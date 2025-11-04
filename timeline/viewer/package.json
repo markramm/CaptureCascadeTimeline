@@ -31,7 +31,7 @@
     "test:all": "react-scripts test --watchAll=false --passWithNoTests",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://markramm.github.io/CaptureCascadeTimeline",
+  "homepage": "https://www.capturecascade.org/viewer",
   "eslintConfig": {
     "extends": [
       "react-app",

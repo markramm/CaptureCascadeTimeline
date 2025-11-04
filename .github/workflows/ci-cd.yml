@@ -185,7 +185,7 @@ jobs:
       - name: Build viewer
         run: |
           cd timeline/viewer
-          npm run build:gh-pages
+          PUBLIC_URL=/viewer npm run build
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
