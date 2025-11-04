@@ -2,6 +2,20 @@ baseURL = 'https://www.capturecascade.org/'
 languageCode = 'en-us'
 title = 'The Capture Cascade Timeline'
 theme = 'cascade'
+buildDrafts = false
+buildFuture = false
+
+[security]
+  [security.exec]
+    allow = ['^(dart-)?sass(-embedded)?$', '^go$', '^npx$', '^postcss$']
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+  [[security.http.headers]]
+    key = 'X-Frame-Options'
+    value = 'SAMEORIGIN'
 
 [params]
   description = 'Documenting the systematic erosion of democratic institutions through 1,945+ verified events'
