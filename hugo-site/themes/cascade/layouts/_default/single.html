@@ -16,18 +16,14 @@
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}"
   },
-  "description": "{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}"{{ with .Params.tags }},
-  "keywords": "{{ delimit . ", " }}"{{ end }}
-  {{ with .Params.actors }}
-  "mentions": [
-    {{ range $index, $actor := . }}{{ if $index }},{{ end }}
-    {
+  "description": "{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
+  {{ with .Params.tags }}"keywords": "{{ delimit . ", " }}",{{ end }}
+  {{ with .Params.actors }}"mentions": [
+    {{ range $index, $actor := . }}{{ if $index }},{{ end }}{
       "@type": "Person",
       "name": "{{ $actor }}"
-    }
-    {{ end }}
-  ],
-  {{ end }}
+    }{{ end }}
+  ],{{ end }}
   "url": "{{ .Permalink }}"
 }
 </script>
