@@ -37,7 +37,7 @@ function App() {
   const [selectedEvent, setSelectedEvent] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [showLanding, setShowLanding] = useState(true);
+  const [showLanding, setShowLanding] = useState(false);
   const [shareNotification, setShareNotification] = useState(null);
   
   // Filter states - initialize from URL or defaults
