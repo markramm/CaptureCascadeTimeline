@@ -198,11 +198,6 @@ jobs:
           rm -rf hugo-site/content/events
           mkdir -p hugo-site/content/events
           cp timeline/data/events/*.md hugo-site/content/events/
-          cp hugo-site/content/events/_index.md hugo-site/content/events/_index.md 2>/dev/null || echo "---
-title: \"Timeline Events\"
-description: \"Comprehensive timeline of institutional capture\"
----
-Browse the complete timeline." > hugo-site/content/events/_index.md
           echo "✅ Copied $(ls hugo-site/content/events/*.md 2>/dev/null | wc -l) event files to Hugo"
 
       - name: Build Hugo site
