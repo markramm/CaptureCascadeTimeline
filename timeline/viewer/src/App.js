@@ -156,7 +156,10 @@ function App() {
       setStats(enhancedStats);
       setError(null);
     } catch (err) {
-      setError('Failed to load timeline data. Please ensure the Research Monitor v2 server is running on port 5558.');
+      const errorMessage = USE_LIVE_API
+        ? 'Failed to load timeline data. Please ensure the Research Monitor v2 server is running on port 5558.'
+        : 'Failed to load timeline data. Please check that the API files are deployed correctly.';
+      setError(errorMessage);
       console.error('Error loading data:', err);
     } finally {
       setLoading(false);

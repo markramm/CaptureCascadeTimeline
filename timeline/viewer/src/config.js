@@ -33,6 +33,10 @@ const getStaticApiPath = (filename) => {
   if (window.location.hostname === 'markramm.github.io') {
     return `/CaptureCascadeTimeline/api/${filename}`;
   }
+  // For capturecascade.org, viewer is at /viewer/ subdirectory
+  if (window.location.hostname.includes('capturecascade.org')) {
+    return `/viewer/api/${filename}`;
+  }
   // For local development or other hosting
   return `/api/${filename}`;
 };
