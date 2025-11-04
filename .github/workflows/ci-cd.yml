@@ -186,15 +186,40 @@ jobs:
         run: |
           cd timeline/viewer
           npm run build:gh-pages
-          
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Hugo site
+        run: |
+          cd hugo-site
+          hugo --minify
+          echo "✅ Hugo site built successfully"
+
+      - name: Merge Hugo and React builds
+        run: |
+          mkdir -p combined-site
+          # Copy Hugo site (becomes root of site)
+          cp -r hugo-site/public/* combined-site/
+          # Copy React viewer into /viewer subdirectory
+          mkdir -p combined-site/viewer
+          cp -r timeline/viewer/build/* combined-site/viewer/
+          echo "✅ Combined Hugo site and React viewer"
+          echo "Hugo site: combined-site/"
+          echo "React viewer: combined-site/viewer/"
+          ls -la combined-site/
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
-        
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./timeline/viewer/build
-          
+          path: ./combined-site
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
