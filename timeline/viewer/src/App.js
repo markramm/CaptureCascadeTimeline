@@ -11,6 +11,7 @@ import NetworkGraph from './components/NetworkGraph';
 import NetworkGraphActors from './components/NetworkGraphActors';
 import DownloadMenu from './components/DownloadMenu';
 import apiService from './services/apiService';
+import { USE_LIVE_API } from './config';
 import { useUrlState } from './hooks/useUrlState';
 import { shareEvent, shareFilteredView } from './utils/shareUtils';
 import { createNewEventIssue, openGitHub } from './utils/githubUtils';
