@@ -3,8 +3,9 @@
 // Phase 2: Integrated with Research Monitor v2 API
 
 const isDevelopment = process.env.NODE_ENV === 'development';
-const isGitHubPages = window.location.hostname.includes('github.io') || 
+const isGitHubPages = window.location.hostname.includes('github.io') ||
                      window.location.pathname.includes('/kleptocracy-timeline');
+const isStaticDeployment = window.location.hostname.includes('capturecascade.org');
 
 // Base URL configuration
 const getBaseUrl = () => {
@@ -23,7 +24,7 @@ const getBaseUrl = () => {
 const BASE_URL = getBaseUrl();
 
 // Determine if we should use live API or static files
-const USE_LIVE_API = isDevelopment || !isGitHubPages;
+const USE_LIVE_API = isDevelopment && !isGitHubPages && !isStaticDeployment;
 
 // API endpoint configuration
 const getLiveApiPath = (endpoint) => `${BASE_URL}/api/${endpoint}`;
