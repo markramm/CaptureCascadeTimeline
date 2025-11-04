@@ -16,8 +16,8 @@
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}"
   },
-  "description": "{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
-  "keywords": "{{ delimit .Params.tags ", " }}",
+  "description": "{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}"{{ with .Params.tags }},
+  "keywords": "{{ delimit . ", " }}"{{ end }}
   {{ with .Params.actors }}
   "mentions": [
     {{ range $index, $actor := . }}{{ if $index }},{{ end }}

@@ -30,6 +30,11 @@
     <!-- JSON-LD Structured Data -->
     {{ block "structured-data" . }}{{ end }}
 
+    <!-- Plausible Analytics - Privacy-respecting, no cookies -->
+    {{ if not .Site.IsServer }}
+    <script defer data-domain="capturecascade.org" src="https://plausible.io/js/script.js"></script>
+    {{ end }}
+
     <style>
         * {
             box-sizing: border-box;
