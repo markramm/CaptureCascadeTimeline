@@ -1,4 +1,4 @@
-baseURL = 'https://markramm.github.io/CaptureCascadeTimeline/'
+baseURL = 'https://www.capturecascade.org/'
 languageCode = 'en-us'
 title = 'The Capture Cascade Timeline'
 theme = 'cascade'
