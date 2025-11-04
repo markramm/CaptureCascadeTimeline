@@ -88,6 +88,31 @@
     </div>
     {{ end }}
 
+    <!-- Contribution Section -->
+    <div class="contribute-section" style="margin-top: 40px; padding: 20px; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #2563eb;">
+        <h3 style="margin-top: 0;">Help Improve This Timeline</h3>
+        <p style="margin-bottom: 15px;">Found an error or have additional information? You can help improve this event.</p>
+        <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            {{ $filePath := printf "timeline/data/events/%s.md" .File.BaseFileName }}
+            <a href="https://github.com/markramm/CaptureCascadeTimeline/edit/main/{{ $filePath }}"
+               target="_blank"
+               rel="noopener noreferrer"
+               style="display: inline-block; padding: 10px 20px; background: #2563eb; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
+                ✏️ Edit This Event
+            </a>
+            <a href="https://github.com/markramm/CaptureCascadeTimeline/issues/new?title=Suggest%20Event&labels=new-event&body=Please%20describe%20the%20event%20you%27d%20like%20to%20add%2C%20including%20date%2C%20title%2C%20summary%2C%20and%20sources."
+               target="_blank"
+               rel="noopener noreferrer"
+               style="display: inline-block; padding: 10px 20px; background: #059669; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
+                ➕ Suggest New Event
+            </a>
+        </div>
+        <p style="margin-top: 15px; margin-bottom: 0; font-size: 0.9rem; color: #666;">
+            <strong>Edit:</strong> Opens GitHub editor to submit corrections or improvements via pull request.<br>
+            <strong>Suggest:</strong> Opens a GitHub issue to propose a new event for the timeline.
+        </p>
+    </div>
+
     <nav class="event-nav" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">
         {{ with .PrevInSection }}
         <a href="{{ .Permalink }}" style="float: left;">← Previous Event</a>
