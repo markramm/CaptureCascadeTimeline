@@ -58,7 +58,7 @@ export const useUrlState = () => {
       showFilters: params.get('filters') !== 'false',
       showStats: params.get('stats') === 'true',
       selectedEventId: params.get('event') || null,
-      showLanding: params.get('landing') === 'true' || (!params.toString() && !window.location.hash)
+      showLanding: params.get('landing') === 'true'
     };
   }, []);
 
