@@ -1,0 +1,12 @@
+name = "Cascade"
+license = "MIT"
+licenselink = "https://github.com/markramm/CaptureCascadeTimeline/blob/main/LICENSE-MIT"
+description = "A clean, SEO-friendly theme for the Capture Cascade Timeline"
+homepage = "https://github.com/markramm/CaptureCascadeTimeline"
+tags = ["timeline", "documentation", "clean", "minimal"]
+features = ["seo", "semantic-html", "json-ld"]
+min_version = "0.115.0"
+
+[author]
+  name = "Capture Cascade Timeline Project"
+  homepage = "https://markramm.github.io/CaptureCascadeTimeline"

@@ -1,0 +1,39 @@
+baseURL = 'https://markramm.github.io/CaptureCascadeTimeline/'
+languageCode = 'en-us'
+title = 'The Capture Cascade Timeline'
+theme = 'cascade'
+
+[params]
+  description = 'Documenting the systematic erosion of democratic institutions through 1,945+ verified events'
+  author = 'Capture Cascade Timeline Project'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+
+[taxonomies]
+  tag = 'tags'
+  actor = 'actors'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+  section = ['HTML', 'RSS']
+
+[menu]
+  [[menu.main]]
+    name = 'Timeline'
+    url = '/events/'
+    weight = 1
+  [[menu.main]]
+    name = 'Interactive Viewer'
+    url = '/viewer/'
+    weight = 2
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 3
+  [[menu.main]]
+    name = 'Contribute'
+    url = '/contribute/'
+    weight = 4

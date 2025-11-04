@@ -1,0 +1,75 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ with .Content }}
+<div class="page-content">
+    {{ . }}
+</div>
+{{ end }}
+
+<div class="event-list">
+    {{ $paginator := .Paginate (.Pages.ByDate.Reverse) 50 }}
+
+    {{ if eq .Kind "section" }}
+    <p style="margin-bottom: 20px; color: #666;">
+        Showing {{ len $paginator.Pages }} of {{ len .Pages }} events
+        {{ with .Params.year }} from {{ . }}{{ end }}
+    </p>
+    {{ end }}
+
+    {{ range $paginator.Pages }}
+    <article class="event-summary" style="margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #e0e0e0;">
+        <h2 style="margin-bottom: 5px;">
+            <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
+        </h2>
+
+        <div class="meta" style="margin-bottom: 10px;">
+            <time datetime="{{ .Params.date }}">{{ .Params.date }}</time>
+            {{ with .Params.importance }}
+            | Importance: <strong>{{ . }}/10</strong>
+            {{ end }}
+        </div>
+
+        {{ with .Summary }}
+        <p>{{ . | truncate 300 }}</p>
+        {{ end }}
+
+        <div style="margin-top: 10px;">
+            {{ with .Params.actors }}
+            {{ range first 5 . }}
+            <span class="actor">{{ . }}</span>
+            {{ end }}
+            {{ if gt (len .) 5 }}
+            <span class="actor">+{{ sub (len .) 5 }} more</span>
+            {{ end }}
+            {{ end }}
+
+            {{ with .Params.tags }}
+            {{ range first 5 . }}
+            <span class="tag">{{ . }}</span>
+            {{ end }}
+            {{ if gt (len .) 5 }}
+            <span class="tag">+{{ sub (len .) 5 }} more</span>
+            {{ end }}
+            {{ end }}
+        </div>
+
+        <a href="{{ .Permalink }}" style="display: inline-block; margin-top: 10px; color: #2563eb;">Read more →</a>
+    </article>
+    {{ end }}
+
+    {{ if gt $paginator.TotalPages 1 }}
+    <nav class="pagination" style="margin-top: 40px; text-align: center;">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" style="margin-right: 10px;">← Newer</a>
+        {{ end }}
+
+        <span style="margin: 0 10px;">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" style="margin-left: 10px;">Older →</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+</div>
+{{ end }}

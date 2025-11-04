@@ -1,0 +1,92 @@
+{{ define "main" }}
+<div class="home-page">
+    <section style="margin-bottom: 40px;">
+        <h2>The Capture Cascade Framework</h2>
+        <p style="font-size: 1.1em; margin: 15px 0;">
+            Democracy doesn't fall gradually—it cascades. Each captured institution enables
+            the capture of three more, creating exponential acceleration.
+        </p>
+
+        <div style="background: #f9f9f9; padding: 20px; border-left: 4px solid #2563eb; margin: 20px 0;">
+            <h3 style="margin-top: 0;">The Pattern:</h3>
+            <ol style="margin-left: 20px;">
+                <li><strong>Capture Oversight</strong> → No one watching</li>
+                <li><strong>Capture Courts</strong> → No legal recourse</li>
+                <li><strong>Capture Enforcement</strong> → Selective prosecution</li>
+                <li><strong>Capture Media</strong> → Public can't see</li>
+                <li><strong>Cascade Accelerates</strong> → Each enables 3 more</li>
+            </ol>
+        </div>
+
+        <div style="background: #fff3cd; padding: 20px; border-left: 4px solid #ffc107; margin: 20px 0;">
+            <h3 style="margin-top: 0;">The Evidence:</h3>
+            <ul style="margin-left: 20px;">
+                <li><strong>1970s:</strong> &lt;1 event/year</li>
+                <li><strong>2010s:</strong> 8 events/year</li>
+                <li><strong>2020s:</strong> 100+ events/year</li>
+            </ul>
+        </div>
+    </section>
+
+    <section style="margin-bottom: 40px;">
+        <h2>Browse the Timeline</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
+            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
+                <h3 style="margin-top: 0;">📅 Chronological View</h3>
+                <p>Browse all {{ len (where .Site.Pages "Section" "events") }} events in chronological order</p>
+                <a href="/events/" style="color: #2563eb;">View All Events →</a>
+            </div>
+
+            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
+                <h3 style="margin-top: 0;">🎯 Interactive Timeline</h3>
+                <p>Explore the timeline with filters, search, and network visualization</p>
+                <a href="/viewer/" style="color: #2563eb;">Open Interactive Viewer →</a>
+            </div>
+
+            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
+                <h3 style="margin-top: 0;">👥 By Actor</h3>
+                <p>Browse events by key actors and organizations</p>
+                <a href="/actors/" style="color: #2563eb;">View Actors →</a>
+            </div>
+
+            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
+                <h3 style="margin-top: 0;">🏷️ By Tag</h3>
+                <p>Explore events by capture lanes and patterns</p>
+                <a href="/tags/" style="color: #2563eb;">View Tags →</a>
+            </div>
+        </div>
+    </section>
+
+    <section style="margin-bottom: 40px;">
+        <h2>Recent Events</h2>
+        {{ $recentEvents := (where .Site.Pages "Section" "events") | first 10 }}
+        {{ range $recentEvents }}
+        <article style="margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #e0e0e0;">
+            <h3 style="margin-bottom: 5px;">
+                <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
+            </h3>
+            <div class="meta" style="margin-bottom: 8px;">
+                <time datetime="{{ .Params.date }}">{{ .Params.date }}</time>
+                {{ with .Params.importance }}| Importance: <strong>{{ . }}/10</strong>{{ end }}
+            </div>
+            {{ with .Summary }}
+            <p style="margin: 0;">{{ . | truncate 200 }}</p>
+            {{ end }}
+        </article>
+        {{ end }}
+        <a href="/events/" style="display: inline-block; margin-top: 10px; color: #2563eb;">View all events →</a>
+    </section>
+
+    <section>
+        <h2>About This Timeline</h2>
+        <p>
+            This timeline documents {{ len (where .Site.Pages "Section" "events") }}+ events showing
+            the systematic capture of democratic institutions. Every event is sourced, every pattern
+            is documented, and every claim can be verified.
+        </p>
+        <p>
+            <a href="/about/" style="color: #2563eb;">Learn more about the project →</a>
+        </p>
+    </section>
+</div>
+{{ end }}

@@ -1,0 +1,105 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "structured-data" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Params.date }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "description": "{{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
+  "keywords": "{{ delimit .Params.tags ", " }}",
+  {{ with .Params.actors }}
+  "mentions": [
+    {{ range $index, $actor := . }}{{ if $index }},{{ end }}
+    {
+      "@type": "Person",
+      "name": "{{ $actor }}"
+    }
+    {{ end }}
+  ],
+  {{ end }}
+  "url": "{{ .Permalink }}"
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+        <div class="meta">
+            <time datetime="{{ .Params.date }}">{{ .Params.date }}</time>
+            {{ with .Params.importance }}
+            | Importance: <strong>{{ . }}/10</strong>
+            {{ end }}
+            {{ with .Params.status }}
+            | Status: <span style="text-transform: capitalize;">{{ . }}</span>
+            {{ end }}
+        </div>
+    </header>
+
+    <div class="content">
+        {{ .Content }}
+    </div>
+
+    {{ with .Params.actors }}
+    <div class="actors">
+        <h3>Key Actors</h3>
+        <div class="tags-list">
+            {{ range . }}
+            <a href="/actors/{{ urlize . }}" class="actor">{{ . }}</a>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+
+    {{ with .Params.tags }}
+    <div class="tags">
+        <h3>Tags</h3>
+        <div class="tags-list">
+            {{ range . }}
+            <a href="/tags/{{ urlize . }}" class="tag">{{ . }}</a>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+
+    {{ with .Params.sources }}
+    <div class="sources">
+        <h4>Sources ({{ len . }})</h4>
+        <ul>
+            {{ range . }}
+            <li>
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                    {{ with .title }}{{ . }}{{ else }}{{ .url }}{{ end }}
+                </a>
+                {{ with .publisher }} - {{ . }}{{ end }}
+                {{ with .date }} ({{ . }}){{ end }}
+                {{ with .tier }} [Tier {{ . }}]{{ end }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    {{ end }}
+
+    <nav class="event-nav" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">
+        {{ with .PrevInSection }}
+        <a href="{{ .Permalink }}" style="float: left;">← Previous Event</a>
+        {{ end }}
+        {{ with .NextInSection }}
+        <a href="{{ .Permalink }}" style="float: right;">Next Event →</a>
+        {{ end }}
+        <div style="clear: both;"></div>
+    </nav>
+</article>
+{{ end }}
