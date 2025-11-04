@@ -193,6 +193,13 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Recreate Hugo events symlink
+        run: |
+          rm -f hugo-site/content/events
+          ln -s ../../timeline/data/events hugo-site/content/events
+          echo "✅ Symlink created: $(ls -la hugo-site/content/events | head -1)"
+          echo "Event count: $(ls hugo-site/content/events/*.md 2>/dev/null | wc -l)"
+
       - name: Build Hugo site
         run: |
           cd hugo-site
