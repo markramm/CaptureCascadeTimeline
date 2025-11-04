@@ -30,6 +30,9 @@
     <!-- JSON-LD Structured Data -->
     {{ block "structured-data" . }}{{ end }}
 
+    <!-- Landing Page Styles -->
+    <link rel="stylesheet" href="{{ "css/landing.css" | absURL }}">
+
     <!-- Privacy-friendly analytics by Plausible -->
     <script async src="https://plausible.io/js/pa-nNROWp3fTa6NVDj4WUHkn.js"></script>
     <script>
@@ -145,9 +148,20 @@
         .sources li {
             margin-bottom: 8px;
         }
+
+        /* Hide default header/footer on landing page */
+        body.home-page > header,
+        body.home-page > footer {
+            display: none;
+        }
+
+        body.home-page {
+            max-width: none;
+            padding: 0;
+        }
     </style>
 </head>
-<body>
+<body{{ if .IsHome }} class="home-page"{{ end }}>
     <header>
         <h1><a href="{{ .Site.BaseURL }}" style="color: inherit; text-decoration: none;">{{ .Site.Title }}</a></h1>
         <p>{{ .Site.Params.description }}</p>

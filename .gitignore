@@ -248,3 +248,5 @@ timeline/data/events/.sources/
 # React viewer coverage and build
 timeline/viewer/coverage/
 timeline/viewer/build/
+hugo-site/public/
+hugo-site/.hugo_build.lock

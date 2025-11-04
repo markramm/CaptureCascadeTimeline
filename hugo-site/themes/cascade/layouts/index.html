@@ -1,92 +1,273 @@
 {{ define "main" }}
-<div class="home-page">
-    <section style="margin-bottom: 40px;">
-        <h2>The Capture Cascade Framework</h2>
-        <p style="font-size: 1.1em; margin: 15px 0;">
-            Democracy doesn't fall gradually—it cascades. Each captured institution enables
-            the capture of three more, creating exponential acceleration.
+<div class="landing-page">
+  <div class="landing-content">
+
+    <!-- Hero Header -->
+    <header class="landing-header">
+      <h1>The Capture Cascade Timeline</h1>
+      <p class="tagline">Documenting Systematic Institutional Capture</p>
+      <a href="/viewer/" class="hero-enter-btn">Explore Timeline</a>
+    </header>
+
+    <!-- Cascade Framework Section -->
+    <section class="cascade-framework">
+      <h2>The Capture Cascade Framework</h2>
+      <div class="cascade-explanation">
+        <p class="cascade-intro">
+          This timeline documents a repeating pattern of institutional capture that accelerates corruption and
+          centralizes power. Understanding this pattern helps us recognize early warning signs.
         </p>
 
-        <div style="background: #f9f9f9; padding: 20px; border-left: 4px solid #2563eb; margin: 20px 0;">
-            <h3 style="margin-top: 0;">The Pattern:</h3>
-            <ol style="margin-left: 20px;">
-                <li><strong>Capture Oversight</strong> → No one watching</li>
-                <li><strong>Capture Courts</strong> → No legal recourse</li>
-                <li><strong>Capture Enforcement</strong> → Selective prosecution</li>
-                <li><strong>Capture Media</strong> → Public can't see</li>
-                <li><strong>Cascade Accelerates</strong> → Each enables 3 more</li>
-            </ol>
+        <div class="cascade-pattern">
+          <div class="cascade-step">
+            <div class="step-number">1</div>
+            <div>
+              <strong>Crisis Creation:</strong> Real or manufactured crises generate public fear and
+              demand for immediate action
+            </div>
+          </div>
+
+          <div class="cascade-step">
+            <div class="step-number">2</div>
+            <div>
+              <strong>Emergency Powers:</strong> Leaders claim extraordinary authority to "solve" the crisis,
+              bypassing normal checks
+            </div>
+          </div>
+
+          <div class="cascade-step">
+            <div class="step-number">3</div>
+            <div>
+              <strong>Regulatory Capture:</strong> Industries write their own rules through favorable appointments
+              and gutted oversight
+            </div>
+          </div>
+
+          <div class="cascade-step">
+            <div class="step-number">4</div>
+            <div>
+              <strong>Accountability Elimination:</strong> Watchdogs are fired, inspectors generals removed,
+              whistleblowers silenced
+            </div>
+          </div>
+
+          <div class="cascade-step">
+            <div class="step-number">5</div>
+            <div>
+              <strong>System Capture:</strong> The new corrupt normal becomes entrenched, making future
+              corruption easier
+            </div>
+          </div>
         </div>
 
-        <div style="background: #fff3cd; padding: 20px; border-left: 4px solid #ffc107; margin: 20px 0;">
-            <h3 style="margin-top: 0;">The Evidence:</h3>
-            <ul style="margin-left: 20px;">
-                <li><strong>1970s:</strong> &lt;1 event/year</li>
-                <li><strong>2010s:</strong> 8 events/year</li>
-                <li><strong>2020s:</strong> 100+ events/year</li>
-            </ul>
+        <div class="cascade-evidence">
+          <p><strong>The pattern is accelerating:</strong></p>
+          <div class="acceleration-stats">
+            <div class="era">
+              1970-2000
+              <strong>~8 events/year</strong>
+            </div>
+            <div class="era">
+              2001-2016
+              <strong>~28 events/year</strong>
+            </div>
+            <div class="era">
+              2017-2020
+              <strong>~68 events/year</strong>
+            </div>
+            <div class="era">
+              2021-2025
+              <strong>~95 events/year</strong>
+            </div>
+          </div>
+          <p class="cascade-warning">
+            Each cycle of capture makes the next cycle faster and more severe. This is not a series of
+            isolated incidents—it's a systematic erosion of democratic safeguards.
+          </p>
         </div>
+      </div>
     </section>
 
-    <section style="margin-bottom: 40px;">
-        <h2>Browse the Timeline</h2>
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 20px;">
-            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
-                <h3 style="margin-top: 0;">📅 Chronological View</h3>
-                <p>Browse all {{ len (where .Site.Pages "Section" "events") }} events in chronological order</p>
-                <a href="/events/" style="color: #2563eb;">View All Events →</a>
-            </div>
+    <!-- Mission Statement -->
+    <section class="mission">
+      <h2>Our Mission</h2>
+      <p>
+        This timeline documents the systematic capture of democratic institutions through verified events,
+        executive orders, appointments, and policy changes.
+      </p>
+      <p>
+        By connecting the dots between seemingly isolated events, we reveal patterns of institutional capture,
+        regulatory erosion, and the consolidation of power that threaten democratic accountability.
+      </p>
+    </section>
 
-            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
-                <h3 style="margin-top: 0;">🎯 Interactive Timeline</h3>
-                <p>Explore the timeline with filters, search, and network visualization</p>
-                <a href="/viewer/" style="color: #2563eb;">Open Interactive Viewer →</a>
-            </div>
+    <!-- Stats Preview -->
+    <section class="stats-preview">
+      <div class="stat-card">
+        <div class="stat-number" id="total-events">{{ len (where .Site.Pages "Section" "events") }}+</div>
+        <div class="stat-label">Total Events</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="total-actors">380+</div>
+        <div class="stat-label">Key Actors</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="total-tags">250+</div>
+        <div class="stat-label">Tags</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="date-range">1973-2025</div>
+        <div class="stat-label">Years Covered</div>
+      </div>
+    </section>
 
-            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
-                <h3 style="margin-top: 0;">👥 By Actor</h3>
-                <p>Browse events by key actors and organizations</p>
-                <a href="/actors/" style="color: #2563eb;">View Actors →</a>
-            </div>
+    <!-- Key Findings -->
+    <section class="key-findings">
+      <h2>Key Findings</h2>
+      <ul>
+        <li><strong>Accelerating Capture:</strong> The rate of institutional capture events has increased 10x from the 1970s to 2020s</li>
+        <li><strong>Systematic Pattern:</strong> Similar capture techniques repeat across different agencies and time periods</li>
+        <li><strong>Regulatory Collapse:</strong> Oversight agencies systematically weakened through defunding, leadership removal, and policy changes</li>
+        <li><strong>Network Effects:</strong> The same actors and organizations appear repeatedly across different capture events</li>
+        <li><strong>Democracy Risk:</strong> Concentration of unchecked power threatens the foundations of democratic governance</li>
+      </ul>
+    </section>
 
-            <div style="padding: 20px; background: #f9f9f9; border-radius: 8px;">
-                <h3 style="margin-top: 0;">🏷️ By Tag</h3>
-                <p>Explore events by capture lanes and patterns</p>
-                <a href="/tags/" style="color: #2563eb;">View Tags →</a>
-            </div>
+    <!-- How to Use -->
+    <section class="how-to-use">
+      <h2>How to Use This Timeline</h2>
+      <div class="usage-cards">
+        <div class="usage-card">
+          <h3>Browse Events</h3>
+          <p>Explore <a href="/events/">all events</a> chronologically to see the full scope of institutional capture</p>
         </div>
+        <div class="usage-card">
+          <h3>Search & Filter</h3>
+          <p>Use the <a href="/viewer/">interactive viewer</a> to search by keywords, actors, or tags</p>
+        </div>
+        <div class="usage-card">
+          <h3>Track Actors</h3>
+          <p>Browse by <a href="/actors/">actors</a> to see patterns of behavior across different contexts</p>
+        </div>
+        <div class="usage-card">
+          <h3>Analyze Patterns</h3>
+          <p>Identify connections and recurring themes using <a href="/tags/">tags</a> and categories</p>
+        </div>
+      </div>
     </section>
 
-    <section style="margin-bottom: 40px;">
-        <h2>Recent Events</h2>
-        {{ $recentEvents := (where .Site.Pages "Section" "events") | first 10 }}
-        {{ range $recentEvents }}
-        <article style="margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px solid #e0e0e0;">
-            <h3 style="margin-bottom: 5px;">
-                <a href="{{ .Permalink }}" style="color: inherit; text-decoration: none;">{{ .Title }}</a>
-            </h3>
-            <div class="meta" style="margin-bottom: 8px;">
-                <time datetime="{{ .Params.date }}">{{ .Params.date }}</time>
-                {{ with .Params.importance }}| Importance: <strong>{{ . }}/10</strong>{{ end }}
-            </div>
-            {{ with .Summary }}
-            <p style="margin: 0;">{{ . | truncate 200 }}</p>
-            {{ end }}
-        </article>
-        {{ end }}
-        <a href="/events/" style="display: inline-block; margin-top: 10px; color: #2563eb;">View all events →</a>
+    <!-- CTA Section -->
+    <section class="cta-section">
+      <a href="/viewer/" class="enter-timeline-btn-bottom">Enter Interactive Timeline</a>
+
+      <div class="external-links">
+        <a href="https://github.com/markramm/KleptocracyTimeline" class="link-card" target="_blank" rel="noopener">
+          <div class="link-icon">📂</div>
+          <div>
+            <div class="link-title">View on GitHub</div>
+            <div class="link-desc">Open source timeline data and code</div>
+          </div>
+        </a>
+        <a href="https://markramm.substack.com" class="link-card" target="_blank" rel="noopener">
+          <div class="link-icon">📰</div>
+          <div>
+            <div class="link-title">Subscribe on Substack</div>
+            <div class="link-desc">Get updates and analysis</div>
+          </div>
+        </a>
+      </div>
     </section>
 
-    <section>
-        <h2>About This Timeline</h2>
+    <!-- Contribute Section -->
+    <section class="contribute">
+      <h2>Contribute</h2>
+      <div class="contribute-options">
+        <div class="contribute-card">
+          <h3>Submit Events</h3>
+          <p>Help expand the timeline by submitting well-documented events with reliable sources.</p>
+          <a href="https://github.com/markramm/KleptocracyTimeline/blob/main/CONTRIBUTING.md" target="_blank">Contribution Guidelines →</a>
+        </div>
+        <div class="contribute-card">
+          <h3>Improve Documentation</h3>
+          <p>Enhance existing entries with additional context, sources, or corrections.</p>
+          <a href="https://github.com/markramm/KleptocracyTimeline/issues" target="_blank">Open an Issue →</a>
+        </div>
+        <div class="contribute-card">
+          <h3>Share & Spread</h3>
+          <p>Help others understand these patterns by sharing the timeline with your networks.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Disclaimer -->
+    <section class="disclaimer">
+      <h2>Disclaimer & Methodology</h2>
+      <p>
+        This timeline presents factual events documented from credible sources. Each entry includes dates,
+        descriptions, and source links. We strive for accuracy and welcome corrections.
+      </p>
+      <p>
+        The "importance" ratings reflect the event's significance in the broader pattern of institutional
+        capture, not political alignment. Events are included based on their documented impact on democratic
+        institutions and governance.
+      </p>
+      <div class="license-info">
+        <strong>License:</strong> This timeline is released under Creative Commons Attribution 4.0 International (CC BY 4.0).
+        You are free to share and adapt the material with attribution.
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="landing-footer">
+      <a href="/viewer/" class="enter-timeline-btn-bottom">Explore the Timeline</a>
+
+      <p class="footer-tagline">
+        "The price of liberty is eternal vigilance. This timeline is our collective watch."
+      </p>
+
+      <div class="footer-legal">
         <p>
-            This timeline documents {{ len (where .Site.Pages "Section" "events") }}+ events showing
-            the systematic capture of democratic institutions. Every event is sourced, every pattern
-            is documented, and every claim can be verified.
+          <strong>Data Quality:</strong> All events are verified against multiple credible sources.
+          We prioritize primary sources, government documents, and established news organizations.
+          If you find an error, please <a href="https://github.com/markramm/KleptocracyTimeline/issues" target="_blank">report it</a>.
         </p>
         <p>
-            <a href="/about/" style="color: #2563eb;">Learn more about the project →</a>
+          <strong>Updates:</strong> This timeline is actively maintained and updated as new events
+          occur and historical context emerges. Star the project on GitHub to follow updates.
         </p>
-    </section>
+        <div class="footer-copyright">
+          © 2024 Capture Cascade Timeline Project |
+          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a> |
+          <a href="https://github.com/markramm/KleptocracyTimeline" target="_blank" rel="noopener">GitHub</a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
 </div>
+
+<!-- Load stats dynamically from API if available -->
+<script>
+  // Try to fetch real stats from API
+  fetch('/api/stats.json')
+    .then(response => response.json())
+    .then(data => {
+      if (data.total_events) {
+        document.getElementById('total-events').textContent = data.total_events.toLocaleString() + '+';
+      }
+      if (data.unique_actors) {
+        document.getElementById('total-actors').textContent = data.unique_actors + '+';
+      }
+      if (data.unique_tags) {
+        document.getElementById('total-tags').textContent = data.unique_tags + '+';
+      }
+      if (data.date_range) {
+        const years = data.date_range.min_year + '-' + data.date_range.max_year;
+        document.getElementById('date-range').textContent = years;
+      }
+    })
+    .catch(error => {
+      console.log('Stats API not available, using server-rendered values');
+    });
+</script>
 {{ end }}
