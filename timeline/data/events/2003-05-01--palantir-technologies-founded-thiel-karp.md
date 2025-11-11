@@ -1,0 +1,49 @@
+---
+id: 2003-05-01--palantir-technologies-founded-thiel-karp
+date: '2003-05-01'
+title: Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
+importance: 8
+tags:
+- palantir
+- peter-thiel
+- alex-karp
+- surveillance-infrastructure
+- founding
+- TIA
+- CIA
+- In-Q-Tel
+- mass-surveillance
+actors:
+- Peter Thiel
+- Alex Karp
+- Nathan Gettings
+- Joe Lonsdale
+- Stephen Cohen
+- John Poindexter
+- In-Q-Tel
+- CIA
+sources:
+- url: https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/
+  title: How Peter Thiel's Palantir Helped the NSA Spy on the Whole World
+  publisher: The Intercept
+  date: '2017-02-22'
+  tier: 1
+- url: https://en.wikipedia.org/wiki/Palantir_Technologies
+  title: Palantir Technologies
+  publisher: Wikipedia
+  date: '2024-01-15'
+  tier: 2
+- url: https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/
+  title: How Your Tax Dollars Built Palantir's Global Surveillance Empire
+  publisher: Technocracy News
+  date: '2023-08-15'
+  tier: 2
+---
+
+Palantir Technologies was officially incorporated in May 2003 by Peter Thiel and PayPal alumni, just months after Congress defunded DARPA's Total Information Awareness (TIA) program due to privacy concerns. The founders met with John Poindexter, the recently fired director of Total Information Awareness, who told them they had 'an interesting idea.' The five co-founders included Peter Thiel (PayPal co-founder and venture capitalist), Nathan Gettings (PayPal engineer), Joe Lonsdale (Stanford University student), Stephen Cohen (Stanford University student), and Alex Karp, who joined as CEO in 2004.
+
+Palantir drew its first funding from In-Q-Tel, the CIA's venture capital arm, which invested over $2 million in the nascent company. This CIA investment ensured that the surveillance technologies developed under TIA—which Congress had banned due to privacy concerns about government mass surveillance—could continue development under private sector cover with intelligence community funding and oversight. Palantir's architecture closely mirrors TIA's original design: integrating disparate databases, applying advanced analytics to identify patterns, and enabling intelligence agencies to track individuals across multiple data sources. The company's name derives from the palantíri, the "seeing stones" in J.R.R. Tolkien's Lord of the Rings that allowed users to see distant events. In 2004, Thiel bankrolled the creation of a prototype and hired Karp, his former colleague from Stanford Law School, as chief executive officer.
+
+The founding represented a pivot point where Silicon Valley technology would be deliberately designed for government surveillance and intelligence applications. Unlike most tech startups that sought commercial markets first, Palantir was explicitly built to serve intelligence agencies and law enforcement from inception. Thiel personally funded the initial $30 million cost when traditional venture capital firms showed little interest in a company focused on government contracts rather than consumer products.
+
+Palantir's founding occurred in the post-9/11 environment when the Department of Homeland Security was newly created (2002) and intelligence agencies were under pressure to improve information sharing and threat detection. The company positioned itself to capitalize on the massive expansion of surveillance infrastructure and counterterrorism spending that followed the attacks.
