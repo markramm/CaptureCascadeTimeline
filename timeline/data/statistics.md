@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-11 16:43:37
+Generated: 2025-11-11 16:44:21
 
 ## Overview
-- **Total Events**: 1957
+- **Total Events**: 1980
 - **Date Range**: 1142-01-01 to 2025-11-10
-- **Total Sources**: 6491
-- **Unique Tags**: 3773
-- **Unique Actors**: 3671
+- **Total Sources**: 6559
+- **Unique Tags**: 3819
+- **Unique Actors**: 3676
 
 ## Event Status
 - **Unknown**: 331
-- **Confirmed**: 1578
+- **Confirmed**: 1601
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -37,12 +37,12 @@ Generated: 2025-11-11 16:43:37
 - conflict-of-interest: 74 events
 
 ## Top Actors
-- Donald Trump: 741 events
+- Donald Trump: 751 events
 - Trump Administration: 295 events
 - Elon Musk: 160 events
 - Department of Justice: 112 events
-- Pam Bondi: 58 events
-- Jeffrey Epstein: 52 events
+- Pam Bondi: 66 events
+- Jeffrey Epstein: 53 events
 - Dick Cheney: 51 events
 - White House: 51 events
 - Supreme Court: 49 events
@@ -87,26 +87,26 @@ Generated: 2025-11-11 16:43:37
 - 2000: 13 events
 - 2001: 22 events
 - 2002: 58 events
-- 2003: 20 events
+- 2003: 21 events
 - 2004: 17 events
 - 2005: 16 events
 - 2006: 9 events
-- 2007: 10 events
+- 2007: 11 events
 - 2008: 17 events
 - 2009: 17 events
 - 2010: 17 events
-- 2011: 8 events
+- 2011: 11 events
 - 2012: 11 events
-- 2013: 17 events
-- 2014: 24 events
+- 2013: 19 events
+- 2014: 25 events
 - 2015: 10 events
 - 2016: 34 events
-- 2017: 80 events
+- 2017: 81 events
 - 2018: 40 events
-- 2019: 47 events
+- 2019: 53 events
 - 2020: 38 events
-- 2021: 42 events
+- 2021: 45 events
 - 2022: 43 events
 - 2023: 55 events
 - 2024: 105 events
-- 2025: 1020 events
+- 2025: 1025 events

@@ -2103,6 +2103,12 @@
 2. [Rebuilding Iraq: Resource, Security, Governance, Essential Services](https://www.gao.gov/products/gao-04-902r)
 3. [State Rebuilding in Reverse](https://merip.org/2004/12/state-rebuilding-in-reverse/)
 
+## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
+*Date: 2003-10-01*
+
+1. [4chan](https://en.wikipedia.org/wiki/4chan)
+2. [Moot: the 4chan founder who sparked Anonymous](https://www.theguardian.com/technology/2015/jan/21/moot-christopher-poole-4chan)
+
 ## Bush Administration Hides 39B Medicare Part D Cost from Congress
 *Date: 2003-11-25*
 
@@ -2418,6 +2424,13 @@
 1. [An Investigation into the Removal of Nine U.S. Attorneys in 2006](https://oig.justice.gov/sites/default/files/archive/special/s0809a/final.pdf)
 2. [Timeline: Behind the Firing of Eight U.S. Attorneys](https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys)
 3. [Gonzales Resigns as Attorney General](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html)
+
+## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
+*Date: 2007-03-01*
+
+1. [Email from 2007 ties Trump adviser Stephen Miller to neo-Nazi Richard Spencer](https://electronicintifada.net/blogs/michael-f-brown/email-2007-ties-trump-adviser-stephen-miller-neo-nazi-richard-spencer)
+2. [Richard Spencer on Stephen Miller: Clearly I Was Influencing Him in College](https://www.peoplefor.org/rightwingwatch/post/richard-spencer-on-stephen-miller-clearly-i-was-influencing-him-in-college)
+3. [The White Nationalist Education of Stephen Miller](https://gen.medium.com/the-white-nationalist-education-of-stephen-miller-3d69f5f19964)
 
 ## Scooter Libby Convicted on Four Counts in CIA Leak Case
 *Date: 2007-03-06*
@@ -2878,6 +2891,13 @@
 3. [FDA's Revolving Door: A Pattern of Potential Bias in Drug Regulation](https://www.statnews.com/analysis/2016/09/28/fda-drug-review-revolving-door/)
 4. [FDA's Revolving Door: Reckoning and Reform](https://law.stanford.edu/wp-content/uploads/2023/03/SLPR_Karas.pdf)
 
+## Pam Bondi Serves as Florida AG 2011-2019, Never Prosecutes Epstein Despite Mounting Evidence
+*Date: 2011-01-01*
+
+1. [Bondi Has Been Failing Epstein's Victims for Years](https://www.bloomberg.com/opinion/articles/2025-07-27/bondi-has-been-failing-epstein-s-victims-for-years)
+2. [Could Pam Bondi have prosecuted Jeffrey Epstein?](https://www.yahoo.com/news/could-pam-bondi-prosecuted-jeffrey-120200807.html)
+3. [Julie K. Brown statement on Bondi and Epstein](https://x.com/jkbjournalist/status/1895138335099658275)
+
 ## Erik Prince Receives $529M Contract to Build Secret Mercenary Army for UAE Crown Prince
 *Date: 2011-01-01*
 
@@ -2905,6 +2925,20 @@
 1. [Deepwater Horizon Oil Spill: Preliminary Assessment of Federal Financial Risks and Claims Processing](https://www.gao.gov/assets/a97170.html)
 2. [Natural Resource Trustees Announce Deepwater Horizon Oil Spill Restoration Agreement](https://www.justice.gov/opa/pr/natural-resource-trustees-deepwater-horizon-oil-spill-announce-1-billion-agreement-fund-early)
 3. [10 Years of NOAA's Work After the Deepwater Horizon Oil Spill: A Timeline](https://www.fisheries.noaa.gov/national/habitat-conservation/10-years-noaas-work-after-deepwater-horizon-oil-spill-timeline)
+
+## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
+*Date: 2011-05-01*
+
+1. [When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/justice/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/)
+2. [Attorney General Pam Bondi's Motive Questioned in Firing of Mortgage Fraud Investigators](https://flaglerlive.com/pam-bondi-fires-mortgage-attorneys/)
+3. [Report: Trump AG Pick Bondi Frequently Sold Out Her Former Office](https://accountable.us/report-trump-ag-pick-bondi-frequently-sold-out-her-former-office-to-big-corporate-donors-at-publics-expense/)
+
+## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
+*Date: 2011-05-01*
+
+1. [When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/justice/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/)
+2. [Attorney General Pam Bondi's Motive Questioned in Firing of Mortgage Fraud Investigators](https://flaglerlive.com/pam-bondi-fires-mortgage-attorneys/)
+3. [Report: Trump AG Pick Bondi Frequently Sold Out Her Former Office](https://accountable.us/report-trump-ag-pick-bondi-frequently-sold-out-her-former-office-to-big-corporate-donors-at-publics-expense/)
 
 ## FCC Commissioner Meredith Baker Joins Comcast Four Months After Approving NBC Universal Merger
 *Date: 2011-05-11*
@@ -3126,6 +3160,20 @@
 2. [How the FAA Ceded Aviation Safety Oversight to Boeing](https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing)
 3. [FAA's Ali Bahrami to Step Down](https://www.corporatejetinvestor.com/news/faas-ali-bahrami-to-step-down-338/)
 
+## Pam Bondi Receives Illegal $25,000 Trump Foundation Donation During Trump University Investigation
+*Date: 2013-09-17*
+
+1. [The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/)
+2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
+3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
+
+## Pam Bondi Receives Illegal $25,000 Trump Foundation Donation During Trump University Investigation
+*Date: 2013-09-17*
+
+1. [The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/)
+2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
+3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
+
 ## Healthcare.gov Launch Disaster Costs $1.7B from $93M Contract
 *Date: 2013-10-01*
 
@@ -3305,6 +3353,13 @@
 2. [MH17 crisis a wake-up call to Europe over sanctions, says Obama](https://www.cnbc.com/2014/07/19/mh17-crisis-a-wake-up-call-to-europe-over-sanctions-says-obama.html)
 3. [Russia defiant as US, EU unveil 'phase three' sanctions](https://www.france24.com/en/20140730-russia-defiant-usa-eu-phase-three-sectoral-sanctions)
 4. [Sectoral Sanctions Identifications List (Original July 2014 Release)](https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx)
+
+## Gamergate Begins: 4chan Harassment Campaign Becomes Political Mobilization Blueprint
+*Date: 2014-08-16*
+
+1. [Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream](https://www.buzzfeednews.com/article/josephbernstein/heres-how-breitbart-and-milo-smuggled-white-nationalism)
+2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
+3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
 
 ## Model Files Federal Lawsuit Against Trump Model Management for Wage Theft
 *Date: 2014-10-01*
@@ -3779,6 +3834,13 @@
 1. [Mar-a-Lago membership fee doubles to $400,000](https://www.cnbc.com/2017/01/25/mar-a-lago-membership-fee-doubles-to-400000.html)
 2. [The Swamp That Trump Built at Mar-a-Lago](https://www.nytimes.com/2019/03/16/us/mar-a-lago-trump.html)
 3. [Chinese woman with malware arrested at Mar-a-Lago](https://www.bbc.com/news/world-us-canada-47787753)
+
+## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
+*Date: 2017-01-27*
+
+1. [Two Courts Find That, Yes, It Was a Muslim Ban All Along](https://www.aclu.org/news/immigrants-rights/two-courts-find-yes-it-was-muslim-ban-all-along)
+2. [Stephen Miller: A driving force behind the Muslim ban and family separation policy](https://www.splcenter.org/hatewatch/2019/02/25/stephen-miller-driving-force-behind-muslim-ban-and-family-separation-policy)
+3. [Executive Order 13769](https://en.wikipedia.org/wiki/Executive_Order_13769)
 
 ## Trump Demands Loyalty from FBI Director Comey at Private White House Dinner
 *Date: 2017-01-27*
@@ -4569,6 +4631,20 @@
 2. ['Hillbilly Elegy' author starts Ohio-based VC fund backed by Peter Thiel](https://www.crainscleveland.com/finance/hillbilly-elegy-author-starts-ohio-based-vc-fund-backed-peter-thiel)
 3. [James David Vance - Co-Founder and Partner @ Narya Capital](https://www.crunchbase.com/person/j-d-vance)
 
+## Pam Bondi Joins Ballard Partners as Lobbyist, Monetizing Government Connections
+*Date: 2019-01-15*
+
+1. [Pam Bondi's Extensive Lobbying Poses Serious Conflict of Interest](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest)
+2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
+3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
+
+## Pam Bondi Joins Ballard Partners as Lobbyist, Monetizing Government Connections
+*Date: 2019-01-15*
+
+1. [Pam Bondi's Extensive Lobbying Poses Serious Conflict of Interest](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest)
+2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
+3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
+
 ## Erik Prince's Frontier Services Group Announces Xinjiang Training Facility Amid Uyghur Detention Campaign
 *Date: 2019-02-01*
 
@@ -4606,6 +4682,13 @@
 1. [T-Mobile spent $195,000 at Trump hotel since merger announcement](https://www.reuters.com/article/us-sprint-corp-m-a-trump/t-mobile-spent-195000-at-trump-hotel-in-d-c-since-merger-announcement-idUSKCN1QM1ZY/)
 2. [T-Mobile spent more at Trump Hotel in Washington after news of Sprint merger](https://abcnews.go.com/Politics/mobile-spent-trump-hotel-washington-news-sprint-merger/story?id=61484069)
 3. [Antitrust Enforcement After T-Mobile and Sprint Merger](https://journals.library.columbia.edu/index.php/CBLR/announcement/view/286)
+
+## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
+*Date: 2019-03-15*
+
+1. [Christchurch shootings: 49 killed in New Zealand mosque attacks](https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead)
+2. [New Zealand Mosque Shootings Kill 49](https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html)
+3. [Platforms struggle with extremist content after shootings](https://www.npr.org/2019/08/05/748420957/facebook-youtube-twitter-say-they-are-removing-content-tied-to-el-paso-shooting)
 
 ## Trump Claims Absolute Immunity from Congressional Oversight
 *Date: 2019-04-09*
@@ -4763,6 +4846,20 @@
 2. [Jeffrey Epstein Charged With Sex Trafficking of Girls as Young as 14](https://www.nytimes.com/2019/07/06/nyregion/jeffrey-epstein-arrested-sex-trafficking.html)
 3. [Billionaire Jeffrey Epstein arrested on federal charges of sex trafficking minors](https://www.cnn.com/2019/07/06/us/jeffrey-epstein-arrested-sex-trafficking/index.html)
 
+## Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
+*Date: 2019-07-25*
+
+1. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
+2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
+3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
+
+## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
+*Date: 2019-08-03*
+
+1. [El Paso Shooting Suspect's Manifesto Echoes Trump's Language](https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html)
+2. [El Paso shooting suspect said he targeted Mexicans](https://www.washingtonpost.com/national/el-paso-shooting-suspect-told-officers-he-was-targeting-mexicans-police-say/2019/08/09/)
+3. [El Paso Walmart shooting leaves 20 dead](https://www.cnn.com/2019/08/03/us/el-paso-shooting/index.html)
+
 ## Bernie Sanders Appears on Joe Rogan Experience, Rogan Later Endorses Sanders for President
 *Date: 2019-08-06*
 
@@ -4866,6 +4963,13 @@
 1. [Groypers](https://en.wikipedia.org/wiki/Groypers)
 2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
 3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
+
+## SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites
+*Date: 2019-11-12*
+
+1. [Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails](https://www.splcenter.org/hatewatch/2019/11/12/stephen-millers-affinity-white-nationalism-revealed-leaked-emails)
+2. [Leaked Stephen Miller emails suggest White House aide promoted white nationalism](https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/)
+3. [Stephen Miller And White Nationalism](https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism)
 
 ## Trump Signs Defense Bill Creating Space Force
 *Date: 2019-12-20*
@@ -5191,6 +5295,13 @@
 3. [House Report 117-200: Resolution Finding Jeffrey Clark in Contempt of Congress](https://www.congress.gov/committee-report/117th-congress/house-report/200/1)
 4. [January 6 Select Committee Final Report, Volume II: Findings of the Investigation](https://www.congress.gov/committee-report/117th-congress/house-report/692/1)
 
+## Stephen Miller Writes Trump's January 6 Ellipse Speech, Adds Language About Pence Overturning Election
+*Date: 2021-01-06*
+
+1. [Donald Trump adviser Stephen Miller grilled about rally that preceded Jan. 6 insurrection](https://www.pbs.org/newshour/politics/donald-trump-adviser-stephen-miller-grilled-about-rally-that-preceded-jan-6-insurrection)
+2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
+3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
+
 ## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
 *Date: 2021-01-06*
 
@@ -5227,6 +5338,13 @@
 1. [Donald Trump's Phone Will Provide Critical Evidence in Jack Smith Trial](https://www.newsweek.com/donald-trump-phone-jack-smith-trial-1963160)
 2. [Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump](https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html)
 3. [Report of Special Counsel Smith Volume 1 January 2025](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
+
+## Russell Vought Founds Center for Renewing America, Christian Nationalist Policy Shop for Trump Return
+*Date: 2021-01-15*
+
+1. [The Theocratic Blueprint for Trump's Next Term](https://www.thenation.com/article/society/russell-vought-center-renewing-america-christian-nationalism/)
+2. [Russell Vought: The gung-ho Christian nationalist who helps Trump be Trump](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)
+3. [OMB's Russell Vought, the Christian 'nation-ist' driving Project 2025 and DOGE](https://religionnews.com/2025/06/23/ombs-russell-vought-the-christian-nation-ist-driving-project-2025-and-dogeruss-vought/)
 
 ## Navalny Investigation Reveals Putin's Palace Complex
 *Date: 2021-01-19*
@@ -5278,6 +5396,13 @@
 1. [New Noem Nepotism - Governor Fires Appraisal Chief Who Delayed Daughter's License, Pays $200K to Shut Her Up](https://dakotafreepress.com/2021/09/27/new-noem-nepotism-governor-fires-appraisal-chief-who-delayed-daughters-license-pays-200k-to-shut-her-up/)
 2. [Questions Arise About Gov. Noem And The Early Retirement Of A South Dakota Official](https://www.npr.org/2021/09/29/1041512901/questions-arise-about-gov-noem-and-the-early-retirement-of-a-south-dakota-offici)
 3. [Noem Administration Pays $200,000 to Settle Age Discrimination Allegation](https://www.sdpb.org/politics/2021-09-28/noem-administration-pays-200-000-to-settle-allegation-of-age-discrimination)
+
+## Stephen Miller Founds America First Legal to Challenge Biden Administration and Advance White Nationalist Agenda
+*Date: 2021-04-06*
+
+1. [America First Legal](https://en.wikipedia.org/wiki/America_First_Legal)
+2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
+3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
 
 ## Trump calls Bitcoin 'a scam' competing with the dollar
 *Date: 2021-06-01*
@@ -7949,6 +8074,13 @@
 1. [Zeldin announces 65% EPA workforce reduction, terminates climate funding](https://insideclimatenews.org/news/10022025/zeldin-epa-cuts-climate-grants/)
 2. [EPA chief plans to eliminate scientific research division](https://www.theguardian.com/environment/2025/feb/11/epa-zeldin-workforce-science-cuts)
 3. [EPA Seeks to Reduce Workforce and Budget to Reagan-Era Levels](https://www.npr.org/2025/02/10/nx-s1-5280155/lee-zeldin-epa-workforce-cuts)
+
+## Stephen Miller Emerges as "Prime Minister" with Unprecedented Power Across All Policy
+*Date: 2025-02-10*
+
+1. [Stephen Miller is more powerful in the White House than ever](https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house/index.html)
+2. [Stephen Miller re-emerges as an 'untouchable' force in Trump's White House](https://www.nbcnews.com/politics/trump-administration/stephen-miller-untouchable-force-trump-white-house-rcna206180)
+3. [How White House adviser Stephen Miller is running Trump's D.C. takeover](https://www.washingtonpost.com/politics/2025/09/05/trump-dc-takeover-stephen-miller-white-house/)
 
 ## Musk Recruits Engineers for Department of Government Efficiency via Targeted Online Networks
 *Date: 2025-02-10*
@@ -13846,6 +13978,13 @@
 
 1. [Trump Demands $230M from Justice Department](https://www.nytimes.com/2025/10/21/us/politics/trump-doj-reimbursement-demand.html)
 
+## Russ Vought Emerges as "Shadow President" Running Government During Trump Disengagement
+*Date: 2025-10-21*
+
+1. [Shadow President: Project 2025 Architect Russell Vought Using Shutdown to Gut Agencies](https://www.democracynow.org/2025/10/21/russell_vought_propublica_shadow_president)
+2. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
+3. [Trump's Decline and the Rise of a Shadow Government](https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/)
+
 ## Trump Installs Election Deniers in DHS Election Security Positions
 *Date: 2025-10-22*
 
@@ -13872,6 +14011,13 @@
 *Date: 2025-10-22*
 
 1. [Trump Prioritizes White South Africans in Refugee Admissions](https://www.washingtonpost.com/immigration/2025/10/22/trump-refugee-admissions-afrikaners/)
+
+## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
+*Date: 2025-10-22*
+
+1. [Trump plans to demolish White House East Wing as ballroom cost grows to $300 million](https://www.cbsnews.com/news/demolish-white-house-east-wing-ballroom-trump-cost/)
+2. [Trump defends East Wing demolition and raises ballroom price to $300 million](https://www.washingtonpost.com/politics/2025/10/22/trump-white-house-ballroom/)
+3. [Trump plows ahead with East Wing demolition despite calls for caution](https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump)
 
 ## Trump Orders Demolition of Historic White House East Wing for Personal Ballroom
 *Date: 2025-10-22*
@@ -13956,6 +14102,13 @@
 *Date: 2025-10-25*
 
 1. [Grand Jury Convened to Investigate 'Conspiracy Against Trump'](https://abcnews.go.com/Politics/federal-grand-jury-trump-conspiracy-investigation/story)
+
+## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
+*Date: 2025-10-25*
+
+1. [Keystone Kash Accused of Using $60M FBI Jet for Date Night](https://www.thedailybeast.com/kash-patel-accused-of-using-gov-jet-for-date-night/)
+2. [Kash Patel once called for ending FBI director's government jet use](https://www.cbsnews.com/news/patel-fbi-director-government-jet/)
+3. [FBI Ousts Leader as Patel Fumes Over Attention to Agency Jet Use](https://news.bloomberglaw.com/us-law-week/fbi-ousts-leader-as-patel-fumes-over-attention-to-agency-jet-use)
 
 ## Tech Billionaires Block Trump Military Deployment to San Francisco
 *Date: 2025-10-25*
@@ -14107,6 +14260,13 @@
 1. [Immigration agents have new technology to identify and track people](https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
 2. [DHS Gives Local Cops a Facial Recognition App To Find Immigrants](https://www.404media.co/cbp-quietly-launches-face-scanning-app-for-local-cops-to-do-immigration-enforcement/)
 3. [Trump Tyranny Tracker: Day 289](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289)
+
+## FBI Agents Association Issues Unprecedented Rebuke: Patel "Disregarded the Law" in Campaign of Retribution
+*Date: 2025-11-04*
+
+1. [FBI agents rip Kash Patel's firings: erratic and arbitrary retribution](https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond)
+2. [FBI Agents Association: Kash Patel 'disregarded the law'](https://www.msnbc.com/rachel-maddow-show/maddowblog/fbi-agents-association-kash-patel-disregarded-law-latest-personnel-pur-rcna241928)
+3. [FBI association accuses Director Kash Patel of violating due process](https://www.cnn.com/2025/08/21/politics/fbi-association-warning-patel-firings)
 
 ## Memphis Residents Report Widespread Racial Profiling by Trump's Federal Police Task Force
 *Date: 2025-11-04*
