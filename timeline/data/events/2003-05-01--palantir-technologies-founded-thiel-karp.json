@@ -1,0 +1,37 @@
+{
+  "id": "2003-05-01--palantir-technologies-founded-thiel-karp",
+  "date": "2003-05-01",
+  "title": "Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers",
+  "summary": "Palantir Technologies was officially incorporated in May 2003 by Peter Thiel, who conceived the company in response to perceived failures in data analysis that contributed to the September 11, 2001 terrorist attacks. The five co-founders included Peter Thiel (PayPal co-founder and venture capitalist), Nathan Gettings (PayPal engineer), Joe Lonsdale (Stanford University student), Stephen Cohen (Stanford University student), and Alex Karp, who joined as CEO in 2004.\n\nThiel's vision was to create software that could help intelligence and law enforcement agencies connect disparate data sources to identify patterns and prevent terrorism. The company's name derives from the palant\u00edri, the \"seeing stones\" in J.R.R. Tolkien's Lord of the Rings that allowed users to see distant events. In 2004, Thiel bankrolled the creation of a prototype and hired Karp, his former colleague from Stanford Law School, as chief executive officer.\n\nThe founding represented a pivot point where Silicon Valley technology would be deliberately designed for government surveillance and intelligence applications. Unlike most tech startups that sought commercial markets first, Palantir was explicitly built to serve intelligence agencies and law enforcement from inception. Thiel personally funded the initial $30 million cost when traditional venture capital firms showed little interest in a company focused on government contracts rather than consumer products.\n\nPalantir's founding occurred in the post-9/11 environment when the Department of Homeland Security was newly created (2002) and intelligence agencies were under pressure to improve information sharing and threat detection. The company positioned itself to capitalize on the massive expansion of surveillance infrastructure and counterterrorism spending that followed the attacks.",
+  "importance": 8,
+  "tags": [
+    "palantir",
+    "peter-thiel",
+    "alex-karp",
+    "surveillance-infrastructure",
+    "founding"
+  ],
+  "actors": [
+    "Peter Thiel",
+    "Alex Karp",
+    "Nathan Gettings",
+    "Joe Lonsdale",
+    "Stephen Cohen"
+  ],
+  "sources": [
+    {
+      "url": "https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af",
+      "title": "Palantir's Growth Story: How the Magic of Data Analysis Is Changing the World",
+      "publisher": "Medium",
+      "date": "2025-03-21",
+      "tier": 3
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse",
+      "title": "The History of Palantir Technologies: From Visionary Beginnings to a Global Data Powerhouse",
+      "publisher": "Financial Content",
+      "date": "2025-03-21",
+      "tier": 3
+    }
+  ]
+}

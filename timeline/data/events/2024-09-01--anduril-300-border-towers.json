@@ -1,0 +1,25 @@
+{
+  "id": "2024-09-01--anduril-300-border-towers",
+  "date": "2024-09-01",
+  "title": "Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border",
+  "summary": "Anduril Industries announced deployment of its 300th Autonomous Surveillance Tower (AST) along the southern U.S. border, significantly expanding its AI-powered surveillance infrastructure for Customs and Border Protection. The deployment includes the Extended Range Sentry Tower, featuring an 80-foot structure with sensors capable of tracking objects up to 7.5 miles away. CBP's 2023-2024 budgets earmarked $204 million for 174 additional towers through FY 2025, creating an effective exclusive arrangement with Anduril worth hundreds of millions. The Electronic Frontier Foundation documented CBP's expanding surveillance tower program, raising concerns about mass surveillance infrastructure at the border. The 300-tower milestone represents operational deployment of autonomous AI systems for immigration enforcement at scale, normalizing algorithmic surveillance and tracking of human movement across vast border regions. Homeland Security documents cite plans for hundreds more towers, positioning Anduril's technology as permanent border surveillance infrastructure.",
+  "importance": 7,
+  "actors": ["Anduril Industries", "U.S. Customs and Border Protection", "Department of Homeland Security", "Palmer Luckey"],
+  "tags": ["Border Militarization", "Surveillance", "AI Surveillance", "Immigration Enforcement", "Autonomous Weapons"],
+  "sources": [
+    {
+      "url": "https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/",
+      "title": "Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security",
+      "publisher": "Anduril Industries",
+      "date": "2024-09-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it",
+      "title": "CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And We're Mapping It",
+      "publisher": "Electronic Frontier Foundation",
+      "date": "2023-03-15",
+      "tier": 2
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "2025-06-05--anduril-30-billion-valuation",
+  "date": "2025-06-05",
+  "title": "Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund",
+  "summary": "Anduril Industries closed an oversubscribed $2.5 billion funding round at a $30.5 billion valuation, more than doubling its previous $14 billion valuation from 2024. Peter Thiel's Founders Fund led the round with a $1 billion investment—the fund's largest single check ever—demonstrating extraordinary venture capital concentration in autonomous weapons development. Existing investors including Andreessen Horowitz, General Catalyst, Lux Capital, and Altimeter participated in the eight-times oversubscribed round. Anduril reported revenue nearly doubled to $1 billion in 2024, with $1.5 billion in total contract value secured. The company plans to use the capital for mergers and acquisitions, scaling its Arsenal-1 weapons manufacturing facility, hiring across U.S., Australia and Europe, and new product launches. At $30.5 billion, Anduril's valuation approaches century-old defense contractors, positioning an eight-year-old Silicon Valley startup as a peer to the traditional military-industrial complex. The round epitomizes venture capital's bet that AI-powered autonomous weapons represent a multi-hundred-billion dollar market.",
+  "importance": 9,
+  "actors": ["Anduril Industries", "Peter Thiel", "Founders Fund", "Palmer Luckey", "Trae Stephens", "Andreessen Horowitz"],
+  "tags": ["Defense Contractors", "Venture Capital", "Autonomous Weapons", "Military-Industrial Complex", "Peter Thiel Network"],
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html",
+      "title": "Anduril raises funding at $30.5 billion valuation in round led by Founders Fund, chairman says",
+      "publisher": "CNBC",
+      "date": "2025-06-05",
+      "tier": 2
+    },
+    {
+      "url": "https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/",
+      "title": "Anduril raises $2.5B at $30.5B valuation led by Founders Fund",
+      "publisher": "TechCrunch",
+      "date": "2025-06-05",
+      "tier": 2
+    }
+  ]
+}
