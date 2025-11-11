@@ -4106,6 +4106,18 @@
 2. [Trump Ordered Mueller Fired, but Backed Off When White House Counsel Threatened to Quit](https://www.nytimes.com/2018/01/25/us/politics/trump-mueller-special-counsel-russia.html)
 3. [McGahn told Mueller that Trump asked him to fire special counsel](https://www.washingtonpost.com/politics/mcgahn-told-mueller-that-trump-asked-him-to-fire-special-counsel/2019/04/25/7b4f5b50-67a4-11e9-a1b6-b29b90efa879_story.html)
 
+## Nick Fuentes Attends Unite the Right Rally in Charlottesville
+*Date: 2017-08-12*
+
+1. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
+2. [White Power Rising: The Making of Nick Fuentes](https://globalextremism.org/post/the-making-of-nick-fuentes/)
+
+## Nick Fuentes Attends Unite the Right Rally in Charlottesville
+*Date: 2017-08-12*
+
+1. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
+2. [White Power Rising: The Making of Nick Fuentes](https://globalextremism.org/post/the-making-of-nick-fuentes/)
+
 ## FTC Approves Amazon-Whole Foods Merger Despite Monopolization Concerns
 *Date: 2017-08-23*
 
@@ -4841,6 +4853,20 @@
 2. [Russian operative Maria Butina released from prison, deported to Moscow](https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-set-deportation-after-prison-release-n1071801)
 3. [Maria Butina, Convicted Russian Operative, Is Released From Federal Prison](https://www.npr.org/2019/10/25/773374719/maria-butina-convicted-russian-operative-is-released-from-federal-prison)
 
+## Groyper War Erupts: Far-Right Activists Disrupt Trump Jr. Event at UCLA
+*Date: 2019-11-10*
+
+1. [Groypers](https://en.wikipedia.org/wiki/Groypers)
+2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
+3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
+
+## Groyper War Erupts: Far-Right Activists Disrupt Trump Jr. Event at UCLA
+*Date: 2019-11-10*
+
+1. [Groypers](https://en.wikipedia.org/wiki/Groypers)
+2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
+3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
+
 ## Trump Signs Defense Bill Creating Space Force
 *Date: 2019-12-20*
 
@@ -4871,6 +4897,18 @@
 2. [Sen. Richard Burr steps down as Senate intel chair during probe of coronavirus stock sale](https://www.cnbc.com/2020/05/14/sen-richard-burr-steps-down-as-senate-intel-chair-during-coronavirus-stock-sale-probe.html)
 3. [Senator Dumped Up to $1.7 Million of Stock After Reassuring Public About Coronavirus Preparedness](https://www.propublica.org/article/senator-dumped-up-to-1-7-million-of-stock-after-reassuring-public-about-coronavirus-preparedness)
 
+## YouTube Terminates Nick Fuentes Channel for Hate Speech Violations
+*Date: 2020-02-14*
+
+1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
+2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
+
+## YouTube Terminates Nick Fuentes Channel for Hate Speech Violations
+*Date: 2020-02-14*
+
+1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
+2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
+
 ## Fed Vice Chair Clarida Trades Millions Before Rate Cuts
 *Date: 2020-02-27*
 
@@ -4878,6 +4916,20 @@
 2. [Federal Reserve Vice Chair Richard Clarida Resigns After Trading Scandal](https://www.newsweek.com/federal-reserve-vice-chair-richard-clarida-becomes-third-resign-after-trading-scandal-1667763)
 3. [Fed Watchdog Clears Powell, Clarida in Trading Scandal Probe](https://www.bloomberg.com/news/articles/2022-07-14/fed-watchdog-clears-powell-clarida-in-trading-scandal-probe)
 4. [Fed Vice Chair Clarida Resigns Amid Trading Scandal](https://krdo.com/news/ap-national-news/2022/01/10/fed-vice-chair-richard-clarida-resigns-amid-trading-scandal-2/)
+
+## First AFPAC Conference Launches as White Nationalist Alternative to CPAC
+*Date: 2020-02-28*
+
+1. [America First Political Action Conference](https://en.wikipedia.org/wiki/America_First_Political_Action_Conference)
+2. [Far-Right Extremists Gather in Florida for CPAC Spinoff Alongside Sitting Congressman](https://www.splcenter.org/resources/hatewatch/far-right-extremists-gather-florida-cpac-spinoff-alongside-sitting-congressman)
+3. [AFPAC III: Elected Officials Support White Supremacist Event](https://www.adl.org/resources/article/afpac-iii-elected-officials-support-white-supremacist-event)
+
+## First AFPAC Conference Launches as White Nationalist Alternative to CPAC
+*Date: 2020-02-28*
+
+1. [America First Political Action Conference](https://en.wikipedia.org/wiki/America_First_Political_Action_Conference)
+2. [Far-Right Extremists Gather in Florida for CPAC Spinoff Alongside Sitting Congressman](https://www.splcenter.org/resources/hatewatch/far-right-extremists-gather-florida-cpac-spinoff-alongside-sitting-congressman)
+3. [AFPAC III: Elected Officials Support White Supremacist Event](https://www.adl.org/resources/article/afpac-iii-elected-officials-support-white-supremacist-event)
 
 ## New York Times Exposes Erik Prince's Recruitment of Former Spies for Project Veritas Domestic Intelligence Operations
 *Date: 2020-03-07*
@@ -5139,6 +5191,20 @@
 3. [House Report 117-200: Resolution Finding Jeffrey Clark in Contempt of Congress](https://www.congress.gov/committee-report/117th-congress/house-report/200/1)
 4. [January 6 Select Committee Final Report, Volume II: Findings of the Investigation](https://www.congress.gov/committee-report/117th-congress/house-report/692/1)
 
+## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
+*Date: 2021-01-06*
+
+1. [Nick Fuentes Faces Scrutiny Following Jan. 6 Subpoena](https://www.splcenter.org/resources/hatewatch/nick-fuentes-faces-scrutiny-following-jan-6-subpoena)
+2. [Key January 6th Instigator, Nick Fuentes, Reinstatement on Twitter/X: The Implications](https://www.justsecurity.org/95385/twitter-x-fuentes-role-january-6th-attack/)
+3. [Nicholas J. Fuentes: Five Things to Know](https://www.adl.org/resources/blog/nicholas-j-fuentes-five-things-know)
+
+## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
+*Date: 2021-01-06*
+
+1. [Nick Fuentes Faces Scrutiny Following Jan. 6 Subpoena](https://www.splcenter.org/resources/hatewatch/nick-fuentes-faces-scrutiny-following-jan-6-subpoena)
+2. [Key January 6th Instigator, Nick Fuentes, Reinstatement on Twitter/X: The Implications](https://www.justsecurity.org/95385/twitter-x-fuentes-role-january-6th-attack/)
+3. [Nicholas J. Fuentes: Five Things to Know](https://www.adl.org/resources/blog/nicholas-j-fuentes-five-things-know)
+
 ## January 6 Capitol Insurrection Represents Culmination of WHIG Constitutional Crisis Template Implementation for Oligarchic Governance Establishment
 *Date: 2021-01-06*
 
@@ -5228,6 +5294,20 @@
 1. [Dr. Stephen Hahn Joins Flagship Pioneering](https://www.flagshippioneering.com/news/press-release/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative)
 2. [Former FDA commissioner Hahn defends his jump to Flagship Pioneering](https://www.statnews.com/2021/06/15/steve-hahn-fda-moderna-flagship-pioneering/)
 3. [Former FDA Commissioner Stephen Hahn joins venture capital group behind Moderna](https://www.foxbusiness.com/politics/former-fda-commissioner-stephen-hahn-joins-venture-capital-group-behind-moderna)
+
+## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
+*Date: 2021-07-01*
+
+1. [Twitter Deplatforms White Nationalist Nick Fuentes](https://jewishjournal.com/news/338588/twitter-deplatforms-white-nationalist-nick-fuentes/)
+2. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
+3. [As Big Tech Deplatforms, Extremists Find New Alt-Tech Ways To Talk Online](https://www.npr.org/2021/03/16/972519460/across-the-internet-a-game-of-whac-a-mole-is-underway-to-root-out-extremism)
+
+## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
+*Date: 2021-07-01*
+
+1. [Twitter Deplatforms White Nationalist Nick Fuentes](https://jewishjournal.com/news/338588/twitter-deplatforms-white-nationalist-nick-fuentes/)
+2. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
+3. [As Big Tech Deplatforms, Extremists Find New Alt-Tech Ways To Talk Online](https://www.npr.org/2021/03/16/972519460/across-the-internet-a-game-of-whac-a-mole-is-underway-to-root-out-extremism)
 
 ## Vance Announces Ohio Senate Campaign
 *Date: 2021-07-01*
@@ -5647,6 +5727,20 @@
 1. [DOJ names Jack Smith as special counsel to oversee Trump criminal investigations](https://www.npr.org/2022/11/18/1137736663/special-counsel-trump-justice-department-jan-6-mar-a-lago)
 2. [Attorney General Merrick Garland names Jack Smith special counsel in Trump criminal probes](https://www.cnbc.com/2022/11/18/attorney-general-merrick-garland-to-name-special-counsel-in-trump-criminal-probe-report-says.html)
 3. [Merrick Garland names special counsel for Trump, Jan. 6 investigations](https://www.washingtonpost.com/national-security/2022/11/18/justice-trump-garland-special-counsel/)
+
+## Trump Hosts White Nationalist Nick Fuentes and Kanye West at Mar-a-Lago Dinner
+*Date: 2022-11-22*
+
+1. [The inside story of Trump's explosive dinner with Ye and Nick Fuentes](https://www.nbcnews.com/politics/donald-trump/story-trumps-explosive-dinner-ye-nick-fuentes-rcna59010)
+2. [Trump hosted Holocaust denier at Mar-a-Lago estate](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
+3. [Republican leaders denounce Trump's dinner with white nationalist Nick Fuentes](https://www.npr.org/2022/11/29/1139742844/republicans-denounce-trump-dinner-white-supremacist-nick-fuentes)
+
+## Trump Hosts White Nationalist Nick Fuentes and Kanye West at Mar-a-Lago Dinner
+*Date: 2022-11-22*
+
+1. [The inside story of Trump's explosive dinner with Ye and Nick Fuentes](https://www.nbcnews.com/politics/donald-trump/story-trumps-explosive-dinner-ye-nick-fuentes-rcna59010)
+2. [Trump hosted Holocaust denier at Mar-a-Lago estate](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
+3. [Republican leaders denounce Trump's dinner with white nationalist Nick Fuentes](https://www.npr.org/2022/11/29/1139742844/republicans-denounce-trump-dinner-white-supremacist-nick-fuentes)
 
 ## Twitter Files Release Exposes Systematic Government-Social Media Coordination Infrastructure for Information Control and Democratic Manipulation
 *Date: 2022-12-09*
@@ -12181,6 +12275,20 @@
 2. [EPA becomes the second federal agency to cancel its union contracts](https://www.govexec.com/workforce/2025/08/epa-becomes-second-federal-agency-cancel-its-union-contracts/407364/)
 3. [EPA dissolves union contract, AFGE says](https://thehill.com/policy/energy-environment/5444115-epa-union-fight-court/)
 
+## DOJ Employee Sean Dunn Fired After Throwing Sandwich at Federal Agent in Protest
+*Date: 2025-08-10*
+
+1. [Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C.](https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/)
+2. [DOJ fires sandwich thrower after he's charged with assaulting officer in Washington, DC](https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html)
+3. [Fired DOJ employee could face prison for throwing sandwich at officers](https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/)
+
+## DOJ Employee Sean Dunn Fired After Throwing Sandwich at Federal Agent in Protest
+*Date: 2025-08-10*
+
+1. [Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C.](https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/)
+2. [DOJ fires sandwich thrower after he's charged with assaulting officer in Washington, DC](https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html)
+3. [Fired DOJ employee could face prison for throwing sandwich at officers](https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/)
+
 ## About 120 FBI agents assigned to patrol Washington, D.C. streets
 *Date: 2025-08-10*
 
@@ -14036,12 +14144,40 @@
 2. [Government shutdown set to become longest ever after latest Senate vote fails](https://www.cnbc.com/2025/11/04/government-shutdown-trump-senate.html)
 3. [Trump pressures GOP senators to end the government shutdown, now the longest ever](https://federalnewsnetwork.com/government-shutdown/2025/11/government-shutdown-becomes-the-longest-on-record-as-fallout-spreads-nationwide/)
 
+## Judge Scolds Comey Prosecutors for "Indict First, Investigate Second" Approach
+*Date: 2025-11-05*
+
+1. [Judge scolds Comey prosecutors for 'indict first and investigate second' approach](https://www.washingtonpost.com/national-security/2025/11/05/justice-department-prosecution-james-comey/)
+2. [Judge accuses prosecutors in James Comey case of taking an 'indict first, investigate later' approach](https://www.nbcnews.com/politics/justice-department/judge-accuses-prosecutors-comey-case-taking-indict-first-investigate-l-rcna242222)
+3. [Judge in Comey case scolds prosecutors as he orders them to produce records from probe](https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence)
+
+## Judge Scolds Comey Prosecutors for "Indict First, Investigate Second" Approach
+*Date: 2025-11-05*
+
+1. [Judge scolds Comey prosecutors for 'indict first and investigate second' approach](https://www.washingtonpost.com/national-security/2025/11/05/justice-department-prosecution-james-comey/)
+2. [Judge accuses prosecutors in James Comey case of taking an 'indict first, investigate later' approach](https://www.nbcnews.com/politics/justice-department/judge-accuses-prosecutors-comey-case-taking-indict-first-investigate-l-rcna242222)
+3. [Judge in Comey case scolds prosecutors as he orders them to produce records from probe](https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence)
+
 ## Zohran Mamdani Elected NYC Mayor: First Muslim, Youngest in Century
 *Date: 2025-11-05*
 
 1. [Zohran Mamdani wins NYC mayoral race](https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor)
 2. [Zohran Mamdani wins NYC mayor election over Cuomo](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
 3. [Zohran Mamdani elected as New York City's first Muslim mayor](https://www.aljazeera.com/news/liveblog/2025/11/5/nyc-mayoral-election-results-live-polls-closing-soon-in-mamdani-cuomo-race)
+
+## Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticism of Trump's Emergency Powers
+*Date: 2025-11-05*
+
+1. [Supreme Court justices appear skeptical that Trump tariffs are legal](https://www.cnbc.com/2025/11/05/supreme-court-trump-trade-tarrifs-vos.html)
+2. [Supreme Court enters the lion's den on Trump tariffs](https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court)
+3. [Supreme Court hears Trump tariffs case, key justices appear skeptical of president's power](https://abcnews.go.com/Politics/supreme-court-hears-trump-tariffs-case-staggering-importance/story?id=126950904)
+
+## Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticism of Trump's Emergency Powers
+*Date: 2025-11-05*
+
+1. [Supreme Court justices appear skeptical that Trump tariffs are legal](https://www.cnbc.com/2025/11/05/supreme-court-trump-trade-tarrifs-vos.html)
+2. [Supreme Court enters the lion's den on Trump tariffs](https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court)
+3. [Supreme Court hears Trump tariffs case, key justices appear skeptical of president's power](https://abcnews.go.com/Politics/supreme-court-hears-trump-tariffs-case-staggering-importance/story?id=126950904)
 
 ## FAA Announces 10% Air Traffic Reduction at 40 Airports Due to Shutdown
 *Date: 2025-11-06*
@@ -14073,6 +14209,20 @@
 2. [Kazakhstan to join Abraham Accords with Israel](https://www.axios.com/2025/11/06/kazakhstan-join-abraham-accords-trump-israel)
 3. [Experts react: Kazakhstan will join the Abraham Accords](https://www.atlanticcouncil.org/blogs/new-atlanticist/experts-react-kazakhstan-will-join-the-abraham-accords-heres-what-that-means-for-the-us-the-middle-east-and-central-asia/)
 
+## Jury Acquits DOJ Whistleblower Sean Dunn of Sandwich Assault in Rebuke to Weaponized Prosecution
+*Date: 2025-11-06*
+
+1. [Subway sandwich thrower found not guilty in D.C. jury rebuke](https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich)
+2. [Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent](https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142)
+3. [Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor after trial](https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/)
+
+## Jury Acquits DOJ Whistleblower Sean Dunn of Sandwich Assault in Rebuke to Weaponized Prosecution
+*Date: 2025-11-06*
+
+1. [Subway sandwich thrower found not guilty in D.C. jury rebuke](https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich)
+2. [Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent](https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142)
+3. [Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor after trial](https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/)
+
 ## Supreme Court Issues Emergency Stay Allowing Trump Administration to Withhold $4 Billion in SNAP Food Benefits
 *Date: 2025-11-06*
 
@@ -14102,6 +14252,20 @@
 4. [Clergy say religious rights are under attack inside and outside the Broadview ICE facility](https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility)
 5. [Eucharistic procession turned back by feds at Broadview ICE detention facility](https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/)
 6. [ICE again prevents Chicago Catholics from bringing Eucharist to immigrant detainees](https://www.ncronline.org/news/ice-again-prevents-chicago-catholics-bringing-eucharist-immigrant-detainees)
+
+## Letitia James Files Vindictive Prosecution Motion to Dismiss Federal Charges
+*Date: 2025-11-07*
+
+1. [Letitia James urges court to toss her case, calling it Trump's revenge](https://www.washingtonpost.com/national-security/2025/11/07/letitia-james-vindictive-prosecution-motion/)
+2. [Prosecution of Letitia James](https://en.wikipedia.org/wiki/Prosecution_of_Letitia_James)
+3. [Letitia James Gets Trial Date in Federal Mortgage Fraud Case](https://www.newsweek.com/letitia-james-trial-date-charges-arrested-donald-trump-10934677)
+
+## Letitia James Files Vindictive Prosecution Motion to Dismiss Federal Charges
+*Date: 2025-11-07*
+
+1. [Letitia James urges court to toss her case, calling it Trump's revenge](https://www.washingtonpost.com/national-security/2025/11/07/letitia-james-vindictive-prosecution-motion/)
+2. [Prosecution of Letitia James](https://en.wikipedia.org/wiki/Prosecution_of_Letitia_James)
+3. [Letitia James Gets Trial Date in Federal Mortgage Fraud Case](https://www.newsweek.com/letitia-james-trial-date-charges-arrested-donald-trump-10934677)
 
 ## Supreme Court Temporarily Blocks Full SNAP Payments to 42 Million Americans
 *Date: 2025-11-07*
