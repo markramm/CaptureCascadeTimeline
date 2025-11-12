@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 import { format, parseISO } from 'date-fns';
-import { 
-  X, 
-  Calendar, 
-  MapPin, 
-  Users, 
-  Tag, 
-  ExternalLink, 
+import {
+  X,
+  Calendar,
+  MapPin,
+  Users,
+  Tag,
+  ExternalLink,
   FileText,
   CheckCircle,
   AlertCircle,
@@ -18,6 +18,7 @@ import {
   AlertTriangle
 } from 'lucide-react';
 import ContributeButton from './ContributeButton';
+import ShareDialog from './ShareDialog';
 import {
   getEventEditUrl,
   getEventViewUrl,
@@ -31,6 +32,8 @@ import './EventDetails.css';
 
 const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneClick, onShare }) => {
   const [brokenLinks, setBrokenLinks] = useState({});
+  const [showShareDialog, setShowShareDialog] = useState(false);
+
   const getStatusIcon = (status) => {
     switch(status) {
       case 'confirmed': 
@@ -109,15 +112,13 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
               eventId={event.id} 
               eventTitle={event.title}
             />
-            {onShare && (
-              <button 
-                className="share-button" 
-                onClick={() => onShare(event)}
-                title="Share this event"
-              >
-                <Share2 size={20} />
-              </button>
-            )}
+            <button
+              className="share-button"
+              onClick={() => setShowShareDialog(true)}
+              title="Share this event"
+            >
+              <Share2 size={20} />
+            </button>
             <button className="close-button" onClick={onClose}>
               <X size={24} />
             </button>
@@ -337,6 +338,15 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
           </div>
         </div>
       </motion.div>
+
+      <AnimatePresence>
+        {showShareDialog && (
+          <ShareDialog
+            event={event}
+            onClose={() => setShowShareDialog(false)}
+          />
+        )}
+      </AnimatePresence>
     </motion.div>
   );
 };
