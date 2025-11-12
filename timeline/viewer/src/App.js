@@ -49,7 +49,7 @@ function App() {
   const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [searchQuery, setSearchQuery] = useState('');
   const [viewMode, setViewMode] = useState('timeline');
-  const [sortOrder, setSortOrder] = useState('chronological');
+  const [sortOrder, setSortOrder] = useState('reverse-chronological');
   const [minImportance, setMinImportance] = useState(0);
   
   // UI states - initialize from URL or defaults
