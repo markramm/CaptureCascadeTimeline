@@ -1,5 +1,20 @@
 // Utility functions for sharing timeline views and events
 
+/**
+ * Generate static (Hugo) URL for an event
+ * These pages work without JavaScript and are SEO-friendly
+ */
+export const generateStaticEventUrl = (eventId) => {
+  const origin = window.location.origin;
+  // Remove /viewer from path if present, as static pages are at root
+  const basePath = origin.replace(/\/viewer\/?$/, '');
+  return `${basePath}/events/${eventId}/`;
+};
+
+/**
+ * Generate interactive (React) URL for viewing timeline
+ * Supports event linking and filter parameters
+ */
 export const generateShareUrl = (params) => {
   const url = new URL(window.location.origin + window.location.pathname);
   
@@ -68,35 +83,43 @@ export const copyToClipboard = async (text) => {
 };
 
 export const shareEvent = async (event, filters = null) => {
-  const url = generateShareUrl({ 
-    eventId: event.id, 
-    filters 
+  const interactiveUrl = generateShareUrl({
+    eventId: event.id,
+    filters
   });
-  
+
+  const staticUrl = generateStaticEventUrl(event.id);
+
   const shareData = {
     title: `Kleptocracy Timeline: ${event.title}`,
     text: event.summary || `${event.title} - ${event.date}`,
-    url: url
+    url: interactiveUrl
   };
-  
+
   // Try native share API first (mobile)
   if (navigator.share) {
     try {
       await navigator.share(shareData);
-      return { success: true, method: 'native' };
+      return {
+        success: true,
+        method: 'native',
+        interactiveUrl,
+        staticUrl
+      };
     } catch (err) {
       if (err.name !== 'AbortError') {
         console.error('Error sharing:', err);
       }
     }
   }
-  
+
   // Fallback to clipboard
-  const copied = await copyToClipboard(url);
-  return { 
-    success: copied, 
+  const copied = await copyToClipboard(interactiveUrl);
+  return {
+    success: copied,
     method: 'clipboard',
-    url: url 
+    interactiveUrl,
+    staticUrl
   };
 };
 
