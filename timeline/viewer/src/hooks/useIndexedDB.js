@@ -7,6 +7,7 @@
 
 import { useState, useCallback, useRef, useEffect } from 'react';
 import TimelineDB from '../utils/TimelineDB';
+import { API_ENDPOINTS } from '../config';
 
 export const useIndexedDB = () => {
   const [db, setDb] = useState(null);
@@ -47,10 +48,25 @@ export const useIndexedDB = () => {
         if (!lastSyncTime || storedCount === 0) {
           console.log('[useIndexedDB] First time - loading from server...');
 
-          // First time - load from JSON
-          const response = await fetch('/api/timeline.json');
-          if (!response.ok) {
-            throw new Error(`Failed to fetch timeline: ${response.statusText}`);
+          // Try API endpoint first, fall back to static file
+          let apiUrl = API_ENDPOINTS.timeline;
+          let response = null;
+
+          try {
+            console.log('[useIndexedDB] Trying API endpoint:', apiUrl);
+            response = await fetch(apiUrl);
+            if (!response.ok) {
+              throw new Error(`API returned ${response.status}`);
+            }
+          } catch (apiError) {
+            console.log('[useIndexedDB] API failed, trying static file:', apiError.message);
+            // Fall back to static file
+            apiUrl = '/api/timeline.json';
+            console.log('[useIndexedDB] Fetching from static file:', apiUrl);
+            response = await fetch(apiUrl);
+            if (!response.ok) {
+              throw new Error(`Failed to fetch timeline from ${apiUrl}: ${response.statusText}`);
+            }
           }
 
           const data = await response.json();
