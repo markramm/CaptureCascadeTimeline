@@ -459,9 +459,8 @@ const EnhancedTimelineEvent = ({
             height: `${8 + importance}px`
           }}
         />
-        <div className="compact-event-card" style={{ 
-          borderLeft: `3px solid ${getImportanceColor(importance)}`,
-          background: importance >= 7 ? 'rgba(30, 41, 59, 0.7)' : 'rgba(30, 41, 59, 0.5)'
+        <div className="compact-event-card" style={{
+          borderLeft: `3px solid ${getImportanceColor(importance)}`
         }}
         onClick={(e) => {
           e.stopPropagation();
@@ -640,8 +639,8 @@ const EnhancedTimelineEvent = ({
                   <ExternalLink size={14} />
                   <span>{event.sources.length} source{event.sources.length > 1 ? 's' : ''}:</span>
                   <div className="source-links-inline">
-                    {event.sources.slice(0, 2).map((source, idx) => (
-                      source.url && (
+                    {event.sources.slice(0, 2).map((source, idx) =>
+                      source.url ? (
                         <a
                           key={idx}
                           href={source.url}
@@ -654,8 +653,8 @@ const EnhancedTimelineEvent = ({
                           <ExternalLink size={12} />
                           {source.outlet || 'Link'}
                         </a>
-                      )
-                    ))}
+                      ) : null
+                    )}
                     {event.sources.length > 2 && (
                       <span className="more-sources">+{event.sources.length - 2} more</span>
                     )}
@@ -863,8 +862,8 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
           animate={{ opacity: 1, y: 0 }}
           whileHover={{ scale: 1.02 }}
         >
-          <div className="list-item-importance" style={{ 
-            background: `linear-gradient(90deg, ${getImportanceColor(event.importance || 5)} 0%, transparent 100%)` 
+          <div className="list-item-importance" style={{
+            borderLeft: `4px solid ${getImportanceColor(event.importance || 5)}`
           }}>
             {event.importance || 5}
           </div>

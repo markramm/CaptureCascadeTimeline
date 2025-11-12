@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import LandingPage from './components/LandingPage';
-import EnhancedTimelineView from './components/EnhancedTimelineView';
+import TimelineViewWrapper from './components/TimelineViewWrapper';
 import FilterPanel from './components/FilterPanel';
 import EventDetails from './components/EventDetails';
 import StatsPanel from './components/StatsPanel';
@@ -10,14 +10,15 @@ import ViewToggle from './components/ViewToggle';
 import NetworkGraph from './components/NetworkGraph';
 import NetworkGraphActors from './components/NetworkGraphActors';
 import DownloadMenu from './components/DownloadMenu';
+import IndexedDBToggle from './components/IndexedDBToggle';
 import apiService from './services/apiService';
 import { USE_LIVE_API } from './config';
 import { useUrlState } from './hooks/useUrlState';
 import { shareEvent, shareFilteredView } from './utils/shareUtils';
 import { createNewEventIssue, openGitHub } from './utils/githubUtils';
 import { initAnalytics, trackEvent, trackFilter, AnalyticsEvents } from './utils/analytics';
-import { 
-  Filter, 
+import {
+  Filter,
   BarChart3,
   Loader2,
   AlertCircle,
@@ -48,7 +49,7 @@ function App() {
   const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [searchQuery, setSearchQuery] = useState('');
   const [viewMode, setViewMode] = useState('timeline');
-  const [sortOrder, setSortOrder] = useState('chronological');
+  const [sortOrder, setSortOrder] = useState('newest');
   const [minImportance, setMinImportance] = useState(0);
   
   // UI states - initialize from URL or defaults
@@ -82,7 +83,7 @@ function App() {
       setDateRange(urlState.dateRange || { start: null, end: null });
       setSearchQuery(urlState.searchQuery || '');
       setViewMode(urlState.viewMode || 'timeline');
-      setSortOrder(urlState.sortOrder || 'chronological');
+      setSortOrder(urlState.sortOrder || 'newest');
       setMinImportance(urlState.minImportance || 0);
       setTimelineControls(urlState.timelineControls || {
         compactMode: 'medium',
@@ -117,52 +118,104 @@ function App() {
       } else {
         setLoading(true);
       }
-      const [eventsData, tagsData, actorsData, statsData, actorStatsData, importanceData] = await Promise.all([
-        apiService.events.getEvents({ per_page: 10000 }), // Load all events
-        apiService.metadata.getTags(),
-        apiService.metadata.getActors(),
-        apiService.stats.getOverview(),
-        apiService.stats.getActorStats({ limit: 10 }),
-        apiService.stats.getImportanceStats()
-      ]);
-      
-      // Extract events from paginated response
-      const events = eventsData.events || eventsData;
-      setEvents(events);
-      setFilteredEvents(events);
-      
-      // Extract metadata
-      setAllTags(tagsData.tags || []);
-      setAllActors(actorsData.actors || []);
-      
-      // Note: Capture lanes are not part of the API v2 - we'll use tags instead
-      setAllCaptureLanes([]);
-      
-      // Enhance stats with additional API data
-      const enhancedStats = {
-        ...statsData,
-        top_actors: actorStatsData.actor_stats || [],
-        importance_distribution: importanceData.distribution || {},
-        importance_by_year: importanceData.by_year || {},
-        // Generate events_by_year from the events data for compatibility
-        events_by_year: eventsData.events ? 
-          eventsData.events.reduce((acc, event) => {
-            const year = event.date?.substring(0, 4);
-            if (year) {
-              acc[year] = (acc[year] || 0) + 1;
-            }
-            return acc;
-          }, {}) : {}
-      };
-      setStats(enhancedStats);
-      setError(null);
+
+      // Import FEATURE_FLAGS to check if IndexedDB is enabled
+      const { FEATURE_FLAGS } = require('./config');
+      const useIndexedDB = FEATURE_FLAGS.USE_INDEXED_DB;
+
+      if (useIndexedDB) {
+        // IndexedDB optimization: Load only critical data for initial render
+        // VirtualTimelineView will load its own event data from IndexedDB
+        console.log('[App] Using IndexedDB mode - loading minimal initial data for fast render');
+
+        const [tagsData, actorsData] = await Promise.all([
+          apiService.metadata.getTags(),
+          apiService.metadata.getActors()
+        ]);
+
+        // Extract metadata (needed for filters)
+        setAllTags(tagsData.tags || []);
+        setAllActors(actorsData.actors || []);
+        setAllCaptureLanes([]);
+
+        // Set empty events array - not needed for IndexedDB mode
+        setEvents([]);
+        setFilteredEvents([]);
+
+        // Mark as loaded - UI can render now
+        setLoading(false);
+        setRefreshing(false);
+        setError(null);
+
+        // Load stats in background (non-blocking)
+        Promise.all([
+          apiService.stats.getOverview(),
+          apiService.stats.getActorStats({ limit: 10 }),
+          apiService.stats.getImportanceStats()
+        ]).then(([statsData, actorStatsData, importanceData]) => {
+          const enhancedStats = {
+            ...statsData,
+            top_actors: actorStatsData.actor_stats || [],
+            importance_distribution: importanceData.distribution || {},
+            importance_by_year: importanceData.by_year || {}
+          };
+          setStats(enhancedStats);
+          console.log('[App] Background stats loaded');
+        }).catch(err => {
+          console.warn('[App] Failed to load stats (non-critical):', err);
+        });
+
+      } else {
+        // Legacy mode: Load all events for EnhancedTimelineView
+        console.log('[App] Using legacy mode - loading all events');
+
+        const [eventsData, tagsData, actorsData, statsData, actorStatsData, importanceData] = await Promise.all([
+          apiService.events.getEvents({ per_page: 10000 }), // Load all events
+          apiService.metadata.getTags(),
+          apiService.metadata.getActors(),
+          apiService.stats.getOverview(),
+          apiService.stats.getActorStats({ limit: 10 }),
+          apiService.stats.getImportanceStats()
+        ]);
+
+        // Extract events from paginated response
+        const events = eventsData.events || eventsData;
+        console.log(`[App] Loaded ${events.length} events from API`);
+        setEvents(events);
+        setFilteredEvents(events);
+
+        // Extract metadata
+        setAllTags(tagsData.tags || []);
+        setAllActors(actorsData.actors || []);
+        setAllCaptureLanes([]);
+
+        // Enhance stats with additional API data
+        const enhancedStats = {
+          ...statsData,
+          top_actors: actorStatsData.actor_stats || [],
+          importance_distribution: importanceData.distribution || {},
+          importance_by_year: importanceData.by_year || {},
+          // Generate events_by_year from the events data for compatibility
+          events_by_year: eventsData.events ?
+            eventsData.events.reduce((acc, event) => {
+              const year = event.date?.substring(0, 4);
+              if (year) {
+                acc[year] = (acc[year] || 0) + 1;
+              }
+              return acc;
+            }, {}) : {}
+        };
+        setStats(enhancedStats);
+        setLoading(false);
+        setRefreshing(false);
+        setError(null);
+      }
     } catch (err) {
       const errorMessage = USE_LIVE_API
         ? 'Failed to load timeline data. Please ensure the Research Monitor v2 server is running on port 5558.'
         : 'Failed to load timeline data. Please check that the API files are deployed correctly.';
       setError(errorMessage);
       console.error('Error loading data:', err);
-    } finally {
       setLoading(false);
       setRefreshing(false);
     }
@@ -385,7 +438,7 @@ function App() {
       selectedActors: [],
       dateRange: { start: null, end: null },
       searchQuery: '',
-      sortOrder: 'chronological',
+      sortOrder: 'newest',
       minImportance: 0,
       viewMode,
       timelineControls: {
@@ -772,8 +825,8 @@ function App() {
                   }
                 }}
                 onClear={clearFilters}
-                eventCount={filteredEvents.length}
-                totalCount={events.length}
+                eventCount={events.length > 0 ? filteredEvents.length : (stats?.total_events || 0)}
+                totalCount={events.length > 0 ? events.length : (stats?.total_events || 0)}
                 viewMode={viewMode}
                 timelineControls={timelineControls}
                 onTimelineControlsChange={handleTimelineControlsChange}
@@ -810,6 +863,8 @@ function App() {
                   currentDateRange: dateRange
                 } : null}
               />
+
+              <IndexedDBToggle />
             </motion.aside>
           )}
         </AnimatePresence>
@@ -817,8 +872,8 @@ function App() {
         <main className="main-content">
           <div className="timeline-header">
             <h2>
-              {filteredEvents.length} Events
-              {filteredEvents.length !== events.length && 
+              {events.length > 0 ? filteredEvents.length : (stats?.total_events || 0)} Events
+              {events.length > 0 && filteredEvents.length !== events.length &&
                 ` (filtered from ${events.length})`
               }
             </h2>
@@ -849,7 +904,7 @@ function App() {
               events={filteredEvents}
             />
           ) : (
-            <EnhancedTimelineView
+            <TimelineViewWrapper
               events={filteredEvents}
               groups={timelineGroups}
               viewMode={viewMode}
@@ -863,6 +918,9 @@ function App() {
               selectedActors={selectedActors}
               timelineControls={timelineControls}
               onTimelineControlsChange={setTimelineControls}
+              searchQuery={searchQuery}
+              dateRange={dateRange}
+              minImportance={minImportance}
             />
           )}
         </main>

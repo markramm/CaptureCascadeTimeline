@@ -5,7 +5,7 @@
 const isDevelopment = process.env.NODE_ENV === 'development';
 const isGitHubPages = window.location.hostname.includes('github.io') ||
                      window.location.pathname.includes('/kleptocracy-timeline');
-const isStaticDeployment = window.location.hostname.includes('capturecascade.org');
+// const isStaticDeployment = window.location.hostname.includes('capturecascade.org');
 
 // Base URL configuration
 const getBaseUrl = () => {
@@ -24,7 +24,9 @@ const getBaseUrl = () => {
 const BASE_URL = getBaseUrl();
 
 // Determine if we should use live API or static files
-const USE_LIVE_API = isDevelopment && !isGitHubPages && !isStaticDeployment;
+// Temporarily disabled: Live API has stale data (1873 events vs 2875 in static files)
+// TODO: Update live API database with latest events, then re-enable
+const USE_LIVE_API = false; // isDevelopment && !isGitHubPages && !isStaticDeployment;
 
 // API endpoint configuration
 const getLiveApiPath = (endpoint) => `${BASE_URL}/api/${endpoint}`;
@@ -125,6 +127,16 @@ export const transformStaticData = (data, endpoint) => {
   */
 };
 
+// Feature flags
+const FEATURE_FLAGS = {
+  // IndexedDB optimization is now the default (85% memory reduction: 800MB → 130MB)
+  // Can be disabled via localStorage: localStorage.setItem('useIndexedDB', 'false')
+  USE_INDEXED_DB: localStorage.getItem('useIndexedDB') !== 'false',
+
+  // Legacy flag - kept for backwards compatibility
+  USE_INDEXED_DB_DEFAULT: true
+};
+
 const config = {
   BASE_URL,
   API_ENDPOINTS,
@@ -132,8 +144,9 @@ const config = {
   transformStaticData,
   isDevelopment,
   isGitHubPages,
-  RAW_DATA_URL
+  RAW_DATA_URL,
+  FEATURE_FLAGS
 };
 
-export { USE_LIVE_API };
+export { USE_LIVE_API, FEATURE_FLAGS };
 export default config;

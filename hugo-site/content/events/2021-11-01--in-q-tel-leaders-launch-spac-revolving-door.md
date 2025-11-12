@@ -1,0 +1,45 @@
+---
+id: 2021-11-01--in-q-tel-leaders-launch-spac-revolving-door
+date: '2021-11-01'
+title: In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on
+  Steroids'
+importance: 8
+tags:
+- in-q-tel
+- cia
+- revolving-door
+- corruption
+- spac
+- defense-contractors
+- conflict-of-interest
+actors:
+- Christopher Darby
+- Stephen Bowsher
+- Michael Morell
+- Jeremy Bash
+- Alex Younger
+- In-Q-Tel
+- Chain Bridge I
+sources:
+- url: https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/
+  title: As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action
+  publisher: The Intercept
+  date: '2022-05-05'
+  tier: 2
+- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
+    Earth
+  publisher: Fortune
+  date: '2025-07-29'
+  tier: 2
+---
+
+In November 2021, the senior leadership of In-Q-Tel—CEO Christopher Darby, President Stephen Bowsher, and technology investor Michael Rolnick—filed for an initial public offering for Chain Bridge I, a special purpose acquisition company (SPAC) seeking to raise $200 million. The blank check company aimed to acquire national security technology firms "poised to benefit from billions of dollars in defense spending," explicitly leveraging the founders' intelligence community connections for private profit.
+
+Christopher Darby, who remained In-Q-Tel's CEO while chairing the SPAC, held a 16.21% personal stake in Chain Bridge I—the largest individual ownership position. The SPAC's board featured a roster of former intelligence officials: Michael Morell (former CIA Deputy Director), Jeremy Bash (former CIA Director's Chief of Staff), and Alex Younger (retired British intelligence officer), alongside defense industry veterans like Edward Sanderson Jr. (former SAIC chairman) and Nathaniel Fick (then serving as General Manager at Elastic, an intelligence contractor).
+
+William Hartung, senior research fellow at the Quincy Institute for Responsible Statecraft, characterized the arrangement as "a case of the revolving door on steroids—not just using connections with former government colleagues on behalf of corporate interests, but setting up an entirely new corporate entity that trades on those ties to earn them a huge potential payoff." The SPAC structure allowed In-Q-Tel leaders to personally profit from relationships built during government-funded work, raising profound conflict of interest concerns.
+
+The timing was particularly controversial: the SPAC launched even as the Securities and Exchange Commission was cracking down on questionable SPAC practices industry-wide. Chain Bridge I explicitly stated in regulatory filings that it would seek defense technology companies positioned to benefit from near-term military spending increases, making clear that government relationships and insider knowledge of procurement priorities would drive investment decisions.
+
+A 2016 Wall Street Journal investigation had already found that nearly half of In-Q-Tel's trustees maintained financial connections with companies the organization funded. The Chain Bridge SPAC represented an escalation: In-Q-Tel's leadership wasn't just benefiting indirectly from board positions, but creating entirely new investment vehicles designed to convert intelligence community relationships into personal wealth. The structure embodied the privatization of national security, where officials moved seamlessly between government roles, nonprofit intelligence investment positions, and for-profit ventures—all within the same technology sector.

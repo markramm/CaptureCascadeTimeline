@@ -226,21 +226,28 @@
 
 .control-group label {
   display: block;
-  color: #94a3b8;
+  color: #cbd5e1;
   font-size: 0.875rem;
+  font-weight: 500;
   margin-bottom: 0.375rem;
 }
 
 .timeline-select {
   width: 100%;
-  background: #0f172a;
-  border: 1px solid #334155;
-  color: #e5e7eb;
+  background: #1e293b !important;
+  border: 1px solid #475569;
+  color: #e5e7eb !important;
   padding: 0.5rem;
   border-radius: 0.375rem;
   font-size: 0.875rem;
   cursor: pointer;
   transition: all 0.2s;
+}
+
+.timeline-select option {
+  background: #1e293b;
+  color: #e5e7eb;
+  padding: 0.5rem;
 }
 
 .timeline-select:hover {

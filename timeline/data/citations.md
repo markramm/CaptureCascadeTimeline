@@ -10997,7 +10997,10 @@
 ## Giuliani Associate Sought $2 Million Payment for Trump Pardons
 *Date: 2021-04-15*
 
-1. [Lev Parnas and Igor Fruman charged with campaign finance violations](https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans)
+1. [Giuliani associate sought $2M for pardons, businessman says](https://apnews.com/article/donald-trump-rudy-giuliani-joe-biden-ukraine-arrests-3de12a6f8e31b7ac51502a7f9d34457f)
+2. [Businessman told of $2 million pardon scheme involving Giuliani](https://www.nytimes.com/2021/04/15/us/politics/pardons-giuliani-trump.html)
+3. [Pardons for sale - Giuliani network and Trump clemency](https://www.reuters.com/world/us/associate-giuliani-sought-money-pardons-businessman-tells-prosecutors-2021-04-15/)
+4. [Lev Parnas and Igor Fruman charged with campaign finance violations](https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans)
 
 ## Amazon extends Rekognition police ban indefinitely as Congressional regulation stalls
 *Date: 2021-05-18*
