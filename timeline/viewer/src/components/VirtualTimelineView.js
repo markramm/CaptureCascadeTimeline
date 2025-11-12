@@ -187,7 +187,7 @@ const VirtualTimelineView = ({
     <div className="virtual-timeline-container">
       <div className="virtual-timeline-header">
         <p>
-          Showing {events.length} of {totalCount} events
+          {totalCount.toLocaleString()} events (scroll to view all)
         </p>
       </div>
 
