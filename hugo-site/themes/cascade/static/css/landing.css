@@ -23,7 +23,7 @@
 .landing-header h1 {
   font-size: 3.5rem;
   font-weight: 700;
-  background: linear-gradient(135deg, #ff6b6b, #ffd93d);
+  background: linear-gradient(135deg, #3b82f6, #60a5fa);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -40,8 +40,8 @@
 }
 
 .hero-enter-btn {
-  background: linear-gradient(135deg, #ff6b6b, #ffd93d);
-  color: #0f0f1f;
+  background: linear-gradient(135deg, #3b82f6, #60a5fa);
+  color: #ffffff;
   border: none;
   padding: 20px 40px;
   font-size: 1.3rem;
@@ -49,7 +49,7 @@
   border-radius: 50px;
   cursor: pointer;
   transition: all 0.3s ease;
-  box-shadow: 0 10px 30px rgba(255, 107, 107, 0.3);
+  box-shadow: 0 10px 30px rgba(59, 130, 246, 0.3);
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-top: 10px;
@@ -59,16 +59,16 @@
 
 .hero-enter-btn:hover {
   transform: translateY(-3px);
-  box-shadow: 0 15px 40px rgba(255, 107, 107, 0.4);
-  background: linear-gradient(135deg, #ff7b7b, #ffdd4d);
+  box-shadow: 0 15px 40px rgba(59, 130, 246, 0.4);
+  background: linear-gradient(135deg, #60a5fa, #93c5fd);
 }
 
 .cascade-framework {
   margin-bottom: 60px;
   padding: 50px;
-  background: linear-gradient(135deg, rgba(255, 107, 107, 0.08), rgba(255, 217, 61, 0.05));
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.08), rgba(96, 165, 250, 0.05));
   border-radius: 16px;
-  border: 2px solid rgba(255, 107, 107, 0.3);
+  border: 2px solid rgba(59, 130, 246, 0.3);
   position: relative;
 }
 
@@ -77,8 +77,8 @@
   position: absolute;
   top: -12px;
   right: 30px;
-  background: linear-gradient(135deg, #ff6b6b, #ffd93d);
-  color: #0f0f1f;
+  background: linear-gradient(135deg, #3b82f6, #60a5fa);
+  color: #ffffff;
   padding: 4px 16px;
   border-radius: 20px;
   font-weight: 700;
@@ -89,7 +89,7 @@
 .cascade-framework h2 {
   font-size: 2.2rem;
   margin-bottom: 30px;
-  color: #ffd93d;
+  color: #60a5fa;
   text-align: center;
 }
 
@@ -120,7 +120,7 @@
   padding: 20px;
   background: rgba(255, 255, 255, 0.05);
   border-radius: 10px;
-  border-left: 4px solid #ff6b6b;
+  border-left: 4px solid #3b82f6;
   transition: all 0.3s ease;
 }
 
@@ -136,15 +136,15 @@
   width: 40px;
   height: 40px;
   min-width: 40px;
-  background: linear-gradient(135deg, #ff6b6b, #ffd93d);
-  color: #0f0f1f;
+  background: linear-gradient(135deg, #3b82f6, #60a5fa);
+  color: #ffffff;
   border-radius: 50%;
   font-weight: 700;
   font-size: 1.2rem;
 }
 
 .cascade-step strong {
-  color: #ffd93d;
+  color: #60a5fa;
   margin-right: 10px;
 }
 
@@ -159,7 +159,7 @@
 .cascade-evidence p {
   margin-bottom: 20px;
   font-size: 1.2rem;
-  color: #ff6b6b;
+  color: #3b82f6;
 }
 
 .acceleration-stats {
@@ -177,7 +177,7 @@
 
 .era strong {
   font-size: 2rem;
-  color: #ff6b6b;
+  color: #3b82f6;
   display: block;
   margin-top: 5px;
 }
@@ -201,7 +201,7 @@
 .mission h2 {
   font-size: 2rem;
   margin-bottom: 20px;
-  color: #ffd93d;
+  color: #60a5fa;
 }
 
 .mission p {
@@ -236,7 +236,7 @@
 .stat-number {
   font-size: 2.5rem;
   font-weight: 700;
-  color: #ff6b6b;
+  color: #3b82f6;
   margin-bottom: 8px;
 }
 
@@ -250,15 +250,15 @@
 .key-findings {
   margin-bottom: 60px;
   padding: 40px;
-  background: rgba(255, 107, 107, 0.05);
+  background: rgba(59, 130, 246, 0.05);
   border-radius: 12px;
-  border: 1px solid rgba(255, 107, 107, 0.2);
+  border: 1px solid rgba(59, 130, 246, 0.2);
 }
 
 .key-findings h2 {
   font-size: 2rem;
   margin-bottom: 24px;
-  color: #ff6b6b;
+  color: #3b82f6;
 }
 
 .key-findings ul {
@@ -277,12 +277,12 @@
   content: "▸";
   position: absolute;
   left: 0;
-  color: #ffd93d;
+  color: #60a5fa;
   font-weight: bold;
 }
 
 .key-findings strong {
-  color: #ffd93d;
+  color: #60a5fa;
 }
 
 .how-to-use {
@@ -293,7 +293,7 @@
   font-size: 2rem;
   margin-bottom: 30px;
   text-align: center;
-  color: #ffd93d;
+  color: #60a5fa;
 }
 
 .usage-cards {
@@ -318,7 +318,7 @@
 .usage-card h3 {
   font-size: 1.3rem;
   margin-bottom: 12px;
-  color: #ff6b6b;
+  color: #3b82f6;
 }
 
 .usage-card p {
@@ -327,28 +327,28 @@
 }
 
 .usage-card a {
-  color: #ffd93d;
+  color: #60a5fa;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .usage-card a:hover {
-  color: #ff6b6b;
+  color: #93c5fd;
 }
 
 .cta-section {
   text-align: center;
   margin-bottom: 60px;
   padding: 60px 20px;
-  background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(255, 217, 61, 0.1));
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(96, 165, 250, 0.1));
   border-radius: 16px;
-  border: 2px solid rgba(255, 217, 61, 0.3);
+  border: 2px solid rgba(96, 165, 250, 0.3);
 }
 
 .enter-timeline-btn,
 .enter-timeline-btn-bottom {
-  background: linear-gradient(135deg, #ff6b6b, #ffd93d);
-  color: #0f0f1f;
+  background: linear-gradient(135deg, #3b82f6, #60a5fa);
+  color: #ffffff;
   border: none;
   padding: 18px 48px;
   font-size: 1.3rem;
@@ -357,7 +357,7 @@
   cursor: pointer;
   transition: all 0.3s ease;
   letter-spacing: 0.5px;
-  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.3);
+  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
   display: inline-block;
   text-decoration: none;
 }
@@ -365,7 +365,7 @@
 .enter-timeline-btn:hover,
 .enter-timeline-btn-bottom:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 107, 107, 0.4);
+  box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4);
 }
 
 .external-links {
@@ -391,7 +391,7 @@
 .link-card:hover {
   background: rgba(255, 255, 255, 0.08);
   transform: translateX(4px);
-  border-color: rgba(255, 217, 61, 0.3);
+  border-color: rgba(96, 165, 250, 0.3);
 }
 
 .link-icon {
@@ -401,7 +401,7 @@
 .link-title {
   font-size: 1.1rem;
   font-weight: 600;
-  color: #ffd93d;
+  color: #60a5fa;
   margin-bottom: 4px;
 }
 
@@ -418,7 +418,7 @@
   font-size: 2rem;
   margin-bottom: 30px;
   text-align: center;
-  color: #ffd93d;
+  color: #60a5fa;
 }
 
 .contribute-options {
@@ -437,7 +437,7 @@
 .contribute-card h3 {
   font-size: 1.3rem;
   margin-bottom: 12px;
-  color: #ff6b6b;
+  color: #3b82f6;
 }
 
 .contribute-card p {
@@ -447,14 +447,14 @@
 }
 
 .contribute-card a {
-  color: #ffd93d;
+  color: #60a5fa;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s ease;
 }
 
 .contribute-card a:hover {
-  color: #ff6b6b;
+  color: #93c5fd;
 }
 
 .disclaimer {
@@ -468,7 +468,7 @@
 .disclaimer h2 {
   font-size: 2rem;
   margin-bottom: 20px;
-  color: #ffd93d;
+  color: #60a5fa;
 }
 
 .disclaimer p {
@@ -520,13 +520,13 @@
 }
 
 .footer-legal a {
-  color: #ffd93d;
+  color: #60a5fa;
   text-decoration: none;
   transition: color 0.2s;
 }
 
 .footer-legal a:hover {
-  color: #ff6b6b;
+  color: #93c5fd;
 }
 
 .footer-copyright {
