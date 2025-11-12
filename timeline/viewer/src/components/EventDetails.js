@@ -249,7 +249,7 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
                     )}
                     {source.url && (
                       <div className="source-links">
-                        <a 
+                        <a
                           href={source.url}
                           target="_blank"
                           rel="noopener noreferrer"
@@ -259,19 +259,18 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
                           <ExternalLink size={14} />
                           View Source
                         </a>
-                        {brokenLinks[source.url] && (
-                          <a
-                            href={getArchiveUrl(source.url, source.date)}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="archive-link"
-                            onClick={(e) => e.stopPropagation()}
-                          >
-                            Try Archive
-                          </a>
-                        )}
+                        <a
+                          href={getArchiveUrl(source.url, source.date)}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="archive-link"
+                          onClick={(e) => e.stopPropagation()}
+                        >
+                          <ExternalLink size={14} />
+                          View Archive
+                        </a>
                         <button
-                          className="report-broken-link"
+                          className="report-broken-link-button"
                           onClick={() => {
                             setBrokenLinks({...brokenLinks, [source.url]: true});
                             openGitHub(createBrokenLinkIssue(event.id, source.url));
@@ -279,6 +278,7 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
                           title="Report broken link"
                         >
                           <AlertTriangle size={14} />
+                          Report Broken
                         </button>
                       </div>
                     )}

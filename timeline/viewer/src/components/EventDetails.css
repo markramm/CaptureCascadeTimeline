@@ -288,34 +288,36 @@
 }
 
 .archive-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
   color: #fbbf24;
   text-decoration: none;
   font-size: 0.875rem;
-  padding: 0.25rem 0.5rem;
-  background: rgba(251, 191, 36, 0.1);
-  border: 1px solid rgba(251, 191, 36, 0.3);
-  border-radius: 0.25rem;
-  transition: all 0.2s;
+  transition: color 0.2s;
 }
 
 .archive-link:hover {
-  background: rgba(251, 191, 36, 0.2);
   color: #fcd34d;
 }
 
-.report-broken-link {
-  background: transparent;
-  border: none;
-  color: #ef4444;
-  padding: 0.25rem;
+.report-broken-link-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  color: #fca5a5;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
   cursor: pointer;
   transition: all 0.2s;
-  opacity: 0.5;
 }
 
-.report-broken-link:hover {
-  opacity: 1;
-  transform: scale(1.1);
+.report-broken-link-button:hover {
+  background: rgba(239, 68, 68, 0.2);
+  color: #fecaca;
 }
 
 .action-button {
