@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import LandingPage from './components/LandingPage';
+import NavigationBar from './components/NavigationBar';
 import TimelineViewWrapper from './components/TimelineViewWrapper';
 import FilterPanel from './components/FilterPanel';
 import EventDetails from './components/EventDetails';
@@ -582,13 +583,15 @@ function App() {
 
   return (
     <div className="app">
+      <NavigationBar />
+
       {/* Share notification */}
       {shareNotification && (
         <div className={`share-notification ${shareNotification.type}`}>
           {shareNotification.message}
         </div>
       )}
-      
+
       <header className="app-header">
         <div className="header-content">
           <h1 
