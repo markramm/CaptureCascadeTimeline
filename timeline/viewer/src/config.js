@@ -5,7 +5,7 @@
 const isDevelopment = process.env.NODE_ENV === 'development';
 const isGitHubPages = window.location.hostname.includes('github.io') ||
                      window.location.pathname.includes('/kleptocracy-timeline');
-const isStaticDeployment = window.location.hostname.includes('capturecascade.org');
+// const isStaticDeployment = window.location.hostname.includes('capturecascade.org');
 
 // Base URL configuration
 const getBaseUrl = () => {
@@ -24,7 +24,9 @@ const getBaseUrl = () => {
 const BASE_URL = getBaseUrl();
 
 // Determine if we should use live API or static files
-const USE_LIVE_API = isDevelopment && !isGitHubPages && !isStaticDeployment;
+// Temporarily disabled: Live API has stale data (1873 events vs 2875 in static files)
+// TODO: Update live API database with latest events, then re-enable
+const USE_LIVE_API = false; // isDevelopment && !isGitHubPages && !isStaticDeployment;
 
 // API endpoint configuration
 const getLiveApiPath = (endpoint) => `${BASE_URL}/api/${endpoint}`;

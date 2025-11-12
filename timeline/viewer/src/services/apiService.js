@@ -64,8 +64,25 @@ export const timelineEventsAPI = {
     if (!USE_LIVE_API) {
       // Fallback to static data with cache busting
       const cacheBuster = `?v=${Date.now()}`;
-      console.log('[apiService] Fetching from:', API_ENDPOINTS.timeline + cacheBuster);
-      const response = await apiClient.get(API_ENDPOINTS.timeline + cacheBuster);
+      const url = API_ENDPOINTS.timeline + cacheBuster;
+      console.log('[apiService] Fetching from:', url);
+
+      // In development, webpack dev server doesn't serve public/ files properly
+      // Use native fetch instead of axios to access static files
+      if (process.env.NODE_ENV === 'development') {
+        console.log('[apiService] Development mode - using fetch() for static files');
+        const response = await fetch(url);
+        const data = await response.json();
+        console.log('[apiService] Response status:', response.status);
+        console.log('[apiService] Response data type:', Array.isArray(data) ? 'array' : typeof data);
+        console.log('[apiService] Response data length:', Array.isArray(data) ? data.length : 'N/A');
+        const transformed = transformStaticData(data, 'timeline');
+        const events = transformed.events || transformed;
+        console.log('[apiService] After transform, returning', Array.isArray(events) ? events.length : 'non-array', 'events');
+        return transformed;
+      }
+
+      const response = await apiClient.get(url);
       console.log('[apiService] Response status:', response.status);
       console.log('[apiService] Response data type:', Array.isArray(response.data) ? 'array' : typeof response.data);
       console.log('[apiService] Response data length:', Array.isArray(response.data) ? response.data.length : 'N/A');
