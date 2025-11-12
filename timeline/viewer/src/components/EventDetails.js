@@ -18,14 +18,15 @@ import {
   AlertTriangle
 } from 'lucide-react';
 import ContributeButton from './ContributeButton';
-import { 
-  getEventEditUrl, 
-  getEventViewUrl, 
+import {
+  getEventEditUrl,
+  getEventViewUrl,
   createBrokenLinkIssue,
   createCorrectionIssue,
   getArchiveUrl,
   openGitHub
 } from '../utils/githubUtils';
+import { generateStaticEventUrl } from '../utils/shareUtils';
 import './EventDetails.css';
 
 const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneClick, onShare }) => {
@@ -295,6 +296,16 @@ const EventDetails = ({ event, onClose, onTagClick, onActorClick, onCaptureLaneC
               </div>
             </div>
             <div className="github-links">
+              <a
+                href={generateStaticEventUrl(event.id)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="github-link"
+                title="View static page (no-JS, SEO-friendly)"
+              >
+                <FileText size={16} />
+                View Static Page
+              </a>
               <button
                 className="github-link"
                 onClick={() => openGitHub(getEventViewUrl(event.id))}
