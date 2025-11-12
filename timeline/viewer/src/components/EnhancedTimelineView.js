@@ -459,9 +459,8 @@ const EnhancedTimelineEvent = ({
             height: `${8 + importance}px`
           }}
         />
-        <div className="compact-event-card" style={{ 
-          borderLeft: `3px solid ${getImportanceColor(importance)}`,
-          background: importance >= 7 ? 'rgba(30, 41, 59, 0.7)' : 'rgba(30, 41, 59, 0.5)'
+        <div className="compact-event-card" style={{
+          borderLeft: `3px solid ${getImportanceColor(importance)}`
         }}
         onClick={(e) => {
           e.stopPropagation();
