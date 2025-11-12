@@ -17,6 +17,7 @@ const PORT = process.env.PORT || 8080;
 
 const HUGO_DIR = path.join(__dirname, 'hugo-site/public');
 const VIEWER_DIR = path.join(__dirname, 'timeline/viewer/build');
+const API_DIR = path.join(__dirname, 'timeline/data/api');
 
 console.log('\n🚀 Starting CaptureCascade Timeline Development Server...\n');
 
@@ -78,6 +79,9 @@ function startServer() {
     return;
   }
 
+  // Serve API data files at /api
+  app.use('/api', express.static(API_DIR));
+
   // Serve React viewer at /viewer
   app.use('/viewer', express.static(VIEWER_DIR));
 
@@ -114,6 +118,7 @@ function startServer() {
     console.log(`   Hugo site:        http://localhost:${PORT}/`);
     console.log(`   React viewer:     http://localhost:${PORT}/viewer`);
     console.log(`   Events (static):  http://localhost:${PORT}/events/`);
+    console.log(`   API data:         http://localhost:${PORT}/api/`);
     console.log('\n📝 This matches the production deployment structure.\n');
     console.log('   Press Ctrl+C to stop\n');
   });
