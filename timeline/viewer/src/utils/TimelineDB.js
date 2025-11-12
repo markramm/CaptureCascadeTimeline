@@ -77,11 +77,29 @@ export class TimelineDB {
       throw new Error('Database not initialized');
     }
 
+    // Filter out events without IDs and log them
+    const validEvents = events.filter(event => {
+      if (!event || !event.id) {
+        console.warn('[TimelineDB] Skipping event without ID:', {
+          title: event?.title || 'Unknown',
+          date: event?.date || 'Unknown',
+          hasId: !!event?.id
+        });
+        return false;
+      }
+      return true;
+    });
+
+    const skippedCount = events.length - validEvents.length;
+    if (skippedCount > 0) {
+      console.warn(`[TimelineDB] Skipped ${skippedCount} events without IDs out of ${events.length} total`);
+    }
+
     const BATCH_SIZE = 100;
     let totalAdded = 0;
 
-    for (let i = 0; i < events.length; i += BATCH_SIZE) {
-      const batch = events.slice(i, i + BATCH_SIZE);
+    for (let i = 0; i < validEvents.length; i += BATCH_SIZE) {
+      const batch = validEvents.slice(i, i + BATCH_SIZE);
       const batchSize = batch.length;
 
       await new Promise((resolve, reject) => {
