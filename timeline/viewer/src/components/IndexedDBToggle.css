@@ -4,6 +4,8 @@
   margin: 1.5rem 0 0 0;
   padding: 1rem;
   border-top: 1px solid rgba(100, 116, 139, 0.3);
+  position: relative;
+  z-index: 90; /* Above keyboard-help overlay (z-index: 80) */
 }
 
 .indexeddb-toggle-header {
