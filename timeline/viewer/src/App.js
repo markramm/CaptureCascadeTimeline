@@ -129,6 +129,11 @@ function App() {
       
       // Extract events from paginated response
       const events = eventsData.events || eventsData;
+      console.log(`[App] Loaded ${events.length} events from API`);
+      console.log(`[App] eventsData type:`, Array.isArray(eventsData) ? 'array' : 'object');
+      if (eventsData.events) {
+        console.log(`[App] eventsData.events.length:`, eventsData.events.length);
+      }
       setEvents(events);
       setFilteredEvents(events);
       
