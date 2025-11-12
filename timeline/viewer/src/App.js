@@ -118,57 +118,104 @@ function App() {
       } else {
         setLoading(true);
       }
-      const [eventsData, tagsData, actorsData, statsData, actorStatsData, importanceData] = await Promise.all([
-        apiService.events.getEvents({ per_page: 10000 }), // Load all events
-        apiService.metadata.getTags(),
-        apiService.metadata.getActors(),
-        apiService.stats.getOverview(),
-        apiService.stats.getActorStats({ limit: 10 }),
-        apiService.stats.getImportanceStats()
-      ]);
-      
-      // Extract events from paginated response
-      const events = eventsData.events || eventsData;
-      console.log(`[App] Loaded ${events.length} events from API`);
-      console.log(`[App] eventsData type:`, Array.isArray(eventsData) ? 'array' : 'object');
-      if (eventsData.events) {
-        console.log(`[App] eventsData.events.length:`, eventsData.events.length);
+
+      // Import FEATURE_FLAGS to check if IndexedDB is enabled
+      const { FEATURE_FLAGS } = require('./config');
+      const useIndexedDB = FEATURE_FLAGS.USE_INDEXED_DB;
+
+      if (useIndexedDB) {
+        // IndexedDB optimization: Load only critical data for initial render
+        // VirtualTimelineView will load its own event data from IndexedDB
+        console.log('[App] Using IndexedDB mode - loading minimal initial data for fast render');
+
+        const [tagsData, actorsData] = await Promise.all([
+          apiService.metadata.getTags(),
+          apiService.metadata.getActors()
+        ]);
+
+        // Extract metadata (needed for filters)
+        setAllTags(tagsData.tags || []);
+        setAllActors(actorsData.actors || []);
+        setAllCaptureLanes([]);
+
+        // Set empty events array - not needed for IndexedDB mode
+        setEvents([]);
+        setFilteredEvents([]);
+
+        // Mark as loaded - UI can render now
+        setLoading(false);
+        setRefreshing(false);
+        setError(null);
+
+        // Load stats in background (non-blocking)
+        Promise.all([
+          apiService.stats.getOverview(),
+          apiService.stats.getActorStats({ limit: 10 }),
+          apiService.stats.getImportanceStats()
+        ]).then(([statsData, actorStatsData, importanceData]) => {
+          const enhancedStats = {
+            ...statsData,
+            top_actors: actorStatsData.actor_stats || [],
+            importance_distribution: importanceData.distribution || {},
+            importance_by_year: importanceData.by_year || {}
+          };
+          setStats(enhancedStats);
+          console.log('[App] Background stats loaded');
+        }).catch(err => {
+          console.warn('[App] Failed to load stats (non-critical):', err);
+        });
+
+      } else {
+        // Legacy mode: Load all events for EnhancedTimelineView
+        console.log('[App] Using legacy mode - loading all events');
+
+        const [eventsData, tagsData, actorsData, statsData, actorStatsData, importanceData] = await Promise.all([
+          apiService.events.getEvents({ per_page: 10000 }), // Load all events
+          apiService.metadata.getTags(),
+          apiService.metadata.getActors(),
+          apiService.stats.getOverview(),
+          apiService.stats.getActorStats({ limit: 10 }),
+          apiService.stats.getImportanceStats()
+        ]);
+
+        // Extract events from paginated response
+        const events = eventsData.events || eventsData;
+        console.log(`[App] Loaded ${events.length} events from API`);
+        setEvents(events);
+        setFilteredEvents(events);
+
+        // Extract metadata
+        setAllTags(tagsData.tags || []);
+        setAllActors(actorsData.actors || []);
+        setAllCaptureLanes([]);
+
+        // Enhance stats with additional API data
+        const enhancedStats = {
+          ...statsData,
+          top_actors: actorStatsData.actor_stats || [],
+          importance_distribution: importanceData.distribution || {},
+          importance_by_year: importanceData.by_year || {},
+          // Generate events_by_year from the events data for compatibility
+          events_by_year: eventsData.events ?
+            eventsData.events.reduce((acc, event) => {
+              const year = event.date?.substring(0, 4);
+              if (year) {
+                acc[year] = (acc[year] || 0) + 1;
+              }
+              return acc;
+            }, {}) : {}
+        };
+        setStats(enhancedStats);
+        setLoading(false);
+        setRefreshing(false);
+        setError(null);
       }
-      setEvents(events);
-      setFilteredEvents(events);
-      
-      // Extract metadata
-      setAllTags(tagsData.tags || []);
-      setAllActors(actorsData.actors || []);
-      
-      // Note: Capture lanes are not part of the API v2 - we'll use tags instead
-      setAllCaptureLanes([]);
-      
-      // Enhance stats with additional API data
-      const enhancedStats = {
-        ...statsData,
-        top_actors: actorStatsData.actor_stats || [],
-        importance_distribution: importanceData.distribution || {},
-        importance_by_year: importanceData.by_year || {},
-        // Generate events_by_year from the events data for compatibility
-        events_by_year: eventsData.events ? 
-          eventsData.events.reduce((acc, event) => {
-            const year = event.date?.substring(0, 4);
-            if (year) {
-              acc[year] = (acc[year] || 0) + 1;
-            }
-            return acc;
-          }, {}) : {}
-      };
-      setStats(enhancedStats);
-      setError(null);
     } catch (err) {
       const errorMessage = USE_LIVE_API
         ? 'Failed to load timeline data. Please ensure the Research Monitor v2 server is running on port 5558.'
         : 'Failed to load timeline data. Please check that the API files are deployed correctly.';
       setError(errorMessage);
       console.error('Error loading data:', err);
-    } finally {
       setLoading(false);
       setRefreshing(false);
     }
