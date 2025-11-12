@@ -125,6 +125,15 @@ export const transformStaticData = (data, endpoint) => {
   */
 };
 
+// Feature flags
+const FEATURE_FLAGS = {
+  // IndexedDB optimization for memory reduction
+  USE_INDEXED_DB: localStorage.getItem('useIndexedDB') === 'true' || false,
+
+  // Enable IndexedDB by default for production (can be disabled via localStorage)
+  USE_INDEXED_DB_DEFAULT: !isDevelopment
+};
+
 const config = {
   BASE_URL,
   API_ENDPOINTS,
@@ -132,8 +141,9 @@ const config = {
   transformStaticData,
   isDevelopment,
   isGitHubPages,
-  RAW_DATA_URL
+  RAW_DATA_URL,
+  FEATURE_FLAGS
 };
 
-export { USE_LIVE_API };
+export { USE_LIVE_API, FEATURE_FLAGS };
 export default config;

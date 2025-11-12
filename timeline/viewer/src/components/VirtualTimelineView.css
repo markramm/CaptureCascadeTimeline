@@ -1,0 +1,244 @@
+/* Virtual Timeline View Styles */
+
+.virtual-timeline-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.virtual-timeline-header {
+  padding: 1rem;
+  background: #f8f9fa;
+  border-bottom: 1px solid #dee2e6;
+  font-size: 0.875rem;
+  color: #6c757d;
+}
+
+.virtual-timeline-list {
+  outline: none;
+}
+
+/* Loading states */
+.virtual-timeline-initializing,
+.virtual-timeline-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  padding: 2rem;
+}
+
+.virtual-timeline-error {
+  padding: 2rem;
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 4px;
+  margin: 2rem;
+}
+
+.virtual-timeline-error h3 {
+  color: #856404;
+  margin-top: 0;
+}
+
+.virtual-timeline-empty {
+  padding: 3rem;
+  text-align: center;
+  color: #6c757d;
+}
+
+.spinner {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #007bff;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.text-muted {
+  color: #6c757d;
+  font-size: 0.875rem;
+}
+
+/* Event Card Styles */
+.timeline-event-wrapper {
+  padding: 0.5rem 1rem;
+}
+
+.timeline-event-card {
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  height: calc(100% - 1rem);
+  display: flex;
+  flex-direction: column;
+}
+
+.timeline-event-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-color: #007bff;
+  transform: translateY(-2px);
+}
+
+.timeline-event-card:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+.event-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.event-date {
+  font-size: 0.875rem;
+  color: #6c757d;
+  font-weight: 500;
+}
+
+.event-importance {
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  background: #f8f9fa;
+  color: #495057;
+}
+
+.importance-10,
+.importance-9 {
+  background: #dc3545;
+  color: white;
+}
+
+.importance-8,
+.importance-7 {
+  background: #fd7e14;
+  color: white;
+}
+
+.importance-6,
+.importance-5 {
+  background: #ffc107;
+  color: #212529;
+}
+
+.event-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #212529;
+  margin: 0 0 0.5rem 0;
+  line-height: 1.4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.event-summary {
+  font-size: 0.875rem;
+  color: #6c757d;
+  line-height: 1.5;
+  margin: 0 0 0.75rem 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  flex: 1;
+}
+
+.event-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-top: auto;
+}
+
+.event-tag {
+  font-size: 0.75rem;
+  padding: 0.125rem 0.5rem;
+  background: #e9ecef;
+  color: #495057;
+  border-radius: 12px;
+  white-space: nowrap;
+}
+
+.event-tag-more {
+  font-size: 0.75rem;
+  padding: 0.125rem 0.5rem;
+  color: #6c757d;
+  font-weight: 500;
+}
+
+/* Loading skeleton */
+.timeline-event-loading {
+  padding: 0.5rem 1rem;
+}
+
+.loading-skeleton {
+  background: #f8f9fa;
+  border-radius: 8px;
+  height: calc(100% - 1rem);
+  position: relative;
+  overflow: hidden;
+}
+
+.loading-skeleton::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.5),
+    transparent
+  );
+  animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+  100% {
+    left: 100%;
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .timeline-event-wrapper {
+    padding: 0.25rem 0.5rem;
+  }
+
+  .timeline-event-card {
+    padding: 0.75rem;
+  }
+
+  .event-title {
+    font-size: 0.9375rem;
+  }
+
+  .event-summary {
+    font-size: 0.8125rem;
+  }
+
+  .virtual-timeline-header {
+    padding: 0.75rem;
+  }
+}
