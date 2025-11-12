@@ -743,8 +743,6 @@ function App() {
               exit={{ x: -300 }}
               transition={{ type: "spring", stiffness: 300, damping: 30 }}
             >
-              <IndexedDBToggle />
-
               <FilterPanel
                 allTags={allTags}
                 allActors={allActors}
@@ -865,6 +863,8 @@ function App() {
                   currentDateRange: dateRange
                 } : null}
               />
+
+              <IndexedDBToggle />
             </motion.aside>
           )}
         </AnimatePresence>

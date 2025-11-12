@@ -1,7 +1,22 @@
 /* IndexedDB Toggle Styles */
 
 .indexeddb-toggle-container {
-  margin: 1rem 0;
+  margin: 1.5rem 0 0 0;
+  padding: 1rem;
+  border-top: 1px solid rgba(100, 116, 139, 0.3);
+}
+
+.indexeddb-toggle-header {
+  margin-bottom: 0.75rem;
+}
+
+.indexeddb-toggle-header h4 {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .indexeddb-toggle {
@@ -62,7 +77,7 @@
 .toggle-text {
   font-size: 0.9375rem;
   font-weight: 500;
-  color: #212529;
+  color: #e2e8f0;
 }
 
 .info-button {

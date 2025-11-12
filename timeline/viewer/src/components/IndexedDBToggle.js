@@ -43,6 +43,9 @@ const IndexedDBToggle = () => {
 
   return (
     <div className="indexeddb-toggle-container">
+      <div className="indexeddb-toggle-header">
+        <h4>Performance Mode</h4>
+      </div>
       <div className="indexeddb-toggle">
         <label className="toggle-label">
           <input
@@ -53,14 +56,14 @@ const IndexedDBToggle = () => {
           />
           <span className="toggle-slider"></span>
           <span className="toggle-text">
-            {useIndexedDB ? 'IndexedDB (Memory Optimized)' : 'Traditional (Full Load)'}
+            {useIndexedDB ? 'Memory Optimized (Recommended)' : 'Load All Events'}
           </span>
         </label>
 
         <button
           className="info-button"
           onClick={() => setShowInfo(!showInfo)}
-          aria-label="Information about IndexedDB"
+          aria-label="Information about performance mode"
         >
           ℹ️
         </button>
