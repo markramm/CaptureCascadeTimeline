@@ -1,5 +1,5 @@
 ---
-id: 2024-09-01--pennsylvania-scipnet-four-county-deployment
+id: 2024-09-01--pennsylvania-scipnet-carbyne-four-county-deployment
 date: '2024-09-01'
 title: Pennsylvania SCIPNet deploys Carbyne APEX across four counties, becoming first state NG911 system with $3.5 million contract
 importance: 7
