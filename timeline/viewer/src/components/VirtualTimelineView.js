@@ -208,7 +208,16 @@ const VirtualTimelineView = ({
  * Individual event card component
  */
 const TimelineEventCard = ({ event, onClick }) => {
+  if (!event) {
+    console.warn('[TimelineEventCard] Received null/undefined event');
+    return null;
+  }
+
   const formattedDate = event.date ? new Date(event.date).toLocaleDateString() : 'Unknown date';
+  const title = event.title || 'Untitled Event';
+  const summary = event.summary || '';
+  const importance = event.importance || 5;
+  const tags = event.tags || [];
 
   return (
     <div
@@ -217,35 +226,79 @@ const TimelineEventCard = ({ event, onClick }) => {
       role="button"
       tabIndex={0}
       onKeyPress={(e) => e.key === 'Enter' && onClick && onClick()}
+      style={{
+        background: 'white',
+        border: '1px solid #dee2e6',
+        borderRadius: '6px',
+        padding: '0.625rem 0.75rem',
+        cursor: 'pointer',
+        minHeight: '120px'
+      }}
     >
-      <div className="event-header">
-        <div className="event-date">{formattedDate}</div>
-        {event.importance && (
-          <div className={`event-importance importance-${event.importance}`}>
-            {event.importance}/10
+      <div className="event-header" style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.375rem' }}>
+        <div className="event-date" style={{ fontSize: '0.8125rem', color: '#495057', fontWeight: 600 }}>
+          {formattedDate}
+        </div>
+        {importance && (
+          <div
+            className={`event-importance importance-${importance}`}
+            style={{
+              fontSize: '0.6875rem',
+              fontWeight: 700,
+              padding: '0.125rem 0.375rem',
+              borderRadius: '3px',
+              background: importance >= 9 ? '#dc3545' : importance >= 7 ? '#fd7e14' : importance >= 5 ? '#ffc107' : '#f8f9fa',
+              color: importance >= 5 ? (importance >= 7 ? 'white' : '#212529') : '#495057'
+            }}
+          >
+            {importance}/10
           </div>
         )}
       </div>
 
-      <h3 className="event-title">{event.title}</h3>
+      <h3 className="event-title" style={{
+        fontSize: '0.9375rem',
+        fontWeight: 600,
+        color: '#1a1a1a',
+        margin: '0 0 0.375rem 0'
+      }}>
+        {title}
+      </h3>
 
-      {event.summary && (
-        <p className="event-summary">
-          {event.summary.length > 200
-            ? event.summary.substring(0, 200) + '...'
-            : event.summary}
+      {summary && (
+        <p className="event-summary" style={{
+          fontSize: '0.8125rem',
+          color: '#555',
+          lineHeight: 1.4,
+          margin: '0 0 0.5rem 0'
+        }}>
+          {summary.length > 200
+            ? summary.substring(0, 200) + '...'
+            : summary}
         </p>
       )}
 
-      {event.tags && event.tags.length > 0 && (
-        <div className="event-tags">
-          {event.tags.slice(0, 5).map((tag, i) => (
-            <span key={i} className="event-tag">
+      {tags.length > 0 && (
+        <div className="event-tags" style={{ display: 'flex', flexWrap: 'wrap', gap: '0.25rem' }}>
+          {tags.slice(0, 5).map((tag, i) => (
+            <span
+              key={i}
+              className="event-tag"
+              style={{
+                fontSize: '0.6875rem',
+                padding: '0.0625rem 0.375rem',
+                background: '#e9ecef',
+                color: '#495057',
+                borderRadius: '10px'
+              }}
+            >
               {tag}
             </span>
           ))}
-          {event.tags.length > 5 && (
-            <span className="event-tag-more">+{event.tags.length - 5}</span>
+          {tags.length > 5 && (
+            <span className="event-tag-more" style={{ fontSize: '0.6875rem', color: '#6c757d' }}>
+              +{tags.length - 5}
+            </span>
           )}
         </div>
       )}
