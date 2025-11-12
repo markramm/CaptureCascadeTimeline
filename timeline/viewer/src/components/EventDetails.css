@@ -135,6 +135,7 @@
 .notes-text {
   color: #cbd5e1;
   line-height: 1.7;
+  white-space: pre-line;
 }
 
 .actors-grid,

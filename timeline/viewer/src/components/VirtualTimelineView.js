@@ -205,15 +205,25 @@ const VirtualTimelineView = ({
     );
   }
 
+  const timelineHeight = totalCount * ITEM_HEIGHT;
+
+  // Custom inner element that includes the timeline line
+  const innerElementType = React.forwardRef(({ style, ...rest }, ref) => (
+    <div ref={ref} style={style} {...rest}>
+      <div className="timeline-line" style={{ height: `${timelineHeight}px` }} />
+      {rest.children}
+    </div>
+  ));
+
   return (
-    <div className="virtual-timeline-container" style={{ position: 'relative' }}>
-      <div className="timeline-line" />
+    <div className="virtual-timeline-container">
       <List
         height={window.innerHeight - 150}
         itemCount={totalCount}
         itemSize={ITEM_HEIGHT}
         width="100%"
         className="virtual-timeline-list"
+        innerElementType={innerElementType}
       >
         {Row}
       </List>
