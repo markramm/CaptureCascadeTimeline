@@ -10,11 +10,11 @@ actors:
 - FAA safety engineers
 sources:
 - outlet: The Street
-  title: "It Was Go, Go, Go" - Boeing Rushed 737 MAX Design In Race With Airbus
+  title: '"It Was Go, Go, Go" - Boeing Rushed 737 MAX Design In Race With Airbus'
   url: https://www.thestreet.com/phildavis/news/it-was-go-go-go-boeing-rushed-737-max-design-in-race-with-airbus
   date: '2019-03-29'
 - outlet: Seattle Times
-  title: Flawed Analysis, Failed Oversight - How Boeing, FAA Certified the Suspect 737 MAX Flight Control System
+  title: 'Flawed Analysis, Failed Oversight - How Boeing, FAA Certified the Suspect 737 MAX Flight Control System'
   url: https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/
   date: '2019-03-17'
 - outlet: FlyerTalk

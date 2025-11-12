@@ -33,12 +33,12 @@ sources:
   outlet: The American Prospect
   date: '2013-09-13'
   tier: 2
-- title: 'Robert Rubin'
+- title: Robert Rubin
   url: https://en.wikipedia.org/wiki/Robert_Rubin
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'Who Would Sit on Today's Committee to Save the World'
+- title: "Who Would Sit on Today's Committee to Save the World"
   url: https://www.cfr.org/blog/who-would-sit-todays-committee-save-world
   outlet: Council on Foreign Relations
   date: '2020-03-23'

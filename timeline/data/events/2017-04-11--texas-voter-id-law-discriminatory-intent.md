@@ -1,6 +1,6 @@
 ---
 id: 2017-04-11--texas-voter-id-law-discriminatory-intent
-date: 2017-04-11
+date: '2017-04-11'
 title: Federal Court Rules Texas Voter ID Law Intentionally Discriminatory Against Minorities
 importance: 8
 tags:
@@ -14,12 +14,12 @@ actors:
   - Federal Courts
 sources:
   - url: https://www.cnn.com/2017/04/11/politics/texas-voter-id-law-discriminate/index.html
-    title: Texas voter ID law designed to discriminate, judge rules
+    title: 'Texas voter ID law designed to discriminate, judge rules'
     publisher: CNN
-    date: 2017-04-11
+    date: '2017-04-11'
     tier: 2
   - url: https://www.texastribune.org/2016/07/20/appeals-court-rules-texas-voter-id/
-    title: Texas Voter ID Law Violates Voting Rights Act, Court Rules
+    title: 'Texas Voter ID Law Violates Voting Rights Act, Court Rules'
     publisher: Texas Tribune
     date: 2016-07-20
     tier: 2
@@ -29,7 +29,7 @@ sources:
     date: 2018-08-27
     tier: 1
   - url: https://campaignlegal.org/story/citizens-barred-polls-negative-impact-strict-photo-voter-id-texas
-    title: Citizens barred from the polls: The negative impact of strict photo voter ID in Texas
+    title: 'Citizens barred from the polls: The negative impact of strict photo voter ID in Texas'
     publisher: Campaign Legal Center
     date: 2017-01-01
     tier: 1

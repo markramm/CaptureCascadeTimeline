@@ -1,6 +1,6 @@
 ---
 id: 2018-01-22--pennsylvania-supreme-court-strikes-gerrymandering
-date: 2018-01-22
+date: '2018-01-22'
 title: Pennsylvania Supreme Court Strikes Down Congressional Map as Unconstitutional Partisan Gerrymander
 importance: 8
 tags:
@@ -25,7 +25,7 @@ sources:
     date: 2018-01-22
     tier: 1
   - url: https://www.brennancenter.org/our-work/analysis-opinion/pennsylvania-supreme-court-confirms-states-congressional-map-illegal
-    title: Pennsylvania Supreme Court Confirms: State's Congressional Map Is Illegal Partisan Gerrymander
+    title: "Pennsylvania Supreme Court Confirms: State's Congressional Map Is Illegal Partisan Gerrymander"
     publisher: Brennan Center for Justice
     date: 2018-02-07
     tier: 1

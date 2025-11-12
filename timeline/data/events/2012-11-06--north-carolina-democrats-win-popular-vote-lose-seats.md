@@ -1,6 +1,6 @@
 ---
 id: 2012-11-06--north-carolina-democrats-win-popular-vote-lose-seats
-date: 2012-11-06
+date: '2012-11-06'
 title: North Carolina Democrats Win Popular Vote But Lose 9 of 13 Congressional Seats
 importance: 9
 tags:
@@ -30,7 +30,7 @@ sources:
     date: 2013-01-01
     tier: 1
   - url: https://www.democracydocket.com/analysis/gerrymandering-deep-dive-north-carolina/
-    title: Gerrymandering Deep Dive: North Carolina
+    title: 'Gerrymandering Deep Dive: North Carolina'
     publisher: Democracy Docket
     date: 2022-01-01
     tier: 2

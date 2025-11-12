@@ -1,0 +1,57 @@
+{
+  "id": "2019-01-01--state-corporate-tax-rates-decline-33-percent-alec-race-to-bottom",
+  "date": "2019-01-01",
+  "title": "State Corporate Tax Rates Decline 33% Over Three Decades - ALEC's Interstate Race-to-Bottom Costs States $43-57 Billion Annually in Lost Revenue",
+  "summary": "By 2019, research documented the cumulative impact of ALEC's systematic corporate tax-cutting campaign: the effective state and local tax rate on corporate profits had declined from 5.9% in 1989 to 3.9% in 2019—a 33% reduction representing the successful culmination of three decades of interstate tax competition promoted by ALEC's model legislation, 'Rich States, Poor States' rankings, and corporate lobbying. Economic Policy Institute analysis revealed this corporate tax decline cost states an estimated $43-57 billion annually in lost revenue—funds that would otherwise support education, infrastructure, health care, and other public services. Between 2000 and 2019, forty-four states maintained corporate income taxes with rates ranging from 2.5% in North Carolina to 12% in Iowa, but the overall trend was relentlessly downward as states competed to attract business relocations and expansions by offering ever-lower tax rates. Following the 2017 federal corporate tax cut from 35% to 21%, ALEC declared a 'perfect moment' for state-level corporate tax reductions, with Georgia, Iowa, and Missouri immediately slashing corporate rates to mirror federal cuts. Between 2021 and 2023 alone, twenty-six states cut personal and/or corporate income tax rates in what ITEP called a 'tax cutting spree,' with many states subsequently experiencing budget crises, struggles to fund public services, and threats of downgraded credit ratings. The corporate tax decline was driven by multiple factors promoted by ALEC: direct corporate rate reductions, tax incentive packages for business relocations (the 'race to the bottom' epitomized by Amazon's HQ2 competition), proliferation of tax loopholes and exemptions, and the shift from C-corporations to pass-through entities that paid lower effective rates. Good Jobs First documented this as the legacy of a '50-year campaign by corporations to divide and conquer the states,' preventing government cooperation while forcing interstate competition that primarily benefited mobile corporations at the expense of resident taxpayers. The revenue loss had predictable consequences: states that aggressively cut corporate taxes were forced to reduce education funding (with several states experiencing teacher strikes over pay and school funding), defer infrastructure maintenance, cut health care programs, and shift tax burdens onto middle- and low-income families through higher sales taxes and fees. Center on Budget and Policy Priorities research found that ALEC's tax agenda 'would shrink state tax revenues, make it much harder for states to invest in education, infrastructure, and other priorities important for economic growth, and likely reduce growth over time.' The 33% decline in corporate tax rates represented a massive wealth transfer from public services to corporate shareholders, with no corresponding economic benefit: multiple studies showed states with lower corporate taxes did not experience faster job growth or income gains, debunking ALEC's core economic claims. By 2019, the race-to-bottom model had become self-perpetuating—states felt compelled to match competitors' tax cuts even as evidence mounted that such policies damaged their economies and public services, demonstrating how ALEC's systematic campaign had successfully restructured state fiscal policy nationwide to prioritize corporate interests over public investment.",
+  "importance": 8,
+  "tags": [
+    "alec",
+    "corporate-corruption",
+    "tax-policy",
+    "race-to-bottom",
+    "fiscal-crisis",
+    "wealth-transfer",
+    "education-cuts",
+    "infrastructure",
+    "economic-inequality",
+    "austerity"
+  ],
+  "actors": [
+    "American Legislative Exchange Council",
+    "State Legislatures",
+    "Corporate Lobby",
+    "Good Jobs First",
+    "Economic Policy Institute",
+    "Institute on Taxation and Economic Policy"
+  ],
+  "sources": [
+    {
+      "url": "https://www.epi.org/publication/reclaiming-corporate-tax-revenues/",
+      "title": "Reclaiming corporate tax revenues: Corporate income tax revenues are critical to the ability of state and local governments to provide basic services",
+      "publisher": "Economic Policy Institute",
+      "date": "2021-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://goodjobsfirst.org/alec-and-state-policy-network/",
+      "title": "ALEC and the State Policy Network",
+      "publisher": "Good Jobs First",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth",
+      "title": "ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth",
+      "publisher": "Center on Budget and Policy Priorities",
+      "date": "2024-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://itep.org/category/state-corporate-taxes/",
+      "title": "State Corporate Taxes",
+      "publisher": "Institute on Taxation and Economic Policy",
+      "date": "2024-01-01",
+      "tier": 1
+    }
+  ]
+}

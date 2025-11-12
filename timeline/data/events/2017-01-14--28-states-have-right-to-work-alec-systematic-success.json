@@ -1,0 +1,49 @@
+{
+  "id": "2017-01-14--28-states-have-right-to-work-alec-systematic-success",
+  "date": "2017-01-14",
+  "title": "28 States Adopt Right-to-Work Laws, Documenting ALEC's Systematic Labor Suppression Success",
+  "summary": "By early 2017, 28 U.S. states have right-to-work laws, with eight traditionally industrial and union-strong states adopting the legislation since 2010 using American Legislative Exchange Council (ALEC) model legislation: Indiana and Michigan (2012), Wisconsin (2015), West Virginia (2016), and Kentucky and Missouri (2017). ALEC, which began promoting right-to-work legislation in 1979 with little success for decades, achieves a dramatic breakthrough following the 2010 Tea Party midterm elections that gave Republicans control of 26 state legislatures. Analysis of the state legislation reveals identical or near-identical language to ALEC's \"Right to Work Act\" model bill across all adopting states, demonstrating this is not organic state-by-state policymaking but rather a coordinated, corporate-funded campaign. The legislative offensive is backed by a network including the U.S. Chamber of Commerce, National Association of Manufacturers, Americans for Prosperity (Koch brothers), and ALEC corporate members including McDonald's, Walmart, Bank of America, and MillerCoors. Research shows that in the five states adopting right-to-work between 2011-2017, unionization rates and wages both declined, particularly in construction, education, and public administration sectors. The coordinated campaign represents one of the most successful corporate lobbying efforts in modern American history, systematically undermining worker power and Democratic Party funding sources across multiple states simultaneously while presenting the appearance of independent state decisions.",
+  "importance": 10,
+  "actors": [
+    "American Legislative Exchange Council (ALEC)",
+    "Koch brothers",
+    "Americans for Prosperity",
+    "U.S. Chamber of Commerce",
+    "National Association of Manufacturers",
+    "Republican Party"
+  ],
+  "tags": [
+    "labor-suppression",
+    "ALEC",
+    "right-to-work",
+    "union-busting",
+    "state-capture",
+    "model-legislation",
+    "corporate-lobbying",
+    "Koch-network",
+    "systematic-campaign"
+  ],
+  "sources": [
+    {
+      "url": "https://alec.org/article/2017-is-right-to-works-watershed-year/",
+      "title": "2017 is Right-to-Work's Watershed Year",
+      "publisher": "American Legislative Exchange Council",
+      "date": "2017-01-14",
+      "tier": 2
+    },
+    {
+      "url": "https://www.nber.org/digest/202208/impacts-right-work-laws-unionization-and-wages",
+      "title": "Impacts of Right-to-Work Laws on Unionization and Wages",
+      "publisher": "National Bureau of Economic Research",
+      "date": "2022-08",
+      "tier": 1
+    },
+    {
+      "url": "https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/",
+      "title": "ALEC's decades of 'right-to-work' effort pay off in Michigan",
+      "publisher": "Center for Public Integrity",
+      "date": "2012-12-13",
+      "tier": 1
+    }
+  ]
+}

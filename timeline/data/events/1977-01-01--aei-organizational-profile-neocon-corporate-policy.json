@@ -1,0 +1,57 @@
+{
+  "id": "1977-01-01--aei-organizational-profile-neocon-corporate-policy",
+  "date": "1977-01-01",
+  "title": "American Enterprise Institute Organizational Profile: Transforming Industry Lobby into 'Scholarly' Think Tank",
+  "summary": "Comprehensive organizational analysis exposes the American Enterprise Institute's evolution from explicit industry lobby (founded 1938 as American Enterprise Association) into prestigious 'think tank' providing intellectual cover for corporate interests. AEI's rebranding strategy—adopting academic trappings while serving corporate funders—became the template for laundering business advocacy as scholarship, establishing the neoconservative intellectual infrastructure that drove deregulation, privatization, and militarism from Reagan through Bush II.\n\nBUDGET GROWTH AND TRANSFORMATION: AEI exploded from $1 million budget with 10 staff (1970) to $8 million budget with 125 staff (1980) during conservative movement expansion under Reagan. By 2015, revenue reached $84.6 million against $38.6 million expenses, establishing AEI among the most financially powerful think tanks. This growth trajectory mirrors conservative movement funding, with budget expanding precisely when corporate interests needed intellectual ammunition for deregulation and union-busting.\n\nCORPORATE FUNDING SOURCES: ExxonMobil provided $4.4 million total funding (including $3.6M since 1998), positioning AEI as climate denial advocate. Koch Foundation network contributed $2.2 million (2004-2017) including $1.6M from Charles Koch Foundation (2011-2016). Additional major funders include DonorsTrust/Donors Capital Fund ($5M+ 2012-2016), Sarah Scaife Foundation ($1.7M 2012-2016), Bradley Foundation ($480K 2012-2016), Coors Foundation ($425K 2011-2016), and DeVos Foundation ($1M in 2017 alone). This funding portfolio reads as directory of extractive industries, fossil fuel companies, and billionaire ideologues seeking policy influence.\n\nNEOCONSERVATIVE POLICY CENTER: AEI became 'primary intellectual home of supply-side economics and neoconservatism' during Reagan era, housing founding father Irving Kristol and recruiting Jeane Kirkpatrick whose 'Dictatorships and Double Standards' essay provided intellectual justification for supporting right-wing dictatorships. In 2000s, AEI served as neoconservative headquarters driving Iraq War advocacy. The organization provides scholarly veneer for aggressive foreign policy, defending corporate extraction globally while dismissing human rights concerns as naive idealism.\n\nREVOLVING DOOR AND PERSONNEL: Dick Cheney joined AEI in 1990s before becoming Vice President, returning the think tank to influence in Bush II administration. Other notable fellows and Irving Kristol Award winners include Paul Ryan, Antonin Scalia, Clarence Thomas, Alan Greenspan, David Petraeus, and Charles Krauthammer. This roster demonstrates AEI's function as holding tank for conservative officials between government posts, maintaining their profiles and policy development while out of power.\n\nCAPTURE MECHANISM: AEI perfected the transformation of corporate lobbying into academic research. Instead of ExxonMobil directly opposing climate policy, AEI scholars publish 'studies' questioning climate science. Instead of defense contractors lobbying for war, AEI fellows write 'analyses' showing military intervention's necessity. The institutional prestige—awards, visiting fellowships, academic-style publications—obscures that AEI functions as well-funded advocacy shop for its corporate donors. Media quotes AEI scholars as independent experts when they're paid advocates, completing the laundering of corporate interests into respectable policy debate.",
+  "importance": 8,
+  "actors": [
+    "American Enterprise Institute",
+    "Irving Kristol",
+    "Jeane Kirkpatrick",
+    "Dick Cheney",
+    "Paul Ryan",
+    "ExxonMobil",
+    "Koch Foundation",
+    "William Baroody Sr."
+  ],
+  "tags": [
+    "organizational-profile",
+    "think-tank-infrastructure",
+    "neoconservatism",
+    "corporate-lobbying",
+    "climate-denial",
+    "deregulation-advocacy",
+    "revolving-door",
+    "Iraq-war-advocacy"
+  ],
+  "sources": [
+    {
+      "url": "https://www.desmog.com/american-enterprise-institute/",
+      "title": "American Enterprise Institute (AEI)",
+      "publisher": "DeSmog",
+      "date": "2024",
+      "tier": 2
+    },
+    {
+      "url": "https://www.sourcewatch.org/index.php/American_Enterprise_Institute",
+      "title": "American Enterprise Institute",
+      "publisher": "SourceWatch / Center for Media and Democracy",
+      "date": "2024",
+      "tier": 1
+    },
+    {
+      "url": "https://www.influencewatch.org/non-profit/american-enterprise-institute/",
+      "title": "American Enterprise Institute",
+      "publisher": "InfluenceWatch",
+      "date": "2024",
+      "tier": 2
+    },
+    {
+      "url": "http://conservativetransparency.org/org/american-enterprise-institute/",
+      "title": "American Enterprise Institute Funding Data",
+      "publisher": "Conservative Transparency",
+      "date": "2024",
+      "tier": 2
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 id: 2020-10-05--trump-walter-reed-joyride-secret-service
 date: '2020-10-05'
-title: COVID-Positive Trump Leaves Hospital for SUV Joyride, Endangering Secret Service in Sealed Vehicle
+title: 'COVID-Positive Trump Leaves Hospital for SUV Joyride, Endangering Secret Service in Sealed Vehicle'
 importance: 7
 tags:
   - COVID-19
@@ -13,7 +13,7 @@ actors:
   - James Phillips
   - Sean Conley
 sources:
-  - title: 'This is insanity' - Doctors slam Trump's drive to greet supporters outside Walter Reed hospital
+  - title: "'This is insanity' - Doctors slam Trump's drive to greet supporters outside Walter Reed hospital"
     url: https://www.cnbc.com/2020/10/05/trump-doctors-slam-short-drive-outside-walter-reed-hospital.html
     publisher: CNBC
     date: '2020-10-05'

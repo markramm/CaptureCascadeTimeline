@@ -1,7 +1,7 @@
 ---
 id: 2025-02-18--white-house-asmr-deportation-flight-video
 date: '2025-02-18'
-title: White House Posts "ASMR: Illegal Alien Deportation Flight" Video Packaging State Violence as Entertainment
+title: 'White House Posts "ASMR: Illegal Alien Deportation Flight" Video Packaging State Violence as Entertainment'
 importance: 8
 tags:
 - white-house
@@ -71,9 +71,7 @@ The February 18 post featured:
 - Represents official U.S. government communication
 - Amplified across administration social media networks
 
-## Criti
-
-cs: "Disgusting and Dehumanizing"
+## Critics: "Disgusting and Dehumanizing"
 
 Immediate response to the video focused on its explicit dehumanization of immigrants and trivialization of state violence:
 

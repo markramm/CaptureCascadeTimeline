@@ -1,0 +1,61 @@
+{
+  "id": "2013-07-01--alec-pushes-139-education-privatization-bills-across-states",
+  "date": "2013-07-01",
+  "title": "ALEC Coordinates 139 Education Privatization Bills Across States - Systematic Public School Defunding Campaign",
+  "summary": "Analysis by the Center for Media and Democracy reveals that state legislators introduced at least 139 bills in 2013 reflecting American Legislative Exchange Council (ALEC) model legislation designed to privatize public education, continuing ALEC's coordinated multi-year campaign to systematically defund public schools and transfer taxpayer dollars to private and for-profit education corporations. The 2013 legislative wave includes ALEC's 'Next Generation Charter Schools Act' (approved by ALEC in 2007), expanded voucher programs, education savings accounts, parent trigger laws, and virtual school legislation—all developed behind closed doors where corporate lobbyists from companies like K12 Inc. vote as equals with state legislators on model bills.\n\nThe 2013 campaign demonstrates ALEC's systematic state-by-state privatization strategy. ALEC's Education and Workforce Development Task Force, chaired by lobbyists from for-profit education corporations, creates template legislation that appears simultaneously across dozens of states, creating the false impression of grassroots state policy innovation when it is actually centrally coordinated corporate lobbying. Major ALEC education funders driving the 2013 agenda include Koch Industries (via Americans for Prosperity), the DeVos family (funding American Federation for Children), K12 Inc. (the nation's largest online charter operator, which paid $50,000 for 'Chairman' level ALEC sponsorship), and the Bradley Foundation (which spent over $31 million on school privatization from 2001-2012).\n\nThe 'Next Generation Charter Schools Act,' one of ALEC's most influential 2013 templates, removes democratic oversight of charter school authorization by allowing entities beyond elected school boards—including independent state commissions, universities, and governor-appointed bodies—to approve and monitor charter schools. The model establishes charter schools as independent Local Educational Agencies (LEAs) with minimal accountability while directing public funding through three options: state to districts to charters, state directly to charters, or state to authorizers to charters. This structure enables for-profit charter management organizations like K12 Inc. to access billions in public education funds while avoiding transparency, elected oversight, and accountability standards required of traditional public schools. Indiana's 2011 charter law directly copied ALEC's 'Next Generation' language, including provisions for charter authorizers selected by the governor rather than elected school boards.\n\nALEC's 2013 voucher expansion bills build on the 'Great Schools Tax Credit' and 'Special Needs Scholarship Program Act' models to systematically increase eligibility and reduce oversight. Nine states—Arkansas, Florida, Georgia, Missouri, Mississippi, North Carolina, New York, Oklahoma, and Rhode Island—considered ALEC-inspired special needs voucher bills in 2013 or expanded existing programs. These bills deliberately use special education as a wedge to establish voucher infrastructure that is then expanded to universal eligibility, following the pattern established in Arizona (2011) and Wisconsin. The 'Special Needs Scholarship Program Act' carves out vouchers for students with disabilities while removing accountability requirements, enabling private schools to accept public funds for special education students while maintaining the right to reject or expel students whose needs are too expensive to serve.\n\nResearch by the National Education Policy Center (NEPC) exposes ALEC's education claims as ideologically driven rather than evidence-based. NEPC reviews find that ALEC's education policy recommendations 'draw selectively from advocacy groups to make claims that are not supported in the wider, peer-reviewed literature' and that 'the research ALEC highlights is quite shoddy and unsuitable for supporting its recommendations.' Despite ALEC's rhetoric about improving education for disadvantaged students, data consistently shows that voucher and charter programs primarily benefit families already using private schools or enable wealthy families to subsidize private tuition with public funds. Wisconsin data from 2013 reveals over 80,000 students enrolled in voucher programs, with only 25% coming from public schools—meaning the total loss in public school enrollment to vouchers is only 2% while the funding diversion is massive.\n\nThe 2013 legislative campaign reflects ALEC's long-term strategy articulated by economist Milton Friedman at ALEC's 2006 meeting: vouchers are 'a step towards abolishing the public school system.' ALEC has promoted educational vouchers since 1983, gradually evolving terminology and mechanisms to avoid political opposition while pursuing the same goal—privatizing public education. The shift from 'vouchers' to 'education savings accounts,' 'scholarship tax credits,' and 'parental choice' represents strategic rebranding rather than substantive policy differences. All mechanisms redirect public education funding to private, religious, and for-profit institutions while undermining the democratic accountability, transparency, and civil rights protections that govern public schools. By 2013, ALEC's systematic campaign has successfully established privatization infrastructure in dozens of states, with billions in public education funds flowing to unaccountable private entities.",
+  "importance": 8,
+  "actors": [
+    "American Legislative Exchange Council (ALEC)",
+    "ALEC Education and Workforce Development Task Force",
+    "Center for Media and Democracy",
+    "K12 Inc.",
+    "Koch Industries",
+    "DeVos family",
+    "Bradley Foundation",
+    "Americans for Prosperity",
+    "American Federation for Children"
+  ],
+  "tags": [
+    "ALEC",
+    "education-privatization",
+    "charter-schools",
+    "school-vouchers",
+    "model-legislation",
+    "corporate-lobbying",
+    "K12-Inc",
+    "Koch-network",
+    "public-school-defunding",
+    "special-education",
+    "state-legislation"
+  ],
+  "sources": [
+    {
+      "url": "https://prwatch.org/news/2013/07/12175/cashing-kids-139-alec-bills-2013-promote-private-profit-education-model",
+      "title": "Cashing in on Kids: 139 ALEC Bills in 2013 Promote a Private, For-Profit Education Model",
+      "publisher": "PR Watch (Center for Media and Democracy)",
+      "date": "2013-07-17",
+      "tier": 2
+    },
+    {
+      "url": "https://www.alecexposed.org/wiki/Next_Generation_Charter_Schools_Act_Exposed",
+      "title": "Next Generation Charter Schools Act Exposed",
+      "publisher": "ALEC Exposed (Center for Media and Democracy)",
+      "date": "2013-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://edweek.org/ew/articles/2012/04/20/29alec_ep.h31.html",
+      "title": "Controversial Policy Group Casts Long K-12 Shadow",
+      "publisher": "Education Week",
+      "date": "2012-04-20",
+      "tier": 2
+    },
+    {
+      "url": "https://nepc.colorado.edu/thinktank/review-report-card-ALEC-2013",
+      "title": "Review of Report Card on American Education",
+      "publisher": "National Education Policy Center",
+      "date": "2013-12-01",
+      "tier": 1
+    }
+  ]
+}

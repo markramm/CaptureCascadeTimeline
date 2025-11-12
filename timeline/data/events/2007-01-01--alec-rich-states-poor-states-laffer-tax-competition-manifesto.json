@@ -1,0 +1,55 @@
+{
+  "id": "2007-01-01--alec-rich-states-poor-states-laffer-tax-competition-manifesto",
+  "date": "2007-01-01",
+  "title": "ALEC Launches 'Rich States, Poor States' Report with Arthur Laffer - Annual Corporate Tax Competition Manifesto to Drive Interstate Race-to-Bottom",
+  "summary": "In 2007, the American Legislative Exchange Council (ALEC) launched its first annual 'Rich States, Poor States: ALEC-Laffer State Economic Competitiveness Index' report, co-authored by economist Arthur Laffer, Stephen Moore, and ALEC staff. The report ranked all 50 states based on 15 policy variables weighted equally—including corporate tax rates, income tax rates, right-to-work laws, and estate taxes—creating a roadmap for interstate corporate tax competition that critics described as promoting a 'race to the bottom.' Utah received the #1 ranking in 2007 and maintained that position for all subsequent editions through 2025, demonstrating ALEC's consistent ideological preferences. The report's methodology explicitly favored states with the lowest corporate taxes, weakest unions, and most limited public services, claiming these policies promoted economic growth despite substantial academic research showing the opposite. The annual publication became ALEC's flagship propaganda tool for promoting corporate tax cuts across state legislatures, with state legislators receiving copies and pressure to conform their state's policies to ALEC's rankings. The report's economic claims were thoroughly debunked by multiple research organizations: Good Jobs First and the Iowa Policy Project's 2012 'Selling Snake Oil to the States' study found that 'the less a state's economic policies conform to ALEC's policy proposals, the better the state does economically,' showing that states rated higher in ALEC's 2007 rankings actually performed worse economically in subsequent years, while states that rejected ALEC policies achieved better outcomes for both job creation and wage growth. The Economic Policy Institute found ALEC's prescribed policies to reduce progressive taxes, weaken unions, and cut education investment led to increased economic inequality, wage suppression, and sharp reductions in state revenue needed for public infrastructure. The report served as intellectual cover for systematic corporate tax cutting campaigns: following its 2007 launch, states increasingly competed to lower corporate tax rates, with the effective state and local tax rate on corporate profits declining from 5.9% in 1989 to 3.9% by 2019—a 33% reduction that cost states an estimated $43-57 billion annually in lost revenue. The 'Rich States, Poor States' report essentially functioned as an annual corporate shopping guide, telling businesses which states had given away the most tax revenue and gutted the most worker protections, while threatening legislators in other states that they must match these concessions or face economic punishment. The report legitimized the manufactured fiction that lower corporate taxes create prosperity, when in reality they simply transferred wealth from public education, infrastructure, and services to corporate profits.",
+  "importance": 8,
+  "tags": [
+    "alec",
+    "corporate-corruption",
+    "tax-policy",
+    "race-to-bottom",
+    "propaganda",
+    "economic-inequality",
+    "corporate-welfare",
+    "legislative-capture",
+    "supply-side-economics"
+  ],
+  "actors": [
+    "American Legislative Exchange Council",
+    "Arthur Laffer",
+    "Stephen Moore",
+    "Jonathan Williams",
+    "Koch Industries"
+  ],
+  "sources": [
+    {
+      "url": "https://alec.org/article/rich-states-poor-states-turns-eighteen-across-the-states-special-edition/",
+      "title": "Rich States Poor States Turns Eighteen: Across the States Special Edition",
+      "publisher": "American Legislative Exchange Council",
+      "date": "2025-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://goodjobsfirst.org/selling-snake-oil-states-american-legislative-exchange-councils-flawed-prescriptions-pr/",
+      "title": "Selling Snake Oil to the States: The American Legislative Exchange Council's Flawed Prescriptions for Prosperity",
+      "publisher": "Good Jobs First",
+      "date": "2012-11-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.epi.org/press/alecs-economic-agenda-weaken-state-economies/",
+      "title": "ALEC's Economic Agenda Will Weaken State Economies and Harm Working Families, Leading Experts Find",
+      "publisher": "Economic Policy Institute",
+      "date": "2012-11-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.prwatch.org/news/2015/11/12982/alecs-rich-states-poor-states-paints-happy-face-failing-state-policies",
+      "title": "The Koch-Fueled ALEC's 'Rich States, Poor States' Paints a Happy Face on Failing State Policies",
+      "publisher": "Center for Media and Democracy",
+      "date": "2015-11-01",
+      "tier": 2
+    }
+  ]
+}

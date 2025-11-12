@@ -1,7 +1,7 @@
 ---
 id: 2022-01-13--all-flint-charges-dismissed-on-technicality
-date: 2022-01-13
-title: Judge Dismisses All Flint Criminal Charges on Technicality—Zero Accountability After Poisoning Thousands
+date: '2022-01-13'
+title: 'Judge Dismisses All Flint Criminal Charges on Technicality—Zero Accountability After Poisoning Thousands'
 importance: 10
 tags:
   - flint-water-crisis
@@ -31,7 +31,7 @@ sources:
     date: 2022-12-13
     tier: 2
   - url: https://www.abc12.com/news/flint-water-emergency/final-nail-in-the-coffin-flint-water-criminal-cases-are-over/article_69ccfe32-7803-11ee-83ea-ab7d59c016db.html
-    title: 'Final nail in the coffin' - Flint water criminal cases are over
+    title: "'Final nail in the coffin' - Flint water criminal cases are over"
     publisher: ABC12
     date: 2023-10-18
     tier: 2

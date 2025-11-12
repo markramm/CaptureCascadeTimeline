@@ -1,0 +1,59 @@
+{
+  "id": "2005-01-01--alec-great-schools-tax-credit-voucher-model-legislation",
+  "date": "2005-01-01",
+  "title": "ALEC Approves 'Great Schools Tax Credit' Model - Launches Systematic Education Privatization Campaign",
+  "summary": "The American Legislative Exchange Council (ALEC) Board of Directors approves the 'Great Schools Tax Credit Program Act' in January 2005, following Task Force adoption in December 2004. This model legislation creates tax credit scholarships that redirect public education funds to private and religious schools through a backdoor mechanism: corporations receive tax credits for donations to 'scholarship organizations' that pay private school tuition, effectively privatizing public education funding without direct state budget appropriations. The model becomes ALEC's most popular education bill, with 17 bills introduced across 13 states by 2015.\n\nThe legislation marks the beginning of ALEC's coordinated multi-decade campaign to systematically defund and privatize public education across America. ALEC's Education Task Force, funded by for-profit education corporations including K12 Inc. (founded by junk bond king Michael Milken), Koch Industries, and the DeVos family, designs the tax credit mechanism to avoid direct voucher opposition while achieving the same goal Milton Friedman articulated at ALEC's 2006 meeting: vouchers are 'a step towards abolishing the public school system.'\n\nThe Great Schools Tax Credit model deliberately obscures the flow of public money to private schools. Instead of direct state payments (traditional vouchers), corporations donate to nonprofit 'scholarship organizations' and receive dollar-for-dollar or near-dollar state tax credits, reducing state revenue that would fund public schools. These scholarship organizations then pay private school tuition for selected students. This structure allows ALEC legislators to claim they are not 'taking money from public schools' while doing exactly that through reduced tax revenue. The Bradley Foundation alone spent over $31 million on school privatization between 2001-2012, with ALEC providing the legislative templates for deployment.\n\nBy 2015, at least 172 ALEC education bills reflecting this and related models would be introduced across 42 states, with 38 passing into law. The Great Schools Tax Credit mechanism enables private school subsidies without income limits, geographic restrictions, or accountability requirements that govern public schools. Wisconsin demonstrates the expansion trajectory: initial voucher income caps of 175% of poverty level rise to 300% by 2015, allowing families earning $78,637 annually (above the state's median family income of $52,250) to access publicly funded private school tuition. Data reveals nearly 80% of Wisconsin's statewide voucher program participants were not previously enrolled in public schools, meaning the program primarily subsidizes families already paying private tuition rather than helping students 'escape failing public schools' as ALEC claims.\n\nThe model legislation specifically benefits ALEC's corporate members: for-profit education management organizations, online charter school operators like K12 Inc., religious school systems, and corporations seeking tax write-offs. Research by the National Education Policy Center (NEPC) finds that ALEC's education agenda draws 'selectively from advocacy groups to make claims that are not supported in the wider, peer-reviewed literature,' with research ALEC highlights being 'quite shoddy and unsuitable for supporting its recommendations.' Despite 70% of Americans opposing taxpayer funding for private schools, ALEC's model enables systematic privatization behind closed doors where corporate lobbyists vote as equals with elected legislators on bills, with no press or public allowed to see votes or deliberations.",
+  "importance": 8,
+  "actors": [
+    "American Legislative Exchange Council (ALEC)",
+    "ALEC Education Task Force",
+    "K12 Inc.",
+    "Koch Industries",
+    "DeVos family",
+    "Bradley Foundation",
+    "Americans for Prosperity",
+    "Milton Friedman"
+  ],
+  "tags": [
+    "ALEC",
+    "education-privatization",
+    "school-vouchers",
+    "corporate-lobbying",
+    "state-legislation",
+    "tax-credits",
+    "Koch-network",
+    "public-school-defunding",
+    "religious-schools",
+    "model-legislation"
+  ],
+  "sources": [
+    {
+      "url": "https://www.alecexposed.org/wiki/The_Great_Schools_Tax_Credit_Program_Act_Exposed",
+      "title": "The Great Schools Tax Credit Program Act Exposed",
+      "publisher": "ALEC Exposed (Center for Media and Democracy)",
+      "date": "2005-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.prwatch.org/news/2016/03/13054/cashing-kids-172-alec-education-bills-2015",
+      "title": "Cashing in on Kids: 172 ALEC Education Bills Push Privatization in 2015",
+      "publisher": "PR Watch (Center for Media and Democracy)",
+      "date": "2016-03-08",
+      "tier": 2
+    },
+    {
+      "url": "https://nepc.colorado.edu/publication/alec-report",
+      "title": "ALEC 'Report Card' Recycles Bogus School Quality and Improvement Claims",
+      "publisher": "National Education Policy Center",
+      "date": "2017-07-24",
+      "tier": 1
+    },
+    {
+      "url": "https://www.edweek.org/leadership/opinion-a-smart-alec-threatens-public-education/2012/02",
+      "title": "A Smart ALEC Threatens Public Education",
+      "publisher": "Education Week",
+      "date": "2012-02-01",
+      "tier": 2
+    }
+  ]
+}

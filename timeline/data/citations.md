@@ -89,6 +89,20 @@
 2. [Robert Maxwell & the KGB](https://espionagehistoryarchive.com/2019/12/20/robert-maxwell-the-kgb/)
 3. [The Scholarly Publishing Scene — The Maxwell Effect](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=8480&context=atg)
 
+## Milton Friedman's 'The Social Responsibility of Business Is to Increase Its Profits' Establishes Shareholder Primacy Doctrine
+*Date: 1970-09-13*
+
+1. [A Friedman Doctrine: The Social Responsibility of Business Is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)
+2. [Social responsibility matters to business – A different view from Milton Friedman from 50 years ago](https://mitsloan.mit.edu/experts/social-responsibility-matters-to-business-a-different-view-milton-friedman-50-years-ago)
+3. [Friedman doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)
+
+## COINTELPRO Exposed - FBI's Secret War on Civil Rights and Dissent Revealed
+*Date: 1971-03-08*
+
+1. [COINTELPRO (1956-1976)](https://blackpast.org/african-american-history/cointelpro-1956-1976/)
+2. [The History of Surveillance and the Black Community](https://www.eff.org/deeplinks/2014/02/history-surveillance-and-black-community)
+3. [FBI Records Reveal Violent Surveillance of Black Leaders](https://www.lib.berkeley.edu/about/news/fbi)
+
 ## Lewis Powell Authors Corporate Blueprint Memo
 *Date: 1971-08-23*
 
@@ -236,6 +250,14 @@
 3. [Heritage Foundation: Early History and Founding](https://www.newworldencyclopedia.org/entry/Heritage_Foundation)
 4. [Heritage Foundation Founding Details](https://encyclopedia.pub/entry/33259)
 
+## Heritage Foundation Organizational Profile: Conservative Policy Infrastructure and Corporate Capture Mechanism
+*Date: 1973-02-16*
+
+1. [Heritage Foundation - Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237327730)
+2. [6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/)
+3. [Four Trump Cabinet Members Now Call Heritage Home](https://www.heritage.org/impact/four-trump-cabinet-members-now-call-heritage-home)
+4. [Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/)
+
 ## Opus Dei: Canonical Recognition and Unique Ecclesiastical Status
 *Date: 1973-06-25*
 
@@ -249,6 +271,14 @@
 1. [InfluenceWatch: ALEC Founding Overview](https://www.influencewatch.org/non-profit/american-legislative-exchange-council/)
 2. [SourceWatch: ALEC Strategic Approach](https://www.sourcewatch.org/index.php/American_legislative_exchange_council)
 3. [Bill Moyers: United States of ALEC](https://billmoyers.com/episode/united-states-of-alec-a-follow-up/)
+
+## ALEC Organizational Profile: Corporate Vote-Buying Mechanism Disguised as Legislative Council
+*Date: 1973-09-01*
+
+1. [What is ALEC](https://www.alecexposed.org/wiki/What_is_ALEC)
+2. [Here's Who Funds the Right-Wing American Legislative Exchange Council](https://www.exposedbycmd.org/2021/09/22/heres-who-funds-the-right-wing-american-legislative-exchange-council/)
+3. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
+4. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
 
 ## American Legislative Exchange Council (ALEC) Established
 *Date: 1973-09-01*
@@ -279,6 +309,13 @@
 1. [Trilateral Commission](https://en.wikipedia.org/wiki/Trilateral_Commission)
 2. [Trilateral Commission | History & Facts](https://www.britannica.com/topic/Trilateral-Commission)
 3. [Trilateral Commission Records](https://dimes.rockarch.org/collections/2KaqPEr3JRZv5WBQsf9mKn)
+
+## DOJ Sues Trump and Father for Systemic Housing Discrimination
+*Date: 1973-10-15*
+
+1. [Donald Trump's Housing Discrimination Case Still Chases Him Decades Later](https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case)
+2. [United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc.](https://clearinghouse.net/case/15342/)
+3. [Hillary Clinton says federal government sued Donald Trump for housing discrimination](https://www.politifact.com/factchecks/2016/sep/27/hillary-clinton/true-hillary-clinton-says-federal-government-sued-/)
 
 ## US-Saudi Economic Commission Agreement Signed
 *Date: 1974-06-08*
@@ -330,6 +367,13 @@
 2. [Project MKULTRA: CIA Document Collection](https://www.cia.gov/readingroom/document/00163357)
 3. [Pre-Emption: The Church Committee Hearings & The FISA Court](https://www.pbs.org/wgbh/pages/frontline/homefront/preemption/churchfisa.html)
 4. [The Work of Donald Ewen Cameron: From Psychic Driving to MK Ultra](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10443815/)
+
+## Trump Settles Housing Discrimination Case Without Admitting Guilt
+*Date: 1975-06-10*
+
+1. [Donald Trump's Housing Discrimination Case Still Chases Him Decades Later](https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case)
+2. [Consent Order - United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc.](https://clearinghouse.net/doc/83283/)
+3. [How Donald Trump Developed His Political Playbook](https://www.pbs.org/wgbh/frontline/article/donald-trump-roy-cohn-race-discrimination-lawsuit-fight-documentary-excerpt/)
 
 ## Tobacco Industry 'Operation Berkshire' and global coordination to resist smoking regulation
 *Date: 1976-01-01*
@@ -402,6 +446,21 @@
 3. [Corporate PACs as Fundraisers](https://cmr.berkeley.edu/1981/05/23-3-corporate-pacs-as-fundraisers/)
 4. [Buckley v. Valeo Supreme Court Case Analysis](https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/)
 
+## American Enterprise Institute Organizational Profile: Transforming Industry Lobby into 'Scholarly' Think Tank
+*Date: 1977-01-01*
+
+1. [American Enterprise Institute (AEI)](https://www.desmog.com/american-enterprise-institute/)
+2. [American Enterprise Institute](https://www.sourcewatch.org/index.php/American_Enterprise_Institute)
+3. [American Enterprise Institute](https://www.influencewatch.org/non-profit/american-enterprise-institute/)
+4. [American Enterprise Institute Funding Data](http://conservativetransparency.org/org/american-enterprise-institute/)
+
+## American Enterprise Institute Budget Surges to $10 Million - Think Tank Infrastructure Expansion
+*Date: 1977-01-01*
+
+1. [American Enterprise Institute](https://en.wikipedia.org/wiki/American_Enterprise_Institute)
+2. [American Enterprise Institute - SourceWatch](https://www.sourcewatch.org/index.php/American_Enterprise_Institute)
+3. [American Enterprise Institute (AEI)](https://www.britannica.com/topic/American-Enterprise-Institute)
+
 ## BCCI Establishes Partnership with Pakistan's Zia ul-Haq Military Regime
 *Date: 1977-01-01*
 
@@ -411,6 +470,13 @@
 4. [B.C.C.I.: The Dirtiest Bank of All](https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/)
 5. [Strategic Analysis: Pakistan's Military Financing and Intelligence Networks](https://www.tandfonline.com/doi/abs/10.1080/09700161.2019.1625512)
 6. [Historical Documents: Pakistan Intelligence Financing in 1970s](https://history.state.gov/historicaldocuments/frus1977-80v12/d182)
+
+## Cato Institute Founded by Charles Koch - Libertarian Policy Infrastructure
+*Date: 1977-01-01*
+
+1. [Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute)
+2. [Cato Institute - SourceWatch](https://www.sourcewatch.org/index.php/Cato_Institute)
+3. [Cato Institute - InfluenceWatch](https://www.influencewatch.org/non-profit/cato-institute/)
 
 ## Exxon Internal Climate Research Program Confirms Human-Caused Global Warming
 *Date: 1977-07-01*
@@ -425,6 +491,20 @@
 1. [BCCI - Clark Clifford and Robert Altman](https://irp.fas.org/congress/1992_rpt/bcci/13clifford.htm)
 2. [Clifford, Altman Settle BCCI Case](https://www.washingtonpost.com/archive/politics/1998/02/04/clifford-altman-settle-bcci-case/)
 3. [Clark M. Clifford and Robert A. Altman, Appellants, v. United States of America Legal Proceedings](https://law.justia.com/cases/federal/appellate-courts/F3/136/144/553676/)
+
+## Manhattan Institute Founded by CIA Director William Casey - Intelligence-Policy Crossover
+*Date: 1978-01-01*
+
+1. [Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research)
+2. [Manhattan Institute - SourceWatch](https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research)
+3. [William J. Casey](https://en.wikipedia.org/wiki/William_J._Casey)
+
+## DOJ Returns to Court: Trump Violated 1975 Discrimination Settlement
+*Date: 1978-03-06*
+
+1. [Donald Trump's Housing Discrimination Case Still Chases Him Decades Later](https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case)
+2. [Inside the Government's Racial Bias Case Against Donald Trump's Company](https://www.nytimes.com/2016/08/28/us/politics/donald-trump-housing-race.html)
+3. [Trump's 1973 Discrimination Case Was Part of Larger Case](https://time.com/4508889/presidential-debate-1970s-bias-donald-trump/)
 
 ## Powell delivers Bellotti decision establishing corporate First Amendment rights
 *Date: 1978-04-26*
@@ -462,6 +542,13 @@
 2. [What is ALEC](https://www.alecexposed.org/wiki/What_is_ALEC)
 3. [Who Still Funds ALEC?](https://www.commoncause.org/articles/who-still-funds-alec/)
 
+## Moral Majority Founded - Corporate Agenda Masked by Religious Cultural Warfare
+*Date: 1979-06-01*
+
+1. [Moral Majority](https://en.wikipedia.org/wiki/Moral_Majority)
+2. [Paul Weyrich](https://en.wikipedia.org/wiki/Paul_Weyrich)
+3. [Moral Majority Is Founded](https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded)
+
 ## Soviet Afghanistan Invasion Positions BCCI for CIA Covert Operations Expansion
 *Date: 1979-12-27*
 
@@ -493,6 +580,13 @@
 4. [The Strategic Use of Blackmail in Intelligence Operations: Analyzing Mossad's Global Influence](https://www.researchgate.net/publication/390091892_The_Strategic_Use_of_Blackmail_in_Intelligence_Operations_Analyzing_Mossad's_Global_Influence)
 5. [Was Jeffrey Epstein a Spy?](https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/)
 
+## U.S. Backs El Salvador Death Squad Government Through 12-Year Civil War
+*Date: 1980-03-24*
+
+1. [31st Anniversary of the Assassination of Archbishop Oscar Romero](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB339/index.htm)
+2. [Archbishop Romero Assassinated](https://www.zinnedproject.org/news/tdih/romero-assassinated/)
+3. [El Salvador - Death Squad Accountability](https://cja.org/where-we-work/el-salvador/)
+
 ## Powell creates Central Hudson test expanding corporate commercial speech rights
 *Date: 1980-06-20*
 
@@ -507,6 +601,21 @@
 2. [Central Hudson Gas & Electric Corp. v. Public Service Commission](https://www.oyez.org/cases/1979/79-565)
 3. [Central Hudson Test](https://firstamendment.mtsu.edu/article/central-hudson-test/)
 
+## ALEC Establishes Cabinet Task Forces and Partners with Reagan's Task Force on Federalism
+*Date: 1981-01-01*
+
+1. [The American Legislative Exchange Council (ALEC)](https://www.cjcj.org/media/import/documents/the_american_legislative_exchange_council.pdf)
+2. [Paul Weyrich's Troika Reunited: ALEC Partners with Republican Study Committee at Heritage Foundation](https://www.prwatch.org/news/2012/09/11752/paul-weyrichs-troika-reunited-alec-partners-republican-study-committee-heritage-f)
+3. [American Legislative Exchange Council](https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council)
+4. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
+
+## Corporate Tax Avoidance Explosion: Reagan Loopholes Slash Corporate Revenue
+*Date: 1981-01-01*
+
+1. [How four decades of tax cuts fueled inequality](https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/)
+2. [The Spirit of 86: Real Lessons of Last Big Corporate Tax Overhaul](https://americansfortaxfairness.org/the-spirit-of-86-real-lessons-of-the-last-big-corporate-tax-overhaul/)
+3. [How Corporations Shift Profits to Avoid Taxes](https://time.com/6326583/tax-shelters-multinational-corporations/)
+
 ## Heritage Foundation's "Mandate for Leadership" Becomes Reagan Administration Blueprint
 *Date: 1981-01-01*
 
@@ -514,6 +623,37 @@
 2. [Heritage Foundation's Intellectual Energy for Reagan's Agenda](https://www.wsj.com/[historical-article])
 3. [Conservative Policy Blueprint Aims to Reshape Government](https://www.upi.com/[historical-article])
 4. [Heritage Foundation Gives Reagan Passing Grade](https://www.washingtonpost.com/archive/politics/1981/11/22/heritage-foundation-gives-reagan-passing-grade/6ddd166c-ef59-4f2d-b669-372f19bc4d6b/)
+
+## Reagan Administration Muzzles Surgeon General Koop on AIDS for Five Years
+*Date: 1981-01-01*
+
+1. [AIDS, the Surgeon General, and the Politics of Public Health](https://profiles.nlm.nih.gov/spotlight/qq/feature/aids)
+2. [C. Everett Koop: Pioneering Surgeon General Spurred Reagan Response to AIDS](https://www.thedailybeast.com/c-everett-koop-pioneering-surgeon-general-spurred-reagan-response-to-aids/)
+3. [C. Everett Koop and the First Surgeon General Report on AIDS](https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/)
+4. [Shifting Blame: C. Everett Koop AIDS Rhetoric of Guilt and Redemption](https://kbjournal.org/drummond)
+
+## Reagan Environmental Deregulation: Systematic Dismantling of Protections
+*Date: 1981-01-01*
+
+1. [Anne Gorsuch Burford](https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford)
+2. [James G. Watt](https://en.wikipedia.org/wiki/James_G._Watt)
+3. [How Reagan EPA Chief Paved Way for Trump Assault on Agency](https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency)
+
+## Reagan Era Wage Stagnation: Real Wages Decline as Inequality Accelerates
+*Date: 1981-01-01*
+
+1. [Wage Stagnation in Nine Charts](https://www.epi.org/publication/charting-wage-stagnation/)
+2. [Rising income inequality in U.S. fuelled by Reagan attacks on unions](https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/)
+3. [Reaganomics](https://en.wikipedia.org/wiki/Reaganomics)
+4. [Wage growth still lagging behind Clinton, Reagan years](https://www.cnbc.com/2015/03/09/wage-growth-still-lagging-behind-clinton-reagan-years.html)
+
+## Wealth Inequality Explodes: Reagan Policies Accelerate Income Gap
+*Date: 1981-01-01*
+
+1. [Changes in poverty, income inequality during Reagan years](https://pubmed.ncbi.nlm.nih.gov/8500951/)
+2. [Rising income inequality in U.S. fuelled by Reagan attacks on unions](https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/)
+3. [How four decades of tax cuts fueled inequality](https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/)
+4. [Reaganomics](https://en.wikipedia.org/wiki/Reaganomics)
 
 ## Reagan Appoints James Watt as Interior Secretary - Oil Industry Capture
 *Date: 1981-01-28*
@@ -531,12 +671,79 @@
 2. [Jeffrey Epstein: International Moneyman of Mystery](https://www.palmbeachpost.com/story/news/crime/2019/07/10/jeffrey-epstein-international-moneyman-mystery/1677951007/)
 3. [The Talented Mr. Epstein](https://nymag.com/nymetro/news/people/n_7912/)
 
+## Jack Welch Becomes GE CEO, Launches 'Shareholder Value' Era and Mass Layoffs
+*Date: 1981-04-01*
+
+1. [Was GE CEO Jack Welch bad for business?](https://www.npr.org/2022/06/01/1101505691/short-term-profits-and-long-term-consequences-did-jack-welch-break-capitalism)
+2. [Jack Welch and the End of Stakeholder Capitalism](https://robertreich.substack.com/p/jack-welch-and-the-end-of-stakeholder)
+3. [Jack Welch](https://en.wikipedia.org/wiki/Jack_Welch)
+
+## Council for National Policy Founded - Secret Conservative Coordination Network
+*Date: 1981-05-01*
+
+1. [Council for National Policy](https://en.wikipedia.org/wiki/Council_for_National_Policy)
+2. [The Council for National Policy: Behind the Curtain](https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain)
+3. [Council for National Policy - SourceWatch](https://www.sourcewatch.org/index.php/Council_for_National_Policy)
+
+## AIDS Epidemic Begins: Reagan Administration Maintains Years of Deadly Silence
+*Date: 1981-06-05*
+
+1. [Ronald Reagan and AIDS](https://en.wikipedia.org/wiki/Ronald_Reagan_and_AIDS)
+2. [How AIDS Remained an Unspoken But Deadly Epidemic for Years](https://www.history.com/articles/aids-epidemic-ronald-reagan)
+3. [Reagan AIDS Legacy: Silence Equals Death](https://www.sfgate.com/opinion/openforum/article/Reagan-s-AIDS-Legacy-Silence-equals-death-2751030.php)
+4. [Reagan Legacy](https://www.sfaf.org/collections/status/reagans-legacy/)
+
+## Reagan Fires PATCO Strikers: Union-Busting Era Begins
+*Date: 1981-08-03*
+
+1. [1981 Strike Leaves Legacy for American Workers](https://www.npr.org/2006/08/03/5604656/1981-strike-leaves-legacy-for-american-workers)
+2. [Reagan vs. Air Traffic Controllers](https://millercenter.org/reagan-vs-air-traffic-controllers)
+3. [1981 Professional Air Traffic Controllers Organization strike](https://en.wikipedia.org/wiki/1981_Professional_Air_Traffic_Controllers_Organization_strike)
+4. [The Legacy of the Crushed 1981 PATCO Strike](https://jacobin.com/2021/08/reagan-patco-1981-strike-legacy-air-traffic-controllers-union-public-sector-strikebreaking)
+
+## Reagan Signs ERTA: Massive Tax Cuts for Wealthy Begin Inequality Explosion
+*Date: 1981-08-13*
+
+1. [Economic Recovery Tax Act of 1981](https://en.wikipedia.org/wiki/Economic_Recovery_Tax_Act_of_1981)
+2. [Reagan signs Economic Recovery Tax Act](https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta)
+3. [Retrospective on the 1981 Reagan Tax Cut](https://taxfoundation.org/research/all/federal/retrospective-1981-reagan-tax-cut/)
+4. ["Reaganomics": The Economic Recovery Tax Act of 1981](https://reagan.blogs.archives.gov/2016/08/15/reaganomics-the-economic-recovery-tax-act-of-1981/)
+
 ## Federalist Society Founded to Capture Conservative Legal Pipeline
 *Date: 1982-01-01*
 
 1. [How the Federalist Society shaped America's judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/)
 2. [Federalist Society Annual Symposium Details](https://news.yale.edu/2002/02/13/federalist-society-hold-annual-symposium-law-and-truth)
 3. [Federalist Society - Wikipedia](https://en.wikipedia.org/wiki/Federalist_Society)
+
+## Reagan Deficit Explosion: National Debt Triples From $1T to $3T in Eight Years
+*Date: 1982-01-01*
+
+1. [This Republican President Nearly Tripled U.S. Debt](https://247wallst.com/economy/2025/03/12/this-republican-president-nearly-tripled-the-u-s-debt-during-his-time-in-office/)
+2. [Reaganomics](https://en.wikipedia.org/wiki/Reaganomics)
+3. [U.S. Presidents and the Federal Deficit](https://amarkfoundation.org/reports/u-s-presidents-and-the-federal-deficit/)
+4. [Ronald Reagan: Domestic Affairs](https://millercenter.org/president/reagan/domestic-affairs)
+
+## S&L Deregulation Creates Moral Hazard: Recipe for Systematic Fraud
+*Date: 1982-01-01*
+
+1. [Savings and Loan Crisis](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+2. [The Savings and Loan Crisis (1989)](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
+3. [Savings and loan crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis)
+
+## AT&T Breakup Settlement Finalized, Becoming Last Major Antitrust Action for Decades
+*Date: 1982-01-08*
+
+1. [United States v. AT&T (1982)](https://en.wikipedia.org/wiki/United_States_v._AT%26T_(1982))
+2. [The Breakup of 'Ma Bell': United States v. AT&T](https://www.fjc.gov/history/spotlight-judicial-history/breakup-ma-bell)
+3. [How Big Tech landed in the crosshairs of antitrust law](https://www.cascadepbs.org/opinion/2020/11/how-big-tech-landed-crosshairs-antitrust-law/)
+
+## Guatemala Military Coup Brings Ríos Montt to Power with Reagan Support
+*Date: 1982-03-23*
+
+1. [The Guatemala Genocide Ruling, Five Years Later](https://nsarchive.gwu.edu/briefing-book/guatemala/2018-05-10/guatemala-genocide-ruling-five-years-later)
+2. [Former Dictator Found Guilty Of Genocide In Guatemala](https://www.npr.org/sections/thetwo-way/2013/05/10/182867501/former-dictator-found-guilty-of-genocide-in-guatemala)
+3. [Did Reagan Finance Genocide in Guatemala?](https://abcnews.go.com/ABC_Univision/News/ronald-reagan-finance-genocide-guatemala/story?id=19179627)
 
 ## Federalist Society Established: Conservative Judicial Pipeline Inception
 *Date: 1982-04-25*
@@ -545,6 +752,21 @@
 2. [Federalist Society Founding and Conservative Legal Movement](https://en.wikipedia.org/wiki/Federalist_Society)
 3. [Federalist Society: A Conservative Legal Movement's Infrastructure](https://www.britannica.com/topic/Federalist-Society)
 4. [The Federalist Society and Conservative Judicial Recruitment](https://www.peoplefor.org/report/the-federalist-society-from-obscurity-to-power)
+
+## Federalist Society Organizational Profile: Judicial Pipeline and Conservative Legal Movement Infrastructure
+*Date: 1982-04-25*
+
+1. [How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid)
+2. [$80 million dark money group tied to Trump Supreme Court advisor, Leonard Leo](https://www.citizensforethics.org/reports-investigations/crew-investigations/80-million-dark-money-group-tied-to-trump-supreme-court-advisor-leonard-leo/)
+3. [The Scheme Speech 5: The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/)
+4. [How the Federalist Society became the de facto selector of Republican Supreme Court justices](https://slate.com/news-and-politics/2017/01/how-the-federalist-society-became-the-de-facto-selector-of-republican-supreme-court-justices.html)
+
+## Reagan Supports Philippine Dictator Marcos Despite Massive Kleptocracy
+*Date: 1982-09-16*
+
+1. [Ferdinand Marcos Visits the White House](https://vandvreader.org/ferdinand-marcos-visits-the-white-house-16-september-1982/)
+2. [The Philippines - U.S. Policy During the Marcos Years](https://proquest.libguides.com/dnsa/philippines1965)
+3. [How the US Derailed Philippine History in 1986](https://www.rappler.com/voices/thought-leaders/analysis-how-united-states-derailed-philippine-history-1986/)
 
 ## Josemaria Escriva Beatified Despite Controversies
 *Date: 1982-10-06*
@@ -563,6 +785,51 @@
 3. [The Garn-St Germain Depository Institutions Act of 1982](https://www.chicagofed.org/publications/economic-perspectives/1983/march-april-garcia)
 4. [Legislative History and Economic Impact of the Garn-St Germain Depository Institutions Act](https://www.congress.gov/bill/97th-congress/house-bill/6267)
 
+## SEC Adopts Rule 10b-18, Legalizing Stock Buybacks and Creating Major Wealth Extraction Mechanism
+*Date: 1982-11-17*
+
+1. [Division of Trading and Markets: Answers to Frequently Asked Questions Concerning Rule 10b-18](https://www.sec.gov/divisions/marketreg/r10b18faq0504.htm)
+2. [Stock Buybacks: Background and Reform Proposals](https://www.congress.gov/crs-product/LSB10266)
+3. [Should Congress or the SEC 'Do Something' About Stock Buybacks?](https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-april/should-congress-or-the-sec-do-something/)
+
+## Anne Gorsuch Resigns EPA After Contempt of Congress: Regulatory Capture Exposed
+*Date: 1983-03-09*
+
+1. [Anne Gorsuch Burford](https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford)
+2. [Contempt: How Reagan EPA head became first cabinet-level official cited for contempt of Congress](https://www.wesa.fm/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress)
+3. [Anne Gorsuch Burford, 62, Dies; Reagan EPA Director](http://www.washingtonpost.com/wp-dyn/articles/A3418-2004Jul21.html)
+4. [How Reagan EPA Chief Paved the Way for Trump Assault on Agency](https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency)
+
+## James Watt Resigns After Racist Remarks: Interior Department Corruption Ends
+*Date: 1983-10-09*
+
+1. [James G. Watt](https://en.wikipedia.org/wiki/James_G._Watt)
+2. [The Secretary of Interior Once Banned Rock Bands From National Mall](https://www.smithsonianmag.com/smart-news/secretary-interior-once-banned-rock-bands-national-mall-180962735/)
+3. [Watt Sets Off Uproar With Music Ban](https://www.washingtonpost.com/archive/politics/1983/04/07/watt-sets-off-uproar-with-music-ban/ddf51d7c-7161-46a9-a774-869fa71b6601/)
+4. [The Beach Boys attract the wrong element, says Interior Secretary](https://www.upi.com/Archives/1983/07/04/The-Beach-Boys-attract-the-wrong-element-says-Interior-Secretary-bans-them-from-July-4th-celebration/9954426139200/)
+
+## Rita Lavelle Convicted of Perjury: EPA Superfund Corruption Confirmed
+*Date: 1983-12-01*
+
+1. [Federal jury convicts EPA official Rita Lavelle](https://www.upi.com/Archives/1983/12/01/A-federal-jury-Thursday-convicted-EPA-official-Rita-Lavelle/9294439102800/)
+2. [Rita Lavelle](https://en.wikipedia.org/wiki/Rita_Lavelle)
+3. [United States of America v. Rita M. Lavelle](https://law.justia.com/cases/federal/appellate-courts/F2/751/1266/189124/)
+4. [EPA Officials Violated Trust by Manipulating Superfund](https://www.washingtonpost.com/archive/politics/1984/08/31/epa-officials-violated-trust-by-manipulating-the-superfund/eda09f6e-a454-4f83-9055-2a72ec04cf71/)
+
+## Donald Rumsfeld Meets Saddam Hussein as Reagan Special Envoy to Iraq
+*Date: 1983-12-20*
+
+1. [U.S. Links to Saddam During Iran-Iraq War](https://www.npr.org/2005/09/22/4859238/u-s-links-to-saddam-during-iran-iraq-war)
+2. [Shaking Hands with Saddam Hussein](https://nsarchive.gwu.edu/briefing-book/iraq-gate/2018-12-07/shaking-hands-saddam-hussein-cia-documents-detail-us-embrace-iraqi-president-1980s)
+3. [Exclusive CIA Files Prove America Helped Saddam as He Gassed Iran](https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/)
+
+## ALEC Corporate Membership Explodes as Major Corporations Overwhelm Organization with Requests for Legislative Access
+*Date: 1984-01-01*
+
+1. [American Legislative Exchange Council](https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council)
+2. [Shilling for Profit: A Case Study of ALEC's Campaign Against Divestment from Apartheid South Africa](https://www.prwatch.org/news/2013/12/12338/shilling-profit-case-study-alecs-campaign-against-divestment-apartheid-south)
+3. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
+
 ## Drexel Burnham Lambert Raises $100 Million Blind Pool for Nelson Peltz Corporate Raids
 *Date: 1984-01-01*
 
@@ -576,6 +843,14 @@
 1. [The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the JunkBond Raiders](https://www.amazon.com/Predators-Ball-Burnham-JunkBond-Raiders/dp/0140120904)
 2. [Private Equity in The 1980s: Corporate Raiders, Hostile Takeovers and Greenmail](https://www.primidi.com/private_equity_in_the_1980s/corporate_raiders_hostile_takeovers_and_greenmail)
 3. [Wrestling with Reform: Financial Scandals and the Legislation They Inspired](https://www.sechistorical.org/museum/galleries/wwr/wwr05d-markets-milken.php)
+
+## Manhattan Institute Organizational Profile: Urban Policy Infrastructure and CIA-Connected Think Tank
+*Date: 1984-01-01*
+
+1. [Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research)
+2. [Manhattan Institute for Policy Research](https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research)
+3. [Manhattan Institute for Policy Research Funding Data](http://conservativetransparency.org/org/manhattan-institute-for-policy-research/)
+4. [Manhattan Institute](https://militarist-monitor.org/profile/manhattan_institute/)
 
 ## Charles Keating Purchases Lincoln S&L: Systematic Fraud Network
 *Date: 1984-02-01*
@@ -601,6 +876,27 @@
 1. [Robert Maxwell - Wikipedia](https://en.wikipedia.org/wiki/Robert_Maxwell)
 2. [Robert Maxwell | British Media Mogul, Businessman & Politician](https://www.britannica.com/biography/Robert-Maxwell)
 3. [From wooden shack to global media magnate: The rise and fall of Robert Maxwell](https://www.timesofisrael.com/from-wooden-shack-to-global-media-magnate-the-rise-and-fall-of-robert-maxwell/)
+
+## Boland Amendment Explicitly Prohibits All U.S. Funding for Contras
+*Date: 1984-10-12*
+
+1. [Defense Appropriations Act 1985](https://www.congress.gov/bill/98th-congress/house-bill/2968)
+2. [Walsh Report Part I - Iran/Contra Underlying Facts](https://irp.fas.org/offdocs/walsh/part_i.htm)
+3. [The Iran-Contra Affair](https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/)
+
+## Cable Communications Policy Act - Media Deregulation and Consolidation Enabled
+*Date: 1984-10-30*
+
+1. [Cable Communications Policy Act of 1984](https://en.wikipedia.org/wiki/Cable_Communications_Policy_Act_of_1984)
+2. [Cable Communications Policy Act of 1984 (1984)](https://firstamendment.mtsu.edu/article/cable-communications-policy-act-of-1984/)
+3. [S.66 - 98th Congress (1983-1984): Cable Communications Policy Act of 1984](https://www.congress.gov/bill/98th-congress/senate-bill/66)
+
+## Bradley Foundation Transformation - Coordinated Conservative Infrastructure Funding
+*Date: 1985-01-01*
+
+1. [Bradley Foundation](https://en.wikipedia.org/wiki/Bradley_Foundation)
+2. [Lynde and Harry Bradley Foundation - SourceWatch](https://www.sourcewatch.org/index.php/Lynde_and_Harry_Bradley_Foundation)
+3. [Michael S. Joyce](https://en.wikipedia.org/wiki/Michael_S._Joyce)
 
 ## Carl Icahn Phillips Petroleum Hostile Takeover Attempt
 *Date: 1985-01-01*
@@ -629,6 +925,13 @@
 1. [Dirtier than Watergate](https://www.newstatesman.com/politics/2011/04/promis-government-inslaw)
 2. [Memo Shows CIA Was Offered PROMIS Software in 1981](https://www.muckrock.com/news/archives/2018/dec/18/promis-81-memo/)
 3. [The Inslaw Affair: House Judiciary Committee Investigation](https://www.archives.gov/files/research/kavanaugh/releases/docid-70105136.pdf)
+
+## Trickle-Down Legacy: Reagan Policies Make Inequality Structural Feature
+*Date: 1985-01-01*
+
+1. [Rising income inequality in U.S. fuelled by Reagan attacks on unions](https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/)
+2. [How four decades of tax cuts fueled inequality](https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/)
+3. [Trickle-down economics](https://en.wikipedia.org/wiki/Trickle-down_economics)
 
 ## Ronald Perelman Receives $750 Million Drexel Blind Pool for Corporate Acquisitions
 *Date: 1985-01-01*
@@ -660,6 +963,121 @@
 2. [Carl Icahn - Corporate Raiding and TWA Takeover](https://en.wikipedia.org/wiki/Carl_Icahn)
 3. [Carl Icahn Biography and Corporate Strategies](https://www.britannica.com/money/Carl-C-Icahn)
 
+## First Secret Arms Shipment to Iran Initiates Iran-Contra Scandal
+*Date: 1985-08-20*
+
+1. [The Iran-Contra Affair](https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/)
+2. [Final Report of the Independent Counsel for Iran/Contra Matters](https://irp.fas.org/offdocs/walsh/)
+3. [Understanding the Iran-Contra Affairs - Timeline](https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/timeline.php)
+
+## Rock Hudson Dies of AIDS: Reagan Forced to Finally Acknowledge Crisis
+*Date: 1985-10-02*
+
+1. [Hollywood icon Rock Hudson dies of AIDS](https://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids)
+2. [The Hollywood Star Who Confronted the AIDS Silent Epidemic](https://www.smithsonianmag.com/smart-news/hollywood-star-who-confronted-aids-silent-epidemic-180965059/)
+3. [Nancy Reagan Turned Down Rock Hudson Plea For Help](https://www.buzzfeednews.com/article/chrisgeidner/nancy-reagan-turned-down-rock-hudsons-plea-for-help-seven-we)
+4. [1985: the year the AIDS crisis finally broke through the silence](https://www.hivplusmag.com/history/1985-aids-crisis-broke-silence)
+
+## NSC Running Shadow Foreign Policy Through McFarlane and Poindexter
+*Date: 1985-12-04*
+
+1. [Walsh Report Chapter 1 - Robert C. McFarlane](https://irp.fas.org/offdocs/walsh/chap_01.htm)
+2. [Walsh Report Chapter 3 - John M. Poindexter](https://irp.fas.org/offdocs/walsh/chap_03.htm)
+3. [The Iran-Contra Affair](https://levin-center.org/what-is-oversight/portraits/the-iran-contra-affair/)
+
+## State Policy Network (Madison Group) Founded - State-Level Think Tank Coordination
+*Date: 1986-01-01*
+
+1. [State Policy Network](https://en.wikipedia.org/wiki/State_Policy_Network)
+2. [Records Show State Policy Network Was Created by ALEC](https://progressive.org/latest/records-show-state-policy-network-created-alec/)
+3. [State Policy Network - SourceWatch](https://www.sourcewatch.org/index.php/State_Policy_Network)
+
+## Reagan Vetoes Apartheid Sanctions, Congress Overrides in Historic Rebuke
+*Date: 1986-09-26*
+
+1. [Message to the House Returning Without Approval Anti-Apartheid Bill](https://www.reaganlibrary.gov/archives/speech/message-house-representatives-returning-without-approval-bill-concerning-apartheid)
+2. [House Overrides President Reagan's Veto of Anti-Apartheid Act](https://history.house.gov/Historical-Highlights/1951-2000/The-House-overrides-President-Reagan_s-veto-of-the-Comprehensive-Anti_Apartheid-Act/)
+3. [Reagan's Veto Overridden; Sanctions Voted on South Africa](https://www.nytimes.com/1986/10/03/world/reagan-s-veto-overridden-sanctions-voted-on-south-africa.html)
+
+## Koop Releases AIDS Report After Five-Year Delay: Public Health vs Politics
+*Date: 1986-10-22*
+
+1. [C. Everett Koop and First Surgeon General Report on AIDS](https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/)
+2. [AIDS, the Surgeon General, and Politics of Public Health](https://profiles.nlm.nih.gov/spotlight/qq/feature/aids)
+3. [C. Everett Koop: Pioneering Surgeon General](https://www.thedailybeast.com/c-everett-koop-pioneering-surgeon-general-spurred-reagan-response-to-aids/)
+
+## Tax Reform Act of 1986 - Corporate Lobbying Secures Massive Rate Reductions
+*Date: 1986-10-22*
+
+1. [Tax Reform Act of 1986](https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986)
+2. [How four decades of tax cuts fueled inequality](https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/)
+3. [Reagan's Tax Reform Was A Bipartisan Effort of Surrender to America's Deepest Pockets](https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/)
+
+## Anti-Drug Abuse Act Establishes 100-to-1 Crack-Cocaine Sentencing Disparity
+*Date: 1986-10-27*
+
+1. [ACLU Releases Crack Cocaine Report - Anti-Drug Abuse Act of 1986 Deepened Racial Inequity in Sentencing](https://www.aclu.org/press-releases/aclu-releases-crack-cocaine-report-anti-drug-abuse-act-1986-deepened-racial-inequity)
+2. [Fair Sentencing Act](https://en.wikipedia.org/wiki/Fair_Sentencing_Act)
+3. [Crack vs. Powder Cocaine - One Drug, Two Penalties](https://www.criminaldefenselawyer.com/resources/crack-vrs-powder-cocaine-one-drug-two-penalties.htm)
+4. [Anti-Drug Abuse Act of 1986](https://www.thecongressproject.com/anti-drug-abuse-act-of-1986)
+
+## Oliver North Begins Systematic Destruction of Iran-Contra Evidence
+*Date: 1986-11-21*
+
+1. [Oliver North Starts Feeding Documents Into the Shredding Machine](https://www.history.com/this-day-in-history/oliver-north-starts-feeding-documents-into-the-shredding-machine)
+2. [Walsh Report Chapter 2 - United States v. Oliver L. North](https://irp.fas.org/offdocs/walsh/chap_02.htm)
+3. [Walsh Report Chapter 5 - Fawn Hall](https://irp.fas.org/offdocs/walsh/chap_05.htm)
+
+## Attorney General Meese Reveals Iran-Contra Scandal to Public
+*Date: 1986-11-25*
+
+1. [Iran-Contra Connection Revealed](https://www.history.com/this-day-in-history/iran-contra-connection-revealed)
+2. [The Iran-Contra Affair](https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/)
+3. [Final Report of the Independent Counsel for Iran/Contra Matters](https://irp.fas.org/offdocs/walsh/)
+
+## AIDS Death Toll Reaches 25,000: Reagan Administration Inaction Continues
+*Date: 1987-01-01*
+
+1. [Ronald Reagan and AIDS](https://en.wikipedia.org/wiki/Ronald_Reagan_and_AIDS)
+2. [Reagan AIDS Legacy: Silence Equals Death](https://www.sfgate.com/opinion/openforum/article/Reagan-s-AIDS-Legacy-Silence-equals-death-2751030.php)
+3. [Reagan Legacy](https://www.sfaf.org/collections/status/reagans-legacy/)
+
+## Cato Institute Organizational Profile: 'Libertarian' Cover for Corporate Deregulation Agenda
+*Date: 1987-01-01*
+
+1. [Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute)
+2. [Cato Institute](https://www.sourcewatch.org/index.php/Cato_Institute)
+3. [Cato Institute](https://www.desmog.com/cato-institute/)
+4. [Cato Institute](https://www.influencewatch.org/non-profit/cato-institute/)
+
+## Heritage Foundation Budget Reaches $14.3 Million - Scale of Corporate Policy Investment
+*Date: 1987-01-01*
+
+1. [The Heritage Foundation](https://en.wikipedia.org/wiki/The_Heritage_Foundation)
+2. [Joe Coors Brews Up the Heritage Foundation](https://www.philanthropyroundtable.org/almanac/joe-coors-brews-up-the-heritage-foundation/)
+3. [Heritage Foundation - SourceWatch](https://www.sourcewatch.org/index.php/Heritage_Foundation)
+
+## Olin Foundation Law and Economics Programs Expand to Elite Law Schools
+*Date: 1987-01-01*
+
+1. [John M. Olin Foundation](https://en.wikipedia.org/wiki/John_M._Olin_Foundation)
+2. [Linking Law and Economics](https://www.philanthropyroundtable.org/almanac/linking-law-and-economics/)
+3. [John M. Olin Foundation (1953–2005)](https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/)
+
+## Philanthropy Roundtable Founded - Conservative Donor Coordination Infrastructure
+*Date: 1987-01-01*
+
+1. [Philanthropy Roundtable](https://en.wikipedia.org/wiki/Philanthropy_Roundtable)
+2. [Philanthropy Roundtable - InfluenceWatch](https://www.influencewatch.org/non-profit/philanthropy-roundtable/)
+3. [Philanthropy Roundtable - SourceWatch](https://www.sourcewatch.org/index.php/Philanthropy_Roundtable)
+
+## Tower Commission Report Released, Criticized as Whitewash of Iran-Contra
+*Date: 1987-02-26*
+
+1. [Excerpts from the Tower Commission Report](https://www.presidency.ucsb.edu/documents/excerpts-from-the-tower-commission-report)
+2. [John Tower's FBI File Reveals Role in Iran-Contra Cover-up](https://www.muckrock.com/news/archives/2017/jan/09/john-towers-fbi-file-reveals-role-iran-contra-cove/)
+3. [The Iran-Contra Affair](https://levin-center.org/what-is-oversight/portraits/the-iran-contra-affair/)
+
 ## Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and Bankers Trust
 *Date: 1987-04-01*
 
@@ -677,6 +1095,27 @@
 3. [Savings and Loan Senate Ethics Investigation](https://www.c-span.org/video/?15593-1/savings-loan-senate-ethics-investigation)
 4. [ETHICS PANEL HEARS 'KEATING 5' CHARGES](https://www.washingtonpost.com/archive/politics/1990/11/16/ethics-panel-hears-keating-5-charges/6b9fd86a-a1eb-411e-b8dd-f94335abbc47/)
 
+## Televised Iran-Contra Congressional Hearings Begin, Riveting Nation
+*Date: 1987-05-05*
+
+1. [Understanding the Iran-Contra Affairs - The Hearings](https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/thehearings.php)
+2. [The Iran-Contra Affair](https://levin-center.org/what-is-oversight/portraits/the-iran-contra-affair/)
+3. [Iran-Contra Hearings Opening Statements](https://www.c-span.org/video/?151144-1/iran-contra-hearings-opening-statements)
+
+## CIA Director William Casey Dies Before Testifying on Iran-Contra Role
+*Date: 1987-05-06*
+
+1. [Walsh Report Chapter 15 - William J. Casey](https://irp.fas.org/offdocs/walsh/chap_15.htm)
+2. [Former CIA Director William J. Casey Dies](https://www.washingtonpost.com/archive/politics/1987/05/07/former-cia-director-william-j-casey-dies/da60a0b4-79cf-43d3-b370-848c2439e833/)
+3. [William Casey CIA Director Profile](https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/profile-casey.php)
+
+## FCC Abolishes Fairness Doctrine - Partisan Media Ecosystem Enabled
+*Date: 1987-08-04*
+
+1. [Fairness doctrine](https://en.wikipedia.org/wiki/Fairness_doctrine)
+2. [How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media](https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/)
+3. [The Fairness Doctrine: How We Lost It and Why We Need It Back](https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/)
+
 ## Keating Lincoln Savings Irvine Fraudulent Bond Scheme
 *Date: 1987-12-01*
 
@@ -691,6 +1130,28 @@
 1. [From wooden shack to global media magnate: The rise and fall of Robert Maxwell](https://www.timesofisrael.com/from-wooden-shack-to-global-media-magnate-the-rise-and-fall-of-robert-maxwell/)
 2. [Robert Maxwell's Legacy: Power, Scandal, And Mystery In The Media Empire](https://crixeo.com/stories/robert-maxwells-legacy-power-scandal-and-mystery-in-the-media-empire/)
 3. [Britain: Death of A Tycoon](https://time.com/archive/6719003/britain-death-of-a-tycoon/)
+
+## S&L Crisis Prosecutions: 1,000+ Bankers Convicted, Contrasts Sharply with 2008
+*Date: 1988-01-01*
+
+1. [Were Bankers Jailed In Past Financial Crises?](https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/)
+2. [Hundreds of Wall Street Execs Went to Prison During Last Fraud-Fueled Crisis](https://billmoyers.com/2013/09/17/hundreds-of-wall-street-execs-went-to-prison-during-the-last-fraud-fueled-bank-crisis/)
+3. [Saving and Loan Scandal: 102 High-Level Executives Convicted](http://www.allgov.com/news/top-stories/saving-and-loan-scandal-of-80s-and-90s-102-highlevel-executives-convicted-2008-financial-crisis-scandal-1?news=854255)
+
+## Rush Limbaugh National Syndication Begins - Conservative Talk Radio Ecosystem Created
+*Date: 1988-08-01*
+
+1. [The Rush Limbaugh Show](https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show)
+2. [How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media](https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/)
+3. [Rush Limbaugh](https://en.wikipedia.org/wiki/Rush_Limbaugh)
+
+## Silverado S&L Collapses: Neil Bush Conflict of Interest Costs Taxpayers $1 Billion
+*Date: 1988-12-01*
+
+1. [Silverado collapse cost taxpayers $1 billion](https://www.denverpost.com/2008/09/29/silverado-collapse-cost-taxpayers-1-billion/)
+2. [Neil Bush](https://en.wikipedia.org/wiki/Neil_Bush)
+3. [Running with A Bad Crowd: Neil Bush & $1 billion Silverado debacle](https://time.com/archive/6716030/running-with-a-bad-crowd-neil-bush-the-1-billion-silverado-debacle/)
+4. [Neil Bush, others settle Silverado lawsuit for $49.5 million](https://www.upi.com/Archives/1991/05/30/Neil-Bush-others-settle-Silverado-lawsuit-for-495-million/2631675576000/)
 
 ## Federal Reserve Expands Section 20 Powers to Include Corporate Debt Securities
 *Date: 1989-01-01*
@@ -708,6 +1169,27 @@
 2. [1989 Global Climate Coalition Membership Details](https://www.climatefiles.com/denial-groups/global-climate-coalition-collection/1989-membership/)
 3. [Global Climate Coalition Files: Corporate Climate Science Denial](https://www.desmog.com/global-climate-coalition-files/)
 
+## S&L Industry Collapse: Over 1,000 Institutions Failed by 1989
+*Date: 1989-01-01*
+
+1. [Savings and Loan Crisis](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+2. [The Savings and Loan Crisis (1989)](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
+3. [Savings and loan crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis)
+
+## Reagan Leaves Office: Domestic Corruption and Policy Failure Legacy
+*Date: 1989-01-20*
+
+1. [Ronald Reagan: Domestic Affairs](https://millercenter.org/president/reagan/domestic-affairs)
+2. [Reaganomics](https://en.wikipedia.org/wiki/Reaganomics)
+3. [Reagan AIDS Legacy: Silence Equals Death](https://www.sfgate.com/opinion/openforum/article/Reagan-s-AIDS-Legacy-Silence-equals-death-2751030.php)
+
+## KKR's $31 Billion RJR Nabisco Leveraged Buyout Establishes Private Equity Wealth Extraction Model
+*Date: 1989-02-09*
+
+1. [RJR Nabisco](https://en.wikipedia.org/wiki/RJR_Nabisco)
+2. [RJR Nabisco leveraged buyout: The story of one of the biggest deals ever](https://www.investment-society.ch/post/rjr-nabisco-leveraged-buyout-the-story-of-one-of-the-biggest-deals-ever)
+3. [Barbarians at the Gate](https://en.wikipedia.org/wiki/Barbarians_at_the_Gate)
+
 ## Senate Ethics Committee Opens Keating Five Investigation
 *Date: 1989-04-14*
 
@@ -724,6 +1206,49 @@
 4. [The Savings and Loan Crisis: A Comprehensive Overview](https://www.fdic.gov/publications/sl-crisis-chrono-bibliography)
 5. [The Keating Five and Lincoln Savings and Loan Scandal](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
 
+## Lincoln Savings Seized: $2.3 Billion Loss Exposes Keating Fraud Network
+*Date: 1989-04-14*
+
+1. [Lincoln Savings and Loan Association](https://en.wikipedia.org/wiki/Lincoln_Savings_and_Loan_Association)
+2. [The Savings and Loan Crisis](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+3. [Savings and Loan Crisis](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
+
+## Trump Demands Death Penalty in $85,000 Ads Against Central Park Five
+*Date: 1989-05-01*
+
+1. [President Trump Played a Key Role in the Central Park Five Case](https://time.com/5597843/central-park-five-trump-history/)
+2. [The Central Park Five and Trump, explained](https://www.npr.org/2024/09/11/nx-s1-5108632/central-park-five-trump-debate)
+3. [Trump's Central Park Five ad in Newsday](https://www.documentcloud.org/documents/6131533-trumpdeathpenaltyad05011989/)
+
+## Oliver North Convicted of Iran-Contra Felonies, Later Overturned on Immunity
+*Date: 1989-05-04*
+
+1. [Walsh Report Chapter 2 - Oliver L. North](https://irp.fas.org/offdocs/walsh/chap_02.htm)
+2. [Oliver North's Checkered Iran-Contra Record](https://nsarchive.gwu.edu/briefing-book/iran/2018-05-16/oliver-norths-checkered-iran-contra-record)
+3. [United States v. Oliver L. North](https://law.justia.com/cases/federal/appellate-courts/F2/910/843/463467/)
+
+## FIRREA Signed: $160 Billion Taxpayer Bailout of S&L Industry Fraud
+*Date: 1989-08-09*
+
+1. [The Savings and Loan Crisis (1989)](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
+2. [Savings and Loan Crisis](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+3. [Savings and loan crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis)
+4. [The Cost of the Savings and Loan Crisis](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=12223&context=ypfs-documents)
+
+## Christian Coalition Founded - Grassroots Religious Right Electoral Infrastructure
+*Date: 1989-09-25*
+
+1. [Robertson Founds the Christian Coalition](https://www.ebsco.com/research-starters/history/robertson-founds-christian-coalition)
+2. [Christian Coalition of America](https://en.wikipedia.org/wiki/Christian_Coalition_of_America)
+3. [Ralph Reed](https://en.wikipedia.org/wiki/Ralph_Reed)
+
+## U.S. Invades Panama to Capture Former CIA Asset Manuel Noriega
+*Date: 1989-12-20*
+
+1. [Operation Just Cause - The Invasion of Panama](https://www.army.mil/article/14302/operation_just_cause_the_invasion_of_panama_december_1989)
+2. [Former Panamanian Dictator And CIA Informant Manuel Noriega Dies](https://www.npr.org/2017/05/30/530799394/former-panamanian-dictator-and-cia-informant-manuel-noriega-dies)
+3. [General Manuel Noriega - Death of a CIA Asset](https://nsarchive.gwu.edu/briefing-book/intelligence/2017-05-31/general-manuel-noriega-death-cia-asset)
+
 ## Epstein Purchases Property Near Mar-a-Lago
 *Date: 1990-01-01*
 
@@ -731,12 +1256,27 @@
 2. [What is publicly known about Trump's yearslong relationship with Jeffrey Epstein](https://www.pbs.org/newshour/show/what-is-publicly-known-about-trumps-yearslong-relationship-with-jeffrey-epstein)
 3. [Notorious Palm Beach mansion Jeffrey Epstein bought for $2.5M transformed into $60M estate](https://www.yahoo.com/news/articles/notorious-palm-beach-mansion-jeffrey-202519748.html)
 
+## Hoover Institution Organizational Profile: Leveraging Stanford Prestige for Conservative Policy Legitimacy
+*Date: 1990-01-01*
+
+1. [Hoover Institution](https://en.wikipedia.org/wiki/Hoover_Institution)
+2. [Hoover Institution on War, Revolution and Peace](https://www.sourcewatch.org/index.php/Hoover_Institution_on_War,_Revolution_and_Peace)
+3. [100 Years of Hoover: A History of Stanford's Decades-Long Debate](https://stanfordpolitics.org/2019/05/11/100-years-of-hoover-a-history-of-stanfords-decades-long-debate-over-the-hoover-institution/)
+4. [Hoover Institution](https://militarist-monitor.org/profile/Hoover_Institution/)
+
 ## Federal Reserve Begins Systematic Dismantling of Glass-Steagall Restrictions
 *Date: 1990-01-01*
 
 1. [Decline of the Glass–Steagall Act](https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act)
 2. [Mr. Weill Goes To Washington - The Long Demise Of Glass-Steagall](https://www.pbs.org/wgbh/pages/frontline/shows/wallstreet/weill/demise.html)
 3. [The Glass-Steagall Act: A Legal and Policy Analysis](https://www.congress.gov/crs_external_products/R/PDF/R44349/R44349.3.pdf)
+
+## S&L Crisis Lessons Documented But Ignored: Stage Set for 2008 Repeat
+*Date: 1990-01-01*
+
+1. [Were Bankers Jailed In Past Financial Crises?](https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/)
+2. [Savings and Loan Crisis](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
+3. [The Savings and Loan Crisis (1989)](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
 
 ## Trump Taj Mahal Casino Opens with $675 Million Junk Bond Debt Crisis
 *Date: 1990-01-01*
@@ -752,6 +1292,13 @@
 2. [How Trump's Taj Mahal Casino Went From '8th Wonder of the World' to Closure](https://abcnews.go.com/US/trumps-taj-mahal-casino-8th-world-closure-years/story?id=42762369)
 3. [Trump Taj Mahal Skeptic: The Analyst Who Gambled And Took On Trump](https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump)
 
+## Reagan Testifies "I Don't Recall" Repeatedly in Iran-Contra Deposition
+*Date: 1990-02-16*
+
+1. [Knew Nothing of Diversion, Reagan Insists in Now-Public Testimony](https://www.deseret.com/1990/2/22/18847711/knew-nothing-of-diversion-reagan-insists-in-now-public-testimony/)
+2. [Reagan Testimony Iran-Contra](https://www.c-span.org/video/?c4448409/user-clip-reagan-testimony-iran-contra)
+3. [Walsh Report Chapter 30](https://fas.org/irp/offdocs/walsh/chap_30.htm)
+
 ## Putin's Transition from KGB to St. Petersburg Government: Early Regulatory Personnel Shift
 *Date: 1990-05-01*
 
@@ -766,6 +1313,14 @@
 1. [Chicago Tribune - Keating Guilty in Fraud Case](https://www.chicagotribune.com/1993/01/06/keating-son-guilty-in-fraud-racketeering-case/)
 2. [FDIC Publication - Charles Keating and Lincoln Savings and Loan](https://www.fdic.gov/publications/charles-keating-and-lincoln-savings-and-loan)
 3. [NPR: Keating Case Legal Proceedings Update](https://www.npr.org/1996/12/03/1041592/keating)
+
+## George C. Marshall Institute Becomes Central Node in Fossil Fuel-Funded Climate Denial
+*Date: 1991-01-01*
+
+1. [George C. Marshall Institute](https://en.wikipedia.org/wiki/George_C._Marshall_Institute)
+2. [Global Warming Deniers and Their Proven Strategy of Doubt](https://e360.yale.edu/features/global_warming_deniers_and_their_proven_strategy_of_doubt)
+3. [Early oil industry disinformation on global warming](https://www.tandfonline.com/doi/full/10.1080/09644016.2020.1863703)
+4. [Climate Files Update: Decades of Denial](https://climateinvestigations.org/climate-files-decades-of-denial/)
 
 ## Leonard Leo Joins Federalist Society, Begins Strategic Judicial Talent Pipeline
 *Date: 1991-01-01*
@@ -796,6 +1351,55 @@
 2. [Leslie Wexner Says Jeffrey Epstein Misappropriated At Least $46 Million](https://www.forbes.com/sites/rachelsandler/2019/08/07/leslie-wexner-says-jeffery-epstein-misappropriated-at-least-46-million-from-him/)
 3. [Letter from Les](https://www.wexnerfoundation.org/letter-from-les/)
 
+## Trump Plaza Fined $200,000 for Removing Black Employees from Gaming Floor
+*Date: 1991-06-05*
+
+1. [Trump Plaza loses appeal of discrimination penalty](https://www.upi.com/Archives/1992/10/19/Trump-Plaza-loses-appeal-of-discrimination-penalty/1911719467200/)
+2. [Donald Trump, Robert LiButti, and black Trump Plaza employees](https://slate.com/news-and-politics/2016/03/donald-trump-robert-libutti-and-black-trump-plaza-employees.html)
+3. [Casino Took Black Employees Off Floor When Donald Trump Was Around: Former Employee](https://www.cardplayer.com/poker-news/19262-casino-took-black-employees-off-floor-when-donald-trump-was-around-former-employee)
+
+## Trump Taj Mahal Files First Bankruptcy After Junk Bond Collapse
+*Date: 1991-07-01*
+
+1. [Opening The Books On Donald Trump's Business Deals In Atlantic City](https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city)
+2. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
+3. [Donald Trump's Companies Filed for Bankruptcy 4 Times](https://abcnews.go.com/Politics/donald-trump-filed-bankruptcy-times/story?id=13419250)
+
+## Trump's Six Bankruptcies: Pattern of Borrowing Heavily and Walking Away
+*Date: 1991-07-01*
+
+1. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
+2. [Fact Check: Has Trump declared bankruptcy four or six times?](https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/)
+3. [How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions](https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf)
+
+## BCCI Bank Shut Down After Exposing CIA Drug Money Laundering Network
+*Date: 1991-07-05*
+
+1. [The BCCI Affair - BCCI, The CIA and Foreign Intelligence](https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm)
+2. [FBI Knew BCCI Financed Iran-Contra Deal](https://www.upi.com/Archives/1991/10/22/FBI-knew-BCCI-financed-Iran-Contra-deal-bank-official-says/3522688104000/)
+3. [The BCCI Affair Senate Investigation Report](https://publicintelligence.net/the-bcci-affair/)
+
+## Keating Five Ethics Findings: Cranston Reprimanded, Systemic Corruption Exposed
+*Date: 1991-11-20*
+
+1. [Keating Five](https://en.wikipedia.org/wiki/Keating_Five)
+2. [Panel Finds Credible Evidence Cranston Violated Ethics Rules](https://www.washingtonpost.com/archive/politics/1991/02/28/panel-finds-credible-evidence-cranston-violated-ethics-rules/6a936c72-ef9c-4cd5-ac31-1953570e8222/)
+3. [Keating Five Scandal: Exposing 1980s Banking and Political Corruption](https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption)
+
+## Trump Castle and Trump Plaza File Simultaneous Bankruptcies
+*Date: 1992-03-09*
+
+1. [Trump's Castle and Plaza file for bankruptcy](https://www.upi.com/Archives/1992/03/09/Trumps-Castle-and-Plaza-file-for-bankruptcy/3105700117200/)
+2. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
+3. [How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions](https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf)
+
+## Defense Secretary Caspar Weinberger Indicted on Five Iran-Contra Felonies
+*Date: 1992-06-16*
+
+1. [Walsh Report Part VIII - Caspar W. Weinberger](https://irp.fas.org/offdocs/walsh/part_viii.htm)
+2. [Weinberger Indicted on 5 Counts](https://www.washingtonpost.com/archive/politics/1992/06/17/weinberger-indicted-on-5-counts/51cbf33a-9846-4555-a1eb-7a9bf7bef3fd/)
+3. [Reagan Defense Chief Weinberger Indicted in Iran-Contra Probe](https://www.upi.com/Archives/1992/06/16/Reagan-defense-chief-Weinberger-indicted-in-Iran-Contra-probe/3991708667200/)
+
 ## FDA Prescription Drug User Fee Act Creates Financial Dependence on Pharmaceutical Industry
 *Date: 1992-10-29*
 
@@ -809,6 +1413,20 @@
 1. [Tape shows Donald Trump and Jeffrey Epstein discussing women at 1992 party](https://www.nbcnews.com/news/us-news/tape-shows-donald-trump-jeffrey-epstein-discussing-women-1992-party-n1030686)
 2. [Trump-Jeffrey Epstein video from 1992 shows them partying together at Mar-a-Lago](https://www.washingtonpost.com/politics/trump-seen-surrounded-by-cheerleaders-at-a-1992-party-with-jeffrey-epstein/2019/07/17/539d5550-a89e-11e9-9214-246e594de5d5_story.html)
 3. [Donald Trump and Jeffrey Epstein partied together. Then an oceanfront Palm Beach mansion came between them.](https://www.washingtonpost.com/politics/donald-trump-and-jeffrey-epstein-partied-together-then-an-oceanfront-palm-beach-mansion-came-between-them/2019/07/31/79f1d98c-aca0-11e9-a0c9-6d2d7818f3da_story.html)
+
+## Trump Plaza Hotel in Manhattan Files for Bankruptcy Protection
+*Date: 1992-11-01*
+
+1. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
+2. [Donald Trump Business Bankruptcies. A Summary.](https://www.abi.org/feed-item/donald-trump-business-bankruptcies-a-summary)
+3. [Fact Check: Has Trump declared bankruptcy four or six times?](https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/)
+
+## Bush Pardons Six Iran-Contra Officials on Christmas Eve, Completing Cover-Up
+*Date: 1992-12-24*
+
+1. [Walsh Report Chapter 28 - George Bush](https://irp.fas.org/offdocs/walsh/chap_28.htm)
+2. [George H.W. Bush's Mixed Legacy In A Reagan-Era Scandal](https://www.npr.org/2018/12/06/674079779/george-h-w-bushs-mixed-legacy-in-a-reagan-era-scandal)
+3. [Understanding the Iran-Contra Affairs - The Pardons](https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/thepardons.php)
 
 ## Sean Combs founds Bad Boy Records with strategic Arista Records investment
 *Date: 1993-01-01*
@@ -825,12 +1443,44 @@
 2. [Conservatives Pencil In Wednesday Meeting: Grover Norquist's Weekly Gathering Illustrates the Direct Pipeline the Right Has to the White House](https://greensboro.com/conservatives-pencil-in-wednesday-meeting-grover-norquists-weekly-gathering-illustrates-the-direct-pipeline-the-right/article_21843295-7e0f-5fe0-b6cc-f3d89c7a6df8.html)
 3. [About Coalition Meetings](https://atr.org/about/coalition-meetings/)
 
+## Philip Morris Creates TASSC Front Group, Exporting Tobacco Doubt Tactics to Climate Denial
+*Date: 1993-01-01*
+
+1. [How Tobacco Shills Inspired Climate Denial](https://www.desmog.com/2015/02/04/how-tobacco-shills-inspired-climate-denial/)
+2. [Tobacco industry playbook](https://en.wikipedia.org/wiki/Tobacco_industry_playbook)
+3. [Frederick Seitz](https://www.sourcewatch.org/index.php/Frederick_Seitz)
+4. [Fred Seitz, the $45 million man](https://scienceblogs.com/deltoid/2006/04/17/fred-seitz-the-45-million-man)
+
 ## Trump appears in Epstein aircraft logbooks multiple times (DOJ exhibits)
 *Date: 1993-01-01*
 
 1. [Epstein aircraft logbooks – Government Exhibit 662‑RR (U.S. v. Maxwell) – Part 1](https://www.justice.gov/ag/media/1391276/dl?inline=)
 2. [Epstein aircraft logbooks – Government Exhibit 662‑RR (U.S. v. Maxwell) – Part 2](https://www.justice.gov/ag/media/1391281/dl?inline=)
 3. [The times Trump's name appeared in the Epstein files the DOJ has already released](https://abcnews.go.com/US/times-trumps-appeared-epstein-files-doj-released/story?id=123848078)
+
+## CFTC Chair Wendy Gramm Exempts Enron from Derivatives Regulation, Joins Board Five Weeks Later
+*Date: 1993-01-14*
+
+1. [Wendy Lee Gramm](https://en.wikipedia.org/wiki/Wendy_Lee_Gramm)
+2. [Gramms Regulated Enron, Benefited from Ties](http://articles.chicagotribune.com/2002-01-18/news/0201180272_1_enron-wendy-gramm-energy-contracts)
+3. [Foxes Guarding the Chicken Coop](https://www.salon.com/2002/06/26/cftc/)
+4. [Public Citizen: Enron Used Political Connections](https://www.naturalgasintel.com/news/public-citizen-enron-used-political-connections/)
+
+## $25 Million Corporate Lobbying Blitz Drives NAFTA Passage Despite Labor Opposition
+*Date: 1993-06-01*
+
+1. [Business-Managed Government - NAFTA](https://www.herinst.org/BusinessManagedDemocracy/government/trade/NAFTA.html)
+2. [Lobbying America: The Politics of Business from Nixon to NAFTA](https://www.researchgate.net/publication/287418309_Lobbying_America_The_politics_of_business_from_Nixon_to_NAFTA)
+3. [Clinton, NAFTA and the Politics of U.S. Trade](https://nacla.org/article/clinton-nafta-and-politics-us-trade)
+4. [North American Free Trade Agreement](https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement)
+
+## Clinton Signs NAFTA Creating Corporate Tribunals to Override National Laws
+*Date: 1993-12-08*
+
+1. [Remarks on the Signing of NAFTA](https://millercenter.org/the-presidency/presidential-speeches/december-8-1993-remarks-signing-nafta)
+2. [NAFTA signed into law](https://www.history.com/this-day-in-history/december-8/nafta-signed-into-law)
+3. [Table of Foreign Investor-State Cases and Claims Under NAFTA](https://www.citizen.org/article/table-of-foreign-investor-state-cases-and-claims-under-nafta-and-other-u-s-trade-deals/)
+4. [Investor-State Dispute Settlement](https://en.wikipedia.org/wiki/Investor–state_dispute_settlement)
 
 ## Epstein Attends Trump's Wedding to Marla Maples
 *Date: 1993-12-20*
@@ -848,6 +1498,67 @@
 2. [John McCain and the Abramoff Tribal Lobbying Scandal](https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/)
 3. [Jack Abramoff Indian Lobbying Scandal](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
 
+## ALEC Passes Three Strikes Model Legislation Co-Sponsored by Private Prison Industry and NRA
+*Date: 1994-01-01*
+
+1. [ALEC in the House: Corporate Bias in Criminal Justice Legislation](https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/)
+2. [Three Strikes and You're Out: An Examination of the Impact of 3-Strikes Laws](https://justicepolicy.org/wp-content/uploads/2021/11/04-09_rep_threestrikesnatl_ac.pdf.pdf)
+3. [The Eugenic Origins of Three Strikes Laws](https://www.sentencingproject.org/reports/the-eugenic-origins-of-three-strikes-laws-how-habitual-offender-sentencing-laws-were-used-as-a-means-of-sterilization/)
+4. [Corporate-Sponsored Crime Laws](http://americanradioworks.publicradio.org/features/corrections/laws4.html)
+
+## NAFTA Takes Effect as Zapatista Uprising Protests Privatization of Indigenous Lands
+*Date: 1994-01-01*
+
+1. [Zapatista Uprising](https://en.wikipedia.org/wiki/Zapatista_uprising)
+2. [NAFTA comes into effect](https://www.history.com/this-day-in-history/January-1/nafta-comes-into-effect-us-mexico-canada-trade)
+3. [Chiapas: NAFTA and the Zapatistas](http://depts.washington.edu/canada/nafta/98chapters/17sisknafta98.htm)
+4. [Two Anniversaries; Two Futures: NAFTA and the Zapatistas](https://www.americas.org/two-anniversaries-two-futures-nafta-and-the-zapatistas/)
+
+## Whitewater Investigation Launches Under Special Counsel Robert Fiske
+*Date: 1994-01-12*
+
+1. [Whitewater controversy](https://en.wikipedia.org/wiki/Whitewater_controversy)
+2. [Clinton Scandals - A Guide From Whitewater To The Clinton Foundation](https://www.npr.org/2016/06/12/481718785/clinton-scandals-a-guide-from-whitewater-to-the-clinton-foundation)
+3. [Whitewater affair](https://www.britannica.com/topic/Whitewater-affair)
+
+## Kenneth Starr Replaces Robert Fiske as Whitewater Independent Counsel
+*Date: 1994-08-05*
+
+1. [Ken Starr](https://en.wikipedia.org/wiki/Ken_Starr)
+2. [Kenneth Starr](https://www.pbs.org/wgbh/americanexperience/features/clinton-interview-kenneth-starr/)
+3. [Whitewater affair](https://www.britannica.com/topic/Whitewater-affair)
+4. [Ken Starr Biography](https://www.britannica.com/biography/Kenneth-W-Starr)
+
+## Federal Three Strikes Law Mandates Life Imprisonment for Third Violent Felony
+*Date: 1994-09-13*
+
+1. [Violent Crime Control and Law Enforcement Act](https://en.wikipedia.org/wiki/Violent_Crime_Control_and_Law_Enforcement_Act)
+2. [The 1994 Crime Bill and Beyond](https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice)
+3. [Bill Clinton and the 1994 Crime Bill](https://www.factcheck.org/2016/04/bill-clinton-and-the-1994-crime-bill/)
+
+## Crime Bill Allocates $8.7 Billion for Prison Construction With Truth-in-Sentencing Requirements
+*Date: 1994-09-13*
+
+1. [The 1994 Crime Bill and Beyond](https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice)
+2. [Truth in Sentencing and State Sentencing Practices](https://nij.ojp.gov/topics/articles/truth-sentencing-and-state-sentencing-practices)
+3. [Bill Clinton and the 1994 Crime Bill](https://www.factcheck.org/2016/04/bill-clinton-and-the-1994-crime-bill/)
+
+## Violent Crime Control and Law Enforcement Act Fuels Mass Incarceration
+*Date: 1994-09-13*
+
+1. [The 1994 Crime Bill and Beyond - How Federal Funding Shapes the Criminal Justice System](https://www.brennancenter.org/our-work/analysis-opinion/1994-crime-bill-and-beyond-how-federal-funding-shapes-criminal-justice)
+2. [H.R.3355 - Violent Crime Control and Law Enforcement Act of 1994](https://www.congress.gov/bill/103rd-congress/house-bill/3355)
+3. [Violent Crime Control and Law Enforcement Act](https://en.wikipedia.org/wiki/Violent_Crime_Control_and_Law_Enforcement_Act)
+4. [The Complex History of the Controversial 1994 Crime Bill](https://www.brennancenter.org/our-work/analysis-opinion/complex-history-controversial-1994-crime-bill)
+
+## Clinton Healthcare Reform Dies After Insurance Industry Lobbying Campaign
+*Date: 1994-09-26*
+
+1. [Clinton health care plan of 1993](https://en.wikipedia.org/wiki/Clinton_health_care_plan_of_1993)
+2. [What Happened to Health Care Reform?](https://www.princeton.edu/~starr/20starr.html)
+3. [Health Care Reform - The Collapse of a Quest](https://www.washingtonpost.com/archive/politics/1994/10/11/health-care-reform-the-collapse-of-a-quest/038a045b-3eef-4063-be19-5aa0bc090348/)
+4. [Learning from Failure in Health Care Reform](https://www.nejm.org/doi/full/10.1056/NEJMp078201)
+
 ## 1994 Republican Revolution and Contract with America Victory
 *Date: 1994-11-08*
 
@@ -861,6 +1572,30 @@
 1. [The 1994 Midterms: Republican Revolution Overview](https://www.history.com/articles/midterm-elections-1994-republican-revolution-gingrich-contract-with-america)
 2. [Contract with America: Historical Analysis](https://teachingamericanhistory.org/document/republican-contract-with-america/)
 3. [Republican Revolution: Political Transformation](https://daily.jstor.org/the-midterms-that-changed-america/)
+
+## ALEC Environment Task Force Passes 100+ Anti-Regulation Bills Funded by Fossil Fuel Companies
+*Date: 1995-01-01*
+
+1. [ALEC: 50 Years of Attacking Environmental Protection and Democracy](https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/)
+2. [ALEC Hates the Climate](https://climateinvestigations.org/alec_hates_the_climate/)
+3. [Anti-Woke and Fossil Fuel Industry Operatives Dominate ALEC's Energy Task Force](https://www.exposedbycmd.org/2023/08/10/anti-woke-and-fossil-fuel-industry-operatives-dominate-alecs-energy-task-force/)
+4. [How the American Legislative Exchange Council Turns Disinformation into Law](https://blog.ucs.org/elliott-negin/how-the-american-legislative-exchange-council-turns-disinformation-into-law/)
+
+## ALEC Develops Tax and Expenditure Limitation Act - Model Bill to Restrict State Revenue and Manufacture Fiscal Crisis
+*Date: 1995-01-01*
+
+1. [Taxpayer Bill of Rights (TABOR)](https://www.cbpp.org/research/state-budget-and-tax/taxpayer-bill-of-rights-tabor)
+2. [TABOR Lives On: How the War on Public Education Becomes Irreversible](https://www.nea.org/nea-today/all-news-articles/tabor-lives-how-war-public-education-becomes-irreversible)
+3. [Tax and Expenditure Limitation Act](https://alec.org/model-policy/tax-and-expenditure-limit-reform/)
+4. [ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth](https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth)
+
+## ALEC Criminal Justice Task Force Promotes Truth-in-Sentencing Model Legislation Written by Private Prison Industry
+*Date: 1995-01-01*
+
+1. [ALEC in the House: Corporate Bias in Criminal Justice Legislation](https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/)
+2. [Lockup Quotas Help For-Profit Prison Companies Keep Profits High and Prisons Full](https://www.prwatch.org/news/2013/09/12249/lockup-quotas-help-profit-prison-companies-keep-profits-high-and-prisons-full)
+3. [How Mandatory Minimums Perpetuate Mass Incarceration](https://www.sentencingproject.org/fact-sheet/how-mandatory-minimums-perpetuate-mass-incarceration-and-what-to-do-about-it/)
+4. [The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom](https://www.prisonpolicy.org/scans/Prison_Payoff_Report_WPP_2000.pdf)
 
 ## K Street Project Launch - Systematic Republican Lobbying Control
 *Date: 1995-01-01*
@@ -925,6 +1660,30 @@
 2. [Former Lobbyist Jack Abramoff Sentenced](https://www.justice.gov/archive/opa/pr/2008/September/08-crm-779.html)
 3. [Jack Abramoff Indian Lobbying Scandal](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
 
+## ALEC Adopts Business Plan to "Function More Like a Business" - Formalizes Pay-to-Play Corporate Legislative Model
+*Date: 1996-01-01*
+
+1. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
+2. [American Legislative Exchange Council](https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council)
+3. [What is ALEC](https://www.alecexposed.org/wiki/What_is_ALEC)
+4. [Who Passes Business's 'Model Bills'? Policy Capacity and Corporate Influence in U.S. State Politics](https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/who-passes-businesss-model-bills-policy-capacity-and-corporate-influence-in-us-state-politics/38D2641B307637657B8DD1266FB87965)
+
+## Purdue Pharma Launches Aggressive OxyContin Marketing Campaign Based on False Claims
+*Date: 1996-01-01*
+
+1. [The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy](https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/)
+2. [Behind Purdue Pharma's marketing of OxyContin](https://www.pbs.org/newshour/show/behind-purdue-pharmas-marketing-of-oxycontin)
+3. [Inside the 'Aggressive' Marketing of OxyContin](https://www.pbs.org/wgbh/frontline/article/inside-the-aggressive-marketing-of-oxycontin-revisit-purdue-pharmas-role-in-the-opioid-crisis/)
+4. [How One Sentence Helped Set Off the Opioid Crisis](https://www.marketplace.org/story/2017/12/13/opioid)
+
+## Hillary Clinton Delivers "Super-Predators" Speech Supporting 1994 Crime Bill
+*Date: 1996-01-28*
+
+1. [Did Hillary Clinton call African-American youth 'superpredators'?](https://www.politifact.com/factchecks/2016/aug/28/reince-priebus/did-hillary-clinton-call-african-american-youth-su/)
+2. [Hillary Clinton Still Haunted by Discredited Rhetoric on Superpredators](https://theintercept.com/2016/02/25/activists-want-hillary-clinton-apologize-hyping-myth-superpredators-1996/)
+3. [Clinton regrets using term 'superpredator' in 1996 crime speech](https://thehill.com/blogs/blog-briefing-room/news/270811-clinton-i-shouldnt-have-used-the-superpredator-remark/)
+4. [Hillary Clinton on "superpredators" remark - I shouldn't have used those words](https://www.cbsnews.com/news/hillary-clinton-on-superpredators-remark-i-shouldnt-have-used-those-words/)
+
 ## Telecommunications Act of 1996 Enables Media Consolidation Through Corporate Capture
 *Date: 1996-02-08*
 
@@ -942,6 +1701,29 @@
 4. [On Media Consolidation, the Public Interest, and Angels Earning Wings](https://repository.law.indiana.edu/cgi/viewcontent.cgi?article=1447&context=fclj)
 5. [Big Media: Its Effect on the Marketplace of Ideas and How to Slow the Urge to Merge](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1759&context=asc_papers)
 
+## Lincoln Bedroom Fundraising Scandal Reveals White House Donor Access Program
+*Date: 1996-02-26*
+
+1. [Lincoln Bedroom for contributors controversy](https://en.wikipedia.org/wiki/Lincoln_Bedroom_for_contributors_controversy)
+2. [Campaign finance scandal in the 1990s](https://www.ebsco.com/research-starters/law/campaign-finance-scandal-1990s)
+3. [Clinton White House sleepover guests still writing checks](https://publicintegrity.org/politics/clinton-white-house-sleepover-guests-still-writing-checks/)
+
+## Buddhist Temple Fundraising Event Generates Illegal Campaign Contributions
+*Date: 1996-04-29*
+
+1. [1996 United States campaign finance controversy](https://en.wikipedia.org/wiki/1996_United_States_campaign_finance_controversy)
+2. [Al Gore and the Temple of Doom](https://prospect.org/features/al-gore-temple-doom/)
+3. [Campaign finance scandal in the 1990s](https://www.ebsco.com/research-starters/law/campaign-finance-scandal-1990s)
+4. [FEC Issues Record Fines In Democrats' Scandals](https://www.washingtonpost.com/archive/politics/2002/09/21/fec-issues-record-fines-in-democrats-scandals/2d2ed242-98e1-40a8-8574-caef4b7570e3/)
+
+## Chinese Military Intelligence Funnels Campaign Donations Through Johnny Chung
+*Date: 1996-06-18*
+
+1. [1996 United States campaign finance controversy](https://en.wikipedia.org/wiki/1996_United_States_campaign_finance_controversy)
+2. [Johnny Chung says Chinese official gave him $300,000 for Clinton campaign](https://www.cnn.com/ALLPOLITICS/stories/1999/04/04/china.clinton.money/)
+3. [Chung Links '96 Campaign Funds to Beijing](https://www.washingtonpost.com/archive/politics/1999/04/04/chung-links-96-campaign-funds-to-beijing/cef4fa1c-f7a6-4ec3-a63a-c4456f8a7cde/)
+4. [Campaign finance scandal in the 1990s](https://www.ebsco.com/research-starters/law/campaign-finance-scandal-1990s)
+
 ## Trump Acquires Miss Universe Organization from ITT Corp
 *Date: 1996-06-20*
 
@@ -949,6 +1731,43 @@
 2. [Trump Acquires Miss Universe Pageants](https://www.forbes.com/sites/noahkirsch/2016/10/12/this-is-how-donald-trump-owned-miss-universe/)
 3. [Donald Trump Buys the Miss Universe Organization from ITT Corp](https://trumpfile.org/donald-trump-buys-the-miss-universe-pageant/)
 4. [NBC and Donald Trump's Miss Universe Business Relationship Explained](https://money.cnn.com/2015/09/11/media/donald-trump-miss-universe/)
+
+## Clear Channel Begins Unprecedented Radio Consolidation Under Telecommunications Act
+*Date: 1996-06-30*
+
+1. [Clear Channel Communications, Inc.](https://www.encyclopedia.com/books/politics-and-business-magazines/clear-channel-communications-inc)
+2. [The Telecommunications Act of 1996 Killed Local Radio](https://www.35000watts.com/the-telecommunications-act-of-1996-killed-local-radio/)
+3. [Democracy in Peril: Twenty Years of Media Consolidation](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
+4. [What Loosening Restrictions On Radio Consolidation Could Do](https://www.npr.org/2019/06/07/730323196/one-more-scoop-of-vanilla-a-new-proposal-looks-to-loosen-radio-ownership-rules)
+
+## Gary Webb's "Dark Alliance" Exposes CIA-Contra-Crack Cocaine Connection
+*Date: 1996-08-18*
+
+1. [The Storm over Dark Alliance](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB113/storm.htm)
+2. [How the CIA Watched Over the Destruction of Gary Webb](https://theintercept.com/2014/09/25/managing-nightmare-cia-media-destruction-gary-webb/)
+3. [Dark Alliance Original Series](https://archive.org/details/dark_alliance_original_series-gary_webb_cia_cocaine)
+
+## Personal Responsibility and Work Opportunity Act Ends Welfare Entitlement
+*Date: 1996-08-22*
+
+1. [The Personal Responsibility and Work Opportunity Reconciliation Act of 1996](https://aspe.hhs.gov/reports/personal-responsibility-work-opportunity-reconciliation-act-1996)
+2. [Personal Responsibility and Work Opportunity Act](https://en.wikipedia.org/wiki/Personal_Responsibility_and_Work_Opportunity_Act)
+3. [Statement on Signing the Personal Responsibility and Work Opportunity Reconciliation Act of 1996](https://www.presidency.ucsb.edu/documents/statement-signing-the-personal-responsibility-and-work-opportunity-reconciliation-act-1996)
+4. [H.R.3734 - Personal Responsibility and Work Opportunity Reconciliation Act of 1996](https://www.congress.gov/bill/104th-congress/house-bill/3734)
+
+## Welfare Reform Imposes Five-Year Lifetime Limit on Cash Assistance
+*Date: 1996-08-22*
+
+1. [Personal Responsibility and Work Opportunity Act](https://en.wikipedia.org/wiki/Personal_Responsibility_and_Work_Opportunity_Act)
+2. [The 1996 Personal Responsibility and Work Opportunity Reconciliation Act in the US](https://centreforpublicimpact.org/public-impact-fundamentals/the-1996-personal-responsibility-and-work-opportunity-reconciliation-act-in-the-us/)
+3. [The Personal Responsibility and Work Opportunity Reconciliation Act of 1996](https://aspe.hhs.gov/reports/personal-responsibility-work-opportunity-reconciliation-act-1996)
+
+## Welfare Reform Mandates Work Requirements After Two Years of Assistance
+*Date: 1996-08-22*
+
+1. [The Personal Responsibility and Work Opportunity Reconciliation Act of 1996](https://aspe.hhs.gov/reports/personal-responsibility-work-opportunity-reconciliation-act-1996)
+2. [Personal Responsibility and Work Opportunity Act](https://en.wikipedia.org/wiki/Personal_Responsibility_and_Work_Opportunity_Act)
+3. [The 1996 Personal Responsibility and Work Opportunity Reconciliation Act in the US](https://centreforpublicimpact.org/public-impact-fundamentals/the-1996-personal-responsibility-and-work-opportunity-reconciliation-act-in-the-us/)
 
 ## Maria Farmer reports Epstein/Maxwell assault to FBI, ignored for decade
 *Date: 1996-08-26*
@@ -963,6 +1782,22 @@
 1. [The Making of Fox News: How Murdoch and Ailes Built an Empire](https://www.theguardian.com/media/2019/mar/20/fox-news-rupert-murdoch-roger-ailes-trump)
 2. [How Roger Ailes Built the Fox News Fear Factory](https://www.rollingstone.com/politics/politics-news/how-roger-ailes-built-the-fox-news-fear-factory-244652/)
 3. [The Birth of Fox News](https://www.washingtonpost.com/news/act-four/wp/2017/05/18/before-roger-ailes-created-fox-news-he-made-richard-nixon-the-star/)
+
+## Telecommunications Act Triggers Mass Layoffs and Destruction of Local Journalism
+*Date: 1996-12-31*
+
+1. [Democracy in Peril: Twenty Years of Media Consolidation](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
+2. [Twenty Years of Media Consolidation Has Not Been Good For Our Democracy](https://billmoyers.com/story/twenty-years-of-media-consolidation-has-not-been-good-for-our-democracy/)
+3. [The Telecommunications Act of 1996 Killed Local Radio](https://www.35000watts.com/the-telecommunications-act-of-1996-killed-local-radio/)
+4. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
+
+## Financial Industry Spends $300 Million on Deregulation Lobbying and Campaign Contributions
+*Date: 1997-01-01*
+
+1. [Financial Deregulation, U.S. Party Politics, and Rising Income Inequality](https://scholars.org/contribution/financial-deregulation-us-party-politics-and)
+2. [Clinton, Republicans agree to deregulation of US financial system](https://www.wsws.org/en/articles/1999/11/bank-n01.html)
+3. [Finance/Insurance/Real Estate Sector Summary](https://www.opensecrets.org/industries//indus?Ind=F)
+4. [On financial deregulation, GOP repeating history](https://thehill.com/blogs/congress-blog/economy-budget/287784-on-financial-deregulation-republicans-repeating-history/)
 
 ## Koch Industries Launches Massive Climate Denial Funding Network
 *Date: 1997-01-01*
@@ -1064,6 +1899,14 @@
 2. [Recovery from the Asian Crisis and the Role of the IMF](https://www.imf.org/external/np/exr/ib/2000/062300.HTM)
 3. [The 1997-98 Asian Financial Crisis: Causes, Policy Responses, and Outcomes](https://sgp.fas.org/crs/row/crs-asia2.htm)
 
+## ALEC's 'Economic Impact Statement Act' Uses Cost-Benefit Analysis to Kill Environmental Regulations
+*Date: 1998-01-01*
+
+1. [ALEC: 50 Years of Attacking Environmental Protection and Democracy](https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/)
+2. [Regulatory Review and Rescission Act](https://alec.org/model-policy/regulatory-review-and-rescission-act/)
+3. [ALEC & the Environment](https://www.alecexposed.org/wiki/ALEC_&_the_Environment)
+4. [How the American Legislative Exchange Council Turns Disinformation into Law](https://blog.ucs.org/elliott-negin/how-the-american-legislative-exchange-council-turns-disinformation-into-law/)
+
 ## IMF Forces Massive Corporate Restructuring in South Korea
 *Date: 1998-01-15*
 
@@ -1072,6 +1915,13 @@
 3. [South Korea 20 Years After the IMF Rescue Package](https://keia.org/the-peninsula/south-korea-20-years-after-the-imf-rescue-package/)
 4. [Economic Crisis and Chaebol Reform in Korea](https://business.columbia.edu/sites/default/files-efs/imce-uploads/PFS/APEC_New/PSLee.PDF)
 5. [Korea and the Asian Financial Crisis](https://web.stanford.edu/class/e297c/trade_environment/global/hkorea.html)
+
+## Monica Lewinsky Affair Becomes Public as Clinton Issues Denial
+*Date: 1998-01-17*
+
+1. [Clinton-Lewinsky scandal](https://en.wikipedia.org/wiki/Clinton–Lewinsky_scandal)
+2. [From an Anonymous Tip to an Impeachment - A Timeline of Key Moments in the Clinton-Lewinsky Scandal](https://time.com/5120561/bill-clinton-monica-lewinsky-timeline/)
+3. [The Clinton impeachment and its fallout](https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout)
 
 ## IMF and World Bank Coordinate Massive Corporate Restructuring in Asian Markets
 *Date: 1998-02-05*
@@ -1123,6 +1973,13 @@
 1. [Decline of the Glass–Steagall Act](https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act)
 2. [Momentous encounter leads to merger](https://www.citigroup.com/global/about-us/heritage/1998/momentous-encounter-leads-to-merger)
 3. [Federal Reserve Board Meeting Regarding Citicorp and Travelers Group](https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_thursday.htm)
+
+## ALEC Adopts Paycheck Protection Act to Defund Democratic Party by Restricting Union Political Activity
+*Date: 1998-05-01*
+
+1. [Public Employee Paycheck Protection Act](https://alec.org/model-policy/public-employee-paycheck-protection-act/)
+2. [The Future of Public-Employee Unions](https://www.nationalaffairs.com/publications/detail/the-future-of-public-employee-unions)
+3. [What Do Union Members Want? What Paycheck Protection Laws Show About How Well Unions Reflect Their Members' Priorities](https://www.heritage.org/jobs-and-labor/report/what-do-union-members-want-what-paycheck-protection-laws-show-about-how-well)
 
 ## Brooksley Born's Derivatives Regulation Warning Systematically Suppressed
 *Date: 1998-05-07*
@@ -1190,12 +2047,28 @@
 9. [Public Hearing Transcript: Citicorp-Travelers Merger Community Impact](https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_panel11.htm)
 10. [Impact of the Citicorp-Travelers Group Merger](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1415&context=nlr)
 
+## NationsBank-BankAmerica $62 Billion Merger Creates First Coast-to-Coast National Bank
+*Date: 1998-09-30*
+
+1. [NationsBank](https://en.wikipedia.org/wiki/NationsBank)
+2. [Case Study of the Merger Between Bank of America and BankAmerica](https://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1939&context=fac_pubs)
+3. [Justice Department Clears NationsBank/BankAmerica Merger](https://www.justice.gov/archive/atr/public/press_releases/1998/1879.htm)
+4. [Major Bank Mergers and Acquisitions](https://mnacommunity.com/insights/bank-mergers-and-acquisitions-list/)
+
 ## Electronic Industries Alliance Blacklisting - K Street Project Enforcement
 *Date: 1998-10-01*
 
 1. [The K Street Project and Jack Abramoff](https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff)
 2. [K Street Project: Anatomy of a Political Enforcement Mechanism](https://rollcall.com/2004/02/10/new-heat-on-k-street/)
 3. [How Republicans Transformed Washington's Lobbying Culture](https://www.sourcewatch.org/index.php?title=K_Street_Project)
+
+## House of Representatives Impeaches President Clinton on Perjury and Obstruction Charges
+*Date: 1998-12-19*
+
+1. [Impeachment of Bill Clinton](https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton)
+2. [President Clinton impeached](https://www.history.com/this-day-in-history/december-19/president-clinton-impeached)
+3. [William J. Clinton - Federal Impeachment](https://guides.loc.gov/federal-impeachment/bill-clinton)
+4. [The Clinton impeachment and its fallout](https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout)
 
 ## Asian Financial Crisis: Comprehensive Economic Transformation
 *Date: 1998-12-31*
@@ -1226,6 +2099,13 @@
 2. [The Asian Crisis: Lessons Learned](https://www.imf.org/external/pubs/ft/fandd/1999/09/lane.htm)
 3. [Asian Financial Crisis: Structural Intervention](https://www.federalreservehistory.org/essays/asian-financial-crisis)
 
+## Senate Acquits President Clinton on Both Impeachment Articles
+*Date: 1999-02-12*
+
+1. [President Bill Clinton acquitted on both articles of impeachment](https://www.history.com/this-day-in-history/february-12/president-clinton-acquitted)
+2. [Impeachment of Bill Clinton](https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton)
+3. [The Clinton impeachment and its fallout](https://millercenter.org/the-presidency/impeachment/clinton-impeachment-and-its-fallout)
+
 ## Long-term Geopolitical Consequences of IMF Structural Adjustment
 *Date: 1999-03-25*
 
@@ -1239,6 +2119,14 @@
 1. [Senate Report 109-325 - GIMME FIVE Investigation](https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm)
 2. [Senate Tribal Lobbying Investigation - Full Report Details Abramoff-Reed Scheme](https://www.indian.senate.gov/wp-content/uploads/upload/files/Report.pdf)
 3. [Abramoff: Lobbying Congress Case Study](https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress)
+
+## Lawrence Summers Becomes Treasury Secretary, Accelerates Derivatives Deregulation Campaign
+*Date: 1999-07-02*
+
+1. [Lawrence Summers (1999-2001)](https://home.treasury.gov/about/history/prior-secretaries/lawrence-summers-1999-2001)
+2. [Lawrence Summers](https://en.wikipedia.org/wiki/Lawrence_Summers)
+3. [Falling Upward: The Surprising Survival of Larry Summers](https://prospect.org/economy/falling-upward-larry-summers/)
+4. [Regulators Back Derivatives Deregulation](https://www.chicagotribune.com/news/ct-xpm-2000-02-11-0002110380-story.html)
 
 ## Putin Appointed Prime Minister by Yeltsin
 *Date: 1999-08-09*
@@ -1268,6 +2156,22 @@
 2. [About In-Q-Tel](https://www.iqt.org/about)
 3. [Gilman Louie](https://en.wikipedia.org/wiki/Gilman_Louie)
 
+## Robert Rubin Joins Citigroup for $126 Million After Engineering Glass-Steagall Repeal
+*Date: 1999-10-26*
+
+1. [The Revolving Door, Robert Rubin, and Citigroup](https://sunlightfoundation.com/2008/11/24/the-revolving-door-robert-rubin-and-citigroup/)
+2. [Robert Rubin](https://en.wikipedia.org/wiki/Robert_Rubin)
+3. [The Long Shadow of Robert Rubin](https://www.americanbanker.com/law-regulation/the-long-shadow-of-robert-rubin-1071601-1.html)
+4. [Robert E. Rubin](https://www.cfr.org/expert/robert-e-rubin)
+
+## President's Working Group Recommends Exempting $80 Trillion Derivatives Market from Regulation
+*Date: 1999-11-05*
+
+1. [Falling Upward: The Surprising Survival of Larry Summers](https://prospect.org/economy/falling-upward-larry-summers/)
+2. [Robert Rubin](https://en.wikipedia.org/wiki/Robert_Rubin)
+3. [Regulators Back Derivatives Deregulation](https://www.chicagotribune.com/news/ct-xpm-2000-02-11-0002110380-story.html)
+4. [The Warning](https://www.pbs.org/wgbh/frontline/film/warning/)
+
 ## Gramm-Leach-Bliley Act Retroactively Legalizes Citigroup Merger, Repeals Glass-Steagall
 *Date: 1999-11-12*
 
@@ -1294,12 +2198,51 @@
 3. [Jennifer Lopez's 'nightmare': Diddy probes renew look at 1999 shooting](https://www.mercurynews.com/2024/04/01/jennifer-lopezs-nightmare-diddy-investigations-renew-questions-about-1999-shooting/)
 4. [Driver: Lopez Said Shyne Fired Gun](https://abcnews.go.com/Entertainment/story?id=109455)
 
+## ALEC Membership Reaches 2,000+ State Legislators - Represents One-Quarter to One-Third of All State Legislators Nationwide
+*Date: 2000-01-01*
+
+1. [About ALEC](https://alec.org/about/)
+2. [American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council)
+3. [What is ALEC](https://www.alecexposed.org/wiki/What_is_ALEC)
+4. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
+5. [How ALEC Shapes States' Legislation Behind The Scenes](https://www.npr.org/2011/07/21/138537515/how-alec-shapes-state-politics-behind-the-scenes)
+
+## ALEC Promotes Private Correctional Facilities Act Written by CCA Executives on Criminal Justice Task Force
+*Date: 2000-01-01*
+
+1. [ALEC & Privatization](https://www.alecexposed.org/wiki/ALEC_&_Privatization)
+2. [The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom](https://www.prisonpolicy.org/scans/Prison_Payoff_Report_WPP_2000.pdf)
+3. [The U.S. Private Prison Industry](https://investigate.afsc.org/updates/us-private-prison-industry)
+4. [CoreCivic (formerly CCA)](https://www.sourcewatch.org/index.php?title=CoreCivic)
+
+## Florida Disenfranchises 1.4 Million Citizens Through Felony Voting Bans, Highest Rate in Nation
+*Date: 2000-01-01*
+
+1. [Florida Bans Voting Rights of Over 960,000 Citizens](https://www.sentencingproject.org/fact-sheet/florida-bans-voting-rights-of-over-960000-citizens/)
+2. [Voting Rights Restoration Efforts in Florida](https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-florida)
+3. [2018 Florida Amendment 4](https://en.wikipedia.org/wiki/2018_Florida_Amendment_4)
+4. [Former Felon Praises Florida Passing Amendment 4](https://time.com/5447051/florida-amendment-4-felon-voting/)
+
 ## Indigenous Consensus Decision-Making: A Democratic Innovation Framework
 *Date: 2000-01-01*
 
 1. [Deliberative Democracy and Indigenous Political Practices](https://www.nature.com/articles/s41599-020-0506-4)
 2. [Consensus Building in Indigenous Engagement Processes](https://link.springer.com/chapter/10.1007/978-3-030-03152-7_2)
 3. [Indigenous-Centred Decision-Making in Energy Transitions](https://www.sciencedirect.com/science/article/pii/S221462962500009X)
+
+## Opioid Epidemic Death Toll Reaches 500,000 Americans Between 2000-2020
+*Date: 2000-01-01*
+
+1. [Opioid epidemic in the United States](https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States)
+2. [The Opioid Crisis and Recent Federal Policy Responses](https://www.cbo.gov/publication/58532)
+3. [Overdoses have killed a million Americans since the start of the opioid epidemic](https://www.npr.org/2021/12/30/1069062738/more-than-a-million-americans-have-died-from-overdoses-during-the-opioid-epidemi)
+
+## Top 10% of Firms Capture 90% of Profit Growth Between 1980-2000, Documenting Monopolization
+*Date: 2000-01-01*
+
+1. [Are US Industries Becoming More Concentrated?](https://www.stern.nyu.edu/sites/default/files/assets/documents/Michaely, Roni - Are US Industries Becoming More Concentrated.pdf)
+2. [The Economics and Politics of Market Concentration](https://www.nber.org/reporter/2019number4/economics-and-politics-market-concentration)
+3. [100 Years of Rising Corporate Concentration](https://scholar.harvard.edu/files/spencerykwon/files/concentration100years_3.pdf)
 
 ## Ron Burkle becomes Diddy's business partner and godfather to his children
 *Date: 2000-01-01*
@@ -1308,6 +2251,13 @@
 2. [Ron Burkle](https://en.wikipedia.org/wiki/Ronald_Burkle)
 3. [How Sean 'Diddy' Combs Helped Convince Business to Invest in Hip-Hop](https://www.bloomberg.com/news/newsletters/2025-05-07/how-sean-diddy-combs-helped-convinced-business-to-invest-in-hip-hop)
 4. [Who Is Ron Burkle? The Billionaire Friend of Diddy, Bill Clinton and Michael Jackson](https://www.thedailybeast.com/who-is-ron-burkle-the-billionaire-friend-of-diddy-bill-clinton-and-michael-jackson/)
+
+## Stock Options Become Primary Executive Compensation, Aligning CEO Interests with Short-Term Stock Price Manipulation
+*Date: 2000-01-01*
+
+1. [Executive compensation in the United States](https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States)
+2. [Executive Compensation and Short-Termist Behaviour](https://www.princeton.edu/~wxiong/papers/ceo.pdf)
+3. [New Thinking on How to Link Executive Pay with Performance](https://hbr.org/1999/03/new-thinking-on-how-to-link-executive-pay-with-performance)
 
 ## Systematic Coordination Emerges in Corporate PAC Explosion Post-Buckley
 *Date: 2000-01-01*
@@ -1325,6 +2275,14 @@
 2. [Exclusive: Newly discovered photos and video shed fresh light on Trump's ties to Jeffrey Epstein](https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage)
 3. [How well did Trump and Epstein really know each other? A timeline](https://www.aljazeera.com/news/2025/7/18/how-well-did-trump-and-epstein-really-know-each-other-a-timeline)
 
+## AOL-Time Warner $164 Billion Merger Creates Largest Media Conglomerate in History
+*Date: 2000-01-11*
+
+1. [AOL-Time Warner Merger](https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/pdf/kwoka/9780195322972_18.pdf)
+2. [Democracy in Peril: Twenty Years of Media Consolidation](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
+3. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
+4. [Media Mergers and the Public Interest](https://www.crf-usa.org/bill-of-rights-in-action/bria-23-1-d-media-mergers-and-the-public-interest.html)
+
 ## Halliburton Opens Tehran Office While Cheney Still CEO, Completing $40 Million Annual Iran Business Through Cayman Islands Subsidiary Designed to Circumvent U.S. Sanctions
 *Date: 2000-02-01*
 
@@ -1338,6 +2296,22 @@
 1. [Bush Rewards Rangers and Pioneers with Recess Appointments](https://www.citizen.org/wp-content/uploads/migration/bushrewards.pdf)
 2. [The Buying of the President 2004](https://www.publicintegrity.org/politics/buying-president-2004)
 3. [Tracking the Bundlers](https://www.cbsnews.com/news/tracking-the-bundlers/)
+
+## FCC Approves $35.6 Billion Viacom-CBS Merger Despite Ownership Concentration Violations
+*Date: 2000-05-03*
+
+1. [Viacom Announces Plans to Buy CBS](https://www.ebsco.com/research-starters/history/viacom-announces-plans-buy-cbs)
+2. [The Viacom/CBS Merger: Media Competition and Consolidation](https://www.govinfo.gov/content/pkg/CHRG-106shrg71576/html/CHRG-106shrg71576.htm)
+3. [CBS and Viacom Merger](https://www.c-span.org/video/?153190-1/cbs-viacom-merger)
+4. [Viacom (1952-2005)](https://en.wikipedia.org/wiki/Viacom_(1952–2005))
+
+## ALEC's 'Environmental Literacy Improvement Act' Mandates Teaching Climate Denial in Schools
+*Date: 2000-05-05*
+
+1. [ALEC Model Bill Behind Push To Require Climate Denial Instruction In Schools](https://www.prwatch.org/news/2012/01/11259/alec-model-bill-behind-push-require-climate-denial-instruction-schools)
+2. [Heartland Institute and ALEC Partner to Pollute Classroom Science](https://www.greenpeace.org/usa/heartland-institute-and-alec-partner-to-pollute-classroom-science/)
+3. [Three States Pushing ALEC Bill To Require Teaching Climate Change Denial In Schools](https://www.desmog.com/2013/01/31/three-states-pushing-alec-bill-climate-change-denial-schools/)
+4. [ALEC Hates the Climate](https://climateinvestigations.org/alec_hates_the_climate/)
 
 ## Media Magnate Gusinsky Arrested, Marking Putin's Media Crackdown
 *Date: 2000-06-14*
@@ -1353,6 +2327,14 @@
 2. [reclaimdemocracy.org](https://reclaimdemocracy.org/clear_channel_backlash/)
 3. [justice.gov](https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm)
 4. [transition.fcc.gov](https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html)
+
+## Clinton Signs China PNTR Ending Annual Review, Enabling WTO Entry and Manufacturing Exodus
+*Date: 2000-10-10*
+
+1. [Permanent Normal Trade Relations for China: An Historic Moment](https://clintonwhitehouse4.archives.gov/textonly/WH/new/html/Tue_Oct_10_163702_2000.html)
+2. [United States-China Relations Act of 2000](https://en.wikipedia.org/wiki/United_States–China_Relations_Act_of_2000)
+3. [Fact Sheet on China, WTO, and PNTR](https://1997-2001.state.gov/regions/eap/fs-china_pntr-wto_000524.html)
+4. [The High Cost of the China-WTO Deal](https://www.epi.org/publication/issuebriefs_ib137/)
 
 ## James Baker Coordinates Bush Supreme Court Election Strategy from Day One
 *Date: 2000-11-08*
@@ -1389,6 +2371,14 @@
 3. [Bush v. Gore | Supreme Court Decision Details](https://www.oyez.org/cases/2000/00-949)
 4. [How Amy Coney Barrett played a role in Bush v. Gore](https://www.washingtonpost.com/politics/amy-coney-barrett-bush-gore/2020/10/10/594641b8-09e3-11eb-991c-be6ead8c4018_story.html)
 
+## Phil Gramm Inserts 262-Page CFMA into 11,000-Page Spending Bill Hours Before Christmas Recess
+*Date: 2000-12-15*
+
+1. [Phil Gramm](https://en.wikipedia.org/wiki/Phil_Gramm)
+2. [Enron Loophole](https://en.wikipedia.org/wiki/Enron_Loophole)
+3. [The Enron Loophole and Oil Futures Trading](https://liberalscumbuster.wordpress.com/2008/08/20/the-enron-loophole-and-oil-futures-trading-and-phil-gramm/)
+4. [Consolidated Appropriations Act for FY2001](https://www.congress.gov/bill/106th-congress/house-bill/4577)
+
 ## Clinton Signs Commodity Futures Modernization Act, Cementing Derivatives Deregulation
 *Date: 2000-12-21*
 
@@ -1406,12 +2396,34 @@
 2. [Senate Report on Tribal Lobbying Matters](https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm)
 3. [Levin Center: John McCain and the Abramoff Tribal Lobbying Scandal](https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/)
 
+## Purdue Pharma Bonus System Incentivizes Sales Reps to Target Highest Opioid Prescribers
+*Date: 2001-01-01*
+
+1. [The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy](https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/)
+2. [GAO Report: OxyContin Abuse and Diversion and Efforts to Address the Problem](https://www.gao.gov/assets/a240885.html)
+3. [Fixing Pharma's Incentives Problem in the Wake of the U.S. Opioid Crisis](https://hbr.org/2016/06/fixing-pharmas-incentives-problem-in-the-wake-of-the-u-s-opioid-crisis)
+
+## Clinton Roadless Rule Protects 58 Million Acres of National Forests from Logging
+*Date: 2001-01-12*
+
+1. [Clinton Forest Rules to Stand](https://www.washingtonpost.com/archive/politics/2001/05/04/clinton-forest-rules-to-stand/54364a5b-9984-460b-9c5f-1ea95881286e/)
+2. [Environmental policy of the first Trump administration](https://en.wikipedia.org/wiki/Environmental_policy_of_the_first_Trump_administration)
+3. [Trump to rescind Roadless Rule protecting 58 million acres of forest land](https://www.npr.org/2025/06/23/g-s1-74136/trump-to-rescind-roadless-rule-which-protects-58-million-acres-of-forest-land)
+
 ## Bush Administration Hires 150 Regent University Graduates
 *Date: 2001-01-20*
 
 1. [Regent University and the Bush Administration](https://prospect.org/article/regent-university-bush-administration/)
 2. [An Investigation of Allegations of Politicized Hiring by Monica Goodling](https://oig.justice.gov/sites/default/files/legacy/special/s0807/final.pdf)
 3. [Internal Inquiry: Justice Dept. Officials Broke Law](https://www.npr.org/2008/07/28/92990846/internal-inquiry-justice-dept-officials-broke-law)
+
+## Clinton Pardons Fugitive Marc Rich Amid Corruption Allegations
+*Date: 2001-01-20*
+
+1. [Bill Clinton pardon controversy](https://en.wikipedia.org/wiki/Bill_Clinton_pardon_controversy)
+2. [FBI Releases Documents On Bill Clinton's Controversial 2001 Pardon Of Marc Rich](https://www.npr.org/2016/11/01/500297580/more-surprises-fbi-releases-files-on-bill-clintons-pardon-of-marc-rich)
+3. [The Controversial Pardon of International Fugitive Marc Rich](https://www.govinfo.gov/content/pkg/CHRG-107hhrg75593/html/CHRG-107hhrg75593.htm)
+4. [Clinton's Pardon of Marc Rich](https://www.pbs.org/newshour/show/clintons-pardon-of-marc-rich)
 
 ## Bush Administration Establishes Faith-Based Initiative Infrastructure for Systematic Constitutional Transformation
 *Date: 2001-01-29*
@@ -1434,6 +2446,14 @@
 2. [Oil Chiefs Met With Cheney Task Force, Documents Show](https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/)
 3. [Cheney Energy Task Force: Unprecedented Corporate Access](https://publicintegrity.org/politics/big-gop-contributor-advised-administrations-energy-task-force/)
 4. [Supreme Court Shields Cheney Energy Task Force Documents](https://www.npr.org/2005/05/11/4647599/court-cheney-energy-policy-meetings-can-stay-secret)
+
+## Clinton Pardon Scandal Reveals Payments to President's Brother and Brother-in-Law
+*Date: 2001-02-22*
+
+1. [Bill Clinton pardon controversy](https://en.wikipedia.org/wiki/Bill_Clinton_pardon_controversy)
+2. [House Report 107-454 - Justice Undone - Clemency Decisions in the Clinton White House](https://www.govinfo.gov/content/pkg/CRPT-107hrpt454/html/CRPT-107hrpt454-vol3.htm)
+3. [New controversy emerges in Clinton pardons](http://www.cnn.com/2001/fyi/news/02/22/clinton.pardons/index.html)
+4. [FLASHBACK - Roger Clinton Took Cash to Ask Brother for Presidential Pardons](https://freebeacon.com/politics/flashback-roger-clinton-took-cash-to-ask-brother-for-presidential-pardons/)
 
 ## Kenneth Lay Meets with Dick Cheney Energy Task Force
 *Date: 2001-04-17*
@@ -1478,6 +2498,14 @@
 2. [Saudi rentals at Trump World Tower raise conflict-of-interest concerns: Report](https://www.middleeasteye.net/news/foreign-counties-lease-trump-world-tower-emoluments-concerns-heighten)
 3. [Trump and Saudi Arabia: Deep business ties spark new scrutiny](https://www.cbsnews.com/news/trump-and-saudi-arabia-deep-business-ties-spark-new-scrutiny)
 
+## CIA Authorized to Conduct Extraordinary Rendition - Kidnapping Suspects for Torture Abroad
+*Date: 2001-09-17*
+
+1. [20 Extraordinary Facts About CIA Extraordinary Rendition and Secret Detention](https://www.justiceinitiative.org/voices/20-extraordinary-facts-about-cia-extraordinary-rendition-and-secret-detention)
+2. [Extraordinary Rendition](https://en.wikipedia.org/wiki/Extraordinary_rendition)
+3. [CIA Renditions and Secret Detention Programme](https://www.europarl.europa.eu/RegData/etudes/ATAG/2016/583803/EPRS_ATA(2016)583803_EN.pdf)
+4. [Extraordinary Rendition - Mapping the Black Sites](https://www.pbs.org/frontlineworld/stories/rendition701/map/)
+
 ## AT&T Grants NSA Direct Access to Internet Backbone Infrastructure
 *Date: 2001-09-21*
 
@@ -1516,6 +2544,20 @@
 2. [NSA Stellar Wind Program: Declassified Oversight Report](https://irp.fas.org/eprint/psp.pdf)
 3. [Secrecy and Legal Questions in NSA's Stellar Wind Program](https://www.ibtimes.com/secrecy-legal-questions-hurt-nsas-stellar-wind-spy-program-us-watchdogs-1897087)
 4. [Legal Memos on Bush-Era Warrantless Wiretapping](https://www.washingtonpost.com/world/national-security/legal-memos-released-on-bush-era-justification-for-warrantless-wiretapping/2014/09/05/91b86c52-356d-11e4-9e92-0899b306bbea_story.html)
+
+## Enron Reports $618 Million Loss and Reveals CFO Partnership Schemes
+*Date: 2001-10-16*
+
+1. [Enron scandal - Wikipedia](https://en.wikipedia.org/wiki/Enron_scandal)
+2. [Enron Corporation - Financial Scandals, Scoundrels & Crises](https://www.econcrises.org/2016/12/07/enron-corporation-2001/)
+3. [Enron and the Raptors](http://archives.cpajournal.com/2003/0403/features/f042403.htm)
+
+## SEC Launches Investigation Into Enron's Related-Party Transactions
+*Date: 2001-10-22*
+
+1. [Enron faces SEC investigation](https://money.cnn.com/2001/10/22/companies/enron/index.htm)
+2. [Congress and the Enron Scandal](https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/)
+3. [The Enforcement Division: A History (9/11 and Enron Bring New Resources)](https://www.sechistorical.org/museum/galleries/enf/enf06d_911-enron.php)
 
 ## Bush Signs PATRIOT Act After 45-Day Rush with Minimal Debate
 *Date: 2001-10-26*
@@ -1567,6 +2609,27 @@
 2. [Abramoff: Lobbying Congress Case Study](https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress)
 3. [Senate Report 109-325 - Investigation of Tribal Lobbying Matters](https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm)
 
+## ALEC Adopts Living Wage Mandate Preemption Act to Block Local Minimum Wage Increases
+*Date: 2002-01-01*
+
+1. [Living Wage Mandate Preemption Act](https://alec.org/model-policy/living-wage-mandate-preemption-act/)
+2. [Fighting Wage Preemption: How Workers Have Lost Billions in Wages](https://www.nelp.org/publication/fighting-wage-preemption/)
+3. [City governments are raising standards for working people—and state legislators are lowering them back down](https://www.epi.org/publication/city-governments-are-raising-standards-for-working-people-and-state-legislators-are-lowering-them-back-down/)
+
+## ALEC's Corporate 'Scholarship' Program Funds Legislator Trips to Luxury Resort Conferences
+*Date: 2002-01-01*
+
+1. [Shaping State Laws With Little Scrutiny](https://www.npr.org/2010/10/29/130891396/shaping-state-laws-with-little-scrutiny)
+2. [CMD Special Report: ALEC's 'Scholarship' Scheme Helps Corporations Fund Legislator Trips](https://prwatch.org/news/2012/05/11443/cmd-special-report-alecs-scholarship-scheme-helps-corporations-fund-legislator-tr)
+3. [ALEC Picked Up Tab for Texas Lawmakers' Junkets](https://www.commoncause.org/democracy-wire/alec-picked-up-tab-for-texas-lawmakers-trips/)
+
+## Arthur Andersen Admits to Shredding Tons of Enron Documents
+*Date: 2002-01-09*
+
+1. [ENRON, SHREDDING PAPERS, HISTORY OF DOCUMENT-SHREDDING](https://www.newsweek.com/enron-shredding-papers-history-document-shredding-143639)
+2. [DESTRUCTION OF ENRON-RELATED DOCUMENTS BY ANDERSEN PERSONNEL](https://www.govinfo.gov/content/pkg/CHRG-107hhrg77569/html/CHRG-107hhrg77569.htm)
+3. [Arthur Andersen | Accounting Firm, Enron Scandal & Legacy](https://www.britannica.com/money/Arthur-Andersen)
+
 ## Tigua Casino Closes After Abramoff Double-Dealing Scheme Success
 *Date: 2002-02-12*
 
@@ -1581,12 +2644,47 @@
 2. [Report alleges politicized appointments to inspector general positions](https://www.govexec.com/federal-news/2004/10/report-alleges-politicized-appointments-to-inspector-general-positions/18434/)
 3. [Inspector General Reform Act of 2008](https://www.congress.gov/110/plaws/publ409/PLAW-110publ409.pdf)
 
+## Arthur Andersen Indicted for Obstruction of Justice in Enron Scandal
+*Date: 2002-03-14*
+
+1. [Deputy Attorney General Transcript News Conference - Arthur Andersen Indictment](https://www.justice.gov/archive/dag/speeches/2002/031402newsconferncearthurandersen.htm)
+2. [U.S. Indicts Arthur Andersen for Obstruction of Justice](https://www.pbs.org/newshour/politics/law-jan-june02-andersen_03-14)
+3. [Arthur Andersen Indictment](https://www.npr.org/2002/03/14/1139892/arthur-andersen-indictment)
+
+## Arthur Andersen Convicted, Destroying 85,000 Jobs Worldwide
+*Date: 2002-06-15*
+
+1. [SEC Statement Regarding Andersen Case Conviction](https://www.sec.gov/news/press/2002-89.htm)
+2. [Jury Finds Arthur Andersen Guilty](https://abcnews.go.com/Business/story?id=87101&page=1)
+3. [Arthur Andersen | Accounting Firm, Enron Scandal & Legacy](https://www.britannica.com/money/Arthur-Andersen)
+
+## WorldCom Announces $3.8 Billion Accounting Fraud Discovery
+*Date: 2002-06-25*
+
+1. [WorldCom scandal](https://en.wikipedia.org/wiki/WorldCom_scandal)
+2. [The WorldCom Scandal (2002)](https://internationalbanker.com/history-of-financial-crises/the-worldcom-scandal-2002/)
+3. [WorldCom: The Accounting Scandal](https://www.everycrsreport.com/reports/RS21253.html)
+
 ## Office of Global Communications Establishes Daily Media Talking Points Distribution System
 *Date: 2002-07-21*
 
 1. [Office of Global Communications](https://www.sourcewatch.org/index.php/Office_of_Global_Communications)
 2. [The Office of Global Communications](https://georgewbush-whitehouse.archives.gov/ogc/aboutogc.html)
 3. [Global Communications, United States Office](https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/global-communications-united-states-office)
+
+## WorldCom Files for Bankruptcy with $107 Billion in Assets
+*Date: 2002-07-21*
+
+1. [WorldCom Files for Largest Bankruptcy in U.S. History](https://www.pbs.org/newshour/economy/business-july-dec02-worldcom_07-22)
+2. [THE WORLDCOM CASE: LOOKING AT BANKRUPTCY AND COMPETITION ISSUES](https://www.govinfo.gov/content/pkg/CHRG-108shrg91564/html/CHRG-108shrg91564.htm)
+3. [WorldCom scandal](https://en.wikipedia.org/wiki/WorldCom_scandal)
+
+## Sarbanes-Oxley Act Signed Into Law as Brief Reform Moment
+*Date: 2002-07-30*
+
+1. [Statement on Signing the Sarbanes-Oxley Act of 2002](https://www.presidency.ucsb.edu/documents/statement-signing-the-sarbanes-oxley-act-2002)
+2. [H.R.3763 - Sarbanes-Oxley Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3763)
+3. [Sarbanes-Oxley Act of 2002 | Enron Scandal, Titles, Penalties, & Facts](https://www.britannica.com/topic/Sarbanes-Oxley-Act)
 
 ## Cheney Establishes Legal Framework and Authorization for CIA Torture Program
 *Date: 2002-08-01*
@@ -1830,6 +2928,13 @@
 2. [Interview With Condoleezza Rice](https://transcripts.cnn.com/show/le/date/2002-09-08/segment/00)
 3. ['Mushroom Cloud' Sales Pitch Is Back](https://consortiumnews.com/2012/09/08/mushroom-cloud-sales-pitch-is-back/)
 
+## Tyco CEO Dennis Kozlowski Indicted for $600 Million Fraud
+*Date: 2002-09-12*
+
+1. [Three Tyco execs indicted for fraud](https://edition.cnn.com/2002/BUSINESS/asia/09/12/us.tyco/)
+2. [SEC Sues Former Tyco CEO Kozlowski, Two Others for Fraud](https://www.sec.gov/news/press/2002-135.htm)
+3. [Kozlowski, two others indicted, plead not guilty](https://money.cnn.com/2002/09/12/news/companies/kozlowski/index.htm)
+
 ## Major Network News Divisions Integrate WHIG Messaging Guidelines
 *Date: 2002-09-15*
 
@@ -2007,12 +3112,43 @@
 2. [State of War: The Secret History of the CIA and the Bush Administration](https://www.amazon.com/State-War-Secret-History-Administration/dp/0743270665)
 3. [Constitutional Crisis and the Rule of Law: Executive Power in Times of War](https://scholarship.law.georgetown.edu/facpub/1847/)
 
+## CIA Begins Systematic Use of Enhanced Interrogation Techniques on Detainees
+*Date: 2002-12-01*
+
+1. [Senate Intelligence Committee Report on CIA Torture (Executive Summary)](https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary)
+2. [Enhanced Interrogation Techniques](https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques)
+3. [The CIA Torture Report - What You Need to Know](https://www.pbs.org/wgbh/frontline/article/the-cia-torture-report-what-you-need-to-know/)
+4. [Enhanced Interrogation Explained](https://humanrightsfirst.org/library/enhanced-interrogation-explained/)
+
 ## OSP Fabricates Iraq-al Qaeda Intelligence for WHIG Propaganda Campaign
 *Date: 2002-12-18*
 
 1. [Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense for Policy](https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF)
 2. [Report on Whether Public Statements by U.S. Officials Were Substantiated by Intelligence](https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf)
 3. [Pentagon Office Set Up Separate Intelligence Unit](https://www.washingtonpost.com/archive/politics/2004/06/21/pentagon-office-set-up-separate-intelligence-unit/21b99c67-73c8-4f4a-9d15-2f3b49e36a37/)
+
+## Central Park Five Exonerated: DNA Proves Innocence After 13 Years
+*Date: 2002-12-19*
+
+1. [Conviction and Exoneration - The Central Park Five](https://www.pbs.org/kenburns/the-central-park-five/conviction-and-exoneration)
+2. [Korey Wise - Innocence Project](https://innocenceproject.org/cases/korey-wise/)
+3. [Matias Reyes's Confession Exonerated the Central Park Five](https://www.goodhousekeeping.com/entertainment/a28038525/matias-reyes-central-park-five-jogger/)
+
+## ExxonMobil Channels Millions to Climate Denial Think Tanks and Front Groups
+*Date: 2003-01-01*
+
+1. [ExxonMobil's Funding of Climate Science Denial](https://www.desmog.com/exxonmobil-funding-climate-science-denial/)
+2. [The love, the anger and the oil funding behind climate denial](https://theecologist.org/2018/oct/22/love-anger-and-oil-funding-behind-climate-denial)
+3. [How Big Oil Lost Control of Its Climate Misinformation Machine](https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/)
+4. [Debunking Misinformation About Stolen Climate Emails](https://www.ucs.org/resources/debunking-misinformation-about-stolen-climate-emails)
+
+## State Policy Network Organizational Profile: Coordinating 66 State Think Tanks for Synchronized Corporate Capture
+*Date: 2003-01-01*
+
+1. [State Policy Network](https://www.sourcewatch.org/index.php/State_Policy_Network)
+2. [SPN Exposed](https://www.exposedbycmd.org/spn/)
+3. [State Policy Network and Affiliates Raises $152 Million Annually](https://www.exposedbycmd.org/2022/09/30/state-policy-network-and-affiliates-raises-152-million-annually-to-push-right-wing-policies/)
+4. [Bradley Foundation Funnels Millions to State Policy Network Groups](https://www.exposedbycmd.org/2017/09/05/bradley-foundation-funnels-millions-state-policy-network-groups)
 
 ## Clarence Thomas Begins Undisclosed Luxury Trips on Harlan Crow's Yacht and Private Jets
 *Date: 2003-01-01*
@@ -2063,6 +3199,14 @@
 1. [The Lie Factory](https://www.motherjones.com/politics/2004/01/lie-factory/)
 2. [Serving Patriarchy: Karen Kwiatkowski and the Military Industrial Complex](https://www.lewrockwell.com/2004/07/karen-kwiatkowski/serving-patriarchy/)
 3. [The New Pentagon Papers](https://harpers.org/archive/2004/10/the-new-pentagon-papers/)
+
+## Abu Zubaydah - Waterboarded 83 Times, Tortured for Years, Never Charged with Any Crime
+*Date: 2003-03-01*
+
+1. [Abu Zubaydah - The Forever Prisoner](https://www.therenditionproject.org.uk/prisoners/zubaydah.html)
+2. [Experts Call for Release of Guantanamo Bay Detainee Abu Zubaydah](https://www.ohchr.org/en/press-releases/2025/01/experts-call-release-guantanamo-bay-detainee-abu-zubaydah-arbitrarily)
+3. [The Forever Prisoner - Alex Gibney Documentary](https://www.pbs.org/newshour/show/alex-gibneys-the-forever-prisoner-reveals-cia-torture-tactics)
+4. [Abu Zubaydah Gets His PRB](https://www.humanrightsfirst.org/senate-report-cia-torture/abu-zubaydah)
 
 ## Vanity Fair editor removes Epstein victim allegations after intimidation meeting
 *Date: 2003-03-01*
@@ -2213,12 +3357,26 @@
 2. [Medicare actuary details threats over estimates](https://www.govexec.com/federal-news/2004/03/medicare-actuary-details-threats-over-estimates/16317/)
 3. [Statement on Thomas Scully and Richard Foster Investigation](https://oig.hhs.gov/newsroom/news-releases/2004/scully-foster-investigation/)
 
+## Medicare Part D Passes After Pharmaceutical Industry Writes Price Negotiation Ban
+*Date: 2003-11-25*
+
+1. [The Politics of Medicare and Drug-Price Negotiation](https://www.healthaffairs.org/content/forefront/politics-medicare-and-drug-price-negotiation-updated)
+2. [A Peek at Big Pharma's Playbook That Leaves Many Americans Unable to Afford Their Drugs](https://kffhealthnews.org/news/article/column-big-pharma-drug-price-regulation-tactics-medicare-negotiations/)
+3. [Negotiating Medicare Drug Prices - A New Attempt to Control Purchase Prices](https://pmc.ncbi.nlm.nih.gov/articles/PMC12179530/)
+
 ## Scott Bloch Dismisses 1,000+ Whistleblower Cases at OSC
 *Date: 2004-01-05*
 
 1. [Good riddance to Special Counsel Scott Bloch](https://www.whistleblower.org/press-releases/good-riddance-special-counsel-scott-bloch-enemy-whistleblowers-forced-out-office/)
 2. [Former Head of OSC Pleads Guilty to Criminal Contempt](https://www.justice.gov/opa/pr/former-head-us-office-special-counsel-pleads-guilty-criminal-contempt-congress)
 3. [Whistleblower groups call on President Bush to fire Scott Bloch](https://www.pogo.org/press-release/2007/05/whistleblower-groups-call-on-president-bush-to-fire-special-counsel-scott-bloch/)
+
+## The Apprentice Premieres on NBC, Rehabilitating Trump's Image After Bankruptcies
+*Date: 2004-01-08*
+
+1. [NBC's 'The Apprentice' premieres big, draws over 18 million viewers](https://www.realitytvworld.com/news/nbc-the-apprentice-premieres-big-draws-over-18-million-viewers-2147.php)
+2. [NBC's 'Apprentice' gets off to fast start](https://variety.com/2004/tv/news/nbc-s-apprentice-gets-off-to-fast-start-1117898177/)
+3. [NBC's 'Apprentice' Proves a Quick Learner](https://www.washingtonpost.com/archive/lifestyle/2004/01/14/nbcs-apprentice-proves-a-quick-learner/812bf41c-f68f-4d48-a9a6-6ebd59575806/)
 
 ## Accenture Awarded Competitive DHS US-VISIT Contract
 *Date: 2004-02-01*
@@ -2268,6 +3426,21 @@
 2. [What Did the SEC Really Do in 2004?](https://baselinescenario.com/2012/01/30/what-did-the-sec-really-do-in-2004/)
 3. ['Flawed' SEC Program Failed to Rein in Investment Banks](https://www.propublica.org/article/flawed-sec-program-failed-to-rein-in-investment-banks-101)
 
+## Canada Concludes Maher Arar Wrongly Rendered to Syria for Torture Based on False Intelligence
+*Date: 2004-05-10*
+
+1. [Extraordinary Rendition - Maher Arar](https://en.wikipedia.org/wiki/Extraordinary_rendition#Maher_Arar)
+2. [Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/smmr-rprt-mqr/index-en.aspx)
+3. [20 Extraordinary Facts About CIA Extraordinary Rendition](https://www.justiceinitiative.org/voices/20-extraordinary-facts-about-cia-extraordinary-rendition-and-secret-detention)
+4. [Maher Arar - ACLU Case](https://www.aclu.org/cases/arar-v-ashcroft)
+
+## The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properties and Brand
+*Date: 2004-06-01*
+
+1. [Why Donald Trump on 'Celebrity Apprentice' Raises Conflict of Interest Questions](https://fortune.com/2016/12/09/donald-trump-celebrity-apprentice-nbc/)
+2. [Exposing Mark Burnett - The Man Who Sold Us Trump](https://www.lexisantamaria.substack.com/p/exposing-mark-burnett-the-man-who)
+3. [The Apprentice (American TV series)](https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series))
+
 ## Stewart v. Blackwell Applies Bush v. Gore Equal Protection Precedent to Ohio Voting Disparities
 *Date: 2004-06-04*
 
@@ -2296,6 +3469,13 @@
 1. [Marsh to Acquire Kroll for $1.9 Billion](https://www.nytimes.com/2004/05/19/business/marsh-to-acquire-kroll-for-19-billion.html)
 2. [MMC to Buy Kroll for $1.9 Billion](https://www.insurancejournal.com/news/national/2004/05/19/42403.htm)
 3. [Marsh & McLennan to acquire risk consulting firm Kroll](https://money.cnn.com/2004/05/18/news/fortune500/marsh_kroll/)
+
+## Enron Founder Ken Lay Indicted on 11 Counts of Fraud and Conspiracy
+*Date: 2004-07-07*
+
+1. [The Enron (Ken Lay and Jeff Skilling) Trial: An Account](https://famous-trials.com/enron/1787-home)
+2. [Trial of Kenneth Lay and Jeffrey Skilling](https://en.wikipedia.org/wiki/Trial_of_Kenneth_Lay_and_Jeffrey_Skilling)
+3. [Guilty Verdicts Reached at Enron Trial](https://www.npr.org/series/5181660/guilty-verdicts-reached-at-enron-trial)
 
 ## Citizens for a Sound Economy Splits into FreedomWorks and Americans for Prosperity
 *Date: 2004-07-22*
@@ -2349,6 +3529,13 @@
 3. [Sen. Grassley Requests Investigation of FDA for Conspiring Against Scientist](https://www.finance.senate.gov/chairmans-news/sen-grassley-requests-investigation-of-fda-for-conspiring-against-scientist)
 4. [FDA's Drug Safety System Fails to Protect Public](https://www.ucs.org/resources/attacks-on-science/fdas-drug-safety-system-fails-protect-public)
 
+## Trump Hotels & Casino Resorts Files Bankruptcy, Trump Removed as CEO
+*Date: 2004-11-21*
+
+1. [Trump Hotels & Casino Resorts files plan to exit bankruptcy](https://lasvegassun.com/news/2004/dec/16/trump-hotels-casino-resorts-files-plan-to-exit-ban/)
+2. [Fact-checking claims about Donald Trump's four bankruptcies](https://www.politifact.com/factchecks/2015/sep/21/carly-fiorina/trumps-four-bankruptcies/)
+3. [Trump Entertainment Resorts: Three Bankruptcies and the Failure to Make America Great Again](https://ir.law.utk.edu/cgi/viewcontent.cgi?article=1048&context=utk_studlawbankruptcy)
+
 ## Trump Outbids Epstein for Palm Beach Mansion, Ending Friendship
 *Date: 2004-11-30*
 
@@ -2356,6 +3543,29 @@
 2. [Jeffrey Epstein Battled Donald Trump for Palm Beach Mansion He Sold to Russian Oligarch](https://www.esquire.com/news-politics/politics/a28580523/jeffrey-epstein-donald-trump-palm-beach-mansion-russian-oligarch/)
 3. [Remembering the auction that pitted Trump against Jeffrey Epstein for a Palm Beach estate](https://www.yahoo.com/news/remembering-auction-pitted-trump-against-193353746.html)
 
+## Billy Tauzin Joins PhRMA as CEO After Shepherding $200B Medicare Drug Bill
+*Date: 2004-12-15*
+
+1. [The Lobbyist Who Made You Pay More at the Drugstore](https://billmoyers.com/story/the-man-who-made-you-pay-more-at-the-drugstore/)
+2. [The Legacy of Billy Tauzin - The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/)
+3. [Medicare Drug Planners Now Lobbyists, With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020)
+
+## ALEC Approves 'Great Schools Tax Credit' Model - Launches Systematic Education Privatization Campaign
+*Date: 2005-01-01*
+
+1. [The Great Schools Tax Credit Program Act Exposed](https://www.alecexposed.org/wiki/The_Great_Schools_Tax_Credit_Program_Act_Exposed)
+2. [Cashing in on Kids: 172 ALEC Education Bills Push Privatization in 2015](https://www.prwatch.org/news/2016/03/13054/cashing-kids-172-alec-education-bills-2015)
+3. [ALEC 'Report Card' Recycles Bogus School Quality and Improvement Claims](https://nepc.colorado.edu/publication/alec-report)
+4. [A Smart ALEC Threatens Public Education](https://www.edweek.org/leadership/opinion-a-smart-alec-threatens-public-education/2012/02)
+
+## ALEC Mandatory Minimum Sentencing Models Achieve Nationwide Adoption, Guaranteeing Private Prison Profits
+*Date: 2005-01-01*
+
+1. [How Mandatory Minimums Perpetuate Mass Incarceration](https://www.sentencingproject.org/fact-sheet/how-mandatory-minimums-perpetuate-mass-incarceration-and-what-to-do-about-it/)
+2. [Lockup Quotas Help For-Profit Prison Companies Keep Profits High and Prisons Full](https://www.prwatch.org/news/2013/09/12249/lockup-quotas-help-profit-prison-companies-keep-profits-high-and-prisons-full)
+3. [ALEC in the House: Corporate Bias in Criminal Justice Legislation](https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/)
+4. [The Hidden History of ALEC and Prison Labor](https://www.thenation.com/article/archive/hidden-history-alec-and-prison-labor/)
+
 ## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
 *Date: 2005-01-01*
 
@@ -2367,6 +3577,20 @@
 
 1. [Palantir's Growth Story: How the Magic of Data Analysis Is Changing the World](https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af)
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+
+## Private Equity Assets Under Management Reach $1 Trillion, Enabling Systematic Extraction Across Economy
+*Date: 2005-01-01*
+
+1. [Private Equity: By the Numbers](https://www.warren.senate.gov/imo/media/doc/PE%20Stats%20Final.pdf)
+2. [The Economics of Private Equity: A Critical Review](https://rpc.cfainstitute.org/sites/default/files/-/media/documents/article/rf-brief/economics-of-private-equity.pdf)
+3. [Private equity](https://en.wikipedia.org/wiki/Private_equity)
+
+## Dick Gephardt Founds Lobbying Firm After 28 Years as House Democratic Leader
+*Date: 2005-01-03*
+
+1. [About Us - Gephardt Group](https://www.gephardtgroup.com/About-Us)
+2. [Dick Gephardt](https://www.influencewatch.org/person/dick-gephardt/)
+3. [The Honorable Richard A. Gephardt](https://www.gephardtdc.com/our-team/the-honorable-richard-a-gephardt/)
 
 ## Armstrong Williams Paid 40K for Illegal Government Propaganda
 *Date: 2005-01-07*
@@ -2389,6 +3613,13 @@
 2. [Perversion of Justice: Jeffrey Epstein Investigation Timeline](https://www.miamiherald.com/topics/jeffrey-epstein/)
 3. [Jeffrey Epstein Case: Timeline of Federal Investigation](https://abcnews.go.com/US/jeffrey-epstein-case-timeline-federal-investigation/story?id=64442946)
 
+## Tom Daschle Joins Private Equity Firm and Lobbying After Senate Majority Leadership
+*Date: 2005-03-14*
+
+1. [Revolving Door - Tom Daschle Employment Summary](https://www.opensecrets.org/revolving/rev_summary.php?id=34118)
+2. [Daschle Moving to K Street](https://www.washingtonpost.com/wp-dyn/articles/A32604-2005Mar13.html)
+3. [Tom Daschle - US Senate Majority Leader, Tax Reform Advocate](https://www.britannica.com/biography/Tom-Daschle)
+
 ## OCC Federal Preemption Blocks State Anti-Predatory Lending Protections
 *Date: 2005-04-01*
 
@@ -2397,12 +3628,40 @@
 3. [OCC Issues Final Rules on National Bank Preemption and Visitorial Powers](https://www.occ.gov/news-issuances/news-releases/2004/nr-occ-2004-3.html)
 4. [In Pursuit of Safety and Soundness: An Analysis of the OCC's Anti-Predatory Lending Standard](https://ir.lawnet.fordham.edu/ulj/vol31/iss6/7/)
 
+## Public Citizen Report Shows 43% of Lawmakers Leaving Congress Became Lobbyists
+*Date: 2005-04-01*
+
+1. [The Dizzying Spin of the Revolving Door](https://www.citizen.org/news/the_dizzying_sp/)
+2. [Members of Congress Increasingly Use Revolving Door to Launch Lucrative Lobbying Careers](https://www.citizen.org/news/members-of-congress-increasingly-use-revolving-door-to-launch-lucrative-lobbying-careers/)
+3. [Revolving Door - Overview](https://www.opensecrets.org/revolving-door)
+
 ## Trump Admits to Entering Pageant Dressing Rooms on Howard Stern
 *Date: 2005-04-11*
 
 1. [Trump on Stern in 2005: When you're a star 'you can do anything' to women](https://www.cnn.com/2016/10/08/politics/trump-on-howard-stern)
 2. [Trump bragged about being able to walk into pageant dressing rooms](https://thehill.com/blogs/ballot-box/presidential-races/300093-trump-bragged-about-being-able-to-walk-into-pageant/)
 3. [Four women who competed in pageants say Trump entered dressing rooms](https://www.cbsnews.com/news/more-unearthed-footage-trump-says-of-10-year-old-i-am-going-to-be-dating-her-in-10-years/)
+
+## Bankruptcy Act Makes Private Student Loans Non-Dischargeable - Weaponizing Law Against Students
+*Date: 2005-04-20*
+
+1. [S.256 - Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
+2. [2005 Law Made Student Loans More Lucrative](https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative)
+3. [Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)](https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm)
+
+## Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)
+*Date: 2005-04-20*
+
+1. [Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
+2. [For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices](https://www.gao.gov/products/gao-10-948t)
+3. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
+
+## Trump Launches "Trump University" Real Estate Seminars Without Academic License or Accreditation
+*Date: 2005-05-23*
+
+1. [A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million](https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding)
+2. [Trump University](https://en.wikipedia.org/wiki/Trump_University)
+3. [Trump University Lawsuit Alleges School For Success Was A Scam](https://www.npr.org/2016/02/26/468297926/trump-university-lawsuit-alleges-school-for-success-was-a-scam)
 
 ## Phil Cooney Climate Science Censorship Exposed by Whistleblower
 *Date: 2005-06-08*
@@ -2418,12 +3677,40 @@
 2. [Establishment of Organization Designation Authorization Program](https://www.federalregister.gov/documents/2005/10/13/05-20470/establishment-of-organization-designation-authorization-program)
 3. [Weaknesses in FAA's Certification and Delegation Processes](https://www.oig.dot.gov/sites/default/files/FAA Certification of 737 MAX Boeing II Final Report^2-23-2021.pdf)
 
+## Investigation Reveals $15M in Lobbyist-Funded Congressional Travel and Fact-Finding Junkets
+*Date: 2005-06-30*
+
+1. [Flouting the rule on lobbyist-paid travel](https://publicintegrity.org/politics/flouting-the-rule-on-lobbyist-paid-travel/)
+2. [So much travel in so little time](https://publicintegrity.org/federal-politics/so-much-travel-in-so-little-time/)
+3. [Return of the junket - Lawmakers trot globe on lobbyists' tab](https://www.cnbc.com/id/100972702)
+
+## Bain, KKR, and Vornado Acquire Toys 'R' Us for $6.6 Billion, Loading Company with $5 Billion Debt
+*Date: 2005-07-01*
+
+1. [How Wall Street Bought Toys 'R' Us And Left 30,000 People Without Jobs](https://www.buzzfeednews.com/article/leticiamiranda/how-wall-street-bought-toys-r-us-and-left-30000-people)
+2. [KKR, Bain Capital, Vornado repeatedly rewarded themselves for adding debt to Toys 'R' Us](https://pestakeholder.org/news/kkr-bain-capital-vornado-repeatedly-rewarded-themselves-for-adding-debt-to-toys-r-us/)
+3. [How Private Equity Killed Toys 'R' Us](https://inthesetimes.com/article/how-private-equity-killed-toys-r-us)
+
+## WorldCom CEO Bernard Ebbers Sentenced to 25 Years in Prison
+*Date: 2005-07-13*
+
+1. [Ebbers Sentenced to 25 Years for Fraud](https://www.npr.org/2005/07/13/4752469/ebbers-sentenced-to-25-years-for-fraud)
+2. [United States v. Bernard Ebbers](https://www.justice.gov/usao-sdny/united-states-v-bernard-ebbers)
+3. [Bernard Ebbers](https://en.wikipedia.org/wiki/Bernard_Ebbers)
+
 ## KBR Employee Jamie Leigh Jones Alleges Gang Rape in Iraq, Exposes Systematic Use of Mandatory Arbitration to Shield Contractor Accountability
 *Date: 2005-07-28*
 
 1. [Victim - Gang-Rape Cover-Up by U.S., Halliburton/KBR](https://abcnews.go.com/Blotter/story?id=3977702&page=1)
 2. [Jamie Leigh Jones](https://en.wikipedia.org/wiki/Jamie_Leigh_Jones)
 3. [Naked, Sore, Bruised and Bleeding - Alleged U.S. Contractor Rape Victim Fights for Day in Court](https://abcnews.go.com/Blotter/halliburton-employee-jamie-leigh-jones-testifies-senate-rape/story?id=8775641)
+
+## FBI Finds $90,000 in Cash Hidden in Rep. William Jefferson's Freezer
+*Date: 2005-08-03*
+
+1. [A Look Back at the William J. Jefferson Corruption Case](https://www.fbi.gov/news/stories/a-look-back-at-the-william-j-jefferson-corruption-case)
+2. [Congressman William Jefferson Indicted On Bribery, Racketeering, Money Laundering, Obstruction of Justice, and Related Charges](https://www.justice.gov/archive/opa/pr/2007/June/07_crm_402.html)
+3. [William J. Jefferson corruption case](https://en.wikipedia.org/wiki/William_J._Jefferson_corruption_case)
 
 ## Energy Task Force Recommendations Become EPA Policy Without Review
 *Date: 2005-08-08*
@@ -2432,12 +3719,26 @@
 2. [Cheney Task Force Met With Oil Executives](https://www.spokesman.com/stories/2005/nov/16/cheney-task-force-met-with-oil-execs/)
 3. [National Energy Policy Development Group: Regulatory Capture Analysis](https://www.gem.wiki/Cheney_Energy_Task_Force)
 
+## Jack Abramoff Indicted for Wire Fraud in SunCruz Casinos Purchase
+*Date: 2005-08-11*
+
+1. [Abramoff Indicted in Casino Boat Purchase](https://www.washingtonpost.com/archive/politics/2005/08/12/abramoff-indicted-in-casino-boat-purchase/492a151d-5346-4329-ae25-9fcf0a3aae28/)
+2. [Rise and Fall of Jack Abramoff](https://www.pbs.org/newshour/show/rise-and-fall-of-jack-abramoff)
+3. [Jack Abramoff Indian lobbying scandal](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
+
 ## Hurricane Katrina Enables .4B No-Bid Disaster Capitalism Takeover
 *Date: 2005-08-29*
 
 1. [Hurricanes Katrina and Rita: Continued Findings of Fraud, Waste, and Abuse](https://www.gao.gov/products/gao-07-300)
 2. [Crisis Profiteering: Dick Cheney, Halliburton and Hurricane Katrina](https://www.democracynow.org/2005/9/9/crisis_profiteering_dick_cheney_halliburton_and)
 3. [The Shock Doctrine: The Rise of Disaster Capitalism](https://naomiklein.org/the-shock-doctrine/)
+
+## House Majority Leader Tom DeLay Indicted for Money Laundering and Conspiracy
+*Date: 2005-09-28*
+
+1. [Tom DeLay indicted on money laundering charges](https://www.pbs.org/newshour/tag/tom-delay)
+2. [Tom DeLay: How his crowning moment became a money laundering conviction](https://www.csmonitor.com/USA/Politics/2010/1124/Tom-DeLay-How-his-crowning-moment-became-a-money-laundering-conviction)
+3. [Tom DeLay campaign finance trial](https://en.wikipedia.org/wiki/Tom_DeLay_campaign_finance_trial)
 
 ## Dubai Ports World Initiates Controversial CFIUS Review for US Port Management Acquisition
 *Date: 2005-10-15*
@@ -2453,12 +3754,50 @@
 2. [Is Don Siegelman the Victim of a Political Witch Hunt?](https://harpers.org/archive/2007/12/is-don-siegelman-the-victim-of-a-political-witch-hunt/)
 3. [House Judiciary Committee Testimony of Dana Jill Simpson](https://judiciary.house.gov/sites/democrats.judiciary.house.gov/files/documents/SimpsonTestimony070913.pdf)
 
+## Washington Post Reveals CIA's Secret Prison Network in Eastern Europe
+*Date: 2005-11-02*
+
+1. [CIA Holds Terror Suspects in Secret Prisons](https://www.washingtonpost.com/wp-dyn/content/article/2005/11/01/AR2005110101644.html)
+2. [CIA Black Sites](https://en.wikipedia.org/wiki/CIA_black_sites)
+3. [European Complicity in CIA Torture in Black Sites](https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/)
+4. [Lithuania and Romania Complicit for Hosting CIA Black Sites](https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/)
+
+## Dick Cheney Lobbies Congress for CIA Exemption from McCain Torture Ban
+*Date: 2005-11-08*
+
+1. [Cheney Lobbies for CIA Exemption to Torture Ban](https://www.democracynow.org/2005/10/25/headlines/cheney_lobbies_for_cia_exemption_to_torture_ban)
+2. [Agreement Reached on McCain Torture Amendment](https://www.npr.org/transcripts/5055198)
+3. [Vice President Endorses Torture](https://www.hrw.org/news/2006/10/25/us-vice-president-endorses-torture)
+4. [Cheney Digs in on Legacy of Torture](https://www.aclu.org/news/national-security/cheney-digs-legacy-torture)
+
+## CIA Destroys 92 Torture Interrogation Videotapes to Conceal Evidence
+*Date: 2005-11-09*
+
+1. [2005 CIA Interrogation Videotapes Destruction](https://en.wikipedia.org/wiki/2005_CIA_interrogation_videotapes_destruction)
+2. [Destruction of CIA Interrogation Tapes May Conceal Government Crimes](https://www.amnesty.org/en/latest/press-release/2007/12/usa-destruction-cia-interrogation-tapes-may-conceal-government-crimes-20/)
+3. [Court Papers - 92 Interrogation Tapes Destroyed by CIA](https://www.cnn.com/2009/POLITICS/03/02/cia.tapes.destroyed/)
+4. [Torture Tapes - Failure at All Levels](https://www.brennancenter.org/our-work/research-reports/torture-tapes-failure-all-levels-0)
+
+## Energy Committee Hearings Expose Oil Industry Climate Denial Campaign and Regulatory Capture
+*Date: 2005-11-16*
+
+1. [Examining the Oil Industry's Efforts to Suppress the Truth About Climate Change](https://www.congress.gov/event/116th-congress/house-event/LC64569/text)
+2. [Denial, Disinformation, and Doublespeak - Big Oil's Campaign](https://www.budget.senate.gov/imo/media/doc/fossil_fuel_report1.pdf)
+3. [Oil companies discourage climate action, study says](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/)
+
 ## Oil Executives Deny Task Force Participation Despite Documentary Evidence
 *Date: 2005-11-16*
 
 1. [Document Says Oil Chiefs Met With Cheney Task Force](https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/)
 2. [Document: Big oil met with Cheney task force](https://www.nbcnews.com/id/wbna10045043)
 3. [White House records show oil chiefs at energy meetings](https://www.sfgate.com/politics/article/White-House-records-show-oil-chiefs-at-energy-2594858.php)
+
+## Rep. Duke Cunningham Pleads Guilty to $2.4 Million Bribery Scheme
+*Date: 2005-11-28*
+
+1. [Former Congressman Gets 8 Years for Taking Bribes](https://www.npr.org/2006/03/03/5244504/former-congressman-gets-8-years-for-taking-bribes)
+2. [Cunningham Pleads Guilty, Steps Down from Congress](https://voiceofsandiego.org/2005/11/28/cunningham-pleads-guilty-steps-down-from-congress/)
+3. [Cunningham scandal](https://en.wikipedia.org/wiki/Cunningham_scandal)
 
 ## Coast Guard Identifies Critical Intelligence Gaps in Dubai Ports World Deal
 *Date: 2005-12-15*
@@ -2509,6 +3848,13 @@
 2. [Key Questions About the Dubai Port Deal](https://www.cnn.com/2006/POLITICS/03/06/dubai.ports.qa/)
 3. [Dubai Company Gives Up On Ports Deal](https://www.cbsnews.com/news/dubai-company-gives-up-on-ports-deal/)
 
+## FBI Infiltrates Orange County Mosques with Informant in Dragnet Surveillance
+*Date: 2006-03-01*
+
+1. [How the FBI Spied on Orange County Muslims](https://www.aclu.org/news/national-security/how-the-fbi-spied-on-orange-county-muslims-and-attempted-to-get-away-with-it)
+2. [FBI Informant's Role in Upcoming SCOTUS Case](https://theintercept.com/2021/09/12/fbi-informant-surveillance-muslims-supreme-court-911/)
+3. [The War on Terror and the Disciplining of American Muslims](https://www.aljazeera.com/opinions/2021/9/11/the-war-on-terror-and-the-disciplining-of-american-muslims)
+
 ## Dubai Ports World Abandons US Port Takeover Under Congressional Pressure
 *Date: 2006-03-09*
 
@@ -2524,6 +3870,21 @@
 2. [Bush Chooses Ex-NSA Chief for CIA Post](https://www.nytimes.com/2006/05/09/washington/09intel.html)
 3. [Nomination of General Michael V. Hayden to be Director of the Central Intelligence Agency](https://intelligence.senate.gov/hearings/nomination-general-michael-v-hayden-be-director-central-intelligence-agency)
 
+## Competitive Enterprise Institute Launches "CO2 is Life" Advertising Campaign
+*Date: 2006-05-18*
+
+1. [CEI Launches Ad Campaign to Counter Global Warming Alarmism](https://cei.org/content/cei-launches-ad-campaign-counter-global-warming-alarmism)
+2. [They Call It Pollution. We Call It Life.](https://www.npr.org/templates/story/story.php?storyId=5425355)
+3. [The CEI ads](https://grist.org/article/the-cei-ads/)
+4. [Watch the bizarre advert praising CO2 that Donald Trump's EPA transition head made](https://unearthed.greenpeace.org/2016/11/18/donald-trump-myron-ebell-cei-climate-change/)
+
+## Ken Lay and Jeffrey Skilling Convicted of Enron Fraud and Conspiracy
+*Date: 2006-05-25*
+
+1. [Enron Verdict: Ken Lay Guilty on All Counts, Skilling on 19 Counts](https://abcnews.go.com/Business/LegalCenter/story?id=2003728&page=1)
+2. [Guilty Verdicts Reached at Enron Trial](https://www.npr.org/series/5181660/guilty-verderts-reached-at-enron-trial)
+3. [Lay, Skilling Found Guilty](https://www.industryweek.com/the-economy/regulations/article/21945817/lay-skilling-found-guilty)
+
 ## Model Ruslana Korshunova, 18, flies to Epstein's island two years before suspicious death
 *Date: 2006-06-07*
 
@@ -2532,6 +3893,13 @@
 3. [Up-and-coming model Ruslana Korshunova killed herself 2 years after visiting Epstein's island, documents show](https://komonews.com/news/nation-world/model-ruslana-korshunova-killed-herself-2-years-after-visiting-epsteins-island-documents-show-jeffrey-epstein-jet-clinton-trump-island-documents-new-york)
 4. [Kazakh model committed suicide two years after visiting Jeffrey Epstein's notorious island](https://timesca.com/kazakh-model-committed-suicide-two-years-after-visiting-jeffrey-epsteins-notorious-island/)
 
+## Ken Lay Dies Before Sentencing, Conviction Later Vacated
+*Date: 2006-07-05*
+
+1. [Convicted Enron Founder Kenneth Lay Dies at 64](https://www.pbs.org/newshour/economy/business-july-dec06-lay_07-05)
+2. [Enron founder Ken Lay dies of heart disease](https://www.nbcnews.com/id/wbna13715925)
+3. [Lay's Death May Lead Court to Toss Case](https://www.npr.org/2006/07/06/5539129/lays-death-may-lead-court-to-toss-case)
+
 ## ABA Condemns Bush 800+ Signing Statements Nullifying Oversight
 *Date: 2006-07-24*
 
@@ -2539,12 +3907,27 @@
 2. [Takeover: The Return of the Imperial Presidency](https://www.amazon.com/Takeover-Imperial-Presidency-Subversion-Democracy/dp/0316118044)
 3. [Presidential Signing Statements Accompanying the Fiscal Year 2006 Appropriations Acts](https://www.gao.gov/products/gao-07-720)
 
+## Bush Publicly Acknowledges CIA Secret Prisons for First Time, Transfers Detainees to Guantanamo
+*Date: 2006-09-06*
+
+1. [Bush Acknowledges Secret CIA Prisons](https://www.npr.org/templates/story/story.php?storyId=5782487)
+2. [President Bush's Speech on Terrorism](https://www.washingtonpost.com/wp-dyn/content/article/2006/09/06/AR2006090600437.html)
+3. [CIA Black Sites](https://en.wikipedia.org/wiki/CIA_black_sites)
+4. [Bush Acknowledges Secret Prisons](https://www.aclu.org/press-releases/president-bush-acknowledges-secret-prisons)
+
 ## Congressman Bob Ney Pleads Guilty in Abramoff Corruption Scandal
 *Date: 2006-09-15*
 
 1. [Rep. Bob Ney Pleads Guilty to Corruption Charges](https://www.cbsnews.com/news/convictions-in-the-abramoff-corruption-probe/)
 2. [Bob Ney - Wikipedia](https://en.wikipedia.org/wiki/Bob_Ney)
 3. [Convictions in the Abramoff corruption probe](https://www.foxnews.com/sports/convictions-in-the-abramoff-corruption-probe)
+
+## Jeffrey Skilling Sentenced to 24 Years for Enron Fraud
+*Date: 2006-10-23*
+
+1. [Former Enron Chief Executive Officer Jeffrey Skilling Sentenced to More Than 24 Years in Prison](https://www.justice.gov/archive/opa/pr/2006/October/06_crm_723.html)
+2. [Enron's Skilling Sentenced to 24 Years for Fraud](https://www.npr.org/2006/10/23/6369937/enrons-skilling-sentenced-to-24-years-for-fraud)
+3. [Jeffrey Skilling](https://en.wikipedia.org/wiki/Jeffrey_Skilling)
 
 ## Bush Administration Fires Seven U.S. Attorneys in Coordinated Purge
 *Date: 2006-12-07*
@@ -2559,6 +3942,14 @@
 1. [An Investigation into the Removal of Nine U.S. Attorneys in 2006](https://oig.justice.gov/sites/default/files/archive/special/s0809a/final.pdf)
 2. [Timeline: Behind the Firing of Eight U.S. Attorneys](https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys)
 3. [Gonzales Resigns as Attorney General](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html)
+
+## ALEC Launches 'Rich States, Poor States' Report with Arthur Laffer - Annual Corporate Tax Competition Manifesto to Drive Interstate Race-to-Bottom
+*Date: 2007-01-01*
+
+1. [Rich States Poor States Turns Eighteen: Across the States Special Edition](https://alec.org/article/rich-states-poor-states-turns-eighteen-across-the-states-special-edition/)
+2. [Selling Snake Oil to the States: The American Legislative Exchange Council's Flawed Prescriptions for Prosperity](https://goodjobsfirst.org/selling-snake-oil-states-american-legislative-exchange-councils-flawed-prescriptions-pr/)
+3. [ALEC's Economic Agenda Will Weaken State Economies and Harm Working Families, Leading Experts Find](https://www.epi.org/press/alecs-economic-agenda-weaken-state-economies/)
+4. [The Koch-Fueled ALEC's 'Rich States, Poor States' Paints a Happy Face on Failing State Policies](https://www.prwatch.org/news/2015/11/12982/alecs-rich-states-poor-states-paints-happy-face-failing-state-policies)
 
 ## Cellebrite Launches Universal Forensic Extraction Device (UFED) for Law Enforcement
 *Date: 2007-01-01*
@@ -2627,6 +4018,13 @@
 1. [KBR, Inc.](https://en.wikipedia.org/wiki/KBR,_Inc.)
 2. [Halliburton, KBR, and Iraq war contracting - A history so far](https://www.politifact.com/factchecks/2010/jun/09/arianna-huffington/halliburton-kbr-and-iraq-war-contracting-history-s/)
 
+## Purdue Pharma Pleads Guilty to Criminal Misbranding, $600M Fine, Zero Executives Jailed
+*Date: 2007-05-10*
+
+1. [Opioid Manufacturer Purdue Pharma Pleads Guilty to Fraud and Kickback Conspiracies](https://www.justice.gov/archives/opa/pr/opioid-manufacturer-purdue-pharma-pleads-guilty-fraud-and-kickback-conspiracies)
+2. [Evaluating the Propriety and Adequacy of the OxyContin Criminal Settlement](https://www.govinfo.gov/content/pkg/CHRG-110shrg40884/html/CHRG-110shrg40884.htm)
+3. [Purdue's Guilty Pleas](https://www.judgeforyourselves.info/key-points/purdue/guilty-pleas/)
+
 ## Monica Goodling Admits Political Screening of DOJ Lawyers
 *Date: 2007-05-23*
 
@@ -2641,6 +4039,20 @@
 2. [Disclosure of NSA's Secret Verizon Order](https://newsinfo.iu.edu/news/page/normal/24313.html)
 3. [Reaction to NSA Surveillance of U.S. Citizens' Phone Records](https://www.brookings.edu/articles/reaction-to-nsa-surveillance-of-u-s-citizens-phone-records/)
 
+## FBI Inspector General Reports 35% Error Rate on Terror Watchlist
+*Date: 2007-09-01*
+
+1. [FBI Inspector General Reports 35 Percent Error Rate](https://www.aclu.org/press-releases/fbi-inspector-general-reports-35-percent-error-rate-terror-watchlist)
+2. [U.S. Government Watchlisting - Unfair Process](https://www.aclu.org/documents/us-government-watchlisting-unfair-process-and-devastating-consequences)
+3. [Watchlisting System Exemplifies Biased Profiling](https://www.aclu.org/news/national-security/the-watchlisting-system-exemplifies-the-governments-post-9-11-embrace-of-biased-profiling)
+
+## Honest Leadership Act Takes Effect But Fails to Slow Congressional Revolving Door
+*Date: 2007-09-15*
+
+1. [Revolving Door - Overview](https://www.opensecrets.org/revolving-door)
+2. [Revolving Congress - The Revolving Door Class of 2019 Flocks to K Street](https://www.citizen.org/article/revolving-congress/)
+3. [Congressional Staff and the Revolving Door - The Impact of Regulatory Change](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2313304)
+
 ## Blackwater Nisour Square Massacre Exposes Systematic Private Military Corporate-State Fusion Accountability Crisis and Constitutional Violation
 *Date: 2007-09-16*
 
@@ -2651,6 +4063,13 @@
 5. [Trump Pardons Blackwater Guards Who Killed 14 Iraqi Civilians](https://www.nytimes.com/2020/12/22/us/politics/blackwater-pardons-trump.html)
 6. [Blackwater in Baghdad: It was a horror movie](https://www.hrw.org/news/2007/10/11/blackwater-baghdad-it-was-horror-movie)
 
+## Trump Foundation Pays $258,000 for Six-Foot Portrait of Trump at Charity Auction
+*Date: 2007-10-01*
+
+1. [A clue to the whereabouts of the 6-foot-tall portrait of Donald Trump](https://www.washingtonpost.com/politics/a-clue-to-the-whereabouts-of-the-6-foot-tall-portrait-of-donald-trump/2016/09/14/ae65db82-7a8f-11e6-ac8e-cf8e0dd91dc7_story.html)
+2. [Trump used $258,000 from his charity to settle legal problems](https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html)
+3. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
+
 ## Erik Prince Testifies Before Congress Defending Blackwater Despite Evidence of 195 Shooting Incidents
 *Date: 2007-10-02*
 
@@ -2658,12 +4077,34 @@
 2. [Blackwater CEO Defends Workers in Iraq](https://www.npr.org/2007/10/03/14943144/blackwater-ceo-defends-workers-in-iraq)
 3. [Former Blackwater CEO Erik Prince](https://time.com/archive/6914957/former-blackwater-ceo-erik-prince/)
 
+## Associated Press Investigation Exposes Comcast's Secret BitTorrent Throttling and Blocking
+*Date: 2007-10-19*
+
+1. [Associated Press Confirms That Comcast Blocks Some BitTorrent Traffic](https://www.techdirt.com/2007/10/19/associated-press-confirms-that-comcast-blocks-some-bittorrent-traffic-despite-comcast-denials/)
+2. [EFF tests agree with AP: Comcast is forging packets to interfere with user traffic](https://www.eff.org/deeplinks/2007/10/eff-tests-agree-ap-comcast-forging-packets-to-interfere)
+3. [Comcast Blocks Some Internet Traffic](http://www.washingtonpost.com/wp-dyn/content/article/2007/10/19/AR2007101900842.html)
+
+## CIA Detainee Gul Rahman Froze to Death at Black Site - No One Prosecuted for Homicide
+*Date: 2007-11-02*
+
+1. [Senate Intelligence Committee Report on CIA Torture (Executive Summary)](https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary)
+2. [The Death of Gul Rahman](https://www.aclu.org/issues/national-security/torture/death-gul-rahman)
+3. [CIA Torture Unredacted](https://www.thebureauinvestigates.com/blog/2019-07-10/cia-torture-unredacted-revealing-hidden-us-senate-torture-report)
+4. [No More Excuses - Roadmap to Justice for CIA Torture](https://www.hrw.org/report/2015/12/01/no-more-excuses/roadmap-justice-cia-torture)
+
 ## Thomas Drake Reports NSA Trailblazer Program Waste and Constitutional Violations
 *Date: 2007-11-15*
 
 1. [The Secret Sharer: Is Thomas Drake an Enemy of the State?](https://www.newyorker.com/magazine/2011/05/23/the-secret-sharer)
 2. [NSA Whistleblower Thomas Drake Speaks Out](https://www.baltimoresun.com/news/bs-xpm-2010-04-25-bs-md-drake-20100425-story.html)
 3. [Former NSA Executive Thomas A. Drake May Pay a High Price for Media Leaks](https://www.washingtonpost.com/world/national-security/former-nsa-executive-thomas-a-drake-may-pay-a-high-price-for-media-leaks/2011/05/22/AGCJ1uDH_story.html)
+
+## Trent Lott Resigns from Senate to Evade New Lobbying Ethics Law
+*Date: 2007-12-18*
+
+1. [Trent Lott - Revolving Door Summary](https://www.opensecrets.org/revolving-door/trent-lott-r/summary?id=70566)
+2. [Who Built Senator-Turned-Dirty Energy Lobbyist Trent Lott? You Did](https://grist.org/article/who-built-senator-turned-dirty-energy-lobbyist-trent-lott-you-did/)
+3. [Trent Lott Fast Facts](https://www.cnn.com/2013/09/02/us/trent-lott-fast-facts/index.html)
 
 ## Report: Acosta told Trump transition Epstein 'belonged to intelligence' (unconfirmed)
 *Date: 2008-01-01*
@@ -2759,12 +4200,26 @@
 4. [Maison de L'Amitie - Wikipedia](https://en.wikipedia.org/wiki/Maison_de_L'Amitie)
 5. [Why did a Russian pay $95M to buy Trump's Palm Beach mansion?](https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion)
 
+## Senator Ted Stevens Indicted on Seven Felony Corruption Charges
+*Date: 2008-07-29*
+
+1. [U.S. Senator Indicted on False Statement Charges](https://www.justice.gov/archive/opa/pr/2008/July/08-crm-668.html)
+2. [Alaska Sen. Stevens Convicted In Corruption Trial](https://www.npr.org/2008/10/27/96190607/alaska-sen-stevens-convicted-in-corruption-trial)
+3. [Report: Prosecutors Hid Evidence In Ted Stevens Case](https://www.npr.org/2012/03/15/148687717/report-prosecutors-hid-evidence-in-ted-stevens-case)
+
 ## FISA Court Finds NSA Surveillance Programs Systematically Unconstitutional
 *Date: 2008-07-31*
 
 1. [FISA Court Opinion and Order](https://www.dni.gov/files/documents/1118/CLEANEDPRTT%201.pdf)
 2. [Court: NSA Program Exceeded Legal Authority](https://www.washingtonpost.com/world/national-security/court-nsa-program-exceeded-legal-authority/2013/09/10/f1c204ae-19b8-11e3-8685-5021e0c41964_story.html)
 3. [2011 Ruling Found an N.S.A. Program Unconstitutional](https://www.nytimes.com/2013/08/22/us/2011-ruling-found-an-nsa-program-unconstitutional.html)
+
+## FCC Orders Comcast to Stop Throttling BitTorrent Traffic in Historic 3-2 Vote on Net Neutrality
+*Date: 2008-08-01*
+
+1. [FCC Rules Against Comcast for BitTorrent Blocking](https://www.eff.org/deeplinks/2008/08/fcc-rules-against-comcast-bit-torrent-blocking)
+2. [FCC formally rules Comcast throttling of BitTorrent was illegal](https://cyberlaw.org.uk/2008/08/01/fcc-formally-rules-comcasts-throttling-of-bittorrent-was-illegal/)
+3. [Order Against Comcast Issued, FCC Credits EFF](https://www.eff.org/deeplinks/2008/08/order-against-comcast-issued-fcc-credits-eff)
 
 ## Bush Privatizes 70% of Intelligence Budget to Contractors
 *Date: 2008-08-29*
@@ -2796,6 +4251,13 @@
 4. [Government Assistance for AIG: Summary and Cost](https://www.congress.gov/crs-product/R42953)
 5. [The Causes and Effects of the AIG Bailout](https://www.govinfo.gov/content/pkg/CHRG-110hhrg55767/html/CHRG-110hhrg55767.htm)
 
+## Financial Services Committee Members Who Supported Bailout Received 39% More Wall Street Money
+*Date: 2008-09-29*
+
+1. [Essay Winner - Campaign Contributions Stoked the Fire Behind Wall Street Meltdown](https://www.opensecrets.org/news/2008/11/essay-winner-campaign-contribu/)
+2. [A Fistful of Dollars - Lobbying and the Financial Crisis](https://www.journals.uchicago.edu/doi/10.1086/663992)
+3. [Lobbying and the financial crisis](https://cepr.org/voxeu/columns/lobbying-and-financial-crisis)
+
 ## Bush Signs 00B Bank Bailout with Minimal Oversight
 *Date: 2008-10-03*
 
@@ -2810,6 +4272,21 @@
 2. [Bailout Is a No-Strings Windfall to Bankers, if Not to Borrowers](https://www.nytimes.com/2008/10/15/business/economy/15bailout.html)
 3. [The $700 Billion Question](https://www.washingtonpost.com/wp-dyn/content/article/2008/09/23/AR2008092303425.html)
 
+## Illinois Governor Rod Blagojevich Arrested for Attempting to Sell Obama's Senate Seat
+*Date: 2008-12-09*
+
+1. [Ill. Governor Arrested On Corruption Charges](https://www.npr.org/2008/12/09/98046264/ill-governor-arrested-on-corruption-charges)
+2. [Ill. Gov. Arrested In Probe Over Obama Successor](https://www.npr.org/2008/12/09/97998817/ill-gov-arrested-in-probe-over-obama-successor)
+3. [Rod Blagojevich corruption charges](https://en.wikipedia.org/wiki/Rod_Blagojevich_corruption_charges)
+
+## Americans for Prosperity Organizational Profile: Koch Brothers' Astroturf Empire Manufacturing Fake Grassroots Movements
+*Date: 2009-01-01*
+
+1. [Americans for Prosperity](https://en.wikipedia.org/wiki/Americans_for_Prosperity)
+2. [Americans for Prosperity](https://www.sourcewatch.org/index.php/Americans_for_Prosperity)
+3. [Study Confirms Tea Party Was Created by Big Tobacco and Billionaires](https://www.desmog.com/2013/02/11/study-confirms-tea-party-was-created-big-tobacco-and-billionaires/)
+4. [Americans for Prosperity](https://www.influencewatch.org/non-profit/americans-for-prosperity/)
+
 ## Carl Icahn Partners with Andrew Beal in Trump Entertainment Resorts Bankruptcy Restructuring
 *Date: 2009-01-01*
 
@@ -2823,6 +4300,13 @@
 1. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
 2. [Dataminr - Wikipedia](https://en.wikipedia.org/wiki/Dataminr)
 3. [Why Twitter chose to do battle with the CIA](https://www.cnbc.com/2016/05/13/why-twitter-chose-to-do-battle-with-the-cia.html)
+
+## Energy and Commerce Committee Members Receive $45M From Pharma During ACA Debate
+*Date: 2009-01-01*
+
+1. [Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry in the United States, 1999-2018](https://pmc.ncbi.nlm.nih.gov/articles/PMC7054854/)
+2. [Pharma Campaign Cash Delivered to Key Lawmakers With Surgical Precision](https://kffhealthnews.org/news/article/pharma-campaign-cash-delivered-to-key-lawmakers-with-surgical-precision/)
+3. [Pharmaceuticals / Health Products Recipients](https://www.opensecrets.org/industries/summary?ind=H04++)
 
 ## LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance
 *Date: 2009-01-01*
@@ -2851,12 +4335,27 @@
 2. [The Untouchables: How the Obama administration protected Wall Street](https://www.pbs.org/wgbh/frontline/film/untouchables/)
 3. [Eric Holder returns to Covington & Burling](https://www.politico.com/story/2015/07/eric-holder-covington-burling-119675)
 
+## Obama Dramatically Expands CIA Drone Strike Program - Ten Times More Strikes Than Bush
+*Date: 2009-01-23*
+
+1. [Obama's Covert Drone War in Numbers - Ten Times More Strikes Than Bush](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush)
+2. [Obama's Final Drone Strike Data](https://www.cfr.org/blog/obamas-final-drone-strike-data)
+3. [Why Barack Obama Ramped Up Drone Strikes from George W. Bush](https://www.iir.cz/why-barack-obama-ramped-up-drone-strikes-from-george-w-bush)
+4. [Drone Strikes in Pakistan](https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan)
+
 ## Blackwater Rebrands as Xe Services to Distance from Nisour Square Massacre and Iraq War Crimes
 *Date: 2009-02-13*
 
 1. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
 2. [The Rise and Fall of the Mercenary Formerly Known as Blackwater](https://www.newsweek.com/rise-and-fall-mercenary-formerly-known-blackwater-215746)
 3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
+
+## Trump Entertainment Resorts Files Bankruptcy, Trump Resigns from Board
+*Date: 2009-02-17*
+
+1. [Trump Entertainment files for Chapter 11](https://money.cnn.com/2009/02/17/news/companies/trump_entertainment/index.htm)
+2. [Trump Entertainment Resorts Inc. Files for Bankruptcy](https://themoscowproject.org/collusion/trump-entertainment-resorts-inc-files-bankruptcy/)
+3. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
 
 ## Rick Santelli CNBC Rant Triggers Immediate Koch Network Tea Party Response
 *Date: 2009-02-19*
@@ -2911,6 +4410,14 @@
 2. [Americans for Prosperity: Political Advocacy and Organization](https://en.wikipedia.org/wiki/Americans_for_Prosperity)
 3. [Tea Party Movement: Organizational Background](https://www.sourcewatch.org/index.php/Tea_Party)
 
+## Obama Releases CIA Torture Memos But Promises No Prosecutions for Torturers
+*Date: 2009-04-16*
+
+1. [Obama Releases Bush-Era Memos Authorizing Torture Techniques](https://www.democracynow.org/2009/4/17/memos)
+2. [Obama Wanted to Look Forward Not Backward on Torture, But He Failed to Look Either Way](https://medium.com/@DanFroomkin/obama-wanted-to-look-forward-not-backward-on-torture-but-he-failed-to-look-either-way-c1b258ac3258)
+3. [Obama and Counterterror - The Ignored Record](https://www.hrw.org/news/2015/02/05/obama-counterterror-ignored-record)
+4. [Torture Memos Released](https://www.cbsnews.com/news/torture-memos-released/)
+
 ## Russian Digital Sky Technologies Invests $200M in Facebook
 *Date: 2009-05-01*
 
@@ -2924,6 +4431,13 @@
 1. [Facebook Receives Investment from Digital Sky Technologies](https://about.fb.com/news/2009/05/facebook-receives-investment-from-digital-sky-technologies/)
 2. [Kremlin-Owned Firms Linked to Major Investments in Facebook](https://www.icij.org/investigations/paradise-papers/kremlin-owned-firms-linked-major-twitter-facebook-investments-icij/)
 3. [Zynga Takes Venture Round from DST](https://techcrunch.com/2009/12/15/zynga-takes-180-million-venture-round-cue-russian-mafia-jokes/)
+
+## Newburgh Four Arrested in FBI Entrapment Sting - "Buffoonery" Made Into Terrorism
+*Date: 2009-05-20*
+
+1. [Newburgh Four Case Shows Dire Need for FBI Reforms](https://www.brennancenter.org/our-work/analysis-opinion/newburgh-four-terrorism-case-releases-show-dire-need-fbi-reforms)
+2. [Deploying Informants the FBI Stings Muslims](https://www.thenation.com/article/archive/deploying-informants-fbi-stings-muslims/)
+3. [Are Federal Sting Operations in Counterterrorism Cases Legal?](https://www.pbs.org/wgbh/frontline/article/fbi-sting-operations-terrorism-september-11/)
 
 ## Obama Cuts $80B PhRMA Deal Abandoning Medicare Negotiation Promise
 *Date: 2009-06-01*
@@ -2946,6 +4460,13 @@
 2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
 3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
 
+## ALEC Creates Model Voter ID Legislation Following Obama Election
+*Date: 2009-07-17*
+
+1. [Voter ID Act Exposed](https://www.alecexposed.org/wiki/Voter_ID_Act_Exposed)
+2. [Voter ID drive part of quiet, well-funded national conservative effort](https://www.mprnews.org/story/2012/03/04/voter-id-alec)
+3. [Flurry of Voter ID laws tied to conservative group ALEC](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652)
+
 ## 9/12 Taxpayer March on Washington Demonstrates Koch Network Mobilization Power
 *Date: 2009-09-12*
 
@@ -2960,12 +4481,52 @@
 2. [Senate passes Franken amendment aimed at defense contractors](http://www.minnpost.com/politics-policy/2009/10/senate-passes-franken-amendment-aimed-defense-contractors/)
 3. [Jamie Leigh Jones](https://en.wikipedia.org/wiki/Jamie_Leigh_Jones)
 
+## Climategate Email Hack Manufactures Controversy Before Copenhagen Summit
+*Date: 2009-11-17*
+
+1. [Climatic Research Unit email controversy](https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy)
+2. [Debunking Misinformation About Stolen Climate Emails in the "Climategate" Manufactured Controversy](https://www.ucs.org/resources/debunking-misinformation-about-stolen-climate-emails)
+3. [Climategate: 10 Years On](https://www.desmog.com/climategate-10-years/)
+4. [Climategate](https://www.factcheck.org/2009/12/climategate/)
+
+## Arizona SB 1070 Immigration Law Drafted at ALEC Meeting with CCA Executives - Direct Quid Pro Quo for Immigrant Detention Profits
+*Date: 2009-12-01*
+
+1. [How Corporate Interests Got SB 1070 Passed](https://www.npr.org/2010/11/09/131191523/how-corporate-interests-got-sb-1070-passed)
+2. [Brownskins and Greenbacks: ALEC, the For-Profit Prison Industry and Arizona's SB 1070](https://www.prwatch.org/news/2011/08/10947/brownskins-and-greenbacks-alec-profit-prison-industry-and-arizona%E2%80%99s-sb-1070)
+3. [Private Prison Companies Behind the Scenes of Arizona's Immigration Law](https://www.prisonlegalnews.org/news/2010/nov/15/private-prison-companies-behind-the-scenes-of-arizonas-immigration-law/)
+4. [SB 1070](https://sourcewatch.org/index.php/SB_1070)
+
 ## Former CDC Director Julie Gerberding Joins Merck as Vaccine Division President
 *Date: 2009-12-21*
 
 1. [Merck Hires Ex-CDC Chief Gerberding To Run Vaccines Unit](https://www.npr.org/sections/health-shots/2009/12/merck_hires_gerberding_to_run.html)
 2. [Merck Names Julie Gerberding President of Vaccine Division](https://kffhealthnews.org/morning-breakout/gh-122209-merck/)
 3. [Former CDC Director Julie Gerberding Joins Merck Vaccine Leadership](https://www.reuters.com/article/merck-gerberding-cdc/former-cdc-director-julie-gerberding-joins-merck-vaccine-leadership-2009-12)
+
+## ALEC Distributes Climate Denial Model Legislation to Kill Regional Climate Pacts
+*Date: 2010-01-01*
+
+1. [ALEC Hates the Climate](https://climateinvestigations.org/alec_hates_the_climate/)
+2. [ALEC & the Environment](https://www.alecexposed.org/wiki/ALEC_&_the_Environment)
+3. [ALEC: 50 Years of Attacking Environmental Protection and Democracy](https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/)
+4. [ALEC is plotting to take down state renewable energy targets](https://grist.org/energy-policy/alec-says-it-plans-to-craft-legislation-to-take-down-state-renewable-energy-targets/)
+
+## ALEC's 'Resolution in Opposition to a Carbon Tax' Obstructs Market-Based Climate Solutions
+*Date: 2010-01-01*
+
+1. [Resolution in Opposition to a Carbon Tax](https://alec.org/model-policy/resolution-opposition-carbon-tax/)
+2. [ALEC Hates the Climate](https://climateinvestigations.org/alec_hates_the_climate/)
+3. [Anti-Woke and Fossil Fuel Industry Operatives Dominate ALEC's Energy Task Force](https://www.exposedbycmd.org/2023/08/10/anti-woke-and-fossil-fuel-industry-operatives-dominate-alecs-energy-task-force/)
+4. [ALEC: 50 Years of Attacking Environmental Protection and Democracy](https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/)
+
+## DonorsTrust Organizational Profile: Dark Money ATM Enabling Anonymous Billionaire Political Spending
+*Date: 2010-01-01*
+
+1. [DonorsTrust](https://www.sourcewatch.org/index.php/DonorsTrust)
+2. [Dark Money ATM Injected Right-Wing Groups with $123 Million in 2021](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)
+3. [The Scheme Speech 5: The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/)
+4. [DonorsTrust & Donors Capital Fund](http://conservativetransparency.org/org/donorstrust-donors-capital-fund/)
 
 ## NSO Group Founded in Israel to Develop Pegasus Spyware
 *Date: 2010-01-01*
@@ -2985,6 +4546,21 @@
 
 1. [Private Donors Supply Spy Gear to Cops](https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops)
 2. [How Palantir Is Taking Over New York City](https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085)
+
+## Republican State Leadership Committee Launches REDMAP Gerrymandering Project
+*Date: 2010-01-01*
+
+1. [The RSLC Redistricting Majority Project – REDMAP](https://www.redistrictingmajorityproject.com/)
+2. [GOP gerrymandering creates uphill fight for Dems in the House](https://www.pbs.org/newshour/politics/gop-gerrymandering-creates-uphill-fight-dems-house)
+3. [In 2010, Republicans 'Weaponized' Gerrymandering. Here's How They Did It](https://billmoyers.com/story/in-2010-republicans-weaponized-gerrymandering-heres-how-they-did-it/)
+4. [REDMAP](https://en.wikipedia.org/wiki/REDMAP)
+
+## Corporate-Funded Think Tanks Testify to Congress While Hiding Donor Conflicts of Interest
+*Date: 2010-01-01*
+
+1. [Big Ideas and Big Money - Think Tank Funding in America](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/)
+2. [Who Pays for Think Tanks?](https://fair.org/extra/who-pays-for-think-tanks/)
+3. [Facebook, Google, Amazon are ramping up their secretive influence campaigns in DC](https://www.fastcompany.com/90424503/facebook-google-amazon-are-ramping-up-their-secretive-influence-campaigns-in-dc)
 
 ## Trump SoHo money laundering operation - 77% shell company sales
 *Date: 2010-01-01*
@@ -3038,6 +4614,14 @@
 3. [2010 State of the Union Address](https://en.wikipedia.org/wiki/2010_State_of_the_Union_Address)
 4. [President Obama on Citizens United](https://obamawhitehouse.archives.gov/blog/2010/07/26/president-obama-citizens-united-imagine-power-will-give-special-interests-over-polit)
 
+## Obama Authorizes CIA Signature Strikes - Killing Based on Behavior Patterns, Not Identity
+*Date: 2010-03-17*
+
+1. [Obama's Covert Drone War in Numbers](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush)
+2. [Drone Strikes - An Overview, Articulation and Assessment](https://cgsr.llnl.gov/sites/cgsr/files/2024-08/DroneStrikes.pdf)
+3. [Obama Defends Deadly Drone Campaign in New Book](https://www.middleeasteye.net/news/obama-defends-deadly-drone-campaign-new-book)
+4. [Biden Can Reduce Civilian Casualties During US Drone Strikes - Here's How](https://www.brookings.edu/articles/biden-can-reduce-civilian-casualties-during-us-drone-strikes-heres-how/)
+
 ## SpeechNow.org v. FEC Decision Creates Super PACs Following Citizens United Logic
 *Date: 2010-03-26*
 
@@ -3053,6 +4637,13 @@
 2. [Free Speech for People: SpeechNow v. FEC Case Created Super PACs](https://freespeechforpeople.org/speechnow-v-fec-case-created-super-pacs-challenge/)
 3. [The Landscape For Campaign Finance, 10 Years After Citizens United](https://www.npr.org/2020/01/21/798252685/the-landscape-for-campaign-finance-10-years-after-citizens-united)
 
+## Purdue Reformulates OxyContin as "Abuse-Deterrent" After 14 Years, Drives Users to Heroin
+*Date: 2010-04-05*
+
+1. [Study shows Purdue's switch to 'abuse-deterrent' OxyContin helped drive a spike in hepatitis C infections](https://www.statnews.com/2019/02/04/purdue-abuse-deterrent-oxycontin-hepatitis-c-infections/)
+2. [Revamped OxyContin was supposed to reduce abuse, but has it?](https://www.statnews.com/2019/07/22/revamped-oxycontin-was-supposed-to-reduce-abuse-but-has-it/)
+3. [How the Reformulation of Oxycontin Ignited the Heroin Epidemic](https://www.nber.org/system/files/working_papers/w24475/w24475.pdf)
+
 ## Deepwater Horizon Oil Spill Begins - Environmental Disaster and Corporate Negligence
 *Date: 2010-04-06*
 
@@ -3060,12 +4651,26 @@
 2. [BP Gulf of Mexico Oil Spill Enforcement](https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-of-america-oil-spill)
 3. [Human Health and Ecosystem Impact of Deepwater Horizon Oil Spill](https://pmc.ncbi.nlm.nih.gov/articles/PMC5112119/)
 
+## Thomas Drake Indicted Under Espionage Act for NSA Whistleblowing
+*Date: 2010-04-08*
+
+1. [Thomas Drake NSA Whistleblower Victory](https://whistleblower.org/general/whistleblowers/thomas-drake-nsa-whistleblower-victory/)
+2. [NSA Whistleblower Thomas Drake Prevails Against Charges](https://www.democracynow.org/2012/3/21/in_unprecedented_obama_admin_crackdown_nsa)
+3. [Charges May Be Dropped in NSA Whistleblower Case](https://www.cbsnews.com/news/charges-may-be-dropped-in-nsa-whistleblower-case/)
+
 ## Robo-Signing Scandal Exposed Systematic Foreclosure Document Fraud
 *Date: 2010-04-14*
 
 1. [Robo-Signing, Explained](https://www.cbsnews.com/news/robo-signing-explained/)
 2. [Who's Who in the Foreclosure Scandal: A Primer on the Players](https://www.propublica.org/article/whos-who-in-the-foreclosure-scandal-a-primer-on-the-players)
 3. [2010 United States Foreclosure Crisis Overview](https://en.wikipedia.org/wiki/2010_United_States_foreclosure_crisis)
+
+## Better Business Bureau Drops Trump University Rating to D- After Flood of Consumer Complaints
+*Date: 2010-05-01*
+
+1. [Trump University's D- Rating](https://www.factcheck.org/2016/03/trump-universitys-d-rating/)
+2. [BBB Explains D-Minus Grade for Trump University](https://abcnews.go.com/Politics/bbb-explains-minus-grade-trump-university/story?id=37491525)
+3. [Trump University Rating was D- in 2010](https://time.com/4251160/better-business-bureau-trump-university-rating/)
 
 ## SEC Revolving Door: Wells Fargo Hires Enforcement Official Amid Ongoing Investigations
 *Date: 2010-05-15*
@@ -3078,6 +4683,20 @@
 *Date: 2010-05-15*
 
 1. [Wells Fargo SEC Filing](https://www.sec.gov/Archives/edgar/data/72971/000119312510059552/ddef14a.htm)
+
+## Chelsea Manning Arrested for Leaking Classified Documents to WikiLeaks
+*Date: 2010-05-27*
+
+1. [United States v. Private First Class Chelsea Manning](https://www.justiceinitiative.org/litigation/united-states-v-private-first-class-chelsea-manning)
+2. [Commutation for Chelsea Manning](https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/)
+3. [President Obama's Commutation of Chelsea Manning's Sentence](https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings)
+
+## Trump University Changes Name to "Trump Entrepreneur Initiative" Under Pressure from NY Education Department
+*Date: 2010-06-01*
+
+1. [Trump University targeted by NY regulators](https://money.cnn.com/2011/05/20/news/companies/trump_university/index.htm)
+2. [Trump University](https://en.wikipedia.org/wiki/Trump_University)
+3. [What was Trump University, and why is it still important?](https://www.researchcghe.org/blogs/2016-11-22-what-was-trump-university-and-why-is-it-still-important/)
 
 ## Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
 *Date: 2010-06-18*
@@ -3113,12 +4732,41 @@
 3. [The SoHo Spy: Stunning Anna Chapman Accused in Russian Spy Ring](https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883)
 4. [FBI Releases Video, Documents on Russian Spy Ring, Including Anna Chapman](https://www.nbcnewyork.com/news/local/russian-spy-videos-anna-chapman-fbi-sexy-spy-photos/2123873/)
 
+## GAO Investigation Exposes Systemic For-Profit College Fraud - Industry Takes 25% of Federal Aid
+*Date: 2010-08-04*
+
+1. [For-Profit Colleges: Undercover Testing Finds Colleges Encouraged Fraud and Engaged in Deceptive Marketing](https://www.gao.gov/products/gao-10-948t)
+2. [For-Profit Higher Education - The Failure to Safeguard the Federal Investment](https://www.help.senate.gov/imo/media/for_profit_report/ExecutiveSummary.pdf)
+3. [Undercover Probes Find Fraud At For-Profit Colleges](https://www.npr.org/2010/08/04/128950238/undercover-probes-find-fraud-at-for-profit-colleges)
+
+## FBI Raids Anti-War Activists' Homes in Coordinated Nationwide Operation
+*Date: 2010-09-24*
+
+1. [The FBI's Long History of Treating Political Dissent as Terrorism](https://theintercept.com/2019/10/22/terrorism-fbi-political-dissent/)
+2. [Spying on Occupy Activists](https://progressive.org/latest/spying-occupy-activists/)
+3. [51 Years Ago the FBI Tried to Kill the Revolution](https://www.rightsanddissent.org/news/51-years-ago-the-fbi-tried-to-kill-the-revolution-they-are-still-trying/)
+
 ## Trump associate Tevfik Arif arrested on yacht with underage Eastern European girls
 *Date: 2010-09-28*
 
 1. [Turkish Court Releases Four in Savarona Yacht Prostitution Trial](https://www.bloomberg.com/news/articles/2010-12-20/turkish-court-releases-four-in-savarona-yacht-prostitution-trial)
 2. [Football Leaks: Kazakh moguls, the pal of Donald Trump, teen models and the yacht](https://theblacksea.eu/stories/football-leaks/football-leaks-kazakh-moguls-pal-donald-trump-teen-models-yacht/)
 3. [Tevfik Arif](https://investigaterussia.org/media/2018-09-20/tevfik-arif)
+
+## Republicans Gain Record 680 State Legislative Seats, Securing REDMAP Objectives
+*Date: 2010-11-02*
+
+1. [2010 United States state legislative elections](https://en.wikipedia.org/wiki/2010_United_States_state_legislative_elections)
+2. [GOP gerrymandering creates uphill fight for Dems in the House](https://www.pbs.org/newshour/politics/gop-gerrymandering-creates-uphill-fight-dems-house)
+3. [GOP Makes Historic State Legislative Gains in 2010](https://www.rasmussenreports.com/public_content/political_commentary/commentary_by_tim_storey/gop_makes_historic_state_legislative_gains_in_2010)
+4. [State legislative elections results, 2010](https://ballotpedia.org/State_legislative_elections_results,_2010)
+
+## ALEC Coordinates Right-to-Work Push After 2010 GOP Midterm Wave
+*Date: 2010-12-03*
+
+1. [Wisconsin Introduces Word-for-Word ALEC Right to Work Bill](https://www.prwatch.org/news/2015/02/12743/wisconsin-introduces-verbatim-alec-right-work-bill)
+2. [ALEC's decades of 'right-to-work' effort pay off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/)
+3. [ALEC in 2013: Rightwing Legislative Group Fuels Race to the Bottom in Wages and Worker Rights](https://www.commondreams.org/views/2013/07/23/alec-2013-rightwing-legislative-group-fuels-race-bottom-wages-and-worker-rights)
 
 ## FDA Arthritis Drug Reviewer Jeffrey Siegel Joins Genentech After Approving Company Tocilizumab
 *Date: 2010-12-15*
@@ -3127,6 +4775,35 @@
 2. [FDA's revolving door: Companies often hire agency staffers who managed their successful drug reviews](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)
 3. [FDA's Revolving Door: A Pattern of Potential Bias in Drug Regulation](https://www.statnews.com/analysis/2016/09/28/fda-drug-review-revolving-door/)
 4. [FDA's Revolving Door: Reckoning and Reform](https://law.stanford.edu/wp-content/uploads/2023/03/SLPR_Karas.pdf)
+
+## FCC Passes First Net Neutrality Rules with Major Wireless Exemption in 3-2 Party-Line Vote
+*Date: 2010-12-21*
+
+1. [FCC Releases Open Internet Order](https://www.fcc.gov/document/fcc-releases-open-internet-order)
+2. [Federal Communications Commission Open Internet Order (2010)](https://en.wikipedia.org/wiki/Federal_Communications_Commission_Open_Internet_Order_(2010))
+3. [How the FCC Open Internet Rules Are Evolving](https://rollcall.com/2014/09/30/how-the-fcc-open-internet-rules-are-evolving/)
+
+## ALEC Grants Corporate Lobbyists 'Equal Vote' on Model Legislation for State Legislatures
+*Date: 2011-01-01*
+
+1. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
+2. [ALEC](https://www.commoncause.org/issues/alec/)
+3. [ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposed)
+
+## 34 States Introduce ALEC Voter ID Bills in Coordinated Suppression Campaign
+*Date: 2011-01-01*
+
+1. [Voter ID drive part of quiet, well-funded national conservative effort](https://www.mprnews.org/story/2012/03/04/voter-id-alec)
+2. [Flurry of Voter ID laws tied to conservative group ALEC](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652)
+3. [Voting Rights in 2011 - A Legislative Round-Up](https://www.brennancenter.org/our-work/research-reports/voting-rights-2011-legislative-round)
+
+## Arizona Becomes First State to Enact ALEC-Inspired Education Savings Accounts - Pioneering Universal Voucher Path
+*Date: 2011-01-01*
+
+1. [Arizona's 'universal' education savings account program has become a handout to the wealthy](https://www.brookings.edu/articles/arizonas-universal-education-savings-account-program-has-become-a-handout-to-the-wealthy/)
+2. [Education Savings Account Act - ALEC Exposed](https://www.alecexposed.org/wiki/Education_Savings_Account_Act)
+3. [Cashing in on Kids: 172 ALEC Education Bills Push Privatization in 2015](https://www.prwatch.org/news/2016/03/13054/cashing-kids-172-alec-education-bills-2015)
+4. [Education Savings Accounts, Explained](https://www.edweek.org/policy-politics/education-savings-accounts-explained/2023/03)
 
 ## Pam Bondi Serves as Florida AG 2011-2019, Never Prosecutes Epstein Despite Mounting Evidence
 *Date: 2011-01-01*
@@ -3162,6 +4839,49 @@
 1. [How Peter Thiel Made J.D. Vance](https://www.theatlantic.com/politics/archive/2024/07/jd-vance-peter-thiel-relationship/678981/)
 2. [Peter Thiel's Political Investments](https://nymag.com/intelligencer/2022/04/peter-thiels-candidates.html)
 3. [The billionaire who fueled JD Vance's rapid rise to the Trump VP spot — analysis](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/)
+
+## Wells Fargo Employees Begin Creating 3.5 Million Fake Accounts
+*Date: 2011-01-01*
+
+1. [CFPB Enforcement Action: Wells Fargo Bank, N.A.](https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/)
+2. [Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices)
+3. [Wells Fargo Admits To Nearly Twice As Many Possible Fake Accounts — 3.5 Million](https://www.npr.org/sections/thetwo-way/2017/08/31/547550804/wells-fargo-admits-to-nearly-twice-as-many-possible-fake-accounts-3-5-million)
+
+## Evan Bayh Joins Apollo Global Management and Five Corporate Boards After Senate
+*Date: 2011-01-03*
+
+1. [Evan Bayh Has Made Millions Off Corporate Boards Since Leaving The Senate](https://www.huffingtonpost.com/entry/evan-bayh-corporate-boards_us_578fe868e4b0fc06ec5b85d6)
+2. [Evan Bayh - Revolving Door Summary](https://www.opensecrets.org/revolving-door/bayh-evan/summary?id=76382)
+3. [Evan Bayh spent his final year in the Senate trying to find a job in the private sector](https://www.theblaze.com/news/2016/10/08/evan-bayh-spent-his-final-year-in-the-senate-trying-to-find-a-job-in-the-private-sector)
+
+## Chris Dodd Becomes Hollywood's Chief Lobbyist After Promising No Lobbying
+*Date: 2011-03-01*
+
+1. [Ex-Sen. Chris Dodd Takes a Spin Through the Revolving Door to MPAA](https://www.opensecrets.org/news/2011/03/chris-dodd-takes-a-spin)
+2. [Dodd to be Hollywood's top man in Washington](https://thehill.com/policy/technology/146769-mpaa-names-former-sen-chris-dodd-chairman-a-ceo)
+3. [MPAA Chief Chris Dodd Leaves Complicated Legacy as Hollywood's Top Lobbyist](https://www.hollywoodreporter.com/movies/movie-news/mpaa-chief-chris-dodd-leaves-complicated-legacy-as-hollywoods-top-lobbyist-998841/)
+
+## Wisconsin Act 10 Crushes Public Sector Unions Using ALEC Model Legislation
+*Date: 2011-03-11*
+
+1. [Koch-Funded Mackinac Center Brings Wisconsin Act 10 Provisions to ALEC](https://www.prwatch.org/news/2012/05/11490/koch-funded-mackinac-center-brings-wisconsin-act-10-provisions-alec)
+2. [2011 Wisconsin Act 10](https://docs.legis.wisconsin.gov/2011/related/acts/10)
+3. [Wisconsin's Act 10 is back in court. Here's what to know about the controversial law](https://www.wpr.org/news/wisconsins-act-10-is-back-in-court-heres-what-to-know-about-the-controversial-law)
+
+## CIA Drone Strike Massacres 42 Civilians at Pakistani Tribal Council Meeting
+*Date: 2011-03-17*
+
+1. [Covert Drone War - CIA Tactics in Pakistan Include Targeting Rescuers and Funerals](https://www.thebureauinvestigates.com/stories/2012-02-04/covert-drone-war)
+2. [Drone Strikes in Pakistan](https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan)
+3. [Obama's Covert Drone War in Numbers](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush)
+4. [Living Under Drones - Death, Injury, and Trauma to Civilians from US Drone Practices in Pakistan](https://www.law.stanford.edu/publications/living-under-drones-death-injury-and-trauma-to-civilians-from-us-drone-practices-in-pakistan)
+
+## Trump Launches Political Career with Racist Birther Conspiracy
+*Date: 2011-03-23*
+
+1. [How Donald Trump Perpetuated the 'Birther' Movement for Years](https://abcnews.go.com/Politics/donald-trump-perpetuated-birther-movement-years/story?id=42138176)
+2. [14 of Trump's most outrageous 'birther' claims](https://www.cnn.com/2016/09/09/politics/donald-trump-birther)
+3. [Trump on Birtherism: Wrong, and Wrong](https://www.factcheck.org/2016/09/trump-on-birtherism-wrong-and-wrong/)
 
 ## BP Agrees to $20 Billion Gulf Coast Claims Fund Amid Deepwater Horizon Fallout
 *Date: 2011-04-20*
@@ -3205,12 +4925,99 @@
 2. [Outgoing FCC Commissioner To Lobby For Comcast](https://www.npr.org/2011/05/12/136250400/for-government-employees-revolving-door-continues)
 3. [The FCC's Revolving Door: From Regulator to Corporate Lobbyist](https://reason.com/2011/05/11/revolving-door-alert-fcc-commi/)
 
+## Judd Gregg Joins Goldman Sachs as International Advisor After Banking Committee Role
+*Date: 2011-05-27*
+
+1. [Goldman Appoints Former Senator, Governor As International Advisor](https://www.familywealthreport.com/article.php/Goldman-Appoints-Former-Senator,-Governor-As-International-Advisor)
+2. [The revolving door keeps spinning](https://www.salon.com/2011/06/01/former_senators_now_with_investment_banks_and_lobbying_firms/)
+3. [Judd Gregg](https://sourcewatch.org/index.php/Judd_Gregg)
+
+## Rep. Anthony Weiner Resigns After Sexting Scandal and Cover-Up
+*Date: 2011-06-16*
+
+1. [Anthony Weiner scandal: A timeline](https://www.cnn.com/2016/08/30/politics/weiner-scandal-timeline/index.html)
+2. [Anthony Weiner admits sexting continued after 2011 resignation from Congress](https://www.nbcnews.com/news/us-news/anthony-weiner-admits-sexting-continued-after-2011-resignation-congress-flna6c10721264)
+3. [Anthony Weiner sexting scandals](https://en.wikipedia.org/wiki/Anthony_Weiner_sexting_scandals)
+
+## ALEC Achieves Systematic Legislative Capture: 200+ Corporate-Drafted Bills Enacted Annually Across States
+*Date: 2011-07-01*
+
+1. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
+2. [Shaping State Laws With Little Scrutiny](https://www.npr.org/2010/10/29/130891396/shaping-state-laws-with-little-scrutiny)
+3. [American Legislative Exchange Council](https://www.britannica.com/topic/American-Legislative-Exchange-Council)
+
+## Wisconsin Republicans Pass Act 43 Gerrymandering Plan in Secret Process
+*Date: 2011-07-01*
+
+1. [Hi-Tech Hyper-Partisan Gerrymandering on Trial in Wisconsin](https://www.prwatch.org/news/2016/05/13111/high-tech-gerrymandering-trial-wisconsin)
+2. [2011 Wisconsin Act 43](https://docs.legis.wisconsin.gov/2011/related/acts/43)
+3. [Federal judges panel finds state redistricting plan an 'unconstitutional gerrymander'](https://madison.com/news/local/govt-and-politics/article_c7a71b38-b98c-5b9f-aef5-908cc72ee068.html)
+4. [Gill v. Whitford](https://en.wikipedia.org/wiki/Gill_v._Whitford)
+
+## ALEC Exposed: Center for Media and Democracy and The Nation Publish Leaked Archive of 850 Corporate Model Bills
+*Date: 2011-07-13*
+
+1. [About ALEC Exposed](https://www.alecexposed.org/wiki/About_ALEC_Exposed)
+2. [American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council)
+3. [As Pressure Mounts, Companies Flee Coalition](https://www.npr.org/2012/04/13/150528572/as-pressure-mounts-companies-flee-coalition)
+
+## Boeing Abandons New Aircraft Design, Chooses to Re-Engine 737 to Compete with Airbus
+*Date: 2011-08-30*
+
+1. [Boeing 737 MAX Development History](https://en.wikipedia.org/wiki/Boeing_737_MAX)
+2. [Boeing Didn't Want to Re-Engine the 737—But Had Design Standing By](https://leehamnews.com/2019/03/20/boeing-didnt-want-to-re-engine-the-737-but-had-design-standing-by/)
+3. [The Boeing 737 MAX - Lessons for Engineering Ethics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/)
+4. [Boeing 737 MAX](https://corpgov.law.harvard.edu/2024/06/06/boeing-737-max/)
+
+## FBI Surveils Occupy Wall Street as "Terrorist Threat" Before First Protest
+*Date: 2011-09-01*
+
+1. [The FBI and Occupy - Surveillance and Suppression](https://www.rightsanddissent.org/news/the-fbi-and-occupy-the-surveillance-and-suppression-of-occupy-wall-street/)
+2. [The FBI vs. Occupy - Secret Docs Reveal Monitoring](https://www.democracynow.org/2012/12/27/the_fbi_vs_occupy_secret_docs)
+3. [Spying on Occupy](https://www.aclu.org/news/national-security/spying-occupy)
+
 ## LAPD Launches Operation LASER Predictive Policing Program with Palantir
 *Date: 2011-09-01*
 
 1. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
 2. [The Los Angeles Smart Policing Initiative - Reducing Gun-Related Violence](https://bja.ojp.gov/sites/g/files/xyckuh186/files/media/document/losangelesspi.pdf)
 3. [Scars, Tattoos, And License Plates - This Is What Palantir And The LAPD Know About You](https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd)
+
+## Amazon Lehigh Valley Warehouse Heat Exhaustion Scandal Exposed
+*Date: 2011-09-18*
+
+1. [Inside Amazon's Warehouse](https://mcall.com/news/watchdog/mc-allentown-amazon-complaints-20110917-story.html)
+2. [Does Amazon Station Paramedics at Hot Warehouses Rather Than Install Air Conditioning?](https://www.snopes.com/fact-check/amazon-paramedics/)
+3. [The Morning Call's Amazon Sweatshop Probe](https://www.cjr.org/the_audit/the_morning_call_probes_amazon.php)
+
+## U.S. Drone Strike Assassinates Anwar al-Awlaki, American Citizen, Without Trial
+*Date: 2011-09-30*
+
+1. [Secret Kill List Proves a Test of Obama's Principles](https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html)
+2. [Anwar al-Awlaki](https://en.wikipedia.org/wiki/Anwar_al-Awlaki)
+3. [Targeted Killings - ACLU vs Obama Administration](https://www.aclu.org/cases/al-aulaqi-v-panetta-constitutional-challenge-killing-three-us-citizens)
+4. [Obama's Final Drone Strike Data](https://www.cfr.org/blog/obamas-final-drone-strike-data)
+
+## MF Global Bankruptcy: $1.6 Billion in Customer Funds Missing Under Jon Corzine
+*Date: 2011-10-31*
+
+1. [Federal Court in New York Orders Jon S. Corzine to Pay $5 Million Penalty for his Role in MF Global's Unlawful Use of Nearly $1 Billion of Customer Funds](https://www.cftc.gov/PressRoom/PressReleases/7508-17)
+2. [The MF Global Bankruptcy & Jon Corzine](https://sevenpillarsinstitute.org/case-studies/jon-corzine-and-mf-global/)
+3. [MF Global](https://en.wikipedia.org/wiki/MF_Global)
+
+## STOCK Act Gains Momentum After 60 Minutes Exposes Congressional Insider Trading
+*Date: 2011-11-13*
+
+1. [Congress: Trading stock on inside information?](https://www.cbsnews.com/news/congress-trading-stock-on-inside-information/)
+2. [S.2038 - 112th Congress (2011-2012): STOCK Act](https://www.congress.gov/bill/112th-congress/senate-bill/2038)
+3. [STOCK Act](https://en.wikipedia.org/wiki/STOCK_Act)
+
+## Michigan Emergency Manager Seizes Control of Flint, Stripping Democratic Governance
+*Date: 2011-11-29*
+
+1. [How did we get here? A look back at Michigan's emergency manager law](https://www.michiganpublic.org/politics-government/2016-02-03/how-did-we-get-here-a-look-back-at-michigans-emergency-manager-law)
+2. [Financial emergency in Michigan](https://en.wikipedia.org/wiki/Financial_emergency_in_Michigan)
+3. [Flint Is a Casualty in the Right Wing's War on Local Democracy](https://www.prwatch.org/news/2016/03/13064/flint-casualty-right-wing-government-experiment)
 
 ## GAO Audit Reveals Massive $16.1 Trillion in Secret Federal Reserve Crisis Loans
 *Date: 2011-12-01*
@@ -3226,12 +5033,26 @@
 2. [Academi LLC (formerly Xe and Blackwater Worldwide)](https://militarist-monitor.org/profile/blackwater_worldwide/)
 3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
 
+## Amazon Implements Automated Worker Surveillance and Tracking System
+*Date: 2012-01-01*
+
+1. [Amazon's system for tracking its warehouse workers can automatically fire them](https://www.technologyreview.com/2019/04/26/1021/amazons-system-for-tracking-its-warehouse-workers-can-automatically-fire-them/)
+2. [Internal Documents Show Amazon's Dystopian System for Tracking Workers Every Minute of Their Shifts](https://www.vice.com/en/article/internal-documents-show-amazons-dystopian-system-for-tracking-workers-every-minute-of-their-shifts/)
+3. [Amazon's ADAPT and its Harm on Workers](https://blogs.ischool.berkeley.edu/w231/2022/03/02/amazons-adapt-and-its-harm-on-workers/)
+
 ## Koch Network Spends $407 Million in Coordinated 2012 Election Campaign
 *Date: 2012-01-01*
 
 1. [The Koch Brothers' Political Network Spent $400 Million in 2012](https://www.motherjones.com/politics/2013/02/koch-brothers-400-million-2012-election/)
 2. [How Dark Money Flows Through the Koch Network](https://projects.propublica.org/graphics/koch)
 3. [Koch Network 2012 Election Spending Breakdown](https://www.opensecrets.org/news/2013/02/koch-network-2012-election-spending)
+
+## Stock Buybacks Reach $500 Billion Annually as S&P 500 Companies Return 91% of Earnings to Shareholders
+*Date: 2012-01-01*
+
+1. [S&P 500 Companies Spend Almost All Profits on Buybacks](https://www.bloomberg.com/news/articles/2014-10-06/s-p-500-companies-spend-almost-all-profits-on-buybacks-payouts)
+2. [New Report: U.S. Corporations Are Splurging on Stock Buybacks while Worker Wages Stagnate](https://rooseveltinstitute.org/press-releases/new-report-u-s-corporations-are-splurging-on-stock-buybacks-while-worker-wages-stagnate/)
+3. [Stock buybacks from S&P 500 enrich wealthy shareholders](https://www.fastcompany.com/91422684/stock-buybacks-biggest-us-companies-sp-500-enrich-wealthy-shareholders)
 
 ## PredPol Predictive Policing Company Founded
 *Date: 2012-01-15*
@@ -3245,6 +5066,13 @@
 1. [U.S., States Reach $25 Billion Mortgage Settlement](https://www.reuters.com/article/us-usa-housing-settlement-idUSTRE8180W220120209)
 2. [Federal Government and State Attorneys General Reach $25 Billion Agreement with Five Largest Mortgage Servicers](https://www.justice.gov/archives/opa/pr/federal-government-and-state-attorneys-general-reach-25-billion-agreement-five-largest)
 3. [Who's Who in the Foreclosure Scandal: A Primer on the Players](https://www.propublica.org/article/whos-who-in-the-foreclosure-scandal-a-primer-on-the-players)
+
+## Trump Foundation Illegally Used $158,000 in Charity Funds to Settle Mar-a-Lago Legal Dispute
+*Date: 2012-03-01*
+
+1. [Trump used $258,000 from his charity to settle legal problems](https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html)
+2. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
+3. [Trump's Charitable Foundation to Shut Down, New York Attorney General Says](https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html)
 
 ## STOCK Act Signed into Law
 *Date: 2012-04-04*
@@ -3284,6 +5112,29 @@
 3. [Historic antitrust trial could force Meta to break off Instagram, WhatsApp](https://www.pbs.org/newshour/nation/historic-antitrust-trial-could-force-meta-to-break-off-instagram-whatsapp)
 4. [Facebook bought Instagram because it was scared of Twitter and Google](https://www.cnbc.com/2019/09/24/facebook-bought-instagram-because-it-was-scared-of-twitter-and-google.html)
 
+## Major Corporate Exodus from ALEC: Coca-Cola, Pepsi, Kraft, McDonald's, Wendy's, Mars, and Intuit Drop Membership After Public Pressure Campaign
+*Date: 2012-04-13*
+
+1. [As Pressure Mounts, Companies Flee Coalition](https://www.npr.org/2012/04/13/150528572/as-pressure-mounts-companies-flee-coalition)
+2. [Major Companies Leave ALEC as ColorOfChange Organizing Effort Continues](https://colorofchange.org/press_release/major-companies-leave-alec-colorofchange-organizin/)
+3. [ALEC backs down in wake of backlash over voter ID, 'stand your ground' laws](https://www.cbsnews.com/news/alec-backs-down-in-wake-of-backlash-over-voter-id-stand-your-ground-laws/)
+
+## Obama Administration Counts All Military-Age Males Killed by Drones as Combatants
+*Date: 2012-05-01*
+
+1. [Secret Kill List Proves a Test of Obama's Principles and Will](https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html)
+2. [Civilian Casualties from United States Drone Strikes](https://en.wikipedia.org/wiki/Civilian_casualties_from_U.S._drone_strikes)
+3. [Obama's Final Drone Strike Data](https://www.cfr.org/blog/obamas-final-drone-strike-data)
+4. [Biden Can Reduce Civilian Casualties During US Drone Strikes](https://www.brookings.edu/articles/biden-can-reduce-civilian-casualties-during-us-drone-strikes-heres-how/)
+
+## Heartland Institute Billboard Compares Climate Scientists to Unabomber
+*Date: 2012-05-04*
+
+1. [Heartland Institute Ends Experiment with 'Unabomber' Global Warming Billboard](https://heartland.org/opinion/heartland-institute-ends-experiment-with-unabomber-global-warming-billboard/)
+2. [Chicago's Heartland Institute, the Group Behind the Unabomber Billboard](https://www.chicagomag.com/Chicago-Magazine/Felsenthal-Files/June-2012/Chicagos-Heartland-Institute-and-its-Unabomber-Billboards/)
+3. [Heartland Institute losing major corporate sponsors after comparing climate change advocates to mass-murderers](https://news.mongabay.com/2012/05/heartland-institute-losing-major-corporate-sponsors-after-comparing-climate-change-advocates-to-mass-murderers/)
+4. [Are Heartland billboards the beginning of the end for climate denial?](https://theconversation.com/are-heartland-billboards-the-beginning-of-the-end-for-climate-denial-6888)
+
 ## Facebook IPO Market Manipulation by Morgan Stanley
 *Date: 2012-05-18*
 
@@ -3291,12 +5142,59 @@
 2. [money.cnn.com](https://money.cnn.com/2012/05/23/technology/facebook-ipo-what-went-wrong/index.htm)
 3. [hbsslaw.com](https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard)
 
+## Kansas Governor Brownback Signs ALEC-Laffer Tax Plan Eliminating Pass-Through Business Income Taxes - 'Kansas Experiment' Becomes Test Case for Supply-Side Economics
+*Date: 2012-05-22*
+
+1. [Kansas experiment](https://en.wikipedia.org/wiki/Kansas_experiment)
+2. [Kansas Provides Compelling Evidence of Failure of 'Supply-Side' Tax Cuts](https://www.cbpp.org/research/state-budget-and-tax/kansas-provides-compelling-evidence-of-failure-of-supply-side-tax)
+3. [Kansas May Have Saved Us All](https://itep.org/kansas-may-have-saved-us-all/)
+4. [Did Arthur Laffer kill Kansas?](https://taxjustice.net/2015/01/08/arthur-laffer-killed-kansas/)
+
+## New York Times Exposes Obama's Kill List and Terror Tuesday Assassination Meetings
+*Date: 2012-05-29*
+
+1. [Secret Kill List Proves a Test of Obama's Principles and Will](https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html)
+2. [Drone Strikes - Civilian Casualties from United States Drone Strikes](https://en.wikipedia.org/wiki/Civilian_casualties_from_U.S._drone_strikes)
+3. [Obama's Final Drone Strike Data](https://www.cfr.org/blog/obamas-final-drone-strike-data)
+4. [Obama Defends Deadly Drone Campaign](https://www.middleeasteye.net/news/obama-defends-deadly-drone-campaign-new-book)
+
 ## New Orleans Police Launch Secret Palantir Predictive Policing Program
 *Date: 2012-06-01*
 
 1. [Did Palantir Secretly Use New Orleans to Test Predictive Policing?](https://www.typeinvestigations.org/investigation/2018/02/27/palantir-secretly-use-new-orleans-test-predictive-policing/)
 2. [New Orleans Program Offers Lessons In Pitfalls Of Predictive Policing](https://www.aclu.org/news/privacy-technology/new-orleans-program-offers-lessons-pitfalls-predictive-policing)
 3. [Palantir's secretive predictive policing programme in New Orleans](https://privacyinternational.org/examples/1975/palantirs-secretive-predictive-policing-programme-new-orleans)
+
+## Bureau Investigation Exposes CIA Double-Tap Drone Strikes Killing Rescuers and Mourners
+*Date: 2012-06-04*
+
+1. [Covert Drone War - CIA Tactics in Pakistan Include Targeting Rescuers and Funerals](https://www.thebureauinvestigates.com/stories/2012-02-04/covert-drone-war)
+2. [Obama's Covert Drone War in Numbers](https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush)
+3. [Living Under Drones - Death, Injury, and Trauma to Civilians](https://www.law.stanford.edu/publications/living-under-drones-death-injury-and-trauma-to-civilians-from-us-drone-practices-in-pakistan)
+4. [Drone Strikes in Pakistan](https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan)
+
+## ALEC's 'Electricity Freedom Act' Systematically Attacks State Renewable Energy Standards
+*Date: 2012-10-01*
+
+1. [Utility Trade Group Funds ALEC Attack on Americans Using Solar](https://www.prwatch.org/news/2014/07/12553/utility-trade-group-funds-alec-attack-americans-who-use-solar)
+2. [Renewable Energy Survives ALEC's Attack in the States, Grows Stronger](https://www.sustainablebusiness.com/2013/07/renewable-energy-survives-alec39s-attack-in-the-states-grows-stronger-51711/)
+3. [Anti-Woke and Fossil Fuel Industry Operatives Dominate ALEC's Energy Task Force](https://www.exposedbycmd.org/2023/08/10/anti-woke-and-fossil-fuel-industry-operatives-dominate-alecs-energy-task-force/)
+4. [ALEC's Annual Meeting to Feature More Attacks on Successful Clean Energy Policies](https://blog.ucs.org/jeff-deyette/alecs-annual-meeting-to-feature-more-attacks-on-successful-clean-energy-policies-813)
+
+## Climate Scientist Michael Mann Files Defamation Lawsuit Against Climate Denial Writers
+*Date: 2012-10-22*
+
+1. [Mann v. Competitive Enterprise Institute](https://climatecasechart.com/case/mann-v-competitive-enterprise-institute/)
+2. [Nine Years After Filing a Lawsuit, Climate Scientist Michael Mann Wants a Court to Affirm the Truth of His Science](https://insideclimatenews.org/news/07022021/michael-mann-defamation-lawsuit-competitive-enterprise-institute-national-review/)
+3. [Michael Mann's Defamation Case Against Deniers Finally Reaches Trial](https://insideclimatenews.org/news/25012024/michael-mann-defamation-case-reaches-trial/)
+4. [Embattled Climate Scientist Michael Mann Wins $1 Million in Defamation Lawsuit](https://www.scientificamerican.com/article/embattled-climate-scientist-michael-mann-wins-1-million-in-defamation-lawsuit/)
+
+## John Kiriakou Pleads Guilty - Only Person Jailed Over CIA Torture Program
+*Date: 2012-10-23*
+
+1. [Bio - John Kiriakou](https://whistleblower.org/bio-john-kiriakou/)
+2. [John Kiriakou - The ex-CIA officer turned whistle-blower](https://www.aljazeera.com/features/2017/5/4/john-kiriakou-the-ex-cia-officer-turned-whistle-blower)
+3. [Former CIA Officer Gets 30 Months in Prison for Leak](https://abcnews.go.com/Blotter/john-kiriakou-30-months/story?id=18314999)
 
 ## BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal Settlement
 *Date: 2012-11-15*
@@ -3319,6 +5217,20 @@
 2. [Gangster Bankers: Too Big to Jail](https://www.rollingstone.com/politics/politics-news/gangster-bankers-too-big-to-jail-102004/)
 3. [HSBC Documents Show Bank Aided Tax Evasion, Money Laundering](https://www.icij.org/investigations/swiss-leaks/hsbc-files-show-bank-helped-clients-dodge-taxes-hide-millions/)
 
+## Michigan Passes Right-to-Work in Lame Duck Surprise Using Verbatim ALEC Language
+*Date: 2012-12-11*
+
+1. [Michigan Passes 'Right to Work' Containing Verbatim Language from ALEC Model Bill](https://www.prwatch.org/news/2012/12/11903/michigan-passes-right-work-containing-verbatim-language-alec-model-bill)
+2. [ALEC's decades of 'right-to-work' effort pay off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/)
+3. [ALEC's So-Called 'Right to Work' Bill as Political Revenge in Michigan](https://www.prwatch.org/news/2012/12/11902/alecs-so-called-right-work-bill-political-revenge-michigan)
+
+## Four Firms Control 85%+ of Multiple U.S. Industries, Documenting Oligopolistic Market Structure
+*Date: 2013-01-01*
+
+1. [What Makes a Market an Oligopoly?](https://www.stlouisfed.org/open-vault/2023/may/what-makes-a-market-an-oligopoly)
+2. [The Economics and Politics of Market Concentration](https://www.nber.org/reporter/2019number4/economics-and-politics-market-concentration)
+3. [Oligopoly: Exploring Concentration Ratio in Oligopolistic Markets](https://fastercapital.com/content/Oligopoly--Exploring-Concentration-Ratio-in-Oligopolistic-Markets.html)
+
 ## 70% of $80 billion intelligence budget goes to private contractors
 *Date: 2013-01-01*
 
@@ -3327,12 +5239,78 @@
 3. [Black budget summary details U.S. spy network's successes, failures and objectives](https://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/7e57bb78-10ab-11e3-8cdd-bcdc09410972_story.html)
 4. [Private contractors play key role in U.S. intelligence work](https://www.seattletimes.com/nation-world/private-contractors-play-key-role-in-us-intelligence-work/)
 
+## Kansas Implements Kris Kobach's Proof-of-Citizenship Voting Law and Expands Interstate Crosscheck
+*Date: 2013-01-01*
+
+1. [Judge Tosses Kansas' Proof-Of-Citizenship Voter Law And Rebukes Sec. Of State Kobach](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)
+2. [Uncovering Kris Kobach's Anti-Voting History](https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history)
+3. [How the Case for Voter Fraud Was Tested — and Utterly Failed](https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial)
+4. [Federal Court Strikes Down Kansas Anti-Voting Law](https://www.aclu.org/press-releases/federal-court-strikes-down-kansas-anti-voting-law)
+
+## Wells Fargo Fires 5,300 Low-Level Workers While Executives Keep Jobs
+*Date: 2013-01-01*
+
+1. [Wells Fargo Fires 5,000 Employees Over Fake Accounts](https://www.npr.org/2016/09/09/493228759/wells-fargo-fires-5-000-employees-over-fake-accounts)
+2. [CFPB Enforcement Action: Wells Fargo Bank, N.A.](https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/)
+3. [Wells Fargo Fires About 5,300 Workers in Unauthorized Account Scandal](https://abcnews.go.com/US/wells-fargo-fires-5300-workers-unauthorized-account-scandal/story?id=41956019)
+
 ## Google's Political Influence Derails FTC Antitrust Investigation
 *Date: 2013-01-03*
 
 1. [FTC Statement on Google Search Practices](https://www.ftc.gov/legal-library/browse/cases-proceedings/public-statements/statement-federal-trade-commission-regarding-googles-search-practices-matter-google-inc)
 2. [Why Europe Got Tough on Google While U.S. Couldn't](https://www.washingtonpost.com/news/posteverything/wp/2017/06/28/why-europe-got-tough-on-google-but-the-u-s-couldnt/)
 3. [FTC Closes Google Antitrust Investigation Without Penalties](https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties)
+
+## Jeffrey Sterling Indicted Under Espionage Act for Alleged Leak to James Risen
+*Date: 2013-01-14*
+
+1. [How Jeffrey Sterling Took on the CIA — and Lost Everything](https://theintercept.com/2015/06/18/jeffrey-sterling-took-on-the-cia-and-lost-everything/)
+2. [Obama administration indicts ex-CIA whistleblower](https://www.wsws.org/en/articles/2011/02/ster-f04.html)
+3. [Preview of the trial of ex-CIA officer Jeffery Sterling](https://freedom.press/issues/a-preview-of-the-trial-of-ex-cia-officer-jeffery-sterling-accused-source-of-journalist-james-risen/)
+
+## Rep. Jesse Jackson Jr. Pleads Guilty to $750,000 Campaign Fund Fraud
+*Date: 2013-02-20*
+
+1. [Former Congressman Jesse L. Jackson, Jr. Pleads Guilty To Conspiring To Defraud Campaign Of More Than $750,000](https://www.justice.gov/usao-dc/pr/former-congressman-jesse-l-jackson-jr-pleads-guilty-conspiring-defraud-campaign-more)
+2. [Jesse Jackson Jr. Pleads Guilty To Misusing Campaign Cash](https://www.npr.org/2013/02/20/172519463/jesse-jackson-jr-pleads-guilty-to-misusing-campaign-cash)
+3. [Former Congressman Jesse L. Jackson, Jr. Pleads Guilty to Conspiring to Defraud Campaign of More Than $750,000](https://archives.fbi.gov/archives/washingtondc/press-releases/2013/former-congressman-jesse-l.-jackson-jr.-pleads-guilty-to-conspiring-to-defraud-campaign-of-more-than-750-000)
+
+## Amazon AWS Wins $600 Million CIA Cloud Contract
+*Date: 2013-03-01*
+
+1. [Report: AWS gets $600m contract to build CIA spy cloud](https://www.theregister.com/2013/03/19/aws_allegedly_helps_cia_build_spy_cloud/)
+2. [US Court Rules in Favor of AWS Over IBM in CIA Cloud Battle](https://www.datacenterknowledge.com/regulations/us-court-rules-in-favor-of-aws-over-ibm-in-cia-cloud-battle)
+3. [CIA to Pay 600 Million for First Private Amazon Cloud](https://www.hpcwire.com/2013/03/25/cia_to_pay_600_million_for_first_private_amazon_cloud/)
+
+## Trump Foundation Paid $25,000 to Settle Trump University Legal Claim Using Charity Funds
+*Date: 2013-03-01*
+
+1. [Trump used $258,000 from his charity to settle legal problems](https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html)
+2. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
+3. [Trump Pays IRS Penalty For Gift To Florida Attorney General](https://www.npr.org/2016/09/01/492339256/trump-pays-irs-penalty-for-gift-to-florida-attorney-general)
+
+## Federal Court Rules Texas 2011 Redistricting Intentionally Discriminated Against Latino Voters
+*Date: 2013-03-11*
+
+1. [Federal Court Declares Texas 2011 Congressional Redistricting Plan Illegal](https://www.maldef.org/2017/03/federal-court-declares-texas-2011-congressional-redistricting-plan-illegal-maldef-secures-victory-for-latino-voters/)
+2. [Five Ways Courts Say Texas Discriminated Against Black and Latino Voters](https://www.propublica.org/article/five-ways-courts-say-texas-discriminated-against-black-and-latino-voters)
+3. [Texas Redistricting Back in Court](https://www.brennancenter.org/our-work/analysis-opinion/texas-redistricting-back-court)
+4. [Texas won't be placed back under federal supervision for redistricting despite findings of intentional discrimination](https://www.texastribune.org/2019/07/24/texas-redistricting-federal-supervision/)
+
+## Congress Quietly Guts STOCK Act Online Disclosure Requirements
+*Date: 2013-04-15*
+
+1. [How Congress Quietly Overhauled Its Insider-Trading Law](https://www.npr.org/sections/itsallpolitics/2013/04/16/177496734/how-congress-quietly-overhauled-its-insider-trading-law)
+2. [S.716 - 113th Congress (2013-2014): A bill to modify the requirements under the STOCK Act](https://www.congress.gov/bill/113th-congress/senate-bill/716)
+3. [Congress and Obama Quietly Collude to Undo 'Insider Trading' Law](https://www.commondreams.org/news/2013/04/17/congress-and-obama-quietly-collude-undo-insider-trading-law)
+
+## CIA Paid Psychologists Mitchell and Jessen $81 Million to Design Torture Program
+*Date: 2013-04-23*
+
+1. [Senate Intelligence Committee Report on CIA Torture (Executive Summary)](https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary)
+2. [Enhanced Interrogation Techniques](https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques)
+3. [Psychologists Behind CIA Torture Report Settle Lawsuit](https://www.aclu.org/press-releases/psychologists-behind-cia-torture-report-settle-lawsuit)
+4. [No More Excuses - Roadmap to Justice for CIA Torture](https://www.hrw.org/report/2015/12/01/no-more-excuses/roadmap-justice-cia-torture)
 
 ## Obama Nominates Telecom Industry Lobbyist Tom Wheeler as FCC Chairman
 *Date: 2013-05-02*
@@ -3378,6 +5356,13 @@
 3. [O'Connor: Maybe Supreme Court shouldn't have taken Bush v. Gore](https://www.washingtonpost.com/news/post-politics/wp/2013/04/29/oconnor-maybe-supreme-court-shouldnt-have-taken-bush-v-gore/)
 4. [Supreme Court: New documents show how Sandra Day O'Connor helped George W. Bush win the 2000 election](https://www.cnn.com/2023/05/02/politics/bush-gore-oconnor-supreme-court-2000/index.html)
 
+## Guardian Publishes First Snowden Leak on NSA Verizon Phone Records Collection
+*Date: 2013-06-05*
+
+1. [Report: NSA asked Verizon for records of all calls in the U.S.](https://www.washingtonpost.com/news/wonk/wp/2013/06/05/nsa-asked-verizon-for-records-of-all-calls-in-the-u-s/)
+2. [NSA revelations: A timeline of what's come out since Snowden leaks began](https://www.csmonitor.com/USA/2013/1016/NSA-revelations-A-timeline-of-what-s-come-out-since-Snowden-leaks-began/June-5-8-2013)
+3. [NSA Whistleblower Revealed](https://www.npr.org/sections/thetwo-way/2013/06/06/189141006/nsa-whistleblower-revealed)
+
 ## Roger Stone's Early Connections to Russian Information Networks
 *Date: 2013-06-05*
 
@@ -3399,12 +5384,54 @@
 2. [Edward Snowden NSA files decoded](https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded)
 3. [James Clapper admits lying to Congress](https://www.npr.org/sections/thetwo-way/2013/06/11/190638234/clapper-apologizes-for-clearly-erroneous-answer-on-nsa-surveillance)
 
+## Washington Post and Guardian Reveal NSA PRISM Program for Direct Server Access
+*Date: 2013-06-06*
+
+1. [U.S., British intelligence mining data from nine U.S. Internet companies in broad secret program](https://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html)
+2. [NSA Reportedly Mines Servers Of U.S. Internet Firms For Data](https://www.npr.org/sections/thetwo-way/2013/06/06/189321612/nsa-reportedly-mines-servers-of-u-s-internet-firms-for-data)
+3. [NSA Prism Spying Scandal: Tech Companies Struggle to Open Up](https://www.bloomberg.com/news/articles/2013-06-20/nsa-prism-spying-scandal-tech-companies-struggle-to-open-up)
+
+## Edward Snowden Reveals Identity as NSA Whistleblower in Hong Kong Video
+*Date: 2013-06-09*
+
+1. [You're Being Watched: Edward Snowden Emerges as Source Behind Explosive Revelations of NSA Spying](https://www.democracynow.org/2013/6/10/youre_being_watched_edward_snowden_emerges)
+2. [NSA Whistleblower Revealed](https://www.npr.org/2013/06/09/190141006/nsa-whistleblower-revealed)
+3. [Edward Snowden: A Timeline](https://www.nbcnews.com/feature/edward-snowden-interview/edward-snowden-timeline-n114871)
+
+## U.S. Charges Edward Snowden with Espionage and Theft of Government Property
+*Date: 2013-06-14*
+
+1. [U.S. Charges NSA Leaker Snowden With Espionage](https://www.npr.org/2013/06/21/194371404/u-s-charges-nsa-leaker-snowden-with-espionage)
+2. [U.S. files espionage charges against NSA leaker](https://www.cbsnews.com/news/us-files-espionage-charges-against-nsa-leaker/)
+3. [Manning, Snowden and the DOJ's Espionage War Against Leakers](https://www.pbs.org/newshour/nation/edward-snowden)
+
 ## Obama Prosecutes 8 Whistleblowers Under Espionage Act, More Than All Presidents
 *Date: 2013-06-21*
 
 1. [Obama's Crackdown on Whistleblowers](https://www.longislandpress.com/2013/06/14/obamas-crackdown-on-whistleblowers/)
 2. [Obama and leakers how many prosecutions](https://www.politifact.com/factchecks/2017/jun/09/jeff-sessions/obama-prosecuted-leakers-more-aggressively-sessio/)
 3. [The war on leaks and journalism](https://www.theguardian.com/commentisfree/2013/may/20/obama-administration-espionage-act-james-goodale)
+
+## Skilling Sentence Reduced to 14 Years, Marking Accountability Erosion
+*Date: 2013-06-21*
+
+1. [Enron's Skilling to Leave Prison in 2017 as Sentence Cut](https://www.bloomberg.com/news/articles/2013-06-21/enron-s-skilling-sentence-reduced-to-14-years-by-judge)
+2. [Former Enron CEO Jeffrey Skilling gets prison sentence cut](https://www.nbcnews.com/business/business-news/former-enron-ceo-jeffrey-skilling-gets-prison-sentence-cut-flna6c10412326)
+3. [Prison sentence of Ex-Enron CEO Jeffrey Skilling reduced by 10 years](https://www.denverpost.com/2013/06/21/prison-sentence-of-ex-enron-ceo-jeffrey-skilling-reduced-by-10-years/)
+
+## Snowden Flees Hong Kong for Moscow Seeking Asylum Amid U.S. Diplomatic Pressure
+*Date: 2013-06-23*
+
+1. [Edward Snowden flees Hong Kong for Moscow, asks Ecuador to grant him asylum](https://www.washingtonpost.com/world/snowden-departs-hong-kong-for-a-third-country-government-says/2013/06/23/08e9eff2-dbde-11e2-a9f2-42ee3912ae0e_story.html)
+2. [Snowden on the run, seeks asylum in Ecuador](https://www.npr.org/sections/thetwo-way/2013/06/23/194594830/snowden-on-the-run-seeks-asylum-in-ecuador)
+3. [Snowden on the run, seeks asylum in Ecuador](https://edition.cnn.com/2013/06/23/politics/nsa-leaks)
+
+## ALEC States Immediately Implement Voter Restrictions After Shelby County Decision
+*Date: 2013-06-25*
+
+1. [The Effects of Shelby County v. Holder](https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder)
+2. [Shelby County - One Year Later](https://www.brennancenter.org/our-work/research-reports/shelby-county-one-year-later)
+3. [After Shelby County Ruling, Are Voting Rights Endangered?](https://www.brennancenter.org/our-work/research-reports/after-shelby-county-ruling-are-voting-rights-endangered)
 
 ## Shelby County Decision Guts Voting Rights Act Preclearance
 *Date: 2013-06-25*
@@ -3415,12 +5442,28 @@
 4. [Reflecting On the 10th Anniversary of Shelby County v. Holder](https://www.justice.gov/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder)
 5. [Shelby County v. Holder](https://www.oyez.org/cases/2012/12-96)
 
+## Supreme Court Guts Voting Rights Act in Shelby County v. Holder Decision
+*Date: 2013-06-25*
+
+1. [Shelby County v. Holder, 570 U.S. 529 (2013)](https://supreme.justia.com/cases/federal/us/570/529/)
+2. [Reflecting On the 10th Anniversary of Shelby County v. Holder](https://www.justice.gov/archives/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder)
+3. [The Effects of Shelby County v. Holder](https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder)
+4. [Shelby County v. Holder](https://www.naacpldf.org/case-issue/shelby-county-v-holder/)
+
 ## Supreme Court Shelby County Decision Guts Voting Rights Act
 *Date: 2013-06-25*
 
 1. [Supreme Court Invalidates Key Part of Voting Rights Act](https://www.nytimes.com/2013/06/26/us/supreme-court-ruling.html)
 2. [Supreme Court strikes down part of Voting Rights Act](https://www.washingtonpost.com/politics/supreme-court-strikes-down-part-of-voting-rights-act/2013/06/25/8f0d91ae-dd2a-11e2-bd83-e99e43c336ed_story.html)
 3. [Shelby County v. Holder](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf)
+
+## ALEC Coordinates 139 Education Privatization Bills Across States - Systematic Public School Defunding Campaign
+*Date: 2013-07-01*
+
+1. [Cashing in on Kids: 139 ALEC Bills in 2013 Promote a Private, For-Profit Education Model](https://prwatch.org/news/2013/07/12175/cashing-kids-139-alec-bills-2013-promote-private-profit-education-model)
+2. [Next Generation Charter Schools Act Exposed](https://www.alecexposed.org/wiki/Next_Generation_Charter_Schools_Act_Exposed)
+3. [Controversial Policy Group Casts Long K-12 Shadow](https://edweek.org/ew/articles/2012/04/20/29alec_ep.h31.html)
+4. [Review of Report Card on American Education](https://nepc.colorado.edu/thinktank/review-report-card-ALEC-2013)
 
 ## Reuters: AT&T nurtured and bankrolled OANN; founder says AT&T asked for a conservative network
 *Date: 2013-07-01*
@@ -3429,6 +5472,13 @@
 2. [AT&T was a crucial source of revenue for OAN, report says](https://www.cnn.com/2021/10/06/media/att-oann-reuters-investigation/index.html)
 3. [How AT&T helped build far‑right One America News](https://www.euronews.com/2021/10/07/usa-oneamerica-at-t-specialreport)
 4. [The tech entrepreneur who founded Trump's go‑to TV network](https://www.reuters.com/investigates/special-report/usa-oneamerica-founder/)
+
+## Director of National Intelligence Clapper Apologizes for "Clearly Erroneous" Testimony to Congress
+*Date: 2013-07-02*
+
+1. [Clapper Apologizes For Answer On NSA's Data Collection](https://www.npr.org/sections/thetwo-way/2013/07/02/198118060/clapper-apologizes-for-answer-on-nsas-data-collection)
+2. [James Clapper's testimony one year later](https://www.politifact.com/article/2014/mar/11/james-clappers-testimony-one-year-later/)
+3. [Intelligence chief Clapper apologizes for 'erroneous' statement to Congress](https://thehill.com/policy/defense/308979-clapper-apologies-for-erroneous-statement-to-congress-on-us-data-collection)
 
 ## Chicago Police Launch Strategic Subject List "Heat List" Predictive Policing Program
 *Date: 2013-08-01*
@@ -3444,6 +5494,42 @@
 2. [How the FAA Ceded Aviation Safety Oversight to Boeing](https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing)
 3. [FAA's Ali Bahrami to Step Down](https://www.corporatejetinvestor.com/news/faas-ali-bahrami-to-step-down-338/)
 
+## Russia Grants Snowden Temporary Asylum After 39 Days in Moscow Airport
+*Date: 2013-08-01*
+
+1. [NSA Leaker Snowden Granted One-Year Asylum In Russia](https://www.npr.org/2013/08/01/207987760/nsa-leaker-snowden-granted-one-year-asylum-in-russia)
+2. [Snowden Leaves Moscow Airport](https://www.npr.org/2013/08/01/207861882/snowden-leaves-moscow-airport)
+3. [The Irony of Snowden's Russian Asylum](https://www.nbcnews.com/feature/edward-snowden-interview/irony-snowdens-russian-asylum-n118756)
+
+## Jeff Bezos Purchases Washington Post for $250 Million
+*Date: 2013-08-05*
+
+1. [Amazon CEO, Founder Buys The Washington Post Newspaper for $250 Million](https://abcnews.go.com/Business/washington-post-newspaper-sold-amazon-ceo-jeffrey-bezos/story?id=19875877)
+2. [Amazon's Bezos buys Washington Post for $250 million](https://money.cnn.com/2013/08/05/news/companies/washington-post-bezos/index.html)
+3. [Amazon Billionaire Jeff Bezos to Buy Washington Post for $250 Million](https://business.time.com/2013/08/05/amazon-billionaire-jeff-bezos-buys-washington-post-for-250-million/)
+
+## Lavabit Encrypted Email Service Shuts Down Rather Than Comply with NSA Demands
+*Date: 2013-08-08*
+
+1. [Lavabit founder confirms feds' Snowden spy efforts led to encrypted email service shutdown](https://www.computerworld.com/article/1686226/lavabit-founder-confirms-feds-snowden-spy-efforts-led-to-encrypted-email-service-shutdown.html)
+2. [Encrypted Email Services Shuttered Amid Snowden Investigation](https://www.npr.org/2013/08/09/210570888/encrypted-email-services-shuttered-amid-snowden-investigation)
+3. [Lavabit: How One Company Refused to Give FBI "Unrestricted" Access to Emails of 400,000 Customers](https://www.democracynow.org/2013/10/7/lavabit_how_one_company_refused_to)
+4. [Why Did Lavabit Founder Shut Down His Company?](https://www.npr.org/2013/10/07/230192039/why-did-lavabit-founder-shut-down-his-company)
+
+## Chelsea Manning Sentenced to 35 Years for WikiLeaks Disclosures
+*Date: 2013-08-21*
+
+1. [Commutation for Chelsea Manning](https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/)
+2. [Chelsea Manning sentence commuted after seven years of brutal imprisonment](https://www.wsws.org/en/articles/2017/01/18/mann-j18.html)
+3. [President Obama's Commutation of Chelsea Manning's Sentence](https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings)
+
+## New York Attorney General Sues Trump University for $40 Million, Calls It "Straight Up Fraud"
+*Date: 2013-08-24*
+
+1. [A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million](https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding)
+2. [New York AG Eric Schneiderman says 'this is straight up fraud'](https://www.cnn.com/2016/06/02/politics/eric-schneiderman-attorney-general-trump-university-fraud/index.html)
+3. [NY Attorney General sues Donald Trump, says Trump University a fraud](https://www.nbcnews.com/news/other/ny-attorney-general-sues-donald-trump-says-trump-university-fraud-f8C10995988)
+
 ## Pam Bondi Receives Illegal $25,000 Trump Foundation Donation During Trump University Investigation
 *Date: 2013-09-17*
 
@@ -3457,6 +5543,21 @@
 1. [The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/)
 2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
 3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
+
+## Brazil's President Cancels US State Visit Over NSA Spying on Dilma Rousseff
+*Date: 2013-09-17*
+
+1. [Brazilian president cancels White House visit over NSA spying](https://www.wsws.org/en/articles/2013/09/19/brazil-s19.html)
+2. [Brazilian Leader Postpones State Visit Over Spying Concerns](https://www.npr.org/sections/thetwo-way/2013/09/17/223414386/brazilian-president-postpones-state-visit-over-spying-concerns)
+3. [Brazil Spurns U.S. State Visit Invitation Over NSA Spying](https://world.time.com/2013/09/17/brazil-spurns-u-s-state-visit-invitation-over-nsa-spying/)
+4. [NSA spying scandal spoils dinner at the White House for Brazil's president](https://www.washingtonpost.com/world/national-security/nsas-bulk-collection-of-americans-phone-records-ends-sunday/2015/11/27/75dc62e2-9546-11e5-a2d6-f57908580b1f_story.html)
+
+## Darnell Earley Appointed as Flint Emergency Manager, Will Oversee Disastrous Water Switch
+*Date: 2013-09-30*
+
+1. [Darnell Earley](https://en.wikipedia.org/wiki/Darnell_Earley)
+2. [Darnell Earley - The man in power during Flint switch](https://www.detroitnews.com/story/news/michigan/flint-water-crisis/2016/03/14/darnell-earley-flint-water-crisis/81788654/)
+3. [Ex-Flint emergency manager says he relied on experts in water crisis](https://www.cbsnews.com/news/ex-flint-emergency-manager-darnell-earley-says-he-relied-on-experts-in-water-crisis/)
 
 ## Healthcare.gov Launch Disaster Costs $1.7B from $93M Contract
 *Date: 2013-10-01*
@@ -3464,6 +5565,51 @@
 1. [Healthcare.gov costs exceed $1.7 billion](https://www.bloomberg.com/news/articles/2014-09-24/obamacare-website-costs-exceed-2-billion-study-finds)
 2. [6 enrolled on first day of Healthcare.gov](https://www.washingtonpost.com/national/health-science/six-people-signed-up-for-obamacare-on-launch-day/2013/10/31/)
 3. [Oregon's $305 million exchange failure](https://www.politico.com/story/2015/04/oregon-obamacare-website-never-worked-117395)
+
+## Yahoo's Secret FISA Court Battle Against PRISM Revealed
+*Date: 2013-10-02*
+
+1. [Yahoo Threatened With A Secret $250,000 Per Day Fine If It Didn't Comply With NSA PRISM Demands](https://www.techdirt.com/articles/20140912/05494728500/yahoo-threatened-with-secret-250000-per-day-fine-if-it-didnt-comply-with-nsa-prism-demands.shtml)
+2. [Yahoo Fought the NSA's PRISM Program in Court](https://www.newsweek.com/yahoo-fought-nsas-prism-program-court-270130)
+3. [Yahoo wins court order to release records of its fight against PRISM](https://www.dailydot.com/unclick/yahoo-prism-court-win-fisa-declassified/)
+4. [Encrypted Email Services Shuttered Amid Snowden Investigation](https://www.npr.org/2013/08/09/210570888/encrypted-email-services-shuttered-amid-snowden-investigation)
+
+## Microsoft and Google Challenge NSA Gag Orders in Federal Court
+*Date: 2013-10-21*
+
+1. [Microsoft and Google Challenge US Government Gag Orders](https://slashdot.org/story/13/08/30/2245249/microsoft-and-google-challenge-us-government-gag-orders)
+2. [Microsoft, Google Say They're Moving Forward With NSA Lawsuit](https://www.npr.org/sections/thetwo-way/2013/08/30/217325884/microsoft-google-say-they-will-move-forward-with-nsa-lawsuit)
+3. [A Step Forward in Microsoft's Legal Battle for Transparency about Government Data Requests](https://www.eff.org/deeplinks/2017/02/step-forward-microsofts-legal-battle-transparency-about-government-data-requests)
+4. [Foreign Intelligence Surveillance Act (FISA) Transparency Case Archives](https://blogs.microsoft.com/datalaw/initiative/legal-cases/foreign-intelligence-surveillance-act-fisa-transparency-case/)
+
+## NSA Monitored Angela Merkel's Phone and 35 Other World Leaders
+*Date: 2013-10-24*
+
+1. [Report: NSA Monitored Phones Of 35 World Leaders](https://www.npr.org/sections/thetwo-way/2013/10/24/240503748/report-nsa-monitored-phones-of-35-world-leaders)
+2. [Germany's Angela Merkel: Relations with U.S. 'severely shaken' over spying claims](https://edition.cnn.com/2013/10/24/world/europe/europe-summit-nsa-surveillance)
+3. [Germans launch probe into allegations of U.S. spying](https://www.washingtonpost.com/world/uproar-in-germany-continues-over-accusations-that-us-tapped-merkels-phone/2013/10/24/39e4c618-3c96-11e3-b0e7-716179a2c2c7_story.html)
+
+## Citigroup Lobbyists Write 70 of 85 Lines in House Banking Deregulation Bill
+*Date: 2013-11-11*
+
+1. [When Lobbyists Literally Write The Bill](https://www.npr.org/sections/itsallpolitics/2013/11/11/243973620/when-lobbyists-literally-write-the-bill)
+2. [You elected them to write new laws. They're letting corporations do it instead.](https://publicintegrity.org/politics/state-politics/copy-paste-legislate/you-elected-them-to-write-new-laws-theyre-letting-corporations-do-it-instead/)
+3. [5 Absurd Ways Lobbyists Are Corrupting Our Country](https://represent.us/action/5-facts-lobbyists/)
+
+## Tech Companies Launch Transparency Reports After NSA Revelations
+*Date: 2013-12-05*
+
+1. [Google, Yahoo, Facebook, Microsoft and LinkedIn Release New NSA Data](https://time.com/3843/tech-titans-nsa/)
+2. [Tech Giants Update Transparency Reports with FISA Requests](https://threatpost.com/tech-giants-update-transparency-reports-with-fisa-request-numbers/104056/)
+3. [Tech companies give first look at secret gov't data requests](https://www.cbsnews.com/news/google-microsoft-yahoo-facebook-linkedin-secret-government-nsa-data-requests/)
+4. [Microsoft, Google Say They're Moving Forward With NSA Lawsuit](https://www.npr.org/sections/thetwo-way/2013/08/30/217325884/microsoft-google-say-they-will-move-forward-with-nsa-lawsuit)
+
+## Federal Judge Rules NSA Bulk Phone Data Collection Likely Unconstitutional
+*Date: 2013-12-16*
+
+1. [Federal Judge Rules NSA Bulk Phone Record Collection Unconstitutional](https://www.npr.org/sections/thetwo-way/2013/12/16/251645205/federal-judge-rules-nsa-bulk-phone-record-collection-unconstitutional)
+2. [Judge: NSA's collecting of phone records is probably unconstitutional](https://www.washingtonpost.com/national/judge-nsas-collecting-of-phone-records-is-likely-unconstitutional/2013/12/16/6e098eda-6688-11e3-a0b9-249bbb34602c_story.html)
+3. [Judge: NSA domestic phone data-mining unconstitutional](https://edition.cnn.com/2013/12/16/justice/nsa-surveillance-court-ruling)
 
 ## Wells Fargo Sales Practices Investigation Begins
 *Date: 2013-12-23*
@@ -3504,12 +5650,71 @@
 3. [China Business Ventures Tied To Blackwater Founder Erik Prince Raise Questions](https://www.npr.org/2019/02/04/691394262/china-business-ventures-tied-to-blackwater-founder-erik-prince-raise-questions)
 4. [Frontier Services Group is Funded By the People's Republic of China](https://balloon-juice.com/2020/03/07/the-really-important-fact-about-erik-prince-that-everyones-coverage-keeps-missing-his-frontier-services-group-is-funded-by-the-peoples-republic-of-china/)
 
+## Flint Water Crisis (2014-2024) - 12,000 Children Poisoned, Zero Accountability
+*Date: 2014-01-01*
+
+1. [Flint Water Crisis - Everything You Need to Know](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know)
+2. [Flint Water Crisis Fast Facts](https://www.cnn.com/2016/03/04/us/flint-water-crisis-fast-facts/index.html)
+3. [Flint water crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
+4. [What the Water Crisis in Flint shows about Racism in Public Health](https://harvardpolitics.com/flint-crisis-racism/)
+5. [No convictions for Flint - Attorney general ends water crisis prosecutions](https://bridgemi.com/michigan-environment-watch/no-convictions-flint-attorney-general-ends-water-crisis-prosecutions/)
+
 ## Francisco Partners Acquires 70% Stake in NSO Group for $130 Million
 *Date: 2014-01-01*
 
 1. [NSO Group - Wikipedia](https://en.wikipedia.org/wiki/NSO_Group)
 2. [Francisco Partners Offloads Israeli Surveillance Company NSO](https://www.calcalistech.com/ctech/articles/0,7340,L-3756381,00.html)
 3. [What to know about the investors behind embattled spyware firm NSO Group](https://www.axios.com/2021/07/22/nso-group-spying-investors)
+
+## Verizon Lawsuit Successfully Overturns FCC Net Neutrality Rules, Court Demands Title II Reclassification
+*Date: 2014-01-14*
+
+1. [Verizon Communications Inc. v. FCC (2014)](https://en.wikipedia.org/wiki/Verizon_Communications_Inc._v._FCC_(2014))
+2. [Verizon v. FCC, et al., No. 11-1355 (D.C. Cir. 2014)](https://law.justia.com/cases/federal/appellate-courts/cadc/11-1355/11-1355-2014-01-14.html)
+3. [Verizon Wins Net Neutrality Court Ruling Against FCC](https://www.bloomberg.com/news/articles/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc)
+
+## NSA DISHFIRE Program Collects Nearly 200 Million Text Messages Daily Worldwide
+*Date: 2014-01-16*
+
+1. [NSA Reportedly Collected Millions Of Phone Texts Every Day](https://www.npr.org/sections/thetwo-way/2014/01/16/263130142/nsa-reportedly-collected-millions-of-phone-texts-every-day)
+2. [Hundreds of millions of texts snooped daily by NSA: Latest leak](https://www.nbcnews.com/tech/tech-news/hundreds-millions-texts-snooped-daily-nsa-latest-leak-flna2D11943973)
+3. [NSA: It's TRUE, we grab 200 MILLION of your text messages A DAY globally](https://www.theregister.com/2014/01/16/snowden_leak_shows_nsa_collects_tiny_fraction_of_sms_messages)
+
+## Obama Announces Limited NSA Reforms While Preserving Core Surveillance Programs
+*Date: 2014-01-17*
+
+1. [Transcript of President Obama's Jan. 17 speech on NSA reforms](https://www.washingtonpost.com/politics/full-text-of-president-obamas-jan-17-speech-on-nsa-reforms/2014/01/17/fa33590a-7f8c-11e3-9556-4a4bf7bcbd84_story.html)
+2. [Transcript Of President Obama's Speech On NSA Reforms](https://www.npr.org/sections/itsallpolitics/2014/01/17/263480199/transcript-of-president-obamas-speech-on-nsa-reforms)
+3. [Annotated - The Most Important Passage from President Obama's NSA Speech](https://www.aclu.org/news/national-security/annotated-most-important-passage-president-obamas-nsa-speech)
+4. [Statement on US President Obama's surveillance speech](https://www.hrw.org/news/2014/01/17/statement-us-president-obamas-surveillance-speech)
+
+## Former Virginia Governor Bob McDonnell and Wife Indicted on Federal Corruption Charges
+*Date: 2014-01-21*
+
+1. [Ex-Virginia Gov. McDonnell, Wife Charged With Corruption](https://www.npr.org/sections/thetwo-way/2014/01/21/264574395/ex-virginia-gov-mcdonnell-wife-charged-with-corruption)
+2. [Former Virginia Governor Bob McDonnell and Star Scientific](https://ballotpedia.org/Former_Virginia_Governor_Bob_McDonnell_and_Star_Scientific)
+3. [Bob McDonnell](https://en.wikipedia.org/wiki/Bob_McDonnell)
+
+## Max Baucus Confirmed as Ambassador After Healthcare Industry Staffers Become Lobbyists
+*Date: 2014-02-06*
+
+1. [Max Baucus — Senate Finance Committee](https://publicintegrity.org/politics/max-baucus-senate-finance-committee/)
+2. [Affordable Care Act Architect Flips on Single-Payer - The Time Has Come](https://www.nbcnews.com/politics/congress/sanders-steps-push-single-payer-health-care-old-foe-switches-n799911)
+3. [Max Baucus Should Not Be Deciding Health Care for America](https://pnhp.org/news/max-baucus-should-not-be-deciding-health-care-for-america/)
+
+## Ways and Means Chairman Proposes Carried Interest Reform That Private Equity Lobbying Defeats
+*Date: 2014-02-26*
+
+1. [Carried Interest Reform Is a Sham](https://www.propublica.org/article/carried-interest-reform-is-a-sham)
+2. [Investment firms hire lobbyists as lawmakers target tax loopholes](https://www.cnbc.com/2021/03/08/investment-firms-hire-lobbyists-as-lawmakers-target-tax-loopholes.html)
+3. [GOP eyes limits on carried interest tax break](https://thehill.com/business-a-lobbying/353959-gop-eyes-limits-on-investor-tax-break/)
+
+## Trump Foundation Buys $20,000 Portrait of Trump at Charity Auction, Hangs in Trump Golf Club
+*Date: 2014-03-01*
+
+1. [How Donald Trump retooled his charity to spend other people's money](https://www.washingtonpost.com/politics/how-donald-trump-retooled-his-charity-to-spend-other-peoples-money/2016/09/10/da8cce64-75df-11e6-8149-b8d05321db62_story.html)
+2. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
+3. [Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds](https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds)
 
 ## Annexation of Crimea: Putin's Strategic Asset Seizure
 *Date: 2014-03-18*
@@ -3556,6 +5761,14 @@
 2. [Ukraine - Crimea, Eastern Ukraine, Conflict](https://www.britannica.com/place/Ukraine/The-crisis-in-Crimea-and-eastern-Ukraine)
 3. [Russia's Putin, Crimean Leaders Sign Annexation Treaty](https://www.rferl.org/a/russia-crimea-ukraine-treaty/25301179.html)
 
+## Flint Switches to Corrosive River Water to Save Money, Poisoning Entire City
+*Date: 2014-04-25*
+
+1. [The Flint water crisis begins](https://www.history.com/this-day-in-history/april-25/the-flint-water-crisis-begins)
+2. [Flint Water Crisis - Everything You Need to Know](https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know)
+3. [Flint water crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
+4. [Five years later - Flint water crisis most egregious example of environmental injustice](https://news.umich.edu/five-years-later-flint-water-crisis-most-egregious-example-of-environmental-injustice-u-m-researcher-says/)
+
 ## Eric Trump says all funding comes from Russia, not U.S. banks
 *Date: 2014-05-01*
 
@@ -3569,6 +5782,13 @@
 1. [Hunter Biden, Burisma, and Corruption: The Impact on U.S. Government Policy](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/HSGAC_Finance_Report_FINAL.pdf)
 2. [Devon Archer testifies Hunter Biden sold 'illusion' of access to Joe Biden](https://www.cbsnews.com/news/devon-archer-testimony-hunter-biden-joe-biden-house-oversight-committee/)
 3. [Timeline: Hunter Biden, Burisma and Ukraine](https://www.nbcnews.com/politics/2020-election/timeline-hunter-biden-burisma-ukraine-n1122161)
+
+## FCC Approves Paid Prioritization "Fast Lanes" Proposal Despite Massive Public Backlash
+*Date: 2014-05-15*
+
+1. [FCC votes on Wheeler new net neutrality proposal: Should there be Internet fast lanes?](https://www.techtimes.com/articles/7083/20140516/fcc-votes-on-wheelers-new-net-neutrality-proposal-should-there-be-internet-fast-lanes.htm)
+2. [Under pressure, FCC Chairman Tom Wheeler revised his fast lane proposal](https://money.cnn.com/2014/05/12/technology/fcc-fast-lane)
+3. [FCC chair: An Internet fast lane would be commercially unreasonable](https://www.washingtonpost.com/news/the-switch/wp/2014/05/20/fcc-chair-an-internet-fast-lane-would-be-commercially-unreasonable/)
 
 ## FDA Statistician Joan Buenconsejo Joins AstraZeneca After Overseeing Company Drug Reviews
 *Date: 2014-06-01*
@@ -3586,6 +5806,21 @@
 4. [Cambridge Analytica: How Aleksandr Kogan and Cambridge Analytica Harvested Facebook Users' Data](https://www.theguardian.com/technology/2015/dec/11/facebook-cambridge-analytica-kogan-data-research)
 5. [Facebook-Cambridge Analytica Data Harvesting Research](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=5833&context=libphilprac)
 
+## Germany Opens Criminal Investigation Into NSA Tapping of Merkel's Phone
+*Date: 2014-06-04*
+
+1. [Germany Opens Formal Inquiry Into Tapping Of Merkel's Phone](https://www.npr.org/sections/thetwo-way/2014/06/04/318776863/germany-opens-formal-inquiry-into-tapping-of-merkel-s-phone)
+2. [Germany opens criminal probe into Merkel phone tapping](https://www.timesofisrael.com/germany-opens-criminal-probe-into-merkel-phone-tapping/)
+3. [German Parliamentary Committee investigation of the NSA spying scandal](https://en.wikipedia.org/wiki/German_Parliamentary_Committee_investigation_of_the_NSA_spying_scandal)
+4. [Germany Closes Probe Into Alleged U.S. Hacking Of Merkel's Phone](https://www.npr.org/sections/thetwo-way/2015/06/12/413866194/germany-closes-probe-into-alleged-u-s-hacking-of-merkels-phone)
+
+## Federal Government Cuts Off Corinthian Colleges - 72,000 Students Trapped by Fraud
+*Date: 2014-06-12*
+
+1. [CFPB Sues For-Profit Corinthian Colleges for Predatory Lending Scheme](https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-for-profit-corinthian-colleges-for-predatory-lending-scheme/)
+2. [Information for Former Corinthian Colleges Students](https://oag.ca.gov/corinthian)
+3. [Government Restricts Funding To Corinthian Colleges](https://www.npr.org/2014/06/12/321481029/government-restricts-funding-to-corinthian-colleges)
+
 ## Supreme Court backs broad discovery in Argentina debt case (Alito joined majority); Singer's fund later benefited
 *Date: 2014-06-16*
 
@@ -3593,6 +5828,13 @@
 2. [Justice Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
 3. [New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny of Supreme Court ethics](https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/)
 4. [Samuel Alito disputes ProPublica report that says justice failed to disclose trip with billionaire who later had business before Supreme Court](https://www.cnn.com/2023/06/21/politics/samuel-alito-paul-singer-propublica/index.html)
+
+## Trump: Central Park Five Still Guilty Despite DNA Exoneration
+*Date: 2014-06-21*
+
+1. [Donald Trump Says Central Park Five Are Guilty, Despite DNA Evidence](https://www.nbcnews.com/politics/2016-election/donald-trump-says-central-park-five-are-guilty-despite-dna-n661941)
+2. [President Trump Played a Key Role in the Central Park Five Case](https://time.com/5597843/central-park-five-trump-history/)
+3. [Did Donald Trump ever apologize to the Central Park Five?](https://www.politifact.com/article/2023/jul/25/did-donald-trump-ever-apologize-central/)
 
 ## Supreme Court Rules Warrantless Cell Phone Searches Unconstitutional in Riley v. California
 *Date: 2014-06-25*
@@ -3652,6 +5894,21 @@
 3. [Russia defiant as US, EU unveil 'phase three' sanctions](https://www.france24.com/en/20140730-russia-defiant-usa-eu-phase-three-sectoral-sanctions)
 4. [Sectoral Sanctions Identifications List (Original July 2014 Release)](https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx)
 
+## Human Rights Watch Report - FBI Terrorism Prosecutions "Often An Illusion"
+*Date: 2014-07-21*
+
+1. [US - Terrorism Prosecutions Often An Illusion](https://www.hrw.org/news/2014/07/21/us-terrorism-prosecutions-often-illusion)
+2. [Anatomy of a Federal Terrorism Prosecution](https://hrlr.law.columbia.edu/hrlr-online/the-anatomy-of-a-federal-terrorism-prosecution-a-blueprint-for-repression-and-entrapment/)
+3. [Estimating the Prevalence of Entrapment in Post-9/11 Cases](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7566&context=jclc)
+
+## European Court Rules Poland Violated Human Rights by Hosting CIA Torture Black Site
+*Date: 2014-07-24*
+
+1. [European Court Finds Poland Violated Rights by Hosting CIA Secret Prison](https://www.justiceinitiative.org/newsroom/european-court-finds-poland-violated-rights-by-hosting-cia-secret-prison)
+2. [Lithuania and Romania Complicit for Hosting CIA Black Sites](https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/)
+3. [CIA Black Sites](https://en.wikipedia.org/wiki/CIA_black_sites)
+4. [European Complicity in CIA Torture in Black Sites](https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/)
+
 ## Gamergate Begins: 4chan Harassment Campaign Becomes Political Mobilization Blueprint
 *Date: 2014-08-16*
 
@@ -3665,6 +5922,21 @@
 1. [Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream](https://www.buzzfeednews.com/article/josephbernstein/heres-how-breitbart-and-milo-smuggled-white-nationalism)
 2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
 3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
+
+## Eric Cantor Joins Wall Street Investment Bank for $3.4M After House Leadership
+*Date: 2014-09-02*
+
+1. [Cantor Brings Congressional Connections To Wall Street Job](https://www.npr.org/2014/09/09/347151287/cantor-brings-congressional-connections-to-wall-street-job)
+2. [Eric Cantor Joins Wall Street Investment Bank](https://www.npr.org/sections/itsallpolitics/2014/09/02/345142098/eric-cantor-joins-wall-street-investment-bank)
+3. [Eric Cantor gets a new job...on Wall Street](https://www.marketplace.org/2014/09/02/business/eric-cantor-gets-new-jobon-wall-street/)
+
+## Apple Announces iOS 8 Encryption Makes iPhones Unlockable Even by Apple
+*Date: 2014-09-17*
+
+1. [Apple will no longer unlock most iPhones, iPads for police, even with search warrants](https://www.washingtonpost.com/business/technology/2014/09/17/2612af58-3ed2-11e4-b03f-de718edeb92f_story.html)
+2. [Apple: iOS 8 Prevents Cooperation With Police Unlocking Requests](https://www.npr.org/sections/alltechconsidered/2014/09/18/349561490/apple-ios-8-prevents-cooperation-with-police-unlocking-requests)
+3. [IOS 8 encryption - Why Apple won't unlock your iPhone for the police](https://slate.com/technology/2014/09/ios-8-encryption-why-apple-wont-unlock-your-iphone-for-the-police.html)
+4. [Apple Reiterates Inability to Unlock iOS Devices Running iOS 8 or Higher in New Court Filing](https://www.macrumors.com/2015/10/20/apple-ios-device-encryption-ios-8/)
 
 ## Chainalysis Founded to Provide Blockchain Forensics to Governments and Banks
 *Date: 2014-10-01*
@@ -3680,6 +5952,13 @@
 2. [Trump model: I felt like a 'slave'](https://money.cnn.com/2016/03/02/news/trump-model-lawsuit/)
 3. [Former Trump Model Alexia Palmer Claims She Was Treated Like a Slave](https://www.newsweek.com/donald-trump-alexia-palmer-model-432948)
 
+## GM Plant Stops Using Flint Water After It Corrodes Car Parts—But Residents Must Keep Drinking It
+*Date: 2014-10-13*
+
+1. [What Did GM & the Governor Know? GM Stopped Using Flint Water Over a Year Before Emergency Declared](https://www.democracynow.org/2016/2/17/what_did_gm_the_governor_know)
+2. [How GM Avoided Flint Water Crisis](https://gmauthority.com/blog/2016/02/how-gm-sidestepped-the-disastrous-flint-water-crisis/)
+3. [A Pediatrician, General Motors and the Flint Water Crisis](https://www.corporatecrimereporter.com/news/200/pediatrician-general-motors-flint-water-crisis/)
+
 ## Harlan Crow Purchases Clarence Thomas's Mother's House in Undisclosed Deal
 *Date: 2014-10-20*
 
@@ -3687,6 +5966,29 @@
 2. [Justice Clarence Thomas failed to disclose 2014 real estate deal with GOP megadonor](https://www.cnn.com/2023/04/13/politics/clarence-thomas-harlan-crow-real-estate-deal/index.html)
 3. [Billionaire Harlan Crow bought property from Clarence Thomas](https://www.gpb.org/news/2023/04/13/billionaire-harlan-crow-bought-property-clarence-thomas-the-justice-didnt-disclose)
 4. [Supreme Court Justice Clarence Thomas Secretly Sold Property to Harlan Crow](https://www.thedailybeast.com/supreme-court-justice-clarence-thomas-secretly-sold-property-to-harlan-crow-report-says)
+
+## Amazon Workers in Germany Strike During Black Friday for Union Recognition
+*Date: 2014-11-28*
+
+1. [Amazon faces fresh wave of German strikes](https://www.cnbc.com/2014/04/17/amazon-faces-fresh-wave-of-german-strikes.html)
+2. [In the Belly of the Beast](https://jacobin.com/2017/06/amazon-germany-union-strikes-works-councils)
+3. [Germany: Union–Amazon conflict escalates in run-up to Christmas](https://www.eurofound.europa.eu/en/resources/article/2016/germany-union-amazon-conflict-escalates-run-christmas)
+
+## Senate Report Documents CIA Torture Worse Than Disclosed - Rectal Feeding, Mock Executions, Deaths
+*Date: 2014-12-09*
+
+1. [Senate Intelligence Committee Report on CIA Torture (Executive Summary)](https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary)
+2. [CIA Torture Unredacted - Revealing What Was Hidden in US Senate Report](https://www.thebureauinvestigates.com/blog/2019-07-10/cia-torture-unredacted-revealing-hidden-us-senate-torture-report)
+3. [What the CIA Did to Its Detainees](https://apps.frontline.org/torture/)
+4. [No More Excuses - A Roadmap to Justice for CIA Torture](https://www.hrw.org/report/2015/12/01/no-more-excuses/roadmap-justice-cia-torture)
+
+## Senate Intelligence Committee Releases Torture Report - CIA Program Was Brutal and Ineffective
+*Date: 2014-12-09*
+
+1. [Senate Intelligence Committee Report on CIA Torture (Executive Summary)](https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary)
+2. [Senate Report - CIA Misled Public on Torture](https://www.hrw.org/news/2014/12/10/us-senate-report-slams-cia-torture-lies)
+3. [The CIA Torture Report - What You Need to Know](https://www.pbs.org/wgbh/frontline/article/the-cia-torture-report-what-you-need-to-know/)
+4. [Senate Torture Report](https://www.aclu.org/publications/senate-torture-report)
 
 ## ABC News kills Amy Robach interview with Virginia Giuffre about Epstein network
 *Date: 2015-01-01*
@@ -3704,6 +6006,13 @@
 4. [The Intersection of Silicon Valley, Intelligence Networks, and Jeffrey Epstein](https://www.ibtimes.com/silicon-valley-intelligence-networks-jeffrey-epstein-3658263)
 5. [Leaked Emails Reveal Epstein's Surveillance Empire Ties](https://nationalfile.com/epstein-emails-barak-thiel-surveillance-08-30-2025/)
 
+## West Virginia Suffers Highest Per-Capita Opioid Rate, 67 Pills Per Person Annually
+*Date: 2015-01-01*
+
+1. [West Virginia Opioid Epidemic](https://opioid.amfar.org/WV)
+2. [West Virginia and New Hampshire Bear Highest Costs of Opioid Crisis](https://www.usnews.com/news/healthiest-communities/articles/2018-03-20/west-virginia-and-new-hampshire-bear-highest-costs-of-opioid-crisis)
+3. [DEA Intelligence Brief - The West Virginia Drug Situation](https://www.dea.gov/sites/default/files/2018-07/DEA-WAS-DIR-024-17%20West%20Virginia%20Drug%20Situation%20-UNCLASSIFIED.pdf)
+
 ## PredPol Predictive Policing Software Adopted by 60 U.S. Police Departments
 *Date: 2015-02-01*
 
@@ -3711,11 +6020,60 @@
 2. [Why Oakland Police Turned Down Predictive Policing](https://www.vice.com/en/article/minority-retort-why-oakland-police-turned-down-predictive-policing/)
 3. [PredPol](https://en.wikipedia.org/wiki/PredPol)
 
+## LeeAnne Walters' Water Tests Show Lead at 104 ppb—Nearly 7 Times EPA Limit
+*Date: 2015-02-18*
+
+1. [Hazardous Waste-levels of Lead found in a Flint household's water](https://flintwaterstudy.org/2015/08/hazardous-waste-levels-of-lead-found-in-a-flint-households-water/)
+2. [LeeAnne Walters - Goldman Environmental Prize](https://www.goldmanprize.org/recipient/leeanne-walters/)
+3. [Environmental Justice Hero - LeeAnne Walters](https://www.oneearth.org/environmental-justice-hero-leeanne-walters/)
+
+## FCC Votes 3-2 for Strong Net Neutrality Protections Through Title II Reclassification After Record Public Engagement
+*Date: 2015-02-26*
+
+1. [FCC Approves Net Neutrality Rules For Open Internet](https://www.npr.org/sections/thetwo-way/2015/02/26/389259382/net-neutrality-up-for-vote-today-by-fcc-board)
+2. [FCC Enacts Title II Net Neutrality Rules With Partisan Vote](https://www.usnews.com/news/articles/2015/02/26/fcc-enacts-title-ii-net-neutrality-rules-with-partisan-vote)
+3. [FCC Votes to Adopt Tom Wheeler Net Neutrality Rules](https://www.usnews.com/opinion/articles/2015/02/26/fcc-votes-to-adopt-tom-wheelers-net-neutrality-rules)
+
+## Wisconsin Becomes 25th Right-to-Work State, Completing ALEC's Union Destruction
+*Date: 2015-03-09*
+
+1. [Wisconsin Gov. Scott Walker Signs Right-To-Work Bill](https://www.npr.org/sections/thetwo-way/2015/03/09/391901732/wisconsin-gov-scott-walker-sighs-right-to-work-bill)
+2. [Wisconsin Introduces Word-for-Word ALEC Right to Work Bill](https://www.prwatch.org/news/2015/02/12743/wisconsin-introduces-verbatim-alec-right-work-bill)
+3. [Gov. Scott Walker Goes Head-To-Head With Labor Over Right-To-Work](https://www.npr.org/2015/02/26/389005148/gov-scott-walker-goes-head-to-head-with-labor-over-right-to-work)
+
+## Rep. Aaron Schock Resigns Amid Luxury Spending and Mileage Fraud Scandal
+*Date: 2015-03-17*
+
+1. [Illinois Rep. Aaron Schock Resigns Amid Spending Scandal](https://www.npr.org/2015/03/17/393646710/illinois-rep-aaron-schock-resigns-amid-spending-scandal)
+2. [Aaron Schock to be indicted in spending scandal](https://www.cnn.com/2016/11/10/politics/aaron-schock-indicted-spending)
+3. [Rep. Aaron Schock Resigns Over Campaign Spending, Ethics Allegations](https://www.usnews.com/news/articles/2015/03/17/rep-aaron-schock-resigns-over-campaign-spending-ethics-allegations)
+
 ## Russian Agents Maria Butina and Alexander Torshin Attend NRA Annual Meeting, Meet Federal Reserve Vice Chairman
 *Date: 2015-04-08*
 
 1. [Russian Agents Alexander Torshin, Maria Butina Met With Treasury, Fed In 2015](https://www.npr.org/2019/05/10/721763041/exclusive-documents-detail-meetings-of-russians-with-treasury-federal-reserve)
 2. [Timeline - The odd overlap of Maria Butina, the gun rights movement, and the 2016 election](https://www.washingtonpost.com/news/politics/wp/2018/07/16/timeline-the-odd-overlap-of-maria-butina-the-gun-rights-movement-and-the-2016-election/)
+
+## Corinthian Colleges Files Bankruptcy After Defrauding 72,000 Students - Executives Shield Assets
+*Date: 2015-04-26*
+
+1. [Corinthian Colleges Case Documents](https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-education-management-corporation)
+2. [Corinthian Colleges Files For Bankruptcy](https://www.npr.org/sections/ed/2015/04/27/402394471/corinthian-colleges-files-for-bankruptcy)
+3. [Corinthian Colleges shuts down, files for bankruptcy](https://www.cbsnews.com/news/corinthian-colleges-shuts-down-28-schools-files-for-bankruptcy/)
+
+## Second Circuit Rules NSA Bulk Phone Metadata Collection Illegal Under Patriot Act
+*Date: 2015-05-07*
+
+1. [NSA's Bulk Collection Of Americans' Phone Data Is Illegal, Appeals Court Rules](https://www.npr.org/sections/thetwo-way/2015/05/07/404898259/federal-court-bulk-collection-of-phone-metadata-is-illegal)
+2. [NSA's Bulk Collection of Phone Records Is Illegal, Appeals Court Says](https://theintercept.com/2015/05/07/appellate-court-rules-nsas-bulk-collection-phone-records-illegal/)
+3. [EFF Case Analysis: Appeals Court Rules NSA Phone Records Dragnet is Illegal](https://www.eff.org/deeplinks/2015/05/eff-case-analysis-appeals-court-rules-nsa-phone-records-dragnet-illegal)
+
+## Former House Speaker Dennis Hastert Indicted for Bank Fraud and Lying to FBI
+*Date: 2015-05-28*
+
+1. [Former House Speaker J. Dennis Hastert Indicted By Federal Grand Jury](https://www.npr.org/2015/05/28/410380251/former-house-speaker-j-dennis-hastert-indicted-by-federal-grand-jury)
+2. [Prosecutors detail sex abuse allegations against Dennis Hastert](https://www.pbs.org/newshour/nation/prosecutors-detail-sex-abuse-allegations-against-dennis-hastert)
+3. [Dennis Hastert](https://en.wikipedia.org/wiki/Dennis_Hastert)
 
 ## Russian Internet Research Agency begins Facebook ad campaign to influence U.S. politics
 *Date: 2015-06-01*
@@ -3723,6 +6081,27 @@
 1. [Senate Intel—Russia's Use of Social Media (Vol. 2)](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf)
 2. [Hard Questions—Russian Ads Delivered to Congress](https://about.fb.com/news/2017/10/hard-questions-russian-ads-delivered-to-congress/)
 3. [Facebook says likely Russian-based operation funded U.S. ads](https://www.reuters.com/article/technology/facebook-says-likely-russian-based-operation-funded-us-ads-with-political-mess-idUSKCN1BH2VX/)
+
+## Obama Signs USA FREEDOM Act, Ending NSA Bulk Metadata Collection
+*Date: 2015-06-02*
+
+1. [Senate Advances USA Freedom Act, After Republican Leaders Fail To Amend Bill](https://www.npr.org/2015/06/02/411533512/senate-advances-usa-freedom-act-after-republican-leaders-fail-to-amend-bill)
+2. [USA Freedom Act: Small Step for Post-Snowden Reform, Giant Leap for Congress](https://theintercept.com/2015/06/02/one-small-step-toward-post-snowden-surveillance-reform-one-giant-step-congress/)
+3. [Congress Passes NSA Reform Bill](https://www.brennancenter.org/our-work/analysis-opinion/congress-passes-nsa-reform-bill)
+
+## Sexual Abuse Allegations Against Dennis Hastert Publicly Emerge
+*Date: 2015-06-09*
+
+1. [Disturbing Details of Dennis Hastert's Alleged Sex Abuse Revealed](https://abcnews.go.com/Politics/disturbing-details-dennis-hasterts-alleged-sex-abuse-revealed/story?id=38252730)
+2. [Prosecutors detail sex abuse allegations against Dennis Hastert](https://www.pbs.org/newshour/nation/prosecutors-detail-sex-abuse-allegations-against-dennis-hastert)
+3. [Dennis Hastert](https://en.wikipedia.org/wiki/Dennis_Hastert)
+
+## NBC Fires Trump from The Apprentice Following Racist Comments About Mexican Immigrants
+*Date: 2015-06-29*
+
+1. [NBC Officially Fires Donald Trump From 'Celebrity Apprentice'](https://www.nbcnews.com/news/amp/ncna409381)
+2. [NBC Dumps Donald Trump Over Comments On Mexican Immigrants](https://www.npr.org/2015/06/29/418641198/nbc-dumps-donald-trump-over-comments-on-mexican-immigrants)
+3. [NBC Cutting Ties to Donald Trump Over 'Derogatory' Comments](https://variety.com/2015/tv/news/nbc-donald-trump-immigrants-1201530568/)
 
 ## David Pecker Agrees to Catch and Kill Negative Trump Stories at Trump Tower Meeting
 *Date: 2015-08-01*
@@ -3745,12 +6124,56 @@
 
 1. [Inside Chainalysis' Multimillion-Dollar Relationship With the US Government](https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government)
 
+## InsideClimate News Launches
+*Date: 2015-09-16*
+
+1. [2015: The Year We Found Out #ExxonKnew](https://insideclimatenews.org/news/30122015/2015-exxon-mobil-climate-change-science-research-exxonknew-investigation-petition/)
+2. [Exxon: The Road Not Taken](https://insideclimatenews.org/project/exxon-the-road-not-taken/)
+3. [Exxon - The Road Not Taken](https://awards.journalists.org/entries/exxon-road-not-taken/)
+4. [Ten years since the world learned #ExxonKnew, accountability marches forward](https://climateintegrity.org/news/view/ten-years-since-the-world-learned-exxonknew-accountability-marches-forward)
+
 ## Daily Wire launches; multiple outlets report seed funding from Farris Wilks
 *Date: 2015-09-21*
 
 1. [The rightwing disinformation machine and the billionaires behind it](https://www.theguardian.com/us-news/2023/feb/10/rightwing-disinformation-machine-daily-wire-prageru-wilks)
 2. [How fracking billionaires built a climate denial empire—and bankrolled Ben Shapiro](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/)
 3. [Ben Shapiro describes Daily Wire seed funding (video)](https://www.facebook.com/officialbenshapiro/videos/10156559228760683/)
+
+## Dr. Mona Hanna-Attisha Reveals Elevated Blood Lead Levels in Flint Children
+*Date: 2015-09-24*
+
+1. [Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis - A Spatial Analysis of Risk and Public Health Response](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2015.303003)
+2. [Doctor Who Discovered Children Had Elevated Lead Levels Talks About What's Changed](https://www.npr.org/2017/09/17/551670868/doctor-who-discovered-children-had-elevated-lead-levels-talks-about-whats-change)
+3. [Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis](https://pubmed.ncbi.nlm.nih.gov/26691115/)
+
+## Michigan Finally Confirms Lead Problem and Advises Filters—18 Months After Poisoning Began
+*Date: 2015-10-02*
+
+1. [Flint reconnects to Detroit's water system](https://www.michiganpublic.org/politics-government/2015-10-16/flint-reconnects-to-detroits-water-system)
+2. [Flint water crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
+3. [A Timeline of the Flint Water Crisis & Analyzing The Inaction from FEMA](https://parlemag.com/2016/04/timeline-of-flint-water-crisis-fema/)
+
+## U.S. Airstrike Destroys Doctors Without Borders Hospital in Kunduz, Kills 42
+*Date: 2015-10-03*
+
+1. [Kunduz Hospital Attack - Initial MSF Statement](https://www.msf.org/afghanistan-msf-demands-explanations-after-deadly-airstrikes-hit-kunduz-hospital)
+2. [Kunduz Hospital Airstrike](https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike)
+3. [MSF Calls for Independent Investigation into Kunduz Attack](https://www.msf.org/msf-calls-independent-investigation-kunduz-attack)
+4. [US Military Investigation into Kunduz Hospital Attack](https://www.hrw.org/news/2016/04/29/us-kunduz-attack-questions-remain-unanswered)
+
+## Flint Switches Back to Detroit Water After 18 Months—But Damage to Children Is Permanent
+*Date: 2015-10-16*
+
+1. [Flint switches back to Detroit water system](https://www.abc12.com/news/flint-water-emergency/flint-switches-back-to-detroit-water-system/article_44e64bc3-51e8-5a07-b4e7-4494876e12bf.html)
+2. [Flint reconnects to Detroit's water system](https://www.michiganpublic.org/politics-government/2015-10-16/flint-reconnects-to-detroits-water-system)
+3. [Flint water crisis](https://en.wikipedia.org/wiki/Flint_water_crisis)
+
+## Dennis Hastert Pleads Guilty to Federal Banking Violations
+*Date: 2015-10-28*
+
+1. [Former House Speaker Dennis Hastert Pleads Guilty In Hush Money Scheme](https://www.npr.org/2015/10/28/452608628/former-house-speaker-dennis-hastert-pleads-guilty-in-hush-money-scheme)
+2. [Prosecutors detail sex abuse allegations against Dennis Hastert](https://www.pbs.org/newshour/nation/prosecutors-detail-sex-abuse-allegations-against-dennis-hastert)
+3. [Dennis Hastert Pleads Guilty, Could Face 6 Months](https://abcnews.go.com/Politics/dennis-hastert-file-guilty-plea/story?id=34788127)
 
 ## Trump Signs Letter of Intent for Trump Tower Moscow
 *Date: 2015-10-28*
@@ -3766,6 +6189,14 @@
 2. [Trump signed letter of intent for Trump Tower Moscow project during campaign](https://www.cnn.com/2018/12/18/politics/trump-signed-letter-of-intent-rudy-giuliani/index.html)
 3. [Timeline: Trump Tower Moscow talks during campaign](https://www.washingtonpost.com/politics/2019/01/21/timeline-trump-tower-moscow-talks/)
 
+## NSA Officially Ends Bulk Phone Metadata Collection Under USA Freedom Act
+*Date: 2015-11-29*
+
+1. [NSA Ends Bulk Collection of Telephony Metadata under Section 215](https://www.lawfaremedia.org/article/nsa-ends-bulk-collection-telephony-metadata-under-section-215)
+2. [FACT SHEET: Implementation of the USA FREEDOM Act of 2015](https://www.intelligence.gov/ic-on-the-record-database/results/fact-sheet/fact-sheet-implementation-of-the-usa-freedom-act-of-2015)
+3. [NSA Ends Sept. 11-Era Surveillance Program](https://www.npr.org/sections/thetwo-way/2015/11/29/457779757/nsa-ends-sept-11th-era-surveillance-program)
+4. [NSA's bulk collection of Americans' phone records ends Sunday](https://www.washingtonpost.com/world/national-security/nsas-bulk-collection-of-americans-phone-records-ends-sunday/2015/11/27/75dc62e2-9546-11e5-a2d6-f57908580b1f_story.html)
+
 ## Guardian Exposes Cambridge Analytica's Unauthorized Facebook Data Use for Ted Cruz Campaign
 *Date: 2015-12-01*
 
@@ -3779,6 +6210,13 @@
 1. [NRA & Russia - Majority Report](https://www.finance.senate.gov/download/nra-and-russia_-majority-report)
 2. [Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme](https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme)
 3. [Prosecutors seek 18-month sentence for Maria Butina in Russian plot](https://www.washingtonpost.com/local/legal-issues/prosecutors-seek-18-month-prison-sentence-for-maria-butina-in-russian-plot-to-forge-ties-to-us-conservative-groups/2019/04/19/de703ba2-6203-11e9-9412-daf3d2e67c6d_story.html)
+
+## ALEC Develops Comprehensive Government Union Reform Act as All-in-One Union Elimination Playbook
+*Date: 2016-01-01*
+
+1. [Missouri May Become Model State for Government Union Labor Relations](https://alec.org/article/missouri-may-become-model-state-for-government-union-labor-relations/)
+2. [Koch-Funded Mackinac Center Brings Wisconsin Act 10 Provisions to ALEC](https://www.prwatch.org/news/2012/05/11490/koch-funded-mackinac-center-brings-wisconsin-act-10-provisions-alec)
+3. [West Virginia Becomes the 26th Right-to-Work State](https://alec.org/article/west-virginia-becomes-the-26th-right-to-work-state/)
 
 ## Cambridge Analytica Deploys Harvested Facebook Data for Trump Campaign Electoral Manipulation
 *Date: 2016-01-01*
@@ -3798,6 +6236,13 @@
 3. [Why Did Deutsche Bank Keep Lending to Donald Trump?](https://www.propublica.org/article/trump-inc-podcast-deutsche-bank-donald-trump)
 4. [How Russian Money Boosted Trump's Business Empire](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/)
 
+## Illicit Fentanyl Overtakes Prescription Opioids as Leading Cause of Overdose Deaths
+*Date: 2016-01-01*
+
+1. [Drug Overdose Deaths - Facts and Figures](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates)
+2. [Are fentanyl overdose deaths rising in the US?](https://usafacts.org/articles/are-fentanyl-overdose-deaths-rising-in-the-us/)
+3. [Drug and Opioid-Involved Overdose Deaths — United States, 2013–2017](https://www.cdc.gov/mmwr/volumes/67/wr/mm675152e1.htm)
+
 ## Grayshift Founded in Atlanta to Develop GrayKey iPhone Unlocking Technology
 *Date: 2016-01-01*
 
@@ -3812,6 +6257,36 @@
 2. [Hillbilly Elegy author joins Thiel's VC firm](https://techcrunch.com/2016/12/19/jd-vance-mithril-capital/)
 3. [J.D. Vance's Recruitment at Mithril Capital Revealed](https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html)
 4. [J.D. Vance's Short Career in Venture Capital](https://www.axios.com/2024/07/16/jd-vance-venture-capital-career)
+
+## Snyder Finally Declares State of Emergency After Federal Investigation and Public Outcry
+*Date: 2016-01-05*
+
+1. [Gov. Snyder declares a state of emergency after lead continues to be a problem in Flint's water](https://www.michiganpublic.org/news/2016-01-05/gov-snyder-declares-a-state-of-emergency-after-lead-continues-to-be-a-problem-in-flints-water)
+2. [Gov. Snyder declares emergency for Genesee County](https://www.michigan.gov/formergovernors/recent/snyder/press-releases/2016/01/05/gov-snyder-declares-emergency-for-genesee-county)
+3. [Michigan governor declares state of emergency in Flint over water problems](https://www.foxnews.com/us/michigan-governor-declares-state-of-emergency-in-flint-over-water-problems)
+
+## Trump Uses Charity Foundation for Iowa Campaign Event, Violating Tax Law
+*Date: 2016-01-28*
+
+1. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
+2. [Trump Foundation apparently admits to violating ban on 'self-dealing'](https://www.washingtonpost.com/politics/trump-foundation-apparently-admits-to-violating-ban-on-self-dealing-new-filing-to-irs-shows/2016/11/22/893f6508-b0a9-11e6-8616-52b15787add0_story.html)
+3. [Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds](https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds)
+
+## Justice Antonin Scalia Dies, McConnell Immediately Vows to Block Any Obama Nominee
+*Date: 2016-02-13*
+
+1. [Flashback Inside McConnell's Unprecedented Power Play After Scalia's Death](https://www.pbs.org/wgbh/frontline/article/flashback-inside-mcconnells-unprecedented-power-play-after-scalias-death/)
+2. [Get Ready For A Fight To Replace Scalia](https://www.npr.org/2016/02/13/466689001/get-ready-for-a-fight-to-replace-scalia)
+3. [Senate Leaders Divided After Antonin Scalia's Death](https://rollcall.com/2016/02/13/senate-leaders-divided-after-antonin-scalias-death/)
+4. [The Scalia Vacancy in Historical Context](https://www.congress.gov/crs-product/R44773)
+
+## FBI Orders Apple to Break iPhone Encryption in San Bernardino Case
+*Date: 2016-02-16*
+
+1. [Apple–FBI encryption dispute](https://en.wikipedia.org/wiki/Apple%E2%80%93FBI_encryption_dispute)
+2. [Apple, The FBI And iPhone Encryption: A Look At What's At Stake](https://www.npr.org/sections/thetwo-way/2016/02/17/467096705/apple-the-fbi-and-iphone-encryption-a-look-at-whats-at-stake)
+3. [Customer Letter](https://www.apple.com/customer-letter/)
+4. [Apple v. FBI](https://epic.org/documents/apple-v-fbi-2/)
 
 ## FBI Works with Cellebrite to Crack San Bernardino Shooter's iPhone After Apple Refuses
 *Date: 2016-03-01*
@@ -3828,6 +6303,29 @@
 2. [Trump Model Management lawsuit dismissed](https://www.washingtonpost.com/news/post-politics/wp/2016/04/01/trump-model-management-lawsuit-dismissed/)
 3. [Model's Lawsuit Against Donald Trump Agency Dismissed](https://abcnews.go.com/Politics/models-lawsuit-donald-trump-agency-dismissed/story?id=37878264)
 4. [Trump model to take case to U.S. government... but is it too late?](https://money.cnn.com/2016/03/23/news/trump-model-case/index.html)
+
+## CDC Issues First Opioid Prescribing Guidelines, Twenty Years After OxyContin Launch
+*Date: 2016-03-15*
+
+1. [CDC Guideline for Prescribing Opioids for Chronic Pain — United States, 2016](https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm)
+2. [CDC Guideline for Prescribing Opioids for Chronic Pain (PDF)](https://www.cdc.gov/mmwr/volumes/65/rr/pdfs/rr6501e1.pdf)
+3. [Reducing the Risks of Relief — The CDC's Opioid-Prescribing Guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC4852278/)
+
+## Obama Nominates Merrick Garland to Supreme Court, McConnell and Senate Republicans Refuse to Hold Hearings or Vote
+*Date: 2016-03-16*
+
+1. [What Happened With Merrick Garland In 2016 And Why It Matters Now](https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now)
+2. [McConnell Blocking Supreme Court Nomination About A Principle Not A Person](https://www.npr.org/2016/03/16/470664561/mcconnell-blocking-supreme-court-nomination-about-a-principle-not-a-person)
+3. [Merrick Garland Supreme Court Nomination](https://en.wikipedia.org/wiki/Merrick_Garland_Supreme_Court_nomination)
+4. [Tracking the Controversy Over Judge Garland's Nomination](https://constitutioncenter.org/blog/tracking-the-controversy-over-judge-garlands-nomination)
+
+## Seventeen State Attorneys General Announce ExxonMobil Climate Fraud Investigations
+*Date: 2016-03-29*
+
+1. [Climate Fraud Investigation of Exxon Draws Attention of 17 Attorneys General](https://insideclimatenews.org/news/30032016/climate-change-fraud-investigation-exxon-eric-shneiderman-18-attorneys-general/)
+2. [State Investigations Into What Exxon Knew Double, and Exxon Gets Defensive](https://www.desmog.com/2016/04/01/more-state-attorneys-general-investigate-exxon-exxon-gets-defensive/)
+3. [Attorney General's Office Exxon Investigation](https://www.mass.gov/lists/attorney-generals-office-exxon-investigation)
+4. [20 Attorneys General Launch Climate Fraud Investigation of Exxon](https://www.ecowatch.com/20-attorneys-general-launch-climate-fraud-investigation-of-exxon-1882200092.html)
 
 ## JD Vance Joins Peter Thiel's Mithril Capital as Principal
 *Date: 2016-04-01*
@@ -3888,6 +6386,13 @@
 3. [Panama Papers: Months of Investigations Reveal Global Offshore Secrets](https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore)
 4. [Panama Papers: Global Reaction to Massive Offshore Leak](https://www.bbc.com/news/world-35918844)
 
+## Dennis Hastert Sentenced to 15 Months, Judge Calls Him 'Serial Child Molester'
+*Date: 2016-04-27*
+
+1. [Former House Speaker Dennis Hastert Sentenced To 15 Months In Prison](https://www.npr.org/2016/04/27/475923625/former-house-speaker-dennis-hastert-sentenced-to-15-months-in-prison)
+2. [Hastert sentenced to 15 months in jail as he faced accuser](https://www.pbs.org/newshour/nation/hastert-sentenced-to-15-months-in-jail-as-he-faced-accuser)
+3. [Dennis Hastert Sentenced to 15 Months in Prison, Admits to Sexual Abuse](https://news.wttw.com/2016/04/27/dennis-hastert-sentenced-15-months-prison-admits-sexual-abuse)
+
 ## Paul Manafort Shares Trump Campaign Data with Russian Agent Konstantin Kilimnik
 *Date: 2016-05-01*
 
@@ -3923,12 +6428,40 @@
 1. [Butina Boss Alexander Torshin - The Kremlin's No-Longer-Secret Weapon](https://www.thedailybeast.com/butina-boss-alexander-torshin-the-kremlins-no-longer-secret-weapon/)
 2. [Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme](https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme)
 
+## Judge Unseals Trump University Documents Revealing Predatory Sales Playbook Targeting Vulnerable Consumers
+*Date: 2016-05-31*
+
+1. [Trump University Playbooks Released By Court Advise Being Courteous To Media](https://www.npr.org/sections/thetwo-way/2016/05/31/480214102/trump-university-playbooks-released-by-court-advise-being-courteous-to-media)
+2. [Inside the Trump University Sales Playbook](https://abcnews.go.com/Politics/trump-university-lawsuit-documents-released/story?id=39506555)
+3. [Trump University Staffers Describe Fraudulent Scheme In New Court Documents](https://www.nbcnews.com/politics/2016-election/trump-university-staffers-describe-fraudulent-scheme-new-court-documents-n584071)
+
 ## Paul Manafort Shares Trump Campaign Data with Russian Intelligence
 *Date: 2016-06-01*
 
 1. [Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With Russia](https://www.npr.org/2020/08/18/903512647/senate-report-former-trump-aide-paul-manafort-shared-campaign-info-with-russia)
 2. [U.S. Says Russia Was Given Trump Campaign Polling Data in 2016](https://www.pbs.org/newshour/politics/u-s-says-russia-was-given-trump-campaign-polling-data-in-2016)
 3. [Treasury: Manafort Associate Passed 'Sensitive' Campaign Data to Russian Intelligence](https://thehill.com/policy/national-security/548447-treasury-manafort-russian-intelligence-trump-campaign-2016/)
+
+## Trump University Victims Testify to Losing Retirement Savings, Disability Income to Fraudulent Scheme
+*Date: 2016-06-01*
+
+1. [Trump University Staffers Describe Fraudulent Scheme In New Court Documents](https://www.nbcnews.com/politics/2016-election/trump-university-staffers-describe-fraudulent-scheme-new-court-documents-n584071)
+2. [Trump University A Look at an Enduring Education Scandal](https://www.americanprogress.org/article/trump-university-look-enduring-education-scandal/)
+3. [A Total Lie How Trump University Exploited Working Americans](https://medium.com/to-the-left/a-total-lie-77e2da0294cf)
+
+## Trump Attacks Federal Judge Curiel as "Mexican" Despite Indiana Birth, Paul Ryan Calls It "Textbook Racism"
+*Date: 2016-06-02*
+
+1. [Who Is Judge Gonzalo Curiel, The Man Trump Attacked For His Mexican Ancestry?](https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry)
+2. [Donald Trump's racial comments about Hispanic judge in Trump University case](https://www.politifact.com/article/2016/jun/08/donald-trumps-racial-comments-about-judge-trump-un/)
+3. [Trump's attacks on Judge Curiel are still jarring to read](https://www.cnn.com/2018/02/27/politics/judge-curiel-trump-border-wall/index.html)
+
+## Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organization Businesses
+*Date: 2016-06-07*
+
+1. [How Donald Trump Shifted Kids-Cancer Charity Money Into His Business](https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/)
+2. [The Verbal Gymnastics Of The Eric Trump Foundation](https://www.forbes.com/sites/danalexander/2016/09/29/the-verbal-gymnastics-of-the-eric-trump-foundation/)
+3. [Eric Trump foundation paid Trump businesses at least $1.2 million for charity golf events](https://www.washingtonpost.com/politics/eric-trump-foundation-paid-trump-businesses-at-least-12-million-for-charity-golf-events-new-filing-shows/2017/06/27/0609c968-5b09-11e7-a9f6-7c3296387341_story.html)
 
 ## Trump Jr. Accepts Meeting Explicitly Framed as "Russia and Its Government's Support"
 *Date: 2016-06-09*
@@ -4014,12 +6547,99 @@
 2. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
 3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
 
+## ITT Tech Closes All 130 Campuses - 35,000 Students Stranded With Worthless Degrees and Non-Dischargeable Debt
+*Date: 2016-09-06*
+
+1. [ITT Tech Is Shutting Down All Of Its Campuses](https://www.npr.org/sections/thetwo-way/2016/09/06/492819673/large-for-profit-itt-technical-institutes-will-close-its-doors)
+2. [Information for ITT Technical Institute Students](https://studentaid.gov/announcements-events/itt)
+3. [ITT Technical Institutes suddenly closes its doors, leaving thousands of students scrambling](https://www.pbs.org/newshour/education/ITT-technical-institutes-suddenly-closes-doors)
+
+## Wells Fargo Fined $185 Million for Creating 2 Million Fake Accounts
+*Date: 2016-09-08*
+
+1. [CFPB Enforcement Action: Wells Fargo Bank, N.A.](https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/)
+2. [Consumer Financial Protection Bureau Fines Wells Fargo $100 Million](https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-fines-wells-fargo-100-million-widespread-illegal-practice-secretly-opening-unauthorized-accounts/)
+3. [Wells Fargo Fined $185 Million Over Creation Of Fake Accounts For Bonuses](https://www.npr.org/sections/thetwo-way/2016/09/08/493130449/wells-fargo-to-pay-around-190-million-over-fake-accounts-that-sparked-bonuses)
+
+## Washington Post Investigation Reveals Trump Foundation Used for Self-Dealing and Business Settlements
+*Date: 2016-09-13*
+
+1. [Trump used $258,000 from his charity to settle legal problems](https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html)
+2. [How Donald Trump retooled his charity to spend other people's money](https://www.washingtonpost.com/politics/how-donald-trump-retooled-his-charity-to-spend-other-peoples-money/2016/09/10/da8cce64-75df-11e6-8149-b8d05321db62_story.html)
+3. [David Fahrenthold Pulitzer Prize Citation](https://www.pulitzer.org/winners/david-fahrenthold)
+
+## Oliver Stone's "Snowden" Film Brings NSA Whistleblower Story to Mainstream Audiences
+*Date: 2016-09-16*
+
+1. [Movie Review: Oliver Stone's 'Snowden'](https://www.npr.org/2016/09/16/494199388/movie-review-oliver-stones-snowden)
+2. [In 'Snowden,' the national security whistleblower gets the Oliver Stone treatment](https://www.washingtonpost.com/goingoutguide/movies/in-snowden-the-national-security-whistleblower-gets-the-oliver-stone-treatment/2016/09/15/8f2ebde4-78e9-11e6-ac8e-cf8e0dd91dc7_story.html)
+3. [Snowden movie review & film summary (2016)](https://www.rogerebert.com/reviews/snowden-2016)
+
+## CEO Stumpf Testifies Before Senate, Elizabeth Warren Demands Resignation
+*Date: 2016-09-20*
+
+1. ['You Should Resign': Watch Sen. Elizabeth Warren Grill Wells Fargo CEO](https://www.npr.org/sections/thetwo-way/2016/09/20/494738797/you-should-resign-watch-sen-elizabeth-warren-grill-wells-fargo-ceo-john-stumpf)
+2. [Senator Elizabeth Warren Questions Wells Fargo CEO John Stumpf](https://www.warren.senate.gov/newsroom/videos/watch/senator-elizabeth-warren-questions-wells-fargo-ceo-john-stumpf-at-banking-committee-hearing)
+3. [Sen. Elizabeth Warren on Wells Fargo CEO Stumpf: Gutless leadership](https://www.cnbc.com/2016/09/20/senator-warren-on-wells-fargo-ceo-gutless-leadership.html)
+
+## Wells Fargo Claws Back $41 Million from Stumpf's Compensation
+*Date: 2016-09-27*
+
+1. [Wells Fargo Claws Back $75 Million More From 2 Executives](https://www.npr.org/sections/thetwo-way/2017/04/10/523254069/wells-fargo-claws-back-75-million-more-from-2-executives-over-fake-accounts)
+2. [Wells Fargo CEO John Stumpf Forfeits $41 Million](https://www.cnbc.com/2016/09/27/wells-fargo-ceo-john-stumpf-forfeits-41-million.html)
+3. [Wells Fargo CEO John Stumpf Walks With $130 Million](https://money.cnn.com/2016/10/13/investing/wells-fargo-ceo-resigns-compensation/index.html)
+
+## Council of Economic Advisers: Market Power Suppresses Wages, Contributes to $1+ Trillion in Lost Worker Income
+*Date: 2016-10-01*
+
+1. [Labor Market Monopsony: Trends, Consequences, and Policy Responses](https://obamawhitehouse.archives.gov/sites/default/files/page/files/20161025_monopsony_labor_mrkt_cea.pdf)
+2. [It's not just monopoly and monopsony: How market power has affected American wages](https://www.epi.org/publication/its-not-just-monopoly-and-monopsony-how-market-power-has-affected-american-wages/)
+3. [What Drives Wage Stagnation: Monopsony or Monopoly?](https://www.census.gov/library/working-papers/2022/adrm/CES-WP-22-45.html)
+
 ## Rybolovlev demolishes Trump's former Palm Beach mansion; property later subdivided and sold
 *Date: 2016-10-01*
 
 1. [Russian fertiliser tycoon buys Florida mansion](https://www.reuters.com/article/russia-florida-property/russian-fertiliser-tycoon-buys-florida-mansion-idUKL2125594120080621/)
 2. [Last Lot of Former Trump Estate in Palm Beach Sells for $37.29 Million](https://www.mansionglobal.com/articles/last-lot-of-former-trump-estate-in-palm-beach-sells-for-37-29-million-204941)
 3. [Donald Trump's $US95 million Palm Beach mega‑mansion faces the wrecking ball](https://www.afr.com/property/donald-trumps-us95-million-palm-beach-megamansion-faces-the-wrecking-ball-20160407-go0aq9)
+
+## New York Attorney General Orders Trump Foundation to Immediately Cease Fundraising
+*Date: 2016-10-03*
+
+1. [AG Schneiderman Issues Cease And Desist Order To Trump Foundation](https://ag.ny.gov/press-release/2016/ag-schneiderman-issues-cease-and-desist-order-trump-foundation)
+2. [New York Attorney General Tells Trump Foundation to Stop Raising Money](https://www.nytimes.com/2016/10/04/us/politics/donald-trump-foundation.html)
+3. [New York attorney general orders Trump Foundation to stop fundraising](https://www.washingtonpost.com/politics/new-york-attorney-general-orders-trump-foundation-to-stop-fundraising/2016/10/03/1ea3i7be-896a-11e6-b57d-dd49277af02f_story.html)
+
+## Washington Post Releases Access Hollywood Tape
+*Date: 2016-10-07*
+
+1. [Trump recorded having extremely lewd conversation about women in 2005](https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html)
+2. [Donald Trump Access Hollywood tape](https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape)
+3. [In context: Donald Trump's lewd remarks from 2005](https://www.politifact.com/article/2016/oct/08/context-donald-trumps-lewd-remarks-2005/)
+4. [David A. Fahrenthold of The Washington Post](https://www.pulitzer.org/winners/david-fahrenthold)
+
+## Republicans Withdraw Support for Trump After Access Hollywood Tape
+*Date: 2016-10-07*
+
+1. [Paul Ryan said he won't defend Donald Trump](https://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html)
+2. [McCain Joins Growing Ranks of Republicans Withdrawing Support for Trump](https://abcnews.go.com/Politics/republican-lawmakers-condemn-trumps-leaked-comments-groping-women/story?id=42657879)
+3. [Jason Chaffetz, Utah Republican, drops support for Trump](https://www.washingtontimes.com/news/2016/oct/8/chaffetz-drops-support-trump-over-candidates-comme/)
+4. [Paul Ryan Told Republicans They Could Drop Support For Trump In Wake Of Access Hollywood Tape](https://www.axios.com/2019/04/07/trump-paul-ryan-2016-election-access-hollywood)
+
+## Rumors Surface of Apprentice Outtakes Showing Trump Using N-Word, Burnett Refuses Release
+*Date: 2016-10-08*
+
+1. [What Tom Arnold, Omarosa and Trump have said about the alleged 'Apprentice' tapes](https://abcnews.go.com/US/alleged-trump-apprentice-tapes/story?id=57192712)
+2. [Tom Arnold says he has 'Apprentice' tapes of Trump saying "n*gger" and "retard"](https://www.mic.com/articles/160460/tom-arnold-says-he-has-apprentice-tapes-of-trump-saying-n-gger-and-retard)
+3. [Mark Burnett's Response to 'The Apprentice,' Donald Trump Pressure](https://variety.com/2016/tv/news/mark-burnett-response-the-apprentice-donald-trump-footage-tapes-1201884255/)
+
+## Trump Stages Pre-Debate Event with Bill Clinton Accusers
+*Date: 2016-10-09*
+
+1. [Trump appears with Bill Clinton accusers before debate](https://www.cnn.com/2016/10/09/politics/donald-trump-juanita-broaddrick-paula-jones-facebook-live-2016-election/index.html)
+2. [Trump Appears With Bill Clinton Accusers Ahead of Debate](https://abcnews.go.com/Politics/trump-appears-bill-clinton-accusers-ahead-debate/story?id=42686583)
+3. [Ahead of debate, Trump holds news conference with Bill Clinton accusers](https://www.washingtonpost.com/news/post-politics/wp/2016/10/09/ahead-of-debate-trump-holds-news-conference-with-bill-clinton-accusers/)
+4. [Trump Planned Debate Stunt, Invited Bill Clinton Accusers to Rattle Hillary](https://www.nbcnews.com/storyline/2016-presidential-debates/trump-planned-debate-stunt-invited-bill-clinton-accusers-rattle-hillary-n663481)
 
 ## Carl Icahn Closes Trump Taj Mahal Casino After Prolonged Labor Dispute
 *Date: 2016-10-10*
@@ -4034,6 +6654,13 @@
 1. [Facebook, Instagram, and Twitter Provided Data Access for a Surveillance Product Marketed to Target Activists of Color](https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target)
 2. [Facebook, Twitter cut off data access for Geofeedia, a social media surveillance startup](https://techcrunch.com/2016/10/11/facebook-twitter-cut-off-data-access-for-geofeedia-a-social-media-surveillance-startup/)
 3. [Facebook, Twitter, Instagram Block Geofeedia Tool Used for Police Surveillance](https://www.nbcnews.com/tech/internet/facebook-twitter-instagram-block-geofeedia-tool-used-police-surveillance-n664706)
+
+## Stumpf Resigns as CEO, Retains Over $130 Million in Compensation
+*Date: 2016-10-12*
+
+1. [Wells Fargo CEO John Stumpf Resigns Amid Scandal](https://www.npr.org/sections/thetwo-way/2016/10/12/497729371/wells-fargo-ceo-john-stumpf-resigns-amid-scandal)
+2. [John Stumpf's 34-Year Tenure Ends At Wells Fargo Amid Banking Scandal](https://www.npr.org/2016/10/13/497775025/john-sumpfs-34-year-tenure-ends-at-wells-fargo-amid-banking-scandal)
+3. [Wells Fargo CEO John Stumpf Walks With $130 Million](https://money.cnn.com/2016/10/13/investing/wells-fargo-ceo-resigns-compensation/index.html)
 
 ## Cohen Creates Essential Consultants LLC for Stormy Daniels Payment
 *Date: 2016-10-17*
@@ -4051,6 +6678,13 @@
 3. [Banker Gary Farro testifies about urgent request from Michael Cohen](https://www.washingtontimes.com/news/2024/apr/26/banker-gary-farro-testifies-about-urgent-request-m/)
 4. [Trump hush money trial highlights - Michael Cohen testifies about directed payment](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898)
 
+## Boeing Obtains FAA Approval to Conceal MCAS System from Pilot Manuals and Training
+*Date: 2016-11-01*
+
+1. [Flawed Analysis, Failed Oversight - How Boeing, FAA Certified the Suspect 737 MAX Flight Control System](https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/)
+2. [The Design, Development & Certification of the Boeing 737 MAX](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
+3. [The Boeing 737 MAX - Lessons for Engineering Ethics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/)
+
 ## National Enquirer Shreds Trump Documents from Safe After WSJ Inquiry
 *Date: 2016-11-04*
 
@@ -4059,12 +6693,33 @@
 3. [AP: National Enquirer Kept Damaging Trump Stories in Safe](https://www.cbsnews.com/news/ap-national-enquirer-kept-damaging-trump-stories-hush-money-papers-in-safe/)
 4. [Ronan Farrow Book Reveals National Enquirer's Trump Document Destruction](https://www.npr.org/2024/06/06/g-s1-3170/ronan-farrow-me-too-trump-weinstein-catch-and-kill)
 
+## Trump Settles Trump University Fraud Cases for $25 Million, 10 Days After Election Victory
+*Date: 2016-11-18*
+
+1. [Trump agrees to $25 million settlement in Trump University fraud cases](https://www.washingtonpost.com/politics/source-trump-nearing-settlement-in-trump-university-fraud-cases/2016/11/18/8dc047c0-ada0-11e6-a31b-4b6397e625d0_story.html)
+2. [Federal court approves $25 million Trump University settlement](https://www.nbcnews.com/politics/white-house/federal-court-approves-25-million-trump-university-settlement-n845181)
+3. [Trump University](https://en.wikipedia.org/wiki/Trump_University)
+
+## Amazon launches Rekognition facial recognition service, targeting law enforcement
+*Date: 2016-11-30*
+
+1. [Introducing Amazon Rekognition](https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-rekognition/)
+2. [Amazon launches Amazon AI to bring its machine learning smarts to developers](https://techcrunch.com/2016/11/30/amazon-launches-amazon-ai-to-bring-its-machine-learning-smarts-to-developers/)
+3. [Amazon Teams Up With Government to Deploy Dangerous New Facial Recognition Technology](https://www.aclu.org/news/privacy-technology/amazon-teams-government-deploy-dangerous-new)
+
 ## Saudi Lobbyists Book 500 Rooms at Trump Hotel After Election
 *Date: 2016-12-01*
 
 1. [Federal Watchdog Finds Potential Emoluments Clause Violations at Trump Hotel](https://www.npr.org/2019/01/16/685977471/federal-watchdog-finds-government-ignored-emoluments-clause-with-trump-hotel)
 2. [Foreign Officials Spent Over $750,000 at Trump's D.C. Hotel During Presidency](https://www.npr.org/2022/11/14/1136682162/foreign-officials-750-000-dollars-trump-hotel-dc)
 3. [Trump's Hotel Made Millions From Foreign Governments During Term](https://www.bloomberg.com/news/articles/2024-01-04/trump-hotels-made-millions-from-foreign-governments-during-term)
+
+## Banking Committee Chairman Shelby Advocates for Financial CHOICE Act to Gut Dodd-Frank
+*Date: 2016-12-01*
+
+1. [Ex-chair of Senate Banking panel to retire after 2022 midterms](https://www.americanbanker.com/news/ex-chair-of-senate-banking-panel-to-retire-after-2022-midterms)
+2. [Sen. Richard Shelby evolved and thrived over 44 years in Congress](https://www.washingtonpost.com/politics/2022/12/24/richard-shelby-senator-retirement/)
+3. [Alabama Sen. Richard Shelby announces he will retire after 2022](https://rollcall.com/2021/02/08/alabama-sen-richard-shelby-announces-he-will-retire-after-2022/)
 
 ## VEB Chairman Gorkov meets Kushner at Trump Tower
 *Date: 2016-12-13*
@@ -4073,6 +6728,13 @@
 2. [Jared Kushner's meeting with Russian banker: What we know](https://www.cnn.com/2017/06/02/politics/jared-kushner-russian-banker-what-we-know/index.html)
 3. [Explanations for Kushner's meeting with head of Kremlin-linked bank don't match up](https://www.washingtonpost.com/politics/explanations-for-kushners-meeting-with-head-of-kremlin-linked-bank-dont-match-up/2017/06/01/dd1bdbb0-460a-11e7-bcde-624ad94170ab_story.html)
 4. [Why Did Russia Send Sergei Gorkov to Meet With Jared Kushner?](https://foreignpolicy.com/2017/07/25/why-did-russia-send-sergei-gorkov-to-meet-with-jared-kushner/)
+
+## Amazon Pays Zero Federal Income Tax on $5.6 Billion Profit
+*Date: 2017-01-01*
+
+1. [Amazon Inc. Paid Zero in Federal Taxes in 2017, Gets $789 Million Windfall from New Tax Law](https://itep.org/amazon-inc-paid-zero-in-federal-taxes-in-2017-gets-789-million-windfall-from-new-tax-law/)
+2. [Amazon earned $5.6B in 2017, but paid no federal taxes](https://www.foxbusiness.com/markets/amazon-earned-5-6b-in-2017-but-paid-no-federal-taxes)
+3. [Chart: Amazon Paid $0 In Federal Income Taxes Last Year](https://www.statista.com/chart/17049/amazons-us-pretax-profit-and-effective-tax-rate/)
 
 ## Hacker Steals 900 GB of Data from Cellebrite, Exposing Customer Information and Technical Details
 *Date: 2017-01-01*
@@ -4181,6 +6843,27 @@
 1. [President-Elect Trump Announces Plan To Address Business Conflicts](https://www.npr.org/2017/01/11/509179572/president-elect-trump-announces-plan-to-address-business-conflicts)
 2. [Is Trump's plan for his company enough to avoid conflicts of interest?](https://www.pbs.org/newshour/show/trumps-plan-company-enough-avoid-conflicts-interest)
 
+## 28 States Adopt Right-to-Work Laws, Documenting ALEC's Systematic Labor Suppression Success
+*Date: 2017-01-14*
+
+1. [2017 is Right-to-Work's Watershed Year](https://alec.org/article/2017-is-right-to-works-watershed-year/)
+2. [Impacts of Right-to-Work Laws on Unionization and Wages](https://www.nber.org/digest/202208/impacts-right-work-laws-unionization-and-wages)
+3. [ALEC's decades of 'right-to-work' effort pay off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/)
+
+## DeVos Confirmation Hearing Reveals Investments in Student Debt Collection - Ethics Review Incomplete
+*Date: 2017-01-17*
+
+1. [Inside the Financial Holdings of Billionaire Betsy DeVos](https://www.americanprogress.org/article/inside-the-financial-holdings-of-billionaire-betsy-devos/)
+2. [In Betsy DeVos, Critics See A Threat To Public Education](https://www.npr.org/2017/01/17/510267306/in-betsy-devos-critics-see-a-threat-to-public-education)
+3. [CFPB Takes Action Against Debt Collector Performant Financial Corporation](https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-debt-collector-performant-financial-corporation-for-illegal-student-loan-servicing-practices/)
+
+## Obama Commutes Chelsea Manning's Sentence After Brutal Imprisonment
+*Date: 2017-01-17*
+
+1. [President Obama's Commutation Most Likely Saved Her Life](https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings)
+2. [Commutation for Chelsea Manning Positive Step](https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/)
+3. [President Obama Commutes Chelsea Manning's Sentence](https://www.nbcnews.com/news/us-news/president-obama-commutes-chelsea-manning-s-sentence-n708046)
+
 ## Goldman Sachs Alumni Take Control of Trump Economic Policy
 *Date: 2017-01-20*
 
@@ -4222,6 +6905,13 @@
 1. [Mar-a-Lago membership fee doubles to $400,000](https://www.cnbc.com/2017/01/25/mar-a-lago-membership-fee-doubles-to-400000.html)
 2. [The Swamp That Trump Built at Mar-a-Lago](https://www.nytimes.com/2019/03/16/us/mar-a-lago-trump.html)
 3. [Chinese woman with malware arrested at Mar-a-Lago](https://www.bbc.com/news/world-us-canada-47787753)
+
+## Trump Appoints Ajit Pai as FCC Chairman, Installing Former Verizon Lawyer to Regulate His Former Employer
+*Date: 2017-01-23*
+
+1. [Biography of Former Chairman Ajit Pai](https://www.fcc.gov/biography-former-chairman-ajit-pai)
+2. [FCC Chairman Under Trump Is Ajit Pai, Critic Of Net Neutrality Rules](https://www.npr.org/sections/thetwo-way/2017/01/23/510844936/trumps-telecom-chief-is-ajit-pai-critic-of-net-neutrality-rules)
+3. [Ajit Pai named as new FCC chairman](https://money.cnn.com/2017/01/23/technology/trump-fcc-chairman/)
 
 ## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
 *Date: 2017-01-27*
@@ -4351,6 +7041,13 @@
 3. [Former Romney Adviser Worked on Burisma Board With Hunter Biden](https://www.redstate.com/nick-arama/2020/02/06/former-romney-adviser-worked-on-burisma-board-with-hunter-biden/)
 4. [Top Romney Adviser Worked With Hunter Biden On Board Of Ukrainian Energy Company](https://thefederalist.com/2019/09/26/top-romney-adviser-worked-with-hunter-biden-on-board-of-ukrainian-energy-company/)
 
+## Washington Post Launches "Democracy Dies in Darkness" Slogan Under Bezos Ownership
+*Date: 2017-02-22*
+
+1. [Democracy Dies in Darkness](https://en.wikipedia.org/wiki/Democracy_Dies_in_Darkness)
+2. [The Washington Post: 'Democracy dies in darkness'](https://thehill.com/homenews/media/320619-the-washington-post-democracy-dies-in-darkness/)
+3. [Washington Post sells itself to readership with new slogan](https://www.cbsnews.com/news/the-washington-post-introduces-its-new-slogan/)
+
 ## Private Prison Stocks Soar as CoreCivic, GEO Donate $2.8M to Trump
 *Date: 2017-02-23*
 
@@ -4462,6 +7159,13 @@
 1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
 2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
 
+## Judge Curiel Approves $25 Million Trump University Settlement, Victims to Receive 90% Refunds
+*Date: 2017-03-31*
+
+1. [Judge Approves $25 Million Settlement Of Trump University Lawsuit](https://www.npr.org/sections/thetwo-way/2017/03/31/522199535/judge-approves-25-million-settlement-of-trump-university-lawsuit)
+2. [Court Approval of $25 million Settlement in Trump University Case](https://www.rgrdlaw.com/news-item-Approval-of-25-million-Settlement-in-Trump-University-Case-033117.html)
+3. [Trump University](https://en.wikipedia.org/wiki/Trump_University)
+
 ## Steve Bannon Removed from National Security Council After Unprecedented Political Appointment Sparked Bipartisan Outrage
 *Date: 2017-04-05*
 
@@ -4482,6 +7186,14 @@
 1. [Trump Orders Syria Airstrikes After 'Assad Choked Out The Lives' Of Civilians](https://www.npr.org/2017/04/06/522948481/u-s-launches-airstrikes-against-syria-after-chemical-attack)
 2. [Trump: Why I launched a missile Strike on Syria](https://www.nbcnews.com/politics/white-house/trump-why-i-launched-missile-attack-syria-n743656)
 3. [U.S. fires missiles into Syria in first attack on Assad regime](https://www.pbs.org/newshour/world/u-s-fires-missiles-syria-first-attack-assad-regime)
+
+## McConnell Invokes Nuclear Option, Eliminates Filibuster for Supreme Court Nominees, Gorsuch Confirmed 54-45
+*Date: 2017-04-07*
+
+1. [Senate Pulls Nuclear Trigger To Ease Gorsuch Confirmation](https://www.npr.org/2017/04/06/522847700/senate-pulls-nuclear-trigger-to-ease-gorsuch-confirmation)
+2. [McConnell Went Nuclear to Confirm Gorsuch But Democrats Changed Senate Filibuster Rules First](https://www.nbcnews.com/politics/donald-trump/mcconnell-went-nuclear-confirm-gorsuch-democrats-changed-senate-filibuster-rules-n887271)
+3. [GOP Triggers Nuclear Option on Neil Gorsuch Nomination](https://www.cnn.com/2017/04/06/politics/senate-nuclear-option-neil-gorsuch/index.html)
+4. [Nuclear Option](https://en.wikipedia.org/wiki/Nuclear_option)
 
 ## Taser International Rebrands as Axon, Offers Free Body Cameras to Every US Police Officer in Aggressive Market Expansion
 *Date: 2017-04-07*
@@ -4561,6 +7273,13 @@
 3. [NY AG Secures Settlement from Companies Supplying Fake Comments](https://www.insurancejournal.com/news/east/2023/05/11/720346.htm)
 4. [FCC Net Neutrality Process Corruption Report](https://circleid.com/posts/20210507-millions-of-net-neutrality-comments-received-by-fcc-were-fake)
 
+## Boeing Delivers First 737 MAX Despite Internal Safety Concerns About MCAS
+*Date: 2017-05-16*
+
+1. [Boeing 737 MAX - First Delivery to Malindo Air](https://en.wikipedia.org/wiki/Boeing_737_MAX)
+2. [Southwest Airlines Proposed Ploy to Deceive FAA on Boeing 737 MAX](https://www.seattletimes.com/business/boeing-aerospace/legal-filing-reveals-southwest-airlines-proposed-a-ploy-to-deceive-faa-on-boeing-737-max/)
+3. [The Doomed Planes "Designed By Clowns Supervised by Monkeys"](https://www.flyertalk.com/articles/designed-by-clowns-supervised-by-monkeys.html)
+
 ## Rosenstein Appoints Robert Mueller as Special Counsel for Russia Investigation - Direct Response to Trump's Obstruction
 *Date: 2017-05-17*
 
@@ -4574,6 +7293,28 @@
 1. [Trump announces U.S. withdrawal from Paris climate accord](https://www.washingtonpost.com/news/post-politics/wp/2017/06/01/trump-to-announce-u-s-will-exit-paris-climate-deal/)
 2. [Trump Abandons Paris Climate Agreement](https://www.nytimes.com/2017/06/01/climate/trump-paris-climate-agreement.html)
 3. [U.S. formally exits Paris climate agreement](https://www.npr.org/2020/11/04/930545670/u-s-officially-leaving-paris-climate-agreement)
+
+## Reality Winner Arrested for Leaking Russian Election Interference Report
+*Date: 2017-06-03*
+
+1. [Whistleblower Reality Winner Pleads Guilty](https://theintercept.com/2018/06/26/reality-winner-plea-deal/)
+2. [NSA Whistleblower Reality Winner Released From Prison](https://theintercept.com/2021/06/14/reality-winner-released-prison/)
+3. [She warned America that Russia hacked our voting rolls](https://www.inquirer.com/philly/columnists/will_bunch/free-reality-winner-whistleblower-american-hero-20180724.html)
+
+## Office of Special Counsel Finds White House Social Media Director Dan Scavino Violated Hatch Act with Political Tweet Attacking Congressman
+*Date: 2017-06-09*
+
+1. [White House social-media director Dan Scavino violated Hatch Act with tweet targeting GOP congressman](https://www.washingtonpost.com/news/post-politics/wp/2017/06/09/white-house-social-media-director-dan-scavino-violated-hatch-act-with-tweet-targeting-gop-congressman/)
+2. [Dan Scavino, White House Social Media Director, Violated Hatch Act - OSC](https://www.nbcnews.com/politics/politics-news/dan-scavino-white-house-social-media-director-violated-hatch-act-n770461)
+3. [Scavino reprimanded for Hatch Act violation](https://www.citizensforethics.org/news/press-releases/scavino-reprimanded-hatch-act-violation/)
+4. [White House social media director reprimanded over political tweet](https://abcnews.go.com/Politics/white-house-social-media-director-reprimanded-political-tweet/story?id=47941037)
+
+## DeVos Freezes Borrower Defense Rule Protecting Defrauded Students - States Sue for Unlawful Delay
+*Date: 2017-06-14*
+
+1. [18 States Sue Betsy DeVos And Education Dept. Over Delay Of Borrower Defense Rule](https://www.npr.org/sections/thetwo-way/2017/07/06/535776573/18-states-sue-betsy-devos-and-education-dept-over-delay-of-borrower-defense-rule)
+2. [Attorney General Becerra and 18 State Attorneys General Sue Betsy DeVos](https://oag.ca.gov/news/press-releases/attorney-general-becerra-and-18-state-attorneys-general-sue-betsy-devos-and-us)
+3. [Betsy DeVos freezes Obama-era protections for student borrowers](https://www.pbs.org/newshour/education/betsy-devos-freezes-obama-era-protections-student-borrowers)
 
 ## Kansas City Fed Denies Reserve Trust Master Account Amid Potential Regulatory Capture
 *Date: 2017-06-15*
@@ -4622,6 +7363,20 @@
 2. [Flock Safety Y Combinator profile](https://www.ycombinator.com/companies/flock-safety)
 3. [Flock Safety Wikipedia](https://en.wikipedia.org/wiki/Flock_Safety)
 
+## Courts Strike Down North Carolina Racial Gerrymandering, Legislature Redraws With Explicit Partisan Intent
+*Date: 2017-08-01*
+
+1. [Accused Of Racial Gerrymandering, North Carolina's New Maps Also Under Scrutiny](https://www.npr.org/2017/08/30/547065920/under-pressure-north-carolina-draws-new-voting-maps)
+2. [North Carolina v. Covington](https://www.brennancenter.org/our-work/court-cases/north-carolina-v-covington)
+3. [Common Cause v. Lewis](https://www.commoncause.org/north-carolina/work/common-cause-v-lewis/)
+
+## White Supremacist Rally in Charlottesville Ends with Heather Heyer Murdered by Neo-Nazi
+*Date: 2017-08-12*
+
+1. [Ohio Man Sentenced to Life in Prison for Federal Hate Crimes Related to August 2017 Car Attack at Rally in Charlottesville, Virginia](https://www.justice.gov/archives/opa/pr/ohio-man-sentenced-life-prison-federal-hate-crimes-related-august-2017-car-attack-rally)
+2. [Charlottesville Jury Convicts 'Unite The Right' Protester Who Killed Woman](https://www.npr.org/2018/12/07/674672922/james-alex-fields-unite-the-right-protester-who-killed-heather-heyer-found-guilt)
+3. [Man who drove into Charlottesville protest, killing Heather Heyer, convicted of first-degree murder](https://www.pbs.org/newshour/nation/man-who-drove-into-charlottesville-protest-killing-heather-heyer-convicted-of-first-degree-murder)
+
 ## Nick Fuentes Attends Unite the Right Rally in Charlottesville
 *Date: 2017-08-12*
 
@@ -4633,6 +7388,20 @@
 
 1. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
 2. [White Power Rising: The Making of Nick Fuentes](https://globalextremism.org/post/the-making-of-nick-fuentes/)
+
+## Trump Defends White Nationalists with "Very Fine People On Both Sides" Remarks
+*Date: 2017-08-15*
+
+1. [Transcript: Trump Shifts Tone Again On Charlottesville In Press Conference](https://www.npr.org/2017/08/15/543769884/transcript-trump-shifts-tone-again-on-white-nationalist-rally-in-charlottesville)
+2. [In Context: Donald Trump's 'very fine people on both sides' remarks (transcript)](https://www.politifact.com/article/2019/apr/26/context-trumps-very-fine-people-both-sides-remarks/)
+3. [Trump lashes out at 'alt-left' in Charlottesville, says 'fine people on both sides'](https://abcnews.go.com/Politics/trump-lashes-alt-left-charlottesville-fine-people-sides/story?id=49235032)
+
+## Treasury Secretary Mnuchin Uses Military Jet for Solar Eclipse Viewing Trip to Kentucky
+*Date: 2017-08-21*
+
+1. [Ethics group wants to know what led Mnuchin to view eclipse in Kentucky](https://www.washingtonpost.com/business/economy/mnuchin-viewed-eclipse-from-roof-of-fort-knox/2017/08/24/1b6ba9b4-8903-11e7-a50f-e0d4e6ec070a_story.html)
+2. [Treasury inspector general to review Mnuchin's flight to Fort Knox](https://www.washingtonpost.com/business/economy/treasury-inspector-general-to-review-mnuchin-flight-to-ft-knox/2017/08/31/d9e122d4-8eb2-11e7-91d5-ab4e4bb76a3a_story.html)
+3. [Steve Mnuchin, Linton May Have Used Plane to Watch Eclipse](https://time.com/4915080/watchdog-steven-mnuchin-louise-linton-trip-eclipse/)
 
 ## FTC Approves Amazon-Whole Foods Merger Despite Monopolization Concerns
 *Date: 2017-08-23*
@@ -4641,6 +7410,13 @@
 2. [Amazon-Whole Foods merger gets green light from U.S. government](https://money.cnn.com/2017/08/23/investing/amazon-whole-foods-ftc-approval/index.html)
 3. [Amazon Takeover Of Whole Foods Gets Key Federal Approval](https://www.npr.org/sections/thetwo-way/2017/08/24/545775588/amazon-takeover-of-whole-foods-gets-key-federal-approval)
 
+## Wells Fargo Revises Fake Account Count to 3.5 Million, Up 67%
+*Date: 2017-08-31*
+
+1. [Wells Fargo Admits To Nearly Twice As Many Possible Fake Accounts — 3.5 Million](https://www.npr.org/sections/thetwo-way/2017/08/31/547550804/wells-fargo-admits-to-nearly-twice-as-many-possible-fake-accounts-3-5-million)
+2. [Wells Fargo Boosts Fake-Account Estimate 67% to 3.5 Million](https://www.bloomberg.com/news/articles/2017-08-31/wells-fargo-increases-fake-account-estimate-67-to-3-5-million)
+3. [CFPB Enforcement Action: Wells Fargo Bank, N.A.](https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/)
+
 ## Facebook Admits Russians Bought $100,000 in Ads to Influence 2016 Election
 *Date: 2017-09-01*
 
@@ -4648,6 +7424,21 @@
 2. [Facebook sold ads to Russian company during 2016 election](https://www.cnn.com/2017/09/06/politics/facebook-russia-ads-2016-election/index.html)
 3. [Facebook Surrenders Russian-Linked Influence Ads To Congress](https://www.npr.org/2017/10/02/555103005/facebook-surrenders-russian-linked-influence-ads-to-congress)
 4. [Facebook to tell Congress Russian-linked content may have reached 126 million during 2016 election](https://abcnews.go.com/Politics/facebook-congress-russian-linked-content-reached-126-million/story?id=50821650)
+
+## Amazon Launches HQ2 Bidding War—238 Cities Compete to Offer Billions in Subsidies
+*Date: 2017-09-07*
+
+1. [Amazon received 238 proposals for second headquarters](https://money.cnn.com/2017/10/23/technology/amazon-hq2-proposals-update/index.html)
+2. [238 Cities Bid for Amazon HQ2](https://www.govtech.com/biz/238-cities-bid-for-amazon-hq2.html)
+3. [Amazon HQ2: How did we get here? What comes next?](https://www.brookings.edu/articles/amazon-hq2-how-did-we-get-here-what-comes-next/)
+4. [The HQ2 Scam: How Amazon Used a Bidding War to Scrape Cities' Data](https://inthesetimes.com/article/the-hq2-scam-how-amazon-used-a-bidding-war-to-scrape-cities-data)
+
+## Treasury Secretary Mnuchin Requested Military Jet for European Honeymoon, Request Denied After Scrutiny
+*Date: 2017-09-13*
+
+1. [Steven Mnuchin responds to criticism that he requested government jet for his European honeymoon](https://www.washingtonpost.com/news/wonk/wp/2017/09/14/mnuchin-eclipses-past-travel-backlash-with-pricey-request-european-honeymoon-by-military-jet/)
+2. [Treasury Secretary Mnuchin requested government jet for European honeymoon](https://abcnews.go.com/Politics/treasury-secretary-mnuchin-requested-government-jet-european-honeymoon/story?id=49777076)
+3. [Honeymoon phase over. Just-married Mnuchin cancels gov't love jet](https://www.nbcnews.com/politics/politics-news/honeymoon-over-just-married-mnuchin-cancels-gov-t-jet-n801271)
 
 ## Ramaswamy's Axovant Alzheimer drug fails, stock crashes 75% after pump-and-dump
 *Date: 2017-09-26*
@@ -4688,6 +7479,13 @@
 3. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/archives/sco/file/1373816/dl)
 4. [George Papadopoulos, Former Trump Adviser, Admits Seeking 'Dirt' On Clinton, Lying To FBI](https://www.npr.org/sections/thetwo-way/2017/10/30/560816481/trumps-former-foreign-policy-advisor-pleads-guilty-to-lying-to-the-fbi)
 
+## Trump Declares Opioid Public Health Emergency Without Requesting Any New Funding
+*Date: 2017-10-26*
+
+1. [Trump Administration Declares Opioid Crisis A Public Health Emergency](https://www.npr.org/2017/10/26/560083795/president-trump-may-declare-opioid-epidemic-national-emergency)
+2. [Trump declares opioids public health emergency but doesn't add funding](https://www.healthcaredive.com/news/trump-declares-opioids-public-health-emergency-but-doesnt-add-funding/508354/)
+3. [No new funding in Trump's emergency opioid declaration](https://www.modernhealthcare.com/article/20171026/NEWS/171029906/no-new-funding-in-trump-s-emergency-opioid-declaration)
+
 ## Mueller Indicts Paul Manafort and Rick Gates on 12 Counts Including Conspiracy Against the United States
 *Date: 2017-10-30*
 
@@ -4724,6 +7522,20 @@
 2. [Paradise Papers Investigation](https://offshoreleaks.icij.org/investigations/paradise-papers)
 3. [Paradise Papers Reveal Offshore Accounts of World's Wealthy](https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy)
 
+## Paradise Papers Reveal Commerce Secretary Ross Concealed Stake in Russian-Linked Shipping Company
+*Date: 2017-11-05*
+
+1. [Donald Trump's Commerce Secretary Wilbur Ross and his Russian business ties](https://www.icij.org/investigations/paradise-papers/donald-trumps-commerce-secretary-wilbur-ross-and-his-russian-business-ties/)
+2. [Paradise Papers: Leaks Show Wilbur Ross Hid Ties to Putin Cronies](https://www.nbcnews.com/politics/politics-news/leaked-documents-show-commerce-secretary-concealed-ties-putin-cronies-n817711)
+3. [U.S. Commerce Secretary Wilbur Ross benefited from ties to Putin's inner circle, offshore tax leak shows](https://www.cbc.ca/news/world/wilbur-ross-paradise-papers-icij-1.4383636)
+
+## Amazon Launches AWS Secret Region for CIA and Intelligence Community
+*Date: 2017-11-20*
+
+1. [Amazon Web Services Announces Secret Cloud Region For CIA](https://www.nextgov.com/modernization/2017/11/amazon-web-services-announces-secret-cloud-region-cia/142662/)
+2. [AWS launches a Secret region for the U.S. intelligence community](https://techcrunch.com/2017/11/20/aws-launches-a-secret-region-for-the-u-s-intelligence-community/)
+3. [Amazon launches Secret Region – so secret it's endorsed by the CIA](https://www.theregister.com/2017/11/21/aws_secret_region/)
+
 ## Michael Flynn Pleads Guilty to Lying to FBI About Russian Contacts
 *Date: 2017-12-01*
 
@@ -4752,6 +7564,27 @@
 2. [Trump taps net neutrality critic to lead the FCC](https://www.washingtonpost.com/news/the-switch/wp/2017/01/23/meet-donald-trumps-official-new-fcc-chairman-ajit-pai/)
 3. [The FCC just scrapped rules regulating equal access to the internet](https://www.nbcnews.com/tech/tech-news/it-s-decision-day-future-internet-n829336)
 4. [What Can Cities and States Do About Net Neutrality?](https://www.bloomberg.com/news/articles/2017-12-15/what-can-cities-and-states-do-about-net-neutrality)
+
+## DeVos Replaces Full Debt Relief With Earnings-Based Formula - Corinthian Victims Get Pennies on Dollar
+*Date: 2017-12-21*
+
+1. [In Departure from Obama Administration, DOE to Grant Only Partial Student Debt Relief for Corinthian Alumni](https://www.consumerfinancialserviceslawmonitor.com/2018/03/in-departure-from-obama-administration-doe-to-grant-only-partial-student-debt-relief-for-corinthian-alumni/)
+2. [Attorney General Becerra Issues Statement on Department of Education's Illegal Decision](https://oag.ca.gov/news/press-releases/attorney-general-becerra-issues-statement-department-education%E2%80%99s-illegal)
+3. [Education Dept. Says Defrauded Students Should Receive Only Partial Debt Relief](https://www.npr.org/2017/12/21/572322624/education-dept-says-defrauded-students-should-receive-only-partial-debt-relief)
+
+## Agriculture Committee Captured by Agribusiness - $523M Lobbying Shapes Farm Bill
+*Date: 2018-01-01*
+
+1. [Political Power of the Agribusiness and Crop Insurance Lobbies](https://www.taxpayer.net/agriculture/political-power-of-the-agribusiness-and-crop-insurance-lobbies/)
+2. [Ask a Scientist - Stopping Big Ag from Hijacking US Farm and Food Policy](https://blog.ucs.org/elliott-negin/ask-a-scientist-stopping-big-ag-from-hijacking-us-farm-and-food-policy/)
+3. [Farm Bill Lobbying Exceeds $500 Million, Report Says](https://farmpolicynews.illinois.edu/2024/05/farm-bill-lobbying-exceeds-500-million-report-says/)
+
+## Amazon Pays Zero Federal Income Tax Again on $11.2 Billion Profit—Receives $129 Million Tax Rebate
+*Date: 2018-01-01*
+
+1. [Amazon in Its Prime: Doubles Profits, Pays $0 in Federal Income Taxes](https://itep.org/amazon-in-its-prime-doubles-profits-pays-0-in-federal-income-taxes/)
+2. [Why Amazon paid no 2018 US federal income tax](https://www.cnbc.com/2019/04/03/why-amazon-paid-no-federal-income-tax.html)
+3. [Did Amazon Pay No Federal Income Taxes in 2018?](https://www.snopes.com/fact-check/amazon-no-income-taxes-2018/)
 
 ## Apple Receives Special Tariff Exemptions After CEO Cultivates Trump Relationship
 *Date: 2018-01-01*
@@ -4811,6 +7644,13 @@
 2. [The 10 Events You Need To Know To Understand The Almost-Firing Of Robert Mueller](https://www.npr.org/2018/01/26/580964814/the-10-events-you-need-to-know-to-understand-the-almost-firing-of-robert-mueller)
 3. [Mueller Report Volume II - Report on Obstruction of Justice](https://www.justice.gov/archives/sco/file/1373816/dl)
 
+## Federal Reserve Imposes Unprecedented Asset Cap on Wells Fargo
+*Date: 2018-02-02*
+
+1. [Federal Reserve Restricts Wells Fargo Growth Until Firm Improves Governance and Controls](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20180202a.htm)
+2. [Fed Restricts Wells Fargo Growth in Unprecedented Punishment](https://www.cnbc.com/2018/02/02/wells-fargo-fed-asset-cap.html)
+3. [Federal Reserve Caps Wells Fargo's Growth](https://www.npr.org/2018/02/02/582767388/federal-reserve-caps-wells-fargos-growth)
+
 ## Mueller Indicts 13 Russians and Internet Research Agency for Election Interference
 *Date: 2018-02-16*
 
@@ -4824,6 +7664,13 @@
 1. [Amazon Acquires Ring, Expanding Reach Into Home Security](https://www.npr.org/sections/thetwo-way/2018/02/27/589323712/amazon-acquires-ring-expanding-reach-into-home-security)
 2. [Amazon buys smart doorbell maker Ring for a reported $1 billion](https://www.cnbc.com/2018/02/27/amazon-buys-ring-the-smart-door-bell-maker-it-backed-through-alexa-fund.html)
 3. [Here's Why Amazon Bought a Doorbell Company](https://www.bloomberg.com/news/articles/2018-03-05/here-s-why-amazon-bought-a-doorbell-company)
+
+## HUD Secretary Ben Carson Spends $31,000 in Taxpayer Funds on Dining Room Furniture, Violates Federal Law
+*Date: 2018-03-01*
+
+1. [HUD Secretary Ben Carson says $31,000 dining set was ordered for safety reasons. And it was his wife's call.](https://www.washingtonpost.com/news/powerpost/wp/2018/03/20/ben-carson-defends-purchase-of-new-31000-set-the-dining-room-table-was-actually-dangerous/)
+2. [Ben Carson Faces Allegations Of Lavish Spending, Including $31,000 On Furniture](https://www.npr.org/2018/02/28/589493664/ben-carson-and-hud-face-allegations-of-lavish-spending-including-31-000-furnitur)
+3. [So, HUD lied about buying Ben Carson's $31,000 dining room set?](https://www.cnn.com/2018/03/14/politics/ben-carson-dining-room-table/index.html)
 
 ## James Biden Receives $600K from Distressed Healthcare Company, Pays Joe Biden $200K Same Day
 *Date: 2018-03-01*
@@ -4846,6 +7693,13 @@
 2. [TRM Labs Company Profile](https://www.crunchbase.com/organization/trm-labs)
 3. [TRM Labs Series B Funding Announcement](https://www.businesswire.com/news/home/20221109005400/en/Leading-Blockchain-Intelligence-Company-TRM-Labs-Announces-$70-Million-Series-B-Expansion-Led-by-Thoma-Bravo)
 
+## Office of Special Counsel Recommends Disciplining Kellyanne Conway for Hatch Act Violations
+*Date: 2018-03-06*
+
+1. [Report of Prohibited Political Activity, Kellyanne Conway](https://osc.gov/Documents/Hatch%20Act/Reports/Report%20of%20Prohibited%20Political%20Activity,%20Kellyanne%20Conway%20(HA-19-0631%20&%20HA-19-3395).pdf)
+2. [Trump advisor Kellyanne Conway violated Hatch Act in TV interviews, federal investigators say](https://www.cnbc.com/2018/03/06/special-counsel-says-trump-adviser-conway-violated-hatch-act.html)
+3. [Kellyanne Conway Violated Hatch Act, Should Be Fired Says Oversight Group](https://www.npr.org/2019/06/13/732359174/kellyanne-conway-should-be-fired-for-violating-ethics-law-oversight-office-says)
+
 ## Major GOP Donors' Company Receives Unexplained Tariff Exemption
 *Date: 2018-03-08*
 
@@ -4853,6 +7707,21 @@
 2. [Trump's tariff threats send U.S. companies scrambling for lobbyists and loopholes](https://www.nbcnews.com/business/business-news/trump-tariff-threats-companies-seek-lobbyists-loopholes-rcna179868)
 3. [New Research Shows Trump Administration Helped Donor Companies](https://whowhatwhy.org/politics/us-politics/new-research-shows-trump-administration-helped-donor-companies/)
 4. [Politically Connected Firms Benefit From Trump Tariff Exemptions](https://truthout.org/articles/politically-connected-firms-benefit-from-trump-tariff-exemptions/)
+
+## Trump Nominates Gina Haspel as CIA Director Despite Role in Torture Program and Evidence Destruction
+*Date: 2018-03-13*
+
+1. [The CIA Black Sites Program and the Gina Haspel Nomination](https://nsarchive.gwu.edu/briefing-book/intelligence-torture-archive/2018-05-09/cia-black-sites-program-gina-haspel-nomination)
+2. [I Went to Prison for Disclosing the CIA's Torture. Gina Haspel Helped Cover It Up](https://www.washingtonpost.com/outlook/i-went-to-prison-for-disclosing-the-cias-torture-gina-haspel-helped-cover-it-up/2018/03/15/9507884e-27f8-11e8-874b-d517e912f125_story.html)
+3. [Gina Haspel CIA Torture Cables Declassified](https://nsarchive.gwu.edu/briefing-book/foia-intelligence-torture-archive/2018-08-10/gina-haspel-cia-torture-cables-declassified)
+4. [Center for Constitutional Rights - CCR In Disbelief at Confirmation of Gina Haspel](https://ccrjustice.org/home/press-center/press-releases/ccr-disbelief-confirmation-gina-haspel-outraged-former-head-cia)
+
+## Toys 'R' Us Liquidation: PE Firms Extract $470 Million, 33,000 Workers Get Nothing
+*Date: 2018-03-15*
+
+1. [How Wall Street Bought Toys 'R' Us And Left 30,000 People Without Jobs](https://www.buzzfeednews.com/article/leticiamiranda/how-wall-street-bought-toys-r-us-and-left-30000-people)
+2. [How vulture capitalists ate Toys 'R' Us](https://theweek.com/articles/761124/how-vulture-capitalists-ate-toys-r)
+3. [Private Equity: Looting 'R' Us](https://prospect.org/economy/private-equity-looting-r-us/)
 
 ## Facebook Suspends Cambridge Analytica and SCL After Whistleblower Revelations
 *Date: 2018-03-16*
@@ -4870,6 +7739,13 @@
 3. [Cambridge Analytica scandal: Everything you need to know](https://www.cnbc.com/2018/03/21/facebook-cambridge-analytica-scandal-everything-you-need-to-know.html)
 4. [Facebook-Cambridge Analytica: A timeline of the data hijacking scandal](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
 5. ['The Great Hack': Cambridge Analytica is just the tip of the iceberg](https://www.amnesty.org/en/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/)
+
+## VA Secretary David Shulkin Fired After Inspector General Finds Ethics Violations on Taxpayer-Funded European Trip
+*Date: 2018-03-28*
+
+1. [Veterans Affairs boss David Shulkin improperly accepted Wimbledon tickets, allowed wife to fly to Europe on taxpayers' dime, scathing report says](https://www.cnbc.com/2018/02/14/veterans-affairs-chief-shulkin-improperly-accepted-wimbledon-tickets.html)
+2. [Inspector: 'Serious Derelictions' By VA Secretary Related To Overseas Travel](https://www.npr.org/sections/thetwo-way/2018/02/15/585957402/inspector-serious-derelictions-by-va-secretary-related-to-overseas-travel)
+3. [David Shulkin, Fired VA Secretary, Says White House Muzzled Him](https://www.npr.org/sections/thetwo-way/2018/03/29/597866101/fired-va-secretary-says-white-house-muzzled-him)
 
 ## Fayette County, Georgia becomes first US jurisdiction to deploy Carbyne 911 surveillance system
 *Date: 2018-03-29*
@@ -4903,6 +7779,21 @@
 1. [T-Mobile executives stayed at Trump hotel more than 52 times during merger review](https://www.washingtonpost.com/politics/t-mobile-executives-seeking-merger-stayed-at-trump-hotel-more-than-52-times/2019/03/05/)
 2. [T-Mobile admitted it spent $195,000 at Trump Hotel](https://www.reuters.com/article/us-sprint-corp-m-a-trump-idUSKCN1QM1ZU)
 3. [How T-Mobile got its Trump Hotel stay](https://www.cnn.com/2019/03/05/tech/t-mobile-trump-hotel/index.html)
+
+## Jeff Sessions Announces "Zero Tolerance" Policy Designed to Separate Families
+*Date: 2018-04-06*
+
+1. [Sessions Says 'Zero Tolerance' For Illegal Border Crossers, Vows To Divide Families](https://www.npr.org/sections/thetwo-way/2018/05/07/609225537/sessions-says-zero-tolerance-for-illegal-border-crossers-vows-to-divide-families)
+2. [Q&A: Trump Administration's 'Zero-Tolerance' Immigration Policy](https://www.hrw.org/news/2018/08/16/qa-trump-administrations-zero-tolerance-immigration-policy)
+3. [Justice Department Knew 2018 Border Policy Would Separate Children From Families](https://www.npr.org/2021/01/14/957011268/justice-department-knew-2018-border-policy-would-separate-families)
+4. [A Look Back at the Family Separation Policy: The Struggle to Uncover the Truth Behind the Trump Administration's Wrongdoings](https://www.americanimmigrationcouncil.org/report/family-separation-policy/)
+
+## Judge Finalizes Trump University Settlement After Appeal Resolved, Victims Receive Payments
+*Date: 2018-04-10*
+
+1. [Judge finalizes $25 million settlement for victims of Donald Trump's fraudulent university](https://abcnews.go.com/US/judge-finalizes-25-million-settlement-victims-donald-trumps/story?id=54347237)
+2. [A judge has finalized a $25 million settlement for students who claim they were defrauded by Trump University](https://www.cnn.com/2018/04/10/politics/trump-university-settlement-finalized-trnd/index.html)
+3. [Federal court approves $25 million Trump University settlement](https://www.nbcnews.com/politics/white-house/federal-court-approves-25-million-trump-university-settlement-n845181)
 
 ## Mark Zuckerberg Testifies Before Congress on Cambridge Analytica and Russian Interference
 *Date: 2018-04-10*
@@ -4961,12 +7852,27 @@
 2. [Ring Launches Standalone 'Neighbors' iOS App for Crowdsourcing and Preventing Criminal Activity](https://www.macrumors.com/2018/05/08/ring-standalone-neighbors-ios-app/)
 3. [Ring Launches 'Neighborhood Watch' App as First Amazon-Backed Offering](https://securitysales.com/automation/ring-neighborhood-watch-app-amazon)
 
+## Kirstjen Nielsen Defends Family Separation as Deterrent, Later Denies Policy Exists
+*Date: 2018-05-10*
+
+1. [Transcript: Homeland Security Secretary Kirstjen Nielsen's Full Interview With NPR](https://www.npr.org/2018/05/10/610113364/transcript-homeland-security-secretary-kirstjen-nielsens-full-interview-with-npr)
+2. [Nielsen defends family separation as simply enforcing the law: 'We will not apologize'](https://abcnews.go.com/Politics/nielsen-defends-family-separation-simply-enforcing-law-apologize/story?id=55978997)
+3. [Nielsen's Rhetoric on Family Separations](https://www.factcheck.org/2018/06/nielsens-rhetoric-on-family-separations/)
+4. [Ex-DHS chief Nielsen claims 'there was no policy to separate families,' despite presiding over it](https://www.nbcnews.com/politics/politics-news/former-dhs-chief-nielsen-claims-there-was-no-policy-separate-n1234745)
+
 ## Trump Reverses ZTE Sanctions After $500M China Loan to Trump Project
 *Date: 2018-05-13*
 
 1. [China contributing $500 million to Trump-linked Indonesia project](https://www.nationalreview.com/news/china-contributing-500-million-trump-linked-project-indonesia/)
 2. [Trump helps ZTE as China provides financing for Indonesia project](https://www.nytimes.com/2018/05/15/world/asia/trump-hotel-china-indonesia.html)
 3. [Trump says he's working with Xi to save ZTE](https://www.cnn.com/2018/05/13/politics/trump-xi-jinping-zte/index.html)
+
+## Seattle Passes Head Tax on Large Employers—Amazon Threatens Expansion Halt, Washington Post Editorial Aligns with Owner's Interests
+*Date: 2018-05-14*
+
+1. [Seattle Repeals Tax On Big Business After Opposition From Amazon, Starbucks](https://www.npr.org/2018/06/13/619444956/seattle-repeals-tax-on-big-business-after-opposition-from-amazon-starbucks)
+2. [Opinion | Tax Bezos. Help workers. But not like this.](https://www.washingtonpost.com/opinions/tax-bezos-help-workers-but-not-like-this/2018/09/06/9ebd64ae-b20d-11e8-aed9-001309990777_story.html)
+3. [Seattle head tax](https://en.wikipedia.org/wiki/Seattle_head_tax)
 
 ## Kansas City Fed Approves Reserve Trust Master Account After Alleged Intervention
 *Date: 2018-05-15*
@@ -4983,12 +7889,58 @@
 3. [Ivanka Trump's Chinese trademarks raise questions about potential conflicts of interest](https://www.cnbc.com/2018/05/29/ivanka-trump-chinese-trademarks-raise-conflict-of-interest-questions.html)
 4. [Ivanka Trump's Chinese Trademarks: Conflicts of Interest Investigation](https://www.citizensforethics.org/reports-investigations/crew-investigations/ivanka-trump-trademarks/)
 
+## European Court Finds Romania and Lithuania Hosted CIA Torture Sites, Orders Damages
+*Date: 2018-05-31*
+
+1. [Lithuania and Romania Fined for Helping CIA Run Secret Prisons](https://www.thebureauinvestigates.com/stories/2018-05-31/crofton-echr)
+2. [Lithuania and Romania Complicit for Hosting CIA Black Sites](https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/)
+3. [European Court Finds Romania Hosted CIA Secret Prison](https://www.justiceinitiative.org/newsroom/european-court-finds-romania-hosted-cia-secret-prison)
+4. [European Complicity in CIA Torture in Black Sites](https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/)
+
 ## Trump Family Separation Policy Detains 5,500 Children in Cages
 *Date: 2018-06-01*
 
 1. [Family Separation Under Trump Administration](https://www.splcenter.org/news/2020/06/17/family-separation-under-trump-administration-timeline)
 2. [Trump administration separated thousands more children](https://www.nbcnews.com/politics/immigration/trump-admin-separated-thousands-more-migrant-kids-parents-previously-known-n1287352)
 3. [UN says Trump separation of migrant children is torture](https://www.theguardian.com/us-news/2018/jun/22/un-trump-family-separation-torture)
+
+## Net Neutrality Repeal Officially Takes Effect, Permitting ISPs to Throttle, Block, and Prioritize Content for Payment
+*Date: 2018-06-11*
+
+1. [Net neutrality rules are now repealed: What it means](https://money.cnn.com/2018/06/11/technology/net-neutrality-repeal-explained/index.html)
+2. [Net Neutrality Has Been Rolled Back — But It Not Dead Yet](https://www.npr.org/2018/06/11/618928905/net-neutrality-has-been-rolled-back-but-its-not-dead-yet)
+3. [Repeal Of Net Neutrality Protections Officially Takes Effect](https://miami.cbslocal.com/2018/06/11/repeal-net-neutrality-takes-effect/)
+
+## Supreme Court Upholds Ohio's Aggressive "Use It Or Lose It" Voter Purge System
+*Date: 2018-06-11*
+
+1. [Supreme Court Upholds Controversial Ohio Voter-Purge Law](https://www.npr.org/2018/06/11/618870982/supreme-court-upholds-controversial-ohio-voter-purge-law)
+2. [Supreme Court Rules Ohio's Controversial System for Purging Voters is Legal](https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-rules-ohios-controversial-system-purging-voters-legal)
+3. [Supreme Court gives Ohio right to purge thousands of voters from its rolls](https://www.nbcnews.com/politics/supreme-court/ohio-wins-supreme-court-fight-over-voter-registration-n873226)
+4. [Supreme Court Upholds Unreasonable Voter Purge Standard](https://www.lwv.org/newsroom/press-releases/supreme-court-upholds-unreasonable-voter-purge-standard)
+
+## New York AG Sues Trump Foundation for "Persistent Illegal Conduct" and Coordinating with Campaign
+*Date: 2018-06-14*
+
+1. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
+2. [New York v. Trump Foundation - Petition](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=RvMG0E8YcUgRbdx3xJl_PLUS_A==&system=prod)
+3. [New York Attorney General Sues Trump and His Foundation](https://www.nytimes.com/2018/06/14/nyregion/trump-foundation-lawsuit-attorney-general.html)
+
+## Amazon aggressively pitches Rekognition facial recognition to ICE during family separation crisis
+*Date: 2018-06-15*
+
+1. [Amazon is the invisible backbone of ICE's immigration crackdown](https://www.technologyreview.com/2018/10/22/139639/amazon-is-the-invisible-backbone-behind-ices-immigration-crackdown/)
+2. [Over Employees' Protests, Amazon Aggressively Pitched Facial Recognition Software to ICE At Height of Child Detention Crisis](https://www.commondreams.org/news/2018/10/24/over-employees-protests-amazon-aggressively-pitched-facial-recognition-software-ice)
+3. [ACLU Calls for Moratorium on Law and Immigration Enforcement Use of Facial Recognition](https://www.aclu.org/press-releases/aclu-calls-moratorium-law-and-immigration-enforcement-use-facial-recognition)
+4. [Amazon officials pitched their facial recognition software to ICE](https://www.seattletimes.com/business/amazon/amazon-officials-pitched-their-facial-recognition-software-to-ice/)
+
+## Trump Signs Executive Order "Ending" Family Separation After International Outcry
+*Date: 2018-06-20*
+
+1. [Trump's Executive Order On Family Separation: What It Does And Doesn't Do](https://www.npr.org/2018/06/20/622095441/trump-executive-order-on-family-separation-what-it-does-and-doesnt-do)
+2. [Read Trump's full executive order on family separation](https://www.pbs.org/newshour/politics/read-trumps-full-executive-order-on-family-separation)
+3. [Donald Trump, again, falsely says Obama had family separation policy](https://www.politifact.com/factchecks/2018/nov/29/donald-trump/donald-trump-falsely-says-family-separations-were-/)
+4. [FACT CHECK: Trump Wrongly Blames Obama For Child Separation Policy](https://www.npr.org/2019/04/09/711446917/fact-check-trump-wrongly-states-obama-administration-had-child-separation-policy)
 
 ## Peter Thiel Receives First Putin Meeting Invitation Through Russian Diplomat
 *Date: 2018-06-23*
@@ -5009,6 +7961,14 @@
 1. [Scott Pruitt Resigns as E.P.A. Chief](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-resignation.html)
 2. [Scott Pruitt resigns as EPA administrator](https://www.cnn.com/2018/07/05/politics/scott-pruitt-epa-resigns/index.html)
 3. [All of Scott Pruitt's Scandals, Explained](https://www.theatlantic.com/politics/archive/2018/07/scott-pruitt-resigns/564529/)
+
+## Coal Lobbyist Andrew Wheeler Becomes Acting EPA Administrator After Pruitt Resignation
+*Date: 2018-07-09*
+
+1. [Andrew Wheeler, Coal Lobbyist, Is Named Acting E.P.A. Chief](https://www.nytimes.com/2018/07/05/climate/andrew-wheeler-epa.html)
+2. [Senate Confirms Andrew Wheeler To Lead EPA](https://www.npr.org/2019/02/28/698814670/senate-confirms-andrew-wheeler-to-lead-epa)
+3. [EPA's New Boss Used to Be a Coal Lobbyist, Working for Its Biggest Customer](https://www.propublica.org/article/andrew-wheeler-epa-coal-lobbyist-robert-murray)
+4. [Andrew Wheeler](https://www.desmog.com/andrew-wheeler/)
 
 ## Tech Workers Coalition: Establishing Digital Resistance Infrastructure
 *Date: 2018-07-12*
@@ -5031,6 +7991,29 @@
 2. [Maria Butina Case Bolsters Understanding of 'Infiltration' In Russian 2016 Attack](https://www.npr.org/2018/07/17/629627064/new-charges-confirm-that-infiltration-was-an-aspect-of-russian-2016-attack)
 3. [Maria Butina Arrested for Role in the NRA-Russia Scandal](https://www.rollingstone.com/politics/politics-news/maria-butina-first-arrest-nra-russia-scandal-699923/)
 
+## Trump Sides with Putin Over U.S. Intelligence at Helsinki Summit, Attacks Own Agencies
+*Date: 2018-07-16*
+
+1. [Transcript: President Trump And Russian President Putin's Joint Press Conference](https://www.npr.org/2018/07/16/629462401/transcript-president-trump-and-russian-president-putins-joint-press-conference)
+2. [Trump's Helsinki Bow To Putin Leaves World Wondering: Why?](https://www.npr.org/2018/07/17/629601233/trumps-helsinki-bow-to-putin-leaves-world-wondering-whats-up)
+3. ['Disgraceful,' 'Pushover,' 'Deeply Troubled': Reaction To The Trump-Putin Summit](https://www.npr.org/2018/07/16/629554155/disgraceful-pushover-deeply-troubled-reaction-to-the-trump-putin-summit)
+4. [John McCain Slams Trump for 'Disgraceful Performance' at Putin Meeting](https://time.com/5339932/john-mccain-statement-trump-putin-meeting/)
+
+## Trump Claims He Misspoke "Would" Instead of "Wouldn't" in Implausible Helsinki Walkback Attempt
+*Date: 2018-07-17*
+
+1. [Trump Attempts To Soften Controversial Remarks He Made In Helsinki](https://www.npr.org/2018/07/17/629896497/trump-attempts-to-soften-controversial-remarks-he-made-in-helsinki)
+2. [Can Trump's reversal soften damage of Helsinki comments?](https://www.pbs.org/newshour/show/can-trumps-reversal-soften-damage-of-helsinki-comments)
+3. [A walk in the woulds: Donald Trump reverses Helsinki comments on Russian election interference](https://www.politifact.com/article/2018/jul/17/trump-reverses-russian-election-interference/)
+
+## Senate Votes 98-0 to Reject Putin's Request to Interrogate U.S. Officials in Bipartisan Rebuke of Trump
+*Date: 2018-07-19*
+
+1. [Senate votes 98-0 to reject Putin's proposal to interrogate US officials despite Trump reversal](https://edition.cnn.com/politics/live-news/trump-today-07-19-18/h_3761f1662b0836600ef8a508fa63f563)
+2. [U.S. Senate Votes 98-0 to Tell Trump Not to Hand Over American Citizens to Putin](https://www.reed.senate.gov/news/releases/us-senate-votes-98-0-to-tell-trump-not-to-hand-over-american-citizens-to-putin)
+3. [In 98-0 vote, Senate rebukes Trump's consideration of allowing Russia to question ambassadors](https://www.denver7.com/news/politics/in-98-0-vote-senate-rebukes-trump-s-consideration-of-allowing-russia-to-question-ambassadors)
+4. [Congressional Record - Senate Resolution 594](https://www.congress.gov/115/crec/2018/07/26/modified/CREC-2018-07-26-pt1-PgS5427.htm)
+
 ## Former Malaysian PM Najib Razak Charged in 1MDB Scandal
 *Date: 2018-07-20*
 
@@ -5039,12 +8022,28 @@
 3. [Ex-PM Najib Razak Denies Corruption Charges in 1MDB Scandal](https://www.aljazeera.com/news/2018/7/4/ex-pm-najib-razak-denies-corruption-charges-in-1mdb-scandal)
 4. [Timeline of Najib's 1MDB Case: Key Moments Over Six Years](https://www.bernama.com/en/news.php?id=2357969)
 
+## ACLU test reveals Amazon Rekognition misidentified 28 Congress members as criminals, showing racial bias
+*Date: 2018-07-26*
+
+1. [Amazon's Face Recognition Falsely Matched 28 Members of Congress With Mugshots](https://www.aclu.org/news/privacy-technology/amazons-face-recognition-falsely-matched-28)
+2. [Members of Congress Demand Meeting With Amazon CEO Following ACLU Report on Amazon Face Recognition Technology](https://www.aclu.org/press-releases/members-congress-demand-meeting-amazon-ceo-following-aclu-report-amazon-face)
+3. [The ACLU used Amazon's facial recognition and it labelled Congress members as criminals](https://qz.com/1340918/the-aclu-used-amazons-facial-recognition-and-it-labelled-congress-members-as-criminals)
+4. [The ACLU Used Amazon's Facial Recognition And It Labelled Congress Members As Criminals](https://www.nextgov.com/artificial-intelligence/2018/07/aclu-used-amazons-facial-recognition-and-it-labelled-congress-members-criminals/150084/)
+
 ## Guo Wengui Begins Funding Steve Bannon Operations
 *Date: 2018-08-01*
 
 1. [The Inscrutable Aims of Steve Bannon's Enigmatic Chinese Benefactor](https://www.npr.org/2022/10/20/1130184401/the-inscrutable-aims-of-steve-bannons-enigmatic-chinese-benefactor)
 2. [Guo Wengui and Steve Bannon Launch Investigation Fund](https://chinadigitaltimes.net/2018/11/guo-wengui-and-steve-bannon-launch-investigation-fund/)
 3. [U.S. charges Chinese tycoon Guo Wengui in a $1 billion fraud conspiracy](https://www.npr.org/2023/03/15/1163676898/chinese-business-tycoon-guo-wengui-fraud-arrest)
+
+## SEC Drops ExxonMobil Climate Investigation Under Trump Administration
+*Date: 2018-08-02*
+
+1. [SEC drops investigation into Exxon climate change response](https://www.cbsnews.com/news/sec-drops-investigation-into-exxon-climate-change-response/)
+2. [SEC drops investigation into Exxon climate change response](https://www.spokesman.com/stories/2018/aug/03/sec-drops-investigation-into-exxon-climate-change-/)
+3. [US government drops investigation into Exxon's climate change response](https://www.scmp.com/news/world/united-states-canada/article/2158261/us-government-drops-investigation-exxons-climate)
+4. [ExxonMobil climate change denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy)
 
 ## Brookfield takes 99‑year lease on Kushner's 666 Fifth Ave; role of Qatar-linked funds disputed
 *Date: 2018-08-03*
@@ -5100,6 +8099,50 @@
 2. [Michael Cohen Sentenced To 3 Years In Prison](https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison)
 3. [How Michael Cohen broke campaign finance law](https://www.pbs.org/newshour/politics/how-michael-cohen-broke-campaign-finance-law)
 
+## Rep. Duncan Hunter and Wife Indicted for $250,000 Campaign Finance Fraud
+*Date: 2018-08-21*
+
+1. [Rep. Duncan D. Hunter and Wife Indicted for Converting Hundreds of Thousands of Dollars in Campaign Funds](https://www.justice.gov/usao-sdca/pr/rep-duncan-d-hunter-and-wife-indicted-converting-hundreds-thousands-dollars-campaign)
+2. [Duncan Hunter Indicted for Misuse of Campaign Funds](https://rollcall.com/2018/08/21/duncan-hunter-indicted-for-misuse-of-campaign-funds/)
+3. [Duncan D. Hunter](https://en.wikipedia.org/wiki/Duncan_Hunter,_Jr.)
+
+## Bernie Sanders Introduces "Stop BEZOS Act" Targeting Amazon Wages
+*Date: 2018-09-05*
+
+1. [Bernie Sanders introduces 'Stop BEZOS Act' in Senate](https://khanna.house.gov/media/in-the-news/bernie-sanders-introduces-stop-bezos-act-senate)
+2. [Bernie Sanders' 'Stop BEZOS' bill targets worker pay at Amazon and Walmart](https://www.cnbc.com/2018/09/05/bernie-sanders-amazon-walmart-worker-pay/index.html)
+3. [To End Starvation Wages and Kick Billionaires Off Welfare, Sanders Introduces 'Stop BEZOS Act'](https://www.commondreams.org/news/2018/09/05/end-starvation-wages-and-kick-billionaires-welfare-sanders-introduces-stop-bezos-act)
+
+## CMS Administrator Seema Verma Spent $5 Million in Taxpayer Funds on GOP Consultants to Boost Personal Profile
+*Date: 2018-09-12*
+
+1. [Seema Verma violated federal contracting rules, HHS inspector general finds](https://www.washingtonpost.com/health/2020/07/16/verma-violated-contracting-rules/)
+2. [CMS chief Seema Verma spent millions in taxpayer funds to boost 'personal brand,' Democrats say](https://www.cnbc.com/2020/09/10/cms-chief-seema-verma-spent-millions-in-taxpayer-funds-to-boost-personal-brand-democrats-say.html)
+3. [Seema Verma under fire for allegedly spending millions on outside GOP consultants](https://www.healthcarefinancenews.com/news/seema-verma-under-fire-allegedly-spending-millions-outside-gop-consultants)
+
+## Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program
+*Date: 2018-09-26*
+
+1. [Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201)
+2. [Amazon Sends 'Anti-Union' Video to Whole Foods Team Leaders: Report](https://fortune.com/2018/09/26/amazon-anti-union-video-whole-foods/)
+3. ['Unions Are Lying, Cheating Rats': Leaked Video Reveals Amazon's Belligerent Anti-Worker Tactics](https://www.commondreams.org/news/2018/09/27/unions-are-lying-cheating-rats-leaked-video-reveals-amazons-belligerent-anti-worker)
+
+## Christine Blasey Ford Delivers Credible, Emotional Testimony Alleging Kavanaugh Sexual Assault, He Responds with Partisan Rant
+*Date: 2018-09-27*
+
+1. [Christine Blasey Ford Testimony to Senate Judiciary Committee](https://www.judiciary.senate.gov/imo/media/doc/09-27-18%20Ford%20Testimony.pdf)
+2. [I Will Never Forget Christine Blasey Ford Recounts Her Trauma in Raw Testimony](https://www.cnn.com/2018/09/27/politics/christine-blasey-ford-raw-testimony/index.html)
+3. [Dr Christine Blasey Ford Testimony Live Updates](https://www.cbsnews.com/live-news/brett-kavanaugh-hearing-confirmation-today-christine-blasey-ford-sexual-assault-allegations-live/)
+4. [Key Moments in Senate Testimony of Christine Blasey Ford and Brett Kavanaugh](https://theintercept.com/2018/09/27/live-christine-blasey-ford-brett-kavanaugh-testify/)
+
+## Georgia Secretary of State Brian Kemp Refuses to Recuse From Overseeing His Own Governor Election
+*Date: 2018-10-01*
+
+1. [Critics charge Georgia GOP gov candidate purging voters before election](https://www.nbcnews.com/politics/elections/suppression-critics-charge-georgia-gop-gov-candidate-purging-voters-election-n918761)
+2. [Other Secretaries of State Accused of Abusing Elections Power](https://www.governing.com/archive/gov-secretary-state-brian-kemp-georgia-candidate-conflict.html)
+3. [Kemp Took Steps to Dramatically Lower Voter Turnout as Secretary of State](https://georgiademocrat.org/icymi-kemp-took-steps-to-dramatically-lower-voter-turnout-as-secretary-of-state/)
+4. [Did Georgia's Secretary of State 'Block' the Registrations of 53,000 Voters?](https://www.snopes.com/fact-check/georgia-black-voter-registration/)
+
 ## Operation Faithful Patriot deploys 5,200 active-duty troops to border
 *Date: 2018-10-01*
 
@@ -5107,6 +8150,21 @@
 2. [GAO cost analysis of deployment](https://www.gao.gov/products/gao-19-416)
 3. [Pentagon sending 5,200 troops to the border in 'Operation Faithful Patriot'](https://www.nbcnews.com/politics/white-house/pentagon-send-5-200-troops-u-s-mexico-border-operation-n925866)
 4. [DoD drops border deployment name, no longer calling it 'Faithful Patriot'](https://www.militarytimes.com/news/your-military/2018/11/07/dod-drops-border-deployment-name-no-longer-called-faithful-patriot/)
+
+## Amazon Raises Minimum Wage to $15 But Eliminates Bonuses and Stock Options
+*Date: 2018-10-02*
+
+1. [Amazon eliminates bonuses, stock awards for hourly workers](https://www.cnn.com/2018/10/04/business/amazon-minimum-wage-bonus/index.html)
+2. [Amazon's hourly workers lose monthly bonuses and stock awards as minimum wage increases](https://www.cnbc.com/2018/10/03/amazon-hourly-workers-lose-monthly-bonuses-stock-awards.html)
+3. [Despite minimum wage increase, some Amazon workers say losing stock options and bonuses means they will make less](https://techcrunch.com/2018/10/03/despite-minimum-wage-increase-some-amazon-workers-say-losing-stock-options-and-bonuses-means-they-will-make-less/)
+
+## Jamal Khashoggi Murdered Inside Saudi Consulate in Istanbul by 15-Member Hit Squad Sent by Crown Prince MBS
+*Date: 2018-10-02*
+
+1. [U.S. Intelligence Says Saudi Crown Prince Approved Operation](https://www.npr.org/2021/02/25/971215788/biden-administration-poised-to-release-report-on-killing-of-jamal-khashoggi)
+2. [Timeline of the murder of journalist Jamal Khashoggi](https://www.aljazeera.com/news/2021/2/26/timeline-of-the-murder-of-journalist-jamal-khashoggi)
+3. [Audio transcripts of Jamal Khashoggi's murder revealed](https://www.aljazeera.com/news/2019/9/10/audio-transcripts-of-jamal-khashoggis-murder-revealed)
+4. [5 years after Jamal Khashoggi's murder, human rights groups call for justice](https://www.npr.org/2023/10/02/1202937036/jamal-khashoggi-mbs-murder-saudi-arabia-human-rights)
 
 ## Saudi Crown Prince's Entourage Books Trump Hotel During Khashoggi Crisis
 *Date: 2018-10-02*
@@ -5116,12 +8174,28 @@
 3. [This Week in Conflicts: Saudi-Funded Lobbyists Pay for Rooms at Trump Hotel](https://sunlightfoundation.com/2018/12/07/this-week-in-conflicts-saudi-funded-lobbyists-pay-for-rooms-at-trump-hotel-trump-jr-s-lettuce-company-and-subpoenas-issued-in-emoluments-lawsuit/)
 4. [Thanks to Saudis, Revenue for Trump's New York Hotel Goes up After Years of Decline](https://www.newsweek.com/saudi-arabia-increase-trump-hotel-revenue-1057255)
 
+## Senate Confirms Kavanaugh 50-48 Despite Sexual Assault Allegations and Severely Limited FBI Investigation
+*Date: 2018-10-06*
+
+1. [Collins Manchin Say They Will Vote To Confirm Kavanaugh Murkowski A No](https://www.npr.org/2018/10/05/654552328/senate-to-take-decisive-vote-on-kavanaugh-amid-protest-from-democrats)
+2. [Senate Confirms Brett Kavanaugh to Supreme Court](https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748)
+3. [Susan Collins Says FBI Report on Kavanaugh Was Thorough](https://www.mic.com/articles/191708/susan-collins-says-fbi-report-on-kavanaugh-was-thorough-suggesting-she-could-vote-yes)
+4. [Ten Key Lines from Susan Collins Senate Floor Speech](https://edition.cnn.com/politics/live-news/kavanaugh-fbi-investigation-oct-18/h_73d780698a23f534b48caaffae8c1af3)
+
 ## China Approves 16 Trademarks for Ivanka Trump During Trade War
 *Date: 2018-10-16*
 
 1. [China grants 18 trademarks in 2 months to Trump, daughter](https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727)
 2. [Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE](https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html)
 3. [China approves new batch of Ivanka Trump trademarks amid trade talks](https://www.reuters.com/article/us-china-usa-ivanka-idUSKCN1NB0TL)
+
+## Trump Calls Saudi Khashoggi Explanation "Worst Cover-Up Ever" But Signals He Won't Hold MBS Accountable
+*Date: 2018-10-23*
+
+1. [Trump says Saudi operation that killed Khashoggi 'very bad' concept 'carried out poorly'](https://www.pbs.org/newshour/world/trump-saudi-operation-that-killed-khashoggi-very-bad-concept-carried-out-poorly)
+2. [Trump: Saudi handling of Khashoggi killing 'worst cover-up ever'](https://www.aljazeera.com/news/2018/10/24/trump-saudi-handling-of-khashoggi-killing-worst-cover-up-ever)
+3. [Trump calls aftermath of Khashoggi killing 'worst cover-up ever'](https://www.nbcnews.com/politics/politics-news/trump-calls-khashoggi-killing-worst-cover-ever-n923591)
+4. [Trump says Khashoggi killing was one of the worst cover-ups in the history of cover-ups](https://www.businessinsider.nl/trump-khashoggi-killing-worst-cover-up-saudi-arabia-2018-10/)
 
 ## Lion Air Flight 610 Crashes Due to Boeing 737 MAX MCAS System Malfunction
 *Date: 2018-10-29*
@@ -5131,11 +8205,42 @@
 3. [Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators Say](https://www.npr.org/2018/11/28/671421822/lion-air-jet-was-not-airworthy-in-lead-up-to-fatal-crash-investigators-say)
 4. [Lion Air Flight 610 Investigation Summary](https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx)
 
+## Florida Voters Approve Amendment 4 Restoring Voting Rights to 1.4 Million with Felony Convictions
+*Date: 2018-11-06*
+
+1. [Florida Amendment 4, Voting Rights Restoration for Felons Initiative (2018)](https://ballotpedia.org/Florida_Amendment_4,_Voting_Rights_Restoration_for_Felons_Initiative_(2018))
+2. [2018 Florida Amendment 4](https://en.wikipedia.org/wiki/2018_Florida_Amendment_4)
+3. [Florida Passing Amendment 4 Will Restore Voting Rights to 1.4 Million People](https://time.com/5447051/florida-amendment-4-felon-voting/)
+4. [Voting Rights Restoration Efforts in Florida](https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-florida)
+
+## Michigan Voters Approve Independent Redistricting Commission, Ending Partisan Gerrymandering
+*Date: 2018-11-06*
+
+1. [Michigan Proposal 2, Independent Redistricting Commission Initiative (2018)](https://ballotpedia.org/Michigan_Proposal_2,_Independent_Redistricting_Commission_Initiative_(2018))
+2. [How Michigan Voters Came Together to Flip Gerrymandering On Its Head](https://campaignlegal.org/story/how-michigan-voters-came-together-flip-gerrymandering-its-head)
+3. [Maps show how gerrymandering benefitted Michigan Republicans](https://bridgemi.com/michigan-government/maps-show-how-gerrymandering-benefitted-michigan-republicans/)
+4. [Michigan](https://gerrymander.princeton.edu/reforms/mi/)
+
+## Amazon Selects NYC and Arlington for HQ2—Extracting at Least $4.6 Billion in Subsidies
+*Date: 2018-11-13*
+
+1. [Amazon HQ2 Will Cost Taxpayers at Least $4.6 Billion, More Than Twice What the Company Claimed](https://theintercept.com/2018/11/15/amazon-hq2-long-island-city-virginia-subsidies/)
+2. [Helipads and tax breaks: The perks Amazon is getting from New York, Virginia deals](https://edition.cnn.com/2018/11/13/business/amazon-hq2-subsidies)
+3. [Amazon HQ2, HQ3 Subsidy Awards Costly, Not Yet Fully Accounted For](https://goodjobsfirst.org/amazon-hq2-hq3-subsidy-awards-costly-not-yet-fully-accounted-for/)
+
 ## Mexican Journalists Targeted with Pegasus Days After Colleague's Assassination
 *Date: 2018-11-15*
 
 1. [Reckless VI: Mexican Journalists Investigating Cartels Targeted with NSO Spyware](https://citizenlab.ca/2018/11/mexican-journalists-investigating-cartels-targeted-nso-spyware-following-assassination-colleague/)
 2. [Reckless VII: Wife of Journalist Slain in Cartel-Linked Killing Targeted with NSO Group Spyware](https://citizenlab.ca/2019/03/nso-spyware-slain-journalists-wife/)
+
+## Trump Defends Saudi Arabia Despite CIA High-Confidence Finding MBS Ordered Khashoggi Murder - "Maybe He Did, Maybe He Didn't"
+*Date: 2018-11-20*
+
+1. [Donald Trump defends Saudi Arabia's denials in Khashoggi murder, says relationship most important](https://abcnews.go.com/politics/statement-khashoggi-murder-trump-relationship-saudi-arabia-important/story?id=59319462)
+2. [Trump says U.S. will stand by Saudi Arabia, despite CIA's conclusion about Khashoggi killing](https://www.cbsnews.com/amp/news/trump-says-u-s-will-stand-by-saudis-despite-intel-communitys-conclusion-about-khashoggi-killing/)
+3. [In unusual statement disputing the CIA and filled with exclamation points, Trump backs Saudi ruler after Khashoggi killing](https://www.nbcnews.com/politics/donald-trump/unusual-statement-disputing-cia-filled-exclamation-points-trump-backs-saudi-n938526)
+4. [Trump says US stands with Saudi Arabia despite journalist Khashoggi's killing](https://www.cnbc.com/2018/11/20/trump-says-us-stands-with-saudi-arabia-despite-khashoggi-killing.html)
 
 ## Georgia Purges 1.4 Million Voters Under Exact Match System
 *Date: 2018-11-27*
@@ -5158,12 +8263,26 @@
 1. [The NYPD used Clearview's controversial facial recognition tool](https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/)
 2. [The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI](https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use)
 
+## University of Phoenix Enrollment Collapses 80% After Fraud Investigations - $191M FTC Settlement
+*Date: 2018-12-10*
+
+1. [University Of Phoenix Reaches $191 Million Settlement With FTC, Including Debt Relief](https://www.npr.org/2019/12/10/786738760/university-of-phoenix-reaches-191-million-settlement-with-ftc-including-debt-rel)
+2. [University of Phoenix Settlement](https://www.ftc.gov/enforcement/refunds/university-phoenix-settlement)
+3. [University of Phoenix Settles False Claims Act Lawsuit for $67.5 Million](https://www.justice.gov/archives/opa/pr/university-phoenix-settles-false-claims-act-lawsuit-675-million)
+
 ## Interior Secretary Ryan Zinke Resigns Facing 18 Federal Investigations
 *Date: 2018-12-15*
 
 1. [Ryan Zinke Resigns as Interior Secretary Amid Investigations](https://www.nytimes.com/2018/12/15/us/politics/ryan-zinke-interior-secretary-resigns.html)
 2. [Interior Secretary Ryan Zinke resigns amid ethics investigations](https://www.washingtonpost.com/politics/interior-secretary-ryan-zinke-resigns-amid-ethics-investigations/2018/12/15/)
 3. [Ryan Zinke's Corruption Has Finally Caught Up With Him](https://www.motherjones.com/politics/2018/12/ryan-zinke-resigns-interior-secretary-trump/)
+
+## Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
+*Date: 2018-12-18*
+
+1. [AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision](https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial)
+2. [Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'](https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html)
+3. [Trump Foundation To Dissolve Amid New York AG's Investigation](https://www.npr.org/2018/12/18/677778958/trump-foundation-to-dissolve-amid-new-york-ags-investigation)
 
 ## Judge Sullivan's Harsh Questioning of Flynn at Sentencing - "Arguably You Sold Your Country Out"
 *Date: 2018-12-18*
@@ -5172,6 +8291,13 @@
 2. [Judge Lights Into Michael Flynn - 'You Sold Your Country Out'](https://rollcall.com/2018/12/18/judge-lights-into-michael-flynn-you-sold-your-country-out/)
 3. [Judge delays sentencing Flynn after rebuke - 'Arguably, you sold your country out!'](https://abcnews.go.com/beta-story-container/US/michael-flynn-trump-ally-turned-key-mueller-witness/story?id=59873492)
 4. [Judge Amy Berman Jackson To Hand Down Stone's Sentence](https://www.npr.org/2020/02/20/807665099/judge-amy-berman-jackson-to-hand-down-stones-sentence)
+
+## New York Judge Orders Trump Foundation Dissolved, Assets Distributed to Charities
+*Date: 2018-12-18*
+
+1. [New York v. Trump Foundation - Order of Dissolution](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=vIexA1b0v_PLUS_EKSuJs36C2A==&system=prod)
+2. [AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision](https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial)
+3. [Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'](https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html)
 
 ## ICE uses 230+ contracted detention facilities (2019); public lists undercount due to varied custody arrangements
 *Date: 2019-01-01*
@@ -5196,6 +8322,21 @@
 3. [GOP governor Kristi Noem used state aircraft for tens of thousands of dollars in political travel](https://www.alternet.org/2021/02/kristi-noem-2650540846)
 4. [Exclusive: GOP governor Kristi Noem, potential Trump successor, used state aircraft for tens of thousands of dollars in political travel](https://www.rawstory.com/kristi-noem-2650536372/)
 
+## NBER Study: Private Equity-Owned Nursing Homes Have 10% Higher Death Rates Due to Cost-Cutting
+*Date: 2019-01-01*
+
+1. [Owner Incentives and Performance in Healthcare: Private Equity Investment in Nursing Homes](https://www.nber.org/papers/w28474)
+2. [At private equity-owned nursing homes, an 'enormous' increase in death rates, study finds](https://www.cbsnews.com/news/nursing-home-private-equity-death-rate/)
+3. [When Private Equity Takes over Nursing Homes, Mortality Rates Jump](https://www.chicagobooth.edu/review/when-private-equity-takes-over-nursing-homes-mortality-rates-jump)
+
+## State Corporate Tax Rates Decline 33% Over Three Decades - ALEC's Interstate Race-to-Bottom Costs States $43-57 Billion Annually in Lost Revenue
+*Date: 2019-01-01*
+
+1. [Reclaiming corporate tax revenues: Corporate income tax revenues are critical to the ability of state and local governments to provide basic services](https://www.epi.org/publication/reclaiming-corporate-tax-revenues/)
+2. [ALEC and the State Policy Network](https://goodjobsfirst.org/alec-and-state-policy-network/)
+3. [ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth](https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth)
+4. [State Corporate Taxes](https://itep.org/category/state-corporate-taxes/)
+
 ## Peter Thiel Backs J.D. Vance's $93 Million Narya Capital Venture Fund
 *Date: 2019-01-01*
 
@@ -5218,6 +8359,14 @@
 2. ['Hillbilly Elegy' author starts Ohio-based VC fund backed by Peter Thiel](https://www.crainscleveland.com/finance/hillbilly-elegy-author-starts-ohio-based-vc-fund-backed-peter-thiel)
 3. [James David Vance - Co-Founder and Partner @ Narya Capital](https://www.crunchbase.com/person/j-d-vance)
 
+## The Intercept reveals Ring employees in Ukraine had unfettered access to customer video feeds
+*Date: 2019-01-10*
+
+1. [For Owners of Amazon's Ring Security Cameras, Strangers May Have Been Watching Too](https://theintercept.com/2019/01/10/amazon-ring-security-camera/)
+2. [Senators Press Amazon for Answers on Ring's Sloppy Security Practices](https://theintercept.com/2019/11/20/amazon-ring-security-senate/)
+3. [Ring reportedly gave employees access to customer video feeds](https://www.engadget.com/2019-01-10-ring-gave-employees-access-customer-video-feeds.html)
+4. [Ring Fired Employees for Watching Customer Videos](https://www.vice.com/en/article/ring-fired-employees-abusing-video-data/)
+
 ## Pam Bondi Joins Ballard Partners as Lobbyist, Monetizing Government Connections
 *Date: 2019-01-15*
 
@@ -5231,6 +8380,14 @@
 1. [Pam Bondi's Extensive Lobbying Poses Serious Conflict of Interest](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest)
 2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
 3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
+
+## HHS Inspector General Reveals Thousands More Children Separated Than Disclosed
+*Date: 2019-01-17*
+
+1. [HHS OIG: Many Children Separated from Parents, Guardians Before Ms. L. v. Ice Court Order and Some Separations Continue](https://oig.hhs.gov/newsroom/news-releases/2019/uac.asp)
+2. [Thousands more migrant kids separated from parents under Trump than previously reported](https://www.nbcnews.com/politics/immigration/thousands-more-migrant-kids-separated-parents-under-trump-previously-reported-n959791)
+3. ['Thousands' more children were separated than government admitted, and it doesn't know how many, watchdog report says](https://edition.cnn.com/2019/01/17/politics/inspector-general-unaccompanied-children-immigration/index.html)
+4. [Separated Children Placed in Office of Refugee Resettlement Care](https://oig.hhs.gov/reports/all/2019/separated-children-placed-in-office-of-refugee-resettlement-care/)
 
 ## Erik Prince's Frontier Services Group Announces Xinjiang Training Facility Amid Uyghur Detention Campaign
 *Date: 2019-02-01*
@@ -5277,6 +8434,21 @@
 2. [Paul Manafort sentencing - 47-month sentence handed down from U.S. District court judge today](https://www.cbsnews.com/live-news/paul-manafort-sentencing-former-trump-campaign-chairman-in-court-live-updates-2019-03-07/)
 3. [How a Federal Judge Missed the Mark in Explaining Paul Manafort's Sentence](https://www.aclu.org/news/smart-justice/how-federal-judge-missed-mark-explaining-paul-manaforts)
 
+## Ethiopian Airlines Flight 302 Crashes Due to MCAS Malfunction, Killing All 157 Aboard
+*Date: 2019-03-10*
+
+1. [5 Years On, The Crash Of Ethiopian Airlines Flight 302](https://www.npr.org/2024/03/10/1237357649/ethiopian-airlines-crash-boeing-737-max)
+2. [Ethiopian Airlines Flight ET 302 Crashes Minutes After Takeoff](https://www.cbsnews.com/news/ethiopian-plane-crash-flight-et-302-crashes-minutes-after-takeoff-boeing-737-8-max-live-updates-2019-03-10/)
+3. [Aircraft Accident Investigation Report - B737-8 MAX, ET-AVJ](https://bea.aero/fileadmin/user_upload/ET_302__B737-8MAX_ACCIDENT_FINAL_REPORT.pdf)
+4. [Ethiopian Airlines Crash Investigation Final Report](https://www.reuters.com/world/africa/ethiopian-airlines-crash-investigators-release-final-report-2022-03-09/)
+
+## FAA Finally Grounds 737 MAX After 51 Other Countries Act First, Exposing Regulatory Capture
+*Date: 2019-03-13*
+
+1. [Federal Aviation Administration Grounds Boeing 737 Max 8 And 9 Jets](https://www.npr.org/2019/03/13/703162378/federal-aviation-administration-grounds-boeing-737-max-8-and-9-jets)
+2. [The Grounding of the Boeing 737 MAX](https://www.theregreview.org/2019/03/19/nakahara-grounding-boeing-737-max/)
+3. [US Grounds Boeing 737 Max Planes, Citing Links Between 2 Fatal Crashes](https://www.cnbc.com/2019/03/13/boeing-shares-fall-after-report-says-us-expected-to-ground-737-max-fleet.html)
+
 ## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
 *Date: 2019-03-15*
 
@@ -5298,12 +8470,26 @@
 2. [Letter from Robert S. Mueller III to Attorney General William P. Barr](https://www.documentcloud.org/documents/5984372-March-27-letter-from-Mueller-to-Barr.html)
 3. [Attorney General Barr's Summary Letter](https://www.justice.gov/opa/press-release/file/1153481/download)
 
+## HUD Inspector General Finds Ben Carson Violated Ethics Rules by Involving Son in Official Business
+*Date: 2019-04-09*
+
+1. [Investigation Into Alleged Misuse of Office by the Secretary for the Private Gain of a Relative](https://www.hudoig.gov/reports-publications/report/investigation-alleged-misuse-office-secretary-private-gain-relative)
+2. [HUD inspectors find Ben Carson's actions didn't benefit son in Baltimore deals, but had the 'appearance' of ethical issues](https://www.baltimoresun.com/business/bs-bz-carson-ethics-report-20200929-lkzy7kprhfccvnfq4q6cvw3owa-story.html)
+3. [Documents Reveal Ben Carson Jr.'s Attempts to Use His Influence at HUD to Help His Business](https://americanoversight.org/documents-reveal-ben-carson-jr-s-attempts-to-use-his-influence-at-hud-to-help-his-business)
+
 ## Trump Claims Absolute Immunity from Congressional Oversight
 *Date: 2019-04-09*
 
 1. [Trump administration claims absolute immunity in McGahn case](https://www.washingtonpost.com/local/legal-issues/judge-rejects-trumps-absolute-immunity-claim/2019/11/25/)
 2. [White House declares war on impeachment inquiry](https://www.nytimes.com/2019/10/08/us/politics/white-house-letter-impeachment.html)
 3. [Presidents Are Not Kings - Judge Rejects Trump Immunity Claim](https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house)
+
+## Interior Secretary David Bernhardt Confirmed Despite Extensive Conflicts from Oil and Gas Lobbying Career
+*Date: 2019-04-11*
+
+1. [Senate confirms former oil and gas lobbyist David Bernhardt as interior secretary](https://www.washingtonpost.com/climate-environment/2019/04/11/senate-confirms-former-oil-gas-lobbyist-david-bernhardt-secretary-interior/)
+2. [David Bernhardt Is President Trump's Most Conflicted Cabinet Nominee](https://www.americanprogress.org/article/david-bernhardt-president-trumps-conflicted-cabinet-nominee/)
+3. [Interior Launches Ethics Investigation Into Newly Confirmed Head David Bernhardt](https://www.usnews.com/news/politics/articles/2019-04-16/interior-launches-ethics-investigation-into-newly-confirmed-head-david-bernhardt)
 
 ## David Bernhardt Confirmed as Interior Secretary Despite 27 Conflicts of Interest
 *Date: 2019-04-11*
@@ -5318,6 +8504,14 @@
 1. [Mnuchin Blocking Trump Tax Returns from Congress Was Unprecedented, Treasury Response Reveals](https://www.citizensforethics.org/reports-investigations/crew-investigations/mnuchin-blocking-trump-tax-returns-from-congress-was-unprecedented-treasury-response-reveals/)
 2. [House Democrats Subpoena Trump Tax Returns](https://www.npr.org/2019/05/10/721876476/house-democrats-subpoena-trump-tax-returns)
 3. [Mnuchin Rejects Hill Request to Hand Over Trump Tax Returns](https://www.nbcnews.com/politics/congress/mnuchin-rejects-hill-request-hand-over-trump-tax-returns-n1002296)
+
+## Trump Vetoes Bipartisan Resolution to End U.S. Support for Saudi War in Yemen, Protecting MBS After Khashoggi Murder
+*Date: 2019-04-16*
+
+1. [Trump vetoes Yemen War Powers Resolution](https://www.cnn.com/2019/04/16/politics/trump-vetoes-yemen-war-powers-resolution/index.html)
+2. [Where Trump's veto leaves the Yemen resolution](https://www.brookings.edu/articles/where-trumps-veto-leaves-the-yemen-resolution/)
+3. [Humanitarian crisis in Yemen remains the worst in the world, warns UN](https://news.un.org/en/story/2019/02/1032811)
+4. [Presidential Veto Message to the Senate to Accompany S.J. Res. 7](https://trumpwhitehouse.archives.gov/presidential-actions/presidential-veto-message-senate-accompany-s-j-res-7/)
 
 ## Mueller Report finds 140+ contacts between Trump campaign and Russians
 *Date: 2019-04-18*
@@ -5388,6 +8582,14 @@
 3. [Company that donated fireworks to Trump's event also successfully lobbied against tariffs](https://thehill.com/homenews/administration/451685-company-that-donated-fireworks-to-trumps-event-also-successfully/)
 4. [July 4 firework donor met with Trump on tariffs ahead of donation](https://wtop.com/government/2019/06/july-4-firework-donor-met-with-trump-on-tariffs-ahead-of-donation/)
 
+## Ambassador Marie Yovanovitch Recalled from Ukraine After Giuliani-Led Smear Campaign
+*Date: 2019-05-07*
+
+1. [U.S. Ambassador to Ukraine Recalled in 'Political Hit Job,' Lawmakers Say](https://foreignpolicy.com/2019/05/07/us-ambassador-to-ukraine-recalled-in-political-hit-job-lawmakers-say-marie-yovanovitch-lutsenko-right-wing-media-accusations-congress-diplomats-diplomacy/)
+2. [U.S. ambassador to Ukraine Marie Yovanovitch is recalled after becoming a political target](https://www.washingtonpost.com/opinions/2019/05/07/us-ambassador-ukraine-is-recalled-after-becoming-political-target/)
+3. [How Former Ambassador Marie Yovanovitch Became A Target In Ukraine](https://www.npr.org/2019/10/11/768662050/how-former-ambassador-marie-yovanovitch-became-a-target-in-ukraine)
+4. [Former U.S. Ukraine Ambassador Says President Trump Pushed For Her Removal](https://www.kpbs.org/news/2019/10/11/former-us-ukraine-ambassador-testifies-in)
+
 ## Don McGahn Defies Congressional Subpoena for Mueller-Related Documents
 *Date: 2019-05-07*
 
@@ -5401,6 +8603,13 @@
 1. [Chairman Nadler Issues Subpoena for Former White House Counsel Don McGahn](https://nadler.house.gov/news/documentsingle.aspx?DocumentID=393887)
 2. [White House Directed Ex-Counsel McGahn Not To Comply With Congressional Subpoena](https://www.npr.org/2019/05/07/721053127/white-house-directed-ex-counsel-mcgahn-not-to-comply-with-congressional-subpoena)
 3. [Federal Judge Rules Don McGahn Must Testify Before House, Delivering Blow to White House](https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house)
+
+## Julian Assange Charged Under Espionage Act - Unprecedented Attack on Press Freedom
+*Date: 2019-05-23*
+
+1. [WikiLeaks Founder Charged in Superseding Indictment](https://www.justice.gov/opa/pr/wikileaks-founder-charged-superseding-indictment)
+2. [Special Analysis of the May 2019 Superseding Indictment](https://www.rcfp.org/may-2019-assange-indictment-analysis/)
+3. [WikiLeaks Julian Assange UK Court Delays Extradition](https://www.npr.org/2024/03/26/1240861168/wikileaks-julian-assange-uk-court-delays-extradition)
 
 ## Mueller Warns Charging a Sitting President is Constitutionally Prohibited
 *Date: 2019-05-29*
@@ -5425,6 +8634,51 @@
 2. [Elaine Chao abused office to help family business, inspector general finds](https://www.washingtonpost.com/politics/2021/03/03/elaine-chao-transportation-inspector-general-report/)
 3. [How Mitch McConnell and Elaine Chao got rich off China](https://nypost.com/2018/03/17/how-mcconnell-and-chao-used-political-power-to-make-their-family-rich/)
 
+## Michigan Drops All Criminal Charges in Flint Water Crisis, Promises New Investigation
+*Date: 2019-06-13*
+
+1. [Charges Dropped In Flint Drinking Water Investigation, Officials Vow New Probe](https://www.npr.org/2019/06/13/732540100/mich-prosecutors-drop-charges-in-flint-water-investigation-but-promise-new-probe)
+2. [Michigan prosecutors dismiss all criminal charges in Flint water investigation](https://www.nbcnews.com/news/us-news/michigan-prosecutors-dismiss-all-criminal-charges-flint-water-investigation-n1017346)
+3. [No convictions for Flint - Attorney general ends water crisis prosecutions](https://bridgemi.com/michigan-environment-watch/no-convictions-flint-attorney-general-ends-water-crisis-prosecutions/)
+
+## Office of Special Counsel Issues Unprecedented Recommendation to Remove Kellyanne Conway for "Egregious, Notorious, and Ongoing" Hatch Act Violations
+*Date: 2019-06-13*
+
+1. [OSC Finds Kellyanne Conway Repeatedly Violated the Hatch Act, Recommends Removal from Federal Service](https://osc.gov/News/Pages/19-10-Kellyanne-Conway-Hatch-Act.aspx)
+2. [Federal watchdog agency recommends removal of Kellyanne Conway from federal office for violating the Hatch Act](https://www.washingtonpost.com/politics/office-of-special-counsel-recommends-removal-of-kellyanne-conway-from-federal-office-for-violating-the-hatch-act/2019/06/13/0786ae2e-8df4-11e9-8f69-a2795fca3343_story.html)
+3. [Kellyanne Conway eclipses 50 Hatch Act violations on Twitter](https://www.citizensforethics.org/reports-investigations/crew-reports/kellyanne-conway-eclipses-50-hatch-act-violations-on-twitter/)
+4. [Government watchdog calls for Kellyanne Conway to be removed from office for violating the Hatch Act](https://www.nbcnews.com/politics/white-house/government-watchdog-calls-kellyanne-conway-be-removed-office-violating-hatch-n1017241)
+
+## Commerce Inspector General Finds Wilbur Ross Lied to Congress About Census Citizenship Question
+*Date: 2019-06-13*
+
+1. [Justice Department Won't Charge Wilbur Ross for Lying to Congress](https://www.esquire.com/news-politics/politics/a37068059/wilbur-ross-lie-to-congress-justice-department-won-t-charge/)
+2. [Wilbur Ross Violated Ethics Rules, Multi-Year Investigation of CLC Complaint Finds](https://campaignlegal.org/update/wilbur-ross-violated-ethics-rules-multi-year-investigation-clc-complaint-finds)
+3. [Wilbur Ross said he divested a stock holding — but he didn't](https://publicintegrity.org/politics/wilbur-ross-stock-holdings-divestment/)
+
+## EPA Finalizes Affordable Clean Energy Rule Replacing Clean Power Plan With Weaker Standards
+*Date: 2019-06-19*
+
+1. [EPA Finalizes Affordable Clean Energy Rule](https://www.epa.gov/newsreleases/epa-finalizes-affordable-clean-energy-rule-ensuring-reliable-diversified-energy)
+2. [The Trump EPA strategy to undo the Clean Power Plan](https://yaleclimateconnections.org/2019/06/the-trump-epa-strategy-to-undo-the-clean-power-plan/)
+3. [Affordable Clean Energy Rule](https://stateimpactcenter.org/issues/climate-action/affordable-clean-energy-rule)
+4. [D.C. Circuit Strikes Down Trump Administration Repeal and Replacement of the Clean Power Plan](https://www.edf.org/media/dc-circuit-strikes-down-trump-administration-repeal-and-replacement-clean-power-plan)
+
+## E. Jean Carroll Publicly Accuses Trump of Sexual Assault in New York Magazine
+*Date: 2019-06-21*
+
+1. [Trump Denies New Sexual Assault Allegation By Advice Columnist E. Jean Carroll](https://www.npr.org/2019/06/21/734918876/trump-denies-new-sexual-assault-allegation-by-advice-columnist-e-jean-carroll)
+2. [Magazine columnist accuses Trump of sexually assaulting her in the '90s](https://www.cnn.com/2019/06/21/politics/trump-new-york-magazine-assault-e-jean-carroll/index.html)
+3. [E. Jean Carroll sues Trump for defamation](https://www.axios.com/2019/11/04/e-jean-carroll-lawsuit-donald-trump-defamation)
+4. [Judge upholds the $5 million verdict against Trump in E. Jean Carroll's sex abuse and defamation case](https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case)
+
+## U.S. Student Debt Surpasses $1.6 Trillion - 107% Increase in a Decade
+*Date: 2019-06-25*
+
+1. [How did the US reach $1.6 trillion in student debt?](https://usafacts.org/articles/how-did-us-reach-16-trillion-student-debt/)
+2. [Consumer Credit Outstanding](https://www.federalreserve.gov/releases/g19/HIST/cc_hist_memo_levels.html)
+3. [Student debt increased by 107% this decade, Federal Reserve data shows](https://www.cnbc.com/2019/12/30/student-debt-totals-increased-by-107percent-this-decade.html)
+
 ## Axon Ethics Board Recommends Against Facial Recognition in Body Cameras, Company Agrees to Pause Development
 *Date: 2019-06-27*
 
@@ -5446,12 +8700,36 @@
 2. [Pfizer Names Former FDA Chief Gottlieb to Board of Directors](https://www.bloomberg.com/news/articles/2019-06-27/pfizer-names-former-fda-chief-gottlieb-to-board-of-directors)
 3. [Senator Warren Calls on Former FDA Commissioner to Resign from Pfizer Board](https://www.warren.senate.gov/oversight/letters/-senator-warren-calls-on-former-fda-commissioner-scott-gottlieb-to-resign-from-pharmaceutical-giant-pfizers-board-of-directors)
 
+## Supreme Court Rules Partisan Gerrymandering Beyond Federal Court Jurisdiction
+*Date: 2019-06-27*
+
+1. [Rucho v. Common Cause Opinion](https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf)
+2. [Rucho v. Common Cause](https://www.brennancenter.org/our-work/court-cases/rucho-v-common-cause)
+3. [Rucho v. Common Cause](https://harvardlawreview.org/print/vol-133/rucho-v-common-cause/)
+4. [Rucho v. Common Cause](https://en.wikipedia.org/wiki/Rucho_v._Common_Cause)
+
 ## Supreme Court blocks 2020 Census citizenship question as 'contrived'; filings tie rationale to Hofeller partisan plan
 *Date: 2019-06-27*
 
 1. [Department of Commerce v. New York (opinion PDF)](https://www.supremecourt.gov/opinions/18pdf/18-966_bq7c.pdf)
 2. [NYIC Respondents' Notice of Filing (introducing Hofeller evidence)](https://www.supremecourt.gov/DocketPDF/18/18-966/101439/20190530142417722_2019.05.30%20NYIC%20Respondents%20Notice%20of%20Filing%20--%20Final.pdf)
 3. [Reply in Support of Motion (Hofeller files quotations and context)](https://www.brennancenter.org/sites/default/files/legal-work/NYICplaintiffs_reply_6.4.19.pdf)
+
+## Florida Legislature Enacts "Poll Tax" Requiring Payment of Fines to Undermine Amendment 4
+*Date: 2019-06-28*
+
+1. [Florida Senate Bill 7066 (2019)](https://ballotpedia.org/Florida_Senate_Bill_7066_(2019))
+2. [Amendment 4 is Back in Court as Florida Fights Our Victory Over its Modern-Day Poll Tax](https://www.aclu.org/news/voting-rights/amendment-4-is-back-in-court-as-florida-fights-our-victory-over-its-modern-day-poll-tax)
+3. [Florida Implements Modern Day Poll Tax](https://campaignlegal.org/update/florida-implements-modern-day-poll-tax-depriving-thousands-right-vote)
+4. [Florida's Governor Signed A Law Making It Harder For Felons To Vote](https://www.buzzfeednews.com/article/dominicholden/flordia-felon-voting-rights-law-poll-tax-ron-desantis)
+
+## James Alex Fields Sentenced to Life Plus 419 Years for Charlottesville Murder
+*Date: 2019-06-28*
+
+1. [Ohio Man Sentenced to Life in Prison for Federal Hate Crimes Related to August 2017 Car Attack at Rally in Charlottesville, Virginia](https://www.justice.gov/archives/opa/pr/ohio-man-sentenced-life-prison-federal-hate-crimes-related-august-2017-car-attack-rally)
+2. [Virginia Judge Hands Down Life Sentence, Plus 419 Years, in Case of James Alex Fields Jr., Calls Attack An Act of 'Terror'](https://www.splcenter.org/resources/hatewatch/virginia-judge-hands-down-life-sentence-plus-419-years-case-james-alex-fields-jr-calls)
+3. [Neo-Nazi James Fields Gets 2nd Life Sentence For Charlottesville Attack](https://www.npr.org/2019/07/15/741756615/virginia-court-sentences-neo-nazi-james-fields-jr-to-life-in-prison)
+4. [James Alex Fields Jr. sentenced to life plus 419 years in deadly Charlottesville car attack](https://www.cbsnews.com/news/james-alex-fields-jr-charlottesville-car-attack-sentenced-life-plus-419-years-today-2019-07-15/)
 
 ## Clarence Thomas Takes 8-Day Indonesia Yacht Trip with Harlan Crow
 *Date: 2019-07-01*
@@ -5482,6 +8760,13 @@
 2. [Hearing Before the Permanent Select Committee on Intelligence - Former Special Counsel Robert S. Mueller, III](https://www.govinfo.gov/content/pkg/CHRG-116hhrg37543/pdf/CHRG-116hhrg37543.pdf)
 3. [Former Special Counsel Robert Mueller Testifies](https://www.c-span.org/video/?462628-1/robert-mueller-testifies-house-judiciary-committee)
 
+## Trump Pressures Zelensky in Phone Call - "I Would Like You to Do Us a Favor Though"
+*Date: 2019-07-25*
+
+1. [Memorandum of Telephone Conversation: The President and President Zelensky of Ukraine](https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf)
+2. [The Trump-Ukraine Impeachment Inquiry Report](https://intelligence.house.gov/report/)
+3. [Read: Transcript Of President Trump's Call With Ukraine's Leader](https://www.npr.org/2019/09/25/764052120/read-transcript-of-president-trumps-call-with-ukraine-s-leader)
+
 ## Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
 *Date: 2019-07-25*
 
@@ -5495,6 +8780,14 @@
 1. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
 2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
 3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
+
+## Director of National Intelligence Dan Coats Resigns After Repeated Conflicts with Trump Over Russia
+*Date: 2019-07-28*
+
+1. [Director Of National Intelligence Dan Coats Resigns](https://www.npr.org/2019/07/28/746089806/director-of-national-intelligence-dan-coats-resigns)
+2. [Intelligence Director Coats to resign next month, Trump says](https://www.washingtonpost.com/world/national-security/intelligence-director-coats-expected-to-resign/2019/07/28/34e361e2-b16b-11e9-8e94-71a35969e4d8_story.html)
+3. [Dan Coats Spoke Truth to Trump. Now He's Out](https://www.govexec.com/defense/2019/07/dan-coats-spoke-truth-trump-now-hes-out/158762/)
+4. [Testimony by intelligence chiefs on global threats highlights differences with president](https://www.washingtonpost.com/world/national-security/intelligence-officials-will-name-biggest-threats-facing-us-during-senate-hearing/2019/01/28/f08dc5cc-2340-11e9-ad53-824486280311_story.html)
 
 ## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
 *Date: 2019-08-03*
@@ -5547,6 +8840,20 @@
 3. [Cameras outside Jeffrey Epstein's cell malfunctioned night he died](https://www.washingtonpost.com/politics/cameras-outside-jeffrey-epsteins-cell-malfunctioned-night-he-died-according-to-person-familiar-with-investigation/2019/08/14/7b2d52a6-be4e-11e9-b873-63ace636af08_story.html)
 4. [Two guards who were supposed to be watching Epstein were sleeping](https://www.cbc.ca/news/world/epstein-guards-sleeping-charges-1.5364108)
 
+## Intelligence Community Whistleblower Files Urgent Complaint About Trump-Zelensky Call
+*Date: 2019-08-12*
+
+1. [Whistleblower Complaint: Unclassified](https://intelligence.house.gov/uploadedfiles/20190812_-_whistleblower_complaint_unclass.pdf)
+2. [Statement on Processing of Whistleblower Complaints](https://www.dni.gov/files/ICIG/Documents/News/ICIG%20News/2019/September%2030%20-%20Statement%20on%20Processing%20of%20Whistleblower%20Complaints/ICIG%20Statement%20on%20Processing%20of%20Whistleblower%20Complaints.pdf)
+3. [Whistleblower complaint reveals Trump's obsession with Biden included push for Ukraine to investigate 2016 election](https://www.washingtonpost.com/national-security/whistleblower-complaint-reveals-trumps-obsession-with-biden-included-push-for-ukraine-to-investigate-2016-election/2019/09/26/b6e17d7c-e071-11e9-b199-f638bf2c340f_story.html)
+
+## Oklahoma Wins $572 Million Verdict Against Johnson & Johnson for Opioid Public Nuisance
+*Date: 2019-08-26*
+
+1. [Johnson & Johnson Ordered To Pay $572 Million In Oklahoma Opioid Lawsuit](https://www.npr.org/sections/health-shots/2019/08/26/754481268/judge-in-opioid-trial-rules-johnson-johnson-must-pay-oklahoma-572-million)
+2. [Oklahoma wins $572 million from opioid manufacturer Johnson & Johnson](https://stateimpact.npr.org/oklahoma/2019/08/28/oklahoma-wins-572-million-from-opioid-manufacturer-johnson-johnson/)
+3. [Oklahoma judge finds Johnson & Johnson fueled opioid crisis](https://www.statnews.com/2019/08/26/oklahoma-judge-finds-johnson-johnson-fueled-opioid-crisis/)
+
 ## Trump Proposes Hosting G-7 Summit at His Doral Golf Resort
 *Date: 2019-08-26*
 
@@ -5561,12 +8868,26 @@
 2. [Ring, the doorbell-camera firm, has partnered with 400 police forces, extending surveillance reach](https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach/)
 3. [Five Concerns about Amazon Ring's Deals with Police](https://www.eff.org/deeplinks/2019/08/five-concerns-about-amazon-rings-deals-police)
 
+## Amazon Warehouse Worker Billy Foister Dies on Warehouse Floor After Heart Attack
+*Date: 2019-09-02*
+
+1. [USA: Amazon warehouse worker who died of heart attack at work reportedly left on the floor for 20 minutes before receiving treatment](https://www.business-humanrights.org/en/latest-news/usa-amazon-warehouse-worker-who-died-of-heart-attack-at-work-reportedly-left-on-the-floor-for-20-minutes-before-receiving-treatment/)
+2. [Amazon worker complaining of chest pains was sent back to work, died on the floor a week later](https://www.dailykos.com/stories/2019/10/21/1894080/-Amazon-worker-complaining-of-chest-pains-was-sent-back-to-work-died-on-the-floor-a-week-later)
+3. [List of Amazon fatalities](https://en.wikipedia.org/wiki/List_of_Amazon_fatalities)
+
 ## Pence's Ireland Trip Costs $3.6 Million with Detour to Trump Property
 *Date: 2019-09-03*
 
 1. [Pence's Doonbeg detour cost nearly $600,000 in limousines. And that's just the start](https://www.washingtonpost.com/politics/pences-doonbeg-detour-cost-nearly-600000-in-limousines-and-thats-just-the-start/2019/09/25/d346e4f8-dd8f-11e9-b199-f638bf2c340f_story.html)
 2. [Mike Pence's stay at Trump's Doonbeg resort in Ireland cost taxpayers nearly $600K](https://www.usatoday.com/story/news/politics/2019/09/24/mike-pence-stay-trump-doonbeg-ireland-cost-taxpayers/2431922001/)
 3. [Pence's controversial Ireland trip cost taxpayers nearly $600,000 in limo bills alone](https://www.nbcnews.com/politics/white-house/pence-s-controversial-ireland-trip-cost-taxpayers-nearly-600-000-n1058711)
+
+## Commerce Secretary Ross Threatens to Fire NOAA Scientists Who Contradicted Trump's False Hurricane Claim
+*Date: 2019-09-06*
+
+1. [NYT: Ross threatened to fire top NOAA employees if they didn't disavow Alabama tweet](https://www.cnn.com/2019/09/09/politics/wilbur-ross-noaa-employees/index.html)
+2. [Wilbur Ross At The Center Of Another Political Storm, This Time About The Weather](https://www.npr.org/2019/09/10/759550641/commerce-secretary-wilbur-ross-weathers-new-scrutiny)
+3. [NOAA watchdog chides agency for how it handled Hurricane Dorian's 'Sharpiegate'](https://www.science.org/content/article/noaa-watchdog-chides-agency-how-it-handled-hurricane-dorian-s-sharpiegate)
 
 ## MIT Media Lab director Joi Ito resigns after concealing $7.5 million in Epstein-linked donations
 *Date: 2019-09-07*
@@ -5584,6 +8905,27 @@
 3. [Air Force, Congress Review Stays At Trump Resort In Turnberry, Scotland](https://www.npr.org/2019/09/09/759025827/allowable-but-not-advisable-air-force-and-congress-review-stays-at-trump-resort)
 4. [Air Force says only 6 percent of crews that stopped in Scotland stayed at Trump Turnberry resort](https://www.washingtonpost.com/politics/air-force-says-only-6-percent-of-crews-that-stopped-in-scotland-stayed-at-trump-turnberry-resort/2019/09/12/d840747a-d5aa-11e9-9610-fb56c5522e1c_story.html)
 
+## Purdue Pharma Files Bankruptcy to Shield Sackler Family from Civil Lawsuits
+*Date: 2019-09-15*
+
+1. [Purdue Pharma files for bankruptcy as part of a $10 billion agreement to settle opioid lawsuits](https://www.cnn.com/2019/09/16/us/purdue-pharma-bankruptcy-filing/index.html)
+2. [Court conflicted over Purdue Pharma bankruptcy plan that shields Sacklers from liability](https://www.scotusblog.com/2023/12/purdue-bankruptcy-sacklers/)
+3. [Judge in Purdue Pharma bankruptcy grants lawsuit protection to Sacklers](https://www.washingtonpost.com/business/2019/11/06/judge-purdue-pharma-bankruptcy-extends-lawsuit-protection-sacklers/)
+
+## Edward Snowden Publishes Memoir "Permanent Record"; DOJ Immediately Sues for Proceeds
+*Date: 2019-09-17*
+
+1. [Justice Department: Edward Snowden Book Profits Should Go To The U.S. Government](https://www.npr.org/2019/09/17/761600250/justice-department-sues-edward-snowden-seeking-profits-from-his-book)
+2. [Court Rules Edward Snowden Must Pay More Than $5 Million From Memoir And Speeches](https://www.npr.org/2020/10/01/919261319/court-rules-edward-snowden-must-pay-more-than-5-million-from-memoir-and-speeches)
+3. [Department of Justice Sues Edward Snowden for Proceeds of New Memoir](https://firstamendmentwatch.org/department-of-justice-sues-edward-snowden-for-proceeds-of-new-memoir/)
+
+## Speaker Pelosi Announces Formal Impeachment Inquiry After Ukraine Revelations
+*Date: 2019-09-24*
+
+1. [Pelosi Remarks Announcing Impeachment Inquiry](https://www.speaker.gov/newsroom/92419-0)
+2. [H.Res.660 - Directing certain committees to continue their ongoing investigations](https://www.congress.gov/bill/116th-congress/house-resolution/660)
+3. [Speaker Pelosi Announces Formal Impeachment Inquiry](https://www.c-span.org/video/?464560-1/speaker-pelosi-announces-formal-impeachment-inquiry)
+
 ## Trump Freezes Ukraine Military Aid Demanding Biden Investigation
 *Date: 2019-09-24*
 
@@ -5600,6 +8942,27 @@
 2. [NRA & Russia - Majority Report (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf)
 3. [Senate Democrats accuse NRA of promising access to U.S. officials in exchange for Russian business](https://www.nbcnews.com/politics/congress/senate-democrats-accuse-nra-promising-access-u-s-officials-exchange-n1059496)
 
+## Trump Blocks Ambassador Sondland Testimony, Declares Total Obstruction of Congress
+*Date: 2019-10-08*
+
+1. [Statement on State Department Directing Ambassador Sondland Not to Appear for Deposition](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=700)
+2. [Trump Tweet on Sondland Testimony](https://twitter.com/realDonaldTrump/status/1181560708808486913)
+3. [EU Ambassador Sondland will not testify in Trump impeachment probe](https://www.reuters.com/article/us-usa-trump-whistleblower-sondland/eu-ambassador-sondland-will-not-testify-in-trump-impeachment-probe-idUSKBN1WN1FO)
+
+## Acting Ukraine Ambassador Bill Taylor Testifies - Clear Quid Pro Quo for Biden Investigation
+*Date: 2019-10-22*
+
+1. [Deposition of William B. Taylor Jr.](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D011.pdf)
+2. [Read: Acting Ukraine Ambassador Bill Taylor's Opening Statement](https://www.npr.org/2019/10/22/772539881/read-acting-ukraine-ambassador-bill-taylors-opening-statement)
+3. [Read the full testimony of top U.S. diplomat in Ukraine William Taylor](https://www.pbs.org/newshour/politics/read-the-full-testimony-of-top-u-s-diplomat-in-ukraine-william-taylor)
+
+## Federal Judge Holds DeVos in Contempt for Illegally Collecting on Corinthian Loans - $100K Fine
+*Date: 2019-10-24*
+
+1. [DeVos Held In Contempt Of Court For Enforcing Loans On Defrauded College Students](https://www.npr.org/2019/10/25/773334681/devos-held-in-contempt-of-court-ed-department-fined-100-000-in-student-loan-case)
+2. [DeVos Held In Contempt For Illegal Collection of Student Debts](https://www.ppsl.org/news/news/press-releases/betsy-devos-held-in-contempt-for-illegal-collection-student-debts)
+3. [Betsy DeVos found in contempt of court for violating order on student loans](https://www.cbsnews.com/news/betsy-devos-found-in-contempt-of-court-violating-student-loans-order/)
+
 ## Maria Butina Released from Federal Prison and Immediately Deported to Russia After 15 Months
 *Date: 2019-10-25*
 
@@ -5607,12 +8970,41 @@
 2. [Russian operative Maria Butina released from prison, deported to Moscow](https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-set-deportation-after-prison-release-n1071801)
 3. [Maria Butina, Convicted Russian Operative, Is Released From Federal Prison](https://www.npr.org/2019/10/25/773374719/maria-butina-convicted-russian-operative-is-released-from-federal-prison)
 
+## Pentagon Awards $10 Billion JEDI Cloud Contract to Microsoft Over Amazon
+*Date: 2019-10-26*
+
+1. [Pentagon Awards $10 Billion Contract To Microsoft Over Front-Runner Amazon](https://www.npr.org/2019/10/26/773706177/pentagon-awards-10-billion-contract-to-microsoft-over-front-runner-amazon)
+2. [In a victory over Amazon, Microsoft wins $10B Pentagon JEDI cloud contract](https://techcrunch.com/2019/10/25/in-a-victory-over-amazon-microsoft-wins-10b-pentagon-jedi-cloud-contract/)
+3. [Pentagon cancels disputed JEDI cloud contract with Microsoft](https://www.pbs.org/newshour/politics/pentagon-cancels-disputed-jedi-cloud-contract-with-microsoft)
+
+## Lt. Col. Vindman Testifies - "It Was Improper for the President to Demand Investigation of U.S. Citizen"
+*Date: 2019-10-29*
+
+1. [Deposition of Lt. Col. Alexander S. Vindman](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf)
+2. [Read Lt. Col. Vindman's Opening Statement To House Impeachment Investigators](https://www.npr.org/2019/10/29/774179587/read-lt-col-vindmans-opening-statement-to-house-impeachment-investigators)
+3. [Impeachment Hearing - Lt. Col. Vindman Public Testimony](https://www.c-span.org/video/?466378-1/impeachment-hearing-lt-col-vindman-vice-president-pences-aide-testify)
+
 ## WhatsApp Sues NSO Group Over Pegasus Spyware Attack on 1,400 Users
 *Date: 2019-10-29*
 
 1. [1,400 Pegasus spyware infections detailed in WhatsApp lawsuit filings](https://therecord.media/pegasus-spyware-infections-detailed-whatsapp-lawsuit)
 2. [Apple files lawsuit against NSO Group over Pegasus spyware](https://techcrunch.com/2021/11/23/apple-nso-group-lawsuit/)
 3. [Judge rules NSO Group is liable for spyware hacks targeting 1,400 WhatsApp user devices](https://therecord.media/judge-rules-nso-group-liable-for-hack-of-1400-whatsapp-users)
+
+## Interior IG Investigates Bernhardt for California Water Decision Benefiting Former Client Westlands
+*Date: 2019-10-30*
+
+1. [Former California water lobbyist, Trump's Interior Secretary, under investigation](https://capitolweekly.net/former-california-water-lobbyist-trumps-interior-secretary-under-investigation/)
+2. [Interior IG opens investigation into Secretary Bernhardt four days after confirmation](https://www.cnn.com/2019/04/15/politics/bernhardt-interior-ig-investigation/index.html)
+3. [Feds clear Ex-Interior Sec. Bernhardt in probe of Westlands ties](https://sjvsun.com/ag/feds-clear-ex-interior-sec-bernhardt-in-probe-of-westlands-ties/)
+
+## Judge Orders Trump to Pay $2 Million for Misusing Trump Foundation Charity Funds
+*Date: 2019-11-07*
+
+1. [Court Orders President Trump To Pay $2 Million For Illegally Using Trump Foundation Funds](https://ag.ny.gov/press-release/2019/court-orders-president-trump-pay-2-million-illegally-using-trump-foundation)
+2. [New York v. Trump Foundation - Final Judgment](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=8egPCj8KJexIX9IHbmxRqg==&system=prod)
+3. [Trump Ordered to Pay $2 Million to Charities for Misuse of Foundation](https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html)
+4. [Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds](https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds)
 
 ## Groyper War Erupts: Far-Right Activists Disrupt Trump Jr. Event at UCLA
 *Date: 2019-11-10*
@@ -5649,6 +9041,66 @@
 2. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume I](https://www.justice.gov/storage/report.pdf)
 3. [United States v. Roger J. Stone, Jr. - Indictment](https://www.documentcloud.org/documents/5740797-Stone-Indictment.html)
 
+## Ambassador Yovanovitch Testifies on Giuliani Smear Campaign and Removal from Ukraine Post
+*Date: 2019-11-15*
+
+1. [Impeachment Inquiry: Ambassador Marie Yovanovitch Public Testimony Transcript](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=803)
+2. [Deposition of Marie Yovanovitch](https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D006.pdf)
+3. [Impeachment Hearing - Ambassador Marie Yovanovitch Public Testimony](https://www.c-span.org/video/?466378-102/impeachment-hearing-ambassador-marie-yovanovitch-testifies)
+
+## OMB Official Mark Sandy Testifies on Ukraine Aid Freeze, Reveals Two Colleagues Resigned Over Concerns
+*Date: 2019-11-16*
+
+1. [Two OMB officials resigned in part over concerns about Ukraine aid hold, official testifies](https://www.washingtonpost.com/us-policy/2019/11/26/two-omb-officials-resigned-voicing-concerns-over-ukraine-aid-hold-official-testifies/)
+2. [Summary of Mark Sandy's Deposition Testimony](https://www.lawfareblog.com/summary-mark-sandys-deposition-testimony)
+3. [Mark Sandy transcript - Budget official testimony undermines impeachment defense on freezing Ukraine aid](https://www.cnn.com/2019/11/26/politics/transcripts-released-philip-reeker-mark-sandy/index.html)
+4. [Impeachment Inquiry - Officials Worried Freezing Ukraine Aid Might Break The Law](https://www.npr.org/2019/11/26/783130582/white-house-officials-worried-freezing-ukraine-aid-could-break-the-law)
+
+## Sondland Testifies - "Was There a Quid Pro Quo? The Answer Is Yes. Everyone Was in the Loop."
+*Date: 2019-11-20*
+
+1. [Impeachment Inquiry: Ambassador Gordon Sondland Public Testimony Transcript](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=806)
+2. [Read Sondland's Opening Statement Saying Top Officials Knew Of Ukraine Quid Pro Quo](https://www.npr.org/2019/11/20/781042006/read-sondlands-opening-statement-saying-top-officials-knew-of-ukraine-quid-pro-)
+3. [Impeachment Hearing - EU Ambassador Gordon Sondland Public Testimony](https://www.c-span.org/video/?466379-1/impeachment-hearing-eu-ambassador-gordon-sondland-testifies)
+
+## Fiona Hill Testifies - Giuliani Ran Shadow Ukraine Policy for "Domestic Political Errand"
+*Date: 2019-11-21*
+
+1. [Impeachment Inquiry: Dr. Fiona Hill Public Testimony Transcript](https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=809)
+2. [Read Opening Statement From Fiona Hill, Ex-NSC Russia Expert](https://www.npr.org/2019/11/21/781520312/read-opening-statement-from-fiona-hill-ex-nsc-russia-expert)
+3. [Impeachment Inquiry Hearing - Fiona Hill and David Holmes Testimony](https://www.c-span.org/video/?466380-1/impeachment-inquiry-hearing-fiona-hill-david-holmes)
+
+## Rep. Duncan Hunter Pleads Guilty to Stealing Campaign Funds After Blaming Wife
+*Date: 2019-12-03*
+
+1. [Congressman Duncan D. Hunter Pleads Guilty to Stealing Campaign Funds](https://www.justice.gov/usao-sdca/pr/congressman-duncan-d-hunter-pleads-guilty-stealing-campaign-funds)
+2. [Duncan Hunter pleads guilty to conspiracy to misuse campaign funds](https://rollcall.com/2019/12/03/duncan-hunter-pleads-guilty-to-conspiracy-to-misuse-campaign-funds/)
+3. [Duncan Hunter submits resignation after guilty plea on conspiracy to misuse campaign funds](https://abcnews.go.com/Politics/duncan-hunter-submits-resignation-guilty-plea-conspiracy-misuse/story?id=68128521)
+
+## New York Loses ExxonMobil Climate Fraud Lawsuit in Major Accountability Failure
+*Date: 2019-12-10*
+
+1. [Exxon Wins New York Climate Change Fraud Case](https://www.npr.org/2019/12/10/780317799/exxon-wins-new-york-climate-change-case)
+2. [In Climate Fraud Suit, Exxon Mobil Earns Win Over New York State](https://undark.org/2019/12/13/abstracts-exxon-new-york-climate/)
+3. [New York AG Sues Exxon, Says Oil Giant Defrauded Investors Over Climate Change](https://insideclimatenews.org/news/24102018/exxon-climate-fraud-lawsuit-new-york-attorney-general-investigation-tillerson/)
+4. [People v. Exxon Mobil](https://en.wikipedia.org/wiki/People_v._Exxon_Mobil)
+
+## Conservative Lawsuit Forces Wisconsin to Purge 200,000 Voters Before 2020 Election
+*Date: 2019-12-13*
+
+1. [Conservatives seek to purge 200,000 from voter rolls in Wisconsin](https://www.pbs.org/newshour/politics/conservatives-seek-to-purge-200000-from-voter-rolls-in-wisconsin)
+2. [Conservatives seek immediate purge of over 200,000 voters in Wisconsin](https://www.nbcnews.com/politics/2020-election/conservatives-seek-immediate-purge-over-200-000-voters-wisconsin-n1109636)
+3. [Wisconsin's Voter-Roll Purge](https://americanoversight.org/investigation/wisconsins-voter-roll-purge)
+4. [How a Conservative Group Persuaded a Judge to Purge Wisconsin's Voter Rolls](https://slate.com/news-and-politics/2019/12/wisconsin-voter-purge-judge-order.html)
+
+## House Votes to Impeach Trump on Abuse of Power and Obstruction of Congress
+*Date: 2019-12-18*
+
+1. [Roll Call Vote 695 - H.Res.755 - Article I: Abuse of Power](https://clerk.house.gov/Votes/2019695)
+2. [Roll Call Vote 696 - H.Res.755 - Article II: Obstruction of Congress](https://clerk.house.gov/Votes/2019696)
+3. [H.Res.755 - Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors](https://www.congress.gov/bill/116th-congress/house-resolution/755)
+4. [House Debates Articles of Impeachment](https://www.c-span.org/video/?467098-1/house-debates-articles-impeachment)
+
 ## Trump Signs Defense Bill Creating Space Force
 *Date: 2019-12-20*
 
@@ -5656,12 +9108,94 @@
 2. [Donald Trump signs $738 billion defense bill creating new Space Force](https://www.washingtontimes.com/news/2019/dec/20/donald-trump-signs-738-billion-defense-bill-creati/)
 3. [Space Force authorized in $738 billion defense bill](https://apnews.com/article/space-force-defense-bill-f92f7a08-e1a3-11e9-a6bf-9bd9e21c11ab)
 
+## Boeing CEO Dennis Muilenburg Fired Over 737 MAX Disasters, Keeps $62 Million Despite 346 Deaths
+*Date: 2019-12-23*
+
+1. [Boeing's Ousted CEO Exits With $80 Million, Even Without Severance Pay](https://www.cnn.com/2020/01/10/business/boeing-ceo-muilenburg-severance/index.html)
+2. [Boeing's Ousted CEO Departs With $62M, Even Without Severance Pay](https://www.cbc.ca/news/business/boeing-dennis-muilenburg-compensation-1.5423648)
+3. [Boeing Fires Embattled CEO Dennis Muilenburg](https://abcnews.go.com/Business/boeing-ceo-dennis-muilenburg-fired/story?id=67895218)
+4. [Boeing Details Final 2019 Compensation to Muilenburg and Other Top Execs](https://www.seattletimes.com/business/boeing-aerospace/boeing-details-final-2019-compensation-to-muilenburg-and-other-top-execs/)
+
+## ALEC's Education Privatization Campaign Achieves Dominance - Model Legislation Controls Voucher Landscape Nationwide
+*Date: 2020-01-01*
+
+1. [ALEC and Other Conservative Groups Push School Choice](https://www.governing.com/policy/alec-and-other-conservative-groups-push-school-choice)
+2. [ALEC 'Report Card' Recycles Bogus School Quality and Improvement Claims](https://nepc.colorado.edu/publication/alec-report)
+3. [Research on school vouchers suggests concerns ahead for education savings accounts](https://www.brookings.edu/articles/research-on-school-vouchers-suggests-concerns-ahead-for-education-savings-accounts/)
+4. [How vouchers harm public schools: Calculating the cost of voucher programs to public school districts](https://www.epi.org/publication/vouchers-harm-public-schools/)
+5. [Private school vouchers: Research to help you assess school choice programs](https://journalistsresource.org/education/private-school-vouchers-school-choice-research-2/)
+
+## CEO Pay Ratio Reaches 351-to-1 Versus Average Worker, Up from 21-to-1 in 1965
+*Date: 2020-01-01*
+
+1. [CEO pay has skyrocketed 1,322% since 1978: CEOs were paid 351 times as much as a typical worker in 2020](https://www.epi.org/publication/ceo-pay-in-2020/)
+2. [CEO pay soared nearly 19% in 2020: CEOs made 351 times as much as the typical worker](https://www.epi.org/press/ceo-pay-soared-nearly-19-in-2020-ceos-made-351-times-as-much-as-the-typical-worker/)
+3. [In 2020, top CEOs earned 351 times more than the typical worker](https://www.cnbc.com/2021/09/15/in-2020-top-ceos-earned-351-times-more-than-the-typical-worker.html)
+
+## McKinsey Advised Purdue on "Turbocharging" OxyContin Sales, Targeting High-Volume Prescribers
+*Date: 2020-01-01*
+
+1. [McKinsey Apologizes For Helping Purdue Pharma 'Turbocharge' Opioid Sales](https://www.npr.org/2020/12/09/944563257/mckinsey-apologizes-for-helping-purdue-pharma-turbocharge-opioid-sales)
+2. [New documents show McKinsey's role in fueling opioid epidemic](https://hub.jhu.edu/2022/06/30/mckinsey-opioid-documents-archive/)
+3. [How McKinsey, the World's Most Elite Consulting Firm, Helped Turbocharge America's Opioid Epidemic](https://jacobin.com/2020/12/mckinsey-consulting-firm-opioid-epidemic-purdue-pharma)
+
+## Boeing Internal Messages Released - "Designed by Clowns, Supervised by Monkeys"
+*Date: 2020-01-09*
+
+1. [The Doomed Planes "Designed By Clowns Supervised by Monkeys"](https://www.flyertalk.com/articles/designed-by-clowns-supervised-by-monkeys.html)
+2. [Boeing 737 Max 'Designed by Clowns Supervised by Monkeys', Internal Memos Say](https://www.cityam.com/boeing-737-max-designed-by-clowns-supervised-by-monkeys-internal-memos-say/)
+3. [Boeing Releases Embarrassing Internal Messages on 737 MAX](https://www.reuters.com/article/business/boeing-releases-embarrassing-internal-messages-on-737-max-idUSKBN1Z818R/)
+
+## Pelosi Transmits Impeachment Articles to Senate After 28-Day Strategic Delay
+*Date: 2020-01-16*
+
+1. [Pelosi Statement on Transmission of Articles of Impeachment](https://www.speaker.gov/newsroom/11620)
+2. [Senate Receives Articles of Impeachment](https://www.congress.gov/congressional-record/2020/01/15/senate-section/article/S242-2)
+3. [House Transmits Articles of Impeachment to Senate](https://www.c-span.org/video/?468203-1/house-transmits-articles-impeachment-senate)
+
+## Rep. Chris Collins Sentenced to 26 Months for Insider Trading From White House Lawn
+*Date: 2020-01-17*
+
+1. [Former Congressman Christopher Collins Sentenced For Insider Trading Scheme And Lying To Federal Law Enforcement Agents](https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying)
+2. [Ex-New York congressman Chris Collins sentenced to 26 months for insider-trading tip to son](https://www.cnbc.com/2020/01/17/chris-collins-sentenced-to-26-months-for-insider-trading-tip.html)
+3. [Former Rep. Chris Collins sentenced to just over two years in federal prison](https://rollcall.com/2020/01/17/former-rep-chris-collins-sentenced-to-just-over-two-years-in-federal-prison/)
+
 ## New York Times Exposé Reveals Clearview AI's 3 Billion Photo Surveillance Database
 *Date: 2020-01-18*
 
 1. [Exposing the secretive company at the forefront of facial recognition technology](https://www.npr.org/2023/09/28/1202310781/exposing-the-secretive-company-at-the-forefront-of-facial-recognition-technology)
 2. [Kashmir Hill - Wikipedia](https://en.wikipedia.org/wiki/Kashmir_Hill)
 3. [A Shazam for People: Clearview's AI App Was a Hit Among the Rich and Powerful](https://www.rollingstone.com/culture/culture-features/clearview-ai-app-privacy-your-face-belongs-to-us-excerpt-1234829211/)
+
+## Bolton Book Manuscript Reveals Trump Directly Tied Ukraine Aid to Biden Investigation
+*Date: 2020-01-31*
+
+1. [Bolton Book Manuscript: Trump Tied Ukraine Aid to Investigations](https://www.nytimes.com/2020/01/26/us/politics/trump-bolton-book-ukraine.html)
+2. [Read Excerpts: The Trump-Ukraine Pressure Campaign, As Described By John Bolton](https://www.npr.org/2020/06/17/879375742/read-excerpts-the-trump-ukraine-pressure-campaign-as-described-by-john-bolton)
+3. [Bolton Book Details Trump Ukraine Conduct](https://www.c-span.org/video/?468886-1/bolton-book-details-trump-ukraine-conduct)
+
+## Senate Votes 51-49 to Block Witnesses in Impeachment Trial, Ensuring Trump Acquittal
+*Date: 2020-01-31*
+
+1. [Senate Vote 33 - Motion to Call Witnesses and Documents](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00033.htm)
+2. [Senate Votes 51-49 Against Witnesses in President Trump Impeachment Trial](https://www.c-span.org/video/?468828-1/senate-votes-5149-witnesses-president-trump-impeachment-trial)
+3. [Senate Blocks Witnesses And Documents In Impeachment Trial, Clearing Path To Acquittal](https://www.npr.org/2020/01/31/801432093/senate-blocks-witnesses-and-documents-in-impeachment-trial-clearing-path-to-acqu)
+
+## Senate Acquits Trump Despite Proven Abuse of Power; Romney Only Republican to Convict
+*Date: 2020-02-05*
+
+1. [Senate Vote 34 - Article I: Abuse of Power](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00034.htm)
+2. [Senate Vote 35 - Article II: Obstruction of Congress](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00035.htm)
+3. [Senate Acquits President Trump on Abuse of Power Charge](https://www.c-span.org/video/?469080-1/senate-acquits-president-trump-abuse-power-charge)
+4. [Read Sen. Mitt Romney's Full Speech On His Vote To Convict Trump](https://www.npr.org/2020/02/05/803251156/read-sen-mitt-romneys-full-speech-on-his-vote-to-convict-trump)
+
+## Trump Fires Impeachment Witnesses Vindman and Sondland in Coordinated Retaliation Purge
+*Date: 2020-02-07*
+
+1. [Trump fires two major impeachment figures – Alexander Vindman and Gordon Sondland](https://www.cnn.com/2020/02/07/politics/alex-vindman-donald-trump-impeachment)
+2. [Trump ousts EU ambassador Sondland](https://thehill.com/homenews/administration/482108-trump-ousts-eu-ambassador-sondland/)
+3. [Lt. Col. Vindman, fired by White House after testifying in Trump impeachment](https://www.stripes.com/branches/army/lt-col-vindman-fired-by-white-house-after-testifying-in-trump-impeachment-will-retire-from-army-1.636781)
+4. [Alexander Vindman, NSC official who testified in impeachment trial, removed from White House](https://www.cbsnews.com/news/alexander-vindman-removed-from-white-house-today/)
 
 ## Trump Fires Lt. Col. Vindman from NSC in Retaliation for Impeachment Testimony
 *Date: 2020-02-07*
@@ -5705,6 +9239,14 @@
 2. [Axon Air Product Overview](https://www.axon.com/products/axon-air)
 3. [Axon Air Law Enforcement Drone Program](https://www.officer.com/command-hq/technology/security-surveillance/uav-uas/product/21008346/axon-axon-air-law-enforcement-drone-program)
 
+## Trump Fires Acting DNI Joseph Maguire After Intelligence Briefing That Russia Prefers Trump in 2020
+*Date: 2020-02-20*
+
+1. [After a congressional briefing on election threats, Trump soured on acting spy chief](https://www.washingtonpost.com/national-security/after-a-congressional-briefing-on-election-threats-trump-soured-on-acting-spy-chief/2020/02/20/1ed2b4ec-53f1-11ea-b119-4faabac6674f_story.html)
+2. [Trump angry after House briefed on Russia meddling in 2020 election on his behalf](https://www.nbcnews.com/politics/national-security/trump-anger-cost-joseph-maguire-job-director-national-intelligence-n1140086)
+3. [Why President Donald Trump Fired Joseph Maguire](https://time.com/5788479/trump-fires-maguire/)
+4. [Richard Grenell Named As Acting Director Of National Intelligence](https://www.npr.org/2020/02/20/807644469/white-house-appoints-outspoken-ambassador-as-new-acting-head-of-intelligence)
+
 ## DOJ Overrules Prosecutors' Roger Stone Sentencing Recommendation After Trump Tweet
 *Date: 2020-02-20*
 
@@ -5712,6 +9254,20 @@
 2. [Roger Stone Sentenced To More Than 3 Years Amid Furor Over Trump And DOJ](https://www.npr.org/2020/02/20/807099176/roger-stone-sentenced-to-3-years-amid-furor-over-trump-involvement-in-doj-cases)
 3. [All four Roger Stone prosecutors resign from case after DOJ backpedals on sentencing recommendation](https://www.nbcnews.com/politics/politics-news/doj-backpedalling-sentencing-recommendation-trump-ally-roger-stone-n1134961)
 4. [All 4 federal prosecutors quit Stone case after DOJ overrules prosecutors on sentencing request](https://www.cnn.com/2020/02/11/politics/roger-stone-sentencing-justice-department/index.html)
+
+## DOJ Declines Criminal Prosecution of Wells Fargo Executives
+*Date: 2020-02-21*
+
+1. [Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices)
+2. [US Government Fines Wells Fargo $3 Billion for 'Staggering' Fake-Accounts Scandal](https://www.cnn.com/2020/02/21/business/wells-fargo-settlement-doj-sec/index.html)
+3. [Justice Deferred at Wells Fargo](https://www.dcreport.org/2020/03/03/justice-deferred-at-wells-fargo/)
+
+## Wells Fargo Pays $3 Billion, Admits Fraud, No Executives Charged
+*Date: 2020-02-21*
+
+1. [Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices)
+2. [US Government Fines Wells Fargo $3 Billion for 'Staggering' Fake-Accounts Scandal](https://www.cnn.com/2020/02/21/business/wells-fargo-settlement-doj-sec/index.html)
+3. [Wells Fargo Charged With Misleading Investors About Sales Quality](https://www.sec.gov/news/press-release/2020-38)
 
 ## Fed Vice Chair Clarida Trades Millions Before Rate Cuts
 *Date: 2020-02-27*
@@ -5735,6 +9291,20 @@
 2. [Far-Right Extremists Gather in Florida for CPAC Spinoff Alongside Sitting Congressman](https://www.splcenter.org/resources/hatewatch/far-right-extremists-gather-florida-cpac-spinoff-alongside-sitting-congressman)
 3. [AFPAC III: Elected Officials Support White Supremacist Event](https://www.adl.org/resources/article/afpac-iii-elected-officials-support-white-supremacist-event)
 
+## Trump Calls Coronavirus "Their New Hoax" at South Carolina Rally
+*Date: 2020-02-28*
+
+1. [Trump and the 'New Hoax'](https://www.factcheck.org/2020/03/trump-and-the-new-hoax/)
+2. [Trump calls coronavirus Democrats' 'new hoax'](https://www.nbcnews.com/politics/donald-trump/trump-calls-coronavirus-democrats-new-hoax-n1145721)
+3. [AP FACT CHECK - Trump's virus revisionism; Biden on the hoax](https://www.pbs.org/newshour/politics/ap-fact-check-trumps-virus-revisionism-biden-on-the-hoax)
+
+## Trump Wears "Keep America Great" Campaign Hat During CDC Visit, Makes False Testing Claims
+*Date: 2020-03-06*
+
+1. [Trump's CDC visit turns into scattershot defense on virus](https://wtop.com/government/2020/03/president-trump-calls-off-planned-trip-to-cdc-in-atlanta/)
+2. [7 disturbing moments from Trump's visit to the CDC](https://www.salon.com/2020/03/07/7-disturbing-moments-from-trumps-visit-to-the-cdc_partner/)
+3. [Trump to visit CDC as coronavirus cases, deaths rise in US](https://nbcwashington.com/news/health/trump-to-visit-cdc-as-coronavirus-cases-deaths-rise-in-us/2233231)
+
 ## New York Times Exposes Erik Prince's Recruitment of Former Spies for Project Veritas Domestic Intelligence Operations
 *Date: 2020-03-07*
 
@@ -5742,6 +9312,34 @@
 2. [New York Times - Erik Prince recruiting former spies to help with Project Veritas stings](https://www.cnn.com/2020/03/07/politics/erik-prince-project-veritas-stings)
 3. [Blackwater Founder Erik Prince Recruited Spies to Infiltrate Progressive Groups with Project Veritas](https://www.democracynow.org/2020/3/9/blackwater_erik_prince_trump_admin)
 4. [Erik Prince recruited former spies to infiltrate Democratic campaigns and liberal groups - report](https://www.salon.com/2020/03/09/erik-prince-recruited-former-spies-to-infiltrate-democratic-campaigns-and-liberal-groups-report/)
+
+## COVID-19 Emergency Triggers Student Loan Payment Pause - 44 Million Borrowers Get Relief
+*Date: 2020-03-13*
+
+1. [COVID-19 Emergency Relief and Federal Student Aid](https://studentaid.gov/announcements-events/covid-19/payment-pause-zero-interest)
+2. [Federal Student Loan Debt Relief in the Context of COVID-19](https://www.congress.gov/crs-product/R46314)
+3. [How the Student Loan Payment Pause Affected Borrowers' Credit Access](https://www.bostonfed.org/publications/current-policy-perspectives/2025/how-the-student-loan-payment-pause-affected-borrowers-credit-access-and-credit-use.aspx)
+
+## Trump Declares National Emergency for COVID-19 After Weeks of Denialism and Delay
+*Date: 2020-03-13*
+
+1. [Trump declares coronavirus pandemic a national emergency](https://www.statnews.com/2020/03/13/national-emergency-coronavirus/)
+2. [Trump declares national emergency to combat coronavirus, authorizes waiving of laws and regulations](https://www.nbcnews.com/politics/donald-trump/trump-hold-friday-afternoon-press-conference-coronavirus-n1157981)
+3. [Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak](https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/)
+
+## Senators Burr and Loeffler Accused of Insider Trading After COVID-19 Briefings
+*Date: 2020-03-19*
+
+1. [Richard Burr and other senators sold lots of stock as virus fears started](https://www.cbsnews.com/news/richard-burr-coronavirus-kelly-loeffler-dianne-feinstein-james-inhofe-sold-lots-of-stock-virus-fears-started/)
+2. [Senate Intel Chairman Richard Burr Steps Aside Amid FBI Investigation](https://www.npr.org/2020/05/14/855994291/Senate-intel-chairman-richard-burr-steps-aside-amid-fbi-investigation)
+3. [2020 congressional insider trading scandal](https://en.wikipedia.org/wiki/2020_congressional_insider_trading_scandal)
+
+## Amazon Fires Christian Smalls for Organizing COVID Safety Protest
+*Date: 2020-03-30*
+
+1. [Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer: 'He's Not Smart or Articulate'](https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/)
+2. [Amazon lawyer calls fired strike organizer 'not smart or articulate' in meeting with top execs](https://www.cnbc.com/2020/04/02/amazon-lawyer-calls-fired-warehouse-worker-not-smart-or-articulate.html)
+3. [Leaked Memo Reveals Amazon Execs Plotted to Paint Fired 'Not Smart' Worker as 'Face of Entire Union/Organizing Movement'](https://www.commondreams.org/news/2020/04/03/leaked-memo-reveals-amazon-execs-plotted-paint-fired-not-smart-worker-face-entire)
 
 ## MVM Inc operates shadow detention network using hotels and unmarked buildings for children
 *Date: 2020-04-01*
@@ -5773,12 +9371,42 @@
 2. [Trump's systematic removal of inspectors general creates 'constitutional crisis'](https://www.washingtonpost.com/politics/2020/05/21/trumps-systematic-removal-inspectors-general-creates-constitutional-crisis/)
 3. [Trump administration's inspector general purge echoes Bush-era oversight destruction](https://www.politico.com/news/2020/05/19/trump-inspector-general-firings-oversight-265219)
 
+## HHS Inspector General Christi Grimm Reports Severe Hospital Shortages, Trump Attacks Her Credibility
+*Date: 2020-04-06*
+
+1. [Watchdog report finds severe shortages and significant challenges to hospitals' coronavirus responses](https://www.cnn.com/2020/04/06/politics/department-of-health-and-human-services-shortages/index.html)
+2. [Trump replaces HHS watchdog who found severe shortages at hospitals combating coronavirus](https://www.washingtonpost.com/politics/trump-replaces-hhs-watchdog-who-found-severe-shortages-at-hospitals-combating-coronavirus/2020/05/02/6e274372-8c87-11ea-ac8a-fe9b8088e101_story.html)
+3. [HHS watchdog defends April report on PPE shortages that drew Trump's wrath](https://www.cbsnews.com/news/christi-grimm-testimony-hhs-watchdog-defends-april-report-ppe-shortages/)
+4. [The HHS Inspector General Report](https://www.factcheck.org/2020/04/the-hhs-inspector-general-report/)
+
+## Trump Removes Glenn Fine from Pentagon IG, Blocking $2 Trillion CARES Act Oversight
+*Date: 2020-04-07*
+
+1. [Trump removes inspector general who was to oversee $2 trillion stimulus spending](https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html)
+2. [Trump Removes Glenn Fine As Oversight Leader Of Congressional Coronavirus Bill](https://www.npr.org/2020/04/07/829136780/in-another-pushback-against-oversight-trump-removes-pandemic-inspector-general)
+3. [Trump removes independent watchdog tasked with overseeing coronavirus emergency funds](https://www.cnn.com/2020/04/07/politics/trump-sidelines-pentagon-watchdog-coronavirus-funds/index.html)
+4. [Chairwoman Maloney Issues Statement on President Trump's Removal of IG Glenn Fine](https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-issues-statement-on-president-trump-s-removal-of-ig-glenn)
+
 ## CatalanGate Reveals Systematic Pegasus Targeting of 65 Catalan Independence Leaders
 *Date: 2020-04-18*
 
 1. [CatalanGate: Extensive Mercenary Spyware Operation against Catalans Using Pegasus and Candiru](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/)
 2. [Spain: EU must act to end spyware abuse after prominent Catalans targeted with Pegasus](https://www.amnesty.org/en/latest/news/2022/04/spain-pegasus-spyware-catalans-targeted/)
 3. [Spain: UN experts demand investigation into alleged spying programme targeting Catalan leaders](https://www.ohchr.org/en/press-releases/2023/02/spain-un-experts-demand-investigation-alleged-spying-programme-targeting)
+
+## Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics
+*Date: 2020-04-20*
+
+1. [Whole Foods tracks unionization risk with heat map](https://www.businessinsider.com/whole-foods-tracks-unionization-risk-with-heat-map-2020-1)
+2. [Amazon's Whole Foods uses heat mapping to track unionisation efforts](https://www.computerweekly.com/news/252481961/Amazons-Whole-Foods-uses-heat-mapping-to-track-unionisation-efforts)
+3. [Whole Foods Tracks Stores at Risk of Unionizing With a Heat Map, Report Says](https://www.thedailybeast.com/whole-foods-tracks-stores-at-risk-of-unionizing-with-a-heat-map-report-says)
+
+## Trump Suggests Injecting Disinfectant and UV Light Inside Body as COVID Treatments
+*Date: 2020-04-23*
+
+1. [The White House Spins Trump's Disinfectant Remarks](https://www.factcheck.org/2020/04/the-white-house-spins-trumps-disinfectant-remarks/)
+2. [Trump suggests 'injection' of disinfectant to beat coronavirus and 'clean' the lungs](https://www.nbcnews.com/politics/donald-trump/trump-suggests-injection-disinfectant-beat-coronavirus-clean-lungs-n1191216)
+3. [In Context - What Donald Trump said about disinfectant, sun and coronavirus](https://www.politifact.com/article/2020/apr/24/context-what-donald-trump-said-about-disinfectant-/)
 
 ## Trump Dismisses State Department Inspector General Steve Linick
 *Date: 2020-05-15*
@@ -5817,6 +9445,22 @@
 2. [FBI Expands Ability to Monitor Social Media, Location Data](https://theintercept.com/2020/06/24/fbi-surveillance-social-media-cellphone-dataminr-venntel/)
 3. [FBI Awards Dataminr Contract for Twitter 'Firehose'](https://www.nextgov.com/emerging-tech/2016/11/fbi-awards-dataminr-contract-twitter-firehose/133152/)
 
+## Amazon announces one-year moratorium on police use of Rekognition after George Floyd protests
+*Date: 2020-06-10*
+
+1. [Amazon Halts Police Use Of Its Facial Recognition Technology](https://www.npr.org/2020/06/10/874418013/amazon-halts-police-use-of-its-facial-recognition-technology)
+2. [ACLU Statement on Amazon Face Recognition Moratorium](https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium)
+3. [The two-year fight to stop Amazon from selling face recognition to the police](https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/)
+4. [Amazon Web Services extends ban on facial recognition sales to police](https://aibusiness.com/companies/amazon-web-services-extends-ban-on-facial-recognition-sales-to-police)
+
+## Louis DeJoy Begins Serving as Postmaster General Despite Conflicts of Interest
+*Date: 2020-06-15*
+
+1. [Board of Governors Announces Selection of Louis DeJoy to Serve as Nation's 75th Postmaster General](https://about.usps.com/newsroom/national-releases/2020/0506-bog-announces-selection-of-louis-dejoy-to-serve-as-nations-75th-postmaster-general.htm)
+2. [Louis DeJoy, New Postmaster General, Is Top GOP Donor](https://www.npr.org/2020/05/07/851976464/new-postmaster-general-is-top-gop-fundraiser)
+3. [USPS board names logistics executive as new postmaster general](https://federalnewsnetwork.com/agency-oversight/2020/05/usps-board-names-logistics-executive-as-new-postmaster-general/)
+4. [Guaranteed Delivery: DeJoy's Post Office Corruption](https://www.citizen.org/article/guaranteed-delivery-dejoys-post-office-corruption/)
+
 ## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
 *Date: 2020-07-01*
 
@@ -5838,6 +9482,13 @@
 4. [FRONTLINE: Children at the Border - Hotel Detention Investigation](https://www.pbs.org/wgbh/frontline/article/migrant-children-were-detained-hotels-border/)
 5. [Investigation Reveals MVM Inc. Detained Children in Hotels](https://www.texastribune.org/2020/08/10/texas-immigrant-children-hotels-flores-agreement/)
 6. [Before Covid-19 Border Expulsions, Children Were Held in Hotels by Contractors](https://www.nytimes.com/2020/08/16/us/migrant-children-hotels-coronavirus.html)
+
+## Trump Holds Mt. Rushmore Rally with 7,500 Packed, Maskless Attendees During Pandemic Surge
+*Date: 2020-07-04*
+
+1. [Trump Flouts Virus Rules, Warns Of 'New Far-Left Fascism' At Mount Rushmore Event](https://www.npr.org/2020/07/04/887222928/trump-flouts-virus-rules-warns-of-new-far-left-fascism-in-speech-ahead-of-july-4)
+2. [The Fourth of July Weekend Threw America's Coronavirus Failures Into Stark Relief](https://time.com/5863324/july-fourth-coronavirus/)
+3. [No social distancing planned for Trump's Mt. Rushmore fireworks event, governor says](https://abcnews.go.com/Politics/trump-holding-large-scale-july-4th-event-mount/story?id=71576804)
 
 ## Deutsche Bank fined $150 million for processing Epstein transactions including payments to co-conspirators
 *Date: 2020-07-07*
@@ -5876,6 +9527,37 @@
 2. [New documents show DeJoy's USPS removed 711 mail sorting machines](https://www.cnn.com/2020/09/09/politics/usps-removed-711-sorting-machines/index.html)
 3. [Louis DeJoy](https://en.wikipedia.org/wiki/Louis_DeJoy)
 
+## Trump Explicitly Admits Blocking USPS Funding to Restrict Mail Voting
+*Date: 2020-08-13*
+
+1. [Trump Opposes Boosting Postal Service Funding To Block Expansion Of Mail-In Voting](https://www.npr.org/2020/08/13/902277382/trump-opposes-boosting-postal-service-funding-to-block-expansion-of-mail-in-voti)
+2. [Trump says he is refusing additional post office funding as part of his fight against mail-in voting](https://www.cnbc.com/amp/2020/08/13/trump-refuses-post-office-funding-as-part-of-fight-against-mail-in-voting.html)
+3. [Trump says he opposes more funding for Postal Service over mail-in voting](https://www.cbsnews.com/news/trump-postal-service-funding-mail-in-voting/)
+4. [Trump blurts out his true motive on post office, mail voting](https://www.washingtonpost.com/politics/2020/08/13/trump-blurts-out-his-true-motive-blocking-post-office-funding-mail-in-voting/)
+
+## USPS Removes Mailboxes in Democratic Areas, Reverses After Public Outcry
+*Date: 2020-08-13*
+
+1. [U.S. Postal Service Confirms It Has Removed Mailboxes in Portland and Eugene](https://www.wweek.com/news/2020/08/13/united-states-postal-service-confirmed-it-has-removed-mailboxes-in-portland-and-eugene/)
+2. [VERIFY: Are USPS mailboxes being removed from Portland streets?](https://www.kgw.com/article/news/verify/mail-in-ballots-portland-mailboxes-removed-usps-trump-voting-election/283-dc46af71-d048-4ba2-bcdb-c3d36ff26725)
+3. [Citing 'customer concerns,' Postal Service says it will halt mailbox removals](https://abcnews.go.com/Politics/citing-customer-concerns-postal-service-halt-mailbox-removals/story?id=72407791)
+4. [USPS Confirms Removal of Public Mailboxes from Oregon Cities](https://www.democracynow.org/2020/8/14/headlines/usps_confirms_removal_of_public_mailboxes_from_oregon_cities)
+
+## Trump Says He Will "Take a Look" at Pardoning Snowden, Ultimately Does Not Grant Pardon
+*Date: 2020-08-15*
+
+1. [Trump says he's considering Snowden pardon](https://thehill.com/policy/national-security/512209-trump-says-hes-considering-snowden-pardon/)
+2. [As Trump weighs pardons, GOP divided on whether Snowden should receive one](https://www.cnn.com/2020/12/18/politics/gop-divided-edward-snowden-trump-pardon/index.html)
+3. [Potential Trump Pardon for Edward Snowden a 'Serious Mistake,' Lawmakers Say](https://www.usnews.com/news/national-news/articles/2020-08-17/potential-trump-pardon-for-edward-snowden-a-serious-mistake-lawmakers-say)
+
+## DeJoy Senate Testimony Denies Sabotage as Gary Peters Details Severe Mail Delays
+*Date: 2020-08-21*
+
+1. [Louis DeJoy Vows Post Office Can Handle Mail-In Ballots, In Senate Hearing](https://www.npr.org/2020/08/21/904366258/postmaster-general-faces-senate-as-controversy-persists-over-usps-cuts)
+2. [Peters Secures Senate Oversight Hearing with Postmaster General DeJoy](https://www.peters.senate.gov/newsroom/press-releases/peters-secures-senate-oversight-hearing-with-postmaster-general-dejoy)
+3. [Senator Who Launched USPS Investigation Unsatisfied By DeJoy's Testimony](https://www.npr.org/2020/08/22/905110578/senator-who-launched-usps-investigation-unsatisfied-by-dejoys-testimony)
+4. [Democratic senator to DeJoy: You owe Americans "an apology for the harm you have caused"](https://edition.cnn.com/politics/live-news/postmaster-general-dejoy-senate-testimony/h_105ed639f3a7c5e02715c1d67eaa66a5)
+
 ## USPS OIG flags service declines after mid-July changes; independent datasets show sharp on-time drops
 *Date: 2020-08-21*
 
@@ -5883,6 +9565,69 @@
 2. [Investigative Update: On-time delivery plummeted to 81.5% Aug 8-14](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/201020_InvestigativeUpdate_PetersPostal.pdf)
 3. [USPS Volume, Performance, and Financial Outlook (GAO-21-261)](https://www.gao.gov/products/gao-21-261)
 4. [House Oversight releases internal USPS performance data showing declines](https://www.washingtonpost.com/powerpost/house-poised-to-pass-bill-to-boost-us-postal-service-amid-trump-attacks/2020/08/21/c9196fa8-e3c6-11ea-8181-606e603bb1c4_story.html)
+
+## DeJoy House Testimony Refuses to Restore Mail Sorting Machines Despite Court Concerns
+*Date: 2020-08-24*
+
+1. [House Oversight Committee Hearing on Postal Service Operations and Mail-In Voting](https://www.c-span.org/video/?474917-1/house-oversight-commttee-hearing-postal-service-operations-mail-voting)
+2. [Louis DeJoy Testimony On Post Office, Mail-In Voting](https://www.npr.org/2020/08/24/904435736/watch-postmaster-general-dejoy-testifies-in-house-oversight-hearing)
+3. [Postmaster General DeJoy denies political influence as House questions mail delays](https://www.nbcnews.com/politics/2020-election/postmaster-general-dejoy-field-tough-questions-house-mail-delays-n1237830)
+4. [Louis DeJoy defends USPS changes as Democrats attack 'disaster' facing mail delivery](https://www.cnn.com/2020/08/24/politics/louis-dejoy-testifies-congress/index.html)
+
+## Agriculture Secretary Sonny Perdue Violates Hatch Act by Campaigning for Trump at Official USDA Event
+*Date: 2020-08-24*
+
+1. [USDA Secretary Violated Hatch Act With August Speech, Watchdog Finds](https://www.govexec.com/oversight/2020/10/usda-secretary-violated-hatch-act-august-speech-watchdog-finds/169156/)
+2. [USDA head Perdue violated Hatch Act by advocating for Trump re-election, gov't watchdog says](https://www.nbcnews.com/politics/2020-election/usda-head-perdue-violated-hatch-act-advocating-trump-re-election-n1242687)
+3. [USDA's Perdue fined for violating Hatch Act while promoting food boxes](https://thehill.com/homenews/administration/520240-usdas-perdue-fined-for-violating-hatch-act-while-promoting-food-boxes/)
+
+## Secretary of State Pompeo Delivers Historic RNC Speech from Jerusalem Rooftop, Violating Hatch Act After Changing State Department Policy
+*Date: 2020-08-25*
+
+1. [Watchdog - Mike Pompeo changed State Department rules, violated Hatch Act with convention speech](https://www.nbcnews.com/politics/donald-trump/watchdog-mike-pompeo-changed-state-department-rules-violated-hatch-act-n1283615)
+2. [Mike Pompeo accused of violating Hatch Act in Jerusalem RNC speech](https://religionnews.com/2020/08/26/mike-pompeo-accused-of-violating-hatch-act-in-jerusalem-rnc-speech/)
+3. [Pompeo being investigated for potentially breaking the law with RNC speech](https://www.cnn.com/2020/10/26/politics/pompeo-probe-hatch-act-violation/index.html)
+4. [The RNC featured Pompeo in Jerusalem and official White House acts. Is that legal?](https://www.politifact.com/article/2020/aug/26/rnc-featured-pompeo-jerusalem-and-official-white-h/)
+
+## Acting DHS Secretary Chad Wolf Violates Hatch Act by Staging White House Naturalization Ceremony as RNC Campaign Content
+*Date: 2020-08-25*
+
+1. [OSC Finds Hatch Act Violation in Naturalization Ceremony Led by Chad Wolf](https://www.hstoday.us/federal-pages/dhs/osc-finds-hatch-act-violation-in-naturalization-ceremony-led-by-chad-wolf/)
+2. [For one cynical and perhaps illegal moment, Trump finds a use for immigrants](https://www.washingtonpost.com/politics/2020/08/26/trump-immigrants-naturalization-rnc/)
+3. [Immigrant unaware naturalization ceremony would be used at Republican National Convention](https://abcnews.go.com/Politics/immigrant-unaware-naturalization-ceremony-republican-national-convention/story?id=72635289)
+4. [CREW Complaint - Chad Wolf Violated Hatch Act During RNC](https://www.citizensforethics.org/news/press-releases/chad-wolf-hatch-act-complaint/)
+
+## Trump Delivers RNC Acceptance Speech from White House South Lawn in Unprecedented Mass Hatch Act Violation Event
+*Date: 2020-08-27*
+
+1. [Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election](https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf)
+2. [Trump Shatters Ethics Norms By Making Official Acts Part Of GOP Convention](https://www.npr.org/2020/08/26/906228532/trump-shatters-ethics-norms-by-making-official-acts-part-of-rnc-broadcast)
+3. [Focus on Trump's official White House actions as part of Republican convention programming raises Hatch Act concerns](https://www.washingtonpost.com/politics/hatch-act-republican-convention/2020/08/25/53b72b44-e6f8-11ea-970a-64c73a1c2392_story.html)
+4. [Mark Meadows - Nobody Outside The Beltway Really Cares About Hatch Act Violations](https://www.politicususa.com/2020/08/26/mark-meadows-nobody-outside-the-beltway-really-cares-about-hatch-act-violations.html)
+
+## HHS Spends $300 Million in Taxpayer Funds on "Defeating Despair" COVID Ad Campaign Timed to Promote Trump Before Election
+*Date: 2020-09-14*
+
+1. [Trump-Appointee Reappropriated $300M in Tax-Payer Funded Dollars for Coronavirus Propaganda Campaign](https://www.coronaviruswarroom.org/statement-trump-appointee-reappropriated-300m-in-tax-payer-funded-dollars-for-coronavirus-propaganda-campaign/)
+2. [HHS Reallocates $300M From CDC For Ad Campaign; Celebs Defend Involvement](https://kffhealthnews.org/morning-breakout/hhs-reallocates-300m-from-cdc-for-ad-campaign-celebs-defend-involvement/)
+3. [Dennis Quaid To Appear In $300M White House COVID Ad Campaign](https://deadline.com/2020/09/dennis-quaid-cece-winans-white-house-covid-ad-campaign-1234585819/)
+4. [HHS scraps celebrity COVID-19 ad campaign aimed at 'defeating despair'](https://thehill.com/homenews/news/526461-hhs-scraps-celebrity-covid-19-ad-campaign-aimed-at-defeating-despair/)
+
+## House Committee Report Documents Boeing-FAA Regulatory Capture That Killed 346 People
+*Date: 2020-09-16*
+
+1. [After 18-Month Investigation, Chairs DeFazio and Larsen Release Final Committee Report on Boeing 737 MAX](https://democrats-transportation.house.gov/news/press-releases/after-18-month-investigation-chairs-defazio-and-larsen-release-final-committee-report-on-boeing-737-max)
+2. [The Design, Development & Certification of the Boeing 737 MAX](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
+3. [Boeing, FAA Slammed in House Report Over Deadly 737 Max Failures](https://www.cnbc.com/2020/09/16/boeing-slammed-in-house-report-over-737-max-failures-as-company-tries-to-return-the-plane-to-service.html)
+4. [House Transportation Committee Finds Boeing 737 Was Case of Regulatory Capture](https://www.esquire.com/news-politics/politics/a34045023/boeing-737-max-regulatory-capture/)
+
+## Justice Ruth Bader Ginsburg Dies 46 Days Before Election, McConnell Immediately Vows to Confirm Replacement Despite 2016 Standard
+*Date: 2020-09-18*
+
+1. [Justice Ruth Bader Ginsburg Champion Of Gender Equality Dies At 87](https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87)
+2. [Ruth Bader Ginsburg's Dying Wish Not to Have Donald Trump Choose Replacement](https://www.nbcnews.com/politics/supreme-court/ruth-bader-ginsburg-s-dying-wish-not-have-donald-trump-n1240507)
+3. [Ginsburg's Death Throws Chaotic Presidential Election Year Into Greater Turmoil](https://www.nbcnews.com/politics/supreme-court/ginsburg-s-death-throws-chaotic-presidential-year-greater-turmoil-n1240510)
+4. [Death and State Funeral of Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Ruth_Bader_Ginsburg)
 
 ## 'FinCEN Files' leak reveals banks flagged >$2T in suspicious transactions; U.S. warns SAR disclosures are unlawful
 *Date: 2020-09-20*
@@ -5914,6 +9659,43 @@
 2. [Ring Always Home Cam - How to get your hands on Amazon's indoor security drone](https://www.thedronegirl.com/2024/02/21/ring-always-home-cam/)
 3. [Ring Always Home Cam drone - What is it, and how to sign up for an invitation](https://www.tomsguide.com/news/rings-new-security-camera-is-a-drone-that-flies-around-your-house)
 
+## Rose Garden Amy Coney Barrett Ceremony Becomes White House COVID Superspreader Event
+*Date: 2020-09-26*
+
+1. [Fauci calls Amy Coney Barrett ceremony in Rose Garden 'superspreader event'](https://www.nbcnews.com/politics/white-house/fauci-calls-amy-coney-barrett-ceremony-rose-garden-superspreader-event-n1242781)
+2. [11 attendees at SCOTUS nomination Rose Garden event test positive for COVID-19](https://abcnews.go.com/Politics/attendees-scotus-nomination-rose-garden-event-test-positive/story?id=73391378)
+3. [Amy Coney Barrett Rose Garden Event Was a WH COVID Superspreader, New Data Suggests](https://www.newsweek.com/amy-coney-barrett-rose-garden-event-was-wh-covid-superspreader-new-data-suggests-1537865)
+
+## Trump Nominates Amy Coney Barrett to Supreme Court, Religious Conservative to Replace Liberal Icon Ginsburg
+*Date: 2020-09-26*
+
+1. [Amy Coney Barrett Supreme Court Nomination](https://en.wikipedia.org/wiki/Amy_Coney_Barrett_Supreme_Court_nomination)
+2. [Senate Confirms Amy Coney Barrett to Supreme Court](https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748)
+3. [Amy Coney Barrett Confirmed To Supreme Court Takes Constitutional Oath](https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court)
+4. [Fauci Calls Amy Coney Barrett Ceremony Superspreader Event](https://www.nbcnews.com/politics/white-house/fauci-calls-amy-coney-barrett-ceremony-rose-garden-superspreader-event-n1242781)
+
+## New York Times Obtains Trump Tax Returns, Reveals $750 in Federal Taxes Paid
+*Date: 2020-09-27*
+
+1. [Trump Tax Returns, Loans Detailed In 'New York Times' Report](https://www.npr.org/2020/09/27/917566141/trump-dismisses-new-york-times-reporting-that-he-paid-little-in-federal-income-t)
+2. [5 key findings from NY Times report on Trump's tax returns](https://www.pbs.org/newshour/politics/ny-times-trump-paid-750-in-us-income-taxes-in-2016-2017)
+3. [Don't miss the Ivanka Trump bombshell buried in the Times tax story](https://www.cnn.com/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html)
+4. [Trump paid little to no federal income taxes over several years](https://www.cnbc.com/2020/09/27/trump-paid-little-to-no-federal-income-taxes-over-several-years-nyt-.html)
+
+## Amazon Discloses 19,816 Workers Infected with COVID-19 After Months of Concealment
+*Date: 2020-10-01*
+
+1. [Amazon said nearly 20,000 employees have tested positive or been presumed positive for COVID-19](https://www.cnn.com/2020/10/01/tech/amazon-covid-cases/index.html)
+2. [Amazon says more than 19,000 workers got Covid-19](https://www.cnbc.com/2020/10/01/amazon-says-more-than-19000-workers-got-covid-19.html)
+3. [Amazon to pay California $500,000 for 'concealing' COVID cases among workers](https://sandiegouniontribune.com/business/story/2021-11-15/amazon-covid-outbreak-workplace-safety-right-to-know-penalty)
+
+## Trump Tests Positive for COVID-19, Hospitalized at Walter Reed with Experimental Treatments
+*Date: 2020-10-02*
+
+1. [Trump flown to Walter Reed after Covid-19 diagnosis and getting an experimental Regeneron treatment](https://www.statnews.com/2020/10/02/trump-taken-to-walter-reed-received-experimental-regeneron-covid19-treatment/)
+2. [Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment](https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899)
+3. [President Trump taken to Walter Reed Medical Center](https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448)
+
 ## FBI Enables Social Media Suppression of Hunter Biden Laptop Story Despite Knowing Authenticity
 *Date: 2020-10-14*
 
@@ -5922,12 +9704,42 @@
 3. [Twitter execs acknowledge mistakes with Hunter Biden laptop story but say no government involvement](https://www.cnn.com/2023/02/08/politics/twitter-hearing-house-oversight/index.html)
 4. [FBI Spent a Year Preparing Platforms to Censor Biden Story](https://www.nationalreview.com/news/fbi-spent-a-year-preparing-platforms-to-censor-biden-story-withheld-info-on-laptops-authenticity/)
 
+## Wells Fargo Fires 125 Employees for COVID Relief Fraud, Culture Unchanged
+*Date: 2020-10-15*
+
+1. [Wells Fargo Fires More Than 100 Employees Accused Of Coronavirus Relief Fraud](https://www.npr.org/sections/coronavirus-live-updates/2020/10/15/923976874/wells-fargo-fires-more-than-100-employees-for-alleged-coronavirus-relief-fraud)
+2. [Wells Fargo Fires Up to 125 Employees Over Misuse of EIDL Aid](https://www.bankingdive.com/news/wells-fargo-fires-up-to-125-employees-over-misuse-of-eidl-aid/587080/)
+3. [Wells Fargo Fires Over 100 For Allegedly Collecting COVID Relief Funds](https://www.pymnts.com/news/security-and-risk/2020/wells-fargo-fires-over-100-allegedly-collecting-covid-relief-funds)
+
+## DOJ Purdue Settlement Allows Sacklers to Keep Billions in Extracted Wealth
+*Date: 2020-10-21*
+
+1. [Justice Department Announces Global Resolution of Criminal and Civil Investigations with Opioid Manufacturer Purdue Pharma](https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid)
+2. [Lawmakers urge DOJ to revise $8.3 billion settlement with Purdue](https://www.statnews.com/pharmalot/2020/11/11/purdue-pharma-justice-department-settlement-lawmakers/)
+3. [Purdue Pharma Billion Dollar Settlement in Opioid Crisis – Sacklers Go Free](https://apicciano.commons.gc.cuny.edu/2020/10/22/purdue-pharma-billion-dollar-settlement-in-opioid-crisis-sacklers-go-free/)
+
 ## Trump Issues Original Schedule F Executive Order: Civil Service Protection Elimination
 *Date: 2020-10-21*
 
 1. [Trump revives executive order aiming to strip some federal employees of civil service protections](https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/)
 2. [Trump's Schedule F Plan, Explained](https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/)
 3. [Trump Moves to Reshape Federal Workforce with Schedule F Executive Order](https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f)
+
+## Senate Confirms Amy Coney Barrett 52-48 Eight Days Before Election, Creating 6-3 Conservative Supermajority
+*Date: 2020-10-26*
+
+1. [Amy Coney Barrett Confirmed To Supreme Court Takes Constitutional Oath](https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court)
+2. [Senate Confirms Amy Coney Barrett Heralding New Conservative Era for Supreme Court](https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748)
+3. [U.S. Senate Roll Call Votes 116th Congress 2nd Session](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00224.htm)
+4. [Amy Coney Barrett Confirmation Hearings and Votes](https://ballotpedia.org/Amy_Coney_Barrett_confirmation_hearings_and_votes)
+
+## Judge Sullivan Orders Emergency USPS Ballot Sweeps, DeJoy Initially Defies Court Order
+*Date: 2020-11-03*
+
+1. [Emmet Sullivan Orders USPS to Sweep Facilities for Ballots](https://lawandcrime.com/2020-election/federal-judge-orders-usps-to-conduct-election-day-sweeps-to-ensure-ballots-are-not-delayed-in-key-battleground-states/)
+2. [Judge could call postmaster general to testify over missed ballot sweep deadline](https://www.cbsnews.com/news/postal-service-missing-ballots-sweep-louis-dejoy-federal-judge/)
+3. [USPS sweeps 220 mail processing sites for any undelivered ballots following federal court order](https://federalnewsnetwork.com/management/2020/11/usps-sweeps-220-mail-processing-sites-for-undelivered-ballots-following-federal-court-order/)
+4. [Federal judge scolds USPS on vote-by-mail delays: Five key takeaways](https://www.washingtonpost.com/business/2020/11/02/usps-ballots-court-ruling/)
 
 ## Vance Begins Election Denial Rhetoric
 *Date: 2020-11-04*
@@ -5944,6 +9756,14 @@
 3. [Newsmax faces 'bet-your-company' defamation trial over 2020 election lies](https://edition.cnn.com/2024/09/26/media/newsmax-smartmatic-trial-2020-election-defamation/index.html)
 4. [Smartmatic's suit against Newsmax over 2020 election reporting appears headed for trial](https://abcnews.go.com/Politics/wireStory/smartmatics-suit-newsmax-2020-election-reporting-appears-headed-113644635)
 
+## Trump Pardons Michael Flynn After Guilty Plea and Sidney Powell Conspiracy Theories
+*Date: 2020-11-25*
+
+1. [Trump pardons Michael Flynn, who pleaded guilty to lying to the FBI](https://www.cnn.com/2020/11/25/politics/michael-flynn-pardon/index.html)
+2. [Trump Pardons Michael Flynn, Ignoring Pleas From Justice Dept.](https://www.nytimes.com/2020/11/25/us/politics/trump-pardons-michael-flynn.html)
+3. [Michael Flynn's guilty plea](https://www.justice.gov/file/1015126/download)
+4. [Judge Sullivan refuses to dismiss Flynn case after pardon](https://www.reuters.com/article/idUSKBN28Z2PD/)
+
 ## Giuliani admits to Arizona Speaker "We don't have evidence, but we have lots of theories"
 *Date: 2020-11-30*
 
@@ -5951,12 +9771,28 @@
 2. [Rusty Bowers says Giuliani told him We've got lots of theories we just don't have the evidence](https://thehill.com/homenews/house/3531342-rusty-bowers-says-giuliani-told-him-weve-got-lots-of-theories-we-just-dont-have-the-evidence/)
 3. [Report of Special Counsel Smith Volume 1 January 2025](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
 
+## DOJ Reveals Investigation into $2 Million Bribery-for-Pardon Scheme
+*Date: 2020-12-01*
+
+1. [Unsealed court records reveal secret pardon bribery investigation](https://www.cnn.com/2020/12/01/politics/pardon-investigation-justice-department/index.html)
+2. [Justice Dept. Examining Possible Pardon Bribery Scheme](https://www.nytimes.com/2020/12/01/us/politics/pardon-bribery-investigation.html)
+3. [Heavily redacted court filing reveals federal investigation into bribery scheme](https://www.reuters.com/article/idUSKBN28C00L/)
+4. [Court documents show federal pardon bribery probe](https://apnews.com/article/joe-biden-donald-trump-us-news-coronavirus-pandemic-4d1a7eea19f35229a5828c781c234ccc)
+
 ## Tesla Begins Purchasing Russian Aluminum from Rusal
 *Date: 2020-12-01*
 
 1. [Tesla has bought aluminum from Russian company Rusal since 2020, showing how war complicates supply chain](https://www.cnbc.com/2022/03/14/tesla-has-bought-aluminum-from-russian-supplier-rusal-since-2020.html)
 2. [Tesla Has Been Buying Aluminum From Russian Supplier Founded By Sanctioned Oligarch Since 2020](https://www.benzinga.com/news/22/03/26135346/tesla-has-been-buying-aluminum-from-russian-supplier-founded-by-sanctioned-oligarch-since-2020-repor)
 3. [Tesla Aluminum Procurement from Rusal in Context of European Supply Chains](https://scceu.org/tesla-has-bought-aluminum-from-russian-supplier-rusal-since-2020/)
+
+## Trump Pardon Corruption - Systematic Monetization of Presidential Clemency Power
+*Date: 2020-12-01*
+
+1. [An analysis of Trump's pardons reveals a president who rewards loyalty over justice](https://www.npr.org/2021/01/21/958532136/an-analysis-of-trumps-pardons-reveals-a-president-who-rewards-loyalty-over-justi)
+2. [Trump's Pardon of Blackwater Guards Leaves Trail of Pain in Iraq](https://www.nytimes.com/2020/12/23/us/politics/trump-pardons-blackwater.html)
+3. [Trump pardons and commutations analysis](https://www.reuters.com/article/us-usa-trump-pardons-analysis-idUSKBN29P2AY)
+4. [Presidential Pardon Power - Constitutional Analysis](https://constitution.congress.gov/browse/essay/artII-S2-C1-5-1/ALDE_00013621/)
 
 ## Trump privately admits defeat saying "Can you believe I lost to this f'ing guy?"
 *Date: 2020-12-14*
@@ -5972,6 +9808,22 @@
 1. [Trump fake electors plot](https://en.wikipedia.org/wiki/Trump_fake_electors_plot)
 2. [Exclusive: RNC email shows coordination of Trump fake electors plan](https://www.cnn.com/2022/01/20/politics/rnc-fake-electors-trump-campaign/index.html)
 3. [Michigan charges 16 fake Trump electors with felonies](https://www.npr.org/2023/07/18/1188363691/michigan-charges-16-fake-trump-electors-with-felonies)
+
+## Trump Pardons Four Blackwater Contractors for Nisour Square Massacre
+*Date: 2020-12-22*
+
+1. [Trump Pardons Blackwater Guards Who Killed 14 Iraqi Civilians](https://www.nytimes.com/2020/12/22/us/politics/blackwater-pardons-trump.html)
+2. [Trump pardons Blackwater contractors jailed for massacre of Iraq civilians](https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians)
+3. [UN says Trump pardons for Blackwater guards violate international law](https://www.theguardian.com/world/2020/dec/30/un-human-rights-experts-trump-pardons-blackwater-guards)
+4. [Blackwater guards sentenced to lengthy prison terms for 2007 massacre](https://www.washingtonpost.com/local/legal-issues/blackwater-guards-sentenced-to-lengthy-prison-terms-for-2007-massacre-of-iraqi-civilians/2015/04/13/5d850266-e1b1-11e4-b510-962fcfabc310_story.html)
+
+## Trump Pardons Charles Kushner and 14 Others in Single-Day Corruption Spree
+*Date: 2020-12-23*
+
+1. [Trump pardons Manafort, Stone and Charles Kushner](https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html)
+2. [Trump Pardons Charles Kushner, Father of His Son-in-Law](https://www.nytimes.com/2020/12/23/us/politics/trump-pardons-kushner-manafort.html)
+3. [Charles Kushner's guilty plea and sentencing](https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/kushn1203rel.pdf)
+4. [The sordid case behind Jared Kushner's father's pardon](https://www.reuters.com/article/idUSKBN28X1LW/)
 
 ## DOJ Secret Court Order Targets Washington Post Journalists Days Before Barr's Resignation
 *Date: 2020-12-23*
@@ -5994,6 +9846,27 @@
 2. [Report of Special Counsel Smith Volume 1 January 2025](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
 3. [Newly released notes show Trump pressured DOJ to declare election was 'corrupt'](https://abcnews.go.com/US/newly-released-notes-show-trump-pressured-doj-declare/story?id=79172208)
 4. [Notes Show Trump Pressing DOJ Leaders To Call 2020 Election Corrupt](https://www.npr.org/2021/07/30/1022826068/notes-show-trump-pressed-the-justice-department-to-declare-the-2020-election-cor)
+
+## Wells Fargo Scandal Scorecard: 5,300 Workers Fired, Zero Execs Prosecuted
+*Date: 2020-12-31*
+
+1. [Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices)
+2. [CFPB Enforcement Action: Wells Fargo Bank, N.A.](https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/)
+3. [Wells Fargo Claws Back $75 Million More From 2 Executives](https://www.npr.org/sections/thetwo-way/2017/04/10/523254069/wells-fargo-claws-back-75-million-more-from-2-executives-over-fake-accounts)
+
+## 440 Voter Restriction Bills Introduced in 49 States - ALEC's Largest Suppression Wave
+*Date: 2021-01-01*
+
+1. [Voting Laws Roundup - December 2021](https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-december-2021)
+2. [State Voting Bills Tracker 2021](https://www.brennancenter.org/our-work/research-reports/state-voting-bills-tracker-2021)
+3. [ALEC Lied About Its Work on Election Suppression Bills](https://prospect.org/civil-rights/alec-lied-about-its-work-on-election-suppression-bills/)
+
+## ALEC Develops New Model Election Bills to Implement Trump's "Big Lie"
+*Date: 2021-01-01*
+
+1. [The Big Lie and the Push to Restrict Voting](https://www.brennancenter.org/our-work/analysis-opinion/big-lie-and-push-restrict-voting)
+2. [Conservative groups are writing GOP voter suppression bills](https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills---and-spending-millions-to-pass-them/)
+3. [ALEC Members Lead Voter Suppression Efforts in 2020 Battleground States](https://www.exposedbycmd.org/2021/04/13/alec-members-lead-voter-suppression-efforts-in-2020-battleground-states/)
 
 ## Barre Seid Donates $1.6 Billion to Leonard Leo Dark Money Network
 *Date: 2021-01-01*
@@ -6079,6 +9952,36 @@
 2. [Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump](https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html)
 3. [Report of Special Counsel Smith Volume 1 January 2025](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
 
+## Boeing Pays $2.5 Billion in Deferred Prosecution Deal, Zero Executives Charged for 346 Deaths
+*Date: 2021-01-07*
+
+1. [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
+2. [Boeing Settles 737 Max Fraud Charge With $2.5 Billion Agreement](https://www.bloomberg.com/news/articles/2021-01-07/boeing-agrees-to-pay-2-5-billion-to-settle-737-max-fraud-charge)
+3. [Boeing, Justice Department Reach Deal to Avoid Prosecution Over Deadly 737 Max Crashes](https://www.cnbc.com/2021/01/07/boeing-737-max-crashes-doj-prosecution.html)
+4. [Boeing Victims' Families Ask Court to Reject Plea Agreement](https://www.cliffordlaw.com/boeing-victims-families-ask-court-to-reject-plea-agreement/)
+
+## House Impeaches Trump for Second Time on Single Charge of "Incitement of Insurrection"
+*Date: 2021-01-13*
+
+1. [House Impeaches Trump A 2nd Time, Citing Insurrection At U.S. Capitol](https://www.npr.org/sections/trump-impeachment-effort-live-updates/2021/01/13/956449072/house-impeaches-trump-a-2nd-time-citing-insurrection-at-u-s-capitol)
+2. [Donald Trump becomes the first U.S. president to be impeached twice](https://www.pbs.org/newshour/politics/majority-of-house-members-vote-for-2nd-impeachment-of-trump)
+3. [Who Are The 10 Republicans Who Voted To Impeach President Trump?](https://www.npr.org/2021/01/14/956621191/these-are-the-10-republicans-who-voted-to-impeach-trump)
+
+## Trump Pardons Kwame Kilpatrick After Serving 7 of 28 Years for Detroit Corruption
+*Date: 2021-01-13*
+
+1. [Trump Commutes Sentence of Kwame Kilpatrick, Ex-Detroit Mayor](https://www.nytimes.com/2021/01/20/us/politics/kwame-kilpatrick-trump.html)
+2. [Trump commutes sentence of corrupt ex-Detroit Mayor Kilpatrick](https://www.reuters.com/article/idUSKBN29P0A7/)
+3. [Former Detroit Mayor Kwame Kilpatrick Sentenced to 28 Years](https://www.justice.gov/usao-edmi/pr/former-detroit-mayor-kwame-kilpatrick-sentenced-28-years)
+4. [Kilpatrick convicted in corruption trial](https://apnews.com/article/5c8f9b8e8f8f4e5a8b5f5f5f5f5f5f5f)
+
+## Rick Snyder Charged With Misdemeanors for Poisoning Thousands—First Governor Ever Criminally Charged
+*Date: 2021-01-14*
+
+1. [Ex-Michigan Gov. Rick Snyder And 8 Others Criminally Charged In Flint Water Crisis](https://www.npr.org/2021/01/14/956924155/ex-michigan-gov-rick-snyder-and-8-others-criminally-charged-in-flint-water-crisi)
+2. [Nine Former Michigan Officials, Including Ex-Gov. Rick Snyder, Charged in Flint Water Crisis](https://www.pbs.org/wgbh/frontline/article/flint-water-crisis-nine-former-michigan-officials-including-ex-gov-rick-snyder-charged/)
+3. [Former Michigan Gov. Rick Snyder charged in Flint water crisis](https://www.nbcnews.com/news/us-news/former-michigan-gov-rick-snyder-charged-flint-water-crisis-n1253966)
+
 ## PredPol Rebrands as Geolitica Amid Mounting Criticism of Racial Bias
 *Date: 2021-01-15*
 
@@ -6099,6 +10002,14 @@
 1. [The Theocratic Blueprint for Trump's Next Term](https://www.thenation.com/article/society/russell-vought-center-renewing-america-christian-nationalism/)
 2. [Russell Vought: The gung-ho Christian nationalist who helps Trump be Trump](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)
 3. [OMB's Russell Vought, the Christian 'nation-ist' driving Project 2025 and DOGE](https://religionnews.com/2025/06/23/ombs-russell-vought-the-christian-nation-ist-driving-project-2025-and-dogeruss-vought/)
+
+## Trump's Final Day Pardon Spree - 73 Pardons Including Bannon and Broidy
+*Date: 2021-01-19*
+
+1. [Trump grants clemency to Bannon, other allies on last day in office](https://www.reuters.com/article/idUSKBN29O06P/)
+2. [Trump Pardons Steve Bannon Amid Flurry of Last-Minute Clemency Grants](https://www.nytimes.com/2021/01/19/us/politics/trump-pardons.html)
+3. [Full list of Trump's last-minute pardons and commutations](https://www.cnn.com/2021/01/20/politics/trump-pardons-commutations-list/index.html)
+4. [Steve Bannon charged with fraud in 'We Build the Wall' campaign](https://www.justice.gov/usao-sdny/pr/leaders-we-build-wall-online-fundraising-campaign-charged-defrauding-hundreds-thousands)
 
 ## Navalny Investigation Reveals Putin's Palace Complex
 *Date: 2021-01-19*
@@ -6130,6 +10041,14 @@
 2. [The Trump Administration Rolled Back 100+ Environmental Rules](https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks-list.html)
 3. [Harvard study on health impacts of rollbacks](https://www.hsph.harvard.edu/c-change/news/economic-health-co-benefits/)
 
+## Pelosi Transmits Impeachment Article to Senate After Biden Inauguration
+*Date: 2021-01-25*
+
+1. [Pelosi Announces House Will Deliver Article of Impeachment to Senate on January 25](https://pelosi.house.gov/news/press-releases/pelosi-announces-house-will-deliver-article-of-impeachment-to-senate-on-january)
+2. [Speaker Pelosi Names Raskin Lead Impeachment Manager](https://raskin.house.gov/2021/1/speaker-pelosi-names-raskin-lead-impeachment-manager)
+3. [Amid Grief, Rep. Jamie Raskin Leads Trump Impeachment Effort In Senate](https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate)
+4. [Senate To Begin Trump's Impeachment Trial Week Of Feb. 8](https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says)
+
 ## Supreme Court Dismisses All Trump Emoluments Cases as Moot
 *Date: 2021-01-25*
 
@@ -6150,12 +10069,73 @@
 2. [DTCC's Role in GameStop Trading Pause](https://www.bloomberg.com/news/articles/2021-01-29/what-s-the-dtcc-and-how-did-it-stop-gamestop-mania-quicktake)
 3. [Robinhood Faced Deeper Liquidity Woes Following GameStop's Rally](https://www.financemagnates.com/forex/robinhood-faced-deeper-liquidity-woes-following-gamestops-rally/)
 
+## Amazon Launches Massive Anti-Union Campaign at Bessemer Alabama Warehouse
+*Date: 2021-02-08*
+
+1. [Crushing Unions, by Any Means Necessary: How Amazon's Blistering Anti-Union Campaign Won in Bessemer, Alabama](https://newlaborforum.cuny.edu/2021/11/15/crushing-unions-by-any-means-necessary-how-amazons-blistering-anti-union-campaign-won-in-bessemer-alabama/)
+2. [How Amazon fought the union drive in Alabama](https://www.cnbc.com/2021/04/16/how-amazon-fought-the-union-drive-in-alabama.html)
+3. [Amazon's anti-union PR efforts amid Alabama vote are a very bad look](https://www.nbcnews.com/think/opinion/amazon-s-anti-union-pr-efforts-amid-alabama-vote-are-ncna1262687)
+
+## Second Impeachment Trial Begins with Constitutional Debate on Trying Former President
+*Date: 2021-02-09*
+
+1. [Patrick Leahy To Preside Over Trump's Senate Trial, Not John Roberts](https://www.npr.org/2021/01/25/960389715/sen-patrick-leahy-to-preside-over-trumps-senate-impeachment-trial)
+2. [Trump impeachment trial updates - GOP senator rips former president's legal team](https://www.cnbc.com/2021/02/09/trump-impeachment-trial-live-updates-stream.html)
+3. [Senate Votes 56-44 to Proceed with Impeachment Trial](https://www.c-span.org/video/?c4944732/senate-votes-56-44-proceed-impeachment-trial)
+4. [Trump Impeachment Defense Lawyer Bruce Castor's Opening Statements Eviscerated by Critics](https://www.newsweek.com/trump-impeachment-defense-lawyer-bruce-castors-opening-statements-eviscerated-republicans-1568054)
+
+## Impeachment Managers Present Devastating 13-Minute Video Compilation of January 6 Attack
+*Date: 2021-02-10*
+
+1. [House managers play never-seen-before video of Capitol riot in Day 2 of Trump's trial](https://www.nbcnews.com/politics/donald-trump/trump-impeachment-trial-day-2-kicks-case-against-him-n1257246)
+2. [Impeachment Managers To Show New Video Footage In Trial](https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/10/966284540/impeachment-managers-to-present-new-video-footage-in-opening-presentation)
+3. [Senators react to new video evidence from January 6 Capitol attack](https://www.cbsnews.com/news/trump-impeachment-trial-new-video-evidence-capitol-attack-senators-reaction/)
+4. [Representative Raskin gives emotional argument at Trump impeachment trial](https://www.cbsnews.com/news/jamie-raskin-recounts-us-capitol-riot-impeachment-trial-day-1/)
+
+## McConnell Says Trump "Practically and Morally Responsible" Minutes After Voting to Acquit
+*Date: 2021-02-13*
+
+1. [After Voting To Acquit, McConnell Torches Trump As Responsible For Riot](https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967701180/after-vote-mcconnell-torched-trump-as-practically-and-morally-responsible-for-ri)
+2. [McConnell says Trump was "practically and morally responsible" for riot after voting not guilty](https://www.cbsnews.com/news/mitch-mcconnell-trump-impeachment-vote-senate-speech/)
+3. [Mitch McConnell Speech Transcript After Vote to Acquit Trump in 2nd Impeachment Trial](https://www.rev.com/transcripts/mitch-mcconnell-speech-transcript-after-vote-to-acquit-trump-in-2nd-impeachment-trial)
+4. [McConnell votes for acquittal, but then says there's 'no question' Trump is responsible for riot](https://www.cnbc.com/2021/02/13/mcconnell-votes-for-acquittal-but-says-no-question-trump-responsible-for-riot.html)
+
+## Senate Acquits Trump 57-43 Despite Bipartisan Majority Finding Him Guilty
+*Date: 2021-02-13*
+
+1. [Senate Acquits Trump In Impeachment Trial - Again](https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967098840/senate-acquits-trump-in-impeachment-trial-again)
+2. [7 GOP Senators Voted To Convict Trump. Only 1 Faces Voters Next Year](https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/15/967878039/7-gop-senators-voted-to-convict-trump-only-1-faces-voters-next-year)
+3. [Senate Acquits Trump - Key Takeaways From Impeachment Trial](https://www.npr.org/2021/02/13/967704462/senate-acquits-trump-key-takeaways-from-impeachment-trial)
+4. [Trump acquitted in impeachment trial; 7 GOP Senators vote with Democrats to convict](https://www.nbcnews.com/politics/donald-trump/trump-acquitted-impeachment-trial-7-gop-senators-vote-democrats-convict-n1257876)
+
+## Senate Votes 55-45 to Call Witnesses, Then Reverses After McConnell Threatens Delay
+*Date: 2021-02-13*
+
+1. [Senate Votes To Call Witnesses In Trump's Impeachment Trial](https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967623840/senate-voting-on-whether-to-call-witnesses-in-impeachment-trial)
+2. [Herrera Beutler says McCarthy told her Trump sided with Capitol mob](https://www.seattletimes.com/nation-world/nation-politics/herrera-beutler-says-mccarthy-told-her-trump-sided-with-capitol-mob/)
+3. [Senate nears verdict in Trump impeachment trial after moving ahead without witnesses](https://www.cnbc.com/2021/02/13/senate-votes-in-favor-of-calling-witnesses-in-trump-impeachment-trial.html)
+
+## Republican State Parties Censure Senators Who Voted to Convict Trump
+*Date: 2021-02-15*
+
+1. [Republicans who voted to convict Trump face censure at home](https://www.aljazeera.com/news/2021/2/16/republicans-who-voted-to-convict-trump-face-censure-at-home)
+2. [North Carolina GOP censures Sen. Burr for impeachment vote](https://www.nbcnews.com/politics/congress/north-carolina-gop-censures-sen-burr-impeachment-vote-n1257967)
+3. [GOP senators who voted to impeach Trump facing heat at home](https://www.cnbc.com/2021/02/14/gop-senators-who-voted-to-impeach-trump-facing-heat-at-home.html)
+4. [GOP Senators Who Voted to Convict Donald Trump Face Local Censures](https://www.newsweek.com/gop-senators-who-voted-convict-donald-trump-face-local-censures-1569340)
+
 ## South Dakota pays $200,000 to silence appraiser chief fired after Noem intervention
 *Date: 2021-03-01*
 
 1. [New Noem Nepotism - Governor Fires Appraisal Chief Who Delayed Daughter's License, Pays $200K to Shut Her Up](https://dakotafreepress.com/2021/09/27/new-noem-nepotism-governor-fires-appraisal-chief-who-delayed-daughters-license-pays-200k-to-shut-her-up/)
 2. [Questions Arise About Gov. Noem And The Early Retirement Of A South Dakota Official](https://www.npr.org/2021/09/29/1041512901/questions-arise-about-gov-noem-and-the-early-retirement-of-a-south-dakota-offici)
 3. [Noem Administration Pays $200,000 to Settle Age Discrimination Allegation](https://www.sdpb.org/politics/2021-09-28/noem-administration-pays-200-000-to-settle-allegation-of-age-discrimination)
+
+## Palantir and AWS Formalize Strategic Partnership for Government Data Analytics
+*Date: 2021-03-05*
+
+1. [How Palantir Foundry Helps Customers Build and Deploy AI-Powered Decision-Making Applications](https://aws.amazon.com/blogs/apn/how-palantir-foundry-helps-customers-build-and-deploy-ai-powered-decision-making-applications/)
+2. [Palantir Platform on AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-a5m5xespbqyci)
+3. [Is Palantir the AWS of Data Analytics?](https://www.fool.com/investing/2022/01/26/is-palantir-the-aws-of-data-analytics/)
 
 ## Cellebrite Halts Sales to Russia and Belarus After Human Rights Abuse Revelations
 *Date: 2021-03-18*
@@ -6164,6 +10144,13 @@
 2. [Cellebrite Stops Selling Its Digital Intelligence Offerings in Russian Federation and Belarus](https://www.prnewswire.com/news-releases/cellebrite-stops-selling-its-digital-intelligence-offerings-in-russian-federation-and-belarus-301250313.html)
 3. [Cellebrite faces more human rights concerns as it goes public](https://www.business-humanrights.org/en/latest-news/cellebrite-faces-further-criticism-of-human-rights-record-as-goes-public-amid-reports-repressive-regimes-kept-buying-products-after-company-said-it-ended-sales/)
 
+## Georgia SB 202 Enacts Comprehensive Voter Suppression with Multiple ALEC Provisions
+*Date: 2021-03-25*
+
+1. [Kemp Signs 98-Page Omnibus Elections Bill](https://www.gpb.org/news/2021/03/25/kemp-signs-98-page-omnibus-elections-bill)
+2. [Georgia Governor Signs Election Overhaul, Including Changes To Absentee Voting](https://www.npr.org/2021/03/25/981357583/georgia-legislature-approves-election-overhaul-including-changes-to-absentee-vot)
+3. [What Does Georgia's New Voting Law SB 202 Do?](https://www.gpb.org/news/2021/03/27/what-does-georgias-new-voting-law-sb-202-do)
+
 ## Stephen Miller Founds America First Legal to Challenge Biden Administration and Advance White Nationalist Agenda
 *Date: 2021-04-06*
 
@@ -6177,6 +10164,26 @@
 1. [America First Legal](https://en.wikipedia.org/wiki/America_First_Legal)
 2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
 3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
+
+## Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
+*Date: 2021-04-09*
+
+1. [Amazon workers vote against union at Alabama warehouse](https://www.cnn.com/2021/04/09/tech/amazon-bessemer-union-election/index.html)
+2. [Amazon beats back union effort in Bessemer, Alabama, as workers vote 'no'](https://www.cbsnews.com/news/amazon-union-alabama-vote-against/)
+3. [Amazon union vote in Bessemer: Many of its anti-union voters were legal, because labor is broken](https://slate.com/technology/2021/04/amazon-union-bessemer-anti-union-labor-law.html)
+
+## Giuliani Associate Sought $2 Million Payment for Trump Pardons
+*Date: 2021-04-15*
+
+1. [Lev Parnas and Igor Fruman charged with campaign finance violations](https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans)
+
+## Amazon extends Rekognition police ban indefinitely as Congressional regulation stalls
+*Date: 2021-05-18*
+
+1. [Amazon extends ban on police use of Rekognition facial recognition technology](https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/)
+2. [We could see federal regulation on face recognition as early as next week](https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/)
+3. [ACLU Statement on Amazon Face Recognition Moratorium](https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium)
+4. [Amazon extends ban on police use of its facial recognition software](https://www.engadget.com/rekognition-police-ban-222425615.html)
 
 ## Trump calls Bitcoin 'a scam' competing with the dollar
 *Date: 2021-06-01*
@@ -6186,6 +10193,14 @@
 3. [Trump: Bitcoin's a scam, US dollar should dominate](https://www.foxbusiness.com/markets/trump-bitcoin-a-scam-us-dollar-should-reign)
 4. [Trump calls Bitcoin 'a scam', denounces it for 'competing against the dollar'](https://www.rt.com/usa/525905-trump-calls-bitcoin-scam/)
 5. [Trump: Bitcoin 'seems like a scam' and should be regulated 'very very high'](https://www.foxnews.com/media/donald-trump-bitcoin-scam-regulated-cryptocurrency)
+
+## FBI Investigates DeJoy Over Alleged Straw Donor Campaign Finance Scheme
+*Date: 2021-06-03*
+
+1. [FBI Investigates Postmaster General Louis DeJoy Over Campaign Fundraising](https://www.npr.org/2021/06/04/1003172114/fbi-investigates-postmaster-general-louis-dejoy-over-campaign-fundraising)
+2. [FBI investigating Postmaster General DeJoy over campaign fundraising activity](https://www.axios.com/2021/06/03/louis-dejoy-fbi-investigation-campaign)
+3. [House Oversight Committee will investigate Louis DeJoy following claims he pressured employees to make campaign donations](https://maloney.house.gov/media-center/in-the-news/house-oversight-committee-will-investigate-louis-dejoy-following-claims-he)
+4. [Sarbanes Examines Allegations That Postmaster General DeJoy Engaged in Illegal Campaign Finance Scheme](https://sarbanes.house.gov/media-center/press-releases/sarbanes-examines-allegations-postmaster-general-dejoy-engaged-illegal)
 
 ## FDA Commissioner Stephen Hahn Joins Flagship Pioneering, Venture Firm Behind Moderna
 *Date: 2021-06-16*
@@ -6199,6 +10214,14 @@
 
 1. [Chainalysis Raises $100 Million at a $4.2 Billion Valuation](https://www.prnewswire.com/news-releases/chainalysis-raises-100-million-at-a-4-2-billion-valuation-to-execute-vision-as-the-blockchain-data-platform-301319274.html)
 2. [Chainalysis raises $100M, doubles valuation to over $2B](https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/)
+
+## Trump Organization CFO Allen Weisselberg Indicted for $1.7M Tax Fraud Scheme
+*Date: 2021-07-01*
+
+1. [Trump Organization and CFO charged with 15 counts in alleged tax fraud](https://www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-fraud-scheme/)
+2. [Prosecutors allege 15-year tax fraud scheme as Trump Organization arraigned](https://www.washingtonpost.com/politics/trump-business-weisselberg-indictments/2021/07/01/e2b774a0-da15-11eb-bb9e-70fda8c37057_story.html)
+3. [Trump Organization indictment charges scheme to dodge taxes](https://www.cnbc.com/amp/2021/07/01/trump-organization-cfo-allen-weisselberg-pleads-not-guilty-to-tax-crimes.html)
+4. [Trump Organization charges](https://www.cnn.com/politics/live-news/trump-organization-charges-07-01-21/index.html)
 
 ## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
 *Date: 2021-07-01*
@@ -6228,6 +10251,13 @@
 2. [Chinese Mogul Funneled Millions to Bannon, Fox, Gettr, Documents Show](https://www.thedailybeast.com/chinese-mogul-guo-wengui-funneled-millions-to-bannon-fox-gettr-docs-show/)
 3. [Gettr Controlled by Guo Wengui, Ex-Employees Reveal](https://www.washingtonpost.com/technology/2023/03/26/gettr-guo-wengui-social-media/)
 
+## Pentagon Cancels $10B JEDI Contract, Creates Joint Warfighter Cloud Capability
+*Date: 2021-07-06*
+
+1. [Pentagon Scraps $10 Billion Contract With Microsoft, Bitterly Contested By Amazon](https://www.npr.org/2021/07/06/1013420036/pentagon-scraps-10-billion-contract-with-microsoft-bitterly-contested-by-amazon)
+2. [Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over](https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html)
+3. [DoD picks Amazon, Microsoft, Google and Oracle for multibillion dollar project to replace JEDI Cloud](https://federalnewsnetwork.com/defense-main/2021/11/dod-picks-amazon-microsoft-google-and-oracle-for-multibillion-dollar-project-to-replace-jedi-cloud/)
+
 ## Pegasus Project Exposes Global Surveillance of 50,000 Targets by NSO Group Clients
 *Date: 2021-07-18*
 
@@ -6248,6 +10278,20 @@
 1. [Exclusive: CNN obtains the tape of Trump's 2021 conversation about classified documents](https://www.cnn.com/2023/06/26/politics/trump-classified-documents-audio/index.html)
 2. [In audio recording, Trump is heard discussing classified document he says he held onto](https://abcnews.go.com/US/audio-recording-trump-heard-discussing-classified-document-held/story?id=100346060)
 3. [Trump said on tape he didn't declassify secret Iran documents](https://www.washingtonpost.com/national-security/2023/06/09/trump-tape-classified-documents/)
+
+## Daniel Hale Sentenced to 45 Months for Exposing Drone War Crimes
+*Date: 2021-07-27*
+
+1. [Daniel Hale Sentenced to 45 Months in Prison for Drone Leak](https://theintercept.com/2021/07/27/daniel-hale-drone-leak-sentencing/)
+2. [Stand with Daniel Hale](https://standwithdanielhale.org/)
+3. [Drone war whistleblower Daniel Hale sentenced to 45 months](https://www.wsws.org/en/articles/2021/07/28/hale-j28.html)
+
+## NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote
+*Date: 2021-08-02*
+
+1. [NLRB finds Amazon interfered with Bessemer union drive, recommends new election](https://www.jurist.org/news/2021/08/nlrb-finds-amazon-interfered-with-bessemer-union-drive-recommends-new-election/)
+2. [Amazon violated labor law in Alabama union election, labor official finds](https://www.nbcnews.com/tech/tech-news/amazon-violated-labor-law-alabama-union-election-labor-official-finds-rcna1582)
+3. [Alabama Amazon Workers Are Likely Getting a Second Shot at a Union](https://jacobin.com/2021/08/bessemer-alabama-union-drive-labor-law)
 
 ## ShotSpotter Accuracy Crisis - Chicago Inspector General Report and Williams Case
 *Date: 2021-08-15*
@@ -6271,6 +10315,13 @@
 2. [Joe Rogan COVID misinformation controversy](https://www.npr.org/2022/01/21/1074442185/joe-rogan-doctor-covid-podcast-spotify-misinformation)
 3. [Joe Rogan says he tested positive for COVID, took ivermectin](https://www.nbcnews.com/news/us-news/joe-rogan-says-he-tested-positive-covid-took-ivermectin-n1278323)
 4. [What Joe Rogan Has Said Defending Ivermectin as Drug Is Ruled Ineffective](https://www.newsweek.com/joe-rogan-ivermectin-what-hes-said-1693591)
+
+## Bankruptcy Court Approves Sackler Immunity Deal Despite DOJ Opposition
+*Date: 2021-09-01*
+
+1. [Purdue Pharma bankruptcy plan approved, resolving opioid claims and giving Sackler family civil immunity](https://www.washingtonpost.com/business/2021/09/01/purdue-pharma-bankruptcy-judge-ruling/)
+2. [Sackler Family Wins Immunity From Opioid Lawsuits In Purdue Pharma Bankruptcy](https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic)
+3. [Federal court grants Sackler family immunity from all future opioid lawsuits](https://www.jurist.org/news/2021/09/federal-court-grants-sackler-family-immunity-from-all-future-opioid-lawsuits/)
 
 ## Dallas Fed President Kaplan Resigns Over Trading Controversy
 *Date: 2021-09-07*
@@ -6379,12 +10430,27 @@
 4. [US Blacklists NSO Group and 3 Others for Selling Spyware, Hacking Tools](https://www.nextgov.com/cybersecurity/2021/11/us-blacklists-nso-group-and-3-others-selling-spyware-hacking-tools/186611/)
 5. [Commerce Department blacklists controversial spyware company NSO Group](https://cyberscoop.com/commerce-department-blacklists-controversial-spyware-company-nso-group/)
 
+## Office of Special Counsel Report Documents Hatch Act Violations by 13 Senior Trump Officials, Finding "Willful Disregard" for Federal Law
+*Date: 2021-11-09*
+
+1. [OSC Issues Hatch Act Report Documenting Violations by 13 Senior Trump Administration Officials, Including at the 2020 Republican National Convention](https://osc.gov/News/Pages/21-02-Hatch-Act-Report-RNC.aspx)
+2. [Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election](https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf)
+3. [13 senior Trump administration officials violated Hatch Act, report finds](https://www.cnn.com/2021/11/09/politics/thirteen-trump-officials-violated-hatch-act/index.html)
+4. [After Oversight Committee Call for Investigation Into 2020 RNC Convention, Special Counsel Finds Trump Administration Officials Showed "Willful Disregard" for Hatch Act](https://oversightdemocrats.house.gov/news/press-releases/after-oversight-committee-call-for-investigation-into-2020-rnc-convention)
+
 ## Apple Sues NSO Group Over FORCEDENTRY Exploit and Pegasus Spyware Targeting
 *Date: 2021-11-23*
 
 1. [Apple sues NSO Group to curb the abuse of state-sponsored spyware](https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/)
 2. [Apple files lawsuit against NSO Group over Pegasus spyware](https://techcrunch.com/2021/11/23/apple-nso-group-lawsuit/)
 3. [US judge rejects NSO attempt to dismiss Apple lawsuit](https://www.theregister.com/2024/01/24/us_judge_rejects_pegasus_spyware/)
+
+## Federal Jury Finds CVS, Walgreens, Walmart Liable for Fueling Ohio Opioid Crisis
+*Date: 2021-11-23*
+
+1. [Ohio jury holds CVS, Walgreens and Walmart liable for opioid crisis](https://www.npr.org/2021/11/23/1058539458/a-jury-in-ohio-says-americas-big-pharmacy-chains-are-liable-for-the-opioid-epide)
+2. [Jury holds CVS, Walgreens and Walmart responsible for role in opioid crisis](https://www.cnbc.com/2021/11/23/jury-holds-cvs-walgreens-and-walmart-responsible-for-role-in-opioid-crisis.html)
+3. [Federal jury holds pharmacy chains CVS, Walgreens and Walmart responsible for role in opioid crisis](https://www.fiercehealthcare.com/finance/federal-jury-holds-cvs-walgreens-and-walmart-responsible-for-role-opioid-crisis)
 
 ## Truth Social Receives $8 Million from Russian-Connected Entities While "On Brink of Collapse"
 *Date: 2021-12-01*
@@ -6394,6 +10460,21 @@
 3. [Trump Media Got Millions in Loans from Foreign Sources with Russian Ties](https://www.esquire.com/news-politics/politics/a43329318/russian-investment-trump-media/)
 4. [Who Is Anton Postolnikov? Kremlin-Linked Fintech Guru 'Saved Trump Media'](https://www.newsweek.com/postolnikov-putin-trump-kremlin-1886745)
 5. [US investigators 'examined Trump Media for possible money laundering'](https://www.irishtimes.com/world/us/2023/03/15/us-investigators-examined-trump-media-for-possible-money-laundering/)
+
+## Six Amazon Workers Killed in Edwardsville Warehouse Tornado Collapse
+*Date: 2021-12-10*
+
+1. [Six people killed in Illinois Amazon warehouse collapse after tornado](https://www.cnn.com/2021/12/11/business/amazon-deaths-warehouse-tornado/index.html)
+2. [OSHA opens investigation after Amazon warehouse collapses during tornado, killing 6](https://www.pbs.org/newshour/economy/osha-opens-investigation-after-amazon-warehouse-collapses-during-tornado-killing-6)
+3. [Edwardsville Amazon warehouse collapse](https://en.wikipedia.org/wiki/Edwardsville_Amazon_warehouse_collapse)
+4. [Disaster training, fear of cellphone ban raise alarms after Amazon warehouse collapse](https://www.nbcnews.com/business/business-news/amazon-worker-deaths-tornados-raise-questions-tornado-training-cellpho-rcna8570)
+
+## Federal Judge Overturns Sackler Immunity Deal, Rules Bankruptcy Law Violated
+*Date: 2021-12-16*
+
+1. [Judge overturns settlement that protected the Sackler family from opioid lawsuits](https://www.npr.org/2021/12/16/1065046057/judge-overturns-settlement-that-protected-the-sackler-family-from-opioid-lawsuit)
+2. [Purdue Pharma deal giving Sackler family civil immunity from opioid claims overturned](https://www.washingtonpost.com/business/2021/12/16/purdue-pharma-sackler-ruling/)
+3. [Judge overturns settlement that protected the Sackler family from opioid lawsuits](https://www.whqr.org/national/2021-12-16/judge-overturns-settlement-that-protected-the-sackler-family-from-opioid-lawsuits)
 
 ## Melania Trump Launches NFT Platform with "Melania's Vision" Collection
 *Date: 2021-12-16*
@@ -6454,6 +10535,13 @@
 2. [Prince Andrew: Judge refuses to dismiss Virginia Giuffre lawsuit](https://www.bbc.com/news/uk-59883666)
 3. [Prince Andrew sex abuse lawsuit can proceed, US judge rules](https://www.theguardian.com/uk-news/2022/jan/12/prince-andrew-sex-abuse-lawsuit-can-proceed-us-judge-rules)
 
+## Navient Settles for $1.85 Billion Over Student Loan Servicing Fraud - Steered Borrowers Into Costly Forbearances
+*Date: 2022-01-13*
+
+1. [Attorney General James Secures $1.85 Billion From Deceptive Student Loan Servicer Navient](https://ag.ny.gov/press-release/2022/attorney-general-james-secures-185-billion-deceptive-student-loan-servicer)
+2. [CFPB Bans Navient from Federal Student Loan Servicing](https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-navient-from-federal-student-loan-servicing-and-orders-the-company-to-pay-120-million-for-wide-ranging-student-lending-failures/)
+3. [Student loan servicer Navient will cancel $1.7 billion in debt in settlement](https://www.npr.org/2022/01/13/1072780601/student-loan-debt-navient-settlement)
+
 ## Supreme Court Blocks Biden OSHA Vaccine Mandate as Executive Overreach
 *Date: 2022-01-13*
 
@@ -6468,6 +10556,14 @@
 1. [National Archives had to retrieve Trump White House records from Mar-a-Lago](https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/)
 2. [15 boxes of White House records have been recovered at Trump's Mar-a-Lago resort](https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives)
 3. [FBI affidavit for Trump's Mar-a-Lago says 184 classified documents found](https://www.washingtonpost.com/national-security/2022/08/26/trump-affidavit-released/)
+
+## NY Attorney General James Files Motion Revealing Evidence of Trump Organization Fraud
+*Date: 2022-01-18*
+
+1. [Attorney General James Sues Donald Trump for Years of Financial Fraud](https://ag.ny.gov/press-release/2022/attorney-general-james-sues-donald-trump-years-financial-fraud)
+2. [NY AG Letitia James files $250M lawsuit against Trump for defrauding lenders](https://abcnews.go.com/US/york-ag-letitia-james-files-250m-lawsuit-trump/story?id=90240332)
+3. [Judge fines Donald Trump more than $350 million](https://www.nbcnews.com/politics/donald-trump/ny-fraud-case-damages-pay-millions-judge-engoron-rcna135283)
+4. [Mar-a-Lago overvalued by $664 million, lawsuit claims](https://www.wptv.com/news/political/mar-a-lago-overvalued-by-664-million-business-fraud-lawsuit-against-former-president-donald-trump-claims)
 
 ## Conservative Influencer Lauren Chen and Husband Liam Donovan Incorporate Tenet Media in Tennessee
 *Date: 2022-01-19*
@@ -6495,6 +10591,13 @@
 1. [Carbyne and Rio Grande Council of Governments Texas Launch Industry-First Cloud-Native i3 911 Contact Center](https://www.prnewswire.com/news-releases/carbyne-and-rio-grande-council-of-governments-texas-launch-industry-first-cloud-native-i3-911-contact-center-301488732.html)
 2. [Region adopts new 911 platform with GPS and video feature](https://bigbendsentinel.com/2022/02/16/region-adopts-new-911-platform-with-gps-and-video-feature/)
 3. [How Carbyne's cloud-native platform helps 911 call centers](https://aws.amazon.com/blogs/publicsector/how-carbynes-cloud-native-platform-helps-911-call-centers-eyes-scene-more/)
+
+## National $26 Billion Opioid Settlement with Distributors and J&J, Zero Executive Prosecutions
+*Date: 2022-02-25*
+
+1. [4 U.S. companies will pay $26 billion to settle claims they fueled the opioid crisis](https://www.npr.org/2022/02/25/1082901958/opioid-settlement-johnson-26-billion)
+2. [Executive Summary – National Opioids Settlement](https://nationalopioidsettlement.com/executive-summary/)
+3. [Johnson & Johnson, opioid distributors finalize $26 billion national settlement](https://www.washingtonpost.com/health/2022/02/25/opioid-settlement-final/)
 
 ## Clearview AI Deploys Mass Facial Recognition Technology in Ukraine War
 *Date: 2022-03-01*
@@ -6539,6 +10642,13 @@
 2. [The Revolving Door: FDA to Pharmaceutical Industry](https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry)
 3. [FDA Only Inspected 6% of Foreign Drug Manufacturing Facilities in 2022](https://www.propublica.org/article/fda-drugs-medication-inspections-china-india-manufacturers)
 
+## Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory
+*Date: 2022-04-01*
+
+1. [Amazon workers on Staten Island vote to form company's first U.S. union](https://www.npr.org/2022/04/01/1089318684/amazon-labor-union-staten-island-election-bessemer-alabama-warehouse-workers)
+2. [Amazon workers on Staten Island vote for company's first unionized warehouse in U.S.](https://www.cnbc.com/2022/04/01/amazon-workers-in-staten-island-vote-to-unionize.html)
+3. [Amazon Workers on Staten Island Clinch a Historic Victory](https://www.labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory)
+
 ## Heritage Foundation Launches 2 Million Project 2025 Initiative
 *Date: 2022-04-01*
 
@@ -6553,6 +10663,13 @@
 2. [Vance Wins Ohio Republican Senate Primary](https://www.nytimes.com/2022/05/03/us/politics/jd-vance-ohio-republican-senate.html)
 3. [Peter Thiel's investment in J.D. Vance pays off](https://www.opensecrets.org/news/2022/11/peter-thiel-jd-vance-ohio/)
 
+## Amazon Injury Rate Double Warehouse Industry Average - 6.8 Per 100 Workers
+*Date: 2022-04-12*
+
+1. [Amazon workers seriously injured at more than twice the rate of other warehouses, study finds](https://www.cnbc.com/2023/04/12/study-amazon-workers-seriously-hurt-at-twice-rate-of-other-warehouses.html)
+2. [Amazon's injury rate jumped 20% last year, new report shows](https://www.seattletimes.com/business/amazons-injury-rate-jumped-20-last-year-new-report-shows/)
+3. [In Denial: Amazon's Continuing Failure to Fix Its Injury Crisis](https://warehouseworkers.org/wp-content/uploads/2023/04/SOC_In-Denial_Amazon-Injury-Report-April-2023.pdf)
+
 ## Tornado Cash Integrates Chainalysis Tool to Block OFAC-Sanctioned Addresses
 *Date: 2022-04-15*
 
@@ -6565,6 +10682,20 @@
 1. [Thiel Deepens JD Vance Bet With $3.5 Million After Trump Backing](https://www.bloomberg.com/news/articles/2022-04-20/thiel-deepens-jd-vance-bet-with-3-5-million-after-trump-backing)
 2. [Trump, Vance Campaign Eyes Peter Thiel's Support](https://www.foxbusiness.com/politics/trump-vance-campaign-eyes-peter-thiels-support-tech-billionaire-stays-mum)
 3. [The Billionaire Who Fueled JD Vance's Rapid Rise to the Trump VP Spot](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/)
+
+## Warren Report Reveals 672 Pentagon and Congressional Officials Now Lobby for Defense Contractors
+*Date: 2022-04-26*
+
+1. [New Report from Senator Warren Uncovers Defense Industry's Abuse of Revolving Door Hiring Practices](https://www.warren.senate.gov/oversight/reports/new-report-from-senator-warren-uncovers-defense-industrys-abuse-of-revolving-door-hiring-practices)
+2. [Brass for Gold - Warren Report Details Revolving Door Between Capitol Hill and War Profiteers](https://www.commondreams.org/news/elizabeth-warren-pentagon-military-contractors-revolving-door)
+3. [Over 500 Former Government Officials Are Now Lobbying for Defense Contractors](https://truthout.org/articles/over-500-former-government-officials-are-now-lobbying-for-defense-contractors/)
+
+## Amazon Defeats Second Staten Island Union Vote at LDJ5 Facility 618 to 380
+*Date: 2022-05-02*
+
+1. [Amazon Labor Union fails to repeat victory in Staten Island Amazon warehouse election](https://www.npr.org/2022/05/02/1095866859/amazon-labor-union-staten-island-union-election-chris-smalls-warehouse-workers)
+2. [Amazon workers at second Staten Island warehouse reject union](https://www.cnbc.com/2022/05/02/amazon-workers-at-second-staten-island-warehouse-reject-union.html)
+3. [Amazon Workers Just Suffered a Defeat. But the Fight Is Far From Over.](https://jacobin.com/2022/05/amazon-staten-island-ldj5-sorting-center-union-vote-loss)
 
 ## Trump Org and Inaugural Committee pay $750,000 to settle D.C. AG lawsuit over hotel overcharges
 *Date: 2022-05-03*
@@ -6679,6 +10810,14 @@
 2. [OFAC Sanctions Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group](https://www.chainalysis.com/blog/tornado-cash-ofac-designation-sanctions/)
 3. [How 2022 Crypto Sanctions Affected Crypto Crime](https://www.chainalysis.com/blog/how-2022-crypto-sanction-designations-affected-crypto-crime/)
 
+## Allen Weisselberg Pleads Guilty to 15 Felonies, Agrees to Testify Against Trump Organization
+*Date: 2022-08-18*
+
+1. [Weisselberg to Serve 5 Months in Jail & Testify Against Trump Organization](https://manhattanda.org/d-a-bragg-trump-organization-cfo-allen-weisselberg-to-serve-5-months-in-jail-testify-in-upcoming-criminal-trial-against-trump-organization/)
+2. [Weisselberg pleads guilty to tax fraud](https://www.npr.org/2022/08/18/1117948260/allen-weisselberg-trump-employee-pleads-guilty-felony)
+3. [Weisselberg pleads guilty, agrees to testify against company](https://www.cbsnews.com/news/allen-weisselberg-pleads-guilty-trump-organization-cfo-testify/)
+4. [Weisselberg pleads guilty for role in 15-year tax fraud scheme](https://www.cnn.com/2022/08/18/politics/allen-weisselberg-pleads-guilty/index.html)
+
 ## Barre Seid Donates $1.6 Billion to Leonard Leo Dark Money Network
 *Date: 2022-08-22*
 
@@ -6697,6 +10836,21 @@
 2. [South Dakota Governor Kristi Noem accused of misconduct](https://www.axios.com/2022/08/23/south-dakota-kristi-noem-misconduct-investigation)
 3. [S.D. Gov. Kristi Noem may have 'engaged in misconduct,' ethics board says](https://www.nbcnews.com/politics/politics-news/sd-gov-kristi-noem-may-engaged-misconduct-ethics-board-says-rcna44356)
 4. [Kristi Noem Faces Possible Misconduct Findings in South Dakota](https://www.cbsnews.com/news/kristi-noem-south-dakota-governor-possible-misconduct-ethics-board-says/)
+
+## Biden Announces $10K-$20K Student Loan Forgiveness Plan - 43 Million Borrowers Eligible
+*Date: 2022-08-24*
+
+1. [Biden to cancel up to $10K in student loan debt for borrowers making under $125K](https://www.npr.org/2022/08/24/1118879917/student-loan-forgiveness-biden)
+2. [FACT SHEET - President Biden Announces Student Loan Relief for Borrowers Who Need It Most](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/)
+3. [Biden cancels up to $20,000 in student loan debt for millions of Americans](https://www.cnbc.com/2022/08/24/biden-cancels-up-to-20000-in-student-loan-debt-extends-payment-pause.html)
+
+## NY Attorney General Files $250 Million Fraud Lawsuit Against Trump Organization
+*Date: 2022-09-21*
+
+1. [Attorney General James Sues Donald Trump for Years of Financial Fraud](https://ag.ny.gov/press-release/2022/attorney-general-james-sues-donald-trump-years-financial-fraud)
+2. [NY AG Letitia James files $250M lawsuit against Trump](https://abcnews.go.com/US/york-ag-letitia-james-files-250m-lawsuit-trump/story?id=90240332)
+3. [NY AG sues Trump, seeking end to business in state and $250 million](https://www.cbsnews.com/amp/news/new-york-attorney-general-letitia-james-sues-trump-the-trump-organization-seeking-end-business-state-250-million/)
+4. [New York sues Trump, company and family over fraud claims](https://www.cnbc.com/amp/2022/09/21/new-york-sues-donald-trump-company-and-family-members-over-widespread-fraud-claims-seeks-at-least-250-million-in-penalties.html)
 
 ## Musk Begins Regular Contact with Vladimir Putin
 *Date: 2022-10-01*
@@ -6747,6 +10901,14 @@
 2. [Saudis 'second largest investors' in Twitter after Musk takeover](https://www.aljazeera.com/news/2022/10/28/saudis-kingdom-holding-company-to-maintain-twitter-stake)
 3. [Musk's Twitter Investors Include Saudi Prince, Dorsey, Qatar](https://www.bloomberg.com/news/articles/2022-11-01/musk-s-twitter-investors-include-saudi-prince-dorsey-and-qatar)
 
+## New York Adult Survivors Act Creates Window for Carroll to Sue Trump for Battery
+*Date: 2022-11-10*
+
+1. [E. Jean Carroll sues Trump for battery and defamation as lookback window for adult sex abuse survivors' suits opens in New York](https://www.cnn.com/2022/11/24/politics/e-jean-carroll-trump-battery-defamation-lawsuit/index.html)
+2. [New York Adult Survivors Act: Lawsuits expected as window for sexual abuse claims opens](https://www.cnn.com/2022/11/24/us/new-york-adult-survivors-act/)
+3. [What to Know About the Adult Survivors Act, New York's New Law Allowing Civil Suits Over Past Sexual Abuse](https://www.gothamgazette.com/state/11706-adult-survivors-act-new-york-law-civil-suits-sexual-abuse)
+4. [E Jean Carroll files civil lawsuit against Donald Trump as New York Adult Survivors Act opens window](https://abc7chicago.com/post/e-jean-carroll-donald-trump-new-york-adult-survivors-act-sexual-assault/12489838/)
+
 ## Global Civil Society Develops Standardized Resistance Documentation Protocol
 *Date: 2022-11-15*
 
@@ -6774,6 +10936,14 @@
 1. [The inside story of Trump's explosive dinner with Ye and Nick Fuentes](https://www.nbcnews.com/politics/donald-trump/story-trumps-explosive-dinner-ye-nick-fuentes-rcna59010)
 2. [Trump hosted Holocaust denier at Mar-a-Lago estate](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
 3. [Republican leaders denounce Trump's dinner with white nationalist Nick Fuentes](https://www.npr.org/2022/11/29/1139742844/republicans-denounce-trump-dinner-white-supremacist-nick-fuentes)
+
+## Trump Organization Convicted on All 17 Criminal Counts in Tax Fraud Trial
+*Date: 2022-12-06*
+
+1. [Trump Organization found guilty of criminal tax fraud scheme](https://www.npr.org/2022/12/06/1140756394/former-president-donald-trumps-company-found-guilty-criminal-tax-fraud)
+2. [Trump Organization convicted in criminal tax fraud case](https://www.cnbc.com/2022/12/06/trump-organization-convicted-in-new-york-criminal-tax-fraud-case.html)
+3. [Trump Organization found guilty on all charges in tax fraud trial](https://www.cbsnews.com/news/trump-organization-trial-verdict-tax-fraud-charges/)
+4. [Trump Organization fined $1.6 million for tax fraud scheme](https://www.nbcnews.com/politics/donald-trump/trump-organization-faces-sentencing-tax-fraud-scheme-rcna65013)
 
 ## Twitter Files Release Exposes Systematic Government-Social Media Coordination Infrastructure for Information Control and Democratic Manipulation
 *Date: 2022-12-09*
@@ -6827,12 +10997,27 @@
 2. [ICE Whistleblower Carlos Jimenez Protected from Retaliation Under MSPB Ruling](https://oversightdemocrats.house.gov/news/press-releases/ice-whistleblower-protected-retaliation-mspb)
 3. [Federal Employee Whistleblower Rights and 2022 Retaliation Cases](https://www.dol.gov/agencies/oalj/PUBLIC/WHISTLEBLOWER/REFERENCES/CASELISTS/FEDERAL_2022)
 
+## House Ways and Means Committee Releases Six Years of Trump Tax Returns
+*Date: 2022-12-30*
+
+1. [6 years of Trump tax documents released by House Ways and Means Committee](https://abcnews.go.com/US/6-years-trump-tax-documents-released-democratic-ways/story?id=95707006)
+2. [Mandatory IRS audit of Trump taxes delayed during presidency](https://www.pbs.org/newshour/politics/mandatory-irs-audit-of-trump-taxes-delayed-during-presidency-house-panel-says)
+3. [Trump's tax returns released by House committee show he paid little in taxes](https://www.nbcnews.com/politics/donald-trump/trumps-tax-returns-released-house-committee-years-legal-battles-rcna62408)
+4. [Trump's tax returns released by House Ways and Means Committee](https://www.cnbc.com/2022/12/30/trumps-tax-returns-released-by-house-ways-and-means-committee.html)
+
 ## Arabella Advisors Network Raises Record $1.35 Billion in Dark Money
 *Date: 2022-12-31*
 
 1. [Under Ethics Scrutiny, Liberal Dark Money Behemoth Arabella Advisors Discloses $1.3 Billion Fundraising Haul](https://freebeacon.com/democrats/under-ethics-scrutiny-liberal-dark-money-behemoth-arabella-advisors-discloses-1-3-billion-fundraising-haul/)
 2. [Meet the Swiss Billionaire Behind Arabella Advisors Dark Money Empire](https://capitalresearch.org/article/meet-the-swiss-billionaire-behind-arabella-advisors-dark-money-empire/)
 3. [How a Secretive Billionaire Handed His Fortune to the Architect of the 'Dark Money' Political Network](https://www.theatlantic.com/politics/archive/2021/09/anonymous-big-donor-conservative-nonprofit-16-thirty-fund/620092/)
+
+## Amazon AWS Government Contracts Reach Multi-Billion Dollar Annual Scale
+*Date: 2023-01-01*
+
+1. [How Much Do Government Contracts Contribute to Amazon Web Services' Growth?](https://www.tenderalpha.com/blog/post/quantitative-analysis/how-much-do-government-contracts-contribute-to-amazon-web-services-growth)
+2. [Top Government Contracts Won by Amazon Web Services](https://www.executivegov.com/articles/top-government-contracts-won-by-amazon-web-services)
+3. [NSA Awards Secret $10 Billion Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/)
 
 ## Treasury records reveal $1.1 billion in Epstein wire transfers through Russian banks
 *Date: 2023-01-01*
@@ -6864,6 +11049,13 @@
 3. [Twitter to Ease Ban on Political Advertising Under Musk](https://www.bloomberg.com/news/articles/2023-01-04/twitter-political-ads-ban-to-ease-under-elon-musk)
 4. [Twitter says it will relax ban on political advertising](https://www.nbcnews.com/politics/politics-news/twitter-says-will-relax-ban-political-advertising-rcna64202)
 
+## Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year
+*Date: 2023-01-11*
+
+1. [Amazon hit with labor complaint over failing to bargain with Staten Island union](https://www.cnbc.com/2023/07/12/amazon-hit-with-labor-complaint-over-failing-to-bargain-with-union.html)
+2. [As Amazon Refuses to Bargain, Divisions Have Emerged in the Amazon Labor Union](https://jacobin.com/2023/07/amazon-labor-union-jfk8-chris-smalls-reform-caucus-democracy)
+3. [USA: Three years after union vote, Amazon refuses to recognise JFK8 union and delays collective bargaining through legal challenges](https://www.business-humanrights.org/en/latest-news/usa-three-years-after-union-vote-amazon-refuses-to-recognise-jfk8-union-and-delays-collective-bargaining-through-legal-challenges-incl-comp-comment/)
+
 ## Anonymous Whistleblower Leaks 1.7 TB of Cellebrite Data Including Full Software Suite
 *Date: 2023-01-13*
 
@@ -6894,6 +11086,14 @@
 4. [Elon Musk says only verified Twitter users to show up in "For You" tab](https://www.cnbc.com/2023/03/28/elon-musk-says-only-verified-twitter-users-to-show-up-in-for-you-tab.html)
 5. [Elon Musk Says Only Verified Twitter Accounts Will Appear in For You Timeline Starting in April](https://variety.com/2023/digital/news/elon-musk-twitter-verified-accounts-for-you-recommendations-1235566031/)
 
+## Trump Indicted by Manhattan DA on 34 Felony Counts - First Criminal Indictment of President in U.S. History
+*Date: 2023-03-30*
+
+1. [Trump indicted in New York over hush money to porn star Stormy Daniels](https://www.npr.org/2023/03/30/1164766452/trump-indictment-new-york-bragg-stormy-daniels)
+2. [Read the 34 felony charges in the Donald Trump indictment over the Stormy Daniels payoff](https://www.politifact.com/article/2023/apr/04/read-34-felony-charges-donald-trump-indictment/)
+3. [Trump indictment updates: Trump denies committing crimes, attacks foes in scattered Mar-a-Lago speech](https://www.cnbc.com/2023/04/04/trump-arraignment-new-york-indictment-live-updates-and-news.html)
+4. [Trump indicted by Manhattan grand jury over 2016 Stormy Daniels payment](https://www.axios.com/2023/03/30/trump-indicted-manhattan-grand-jury-criminal)
+
 ## Heritage Foundation launches Project 2025 initiative
 *Date: 2023-04-01*
 
@@ -6901,6 +11101,14 @@
 2. [Project 2025, Explained](https://www.aclu.org/project-2025-explained)
 3. [What is Project 2025? What to know about the conservative blueprint for a second Trump administration](https://www.cbsnews.com/news/what-is-project-2025-trump-conservative-blueprint-heritage-foundation/)
 4. [New Trump Administration Packed with Project 2025 Architects](https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/)
+
+## Trump Arraigned in Manhattan Criminal Court, Pleads Not Guilty to 34 Felony Counts
+*Date: 2023-04-04*
+
+1. [Trump arraigned on 34 counts, pleads not guilty in New York courtroom](https://www.washingtonpost.com/national-security/2023/04/04/trump-indictment-charges-new-york-arraignment/)
+2. [Donald Trump pleads not guilty to 34 felony counts of falsifying business records](https://www.cnn.com/2023/04/04/politics/donald-trump-arraignment-new-york/index.html)
+3. [Trump arraigned: Former president pleads not guilty to 34 felony counts](https://www.fox5ny.com/news/trump-arraignment-mug-shot-charges-indictment-tuesday-nyc.amp)
+4. [Trump embraced at Mar-a-Lago after pleading not guilty to 34 felony counts](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-indictment-live-updates-former-presidents-arraignment-expected-t-rcna77705)
 
 ## ProPublica reveals decades of luxury travel/gifts to Justice Thomas; 2023 Judicial Conference narrows hospitality exemption
 *Date: 2023-04-06*
@@ -6953,6 +11161,14 @@
 2. [Oath Keepers founder Stewart Rhodes sentenced to 18 years](https://www.npr.org/2023/05/25/1178046912/oath-keepers-founder-stewart-rhodes-sentenced-to-18-years-for-seditious-conspir)
 3. [Final Report of the Select Committee to Investigate January 6th](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf)
 
+## Jury Finds Trump Liable for Sexual Abuse and Defamation of E. Jean Carroll, Awards $5 Million
+*Date: 2023-05-09*
+
+1. [A jury finds Trump liable for battery and defamation in E. Jean Carroll trial](https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict)
+2. [Judge upholds the $5 million verdict against Trump in E. Jean Carroll's sex abuse and defamation case](https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case)
+3. [Jury Finds Donald Trump Liable for Sexual Abuse, Awards Accuser $5M](https://news.wttw.com/2023/05/09/jury-finds-donald-trump-liable-sexual-abuse-awards-accuser-5m)
+4. [Judge tosses Trump's counterclaim against E. Jean Carroll, finding rape claim is 'substantially true'](https://www.nbcnews.com/politics/donald-trump/judge-tosses-trumps-counterclaim-e-jean-carroll-finding-rape-claim-sub-rcna98577)
+
 ## Tucker Carlson Announces Move to Twitter/X, Forgoes $25 Million to Break Non-Compete
 *Date: 2023-05-09*
 
@@ -6960,6 +11176,13 @@
 2. [NPR: Media Landscape Shift with Tucker Carlson's Platform Change](https://www.npr.org/2023/05/10/media-platform-changes/tucker-carlson-twitter-x-move)
 3. [Fox News Warns Tucker Carlson to Stop Twitter Video Series](https://www.pbs.org/newshour/politics/fox-news-warns-former-star-tucker-carlson-to-stop-twitter-video-series-axios-reports)
 4. [Tucker Carlson's Departure from Fox News](https://www.pbs.org/newshour/nation/tucker-carlson-out-at-fox-news-agreed-to-part-ways-network-says)
+
+## Second Circuit Reverses District Court, Reinstates Sackler Immunity Deal
+*Date: 2023-05-30*
+
+1. [A landmark appeals court ruling clears way for Purdue Pharma-Sackler bankruptcy deal](https://www.npr.org/2023/05/30/1178850879/sackler-family-purdue-pharma-immunity-lawsuits-oxycontin-opioid)
+2. [Appeals court approves a deal to shield the Sackler family from opioid lawsuits](https://www.npr.org/2023/05/30/1178850879/sackler-family-purdue-pharma-immunity-lawsuits-oxycontin-opioid)
+3. [Landmark Second Circuit decision affirms Purdue Plan, legality of nonconsensual third-party releases](https://www.davispolk.com/insights/client-update/landmark-second-circuit-decision-affirms-purdue-plan-legality-nonconsensual)
 
 ## FTC fines Ring $5.8 million for employees' illegal surveillance of customers' private videos
 *Date: 2023-05-31*
@@ -7073,6 +11296,13 @@
 3. [Biden v. Nebraska Opinion](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
 4. [Supreme Court strikes down Biden student loan forgiveness plan in 6-3 decision](https://www.axios.com/2023/06/30/supreme-court-student-loan-decision)
 
+## Supreme Court Strikes Down Biden Student Loan Forgiveness 6-3 - Protects Debt System Against Democratic Relief
+*Date: 2023-06-30*
+
+1. [Supreme Court strikes down Biden student-loan forgiveness program](https://www.scotusblog.com/2023/06/supreme-court-strikes-down-biden-student-loan-forgiveness-program/)
+2. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
+3. [Biden v. Nebraska Supreme Court Opinion](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
+
 ## US Adds Intellexa and Cytrox to Entity List for Cyber Exploit Trafficking
 *Date: 2023-07-01*
 
@@ -7126,6 +11356,14 @@
 1. [Spotify's Joe Rogan has repeatedly spread the baseless conspiracy theory that January 6 was a false flag orchestrated by the FBI](https://www.mediamatters.org/january-6-insurrection/spotifys-joe-rogan-has-repeatedly-spread-baseless-conspiracy-theory-january)
 2. [Joe Rogan Says It's a 'Fact' That Jan. 6 Insurrection Was False Flag, Cites Ray Epps](https://www.thedailybeast.com/joe-rogan-says-its-a-fact-that-jan-6-insurrection-was-false-flag-cites-ray-epps)
 
+## Jack Smith Indicts Trump on 4 Federal Counts for January 6 Conspiracy to Overturn Election
+*Date: 2023-08-01*
+
+1. [Trump indicted by grand jury in special counsel Jack Smith's Jan. 6 investigation](https://www.cbsnews.com/news/trump-indicted-grand-jury-jan-6/)
+2. [Special counsel Jack Smith announces new Trump charges, calling Jan. 6 an "unprecedented assault"](https://www.cbsnews.com/news/trump-indictment-jack-smith-statement-watch-live-stream-today-2023-08-01/)
+3. [Federal prosecution of Donald Trump (election obstruction case)](https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(election_obstruction_case))
+4. [August 1, 2023 Trump indicted in special counsel's 2020 election interference probe](https://www.cnn.com/politics/live-news/trump-2020-election-probe-08-01-23/index.html)
+
 ## Regulatory Enforcement Actions Drop Substantially in 2023: A Strategic Shift
 *Date: 2023-08-12*
 
@@ -7154,6 +11392,22 @@
 1. [SEC Enforcement Actions Drop in Fiscal Year 2024](https://www.cornerstone.com/press_release/sec-enforcement-actions-drop-12-percent-fy-2024/)
 2. [Enforcement Trends: Reading Between the Fines](https://www.smarsh.com/blog/thought-leadership/2023-regulatory-trends-reading-between-the-fines)
 3. [Enforcement Data Analysis](https://trumptyrannytracker.substack.com)
+
+## Fulton County DA Fani Willis Indicts Trump and 18 Co-Defendants on Georgia RICO Charges
+*Date: 2023-08-14*
+
+1. [Donald Trump is indicted in Georgia for seeking to overturn the 2020 election](https://www.npr.org/2023/08/14/1152841080/trump-fulton-county-georgia-election-investigation-indictments)
+2. [Read the full Georgia indictment against Trump and 18 allies](https://www.pbs.org/newshour/politics/read-the-full-georgia-indictment-against-trump-and-18-allies)
+3. [Why Fulton County District Attorney Fani Willis chose RICO to indict Trump](https://www.npr.org/2023/08/15/1193875137/why-fulton-county-district-attorney-fani-willis-chose-rico-to-indict-trump)
+4. [The Georgia case against Trump is loaded with breathtaking ambition](https://www.axios.com/2023/08/15/georgia-indictment-fani-willis-trump-rico)
+
+## Trump Surrenders at Fulton County Jail, Mugshot Taken - First Presidential Mugshot in History
+*Date: 2023-08-24*
+
+1. [Trump's mug shot in Fulton County released](https://www.cbsnews.com/news/trump-mug-shot-fulton-county-jail-arrest-inmate-p01135809-booking-photo/)
+2. [Trump mug shot released by Fulton County Sheriff's Office](https://abcnews.go.com/US/trump-mug-shot-released-georgia-sheriffs-office/story?id=102544727)
+3. [Trump's mug shot made public by Fulton County Jail after arrest](https://www.nbcnews.com/politics/donald-trump/donald-trump-mugshot-georgia-jail-fulton-county-arrest-rcna101664)
+4. [Presidential mug shot of inmate No. P01135809 is stark in its simplicity](https://www.cnn.com/2023/08/24/politics/trump-mug-shot-analysis/index.html)
 
 ## X reverses 2019 ban, allows U.S. political ads; verified accounts prioritized in recommendations
 *Date: 2023-08-29*
@@ -7223,6 +11477,14 @@
 4. [Musk's xAI releases Grok-3, touting a new rival to OpenAI and DeepSeek](https://www.nbcnews.com/tech/tech-news/musk-xai-releases-grok-3-rcna192670)
 5. [Researchers Say xAI Is Skipping Key AI Safety Protocols](https://autogpt.net/ai-experts-slam-xai-for-ignoring-safety-standards/)
 
+## Trump Takes Stand in NY Fraud Trial, Delivers Combative Testimony Calling Case "Witch Hunt"
+*Date: 2023-11-06*
+
+1. [Trump repeatedly clashes with judge at NY civil fraud trial](https://www.france24.com/en/live-news/20231106-trump-to-testify-at-civil-trial-targeting-his-new-york-empire)
+2. [Trump storms out of fraud trial after judge clashes with attorneys](https://www.nbcnews.com/politics/donald-trump/judge-orders-trump-take-stand-ny-fraud-trial-fines-10000-violating-gag-rcna122199)
+3. [Trump fraud trial - Michael Cohen testifies](https://www.cnbc.com/2023/10/25/trump-fraud-trial-michael-cohen-testifies-in-fraud-trial.html)
+4. [Trump storms out as Michael Cohen testifies - Fraud trial highlights](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-fraud-trial-michael-cohen-live-updates-rcna122011)
+
 ## Tenet Media Officially Launches Conservative Content Network with Tim Pool, Dave Rubin, Benny Johnson and Others
 *Date: 2023-11-08*
 
@@ -7245,6 +11507,13 @@
 2. [Why do all these authoritarian-misogynist policy manifestoes keep getting endorsed by JD Vance?](https://www.lawyersgunsmoneyblog.com/2024/09/why-do-all-these-authoritarian-misogynist-policy-manifestoes-keep-getting-endorsed-by-jd-vance)
 3. [JD Vance and the rise of the 'New Right'](https://www.wbur.org/onpoint/2025/04/05/jd-vance-new-right-curtis-yarvin)
 4. [The Claremont Institute: The Anti-Democracy Think Tank](https://newrepublic.com/article/174656/claremont-institute-think-tank-trump)
+
+## Washington Post Workers Strike Against Bezos—First Walkout in Nearly 50 Years Over Job Cuts and Stalled Negotiations
+*Date: 2023-12-07*
+
+1. ['Washington Post' journalists stage daylong strike under threat of job cuts](https://www.npr.org/2023/12/07/1217690720/washington-post-workers-strike)
+2. [Washington Post Workers Plan Strike to Pressure Bezos on Contract](https://www.commondreams.org/news/washington-post-strike)
+3. [The Washington Post braces for historic 24-hour strike as journalists protest staff cuts and contract frustrations](https://www.cnn.com/2023/12/06/business/washington-post-24-hour-strike/index.html)
 
 ## Vance Endorses Claremont Institute's 'Up from Conservatism' at Capitol Hill Event
 *Date: 2023-12-11*
@@ -7328,6 +11597,22 @@
 2. [Trump received millions from foreign governments as president, House Democrats report](https://www.washingtonpost.com/politics/2024/01/04/trump-foreign-payments-emoluments/)
 3. [Trump businesses received at least $7.8 million from foreign entities during presidency](https://abcnews.go.com/Politics/trump-businesses-received-78-million-foreign-entities-presidency/story?id=106116388)
 
+## Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
+*Date: 2024-01-05*
+
+1. [The Design, Development & Certification of the Boeing 737 MAX - Final Report](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
+2. [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
+3. [Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
+4. [Boeing Whistleblower John Barnett Found Dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
+
+## Alaska Airlines 737 MAX 9 Door Plug Blows Out at 16,000 Feet, Exposing Continued Boeing Safety Failures
+*Date: 2024-01-05*
+
+1. [NTSB Says Four Bolts 'Missing' on Alaska Airlines 737 Max 9 Door Plug Blowout](https://www.npr.org/2024/02/06/1229528737/ntsb-boeing-737-max-9-alaska-airlines-door-plug-missing-bolts)
+2. [DCA24MA063 Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
+3. [NTSB Chair Says Systemic Failures Led to Door Plug Flying Off Alaska Airlines' Boeing 737 Max](https://www.pbs.org/newshour/nation/watch-live-ntsb-holds-hearing-on-cause-of-alaska-airlines-boeing-737-max-9-mid-air-cabin-blowout)
+4. [NTSB Blames Boeing, FAA for Cause of Alaska Airlines Door Plug Blowout](https://abcnews.go.com/US/boeing-door-plug-blowout-probable-cause-ntsb-vote/story?id=123124256)
+
 ## Independent AI Safety Researchers Publish Initial Grok AI Safety Assessment
 *Date: 2024-01-15*
 
@@ -7349,6 +11634,14 @@
 2. [Amazon's Ring will stop allowing police to request doorbell video footage from users](https://www.cnbc.com/2024/01/24/amazons-ring-will-stop-letting-police-request-doorbell-video-footage.html)
 3. [Victory! Ring Announces It Will No Longer Facilitate Police Requests for Footage from Users](https://www.eff.org/deeplinks/2024/01/ring-announces-it-will-no-longer-facilitate-police-requests-footage-users)
 
+## Jury Awards E. Jean Carroll $83.3 Million in Second Defamation Trial Against Trump
+*Date: 2024-01-26*
+
+1. [Jury orders Trump to pay $83 million for defaming columnist E. Jean Carroll](https://www.npr.org/2024/01/26/1226626397/trump-defamation-trial)
+2. [Trump ordered to pay additional $83.3 million to E. Jean Carroll in defamation case](https://www.pbs.org/newshour/nation/trump-must-pay-additional-83-million-to-e-jean-carroll-in-defamation-case-jury-decides)
+3. [Trump must pay $83.3 million for defaming E. Jean Carroll, jury says](https://www.cbsnews.com/news/trump-e-jean-carroll-trial-closing-arguments-courtroom/)
+4. [Trump must pay E. Jean Carroll over $83 million in defamation damages, jury finds](https://www.nbcnews.com/politics/donald-trump/verdict-reached-e-jean-carrolls-defamation-damages-trial-trump-rcna135919)
+
 ## Russian Military Systematically Acquires and Uses Starlink Terminals in Ukraine
 *Date: 2024-02-01*
 
@@ -7364,6 +11657,14 @@
 3. [Joe Rogan Clinches New Spotify Deal Worth Up to $250 Million](https://www.rollingstone.com/culture/culture-news/joe-rogan-spotify-podcast-deal-1234960090/)
 4. [Joe Rogan signs new $250M Spotify deal, but podcast to become available on other platforms](https://finance.yahoo.com/news/joe-rogan-signs-250m-spotify-015000455.html)
 5. [Spotify inks new multiyear deal with podcast host Joe Rogan](https://www.nbcnews.com/media/spotify-joe-rogan-new-deal-rcna136997)
+
+## Michael Mann Wins Defamation Lawsuit After 12-Year Battle Against Climate Deniers
+*Date: 2024-02-08*
+
+1. [Embattled Climate Scientist Michael Mann Wins $1 Million in Defamation Lawsuit](https://www.scientificamerican.com/article/embattled-climate-scientist-michael-mann-wins-1-million-in-defamation-lawsuit/)
+2. [Climate scientist Michael Mann awarded more than $1 million in damages from conservative writers who defamed his work](https://www.cnn.com/2024/02/09/media/michael-mann-national-review-climate-defamation/index.html)
+3. [Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay and Wins](https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay)
+4. [Michael Mann, a Leading Climate Scientist, Wins His Defamation Suit](https://web.sas.upenn.edu/pcssm/news/michael-mann-a-leading-climate-scientist-wins-his-defamation-suit/)
 
 ## Meta makes political content non-recommended by default on Instagram and Threads
 *Date: 2024-02-09*
@@ -7381,6 +11682,13 @@
 3. [Ukrainian intelligence says Russia using Starlink satellite Internet system for combat operations](https://meduza.io/en/news/2024/02/11/ukrainian-intelligence-says-russia-using-starlink-satellite-internet-system-for-combat-operations-in-occupied-territory)
 4. [Russian Forces Getting More Access To Starlink Satellite Internet, Threatening Ukraine's Military Communications](https://www.rferl.org/a/ukraine-russia-starlink-access-threat/32819373.html)
 5. [Russia's forces are illegally using Starlink terminals against Ukraine](https://www.washingtonpost.com/world/2024/10/12/starlink-russia-ukraine-elon-musk/)
+
+## Biden Approves $136 Billion in Targeted Student Debt Relief - 3.7 Million Borrowers Through Alternative Programs
+*Date: 2024-02-12*
+
+1. [Biden has forgiven $136 billion in student debt. More relief is on the way](https://www.cnbc.com/2024/02/12/biden-has-forgiven-136-billion-in-student-debt.html)
+2. [Despite collapse of his forgiveness plan, millions had student loans canceled under Biden](https://www.pbs.org/newshour/politics/despite-collapse-of-his-forgiveness-plan-millions-had-student-loans-canceled-under-biden)
+3. [Biden releases student loan debt relief plan for millions of borrowers](https://www.npr.org/2024/04/08/1243071907/biden-student-loan-debt-relief-millions)
 
 ## Chicago Terminates ShotSpotter Contract After Years of Criticism
 *Date: 2024-02-15*
@@ -7418,6 +11726,14 @@
 1. [Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
 2. [xAI strikes deal with US government to expand access to Grok AI chatbot](https://cryptobriefing.com/xai-us-government-grok-ai-expansion-2024/)
 3. [Musk's xAI was a late addition to the Pentagon's set of 00 million AI contracts, former defense employee says](https://www.nbcnews.com/tech/security/musk-xai-was-added-late-pentagon-grok-defense-department-rcna219488)
+
+## Judge Engoron Issues $454 Million Fraud Judgment Against Trump, Bans NY Business Operations
+*Date: 2024-02-16*
+
+1. [Attorney General James Wins Landmark Victory Against Donald Trump](https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump)
+2. [Judge fines Trump more than $350 million, bars him from NY businesses](https://www.nbcnews.com/politics/donald-trump/ny-fraud-case-damages-pay-millions-judge-engoron-rcna135283)
+3. [Trump fraud trial - Judge Engoron fines ex-president $454 million](https://www.cnbc.com/2024/02/16/trump-fraud-trial-judge-engoron-verdict-ny-ag-business-case.html)
+4. [Judge fines Trump $354 million, says frauds 'shock the conscience'](https://abcnews.go.com/US/live-updates/trump-fraud-trial/?id=103642561)
 
 ## AI Regulatory Bodies Begin Scrutiny of xAI's Grok
 *Date: 2024-02-22*
@@ -7462,6 +11778,14 @@
 2. [U.S. sanctions maker of Predator spyware](https://cyberscoop.com/predator-intellexa-cytrox-sanctions/)
 3. [US sanctions founder of spyware maker Intellexa for targeting Americans](https://techcrunch.com/2024/03/05/us-sanctions-founder-of-spyware-maker-intellexa-for-targeting-americans/)
 4. [Treasury sanctions Predator spyware operator in unprecedented move](https://www.axios.com/2024/03/05/treasury-spyware-sanctions-intellexa)
+
+## Boeing Whistleblower John Barnett Found Dead During Deposition, Ruled Suicide
+*Date: 2024-03-09*
+
+1. [Boeing Whistleblower John Barnett, Who Raised Alarm Over Plane Quality, Is Found Dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
+2. [Boeing Whistleblower John Barnett Died by Suicide, Police Investigation Concludes](https://www.cbsnews.com/news/boeing-whistleblower-john-barnett-suicide-police-investigation/)
+3. [Boeing Whistleblower John Barnett Found Dead](https://www.aljazeera.com/economy/2024/3/12/boeing-whistleblower-found-dead)
+4. [Charleston Police Release Investigation Report of Boeing Whistleblower Death](https://www.live5news.com/2024/05/17/charleston-police-release-investigation-report-boeing-whistleblower-death/)
 
 ## State Department Develops Advanced Internal Resistance and Preservation Protocols
 *Date: 2024-03-15*
@@ -7528,6 +11852,14 @@
 3. [Trump Media stock jumps as much as 50% after DJT ticker debut](https://www.cnbc.com/2024/03/26/trump-media-stock-ticker-djt-debuts-after-dwac-merger.html)
 4. [Trump Media & Technology Group Corp. (DJT) SEC Filings](https://www.nasdaq.com/market-activity/stocks/djt/sec-filings)
 
+## First Criminal Trial of Former U.S. President Begins - Trump Faces 34 Felony Counts in Manhattan
+*Date: 2024-04-15*
+
+1. [Trump trial gets underway in New York with jury selection in historic case](https://www.cbsnews.com/news/trump-trial-begins-today-jury-selection/)
+2. [Day 1 of Trump New York hush money trial](https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/index.html)
+3. [The Latest | Trump arrives at court in New York for the start of jury selection in hush money trial](https://abcnews.go.com/Politics/wireStory/latest-trump-arrives-court-new-york-start-jury-109244603)
+4. [Takeaways from the final day of jury selection in Trump's historic hush money trial](https://www.cnn.com/2024/04/19/politics/takeaways-final-day-jury-selection-trump-hush-money-trial/index.html)
+
 ## Axon Releases Draft One AI System to Automate Police Report Writing from Body Camera Audio
 *Date: 2024-04-23*
 
@@ -7554,6 +11886,14 @@
 2. [South Dakota Gov. Kristi Noem stands by decision to kill dog, share it in new book](https://www.cbsnews.com/news/kristi-noem-dog-cricket-new-book-defense/)
 3. [Why Did Kristi Noem Kill Her Own Dog? Everything to Know](https://time.com/6971773/kristi-noem-memoir-dog-kill-children-net-worth/)
 
+## Second Boeing Whistleblower Joshua Dean Dies Suddenly at 45 from MRSA Infection
+*Date: 2024-05-01*
+
+1. [Whistleblower Joshua Dean, Who Raised Concerns About Boeing Jets, Dies at 45](https://www.npr.org/2024/05/02/1248693512/boeing-whistleblower-josh-dean-dead)
+2. [Another Boeing Whistleblower Is Dead—This Time a Healthy 45-Year-Old Who Battled a Sudden, Severe Infection](https://fortune.com/2024/05/02/boeing-whistleblower-dead-joshua-dean-45-sudden-severe-infection/)
+3. [Whistleblower Josh Dean of Boeing Supplier Spirit AeroSystems Has Died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)
+4. [Whistleblower Who Accused Boeing Supplier of Ignoring Defects Dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
+
 ## Noem caught lying about meeting Kim Jong Un in memoir
 *Date: 2024-05-03*
 
@@ -7561,12 +11901,35 @@
 2. [Gov. Kristi Noem faces questions about false claim in her book that she met Kim Jong Un](https://www.cbsnews.com/news/gov-kristi-noem-interview-false-claim-in-her-book-kim-jong-un/)
 3. [The Kristi Noem and Kim Jong Un Controversy, Explained](https://time.com/6974797/kristi-noem-kim-jong-un-book-controversy/)
 
+## Stormy Daniels Testifies in Graphic Detail About Sexual Encounter, Trump Visibly Angry
+*Date: 2024-05-07*
+
+1. [Trump N.Y. criminal case: Stormy Daniels testifies in hush money trial](https://www.axios.com/2024/05/07/stormy-daniels-testify-trump-trial-new-york)
+2. [Stormy Daniels testifies in graphic detail at Trump hush money trial](https://www.ajc.com/news/nation-world/stormy-daniels-testifies-in-graphic-detail-at-trump-hush-money-trial/W5O5EBUGPZBZDFVREHSP5XRX2Y/)
+3. [Silk pajamas, spanking and questions about STDs: Stormy Daniels details sexual encounter with Trump](https://www.nbcnews.com/politics/donald-trump/trump-trial-resumes-prosecutors-indicate-hush-money-testimony-halfway-rcna150950)
+4. [6 takeaways from Stormy Daniels' testimony on what happened between her and Trump](https://www.pbs.org/newshour/amp/politics/6-takeaways-from-stormy-daniels-testimony-on-what-happened-between-her-and-trump)
+
+## Michael Cohen Testifies Trump Personally Directed Hush Money Scheme and Reimbursement Cover-Up
+*Date: 2024-05-13*
+
+1. [Michael Cohen, Trump's ex-fixer, testifies about hush money payment to Stormy Daniels](https://www.npr.org/2024/05/13/1250844236/trump-trial-michael-cohen)
+2. [Michael Cohen Testifies Trump Directed Him to Pay Hush Money](https://www.usnews.com/news/national-news/articles/2024-05-13/michael-cohen-testifies-trump-directed-him-to-pay-hush-money)
+3. [Michael Cohen, key witness against Trump, testifies at trial about "hush money" payments](https://www.cbsnews.com/live-updates/michael-cohen-trump-trial-testimony/)
+4. [Michael Cohen: Trump hush-money scheme was 'all about the campaign'](https://www.courthousenews.com/michael-cohen-trump-hush-money-scheme-was-all-about-the-campaign/)
+
 ## French officials dispute Noem's claim about canceling Macron meeting
 *Date: 2024-05-13*
 
 1. [French official disputes passage about Emmanuel Macron in Kristi Noem's book](https://www.nbcnews.com/politics/politics-news/french-official-disputes-kristi-noem-book-passage-emmanuel-macron-rcna151742)
 2. [French government questions Noem's account of a canceled meeting with Macron](https://thehill.com/blogs/blog-briefing-room/4659620-french-government-questions-noems-account-of-a-cancelled-meeting-with-macron-report/)
 3. [Another World Leader Claim From Kristi Noem's Book Has Been Disputed](https://www.yahoo.com/news/another-world-leader-claim-kristi-152657139.html)
+
+## DOJ Finds Boeing Breached Deferred Prosecution Agreement After Door Plug Blowout
+*Date: 2024-05-14*
+
+1. [DOJ Says Boeing Broke Deal That Avoided Prosecution After 2 Fatal 737 Max Crashes](https://www.npr.org/2024/05/14/1251477809/boeing-justice-department-charges)
+2. [Boeing May Be Prosecuted After Breaking Safety Agreement That Prevented Criminal Charges for 737 Crashes](https://www.cnn.com/2024/05/14/business/boeing-justice-department-criminal-prosecution/index.html)
+3. [United States v. The Boeing Company - DPA Breach](https://www.justice.gov/criminal/criminal-fraud/case/united-states-v-boeing-company)
 
 ## xAI Announces Enhanced Safety Protocols for Grok Chatbot at AI Seoul Summit
 *Date: 2024-05-15*
@@ -7611,6 +11974,21 @@
 1. [Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment](https://home.treasury.gov/news/press-releases/jy2382)
 2. [U.S. Treasury Describes NFTs as 'Highly Susceptible to Use in Fraud and Scams'](https://www.coindesk.com/policy/2024/05/29/us-treasury-describes-nfts-as-highly-susceptible-to-use-in-fraud-and-scams)
 3. [Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment](https://www.globalsecurity.org/security/library/news/2024/05/sec-240529-treasury01.htm)
+
+## Apprentice Producer Bill Pruitt's NDA Expires, Reveals Trump Used N-Word on Camera
+*Date: 2024-05-30*
+
+1. [Producer On 'The Apprentice' Claims Donald Trump Used N-Word When Faced With Prospect Of A Black Winner In Show's First Season](https://deadline.com/2024/05/trump-the-apprentice-n-word-bill-pruitt-1235944516/)
+2. [Former 'Apprentice' producer alleges Trump used N-word to refer to Black contestant](https://www.cnn.com/2024/05/30/politics/trump-apprentice-producer-black-contestant/index.html)
+3. [Donald Trump Used Racial Slur on 'The Apprentice' Set, Says Producer](https://www.hollywoodreporter.com/tv/tv-news/donald-trump-racial-slur-apprentice-revelations-1235911967/)
+
+## Trump Convicted on All 34 Felony Counts - First Former President Convicted of Crimes in U.S. History
+*Date: 2024-05-30*
+
+1. [What was Trump convicted of? Details on the 34 counts and his guilty verdict](https://www.cbsnews.com/news/trump-charges-conviction-guilty-verdict/)
+2. [Here's what all 34 felony counts in Trump's hush money trial mean](https://www.npr.org/2024/05/30/g-s1-1848/trump-hush-money-trial-34-counts)
+3. [Trump found guilty in hush money trial](https://www.cnn.com/2024/05/30/politics/donald-trump-hush-money-trial-verdict/index.html)
+4. [Jury finds Trump guilty on all 34 felony counts](https://www.voanews.com/a/jury-finds-trump-guilty-on-all-34-felony-counts/7634861.html)
 
 ## Flock Safety Network Expands to 5,000+ Police Departments Performing 20 Billion Monthly Vehicle Scans
 *Date: 2024-06-01*
@@ -7670,6 +12048,13 @@
 2. [Supreme Court blocks EPA's Good Neighbor air pollution rule](https://www.scotusblog.com/2024/06/supreme-court-blocks-epas-good-neighbor-air-pollution-rule/)
 3. [Supreme Court blocks EPA's "good neighbor" rule aimed at combating air pollution](https://www.cbsnews.com/news/supreme-court-epa-good-neighbor-rule/)
 
+## Supreme Court Rejects Sackler Immunity in 5-4 Decision, Blocks Bankruptcy Shield
+*Date: 2024-06-27*
+
+1. [US Supreme Court rejects opioid settlement that shields Sackler family](https://www.aljazeera.com/news/2024/6/27/us-supreme-court-rejects-opioid-settlement-that-shields-sackler-family)
+2. [Supreme Court blocks Sackler family immunity, dismantles Purdue Pharma bankruptcy plan](https://www.healio.com/news/primary-care/20240627/supreme-court-blocks-sackler-family-immunity-dismantles-purdue-pharma-bankruptcy-plan)
+3. [Harrington v. Purdue Pharma L.P. Supreme Court Opinion](https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf)
+
 ## Supreme Court Overturns Chevron Deference, Reshaping Administrative Law
 *Date: 2024-06-28*
 
@@ -7728,6 +12113,14 @@
 1. [New Georgia Law Spurs Bogus Challenges to Voter Eligibility](https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility)
 2. [Groups readying mass voter challenges in Georgia's 2024 elections](https://georgiarecorder.com/2024/07/08/groups-readying-mass-voter-challenges-in-georgias-2024-elections-theres-an-app-for-that/)
 3. [Close to 100,000 Voter Registrations Were Challenged in Georgia](https://www.propublica.org/article/right-wing-activists-georgia-voter-challenges)
+
+## Judge Merchan Postpones Trump Sentencing to September After Supreme Court Immunity Ruling
+*Date: 2024-07-11*
+
+1. [Trump sentencing delayed as judge in "hush money" case weighs Supreme Court immunity ruling](https://www.cbsnews.com/news/trump-sentencing-delayed-hush-money-case-supreme-court-immunity/)
+2. [Judge in Trump's hush money trial delays sentencing following Supreme Court immunity ruling](https://www.nbcnews.com/politics/donald-trump/judge-trumps-hush-money-trial-delays-sentencing-supreme-court-immunity-rcna160028)
+3. [Judge delays Trump's sentencing until after the election](https://www.cnn.com/2024/09/06/politics/judge-delays-trumps-sentencing/index.html)
+4. [Judge Merchan delays sentencing in Trump's hush money case until after election](https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-sentence-date-delay-judge-merchan-ruling-rcna167215)
 
 ## Georgia State Election Board Passes Illegal Rules to Disrupt 2024 Election
 *Date: 2024-07-12*
@@ -8102,6 +12495,14 @@
 2. [Texas land commissioner offers 1,402 acres to Trump for 'deportation facilities'](https://abcnews.go.com/US/texas-land-commissioner-offers-acres-trump-deportation/story?id=116048937)
 3. [Texas offers Trump administration more land and support for mass deportations](https://www.texastribune.org/2024/11/26/texas-donald-trump-deportation-land-offer/)
 
+## Judge Merchan Grants Indefinite Postponement of Trump Sentencing After Election Victory
+*Date: 2024-11-22*
+
+1. [Judge indefinitely postpones Trump's hush money case sentencing](https://www.npr.org/2024/11/22/g-s1-35393/donald-trump-sentencing-hush-money-case)
+2. [Trump's hush money sentencing is postponed indefinitely, judge says](https://www.cnn.com/2024/11/22/politics/trumps-hush-money-sentencing-is-postponed-indefinitely-judge-says/index.html)
+3. [New York judge indefinitely delays president-elect Trump sentencing](https://www.jurist.org/news/2024/11/new-york-judge-indefinitely-delays-president-elect-trump-sentencing/)
+4. [Manhattan DA suggests pausing Trump's hush money sentencing until 2029](https://abc7ny.com/donald-trump-hush-money-stormy-daniels-court-case/15559057/)
+
 ## Vitali Klitschko Confronts Joe Rogan for Promoting Russian Propaganda on Ukraine, Rogan Defends Kremlin Narratives
 *Date: 2024-11-24*
 
@@ -8179,6 +12580,14 @@
 1. [NC Republicans strip governor power over elections board](https://www.brennancenter.org/our-work/analysis-opinion/north-carolina-power-grab)
 2. [Cooper, Stein sue over election board power transfer](https://www.democracync.org/news/sb382-lawsuit-filed)
 3. [Disaster relief bill hides unprecedented elections power grab](https://www.npr.org/2024/12/23/north-carolina-elections-board-power-grab)
+
+## Federal Appeals Court Upholds $5 Million Carroll Verdict Against Trump
+*Date: 2024-12-30*
+
+1. [$5 million verdict in sexual abuse case against President-elect Donald Trump upheld by appeals court](https://www.pbs.org/newshour/politics/5-million-verdict-in-sexual-abuse-case-against-president-elect-donald-trump-upheld-by-appeals-court)
+2. [Federal appeals court upholds sexual abuse verdict against Trump](https://www.cnn.com/2024/12/30/politics/federal-appeals-court-upholds-sexual-abuse-case-against-trump)
+3. [Appeals court upholds $5 million E. Jean Carroll verdict against Trump](https://www.nbcnews.com/politics/donald-trump/appeals-court-upholds-5-million-e-jean-carroll-verdict-trump-rcna185745)
+4. [US appeals court upholds $5M E. Jean Carroll sexual assault and defamation verdict against Trump](https://www.jurist.org/news/2024/12/us-appeals-court-upholds-5m-e-jean-carroll-sexual-assault-and-defamation-verdict-against-trump/)
 
 ## Systematic assault on judicial independence begins
 *Date: 2025-01-01*
@@ -13786,12 +18195,13 @@
 2. [Judge rules former Trump lawyer Alina Habba is unlawfully serving as U.S. attorney in New Jersey](https://www.pbs.org/newshour/politics/judge-rules-former-trump-lawyer-alina-habba-is-unlawfully-serving-as-u-s-attorney-in-new-jersey)
 3. [Judge rules Alina Habba unlawfully serving as US attorney for New Jersey](https://abcnews.go.com/US/judge-rules-alina-habba-unlawfully-serving-us-attorney/story?id=124859241)
 
-## New York Appeals Court Overturns $500M+ Civil Fraud Penalty Against Trump
+## NY Appeals Court Throws Out $527 Million Trump Fraud Judgment as "Excessive"
 *Date: 2025-08-21*
 
 1. [Massive civil fraud penalty against President Trump tossed by appeals court](https://www.npr.org/2025/08/21/g-s1-84246/civil-fraud-penalty-president-trump-appeal)
-2. [Donald Trump's civil fraud case: New York appeals court slashes massive penalty](https://www.axios.com/2025/08/21/donald-trump-civil-fraud-case-appeal-penalty)
-3. [New York appeals court throws out $500M fraud penalty against Trump](https://www.pbs.org/newshour/show/new-york-appeals-court-throws-out-500m-fraud-penalty-against-trump)
+2. [NY appeals court throws out Trump's more than $500 million fraud judgment](https://www.nbcnews.com/politics/donald-trump/ny-appeals-court-throws-trumps-500-million-fraud-judgment-rcna217340)
+3. [Trump's civil fraud penalty thrown out by appeals court](https://www.pbs.org/newshour/politics/trumps-massive-civil-fraud-penalty-for-exaggerating-financial-statements-is-thrown-out-by-appeals-court)
+4. [Appeals court throws out Trump's $454 million civil fraud judgment](https://abcnews.go.com/US/appeals-court-throws-trumps-454-million-civil-fraud/story?id=124848691)
 
 ## DOJ Releases 377-Page Transcript of Maxwell-Blanche Interview, Denies Client List
 *Date: 2025-08-22*

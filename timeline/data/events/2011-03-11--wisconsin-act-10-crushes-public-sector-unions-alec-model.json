@@ -1,0 +1,48 @@
+{
+  "id": "2011-03-11--wisconsin-act-10-crushes-public-sector-unions-alec-model",
+  "date": "2011-03-11",
+  "title": "Wisconsin Act 10 Crushes Public Sector Unions Using ALEC Model Legislation",
+  "summary": "Governor Scott Walker signs Wisconsin Act 10, eliminating collective bargaining rights for most public employees and marking one of the most significant defeats for organized labor in modern American history. The legislation, introduced February 14, 2011, ends collective bargaining for everything except wages (capped at inflation) for public employee unions, while exempting police, firefighters, and sheriffs' deputies who had supported Walker electorally. Act 10 requires annual union recertification elections with an absolute majority of all eligible members (not just voters)—provisions that closely resemble existing ALEC model legislation and that a federal court later strikes down for lacking \"rational basis.\" The law's passage follows massive protests of over 100,000 people occupying the Wisconsin State Capitol. Within months of passage, the Koch-funded Mackinac Center proposes Act 10's most contentious provisions to ALEC's Commerce, Insurance, and Economic Development Task Force in May 2012, seeking to export the model to other states. Wisconsin private sector union membership plummets from 16% in 2009 to 8.1% by 2016—the steepest decline of any state. Act 10 becomes the template for systematic public sector union destruction across multiple states and demonstrates ALEC's strategy of using legislative \"laboratories\" to test and refine anti-union policies before scaling them nationally.",
+  "importance": 10,
+  "actors": [
+    "Scott Walker",
+    "American Legislative Exchange Council (ALEC)",
+    "Wisconsin GOP",
+    "Koch brothers",
+    "Americans for Prosperity",
+    "Mackinac Center"
+  ],
+  "tags": [
+    "labor-suppression",
+    "ALEC",
+    "union-busting",
+    "Wisconsin",
+    "collective-bargaining",
+    "state-capture",
+    "Koch-network",
+    "public-sector-unions"
+  ],
+  "sources": [
+    {
+      "url": "https://www.prwatch.org/news/2012/05/11490/koch-funded-mackinac-center-brings-wisconsin-act-10-provisions-alec",
+      "title": "Koch-Funded Mackinac Center Brings Wisconsin Act 10 Provisions to ALEC",
+      "publisher": "Center for Media and Democracy (PR Watch)",
+      "date": "2012-05-31",
+      "tier": 1
+    },
+    {
+      "url": "https://docs.legis.wisconsin.gov/2011/related/acts/10",
+      "title": "2011 Wisconsin Act 10",
+      "publisher": "Wisconsin Legislature",
+      "date": "2011-03-11",
+      "tier": 1
+    },
+    {
+      "url": "https://www.wpr.org/news/wisconsins-act-10-is-back-in-court-heres-what-to-know-about-the-controversial-law",
+      "title": "Wisconsin's Act 10 is back in court. Here's what to know about the controversial law",
+      "publisher": "Wisconsin Public Radio",
+      "date": "2024-12-02",
+      "tier": 1
+    }
+  ]
+}

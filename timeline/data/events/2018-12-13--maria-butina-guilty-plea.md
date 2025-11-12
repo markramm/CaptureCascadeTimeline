@@ -19,9 +19,7 @@ actors:
 - Paul Erickson
 - National Rifle Association
 sources:
-- title: Maria But
-
-ina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme
+- title: Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme
   url: https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme
   publisher: NPR
   date: '2018-12-13'

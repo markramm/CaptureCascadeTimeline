@@ -1,0 +1,56 @@
+{
+  "id": "1973-02-16--heritage-foundation-organizational-profile-capture-infrastructure",
+  "date": "1973-02-16",
+  "title": "Heritage Foundation Organizational Profile: Conservative Policy Infrastructure and Corporate Capture Mechanism",
+  "summary": "Comprehensive organizational analysis reveals the Heritage Foundation's structure as a systematic corporate capture mechanism. Founded by Paul Weyrich, Edwin Feulner, and funded with Joseph Coors' $250,000 seed money, Heritage grew from startup to $100M+ annual revenue by 2010s, reaching $122.9M peak in 2019. The organization operates as a 501(c)(3) with $415M in assets (2023) while functioning as the intellectual backbone of corporate-conservative policy implementation.\n\nFUNDING SOURCES: Major funders include Richard Mellon Scaife ($21.5M+ from affiliated entities), Bradley Foundation ($50M+ to Project 2025 groups, $7.9M direct 1998-2018), Koch network ($9.6M+ including $4.8M from Lambe Foundation), Coors Foundation ($300K recent), DeVos family ($13.3M), and Donors Trust dark money network. 97% of revenue comes from contributions, making Heritage entirely dependent on wealthy conservative donors rather than research grants or academic funding.\n\nSTRUCTURE AND FUNCTION: Heritage pioneered rapid-response policy production, delivering analysis in 24-48 hours compared to Brookings' 6-month academic process. This speed advantage made Heritage the preferred supplier of ready-made policy for busy legislators. The 'Mandate for Leadership' series became the blueprint for Republican administrations: Reagan implemented 60% of Heritage's 2,000 recommendations during his first year, with two-thirds attempted over his full presidency. Project 2025 continues this model with 920 pages of policy prescriptions.\n\nREVOLVING DOOR MECHANISM: Heritage operates a systematic personnel exchange with Republican administrations. After Trump's first term, four Cabinet members joined as fellows: Mike Pence (VP), Chad Wolf (DHS), Robert Wilkie (VA), Andrew Wheeler (EPA). For Trump's second term, over 140 Trump officials contributed to Project 2025, with Heritage fellows Tom Homan (border czar) and Brendan Carr (FCC chair) appointed to government positions. This creates a self-reinforcing cycle: Heritage trains staff, places them in government, welcomes them back to write policy, then places them again.\n\nCAPTURE MECHANISM: Heritage transforms corporate interests into 'conservative principles' through academic-style publications, providing intellectual cover for deregulation, tax cuts, and privatization. The rapid-response model ensures legislators receive pre-packaged solutions aligned with donor interests, bypassing genuine policy debate. The revolving door ensures Heritage alumni implement Heritage policies from inside government, while government officials return to Heritage to write the next administration's playbook.",
+  "importance": 9,
+  "actors": [
+    "Heritage Foundation",
+    "Paul Weyrich",
+    "Edwin Feulner",
+    "Joseph Coors",
+    "Richard Mellon Scaife",
+    "Bradley Foundation",
+    "Koch network",
+    "Kevin Roberts"
+  ],
+  "tags": [
+    "organizational-profile",
+    "think-tank-infrastructure",
+    "corporate-capture",
+    "revolving-door",
+    "dark-money",
+    "policy-infrastructure",
+    "conservative-movement"
+  ],
+  "sources": [
+    {
+      "url": "https://projects.propublica.org/nonprofits/organizations/237327730",
+      "title": "Heritage Foundation - Nonprofit Explorer",
+      "publisher": "ProPublica",
+      "date": "2024",
+      "tier": 1
+    },
+    {
+      "url": "https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/",
+      "title": "6 Billionaire Fortunes Bankrolling Project 2025",
+      "publisher": "DeSmog",
+      "date": "2024-08-14",
+      "tier": 2
+    },
+    {
+      "url": "https://www.heritage.org/impact/four-trump-cabinet-members-now-call-heritage-home",
+      "title": "Four Trump Cabinet Members Now Call Heritage Home",
+      "publisher": "Heritage Foundation",
+      "date": "2021",
+      "tier": 1
+    },
+    {
+      "url": "https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/",
+      "title": "Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook",
+      "publisher": "Revolving Door Project",
+      "date": "2024",
+      "tier": 2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "1995-01-01--alec-tax-expenditure-limitation-act-model-revenue-restriction",
+  "date": "1995-01-01",
+  "title": "ALEC Develops Tax and Expenditure Limitation Act - Model Bill to Restrict State Revenue and Manufacture Fiscal Crisis",
+  "summary": "By the mid-1990s, the American Legislative Exchange Council (ALEC) had developed and was actively promoting the 'Tax and Expenditure Limitation Act' (TELA) model legislation, based on Colorado's controversial 1992 TABOR (Taxpayer Bill of Rights) amendment. The ALEC model bill imposed rigid constitutional limits on state revenue and spending growth, typically tying increases to inflation plus population growth, creating artificial fiscal constraints that prevented states from responding to changing economic conditions or public needs. The legislation was designed as a constitutional provision linking tax and spending limits to emergency reserve funds and budget stabilization funds, making it extremely difficult for states to invest adequately in education, infrastructure, health care, and other public services even during periods of economic growth. The TELA model represented a strategic approach to 'starving the beast' at the state level—deliberately constraining government revenue to force cuts in public services while protecting corporate tax breaks and incentives. Colorado's TABOR, which served as ALEC's template, produced devastating results: between 1992 and 2005, Colorado declined from 35th to 49th in the nation in K-12 spending as a percentage of personal income, higher education funding per resident dropped 31 percent, average teacher salaries fell from 30th to 50th in the nation, and child vaccination rates plummeted from 24th to 50th nationally. Business leaders and lawmakers became so alarmed at Colorado's inability to invest in key public services necessary for a healthy economy that they temporarily suspended TABOR in 2005. Despite this clear evidence of failure, ALEC continued promoting TELA as a model for other states, with the organization later developing a 'Next-Generation Tax and Expenditure Limitation Act' to further refine revenue restriction mechanisms. The model legislation created manufactured fiscal crises by design: by artificially limiting revenue growth during economic expansions, states were forced into budget shortfalls that justified austerity measures, service cuts, and privatization—while corporate tax breaks and subsidies remained protected. Tax and expenditure limitations became a cornerstone of ALEC's broader strategy to transfer wealth from public services to corporate interests through systematic defunding of government capacity.",
+  "importance": 8,
+  "tags": [
+    "alec",
+    "legislative-capture",
+    "corporate-corruption",
+    "tax-policy",
+    "fiscal-policy",
+    "austerity",
+    "privatization",
+    "education",
+    "manufactured-crisis"
+  ],
+  "actors": [
+    "American Legislative Exchange Council",
+    "Colorado General Assembly",
+    "Corporate Funders"
+  ],
+  "sources": [
+    {
+      "url": "https://www.cbpp.org/research/state-budget-and-tax/taxpayer-bill-of-rights-tabor",
+      "title": "Taxpayer Bill of Rights (TABOR)",
+      "publisher": "Center on Budget and Policy Priorities",
+      "date": "2024-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.nea.org/nea-today/all-news-articles/tabor-lives-how-war-public-education-becomes-irreversible",
+      "title": "TABOR Lives On: How the War on Public Education Becomes Irreversible",
+      "publisher": "National Education Association",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://alec.org/model-policy/tax-and-expenditure-limit-reform/",
+      "title": "Tax and Expenditure Limitation Act",
+      "publisher": "American Legislative Exchange Council",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth",
+      "title": "ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth",
+      "publisher": "Center on Budget and Policy Priorities",
+      "date": "2024-01-01",
+      "tier": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2016-10-01--monopoly-power-suppresses-wages-study",
+  "date": "2016-10-01",
+  "title": "Council of Economic Advisers: Market Power Suppresses Wages, Contributes to $1+ Trillion in Lost Worker Income",
+  "summary": "The Obama administration's Council of Economic Advisers publishes landmark research 'Labor Market Monopsony: Trends, Consequences, and Policy Responses' documenting how employer market power (monopsony) and product market concentration (monopoly) systematically suppress American wages below competitive levels. The research finds that labor market concentration reduced wage growth by approximately 0.03% annually between 1979-2014 (explaining 3.5% of wage-productivity divergence), while product market concentration reduced wages by 0.08% annually (explaining 10% of divergence). Subsequent academic research determines that monopoly power accounts for 75% of wage stagnation while monopsony accounts for 25%, using Census Bureau establishment data from 1997-2016. The mechanism operates as follows: dominant firms use monopoly power in product markets to extract higher prices while using monopsony power in labor markets to pay workers less than their marginal productivity would command in competitive markets. The 8 percentage point reduction in labor's share of national income translates to approximately $1.12 trillion annually in income that would flow to workers under the pre-monopolization distribution (calculated against $20 trillion GDP). This represents systematic wealth transfer from workers to capital owners through market power rather than competitive returns. Employer concentration allows coordinated wage suppression, no-poach agreements, non-compete clauses, and other mechanisms that hold pay below competitive levels. Combined with product market power, this enables firms to simultaneously charge consumers more while paying workers less, extracting wealth at both ends and explaining why corporate profits soar while wages stagnate despite rising productivity.",
+  "importance": 9,
+  "tags": ["monopsony", "monopoly", "wage-suppression", "market-power", "wealth-extraction", "labor"],
+  "actors": ["Council of Economic Advisers", "Workers", "Dominant firms"],
+  "sources": [
+    {
+      "url": "https://obamawhitehouse.archives.gov/sites/default/files/page/files/20161025_monopsony_labor_mrkt_cea.pdf",
+      "title": "Labor Market Monopsony: Trends, Consequences, and Policy Responses",
+      "publisher": "Council of Economic Advisers",
+      "date": "2016-10-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.epi.org/publication/its-not-just-monopoly-and-monopsony-how-market-power-has-affected-american-wages/",
+      "title": "It's not just monopoly and monopsony: How market power has affected American wages",
+      "publisher": "Economic Policy Institute",
+      "date": "2019-04-12",
+      "tier": 2
+    },
+    {
+      "url": "https://www.census.gov/library/working-papers/2022/adrm/CES-WP-22-45.html",
+      "title": "What Drives Wage Stagnation: Monopsony or Monopoly?",
+      "publisher": "U.S. Census Bureau",
+      "date": "2022-01-01",
+      "tier": 1
+    }
+  ]
+}

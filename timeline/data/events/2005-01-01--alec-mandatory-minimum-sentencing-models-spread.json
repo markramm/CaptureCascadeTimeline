@@ -1,0 +1,54 @@
+{
+  "id": "2005-01-01--alec-mandatory-minimum-sentencing-models-spread",
+  "date": "2005-01-01",
+  "title": "ALEC Mandatory Minimum Sentencing Models Achieve Nationwide Adoption, Guaranteeing Private Prison Profits",
+  "summary": "By 2005, ALEC's comprehensive suite of mandatory minimum sentencing model legislation has been adopted across the United States, with all 50 states and the federal government implementing laws that constrain judicial discretion in sentencing. These policies, developed by ALEC's Criminal Justice Task Force with direct participation from private prison company executives, guarantee minimum prison terms and create predictable occupancy rates that benefit private prison operators.\n\nThe ALEC model bills - including Three Strikes, Truth-in-Sentencing, and various mandatory minimum statutes - work in concert to ensure long prison sentences and high incarceration rates. Since the 1980s and 1990s, ALEC has facilitated the production of model legislation focusing on mandatory minimums, which have been significant contributors to the dramatic increase in incarceration nationwide. The number of incarcerated Americans tripled from around 500,000 in 1980 to more than 1.5 million by 1995.\n\nPrivate prison companies directly benefit from the guaranteed prison population growth. By 2005, the combined private prison industry generates over $3 billion in annual revenue. GEO Group and CCA, both longstanding ALEC members, see their profits soar throughout this period as harsh sentencing laws fuel demand for prison beds. The policies create \"lockup quotas\" and occupancy guarantees that ensure steady revenue streams for private operators regardless of actual crime rates.\n\nThis represents systemic corruption: corporations that profit from incarceration design the sentencing policies that guarantee their profits, removing judicial discretion and creating a pipeline from arrest to long-term imprisonment. The legislation prioritizes corporate profit over rehabilitation, public safety, or proportionate justice.",
+  "importance": 8,
+  "actors": [
+    "ALEC",
+    "Corrections Corporation of America (CCA)",
+    "GEO Group",
+    "State Legislators",
+    "State Prosecutors"
+  ],
+  "tags": [
+    "alec",
+    "mass-incarceration",
+    "private-prison",
+    "prison-industrial-complex",
+    "mandatory-minimum",
+    "model-legislation",
+    "criminal-justice",
+    "quid-pro-quo"
+  ],
+  "sources": [
+    {
+      "url": "https://www.sentencingproject.org/fact-sheet/how-mandatory-minimums-perpetuate-mass-incarceration-and-what-to-do-about-it/",
+      "title": "How Mandatory Minimums Perpetuate Mass Incarceration",
+      "publisher": "The Sentencing Project",
+      "date": "2024-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.prwatch.org/news/2013/09/12249/lockup-quotas-help-profit-prison-companies-keep-profits-high-and-prisons-full",
+      "title": "Lockup Quotas Help For-Profit Prison Companies Keep Profits High and Prisons Full",
+      "publisher": "PR Watch (Center for Media and Democracy)",
+      "date": "2013-09-19",
+      "tier": 1
+    },
+    {
+      "url": "https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/",
+      "title": "ALEC in the House: Corporate Bias in Criminal Justice Legislation",
+      "publisher": "Prison Legal News",
+      "date": "2002-01-15",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thenation.com/article/archive/hidden-history-alec-and-prison-labor/",
+      "title": "The Hidden History of ALEC and Prison Labor",
+      "publisher": "The Nation",
+      "date": "2011-08-01",
+      "tier": 1
+    }
+  ]
+}

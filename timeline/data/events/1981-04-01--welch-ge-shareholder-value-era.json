@@ -1,0 +1,32 @@
+{
+  "id": "1981-04-01--welch-ge-shareholder-value-era",
+  "date": "1981-04-01",
+  "title": "Jack Welch Becomes GE CEO, Launches 'Shareholder Value' Era and Mass Layoffs",
+  "summary": "Jack Welch becomes CEO of General Electric at age 45 and delivers his landmark speech 'Growing fast in a slow-growth economy' in New York City, marking what is widely acknowledged as the 'dawn of the shareholder value movement.' Welch operationalizes Milton Friedman's shareholder primacy doctrine by making maximizing shareholder value GE's explicit corporate strategy, fundamentally transforming American business practices. Between 1980 and 1985, Welch eliminates 112,000 jobs—reducing GE's workforce from 411,000 to 299,000 employees—earning the nickname 'Neutron Jack' for eliminating workers while leaving buildings intact. This brutal approach to workforce reduction, combined with aggressive quarterly earnings management and relentless cost-cutting, becomes the template for American corporate leadership. Under Welch's 20-year tenure, GE's market value soars from $12 billion to $410 billion, demonstrating to Wall Street and corporate boards that maximizing shareholder returns through mass layoffs, wage suppression, and short-term profit focus delivers enormous stock price gains. Ironically, Welch later repudiated his own doctrine, telling the Financial Times in 2009 that 'shareholder value is the dumbest idea in the world,' but by then the damage was done—his model had been replicated across American industry, establishing a new normal where workers are treated as disposable costs and long-term productive investment is sacrificed for quarterly earnings and stock price appreciation.",
+  "importance": 9,
+  "tags": ["corporate-power", "wealth-extraction", "labor", "shareholder-primacy", "mass-layoffs"],
+  "actors": ["Jack Welch", "General Electric"],
+  "sources": [
+    {
+      "url": "https://www.npr.org/2022/06/01/1101505691/short-term-profits-and-long-term-consequences-did-jack-welch-break-capitalism",
+      "title": "Was GE CEO Jack Welch bad for business?",
+      "publisher": "NPR",
+      "date": "2022-06-01",
+      "tier": 1
+    },
+    {
+      "url": "https://robertreich.substack.com/p/jack-welch-and-the-end-of-stakeholder",
+      "title": "Jack Welch and the End of Stakeholder Capitalism",
+      "publisher": "Robert Reich",
+      "date": "2020-03-02",
+      "tier": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jack_Welch",
+      "title": "Jack Welch",
+      "publisher": "Wikipedia",
+      "date": "2024-11-01",
+      "tier": 2
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2012-05-22--kansas-brownback-alec-laffer-tax-experiment-corporate-elimination",
+  "date": "2012-05-22",
+  "title": "Kansas Governor Brownback Signs ALEC-Laffer Tax Plan Eliminating Pass-Through Business Income Taxes - 'Kansas Experiment' Becomes Test Case for Supply-Side Economics",
+  "summary": "On May 22, 2012, Kansas Governor Sam Brownback signed Senate Bill Substitute HB 2117, implementing what became known as the 'Kansas experiment'—the most aggressive implementation of ALEC's corporate tax-cutting agenda ever attempted by a U.S. state. The legislation eliminated state income taxes on 'pass-through' income for sole proprietorships, partnerships, limited liability companies, and S-corporations (totaling 330,000 businesses), while slashing top personal income tax rates from 6.45% and 6.25% to 4.9%. Brownback hired ALEC economist Arthur Laffer—co-author of ALEC's annual 'Rich States, Poor States' report since 2008—for $75,000 to design and promote the tax plan, which Laffer claimed would create a 'shot of adrenaline' for the Kansas economy. The tax cuts cost Kansas $700 million in the first year alone, representing more than 11% of state general revenues. ALEC and its corporate funders heavily promoted Kansas as a model for other states to follow, with ALEC calling it a 'perfect moment' for introducing similar corporate tax reduction measures nationwide. The results were catastrophic: by spring 2014, monthly state revenue 'crashed' and fell 'massively short of projections.' Economic growth in Kansas fell well below its pre-Brownback trend, and by spring 2017, job growth in Kansas was not only lower than neighboring states but less than half the national average. The pass-through income tax elimination created a massive loophole: an estimated 330,000 business owners paid zero state income tax while teachers, nurses, and other wage earners continued paying full rates, exacerbating inequality. Kansas was forced to cut education funding, infrastructure investment, and social services to cover the revenue shortfall, while credit rating agencies downgraded the state's bonds. The fiscal crisis became so severe that in June 2017, a bipartisan coalition of Kansas legislators—including Republicans horrified at the damage to their state—overrode Brownback's veto to repeal the tax cuts, marking one of the most decisive rejections of supply-side economics in modern American history. The Kansas experiment provided compelling empirical evidence that ALEC's tax-cutting ideology doesn't create prosperity—it transfers wealth from public services to business owners while devastating state finances. Despite this unambiguous failure, ALEC continued promoting virtually identical policies to other state legislatures, demonstrating that the organization's agenda serves corporate interests rather than evidence-based economic policy. The Kansas disaster became a cautionary tale cited by fiscal analysts nationwide warning other states against implementing ALEC's tax agenda.",
+  "importance": 9,
+  "tags": [
+    "alec",
+    "corporate-corruption",
+    "tax-policy",
+    "kansas",
+    "supply-side-economics",
+    "fiscal-crisis",
+    "education-cuts",
+    "austerity",
+    "wealth-transfer",
+    "economic-inequality"
+  ],
+  "actors": [
+    "Sam Brownback",
+    "Arthur Laffer",
+    "American Legislative Exchange Council",
+    "Kansas Legislature",
+    "Koch Industries"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kansas_experiment",
+      "title": "Kansas experiment",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.cbpp.org/research/state-budget-and-tax/kansas-provides-compelling-evidence-of-failure-of-supply-side-tax",
+      "title": "Kansas Provides Compelling Evidence of Failure of 'Supply-Side' Tax Cuts",
+      "publisher": "Center on Budget and Policy Priorities",
+      "date": "2017-06-01",
+      "tier": 1
+    },
+    {
+      "url": "https://itep.org/kansas-may-have-saved-us-all/",
+      "title": "Kansas May Have Saved Us All",
+      "publisher": "Institute on Taxation and Economic Policy",
+      "date": "2017-06-01",
+      "tier": 1
+    },
+    {
+      "url": "https://taxjustice.net/2015/01/08/arthur-laffer-killed-kansas/",
+      "title": "Did Arthur Laffer kill Kansas?",
+      "publisher": "Tax Justice Network",
+      "date": "2015-01-08",
+      "tier": 2
+    }
+  ]
+}

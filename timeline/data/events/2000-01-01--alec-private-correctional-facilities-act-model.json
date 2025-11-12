@@ -1,0 +1,56 @@
+{
+  "id": "2000-01-01--alec-private-correctional-facilities-act-model",
+  "date": "2000-01-01",
+  "title": "ALEC Promotes Private Correctional Facilities Act Written by CCA Executives on Criminal Justice Task Force",
+  "summary": "The American Legislative Exchange Council (ALEC) actively promotes its \"Private Correctional Facilities Act\" model legislation, which allows any unit of government to contract with for-profit corporations to operate prisons. The model bill is developed and voted on by ALEC's Criminal Justice Task Force, which is co-chaired by CCA executives Brad Wiggins (Director of Business Development) and John Rees (Vice President), representing the ultimate conflict of interest: prison company executives writing laws to privatize the very prisons they will operate.\n\nALEC also promotes the \"Housing Out-of-State Prisoners in a Private Prison Act,\" allowing private prisons operating in one state to contract with other states to hold prisoners without local government consent. By 2000, CCA, along with Wackenhut Corrections and Sodexho Marriott Services, are prominent among ALEC's corporate funders, with CCA making the President's List for contributions to ALEC's 1999 States & Nation Policy Summit.\n\nThe push for privatization delivers massive profits: by the end of 1999, 71,206 prisoners are held in privately operated facilities, accounting for 5.5% of state prisoners. CCA's revenues continue growing exponentially, and the company identifies expansion into new markets (including immigrant detention) as critical for future growth. The legislation creates a direct quid pro quo: executives write laws mandating privatization, then their companies win the contracts to operate the privatized facilities.\n\nThis represents a systematic corruption of the legislative process, where ALEC provides a forum for corporations to literally write the laws governing their own industry, remove government oversight, and guarantee their own profits through mandatory privatization provisions.",
+  "importance": 9,
+  "actors": [
+    "ALEC",
+    "Corrections Corporation of America (CCA)",
+    "Brad Wiggins",
+    "John Rees",
+    "GEO Group",
+    "Wackenhut Corrections",
+    "State Legislators"
+  ],
+  "tags": [
+    "alec",
+    "private-prison",
+    "prison-industrial-complex",
+    "privatization",
+    "model-legislation",
+    "corporate-lobbying",
+    "quid-pro-quo",
+    "mass-incarceration"
+  ],
+  "sources": [
+    {
+      "url": "https://www.alecexposed.org/wiki/ALEC_&_Privatization",
+      "title": "ALEC & Privatization",
+      "publisher": "ALEC Exposed (Center for Media and Democracy)",
+      "date": "2011-07-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.prisonpolicy.org/scans/Prison_Payoff_Report_WPP_2000.pdf",
+      "title": "The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom",
+      "publisher": "Western Prison Project / Prison Policy Initiative",
+      "date": "2000-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://investigate.afsc.org/updates/us-private-prison-industry",
+      "title": "The U.S. Private Prison Industry",
+      "publisher": "American Friends Service Committee",
+      "date": "2018-11-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.sourcewatch.org/index.php?title=CoreCivic",
+      "title": "CoreCivic (formerly CCA)",
+      "publisher": "SourceWatch (Center for Media and Democracy)",
+      "date": "2022-01-01",
+      "tier": 2
+    }
+  ]
+}

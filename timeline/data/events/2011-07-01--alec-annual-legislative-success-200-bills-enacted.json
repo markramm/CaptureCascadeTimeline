@@ -1,0 +1,44 @@
+{
+  "id": "2011-07-01--alec-annual-legislative-success-200-bills-enacted",
+  "date": "2011-07-01",
+  "title": "ALEC Achieves Systematic Legislative Capture: 200+ Corporate-Drafted Bills Enacted Annually Across States",
+  "summary": "Documentation from the American Legislative Exchange Council (ALEC) and academic research reveals the extraordinary scale of corporate legislative capture through ALEC's model bill system: approximately 1,000 bills based on ALEC model legislation are introduced in state legislatures annually, with about 200 becoming law each year—a 20% passage rate that ALEC's own executive director Samuel Brunelli described as 'a good investment' for corporate members. Between 2010 and 2018 alone, ALEC model legislation was introduced approximately 2,900 times across all 50 states, with more than 600 bills enacted into law, often word-for-word from corporate-drafted templates. During the 2011-2012 legislative session, 132 ALEC-based bills were introduced across 34 states, with 12 enacted—a 9% success rate that was still nearly five times higher than the Congressional passage rate of less than 2% during the same period. The most frequently introduced model bills included the 'No Sanctuary Cities for Illegal Immigrants Act' (introduced in 23 states), 'Disclosure of Hydraulic Fracturing Fluid Composition Act' (10 states), and 'Castle Doctrine Act' (9 states). Republicans sponsored over 90% of introduced bills, with approximately 57% of sponsoring legislators having explicit ties to ALEC. The bills cover diverse policy areas including restricting voting rights, undermining environmental regulations, limiting workers' rights, privatizing public services, and reducing corporate taxes. When introduced in state legislatures, these bills appear under the sponsoring legislator's name with no mention of ALEC or corporate authorship, disguising their origins from voters and media. This systematic legislative capture operates through ALEC's ten policy task forces where corporate representatives receive 'equal voice and vote' with elected officials in drafting legislation, with corporations paying 100 times more in dues than state legislators and providing almost 99% of ALEC's $7 million annual budget. The scale of success—200+ bills annually becoming law nationwide—demonstrates how corporate money can systematically shape policy across all 50 states simultaneously through a franchised network of compliant state legislators.",
+  "importance": 9,
+  "tags": [
+    "alec",
+    "legislative-capture",
+    "regulatory-capture",
+    "corporate-corruption",
+    "lobbying"
+  ],
+  "actors": [
+    "American Legislative Exchange Council",
+    "State Legislatures",
+    "Koch Industries",
+    "ExxonMobil",
+    "PhRMA"
+  ],
+  "sources": [
+    {
+      "url": "https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/",
+      "title": "ALEC's Influence over Lawmaking in State Legislatures",
+      "publisher": "Brookings Institution",
+      "date": "2019-12-06",
+      "tier": 1
+    },
+    {
+      "url": "https://www.npr.org/2010/10/29/130891396/shaping-state-laws-with-little-scrutiny",
+      "title": "Shaping State Laws With Little Scrutiny",
+      "publisher": "NPR",
+      "date": "2010-10-29",
+      "tier": 1
+    },
+    {
+      "url": "https://www.britannica.com/topic/American-Legislative-Exchange-Council",
+      "title": "American Legislative Exchange Council",
+      "publisher": "Encyclopaedia Britannica",
+      "date": "2024-01-01",
+      "tier": 1
+    }
+  ]
+}

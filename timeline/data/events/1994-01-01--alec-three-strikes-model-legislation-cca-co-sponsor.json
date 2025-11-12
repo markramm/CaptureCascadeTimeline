@@ -1,0 +1,55 @@
+{
+  "id": "1994-01-01--alec-three-strikes-model-legislation-cca-co-sponsor",
+  "date": "1994-01-01",
+  "title": "ALEC Passes Three Strikes Model Legislation Co-Sponsored by Private Prison Industry and NRA",
+  "summary": "The American Legislative Exchange Council (ALEC), with Corrections Corporation of America (CCA) serving as co-chair of its Criminal Justice Task Force, passes the \"Three Strikes You're Out Act\" model legislation requiring mandatory life imprisonment after a third felony conviction. CCA co-sponsors the model bill alongside the National Rifle Association, representing a direct corporate conflict of interest where prison companies write laws guaranteed to increase their profits.\n\nBetween 1993 and 1995, 24 states and the federal government enact three strikes laws based on ALEC's model legislation. Washington state passes the first such law in 1993, California amends its version in 1994, and the federal government includes three strikes provisions in the 1994 Crime Bill. The legislation removes judicial discretion in sentencing and guarantees lifetime incarceration for repeat offenders, dramatically expanding prison populations.\n\nAt a 1994 ALEC conference, CCA's Robert Britton participated in a presentation titled \"Campaign School on Crime\" designed to provide legislators with an agenda to advance crime control legislation. This campaign directly benefited private prison companies: CCA's revenues grew from $14 million in 1986 to $120 million by 1994, with the number of privately managed prison beds increasing from 3,000 in 1987 to 20,000 in 1992.\n\nThe three strikes laws, combined with ALEC's truth-in-sentencing and mandatory minimum models, created what critics call the \"prison-industrial complex\" - a system where corporations profit from legislation they design, creating financial incentives for mass incarceration rather than rehabilitation or crime reduction.",
+  "importance": 9,
+  "actors": [
+    "ALEC",
+    "Corrections Corporation of America (CCA)",
+    "GEO Group",
+    "National Rifle Association",
+    "Robert Britton",
+    "State Legislators"
+  ],
+  "tags": [
+    "alec",
+    "mass-incarceration",
+    "private-prison",
+    "prison-industrial-complex",
+    "three-strikes",
+    "model-legislation",
+    "corporate-lobbying",
+    "quid-pro-quo"
+  ],
+  "sources": [
+    {
+      "url": "https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/",
+      "title": "ALEC in the House: Corporate Bias in Criminal Justice Legislation",
+      "publisher": "Prison Legal News",
+      "date": "2002-01-15",
+      "tier": 1
+    },
+    {
+      "url": "https://justicepolicy.org/wp-content/uploads/2021/11/04-09_rep_threestrikesnatl_ac.pdf.pdf",
+      "title": "Three Strikes and You're Out: An Examination of the Impact of 3-Strikes Laws",
+      "publisher": "Justice Policy Institute",
+      "date": "2004-09-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.sentencingproject.org/reports/the-eugenic-origins-of-three-strikes-laws-how-habitual-offender-sentencing-laws-were-used-as-a-means-of-sterilization/",
+      "title": "The Eugenic Origins of Three Strikes Laws",
+      "publisher": "The Sentencing Project",
+      "date": "2024-03-01",
+      "tier": 1
+    },
+    {
+      "url": "http://americanradioworks.publicradio.org/features/corrections/laws4.html",
+      "title": "Corporate-Sponsored Crime Laws",
+      "publisher": "American RadioWorks",
+      "date": "2002-01-01",
+      "tier": 2
+    }
+  ]
+}

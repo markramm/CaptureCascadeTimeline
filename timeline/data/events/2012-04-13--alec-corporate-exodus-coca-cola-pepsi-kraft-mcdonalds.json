@@ -1,0 +1,48 @@
+{
+  "id": "2012-04-13--alec-corporate-exodus-coca-cola-pepsi-kraft-mcdonalds",
+  "date": "2012-04-13",
+  "title": "Major Corporate Exodus from ALEC: Coca-Cola, Pepsi, Kraft, McDonald's, Wendy's, Mars, and Intuit Drop Membership After Public Pressure Campaign",
+  "summary": "Seven major corporations—Coca-Cola, Pepsi, Mars, Kraft Foods, McDonald's, Wendy's, and software maker Intuit—announced they were dropping their memberships in the American Legislative Exchange Council (ALEC) in April 2012, along with the Bill and Melinda Gates Foundation ceasing new grants, marking a dramatic corporate exodus triggered by public exposure of ALEC's role in promoting voter suppression and Stand Your Ground laws. The departures came after a coalition of liberal and civil rights groups, led by Color of Change, launched a public pressure campaign through petition drives and phone calls forcing corporations to publicly distance themselves from ALEC. Color of Change had begun targeting ALEC's corporate partners in December 2011 over voter ID laws that suppressed Black votes, but the campaign intensified dramatically after the February 26, 2012 killing of Trayvon Martin brought national attention to ALEC's role in spreading Florida's Stand Your Ground law across the country. The corporate exodus accelerated in one dramatic week in April 2012 when Coca-Cola, Pepsi, Intuit, and Kraft Foods all announced departures, with McDonald's following on April 10 after claiming it had made the decision to withdraw at the end of March. Both Coca-Cola and Kraft Foods had been in conversations with Color of Change since late 2011 about ALEC's role in voter suppression. The Target precedent heightened corporate sensitivity: after Target donated $100,000 supporting a candidate opposing gay marriage following the 2010 Citizens United decision, customer backlash was severe, demonstrating that corporate political associations could damage brand reputation. The departures revealed ALEC's fundamental vulnerability: the organization's influence depends on operating in shadows, as public scrutiny triggers accountability pressure that corporations cannot withstand. Following the exodus and mounting pressure, ALEC chairman David Frizzell announced on April 17, 2012 that ALEC would stop pushing Stand Your Ground and voter ID laws and was 'eliminating the ALEC Public Safety and Elections task force that dealt with non-economic issues.' By 2013, more than 60 corporations and foundations total had dropped ALEC support or let memberships lapse, including Amazon.com, General Electric, Apple, Procter & Gamble, Walmart, and Blue Cross Blue Shield. The corporate exodus demonstrated that when corporate legislative capture is exposed to public view, corporations choose brand protection over continued participation in writing state laws.",
+  "importance": 8,
+  "tags": [
+    "alec",
+    "corporate-corruption",
+    "accountability",
+    "civil-rights",
+    "legislative-capture",
+    "public-pressure"
+  ],
+  "actors": [
+    "Color of Change",
+    "Coca-Cola",
+    "PepsiCo",
+    "Kraft Foods",
+    "McDonald's",
+    "American Legislative Exchange Council",
+    "Center for Media and Democracy",
+    "Common Cause"
+  ],
+  "sources": [
+    {
+      "url": "https://www.npr.org/2012/04/13/150528572/as-pressure-mounts-companies-flee-coalition",
+      "title": "As Pressure Mounts, Companies Flee Coalition",
+      "publisher": "NPR",
+      "date": "2012-04-13",
+      "tier": 1
+    },
+    {
+      "url": "https://colorofchange.org/press_release/major-companies-leave-alec-colorofchange-organizin/",
+      "title": "Major Companies Leave ALEC as ColorOfChange Organizing Effort Continues",
+      "publisher": "Color of Change",
+      "date": "2012-04-13",
+      "tier": 2
+    },
+    {
+      "url": "https://www.cbsnews.com/news/alec-backs-down-in-wake-of-backlash-over-voter-id-stand-your-ground-laws/",
+      "title": "ALEC backs down in wake of backlash over voter ID, 'stand your ground' laws",
+      "publisher": "CBS News",
+      "date": "2012-04-17",
+      "tier": 1
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
 id: 2015-02-23--corinthian-debt-strike-begins
-date: 2015-02-23
-title: "Corinthian 15" Launch First Student Debt Strike in U.S. History
+date: '2015-02-23'
+title: '"Corinthian 15" Launch First Student Debt Strike in U.S. History'
 importance: 8
 tags:
   - student-debt

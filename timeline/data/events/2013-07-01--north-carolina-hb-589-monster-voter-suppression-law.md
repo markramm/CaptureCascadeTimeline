@@ -1,6 +1,6 @@
 ---
 id: 2013-07-01--north-carolina-hb-589-monster-voter-suppression-law
-date: 2013-07-01
+date: '2013-07-01'
 title: North Carolina Passes "Monster" Voter Suppression Law Hours After Shelby County Decision
 importance: 9
 tags:
@@ -14,7 +14,7 @@ actors:
   - Republican Party
 sources:
   - url: https://www.pbs.org/wgbh/frontline/article/court-north-carolina-voter-id-law-targeted-black-voters/
-    title: Court: North Carolina Voter ID Law Targeted Black Voters
+    title: 'Court: North Carolina Voter ID Law Targeted Black Voters'
     publisher: PBS Frontline
     date: 2016-09-07
     tier: 1

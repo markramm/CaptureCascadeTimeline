@@ -1,0 +1,46 @@
+{
+  "id": "1998-05-01--alec-paycheck-protection-act-restricts-union-political-activity",
+  "date": "1998-05-01",
+  "title": "ALEC Adopts Paycheck Protection Act to Defund Democratic Party by Restricting Union Political Activity",
+  "summary": "The American Legislative Exchange Council (ALEC) Board of Directors approves the \"Paycheck Protection Act\" in May 1998, following unanimous endorsement by ALEC's Commerce, Insurance and Economic Development Task Force. The model legislation prohibits employees in both public and private sectors from contributing to union political activities through payroll deductions—even if employees voluntarily request to do so. The act requires unions to establish separate segregated funds for political activities and prohibits collection of union dues for political purposes without expressed employee authorization, with \"political activities\" broadly defined to include lobbying, electoral activities, independent expenditures, contributions to candidates or political parties, and \"any other political or legislative cause.\" The real purpose is not worker protection but defunding the Democratic Party: the legislation would \"significantly impact public employee unions like teacher's unions and the American Federation of State, County, and Municipal Employees (AFSCME), whose expenditures primarily benefit Democrats.\" ALEC follows up with additional anti-union political activity models: the \"Public Employee Freedom Act\" and \"Public Employer Payroll Deduction Policy Act\" (1999), and the \"Voluntary Contributions Act\" and \"Political Funding Reform Act.\" Multiple states adopt versions including Alabama (2010), Wisconsin via Act 10 (2011), and Michigan (2012), systematically cutting off union funding for Democratic campaigns and progressive causes while leaving corporate political spending unrestricted.",
+  "importance": 8,
+  "actors": [
+    "American Legislative Exchange Council (ALEC)",
+    "corporate donors",
+    "state Republican legislators",
+    "Scott Walker"
+  ],
+  "tags": [
+    "labor-suppression",
+    "ALEC",
+    "union-busting",
+    "campaign-finance",
+    "political-activity",
+    "model-legislation",
+    "Democratic-Party",
+    "public-sector-unions"
+  ],
+  "sources": [
+    {
+      "url": "https://alec.org/model-policy/public-employee-paycheck-protection-act/",
+      "title": "Public Employee Paycheck Protection Act",
+      "publisher": "American Legislative Exchange Council",
+      "date": "1998-05",
+      "tier": 2
+    },
+    {
+      "url": "https://www.nationalaffairs.com/publications/detail/the-future-of-public-employee-unions",
+      "title": "The Future of Public-Employee Unions",
+      "publisher": "National Affairs",
+      "date": "2012-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.heritage.org/jobs-and-labor/report/what-do-union-members-want-what-paycheck-protection-laws-show-about-how-well",
+      "title": "What Do Union Members Want? What Paycheck Protection Laws Show About How Well Unions Reflect Their Members' Priorities",
+      "publisher": "The Heritage Foundation",
+      "date": "2013-08-27",
+      "tier": 2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2019-01-01--pe-nursing-homes-10-percent-higher-death-rates",
+  "date": "2019-01-01",
+  "title": "NBER Study: Private Equity-Owned Nursing Homes Have 10% Higher Death Rates Due to Cost-Cutting",
+  "summary": "Landmark academic research by economists from New York University, University of Chicago, and University of Pennsylvania published by the National Bureau of Economic Research documents that nursing homes acquired by private equity firms experience a 10-11% increase in short-term mortality rates among Medicare patients, with over 20,000 excess deaths estimated during the 12-year study period. The mechanism is straightforward profit extraction through cost-cutting that kills vulnerable residents: PE ownership reduces nursing staff by 1.4%, resulting in nurses spending 3% less time per patient, while simultaneously increasing antipsychotic medication administration by 50% to chemically restrain patients and offset reduced staffing—medications known to increase mortality in elderly dementia patients. Patients in PE-owned facilities experience greater decline in mobility, increased pain levels, and reduced quality of life across multiple measures. Despite providing worse care, PE-owned nursing homes cost taxpayers 11% more per patient episode due to higher rates of expensive complications and hospital readmissions resulting from neglect. The study documents declines in compliance with care standards, patient well-being measures, and nurse staffing that directly explain the mortality increases. This represents profit maximization through lethal cost-cutting: PE firms extract wealth through management fees and dividend recapitalizations while deliberately understaffing facilities and over-medicating vulnerable residents, resulting in thousands of preventable deaths. The research provides quantitative proof that PE extraction mechanisms literally kill people when applied to healthcare, as the pursuit of maximum returns to investors requires minimizing the labor costs that keep fragile elderly patients alive.",
+  "importance": 10,
+  "tags": ["private-equity", "healthcare", "nursing-homes", "deaths", "cost-cutting", "profit-extraction"],
+  "actors": ["Private equity firms", "Nursing home residents", "Healthcare workers"],
+  "sources": [
+    {
+      "url": "https://www.nber.org/papers/w28474",
+      "title": "Owner Incentives and Performance in Healthcare: Private Equity Investment in Nursing Homes",
+      "publisher": "National Bureau of Economic Research",
+      "date": "2021-02-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.cbsnews.com/news/nursing-home-private-equity-death-rate/",
+      "title": "At private equity-owned nursing homes, an 'enormous' increase in death rates, study finds",
+      "publisher": "CBS News",
+      "date": "2021-02-17",
+      "tier": 2
+    },
+    {
+      "url": "https://www.chicagobooth.edu/review/when-private-equity-takes-over-nursing-homes-mortality-rates-jump",
+      "title": "When Private Equity Takes over Nursing Homes, Mortality Rates Jump",
+      "publisher": "Chicago Booth Review",
+      "date": "2021-02-16",
+      "tier": 1
+    }
+  ]
+}

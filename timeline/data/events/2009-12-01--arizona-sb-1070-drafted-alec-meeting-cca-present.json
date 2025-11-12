@@ -1,0 +1,57 @@
+{
+  "id": "2009-12-01--arizona-sb-1070-drafted-alec-meeting-cca-present",
+  "date": "2009-12-01",
+  "title": "Arizona SB 1070 Immigration Law Drafted at ALEC Meeting with CCA Executives - Direct Quid Pro Quo for Immigrant Detention Profits",
+  "summary": "At a December 2009 meeting of the American Legislative Exchange Council (ALEC)'s Public Safety and Elections Task Force, Arizona State Senator Russell Pearce sits behind closed doors with executives from Corrections Corporation of America (CCA) and lobbyists from the for-profit bail industry to draft and approve the \"No Sanctuary Cities for Illegal Immigrants Act\" as ALEC model legislation. This becomes Arizona SB 1070, the notorious \"Show Me Your Papers\" law signed by Governor Jan Brewer on April 23, 2010.\n\nThe NPR investigation reveals the clearest example of direct quid pro quo corruption in ALEC's history: CCA executives vote on and approve legislation they know will generate massive profits for their company. Before the ALEC meeting, CCA had identified immigrant detention as \"a profit center important for its future growth\" and stated in annual reports that they expected to bring in \"a significant portion of our revenues\" from Immigration and Customs Enforcement (ICE). CCA operated immigrant detention centers in Arizona and stood to profit directly from the law's mass detention provisions.\n\nThe corruption extends to Arizona legislators: thirty of the thirty-six co-sponsors of SB 1070 received donations over the following six months from prison lobbyists or prison companies - CCA, Management and Training Corporation, and The GEO Group. Russell Pearce, the bill's primary sponsor, had been attending ALEC meetings for years alongside CCA executives.\n\nSB 1070 requires law enforcement to determine the immigration status of anyone they stop, detain, or arrest if there is \"reasonable suspicion\" they are undocumented. This creates a pipeline directly into immigrant detention facilities operated by CCA and other private prison companies. The law represents the ultimate corruption: corporations writing legislation that criminalizes a population specifically to generate detention revenue, with legislators receiving campaign contributions in return for passing laws drafted by the companies that will profit from enforcement.",
+  "importance": 10,
+  "actors": [
+    "ALEC",
+    "Corrections Corporation of America (CCA)",
+    "Russell Pearce",
+    "Jan Brewer",
+    "GEO Group",
+    "Management and Training Corporation",
+    "Arizona State Legislators"
+  ],
+  "tags": [
+    "alec",
+    "private-prison",
+    "prison-industrial-complex",
+    "immigration",
+    "arizona",
+    "model-legislation",
+    "quid-pro-quo",
+    "campaign-finance",
+    "corporate-lobbying"
+  ],
+  "sources": [
+    {
+      "url": "https://www.npr.org/2010/11/09/131191523/how-corporate-interests-got-sb-1070-passed",
+      "title": "How Corporate Interests Got SB 1070 Passed",
+      "publisher": "NPR",
+      "date": "2010-11-09",
+      "tier": 1
+    },
+    {
+      "url": "https://www.prwatch.org/news/2011/08/10947/brownskins-and-greenbacks-alec-profit-prison-industry-and-arizona%E2%80%99s-sb-1070",
+      "title": "Brownskins and Greenbacks: ALEC, the For-Profit Prison Industry and Arizona's SB 1070",
+      "publisher": "PR Watch (Center for Media and Democracy)",
+      "date": "2011-08-02",
+      "tier": 1
+    },
+    {
+      "url": "https://www.prisonlegalnews.org/news/2010/nov/15/private-prison-companies-behind-the-scenes-of-arizonas-immigration-law/",
+      "title": "Private Prison Companies Behind the Scenes of Arizona's Immigration Law",
+      "publisher": "Prison Legal News",
+      "date": "2010-11-15",
+      "tier": 1
+    },
+    {
+      "url": "https://sourcewatch.org/index.php/SB_1070",
+      "title": "SB 1070",
+      "publisher": "SourceWatch (Center for Media and Democracy)",
+      "date": "2011-01-01",
+      "tier": 2
+    }
+  ]
+}

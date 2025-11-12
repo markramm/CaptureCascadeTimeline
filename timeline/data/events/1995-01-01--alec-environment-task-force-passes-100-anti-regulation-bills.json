@@ -1,0 +1,56 @@
+{
+  "id": "1995-01-01--alec-environment-task-force-passes-100-anti-regulation-bills",
+  "date": "1995-01-01",
+  "title": "ALEC Environment Task Force Passes 100+ Anti-Regulation Bills Funded by Fossil Fuel Companies",
+  "summary": "Between 1990 and 2010, the American Legislative Exchange Council's (ALEC) Environment Task Force—directly funded by Koch Industries, ExxonMobil, and Peabody Energy—systematically passed over 100 model bills designed to weaken state environmental protections. The task force operated as a pay-to-play legislative factory where fossil fuel lobbyists received 'equal voice and vote' with elected state legislators in drafting anti-environmental legislation. ALEC introduced the 'Economic Impact Statement Act' and a slew of 'private property rights' bills in the 1990s, many designed to weaken the Endangered Species Act, Clean Water Act, and other environmental laws by requiring detailed cost-benefit analyses that effectively killed proposed regulations through bureaucratic burden.\n\nALEC received at least $600,000 from Koch Industries between 1997-2009, during which time it fought vigorously against greenhouse gas regulation. ExxonMobil paid ALEC well over $1.6 million between 1998-2010, with funding reaching a peak of over $368,000 in 2003. The ExxonMobil Foundation specifically wrote checks to ALEC for over $375,000 in climate change-specific funding between 2003 and 2005. ALEC's Board of Directors included lobbyists from ExxonMobil, Peabody Energy, and Koch Industries, while the Environment Task Force was stacked with representatives from Duke Energy, American Gas Association, and other industry-connected groups. Between 2010 and 2018, ALEC model legislation was introduced in state legislatures approximately 2,900 times, with more than 600 bills enacted into law—often word-for-word from corporate-drafted templates.\n\nThe systematic capture of state environmental policy represented one of the most effective regulatory obstruction campaigns in American history. By attacking environmental protections at the state level through a coordinated 50-state strategy, fossil fuel companies essentially purchased the ability to draft and deploy anti-environmental legislation nationwide through compliant state legislators. The lack of transparency—with bills introduced under legislators' names without ALEC attribution—constituted systematic deception of voters who believed their representatives were authoring legislation in constituent interests rather than transcribing fossil fuel industry talking points. This legislative capture campaign effectively weakened the regulatory infrastructure needed to address climate change and environmental degradation for over two decades.",
+  "importance": 9,
+  "actors": [
+    "American Legislative Exchange Council",
+    "Koch Industries",
+    "ExxonMobil",
+    "Peabody Energy",
+    "Duke Energy",
+    "American Gas Association",
+    "State Legislatures"
+  ],
+  "tags": [
+    "alec",
+    "legislative-capture",
+    "regulatory-capture",
+    "fossil-fuels",
+    "climate-denial",
+    "model-legislation",
+    "state-government-capture",
+    "environmental-deregulation"
+  ],
+  "sources": [
+    {
+      "url": "https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/",
+      "title": "ALEC: 50 Years of Attacking Environmental Protection and Democracy",
+      "publisher": "Greenpeace USA",
+      "date": "2023-09-25",
+      "tier": 1
+    },
+    {
+      "url": "https://climateinvestigations.org/alec_hates_the_climate/",
+      "title": "ALEC Hates the Climate",
+      "publisher": "Climate Investigations Center",
+      "date": "2024-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.exposedbycmd.org/2023/08/10/anti-woke-and-fossil-fuel-industry-operatives-dominate-alecs-energy-task-force/",
+      "title": "Anti-Woke and Fossil Fuel Industry Operatives Dominate ALEC's Energy Task Force",
+      "publisher": "Center for Media and Democracy",
+      "date": "2023-08-10",
+      "tier": 1
+    },
+    {
+      "url": "https://blog.ucs.org/elliott-negin/how-the-american-legislative-exchange-council-turns-disinformation-into-law/",
+      "title": "How the American Legislative Exchange Council Turns Disinformation into Law",
+      "publisher": "Union of Concerned Scientists",
+      "date": "2021-07-15",
+      "tier": 1
+    }
+  ]
+}

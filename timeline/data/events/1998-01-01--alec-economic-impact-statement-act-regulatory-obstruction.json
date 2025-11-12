@@ -1,0 +1,54 @@
+{
+  "id": "1998-01-01--alec-economic-impact-statement-act-regulatory-obstruction",
+  "date": "1998-01-01",
+  "title": "ALEC's 'Economic Impact Statement Act' Uses Cost-Benefit Analysis to Kill Environmental Regulations",
+  "summary": "In the 1990s, the American Legislative Exchange Council (ALEC) introduced the 'Economic Impact Statement Act' and related model bills requiring state agencies to conduct detailed 'economic impact statements' and cost-benefit analyses for all proposed environmental regulations, creating bureaucratic barriers specifically designed to weaken or kill environmental protections through impossible procedural burdens. The legislation established a regulatory obstruction framework where fossil fuel industry-defined 'economic costs' would systematically outweigh scientifically-established environmental and public health benefits, effectively giving corporate interests veto power over environmental policy through mathematical manipulation.\n\nALEC later developed the 'Regulatory Review and Rescission Act' which allowed for rescinding environmental rules if state budget offices—often controlled by industry-friendly administrations—determined costs exceeded benefits or if there was any adverse impact on employment. This created a one-sided accounting system where corporate compliance costs received exhaustive analysis while the economic value of clean air, water, biodiversity, and climate stability were systematically undervalued or excluded entirely. ALEC's 'Climate Accountability Act' imposed similar cost assessments specifically on carbon regulation, without any parallel accounting required for the economic damages from climate change caused by fossil fuel corporations.\n\nThe cost-benefit analysis framework operated on the false premise of 'free-market environmentalism'—ALEC's rhetorical strategy claiming markets are more effective than regulation at achieving environmental outcomes. In practice, ALEC supported billions in government subsidies to fossil fuel industries while characterizing modest renewable energy incentives as 'government picking winners and losers.' The model legislation allowed ALEC to oppose climate action while claiming to support economic efficiency, obscuring how fossil fuel subsidies and externalized pollution costs represented massive government intervention favoring incumbent polluters.\n\nCritics recognized ALEC's cost-benefit requirements as regulatory sabotage through procedural warfare. By imposing detailed economic analysis requirements on under-resourced state environmental agencies while not requiring parallel analysis of corporate pollution damages, ALEC created asymmetric bureaucratic burden that systematically prevented environmental regulation. The 'Economic Impact Statement Act' represented a sophisticated evolution of regulatory obstruction—instead of directly opposing popular environmental laws, fossil fuel companies used ALEC to create administrative procedures that made environmental protection functionally impossible to implement. This strategy proved devastatingly effective, as procedural obstruction generated less public opposition than direct regulatory rollbacks while achieving the same deregulatory outcomes for industry.",
+  "importance": 8,
+  "actors": [
+    "American Legislative Exchange Council",
+    "Koch Industries",
+    "ExxonMobil",
+    "State Environmental Agencies",
+    "State Budget Offices",
+    "State Legislatures"
+  ],
+  "tags": [
+    "alec",
+    "regulatory-capture",
+    "environmental-deregulation",
+    "model-legislation",
+    "fossil-fuels",
+    "legislative-capture",
+    "bureaucratic-obstruction"
+  ],
+  "sources": [
+    {
+      "url": "https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/",
+      "title": "ALEC: 50 Years of Attacking Environmental Protection and Democracy",
+      "publisher": "Greenpeace USA",
+      "date": "2023-09-25",
+      "tier": 1
+    },
+    {
+      "url": "https://alec.org/model-policy/regulatory-review-and-rescission-act/",
+      "title": "Regulatory Review and Rescission Act",
+      "publisher": "American Legislative Exchange Council",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.alecexposed.org/wiki/ALEC_&_the_Environment",
+      "title": "ALEC & the Environment",
+      "publisher": "ALEC Exposed (Center for Media and Democracy)",
+      "date": "2024-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://blog.ucs.org/elliott-negin/how-the-american-legislative-exchange-council-turns-disinformation-into-law/",
+      "title": "How the American Legislative Exchange Council Turns Disinformation into Law",
+      "publisher": "Union of Concerned Scientists",
+      "date": "2021-07-15",
+      "tier": 1
+    }
+  ]
+}

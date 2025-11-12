@@ -27,7 +27,7 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Trickle-Down Economics: Four Reasons Why It Just Doesn't Work'
+- title: "Trickle-Down Economics: Four Reasons Why It Just Doesn't Work"
   url: https://www.faireconomy.org/trickle_down_economics_four_reasons
   outlet: United for a Fair Economy
   date: '2024-01-01'

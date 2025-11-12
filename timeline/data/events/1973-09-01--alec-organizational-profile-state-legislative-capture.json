@@ -1,0 +1,53 @@
+{
+  "id": "1973-09-01--alec-organizational-profile-state-legislative-capture",
+  "date": "1973-09-01",
+  "title": "ALEC Organizational Profile: Corporate Vote-Buying Mechanism Disguised as Legislative Council",
+  "summary": "Comprehensive organizational analysis exposes the American Legislative Exchange Council (ALEC) as a systematic state legislative capture mechanism operating under 501(c)(3) tax-exempt status while functioning as corporate lobbying operation. ALEC's structure enables corporations to directly write state legislation and vote alongside legislators in closed-door meetings, then deploy those bills across all 50 states simultaneously.\n\nFUNDING STRUCTURE: ALEC's revenue model reveals the capture mechanism: 98% of the $8-9 million annual budget comes from corporations, corporate trade groups, and foundations, while only 2% comes from legislators. Corporate members pay $7,000-$25,000 annual dues plus $2,500-$10,000 per task force, while legislators pay just $50-$100 annually. This funding asymmetry—corporations pay 70-500 times more than legislators—determines whose interests ALEC serves. Tax records show only $49,000 in legislative dues (2019), suggesting inflated membership claims. ALEC's 990 forms deliberately redact donor identities, hiding corporate funders from public scrutiny.\n\nVOTING STRUCTURE: ALEC's nine task forces grant corporations equal voting power with elected legislators on model legislation. Corporate lobbyists and executives sit at the table as equals with state lawmakers, voting on bills that will be introduced in state legislatures. This creates the extraordinary situation where corporations directly vote on the laws that will regulate them. Task force meetings operate behind closed doors with no press or public access, allowing corporate authorship of legislation to remain hidden when bills are introduced.\n\nSCALE AND INFLUENCE: ALEC coordinates approximately 2,000 state legislators (representing 24-33% of all state legislative seats) across all 50 states with 300+ corporate members. The organization produces 1,000+ model bills introduced annually in state legislatures, with 200+ (20%) enacted into law. Between 2010-2018, ALEC model legislation was introduced 2,900 times with 600+ bills enacted. This industrial-scale production line converts corporate wish lists into state law with legislators serving as willing intermediaries.\n\nCAPTURE MECHANISM: The ALEC model perfects legislative capture through several innovations: (1) Corporations write legislation directly rather than lobbying for it; (2) Equal voting power eliminates the distinction between lobbyist and legislator; (3) Closed-door meetings hide corporate authorship; (4) Legislators introduce bills as their own without disclosure; (5) Coordinated deployment across states creates appearance of grassroots momentum; (6) Model bill templates enable rapid simultaneous introduction; (7) Success in one state provides precedent for others. This transforms state legislatures from democratic bodies into corporate bill-processing facilities, with elected officials serving as delivery mechanisms for pre-written corporate legislation.",
+  "importance": 9,
+  "actors": [
+    "American Legislative Exchange Council",
+    "Paul Weyrich",
+    "Henry Hyde",
+    "Lou Barnett",
+    "Corporate members"
+  ],
+  "tags": [
+    "organizational-profile",
+    "state-legislative-capture",
+    "corporate-lobbying",
+    "model-legislation",
+    "closed-door-policy",
+    "democratic-subversion",
+    "tax-exempt-abuse"
+  ],
+  "sources": [
+    {
+      "url": "https://www.alecexposed.org/wiki/What_is_ALEC",
+      "title": "What is ALEC",
+      "publisher": "ALEC Exposed / Center for Media and Democracy",
+      "date": "2024",
+      "tier": 1
+    },
+    {
+      "url": "https://www.exposedbycmd.org/2021/09/22/heres-who-funds-the-right-wing-american-legislative-exchange-council/",
+      "title": "Here's Who Funds the Right-Wing American Legislative Exchange Council",
+      "publisher": "Center for Media and Democracy",
+      "date": "2021-09-22",
+      "tier": 1
+    },
+    {
+      "url": "https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/",
+      "title": "ALEC's Influence over Lawmaking in State Legislatures",
+      "publisher": "Brookings Institution",
+      "date": "2019",
+      "tier": 1
+    },
+    {
+      "url": "https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/",
+      "title": "After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever",
+      "publisher": "The American Prospect",
+      "date": "2023-10-04",
+      "tier": 2
+    }
+  ]
+}

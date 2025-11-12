@@ -1,0 +1,32 @@
+{
+  "id": "2018-03-15--toys-r-us-bankruptcy-pe-extracts-470-million",
+  "date": "2018-03-15",
+  "title": "Toys 'R' Us Liquidation: PE Firms Extract $470 Million, 33,000 Workers Get Nothing",
+  "summary": "Toys 'R' Us liquidates after filing for Chapter 11 bankruptcy in September 2017, resulting in 33,000 job losses and the closure of 800+ U.S. stores, while private equity owners Bain Capital, KKR, and Vornado refuse to contribute to a severance fund for workers who built the company. During their 12-year ownership (2005-2018), the three PE firms collected approximately $470 million in fees, interest, and other payments extracted from Toys 'R' Us—$464 million in documented management fees, advisory fees, and interest alone, plus additional transaction fees. Workers who lost their jobs received zero severance, losing accumulated paid time off, retirement contributions, and healthcare coverage. Creditors lost billions. Communities lost major employers and tax revenue. But the PE firms kept every dollar they extracted. This case perfectly illustrates 'privatized gains, socialized losses': PE firms profit immensely regardless of outcome while workers, creditors, and communities absorb all losses. The PE owners repeatedly 'rewarded themselves' for adding debt to Toys 'R' Us through dividend recapitalizations and fee structures that extracted wealth while the company deteriorated. When workers and advocates demanded the PE firms contribute $75 million to a severance fund—a fraction of the $470 million extracted—the firms initially refused, relenting only after sustained public pressure resulted in a partial $20 million fund. This demonstrates PE's fundamental extraction mechanism: debt-load companies, extract maximum fees, provide no accountability when overleveraged companies fail, leaving workers with nothing while PE partners profit regardless of outcomes.",
+  "importance": 10,
+  "tags": ["private-equity", "bankruptcy", "wealth-extraction", "labor", "accountability"],
+  "actors": ["Bain Capital", "KKR", "Vornado Realty Trust", "33,000 Toys R Us workers"],
+  "sources": [
+    {
+      "url": "https://www.buzzfeednews.com/article/leticiamiranda/how-wall-street-bought-toys-r-us-and-left-30000-people",
+      "title": "How Wall Street Bought Toys 'R' Us And Left 30,000 People Without Jobs",
+      "publisher": "BuzzFeed News",
+      "date": "2018-03-15",
+      "tier": 2
+    },
+    {
+      "url": "https://theweek.com/articles/761124/how-vulture-capitalists-ate-toys-r",
+      "title": "How vulture capitalists ate Toys 'R' Us",
+      "publisher": "The Week",
+      "date": "2018-03-19",
+      "tier": 2
+    },
+    {
+      "url": "https://prospect.org/economy/private-equity-looting-r-us/",
+      "title": "Private Equity: Looting 'R' Us",
+      "publisher": "The American Prospect",
+      "date": "2019-05-06",
+      "tier": 2
+    }
+  ]
+}

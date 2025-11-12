@@ -1,0 +1,45 @@
+{
+  "id": "2011-07-13--alec-exposed-cmd-the-nation-leak-800-model-bills",
+  "date": "2011-07-13",
+  "title": "ALEC Exposed: Center for Media and Democracy and The Nation Publish Leaked Archive of 850 Corporate Model Bills",
+  "summary": "The Center for Media and Democracy (CMD), in cooperation with The Nation magazine, launched the 'ALEC Exposed' web project on July 13, 2011, posting 850 model bills created by the American Legislative Exchange Council (ALEC) over a 30-year period and exposing the systematic corporate authorship of state legislation. The Nation published a special edition of articles produced in collaboration with CMD showcasing ALEC model bills and describing extensive ties to the Koch family and other corporate funders. Thanks to a leak from an Ohio-based activist who helped organize protests at ALEC's Spring Task Force meeting in Cincinnati, the organizations obtained more than 800 documents representing decades of model legislation, allowing the public to 'connect the dots between which corporations were involved in ALEC' and its legislative agenda for the first time. Before publication of this trove of bills, it had been difficult to trace the numerous controversial and extreme provisions appearing in legislatures across the country directly to ALEC and its corporate underwriters. The exposure revealed ALEC's structure granting corporate lobbyists 'equal voice and vote' with elected officials in drafting legislation through ten policy task forces, with corporations providing 98% of ALEC's funding while paying dues 100 times higher than state legislators. The leaked documents showed model legislation covering voter ID laws, Stand Your Ground gun laws, prison privatization, environmental deregulation, workers' rights restrictions, and corporate tax cuts—bills that legislators then introduced in their home states word-for-word without disclosing ALEC's role or corporate authorship. The ALEC Exposed project was honored with three investigative journalism awards including the 'Sidney Award' for Investigative Journalism in September 2011. The leak triggered critical coverage about ALEC in both left-wing and mainstream media outlets, fundamentally changing public understanding of how corporate interests directly author state legislation through ostensibly nonpartisan 'legislative councils.' Since CMD first exposed ALEC in July 2011, more than 100 corporations eventually dropped ALEC membership, including Verizon, Ford, Coca-Cola, Walmart, General Electric, and Google, demonstrating that ALEC's influence depends on operating in shadows rather than public scrutiny.",
+  "importance": 9,
+  "tags": [
+    "alec",
+    "legislative-capture",
+    "corporate-corruption",
+    "investigative-journalism",
+    "regulatory-capture",
+    "accountability"
+  ],
+  "actors": [
+    "Center for Media and Democracy",
+    "The Nation",
+    "American Legislative Exchange Council",
+    "Common Cause",
+    "Koch Industries"
+  ],
+  "sources": [
+    {
+      "url": "https://www.alecexposed.org/wiki/About_ALEC_Exposed",
+      "title": "About ALEC Exposed",
+      "publisher": "Center for Media and Democracy",
+      "date": "2011-07-13",
+      "tier": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council",
+      "title": "American Legislative Exchange Council",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://www.npr.org/2012/04/13/150528572/as-pressure-mounts-companies-flee-coalition",
+      "title": "As Pressure Mounts, Companies Flee Coalition",
+      "publisher": "NPR",
+      "date": "2012-04-13",
+      "tier": 1
+    }
+  ]
+}

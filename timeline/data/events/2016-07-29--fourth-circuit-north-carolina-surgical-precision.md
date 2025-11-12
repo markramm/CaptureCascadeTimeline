@@ -1,6 +1,6 @@
 ---
 id: 2016-07-29--fourth-circuit-north-carolina-surgical-precision
-date: 2016-07-29
+date: '2016-07-29'
 title: Appeals Court Strikes Down North Carolina Voter ID Law With "Surgical Precision" Ruling
 importance: 9
 tags:
@@ -25,7 +25,7 @@ sources:
     date: 2016-07-29
     tier: 1
   - url: https://colorlines.com/article/court-north-carolina-voter-id-laws-targeted-blacks-almost-surgical-precision/
-    title: Court: N.C. Voter ID Laws Targeted Blacks with 'Almost Surgical Precision'
+    title: "Court: N.C. Voter ID Laws Targeted Blacks with 'Almost Surgical Precision'"
     publisher: Colorlines
     date: 2016-07-29
     tier: 2

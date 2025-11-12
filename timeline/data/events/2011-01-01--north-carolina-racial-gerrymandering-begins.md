@@ -1,6 +1,6 @@
 ---
 id: 2011-01-01--north-carolina-racial-gerrymandering-begins
-date: 2011-01-01
+date: '2011-01-01'
 title: North Carolina Republicans Begin Aggressive Racial Gerrymandering
 importance: 8
 tags:
@@ -32,7 +32,7 @@ sources:
     date: 2011-01-01
     tier: 2
   - url: https://history.chass.ncsu.edu/2019/07/29/drawing-democracy-north-carolinas-gerrymandering-history/
-    title: Drawing Democracy: North Carolina's Gerrymandering History
+    title: "Drawing Democracy: North Carolina's Gerrymandering History"
     publisher: NC State University Department of History
     date: 2019-07-29
     tier: 2
