@@ -49,7 +49,7 @@ function App() {
   const [dateRange, setDateRange] = useState({ start: null, end: null });
   const [searchQuery, setSearchQuery] = useState('');
   const [viewMode, setViewMode] = useState('timeline');
-  const [sortOrder, setSortOrder] = useState('reverse-chronological');
+  const [sortOrder, setSortOrder] = useState('newest');
   const [minImportance, setMinImportance] = useState(0);
   
   // UI states - initialize from URL or defaults
@@ -83,7 +83,7 @@ function App() {
       setDateRange(urlState.dateRange || { start: null, end: null });
       setSearchQuery(urlState.searchQuery || '');
       setViewMode(urlState.viewMode || 'timeline');
-      setSortOrder(urlState.sortOrder || 'chronological');
+      setSortOrder(urlState.sortOrder || 'newest');
       setMinImportance(urlState.minImportance || 0);
       setTimelineControls(urlState.timelineControls || {
         compactMode: 'medium',
@@ -438,7 +438,7 @@ function App() {
       selectedActors: [],
       dateRange: { start: null, end: null },
       searchQuery: '',
-      sortOrder: 'chronological',
+      sortOrder: 'newest',
       minImportance: 0,
       viewMode,
       timelineControls: {
