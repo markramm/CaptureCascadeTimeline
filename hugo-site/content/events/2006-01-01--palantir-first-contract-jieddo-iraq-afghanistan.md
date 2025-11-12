@@ -1,0 +1,39 @@
+---
+id: 2006-01-01--palantir-first-contract-jieddo-iraq-afghanistan
+date: '2006-01-01'
+title: Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq
+  and Afghanistan
+importance: 8
+tags:
+- palantir
+- defense-contracts
+- jieddo
+- iraq-war
+- afghanistan-war
+- military-privatization
+actors:
+- Palantir Technologies
+- Joint IED Defeat Organization
+- Department of Defense
+sources:
+- url: https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/
+  title: Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients
+  publisher: TechCrunch
+  date: '2015-01-11'
+  tier: 2
+- url: https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/
+  title: Palantir — A Federal Market Lesson For VCs
+  publisher: Crunchbase
+  date: '2024-01-01'
+  tier: 3
+---
+
+In 2006, Palantir Technologies secured one of its first major government contracts with the Joint IED Defeat Organization (JIEDDO), marking the company's transition from CIA-backed startup to operational defense contractor. The contract focused on using Palantir's data analysis platform to detect patterns in improvised explosive device (IED) attacks in Iraq and Afghanistan, helping U.S. military forces identify bomb-making networks and predict attack locations.
+
+The JIEDDO contract was strategically critical for Palantir's growth. It demonstrated that the company's technology, originally developed in collaboration with CIA analysts, could be applied to active military operations in combat zones. Early CIA clients had already been using Palantir to detect roadside bombs, and the JIEDDO contract formalized and expanded this work with dedicated defense funding.
+
+Leveraging the success of this initial contract, Palantir rapidly expanded its presence within the U.S. government. Between 2007 and 2009, Palantir's work in Washington grew from eight pilot programs to more than 50 programs across multiple agencies. The JIEDDO contract provided proof of concept that enabled referrals to other agencies including the FBI, NSA, Department of Homeland Security, SEC, and NYPD during the 2006-2008 period.
+
+The contract represented a significant milestone in the post-9/11 expansion of private contractors in intelligence and military operations. Rather than building internal data analysis capabilities, the Department of Defense turned to a venture-backed Silicon Valley startup to solve one of the most pressing tactical challenges facing U.S. forces in Iraq and Afghanistan. This established a precedent for outsourcing critical military intelligence functions to private companies.
+
+JIEDDO itself was a well-funded Pentagon organization created specifically to combat the IED threat that was causing the majority of U.S. casualties in Iraq and Afghanistan. Palantir's ability to win this high-profile contract just three years after founding demonstrated both the company's technological capabilities and Peter Thiel's connections within national security circles.

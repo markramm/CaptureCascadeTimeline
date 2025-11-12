@@ -640,8 +640,8 @@ const EnhancedTimelineEvent = ({
                   <ExternalLink size={14} />
                   <span>{event.sources.length} source{event.sources.length > 1 ? 's' : ''}:</span>
                   <div className="source-links-inline">
-                    {event.sources.slice(0, 2).map((source, idx) => (
-                      source.url && (
+                    {event.sources.slice(0, 2).map((source, idx) =>
+                      source.url ? (
                         <a
                           key={idx}
                           href={source.url}
@@ -654,8 +654,8 @@ const EnhancedTimelineEvent = ({
                           <ExternalLink size={12} />
                           {source.outlet || 'Link'}
                         </a>
-                      )
-                    ))}
+                      ) : null
+                    )}
                     {event.sources.length > 2 && (
                       <span className="more-sources">+{event.sources.length - 2} more</span>
                     )}
