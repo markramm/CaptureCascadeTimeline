@@ -862,8 +862,8 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
           animate={{ opacity: 1, y: 0 }}
           whileHover={{ scale: 1.02 }}
         >
-          <div className="list-item-importance" style={{ 
-            background: `linear-gradient(90deg, ${getImportanceColor(event.importance || 5)} 0%, transparent 100%)` 
+          <div className="list-item-importance" style={{
+            borderLeft: `4px solid ${getImportanceColor(event.importance || 5)}`
           }}>
             {event.importance || 5}
           </div>

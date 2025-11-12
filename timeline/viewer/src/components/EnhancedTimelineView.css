@@ -695,7 +695,9 @@
   justify-content: center;
   border-radius: 0.5rem;
   font-weight: 700;
-  color: white;
+  color: #1a1a1a;
+  background: #f8f9fa;
+  padding-left: 8px;
 }
 
 .list-item-date {
