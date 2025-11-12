@@ -82,6 +82,7 @@ export class TimelineDB {
 
     for (let i = 0; i < events.length; i += BATCH_SIZE) {
       const batch = events.slice(i, i + BATCH_SIZE);
+      const batchSize = batch.length;
 
       await new Promise((resolve, reject) => {
         const tx = this.db.transaction([EVENT_STORE], 'readwrite');
@@ -92,11 +93,12 @@ export class TimelineDB {
         });
 
         tx.oncomplete = () => {
-          totalAdded += batch.length;
           resolve();
         };
         tx.onerror = () => reject(tx.error);
       });
+
+      totalAdded += batchSize;
     }
 
     console.log(`Populated IndexedDB with ${totalAdded} events`);

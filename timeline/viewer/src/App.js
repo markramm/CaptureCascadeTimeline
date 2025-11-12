@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import LandingPage from './components/LandingPage';
-import EnhancedTimelineView from './components/EnhancedTimelineView';
+import TimelineViewWrapper from './components/TimelineViewWrapper';
 import FilterPanel from './components/FilterPanel';
 import EventDetails from './components/EventDetails';
 import StatsPanel from './components/StatsPanel';
@@ -10,14 +10,15 @@ import ViewToggle from './components/ViewToggle';
 import NetworkGraph from './components/NetworkGraph';
 import NetworkGraphActors from './components/NetworkGraphActors';
 import DownloadMenu from './components/DownloadMenu';
+import IndexedDBToggle from './components/IndexedDBToggle';
 import apiService from './services/apiService';
 import { USE_LIVE_API } from './config';
 import { useUrlState } from './hooks/useUrlState';
 import { shareEvent, shareFilteredView } from './utils/shareUtils';
 import { createNewEventIssue, openGitHub } from './utils/githubUtils';
 import { initAnalytics, trackEvent, trackFilter, AnalyticsEvents } from './utils/analytics';
-import { 
-  Filter, 
+import {
+  Filter,
   BarChart3,
   Loader2,
   AlertCircle,
@@ -690,6 +691,8 @@ function App() {
               exit={{ x: -300 }}
               transition={{ type: "spring", stiffness: 300, damping: 30 }}
             >
+              <IndexedDBToggle />
+
               <FilterPanel
                 allTags={allTags}
                 allActors={allActors}
@@ -849,7 +852,7 @@ function App() {
               events={filteredEvents}
             />
           ) : (
-            <EnhancedTimelineView
+            <TimelineViewWrapper
               events={filteredEvents}
               groups={timelineGroups}
               viewMode={viewMode}
@@ -863,6 +866,9 @@ function App() {
               selectedActors={selectedActors}
               timelineControls={timelineControls}
               onTimelineControlsChange={setTimelineControls}
+              searchQuery={searchQuery}
+              dateRange={dateRange}
+              minImportance={minImportance}
             />
           )}
         </main>

@@ -5,7 +5,7 @@
  * and IndexedDB-backed virtual scrolling.
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './IndexedDBToggle.css';
 
 const IndexedDBToggle = () => {

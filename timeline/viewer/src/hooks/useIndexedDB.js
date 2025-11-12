@@ -5,7 +5,7 @@
  * with automatic initialization, syncing, and query methods.
  */
 
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useCallback, useRef, useEffect } from 'react';
 import TimelineDB from '../utils/TimelineDB';
 
 export const useIndexedDB = () => {
@@ -28,11 +28,14 @@ export const useIndexedDB = () => {
     }
     initializationRef.current = true;
 
+    let currentDb = null;
+
     const initDB = async () => {
       try {
         console.log('[useIndexedDB] Initializing database...');
         const database = new TimelineDB();
         await database.init();
+        currentDb = database;
 
         // Check if we need to populate
         const lastSyncTime = await database.getMetadata('lastSync');
@@ -86,11 +89,12 @@ export const useIndexedDB = () => {
 
     // Cleanup on unmount
     return () => {
-      if (db) {
-        db.close();
+      if (currentDb) {
+        currentDb.close();
       }
     };
-  }, []); // Empty dependency array - run once
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []); // Empty dependency array - run once on mount
 
   /**
    * Get paginated events with filters
