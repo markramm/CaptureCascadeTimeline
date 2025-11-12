@@ -825,8 +825,8 @@ function App() {
                   }
                 }}
                 onClear={clearFilters}
-                eventCount={filteredEvents.length || (stats?.total_events || 0)}
-                totalCount={events.length || (stats?.total_events || 0)}
+                eventCount={events.length > 0 ? filteredEvents.length : (stats?.total_events || 0)}
+                totalCount={events.length > 0 ? events.length : (stats?.total_events || 0)}
                 viewMode={viewMode}
                 timelineControls={timelineControls}
                 onTimelineControlsChange={handleTimelineControlsChange}
