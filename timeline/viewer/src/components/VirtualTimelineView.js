@@ -117,6 +117,17 @@ const VirtualTimelineView = ({
   }, [loadedPages, isReady, getEvents, sortBy, sortOrder, effectiveFilters]);
 
   /**
+   * Get color based on importance level
+   */
+  const getImportanceColor = (importance) => {
+    if (importance >= 9) return '#dc2626';
+    if (importance >= 8) return '#ea580c';
+    if (importance >= 7) return '#f59e0b';
+    if (importance >= 6) return '#3b82f6';
+    return '#6b7280';
+  };
+
+  /**
    * Row renderer for react-window
    */
   const Row = useCallback(({ index, style }) => {
@@ -136,8 +147,19 @@ const VirtualTimelineView = ({
       );
     }
 
+    const importance = event.importance || 5;
+    const dotSize = 8 + importance;
+
     return (
       <div style={style} className="timeline-event-wrapper">
+        <div
+          className="event-dot"
+          style={{
+            backgroundColor: getImportanceColor(importance),
+            width: `${dotSize}px`,
+            height: `${dotSize}px`
+          }}
+        />
         <TimelineEventCard
           event={event}
           onClick={() => onEventSelect && onEventSelect(event)}
@@ -184,15 +206,10 @@ const VirtualTimelineView = ({
   }
 
   return (
-    <div className="virtual-timeline-container">
-      <div className="virtual-timeline-header">
-        <p>
-          {totalCount.toLocaleString()} events (scroll to view all)
-        </p>
-      </div>
-
+    <div className="virtual-timeline-container" style={{ position: 'relative' }}>
+      <div className="timeline-line" />
       <List
-        height={window.innerHeight - 200}
+        height={window.innerHeight - 150}
         itemCount={totalCount}
         itemSize={ITEM_HEIGHT}
         width="100%"
@@ -226,52 +243,24 @@ const TimelineEventCard = ({ event, onClick }) => {
       role="button"
       tabIndex={0}
       onKeyPress={(e) => e.key === 'Enter' && onClick && onClick()}
-      style={{
-        background: 'white',
-        border: '1px solid #dee2e6',
-        borderRadius: '6px',
-        padding: '0.625rem 0.75rem',
-        cursor: 'pointer',
-        minHeight: '120px'
-      }}
     >
-      <div className="event-header" style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.375rem' }}>
-        <div className="event-date" style={{ fontSize: '0.8125rem', color: '#495057', fontWeight: 600 }}>
+      <div className="event-header">
+        <div className="event-date">
           {formattedDate}
         </div>
         {importance && (
-          <div
-            className={`event-importance importance-${importance}`}
-            style={{
-              fontSize: '0.6875rem',
-              fontWeight: 700,
-              padding: '0.125rem 0.375rem',
-              borderRadius: '3px',
-              background: importance >= 9 ? '#dc3545' : importance >= 7 ? '#fd7e14' : importance >= 5 ? '#ffc107' : '#f8f9fa',
-              color: importance >= 5 ? (importance >= 7 ? 'white' : '#212529') : '#495057'
-            }}
-          >
+          <div className={`event-importance importance-${importance}`}>
             {importance}/10
           </div>
         )}
       </div>
 
-      <h3 className="event-title" style={{
-        fontSize: '0.9375rem',
-        fontWeight: 600,
-        color: '#1a1a1a',
-        margin: '0 0 0.375rem 0'
-      }}>
+      <h3 className="event-title">
         {title}
       </h3>
 
       {summary && (
-        <p className="event-summary" style={{
-          fontSize: '0.8125rem',
-          color: '#555',
-          lineHeight: 1.4,
-          margin: '0 0 0.5rem 0'
-        }}>
+        <p className="event-summary">
           {summary.length > 200
             ? summary.substring(0, 200) + '...'
             : summary}
@@ -279,24 +268,14 @@ const TimelineEventCard = ({ event, onClick }) => {
       )}
 
       {tags.length > 0 && (
-        <div className="event-tags" style={{ display: 'flex', flexWrap: 'wrap', gap: '0.25rem' }}>
+        <div className="event-tags">
           {tags.slice(0, 5).map((tag, i) => (
-            <span
-              key={i}
-              className="event-tag"
-              style={{
-                fontSize: '0.6875rem',
-                padding: '0.0625rem 0.375rem',
-                background: '#e9ecef',
-                color: '#495057',
-                borderRadius: '10px'
-              }}
-            >
+            <span key={i} className="event-tag">
               {tag}
             </span>
           ))}
           {tags.length > 5 && (
-            <span className="event-tag-more" style={{ fontSize: '0.6875rem', color: '#6c757d' }}>
+            <span className="event-tag-more">
               +{tags.length - 5}
             </span>
           )}
