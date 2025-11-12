@@ -1204,6 +1204,13 @@
 2. [Finance & Development: The Asian Crisis: Causes and Cures](https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm)
 3. [Asian Financial Crisis: Economic Transformation](https://www.federalreservehistory.org/essays/asian-financial-crisis)
 
+## Cellebrite Founded in Israel to Develop Mobile Phone Data Transfer Technology
+*Date: 1999-01-01*
+
+1. [Cellebrite - Wikipedia](https://en.wikipedia.org/wiki/Cellebrite)
+2. [What is Brief History of Cellebrite Company?](https://canvasbusinessmodel.com/blogs/brief-history/cellebrite-brief-history)
+3. [Cellebrite - An Israeli-based Global Leader In The Digital Intelligence Sector](https://www.yourtechstory.com/2022/05/05/cellebrite-an-israeli-based-global-leader-in-the-digital-intelligence-sector/)
+
 ## Trump Launches Model Management Agency with Systematic Visa Violations
 *Date: 1999-01-01*
 
@@ -1246,6 +1253,20 @@
 1. [HUD Increases Affordable Housing Goals](https://www.huduser.gov/portal/periodicals/ushmc/fall99/fall99.html)
 2. [Fannie Mae Eases Credit Requirements](https://www.nytimes.com/1999/09/30/business/fannie-mae-eases-credit-to-aid-mortgage-lending.html)
 3. [Thoughtful Reform of U.S. Housing Policy](https://www.brookings.edu/articles/thoughtful-reform-of-u-s-housing-policy/)
+
+## CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
+*Date: 1999-09-01*
+
+1. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+2. [About In-Q-Tel](https://www.iqt.org/about)
+3. [Gilman Louie](https://en.wikipedia.org/wiki/Gilman_Louie)
+
+## CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
+*Date: 1999-09-01*
+
+1. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+2. [About In-Q-Tel](https://www.iqt.org/about)
+3. [Gilman Louie](https://en.wikipedia.org/wiki/Gilman_Louie)
 
 ## Gramm-Leach-Bliley Act Retroactively Legalizes Citigroup Merger, Repeals Glass-Steagall
 *Date: 1999-11-12*
@@ -1618,6 +1639,20 @@
 2. [White House Iraq Group Profile](https://sourcewatch.org/index.php/White_House_Iraq_Group)
 3. [Karl Rove 'In The Fight' Again With New Memoir](https://www.npr.org/transcripts/124597241?storyId=124597241)
 
+## Poindexter Announces DARPA Total Information Awareness Program
+*Date: 2002-08-02*
+
+1. [Overview of the Information Awareness Office - Poindexter Speech](https://irp.fas.org/agency/dod/poindexter.html)
+2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
+3. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
+
+## Poindexter Announces DARPA Total Information Awareness Program
+*Date: 2002-08-02*
+
+1. [Overview of the Information Awareness Office - Poindexter Speech](https://irp.fas.org/agency/dod/poindexter.html)
+2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
+3. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
+
 ## CNN Executives Coordinate with WHIG to Facilitate September Propaganda Rollout
 *Date: 2002-08-15*
 
@@ -1937,6 +1972,20 @@
 2. [IG Report on DoD Intel Office Declassified](https://fas.org/publication/ig_report_on_dod_intel_office_/)
 3. [DoD Inspector General's Report on OSP Pre-Iraq War Activities](https://www.govinfo.gov/content/pkg/CHRG-110shrg35438/html/CHRG-110shrg35438.htm)
 
+## New York Times Exposes Total Information Awareness Surveillance Program, Sparking Public Outcry
+*Date: 2002-11-09*
+
+1. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
+2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
+3. [Total Information Awareness](https://www.sourcewatch.org/index.php/Total_Information_Awareness)
+
+## New York Times Exposes Total Information Awareness Surveillance Program, Sparking Public Outcry
+*Date: 2002-11-09*
+
+1. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
+2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
+3. [Total Information Awareness](https://www.sourcewatch.org/index.php/Total_Information_Awareness)
+
 ## Federalist Society Provides WHIG with Crisis-Accelerated Legal Justification Infrastructure for Powell Memorandum Implementation
 *Date: 2002-11-15*
 
@@ -1987,6 +2036,20 @@
 2. [New White House Office Coordinates Global Communications](https://georgewbush-whitehouse.archives.gov/news/releases/2003/01/text/20030121-4.html)
 3. [Office of Global Communications](https://www.sourcewatch.org/index.php/Office_of_Global_Communications)
 
+## In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
+*Date: 2003-02-01*
+
+1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
+2. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
+3. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+
+## In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
+*Date: 2003-02-01*
+
+1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
+2. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
+3. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+
 ## Colin Powell Presents False WMD Evidence to UN Security Council
 *Date: 2003-02-05*
 
@@ -2029,6 +2092,20 @@
 1. [Email indicates Cheney involved in Halliburton deal in Iraq](https://www.wsws.org/en/articles/2004/06/hali-j08.html)
 2. [Whistleblower exposes $7 billion no-bid Defense Department contract](https://www.cbsnews.com/news/halliburton-whistleblower-on-exposing-7-billion-no-bid-defense-contract-2019-06-30/)
 3. [Cheney, Halliburton and the Spoils of War](https://www.corpwatch.org/article/cheney-halliburton-and-spoils-war)
+
+## Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
+*Date: 2003-05-01*
+
+1. [How Peter Thiel's Palantir Helped the NSA Spy on the Whole World](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/)
+2. [Palantir Technologies](https://en.wikipedia.org/wiki/Palantir_Technologies)
+3. [How Your Tax Dollars Built Palantir's Global Surveillance Empire](https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/)
+
+## Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
+*Date: 2003-05-01*
+
+1. [How Peter Thiel's Palantir Helped the NSA Spy on the Whole World](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/)
+2. [Palantir Technologies](https://en.wikipedia.org/wiki/Palantir_Technologies)
+3. [How Your Tax Dollars Built Palantir's Global Surveillance Empire](https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/)
 
 ## Powell-WHIG Template Establishes Crisis-Accelerated Institutional Capture Blueprint for Ongoing Democratic Transformation
 *Date: 2003-05-01*
@@ -2102,6 +2179,26 @@
 1. [CPA Order 39: Foreign Investment](https://en.wikisource.org/wiki/Coalition_Provisional_Authority_Order_39)
 2. [Rebuilding Iraq: Resource, Security, Governance, Essential Services](https://www.gao.gov/products/gao-04-902r)
 3. [State Rebuilding in Reverse](https://merip.org/2004/12/state-rebuilding-in-reverse/)
+
+## Congress Officially Defunds Total Information Awareness Program
+*Date: 2003-09-24*
+
+1. [Terrorism Information Awareness (TIA) Terminated](https://sgp.fas.org/congress/2003/tia.html)
+2. [Congress funds Defense, kills Terrorism Information Awareness](https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/)
+3. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
+
+## Congress Officially Defunds Total Information Awareness Program
+*Date: 2003-09-24*
+
+1. [Terrorism Information Awareness (TIA) Terminated](https://sgp.fas.org/congress/2003/tia.html)
+2. [Congress funds Defense, kills Terrorism Information Awareness](https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/)
+3. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
+
+## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
+*Date: 2003-10-01*
+
+1. [4chan](https://en.wikipedia.org/wiki/4chan)
+2. [Moot: the 4chan founder who sparked Anonymous](https://www.theguardian.com/technology/2015/jan/21/moot-christopher-poole-4chan)
 
 ## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
 *Date: 2003-10-01*
@@ -2222,6 +2319,20 @@
 2. [Exodus at CIA Amid Allegations of Political Pressure](https://www.nytimes.com/2004/11/16/politics/exodus-at-cia-amid-allegations-of-political-pressure.html)
 3. [Bush's CIA Chief Purges Agency Critics](https://www.theguardian.com/world/2004/nov/16/usa.politics)
 
+## Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
+*Date: 2004-10-27*
+
+1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+3. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
+
+## Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
+*Date: 2004-10-27*
+
+1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+3. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
+
 ## Diebold Voting Machine Irregularities in Ohio 2004 Presidential Election
 *Date: 2004-11-02*
 
@@ -2244,6 +2355,18 @@
 1. [The facts and timeline of Trump and Epstein's falling out](https://www.pbs.org/newshour/politics/the-facts-and-timeline-of-trump-and-epsteins-falling-out)
 2. [Jeffrey Epstein Battled Donald Trump for Palm Beach Mansion He Sold to Russian Oligarch](https://www.esquire.com/news-politics/politics/a28580523/jeffrey-epstein-donald-trump-palm-beach-mansion-russian-oligarch/)
 3. [Remembering the auction that pitted Trump against Jeffrey Epstein for a Palm Beach estate](https://www.yahoo.com/news/remembering-auction-pitted-trump-against-193353746.html)
+
+## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
+*Date: 2005-01-01*
+
+1. [Palantir's Growth Story: How the Magic of Data Analysis Is Changing the World](https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+
+## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
+*Date: 2005-01-01*
+
+1. [Palantir's Growth Story: How the Magic of Data Analysis Is Changing the World](https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
 ## Armstrong Williams Paid 40K for Illegal Government Propaganda
 *Date: 2005-01-07*
@@ -2360,6 +2483,18 @@
 4. [Report on the President's Surveillance Program](https://oig.justice.gov/sites/default/files/archive/special/s0907.pdf)
 5. [Bush Acknowledges Approving U.S. Surveillance](https://www.washingtonpost.com/wp-dyn/content/article/2005/12/17/AR2005121700005.html)
 
+## Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
+*Date: 2006-01-01*
+
+1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
+2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
+
+## Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
+*Date: 2006-01-01*
+
+1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
+2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
+
 ## Jack Abramoff Pleads Guilty in 5M Corruption Scandal
 *Date: 2006-01-03*
 
@@ -2424,6 +2559,32 @@
 1. [An Investigation into the Removal of Nine U.S. Attorneys in 2006](https://oig.justice.gov/sites/default/files/archive/special/s0809a/final.pdf)
 2. [Timeline: Behind the Firing of Eight U.S. Attorneys](https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys)
 3. [Gonzales Resigns as Attorney General](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html)
+
+## Cellebrite Launches Universal Forensic Extraction Device (UFED) for Law Enforcement
+*Date: 2007-01-01*
+
+1. [Revolutionizing Digital Forensics with Modern Technology](https://cellebrite.com/en/the-solution-that-changed-modern-digital-investigations-forever/)
+2. [Cellebrite UFED - Wikipedia](https://en.wikipedia.org/wiki/Cellebrite_UFED)
+3. [Cellebrite UFED Device Overview and Working Process](https://www.cybersics.com/blog/cellebrite-ufed-device/)
+
+## Palantir Begins Rapid Expansion Across U.S. Government Agencies
+*Date: 2007-01-01*
+
+1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
+2. [The seer and the seen: Surveying Palantir's surveillance platform](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851)
+
+## Palantir Begins Rapid Expansion Across U.S. Government Agencies
+*Date: 2007-01-01*
+
+1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
+2. [The seer and the seen: Surveying Palantir's surveillance platform](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851)
+
+## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
+*Date: 2007-03-01*
+
+1. [Email from 2007 ties Trump adviser Stephen Miller to neo-Nazi Richard Spencer](https://electronicintifada.net/blogs/michael-f-brown/email-2007-ties-trump-adviser-stephen-miller-neo-nazi-richard-spencer)
+2. [Richard Spencer on Stephen Miller: Clearly I Was Influencing Him in College](https://www.peoplefor.org/rightwingwatch/post/richard-spencer-on-stephen-miller-clearly-i-was-influencing-him-in-college)
+3. [The White Nationalist Education of Stephen Miller](https://gen.medium.com/the-white-nationalist-education-of-stephen-miller-3d69f5f19964)
 
 ## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
 *Date: 2007-03-01*
@@ -2511,6 +2672,20 @@
 2. [Investigation into the Non-Prosecution Agreement with Jeffrey Epstein (Report)](https://www.justice.gov/opr/page/file/1336471/dl)
 3. [Perversion of Justice: Jeffrey Epstein (topic hub)](https://www.miamiherald.com/topics/jeffrey-epstein)
 4. [Jeffrey Epstein 'Belonged to Intelligence'? (analysis of the claim)](https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/)
+
+## Palantir Gotham Platform Released for Intelligence and Defense Applications
+*Date: 2008-01-01*
+
+1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
+2. [The History of Palantir Technologies: From Visionary Beginnings to a Global Data Powerhouse](https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse)
+3. [Palantir's Relationship With The Intelligence Community Has Been Worse Than You'd Think](https://www.buzzfeednews.com/article/williamalden/palantirs-relationship-with-americas-spies)
+
+## Palantir Gotham Platform Released for Intelligence and Defense Applications
+*Date: 2008-01-01*
+
+1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
+2. [The History of Palantir Technologies: From Visionary Beginnings to a Global Data Powerhouse](https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse)
+3. [Palantir's Relationship With The Intelligence Community Has Been Worse Than You'd Think](https://www.buzzfeednews.com/article/williamalden/palantirs-relationship-with-americas-spies)
 
 ## Shell companies spend $890M on Trump condos during financial crisis
 *Date: 2008-01-01*
@@ -2642,6 +2817,25 @@
 2. [Icahn Agrees to Buy Debt of Trump's Casino Company](https://www.cnbc.com/2009/12/11/icahn-agrees-to-buy-debt-of-trumps-casino-company.html)
 3. [Icahn Buys Bankrupt Trump Casino's Debt From Beal](https://www.law360.com/articles/138880/icahn-buys-bankrupt-trump-casino-s-debt-from-beal)
 
+## Dataminr Founded to Provide Real-Time Social Media Surveillance, Later Backed by CIA Venture Capital
+*Date: 2009-01-01*
+
+1. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
+2. [Dataminr - Wikipedia](https://en.wikipedia.org/wiki/Dataminr)
+3. [Why Twitter chose to do battle with the CIA](https://www.cnbc.com/2016/05/13/why-twitter-chose-to-do-battle-with-the-cia.html)
+
+## LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance
+*Date: 2009-01-01*
+
+1. [Enter the Dragnet](https://logicmag.io/commons/enter-the-dragnet/)
+2. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
+
+## LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance
+*Date: 2009-01-01*
+
+1. [Enter the Dragnet](https://logicmag.io/commons/enter-the-dragnet/)
+2. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
+
 ## Harlan Crow Begins Paying Private School Tuition for Thomas's Grandnephew
 *Date: 2009-01-01*
 
@@ -2738,6 +2932,20 @@
 2. [White House confirms deal with pharma](https://www.nytimes.com/2009/08/06/health/policy/06drug.html)
 3. [The $80 Billion Drug Deal That Haunts Obama's Legacy](https://www.politico.com/story/2016/07/obamacare-prescription-drugs-pharma-225444)
 
+## In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
+*Date: 2009-07-01*
+
+1. [Recorded Future](https://en.wikipedia.org/wiki/Recorded_Future)
+2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
+3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
+
+## In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
+*Date: 2009-07-01*
+
+1. [Recorded Future](https://en.wikipedia.org/wiki/Recorded_Future)
+2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
+3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
+
 ## 9/12 Taxpayer March on Washington Demonstrates Koch Network Mobilization Power
 *Date: 2009-09-12*
 
@@ -2758,6 +2966,25 @@
 1. [Merck Hires Ex-CDC Chief Gerberding To Run Vaccines Unit](https://www.npr.org/sections/health-shots/2009/12/merck_hires_gerberding_to_run.html)
 2. [Merck Names Julie Gerberding President of Vaccine Division](https://kffhealthnews.org/morning-breakout/gh-122209-merck/)
 3. [Former CDC Director Julie Gerberding Joins Merck Vaccine Leadership](https://www.reuters.com/article/merck-gerberding-cdc/former-cdc-director-julie-gerberding-joins-merck-vaccine-leadership-2009-12)
+
+## NSO Group Founded in Israel to Develop Pegasus Spyware
+*Date: 2010-01-01*
+
+1. [NSO Group - Wikipedia](https://en.wikipedia.org/wiki/NSO_Group)
+2. [The rise and fall of NSO Group](https://forbiddenstories.org/the-rise-and-fall-of-nso-group/)
+3. [Who are NSO Group, the company being sued by Apple?](https://cybermagazine.com/cyber-security/who-are-nso-group-company-being-sued-apple)
+
+## NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
+*Date: 2010-01-01*
+
+1. [Private Donors Supply Spy Gear to Cops](https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops)
+2. [How Palantir Is Taking Over New York City](https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085)
+
+## NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
+*Date: 2010-01-01*
+
+1. [Private Donors Supply Spy Gear to Cops](https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops)
+2. [How Palantir Is Taking Over New York City](https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085)
 
 ## Trump SoHo money laundering operation - 77% shell company sales
 *Date: 2010-01-01*
@@ -2852,6 +3079,16 @@
 
 1. [Wells Fargo SEC Filing](https://www.sec.gov/Archives/edgar/data/72971/000119312510059552/ddef14a.htm)
 
+## Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
+*Date: 2010-06-18*
+
+1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
+
+## Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
+*Date: 2010-06-18*
+
+1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
+
 ## DISCLOSE Act Passes House But GOP Blocks Senate Vote on Citizens United Response
 *Date: 2010-06-24*
 
@@ -2898,12 +3135,26 @@
 2. [Could Pam Bondi have prosecuted Jeffrey Epstein?](https://www.yahoo.com/news/could-pam-bondi-prosecuted-jeffrey-120200807.html)
 3. [Julie K. Brown statement on Bondi and Epstein](https://x.com/jkbjournalist/status/1895138335099658275)
 
+## Pam Bondi Serves as Florida AG 2011-2019, Never Prosecutes Epstein Despite Mounting Evidence
+*Date: 2011-01-01*
+
+1. [Bondi Has Been Failing Epstein's Victims for Years](https://www.bloomberg.com/opinion/articles/2025-07-27/bondi-has-been-failing-epstein-s-victims-for-years)
+2. [Could Pam Bondi have prosecuted Jeffrey Epstein?](https://www.yahoo.com/news/could-pam-bondi-prosecuted-jeffrey-120200807.html)
+3. [Julie K. Brown statement on Bondi and Epstein](https://x.com/jkbjournalist/status/1895138335099658275)
+
 ## Erik Prince Receives $529M Contract to Build Secret Mercenary Army for UAE Crown Prince
 *Date: 2011-01-01*
 
 1. [Secret Desert Force Set Up by Blackwater's Founder](https://www.nytimes.com/2011/05/15/world/middleeast/15prince.html)
 2. [Two American billionaires and their shady deals with Israeli intelligence](https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819)
 3. [Fortune Favors the Desert Sons - UAE Mercenaries in Yemen and Libya](https://greydynamics.com/fortune-favors-the-desert-sons-uae-mercenaries-in-yemen-and-libya/)
+
+## Geofeedia Founded to Enable Location-Based Social Media Surveillance
+*Date: 2011-01-01*
+
+1. [You are being followed - The business of social media surveillance](https://littlesis.org/news/you-are-being-followed-the-business-of-social-media-surveillance/)
+2. [CIA-Backed Firm Touted Social Media Surveillance Of Students To Sell Services To Evanston Police](https://shadowproof.com/2018/09/10/cia-backed-firm-touted-social-media-surveillance-of-students-to-sell-services-to-evanston-police/)
+3. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
 
 ## J.D. Vance Meets Peter Thiel at Yale Law School, Beginning Political Pipeline
 *Date: 2011-01-01*
@@ -2954,6 +3205,13 @@
 2. [Outgoing FCC Commissioner To Lobby For Comcast](https://www.npr.org/2011/05/12/136250400/for-government-employees-revolving-door-continues)
 3. [The FCC's Revolving Door: From Regulator to Corporate Lobbyist](https://reason.com/2011/05/11/revolving-door-alert-fcc-commi/)
 
+## LAPD Launches Operation LASER Predictive Policing Program with Palantir
+*Date: 2011-09-01*
+
+1. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
+2. [The Los Angeles Smart Policing Initiative - Reducing Gun-Related Violence](https://bja.ojp.gov/sites/g/files/xyckuh186/files/media/document/losangelesspi.pdf)
+3. [Scars, Tattoos, And License Plates - This Is What Palantir And The LAPD Know About You](https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd)
+
 ## GAO Audit Reveals Massive $16.1 Trillion in Secret Federal Reserve Crisis Loans
 *Date: 2011-12-01*
 
@@ -2974,6 +3232,12 @@
 1. [The Koch Brothers' Political Network Spent $400 Million in 2012](https://www.motherjones.com/politics/2013/02/koch-brothers-400-million-2012-election/)
 2. [How Dark Money Flows Through the Koch Network](https://projects.propublica.org/graphics/koch)
 3. [Koch Network 2012 Election Spending Breakdown](https://www.opensecrets.org/news/2013/02/koch-network-2012-election-spending)
+
+## PredPol Predictive Policing Company Founded
+*Date: 2012-01-15*
+
+1. [Predictive policing substantially reduces crime in Los Angeles during months-long test](https://newsroom.ucla.edu/releases/predictive-policing-substantially-reduces-crime-in-los-angeles-during-months-long-test)
+2. [PredPol](https://en.wikipedia.org/wiki/PredPol)
 
 ## 25 Billion Mortgage Settlement Provides Banks Immunity for Minimal Payments
 *Date: 2012-02-09*
@@ -3026,6 +3290,13 @@
 1. [cnbc.com](https://www.cnbc.com/2012/12/17/morgan-stanley-fined-5-million-over-facebook-ipo.html)
 2. [money.cnn.com](https://money.cnn.com/2012/05/23/technology/facebook-ipo-what-went-wrong/index.htm)
 3. [hbsslaw.com](https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard)
+
+## New Orleans Police Launch Secret Palantir Predictive Policing Program
+*Date: 2012-06-01*
+
+1. [Did Palantir Secretly Use New Orleans to Test Predictive Policing?](https://www.typeinvestigations.org/investigation/2018/02/27/palantir-secretly-use-new-orleans-test-predictive-policing/)
+2. [New Orleans Program Offers Lessons In Pitfalls Of Predictive Policing](https://www.aclu.org/news/privacy-technology/new-orleans-program-offers-lessons-pitfalls-predictive-policing)
+3. [Palantir's secretive predictive policing programme in New Orleans](https://privacyinternational.org/examples/1975/palantirs-secretive-predictive-policing-programme-new-orleans)
 
 ## BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal Settlement
 *Date: 2012-11-15*
@@ -3085,6 +3356,12 @@
 1. [Facebook-Cambridge Analytica Data Scandal](https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal)
 2. [Cambridge Analytica Timeline](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
 3. [Aleksandr Kogan: The Link Between Cambridge Analytica and the Facebook Data Breach](https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/)
+
+## Elliptic Founded as First Cryptocurrency Anti-Money Laundering Firm
+*Date: 2013-06-01*
+
+1. [Elliptic (company)](https://en.wikipedia.org/wiki/Elliptic_(company))
+2. [Elliptic Company Profile](https://www.cbinsights.com/company/elliptic)
 
 ## Aleksandr Kogan creates 'This Is Your Digital Life' Facebook app; data later used by Cambridge Analytica
 *Date: 2013-06-01*
@@ -3153,6 +3430,13 @@
 3. [How AT&T helped build far‑right One America News](https://www.euronews.com/2021/10/07/usa-oneamerica-at-t-specialreport)
 4. [The tech entrepreneur who founded Trump's go‑to TV network](https://www.reuters.com/investigates/special-report/usa-oneamerica-founder/)
 
+## Chicago Police Launch Strategic Subject List "Heat List" Predictive Policing Program
+*Date: 2013-08-01*
+
+1. [Chicago's Strategic Subject List, a.k.a. Heat List](https://teamupturn.gitbooks.io/predictive-policing/content/systems/chicago.html)
+2. [CPD's 'Heat List' and the Dilemma of Predictive Policing](https://www.rand.org/blog/2016/09/cpds-heat-list-and-the-dilemma-of-predictive-policing.html)
+3. [The Contradictions of Chicago Police's Secretive List](https://www.chicagomag.com/city-life/August-2017/Chicago-Police-Strategic-Subject-List/)
+
 ## FAA Safety Official Ali Bahrami Leaves for Aerospace Industries Association During Boeing 737 MAX Development
 *Date: 2013-08-01*
 
@@ -3219,6 +3503,13 @@
 2. [A warrior goes to China - Did Erik Prince cross a line?](https://www.washingtonpost.com/news/world/wp/2018/05/04/feature/a-warrior-goes-to-china-did-erik-prince-cross-a-line/)
 3. [China Business Ventures Tied To Blackwater Founder Erik Prince Raise Questions](https://www.npr.org/2019/02/04/691394262/china-business-ventures-tied-to-blackwater-founder-erik-prince-raise-questions)
 4. [Frontier Services Group is Funded By the People's Republic of China](https://balloon-juice.com/2020/03/07/the-really-important-fact-about-erik-prince-that-everyones-coverage-keeps-missing-his-frontier-services-group-is-funded-by-the-peoples-republic-of-china/)
+
+## Francisco Partners Acquires 70% Stake in NSO Group for $130 Million
+*Date: 2014-01-01*
+
+1. [NSO Group - Wikipedia](https://en.wikipedia.org/wiki/NSO_Group)
+2. [Francisco Partners Offloads Israeli Surveillance Company NSO](https://www.calcalistech.com/ctech/articles/0,7340,L-3756381,00.html)
+3. [What to know about the investors behind embattled spyware firm NSO Group](https://www.axios.com/2021/07/22/nso-group-spying-investors)
 
 ## Annexation of Crimea: Putin's Strategic Asset Seizure
 *Date: 2014-03-18*
@@ -3303,6 +3594,13 @@
 3. [New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny of Supreme Court ethics](https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/)
 4. [Samuel Alito disputes ProPublica report that says justice failed to disclose trip with billionaire who later had business before Supreme Court](https://www.cnn.com/2023/06/21/politics/samuel-alito-paul-singer-propublica/index.html)
 
+## Supreme Court Rules Warrantless Cell Phone Searches Unconstitutional in Riley v. California
+*Date: 2014-06-25*
+
+1. [Riley v. California | 573 U.S. 373 (2014)](https://supreme.justia.com/cases/federal/us/573/373/)
+2. [RILEY v. CALIFORNIA](https://www.law.cornell.edu/supremecourt/text/13-132)
+3. [In Riley v. California, a unanimous Supreme Court sets out Fourth Amendment for digital age](https://www.scotusblog.com/2014/06/symposium-in-riley-v-california-a-unanimous-supreme-court-sets-out-fourth-amendment-for-digital-age/)
+
 ## Facebook Emotional Contagion Experiment Revealed
 *Date: 2014-06-28*
 
@@ -3361,6 +3659,20 @@
 2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
 3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
 
+## Gamergate Begins: 4chan Harassment Campaign Becomes Political Mobilization Blueprint
+*Date: 2014-08-16*
+
+1. [Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream](https://www.buzzfeednews.com/article/josephbernstein/heres-how-breitbart-and-milo-smuggled-white-nationalism)
+2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
+3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
+
+## Chainalysis Founded to Provide Blockchain Forensics to Governments and Banks
+*Date: 2014-10-01*
+
+1. [Chainalysis - Wikipedia](https://en.wikipedia.org/wiki/Chainalysis)
+2. [The Birth of Chainalysis - Michael Gronager](https://www.chainalysis.com/blog/building-the-first-blockchain-analytics-company-ep-127/)
+3. [Chainalysis Business Breakdown & Founding Story](https://research.contrary.com/company/chainalysis)
+
 ## Model Files Federal Lawsuit Against Trump Model Management for Wage Theft
 *Date: 2014-10-01*
 
@@ -3392,6 +3704,13 @@
 4. [The Intersection of Silicon Valley, Intelligence Networks, and Jeffrey Epstein](https://www.ibtimes.com/silicon-valley-intelligence-networks-jeffrey-epstein-3658263)
 5. [Leaked Emails Reveal Epstein's Surveillance Empire Ties](https://nationalfile.com/epstein-emails-barak-thiel-surveillance-08-30-2025/)
 
+## PredPol Predictive Policing Software Adopted by 60 U.S. Police Departments
+*Date: 2015-02-01*
+
+1. [Predictive Policing Is Making Minority Report A Reality](https://dailycaller.com/2015/02/11/predictive-policing-is-making-minority-report-a-reality/)
+2. [Why Oakland Police Turned Down Predictive Policing](https://www.vice.com/en/article/minority-retort-why-oakland-police-turned-down-predictive-policing/)
+3. [PredPol](https://en.wikipedia.org/wiki/PredPol)
+
 ## Russian Agents Maria Butina and Alexander Torshin Attend NRA Annual Meeting, Meet Federal Reserve Vice Chairman
 *Date: 2015-04-08*
 
@@ -3413,6 +3732,18 @@
 3. [Trump trial hears testimony from David Pecker about "catch and kill" scheme](https://www.cbsnews.com/amp/live-updates/trump-trial-new-york-first-witness-david-pecker/)
 4. [Hidden world of 'catch-and-kill' tabloids spotlighted in Trump's hush money trial](https://abcnews.go.com/US/hidden-world-catch-kill-tabloids-spotlighted-trumps-hush/story?id=109528512)
 5. [Inside the 3 so-called 'catch and kill' payments in Trump's indictment](https://abcnews.go.com/US/inside-3-called-catch-kill-payments-trumps-indictment/story?id=98385606)
+
+## ShotSpotter Gunshot Detection System Expands to Major U.S. Cities
+*Date: 2015-08-01*
+
+1. [Audit Report on the NYPD's Oversight of Its Agreement with ShotSpotter Inc.](https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-police-departments-oversight-of-its-agreement-with-shotspotter-inc-for-the-gunshot-detection-and-location-system/)
+2. [Sacramento Police Department - Gunshot Detection](https://www.atlasofsurveillance.org/a/AOS007259)
+3. [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter)
+
+## Chainalysis Secures First Federal Contract with FBI for $9,000
+*Date: 2015-09-01*
+
+1. [Inside Chainalysis' Multimillion-Dollar Relationship With the US Government](https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government)
 
 ## Daily Wire launches; multiple outlets report seed funding from Farris Wilks
 *Date: 2015-09-21*
@@ -3467,6 +3798,13 @@
 3. [Why Did Deutsche Bank Keep Lending to Donald Trump?](https://www.propublica.org/article/trump-inc-podcast-deutsche-bank-donald-trump)
 4. [How Russian Money Boosted Trump's Business Empire](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/)
 
+## Grayshift Founded in Atlanta to Develop GrayKey iPhone Unlocking Technology
+*Date: 2016-01-01*
+
+1. [Grayshift - Wikipedia](https://en.wikipedia.org/wiki/Grayshift)
+2. [GrayKey iPhone unlocker poses serious security concerns](https://www.malwarebytes.com/blog/news/2018/03/graykey-iphone-unlocker-poses-serious-security-concerns)
+3. [Grayshift - 2025 Company Profile](https://tracxn.com/d/companies/grayshift/__LflU_b0S0eXja4FHNvKnyQwJcKy-kovxF-2dljSlCds)
+
 ## J.D. Vance Joins Peter Thiel's Mithril Capital as Principal
 *Date: 2016-01-01*
 
@@ -3474,6 +3812,14 @@
 2. [Hillbilly Elegy author joins Thiel's VC firm](https://techcrunch.com/2016/12/19/jd-vance-mithril-capital/)
 3. [J.D. Vance's Recruitment at Mithril Capital Revealed](https://finance.yahoo.com/news/peter-thiel-launched-j-d-131520343.html)
 4. [J.D. Vance's Short Career in Venture Capital](https://www.axios.com/2024/07/16/jd-vance-venture-capital-career)
+
+## FBI Works with Cellebrite to Crack San Bernardino Shooter's iPhone After Apple Refuses
+*Date: 2016-03-01*
+
+1. [FBI Worked With Israel's Cellebrite to Crack iPhone](https://www.bloomberg.com/news/articles/2016-03-30/fbi-said-to-work-with-israel-s-cellebrite-to-crack-iphone)
+2. [The FBI is working with Cellebrite to unlock San Bernardino iPhone, reports say](https://techcrunch.com/2016/03/23/fbi-is-working-with-cellebrite-to-unlock-san-bernardino-iphone-reports-say/)
+3. [Apple–FBI encryption dispute](https://en.wikipedia.org/wiki/Apple–FBI_encryption_dispute)
+4. [Firm that unlocked San Bernardino shooter's iPhone for FBI is revealed](https://appleinsider.com/articles/21/04/14/firm-that-unlocked-san-bernardino-shooters-iphone-for-fbi-is-revealed)
 
 ## Trump Model Management Lawsuit Dismissed on Technicality Despite Evidence
 *Date: 2016-03-01*
@@ -3557,6 +3903,13 @@
 2. [Stone and Caputo met with Russian national during campaign](https://www.cnn.com/2018/06/17/politics/roger-stone-michael-caputo-russian-national)
 3. [Roger Stone's meeting with Russian offering Clinton dirt](https://www.nbcnews.com/politics/donald-trump/roger-stone-michael-caputo-russian-henry-greenberg)
 
+## Twitter Blocks Intelligence Agencies from Using Dataminr for Social Media Surveillance
+*Date: 2016-05-09*
+
+1. [Twitter cuts off intelligence agencies from data feed](https://money.cnn.com/2016/05/09/technology/twitter-dataminr-intelligence-agencies/)
+2. [Dataminr was in an unpaid pilot with intel agencies when Twitter ended the deal](https://techcrunch.com/2016/05/09/dataminr-was-in-an-unpaid-pilot-with-intel-agencies-when-twitter-ended-the-deal/)
+3. [Why Twitter chose to do battle with the CIA](https://www.cnbc.com/2016/05/13/why-twitter-chose-to-do-battle-with-the-cia.html)
+
 ## Trump Promises All Supreme Court Picks Will Come From Federalist Society
 *Date: 2016-05-18*
 
@@ -3639,6 +3992,13 @@
 3. [U.S. says Russia was given Trump campaign polling data in 2016](https://www.pbs.org/newshour/politics/u-s-says-russia-was-given-trump-campaign-polling-data-in-2016)
 4. [Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With Russia](https://www.npr.org/2020/08/18/903512647/senate-report-former-trump-aide-paul-manafort-shared-campaign-info-with-russia)
 
+## UAE Targets Human Rights Defender Ahmed Mansoor with NSO Pegasus Spyware
+*Date: 2016-08-10*
+
+1. [The Million Dollar Dissident: NSO Group iPhone Zero-Days used against a UAE Human Rights Defender](https://citizenlab.ca/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/)
+2. [Meet NSO Group: a go-to company for human rights abusers](https://www.amnesty.org/en/latest/news/2018/08/is-nso-group-a-goto-company-for-human-rights-abusers/)
+3. [Ahmed Mansoor targeted by UAE government hacking](https://www.adhrb.org/2016/09/ahmed-mansoor-targeted-hacking-uae/)
+
 ## Stone tweets "Podesta's time in the barrel" 47 days before WikiLeaks
 *Date: 2016-08-21*
 
@@ -3667,6 +4027,13 @@
 1. [Carl Icahn Wants Taxpayer Money to Demolish President Trump's Failed Atlantic City Casino](https://fortune.com/2017/11/28/carl-icahn-wants-taxpayer-money-to-demolish-president-trumps-failed-atlantic-city-casino/)
 2. [Trump Taj Mahal casino closing; Carl Icahn says he lost $100M](https://www.cnbc.com/2016/08/04/taj-mahal-casino-closing-carl-icahn-says-he-lost-100m.html)
 3. [Carl Icahn to close down Atlantic City's Trump Taj Mahal](https://www.upi.com/Business_News/2016/08/04/Carl-Icahn-to-close-down-Atlantic-Citys-Trump-Taj-Mahal/2881470317554)
+
+## ACLU Exposes Geofeedia's Surveillance of Black Lives Matter Protests Through Social Media Platforms
+*Date: 2016-10-11*
+
+1. [Facebook, Instagram, and Twitter Provided Data Access for a Surveillance Product Marketed to Target Activists of Color](https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target)
+2. [Facebook, Twitter cut off data access for Geofeedia, a social media surveillance startup](https://techcrunch.com/2016/10/11/facebook-twitter-cut-off-data-access-for-geofeedia-a-social-media-surveillance-startup/)
+3. [Facebook, Twitter, Instagram Block Geofeedia Tool Used for Police Surveillance](https://www.nbcnews.com/tech/internet/facebook-twitter-instagram-block-geofeedia-tool-used-police-surveillance-n664706)
 
 ## Cohen Creates Essential Consultants LLC for Stormy Daniels Payment
 *Date: 2016-10-17*
@@ -3706,6 +4073,19 @@
 2. [Jared Kushner's meeting with Russian banker: What we know](https://www.cnn.com/2017/06/02/politics/jared-kushner-russian-banker-what-we-know/index.html)
 3. [Explanations for Kushner's meeting with head of Kremlin-linked bank don't match up](https://www.washingtonpost.com/politics/explanations-for-kushners-meeting-with-head-of-kremlin-linked-bank-dont-match-up/2017/06/01/dd1bdbb0-460a-11e7-bcde-624ad94170ab_story.html)
 4. [Why Did Russia Send Sergei Gorkov to Meet With Jared Kushner?](https://foreignpolicy.com/2017/07/25/why-did-russia-send-sergei-gorkov-to-meet-with-jared-kushner/)
+
+## Hacker Steals 900 GB of Data from Cellebrite, Exposing Customer Information and Technical Details
+*Date: 2017-01-01*
+
+1. [900GB Of Data Stolen From Phone Hacker Cellebrite](https://www.silicon.co.uk/security/data-stolen-phone-hacker-cellebrite-203092)
+2. [Hacker Steals 900 GB of Cellebrite Data](https://yro.slashdot.org/story/17/01/12/1750224/hacker-steals-900-gb-of-cellebrite-data)
+3. [Cellebrite's Stolen Mobile Phone Hacking Tools Released Publicly](https://westoahu.hawaii.edu/cyber/regional/gce-us-news/stolen-mobile-phone-hacking-tools-released-publicly/)
+
+## Clearview AI Founded to Build Mass Facial Recognition Database
+*Date: 2017-01-01*
+
+1. [Clearview AI - Wikipedia](https://en.wikipedia.org/wiki/Clearview_AI)
+2. [Clearview AI: A Powerful Yet Perilous Facial Recognition Technology Company](https://medium.com/@davidsehyeonbaek/clearview-ai-a-powerful-yet-perilous-facial-recognition-technology-company-36ca465ee5eb)
 
 ## Cytrox Established in North Macedonia as NSO Competitor
 *Date: 2017-01-01*
@@ -3773,6 +4153,14 @@
 7. [The Moscow Times](The Moscow Times)
 8. [Kyiv Independent](Kyiv Independent)
 
+## Intelligence Community Assessment Concludes Putin Ordered Campaign to Influence 2016 Election
+*Date: 2017-01-06*
+
+1. [Background to "Assessing Russian Activities and Intentions in Recent US Elections" - Intelligence Community Assessment](https://www.dni.gov/files/documents/ICA_2016_Election.pdf)
+2. [Committee Findings on the 2017 Intelligence Community Assessment](https://www.intelligence.senate.gov/publications/committee-findings-2017-intelligence-community-assessment)
+3. [Assessing Russian Activities and Intentions in Recent Elections - Statement](https://www.fbi.gov/news/speeches-and-testimony/assessing-russian-activities-and-intentions-in-recent-elections)
+4. [Bipartisan Senate Intel report backs intelligence assessment of 2016 Russian interference](https://www.cbsnews.com/news/senate-intelligence-committee-report-2016-russian-interference-assessment/)
+
 ## Rex Tillerson Confirmation Hearing Reveals ExxonMobil-Russia Conflicts and Sanctions Violations
 *Date: 2017-01-11*
 
@@ -3834,6 +4222,13 @@
 1. [Mar-a-Lago membership fee doubles to $400,000](https://www.cnbc.com/2017/01/25/mar-a-lago-membership-fee-doubles-to-400000.html)
 2. [The Swamp That Trump Built at Mar-a-Lago](https://www.nytimes.com/2019/03/16/us/mar-a-lago-trump.html)
 3. [Chinese woman with malware arrested at Mar-a-Lago](https://www.bbc.com/news/world-us-canada-47787753)
+
+## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
+*Date: 2017-01-27*
+
+1. [Two Courts Find That, Yes, It Was a Muslim Ban All Along](https://www.aclu.org/news/immigrants-rights/two-courts-find-yes-it-was-muslim-ban-all-along)
+2. [Stephen Miller: A driving force behind the Muslim ban and family separation policy](https://www.splcenter.org/hatewatch/2019/02/25/stephen-miller-driving-force-behind-muslim-ban-and-family-separation-policy)
+3. [Executive Order 13769](https://en.wikipedia.org/wiki/Executive_Order_13769)
 
 ## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
 *Date: 2017-01-27*
@@ -3940,6 +4335,13 @@
 
 1. [Michael Flynn's firing: A lie, a leak, and then a liability](https://www.nbcnews.com/specials/michael-flynn-firing-lie-leak-liability/)
 2. [View From Russia: National Security Adviser Michael Flynn Resigns](https://www.npr.org/2017/02/14/515138526/the-view-from-russia-national-security-adviser-michael-flynn-resigns)
+
+## Trump Asks Comey to "Let Flynn Go" in Private Oval Office Meeting
+*Date: 2017-02-14*
+
+1. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume II, Pages 39-48](https://www.justice.gov/storage/report.pdf)
+2. [Statement for the Record - James B. Comey, Former Director of the Federal Bureau of Investigation](https://www.intelligence.senate.gov/sites/default/files/documents/os-jcomey-060817.pdf)
+3. [James Comey's Memos About Donald Trump](https://www.documentcloud.org/documents/3726408-Comey-memos.html)
 
 ## Cofer Black, Former Blackwater Vice Chairman and CIA Counterterrorism Chief, Joins Burisma Board
 *Date: 2017-02-15*
@@ -4048,6 +4450,18 @@
 2. [https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/](https://www.scientificamerican.com/article/trump-epa-announces-climate-regulation-rollback-but-faces-legal-hurdles/)
 3. [https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation](https://www.pbs.org/newshour/nation/trump-administration-moves-to-repeal-epa-rule-that-allows-climate-regulation)
 
+## Palmer Luckey Leaves Facebook After Political Donation Controversy
+*Date: 2017-03-30*
+
+1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
+2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
+
+## Palmer Luckey Leaves Facebook After Political Donation Controversy
+*Date: 2017-03-30*
+
+1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
+2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
+
 ## Steve Bannon Removed from National Security Council After Unprecedented Political Appointment Sparked Bipartisan Outrage
 *Date: 2017-04-05*
 
@@ -4068,6 +4482,13 @@
 1. [Trump Orders Syria Airstrikes After 'Assad Choked Out The Lives' Of Civilians](https://www.npr.org/2017/04/06/522948481/u-s-launches-airstrikes-against-syria-after-chemical-attack)
 2. [Trump: Why I launched a missile Strike on Syria](https://www.nbcnews.com/politics/white-house/trump-why-i-launched-missile-attack-syria-n743656)
 3. [U.S. fires missiles into Syria in first attack on Assad regime](https://www.pbs.org/newshour/world/u-s-fires-missiles-syria-first-attack-assad-regime)
+
+## Taser International Rebrands as Axon, Offers Free Body Cameras to Every US Police Officer in Aggressive Market Expansion
+*Date: 2017-04-07*
+
+1. [We're More Than Stun Guns, Says Taser As It Changes Company Name](https://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name)
+2. [Taser rebrands as Axon and offers free body cameras to any police department](https://techcrunch.com/2017/04/05/taser-rebrands-as-axon-and-offers-free-body-cameras-to-any-police-department/)
+3. [Our Future as Axon](https://www.axon.com/news/our-future-as-axon)
 
 ## Trump Model Management Shuts Down Amid Federal Investigations
 *Date: 2017-04-08*
@@ -4161,12 +4582,45 @@
 2. [KC Fed has revoked Reserve Trust's master account, Toomey says](https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/)
 3. [Tester says he's reviewing Fed nominee Raskin as Senate Banking approaches vote](https://rollcall.com/2022/02/11/tester-says-hes-reviewing-fed-nominee-raskin-as-senate-banking-approaches-vote/)
 
+## Anduril Industries Founded by Palmer Luckey and Former Palantir Executives
+*Date: 2017-06-16*
+
+1. [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
+2. [Report: Anduril Industries Business Breakdown & Founding Story](https://research.contrary.com/company/anduril)
+
+## Anduril Industries Founded by Palmer Luckey and Former Palantir Executives
+*Date: 2017-06-16*
+
+1. [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
+2. [Report: Anduril Industries Business Breakdown & Founding Story](https://research.contrary.com/company/anduril)
+
 ## Trump Orders McGahn to Fire Mueller, Triggering Potential "Saturday Night Massacre"
 *Date: 2017-06-17*
 
 1. [Mueller Report Volume II: Attempts to Remove the Special Counsel](https://www.justice.gov/archives/sco/file/1373816/download)
 2. [Trump Ordered Mueller Fired, but Backed Off When White House Counsel Threatened to Quit](https://www.nytimes.com/2018/01/25/us/politics/trump-mueller-special-counsel-russia.html)
 3. [McGahn told Mueller that Trump asked him to fire special counsel](https://www.washingtonpost.com/politics/mcgahn-told-mueller-that-trump-asked-him-to-fire-special-counsel/2019/04/25/7b4f5b50-67a4-11e9-a1b6-b29b90efa879_story.html)
+
+## Citizen Lab Exposes Mexican Government Targeting of Journalists and Activists with Pegasus
+*Date: 2017-06-19*
+
+1. [Reckless Exploit: Mexican Journalists, Lawyers, and a Child Targeted with NSO Spyware](https://citizenlab.ca/2017/06/reckless-exploit-mexico-nso/)
+2. [Mexico's Government Is Accused Of Targeting Journalists And Activists With Spyware](https://www.npr.org/sections/parallels/2017/06/20/533682738/mexicos-government-is-accused-of-targeting-journalists-and-activists-with-spywar)
+3. [Mexico: Govt. allegedly uses NSO Group anti-terrorist software to spy on journalists, activists](https://www.business-humanrights.org/en/latest-news/mexico-govt-allegedly-uses-nso-groups-anti-terrorist-software-to-spy-on-journalists-activists-and-human-rights-defenders/)
+
+## Netanyahu Meets Visegrad Leaders in Budapest Before Hungary and Poland Purchase Pegasus
+*Date: 2017-07-19*
+
+1. [Pegasus spyware: Hungary and Poland bought software after Netanyahu meeting](https://www.middleeasteye.net/news/israel-pegasus-spyware-hungary-poland-purchase-after-netanyahu-meeting)
+2. [Pegasus Scandal Hits EU from Within](https://hetq.am/en/article/150246)
+3. [How EU countries spy on their citizens](https://vsquare.org/pegasus-spyware-poland-hungary-slovakia-romania/)
+
+## Flock Safety Founded to Deploy Automated License Plate Surveillance in Neighborhoods
+*Date: 2017-08-01*
+
+1. [Early stage surveillance startup wants to put cameras in your neighborhood](https://www.mercurynews.com/2017/09/03/early-stage-this-surveillance-tartup-wants-put-cameras-your-neighborhood/)
+2. [Flock Safety Y Combinator profile](https://www.ycombinator.com/companies/flock-safety)
+3. [Flock Safety Wikipedia](https://en.wikipedia.org/wiki/Flock_Safety)
 
 ## Nick Fuentes Attends Unite the Right Rally in Charlottesville
 *Date: 2017-08-12*
@@ -4226,6 +4680,21 @@
 2. [Puerto Rico Cancels Whitefish Energy Contract](https://www.npr.org/sections/thetwo-way/2017/10/29/560683583/puerto-rico-cancels-controversial-300-million-contract-awarded-to-montana-firm)
 3. [Whitefish Energy Holdings](https://en.wikipedia.org/wiki/Whitefish_Energy)
 
+## George Papadopoulos Becomes First Trump Campaign Official to Plead Guilty in Mueller Probe
+*Date: 2017-10-05*
+
+1. [Statement of Offense - United States v. George Papadopoulos](https://www.justice.gov/archives/opa/press-release/file/1007346/download)
+2. [Summary - Papadopoulos Pleads Guilty to Making False Statements to the FBI](https://www.lawfaremedia.org/article/summary-papadopoulos-pleads-guilty-making-false-statements-fbi)
+3. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/archives/sco/file/1373816/dl)
+4. [George Papadopoulos, Former Trump Adviser, Admits Seeking 'Dirt' On Clinton, Lying To FBI](https://www.npr.org/sections/thetwo-way/2017/10/30/560816481/trumps-former-foreign-policy-advisor-pleads-guilty-to-lying-to-the-fbi)
+
+## Mueller Indicts Paul Manafort and Rick Gates on 12 Counts Including Conspiracy Against the United States
+*Date: 2017-10-30*
+
+1. [Grand Jury Indictment - United States v. Paul J. Manafort Jr. and Richard W. Gates III](https://www.justice.gov/archives/sco/file/1038391/dl)
+2. [Paul Manafort, 2 More Indicted In 1st Charges In Mueller's Russia Investigation](https://www.npr.org/2017/10/30/560786546/grand-jury-approves-first-charges-in-muellers-russia-investigation)
+3. [Paul Manafort, Rick Gates laundered more than $30 million, according to Mueller indictment](https://www.pbs.org/newshour/politics/former-trump-campaign-chair-paul-manafort-faces-new-tax-charges-in-mueller-probe)
+
 ## Accenture delivers 58 hires for $297M ICE contract
 *Date: 2017-11-01*
 
@@ -4254,6 +4723,13 @@
 1. [Paradise Papers: Secrets of the Global Elite](https://www.icij.org/investigations/paradise-papers/)
 2. [Paradise Papers Investigation](https://offshoreleaks.icij.org/investigations/paradise-papers)
 3. [Paradise Papers Reveal Offshore Accounts of World's Wealthy](https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy)
+
+## Michael Flynn Pleads Guilty to Lying to FBI About Russian Contacts
+*Date: 2017-12-01*
+
+1. [Former National Security Advisor Michael T. Flynn Pleads Guilty to Making False Statements to the FBI](https://www.justice.gov/opa/pr/former-national-security-advisor-michael-t-flynn-pleads-guilty-making-false-statements-fbi)
+2. [Statement of the Offense - United States v. Michael T. Flynn](https://www.justice.gov/file/1015126/download)
+3. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/storage/report.pdf)
 
 ## FCC Under Ajit Pai Repeals Net Neutrality in 3-2 Party-Line Vote
 *Date: 2017-12-14*
@@ -4284,6 +4760,13 @@
 2. [How Apple's Tim Cook navigated out of Trump's tariffs on China](https://www.washingtonpost.com/business/2025/04/17/apple-iphone-tariff-exemption-trump/)
 3. [Trump's tariffs won't bite Apple, illustrating Tim Cook's political sway](https://www.washingtonpost.com/technology/2018/09/18/trumps-tariffs-wont-bite-apple-illustrating-tim-cooks-political-sway/)
 4. [How Apple CEO Tim Cook Convinced Trump to Exempt Apple From Tariffs](https://www.macrumors.com/2025/04/17/tim-cook-trump-apple-tariff-exemption/)
+
+## Grayshift Secures Major Contracts with ICE, DEA, and FBI for GrayKey Technology
+*Date: 2018-01-01*
+
+1. [ICE Leads The Nation In Encryption-Cracking Expenditures](https://www.techdirt.com/2018/09/25/ice-leads-nation-encryption-cracking-expenditures/)
+2. [The DEA Says It Wants that New iPhone Unlocking Tool 'GrayKey'](https://motherboard.vice.com/en_us/article/mbxba4/graykey-grayshift-dea-iphone-hack)
+3. [Documents Prove Local Cops Have Bought Cheap iPhone Cracking Tech](https://motherboard.vice.com/en_us/article/xw5bqz/documents-prove-local-cops-have-bought-cheap-iphone-cracking-tech)
 
 ## Putin-Linked Company Receives Tariff Exemption Until Public Outcry
 *Date: 2018-01-01*
@@ -4321,6 +4804,27 @@
 5. [How the revolving door at FAA spins Boeing's way](https://www.sentinelsource.com/how-the-revolving-door-at-faa-spins-boeing-s-way/article_73ba51c8-97ed-11ef-8007-ef69f110458e.html)
 6. [How the FAA Ceded Aviation Safety Oversight to Boeing](https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing)
 
+## New York Times Reveals Trump Ordered McGahn to Fire Mueller; Trump Subsequently Demands McGahn Deny Story and Create False Record
+*Date: 2018-01-25*
+
+1. [Trump moved to fire Mueller in June, bringing White House counsel to the brink of leaving](https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html)
+2. [The 10 Events You Need To Know To Understand The Almost-Firing Of Robert Mueller](https://www.npr.org/2018/01/26/580964814/the-10-events-you-need-to-know-to-understand-the-almost-firing-of-robert-mueller)
+3. [Mueller Report Volume II - Report on Obstruction of Justice](https://www.justice.gov/archives/sco/file/1373816/dl)
+
+## Mueller Indicts 13 Russians and Internet Research Agency for Election Interference
+*Date: 2018-02-16*
+
+1. [Grand Jury Indicts Thirteen Russian Individuals and Three Russian Companies for Scheme to Interfere in the United States Political System](https://www.justice.gov/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere)
+2. [United States v. Internet Research Agency et al. - Indictment](https://www.justice.gov/file/1035477/download)
+3. [Assessing Russian Activities and Intentions in Recent US Elections (ICA 2017)](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
+
+## Amazon acquires Ring for over $1 billion, creating foundation for private surveillance network
+*Date: 2018-02-27*
+
+1. [Amazon Acquires Ring, Expanding Reach Into Home Security](https://www.npr.org/sections/thetwo-way/2018/02/27/589323712/amazon-acquires-ring-expanding-reach-into-home-security)
+2. [Amazon buys smart doorbell maker Ring for a reported $1 billion](https://www.cnbc.com/2018/02/27/amazon-buys-ring-the-smart-door-bell-maker-it-backed-through-alexa-fund.html)
+3. [Here's Why Amazon Bought a Doorbell Company](https://www.bloomberg.com/news/articles/2018-03-05/here-s-why-amazon-bought-a-doorbell-company)
+
 ## James Biden Receives $600K from Distressed Healthcare Company, Pays Joe Biden $200K Same Day
 *Date: 2018-03-01*
 
@@ -4334,6 +4838,13 @@
 1. [Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy)
 2. [Politically Connected Corporations Received More Exemptions from U.S. Tariffs on Chinese Imports, Study Finds](https://news.lehigh.edu/politically-connected-corporations-received-more-exemptions-from-us-tariffs-on-chinese-imports)
 3. [The Political Economy of Tariff Exemption Grants](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963039)
+
+## TRM Labs Founded to Provide Blockchain Intelligence to Governments and Financial Institutions
+*Date: 2018-03-01*
+
+1. [TRM Labs - Y Combinator](https://www.ycombinator.com/companies/trm-labs)
+2. [TRM Labs Company Profile](https://www.crunchbase.com/organization/trm-labs)
+3. [TRM Labs Series B Funding Announcement](https://www.businesswire.com/news/home/20221109005400/en/Leading-Blockchain-Intelligence-Company-TRM-Labs-Announces-$70-Million-Series-B-Expansion-Led-by-Thoma-Bravo)
 
 ## Major GOP Donors' Company Receives Unexplained Tariff Exemption
 *Date: 2018-03-08*
@@ -4359,6 +4870,13 @@
 3. [Cambridge Analytica scandal: Everything you need to know](https://www.cnbc.com/2018/03/21/facebook-cambridge-analytica-scandal-everything-you-need-to-know.html)
 4. [Facebook-Cambridge Analytica: A timeline of the data hijacking scandal](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
 5. ['The Great Hack': Cambridge Analytica is just the tip of the iceberg](https://www.amnesty.org/en/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/)
+
+## Fayette County, Georgia becomes first US jurisdiction to deploy Carbyne 911 surveillance system
+*Date: 2018-03-29*
+
+1. [Cutting edge for Fayette 911 will aid in locating victims](https://thecitizen.com/2018/03/29/cutting-edge-fayette-911-will-aid-locating-victims/)
+2. [Carbyne Makes History, Announces Early Adopters of Next-Gen 911 Plugin](https://www.prnewswire.com/news-releases/carbyne-makes-history-announces-early-adopters-of-next-gen-911-plugin-fayette-county-ga-and-ocean-county-nj-822828443.html)
+3. [The CIA, Mossad and "Epstein Network" are Exploiting Mass Shootings](https://www.mintpressnews.com/cia-israel-mossad-jeffrey-epstein-orwellian-nightmare/261692/)
 
 ## Sinclair Forces Anchors at Dozens of Stations to Read Identical "Fake News" Script
 *Date: 2018-03-30*
@@ -4393,6 +4911,13 @@
 2. [Mark Zuckerberg Tells Senate: Election Security Is An 'Arms Race'](https://www.npr.org/sections/thetwo-way/2018/04/10/599808766/i-m-responsible-for-what-happens-at-facebook-mark-zuckerberg-will-tell-senate)
 3. [What we learned from Zuckerberg's testimony, and what we still don't know](https://www.pbs.org/newshour/nation/what-we-learned-from-zuckerbergs-testimony-and-what-we-still-dont-know)
 
+## UAE Installs Pegasus Spyware on Khashoggi's Wife's Phone Months Before His Murder
+*Date: 2018-04-22*
+
+1. [UAE agency put Pegasus spyware on phone of Jamal Khashoggi wife months before his murder](https://www.washingtonpost.com/nation/interactive/2021/hanan-elatr-phone-pegasus/)
+2. [Pegasus Spyware Put on Phone of Khashoggi Wife: Washington Post](https://www.pbs.org/wgbh/frontline/article/pegasus-spyware-jamal-khashoggi-wife-phone-washington-post/)
+3. [UAE placed spyware on Khashoggi wife phone months before murder](https://www.middleeasteye.net/news/uae-pegasus-spyware-khashoggi-wife-phone-months-murder)
+
 ## U.S. Lifts Argentina Tariffs While Trump Seeks Trademarks
 *Date: 2018-05-01*
 
@@ -4400,6 +4925,13 @@
 2. [Trump company received new trademark from Argentina](https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-company-received-new-trademark-from-argentina/)
 3. [Is the Trump Tower Argentina back on?](https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-tower-argentina-trademarks/)
 4. [Coincidence or corruption? Trump lawyer responds to accusation White House held off Argentina tariffs for trademark reasons](https://www.worldtrademarkreview.com/article/coincidence-or-corruption-trump-lawyer-responds-accusation-white-house-held-argentina-tariffs-trademark-reasons)
+
+## Axon Acquires Main Competitor VieVu, Consolidating 80% Control of Police Body Camera Market
+*Date: 2018-05-04*
+
+1. [Axon Acquires VIEVU Camera Subsidiary from The Safariland Group](https://investor.axon.com/2018-05-04-Axon-Acquires-VIEVU-Camera-Subsidiary-from-The-Safariland-Group-and-Announces-Strategic-Long-Term-Holster-Partnership)
+2. [The Biggest Police Body Cam Company Is Buying Its Main Competitor](https://www.bloomberg.com/news/articles/2018-05-04/the-biggest-police-body-cam-company-is-buying-its-main-competitor)
+3. [Axon Enterprise Now Owns the Police Body Cam Market](https://www.fool.com/investing/2018/05/18/is-there-any-stopping-axon-enterprise-now.aspx)
 
 ## Armenian Parliament Confirms Nikol Pashinyan as Prime Minister, Completing Velvet Revolution
 *Date: 2018-05-08*
@@ -4421,6 +4953,13 @@
 1. [gppac.net](https://www.gppac.net/news/armenias-velvet-revolution-civil-society-success-peace)
 2. [fpri.org](https://www.fpri.org/article/2019/02/armenia-and-the-velvet-revolution-the-merits-and-flaws-of-a-protest-based-civil-society/)
 3. [journalofdemocracy.org](https://www.journalofdemocracy.org/articles/armenias-velvet-revolution/)
+
+## Ring launches Neighbors app creating crowdsourced surveillance network
+*Date: 2018-05-08*
+
+1. [Ring Makes Successful Neighborhood Watch Network Available to Everyone With the Launch of the Free Neighbors App](https://www.businesswire.com/news/home/20180508005836/en/Ring-Makes-Successful-Neighborhood-Watch-Network-Available-to-Everyone-With-the-Launch-of-the-Free-Neighbors-App)
+2. [Ring Launches Standalone 'Neighbors' iOS App for Crowdsourcing and Preventing Criminal Activity](https://www.macrumors.com/2018/05/08/ring-standalone-neighbors-ios-app/)
+3. [Ring Launches 'Neighborhood Watch' App as First Amazon-Backed Offering](https://securitysales.com/automation/ring-neighborhood-watch-app-amazon)
 
 ## Trump Reverses ZTE Sanctions After $500M China Loan to Trump Project
 *Date: 2018-05-13*
@@ -4458,6 +4997,12 @@
 2. [How Peter Thiel Received 2 Kremlin Invites For Meetings With Putin](https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri)
 3. [Billionaire FBI Informant Peter Thiel's Kremlin Invites](https://news.yahoo.com/billionaire-fbi-informant-peter-thiel-130944986.html)
 
+## IRS Launches Virtual Currency Compliance Campaign Using Chainalysis
+*Date: 2018-07-01*
+
+1. [Inside Chainalysis' Multimillion-Dollar Relationship With the US Government](https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government)
+2. [IRS Uses Chainalysis to Track Down Bitcoin Tax Cheats](https://cointelegraph.com/news/irs-uses-chainalysis-to-track-down-bitcoin-tax-cheats)
+
 ## EPA Chief Scott Pruitt Resigns Amid 14 Federal Investigations
 *Date: 2018-07-05*
 
@@ -4471,6 +5016,13 @@
 1. [The State of the Tech Workers Global Movement](https://networkcultures.org/blog/2023/11/16/tech-workers-global-movement/)
 2. [The Making of the Tech Worker Movement](https://logicmag.io/the-making-of-the-tech-worker-movement/full-text/)
 3. [Tech Workers Coalition Official Website](https://techworkerscoalition.org/)
+
+## Mueller Indicts 12 GRU Officers for Hacking DNC and Democratic Campaign Infrastructure
+*Date: 2018-07-13*
+
+1. [Grand Jury Indicts Twelve Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election](https://www.justice.gov/opa/pr/grand-jury-indicts-twelve-russian-intelligence-officers-hacking-offenses-related-2016)
+2. [United States v. Viktor Borisovich Netyksho et al. - Indictment](https://www.justice.gov/file/1080281/download)
+3. [Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, Volume 2](https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf)
 
 ## FBI Arrests Maria Butina for Conspiring to Act as Russian Agent to Infiltrate Conservative Organizations
 *Date: 2018-07-15*
@@ -4541,6 +5093,13 @@
 4. [Two American billionaires and their shady deals with Israeli intelligence](https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819)
 5. [Inside Jeffrey Epstein's spy industry connections](https://reason.com/2025/08/27/inside-jeffrey-epsteins-spy-industry-connections/)
 
+## Michael Cohen Pleads Guilty to Campaign Finance Violations, Implicates Trump as "Individual-1"
+*Date: 2018-08-21*
+
+1. [Michael Cohen Pleads Guilty In Manhattan Federal Court To Eight Counts, Including Criminal Tax Evasion And Campaign Finance Violations](https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax)
+2. [Michael Cohen Sentenced To 3 Years In Prison](https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison)
+3. [How Michael Cohen broke campaign finance law](https://www.pbs.org/newshour/politics/how-michael-cohen-broke-campaign-finance-law)
+
 ## Operation Faithful Patriot deploys 5,200 active-duty troops to border
 *Date: 2018-10-01*
 
@@ -4572,6 +5131,12 @@
 3. [Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators Say](https://www.npr.org/2018/11/28/671421822/lion-air-jet-was-not-airworthy-in-lead-up-to-fatal-crash-investigators-say)
 4. [Lion Air Flight 610 Investigation Summary](https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx)
 
+## Mexican Journalists Targeted with Pegasus Days After Colleague's Assassination
+*Date: 2018-11-15*
+
+1. [Reckless VI: Mexican Journalists Investigating Cartels Targeted with NSO Spyware](https://citizenlab.ca/2018/11/mexican-journalists-investigating-cartels-targeted-nso-spyware-following-assassination-colleague/)
+2. [Reckless VII: Wife of Journalist Slain in Cartel-Linked Killing Targeted with NSO Group Spyware](https://citizenlab.ca/2019/03/nso-spyware-slain-journalists-wife/)
+
 ## Georgia Purges 1.4 Million Voters Under Exact Match System
 *Date: 2018-11-27*
 
@@ -4579,12 +5144,34 @@
 2. [How Georgia's Exact-Match Law Could Affect Voters](https://www.npr.org/2018/10/13/657125819/how-georgias-exact-match-law-could-affect-voters)
 3. [Voting Rights Become a Flashpoint in Georgia Governor's Race](https://www.nytimes.com/2018/11/19/us/politics/georgia-voting-suppression.html)
 
+## Michael Cohen Pleads Guilty to Lying to Congress About Trump Tower Moscow Timeline
+*Date: 2018-11-29*
+
+1. [Michael Cohen Sentenced To 3 Years In Prison](https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison)
+2. [Criminal Information - United States v. Michael Cohen](https://www.justice.gov/archives/sco/file/1115576/download)
+3. [Michael Cohen Admits Trump Tower-Moscow Talks Continued Into 2016 Presidential Run](https://www.npr.org/2018/11/29/671864979/trump-moscow-real-estate-talks-continued-into-presidential-run-documents-show)
+4. [Michael Cohen pleads guilty to lying about Trump Tower project in Moscow](https://www.nbcnews.com/politics/politics-news/former-trump-attorney-michael-cohen-pleads-guilty-lying-congress-n941616)
+
+## NYPD Begins Secret Trial of Clearview AI Facial Recognition Technology
+*Date: 2018-12-06*
+
+1. [The NYPD used Clearview's controversial facial recognition tool](https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/)
+2. [The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI](https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use)
+
 ## Interior Secretary Ryan Zinke Resigns Facing 18 Federal Investigations
 *Date: 2018-12-15*
 
 1. [Ryan Zinke Resigns as Interior Secretary Amid Investigations](https://www.nytimes.com/2018/12/15/us/politics/ryan-zinke-interior-secretary-resigns.html)
 2. [Interior Secretary Ryan Zinke resigns amid ethics investigations](https://www.washingtonpost.com/politics/interior-secretary-ryan-zinke-resigns-amid-ethics-investigations/2018/12/15/)
 3. [Ryan Zinke's Corruption Has Finally Caught Up With Him](https://www.motherjones.com/politics/2018/12/ryan-zinke-resigns-interior-secretary-trump/)
+
+## Judge Sullivan's Harsh Questioning of Flynn at Sentencing - "Arguably You Sold Your Country Out"
+*Date: 2018-12-18*
+
+1. [Michael Flynn sentencing delayed as judge tells ex-Trump official - 'You sold your country out'](https://www.cnbc.com/2018/12/18/judge-tells-michael-flynn-you-sold-your-country-out-at-hearing.html)
+2. [Judge Lights Into Michael Flynn - 'You Sold Your Country Out'](https://rollcall.com/2018/12/18/judge-lights-into-michael-flynn-you-sold-your-country-out/)
+3. [Judge delays sentencing Flynn after rebuke - 'Arguably, you sold your country out!'](https://abcnews.go.com/beta-story-container/US/michael-flynn-trump-ally-turned-key-mueller-witness/story?id=59873492)
+4. [Judge Amy Berman Jackson To Hand Down Stone's Sentence](https://www.npr.org/2020/02/20/807665099/judge-amy-berman-jackson-to-hand-down-stones-sentence)
 
 ## ICE uses 230+ contracted detention facilities (2019); public lists undercount due to varied custody arrangements
 *Date: 2019-01-01*
@@ -4683,12 +5270,33 @@
 2. [T-Mobile spent more at Trump Hotel in Washington after news of Sprint merger](https://abcnews.go.com/Politics/mobile-spent-trump-hotel-washington-news-sprint-merger/story?id=61484069)
 3. [Antitrust Enforcement After T-Mobile and Sprint Merger](https://journals.library.columbia.edu/index.php/CBLR/announcement/view/286)
 
+## Paul Manafort Sentenced to Combined 7.5 Years in Federal Prison, Longest Mueller Investigation Sentence
+*Date: 2019-03-07*
+
+1. [Paul Manafort Sentenced To 3.5 More Years In Prison; New State Indictment Announced](https://www.npr.org/2019/03/13/702743703/paul-manafort-to-serve-total-of-more-than-7-years-following-d-c-guilty-plea)
+2. [Paul Manafort sentencing - 47-month sentence handed down from U.S. District court judge today](https://www.cbsnews.com/live-news/paul-manafort-sentencing-former-trump-campaign-chairman-in-court-live-updates-2019-03-07/)
+3. [How a Federal Judge Missed the Mark in Explaining Paul Manafort's Sentence](https://www.aclu.org/news/smart-justice/how-federal-judge-missed-mark-explaining-paul-manaforts)
+
 ## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
 *Date: 2019-03-15*
 
 1. [Christchurch shootings: 49 killed in New Zealand mosque attacks](https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead)
 2. [New Zealand Mosque Shootings Kill 49](https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html)
 3. [Platforms struggle with extremist content after shootings](https://www.npr.org/2019/08/05/748420957/facebook-youtube-twitter-say-they-are-removing-content-tied-to-el-paso-shooting)
+
+## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
+*Date: 2019-03-15*
+
+1. [Christchurch shootings: 49 killed in New Zealand mosque attacks](https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead)
+2. [New Zealand Mosque Shootings Kill 49](https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html)
+3. [Platforms struggle with extremist content after shootings](https://www.npr.org/2019/08/05/748420957/facebook-youtube-twitter-say-they-are-removing-content-tied-to-el-paso-shooting)
+
+## Attorney General Barr Releases Misleading 4-Page Summary of Mueller Report
+*Date: 2019-03-24*
+
+1. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/storage/report.pdf)
+2. [Letter from Robert S. Mueller III to Attorney General William P. Barr](https://www.documentcloud.org/documents/5984372-March-27-letter-from-Mueller-to-Barr.html)
+3. [Attorney General Barr's Summary Letter](https://www.justice.gov/opa/press-release/file/1153481/download)
 
 ## Trump Claims Absolute Immunity from Congressional Oversight
 *Date: 2019-04-09*
@@ -4717,6 +5325,13 @@
 1. [What The Mueller Report Says About The Trump Campaign's Russian Contacts](https://www.npr.org/2019/04/18/714810816/what-the-mueller-report-says-about-the-trump-campaigns-russian-contacts)
 2. [Key Findings of the Mueller Report](https://www.acslaw.org/projects/the-presidential-investigation-education-project/other-resources/key-findings-of-the-mueller-report/)
 3. [The Mueller Report Shows All the Bizarre Ways Russia Reached Out to the Trump Campaign](https://time.com/5573768/mueller-report-trump-russian-contacts/)
+
+## Mueller Report Released - 448 Pages Documenting Russian Interference and Obstruction Episodes
+*Date: 2019-04-18*
+
+1. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/storage/report.pdf)
+2. [Report on the Investigation into Russian Interference in the 2016 Presidential Election](https://www.justice.gov/opa/pr/report-investigation-russian-interference-2016-presidential-election)
+3. [Mueller Report - Analysis and Materials](https://intelligence.house.gov/mueller-report/)
 
 ## Trump Administration Claims Absolute Immunity from Congressional Oversight, Systematically Accelerating WHIG Constitutional Crisis Precedent
 *Date: 2019-04-18*
@@ -4750,6 +5365,13 @@
 1. [Russian Agent Maria Butina Sentenced To 18 Months Following Guilty Plea](https://www.npr.org/2019/04/26/716799929/russian-agent-maria-butina-to-be-sentenced-in-federal-court-on-friday)
 2. [Russian National Sentenced to 18 Months in Prison for Conspiring to Act As an Agent of the Russian Federation](https://www.justice.gov/archives/opa/pr/russian-national-sentenced-18-months-prison-conspiring-act-agent-russian-federation-within)
 3. [Russian operative Maria Butina sentenced to 18 months in prison](https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-sentenced-18-months-prison-n998866)
+
+## Academic Studies Document PredPol's Racial Bias and Ineffectiveness
+*Date: 2019-05-01*
+
+1. [Predictive policing algorithm perpetuates racial profiling by LAPD](https://dailybruin.com/2019/05/02/predictive-policing-algorithm-perpetuates-racial-profiling-by-lapd)
+2. [It's PredPol, and it's going to reduce crime - Agencies take algorithmic effectiveness on faith](https://www.muckrock.com/news/archives/2019/nov/05/predictive-policing-lacks-accuracy-tests/)
+3. [Predictive policing algorithms are racist. They need to be dismantled.](https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/)
 
 ## Fisher Sand & Gravel Wins $2B Border Wall Contracts After Fox News Lobbying
 *Date: 2019-05-01*
@@ -4803,6 +5425,13 @@
 2. [Elaine Chao abused office to help family business, inspector general finds](https://www.washingtonpost.com/politics/2021/03/03/elaine-chao-transportation-inspector-general-report/)
 3. [How Mitch McConnell and Elaine Chao got rich off China](https://nypost.com/2018/03/17/how-mcconnell-and-chao-used-political-power-to-make-their-family-rich/)
 
+## Axon Ethics Board Recommends Against Facial Recognition in Body Cameras, Company Agrees to Pause Development
+*Date: 2019-06-27*
+
+1. [Police body-cam maker Axon says no to facial recognition, for now](https://techcrunch.com/2019/06/27/police-body-cam-maker-axon-says-no-to-facial-recognition-for-now/)
+2. [Axon Ethics Board Pulls Plug On Facial Recognition Tech Being Added To Its Body Cameras](https://www.techdirt.com/2019/07/03/axon-ethics-board-pulls-plug-facial-recognition-tech-being-added-to-body-cameras/)
+3. [Axon AI Ethics Board](https://www.policingproject.org/axon-ethics-board)
+
 ## FDA Commissioner Scott Gottlieb Joins Pfizer Board After Leaving Agency
 *Date: 2019-06-27*
 
@@ -4846,12 +5475,33 @@
 2. [Jeffrey Epstein Charged With Sex Trafficking of Girls as Young as 14](https://www.nytimes.com/2019/07/06/nyregion/jeffrey-epstein-arrested-sex-trafficking.html)
 3. [Billionaire Jeffrey Epstein arrested on federal charges of sex trafficking minors](https://www.cnn.com/2019/07/06/us/jeffrey-epstein-arrested-sex-trafficking/index.html)
 
+## Mueller Testifies to Congress, Confirms Report Findings and Lack of Exoneration
+*Date: 2019-07-24*
+
+1. [Hearing Before the Committee on the Judiciary - Former Special Counsel Robert S. Mueller, III](https://www.govinfo.gov/content/pkg/CHRG-116hhrg37542/pdf/CHRG-116hhrg37542.pdf)
+2. [Hearing Before the Permanent Select Committee on Intelligence - Former Special Counsel Robert S. Mueller, III](https://www.govinfo.gov/content/pkg/CHRG-116hhrg37543/pdf/CHRG-116hhrg37543.pdf)
+3. [Former Special Counsel Robert Mueller Testifies](https://www.c-span.org/video/?462628-1/robert-mueller-testifies-house-judiciary-committee)
+
 ## Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
 *Date: 2019-07-25*
 
 1. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
 2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
 3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
+
+## Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
+*Date: 2019-07-25*
+
+1. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
+2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
+3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
+
+## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
+*Date: 2019-08-03*
+
+1. [El Paso Shooting Suspect's Manifesto Echoes Trump's Language](https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html)
+2. [El Paso shooting suspect said he targeted Mexicans](https://www.washingtonpost.com/national/el-paso-shooting-suspect-told-officers-he-was-targeting-mexicans-police-say/2019/08/09/)
+3. [El Paso Walmart shooting leaves 20 dead](https://www.cnn.com/2019/08/03/us/el-paso-shooting/index.html)
 
 ## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
 *Date: 2019-08-03*
@@ -4904,6 +5554,13 @@
 2. [Trump wanted to host G-7 at his Doral resort. It's been bleeding money.](https://www.washingtonpost.com/politics/trump-wanted-to-host-g-7-at-his-doral-resort-its-been-bleeding-money/2019/10/17/e7e62558-f0f9-11e9-8693-f487e46784aa_story.html)
 3. [Trump defends Doral G-7 pick, lashes out at Obama](https://www.cnn.com/2019/08/26/politics/donald-trump-g7-doral-resort-obama/index.html)
 
+## Ring announces partnerships with 400+ police departments, building massive surveillance network
+*Date: 2019-08-28*
+
+1. [Ring and its surveillance cameras have partnered with over 400 police departments](https://www.cnn.com/2019/08/29/us/ring-cameras-police/index.html)
+2. [Ring, the doorbell-camera firm, has partnered with 400 police forces, extending surveillance reach](https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach/)
+3. [Five Concerns about Amazon Ring's Deals with Police](https://www.eff.org/deeplinks/2019/08/five-concerns-about-amazon-rings-deals-police)
+
 ## Pence's Ireland Trip Costs $3.6 Million with Detour to Trump Property
 *Date: 2019-09-03*
 
@@ -4950,6 +5607,13 @@
 2. [Russian operative Maria Butina released from prison, deported to Moscow](https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-set-deportation-after-prison-release-n1071801)
 3. [Maria Butina, Convicted Russian Operative, Is Released From Federal Prison](https://www.npr.org/2019/10/25/773374719/maria-butina-convicted-russian-operative-is-released-from-federal-prison)
 
+## WhatsApp Sues NSO Group Over Pegasus Spyware Attack on 1,400 Users
+*Date: 2019-10-29*
+
+1. [1,400 Pegasus spyware infections detailed in WhatsApp lawsuit filings](https://therecord.media/pegasus-spyware-infections-detailed-whatsapp-lawsuit)
+2. [Apple files lawsuit against NSO Group over Pegasus spyware](https://techcrunch.com/2021/11/23/apple-nso-group-lawsuit/)
+3. [Judge rules NSO Group is liable for spyware hacks targeting 1,400 WhatsApp user devices](https://therecord.media/judge-rules-nso-group-liable-for-hack-of-1400-whatsapp-users)
+
 ## Groyper War Erupts: Far-Right Activists Disrupt Trump Jr. Event at UCLA
 *Date: 2019-11-10*
 
@@ -4971,12 +5635,33 @@
 2. [Leaked Stephen Miller emails suggest White House aide promoted white nationalism](https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/)
 3. [Stephen Miller And White Nationalism](https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism)
 
+## SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites
+*Date: 2019-11-12*
+
+1. [Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails](https://www.splcenter.org/hatewatch/2019/11/12/stephen-millers-affinity-white-nationalism-revealed-leaked-emails)
+2. [Leaked Stephen Miller emails suggest White House aide promoted white nationalism](https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/)
+3. [Stephen Miller And White Nationalism](https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism)
+
+## Roger Stone Convicted on All Counts - Obstruction, Witness Tampering, and Lying to Congress
+*Date: 2019-11-15*
+
+1. [Roger Jason Stone, Jr. Convicted of Seven Felonies](https://www.justice.gov/usao-dc/pr/roger-jason-stone-jr-convicted-seven-felonies)
+2. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume I](https://www.justice.gov/storage/report.pdf)
+3. [United States v. Roger J. Stone, Jr. - Indictment](https://www.documentcloud.org/documents/5740797-Stone-Indictment.html)
+
 ## Trump Signs Defense Bill Creating Space Force
 *Date: 2019-12-20*
 
 1. [Trump Created The Space Force. Here's What It Will Actually Do](https://www.npr.org/2019/12/21/790492010/trump-created-the-space-force-heres-what-it-will-do)
 2. [Donald Trump signs $738 billion defense bill creating new Space Force](https://www.washingtontimes.com/news/2019/dec/20/donald-trump-signs-738-billion-defense-bill-creati/)
 3. [Space Force authorized in $738 billion defense bill](https://apnews.com/article/space-force-defense-bill-f92f7a08-e1a3-11e9-a6bf-9bd9e21c11ab)
+
+## New York Times Exposé Reveals Clearview AI's 3 Billion Photo Surveillance Database
+*Date: 2020-01-18*
+
+1. [Exposing the secretive company at the forefront of facial recognition technology](https://www.npr.org/2023/09/28/1202310781/exposing-the-secretive-company-at-the-forefront-of-facial-recognition-technology)
+2. [Kashmir Hill - Wikipedia](https://en.wikipedia.org/wiki/Kashmir_Hill)
+3. [A Shazam for People: Clearview's AI App Was a Hit Among the Rich and Powerful](https://www.rollingstone.com/culture/culture-features/clearview-ai-app-privacy-your-face-belongs-to-us-excerpt-1234829211/)
 
 ## Trump Fires Lt. Col. Vindman from NSC in Retaliation for Impeachment Testimony
 *Date: 2020-02-07*
@@ -5012,6 +5697,21 @@
 
 1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
 2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
+
+## Axon Launches Axon Air Drone Platform, Integrating Aerial Surveillance into Police Evidence Ecosystem
+*Date: 2020-02-20*
+
+1. [Axon Launches First Connected App for Law Enforcement that Livestreams Drone Video Directly into Axon Evidence](https://investor.axon.com/2020-02-20-Axon-Launches-First-Connected-App-for-Law-Enforcement-that-Livestreams-Drone-Video-Directly-into-Axon-Evidence)
+2. [Axon Air Product Overview](https://www.axon.com/products/axon-air)
+3. [Axon Air Law Enforcement Drone Program](https://www.officer.com/command-hq/technology/security-surveillance/uav-uas/product/21008346/axon-axon-air-law-enforcement-drone-program)
+
+## DOJ Overrules Prosecutors' Roger Stone Sentencing Recommendation After Trump Tweet
+*Date: 2020-02-20*
+
+1. [Prosecutors Quit After DOJ Seeks 'Less' Prison Time For Trump Ally Roger Stone](https://www.npr.org/2020/02/11/804888522/doj-to-revise-sentencing-request-for-roger-stone-following-trump-tweet)
+2. [Roger Stone Sentenced To More Than 3 Years Amid Furor Over Trump And DOJ](https://www.npr.org/2020/02/20/807099176/roger-stone-sentenced-to-3-years-amid-furor-over-trump-involvement-in-doj-cases)
+3. [All four Roger Stone prosecutors resign from case after DOJ backpedals on sentencing recommendation](https://www.nbcnews.com/politics/politics-news/doj-backpedalling-sentencing-recommendation-trump-ally-roger-stone-n1134961)
+4. [All 4 federal prosecutors quit Stone case after DOJ overrules prosecutors on sentencing request](https://www.cnn.com/2020/02/11/politics/roger-stone-sentencing-justice-department/index.html)
 
 ## Fed Vice Chair Clarida Trades Millions Before Rate Cuts
 *Date: 2020-02-27*
@@ -5073,6 +5773,13 @@
 2. [Trump's systematic removal of inspectors general creates 'constitutional crisis'](https://www.washingtonpost.com/politics/2020/05/21/trumps-systematic-removal-inspectors-general-creates-constitutional-crisis/)
 3. [Trump administration's inspector general purge echoes Bush-era oversight destruction](https://www.politico.com/news/2020/05/19/trump-inspector-general-firings-oversight-265219)
 
+## CatalanGate Reveals Systematic Pegasus Targeting of 65 Catalan Independence Leaders
+*Date: 2020-04-18*
+
+1. [CatalanGate: Extensive Mercenary Spyware Operation against Catalans Using Pegasus and Candiru](https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/)
+2. [Spain: EU must act to end spyware abuse after prominent Catalans targeted with Pegasus](https://www.amnesty.org/en/latest/news/2022/04/spain-pegasus-spyware-catalans-targeted/)
+3. [Spain: UN experts demand investigation into alleged spying programme targeting Catalan leaders](https://www.ohchr.org/en/press-releases/2023/02/spain-un-experts-demand-investigation-alleged-spying-programme-targeting)
+
 ## Trump Dismisses State Department Inspector General Steve Linick
 *Date: 2020-05-15*
 
@@ -5102,6 +5809,25 @@
 1. [Milley Says Accompanying Trump To Church Photo-Op Was A Mistake](https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/11/875019346/gen-mark-milley-says-accompanying-trump-to-church-photo-op-was-a-mistake)
 2. [Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials)
 3. [Top General Apologizes For Role In Trump's Photo During Protests](https://www.npr.org/2020/06/11/875047527/top-general-apologizes-for-role-in-trumps-photo-during-protests)
+
+## FBI Expands Dataminr Contract During George Floyd Protests for Social Media Surveillance of Demonstrations
+*Date: 2020-06-09*
+
+1. [Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr](https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/)
+2. [FBI Expands Ability to Monitor Social Media, Location Data](https://theintercept.com/2020/06/24/fbi-surveillance-social-media-cellphone-dataminr-venntel/)
+3. [FBI Awards Dataminr Contract for Twitter 'Firehose'](https://www.nextgov.com/emerging-tech/2016/11/fbi-awards-dataminr-contract-twitter-firehose/133152/)
+
+## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
+*Date: 2020-07-01*
+
+1. [Contract to Anduril Industries, Inc.](https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014)
+2. [Anduril raises $200m, wins contract for autonomous surveillance towers along US-Mexico border](https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border)
+
+## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
+*Date: 2020-07-01*
+
+1. [Contract to Anduril Industries, Inc.](https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014)
+2. [Anduril raises $200m, wins contract for autonomous surveillance towers along US-Mexico border](https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border)
 
 ## During Title 42, unaccompanied children were held in hotels by contractors (e.g., Hampton Inn) before expulsion attempts
 *Date: 2020-07-01*
@@ -5180,6 +5906,13 @@
 1. [FinCEN Files Investigation](https://www.icij.org/investigations/fincen-files/)
 2. [FinCEN Files Show Criminals Moved Billions As Banks Watched](https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks)
 3. [ICIJ's FinCEN Files Expose How Banks Turn a Blind Eye to Suspicious Transactions](https://www.promarket.org/2020/10/11/icij-fincen-files-banks-ignore-suspicious-transactions/)
+
+## Ring announces Always Home Cam, autonomous drone for indoor home surveillance
+*Date: 2020-09-24*
+
+1. [Amazon Ring Always Home Cam - A $250 indoor security camera](https://www.cnn.com/2020/09/24/tech/amazon-ring-drone)
+2. [Ring Always Home Cam - How to get your hands on Amazon's indoor security drone](https://www.thedronegirl.com/2024/02/21/ring-always-home-cam/)
+3. [Ring Always Home Cam drone - What is it, and how to sign up for an invitation](https://www.tomsguide.com/news/rings-new-security-camera-is-a-drone-that-flies-around-your-house)
 
 ## FBI Enables Social Media Suppression of Hunter Biden Laptop Story Despite Knowing Authenticity
 *Date: 2020-10-14*
@@ -5302,6 +6035,13 @@
 2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
 3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
 
+## Stephen Miller Writes Trump's January 6 Ellipse Speech, Adds Language About Pence Overturning Election
+*Date: 2021-01-06*
+
+1. [Donald Trump adviser Stephen Miller grilled about rally that preceded Jan. 6 insurrection](https://www.pbs.org/newshour/politics/donald-trump-adviser-stephen-miller-grilled-about-rally-that-preceded-jan-6-insurrection)
+2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
+3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
+
 ## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
 *Date: 2021-01-06*
 
@@ -5338,6 +6078,20 @@
 1. [Donald Trump's Phone Will Provide Critical Evidence in Jack Smith Trial](https://www.newsweek.com/donald-trump-phone-jack-smith-trial-1963160)
 2. [Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump](https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html)
 3. [Report of Special Counsel Smith Volume 1 January 2025](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
+
+## PredPol Rebrands as Geolitica Amid Mounting Criticism of Racial Bias
+*Date: 2021-01-15*
+
+1. [Geolitica](https://en.wikipedia.org/wiki/Geolitica)
+2. [Politicians Move to Limit Predictive Policing After Years of Controversial Failures](https://www.techpolicy.press/politicians-move-to-limit-predictive-policing-after-years-of-controversial-failures/)
+3. [Predictive Policing Software Terrible At Predicting Crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
+
+## Russell Vought Founds Center for Renewing America, Christian Nationalist Policy Shop for Trump Return
+*Date: 2021-01-15*
+
+1. [The Theocratic Blueprint for Trump's Next Term](https://www.thenation.com/article/society/russell-vought-center-renewing-america-christian-nationalism/)
+2. [Russell Vought: The gung-ho Christian nationalist who helps Trump be Trump](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)
+3. [OMB's Russell Vought, the Christian 'nation-ist' driving Project 2025 and DOGE](https://religionnews.com/2025/06/23/ombs-russell-vought-the-christian-nation-ist-driving-project-2025-and-dogeruss-vought/)
 
 ## Russell Vought Founds Center for Renewing America, Christian Nationalist Policy Shop for Trump Return
 *Date: 2021-01-15*
@@ -5383,6 +6137,12 @@
 2. [Supreme Court ends Trump emoluments lawsuits](https://www.cnn.com/2021/01/25/politics/emoluments-supreme-court-trump/index.html)
 3. [Supreme Court Dismisses Challenges to Trump's Business Profits](https://www.nytimes.com/2021/01/25/us/politics/trump-emoluments-supreme-court.html)
 
+## Canadian Privacy Commissioners Declare Clearview AI Represents "Mass Surveillance" of Citizens
+*Date: 2021-02-03*
+
+1. [Clearview AI's unlawful practices represented mass surveillance of Canadians](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/nr-c_210203/)
+2. [Clearview AI ceases offering its facial recognition technology in Canada](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/)
+
 ## Robinhood DTCC Collateral Waiver Revealed in GameStop Short Squeeze Fallout
 *Date: 2021-02-05*
 
@@ -5396,6 +6156,20 @@
 1. [New Noem Nepotism - Governor Fires Appraisal Chief Who Delayed Daughter's License, Pays $200K to Shut Her Up](https://dakotafreepress.com/2021/09/27/new-noem-nepotism-governor-fires-appraisal-chief-who-delayed-daughters-license-pays-200k-to-shut-her-up/)
 2. [Questions Arise About Gov. Noem And The Early Retirement Of A South Dakota Official](https://www.npr.org/2021/09/29/1041512901/questions-arise-about-gov-noem-and-the-early-retirement-of-a-south-dakota-offici)
 3. [Noem Administration Pays $200,000 to Settle Age Discrimination Allegation](https://www.sdpb.org/politics/2021-09-28/noem-administration-pays-200-000-to-settle-allegation-of-age-discrimination)
+
+## Cellebrite Halts Sales to Russia and Belarus After Human Rights Abuse Revelations
+*Date: 2021-03-18*
+
+1. [Israeli phone hacking firm stops sales to Belarus and Russia](https://advox.globalvoices.org/2021/04/07/israeli-phone-hacking-firm-stops-sales-to-belarus-and-russia/)
+2. [Cellebrite Stops Selling Its Digital Intelligence Offerings in Russian Federation and Belarus](https://www.prnewswire.com/news-releases/cellebrite-stops-selling-its-digital-intelligence-offerings-in-russian-federation-and-belarus-301250313.html)
+3. [Cellebrite faces more human rights concerns as it goes public](https://www.business-humanrights.org/en/latest-news/cellebrite-faces-further-criticism-of-human-rights-record-as-goes-public-amid-reports-repressive-regimes-kept-buying-products-after-company-said-it-ended-sales/)
+
+## Stephen Miller Founds America First Legal to Challenge Biden Administration and Advance White Nationalist Agenda
+*Date: 2021-04-06*
+
+1. [America First Legal](https://en.wikipedia.org/wiki/America_First_Legal)
+2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
+3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
 
 ## Stephen Miller Founds America First Legal to Challenge Biden Administration and Advance White Nationalist Agenda
 *Date: 2021-04-06*
@@ -5419,6 +6193,12 @@
 1. [Dr. Stephen Hahn Joins Flagship Pioneering](https://www.flagshippioneering.com/news/press-release/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative)
 2. [Former FDA commissioner Hahn defends his jump to Flagship Pioneering](https://www.statnews.com/2021/06/15/steve-hahn-fda-moderna-flagship-pioneering/)
 3. [Former FDA Commissioner Stephen Hahn joins venture capital group behind Moderna](https://www.foxbusiness.com/politics/former-fda-commissioner-stephen-hahn-joins-venture-capital-group-behind-moderna)
+
+## Chainalysis Raises $100 Million at $4.2 Billion Valuation in Series E
+*Date: 2021-06-24*
+
+1. [Chainalysis Raises $100 Million at a $4.2 Billion Valuation](https://www.prnewswire.com/news-releases/chainalysis-raises-100-million-at-a-4-2-billion-valuation-to-execute-vision-as-the-blockchain-data-platform-301319274.html)
+2. [Chainalysis raises $100M, doubles valuation to over $2B](https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/)
 
 ## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
 *Date: 2021-07-01*
@@ -5448,12 +6228,33 @@
 2. [Chinese Mogul Funneled Millions to Bannon, Fox, Gettr, Documents Show](https://www.thedailybeast.com/chinese-mogul-guo-wengui-funneled-millions-to-bannon-fox-gettr-docs-show/)
 3. [Gettr Controlled by Guo Wengui, Ex-Employees Reveal](https://www.washingtonpost.com/technology/2023/03/26/gettr-guo-wengui-social-media/)
 
+## Pegasus Project Exposes Global Surveillance of 50,000 Targets by NSO Group Clients
+*Date: 2021-07-18*
+
+1. [The Pegasus Project](https://www.amnesty.org/en/latest/press-release/2021/07/the-pegasus-project/)
+2. [About the Pegasus Project](https://forbiddenstories.org/about-the-pegasus-project/)
+3. [Private Israeli spyware used to hack cellphones of journalists, activists worldwide](https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/)
+
+## Clearview AI Raises $30 Million Series B Funding Despite Widespread Privacy Violations
+*Date: 2021-07-21*
+
+1. [Clearview AI Closes 30 Million Dollar Series B Funding Round](https://www.clearview.ai/press-room/clearview-ai-closes-30-million-dollar-series-b-funding-round)
+2. [Clearview AI raises $30 million in Series B funding despite privacy investigations](https://www.axios.com/2021/07/22/clearview-ai-series-b-funding-privacy-violations)
+3. [Clearview AI Closes $30M Series B Funding](https://www.finsmes.com/2021/07/clearview-ai-closes-30m-series-b-funding.html)
+
 ## Trump shows classified Iran attack plan at Bedminster, admits can't declassify
 *Date: 2021-07-21*
 
 1. [Exclusive: CNN obtains the tape of Trump's 2021 conversation about classified documents](https://www.cnn.com/2023/06/26/politics/trump-classified-documents-audio/index.html)
 2. [In audio recording, Trump is heard discussing classified document he says he held onto](https://abcnews.go.com/US/audio-recording-trump-heard-discussing-classified-document-held/story?id=100346060)
 3. [Trump said on tape he didn't declassify secret Iran documents](https://www.washingtonpost.com/national-security/2023/06/09/trump-tape-classified-documents/)
+
+## ShotSpotter Accuracy Crisis - Chicago Inspector General Report and Williams Case
+*Date: 2021-08-15*
+
+1. [How AI-powered Tech ShotSpotter Landed a Man in Jail With Scant Evidence](https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence)
+2. [As much as it could help police, ShotSpotter's not ready for the courtroom](https://chicago.suntimes.com/2021/8/20/22634381/shotspotter-police-courtroom-evidence-michael-williams)
+3. [Williams v. City of Chicago](https://www.macarthurjustice.org/case/williams-v-city-of-chicago/)
 
 ## Supreme Court Strikes Down CDC Eviction Moratorium as Unauthorized Executive Action
 *Date: 2021-08-26*
@@ -5557,6 +6358,18 @@
 2. [The Federal Reserve imposes new restrictions on investments after trading controversy](https://www.npr.org/2021/10/21/1048090079/federal-reserve-restrictions-investments-trading-controversy-jerome-powell)
 3. [Elizabeth Warren demands insider trading investigation of the Fed](https://www.cnn.com/2021/10/05/investing/elizabeth-warren-insider-trading-fed)
 
+## In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
+*Date: 2021-11-01*
+
+1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+
+## In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
+*Date: 2021-11-01*
+
+1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+
 ## US Commerce Department Adds Candiru and NSO Group to Entity List
 *Date: 2021-11-03*
 
@@ -5565,6 +6378,13 @@
 3. [Commerce Adds NSO Group and Other Foreign Companies to Entity List for Malicious Cyber Activities](https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list)
 4. [US Blacklists NSO Group and 3 Others for Selling Spyware, Hacking Tools](https://www.nextgov.com/cybersecurity/2021/11/us-blacklists-nso-group-and-3-others-selling-spyware-hacking-tools/186611/)
 5. [Commerce Department blacklists controversial spyware company NSO Group](https://cyberscoop.com/commerce-department-blacklists-controversial-spyware-company-nso-group/)
+
+## Apple Sues NSO Group Over FORCEDENTRY Exploit and Pegasus Spyware Targeting
+*Date: 2021-11-23*
+
+1. [Apple sues NSO Group to curb the abuse of state-sponsored spyware](https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/)
+2. [Apple files lawsuit against NSO Group over Pegasus spyware](https://techcrunch.com/2021/11/23/apple-nso-group-lawsuit/)
+3. [US judge rejects NSO attempt to dismiss Apple lawsuit](https://www.theregister.com/2024/01/24/us_judge_rejects_pegasus_spyware/)
 
 ## Truth Social Receives $8 Million from Russian-Connected Entities While "On Brink of Collapse"
 *Date: 2021-12-01*
@@ -5606,6 +6426,18 @@
 4. [Scientists, Doctors Call on Spotify to Implement Misinformation Policy Over Claims on Joe Rogan Show](https://www.techpolicy.press/scientists-doctors-call-on-spotify-to-implement-misinformation-policy-over-claims-on-joe-rogan-show/)
 5. [What the Joe Rogan podcast controversy says about the online misinformation ecosystem](https://www.npr.org/2022/01/21/1074442185/joe-rogan-doctor-covid-podcast-spotify-misinformation)
 6. [Fighting Misinformation With Science Journalism](https://www.npr.org/2022/03/09/1085425659/fighting-misinformation-with-science-journalism)
+
+## Anduril AI-Powered Drones Deployed to Ukraine Since 2022
+*Date: 2022-01-01*
+
+1. [Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence Since 2022](https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html)
+2. ['Battle-tested in Ukraine' — How US drone makers turned Ukraine into a tagline to sell west](https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/)
+
+## Anduril AI-Powered Drones Deployed to Ukraine Since 2022
+*Date: 2022-01-01*
+
+1. [Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence Since 2022](https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html)
+2. ['Battle-tested in Ukraine' — How US drone makers turned Ukraine into a tagline to sell west](https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/)
 
 ## Peter Thiel Receives Second Putin Meeting Invitation
 *Date: 2022-01-01*
@@ -5649,6 +6481,27 @@
 1. [Neil Young posts open letter demanding Spotify remove his music](https://www.rollingstone.com/music/music-news/neil-young-demands-spotify-remove-music-vaccine-disinformation-1290020/)
 2. [Neil Young vs Joe Rogan Spotify controversy](https://www.bbc.com/news/entertainment-arts-60138104)
 3. [Neil Young's music removed by Spotify after his ultimatum over Joe Rogan podcast](https://www.npr.org/transcripts/1075904939)
+
+## Flock Safety Reaches $3.5 Billion Valuation with 1,000+ Police Departments Using Surveillance Network
+*Date: 2022-02-01*
+
+1. [Flock Safety Raises $150M in Series E Funding](https://builtin.com/articles/flock-safety-raises-150m-series-e-hiring-021622)
+2. [One of Atlanta's Latest Unicorns Lands Series E Funding](https://hypepotamus.com/feature/flock-safety-atlanta-series-e/)
+3. [Flock Raises Another $150 Million Valuation Now At $3.5 Billion](https://ipvm.com/reports/flock-e)
+
+## Rio Grande Council of Governments, Texas launches first i3-compliant cloud-native 911 system with Carbyne
+*Date: 2022-02-14*
+
+1. [Carbyne and Rio Grande Council of Governments Texas Launch Industry-First Cloud-Native i3 911 Contact Center](https://www.prnewswire.com/news-releases/carbyne-and-rio-grande-council-of-governments-texas-launch-industry-first-cloud-native-i3-911-contact-center-301488732.html)
+2. [Region adopts new 911 platform with GPS and video feature](https://bigbendsentinel.com/2022/02/16/region-adopts-new-911-platform-with-gps-and-video-feature/)
+3. [How Carbyne's cloud-native platform helps 911 call centers](https://aws.amazon.com/blogs/publicsector/how-carbynes-cloud-native-platform-helps-911-call-centers-eyes-scene-more/)
+
+## Clearview AI Deploys Mass Facial Recognition Technology in Ukraine War
+*Date: 2022-03-01*
+
+1. [Ukraine's 'Secret Weapon' Against Russia Is Clearview AI](https://time.com/6334176/ukraine-clearview-ai-russia/)
+2. [Ukraine has started using Clearview AI's facial recognition during war](https://www.cnbc.com/2022/03/13/ukraine-has-started-using-clearview-ais-facial-recognition-during-war.html)
+3. [The Clearview/Ukraine partnership - How surveillance companies exploit war](https://privacyinternational.org/news-analysis/4806/clearviewukraine-partnership-how-surveillance-companies-exploit-war)
 
 ## Task Force KleptoCapture Launched: US Expands Anti-Kleptocracy Operations
 *Date: 2022-03-01*
@@ -5700,6 +6553,12 @@
 2. [Vance Wins Ohio Republican Senate Primary](https://www.nytimes.com/2022/05/03/us/politics/jd-vance-ohio-republican-senate.html)
 3. [Peter Thiel's investment in J.D. Vance pays off](https://www.opensecrets.org/news/2022/11/peter-thiel-jd-vance-ohio/)
 
+## Tornado Cash Integrates Chainalysis Tool to Block OFAC-Sanctioned Addresses
+*Date: 2022-04-15*
+
+1. [Tornado Cash Adds Chainalysis Tool for Blocking OFAC-Sanctioned Wallets](https://www.coindesk.com/tech/2022/04/15/tornado-cash-adds-chainalysis-tool-for-blocking-ofac-sanctioned-wallets-from-dapp)
+2. [Tornado Cash Uses Chainalysis to Block OFAC Sanctioned Addresses](https://www.cryptotimes.io/2022/04/16/tornado-cash-uses-chainalysis-to-block-ofac-sanctioned-addresses/)
+
 ## Trump Endorses Vance Following Thiel's $15 Million Strategic Political Investment
 *Date: 2022-04-15*
 
@@ -5714,12 +6573,26 @@
 2. [Trump Organization settles lawsuit over D.C. hotel payments tied to inauguration](https://www.reuters.com/world/us/trump-organization-settles-lawsuit-over-dc-hotel-payments-tied-inauguration-2022-05-03/)
 3. [Trump entities agree to pay $750,000 to settle D.C. inauguration lawsuit](https://www.washingtonpost.com/dc-md-va/2022/05/03/trump-hotel-nonprofit-settlement/)
 
+## Chainalysis Raises $170 Million at $8.6 Billion Valuation in Series F
+*Date: 2022-05-10*
+
+1. [Chainalysis Doubles Private Sector Business and Raises New Funding](https://www.prnewswire.com/news-releases/chainalysis-doubles-private-sector-business-and-raises-new-funding-to-double-its-valuation-to-8-6-billion-301545867.html)
+2. [Crypto forensics startup Chainalysis raises $170M at $8.6B valuation](https://techcrunch.com/2022/05/10/crypto-forensics-startup-chainalysis-raises-170m-at-8-6b-valuation/)
+3. [Chainalysis Raises $170M at $8.6B Valuation](https://www.coindesk.com/business/2022/05/12/chainalysis-raises-170m-at-86b-valuation)
+
 ## Grand jury issues subpoena demanding all classified documents from Trump
 *Date: 2022-05-11*
 
 1. [Timeline: Special counsel's investigation into Trump's handling of classified documents](https://abcnews.go.com/US/timeline-special-counsels-investigation-trumps-handling-classified-documents/story?id=101768329)
 2. [Justice Dept. using grand jury to probe Trump's Mar-a-Lago documents](https://www.washingtonpost.com/national-security/2022/05/12/mar-a-lago-documents-grand-jury/)
 3. [Federal prosecution of Donald Trump (classified documents case)](https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(classified_documents_case))
+
+## UK Fines Clearview AI £7.5 Million for Breaching Data Protection Laws
+*Date: 2022-05-24*
+
+1. [ICO Fines Clearview AI £7.5m for Collecting UK Citizens' Data](https://www.infosecurity-magazine.com/news/ico-fines-clearview-ai-75m/)
+2. [ICO orders facial recognition firm Clearview AI to delete all data about UK residents](https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents)
+3. [ICO fines Clearview AI over £7.5m for facial recognition database](https://www.rpclegal.com/snapshots/data-protection/summer-2022/ico-fines-clearview-ai-for-facial-recognition-database/)
 
 ## Ed Coristine fired from cybersecurity firm for leaking company secrets
 *Date: 2022-06-01*
@@ -5728,12 +6601,26 @@
 2. [Musk's DOGE teen was fired by cybersecurity firm for leaking company secrets](https://fortune.com/2025/02/07/musks-doge-teen-edward-coristine-fired-cybersecurity-internship-leaking-company-secrets/)
 3. [Teen on Musk's DOGE Team Graduated from 'The Com'](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/)
 
+## Palantir Deploys AI Targeting and Intelligence Systems in Ukraine
+*Date: 2022-06-01*
+
+1. [Tech Companies Turned Ukraine Into an AI War Lab](https://time.com/6691662/ai-ukraine-war-palantir/)
+2. [Palantir, the Secretive Tech Giant Shaping Ukraine's War Effort](https://united24media.com/war-in-ukraine/palantir-the-secretive-tech-giant-shaping-ukraines-war-effort-5519)
+3. [Ukraine is using Palantir's software for 'targeting,' CEO says](https://www.euronews.com/next/2023/02/02/ukraine-crisis-palantir)
+
 ## Christina Bobb signs false attestation that all classified documents returned
 *Date: 2022-06-03*
 
 1. [Trump lawyer claimed no classified material was at Mar-a-Lago in signed letter to Justice Department](https://www.cnn.com/2022/08/13/politics/trump-attorney-classified-documents-mar-a-lago-search/index.html)
 2. [Christina Bobb and Evan Corcoran: Trump's attorneys face scrutiny over level of cooperation](https://www.cnn.com/2022/08/31/politics/christina-bobb-evan-corcoran/index.html)
 3. [Trump lawyer Christina Bobb speaks to federal investigators in Mar-a-Lago case](https://www.nbcnews.com/politics/donald-trump/trump-lawyer-christina-bobb-speaks-federal-investigators-mar-lago-case-rcna51459)
+
+## Nine of Thirteen Axon Ethics Board Members Resign After Company Announces Taser-Equipped Drones Without Consultation
+*Date: 2022-06-06*
+
+1. [Statement of Resigning Axon AI Ethics Board Members](https://www.policingproject.org/statement-of-resigning-axon-ai-ethics-board-members)
+2. [Axon halts its plans for a Taser drone as 9 on ethics board resign over the project](https://www.npr.org/2022/06/06/1103285030/axon-halts-plans-for-taser-drone-as-9-on-ethics-board-resign)
+3. [Axon's AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
 
 ## January 6th Committee Exposes "Big Rip-Off" - $250 Million Fraudulent Fundraising Scheme
 *Date: 2022-06-13*
@@ -5756,6 +6643,13 @@
 2. [Roger Stone settles Justice Department civil suit over unpaid taxes](https://www.cnbc.com/2022/07/01/roger-stone-settles-justice-department-civil-suit)
 3. [Stone's Drake Ventures shell company central to tax fraud settlement](https://www.floridabulldog.org/2022/07/roger-stone-drake-ventures-tax-settlement)
 
+## Ring admits providing police with warrantless access to user footage 11 times in 2022
+*Date: 2022-07-13*
+
+1. [Amazon Admits Giving Ring Camera Footage to Police Without a Warrant or Consent](https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/)
+2. [Ring Reveals They Give Videos to Police Without User Consent or Warrant](https://www.eff.org/deeplinks/2022/07/ring-reveals-they-give-videos-police-without-user-consent-or-warrant)
+3. [Ring shares data with police without consent (but it's in good faith), says Amazon](https://www.malwarebytes.com/blog/news/2022/07/ring-shares-data-with-police-without-consent-but-its-in-good-faith-says-amazon)
+
 ## DHS Inspector General Reveals Secret Service Deleted January 6th Texts After Oversight Request
 *Date: 2022-07-14*
 
@@ -5777,6 +6671,13 @@
 1. [Trump's Mar-a-Lago searched by FBI in document investigation](https://www.cnn.com/2022/08/08/politics/mar-a-lago-search-warrant-fbi-donald-trump/index.html)
 2. [Trump Mar-a-Lago warrant reveals FBI seized classified documents](https://www.npr.org/2022/08/12/1117151056/fbi-collected-multiple-sets-of-classified-documents-from-trumps-mar-a-lago-home)
 3. [FBI's Trump Mar-a-Lago search yielded 11 sets of classified documents](https://www.washingtonpost.com/national-security/2022/08/12/trump-warrant-release/)
+
+## Treasury Sanctions Tornado Cash with Chainalysis Providing Analysis
+*Date: 2022-08-08*
+
+1. [U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash](https://home.treasury.gov/news/press-releases/jy0916)
+2. [OFAC Sanctions Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group](https://www.chainalysis.com/blog/tornado-cash-ofac-designation-sanctions/)
+3. [How 2022 Crypto Sanctions Affected Crypto Crime](https://www.chainalysis.com/blog/how-2022-crypto-sanction-designations-affected-crypto-crime/)
 
 ## Barre Seid Donates $1.6 Billion to Leonard Leo Dark Money Network
 *Date: 2022-08-22*
@@ -5831,6 +6732,13 @@
 1. [Texas Tribune: Alex Jones Sandy Hook Defamation Verdict](https://www.texastribune.org/2022/10/12/alex-jones-sandy-hook-shooting/)
 2. [First Amendment Watch: Alex Jones, Infowars, and Sandy Hook Defamation Suits](https://firstamendmentwatch.org/deep-dive/alex-jones-infowars-and-the-sandy-hook-defamation-suits/)
 3. [NPR: Supreme Court Rejects Alex Jones' Appeal of Sandy Hook Defamation Judgment](https://www.npr.org/2025/10/15/nx-s1-5574929/supreme-court-alex-jones-defamation-judgment)
+
+## France Fines Clearview AI €20 Million for GDPR Violations and Unlawful Biometric Surveillance
+*Date: 2022-10-19*
+
+1. [The French SA fines Clearview AI EUR 20 million](https://www.edpb.europa.eu/news/national-news/2022/french-sa-fines-clearview-ai-eur-20-million_en)
+2. [Facial recognition: 20 million euros penalty against CLEARVIEW AI](https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai)
+3. [CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology](https://www.hunton.com/privacy-and-information-security-law/cnil-fines-clearview-ai-20-million-euros-for-unlawful-use-of-facial-recognition-technology)
 
 ## Elon Musk Completes Twitter Acquisition with Substantial Saudi and Qatari Investment
 *Date: 2022-10-27*
@@ -5956,6 +6864,13 @@
 3. [Twitter to Ease Ban on Political Advertising Under Musk](https://www.bloomberg.com/news/articles/2023-01-04/twitter-political-ads-ban-to-ease-under-elon-musk)
 4. [Twitter says it will relax ban on political advertising](https://www.nbcnews.com/politics/politics-news/twitter-says-will-relax-ban-political-advertising-rcna64202)
 
+## Anonymous Whistleblower Leaks 1.7 TB of Cellebrite Data Including Full Software Suite
+*Date: 2023-01-13*
+
+1. [1.7TB of stolen data from Cellebrite leaks online](https://candid.technology/cellebrite-data-leak/)
+2. [Hacktivists Leak 1.7TB of Cellebrite, 103GB of MSAB Data](https://hackread.com/hacktivists-leak-cellebrite-msab-data/)
+3. [Cellebrite Data Breach - 1.7 TB of Data Stolen](https://cyberexperts.com/cellebrite-data-breach/)
+
 ## DOJ Arrests Guo Wengui in Landmark $1 Billion Fraud Conspiracy
 *Date: 2023-03-15*
 
@@ -6017,6 +6932,20 @@
 2. [Trump Discloses $1 Million in Crypto and NFT Sales](https://www.cbsnews.com/news/trump-income-wealth-financial-disclosure-forms-bible-sales-crypto-nfts/)
 3. [Trump's 2023 Financial Disclosures Reveal NFT Income](https://www.citizensforethics.org/reports-investigations/crew-reports/donald-trumps-2023-financial-disclosures/)
 
+## Palantir Partners with Ukraine Prosecutor to Process War Crimes Evidence Using AI
+*Date: 2023-04-22*
+
+1. [Data company Palantir to help Ukraine prosecute alleged Russian war crimes](https://www.cnbc.com/2023/04/22/data-company-palantir-to-help-ukraine-prosecute-alleged-russian-war-crimes.html)
+2. [Palantir to help Ukraine process data in war crimes investigations](https://fedscoop.com/palantir-to-help-ukraine-process-data-in-war-crimes-investigations/)
+3. [How Ukraine is Pioneering New Ways to Prosecute War Crimes](https://time.com/6331902/ukraine-war-crimes-prosecutor/)
+
+## Ukraine Launches Brave1 State-Backed Defense and Surveillance Technology Platform
+*Date: 2023-04-26*
+
+1. [Ukraine launches 'BRAVE1' tech cluster to boost military capability](https://www.c4isrnet.com/unmanned/2023/04/26/ukraine-launches-brave1-tech-cluster-to-boost-military-capability/)
+2. [Ukraine launches BRAVE1 defence tech cluster to stimulate development of military innovations and defence technologies](https://www.kmu.gov.ua/en/news/v-ukraini-zapustyly-defense-tech-cluster-brave1-iakyi-stymuliuvatyme-rozvytok-viiskovykh-innovatsii-ta-oboronnykh-tekhnolohii)
+3. [Understanding the Military AI Ecosystem of Ukraine](https://www.csis.org/analysis/understanding-military-ai-ecosystem-ukraine)
+
 ## Proud Boys, Oath Keepers Convicted of Seditious Conspiracy for January 6
 *Date: 2023-05-04*
 
@@ -6031,6 +6960,13 @@
 2. [NPR: Media Landscape Shift with Tucker Carlson's Platform Change](https://www.npr.org/2023/05/10/media-platform-changes/tucker-carlson-twitter-x-move)
 3. [Fox News Warns Tucker Carlson to Stop Twitter Video Series](https://www.pbs.org/newshour/politics/fox-news-warns-former-star-tucker-carlson-to-stop-twitter-video-series-axios-reports)
 4. [Tucker Carlson's Departure from Fox News](https://www.pbs.org/newshour/nation/tucker-carlson-out-at-fox-news-agreed-to-part-ways-network-says)
+
+## FTC fines Ring $5.8 million for employees' illegal surveillance of customers' private videos
+*Date: 2023-05-31*
+
+1. [FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers from Taking Control of Users' Cameras](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
+2. [Amazon's Ring to pay $5.8M after staff and contractors caught snooping on customer videos](https://techcrunch.com/2023/05/31/amazon-ring-ftc-settlement-lax-security/)
+3. [Amazon.com's Ring will pay $5.8 million after employees spied on customer videos](https://www.nbcnews.com/business/consumer/ring-doorbell-camera-employees-mishandled-customer-videos-rcna87103)
 
 ## YouTube stops removing false claims about past U.S. elections
 *Date: 2023-06-02*
@@ -6055,6 +6991,13 @@
 1. [Trump indictment: Former president faces 37 counts in documents case](https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-indictment-classified-documents-rcna88494)
 2. [Inside Trump's indictment: What the charges mean in classified documents case](https://www.npr.org/2023/06/09/1181340894/trump-indictment-classified-documents-charges)
 3. [Read the full Trump indictment on mishandling of classified documents](https://www.pbs.org/newshour/politics/read-the-full-trump-indictment-on-mishandling-of-classified-documents)
+
+## AT&T partners with Carbyne as authorized reseller, integrating Israeli surveillance tech into national telecom infrastructure
+*Date: 2023-06-15*
+
+1. [AT&T and Carbyne Collaborate to Enhance 9-1-1 Performance with NG9-1-1 Emergency Response Solutions](https://www.prnewswire.com/news-releases/att-and-carbyne-collaborate-to-enhance-9-1-1-performance-with-ng9-1-1-emergency-response-solutions-301851099.html)
+2. [Carbyne partners with AT&T on next-generation 911 tools](https://statescoop.com/carbyne-att-next-generation-911/)
+3. [Carbyne announces resell relationship with AT&T for cloud-based 911 offerings](https://urgentcomm.com/2023/06/15/carbyne-announces-resale-relationship-with-att-for-cloud-based-911-offerings/)
 
 ## ProPublica Reveals Alito's Undisclosed Alaska Trip with Billionaire Singer
 *Date: 2023-06-20*
@@ -6236,6 +7179,19 @@
 3. [U.S. says Russia funded media company that paid right-wing influencers millions](https://www.cbsnews.com/news/russia-rt-tenet-media-tim-pool-benny-johnson/)
 4. [How Russian operatives covertly hired U.S. influencers to create viral videos](https://www.npr.org/2024/09/05/nx-s1-5099003/russia-tenet-media-rt-propaganda-doj)
 
+## Metro Emergency Communications deploys Carbyne AI-powered 911 system in Provo, Orem, and Lindon, Utah
+*Date: 2023-10-05*
+
+1. [Carbyne's AI-Powered Tech Enhances 9-1-1 Emergency Response in Provo, Orem and Lindon, Utah](https://www.prnewswire.com/news-releases/carbynes-ai-powered-tech-enhances-9-1-1-emergency-response-in-provo-orem-and-lindon-utah-301947444.html)
+2. [Metro Emergency Communications dispatch gets technology upgrade](https://www.heraldextra.com/news/local/2023/oct/18/metro-emergency-communications-dispatch-gets-technology-upgrade/)
+3. [Utah County using new AI platform for emergency response](https://statescoop.com/utah-county-artificial-intelligence-carbyne/)
+
+## Dataminr Provides LAPD Real-Time Surveillance of Gaza War Protests, Expanding First Amendment Monitoring
+*Date: 2023-10-09*
+
+1. [LAPD Surveilled Gaza Protests Using This Social Media Tool](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/)
+2. [LAPD used controversial social media tool to monitor Gaza protests - Report](https://san.com/cc/lapd-used-controversial-social-media-tool-to-monitor-gaza-protests-report/)
+
 ## xAI Launches Grok with Minimal Safety Guardrails
 *Date: 2023-11-04*
 
@@ -6386,6 +7342,13 @@
 2. [Clarence Thomas: Supreme Court ethics criticism grows louder with investigation](https://www.axios.com/2023/04/06/clarence-thomas-harlan-crow-propublica-investigation)
 3. [Texas billionaire Harlan Crow provided Clarence Thomas previously undisclosed private jet trips, Senate probe finds](https://www.texastribune.org/2024/06/13/texas-billionaire-harlan-crow-clarence-thomas/)
 
+## Ring ends 'Request for Assistance' feature allowing police to request user footage
+*Date: 2024-01-24*
+
+1. [Ring will no longer allow police to request users' doorbell camera footage](https://www.npr.org/2024/01/25/1226942087/ring-will-no-longer-allow-police-to-request-users-doorbell-camera-footage)
+2. [Amazon's Ring will stop allowing police to request doorbell video footage from users](https://www.cnbc.com/2024/01/24/amazons-ring-will-stop-letting-police-request-doorbell-video-footage.html)
+3. [Victory! Ring Announces It Will No Longer Facilitate Police Requests for Footage from Users](https://www.eff.org/deeplinks/2024/01/ring-announces-it-will-no-longer-facilitate-police-requests-footage-users)
+
 ## Russian Military Systematically Acquires and Uses Starlink Terminals in Ukraine
 *Date: 2024-02-01*
 
@@ -6418,6 +7381,13 @@
 3. [Ukrainian intelligence says Russia using Starlink satellite Internet system for combat operations](https://meduza.io/en/news/2024/02/11/ukrainian-intelligence-says-russia-using-starlink-satellite-internet-system-for-combat-operations-in-occupied-territory)
 4. [Russian Forces Getting More Access To Starlink Satellite Internet, Threatening Ukraine's Military Communications](https://www.rferl.org/a/ukraine-russia-starlink-access-threat/32819373.html)
 5. [Russia's forces are illegally using Starlink terminals against Ukraine](https://www.washingtonpost.com/world/2024/10/12/starlink-russia-ukraine-elon-musk/)
+
+## Chicago Terminates ShotSpotter Contract After Years of Criticism
+*Date: 2024-02-15*
+
+1. [Chicago to end ShotSpotter contract, city says](https://www.nbcchicago.com/news/local/chicago-to-end-use-of-shotspotter-later-this-year-wont-renew-contract-with-company/3355151/)
+2. [Chicago cancels its ShotSpotter contract: When high-tech policing goes wrong](https://slate.com/business/2024/02/shotspotter-chicago-canceled-contract-racist-high-tech-policing-gun-violence.html)
+3. [Looking Forward to the End of Chicago's Contract with ShotSpotter](https://www.chicagoappleseed.org/2023/05/10/ending-chicago-contract-with-shotspotter/)
 
 ## AI Ethics Study Highlights Systemic Bias and Misinformation Risks in Grok AI
 *Date: 2024-02-15*
@@ -6558,6 +7528,25 @@
 3. [Trump Media stock jumps as much as 50% after DJT ticker debut](https://www.cnbc.com/2024/03/26/trump-media-stock-ticker-djt-debuts-after-dwac-merger.html)
 4. [Trump Media & Technology Group Corp. (DJT) SEC Filings](https://www.nasdaq.com/market-activity/stocks/djt/sec-filings)
 
+## Axon Releases Draft One AI System to Automate Police Report Writing from Body Camera Audio
+*Date: 2024-04-23*
+
+1. [Axon reimagines report writing with Draft One, a first-of-its-kind AI-powered force multiplier for public safety](https://investor.axon.com/2024-04-23-Axon-reimagines-report-writing-with-Draft-One,-a-first-of-its-kind-AI-powered-force-multiplier-for-public-safety)
+2. [How AI is being used by police departments to help draft reports](https://www.cnn.com/2025/08/12/tech/ai-police-reports-axon)
+3. [Draft One Product Overview](https://www.axon.com/products/draft-one)
+
+## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
+*Date: 2024-04-24*
+
+1. [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
+2. [Anduril and General Atomics to Develop New Collaborative Combat Aircraft for Air Force](https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/)
+
+## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
+*Date: 2024-04-24*
+
+1. [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
+2. [Anduril and General Atomics to Develop New Collaborative Combat Aircraft for Air Force](https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/)
+
 ## Noem reveals she killed 14-month-old dog and goat in memoir
 *Date: 2024-04-26*
 
@@ -6622,6 +7611,13 @@
 1. [Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment](https://home.treasury.gov/news/press-releases/jy2382)
 2. [U.S. Treasury Describes NFTs as 'Highly Susceptible to Use in Fraud and Scams'](https://www.coindesk.com/policy/2024/05/29/us-treasury-describes-nfts-as-highly-susceptible-to-use-in-fraud-and-scams)
 3. [Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment](https://www.globalsecurity.org/security/library/news/2024/05/sec-240529-treasury01.htm)
+
+## Flock Safety Network Expands to 5,000+ Police Departments Performing 20 Billion Monthly Vehicle Scans
+*Date: 2024-06-01*
+
+1. [Flock police cameras scan billions per month sparking protests](https://www.nbcnews.com/tech/tech-news/flock-police-cameras-scan-billions-month-sparking-protests-rcna230037)
+2. [How to Pump the Brakes on Flock's Mass Surveillance License Plate Readers](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
+3. [Flock's Aggressive Expansions Go Far Beyond Simple Driver Surveillance](https://www.aclu.org/news/privacy-technology/flock-roundup)
 
 ## SCOTUS: No standing in challenge to mifepristone changes (FDA v. AHM)
 *Date: 2024-06-13*
@@ -6813,6 +7809,18 @@
 2. [The Georgia State Election Board Controversy, Explained](https://www.gpb.org/news/2024/09/03/the-georgia-state-election-board-controversy-explained)
 3. [Georgia Election Board Member's Appearance at Trump Rally Sparks Debate Over Code of Conduct](https://www.wsbtv.com/news/local/atlanta/georgia-election-board-members-appearance-trump-rally-sparks-debate-over-code-conduct/S5WFEFGYSZDVBIFIGQZ4J62QSE/)
 
+## Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio
+*Date: 2024-08-08*
+
+1. [Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
+2. [Anduril chooses Ohio for $1B manufacturing facility](https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/)
+
+## Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio
+*Date: 2024-08-08*
+
+1. [Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
+2. [Anduril chooses Ohio for $1B manufacturing facility](https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/)
+
 ## JD Vance Writes Foreword for Project 2025 Architect's Book, Revealing Radical Institutional Transformation Plan
 *Date: 2024-08-13*
 
@@ -6835,6 +7843,13 @@
 3. [Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
 4. [Musk's Grok AI Cleared for Use Across US Government Agencies](https://www.bloomberg.com/news/articles/2025-09-25/musk-s-grok-ai-cleared-for-use-across-us-government-agencies)
 5. [GSA and xAI Partner on $0.42 per Agency Agreement to Accelerate Federal AI Adoption](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025)
+
+## Defense Contractors Market Ukraine War as "Battle-Tested" Surveillance Technology Proving Ground
+*Date: 2024-08-20*
+
+1. ['Battle-tested in Ukraine' — How US drone makers turned Ukraine into a tagline to sell west](https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/)
+2. [Ukraine's battle-tested tech](https://www.ploughshares.ca/publications/ukraines-battle-tested-tech)
+3. [The underexploited potential of Ukrainian defence tech](https://www.aspistrategist.org.au/the-underexploited-potential-of-ukrainian-defence-tech/)
 
 ## Kylian Mbappé Twitter Account Hacked to Promote $464M Crypto Pump-and-Dump Scam
 *Date: 2024-08-29*
@@ -6863,6 +7878,25 @@
 1. [U.S. AI Safety Institute Signs Agreements Regarding AI Safety Research](https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research)
 2. [OpenAI, Anthropic to Collaborate with NIST on AI Safety Testing](https://www.nextgov.com/artificial-intelligence/2024/08/openai-anthropic-collab-nist-ai-safety-testing/399175/)
 3. [OpenAI and Anthropic Agree to Let U.S. AI Safety Institute Test Models](https://www.cnbc.com/2024/08/29/openai-and-anthropic-agree-to-let-us-ai-safety-institute-test-models.html)
+
+## Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
+*Date: 2024-09-01*
+
+1. [Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security](https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/)
+2. [CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And We're Mapping It](https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it)
+
+## Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
+*Date: 2024-09-01*
+
+1. [Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security](https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/)
+2. [CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And We're Mapping It](https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it)
+
+## Pennsylvania SCIPNet deploys Carbyne APEX across four counties, becoming first state NG911 system with $3.5 million contract
+*Date: 2024-09-01*
+
+1. [SCIPNet PA 9-1-1 Centers Save $1 Million Each by Upgrading to Carbyne APEX](https://www.prnewswire.com/news-releases/scipnet-pa-9-1-1-centers-save-1-million-each-by-upgrading-to-carbyne-apex-next-gen-911-call-handling-system--now-live-across-four-counties-302258491.html)
+2. [Four Midstate 911 centers are getting high tech upgrades](https://www.abc27.com/local-news/four-midstate-911-centers-are-high-tech-getting-upgrades/)
+3. [Cumberland County Pa. Joins Regional Push to Overhaul 911](https://www.govtech.com/public-safety/cumberland-county-pa-joins-regional-push-to-overhaul-911)
 
 ## DOJ Unseals Indictment Revealing $10 Million Russian Funding of Tenet Media Influencers
 *Date: 2024-09-04*
@@ -6973,6 +8007,13 @@
 2. [Cochise County supervisor enters plea for refusal to certify midterm election](https://www.votebeat.org/arizona/2024/10/21/cochise-county-arizona-supervisor-takes-plea-deal-delaying-midterm-results)
 3. [Attorney General Mayes Announces Plea Deal in Cochise County Election Interference Case](https://www.azag.gov/press-release/attorney-general-mayes-announces-plea-deal-cochise-county-election-interference-case)
 4. [Cochise County election interference canvass case details](https://tucson.com/news/local/government-politics/elections/cochise-county-election-interference-canvass-peggy-judd-plea/article_2148d208-8fd1-11ef-b4ba-5f78104a0bc6.html)
+
+## Institute for Justice Files Lawsuit Challenging Flock Safety Mass Surveillance as Unconstitutional
+*Date: 2024-10-21*
+
+1. [Group files lawsuit arguing Norfolk traffic cameras are unconstitutional](https://www.pilotonline.com/2024/10/21/group-files-lawsuit-arguing-norfolk-traffic-cameras-are-unconstitutional/)
+2. [Lawsuit Says AI Car-Tracking Cameras Are Unconstitutional](https://www.govtech.com/artificial-intelligence/lawsuit-says-ai-car-tracking-cameras-are-unconstitutional)
+3. [Federal Court Rejects Flock Safety's Late Bid to Join Lawsuit](https://ij.org/press-release/federal-court-rejects-flock-safetys-late-bid-to-join-and-block-ijs-lawsuit-challenging-norfolks-mass-surveillance-cameras/)
 
 ## Georgia Supreme Court blocks State Election Board's hand-count rule
 *Date: 2024-10-22*
@@ -7103,6 +8144,18 @@
 1. [Democracy Under Pressure: Yoon's Failed Martial Law](https://www.asiapacific.ca/publication/explainer-yoons-failed-martial-law-decree-future-impacts)
 2. [Yoon's Failed Political Coup and South Korea's Crisis](https://carnegieendowment.org/research/2024/12/yoons-failed-political-coup-and-south-koreas-mounting-crisis?lang=en)
 3. [South Korea Martial Law Lifted, Democracy Tarnished](https://www.cbsnews.com/news/south-korea-martial-law-lifted-president-yoon-suk-yeol-ramifications/)
+
+## OpenAI Partners with Anduril to Integrate AI into Weapons Systems
+*Date: 2024-12-04*
+
+1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
+2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
+
+## OpenAI Partners with Anduril to Integrate AI into Weapons Systems
+*Date: 2024-12-04*
+
+1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
+2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
 
 ## Trump Organization launches $530M Saudi Arabia tower weeks before inauguration
 *Date: 2024-12-11*
@@ -8082,6 +9135,13 @@
 2. [Stephen Miller re-emerges as an 'untouchable' force in Trump's White House](https://www.nbcnews.com/politics/trump-administration/stephen-miller-untouchable-force-trump-white-house-rcna206180)
 3. [How White House adviser Stephen Miller is running Trump's D.C. takeover](https://www.washingtonpost.com/politics/2025/09/05/trump-dc-takeover-stephen-miller-white-house/)
 
+## Stephen Miller Emerges as "Prime Minister" with Unprecedented Power Across All Policy
+*Date: 2025-02-10*
+
+1. [Stephen Miller is more powerful in the White House than ever](https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house/index.html)
+2. [Stephen Miller re-emerges as an 'untouchable' force in Trump's White House](https://www.nbcnews.com/politics/trump-administration/stephen-miller-untouchable-force-trump-white-house-rcna206180)
+3. [How White House adviser Stephen Miller is running Trump's D.C. takeover](https://www.washingtonpost.com/politics/2025/09/05/trump-dc-takeover-stephen-miller-white-house/)
+
 ## Musk Recruits Engineers for Department of Government Efficiency via Targeted Online Networks
 *Date: 2025-02-10*
 
@@ -8409,6 +9469,13 @@
 2. [Trump fires hundreds of air traffic support staff as SpaceX visits FAA command center](https://techcrunch.com/2025/02/17/trump-fires-hundreds-of-air-traffic-support-staff-as-spacex-visits-faa-command-center/)
 3. [These are the SpaceX engineers already working Inside the FAA](https://www.wired.com/story/faa-doge-elon-musk-space-x/?utm_content=bufferce958&utm_medium=social&utm_source=twitter&utm_campaign=aud-dev)
 
+## Clearview AI CEO Hoan Ton-That Resigns Amid Facial Recognition Controversies
+*Date: 2025-02-20*
+
+1. [CEO of Clearview AI, a controversial facial recognition startup, has resigned](https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/)
+2. [Clearview AI CEO Resigns - Controversial Facial Recognition Company Eyes Trump "Opportunities"](https://peopleofcolorintech.com/articles/clearview-ai-ceo-resigns-controversial-facial-recognition-company-eyes-trump-opportunities/)
+3. [Clearview founder ousted from board after shareholder vote](https://www.theregister.com/2025/04/09/clearview_founder_exceo_ousted/)
+
 ## Consensys SEC case dropped after $100,000 inauguration donation
 *Date: 2025-02-20*
 
@@ -8502,6 +9569,13 @@
 1. [Robinhood Says SEC Closes Crypto Probe Without Any Enforcement](https://www.bloomberg.com/news/articles/2025-02-24/robinhood-says-sec-closes-crypto-probe-without-any-enforcement)
 2. [Robinhood says SEC dismissed crypto unit investigation in latest sign of easier regulation for industry](https://www.cnbc.com/2025/02/24/robinhood-says-sec-dismissed-crypto-unit-investigation-in-latest-sign-of-easier-regulation-for-industry.html)
 3. [The SEC closed its investigation into Robinhood's crypto arm](https://www.axios.com/pro/fintech-deals/2025/02/24/sec-investigation-robinhood-crypto)
+
+## Axon Reports $2.1 Billion Revenue for 2024, Achieving Third Consecutive Year of 30%+ Growth Through Subscription Lock-In Model
+*Date: 2025-02-25*
+
+1. [Axon 2024 revenue grows 33% to $2.1 billion; third consecutive year of 30%+ annual growth](https://investor.axon.com/2025-02-25-Axon-2024-revenue-grows-33-to-2-1-billion-third-consecutive-year-of-30-annual-growth)
+2. [Axon 2024 revenue grows 33% to $2.1 billion](https://www.prnewswire.com/news-releases/axon-2024-revenue-grows-33-to-2-1-billion-third-consecutive-year-of-30-annual-growth-302385237.html)
+3. [Axon reports Q2 2025 revenue of $669 million, up 33% year over year](https://investor.axon.com/2025-08-04-Axon-reports-Q2-2025-revenue-of-669-million,-up-33-year-over-year)
 
 ## FAA approves 4,000 Starlink terminals, considers canceling $2.4B Verizon contract
 *Date: 2025-02-25*
@@ -9594,6 +10668,20 @@
 3. [Layoffs spiked by 205% last month to third-highest ever recorded, fueled by DOGE mass firings](https://www.cbsnews.com/news/layoffs-job-cuts-march-2025-third-highest-ever-recorded-doge/)
 4. [Project 2025 wanted to hobble the federal workforce. DOGE has hastily done that, and more](https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/)
 
+## In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum Computing
+*Date: 2025-04-03*
+
+1. [In-Q-Tel, the CIA's venture capital arm, reaches 800th investment](https://www.washingtontimes.com/news/2025/apr/3/q-tel-cias-venture-capital-arm-reaches-800th-investment/)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+3. [About In-Q-Tel](https://www.iqt.org/about)
+
+## In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum Computing
+*Date: 2025-04-03*
+
+1. [In-Q-Tel, the CIA's venture capital arm, reaches 800th investment](https://www.washingtontimes.com/news/2025/apr/3/q-tel-cias-venture-capital-arm-reaches-800th-investment/)
+2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+3. [About In-Q-Tel](https://www.iqt.org/about)
+
 ## Law firm Kirkland & Ellis in talks with White House to avoid executive order
 *Date: 2025-04-03*
 
@@ -10346,6 +11434,14 @@
 2. [Distributed Denial of Secrets releases Barak emails](https://ddosecrets.com/wiki/Ehud_Barak_Emails)
 3. [Inside Jeffrey Epstein's Spy Industry Connections](https://reason.com/2025/08/27/inside-jeffrey-epsteins-spy-industry-connections/)
 4. [Leaked Emails Reveal Jeffrey Epstein's Connections to the Surveillance Industry](https://www.yahoo.com/news/articles/leaked-emails-reveal-jeffrey-epsteins-143052842.html)
+
+## Texas Sheriff Uses Flock Safety's 83,000 Camera Network to Track Woman Who Had Abortion
+*Date: 2025-05-01*
+
+1. [She Got an Abortion So A Texas Cop Used 83,000 Cameras to Track Her Down](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down)
+2. [After abortion report North Texas cop used surveillance network](https://www.dallasnews.com/news/texas/2025/06/13/after-finding-fetal-remains-north-texas-cops-used-camera-network-to-search-for-woman/)
+3. [Flock Safety and Texas Sheriff Claimed Search Was for Missing Person](https://www.eff.org/deeplinks/2025/10/flock-safety-and-texas-sheriff-claimed-license-plate-search-was-missing-person-it)
+4. [Ranking Members demand accountability from Flock Group](https://krishnamoorthi.house.gov/media/press-releases/ranking-members-krishnamoorthi-and-garcia-demand-accountability-flock-group)
 
 ## House Democrats Request Suspicious Activity Reports on Trump Crypto Ventures
 *Date: 2025-05-01*
@@ -11125,6 +12221,18 @@
 2. [US President Donald Trump's Social Media Firm Truth Social to Launch Spot BTC ETF](https://www.coindesk.com/markets/2025/06/03/us-president-donald-trumps-social-media-firm-truth-social-to-launch-spot-bitcoin-etf)
 3. [Trump Media Inches Closer to 'Truth Social Bitcoin ETF' After Filing](https://www.bloomberg.com/news/articles/2025-06-03/trump-tied-truth-social-bitcoin-etf-inches-closer-after-filing)
 4. [Day 5: Crypto Has Made Trump $1.2 BILLION Richer – and Counting](https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677)
+
+## Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
+*Date: 2025-06-05*
+
+1. [Anduril raises funding at $30.5 billion valuation in round led by Founders Fund, chairman says](https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html)
+2. [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/)
+
+## Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
+*Date: 2025-06-05*
+
+1. [Anduril raises funding at $30.5 billion valuation in round led by Founders Fund, chairman says](https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html)
+2. [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/)
 
 ## Musk Posts "Trump is in the Epstein Files" - 10 Million Views Before Deletion
 *Date: 2025-06-05*
@@ -12715,6 +13823,13 @@
 2. [National Guard troops in Washington are now carrying firearms, including handguns and rifles](https://www.pbs.org/newshour/nation/national-guard-troops-in-washington-are-now-carrying-firearms-including-handguns-and-rifles)
 3. [US National Guard troops begin carrying weapons in Washington, DC](https://www.aljazeera.com/news/2025/8/25/us-national-guard-troops-begin-carrying-weapons-in-washington-dc)
 
+## Flock Safety Admits Federal Immigration Agents Have Direct Access to Tracking Data, Pauses Pilot
+*Date: 2025-08-25*
+
+1. [Flock admits federal immigration agents have direct access to tracking data](https://www.9news.com/article/news/local/flock-federal-immigration-agents-access-tracking-data/73-a8aee742-56d4-4a57-b5bb-0373286dfef8)
+2. [Leaving the Door Wide Open Flock Surveillance Systems Expose Data](https://jsis.washington.edu/humanrights/2025/10/21/leaving-the-door-wide-open/)
+3. [Flock Safety defends local control as ICE reportedly uses ALPR data](https://www.securitysystemsnews.com/article/flock-safety-defends-local-control-as-ice-reportedly-uses-alpr-data-without-direct-agreement)
+
 ## Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal Funds
 *Date: 2025-08-25*
 
@@ -13275,6 +14390,12 @@
 
 1. [Padilla, Colleagues Launch Probe Into DOGE's Access to Sensitive Student Loan Data and Interference With Education Department](https://www.padilla.senate.gov/newsroom/press-releases/padilla-colleagues-launch-probe-into-doges-access-to-sensitive-student-loan-data-and-interference-with-education-department/)
 2. [Students sue over DOGE's access to Education Department data](https://www.courthousenews.com/students-sue-over-doges-access-to-education-department-data/)
+
+## ICE Homeland Security Investigations Signs $3 Million Contract with Magnet Forensics for GrayKey Technology
+*Date: 2025-09-18*
+
+1. [ICE unit signs new $3M contract for phone-hacking tech](https://techcrunch.com/2025/09/18/ice-unit-signs-new-3-million-contract-for-phone-hacking-tech/)
+2. [ICE Tops Its Old Record, Spends Another $820,000 On Cellphone-Cracking Tools](https://www.techdirt.com/2019/05/20/ice-tops-old-record-spends-another-820000-cellphone-cracking-tools/)
 
 ## Trump Appointee George Cook Named Acting Census Director in Unprecedented Triple Role
 *Date: 2025-09-19*
@@ -13869,6 +14990,13 @@
 1. [Executive Order: Ensuring Continued Accountability in Federal Hiring](https://www.whitehouse.gov/presidential-actions/2025/10/ensuring-continued-accountability-in-federal-hiring/)
 2. [Trump's latest order requires strategic plans reflective of presidential 'priorities' to resume hiring](https://www.govexec.com/workforce/2025/10/trumps-latest-order-requires-strategic-plans-reflective-presidential-priorities-resume-hiring/408897/)
 
+## Ring partners with Flock Safety and Axon, reversing privacy commitments and expanding police surveillance
+*Date: 2025-10-16*
+
+1. [Amazon's Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police](https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/)
+2. [Amazon Ring security cameras moving deeper into law enforcement with Flock Safety, Axon deals](https://www.cnbc.com/2025/10/16/amazon-ring-cameras-surveillance-law-enforcement-crime-police-investigations.html)
+3. [Ring, Flock Safety Join Forces To Expand Law Enforcement Surveillance Networks](https://www.techdirt.com/2025/10/28/ring-flock-safety-join-forces-to-expand-law-enforcement-surveillance-networks/)
+
 ## Trump Freezes $11 Billion in Infrastructure Projects in Democratic Cities
 *Date: 2025-10-17*
 
@@ -13985,6 +15113,13 @@
 2. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
 3. [Trump's Decline and the Rise of a Shadow Government](https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/)
 
+## Russ Vought Emerges as "Shadow President" Running Government During Trump Disengagement
+*Date: 2025-10-21*
+
+1. [Shadow President: Project 2025 Architect Russell Vought Using Shutdown to Gut Agencies](https://www.democracynow.org/2025/10/21/russell_vought_propublica_shadow_president)
+2. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
+3. [Trump's Decline and the Rise of a Shadow Government](https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/)
+
 ## Trump Installs Election Deniers in DHS Election Security Positions
 *Date: 2025-10-22*
 
@@ -14011,6 +15146,13 @@
 *Date: 2025-10-22*
 
 1. [Trump Prioritizes White South Africans in Refugee Admissions](https://www.washingtonpost.com/immigration/2025/10/22/trump-refugee-admissions-afrikaners/)
+
+## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
+*Date: 2025-10-22*
+
+1. [Trump plans to demolish White House East Wing as ballroom cost grows to $300 million](https://www.cbsnews.com/news/demolish-white-house-east-wing-ballroom-trump-cost/)
+2. [Trump defends East Wing demolition and raises ballroom price to $300 million](https://www.washingtonpost.com/politics/2025/10/22/trump-white-house-ballroom/)
+3. [Trump plows ahead with East Wing demolition despite calls for caution](https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump)
 
 ## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
 *Date: 2025-10-22*
@@ -14102,6 +15244,13 @@
 *Date: 2025-10-25*
 
 1. [Grand Jury Convened to Investigate 'Conspiracy Against Trump'](https://abcnews.go.com/Politics/federal-grand-jury-trump-conspiracy-investigation/story)
+
+## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
+*Date: 2025-10-25*
+
+1. [Keystone Kash Accused of Using $60M FBI Jet for Date Night](https://www.thedailybeast.com/kash-patel-accused-of-using-gov-jet-for-date-night/)
+2. [Kash Patel once called for ending FBI director's government jet use](https://www.cbsnews.com/news/patel-fbi-director-government-jet/)
+3. [FBI Ousts Leader as Patel Fumes Over Attention to Agency Jet Use](https://news.bloomberglaw.com/us-law-week/fbi-ousts-leader-as-patel-fumes-over-attention-to-agency-jet-use)
 
 ## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
 *Date: 2025-10-25*
@@ -14219,6 +15368,18 @@
 2. [Stephen Miller Is Hiding From Protesters by Living on Military Base](https://newrepublic.com/post/202463/stephen-miller-kristi-noem-hiding-protesters-military-base-housing)
 3. [Stephen Miller Scores Free Military House in 'Trump Green Zone'](https://www.thedailybeast.com/stephen-miller-scores-free-military-house-in-trump-green-zone/)
 
+## Anduril's Autonomous Fighter Jet Completes First Flight Test
+*Date: 2025-10-31*
+
+1. [Anduril conducts first flight test of Air Force CCA drone prototype](https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/)
+2. [Anduril CEO unveils the Fury unmanned fighter jet](https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/)
+
+## Anduril's Autonomous Fighter Jet Completes First Flight Test
+*Date: 2025-10-31*
+
+1. [Anduril conducts first flight test of Air Force CCA drone prototype](https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/)
+2. [Anduril CEO unveils the Fury unmanned fighter jet](https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/)
+
 ## Test Markdown Event Creation
 *Date: 2025-10-31*
 
@@ -14240,6 +15401,13 @@
 1. [Trump administration will fund SNAP food benefits at 50% the normal payment](https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown)
 2. [Trump Tyranny Tracker: Day 288](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288)
 
+## Axon acquires Carbyne for $625 million, consolidating Israeli 911 surveillance tech with US police body camera giant
+*Date: 2025-11-04*
+
+1. [Axon to Acquire Carbyne, Uniting Cloud Infrastructure and AI to Redefine the 911 Experience](https://investor.axon.com/2025-11-04-Axon-to-Acquire-Carbyne,-Uniting-Cloud-Infrastructure-and-AI-to-Redefine-the-911-Experience)
+2. [Public safety giant Axon acquires Carbyne for $625 million in cash](https://www.calcalistech.com/ctechnews/article/rj4vnuokwg)
+3. [Axon to Acquire Israeli AI-Powered Carbyne for Next-Gen 911](https://israel.com/breaking-only/axon-to-acquire-israeli-ai-powered-carbyne-for-next-gen-911-platform/)
+
 ## DOJ Escalates Investigation of 66-Year-Old Activist for Distributing Stephen Miller Protest Fliers
 *Date: 2025-11-04*
 
@@ -14260,6 +15428,13 @@
 1. [Immigration agents have new technology to identify and track people](https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware)
 2. [DHS Gives Local Cops a Facial Recognition App To Find Immigrants](https://www.404media.co/cbp-quietly-launches-face-scanning-app-for-local-cops-to-do-immigration-enforcement/)
 3. [Trump Tyranny Tracker: Day 289](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289)
+
+## FBI Agents Association Issues Unprecedented Rebuke: Patel "Disregarded the Law" in Campaign of Retribution
+*Date: 2025-11-04*
+
+1. [FBI agents rip Kash Patel's firings: erratic and arbitrary retribution](https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond)
+2. [FBI Agents Association: Kash Patel 'disregarded the law'](https://www.msnbc.com/rachel-maddow-show/maddowblog/fbi-agents-association-kash-patel-disregarded-law-latest-personnel-pur-rcna241928)
+3. [FBI association accuses Director Kash Patel of violating due process](https://www.cnn.com/2025/08/21/politics/fbi-association-warning-patel-firings)
 
 ## FBI Agents Association Issues Unprecedented Rebuke: Patel "Disregarded the Law" in Campaign of Retribution
 *Date: 2025-11-04*
