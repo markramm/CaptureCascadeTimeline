@@ -276,12 +276,12 @@ const EnhancedTimelineView = ({
         </button>
       </div>
 
-      {/* Keyboard Shortcuts Help */}
-      <div className="keyboard-help">
+      {/* Keyboard Shortcuts Help - Disabled to prevent overlay issues */}
+      {/* <div className="keyboard-help">
         <span>↑/↓ or J/K: Navigate</span>
         <span>M: Toggle Minimap</span>
         <span>C: Cycle Display</span>
-      </div>
+      </div> */}
     </div>
   );
 };
