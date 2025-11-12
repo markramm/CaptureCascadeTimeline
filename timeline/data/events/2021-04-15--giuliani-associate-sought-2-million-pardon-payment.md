@@ -32,7 +32,6 @@ sources:
     publisher: Reuters
     date: '2021-04-15'
     tier: 1
-sources:
   - title: Lev Parnas and Igor Fruman charged with campaign finance violations
     url: https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans
     publisher: U.S. Department of Justice
