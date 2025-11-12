@@ -1,0 +1,25 @@
+{
+  "name": "capturecascade-timeline",
+  "version": "1.0.0",
+  "description": "CaptureCascade Timeline - Integrated Hugo static site and React interactive viewer",
+  "private": true,
+  "scripts": {
+    "dev": "node dev-server.js",
+    "build": "npm run build:hugo && npm run build:viewer",
+    "build:hugo": "cd hugo-site && hugo",
+    "build:viewer": "cd timeline/viewer && npm run build",
+    "clean": "rm -rf hugo-site/public timeline/viewer/build",
+    "install:all": "cd timeline/viewer && npm install"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/CaptureCascadeTimeline.git"
+  },
+  "license": "MIT"
+}
