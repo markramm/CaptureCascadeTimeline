@@ -24,8 +24,7 @@ import {
   AlertCircle,
   Share2,
   Plus,
-  RefreshCw,
-  Activity
+  RefreshCw
 } from 'lucide-react';
 import './App.css';
 
@@ -634,22 +633,14 @@ function App() {
               <Filter size={20} />
             </button>
             
-            <button 
+            <button
               className={`icon-button ${showStats ? 'active' : ''}`}
               onClick={() => setShowStats(!showStats)}
               title="Toggle Statistics"
             >
               <BarChart3 size={20} />
             </button>
-            
-            <button 
-              className="icon-button"
-              onClick={() => setShowStats(!showStats)}
-              title="Toggle Research Monitor"
-            >
-              <Activity size={20} />
-            </button>
-            
+
             <button 
               className="icon-button"
               onClick={() => {

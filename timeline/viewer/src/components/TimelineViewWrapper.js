@@ -39,8 +39,16 @@ const TimelineViewWrapper = ({
     searchQuery
   };
 
-  if (!useIndexedDB) {
-    console.warn('[TimelineViewWrapper] Legacy mode enabled via localStorage. IndexedDB disabled.');
+  // VirtualTimelineView only supports timeline mode (not list/grid)
+  // For list/grid modes, always use EnhancedTimelineView
+  const shouldUseVirtualView = useIndexedDB && viewMode === 'timeline';
+
+  if (!shouldUseVirtualView) {
+    if (!useIndexedDB) {
+      console.warn('[TimelineViewWrapper] Legacy mode enabled via localStorage. IndexedDB disabled.');
+    } else {
+      console.log(`[TimelineViewWrapper] Using EnhancedTimelineView for ${viewMode} mode`);
+    }
     // Lazy load EnhancedTimelineView only if needed
     const EnhancedTimelineView = require('./EnhancedTimelineView').default;
     return (
@@ -62,7 +70,7 @@ const TimelineViewWrapper = ({
     );
   }
 
-  console.log('[TimelineViewWrapper] Using IndexedDB-optimized VirtualTimelineView');
+  console.log('[TimelineViewWrapper] Using IndexedDB-optimized VirtualTimelineView for timeline mode');
 
   return (
     <VirtualTimelineView
