@@ -872,8 +872,8 @@ function App() {
         <main className="main-content">
           <div className="timeline-header">
             <h2>
-              {filteredEvents.length} Events
-              {filteredEvents.length !== events.length && 
+              {events.length > 0 ? filteredEvents.length : (stats?.total_events || 0)} Events
+              {events.length > 0 && filteredEvents.length !== events.length &&
                 ` (filtered from ${events.length})`
               }
             </h2>
