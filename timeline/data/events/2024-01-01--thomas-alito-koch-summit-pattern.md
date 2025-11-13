@@ -6,7 +6,7 @@ title: Clarence Thomas Secretly Participated in Koch Network Donor Events
 location: Various, United States
 actors:
 - Clarence Thomas
-- Koch network
+- Koch Network
 - Charles Koch
 - David Koch
 - Federalist Society

@@ -5,7 +5,7 @@ actors:
 - Changpeng Zhao
 - Donald Trump
 - Senator Chris Murphy
-- Trump family
+- Trump Family
 - World Liberty Financial
 date: '2025-10-29'
 id: 2025-10-29--binance-us-lists-trump-usd1-stablecoin

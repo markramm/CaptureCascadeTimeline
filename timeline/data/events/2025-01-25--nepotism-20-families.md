@@ -8,7 +8,7 @@ actors:
 - Charles Kushner
 - Kimberly Guilfoyle
 - Massad Boulos
-- Trump family
+- Trump Family
 tags:
 - nepotism
 - family-appointments

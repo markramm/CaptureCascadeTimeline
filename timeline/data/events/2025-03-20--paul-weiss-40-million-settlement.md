@@ -5,7 +5,7 @@ importance: 6
 title: Paul Weiss becomes first law firm to capitulate with $40M settlement
 location: New York, NY
 actors:
-- Paul Weiss law firm
+- Paul Weiss Law Firm
 - Trump Administration
 - Law firm chair
 tags:

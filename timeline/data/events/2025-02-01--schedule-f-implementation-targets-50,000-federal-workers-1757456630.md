@@ -4,7 +4,7 @@ title: Schedule F Implementation Targets 50,000 Federal Workers
 actors:
 - Donald Trump
 - Russell Vought
-- Federal workforce
+- Federal Workforce
 importance: 9
 sources:
 - title: Federal News Network

@@ -8,7 +8,7 @@ actors:
 - DOGE
 - Challenger Gray & Christmas
 - Elon Musk
-- Federal agencies
+- Federal Agencies
 sources:
 - title: 'Federal Cuts Dominate March 2025 Total: 275,240 Announced Job Cuts, 216,670
     from DOGE Actions'

@@ -22,7 +22,7 @@ actors:
 - Greg Cipolaro
 - BitGo Trust
 - BitGo Technologies
-- Trump family
+- Trump Family
 sources:
 - title: Trump-Linked World Liberty Financial's Stablecoin Needs Better Attestation
     Reports, NYDIG Says

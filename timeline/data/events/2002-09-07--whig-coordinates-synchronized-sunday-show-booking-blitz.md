@@ -11,9 +11,9 @@ actors:
 - Dick Cheney
 - Condoleezza Rice
 - Andrew Card
-- CBS booking producers
-- NBC booking producers
-- CNN booking producers
+- CBS Booking Producers
+- NBC Booking Producers
+- CNN Booking Producers
 tags:
 - whig
 - media-coordination

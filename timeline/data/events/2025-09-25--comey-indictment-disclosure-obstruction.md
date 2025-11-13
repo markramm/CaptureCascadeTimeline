@@ -8,7 +8,7 @@ actors:
 - James Comey
 - Pam Bondi
 - Kash Patel
-- Trump administration
+- Trump Administration
 tags:
 - doj
 - fbi

@@ -9,7 +9,7 @@ actors:
 - Supreme Court of the United States
 - First National Bank of Boston
 - Francis X. Bellotti (Massachusetts Attorney General)
-- Corporate interests
+- Corporate Interests
 tags:
 - corporate-speech-rights
 - first-amendment

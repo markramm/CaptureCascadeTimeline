@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Trump Administration
 - Trump loyalists
-- Federal agencies
+- Federal Agencies
 tags:
 - political-loyalty
 - federal-agencies

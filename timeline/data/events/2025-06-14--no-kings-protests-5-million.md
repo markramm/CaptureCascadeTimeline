@@ -5,7 +5,7 @@ importance: 10
 title: '"No Kings" protests draw 5 million people in 2,100+ locations'
 location: United States (nationwide)
 actors:
-- Civil society organizations
+- Civil Society Organizations
 - Protest movements
 - American Civil Liberties Union
 - MoveOn

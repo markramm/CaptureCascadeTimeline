@@ -4,7 +4,7 @@ actors:
 - corporate clients
 - Pam Bondi
 - Susie Wiles
-- Trump administration
+- Trump Administration
 date: '2025-10-25'
 id: 2025-10-25--ballard-lobbying-revenue-surge
 importance: 9

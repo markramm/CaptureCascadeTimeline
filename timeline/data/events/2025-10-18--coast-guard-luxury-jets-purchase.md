@@ -11,7 +11,7 @@ tags:
 actors:
 - Kristi Noem
 - DHS
-- Trump administration
+- Trump Administration
 sources:
 - url: https://www.nytimes.com/2025/10/18/us/politics/dhs-luxury-jets-noem-shutdown.html
   title: Coast Guard Luxury Jet Purchase

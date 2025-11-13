@@ -6,7 +6,7 @@ title: Epstein arrested three weeks after money laundering revelations
 location: Teterboro, NJ
 actors:
 - Jeffrey Epstein
-- Federal prosecutors
+- Federal Prosecutors
 tags:
 - witness-elimination
 - money-laundering

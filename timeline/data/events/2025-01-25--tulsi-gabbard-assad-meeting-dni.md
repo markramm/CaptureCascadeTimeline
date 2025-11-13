@@ -24,7 +24,7 @@ actors:
 - tulsi-gabbard
 - bashar-al-assad
 - russian-intelligence
-- dni
+- DNI
 - intelligence-allies
 - senate-republicans
 capture_lane: political

@@ -9,7 +9,7 @@ actors:
 - Trump Administration
 - Federal Courts
 - Department of Justice
-- Federal agencies
+- Federal Agencies
 tags:
 - court-defiance
 - constitutional-crisis

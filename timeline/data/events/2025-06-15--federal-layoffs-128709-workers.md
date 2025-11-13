@@ -10,7 +10,7 @@ actors:
 - Department of Government Efficiency (DOGE)
 - Elon Musk
 - Vivek Ramaswamy
-- Federal workforce
+- Federal Workforce
 tags:
 - federal-workforce
 - civil-service

@@ -6,7 +6,7 @@ title: Systematic assault on judicial independence begins
 location: Washington, DC
 actors:
 - Trump Administration
-- Federal judiciary
+- Federal Judiciary
 - Law firms
 tags:
 - constitutional-crisis

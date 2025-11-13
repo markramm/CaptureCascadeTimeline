@@ -13,7 +13,7 @@ tags:
 actors:
 - Pam Bondi
 - Tulsi Gabbard
-- Trump administration
+- Trump Administration
 - DOJ
 - CIA
 - FBI

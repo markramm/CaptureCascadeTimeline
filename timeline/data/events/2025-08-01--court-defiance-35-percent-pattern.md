@@ -6,7 +6,7 @@ title: Trump administration defies court orders in 57 of 165 cases (35%)
 location: United States
 actors:
 - Trump Administration
-- Federal judiciary
+- Federal Judiciary
 - U.S. District Judge James Boasberg
 - U.S. District Judge John McConnell
 - Judge Paula Xinis

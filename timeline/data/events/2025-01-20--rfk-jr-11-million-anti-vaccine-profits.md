@@ -2,9 +2,9 @@
 actors:
 - robert-f-kennedy-jr
 - childrens-health-defense
-- hhs
-- nih
-- merck
+- HHS
+- NIH
+- Merck
 - crispr-therapeutics
 - dragonfly-therapeutics
 - wisner-baum-law-firm

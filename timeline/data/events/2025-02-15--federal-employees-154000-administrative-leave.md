@@ -21,7 +21,7 @@ tags:
 - deferred-resignation
 actors:
 - Trump Administration
-- opm
+- OPM
 - Federal employees
 capture_lane: political
 status: confirmed

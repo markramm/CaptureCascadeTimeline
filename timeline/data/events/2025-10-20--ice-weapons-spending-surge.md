@@ -10,7 +10,7 @@ tags:
 - abuse-of-power
 actors:
 - ICE
-- Trump administration
+- Trump Administration
 sources:
 - url: https://popular.info/p/ice-weapons-spending-militarization
   title: ICE Weapons Spending Surges 700 Percent

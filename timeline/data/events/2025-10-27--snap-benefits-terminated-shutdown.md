@@ -2,7 +2,7 @@
 actors:
 - Donald Trump
 - Mike Johnson
-- Trump administration
+- Trump Administration
 date: '2025-10-27'
 id: 2025-10-27--snap-benefits-terminated-shutdown
 importance: 9

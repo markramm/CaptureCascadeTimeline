@@ -10,7 +10,7 @@ actors:
 - Immigration and Customs Enforcement
 - Catherine Sharp
 - Michael Rabbitt
-- Trump administration
+- Trump Administration
 tags:
 - doj
 - indictment

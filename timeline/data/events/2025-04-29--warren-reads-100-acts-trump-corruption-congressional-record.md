@@ -15,7 +15,7 @@ actors:
 - Elizabeth Warren
 - U.S. Senate
 - Donald Trump
-- Trump administration
+- Trump Administration
 sources:
 - title: 'ICYMI: Warren Reads 100 Acts of Trump Corruption into Congressional Record'
   url: https://www.warren.senate.gov/newsroom/press-releases/icymi-warren-reads-100-acts-of-trump-corruption-into-congressional-record-to-mark-100-days-of-the-trump-administration

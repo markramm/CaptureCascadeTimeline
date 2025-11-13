@@ -10,7 +10,7 @@ actors:
 - Verizon
 - Comcast
 - AT&T
-- Donald Trump Administration
+- Trump Administration
 tags:
 - regulatory-capture
 - net-neutrality

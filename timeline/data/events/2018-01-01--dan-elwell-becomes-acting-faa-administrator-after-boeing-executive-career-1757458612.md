@@ -13,7 +13,7 @@ actors:
 - Trump administration officials
 - Aviation industry executives
 - FAA certification teams
-- Congressional oversight committees
+- Congressional Oversight Committees
 sources:
 - title: Dan Elwell Takes Helm of FAA as Huerta Departs
   url: https://www.ainonline.com/aviation-news/business-aviation/2018-01-08/dan-elwell-takes-helm-faa-huerta-departs

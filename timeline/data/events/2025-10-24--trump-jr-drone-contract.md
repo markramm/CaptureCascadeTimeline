@@ -15,7 +15,7 @@ actors:
 - Unusual Machines
 - Pentagon
 - U.S. Army
-- Trump administration
+- Trump Administration
 sources:
 - url: https://techstartups.com/2025/10/24/trump-jr-backed-drone-company-wins-multimillion-dollar-pentagon-contract/
   title: Trump Jr.–backed little-known drone company wins multimillion-dollar Pentagon

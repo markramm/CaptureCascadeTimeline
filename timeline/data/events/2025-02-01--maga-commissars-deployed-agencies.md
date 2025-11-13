@@ -6,7 +6,7 @@ title: MAGA commissars deployed throughout federal agencies to monitor complianc
 location: Washington, DC
 actors:
 - White House Personnel Office
-- Federal agencies
+- Federal Agencies
 - Office of Personnel Management (OPM)
 tags:
 - political-control

@@ -12,7 +12,7 @@ tags:
 actors:
 - Paul Dabbar
 - Howard Lutnick
-- Trump administration
+- Trump Administration
 - quantum computing companies
 sources:
 - url: https://www.wsj.com/articles/trump-quantum-computing-equity-stakes

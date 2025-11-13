@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Campaign Legal Center
 - Trump appointees
-- Ethics watchdogs
+- Ethics Watchdogs
 tags:
 - conflict-of-interest
 - ethics-violation

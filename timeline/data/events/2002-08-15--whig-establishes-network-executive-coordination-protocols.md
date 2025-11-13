@@ -11,7 +11,7 @@ actors:
 - Sunday show producers
 - NBC executives
 - CBS executives
-- CNN executives
+- CNN Executives
 - Republican National Committee
 tags:
 - whig

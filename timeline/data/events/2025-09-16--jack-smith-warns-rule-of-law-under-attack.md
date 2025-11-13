@@ -8,7 +8,7 @@ actors:
 - Jack Smith
 - Department of Justice
 - George Mason University
-- Trump administration
+- Trump Administration
 tags:
 - doj
 - rule-of-law

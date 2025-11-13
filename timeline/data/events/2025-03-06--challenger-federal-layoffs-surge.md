@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - DOGE
 - Elon Musk
-- Federal agencies
+- Federal Agencies
 - Challenger Gray & Christmas
 sources:
 - title: February 2025 Job Cuts Surge on DOGE Actions, Retail Woes; Highest Monthly

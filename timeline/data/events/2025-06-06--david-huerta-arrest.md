@@ -8,7 +8,7 @@ actors:
 - David Huerta
 - ICE
 - SEIU
-- Federal law enforcement
+- Federal Law Enforcement
 tags:
 - labor-suppression
 - arrest

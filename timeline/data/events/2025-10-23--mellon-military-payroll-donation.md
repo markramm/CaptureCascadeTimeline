@@ -12,7 +12,7 @@ tags:
 actors:
 - Timothy Mellon
 - Pentagon
-- Trump administration
+- Trump Administration
 sources:
 - url: https://www.cbsnews.com/news/timothy-mellon-donor-pay-u-s-troops-government-shutdown/
   title: Reclusive megadonor Timothy Mellon offered to help pay U.S. troops during

@@ -10,7 +10,7 @@ actors:
 - Office of Government Ethics (OGE)
 - Public Citizen
 - Craig Holman (Public Citizen lobbyist)
-- Political appointees
+- Political Appointees
 tags:
 - ethics-violation
 - lobbying

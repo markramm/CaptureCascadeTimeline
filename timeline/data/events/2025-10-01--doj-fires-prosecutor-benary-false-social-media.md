@@ -9,7 +9,7 @@ actors:
 - Department of Justice
 - Julie Kelly
 - U.S. Attorney's Office Eastern District of Virginia
-- Trump administration
+- Trump Administration
 tags:
 - doj
 - prosecutor-firing

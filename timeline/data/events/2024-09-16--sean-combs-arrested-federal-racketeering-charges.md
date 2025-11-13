@@ -21,7 +21,7 @@ actors:
 - Sean Combs
 - Department of Justice
 - SDNY
-- Federal prosecutors
+- Federal Prosecutors
 tags:
 - arrest
 - racketeering

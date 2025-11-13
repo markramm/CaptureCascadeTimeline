@@ -250,3 +250,6 @@ timeline/viewer/coverage/
 timeline/viewer/build/
 hugo-site/public/
 hugo-site/.hugo_build.lock
+
+# Cleanup scripts (not for public repo)
+scripts/

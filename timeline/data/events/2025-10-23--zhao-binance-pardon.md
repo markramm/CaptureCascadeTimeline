@@ -15,7 +15,7 @@ actors:
 - Binance
 - World Liberty Financial
 - Donald Trump Jr.
-- Trump family
+- Trump Family
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-10-27/pardon-of-cz-how-binance-founder-aided-trump-family-crypto-venture
   title: How Zhao's Binance Aided Trump Family Crypto Venture Before Pardon

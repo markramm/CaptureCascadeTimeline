@@ -1,6 +1,6 @@
 ---
 actors:
-- Trump administration
+- Trump Administration
 - Major law firms
 - Paul, Weiss
 - Kirkland & Ellis

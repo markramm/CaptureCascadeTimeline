@@ -6,7 +6,7 @@ title: Supreme Court lifts injunctions, enables mass firings at 19 federal agenc
 location: Washington, DC
 actors:
 - Supreme Court
-- Federal agencies
+- Federal Agencies
 - GSA
 - Department of Government Efficiency (DOGE)
 - Justice Ketanji Brown Jackson

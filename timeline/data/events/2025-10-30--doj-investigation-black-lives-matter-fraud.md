@@ -8,7 +8,7 @@ actors:
 - Department of Justice
 - Black Lives Matter Global Network Foundation
 - U.S. Attorney's Office Central District of California
-- Trump administration
+- Trump Administration
 tags:
 - doj
 - criminal-investigation

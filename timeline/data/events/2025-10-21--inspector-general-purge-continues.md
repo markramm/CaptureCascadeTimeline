@@ -11,7 +11,7 @@ tags:
 actors:
 - Donald Trump
 - Parisa Salehi
-- inspectors general
+- Inspectors General
 sources:
 - url: https://www.nytimes.com/2025/10/21/us/politics/trump-inspector-general-firing.html
   title: Trump Fires Another Inspector General

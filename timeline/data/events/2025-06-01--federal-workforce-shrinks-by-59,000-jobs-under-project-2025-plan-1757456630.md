@@ -2,8 +2,8 @@
 date: '2025-06-01'
 title: Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan
 actors:
-- Federal workforce
-- Trump administration
+- Federal Workforce
+- Trump Administration
 - Russell Vought
 - Office of Management and Budget (OMB)
 - Office of Personnel Management (OPM)

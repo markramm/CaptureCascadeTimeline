@@ -10,7 +10,7 @@ tags:
 - racism
 - abuse-of-power
 actors:
-- Trump administration
+- Trump Administration
 - State Department
 - pro-Afrikaner advocacy groups
 sources:

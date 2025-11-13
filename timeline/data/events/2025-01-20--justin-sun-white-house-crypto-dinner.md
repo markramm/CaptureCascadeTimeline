@@ -8,7 +8,7 @@ location: White House, Washington DC
 actors:
 - Justin Sun
 - Donald Trump
-- Trump family
+- Trump Family
 - Securities and Exchange Commission (SEC)
 - World Liberty Financial
 - CIC Digital LLC

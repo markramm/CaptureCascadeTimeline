@@ -12,7 +12,7 @@ tags:
 actors:
 - Philanthropy Roundtable
 - Institute for Educational Affairs
-- Koch network
+- Koch Network
 - Conservative foundations
 sources:
 - title: 'Philanthropy Roundtable'

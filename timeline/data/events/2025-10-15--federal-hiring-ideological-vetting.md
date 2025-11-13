@@ -10,8 +10,8 @@ tags:
 - authoritarianism
 actors:
 - Donald Trump
-- political appointees
-- federal agencies
+- Political Appointees
+- Federal Agencies
 sources:
 - url: https://www.nytimes.com/2025/10/15/us/politics/trump-federal-hiring-political-loyalty.html
   title: Trump Requires Political Loyalty Tests for Federal Hiring

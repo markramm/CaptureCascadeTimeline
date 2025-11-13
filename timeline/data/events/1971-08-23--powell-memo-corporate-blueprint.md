@@ -14,7 +14,7 @@ actors:
 - Lewis F. Powell Jr.
 - Eugene B. Sydnor Jr.
 - U.S. Chamber of Commerce
-- Nixon administration
+- Nixon Administration
 tags:
 - powell-memo
 - corporate-strategy

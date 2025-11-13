@@ -20,7 +20,7 @@ location: Los Angeles, California
 actors:
 - Committee to Protect Journalists (CPJ)
 - LAPD
-- Federal law enforcement
+- Federal Law Enforcement
 - Journalists and reporters
 - National Guard
 notes: Nick Stern (British freelancer) needed emergency surgery from 3-inch plastic

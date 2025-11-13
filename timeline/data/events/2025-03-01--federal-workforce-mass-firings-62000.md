@@ -20,7 +20,7 @@ tags:
 - institutional-capture
 actors:
 - Trump Administration
-- opm
+- OPM
 - interior-department
 - forest-service
 - CFPB

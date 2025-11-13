@@ -5,7 +5,7 @@ title: Systematic Coordination Emerges in Federal Worker Purge and Civil Service
 importance: 8
 status: confirmed
 actors:
-- Donald Trump Administration
+- Trump Administration
 - Heritage Foundation
 - Office of Personnel Management
 - Federal Employee Unions

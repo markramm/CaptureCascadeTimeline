@@ -12,8 +12,8 @@ tags:
 actors:
 - DeSantis administration
 - Florida officials
-- federal courts
-- Trump administration
+- Federal Courts
+- Trump Administration
 sources:
 - url: https://apnews.com/article/florida-immigration-detention-facility-funding-concealment
   title: Officials Hide $608M Federal Funding Request for Alligator Alcatraz

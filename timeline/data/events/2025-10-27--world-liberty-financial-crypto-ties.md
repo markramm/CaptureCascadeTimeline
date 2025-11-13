@@ -3,7 +3,7 @@ actors:
 - Binance
 - Changpeng Zhao
 - Donald Trump
-- Trump family
+- Trump Family
 - World Liberty Financial
 date: '2025-10-27'
 id: 2025-10-27--world-liberty-financial-crypto-ties

@@ -6,7 +6,7 @@ title: Mueller Report finds 140+ contacts between Trump campaign and Russians
 actors:
 - Robert Mueller
 - Donald Trump
-- Trump campaign
+- Trump Campaign
 - Russian nationals
 - WikiLeaks
 tags:

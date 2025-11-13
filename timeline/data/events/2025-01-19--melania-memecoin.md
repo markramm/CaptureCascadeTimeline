@@ -8,7 +8,7 @@ actors:
 - Melania Trump
 - Donald Trump
 - Anonymous traders (24 wallets)
-- Trump family
+- Trump Family
 tags:
 - crypto
 - conflict-of-interest

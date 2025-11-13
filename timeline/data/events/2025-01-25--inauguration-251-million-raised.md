@@ -5,7 +5,7 @@ importance: 7
 title: Trump inauguration raises record $251.4 million from corporations
 location: Washington, DC
 actors:
-- Trump inaugural committee
+- Trump Inaugural Committee
 - Pilgrim's Pride Corp. ($5 million)
 - Ripple Labs ($4.9 million)
 - Warren Stephens ($4 million, appointed UK Ambassador)

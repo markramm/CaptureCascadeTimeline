@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Trump Administration
 - OPM
-- Federal agencies
+- Federal Agencies
 tags:
 - loyalty-tests
 - january-6

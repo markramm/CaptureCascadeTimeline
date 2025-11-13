@@ -7,7 +7,7 @@ importance: 10
 actors:
 - Department of Homeland Security
 - Sean Combs
-- Federal prosecutors
+- Federal Prosecutors
 - U.S. Attorney's Office for the Southern District of New York
 tags:
 - homeland-security

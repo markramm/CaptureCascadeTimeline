@@ -20,7 +20,7 @@ tags:
 actors:
 - roger-stone
 - Department of Justice
-- irs
+- IRS
 - drake-ventures-llc
 capture_lane: judicial
 status: confirmed

@@ -3,7 +3,7 @@ actors:
 - doug-burgum
 - interior-department
 - continental-resources
-- microsoft
+- Microsoft
 - u-s-office-of-government-ethics
 capture_lane: economic
 capture_lanes:
