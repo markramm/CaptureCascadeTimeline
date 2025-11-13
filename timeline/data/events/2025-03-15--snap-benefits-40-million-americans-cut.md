@@ -20,7 +20,7 @@ tags:
 - child-welfare
 actors:
 - Trump Administration
-- usda
+- USDA
 - department-of-health-human-services
 - Department of Labor
 capture_lane: economic

@@ -11,7 +11,7 @@ tags:
 actors:
 - Donald Trump
 - Treasury Department
-- White House staff
+- White House Staff
 sources:
 - url: https://www.nytimes.com/2025/10/22/us/politics/white-house-east-wing-demolition-ballroom.html
   title: Trump Confirms East Wing Demolition for Personal Ballroom

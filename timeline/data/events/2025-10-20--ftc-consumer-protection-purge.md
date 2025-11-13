@@ -11,7 +11,7 @@ tags:
 actors:
 - FTC
 - Lina Khan
-- Trump appointees
+- Trump Appointees
 - tech companies
 sources:
 - url: https://www.wired.com/story/ftc-deletes-consumer-protection-ai-guidance/

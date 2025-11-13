@@ -3,7 +3,7 @@ actors:
 - Federal District Court
 - Department of Defense
 - State Governors
-- President Donald Trump
+- Donald Trump
 - 9th U.S. Circuit Court of Appeals
 - Judge Charles Breyer
 - California Governor Gavin Newsom

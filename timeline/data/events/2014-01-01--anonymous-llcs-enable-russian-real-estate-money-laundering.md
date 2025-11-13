@@ -15,7 +15,7 @@ tags:
 actors:
 - US Treasury
 - FinCEN
-- Russian oligarchs
+- Russian Oligarchs
 - US real estate industry
 sources:
 - title: 'NDAA Russia Illicit Finance Report'

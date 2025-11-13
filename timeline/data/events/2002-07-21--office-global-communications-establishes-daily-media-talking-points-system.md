@@ -8,7 +8,7 @@ actors:
 - Office of Global Communications
 - White House Iraq Group
 - George W. Bush
-- television network executives
+- Television Network Executives
 - reporters worldwide
 - U.S. embassy personnel
 - Congressional staff

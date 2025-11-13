@@ -11,7 +11,7 @@ tags:
 - emoluments-clause
 actors:
 - Donald Trump
-- Trump Media and Technology Group
+- Trump Media & Technology Group
 - World Liberty Financial
 - MGX
 - Binance

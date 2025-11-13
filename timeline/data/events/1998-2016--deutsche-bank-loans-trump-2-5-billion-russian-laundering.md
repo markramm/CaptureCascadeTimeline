@@ -15,7 +15,7 @@ actors:
 - Deutsche Bank
 - Donald Trump
 - Trump Organization
-- Russian oligarchs
+- Russian Oligarchs
 - Justin Kennedy
 sources:
 - title: 'Deutsche Bank loaned more than $2 billion to Trump over two decades'

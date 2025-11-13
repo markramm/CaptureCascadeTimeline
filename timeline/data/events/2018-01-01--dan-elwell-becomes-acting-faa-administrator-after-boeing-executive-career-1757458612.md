@@ -10,7 +10,7 @@ actors:
 - Aerospace Industries Association
 - Airlines for America
 - American Airlines
-- Trump administration officials
+- Trump Administration Officials
 - Aviation industry executives
 - FAA certification teams
 - Congressional Oversight Committees

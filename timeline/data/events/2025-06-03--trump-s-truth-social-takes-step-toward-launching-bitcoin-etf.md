@@ -11,7 +11,7 @@ importance: 9
 location: Washington, D.C.
 actors:
 - Donald Trump
-- Trump Media and Technology Group
+- Trump Media & Technology Group
 - Yorkville America Digital
 - Foris DAX Trust Company
 - NYSE Arca

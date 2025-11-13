@@ -4,7 +4,7 @@ title: President fires Special Counsel Hampton Dellinger; litigation ensues
 date: '2025-02-07'
 importance: 6
 actors:
-- President Donald Trump
+- Donald Trump
 - Hampton Dellinger (Special Counsel)
 - Office of Special Counsel (OSC)
 - Judge Amy Berman Jackson

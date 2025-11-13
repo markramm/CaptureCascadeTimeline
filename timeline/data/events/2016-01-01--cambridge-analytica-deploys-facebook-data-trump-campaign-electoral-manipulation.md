@@ -6,7 +6,7 @@ title: Cambridge Analytica Deploys Harvested Facebook Data for Trump Campaign El
 importance: 10
 actors:
 - Cambridge Analytica
-- Donald Trump Campaign
+- Trump Campaign
 - Alexander Nix
 - Steve Bannon
 - Robert Mercer

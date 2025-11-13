@@ -6,7 +6,7 @@ actors:
 - Estera
 - Queen Elizabeth II
 - Wilbur Ross
-- Russian oligarchs
+- Russian Oligarchs
 - ICIJ
 - Donald Trump
 sources:

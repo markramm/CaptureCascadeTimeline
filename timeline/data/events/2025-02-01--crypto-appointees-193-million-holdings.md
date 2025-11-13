@@ -5,7 +5,7 @@ importance: 5
 title: Over 70 Trump appointees hold $193+ million in cryptocurrency
 location: Washington, DC
 actors:
-- Trump appointees
+- Trump Appointees
 - Scott Bessent
 tags:
 - crypto

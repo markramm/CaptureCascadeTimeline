@@ -9,7 +9,7 @@ actors:
 - Merrick Garland
 - Gary Kalman
 - Aaron Zelinsky
-- Russian oligarchs
+- Russian Oligarchs
 - Transparency International
 tags:
 - institutional-capture

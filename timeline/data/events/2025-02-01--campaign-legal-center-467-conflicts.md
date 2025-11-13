@@ -6,7 +6,7 @@ title: Campaign Legal Center identifies 467 conflicts requiring recusal
 location: Washington, DC
 actors:
 - Campaign Legal Center
-- Trump appointees
+- Trump Appointees
 - Ethics Watchdogs
 tags:
 - conflict-of-interest
