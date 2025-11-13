@@ -6,7 +6,7 @@ importance: 9
 actors:
 - OpenAI
 - Anduril Industries
-- U.S. Department of Defense
+- Department of Defense
 - Palmer Luckey
 tags:
 - Autonomous Weapons

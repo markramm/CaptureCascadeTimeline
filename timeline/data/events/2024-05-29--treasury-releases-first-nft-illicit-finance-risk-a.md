@@ -4,7 +4,7 @@ title: Treasury Releases First NFT Illicit Finance Risk Assessment Warning of Mo
   Laundering Vulnerabilities
 importance: 9
 actors:
-- U.S. Treasury Department
+- Treasury Department
 - FinCEN
 sources:
 - title: Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment

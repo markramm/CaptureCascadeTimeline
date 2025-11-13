@@ -9,7 +9,7 @@ actors:
 - Starlink
 - Tesla
 - State Department
-- Commerce Department
+- Department of Commerce
 tags:
 - self-dealing
 - starlink

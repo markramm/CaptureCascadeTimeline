@@ -14,7 +14,7 @@ actors:
 - Roger Ver
 - Roger Stone
 - Donald Trump
-- U.S. Department of Justice
+- Department of Justice
 tags:
 - crypto
 - tax-evasion

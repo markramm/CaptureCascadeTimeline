@@ -9,7 +9,7 @@ actors:
 - Jay Bybee
 - Alberto Gonzales
 - White House Iraq Group
-- Justice Department
+- Department of Justice
 - Dick Cheney
 - Donald Rumsfeld
 - CIA

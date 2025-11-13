@@ -7,7 +7,7 @@ actors:
 - NationsBank
 - BankAmerica
 - Federal Reserve
-- U.S. Department of Justice
+- Department of Justice
 - Hugh McColl
 tags:
 - banking-consolidation

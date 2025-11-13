@@ -8,7 +8,7 @@ actors:
 - World Bank
 - South Korean Government
 - Chaebol Corporations
-- US Treasury Department
+- Treasury Department
 tags:
 - asian-financial-crisis
 - structural-adjustment

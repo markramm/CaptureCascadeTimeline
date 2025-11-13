@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Northrop Grumman
 - U.S. Air Force
-- U.S. Department of Defense
+- Department of Defense
 - U.S. Congress
 - Government Accountability Office
 tags:

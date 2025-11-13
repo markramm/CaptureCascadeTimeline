@@ -5,7 +5,7 @@ date: '2025-08-08'
 importance: 5
 location: Washington DC
 actors:
-- Environmental Protection Agency (EPA)
+- Environmental Protection Agency
 - AFGE Council 238 (8,000+ EPA workers)
 - Justin Chen (AFGE Council 238 President)
 - Ninth Circuit Court of Appeals

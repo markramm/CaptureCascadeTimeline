@@ -9,7 +9,7 @@ actors:
 - Michael Ben'Ary
 - Jack Smith
 - Donald Trump
-- U.S. Department of Justice
+- Department of Justice
 - Federal Prosecutors
 sources:
 - outlet: NBC News

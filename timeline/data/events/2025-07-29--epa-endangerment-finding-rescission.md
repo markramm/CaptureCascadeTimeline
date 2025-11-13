@@ -5,7 +5,7 @@ date: '2025-07-29'
 importance: 6
 location: Washington DC
 actors:
-- Environmental Protection Agency (EPA)
+- Environmental Protection Agency
 - Lee Zeldin (EPA Administrator)
 tags:
 - environmental-deregulation

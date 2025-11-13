@@ -6,7 +6,7 @@ actors:
 - Guo Wengui
 - Ho Wan Kwok
 - Kin Ming Je
-- U.S. Department of Justice
+- Department of Justice
 - Steve Bannon
 - Yvette Wang
 tags:

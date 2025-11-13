@@ -11,7 +11,7 @@ actors:
 - Elon Musk
 - Heritage Trust (Delaware)
 - Citigroup
-- U.S. Treasury Department
+- Treasury Department
 - DOJ/FBI/IRS investigation
 tags:
 - russian-investment

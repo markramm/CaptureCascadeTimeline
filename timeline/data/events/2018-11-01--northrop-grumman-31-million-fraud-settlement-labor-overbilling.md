@@ -5,7 +5,7 @@ title: Northrop Grumman Pays $31.65 Million for Fraudulent Overbilling of Air Fo
 importance: 8
 actors:
 - Northrop Grumman
-- U.S. Department of Justice
+- Department of Justice
 - U.S. Air Force
 - Defense Criminal Investigative Service
 - FBI

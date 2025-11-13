@@ -3,7 +3,7 @@ date: '2023-01-24'
 title: DOJ Sues Google Over Ad Tech Monopoly, Seeks Historic Breakup
 description: The U.S. Department of Justice filed a landmark antitrust lawsuit seeking to break up Google's advertising technology business—the first attempted corporate breakup since AT&T in 1982. The complaint alleged that Google illegally monopolizes publisher ad servers, ad exchanges, and advertiser ad networks through the 2008 DoubleClick acquisition and subsequent anticompetitive practices including auction manipulation (Project Bernanke), collusion with Facebook (Jedi Blue), and systematic conflicts of interest from vertical integration. The DOJ documented that Google controls at least 90% of publisher ad servers, over 50% of ad exchanges, and extracts 30-50% of advertising dollars through monopoly power—compared to 10-15% for competitive intermediaries. The suit seeks forced divestiture of at minimum Google Ad Manager and AdX, representing recognition that behavioral remedies are insufficient and structural separation is necessary to restore competition. Trial began September 2024.
 actors:
-- U.S. Department of Justice
+- Department of Justice
 - Google
 - Sundar Pichai
 - Jonathan Kanter (Assistant AG Antitrust)

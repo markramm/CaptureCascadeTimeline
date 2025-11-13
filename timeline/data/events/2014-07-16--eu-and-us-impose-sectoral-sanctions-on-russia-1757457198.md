@@ -5,7 +5,7 @@ title: US and EU Impose Coordinated Sectoral Sanctions on Russia Following MH17 
 importance: 9
 location: Washington, D.C. and Brussels, Belgium
 actors:
-- US Treasury Department
+- Treasury Department
 - European Union Council
 - Sberbank
 - VEB

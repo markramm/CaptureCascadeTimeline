@@ -10,7 +10,7 @@ actors:
 - Purdue Pharma
 - Food and Drug Administration
 - Division of Anesthetic, Critical Care, and Addiction Drug Products
-- U.S. Department of Justice
+- Department of Justice
 sources:
 - outlet: Department of Justice
   title: OxyContin Approval Investigation Review Document

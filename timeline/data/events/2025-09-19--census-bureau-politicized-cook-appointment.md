@@ -13,7 +13,7 @@ tags:
 actors:
 - George Cook
 - Census Bureau
-- Commerce Department
+- Department of Commerce
 - Donald Trump
 sources:
 - title: George Cook is the Census Bureau's new acting director

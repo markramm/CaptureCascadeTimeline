@@ -4,7 +4,7 @@ date: '2024-03-15'
 title: State Department Develops Advanced Internal Resistance and Preservation Protocols
 importance: 9
 actors:
-- US State Department
+- State Department
 - Career Diplomats
 - Foreign Service Officers
 - Department of State Leadership

@@ -4,7 +4,7 @@ actors:
 - Cantor Fitzgerald
 - tether
 - Department of Justice
-- Commerce Department
+- Department of Commerce
 - Elizabeth Warren
 capture_lane: economic
 capture_lanes:

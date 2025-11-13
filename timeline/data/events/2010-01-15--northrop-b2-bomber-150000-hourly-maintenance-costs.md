@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Northrop Grumman
 - U.S. Air Force
-- U.S. Department of Defense
+- Department of Defense
 tags:
 - Military-Industrial Complex
 - Defense Contractors

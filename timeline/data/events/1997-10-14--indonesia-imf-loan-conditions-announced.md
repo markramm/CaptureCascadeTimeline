@@ -8,7 +8,7 @@ actors:
 - World Bank
 - Suharto Regime
 - McKinsey & Company
-- US Treasury Department
+- Treasury Department
 tags:
 - asian-financial-crisis
 - structural-adjustment

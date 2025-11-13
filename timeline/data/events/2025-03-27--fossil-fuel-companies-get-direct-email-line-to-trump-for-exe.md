@@ -12,7 +12,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- Environmental Protection Agency (EPA)
+- Environmental Protection Agency
 tags:
 - regulatory-capture
 - environmental-policy

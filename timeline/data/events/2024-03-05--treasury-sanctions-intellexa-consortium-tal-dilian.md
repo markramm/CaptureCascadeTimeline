@@ -10,7 +10,7 @@ tags:
 - spyware-sanctions
 - financial-sanctions
 actors:
-- US Treasury Department
+- Treasury Department
 - Office of Foreign Assets Control
 - Tal Jonathan Dilian
 - Sara Aleksandra Fayssal Hamou

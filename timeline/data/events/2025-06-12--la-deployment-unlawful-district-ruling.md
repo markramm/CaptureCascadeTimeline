@@ -8,7 +8,7 @@ actors:
 - U.S. District Court (N.D. Cal.)
 - State of California
 - Governor Gavin Newsom
-- U.S. Department of Defense
+- Department of Defense
 - 2nd Battalion, 7th Marines
 - California National Guard
 - Trump Administration

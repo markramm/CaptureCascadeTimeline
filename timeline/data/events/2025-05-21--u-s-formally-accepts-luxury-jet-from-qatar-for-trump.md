@@ -12,7 +12,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Qatar Royal Family
-- U.S. Department of Defense
+- Department of Defense
 - Jamie Raskin
 - Dan Goldman
 - David Super

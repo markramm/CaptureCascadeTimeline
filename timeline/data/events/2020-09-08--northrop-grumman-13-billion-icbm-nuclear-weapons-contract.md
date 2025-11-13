@@ -6,7 +6,7 @@ importance: 10
 actors:
 - Northrop Grumman
 - U.S. Air Force
-- U.S. Department of Defense
+- Department of Defense
 - Boeing
 - Orbital ATK
 tags:

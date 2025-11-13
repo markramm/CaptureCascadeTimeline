@@ -4,7 +4,7 @@ title: BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Crim
   Settlement
 actors:
 - BP (British Petroleum)
-- U.S. Department of Justice
+- Department of Justice
 - Securities and Exchange Commission
 - Donald Vidrine
 - Robert Kaluza

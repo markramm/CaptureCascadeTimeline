@@ -8,7 +8,7 @@ actors:
 - Mike Pence
 - Trump International Golf Links & Hotel Doonbeg
 - Secret Service
-- US State Department
+- State Department
 tags:
 - emoluments
 - domestic-emoluments

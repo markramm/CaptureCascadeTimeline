@@ -8,7 +8,7 @@ actors:
 - FISA Court
 - NSA
 - Bush Administration
-- Justice Department
+- Department of Justice
 tags:
 - fisa-court
 - judicial-rebuke

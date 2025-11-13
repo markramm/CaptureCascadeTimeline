@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Anduril Industries
 - U.S. Air Force
-- U.S. Department of Defense
+- Department of Defense
 - Palmer Luckey
 - General Atomics
 tags:

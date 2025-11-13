@@ -12,7 +12,7 @@ tags:
 actors:
 - Steve Bannon
 - House Select Committee on January 6
-- U.S. Department of Justice
+- Department of Justice
 sources:
 - title: 'U.S. Department of Justice: Bannon Indictment Press Release'
   date: '2021-11-12'

@@ -15,7 +15,7 @@ actors:
 - WikiLeaks
 - Sarah Harrison
 - Hong Kong government
-- U.S. State Department
+- State Department
 sources:
 - url: https://www.washingtonpost.com/world/snowden-departs-hong-kong-for-a-third-country-government-says/2013/06/23/08e9eff2-dbde-11e2-a9f2-42ee3912ae0e_story.html
   title: "Edward Snowden flees Hong Kong for Moscow, asks Ecuador to grant him asylum"

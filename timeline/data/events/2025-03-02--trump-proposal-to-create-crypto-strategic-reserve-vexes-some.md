@@ -12,7 +12,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- U.S. Treasury Department
+- Treasury Department
 - U.S. Department of Commerce
 tags:
 - crypto

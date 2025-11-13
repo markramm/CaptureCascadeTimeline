@@ -5,7 +5,7 @@ date: '2025-08-07'
 importance: 6
 location: Washington DC
 actors:
-- Environmental Protection Agency (EPA)
+- Environmental Protection Agency
 tags:
 - environmental-deregulation
 - epa

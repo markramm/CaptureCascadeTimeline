@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Northrop Grumman
 - TRW Inc.
-- U.S. Department of Justice
+- Department of Justice
 - National Reconnaissance Office
 - Robert Ferro
 - The Aerospace Corporation

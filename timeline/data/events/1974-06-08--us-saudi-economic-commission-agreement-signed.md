@@ -7,7 +7,7 @@ actors:
 - Richard Nixon
 - Saudi Arabia
 - United States
-- US State Department
+- State Department
 tags:
 - petrodollar-system
 - international-agreements

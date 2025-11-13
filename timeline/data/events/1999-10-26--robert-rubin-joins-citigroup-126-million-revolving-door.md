@@ -8,7 +8,7 @@ actors:
 - Citigroup
 - Sandy Weill
 - Goldman Sachs
-- U.S. Treasury Department
+- Treasury Department
 tags:
 - revolving-door
 - citigroup

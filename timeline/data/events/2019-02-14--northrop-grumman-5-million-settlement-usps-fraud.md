@@ -5,7 +5,7 @@ title: Northrop Grumman Pays $5.2 Million for Fraudulent USPS Contract Labor Bil
 importance: 7
 actors:
 - Northrop Grumman
-- U.S. Department of Justice
+- Department of Justice
 - U.S. Postal Service
 - USPS Office of Inspector General
 tags:

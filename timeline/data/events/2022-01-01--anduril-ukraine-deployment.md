@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Anduril Industries
 - Ukraine
-- U.S. Department of Defense
+- Department of Defense
 - Palmer Luckey
 tags:
 - Ukraine War

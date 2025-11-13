@@ -8,7 +8,7 @@ key_actors:
 - SpeechNow.org
 - David Keating
 - Federal Election Commission
-- Justice Department
+- Department of Justice
 - Attorney General Eric Holder
 tags:
 - super-pacs

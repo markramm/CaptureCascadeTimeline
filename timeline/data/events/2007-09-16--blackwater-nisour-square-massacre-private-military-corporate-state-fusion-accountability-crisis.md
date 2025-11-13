@@ -6,7 +6,7 @@ title: Blackwater Nisour Square Massacre Exposes Systematic Private Military Cor
 actors:
 - Blackwater Worldwide
 - Erik Prince
-- U.S. State Department
+- State Department
 - Central Intelligence Agency
 - Iraqi Government
 - U.S. Military

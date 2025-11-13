@@ -7,7 +7,7 @@ actors:
 - Northrop Grumman
 - U.S. Cyber Command
 - National Security Agency
-- U.S. Department of Defense
+- Department of Defense
 tags:
 - Cyber Weapons
 - Surveillance State

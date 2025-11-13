@@ -23,7 +23,7 @@ sources:
   tier: 2
 actors:
 - Howard Lutnick
-- Commerce Department
+- Department of Commerce
 - Intel
 - Lockheed Martin
 - Trump Administration

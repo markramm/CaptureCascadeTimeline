@@ -5,7 +5,7 @@ title: Northrop Grumman Pays $11.4 Million for Illegally Billing Executive Compe
 importance: 8
 actors:
 - Northrop Grumman
-- U.S. Department of Justice
+- Department of Justice
 - Defense Contract Management Agency
 - Defense Contract Audit Agency
 tags:
