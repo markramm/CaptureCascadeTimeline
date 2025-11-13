@@ -21,7 +21,7 @@ tags:
 actors:
 - Trump Administration
 - OPM
-- interior-department
+- Department of Interior
 - forest-service
 - CFPB
 - sba

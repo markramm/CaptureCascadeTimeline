@@ -18,8 +18,8 @@ tags:
 - protect-ohio-values
 - political-investment
 actors:
-- jd-vance
-- peter-thiel
+- J.D. Vance
+- Peter Thiel
 - protect-ohio-values-pac
 - Donald Trump
 capture_lane: political

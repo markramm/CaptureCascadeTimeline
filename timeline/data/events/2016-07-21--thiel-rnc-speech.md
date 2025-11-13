@@ -17,9 +17,9 @@ tags:
 - political-alignment
 - billionaire-politics
 actors:
-- peter-thiel
+- Peter Thiel
 - Donald Trump
-- republican-party
+- Republican Party
 capture_lane: political
 status: confirmed
 sources:

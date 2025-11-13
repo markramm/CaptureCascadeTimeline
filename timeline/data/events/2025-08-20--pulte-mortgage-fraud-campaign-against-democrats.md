@@ -24,7 +24,7 @@ tags:
 - enemies-list
 - weaponized-government
 actors:
-- william-pulte
+- William Pulte
 - adam-schiff
 - letitia-james
 - fhfa

@@ -12,8 +12,8 @@ tags:
 - midwest-investment
 - elite-networks
 actors:
-- jd-vance
-- peter-thiel
+- J.D. Vance
+- Peter Thiel
 - narya-capital
 - marc-andreessen
 - eric-schmidt

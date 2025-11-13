@@ -18,7 +18,7 @@ tags:
 - financial-crimes
 - asset-concealment
 actors:
-- roger-stone
+- Roger Stone
 - Department of Justice
 - IRS
 - drake-ventures-llc

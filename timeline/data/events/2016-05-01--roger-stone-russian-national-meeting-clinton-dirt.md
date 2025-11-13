@@ -19,10 +19,10 @@ tags:
 - fbi-informant
 - congressional-testimony
 actors:
-- roger-stone
+- Roger Stone
 - michael-caputo
 - henry-greenberg
-- russian-intelligence
+- Russian Intelligence
 capture_lane: political
 status: confirmed
 sources:

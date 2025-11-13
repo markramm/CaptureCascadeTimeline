@@ -23,7 +23,7 @@ tags:
 - regulatory-capture
 - racial-targeting
 actors:
-- william-pulte
+- William Pulte
 - lisa-cook
 - federal-reserve
 - fhfa

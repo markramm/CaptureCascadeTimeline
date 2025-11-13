@@ -23,7 +23,7 @@ tags:
 actors:
 - tulsi-gabbard
 - bashar-al-assad
-- russian-intelligence
+- Russian Intelligence
 - DNI
 - intelligence-allies
 - senate-republicans

@@ -18,8 +18,8 @@ tags:
 - tech-billionaires
 - new-right
 actors:
-- peter-thiel
-- cato-institute
+- Peter Thiel
+- Cato Institute
 capture_lane: political
 status: confirmed
 sources:

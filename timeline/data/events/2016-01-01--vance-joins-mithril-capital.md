@@ -9,17 +9,17 @@ description: Following publication of "Hillbilly Elegy," J.D. Vance joins Peter 
   disruption through tech-enabled strategies.
 importance: 6
 tags:
-- jd-vance
-- peter-thiel
-- mithril-capital
+- J.D. Vance
+- Peter Thiel
+- Mithril Capital
 - venture-capital
 - silicon-valley
 - political-pipeline
 - tech-politics
 actors:
-- jd-vance
-- peter-thiel
-- mithril-capital
+- J.D. Vance
+- Peter Thiel
+- Mithril Capital
 capture_lane: economic
 status: confirmed
 sources:

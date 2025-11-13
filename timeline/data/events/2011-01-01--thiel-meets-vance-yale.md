@@ -1,8 +1,8 @@
 ---
 actors:
-- jd-vance
-- peter-thiel
-- yale-law-school
+- J.D. Vance
+- Peter Thiel
+- Yale Law School
 capture_lane: political
 capture_lanes:
 - Systematic Corruption
@@ -43,9 +43,9 @@ sources:
   url: https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/
 status: confirmed
 tags:
-- jd-vance
-- peter-thiel
-- yale-law-school
+- J.D. Vance
+- Peter Thiel
+- Yale Law School
 - political-pipeline
 - tech-politics
 - mentorship

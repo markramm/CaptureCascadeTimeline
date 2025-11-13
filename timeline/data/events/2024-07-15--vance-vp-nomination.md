@@ -18,10 +18,10 @@ tags:
 - billionaire-politics
 - political-culmination
 actors:
-- jd-vance
+- J.D. Vance
 - Donald Trump
-- peter-thiel
-- republican-party
+- Peter Thiel
+- Republican Party
 capture_lane: political
 status: confirmed
 sources:

@@ -1,7 +1,7 @@
 ---
 actors:
 - doug-burgum
-- interior-department
+- Department of Interior
 - continental-resources
 - Microsoft
 - u-s-office-of-government-ethics
