@@ -1,0 +1,41 @@
+---
+id: 2025-11-12--government-shutdown-ends-longest-us-history
+date: '2025-11-12'
+title: 'Government Shutdown Ends After 43 Days: Longest in U.S. History'
+importance: 10
+tags:
+- Government
+- Congress
+- Trump Administration
+- Shutdown
+actors:
+- Donald Trump
+- House of Representatives
+- Senate
+- Democrats
+- Republicans
+sources:
+- title: The longest government shutdown in U.S. history comes to a close
+  url: https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end
+  publisher: NPR
+  date: '2025-11-12'
+  tier: 1
+- title: The shutdown deal doesn't extend expiring health subsidies. What happens to them now?
+  url: https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now
+  publisher: PBS NewsHour
+  date: '2025-11-10'
+  tier: 1
+- title: Trump signs funding bill into law, ending record-long government shutdown
+  url: https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438
+  publisher: NBC News
+  date: '2025-11-12'
+  tier: 2
+---
+
+The longest government shutdown in American history ended on November 12, 2025, after 43 days, when President Donald Trump signed funding legislation passed by the House of Representatives in a 222-209 vote. The shutdown began on October 1, 2025, after Congress failed to pass appropriations for the 2026 fiscal year. The central dispute involved expiring enhanced Affordable Care Act subsidies that Democrats demanded be extended before funding the government, while Republicans refused to negotiate until after funding passed.
+
+Senate Democrats had blocked Republican funding bills that excluded ACA subsidy extensions, preventing passage in the 60-vote threshold Senate. The impasse finally broke when eight Senate Democrats crossed party lines on November 10 to vote 60-40 for a funding deal that guaranteed only a mid-December vote on ACA subsidies, with no commitment to extend them. The House passed the Senate bill on November 12, with six Democrats joining Republicans to support it. The legislation funds most agencies through January 30 and includes full SNAP funding through September for over 40 million Americans, reinstatement of laid-off federal employees, and guaranteed back pay for furloughed workers—but no ACA subsidy extension.
+
+At the bill signing, Trump blamed Democrats for the shutdown, telling Americans: "you should not forget this. When we come up to midterms and other things, don't forget what they've done to our country." He claimed "this was an easy extension but they didn't want to do it the easy way," despite having refused to negotiate on Democratic priorities for the entire 43-day period. The shutdown impacted over 1.6 million federal employees, caused nationwide flight cancellations and delays, left 42 million SNAP recipients without benefits for weeks, and threatened over $7 billion in economic damage.
+
+The resolution came without addressing the core ACA subsidy dispute, leaving 9 million marketplace enrollees facing substantially higher premiums in 2026 as the enhanced subsidies are set to expire. The 43-day shutdown surpassed the previous record of 35 days set during Trump's first term in December 2018-January 2019, marking Trump as the only president to preside over both the first and second longest government shutdowns in American history.

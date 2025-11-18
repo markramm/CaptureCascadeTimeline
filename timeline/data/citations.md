@@ -14982,6 +14982,18 @@
 2. [Implementing the President's "Department of Government Efficiency" Cost Efficiency Initiative](https://www.whitehouse.gov/presidential-actions/2025/02/implementing-the-presidents-department-of-government-efficiency-cost-efficiency-initiative/)
 3. [Trump order calls for creation of DOGE-linked agency payment-tracking systems](https://fedscoop.com/doge-payment-tracking-systems-agencies-trump-order/)
 
+## Attorney General Bondi Releases First Phase of Declassified Epstein Files, Initiating Multi-Phase Document Releases Through November 2025
+*Date: 2025-02-27*
+
+1. [Attorney General Pamela Bondi Releases First Phase of Declassified Epstein Files](https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files)
+2. [DOJ releases Epstein files, accuses FBI of withholding more](https://www.npr.org/2025/02/28/nx-s1-5312936/epstein-files-release-rickroll-backlash)
+3. [First wave of Epstein files has been sent to Congress, says Oversight Committee chair](https://www.npr.org/2025/08/22/nx-s1-5509535/epstein-files-congress-house-oversight-committee-trump)
+4. [Oversight Committee Releases Epstein Records Provided by the Department of Justice](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)
+5. [US House committee releases over 33,000 pages of Epstein-related records](https://www.aljazeera.com/news/2025/9/3/us-house-committee-releases-over-33000-pages-of-epstein-related-records)
+6. [House Oversight Committee Releases Jeffrey Epstein Email Correspondence, Raising Questions About White House Coverup of Epstein Files](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)
+7. [White House downplays new Epstein emails that mention Trump](https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie)
+8. [Epstein wrote Trump "knew about the girls," newly released emails show](https://www.axios.com/2025/11/12/epstein-emails-trump-house-oversight-ghislaine)
+
 ## EIU Democracy Index 2024 Reports Historic Low in Global Democracy Score
 *Date: 2025-02-27*
 
@@ -21010,3 +21022,79 @@
 1. [Veterans Day, 2025 – The White House](https://www.whitehouse.gov/presidential-actions/2025/11/veterans-day-2025/)
 2. [President Issues Proclamation for Veterans Day](https://www.presidentialprayerteam.org/2025/11/11/president-issues-proclamation-for-veterans-day/)
 3. [White House Says Trump's Proposal to Rename Veterans Day Has Been Scrapped](https://www.military.com/daily-news/2025/05/05/white-house-retreat-trumps-short-lived-proposal-rename-veterans-day.html)
+
+## Rep. Adelita Grijalva Sworn Into House After Historic 50-Day Delay, Becomes 218th Signature on Epstein Files Petition
+*Date: 2025-11-12*
+
+1. [After a 50-day wait, Arizona Rep. Adelita Grijalva is sworn into Congress](https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in)
+2. [Democratic Rep. Grijalva sworn in after 7 weeks, becomes key signature on Epstein files petition](https://abcnews.go.com/Politics/rep-elect-grijalva-sworn-months-after-special-election/story?id=127417242)
+3. [Democratic Rep. Raúl M. Grijalva of Arizona dies at 77](https://www.npr.org/2025/03/13/g-s1-53681/democratic-rep-raul-m-grijalva-of-arizona-dies-at-77)
+
+## Rep. Lauren Boebert Summoned to White House Situation Room Over Epstein Files Petition
+*Date: 2025-11-12*
+
+1. [Lauren Boebert met with Trump administration in White House situation room about Epstein files](https://coloradosun.com/2025/11/12/lauren-boebert-white-house-situation-room-meeting/)
+2. ['The View': Alyssa Farah Griffin Says It's 'Unheard Of' for Lauren Boebert to Be Taken to the Situation Room for Epstein File Meeting](https://www.thewrap.com/the-view-lauren-boebert-situation-room-epstein-files-unheard-of/)
+3. ['I guess I'm pretty high profile': Lauren Boebert defends Trump's 'weird' decision to hold Epstein crisis talks in Situation Room](https://www.aol.com/articles/guess-m-pretty-high-profile-173917707.html)
+4. ['Gang of Four' firm on Epstein files amid Trump pressure](https://www.rte.ie/news/analysis-and-comment/2025/1115/1544119-us-epstein/)
+
+## Epstein Files Transparency Act Discharge Petition Reaches 218 Signatures, Forcing House Vote
+*Date: 2025-11-12*
+
+1. [Rep. Grijalva signs petition on Epstein files, giving it the 218th signature needed to force House vote](https://www.pbs.org/newshour/politics/rep-grijalva-signs-petition-on-epstein-files-giving-it-the-218th-signature-needed-to-force-house-vote)
+2. [Epstein discharge petition secures final signature needed to force House vote on releasing files](https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/)
+3. [Adelita Grijalva can force a vote on the Epstein files, but she's still not sworn in](https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in)
+
+## Government Shutdown Ends After 43 Days: Longest in U.S. History
+*Date: 2025-11-12*
+
+1. [The longest government shutdown in U.S. history comes to a close](https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end)
+2. [The shutdown deal doesn't extend expiring health subsidies. What happens to them now?](https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now)
+3. [Trump signs funding bill into law, ending record-long government shutdown](https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438)
+
+## Government Shutdown Ends After 43 Days: Longest in U.S. History
+*Date: 2025-11-12*
+
+1. [The longest government shutdown in U.S. history comes to a close](https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end)
+2. [The shutdown deal doesn't extend expiring health subsidies. What happens to them now?](https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now)
+3. [Trump signs funding bill into law, ending record-long government shutdown](https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438)
+
+## House Oversight Democrats Release Epstein Emails Stating Trump "Knew About the Girls" and Spent Hours with Victim
+*Date: 2025-11-12*
+
+1. [House Democrats release new Epstein emails referencing Trump](https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983)
+2. [White House downplays new Epstein emails that mention Trump](https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie)
+3. [Read Jeffrey Epstein's newly released emails about Trump](https://www.pbs.org/newshour/politics/read-jeffrey-epsteins-newly-released-emails-about-trump)
+4. [House Oversight Committee Releases Jeffrey Epstein Email Correspondence, Raising Questions About White House Coverup of Epstein Files](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)
+
+## House Republicans Release 20,000+ Epstein Pages in Response to Democrat Emails, Accuse "Cherry-Picking"
+*Date: 2025-11-12*
+
+1. [House committee releases over 20,000 documents from Epstein estate](https://www.npr.org/2025/11/13/nx-s1-5607057/house-committee-releases-over-20-000-documents-from-epstein-estate)
+2. [Oversight Committee Releases Additional Epstein Estate Documents](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)
+3. [New Epstein emails and files - What do they reveal about Trump?](https://www.aljazeera.com/news/2025/11/13/new-epstein-emails-and-files-what-do-they-reveal-about-trump)
+
+## ProPublica Investigation Exposes Hidden Corruption in Noem's $220M DHS Ad Campaign
+*Date: 2025-11-14*
+
+1. [Firm Tied to Kristi Noem Secretly Got Money From $220 Million DHS Ad Contracts](https://www.propublica.org/article/kristi-noem-dhs-ad-campaign-strategy-group)
+2. [Bombshell Report Claims ICE Barbie's Friend Cashed in on 'Corrupt' $200M Secret Deal](https://www.thedailybeast.com/bombshell-report-claims-ice-barbies-friend-cashed-in-on-corrupt-200m-secret-deal/)
+3. [Firm Tied to Kristi Noem Secretly Got Money From $220 Million DHS Ad Contracts](https://www.dcreport.org/2025/11/14/kristi-noem-dhs-ad-contracts-ethics/)
+4. [Kristi Noem-linked firm secretly got money from $220 million DHS ad contracts](https://www.salon.com/2025/11/15/kristi-noem-linked-firm-secretly-got-money-from-220-million-dhs-ad-contracts_partner/)
+
+## Trump Publicly Turns on Marjorie Taylor Greene, Calls Her RINO Over Epstein Files Support
+*Date: 2025-11-14*
+
+1. [Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world defenders](https://www.npr.org/2025/11/15/g-s1-97954/trump-marjorie-taylor-greene)
+2. [Marjorie Taylor Greene blasts Trump for 'vicious' attacks amid pipe bomb scare and death threat against her son](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-blasts-trump-vicious-unwarranted-attacks-re-rcna244351)
+3. [Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation](https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799)
+4. [Trump says he's withdrawing support for Marjorie Taylor Greene, may back primary opponent](https://www.cbsnews.com/news/trump-withdrawing-support-marjorie-taylor-greene/)
+5. [Georgia Rep. Marjorie Taylor Greene blames Trump for hoax pizza harassment, pipe bomb threats](https://www.cbsnews.com/atlanta/news/georgia-rep-marjorie-taylor-greene-blames-trump-for-hoax-pizza-harassment-pipe-bomb-threats-i-am-not-a-traitor/)
+
+## Trump Orders DOJ via Truth Social to Investigate Political Opponents Over Epstein Ties
+*Date: 2025-11-14*
+
+1. [Trump says he's asking Justice Department to investigate Epstein's ties to slew of high-profile figures](https://www.cnn.com/2025/11/14/politics/trump-epstein-doj-investigate-enemies)
+2. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes)
+3. [Trump responds to appearance in new Epstein emails by pushing DOJ probe of Clinton, Larry Summers, Reid Hoffman](https://fortune.com/2025/11/14/epstein-reid-hoffman-larry-summers-jpmorgan-trump-bill-clinton-investigation/)
+4. [Trump directs DOJ to investigate Jeffrey Epstein's relationship with political and other figures](https://www.nbcnews.com/politics/trump-administration/trump-epstein-bondi-clinton-larry-summers-reid-hoffman-jpmorgan-chase-rcna243971)
