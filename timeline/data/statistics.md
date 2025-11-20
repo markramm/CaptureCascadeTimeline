@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-20 14:28:31
+Generated: 2025-11-20 14:59:01
 
 ## Overview
-- **Total Events**: 2897
-- **Date Range**: 1142-01-01 to 2025-11-19
-- **Total Sources**: 9596
-- **Unique Tags**: 4993
-- **Unique Actors**: 4772
+- **Total Events**: 2898
+- **Date Range**: 1142-01-01 to 2025-11-20
+- **Total Sources**: 9600
+- **Unique Tags**: 5007
+- **Unique Actors**: 4780
 
 ## Event Status
-- **Unknown**: 851
-- **Confirmed**: 1998
+- **Unknown**: 853
+- **Confirmed**: 1997
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -34,12 +34,12 @@ Generated: 2025-11-20 14:28:31
 - trump-administration: 107 events
 - surveillance: 106 events
 - foreign-influence: 95 events
-- constitutional-crisis: 85 events
+- constitutional-crisis: 86 events
 
 ## Top Actors
-- Donald Trump: 963 events
+- Donald Trump: 964 events
 - Trump Administration: 322 events
-- Department of Justice: 175 events
+- Department of Justice: 174 events
 - Elon Musk: 160 events
 - Pam Bondi: 71 events
 - FBI: 68 events
@@ -111,4 +111,4 @@ Generated: 2025-11-20 14:28:31
 - 2022: 74 events
 - 2023: 78 events
 - 2024: 143 events
-- 2025: 1066 events
+- 2025: 1067 events

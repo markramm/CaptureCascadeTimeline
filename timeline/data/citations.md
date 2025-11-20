@@ -13943,13 +13943,6 @@
 2. [Trump DOJ's Freeze on Police Reform Work Raises Fears of Abuse](https://www.propublica.org/article/trump-doj-freeze-police-reform-abuse-phoenix-trenton-louisville-minneapolis)
 3. [US DOJ halts all ongoing and future civil rights litigation](https://www.jurist.org/news/2025/01/us-doj-halts-all-ongoing-and-future-civil-rights-litigation/)
 
-## DOJ Orders Complete Freeze on All Civil Rights Division Cases and Enforcement
-*Date: 2025-01-22*
-
-1. [Trump's new Justice Department leadership orders a freeze on civil rights cases](https://www.mprnews.org/story/2025/01/23/trumps-new-justice-department-leadership-orders-a-freeze-on-civil-rights-cases)
-2. [Trump DOJ's Freeze on Police Reform Work Raises Fears of Abuse](https://www.propublica.org/article/trump-doj-freeze-police-reform-abuse-phoenix-trenton-louisville-minneapolis)
-3. [US DOJ halts all ongoing and future civil rights litigation](https://www.jurist.org/news/2025/01/us-doj-halts-all-ongoing-and-future-civil-rights-litigation/)
-
 ## SBA Administrator Kelly Loeffler With $1 Billion Fortune and Insider Trading History Takes Office
 *Date: 2025-01-22*
 
@@ -21155,6 +21148,12 @@
 2. [Judge says government 'missteps' in James Comey's case could result in the dismissal of the charges](https://www.nbcnews.com/politics/justice-department/judge-says-missteps-james-comey-case-result-charges-dismissed-rcna244405)
 3. [The Situation - Malevolence, Incompetence, and the Strange Case of Lindsey Halligan](https://www.lawfaremedia.org/article/the-situation--malevolence--incompetence--and-the-strange-case-of-lindsey-halligan)
 
+## Six Democratic Congress Members Release Video Reminding Military of Constitutional Duty to Refuse Illegal Orders
+*Date: 2025-11-18*
+
+1. [Trump calls Democratic lawmakers' message to military 'seditious,' says it's punishable by death](https://www.npr.org/2025/11/20/nx-s1-5615190/trump-democrats-military-video-seditious)
+2. [Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders](https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003)
+
 ## House Votes 427-1 to Force Release of Epstein Files, Rebuking Trump's Opposition
 *Date: 2025-11-18*
 
@@ -21183,3 +21182,12 @@
 2. [What's next now that Trump has signed a bill releasing the Epstein files](https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files)
 3. [What's in the Epstein files — and when could they come out?](https://www.nbcnews.com/politics/justice-department/what-in-epstein-files-when-release-house-bill-vote-trump-sign-rcna244799)
 4. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes)
+
+## Trump Threatens Six Democratic Congress Members with Execution for Reminding Military of Duty to Refuse Illegal Orders
+*Date: 2025-11-20*
+
+1. [Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders](https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003)
+2. [Trump calls for Democrats' execution over sedition claims](https://www.bostonglobe.com/2025/11/20/nation/seditious-behavior-trump-threatens-lawmakers/)
+3. [WATCH: Schumer says Trump called for execution of Democratic lawmakers, a 'deadly serious' threat](https://www.pbs.org/newshour/politics/watch-schumer-says-trump-called-for-execution-of-democratic-lawmakers-a-deadly-serious-threat)
+4. ['Punishable by DEATH!' Trump threatens Slotkin, other members of Congress over message to military](https://www.fox35orlando.com/news/trump-threatens-slotkin-other-members-congress-jail-time-over-video-military)
+5. [Trump Suggests Sedition Charges and 'DEATH' for Democrats Who Told Troops to Refuse Illegal Orders](https://www.notus.org/trump-white-house/donald-trump-truth-social-posts-democratic-lawmakers-video-illegal-order)
