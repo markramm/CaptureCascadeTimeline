@@ -13936,6 +13936,20 @@
 2. [Ross William Ulbricht: Trump says he pardoned founder of Silk Road criminal marketplace](https://www.cnn.com/2025/01/21/politics/silk-road-ross-ulbricht-pardon-trump)
 3. [Trump pardons Silk Road creator Ross Ulbricht](https://www.cnbc.com/2025/01/21/trump-pardons-silk-road-ross-ulbricht-.html)
 
+## DOJ Orders Complete Freeze on All Civil Rights Division Cases and Enforcement
+*Date: 2025-01-22*
+
+1. [Trump's new Justice Department leadership orders a freeze on civil rights cases](https://www.mprnews.org/story/2025/01/23/trumps-new-justice-department-leadership-orders-a-freeze-on-civil-rights-cases)
+2. [Trump DOJ's Freeze on Police Reform Work Raises Fears of Abuse](https://www.propublica.org/article/trump-doj-freeze-police-reform-abuse-phoenix-trenton-louisville-minneapolis)
+3. [US DOJ halts all ongoing and future civil rights litigation](https://www.jurist.org/news/2025/01/us-doj-halts-all-ongoing-and-future-civil-rights-litigation/)
+
+## DOJ Orders Complete Freeze on All Civil Rights Division Cases and Enforcement
+*Date: 2025-01-22*
+
+1. [Trump's new Justice Department leadership orders a freeze on civil rights cases](https://www.mprnews.org/story/2025/01/23/trumps-new-justice-department-leadership-orders-a-freeze-on-civil-rights-cases)
+2. [Trump DOJ's Freeze on Police Reform Work Raises Fears of Abuse](https://www.propublica.org/article/trump-doj-freeze-police-reform-abuse-phoenix-trenton-louisville-minneapolis)
+3. [US DOJ halts all ongoing and future civil rights litigation](https://www.jurist.org/news/2025/01/us-doj-halts-all-ongoing-and-future-civil-rights-litigation/)
+
 ## SBA Administrator Kelly Loeffler With $1 Billion Fortune and Insider Trading History Takes Office
 *Date: 2025-01-22*
 
@@ -15069,14 +15083,6 @@
 3. [U.S. Commerce Secretary Tells Rural Broadband Leaders to Prioritize Starlink](https://gizmodo.com/u-s-commerce-secretary-tells-rural-broadband-leaders-to-prioritize-starlink-2000580037)
 4. [Commerce Secretary's Proposal to Prioritize Satellite Over Fiber Internet Would 'Strand' Rural Communities, Experts Say](https://dailyyonder.com/commerce-secretarys-proposal-to-prioritize-satellite-over-fiber-internet-would-strand-rural-communities-experts-say/2025/03/26/)
 
-## EPA implements '31 historic actions in greatest day of deregulation'
-*Date: 2025-03-01*
-
-1. [EPA Launches Biggest Deregulatory Action in U.S. History](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history)
-2. [Trump puts industry insiders in charge of overseeing chemical safety](https://www.washingtonpost.com/climate-environment/2025/01/23/trump-epa-toxic-chemicals-regulation/)
-3. [Two Industry Officials Expected to Help Oversee E.P.A. Chemical Rules](https://www.sej.org/headlines/two-industry-officials-expected-help-oversee-epa-chemical-rules)
-4. [WHAT THEY ARE SAYING: Leaders Applaud EPA's Historic Deregulatory Actions](https://www.epa.gov/newsreleases/what-they-are-saying-leaders-applaud-epas-historic-deregulatory-actions-power-great)
-
 ## Federal Agencies Fire 62,530 Workers in Two Months - 41,311% Increase Over 2024
 *Date: 2025-03-01*
 
@@ -15405,6 +15411,24 @@
 1. [Trump Purchases Tesla at White House Event with Musk](https://www.npr.org/2025/03/11/nx-s1-5325306/trump-elon-musk-tesla)
 2. [Trump's White House Tesla Showcase Raises Ethics Concerns](https://abcnews.go.com/Politics/trumps-white-house-tesla-showcase-raises-ethics-concerns/story?id=119719123)
 3. [Trump turns the White House lawn into a Tesla showroom](https://www.nbcnews.com/tech/elon-musk/trump-musk-tesla-white-house-showroom-buys-car-rcna195905)
+
+## EPA Administrator Lee Zeldin Announces Historic Rollback of 31 Pollution Rules
+*Date: 2025-03-12*
+
+1. [EPA Launches Biggest Deregulatory Action in U.S. History](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history)
+2. [EPA head announces sweeping plan to revoke dozens of environmental regulations](https://www.pbs.org/newshour/politics/epa-head-announces-sweeping-plan-to-revoke-dozens-of-environmental-regulations)
+3. [EPA says it will roll back climate rules. That could prove complicated](https://www.npr.org/2025/03/13/nx-s1-5327219/epa-environmental-regulations-explained)
+4. [EPA rollback plan threatens billions in savings and thousands of lives, analysis shows](https://www.ehn.org/epa-rollback-plan-threatens-billions-in-savings-and-thousands-of-lives-analysis-shows)
+5. [EPA Announces Sweeping Deregulatory Agenda - The Complete Set of EPA's 31 Actions](https://www.pillsburylaw.com/en/news-and-insights/epa-deregulatory-agenda-environmental-regulations.html)
+
+## EPA Administrator Lee Zeldin Eliminates Office of Environmental Justice and External Civil Rights
+*Date: 2025-03-12*
+
+1. [EPA Terminates Biden's Environmental Justice, DEI Arms of Agency](https://www.epa.gov/newsreleases/epa-terminates-bidens-environmental-justice-dei-arms-agency)
+2. [EPA eliminating environmental justice jobs](https://www.cbsnews.com/news/epa-eliminating-environmental-justice-jobs-dei/)
+3. [EPA begins eliminating offices as DOGE tightens grip on nearly all agency spending](https://www.govexec.com/management/2025/03/epa-begins-eliminating-offices-doge-tightens-grip-nearly-all-agency-spending/403684/)
+4. [EPA's Decision to Shutter Its Environmental Justice and Civil Rights Office Puts Communities at Risk](https://blog.nwf.org/2025/03/epas-decision-to-shutter-its-environmental-justice-and-civil-rights-office-puts-communities-at-risk/)
+5. [EPA Eliminated Office of Environmental Justice and External Civil Rights (OEJECR) and EJ Regional Divisions](https://eelp.law.harvard.edu/tracker/epa-launched-new-office-of-environmental-justice-and-external-civil-rights-oejecr/)
 
 ## Johnson says Congress will investigate attacks against Tesla owners, vehicles
 *Date: 2025-03-12*
@@ -18656,6 +18680,15 @@
 1. [Qualcomm gave $1 million to pro-Trump dark money group](https://www.citizensforethics.org/reports-investigations/crew-investigations/qualcomm-gave-1-million-to-pro-trump-dark-money-group/)
 2. [Securing American Greatness Profile: Summary](https://www.opensecrets.org/orgs/securing-american-greatness/summary?id=D000114050)
 
+## Supreme Court Expands Louisiana Redistricting Case to Challenge Section 2 of Voting Rights Act
+*Date: 2025-08-01*
+
+1. [A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts](https://www.npr.org/2025/10/15/nx-s1-5567801/supreme-court-louisiana-redistricting-voting-rights-act)
+2. [Trump Department of Justice Tells SCOTUS Key Plank of Voting Rights Act is Unconstitutional](https://www.democracydocket.com/news-alerts/once-the-voting-rights-acts-champion-doj-now-wants-scotus-to-gut-it/)
+3. [Louisiana v. Callais](https://www.brennancenter.org/our-work/research-reports/louisiana-v-callais)
+4. [Louisiana v. Callais](https://www.naacpldf.org/case-issue/louisiana-v-callais/)
+5. [Section 2 Of The Voting Rights Act](https://www.justice.gov/crt/section-2-voting-rights-act)
+
 ## Sean Combs Associates Offer Mid-Six-Figure Payments to Trump Officials for Presidential Pardon
 *Date: 2025-08-01*
 
@@ -21128,6 +21161,13 @@
 1. [House votes to approve release of the Epstein files](https://www.npr.org/2025/11/18/nx-s1-5611438/epstein-files-bill-house-vote)
 2. [Epstein files bill will head to Trump's desk after approval by House and Senate](https://www.cbsnews.com/live-updates/epstein-files-vote-2025/)
 3. [Epstein files bill passes resoundingly in House with only 1 no vote](https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181)
+
+## Trump Administration Reinstates 'Public Charge' Rule: Immigrant Wealth Test Returns
+*Date: 2025-11-18*
+
+1. [Trump administration seeks to bring back public charge rule](https://www.npr.org/2025/11/18/g-s1-96806/trump-public-charge-rule)
+2. [Public Charge Ground of Inadmissibility](https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility)
+3. [Public Charge Proposal Puts Millions at Risk, Advocates Warn](https://pifcoalition.org/resources/press/public-charge-proposal-puts-millions-at-risk-advocates-warn/)
 
 ## DOJ Admits Grand Jury Never Saw Final Comey Indictment; Trump's Former Personal Attorney Leading Prosecution
 *Date: 2025-11-19*
