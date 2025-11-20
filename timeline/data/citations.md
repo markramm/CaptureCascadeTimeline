@@ -21098,3 +21098,48 @@
 2. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes)
 3. [Trump responds to appearance in new Epstein emails by pushing DOJ probe of Clinton, Larry Summers, Reid Hoffman](https://fortune.com/2025/11/14/epstein-reid-hoffman-larry-summers-jpmorgan-trump-bill-clinton-investigation/)
 4. [Trump directs DOJ to investigate Jeffrey Epstein's relationship with political and other figures](https://www.nbcnews.com/politics/trump-administration/trump-epstein-bondi-clinton-larry-summers-reid-hoffman-jpmorgan-chase-rcna243971)
+
+## Bondi Announces New Epstein Investigation Days Before House Vote, Creating Cover for Redactions
+*Date: 2025-11-15*
+
+1. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes)
+2. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.opb.org/article/2025/11/16/at-trump-s-urging-bondi-says-u-s-will-investigate-epstein-s-ties-to-foes/)
+3. [Bondi Ties Herself in Knots Explaining Epstein U-Turn](https://www.thedailybeast.com/bondi-ties-herself-in-knots-explaining-epstein-u-turn/)
+4. [Will the Epstein Files Be Released? How Trump May Have Found a Way to Block Them](https://time.com/7334450/epstein-files-released-trump-massie/)
+5. [Epstein files bill includes exceptions that could affect what gets released and when](https://abcnews.go.com/Politics/epstein-files-bill-includes-exceptions-affect-gets-released/story?id=127673876)
+
+## 60 Minutes Investigation: Former DOJ Officials Call Trump's Binance Pardon 'Unprecedented Corruption'
+*Date: 2025-11-16*
+
+1. [Trump pardon of crypto billionaire sparks concerns over his use of the pardon power - CBS News](https://www.cbsnews.com/news/trump-pardon-of-crypto-billionaire-sparks-concerns-over-use-of-pardon-power-60-minutes-transcript/)
+2. ['This Is Corruption': '60 Minutes' Reports Trump Pardoned Binance Boss After He 'Enriched' Crypto Business Tied to Trump Family](https://www.yahoo.com/news/articles/corruption-60-minutes-reports-trump-020527641.html)
+3. [Trump Pardon for Binance CEO Was 'Corruption'—Former DOJ Pardon Attorney](https://www.newsweek.com/trump-pardon-binance-ceo-corruption-doj-pardon-attorney-11058870)
+
+## Judge Finds Halligan Misrepresented Law and Used Tainted Evidence in Comey Grand Jury
+*Date: 2025-11-17*
+
+1. [Judge says James Comey indictment may be tainted by 'profound investigative missteps'](https://abcnews.go.com/US/judge-comey-case-raises-alarm-profound-investigative-missteps/story?id=127594703)
+2. [Judge says government 'missteps' in James Comey's case could result in the dismissal of the charges](https://www.nbcnews.com/politics/justice-department/judge-says-missteps-james-comey-case-result-charges-dismissed-rcna244405)
+3. [The Situation - Malevolence, Incompetence, and the Strange Case of Lindsey Halligan](https://www.lawfaremedia.org/article/the-situation--malevolence--incompetence--and-the-strange-case-of-lindsey-halligan)
+
+## House Votes 427-1 to Force Release of Epstein Files, Rebuking Trump's Opposition
+*Date: 2025-11-18*
+
+1. [House votes to approve release of the Epstein files](https://www.npr.org/2025/11/18/nx-s1-5611438/epstein-files-bill-house-vote)
+2. [Epstein files bill will head to Trump's desk after approval by House and Senate](https://www.cbsnews.com/live-updates/epstein-files-vote-2025/)
+3. [Epstein files bill passes resoundingly in House with only 1 no vote](https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181)
+
+## DOJ Admits Grand Jury Never Saw Final Comey Indictment; Trump's Former Personal Attorney Leading Prosecution
+*Date: 2025-11-19*
+
+1. [DOJ says full grand jury in Comey case was not presented copy of final indictment](https://www.pbs.org/newshour/politics/comeys-lawyers-say-prosecution-pushed-by-trump-is-vindictive-and-case-should-be-tossed)
+2. [Justice Department admits grand jury did not review final Comey indictment](https://www.aljazeera.com/news/2025/11/19/justice-department-admits-grand-jury-did-not-review-final-comey-indictment)
+3. [DOJ admits not all grand jury members saw the final version of the indictment against James Comey](https://www.nbcnews.com/politics/justice-department/james-comey-seeks-dismiss-selective-vindictive-case-key-hearing-rcna244777)
+
+## Trump Signs Epstein Files Transparency Act, but Active Investigation Loophole May Enable Redactions
+*Date: 2025-11-19*
+
+1. [Trump says he signed bill to release Epstein files](https://www.aljazeera.com/news/2025/11/20/trump-says-he-signed-bill-to-release-epstein-files)
+2. [What's next now that Trump has signed a bill releasing the Epstein files](https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files)
+3. [What's in the Epstein files — and when could they come out?](https://www.nbcnews.com/politics/justice-department/what-in-epstein-files-when-release-house-bill-vote-trump-sign-rcna244799)
+4. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes)
