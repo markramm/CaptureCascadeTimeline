@@ -10,7 +10,7 @@
 
 ## What is the Capture Cascade?
 
-Democracy doesn't fall gradually—it **cascades**. Each captured institution enables the capture of three more, creating exponential acceleration. This timeline documents 1,945+ events showing this pattern in action.
+Democracy doesn't fall gradually—it **cascades**. Each captured institution enables the capture of three more, creating exponential acceleration. This timeline documents thousands of events showing this pattern in action.
 
 ### The Pattern:
 
