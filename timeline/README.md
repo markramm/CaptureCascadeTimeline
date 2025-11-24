@@ -35,7 +35,7 @@ python3 validate_existing_events.py
 ```
 timeline/
 ├── data/
-│   └── events/              # 1,581+ timeline event JSON files
+│   └── events/              # Timeline event files
 ├── viewer/                  # React viewer application
 ├── schemas/                 # Event validation schemas
 ├── scripts/                 # Timeline utilities
