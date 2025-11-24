@@ -8234,7 +8234,7 @@
 2. [Inspector: 'Serious Derelictions' By VA Secretary Related To Overseas Travel](https://www.npr.org/sections/thetwo-way/2018/02/15/585957402/inspector-serious-derelictions-by-va-secretary-related-to-overseas-travel)
 3. [David Shulkin, Fired VA Secretary, Says White House Muzzled Him](https://www.npr.org/sections/thetwo-way/2018/03/29/597866101/fired-va-secretary-says-white-house-muzzled-him)
 
-## Fayette County, Georgia becomes first US jurisdiction to deploy Carbyne 911 surveillance system
+## Fayette County, Georgia becomes first US jurisdiction to deploy Carbyne's Israeli Unit 8200-developed 911 surveillance technology
 *Date: 2018-03-29*
 
 1. [Cutting edge for Fayette 911 will aid in locating victims](https://thecitizen.com/2018/03/29/cutting-edge-fayette-911-will-aid-locating-victims/)
@@ -11813,6 +11813,14 @@
 2. [Trump hosted Holocaust denier at Mar-a-Lago estate](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
 3. [Republican leaders denounce Trump's dinner with white nationalist Nick Fuentes](https://www.npr.org/2022/11/29/1139742844/republicans-denounce-trump-dinner-white-supremacist-nick-fuentes)
 
+## FCC bans Huawei and ZTE as national security threats while Carbyne operates unchecked
+*Date: 2022-11-25*
+
+1. [U.S. bans sale and import of some tech from Chinese companies Huawei and ZTE](https://www.npr.org/2022/11/26/1139258274/us-ban-tech-china-huawei-zte)
+2. [U.S. bans imports of Chinese tech from Huawei, ZTE](https://www.cbsnews.com/news/huawei-zte-ban-fcc-equipment/)
+3. [Secure and Trusted Communications Networks Reimbursement Program](https://www.fcc.gov/supplychain/reimbursement)
+4. [Carbyne and Rio Grande Council of Governments Texas, Launch Industry-First Cloud-Native i3 911 Contact Center](https://www.prnewswire.com/news-releases/carbyne-and-rio-grande-council-of-governments-texas-launch-industry-first-cloud-native-i3-911-contact-center-301488732.html)
+
 ## Trump Organization Convicted on All 17 Criminal Counts in Tax Fraud Trial
 *Date: 2022-12-06*
 
@@ -12104,6 +12112,13 @@
 1. [Trump indictment: Former president faces 37 counts in documents case](https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-indictment-classified-documents-rcna88494)
 2. [Inside Trump's indictment: What the charges mean in classified documents case](https://www.npr.org/2023/06/09/1181340894/trump-indictment-classified-documents-charges)
 3. [Read the full Trump indictment on mishandling of classified documents](https://www.pbs.org/newshour/politics/read-the-full-trump-indictment-on-mishandling-of-classified-documents)
+
+## Commerce Department Designates Erik Prince's Frontier Services Group as National Security Threat for PLA Support—Five Years After Carbyne Co-Founder Worked There
+*Date: 2023-06-14*
+
+1. [Additions of Entities to the Entity List and Removal of Entity From the Entity List](https://www.federalregister.gov/documents/2023/06/14/2023-12726/additions-of-entities-to-the-entity-list-and-removal-of-entity-from-the-entity-list)
+2. [USA puts flying schools on Entity List for training PLA aircrew](https://www.flightglobal.com/defence/usa-puts-flying-schools-on-entity-list-for-training-pla-aircrew/153674.article)
+3. [Lital Leshem - Project Nemesis](https://projectnemesis.net/lital-leshem/)
 
 ## AT&T partners with Carbyne as authorized reseller, integrating Israeli surveillance tech into national telecom infrastructure
 *Date: 2023-06-15*
@@ -12777,6 +12792,8 @@
 1. [Axon reimagines report writing with Draft One, a first-of-its-kind AI-powered force multiplier for public safety](https://investor.axon.com/2024-04-23-Axon-reimagines-report-writing-with-Draft-One,-a-first-of-its-kind-AI-powered-force-multiplier-for-public-safety)
 2. [How AI is being used by police departments to help draft reports](https://www.cnn.com/2025/08/12/tech/ai-police-reports-axon)
 3. [Draft One Product Overview](https://www.axon.com/products/draft-one)
+4. [Axon's Draft One Is Designed to Defy Transparency](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency)
+5. [Unlocking next-generation productivity in the field with Axon AI](https://www.axon.com/blog/unlocking-next-generation-productivity-in-the-field-with-axon-ai)
 
 ## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
 *Date: 2024-04-24*
@@ -19857,6 +19874,13 @@
 1. [DOJ ended probe of 'border czar' Tom Homan for allegedly accepting $50K in FBI sting](https://abcnews.go.com/Politics/doj-ended-probe-border-czar-tom-homan-allegedly/story?id=125781386)
 2. [Tom Homan investigated for accepting $50000 from FBI](https://www.msnbc.com/msnbc/news/tom-homan-cash-contracts-trump-doj-investigation-rcna232568)
 
+## Axon Acquires Prepared for $800-900 Million, Adding AI-Powered 911 Call Processing to Complete Surveillance Pipeline
+*Date: 2025-09-23*
+
+1. [Axon to acquire AI-powered 911 communications company Prepared, strengthening the public safety ecosystem from call to closure](https://investor.axon.com/2025-09-23-Axon-to-acquire-AI-powered-911-communications-company-Prepared,-strengthening-the-public-safety-ecosystem-from-call-to-closure)
+2. [Axon to acquire AI-powered 911 communications company Prepared](https://www.prnewswire.com/news-releases/axon-to-acquire-ai-powered-911-communications-company-prepared-strengthening-the-public-safety-ecosystem-from-call-to-closure-302564578.html)
+3. [Report - Axon Enterprise Wants to Buy 911 Tech Firm Prepared](https://www.govtech.com/biz/report-axon-enterprise-wants-to-buy-911-tech-firm-prepared)
+
 ## Senator Markey Alleges Energy Secretary Wright Using Position to Benefit Former Nuclear Firm Oklo
 *Date: 2025-09-23*
 
@@ -19934,6 +19958,14 @@
 
 1. [Former FBI Director James Comey indicted days after Trump demanded his DOJ move 'now' to prosecute enemies](https://abcnews.go.com/US/former-fbi-director-james-comey-indicted-days-after/story?id=125935658)
 2. [Ex-FBI Director James Comey indicted on criminal charges stemming from 2020 testimony](https://www.npr.org/2025/09/25/nx-s1-5552690/james-comey-indicted)
+
+## Microsoft Terminates Israeli Unit 8200's Azure Access for Mass Surveillance of Palestinian Civilians
+*Date: 2025-09-25*
+
+1. [Update on ongoing Microsoft review](https://blogs.microsoft.com/on-the-issues/2025/09/25/update-on-ongoing-microsoft-review/)
+2. [Microsoft cuts off Israeli military unit's access to cloud service after mass surveillance claims](https://www.nbcnews.com/tech/tech-news/microsoft-ends-israel-military-units-access-cloud-service-rcna233723)
+3. [Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance](https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/)
+4. [Microsoft storing Israeli intelligence trove used to attack Palestinians](https://www.972mag.com/microsoft-8200-intelligence-surveillance-cloud-azure/)
 
 ## National Archives Releases Unredacted Military Records of Trump Opponent to GOP Operative
 *Date: 2025-09-25*
