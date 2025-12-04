@@ -21281,3 +21281,11 @@
 2. [Officials instructed to pause all asylum decisions in wake of National Guard shooting](https://www.cbsnews.com/news/national-guard-shooting-dc-us-asylum-decisions-pause/)
 3. [Trump vows to 'permanently pause' migration from 'third world countries' after National Guard shooting](https://www.nbcnews.com/politics/politics-news/trump-pause-migration-third-world-countries-national-guard-shooting-dc-rcna246299)
 4. [Trump brings 'Third World' into the headlines. What's up with that term?](https://www.npr.org/sections/goats-and-soda/2025/12/03/g-s1-100161/trump-third-world-developing-world-global-south)
+
+## USDA Secretary Brooke Rollins Threatens to Cut SNAP Funding to 21 Democratic-Led States Over Refusal to Provide Recipient Data, Defying Court Injunction
+*Date: 2025-12-02*
+
+1. [Trump administration threatens to withhold SNAP benefits from blue states over immigration data](https://www.nbcnews.com/politics/trump-administration/trump-administration-threatens-withhold-snap-benefits-blue-states-immi-rcna247060)
+2. [Trump administration says it will withhold SNAP from states led by Democrats if they don't provide recipient data](https://www.pbs.org/newshour/politics/trump-administration-says-it-will-withhold-snap-from-states-led-by-democrats-if-they-dont-provide-recipient-data)
+3. [Trump's USDA to Pause Funding for Blue States Over SNAP Data](https://www.notus.org/trump-white-house/brooke-rollins-usda-federal-funding-snap-data)
+4. [USDA secretary threatens to cut funding to blue states over alleged SNAP data noncompliance](https://www.cnbc.com/2025/12/02/trump-usda-snap-funding-rollins.html)
