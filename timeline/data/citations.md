@@ -21223,3 +21223,18 @@
 3. [WATCH: Schumer says Trump called for execution of Democratic lawmakers, a 'deadly serious' threat](https://www.pbs.org/newshour/politics/watch-schumer-says-trump-called-for-execution-of-democratic-lawmakers-a-deadly-serious-threat)
 4. ['Punishable by DEATH!' Trump threatens Slotkin, other members of Congress over message to military](https://www.fox35orlando.com/news/trump-threatens-slotkin-other-members-congress-jail-time-over-video-military)
 5. [Trump Suggests Sedition Charges and 'DEATH' for Democrats Who Told Troops to Refuse Illegal Orders](https://www.notus.org/trump-white-house/donald-trump-truth-social-posts-democratic-lawmakers-video-illegal-order)
+
+## National Guard Members Shot Near White House: Beckstrom Killed, Wolfe Critically Wounded
+*Date: 2025-11-26*
+
+1. [2 National Guard members in critical condition after 'targeted' attack in D.C., authorities say](https://www.npr.org/2025/11/26/nx-s1-5622038/national-guard-shooting-washington-dc)
+2. [W.Va. National Guard confirms identity of Guardsmen wounded in D.C. shooting](https://www.dvidshub.net/news/552532/wva-national-guard-confirms-identity-guardsmen-wounded-dc-shooting)
+3. [National Guard shooting victims identified](https://www.militarytimes.com/news/your-military/2025/11/27/national-guard-shooting-victims-identified/)
+4. [Trump criticizes the program that brought Afghan refugees to the U.S. who fought the Taliban](https://www.pbs.org/newshour/politics/trump-criticizes-the-program-that-brought-afghan-refugees-to-the-us-who-fought-the-taliban)
+
+## USCIS Halts All Afghan Asylum Decisions After DC Shooting: Collective Punishment for Entire Nation
+*Date: 2025-11-27*
+
+1. [USCIS Implements Additional National Security Measures in the Wake of National Guard Shooting by Afghan National](https://www.uscis.gov/newsroom/news-releases/uscis-implements-additional-national-security-measures-in-the-wake-of-national-guard-shooting-by)
+2. [USCIS halts asylum decisions after Afghan national accused of shooting National Guard members](https://www.foxnews.com/politics/uscis-halts-all-asylum-decisions-after-dc-shooting-national-guard-members)
+3. [Shooting of National Guard members prompts flurry of U.S. immigration restrictions](https://www.pbs.org/newshour/politics/shooting-of-national-guard-members-prompts-flurry-of-u-s-immigration-restrictions)

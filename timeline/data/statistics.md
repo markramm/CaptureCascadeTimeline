@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-11-24 16:20:40
+Generated: 2025-12-03 21:48:54
 
 ## Overview
-- **Total Events**: 2902
-- **Date Range**: 1142-01-01 to 2025-11-20
-- **Total Sources**: 9616
-- **Unique Tags**: 5042
-- **Unique Actors**: 4787
+- **Total Events**: 2904
+- **Date Range**: 1142-01-01 to 2025-11-27
+- **Total Sources**: 9623
+- **Unique Tags**: 5048
+- **Unique Actors**: 4790
 
 ## Event Status
-- **Unknown**: 854
-- **Confirmed**: 2000
+- **Unknown**: 855
+- **Confirmed**: 2001
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -37,7 +37,7 @@ Generated: 2025-11-24 16:20:40
 - constitutional-crisis: 86 events
 
 ## Top Actors
-- Donald Trump: 964 events
+- Donald Trump: 966 events
 - Trump Administration: 322 events
 - Department of Justice: 174 events
 - Elon Musk: 160 events
@@ -111,4 +111,4 @@ Generated: 2025-11-24 16:20:40
 - 2022: 75 events
 - 2023: 79 events
 - 2024: 143 events
-- 2025: 1069 events
+- 2025: 1071 events
