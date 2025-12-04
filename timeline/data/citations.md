@@ -21250,6 +21250,16 @@
 4. [What Does it Mean to Designate the Muslim Brotherhood a Foreign Terrorist Organization?](https://www.brennancenter.org/our-work/analysis-opinion/what-does-it-mean-designate-muslim-brotherhood-foreign-terrorist)
 5. [Trump orders blacklisting Muslim Brotherhood branches as 'terrorist' groups](https://www.aljazeera.com/news/2025/11/24/trump-orders-blacklisting-muslim-brotherhood-branches-as-terrorist-groups)
 
+## DOJ Reveals Kristi Noem Made Final Decision to Defy Judge's Order on El Salvador Deportation Flights
+*Date: 2025-11-26*
+
+1. [Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says](https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987)
+2. [Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations](https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456)
+3. [Judge to proceed with contempt probe over U.S. flying migrants to El Salvador prison in March](https://www.pbs.org/newshour/politics/judge-to-proceed-with-contempt-probe-over-u-s-flying-migrants-to-el-salvador-prison-in-march)
+4. [Judge finds probable cause to hold Trump administration in criminal contempt over removals of Venezuelan migrants to El Salvador](https://www.cbsnews.com/news/judge-finds-probable-cause-criminal-contempt-trump-administration-venezuelan-migrants-el-salvador/)
+5. [Noem OK'd El Salvador deportations despite court order](https://www.axios.com/2025/11/26/noem-deportation-flights-el-salvador-boasberg)
+6. ["You Have Arrived in Hell": Torture and Other Abuses Against Venezuelans in El Salvador's Mega Prison](https://www.hrw.org/report/2025/11/12/you-have-arrived-in-hell/torture-and-other-abuses-against-venezuelans-in-el)
+
 ## National Guard Members Shot Near White House: Beckstrom Killed, Wolfe Critically Wounded
 *Date: 2025-11-26*
 
@@ -21281,6 +21291,14 @@
 2. [Officials instructed to pause all asylum decisions in wake of National Guard shooting](https://www.cbsnews.com/news/national-guard-shooting-dc-us-asylum-decisions-pause/)
 3. [Trump vows to 'permanently pause' migration from 'third world countries' after National Guard shooting](https://www.nbcnews.com/politics/politics-news/trump-pause-migration-third-world-countries-national-guard-shooting-dc-rcna246299)
 4. [Trump brings 'Third World' into the headlines. What's up with that term?](https://www.npr.org/sections/goats-and-soda/2025/12/03/g-s1-100161/trump-third-world-developing-world-global-south)
+
+## Kristi Noem Denies Defying Court Order on National Television, Calls Judges "Activist"
+*Date: 2025-11-30*
+
+1. [Kristi Noem says deportation operation decisions are hers amid case over flights to El Salvador](https://www.nbcnews.com/politics/immigration/noem-deportation-operation-decisions-flights-el-salvador-rcna246531)
+2. [Kristi Noem says she allowed deportation flights to continue, despite court order](https://www.nbcnews.com/meet-the-press/video/kristi-noem-says-she-allowed-deportation-flights-to-continue-despite-court-order-253310021815)
+3. [Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations](https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456)
+4. [Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says](https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987)
 
 ## USDA Secretary Brooke Rollins Threatens to Cut SNAP Funding to 21 Democratic-Led States Over Refusal to Provide Recipient Data, Defying Court Injunction
 *Date: 2025-12-02*

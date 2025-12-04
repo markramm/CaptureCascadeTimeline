@@ -151096,6 +151096,98 @@
       "_id_hash": "0a349962a66ca9be1c2a172f0204f97783ed1cf371e99237caf394421ce350ea"
     },
     {
+      "id": "2025-11-26--doj-reveals-noem-approved-deportations-defying-court-order",
+      "date": "2025-11-26",
+      "title": "DOJ Reveals Kristi Noem Made Final Decision to Defy Judge's Order on El Salvador Deportation Flights",
+      "description": "In a court filing, the Department of Justice disclosed for the first time that DHS Secretary Kristi Noem made the final decision to continue deportation flights to El Salvador's notorious CECOT mega-prison despite Judge Boasberg's explicit order to turn the planes around on March 15, 2025. The revelation came after 255 days of the administration refusing to identify who authorized defying the federal court order, in a case where the judge already found probable cause for criminal contempt. Over 100 Venezuelan men were sent to a facility documented by Human Rights Watch as systematically engaging in torture, sexual abuse, and indefinite solitary confinement.",
+      "status": "confirmed",
+      "importance": 10,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Kristi Noem",
+        "U.S. District Judge James Boasberg",
+        "Department of Justice",
+        "Todd Blanche (Deputy Attorney General)",
+        "Emil Bove (former Principal Associate Deputy Attorney General)",
+        "Joseph Mazzara (DHS acting General Counsel)",
+        "Venezuelan deportees",
+        "El Salvador government"
+      ],
+      "tags": [
+        "court-defiance",
+        "constitutional-violation",
+        "criminal-contempt",
+        "willful-disregard",
+        "deportation-abuse",
+        "human-rights-violations",
+        "judicial-integrity",
+        "executive-overreach",
+        "DHS",
+        "trump-administration"
+      ],
+      "capture_type": "judicial_capture",
+      "sources": [
+        {
+          "title": "Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says",
+          "url": "https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987",
+          "outlet": "NBC News",
+          "date": "2025-11-26"
+        },
+        {
+          "title": "Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations",
+          "url": "https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456",
+          "outlet": "ABC News",
+          "date": "2025-11-26"
+        },
+        {
+          "title": "Judge to proceed with contempt probe over U.S. flying migrants to El Salvador prison in March",
+          "url": "https://www.pbs.org/newshour/politics/judge-to-proceed-with-contempt-probe-over-u-s-flying-migrants-to-el-salvador-prison-in-march",
+          "outlet": "PBS News",
+          "date": "2025-11-19"
+        },
+        {
+          "title": "Judge finds probable cause to hold Trump administration in criminal contempt over removals of Venezuelan migrants to El Salvador",
+          "url": "https://www.cbsnews.com/news/judge-finds-probable-cause-criminal-contempt-trump-administration-venezuelan-migrants-el-salvador/",
+          "outlet": "CBS News",
+          "date": "2025-04-16"
+        },
+        {
+          "title": "Noem OK'd El Salvador deportations despite court order",
+          "url": "https://www.axios.com/2025/11/26/noem-deportation-flights-el-salvador-boasberg",
+          "outlet": "Axios",
+          "date": "2025-11-26"
+        },
+        {
+          "title": "\"You Have Arrived in Hell\": Torture and Other Abuses Against Venezuelans in El Salvador's Mega Prison",
+          "url": "https://www.hrw.org/report/2025/11/12/you-have-arrived-in-hell/torture-and-other-abuses-against-venezuelans-in-el",
+          "outlet": "Human Rights Watch",
+          "date": "2025-11-12"
+        }
+      ],
+      "connections": [
+        "Administration deliberately evades court order on Venezuelan gang deportations (2025-08-01)",
+        "Judge finds probable cause for criminal contempt (April 2025)",
+        "Trump administration invokes Alien Enemies Act (1798) for deportations",
+        "CECOT prison documented torture and human rights abuses"
+      ],
+      "patterns": [
+        "court-defiance",
+        "executive-power-expansion",
+        "judicial-capture",
+        "human-rights-violations",
+        "accountability-evasion"
+      ],
+      "notes": "This marks the first time the Trump administration identified who made the decision to defy a federal court order, coming 255 days after the March 15 incident. Judge Boasberg has set a December 5 deadline for declarations from all officials involved. The case represents a critical test of whether Cabinet-level officials can face criminal prosecution for willfully defying court orders. Human Rights Watch documented that Venezuelan deportees sent to CECOT faced systematic torture, sexual abuse, and indefinite solitary confinement in completely dark cells with no mattresses.",
+      "capture_lanes": [
+        "Judicial Capture & Corruption",
+        "Executive Power Expansion",
+        "Human Rights Violations"
+      ],
+      "summary": "On November 26, 2025, the Department of Justice disclosed in a court filing that Homeland Security Secretary Kristi Noem made the final decision to proceed with deportation flights to El Salvador despite U.S. District Judge James Boasberg's explicit order on March 15 to turn the planes around. This revelation came after the Trump administration refused for 255 days to identify who authorized defying the federal court order.\n\nThe March 15, 2025 incident involved two planes carrying over 100 Venezuelan men whom the administration alleged were members of the Tren de Aragua gang. Judge Boasberg issued both oral and written orders blocking the deportations under the Alien Enemies Act, an 18th-century wartime authority the administration invoked to deport individuals \"with little-to-no due process.\" Despite these clear orders, the flights proceeded to El Salvador's CECOT mega-prison.\n\nAccording to the DOJ filing, Deputy Attorney General Todd Blanche and then-Principal Associate Deputy Attorney General Emil Bove provided legal advice through DHS acting General Counsel Joseph Mazzara. After receiving this legal advice, Secretary Noem directed that the detainees who had been removed from the United States before the court's order could be transferred to El Salvador's custody. The DOJ argued this decision was \"lawful\" and \"consistent with a reasonable interpretation of the Court's order,\" claiming the written injunction had no bearing on individuals already deported.\n\nIn April 2025, Judge Boasberg found probable cause to hold the Trump administration in criminal contempt, stating the government's actions \"demonstrate a willful disregard\" for his order and that \"probable cause exists to find the government in criminal contempt.\" He emphasized that \"The Constitution does not tolerate willful disobedience of judicial orders—especially by officials of a coordinate branch.\" A larger appellate panel later underscored that \"Judicial orders are not suggestions; they are binding commands.\"\n\nThe November 26 filing came as Judge Boasberg resumed his criminal contempt inquiry to determine which Trump administration officials were responsible for flouting his orders. He announced plans to hear testimony from at least nine current or former officials, including Emil Bove. The government has until December 5, 2025 to submit declarations from all officials involved in the March decision. If the DOJ declines to prosecute the case, Boasberg indicated he will appoint someone to do so, with officials potentially facing fines and jail time.\n\nThe Venezuelan men were sent to the Terrorism Confinement Center (CECOT), a maximum-security mega-prison in Tecoluca, El Salvador, built as part of President Nayib Bukele's gang crackdown. In November 2025, Human Rights Watch released a comprehensive report titled \"You Have Arrived in Hell\" documenting systematic torture and abuse at CECOT. The investigation found that cases of torture and ill-treatment were not isolated incidents but systematic violations, with every former detainee interviewed reporting serious physical and psychological abuse on a near-daily basis. Three people held in CECOT reported being subjected to sexual violence.\n\nCECOT prisoners are held in windowless cells furnished only with bare metal bunks devoid of mattresses, with each cell equipped with just two sinks and two toilets for dozens of inmates. Prisoners reportedly leave their cells for only 30 minutes per day, with some held in completely dark solitary confinement cells. The Salvadoran government denies human rights groups access to the prison and allows only highly controlled visits by journalists and social media influencers. Justice Minister Gustavo Villatoro stated that those sent to CECOT would \"only be able to leave in a coffin.\"\n\nMany of the Venezuelan deportees were held on what PBS News described as \"flimsy, even frivolous\" gang allegations and lacked opportunity to challenge their designations. The migrants languished in CECOT for several months before being released in summer 2025 as part of a prisoner swap with Venezuela, after Judge Boasberg ruled in June that the administration must allow migrants to contest their deportations.\n\nLegal experts and human rights organizations expressed grave concerns about the constitutional implications. Former UN Subcommittee for the Prevention of Torture member Miguel Sarre described CECOT as a \"concrete and steel pit\" used to \"dispose of people without formally applying the death penalty.\" Federal contracting expert Charles Tiefer has called for investigations by the DHS inspector general and House Oversight Committee into the administration's pattern of defying court orders.\n\nThe case represents an unprecedented confrontation between the executive and judicial branches, with a Cabinet secretary now identified as having personally authorized defiance of a federal court order. The outcome of the criminal contempt proceedings could establish critical precedent for whether senior Trump administration officials can be held criminally accountable for willfully disregarding judicial authority. It also raises profound questions about the administration's invocation of an 18th-century wartime law to send individuals to facilities documented as engaging in systematic torture, sexual abuse, and human rights violations.",
+      "_file": "2025-11-26--doj-reveals-noem-approved-deportations-defying-court-order.md",
+      "_id_hash": "45244e243c56a2b18056793f3b9e2fe958caf6b5338f9ff7b5aa74add93ae970"
+    },
+    {
       "id": "2025-11-26--national-guard-shooting-near-white-house",
       "date": "2025-11-26",
       "title": "National Guard Members Shot Near White House: Beckstrom Killed, Wolfe Critically Wounded",
@@ -151325,6 +151417,80 @@
       ],
       "_file": "2025-11-28--trump-announces-permanent-pause-third-world-immigration.json",
       "_id_hash": "53ea770e97aab97f323850a1312007e57510e0dab8ce8f7ab6908c897e204edf"
+    },
+    {
+      "id": "2025-11-30--noem-denies-court-defiance-meet-the-press-activist-judges",
+      "date": "2025-11-30",
+      "title": "Kristi Noem Denies Defying Court Order on National Television, Calls Judges \"Activist\"",
+      "description": "Four days after DOJ filing admitted she made the decision to defy Judge Boasberg's order to halt El Salvador deportation flights, DHS Secretary Kristi Noem appeared on NBC's \"Meet the Press\" and denied defying the court order. When asked directly \"Did you defy the court's order?\" Noem answered \"No\" and attacked \"activist judges\" making \"radical decisions.\" She asserted that \"deportation operations are my decision\" while facing ongoing criminal contempt proceedings that could result in prosecution referral.",
+      "status": "confirmed",
+      "importance": 10,
+      "location": "Washington, D.C.",
+      "actors": [
+        "Kristi Noem",
+        "Department of Homeland Security",
+        "U.S. District Judge James Boasberg",
+        "Kristen Welker",
+        "NBC News",
+        "Department of Justice"
+      ],
+      "tags": [
+        "court-defiance",
+        "judicial-independence",
+        "constitutional-violation",
+        "propaganda",
+        "willful-disregard",
+        "criminal-contempt",
+        "DHS",
+        "trump-administration"
+      ],
+      "capture_type": "judicial_capture",
+      "sources": [
+        {
+          "title": "Kristi Noem says deportation operation decisions are hers amid case over flights to El Salvador",
+          "url": "https://www.nbcnews.com/politics/immigration/noem-deportation-operation-decisions-flights-el-salvador-rcna246531",
+          "outlet": "NBC News",
+          "date": "2025-11-30"
+        },
+        {
+          "title": "Kristi Noem says she allowed deportation flights to continue, despite court order",
+          "url": "https://www.nbcnews.com/meet-the-press/video/kristi-noem-says-she-allowed-deportation-flights-to-continue-despite-court-order-253310021815",
+          "outlet": "NBC News",
+          "date": "2025-11-30"
+        },
+        {
+          "title": "Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations",
+          "url": "https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456",
+          "outlet": "ABC News",
+          "date": "2025-11-28"
+        },
+        {
+          "title": "Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says",
+          "url": "https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987",
+          "outlet": "NBC News",
+          "date": "2025-11-26"
+        }
+      ],
+      "connections": [
+        "Administration deliberately evades court order on Venezuelan gang deportations (2025-08-01)",
+        "DOJ Admits Noem Made Decision to Defy Court Order (2025-11-26)",
+        "Noem Tours CECOT Prison After Defying Court (2025-03-26)"
+      ],
+      "patterns": [
+        "court-defiance-pattern",
+        "judicial-independence-erosion",
+        "public-denial-of-established-facts",
+        "authoritarian-propaganda"
+      ],
+      "notes": "This represents an extraordinary escalation - a Cabinet secretary publicly denying established facts about court defiance on national television while facing criminal contempt proceedings. The DOJ had admitted in court filings just four days earlier (November 26) that Noem personally made the decision to continue deportation flights to El Salvador's CECOT prison after Judge Boasberg ordered the planes returned. Judge Boasberg is investigating whether to refer Noem and other officials for criminal prosecution. Noem's \"activist judges\" framing mirrors authoritarian rhetoric used to delegitimize judicial independence.",
+      "capture_lanes": [
+        "Judicial Capture & Corruption",
+        "Executive Power Expansion",
+        "Information Control"
+      ],
+      "summary": "On November 30, 2025, Homeland Security Secretary Kristi Noem appeared on NBC's \"Meet the Press\" with Kristen Welker and publicly denied defying a federal court order—despite the Justice Department having admitted in court filings just four days earlier that she personally made the decision to continue deportation flights in defiance of Judge James Boasberg's order.\n\nWhen Welker asked directly, \"Did you defy the court's order?\" Noem answered flatly: \"No, Kristen.\" She then pivoted to attacking the judiciary, stating: \"We are facing activist judges who are using radical decisions that have no standing and no grounds, to try to stop what President Trump is doing to protect America and to keep us safe.\"\n\nNoem asserted her authority over deportation operations, declaring: \"The decisions that are made on deportations, where flights go, and when they go are my decision at the Department of Homeland Security.\" She committed to \"continue to do the right thing and ensure that dangerous criminals are removed.\"\n\n## Context: DOJ Admission Four Days Earlier\n\nOn November 26, 2025, the Justice Department revealed in a court filing that Noem was the Trump administration official who personally authorized continuing deportation flights to El Salvador's notorious CECOT mega-prison despite Judge Boasberg's March 15 order to halt them and return the detainees to the United States.\n\nAccording to the DOJ filing, court officials conveyed Boasberg's oral order to administration officials, who then communicated it up the chain of command. Deputy Attorney General Todd Blanche and then-Principal Associate Deputy Attorney General Emil Bove provided legal advice to DHS General Counsel Joseph Mazzara, who conveyed that guidance to Secretary Noem. After receiving this information, Noem made the final decision that detainees who had been removed from the United States before the court's order could be transferred to El Salvador's custody.\n\n## Criminal Contempt Proceedings\n\nU.S. District Judge James Boasberg resumed his criminal contempt inquiry in November 2025 after an appeals court cleared the way for him to proceed. In April 2025, Boasberg had found \"probable cause exists to find the Government in criminal contempt\" for displaying \"willful disregard\" of his order.\n\nJudge Boasberg ordered written declarations from all government officials involved in the March 2025 deportation decision, with a deadline of December 5, 2025. The judge must determine three factors to establish contempt: (1) whether the court order was \"clear and reasonably specific,\" (2) whether \"the defendant violated the order,\" and (3) whether \"the violation was willful.\"\n\nLegal experts note that Boasberg is investigating whether to refer Noem and potentially other officials for criminal prosecution. Contempt hearings were scheduled to begin as soon as December 1, 2025, with plaintiffs seeking to put at least nine past or present Trump administration officials on the witness stand.\n\n## The March 2025 Court Defiance\n\nThe case centers on the Trump administration's deportation of over 150 alleged members of Tren de Aragua, a Venezuelan gang, to El Salvador's CECOT (Terrorism Confinement Center) prison in March 2025 under the 1798 Alien Enemies Act. On March 15, 2025, Judge Boasberg issued a temporary restraining order directing that deportation planes be turned around and the detainees returned to the United States.\n\nAccording to court documents and whistleblower accounts, the administration deliberately rushed planes into international airspace to evade the court's jurisdiction. Despite the judge's explicit order—\"Any plane containing these folks that is going to take off or is in the air needs to be returned to the United States\"—Noem authorized completing the deportations.\n\n## Noem's CECOT Prison Visit\n\nEleven days after defying the court order, on March 26, 2025, Noem personally toured El Salvador's CECOT mega-prison where the deported Venezuelans were being held. During the tour, she characterized the notorious facility as \"one of the tools in our toolkit\" and posted on social media: \"President Trump and I have a clear message to criminal illegal aliens: LEAVE NOW. If you do not leave, we will hunt you down, arrest you, and you could end up in this El Salvadorian prison.\"\n\nThe administration has not identified who was deported or provided evidence that they are gang members. Relatives of some deportees have categorically denied any gang affiliation.\n\n## Legal and Constitutional Implications\n\nNoem's public denial of established facts while facing contempt proceedings represents an extraordinary challenge to judicial authority. Government ethics experts and constitutional scholars have expressed alarm at a Cabinet secretary openly contradicting her own department's court filings while simultaneously attacking the legitimacy of federal judges.\n\nThe DOJ itself argued in its November 26 filing that the legal advice given to Noem \"did not violate the court's order, much less constitute contempt,\" claiming the written order did not mandate returning detainees already removed. However, Judge Boasberg's April finding of probable cause for \"willful disregard\" suggests the court views the matter differently.\n\nCharles Tiefer, a leading authority on federal law and former member of the Commission on Wartime Contracting, has called for investigations by the DHS inspector general and Congress into the administration's actions.\n\n## Pattern of Court Defiance\n\nThis incident is part of a broader pattern of Trump administration defiance of court orders. In August 2025, Judge Boasberg had already found probable cause of contempt for the administration's deliberate defiance. A whistleblower reported that DOJ official Emil Bove told attorneys they may need to tell courts \"f*** you\" regarding such orders.\n\nNoem's characterization of federal judges as \"activist judges\" making \"radical decisions\" echoes authoritarian rhetoric historically used to delegitimize judicial independence and the rule of law. Her assertion that judicial orders have \"no standing and no grounds\" contradicts basic constitutional principles of separation of powers and judicial review.\n\nThe juxtaposition of Noem's public denial with the DOJ's court admission creates a surreal situation where the same administration is making contradictory statements in different forums—telling the court one thing while telling the American public another on national television.",
+      "_file": "2025-11-30--noem-denies-court-defiance-meet-the-press-activist-judges.md",
+      "_id_hash": "3883a106a6017287399b08587dab7550aede5a4bed6e67a74bee993c9ebe67c0"
     },
     {
       "id": "2025-12-02--rollins-threatens-snap-funding-cuts-democratic-states",
