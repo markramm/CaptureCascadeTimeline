@@ -139548,6 +139548,59 @@
     "_id_hash": "8848aae7fa7314e6b408454a79322238a357d3e09e31d4ac872bd1663134269c"
   },
   {
+    "id": "2025-09-02--us-military-double-tap-strike-kills-11-caribbean",
+    "date": "2025-09-02",
+    "title": "US Military Conducts \"Double Tap\" Strike on Caribbean Vessel, Killing 11 Including Shipwrecked Survivors",
+    "importance": 10,
+    "tags": [
+      "war-crimes",
+      "military-operations",
+      "extrajudicial-killings",
+      "international-law-violations",
+      "human-rights-violations"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834",
+        "title": "White House confirms second Sept. 2 strike on alleged drug boat",
+        "publisher": "NBC News",
+        "date": "2025-12-01",
+        "tier": 1
+      },
+      {
+        "url": "https://www.npr.org/2025/12/03/nx-s1-5630324/did-the-trump-administration-commit-a-war-crime-in-its-attack-on-a-venezuelan-boat",
+        "title": "Did the Trump administration commit a war crime in its attack on a Venezuelan boat?",
+        "publisher": "NPR",
+        "date": "2025-12-03",
+        "tier": 1
+      },
+      {
+        "url": "https://www.democracynow.org/2025/12/2/headlines/white_house_defends_double_tap_strike_on_alleged_drug_boat_says_admiral_gave_the_order_to_kill",
+        "title": "White House Defends \"Double Tap\" Strike on Alleged Drug Boat, Says Admiral Gave Order to Kill",
+        "publisher": "Democracy Now!",
+        "date": "2025-12-02",
+        "tier": 1
+      },
+      {
+        "url": "https://www.military.com/daily-news/2025/12/01/white-house-says-admiral-ordered-follow-strike-alleged-drug-boat-insists-attack-was-lawful.html",
+        "title": "White House Says Admiral Ordered Follow-on Strike on Alleged Drug Boat",
+        "publisher": "Military.com",
+        "date": "2025-12-01",
+        "tier": 1
+      }
+    ],
+    "actors": [
+      "Admiral Frank \"Mitch\" Bradley",
+      "Pete Hegseth",
+      "Donald Trump",
+      "Senator Angus King",
+      "Tren de Aragua"
+    ],
+    "summary": "The US military conducted a controversial \"double tap\" strike in international waters in the Caribbean, killing all 11 people aboard a suspected drug vessel. The first strike killed nine individuals and set the boat ablaze. Minutes later, Admiral Frank \"Mitch\" Bradley, then commander of Joint Special Operations Command, ordered a second strike targeting two survivors who were clinging to debris in the water. According to witnesses, \"those two men were blown apart in the water.\" Defense Secretary Pete Hegseth had authorized Bradley to conduct the strikes and communicated he wanted everyone aboard killed.\n\nThe Trump administration claimed the vessel was operated by members of Tren de Aragua, a Venezuelan gang that Trump had designated as a Foreign Terrorist Organization in February 2025. The White House defended the operation as lawful under international law and conducted \"in self-defense to protect Americans and vital United States interests.\" However, the second strike against shipwrecked survivors sparked immediate legal controversy and bipartisan congressional investigations.\n\nMultiple legal experts and lawmakers characterized the second strike as a potential war crime. Senator Angus King, an independent from Maine on the Senate Armed Services Committee, stated unequivocally: \"If the facts are as have been alleged, that's a stone-cold war crime.\" King cited Section 18.3.2.1 of the Pentagon's own Law of War Manual, which states that \"orders to fire upon the shipwrecked would be clearly illegal\" and that \"persons incapacitated by shipwreck are in a helpless state.\" Former Air Force Secretary Frank Kendall called it \"a textbook example of a war crime.\" Georgetown law professor David Cole noted that maritime law established after World War II provides \"very clear protections\" for survivors in water who cannot retreat or pose threats.\n\nBoth the House and Senate Armed Services Committees launched bipartisan investigations into the incident. The strike marked the opening operation in what would become a broader campaign of military strikes on suspected drug vessels in the Caribbean, with over 80 people killed in subsequent operations. Admiral Bradley was promoted from commander of Joint Special Operations Command to four-star commander of US Special Operations Command one month after the strike, despite the mounting controversy over his order to kill shipwrecked survivors.",
+    "_file": "2025-09-02--us-military-double-tap-strike-kills-11-caribbean.md",
+    "_id_hash": "82512bc740091e3d37bcf252f75147d6123511c61fc54a8503b95a1a869b5c86"
+  },
+  {
     "id": "2025-09-03--military-jets-drown-out-epstein-survivors-press-co",
     "date": "2025-09-03",
     "importance": 7,
@@ -150836,6 +150889,80 @@
     "_id_hash": "88c3a30348fedc5f9fa6780490564e5052e20b3d8a142f627e695e56cdce425f"
   },
   {
+    "id": "2025-11-20--seventh-circuit-blocks-ice-detainee-release",
+    "date": "2025-11-20",
+    "title": "7th Circuit Blocks Release of 615 Immigrants One Day Before Court-Ordered Deadline",
+    "importance": 9,
+    "location": "Chicago, Illinois",
+    "actors": [
+      "7th Circuit Court of Appeals",
+      "Judge Jeffrey Cummings",
+      "Trump administration",
+      "Department of Homeland Security",
+      "ICE",
+      "National Immigrant Justice Center",
+      "ACLU of Illinois"
+    ],
+    "tags": [
+      "judicial-oversight",
+      "appeals-court",
+      "immigration-enforcement",
+      "consent-decree",
+      "operation-midway-blitz",
+      "detention",
+      "due-process",
+      "castanon-nava",
+      "chicago"
+    ],
+    "capture_lanes": [
+      "Rule of Law Under Pressure"
+    ],
+    "sources": [
+      {
+        "title": "Appeals court blocks federal judge's order to release hundreds of immigrants arrested in Illinois immigration crackdown",
+        "url": "https://chicago.suntimes.com/immigration/2025/11/20/federal-appeals-court-release-hundreds-ice-detainees-hold",
+        "publisher": "Chicago Sun-Times",
+        "date": "2025-11-20",
+        "tier": 1
+      },
+      {
+        "title": "Chicago ICE Detainee Release Temporarily Blocked by 7th Circuit",
+        "url": "https://news.bloomberglaw.com/business-and-practice/chicago-ice-detainee-release-temporarily-blocked-by-7th-circuit",
+        "publisher": "Bloomberg Law",
+        "date": "2025-11-20",
+        "tier": 1
+      },
+      {
+        "title": "Federal Judge in Chicago Orders ICE to Release Hundreds of People From Detention Centers Who Were Arrested in Likely Violation of Consent Decree",
+        "url": "https://immigrantjustice.org/press-release/federal-judge-in-chicago-orders-ice-to-release-hundreds-of-people-from-detention-centers-who-were-arrested-in-likely-violation-of-consent-decree/",
+        "publisher": "National Immigrant Justice Center",
+        "date": "2025-11-12",
+        "tier": 1,
+        "archive_url": null
+      },
+      {
+        "title": "Secretary Noem Travels to Chicago as Operation Midway Blitz Reaches More Than 1,000 Illegal Aliens Arrested",
+        "url": "https://www.dhs.gov/news/2025/10/03/secretary-noem-travels-chicago-operation-midway-blitz-reaches-more-1000-illegal",
+        "publisher": "Department of Homeland Security",
+        "date": "2025-10-03",
+        "tier": 1,
+        "archive_url": null
+      },
+      {
+        "title": "Appeals court weighs release of immigration detainees to electronic monitoring",
+        "url": "https://www.nprillinois.org/illinois/2025-12-03/appeals-court-weighs-release-of-immigration-detainees-to-electronic-monitoring",
+        "publisher": "NPR Illinois",
+        "date": "2025-12-03",
+        "tier": 1,
+        "archive_url": null
+      }
+    ],
+    "status": "confirmed",
+    "summary": "On November 20, 2025, the U.S. Court of Appeals for the Seventh Circuit granted an emergency administrative stay blocking the release of up to 615 immigrants detained in the Chicago area, just one day before they were scheduled to be freed under a federal district court order. The appellate intervention reversed Judge Jeffrey Cummings' ruling that Immigration and Customs Enforcement had violated the 2022 Castañon Nava consent decree by making warrantless arrests without probable cause during Operation Midway Blitz.\n\n## Judge Cummings' Original Order\n\nOn November 12, 2025, U.S. District Judge Jeffrey Cummings issued a comprehensive order requiring the Trump administration to release hundreds of people from ICE detention who had been arrested between June 11 and October 7, 2025, during the massive immigration enforcement operation in the Chicago area.\n\nThe order identified 615 individuals who were:\n- Not subject to mandatory detention under federal law\n- Did not have final orders of removal\n- Believed to have been arrested in violation of the Castañon Nava consent decree\n\nJudge Cummings set a November 21 deadline for ICE to release these individuals on $1,500 bonds and enroll them in ICE's Alternatives to Detention program, which includes electronic monitoring via ankle monitors or smartphone tracking apps while they await immigration court proceedings.\n\nAdditionally, the judge ordered the immediate release of 13 individuals by that Friday whom the government had already conceded were unlawfully arrested.\n\n## The Castañon Nava Consent Decree\n\nThe 2022 Castañon Nava consent decree established strict parameters for ICE warrantless arrests in the Northern District of Illinois following a class action lawsuit filed by the National Immigrant Justice Center and ACLU of Illinois. The decree requires that before making a warrantless arrest, ICE agents must:\n\n1. Establish probable cause that the person is in the country unlawfully\n2. Assess the individual's community ties\n3. Evaluate whether the person presents a flight risk\n\nThe consent decree was designed to prevent arbitrary immigration arrests and ensure that enforcement actions were based on individualized determinations rather than racial profiling or quota-driven sweeps.\n\n## Operation Midway Blitz Arrests\n\nJudge Cummings found that ICE violated the consent decree during Operation Midway Blitz, a massive immigration enforcement operation launched September 8, 2025, in the Chicago area. Immigration attorneys presented evidence that DHS engaged in systematic violations including:\n\n**Warrantless Arrests Without Individualized Determinations**: ICE agents used administrative warrants (I-200 forms) filled out at arrest scenes rather than based on probable cause established beforehand through investigation.\n\n**Workplace and Transit Arrests**: Judge Cummings noted that approximately 100 active cases showed \"the vast majority\" of arrestees were detained \"either at work or commuting to and from work,\" including landscapers and workers at hardware stores—suggesting enforcement targeted areas where undocumented immigrants were likely to be found rather than individuals who posed specific public safety threats.\n\n**Mass Detention Policy**: The government implemented a blanket mandatory detention policy for undocumented immigrants who entered without official admission, rather than making individualized custody determinations as required by the consent decree.\n\nBetween mid-June and October 7, federal agents arrested 3,368 people in the Chicagoland area during Operation Midway Blitz, with 1,800 placed in ICE detention. Attorneys argued that more than 3,000 arrests violated the consent decree.\n\n## 7th Circuit Emergency Stay\n\nOn November 20, 2025—just one day before the scheduled releases were to begin—the Seventh Circuit Court of Appeals granted the Trump administration's emergency motion for an administrative stay.\n\nThe brief appellate order:\n- Provided no explanation for the decision\n- Temporarily blocked all releases pending appeal\n- Scheduled oral arguments on the government's appeal for December 2, 2025\n\nThe stay meant that instead of being released the following day, the 615 individuals would remain in ICE detention indefinitely while the appellate court considered the government's challenge to Judge Cummings' authority.\n\n## Legal and Constitutional Implications\n\nThe Seventh Circuit's intervention raised profound questions about judicial oversight of immigration enforcement and the enforceability of consent decrees:\n\n**Consent Decree Authority**: During the December 2 oral arguments, Trump-appointed Judge Thomas Kirsch II expressed deep skepticism about whether Judge Cummings had authority to enforce the consent decree, stating he was \"shocked\" that Cummings' order \"acts as if these are two private parties negotiating over the terms of a contract.\"\n\nJudge Kirsch's criticism suggested the appeals panel might view consent decrees as less binding than traditional court orders, potentially allowing agencies to unilaterally withdraw from or ignore the terms of judicially-approved settlement agreements.\n\n**Judicial Review of Immigration Enforcement**: The stay demonstrated how appellate courts could rapidly reverse district court findings of constitutional violations by immigration enforcement, effectively allowing the executive branch to continue contested practices while appeals proceed—which can take months or years.\n\n**Individual Liberty vs. Agency Discretion**: The 615 people affected remained detained not because any court found their detention lawful, but because an appellate court chose to preserve the status quo while considering whether the district court had authority to order their release.\n\n## Impact on Detainees and Families\n\nThe immediate practical effect was devastating for the hundreds of families who had been preparing for reunification:\n\n**615 People Remain Detained**: Individuals who had been told they would be released within days—many of whom had family members making arrangements for their return—remained in federal detention facilities.\n\n**Financial and Emotional Toll**: Family members who had already raised the $1,500 bond money faced continued separation and uncertainty about when or whether their loved ones would be released.\n\n**Community Fear**: The reversal sent a chilling message to immigrant communities that even when federal courts found arrests unlawful, appellate intervention could block relief.\n\n## Pattern of Appellate Interference\n\nThe Seventh Circuit's stay was part of a broader pattern during the Trump administration's second term where appellate courts rapidly intervened to block district court orders restraining immigration enforcement:\n\n- November 19, 2025: 7th Circuit stayed Judge Cummings' order restricting immigration agents' use of riot control weapons\n- November 20, 2025: 7th Circuit stayed Judge Cummings' order releasing detainees\n- Multiple emergency stays in other circuits blocking preliminary injunctions against immigration raids\n\nThis pattern suggested coordination between the Justice Department and conservative appellate judges to minimize the effectiveness of district court oversight, even when lower courts found constitutional violations.\n\n## Significance for Rule of Law\n\nThe November 20 stay represents a critical moment in the erosion of judicial checks on executive power in immigration enforcement:\n\n**Speed of Reversal**: The appellate court acted within days of the district court's order, providing no substantive reasoning but preventing any relief to those found to have been unlawfully detained.\n\n**Burden on Detainees**: By staying the release order pending appeal, the 7th Circuit effectively required people found to have been unconstitutionally arrested to prove they should be free, rather than requiring the government to prove detention was lawful.\n\n**Consent Decree Enforceability**: The case threatened to establish precedent that executive agencies could effectively nullify consent decrees by appealing enforcement orders and obtaining stays that allowed continued violations during litigation.\n\n**Judicial Independence Under Pressure**: The pattern of rapid appellate reversals of immigration enforcement restraints raised questions about whether the federal judiciary could effectively check executive power when appellate panels were ideologically aligned with the administration.\n\nMost fundamentally, the stay demonstrated how procedural mechanisms—emergency motions, administrative stays, deference to executive agencies—could be weaponized to prevent judicial relief even when courts found clear violations of constitutional rights and binding legal agreements.\n\nThe 615 people affected by this decision remained detained not because any court found probable cause for their arrests or flight risk justifying their continued custody, but because an appellate court chose to preserve the government's preferred outcome while it considered whether a district judge had the authority to enforce a consent decree the government had previously agreed to follow.",
+    "_file": "2025-11-20--seventh-circuit-blocks-ice-detainee-release.md",
+    "_id_hash": "2b42fef17fd5a80357f8e0f065dc73801e77324b0f1517a8d6c50992ad201460"
+  },
+  {
     "id": "2025-11-20--trump-threatens-lawmakers-execution-sedition",
     "date": "2025-11-20",
     "title": "Trump Threatens Six Democratic Congress Members with Execution for Reminding Military of Duty to Refuse Illegal Orders",
@@ -150907,6 +151034,65 @@
     "summary": "On November 20, 2025, President Donald Trump posted on Truth Social calling for the arrest, trial, and execution of six Democratic members of Congress who had released a video two days earlier reminding military personnel of their constitutional duty to refuse illegal orders. Trump wrote: \"This is really bad, and Dangerous to our Country. Their words cannot be allowed to stand. SEDITIOUS BEHAVIOR FROM TRAITORS!!! LOCK THEM UP???\" Approximately 40 minutes later, he escalated with: \"SEDITIOUS BEHAVIOR, punishable by DEATH!\" He also posted: \"It's called SEDITIOUS BEHAVIOR AT THE HIGHEST LEVEL. Each one of these traitors to our Country should be ARRESTED AND PUT ON TRIAL.\" Trump additionally reposted a Truth Social user who wrote: \"HANG THEM GEORGE WASHINGTON WOULD !!\" The targeted lawmakers are all military veterans or former intelligence officials: Senators Elissa Slotkin (Michigan) and Mark Kelly (Arizona), and Representatives Jason Crow (Colorado), Chris DeLuzio (Pennsylvania), Maggie Goodlander (New Hampshire), and Chrissy Houlahan (Pennsylvania).\n\nThe Democratic lawmakers' video, posted on Tuesday, November 18, featured the six members directly addressing active-duty military and intelligence personnel. They stated: \"You can refuse illegal orders. You must refuse illegal orders\" and \"No one has to carry out orders that violate the law or our Constitution.\" The video emphasized that service members take an oath to the Constitution, not to any individual, and warned about domestic threats to constitutional governance. The lawmakers made no calls for resistance to specific policies and did not mention Trump by name, instead focusing on the legal principle that military personnel have both the right and the obligation to refuse orders that violate the law or Constitution. Each of the six members has served in either the U.S. military or intelligence services, giving them direct credibility on military law and the chain of command.\n\nThe president's threats against sitting members of Congress for exercising their First Amendment rights and reminding service members of established military law represents an unprecedented escalation in authoritarian rhetoric from the Oval Office. Senate Minority Leader Chuck Schumer spoke from the Senate floor, stating: \"The president of the United States is calling for the execution of elected officials. This is an outright threat, and it's deadly serious.\" Schumer warned: \"When Donald Trump uses the language of execution and treason, some of his supporters may very well listen. He is lighting a match in a country soaked with political gasoline.\" Schumer later told reporters that he asked the U.S. Capitol Police to provide \"special protection and keep an eye on Slotkin and Kelly\" due to the severity of the threats. House Democratic leadership—Speaker Hakeem Jeffries, Whip Katherine Clark, and Caucus Chair Pete Aguilar—issued a joint statement condemning \"Donald Trump's disgusting and dangerous death threats against Members of Congress\" and confirming they had contacted the Sergeant at Arms and Capitol Police \"to ensure the safety of these Members and their families.\"\n\nThe targeted lawmakers responded with a joint statement: \"What's most telling is that the President considers it punishable by death for us to restate the law.\" Senator Slotkin posted a video response saying: \"I would hope that people of all backgrounds, Democrat, Republican, independent, would agree that threatening death for people you disagree with is beyond the pale of who we are as Americans.\" The lawmakers emphasized that they made no calls for opposition to Trump's policies but simply reminded service members of their existing legal obligations under the Uniform Code of Military Justice and their oath to the Constitution. Representative Marjorie Taylor Greene, despite being a Trump ally, acknowledged the gravity of the situation, and several Republican lawmakers privately expressed concern about the president threatening elected officials with execution, though House Speaker Mike Johnson declined to condemn Trump's posts and instead blamed the Democratic lawmakers for the controversy.\n\nWhen asked directly if Trump wants to execute members of Congress, White House Press Secretary Karoline Leavitt said \"no,\" but then characterized the lawmakers' video as \"conspiring together to orchestrate a video message...encouraging them to defy the President's lawful orders\" and suggested it was \"perhaps punishable by law.\" This response contradicted the video's actual content, which focused on illegal orders rather than lawful ones, and introduced the administration's position that reminding military personnel of their duty to refuse illegal orders might itself be criminal. Legal experts and constitutional scholars noted that Trump's threats constitute a profound violation of the separation of powers, an attempt to intimidate the legislative branch, and potential witness intimidation or obstruction given that several of the targeted lawmakers serve on committees investigating administration actions. The incident also raised concerns about stochastic terrorism—the use of mass communication to incite random actors to carry out violent acts that are statistically predictable but individually unpredictable—particularly given the history of Trump supporters acting on his inflammatory rhetoric, including the January 6, 2021 attack on the Capitol.\n\nThe constitutional crisis represented by a sitting president threatening elected officials with execution for exercising protected speech cannot be overstated. The First Amendment explicitly protects political speech, and members of Congress have additional Speech or Debate Clause protections under Article I, Section 6 of the Constitution for statements made in connection with their legislative duties. The lawmakers' video reminded service members of established military law codified in the Uniform Code of Military Justice and Department of Defense regulations, which explicitly require military personnel to refuse unlawful orders. Trump's characterization of this legal reminder as \"sedition\" inverts the concept: sedition involves inciting rebellion against lawful authority, whereas the lawmakers were reinforcing the legal obligation to refuse unlawful authority. Trump's threats came amid ongoing concerns about his plans to use the military for domestic law enforcement, mass deportations, and potential actions against political opponents—precisely the scenarios where illegal orders might be issued and where service members would have a legal duty to refuse. The incident underscores the fragility of democratic norms when a president openly threatens violence against the legislative branch for reminding the military of its constitutional obligations.",
     "_file": "2025-11-20--trump-threatens-lawmakers-execution-sedition.md",
     "_id_hash": "3836c764a12e42d791438e9f9875fc043910b9b5fea04769a9ccd08faaf817de"
+  },
+  {
+    "id": "2025-11-24--trump-executive-order-muslim-brotherhood-fto-designation",
+    "date": "2025-11-24",
+    "title": "Trump Signs Executive Order Initiating Muslim Brotherhood Terrorist Designation Process",
+    "summary": "President Donald Trump signed Executive Order 14362 on November 24, 2025, directing the Secretary of State and Treasury Secretary to evaluate designating specific Muslim Brotherhood chapters in Lebanon, Jordan, and Egypt as Foreign Terrorist Organizations (FTOs) and Specially Designated Global Terrorists (SDGTs). The order, published in the Federal Register as FR Doc. 2025-21664 on November 28, 2025, cites authority under the Immigration and Nationality Act (8 U.S.C. 1189), the International Emergency Economic Powers Act (50 U.S.C. 1702), and Executive Order 13224. The directive mandates that within 30 days, the secretaries must submit a joint report recommending whether to designate chapters, and within 45 days after that report, take formal designation action if appropriate.\n\nCrucially, the order initiates a designation process rather than immediately designating the organizations, distinguishing it from Texas Governor Greg Abbott's unilateral November 18, 2025 proclamation declaring CAIR and the Muslim Brotherhood terrorist organizations. The executive order accuses the Lebanese Muslim Brotherhood of joining Hamas and Hezbollah in the October 7, 2023 attacks, the Jordanian chapter of providing material support to Hamas's militant wing, and an Egyptian Muslim Brotherhood leader of calling for violent attacks against U.S. partners following the Gaza conflict.\n\nCivil liberties organizations immediately raised alarm about the order's implications. The Brennan Center for Justice warned that FTO designations trigger sweeping financial sanctions, severe criminal penalties, and extensive FISA surveillance authorities originally conceived for groups like al-Qaeda and ISIS. A coalition statement emphasized concerns that the designation could lead to stigmatization of American Muslim civil society, including nonprofits, charities, religious organizations, and activists, with individuals potentially facing criminal prosecution for providing support without any intent to support terrorist activity. The ACLU of Texas, responding to Abbott's parallel state-level action, stated the designation \"raises significant First Amendment and due process concerns\" and represents \"politically motivated attacks on nonprofit organizations led by, and primarily serving, immigrants and communities of color.\"\n\nThe designation process creates dangerous precedent for expanding surveillance powers and potentially criminalizing First Amendment-protected activities. Once designated, anyone deemed an \"agent\" of the organization becomes eligible for FISA surveillance, including American citizens, seamlessly integrating them into America's most sophisticated intelligence apparatus. Federal courts have previously determined that Treasury Department asset freezes implicate Fourth and Fifth Amendment protections, requiring judicial warrants and due process. Legal experts note the wide discretion given to cabinet secretaries, combined with broad definitions of \"material support,\" lack of adequate notice, and limited judicial review, creates substantial risk that innocent individuals and organizations could be swept into designation as terrorists. The order's stated objective is to \"eliminate the designated chapters' capabilities and operations, deprive them of resources, and end any threat,\" language that signals comprehensive suppression rather than targeted counterterrorism.",
+    "importance": 9,
+    "tags": [
+      "Muslim Brotherhood",
+      "FTO Designation",
+      "Civil Liberties",
+      "First Amendment",
+      "FISA Surveillance",
+      "Executive Order"
+    ],
+    "actors": [
+      "Donald Trump",
+      "Marco Rubio",
+      "Scott Bessent"
+    ],
+    "status": "confirmed",
+    "sources": [
+      {
+        "url": "https://www.whitehouse.gov/presidential-actions/2025/11/designation-of-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/",
+        "title": "Executive Order 14362: Designation of Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations and Specially Designated Global Terrorists",
+        "publisher": "The White House",
+        "date": "2025-11-24",
+        "tier": 1
+      },
+      {
+        "url": "https://www.federalregister.gov/documents/2025/11/28/2025-21664/designation-of-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially",
+        "title": "Federal Register: Designation of Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations (FR Doc. 2025-21664)",
+        "publisher": "Federal Register",
+        "date": "2025-11-28",
+        "tier": 1
+      },
+      {
+        "url": "https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-begins-process-to-designate-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/",
+        "title": "Fact Sheet: President Donald J. Trump Begins Process to Designate Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations",
+        "publisher": "The White House",
+        "date": "2025-11-24",
+        "tier": 1
+      },
+      {
+        "url": "https://www.brennancenter.org/our-work/analysis-opinion/what-does-it-mean-designate-muslim-brotherhood-foreign-terrorist",
+        "title": "What Does it Mean to Designate the Muslim Brotherhood a Foreign Terrorist Organization?",
+        "publisher": "Brennan Center for Justice",
+        "tier": 1
+      },
+      {
+        "url": "https://www.aljazeera.com/news/2025/11/24/trump-orders-blacklisting-muslim-brotherhood-branches-as-terrorist-groups",
+        "title": "Trump orders blacklisting Muslim Brotherhood branches as 'terrorist' groups",
+        "publisher": "Al Jazeera",
+        "date": "2025-11-24",
+        "tier": 2
+      }
+    ],
+    "_file": "2025-11-24--trump-executive-order-muslim-brotherhood-fto-designation.json",
+    "_id_hash": "0a349962a66ca9be1c2a172f0204f97783ed1cf371e99237caf394421ce350ea"
   },
   {
     "id": "2025-11-26--national-guard-shooting-near-white-house",
@@ -151013,5 +151199,130 @@
     ],
     "_file": "2025-11-27--uscis-halts-afghan-asylum-collective-punishment.json",
     "_id_hash": "4e1b84f8ff5594ae69c8ea9de89dad2b66c3a4d8cc185ef87e3c765eb350ac9b"
+  },
+  {
+    "id": "2025-11-28--hegseth-kill-everybody-order-boat-strike-investigation",
+    "date": "2025-11-28",
+    "title": "Washington Post reveals Hegseth gave \"kill everybody\" order in Caribbean boat strikes, killing shipwrecked survivors",
+    "importance": 10,
+    "tags": [
+      "war-crimes",
+      "pete-hegseth",
+      "military-operations",
+      "international-law",
+      "congressional-oversight",
+      "extrajudicial-killing",
+      "caribbean-policy"
+    ],
+    "actors": [
+      "Pete Hegseth",
+      "Admiral Frank Bradley",
+      "Donald Trump",
+      "Karoline Leavitt",
+      "Roger Wicker",
+      "Jack Reed",
+      "Rebecca Ingber",
+      "SEAL Team Six"
+    ],
+    "sources": [
+      {
+        "title": "Hegseth order on first Caribbean boat strike, officials say - Kill them all",
+        "url": "https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/",
+        "publisher": "Washington Post",
+        "date": "2025-11-28",
+        "tier": 1
+      },
+      {
+        "title": "House and Senate committees launch inquiries into second strike on alleged drug boat",
+        "url": "https://www.nbcnews.com/politics/national-security/house-senate-launch-inquiries-reported-second-strike-alleged-drug-boat-rcna246496",
+        "publisher": "NBC News",
+        "date": "2025-11-29",
+        "tier": 1
+      },
+      {
+        "title": "Congress steps in as questions mount over who authorized a second strike at sea",
+        "url": "https://www.npr.org/2025/11/30/nx-s1-5625885/congress-steps-in-as-questions-mount-over-who-authorized-a-second-strike-at-sea",
+        "publisher": "NPR",
+        "date": "2025-11-30",
+        "tier": 1
+      },
+      {
+        "title": "Could Hegseth Face Prosecution For Alleged Boat Strike?",
+        "url": "https://time.com/7337735/pete-hegseth-boat-strike-caribbean/",
+        "publisher": "TIME",
+        "date": "2025-12-01",
+        "tier": 2
+      },
+      {
+        "title": "Hegseth or Admiral Bradley - who approved the second Venezuela boat strike?",
+        "url": "https://www.aljazeera.com/news/2025/12/2/hegseth-or-admiral-bradley-who-approved-the-second-venezuela-boat-strike",
+        "publisher": "Al Jazeera",
+        "date": "2025-12-02",
+        "tier": 1
+      }
+    ],
+    "summary": "The Washington Post published an explosive investigation on November 28 revealing that Defense Secretary Pete Hegseth gave a verbal order to \"kill everybody\" during a September 2, 2025 military strike on a suspected drug vessel in the Caribbean. According to officials with direct knowledge, SEAL Team Six conducted the initial strike that destroyed the vessel and killed nine people, leaving two survivors clinging to debris. The mission's commander, Admiral Frank Bradley, then ordered a second strike that killed the two survivors in compliance with Hegseth's directive.\n\nThe revelation sparked immediate bipartisan congressional investigations, with both the Senate and House Armed Services Committees launching inquiries. Committee chairs Roger Wicker (R-MS) and Jack Reed (D-RI) pledged \"vigorous oversight to determine the facts related to these circumstances.\" Legal experts characterized the order as potential war crimes under international law. Rebecca Ingber, professor of law at Cardozo Law School, stated unequivocally: \"It is absolutely unlawful to order that there will be no survivors. There is no actual armed conflict here, so this is murder.\" She added that \"declaring that there be no survivors or otherwise killing people hors de combat is a war crime. This is one of the most basic and longstanding rules of LOAC [laws of armed conflict].\"\n\nThe White House response created further contradictions. Press Secretary Karoline Leavitt stated that \"Secretary Hegseth authorized Admiral Bradley to conduct these kinetic strikes\" and that \"Admiral Bradley worked well within his authority and the law.\" However, President Trump contradicted this account, stating: \"I wouldn't have wanted that - not a second strike,\" and claimed Hegseth told him \"he did not order the death of those two men.\" Hegseth himself called the Washington Post report \"fake news\" without directly refuting the \"kill everybody\" order, while claiming the strikes were \"in compliance with the law of armed conflict.\"\n\nThis September 2 incident represents part of a broader military campaign in which the Pentagon has conducted over 20 strikes on Caribbean vessels allegedly transporting drugs from Venezuela since early September, resulting in more than 80 deaths. Multiple legal scholars, including Jennifer Trahan of NYU and Deborah Pearlstein of Princeton, have argued these operations constitute extrajudicial killings with dubious legal justification, as the United States is not engaged in armed conflict in the region. The United Kingdom has ceased sharing intelligence about suspected drug traffickers with the U.S. because it considers the military operations illegal under international law. The controversy represents one of the most serious allegations of unlawful military conduct by a sitting Defense Secretary, with potential criminal liability under both international law and the Uniform Code of Military Justice.",
+    "_file": "2025-11-28--hegseth-kill-everybody-order-boat-strike-investigation.md",
+    "_id_hash": "37c9022787e6da2e5f3601c292e8d3c80d9863d45c2d58f25f90a55912e4a68a"
+  },
+  {
+    "id": "2025-11-28--trump-announces-permanent-pause-third-world-immigration",
+    "date": "2025-11-28",
+    "title": "Trump Announces 'Permanent Pause' on Immigration from 'Third World Countries' Using Racist Terminology",
+    "summary": "On Thanksgiving Day, November 28, 2025, President Donald Trump announced on Truth Social his intention to \"permanently pause migration from all Third World Countries\" in response to the National Guard shooting two days earlier. The announcement, using terminology widely considered outdated and racist by international institutions and scholars, represented the most sweeping immigration ban in modern American history. Trump's post declared: \"I will permanently pause migration from all Third World Countries to allow the U.S. system to fully recover,\" adding that \"Only REVERSE MIGRATION can fully cure this situation.\" The statement threatened to revoke citizenship from naturalized migrants deemed to \"undermine domestic tranquility\" and deport foreign nationals considered \"non-compatible with Western Civilization.\"\n\nThe announcement provided no definition of which countries qualified as \"Third World,\" though administration officials identified 19 \"high-risk\" nations for green card review, including Afghanistan, Iran, Somalia, Sudan, Yemen, Eritrea, Libya, Venezuela, Cuba, Haiti, and others across Asia, the Middle East, and Africa. A June 2025 White House proclamation had already placed travel bans on 12 countries with partial restrictions on 7 others. The Department of Homeland Security began preparing executive orders to implement the pause across multiple immigration pathways: refugee resettlement programs, family reunification visas, diversity visa lottery, and Temporary Protected Status extensions. USCIS Director Joseph Edlow announced an immediate halt to all asylum decisions, stating officers should \"not enter any decision information for affirmative cases\" until enhanced vetting procedures could be implemented.\n\nCivil rights organizations immediately condemned the terminology and sweeping nature of the ban. The Council on American-Islamic Relations stated: \"Using this horrific attack as an excuse to smear and punish every Afghan, every refugee, or every immigrant rips at something very basic in our Constitution and many faiths: the idea that guilt is personal, not inherited or collective.\" Scholars noted that \"Third World\" terminology has been abandoned for decades by international institutions including the World Bank, which ceased using the term years ago. Dr. Ngozi Erondu of Georgetown University explained the term's problematic nature: \"I think it's a very antiquated and offensive term\" that \"connotes hierarchy and makes assumptions about people's character and worth based on geography.\" The designation originated during the 1950s Cold War to describe nations aligned with neither Western capitalism nor Soviet communism, a context that no longer exists.\n\nInternational reaction was swift and critical. Jeremy Laurence, spokesperson for the UN human rights office, emphasized that asylum seekers \"are entitled to protection under international law, and that should be given due process.\" Civil rights groups filed lawsuits in California and New York arguing the blanket designation violates equal protection guarantees. The policy threatened to affect over 100 nations and millions of potential immigrants, including those seeking family reunification with U.S. citizens, diversity visa lottery winners, and refugees from countries where individuals had assisted U.S. military operations. The announcement represented a fundamental shift in American immigration policy toward explicitly racialized exclusion, using a single isolated incident to justify collective punishment of entire populations based on geography and perceived racial characteristics rather than individual merit or security assessments.",
+    "importance": 10,
+    "actors": [
+      "Donald Trump",
+      "Joseph Edlow",
+      "Department of Homeland Security",
+      "USCIS",
+      "Council on American-Islamic Relations",
+      "Jeremy Laurence",
+      "United Nations"
+    ],
+    "tags": [
+      "immigration",
+      "racism",
+      "civil-rights",
+      "executive-power",
+      "refugees",
+      "asylum",
+      "islamophobia",
+      "international-law",
+      "human-rights",
+      "discrimination"
+    ],
+    "sources": [
+      {
+        "url": "https://www.npr.org/2025/11/28/g-s1-99760/trump-vows-permanent-pause-on-some-immigration-after-national-guard-shooting",
+        "title": "Trump administration pausing all asylum decisions after National Guard shooting",
+        "publisher": "NPR",
+        "date": "2025-11-28",
+        "tier": 1
+      },
+      {
+        "url": "https://www.cbsnews.com/news/national-guard-shooting-dc-us-asylum-decisions-pause/",
+        "title": "Officials instructed to pause all asylum decisions in wake of National Guard shooting",
+        "publisher": "CBS News",
+        "date": "2025-11-28",
+        "tier": 1
+      },
+      {
+        "url": "https://www.nbcnews.com/politics/politics-news/trump-pause-migration-third-world-countries-national-guard-shooting-dc-rcna246299",
+        "title": "Trump vows to 'permanently pause' migration from 'third world countries' after National Guard shooting",
+        "publisher": "NBC News",
+        "date": "2025-11-28",
+        "tier": 1
+      },
+      {
+        "url": "https://www.npr.org/sections/goats-and-soda/2025/12/03/g-s1-100161/trump-third-world-developing-world-global-south",
+        "title": "Trump brings 'Third World' into the headlines. What's up with that term?",
+        "publisher": "NPR",
+        "date": "2025-12-03",
+        "tier": 1
+      }
+    ],
+    "_file": "2025-11-28--trump-announces-permanent-pause-third-world-immigration.json",
+    "_id_hash": "53ea770e97aab97f323850a1312007e57510e0dab8ce8f7ab6908c897e204edf"
   }
 ]

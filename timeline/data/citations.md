@@ -19476,6 +19476,14 @@
 1. [Supreme Court allows Trump to fire FTC Commissioner](https://www.theguardian.com/us-news/2025/sep/02/supreme-court-ftc-commissioner-removal)
 2. [Chief Justice Roberts permits unprecedented agency independence violation](https://apnews.com/article/supreme-court-ftc-rebecca-slaughter-trump-roberts-2025)
 
+## US Military Conducts "Double Tap" Strike on Caribbean Vessel, Killing 11 Including Shipwrecked Survivors
+*Date: 2025-09-02*
+
+1. [White House confirms second Sept. 2 strike on alleged drug boat](https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834)
+2. [Did the Trump administration commit a war crime in its attack on a Venezuelan boat?](https://www.npr.org/2025/12/03/nx-s1-5630324/did-the-trump-administration-commit-a-war-crime-in-its-attack-on-a-venezuelan-boat)
+3. [White House Defends "Double Tap" Strike on Alleged Drug Boat, Says Admiral Gave Order to Kill](https://www.democracynow.org/2025/12/2/headlines/white_house_defends_double_tap_strike_on_alleged_drug_boat_says_admiral_gave_the_order_to_kill)
+4. [White House Says Admiral Ordered Follow-on Strike on Alleged Drug Boat](https://www.military.com/daily-news/2025/12/01/white-house-says-admiral-ordered-follow-strike-alleged-drug-boat-insists-attack-was-lawful.html)
+
 ## Military Jets Drown Out Epstein Survivors Press Conference at Capitol
 *Date: 2025-09-03*
 
@@ -21215,6 +21223,15 @@
 3. [What's in the Epstein files — and when could they come out?](https://www.nbcnews.com/politics/justice-department/what-in-epstein-files-when-release-house-bill-vote-trump-sign-rcna244799)
 4. [At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes](https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes)
 
+## 7th Circuit Blocks Release of 615 Immigrants One Day Before Court-Ordered Deadline
+*Date: 2025-11-20*
+
+1. [Appeals court blocks federal judge's order to release hundreds of immigrants arrested in Illinois immigration crackdown](https://chicago.suntimes.com/immigration/2025/11/20/federal-appeals-court-release-hundreds-ice-detainees-hold)
+2. [Chicago ICE Detainee Release Temporarily Blocked by 7th Circuit](https://news.bloomberglaw.com/business-and-practice/chicago-ice-detainee-release-temporarily-blocked-by-7th-circuit)
+3. [Federal Judge in Chicago Orders ICE to Release Hundreds of People From Detention Centers Who Were Arrested in Likely Violation of Consent Decree](https://immigrantjustice.org/press-release/federal-judge-in-chicago-orders-ice-to-release-hundreds-of-people-from-detention-centers-who-were-arrested-in-likely-violation-of-consent-decree/)
+4. [Secretary Noem Travels to Chicago as Operation Midway Blitz Reaches More Than 1,000 Illegal Aliens Arrested](https://www.dhs.gov/news/2025/10/03/secretary-noem-travels-chicago-operation-midway-blitz-reaches-more-1000-illegal)
+5. [Appeals court weighs release of immigration detainees to electronic monitoring](https://www.nprillinois.org/illinois/2025-12-03/appeals-court-weighs-release-of-immigration-detainees-to-electronic-monitoring)
+
 ## Trump Threatens Six Democratic Congress Members with Execution for Reminding Military of Duty to Refuse Illegal Orders
 *Date: 2025-11-20*
 
@@ -21223,6 +21240,15 @@
 3. [WATCH: Schumer says Trump called for execution of Democratic lawmakers, a 'deadly serious' threat](https://www.pbs.org/newshour/politics/watch-schumer-says-trump-called-for-execution-of-democratic-lawmakers-a-deadly-serious-threat)
 4. ['Punishable by DEATH!' Trump threatens Slotkin, other members of Congress over message to military](https://www.fox35orlando.com/news/trump-threatens-slotkin-other-members-congress-jail-time-over-video-military)
 5. [Trump Suggests Sedition Charges and 'DEATH' for Democrats Who Told Troops to Refuse Illegal Orders](https://www.notus.org/trump-white-house/donald-trump-truth-social-posts-democratic-lawmakers-video-illegal-order)
+
+## Trump Signs Executive Order Initiating Muslim Brotherhood Terrorist Designation Process
+*Date: 2025-11-24*
+
+1. [Executive Order 14362: Designation of Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations and Specially Designated Global Terrorists](https://www.whitehouse.gov/presidential-actions/2025/11/designation-of-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/)
+2. [Federal Register: Designation of Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations (FR Doc. 2025-21664)](https://www.federalregister.gov/documents/2025/11/28/2025-21664/designation-of-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially)
+3. [Fact Sheet: President Donald J. Trump Begins Process to Designate Certain Muslim Brotherhood Chapters as Foreign Terrorist Organizations](https://www.whitehouse.gov/fact-sheets/2025/11/fact-sheet-president-donald-j-trump-begins-process-to-designate-certain-muslim-brotherhood-chapters-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/)
+4. [What Does it Mean to Designate the Muslim Brotherhood a Foreign Terrorist Organization?](https://www.brennancenter.org/our-work/analysis-opinion/what-does-it-mean-designate-muslim-brotherhood-foreign-terrorist)
+5. [Trump orders blacklisting Muslim Brotherhood branches as 'terrorist' groups](https://www.aljazeera.com/news/2025/11/24/trump-orders-blacklisting-muslim-brotherhood-branches-as-terrorist-groups)
 
 ## National Guard Members Shot Near White House: Beckstrom Killed, Wolfe Critically Wounded
 *Date: 2025-11-26*
@@ -21238,3 +21264,20 @@
 1. [USCIS Implements Additional National Security Measures in the Wake of National Guard Shooting by Afghan National](https://www.uscis.gov/newsroom/news-releases/uscis-implements-additional-national-security-measures-in-the-wake-of-national-guard-shooting-by)
 2. [USCIS halts asylum decisions after Afghan national accused of shooting National Guard members](https://www.foxnews.com/politics/uscis-halts-all-asylum-decisions-after-dc-shooting-national-guard-members)
 3. [Shooting of National Guard members prompts flurry of U.S. immigration restrictions](https://www.pbs.org/newshour/politics/shooting-of-national-guard-members-prompts-flurry-of-u-s-immigration-restrictions)
+
+## Washington Post reveals Hegseth gave "kill everybody" order in Caribbean boat strikes, killing shipwrecked survivors
+*Date: 2025-11-28*
+
+1. [Hegseth order on first Caribbean boat strike, officials say - Kill them all](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/)
+2. [House and Senate committees launch inquiries into second strike on alleged drug boat](https://www.nbcnews.com/politics/national-security/house-senate-launch-inquiries-reported-second-strike-alleged-drug-boat-rcna246496)
+3. [Congress steps in as questions mount over who authorized a second strike at sea](https://www.npr.org/2025/11/30/nx-s1-5625885/congress-steps-in-as-questions-mount-over-who-authorized-a-second-strike-at-sea)
+4. [Could Hegseth Face Prosecution For Alleged Boat Strike?](https://time.com/7337735/pete-hegseth-boat-strike-caribbean/)
+5. [Hegseth or Admiral Bradley - who approved the second Venezuela boat strike?](https://www.aljazeera.com/news/2025/12/2/hegseth-or-admiral-bradley-who-approved-the-second-venezuela-boat-strike)
+
+## Trump Announces 'Permanent Pause' on Immigration from 'Third World Countries' Using Racist Terminology
+*Date: 2025-11-28*
+
+1. [Trump administration pausing all asylum decisions after National Guard shooting](https://www.npr.org/2025/11/28/g-s1-99760/trump-vows-permanent-pause-on-some-immigration-after-national-guard-shooting)
+2. [Officials instructed to pause all asylum decisions in wake of National Guard shooting](https://www.cbsnews.com/news/national-guard-shooting-dc-us-asylum-decisions-pause/)
+3. [Trump vows to 'permanently pause' migration from 'third world countries' after National Guard shooting](https://www.nbcnews.com/politics/politics-news/trump-pause-migration-third-world-countries-national-guard-shooting-dc-rcna246299)
+4. [Trump brings 'Third World' into the headlines. What's up with that term?](https://www.npr.org/sections/goats-and-soda/2025/12/03/g-s1-100161/trump-third-world-developing-world-global-south)
