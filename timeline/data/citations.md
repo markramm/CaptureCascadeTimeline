@@ -20836,6 +20836,13 @@
 1. [Trump administration will fund SNAP food benefits at 50% the normal payment](https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown)
 2. [Trump Tyranny Tracker: Day 288](https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288)
 
+## Trump Admits on 60 Minutes He Doesn't Know Changpeng Zhao, the Binance Founder He Pardoned
+*Date: 2025-11-03*
+
+1. [Trump on Binance cryptocurrency tycoon he pardoned "I don't know who he is" - CBS News](https://www.cbsnews.com/news/trump-binance-cryptocurrency-tycoon-he-pardoned-dont-know-who-he-is/)
+2. [Trump says he knows 'nothing' about the crypto billionaire he pardoned](https://www.nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584)
+3. [Trump says he has 'no idea who' Binance's CZ is after pardoning him](https://www.cnbc.com/2025/11/03/trump-60-minutes-binance-cz-pardon.html)
+
 ## Axon acquires Carbyne for $625 million, consolidating Israeli 911 surveillance tech with US police body camera giant
 *Date: 2025-11-04*
 
@@ -21241,6 +21248,13 @@
 4. ['Punishable by DEATH!' Trump threatens Slotkin, other members of Congress over message to military](https://www.fox35orlando.com/news/trump-threatens-slotkin-other-members-congress-jail-time-over-video-military)
 5. [Trump Suggests Sedition Charges and 'DEATH' for Democrats Who Told Troops to Refuse Illegal Orders](https://www.notus.org/trump-white-house/donald-trump-truth-social-posts-democratic-lawmakers-video-illegal-order)
 
+## Marjorie Taylor Greene Announces Resignation After Trump Calls Her "Traitor" Over Epstein Files
+*Date: 2025-11-21*
+
+1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
+2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
+3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
+
 ## Trump Signs Executive Order Initiating Muslim Brotherhood Terrorist Designation Process
 *Date: 2025-11-24*
 
@@ -21307,3 +21321,10 @@
 2. [Trump administration says it will withhold SNAP from states led by Democrats if they don't provide recipient data](https://www.pbs.org/newshour/politics/trump-administration-says-it-will-withhold-snap-from-states-led-by-democrats-if-they-dont-provide-recipient-data)
 3. [Trump's USDA to Pause Funding for Blue States Over SNAP Data](https://www.notus.org/trump-white-house/brooke-rollins-usda-federal-funding-snap-data)
 4. [USDA secretary threatens to cut funding to blue states over alleged SNAP data noncompliance](https://www.cnbc.com/2025/12/02/trump-usda-snap-funding-rollins.html)
+
+## Trump Pardons Former Honduran President Convicted of Drug Trafficking
+*Date: 2025-12-02*
+
+1. [Trump pardons Honduran ex-president who was convicted of drug crimes](https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez)
+2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
+3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
