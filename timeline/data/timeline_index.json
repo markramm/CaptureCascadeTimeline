@@ -145786,6 +145786,126 @@
       "_id_hash": "62daf8c67c97e9c83b67ba00dd83bd5dc1695fbcd880cfff4e57542e756102b8"
     },
     {
+      "id": "2025-10-17--yusi-bird-fired-refusing-james-prosecution",
+      "date": "2025-10-17",
+      "title": "Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James",
+      "importance": 9,
+      "actors": [
+        "Elizabeth Yusi",
+        "Kristin Bird",
+        "Erik Siebert",
+        "Letitia James",
+        "Donald Trump",
+        "Pam Bondi",
+        "Todd Blanche",
+        "Lindsey Halligan",
+        "Department of Justice"
+      ],
+      "tags": [
+        "DOJ",
+        "political-prosecution",
+        "retaliation",
+        "prosecutorial-independence",
+        "institutional-capture",
+        "trump-administration",
+        "weaponization-of-government",
+        "rule-of-law-erosion"
+      ],
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838",
+          "title": "Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office",
+          "publisher": "ABC News",
+          "date": "2025-10-17",
+          "tier": 1
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/",
+          "title": "Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James",
+          "publisher": "CBS News",
+          "date": "2025-10-17",
+          "tier": 1
+        },
+        {
+          "url": "https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james",
+          "title": "Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James",
+          "publisher": "Democracy Now",
+          "date": "2025-10-21",
+          "tier": 1
+        },
+        {
+          "url": "https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary",
+          "title": "Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary",
+          "publisher": "Democracy Docket",
+          "date": "2025-10-17",
+          "tier": 2
+        }
+      ],
+      "summary": "On October 17, 2025, the Trump administration fired two senior federal prosecutors from the Eastern District of Virginia after they voiced opposition to bringing criminal charges against New York Attorney General Letitia James. Elizabeth Yusi, the top criminal prosecutor for the Norfolk office who had served as an assistant U.S. attorney in the Eastern District since 2010, and her deputy Kristin Bird, deputy chief of the Narcotics and Violent Crime Unit since 2019, were informed of their terminations on Friday and escorted from the building.\n\nThe firings followed a monthslong pattern of retaliation against career prosecutors who resisted politically motivated prosecutions. In September 2025, Erik Siebert was forced to resign as U.S. Attorney for the Eastern District of Virginia after he told DOJ officials he didn't think there was enough evidence to proceed with charges against James. Investigators in the office had spent months examining allegations that James misrepresented a property purchase to obtain better loan terms, interviewing 15 witnesses and reviewing extensive documentation. Yusi authored an internal memo explaining that prosecutors believed there was insufficient evidence to charge James, telling colleagues she found 'no probable cause' to indict. The alleged mortgage fraud involved claimed benefits of approximately $800 annually.\n\nAfter Siebert's removal, Trump appointed Lindsey Halligan, his former personal attorney with no prosecutorial experience, as interim U.S. Attorney. Halligan secured a federal grand jury indictment of James on October 9, 2025, despite the career prosecutors' documented objections. When Yusi and Bird continued to resist the prosecution, they were terminated. The Trump administration publicly claimed the prosecutors were fired for leaking investigative files containing James' personally identifying information to the media, but Yusi's attorney stated she 'has no record of any such email' and 'has never used her personal email account for any portion of any investigation.'\n\nThe systematic purge of prosecutors who maintained ethical standards represents a profound break with longstanding norms that career government employees should not be punished for carrying out their duties under preceding administrations or for refusing to pursue cases they believe lack sufficient evidence. Multiple departing officials reportedly stated their removals were 'driven solely by politics.' The Eastern District of Virginia, one of the nation's most important federal prosecutorial offices handling sensitive national security and terrorism cases, experienced extraordinary turmoil as Trump loyalists replaced career prosecutors who refused to weaponize their offices against the president's perceived political enemies.\n\nThe firings demonstrate the complete transformation of prosecutorial independence into a loyalty test, with the Justice Department being weaponized to punish legal professionals who resist bringing politically motivated charges. Legal experts and former DOJ officials expressed alarm at the systematic removal of prosecutors based on their refusal to pursue cases lacking probable cause, describing it as an unprecedented assault on the institutional integrity of federal law enforcement. This pattern would continue with additional personnel purges throughout the department as the administration sought to eliminate any resistance to using federal prosecutorial power for political retaliation.",
+      "_file": "2025-10-17--yusi-bird-fired-refusing-james-prosecution.json",
+      "_id_hash": "93679f19d1cb0cac5a95262cb14ed919b8585e4e44c914189ba05bcf8ff2f729"
+    },
+    {
+      "id": "2025-10-17--yusi-bird-fired-refusing-james-prosecution",
+      "date": "2025-10-17",
+      "title": "Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James",
+      "importance": 9,
+      "actors": [
+        "Elizabeth Yusi",
+        "Kristin Bird",
+        "Erik Siebert",
+        "Letitia James",
+        "Donald Trump",
+        "Pam Bondi",
+        "Todd Blanche",
+        "Lindsey Halligan",
+        "Department of Justice"
+      ],
+      "tags": [
+        "DOJ",
+        "political-prosecution",
+        "retaliation",
+        "prosecutorial-independence",
+        "institutional-capture",
+        "trump-administration",
+        "weaponization-of-government",
+        "rule-of-law-erosion"
+      ],
+      "sources": [
+        {
+          "url": "https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838",
+          "title": "Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office",
+          "publisher": "ABC News",
+          "date": "2025-10-17",
+          "tier": 1
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/",
+          "title": "Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James",
+          "publisher": "CBS News",
+          "date": "2025-10-17",
+          "tier": 1
+        },
+        {
+          "url": "https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james",
+          "title": "Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James",
+          "publisher": "Democracy Now",
+          "date": "2025-10-21",
+          "tier": 1
+        },
+        {
+          "url": "https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary",
+          "title": "Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary",
+          "publisher": "Democracy Docket",
+          "date": "2025-10-17",
+          "tier": 2
+        }
+      ],
+      "summary": "On October 17, 2025, the Trump administration fired two senior federal prosecutors from the Eastern District of Virginia after they voiced opposition to bringing criminal charges against New York Attorney General Letitia James. Elizabeth Yusi, the top criminal prosecutor for the Norfolk office who had served as an assistant U.S. attorney in the Eastern District since 2010, and her deputy Kristin Bird, deputy chief of the Narcotics and Violent Crime Unit since 2019, were informed of their terminations on Friday and escorted from the building.\n\nThe firings followed a monthslong pattern of retaliation against career prosecutors who resisted politically motivated prosecutions. In September 2025, Erik Siebert was forced to resign as U.S. Attorney for the Eastern District of Virginia after he told DOJ officials he didn't think there was enough evidence to proceed with charges against James. Investigators in the office had spent months examining allegations that James misrepresented a property purchase to obtain better loan terms, interviewing 15 witnesses and reviewing extensive documentation. Yusi authored an internal memo explaining that prosecutors believed there was insufficient evidence to charge James, telling colleagues she found \"no probable cause\" to indict. The alleged mortgage fraud involved claimed benefits of approximately $800 annually.\n\nAfter Siebert's removal, Trump appointed Lindsey Halligan, his former personal attorney with no prosecutorial experience, as interim U.S. Attorney. Halligan secured a federal grand jury indictment of James on October 9, 2025, despite the career prosecutors' documented objections. When Yusi and Bird continued to resist the prosecution, they were terminated. The Trump administration publicly claimed the prosecutors were fired for leaking investigative files containing James' personally identifying information to the media, but Yusi's attorney stated she \"has no record of any such email\" and \"has never used her personal email account for any portion of any investigation.\"\n\nThe systematic purge of prosecutors who maintained ethical standards represents a profound break with longstanding norms that career government employees should not be punished for carrying out their duties under preceding administrations or for refusing to pursue cases they believe lack sufficient evidence. Multiple departing officials reportedly stated their removals were \"driven solely by politics.\" The Eastern District of Virginia, one of the nation's most important federal prosecutorial offices handling sensitive national security and terrorism cases, experienced extraordinary turmoil as Trump loyalists replaced career prosecutors who refused to weaponize their offices against the president's perceived political enemies.\n\nThe firings demonstrate the complete transformation of prosecutorial independence into a loyalty test, with the Justice Department being weaponized to punish legal professionals who resist bringing politically motivated charges. Legal experts and former DOJ officials expressed alarm at the systematic removal of prosecutors based on their refusal to pursue cases lacking probable cause, describing it as an unprecedented assault on the institutional integrity of federal law enforcement. This pattern would continue with additional personnel purges throughout the department as the administration sought to eliminate any resistance to using federal prosecutorial power for political retaliation.",
+      "_file": "2025-10-17--yusi-bird-fired-refusing-james-prosecution.md",
+      "_id_hash": "93679f19d1cb0cac5a95262cb14ed919b8585e4e44c914189ba05bcf8ff2f729"
+    },
+    {
       "id": "2025-10-18--coast-guard-luxury-jets-purchase",
       "date": "2025-10-18",
       "title": "DHS Purchases $172 Million in Luxury Jets for Kristi Noem During Shutdown",
@@ -150680,6 +150800,63 @@
       "_id_hash": "213949147e9837e27520a1aeedba55d0d2afbfdef99294c6ab4ec09e73e0eb10"
     },
     {
+      "id": "2025-11-17--kash-patel-assigns-fbi-swat-team-girlfriend-security",
+      "date": "2025-11-17",
+      "title": "Kash Patel Assigns Elite FBI SWAT Team to Protect Girlfriend, Orders Agents to Drive Her Drunk Friend Home",
+      "summary": "FBI Director Kash Patel assigned elite FBI SWAT team agents from the Nashville field office to provide a full-time security detail for his 27-year-old girlfriend, country singer Alexis Wilkins, despite her not living with him and maintaining a separate residence in Nashville. This marked the first time in FBI history that a girlfriend of an FBI official received such protection, with sources telling NBC News they knew of no comparable cases. Former senior FBI agent Christopher O'Leary condemned the arrangement: \"This is a clear abuse of position and misuse of government resources. She is not his spouse, does not live in the same house or even the same city.\" Sources expressed alarm that reassigning these highly trained SWAT agents to girlfriend protection duty would prevent them from responding to critical emergencies in the Nashville area, including mass shootings and terror attacks. The abuse escalated further when Patel, on at least two occasions including one in spring 2025, ordered the security detail to escort Wilkins' intoxicated friend home after partying in Nashville. When agents initially declined, Patel called the lead agent on Wilkins' security team and yelled at him to drive Wilkins' friend home. O'Leary stated: \"Not only is the assignment of FBI SWAT personnel to a security detail to protect his girlfriend inappropriate, directing these highly trained professionals to babysit his girlfriend's friend is outrageous, and demonstrative of Kash Patel's complete lack of judgment and integrity.\" The FBI defended the arrangement by claiming Wilkins \"has faced hundreds of credible death threats related to her relationship with Director Patel,\" though sources noted that spouses of past directors typically received only episodic security protection when traveling with their spouse, not separate dedicated details. This revelation, reported by NBC News on November 17, 2025, added to mounting evidence of Patel's systematic abuse of FBI resources for personal benefit, following earlier scandals involving his extensive use of the FBI's $60 million government jet for personal trips to see his girlfriend.",
+      "importance": 9,
+      "tags": [
+        "corruption",
+        "FBI",
+        "abuse-of-power",
+        "government-resources-misuse",
+        "institutional-capture",
+        "Kash Patel"
+      ],
+      "actors": [
+        "Kash Patel",
+        "Alexis Wilkins",
+        "Christopher O'Leary"
+      ],
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.ms.now/news/kash-patel-girlfriend-fbi-detail-alexis-wilkins-rcna243999",
+          "title": "Kash Patel's girlfriend being protected by FBI SWAT agents as security perk",
+          "publisher": "NBC News",
+          "date": "2025-11-17",
+          "tier": 1
+        },
+        {
+          "url": "https://www.ms.now/news/kash-patel-girlfriend-fbi-detail-wilkins-ride-home",
+          "title": "Kash Patel ordered FBI detail to give girlfriend's pal a lift home: sources",
+          "publisher": "NBC News",
+          "date": "2025-11-17",
+          "tier": 1
+        },
+        {
+          "url": "https://www.thedailybeast.com/fbi-director-keystone-kash-gifts-his-girlfriend-alexis-wilkins-swat-security-detail/",
+          "title": "FBI Director 'Keystone' Kash Gifts His Girlfriend Alexis Wilkins SWAT Security Detail",
+          "publisher": "The Daily Beast",
+          "tier": 2
+        },
+        {
+          "url": "https://www.yahoo.com/news/articles/fbi-director-kash-patel-yelled-001426331.html",
+          "title": "FBI Director Kash Patel Yelled at Agents to Drive His Girlfriend's Allegedly Intoxicated Friend Home: Report",
+          "publisher": "Yahoo News",
+          "tier": 2
+        },
+        {
+          "url": "https://newrepublic.com/post/203288/kash-patel-fbi-swat-team-26-year-old-girlfriend",
+          "title": "Kash Patel Assigns FBI SWAT Team to Protect 27-Year-Old Girlfriend",
+          "publisher": "The New Republic",
+          "tier": 2
+        }
+      ],
+      "_file": "2025-11-17--kash-patel-assigns-fbi-swat-team-girlfriend-security.json",
+      "_id_hash": "e56d1857bef7d8cb6029dea157f959ce679970f90dc0c298f95ab36e89a0d1c5"
+    },
+    {
       "id": "2025-11-18--democratic-congress-veterans-military-illegal-orders-video",
       "date": "2025-11-18",
       "title": "Six Democratic Congress Members Release Video Reminding Military of Constitutional Duty to Refuse Illegal Orders",
@@ -151153,6 +151330,69 @@
       "summary": "On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her \"Marjorie Traitor Greene.\"\n\nIn a four-page resignation statement, Greene defended her position: \"Standing up for American women who were raped at 14, trafficked and used by rich powerful men, should not result in me being called a traitor and threatened by the President of the United States of America, whom I fought for.\"\n\nGreene stated she did not want her northwest Georgia district to \"endure a hurtful and hateful primary against me by the President we all fought for,\" acknowledging that Trump had threatened to support a primary challenger against her.\n\n## The Epstein Files Controversy\n\nThe break between Trump and Greene centered on the Jeffrey Epstein investigation files. Greene had been publicly pressing Trump and top Republicans in Congress for months to release all files from two federal investigations into Epstein and his sex trafficking network.\n\nGreene partnered with Democratic Rep. Ro Khanna to sponsor a discharge petition—a rare procedural move that forces a House vote without leadership approval—to compel the Department of Justice to release complete Epstein investigation files. Greene was part of a small group of Republicans who helped force the vote on the House floor.\n\nTrump had campaigned on releasing the Epstein files but subsequently delayed their release after taking office. This reversal served as what Greene called \"the proverbial straw that broke the camel's back\" in their relationship.\n\n## Trump's \"Traitor\" Attack\n\nOne week before Greene's resignation announcement, Trump launched a public attack against her, calling her \"Marjorie Traitor Greene\" and claiming she had \"gone Far Left.\" In comments to reporters, Trump said: \"Something happened to her over the last period of a month or two where she changed politically.\"\n\nTrump also called Greene \"a ranting Lunatic\" and threatened to support a primary challenger in her heavily Republican district in northwest Georgia.\n\nAfter Greene's resignation announcement, Trump told reporters in a phone interview that her departure is \"great news for the country.\" He claimed he had no advance notice of her decision and expressed no interest in reconciliation. On Truth Social, Trump stated Greene quit \"because of PLUMMETING Poll Numbers\" to avoid losing a primary against a Trump-endorsed challenger.\n\n## Greene's Defense of Abuse Survivors\n\nIn her resignation video and written statement, Greene emphasized her advocacy for sexual assault survivors as the reason for her stance on the Epstein files. She argued that defending victimized women should not be grounds for presidential condemnation or being labeled a traitor.\n\nGreene had referenced specific victims—\"American women who were raped at 14, trafficked and used by rich powerful men\"—suggesting her motivation stemmed from documented accounts of Epstein's youngest victims and the powerful figures allegedly involved in the trafficking network.\n\nHer statement highlighted the tension between political loyalty to Trump and moral obligation to sex trafficking survivors seeking accountability and transparency.\n\n## Political Context: From Loyal Ally to \"Traitor\"\n\nMarjorie Taylor Greene had been one of Trump's most loyal and vocal supporters in Congress. She defended him through both impeachment proceedings, championed his false claims about the 2020 election, and became one of the most prominent MAGA movement figures in the House.\n\nGreene's break with Trump over the Epstein files represents a rare instance where a core Trump ally prioritized a policy position—specifically transparency about sex trafficking by powerful figures—over personal loyalty to the president.\n\nThe discharge petition Greene signed represented a bipartisan effort that crossed traditional partisan lines, as she partnered with Democratic Rep. Ro Khanna. This type of cross-party cooperation on government transparency has become increasingly rare in the polarized political environment.\n\nTrump's characterization of support for Epstein file transparency as \"going Far Left\" and grounds for being labeled a \"traitor\" reveals his view that personal loyalty supersedes all other considerations, including transparency about sexual abuse of minors by powerful figures.\n\n## Congressional Impact\n\nGreene's departure reduces House Speaker Mike Johnson's Republican majority from 219-213 to an even slimmer margin. While Republicans will lose a seat, the heavily Republican nature of Greene's northwest Georgia district makes it likely her replacement will also be a Republican.\n\nGeorgia Governor Brian Kemp will need to call a special election in 2026 for Greene's seat. Her resignation effective January 5, 2026, means she will serve through the end of the current Congress.\n\nGreene referenced concerns about Republicans losing the 2026 midterm elections in her statement, suggesting she did not want to be a distraction that could hurt the party's chances while also expressing unwillingness to endure a Trump-backed primary challenge.\n\n## Implications for Epstein Transparency\n\nGreene's forced resignation after supporting the Epstein files discharge petition sends a clear message to other members of Congress about the political risks of crossing Trump on this issue. Despite bipartisan public interest in full transparency about Epstein's trafficking network and the powerful figures involved, Trump's retaliation against Greene may discourage other Republicans from supporting similar efforts.\n\nThe incident highlights tension between public demands for accountability regarding elite sex trafficking networks and political pressures to maintain loyalty to Trump regardless of the policy issue at stake.\n\nGreene's explicit framing—that supporting rape victims should not result in being called a traitor—underscores the moral dimension of the conflict: whether elected officials can advocate for abuse survivors and government transparency when doing so conflicts with a president's personal or political interests.\n\n## Pattern of Retaliation\n\nTrump's attack on Greene follows a pattern of retaliating against officials who defy him, even when those officials have been loyal supporters. The speed and severity of Trump's response—withdrawing endorsement, threatening a primary challenge, and using the \"traitor\" label—demonstrates his approach to political loyalty as absolute rather than contingent.\n\nThe public nature of Trump's attack, combined with his characterization of her resignation as \"great news for the country,\" suggests a deliberate strategy of making an example of Greene to discourage other potential defections on issues Trump considers personal threats.\n\nGreene's reference to not wanting her district to endure a \"hurtful and hateful primary\" led by Trump acknowledges the political reality that Trump's endorsement power within the Republican Party remains strong enough to end political careers, even for previously loyal MAGA figures.",
       "_file": "2025-11-21--marjorie-taylor-greene-resignation-trump-epstein-retaliation.md",
       "_id_hash": "6ed14d04457224df154c362b3da458e171c31cb5d5b3b311dcccd96970d58398"
+    },
+    {
+      "id": "2025-11-24--judge-dismisses-james-comey-cases-halligan-unlawful-appointment",
+      "date": "2025-11-24",
+      "title": "Federal Judge Dismisses Indictments Against Letitia James and Comey, Ruling Halligan's Appointment Unlawful",
+      "summary": "U.S. District Judge Cameron McGowan Currie dismissed criminal indictments against New York Attorney General Letitia James and former FBI Director James Comey on November 24, 2025, ruling that interim U.S. Attorney Lindsey Halligan lacked lawful authority to bring the cases. In separate but parallel rulings, Judge Currie found that \"all actions flowing from Ms. Halligan's defective appointment...were unlawful exercises of executive power and are hereby set aside.\" The dismissals represented a major judicial rebuke of the Trump administration's weaponization of the Justice Department against political opponents.\n\nJudge Currie's legal analysis centered on federal statute governing interim U.S. attorneys, which limits such appointees to 120-day terms unless Senate-confirmed. The judge determined that after Trump forced out Erik Siebert on September 19, 2025, the statutory authority to name a replacement belonged to federal judges of the Eastern District of Virginia—not Attorney General Pam Bondi—because Siebert had not been Senate-confirmed. By appointing Halligan on September 20, 2025, Bondi exceeded her legal authority. Judge Currie described the situation as \"unique, if not unprecedented\" where \"an unconstitutionally appointed prosecutor...acted alone in conducting a grand jury proceeding.\" The judge characterized Halligan as \"a former White House aide with no prior prosecutorial experience\" who nonetheless wielded the full prosecutorial power of the United States government.\n\nThe dismissals came one week after Magistrate Judge William Fitzpatrick's devastating November 17 ruling that identified \"a disturbing pattern of profound investigative missteps\" in the Comey prosecution, including Halligan's fundamental misstatements of law to the grand jury and use of potentially tainted evidence. Judge Fitzpatrick had found that Halligan falsely suggested to grand jurors that Comey lacked Fifth Amendment rights and misled them about the strength of the government's evidence. On November 19, prosecutors admitted that the full grand jury never reviewed the final indictment against Comey—only two grand jurors saw the document. These revelations of prosecutorial misconduct set the stage for Judge Currie's constitutional ruling dismissing both cases.\n\nThe cases arose directly from Trump's September 20, 2025 Truth Social post—which he intended as a private message but accidentally posted publicly—demanding that Bondi prosecute Comey, James, and Senator Adam Schiff, declaring them \"all guilty as hell.\" Within days of Halligan's appointment, she secured indictments against both Comey and James, despite career prosecutors' previous determinations that evidence was insufficient. Erik Siebert had been forced to resign specifically because he refused to bring charges against James without adequate evidence after a five-month investigation involving 15 witnesses found no clear proof of intentional wrongdoing. Trump openly stated he wanted Siebert \"out\" of the position, replacing him with his former personal attorney Halligan who had zero prosecutorial experience but absolute loyalty.\n\nThe Letitia James prosecution was particularly transparent in its retaliatory nature. James had secured a $450 million civil fraud judgment against Trump and his organization in early 2024, and Trump had repeatedly and publicly demanded her prosecution. The federal charges against James alleged she saved $594 annually on a mortgage by misrepresenting a Norfolk, Virginia property's use—a prosecution that legal experts viewed as extraordinarily thin for federal bank fraud charges. James had filed a comprehensive vindictive prosecution motion on November 7, 2025, arguing the case was orchestrated by Trump for political revenge and citing his repeated public demands that Bondi prosecute her.\n\nAttorney General Bondi announced the Justice Department \"will be taking all available legal action, including an immediate appeal,\" defending Halligan as \"an excellent\" attorney. However, Comey's attorney Patrick Fitzgerald argued the ruling effectively ends the Comey prosecution because the five-year statute of limitations has expired. James's attorney Abbe Lowell stated the judge's order \"acknowledges what's been clear...The President went to extreme measures to substitute one of his allies\" to pursue politically motivated prosecutions. The dismissals without prejudice theoretically allow the government to refile charges, but the expiration of statutes of limitation and the fundamental constitutional defects identified by two federal judges make successful reprosecution unlikely. The ruling represents a significant instance of judicial independence checking executive overreach and political prosecution.",
+      "importance": 10,
+      "actors": [
+        "Cameron McGowan Currie",
+        "Letitia James",
+        "James Comey",
+        "Lindsey Halligan",
+        "Pam Bondi",
+        "Donald Trump",
+        "Erik Siebert",
+        "William Fitzpatrick",
+        "Abbe Lowell",
+        "Patrick Fitzgerald"
+      ],
+      "tags": [
+        "political-prosecution",
+        "judicial-independence",
+        "DOJ",
+        "prosecutorial-misconduct",
+        "retaliation",
+        "trump-administration",
+        "constitutional-law",
+        "appointments-clause",
+        "doj-weaponization",
+        "judicial-rebuke"
+      ],
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/11/24/g-s1-98612/trump-us-attorney-lindsey-halligan",
+          "title": "Judge tosses Comey, James cases after finding prosecutor unlawfully appointed",
+          "publisher": "NPR",
+          "date": "2025-11-24",
+          "tier": 1
+        },
+        {
+          "url": "https://www.pbs.org/newshour/show/judge-tosses-james-comey-letitia-james-cases-rules-prosecutor-was-illegally-appointed",
+          "title": "Judge tosses James Comey, Letitia James cases, rules prosecutor was illegally appointed",
+          "publisher": "PBS",
+          "date": "2025-11-24",
+          "tier": 1
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/justice-department/judge-dismisses-cases-james-comey-letitia-james-finding-prosecutor-was-rcna244775",
+          "title": "Judge dismisses cases against James Comey and Letitia James after finding prosecutor was unlawfully appointed",
+          "publisher": "NBC News",
+          "date": "2025-11-24",
+          "tier": 1
+        },
+        {
+          "url": "https://www.cbsnews.com/news/james-comey-case-dismissed-judge-lindsey-halligan/",
+          "title": "Judge dismisses James Comey and Letitia James cases, finding prosecutor's appointment invalid",
+          "publisher": "CBS News",
+          "date": "2025-11-24",
+          "tier": 1
+        }
+      ],
+      "_file": "2025-11-24--judge-dismisses-james-comey-cases-halligan-unlawful-appointment.json",
+      "_id_hash": "25ebd5c295450c79b32fde017a7fcdda2d753c6a030f711477206559c55d0087"
     },
     {
       "id": "2025-11-24--trump-executive-order-muslim-brotherhood-fto-designation",
@@ -151718,6 +151958,63 @@
       "_id_hash": "35d26d4fc8f7c91679209fa0104cf8f518e14bfa626e9f31df02506df352af8f"
     },
     {
+      "id": "2025-12-04--bondi-fbi-domestic-terrorism-memo",
+      "date": "2025-12-04",
+      "title": "Bondi Orders FBI to Compile \"Domestic Terrorism\" List Targeting Political Beliefs",
+      "summary": "Attorney General Pam Bondi issued a classified memorandum ordering the FBI to compile a list of groups expressing \"domestic terrorism\" defined to include \"anti-American sentiment,\" \"anti-capitalism,\" \"anti-Christianity,\" \"adherence to radical gender ideology,\" and \"opposition to law enforcement.\" The memo implements National Security Presidential Memorandum-7 (NSPM-7) and gives the FBI 30 days to provide a list of groups \"engaged in acts that may constitute domestic terrorism\" along with strategies to disrupt them. The directive orders a five-year retroactive review of all FBI files, establishes cash reward systems for informants, and instructs prosecutors to pursue \"the most serious, readily provable offenses\" including conspiracy, material support for terrorism, RICO, and seditious conspiracy charges. Critics warn the memo criminalizes protected First Amendment activities and political dissent, conflating ideological viewpoints with terrorist conduct.",
+      "importance": 10,
+      "actors": [
+        "Pam Bondi",
+        "FBI",
+        "Donald Trump",
+        "Kash Patel",
+        "Ken Klippenstein"
+      ],
+      "tags": [
+        "judicial-capture",
+        "DOJ",
+        "political-prosecution",
+        "constitutional-violation",
+        "first-amendment",
+        "surveillance",
+        "trump-administration",
+        "civil-liberties",
+        "authoritarianism"
+      ],
+      "sources": [
+        {
+          "url": "https://www.democracynow.org/2025/12/8/ken_klippenstein_fbi_domestic_terrorism_nspm7",
+          "title": "Domestic Terrorism: Leaked DOJ Memo Targets Anti-Americanism, Anti-Capitalism, Anti-Christianity",
+          "publisher": "Democracy Now",
+          "date": "2025-12-08",
+          "tier": 1
+        },
+        {
+          "url": "https://www.kenklippenstein.com/p/leak-fbi-list-of-extremists-is-coming",
+          "title": "FBI Making List of American Extremists, Leaked Memo Reveals",
+          "publisher": "Ken Klippenstein",
+          "date": "2025-12-06",
+          "tier": 2
+        },
+        {
+          "url": "https://www.democracydocket.com/news-alerts/leaked-memo-bondi-doj-list-target-anti-trump-activists-domestic-terrorists/",
+          "title": "Leaked Memo: DOJ To List, Target Anti-Trump Activists as Domestic Terrorists",
+          "publisher": "Democracy Docket",
+          "date": "2025-12-08",
+          "tier": 2
+        },
+        {
+          "url": "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive",
+          "title": "DOJ Issues Sweeping New Domestic Terrorism Directive",
+          "publisher": "Arnold & Porter",
+          "date": "2025-12-04",
+          "tier": 1
+        }
+      ],
+      "_file": "2025-12-04--bondi-fbi-domestic-terrorism-memo.md",
+      "_id_hash": "2810e75ae3db97261af5760ce2e71526c6324171a43c48f9d45998cbf2b088e6"
+    },
+    {
       "id": "2025-12-05--florida-judge-orders-epstein-grand-jury-release",
       "date": "2025-12-05",
       "title": "Federal Judge Orders Release of Epstein Grand Jury Materials from 2005-2007 Florida Investigations",
@@ -151776,6 +152073,62 @@
       "_id_hash": "ea46bcb7cff3a40ee4978a9a1cabfdf23d57040701a439a99968f858255b4b8b"
     },
     {
+      "id": "2025-12-08--habba-resigns-us-attorney-new-jersey",
+      "date": "2025-12-08",
+      "title": "Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling",
+      "summary": "Alina Habba resigned as acting U.S. attorney for the District of New Jersey on December 8, 2025, one week after the Third Circuit Court of Appeals unanimously ruled her appointment violated the Federal Vacancies Reform Act. The three-judge panel found that Attorney General Pam Bondi unlawfully attempted to circumvent Senate confirmation requirements through a \"delegation theory\" that would allow anyone to fill U.S. Attorney roles indefinitely. Habba, who served as Trump's personal attorney before her March 2025 interim appointment, immediately became Senior Advisor to Attorney General Bondi for United States Attorneys despite never receiving Senate consideration for her nomination.",
+      "importance": 8,
+      "actors": [
+        "Alina Habba",
+        "Pam Bondi",
+        "Donald Trump",
+        "Desiree Grace",
+        "Matthew Brann"
+      ],
+      "tags": [
+        "corruption",
+        "DOJ",
+        "regulatory-capture",
+        "legal-violations",
+        "trump-administration",
+        "conflicts-of-interest",
+        "rule-of-law",
+        "executive-overreach"
+      ],
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba",
+          "title": "Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey",
+          "publisher": "NPR",
+          "date": "2025-12-08",
+          "tier": 1
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/justice-department/ex-trump-lawyer-alina-habba-announces-stepping-us-attorney-nj-rcna248070",
+          "title": "Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J.",
+          "publisher": "NBC News",
+          "date": "2025-12-08",
+          "tier": 1
+        },
+        {
+          "url": "https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/",
+          "title": "Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful",
+          "publisher": "CBS News",
+          "date": "2025-12-08",
+          "tier": 1
+        },
+        {
+          "url": "https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/",
+          "title": "Third Circuit Affirms Disqualification of Alina Habba",
+          "publisher": "Reason (Volokh Conspiracy)",
+          "date": "2025-12-01",
+          "tier": 2
+        }
+      ],
+      "_file": "2025-12-08--habba-resigns-us-attorney-new-jersey.md",
+      "_id_hash": "e085c611a9f60cfb253fdb34a4a6692e8fd5c8eb4edf3c696c78eab0a9f09e1d"
+    },
+    {
       "id": "2025-12-09--engelmayer-orders-maxwell-grand-jury-release",
       "date": "2025-12-09",
       "title": "Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act",
@@ -151823,6 +152176,60 @@
       ],
       "_file": "2025-12-09--engelmayer-orders-maxwell-grand-jury-release.md",
       "_id_hash": "abd88cf192093b0eab9a8423f023f94d9be33fe980c0bba5edaae4d17e45ba7a"
+    },
+    {
+      "id": "2025-12-09--kash-patel-qatar-security-agreement-conflict-of-interest",
+      "date": "2025-12-09",
+      "title": "FBI Director Kash Patel Signs Qatar Security Agreements Despite Recent Lobbying History and Ethics Waiver Controversy",
+      "summary": "FBI Director Kash Patel signs bilateral security agreements with Qatar in Doha, including two memorandums of understanding to advance security cooperation in training, intelligence sharing, and capacity-building. The agreements, signed with Qatar's Minister of Interior Sheikh Khalifa bin Hamad bin Khalifa Al-Thani, are not publicly announced by the FBI. This action occurs despite Patel's consulting firm Trishul LLC having worked for the Embassy of Qatar until November 2024, earning Patel $2.1 million according to financial disclosures. After initially pledging to recuse himself from Qatar-related matters for one year following his January 2025 confirmation, Patel received an ethics waiver on March 4, 2025, allowing him to handle Qatar matters. Legal experts and watchdog groups, including Public Citizen, question whether Patel should have registered as a foreign agent under FARA (Foreign Agents Registration Act) for his Qatar consulting work. Craig Holman of Public Citizen states: 'This waiver should never have been granted,' arguing it contradicts Patel's ethics agreement and undermines federal regulations requiring executive branch employees to recuse themselves from matters involving former employers for one year. The case exemplifies regulatory capture and revolving-door conflicts of interest, with a senior law enforcement official conducting official business with a foreign government that recently paid his consulting firm millions of dollars. Public Citizen filed a FARA complaint against Patel on February 4, 2025, noting he neither disclosed the Qatar work publicly nor registered as a foreign agent, leaving the public without records of his earnings or the nature of his services to the Qatari government.",
+      "importance": 9,
+      "tags": [
+        "corruption",
+        "FBI",
+        "foreign-influence",
+        "conflict-of-interest",
+        "regulatory-capture",
+        "FARA-violations"
+      ],
+      "actors": [
+        "Kash Patel",
+        "Qatar government",
+        "Craig Holman",
+        "Public Citizen",
+        "Sheikh Khalifa bin Hamad bin Khalifa Al-Thani"
+      ],
+      "sources": [
+        {
+          "url": "https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/",
+          "title": "FBI Director Patel signs security deals with Qatar, his former lobbying client",
+          "publisher": "Jewish Insider",
+          "date": "2025-12-09",
+          "tier": 1
+        },
+        {
+          "url": "https://responsiblestatecraft.org/kash-patel-qatar/",
+          "title": "He took Qatar's money, now Kash Patel handling their FBI files?",
+          "publisher": "Responsible Statecraft",
+          "date": "2025-12-09",
+          "tier": 1
+        },
+        {
+          "url": "https://www.citizen.org/article/public-citizen-complaint-to-oge-regarding-ethics-waiver-for-patel/",
+          "title": "Public Citizen Complaint to OGE Regarding Ethics Waiver for Patel",
+          "publisher": "Public Citizen",
+          "date": "2025-03-04",
+          "tier": 1
+        },
+        {
+          "url": "https://www.pbs.org/newshour/politics/patels-roster-of-foreign-clients-draws-scrutiny-over-conflicting-interests-with-the-fbi",
+          "title": "Patel's roster of foreign clients draws scrutiny over conflicting interests with the FBI",
+          "publisher": "PBS NewsHour",
+          "date": "2025-02-07",
+          "tier": 1
+        }
+      ],
+      "_file": "2025-12-09--kash-patel-qatar-security-agreement-conflict-of-interest.json",
+      "_id_hash": "2d1086c5cb914eddf724260f5afbf44c0d3ebc030824383776f63b3a30e30f73"
     },
     {
       "id": "2025-12-10--berman-orders-release-epstein-2019-grand-jury-records",

@@ -20452,6 +20452,22 @@
 
 1. [President Trump commutes the prison sentence of George Santos](https://www.npr.org/2025/10/17/nx-s1-5578304/trump-george-santos-prison-sentence-commuted)
 
+## Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James
+*Date: 2025-10-17*
+
+1. [Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office](https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838)
+2. [Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James](https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/)
+3. [Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James](https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james)
+4. [Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary](https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary)
+
+## Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James
+*Date: 2025-10-17*
+
+1. [Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office](https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838)
+2. [Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James](https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/)
+3. [Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James](https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james)
+4. [Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary](https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary)
+
 ## DHS Purchases $172 Million in Luxury Jets for Kristi Noem During Shutdown
 *Date: 2025-10-18*
 
@@ -21195,6 +21211,15 @@
 2. [Judge says government 'missteps' in James Comey's case could result in the dismissal of the charges](https://www.nbcnews.com/politics/justice-department/judge-says-missteps-james-comey-case-result-charges-dismissed-rcna244405)
 3. [The Situation - Malevolence, Incompetence, and the Strange Case of Lindsey Halligan](https://www.lawfaremedia.org/article/the-situation--malevolence--incompetence--and-the-strange-case-of-lindsey-halligan)
 
+## Kash Patel Assigns Elite FBI SWAT Team to Protect Girlfriend, Orders Agents to Drive Her Drunk Friend Home
+*Date: 2025-11-17*
+
+1. [Kash Patel's girlfriend being protected by FBI SWAT agents as security perk](https://www.ms.now/news/kash-patel-girlfriend-fbi-detail-alexis-wilkins-rcna243999)
+2. [Kash Patel ordered FBI detail to give girlfriend's pal a lift home: sources](https://www.ms.now/news/kash-patel-girlfriend-fbi-detail-wilkins-ride-home)
+3. [FBI Director 'Keystone' Kash Gifts His Girlfriend Alexis Wilkins SWAT Security Detail](https://www.thedailybeast.com/fbi-director-keystone-kash-gifts-his-girlfriend-alexis-wilkins-swat-security-detail/)
+4. [FBI Director Kash Patel Yelled at Agents to Drive His Girlfriend's Allegedly Intoxicated Friend Home: Report](https://www.yahoo.com/news/articles/fbi-director-kash-patel-yelled-001426331.html)
+5. [Kash Patel Assigns FBI SWAT Team to Protect 27-Year-Old Girlfriend](https://newrepublic.com/post/203288/kash-patel-fbi-swat-team-26-year-old-girlfriend)
+
 ## Six Democratic Congress Members Release Video Reminding Military of Constitutional Duty to Refuse Illegal Orders
 *Date: 2025-11-18*
 
@@ -21254,6 +21279,14 @@
 1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
 2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
 3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
+
+## Federal Judge Dismisses Indictments Against Letitia James and Comey, Ruling Halligan's Appointment Unlawful
+*Date: 2025-11-24*
+
+1. [Judge tosses Comey, James cases after finding prosecutor unlawfully appointed](https://www.npr.org/2025/11/24/g-s1-98612/trump-us-attorney-lindsey-halligan)
+2. [Judge tosses James Comey, Letitia James cases, rules prosecutor was illegally appointed](https://www.pbs.org/newshour/show/judge-tosses-james-comey-letitia-james-cases-rules-prosecutor-was-illegally-appointed)
+3. [Judge dismisses cases against James Comey and Letitia James after finding prosecutor was unlawfully appointed](https://www.nbcnews.com/politics/justice-department/judge-dismisses-cases-james-comey-letitia-james-finding-prosecutor-was-rcna244775)
+4. [Judge dismisses James Comey and Letitia James cases, finding prosecutor's appointment invalid](https://www.cbsnews.com/news/james-comey-case-dismissed-judge-lindsey-halligan/)
 
 ## Trump Signs Executive Order Initiating Muslim Brotherhood Terrorist Designation Process
 *Date: 2025-11-24*
@@ -21329,6 +21362,14 @@
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
 
+## Bondi Orders FBI to Compile "Domestic Terrorism" List Targeting Political Beliefs
+*Date: 2025-12-04*
+
+1. [Domestic Terrorism: Leaked DOJ Memo Targets Anti-Americanism, Anti-Capitalism, Anti-Christianity](https://www.democracynow.org/2025/12/8/ken_klippenstein_fbi_domestic_terrorism_nspm7)
+2. [FBI Making List of American Extremists, Leaked Memo Reveals](https://www.kenklippenstein.com/p/leak-fbi-list-of-extremists-is-coming)
+3. [Leaked Memo: DOJ To List, Target Anti-Trump Activists as Domestic Terrorists](https://www.democracydocket.com/news-alerts/leaked-memo-bondi-doj-list-target-anti-trump-activists-domestic-terrorists/)
+4. [DOJ Issues Sweeping New Domestic Terrorism Directive](https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive)
+
 ## Federal Judge Orders Release of Epstein Grand Jury Materials from 2005-2007 Florida Investigations
 *Date: 2025-12-05*
 
@@ -21337,12 +21378,28 @@
 3. [Judge orders release of grand jury transcripts from abandoned Epstein investigation in Florida](https://www.pbs.org/newshour/nation/judge-orders-release-of-grand-jury-transcripts-from-abandoned-epstein-investigation-in-florida)
 4. [Florida judge grants DOJ motion to unseal Epstein grand jury transcripts](https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story?id=128153706)
 
+## Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling
+*Date: 2025-12-08*
+
+1. [Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey](https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba)
+2. [Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J.](https://www.nbcnews.com/politics/justice-department/ex-trump-lawyer-alina-habba-announces-stepping-us-attorney-nj-rcna248070)
+3. [Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful](https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/)
+4. [Third Circuit Affirms Disqualification of Alina Habba](https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/)
+
 ## Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act
 *Date: 2025-12-09*
 
 1. [Judge in New York orders release of Ghislaine Maxwell-related grand jury records](https://www.nbcnews.com/politics/politics-news/new-york-judge-orders-release-ghislaine-maxwell-related-grand-jury-rec-rcna248191)
 2. [Justice Department can unseal Ghislaine Maxwell sex trafficking case records, federal judge says](https://www.cbsnews.com/news/ghislaine-maxwell-sex-trafficking-case-records-justice-department-unseal-judge-says/)
 3. [Judge grants DOJ motion to release grand jury materials from Ghislaine Maxwell case](https://abcnews.go.com/US/judge-grants-doj-motion-release-grand-jury-materials/story?id=128243928)
+
+## FBI Director Kash Patel Signs Qatar Security Agreements Despite Recent Lobbying History and Ethics Waiver Controversy
+*Date: 2025-12-09*
+
+1. [FBI Director Patel signs security deals with Qatar, his former lobbying client](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/)
+2. [He took Qatar's money, now Kash Patel handling their FBI files?](https://responsiblestatecraft.org/kash-patel-qatar/)
+3. [Public Citizen Complaint to OGE Regarding Ethics Waiver for Patel](https://www.citizen.org/article/public-citizen-complaint-to-oge-regarding-ethics-waiver-for-patel/)
+4. [Patel's roster of foreign clients draws scrutiny over conflicting interests with the FBI](https://www.pbs.org/newshour/politics/patels-roster-of-foreign-clients-draws-scrutiny-over-conflicting-interests-with-the-fbi)
 
 ## Judge Berman Orders Release of Epstein 2019 Grand Jury Records, Reversing Earlier Decision
 *Date: 2025-12-10*

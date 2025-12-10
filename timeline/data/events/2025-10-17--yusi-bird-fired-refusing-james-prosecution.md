@@ -1,0 +1,56 @@
+---
+id: 2025-10-17--yusi-bird-fired-refusing-james-prosecution
+date: '2025-10-17'
+title: Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James
+importance: 9
+actors:
+- Elizabeth Yusi
+- Kristin Bird
+- Erik Siebert
+- Letitia James
+- Donald Trump
+- Pam Bondi
+- Todd Blanche
+- Lindsey Halligan
+- Department of Justice
+tags:
+- DOJ
+- political-prosecution
+- retaliation
+- prosecutorial-independence
+- institutional-capture
+- trump-administration
+- weaponization-of-government
+- rule-of-law-erosion
+sources:
+- url: https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838
+  title: Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office
+  publisher: ABC News
+  date: '2025-10-17'
+  tier: 1
+- url: https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/
+  title: Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James
+  publisher: CBS News
+  date: '2025-10-17'
+  tier: 1
+- url: https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james
+  title: Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James
+  publisher: Democracy Now
+  date: '2025-10-21'
+  tier: 1
+- url: https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary
+  title: Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary
+  publisher: Democracy Docket
+  date: '2025-10-17'
+  tier: 2
+---
+
+On October 17, 2025, the Trump administration fired two senior federal prosecutors from the Eastern District of Virginia after they voiced opposition to bringing criminal charges against New York Attorney General Letitia James. Elizabeth Yusi, the top criminal prosecutor for the Norfolk office who had served as an assistant U.S. attorney in the Eastern District since 2010, and her deputy Kristin Bird, deputy chief of the Narcotics and Violent Crime Unit since 2019, were informed of their terminations on Friday and escorted from the building.
+
+The firings followed a monthslong pattern of retaliation against career prosecutors who resisted politically motivated prosecutions. In September 2025, Erik Siebert was forced to resign as U.S. Attorney for the Eastern District of Virginia after he told DOJ officials he didn't think there was enough evidence to proceed with charges against James. Investigators in the office had spent months examining allegations that James misrepresented a property purchase to obtain better loan terms, interviewing 15 witnesses and reviewing extensive documentation. Yusi authored an internal memo explaining that prosecutors believed there was insufficient evidence to charge James, telling colleagues she found "no probable cause" to indict. The alleged mortgage fraud involved claimed benefits of approximately $800 annually.
+
+After Siebert's removal, Trump appointed Lindsey Halligan, his former personal attorney with no prosecutorial experience, as interim U.S. Attorney. Halligan secured a federal grand jury indictment of James on October 9, 2025, despite the career prosecutors' documented objections. When Yusi and Bird continued to resist the prosecution, they were terminated. The Trump administration publicly claimed the prosecutors were fired for leaking investigative files containing James' personally identifying information to the media, but Yusi's attorney stated she "has no record of any such email" and "has never used her personal email account for any portion of any investigation."
+
+The systematic purge of prosecutors who maintained ethical standards represents a profound break with longstanding norms that career government employees should not be punished for carrying out their duties under preceding administrations or for refusing to pursue cases they believe lack sufficient evidence. Multiple departing officials reportedly stated their removals were "driven solely by politics." The Eastern District of Virginia, one of the nation's most important federal prosecutorial offices handling sensitive national security and terrorism cases, experienced extraordinary turmoil as Trump loyalists replaced career prosecutors who refused to weaponize their offices against the president's perceived political enemies.
+
+The firings demonstrate the complete transformation of prosecutorial independence into a loyalty test, with the Justice Department being weaponized to punish legal professionals who resist bringing politically motivated charges. Legal experts and former DOJ officials expressed alarm at the systematic removal of prosecutors based on their refusal to pursue cases lacking probable cause, describing it as an unprecedented assault on the institutional integrity of federal law enforcement. This pattern would continue with additional personnel purges throughout the department as the administration sought to eliminate any resistance to using federal prosecutorial power for political retaliation.
