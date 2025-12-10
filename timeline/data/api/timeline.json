@@ -152072,6 +152072,60 @@
     "_id_hash": "ea46bcb7cff3a40ee4978a9a1cabfdf23d57040701a439a99968f858255b4b8b"
   },
   {
+    "id": "2025-12-07--judge-blocks-doj-evidence-richman-comey-fourth-amendment",
+    "date": "2025-12-07",
+    "title": "Judge Blocks DOJ from Using Evidence Seized from Comey's Attorney in Fourth Amendment Ruling",
+    "summary": "U.S. District Judge Colleen Kollar-Kotelly issued a temporary restraining order on December 7, 2025, blocking the Justice Department from accessing, using, or disseminating evidence seized from Daniel Richman, a Columbia Law professor and former attorney for James Comey. The judge found that Richman was \"likely to succeed\" in proving the government violated his Fourth Amendment rights \"by retaining a complete copy of all files on his personal computer\" and searching that image without a warrant. The ruling potentially blocks DOJ from re-indicting Comey following the November 24 dismissal of his case due to prosecutor Lindsey Halligan's unlawful appointment.\n\nJudge Kollar-Kotelly ordered prosecutors to \"identify, segregate, and secure\" a complete forensic image of Richman's personal computer created by the Inspector General in 2017, as well as emails from his Columbia University and iCloud accounts and \"any material obtained, extracted, or derived\" from those files currently in the government's possession. The order prevents DOJ from accessing, sharing, disseminating, or disclosing these materials pending resolution of Richman's Rule 41(g) motion to recover property. The temporary restraining order was initially effective through December 12, 2025.\n\nThe Fourth Amendment violations identified by Judge Kollar-Kotelly were substantial. The underlying warrant authorized searches only through April 30, 2017, yet the FBI retained and accessed data extending through June 10, 2017 from Richman's hard drive and shockingly through August 13, 2019 from his iCloud account—more than two years beyond the warrant's temporal scope. This extended period covered times when Richman represented Comey as his attorney, raising serious attorney-client privilege concerns in addition to the Fourth Amendment violations. The judge found the government's retention and searching of this data without a warrant constituted callous disregard for constitutional protections.\n\nThe ruling exposed troubling procedural problems beyond the constitutional violations. Judge Kollar-Kotelly noted that no DOJ attorney had formally entered an appearance in the case despite a week having passed, the government couldn't identify who possessed Richman's materials, and sealed warrant documents remained unexplained despite prior court orders to unseal them. The judge ordered direct certification to Attorney General Pam Bondi by noon on Monday, December 8, demanding accountability for the government's conduct. These procedural failures suggested either profound disorganization or deliberate obstruction within the Justice Department.\n\nThe blocked evidence had formed the foundation of prosecutors' original case against Comey. DOJ had relied on files from Richman's computers to indict Comey on charges of making false statements and obstructing Congress related to his 2020 congressional testimony about FBI officials anonymously providing information to news outlets. The evidence came from a prior leak investigation of Comey that had concluded years earlier without charges. When executing new search warrants targeting Richman in 2025, the Justice Department excluded Comey from the privilege filter process despite foreseeable attorney-client privilege concerns—conduct that Magistrate Judge William Fitzpatrick had earlier characterized as \"highly irregular and a radical departure from past DOJ practice.\"\n\nRichman's Rule 41(g) lawsuit argued that the government's access to his files demonstrated callous disregard for his Fourth Amendment rights. His motion sought to recover the computer image made by the Inspector General and emails obtained derivative to it. By granting the temporary restraining order, Judge Kollar-Kotelly reversed the default status—restricting DOJ access unless it could demonstrate compliance with constitutional requirements—effectively preventing the government from conducting searches during the deliberative period. This judicial intervention provided immediate protection for Richman's constitutional rights while the merits of his Fourth Amendment claim were litigated.\n\nThe timing of the ruling significantly complicates DOJ's ability to pursue a new prosecution of Comey. The original indictment was dismissed on November 24, 2025, when Judge Cameron McGowan Currie ruled that Lindsey Halligan lacked lawful authority to bring the case because her appointment as interim U.S. Attorney was unlawful. While dismissals without prejudice theoretically allow the government to refile charges, the five-year statute of limitations on the underlying conduct may have already expired. Now, with the evidentiary foundation of the case blocked by Fourth Amendment concerns, prosecutors face the challenge of either building a case with entirely different evidence or resolving the constitutional violations—a process that could take months and extend well beyond any statute of limitations deadline.\n\nThe case represents another significant instance of judicial independence checking prosecutorial overreach in the politically motivated prosecution of Comey. Following Magistrate Judge Fitzpatrick's November 17 findings of \"profound investigative missteps\" and Judge Currie's November 24 dismissal based on Halligan's unlawful appointment, Judge Kollar-Kotelly's Fourth Amendment ruling adds a third layer of judicial rebuke. The ruling demonstrates that even when political appointees weaponize the Justice Department against perceived enemies, federal judges remain willing to enforce constitutional protections and procedural safeguards. Attorney General Bondi's December 8 deadline to certify government compliance adds urgency to DOJ's need to account for its constitutional violations.",
+    "importance": 9,
+    "actors": [
+      "Colleen Kollar-Kotelly",
+      "Daniel Richman",
+      "James Comey",
+      "Department of Justice",
+      "Pam Bondi",
+      "Lindsey Halligan",
+      "William Fitzpatrick",
+      "Cameron McGowan Currie"
+    ],
+    "tags": [
+      "fourth-amendment",
+      "judicial-independence",
+      "DOJ",
+      "political-prosecution",
+      "evidence-suppression",
+      "prosecutorial-misconduct",
+      "attorney-client-privilege",
+      "search-and-seizure",
+      "constitutional-violations",
+      "judicial-rebuke"
+    ],
+    "sources": [
+      {
+        "url": "https://www.emptywheel.net/2025/12/07/judge-colleen-kollar-kotellys-knock-knock-not-a-joke/",
+        "title": "Judge Colleen Kollar-Kotelly's Knock Knock (Not a Joke)",
+        "publisher": "emptywheel",
+        "date": "2025-12-07",
+        "tier": 1
+      },
+      {
+        "url": "https://www.foxnews.com/politics/judge-rules-evidence-linked-james-comeys-ally-off-limits-doj",
+        "title": "Judge rules evidence belonging to James Comey's ally is off limits to DOJ",
+        "publisher": "Fox News",
+        "date": "2025-12-07",
+        "tier": 2
+      },
+      {
+        "url": "https://krdo.com/news/2025/12/07/judge-temporarily-blocks-justice-departments-use-of-evidence-in-dismissed-comey-case/",
+        "title": "Judge temporarily blocks Justice Department's use of evidence in dismissed Comey case",
+        "publisher": "KRDO",
+        "date": "2025-12-07",
+        "tier": 2
+      }
+    ],
+    "_file": "2025-12-07--judge-blocks-doj-evidence-richman-comey-fourth-amendment.json",
+    "_id_hash": "62497e62cd565de41e05aa464c5e2a60ed261363c7172e9d80d43257402ef2fd"
+  },
+  {
     "id": "2025-12-08--habba-resigns-us-attorney-new-jersey",
     "date": "2025-12-08",
     "title": "Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling",
@@ -152126,6 +152180,62 @@
     ],
     "_file": "2025-12-08--habba-resigns-us-attorney-new-jersey.md",
     "_id_hash": "e085c611a9f60cfb253fdb34a4a6692e8fd5c8eb4edf3c696c78eab0a9f09e1d"
+  },
+  {
+    "id": "2025-12-09--brinkema-suggests-halligan-resignation",
+    "date": "2025-12-09",
+    "title": "Third Federal Judge Calls for Lindsey Halligan's Resignation as Unlawfully Appointed U.S. Attorney",
+    "summary": "U.S. District Judge Leonie M. Brinkema of the Eastern District of Virginia became the third federal judge to publicly question Lindsey Halligan's continued tenure as U.S. Attorney, explicitly suggesting she should resign following a November ruling that declared her appointment unlawful. During a Tuesday hearing, Judge Brinkema pressed federal prosecutors to explain why Halligan's name remained on court filings despite the judicial determination that her appointment was invalid. When noting that New Jersey U.S. Attorney Alina Habba had resigned the previous day (December 8) after facing similar legal challenges to her appointment, Judge Brinkema stated: \"That's the proper position, in my view.\"\n\nDespite the judicial pressure, Halligan continued to be listed on Department of Justice court documents. According to anonymous sources, the DOJ's Office of Legal Counsel advised that Halligan could remain in her position because the court's November 24 ruling did not explicitly mandate her removal—it only declared the appointment invalid. This legal interpretation allowed the DOJ to maintain Halligan in her role despite mounting judicial criticism. Judge Brinkema's suggestion followed similar concerns expressed by two magistrate judges in Alexandria, Virginia, who had previously told prosecutors in open court that they did not believe Halligan's name should appear on new criminal case filings.\n\nOn the same day, the Justice Department confirmed in a court filing that it plans to continue efforts to prosecute former FBI Director James Comey, referring to the situation as both a \"pending criminal investigation\" and \"a potential federal criminal prosecution.\" This came two weeks after Comey's indictment was dismissed by Judge Cameron McGowan Currie on November 24, specifically because Halligan had been serving unlawfully when she secured the indictment. The DOJ's determination to pursue a new prosecution despite the judicial rebuke highlighted the administration's commitment to the politically charged case, even as it faced significant legal obstacles regarding evidence admissibility. The episode underscored a growing confrontation between the federal judiciary and the Justice Department over prosecutorial authority and the rule of law.",
+    "importance": 9,
+    "actors": [
+      "Leonie Brinkema",
+      "Lindsey Halligan",
+      "Alina Habba",
+      "James Comey",
+      "Cameron McGowan Currie",
+      "DOJ",
+      "Pam Bondi"
+    ],
+    "tags": [
+      "DOJ",
+      "judicial-independence",
+      "rule-of-law",
+      "political-prosecution",
+      "prosecutorial-misconduct",
+      "appointments"
+    ],
+    "sources": [
+      {
+        "url": "https://gvwire.com/2025/12/09/judge-suggests-prosecutor-on-comey-and-james-cases-should-resign-as-us-attorney/",
+        "title": "Judge Suggests Prosecutor on Comey and James Cases Should Resign as US Attorney",
+        "publisher": "GV Wire",
+        "date": "2025-12-09",
+        "tier": 2
+      },
+      {
+        "url": "https://politicalwire.com/2025/12/10/judge-says-lindsey-halligan-should-resign/",
+        "title": "Judge Says Lindsey Halligan Should Resign",
+        "publisher": "Political Wire",
+        "date": "2025-12-10",
+        "tier": 2
+      },
+      {
+        "url": "https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba",
+        "title": "Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey",
+        "publisher": "NPR",
+        "date": "2025-12-08",
+        "tier": 1
+      },
+      {
+        "url": "https://www.cnbc.com/2025/12/08/trump-alina-habba-new-jersey-prosecutor.html",
+        "title": "Former Trump lawyer Alina Habba resigns as New Jersey U.S. attorney after disqualification",
+        "publisher": "CNBC",
+        "date": "2025-12-08",
+        "tier": 2
+      }
+    ],
+    "_file": "2025-12-09--brinkema-suggests-halligan-resignation.json",
+    "_id_hash": "08f0fda3a2843eeda1a64a780d10894d972f0d7d99c6d392248b28d97ccc7b14"
   },
   {
     "id": "2025-12-09--engelmayer-orders-maxwell-grand-jury-release",
@@ -152279,5 +152389,62 @@
     "summary": "On December 10, 2025, U.S. District Judge Richard M. Berman of the Southern District of New York granted the Department of Justice's request to unseal grand jury materials from Jeffrey Epstein's 2019 sex trafficking case, marking a dramatic reversal of his earlier decision to keep these records under wraps. In a four-page ruling, Judge Berman stated: \"The Court hereby grants the Government's motion in accordance with the Epstein Files Transparency Act.\" This order came one day after a separate Manhattan federal judge ordered the release of grand jury records from Ghislaine Maxwell's 2021 sex trafficking case, making Berman the third federal judge in one week to authorize disclosure of Epstein-related grand jury materials in response to the DOJ's coordinated push for transparency before the December 19 statutory deadline.\n\nJudge Berman's December 10 ruling is particularly significant because it reverses his own August 2025 decision denying the exact same DOJ request. In August, before Congress passed the Epstein Files Transparency Act, Judge Berman rejected the government's motion to unseal the grand jury records, citing insufficient justification and expressing concerns about \"possible threats to victims' safety and privacy.\" His August ruling emphasized that the DOJ already possessed \"100,000 pages of Epstein files\" compared to the \"70 odd pages\" of grand jury materials at issue, questioning why the additional disclosure was necessary. However, the legal landscape changed fundamentally when Congress passed the Epstein Files Transparency Act in November 2025 and President Trump signed it into law on November 19. The law requires the Justice Department to disclose all Epstein-related records by December 19, 2025, creating a narrow statutory exception to the normal rules protecting grand jury secrecy.\n\nThe approximately 70 pages of grand jury materials being released are from the 2019 federal sex trafficking investigation that resulted in Epstein's arrest on July 6, 2019. Judge Berman presided over that original criminal case until Epstein died in his Metropolitan Correctional Center cell on August 10, 2019, at which point Berman dismissed the charges against the deceased defendant. According to court filings reviewed during the current unsealing proceedings, the grand jury presentation was remarkably limited in scope: the only witness to testify was an FBI agent who \"had no direct knowledge of the facts of the case and whose testimony was mostly hearsay,\" testifying over two days in June and July 2019. The remainder of the grand jury presentation consisted of a PowerPoint slideshow and a call log. Judge Berman characterized these materials as \"hardly revelatory\" and representing only a \"hearsay snippet\" of Epstein's criminal conduct, yet emphasized that the Epstein Files Transparency Act's language \"unequivocally intends to make public\" these documents and \"supersedes\" traditional secrecy protections.\n\nJudge Berman's order includes critical privacy protections for victims, directing the Justice Department to carefully redact survivors' names and identifying information. He emphasized that disclosure \"CANNOT come at the expense of the privacy, safety, and protection of sexual abuse and sex trafficking victims,\" noting that victim safety remains \"paramount\" even as Congress has mandated unprecedented transparency. The December 10 ruling is part of a remarkable week of coordinated judicial action on Epstein files: on December 5, a Florida judge approved unsealing transcripts from an abandoned Epstein federal grand jury investigation from the 2000s; on December 9, another Manhattan federal judge ordered release of records from Maxwell's case; and now Judge Berman has authorized disclosure of the 2019 case materials. This rapid sequence of judicial approvals, all citing the Epstein Files Transparency Act, demonstrates the law's powerful impact in overcoming the normally ironclad protections afforded to grand jury proceedings and forcing comprehensive disclosure of the government's investigative files on one of the most notorious sex trafficking cases in American history.",
     "_file": "2025-12-10--berman-orders-release-epstein-2019-grand-jury-records.md",
     "_id_hash": "3cbd34a33b522f5f0d1c8a923e803a9b00dda33d0c8a28bfaf4876048d48218b"
+  },
+  {
+    "id": "2025-12-10--doj-leaders-attack-federal-judges-halligan-defiance",
+    "date": "2025-12-10",
+    "title": "DOJ Leaders Attack Federal Judges for Disqualifying Lindsey Halligan as Unlawfully Appointed U.S. Attorney",
+    "importance": 9,
+    "tags": [
+      "doj-weaponization",
+      "judicial-independence",
+      "constitutional-crisis",
+      "separation-of-powers",
+      "rule-of-law-erosion",
+      "institutional-capture"
+    ],
+    "actors": [
+      "Pam Bondi",
+      "Todd Blanche",
+      "Lindsey Halligan",
+      "Judge Cameron McGowan Currie",
+      "Judge Leonie Brinkema",
+      "Judge Colleen Kollar-Kotelly",
+      "Judge William Fitzpatrick",
+      "Department of Justice"
+    ],
+    "sources": [
+      {
+        "title": "DOJ Hits Back at Judges Doubting Halligan's US Attorney Role",
+        "url": "https://news.bloomberglaw.com/ip-law/doj-hits-back-at-judges-doubting-halligans-us-attorney-role",
+        "publisher": "Bloomberg Law",
+        "date": "2025-12-08",
+        "tier": 2
+      },
+      {
+        "title": "'Jaw dropping': Legal expert says Trump pick's bold move is daring judges to take action",
+        "url": "https://www.rawstory.com/jaw-dropping-lindsey-halligan/",
+        "publisher": "Raw Story",
+        "date": "2025-12-10",
+        "tier": 3
+      },
+      {
+        "title": "Who is Lindsey Halligan, prosecutor in Comey, James cases?",
+        "url": "https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james",
+        "publisher": "NPR",
+        "date": "2025-11-25",
+        "tier": 1
+      },
+      {
+        "title": "Editorial: Eastern District deserves a lawfully appointed, professional prosecutor",
+        "url": "https://www.dailypress.com/2025/12/09/editorial-eastern-district-deserves-a-lawfully-appointed-professional-prosecutor/",
+        "publisher": "Daily Press",
+        "date": "2025-12-09",
+        "tier": 2
+      }
+    ],
+    "summary": "Department of Justice leaders Attorney General Pam Bondi and Deputy Attorney General Todd Blanche launched an unprecedented public attack on federal judges who ruled that Lindsey Halligan was unlawfully appointed as U.S. Attorney for the Eastern District of Virginia. By December 10, three separate federal judges had ruled against or questioned Halligan's authority: Judge Cameron McGowan Currie dismissed criminal cases on November 24 finding Halligan's appointment violated federal law, Judge Colleen Kollar-Kotelly blocked DOJ from using evidence on December 7, and Judge Leonie Brinkema suggested Halligan resign on December 9 after DOJ called her colleagues \"rogue\" jurists. Rather than comply with judicial rulings or appeal through proper channels, DOJ doubled down—issuing a statement accusing judges of an \"unconscionable campaign of bias and hostility\" and warning of \"no tolerance for undemocratic judicial activism.\"\n\nThe DOJ's Office of Legal Counsel provided a jaw-dropping legal justification: because Judge Currie's order did not expressly command Halligan's removal, she could continue serving despite the court declaring her appointment \"entirely illegitimate and unlawful.\" Legal expert Lisa Rubin described this as Halligan \"daring the Judges of the Eastern District of Virginia to take up their own prerogative under the statute and appoint someone of their own choosing that would force a fight\" between the judiciary and DOJ. Magistrate Judge William Fitzpatrick ordered Halligan's name struck from court documents, stating \"The law in this district right now is that she is not and has not been the United States Attorney.\" The Daily Press editorial board condemned the DOJ response, noting \"It's not activism to follow the law or to uphold it. But it is undemocratic to willfully ignore federal rulings and engage in targeted prosecutions of the president's enemies.\"\n\nThis represents an extraordinary constitutional crisis where DOJ leadership openly defies multiple federal judges' rulings and attacks the judiciary for enforcing statutory limits on executive appointments. Deputy Attorney General Blanche has characterized the administration's stance as a \"war\" against judges who rule against them. The confrontation threatens the fundamental separation of powers, with DOJ continuing to list Halligan on court filings despite repeated judicial determinations that she lacks lawful authority.",
+    "_file": "2025-12-10--doj-leaders-attack-federal-judges-halligan-defiance.md",
+    "_id_hash": "1909dc8d801419926ea2fd4eb4efc05270462fdf8999dcfea5c04bb6836886b6"
   }
 ]

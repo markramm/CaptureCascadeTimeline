@@ -21378,6 +21378,13 @@
 3. [Judge orders release of grand jury transcripts from abandoned Epstein investigation in Florida](https://www.pbs.org/newshour/nation/judge-orders-release-of-grand-jury-transcripts-from-abandoned-epstein-investigation-in-florida)
 4. [Florida judge grants DOJ motion to unseal Epstein grand jury transcripts](https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story?id=128153706)
 
+## Judge Blocks DOJ from Using Evidence Seized from Comey's Attorney in Fourth Amendment Ruling
+*Date: 2025-12-07*
+
+1. [Judge Colleen Kollar-Kotelly's Knock Knock (Not a Joke)](https://www.emptywheel.net/2025/12/07/judge-colleen-kollar-kotellys-knock-knock-not-a-joke/)
+2. [Judge rules evidence belonging to James Comey's ally is off limits to DOJ](https://www.foxnews.com/politics/judge-rules-evidence-linked-james-comeys-ally-off-limits-doj)
+3. [Judge temporarily blocks Justice Department's use of evidence in dismissed Comey case](https://krdo.com/news/2025/12/07/judge-temporarily-blocks-justice-departments-use-of-evidence-in-dismissed-comey-case/)
+
 ## Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling
 *Date: 2025-12-08*
 
@@ -21385,6 +21392,14 @@
 2. [Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J.](https://www.nbcnews.com/politics/justice-department/ex-trump-lawyer-alina-habba-announces-stepping-us-attorney-nj-rcna248070)
 3. [Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful](https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/)
 4. [Third Circuit Affirms Disqualification of Alina Habba](https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/)
+
+## Third Federal Judge Calls for Lindsey Halligan's Resignation as Unlawfully Appointed U.S. Attorney
+*Date: 2025-12-09*
+
+1. [Judge Suggests Prosecutor on Comey and James Cases Should Resign as US Attorney](https://gvwire.com/2025/12/09/judge-suggests-prosecutor-on-comey-and-james-cases-should-resign-as-us-attorney/)
+2. [Judge Says Lindsey Halligan Should Resign](https://politicalwire.com/2025/12/10/judge-says-lindsey-halligan-should-resign/)
+3. [Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey](https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba)
+4. [Former Trump lawyer Alina Habba resigns as New Jersey U.S. attorney after disqualification](https://www.cnbc.com/2025/12/08/trump-alina-habba-new-jersey-prosecutor.html)
 
 ## Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act
 *Date: 2025-12-09*
@@ -21407,3 +21422,11 @@
 1. [New York judge orders release of Jeffrey Epstein grand jury records from 2019 case](https://www.nbcnews.com/politics/justice-department/new-york-judge-orders-release-jeffrey-epstein-grand-jury-records-rcna248393)
 2. [Justice Department can unseal records from Epstein's 2019 sex trafficking case, judge says](https://www.opb.org/article/2025/12/10/justice-department-can-unseal-records-from-epstein-s-2019-sex-trafficking-case-judge-says/)
 3. [Federal judge orders unsealing of more Epstein files in New York](https://www.cbsnews.com/news/epstein-files-new-york-judge-unsealing-justice-department/)
+
+## DOJ Leaders Attack Federal Judges for Disqualifying Lindsey Halligan as Unlawfully Appointed U.S. Attorney
+*Date: 2025-12-10*
+
+1. [DOJ Hits Back at Judges Doubting Halligan's US Attorney Role](https://news.bloomberglaw.com/ip-law/doj-hits-back-at-judges-doubting-halligans-us-attorney-role)
+2. ['Jaw dropping': Legal expert says Trump pick's bold move is daring judges to take action](https://www.rawstory.com/jaw-dropping-lindsey-halligan/)
+3. [Who is Lindsey Halligan, prosecutor in Comey, James cases?](https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james)
+4. [Editorial: Eastern District deserves a lawfully appointed, professional prosecutor](https://www.dailypress.com/2025/12/09/editorial-eastern-district-deserves-a-lawfully-appointed-professional-prosecutor/)
