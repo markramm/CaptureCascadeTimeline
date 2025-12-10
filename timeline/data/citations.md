@@ -21328,3 +21328,25 @@
 1. [Trump pardons Honduran ex-president who was convicted of drug crimes](https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez)
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
+
+## Federal Judge Orders Release of Epstein Grand Jury Materials from 2005-2007 Florida Investigations
+*Date: 2025-12-05*
+
+1. [Judge orders Jeffrey Epstein-related grand jury records in Florida to be released publicly](https://www.nbcnews.com/politics/justice-department/judge-orders-jeffrey-epstein-related-grand-jury-transcripts-florida-re-rcna247624)
+2. [Judge orders unsealing of grand jury transcripts from Epstein case in Florida](https://www.cbsnews.com/news/jeffrey-epstein-grand-jury-transcripts-unsealed-florida/)
+3. [Judge orders release of grand jury transcripts from abandoned Epstein investigation in Florida](https://www.pbs.org/newshour/nation/judge-orders-release-of-grand-jury-transcripts-from-abandoned-epstein-investigation-in-florida)
+4. [Florida judge grants DOJ motion to unseal Epstein grand jury transcripts](https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story?id=128153706)
+
+## Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act
+*Date: 2025-12-09*
+
+1. [Judge in New York orders release of Ghislaine Maxwell-related grand jury records](https://www.nbcnews.com/politics/politics-news/new-york-judge-orders-release-ghislaine-maxwell-related-grand-jury-rec-rcna248191)
+2. [Justice Department can unseal Ghislaine Maxwell sex trafficking case records, federal judge says](https://www.cbsnews.com/news/ghislaine-maxwell-sex-trafficking-case-records-justice-department-unseal-judge-says/)
+3. [Judge grants DOJ motion to release grand jury materials from Ghislaine Maxwell case](https://abcnews.go.com/US/judge-grants-doj-motion-release-grand-jury-materials/story?id=128243928)
+
+## Judge Berman Orders Release of Epstein 2019 Grand Jury Records, Reversing Earlier Decision
+*Date: 2025-12-10*
+
+1. [New York judge orders release of Jeffrey Epstein grand jury records from 2019 case](https://www.nbcnews.com/politics/justice-department/new-york-judge-orders-release-jeffrey-epstein-grand-jury-records-rcna248393)
+2. [Justice Department can unseal records from Epstein's 2019 sex trafficking case, judge says](https://www.opb.org/article/2025/12/10/justice-department-can-unseal-records-from-epstein-s-2019-sex-trafficking-case-judge-says/)
+3. [Federal judge orders unsealing of more Epstein files in New York](https://www.cbsnews.com/news/epstein-files-new-york-judge-unsealing-justice-department/)
