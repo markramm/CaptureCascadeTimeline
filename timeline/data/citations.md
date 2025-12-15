@@ -21391,6 +21391,24 @@
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
 
+## State Department Orders H-1B Visa Denials for Content Moderation and Fact-Checking Workers
+*Date: 2025-12-03*
+
+1. [State Department to deny visas to fact checkers and others, citing 'censorship'](https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship)
+2. [Announcement of Expanded Screening and Vetting for H-1B and Dependent H-4 Visa Applicants](https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-h-1b-and-dependent-h-4-visa-applicants.html)
+3. [New Trump Administration Visa Vetting Policy Targeting Online Trust and Safety Workers is Unconstitutional, Knight Institute Says](https://knightcolumbia.org/content/new-trump-administration-visa-vetting-policy-targeting-online-trust-and-safety-workers-is-unconstitutional-knight-institute-says)
+4. [US will expand social media, work history vetting for H-1B visas](https://www.aljazeera.com/news/2025/12/4/us-will-expand-social-media-work-history-vetting-for-h-1b-visas)
+
+## Admiral Reveals Boat Strike Survivors Were Waving Before Execution; Hegseth Refuses to Release Video Evidence
+*Date: 2025-12-04*
+
+1. [Top admiral briefs lawmakers on boat strike as watchdog faults Hegseth for Signal use](https://www.npr.org/2025/12/04/nx-s1-5633245/hegseth-signal-yemen-venezuela-boat-strikes)
+2. [Boat Hit in 'Double-Tap' Strike Was Not Heading to U.S., Admiral Reportedly Tells Lawmakers](https://time.com/7339154/admiral-bradley-boat-strike-hegseth/)
+3. [Navy admiral tells lawmakers there was no 'kill all' order from Hegseth in boat attack](https://www.pbs.org/newshour/politics/who-is-adm-bradley-lawmakers-will-hear-from-navy-admiral-who-reportedly-ordered-attack-that-killed-boat-strike-survivors)
+4. [Admiral Says There Was No 'Kill Them All' Order in Boat Attack, But Video Alarms Lawmakers](https://www.military.com/daily-news/2025/12/04/lawmakers-hear-navy-admiral-who-ordered-attack-killed-boat-strike-survivors.html)
+5. [Killing Shipwrecked Survivors is Not Just Illegal—It Endangers U.S. Servicemembers](https://www.justsecurity.org/125998/boat-strikes-shipwrecked-servicemembers/)
+6. [Expert Backgrounder - Law on Targeting Shipwrecked Traffickers](https://www.justsecurity.org/126802/expert-backgrounder-law-shipwrecked-survivors/)
+
 ## Amnesty International documents torture and enforced disappearances at "Alligator Alcatraz" and Krome detention facilities
 *Date: 2025-12-04*
 
@@ -21474,6 +21492,15 @@
 4. [Supreme Court agrees to decide constitutionality of Trump's plan to end birthright citizenship](https://www.cbsnews.com/news/supreme-court-trump-birthright-citizenship/)
 5. [Supreme Court to decide if Trump can limit the constitutional right to citizenship at birth](https://www.nbcnews.com/politics/supreme-court/supreme-court-decide-trump-can-limit-constitutional-right-citizenship-rcna244701)
 
+## Trump Official Signals Rollback of Census Racial Categories to Erase Marginalized Communities from Federal Data
+*Date: 2025-12-05*
+
+1. [Trump official signals potential rollback of changes to census racial categories](https://www.npr.org/2025/12/05/nx-s1-5634897/trump-census-race-categories-ethnicity-middle-east-north-africa)
+2. [U.S. Census changes how it identifies people by race and ethnicity, creates Middle Eastern and North African category for first time](https://www.pbs.org/newshour/politics/u-s-census-changes-how-it-identifies-people-by-race-and-ethnicity-creates-middle-eastern-and-north-african-category-for-first-time)
+3. [Project 2025 and the Census: Ghosts of Past, Present, and Future](https://civilrights.org/blog/project-2025-and-the-census-ghosts-of-past-present-and-future/)
+4. [Next U.S. census will have new boxes for 'Middle Eastern or North African,' 'Latino'](https://www.npr.org/2024/03/28/1237218459/census-race-categories-ethnicity-middle-east-north-africa)
+5. [Revisions to OMB's Statistical Policy Directive No. 15](https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and)
+
 ## National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday
 *Date: 2025-12-06*
 
@@ -21491,6 +21518,35 @@
 3. [Trump administration layoffs hit NOAA, the agency that forecasts weather and hurricanes](https://www.npr.org/2025/02/27/nx-s1-5298738/trump-administration-layoffs-hit-noaa-the-agency-that-forecasts-weather-and-hurricanes)
 4. [Job cuts at NOAA drive concerns about extreme weather forecasts, as climate change worsens natural disasters](https://www.cbsnews.com/news/noaa-national-weather-service-job-cuts-forecast-climate-change-natural-disasters/)
 5. [NOAA is scrambling to fill forecasting jobs after cuts to the National Weather Service](https://www.nbcnews.com/science/environment/noaa-scrambling-fill-forecasting-jobs-cuts-national-weather-service-rcna207050)
+
+## Trump DOT waives $11 million Southwest Airlines fine, dismantling corporate accountability
+*Date: 2025-12-06*
+
+1. [Southwest Airlines - Trump administration lets company off the hook with a multimillion dollar waiver for 2022 holiday travel meltdown](https://www.cnn.com/2025/12/06/us/southwest-airlines-meltdown-last-fine-waived)
+2. [Southwest Airlines issued $11M credit by DOT for remaining fine owed](https://abcnews.go.com/US/11m-southwest-airlines-fine-waived-dot/story?id=128178481)
+3. [Government waives part of a Biden-era fine against Southwest Airlines](https://www.nbcnews.com/news/amp/rcna247949)
+4. [DOT Penalizes Southwest Airlines $140 Million for 2022 Holiday Meltdown](https://www.transportation.gov/briefing-room/dot-penalizes-southwest-airlines-140-million-2022-holiday-meltdown)
+5. [Trump administration waives $11 million fine for Southwest Airlines' 2022 holiday meltdown](https://www.cnbc.com/2025/12/06/trump-administration-waives-11-million-southwest-fine.html)
+6. [Trump Waives Southwest Airlines Fine For Holiday Meltdown](https://www.levernews.com/trump-waives-southwest-airlines-fine-for-holiday-meltdown/)
+
+## Trump Issues Memo Ordering Comprehensive Review of Childhood Vaccine Schedule, Elevating Political Control Over Medical Science
+*Date: 2025-12-06*
+
+1. [Fact Sheet - President Donald J. Trump Begins Process to Align U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries](https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-begins-process-to-align-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/)
+2. [Fact-checking the CDC panel's reasons for dropping universal newborn hepatitis B vaccine recommendation](https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation)
+3. [The CDC, RFK Jr., And Childhood Vaccine Schedules](https://www.npr.org/2025/12/10/nx-s1-5640175/the-cdc-rfk-jr-and-childhood-vaccine-schedules)
+4. [CDC advisory panel rolls back hepatitis B vaccine guidelines](https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482)
+5. [CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns](https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/)
+6. [Trump points to other countries on childhood vaccines. The U.S. isn't comparable](https://19thnews.org/2025/12/trump-childhood-vaccines-comparison-countries/)
+
+## ICE Data Reveals 75,000 Arrests Had No Criminal History in Quota-Driven Dragnet
+*Date: 2025-12-07*
+
+1. [ICE has arrested nearly 75,000 people with no criminal records, data shows](https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377)
+2. [About a third of people arrested by ICE had no criminal record, new data shows](https://www.npr.org/2025/12/10/nx-s1-5637397/about-a-third-of-people-arrested-by-ice-had-no-criminal-record-new-data-shows)
+3. [The number of non-criminal detainees arrested by ICE has surged by 2,000% under Trump](https://www.cbsnews.com/news/ice-detainee-data-fastest-growing-without-criminal-records-trump/)
+4. [ICE data release: Sep. 2023 to mid-Oct. 2025](https://deportationdata.org/news/2025-12-01-ICE-release.html)
+5. [ICE detains US citizen in Minneapolis](https://www.cbsnews.com/minnesota/news/minneapolis-leaders-say-us-citizen-was-wrongfully-arrested-by-ice-agents/)
 
 ## Judge Blocks DOJ from Using Evidence Seized from Comey's Attorney in Fourth Amendment Ruling
 *Date: 2025-12-07*

@@ -1,11 +1,11 @@
 [
   {
     "name": "regulatory-capture",
-    "count": 393
+    "count": 394
   },
   {
     "name": "institutional-capture",
-    "count": 214
+    "count": 215
   },
   {
     "name": "corruption",
@@ -116,12 +116,12 @@
     "count": 41
   },
   {
-    "name": "ethics-violation",
+    "name": "war-crimes",
     "count": 41
   },
   {
-    "name": "war-crimes",
-    "count": 40
+    "name": "ethics-violation",
+    "count": 41
   },
   {
     "name": "authoritarianism",
@@ -172,6 +172,14 @@
     "count": 33
   },
   {
+    "name": "immigration-enforcement",
+    "count": 33
+  },
+  {
+    "name": "corporate-capture",
+    "count": 32
+  },
+  {
     "name": "pay-to-play",
     "count": 32
   },
@@ -182,10 +190,6 @@
   {
     "name": "voter-suppression",
     "count": 32
-  },
-  {
-    "name": "corporate-capture",
-    "count": 31
   },
   {
     "name": "climate-denial",
@@ -212,8 +216,8 @@
     "count": 31
   },
   {
-    "name": "immigration-enforcement",
-    "count": 31
+    "name": "public-health",
+    "count": 30
   },
   {
     "name": "saudi-arabia",
@@ -224,11 +228,11 @@
     "count": 30
   },
   {
-    "name": "public-health",
+    "name": "fraud",
     "count": 29
   },
   {
-    "name": "fraud",
+    "name": "congressional-oversight",
     "count": 29
   },
   {
@@ -236,11 +240,11 @@
     "count": 29
   },
   {
-    "name": "alec",
+    "name": "civil-rights",
     "count": 28
   },
   {
-    "name": "congressional-oversight",
+    "name": "alec",
     "count": 28
   },
   {
@@ -248,11 +252,11 @@
     "count": 28
   },
   {
-    "name": "civil-rights",
+    "name": "antitrust",
     "count": 27
   },
   {
-    "name": "antitrust",
+    "name": "voting-rights",
     "count": 27
   },
   {
@@ -268,7 +272,7 @@
     "count": 26
   },
   {
-    "name": "voting-rights",
+    "name": "press-freedom",
     "count": 26
   },
   {
@@ -281,10 +285,6 @@
   },
   {
     "name": "Military-Industrial Complex",
-    "count": 25
-  },
-  {
-    "name": "press-freedom",
     "count": 25
   },
   {
@@ -608,6 +608,10 @@
     "count": 16
   },
   {
+    "name": "political-retaliation",
+    "count": 16
+  },
+  {
     "name": "fbi",
     "count": 16
   },
@@ -661,10 +665,6 @@
   },
   {
     "name": "surveillance-technology",
-    "count": 15
-  },
-  {
-    "name": "political-retaliation",
     "count": 15
   },
   {
@@ -940,6 +940,10 @@
     "count": 12
   },
   {
+    "name": "human-rights-violations",
+    "count": 12
+  },
+  {
     "name": "russia-investigation",
     "count": 12
   },
@@ -953,6 +957,10 @@
   },
   {
     "name": "Impeachment",
+    "count": 12
+  },
+  {
+    "name": "content-moderation",
     "count": 12
   },
   {
@@ -1028,6 +1036,10 @@
     "count": 11
   },
   {
+    "name": "consumer-protection",
+    "count": 11
+  },
+  {
     "name": "Trump University",
     "count": 11
   },
@@ -1084,10 +1096,6 @@
     "count": 11
   },
   {
-    "name": "human-rights-violations",
-    "count": 11
-  },
-  {
     "name": "cybersecurity",
     "count": 11
   },
@@ -1105,10 +1113,6 @@
   },
   {
     "name": "Inspector General",
-    "count": 11
-  },
-  {
-    "name": "content-moderation",
     "count": 11
   },
   {
@@ -1177,10 +1181,6 @@
   },
   {
     "name": "whistleblower-retaliation",
-    "count": 10
-  },
-  {
-    "name": "consumer-protection",
     "count": 10
   },
   {
@@ -1284,11 +1284,19 @@
     "count": 10
   },
   {
+    "name": "political-manipulation",
+    "count": 9
+  },
+  {
     "name": "powell-memo",
     "count": 9
   },
   {
     "name": "inequality",
+    "count": 9
+  },
+  {
+    "name": "racial-justice",
     "count": 9
   },
   {
@@ -1424,10 +1432,6 @@
     "count": 9
   },
   {
-    "name": "political-manipulation",
-    "count": 8
-  },
-  {
     "name": "conservative-media",
     "count": 8
   },
@@ -1444,7 +1448,7 @@
     "count": 8
   },
   {
-    "name": "racial-justice",
+    "name": "censorship",
     "count": 8
   },
   {
@@ -1613,10 +1617,6 @@
   },
   {
     "name": "reagan-administration",
-    "count": 7
-  },
-  {
-    "name": "censorship",
     "count": 7
   },
   {
@@ -2001,6 +2001,10 @@
   },
   {
     "name": "deferred-prosecution",
+    "count": 6
+  },
+  {
+    "name": "due-process",
     "count": 6
   },
   {
@@ -2425,10 +2429,6 @@
   },
   {
     "name": "verizon",
-    "count": 5
-  },
-  {
-    "name": "due-process",
     "count": 5
   },
   {
@@ -3172,6 +3172,10 @@
     "count": 4
   },
   {
+    "name": "political-favoritism",
+    "count": 4
+  },
+  {
     "name": "institutional-accountability",
     "count": 4
   },
@@ -3392,6 +3396,10 @@
     "count": 4
   },
   {
+    "name": "anti-vaccine",
+    "count": 4
+  },
+  {
     "name": "administrative-capture",
     "count": 4
   },
@@ -3492,6 +3500,10 @@
     "count": 4
   },
   {
+    "name": "ICE",
+    "count": 4
+  },
+  {
     "name": "foreign-policy-corruption",
     "count": 4
   },
@@ -3513,6 +3525,10 @@
   },
   {
     "name": "DHS",
+    "count": 4
+  },
+  {
+    "name": "RFK-Jr",
     "count": 4
   },
   {
@@ -4260,10 +4276,6 @@
     "count": 3
   },
   {
-    "name": "political-favoritism",
-    "count": 3
-  },
-  {
     "name": "crimes-against-humanity",
     "count": 3
   },
@@ -4281,6 +4293,10 @@
   },
   {
     "name": "Presidential Accountability",
+    "count": 3
+  },
+  {
+    "name": "HHS",
     "count": 3
   },
   {
@@ -4544,10 +4560,6 @@
     "count": 3
   },
   {
-    "name": "anti-vaccine",
-    "count": 3
-  },
-  {
     "name": "vaccine-policy",
     "count": 3
   },
@@ -4748,10 +4760,6 @@
     "count": 3
   },
   {
-    "name": "ICE",
-    "count": 3
-  },
-  {
     "name": "government-inefficiency",
     "count": 3
   },
@@ -4828,11 +4836,15 @@
     "count": 3
   },
   {
-    "name": "RFK-Jr",
+    "name": "First-Amendment",
     "count": 3
   },
   {
     "name": "expertise-purge",
+    "count": 3
+  },
+  {
+    "name": "CDC",
     "count": 3
   },
   {
@@ -5900,6 +5912,10 @@
     "count": 2
   },
   {
+    "name": "vaccines",
+    "count": 2
+  },
+  {
     "name": "nypd",
     "count": 2
   },
@@ -6077,6 +6093,10 @@
   },
   {
     "name": "hong-kong",
+    "count": 2
+  },
+  {
+    "name": "accountability-erosion",
     "count": 2
   },
   {
@@ -6604,10 +6624,6 @@
     "count": 2
   },
   {
-    "name": "HHS",
-    "count": 2
-  },
-  {
     "name": "crash",
     "count": 2
   },
@@ -6781,6 +6797,10 @@
   },
   {
     "name": "political-ads",
+    "count": 2
+  },
+  {
+    "name": "fact-checking",
     "count": 2
   },
   {
@@ -7728,6 +7748,10 @@
     "count": 2
   },
   {
+    "name": "arrest-quotas",
+    "count": 2
+  },
+  {
     "name": "oversight-evasion",
     "count": 2
   },
@@ -7852,6 +7876,10 @@
     "count": 2
   },
   {
+    "name": "police-state",
+    "count": 2
+  },
+  {
     "name": "federal-deployment",
     "count": 2
   },
@@ -7932,6 +7960,10 @@
     "count": 2
   },
   {
+    "name": "international-law-violations",
+    "count": 2
+  },
+  {
     "name": "weaponization-of-justice",
     "count": 2
   },
@@ -7948,6 +7980,14 @@
     "count": 2
   },
   {
+    "name": "visa-weaponization",
+    "count": 2
+  },
+  {
+    "name": "speech-suppression",
+    "count": 2
+  },
+  {
     "name": "disaster-relief",
     "count": 2
   },
@@ -7957,6 +7997,10 @@
   },
   {
     "name": "independence-erosion",
+    "count": 2
+  },
+  {
+    "name": "census-manipulation",
     "count": 2
   },
   {
@@ -8136,6 +8180,10 @@
     "count": 2
   },
   {
+    "name": "Stephen-Miller",
+    "count": 2
+  },
+  {
     "name": "criminal-contempt",
     "count": 2
   },
@@ -8144,7 +8192,7 @@
     "count": 2
   },
   {
-    "name": "First-Amendment",
+    "name": "extrajudicial-killing",
     "count": 2
   },
   {
@@ -8152,7 +8200,7 @@
     "count": 2
   },
   {
-    "name": "CDC",
+    "name": "child-safety",
     "count": 2
   },
   {
@@ -11548,10 +11596,6 @@
     "count": 1
   },
   {
-    "name": "vaccines",
-    "count": 1
-  },
-  {
     "name": "carbon-tax",
     "count": 1
   },
@@ -11993,10 +12037,6 @@
   },
   {
     "name": "whistleblowers",
-    "count": 1
-  },
-  {
-    "name": "accountability-erosion",
     "count": 1
   },
   {
@@ -14017,10 +14057,6 @@
   },
   {
     "name": "free-speech-abuse",
-    "count": 1
-  },
-  {
-    "name": "fact-checking",
     "count": 1
   },
   {
@@ -18304,10 +18340,6 @@
     "count": 1
   },
   {
-    "name": "arrest-quotas",
-    "count": 1
-  },
-  {
     "name": "hotel-detention",
     "count": 1
   },
@@ -19020,10 +19052,6 @@
     "count": 1
   },
   {
-    "name": "police-state",
-    "count": 1
-  },
-  {
     "name": "authoritarian-blueprint",
     "count": 1
   },
@@ -19360,10 +19388,6 @@
     "count": 1
   },
   {
-    "name": "international-law-violations",
-    "count": 1
-  },
-  {
     "name": "consumer-protection-rollback",
     "count": 1
   },
@@ -19500,14 +19524,6 @@
     "count": 1
   },
   {
-    "name": "visa-weaponization",
-    "count": 1
-  },
-  {
-    "name": "speech-suppression",
-    "count": 1
-  },
-  {
     "name": "healthcare-access-sabotage",
     "count": 1
   },
@@ -19545,10 +19561,6 @@
   },
   {
     "name": "data-abuse",
-    "count": 1
-  },
-  {
-    "name": "census-manipulation",
     "count": 1
   },
   {
@@ -20160,10 +20172,6 @@
     "count": 1
   },
   {
-    "name": "Stephen-Miller",
-    "count": 1
-  },
-  {
     "name": "Anti-Immigration",
     "count": 1
   },
@@ -20284,10 +20292,6 @@
     "count": 1
   },
   {
-    "name": "extrajudicial-killing",
-    "count": 1
-  },
-  {
     "name": "caribbean-policy",
     "count": 1
   },
@@ -20317,6 +20321,34 @@
   },
   {
     "name": "congressional-reaction",
+    "count": 1
+  },
+  {
+    "name": "H1-B-visas",
+    "count": 1
+  },
+  {
+    "name": "State-Department",
+    "count": 1
+  },
+  {
+    "name": "trust-and-safety",
+    "count": 1
+  },
+  {
+    "name": "Pete-Hegseth",
+    "count": 1
+  },
+  {
+    "name": "DoD",
+    "count": 1
+  },
+  {
+    "name": "evidence-obstruction",
+    "count": 1
+  },
+  {
+    "name": "maritime-strikes",
     "count": 1
   },
   {
@@ -20352,10 +20384,6 @@
     "count": 1
   },
   {
-    "name": "child-safety",
-    "count": 1
-  },
-  {
     "name": "federal-courts",
     "count": 1
   },
@@ -20373,6 +20401,14 @@
   },
   {
     "name": "judicial-manipulation",
+    "count": 1
+  },
+  {
+    "name": "data-integrity",
+    "count": 1
+  },
+  {
+    "name": "statistical-manipulation",
     "count": 1
   },
   {
@@ -20413,6 +20449,42 @@
   },
   {
     "name": "emergency-preparedness",
+    "count": 1
+  },
+  {
+    "name": "Southwest-Airlines",
+    "count": 1
+  },
+  {
+    "name": "DOT",
+    "count": 1
+  },
+  {
+    "name": "airline-industry",
+    "count": 1
+  },
+  {
+    "name": "Sean-Duffy",
+    "count": 1
+  },
+  {
+    "name": "presidential-memo",
+    "count": 1
+  },
+  {
+    "name": "science-denialism",
+    "count": 1
+  },
+  {
+    "name": "mass-detention",
+    "count": 1
+  },
+  {
+    "name": "dragnet",
+    "count": 1
+  },
+  {
+    "name": "data-transparency",
     "count": 1
   },
   {

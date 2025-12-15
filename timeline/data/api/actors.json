@@ -1,11 +1,11 @@
 [
   {
     "name": "Donald Trump",
-    "count": 987
+    "count": 990
   },
   {
     "name": "Trump Administration",
-    "count": 323
+    "count": 324
   },
   {
     "name": "Department of Justice",
@@ -32,6 +32,10 @@
     "count": 56
   },
   {
+    "name": "ICE",
+    "count": 55
+  },
+  {
     "name": "CIA",
     "count": 54
   },
@@ -41,10 +45,6 @@
   },
   {
     "name": "White House",
-    "count": 54
-  },
-  {
-    "name": "ICE",
     "count": 54
   },
   {
@@ -120,12 +120,16 @@
     "count": 36
   },
   {
+    "name": "Kristi Noem",
+    "count": 36
+  },
+  {
     "name": "White House Iraq Group",
     "count": 35
   },
   {
-    "name": "Kristi Noem",
-    "count": 35
+    "name": "Stephen Miller",
+    "count": 33
   },
   {
     "name": "Mark Zuckerberg",
@@ -144,12 +148,16 @@
     "count": 32
   },
   {
-    "name": "Stephen Miller",
-    "count": 32
-  },
-  {
     "name": "Eric Trump",
     "count": 30
+  },
+  {
+    "name": "Elizabeth Warren",
+    "count": 29
+  },
+  {
+    "name": "DHS",
+    "count": 29
   },
   {
     "name": "Russell Vought",
@@ -161,14 +169,6 @@
   },
   {
     "name": "Joe Biden",
-    "count": 28
-  },
-  {
-    "name": "Elizabeth Warren",
-    "count": 28
-  },
-  {
-    "name": "DHS",
     "count": 28
   },
   {
@@ -184,16 +184,16 @@
     "count": 26
   },
   {
+    "name": "State Department",
+    "count": 25
+  },
+  {
     "name": "Andrew Card",
     "count": 25
   },
   {
     "name": "Kash Patel",
     "count": 25
-  },
-  {
-    "name": "State Department",
-    "count": 24
   },
   {
     "name": "American Legislative Exchange Council (ALEC)",
@@ -336,6 +336,10 @@
     "count": 18
   },
   {
+    "name": "Pete Hegseth",
+    "count": 18
+  },
+  {
     "name": "Meta",
     "count": 18
   },
@@ -365,10 +369,6 @@
   },
   {
     "name": "JD Vance",
-    "count": 17
-  },
-  {
-    "name": "Pete Hegseth",
     "count": 17
   },
   {
@@ -408,6 +408,10 @@
     "count": 16
   },
   {
+    "name": "Marco Rubio",
+    "count": 16
+  },
+  {
     "name": "Larry Ellison",
     "count": 15
   },
@@ -441,10 +445,6 @@
   },
   {
     "name": "William Barr",
-    "count": 15
-  },
-  {
-    "name": "Marco Rubio",
     "count": 15
   },
   {
@@ -516,7 +516,15 @@
     "count": 13
   },
   {
+    "name": "Department of Health and Human Services",
+    "count": 13
+  },
+  {
     "name": "Environmental Protection Agency",
+    "count": 13
+  },
+  {
+    "name": "Office of Management and Budget",
     "count": 13
   },
   {
@@ -550,14 +558,6 @@
   {
     "name": "Department of Government Efficiency (DOGE)",
     "count": 13
-  },
-  {
-    "name": "Department of Health and Human Services",
-    "count": 12
-  },
-  {
-    "name": "Office of Management and Budget",
-    "count": 12
   },
   {
     "name": "Leonard Leo",
@@ -732,6 +732,10 @@
     "count": 10
   },
   {
+    "name": "Sean Duffy",
+    "count": 10
+  },
+  {
     "name": "U.S. Chamber of Commerce",
     "count": 9
   },
@@ -845,10 +849,6 @@
   },
   {
     "name": "Tom Homan",
-    "count": 9
-  },
-  {
-    "name": "Sean Duffy",
     "count": 9
   },
   {
@@ -1132,6 +1132,10 @@
     "count": 7
   },
   {
+    "name": "Department of Transportation",
+    "count": 7
+  },
+  {
     "name": "Ron DeSantis",
     "count": 7
   },
@@ -1145,6 +1149,10 @@
   },
   {
     "name": "Juan Merchan",
+    "count": 7
+  },
+  {
+    "name": "Robert F. Kennedy Jr.",
     "count": 7
   },
   {
@@ -1376,10 +1384,6 @@
     "count": 6
   },
   {
-    "name": "Department of Transportation",
-    "count": 6
-  },
-  {
     "name": "John Ratcliffe",
     "count": 6
   },
@@ -1397,10 +1401,6 @@
   },
   {
     "name": "Richard Blumenthal",
-    "count": 6
-  },
-  {
-    "name": "Robert F. Kennedy Jr.",
     "count": 6
   },
   {
@@ -2988,6 +2988,10 @@
     "count": 3
   },
   {
+    "name": "Centers for Disease Control and Prevention",
+    "count": 3
+  },
+  {
     "name": "Grayshift",
     "count": 3
   },
@@ -3681,6 +3685,10 @@
   },
   {
     "name": "Cameron McGowan Currie",
+    "count": 3
+  },
+  {
+    "name": "American Academy of Pediatrics",
     "count": 3
   },
   {
@@ -4996,10 +5004,6 @@
     "count": 2
   },
   {
-    "name": "Centers for Disease Control and Prevention",
-    "count": 2
-  },
-  {
     "name": "Federal Court",
     "count": 2
   },
@@ -5141,6 +5145,10 @@
   },
   {
     "name": "Lachlan Murdoch",
+    "count": 2
+  },
+  {
+    "name": "Southwest Airlines",
     "count": 2
   },
   {
@@ -6212,6 +6220,10 @@
     "count": 2
   },
   {
+    "name": "Senator Jack Reed",
+    "count": 2
+  },
+  {
     "name": "V-Dem Institute",
     "count": 2
   },
@@ -6580,6 +6592,10 @@
     "count": 2
   },
   {
+    "name": "Census Bureau",
+    "count": 2
+  },
+  {
     "name": "Minnesota",
     "count": 2
   },
@@ -6680,6 +6696,14 @@
     "count": 2
   },
   {
+    "name": "Admiral Frank Bradley",
+    "count": 2
+  },
+  {
+    "name": "Knight First Amendment Institute",
+    "count": 2
+  },
+  {
     "name": "Advisory Committee on Immunization Practices (ACIP)",
     "count": 2
   },
@@ -6688,7 +6712,7 @@
     "count": 2
   },
   {
-    "name": "American Academy of Pediatrics",
+    "name": "Infectious Diseases Society of America",
     "count": 2
   },
   {
@@ -11448,10 +11472,6 @@
     "count": 1
   },
   {
-    "name": "Southwest Airlines",
-    "count": 1
-  },
-  {
     "name": "Boeing test pilots",
     "count": 1
   },
@@ -15612,10 +15632,6 @@
     "count": 1
   },
   {
-    "name": "Senator Jack Reed",
-    "count": 1
-  },
-  {
     "name": "Dan Gallagher",
     "count": 1
   },
@@ -18368,10 +18384,6 @@
     "count": 1
   },
   {
-    "name": "Census Bureau",
-    "count": 1
-  },
-  {
     "name": "Carlos Watson",
     "count": 1
   },
@@ -19260,10 +19272,6 @@
     "count": 1
   },
   {
-    "name": "Admiral Frank Bradley",
-    "count": 1
-  },
-  {
     "name": "Roger Wicker",
     "count": 1
   },
@@ -19396,6 +19404,42 @@
     "count": 1
   },
   {
+    "name": "Tech companies",
+    "count": 1
+  },
+  {
+    "name": "H-1B visa applicants",
+    "count": 1
+  },
+  {
+    "name": "Immigration lawyers",
+    "count": 1
+  },
+  {
+    "name": "Alice Goguen Hunsberger",
+    "count": 1
+  },
+  {
+    "name": "Carrie DeCell",
+    "count": 1
+  },
+  {
+    "name": "Evelyn Douek",
+    "count": 1
+  },
+  {
+    "name": "Representative Jim Himes",
+    "count": 1
+  },
+  {
+    "name": "Representative Adam Smith",
+    "count": 1
+  },
+  {
+    "name": "Senator Tom Cotton",
+    "count": 1
+  },
+  {
     "name": "Amy Fischer",
     "count": 1
   },
@@ -19460,10 +19504,6 @@
     "count": 1
   },
   {
-    "name": "Infectious Diseases Society of America",
-    "count": 1
-  },
-  {
     "name": "Jim O'Neill",
     "count": 1
   },
@@ -19489,10 +19529,6 @@
   },
   {
     "name": "Alexander Resar (DOJ attorney)",
-    "count": 1
-  },
-  {
-    "name": "Knight First Amendment Institute",
     "count": 1
   },
   {
@@ -19529,6 +19565,18 @@
   },
   {
     "name": "American Immigration Council",
+    "count": 1
+  },
+  {
+    "name": "Mark Calabria",
+    "count": 1
+  },
+  {
+    "name": "Leadership Conference on Civil and Human Rights",
+    "count": 1
+  },
+  {
+    "name": "Arab American Institute",
     "count": 1
   },
   {
@@ -19569,6 +19617,26 @@
   },
   {
     "name": "Former NOAA Administrators",
+    "count": 1
+  },
+  {
+    "name": "Paul Hudson",
+    "count": 1
+  },
+  {
+    "name": "American College of Physicians",
+    "count": 1
+  },
+  {
+    "name": "Deportation Data Project",
+    "count": 1
+  },
+  {
+    "name": "immigration advocates",
+    "count": 1
+  },
+  {
+    "name": "arrested individuals",
     "count": 1
   },
   {

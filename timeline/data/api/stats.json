@@ -1,15 +1,15 @@
 {
-  "total_events": 2942,
-  "total_tags": 5121,
-  "total_actors": 4915,
-  "total_sources": 9795,
+  "total_events": 2948,
+  "total_tags": 5139,
+  "total_actors": 4932,
+  "total_sources": 9827,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
   },
   "status_counts": {
-    "unknown": 880,
-    "confirmed": 2013,
+    "unknown": 883,
+    "confirmed": 2016,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -25,11 +25,11 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 393
+      "count": 394
     },
     {
       "name": "institutional-capture",
-      "count": 214
+      "count": 215
     },
     {
       "name": "corruption",
@@ -67,11 +67,11 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 987
+      "count": 990
     },
     {
       "name": "Trump Administration",
-      "count": 323
+      "count": 324
     },
     {
       "name": "Department of Justice",
@@ -98,13 +98,13 @@
       "count": 56
     },
     {
-      "name": "CIA",
-      "count": 54
+      "name": "ICE",
+      "count": 55
     },
     {
-      "name": "Dick Cheney",
+      "name": "CIA",
       "count": 54
     }
   ],
-  "generated": "2025-12-15T00:42:17.059028"
+  "generated": "2025-12-15T01:01:41.215672"
 }
