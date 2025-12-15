@@ -37,7 +37,7 @@
   },
   {
     "name": "constitutional-crisis",
-    "count": 87
+    "count": 88
   },
   {
     "name": "conflict-of-interest",
@@ -92,6 +92,10 @@
     "count": 44
   },
   {
+    "name": "national-security",
+    "count": 44
+  },
+  {
     "name": "doj",
     "count": 44
   },
@@ -101,10 +105,6 @@
   },
   {
     "name": "judicial-capture",
-    "count": 43
-  },
-  {
-    "name": "national-security",
     "count": 43
   },
   {
@@ -124,20 +124,20 @@
     "count": 40
   },
   {
+    "name": "authoritarianism",
+    "count": 39
+  },
+  {
     "name": "deregulation",
     "count": 38
   },
   {
-    "name": "authoritarianism",
-    "count": 38
+    "name": "constitutional-violation",
+    "count": 37
   },
   {
     "name": "election-interference",
     "count": 37
-  },
-  {
-    "name": "constitutional-violation",
-    "count": 36
   },
   {
     "name": "first-amendment",
@@ -168,6 +168,10 @@
     "count": 33
   },
   {
+    "name": "executive-overreach",
+    "count": 33
+  },
+  {
     "name": "pay-to-play",
     "count": 32
   },
@@ -177,10 +181,6 @@
   },
   {
     "name": "voter-suppression",
-    "count": 32
-  },
-  {
-    "name": "executive-overreach",
     "count": 32
   },
   {
@@ -224,6 +224,10 @@
     "count": 30
   },
   {
+    "name": "public-health",
+    "count": 29
+  },
+  {
     "name": "fraud",
     "count": 29
   },
@@ -236,24 +240,20 @@
     "count": 28
   },
   {
-    "name": "public-health",
-    "count": 28
-  },
-  {
     "name": "congressional-oversight",
     "count": 28
   },
   {
-    "name": "antitrust",
-    "count": 27
-  },
-  {
     "name": "immigration",
-    "count": 27
+    "count": 28
   },
   {
     "name": "civil-rights",
-    "count": 26
+    "count": 27
+  },
+  {
+    "name": "antitrust",
+    "count": 27
   },
   {
     "name": "model-legislation",
@@ -368,6 +368,10 @@
     "count": 21
   },
   {
+    "name": "torture",
+    "count": 21
+  },
+  {
     "name": "corporate-accountability",
     "count": 21
   },
@@ -400,10 +404,6 @@
     "count": 20
   },
   {
-    "name": "torture",
-    "count": 20
-  },
-  {
     "name": "google",
     "count": 20
   },
@@ -420,7 +420,15 @@
     "count": 19
   },
   {
+    "name": "foreign-policy",
+    "count": 19
+  },
+  {
     "name": "real-estate",
+    "count": 19
+  },
+  {
+    "name": "healthcare",
     "count": 19
   },
   {
@@ -460,10 +468,6 @@
     "count": 18
   },
   {
-    "name": "foreign-policy",
-    "count": 18
-  },
-  {
     "name": "media-consolidation",
     "count": 18
   },
@@ -473,10 +477,6 @@
   },
   {
     "name": "pharmaceutical-industry",
-    "count": 18
-  },
-  {
-    "name": "healthcare",
     "count": 18
   },
   {
@@ -552,6 +552,10 @@
     "count": 17
   },
   {
+    "name": "judicial-independence",
+    "count": 17
+  },
+  {
     "name": "Worker Exploitation",
     "count": 17
   },
@@ -609,10 +613,6 @@
   },
   {
     "name": "gerrymandering",
-    "count": 16
-  },
-  {
-    "name": "judicial-independence",
     "count": 16
   },
   {
@@ -1084,6 +1084,10 @@
     "count": 11
   },
   {
+    "name": "human-rights-violations",
+    "count": 11
+  },
+  {
     "name": "cybersecurity",
     "count": 11
   },
@@ -1224,10 +1228,6 @@
     "count": 10
   },
   {
-    "name": "human-rights-violations",
-    "count": 10
-  },
-  {
     "name": "NY Attorney General",
     "count": 10
   },
@@ -1273,6 +1273,10 @@
   },
   {
     "name": "DOJ Weaponization",
+    "count": 10
+  },
+  {
+    "name": "rule-of-law-erosion",
     "count": 10
   },
   {
@@ -1420,8 +1424,8 @@
     "count": 9
   },
   {
-    "name": "rule-of-law-erosion",
-    "count": 9
+    "name": "political-manipulation",
+    "count": 8
   },
   {
     "name": "conservative-media",
@@ -1572,12 +1576,12 @@
     "count": 8
   },
   {
-    "name": "chicago",
+    "name": "court-defiance",
     "count": 8
   },
   {
-    "name": "political-manipulation",
-    "count": 7
+    "name": "chicago",
+    "count": 8
   },
   {
     "name": "intelligence-operations",
@@ -1852,10 +1856,6 @@
     "count": 7
   },
   {
-    "name": "court-defiance",
-    "count": 7
-  },
-  {
     "name": "appeals-court",
     "count": 7
   },
@@ -2084,6 +2084,10 @@
     "count": 6
   },
   {
+    "name": "Russia",
+    "count": 6
+  },
+  {
     "name": "Disinformation",
     "count": 6
   },
@@ -2129,6 +2133,10 @@
   },
   {
     "name": "fake-electors",
+    "count": 6
+  },
+  {
+    "name": "democratic-backsliding",
     "count": 6
   },
   {
@@ -2420,6 +2428,10 @@
     "count": 5
   },
   {
+    "name": "due-process",
+    "count": 5
+  },
+  {
     "name": "private-contractors",
     "count": 5
   },
@@ -2576,10 +2588,6 @@
     "count": 5
   },
   {
-    "name": "Russia",
-    "count": 5
-  },
-  {
     "name": "conspiracy-theories",
     "count": 5
   },
@@ -2617,10 +2625,6 @@
   },
   {
     "name": "oligarchy",
-    "count": 5
-  },
-  {
-    "name": "democratic-backsliding",
     "count": 5
   },
   {
@@ -2957,10 +2961,6 @@
   },
   {
     "name": "political-screening",
-    "count": 4
-  },
-  {
-    "name": "due-process",
     "count": 4
   },
   {
@@ -4528,6 +4528,10 @@
     "count": 3
   },
   {
+    "name": "birthright-citizenship",
+    "count": 3
+  },
+  {
     "name": "cabinet-appointments",
     "count": 3
   },
@@ -4541,6 +4545,10 @@
   },
   {
     "name": "anti-vaccine",
+    "count": 3
+  },
+  {
+    "name": "vaccine-policy",
     "count": 3
   },
   {
@@ -4740,6 +4748,10 @@
     "count": 3
   },
   {
+    "name": "ICE",
+    "count": 3
+  },
+  {
     "name": "government-inefficiency",
     "count": 3
   },
@@ -4813,6 +4825,14 @@
   },
   {
     "name": "judicial-appointments",
+    "count": 3
+  },
+  {
+    "name": "RFK-Jr",
+    "count": 3
+  },
+  {
+    "name": "expertise-purge",
     "count": 3
   },
   {
@@ -7328,10 +7348,6 @@
     "count": 2
   },
   {
-    "name": "birthright-citizenship",
-    "count": 2
-  },
-  {
     "name": "capture-patterns",
     "count": 2
   },
@@ -7349,10 +7365,6 @@
   },
   {
     "name": "pro-bono-litigation",
-    "count": 2
-  },
-  {
-    "name": "vaccine-policy",
     "count": 2
   },
   {
@@ -7472,6 +7484,10 @@
     "count": 2
   },
   {
+    "name": "deportation",
+    "count": 2
+  },
+  {
     "name": "impossible-quotas",
     "count": 2
   },
@@ -7509,6 +7525,10 @@
   },
   {
     "name": "media-investigation",
+    "count": 2
+  },
+  {
+    "name": "far-right",
     "count": 2
   },
   {
@@ -7812,6 +7832,10 @@
     "count": 2
   },
   {
+    "name": "Supreme-Court",
+    "count": 2
+  },
+  {
     "name": "deportation-abuse",
     "count": 2
   },
@@ -7868,10 +7892,6 @@
     "count": 2
   },
   {
-    "name": "ICE",
-    "count": 2
-  },
-  {
     "name": "DOGE",
     "count": 2
   },
@@ -7889,6 +7909,10 @@
   },
   {
     "name": "AI-policy",
+    "count": 2
+  },
+  {
+    "name": "scientific-integrity",
     "count": 2
   },
   {
@@ -8124,15 +8148,11 @@
     "count": 2
   },
   {
-    "name": "RFK-Jr",
-    "count": 2
-  },
-  {
-    "name": "expertise-purge",
-    "count": 2
-  },
-  {
     "name": "DOJ-weaponization",
+    "count": 2
+  },
+  {
+    "name": "CDC",
     "count": 2
   },
   {
@@ -17200,10 +17220,6 @@
     "count": 1
   },
   {
-    "name": "deportation",
-    "count": 1
-  },
-  {
     "name": "consensys",
     "count": 1
   },
@@ -17333,10 +17349,6 @@
   },
   {
     "name": "ideological-control",
-    "count": 1
-  },
-  {
-    "name": "far-right",
     "count": 1
   },
   {
@@ -18936,10 +18948,6 @@
     "count": 1
   },
   {
-    "name": "Supreme-Court",
-    "count": 1
-  },
-  {
     "name": "Racial-Justice",
     "count": 1
   },
@@ -19305,10 +19313,6 @@
   },
   {
     "name": "energy-politics",
-    "count": 1
-  },
-  {
-    "name": "scientific-integrity",
     "count": 1
   },
   {
@@ -19860,6 +19864,10 @@
     "count": 1
   },
   {
+    "name": "citizenship-rights",
+    "count": 1
+  },
+  {
     "name": "department-of-homeland-security",
     "count": 1
   },
@@ -20324,7 +20332,23 @@
     "count": 1
   },
   {
-    "name": "CDC",
+    "name": "NATO",
+    "count": 1
+  },
+  {
+    "name": "transatlantic-relations",
+    "count": 1
+  },
+  {
+    "name": "isolationism",
+    "count": 1
+  },
+  {
+    "name": "European-Union",
+    "count": 1
+  },
+  {
+    "name": "ACIP",
     "count": 1
   },
   {
@@ -20341,6 +20365,14 @@
   },
   {
     "name": "public-media",
+    "count": 1
+  },
+  {
+    "name": "14th-Amendment",
+    "count": 1
+  },
+  {
+    "name": "judicial-manipulation",
     "count": 1
   },
   {

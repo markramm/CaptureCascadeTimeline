@@ -1,22 +1,22 @@
 {
-  "total_events": 2938,
-  "total_tags": 5113,
-  "total_actors": 4896,
-  "total_sources": 9771,
+  "total_events": 2942,
+  "total_tags": 5121,
+  "total_actors": 4915,
+  "total_sources": 9795,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
   },
   "status_counts": {
-    "unknown": 879,
-    "confirmed": 2011,
+    "unknown": 880,
+    "confirmed": 2013,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
     "reported": 7,
     "investigated": 1,
-    "contested": 1,
+    "contested": 2,
     "needs_work": 1,
     "unverified": 1,
     "predicted": 1,
@@ -61,13 +61,13 @@
     },
     {
       "name": "constitutional-crisis",
-      "count": 87
+      "count": 88
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 985
+      "count": 987
     },
     {
       "name": "Trump Administration",
@@ -95,7 +95,7 @@
     },
     {
       "name": "Supreme Court",
-      "count": 55
+      "count": 56
     },
     {
       "name": "CIA",
@@ -106,5 +106,5 @@
       "count": 54
     }
   ],
-  "generated": "2025-12-15T00:34:30.586244"
+  "generated": "2025-12-15T00:42:17.059028"
 }

@@ -20696,6 +20696,16 @@
 
 1. [Grand Jury Convened to Investigate 'Conspiracy Against Trump'](https://abcnews.go.com/Politics/federal-grand-jury-trump-conspiracy-investigation/story)
 
+## ICE Deports Man to Laos Despite Federal Court Order Blocking Removal, Ignoring Torture and Persecution Risk
+*Date: 2025-10-25*
+
+1. [ICE Deports Man Claiming U.S. Citizenship to Laos Despite Federal Court Order](https://nipnlg.org/news/press-releases/ice-deports-man-claiming-us-citizenship-laos-despite-federal-court-order)
+2. [Chanthila "Shawn" Souvannarath Deported to Laos Despite Court Order Blocking His Removal](https://www.democracynow.org/2025/10/29/headlines/chanthila_shawn_souvannarath_deported_to_laos_despite_court_order_blocking_his_removal)
+3. [Judge's order blocking removal of man from U.S. wasn't received until after he was deported, DHS says](https://www.nbcnews.com/news/us-news/judges-order-blocking-removal-man-us-wasnt-received-was-deported-dhs-s-rcna240739)
+4. [Laotian American man deported to Laos despite court order blocking his removal, attorneys say](https://gasiantimes.com/nation/2025/10/29/laotian-american-man-deported-to-laos-despite-court-order-blocking-his-removal-attorneys-say/)
+5. [2023 Country Reports on Human Rights Practices - Laos](https://2021-2025.state.gov/reports/2023-country-reports-on-human-rights-practices/laos/)
+6. [Country Report - Laos March 2025](https://www.genocidewatch.com/single-post/country-report-laos-march-2025)
+
 ## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
 *Date: 2025-10-25*
 
@@ -21407,6 +21417,27 @@
 4. [The Bondi Memo's Quiet Rewriting of Domestic Terrorism Rules](https://www.lawfaremedia.org/article/the-bondi-memo-s-quiet-rewriting-of-domestic-terrorism-rules)
 5. [Wyden, Schumer, Warren Sound Alarm Over Trump Weaponization of the IRS](https://www.finance.senate.gov/ranking-members-news/wyden-schumer-warren-sound-alarm-over-trump-weaponization-of-the-irs-against-the-free-speech-rights-of-trump-opponents)
 
+## Trump Administration Releases National Security Strategy Denouncing Democratic Allies, Embracing Authoritarian Partnerships
+*Date: 2025-12-04*
+
+1. [Trump's security strategy slams European allies and asserts U.S. power in the Americas](https://www.npr.org/2025/12/05/g-s1-100893/trump-national-security-strategy-foreign-policy)
+2. [EU leaders react with alarm to Trump administration's new national security statement](https://www.npr.org/2025/12/08/nx-s1-5637251/eu-leaders-react-with-alarm-to-trump-administrations-new-national-security-statement)
+3. [National security strategist analyzes Trump administration's new global policy](https://www.pbs.org/newshour/show/national-security-strategist-analyzes-trump-administrations-new-global-policy)
+4. [2025 National Security Strategy: Does Europe Finally Realize It's Alone?](https://foreignpolicy.com/2025/12/05/national-security-strategy-2025-trump-europe-russia-ukraine-war/)
+5. [Breaking down Trump's 2025 National Security Strategy](https://www.brookings.edu/articles/breaking-down-trumps-2025-national-security-strategy/)
+6. [Unpacking a Trump Twist of the National Security Strategy](https://www.cfr.org/expert-brief/unpacking-trump-twist-national-security-strategy)
+
+## ACIP Chair Admits Vaccine Panel Members Feel Like "Puppets on a String," Exposing Political Manipulation
+*Date: 2025-12-05*
+
+1. ['Puppets on a string': ACIP chair airs independence concerns](https://www.yahoo.com/news/articles/puppets-string-acip-chair-airs-204933381.html)
+2. [CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns](https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/)
+3. [RFK Jr.'s vaccine advisory panel is beset by incompetence, bias, and procedural chaos](https://www.statnews.com/2025/12/06/acip-vaccine-advisory-panel-incompetence-bias-expert/)
+4. [CDC's ACIP changes recommendations for hepatitis B vaccination for infants](https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting)
+5. [CDC advisory panel rolls back hepatitis B vaccine guidelines](https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482)
+6. [RFK Jr. removes all members of the CDC's vaccine advisory committee](https://www.npr.org/sections/shots-health-news/2025/06/09/nx-s1-5428533/rfk-jr-vaccine-advisory-committee-acip)
+7. [Latest ACIP move is dangerous to nation's health](https://www.ama-assn.org/public-health/prevention-wellness/latest-acip-move-dangerous-nation-s-health)
+
 ## CDC Panel Ends Universal Hepatitis B Vaccination for Newborns After RFK Jr. Reconstitutes Committee
 *Date: 2025-12-05*
 
@@ -21433,6 +21464,15 @@
 3. [NPR sues Trump over executive order slashing federal funding](https://www.cbsnews.com/news/npr-sues-trump-over-executive-order-slashing-funding/)
 4. [NPR Lawsuit Challenging Trump Executive Order Cutting Federal Funding Should Prevail on Free Speech and Press Freedom Grounds](https://knightcolumbia.org/content/npr-lawsuit-challenging-trump-executive-order-cutting-federal-funding-should-prevail-on-free-speech-and-press-freedom-grounds-knight-institute-says)
 5. [Trump's Attacks on Press Freedom Escalate - NPR, PBS Funding Cuts Explained](https://www.aclu.org/news/free-speech/trumps-attacks-on-press-freedom-escalate-npr-pbs-funding-cuts-explained)
+
+## Supreme Court Grants Review of Trump's Birthright Citizenship Challenge, Setting Stage for Constitutional Crisis
+*Date: 2025-12-05*
+
+1. [Supreme Court agrees to hear arguments in birthright citizenship challenge](https://www.npr.org/2025/12/05/nx-s1-5619186/supreme-court-agrees-to-hear-arguments-in-birthright-citizenship-case)
+2. [Supreme Court agrees to hear Trump's challenge to birthright citizenship](https://www.scotusblog.com/2025/12/supreme-court-agrees-to-hear-trumps-challenge-to-birthright-citizenship/)
+3. [Supreme Court will decide whether Trump's birthright citizenship order violates the Constitution](https://www.pbs.org/newshour/politics/supreme-court-will-decide-whether-trumps-birthright-citizenship-order-violates-the-constitution)
+4. [Supreme Court agrees to decide constitutionality of Trump's plan to end birthright citizenship](https://www.cbsnews.com/news/supreme-court-trump-birthright-citizenship/)
+5. [Supreme Court to decide if Trump can limit the constitutional right to citizenship at birth](https://www.nbcnews.com/politics/supreme-court/supreme-court-decide-trump-can-limit-constitutional-right-citizenship-rcna244701)
 
 ## National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday
 *Date: 2025-12-06*

@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 985
+    "count": 987
   },
   {
     "name": "Trump Administration",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Supreme Court",
-    "count": 55
+    "count": 56
   },
   {
     "name": "CIA",
@@ -252,6 +252,10 @@
     "count": 21
   },
   {
+    "name": "ACLU",
+    "count": 21
+  },
+  {
     "name": "U.S. Senate",
     "count": 20
   },
@@ -273,10 +277,6 @@
   },
   {
     "name": "Mohammed bin Salman",
-    "count": 20
-  },
-  {
-    "name": "ACLU",
     "count": 20
   },
   {
@@ -1400,6 +1400,10 @@
     "count": 6
   },
   {
+    "name": "Robert F. Kennedy Jr.",
+    "count": 6
+  },
+  {
     "name": "AI Safety Researchers",
     "count": 6
   },
@@ -1688,6 +1692,10 @@
     "count": 5
   },
   {
+    "name": "Lindsey Graham",
+    "count": 5
+  },
+  {
     "name": "E. Jean Carroll",
     "count": 5
   },
@@ -1741,10 +1749,6 @@
   },
   {
     "name": "ProPublica",
-    "count": 5
-  },
-  {
-    "name": "Robert F. Kennedy Jr.",
     "count": 5
   },
   {
@@ -2193,10 +2197,6 @@
   },
   {
     "name": "Comcast",
-    "count": 4
-  },
-  {
-    "name": "Lindsey Graham",
     "count": 4
   },
   {
@@ -3220,6 +3220,10 @@
     "count": 3
   },
   {
+    "name": "National Security Council",
+    "count": 3
+  },
+  {
     "name": "Richard Grenell",
     "count": 3
   },
@@ -3596,6 +3600,10 @@
     "count": 3
   },
   {
+    "name": "ICE (Immigration and Customs Enforcement)",
+    "count": 3
+  },
+  {
     "name": "GSA",
     "count": 3
   },
@@ -3648,6 +3656,10 @@
     "count": 3
   },
   {
+    "name": "Trump administration",
+    "count": 3
+  },
+  {
     "name": "Adelita Grijalva",
     "count": 3
   },
@@ -3657,6 +3669,10 @@
   },
   {
     "name": "Mark Kelly",
+    "count": 3
+  },
+  {
+    "name": "Jason Crow",
     "count": 3
   },
   {
@@ -4972,6 +4988,10 @@
     "count": 2
   },
   {
+    "name": "Ted Cruz",
+    "count": 2
+  },
+  {
     "name": "Robert Mercer",
     "count": 2
   },
@@ -5481,10 +5501,6 @@
   },
   {
     "name": "David Pressman",
-    "count": 2
-  },
-  {
-    "name": "National Security Council",
     "count": 2
   },
   {
@@ -6040,6 +6056,10 @@
     "count": 2
   },
   {
+    "name": "Asian Law Caucus",
+    "count": 2
+  },
+  {
     "name": "Securities and Exchange Commission (SEC)",
     "count": 2
   },
@@ -6456,10 +6476,6 @@
     "count": 2
   },
   {
-    "name": "ICE (Immigration and Customs Enforcement)",
-    "count": 2
-  },
-  {
     "name": "PBS",
     "count": 2
   },
@@ -6648,10 +6664,6 @@
     "count": 2
   },
   {
-    "name": "Jason Crow",
-    "count": 2
-  },
-  {
     "name": "Chris DeLuzio",
     "count": 2
   },
@@ -6668,7 +6680,15 @@
     "count": 2
   },
   {
-    "name": "Trump administration",
+    "name": "Advisory Committee on Immunization Practices (ACIP)",
+    "count": 2
+  },
+  {
+    "name": "Dr. Cody Meissner",
+    "count": 2
+  },
+  {
+    "name": "American Academy of Pediatrics",
     "count": 2
   },
   {
@@ -10808,10 +10828,6 @@
     "count": 1
   },
   {
-    "name": "Ted Cruz",
-    "count": 1
-  },
-  {
     "name": "David Clarke",
     "count": 1
   },
@@ -14789,10 +14805,6 @@
   },
   {
     "name": "World Health Organization",
-    "count": 1
-  },
-  {
-    "name": "Asian Law Caucus",
     "count": 1
   },
   {
@@ -18880,6 +18892,22 @@
     "count": 1
   },
   {
+    "name": "Chanthila \"Shawn\" Souvannarath",
+    "count": 1
+  },
+  {
+    "name": "Chief Judge Shelly D. Dick",
+    "count": 1
+  },
+  {
+    "name": "ACLU of Louisiana",
+    "count": 1
+  },
+  {
+    "name": "Laos government",
+    "count": 1
+  },
+  {
     "name": "Jensen Huang",
     "count": 1
   },
@@ -19388,11 +19416,51 @@
     "count": 1
   },
   {
-    "name": "Advisory Committee on Immunization Practices (ACIP)",
+    "name": "Antonio Costa",
     "count": 1
   },
   {
-    "name": "American Academy of Pediatrics",
+    "name": "Carl Bildt",
+    "count": 1
+  },
+  {
+    "name": "Gérard Araud",
+    "count": 1
+  },
+  {
+    "name": "Constanze Stelzenmüller",
+    "count": 1
+  },
+  {
+    "name": "Liana Fix",
+    "count": 1
+  },
+  {
+    "name": "Matthew Kroenig",
+    "count": 1
+  },
+  {
+    "name": "Nathalie Tocci",
+    "count": 1
+  },
+  {
+    "name": "Rebecca Lissner",
+    "count": 1
+  },
+  {
+    "name": "Johann Wadephul",
+    "count": 1
+  },
+  {
+    "name": "Dr. Kirk Milhoan",
+    "count": 1
+  },
+  {
+    "name": "American Medical Association",
+    "count": 1
+  },
+  {
+    "name": "Infectious Diseases Society of America",
     "count": 1
   },
   {
@@ -19401,10 +19469,6 @@
   },
   {
     "name": "Dr. Susan Kressly",
-    "count": 1
-  },
-  {
-    "name": "Dr. Cody Meissner",
     "count": 1
   },
   {
@@ -19453,6 +19517,18 @@
   },
   {
     "name": "KSUT Public Radio",
+    "count": 1
+  },
+  {
+    "name": "D. John Sauer",
+    "count": 1
+  },
+  {
+    "name": "Cecillia Wang",
+    "count": 1
+  },
+  {
+    "name": "American Immigration Council",
     "count": 1
   },
   {
