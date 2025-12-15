@@ -21391,6 +21391,50 @@
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
 
+## University of Alabama Shutters Black and Female Student Magazines Under DEI Directives
+*Date: 2025-12-03*
+
+1. [University of Alabama suspends student magazines for Black students, female students](https://alabamareflector.com/2025/12/02/university-of-alabama-suspends-student-magazines-citing-federal-memo/)
+2. [University of Alabama suspends Black, female student magazines citing Donald Trump's DEI rules](https://thehill.com/homenews/education/5631873-university-of-alabama-shutters-diverse-student-magazines/)
+3. [Alabama Ends Black-, Women-Focused Student Magazines](https://www.insidehighered.com/news/students/free-speech/2025/12/03/alabama-ends-black-women-focused-student-magazines)
+4. [University of Alabama suspends Black and female student magazines, citing D.E.I. guidance](https://www.editorandpublisher.com/stories/university-of-alabama-suspends-black-and-female-student-magazines-citing-dei-guidance,259058)
+5. [University of Alabama suspends two student magazines over DEI](https://www.alreporter.com/2025/12/03/university-of-alabama-suspends-two-student-magazines-over-dei/)
+6. [U Of Alabama Suspends Black, Women-Centered Student Magazines](https://newsone.com/6657558/university-alabama-suspends-black-centered-student-mag/)
+7. [University Of Alabama Suspends Black And Female Magazines Citing Anti-DEI](https://www.blackenterprise.com/university-alabama-suspends-black-female-magazines-anti-dei/)
+
+## Treasury Secretary Proposes White House Veto Power Over Federal Reserve Regional Bank Presidents
+*Date: 2025-12-03*
+
+1. ['We're going to veto them': Bessent backs new rules to give White House more power over Federal Reserve](https://fortune.com/2025/12/03/scott-bessent-federal-reserve-veto-regional-bank-presidents/)
+2. [Bessent says White House may 'veto' Federal Reserve presidents](https://abcnews.go.com/US/wireStory/bessent-white-house-veto-federal-reserve-presidents-128079402)
+3. [White House may 'veto' Federal Reserve presidents US Treasury Secretary](https://www.business-standard.com/world-news/white-house-may-veto-federal-reserve-presidents-us-treasury-secretary-125120400016_1.html)
+4. [Bessent to push residency requirement for regional US Fed bank presidents](https://www.aljazeera.com/economy/2025/12/3/bessent-to-push-residency-requirement-for-regional-us-fed-bank-presidents)
+5. [The Fed just 'Trump-proofed' itself with a unanimous move to preempt a potential leadership shake-up](https://fortune.com/2025/12/12/fed-independence-presidents-reappointment-board-governors-fomc-votes-rate-cuts/)
+6. [Federal Reserve reappoints regional bank presidents after Trump officials float changes](https://www.nbcnews.com/business/economy/powell-fed-regional-presidents-rcna248724)
+7. [Bessent White House may 'veto' Federal Reserve presidents](https://www.washingtontimes.com/news/2025/dec/3/bessent-white-house-may-veto-federal-reserve-presidents/)
+
+## DOJ Sues Six Additional States Demanding Protected Voter Registration Data
+*Date: 2025-12-03*
+
+1. [Justice Department Sues Six Additional States for Failure to Provide Voter Registration Rolls](https://www.justice.gov/opa/pr/justice-department-sues-six-additional-states-failure-provide-voter-registration-rolls)
+2. [DOJ Sues Six More States in Sweeping Push to Obtain Unredacted Voter Rolls](https://www.democracydocket.com/news-alerts/doj-sues-six-more-states-in-sweeping-push-to-obtain-unredacted-voter-rolls/)
+3. [Justice Department sues 4 more states, including Colorado, for access to detailed voter data](https://coloradosun.com/2025/12/14/justice-department-sues-4-more-states-including-colorado-for-access-to-detailed-voter-data/)
+4. [Justice Department Has Demanded Voter Files from at Least 27 States](https://www.brennancenter.org/our-work/analysis-opinion/justice-department-has-demanded-voter-files-least-21-states)
+5. [Justice Department sues 6 more states for voter lists](https://stateline.org/2025/12/03/justice-department-sues-6-more-states-for-voter-lists/)
+6. [DOJ sues MD, other states that declined demands for voter data](https://thedailyrecord.com/2025/12/03/justice-department-sues-states-voter-data-dispute/)
+7. [Justice Department expands legal action against states that have refused its demands for voter data](https://abcnews.go.com/Politics/wireStory/justice-department-expands-legal-action-states-refused-demands-128058354)
+
+## 25% of Foreign Service Officers Resigned or Forced Out, Diplomatic Corps Collapses
+*Date: 2025-12-03*
+
+1. ['A workplace crisis' Nearly all Foreign Service employees report lower morale in union-led survey](https://federalnewsnetwork.com/workforce/2025/12/a-workplace-crisis-nearly-all-foreign-service-employees-report-lower-morale-in-union-led-survey/)
+2. [Trump administration changes have left US diplomats demoralized and less able to do their jobs, report says](https://www.cnn.com/2025/12/03/politics/state-department-low-morale)
+3. [New Report Finds U.S. Foreign Service at a Breaking Point After Historic Loss of Capacity](https://afsa.org/new-report-finds-us-foreign-service-breaking-point-after-historic-loss-capacity)
+4. ['Dangerously low' Morale in the U.S. Foreign Service craters under Trump](https://www.axios.com/2025/12/04/trump-foreign-service-low-morale-survey)
+5. [Survey finds low morale among U.S. diplomats after sweeping job cuts](https://www.npr.org/2025/12/03/nx-s1-5627198/survey-finds-low-morale-among-u-s-diplomats-after-sweeping-job-cuts)
+6. [How layoffs will affect the State Department and American diplomacy](https://www.npr.org/2025/07/17/nx-s1-5470145/how-layoffs-will-affect-the-state-department-and-american-diplomacy)
+7. [At the Breaking Point The State of the U.S. Foreign Service in 2025](https://afsa.org/at-the-breaking-point)
+
 ## Pentagon IG Finds Hegseth Shared SECRET//NOFORN Classified Information on Signal, Violated National Security Protocols
 *Date: 2025-12-03*
 
@@ -21537,6 +21581,16 @@
 4. [Former DOGE staffer talks about efficiency, his time at the VA, and Elon Musk](https://www.npr.org/2025/06/13/1254121714/doge-staffer-sahil-lavingia-musk-va-fired)
 5. [Ex-DOGE official says government isn't recruiting enough tech talent](https://federalnewsnetwork.com/it-modernization/2025/08/ex-doge-official-says-government-isnt-recruiting-enough-tech-talent/)
 
+## Macron Warns Zelenskyy U.S. May Betray Ukraine on Territory
+*Date: 2025-12-04*
+
+1. [France and Germany warn US could 'betray' Ukraine in push for peace, Speigel reports](https://www.france24.com/en/europe/20251204-france-and-germany-warn-us-could-betray-ukraine-in-push-for-peace-speigel-reports)
+2. [Macron warned Ukraine of potential US betrayal in peace talks, German media claims](https://www.aa.com.tr/en/europe/macron-warned-ukraine-of-potential-us-betrayal-in-peace-talks-german-media-claims/3762247)
+3. [Macron Reportedly Warns US Might 'Betray' Ukraine](https://www.newser.com/story/379822/on-call-macron-reportedly-worries-us-will-betray-ukraine.html)
+4. [Macron warns US may 'betray' Ukraine in peace talks, leak reveals](https://english.almayadeen.net/news/politics/macron-warns-us-may--betray--ukraine-in-peace-talks--leak-re)
+5. [France's Macron Warned Other Leaders About Potential Trump Betrayal](https://newrepublic.com/post/203995/france-macron-warned-european-leaders-trump-betrayal-ukraine-leaked-call)
+6. [Zelenskyy heads to London for more Ukraine peace talks. Here's what to know](https://www.npr.org/2025/12/08/nx-s1-5636699/zelenskyy-ukraine-uk-russia-france-germany-europe-peace-trump)
+
 ## New York Times Sues Pentagon Over Restrictive Media Rules Requiring Publication Approval, Violating First Amendment
 *Date: 2025-12-04*
 
@@ -21622,6 +21676,15 @@
 4. [2025 National Security Strategy: Does Europe Finally Realize It's Alone?](https://foreignpolicy.com/2025/12/05/national-security-strategy-2025-trump-europe-russia-ukraine-war/)
 5. [Breaking down Trump's 2025 National Security Strategy](https://www.brookings.edu/articles/breaking-down-trumps-2025-national-security-strategy/)
 6. [Unpacking a Trump Twist of the National Security Strategy](https://www.cfr.org/expert-brief/unpacking-trump-twist-national-security-strategy)
+
+## Trump Reduces Work Permit Validity to 18 Months Citing Single DC Shooting
+*Date: 2025-12-04*
+
+1. [U.S. tightens immigration work permits in latest move to expand crackdown](https://www.cbsnews.com/news/immigration-work-permits-uscis/)
+2. [USCIS slashes work permit validity from 5 years to 18 months for noncitizens citing security concerns](https://www.foxnews.com/politics/uscis-slashes-work-permit-validity-from-5-years-18-months-noncitizens-citing-security-concerns)
+3. [Trump Admin Dramatically Scales Back Work Permits For Asylum Seekers](https://dailycaller.com/2025/12/04/uscis-scales-back-work-permit-timeframe/)
+4. [US work authorizations for legal immigrants reduced to 18 months](https://ctmirror.org/2025/12/05/work-authorization-slashed-legal-immigrants/)
+5. [Trump administration limits work permits for asylum seekers following deadly National Guard shooting](https://www.theblaze.com/news/trump-administration-limits-work-permits-for-asylum-seekers-following-deadly-national-guard-shooting)
 
 ## Veterans Warn Trump's Afghan Asylum Freeze Endangers U.S. Allies and Undermines Future Military Partnerships
 *Date: 2025-12-04*

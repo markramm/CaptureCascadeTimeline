@@ -5,7 +5,7 @@
   },
   {
     "name": "institutional-capture",
-    "count": 216
+    "count": 217
   },
   {
     "name": "corruption",
@@ -21,7 +21,7 @@
   },
   {
     "name": "trump-administration",
-    "count": 115
+    "count": 121
   },
   {
     "name": "crypto",
@@ -136,12 +136,12 @@
     "count": 37
   },
   {
-    "name": "election-interference",
+    "name": "first-amendment",
     "count": 37
   },
   {
-    "name": "first-amendment",
-    "count": 36
+    "name": "election-interference",
+    "count": 37
   },
   {
     "name": "justice-weaponization",
@@ -157,6 +157,10 @@
   },
   {
     "name": "separation-of-powers",
+    "count": 34
+  },
+  {
+    "name": "executive-overreach",
     "count": 34
   },
   {
@@ -176,15 +180,15 @@
     "count": 33
   },
   {
-    "name": "executive-overreach",
-    "count": 33
-  },
-  {
     "name": "corporate-capture",
     "count": 32
   },
   {
     "name": "pay-to-play",
+    "count": 32
+  },
+  {
+    "name": "russia",
     "count": 32
   },
   {
@@ -205,10 +209,6 @@
   },
   {
     "name": "telecommunications",
-    "count": 31
-  },
-  {
-    "name": "russia",
     "count": 31
   },
   {
@@ -388,6 +388,10 @@
     "count": 20
   },
   {
+    "name": "foreign-policy",
+    "count": 20
+  },
+  {
     "name": "legislative-capture",
     "count": 20
   },
@@ -417,10 +421,6 @@
   },
   {
     "name": "human-rights",
-    "count": 19
-  },
-  {
-    "name": "foreign-policy",
     "count": 19
   },
   {
@@ -600,6 +600,10 @@
     "count": 16
   },
   {
+    "name": "DOJ",
+    "count": 16
+  },
+  {
     "name": "state-capture",
     "count": 16
   },
@@ -645,10 +649,6 @@
   },
   {
     "name": "wealth-extraction",
-    "count": 15
-  },
-  {
-    "name": "DOJ",
     "count": 15
   },
   {
@@ -1152,6 +1152,10 @@
     "count": 10
   },
   {
+    "name": "racial-justice",
+    "count": 10
+  },
+  {
     "name": "Koch-network",
     "count": 10
   },
@@ -1217,6 +1221,10 @@
   },
   {
     "name": "Surveillance",
+    "count": 10
+  },
+  {
+    "name": "privacy-violation",
     "count": 10
   },
   {
@@ -1300,10 +1308,6 @@
     "count": 9
   },
   {
-    "name": "racial-justice",
-    "count": 9
-  },
-  {
     "name": "financial-deregulation",
     "count": 9
   },
@@ -1341,10 +1345,6 @@
   },
   {
     "name": "Pay-to-Play",
-    "count": 9
-  },
-  {
-    "name": "privacy-violation",
     "count": 9
   },
   {
@@ -1712,6 +1712,10 @@
     "count": 7
   },
   {
+    "name": "election-integrity",
+    "count": 7
+  },
+  {
     "name": "aviation-safety",
     "count": 7
   },
@@ -1920,6 +1924,10 @@
     "count": 6
   },
   {
+    "name": "state-department",
+    "count": 6
+  },
+  {
     "name": "media",
     "count": 6
   },
@@ -1996,10 +2004,6 @@
     "count": 6
   },
   {
-    "name": "election-integrity",
-    "count": 6
-  },
-  {
     "name": "gao",
     "count": 6
   },
@@ -2057,6 +2061,10 @@
   },
   {
     "name": "surveillance-capitalism",
+    "count": 6
+  },
+  {
+    "name": "international-relations",
     "count": 6
   },
   {
@@ -2304,10 +2312,6 @@
     "count": 5
   },
   {
-    "name": "state-department",
-    "count": 5
-  },
-  {
     "name": "acquisitions",
     "count": 5
   },
@@ -2497,10 +2501,6 @@
   },
   {
     "name": "cambridge-analytica",
-    "count": 5
-  },
-  {
-    "name": "international-relations",
     "count": 5
   },
   {
@@ -3476,6 +3476,10 @@
     "count": 4
   },
   {
+    "name": "immigration-policy",
+    "count": 4
+  },
+  {
     "name": "Trump-Administration",
     "count": 4
   },
@@ -3545,6 +3549,10 @@
   },
   {
     "name": "DOGE",
+    "count": 4
+  },
+  {
+    "name": "federal-overreach",
     "count": 4
   },
   {
@@ -3633,6 +3641,10 @@
   },
   {
     "name": "Civil Rights",
+    "count": 3
+  },
+  {
+    "name": "monetary-policy",
     "count": 3
   },
   {
@@ -4676,10 +4688,6 @@
     "count": 3
   },
   {
-    "name": "immigration-policy",
-    "count": 3
-  },
-  {
     "name": "food-assistance",
     "count": 3
   },
@@ -4812,10 +4820,6 @@
     "count": 3
   },
   {
-    "name": "federal-overreach",
-    "count": 3
-  },
-  {
     "name": "scientific-integrity",
     "count": 3
   },
@@ -4837,6 +4841,10 @@
   },
   {
     "name": "institutional-sabotage",
+    "count": 3
+  },
+  {
+    "name": "economic-harm",
     "count": 3
   },
   {
@@ -4881,6 +4889,10 @@
   },
   {
     "name": "vulnerable-populations",
+    "count": 3
+  },
+  {
+    "name": "USCIS",
     "count": 3
   },
   {
@@ -4961,10 +4973,6 @@
   },
   {
     "name": "oil-politics",
-    "count": 2
-  },
-  {
-    "name": "monetary-policy",
     "count": 2
   },
   {
@@ -7156,6 +7164,10 @@
     "count": 2
   },
   {
+    "name": "data-collection",
+    "count": 2
+  },
+  {
     "name": "Civil Liability",
     "count": 2
   },
@@ -7980,6 +7992,10 @@
     "count": 2
   },
   {
+    "name": "geopolitics",
+    "count": 2
+  },
+  {
     "name": "AI-policy",
     "count": 2
   },
@@ -8029,10 +8045,6 @@
   },
   {
     "name": "disaster-relief",
-    "count": 2
-  },
-  {
-    "name": "economic-harm",
     "count": 2
   },
   {
@@ -8209,10 +8221,6 @@
   },
   {
     "name": "Pam-Bondi",
-    "count": 2
-  },
-  {
-    "name": "USCIS",
     "count": 2
   },
   {
@@ -15400,10 +15408,6 @@
     "count": 1
   },
   {
-    "name": "data-collection",
-    "count": 1
-  },
-  {
     "name": "seditious-conspiracy",
     "count": 1
   },
@@ -19360,10 +19364,6 @@
     "count": 1
   },
   {
-    "name": "geopolitics",
-    "count": 1
-  },
-  {
     "name": "energy-politics",
     "count": 1
   },
@@ -20344,6 +20344,50 @@
     "count": 1
   },
   {
+    "name": "DEI-rollback",
+    "count": 1
+  },
+  {
+    "name": "campus-censorship",
+    "count": 1
+  },
+  {
+    "name": "university-administration",
+    "count": 1
+  },
+  {
+    "name": "student-press",
+    "count": 1
+  },
+  {
+    "name": "federal-reserve-capture",
+    "count": 1
+  },
+  {
+    "name": "central-bank-independence",
+    "count": 1
+  },
+  {
+    "name": "voter-surveillance",
+    "count": 1
+  },
+  {
+    "name": "diplomatic-capacity",
+    "count": 1
+  },
+  {
+    "name": "institutional-degradation",
+    "count": 1
+  },
+  {
+    "name": "workforce-exodus",
+    "count": 1
+  },
+  {
+    "name": "morale-crisis",
+    "count": 1
+  },
+  {
     "name": "national-security-violation",
     "count": 1
   },
@@ -20548,6 +20592,18 @@
     "count": 1
   },
   {
+    "name": "ukraine-war",
+    "count": 1
+  },
+  {
+    "name": "nato-alliance",
+    "count": 1
+  },
+  {
+    "name": "diplomatic-betrayal",
+    "count": 1
+  },
+  {
     "name": "Pentagon",
     "count": 1
   },
@@ -20661,6 +20717,18 @@
   },
   {
     "name": "European-Union",
+    "count": 1
+  },
+  {
+    "name": "collective-punishment",
+    "count": 1
+  },
+  {
+    "name": "work-authorization",
+    "count": 1
+  },
+  {
+    "name": "asylum-policy",
     "count": 1
   },
   {

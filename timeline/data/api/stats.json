@@ -1,15 +1,15 @@
 {
-  "total_events": 2966,
-  "total_tags": 5212,
-  "total_actors": 5000,
-  "total_sources": 9942,
+  "total_events": 2972,
+  "total_tags": 5229,
+  "total_actors": 5021,
+  "total_sources": 9981,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
   },
   "status_counts": {
     "unknown": 885,
-    "confirmed": 2031,
+    "confirmed": 2037,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -29,7 +29,7 @@
     },
     {
       "name": "institutional-capture",
-      "count": 216
+      "count": 217
     },
     {
       "name": "corruption",
@@ -45,7 +45,7 @@
     },
     {
       "name": "trump-administration",
-      "count": 115
+      "count": 121
     },
     {
       "name": "crypto",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1000
+      "count": 1002
     },
     {
       "name": "Trump Administration",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Department of Justice",
-      "count": 187
+      "count": 189
     },
     {
       "name": "Elon Musk",
@@ -106,5 +106,5 @@
       "count": 54
     }
   ],
-  "generated": "2025-12-15T10:32:20.621931"
+  "generated": "2025-12-15T10:54:54.085461"
 }

@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1000
+    "count": 1002
   },
   {
     "name": "Trump Administration",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Department of Justice",
-    "count": 187
+    "count": 189
   },
   {
     "name": "Elon Musk",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Department of Homeland Security",
-    "count": 48
+    "count": 49
   },
   {
     "name": "NSA",
@@ -320,6 +320,10 @@
     "count": 19
   },
   {
+    "name": "Scott Bessent",
+    "count": 19
+  },
+  {
     "name": "American Legislative Exchange Council",
     "count": 18
   },
@@ -352,8 +356,8 @@
     "count": 18
   },
   {
-    "name": "Scott Bessent",
-    "count": 18
+    "name": "Federal Reserve",
+    "count": 17
   },
   {
     "name": "McKinsey & Company",
@@ -385,10 +389,6 @@
   },
   {
     "name": "Purdue Pharma",
-    "count": 16
-  },
-  {
-    "name": "Federal Reserve",
     "count": 16
   },
   {
@@ -1168,6 +1168,10 @@
     "count": 7
   },
   {
+    "name": "Pamela Bondi",
+    "count": 7
+  },
+  {
     "name": "Paramount Global",
     "count": 7
   },
@@ -1392,6 +1396,10 @@
     "count": 6
   },
   {
+    "name": "Jerome Powell",
+    "count": 6
+  },
+  {
     "name": "USPS",
     "count": 6
   },
@@ -1421,6 +1429,10 @@
   },
   {
     "name": "OpenAI",
+    "count": 6
+  },
+  {
+    "name": "Brennan Center for Justice",
     "count": 6
   },
   {
@@ -1716,15 +1728,15 @@
     "count": 5
   },
   {
+    "name": "Volodymyr Zelenskyy",
+    "count": 5
+  },
+  {
     "name": "Gordon Sondland",
     "count": 5
   },
   {
     "name": "Greg Hayes",
-    "count": 5
-  },
-  {
-    "name": "Jerome Powell",
     "count": 5
   },
   {
@@ -1764,10 +1776,6 @@
     "count": 5
   },
   {
-    "name": "Brennan Center for Justice",
-    "count": 5
-  },
-  {
     "name": "Cantor Fitzgerald",
     "count": 5
   },
@@ -1781,10 +1789,6 @@
   },
   {
     "name": "NOAA",
-    "count": 5
-  },
-  {
-    "name": "Pamela Bondi",
     "count": 5
   },
   {
@@ -1865,6 +1869,10 @@
   },
   {
     "name": "David McIntosh",
+    "count": 4
+  },
+  {
+    "name": "Department of Treasury",
     "count": 4
   },
   {
@@ -2228,10 +2236,6 @@
     "count": 4
   },
   {
-    "name": "Volodymyr Zelenskyy",
-    "count": 4
-  },
-  {
     "name": "Charlie Kirk",
     "count": 4
   },
@@ -2285,6 +2289,10 @@
   },
   {
     "name": "Christopher Darby",
+    "count": 4
+  },
+  {
+    "name": "Ukraine",
     "count": 4
   },
   {
@@ -2440,6 +2448,10 @@
     "count": 4
   },
   {
+    "name": "Joseph Edlow",
+    "count": 4
+  },
+  {
     "name": "Indigenous Leadership",
     "count": 3
   },
@@ -2489,10 +2501,6 @@
   },
   {
     "name": "Yale Law School",
-    "count": 3
-  },
-  {
-    "name": "Department of Treasury",
     "count": 3
   },
   {
@@ -3324,10 +3332,6 @@
     "count": 3
   },
   {
-    "name": "Ukraine",
-    "count": 3
-  },
-  {
     "name": "U.S. Department of Defense",
     "count": 3
   },
@@ -3628,6 +3632,10 @@
     "count": 3
   },
   {
+    "name": "American Foreign Service Association",
+    "count": 3
+  },
+  {
     "name": "ICE (Immigration and Customs Enforcement)",
     "count": 3
   },
@@ -3716,11 +3724,11 @@
     "count": 3
   },
   {
-    "name": "Joseph Edlow",
+    "name": "Cameron McGowan Currie",
     "count": 3
   },
   {
-    "name": "Cameron McGowan Currie",
+    "name": "Rahmanullah Lakanwal",
     "count": 3
   },
   {
@@ -5688,6 +5696,10 @@
     "count": 2
   },
   {
+    "name": "Maryland",
+    "count": 2
+  },
+  {
     "name": "Congressional Democrats",
     "count": 2
   },
@@ -5845,6 +5857,10 @@
   },
   {
     "name": "Jeffrey McConney",
+    "count": 2
+  },
+  {
+    "name": "France",
     "count": 2
   },
   {
@@ -6021,6 +6037,10 @@
   },
   {
     "name": "General Atomics",
+    "count": 2
+  },
+  {
+    "name": "Emmanuel Macron",
     "count": 2
   },
   {
@@ -6544,10 +6564,6 @@
     "count": 2
   },
   {
-    "name": "American Foreign Service Association",
-    "count": 2
-  },
-  {
     "name": "Climate research agencies",
     "count": 2
   },
@@ -6637,6 +6653,10 @@
   },
   {
     "name": "Stephen Miran",
+    "count": 2
+  },
+  {
+    "name": "Department of State",
     "count": 2
   },
   {
@@ -6740,7 +6760,11 @@
     "count": 2
   },
   {
-    "name": "Rahmanullah Lakanwal",
+    "name": "Sarah Beckstrom",
+    "count": 2
+  },
+  {
+    "name": "Andrew Wolfe",
     "count": 2
   },
   {
@@ -13112,10 +13136,6 @@
     "count": 1
   },
   {
-    "name": "Maryland",
-    "count": 1
-  },
-  {
     "name": "Office of the Privacy Commissioner of Canada",
     "count": 1
   },
@@ -13637,10 +13657,6 @@
   },
   {
     "name": "European Data Protection Board",
-    "count": 1
-  },
-  {
-    "name": "France",
     "count": 1
   },
   {
@@ -14229,10 +14245,6 @@
   },
   {
     "name": "Kim Jong Un",
-    "count": 1
-  },
-  {
-    "name": "Emmanuel Macron",
     "count": 1
   },
   {
@@ -18208,10 +18220,6 @@
     "count": 1
   },
   {
-    "name": "Department of State",
-    "count": 1
-  },
-  {
     "name": "Krispy Kreme",
     "count": 1
   },
@@ -19288,14 +19296,6 @@
     "count": 1
   },
   {
-    "name": "Sarah Beckstrom",
-    "count": 1
-  },
-  {
-    "name": "Andrew Wolfe",
-    "count": 1
-  },
-  {
     "name": "Roger Wicker",
     "count": 1
   },
@@ -19417,6 +19417,66 @@
   },
   {
     "name": "Kevin Castel",
+    "count": 1
+  },
+  {
+    "name": "University of Alabama",
+    "count": 1
+  },
+  {
+    "name": "Steven Hood",
+    "count": 1
+  },
+  {
+    "name": "Alice Magazine",
+    "count": 1
+  },
+  {
+    "name": "Nineteen Fifty-Six Magazine",
+    "count": 1
+  },
+  {
+    "name": "Federal Open Market Committee",
+    "count": 1
+  },
+  {
+    "name": "Harmeet K. Dhillon",
+    "count": 1
+  },
+  {
+    "name": "Delaware",
+    "count": 1
+  },
+  {
+    "name": "New Mexico",
+    "count": 1
+  },
+  {
+    "name": "Rhode Island",
+    "count": 1
+  },
+  {
+    "name": "Vermont",
+    "count": 1
+  },
+  {
+    "name": "Washington",
+    "count": 1
+  },
+  {
+    "name": "Democracy Docket",
+    "count": 1
+  },
+  {
+    "name": "John Dinkelman",
+    "count": 1
+  },
+  {
+    "name": "Foreign Service",
+    "count": 1
+  },
+  {
+    "name": "Michael Rigas",
     "count": 1
   },
   {
@@ -19612,6 +19672,26 @@
     "count": 1
   },
   {
+    "name": "Friedrich Merz",
+    "count": 1
+  },
+  {
+    "name": "Mark Rutte",
+    "count": 1
+  },
+  {
+    "name": "Alexander Stubb",
+    "count": 1
+  },
+  {
+    "name": "Germany",
+    "count": 1
+  },
+  {
+    "name": "NATO",
+    "count": 1
+  },
+  {
     "name": "Theodore J. Boutrous Jr.",
     "count": 1
   },
@@ -19749,6 +19829,10 @@
   },
   {
     "name": "Johann Wadephul",
+    "count": 1
+  },
+  {
+    "name": "U.S. Citizenship and Immigration Services",
     "count": 1
   },
   {
