@@ -151850,6 +151850,77 @@
     "_id_hash": "3883a106a6017287399b08587dab7550aede5a4bed6e67a74bee993c9ebe67c0"
   },
   {
+    "id": "2025-12-02--fda-cancer-drug-chief-pazdur-resigns-under-pressure",
+    "date": "2025-12-02",
+    "title": "FDA Cancer Drug Chief Dr. Richard Pazdur Resigns After Three Weeks Under Political Pressure",
+    "summary": "Dr. Richard Pazdur, the FDA's highly respected director of the Oncology Center of Excellence and newly appointed director of the Center for Drug Evaluation and Research (CDER), filed papers to retire at the end of December 2025, just three weeks after accepting the CDER role. Pazdur's abrupt departure came after clashing with FDA Commissioner Marty Makary and raising concerns about political interference in drug review decisions, particularly regarding Makary's Commissioner's National Priority Voucher program that Pazdur warned could be illegal and lacked transparency.\n\nDuring his 26-year tenure at the FDA, Pazdur pioneered the agency's approach to cancer drug regulation and founded the Oncology Center of Excellence in 2017. He had initially been reluctant to accept the CDER director position and only agreed after Makary assured him he would have full autonomy. However, those assurances \"fell flat\" as Makary and vaccine chief Vinay Prasad began inserting themselves into drug review decisions. Pazdur privately expressed concerns about the legality and pace of plans to expedite drug approvals and the broader \"destruction of the American medical system.\"\n\nPazdur became the fifth person to lead CDER in 2025, highlighting unprecedented leadership turmoil at the FDA under the Trump administration. His resignation followed other high-profile departures including vaccine chief Peter Marks, who publicly accused HHS Secretary Robert F. Kennedy Jr. of forcing him out, and George Tidmarsh who resigned amid extortion allegations. The pharmaceutical and biotechnology industries reacted with alarm, with biotech stocks falling 1% on the news. BIO CEO John Crowley warned that \"This constant turmoil is undermining America's leadership in biotechnology, creating unprecedented regulatory instability and unpredictability, and risks ceding this critical sector to China.\"\n\nCancer patient advocacy organizations expressed deep concern about losing Pazdur's expertise during a critical period. ASCO described him as \"a visionary leader who dedicated his tenure at FDA to doing everything possible to enhance patient access to safe, effective and improved cancer therapies.\" The National Center for Health Research called his departure \"a huge loss for the FDA and for patients across our country.\" Congressional oversight committees, including ranking members Frank Pallone and Bernie Sanders, had already raised concerns in a November 20 letter about potential corruption in Makary's voucher program, highlighting bipartisan alarm about the FDA's direction under political appointees aligned with RFK Jr.'s agenda to dismantle drug safety expertise.\n",
+    "importance": 9,
+    "actors": [
+      "Dr. Richard Pazdur",
+      "Marty Makary",
+      "Robert F. Kennedy Jr.",
+      "FDA",
+      "HHS",
+      "Peter Marks",
+      "Vinay Prasad",
+      "John Crowley",
+      "BIO",
+      "ASCO",
+      "Frank Pallone",
+      "Bernie Sanders"
+    ],
+    "tags": [
+      "FDA",
+      "regulatory-capture",
+      "public-health",
+      "RFK-Jr",
+      "expertise-purge",
+      "drug-safety",
+      "cancer-research",
+      "healthcare",
+      "Trump-administration"
+    ],
+    "sources": [
+      {
+        "url": "https://www.statnews.com/2025/12/02/richard-pazdur-cder-director-fda-set-to-retire/",
+        "title": "Top drug regulator Richard Pazdur set to leave the FDA",
+        "publisher": "STAT News",
+        "date": "2025-12-02",
+        "tier": 1
+      },
+      {
+        "url": "https://www.cnn.com/2025/12/06/politics/food-and-drug-administration-turmoil-leadership",
+        "title": "FDA in turmoil after exit of veteran cancer researcher",
+        "publisher": "CNN",
+        "date": "2025-12-06",
+        "tier": 2
+      },
+      {
+        "url": "https://www.biopharmadive.com/news/richard-pazdur-fda-retire-cder/806806/",
+        "title": "Richard Pazdur, FDA drug czar, to retire from agency",
+        "publisher": "BioPharma Dive",
+        "date": "2025-12-02",
+        "tier": 2
+      },
+      {
+        "url": "https://cancerletter.com/regulatory-news/20251205_3/",
+        "title": "Pazdur leaves FDA after 25-year career that shaped the agency's oncology regulations; BIO calls for the end of 'constant turmoil'",
+        "publisher": "The Cancer Letter",
+        "date": "2025-12-05",
+        "tier": 1
+      },
+      {
+        "url": "https://www.nbcnews.com/health/health-news/trump-picks-dr-marty-makary-johns-hopkins-surgeon-fda-chief-rcna180883",
+        "title": "Trump picks Dr. Marty Makary, a Johns Hopkins surgeon, for FDA chief",
+        "publisher": "NBC News",
+        "date": "2024-11-22",
+        "tier": 1
+      }
+    ],
+    "_file": "2025-12-02--fda-cancer-drug-chief-pazdur-resigns-under-pressure.md",
+    "_id_hash": "e9e78e1ce521d7a30daf2772914e3dcd74c22f8ca6d504889cdf87dae0307842"
+  },
+  {
     "id": "2025-12-02--rollins-threatens-snap-funding-cuts-democratic-states",
     "date": "2025-12-02",
     "title": "USDA Secretary Brooke Rollins Threatens to Cut SNAP Funding to 21 Democratic-Led States Over Refusal to Provide Recipient Data, Defying Court Injunction",
@@ -152070,6 +152141,149 @@
     ],
     "_file": "2025-12-05--florida-judge-orders-epstein-grand-jury-release.json",
     "_id_hash": "ea46bcb7cff3a40ee4978a9a1cabfdf23d57040701a439a99968f858255b4b8b"
+  },
+  {
+    "id": "2025-12-06--national-parks-removes-civil-rights-holidays-adds-trump-birthday",
+    "date": "2025-12-06",
+    "title": "National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday",
+    "summary": "The Interior Department announced on November 25, 2025, that the National Park Service would remove Martin Luther King Jr. Day and Juneteenth from its 2026 calendar of fee-free entry days, while adding President Trump's birthday (June 14, which coincides with Flag Day) to the list of \"resident-only patriotic fee-free days.\" The changes became public on December 6, 2025, sparking immediate condemnation from civil rights organizations and Democratic lawmakers.",
+    "importance": 8,
+    "actors": [
+      "Interior Department",
+      "National Park Service",
+      "Donald Trump",
+      "Doug Burgum",
+      "Derrick Johnson",
+      "NAACP",
+      "Angus King",
+      "Cornell William Brooks",
+      "Tyrhee Moore",
+      "Olivia Juarez"
+    ],
+    "tags": [
+      "cultural-capture",
+      "historical-revisionism",
+      "civil-rights",
+      "National-Park-Service",
+      "Interior-Department",
+      "personality-cult",
+      "institutional-capture",
+      "racial-justice",
+      "public-lands"
+    ],
+    "sources": [
+      {
+        "url": "https://www.doi.gov/pressreleases/department-interior-announces-modernized-more-affordable-national-park-access",
+        "title": "Department of the Interior Announces Modernized, More Affordable National Park Access",
+        "publisher": "U.S. Department of the Interior",
+        "date": "2025-11-25",
+        "tier": 1
+      },
+      {
+        "url": "https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth",
+        "title": "National parks' fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday",
+        "publisher": "NPR",
+        "date": "2025-12-06",
+        "tier": 1
+      },
+      {
+        "url": "https://naacp.org/articles/naacp-condemns-trump-administrations-removal-mlk-day-and-juneteenth-national-parks-free",
+        "title": "NAACP Condemns Trump Administration's Removal of MLK Day and Juneteenth From National Parks Free Days",
+        "publisher": "NAACP",
+        "date": "2025-12-08",
+        "tier": 1
+      },
+      {
+        "url": "https://eji.org/news/national-parks-cancel-free-admission-on-mlk-day-and-juneteenth/",
+        "title": "National Parks Cancel Free Admission on MLK Day and Juneteenth",
+        "publisher": "Equal Justice Initiative",
+        "date": "2025-12-06",
+        "tier": 1
+      },
+      {
+        "url": "https://www.cbsnews.com/news/trump-administration-national-park-service-free-days-juneteenth-mlk-day/",
+        "title": "National parks add Trump's birthday to list of fee-free days and remove MLK Day, Juneteenth",
+        "publisher": "CBS News",
+        "date": "2025-12-06",
+        "tier": 1
+      }
+    ],
+    "_file": "2025-12-06--national-parks-removes-civil-rights-holidays-adds-trump-birthday.md",
+    "_id_hash": "d6e9fc84b5f2e2f0845afa1a378c29a1f37806436942cd3acf696c17fe4d29f2"
+  },
+  {
+    "id": "2025-12-06--national-weather-service-enters-winter-40-percent-vacancy-rates",
+    "date": "2025-12-06",
+    "title": "National Weather Service Enters Winter With Critical Staffing Crisis After DOGE Purge",
+    "summary": "As winter weather begins in December 2025, the National Weather Service faces a severe staffing crisis with approximately 40% of forecast offices experiencing critical vacancy rates above 20%, following the purge of more than 550 meteorologists earlier in the year. Multiple states including Kansas, South Dakota, Wyoming, Iowa, and Maine lack adequate forecasting capacity during severe weather season, with some offices unable to operate 24/7 or conduct standard twice-daily weather balloon launches. The crisis stems directly from Elon Musk's Department of Government Efficiency (DOGE) cuts that eliminated approximately 800 NOAA employees in February 2025, followed by another 1,000 employees who accepted early retirement on May 1, 2025, resulting in the loss of 27,000 years of institutional expertise in a single day.\n\nSpecific offices face catastrophic shortages: Goodland, Kansas is missing 8 meteorologists (41% vacancy rate), Rapid City, South Dakota has a 42% vacancy rate, Des Moines, Iowa jumped from 13% to 38% vacancy, and the Quad Cities office is 37.5% understaffed. At least eight offices are missing more than 35% of their staff. It takes 13 meteorologists to fully staff a weather forecast office on a 24/7 basis, but many facilities are operating with just 10 or 11. One office in Hanford, California cannot operate 24/7 due to insufficient staffing, and nine offices have reduced weather balloon launches from twice daily to once daily, degrading forecast accuracy.\n\nDespite the Trump administration receiving permission in late July to refill 450 positions, hiring has progressed slowly with only about 80 final job offers accepted by December. Former NOAA administrators and all living former NWS directors have issued unprecedented warnings that \"lives are at risk\" due to the staffing shortages. Experts warn the crisis has set weather forecasting accuracy back 10-20 years, with particular concern about delayed or missed tornado warnings during severe weather events. The systematic destruction of public safety infrastructure creates preventable death risks during winter storms, tornadoes, floods, and other weather emergencies.",
+    "importance": 9,
+    "actors": [
+      "National Weather Service",
+      "NOAA",
+      "Elon Musk",
+      "Department of Government Efficiency (DOGE)",
+      "Trump Administration",
+      "Meteorologists",
+      "Former NOAA Administrators"
+    ],
+    "tags": [
+      "government-collapse",
+      "NOAA",
+      "public-safety",
+      "Elon-Musk",
+      "DOGE",
+      "weather-forecasting",
+      "institutional-destruction",
+      "mass-layoffs",
+      "winter-weather",
+      "emergency-preparedness"
+    ],
+    "sources": [
+      {
+        "url": "https://www.pbs.org/newshour/politics/nearly-half-of-national-weather-service-offices-are-critically-understaffed-experts-warn",
+        "title": "Nearly half of National Weather Service offices are critically understaffed, experts warn",
+        "publisher": "PBS NewsHour",
+        "date": "2025-04-04",
+        "tier": 1
+      },
+      {
+        "url": "https://www.pbs.org/newshour/show/how-staffing-shortages-at-the-national-weather-service-could-put-lives-at-risk",
+        "title": "How staffing shortages at the National Weather Service could put lives at risk",
+        "publisher": "PBS NewsHour",
+        "date": "2025-05-15",
+        "tier": 1
+      },
+      {
+        "url": "https://www.npr.org/2025/02/27/nx-s1-5298738/trump-administration-layoffs-hit-noaa-the-agency-that-forecasts-weather-and-hurricanes",
+        "title": "Trump administration layoffs hit NOAA, the agency that forecasts weather and hurricanes",
+        "publisher": "NPR",
+        "date": "2025-02-27",
+        "tier": 1
+      },
+      {
+        "url": "https://www.cbsnews.com/news/noaa-national-weather-service-job-cuts-forecast-climate-change-natural-disasters/",
+        "title": "Job cuts at NOAA drive concerns about extreme weather forecasts, as climate change worsens natural disasters",
+        "publisher": "CBS News",
+        "date": "2025-03-05",
+        "tier": 2
+      },
+      {
+        "url": "https://www.nbcnews.com/science/environment/noaa-scrambling-fill-forecasting-jobs-cuts-national-weather-service-rcna207050",
+        "title": "NOAA is scrambling to fill forecasting jobs after cuts to the National Weather Service",
+        "publisher": "NBC News",
+        "date": "2025-12-09",
+        "tier": 2
+      }
+    ],
+    "capture_lanes": [
+      "Systematic Corruption",
+      "Public Safety Infrastructure Collapse",
+      "Government Efficiency Scam"
+    ],
+    "location": "United States",
+    "status": "confirmed",
+    "_file": "2025-12-06--national-weather-service-enters-winter-40-percent-vacancy-rates.json",
+    "_id_hash": "8ffc49e67123ed46a27398e7b68e81a41ff8e26027ed13395514ce81cd9bfe3b"
   },
   {
     "id": "2025-12-07--judge-blocks-doj-evidence-richman-comey-fourth-amendment",

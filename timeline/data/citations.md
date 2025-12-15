@@ -21347,6 +21347,15 @@
 3. [Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations](https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456)
 4. [Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says](https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987)
 
+## FDA Cancer Drug Chief Dr. Richard Pazdur Resigns After Three Weeks Under Political Pressure
+*Date: 2025-12-02*
+
+1. [Top drug regulator Richard Pazdur set to leave the FDA](https://www.statnews.com/2025/12/02/richard-pazdur-cder-director-fda-set-to-retire/)
+2. [FDA in turmoil after exit of veteran cancer researcher](https://www.cnn.com/2025/12/06/politics/food-and-drug-administration-turmoil-leadership)
+3. [Richard Pazdur, FDA drug czar, to retire from agency](https://www.biopharmadive.com/news/richard-pazdur-fda-retire-cder/806806/)
+4. [Pazdur leaves FDA after 25-year career that shaped the agency's oncology regulations; BIO calls for the end of 'constant turmoil'](https://cancerletter.com/regulatory-news/20251205_3/)
+5. [Trump picks Dr. Marty Makary, a Johns Hopkins surgeon, for FDA chief](https://www.nbcnews.com/health/health-news/trump-picks-dr-marty-makary-johns-hopkins-surgeon-fda-chief-rcna180883)
+
 ## USDA Secretary Brooke Rollins Threatens to Cut SNAP Funding to 21 Democratic-Led States Over Refusal to Provide Recipient Data, Defying Court Injunction
 *Date: 2025-12-02*
 
@@ -21377,6 +21386,24 @@
 2. [Judge orders unsealing of grand jury transcripts from Epstein case in Florida](https://www.cbsnews.com/news/jeffrey-epstein-grand-jury-transcripts-unsealed-florida/)
 3. [Judge orders release of grand jury transcripts from abandoned Epstein investigation in Florida](https://www.pbs.org/newshour/nation/judge-orders-release-of-grand-jury-transcripts-from-abandoned-epstein-investigation-in-florida)
 4. [Florida judge grants DOJ motion to unseal Epstein grand jury transcripts](https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story?id=128153706)
+
+## National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday
+*Date: 2025-12-06*
+
+1. [Department of the Interior Announces Modernized, More Affordable National Park Access](https://www.doi.gov/pressreleases/department-interior-announces-modernized-more-affordable-national-park-access)
+2. [National parks' fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday](https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth)
+3. [NAACP Condemns Trump Administration's Removal of MLK Day and Juneteenth From National Parks Free Days](https://naacp.org/articles/naacp-condemns-trump-administrations-removal-mlk-day-and-juneteenth-national-parks-free)
+4. [National Parks Cancel Free Admission on MLK Day and Juneteenth](https://eji.org/news/national-parks-cancel-free-admission-on-mlk-day-and-juneteenth/)
+5. [National parks add Trump's birthday to list of fee-free days and remove MLK Day, Juneteenth](https://www.cbsnews.com/news/trump-administration-national-park-service-free-days-juneteenth-mlk-day/)
+
+## National Weather Service Enters Winter With Critical Staffing Crisis After DOGE Purge
+*Date: 2025-12-06*
+
+1. [Nearly half of National Weather Service offices are critically understaffed, experts warn](https://www.pbs.org/newshour/politics/nearly-half-of-national-weather-service-offices-are-critically-understaffed-experts-warn)
+2. [How staffing shortages at the National Weather Service could put lives at risk](https://www.pbs.org/newshour/show/how-staffing-shortages-at-the-national-weather-service-could-put-lives-at-risk)
+3. [Trump administration layoffs hit NOAA, the agency that forecasts weather and hurricanes](https://www.npr.org/2025/02/27/nx-s1-5298738/trump-administration-layoffs-hit-noaa-the-agency-that-forecasts-weather-and-hurricanes)
+4. [Job cuts at NOAA drive concerns about extreme weather forecasts, as climate change worsens natural disasters](https://www.cbsnews.com/news/noaa-national-weather-service-job-cuts-forecast-climate-change-natural-disasters/)
+5. [NOAA is scrambling to fill forecasting jobs after cuts to the National Weather Service](https://www.nbcnews.com/science/environment/noaa-scrambling-fill-forecasting-jobs-cuts-national-weather-service-rcna207050)
 
 ## Judge Blocks DOJ from Using Evidence Seized from Comey's Attorney in Fourth Amendment Ruling
 *Date: 2025-12-07*
