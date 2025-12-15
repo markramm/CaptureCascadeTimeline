@@ -151777,6 +151777,99 @@
       "_id_hash": "53ea770e97aab97f323850a1312007e57510e0dab8ce8f7ab6908c897e204edf"
     },
     {
+      "id": "2025-11-29--white-house-media-offenders-portal-enemies-list",
+      "date": "2025-11-29",
+      "title": "White House Launches Official 'Media Offenders' Portal Targeting Press as Enemies",
+      "summary": "On November 29, 2025, the Trump White House launched an official government webpage titled 'Media Offenders' (whitehouse.gov/mediabias)—a public enemies list for journalists and news organizations that criticize the administration. Announced the previous day by Press Secretary Karoline Leavitt, the portal features an 'Offender Hall of Shame' database that categorizes articles, outlets, and individual reporters with labels including 'bias,' 'false claim,' 'lie,' 'left-wing lunacy,' and 'misrepresentation.' The page includes a weekly 'Media Offender of the Week' designation and maintains a ranked 'leaderboard' of outlets deemed most problematic, with The Washington Post listed at the top, followed by MSNBC, CBS News, CNN, The New York Times, Politico, and The Wall Street Journal.\n\nThe inaugural 'offenders of the week' were The Boston Globe (a 2025 Pulitzer Prize finalist), CBS News, and The Independent. Major American news organizations listed on the portal include ABC, NBC, CBS, CNN, MSNBC, The New York Times, The Washington Post, Associated Press, Reuters, NPR, PBS, Axios, Politico, and even The Wall Street Journal. Individual journalists were also targeted by name, including Andrew Feinberg and Eric Garcia of The Independent. The portal allows users to search by keywords or article headlines and provides a system for categorizing each alleged media transgression.\n\nOn December 3, 2025, the White House added a public tipline encouraging Americans to 'submit biased or undeniably false articles' to help 'keep the Media Bias Portal updated.' This crowdsourcing mechanism effectively deputizes supporters to identify journalists and outlets for inclusion on the government's enemies list. Reporters Without Borders documented that the portal also featured personal attacks on individual journalists: Catherine Lucey of Bloomberg was called 'piggy,' a New York Times correspondent was labeled 'ugly inside and out,' and CBS's Nancy Cordes was asked if she was 'stupid.'\n\nThe Society of Professional Journalists issued a formal letter on December 1, 2025, demanding removal of the webpage and warning that 'By publishing reporters' names, outlets and specific stories, the White House is naming and shaming members of the press in a highly charged political and social environment.' SPJ characterized the portal as 'a form of online harassment that exposes members of the media to potential online or offline threats and even violence.' The organization emphasized that the practice 'raises serious press-freedom concerns, heightens the risk of harassment or harm to reporters, mirrors tactics used by authoritarian governments abroad, and undermines the respectful, accountable relationship that should exist between the nation's highest office and the free press.'\n\nReporters Without Borders condemned the portal, stating 'The Trump White House's war on press freedom is growing increasingly petulant' and accused the administration of 'weaponizing public resources to launch his political attacks against the press.' RSF noted the page employs 'information washing,' a tactic 'increasingly employed by authoritarian regimes.' Constitutional experts and press freedom advocates drew explicit parallels to Richard Nixon's infamous enemies list, noting that while presidents have long criticized coverage, creating formal governmental infrastructure to systematically identify and target journalists represents a dangerous escalation with authoritarian overtones.\n\nWashington Post Executive Editor Matt Murray responded: 'Let's be clear what's happening here: the wrongful and intentional targeting of journalists by government officials for exercising a constitutionally protected right. The Washington Post will not be dissuaded and will continue to report rigorously and accurately in service to all of America.' Veteran political journalist Sam Youngman stated: 'This is about intimidation. They want an online mob, a gang, an army of thugs to harass and intimidate hardworking reporters.' Press freedom organizations warned that government-sanctioned lists of disfavored outlets could fundamentally change how journalism operates in America, with experts noting the critical difference between officials criticizing coverage and building institutional mechanisms for identifying problematic journalism.\n\nSenator Mark Kelly (D-Ariz.), who along with other Democratic lawmakers was separately labeled 'seditious' by the White House for reminding military personnel to refuse illegal orders, dismissed the tactics as those of 'bullies,' adding that it would not stop him and his colleagues 'from doing our jobs and holding this administration accountable.' The portal launch occurred alongside escalating threats to press freedom, including the Trump administration's cuts to federal funding for NPR, PBS, Voice of America, and Radio Free Europe/Radio Liberty. Legal experts and journalism organizations began examining potential litigation options if constitutional violations could be established, while press freedom advocates warned the portal could chill free journalism and intimidate reporters into self-censorship through the threat of government-directed harassment.",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Karoline Leavitt",
+        "White House",
+        "The Washington Post",
+        "MSNBC",
+        "CBS News",
+        "CNN",
+        "The New York Times",
+        "Politico",
+        "The Wall Street Journal",
+        "The Boston Globe",
+        "The Independent",
+        "ABC News",
+        "NBC News",
+        "Associated Press",
+        "Reuters",
+        "NPR",
+        "PBS",
+        "Andrew Feinberg",
+        "Eric Garcia",
+        "Catherine Lucey",
+        "Nancy Cordes",
+        "Matt Murray",
+        "Society of Professional Journalists",
+        "Reporters Without Borders",
+        "Mark Kelly",
+        "Sam Youngman"
+      ],
+      "tags": [
+        "press-freedom",
+        "First-Amendment",
+        "authoritarian-tactics",
+        "media-intimidation",
+        "institutional-weaponization",
+        "enemies-list",
+        "Nixon-parallels",
+        "harassment",
+        "journalism"
+      ],
+      "sources": [
+        {
+          "url": "https://time.com/7338411/white-house-media-bias-tracker-trump-attacks/",
+          "title": "White House Launches 'Media Offenders' Site and Tipline",
+          "publisher": "Time",
+          "date": "2025-12-03",
+          "tier": 1
+        },
+        {
+          "url": "https://rsf.org/en/usa-new-white-house-hall-shame-webpage-expands-trump-s-war-press-disparaging-media",
+          "title": "New White House 'Hall of Shame' webpage expands Trump's war on the press",
+          "publisher": "Reporters Without Borders",
+          "date": "2025-12-03",
+          "tier": 1
+        },
+        {
+          "url": "https://www.spj.org/spj-urges-white-house-to-take-down-media-offenders-webpage/",
+          "title": "SPJ urges White House to take down 'media offenders' webpage",
+          "publisher": "Society of Professional Journalists",
+          "date": "2025-12-01",
+          "tier": 1
+        },
+        {
+          "url": "https://www.france24.com/en/americas/20251201-hall-of-shame-white-house-launches-website-to-attack-media-offenders",
+          "title": "'Hall of Shame'? White House launches website to attack 'media offenders'",
+          "publisher": "France 24",
+          "date": "2025-12-01",
+          "tier": 1
+        },
+        {
+          "url": "https://www.euronews.com/2025/12/06/in-another-blow-to-press-freedom-in-the-us-white-house-launches-media-hall-of-shame",
+          "title": "In another blow to press freedom in the US, White House launches media 'Hall of Shame'",
+          "publisher": "Euronews",
+          "date": "2025-12-06",
+          "tier": 1
+        },
+        {
+          "url": "https://www.prweek.com/article/1941827/journalism-organizations-respond-white-house-website-calling-media-offenders",
+          "title": "Journalism organizations respond to White House website calling out 'media offenders'",
+          "publisher": "PR Week",
+          "date": "2025-12-02",
+          "tier": 2
+        }
+      ],
+      "_file": "2025-11-29--white-house-media-offenders-portal-enemies-list.json",
+      "_id_hash": "c6ae1fe258f56b9f816aec003d497f7f0a8566de20702a2f4718f2852bf3714b"
+    },
+    {
       "id": "2025-11-30--noem-denies-court-defiance-meet-the-press-activist-judges",
       "date": "2025-11-30",
       "title": "Kristi Noem Denies Defying Court Order on National Television, Calls Judges \"Activist\"",
@@ -152029,6 +152122,81 @@
       "_id_hash": "35d26d4fc8f7c91679209fa0104cf8f518e14bfa626e9f31df02506df352af8f"
     },
     {
+      "id": "2025-12-04--amnesty-international-alligator-alcatraz-torture-report",
+      "date": "2025-12-04",
+      "importance": 9,
+      "title": "Amnesty International documents torture and enforced disappearances at \"Alligator Alcatraz\" and Krome detention facilities",
+      "location": "Everglades Detention Facility, Florida; Krome North Service Processing Center, Florida",
+      "actors": [
+        "Amnesty International",
+        "Amy Fischer",
+        "Ana Piquer",
+        "Ron DeSantis",
+        "ICE",
+        "DHS",
+        "ACLU",
+        "Center for Biological Diversity",
+        "Detained immigrants"
+      ],
+      "tags": [
+        "immigration-enforcement",
+        "human-rights-violations",
+        "ICE",
+        "torture",
+        "detention-conditions",
+        "Amnesty-International",
+        "enforced-disappearances",
+        "medical-neglect",
+        "Florida"
+      ],
+      "capture_lanes": [
+        "Immigration & Border Militarization",
+        "Human Rights & Civil Liberties Violations"
+      ],
+      "sources": [
+        {
+          "title": "Amnesty International report details human rights violations at Everglades and Krome detention centers",
+          "url": "https://www.wgcu.org/top-story/2025-12-04/amnesty-international-report-details-human-rights-violations-at-everglades-and-krome-detention-centers",
+          "outlet": "WGCU PBS & NPR",
+          "date": "2025-12-04",
+          "tier": 1
+        },
+        {
+          "title": "Amnesty alleges torture, enforced disappearances at Florida immigration detention facilities",
+          "url": "https://www.wlrn.org/immigration/2025-12-04/torture-human-rights-krome-alligator-alcatraz",
+          "outlet": "WLRN (NPR)",
+          "date": "2025-12-04",
+          "tier": 1
+        },
+        {
+          "title": "Report finds 'inhuman' conditions at two Florida immigration facilities",
+          "url": "https://www.npr.org/2025/12/11/nx-s1-5638594/report-finds-inhuman-conditions-at-two-florida-immigration-facilities",
+          "outlet": "NPR",
+          "date": "2025-12-11",
+          "tier": 1
+        },
+        {
+          "title": "Torture & Enforced Disappearances at Florida's ICE Jails: Amnesty International Report",
+          "url": "https://www.democracynow.org/2025/12/10/florida_immigration_detention_torture_amnesty_report",
+          "outlet": "Democracy Now",
+          "date": "2025-12-10",
+          "tier": 1
+        },
+        {
+          "title": "USA: New Findings Reveal Human Rights Violations at Florida's \"Alligator Alcatraz\" and Krome Detention Centers",
+          "url": "https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/",
+          "outlet": "Amnesty International",
+          "date": "2025-12-04",
+          "tier": 1
+        }
+      ],
+      "notes": "Report based on September 2025 research mission. Of 24 ICE custody deaths since October 2024, six occurred in Florida facilities including four at Krome. Florida increased immigration detention by over 50% since January 2025, issuing $360+ million in no-bid contracts for Alligator Alcatraz with $450 million projected annual costs.",
+      "status": "confirmed",
+      "summary": "Amnesty International released a damning report titled \"Torture and enforced disappearances in the Sunshine State\" documenting human rights violations that constitute torture at Florida's Everglades Detention Facility (\"Alligator Alcatraz\") and Krome North Service Processing Center. Based on a September 2025 research mission, the report details systematic abuse including \"the box\"—a 2x2-foot metal cage where detainees are shackled at wrists and ankles, chained to the ground in direct sunlight for hours without food or water as punishment, which Amnesty determined constitutes torture under international law.\n\nAt Alligator Alcatraz, conditions include overflowing toilets with fecal matter seeping into sleeping areas, 24-hour constant illumination designed to disrupt sleep, cameras positioned above toilets, limited shower access, exposure to insects without protection, and food \"sometimes full of maggots.\" The facility operates outside federal oversight without basic tracking systems, keeping detainees in incommunicado detention that constitutes enforced disappearances when families and lawyers are denied information about whereabouts. Detainees reported spelling \"SOS\" to helicopters overhead.\n\nAt Krome, Amnesty investigators witnessed guards \"violently slam a metal flap of a door to a solitary confinement room against a man's injured hand.\" The facility has experienced severe overcrowding, broken air conditioning, prolonged solitary confinement, and medical negligence despite on-site facilities. Four deaths occurred at Krome alone between October 2024 and December 2025.\n\nAmy Fischer, Director of Refugee and Migrant Rights at Amnesty International USA, called the conditions \"despicable and nauseating\" and described Alligator Alcatraz as \"a human rights disaster.\" Ana Piquer, Director of Amnesty International Americas, stated findings \"confirm a deliberate system built to punish, dehumanize, and hide suffering.\" The ACLU's Bacardi Jackson called the situation \"not just a policy failure, it's a moral one,\" describing \"a costly and deadly shadow prison in the middle of the Everglades.\"\n\nGovernor Ron DeSantis's office dismissed the report as \"a politically motivated attack\" and called findings \"fabrications.\" DHS Assistant Secretary Tricia McLaughlin claimed the facility \"does meet federal detention standards.\" Amnesty International demanded immediate closure of Alligator Alcatraz, prohibition of state-run immigration detention, ban on shackling and solitary confinement, transparent investigations into torture and deaths, and redirection of detention funding to health, housing, and disaster relief.",
+      "_file": "2025-12-04--amnesty-international-alligator-alcatraz-torture-report.md",
+      "_id_hash": "023fcdb48a81acf46d327d6d491e95d82b78866a96ca64af4db01e212eb0aae1"
+    },
+    {
       "id": "2025-12-04--bondi-fbi-domestic-terrorism-memo",
       "date": "2025-12-04",
       "title": "Bondi Orders FBI to Compile \"Domestic Terrorism\" List Targeting Political Beliefs",
@@ -152084,6 +152252,155 @@
       ],
       "_file": "2025-12-04--bondi-fbi-domestic-terrorism-memo.md",
       "_id_hash": "2810e75ae3db97261af5760ce2e71526c6324171a43c48f9d45998cbf2b088e6"
+    },
+    {
+      "id": "2025-12-04--bondi-weaponizes-tax-law-against-antifa",
+      "date": "2025-12-04",
+      "title": "Bondi Directive Weaponizes Tax Enforcement Against Groups Labeled \"Antifa\"",
+      "summary": "Attorney General Pam Bondi issued a memorandum explicitly directing federal prosecutors to pursue \"tax crimes where extremist groups are suspected of defrauding the Internal Revenue Service,\" specifically targeting organizations and donors labeled as \"Antifa\" or \"Antifa-aligned.\" The directive instructs all federal law enforcement agencies to conduct five-year retroactive file reviews focused on \"Antifa and Antifa-related intelligence\" and transmit findings to the FBI within 14 days, with prosecutors instructed to investigate tax-exempt status and donation patterns of nonprofit organizations. The memo represents an expansion of political weaponization of tax enforcement, echoing historical abuses including Nixon's enemies list and IRS targeting scandals, and follows October 2025 warnings from Senate Finance Committee Democrats that politically motivated IRS interference violates federal law and carries criminal penalties including incarceration. Legal analysts warn the directive creates infrastructure for systematic persecution of Americans based on political beliefs, with Arnold & Porter noting \"tax-exempt organizations and their donors likely will be a continued focus of these enforcement efforts\" despite constitutional protections against using tax law as a weapon of political retribution.",
+      "importance": 9,
+      "actors": [
+        "Pam Bondi",
+        "DOJ",
+        "FBI",
+        "IRS",
+        "Treasury Department",
+        "Ron Wyden",
+        "Chuck Schumer",
+        "Elizabeth Warren",
+        "ACLU",
+        "Hina Shamsi"
+      ],
+      "tags": [
+        "DOJ-weaponization",
+        "institutional-capture",
+        "political-persecution",
+        "Pam-Bondi",
+        "authoritarian-tactics",
+        "civil-liberties",
+        "IRS",
+        "tax-enforcement",
+        "first-amendment",
+        "constitutional-violation"
+      ],
+      "sources": [
+        {
+          "url": "https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive",
+          "title": "DOJ Issues Sweeping New Domestic Terrorism Directive",
+          "publisher": "Arnold & Porter",
+          "date": "2025-12-04",
+          "tier": 1
+        },
+        {
+          "url": "https://thehill.com/policy/national-security/5635428-ag-bondi-trump-antifa-doj/",
+          "title": "Bondi outlines prosecution pathways after Trump call to go after antifa, left-leaning groups",
+          "publisher": "The Hill",
+          "date": "2025-12-04",
+          "tier": 1
+        },
+        {
+          "url": "https://www.aclu.org/news/national-security/how-nspm-7-seeks-to-use-domestic-terrorism-to-target-nonprofits-and-activists",
+          "title": "How NSPM-7 Seeks to Use \"Domestic Terrorism\" to Target Nonprofits and Activists",
+          "publisher": "American Civil Liberties Union",
+          "date": "2025-12-04",
+          "tier": 1
+        },
+        {
+          "url": "https://www.lawfaremedia.org/article/the-bondi-memo-s-quiet-rewriting-of-domestic-terrorism-rules",
+          "title": "The Bondi Memo's Quiet Rewriting of Domestic Terrorism Rules",
+          "publisher": "Lawfare",
+          "date": "2025-12-04",
+          "tier": 1
+        },
+        {
+          "url": "https://www.finance.senate.gov/ranking-members-news/wyden-schumer-warren-sound-alarm-over-trump-weaponization-of-the-irs-against-the-free-speech-rights-of-trump-opponents",
+          "title": "Wyden, Schumer, Warren Sound Alarm Over Trump Weaponization of the IRS",
+          "publisher": "Senate Finance Committee",
+          "date": "2025-10-22",
+          "tier": 1
+        }
+      ],
+      "_file": "2025-12-04--bondi-weaponizes-tax-law-against-antifa.md",
+      "_id_hash": "66d85ec991667d6ac785e8e50041c94b5a3b22ae709fa914d4e6a2e834b98b5d"
+    },
+    {
+      "id": "2025-12-05--cdc-ends-universal-hepatitis-b-infant-vaccination",
+      "date": "2025-12-05",
+      "importance": 9,
+      "title": "CDC Panel Ends Universal Hepatitis B Vaccination for Newborns After RFK Jr. Reconstitutes Committee",
+      "location": "United States",
+      "actors": [
+        "CDC",
+        "Robert F. Kennedy Jr.",
+        "Advisory Committee on Immunization Practices (ACIP)",
+        "American Academy of Pediatrics",
+        "Jim O'Neill",
+        "Dr. Susan Kressly",
+        "Dr. Cody Meissner"
+      ],
+      "tags": [
+        "public-health",
+        "RFK-Jr",
+        "anti-vaccine",
+        "CDC",
+        "child-safety",
+        "expertise-purge",
+        "healthcare",
+        "vaccine-policy"
+      ],
+      "capture_lanes": [
+        "Public Health Degradation",
+        "Expertise Purge"
+      ],
+      "sources": [
+        {
+          "title": "CDC's ACIP changes recommendations for hepatitis B vaccination for infants",
+          "url": "https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting",
+          "outlet": "NPR",
+          "date": "2025-12-05",
+          "archive_url": null
+        },
+        {
+          "title": "CDC panel recommends delaying birth dose of hepatitis B vaccine",
+          "url": "https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/",
+          "outlet": "STAT News",
+          "date": "2025-12-05",
+          "archive_url": null
+        },
+        {
+          "title": "Fact-checking the CDC panel's reasons for dropping universal newborn hepatitis B vaccine recommendation",
+          "url": "https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation",
+          "outlet": "PBS NewsHour",
+          "date": "2025-12-05",
+          "archive_url": null
+        },
+        {
+          "title": "CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns",
+          "url": "https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/",
+          "outlet": "CBS News",
+          "date": "2025-12-05",
+          "archive_url": null
+        },
+        {
+          "title": "CDC advisory panel rolls back hepatitis B vaccine guidelines",
+          "url": "https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482",
+          "outlet": "NBC News",
+          "date": "2025-12-05",
+          "archive_url": null
+        },
+        {
+          "title": "ACIP Recommends Individual-Based Decision-Making for Hepatitis B Vaccine for Infants",
+          "url": "https://www.cdc.gov/media/releases/2025/2025-acip-recommends-individual-based-decision-making-for-hepatitis-b-vaccine-for-infants-born-to-women.html",
+          "outlet": "CDC",
+          "date": "2025-12-05",
+          "archive_url": null
+        }
+      ],
+      "notes": "Most extreme public health rollback yet. AAP, ACP, Infectious Diseases Society of America, and dozens of other medical organizations denounced the change. AAP told members to ignore ACIP vote and continue vaccinating all newborns. Previous policy in place for 34 years reduced hepatitis B infections in children by 99%.",
+      "status": "confirmed",
+      "summary": "The CDC's Advisory Committee on Immunization Practices (ACIP) votes 8-3 to end the universal recommendation that all newborns receive hepatitis B vaccination at birth, reversing a 34-year policy that reduced pediatric hepatitis B infections by 99%. The committee, entirely reconstituted by HHS Secretary Robert F. Kennedy Jr. after he fired all 17 sitting members in June 2025, recommends \"individual-based decision-making\" for infants born to mothers who test negative for the virus, with delayed vaccination until at least 2 months of age.\n\nThe policy change represents the most significant rollback of childhood vaccination recommendations in modern U.S. public health history. Before universal birth-dose vaccination began in 1991, approximately 20,000 newborns contracted hepatitis B annually; that number has fallen to fewer than 20 per year. Medical data shows that 90% of infants infected with hepatitis B develop chronic infection, with approximately 25% dying prematurely from liver complications including cirrhosis and liver cancer.\n\nThe vote provokes unprecedented opposition from the medical community. American Academy of Pediatrics President Dr. Susan Kressly states the change \"makes children in America less safe\" and calls it \"irresponsible and purposely misleading guidance\" that will \"lead to more hepatitis B infections in infants and children.\" The AAP immediately instructs its 67,000 members to ignore ACIP's recommendation and continue vaccinating all newborns. Dr. Cody Meissner, the only panel member with prior ACIP service who voted against the change, warns: \"We are doing harm by changing this wording.\"\n\nAdditional medical organizations denouncing the change include the American College of Physicians, the Infectious Diseases Society of America, the American Association of Immunologists, and the Hepatitis B Foundation. Dr. Flor Munoz of IDSA asks: \"How can this committee justify removing a well established, successful and safe prevention strategy?\" Dr. Joseph Hibbeln criticizes that \"no rational science has been presented\" to justify the change. Dr. Stephen Patrick, a neonatologist at Children's Hospital of Atlanta, states: \"For the first time in my career, I am deeply concerned that I cannot fully rely on the CDC's recommendations.\"\n\nThe committee's stated rationale contradicts available evidence. PBS NewsHour fact-checking reveals that ACIP's claim that the U.S. is an \"outlier\" in recommending birth-dose vaccination is false: of 194 WHO member states, 116 recommend universal hepatitis B birth-dose vaccination. Committee members claim the change primarily affects \"low-risk\" populations, but the CDC estimates that approximately half of the 640,000 chronically infected American adults don't know they're infected, making exposure risk assessment unreliable. A 2019 study found that 57.9% of hepatitis B cases among newborns involved non-U.S.-born mothers from high-endemicity countries, but no enhanced screening measures were proposed to identify these cases.\n\nThe recommendation requires approval from acting CDC Director Jim O'Neill, a former investment executive without medical background, or from HHS Secretary Kennedy before becoming official policy. Senator Bill Cassidy urges O'Neill to reject the vote, calling it \"a mistake.\" O'Neill comments that \"The American people have benefited from the committee's well-informed, rigorous discussion,\" signaling likely approval.\n\nThe policy change reflects Kennedy's longstanding anti-vaccine ideology. As a vaccine skeptic who has promoted debunked theories linking vaccines to autism, Kennedy personally selected every ACIP member after firing the previous committee. The reconstituted panel includes individuals who have \"largely expressed skepticism of vaccines,\" according to NBC News. No new safety concerns, effectiveness issues, or changes in hepatitis B risk prompted the policy review; panel members cite parental concerns and the fact that \"it's been a long time\" since the recommendation was last reviewed.\n\nPublic health experts warn the change will reverse decades of progress. CDC analysis estimates that hepatitis B vaccination prevented over 6 million infections and nearly 1 million hospitalizations among children born between 1994-2023. Acute hepatitis B cases among children dropped 99% between 1990-2019. The American Association of Immunologists warns that \"even a modest delay could result in a substantial increase in preventable chronic infections, liver cancers, and deaths.\" Dr. Sean O'Leary, chair of AAP's Committee on Infectious Diseases, emphasizes: \"This is a situation where one missed case is too many.\"\n\nThe hepatitis B vaccine has \"one of the most well established safety records of any vaccine,\" according to the AAP. The virus spreads from mother to child during delivery and through microscopic blood exposure in everyday interactions. Infected infants face lifetime consequences: chronic hepatitis B infection leads to severe liver disease, cirrhosis, liver cancer, and premature death in approximately one-quarter of cases. Unlike adults, infants' immune systems cannot effectively clear the infection, resulting in the 90% chronic infection rate.\n\nMultiple states and medical organizations announce they will not follow the new guidance. New York State's Department of Health declares it will continue recommending birth-dose vaccination. The AAP's directive to ignore ACIP represents an extraordinary breach in the traditional relationship between federal health authorities and medical professional organizations, reflecting deep concern about political interference in public health decision-making.\n\nThe vote marks Kennedy's most extreme public health rollback since taking office as HHS Secretary, fundamentally undermining the CDC's credibility and the integrity of the vaccine advisory process. By reconstituting ACIP with vaccine skeptics and overturning evidence-based policies without scientific justification, the decision prioritizes anti-vaccine ideology over child safety and represents a dangerous precedent for politically-motivated erosion of public health protections.",
+      "_file": "2025-12-05--cdc-ends-universal-hepatitis-b-infant-vaccination.md",
+      "_id_hash": "72de21d4d7db8b35c31192ecc83ef55b0443ba564efd7499c378e27a4ca6bbd7"
     },
     {
       "id": "2025-12-05--florida-judge-orders-epstein-grand-jury-release",
@@ -152142,6 +152459,81 @@
       ],
       "_file": "2025-12-05--florida-judge-orders-epstein-grand-jury-release.json",
       "_id_hash": "ea46bcb7cff3a40ee4978a9a1cabfdf23d57040701a439a99968f858255b4b8b"
+    },
+    {
+      "actors": [
+        "NPR",
+        "Donald Trump",
+        "Trump administration",
+        "U.S. District Judge Randolph D. Moss",
+        "Katherine Maher (NPR CEO)",
+        "Theodore J. Boutrous (NPR attorney)",
+        "Alexander Resar (DOJ attorney)",
+        "Knight First Amendment Institute",
+        "ACLU",
+        "Reporters Committee for Freedom of the Press",
+        "Committee to Protect Journalists",
+        "PEN America",
+        "Colorado Public Radio",
+        "Aspen Public Radio",
+        "KSUT Public Radio"
+      ],
+      "date": "2025-12-05",
+      "id": "2025-12-05--npr-court-hearing-first-amendment-trump-executive-order",
+      "importance": 9,
+      "sources": [
+        {
+          "date": "2025-12-05",
+          "publisher": "NPR",
+          "tier": 1,
+          "title": "NPR fights Trump's executive order against public media",
+          "url": "https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court"
+        },
+        {
+          "date": "2025-05-27",
+          "publisher": "PBS",
+          "tier": 1,
+          "title": "NPR sues Trump administration over executive order to cut funding to public media",
+          "url": "https://www.pbs.org/newshour/politics/npr-sues-trump-administration-over-executive-order-to-cut-funding-to-public-media"
+        },
+        {
+          "date": "2025-05-27",
+          "publisher": "CBS News",
+          "tier": 1,
+          "title": "NPR sues Trump over executive order slashing federal funding",
+          "url": "https://www.cbsnews.com/news/npr-sues-trump-over-executive-order-slashing-funding/"
+        },
+        {
+          "date": "2025-05-28",
+          "publisher": "Knight First Amendment Institute",
+          "tier": 1,
+          "title": "NPR Lawsuit Challenging Trump Executive Order Cutting Federal Funding Should Prevail on Free Speech and Press Freedom Grounds",
+          "url": "https://knightcolumbia.org/content/npr-lawsuit-challenging-trump-executive-order-cutting-federal-funding-should-prevail-on-free-speech-and-press-freedom-grounds-knight-institute-says"
+        },
+        {
+          "date": "2025-05-27",
+          "publisher": "ACLU",
+          "tier": 1,
+          "title": "Trump's Attacks on Press Freedom Escalate - NPR, PBS Funding Cuts Explained",
+          "url": "https://www.aclu.org/news/free-speech/trumps-attacks-on-press-freedom-escalate-npr-pbs-funding-cuts-explained"
+        }
+      ],
+      "status": "confirmed",
+      "tags": [
+        "press-freedom",
+        "First-Amendment",
+        "NPR",
+        "media-intimidation",
+        "political-retaliation",
+        "public-media",
+        "viewpoint-discrimination",
+        "constitutional-violations",
+        "weaponization-of-government"
+      ],
+      "title": "NPR First Amendment Lawsuit Against Trump Reaches Pivotal Court Hearing on Retaliatory Funding Cuts",
+      "summary": "NPR appeared in federal court on December 5, 2025, for a critical hearing in its First Amendment lawsuit challenging President Trump's executive order demanding an end to all federal funding for NPR and PBS. NPR's lead attorney Theodore J. Boutrous argued that \"The executive order flagrantly violates NPR and its member stations' First Amendment rights,\" contending the administration violated constitutional protections by conditioning federal funding on disapproval of NPR's news coverage. U.S. District Judge Randolph D. Moss appeared skeptical of the Trump administration's defense, noting that the president \"would be on much firmer ground\" with a simple funding withdrawal unrelated to explicit bias concerns. The executive order, titled \"Ending Taxpayer Subsidy of Biased Media,\" explicitly criticized NPR's coverage and characterized the action as punishing media outlets for liberal bias.\n\nThe lawsuit, originally filed on May 27, 2025, by NPR and three Colorado public radio stations (Colorado Public Radio, Aspen Public Radio, and KSUT), alleges \"textbook retaliation and viewpoint-based discrimination in violation of the First Amendment.\" NPR CEO Katherine Maher stated the order \"seeks to force NPR to adapt its journalistic standards and editorial choices to the preferences of the government if it is to continue to receive federal funding.\" The Trump administration successfully pushed Republicans in Congress to eliminate $1.1 billion in approved federal funding for public media over the summer, leading to the Corporation for Public Broadcasting announcing it would wind down operations by September 2025.\n\nPress freedom organizations issued unprecedented coordinated statements defending NPR's constitutional challenge. The Knight First Amendment Institute's Katie Fallow emphasized that \"It's a bedrock principle of the First Amendment that the government may not censor speech or skew public debate by imposing punitive financial measures based on a speaker's viewpoint or editorial decisions.\" The ACLU filed a friend-of-the-court brief arguing that \"Government officials should not be able to withhold taxpayer dollars, designated by Congress to promote private speech, from news outlets whose coverage they disapprove.\" The Reporters Committee for Freedom of the Press urged the court to rule the executive order unconstitutional, stating it \"strikes at the heart of free speech and a free press.\" A coalition letter coordinated by the Knight Institute, signed by seven major organizations including the ACLU, Committee to Protect Journalists, Foundation for Individual Rights and Expression, Freedom of the Press Foundation, PEN America, and Reporters Without Borders, characterized the action as part of the Trump administration's \"multi-front assault on First Amendment freedoms.\"\n\nThe case represents a landmark challenge to government retaliation against critical press coverage, with implications extending beyond public broadcasting to all independent journalism. Judge Moss is expected to issue a ruling soon on whether the executive order's explicit targeting of media outlets based on perceived political bias constitutes unconstitutional viewpoint discrimination. The administration's defense, presented by Justice Department attorney Alexander Resar, argued Trump had multiple motivations beyond coverage concerns and that NPR hadn't suffered actual damages from the executive order itself. However, the administration's own order language explicitly condemned NPR's news coverage as not \"fair, accurate, or unbiased,\" undermining claims that content disapproval was not the primary motivation. The lawsuit occurs amid a broader pattern of Trump administration attacks on independent media, including billion-dollar defamation lawsuits against major newspapers, removal of Pentagon press offices for legacy outlets, and FCC investigations targeting ABC, NBC, and CBS.",
+      "_file": "2025-12-05--npr-court-hearing-first-amendment-trump-executive-order.md",
+      "_id_hash": "3798e6bd1dc555c07f57266e55bf8c11c155e80b284f0fded831940a0747c927"
     },
     {
       "id": "2025-12-06--national-parks-removes-civil-rights-holidays-adds-trump-birthday",
@@ -152738,6 +153130,72 @@
       "summary": "Department of Justice leaders Attorney General Pam Bondi and Deputy Attorney General Todd Blanche launched an unprecedented public attack on federal judges who ruled that Lindsey Halligan was unlawfully appointed as U.S. Attorney for the Eastern District of Virginia. By December 10, three separate federal judges had ruled against or questioned Halligan's authority: Judge Cameron McGowan Currie dismissed criminal cases on November 24 finding Halligan's appointment violated federal law, Judge Colleen Kollar-Kotelly blocked DOJ from using evidence on December 7, and Judge Leonie Brinkema suggested Halligan resign on December 9 after DOJ called her colleagues \"rogue\" jurists. Rather than comply with judicial rulings or appeal through proper channels, DOJ doubled down—issuing a statement accusing judges of an \"unconscionable campaign of bias and hostility\" and warning of \"no tolerance for undemocratic judicial activism.\"\n\nThe DOJ's Office of Legal Counsel provided a jaw-dropping legal justification: because Judge Currie's order did not expressly command Halligan's removal, she could continue serving despite the court declaring her appointment \"entirely illegitimate and unlawful.\" Legal expert Lisa Rubin described this as Halligan \"daring the Judges of the Eastern District of Virginia to take up their own prerogative under the statute and appoint someone of their own choosing that would force a fight\" between the judiciary and DOJ. Magistrate Judge William Fitzpatrick ordered Halligan's name struck from court documents, stating \"The law in this district right now is that she is not and has not been the United States Attorney.\" The Daily Press editorial board condemned the DOJ response, noting \"It's not activism to follow the law or to uphold it. But it is undemocratic to willfully ignore federal rulings and engage in targeted prosecutions of the president's enemies.\"\n\nThis represents an extraordinary constitutional crisis where DOJ leadership openly defies multiple federal judges' rulings and attacks the judiciary for enforcing statutory limits on executive appointments. Deputy Attorney General Blanche has characterized the administration's stance as a \"war\" against judges who rule against them. The confrontation threatens the fundamental separation of powers, with DOJ continuing to list Halligan on court filings despite repeated judicial determinations that she lacks lawful authority.",
       "_file": "2025-12-10--doj-leaders-attack-federal-judges-halligan-defiance.md",
       "_id_hash": "1909dc8d801419926ea2fd4eb4efc05270462fdf8999dcfea5c04bb6836886b6"
+    },
+    {
+      "id": "2025-12-12--doj-expands-voter-data-lawsuits-to-18-states",
+      "date": "2025-12-12",
+      "title": "DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses",
+      "importance": 10,
+      "tags": [
+        "voter-suppression",
+        "DOJ-weaponization",
+        "surveillance-state",
+        "electoral-manipulation",
+        "civil-liberties",
+        "privacy-violation",
+        "authoritarianism"
+      ],
+      "actors": [
+        "Department of Justice",
+        "Harmeet Dhillon",
+        "Jena Griswold",
+        "Bill Galvin",
+        "Andrea Joy Campbell",
+        "ACLU",
+        "League of Women Voters",
+        "NAACP",
+        "Common Cause"
+      ],
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada",
+          "title": "Trump's DOJ has sued 18 states to try to access voter data",
+          "publisher": "NPR",
+          "date": "2025-12-12",
+          "tier": 1
+        },
+        {
+          "url": "https://www.justice.gov/opa/pr/justice-department-sues-four-additional-states-and-one-locality-failure-comply-federal",
+          "title": "Justice Department Sues Four Additional States and One Locality for Failure to Comply with Federal Elections Laws",
+          "publisher": "Department of Justice",
+          "date": "2025-12-12",
+          "tier": 1
+        },
+        {
+          "url": "https://www.wgbh.org/news/national/2025-12-12/justice-department-sues-mass-17-other-states-for-access-to-detailed-voter-data",
+          "title": "Justice Department sues Mass., 17 other states for access to detailed voter data",
+          "publisher": "GBH (PBS)",
+          "date": "2025-12-12",
+          "tier": 1
+        },
+        {
+          "url": "https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information",
+          "title": "Tracker of Justice Department Requests for Voter Information",
+          "publisher": "Brennan Center for Justice",
+          "date": "2025-12-12",
+          "tier": 1
+        },
+        {
+          "url": "https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data",
+          "title": "ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data",
+          "publisher": "ACLU",
+          "date": "2025-12-12",
+          "tier": 1
+        }
+      ],
+      "summary": "The Department of Justice announced on December 12, 2025 that it had sued four additional states—Colorado, Hawaii, Massachusetts, and Nevada—demanding complete, unredacted voter registration lists including driver's license numbers and partial Social Security numbers, bringing the total number of states sued to 18. This represents an unprecedented federal campaign to create a centralized national voter database, with the DOJ having contacted at least 40 states since May 2025 demanding sensitive voter information.\n\nThe 18 states sued are: California, Colorado, Delaware, Hawaii, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Hampshire, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Vermont, and Washington—all states that Trump lost in the 2020 election and predominantly led by Democratic administrations. The DOJ also sued Fulton County, Georgia for 2020 election records. Assistant Attorney General Harmeet Dhillon claimed the lawsuits enforce federal election laws including the National Voter Registration Act, Help America Vote Act, and Civil Rights Act of 1960, while announcing that DOJ investigations had identified 260,000 deceased individuals and thousands of alleged non-citizens on voter rolls.\n\nState officials mounted fierce resistance, with Massachusetts Secretary of the Commonwealth Bill Galvin condemning the lawsuit as \"simply another example of the Trump Department of Justice's campaign to intimidate states\" and refusing to hand over voter personal data for \"outrageous fishing expeditions.\" Colorado Secretary of State Jena Griswold declared \"We will not hand over Coloradans' sensitive voting information to Donald Trump,\" while Massachusetts Attorney General Andrea Joy Campbell stated \"The privacy of Massachusetts voters is not up for negotiation\" and pledged to defend against misuse of voter information for a \"cruel and harmful agenda.\"\n\nCivil liberties organizations filed motions to intervene in multiple lawsuits to protect voter privacy. The ACLU and Common Cause intervened in Rhode Island's case, with the ACLU of Rhode Island calling the federal probe \"a major threat to the privacy of Rhode Island voters,\" warning that \"Drivers' licenses and social security numbers provided as part of the voter registration process are sensitive pieces of information that deserve to be protected and that the Department of Justice has absolutely no legitimate need for.\" In California, the court granted intervention motions from the NAACP, League of Women Voters, and SIREN, with these organizations arguing that releasing sensitive voter data would \"violate state privacy laws and chill voter participation, particularly among Black and immigrant voters.\"\n\nElection security experts raised alarms about the unprecedented nature of the data collection effort. David Becker, founder of the Center for Election Innovation & Research and former DOJ attorney, stated \"It appears the Justice Department is trying to acquire sensitive information on all Americans for who knows what purpose, with very, very questionable statutory authority.\" Becker warned that \"All of these seem designed not to create a viable election policy, but to lay the groundwork to claim the 2026 and 2028 elections are stolen.\" The Brennan Center for Justice documented the campaign and noted that organizations warned the DOJ effort represents \"a national voter database, which Congress has never authorized,\" with potential for \"large-scale voter purges based on faulty database matching techniques cooked up by election deniers.\"\n\nThe voter data seizure program represents a comprehensive federal surveillance infrastructure targeting American voters, with states raising concerns that the DOJ intends to use the information \"for the enforcement of immigration laws\" or \"in a manner that intimidates a voter.\" Privacy concerns were heightened by the DOJ's refusal to guarantee data protection under the Privacy Act of 1974, with Minnesota reporting it asked DOJ to guarantee data security but received no response before being sued. Only two states—Indiana and Wyoming—voluntarily provided complete voter rolls to the DOJ.\n\nThis escalation follows earlier DOJ voter data demands documented since May 2025, with the department having reviewed 47.5 million voter records across nearly 30 states by December. The creation of an unprecedented centralized federal voter database, combined with the DOJ's parallel gutting of voting rights enforcement, represents what civil liberties advocates characterize as infrastructure for mass voter suppression, intimidation, and potential purges—particularly targeting Democratic-led states and communities of color—while establishing the groundwork to challenge legitimate election results in 2026 and 2028.",
+      "_file": "2025-12-12--doj-expands-voter-data-lawsuits-to-18-states.md",
+      "_id_hash": "6844c37fde58413612673791363727ea8cc453caf3b3cd8c4d685dc56ef7122a"
     }
   ]
 }

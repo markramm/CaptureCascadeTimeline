@@ -1,0 +1,110 @@
+{
+  "total_events": 2938,
+  "total_tags": 5113,
+  "total_actors": 4896,
+  "total_sources": 9771,
+  "date_range": {
+    "start": "1142-01-01",
+    "end": "2025-12-12"
+  },
+  "status_counts": {
+    "unknown": 879,
+    "confirmed": 2011,
+    "validated": 31,
+    "disputed": 2,
+    "verified": 1,
+    "enhanced": 1,
+    "reported": 7,
+    "investigated": 1,
+    "contested": 1,
+    "needs_work": 1,
+    "unverified": 1,
+    "predicted": 1,
+    "developing": 1
+  },
+  "top_tags": [
+    {
+      "name": "regulatory-capture",
+      "count": 393
+    },
+    {
+      "name": "institutional-capture",
+      "count": 214
+    },
+    {
+      "name": "corruption",
+      "count": 213
+    },
+    {
+      "name": "kleptocracy",
+      "count": 135
+    },
+    {
+      "name": "government-contracts",
+      "count": 130
+    },
+    {
+      "name": "trump-administration",
+      "count": 115
+    },
+    {
+      "name": "crypto",
+      "count": 112
+    },
+    {
+      "name": "surveillance",
+      "count": 107
+    },
+    {
+      "name": "foreign-influence",
+      "count": 97
+    },
+    {
+      "name": "constitutional-crisis",
+      "count": 87
+    }
+  ],
+  "top_actors": [
+    {
+      "name": "Donald Trump",
+      "count": 985
+    },
+    {
+      "name": "Trump Administration",
+      "count": 323
+    },
+    {
+      "name": "Department of Justice",
+      "count": 183
+    },
+    {
+      "name": "Elon Musk",
+      "count": 161
+    },
+    {
+      "name": "Pam Bondi",
+      "count": 82
+    },
+    {
+      "name": "FBI",
+      "count": 70
+    },
+    {
+      "name": "Jeffrey Epstein",
+      "count": 60
+    },
+    {
+      "name": "Supreme Court",
+      "count": 55
+    },
+    {
+      "name": "CIA",
+      "count": 54
+    },
+    {
+      "name": "Dick Cheney",
+      "count": 54
+    }
+  ],
+  "generated": "2025-12-15T00:34:30.586244"
+}

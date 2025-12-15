@@ -21339,6 +21339,16 @@
 3. [Trump vows to 'permanently pause' migration from 'third world countries' after National Guard shooting](https://www.nbcnews.com/politics/politics-news/trump-pause-migration-third-world-countries-national-guard-shooting-dc-rcna246299)
 4. [Trump brings 'Third World' into the headlines. What's up with that term?](https://www.npr.org/sections/goats-and-soda/2025/12/03/g-s1-100161/trump-third-world-developing-world-global-south)
 
+## White House Launches Official 'Media Offenders' Portal Targeting Press as Enemies
+*Date: 2025-11-29*
+
+1. [White House Launches 'Media Offenders' Site and Tipline](https://time.com/7338411/white-house-media-bias-tracker-trump-attacks/)
+2. [New White House 'Hall of Shame' webpage expands Trump's war on the press](https://rsf.org/en/usa-new-white-house-hall-shame-webpage-expands-trump-s-war-press-disparaging-media)
+3. [SPJ urges White House to take down 'media offenders' webpage](https://www.spj.org/spj-urges-white-house-to-take-down-media-offenders-webpage/)
+4. ['Hall of Shame'? White House launches website to attack 'media offenders'](https://www.france24.com/en/americas/20251201-hall-of-shame-white-house-launches-website-to-attack-media-offenders)
+5. [In another blow to press freedom in the US, White House launches media 'Hall of Shame'](https://www.euronews.com/2025/12/06/in-another-blow-to-press-freedom-in-the-us-white-house-launches-media-hall-of-shame)
+6. [Journalism organizations respond to White House website calling out 'media offenders'](https://www.prweek.com/article/1941827/journalism-organizations-respond-white-house-website-calling-media-offenders)
+
 ## Kristi Noem Denies Defying Court Order on National Television, Calls Judges "Activist"
 *Date: 2025-11-30*
 
@@ -21371,6 +21381,15 @@
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
 
+## Amnesty International documents torture and enforced disappearances at "Alligator Alcatraz" and Krome detention facilities
+*Date: 2025-12-04*
+
+1. [Amnesty International report details human rights violations at Everglades and Krome detention centers](https://www.wgcu.org/top-story/2025-12-04/amnesty-international-report-details-human-rights-violations-at-everglades-and-krome-detention-centers)
+2. [Amnesty alleges torture, enforced disappearances at Florida immigration detention facilities](https://www.wlrn.org/immigration/2025-12-04/torture-human-rights-krome-alligator-alcatraz)
+3. [Report finds 'inhuman' conditions at two Florida immigration facilities](https://www.npr.org/2025/12/11/nx-s1-5638594/report-finds-inhuman-conditions-at-two-florida-immigration-facilities)
+4. [Torture & Enforced Disappearances at Florida's ICE Jails: Amnesty International Report](https://www.democracynow.org/2025/12/10/florida_immigration_detention_torture_amnesty_report)
+5. [USA: New Findings Reveal Human Rights Violations at Florida's "Alligator Alcatraz" and Krome Detention Centers](https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/)
+
 ## Bondi Orders FBI to Compile "Domestic Terrorism" List Targeting Political Beliefs
 *Date: 2025-12-04*
 
@@ -21379,6 +21398,25 @@
 3. [Leaked Memo: DOJ To List, Target Anti-Trump Activists as Domestic Terrorists](https://www.democracydocket.com/news-alerts/leaked-memo-bondi-doj-list-target-anti-trump-activists-domestic-terrorists/)
 4. [DOJ Issues Sweeping New Domestic Terrorism Directive](https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive)
 
+## Bondi Directive Weaponizes Tax Enforcement Against Groups Labeled "Antifa"
+*Date: 2025-12-04*
+
+1. [DOJ Issues Sweeping New Domestic Terrorism Directive](https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive)
+2. [Bondi outlines prosecution pathways after Trump call to go after antifa, left-leaning groups](https://thehill.com/policy/national-security/5635428-ag-bondi-trump-antifa-doj/)
+3. [How NSPM-7 Seeks to Use "Domestic Terrorism" to Target Nonprofits and Activists](https://www.aclu.org/news/national-security/how-nspm-7-seeks-to-use-domestic-terrorism-to-target-nonprofits-and-activists)
+4. [The Bondi Memo's Quiet Rewriting of Domestic Terrorism Rules](https://www.lawfaremedia.org/article/the-bondi-memo-s-quiet-rewriting-of-domestic-terrorism-rules)
+5. [Wyden, Schumer, Warren Sound Alarm Over Trump Weaponization of the IRS](https://www.finance.senate.gov/ranking-members-news/wyden-schumer-warren-sound-alarm-over-trump-weaponization-of-the-irs-against-the-free-speech-rights-of-trump-opponents)
+
+## CDC Panel Ends Universal Hepatitis B Vaccination for Newborns After RFK Jr. Reconstitutes Committee
+*Date: 2025-12-05*
+
+1. [CDC's ACIP changes recommendations for hepatitis B vaccination for infants](https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting)
+2. [CDC panel recommends delaying birth dose of hepatitis B vaccine](https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/)
+3. [Fact-checking the CDC panel's reasons for dropping universal newborn hepatitis B vaccine recommendation](https://www.pbs.org/newshour/health/fact-checking-the-cdc-panels-reasons-for-dropping-universal-newborn-hepatitis-b-vaccine-recommendation)
+4. [CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns](https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/)
+5. [CDC advisory panel rolls back hepatitis B vaccine guidelines](https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482)
+6. [ACIP Recommends Individual-Based Decision-Making for Hepatitis B Vaccine for Infants](https://www.cdc.gov/media/releases/2025/2025-acip-recommends-individual-based-decision-making-for-hepatitis-b-vaccine-for-infants-born-to-women.html)
+
 ## Federal Judge Orders Release of Epstein Grand Jury Materials from 2005-2007 Florida Investigations
 *Date: 2025-12-05*
 
@@ -21386,6 +21424,15 @@
 2. [Judge orders unsealing of grand jury transcripts from Epstein case in Florida](https://www.cbsnews.com/news/jeffrey-epstein-grand-jury-transcripts-unsealed-florida/)
 3. [Judge orders release of grand jury transcripts from abandoned Epstein investigation in Florida](https://www.pbs.org/newshour/nation/judge-orders-release-of-grand-jury-transcripts-from-abandoned-epstein-investigation-in-florida)
 4. [Florida judge grants DOJ motion to unseal Epstein grand jury transcripts](https://abcnews.go.com/US/florida-judge-grants-doj-motion-unseal-epstein-grand/story?id=128153706)
+
+## NPR First Amendment Lawsuit Against Trump Reaches Pivotal Court Hearing on Retaliatory Funding Cuts
+*Date: 2025-12-05*
+
+1. [NPR fights Trump's executive order against public media](https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court)
+2. [NPR sues Trump administration over executive order to cut funding to public media](https://www.pbs.org/newshour/politics/npr-sues-trump-administration-over-executive-order-to-cut-funding-to-public-media)
+3. [NPR sues Trump over executive order slashing federal funding](https://www.cbsnews.com/news/npr-sues-trump-over-executive-order-slashing-funding/)
+4. [NPR Lawsuit Challenging Trump Executive Order Cutting Federal Funding Should Prevail on Free Speech and Press Freedom Grounds](https://knightcolumbia.org/content/npr-lawsuit-challenging-trump-executive-order-cutting-federal-funding-should-prevail-on-free-speech-and-press-freedom-grounds-knight-institute-says)
+5. [Trump's Attacks on Press Freedom Escalate - NPR, PBS Funding Cuts Explained](https://www.aclu.org/news/free-speech/trumps-attacks-on-press-freedom-escalate-npr-pbs-funding-cuts-explained)
 
 ## National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday
 *Date: 2025-12-06*
@@ -21466,3 +21513,12 @@
 2. ['Jaw dropping': Legal expert says Trump pick's bold move is daring judges to take action](https://www.rawstory.com/jaw-dropping-lindsey-halligan/)
 3. [Who is Lindsey Halligan, prosecutor in Comey, James cases?](https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james)
 4. [Editorial: Eastern District deserves a lawfully appointed, professional prosecutor](https://www.dailypress.com/2025/12/09/editorial-eastern-district-deserves-a-lawfully-appointed-professional-prosecutor/)
+
+## DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses
+*Date: 2025-12-12*
+
+1. [Trump's DOJ has sued 18 states to try to access voter data](https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada)
+2. [Justice Department Sues Four Additional States and One Locality for Failure to Comply with Federal Elections Laws](https://www.justice.gov/opa/pr/justice-department-sues-four-additional-states-and-one-locality-failure-comply-federal)
+3. [Justice Department sues Mass., 17 other states for access to detailed voter data](https://www.wgbh.org/news/national/2025-12-12/justice-department-sues-mass-17-other-states-for-access-to-detailed-voter-data)
+4. [Tracker of Justice Department Requests for Voter Information](https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information)
+5. [ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data](https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data)
