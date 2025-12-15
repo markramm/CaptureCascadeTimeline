@@ -21435,6 +21435,57 @@
 4. [The Bondi Memo's Quiet Rewriting of Domestic Terrorism Rules](https://www.lawfaremedia.org/article/the-bondi-memo-s-quiet-rewriting-of-domestic-terrorism-rules)
 5. [Wyden, Schumer, Warren Sound Alarm Over Trump Weaponization of the IRS](https://www.finance.senate.gov/ranking-members-news/wyden-schumer-warren-sound-alarm-over-trump-weaponization-of-the-irs-against-the-free-speech-rights-of-trump-opponents)
 
+## DOJ Orders Prison Auditors to Eliminate PREA Rape Protections for Transgender Inmates
+*Date: 2025-12-04*
+
+1. [Internal memo halts oversight of prison rape protections for trans inmates](https://www.npr.org/2025/12/04/nx-s1-5630490/prison-doj-safety-memo-changes-trans-lgbtq-inmates)
+2. [Trump administration plans to end prison rape protections for trans and intersex people](https://prismreports.org/2025/12/04/prison-rape-elimination-act-trans-intersex-trump-doj/)
+3. [Trump administration plans to end prison rape protections for trans and intersex people, memo says](https://19thnews.org/2025/12/trump-administration-plans-to-end-prison-rape-protections-for-trans-and-intersex-people-memo-says/)
+4. [Trump administration plans to end prison rape protections for trans and intersex people, memo says](https://www.govexec.com/management/2025/12/trump-administration-plans-end-prison-rape-protections-trans-and-intersex-people-memo-says/410057/)
+5. [Executive Order: Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
+
+## Grand Jury Rejects DOJ's Weaponized Prosecution of NY Attorney General Letitia James
+*Date: 2025-12-04*
+
+1. [Grand jury rejects new mortgage fraud indictment against New York Attorney General Letitia James](https://www.npr.org/2025/12/04/nx-s1-5634017/grand-jury-rejects-new-mortgage-fraud-indictment-against-new-york-attorney-general-letitia-james)
+2. [Judge dismisses cases against James Comey, Letitia James after finding the prosecutor was illegally appointed](https://www.pbs.org/newshour/politics/judge-dismisses-cases-against-james-comey-letitia-james-after-finding-the-prosecutor-was-illegally-appointed)
+3. [Grand jury declines to indict N.Y. Attorney General Letitia James, less than two weeks after the first case was dismissed](https://www.nbcnews.com/politics/justice-department/grand-jury-declines-indict-ny-attorney-general-letitia-james-less-two-rcna247310)
+4. [Grand jury refuses to re-indict Letitia James after earlier fraud charges were thrown out](https://www.cbsnews.com/news/letitia-james-grand-jury-doj-declines-to-indict/)
+5. [Grand jury rejects DOJ's attempt to revive fraud case against New York AG Letitia James](https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story?id=128107484)
+6. [James Comey, Letitia James prosecutions dismissed](https://www.axios.com/2025/11/24/trump-comey-case-charges-dismissed-judge)
+
+## Deputy Attorney General Todd Blanche Warns DOJ Tracks Lawyers' Public Criticism of Prosecutions
+*Date: 2025-12-04*
+
+1. [DOJ No. 2 Knocks White-Collar Bar for Weaker Enforcement Claims](https://news.bloomberglaw.com/ip-law/doj-no-2-knocks-white-collar-bar-for-weaker-enforcement-claims)
+2. [Todd Blanche To White-Collar Lawyers: Criticize Trump Administration And We'll 'Notice'](https://abovethelaw.com/2025/12/todd-blanche-to-white-collar-lawyers-criticize-trump-administration-and-well-notice/)
+3. [Blanche warns lawyers who criticize Justice Department](https://www.yahoo.com/news/articles/blanche-warns-lawyers-criticize-justice-171509048.html)
+4. [Justice Department expands its retribution to American Bar Association](https://www.cbsnews.com/news/justice-department-expands-retribution-to-american-bar-association/)
+5. [Deputy Attorney General's 'War' on the Judiciary is an Assault on Judicial Independence](https://www.nycbar.org/press-releases/deputy-attorney-generals-war-on-the-judiciary-is-an-assault-on-judicial-independence/)
+6. [What's Wrong With Calling Out False Narratives?](https://fcpaprofessor.com/whats-wrong-with-calling-out-false-narratives/)
+
+## Trump eliminates CISA retention incentives, agency loses 33% of cybersecurity workforce amid escalating threats
+*Date: 2025-12-04*
+
+1. [Trump Administration Cuts Incentive Pay Program for DHS' CISA](https://www.bloomberg.com/news/articles/2025-12-03/us-cyber-agency-cuts-incentive-pay-program-for-diminished-staff)
+2. [CISA eliminates pay incentives as it changes how it retains top cyber talent](https://www.cybersecuritydive.com/news/cisa-eliminate-cyber-pay-incentives-ctms/806981/)
+3. [Cybersecurity agency's top recruits decimated by DOGE cuts](https://www.cbsnews.com/news/cybersecurity-agencys-top-recruits-doge-cuts/)
+4. ['Absolutely outraged': Former cyber official targeted by Trump speaks out after cuts to U.S. digital defense](https://www.nbcnews.com/politics/national-security/chris-krebs-speaks-cuts-trump-cuts-digital-defense-rcna203427)
+5. [One-third of U.S. cyber agency CISA has left since Trump took office](https://www.axios.com/2025/06/03/cisa-staff-layoffs-resignations-trump-cuts)
+6. [CISA staffers offered deferred resignations, extending broader cybersecurity fears](https://www.npr.org/2025/02/06/nx-s1-5288883/cisa-staffers-deferred-resignations-doge)
+7. [Opportunistic Pro-Russia Hacktivists Attack US and Global Critical Infrastructure](https://www.cisa.gov/news-events/alerts/2025/12/09/opportunistic-pro-russia-hacktivists-attack-us-and-global-critical-infrastructure)
+
+## Trump's 1,600+ Clemency Grants Bypass DOJ Review as 13 Recipients Re-Arrested for New Crimes
+*Date: 2025-12-04*
+
+1. [List of Donald Trump pardon recipients charged with new crimes](https://www.newsweek.com/list-of-donald-trump-pardon-recipients-charged-with-new-crimes-11088352)
+2. [How Trump's Pardons Violate the Government's Own Standards](https://www.themarshallproject.org/2025/07/28/trump-pardons-violate-standards)
+3. [Who has President Trump pardoned and why?](https://www.npr.org/2025/11/10/nx-s1-5587875/trump-pardons-insider-political-orbit-second-term)
+4. [Justice Department quietly replaced 'identical' Trump signatures on recent pardons](https://www.pbs.org/newshour/politics/justice-department-quietly-replaced-identical-trump-signatures-on-recent-pardons)
+5. [Trump's pardons cost victims and taxpayers $1.3 billion, House Judiciary Committee Democrats' review says](https://www.cbsnews.com/news/trumps-pardons-cost-victims-and-taxpayers-1-3-billion-house-judiciary-committee-democrats-review/)
+6. [Fired DOJ pardon attorney Liz Oyer knocks Donald Trump's pardons policy](https://thehill.com/homenews/administration/5321482-trump-pardon-policy-criticism/)
+7. ['No MAGA left behind': Trump's pardons get even more political](https://www.cnn.com/2025/05/28/politics/analysis-trump-pardons-politics)
+
 ## Trump Administration Releases National Security Strategy Denouncing Democratic Allies, Embracing Authoritarian Partnerships
 *Date: 2025-12-04*
 

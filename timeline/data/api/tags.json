@@ -5,7 +5,7 @@
   },
   {
     "name": "institutional-capture",
-    "count": 215
+    "count": 216
   },
   {
     "name": "corruption",
@@ -88,11 +88,11 @@
     "count": 46
   },
   {
-    "name": "money-laundering",
-    "count": 44
+    "name": "national-security",
+    "count": 45
   },
   {
-    "name": "national-security",
+    "name": "money-laundering",
     "count": 44
   },
   {
@@ -192,6 +192,10 @@
     "count": 32
   },
   {
+    "name": "rule-of-law",
+    "count": 32
+  },
+  {
     "name": "climate-denial",
     "count": 31
   },
@@ -205,10 +209,6 @@
   },
   {
     "name": "congressional-corruption",
-    "count": 31
-  },
-  {
-    "name": "rule-of-law",
     "count": 31
   },
   {
@@ -228,6 +228,10 @@
     "count": 30
   },
   {
+    "name": "civil-rights",
+    "count": 29
+  },
+  {
     "name": "fraud",
     "count": 29
   },
@@ -238,10 +242,6 @@
   {
     "name": "doj-weaponization",
     "count": 29
-  },
-  {
-    "name": "civil-rights",
-    "count": 28
   },
   {
     "name": "alec",
@@ -496,6 +496,10 @@
     "count": 18
   },
   {
+    "name": "judicial-independence",
+    "count": 18
+  },
+  {
     "name": "boeing",
     "count": 18
   },
@@ -549,10 +553,6 @@
   },
   {
     "name": "Republican Party",
-    "count": 17
-  },
-  {
-    "name": "judicial-independence",
     "count": 17
   },
   {
@@ -645,6 +645,10 @@
   },
   {
     "name": "wealth-extraction",
+    "count": 15
+  },
+  {
+    "name": "DOJ",
     "count": 15
   },
   {
@@ -756,15 +760,15 @@
     "count": 13
   },
   {
-    "name": "DOJ",
-    "count": 13
-  },
-  {
     "name": "privatization",
     "count": 13
   },
   {
     "name": "intelligence-agencies",
+    "count": 13
+  },
+  {
+    "name": "criminal-justice",
     "count": 13
   },
   {
@@ -836,11 +840,19 @@
     "count": 13
   },
   {
+    "name": "human-rights-violations",
+    "count": 13
+  },
+  {
     "name": "authoritarian-infrastructure",
     "count": 13
   },
   {
     "name": "national-guard",
+    "count": 13
+  },
+  {
+    "name": "political-persecution",
     "count": 13
   },
   {
@@ -861,10 +873,6 @@
   },
   {
     "name": "perjury",
-    "count": 12
-  },
-  {
-    "name": "criminal-justice",
     "count": 12
   },
   {
@@ -940,7 +948,7 @@
     "count": 12
   },
   {
-    "name": "human-rights-violations",
+    "name": "cybersecurity",
     "count": 12
   },
   {
@@ -968,7 +976,7 @@
     "count": 12
   },
   {
-    "name": "political-persecution",
+    "name": "rule-of-law-erosion",
     "count": 12
   },
   {
@@ -1093,10 +1101,6 @@
   },
   {
     "name": "hush-money",
-    "count": 11
-  },
-  {
-    "name": "cybersecurity",
     "count": 11
   },
   {
@@ -1273,10 +1277,6 @@
   },
   {
     "name": "DOJ Weaponization",
-    "count": 10
-  },
-  {
-    "name": "rule-of-law-erosion",
     "count": 10
   },
   {
@@ -1489,6 +1489,10 @@
   },
   {
     "name": "Consumer Protection",
+    "count": 8
+  },
+  {
+    "name": "prosecutorial-misconduct",
     "count": 8
   },
   {
@@ -1712,10 +1716,6 @@
     "count": 7
   },
   {
-    "name": "prosecutorial-misconduct",
-    "count": 7
-  },
-  {
     "name": "trump-organization",
     "count": 7
   },
@@ -1796,6 +1796,10 @@
     "count": 7
   },
   {
+    "name": "infrastructure",
+    "count": 7
+  },
+  {
     "name": "joe-rogan",
     "count": 7
   },
@@ -1861,6 +1865,10 @@
   },
   {
     "name": "militarization",
+    "count": 7
+  },
+  {
+    "name": "pardons",
     "count": 7
   },
   {
@@ -2108,10 +2116,6 @@
     "count": 6
   },
   {
-    "name": "infrastructure",
-    "count": 6
-  },
-  {
     "name": "Tax Fraud",
     "count": 6
   },
@@ -2217,10 +2221,6 @@
   },
   {
     "name": "elite-impunity",
-    "count": 6
-  },
-  {
-    "name": "pardons",
     "count": 6
   },
   {
@@ -2648,6 +2648,10 @@
     "count": 5
   },
   {
+    "name": "grand-jury",
+    "count": 5
+  },
+  {
     "name": "judicial-corruption",
     "count": 5
   },
@@ -2709,6 +2713,10 @@
   },
   {
     "name": "discharge-petition",
+    "count": 5
+  },
+  {
+    "name": "DHS",
     "count": 5
   },
   {
@@ -3136,6 +3144,10 @@
     "count": 4
   },
   {
+    "name": "clemency",
+    "count": 4
+  },
+  {
     "name": "ajit-pai",
     "count": 4
   },
@@ -3356,10 +3368,6 @@
     "count": 4
   },
   {
-    "name": "grand-jury",
-    "count": 4
-  },
-  {
     "name": "criminal-investigation",
     "count": 4
   },
@@ -3524,11 +3532,15 @@
     "count": 4
   },
   {
-    "name": "DHS",
+    "name": "First-Amendment",
     "count": 4
   },
   {
     "name": "RFK-Jr",
+    "count": 4
+  },
+  {
+    "name": "DOJ-weaponization",
     "count": 4
   },
   {
@@ -3960,6 +3972,10 @@
     "count": 3
   },
   {
+    "name": "accountability-evasion",
+    "count": 3
+  },
+  {
     "name": "afghanistan-war",
     "count": 3
   },
@@ -4181,10 +4197,6 @@
   },
   {
     "name": "cytrox",
-    "count": 3
-  },
-  {
-    "name": "clemency",
     "count": 3
   },
   {
@@ -4776,6 +4788,10 @@
     "count": 3
   },
   {
+    "name": "DOGE",
+    "count": 3
+  },
+  {
     "name": "political-purge",
     "count": 3
   },
@@ -4836,7 +4852,7 @@
     "count": 3
   },
   {
-    "name": "First-Amendment",
+    "name": "vulnerable-populations",
     "count": 3
   },
   {
@@ -5708,10 +5724,6 @@
     "count": 2
   },
   {
-    "name": "accountability-evasion",
-    "count": 2
-  },
-  {
     "name": "nsa-whistleblowing",
     "count": 2
   },
@@ -6273,6 +6285,10 @@
   },
   {
     "name": "administrative-failure",
+    "count": 2
+  },
+  {
+    "name": "critical-infrastructure",
     "count": 2
   },
   {
@@ -7768,6 +7784,10 @@
     "count": 2
   },
   {
+    "name": "legal-profession",
+    "count": 2
+  },
+  {
     "name": "disaster-response",
     "count": 2
   },
@@ -7920,10 +7940,6 @@
     "count": 2
   },
   {
-    "name": "DOGE",
-    "count": 2
-  },
-  {
     "name": "weaponized-justice",
     "count": 2
   },
@@ -8064,10 +8080,6 @@
     "count": 2
   },
   {
-    "name": "vulnerable-populations",
-    "count": 2
-  },
-  {
     "name": "systematic-cruelty",
     "count": 2
   },
@@ -8196,7 +8208,15 @@
     "count": 2
   },
   {
-    "name": "DOJ-weaponization",
+    "name": "attorney-client-privilege",
+    "count": 2
+  },
+  {
+    "name": "government-collapse",
+    "count": 2
+  },
+  {
+    "name": "public-safety",
     "count": 2
   },
   {
@@ -12829,10 +12849,6 @@
   },
   {
     "name": "guaranteed-minimums",
-    "count": 1
-  },
-  {
-    "name": "critical-infrastructure",
     "count": 1
   },
   {
@@ -18396,10 +18412,6 @@
     "count": 1
   },
   {
-    "name": "legal-profession",
-    "count": 1
-  },
-  {
     "name": "enforcement-weakening",
     "count": 1
   },
@@ -20364,6 +20376,90 @@
     "count": 1
   },
   {
+    "name": "LGBTQ-rights",
+    "count": 1
+  },
+  {
+    "name": "prison-conditions",
+    "count": 1
+  },
+  {
+    "name": "PREA",
+    "count": 1
+  },
+  {
+    "name": "transgender-rights",
+    "count": 1
+  },
+  {
+    "name": "Bureau-of-Prisons",
+    "count": 1
+  },
+  {
+    "name": "sexual-violence",
+    "count": 1
+  },
+  {
+    "name": "prison-reform",
+    "count": 1
+  },
+  {
+    "name": "Letitia-James",
+    "count": 1
+  },
+  {
+    "name": "unlawful-appointment",
+    "count": 1
+  },
+  {
+    "name": "Trump-retaliation",
+    "count": 1
+  },
+  {
+    "name": "attorney-general-abuse",
+    "count": 1
+  },
+  {
+    "name": "Todd-Blanche",
+    "count": 1
+  },
+  {
+    "name": "attorney-intimidation",
+    "count": 1
+  },
+  {
+    "name": "chilling-effects",
+    "count": 1
+  },
+  {
+    "name": "FCPA",
+    "count": 1
+  },
+  {
+    "name": "white-collar-enforcement",
+    "count": 1
+  },
+  {
+    "name": "prosecutorial-overreach",
+    "count": 1
+  },
+  {
+    "name": "CISA",
+    "count": 1
+  },
+  {
+    "name": "workforce-destruction",
+    "count": 1
+  },
+  {
+    "name": "retention-crisis",
+    "count": 1
+  },
+  {
+    "name": "recidivism",
+    "count": 1
+  },
+  {
     "name": "NATO",
     "count": 1
   },
@@ -20428,15 +20524,7 @@
     "count": 1
   },
   {
-    "name": "government-collapse",
-    "count": 1
-  },
-  {
     "name": "NOAA",
-    "count": 1
-  },
-  {
-    "name": "public-safety",
     "count": 1
   },
   {
@@ -20489,10 +20577,6 @@
   },
   {
     "name": "evidence-suppression",
-    "count": 1
-  },
-  {
-    "name": "attorney-client-privilege",
     "count": 1
   },
   {
