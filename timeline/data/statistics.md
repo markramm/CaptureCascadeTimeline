@@ -1,16 +1,16 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-10 14:18:31
+Generated: 2025-12-14 23:36:22
 
 ## Overview
-- **Total Events**: 2928
+- **Total Events**: 2929
 - **Date Range**: 1142-01-01 to 2025-12-10
-- **Total Sources**: 9719
-- **Unique Tags**: 5082
-- **Unique Actors**: 4833
+- **Total Sources**: 9724
+- **Unique Tags**: 5087
+- **Unique Actors**: 4840
 
 ## Event Status
-- **Unknown**: 873
+- **Unknown**: 874
 - **Confirmed**: 2007
 - **Validated**: 31
 - **Disputed**: 2
@@ -25,7 +25,7 @@ Generated: 2025-12-10 14:18:31
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 391 events
+- regulatory-capture: 392 events
 - corruption: 213 events
 - institutional-capture: 212 events
 - kleptocracy: 135 events
@@ -33,7 +33,7 @@ Generated: 2025-12-10 14:18:31
 - trump-administration: 115 events
 - crypto: 112 events
 - surveillance: 107 events
-- foreign-influence: 96 events
+- foreign-influence: 97 events
 - constitutional-crisis: 87 events
 
 ## Top Actors
@@ -111,4 +111,4 @@ Generated: 2025-12-10 14:18:31
 - 2022: 75 events
 - 2023: 79 events
 - 2024: 143 events
-- 2025: 1095 events
+- 2025: 1096 events

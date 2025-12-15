@@ -21393,6 +21393,15 @@
 3. [Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful](https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/)
 4. [Third Circuit Affirms Disqualification of Alina Habba](https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/)
 
+## Paramount Skydance Launches $108.4 Billion Hostile Takeover Bid for Warner Bros. Discovery with Saudi, Qatari, and UAE Backing
+*Date: 2025-12-08*
+
+1. [Not so fast, Netflix. Paramount launches hostile bid for Warner Bros. Discovery](https://www.npr.org/2025/12/08/nx-s1-5637272/paramount-warner-brothers-wbd-netflix)
+2. [Kushner, Ellison and Apollo back hostile Warner Bros. bid](https://fortune.com/2025/12/09/kushner-ellison-paramount-apollo-billionaires-netflix-hostile-bid-warner/)
+3. [Paramount Skydance launches hostile bid for WBD 'to finish what we started,' CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
+4. [Democratic Reps Warn WBD That Paramount's Takeover Bid Raises National Security Concerns Over Saudi and Other Foreign Investors](https://variety.com/2025/film/news/democrats-warn-wbd-paramount-bid-national-security-concerns-saudi-foreign-investors-1236605589/)
+5. [Democratic Lawmakers Warn Warner Bros. Discovery Of National Security Concerns In Paramount Bid Because Of Saudi And Other Foreign Investors](https://deadline.com/2025/12/democrats-warner-bros-discovery-saudi-investors-1236644779/)
+
 ## Third Federal Judge Calls for Lindsey Halligan's Resignation as Unlawfully Appointed U.S. Attorney
 *Date: 2025-12-09*
 
