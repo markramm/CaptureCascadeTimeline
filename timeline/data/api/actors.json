@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 996
+    "count": 1000
   },
   {
     "name": "Trump Administration",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Elon Musk",
-    "count": 161
+    "count": 162
   },
   {
     "name": "Pam Bondi",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Department of Defense",
-    "count": 39
+    "count": 40
   },
   {
     "name": "Peter Thiel",
@@ -116,11 +116,11 @@
     "count": 37
   },
   {
-    "name": "Donald Trump Jr.",
-    "count": 36
+    "name": "Kristi Noem",
+    "count": 37
   },
   {
-    "name": "Kristi Noem",
+    "name": "Donald Trump Jr.",
     "count": 36
   },
   {
@@ -504,6 +504,10 @@
     "count": 14
   },
   {
+    "name": "Department of Government Efficiency (DOGE)",
+    "count": 14
+  },
+  {
     "name": "Joseph Coors",
     "count": 13
   },
@@ -553,10 +557,6 @@
   },
   {
     "name": "Federal Judiciary",
-    "count": 13
-  },
-  {
-    "name": "Department of Government Efficiency (DOGE)",
     "count": 13
   },
   {
@@ -2492,6 +2492,10 @@
     "count": 3
   },
   {
+    "name": "Department of Treasury",
+    "count": 3
+  },
+  {
     "name": "Barre Seid",
     "count": 3
   },
@@ -3900,10 +3904,6 @@
     "count": 2
   },
   {
-    "name": "Department of Treasury",
-    "count": 2
-  },
-  {
     "name": "Federal Savings and Loan Insurance Corporation",
     "count": 2
   },
@@ -5072,6 +5072,10 @@
     "count": 2
   },
   {
+    "name": "Brad Parscale",
+    "count": 2
+  },
+  {
     "name": "Richard Cordray",
     "count": 2
   },
@@ -5577,6 +5581,10 @@
   },
   {
     "name": "General Mark Milley",
+    "count": 2
+  },
+  {
+    "name": "Minneapolis Police Department",
     "count": 2
   },
   {
@@ -6440,6 +6448,10 @@
     "count": 2
   },
   {
+    "name": "Internal Revenue Service (IRS)",
+    "count": 2
+  },
+  {
     "name": "Tom Manger",
     "count": 2
   },
@@ -6728,7 +6740,15 @@
     "count": 2
   },
   {
+    "name": "Rahmanullah Lakanwal",
+    "count": 2
+  },
+  {
     "name": "The New York Times",
+    "count": 2
+  },
+  {
+    "name": "Juan Orlando Hernández",
     "count": 2
   },
   {
@@ -6736,7 +6756,15 @@
     "count": 2
   },
   {
+    "name": "U.S. District Court for D.C.",
+    "count": 2
+  },
+  {
     "name": "New York City Bar Association",
+    "count": 2
+  },
+  {
+    "name": "Immigration and Customs Enforcement (ICE)",
     "count": 2
   },
   {
@@ -11100,10 +11128,6 @@
     "count": 1
   },
   {
-    "name": "Brad Parscale",
-    "count": 1
-  },
-  {
     "name": "ITT Technical Institute",
     "count": 1
   },
@@ -12789,10 +12813,6 @@
   },
   {
     "name": "Peaceful Protesters",
-    "count": 1
-  },
-  {
-    "name": "Minneapolis Police Department",
     "count": 1
   },
   {
@@ -16752,10 +16772,6 @@
     "count": 1
   },
   {
-    "name": "Internal Revenue Service (IRS)",
-    "count": 1
-  },
-  {
     "name": "Michael Byrd",
     "count": 1
   },
@@ -19280,10 +19296,6 @@
     "count": 1
   },
   {
-    "name": "Rahmanullah Lakanwal",
-    "count": 1
-  },
-  {
     "name": "Roger Wicker",
     "count": 1
   },
@@ -19404,10 +19416,6 @@
     "count": 1
   },
   {
-    "name": "Juan Orlando Hernández",
-    "count": 1
-  },
-  {
     "name": "Kevin Castel",
     "count": 1
   },
@@ -19464,6 +19472,18 @@
     "count": 1
   },
   {
+    "name": "American Alliance for Equal Rights",
+    "count": 1
+  },
+  {
+    "name": "Edward Blum",
+    "count": 1
+  },
+  {
+    "name": "Hispanic Scholarship Fund",
+    "count": 1
+  },
+  {
     "name": "Amy Fischer",
     "count": 1
   },
@@ -19473,6 +19493,22 @@
   },
   {
     "name": "Detained immigrants",
+    "count": 1
+  },
+  {
+    "name": "U.S. Court of Appeals for the District of Columbia Circuit",
+    "count": 1
+  },
+  {
+    "name": "Judge Jia Cobb",
+    "count": 1
+  },
+  {
+    "name": "Secretary of the Army",
+    "count": 1
+  },
+  {
+    "name": "D.C. National Guard",
     "count": 1
   },
   {
@@ -19536,11 +19572,19 @@
     "count": 1
   },
   {
-    "name": "Alexi Giannoulias",
+    "name": "Somali American Community",
     "count": 1
   },
   {
-    "name": "Immigration and Customs Enforcement (ICE)",
+    "name": "Tim Walz",
+    "count": 1
+  },
+  {
+    "name": "CAIR-MN",
+    "count": 1
+  },
+  {
+    "name": "Alexi Giannoulias",
     "count": 1
   },
   {
@@ -19556,11 +19600,35 @@
     "count": 1
   },
   {
+    "name": "Sahil Lavingia",
+    "count": 1
+  },
+  {
+    "name": "Sam Corcos",
+    "count": 1
+  },
+  {
+    "name": "Department of Veterans Affairs",
+    "count": 1
+  },
+  {
     "name": "Theodore J. Boutrous Jr.",
     "count": 1
   },
   {
     "name": "Pentagon Press Corps",
+    "count": 1
+  },
+  {
+    "name": "Nasry Asfura",
+    "count": 1
+  },
+  {
+    "name": "Salvador Nasralla",
+    "count": 1
+  },
+  {
+    "name": "Honduran National Party",
     "count": 1
   },
   {
@@ -19681,6 +19749,26 @@
   },
   {
     "name": "Johann Wadephul",
+    "count": 1
+  },
+  {
+    "name": "Shawn VanDiver",
+    "count": 1
+  },
+  {
+    "name": "Thomas Kasza",
+    "count": 1
+  },
+  {
+    "name": "Afghan Evac Coalition",
+    "count": 1
+  },
+  {
+    "name": "Afghan interpreters and allies",
+    "count": 1
+  },
+  {
+    "name": "Taliban",
     "count": 1
   },
   {

@@ -21420,6 +21420,15 @@
 5. [Killing Shipwrecked Survivors is Not Just Illegal—It Endangers U.S. Servicemembers](https://www.justsecurity.org/125998/boat-strikes-shipwrecked-servicemembers/)
 6. [Expert Backgrounder - Law on Targeting Shipwrecked Traffickers](https://www.justsecurity.org/126802/expert-backgrounder-law-shipwrecked-survivors/)
 
+## American Alliance for Equal Rights Sues Hispanic Scholarship Fund Seeking to Eliminate Race-Conscious Scholarships
+*Date: 2025-12-04*
+
+1. [American Alliance for Equal Rights Sues Hispanic Scholarship Fund for Excluding Non-Hispanic Students from Flagship Scholarship Program](https://www.prnewswire.com/news-releases/american-alliance-for-equal-rights-sues-hispanic-scholarship-fund-for-excluding-non-hispanic-students-from-flagship-scholarship-program-302632129.html)
+2. [Lawsuit Challenges a Nonprofit's Scholarships for Hispanic Students](https://dnyuz.com/2025/12/03/lawsuit-challenges-a-nonprofits-scholarships-for-hispanic-students/)
+3. [Lawsuit - Hispanic Scholarship Fund Illegally Discriminates](https://www.insidehighered.com/news/students/financial-aid/2025/12/05/lawsuit-hispanic-scholarship-fund-illegally-discriminates)
+4. [Anti-DEI Group Seeks to Void Hispanic Scholarship Fund Criteria](https://news.bloomberglaw.com/litigation/anti-dei-group-seeks-to-void-hispanic-scholarship-fund-criteria)
+5. [A Talented Student, But the Wrong Ancestry - Why We Filed Suit Against the Hispanic Scholarship Fund](https://freebeacon.com/campus/a-talented-student-but-the-wrong-ancestry-why-we-filed-suit-against-the-hispanic-scholarship-fund/)
+
 ## Amnesty International documents torture and enforced disappearances at "Alligator Alcatraz" and Krome detention facilities
 *Date: 2025-12-04*
 
@@ -21428,6 +21437,16 @@
 3. [Report finds 'inhuman' conditions at two Florida immigration facilities](https://www.npr.org/2025/12/11/nx-s1-5638594/report-finds-inhuman-conditions-at-two-florida-immigration-facilities)
 4. [Torture & Enforced Disappearances at Florida's ICE Jails: Amnesty International Report](https://www.democracynow.org/2025/12/10/florida_immigration_detention_torture_amnesty_report)
 5. [USA: New Findings Reveal Human Rights Violations at Florida's "Alligator Alcatraz" and Krome Detention Centers](https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/)
+
+## Appeals Court Halts Removal of National Guard from Washington DC, Preserving Militarized Presence in Capital
+*Date: 2025-12-04*
+
+1. [Court Decision Calling for End to National Guard Deployment in DC Paused by Appeals Court](https://www.military.com/daily-news/2025/12/05/court-decision-calling-end-national-guard-deployment-dc-paused-appeals-court.html)
+2. [Appeals court temporarily lets DC deployment of National Guard continue](https://thehill.com/regulation/court-battles/5634347-appeals-court-dc-deployment-national-guard/)
+3. [Trump can keep National Guard in Washington, DC, for now, Appeals court rules](https://www.aljazeera.com/news/2025/12/5/trump-can-keep-national-guard-in-washington-dc-for-now-appeals-court)
+4. [Appeals court lets Trump administration keep National Guard deployed in D.C. for now](https://www.cbsnews.com/news/court-decision-calling-for-end-to-national-guard-deployment-in-dc-paused-by-appeals-court/)
+5. [Judge orders an end to Trump's troop deployment in D.C., calling it 'unlawful'](https://www.npr.org/2025/11/20/nx-s1-5615399/dc-troops-deployment-blocked-trump)
+6. [Court rules National Guard may remain in D.C. for now](https://www.upi.com/Top_News/US/2025/12/05/appeals-court-DC-National-Guard-Troops/3141764920350)
 
 ## Bondi Orders FBI to Compile "Domestic Terrorism" List Targeting Political Beliefs
 *Date: 2025-12-04*
@@ -21487,6 +21506,17 @@
 5. [Grand jury rejects DOJ's attempt to revive fraud case against New York AG Letitia James](https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story?id=128107484)
 6. [James Comey, Letitia James prosecutions dismissed](https://www.axios.com/2025/11/24/trump-comey-case-charges-dismissed-judge)
 
+## ICE Escalates Operations Targeting Somali Immigrants in Minnesota Following Trump's Attacks on Community
+*Date: 2025-12-04*
+
+1. [ICE operations targeting Somali immigrants underway in Twin Cities](https://www.cbsnews.com/minnesota/live-updates/ice-somali-immigrants-minneapolis-st-paul/)
+2. [Anxiety grips Somali community in Minneapolis as ICE agents zero in on the Twin Cities](https://www.cnn.com/2025/12/04/us/minneapolis-somali-community-ice-immigration)
+3. [Minneapolis officials decry ICE arrest of Somali American citizen](https://www.startribune.com/mubashir-minneapolis-ice-arrest-us-citizen-somali-american-walz-letter-noem/601543532)
+4. [Twin Cities Latino, Somali businesses struggling amid ICE's Operation Metro Surge](https://www.cbsnews.com/minnesota/news/twin-cities-latino-somali-businesses-struggling-ice-operation-metro-surge/)
+5. [ICE to launch operation targeting Somali immigrants in Twin Cities, federal official says](https://www.cnn.com/2025/12/02/us/ice-operation-somali-migrants-minneapolis)
+6. [News Wrap: ICE plans operation targeting Somali immigrants in Minnesota](https://www.pbs.org/newshour/show/news-wrap-ice-plans-operation-targeting-somali-immigrants-in-minnesota)
+7. [Somali American students carry passports to Minnesota classes as ICE activity intensifies](https://www.startribune.com/as-ice-activity-intensifies-some-somali-students-lower-their-profile/601542204)
+
 ## Illinois Secretary of State Warns Federal Immigration Agents and Rental Companies That License Plate Tampering Violates State Law
 *Date: 2025-12-04*
 
@@ -21498,6 +21528,15 @@
 6. [Gov. JB Pritzker signs Illinois immigration law that curbs courthouse arrests and expands right to sue agents](https://www.chicagotribune.com/2025/12/09/jb-pritzker-illinois-immigration-law/)
 7. [Illinois aims to crack down on ICE cars with illegal license plates after Sun-Times report](https://chicago.suntimes.com/immigration/2025/10/22/illinois-crack-down-ice-immigration-cars-illegal-license-plates-hotline-swapping-broadview-deportation-campaign)
 
+## Sahil Lavingia Re-Enters Government at IRS After DOGE Firing for Speaking to Press About Government Efficiency
+*Date: 2025-12-04*
+
+1. [Former DOGE Engineer Is Now Back in Government](https://dnyuz.com/2025/12/05/former-doge-engineer-is-now-back-in-government/)
+2. [Ex-DOGE Engineer Joins IRS After VA Firing, Plans 10-Year Stay](https://www.techbuzz.ai/articles/ex-doge-engineer-joins-irs-after-va-firing-plans-10-year-stay)
+3. [VA-based DOGE associate gets 'the boot' after publicly discussing his work](https://www.govexec.com/management/2025/05/va-based-doge-associate-gets-boot-after-publicly-discussing-his-work/405641/)
+4. [Former DOGE staffer talks about efficiency, his time at the VA, and Elon Musk](https://www.npr.org/2025/06/13/1254121714/doge-staffer-sahil-lavingia-musk-va-fired)
+5. [Ex-DOGE official says government isn't recruiting enough tech talent](https://federalnewsnetwork.com/it-modernization/2025/08/ex-doge-official-says-government-isnt-recruiting-enough-tech-talent/)
+
 ## New York Times Sues Pentagon Over Restrictive Media Rules Requiring Publication Approval, Violating First Amendment
 *Date: 2025-12-04*
 
@@ -21508,6 +21547,17 @@
 5. [New York Times Sues Pentagon Over Press Access Rules, Claiming Restrictions Violate First Amendment](https://deadline.com/2025/12/new-york-times-sues-pentagon-1236635728/)
 6. [NYT sues Pentagon over controversial press pledge policy](https://www.axios.com/2025/12/04/new-york-times-pentagon-lawsuit-press-policy)
 7. [Does the Pentagon's Media Policy Violate the First Amendment?](https://www.freedomforum.org/pentagon-media-policy-first-amendment/)
+
+## Brad Parscale Secretly Advised Honduran Right-Wing Candidate as Trump Endorsed Her and Pardoned Convicted Narco-President
+*Date: 2025-12-04*
+
+1. [Former Trump Campaign Chief Involved in Honduras Politics](https://ticotimes.net/2025/12/04/former-trump-campaign-chief-involved-in-honduras-politics)
+2. [Trump's Former Campaign Manager Assisted Honduran Presidential Candidate](https://dnyuz.com/2025/12/04/trumps-former-campaign-manager-assisted-honduran-presidential-candidate/)
+3. [Trump Campaign Manager Brad Parscale Paid To Advise Party In Honduras As Trump Pardoned Country's Ex President For Drug Trafficking](https://upolitics.com/news/trump-campaign-manager-brad-parscale-paid-to-advise-party-in-honduras-as-trump-pardoned-countrys-ex-president-for-drug-trafficking/)
+4. [Juan Orlando Hernandez freed after Trump's 'full and complete' pardon](https://www.aljazeera.com/news/2025/12/2/juan-orlando-hernandez-freed-after-trumps-full-and-complete-pardon)
+5. [Honduras seeks arrest of ex-President Hernández after Trump pardon](https://www.npr.org/2025/12/09/g-s1-101277/honduras-seeks-arrest-hernandez-trump-pardon)
+6. [Trump-backed candidate Nasry Asfura leads Honduras race, early trends show](https://www.aljazeera.com/news/2025/12/1/trump-backed-candidate-leads-honduras-presidential-vote-early-trends-show)
+7. [Examining Trump's Pardon of Former Honduran President Convicted of Trafficking Drugs to U.S.](https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/)
 
 ## Supreme Court Reinstates Texas Mid-Decade Congressional Map Designed for Republican Advantage Despite Racial Gerrymandering Findings
 *Date: 2025-12-04*
@@ -21572,6 +21622,15 @@
 4. [2025 National Security Strategy: Does Europe Finally Realize It's Alone?](https://foreignpolicy.com/2025/12/05/national-security-strategy-2025-trump-europe-russia-ukraine-war/)
 5. [Breaking down Trump's 2025 National Security Strategy](https://www.brookings.edu/articles/breaking-down-trumps-2025-national-security-strategy/)
 6. [Unpacking a Trump Twist of the National Security Strategy](https://www.cfr.org/expert-brief/unpacking-trump-twist-national-security-strategy)
+
+## Veterans Warn Trump's Afghan Asylum Freeze Endangers U.S. Allies and Undermines Future Military Partnerships
+*Date: 2025-12-04*
+
+1. [Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk](https://www.npr.org/2025/12/04/nx-s1-5630487/asylum-freeze-afghans-national-guard)
+2. [Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk](https://www.kpbs.org/news/national/2025/12/04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk)
+3. [Afghan 'Zero Unit' fighters in the U.S. faced despair before National Guard attack](https://www.npr.org/2025/12/10/nx-s1-5637497/afghan-zero-unit-fighters-in-the-u-s-faced-despair-before-national-guard-attack)
+4. [Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk](https://www.nprillinois.org/2025-12-04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk)
+5. [Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk](https://www.wyomingpublicmedia.org/2025-12-04/some-u-s-veterans-say-trump-asylum-freeze-puts-afghan-allies-at-risk)
 
 ## ACIP Chair Admits Vaccine Panel Members Feel Like "Puppets on a String," Exposing Political Manipulation
 *Date: 2025-12-05*

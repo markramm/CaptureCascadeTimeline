@@ -1,15 +1,15 @@
 {
-  "total_events": 2960,
-  "total_tags": 5186,
-  "total_actors": 4978,
-  "total_sources": 9907,
+  "total_events": 2966,
+  "total_tags": 5212,
+  "total_actors": 5000,
+  "total_sources": 9942,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
   },
   "status_counts": {
     "unknown": 885,
-    "confirmed": 2025,
+    "confirmed": 2031,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "corruption",
-      "count": 213
+      "count": 214
     },
     {
       "name": "kleptocracy",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 996
+      "count": 1000
     },
     {
       "name": "Trump Administration",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Elon Musk",
-      "count": 161
+      "count": 162
     },
     {
       "name": "Pam Bondi",
@@ -106,5 +106,5 @@
       "count": 54
     }
   ],
-  "generated": "2025-12-15T10:17:30.875755"
+  "generated": "2025-12-15T10:32:20.621931"
 }

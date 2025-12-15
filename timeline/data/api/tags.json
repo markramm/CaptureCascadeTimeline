@@ -9,7 +9,7 @@
   },
   {
     "name": "corruption",
-    "count": 213
+    "count": 214
   },
   {
     "name": "kleptocracy",
@@ -57,7 +57,7 @@
   },
   {
     "name": "executive-power",
-    "count": 61
+    "count": 62
   },
   {
     "name": "revolving-door",
@@ -160,6 +160,10 @@
     "count": 34
   },
   {
+    "name": "immigration-enforcement",
+    "count": 34
+  },
+  {
     "name": "civil-liberties",
     "count": 33
   },
@@ -173,10 +177,6 @@
   },
   {
     "name": "executive-overreach",
-    "count": 33
-  },
-  {
-    "name": "immigration-enforcement",
     "count": 33
   },
   {
@@ -1048,6 +1048,10 @@
     "count": 11
   },
   {
+    "name": "whistleblower-retaliation",
+    "count": 11
+  },
+  {
     "name": "consumer-protection",
     "count": 11
   },
@@ -1181,10 +1185,6 @@
   },
   {
     "name": "investigative-journalism",
-    "count": 10
-  },
-  {
-    "name": "whistleblower-retaliation",
     "count": 10
   },
   {
@@ -1436,6 +1436,10 @@
     "count": 9
   },
   {
+    "name": "pardons",
+    "count": 9
+  },
+  {
     "name": "conservative-media",
     "count": 8
   },
@@ -1596,7 +1600,7 @@
     "count": 8
   },
   {
-    "name": "pardons",
+    "name": "militarization",
     "count": 8
   },
   {
@@ -1869,10 +1873,6 @@
   },
   {
     "name": "appeals-court",
-    "count": 7
-  },
-  {
-    "name": "militarization",
     "count": 7
   },
   {
@@ -2221,6 +2221,10 @@
   },
   {
     "name": "border-patrol",
+    "count": 6
+  },
+  {
+    "name": "ICE",
     "count": 6
   },
   {
@@ -2660,6 +2664,10 @@
     "count": 5
   },
   {
+    "name": "government-efficiency",
+    "count": 5
+  },
+  {
     "name": "democratic-resistance",
     "count": 5
   },
@@ -2697,10 +2705,6 @@
   },
   {
     "name": "data-manipulation",
-    "count": 5
-  },
-  {
-    "name": "ICE",
     "count": 5
   },
   {
@@ -2813,6 +2817,10 @@
   },
   {
     "name": "prosecutions",
+    "count": 4
+  },
+  {
+    "name": "drug-trafficking",
     "count": 4
   },
   {
@@ -3072,6 +3080,10 @@
     "count": 4
   },
   {
+    "name": "asylum",
+    "count": 4
+  },
+  {
     "name": "spyware",
     "count": 4
   },
@@ -3209,6 +3221,10 @@
   },
   {
     "name": "institutional-accountability",
+    "count": 4
+  },
+  {
+    "name": "racial-profiling",
     "count": 4
   },
   {
@@ -3448,10 +3464,6 @@
     "count": 4
   },
   {
-    "name": "government-efficiency",
-    "count": 4
-  },
-  {
     "name": "agency-elimination",
     "count": 4
   },
@@ -3529,6 +3541,10 @@
   },
   {
     "name": "mortgage-fraud",
+    "count": 4
+  },
+  {
+    "name": "DOGE",
     "count": 4
   },
   {
@@ -3705,10 +3721,6 @@
   },
   {
     "name": "bailout",
-    "count": 3
-  },
-  {
-    "name": "drug-trafficking",
     "count": 3
   },
   {
@@ -4096,10 +4108,6 @@
     "count": 3
   },
   {
-    "name": "asylum",
-    "count": 3
-  },
-  {
     "name": "charter-schools",
     "count": 3
   },
@@ -4300,7 +4308,7 @@
     "count": 3
   },
   {
-    "name": "racial-profiling",
+    "name": "IRS",
     "count": 3
   },
   {
@@ -4548,6 +4556,10 @@
     "count": 3
   },
   {
+    "name": "martial-law",
+    "count": 3
+  },
+  {
     "name": "economic-coercion",
     "count": 3
   },
@@ -4661,6 +4673,10 @@
   },
   {
     "name": "federal-education",
+    "count": 3
+  },
+  {
+    "name": "immigration-policy",
     "count": 3
   },
   {
@@ -4796,10 +4812,6 @@
     "count": 3
   },
   {
-    "name": "DOGE",
-    "count": 3
-  },
-  {
     "name": "federal-overreach",
     "count": 3
   },
@@ -4869,6 +4881,10 @@
   },
   {
     "name": "vulnerable-populations",
+    "count": 3
+  },
+  {
+    "name": "refugees",
     "count": 3
   },
   {
@@ -5177,6 +5193,10 @@
   },
   {
     "name": "deregulation-failure",
+    "count": 2
+  },
+  {
+    "name": "Latin-America",
     "count": 2
   },
   {
@@ -5681,6 +5701,10 @@
   },
   {
     "name": "self-regulation",
+    "count": 2
+  },
+  {
+    "name": "wrongful-detention",
     "count": 2
   },
   {
@@ -6616,10 +6640,6 @@
     "count": 2
   },
   {
-    "name": "IRS",
-    "count": 2
-  },
-  {
     "name": "tax-enforcement",
     "count": 2
   },
@@ -7364,10 +7384,6 @@
     "count": 2
   },
   {
-    "name": "martial-law",
-    "count": 2
-  },
-  {
     "name": "democratic-crisis",
     "count": 2
   },
@@ -7605,10 +7621,6 @@
   },
   {
     "name": "strategic-litigation",
-    "count": 2
-  },
-  {
-    "name": "immigration-policy",
     "count": 2
   },
   {
@@ -7956,6 +7968,10 @@
     "count": 2
   },
   {
+    "name": "National-Guard",
+    "count": 2
+  },
+  {
     "name": "weaponized-justice",
     "count": 2
   },
@@ -8205,10 +8221,6 @@
   },
   {
     "name": "criminal-contempt",
-    "count": 2
-  },
-  {
-    "name": "refugees",
     "count": 2
   },
   {
@@ -9329,10 +9341,6 @@
   },
   {
     "name": "military-intervention",
-    "count": 1
-  },
-  {
-    "name": "Latin-America",
     "count": 1
   },
   {
@@ -10973,10 +10981,6 @@
   },
   {
     "name": "leverage",
-    "count": 1
-  },
-  {
-    "name": "wrongful-detention",
     "count": 1
   },
   {
@@ -19312,10 +19316,6 @@
     "count": 1
   },
   {
-    "name": "National-Guard",
-    "count": 1
-  },
-  {
     "name": "data-sharing",
     "count": 1
   },
@@ -20380,6 +20380,38 @@
     "count": 1
   },
   {
+    "name": "DEI",
+    "count": 1
+  },
+  {
+    "name": "scholarships",
+    "count": 1
+  },
+  {
+    "name": "civil-rights-lawsuits",
+    "count": 1
+  },
+  {
+    "name": "education-access",
+    "count": 1
+  },
+  {
+    "name": "affirmative-action",
+    "count": 1
+  },
+  {
+    "name": "Edward-Blum",
+    "count": 1
+  },
+  {
+    "name": "Hispanic-students",
+    "count": 1
+  },
+  {
+    "name": "discrimination-claims",
+    "count": 1
+  },
+  {
     "name": "detention-conditions",
     "count": 1
   },
@@ -20389,6 +20421,18 @@
   },
   {
     "name": "enforced-disappearances",
+    "count": 1
+  },
+  {
+    "name": "Washington-DC",
+    "count": 1
+  },
+  {
+    "name": "judicial-appeals",
+    "count": 1
+  },
+  {
+    "name": "crime-policy",
     "count": 1
   },
   {
@@ -20456,6 +20500,22 @@
     "count": 1
   },
   {
+    "name": "Somali-Americans",
+    "count": 1
+  },
+  {
+    "name": "Minnesota",
+    "count": 1
+  },
+  {
+    "name": "ethnic-targeting",
+    "count": 1
+  },
+  {
+    "name": "community-terrorization",
+    "count": 1
+  },
+  {
     "name": "state-authority",
     "count": 1
   },
@@ -20476,6 +20536,18 @@
     "count": 1
   },
   {
+    "name": "capture",
+    "count": 1
+  },
+  {
+    "name": "Treasury-Department",
+    "count": 1
+  },
+  {
+    "name": "Veterans-Affairs",
+    "count": 1
+  },
+  {
     "name": "Pentagon",
     "count": 1
   },
@@ -20485,6 +20557,18 @@
   },
   {
     "name": "Hegseth",
+    "count": 1
+  },
+  {
+    "name": "foreign-election-interference",
+    "count": 1
+  },
+  {
+    "name": "campaign-consultants",
+    "count": 1
+  },
+  {
+    "name": "Honduras",
     "count": 1
   },
   {
@@ -20577,6 +20661,26 @@
   },
   {
     "name": "European-Union",
+    "count": 1
+  },
+  {
+    "name": "Afghan-allies",
+    "count": 1
+  },
+  {
+    "name": "Taliban",
+    "count": 1
+  },
+  {
+    "name": "military-partnerships",
+    "count": 1
+  },
+  {
+    "name": "veteran-advocacy",
+    "count": 1
+  },
+  {
+    "name": "betrayal",
     "count": 1
   },
   {
