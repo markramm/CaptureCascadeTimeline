@@ -1,8 +1,8 @@
 {
-  "total_events": 2953,
-  "total_tags": 5160,
-  "total_actors": 4953,
-  "total_sources": 9858,
+  "total_events": 2954,
+  "total_tags": 5164,
+  "total_actors": 4957,
+  "total_sources": 9865,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
@@ -16,7 +16,7 @@
     "enhanced": 1,
     "reported": 7,
     "investigated": 1,
-    "contested": 2,
+    "contested": 3,
     "needs_work": 1,
     "unverified": 1,
     "predicted": 1,
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 993
+      "count": 994
     },
     {
       "name": "Trump Administration",
@@ -106,5 +106,5 @@
       "count": 54
     }
   ],
-  "generated": "2025-12-15T09:54:03.012604"
+  "generated": "2025-12-15T10:02:59.805573"
 }

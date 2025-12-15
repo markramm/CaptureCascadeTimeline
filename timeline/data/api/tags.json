@@ -220,6 +220,10 @@
     "count": 30
   },
   {
+    "name": "congressional-oversight",
+    "count": 30
+  },
+  {
     "name": "saudi-arabia",
     "count": 30
   },
@@ -233,10 +237,6 @@
   },
   {
     "name": "fraud",
-    "count": 29
-  },
-  {
-    "name": "congressional-oversight",
     "count": 29
   },
   {
@@ -2424,6 +2424,10 @@
     "count": 5
   },
   {
+    "name": "classified-information",
+    "count": 5
+  },
+  {
     "name": "reputation-laundering",
     "count": 5
   },
@@ -2952,15 +2956,15 @@
     "count": 4
   },
   {
+    "name": "accountability-evasion",
+    "count": 4
+  },
+  {
     "name": "suspicious-death",
     "count": 4
   },
   {
     "name": "dhs",
-    "count": 4
-  },
-  {
-    "name": "classified-information",
     "count": 4
   },
   {
@@ -3969,10 +3973,6 @@
   },
   {
     "name": "alabama",
-    "count": 3
-  },
-  {
-    "name": "accountability-evasion",
     "count": 3
   },
   {
@@ -8205,6 +8205,14 @@
   },
   {
     "name": "extrajudicial-killing",
+    "count": 2
+  },
+  {
+    "name": "Pete-Hegseth",
+    "count": 2
+  },
+  {
+    "name": "DoD",
     "count": 2
   },
   {
@@ -20336,6 +20344,22 @@
     "count": 1
   },
   {
+    "name": "national-security-violation",
+    "count": 1
+  },
+  {
+    "name": "Signal",
+    "count": 1
+  },
+  {
+    "name": "Yemen-strikes",
+    "count": 1
+  },
+  {
+    "name": "policy-violations",
+    "count": 1
+  },
+  {
     "name": "H1-B-visas",
     "count": 1
   },
@@ -20345,14 +20369,6 @@
   },
   {
     "name": "trust-and-safety",
-    "count": 1
-  },
-  {
-    "name": "Pete-Hegseth",
-    "count": 1
-  },
-  {
-    "name": "DoD",
     "count": 1
   },
   {

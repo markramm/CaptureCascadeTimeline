@@ -21391,6 +21391,17 @@
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
 
+## Pentagon IG Finds Hegseth Shared SECRET//NOFORN Classified Information on Signal, Violated National Security Protocols
+*Date: 2025-12-03*
+
+1. [Pentagon watchdog finds Hegseth risked the safety of U.S. forces with use of Signal](https://www.npr.org/2025/12/03/nx-s1-5630519/signalgate-pete-hegseth-inspector-general-report)
+2. [Pentagon watchdog says Hegseth's use of Signal app put U.S. personnel at risk, AP sources say](https://www.pbs.org/newshour/nation/pentagon-watchdog-says-hegseths-use-of-signal-app-put-u-s-personnel-at-risk-ap-sources-say)
+3. [Pentagon Watchdog Finds Hegseth's Use of Signal Posed Risk to US Personnel](https://www.military.com/daily-news/2025/12/03/pentagon-watchdog-finds-hegseths-use-of-signal-posed-risk-us-personnel.html)
+4. [Questions Lawmakers Should Ask About Inspector General Report on Signalgate](https://www.justsecurity.org/126591/inspector-general-report-hegseth-signal/)
+5. [Pentagon IG finds Hegseth could have endangered troops with Signal chat, sources say](https://abcnews.go.com/Politics/pentagon-ig-concluded-hegseth-risked-exposing-classified-info/story?id=128079227)
+6. [Pentagon's Signalgate review finds Pete Hegseth violated military regulations](https://www.nbcnews.com/politics/politics-news/pentagons-signalgate-review-finds-pete-hegseth-violated-military-regul-rcna247023)
+7. [Pentagon watchdog finds Hegseth's Signal chat violated regulations, could have endangered troops](https://www.cbsnews.com/news/hegseths-signal-chat-pentagon-inspector-general-report/)
+
 ## State Department Orders H-1B Visa Denials for Content Moderation and Fact-Checking Workers
 *Date: 2025-12-03*
 
