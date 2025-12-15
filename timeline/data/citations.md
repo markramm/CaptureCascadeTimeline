@@ -21455,6 +21455,28 @@
 4. [Trump administration plans to end prison rape protections for trans and intersex people, memo says](https://www.govexec.com/management/2025/12/trump-administration-plans-end-prison-rape-protections-trans-and-intersex-people-memo-says/410057/)
 5. [Executive Order: Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government](https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/)
 
+## FDA Vaccine Chief Vinay Prasad Circulates Unsubstantiated Memo Claiming COVID Vaccines Killed At Least Ten Children
+*Date: 2025-12-04*
+
+1. [FDA claims Covid vaccine caused kids' deaths. Experts are skeptical](https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/)
+2. [Scoop - FDA vaccine chief's memo cited 10 pediatric Covid-19 vaccine deaths—but the agency's own analysis found 0–7](https://insidemedicine.substack.com/p/scoop-fda-vaccine-chiefs-memo-cited)
+3. [FDA Memo Claims COVID Vaccine Tied to 10 Child Deaths](https://www.usnews.com/news/health-news/articles/2025-12-02/fda-memo-claims-covid-vaccine-tied-to-10-child-deaths)
+4. [FDA claims Covid shots killed 10 children and vows new vaccine rules](https://www.nbcnews.com/health/health-news/fda-covid-vaccines-children-deaths-rcna246437)
+5. [FDA official, without providing data, claims link between COVID-19 vaccines and pediatric deaths](https://www.cbsnews.com/news/food-drug-administration-covid-19-vaccines-pediatric-deaths/)
+6. [A dozen former FDA commissioners decry Prasad memo on vaccine regulation](https://www.statnews.com/2025/12/03/fda-former-commissioners-vaccine-policy/)
+7. [How two FDA officials, Prasad and Hoeg, seized vaccine oversight](https://www.statnews.com/2025/11/12/fda-vaccine-policy-controlled-by-vinay-prasad-tracy-beth-hoeg/)
+
+## GAO Opens Investigation Into FHFA Director Bill Pulte for Weaponized Criminal Referrals Targeting Trump Critics
+*Date: 2025-12-04*
+
+1. [GAO opens probe into Bill Pulte's mortgage fraud referrals](https://www.housingwire.com/articles/gao-fhfa-director-investigation/)
+2. [Government Accountability Office launches probe into Bill Pulte over mortgage-fraud referrals](https://www.cnn.com/2025/12/04/business/government-accountability-office-investigation-bill-pulte-mortgage-referrals)
+3. [Congressional watchdog probes Trump FHFA chief Bill Pulte](https://www.cnbc.com/2025/12/04/congressional-watchdog-probes-trump-fhfa-chief-bill-pulte.html)
+4. [GAO opens investigation into Trump ally FHFA chief Bill Pulte](https://www.nbcnews.com/business/real-estate/trump-gao-probe-bill-pulte-rcna247412)
+5. [Congressional watchdog opens probe into Trump housing finance head Bill Pulte](https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/)
+6. [Document shows DOJ examining the handling of mortgage fraud investigation into Sen. Schiff](https://www.pbs.org/newshour/politics/document-shows-doj-examining-the-handling-of-mortgage-fraud-investigation-into-sen-schiff)
+7. [Facing new investigation, FHFA Bill Pulte's troubles become even more serious](https://www.ms.now/rachel-maddow-show/maddowblog/facing-new-investigation-fhfa-bill-pultes-troubles-become-even-more-serious)
+
 ## Grand Jury Rejects DOJ's Weaponized Prosecution of NY Attorney General Letitia James
 *Date: 2025-12-04*
 
@@ -21464,6 +21486,50 @@
 4. [Grand jury refuses to re-indict Letitia James after earlier fraud charges were thrown out](https://www.cbsnews.com/news/letitia-james-grand-jury-doj-declines-to-indict/)
 5. [Grand jury rejects DOJ's attempt to revive fraud case against New York AG Letitia James](https://abcnews.go.com/US/grand-jury-rejects-dojs-attempt-revive-fraud-case/story?id=128107484)
 6. [James Comey, Letitia James prosecutions dismissed](https://www.axios.com/2025/11/24/trump-comey-case-charges-dismissed-judge)
+
+## Illinois Secretary of State Warns Federal Immigration Agents and Rental Companies That License Plate Tampering Violates State Law
+*Date: 2025-12-04*
+
+1. [License-plate tampering a no-no, Illinois warns fed immigration agents, car rental agencies](https://chicago.suntimes.com/immigration/2025/12/04/alexi-giannoulias-homeland-security-operation-midway-blitz-state-puts-feds-car-rental-firms-on-notice-for-alleged-license-plate-tampering-during-immigration-crackdown)
+2. [Enterprise Rent-A-Car license plate revoked after immigration agents illegally swapped it out, records show](https://www.chicagotribune.com/2025/12/04/immigration-agents-swap-license-plate/)
+3. [Illinois officials warn rental car companies that it is illegal for immigration agents to swap license plates](https://www.nbcnews.com/news/us-news/illinois-rental-car-license-plates-immigration-agents-illegal-rcna246115)
+4. [Sec. of State orders DHS to stop swapping license plates](https://dailyillini.com/news-stories/world-news/state-news/illinois-state-government/2025/12/07/dhs-swapping-plates/)
+5. [Illinois is targeting immigration officials who try to hide their license plates](https://www.nbcnews.com/news/us-news/illinois-targeting-immigration-officials-try-hide-license-plates-rcna239121)
+6. [Gov. JB Pritzker signs Illinois immigration law that curbs courthouse arrests and expands right to sue agents](https://www.chicagotribune.com/2025/12/09/jb-pritzker-illinois-immigration-law/)
+7. [Illinois aims to crack down on ICE cars with illegal license plates after Sun-Times report](https://chicago.suntimes.com/immigration/2025/10/22/illinois-crack-down-ice-immigration-cars-illegal-license-plates-hotline-swapping-broadview-deportation-campaign)
+
+## New York Times Sues Pentagon Over Restrictive Media Rules Requiring Publication Approval, Violating First Amendment
+*Date: 2025-12-04*
+
+1. [New York Times sues Defense Sec. Pete Hegseth over restrictive Pentagon media rules](https://www.cnbc.com/2025/12/04/new-york-times-pentagon-pete-hegseth-lawsuit-media.html)
+2. [New York Times lawsuit creates a new headache for Pentagon chief Hegseth](https://www.npr.org/2025/12/04/nx-s1-5631838/new-york-times-pentagon-defense-hegseth-lawsuit)
+3. [New York Times sues Hegseth over Pentagon press crackdown](https://www.cnn.com/2025/12/04/media/hegseth-new-york-times-pentagon-lawsuit-press)
+4. [New York Times sues Pentagon over reporting rules, citing First Amendment rights](https://www.nbcnews.com/politics/politics-news/new-york-sues-pentagon-reporting-rules-citing-first-amendment-rights-rcna247342)
+5. [New York Times Sues Pentagon Over Press Access Rules, Claiming Restrictions Violate First Amendment](https://deadline.com/2025/12/new-york-times-sues-pentagon-1236635728/)
+6. [NYT sues Pentagon over controversial press pledge policy](https://www.axios.com/2025/12/04/new-york-times-pentagon-lawsuit-press-policy)
+7. [Does the Pentagon's Media Policy Violate the First Amendment?](https://www.freedomforum.org/pentagon-media-policy-first-amendment/)
+
+## Supreme Court Reinstates Texas Mid-Decade Congressional Map Designed for Republican Advantage Despite Racial Gerrymandering Findings
+*Date: 2025-12-04*
+
+1. [Supreme Court allows Texas to use redistricting map challenged as racially discriminatory](https://www.scotusblog.com/2025/12/supreme-court-allows-texas-to-use-redistricting-map-challenged-as-racially-discriminatory/)
+2. [Supreme Court lets Texas use gerrymandered map that could give GOP 5 more House seats](https://www.npr.org/2025/12/04/nx-s1-5619692/supreme-court-texas-redistricting-map)
+3. [Supreme Court allows Texas to use new congressional district map drawn to favor Republicans](https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-texas-use-new-congressional-district-map-drawn-fa-rcna244696)
+4. [Supreme Court orders Texas to use 2025 map amid legal battle](https://www.texastribune.org/2025/12/04/texas-redistricting-map-us-supreme-court-2026-midterms/)
+5. [Supreme Court allows Texas GOP to use new redistricted map for now](https://www.cbsnews.com/news/supreme-court-texas-map-republicans/)
+6. [NAACP Condemns Supreme Court Decision Allowing Racially Motivated Gerrymandering in Texas](https://naacp.org/articles/naacp-condemns-supreme-court-decision-allowing-racially-motivated-gerrymandering-texas)
+7. [Supreme Court Hammers Away at Democracy](https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-hammers-away-democracy)
+
+## DOJ Seeks to Detain Jan 6 Pardoned Defendant Taylor Taranto After Surveilling Rep. Jamie Raskin's Neighborhood
+*Date: 2025-12-04*
+
+1. [Scoop - Security upped for Rep. Jamie Raskin after alleged incident involving Jan. 6 defendant](https://www.axios.com/2025/12/04/jamie-raskin-taylor-taranto-obama-security-court)
+2. [DOJ Asks Judge to Rejail Jan. 6 Rioter Pardoned by Trump, After Threats to Rep. Jamie Raskin](https://www.democracynow.org/2025/12/5/headlines/doj_asks_judge_to_rejail_jan_6_rioter_pardoned_by_trump_after_threats_to_rep_jamie_raskin)
+3. [Pardoned January 6 defendant Taylor Taranto faces new legal trouble in DC](https://www.foxnews.com/politics/jan-6-defendant-pardoned-trump-lands-legal-trouble-again)
+4. [Police Beg Judge to Jail Pardoned J6er Seen Lurking Near Dem Jamie Raskin's House](https://www.thedailybeast.com/police-beg-judge-to-jail-pardoned-j6er-seen-lurking-near-dem-jamie-raskins-house/)
+5. [DOJ Asks Judge to Re-Jail Jan. 6 Defendant Trump Pardoned](https://www.newsweek.com/doj-asks-judge-rejail-jan-6-defendant-trump-pardoned-11159588)
+6. [Jan. 6 defendant arrested near Obama's home had guns and 400 rounds of ammunition in his van](https://www.nbcnews.com/politics/justice-department/jan-6-defendant-arrested-obamas-home-guns-400-rounds-ammunition-van-rcna92094)
+7. [Former Jan. 6 defendant who was arrested near Obama's house is convicted on gun charges](https://www.nbcnews.com/politics/justice-department/former-jan-6-defendant-taylor-taranto-obama-house-convicted-gun-rcna207980)
 
 ## Deputy Attorney General Todd Blanche Warns DOJ Tracks Lawyers' Public Criticism of Prosecutions
 *Date: 2025-12-04*

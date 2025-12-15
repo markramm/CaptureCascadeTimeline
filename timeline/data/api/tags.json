@@ -1,7 +1,7 @@
 [
   {
     "name": "regulatory-capture",
-    "count": 394
+    "count": 396
   },
   {
     "name": "institutional-capture",
@@ -109,7 +109,7 @@
   },
   {
     "name": "abuse-of-power",
-    "count": 42
+    "count": 43
   },
   {
     "name": "cia",
@@ -168,6 +168,10 @@
     "count": 33
   },
   {
+    "name": "rule-of-law",
+    "count": 33
+  },
+  {
     "name": "executive-overreach",
     "count": 33
   },
@@ -192,8 +196,8 @@
     "count": 32
   },
   {
-    "name": "rule-of-law",
-    "count": 32
+    "name": "public-health",
+    "count": 31
   },
   {
     "name": "climate-denial",
@@ -216,10 +220,6 @@
     "count": 31
   },
   {
-    "name": "public-health",
-    "count": 30
-  },
-  {
     "name": "congressional-oversight",
     "count": 30
   },
@@ -240,6 +240,10 @@
     "count": 29
   },
   {
+    "name": "immigration",
+    "count": 29
+  },
+  {
     "name": "doj-weaponization",
     "count": 29
   },
@@ -248,7 +252,7 @@
     "count": 28
   },
   {
-    "name": "immigration",
+    "name": "voting-rights",
     "count": 28
   },
   {
@@ -256,7 +260,11 @@
     "count": 27
   },
   {
-    "name": "voting-rights",
+    "name": "press-freedom",
+    "count": 27
+  },
+  {
+    "name": "law-enforcement",
     "count": 27
   },
   {
@@ -269,10 +277,6 @@
   },
   {
     "name": "financial-capture",
-    "count": 26
-  },
-  {
-    "name": "press-freedom",
     "count": 26
   },
   {
@@ -289,10 +293,6 @@
   },
   {
     "name": "media-manipulation",
-    "count": 25
-  },
-  {
-    "name": "law-enforcement",
     "count": 25
   },
   {
@@ -480,6 +480,10 @@
     "count": 18
   },
   {
+    "name": "disinformation",
+    "count": 18
+  },
+  {
     "name": "ALEC",
     "count": 18
   },
@@ -544,15 +548,19 @@
     "count": 17
   },
   {
-    "name": "disinformation",
-    "count": 17
-  },
-  {
     "name": "palantir",
     "count": 17
   },
   {
+    "name": "political-retaliation",
+    "count": 17
+  },
+  {
     "name": "Republican Party",
+    "count": 17
+  },
+  {
+    "name": "gerrymandering",
     "count": 17
   },
   {
@@ -608,15 +616,7 @@
     "count": 16
   },
   {
-    "name": "political-retaliation",
-    "count": 16
-  },
-  {
     "name": "fbi",
-    "count": 16
-  },
-  {
-    "name": "gerrymandering",
     "count": 16
   },
   {
@@ -677,6 +677,10 @@
   },
   {
     "name": "amazon",
+    "count": 15
+  },
+  {
+    "name": "COVID-19",
     "count": 15
   },
   {
@@ -745,10 +749,6 @@
   },
   {
     "name": "First Impeachment",
-    "count": 14
-  },
-  {
-    "name": "COVID-19",
     "count": 14
   },
   {
@@ -1032,6 +1032,10 @@
     "count": 11
   },
   {
+    "name": "racial-discrimination",
+    "count": 11
+  },
+  {
     "name": "corporate-impunity",
     "count": 11
   },
@@ -1160,10 +1164,6 @@
     "count": 10
   },
   {
-    "name": "racial-discrimination",
-    "count": 10
-  },
-  {
     "name": "jeffrey-epstein",
     "count": 10
   },
@@ -1289,6 +1289,10 @@
   },
   {
     "name": "powell-memo",
+    "count": 9
+  },
+  {
+    "name": "censorship",
     "count": 9
   },
   {
@@ -1448,15 +1452,15 @@
     "count": 8
   },
   {
-    "name": "censorship",
-    "count": 8
-  },
-  {
     "name": "institutional-transformation",
     "count": 8
   },
   {
     "name": "abramoff",
+    "count": 8
+  },
+  {
+    "name": "journalism",
     "count": 8
   },
   {
@@ -1592,6 +1596,10 @@
     "count": 8
   },
   {
+    "name": "pardons",
+    "count": 8
+  },
+  {
     "name": "intelligence-operations",
     "count": 7
   },
@@ -1661,10 +1669,6 @@
   },
   {
     "name": "prison-industrial-complex",
-    "count": 7
-  },
-  {
-    "name": "journalism",
     "count": 7
   },
   {
@@ -1757,6 +1761,10 @@
   },
   {
     "name": "Sexual Abuse",
+    "count": 7
+  },
+  {
+    "name": "children",
     "count": 7
   },
   {
@@ -1868,10 +1876,6 @@
     "count": 7
   },
   {
-    "name": "pardons",
-    "count": 7
-  },
-  {
     "name": "blueprint",
     "count": 6
   },
@@ -1913,6 +1917,10 @@
   },
   {
     "name": "monopoly",
+    "count": 6
+  },
+  {
+    "name": "media",
     "count": 6
   },
   {
@@ -2061,10 +2069,6 @@
   },
   {
     "name": "Immigration",
-    "count": 6
-  },
-  {
-    "name": "children",
     "count": 6
   },
   {
@@ -2309,10 +2313,6 @@
   },
   {
     "name": "regulatory-rollback",
-    "count": 5
-  },
-  {
-    "name": "media",
     "count": 5
   },
   {
@@ -2700,6 +2700,10 @@
     "count": 5
   },
   {
+    "name": "ICE",
+    "count": 5
+  },
+  {
     "name": "social-security",
     "count": 5
   },
@@ -2721,6 +2725,14 @@
   },
   {
     "name": "DHS",
+    "count": 5
+  },
+  {
+    "name": "First-Amendment",
+    "count": 5
+  },
+  {
+    "name": "RFK-Jr",
     "count": 5
   },
   {
@@ -2985,6 +2997,10 @@
   },
   {
     "name": "sentencing",
+    "count": 4
+  },
+  {
+    "name": "Illinois",
     "count": 4
   },
   {
@@ -3512,7 +3528,7 @@
     "count": 4
   },
   {
-    "name": "ICE",
+    "name": "mortgage-fraud",
     "count": 4
   },
   {
@@ -3533,14 +3549,6 @@
   },
   {
     "name": "food-insecurity",
-    "count": 4
-  },
-  {
-    "name": "First-Amendment",
-    "count": 4
-  },
-  {
-    "name": "RFK-Jr",
     "count": 4
   },
   {
@@ -3996,15 +4004,15 @@
     "count": 3
   },
   {
-    "name": "Illinois",
-    "count": 3
-  },
-  {
     "name": "Surveillance State",
     "count": 3
   },
   {
     "name": "russian-investment",
+    "count": 3
+  },
+  {
+    "name": "vaccines",
     "count": 3
   },
   {
@@ -4756,15 +4764,15 @@
     "count": 3
   },
   {
+    "name": "Supreme-Court",
+    "count": 3
+  },
+  {
     "name": "historical-revisionism",
     "count": 3
   },
   {
     "name": "willful-disregard",
-    "count": 3
-  },
-  {
-    "name": "mortgage-fraud",
     "count": 3
   },
   {
@@ -4789,6 +4797,14 @@
   },
   {
     "name": "DOGE",
+    "count": 3
+  },
+  {
+    "name": "federal-overreach",
+    "count": 3
+  },
+  {
+    "name": "scientific-integrity",
     "count": 3
   },
   {
@@ -5708,6 +5724,10 @@
     "count": 2
   },
   {
+    "name": "Texas",
+    "count": 2
+  },
+  {
     "name": "Money Laundering",
     "count": 2
   },
@@ -5921,10 +5941,6 @@
   },
   {
     "name": "arizona",
-    "count": 2
-  },
-  {
-    "name": "vaccines",
     "count": 2
   },
   {
@@ -7876,7 +7892,7 @@
     "count": 2
   },
   {
-    "name": "Supreme-Court",
+    "name": "Voting-Rights-Act",
     "count": 2
   },
   {
@@ -7944,19 +7960,11 @@
     "count": 2
   },
   {
-    "name": "federal-overreach",
-    "count": 2
-  },
-  {
     "name": "corporate-favoritism",
     "count": 2
   },
   {
     "name": "AI-policy",
-    "count": 2
-  },
-  {
-    "name": "scientific-integrity",
     "count": 2
   },
   {
@@ -8205,6 +8213,10 @@
   },
   {
     "name": "extrajudicial-killing",
+    "count": 2
+  },
+  {
+    "name": "FDA",
     "count": 2
   },
   {
@@ -11213,10 +11225,6 @@
   },
   {
     "name": "displacement",
-    "count": 1
-  },
-  {
-    "name": "Texas",
     "count": 1
   },
   {
@@ -18996,10 +19004,6 @@
     "count": 1
   },
   {
-    "name": "Voting-Rights-Act",
-    "count": 1
-  },
-  {
     "name": "Racial-Justice",
     "count": 1
   },
@@ -20328,10 +20332,6 @@
     "count": 1
   },
   {
-    "name": "FDA",
-    "count": 1
-  },
-  {
     "name": "cancer-research",
     "count": 1
   },
@@ -20420,6 +20420,26 @@
     "count": 1
   },
   {
+    "name": "vaccine-safety",
+    "count": 1
+  },
+  {
+    "name": "FHFA",
+    "count": 1
+  },
+  {
+    "name": "GAO",
+    "count": 1
+  },
+  {
+    "name": "weaponized-prosecution",
+    "count": 1
+  },
+  {
+    "name": "Trump-loyalists",
+    "count": 1
+  },
+  {
     "name": "Letitia-James",
     "count": 1
   },
@@ -20433,6 +20453,74 @@
   },
   {
     "name": "attorney-general-abuse",
+    "count": 1
+  },
+  {
+    "name": "state-authority",
+    "count": 1
+  },
+  {
+    "name": "license-plates",
+    "count": 1
+  },
+  {
+    "name": "vehicle-laws",
+    "count": 1
+  },
+  {
+    "name": "Chicago",
+    "count": 1
+  },
+  {
+    "name": "impersonation",
+    "count": 1
+  },
+  {
+    "name": "Pentagon",
+    "count": 1
+  },
+  {
+    "name": "prior-restraint",
+    "count": 1
+  },
+  {
+    "name": "Hegseth",
+    "count": 1
+  },
+  {
+    "name": "Republican-Party",
+    "count": 1
+  },
+  {
+    "name": "mid-decade-redistricting",
+    "count": 1
+  },
+  {
+    "name": "congressional-districts",
+    "count": 1
+  },
+  {
+    "name": "January-6",
+    "count": 1
+  },
+  {
+    "name": "witness-intimidation",
+    "count": 1
+  },
+  {
+    "name": "stalking",
+    "count": 1
+  },
+  {
+    "name": "parole-violation",
+    "count": 1
+  },
+  {
+    "name": "Trump-pardons",
+    "count": 1
+  },
+  {
+    "name": "Congressional-security",
     "count": 1
   },
   {

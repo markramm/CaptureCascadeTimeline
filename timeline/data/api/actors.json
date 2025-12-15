@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 994
+    "count": 996
   },
   {
     "name": "Trump Administration",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Department of Justice",
-    "count": 185
+    "count": 187
   },
   {
     "name": "Elon Musk",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Department of Homeland Security",
-    "count": 47
+    "count": 48
   },
   {
     "name": "NSA",
@@ -85,7 +85,11 @@
   },
   {
     "name": "Barack Obama",
-    "count": 41
+    "count": 42
+  },
+  {
+    "name": "Department of Defense",
+    "count": 39
   },
   {
     "name": "Peter Thiel",
@@ -93,10 +97,6 @@
   },
   {
     "name": "Bill Clinton",
-    "count": 38
-  },
-  {
-    "name": "Department of Defense",
     "count": 38
   },
   {
@@ -220,15 +220,15 @@
     "count": 24
   },
   {
+    "name": "Letitia James",
+    "count": 24
+  },
+  {
     "name": "James Comey",
     "count": 23
   },
   {
     "name": "Boeing",
-    "count": 23
-  },
-  {
-    "name": "Letitia James",
     "count": 23
   },
   {
@@ -292,6 +292,10 @@
     "count": 20
   },
   {
+    "name": "Pete Hegseth",
+    "count": 20
+  },
+  {
     "name": "Justin Sun",
     "count": 20
   },
@@ -313,10 +317,6 @@
   },
   {
     "name": "Adam Schiff",
-    "count": 19
-  },
-  {
-    "name": "Pete Hegseth",
     "count": 19
   },
   {
@@ -560,6 +560,10 @@
     "count": 13
   },
   {
+    "name": "Supreme Court of the United States",
+    "count": 12
+  },
+  {
     "name": "Leonard Leo",
     "count": 12
   },
@@ -613,10 +617,6 @@
   },
   {
     "name": "United States",
-    "count": 11
-  },
-  {
-    "name": "Supreme Court of the United States",
     "count": 11
   },
   {
@@ -776,6 +776,10 @@
     "count": 9
   },
   {
+    "name": "Texas Legislature",
+    "count": 9
+  },
+  {
     "name": "Mary Matalin",
     "count": 9
   },
@@ -892,10 +896,6 @@
     "count": 8
   },
   {
-    "name": "Texas Legislature",
-    "count": 8
-  },
-  {
     "name": "FCC",
     "count": 8
   },
@@ -961,6 +961,10 @@
   },
   {
     "name": "Brendan Carr",
+    "count": 8
+  },
+  {
+    "name": "Robert F. Kennedy Jr.",
     "count": 8
   },
   {
@@ -1153,10 +1157,6 @@
   },
   {
     "name": "Juan Merchan",
-    "count": 7
-  },
-  {
-    "name": "Robert F. Kennedy Jr.",
     "count": 7
   },
   {
@@ -1425,6 +1425,10 @@
   },
   {
     "name": "Palantir",
+    "count": 6
+  },
+  {
+    "name": "Greg Abbott",
     "count": 6
   },
   {
@@ -1764,10 +1768,6 @@
     "count": 5
   },
   {
-    "name": "Greg Abbott",
-    "count": 5
-  },
-  {
     "name": "Cantor Fitzgerald",
     "count": 5
   },
@@ -1805,6 +1805,10 @@
   },
   {
     "name": "Ed Martin",
+    "count": 5
+  },
+  {
+    "name": "NPR",
     "count": 5
   },
   {
@@ -2388,10 +2392,6 @@
     "count": 4
   },
   {
-    "name": "NPR",
-    "count": 4
-  },
-  {
     "name": "U.S. District Judge James Boasberg",
     "count": 4
   },
@@ -2605,6 +2605,10 @@
   },
   {
     "name": "Arthur Levitt",
+    "count": 3
+  },
+  {
+    "name": "Senate Democrats",
     "count": 3
   },
   {
@@ -3616,7 +3620,15 @@
     "count": 3
   },
   {
+    "name": "Government Accountability Office (GAO)",
+    "count": 3
+  },
+  {
     "name": "ICE (Immigration and Customs Enforcement)",
+    "count": 3
+  },
+  {
+    "name": "PBS",
     "count": 3
   },
   {
@@ -3649,6 +3661,10 @@
   },
   {
     "name": "Harvard University",
+    "count": 3
+  },
+  {
+    "name": "Bill Pulte",
     "count": 3
   },
   {
@@ -4085,10 +4101,6 @@
   },
   {
     "name": "U.S. Treasury",
-    "count": 2
-  },
-  {
-    "name": "Senate Democrats",
     "count": 2
   },
   {
@@ -5992,6 +6004,10 @@
     "count": 2
   },
   {
+    "name": "Justice Elena Kagan",
+    "count": 2
+  },
+  {
     "name": "Justice Ketanji Brown Jackson",
     "count": 2
   },
@@ -6468,6 +6484,10 @@
     "count": 2
   },
   {
+    "name": "Rep. Jamie Raskin",
+    "count": 2
+  },
+  {
     "name": "Bono",
     "count": 2
   },
@@ -6492,11 +6512,11 @@
     "count": 2
   },
   {
-    "name": "Government Accountability Office (GAO)",
+    "name": "Florida Division of Emergency Management",
     "count": 2
   },
   {
-    "name": "Florida Division of Emergency Management",
+    "name": "Federal Housing Finance Agency (FHFA)",
     "count": 2
   },
   {
@@ -6513,10 +6533,6 @@
   },
   {
     "name": "American Foreign Service Association",
-    "count": 2
-  },
-  {
-    "name": "PBS",
     "count": 2
   },
   {
@@ -6605,10 +6621,6 @@
   },
   {
     "name": "U.S. Court of Appeals for the Federal Circuit",
-    "count": 2
-  },
-  {
-    "name": "Bill Pulte",
     "count": 2
   },
   {
@@ -6713,6 +6725,10 @@
   },
   {
     "name": "USCIS",
+    "count": 2
+  },
+  {
+    "name": "The New York Times",
     "count": 2
   },
   {
@@ -14156,10 +14172,6 @@
     "count": 1
   },
   {
-    "name": "Justice Elena Kagan",
-    "count": 1
-  },
-  {
     "name": "Pentagon AI Procurement Office",
     "count": 1
   },
@@ -16984,10 +16996,6 @@
     "count": 1
   },
   {
-    "name": "Rep. Jamie Raskin",
-    "count": 1
-  },
-  {
     "name": "Congressmen Sean Casten",
     "count": 1
   },
@@ -17313,10 +17321,6 @@
   },
   {
     "name": "Freddie Mac",
-    "count": 1
-  },
-  {
-    "name": "Federal Housing Finance Agency (FHFA)",
     "count": 1
   },
   {
@@ -19312,10 +19316,6 @@
     "count": 1
   },
   {
-    "name": "The New York Times",
-    "count": 1
-  },
-  {
     "name": "Politico",
     "count": 1
   },
@@ -19496,6 +19496,34 @@
     "count": 1
   },
   {
+    "name": "Dr. Vinay Prasad",
+    "count": 1
+  },
+  {
+    "name": "FDA Center for Biologics Evaluation and Research (CBER)",
+    "count": 1
+  },
+  {
+    "name": "FDA Commissioner Martin Makary",
+    "count": 1
+  },
+  {
+    "name": "FDA Scientists",
+    "count": 1
+  },
+  {
+    "name": "Sen. Adam Schiff",
+    "count": 1
+  },
+  {
+    "name": "Federal Reserve Gov. Lisa Cook",
+    "count": 1
+  },
+  {
+    "name": "Rep. Eric Swalwell",
+    "count": 1
+  },
+  {
     "name": "Norfolk Virginia Grand Jury",
     "count": 1
   },
@@ -19505,6 +19533,62 @@
   },
   {
     "name": "Anthony G. Brown",
+    "count": 1
+  },
+  {
+    "name": "Alexi Giannoulias",
+    "count": 1
+  },
+  {
+    "name": "Immigration and Customs Enforcement (ICE)",
+    "count": 1
+  },
+  {
+    "name": "Gov. JB Pritzker",
+    "count": 1
+  },
+  {
+    "name": "Enterprise Rent-A-Car",
+    "count": 1
+  },
+  {
+    "name": "Illinois Secretary of State",
+    "count": 1
+  },
+  {
+    "name": "Theodore J. Boutrous Jr.",
+    "count": 1
+  },
+  {
+    "name": "Pentagon Press Corps",
+    "count": 1
+  },
+  {
+    "name": "League of United Latin American Citizens (LULAC)",
+    "count": 1
+  },
+  {
+    "name": "Texas NAACP",
+    "count": 1
+  },
+  {
+    "name": "Rep. Al Green",
+    "count": 1
+  },
+  {
+    "name": "Rep. Jasmine Crockett",
+    "count": 1
+  },
+  {
+    "name": "U.S. District Judge Jeffrey Brown",
+    "count": 1
+  },
+  {
+    "name": "Taylor Taranto",
+    "count": 1
+  },
+  {
+    "name": "U.S. Capitol Police",
     "count": 1
   },
   {

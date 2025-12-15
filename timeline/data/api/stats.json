@@ -1,15 +1,15 @@
 {
-  "total_events": 2954,
-  "total_tags": 5164,
-  "total_actors": 4957,
-  "total_sources": 9865,
+  "total_events": 2960,
+  "total_tags": 5186,
+  "total_actors": 4978,
+  "total_sources": 9907,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
   },
   "status_counts": {
     "unknown": 885,
-    "confirmed": 2019,
+    "confirmed": 2025,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -25,7 +25,7 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 394
+      "count": 396
     },
     {
       "name": "institutional-capture",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 994
+      "count": 996
     },
     {
       "name": "Trump Administration",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Department of Justice",
-      "count": 185
+      "count": 187
     },
     {
       "name": "Elon Musk",
@@ -106,5 +106,5 @@
       "count": 54
     }
   ],
-  "generated": "2025-12-15T10:02:59.805573"
+  "generated": "2025-12-15T10:17:30.875755"
 }
