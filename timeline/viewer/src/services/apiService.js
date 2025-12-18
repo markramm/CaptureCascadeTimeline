@@ -22,7 +22,7 @@ apiClient.interceptors.response.use(
   (response) => response,
   (error) => {
     console.error('API Error:', error);
-    
+
     // Enhance error with context
     if (error.response) {
       // Server responded with error status
@@ -38,7 +38,7 @@ apiClient.interceptors.response.use(
         url: error.config?.url,
       };
     }
-    
+
     return Promise.reject(error);
   }
 );
@@ -135,9 +135,11 @@ export const timelineEventsAPI = {
   } = {}) {
     if (!USE_LIVE_API) {
       // Fallback: client-side search on static data
-      const allEvents = await this.getEvents();
+      const response = await this.getEvents();
+      const allEvents = Array.isArray(response) ? response : (response.events || []);
+
       return {
-        events: allEvents.events?.filter(event => 
+        events: allEvents.filter(event =>
           event.title?.toLowerCase().includes(q.toLowerCase()) ||
           event.summary?.toLowerCase().includes(q.toLowerCase())
         ).slice(offset, offset + limit) || [],
@@ -438,11 +440,11 @@ const apiService = {
   visualization: visualizationAPI,
   stats: statisticsAPI,
   system: systemAPI,
-  
+
   // Configuration helpers
   isLiveMode: () => USE_LIVE_API,
   getApiEndpoints: () => API_ENDPOINTS,
-  
+
   // Health check
   async checkConnection() {
     try {

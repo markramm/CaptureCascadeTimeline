@@ -13,6 +13,13 @@ const SearchBar = ({ value, onChange, placeholder }) => {
     return () => clearTimeout(timer);
   }, [localValue, onChange]);
 
+  // Sync with parent when cleared externally
+  useEffect(() => {
+    if (value === '' && localValue !== '') {
+      setLocalValue('');
+    }
+  }, [value]);
+
   return (
     <div className="search-bar">
       <Search className="search-icon" size={18} />

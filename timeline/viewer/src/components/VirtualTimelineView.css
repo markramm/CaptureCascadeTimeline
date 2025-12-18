@@ -45,9 +45,59 @@
 }
 
 .virtual-timeline-empty {
-  padding: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  padding: 2rem;
+  color: #94a3b8;
+}
+
+.empty-state-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-  color: #6c757d;
+  max-width: 400px;
+  gap: 1rem;
+}
+
+.empty-state-icon {
+  color: #64748b;
+  margin-bottom: 0.5rem;
+}
+
+.virtual-timeline-empty h3 {
+  color: #e2e8f0;
+  font-size: 1.25rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.virtual-timeline-empty p {
+  color: #94a3b8;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.clear-filters-button {
+  margin-top: 1rem;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 0.9375rem;
+}
+
+.clear-filters-button:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
 }
 
 .spinner {
@@ -61,8 +111,13 @@
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 .text-muted {
@@ -243,12 +298,10 @@
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(255, 255, 255, 0.5),
-    transparent
-  );
+  background: linear-gradient(90deg,
+      transparent,
+      rgba(255, 255, 255, 0.5),
+      transparent);
   animation: shimmer 1.5s infinite;
 }
 

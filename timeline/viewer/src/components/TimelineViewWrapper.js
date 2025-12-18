@@ -25,7 +25,9 @@ const TimelineViewWrapper = ({
   onTimelineControlsChange,
   searchQuery,
   dateRange,
-  minImportance
+  minImportance,
+  onFilteredCountChange,
+  onClearFilters
 }) => {
   const useIndexedDB = FEATURE_FLAGS.USE_INDEXED_DB;
 
@@ -79,6 +81,8 @@ const TimelineViewWrapper = ({
       searchQuery={searchQuery}
       sortBy="date"
       sortOrder={sortOrder === 'chronological' ? 'asc' : 'desc'}
+      onFilteredCountChange={onFilteredCountChange}
+      onClearFilters={onClearFilters}
     />
   );
 };

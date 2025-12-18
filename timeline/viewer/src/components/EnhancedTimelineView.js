@@ -47,7 +47,7 @@ const EnhancedTimelineView = ({
   const [expandedEvents, setExpandedEvents] = useState(new Set());
   const [bookmarkedEvents, setBookmarkedEvents] = useState(new Set());
   const [stickyYear, setStickyYear] = useState(null);
-  
+
   // Use controls from props
   const { compactMode, showMinimap } = timelineControls || {
     compactMode: 'medium',
@@ -58,8 +58,8 @@ const EnhancedTimelineView = ({
   useEffect(() => {
     const handleKeyPress = (e) => {
       if (e.target.tagName === 'INPUT') return;
-      
-      switch(e.key) {
+
+      switch (e.key) {
         case 'ArrowDown':
         case 'j':
           navigateToNextEvent();
@@ -89,7 +89,7 @@ const EnhancedTimelineView = ({
             if (compactMode === 'none') nextMode = 'low';
             if (compactMode === 'low') nextMode = 'medium';
             if (compactMode === 'medium') nextMode = 'all';
-            
+
             onTimelineControlsChange({
               ...timelineControls,
               compactMode: nextMode
@@ -115,7 +115,7 @@ const EnhancedTimelineView = ({
       const year = event.date?.substring(0, 4) || 'Unknown';
       const month = event.date?.substring(5, 7) || '01';
       // const key = `${year}-${month}`;
-      
+
       if (!groups[year]) {
         groups[year] = {};
       }
@@ -140,9 +140,9 @@ const EnhancedTimelineView = ({
   };
 
   const scrollToBottom = () => {
-    timelineRef.current?.scrollTo({ 
-      top: timelineRef.current.scrollHeight, 
-      behavior: 'smooth' 
+    timelineRef.current?.scrollTo({
+      top: timelineRef.current.scrollHeight,
+      behavior: 'smooth'
     });
   };
 
@@ -169,14 +169,14 @@ const EnhancedTimelineView = ({
   useEffect(() => {
     const handleScroll = () => {
       if (!timelineRef.current) return;
-      
+
       // const scrollTop = timelineRef.current.scrollTop;
       const yearElements = timelineRef.current.querySelectorAll('.year-group');
-      
+
       for (const yearEl of yearElements) {
         const rect = yearEl.getBoundingClientRect();
         const containerRect = timelineRef.current.getBoundingClientRect();
-        
+
         if (rect.top <= containerRect.top + 60 && rect.bottom > containerRect.top + 60) {
           const year = yearEl.getAttribute('data-year');
           setStickyYear(year);
@@ -192,8 +192,8 @@ const EnhancedTimelineView = ({
 
   // Render based on view mode
   if (viewMode === 'list') {
-    return <EnhancedListView 
-      events={processedEvents} 
+    return <EnhancedListView
+      events={processedEvents}
       onEventClick={onEventClick}
       bookmarkedEvents={bookmarkedEvents}
       onBookmark={handleBookmark}
@@ -202,8 +202,8 @@ const EnhancedTimelineView = ({
   }
 
   if (viewMode === 'grid') {
-    return <EnhancedGridView 
-      events={processedEvents} 
+    return <EnhancedGridView
+      events={processedEvents}
       onEventClick={onEventClick}
       bookmarkedEvents={bookmarkedEvents}
       onBookmark={handleBookmark}
@@ -223,7 +223,7 @@ const EnhancedTimelineView = ({
 
       {/* Main Timeline Content */}
       <div className="timeline-scroll-container" ref={timelineRef}>
-        <div 
+        <div
           className="timeline-content"
           style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top left' }}
         >
@@ -286,12 +286,12 @@ const EnhancedTimelineView = ({
   );
 };
 
-const EnhancedYearGroup = ({ 
-  year, 
+const EnhancedYearGroup = ({
+  year,
   months,
   sortOrder,
-  onEventClick, 
-  onTagClick, 
+  onEventClick,
+  onTagClick,
   onActorClick,
   selectedTags,
   selectedActors,
@@ -301,7 +301,7 @@ const EnhancedYearGroup = ({
   onBookmark,
   onShare,
   compactMode,
-  onVisible 
+  onVisible
 }) => {
   const { ref, inView } = useInView({
     threshold: 0.1,
@@ -327,7 +327,7 @@ const EnhancedYearGroup = ({
           </span>
         </div>
       </div>
-      
+
       {Object.entries(months)
         .sort(([a], [b]) => {
           // Sort months based on sortOrder
@@ -343,10 +343,10 @@ const EnhancedYearGroup = ({
               {safeFormat(`${year}-${month}-01`, 'MMMM')}
               <span className="month-count">({monthEvents.length})</span>
             </h4>
-            
+
             <div className="month-timeline">
               <div className="timeline-line" />
-              
+
               {monthEvents.map((event, index) => (
                 <EnhancedTimelineEvent
                   key={event.id}
@@ -384,11 +384,11 @@ const EnhancedYearGroup = ({
   );
 };
 
-const EnhancedTimelineEvent = ({ 
-  event, 
-  index, 
-  onClick, 
-  onTagClick, 
+const EnhancedTimelineEvent = ({
+  event,
+  index,
+  onClick,
+  onTagClick,
   onActorClick,
   isHighlighted,
   isExpanded,
@@ -400,7 +400,7 @@ const EnhancedTimelineEvent = ({
 }) => {
   const side = index % 2 === 0 ? 'left' : 'right';
   const importance = event.importance || 5;
-  
+
   // const getStatusColor = (status) => {
   //   switch(status) {
   //     case 'confirmed': return '#10b981';
@@ -442,18 +442,18 @@ const EnhancedTimelineEvent = ({
     (compactMode === 'medium' && importance <= 7) ||
     (compactMode === 'low' && importance <= 5)
   );
-  
+
   if (shouldBeCompact) { // Show compact based on mode and importance
     // Compact mode for less important events
     return (
-      <div 
+      <div
         className={`timeline-event compact ${side} ${isHighlighted ? 'highlighted' : ''}`}
         id={`event-${event.id}`}
       >
         <div className="event-connector" />
-        <div 
+        <div
           className="event-dot"
-          style={{ 
+          style={{
             backgroundColor: getImportanceColor(importance),
             width: `${8 + importance}px`,
             height: `${8 + importance}px`
@@ -462,15 +462,15 @@ const EnhancedTimelineEvent = ({
         <div className="compact-event-card" style={{
           borderLeft: `3px solid ${getImportanceColor(importance)}`
         }}
-        onClick={(e) => {
-          e.stopPropagation();
-          // If already expanded, open full details; otherwise expand
-          if (isExpanded) {
-            onClick();
-          } else {
-            onToggleExpand();
-          }
-        }}>
+          onClick={(e) => {
+            e.stopPropagation();
+            // If already expanded, open full details; otherwise expand
+            if (isExpanded) {
+              onClick();
+            } else {
+              onToggleExpand();
+            }
+          }}>
           <span className="compact-date">
             {safeFormat(event.date, 'MMM d')}
           </span>
@@ -485,14 +485,14 @@ const EnhancedTimelineEvent = ({
               ))}
             </span>
           )}
-          <span className="importance-badge" style={{ 
+          <span className="importance-badge" style={{
             color: getImportanceColor(importance),
             fontWeight: '600'
           }}>
             {importance}
           </span>
           {isExpanded && (
-            <button 
+            <button
               className="view-details-btn"
               onClick={(e) => {
                 e.stopPropagation();
@@ -518,19 +518,19 @@ const EnhancedTimelineEvent = ({
       layout
     >
       <div className="event-connector" />
-      <div 
+      <div
         className="event-dot"
-        style={{ 
+        style={{
           backgroundColor: getImportanceColor(importance),
           width: `${12 + importance * 2}px`,
           height: `${12 + importance * 2}px`,
           boxShadow: importance >= 8 ? `0 0 20px ${getImportanceColor(importance)}` : 'none'
         }}
       />
-      
-      <div 
+
+      <div
         className="event-card"
-        style={{ 
+        style={{
           borderLeft: `4px solid ${getImportanceColor(importance)}`,
           borderColor: isHighlighted ? '#3b82f6' : getImportanceColor(importance)
         }}
@@ -549,7 +549,7 @@ const EnhancedTimelineEvent = ({
             {event.tags && event.tags.length > 0 && (
               <div className="event-tags-inline">
                 {event.tags.slice(0, 2).map(tag => (
-                  <span 
+                  <span
                     key={tag}
                     className="tag-chip-inline"
                     onClick={(e) => {
@@ -566,9 +566,9 @@ const EnhancedTimelineEvent = ({
               </div>
             )}
           </div>
-          
+
           <div className="event-actions">
-            <button 
+            <button
               className={`action-button ${isBookmarked ? 'active' : ''}`}
               onClick={(e) => {
                 e.stopPropagation();
@@ -578,7 +578,7 @@ const EnhancedTimelineEvent = ({
             >
               <Bookmark size={14} />
             </button>
-            <button 
+            <button
               className="action-button"
               onClick={(e) => {
                 e.stopPropagation();
@@ -590,15 +590,15 @@ const EnhancedTimelineEvent = ({
             </button>
           </div>
         </div>
-        
+
         <h4 className="event-title" onClick={onClick}>
           {event.title}
         </h4>
-        
+
         <p className="event-summary">
           {isExpanded ? event.summary : `${event.summary?.substring(0, 300)}...`}
         </p>
-        
+
         {isExpanded && (
           <AnimatePresence>
             <motion.div
@@ -613,13 +613,13 @@ const EnhancedTimelineEvent = ({
                   {event.location}
                 </div>
               )}
-              
+
               {event.actors && event.actors.length > 0 && (
                 <div className="event-actors">
                   <Users size={14} />
                   <div className="actor-list">
                     {event.actors.map(actor => (
-                      <span 
+                      <span
                         key={actor}
                         className="actor-chip"
                         onClick={(e) => {
@@ -633,7 +633,7 @@ const EnhancedTimelineEvent = ({
                   </div>
                 </div>
               )}
-              
+
               {event.sources && event.sources.length > 0 && (
                 <div className="event-sources">
                   <ExternalLink size={14} />
@@ -661,7 +661,7 @@ const EnhancedTimelineEvent = ({
                   </div>
                 </div>
               )}
-              
+
               {event.monitoring_status && (
                 <div className="monitoring-status">
                   <AlertCircle size={14} />
@@ -671,8 +671,8 @@ const EnhancedTimelineEvent = ({
             </motion.div>
           </AnimatePresence>
         )}
-        
-        <button 
+
+        <button
           className="expand-button"
           onClick={(e) => {
             e.stopPropagation();
@@ -867,11 +867,11 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
           }}>
             {event.importance || 5}
           </div>
-          
+
           <div className="list-item-date">
             {safeFormat(event.date, 'MMM d, yyyy')}
           </div>
-          
+
           <div className="list-item-content" onClick={() => onEventClick(event)}>
             <h4>{event.title}</h4>
             {!compactMode && (
@@ -888,8 +888,8 @@ const EnhancedListView = ({ events, onEventClick, bookmarkedEvents, onBookmark, 
               )}
             </div>
           </div>
-          
-          <button 
+
+          <button
             className={`bookmark-button ${bookmarkedEvents.has(event.id) ? 'active' : ''}`}
             onClick={() => onBookmark(event.id)}
           >
@@ -911,8 +911,8 @@ const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark }
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
           whileHover={{ scale: 1.05 }}
-          style={{ 
-            borderTop: `4px solid ${getImportanceColor(event.importance || 5)}` 
+          style={{
+            borderTop: `4px solid ${getImportanceColor(event.importance || 5)}`
           }}
         >
           <div className="grid-card-header">
@@ -928,15 +928,15 @@ const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark }
               </span>
             </div>
           </div>
-          
+
           <h4 className="grid-title" onClick={() => onEventClick(event)}>
             {event.title}
           </h4>
-          
+
           <p className="grid-summary">
             {event.summary?.substring(0, 100)}...
           </p>
-          
+
           {event.actors && (
             <div className="grid-actors">
               {event.actors.slice(0, 3).map(actor => (
@@ -947,9 +947,9 @@ const EnhancedGridView = ({ events, onEventClick, bookmarkedEvents, onBookmark }
               )}
             </div>
           )}
-          
+
           <div className="grid-actions">
-            <button 
+            <button
               className={`bookmark-button ${bookmarkedEvents.has(event.id) ? 'active' : ''}`}
               onClick={() => onBookmark(event.id)}
             >

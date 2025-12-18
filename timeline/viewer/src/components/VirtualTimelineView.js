@@ -7,6 +7,7 @@
 
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { FixedSizeList as List } from 'react-window';
+import { FilterX } from 'lucide-react';
 import useIndexedDB from '../hooks/useIndexedDB';
 import './VirtualTimelineView.css';
 
@@ -18,7 +19,9 @@ const VirtualTimelineView = ({
   onEventSelect,
   searchQuery = '',
   sortBy = 'date',
-  sortOrder = 'desc'
+  sortOrder = 'desc',
+  onFilteredCountChange,
+  onClearFilters
 }) => {
   const {
     isReady,
@@ -54,6 +57,11 @@ const VirtualTimelineView = ({
         // Get total count
         const count = await getEventCount(effectiveFilters);
         setTotalCount(count);
+
+        // Notify parent of total count
+        if (onFilteredCountChange) {
+          onFilteredCountChange(count);
+        }
 
         // Load first page
         const results = await getEvents({
@@ -200,7 +208,16 @@ const VirtualTimelineView = ({
   if (totalCount === 0) {
     return (
       <div className="virtual-timeline-empty">
-        <p>No events found matching your filters.</p>
+        <div className="empty-state-content">
+          <FilterX size={48} className="empty-state-icon" />
+          <h3>No events found</h3>
+          <p>Try adjusting your search or filters to see more results.</p>
+          {onClearFilters && (
+            <button onClick={onClearFilters} className="clear-filters-button">
+              Clear all filters
+            </button>
+          )}
+        </div>
       </div>
     );
   }

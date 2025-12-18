@@ -5,6 +5,7 @@ import NavigationBar from './components/NavigationBar';
 import TimelineViewWrapper from './components/TimelineViewWrapper';
 import FilterPanel from './components/FilterPanel';
 import EventDetails from './components/EventDetails';
+import AboutOverlay from './components/AboutOverlay';
 import StatsPanel from './components/StatsPanel';
 import SearchBar from './components/SearchBar';
 import ViewToggle from './components/ViewToggle';
@@ -32,7 +33,7 @@ import './App.css';
 function App() {
   // URL state management
   const { urlState, updateUrl } = useUrlState();
-  
+
   // State management
   const [events, setEvents] = useState([]);
   const [filteredEvents, setFilteredEvents] = useState([]);
@@ -41,7 +42,9 @@ function App() {
   const [error, setError] = useState(null);
   const [showLanding, setShowLanding] = useState(false);
   const [shareNotification, setShareNotification] = useState(null);
-  
+  const [filteredCount, setFilteredCount] = useState(0);
+  const [showAbout, setShowAbout] = useState(false);
+
   // Filter states - initialize from URL or defaults
   const [selectedTags, setSelectedTags] = useState([]);
   const [selectedActors, setSelectedActors] = useState([]);
@@ -51,23 +54,32 @@ function App() {
   const [viewMode, setViewMode] = useState('timeline');
   const [sortOrder, setSortOrder] = useState('newest');
   const [minImportance, setMinImportance] = useState(0);
-  
+
   // UI states - initialize from URL or defaults
   const [showFilters, setShowFilters] = useState(true);
   const [showStats, setShowStats] = useState(false);
   const [zoomLevel, setZoomLevel] = useState(1);
   const [refreshing, setRefreshing] = useState(false);
-  
+
   // Timeline view controls - initialize from URL or defaults
   const [timelineControls, setTimelineControls] = useState({
     compactMode: 'medium',
     showMinimap: true
   });
-  
+
+  // Graph view controls
+  const [graphControls, setGraphControls] = useState({
+    layout: 'force',
+    connectionStrength: 0,
+    showMetrics: false,
+    maxNodes: 200,
+    showLabels: true
+  });
+
   // Auto-refresh functionality
   const [autoRefresh, setAutoRefresh] = useState(false);
   const refreshIntervalRef = useRef(null);
-  
+
   // Metadata
   const [allTags, setAllTags] = useState([]);
   const [allActors, setAllActors] = useState([]);
@@ -93,7 +105,7 @@ function App() {
       setShowFilters(urlState.showFilters !== false);
       setShowStats(urlState.showStats || false);
       setShowLanding(urlState.showLanding || false);
-      
+
       // Handle deep link to specific event
       if (urlState.selectedEventId && events.length > 0) {
         const event = events.find(e => e.id === urlState.selectedEventId);
@@ -284,7 +296,7 @@ function App() {
 
         // Apply capture lanes filter client-side (not in API v2)
         if (selectedCaptureLanes.length > 0) {
-          filtered = filtered.filter(event => 
+          filtered = filtered.filter(event =>
             event.capture_lanes && Array.isArray(event.capture_lanes) && selectedCaptureLanes.some(lane => event.capture_lanes.includes(lane))
           );
         }
@@ -320,10 +332,15 @@ function App() {
         }
 
         setFilteredEvents(sorted);
+        // In legacy mode (or when API returns full list), update count directly
+        if (filtered.length > 0 || !searchQuery) {
+          setFilteredCount(filtered.length);
+        }
       } catch (error) {
         console.error('Error applying filters:', error);
         // Fallback to client-side filtering if API fails
         setFilteredEvents(events);
+        setFilteredCount(events.length);
       }
     };
 
@@ -340,13 +357,13 @@ function App() {
   }, []);
 
   const handleTagClick = useCallback((tag) => {
-    const newTags = selectedTags.includes(tag) 
+    const newTags = selectedTags.includes(tag)
       ? selectedTags.filter(t => t !== tag)
       : [...selectedTags, tag];
-    
+
     setSelectedTags(newTags);
     trackFilter('tag', tag);
-    
+
     // Update URL with new tags
     if (updateUrl) {
       updateUrl({
@@ -368,9 +385,9 @@ function App() {
     const newActors = selectedActors.includes(actor)
       ? selectedActors.filter(a => a !== actor)
       : [...selectedActors, actor];
-    
+
     setSelectedActors(newActors);
-    
+
     // Update URL with new actors
     if (updateUrl) {
       updateUrl({
@@ -392,9 +409,9 @@ function App() {
     const newLanes = selectedCaptureLanes.includes(lane)
       ? selectedCaptureLanes.filter(l => l !== lane)
       : [...selectedCaptureLanes, lane];
-    
+
     setSelectedCaptureLanes(newLanes);
-    
+
     // Update URL with new capture lanes
     if (updateUrl) {
       updateUrl({
@@ -411,7 +428,7 @@ function App() {
       });
     }
   }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
-  
+
   const handleTimelineControlsChange = useCallback((newControls) => {
     setTimelineControls(newControls);
     // Update URL with new timeline controls
@@ -449,7 +466,7 @@ function App() {
       showFilters,
       showStats
     };
-    
+
     setSelectedCaptureLanes(defaultState.selectedCaptureLanes);
     setSelectedTags(defaultState.selectedTags);
     setSelectedActors(defaultState.selectedActors);
@@ -458,12 +475,16 @@ function App() {
     setSortOrder(defaultState.sortOrder);
     setMinImportance(defaultState.minImportance);
     setTimelineControls(defaultState.timelineControls);
-    
+
     // Update URL to reflect cleared state
     if (updateUrl) {
       updateUrl(defaultState);
     }
   }, [updateUrl, viewMode, zoomLevel, showFilters, showStats]);
+
+  const handleFilteredCountChange = useCallback((count) => {
+    setFilteredCount(count);
+  }, []);
 
   // Compute timeline groups for better visualization
   const timelineGroups = useMemo(() => {
@@ -508,12 +529,12 @@ function App() {
       searchQuery,
       viewMode
     });
-    
+
     if (result.success) {
       setShareNotification({
         type: 'success',
-        message: result.method === 'clipboard' 
-          ? 'Link copied to clipboard!' 
+        message: result.method === 'clipboard'
+          ? 'Link copied to clipboard!'
           : 'Event shared successfully!'
       });
       setTimeout(() => setShareNotification(null), 3000);
@@ -536,12 +557,12 @@ function App() {
       searchQuery,
       viewMode
     });
-    
+
     if (result.success) {
       setShareNotification({
         type: 'success',
-        message: result.method === 'clipboard' 
-          ? 'Link copied to clipboard!' 
+        message: result.method === 'clipboard'
+          ? 'Link copied to clipboard!'
           : 'View shared successfully!'
       });
       setTimeout(() => setShareNotification(null), 3000);
@@ -583,7 +604,7 @@ function App() {
 
   return (
     <div className="app">
-      <NavigationBar />
+      <NavigationBar onAboutClick={() => setShowAbout(true)} />
 
       {/* Share notification */}
       {shareNotification && (
@@ -592,9 +613,10 @@ function App() {
         </div>
       )}
 
+
       <header className="app-header">
         <div className="header-content">
-          <h1 
+          <h1
             onClick={() => setShowLanding(true)}
             style={{ cursor: 'pointer' }}
             title="Return to landing page"
@@ -603,9 +625,9 @@ function App() {
           </h1>
           <p className="subtitle">Tracking Patterns of Democratic Degradation</p>
         </div>
-        
+
         <div className="header-controls">
-          <SearchBar 
+          <SearchBar
             value={searchQuery}
             onChange={(newQuery) => {
               setSearchQuery(newQuery);
@@ -626,16 +648,16 @@ function App() {
             }}
             placeholder="Search events, actors, tags..."
           />
-          
+
           <div className="header-buttons">
-            <button 
+            <button
               className={`icon-button ${showFilters ? 'active' : ''}`}
               onClick={() => setShowFilters(!showFilters)}
               title="Toggle Filters"
             >
               <Filter size={20} />
             </button>
-            
+
             <button
               className={`icon-button ${showStats ? 'active' : ''}`}
               onClick={() => setShowStats(!showStats)}
@@ -644,7 +666,7 @@ function App() {
               <BarChart3 size={20} />
             </button>
 
-            <button 
+            <button
               className="icon-button"
               onClick={() => {
                 navigator.clipboard.writeText(window.location.href);
@@ -655,8 +677,8 @@ function App() {
             >
               <Share2 size={20} />
             </button>
-            
-            <button 
+
+            <button
               className={`icon-button ${refreshing ? 'spinning' : ''}`}
               onClick={handleRefresh}
               disabled={refreshing}
@@ -664,8 +686,8 @@ function App() {
             >
               <RefreshCw size={20} />
             </button>
-            
-            <button 
+
+            <button
               className={`icon-button ${autoRefresh ? 'active' : ''}`}
               onClick={() => setAutoRefresh(!autoRefresh)}
               title={autoRefresh ? 'Disable auto-refresh' : 'Enable auto-refresh (30s)'}
@@ -673,20 +695,20 @@ function App() {
               <RefreshCw size={20} />
               {autoRefresh && <span className="auto-indicator">AUTO</span>}
             </button>
-            
-            <DownloadMenu 
+
+            <DownloadMenu
               onDownload={(format) => {
                 trackEvent(AnalyticsEvents.EXPORT_DATA, { format });
-                setShareNotification({ 
-                  message: `Timeline exported as ${format.toUpperCase()}`, 
-                  type: 'success' 
+                setShareNotification({
+                  message: `Timeline exported as ${format.toUpperCase()}`,
+                  type: 'success'
                 });
                 setTimeout(() => setShareNotification(null), 3000);
               }}
             />
           </div>
-          
-          <button 
+
+          <button
             className="share-view-button"
             onClick={handleShareView}
             title="Share current view"
@@ -694,7 +716,7 @@ function App() {
             <Share2 size={18} />
             <span>Share View</span>
           </button>
-          
+
           <button
             className="submit-event-button"
             onClick={() => openGitHub(createNewEventIssue())}
@@ -703,8 +725,8 @@ function App() {
             <Plus size={18} />
             <span>Submit Event</span>
           </button>
-          
-          <ViewToggle 
+
+          <ViewToggle
             currentView={viewMode}
             onViewChange={(newViewMode) => {
               setViewMode(newViewMode);
@@ -730,7 +752,7 @@ function App() {
       <div className="app-body">
         <AnimatePresence>
           {showFilters && (
-            <motion.aside 
+            <motion.aside
               className="sidebar filter-sidebar"
               initial={{ x: -300 }}
               animate={{ x: 0 }}
@@ -819,8 +841,8 @@ function App() {
                   }
                 }}
                 onClear={clearFilters}
-                eventCount={events.length > 0 ? filteredEvents.length : (stats?.total_events || 0)}
-                totalCount={events.length > 0 ? events.length : (stats?.total_events || 0)}
+                eventCount={loading ? 0 : filteredCount}
+                totalCount={loading ? 0 : (events.length > 0 ? events.length : (stats?.total_events || 0))}
                 viewMode={viewMode}
                 timelineControls={timelineControls}
                 onTimelineControlsChange={handleTimelineControlsChange}
@@ -835,7 +857,7 @@ function App() {
                       const afterDate = new Date(targetDate);
                       beforeDate.setMonth(beforeDate.getMonth() - 3);
                       afterDate.setMonth(afterDate.getMonth() + 3);
-                      
+
                       setDateRange({
                         start: beforeDate.toISOString().split('T')[0],
                         end: afterDate.toISOString().split('T')[0]
@@ -856,6 +878,10 @@ function App() {
                   },
                   currentDateRange: dateRange
                 } : null}
+
+                // Graph Props
+                graphControls={graphControls}
+                onGraphControlsChange={setGraphControls}
               />
 
               <IndexedDBToggle />
@@ -871,16 +897,16 @@ function App() {
                 ` (filtered from ${events.length})`
               }
             </h2>
-            
+
             <div className="zoom-controls">
-              <button 
+              <button
                 onClick={() => setZoomLevel(Math.max(0.5, zoomLevel - 0.1))}
                 className="zoom-button"
               >
                 -
               </button>
               <span className="zoom-level">{Math.round(zoomLevel * 100)}%</span>
-              <button 
+              <button
                 onClick={() => setZoomLevel(Math.min(2, zoomLevel + 0.1))}
                 className="zoom-button"
               >
@@ -890,8 +916,22 @@ function App() {
           </div>
 
           {viewMode === 'graph' ? (
-            <NetworkGraph 
+            <NetworkGraph
               events={filteredEvents}
+              searchQuery={searchQuery}
+              activeCategories={new Set(selectedTags.length > 0 ? selectedTags : ['all'])}
+              // Lifted State Props
+              graphLayout={graphControls.layout}
+              minConnectionStrength={graphControls.connectionStrength}
+              showMetrics={graphControls.showMetrics}
+              maxNodes={graphControls.maxNodes}
+              showLabels={graphControls.showLabels}
+              // Pass Setters if needed, or handle exclusively in FilterPanel
+              onGraphLayoutChange={(val) => setGraphControls(prev => ({ ...prev, layout: val }))}
+              onMaxNodesChange={(val) => setGraphControls(prev => ({ ...prev, maxNodes: val }))}
+              onConnectionStrengthChange={(val) => setGraphControls(prev => ({ ...prev, connectionStrength: val }))}
+              onShowMetricsChange={(val) => setGraphControls(prev => ({ ...prev, showMetrics: val }))}
+              onShowLabelsChange={(val) => setGraphControls(prev => ({ ...prev, showLabels: val }))}
             />
           ) : viewMode === 'actors' ? (
             <NetworkGraphActors
@@ -915,20 +955,22 @@ function App() {
               searchQuery={searchQuery}
               dateRange={dateRange}
               minImportance={minImportance}
+              onFilteredCountChange={handleFilteredCountChange}
+              onClearFilters={clearFilters}
             />
           )}
         </main>
 
         <AnimatePresence>
           {showStats && stats && (
-            <motion.aside 
+            <motion.aside
               className="sidebar stats-sidebar"
               initial={{ x: 300 }}
               animate={{ x: 0 }}
               exit={{ x: 300 }}
               transition={{ type: "spring", stiffness: 300, damping: 30 }}
             >
-              <StatsPanel 
+              <StatsPanel
                 stats={stats}
                 events={filteredEvents}
               />
@@ -948,6 +990,9 @@ function App() {
             onActorClick={handleActorClick}
             onCaptureLaneClick={handleCaptureLaneClick}
           />
+        )}
+        {showAbout && (
+          <AboutOverlay onClose={() => setShowAbout(false)} />
         )}
       </AnimatePresence>
     </div>

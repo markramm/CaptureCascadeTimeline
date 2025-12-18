@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 import Select from 'react-select';
-import { 
-  Filter, 
-  X, 
-  Calendar, 
-  Users, 
-  Tag, 
+import {
+  Filter,
+  X,
+  Calendar,
+  Users,
+  Tag,
   RotateCcw,
   ChevronDown,
   ChevronUp,
@@ -14,6 +14,9 @@ import {
   Star
 } from 'lucide-react';
 import TimelineMinimap from './TimelineMinimap';
+import GraphControls from './GraphControls';
+import TimelineControls from './TimelineControls';
+import { Github } from 'lucide-react';
 import './FilterPanel.css';
 
 const FilterPanel = ({
@@ -43,7 +46,10 @@ const FilterPanel = ({
   sortOrder,
   onSortOrderChange,
   minImportance,
-  onMinImportanceChange
+  onMinImportanceChange,
+  // Graph Props
+  graphControls,
+  onGraphControlsChange
 }) => {
   const [expandedSections, setExpandedSections] = useState({
     sorting: true,
@@ -52,7 +58,8 @@ const FilterPanel = ({
     tags: false,
     actors: false,
     dates: true,
-    timeline: viewMode === 'timeline'
+    timeline: viewMode === 'timeline',
+    graph: viewMode === 'graph' // Default to open in graph view
   });
 
   const toggleSection = (section) => {
@@ -64,19 +71,19 @@ const FilterPanel = ({
 
   // Calculate counts for each filter option
   const getTagCount = (tag) => {
-    return events ? events.filter(event => 
+    return events ? events.filter(event =>
       event.tags && Array.isArray(event.tags) && event.tags.includes(tag)
     ).length : 0;
   };
 
   const getActorCount = (actor) => {
-    return events ? events.filter(event => 
+    return events ? events.filter(event =>
       event.actors && Array.isArray(event.actors) && event.actors.includes(actor)
     ).length : 0;
   };
 
   const getCaptureLaneCount = (lane) => {
-    return events ? events.filter(event => 
+    return events ? events.filter(event =>
       event.capture_lanes && Array.isArray(event.capture_lanes) && event.capture_lanes.includes(lane)
     ).length : 0;
   };
@@ -145,11 +152,11 @@ const FilterPanel = ({
   const formatOptionLabel = ({ label, count }) => (
     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', width: '100%' }}>
       <span>{label}</span>
-      <span style={{ 
-        backgroundColor: '#374151', 
-        color: '#9ca3af', 
-        fontSize: '12px', 
-        padding: '2px 6px', 
+      <span style={{
+        backgroundColor: '#374151',
+        color: '#9ca3af',
+        fontSize: '12px',
+        padding: '2px 6px',
         borderRadius: '10px',
         fontWeight: '500'
       }}>
@@ -168,7 +175,7 @@ const FilterPanel = ({
       'immigration': '#ec4899',
       'intelligence': '#6b7280'
     };
-    
+
     for (const [key, color] of Object.entries(colors)) {
       if (tag.includes(key)) return color;
     }
@@ -182,25 +189,25 @@ const FilterPanel = ({
       'Judicial Capture & Corruption': '#b91c1c',
       'Election System Attack': '#991b1b',
       'Law Enforcement Weaponization': '#7f1d1d',
-      
+
       // High (Orange)  
       'Financial Corruption & Kleptocracy': '#ea580c',
       'Foreign Influence Operations': '#c2410c',
       'Constitutional & Democratic Breakdown': '#9a3412',
-      
+
       // Medium (Yellow)
       'Federal Workforce Capture': '#ca8a04',
       'Information & Media Control': '#a16207',
       'Corporate Capture & Regulatory Breakdown': '#854d0e',
-      
+
       // Monitoring (Blue)
       'Immigration & Border Militarization': '#1d4ed8',
       'International Democracy Impact': '#1e40af',
-      
+
       // Specialized (Purple)
       'Epstein Network & Kompromat': '#7c3aed'
     };
-    
+
     return colors[lane] || '#6b7280';
   };
 
@@ -211,13 +218,13 @@ const FilterPanel = ({
           <Filter size={20} />
           Filters
         </h3>
-        {(selectedCaptureLanes.length > 0 || selectedTags.length > 0 || selectedActors.length > 0 || 
+        {(selectedCaptureLanes.length > 0 || selectedTags.length > 0 || selectedActors.length > 0 ||
           dateRange.start || dateRange.end) && (
-          <button className="clear-filters-button" onClick={onClear}>
-            <RotateCcw size={16} />
-            Clear
-          </button>
-        )}
+            <button className="clear-filters-button" onClick={onClear}>
+              <RotateCcw size={16} />
+              Clear
+            </button>
+          )}
       </div>
 
       <div className="filter-stats">
@@ -240,7 +247,7 @@ const FilterPanel = ({
       <div className="filter-sections">
         {/* Sort Order Section */}
         <div className="filter-section">
-          <button 
+          <button
             className="section-header"
             onClick={() => toggleSection('sorting')}
           >
@@ -253,7 +260,7 @@ const FilterPanel = ({
             </div>
             {expandedSections.sorting ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
-          
+
           {expandedSections.sorting && (
             <div className="section-content">
               <div className="sort-options">
@@ -308,7 +315,7 @@ const FilterPanel = ({
 
         {/* Importance Filter Section */}
         <div className="filter-section">
-          <button 
+          <button
             className="section-header"
             onClick={() => toggleSection('importance')}
           >
@@ -321,7 +328,7 @@ const FilterPanel = ({
             </div>
             {expandedSections.importance ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
-          
+
           {expandedSections.importance && (
             <div className="section-content">
               <div className="importance-filter">
@@ -340,13 +347,13 @@ const FilterPanel = ({
                   <option value="10">10 Only (Maximum)</option>
                 </select>
                 <div className="importance-scale">
-                  {[1,2,3,4,5,6,7,8,9,10].map(level => (
+                  {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(level => (
                     <div
                       key={level}
                       className={`importance-bar ${level >= minImportance ? 'active' : ''}`}
                       style={{
                         height: `${level * 10}%`,
-                        backgroundColor: level >= minImportance ? 
+                        backgroundColor: level >= minImportance ?
                           (level >= 9 ? '#dc2626' : level >= 7 ? '#f59e0b' : level >= 5 ? '#3b82f6' : '#6b7280') :
                           '#374151'
                       }}
@@ -362,7 +369,7 @@ const FilterPanel = ({
 
         {/* Capture Lanes Section */}
         <div className="filter-section">
-          <button 
+          <button
             className="section-header"
             onClick={() => toggleSection('captureLanes')}
           >
@@ -375,7 +382,7 @@ const FilterPanel = ({
             </div>
             {expandedSections.captureLanes ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
-          
+
           {expandedSections.captureLanes && (
             <div className="section-content">
               <Select
@@ -389,11 +396,11 @@ const FilterPanel = ({
                 classNamePrefix="select"
                 formatOptionLabel={formatOptionLabel}
               />
-              
+
               {selectedCaptureLanes.length > 0 && (
                 <div className="selected-items">
                   {selectedCaptureLanes.map(lane => (
-                    <div 
+                    <div
                       key={lane}
                       className="selected-item capture-lane-item"
                       style={{ backgroundColor: getCaptureLaneColor(lane) }}
@@ -414,7 +421,7 @@ const FilterPanel = ({
 
         {/* Tags Section */}
         <div className="filter-section">
-          <button 
+          <button
             className="section-header"
             onClick={() => toggleSection('tags')}
           >
@@ -427,7 +434,7 @@ const FilterPanel = ({
             </div>
             {expandedSections.tags ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
-          
+
           {expandedSections.tags && (
             <div className="section-content">
               <Select
@@ -441,11 +448,11 @@ const FilterPanel = ({
                 classNamePrefix="select"
                 formatOptionLabel={formatOptionLabel}
               />
-              
+
               {selectedTags.length > 0 && (
                 <div className="selected-items">
                   {selectedTags.map(tag => (
-                    <div 
+                    <div
                       key={tag}
                       className="selected-item"
                       style={{ backgroundColor: getCategoryColor(tag) }}
@@ -466,7 +473,7 @@ const FilterPanel = ({
 
         {/* Actors Section */}
         <div className="filter-section">
-          <button 
+          <button
             className="section-header"
             onClick={() => toggleSection('actors')}
           >
@@ -479,7 +486,7 @@ const FilterPanel = ({
             </div>
             {expandedSections.actors ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
-          
+
           {expandedSections.actors && (
             <div className="section-content">
               <Select
@@ -493,7 +500,7 @@ const FilterPanel = ({
                 classNamePrefix="select"
                 formatOptionLabel={formatOptionLabel}
               />
-              
+
               {selectedActors.length > 0 && (
                 <>
                   <div className="selected-items">
@@ -545,7 +552,7 @@ const FilterPanel = ({
 
         {/* Date Range Section */}
         <div className="filter-section">
-          <button 
+          <button
             className="section-header"
             onClick={() => toggleSection('dates')}
           >
@@ -558,7 +565,7 @@ const FilterPanel = ({
             </div>
             {expandedSections.dates ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
           </button>
-          
+
           {expandedSections.dates && (
             <div className="section-content">
               <div className="date-inputs">
@@ -587,7 +594,7 @@ const FilterPanel = ({
                   />
                 </div>
               </div>
-              
+
               <div className="quick-ranges">
                 <button
                   className="quick-range-button"
@@ -622,77 +629,70 @@ const FilterPanel = ({
         </div>
 
         {/* Timeline View Controls */}
-        {viewMode === 'timeline' && timelineControls && (
-          <div className="filter-section">
-            <button 
-              className="section-header"
-              onClick={() => toggleSection('timeline')}
-            >
-              <div className="header-title">
-                <Settings size={16} />
-                <span>Timeline View</span>
-              </div>
-              {expandedSections.timeline ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
-            </button>
-            
-            {expandedSections.timeline && (
-              <div className="section-content">
-                <div className="control-group">
-                  <label>Display Mode</label>
-                  <select 
-                    value={timelineControls.compactMode} 
-                    onChange={(e) => onTimelineControlsChange({
-                      ...timelineControls,
-                      compactMode: e.target.value
-                    })}
-                    className="timeline-select"
-                  >
-                    <option value="none">Expand All</option>
-                    <option value="low">Compact Low Importance</option>
-                    <option value="medium">Compact Medium & Low</option>
-                    <option value="all">Compact All</option>
-                  </select>
-                </div>
-                
-                
-                <div className="control-group checkbox-group">
-                  <label className="checkbox-label">
-                    <input 
-                      type="checkbox" 
-                      checked={timelineControls.showMinimap}
-                      onChange={(e) => onTimelineControlsChange({
-                        ...timelineControls,
-                        showMinimap: e.target.checked
-                      })}
-                    />
-                    <span>Show Minimap</span>
-                  </label>
-                </div>
-                
-                {timelineControls.showMinimap && timelineData && (
-                  <div className="minimap-container">
-                    <TimelineMinimap 
-                      events={timelineData.events}
-                      groups={timelineData.groups}
-                      onNavigate={timelineData.onNavigate}
-                      onDateRangeSelect={timelineData.onDateRangeSelect}
-                      currentDateRange={timelineData.currentDateRange}
-                    />
-                  </div>
-                )}
-              </div>
-            )}
-          </div>
+        {viewMode === 'timeline' && (
+          <TimelineControls
+            timelineControls={timelineControls}
+            onTimelineControlsChange={onTimelineControlsChange}
+            timelineData={timelineData}
+            isOpen={expandedSections.timeline}
+            onToggle={() => toggleSection('timeline')}
+          />
+        )}
+
+        {/* Graph View Controls */}
+        {viewMode === 'graph' && (
+          <GraphControls
+            graphControls={graphControls}
+            onGraphControlsChange={onGraphControlsChange}
+            isOpen={expandedSections.graph}
+            onToggle={() => toggleSection('graph')}
+          />
         )}
       </div>
 
       <div className="filter-footer">
+        <div style={{ padding: '10px 0', borderTop: '1px solid #374151', marginBottom: '10px' }}>
+          <a
+            href="https://github.com/markramm/CaptureCascadeTimeline"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '8px',
+              color: '#9ca3af',
+              textDecoration: 'none',
+              fontSize: '12px',
+              padding: '6px',
+              borderRadius: '4px',
+              transition: 'all 0.2s',
+              background: 'rgba(255,255,255,0.05)'
+            }}
+            onMouseOver={(e) => {
+              e.currentTarget.style.background = 'rgba(255,255,255,0.1)';
+              e.currentTarget.style.color = '#fff';
+            }}
+            onMouseOut={(e) => {
+              e.currentTarget.style.background = 'rgba(255,255,255,0.05)';
+              e.currentTarget.style.color = '#9ca3af';
+            }}
+          >
+            <Github size={14} />
+            Contribute on GitHub
+          </a>
+        </div>
         <p className="help-text">
           Click on tags or actors in events to quickly filter
         </p>
         {viewMode === 'timeline' && (
           <p className="help-text">
             Press M to toggle minimap, C to cycle display modes
+          </p>
+        )}
+        {viewMode === 'graph' && (
+          <p className="help-text">
+            Drag nodes to rearrange. Scroll to zoom.
           </p>
         )}
       </div>

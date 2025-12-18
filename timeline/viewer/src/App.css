@@ -211,14 +211,17 @@ body {
   overflow-y: auto;
   overflow-x: hidden;
   z-index: 50;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .filter-sidebar {
   border-right: 1px solid #334155;
+  left: 0;
 }
 
 .stats-sidebar {
   border-left: 1px solid #334155;
+  right: 0;
 }
 
 .main-content {
@@ -314,10 +317,18 @@ body {
 
 /* Responsive Design */
 @media (max-width: 1024px) {
+  .app-body {
+    position: relative;
+    overflow: hidden;
+  }
+
   .sidebar {
     position: absolute;
+    top: 0;
+    bottom: 0;
     height: 100%;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.7);
+    z-index: 1000;
   }
   
   .filter-sidebar {
