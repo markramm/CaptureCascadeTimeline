@@ -410,3 +410,8 @@ body {
     transform: rotate(360deg);
   }
 }
+/* Graph Mode - Full Screen */
+.main-content.graph-mode {
+  padding: 0;
+  overflow: hidden; /* Prevent scrolling in graph mode, let graph handle zooming */
+}
