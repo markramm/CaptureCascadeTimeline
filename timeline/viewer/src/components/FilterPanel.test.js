@@ -56,9 +56,9 @@ describe('FilterPanel', () => {
 
     // Stats are split into separate elements now
     expect(screen.getByText('50')).toBeInTheDocument();
-    expect(screen.getByText('Filtered')).toBeInTheDocument();
-    expect(screen.getByText('100')).toBeInTheDocument();
-    expect(screen.getByText('Total')).toBeInTheDocument();
+    expect(screen.getByText('Events')).toBeInTheDocument();
+    // 'Total: 100' is now a single string in the new UI
+    expect(screen.getByText('Total: 100')).toBeInTheDocument();
   });
 
   test('handles clear filters', () => {

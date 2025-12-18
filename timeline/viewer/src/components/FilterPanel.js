@@ -49,7 +49,10 @@ const FilterPanel = ({
   onMinImportanceChange,
   // Graph Props
   graphControls,
-  onGraphControlsChange
+  onGraphControlsChange,
+  // Zoom Props
+  zoomLevel,
+  onZoomLevelChange
 }) => {
   const [expandedSections, setExpandedSections] = useState({
     sorting: true,
@@ -227,20 +230,40 @@ const FilterPanel = ({
           )}
       </div>
 
-      <div className="filter-stats">
-        <div className="stat">
-          <span className="stat-value">{eventCount}</span>
-          <span className="stat-label">Filtered</span>
+      <div className="filter-stats" style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+          <div className="stat">
+            <span className="stat-value" style={{ fontSize: '1.2rem' }}>{eventCount}</span>
+            <span className="stat-label">Events</span>
+          </div>
+
+          {/* Moved Zoom Controls Here */}
+          <div className="zoom-controls" style={{ background: 'rgba(30, 41, 59, 0.5)' }}>
+            <button
+              onClick={() => onZoomLevelChange && onZoomLevelChange(Math.max(0.5, zoomLevel - 0.1))}
+              className="zoom-button"
+              title="Zoom Out"
+            >
+              -
+            </button>
+            <span className="zoom-level" style={{ minWidth: '40px' }}>{Math.round(zoomLevel * 100)}%</span>
+            <button
+              onClick={() => onZoomLevelChange && onZoomLevelChange(Math.min(2, zoomLevel + 0.1))}
+              className="zoom-button"
+              title="Zoom In"
+            >
+              +
+            </button>
+          </div>
         </div>
-        <div className="stat">
-          <span className="stat-value">{totalCount}</span>
-          <span className="stat-label">Total</span>
-        </div>
-        <div className="stat">
-          <span className="stat-value">
-            {Math.round((eventCount / totalCount) * 100)}%
-          </span>
-          <span className="stat-label">Shown</span>
+
+        {/* Keeping the detailed stats condensed if needed, or removing if redundant. 
+            User asked to move the "2972 events" info here. 
+            I'll keep the secondary stats small below.
+        */}
+        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.75rem', color: '#94a3b8', paddingTop: '5px', borderTop: '1px solid rgba(255,255,255,0.1)' }}>
+          <span>Total: {totalCount}</span>
+          <span>Shown: {Math.round((eventCount / totalCount) * 100)}%</span>
         </div>
       </div>
 

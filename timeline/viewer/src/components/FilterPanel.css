@@ -68,7 +68,8 @@
 
 .filter-sections {
   flex: 1;
-  overflow-y: auto;
+  /* overflow-y: auto; - Removed to prevent double scrollbars with sidebar */
+  overflow: visible;
 }
 
 .filter-section {

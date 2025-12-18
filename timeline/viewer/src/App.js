@@ -882,6 +882,10 @@ function App() {
                 // Graph Props
                 graphControls={graphControls}
                 onGraphControlsChange={setGraphControls}
+
+                // Zoom Props
+                zoomLevel={zoomLevel}
+                onZoomLevelChange={setZoomLevel}
               />
 
               <IndexedDBToggle />
@@ -890,32 +894,7 @@ function App() {
         </AnimatePresence>
 
         <main className={`main-content ${viewMode === 'graph' ? 'graph-mode' : ''}`}>
-          {viewMode !== 'graph' && (
-            <div className="timeline-header">
-              <h2>
-                {events.length > 0 ? filteredEvents.length : (stats?.total_events || 0)} Events
-                {events.length > 0 && filteredEvents.length !== events.length &&
-                  ` (filtered from ${events.length})`
-                }
-              </h2>
-
-              <div className="zoom-controls">
-                <button
-                  onClick={() => setZoomLevel(Math.max(0.5, zoomLevel - 0.1))}
-                  className="zoom-button"
-                >
-                  -
-                </button>
-                <span className="zoom-level">{Math.round(zoomLevel * 100)}%</span>
-                <button
-                  onClick={() => setZoomLevel(Math.min(2, zoomLevel + 0.1))}
-                  className="zoom-button"
-                >
-                  +
-                </button>
-              </div>
-            </div>
-          )}
+          {/* Header moved to FilterPanel to save space */}
 
           {viewMode === 'graph' ? (
             <NetworkGraph
