@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1002
+    "count": 1006
   },
   {
     "name": "Trump Administration",
@@ -228,6 +228,10 @@
     "count": 23
   },
   {
+    "name": "DOJ",
+    "count": 23
+  },
+  {
     "name": "Boeing",
     "count": 23
   },
@@ -269,10 +273,6 @@
   },
   {
     "name": "Robert Mueller",
-    "count": 20
-  },
-  {
-    "name": "DOJ",
     "count": 20
   },
   {
@@ -384,6 +384,10 @@
     "count": 17
   },
   {
+    "name": "Larry Ellison",
+    "count": 16
+  },
+  {
     "name": "Chuck Schumer",
     "count": 16
   },
@@ -410,10 +414,6 @@
   {
     "name": "Marco Rubio",
     "count": 16
-  },
-  {
-    "name": "Larry Ellison",
-    "count": 15
   },
   {
     "name": "Ghislaine Maxwell",
@@ -560,6 +560,10 @@
     "count": 13
   },
   {
+    "name": "Bank of America",
+    "count": 12
+  },
+  {
     "name": "Supreme Court of the United States",
     "count": 12
   },
@@ -610,10 +614,6 @@
   {
     "name": "Mike Johnson",
     "count": 12
-  },
-  {
-    "name": "Bank of America",
-    "count": 11
   },
   {
     "name": "United States",
@@ -1416,6 +1416,10 @@
     "count": 6
   },
   {
+    "name": "ProPublica",
+    "count": 6
+  },
+  {
     "name": "AI Safety Researchers",
     "count": 6
   },
@@ -1761,10 +1765,6 @@
   },
   {
     "name": "Tenet Media",
-    "count": 5
-  },
-  {
-    "name": "ProPublica",
     "count": 5
   },
   {
@@ -2432,6 +2432,10 @@
     "count": 4
   },
   {
+    "name": "Bill Pulte",
+    "count": 4
+  },
+  {
     "name": "Immigration and Customs Enforcement",
     "count": 4
   },
@@ -2736,6 +2740,10 @@
     "count": 3
   },
   {
+    "name": "Merrill Lynch",
+    "count": 3
+  },
+  {
     "name": "Citizens for a Sound Economy",
     "count": 3
   },
@@ -2957,6 +2965,10 @@
   },
   {
     "name": "Russian Federation",
+    "count": 3
+  },
+  {
+    "name": "Netflix",
     "count": 3
   },
   {
@@ -3673,10 +3685,6 @@
   },
   {
     "name": "Harvard University",
-    "count": 3
-  },
-  {
-    "name": "Bill Pulte",
     "count": 3
   },
   {
@@ -4416,10 +4424,6 @@
     "count": 2
   },
   {
-    "name": "Merrill Lynch",
-    "count": 2
-  },
-  {
     "name": "Ohio Secretary of State",
     "count": 2
   },
@@ -4925,10 +4929,6 @@
   },
   {
     "name": "Republic of Crimea",
-    "count": 2
-  },
-  {
-    "name": "Netflix",
     "count": 2
   },
   {
@@ -6660,6 +6660,10 @@
     "count": 2
   },
   {
+    "name": "Paramount",
+    "count": 2
+  },
+  {
     "name": "JPMorgan",
     "count": 2
   },
@@ -6809,6 +6813,10 @@
   },
   {
     "name": "NAACP",
+    "count": 2
+  },
+  {
+    "name": "Warner Bros Discovery",
     "count": 2
   },
   {
@@ -18240,10 +18248,6 @@
     "count": 1
   },
   {
-    "name": "Paramount",
-    "count": 1
-  },
-  {
     "name": "NBC",
     "count": 1
   },
@@ -19940,6 +19944,18 @@
     "count": 1
   },
   {
+    "name": "Tim Leiweke",
+    "count": 1
+  },
+  {
+    "name": "Trey Gowdy",
+    "count": 1
+  },
+  {
+    "name": "Oak View Group",
+    "count": 1
+  },
+  {
     "name": "Interior Department",
     "count": 1
   },
@@ -19984,6 +20000,10 @@
     "count": 1
   },
   {
+    "name": "Henry Cuellar",
+    "count": 1
+  },
+  {
     "name": "Deportation Data Project",
     "count": 1
   },
@@ -20017,10 +20037,6 @@
   },
   {
     "name": "Affinity Partners",
-    "count": 1
-  },
-  {
-    "name": "Warner Bros Discovery",
     "count": 1
   },
   {
@@ -20069,6 +20085,10 @@
   },
   {
     "name": "Judge William Fitzpatrick",
+    "count": 1
+  },
+  {
+    "name": "Ted Sarandos",
     "count": 1
   },
   {
