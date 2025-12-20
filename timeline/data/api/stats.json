@@ -1,14 +1,14 @@
 {
-  "total_events": 2972,
-  "total_tags": 5229,
-  "total_actors": 5021,
-  "total_sources": 9981,
+  "total_events": 2976,
+  "total_tags": 5234,
+  "total_actors": 5026,
+  "total_sources": 9992,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-12"
   },
   "status_counts": {
-    "unknown": 885,
+    "unknown": 889,
     "confirmed": 2037,
     "validated": 31,
     "disputed": 2,
@@ -33,7 +33,7 @@
     },
     {
       "name": "corruption",
-      "count": 214
+      "count": 217
     },
     {
       "name": "kleptocracy",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1002
+      "count": 1006
     },
     {
       "name": "Trump Administration",
@@ -106,5 +106,5 @@
       "count": 54
     }
   ],
-  "generated": "2025-12-15T10:54:54.085461"
+  "generated": "2025-12-20T18:32:01.078912"
 }

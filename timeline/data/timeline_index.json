@@ -155155,6 +155155,53 @@
       "_id_hash": "550037ca4025cc5b89fdc6bb2c02e162f7b9700ba1d48477d812bb8b331df8d6"
     },
     {
+      "id": "2025-12-06--leiweke-pardon-golf-gowdy",
+      "date": "2025-12-06",
+      "title": "Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy",
+      "summary": "President Trump grants a full pardon to Tim Leiweke, former CEO of Oak View Group, who was indicted in July 2025 for conspiracy to rig bidding on a $375 million basketball arena at the University of Texas. The pardon follows a golf conversation between Trump and former Rep. Trey Gowdy, who represents Leiweke. The case demonstrates how personal connections and lobbying at Trump's golf courses influence the exercise of presidential clemency power, raising concerns about the integrity of the justice system when pardons can be secured through social proximity to the president rather than through established legal processes.",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Tim Leiweke",
+        "Trey Gowdy",
+        "Oak View Group",
+        "DOJ"
+      ],
+      "tags": [
+        "pardons",
+        "corruption",
+        "bid-rigging",
+        "antitrust",
+        "golf-diplomacy",
+        "influence-peddling"
+      ],
+      "sources": [
+        {
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-pardons-tim-leiweke-oak-view-group-charged-justice-department-rcna247307",
+          "title": "Trump pardons sports executive charged by his Justice Department",
+          "publisher": "NBC News",
+          "date": "2025-12-03",
+          "tier": 1
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2025-12-04/ex-oak-view-ceo-leiweke-pardoned-by-trump-in-bid-rigging-case",
+          "title": "Trump Pardons Former Oak View CEO Tim Leiweke in Bid-Rigging Case",
+          "publisher": "Bloomberg",
+          "date": "2025-12-04",
+          "tier": 2
+        },
+        {
+          "url": "https://www.inquisitr.com/trump-grants-pardon-after-golf-chat-with-trey-gowdy",
+          "title": "Trump Grants Pardon After Golf Chat With Trey Gowdy",
+          "publisher": "The Inquisitr",
+          "date": "2025-12-06",
+          "tier": 3
+        }
+      ],
+      "_file": "2025-12-06--leiweke-pardon-golf-gowdy.md",
+      "_id_hash": "a8c15598780f24927ff138770cb7f3b3234665abcaf4055b51091f8c0eac2621"
+    },
+    {
       "id": "2025-12-06--national-parks-removes-civil-rights-holidays-adds-trump-birthday",
       "date": "2025-12-06",
       "title": "National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday",
@@ -155459,6 +155506,51 @@
       "_id_hash": "90a7f89d313e5e330cce77b987f616ddc5ed148958e0b2c5b230f36857c9539b"
     },
     {
+      "id": "2025-12-07--cuellar-party-switch-criticism",
+      "date": "2025-12-07",
+      "title": "Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon",
+      "summary": "President Trump publicly attacks Democratic Representative Henry Cuellar for remaining in the Democratic Party and running for re-election as a Democrat, just days after Trump pardoned Cuellar and his wife from federal bribery and conspiracy charges. Trump's statements—calling Cuellar's decision 'such a lack of LOYALTY' and warning 'next time, no more Mr. Nice guy!'—strongly suggest Trump expected Cuellar to switch to the Republican Party in exchange for the pardon, demonstrating an explicit quid pro quo arrangement where presidential clemency is conditioned on political loyalty and party affiliation rather than justice or mercy.",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Henry Cuellar",
+        "DOJ"
+      ],
+      "tags": [
+        "pardons",
+        "quid-pro-quo",
+        "corruption",
+        "Congress",
+        "party-switching",
+        "abuse-of-power"
+      ],
+      "sources": [
+        {
+          "url": "https://www.pbs.org/newshour/politics/trump-calls-democratic-rep-cuellar-disloyal-for-not-switching-parties-after-pardon",
+          "title": "Trump calls Democratic Rep. Cuellar 'disloyal' for not switching parties after pardon",
+          "publisher": "PBS NewsHour",
+          "date": "2025-12-07",
+          "tier": 1
+        },
+        {
+          "url": "https://www.cbsnews.com/news/trump-henry-cuellar-pardoned-switch-parties/",
+          "title": "Trump suggests Rep. Cuellar, pardoned Democratic congressman, should have switched parties after clemency grant",
+          "publisher": "CBS News",
+          "date": "2025-12-07",
+          "tier": 1
+        },
+        {
+          "url": "https://abcnews.go.com/Politics/wireStory/trump-slams-pardoned-democratic-congressman-disloyal-switching-parties-128190597",
+          "title": "Trump slams pardoned Democratic congressman as 'disloyal' for not switching parties",
+          "publisher": "ABC News",
+          "date": "2025-12-07",
+          "tier": 1
+        }
+      ],
+      "_file": "2025-12-07--cuellar-party-switch-criticism.md",
+      "_id_hash": "53832ac1b46bfcadce21c0e4a254363ca9cdcd781ce52e7e3b4c41cfa519ee66"
+    },
+    {
       "id": "2025-12-07--ice-data-reveals-75000-arrests-without-criminal-history",
       "date": "2025-12-07",
       "title": "ICE Data Reveals 75,000 Arrests Had No Criminal History in Quota-Driven Dragnet",
@@ -155716,6 +155808,46 @@
       ],
       "_file": "2025-12-08--paramount-skydance-hostile-takeover-warner-bros-discovery.json",
       "_id_hash": "33df77244c2ed61b05c91f28001c1eb8d3a418fd2812e8574240eb6e63795a76"
+    },
+    {
+      "id": "2025-12-08--trump-mortgage-fraud-florida",
+      "date": "2025-12-08",
+      "title": "ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal",
+      "summary": "ProPublica investigation reveals that in 1993-1994, Donald Trump signed two mortgages for neighboring Palm Beach properties, falsely claiming each would be his primary residence despite never living in either home and instead using them as rental properties. This directly contradicts Trump's current administration policy, where Federal Housing Finance Agency director Bill Pulte has stated that 'claiming two primary residences' warrants criminal investigation. Trump's administration has used this definition to target political opponents including Federal Reserve member Lisa Cook and New York AG Letitia James, while Trump himself committed the exact conduct he now characterizes as 'deceitful and potentially criminal,' demonstrating corruption through selective enforcement based on political loyalty.",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Bill Pulte",
+        "ProPublica",
+        "Merrill Lynch",
+        "Bank of America"
+      ],
+      "tags": [
+        "mortgage-fraud",
+        "financial-crimes",
+        "hypocrisy",
+        "selective-enforcement",
+        "real-estate",
+        "Florida"
+      ],
+      "sources": [
+        {
+          "url": "https://www.propublica.org/article/trump-mortgage-fraud-florida-principal-residences",
+          "title": "Trump's Own Mortgages Match His Description of Mortgage Fraud, Records Reveal",
+          "publisher": "ProPublica",
+          "date": "2025-12-08",
+          "tier": 1
+        },
+        {
+          "url": "https://www.democracynow.org/2025/12/9/headlines/propublica_trumps_mortgages_match_his_description_of_mortgage_fraud",
+          "title": "ProPublica: Trump's Mortgages Match His Description of Mortgage Fraud",
+          "publisher": "Democracy Now!",
+          "date": "2025-12-09",
+          "tier": 1
+        }
+      ],
+      "_file": "2025-12-08--trump-mortgage-fraud-florida.md",
+      "_id_hash": "3caa365b9496e091477f97e2209294dee9b7f588674c48faecf41368211d5e2a"
     },
     {
       "id": "2025-12-09--brinkema-suggests-halligan-resignation",
@@ -155982,6 +156114,55 @@
       "summary": "Department of Justice leaders Attorney General Pam Bondi and Deputy Attorney General Todd Blanche launched an unprecedented public attack on federal judges who ruled that Lindsey Halligan was unlawfully appointed as U.S. Attorney for the Eastern District of Virginia. By December 10, three separate federal judges had ruled against or questioned Halligan's authority: Judge Cameron McGowan Currie dismissed criminal cases on November 24 finding Halligan's appointment violated federal law, Judge Colleen Kollar-Kotelly blocked DOJ from using evidence on December 7, and Judge Leonie Brinkema suggested Halligan resign on December 9 after DOJ called her colleagues \"rogue\" jurists. Rather than comply with judicial rulings or appeal through proper channels, DOJ doubled down—issuing a statement accusing judges of an \"unconscionable campaign of bias and hostility\" and warning of \"no tolerance for undemocratic judicial activism.\"\n\nThe DOJ's Office of Legal Counsel provided a jaw-dropping legal justification: because Judge Currie's order did not expressly command Halligan's removal, she could continue serving despite the court declaring her appointment \"entirely illegitimate and unlawful.\" Legal expert Lisa Rubin described this as Halligan \"daring the Judges of the Eastern District of Virginia to take up their own prerogative under the statute and appoint someone of their own choosing that would force a fight\" between the judiciary and DOJ. Magistrate Judge William Fitzpatrick ordered Halligan's name struck from court documents, stating \"The law in this district right now is that she is not and has not been the United States Attorney.\" The Daily Press editorial board condemned the DOJ response, noting \"It's not activism to follow the law or to uphold it. But it is undemocratic to willfully ignore federal rulings and engage in targeted prosecutions of the president's enemies.\"\n\nThis represents an extraordinary constitutional crisis where DOJ leadership openly defies multiple federal judges' rulings and attacks the judiciary for enforcing statutory limits on executive appointments. Deputy Attorney General Blanche has characterized the administration's stance as a \"war\" against judges who rule against them. The confrontation threatens the fundamental separation of powers, with DOJ continuing to list Halligan on court filings despite repeated judicial determinations that she lacks lawful authority.",
       "_file": "2025-12-10--doj-leaders-attack-federal-judges-halligan-defiance.md",
       "_id_hash": "1909dc8d801419926ea2fd4eb4efc05270462fdf8999dcfea5c04bb6836886b6"
+    },
+    {
+      "id": "2025-12-10--netflix-warner-antitrust-intervention",
+      "date": "2025-12-10",
+      "title": "Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount",
+      "summary": "President Trump publicly intervenes in the DOJ's antitrust review of Netflix's $72 billion acquisition of Warner Bros. Discovery, stating it 'could be a problem' due to market concentration and demanding that CNN be sold. Trump's intervention follows his administration's stated 'heavy skepticism' about the Netflix deal while favoring Paramount's competing bid, which is backed by Trump ally Larry Ellison. Legal experts warn that Trump's direct involvement in antitrust enforcement based on political considerations rather than competitive analysis represents dangerous politicization of law enforcement and departure from the rule of law, where deal approval depends on 'making promises' to Trump rather than meeting legal antitrust standards.",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Netflix",
+        "Warner Bros Discovery",
+        "Paramount",
+        "Larry Ellison",
+        "DOJ",
+        "Ted Sarandos"
+      ],
+      "tags": [
+        "antitrust",
+        "political-interference",
+        "corruption",
+        "DOJ",
+        "media-consolidation",
+        "cronyism"
+      ],
+      "sources": [
+        {
+          "url": "https://www.npr.org/2025/12/06/nx-s1-5634651/film-industry-reacts-to-news-that-netflix-is-set-to-acquire-warner-bros-discovery",
+          "title": "Film industry reacts to news that Netflix is set to acquire Warner Bros. Discovery",
+          "publisher": "NPR",
+          "date": "2025-12-06",
+          "tier": 1
+        },
+        {
+          "url": "https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415",
+          "title": "Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say",
+          "publisher": "ABC News",
+          "date": "2025-12-10",
+          "tier": 1
+        },
+        {
+          "url": "https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html",
+          "title": "Trump admin views Netflix and Warner Bros. deal with 'heavy skepticism': Senior official",
+          "publisher": "CNBC",
+          "date": "2025-12-05",
+          "tier": 2
+        }
+      ],
+      "_file": "2025-12-10--netflix-warner-antitrust-intervention.md",
+      "_id_hash": "724b766d48f7bff70f1233904e54e09f774d676b03e34c4392b7346a584cadab"
     },
     {
       "id": "2025-12-12--doj-expands-voter-data-lawsuits-to-18-states",

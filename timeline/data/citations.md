@@ -21751,6 +21751,13 @@
 4. [Next U.S. census will have new boxes for 'Middle Eastern or North African,' 'Latino'](https://www.npr.org/2024/03/28/1237218459/census-race-categories-ethnicity-middle-east-north-africa)
 5. [Revisions to OMB's Statistical Policy Directive No. 15](https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and)
 
+## Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy
+*Date: 2025-12-06*
+
+1. [Trump pardons sports executive charged by his Justice Department](https://www.nbcnews.com/politics/donald-trump/trump-pardons-tim-leiweke-oak-view-group-charged-justice-department-rcna247307)
+2. [Trump Pardons Former Oak View CEO Tim Leiweke in Bid-Rigging Case](https://www.bloomberg.com/news/articles/2025-12-04/ex-oak-view-ceo-leiweke-pardoned-by-trump-in-bid-rigging-case)
+3. [Trump Grants Pardon After Golf Chat With Trey Gowdy](https://www.inquisitr.com/trump-grants-pardon-after-golf-chat-with-trey-gowdy)
+
 ## National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, Adds Trump's Birthday
 *Date: 2025-12-06*
 
@@ -21789,6 +21796,13 @@
 5. [CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns](https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/)
 6. [Trump points to other countries on childhood vaccines. The U.S. isn't comparable](https://19thnews.org/2025/12/trump-childhood-vaccines-comparison-countries/)
 
+## Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon
+*Date: 2025-12-07*
+
+1. [Trump calls Democratic Rep. Cuellar 'disloyal' for not switching parties after pardon](https://www.pbs.org/newshour/politics/trump-calls-democratic-rep-cuellar-disloyal-for-not-switching-parties-after-pardon)
+2. [Trump suggests Rep. Cuellar, pardoned Democratic congressman, should have switched parties after clemency grant](https://www.cbsnews.com/news/trump-henry-cuellar-pardoned-switch-parties/)
+3. [Trump slams pardoned Democratic congressman as 'disloyal' for not switching parties](https://abcnews.go.com/Politics/wireStory/trump-slams-pardoned-democratic-congressman-disloyal-switching-parties-128190597)
+
 ## ICE Data Reveals 75,000 Arrests Had No Criminal History in Quota-Driven Dragnet
 *Date: 2025-12-07*
 
@@ -21821,6 +21835,12 @@
 3. [Paramount Skydance launches hostile bid for WBD 'to finish what we started,' CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 4. [Democratic Reps Warn WBD That Paramount's Takeover Bid Raises National Security Concerns Over Saudi and Other Foreign Investors](https://variety.com/2025/film/news/democrats-warn-wbd-paramount-bid-national-security-concerns-saudi-foreign-investors-1236605589/)
 5. [Democratic Lawmakers Warn Warner Bros. Discovery Of National Security Concerns In Paramount Bid Because Of Saudi And Other Foreign Investors](https://deadline.com/2025/12/democrats-warner-bros-discovery-saudi-investors-1236644779/)
+
+## ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
+*Date: 2025-12-08*
+
+1. [Trump's Own Mortgages Match His Description of Mortgage Fraud, Records Reveal](https://www.propublica.org/article/trump-mortgage-fraud-florida-principal-residences)
+2. [ProPublica: Trump's Mortgages Match His Description of Mortgage Fraud](https://www.democracynow.org/2025/12/9/headlines/propublica_trumps_mortgages_match_his_description_of_mortgage_fraud)
 
 ## Third Federal Judge Calls for Lindsey Halligan's Resignation as Unlawfully Appointed U.S. Attorney
 *Date: 2025-12-09*
@@ -21859,6 +21879,13 @@
 2. ['Jaw dropping': Legal expert says Trump pick's bold move is daring judges to take action](https://www.rawstory.com/jaw-dropping-lindsey-halligan/)
 3. [Who is Lindsey Halligan, prosecutor in Comey, James cases?](https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james)
 4. [Editorial: Eastern District deserves a lawfully appointed, professional prosecutor](https://www.dailypress.com/2025/12/09/editorial-eastern-district-deserves-a-lawfully-appointed-professional-prosecutor/)
+
+## Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount
+*Date: 2025-12-10*
+
+1. [Film industry reacts to news that Netflix is set to acquire Warner Bros. Discovery](https://www.npr.org/2025/12/06/nx-s1-5634651/film-industry-reacts-to-news-that-netflix-is-set-to-acquire-warner-bros-discovery)
+2. [Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say](https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415)
+3. [Trump admin views Netflix and Warner Bros. deal with 'heavy skepticism': Senior official](https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html)
 
 ## DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses
 *Date: 2025-12-12*
