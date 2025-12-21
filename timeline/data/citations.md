@@ -17313,6 +17313,15 @@
 2. [ICE officials ousted amid demands for more immigrant arrests](https://www.axios.com/2025/05/29/ice-firings-immigrant-arrests)
 3. [Trump administration shakes up leadership at ICE amid frustrations with arrest, deportation levels](https://www.cbsnews.com/news/trump-administration-shakes-up-ice-leadership-over-deportation-levels/)
 
+## Trump Administration Officially Accepts $400-500 Million Luxury Boeing 747 from Qatar as Air Force One Gift, Sparking Constitutional Crisis Over Foreign Emoluments and Bribery
+*Date: 2025-05-21*
+
+1. [Trump administration officially accepts jet from Qatar for use as Air Force One](https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one)
+2. [Ethics experts worry about the implications of Trump accepting Qatar's luxury plane](https://www.npr.org/2025/05/12/nx-s1-5395696/qatar-trump-plane-gift-ethics)
+3. [Trump accepting a plane from Qatar could be a national security risk. Here's how](https://www.npr.org/2025/05/14/nx-s1-5395734/trump-qatar-plane-national-security-risk)
+4. [Following The Largest Foreign Bribe To A President In Modern History, Leader Schumer Introduces Bill To Prohibit Any Foreign Aircraft From Being Used As Air Force One](https://www.democrats.senate.gov/newsroom/press-releases/following-the-largest-foreign-bribe-to-a-president-in-modern-history-leader-schumer-introduces-bill-to-prohibit-any-foreign-aircraft-from-being-used-as-air-force-one-retrofitting-and-constant-monitoring-of-qatari-plane-would-cost-american-taxpayers-billions-and-would-not-eliminate-all-catastrophic-risks-schumer-will-demand-vote-on-legislation-in-this-years-funding-bills-to-avoid-the-catastrophic_unimaginable-national-security-risks)
+5. [Trump's $400 Million 'Gift' From Qatar Is a Dangerous Deal for America](https://www.commoncause.org/articles/trumps-400-million-gift-from-qatar-is-a-dangerous-deal-for-america/)
+
 ## U.S. Accepts Qatar's $400 Million Boeing 747 Jet, Raising Emoluments Concerns
 *Date: 2025-05-21*
 
@@ -21307,6 +21316,14 @@
 4. [What Does it Mean to Designate the Muslim Brotherhood a Foreign Terrorist Organization?](https://www.brennancenter.org/our-work/analysis-opinion/what-does-it-mean-designate-muslim-brotherhood-foreign-terrorist)
 5. [Trump orders blacklisting Muslim Brotherhood branches as 'terrorist' groups](https://www.aljazeera.com/news/2025/11/24/trump-orders-blacklisting-muslim-brotherhood-branches-as-terrorist-groups)
 
+## House Judiciary Democrats Release Report Exposing Trump Family's $800 Million Cryptocurrency Empire Built on Foreign Influence and Self-Dealing
+*Date: 2025-11-25*
+
+1. [New Report Exposes the Trump Family's Multi-Billion-Dollar Crypto Empire, Fueled by Self-Dealing and Corrupt Foreign Interests](https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests)
+2. [The Trump family made $800 million on crypto in 2025 so far, and the family's empire is still rising](https://www.wbur.org/hereandnow/2025/11/05/trump-crypto)
+3. [How Trump's latest crypto launch enriches his family](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial)
+4. [Reuters: Trump Organization Earned More Than $800 Million from Crypto Assets](https://www.democracynow.org/2025/10/29/headlines/reuters_trump_organization_earned_more_than_800_million_from_crypto_assets)
+
 ## DOJ Reveals Kristi Noem Made Final Decision to Defy Judge's Order on El Salvador Deportation Flights
 *Date: 2025-11-26*
 
@@ -21960,6 +21977,13 @@
 2. [Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say](https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415)
 3. [Trump admin views Netflix and Warner Bros. deal with 'heavy skepticism': Senior official](https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html)
 
+## DHS Secretary Noem Confronted Over Veteran Deportations in Contentious Congressional Hearing
+*Date: 2025-12-11*
+
+1. [DHS Secretary Kristi Noem confronted about veteran in contentious hearing over deportations](https://abcnews.go.com/Politics/dhs-secretary-kristi-noem-confronted-veteran-contentious-hearing/story?id=128325824)
+2. [Democrats lambaste Noem, demand she resign at combative congressional hearing](https://www.washingtonpost.com/immigration/2025/12/11/noem-dhs-congress-house-hearing/)
+3. [Moulton Introduces the NOEM Act to Hold ICE Officers Accountable for Constitutional Violations](https://moulton.house.gov/news/press-releases/moulton-introduces-noem-act-hold-ice-officers-accountable-constitutional)
+
 ## DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses
 *Date: 2025-12-12*
 
@@ -21968,3 +21992,95 @@
 3. [Justice Department sues Mass., 17 other states for access to detailed voter data](https://www.wgbh.org/news/national/2025-12-12/justice-department-sues-mass-17-other-states-for-access-to-detailed-voter-data)
 4. [Tracker of Justice Department Requests for Voter Information](https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information)
 5. [ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data](https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data)
+
+## House Judiciary Subcommittee Hearing Exposes How Trump Administration Corrupted DOJ Antitrust Enforcement Through Pay-to-Play Schemes and Political Interference
+*Date: 2025-12-16*
+
+1. [Ranking Member Raskin's Opening Statement at Subcommittee Hearing on Trump's Corruption of Antitrust Enforcement](https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-trump-s-corruption-of-antitrust-enforcement)
+2. [At Subcommittee Hearing, Former Trump Administration Official Explains How Antitrust Enforcement in America Has Become Corrupt and Politicized](https://democrats-judiciary.house.gov/media-center/press-releases/at-subcommittee-hearing-former-trump-administration-official-explains-how-antitrust-enforcement-in-america-has-become-corrupt-and-politicized-and-americans-are-paying-the-price)
+3. [Rep. Balint's Opening Statement at Subcommittee Hearing on Trump's Corruption of Antitrust Enforcement](https://democrats-judiciary.house.gov/media-center/press-releases/rep-balint-s-opening-statement-at-subcommittee-hearing-on-trump-s-corruption-of-antitrust-enforcement)
+
+## ICE Launches Operation Buckeye in Ohio, Targeting Afghan Refugees Who Fled Taliban and Entered Through Legal CBP One Program
+*Date: 2025-12-16*
+
+1. [Operation Buckeye](https://www.ice.gov/newsroom)
+2. ['Good, innocent people' detained as ICE raids across Columbus spark fear, confusion](https://abc6onyourside.com/news/local/good-innocent-people-detained-as-ice-raids-across-columbus-spark-fear-confusion)
+3. [Reports of increased ICE activity spark response from Columbus city officials and police](https://www.wosu.org/politics-government/2025-12-18/reports-of-increased-ice-activity-spark-response-from-columbus-city-officials-and-police)
+4. [Columbus mayor, police chief release video reassuring immigrants amid ICE deployment](https://abc6onyourside.com/news/local/mayor-police-chief-affirm-columbus-policy-against-aiding-federal-immigration-probes-andrew-ginther-elaine-bryant-cpd-central-ohio-ice-trump-gop-secretary-kristi-noem)
+
+## California Governor Newsom Launches Official State Website Tracking Trump's "Top 10 Criminal Cronies" as Direct Political Confrontation Escalates
+*Date: 2025-12-16*
+
+1. [Newsom launches website tracking Trump's top 10 criminal cronies as new data shows California crime continues to drop](https://www.gov.ca.gov/2025/12/16/trumpcriminals/)
+2. [Gov. Newsom launches website tracking President Trump's 'criminal cronies'](https://ktla.com/news/california/gov-newsom-launches-website-tracking-president-trumps-criminal-cronies/)
+3. ['Criminal in chief': Newsom trolls Trump with website tracking 'criminal cronies'](https://www.ktvu.com/news/newsom-trolls-trump-associate-website)
+4. [Newsom lists Fiore among 'Trump's top 10 criminal cronies'](https://www.8newsnow.com/news/politics/newsom-lists-fiore-among-trumps-top-10-criminal-cronies/)
+
+## Senate Passes $901 Billion Defense Bill with Unprecedented Oversight Provisions Targeting Hegseth
+*Date: 2025-12-17*
+
+1. [Senate passes defense authorization bill, pushes Hegseth for boat strike video](https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authorization-act-hegseth-boat-strike-video)
+2. [Senate passes $901 billion defense bill that pushes Hegseth for boat strike video](https://federalnewsnetwork.com/congress/2025/12/senate-voting-on-901-billion-defense-bill-that-pushes-hegseth-for-boat-strike-video/)
+3. [House passes Pentagon bill pressuring Hegseth on boat strike evidence](https://www.washingtonpost.com/national-security/2025/12/10/house-pentagon-bill-ndaa-boat-strikes/)
+
+## Border Patrol Academy Reaches Highest Enrollment Since 2009 With 1,100 Trainees as Trump Administration Militarizes Enforcement Training
+*Date: 2025-12-18*
+
+1. [Border Patrol trains record number of recruits, with new lessons on car chases and shooting](https://www.cnn.com/2025/12/18/us/border-patrol-academy)
+2. [Border crossings once again at a record low in November 2025](https://www.cbp.gov/newsroom/national-media-release/border-crossings-once-again-record-low-november-2025)
+3. [DHS opens up new $60K bonuses for Border Patrol agents, other officers](https://www.govexec.com/pay-benefits/2025/12/dhs-opens-new-60k-bonuses-border-patrol-agents-other-officers/410271/)
+
+## DHS Releases Year-End Report Claiming 'Most Secure Border in History' While Touting 2.5 Million Departures and Record Drug Seizures
+*Date: 2025-12-19*
+
+1. [Under President Trump and Secretary Noem, the Department of Homeland Security Has Historic Year](https://www.dhs.gov/news/2025/12/19/under-president-trump-and-secretary-noem-department-homeland-security-has-historic)
+2. [Border crossings once again at a record low in November 2025](https://www.cbp.gov/newsroom/national-media-release/border-crossings-once-again-record-low-november-2025)
+3. [Border Crossings Once Again at a Record Low in November 2025](https://www.dhs.gov/news/2025/12/04/border-crossings-once-again-record-low-november-2025)
+
+## DOJ Releases Heavily Redacted Epstein Files, 550+ Pages Completely Blacked Out
+*Date: 2025-12-19*
+
+1. [Over 500 pages in initial Epstein files release were entirely blacked out, CBS News finds](https://www.cbsnews.com/news/epstein-files-redaction-over-500-pages-entirely-blacked-out/)
+2. [DOJ releases Epstein files and the first batch is short on new information](https://www.npr.org/2025/12/19/nx-s1-5615152/epstein-files-release-trump-pam-bondi-democrats)
+3. [Epstein files include redacted records, more photographs as Trump DOJ criticized for handling](https://www.nbcnews.com/politics/justice-department/live-blog/epstein-files-release-trump-congress-live-updates-rcna245032)
+4. [December 19, 2025 — Jeffrey Epstein files released](https://www.cnn.com/politics/live-news/jeffrey-epstein-files-released)
+5. [The Epstein Files](https://theramm.substack.com/p/the-epstein-files)
+
+## Bipartisan Lawmakers Accuse DOJ of Violating Epstein Files Transparency Act
+*Date: 2025-12-19*
+
+1. [DOJ Chickens Out on Epstein Files in Violation of New Law](https://www.democracydocket.com/news-alerts/justice-department-fail-epstein-files-deadline-blanche/)
+2. [Epstein files include redacted records, more photographs as Trump DOJ criticized for handling](https://www.nbcnews.com/politics/justice-department/live-blog/epstein-files-release-trump-congress-live-updates-rcna245032)
+3. [Some lawmakers criticize DOJ release of Epstein files, say 'fails to comply' with law](https://abcnews.go.com/Politics/democrats-examining-legal-options-after-doj-full-epstein/story?id=128561229)
+4. [New Epstein files include photos, documents with redactions as DOJ releases initial trove of records](https://www.cbsnews.com/live-updates/epstein-files-released-2025/)
+5. [The Epstein Files](https://theramm.substack.com/p/the-epstein-files)
+
+## DHS Secretary Noem Suspends Diversity Visa Lottery Program Following Brown University Mass Shooting
+*Date: 2025-12-19*
+
+1. [Noem says Brown shooting suspect got U.S. visa through diversity lottery, announces pause to program](https://www.cbsnews.com/news/noem-alleged-brown-shooter-diversity-visa-lottery/)
+2. [Under President Trump and Secretary Noem, the Department of Homeland Security Has Historic Year](https://www.dhs.gov/news/2025/12/19/under-president-trump-and-secretary-noem-department-homeland-security-has-historic)
+3. [Senate passes defense authorization bill, pushes Hegseth for boat strike video](https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authorization-act-hegseth-boat-strike-video)
+
+## Supreme Court Rejects Trump Administration Emergency Request to Silence Immigration Judges, First Major Loss on Shadow Docket
+*Date: 2025-12-19*
+
+1. [Supreme Court rejects Trump administration's request in dispute over immigration judges](https://www.scotusblog.com/2025/12/supreme-courts-rejects-trump-administrations-request-in-dispute-over-immigration-judges/)
+2. [Supreme Court sides with immigration judges in speech case for now, rebuffing Trump administration](https://abcnews.go.com/US/wireStory/supreme-court-sides-immigration-judges-speech-case-now-128564078)
+3. [Supreme Court revives free speech lawsuit from immigration judges in loss for Trump](https://www.cnn.com/2025/12/19/politics/supreme-court-revives-free-speech-lawsuit-immigration-judges)
+4. [Trump's win streak on Supreme Court emergency docket breaks](https://thehill.com/regulation/court-battles/5657340-supreme-court-immigration-judges-speech-emergency-docket/)
+
+## DOJ Removes 15+ Epstein Files After Release, Including Trump-Maxwell Photo
+*Date: 2025-12-20*
+
+1. [Available to download Friday, some Epstein files no longer there Saturday afternoon](https://www.npr.org/2025/12/20/nx-s1-5650758/epstein-files-doj-trump-photo)
+2. [New Epstein files include photos, documents with redactions as DOJ releases initial trove of records](https://www.cbsnews.com/live-updates/epstein-files-released-2025/)
+3. [What's inside the Epstein files released by the Justice Department](https://www.cnn.com/2025/12/20/politics/jeffrey-epstein-files-released-doj)
+4. [The Epstein Files](https://theramm.substack.com/p/the-epstein-files)
+
+## Defense Secretary Hegseth Orders 'Operation Hawkeye Strike': Massive Retaliatory Strikes Against ISIS in Syria
+*Date: 2025-12-20*
+
+1. [Hegseth announces operation to 'eliminate ISIS fighters' in Syria after Americans killed](https://www.pbs.org/newshour/world/hegseth-announces-operation-to-eliminate-isis-fighters-in-syria-after-americans-killed)
+2. [US launches retaliatory strikes in Syria on dozens of ISIS targets](https://abcnews.go.com/International/us-launches-retaliatory-strikes-syria-targeting-isis-hegseth/story?id=128565563)
+3. [Defense Secretary Pete Hegseth announces 'Operation Hawkeye Strike' in Syria](https://www.cbsnews.com/video/defense-secretary-pete-hegseth-announces-operation-hawkeye-strike-syria/)
