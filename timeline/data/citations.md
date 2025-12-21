@@ -21819,6 +21819,14 @@
 2. [Judge rules evidence belonging to James Comey's ally is off limits to DOJ](https://www.foxnews.com/politics/judge-rules-evidence-linked-james-comeys-ally-off-limits-doj)
 3. [Judge temporarily blocks Justice Department's use of evidence in dismissed Comey case](https://krdo.com/news/2025/12/07/judge-temporarily-blocks-justice-departments-use-of-evidence-in-dismissed-comey-case/)
 
+## Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order
+*Date: 2025-12-08*
+
+
+## Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations
+*Date: 2025-12-08*
+
+
 ## Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling
 *Date: 2025-12-08*
 
@@ -21826,6 +21834,10 @@
 2. [Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J.](https://www.nbcnews.com/politics/justice-department/ex-trump-lawyer-alina-habba-announces-stepping-us-attorney-nj-rcna248070)
 3. [Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful](https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/)
 4. [Third Circuit Affirms Disqualification of Alina Habba](https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/)
+
+## Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases
+*Date: 2025-12-08*
+
 
 ## Paramount Skydance Launches $108.4 Billion Hostile Takeover Bid for Warner Bros. Discovery with Saudi, Qatari, and UAE Backing
 *Date: 2025-12-08*
@@ -21835,6 +21847,14 @@
 3. [Paramount Skydance launches hostile bid for WBD 'to finish what we started,' CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html)
 4. [Democratic Reps Warn WBD That Paramount's Takeover Bid Raises National Security Concerns Over Saudi and Other Foreign Investors](https://variety.com/2025/film/news/democrats-warn-wbd-paramount-bid-national-security-concerns-saudi-foreign-investors-1236605589/)
 5. [Democratic Lawmakers Warn Warner Bros. Discovery Of National Security Concerns In Paramount Bid Because Of Saudi And Other Foreign Investors](https://deadline.com/2025/12/democrats-warner-bros-discovery-saudi-investors-1236644779/)
+
+## State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate
+*Date: 2025-12-08*
+
+
+## Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
+*Date: 2025-12-08*
+
 
 ## ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
 *Date: 2025-12-08*
@@ -21849,6 +21869,10 @@
 2. [Judge Says Lindsey Halligan Should Resign](https://politicalwire.com/2025/12/10/judge-says-lindsey-halligan-should-resign/)
 3. [Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey](https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba)
 4. [Former Trump lawyer Alina Habba resigns as New Jersey U.S. attorney after disqualification](https://www.cnbc.com/2025/12/08/trump-alina-habba-new-jersey-prosecutor.html)
+
+## Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
+*Date: 2025-12-09*
+
 
 ## Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act
 *Date: 2025-12-09*

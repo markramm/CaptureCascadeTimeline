@@ -1,16 +1,16 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-20 18:32:01
+Generated: 2025-12-20 19:52:44
 
 ## Overview
-- **Total Events**: 2976
+- **Total Events**: 2982
 - **Date Range**: 1142-01-01 to 2025-12-12
 - **Total Sources**: 9992
-- **Unique Tags**: 5234
-- **Unique Actors**: 5026
+- **Unique Tags**: 5243
+- **Unique Actors**: 5036
 
 ## Event Status
-- **Unknown**: 889
+- **Unknown**: 895
 - **Confirmed**: 2037
 - **Validated**: 31
 - **Disputed**: 2
@@ -37,15 +37,15 @@ Generated: 2025-12-20 18:32:01
 - constitutional-crisis: 88 events
 
 ## Top Actors
-- Donald Trump: 1006 events
+- Donald Trump: 1007 events
 - Trump Administration: 324 events
-- Department of Justice: 189 events
+- Department of Justice: 192 events
 - Elon Musk: 162 events
-- Pam Bondi: 83 events
+- Pam Bondi: 84 events
 - FBI: 70 events
 - Jeffrey Epstein: 60 events
-- Supreme Court: 56 events
-- ICE: 55 events
+- Supreme Court: 57 events
+- ICE: 56 events
 - CIA: 54 events
 
 ## Events by Year
@@ -111,4 +111,4 @@ Generated: 2025-12-20 18:32:01
 - 2022: 75 events
 - 2023: 79 events
 - 2024: 143 events
-- 2025: 1143 events
+- 2025: 1149 events

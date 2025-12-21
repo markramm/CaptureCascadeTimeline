@@ -155677,6 +155677,65 @@
       "_id_hash": "62497e62cd565de41e05aa464c5e2a60ed261363c7172e9d80d43257402ef2fd"
     },
     {
+      "id": "2025-12-08--boasberg-orders-doj-testimony-alien-enemies-act",
+      "date": "2025-12-08",
+      "title": "Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order",
+      "summary": "U.S. District Judge James Boasberg ordered Deputy Assistant Attorney General Drew Ensign and former DOJ attorney turned whistleblower Erez Reuveni to testify on December 15-16 regarding the Trump administration's March 2025 decision to proceed with Alien Enemies Act deportations to El Salvador despite the judge's explicit order to turn the planes around. The testimony is part of Boasberg's ongoing criminal contempt inquiry to determine whether administration officials, including DHS Secretary Kristi Noem, should face contempt charges for deliberately defying court orders. Ensign, a top DOJ lawyer in the Office of Immigration Litigation, was directly involved in the March decisions, while Reuveni filed a whistleblower complaint alleging that a senior DOJ official told colleagues the administration intended to ignore court orders as part of Trump's aggressive deportation efforts. The case involves over 100 alleged Tren de Aragua gang members deported to El Salvador's CECOT mega-prison under the 1798 Alien Enemies Act wartime authority, with DOJ attorneys claiming Boasberg's oral instructions were 'defective' and proceeding with deportations anyway.",
+      "importance": 9,
+      "tags": [
+        "courts",
+        "contempt",
+        "alien-enemies-act",
+        "deportation",
+        "doj",
+        "judicial-authority",
+        "rule-of-law",
+        "due-process",
+        "el-salvador",
+        "whistleblower"
+      ],
+      "actors": [
+        "James Boasberg",
+        "Drew Ensign",
+        "Erez Reuveni",
+        "Kristi Noem",
+        "Department of Justice",
+        "Department of Homeland Security"
+      ],
+      "_file": "2025-12-08--boasberg-orders-doj-testimony-alien-enemies-act.md",
+      "_id_hash": "cec8f2c884bb20f0187e6bc20752a055eaf5934c2b62843c5ef7081c17a75007"
+    },
+    {
+      "id": "2025-12-08--fort-bliss-detention-torture-abuse-allegations",
+      "date": "2025-12-08",
+      "title": "Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations",
+      "summary": "Human rights organizations including the ACLU, Human Rights Watch, and multiple civil rights groups released findings from interviews with more than 45 detained immigrants at Fort Bliss Camp East Montana in Texas, documenting widespread torture, sexual abuse, and coerced deportations. Sworn declarations describe officers beating detainees unconscious, crushing testicles, forcing fingers into ears causing permanent hearing damage, slamming heads against walls repeatedly, and threatening deportation to El Salvador or Africa to coerce non-Mexican immigrants into crossing into the Mexican desert. The facility, located on a military base previously used to intern Japanese Americans during World War II, now holds over 2,700 people and is the largest immigration detention center in the United States. A leaked internal ICE inspection found the facility violated over 60 federal detention standards in its first 50 days of operation. One Guatemalan immigrant, Francisco Gaspar Andres, died at the facility on December 3, 2025 after failing to receive appropriate medical care for liver and kidney failure.",
+      "importance": 9,
+      "tags": [
+        "immigration",
+        "detention",
+        "human-rights",
+        "torture",
+        "ice",
+        "abuse",
+        "civil-rights",
+        "due-process",
+        "asylum",
+        "dhs"
+      ],
+      "actors": [
+        "ICE",
+        "Department of Homeland Security",
+        "ACLU",
+        "Human Rights Watch",
+        "Las Americas Immigrant Advocacy Center",
+        "Texas Civil Rights Project",
+        "Francisco Gaspar Andres"
+      ],
+      "_file": "2025-12-08--fort-bliss-detention-torture-abuse-allegations.md",
+      "_id_hash": "5811d9aaf17ffdac291ac42c2210af0a267b5fe5e1fbff45096df1772cc6a7f7"
+    },
+    {
       "id": "2025-12-08--habba-resigns-us-attorney-new-jersey",
       "date": "2025-12-08",
       "title": "Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling",
@@ -155731,6 +155790,34 @@
       ],
       "_file": "2025-12-08--habba-resigns-us-attorney-new-jersey.md",
       "_id_hash": "e085c611a9f60cfb253fdb34a4a6692e8fd5c8eb4edf3c696c78eab0a9f09e1d"
+    },
+    {
+      "id": "2025-12-08--immigration-judge-purge-100-judges-fired",
+      "date": "2025-12-08",
+      "title": "Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases",
+      "summary": "The Trump administration has fired approximately 100 immigration judges from a bench that began 2025 with around 700 judges, with recent reports indicating 139 judges have been fired, taken early retirement offers, or been involuntarily transferred since Trump took office. NPR identified 70 fired judges through independent analysis, finding that those with prior experience in immigrant defense constituted the largest share of terminated judges, while newly hired judges predominantly have backgrounds in immigration enforcement, military service, and federal agencies. Most fired judges were in liberal areas including New York, San Francisco, and Boston, though judges in red states like Texas and Louisiana were also terminated. Dozens of judges confirmed receiving no explanation for their firings. The purge occurs as the immigration court system maintains a backlog of 3.4 million cases, and critics argue the firings undermine due process and judicial independence while being counterproductive to stated deportation goals.",
+      "importance": 9,
+      "tags": [
+        "immigration",
+        "judges",
+        "doj",
+        "due-process",
+        "judicial-independence",
+        "purge",
+        "deportation",
+        "courts",
+        "legal"
+      ],
+      "actors": [
+        "Department of Justice",
+        "Executive Office for Immigration Review",
+        "Tania Nemer",
+        "Kyra Lilien",
+        "Anam Petit",
+        "Amiena Khan"
+      ],
+      "_file": "2025-12-08--immigration-judge-purge-100-judges-fired.md",
+      "_id_hash": "b2c00412fe3185080768c784e72767c5797a32f876c4fdd47bcad844a38efb53"
     },
     {
       "id": "2025-12-08--paramount-skydance-hostile-takeover-warner-bros-discovery",
@@ -155808,6 +155895,60 @@
       ],
       "_file": "2025-12-08--paramount-skydance-hostile-takeover-warner-bros-discovery.json",
       "_id_hash": "33df77244c2ed61b05c91f28001c1eb8d3a418fd2812e8574240eb6e63795a76"
+    },
+    {
+      "id": "2025-12-08--state-department-85000-visa-revocations",
+      "date": "2025-12-08",
+      "title": "State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate",
+      "summary": "The State Department announced it has revoked 85,000 visas of all categories since January 2025—more than double the number revoked in 2024—including over 8,000 student visas under the Trump administration's intensified immigration enforcement. Officials cited safety threats including DUIs, assaults, and theft as justifying nearly half the revocations, while remaining cancellations were attributed to visa expirations and allegations of terrorism support. The unprecedented scale of revocations affects tourists, students, workers, and other visa holders, with H-1B visa applicants facing heightened scrutiny and denials for involvement in content moderation or fact-checking. Additionally, immigration from 19 countries under partial or full travel bans was paused, and six Mexican airline executives had visas revoked for alleged collaboration with migrant smuggling networks.",
+      "importance": 9,
+      "tags": [
+        "immigration",
+        "visas",
+        "state-department",
+        "students",
+        "travel",
+        "h1b",
+        "enforcement",
+        "international-relations"
+      ],
+      "actors": [
+        "State Department",
+        "Department of Homeland Security"
+      ],
+      "_file": "2025-12-08--state-department-85000-visa-revocations.md",
+      "_id_hash": "2b02770b352a715811a076568687eb41b5e6d4a642ce8a9dc939c1f9a6d049fc"
+    },
+    {
+      "id": "2025-12-08--supreme-court-independent-agency-firing-humphreys-executor",
+      "date": "2025-12-08",
+      "title": "Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power",
+      "summary": "The Supreme Court heard oral arguments in Trump v. Slaughter regarding President Trump's firing of Federal Trade Commission Commissioner Rebecca Slaughter, with the conservative majority signaling strong support for overturning Humphrey's Executor v. United States, the 1935 unanimous decision that has limited presidential power to fire independent agency leaders for 90 years. Chief Justice John Roberts referred to the precedent as 'a dry husk,' while Justice Elena Kagan warned the ruling would give the president 'massive unchecked, uncontrolled power.' The anticipated decision would allow presidents to fire at will the leaders of independent agencies including the Federal Reserve, SEC, FTC, NLRB, and numerous other regulatory bodies, fundamentally transforming the balance of power in American governance and eliminating protections designed to insulate expert decision-making from political interference.",
+      "importance": 9,
+      "tags": [
+        "supreme-court",
+        "executive-power",
+        "independent-agencies",
+        "separation-of-powers",
+        "constitutional-law",
+        "ftc",
+        "federal-reserve",
+        "regulatory-agencies",
+        "unitary-executive",
+        "legal"
+      ],
+      "actors": [
+        "Supreme Court",
+        "Donald Trump",
+        "Rebecca Slaughter",
+        "John Roberts",
+        "Elena Kagan",
+        "D. John Sauer",
+        "Amit Agarwal",
+        "Federal Trade Commission"
+      ],
+      "_file": "2025-12-08--supreme-court-independent-agency-firing-humphreys-executor.md",
+      "_id_hash": "05ab08da9b9d6abfdcdcaa410c288ef83d0c73a0f47b6a8848a24304e2b8cc07"
     },
     {
       "id": "2025-12-08--trump-mortgage-fraud-florida",
@@ -155904,6 +156045,33 @@
       ],
       "_file": "2025-12-09--brinkema-suggests-halligan-resignation.json",
       "_id_hash": "08f0fda3a2843eeda1a64a780d10894d972f0d7d99c6d392248b28d97ccc7b14"
+    },
+    {
+      "id": "2025-12-09--doj-eliminates-disparate-impact-civil-rights-protections",
+      "date": "2025-12-09",
+      "title": "Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination",
+      "summary": "The Department of Justice issued a final rule eliminating disparate impact liability from Title VI of the Civil Rights Act of 1964, ending five decades of civil rights protections that allowed enforcement against policies producing racially discriminatory outcomes without proof of discriminatory intent. The rule change, announced by Attorney General Pam Bondi and implemented by Assistant Attorney General Harmeet Dhillon, restricts federal civil rights enforcement to cases demonstrating intentional discrimination based on race, color, or national origin. This unprecedented rollback affects enforcement in housing, policing, employment, education, environmental regulation, and virtually all federally-funded programs, potentially immunizing discriminatory practices as long as they appear facially neutral.",
+      "importance": 10,
+      "tags": [
+        "civil-rights",
+        "doj",
+        "legal",
+        "discrimination",
+        "regulation",
+        "executive-action",
+        "constitutional-law",
+        "voting-rights",
+        "housing",
+        "education",
+        "environmental-justice"
+      ],
+      "actors": [
+        "Pam Bondi",
+        "Harmeet Dhillon",
+        "Department of Justice"
+      ],
+      "_file": "2025-12-09--doj-eliminates-disparate-impact-civil-rights-protections.md",
+      "_id_hash": "3d872196df29412ad63fe9ff2b7a42295a8891fb7bbde3dd52651dc9df9056f6"
     },
     {
       "id": "2025-12-09--engelmayer-orders-maxwell-grand-jury-release",
