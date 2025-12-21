@@ -21367,6 +21367,14 @@
 3. [Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations](https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456)
 4. [Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says](https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987)
 
+## Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment
+*Date: 2025-12-02*
+
+1. [Michael and Susan Dell commit $6.25 billion for investment accounts for kids](https://www.npr.org/2025/12/02/nx-s1-5628412/michael-susan-dell-trump-account-children-investment-saving)
+2. [Dell family to give $6.25 billion to create 25 million additional 'Trump Accounts'](https://www.nbcnews.com/business/business-news/dells-billions-donation-trump-accounts-rcna246946)
+3. [Michael Dell pledges $6.25 billion to fund Trump Accounts for 25 million kids](https://www.cnbc.com/2025/12/02/michael-susan-dell-trump-accounts.html)
+4. [Michael Dell Gives $6.25 Billion to Launch 'Trump Accounts' for 25 Million Kids](https://www.bloomberg.com/news/articles/2025-12-02/michael-dell-gives-6-25-billion-to-launch-trump-accounts-for-25-million-kids)
+
 ## FDA Cancer Drug Chief Dr. Richard Pazdur Resigns After Three Weeks Under Political Pressure
 *Date: 2025-12-02*
 
@@ -21390,6 +21398,14 @@
 1. [Trump pardons Honduran ex-president who was convicted of drug crimes](https://www.npr.org/2025/12/02/nx-s1-5628382/trump-pardons-honduran-ex-president-juan-orlando-hernandez)
 2. [Former Honduran President Juan Orlando Hernández released from prison after Trump pardon](https://www.nbcnews.com/politics/trump-administration/former-honduran-president-juan-orlando-hernandez-freed-trump-pardon-rcna246968)
 3. [Trump says he will pardon former Honduran President Juan Orlando Hernandez for drug trafficking sentence](https://www.cbsnews.com/news/trump-says-he-will-pardon-former-honduran-president-juan-orlando-hernandez/)
+
+## Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China
+*Date: 2025-12-02*
+
+1. [Voice of America moves forward with bureau, shortwave radio closures](https://thedesk.net/2025/12/voice-of-america-closing-bureaus-shortwave-radio/)
+2. [What is Voice of America and why Trump is dismantling the broadcaster](https://www.pbs.org/newshour/show/what-is-voice-of-america-and-why-trump-is-dismantling-the-broadcaster)
+3. [How Trump's shutdown of Voice of America will impact underserved countries worldwide](https://www.wbur.org/hereandnow/2025/08/01/voice-of-america-shutdown)
+4. [Trump silencing VOA threatens free media in repressive countries, advocates say](https://abcnews.go.com/Politics/trump-silencing-voa-threatens-free-media-repressive-countries/story?id=119897528)
 
 ## University of Alabama Shutters Black and Female Student Magazines Under DEI Directives
 *Date: 2025-12-03*
@@ -21453,6 +21469,30 @@
 2. [Announcement of Expanded Screening and Vetting for H-1B and Dependent H-4 Visa Applicants](https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-h-1b-and-dependent-h-4-visa-applicants.html)
 3. [New Trump Administration Visa Vetting Policy Targeting Online Trust and Safety Workers is Unconstitutional, Knight Institute Says](https://knightcolumbia.org/content/new-trump-administration-visa-vetting-policy-targeting-online-trust-and-safety-workers-is-unconstitutional-knight-institute-says)
 4. [US will expand social media, work history vetting for H-1B visas](https://www.aljazeera.com/news/2025/12/4/us-will-expand-social-media-work-history-vetting-for-h-1b-visas)
+
+## U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover
+*Date: 2025-12-03*
+
+1. [US Institute of Peace renamed for Trump after his administration gutted it earlier this year](https://www.cnn.com/2025/12/03/politics/us-institute-of-peace-renamed-trump)
+2. [U.S. Institute of Peace renamed for Trump after his administration dismantled the agency](https://www.nbcnews.com/politics/doge/trump-us-institute-peace-renamed-musk-dismantled-rcna247367)
+3. [Trump is fighting the Institute of Peace in court. His name is on the building](https://www.npr.org/2025/12/04/g-s1-100576/trump-institute-of-peace-name)
+4. [Trump added his name to the U.S. Institute of Peace building while fighting the organization in court](https://www.pbs.org/newshour/politics/trump-added-his-name-to-the-u-s-institute-of-peace-building-while-fighting-the-organization-in-court)
+
+## Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting
+*Date: 2025-12-03*
+
+1. [VA directs leaders to identify employees and affiliates who are not US citizens](https://www.stripes.com/veterans/2025-12-05/va-employees-not-us-citizens-19993467.html)
+2. [Democratic lawmakers accuse Trump administration of targeting VA employees in 'misguided mass deportation scheme'](https://www.stripes.com/veterans/2025-12-12/democratic-lawmakers-va-workers-us-citizens-20070889.html)
+3. [Veterans Affairs Offices Ordered to Snitch on Noncitizens](https://www.rollingstone.com/politics/political-commentary/veterans-affairs-offices-ordered-snitch-noncitizens-1235482420/)
+4. [VA creating database of 'non-citizen' employees, leaked memo says](https://san.com/cc/va-creating-database-of-non-citizen-employees-leaked-memo-says/)
+
+## White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets
+*Date: 2025-12-03*
+
+1. [White House Launches 'Media Offenders' Site and Tipline](https://time.com/7338411/white-house-media-bias-tracker-trump-attacks/)
+2. [USA: New White House 'Hall of Shame' webpage expands Trump's war on the press, disparaging the media](https://rsf.org/en/usa-new-white-house-hall-shame-webpage-expands-trump-s-war-press-disparaging-media)
+3. [Trump administration's 'media bias' list raises alarm, CPJ says](https://cpj.org/2025/12/trump-administrations-media-bias-list-raises-alarm-cpj-says/)
+4. [ICYMI: White House Launches 'Media Bias' Portal to Expose Fake News](https://www.whitehouse.gov/articles/2025/12/icymi-white-house-launches-media-bias-portal-to-expose-fake-news/)
 
 ## Admiral Reveals Boat Strike Survivors Were Waving Before Execution; Hegseth Refuses to Release Video Evidence
 *Date: 2025-12-04*
@@ -21732,6 +21772,15 @@
 3. [NPR sues Trump over executive order slashing federal funding](https://www.cbsnews.com/news/npr-sues-trump-over-executive-order-slashing-funding/)
 4. [NPR Lawsuit Challenging Trump Executive Order Cutting Federal Funding Should Prevail on Free Speech and Press Freedom Grounds](https://knightcolumbia.org/content/npr-lawsuit-challenging-trump-executive-order-cutting-federal-funding-should-prevail-on-free-speech-and-press-freedom-grounds-knight-institute-says)
 5. [Trump's Attacks on Press Freedom Escalate - NPR, PBS Funding Cuts Explained](https://www.aclu.org/news/free-speech/trumps-attacks-on-press-freedom-escalate-npr-pbs-funding-cuts-explained)
+
+## RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation
+*Date: 2025-12-05*
+
+1. [CDC's ACIP changes recommendations for hepatitis B vaccination for infants](https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting)
+2. [RFK Jr.'s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance](https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html)
+3. [CDC advisory panel rolls back hepatitis B vaccine guidelines: What you need to know](https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482)
+4. [RFK Jr.'s ACIP panel recommends delay in newborn hepatitis B vaccination](https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/)
+5. [CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns](https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/)
 
 ## Supreme Court Grants Review of Trump's Birthright Citizenship Challenge, Setting Stage for Constitutional Crisis
 *Date: 2025-12-05*
