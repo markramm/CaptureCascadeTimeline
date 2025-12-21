@@ -21299,6 +21299,16 @@
 2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
 3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
 
+## Marjorie Taylor Greene Announces Resignation from Congress After Trump Feud Over Epstein Files
+*Date: 2025-11-21*
+
+1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
+2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
+3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
+4. [Marjorie Taylor Greene announces resignation from Congress after President Trump withdraws endorsement](https://www.foxnews.com/politics/marjorie-taylor-greene-announces-resignation-from-congress-after-president-trump-withdraws-endorsement)
+5. [Marjorie Taylor Greene retirement launches speculation about congressional pensions](https://www.govexec.com/pay-benefits/2025/11/marjorie-taylor-greene-retirement-launches-speculation-about-congressional-pensions/409762/)
+6. [Marjorie Taylor Greene resignation timing ensures taxpayer-funded congressional pension](https://www.newsnationnow.com/politics/marjorie-taylor-greene-resignation-pension/)
+
 ## Federal Judge Dismisses Indictments Against Letitia James and Comey, Ruling Halligan's Appointment Unlawful
 *Date: 2025-11-24*
 
@@ -22016,6 +22026,17 @@
 3. ['Criminal in chief': Newsom trolls Trump with website tracking 'criminal cronies'](https://www.ktvu.com/news/newsom-trolls-trump-associate-website)
 4. [Newsom lists Fiore among 'Trump's top 10 criminal cronies'](https://www.8newsnow.com/news/politics/newsom-lists-fiore-among-trumps-top-10-criminal-cronies/)
 
+## ACA Subsidies Discharge Petition Reaches 218 Signatures as Four Republicans Defy Leadership
+*Date: 2025-12-17*
+
+1. [Centrist Republicans revolt, signing a petition to force a vote on Obamacare funding](https://www.nbcnews.com/politics/congress/centrist-republicans-revolt-signing-petition-force-vote-obamacare-fund-rcna249693)
+2. [4 Republican congressmen join Democrats to force vote on extending ACA subsidies](https://www.npr.org/2025/12/18/nx-s1-5647416/4-republican-congressmen-join-democrats-to-force-vote-on-extending-aca-subsidies)
+3. [Democratic and GOP lawmakers on uniting to force vote on ACA subsidies](https://www.pbs.org/newshour/show/democratic-and-gop-lawmakers-on-uniting-to-force-vote-on-aca-subsidies)
+4. [Democrats push for last-minute vote on extending health care subsidies before deadline](https://www.cbsnews.com/news/health-care-tax-credits-affordable-care-act-house-democrats/)
+5. [House passes GOP health care bill that doesn't extend ACA subsidies](https://abcnews.go.com/Politics/moderate-republicans-buck-leadership-back-democrat-effort-extend/story?id=128485292)
+6. [GOP centrists push Democratic ObamaCare discharge petition to 218-signature threshold](https://thehill.com/homenews/house/5652673-gop-centrists-democratic-obamacare-discharge-petition/)
+7. [Leader Jeffries on MS NOW: We Should Not Leave Town Until We Vote on Extending the ACA Tax Credits](https://democraticleader.house.gov/media/press-releases/leader-jeffries-ms-now-we-should-not-leave-town-until-we-vote-extending-aca)
+
 ## Senate Passes $901 Billion Defense Bill with Unprecedented Oversight Provisions Targeting Hegseth
 *Date: 2025-12-17*
 
@@ -22029,6 +22050,17 @@
 1. [Border Patrol trains record number of recruits, with new lessons on car chases and shooting](https://www.cnn.com/2025/12/18/us/border-patrol-academy)
 2. [Border crossings once again at a record low in November 2025](https://www.cbp.gov/newsroom/national-media-release/border-crossings-once-again-record-low-november-2025)
 3. [DHS opens up new $60K bonuses for Border Patrol agents, other officers](https://www.govexec.com/pay-benefits/2025/12/dhs-opens-new-60k-bonuses-border-patrol-agents-other-officers/410271/)
+
+## Johnson Sends House Home for Recess, Delays ACA Subsidy Vote Despite Democratic Demands
+*Date: 2025-12-18*
+
+1. [Hakeem Jeffries, Democrats press Mike Johnson for vote on ObamaCare subsidies](https://thehill.com/homenews/house/5654903-jeffries-democrats-johnson-obamacare-subsidies/)
+2. [House passes GOP health care bill without ACA extension](https://www.cbsnews.com/live-updates/house-health-care-vote-republicans-congress/)
+3. [Centrist Republicans revolt, signing a petition to force a vote on Obamacare funding](https://www.nbcnews.com/politics/congress/centrist-republicans-revolt-signing-petition-force-vote-obamacare-fund-rcna249693)
+4. [House passes GOP health care bill that doesn't extend ACA subsidies](https://abcnews.go.com/Politics/moderate-republicans-buck-leadership-back-democrat-effort-extend/story?id=128485292)
+5. [Leader Jeffries ahead of vote on GOP healthcare bill: Republicans need to bring the Affordable Care Act tax credit extension bill to the Floor today](https://jeffries.house.gov/2025/12/17/leader-jeffries-ahead-of-vote-on-gop-healthcare-bill-republicans-need-to-bring-the-affordable-care-act-tax-credit-extension-bill-to-the-floor-today/)
+6. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
+7. [Congress leaves for Christmas, closes the books on 2025](https://rollcall.com/2025/12/19/congress-leaves-for-christmas-closes-the-books-on-2025/)
 
 ## DHS Releases Year-End Report Claiming 'Most Secure Border in History' While Touting 2.5 Million Departures and Record Drug Seizures
 *Date: 2025-12-19*
@@ -22084,3 +22116,13 @@
 1. [Hegseth announces operation to 'eliminate ISIS fighters' in Syria after Americans killed](https://www.pbs.org/newshour/world/hegseth-announces-operation-to-eliminate-isis-fighters-in-syria-after-americans-killed)
 2. [US launches retaliatory strikes in Syria on dozens of ISIS targets](https://abcnews.go.com/International/us-launches-retaliatory-strikes-syria-targeting-isis-hegseth/story?id=128565563)
 3. [Defense Secretary Pete Hegseth announces 'Operation Hawkeye Strike' in Syria](https://www.cbsnews.com/video/defense-secretary-pete-hegseth-announces-operation-hawkeye-strike-syria/)
+
+## Marjorie Taylor Greene Explores Motion to Vacate Johnson Over ACA Dispute and Leadership Failures
+*Date: 2025-12-20*
+
+1. [Marjorie Taylor Greene's farewell gift to Mike Johnson: a longshot plot to oust him](https://www.ms.now/news/marjorie-taylor-greene-mike-johnson-motion-to-vacate)
+2. [Rep. Marjorie Taylor Greene files motion to oust Mike Johnson as House speaker](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-files-motion-oust-mike-johnson-house-speake-rcna134385)
+3. [House Republicans unveil new rules, one which makes it harder to oust speaker](https://abcnews.go.com/Politics/house-republicans-strike-deal-motion-vacate-making-harder/story?id=115860875)
+4. [Marjorie Taylor Greene reportedly attempting to oust House Speaker Mike Johnson before resignation](https://www.wsbtv.com/news/local/atlanta/marjorie-taylor-greene-reportedly-attempting-oust-house-speaker-mike-johnson-before-resignation/NVQRJQADWFBXLOZBD362LPD57A/)
+5. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
+6. [House quickly kills Marjorie Taylor Greene's effort to oust Speaker Johnson](https://abcnews.go.com/Politics/marjorie-taylor-greene-triggers-vote-motion-oust-speaker/story?id=110043228)
