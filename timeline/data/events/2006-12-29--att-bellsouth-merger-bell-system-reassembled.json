@@ -1,0 +1,45 @@
+{
+  "id": "2006-12-29--att-bellsouth-merger-bell-system-reassembled",
+  "date": "2006-12-29",
+  "title": "AT&T Completes $86 Billion BellSouth Acquisition: Bell System Reassembled After 1984 Breakup",
+  "summary": "AT&T Inc. (formerly SBC Communications) completed its $85.8 billion acquisition of BellSouth Corporation with FCC approval, reassembling much of the former Bell System that was broken up in 1984 as an antitrust remedy. The merger consolidated control over telecommunications infrastructure across much of the United States and completed a remarkable reversal of the most famous antitrust case of the 20th century, as one of the Baby Bells grew large enough to acquire its former parent company and multiple siblings.\n\nThe BellSouth acquisition was the capstone of SBC Communications' aggressive consolidation strategy that had already reassembled significant portions of the original Bell System:\n\n- 1997: SBC acquired Pacific Telesis for $16.5 billion\n- 1998: SBC acquired Southern New England Telecommunications for $5.01 billion  \n- 1999: SBC acquired Ameritech for $61 billion, creating the largest U.S. local phone company\n- 2005: SBC acquired AT&T Corporation (the original parent company) for approximately $16 billion and renamed itself AT&T Inc.\n- 2006: The new AT&T acquired BellSouth for $85.8 billion\n\nThis consolidation wave effectively reversed the 1984 Modified Final Judgment that had broken up the Bell System monopoly into AT&T (long distance) and seven Regional Bell Operating Companies (\"Baby Bells\"). By 2006, what started as Southwestern Bell Corporation had consumed Pacific Telesis, Ameritech, Southern New England Telephone, the original AT&T, and BellSouth—reassembling much of the original monopoly under the historic AT&T brand.\n\nMeanwhile, on the East Coast, Bell Atlantic had merged with NYNEX in 1997 ($25.6 billion) and then with GTE in 2000 ($70 billion) to create Verizon Communications, assembling another telecommunications giant from Baby Bell components. By 2006, the seven Baby Bells had consolidated into essentially two dominant players (AT&T and Verizon) plus smaller regional carriers.\n\nThe Telecommunications Act of 1996 enabled this reconsolidation by relaxing restrictions on Baby Bell mergers that had been imposed in the 1984 breakup decree. Lawmakers and regulators claimed that competition from cable companies, wireless carriers, and emerging internet services would prevent monopoly abuses even as local telephone companies reconsolidated. This proved mistaken—the reunified carriers used their control over infrastructure to limit competition, particularly in broadband internet services.\n\nThe BellSouth merger gave AT&T control over Cingular Wireless (which had been a joint venture between SBC and BellSouth) and extended AT&T's wireline territory across the Southeast. The combined company controlled telecommunications infrastructure serving over 70 million local access lines and 58 million wireless subscribers, with dominant market positions across much of the South, Southwest, Midwest, and California.\n\nThe FCC approved the merger with conditions requiring AT&T to offer stand-alone DSL service, expand broadband deployment, and observe net neutrality principles for two years. However, these conditions proved temporary and ineffective at preventing AT&T from leveraging its market power to limit competition, raise prices, and degrade service quality. The net neutrality requirements expired, broadband deployment commitments were not meaningfully enforced, and AT&T subsequently lobbied to eliminate regulations constraining its conduct.\n\nThe AT&T-BellSouth merger exemplified the failure of antitrust enforcement to prevent reconsolidation of previously broken-up monopolies. The 1984 Bell System breakup was hailed as one of antitrust's greatest successes, increasing competition and innovation in telecommunications. Yet within 22 years, regulators and lawmakers had allowed the monopoly to substantially reassemble, demonstrating that even successful antitrust interventions can be reversed by subsequent regulatory capture and permissive merger enforcement.",
+  "importance": 10,
+  "tags": [
+    "antitrust",
+    "consolidation",
+    "merger",
+    "telecommunications",
+    "regulatory-capture",
+    "monopoly",
+    "market-concentration"
+  ],
+  "actors": [
+    "AT&T Inc.",
+    "BellSouth Corporation",
+    "Federal Communications Commission",
+    "SBC Communications"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Regional_Bell_Operating_Company",
+      "title": "Regional Bell Operating Company",
+      "publisher": "Wikipedia",
+      "date": "2024",
+      "tier": 3
+    },
+    {
+      "url": "https://money.cnn.com/2014/05/20/technology/att-merger-history/index.html",
+      "title": "How AT&T got busted up and pieced back together",
+      "publisher": "CNN Money",
+      "date": "2014-05-20",
+      "tier": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/BellSouth",
+      "title": "BellSouth",
+      "publisher": "Wikipedia",
+      "date": "2024",
+      "tier": 3
+    }
+  ]
+}
