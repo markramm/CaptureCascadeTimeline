@@ -52,6 +52,22 @@
 2. [How the Great Law of Peace Helped Shape New York and American Democracy](https://history.nycourts.gov/great-law-of-peace-shape-ny-american-democracy/)
 3. [The Native American Government That Helped Inspire the US Constitution](https://www.history.com/articles/iroquois-confederacy-influence-us-constitution)
 
+## Supreme Court Orders Standard Oil Breakup in Landmark Antitrust Decision
+*Date: 1911-05-15*
+
+1. [Standard Oil Co. of New Jersey v. United States - Wikipedia](https://en.wikipedia.org/wiki/Standard_Oil_Co._of_New_Jersey_v._United_States)
+2. [Standard Oil Co. of New Jersey v. United States (1911) | Wex](https://www.law.cornell.edu/wex/standard_oil_co._of_new_jersey_v._united_states_(1911))
+3. [Standard Oil Company v. United States](https://civics.supremecourthistory.org/article/standard-oil-company-v-united-states/)
+4. [Standard Oil Co. of New Jersey v. United States (1911)](https://sites.gsu.edu/us-constipedia/standard-oil-co-of-new-jersey-v-united-states-1911/)
+
+## Wilson Signs Federal Trade Commission Act, Creating Expert Antitrust Enforcement Agency
+*Date: 1914-09-26*
+
+1. [Federal Trade Commission Act of 1914 - Wikipedia](https://en.wikipedia.org/wiki/Federal_Trade_Commission_Act_of_1914)
+2. [Our History](https://www.ftc.gov/about-ftc/history)
+3. [The Origins of the FTC: Concentration, Cooperation, Control, and Competition](https://www.ftc.gov/sites/default/files/attachments/federal-trade-commission-history/origins.pdf)
+4. [Federal Trade Commission Act (FTCA)](https://www.britannica.com/money/Federal-Trade-Commission-Act)
+
 ## Wagner Act Establishes Federal Protection for Union Rights and Collective Bargaining
 *Date: 1935-07-05*
 
@@ -59,12 +75,28 @@
 2. [National Labor Relations Act of 1935](https://www.archives.gov/milestone-documents/national-labor-relations-act)
 3. [FDR and the Wagner Act](https://www.fdrlibrary.org/wagner-act)
 
+## Robinson-Patman Act Prohibits Price Discrimination to Protect Small Retailers from Chain Store Power
+*Date: 1936-06-19*
+
+1. [Robinson-Patman Act - Wikipedia](https://en.wikipedia.org/wiki/Robinson–Patman_Act)
+2. [Robinson-Patman Act | Definition, Price Discrimination, & Small Businesses](https://www.britannica.com/money/Robinson-Patman-Act)
+3. [FTC Revives Enforcement of the Robinson-Patman Act](https://www.congress.gov/crs-product/LSB11257)
+4. [Price Discrimination: Robinson-Patman Violations](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/price-discrimination-robinson-patman-violations)
+
 ## Taft-Hartley Act Severely Restricts Union Power, Enables State Right-to-Work Laws
 *Date: 1947-06-23*
 
 1. [1947 Taft-Hartley Substantive Provisions](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-substantive-provisions)
 2. [Taft-Hartley Act Wikipedia](https://en.wikipedia.org/wiki/Taft–Hartley_Act)
 3. [Labor Management Relations Act of 1947 (Taft-Hartley Act)](https://www.influencewatch.org/legislation/labor-management-relations-act-of-1947-taft-hartley-act/)
+
+## Celler-Kefauver Act Closes Merger Loopholes, Strengthens Government Power to Block Anticompetitive Consolidation
+*Date: 1950-12-29*
+
+1. [Celler-Kefauver Act - Wikipedia](https://en.wikipedia.org/wiki/Celler–Kefauver_Act)
+2. [Celler-Kefauver Act | Definition & History](https://www.britannica.com/topic/Celler-Kefauver-Act)
+3. [Celler-Kefauver Act - Overview, History, and Impact](https://corporatefinanceinstitute.com/resources/wealth-management/celler-kefauver-act/)
+4. [The 100 Year Evolution of the Clayton Act](https://www.justice.gov/atr/file/517721/dl)
 
 ## Roy Cohn Establishes Blackmail and Intimidation Network
 *Date: 1953-02-09*
@@ -602,6 +634,14 @@
 2. [Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council Case Brief](https://www.oyez.org/cases/1975/74-895)
 3. [Virginia State Pharmacy Board v. Virginia Citizens Consumer Council](https://firstamendment.mtsu.edu/article/virginia-state-board-of-pharmacy-v-virginia-citizens-consumer-council-inc/)
 
+## Hart-Scott-Rodino Act Requires Pre-Merger Notification, Last Major Antitrust Strengthening Before Reagan Dismantlement
+*Date: 1976-09-30*
+
+1. [Hart-Scott-Rodino Antitrust Improvements Act - Wikipedia](https://en.wikipedia.org/wiki/Hart–Scott–Rodino_Antitrust_Improvements_Act)
+2. [Hart-Scott-Rodino Antitrust Improvements Act of 1976](https://www.ftc.gov/legal-library/browse/statutes/hart-scott-rodino-antitrust-improvements-act-1976)
+3. [Milestones in FTC history: HSR Act launches effective premerger review](https://www.ftc.gov/enforcement/competition-matters/2015/03/milestones-ftc-history-hsr-act-launches-effective-premerger-review)
+4. [Hart-Scott-Rodino Act - Overview, Pre-Merger Notification, Three Tests](https://corporatefinanceinstitute.com/resources/economics/hart-scott-rodino-act/)
+
 ## Corporate PAC Explosion: 433 New Corporate PACs Formed in Post-Buckley Era
 *Date: 1976-12-31*
 
@@ -657,6 +697,14 @@
 1. [Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute)
 2. [Cato Institute - SourceWatch](https://www.sourcewatch.org/index.php/Cato_Institute)
 3. [Cato Institute - InfluenceWatch](https://www.influencewatch.org/non-profit/cato-institute/)
+
+## Department of Justice Announces Abandonment of Robinson-Patman Act Enforcement, Adopting Chicago School Critique
+*Date: 1977-01-01*
+
+1. [Robinson-Patman Act - Wikipedia](https://en.wikipedia.org/wiki/Robinson–Patman_Act)
+2. [The Needless Desertion of Robinson-Patman](https://www.promarket.org/2022/10/10/the-needless-desertion-of-robinson-patman/)
+3. [FTC Revives Enforcement of the Robinson-Patman Act](https://www.congress.gov/crs-product/LSB11257)
+4. [Political Economy of US Antitrust Enforcement Decline](https://bfi.uchicago.edu/wp-content/uploads/2022/08/BFI_WP_2022-104.pdf)
 
 ## Edwin Feulner Becomes Heritage Foundation President, Launching Rapid Expansion
 *Date: 1977-01-01*
@@ -986,6 +1034,14 @@
 3. [How four decades of tax cuts fueled inequality](https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/)
 4. [Reaganomics](https://en.wikipedia.org/wiki/Reaganomics)
 
+## Reagan Inauguration Begins Antitrust Revolution: Eight Years of Systematic Enforcement Collapse and Corporate Consolidation
+*Date: 1981-01-20*
+
+1. [Political Economy of US Antitrust Enforcement Decline](https://bfi.uchicago.edu/wp-content/uploads/2022/08/BFI_WP_2022-104.pdf)
+2. [Changes in Antitrust Enforcement Policies and Activities](https://www.gao.gov/assets/ggd-91-2.pdf)
+3. [The Rise, Survival, and Potential Fall of the Reagan-Era Antitrust Consensus](https://www.promarket.org/2022/03/13/the-rise-survival-and-potential-fall-of-the-reagan-era-antitrust-consensus/)
+4. [The Political Economy of the Decline of Antitrust Enforcement in the United States](https://laweconcenter.org/wp-content/uploads/2023/03/The-Decline-of-Antitust-Enforement.pdf)
+
 ## Reagan Appoints James Watt as Interior Secretary - Oil Industry Capture
 *Date: 1981-01-28*
 
@@ -1008,6 +1064,14 @@
 1. [Was GE CEO Jack Welch bad for business?](https://www.npr.org/2022/06/01/1101505691/short-term-profits-and-long-term-consequences-did-jack-welch-break-capitalism)
 2. [Jack Welch and the End of Stakeholder Capitalism](https://robertreich.substack.com/p/jack-welch-and-the-end-of-stakeholder)
 3. [Jack Welch](https://en.wikipedia.org/wiki/Jack_Welch)
+
+## Reagan Appoints William Baxter as Antitrust Chief, Enforcement Collapses as Chicago School Takes Control
+*Date: 1981-04-13*
+
+1. [William F. Baxter](https://www.sfgate.com/news/article/William-F-Baxter-2976296.php)
+2. [Political Economy of US Antitrust Enforcement Decline](https://bfi.uchicago.edu/wp-content/uploads/2022/08/BFI_WP_2022-104.pdf)
+3. [Changes in Antitrust Enforcement Policies and Activities](https://www.gao.gov/assets/ggd-91-2.pdf)
+4. [The Rise, Survival, and Potential Fall of the Reagan-Era Antitrust Consensus](https://www.promarket.org/2022/03/13/the-rise-survival-and-potential-fall-of-the-reagan-era-antitrust-consensus/)
 
 ## Council for National Policy Founded - Secret Conservative Coordination Network
 *Date: 1981-05-01*
@@ -1104,6 +1168,14 @@
 2. [$80 million dark money group tied to Trump Supreme Court advisor, Leonard Leo](https://www.citizensforethics.org/reports-investigations/crew-investigations/80-million-dark-money-group-tied-to-trump-supreme-court-advisor-leonard-leo/)
 3. [The Scheme Speech 5: The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/)
 4. [How the Federalist Society became the de facto selector of Republican Supreme Court justices](https://slate.com/news-and-politics/2017/01/how-the-federalist-society-became-the-de-facto-selector-of-republican-supreme-court-justices.html)
+
+## DOJ Issues Baxter's 1982 Merger Guidelines, Revolutionizing Antitrust Enforcement Toward Corporate Permissiveness
+*Date: 1982-06-14*
+
+1. [1982 Merger Guidelines](https://www.justice.gov/archives/atr/1982-merger-guidelines)
+2. [FTC Chairman: 1982 Merger Guidelines 'Fundamentally Changed' The Way U.S. Thinks about Mergers](https://www.ftc.gov/news-events/news/press-releases/2002/06/ftc-chairman-1982-merger-guidelines-fundamentally-changed-way-us-thinks-about-mergers-competition)
+3. [Merger guidelines - Wikipedia](https://en.wikipedia.org/wiki/Merger_guidelines)
+4. [Antitrust Enforcement and the Rule of Law](https://www.mercatus.org/research/policy-briefs/antitrust-enforcement-and-rule-of-law)
 
 ## Reagan Supports Philippine Dictator Marcos Despite Massive Kleptocracy
 *Date: 1982-09-16*
@@ -2279,6 +2351,13 @@
 2. [Finance & Development - The Asian Crisis: Causes and Cures](https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm)
 3. [Asian Financial Crisis: Origins and Implications](https://www.federalreservehistory.org/essays/asian-financial-crisis)
 
+## Boeing-McDonnell Douglas Merger Approved: Defense Contractor Consolidation Creates Oligopoly
+*Date: 1997-08-01*
+
+1. [The Distillation of the Defense Industry](https://www.airandspaceforces.com/article/0798industry/)
+2. [State of Competition within the Defense Industrial Base](https://media.defense.gov/2022/feb/15/2002939087/-1/-1/1/state-of-competition-within-the-defense-industrial-base.pdf)
+3. [Defense Industry Consolidation](https://www.gao.gov/assets/t-nsiad-98-112.pdf)
+
 ## Northrop Grumman B-2 Bomber Program Reaches $44 Billion Total Cost
 *Date: 1997-08-01*
 
@@ -2931,6 +3010,14 @@
 1. [Jack Abramoff Indian lobbying scandal - Wikipedia](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
 2. [Senate Report on Tribal Lobbying Matters](https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm)
 3. [Levin Center: John McCain and the Abramoff Tribal Lobbying Scandal](https://levin-center.org/what-is-oversight/portraits/john-mccain-and-the-abramoff-tribal-lobbying-scandal/)
+
+## Bush and Obama Administrations Cement Bipartisan Chicago School Antitrust Consensus, Approve Historic Consolidation
+*Date: 2001-01-01*
+
+1. [Obama's Antitrust Agenda](https://repository.law.umich.edu/cgi/viewcontent.cgi?article=1587&context=articles)
+2. [Antitrust Enforcement During the Obama Administration](https://www.cov.com/-/media/files/corporate/publications/2016/03/seven_years_on_antitrust_enforcement_during_the_obama_administration.pdf)
+3. [Obama's not as tough on mergers as you think](https://money.cnn.com/2016/04/08/news/obama-mergers-antitrust/index.html)
+4. [Former FTC chair urges agency not to tarnish a bipartisan legacy from Reagan to Obama](https://fortune.com/2023/04/03/former-ftc-chair-urges-agency-tarnish-bipartisan-legacy-from-reagan-obama-40-years-antitrust-protecting-consumers-timothy-muris/)
 
 ## Purdue Pharma Bonus System Incentivizes Sales Reps to Target Highest Opioid Prescribers
 *Date: 2001-01-01*
@@ -4447,6 +4534,13 @@
 4. [Report on the President's Surveillance Program](https://oig.justice.gov/sites/default/files/archive/special/s0907.pdf)
 5. [Bush Acknowledges Approving U.S. Surveillance](https://www.washingtonpost.com/wp-dyn/content/article/2005/12/17/AR2005121700005.html)
 
+## Ares Management Acquires Aspen Dental: Private Equity Dental Roll-Up Strategy Launches Industry Consolidation
+*Date: 2006-01-01*
+
+1. [PE-Owned Aspen Dental Faces Yet Another Investigation for Deceptive Practices](https://pestakeholder.org/news/pe-owned-aspen-dental-faces-yet-another-investigation-for-deceptive-practices-2/)
+2. [When Private Equity Firms Acquire Dental Practices, Patients Pay the Price](https://truthout.org/articles/when-private-equity-firms-acquire-dental-practices-patients-pay-the-price/)
+3. [Why Private Equity Firms Like Dentists, Veterinarians, and Ophthalmologists](https://www.groupdentistrynow.com/dso-group-blog/why-private-equity-firms-like-dentists-veterinarians-and-opthamologists/)
+
 ## Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
 *Date: 2006-01-01*
 
@@ -4574,6 +4668,13 @@
 1. [An Investigation into the Removal of Nine U.S. Attorneys in 2006](https://oig.justice.gov/sites/default/files/archive/special/s0809a/final.pdf)
 2. [Timeline: Behind the Firing of Eight U.S. Attorneys](https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys)
 3. [Gonzales Resigns as Attorney General](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html)
+
+## AT&T Completes $86 Billion BellSouth Acquisition: Bell System Reassembled After 1984 Breakup
+*Date: 2006-12-29*
+
+1. [Regional Bell Operating Company](https://en.wikipedia.org/wiki/Regional_Bell_Operating_Company)
+2. [How AT&T got busted up and pieced back together](https://money.cnn.com/2014/05/20/technology/att-merger-history/index.html)
+3. [BellSouth](https://en.wikipedia.org/wiki/BellSouth)
 
 ## ALEC Launches 'Rich States, Poor States' Report with Arthur Laffer - Annual Corporate Tax Competition Manifesto to Drive Interstate Race-to-Bottom
 *Date: 2007-01-01*
@@ -4985,6 +5086,13 @@
 2. [Troubled Asset Relief Program](https://www.history.com/articles/troubled-asset-relief-program)
 3. [Troubled Asset Relief Program - Lifetime Cost](https://www.gao.gov/products/gao-24-107033)
 4. [The Bailout Was 11 Years Ago. We're Still Tracking Every Penny](https://www.propublica.org/article/the-bailout-was-11-years-ago-were-still-tracking-every-penny)
+
+## Delta-Northwest Merger Approved: Beginning of Airline Industry Consolidation Wave
+*Date: 2008-10-29*
+
+1. [We wanted to go first: Here's what's different in the decade since Delta's merger with Northwest upended the airline industry](https://www.cnbc.com/2018/04/07/a-decade-after-deltas-northwest-merger-upended-the-airline-industry.html)
+2. [Consolidation: A Look At The Mergers That Shook US Aviation](https://simpleflying.com/us-aviation-major-mergers-history/)
+3. [Airline Industry: Potential Mergers and Acquisitions Driven by Financial and Competitive Pressures](https://www.gao.gov/assets/a278898.html)
 
 ## Illinois Governor Rod Blagojevich Arrested for Attempting to Sell Obama's Senate Seat
 *Date: 2008-12-09*
@@ -6593,6 +6701,13 @@
 3. [Tech companies give first look at secret gov't data requests](https://www.cbsnews.com/news/google-microsoft-yahoo-facebook-linkedin-secret-government-nsa-data-requests/)
 4. [Microsoft, Google Say They're Moving Forward With NSA Lawsuit](https://www.npr.org/sections/thetwo-way/2013/08/30/217325884/microsoft-google-say-they-will-move-forward-with-nsa-lawsuit)
 
+## American Airlines-US Airways Merger Creates Airline Oligopoly: Big Four Control 75% of Market
+*Date: 2013-12-09*
+
+1. [History: 5 Airline Mergers That Shaped US Aviation As We Know It Today](https://simpleflying.com/us-major-airline-mergers-history-list/)
+2. [American Airlines and US Airways Merger Timeline](https://skift.com/american-merger/)
+3. [A Brief History of Airline Consolidation in the United States](https://www.airwaysmag.com/legacy-posts/history-us-airline-consolidation)
+
 ## Federal Judge Rules NSA Bulk Phone Data Collection Likely Unconstitutional
 *Date: 2013-12-16*
 
@@ -7969,6 +8084,13 @@
 2. [Trump Appears With Bill Clinton Accusers Ahead of Debate](https://abcnews.go.com/Politics/trump-appears-bill-clinton-accusers-ahead-debate/story?id=42686583)
 3. [Ahead of debate, Trump holds news conference with Bill Clinton accusers](https://www.washingtonpost.com/news/post-politics/wp/2016/10/09/ahead-of-debate-trump-holds-news-conference-with-bill-clinton-accusers/)
 4. [Trump Planned Debate Stunt, Invited Bill Clinton Accusers to Rattle Hillary](https://www.nbcnews.com/storyline/2016-presidential-debates/trump-planned-debate-stunt-invited-bill-clinton-accusers-rattle-hillary-n663481)
+
+## Anheuser-Busch InBev Completes $107 Billion SABMiller Acquisition: Beer Industry Consolidates Into Duopoly
+*Date: 2016-10-10*
+
+1. [Justice Department Requires Anheuser-Busch InBev to Divest Stake in MillerCoors and Alter Beer Distributor Practices as Part of SABMiller Acquisition](https://www.justice.gov/archives/opa/pr/justice-department-requires-anheuser-busch-inbev-divest-stake-millercoors-and-alter-beer)
+2. [AB InBev's $107 Billion Acquisition of SABMiller and $12 Billion Agreement with Molson Coors](https://www.cravath.com/news-insights/ab-inbev-s-107-billion-acquisition-of-sabmiller-and-12-billion-agreement-with-molson-coors.html)
+3. [Big Beer Duopoly: A Primer for Policymakers and Regulators](https://alcoholjustice.org/wp-content/uploads/2024/02/big_beer_duopoly.pdf)
 
 ## Carl Icahn Closes Trump Taj Mahal Casino After Prolonged Labor Dispute
 *Date: 2016-10-10*
@@ -9515,6 +9637,13 @@
 2. [Acquisition of Orbital ATK approved, company renamed Northrop Grumman Innovation Systems](https://spacenews.com/acquisition-of-orbital-atk-approved-company-renamed-northrop-grumman-innovation-systems/)
 3. [What's next for Northrop Grumman and Orbital ATK?](https://www.defensenews.com/industry/2018/06/06/whats-next-for-northrop-grumman-and-orbital-atk/)
 
+## Bayer Completes $63 Billion Monsanto Acquisition: Agricultural Seeds and Chemicals Consolidate Into Big Four Oligopoly
+*Date: 2018-06-07*
+
+1. [Mergers in Seeds and Agricultural Chemicals: What Happened?](https://www.ers.usda.gov/amber-waves/2019/february/mergers-in-seeds-and-agricultural-chemicals-what-happened)
+2. [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/)
+3. [The Era of Corporate Consolidation and the End of Competition](https://belonging.berkeley.edu/era-corporate-consolidation-and-end-competition)
+
 ## Net Neutrality Repeal Officially Takes Effect, Permitting ISPs to Throttle, Block, and Prioritize Content for Payment
 *Date: 2018-06-11*
 
@@ -10785,6 +10914,13 @@
 1. [Shadow Network: Media, Money, and the Secret Hub of the Radical Right](https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X)
 2. [Book Review: 'Shadow Network' Offers A Lesson On The American Right's Mastery Of Politics](https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics)
 
+## Class Action Lawsuit Alleges Big Four Meatpackers Conspired to Fix Beef Prices and Manipulate Markets
+*Date: 2019-10-01*
+
+1. [Beef Price-Fixing Lawsuit Settled as Trump Administration Signals a Shift in Antitrust Focus](https://www.agricultureofamerica.com/2025/10/13/beef-price-fixing-lawsuit-settled-as-trump-administration-signals-a-shift-in-antitrust-focus/)
+2. [How did we get the 'Big Four' meatpackers, anyway?](https://thecounter.org/big-four-meatpackers-antitrust-consolidation/)
+3. [Meatpacking: Four Corporations, Total Control](https://farmaction.us/meatpacking-four-corporations-total-control/)
+
 ## Zuckerberg Holds Secret White House Dinners with Trump, Kushner, and Thiel to Negotiate Content Moderation
 *Date: 2019-10-01*
 
@@ -10905,6 +11041,13 @@
 1. [Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails](https://www.splcenter.org/hatewatch/2019/11/12/stephen-millers-affinity-white-nationalism-revealed-leaked-emails)
 2. [Leaked Stephen Miller emails suggest White House aide promoted white nationalism](https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/)
 3. [Stephen Miller And White Nationalism](https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism)
+
+## Bristol-Myers Squibb Completes $74 Billion Celgene Acquisition Despite FTC Concerns
+*Date: 2019-11-15*
+
+1. [Bristol-Myers' $74B Celgene buy wins antitrust nod in FTC party-line split vote](https://www.fiercepharma.com/pharma/bristol-myers-74b-celgene-buy-wins-antitrust-nod-ftc-party-line-split-vote)
+2. [The biggest pharma merger and acquisition deals of 2019](https://www.europeanpharmaceuticalreview.com/article/111051/the-biggest-pharma-merger-and-acquisition-deals-of-2019/)
+3. [Pharma under the microscope as FTC considers new ways to review acquisitions](https://www.biopharmadive.com/news/ftc-pharma-mergers-biotech-antitrust-competition/625592/)
 
 ## Roger Stone Convicted on All Counts - Obstruction, Witness Tampering, and Lying to Congress
 *Date: 2019-11-15*
@@ -11343,6 +11486,13 @@
 1. [The White House Spins Trump's Disinfectant Remarks](https://www.factcheck.org/2020/04/the-white-house-spins-trumps-disinfectant-remarks/)
 2. [Trump suggests 'injection' of disinfectant to beat coronavirus and 'clean' the lungs](https://www.nbcnews.com/politics/donald-trump/trump-suggests-injection-disinfectant-beat-coronavirus-clean-lungs-n1191216)
 3. [In Context - What Donald Trump said about disinfectant, sun and coronavirus](https://www.politifact.com/article/2020/apr/24/context-what-donald-trump-said-about-disinfectant-/)
+
+## AbbVie Completes $63 Billion Allergan Acquisition: Pharmaceutical Industry Consolidates Into Oligopoly
+*Date: 2020-05-08*
+
+1. [After FTC surprises, pharma should expect more M&A scrutiny in 2020—and here's why](https://www.fiercepharma.com/pharma/after-ftc-surprises-what-antitrust-scrutiny-should-biopharma-expect-their-m-a-deals-2020)
+2. [The biggest pharma merger and acquisition deals of 2019](https://www.europeanpharmaceuticalreview.com/article/111051/the-biggest-pharma-merger-and-acquisition-deals-of-2019/)
+3. [FTC's watchdog role in pharma mergers: Road bumps and the way forward](https://www.nortonrosefulbright.com/en-us/knowledge/publications/33212c9e/ftcs-watchdog-role-in-pharma-mergers-road-bumps-and-the-way-forward)
 
 ## Trump Dismisses State Department Inspector General Steve Linick
 *Date: 2020-05-15*
@@ -12387,6 +12537,13 @@
 3. [House Oversight Committee will investigate Louis DeJoy following claims he pressured employees to make campaign donations](https://maloney.house.gov/media-center/in-the-news/house-oversight-committee-will-investigate-louis-dejoy-following-claims-he)
 4. [Sarbanes Examines Allegations That Postmaster General DeJoy Engaged in Illegal Campaign Finance Scheme](https://sarbanes.house.gov/media-center/press-releases/sarbanes-examines-allegations-postmaster-general-dejoy-engaged-illegal)
 
+## Lina Khan Confirmed as FTC Chair at Age 32, Youngest Ever
+*Date: 2021-06-15*
+
+1. [Lina M. Khan Sworn in as Chair of the FTC](https://www.ftc.gov/news-events/news/press-releases/2021/06/lina-m-khan-sworn-chair-ftc)
+2. [Lina Khan, progressive tech critic, sworn in as FTC chair](https://www.cnbc.com/2021/06/15/senate-confirms-lina-khan-to-become-ftc-commissioner.html)
+3. [Lina Khan](https://en.wikipedia.org/wiki/Lina_Khan)
+
 ## FDA Commissioner Stephen Hahn Joins Flagship Pioneering, Venture Firm Behind Moderna
 *Date: 2021-06-16*
 
@@ -12442,6 +12599,13 @@
 1. [Pentagon Scraps $10 Billion Contract With Microsoft, Bitterly Contested By Amazon](https://www.npr.org/2021/07/06/1013420036/pentagon-scraps-10-billion-contract-with-microsoft-bitterly-contested-by-amazon)
 2. [Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over](https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html)
 3. [DoD picks Amazon, Microsoft, Google and Oracle for multibillion dollar project to replace JEDI Cloud](https://federalnewsnetwork.com/defense-main/2021/11/dod-picks-amazon-microsoft-google-and-oracle-for-multibillion-dollar-project-to-replace-jedi-cloud/)
+
+## Biden Signs Executive Order 14036: 72 Competition Initiatives, Most Comprehensive Since FDR
+*Date: 2021-07-09*
+
+1. [Executive Order on Promoting Competition in the American Economy](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/07/09/executive-order-on-promoting-competition-in-the-american-economy/)
+2. [FACT SHEET: Executive Order on Promoting Competition in the American Economy](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/07/09/fact-sheet-executive-order-on-promoting-competition-in-the-american-economy/)
+3. [Executive Order 14036](https://en.wikipedia.org/wiki/Executive_Order_14036)
 
 ## Pegasus Project Exposes Global Surveillance of 50,000 Targets by NSO Group Clients
 *Date: 2021-07-18*
@@ -12670,6 +12834,13 @@
 2. [Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election](https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf)
 3. [13 senior Trump administration officials violated Hatch Act, report finds](https://www.cnn.com/2021/11/09/politics/thirteen-trump-officials-violated-hatch-act/index.html)
 4. [After Oversight Committee Call for Investigation Into 2020 RNC Convention, Special Counsel Finds Trump Administration Officials Showed "Willful Disregard" for Hatch Act](https://oversightdemocrats.house.gov/news/press-releases/after-oversight-committee-call-for-investigation-into-2020-rnc-convention)
+
+## Jonathan Kanter Confirmed as DOJ Antitrust Chief After Longest Delay in Modern History
+*Date: 2021-11-16*
+
+1. [Former Assistant Attorney General, Jonathan Kanter](https://www.justice.gov/archives/atr/staff-profile/former-assistant-attorney-general-jonathan-kanter)
+2. [Senate confirms Big Tech critic Jonathan Kanter to lead DOJ Antitrust Division](https://www.cnbc.com/2021/11/16/senate-confirms-jonathan-kanter-to-lead-doj-antitrust-division.html)
+3. [Jonathan Kanter](https://en.wikipedia.org/wiki/Jonathan_Kanter)
 
 ## Apple Sues NSO Group Over FORCEDENTRY Exploit and Pegasus Spyware Targeting
 *Date: 2021-11-23*
@@ -13066,6 +13237,13 @@
 1. [Jan. 6 panel finds Trump campaign knew election fraud claims were false but raised $250 million from it anyway](https://www.washingtonpost.com/national-security/2022/06/13/jan6-hearing-trump-fundraising/)
 2. [Trump raised $250 million to fight election fraud claims. Here's where that money went](https://www.cnn.com/2022/06/13/politics/january-6-hearing-donald-trump-fundraising/index.html)
 3. [Jan. 6 committee says Trump engaged in "Big Rip-Off" by fundraising off election lies](https://www.cbsnews.com/news/january-6-committee-hearing-trump-big-rip-off-fundraising/)
+
+## FTC Blocks JAB Consumer Partners Veterinary Clinic Roll-Up: Private Equity Monopolization Strategy
+*Date: 2022-06-14*
+
+1. [FTC Takes Second Action Against JAB Consumer Partners to Protect Pet Owners from Private Equity Firm's Rollup of Veterinary Services Clinics](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-second-action-against-jab-consumer-partners-protect-pet-owners-private-equity-firms-rollup-of-veterinary-services-clinics)
+2. [Private Equity's Stealthy Vet Takeover Leaves Pet Owners Paying the Price](https://www.economicliberties.us/press-release/private-equitys-stealthy-vet-takeover-leaves-pet-owners-paying-the-price/)
+3. [Corporate consolidation and the rise of private equity](https://www.aaha.org/trends-magazine/publications/corporate-consolidation-and-the-rise-of-private-equity/)
 
 ## Three Arrows Capital Ordered Into Liquidation After $3 Billion Hedge Fund Collapse Triggers Crypto Contagion
 *Date: 2022-06-27*
@@ -13472,6 +13650,13 @@
 3. [United States v. Google LLC (2023) - Ad Tech Case](https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023))
 4. [The U.S. DoJ's Antitrust Effort to Break Up Google](https://competitionlawblog.kluwercompetitionlaw.com/2023/02/28/the-u-s-dojs-antitrust-effort-to-break-up-google/)
 
+## FTC Loses Challenge to Block Meta's VR Acquisition, Major Setback for Khan
+*Date: 2023-01-31*
+
+1. [Meta/Zuckerberg/Within, In the Matter of](https://www.ftc.gov/legal-library/browse/cases-proceedings/221-0040-metazuckerbergwithin-matter)
+2. [Meta acquisition of Within reportedly approved by court in loss for FTC](https://www.cnbc.com/2023/02/01/ftc-loses-attempt-to-block-meta-acquisition-of-within.html)
+3. [Report: Meta wins ruling against FTC to move forward with purchase of VR startup Within](https://techcrunch.com/2023/02/01/report-meta-wins-ruling-against-ftc-to-move-forward-with-purchase-of-vr-startup-within/)
+
 ## East Palestine Train Derailment: Norfolk Southern Hazardous Chemical Disaster
 *Date: 2023-02-03*
 
@@ -13792,6 +13977,13 @@
 3. [Permanent Subcommittee on Investigations: Trump Crypto Inquiry](https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption)
 4. [ABC News: Trump Family Crypto Empire Expansion](https://abcnews.go.com/US/wireStory/trump-family-crypto-empire-expands-crypto-partnership-124990306)
 
+## FTC Loses Microsoft-Activision Challenge, $69 Billion Merger Approved Despite Opposition
+*Date: 2023-07-10*
+
+1. [Microsoft/Activision Blizzard, In the Matter of](https://www.ftc.gov/legal-library/browse/cases-proceedings/2210077-microsoftactivision-blizzard-matter)
+2. [FTC v. Microsoft](https://en.wikipedia.org/wiki/FTC_v._Microsoft)
+3. [FTC abandons battle to break up Microsoft–Activision merger](https://www.fastcompany.com/91340327/ftc-drops-final-challenge-to-microsofts-69b-activision-blizzard-deal)
+
 ## SEC Charges DWAC with Securities Fraud, Imposes $18 Million Penalty
 *Date: 2023-07-18*
 
@@ -14009,6 +14201,13 @@
 4. [CZ, founder of crypto giant Binance, pleads guilty to money laundering violations](https://www.npr.org/2023/11/21/1214466415/binance-cz-changpeng-zhao-pleads-guilty-settlement-crypto-doj)
 5. [Binance CEO CZ Agrees to Plead Guilty, Pay $50 Million Fine](https://www.bloomberg.com/news/articles/2023-11-21/binance-ceo-zhao-to-plead-guilty-in-us-settlement-wsj)
 
+## Chamber of Commerce Sues FTC Over 'Black-Box Environment' Lack of Transparency
+*Date: 2023-12-01*
+
+1. [Chamber of Commerce seeks injunction against FTC, Lina Khan](https://faircompetitionlaw.com/2024/04/25/chamber-of-commerce-seeks-injunction-against-ftc-lina-khan/)
+2. [Chamber of Commerce goes to war with Khan-led FTC over 'black-box environment'](https://www.washingtonexaminer.com/news/business/chamber-commerce-ftc-black-box-environment)
+3. [FTC: A Timeline of An Agency Gone Rogue](https://www.uschamber.com/antitrust/ftc-a-timeline-of-an-agency-gone-rouge)
+
 ## Vance Endorses Claremont Institute Authoritarian Policy Document
 *Date: 2023-12-01*
 
@@ -14060,6 +14259,13 @@
 2. [Grok AI's Political Bias and Safety Concerns](https://www.washingtonpost.com/technology/2023/12/23/grok-ai-elon-musk-x-woke-bias/)
 3. [Political Bias in AI Large Language Models](https://thedebrief.org/political-bias-in-ai-research-reveals-large-language-models-are-consistently-left-leaning-raising-ethical-questions/)
 4. [xAI Grok Initial Launch Analysis](https://en.wikipedia.org/wiki/Grok_(chatbot))
+
+## FTC and DOJ Release 2023 Merger Guidelines Rejecting Consumer Welfare Standard
+*Date: 2023-12-18*
+
+1. [Merger Guidelines 2023](https://www.ftc.gov/reports/merger-guidelines-2023)
+2. [Merger Guidelines [2023]](https://www.ftc.gov/system/files/ftc_gov/pdf/2023_merger_guidelines_final_12.18.2023.pdf)
+3. [The 2023 Merger Guidelines: Analysis and Issues for Congress](https://www.congress.gov/crs-product/LSB11138)
 
 ## Biden Leaves 14 Inspector General Positions Vacant, Some for Over 2,000 Days
 *Date: 2023-12-31*
@@ -14156,6 +14362,13 @@
 1. [Friends of the Court: How Billionaires Influence Supreme Court Justices](https://www.propublica.org/series/supreme-court-scotus)
 2. [Clarence Thomas: Supreme Court ethics criticism grows louder with investigation](https://www.axios.com/2023/04/06/clarence-thomas-harlan-crow-propublica-investigation)
 3. [Texas billionaire Harlan Crow provided Clarence Thomas previously undisclosed private jet trips, Senate probe finds](https://www.texastribune.org/2024/06/13/texas-billionaire-harlan-crow-clarence-thomas/)
+
+## JetBlue-Spirit Merger Blocked by Court, Rare Victory for Biden Antitrust Enforcers
+*Date: 2024-01-16*
+
+1. [Justice Department Statements on District Court Decision to Block JetBlue's Acquisition of Spirit Airlines](https://www.justice.gov/archives/opa/pr/justice-department-statements-district-court-decision-block-jetblues-acquisition-spirit)
+2. [U.S. judge blocks JetBlue's acquisition of Spirit, saying deal would hurt consumers](https://www.npr.org/2024/01/17/1225142915/jetblue-spirit-merger-blocked)
+3. [Judge blocks JetBlue-Spirit merger after DOJ's antitrust challenge](https://www.cnbc.com/2024/01/16/jetblue-spirit-merger-block-in-win-for-bidens-justice-department.html)
 
 ## Ring ends 'Request for Assistance' feature allowing police to request user footage
 *Date: 2024-01-24*
@@ -14447,6 +14660,13 @@
 
 1. [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
 2. [Anduril and General Atomics to Develop New Collaborative Combat Aircraft for Air Force](https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/)
+
+## Chamber of Commerce Sues FTC to Block Non-Compete Ban, Challenging Agency Authority
+*Date: 2024-04-24*
+
+1. [U.S. Chamber of Commerce, business groups sue FTC over ban on noncompete clauses](https://www.cnbc.com/amp/2024/04/24/chamber-of-commerce-sues-ftc-for-banning-noncompete-clauses.html)
+2. [Feds issue ban on non-compete clauses; Chamber vows lawsuit](https://www.bostonherald.com/2024/04/24/feds-issue-ban-on-non-compete-clauses-chamber-vows-to-sue/)
+3. [FTC issues non-compete ban as Chamber of Commerce lawsuit looms](https://www.detroitnews.com/story/business/2024/04/23/ftc-to-issue-non-compete-ban-as-chamber-of-commerce-lawsuit-looms/73426906007/)
 
 ## Noem reveals she killed 14-month-old dog and goat in memoir
 *Date: 2024-04-26*
@@ -15231,6 +15451,13 @@
 2. [What we know about Luigi Mangione, suspect in Brian Thompson's killing](https://www.npr.org/2024/12/09/nx-s1-5222853/luigi-mangione-suspect-brian-thompson-united-healthcare)
 3. [Luigi Mangione Charged With The Stalking And Murder Of UnitedHealthcare CEO Brian Thompson](https://www.justice.gov/usao-sdny/pr/luigi-mangione-charged-stalking-and-murder-unitedhealthcare-ceo-brian-thompson-and-use)
 
+## FTC Blocks Kroger-Albertsons $24.6B Grocery Merger, Citing Labor and Consumer Harm
+*Date: 2024-12-10*
+
+1. [FTC Challenges Kroger's Acquisition of Albertsons](https://www.ftc.gov/news-events/news/press-releases/2024/02/ftc-challenges-krogers-acquisition-albertsons)
+2. [Statement on FTC Victory Securing Halt to Kroger, Albertsons Grocery Merger](https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftc-victory-securing-halt-kroger-albertsons-grocery-merger)
+3. [Kroger and Albertsons grocery megamerger blocked by courts](https://www.npr.org/2024/12/10/nx-s1-5114999/kroger-albertsons-merger-ftc-lawsuit-court-ruling)
+
 ## Trump Organization launches $530M Saudi Arabia tower weeks before inauguration
 *Date: 2024-12-11*
 
@@ -15618,6 +15845,13 @@
 1. [Trump's First Day: 37 Executive Orders Reveal Project 2025 Blueprint](https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders)
 2. [Project 2025 Implementation Report – June 2025](https://whitehousereportcard.com/project-2025-implementation-report-june-2025/)
 3. [Executive Orders Tracker: Trump's Project 2025 Implementation](https://progressivereform.org/tracking-trump-2/project-2025-executive-action-tracker/)
+
+## Trump Replaces Lina Khan with Andrew Ferguson, Signals Antitrust Rollback
+*Date: 2025-01-20*
+
+1. [Lina Khan](https://en.wikipedia.org/wiki/Lina_Khan)
+2. [Trump's pick to replace Lina Khan as FTC chair pledges to take on 'Big Tech' and 'wokeness'](https://qz.com/trump-ftc-chair-lina-khan-ferguson-big-tech-meta-google-1851718273)
+3. [Changes in the Makeup of the FTC May Impact Antitrust Policy](https://www.mayerbrown.com/en/insights/publications/2025/03/changes-in-the-makeup-of-the-ftc-may-impact-antitrust-policy)
 
 ## Coordinated Federal Workforce Purge: Schedule F and DOJ Personnel Removal
 *Date: 2025-01-20*
