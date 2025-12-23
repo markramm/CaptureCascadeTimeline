@@ -1,0 +1,47 @@
+{
+  "id": "2017-11-24--mick-mulvaney-guts-cfpb-payday-lender-donations",
+  "date": "2017-11-24",
+  "title": "Trump Installs Mick Mulvaney as CFPB Acting Director, Beginning Systematic Gutting of Consumer Protection Agency",
+  "summary": "President Trump installed Mick Mulvaney, his Office of Management and Budget director, as acting director of the Consumer Financial Protection Bureau in a contested appointment that triggered a legal battle. As a congressman, Mulvaney had been a top recipient of payday lending campaign cash and once told a conference of banking executives he would only meet with lobbyists if they had given to his campaign. He had called the CFPB a \"sick, sad\" joke and co-sponsored legislation to eliminate it, voting for Republican budgets in 2012-2015 that would have scrapped the agency entirely. Mulvaney voted against consumer protections and financial reform 100% of the time in the 113th Congress. Upon taking control, Mulvaney immediately implemented strategic neglect and bureaucratic self-sabotage to undermine the agency. He stopped all hiring, halted collection of fines, suspended all rulemaking, and ordered review of every active investigation. He stated \"We have initiated none\" when asked about enforcement actions, declaring \"regulation by enforcement is done.\" The CFPB dropped lawsuits against payday lenders including a South Carolina lender that had donated thousands to Mulvaney's campaigns, pulled back from investigating Equifax's data breach (another Mulvaney donor), and delayed payday loan rules requiring lenders to verify borrowers could afford to repay loans. Under Mulvaney, what the New York Times called \"perhaps Washington's most feared financial regulator\" was transformed through systematic capture to work against the interests it was created to defend. This textbook case of regulatory capture demonstrated how industry money corrupts enforcement and how agencies can be neutralized from within.",
+  "importance": 9,
+  "tags": [
+    "regulatory-capture",
+    "predatory-lending",
+    "consumer-protection",
+    "corruption",
+    "payday-lending",
+    "institutional-capture"
+  ],
+  "actors": [
+    "Mick Mulvaney",
+    "Donald Trump",
+    "Consumer Financial Protection Bureau"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mick_Mulvaney",
+      "title": "Mick Mulvaney",
+      "publisher": "Wikipedia",
+      "tier": 2
+    },
+    {
+      "url": "https://theconversation.com/mick-mulvaney-turned-the-cfpb-from-a-forceful-consumer-watchdog-into-a-do-nothing-government-cog-98842",
+      "title": "Mick Mulvaney turned the CFPB from a forceful consumer watchdog into a do-nothing government cog",
+      "publisher": "The Conversation",
+      "tier": 2
+    },
+    {
+      "url": "https://money.cnn.com/2018/04/11/investing/mulvaney-cfpb-hearing/index.html",
+      "title": "Mick Mulvaney defends CFPB role: 'I have not burned the place down'",
+      "publisher": "CNN Money",
+      "tier": 1
+    },
+    {
+      "url": "https://www.americanbanker.com/slideshow/the-many-controversies-of-cfpbs-mick-mulvaney",
+      "title": "The many controversies of CFPB's Mick Mulvaney",
+      "publisher": "American Banker",
+      "tier": 2
+    }
+  ]
+}

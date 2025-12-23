@@ -1778,6 +1778,13 @@
 2. [Panel Finds Credible Evidence Cranston Violated Ethics Rules](https://www.washingtonpost.com/archive/politics/1991/02/28/panel-finds-credible-evidence-cranston-violated-ethics-rules/6a936c72-ef9c-4cd5-ac31-1953570e8222/)
 3. [Keating Five Scandal: Exposing 1980s Banking and Political Corruption](https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption)
 
+## SEC Investigates Madoff Feeder Fund Avellino & Bienes, Misses $65 Billion Ponzi Scheme in First Regulatory Failure
+*Date: 1992-01-01*
+
+1. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Executive Summary](https://www.sec.gov/files/oig-509-exec-summary.pdf)
+2. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Full Report](https://www.sec.gov/news/studies/2009/oig-509.pdf)
+3. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme](https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigation-failure-sec-uncover-bernard-madoffs-ponzi-scheme)
+
 ## Trump Castle and Trump Plaza File Simultaneous Bankruptcies
 *Date: 1992-03-09*
 
@@ -1897,6 +1904,14 @@
 2. [Three Strikes and You're Out: An Examination of the Impact of 3-Strikes Laws](https://justicepolicy.org/wp-content/uploads/2021/11/04-09_rep_threestrikesnatl_ac.pdf.pdf)
 3. [The Eugenic Origins of Three Strikes Laws](https://www.sentencingproject.org/reports/the-eugenic-origins-of-three-strikes-laws-how-habitual-offender-sentencing-laws-were-used-as-a-means-of-sterilization/)
 4. [Corporate-Sponsored Crime Laws](http://americanradioworks.publicradio.org/features/corrections/laws4.html)
+
+## NAFTA Implementation Begins Manufacturing Job Hemorrhage
+*Date: 1994-01-01*
+
+1. [NAFTA at Seven: Its Impact On Workers In All Three Nations](https://www.epi.org/publication/briefingpapers_nafta01_index/)
+2. [The high price of free trade: NAFTA's failure has cost the United States jobs across the nation](https://www.epi.org/publication/briefingpapers_bp147/)
+3. [NAFTA and the USMCA - Weighing the Impact of North American Trade](https://www.cfr.org/backgrounder/naftas-economic-impact)
+4. [NAFTA's effect on United States employment](https://en.wikipedia.org/wiki/NAFTA's_effect_on_United_States_employment)
 
 ## NAFTA Takes Effect as Zapatista Uprising Protests Privatization of Indigenous Lands
 *Date: 1994-01-01*
@@ -2084,6 +2099,14 @@
 3. [Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill](https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest)
 4. [The Net @ Risk: Big, Bigger, Biggest Media](http://www.pbs.org/moyers/citizensclass/the_net_risk/big_bigger_biggest_media/)
 
+## Telecommunications Act Enables Massive Media Consolidation
+*Date: 1996-02-08*
+
+1. [Statement on Signing the Telecommunications Act of 1996](https://www.presidency.ucsb.edu/documents/statement-signing-the-telecommunications-act-1996)
+2. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
+3. [Democracy in Peril - Twenty Years of Media Consolidation Under the Telecommunications Act](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
+4. [Stop the Cap - The Telecom Act of 1996 Sowed the Seeds of a Telecom Oligopoly](https://stopthecap.com/2018/07/19/historical-truths-the-telecom-act-of-1996-sowed-the-seeds-of-a-telecom-oligopoly/)
+
 ## Telecommunications Act of 1996 Enables Media Consolidation Through Corporate Capture
 *Date: 1996-02-08*
 
@@ -2197,6 +2220,13 @@
 1. [Koch Industries: Secretly Funding the Climate Denial Machine](https://www.greenpeace.org/usa/koch-industries-secretly-fund/)
 2. [Koch Climate Opposition Funding](https://www.greenpeace.org/usa/climate/climate-deniers/koch-industries/koch-climate-opposition-funding/)
 3. [Who Funds Contrariness on Climate Change?](https://www.scientificamerican.com/article/who-funds-contrariness-on/)
+
+## SEC Fort Worth Examiners Identify Allen Stanford Ponzi Scheme, Enforcement Division Ignores Warnings for 12 Years
+*Date: 1997-01-01*
+
+1. [Investigation of the SEC's Response to Concerns Regarding Robert Allen Stanford's Alleged Ponzi Scheme](https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigation-secs-response-concerns-regarding-robert-allen)
+2. [The Stanford Ponzi Scheme: Lessons for Protecting Investors from the Next Securities Fraud](https://www.govinfo.gov/content/pkg/CHRG-112hhrg66868/html/CHRG-112hhrg66868.htm)
+3. [The Stanford Ponzi Scheme: Lessons for Protecting Investors (Testimony by Robert Khuzami and Carlo di Florio)](https://www.sec.gov/news/testimony/2011/ts051311rk-cvd.htm)
 
 ## Notorious B.I.G. murdered in Los Angeles, Diddy's control through chaos
 *Date: 1997-03-09*
@@ -2381,6 +2411,14 @@
 2. [Momentous encounter leads to merger](https://www.citigroup.com/global/about-us/heritage/1998/momentous-encounter-leads-to-merger)
 3. [Federal Reserve Board Meeting Regarding Citicorp and Travelers Group](https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_thursday.htm)
 
+## Citigroup Merger Violates Glass-Steagall, Forces Deregulation
+*Date: 1998-04-06*
+
+1. [Gramm-Leach-Bliley Act](https://en.wikipedia.org/wiki/Gramm–Leach–Bliley_Act)
+2. [Gramm-Leach-Bliley Act](https://www.sourcewatch.org/index.php/Gramm-Leach-Bliley_Act)
+3. [Sandy Weill: the banker who bought Bill Clinton](https://softpanorama.org/Skeptics/Financial_skeptic/Casino_capitalism/12_Apostols_of_deregulation/Weill/index.shtml)
+4. [Financial Services Modernization Act of 1999 (Gramm-Leach-Bliley)](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
+
 ## ALEC Adopts Paycheck Protection Act to Defund Democratic Party by Restricting Union Political Activity
 *Date: 1998-05-01*
 
@@ -2403,6 +2441,14 @@
 2. [Joint Statement on CFTC Concept Release](https://www.federalreserve.gov/boarddocs/press/general/1998/19980507/default.htm)
 3. [Brooksley Born & the OTC Derivatives Market (A)](https://www.hbs.edu/faculty/Pages/item.aspx?num=39593)
 4. [Lessons Not Learned: The Derivatives Market and Continued Risks](https://law.stanford.edu/stanford-lawyer/articles/lessons-not-learned-the-derivatives-market-and-continued-risks/)
+
+## DOJ Files Microsoft Antitrust Suit, Establishes Tech Monopoly Precedent
+*Date: 1998-05-18*
+
+1. [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)
+2. [U.S. v. Microsoft Corp., 253 F.3d 34 (D.C. Cir. 2001)](https://law.justia.com/cases/federal/appellate-courts/F3/253/34/576095/)
+3. [Microsoft Antitrust Case](https://corporatefinanceinstitute.com/resources/management/microsoft-antitrust-case/)
+4. [United States v. Microsoft - The Landmark Antitrust Lawsuit](https://legalclarity.org/united-states-v-microsoft-the-landmark-antitrust-lawsuit/)
 
 ## McKinsey Advises Comprehensive Asian Market Restructuring During Financial Crisis
 *Date: 1998-06-12*
@@ -2453,6 +2499,13 @@
 8. [The Repeal of Glass-Steagall and the 2008 Economic Crash](https://josephgiglio.sites.northeastern.edu/2016/04/30/2017-7-12-the-repeal-of-a-depression-era-banking-law-and-the-economic-crash-of-2008/)
 9. [Public Hearing Transcript: Citicorp-Travelers Merger Community Impact](https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_panel11.htm)
 10. [Impact of the Citicorp-Travelers Group Merger](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1415&context=nlr)
+
+## Federal Reserve Orchestrates $3.6 Billion Bailout of Long-Term Capital Management to Prevent Systemic Collapse
+*Date: 1998-09-23*
+
+1. [Near Failure of Long-Term Capital Management](https://www.federalreservehistory.org/essays/ltcm-near-failure)
+2. [Long-Term Capital Management](https://en.wikipedia.org/wiki/Long-Term_Capital_Management)
+3. [Case Study: LTCM](https://www.bauer.uh.edu/rsusmel/7386/ltcm-2.htm)
 
 ## NationsBank-BankAmerica $62 Billion Merger Creates First Coast-to-Coast National Bank
 *Date: 1998-09-30*
@@ -2605,6 +2658,14 @@
 3. [Financial Services Modernization Act of 1999](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
 4. [The Financial Services Modernization Act of 1999](https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/)
 
+## Gramm-Leach-Bliley Act Repeals Glass-Steagall, Enables 2008 Crisis
+*Date: 1999-11-12*
+
+1. [PUBLIC LAW 106-102 - Gramm-Leach-Bliley Act](https://www.govinfo.gov/content/pkg/PLAW-106publ102/pdf/PLAW-106publ102.pdf)
+2. [Financial Services Modernization Act of 1999 (Gramm-Leach-Bliley)](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
+3. [Gramm-Leach-Bliley Act](https://www.sourcewatch.org/index.php/Gramm-Leach-Bliley_Act)
+4. [Sen. Phil Gramm - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005709&cycle=2002)
+
 ## Club New York shooting involving Diddy creates kompromat opportunity
 *Date: 1999-12-27*
 
@@ -2724,6 +2785,14 @@
 2. [The Buying of the President 2004](https://www.publicintegrity.org/politics/buying-president-2004)
 3. [Tracking the Bundlers](https://www.cbsnews.com/news/tracking-the-bundlers/)
 
+## Dot-Com Bubble Peaks, Exposes IPO Fraud and Analyst Conflicts
+*Date: 2000-03-10*
+
+1. [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble)
+2. [The Rise and Fall of the Dot-com Era - March 10, 2000](https://historysphere.com/dot-com-bubble-burst-2000/)
+3. [The Dotcom Bubble Burst (2000)](https://internationalbanker.com/history-of-financial-crises/the-dotcom-bubble-burst-2000/)
+4. [List of companies affected by the dot-com bubble](https://en.wikipedia.org/wiki/List_of_companies_affected_by_the_dot-com_bubble)
+
 ## FCC Approves $35.6 Billion Viacom-CBS Merger Despite Ownership Concentration Violations
 *Date: 2000-05-03*
 
@@ -2754,6 +2823,15 @@
 2. [reclaimdemocracy.org](https://reclaimdemocracy.org/clear_channel_backlash/)
 3. [justice.gov](https://www.justice.gov/archive/atr/public/press_releases/2000/5183.htm)
 4. [transition.fcc.gov](https://transition.fcc.gov/Bureaus/Mass_Media/News_Releases/2000/nrmm0034.html)
+
+## Clear Channel Radio Empire Reaches 1,240 Stations After AMFM Acquisition - Conservative Talk Radio Infrastructure Dominates American Airwaves
+*Date: 2000-08-30*
+
+1. [Clear Channel acquires AMFM Inc. creating radio monopoly](https://www.encyclopedia.com/books/politics-and-business-magazines/clear-channel-communications-inc)
+2. [Why do right-wing voices dominate the AM dial? Decades of change cemented shift](https://kansasreflector.com/2023/01/21/why-do-right-wing-voices-dominate-the-am-dial-decades-of-change-cemented-shift/)
+3. [Conservative talk radio](https://en.wikipedia.org/wiki/Conservative_talk_radio)
+4. [Rush Limbaugh to Switch Stations in Los Angeles and San Francisco](https://www.hollywoodreporter.com/news/politics-news/rush-limbaugh-switch-stations-los-662588/)
+5. [US Fascism Has Arrived Thanks to 30 Years of Right-Wing Talk Radio Dominance](https://www.commondreams.org/opinion/right-wing-talk-radio)
 
 ## Clinton Signs China PNTR Ending Annual Review, Enabling WTO Entry and Manufacturing Exodus
 *Date: 2000-10-10*
@@ -2805,6 +2883,14 @@
 2. [Enron Loophole](https://en.wikipedia.org/wiki/Enron_Loophole)
 3. [The Enron Loophole and Oil Futures Trading](https://liberalscumbuster.wordpress.com/2008/08/20/the-enron-loophole-and-oil-futures-trading-and-phil-gramm/)
 4. [Consolidated Appropriations Act for FY2001](https://www.congress.gov/bill/106th-congress/house-bill/4577)
+
+## Commodity Futures Modernization Act Deregulates Derivatives, Creates Enron Loophole
+*Date: 2000-12-21*
+
+1. [Commodity Futures Modernization Act of 2000](https://en.wikipedia.org/wiki/Commodity_Futures_Modernization_Act_of_2000)
+2. [Congress Passes Commodity Futures Modernization Act, CFTC Reauthorized](https://www.cftc.gov/sites/default/files/opa/press00/opa4479-00.htm)
+3. [H.R.4541 - Commodity Futures Modernization Act of 2000](https://www.congress.gov/bill/106th-congress/house-bill/4541)
+4. [Commodity Futures Modernization Act of 2000](https://www.sec.gov/about/laws/cfma.pdf)
 
 ## Clinton Signs Commodity Futures Modernization Act, Cementing Derivatives Deregulation
 *Date: 2000-12-21*
@@ -3013,6 +3099,14 @@
 1. [Department of Justice Press Release on Microsoft Settlement](https://www.justice.gov/archive/atr/public/press_releases/2001/9463.htm)
 2. [Microsoft, DOJ Reach Antitrust Settlement](https://money.cnn.com/2001/11/02/technology/microsoft/)
 3. [Maintenance of Monopoly: US v. Microsoft (2001)](https://www.law.berkeley.edu/wp-content/uploads/2015/04/MaintenanceMonopoly08.pdf)
+
+## Microsoft Antitrust Settlement Establishes Weak Precedent for Tech Monopolies
+*Date: 2001-11-01*
+
+1. [United States v. Microsoft Corp.](https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp.)
+2. [Long antitrust saga ends for Microsoft](https://www.seattletimes.com/business/microsoft/long-antitrust-saga-ends-for-microsoft/)
+3. [Microsoft Antitrust Case](https://corporatefinanceinstitute.com/resources/management/microsoft-antitrust-case/)
+4. [Microsoft case has tumultuous history, related fallout](https://www.computerworld.com/article/1334698/microsoft-case-has-tumultuous-history-related-fallout.html)
 
 ## NSA Launches MAINWAY Database for Mass Metadata Collection
 *Date: 2001-11-01*
@@ -4247,6 +4341,14 @@
 3. [European Complicity in CIA Torture in Black Sites](https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/)
 4. [Lithuania and Romania Complicit for Hosting CIA Black Sites](https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/)
 
+## Harry Markopolos Submits 'The World's Largest Hedge Fund Is a Fraud' to SEC, Agency Ignores Detailed Evidence for Third Time
+*Date: 2005-11-07*
+
+1. [Madoff Whistleblower: SEC Failed To Do The Math](https://www.npr.org/2010/03/02/124208012/madoff-whistleblower-sec-failed-to-do-the-math)
+2. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme](https://www.sec.gov/files/oig-509-exec-summary.pdf)
+3. [Madoff whistleblower blasts the SEC's failure](https://money.cnn.com/2009/02/04/news/newsmakers/madoff_whistleblower/)
+4. [Oversight of the Securities and Exchange Commission's Failure to Identify the Bernard L. Madoff Ponzi Scheme](https://www.govinfo.gov/content/pkg/CHRG-111shrg55785/html/CHRG-111shrg55785.htm)
+
 ## Dick Cheney Lobbies Congress for CIA Exemption from McCain Torture Ban
 *Date: 2005-11-08*
 
@@ -4639,6 +4741,13 @@
 2. [The Nation - Another Electrocution Death In Iraq](https://www.npr.org/templates/story/story.php?storyId=112704940)
 3. [U.S. Troops Still Dodging Deadly Showers](https://www.cbsnews.com/news/us-troops-still-dodging-deadly-showers/)
 
+## Bear Stearns Collapse and Federal Reserve-Facilitated Fire Sale to JPMorgan with $29 Billion Taxpayer Guarantee Establishes 'Too Big to Fail' Precedent with Zero Criminal Prosecutions Despite Fraud-Driven Collapse
+*Date: 2008-03-16*
+
+1. [Bear Stearns, JPMorgan Chase, and Maiden Lane LLC](https://www.federalreserve.gov/regreform/reform-bearstearns.htm)
+2. [Support for Specific Institutions](https://www.federalreservehistory.org/essays/support-for-specific-institutions)
+3. [Rewarding Bad Behavior - The Bear Stearns Bailout](https://www.ineteconomics.org/perspectives/blog/rewarding-bad-behavior-the-bear-stearns-bailout)
+
 ## Sprint Nextel GPS Location Data Sharing with Law Enforcement
 *Date: 2008-03-20*
 
@@ -4678,6 +4787,14 @@
 3. [New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny of Supreme Court ethics](https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/)
 4. [Samuel Alito is the latest Supreme Court justice to face ethics questions](https://www.npr.org/2023/06/22/1183653522/samuel-alito-is-the-latest-supreme-court-justice-to-face-ethics-questions)
 
+## Bank of America Completes $4 Billion Acquisition of Countrywide Financial After Predatory Lending and Fraud Schemes Targeting Minorities Caused $50 Billion in Losses, with CEO Angelo Mozilo Paying Only $67.5 Million SEC Settlement and Facing Zero Criminal Charges
+*Date: 2008-07-01*
+
+1. [Countrywide's Mozilo to pay $67.5 million settlement](https://money.cnn.com/2010/10/15/news/companies/mozilo_SEC/index.htm)
+2. [Angelo Mozilo Settles with the SEC](https://www.cbsnews.com/news/angelo-mozilo-former-ceo-of-countrywide-financial-corp-settles-with-the-sec/)
+3. [AG Harris Establishes California Foreclosure Relief Fund](https://oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-establishes-california-foreclosure-relief-fund)
+4. [Angelo Mozilo and his doomed mortgage machine](https://money.cnn.com/2018/06/06/news/companies/angelo-mozilo-countrywide-2008/index.html)
+
 ## FISA Amendments Act of 2008 Passes, Granting Telecom Immunity
 *Date: 2008-07-09*
 
@@ -4700,6 +4817,14 @@
 3. [Senator probes Trump's $95 million Palm Beach mansion sale](https://abcnews.go.com/Politics/follow-money-senator-probes-trumps-95-million-palm/story?id=52970095)
 4. [Maison de L'Amitie - Wikipedia](https://en.wikipedia.org/wiki/Maison_de_L'Amitie)
 5. [Why did a Russian pay $95M to buy Trump's Palm Beach mansion?](https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion)
+
+## Bain Capital and Thomas H. Lee Partners Complete $26.7 Billion Clear Channel Leveraged Buyout - Creating Debt Crisis
+*Date: 2008-07-24*
+
+1. [iHeartMedia Turns The Dial To Bankruptcy](https://www.npr.org/sections/thetwo-way/2018/03/15/593868390/iheartmedia-turns-the-dial-to-bankruptcy)
+2. [Bain Capital Wins Again: $20-Billion Leveraged-Buyout Queen Topples](https://wolfstreet.com/2018/03/15/bain-capital-wins-again-iheartmedia-finally-files-for-bankruptcy/)
+3. [iHeartMedia financial troubles embedded in 2008 leveraged buyout](https://www.expressnews.com/business/local/article/iHeartMedia-financial-troubles-embedded-in-2008-12241990.php)
+4. [BAIN CAPITAL & IHEART MEDIA: THE SLIPPERY SLOPE OF LBOS](https://www.whartonugpevc.com/articles/2018/4/5/bain-capital-iheart-media-the-slippery-slope-of-lbos)
 
 ## Senator Ted Stevens Indicted on Seven Felony Corruption Charges
 *Date: 2008-07-29*
@@ -4742,12 +4867,25 @@
 2. [Jack Abramoff Indian lobbying scandal - Wikipedia](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
 3. [Abramoff: Lobbying Congress - Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress)
 
+## Lehman Brothers Files Largest Bankruptcy in U.S. History with $639 Billion in Assets After Government Refuses Bailout, Creating Arbitrary 'Too Big to Fail' Enforcement Where Bear Stearns and AIG Were Rescued But Lehman Was Allowed to Collapse, Triggering Global Financial Panic
+*Date: 2008-09-15*
+
+1. [Lehman Brothers declares bankruptcy](https://www.history.com/this-day-in-history/September-15/lehman-brothers-collapses)
+2. [Bankruptcy of Lehman Brothers](https://www.britannica.com/event/bankruptcy-of-Lehman-Brothers)
+
 ## Trump Jr. says Russians make up disproportionate cross-section of assets
 *Date: 2008-09-15*
 
 1. [Donald Trump Jr. admitted a decade ago that many family assets come from Russia](https://www.aol.com/article/news/2018/02/21/donald-trump-jr-admitted-a-decade-ago-that-many-family-assets-come-from-russia/23367534/)
 2. [How Russian Money Boosted Trump's Business Empire](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/)
 3. [Trump Jr. Russians make up disproportionate cross-section](https://russia-gate.net/index.php/announcement/donald-trump-jr-russians-make-up-a-pretty-disproportionate-cross-section-of-a-lot-of-our-assets/)
+
+## Federal Reserve Provides $85 Billion Emergency Loan to AIG, Eventually Growing to $182 Billion in Total Taxpayer Commitments to Bail Out Insurance Giant That Gambled on Credit Default Swaps, Followed by $165 Million in Executive Bonuses Paid to Employees Who Caused the Crisis
+*Date: 2008-09-16*
+
+1. [Actions Related to AIG](https://www.newyorkfed.org/aboutthefed/aig)
+2. [Government Assistance for AIG - Summary and Cost](https://www.congress.gov/crs-product/R42953)
+3. [Q & A - The Financial Bailout](https://www.grassley.senate.gov/news/commentary/q-financial-bailout)
 
 ## Paulson Authorizes AIG Bailout Benefiting Goldman Sachs
 *Date: 2008-09-19*
@@ -4779,12 +4917,29 @@
 2. [Bailout Is a No-Strings Windfall to Bankers, if Not to Borrowers](https://www.nytimes.com/2008/10/15/business/economy/15bailout.html)
 3. [The $700 Billion Question](https://www.washingtonpost.com/wp-dyn/content/article/2008/09/23/AR2008092303425.html)
 
+## Emergency Economic Stabilization Act Creates $700 Billion Troubled Asset Relief Program (TARP) to Bail Out Wall Street Banks with Minimal Oversight or Executive Accountability Requirements, Leading to Just One Criminal Prosecution Compared to 900+ in 1980s Savings & Loan Crisis
+*Date: 2008-10-03*
+
+1. [Troubled Asset Relief Program (TARP)](https://home.treasury.gov/data/troubled-asset-relief-program)
+2. [Troubled Asset Relief Program](https://www.history.com/articles/troubled-asset-relief-program)
+3. [Troubled Asset Relief Program - Lifetime Cost](https://www.gao.gov/products/gao-24-107033)
+4. [The Bailout Was 11 Years Ago. We're Still Tracking Every Penny](https://www.propublica.org/article/the-bailout-was-11-years-ago-were-still-tracking-every-penny)
+
 ## Illinois Governor Rod Blagojevich Arrested for Attempting to Sell Obama's Senate Seat
 *Date: 2008-12-09*
 
 1. [Ill. Governor Arrested On Corruption Charges](https://www.npr.org/2008/12/09/98046264/ill-governor-arrested-on-corruption-charges)
 2. [Ill. Gov. Arrested In Probe Over Obama Successor](https://www.npr.org/2008/12/09/97998817/ill-gov-arrested-in-probe-over-obama-successor)
 3. [Rod Blagojevich corruption charges](https://en.wikipedia.org/wiki/Rod_Blagojevich_corruption_charges)
+
+## Bernie Madoff Arrested for $65 Billion Ponzi Scheme After SEC Ignored Warnings for 16 Years
+*Date: 2008-12-11*
+
+1. [Bernie Madoff Case](https://www.fbi.gov/history/famous-cases/bernie-madoff)
+2. [United States v. Bernard L. Madoff and Related Cases](https://www.justice.gov/usao-sdny/programs/victim-witness-services/united-states-v-bernard-l-madoff-and-related-cases)
+3. [Billionaire conman Bernard Madoff arrested](https://www.history.com/this-day-in-history/december-11/billionaire-conman-bernard-madoff-arrested)
+4. [Politicians Dropping Madoff Money](https://abcnews.go.com/Blotter/politicians-dropping-madoff-money/story?id=6488072)
+5. [Madoff Made Hefty Political Contributions to Top Officials](https://www.foxnews.com/politics/madoff-made-hefty-political-contributions-to-top-officials)
 
 ## Americans for Prosperity Organizational Profile: Koch Brothers' Astroturf Empire Manufacturing Fake Grassroots Movements
 *Date: 2009-01-01*
@@ -4862,6 +5017,14 @@
 1. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
 2. [The Rise and Fall of the Mercenary Formerly Known as Blackwater](https://www.newsweek.com/rise-and-fall-mercenary-formerly-known-blackwater-215746)
 3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
+
+## SEC Finally Charges Allen Stanford with $7 Billion Ponzi Scheme After Ignoring 12 Years of Internal Warnings
+*Date: 2009-02-17*
+
+1. [SEC Charges R. Allen Stanford, Stanford International Bank for Multi-Billion Dollar Investment Scheme](https://www.sec.gov/news/press/2009/2009-26.htm)
+2. [United States v. Robert Allen Stanford et al.](https://www.justice.gov/criminal/criminal-vns/case/united-states-v-robert-allen-stanford-et-al)
+3. [R. Allen Stanford Spent Millions On Lobbying Congress, Campaign Contributions](https://www.huffingtonpost.com/2009/02/17/r-allen-stanford-spent-mi_n_167731.html)
+4. [Politicians Slow To Repay Tainted Donations](https://www.npr.org/2010/02/17/123776423/politicians-slow-to-repay-tainted-donations)
 
 ## Trump Entertainment Resorts Files Bankruptcy, Trump Resigns from Board
 *Date: 2009-02-17*
@@ -5219,6 +5382,12 @@
 2. [Who's Who in the Foreclosure Scandal: A Primer on the Players](https://www.propublica.org/article/whos-who-in-the-foreclosure-scandal-a-primer-on-the-players)
 3. [2010 United States Foreclosure Crisis Overview](https://en.wikipedia.org/wiki/2010_United_States_foreclosure_crisis)
 
+## SEC Charges Goldman Sachs with Fraud Over ABACUS 2007-AC1 Synthetic CDO Deal Where Hedge Fund Manager John Paulson Selected Mortgage Securities to Bet Against While Goldman Sold Package to Investors, Resulting in $550 Million Settlement but No Criminal Charges
+*Date: 2010-04-16*
+
+1. [SEC Charges Goldman Sachs With Fraud in Structuring and Marketing of CDO Tied to Subprime Mortgages](https://www.sec.gov/news/press-release/2010-59)
+2. [Goldman Sachs to Pay Record $550 Million to Settle SEC Charges Related to Subprime Mortgage CDO](https://www.sec.gov/news/press-release/2010-123)
+
 ## Better Business Bureau Drops Trump University Rating to D- After Flood of Consumer Complaints
 *Date: 2010-05-01*
 
@@ -5285,6 +5454,14 @@
 2. [Operation Ghost Stories (case history)](https://www.fbi.gov/history/famous-cases/operation-ghost-stories)
 3. [The SoHo Spy: Stunning Anna Chapman Accused in Russian Spy Ring](https://abcnews.go.com/Blotter/russian-spy-ring-anna-chapman-accused-regular-nyc/story?id=11044883)
 4. [FBI Releases Video, Documents on Russian Spy Ring, Including Anna Chapman](https://www.nbcnewyork.com/news/local/russian-spy-videos-anna-chapman-fbi-sexy-spy-photos/2123873/)
+
+## Dodd-Frank Act Creates Consumer Financial Protection Bureau to Regulate Predatory Lending
+*Date: 2010-07-21*
+
+1. [Consumer Financial Protection Bureau](https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau)
+2. [Consumer Financial Protection Bureau (CFPB) | History, Functions, & Controversies](https://www.britannica.com/money/Consumer-Financial-Protection-Bureau)
+3. [What is the Consumer Financial Protection Bureau, anyway?](https://www.pbs.org/newshour/economy/making-sense/what-is-the-consumer-financial-protection-bureau-anyway)
+4. [Industry Profile: Payday lenders - Lobbying](https://www.opensecrets.org/federal-lobbying/industries/background?cycle=2024&id=F1420)
 
 ## GAO Investigation Exposes Systemic For-Profit College Fraud - Industry Takes 25% of Federal Aid
 *Date: 2010-08-04*
@@ -5904,6 +6081,14 @@
 1. [How Jeffrey Sterling Took on the CIA — and Lost Everything](https://theintercept.com/2015/06/18/jeffrey-sterling-took-on-the-cia-and-lost-everything/)
 2. [Obama administration indicts ex-CIA whistleblower](https://www.wsws.org/en/articles/2011/02/ster-f04.html)
 3. [Preview of the trial of ex-CIA officer Jeffery Sterling](https://freedom.press/issues/a-preview-of-the-trial-of-ex-cia-officer-jeffery-sterling-accused-source-of-journalist-james-risen/)
+
+## DOJ Criminal Division Chief Lanny Breuer Resigns After PBS Frontline Documentary 'The Untouchables' Exposes 'Too Big to Jail' Policy Resulting in Zero Major Bank Executive Prosecutions Compared to 900+ Convictions in 1980s S&L Crisis
+*Date: 2013-01-29*
+
+1. [The Untouchables](https://www.pbs.org/wgbh/frontline/documentary/untouchables/)
+2. [Justice Department's Lanny Breuer Oversaw Some of Largest Criminal Cases](https://www.washingtonpost.com/world/national-security/justice-departments-lanny-breuer-oversaw-some-of-largest-criminal-cases-in-us-history/2013/01/29/4567efd0-6a53-11e2-af53-7b2b2a7510a8_story.html)
+3. [Frontline Gets Its Man - Lanny Breuer Leaves DOJ After Exposé](https://www.prwatch.org/news/2013/01/11959/frontline-gets-its-man-lanny-breuer-leaves-doj-after-expose)
+4. [Were Bankers Jailed in Past Financial Crises?](https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/)
 
 ## Rep. Jesse Jackson Jr. Pleads Guilty to $750,000 Campaign Fund Fraud
 *Date: 2013-02-20*
@@ -6760,6 +6945,13 @@
 2. [Why Oakland Police Turned Down Predictive Policing](https://www.vice.com/en/article/minority-retort-why-oakland-police-turned-down-predictive-policing/)
 3. [PredPol](https://en.wikipedia.org/wiki/PredPol)
 
+## S&P Settles for $1.375 Billion Over Fraudulent AAA Ratings on Junk Mortgage Securities, While Moody's Pays $864 Million, Exposing 'Issuer-Pays' Conflict of Interest Model Where 73% of 2006 AAA-Rated Securities Were Downgraded to Junk by 2010
+*Date: 2015-02-03*
+
+1. [Justice Department and State Partners Secure $1.375 Billion Settlement with S&P for Defrauding Investors](https://www.justice.gov/opa/pr/justice-department-and-state-partners-secure-137-billion-settlement-sp-defrauding-investors)
+2. [Moody's Agrees to Pay $864 Million to Settle Federal and State Claims](https://www.justice.gov/opa/pr/moody-s-corporation-agrees-pay-864-million-settle-federal-and-state-claims-rating-subprime)
+3. [The Credit Rating Controversy](https://www.cfr.org/backgrounder/credit-rating-controversy)
+
 ## LeeAnne Walters' Water Tests Show Lead at 104 ppb—Nearly 7 Times EPA Limit
 *Date: 2015-02-18*
 
@@ -6815,6 +7007,14 @@
 1. [Corinthian Colleges Case Documents](https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-education-management-corporation)
 2. [Corinthian Colleges Files For Bankruptcy](https://www.npr.org/sections/ed/2015/04/27/402394471/corinthian-colleges-files-for-bankruptcy)
 3. [Corinthian Colleges shuts down, files for bankruptcy](https://www.cbsnews.com/news/corinthian-colleges-shuts-down-28-schools-files-for-bankruptcy/)
+
+## Corinthian Colleges Files Bankruptcy After Federal Crackdown on For-Profit College Fraud
+*Date: 2015-04-27*
+
+1. [Another For-Profit College Chain Closes Its Doors](https://www.pbs.org/wgbh/frontline/article/another-for-profit-college-chain-closes-its-doors/)
+2. [The Closure of ITT Tech and the Crash-Landing of the For-Profit College Industry](https://www.masu.org/news/accountability/10-10-2016/closure-itt-tech-and-crash-landing-profit-college-industry)
+3. [Leaked Memo Reveals That House GOP Leaders "Directed" For-Profit College Lobbying Strategy](https://www.republicreport.org/2012/exclusive-leaked-memo-reveals-house-gop-leaders-directed-for-profit-college-lobby-strategy/)
+4. [All Corinthian College Loans to Be Canceled](https://prospect.org/education/all-corinthian-college-loans-to-be-canceled/)
 
 ## Second Circuit Rules NSA Bulk Phone Metadata Collection Illegal Under Patriot Act
 *Date: 2015-05-07*
@@ -7452,6 +7652,14 @@
 2. [Key Moments In The Dakota Access Pipeline Fight](https://www.npr.org/sections/thetwo-way/2017/02/22/514988040/key-moments-in-the-dakota-access-pipeline-fight)
 3. [Stand with Standing Rock](https://www.aclu.org/campaigns-initiatives/stand-with-standing-rock)
 
+## ITT Technical Institute Closes Permanently After Federal Fraud Findings Leave 35,000 Students With Worthless Degrees
+*Date: 2016-09-06*
+
+1. [Another For-Profit College Chain Closes Its Doors](https://www.pbs.org/wgbh/frontline/article/another-for-profit-college-chain-closes-its-doors/)
+2. [SEC charges executives at for-profit college ITT with fraud](https://www.washingtonpost.com/business/economy/sec-charges-executives-at-for-profit-college-itt-with-fraud/2015/05/12/d3bb5c24-f8c5-11e4-a13c-193b1241d51a_story.html)
+3. [The Closure of ITT Tech and the Crash-Landing of the For-Profit College Industry](https://www.masu.org/news/accountability/10-10-2016/closure-itt-tech-and-crash-landing-profit-college-industry)
+4. [Closure of for-profit tech college leaves students in the lurch, in debt](https://www.bostonglobe.com/metro/2016/10/20/closure-for-profit-tech-college-leaves-students-lurch-debt/ICKwmkrR0fCNBY8ySlAAwK/story.html)
+
 ## ITT Tech Closes All 130 Campuses - 35,000 Students Stranded With Worthless Degrees and Non-Dischargeable Debt
 *Date: 2016-09-06*
 
@@ -7613,6 +7821,13 @@
 2. [Ronan Farrow says Enquirer shredded documents](https://www.cnn.com/2019/10/14/media/ronan-farrow-american-media-national-enquirer/index.html)
 3. [AP: National Enquirer Kept Damaging Trump Stories in Safe](https://www.cbsnews.com/news/ap-national-enquirer-kept-damaging-trump-stories-hush-money-papers-in-safe/)
 4. [Ronan Farrow Book Reveals National Enquirer's Trump Document Destruction](https://www.npr.org/2024/06/06/g-s1-3170/ronan-farrow-me-too-trump-weinstein-catch-and-kill)
+
+## Trump settles Trump University fraud for $25M; 7,000 victims recover 90% of costs
+*Date: 2016-11-18*
+
+1. [Statement By A.G. Schneiderman On $25 Million Settlement Agreement](https://ag.ny.gov/press-release/2016/statement-ag-schneiderman-25-million-settlement-agreement-reached-trump)
+2. [Judge finalizes $25 million settlement for victims of Donald Trump's fraudulent university](https://abcnews.go.com/US/judge-finalizes-25-million-settlement-victims-donald-trumps/story?id=54347237)
+3. [Trump University - A Look at an Enduring Education Scandal](https://www.americanprogress.org/article/trump-university-look-enduring-education-scandal/)
 
 ## Trump Settles Trump University Fraud Cases for $25 Million, 10 Days After Election Victory
 *Date: 2016-11-18*
@@ -7799,6 +8014,14 @@
 1. [2017 is Right-to-Work's Watershed Year](https://alec.org/article/2017-is-right-to-works-watershed-year/)
 2. [Impacts of Right-to-Work Laws on Unionization and Wages](https://www.nber.org/digest/202208/impacts-right-work-laws-unionization-and-wages)
 3. [ALEC's decades of 'right-to-work' effort pay off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/)
+
+## CFPB Sues Navient for Systematically Cheating 12 Million Student Loan Borrowers Through Illegal Servicing Practices
+*Date: 2017-01-17*
+
+1. [CFPB Sues Nation's Largest Student Loan Company Navient for Failing Borrowers at Every Stage of Repayment](https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-nations-largest-student-loan-company-navient-failing-borrowers-every-stage-repayment/)
+2. [Navient](https://protectborrowers.org/what-we-do/federal-student-loans/federal-loan-servicing-abuse/navient/)
+3. [Navient banned from servicing federal student loans](https://www.npr.org/2024/09/12/nx-s1-5110124/navient-lawsuit-settlement-student-loans)
+4. [The Navient Lawsuits: Large Settlement for Some, No Relief for Others](https://www.studentloanplanner.com/navient-lawsuit-updates/)
 
 ## DeVos Confirmation Hearing Reveals Investments in Student Debt Collection - Ethics Review Incomplete
 *Date: 2017-01-17*
@@ -8201,6 +8424,15 @@
 3. [Neil Gorsuch Sold Property to Greenberg Traurig CEO Brian Duffy](https://www.thedailybeast.com/neil-gorsuch-sold-property-to-greenberg-traurig-ceo-brian-duffy)
 4. [BigLaw CEO bought property partly owned by Gorsuch, who didn't disclose the buyer](https://www.abajournal.com/news/article/biglaw-ceo-bought-property-partly-owned-by-gorsuch-the-buyers-name-wasnt-disclosed)
 
+## Boris Epshteyn Leaves Trump White House, Immediately Joins Sinclair Broadcasting as Chief Political Analyst - Direct Trump Propaganda Pipeline
+*Date: 2017-04-17*
+
+1. [Ex-Trump spokesperson joins Sinclair Broadcasting](https://money.cnn.com/2017/04/17/media/boris-epshteyn-sinclair/index.html)
+2. [Boris Epshteyn, a former Trump surrogate, now defends him as a Sinclair TV pundit](https://www.washingtonpost.com/lifestyle/style/boris-epshteyn-a-former-trump-surrogate-now-defends-him-as-a-sinclair-tv-pundit/2017/06/19/b230b2e8-512e-11e7-be25-3a519335381c_story.html)
+3. [How Boris Epshteyn and Sinclair bring Trump propaganda to local news](https://slate.com/news-and-politics/2017/07/how-boris-epshteyn-and-sinclair-bring-trump-propaganda-to-local-news.html)
+4. [Trump aide Epshteyn joining Trump-friendly TV network](https://edition.cnn.com/2017/04/17/politics/boris-epshteyn-administration-sinclair/index.html)
+5. [Sinclair to require more must run pieces for former Trump official Epshteyn](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/)
+
 ## Fox News Fires Bill O'Reilly After $13 Million Sexual Harassment Settlements - Trump Had Defended Him
 *Date: 2017-04-19*
 
@@ -8506,6 +8738,14 @@
 2. [Puerto Rico Cancels Whitefish Energy Contract](https://www.npr.org/sections/thetwo-way/2017/10/29/560683583/puerto-rico-cancels-controversial-300-million-contract-awarded-to-montana-firm)
 3. [Whitefish Energy Holdings](https://en.wikipedia.org/wiki/Whitefish_Energy)
 
+## CFPB Finalizes Payday Lending Rule Requiring Ability-to-Repay Assessment After Industry Spent $13 Million Lobbying
+*Date: 2017-10-05*
+
+1. [CFPB Finalizes Rule To Stop Payday Debt Traps](https://www.consumerfinance.gov/about-us/newsroom/cfpb-finalizes-rule-stop-payday-debt-traps/)
+2. [A payday loans rule that stalled for years will help borrowers](https://www.npr.org/2024/06/28/g-s1-246/payday-loans-cash-cfpb)
+3. [Payday Lenders Background](https://www.opensecrets.org/industries//background?ind=F1420)
+4. [Payday lenders throw millions at powerful politicians to get their way](https://money.cnn.com/2014/12/18/pf/payday-lenders-contributions/)
+
 ## George Papadopoulos Becomes First Trump Campaign Official to Plead Guilty in Mueller Probe
 *Date: 2017-10-05*
 
@@ -8571,12 +8811,28 @@
 2. [AWS launches a Secret region for the U.S. intelligence community](https://techcrunch.com/2017/11/20/aws-launches-a-secret-region-for-the-u-s-intelligence-community/)
 3. [Amazon launches Secret Region – so secret it's endorsed by the CIA](https://www.theregister.com/2017/11/21/aws_secret_region/)
 
+## Trump Installs Mick Mulvaney as CFPB Acting Director, Beginning Systematic Gutting of Consumer Protection Agency
+*Date: 2017-11-24*
+
+1. [Mick Mulvaney](https://en.wikipedia.org/wiki/Mick_Mulvaney)
+2. [Mick Mulvaney turned the CFPB from a forceful consumer watchdog into a do-nothing government cog](https://theconversation.com/mick-mulvaney-turned-the-cfpb-from-a-forceful-consumer-watchdog-into-a-do-nothing-government-cog-98842)
+3. [Mick Mulvaney defends CFPB role: 'I have not burned the place down'](https://money.cnn.com/2018/04/11/investing/mulvaney-cfpb-hearing/index.html)
+4. [The many controversies of CFPB's Mick Mulvaney](https://www.americanbanker.com/slideshow/the-many-controversies-of-cfpbs-mick-mulvaney)
+
 ## Michael Flynn Pleads Guilty to Lying to FBI About Russian Contacts
 *Date: 2017-12-01*
 
 1. [Former National Security Advisor Michael T. Flynn Pleads Guilty to Making False Statements to the FBI](https://www.justice.gov/opa/pr/former-national-security-advisor-michael-t-flynn-pleads-guilty-making-false-statements-fbi)
 2. [Statement of the Offense - United States v. Michael T. Flynn](https://www.justice.gov/file/1015126/download)
 3. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/storage/report.pdf)
+
+## Betsy DeVos Blocks Debt Relief for 200,000 Defrauded For-Profit College Students Despite Career Staff Recommendations
+*Date: 2017-12-11*
+
+1. [Betsy DeVos Overruled Education Dept. Findings On Defrauded Student Borrowers](https://www.npr.org/2019/12/11/786367598/betsy-devos-overruled-education-dept-findings-on-defrauded-student-borrowers)
+2. [For-Profit College Students File Lawsuit to Force Betsy DeVos to Follow the Law](https://www.ppsl.org/news/news/press-releases/defrauded-for-profit-college-students-file-lawsuit-to-force-betsy-devos-cancel-student-loan-debt-borrower-defense)
+3. [Betsy DeVos ignored her own staff, forced students defrauded by for-profit colleges to pay](https://www.salon.com/2019/12/12/betsy-devos-ignored-her-own-staff-forced-students-defrauded-by-for-profit-colleges-to-pay/)
+4. [Democratic AGs Sue DeVos on Borrower Defense](https://www.insidehighered.com/quicktakes/2017/12/15/democratic-ags-sue-devos-borrower-defense)
 
 ## FCC Under Ajit Pai Repeals Net Neutrality in 3-2 Party-Line Vote
 *Date: 2017-12-14*
@@ -8796,6 +9052,14 @@
 3. [Gina Haspel CIA Torture Cables Declassified](https://nsarchive.gwu.edu/briefing-book/foia-intelligence-torture-archive/2018-08-10/gina-haspel-cia-torture-cables-declassified)
 4. [Center for Constitutional Rights - CCR In Disbelief at Confirmation of Gina Haspel](https://ccrjustice.org/home/press-center/press-releases/ccr-disbelief-confirmation-gina-haspel-outraged-former-head-cia)
 
+## iHeartMedia Files for Bankruptcy with $20 Billion Debt - Conservative Radio Empire Collapses Under Leveraged Buyout Burden
+*Date: 2018-03-15*
+
+1. [iHeartMedia Turns The Dial To Bankruptcy](https://www.npr.org/sections/thetwo-way/2018/03/15/593868390/iheartmedia-turns-the-dial-to-bankruptcy)
+2. [iHeartMedia Files for Chapter 11 Bankruptcy Protection](https://variety.com/2018/biz/news/iheartmedia-chapter-11-bankruptcy-1202715566/)
+3. [Bain Capital Wins Again: $20-Billion Leveraged-Buyout Queen Topples](https://wolfstreet.com/2018/03/15/bain-capital-wins-again-iheartmedia-finally-files-for-bankruptcy/)
+4. [Bain Capital back under microscope with iHeartMedia, Toys R Us exits](https://pitchbook.com/news/articles/bain-capital-back-under-the-microscope-with-iheartmedia-toys-r-us-bankruptcies)
+
 ## Toys 'R' Us Liquidation: PE Firms Extract $470 Million, 33,000 Workers Get Nothing
 *Date: 2018-03-15*
 
@@ -8974,6 +9238,13 @@
 
 1. [Epic Systems Corp v Lewis Wikipedia](https://en.wikipedia.org/wiki/Epic_Systems_Corp._v._Lewis)
 
+## Trump Signs Dodd-Frank Rollback Raising 'Systemically Important' Bank Threshold from $50B to $250B After Industry Lobbying Blitz
+*Date: 2018-05-24*
+
+1. [S.2155 - Economic Growth, Regulatory Relief, and Consumer Protection Act](https://www.congress.gov/bill/115th-congress/senate-bill/2155)
+2. [SVB CEO Greg Becker lobbied the government to relax some Dodd-Frank provisions on regional lenders in 2015. Trump did in 2018.](https://fortune.com/2023/03/11/silicon-valley-bank-svb-ceo-greg-becker-dodd-frank-trump-rollback-systemically-important-fdic/)
+3. [Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank](https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf)
+
 ## China grants waves of Ivanka Trump trademarks as she serves in White House; ethics watchdogs flag conflicts
 *Date: 2018-05-28*
 
@@ -9025,6 +9296,12 @@
 1. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
 2. [New York v. Trump Foundation - Petition](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=RvMG0E8YcUgRbdx3xJl_PLUS_A==&system=prod)
 3. [New York Attorney General Sues Trump and His Foundation](https://www.nytimes.com/2018/06/14/nyregion/trump-foundation-lawsuit-attorney-general.html)
+
+## NY AG sues Trump Foundation for "shocking pattern of illegality," self-dealing
+*Date: 2018-06-14*
+
+1. [Attorney General Underwood Announces Lawsuit Against Donald J. Trump Foundation](https://ag.ny.gov/press-release/2018/attorney-general-underwood-announces-lawsuit-against-donald-j-trump-foundation)
+2. [Trump Foundation To Dissolve Amid New York Attorney General's Investigation](https://www.npr.org/2018/12/18/677778958/trump-foundation-to-dissolve-amid-new-york-ags-investigation)
 
 ## Amazon aggressively pitches Rekognition facial recognition to ICE during family separation crisis
 *Date: 2018-06-15*
@@ -9104,6 +9381,15 @@
 1. [Russian National Charged in Conspiracy to Act as an Agent of the Russian Federation](https://www.justice.gov/archives/opa/pr/russian-national-charged-conspiracy-act-agent-russian-federation-within-united-states)
 2. [Maria Butina Case Bolsters Understanding of 'Infiltration' In Russian 2016 Attack](https://www.npr.org/2018/07/17/629627064/new-charges-confirm-that-infiltration-was-an-aspect-of-russian-2016-attack)
 3. [Maria Butina Arrested for Role in the NRA-Russia Scandal](https://www.rollingstone.com/politics/politics-news/maria-butina-first-arrest-nra-russia-scandal-699923/)
+
+## FCC Chairman Ajit Pai Refers Sinclair-Tribune Merger to Hearing Over "Serious Concerns" About Sham Divestitures and Misrepresentation
+*Date: 2018-07-16*
+
+1. [How Tribune Media's $3.9 Billion Merger With Sinclair Fell Apart](https://www.npr.org/2018/08/09/637230074/how-tribune-medias-3-9-billion-merger-with-sinclair-fell-apart)
+2. [Sinclair did not fully disclose facts on Tribune merger, FCC claims](https://www.nbcnews.com/news/us-news/sinclair-did-not-fully-disclose-facts-tribune-merger-fcc-claims-n892951)
+3. [Attempted acquisition of Tribune Media by Sinclair Broadcast Group](https://en.wikipedia.org/wiki/Attempted_acquisition_of_Tribune_Media_by_Sinclair_Broadcast_Group)
+4. [Tribune Media Terminates Merger Agreement with Sinclair Broadcast Group, Files Lawsuit](https://www.tribunemedia.com/tribune-media-terminates-merger-agreement-with-sinclair-broadcast-group-inc-files-lawsuit-for-breach-of-contract/)
+5. [Sinclair Broadcast Group Acquisition of Tribune Media: Competitive and Regulatory Issues](https://www.congress.gov/crs-product/R44892)
 
 ## Trump Sides with Putin Over U.S. Intelligence at Helsinki Summit, Attacks Own Agencies
 *Date: 2018-07-16*
@@ -9621,6 +9907,13 @@
 2. [Ethiopian Airlines Flight ET 302 Crashes Minutes After Takeoff](https://www.cbsnews.com/news/ethiopian-plane-crash-flight-et-302-crashes-minutes-after-takeoff-boeing-737-8-max-live-updates-2019-03-10/)
 3. [Aircraft Accident Investigation Report - B737-8 MAX, ET-AVJ](https://bea.aero/fileadmin/user_upload/ET_302__B737-8MAX_ACCIDENT_FINAL_REPORT.pdf)
 4. [Ethiopian Airlines Crash Investigation Final Report](https://www.reuters.com/world/africa/ethiopian-airlines-crash-investigators-release-final-report-2022-03-09/)
+
+## Operation Varsity Blues indicts 50 in largest college admissions fraud scheme
+*Date: 2019-03-12*
+
+1. [50 Charged in Largest College Admissions Scam Ever](https://www.usnews.com/news/education-news/articles/2019-03-12/50-charged-in-largest-college-admissions-scam-ever)
+2. [Lori Loughlin, Felicity Huffman among 50 charged in college admissions scheme](https://www.nbcnews.com/news/us-news/feds-uncover-massive-college-entrance-exam-cheating-plot-n982136)
+3. [Investigations of College Admissions and Testing Bribery Scheme](https://www.justice.gov/usao-ma/investigations-college-admissions-and-testing-bribery-scheme)
 
 ## FAA Finally Grounds 737 MAX After 51 Other Countries Act First, Exposing Regulatory Capture
 *Date: 2019-03-13*
@@ -10201,6 +10494,13 @@
 2. [NRA & Russia - Majority Report (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf)
 3. [Senate Democrats accuse NRA of promising access to U.S. officials in exchange for Russian business](https://www.nbcnews.com/politics/congress/senate-democrats-accuse-nra-promising-access-u-s-officials-exchange-n1059496)
 
+## WeWork Withdraws IPO After Valuation Collapses from $47 Billion to $10 Billion, Exposing Massive Corporate Governance Failure
+*Date: 2019-09-30*
+
+1. [WeWork pulls IPO filing](https://www.cnbc.com/2019/09/30/wework-says-it-will-file-request-to-withdraw-its-ipo-prospectus-after-roadshow-management-turmoil.html)
+2. [WeWork's Revolving-Door Games Called Into Question](https://prospect.org/power/wework-revolving-door-games-sec/)
+3. [WeSuck: First Came the Hype; then Came Adam Neumann's Self-Dealing](https://wallstreetonparade.com/2023/11/wesuck-first-came-the-hype-then-came-adam-neumanns-self-dealing-then-came-the-ipo-scandal-now-comes-the-bankruptcy/)
+
 ## Anne Nelson Publishes "Shadow Network" - Exposing CNP as Conservative Coordination Hub
 *Date: 2019-10-01*
 
@@ -10278,6 +10578,12 @@
 1. [Former California water lobbyist, Trump's Interior Secretary, under investigation](https://capitolweekly.net/former-california-water-lobbyist-trumps-interior-secretary-under-investigation/)
 2. [Interior IG opens investigation into Secretary Bernhardt four days after confirmation](https://www.cnn.com/2019/04/15/politics/bernhardt-interior-ig-investigation/index.html)
 3. [Feds clear Ex-Interior Sec. Bernhardt in probe of Westlands ties](https://sjvsun.com/ag/feds-clear-ex-interior-sec-bernhardt-in-probe-of-westlands-ties/)
+
+## Trump admits misusing Foundation for business/politics; $2M penalty, mandatory training
+*Date: 2019-11-07*
+
+1. [AG James Secures Court Order Against Donald J. Trump, Trump Children, And Trump Foundation](https://ag.ny.gov/press-release/2019/ag-james-secures-court-order-against-donald-j-trump-trump-children-and-trump)
+2. [Trump ordered to pay $2 million to settle suit claiming Trump Foundation misused funds](https://www.cnbc.com/2019/11/07/trump-ordered-to-pay-2-million-to-settle-trump-foundation-suit.html)
 
 ## Judge Orders Trump to Pay $2 Million for Misusing Trump Foundation Charity Funds
 *Date: 2019-11-07*
@@ -10650,6 +10956,13 @@
 2. [Senate Intel Chairman Richard Burr Steps Aside Amid FBI Investigation](https://www.npr.org/2020/05/14/855994291/Senate-intel-chairman-richard-burr-steps-aside-amid-fbi-investigation)
 3. [2020 congressional insider trading scandal](https://en.wikipedia.org/wiki/2020_congressional_insider_trading_scandal)
 
+## PPP launches $800B COVID relief with minimal oversight; $200B+ fraud estimates
+*Date: 2020-03-27*
+
+1. [Biggest fraud in a generation - The looting of the Covid relief program known as PPP](https://www.nbcnews.com/politics/justice-department/biggest-fraud-generation-looting-covid-relief-program-known-ppp-n1279664)
+2. [COVID-19 Pandemic EIDL and PPP Loan Fraud Landscape](https://www.sba.gov/document/report-23-09-covid-19-pandemic-eidl-ppp-loan-fraud-landscape)
+3. [Fraudsters may have stolen $200 billion in federal Covid relief funds](https://www.nbcnews.com/news/us-news/200-billion-fraud-federal-covid-relief-ppp-eidl-sba-rcna91427)
+
 ## Amazon Fires Christian Smalls for Organizing COVID Safety Protest
 *Date: 2020-03-30*
 
@@ -10813,6 +11126,13 @@
 2. [Billions of Records of Web-Tracking Data Exposed by Oracle's BlueKai](https://social.cyware.com/news/billions-of-records-of-web-tracking-data-exposed-by-oracles-bluekai-00629add)
 3. [The Big Data Breaches of 2020 - What Did We Learn?](https://www.bitsight.com/blog/the-big-data-breaches-of-2020-what-happened-and-what-did-we-learn)
 
+## Wirecard Files for Insolvency After €1.9 Billion Goes Missing, Exposing Decade of EY Audit Failure and German Regulatory Capture
+*Date: 2020-06-25*
+
+1. [German payments firm Wirecard files for insolvency after revealing $2 billion accounting black hole](https://www.cnbc.com/2020/06/25/german-payments-company-wirecard-files-for-insolvency.html)
+2. [What the Wirecard scandal reveals about the state of German financial supervision](https://blogs.lse.ac.uk/europpblog/2020/11/19/what-the-wirecard-scandal-reveals-about-the-state-of-german-financial-supervision/)
+3. [Credit Suisse collapse probe slams banking regulator](https://www.france24.com/en/live-news/20241220-credit-suisse-collapse-probe-slams-banking-regulator)
+
 ## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
 *Date: 2020-07-01*
 
@@ -10885,6 +11205,13 @@
 1. [Trump admin ignored risk to civilians in Saudi arms deal](https://www.nbcnews.com/politics/politics-news/trump-admin-failed-assess-risk-civilians-saudi-arms-deal-government-n1236457)
 2. [Pompeo's Arms Sales to Saudi Arabia Were Legal—but Heightened Risks of Civilian Casualties in Yemen](https://foreignpolicy.com/2020/08/11/trump-gulf-pompeo-arms-sales-saudi-arabia-civilian-casualties-yemen-state-department/)
 3. [Pompeo ordered officials to reverse-engineer a reason for Saudi arms sale](https://www.middleeasteye.net/news/pompeo-ordered-officials-reverse-engineer-justification-8bn-emergency-saudi-arms-sale-report)
+
+## NY AG sues NRA seeking dissolution over $64M fraud by Wayne LaPierre, executives
+*Date: 2020-08-06*
+
+1. [Attorney General James Files Lawsuit to Dissolve NRA](https://ag.ny.gov/press-release/2020/attorney-general-james-files-lawsuit-dissolve-nra)
+2. [New York AG seeks to dissolve NRA in lawsuit accusing leaders of self-dealing](https://www.cnbc.com/2020/08/06/new-york-nra-lawsuit-ag-james-accuses-gun-group-execs-of-self-dealing.html)
+3. [NRA Lawsuit - Fraud Investigation Moves New York AG To Seek Group's Dissolution](https://www.npr.org/2020/08/06/899712823/new-york-attorney-general-moves-to-dissolve-the-nra-after-fraud-investigation)
 
 ## Epic Games Sues Apple Over App Store Monopoly and 30% Commission Tax on Developers
 *Date: 2020-08-13*
@@ -11711,6 +12038,15 @@
 3. [ACLU Statement on Amazon Face Recognition Moratorium](https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium)
 4. [Amazon extends ban on police use of its facial recognition software](https://www.engadget.com/rekognition-police-ban-222425615.html)
 
+## Alden Global Capital Completes $633 Million Tribune Publishing Acquisition - "Vulture" Hedge Fund Becomes Second-Largest U.S. Newspaper Publisher
+*Date: 2021-05-21*
+
+1. [Vulture Fund Alden Global, Known For Slashing Newsrooms, Buys Tribune Papers](https://www.npr.org/2021/05/21/998730863/vulture-fund-alden-global-known-for-slashing-newsrooms-buys-tribune-papers)
+2. [Tribune shareholders vote to sell legendary chain of newspapers to Alden hedge fund](https://www.washingtonpost.com/media/2021/05/21/tribune-sale-alden-hedge-fund/)
+3. [Alden Global Capital](https://en.wikipedia.org/wiki/Alden_Global_Capital)
+4. [Alden Global Capital is buying and gutting local newspapers](https://www.npr.org/2021/10/18/1046952430/the-consequences-of-when-a-hedge-fund-buys-newspapers)
+5. [How this vulture hedge fund's gutting of local newsrooms could hurt Americans](https://www.pbs.org/newshour/show/how-this-vulture-hedge-funds-gutting-of-local-newsrooms-could-hurt-americans)
+
 ## Biden Nominates Frank Kendall for Air Force Secretary After $702,000 in Northrop Grumman Consulting Fees
 *Date: 2021-05-28*
 
@@ -11819,6 +12155,13 @@
 2. [Stand with Daniel Hale](https://standwithdanielhale.org/)
 3. [Drone war whistleblower Daniel Hale sentenced to 45 months](https://www.wsws.org/en/articles/2021/07/28/hale-j28.html)
 
+## Nikola Founder Trevor Milton Indicted for Securities Fraud, Exposing How SPAC Loophole Enabled Investor Deception
+*Date: 2021-07-29*
+
+1. [Former Nikola Corporation CEO Trevor Milton Charged In Securities Fraud Scheme](https://www.justice.gov/usao-sdny/pr/former-nikola-corporation-ceo-trevor-milton-charged-securities-fraud-scheme)
+2. [SEC Charges Founder of Nikola Corp. With Fraud](https://www.sec.gov/newsroom/press-releases/2021-141)
+3. [Nikola founder Trevor Milton sentenced to four years in prison for fraud](https://www.cnbc.com/2023/12/18/nikola-founder-trevor-milton-sentencing-fraud-charges.html)
+
 ## NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote
 *Date: 2021-08-02*
 
@@ -11918,6 +12261,23 @@
 2. [4 takeaways from Facebook whistleblower Frances Haugens testimony](https://www.npr.org/2021/10/05/1043377310/facebook-whistleblower-frances-haugen-congress)
 3. [Facebook Whistleblower Frances Haugen Testifies - Full Transcript](https://www.rev.com/transcripts/facebook-whistleblower-frances-haugen-testifies-on-children-social-media-use-full-senate-hearing-transcript)
 4. [Frances Haugen says Facebooks algorithms are dangerous](https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/)
+
+## Tether Fined $41 Million by CFTC for Lying About Dollar Reserves Backing Stablecoin
+*Date: 2021-10-15*
+
+1. [CFTC Orders Tether and Bitfinex to Pay Fines Totaling $42.5 Million](https://www.cftc.gov/PressRoom/PressReleases/8450-21)
+2. [Concurring Statement by Commissioner Dawn D. Stump Regarding Tether and Bitfinex Settlement](https://www.cftc.gov/PressRoom/SpeechesTestimony/stumpstatement101521)
+3. [Tether's Latest Black Eye Is CFTC Fine for Lying About Reserves](https://www.bloomberg.com/news/articles/2021-10-15/tether-bitfinex-to-pay-fines-totaling-42-5-million-cftc-says)
+4. [Cryptocurrency Tether is fined $41 million for lying about reserves](https://fortune.com/2021/10/15/tether-crypto-stablecoin-fined-reserves/)
+
+## NPR Documents How Hedge Fund Newspaper Ownership Creates News Deserts and Undermines Democracy - Over 2,500 Newspapers Closed Since 2005
+*Date: 2021-10-18*
+
+1. [Alden Global Capital is buying and gutting local newspapers](https://www.npr.org/2021/10/18/1046952430/the-consequences-of-when-a-hedge-fund-buys-newspapers)
+2. [When this hedge fund buys local newspapers, democracy suffers](https://www.gpb.org/news/2021/10/18/when-hedge-fund-buys-local-newspapers-democracy-suffers)
+3. [How this vulture hedge fund's gutting of local newsrooms could hurt Americans](https://www.pbs.org/newshour/show/how-this-vulture-hedge-funds-gutting-of-local-newsrooms-could-hurt-americans)
+4. [Alden Global Capital's bid for Lee Enterprises suppresses local journalism and democracy](https://badgerherald.com/opinion/2022/03/23/alden-global-capitals-bid-for-lee-enterprises-suppresses-local-journalism-and-democracy/)
+5. [Stripped for Parts: Secretive Hedge Fund Accused of Plundering U.S. Newspapers](https://www.democracynow.org/2025/10/8/stripped_for_parts_film)
 
 ## Digital World Acquisition Corp Announces Trump Media SPAC Merger
 *Date: 2021-10-20*
@@ -12295,6 +12655,14 @@
 2. [Trump Organization settles lawsuit over D.C. hotel payments tied to inauguration](https://www.reuters.com/world/us/trump-organization-settles-lawsuit-over-dc-hotel-payments-tied-inauguration-2022-05-03/)
 3. [Trump entities agree to pay $750,000 to settle D.C. inauguration lawsuit](https://www.washingtonpost.com/dc-md-va/2022/05/03/trump-hotel-nonprofit-settlement/)
 
+## Terra's UST Algorithmic Stablecoin Loses Dollar Peg, Triggering $40 Billion Death Spiral and Crypto Market Crash
+*Date: 2022-05-09*
+
+1. [Anatomy of a Run: The Terra Luna Crash](https://corpgov.law.harvard.edu/2023/05/22/anatomy-of-a-run-the-terra-luna-crash/)
+2. [A Timeline of the Meteoric Rise and Crash of UST and LUNA](https://www.coindesk.com/learn/the-fall-of-terra-a-timeline-of-the-meteoric-rise-and-crash-of-ust-and-luna)
+3. [Anatomy of a Run: The Terra Luna Crash](https://mitsloan.mit.edu/cfi/anatomy-a-run-terra-luna-crash)
+4. [How Three Arrows Capital Blew Up and Set Off a Crypto Contagion](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac)
+
 ## Chainalysis Raises $170 Million at $8.6 Billion Valuation in Series F
 *Date: 2022-05-10*
 
@@ -12308,6 +12676,14 @@
 1. [Timeline: Special counsel's investigation into Trump's handling of classified documents](https://abcnews.go.com/US/timeline-special-counsels-investigation-trumps-handling-classified-documents/story?id=101768329)
 2. [Justice Dept. using grand jury to probe Trump's Mar-a-Lago documents](https://www.washingtonpost.com/national-security/2022/05/12/mar-a-lago-documents-grand-jury/)
 3. [Federal prosecution of Donald Trump (classified documents case)](https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(classified_documents_case))
+
+## Terraform Labs Halts Terra Blockchain After Complete Collapse of UST and LUNA Destroys $40 Billion
+*Date: 2022-05-13*
+
+1. [Crypto Fraudster Do Kwon Gets 15 Years for $40 Billion Terra/Luna Collapse](https://www.ibtimes.com/crypto-fraudster-do-kwon-gets-15-years-40-billion-terra-luna-collapse-that-triggered-2022-crash-3792451)
+2. [Terraform Labs founder Do Kwon sentenced to 15 years over $40 billion Terra-Luna collapse](https://www.theblock.co/post/382204/terraform-labs-founder-do-kwon-sentenced-to-15-years-over-40-billion-terra-luna-collapse-inner-city-press)
+3. [Anatomy of a Run: The Terra Luna Crash](https://corpgov.law.harvard.edu/2023/05/22/anatomy-of-a-run-the-terra-luna-crash/)
+4. [Terraform's Bankruptcy Boss Sues Jump Trading for $4B Over Terra Crash](https://www.coindesk.com/business/2025/12/19/jump-trading-sued-for-usd4-billion-in-connection-to-do-kwon-s-terra-labs-collapse-wsj)
 
 ## UK Fines Clearview AI £7.5 Million for Breaching Data Protection Laws
 *Date: 2022-05-24*
@@ -12351,6 +12727,14 @@
 2. [Trump raised $250 million to fight election fraud claims. Here's where that money went](https://www.cnn.com/2022/06/13/politics/january-6-hearing-donald-trump-fundraising/index.html)
 3. [Jan. 6 committee says Trump engaged in "Big Rip-Off" by fundraising off election lies](https://www.cbsnews.com/news/january-6-committee-hearing-trump-big-rip-off-fundraising/)
 
+## Three Arrows Capital Ordered Into Liquidation After $3 Billion Hedge Fund Collapse Triggers Crypto Contagion
+*Date: 2022-06-27*
+
+1. [Crypto hedge fund Three Arrows Capital plunges into liquidation as market crash takes toll](https://www.cnbc.com/2022/06/29/crypto-hedge-fund-three-arrows-capital-plunges-into-liquidation.html)
+2. [How Three Arrows Capital Blew Up and Set Off a Crypto Contagion](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac)
+3. [Three Arrows Capital founders Su Zhu and Kyle Davies tell story of crypto fund's collapse](https://fortune.com/crypto/2022/07/22/three-arrows-capital-disgraced-founders-emerge-5-weeks-hiding-tell-story-crypto-fund-collapse/)
+4. [Three Arrows Capital falls into liquidation after crypto crash](https://www.washingtonpost.com/business/2022/06/29/three-arrows-liquidation-crypto/)
+
 ## Trump allegedly orders deletion of Mar-a-Lago surveillance footage
 *Date: 2022-06-27*
 
@@ -12371,6 +12755,20 @@
 1. [Roger Stone settles $2.1 million tax fraud case](https://www.taxnotes.com/tax-notes-today-federal/criminal-investigations/roger-stone-settles-tax-case)
 2. [Roger Stone settles Justice Department civil suit over unpaid taxes](https://www.cnbc.com/2022/07/01/roger-stone-settles-justice-department-civil-suit)
 3. [Stone's Drake Ventures shell company central to tax fraud settlement](https://www.floridabulldog.org/2022/07/roger-stone-drake-ventures-tax-settlement)
+
+## Voyager Digital Files Bankruptcy After Three Arrows Capital Collapse, Exposing Crypto Lending Contagion and Regulatory Failure
+*Date: 2022-07-05*
+
+1. [Investor Alert: Updates Regarding Cryptocurrency Bankruptcy Cases](https://dfr.vermont.gov/consumer-alert/investor-alert-updates-regarding-cryptocurrency-bankruptcy-cases)
+2. [The Bankruptcy Court as Crypto Market Regulator](https://southerncalifornialawreview.com/2024/04/16/the-bankruptcy-court-as-crypto-market-regulator/)
+3. [Crypto Lenders Gemini, Voyager and Celsius Network Under SEC Microscope](https://www.pymnts.com/news/regulation/2022/crypto-lenders-gemini-voyager-and-celsius-network-under-sec-microscope/)
+
+## Celsius Network Files Bankruptcy After Freezing $4.7 Billion in Customer Deposits, Exposing Crypto Regulatory Void
+*Date: 2022-07-13*
+
+1. [Embattled crypto lender Celsius files for bankruptcy protection](https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html)
+2. [FTC Reaches Settlement with Crypto Platform Celsius Network; Charges Former Executives with Duping Consumers](https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-reaches-settlement-crypto-platform-celsius-network-charges-former-executives-duping-consumers)
+3. [The Bankruptcy Court as Crypto Market Regulator](https://southerncalifornialawreview.com/2024/04/16/the-bankruptcy-court-as-crypto-market-regulator/)
 
 ## Ring admits providing police with warrantless access to user footage 11 times in 2022
 *Date: 2022-07-13*
@@ -12477,6 +12875,15 @@
 1. [NASA Chief Calls for Investigation into Musk-Putin Communications](https://www.reuters.com/technology/nasa-chief-calls-investigation-into-musk-putin-communications-2024-10-25/)
 2. [Elon Musk Denies Claim About Putin Communication During Ukraine War](https://apnews.com/article/russia-ukraine-war-elon-musk-putin-communication-2022-10-12)
 3. [U.S. Department of Defense Statement on Foreign Communications](https://www.defense.gov/News/Statements/Statement/Article/DoD-Foreign-Communication-Protocols/)
+
+## Sinclair Broadcasting Reaches 40% of U.S. Households Through 294 Stations - Largest Owner of Local TV Stations Maintains Propaganda Infrastructure
+*Date: 2022-10-01*
+
+1. [Sinclair reaches 40 percent households](https://www.sourcewatch.org/index.php/Sinclair_Broadcast_Group)
+2. [List of stations owned or operated by Sinclair Broadcast Group](https://en.wikipedia.org/wiki/List_of_stations_owned_or_operated_by_Sinclair_Broadcast_Group)
+3. [The Sinclair Effect: Comparing Ownership Influences on Bias in Local TV News Content](https://www.tandfonline.com/doi/full/10.1080/08838151.2019.1653103)
+4. [How Does Local TV News Change Viewers' Attitudes? The Case of Sinclair Broadcasting](https://www.tandfonline.com/doi/full/10.1080/10584609.2021.1901807)
+5. [Media consolidation takes toll on local news but doesn't necessarily bias coverage](https://www.colorado.edu/today/2021/10/20/media-consolidation-takes-toll-local-news-doesnt-necessarily-bias-coverage)
 
 ## Sinclair Broadcasting Reaches 40% of US Households Through Local News Monopoly
 *Date: 2022-10-01*
@@ -12689,6 +13096,12 @@
 3. [Twitter to Ease Ban on Political Advertising Under Musk](https://www.bloomberg.com/news/articles/2023-01-04/twitter-political-ads-ban-to-ease-under-elon-musk)
 4. [Twitter says it will relax ban on political advertising](https://www.nbcnews.com/politics/politics-news/twitter-says-will-relax-ban-political-advertising-rcna64202)
 
+## Varsity Blues mastermind Rick Singer sentenced to 3.5 years, $19M forfeiture
+*Date: 2023-01-04*
+
+1. [Rick Singer, head of the college admissions bribery scandal, gets 42 months in prison](https://www.npr.org/2023/01/04/1146837418/rick-singer-sentenced-varsity-blues-college-admissions-bribery-scandal)
+2. [Varsity Blues college scandal mastermind Rick Singer to be sentenced](https://www.npr.org/2023/01/03/1146672235/varsity-blues-college-cheating-scandal-mastermind-rick-singer-sentence)
+
 ## Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year
 *Date: 2023-01-11*
 
@@ -12719,12 +13132,26 @@
 3. [Rail Companies Blocked Safety Rules Before Ohio Derailment](https://www.levernews.com/rail-companies-blocked-safety-rules-before-ohio-derailment/)
 4. [Railroad Corporations Are Blocking Safety Regulations to Protect Profits](https://jacobin.com/2023/02/rail-companies-safety-rules-ohio-derailment-brake-sytems-regulations)
 
+## Silicon Valley Bank Collapses in $212 Billion Bank Run, Third-Largest U.S. Bank Failure Caused by Regulatory Rollback
+*Date: 2023-03-10*
+
+1. [Silicon Valley Bank is shut down by regulators in biggest bank failure since global financial crisis](https://www.cnbc.com/2023/03/10/silicon-valley-bank-is-shut-down-by-regulators-fdic-to-protect-insured-deposits.html)
+2. [Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank](https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf)
+3. [What Silicon Valley Bank Collapse Reveals About Regulation](https://www.propublica.org/article/silicon-valley-bank-failure-fdic-fed-failure)
+
 ## DOJ Arrests Guo Wengui in Landmark $1 Billion Fraud Conspiracy
 *Date: 2023-03-15*
 
 1. [Ho Wan Kwok Arrested for Orchestrating Over $1 Billion Dollar Fraud Conspiracy](https://www.justice.gov/usao-sdny/pr/ho-wan-kwok-aka-miles-guo-arrested-orchestrating-over-1-billion-dollar-fraud-conspiracy)
 2. [DOJ Charges Guo Wengui, Steve Bannon Associate, in $1 Billion Fraud](https://www.cnbc.com/2023/03/15/doj-charges-guo-wengui-steve-bannon-associate-in-1-billion-fraud.html)
 3. [Chinese Dissident Guo Wengui Guilty of Racketeering, Fraud in $1 Billion Scheme](https://www.courthousenews.com/chinese-dissident-guo-wengui-guilty-of-racketeering-fraud-in-1-billion-scheme/)
+
+## Swiss Government Forces Emergency UBS Acquisition of Credit Suisse After Regulatory Failure, Ending 167 Years of Swiss Banking History
+*Date: 2023-03-19*
+
+1. [UBS takeover of Credit Suisse](https://www.efd.admin.ch/en/credit-suisse-en)
+2. [FINMA publishes report and lessons learned from the Credit Suisse crisis](https://www.finma.ch/en/news/2023/12/20231219-mm-cs-bericht/)
+3. [Credit Suisse collapse probe slams banking regulator](https://www.france24.com/en/live-news/20241220-credit-suisse-collapse-probe-slams-banking-regulator)
 
 ## Digital World Acquisition Corp Fires CEO Patrick Orlando Amid SEC Investigation
 *Date: 2023-03-22*
@@ -13197,6 +13624,15 @@
 4. [Senate Democrats vote to subpoena Harlan Crow](https://www.axios.com/2023/11/09/senate-democrats-subpoena-harlan-crow-leonard-leo)
 5. [Senate Committee Votes to Subpoena Billionaire Harlan Crow](https://www.texastribune.org/2023/11/09/harlan-crow-subpoena-senate/)
 
+## Binance and CEO Changpeng Zhao Plead Guilty to Money Laundering in $4.3 Billion DOJ Settlement
+*Date: 2023-11-21*
+
+1. [Binance and CEO Plead Guilty to Federal Charges in $4B Resolution](https://www.justice.gov/archives/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution)
+2. [U.S. Treasury Announces Largest Settlements in History with World's Largest Virtual Currency Exchange Binance](https://home.treasury.gov/news/press-releases/jy1925)
+3. [FinCEN Announces Largest Settlement in U.S. Treasury Department History](https://www.fincen.gov/news/news-releases/fincen-announces-largest-settlement-us-treasury-department-history-virtual-asset)
+4. [CZ, founder of crypto giant Binance, pleads guilty to money laundering violations](https://www.npr.org/2023/11/21/1214466415/binance-cz-changpeng-zhao-pleads-guilty-settlement-crypto-doj)
+5. [Binance CEO CZ Agrees to Plead Guilty, Pay $50 Million Fine](https://www.bloomberg.com/news/articles/2023-11-21/binance-ceo-zhao-to-plead-guilty-in-us-settlement-wsj)
+
 ## Vance Endorses Claremont Institute Authoritarian Policy Document
 *Date: 2023-12-01*
 
@@ -13473,6 +13909,13 @@
 1. [2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains](https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains)
 2. [Jury Finds Non-Fungible Token Developer Guilty Of Defrauding Investors And Laundering Proceeds Through Blockchains](https://www.justice.gov/usao-mdfl/pr/jury-finds-non-fungible-token-developer-guilty-defrauding-investors-and-laundering)
 3. [Alabama, Pinellas Park men face prison in digital NFT scam](https://www.businessobserverfl.com/news/2024/nov/01/alabama-pinellas-park-men-facing-prison-in-digital-nft-scam)
+
+## Jury finds NRA, Wayne LaPierre liable for corruption; $6.35M damages ordered
+*Date: 2024-02-23*
+
+1. [Jury finds NRA, Wayne LaPierre liable in civil corruption case](https://www.npr.org/2024/02/23/1232229060/nra-wayne-lapierre-corruption-trial-verdict-new-york)
+2. [Jury finds NRA and Wayne LaPierre liable in civil corruption trial](https://www.nbcnews.com/news/us-news/nra-trial-verdict-rcna138827)
+3. [Jury finds NRA liable for mismanagement, says Wayne LaPierre violated duties](https://abcnews.go.com/US/jury-finds-nra-liable-mismanagement-wayne-lapierre-violated/story?id=107269909)
 
 ## Trump Pressures Georgia Lawmakers to Capture State Election Board
 *Date: 2024-03-01*
@@ -21484,6 +21927,15 @@
 5. [Trump pardons convicted Binance founder Changpeng Zhao](https://www.cnbc.com/2025/10/23/trump-pardons-binance-founder-cz-zhao.html)
 6. [How Zhao's Binance Aided Trump Family Crypto Venture Before Pardon](https://www.bloomberg.com/news/articles/2025-10-27/pardon-of-cz-how-binance-founder-aided-trump-family-crypto-venture)
 7. [Trump's Pardon Of Changpeng Zhao Reportedly Followed Binance's High Level Task Force, $2 Billion Stablecoin Deal](https://finance.yahoo.com/news/trumps-pardon-changpeng-zhao-reportedly-203116262.html)
+
+## Trump Pardons Convicted Binance Founder After $2 Billion Deal With Trump Family Crypto Venture and $450,000 Lobbying Campaign
+*Date: 2025-10-23*
+
+1. [Trump pardons Binance founder Changpeng Zhao, aka 'CZ'](https://www.cnbc.com/2025/10/23/trump-pardons-binance-founder-cz-zhao.html)
+2. [Trump pardons Binance founder Changpeng Zhao](https://www.cnn.com/2025/10/23/politics/binance-founder-trump-pardon)
+3. [Trump on pardon of Binance's 'CZ' Changpeng Zhao: 'I don't know' him](https://www.axios.com/2025/11/03/trump-binance-founder-pardon-60-minutes-changpeng-zhao)
+4. [Trump pardons billionaire Binance founder Changpeng Zhao, says he did so at request of others](https://abcnews.go.com/Politics/trump-pardons-billionaire-binance-founder-changpeng-zhao/story?id=126803113)
+5. [Addressing Trump's Claims About the Pardon of Binance Founder](https://www.factcheck.org/2025/11/addressing-trumps-claims-about-the-pardon-of-binance-founder/)
 
 ## Trump Pardons Binance Founder Changpeng Zhao After $2 Billion Stablecoin Deal
 *Date: 2025-10-23*
