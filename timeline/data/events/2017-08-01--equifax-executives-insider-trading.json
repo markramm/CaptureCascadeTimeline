@@ -1,0 +1,47 @@
+{
+  "id": "2017-08-01--equifax-executives-insider-trading",
+  "date": "2017-08-01",
+  "title": "Equifax Executives Sell $1.8 Million in Stock Days After Discovering Massive Data Breach",
+  "summary": "Three Equifax executives sell nearly $1.8 million in company stock on August 1-2, 2017, just days after Equifax discovered the massive data breach on July 29, 2017, but more than a month before the breach is disclosed to the public on September 7, 2017. The executives include Chief Financial Officer John Gamble, U.S. Information Solutions President Joseph Loughran, and Workforce Solutions President Rodolfo Ploder. While Equifax claims the executives 'had no knowledge that an intrusion had occurred at the time they sold their shares,' the U.S. Justice Department opens an investigation into potential insider trading violations. Two other lower-ranking managers who sold shares roughly a month after the breach are later found guilty of insider trading.\n\nThe incident exemplifies the impunity of corporate executives and regulatory capture in the financial services industry. Despite the suspicious timing of the stock sales—occurring within days of breach discovery but over a month before public disclosure—senior executives face no criminal charges. The case demonstrates how corporate insiders exploit information asymmetries to protect personal wealth while 147 million Americans face identity theft risk. The minimal accountability for executives, combined with Equifax's continued operation of critical consumer credit infrastructure despite catastrophic security failures, reveals the inadequacy of securities regulations and corporate governance in protecting public interests over executive self-enrichment.",
+  "importance": 8,
+  "actors": [
+    "John Gamble",
+    "Joseph Loughran",
+    "Rodolfo Ploder",
+    "Equifax",
+    "U.S. Department of Justice",
+    "SEC"
+  ],
+  "tags": [
+    "corruption",
+    "regulatory-capture",
+    "insider-trading",
+    "corporate-fraud",
+    "tech",
+    "financial-crime",
+    "executive-impunity"
+  ],
+  "sources": [
+    {
+      "url": "https://www.npr.org/sections/thetwo-way/2017/09/08/549434187/3-equifax-executives-sold-stock-days-after-hack-that-wasnt-disclosed-for-a-month",
+      "title": "3 Equifax Executives Sold Stock Days After Hack That Wasn't Disclosed For A Month",
+      "publisher": "NPR",
+      "date": "2017-09-08",
+      "tier": 1
+    },
+    {
+      "url": "https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html",
+      "title": "Equifax data breach FAQ: What happened, who was affected, what was the impact?",
+      "publisher": "CSO Online",
+      "date": "2023-08-18",
+      "tier": 2
+    },
+    {
+      "url": "https://archive.epic.org/privacy/data-breach/equifax/",
+      "title": "EPIC - Equifax Data Breach",
+      "publisher": "Electronic Privacy Information Center",
+      "date": "2019-07-22",
+      "tier": 2
+    }
+  ]
+}
