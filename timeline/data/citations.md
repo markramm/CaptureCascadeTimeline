@@ -52,6 +52,20 @@
 2. [How the Great Law of Peace Helped Shape New York and American Democracy](https://history.nycourts.gov/great-law-of-peace-shape-ny-american-democracy/)
 3. [The Native American Government That Helped Inspire the US Constitution](https://www.history.com/articles/iroquois-confederacy-influence-us-constitution)
 
+## Wagner Act Establishes Federal Protection for Union Rights and Collective Bargaining
+*Date: 1935-07-05*
+
+1. [1935 Passage of the Wagner Act](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1935-passage-of-the-wagner-act)
+2. [National Labor Relations Act of 1935](https://www.archives.gov/milestone-documents/national-labor-relations-act)
+3. [FDR and the Wagner Act](https://www.fdrlibrary.org/wagner-act)
+
+## Taft-Hartley Act Severely Restricts Union Power, Enables State Right-to-Work Laws
+*Date: 1947-06-23*
+
+1. [1947 Taft-Hartley Substantive Provisions](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-substantive-provisions)
+2. [Taft-Hartley Act Wikipedia](https://en.wikipedia.org/wiki/Taft–Hartley_Act)
+3. [Labor Management Relations Act of 1947 (Taft-Hartley Act)](https://www.influencewatch.org/legislation/labor-management-relations-act-of-1947-taft-hartley-act/)
+
 ## Roy Cohn Establishes Blackmail and Intimidation Network
 *Date: 1953-02-09*
 
@@ -66,6 +80,33 @@
 1. [Project MKULTRA, The CIA's Program of Research in Behavioral Modification](https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf)
 2. [The Search for the Manchurian Candidate](https://www.cia.gov/readingroom/document/search-manchurian-candidate)
 3. [CIA Behavior Control Experiments Collection](https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments)
+
+## Union Membership Reaches Peak of 35% of Workforce, Enabling Shared Prosperity
+*Date: 1954-01-01*
+
+1. [Union Membership in the United States Spotlight](https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm)
+2. [Union Membership Rate U.S.](https://www.statista.com/statistics/195349/union-membership-rate-of-employees-in-the-us-since-2000/)
+
+## National Right to Work Committee Founded to Coordinate Anti-Union Corporate Lobbying
+*Date: 1955-01-01*
+
+1. [Who Is Behind the National Right to Work Committee](https://www.prwatch.org/news/2014/06/12498/who-behind-national-right-work-committee-and-its-anti-union-crusade)
+2. [Who Is Behind the National Right to Work Committee and its Anti-Union Crusade](https://progressive.org/latest/behind-national-right-work-committee-anti-union-crusade/)
+3. [National Right to Work Committee SourceWatch](https://www.sourcewatch.org/index.php/National_Right_to_Work_Committee)
+
+## Landrum-Griffin Act Imposes Federal Restrictions on Union Internal Operations
+*Date: 1959-09-14*
+
+1. [1959 Landrum-Griffin Act](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1959-landrum-griffin-act)
+2. [Labor Management Reporting and Disclosure Act of 1959 Wikipedia](https://en.wikipedia.org/wiki/Labor_Management_Reporting_and_Disclosure_Act_of_1959)
+3. [Landrum-Griffin Act of 1959](https://www.ebsco.com/research-starters/history/landrum-griffin-act-1959)
+
+## Kennedy Executive Order 10988 Grants Federal Workers Collective Bargaining Rights
+*Date: 1962-01-17*
+
+1. [Executive Order 10988 Wikipedia](https://en.wikipedia.org/wiki/Executive_Order_10988)
+2. [Profile of Union Workers in State and Local Government](https://www.epi.org/publication/a-profile-of-union-workers-in-state-and-local-government-key-facts-about-the-sector-for-followers-of-janus-v-afscme-council-31/)
+3. [The Man Who Put Public-Employee Unions on the Map](https://prospect.org/labor/man-put-public-employee-unions-map/)
 
 ## Robert Maxwell's Secret KGB Meeting Coincides with Czechoslovakia Invasion Planning
 *Date: 1968-08-01*
@@ -89,12 +130,40 @@
 2. [Robert Maxwell & the KGB](https://espionagehistoryarchive.com/2019/12/20/robert-maxwell-the-kgb/)
 3. [The Scholarly Publishing Scene — The Maxwell Effect](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=8480&context=atg)
 
+## John Olin Activates Foundation to Fund Law and Economics Programs at Elite Universities
+*Date: 1970-01-01*
+
+1. [John M. Olin Foundation - Wikipedia](https://en.wikipedia.org/wiki/John_M._Olin_Foundation)
+2. [Olin Brings Law and Economics to Campus](https://www.philanthropyroundtable.org/almanac/olin-brings-law-and-economics-to-campus/)
+3. [The Olin Foundation and Support for Law and Economics Research](https://www.law.uchicago.edu/news/olin-foundation-and-support-law-and-economics-research)
+
+## Richard Scaife Acquires Pittsburgh Tribune-Review, Building Conservative Media Infrastructure
+*Date: 1970-01-01*
+
+1. [Richard Mellon Scaife - Wikipedia](https://en.wikipedia.org/wiki/Richard_Mellon_Scaife)
+2. [Richard Scaife, conservative champion, newsman & philanthropist, dies](https://archive.triblive.com/local/pittsburgh-allegheny/richard-scaife-conservative-champion-newsman-philanthropist-dies/)
+3. [Richard Mellon Scaife - SourceWatch](https://www.sourcewatch.org/index.php?title=Richard_Mellon_Scaife)
+
+## Richard Viguerie Pioneers Computerized Direct Mail, Revolutionizing Conservative Fundraising
+*Date: 1970-01-01*
+
+1. [Richard Viguerie - Wikipedia](https://en.wikipedia.org/wiki/Richard_Viguerie)
+2. [From Direct Mail to America's Right Turn](https://www.npr.org/2004/12/15/4229442/from-direct-mail-to-americas-right-turn)
+3. [Empire of Direct Mail](https://kansaspress.ku.edu/9780700633418/)
+
 ## Milton Friedman's 'The Social Responsibility of Business Is to Increase Its Profits' Establishes Shareholder Primacy Doctrine
 *Date: 1970-09-13*
 
 1. [A Friedman Doctrine: The Social Responsibility of Business Is to Increase Its Profits](https://www.nytimes.com/1970/09/13/archives/a-friedman-doctrine-the-social-responsibility-of-business-is-to.html)
 2. [Social responsibility matters to business – A different view from Milton Friedman from 50 years ago](https://mitsloan.mit.edu/experts/social-responsibility-matters-to-business-a-different-view-milton-friedman-50-years-ago)
 3. [Friedman doctrine](https://en.wikipedia.org/wiki/Friedman_doctrine)
+
+## Corporate Lobbying Expansion Begins, Growing From 175 to 2,500 Firms by 1982
+*Date: 1971-01-01*
+
+1. [There Wasn't Always This Much Corporate Lobbying](https://www.newamerica.org/weekly/there-wasnt-always-much-corporate-lobbying/)
+2. [Lobbying in the United States - Wikipedia](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States)
+3. [The Business of America is Lobbying](https://www.newamerica.org/weekly/business-america-lobbying/)
 
 ## COINTELPRO Exposed - FBI's Secret War on Civil Rights and Dissent Revealed
 *Date: 1971-03-08*
@@ -199,12 +268,39 @@
 3. [Structural Sources of International Crime: Policy Lessons from the BCCI Affair](https://www.ojp.gov/ncjrs/virtual-library/abstracts/structural-sources-international-crime-policy-lessons-bcci-affair)
 4. [BCCI: The Inside Story of the World's Sleaziest Bank](https://www.ojp.gov/ncjrs/virtual-library/abstracts/dirty-money-bcci-inside-story-worlds-sleaziest-bank)
 
+## Powell Memo Leaked to Public, Exposing Corporate Institutional Capture Blueprint
+*Date: 1972-09-28*
+
+1. [The Powell Memo: A Call-to-Arms for Corporations](https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/)
+2. [The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
+3. [Lewis Powell memo: notes to the Chamber of Commerce](https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html)
+
+## National Association of Manufacturers Relocates to Washington D.C. in Corporate Mobilization
+*Date: 1972-11-01*
+
+1. [The Powell Memo: A Call-to-Arms for Corporations](https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/)
+2. [1970s: A corporate blueprint to dominate democracy](https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html)
+
 ## Business Roundtable Established as Corporate Policy Coordination Body
 *Date: 1972-12-01*
 
 1. [Business Roundtable: How America's Top CEOs United to Shape Policy](https://www.reuters.com/business/business-roundtable-corporate-lobbying-history/)
 2. [The Origins of Corporate Advocacy: Business Roundtable's Founding](https://www.wsj.com/articles/business-roundtable-corporate-lobbying-origins)
 3. [Business Roundtable Organizational History](https://www.c-span.org/organization/business-roundtable/15075/)
+
+## Business Roundtable Established as CEO Coordination Body for Corporate Political Power
+*Date: 1972-12-01*
+
+1. [Business Roundtable - Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable)
+2. [The Business Roundtable and the politics of U.S. manufacturing decline](https://www.tandfonline.com/doi/abs/10.1080/00076791.2020.1863949)
+3. [The State Organizes the Capitalist Class](https://jacobin.com/2022/05/capitalism-neoliberalism-state-ge-business-roundtable)
+
+## ALEC Founded to Coordinate Corporate Model Legislation Across State Legislatures
+*Date: 1973-01-01*
+
+1. [A History of ALEC and The Peoples Resistance](https://www.alecattacks.org/history-of-alec)
+2. [Paul Weyrichs Troika Reunited: ALEC Partners with Republican Study Committee at Heritage](https://www.prwatch.org/news/2012/09/11752/paul-weyrichs-troika-reunited-alec-partners-republican-study-committee-heritage-f)
+3. [American Legislative Exchange Council Wikipedia](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council)
 
 ## BCCI Begins Rapid International Expansion Strategy with 19 Branches Across Five Countries
 *Date: 1973-01-01*
@@ -213,6 +309,19 @@
 2. [BCCI: The Dirtiest Bank of All](https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/)
 3. [The Dictator-Run Bank That Tells the Story of America's Foreign Corruption](https://foreignpolicy.com/2020/07/07/the-dictator-run-bank-that-tells-the-story-of-americas-foreign-corruption/)
 4. [The man who adds mysticism to banking - Aga Hassan Abedi](None)
+
+## Paul Weyrich Begins Official Coalition Meetings, Coordinating Conservative Movement
+*Date: 1973-01-01*
+
+1. [Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative Coalition](https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd)
+2. [Paul Weyrich - Wikipedia](https://en.wikipedia.org/wiki/Paul_Weyrich)
+3. [Paul Weyrich: Father of a New Right](https://modernagejournal.com/paul-weyrich-father-of-a-new-right/236103/)
+
+## Supreme Court Decides Roe v. Wade, Triggering Conservative Backlash and Mobilization
+*Date: 1973-01-22*
+
+1. [Roe v. Wade - Wikipedia](https://en.wikipedia.org/wiki/Roe_v._Wade)
+2. [The undoing of Roe v. Wade](https://pursuit.unimelb.edu.au/articles/the-undoing-of-roe-v-wade)
 
 ## Heritage Foundation Established as Powell Memo Implementation Vehicle
 *Date: 1973-02-16*
@@ -317,6 +426,31 @@
 2. [United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc.](https://clearinghouse.net/case/15342/)
 3. [Hillary Clinton says federal government sued Donald Trump for housing discrimination](https://www.politifact.com/factchecks/2016/sep/27/hillary-clinton/true-hillary-clinton-says-federal-government-sued-/)
 
+## U.S. Chamber of Commerce Board Adopts Powell Memo Task Force Recommendations
+*Date: 1973-11-08*
+
+1. [The Powell Memo: A Call-to-Arms for Corporations](https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/)
+2. [1970s: A corporate blueprint to dominate democracy](https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html)
+
+## American Enterprise Institute Establishes Center for Health Policy Research
+*Date: 1974-01-01*
+
+1. [American Enterprise Institute - Wikipedia](https://en.wikipedia.org/wiki/American_Enterprise_Institute)
+2. [American Enterprise Institute - SourceWatch](https://www.sourcewatch.org/index.php/American_Enterprise_Institute)
+
+## Richard Scaife Begins Major Funding of Heritage Foundation as Primary Donor
+*Date: 1974-01-01*
+
+1. [Richard Mellon Scaife: Funding Father of the Right](https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm)
+2. [Richard Mellon Scaife - Wikipedia](https://en.wikipedia.org/wiki/Richard_Mellon_Scaife)
+3. [Scaife Foundations - SourceWatch](https://www.sourcewatch.org/index.php/Scaife_Foundations)
+
+## Weyrich Founds Committee for the Survival of a Free Congress, Expanding Infrastructure
+*Date: 1974-01-01*
+
+1. [Paul Weyrich - Wikipedia](https://en.wikipedia.org/wiki/Paul_Weyrich)
+2. [Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative Coalition](https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd)
+
 ## US-Saudi Economic Commission Agreement Signed
 *Date: 1974-06-08*
 
@@ -330,6 +464,25 @@
 1. [The Untold Story Behind Saudi Arabia's 41-Year U.S. Debt Secret](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret)
 2. [William E. Simon (1974 - 1977) Official Biography](https://home.treasury.gov/about/history/prior-secretaries/william-e-simon-1974-1977)
 3. [Secret Origins Of The Petrodollar System](https://empirediaries.com/2022/08/03/petrodollar-system/)
+
+## ERISA Enacted, Establishing Federal Preemption of State Employee Benefit Regulation
+*Date: 1974-09-02*
+
+1. [Employee Retirement Income Security Act of 1974](https://www.dol.gov/general/topic/retirement/erisa)
+2. [ERISA - Wikipedia](https://en.wikipedia.org/wiki/Employee_Retirement_Income_Security_Act_of_1974)
+3. [Protecting ERISA Preemption](https://www.eric.org/protecting-erisa-preemption/)
+
+## FECA Amendments Enable Corporate PAC Formation, Triggering 1,600% Growth
+*Date: 1974-10-15*
+
+1. [The Business PAC Phenomenon: An Irony of Electoral Reform](https://www.aei.org/articles/the-business-pac-phenomenon-an-irony-of-electoral-reform/)
+2. [Political action committee - Wikipedia](https://en.wikipedia.org/wiki/Political_action_committee)
+
+## Arthur Laffer Sketches Curve on Napkin with Rumsfeld and Cheney, Creating Supply-Side Icon
+*Date: 1974-12-01*
+
+1. [The Laffer Curve: Past, Present, and Future](https://www.heritage.org/taxes/report/the-laffer-curve-past-present-and-future)
+2. [Arthur Laffer - Britannica Money](https://www.britannica.com/money/Arthur-Laffer)
 
 ## ALEC Registers as Federal Nonprofit and Moves to Washington D.C.
 *Date: 1975-01-01*
@@ -345,6 +498,13 @@
 2. [Remembering the New Right](https://politicalresearch.org/2009/06/10/remembering-the-new-right-political-strategy-and-the-building-of-the-gop-coalition)
 3. [The World of Richard Viguerie. At 90 'Our work isn't finished yet.'](https://agitator.thedonorvoice.com/the-world-of-richard-viguerie-at-90-our-work-isnt-finished-yet/)
 
+## Paul Weyrich Becomes First Director of ALEC, Consolidating State Legislative Strategy
+*Date: 1975-01-01*
+
+1. [Paul Weyrich - Wikipedia](https://en.wikipedia.org/wiki/Paul_Weyrich)
+2. [American Legislative Exchange Council - Wikipedia](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council)
+3. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
+
 ## Church Committee begins exposing illegal intelligence activities
 *Date: 1975-01-27*
 
@@ -352,6 +512,12 @@
 2. [January 27, 1975 - The Church Committee Opens Its Investigation](https://www.thenation.com/article/archive/january-27-1975-church-committee-opens-investigation-us-intelligence-agencies)
 3. [Frank Church and the Church Committee](https://www.levin-center.org/frank-church-and-the-church-committee)
 4. [Looking back at the Church Committee](https://constitutioncenter.org/blog/looking-back-at-the-church-committee)
+
+## Federal Election Commission Begins Operations, Institutionalizing Corporate PAC Framework
+*Date: 1975-04-14*
+
+1. [Federal Election Commission - Grokipedia](https://grokipedia.com/page/Federal_Election_Commission)
+2. [Federal Election Campaign Act - Wikipedia](https://en.wikipedia.org/wiki/Federal_Election_Campaign_Act)
 
 ## Church Committee: Landmark Democratic Resistance Framework Against Intelligence Abuses
 *Date: 1975-04-22*
@@ -478,12 +644,52 @@
 5. [Strategic Analysis: Pakistan's Military Financing and Intelligence Networks](https://www.tandfonline.com/doi/abs/10.1080/09700161.2019.1625512)
 6. [Historical Documents: Pakistan Intelligence Financing in 1970s](https://history.state.gov/historicaldocuments/frus1977-80v12/d182)
 
+## Charles Koch Founds Cato Institute with $500,000, Expanding Libertarian Infrastructure
+*Date: 1977-01-01*
+
+1. [Cato Institute - Wikipedia](https://en.wikipedia.org/wiki/Cato_Institute)
+2. [Cato Institute - InfluenceWatch](https://www.influencewatch.org/non-profit/cato-institute/)
+3. [Cato Institute - SourceWatch](https://www.sourcewatch.org/index.php/Cato_Institute)
+
 ## Cato Institute Founded by Charles Koch - Libertarian Policy Infrastructure
 *Date: 1977-01-01*
 
 1. [Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute)
 2. [Cato Institute - SourceWatch](https://www.sourcewatch.org/index.php/Cato_Institute)
 3. [Cato Institute - InfluenceWatch](https://www.influencewatch.org/non-profit/cato-institute/)
+
+## Edwin Feulner Becomes Heritage Foundation President, Launching Rapid Expansion
+*Date: 1977-01-01*
+
+1. [Edwin Feulner - Wikipedia](https://en.wikipedia.org/wiki/Edwin_Feulner)
+2. [Heritage Foundation Founder Edwin J. Feulner Dead at 83](https://www.newsweek.com/heritage-foundation-founder-edwin-feulner-dead-83-2101101)
+3. [Remembering Ed Feulner, Conservative Institution-Builder](https://www.city-journal.org/article/ed-feulner-heritage-foundation-conservative)
+
+## Edwin Feulner Becomes Heritage Foundation President, Beginning 36-Year Tenure Building Conservative Policy Infrastructure
+*Date: 1977-01-01*
+
+1. [Edwin Feulner - Wikipedia](https://en.wikipedia.org/wiki/Edwin_Feulner)
+2. [Heritage Foundation Mourns the Loss of Its Founder, Ed Feulner](https://www.heritage.org/press/heritage-foundation-mourns-the-loss-its-founder-ed-feulner)
+3. [Scaife: Funding Father of the Right](https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm)
+4. [Remembering Ed Feulner, Conservative Institution-Builder](https://www.city-journal.org/article/ed-feulner-heritage-foundation-conservative)
+
+## Milton Friedman Begins Development of "Free to Choose" PBS Series on Free Markets
+*Date: 1977-01-01*
+
+1. [Free to Choose - Wikipedia](https://en.wikipedia.org/wiki/Free_to_Choose)
+2. [Milton Friedman - Wikipedia](https://en.wikipedia.org/wiki/Milton_Friedman)
+
+## Jack Kemp and William Roth Introduce Tax Cut Bill, Translating Supply-Side Theory to Legislation
+*Date: 1977-01-01*
+
+1. [Jack Kemp - Wikipedia](https://en.wikipedia.org/wiki/Jack_Kemp)
+2. [Supply-Side Economics and the Kemp-Roth Bill](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1265&context=sbr)
+
+## National Association of Business PACs Founded to Coordinate Corporate Political Money
+*Date: 1977-01-01*
+
+1. [About NABPAC](https://nabpac.org/about/)
+2. [Political action committee - Wikipedia](https://en.wikipedia.org/wiki/Political_action_committee)
 
 ## Oracle Corporation Founded to Build CIA Database, Named After CIA Project
 *Date: 1977-01-01*
@@ -492,12 +698,31 @@
 2. [Oracle's coziness with government goes back to its founding](https://www.sfgate.com/bayarea/article/oracle-s-coziness-with-government-goes-back-to-2820370.php)
 3. [Oracle, the CIA and government's role in picking winners](https://www.nextgov.com/digital-government/2014/09/oracle-the-cia-and-governments-role-in-picking-winners/240320/)
 
+## William E. Simon Becomes Olin Foundation President, Launching Strategic Conservative Funding
+*Date: 1977-01-01*
+
+1. [John M. Olin Foundation - Wikipedia](https://en.wikipedia.org/wiki/John_M._Olin_Foundation)
+2. [John M. Olin Foundation - SourceWatch](https://www.sourcewatch.org/index.php/John_M._Olin_Foundation)
+
+## Supreme Court Decides GTE Sylvania, First Major Chicago School Antitrust Victory
+*Date: 1977-06-23*
+
+1. [The Chicago School and the Forgotten Political Dimension of Antitrust Law](https://lawreview.uchicago.edu/print-archive/chicago-school-and-forgotten-political-dimension-antitrust-law)
+2. [Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust](https://www.promarket.org/2019/10/07/aaron-director-and-the-empirical-foundation-for-the-chicago-attitude-on-antitrust/)
+
 ## Exxon Internal Climate Research Program Confirms Human-Caused Global Warming
 *Date: 1977-07-01*
 
 1. [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
 2. [Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/)
 3. [Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063)
+
+## Robert Bork Publishes "The Antitrust Paradox," Revolutionizing Corporate Power
+*Date: 1978-01-01*
+
+1. [The Antitrust Paradox - Wikipedia](https://en.wikipedia.org/wiki/The_Antitrust_Paradox)
+2. [Consumer Welfare and the Legacy of Robert Bork](https://gai.gmu.edu/wp-content/uploads/sites/27/2017/04/Consumer-Welfare-and-the-Legacy-of-Robert-Bork.pdf)
+3. [More than money - Defining American antitrust law, from Bork to Khan](https://www.wbur.org/onpoint/2022/02/17/more-than-money-antitrust-monopolies-are-defined-from-bork-to-khan)
 
 ## Clark Clifford and Robert Altman Begin Representing BCCI in US Operations
 *Date: 1978-01-01*
@@ -512,6 +737,12 @@
 1. [Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research)
 2. [Manhattan Institute - SourceWatch](https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research)
 3. [William J. Casey](https://en.wikipedia.org/wiki/William_J._Casey)
+
+## Jude Wanniski Publishes "The Way the World Works," Supply-Side Economics Manifesto
+*Date: 1978-01-01*
+
+1. [Arthur Laffer - Britannica Money](https://www.britannica.com/money/Arthur-Laffer)
+2. [Reagan Promotes Supply-Side Economics](https://www.ebsco.com/research-starters/politics-and-government/reagan-promotes-supply-side-economics)
 
 ## DOJ Returns to Court: Trump Violated 1975 Discrimination Settlement
 *Date: 1978-03-06*
@@ -541,6 +772,13 @@
 2. [1978 California Proposition 13](https://en.wikipedia.org/wiki/1978_California_Proposition_13)
 3. [Proposition 13: Everything You Thought You Knew, and Things You Didn't](https://aoausa.com/proposition-13-everything-you-thought-you-knew-and-things-you-didnt-from-the-howard-jarvis-taxpayers-association/)
 
+## Carter Signs Airline Deregulation Act, Beginning Industry Consolidation Era
+*Date: 1978-10-24*
+
+1. [Airline Deregulation Act - Wikipedia](https://en.wikipedia.org/wiki/Airline_Deregulation_Act)
+2. [Jimmy Carter (1977-1981): Transformational Deregulation](https://enotrans.org/article/jimmy-carter-1977-1981-transformational-deregulation-of-americas-transportation-system-and-more/)
+3. [Airline Deregulation - When Everything Changed](https://airandspace.si.edu/stories/editorial/airline-deregulation-when-everything-changed)
+
 ## Business Roundtable Coordinates First Major Corporate PAC Election Strategy
 *Date: 1978-11-07*
 
@@ -562,6 +800,33 @@
 1. [Some ALEC Funders Flee, but Koch, Big Tobacco, and PhRMA Remain Loyalists](https://www.prwatch.org/news/2014/07/12552/alec-funders-flee-but-koch-tobacco-phrma-remain-loyal)
 2. [What is ALEC](https://www.alecexposed.org/wiki/What_is_ALEC)
 3. [Who Still Funds ALEC?](https://www.commoncause.org/articles/who-still-funds-alec/)
+
+## Heritage Foundation Begins "Mandate for Leadership" Preparation for Reagan Transition
+*Date: 1979-01-01*
+
+1. [Mandate for Leadership - Wikipedia](https://en.wikipedia.org/wiki/Mandate_for_Leadership)
+2. [REAGAN AND HERITAGE - A Unique Partnership](https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership)
+
+## Supreme Court Adopts Bork's "Consumer Welfare Standard," Transforming Antitrust Law
+*Date: 1979-01-01*
+
+1. [Consumer Welfare and the Legacy of Robert Bork](https://gai.gmu.edu/wp-content/uploads/sites/27/2017/04/Consumer-Welfare-and-the-Legacy-of-Robert-Bork.pdf)
+2. [The Antitrust Paradox - Wikipedia](https://en.wikipedia.org/wiki/The_Antitrust_Paradox)
+3. [What Economists Mean When They Say "Consumer Welfare Standard"](https://www.promarket.org/2022/02/16/consumer-welfare-standard-antitrust-economists/)
+
+## Wage Stagnation Era Begins: Productivity-Pay Gap Opens as Union Power Collapses
+*Date: 1979-01-01*
+
+1. [The Productivity-Pay Gap](https://www.epi.org/productivity-pay-gap/)
+2. [Wage Stagnation in Nine Charts](https://www.epi.org/publication/charting-wage-stagnation/)
+3. [Identifying Policy Levers Generating Wage Suppression and Inequality](https://www.epi.org/unequalpower/publications/wage-suppression-inequality/)
+
+## Falwell and Weyrich Found Moral Majority, Fusing Religious Right with Corporate Agenda
+*Date: 1979-06-01*
+
+1. [Moral Majority - Wikipedia](https://en.wikipedia.org/wiki/Moral_Majority)
+2. [Jerry Falwell Helps Found the Moral Majority](https://www.thearda.com/us-religion/history/timelines/entry?etype=1&eid=46)
+3. [Moral Majority - Britannica](https://www.britannica.com/topic/Moral-Majority)
 
 ## Moral Majority Founded - Corporate Agenda Masked by Religious Cultural Warfare
 *Date: 1979-06-01*
@@ -592,6 +857,11 @@
 2. [On Paul Manafort and foreign lobbying: a Q&A with the author of "The Torturers' Lobby"](https://publicintegrity.org/politics/on-paul-manafort-and-foreign-lobbying-a-qa-with-the-author-of-the-torturers-lobby)
 3. [THE TORTURERS' LOBBY](https://cloudfront-files-1.publicintegrity.org/legacy_projects/pdf_reports/THETORTURERSLOBBY.pdf)
 
+## Corporate Political Mobilization Accelerates Following Powell Memo and Business Roundtable Formation
+*Date: 1980-01-01*
+
+1. [Powell Memo Attack on American Free Enterprise System](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
+
 ## Claim: Epstein and Maxwell Alleged Intelligence Operation (Unverified)
 *Date: 1980-01-01*
 
@@ -600,6 +870,19 @@
 3. [Inside the Ring: Former NSA counterspy says Jeffrey Epstein was part of Israeli network](https://www.washingtontimes.com/news/2024/jan/10/inside-ring-former-nsa-counterspy-says-jeffrey-eps/)
 4. [The Strategic Use of Blackmail in Intelligence Operations: Analyzing Mossad's Global Influence](https://www.researchgate.net/publication/390091892_The_Strategic_Use_of_Blackmail_in_Intelligence_Operations_Analyzing_Mossad's_Global_Influence)
 5. [Was Jeffrey Epstein a Spy?](https://www.rollingstone.com/culture/culture-features/jeffrey-epstein-steven-hoffenberg-intelligence-agencies-spy-1197708/)
+
+## Charles Heatherly Produces "Mandate for Leadership" Outline, Assembling 300 Contributors
+*Date: 1980-01-01*
+
+1. [Mandate for Leadership - Wikipedia](https://en.wikipedia.org/wiki/Mandate_for_Leadership)
+2. [Mandate for Leadership - Policy Management in a Conservative Administration](https://books.google.com/books/about/Mandate_for_Leadership.html?id=I0WGAAAAMAAJ)
+
+## NLRB Systemic Underfunding and Weak Enforcement Enables Corporate Union-Busting
+*Date: 1980-01-01*
+
+1. [The NLRB Protects Workers Right To Organize, Yet Remains Underfunded](https://www.americanprogress.org/article/the-nlrb-protects-workers-right-to-organize-yet-remains-underfunded/)
+2. [Shortchanged: Weak Anti-Retaliation Provisions in NLRA Cost Workers Billions](https://www.epi.org/publication/shortchanged-weak-anti-retaliation-provisions-in-the-national-labor-relations-act-cost-workers-billions/)
+3. [Unlawful: U.S. Employers Charged with Violating Federal Law in 41.5% of Union Elections](https://www.epi.org/publication/unlawful-employer-opposition-to-union-election-campaigns/)
 
 ## U.S. Backs El Salvador Death Squad Government Through 12-Year Civil War
 *Date: 1980-03-24*
@@ -621,6 +904,25 @@
 1. [Central Hudson Gas & Elec. v. Public Svc. Comm'n](https://supreme.justia.com/cases/federal/us/447/557/)
 2. [Central Hudson Gas & Electric Corp. v. Public Service Commission](https://www.oyez.org/cases/1979/79-565)
 3. [Central Hudson Test](https://firstamendment.mtsu.edu/article/central-hudson-test/)
+
+## Reagan Aide Edwin Meese Coordinates with Heritage on "Mandate for Leadership"
+*Date: 1980-07-01*
+
+1. [Mandate for Leadership - Wikipedia](https://en.wikipedia.org/wiki/Mandate_for_Leadership)
+2. [REAGAN AND HERITAGE: A Unique Partnership](https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership)
+
+## Carter Signs Motor Carrier Act, Completing Bipartisan Transportation Deregulation
+*Date: 1980-07-01*
+
+1. [Motor Carrier Act of 1980 - Wikipedia](https://en.wikipedia.org/wiki/Motor_Carrier_Act_of_1980)
+2. [Forty Years After Surface Freight Deregulation](https://www.theregreview.org/2020/12/14/ellig-forty-years-after-surface-freight-deregulation/)
+
+## Ronald Reagan Elected President, Conservative Infrastructure Achieves Powell Memo Goals
+*Date: 1980-11-04*
+
+1. [Reagan era - Wikipedia](https://en.wikipedia.org/wiki/Reagan_era)
+2. [REAGAN AND HERITAGE: A Unique Partnership](https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership)
+3. [November 4, 1980: Modern Conservatism Ascends](https://constitutingamerica.org/november-4-1980-president-ronald-reagan-elected-modern-conservatism-ascends-to-preserve-individual-freedom-guest-essayist-scot-faulkner/)
 
 ## ALEC Establishes Cabinet Task Forces and Partners with Reagan's Task Force on Federalism
 *Date: 1981-01-01*
@@ -738,6 +1040,12 @@
 3. [Retrospective on the 1981 Reagan Tax Cut](https://taxfoundation.org/research/all/federal/retrospective-1981-reagan-tax-cut/)
 4. ["Reaganomics": The Economic Recovery Tax Act of 1981](https://reagan.blogs.archives.gov/2016/08/15/reaganomics-the-economic-recovery-tax-act-of-1981/)
 
+## CNP Completes "Three-Legged Stool" with Heritage and ALEC - Coordination Infrastructure Operational
+*Date: 1981-12-01*
+
+1. [A Rare Peek Inside the Vast Right-Wing Conspiracy](https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy)
+2. [Shadow Network: Media, Money, and the Secret Hub of the Radical Right](https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics)
+
 ## Federalist Society Founded to Capture Conservative Legal Pipeline
 *Date: 1982-01-01*
 
@@ -766,6 +1074,13 @@
 1. [United States v. AT&T (1982)](https://en.wikipedia.org/wiki/United_States_v._AT%26T_(1982))
 2. [The Breakup of 'Ma Bell': United States v. AT&T](https://www.fjc.gov/history/spotlight-judicial-history/breakup-ma-bell)
 3. [How Big Tech landed in the crosshairs of antitrust law](https://www.cascadepbs.org/opinion/2020/11/how-big-tech-landed-crosshairs-antitrust-law/)
+
+## Reagan Appoints Robert Bork to DC Circuit Court of Appeals, Positioning Antitrust Revolution Author for Supreme Court
+*Date: 1982-02-09*
+
+1. [Bork, Robert Heron | Federal Judicial Center](https://www.fjc.gov/node/1378046)
+2. [Robert Bork - Wikipedia](https://en.wikipedia.org/wiki/Robert_Bork)
+3. [Robert H. Bork | Biography, Jurisprudence, Supreme Court Nomination](https://www.britannica.com/biography/Robert-H-Bork)
 
 ## Guatemala Military Coup Brings Ríos Montt to Power with Reagan Support
 *Date: 1982-03-23*
@@ -821,6 +1136,13 @@
 2. [Stock Buybacks: Background and Reform Proposals](https://www.congress.gov/crs-product/LSB10266)
 3. [Should Congress or the SEC 'Do Something' About Stock Buybacks?](https://www.americanbar.org/groups/business_law/resources/business-law-today/2021-april/should-congress-or-the-sec-do-something/)
 
+## Heritage Foundation Expands to 100+ Staff with $10 Million Budget During Reagan Administration Peak Influence
+*Date: 1983-01-01*
+
+1. [The Heritage Foundation - Wikipedia](https://en.wikipedia.org/wiki/The_Heritage_Foundation)
+2. [REAGAN AND HERITAGE - A Unique Partnership](https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership)
+3. [Heritage Foundation - SourceWatch](https://www.sourcewatch.org/index.php/Heritage_Foundation)
+
 ## Anne Gorsuch Resigns EPA After Contempt of Congress: Regulatory Capture Exposed
 *Date: 1983-03-09*
 
@@ -828,6 +1150,13 @@
 2. [Contempt: How Reagan EPA head became first cabinet-level official cited for contempt of Congress](https://www.wesa.fm/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress)
 3. [Anne Gorsuch Burford, 62, Dies; Reagan EPA Director](http://www.washingtonpost.com/wp-dyn/articles/A3418-2004Jul21.html)
 4. [How Reagan EPA Chief Paved the Way for Trump Assault on Agency](https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency)
+
+## Phelps Dodge Breaks Copper Strike Using Permanent Replacement Workers, Destroying Union
+*Date: 1983-06-30*
+
+1. [The Thirtieth Anniversary of the Phelps Dodge Strike](https://www.cornellpress.cornell.edu/the-thirtieth-anniversary-of-the-phelps-dodge-strike/)
+2. [WSWS Interviews Jorge OLeary: Phelps Dodge Miners Strike Leader](https://www.wsws.org/en/articles/2021/04/17/inte-a17.html)
+3. [The Return of the Strike](https://prospect.org/article/return-strike)
 
 ## James Watt Resigns After Racist Remarks: Interior Department Corruption Ends
 *Date: 1983-10-09*
@@ -934,6 +1263,12 @@
 2. [Phillips Counterattacks to Repulse Takeover](https://www.chicagotribune.com/1985/02/08/phillips-counterattacks-to-repulse-takeover/)
 3. [Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn '57](https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57)
 
+## CNP Establishes Three-Times-Yearly Meeting Schedule at Secret Locations
+*Date: 1985-01-01*
+
+1. [Council for National Policy](https://en.wikipedia.org/wiki/Council_for_National_Policy)
+2. [God, Trump and the Closed-Door World of the Council for National Policy](https://www.washingtonpost.com/magazine/2021/10/25/god-trump-closed-door-world-council-national-policy/)
+
 ## Maxwell Begins Distribution of Backdoored PROMIS Software to KGB and China
 *Date: 1985-01-01*
 
@@ -991,6 +1326,13 @@
 1. [Portrait of a Takeover Artist: Controversial Corporate Raider Carl C. Icahn](https://paw.princeton.edu/article/portrait-takeover-artist-controversial-corporate-raider-carl-c-icahn-57)
 2. [Carl Icahn - Corporate Raiding and TWA Takeover](https://en.wikipedia.org/wiki/Carl_Icahn)
 3. [Carl Icahn Biography and Corporate Strategies](https://www.britannica.com/money/Carl-C-Icahn)
+
+## Hormel Strike Broken Through Permanent Replacement, Ending Pattern Bargaining in Meatpacking
+*Date: 1985-08-17*
+
+1. [1985-1986 Hormel Strike Wikipedia](https://en.wikipedia.org/wiki/1985-86_Hormel_strike)
+2. [Overview - Hormel P-9 Union Strike of 1985](https://libguides.mnhs.org/hormelstrike)
+3. [They Say Give Back We Say Fight Back](https://dollarsandsense.org/archives/2000/0900rachleff.html)
 
 ## First Secret Arms Shipment to Iran Initiates Iran-Contra Scandal
 *Date: 1985-08-20*
@@ -1145,6 +1487,14 @@
 2. [How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media](https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/)
 3. [The Fairness Doctrine: How We Lost It and Why We Need It Back](https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/)
 
+## Senate Rejects Robert Bork Supreme Court Nomination 42-58, First Ideological Rejection in Nearly a Century
+*Date: 1987-10-23*
+
+1. [Robert Bork Supreme Court nomination - Wikipedia](https://en.wikipedia.org/wiki/Robert_Bork_Supreme_Court_nomination)
+2. [On This Day - Senate rejects Robert Bork for the Supreme Court](https://constitutioncenter.org/blog/on-this-day-senate-rejects-robert-bork-for-the-supreme-court)
+3. [How Robert Bork's Failed Nomination Led to a Changed Supreme Court](https://www.history.com/articles/robert-bork-ronald-reagan-supreme-court-nominations)
+4. [Robert Bork's Supreme Court Nomination 'Changed Everything, Maybe Forever'](https://www.npr.org/sections/itsallpolitics/2012/12/19/167645600/robert-borks-supreme-court-nomination-changed-everything-maybe-forever)
+
 ## Keating Lincoln Savings Irvine Fraudulent Bond Scheme
 *Date: 1987-12-01*
 
@@ -1278,6 +1628,12 @@
 2. [Former Panamanian Dictator And CIA Informant Manuel Noriega Dies](https://www.npr.org/2017/05/30/530799394/former-panamanian-dictator-and-cia-informant-manuel-noriega-dies)
 3. [General Manuel Noriega - Death of a CIA Asset](https://nsarchive.gwu.edu/briefing-book/intelligence/2017-05-31/general-manuel-noriega-death-cia-asset)
 
+## CNP Membership Includes Reagan Cabinet Officials - Meese and North Join Elite Network
+*Date: 1990-01-01*
+
+1. [Shadow Network: Media, Money, and the Secret Hub of the Radical Right](https://www.goodreads.com/book/show/46020029-shadow-network)
+2. [Council for National Policy](https://en.wikipedia.org/wiki/Council_for_National_Policy)
+
 ## Epstein Purchases Property Near Mar-a-Lago
 *Date: 1990-01-01*
 
@@ -1320,6 +1676,13 @@
 1. [The Analyst Who Gambled and Took On Trump](https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump)
 2. [How Trump's Taj Mahal Casino Went From '8th Wonder of the World' to Closure](https://abcnews.go.com/US/trumps-taj-mahal-casino-8th-world-closure-years/story?id=42762369)
 3. [Trump Taj Mahal Skeptic: The Analyst Who Gambled And Took On Trump](https://www.npr.org/2016/10/10/497087643/the-analyst-who-gambled-and-took-on-trump)
+
+## Union Avoidance Consulting Industry Emerges as $400+ Million Annual Business
+*Date: 1990-01-01*
+
+1. [NLRB Rules Anti-Union Captive Audience Meetings Illegal Abuse of Employer Power](https://www.epi.org/blog/nlrb-rules-anti-union-captive-audience-meetings-an-illegal-abuse-of-employer-power-states-must-also-continue-to-broaden-protection-of-workers-freedom-from-employer-coercion-on-political-rel/)
+2. [Tackling the Problem of Captive Audience Meetings](https://www.epi.org/blog/captive-audience-meetings/)
+3. [Captive and Coerced: How Employers Bust Union Elections](https://accountablenw.org/news/captive-and-coerced-how-employers-bust-union-elections/)
 
 ## Reagan Testifies "I Don't Recall" Repeatedly in Iran-Contra Deposition
 *Date: 1990-02-16*
@@ -2267,6 +2630,12 @@
 3. [The U.S. Private Prison Industry](https://investigate.afsc.org/updates/us-private-prison-industry)
 4. [CoreCivic (formerly CCA)](https://www.sourcewatch.org/index.php?title=CoreCivic)
 
+## CNP and Federalist Society Coordination - Leonard Leo Links Judicial and Political Networks
+*Date: 2000-01-01*
+
+1. [Leonard Leo](https://en.wikipedia.org/wiki/Leonard_Leo)
+2. [We Don't Talk About Leonard: The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority)
+
 ## Florida Disenfranchises 1.4 Million Citizens Through Felony Voting Bans, Highest Rate in Nation
 *Date: 2000-01-01*
 
@@ -2310,6 +2679,12 @@
 1. [Executive compensation in the United States](https://en.wikipedia.org/wiki/Executive_compensation_in_the_United_States)
 2. [Executive Compensation and Short-Termist Behaviour](https://www.princeton.edu/~wxiong/papers/ceo.pdf)
 3. [New Thinking on How to Link Executive Pay with Performance](https://hbr.org/1999/03/new-thinking-on-how-to-link-executive-pay-with-performance)
+
+## Major Strikes Collapse to 16 Annually, Down 95% from Pre-PATCO Era
+*Date: 2000-01-01*
+
+1. [The 1981 PATCO Strike](https://libraries.uta.edu/news/1981-patco-strike)
+2. [The Return of the Strike](https://prospect.org/article/return-strike)
 
 ## Systematic Coordination Emerges in Corporate PAC Explosion Post-Buckley
 *Date: 2000-01-01*
@@ -3829,6 +4204,13 @@
 2. [Rise and Fall of Jack Abramoff](https://www.pbs.org/newshour/show/rise-and-fall-of-jack-abramoff)
 3. [Jack Abramoff Indian lobbying scandal](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
 
+## Hans von Spakovsky Overrules DOJ Career Staff to Approve Georgia Voter ID Law Targeting Black Voters
+*Date: 2005-08-25*
+
+1. [Fraud Commission Member Hans von Spakovsky Previously](https://www.brennancenter.org/sites/default/files/analysis/Hans_von_Spakovsky%20.pdf)
+2. [Opposition to Hans von Spakovsky's Nomination to the Federal Election Commission](https://civilrights.org/resource/opposition-to-hans-von-spakovskys-nomination-to-the-federal-election-commission/)
+3. [Hans von Spakovsky - Wikipedia](https://en.wikipedia.org/wiki/Hans_von_Spakovsky)
+
 ## Hurricane Katrina Enables .4B No-Bid Disaster Capitalism Takeover
 *Date: 2005-08-29*
 
@@ -4242,6 +4624,14 @@
 6. [Trump sold $1.5 billion of condos to potential money launderers thanks to this gaping loophole](https://qz.com/1178875/trump-sold-1-5-billion-of-condos-to-potential-money-launderers)
 7. [Cracking the Shell - Trump and the Corrupting Potential of Furtive Russian Money](https://www.americanprogress.org/article/cracking-the-shell/)
 
+## Hans von Spakovsky Joins Heritage Foundation to Lead Voter Suppression Infrastructure Development
+*Date: 2008-01-01*
+
+1. [Hans von Spakovsky - Wikipedia](https://en.wikipedia.org/wiki/Hans_von_Spakovsky)
+2. [Hans von Spakovsky | The Heritage Foundation](https://www.heritage.org/staff/hans-von-spakovsky)
+3. [Fraud Commission Member Hans von Spakovsky Previously](https://www.brennancenter.org/sites/default/files/analysis/Hans_von_Spakovsky%20.pdf)
+4. [ALEC & Voting Rights - ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_%26_Voting_Rights)
+
 ## KBR's Faulty Electrical Work Kills Staff Sgt. Ryan Maseth, Part of Systematic Negligence Causing 18 Electrocution Deaths in Iraq with No Criminal Charges Despite Army Negligent Homicide Finding
 *Date: 2008-01-02*
 
@@ -4410,6 +4800,12 @@
 1. [Inside the rocky relationship of billionaires Trump and Icahn](https://www.chicagotribune.com/2016/05/02/inside-the-rocky-relationship-of-billionaires-trump-and-icahn/)
 2. [Icahn Agrees to Buy Debt of Trump's Casino Company](https://www.cnbc.com/2009/12/11/icahn-agrees-to-buy-debt-of-trumps-casino-company.html)
 3. [Icahn Buys Bankrupt Trump Casino's Debt From Beal](https://www.law360.com/articles/138880/icahn-buys-bankrupt-trump-casino-s-debt-from-beal)
+
+## CNP Member Ralph Reed Founds Faith and Freedom Coalition - Religious Right Coordination Expands
+*Date: 2009-01-01*
+
+1. [Faith and Freedom Coalition](https://en.wikipedia.org/wiki/Faith_and_Freedom_Coalition)
+2. [Council for National Policy](https://persagen.org/docs/council_for_national_policy.html)
 
 ## Dataminr Founded to Provide Real-Time Social Media Surveillance, Later Backed by CIA Venture Capital
 *Date: 2009-01-01*
@@ -4644,6 +5040,12 @@
 3. [Anti-Woke and Fossil Fuel Industry Operatives Dominate ALEC's Energy Task Force](https://www.exposedbycmd.org/2023/08/10/anti-woke-and-fossil-fuel-industry-operatives-dominate-alecs-energy-task-force/)
 4. [ALEC: 50 Years of Attacking Environmental Protection and Democracy](https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/)
 
+## CNP Coordinates Tea Party Movement Through Member Organizations
+*Date: 2010-01-01*
+
+1. [Council for National Policy - SourceWatch](https://www.sourcewatch.org/index.php/Council_for_National_Policy)
+2. [Shadow Network: Media, Money, and the Secret Hub of the Radical Right](https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics)
+
 ## DonorsTrust Organizational Profile: Dark Money ATM Enabling Anonymous Billionaire Political Spending
 *Date: 2010-01-01*
 
@@ -4651,6 +5053,13 @@
 2. [Dark Money ATM Injected Right-Wing Groups with $123 Million in 2021](https://www.exposedbycmd.org/2022/11/18/dark-money-atm-injected-right-wing-groups-with-123-million-in-2021/)
 3. [The Scheme Speech 5: The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/)
 4. [DonorsTrust & Donors Capital Fund](http://conservativetransparency.org/org/donorstrust-donors-capital-fund/)
+
+## Gig Economy Emerges Using Worker Misclassification to Avoid Labor Protections and Unions
+*Date: 2010-01-01*
+
+1. [Flexible Work Without Exploitation: Reversing Tech Companies State-by-State Agenda](https://www.epi.org/publication/state-misclassification-of-workers/)
+2. [Employee or Independent Contractor: Legal Analysis of Uber Worker Misclassification](https://www.culawreview.org/current-events-2/employee-or-independent-contractor-a-legal-analysis-of-ubers-worker-misclassification)
+3. [National Survey of Gig Workers Paints Picture of Poor Working Conditions](https://www.epi.org/publication/gig-worker-survey/)
 
 ## NSO Group Founded in Israel to Develop Pegasus Spyware
 *Date: 2010-01-01*
@@ -5122,6 +5531,12 @@
 2. [American Legislative Exchange Council](https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council)
 3. [As Pressure Mounts, Companies Flee Coalition](https://www.npr.org/2012/04/13/150528572/as-pressure-mounts-companies-flee-coalition)
 
+## ALEC Exposed: Leaked Documents Reveal 800 Corporate-Written Model Bills
+*Date: 2011-07-13*
+
+1. [ALEC Exposed](https://www.alecexposed.org/wiki/ALEC_Exposed)
+2. [The Nation ALEC Exposed Coverage](https://www.thenation.com/article/archive/alec-exposed/)
+
 ## Boeing Abandons New Aircraft Design, Chooses to Re-Engine 737 to Compete with Airbus
 *Date: 2011-08-30*
 
@@ -5208,6 +5623,14 @@
 2. [How Dark Money Flows Through the Koch Network](https://projects.propublica.org/graphics/koch)
 3. [Koch Network 2012 Election Spending Breakdown](https://www.opensecrets.org/news/2013/02/koch-network-2012-election-spending)
 
+## Leonard Leo Directs Hidden Payments to Ginni Thomas Through Kellyanne Conway, Instructs "No Mention of Ginni"
+*Date: 2012-01-01*
+
+1. [Conservative activist urged 'no mention of Ginni' in arranged payment to Clarence Thomas's wife](https://www.washingtonpost.com/investigations/2023/05/04/clarence-thomas-ginni-payments-leonard-leo/)
+2. [Payments made to Justice Thomas' wife raise more ethical questions about Supreme Court](https://www.pbs.org/newshour/show/payments-made-to-justice-thomas-wife-raise-more-ethical-questions-about-supreme-court)
+3. [Judicial activist urged 'no mention of Ginni' in arranged payment to Clarence Thomas's wife](https://thehill.com/regulation/court-battles/3989854-judicial-activist-urged-no-mention-of-ginni-in-arranged-payment-to-clarence-thomass-wife-wapo/)
+4. [WaPo - Supreme Court justice's wife received thousands in 'hidden payments'](https://www.cnn.com/videos/politics/2023/05/05/ginni-thomas-payments-leonard-leo-wapo-nc-vpx.cnn)
+
 ## Stock Buybacks Reach $500 Billion Annually as S&P 500 Companies Return 91% of Earnings to Shareholders
 *Date: 2012-01-01*
 
@@ -5220,6 +5643,13 @@
 
 1. [Predictive policing substantially reduces crime in Los Angeles during months-long test](https://newsroom.ucla.edu/releases/predictive-policing-substantially-reduces-crime-in-los-angeles-during-months-long-test)
 2. [PredPol](https://en.wikipedia.org/wiki/PredPol)
+
+## Indiana Becomes 23rd Right-to-Work State Using ALEC Model Legislation
+*Date: 2012-02-01*
+
+1. [ALEC Decades of Right-to-Work Effort Pay Off in Michigan](https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/)
+2. [Who Is Behind the National Right to Work Committee](https://www.prwatch.org/news/2014/06/12498/who-behind-national-right-work-committee-and-its-anti-union-crusade)
+3. [Michigan Right to Work Law Brought to You by Billionaire Kochs, ALEC](https://www.commondreams.org/news/2012/12/13/michigan-right-work-law-brought-you-billionaire-kochs-alec)
 
 ## 25 Billion Mortgage Settlement Provides Banks Immunity for Minimal Payments
 *Date: 2012-02-09*
@@ -5495,6 +5925,14 @@
 1. [Unmanned Aerial Vehicles: Changes in Global Hawk Acquisition Strategy Are Needed to Reduce Program Risks](https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-05-6/html/GAOREPORTS-GAO-05-6.htm)
 2. [Soaring Costs Not Likely to Slow Down Global Hawk](https://www.nationaldefensemagazine.org/articles/2006/5/1/2006may--soaring-costs-not-likely-to-slow-down-global-hawk)
 3. [Northrop and USAF hit back at critics of RQ-4 Global Hawk UAV costs](https://www.flightglobal.com/northrop-and-usaf-hit-back-at-critics-of-rq-4-global-hawk-uav-costs/67258.article)
+
+## Edwin Feulner Retires as Heritage Foundation President After 36 Years Building Conservative Movement Infrastructure
+*Date: 2013-04-03*
+
+1. [Morning Bell: Farewell from Ed Feulner](https://www.dailysignal.com/2013/04/03/morning-bell-farewell-from-ed-feulner/)
+2. [Statement From the Chairman of Heritage's Board of Trustees](https://www.heritage.org/article/statement-the-chairman-heritages-board-trustees)
+3. [Edwin Feulner - Wikipedia](https://en.wikipedia.org/wiki/Edwin_Feulner)
+4. [Remembering Ed Feulner, Conservative Institution-Builder](https://www.city-journal.org/article/ed-feulner-heritage-foundation-conservative)
 
 ## Congress Quietly Guts STOCK Act Online Disclosure Requirements
 *Date: 2013-04-15*
@@ -5863,6 +6301,18 @@
 2. [Candiru (spyware company) - Wikipedia](https://en.wikipedia.org/wiki/Candiru_(spyware_company))
 3. [Microsoft Blocks Cyber Mercenary Spyware Tools Used Against Journalists and Activists](https://eu.detroitnews.com/story/tech/2021/07/15/microsoft-says-blocked-spying-rights-activists-others/7982711002/)
 
+## CNP Membership Includes DeVos and Mercer Families - Billionaire Donor Integration
+*Date: 2014-01-01*
+
+1. [Council for National Policy - DeSmog](https://www.desmog.com/council-national-policy/)
+2. [Shadow Network: Media, Money, and the Secret Hub of the Radical Right](https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X)
+
+## Tony Perkins Serves as CNP Vice President - Family Research Council Integration
+*Date: 2014-01-01*
+
+1. [Tony Perkins](https://www.splcenter.org/fighting-hate/extremist-files/individual/tony-perkins)
+2. [Council for National Policy](https://persagen.org/docs/council_for_national_policy.html)
+
 ## Israeli Defense Minister Ehud Barak tries to avoid security detail for Epstein island visits
 *Date: 2014-01-01*
 
@@ -6110,6 +6560,14 @@
 1. [Blackwater (company)](https://en.wikipedia.org/wiki/Blackwater_(company))
 2. [Blackwater's Descendants Are Doing Just Fine](https://foreignpolicy.com/2014/07/01/blackwaters-descendants-are-doing-just-fine/)
 3. [The Evolution of Blackwater - From Controversy to Constellis Holdings](https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/)
+
+## Richard Mellon Scaife Dies After Investing $620 Million in Conservative Movement Infrastructure
+*Date: 2014-07-04*
+
+1. [Richard Mellon Scaife - Wikipedia](https://en.wikipedia.org/wiki/Richard_Mellon_Scaife)
+2. [Scaife: Funding Father of the Right](https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm)
+3. [Scaife Foundations - SourceWatch](https://www.sourcewatch.org/index.php/Scaife_Foundations)
+4. [Billionaire conservative activist Richard Mellon Scaife dies](https://www.cnn.com/2014/07/04/politics/richard-mellon-scaife-obit)
 
 ## EU and US Impose Sectoral Sanctions on Russia
 *Date: 2014-07-16*
@@ -6592,6 +7050,13 @@
 2. [Trump Foundation apparently admits to violating ban on 'self-dealing'](https://www.washingtonpost.com/politics/trump-foundation-apparently-admits-to-violating-ban-on-self-dealing-new-filing-to-irs-shows/2016/11/22/893f6508-b0a9-11e6-8616-52b15787add0_story.html)
 3. [Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds](https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds)
 
+## West Virginia Becomes 26th Right-to-Work State, Overriding Governor Veto with ALEC Model
+*Date: 2016-02-12*
+
+1. [West Virginia Becomes the 26th Right-to-Work State](https://alec.org/article/west-virginia-becomes-the-26th-right-to-work-state/)
+2. [West Virginia Becomes the 26th Right-to-Work State](https://www.huntonlaborblog.com/2016/03/articles/employment-policies/west-virginia-becomes-the-26th-right-to-work-state/)
+3. [Right to Work - SourceWatch](https://www.sourcewatch.org/index.php?title=Right_to_Work)
+
 ## Justice Antonin Scalia Dies, McConnell Immediately Vows to Block Any Obama Nominee
 *Date: 2016-02-13*
 
@@ -6734,6 +7199,12 @@
 1. [Twitter cuts off intelligence agencies from data feed](https://money.cnn.com/2016/05/09/technology/twitter-dataminr-intelligence-agencies/)
 2. [Dataminr was in an unpaid pilot with intel agencies when Twitter ended the deal](https://techcrunch.com/2016/05/09/dataminr-was-in-an-unpaid-pilot-with-intel-agencies-when-twitter-ended-the-deal/)
 3. [Why Twitter chose to do battle with the CIA](https://www.cnbc.com/2016/05/13/why-twitter-chose-to-do-battle-with-the-cia.html)
+
+## CNP's Secret 2014 Membership Directory Leaked - 413 Conservative Elite Exposed
+*Date: 2016-05-17*
+
+1. [The Council for National Policy: Behind the Curtain](https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain)
+2. [Revealed: Conway, Bannon Members of Secretive Group](https://www.splcenter.org/hatewatch/2016/08/31/revealed-conway-bannon-members-secretive-group)
 
 ## Trump Promises All Supreme Court Picks Will Come From Federalist Society
 *Date: 2016-05-18*
@@ -7230,6 +7701,13 @@
 3. [Assessing Russian Activities and Intentions in Recent Elections - Statement](https://www.fbi.gov/news/speeches-and-testimony/assessing-russian-activities-and-intentions-in-recent-elections)
 4. [Bipartisan Senate Intel report backs intelligence assessment of 2016 Russian interference](https://www.cbsnews.com/news/senate-intelligence-committee-report-2016-russian-interference-assessment/)
 
+## Kentucky Becomes 27th Right-to-Work State in First Week of Session Using ALEC Model
+*Date: 2017-01-09*
+
+1. [Kentucky Becomes the 27th Right-to-Work State](https://alec.org/article/kentucky-becomes-the-27th-right-to-work-state/)
+2. [2017 is Right-to-Works Watershed Year](https://alec.org/article/2017-is-right-to-works-watershed-year/)
+3. [Right to Work - SourceWatch](https://www.sourcewatch.org/index.php?title=Right_to_Work)
+
 ## Rex Tillerson Confirmation Hearing Reveals ExxonMobil-Russia Conflicts and Sanctions Violations
 *Date: 2017-01-11*
 
@@ -7670,6 +8148,14 @@
 2. [Jeffrey Epstein Allegedly Tried to Extort Bill Gates](https://www.irishtimes.com/world/us/2023/05/22/jeffrey-epstein-allegedly-tried-to-extort-bill-gates-over-extramarital-affair/)
 3. [Bill Gates Affair Row: The Epstein Connection](https://www.businesstoday.in/visualstories/corporates/bill-gates-affair-row-who-is-mila-antonova-the-russian-bridge-player-involved-in-alleged-affair-with-microsoft-co-founder-know-all-about-the-jeffrey-epstein-connection-37860-22-05-2023)
 
+## Ed Feulner Returns as Heritage Foundation Interim President After DeMint Ousted for Management Failures
+*Date: 2017-05-02*
+
+1. [Jim DeMint resigns as president of The Heritage Foundation, Ed Feulner to return as interim](https://www.washingtontimes.com/news/2017/may/2/jim-demint-resigns-as-president-of-the-heritage-fo/)
+2. [Heritage Foundation board ousts president Jim DeMint](https://www.washingtonpost.com/politics/heritage-foundation-board-ousts-president-jim-demint/2017/05/02/b53a706a-2f63-11e7-9534-00e4656c22aa_story.html)
+3. [Statement From the Chairman of Heritage's Board of Trustees](https://www.heritage.org/article/statement-the-chairman-heritages-board-trustees)
+4. [The Heritage Foundation ousts Jim DeMint after power struggle](https://www.pbs.org/newshour/politics/heritage-foundation-ousts-jim-demint-power-struggle)
+
 ## Trump Fires FBI Director Comey to Stop Russia Investigation, Tells Russians "Pressure Taken Off"
 *Date: 2017-05-09*
 
@@ -8057,6 +8543,12 @@
 3. [Trump's tariffs won't bite Apple, illustrating Tim Cook's political sway](https://www.washingtonpost.com/technology/2018/09/18/trumps-tariffs-wont-bite-apple-illustrating-tim-cooks-political-sway/)
 4. [How Apple CEO Tim Cook Convinced Trump to Exempt Apple From Tariffs](https://www.macrumors.com/2025/04/17/tim-cook-trump-apple-tariff-exemption/)
 
+## Clarence Thomas Attends Koch Network Donor Summit - Supreme Court Ethics Violations
+*Date: 2018-01-01*
+
+1. [Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus)
+2. [It's Not Personal: Why Clarence Thomas' Trip to the Koch Summit Undermines His Ethics Defense](https://www.propublica.org/article/clarence-thomas-koch-network-trips-disclosure-law-scotus)
+
 ## Grayshift Secures Major Contracts with ICE, DEA, and FBI for GrayKey Technology
 *Date: 2018-01-01*
 
@@ -8376,6 +8868,11 @@
 2. [KC Fed has revoked Reserve Trust's master account, Toomey says](https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/)
 3. [Congress and the American People Deserve Answers on Raskin's Revolving Door](https://www.banking.senate.gov/newsroom/minority/toomey-congress-and-the-american-people-deserve-answers-on-raskins-revolving-door)
 
+## Epic Systems v. Lewis: Supreme Court Allows Mandatory Arbitration Blocking Class Action Labor Claims
+*Date: 2018-05-21*
+
+1. [Epic Systems Corp v Lewis Wikipedia](https://en.wikipedia.org/wiki/Epic_Systems_Corp._v._Lewis)
+
 ## China grants waves of Ivanka Trump trademarks as she serves in White House; ethics watchdogs flag conflicts
 *Date: 2018-05-28*
 
@@ -8457,6 +8954,13 @@
 1. [Peter Thiel Told FBI About Kremlin Invitations](https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations)
 2. [How Peter Thiel Received 2 Kremlin Invites For Meetings With Putin](https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri)
 3. [Billionaire FBI Informant Peter Thiel's Kremlin Invites](https://news.yahoo.com/billionaire-fbi-informant-peter-thiel-130944986.html)
+
+## Janus v. AFSCME: Supreme Court Expands Right-to-Work to All Public Sector Workers Nationwide
+*Date: 2018-06-27*
+
+1. [Janus v. AFSCME Supreme Court Opinion](https://www.supremecourt.gov/opinions/17pdf/16-1466_2b3j.pdf)
+2. [Janus v. AFSCME - Ballotpedia](https://ballotpedia.org/Janus_v._AFSCME)
+3. [Janus v. AFSCME Case Information](https://fedsoc.org/case/janus-v-afscme)
 
 ## IRS Launches Virtual Currency Compliance Campaign Using Chainalysis
 *Date: 2018-07-01*
@@ -8852,6 +9356,12 @@
 1. [New York v. Trump Foundation - Order of Dissolution](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=vIexA1b0v_PLUS_EKSuJs36C2A==&system=prod)
 2. [AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision](https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial)
 3. [Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'](https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html)
+
+## Ginni Thomas Joins CNP Action Board - Supreme Court Spouse in Conservative Coordination Hub
+*Date: 2019-01-01*
+
+1. [Documented Obtains List of 2020 Donors to Ginni Thomas Group That Supported Trump's Attempted Coup](https://documented.net/investigations/documented-obtains-list-of-2020-donors-to-ginni-thomas-group-that-supported-trumps-attempted-coup)
+2. [How Ginni Thomas and the Shadowy Council of National Policy Advanced the Election Disinformation Campaign](https://www.peoplefor.org/rightwingwatch/post/how-ginni-thomas-and-the-shadowy-council-of-national-policy-advanced-a-disinformation-campaign)
 
 ## ICE uses 230+ contracted detention facilities (2019); public lists undercount due to varied custody arrangements
 *Date: 2019-01-01*
@@ -9590,6 +10100,12 @@
 2. [NRA & Russia - Majority Report (PDF)](https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf)
 3. [Senate Democrats accuse NRA of promising access to U.S. officials in exchange for Russian business](https://www.nbcnews.com/politics/congress/senate-democrats-accuse-nra-promising-access-u-s-officials-exchange-n1059496)
 
+## Anne Nelson Publishes "Shadow Network" - Exposing CNP as Conservative Coordination Hub
+*Date: 2019-10-01*
+
+1. [Shadow Network: Media, Money, and the Secret Hub of the Radical Right](https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X)
+2. [Book Review: 'Shadow Network' Offers A Lesson On The American Right's Mastery Of Politics](https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics)
+
 ## Zuckerberg Holds Secret White House Dinners with Trump, Kushner, and Thiel to Negotiate Content Moderation
 *Date: 2019-10-01*
 
@@ -9810,6 +10326,11 @@
 2. [Criticism of Google - Tax avoidance](https://en.wikipedia.org/wiki/Google_tax_avoidance)
 3. [The digital tax hunt bigger than Google](https://www.acuitymag.com/business/the-digital-tax-hunt-bigger-than-google)
 4. [Tax challenges from digitalisation - two-pillar solution could increase tax revenues](https://oecdecoscope.blog/2020/10/20/tax-challenges-from-digitalisation-a-global-two-pillar-solution-could-increase-tax-revenues-and-support-economic-activity/)
+
+## Wage Theft Steals More from Workers Than All Other Property Crime Combined
+*Date: 2020-01-01*
+
+1. [Wage Theft Wikipedia](https://en.wikipedia.org/wiki/Wage_theft)
 
 ## Boeing Internal Messages Released - "Designed by Clowns, Supervised by Monkeys"
 *Date: 2020-01-09*
@@ -10034,6 +10555,12 @@
 1. [Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer: 'He's Not Smart or Articulate'](https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/)
 2. [Amazon lawyer calls fired strike organizer 'not smart or articulate' in meeting with top execs](https://www.cnbc.com/2020/04/02/amazon-lawyer-calls-fired-warehouse-worker-not-smart-or-articulate.html)
 3. [Leaked Memo Reveals Amazon Execs Plotted to Paint Fired 'Not Smart' Worker as 'Face of Entire Union/Organizing Movement'](https://www.commondreams.org/news/2020/04/03/leaked-memo-reveals-amazon-execs-plotted-paint-fired-not-smart-worker-face-entire)
+
+## CNP Coordinates National COVID-19 Anti-Lockdown Protest Movement
+*Date: 2020-04-01*
+
+1. [Secretive Right-Wing Nonprofit Plays Role in COVID-19 Organizing](https://www.prwatch.org/news/2020/05/13581/secretive-right-wing-nonprofit-plays-role-covid-19-organizing)
+2. [The Council for National Policy organizes anti-lockdown protests & national COVID response](https://trumpfile.org/cnp-protests-covid/)
 
 ## MVM Inc operates shadow detention network using hotels and unmarked buildings for children
 *Date: 2020-04-01*
@@ -10282,6 +10809,12 @@
 3. [Senator Who Launched USPS Investigation Unsatisfied By DeJoy's Testimony](https://www.npr.org/2020/08/22/905110578/senator-who-launched-usps-investigation-unsatisfied-by-dejoys-testimony)
 4. [Democratic senator to DeJoy: You owe Americans "an apology for the harm you have caused"](https://edition.cnn.com/politics/live-news/postmaster-general-dejoy-senate-testimony/h_105ed639f3a7c5e02715c1d67eaa66a5)
 
+## Trump Speaks at CNP Meeting - President Addresses Conservative Coordination Hub
+*Date: 2020-08-21*
+
+1. [Donald Trump Speech Transcript August 21: 2020 Council for National Policy Meeting](https://www.rev.com/transcripts/donald-trump-speech-transcript-august-21-2020-council-for-national-policy-meeting)
+2. [Remarks by President Trump at the 2020 Council for National Policy Meeting](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-2020-council-national-policy-meeting/)
+
 ## USPS OIG flags service declines after mid-July changes; independent datasets show sharp on-time drops
 *Date: 2020-08-21*
 
@@ -10328,6 +10861,12 @@
 2. [Trump Shatters Ethics Norms By Making Official Acts Part Of GOP Convention](https://www.npr.org/2020/08/26/906228532/trump-shatters-ethics-norms-by-making-official-acts-part-of-rnc-broadcast)
 3. [Focus on Trump's official White House actions as part of Republican convention programming raises Hatch Act concerns](https://www.washingtonpost.com/politics/hatch-act-republican-convention/2020/08/25/53b72b44-e6f8-11ea-970a-64c73a1c2392_story.html)
 4. [Mark Meadows - Nobody Outside The Beltway Really Cares About Hatch Act Violations](https://www.politicususa.com/2020/08/26/mark-meadows-nobody-outside-the-beltway-really-cares-about-hatch-act-violations.html)
+
+## CNP September 2020 Membership Directory Leaked - Current Network Exposed
+*Date: 2020-09-01*
+
+1. [Documented Has Obtained a New Council for National Policy Membership List](https://documented.net/investigations/documented-has-obtained-a-recent-council-for-national-policy-membership-list)
+2. [Council for National Policy Membership Directory September 2020](https://www.documentcloud.org/documents/7280937-Council-for-National-Policy-Membership-Directory/)
 
 ## Northrop Grumman Wins $13.3 Billion Contract for Ground Based Strategic Deterrent Nuclear ICBMs
 *Date: 2020-09-08*
@@ -10517,6 +11056,12 @@
 2. ['Damning non-answer': Vance refuses to acknowledge Trump lost the 2020 election](https://www.nbcnews.com/politics/2024-election/damning-non-answer-vance-refuses-acknowledge-trump-lost-2020-election-rcna173569)
 3. [JD Vance says 'no,' he does not think Trump lost in 2020](https://www.npr.org/2024/10/16/nx-s1-5155220/jd-vance-donald-trump-2020-election-loss-answer-no)
 
+## CNP Holds Post-Election Strategy Meeting - Planning Electoral College Challenge
+*Date: 2020-11-12*
+
+1. [Recordings and Materials From Council for National Policy Meetings](https://documented.net/investigations/council-for-national-policy-recordings)
+2. [A Rare Peek Inside the Vast Right-Wing Conspiracy](https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy)
+
 ## Newsmax CEO Admits "We Have No Evidence" of Election Fraud, Airs Claims 23 More Times
 *Date: 2020-11-12*
 
@@ -10577,6 +11122,12 @@
 2. [FTC seeks to break up Facebook, alleging illegal monopoly](https://techcrunch.com/2020/12/09/ftc-seeks-to-break-up-facebook-alleging-illegal-monopoly/)
 3. [FTC and states sue Facebook, could force it to divest Instagram and WhatsApp](https://www.cnbc.com/2020/12/09/ftc-and-several-states-launch-antitrust-lawsuits-against-facebook.html)
 4. [FTC v. Meta case status](https://en.wikipedia.org/wiki/FTC_v._Meta)
+
+## CNP Leadership Releases Letter Urging State Legislators to Reject 25 Million Votes
+*Date: 2020-12-10*
+
+1. [The Shadow Network (Council for National Policy) Is Not Going Away](https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/)
+2. [Christian-Right Council for National Policy Linked to Violent Breach of Capitol](https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/)
 
 ## Trump privately admits defeat saying "Can you believe I lost to this f'ing guy?"
 *Date: 2020-12-14*
@@ -10675,6 +11226,12 @@
 2. [Tim Scott's biggest financial backer is Larry Ellison](https://www.yahoo.com/news/amphtml/tim-scotts-biggest-financial-backer-171935563.html)
 3. [Oracle's Larry Ellison Gears Up to Spend Millions to Back Tim Scott's 2024 Run](https://www.nbcdfw.com/news/business/money-report/oracles-larry-ellison-gears-up-to-spend-millions-to-back-tim-scotts-2024-run/3262773/)
 
+## CNP Attorney Cleta Mitchell Joins Trump Call Pressuring Georgia Officials
+*Date: 2021-01-02*
+
+1. [Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol](https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/)
+2. [The Shadow Network (Council for National Policy) Is Not Going Away](https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/)
+
 ## Trump Calls Georgia Secretary of State to Find 11,780 Votes
 *Date: 2021-01-02*
 
@@ -10699,6 +11256,20 @@
 2. [Report of Special Counsel Smith Volume 1 January 2025](https://www.justice.gov/storage/Report-of-Special-Counsel-Smith-Volume-1-January-2025.pdf)
 3. [House Report 117-200: Resolution Finding Jeffrey Clark in Contempt of Congress](https://www.congress.gov/committee-report/117th-congress/house-report/200/1)
 4. [January 6 Select Committee Final Report, Volume II: Findings of the Investigation](https://www.congress.gov/committee-report/117th-congress/house-report/692/1)
+
+## At Least Six CNP Members Coordinate January 6 Rally - Conservative Network's Role in Insurrection
+*Date: 2021-01-06*
+
+1. [Council for National Policy - Insurrection Exposed](https://insurrectionexposed.org/council-for-national-policy/)
+2. [Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol](https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/)
+
+## Ginni Thomas Attends "Stop the Steal" Rally Before Capitol Attack, CNP Board Member at Insurrection
+*Date: 2021-01-06*
+
+1. [Ginni Thomas attended the January 6 rally before the Capitol attack. Here's what we know](https://www.cnn.com/2022/03/15/politics/ginni-thomas-jan-6-rally-capitol/index.html)
+2. [Ginni Thomas, Wife of Clarence Thomas, Attended "Stop the Steal" Rally on Jan. 6](https://truthout.org/articles/ginni-thomas-wife-of-clarence-thomas-attended-stop-the-steal-rally-on-jan-6/)
+3. [Ginni Thomas - Wikipedia](https://en.wikipedia.org/wiki/Virginia_Thomas)
+4. [Ginni Thomas Was Written Out of the January 6 Committee's Final Report](https://clairepotter.substack.com/p/ginni-thomas-was-written-out-of-the)
 
 ## Stephen Miller Writes Trump's January 6 Ellipse Speech, Adds Language About Pence Overturning Election
 *Date: 2021-01-06*
@@ -11001,6 +11572,14 @@
 2. [Businessman told of $2 million pardon scheme involving Giuliani](https://www.nytimes.com/2021/04/15/us/politics/pardons-giuliani-trump.html)
 3. [Pardons for sale - Giuliani network and Trump clemency](https://www.reuters.com/world/us/associate-giuliani-sought-money-pardons-businessman-tells-prosecutors-2021-04-15/)
 4. [Lev Parnas and Igor Fruman charged with campaign finance violations](https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans)
+
+## Leaked Video Exposes Heritage Action's $24 Million Voter Suppression Campaign Coordinating State Legislation
+*Date: 2021-05-13*
+
+1. [Leaked Video Shows Heritage Foundation Boasting About Writing GOP Voter Suppression Bills](https://www.motherjones.com/politics/2021/05/heritage-foundation-dark-money-voter-suppression-laws/)
+2. [Heritage Action's Attack on Voting Rights](https://documented.net/investigations/heritage-actions-attack-on-voting-rights)
+3. [Video Leaked of Heritage Action Bragging about Writing GOP Suppression Bills](https://www.democracydocket.com/news-alerts/video-leaked-of-heritage-action-bragging-about-writing-gop-suppression-bills/)
+4. [Leaked video shows dark money group bragging about restricting voter access](https://www.cnn.com/videos/politics/2021/05/18/heritage-tape-voter-suppression-cuomo-open-cpt-vpx.cnn)
 
 ## Amazon extends Rekognition police ban indefinitely as Congressional regulation stalls
 *Date: 2021-05-18*
@@ -11367,6 +11946,13 @@
 2. [Peter Thiel and Russian Intelligence Outreach](https://www.businessinsider.nl/billionaire-fbi-informant-peter-thiel-dished-about-two-kremlin-invites-to-private-putin-meetings/)
 3. [Thiel's FBI Informant Role in Russian Diplomacy](https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations)
 4. [Peter Thiel Counterintelligence Activities](https://en.wikipedia.org/wiki/Peter_Thiel)
+
+## Starbucks Executes Systematic Union-Busting Campaign with Record NLRB Violations
+*Date: 2022-01-01*
+
+1. [Corporate Union Busting in Plain Sight: Amazon, Starbucks, and Trader Joes](https://www.epi.org/publication/corporate-union-busting/)
+2. [NEWS: HELP Majority Staff Report on Starbucks](https://www.help.senate.gov/dem/newsroom/press/news-help-majority-staff-report-on-starbucks)
+3. [NLRB Has Filed Repeated Charges Against Starbucks for Illegal Union Busting](https://jacobin.com/2022/12/starbucks-workers-united-illegal-union-busting-nlrb-union-organizing)
 
 ## Virginia Giuffre Lawsuit Against Prince Andrew Proceeds Despite Sealed Settlement Documents
 *Date: 2022-01-03*
@@ -11903,6 +12489,12 @@
 2. [Top Government Contracts Won by Amazon Web Services](https://www.executivegov.com/articles/top-government-contracts-won-by-amazon-web-services)
 3. [NSA Awards Secret $10 Billion Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/)
 
+## CNP Members Lead Project 2025 Coalition Organizations - Coordination Infrastructure for Trump Return
+*Date: 2023-01-01*
+
+1. [Mapping the Authoritarian Movement: Part One - Project 2025](https://globalextremism.org/post/mapping-the-trump-movement-part-one-project-2025/)
+2. [Project 2025 Reaches 100 Coalition Partners](https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president)
+
 ## Treasury records reveal $1.1 billion in Epstein wire transfers through Russian banks
 *Date: 2023-01-01*
 
@@ -12208,6 +12800,13 @@
 2. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
 3. [Biden v. Nebraska Supreme Court Opinion](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
 
+## Amazon Refuses to Bargain with JFK8 Union, Pioneering Refuse-to-Bargain Union-Busting Tactic
+*Date: 2023-07-01*
+
+1. [Three Years After Union Vote, Amazon Refuses to Recognise JFK8 Union](https://www.business-humanrights.org/en/latest-news/usa-three-years-after-union-vote-amazon-refuses-to-recognise-jfk8-union-and-delays-collective-bargaining-through-legal-challenges-incl-comp-comment/)
+2. [As Amazon Refuses to Bargain, Divisions Have Emerged in Amazon Labor Union](https://jacobin.com/2023/07/amazon-labor-union-jfk8-chris-smalls-reform-caucus-democracy)
+3. [Amazon Hit With Labor Complaint Over Failing to Bargain With Staten Island Union](https://www.nbcnewyork.com/news/business/money-report/amazon-hit-with-labor-complaint-over-failing-to-bargain-with-staten-island-union/4499899/)
+
 ## US Adds Intellexa and Cytrox to Entity List for Cyber Exploit Trafficking
 *Date: 2023-07-01*
 
@@ -12500,6 +13099,13 @@
 2. [Clarence Thomas Secretly Participated in Koch Network Donor Events](https://www.propublica.org/article/clarence-thomas-secretly-participated-koch-network-donor-events)
 3. [Justice Thomas attended at least two Koch donor summits](https://www.washingtonpost.com/politics/2023/09/22/clarence-thomas-koch-network/)
 4. [Clarence Thomas attended Koch network donor events](https://www.cnn.com/2023/09/22/politics/clarence-thomas-koch-network-propublica/index.html)
+
+## Union Membership Collapses to 9.9%, Completing 70-Year Labor Destruction Campaign
+*Date: 2024-01-01*
+
+1. [Union Members Summary - 2024](https://www.bls.gov/news.release/union2.nr0.htm)
+2. [Union Membership Decline Seen as Bad for US by Majorities](https://www.pewresearch.org/short-reads/2025/08/27/majorities-of-adults-see-decline-of-union-membership-as-bad-for-the-us-and-working-people/)
+3. [Union Membership in the United States Spotlight](https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm)
 
 ## Jeffrey Epstein Associates Documents Released to Public
 *Date: 2024-01-03*
@@ -13430,6 +14036,12 @@
 1. [Dark money spending in 2024 federal elections reaches record $1.9 billion](https://www.brennancenter.org/our-work/analysis-opinion/dark-money-2024-elections)
 2. [Wall Street giants funneled $171 million to Project 2025 groups](https://www.desmog.com/2024/11/07/wall-street-project-2025-dark-money/)
 3. [Dark money contributions to super PACs exceed two previous cycles combined](https://www.washingtonpost.com/politics/2024/11/08/dark-money-super-pacs-record/)
+
+## NLRB Rules Captive Audience Meetings Are Illegal Employer Coercion (Likely Reversed 2025)
+*Date: 2024-11-13*
+
+1. [NLRB Rules Anti-Union Captive Audience Meetings Illegal](https://www.epi.org/blog/nlrb-rules-anti-union-captive-audience-meetings-an-illegal-abuse-of-employer-power-states-must-also-continue-to-broaden-protection-of-workers-freedom-from-employer-coercion-on-political-rel/)
+2. [Bosses Anti-Union Captive Audience Meetings Are Now Illegal](https://jacobin.com/2024/11/captive-audience-meetings-nlrb-unions)
 
 ## Crypto Industry Advances Self-Regulatory Framework Amid Global Compliance Push
 *Date: 2024-11-14*

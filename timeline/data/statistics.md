@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-20 21:24:41
+Generated: 2025-12-22 19:58:02
 
 ## Overview
-- **Total Events**: 3007
+- **Total Events**: 3100
 - **Date Range**: 1142-01-01 to 2025-12-20
-- **Total Sources**: 10099
-- **Unique Tags**: 5310
-- **Unique Actors**: 5087
+- **Total Sources**: 10339
+- **Unique Tags**: 5424
+- **Unique Actors**: 5207
 
 ## Event Status
-- **Unknown**: 913
-- **Confirmed**: 2044
+- **Unknown**: 926
+- **Confirmed**: 2124
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -25,28 +25,28 @@ Generated: 2025-12-20 21:24:41
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 399 events
-- corruption: 222 events
-- institutional-capture: 221 events
+- regulatory-capture: 403 events
+- institutional-capture: 244 events
+- corruption: 223 events
 - kleptocracy: 135 events
 - government-contracts: 130 events
-- trump-administration: 121 events
+- trump-administration: 124 events
 - crypto: 112 events
 - surveillance: 108 events
 - foreign-influence: 99 events
 - constitutional-crisis: 88 events
 
 ## Top Actors
-- Donald Trump: 1026 events
+- Donald Trump: 1030 events
 - Trump Administration: 324 events
 - Department of Justice: 198 events
 - Elon Musk: 162 events
 - Pam Bondi: 89 events
 - FBI: 70 events
+- Heritage Foundation: 67 events
 - Jeffrey Epstein: 62 events
-- Supreme Court: 57 events
+- Supreme Court: 59 events
 - ICE: 57 events
-- White House: 55 events
 
 ## Events by Year
 - 1142: 1 events
@@ -54,29 +54,35 @@ Generated: 2025-12-20 21:24:41
 - 1722: 1 events
 - 1750: 1 events
 - 1754: 1 events
+- 1935: 1 events
+- 1947: 1 events
 - 1953: 2 events
+- 1954: 1 events
+- 1955: 1 events
+- 1959: 1 events
+- 1962: 1 events
 - 1968: 1 events
-- 1970: 3 events
-- 1971: 9 events
-- 1972: 5 events
-- 1973: 15 events
-- 1974: 2 events
-- 1975: 7 events
+- 1970: 6 events
+- 1971: 10 events
+- 1972: 8 events
+- 1973: 19 events
+- 1974: 8 events
+- 1975: 9 events
 - 1976: 9 events
-- 1977: 6 events
-- 1978: 8 events
-- 1979: 3 events
-- 1980: 6 events
-- 1981: 15 events
-- 1982: 11 events
-- 1983: 4 events
+- 1977: 14 events
+- 1978: 11 events
+- 1979: 7 events
+- 1980: 12 events
+- 1981: 16 events
+- 1982: 12 events
+- 1983: 6 events
 - 1984: 9 events
-- 1985: 13 events
+- 1985: 15 events
 - 1986: 7 events
-- 1987: 12 events
+- 1987: 13 events
 - 1988: 4 events
 - 1989: 13 events
-- 1990: 9 events
+- 1990: 11 events
 - 1991: 10 events
 - 1992: 6 events
 - 1993: 8 events
@@ -86,29 +92,29 @@ Generated: 2025-12-20 21:24:41
 - 1997: 15 events
 - 1998: 24 events
 - 1999: 17 events
-- 2000: 24 events
+- 2000: 26 events
 - 2001: 31 events
 - 2002: 73 events
 - 2003: 34 events
 - 2004: 28 events
-- 2005: 38 events
+- 2005: 39 events
 - 2006: 17 events
 - 2007: 23 events
-- 2008: 25 events
-- 2009: 32 events
-- 2010: 41 events
-- 2011: 37 events
-- 2012: 29 events
-- 2013: 60 events
-- 2014: 54 events
+- 2008: 26 events
+- 2009: 33 events
+- 2010: 43 events
+- 2011: 38 events
+- 2012: 31 events
+- 2013: 61 events
+- 2014: 57 events
 - 2015: 37 events
-- 2016: 82 events
-- 2017: 128 events
-- 2018: 109 events
-- 2019: 125 events
-- 2020: 116 events
-- 2021: 94 events
-- 2022: 75 events
-- 2023: 79 events
-- 2024: 143 events
+- 2016: 84 events
+- 2017: 130 events
+- 2018: 112 events
+- 2019: 127 events
+- 2020: 122 events
+- 2021: 98 events
+- 2022: 76 events
+- 2023: 81 events
+- 2024: 145 events
 - 2025: 1174 events
