@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-23 09:20:49
+Generated: 2025-12-23 11:03:11
 
 ## Overview
-- **Total Events**: 3190
+- **Total Events**: 3253
 - **Date Range**: 1142-01-01 to 2025-12-20
-- **Total Sources**: 10652
-- **Unique Tags**: 5495
-- **Unique Actors**: 5376
+- **Total Sources**: 10876
+- **Unique Tags**: 5561
+- **Unique Actors**: 5535
 
 ## Event Status
-- **Unknown**: 945
-- **Confirmed**: 2195
+- **Unknown**: 979
+- **Confirmed**: 2224
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -25,9 +25,9 @@ Generated: 2025-12-23 09:20:49
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 476 events
-- institutional-capture: 258 events
-- corruption: 251 events
+- regulatory-capture: 508 events
+- institutional-capture: 259 events
+- corruption: 252 events
 - kleptocracy: 136 events
 - government-contracts: 130 events
 - trump-administration: 125 events
@@ -37,15 +37,15 @@ Generated: 2025-12-23 09:20:49
 - constitutional-crisis: 88 events
 
 ## Top Actors
-- Donald Trump: 1041 events
-- Trump Administration: 327 events
-- Department of Justice: 208 events
+- Donald Trump: 1042 events
+- Trump Administration: 328 events
+- Department of Justice: 221 events
 - Elon Musk: 162 events
 - Pam Bondi: 89 events
 - FBI: 71 events
 - Heritage Foundation: 68 events
-- Jeffrey Epstein: 62 events
-- Supreme Court: 59 events
+- Jeffrey Epstein: 63 events
+- Supreme Court: 62 events
 - ICE: 57 events
 
 ## Events by Year
@@ -89,32 +89,32 @@ Generated: 2025-12-23 09:20:49
 - 1994: 12 events
 - 1995: 10 events
 - 1996: 19 events
-- 1997: 16 events
-- 1998: 27 events
+- 1997: 17 events
+- 1998: 29 events
 - 1999: 18 events
 - 2000: 29 events
 - 2001: 32 events
-- 2002: 73 events
-- 2003: 34 events
+- 2002: 74 events
+- 2003: 35 events
 - 2004: 28 events
 - 2005: 40 events
-- 2006: 17 events
-- 2007: 23 events
-- 2008: 33 events
+- 2006: 18 events
+- 2007: 24 events
+- 2008: 34 events
 - 2009: 35 events
-- 2010: 46 events
-- 2011: 38 events
-- 2012: 31 events
-- 2013: 62 events
-- 2014: 57 events
-- 2015: 42 events
-- 2016: 89 events
-- 2017: 140 events
-- 2018: 117 events
-- 2019: 130 events
-- 2020: 128 events
-- 2021: 104 events
-- 2022: 86 events
-- 2023: 88 events
-- 2024: 149 events
-- 2025: 1177 events
+- 2010: 47 events
+- 2011: 39 events
+- 2012: 36 events
+- 2013: 63 events
+- 2014: 59 events
+- 2015: 47 events
+- 2016: 92 events
+- 2017: 142 events
+- 2018: 123 events
+- 2019: 133 events
+- 2020: 130 events
+- 2021: 108 events
+- 2022: 87 events
+- 2023: 93 events
+- 2024: 161 events
+- 2025: 1179 events

@@ -1,0 +1,46 @@
+{
+  "id": "2024-07-09--ftc-releases-pbm-report-80-percent-market-concentration",
+  "date": "2024-07-09",
+  "title": "FTC Report Reveals PBM Oligopoly: Top 3 Control 80% of Market, Extract $7.3 Billion Through Markups",
+  "summary": "The Federal Trade Commission released its interim staff report titled 'Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies,' revealing alarming market concentration and anticompetitive practices. The report found that three PBMs—CVS Caremark, Express Scripts, and OptumRx—processed nearly 80% of the approximately 6.6 billion prescriptions dispensed in 2023, with the top six handling over 90%. All top six are vertically integrated, operating their own mail-order or specialty pharmacies, and five are owned by health insurance companies. The FTC documented that these PBMs generated over $7.3 billion in excess revenue between 2017 and 2022 by dramatically marking up specialty generic drugs, plus an additional $1.4 billion through spread pricing (billing insurers more than they reimburse pharmacies). On just two cancer drugs, PBM-affiliated pharmacies retained nearly $1.6 billion in excess revenue in under three years. FTC Chair Lina Khan stated the report 'lays out how dominant pharmacy benefit managers can hike the cost of drugs—including overcharging patients for cancer drugs' and 'squeeze independent pharmacies that many Americans—especially those in rural communities—depend on for essential care.' The report found PBMs impose unfair contractual terms that threaten independent pharmacies' ability to survive, contributing to pharmacy deserts affecting 45 million Americans. The vote was 4-1, with Commissioner Melissa Holyoak dissenting.",
+  "importance": 9,
+  "tags": [
+    "healthcare",
+    "pbm",
+    "pharmacy",
+    "antitrust",
+    "regulatory-capture",
+    "ftc",
+    "market-concentration",
+    "profiteering"
+  ],
+  "actors": [
+    "Federal Trade Commission",
+    "Lina Khan",
+    "CVS Caremark",
+    "Express Scripts",
+    "OptumRx",
+    "Melissa Holyoak"
+  ],
+  "status": "confirmed",
+  "sources": [
+    {
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-releases-interim-staff-report-prescription-drug-middlemen",
+      "title": "FTC Releases Interim Staff Report on Prescription Drug Middlemen",
+      "publisher": "Federal Trade Commission",
+      "tier": 1
+    },
+    {
+      "url": "https://www.axios.com/2024/07/09/ftc-report-scrutiny-pbm-consolidation",
+      "title": "FTC report adds to scrutiny of drug middlemen",
+      "publisher": "Axios",
+      "tier": 1
+    },
+    {
+      "url": "https://thehill.com/policy/healthcare/4762024-federal-trade-commission-report-pharmacy-middlemen-price-hikes/",
+      "title": "FTC slams pharmacy 'middlemen' for drug price hikes",
+      "publisher": "The Hill",
+      "tier": 2
+    }
+  ]
+}

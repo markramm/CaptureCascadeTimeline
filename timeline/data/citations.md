@@ -2228,6 +2228,13 @@
 2. [The Stanford Ponzi Scheme: Lessons for Protecting Investors from the Next Securities Fraud](https://www.govinfo.gov/content/pkg/CHRG-112hhrg66868/html/CHRG-112hhrg66868.htm)
 3. [The Stanford Ponzi Scheme: Lessons for Protecting Investors (Testimony by Robert Khuzami and Carlo di Florio)](https://www.sec.gov/news/testimony/2011/ts051311rk-cvd.htm)
 
+## First Complaints Against Larry Nassar Dismissed by Michigan State Coach Kathie Klages
+*Date: 1997-01-01*
+
+1. [TIMELINE: A long history of abuse by Dr. Larry Nassar](https://www.michiganpublic.org/news/2018-01-24/timeline-a-long-history-of-abuse-by-dr-larry-nassar)
+2. [USA Gymnastics sex abuse scandal](https://en.wikipedia.org/wiki/USA_Gymnastics_sex_abuse_scandal)
+3. [Larry Nassar](https://en.wikipedia.org/wiki/Larry_Nassar)
+
 ## Notorious B.I.G. murdered in Los Angeles, Diddy's control through chaos
 *Date: 1997-03-09*
 
@@ -2521,6 +2528,22 @@
 1. [The K Street Project and Jack Abramoff](https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff)
 2. [K Street Project: Anatomy of a Political Enforcement Mechanism](https://rollcall.com/2004/02/10/new-heat-on-k-street/)
 3. [How Republicans Transformed Washington's Lobbying Culture](https://www.sourcewatch.org/index.php?title=K_Street_Project)
+
+## Sonny Bono Copyright Term Extension Act: Disney Lobbying Creates 'Mickey Mouse Protection Act,' Extending Corporate Rent Extraction by 20 Years
+*Date: 1998-10-27*
+
+1. [Copyright Term Extension Act](https://en.wikipedia.org/wiki/Copyright_Term_Extension_Act)
+2. [Harvard Law IP expert explains how Disney has influenced US copyright law to protect Mickey Mouse and Winnie the Pooh](https://hls.harvard.edu/today/harvard-law-i-p-expert-explains-how-disney-has-influenced-u-s-copyright-law-to-protect-mickey-mouse-and-winnie-the-pooh/)
+3. [S.505 - 105th Congress (1997-1998): Sonny Bono Copyright Term Extension Act](https://www.congress.gov/bill/105th-congress/senate-bill/505)
+4. [The Shocking Truth Behind the Passage of the Sonny Bono Copyright Extension](https://copyright.nova.edu/sonny-bono-copyright-extension/)
+
+## Digital Millennium Copyright Act Section 512: Safe Harbor Provisions Create Dual System of Corporate Protection and Individual Vulnerability
+*Date: 1998-10-28*
+
+1. [Section 512 of Title 17: Resources on Online Service Provider Safe Harbors and Notice-and-Takedown System](https://www.copyright.gov/512/)
+2. [Digital Millennium Copyright Act (DMCA) Safe Harbor Provisions for Online Service Providers: A Legal Overview](https://www.congress.gov/crs-product/IF11478)
+3. [Unfiltered: How YouTube's Content ID Discourages Fair Use and Dictates What We See Online](https://www.eff.org/wp/unfiltered-how-youtubes-content-id-discourages-fair-use-and-dictates-what-we-see-online)
+4. [Section 512 Study](https://www.copyright.gov/policy/section512/)
 
 ## House of Representatives Impeaches President Clinton on Perjury and Obstruction Charges
 *Date: 1998-12-19*
@@ -3157,6 +3180,14 @@
 1. [Shaping State Laws With Little Scrutiny](https://www.npr.org/2010/10/29/130891396/shaping-state-laws-with-little-scrutiny)
 2. [CMD Special Report: ALEC's 'Scholarship' Scheme Helps Corporations Fund Legislator Trips](https://prwatch.org/news/2012/05/11443/cmd-special-report-alecs-scholarship-scheme-helps-corporations-fund-legislator-tr)
 3. [ALEC Picked Up Tab for Texas Lawmakers' Junkets](https://www.commoncause.org/democracy-wire/alec-picked-up-tab-for-texas-lawmakers-trips/)
+
+## Insulin Prices Begin Tripling 2002-2013 as Three Manufacturers Control 99% of Market - From $231 to $762 Annually
+*Date: 2002-01-01*
+
+1. [Insulin insulated - barriers to competition and affordability in the United States insulin market](https://pmc.ncbi.nlm.nih.gov/articles/PMC8249113/)
+2. [Priced Out of a Lifesaving Drug - Getting Answers on the Rising Cost of Insulin](https://www.congress.gov/event/116th-congress/house-event/109299)
+3. [What drove the 300% rise in insulin prices (and how to reverse it)](https://www.advisory.com/daily-briefing/2018/11/07/insulin-prices)
+4. [Origins of the Crisis in Insulin Affordability and Practical Advice for Clinicians on Using Human Insulin](https://pmc.ncbi.nlm.nih.gov/articles/PMC9036473/)
 
 ## Arthur Andersen Admits to Shredding Tons of Enron Documents
 *Date: 2002-01-09*
@@ -3843,6 +3874,13 @@
 2. [How AT&T Helped the NSA Spy on Millions](https://www.pbs.org/wgbh/frontline/article/how-att-helped-the-nsa-spy-on-millions/)
 3. [New Documents Confirm AT&T and NSA's Longstanding Surveillance Partnership](https://www.eff.org/deeplinks/2015/08/eff-claims-government-spying-atts-help-further-confirmed-new-york-times-article)
 
+## HCA Healthcare Pays $1.7 Billion in Largest Medicare Fraud Settlement in U.S. History
+*Date: 2003-06-26*
+
+1. [Largest Health Care Fraud Case in U.S. History Settled](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm)
+2. [Rick Scott 'oversaw the largest Medicare fraud' in U.S. history](https://www.politifact.com/factchecks/2014/mar/03/florida-democratic-party/rick-scott-rick-scott-oversaw-largest-medicare-fra/)
+3. [Florida's Medicare Fraud Flashback](https://www.factcheck.org/2014/06/floridas-medicare-fraud-flashback/)
+
 ## WHIG Coordinates Campaign to Discredit Joseph Wilson, Leading to Plame Leak
 *Date: 2003-07-07*
 
@@ -4457,6 +4495,13 @@
 2. [Bush Chooses Ex-NSA Chief for CIA Post](https://www.nytimes.com/2006/05/09/washington/09intel.html)
 3. [Nomination of General Michael V. Hayden to be Director of the Central Intelligence Agency](https://intelligence.senate.gov/hearings/nomination-general-michael-v-hayden-be-director-central-intelligence-agency)
 
+## eBay v. MercExchange: Supreme Court Limits Automatic Patent Injunctions, Enabling Patent Troll Business Model to Flourish
+*Date: 2006-05-15*
+
+1. [eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388 (2006)](https://supreme.justia.com/cases/federal/us/547/388/)
+2. [eBay Inc. v. MercExchange, L.L.C.](https://www.oyez.org/cases/2005/05-130)
+3. [Implications of eBay v. MercExchange](https://www.finnegan.com/en/insights/articles/implications-of-ebay-v-mercexchange.html)
+
 ## Competitive Enterprise Institute Launches "CO2 is Life" Advertising Campaign
 *Date: 2006-05-18*
 
@@ -4625,6 +4670,14 @@
 1. [NSA Alexander 2007 Declassified Verizon Declaration](https://www.intelligence.gov/assets/documents/702 Documents/declassified/NSA Alexander 2007 Declassified Verizon Declaration.pdf)
 2. [Disclosure of NSA's Secret Verizon Order](https://newsinfo.iu.edu/news/page/normal/24313.html)
 3. [Reaction to NSA Surveillance of U.S. Citizens' Phone Records](https://www.brookings.edu/articles/reaction-to-nsa-surveillance-of-u-s-citizens-phone-records/)
+
+## Questcor Raises Acthar Gel Price from $1,600 to $23,000 Overnight - Eventually Reaching 97,000% Increase Through Bribery Scheme
+*Date: 2007-08-27*
+
+1. [Anatomy of a 97,000% drug price hike - One family's fight to save their son](https://www.cnn.com/2018/06/29/health/acthar-mallinckrodt-questcor-price-hike-trevor-foltz/index.html)
+2. [Whistleblowers - Drug company bribed doctors to boost sales](https://www.cnn.com/2019/04/30/health/mallinckrodt-whistleblower-lawsuit-acthar/index.html)
+3. [Drug Pricing Investigation Mallinckrodt - H.P. Acthar Gel Staff Report](https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/Mallinckrodt%20Staff%20Report%2010-01-20%20PDF.pdf)
+4. [Humana calls Mallinckrodt's Acthar a 'billion-dollar golden goose' in $700M fraud lawsuit](https://www.fiercepharma.com/pharma/mallinckrodt-defrauded-major-insurer-700m-through-kickbacks-acthar-price-hikes-lawsuit)
 
 ## FBI Inspector General Reports 35% Error Rate on Terror Watchlist
 *Date: 2007-09-01*
@@ -4916,6 +4969,14 @@
 1. [Emergency Economic Stabilization Act of 2008 - Full Text](https://www.congress.gov/bill/110th-congress/house-bill/1424)
 2. [Bailout Is a No-Strings Windfall to Bankers, if Not to Borrowers](https://www.nytimes.com/2008/10/15/business/economy/15bailout.html)
 3. [The $700 Billion Question](https://www.washingtonpost.com/wp-dyn/content/article/2008/09/23/AR2008092303425.html)
+
+## Mental Health Parity Act Signed into Law with No Enforcement Mechanism, Enabling Systematic Insurer Non-Compliance
+*Date: 2008-10-03*
+
+1. [The Mental Health Parity and Addiction Equity Act (MHPAEA)](https://www.cms.gov/marketplace/private-health-insurance/mental-health-parity-addiction-equity)
+2. [Mental Health and Substance Use - State and Federal Oversight of Compliance with Parity Requirements Varies](https://www.gao.gov/products/gao-20-150)
+3. [Factors Affecting State-Level Enforcement of the Federal Mental Health Parity and Addiction Equity Act](https://pmc.ncbi.nlm.nih.gov/articles/PMC9938503/)
+4. [FY 2022 MHPAEA Enforcement Fact Sheet](https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/mental-health-parity/mhpaea-enforcement-2022)
 
 ## Emergency Economic Stabilization Act Creates $700 Billion Troubled Asset Relief Program (TARP) to Bail Out Wall Street Banks with Minimal Oversight or Executive Accountability Requirements, Leading to Just One Criminal Prosecution Compared to 900+ in 1980s Savings & Loan Crisis
 *Date: 2008-10-03*
@@ -5230,6 +5291,13 @@
 1. [Flexible Work Without Exploitation: Reversing Tech Companies State-by-State Agenda](https://www.epi.org/publication/state-misclassification-of-workers/)
 2. [Employee or Independent Contractor: Legal Analysis of Uber Worker Misclassification](https://www.culawreview.org/current-events-2/employee-or-independent-contractor-a-legal-analysis-of-ubers-worker-misclassification)
 3. [National Survey of Gig Workers Paints Picture of Poor Working Conditions](https://www.epi.org/publication/gig-worker-survey/)
+
+## Hospital Consolidation Wave (2010-2020): 1,164 Mergers with Only 1% FTC Enforcement Rate
+*Date: 2010-01-01*
+
+1. [Lax antitrust enforcement linked to rising hospital prices](https://news.yale.edu/2024/04/24/lax-antitrust-enforcement-linked-rising-hospital-prices)
+2. [Consolidation in Hospital Sector Leading to Higher Health Care Costs](https://harris.uchicago.edu/news-events/news/consolidation-hospital-sector-leading-higher-health-care-costs-study-finds)
+3. [Hospital M&A studies highlight higher prices, tepid antitrust intervention](https://www.fiercehealthcare.com/finance/hospital-ma-studies-highlight-higher-prices-tepid-antitrust-intervention)
 
 ## NSO Group Founded in Israel to Develop Pegasus Spyware
 *Date: 2010-01-01*
@@ -5595,6 +5663,14 @@
 3. [Redistricting in North Carolina after the 2010 census](https://ballotpedia.org/Redistricting_in_North_Carolina_after_the_2010_census)
 4. [Drawing Democracy: North Carolina's Gerrymandering History](https://history.chass.ncsu.edu/2019/07/29/drawing-democracy-north-carolinas-gerrymandering-history/)
 
+## Patent Troll Explosion: Non-Practicing Entities Impose $29 Billion Annual Cost on U.S. Economy, Targeting Small Businesses
+*Date: 2011-01-01*
+
+1. [Patent Trolls: Evidence from Targeted Firms](https://www.nber.org/papers/w20322)
+2. [Patent troll](https://en.wikipedia.org/wiki/Patent_troll)
+3. [Intellectual Ventures And The War Over Software Patents](https://www.npr.org/sections/money/2011/07/26/138576167/when-patents-attack)
+4. [Patent Trolls Are Harming Innovation. Congress Can Help](https://www.promarket.org/2024/03/21/patent-trolls-are-harming-innovation-congress-can-help/)
+
 ## J.D. Vance Meets Peter Thiel at Yale Law School, Beginning Political Pipeline
 *Date: 2011-01-01*
 
@@ -5808,6 +5884,13 @@
 2. [Internal Documents Show Amazon's Dystopian System for Tracking Workers Every Minute of Their Shifts](https://www.vice.com/en/article/internal-documents-show-amazons-dystopian-system-for-tracking-workers-every-minute-of-their-shifts/)
 3. [Amazon's ADAPT and its Harm on Workers](https://blogs.ischool.berkeley.edu/w231/2022/03/02/amazons-adapt-and-its-harm-on-workers/)
 
+## Hospital Acquisition of Physician Practices Enables Facility Fee Price Gouging, Driving 53% Increase in Outpatient Costs
+*Date: 2012-01-01*
+
+1. [Why patients are getting hit with surprise hospital fees for routine medical care](https://www.pbs.org/newshour/show/why-patients-are-getting-hit-with-surprise-hospital-fees-for-routine-medical-care)
+2. [Facility fees are driving up the prices of doctor visits](https://pirg.org/edfund/articles/facility-fees-are-driving-up-the-prices-of-doctor-visits/)
+3. [Behind the Bill: The Hidden Injustice of Hospital Facility Fees](https://unitedstatesofcare.org/wp-content/uploads/2024/05/Facility_Fee_report_R4V2.pdf)
+
 ## Koch Network Spends $407 Million in Coordinated 2012 Election Campaign
 *Date: 2012-01-01*
 
@@ -5822,6 +5905,20 @@
 2. [Payments made to Justice Thomas' wife raise more ethical questions about Supreme Court](https://www.pbs.org/newshour/show/payments-made-to-justice-thomas-wife-raise-more-ethical-questions-about-supreme-court)
 3. [Judicial activist urged 'no mention of Ginni' in arranged payment to Clarence Thomas's wife](https://thehill.com/regulation/court-battles/3989854-judicial-activist-urged-no-mention-of-ginni-in-arranged-payment-to-clarence-thomass-wife-wapo/)
 4. [WaPo - Supreme Court justice's wife received thousands in 'hidden payments'](https://www.cnn.com/videos/politics/2023/05/05/ginni-thomas-payments-leonard-leo-wapo-nc-vpx.cnn)
+
+## Nonprofit Hospital CEO Compensation Explodes: 42.5% Increase While Community Benefit Stagnates
+*Date: 2012-01-01*
+
+1. [CEOs earn big bucks at nonprofit hospitals. Does that benefit patients?](https://www.npr.org/sections/shots-health-news/2024/08/19/nx-s1-5078495/nonprofit-hospitals-ceo-compensation-community-benefit-uninsured-mission-tax-exempt-management)
+2. [The determinants of nonprofit hospital CEO compensation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11268666/)
+3. [NC Nonprofit Hospitals' Extravagant Executive Pay](https://www.nctreasurer.gov/news/press-releases/2023/02/15/treasurer-folwell-hosts-press-conference-exposing-nc-nonprofit-hospitals-extravagant-executive-pay)
+
+## Patent Trolls Dominate U.S. Patent Litigation: 61% of All Cases, Systematic Small Business Extraction
+*Date: 2012-01-01*
+
+1. [Patent troll](https://en.wikipedia.org/wiki/Patent_troll)
+2. [Patent Trolls: Evidence from Targeted Firms](https://www.nber.org/system/files/working_papers/w20322/revisions/w20322.rev0.pdf)
+3. [Nonpracticing entities and patent trolls: Evidence from targeted firms](https://journalistsresource.org/economics/non-practicing-entities-patent-trolls-evidence-targeted-firms/)
 
 ## Stock Buybacks Reach $500 Billion Annually as S&P 500 Companies Return 91% of Earnings to Shareholders
 *Date: 2012-01-01*
@@ -5971,6 +6068,14 @@
 3. [Google to pay $22.5 million fine for Safari privacy evasion](https://money.cnn.com/2012/07/11/technology/google-ftc-settlement/index.htm)
 4. [Google Settles With FTC, Agrees To Pay $22.5M Penalty For Bypassing Safari Privacy Settings](https://techcrunch.com/2012/08/09/google-settles-with-ftc-agrees-to-pay-22-5m-penalty-for-bypassing-safari-privacy-settings/)
 
+## New England Compounding Center Fungal Meningitis Outbreak Kills 64, Sickens 798 - FDA and State Regulators Ignored Decade of Violations
+*Date: 2012-09-01*
+
+1. [Multistate Outbreak of Fungal Meningitis and Other Infections](https://archive.cdc.gov/www_cdc_gov/hai/outbreaks/meningitis.html)
+2. [Pharmacy Compounding - Implications of the 2012 Meningitis Outbreak](https://www.govinfo.gov/content/pkg/CHRG-112shrg94198/html/CHRG-112shrg94198.htm)
+3. [Tracing The Big Meningitis Outbreak Of 2012](https://www.npr.org/2012/12/30/168292511/tracing-the-big-meningitis-outbreak-of-2012)
+4. [Lessons Learned from Compounding Tragedies](https://pmc.ncbi.nlm.nih.gov/articles/PMC3694934/)
+
 ## ALEC's 'Electricity Freedom Act' Systematically Attacks State Renewable Energy Standards
 *Date: 2012-10-01*
 
@@ -6015,6 +6120,14 @@
 1. [DOJ Press Release: BP Exploration and Production Inc. Pleads Guilty to Sentencing](https://www.justice.gov/archives/opa/pr/bp-exploration-and-production-inc-pleads-guilty-sentencedto-pay-record-4-billion-crimes)
 2. [BP Agrees to Plead Guilty to Crimes in Gulf Oil Spill](https://www.propublica.org/article/bp-agrees-to-plead-guilty-to-crimes-in-gulf-oil-spill)
 3. [Deepwater Horizon Litigation Overview](https://en.wikipedia.org/wiki/Deepwater_Horizon_litigation)
+
+## ACA Architect Liz Fowler Leaves White House for Johnson & Johnson After Industry-Friendly Healthcare Legislation
+*Date: 2012-12-05*
+
+1. [Revolver Spotlight: Elizabeth Fowler](https://therevolvingdoorproject.org/revolver-spotlight-elizabeth-fowler/)
+2. [Obamacare Architect Leaves White House for Pharmaceutical Industry Job](https://www.commondreams.org/views/2012/12/05/obamacare-architect-leaves-white-house-pharmaceutical-industry-job)
+3. [Author of Obamacare Blueprint Rewarded with Job at Johnson & Johnson](http://www.allgov.com/news/appointments-and-resignations/author-of-obamacare-blueprint-rewarded-with-job-at-johnson--johnson-121221?news=846548)
+4. [Liz Fowler and the government-corporate revolving door](https://liberationnews.org/elizabeth-fowler-and-the-html/)
 
 ## HSBC Pays $1.9B for Money Laundering, No Executives Jailed
 *Date: 2012-12-11*
@@ -6249,6 +6362,14 @@
 1. [U.S. Charges NSA Leaker Snowden With Espionage](https://www.npr.org/2013/06/21/194371404/u-s-charges-nsa-leaker-snowden-with-espionage)
 2. [U.S. files espionage charges against NSA leaker](https://www.cbsnews.com/news/us-files-espionage-charges-against-nsa-leaker/)
 3. [Manning, Snowden and the DOJ's Espionage War Against Leakers](https://www.pbs.org/newshour/nation/edward-snowden)
+
+## Supreme Court Allows Antitrust Challenge to Pay-for-Delay Drug Settlements Costing Consumers $3.5 Billion Annually
+*Date: 2013-06-17*
+
+1. [FTC Chairman Leibowitz - Eliminating Pay-for-Delay Pharmaceutical Settlements Would Save Consumers $3.5 Billion Annually](https://www.ftc.gov/news-events/news/press-releases/2009/06/ftc-chairman-leibowitz-eliminating-pay-delay-pharmaceutical-settlements-would-save-consumers-35)
+2. [Watson Pharmaceuticals, Inc., et al. (FTC v. Actavis)](https://www.ftc.gov/legal-library/browse/cases-proceedings/071-0060-watson-pharmaceuticals-inc-et-al-ftc-v-actavis)
+3. [FTC v. Actavis, Inc. | 570 U.S. 136 (2013)](https://supreme.justia.com/cases/federal/us/570/136/)
+4. [Pay for Delay](https://www.ftc.gov/news-events/topics/competition-enforcement/pay-delay)
 
 ## Obama Prosecutes 8 Whistleblowers Under Espionage Act, More Than All Presidents
 *Date: 2013-06-21*
@@ -6732,6 +6853,14 @@
 3. [New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny of Supreme Court ethics](https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/)
 4. [Samuel Alito disputes ProPublica report that says justice failed to disclose trip with billionaire who later had business before Supreme Court](https://www.cnn.com/2023/06/21/politics/samuel-alito-paul-singer-propublica/index.html)
 
+## Alice Corp. v. CLS Bank: Supreme Court Restricts Software Patents, Reducing Patent Troll Leverage Over Abstract Business Methods
+*Date: 2014-06-19*
+
+1. [Alice Corp. v. CLS Bank Int'l, 573 U.S. 208 (2014)](https://supreme.justia.com/cases/federal/us/573/208/)
+2. [Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)
+3. [Saved by Alice](https://www.eff.org/alice)
+4. [Alice v. CLS Bank: United States Supreme Court Establishes General Patentability Test](https://www.wipo.int/en/web/wipo-magazine/articles/alice-v-cls-bank-united-states-supreme-court-establishes-general-patentability-test-38916)
+
 ## Trump: Central Park Five Still Guilty Despite DNA Exoneration
 *Date: 2014-06-21*
 
@@ -6878,6 +7007,13 @@
 3. [Billionaire Harlan Crow bought property from Clarence Thomas](https://www.gpb.org/news/2023/04/13/billionaire-harlan-crow-bought-property-clarence-thomas-the-justice-didnt-disclose)
 4. [Supreme Court Justice Clarence Thomas Secretly Sold Property to Harlan Crow](https://www.thedailybeast.com/supreme-court-justice-clarence-thomas-secretly-sold-property-to-harlan-crow-report-says)
 
+## DaVita Pays $350 Million to Settle Doctor Kickback Allegations, Exposing Systematic Dialysis Profiteering Scheme
+*Date: 2014-10-22*
+
+1. [DaVita to Pay $350 Million to Resolve Allegations of Illegal Kickbacks](https://www.justice.gov/archives/opa/pr/davita-pay-350-million-resolve-allegations-illegal-kickbacks)
+2. [DaVita to Pay $350 Million to Resolve Allegations of Illegal Kickbacks](https://oig.hhs.gov/fraud/enforcement/davita-to-pay-350-million-to-resolve-allegations-of-illegal-kickbacks/)
+3. [DaVita whistleblower case settles for $400M - doctor kickbacks](https://www.phillipsandcohen.com/whistleblower-behind-davitas-record-400-million-settlement-charges-alleging-kickbacks-doctors/)
+
 ## Amazon Workers in Germany Strike During Black Friday for Union Recognition
 *Date: 2014-11-28*
 
@@ -6921,6 +7057,15 @@
 1. ["It Was Go, Go, Go" - Boeing Rushed 737 MAX Design In Race With Airbus](https://www.thestreet.com/phildavis/news/it-was-go-go-go-boeing-rushed-737-max-design-in-race-with-airbus)
 2. [Flawed Analysis, Failed Oversight - How Boeing, FAA Certified the Suspect 737 MAX Flight Control System](https://www.seattletimes.com/business/boeing-aerospace/failed-certification-faa-missed-safety-issues-in-the-737-max-system-implicated-in-the-lion-air-crash/)
 3. [Competition With Airbus May Have Rushed the 737 MAX to Market](https://www.flyertalk.com/articles/competition-with-airbus-may-have-led-boeing-to-rush-737-max-to-market.html)
+
+## Eastern District of Texas Patent Troll Haven: Judge Rodney Gilstrap Handles 25% of All U.S. Patent Cases, Forum Shopping Peak
+*Date: 2015-01-01*
+
+1. [The Small Town Judge Who Sees a Quarter of the Nation's Patent Cases](https://www.vice.com/en/article/the-small-town-judge-who-sees-a-quarter-of-the-nations-patent-cases/)
+2. [Is the Rocket Docket Crashing?](https://www.dmagazine.com/publications/d-ceo/2017/october/eastern-district-texas-patent-cases/)
+3. [Judge Shopping in the Eastern District of Texas](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940895)
+4. [Forum Selling and Judge Shopping—How Two Texas Districts Compete For NPE Cases](https://patentprogress.org/2020/09/forum-selling-and-judge-shopping-how-two-texas-districts-compete-for-npe-cases/)
+5. [Former Patent Litigator Becomes Federal Judge And Begins Advertising For Patent Trolls To Come To His Court](https://www.techdirt.com/2020/10/05/former-patent-litigator-becomes-federal-judge-begins-advertising-patent-trolls-to-come-to-his-court-they-have-droves/)
 
 ## Epstein and Barak invest in Carbyne surveillance tech founded by Unit 8200 chief
 *Date: 2015-01-01*
@@ -7073,6 +7218,14 @@
 3. [Maria Butina, Accused Of Being Russian Agent, Has Long History Of Urging Protest](https://www.npr.org/2018/09/19/647174528/maria-butina-accused-of-being-russian-agent-has-long-history-of-urging-protest)
 4. [Trump Told Woman Charged As Kremlin Agent He'd Drop Russia Sanctions](https://www.huffingtonpost.co.uk/entry/trump-agent-russia-sanctions_n_5b4d19e7e4b0de86f485b0a5)
 
+## FBI Indianapolis Field Office Receives Nassar Allegations from USA Gymnastics, Fails to Open Investigation for 14 Months
+*Date: 2015-07-28*
+
+1. [DOJ OIG Releases Report of Investigation and Review of the FBI's Handling of Allegations of Sexual Abuse by Former USA Gymnastics Physician Lawrence Gerard Nassar](https://oig.justice.gov/news/doj-oig-releases-report-investigation-and-review-fbis-handling-allegations-sexual-abuse-former)
+2. [FBI seriously mishandled Larry Nassar case, Justice Department watchdog says](https://www.pbs.org/newshour/nation/fbi-seriously-mishandled-larry-nassar-case-justice-department-watchdog-says)
+3. [FBI director details 'totally unacceptable' failures in Larry Nassar case](https://www.cbsnews.com/news/fbi-fires-agent-larry-nassar-usa-gymnastics-doctor/)
+4. [The Constellation of Factors Underlying Larry Nassar's Abuse of Athletes](https://www.ropesgray.com/-/media/Files/USOC/ropes-gray-full-report.pdf)
+
 ## David Pecker Agrees to Catch and Kill Negative Trump Stories at Trump Tower Meeting
 *Date: 2015-08-01*
 
@@ -7167,6 +7320,13 @@
 2. [Air Force B-21 Raider Long-Range Strike Bomber](https://sgp.fas.org/crs/weapons/R44463.pdf)
 3. [Inside the Making of the Military's B-21 Raider](https://time.com/6238168/b-21-raider-bomber-us-military-exclusive/)
 
+## DaVita Pays $450 Million for Drug Wastage Fraud, Largest Unjoined Whistleblower Settlement in History
+*Date: 2015-10-28*
+
+1. [DaVita to Pay $450 Million to Resolve Allegations That it Sought Reimbursement for Unnecessary Drug Wastage](https://www.justice.gov/archives/opa/pr/davita-pay-450-million-resolve-allegations-it-sought-reimbursement-unnecessary-drug-wastage)
+2. [Whistleblowers secure $495M in settlement with DaVita](https://www.cochranfirm.com/washington-dc/whistleblowers-secure-495-million-settlement-in-false-claims-act-whistleblower-suit-against-davita-kidney-care/)
+3. [DaVita Pays $895 Million to Settle Kidney Treatment Fraud Claims](https://www.corpwatch.org/article/davita-pays-895-million-settle-kidney-treatment-fraud-claims-0)
+
 ## Dennis Hastert Pleads Guilty to Federal Banking Violations
 *Date: 2015-10-28*
 
@@ -7187,6 +7347,22 @@
 1. [Mueller Report Volume I: Trump Tower Moscow Project](https://www.justice.gov/archives/sco/file/1373816/download)
 2. [Trump signed letter of intent for Trump Tower Moscow project during campaign](https://www.cnn.com/2018/12/18/politics/trump-signed-letter-of-intent-rudy-giuliani/index.html)
 3. [Timeline: Trump Tower Moscow talks during campaign](https://www.washingtonpost.com/politics/2019/01/21/timeline-trump-tower-moscow-talks/)
+
+## Valeant Pharmaceuticals Scandal Exposes Systematic Price Gouging Strategy - 3000% Increase on Syprine, Philidor Fraud Network
+*Date: 2015-10-31*
+
+1. [Valeant - A timeline of the big Pharma scandal](https://fortune.com/2015/10/31/valeant-scandal/)
+2. [Valeant Pharmaceuticals blasted by U.S. lawmakers over drug price hikes](https://www.cbc.ca/news/business/valeant-senate-ceo-1.3555259)
+3. [Valeant CEO Faces Hostile Congress, Regrets Drug Price Hikes](https://www.nbcnews.com/health/health-news/valeant-ceo-faces-hostile-congress-regrets-drug-price-hikes-n563386)
+4. [Pharmaceutical Company and Former Executives Charged With Misleading Financial Disclosures](https://www.sec.gov/newsroom/press-releases/2020-169)
+
+## Johns Hopkins Study Exposes Orphan Drug Act Gaming - Seven of Top 10 Drugs Exploiting Tax Breaks for Rare Diseases
+*Date: 2015-11-19*
+
+1. [Orphan Drug Loophole Needs Closing, Johns Hopkins Researchers Say](https://www.hopkinsmedicine.org/news/media/releases/orphan_drug_loophole_needs_closing_johns_hopkins_researchers_say)
+2. [Orphan Drug Rules Manipulated By Industry To Create Priced Monopolies](https://www.npr.org/sections/health-shots/2017/01/17/509506836/drugs-for-rare-diseases-have-become-uncommonly-rich-monopolies)
+3. [Orphan drug loophole needs closing, Johns Hopkins researchers say](https://www.eurekalert.org/news-releases/541467)
+4. [Johns Hopkins accuses drugmakers of gaming orphan drug law](https://www.fiercepharma.com/pharma/johns-hopkins-accuses-drugmakers-of-gaming-orphan-drug-law)
 
 ## NSA Officially Ends Bulk Phone Metadata Collection Under USA Freedom Act
 *Date: 2015-11-29*
@@ -7234,6 +7410,15 @@
 2. [Deutsche Bank Employees Flagged Suspicious Transactions Involving Trump and Kushner](https://www.nbcnews.com/politics/donald-trump/deutsche-bank-employees-reportedly-flagged-suspicious-transactions-involving-trump-kushner-n1007501)
 3. [Why Did Deutsche Bank Keep Lending to Donald Trump?](https://www.propublica.org/article/trump-inc-podcast-deutsche-bank-donald-trump)
 4. [How Russian Money Boosted Trump's Business Empire](https://foreignpolicy.com/2018/12/21/how-russian-money-helped-save-trumps-business/)
+
+## Whistleblower Alleges Dialysis Giants DaVita and Fresenius Steer Patients Through American Kidney Fund in $247M Kickback Scheme
+*Date: 2016-01-01*
+
+1. [Whistleblower alleges DaVita, Fresenius involved in kickback scheme](https://www.modernhealthcare.com/legal/whistleblower-alleges-davita-fresenius-involved-kickback-scheme)
+2. [A Dialysis Duopoly - How Public Funding Entrenched Private Power](https://lpeproject.org/blog/a-dialysis-duopoly-how-public-funding-entrenched-private-power/)
+3. [DaVita steered poor dialysis patients to private insurers to pump up profits, lawsuit says](https://www.denverpost.com/2017/02/22/davita-dialysis-patients-lawsuit/)
+4. [DaVita is Secretly Trying to Defend its Charity Scheme with a Lobbying Scheme](https://hindenburgresearch.com/davita-is-secretly-trying-to-defend-its-charity-scheme-with-a-lobbying-scheme/)
+5. [Dialysis Industry Spends Millions, Emerges as Power Player in California Politics](https://kffhealthnews.org/news/article/dialysis-industry-spends-millions-emerges-as-power-player-in-california-politics/)
 
 ## Illicit Fentanyl Overtakes Prescription Opioids as Leading Cause of Overdose Deaths
 *Date: 2016-01-01*
@@ -7630,6 +7815,14 @@
 2. [Congressional Committee Questions Mylan CEO Over EpiPen Controversy](https://www.pharmtech.com/view/congressional-committee-questions-mylan-ceo-over-epipen-controversy)
 3. [Reviewing the Rising Price of EpiPens](https://oversight.house.gov/hearing/reviewing-rising-price-epipens-2/)
 
+## Rep. Tom Price Purchases Discounted Healthcare Stocks While Drafting Industry Legislation
+*Date: 2016-08-31*
+
+1. [Democrats Say Cabinet Choice Tom Price 'Misled' The Public. Here's What We Know.](https://kffhealthnews.org/news/democrats-say-cabinet-choice-tom-price-misled-the-public-heres-what-we-know/)
+2. [Rep. Tom Price's STOCK Act Scandal](https://www.americanprogressaction.org/article/rep-tom-prices-stock-act-scandal/)
+3. [Fired U.S. Attorney Preet Bharara Said to Have Been Investigating HHS Secretary Tom Price](https://www.propublica.org/article/preet-bharara-fired-investigating-tom-price-hhs-stock-trading)
+4. [Tom Price's stock trading scandal isn't going away](https://slate.com/business/2017/01/tom-prices-stock-trading-scandal-isnt-going-away.html)
+
 ## Apollo Global Management Acquires Constellis Holdings (Blackwater Successor) for Approximately $1 Billion
 *Date: 2016-09-01*
 
@@ -7681,6 +7874,13 @@
 2. [From Arizona to Yemen - How Bombs Built by Raytheon in Tucson Killed 31 Civilians in Yemeni Village](https://pulitzercenter.org/stories/arizona-yemen-how-bombs-built-raytheon-tucson-killed-31-civilians-yemeni-village)
 3. [How Bombs Built by Raytheon in Tucson Killed 31 Civilians in Yemen](https://www.democracynow.org/2018/12/17/from_arizona_to_yemen_how_bombs)
 4. [Yemen - US-made bombs used in unlawful airstrikes](https://reliefweb.int/report/yemen/yemen-us-made-bombs-used-unlawful-airstrikes-enar)
+
+## Indianapolis Star Investigation Exposes Nassar Abuse After FBI Sat on Allegations for 14 Months
+*Date: 2016-09-12*
+
+1. [TIMELINE: A long history of abuse by Dr. Larry Nassar](https://www.michiganpublic.org/news/2018-01-24/timeline-a-long-history-of-abuse-by-dr-larry-nassar)
+2. [USA Gymnastics sex abuse scandal](https://en.wikipedia.org/wiki/USA_Gymnastics_sex_abuse_scandal)
+3. [The Constellation of Factors Underlying Larry Nassar's Abuse of Athletes](https://www.ropesgray.com/-/media/Files/USOC/ropes-gray-full-report.pdf)
 
 ## Washington Post Investigation Reveals Trump Foundation Used for Self-Dealing and Business Settlements
 *Date: 2016-09-13*
@@ -8508,6 +8708,14 @@
 2. [Robert Mueller, Former FBI Director, Appointed Special Counsel To Oversee Russia Probe](https://www.npr.org/2017/05/17/528846598/former-fbi-director-mueller-appointed-special-counsel-to-oversee-russia-probe)
 3. [Special counsel will take over FBI Russia campaign interference investigation](https://www.nbcnews.com/politics/politics-news/special-counsel-will-take-over-fbi-russia-campaign-interference-investigation-n761271)
 
+## TC Heartland v. Kraft: Supreme Court Limits Patent Forum Shopping, Curbing Eastern District of Texas Troll Haven
+*Date: 2017-05-22*
+
+1. [TC Heartland LLC v. Kraft Foods Group Brands LLC](https://en.wikipedia.org/wiki/TC_Heartland_LLC_v._Kraft_Foods_Group_Brands_LLC)
+2. [TC Heartland: The End of an Era in Patent Litigation](https://www.dorsey.com/newsresources/publications/client-alerts/2017/05/tc-heartland)
+3. [A year after Supreme Court's TC Heartland ruling, patent cases are up in Delaware and LA](https://www.abajournal.com/news/article/a_year_after_supreme_courts_jurisdiction_ruling_patent_cases_are_up_in_dela)
+4. [Supreme Court's TC Heartland Decision Will Move Venue Out of E.D. Texas](https://ktslaw.com/Insights/Publications/2017/7/Supreme-Court)
+
 ## Trump Withdraws from Paris Climate Agreement Isolating America
 *Date: 2017-06-01*
 
@@ -8826,6 +9034,13 @@
 2. [Statement of the Offense - United States v. Michael T. Flynn](https://www.justice.gov/file/1015126/download)
 3. [Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)](https://www.justice.gov/storage/report.pdf)
 
+## CVS-Aetna $69 Billion Merger Announced: Vertical Integration Wave Consolidates PBM Power
+*Date: 2017-12-03*
+
+1. [CVS Health to Acquire Aetna; Combination to Provide Consumers with a Better Experience](https://www.cvshealth.com/news/company-news/cvs-health-to-acquire-aetna-combination-to-provide-consumers-wit.html)
+2. [DOJ approves $69B CVS-Aetna merger with Part D divestiture](https://www.fiercehealthcare.com/payer/doj-approves-cvs-aetna-merger-part-d-divestiture)
+3. [CVS-Aetna megamerger finalized](https://www.healthcaredive.com/news/cvs-aetna-megamerger-finalized/542540/)
+
 ## Betsy DeVos Blocks Debt Relief for 200,000 Defrauded For-Profit College Students Despite Career Staff Recommendations
 *Date: 2017-12-11*
 
@@ -8949,6 +9164,23 @@
 2. [League of Women Voters of Pennsylvania v. Commonwealth of Pennsylvania](https://www.brennancenter.org/our-work/court-cases/league-women-voters-pennsylvania-v-commonwealth-pennsylvania)
 3. [Pennsylvania Supreme Court Confirms: State's Congressional Map Is Illegal Partisan Gerrymander](https://www.brennancenter.org/our-work/analysis-opinion/pennsylvania-supreme-court-confirms-states-congressional-map-illegal)
 4. [Why Pa.'s gerrymandered map went too far, according to state Supreme Court](https://www.inquirer.com/philly/news/pennsylvania/pa-supreme-court-releases-gerrymandering-opinion-2011-map-violates-free-and-equal-elections-20180207.html)
+
+## Alex Azar Confirmed as HHS Secretary After Doubling Insulin Prices at Eli Lilly
+*Date: 2018-01-24*
+
+1. [Senate confirms HHS secretary nominee Alex Azar](https://www.cnn.com/2018/01/24/politics/alex-azar-confirmation-department-of-health-and-human-services)
+2. [HHS Secretary Alex Azar Once Doubled The Price of Insulin](https://www.newsweek.com/hhs-alex-azar-import-cheaper-drugs-canada-1451931)
+3. [Alex Azar's Unusual Spin Through the Revolving Door](https://kffhealthnews.org/news/article/health-202-alex-azar-drug-importation-canada/)
+4. [Trump's HHS Pick Alex Azar Is the Worst Pharma Bro of All](https://www.commondreams.org/views/2017/11/17/trumps-hhs-pick-alex-azar-worst-pharma-bro-all)
+
+## Larry Nassar Sentenced to 40-175 Years After 156 Victim Impact Statements; Rachael Denhollander's Powerful Testimony
+*Date: 2018-01-24*
+
+1. [Larry Nassar sentenced to up to 175 years in prison for decades of sexual abuse](https://www.cnn.com/2018/01/24/us/larry-nassar-sentencing)
+2. [Larry Nassar Sentenced To Up To 175 Years After 150 Women Share Stories Of Abuse](https://www.npr.org/2018/01/24/580433583/larry-nassar-sentenced-to-up-to-175-years-after-150-women-share-stories-of-abuse)
+3. [Read Rachael Denhollander's full victim impact statement about Larry Nassar](https://www.cnn.com/2018/01/24/us/rachael-denhollander-full-statement)
+4. [Larry Nassar sentence: U.S. gymnastics doctor receives 40 to 175 years in sexual abuse case](https://www.cbsnews.com/news/larry-nassar-sentence-us-gymnastics-doctor-40-to-175-years-sexual-abuse-today-2018-01-24/)
+5. [Rachael Denhollander](https://en.wikipedia.org/wiki/Rachael_Denhollander)
 
 ## New York Times Reveals Trump Ordered McGahn to Fire Mueller; Trump Subsequently Demands McGahn Deny Story and Create False Record
 *Date: 2018-01-25*
@@ -9233,6 +9465,14 @@
 2. [KC Fed has revoked Reserve Trust's master account, Toomey says](https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/)
 3. [Congress and the American People Deserve Answers on Raskin's Revolving Door](https://www.banking.senate.gov/newsroom/minority/toomey-congress-and-the-american-people-deserve-answers-on-raskins-revolving-door)
 
+## Michigan State University Agrees to $500 Million Settlement with 332 Nassar Survivors—Largest University Sexual Abuse Settlement in History
+*Date: 2018-05-16*
+
+1. [Larry Nassar settlement: Michigan State University settles with victims for $500 million](https://www.cnn.com/2018/05/16/us/larry-nassar-michigan-state-settlement/index.html)
+2. [Michigan State University Reaches $500 Million Settlement With Nassar Abuse Victims](https://www.npr.org/sections/thetwo-way/2018/05/16/611624047/michigan-state-university-reaches-500-million-settlement-with-nassar-abuse-victi)
+3. [MSU makes $500 million settlement payment to survivor fund](https://msutoday.msu.edu/news/2018/12/msu-makes-500-million-settlement-payment-to-survivor-fund)
+4. [Nassar-related information](https://msu.edu/ourcommitment/news/nassar-information.html)
+
 ## Epic Systems v. Lewis: Supreme Court Allows Mandatory Arbitration Blocking Class Action Labor Claims
 *Date: 2018-05-21*
 
@@ -9367,6 +9607,14 @@
 1. [The State of the Tech Workers Global Movement](https://networkcultures.org/blog/2023/11/16/tech-workers-global-movement/)
 2. [The Making of the Tech Worker Movement](https://logicmag.io/the-making-of-the-tech-worker-movement/full-text/)
 3. [Tech Workers Coalition Official Website](https://techworkerscoalition.org/)
+
+## HHS Inspector General Finds Tom Price Violated Federal Travel Rules, Wasted $341,000 on Private Jets
+*Date: 2018-07-13*
+
+1. [Former HHS secretary Tom Price's air travel wasted $341,000 in government funds, watchdog says](https://www.washingtonpost.com/national/health-science/former-hhs-secretary-tom-prices-air-travel-wasted-341000-in-government-funds-watchdog-says/2018/07/13/82f700a4-860c-11e8-8f6c-46cb43e3f306_story.html)
+2. [The Office of the Secretary of Health and Human Services Did Not Comply with Federal Regulations](https://oig.hhs.gov/reports/all/2018/the-office-of-the-secretary-of-health-and-human-services-did-not-comply-with-federal-regulations-for-chartered-aircraft-and-other-government-travel-related-to-former-secretary-price/)
+3. [HHS All But One Of Tom Price's Plane Trips Reviewed Broke Federal Rules](https://www.npr.org/2018/07/13/628849448/hhs-all-but-one-of-tom-prices-plane-trips-broke-federal-rules)
+4. [IG Tom Price's travel wasted nearly $341,000](https://www.cnn.com/2018/07/13/politics/tom-price-travel-review/)
 
 ## Mueller Indicts 12 GRU Officers for Hacking DNC and Democratic Campaign Infrastructure
 *Date: 2018-07-13*
@@ -9536,6 +9784,12 @@
 2. [CMS chief Seema Verma spent millions in taxpayer funds to boost 'personal brand,' Democrats say](https://www.cnbc.com/2020/09/10/cms-chief-seema-verma-spent-millions-in-taxpayer-funds-to-boost-personal-brand-democrats-say.html)
 3. [Seema Verma under fire for allegedly spending millions on outside GOP consultants](https://www.healthcarefinancenews.com/news/seema-verma-under-fire-allegedly-spending-millions-outside-gop-consultants)
 
+## Cigna-Express Scripts $52 Billion Merger Approved: DOJ Greenlights PBM Oligopoly
+*Date: 2018-09-17*
+
+1. [DOJ Approves Merger Between Cigna and Express Scripts, Paving the Way for Increased Vertical Integration](https://hallrender.com/2018/10/04/doj-approves-merger-between-cigna-and-express-scripts/)
+2. [Cigna Says Express Scripts Acquisition Passes Antitrust Review](https://www.insurancejournal.com/news/national/2018/09/17/501561.htm)
+
 ## Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program
 *Date: 2018-09-26*
 
@@ -9605,6 +9859,14 @@
 2. [Trump doubles down - He's not stopping Saudi arms sales](https://www.defensenews.com/congress/2018/10/11/trump-doubles-down-hes-not-stopping-saudi-arms-sales/)
 3. [Killing of Khashoggi tests U.S. defense industry as backlash builds on Capitol Hill](https://www.washingtonpost.com/politics/killing-of-khashoggi-tests-us-defense-industry-as-backlash-builds-on-capitol-hill/2018/11/21/15a1df52-dc7d-11e8-aa33-53bad9a881e8_story.html)
 4. [Trump says US stands with Saudi Arabia despite journalist Khashoggi's killing](https://www.cnbc.com/2018/11/20/trump-says-us-stands-with-saudi-arabia-despite-khashoggi-killing.html)
+
+## AbbVie Humira Patent Thicket Delays US Biosimilars Until 2023 Despite 2016 Patent Expiration and European Competition
+*Date: 2018-10-16*
+
+1. [Biological patent thickets and delayed access to biosimilars, an American problem](https://pmc.ncbi.nlm.nih.gov/articles/PMC9439849/)
+2. [Biological patent thickets and delayed access to biosimilars, an American problem](https://academic.oup.com/jlb/article/9/2/lsac022/6680093)
+3. [Amgen Delaying U.S. Launch of Humira Biosimilar in Settlement with AbbVie](https://www.genengnews.com/topics/drug-discovery/amgen-delaying-u-s-launch-of-humira-biosimilar-in-settlement-with-abbvie/)
+4. [Behind the patent thicket - tactics AbbVie allegedly used to thwart biosimilar versions of Humira](https://www.statnews.com/pharmalot/2018/11/07/abbvie-biosimilars-humira-patents/)
 
 ## China Approves 16 Trademarks for Ivanka Trump During Trade War
 *Date: 2018-10-16*
@@ -10078,6 +10340,14 @@
 2. [White House Directs Don McGahn Not To Comply With Jerry Nadler Subpoena](https://www.npr.org/2019/05/07/721053127/white-house-directed-ex-counsel-mcgahn-not-to-comply-with-congressional-subpoena)
 3. [White House orders McGahn not to comply with congressional subpoena](https://www.nbcnews.com/politics/white-house/white-house-orders-mcgahn-not-comply-congressional-subpoena-n1002846)
 
+## FTC v. Qualcomm: Judge Lucy Koh Finds Antitrust Violations in Standard Essential Patent Licensing, Later Reversed on Appeal
+*Date: 2019-05-21*
+
+1. [Qualcomm Inc.](https://www.ftc.gov/legal-library/browse/cases-proceedings/141-0199-qualcomm-inc)
+2. [Federal Trade Commission v. Qualcomm Incorporated - Ninth Circuit Opinion](https://cdn.ca9.uscourts.gov/datastore/opinions/2020/08/11/19-16122.pdf)
+3. [The Antitrust Implications of Judge Koh's Recent Decision in FTC v. Qualcomm, Inc.](https://www.winston.com/en/thought-leadership/the-antitrust-implications-of-judge-kohs-recent-decision-in-ftc-v-qualcomm-inc.html)
+4. [Qualcomm Vindicated in Ninth Circuit Reversal of California Court](https://ipwatchdog.com/2020/08/11/qualcomm-vindicated-ninth-circuit-reversal-california-court/id=124046/)
+
 ## McGahn Defies Scheduled Congressional Testimony Despite House Subpoena
 *Date: 2019-05-21*
 
@@ -10383,6 +10653,14 @@
 2. [Statement on Processing of Whistleblower Complaints](https://www.dni.gov/files/ICIG/Documents/News/ICIG%20News/2019/September%2030%20-%20Statement%20on%20Processing%20of%20Whistleblower%20Complaints/ICIG%20Statement%20on%20Processing%20of%20Whistleblower%20Complaints.pdf)
 3. [Whistleblower complaint reveals Trump's obsession with Biden included push for Ukraine to investigate 2016 election](https://www.washingtonpost.com/national-security/whistleblower-complaint-reveals-trumps-obsession-with-biden-included-push-for-ukraine-to-investigate-2016-election/2019/09/26/b6e17d7c-e071-11e9-b199-f638bf2c340f_story.html)
 
+## Jeffrey Epstein Sent Letter to Larry Nassar from Prison Days Before Suicide, Revealing Sex Offender Network
+*Date: 2019-08-13*
+
+1. [Jeffrey Epstein sent letter to Larry Nassar from prison before suicide, records show](https://www.cbsnews.com/news/jeffrey-epstein-sent-letter-larry-nassar-prison-before-suicide-records-ap/)
+2. [Jeffrey Epstein: Prison documents reveal Jeffrey Epstein tried to reach out to Larry Nassar](https://www.cnn.com/2023/06/02/us/jeffrey-epstein-death-documents-larry-nassar)
+3. [Live updates: Justice Department releases new set of Epstein documents](https://www.cnn.com/politics/live-news/trump-epstein-files-12-23-25)
+4. [Jeffrey Epstein Wrote Fellow Pedophile Larry Nassar a Letter Before His Death](https://www.rollingstone.com/culture/culture-news/jeffrey-epstein-wrote-larry-nassar-letter-death-suicide-1234746199/)
+
 ## Oklahoma Wins $572 Million Verdict Against Johnson & Johnson for Opioid Public Nuisance
 *Date: 2019-08-26*
 
@@ -10514,6 +10792,13 @@
 2. [Trump hosted Zuckerberg for undisclosed dinner at White House](https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986)
 3. [The Secret Meeting Between Mark Zuckerberg, Peter Thiel, Donald Trump, and Jared Kushner](https://www.thedailybeast.com/the-secret-meeting-between-mark-zuckerberg-peter-thiel-donald-trump-and-jared-kushner/)
 4. [Mark Zuckerberg, Jared Kushner Struck Secret White House Deal](https://www.mediaite.com/media/news/mark-zuckerberg-reportedly-promised-to-avoid-fact-checks-of-political-speech-so-trump-would-lay-off-on-regulating-facebook/)
+
+## Sutter Health Settles Antitrust Case for $575 Million, Admits to All-or-Nothing Contracting and Price Concealment
+*Date: 2019-10-07*
+
+1. [Attorney General Announces Final Approval of $575 Million Settlement with Sutter Health](https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-final-approval-575-million-settlement-sutter)
+2. [Sutter Health Settles $575 Million California Antitrust Suit](https://www.capradio.org/articles/2019/12/20/sutter-health-settles-575-million-california-antitrust-suit-agrees-to-change-practices/)
+3. [Federal judge grants final approval of $575M settlement against Sutter Health](https://www.fiercehealthcare.com/hospitals/federal-judge-grants-final-approval-575m-settlement-against-sutter-health)
 
 ## Trump Blocks Ambassador Sondland Testimony, Declares Total Obstruction of Congress
 *Date: 2019-10-08*
@@ -10718,6 +11003,14 @@
 1. [CEO pay has skyrocketed 1,322% since 1978: CEOs were paid 351 times as much as a typical worker in 2020](https://www.epi.org/publication/ceo-pay-in-2020/)
 2. [CEO pay soared nearly 19% in 2020: CEOs made 351 times as much as the typical worker](https://www.epi.org/press/ceo-pay-soared-nearly-19-in-2020-ceos-made-351-times-as-much-as-the-typical-worker/)
 3. [In 2020, top CEOs earned 351 times more than the typical worker](https://www.cnbc.com/2021/09/15/in-2020-top-ceos-earned-351-times-more-than-the-typical-worker.html)
+
+## Dialysis Industry Systematically Steers Patients Away from Home Dialysis and Toward High-Profit Commercial Insurance
+*Date: 2020-01-01*
+
+1. [Kidney Dialysis Is a Booming Business--Is It Also a Rigged One?](https://www.scientificamerican.com/article/kidney-dialysis-is-a-booming-business-is-it-also-a-rigged-one1/)
+2. [Lawmaker asks what happened to federal investigation into 'predatory' for-profit dialysis industry](https://www.cbsnews.com/news/senator-blumenthal-investigation-for-profit-dialysis-industry/)
+3. [A Dialysis Duopoly: How Public Funding Entrenched Private Power](https://lpeproject.org/blog/a-dialysis-duopoly-how-public-funding-entrenched-private-power/)
+4. [The Dialysis Industry is Failing America](https://www.8vc.com/resources/the-dialysis-industry-is-failing-america)
 
 ## McKinsey Advised Purdue on "Turbocharging" OxyContin Sales, Targeting High-Volume Prescribers
 *Date: 2020-01-01*
@@ -11571,6 +11864,14 @@
 1. [The Shadow Network (Council for National Policy) Is Not Going Away](https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/)
 2. [Christian-Right Council for National Policy Linked to Violent Breach of Capitol](https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/)
 
+## NBER Study Reveals Private Equity Nursing Home Ownership Increases Mortality 10%, Causes 20,000 Excess Deaths
+*Date: 2020-12-14*
+
+1. [Owner Incentives and Performance in Healthcare: Private Equity Investment in Nursing Homes](https://www.nber.org/papers/w28474)
+2. [When Private Equity Takes over Nursing Homes, Mortality Rates Jump](https://www.chicagobooth.edu/review/when-private-equity-takes-over-nursing-homes-mortality-rates-jump)
+3. [At private equity-owned nursing homes, an 'enormous' increase in death rates, study finds](https://www.cbsnews.com/news/nursing-home-private-equity-death-rate/)
+4. [New Study Finds that Private Equity Ownership of Nursing Homes Substantially Increased Mortality, Decreased Patient Well-Being](https://pestakeholder.org/news/new-study-finds-that-private-equity-ownership-of-nursing-homes-substantially-increased-mortality-decreased-patient-well-being-2/)
+
 ## Trump privately admits defeat saying "Can you believe I lost to this f'ing guy?"
 *Date: 2020-12-14*
 
@@ -11674,6 +11975,13 @@
 1. [Oracle's Larry Ellison gears up to spend millions to back Tim Scott's 2024 run](https://www.cnbc.com/2023/05/22/larry-ellison-tim-scott-presidential-campaign.html)
 2. [Tim Scott's biggest financial backer is Larry Ellison](https://www.yahoo.com/news/amphtml/tim-scotts-biggest-financial-backer-171935563.html)
 3. [Oracle's Larry Ellison Gears Up to Spend Millions to Back Tim Scott's 2024 Run](https://www.nbcdfw.com/news/business/money-report/oracles-larry-ellison-gears-up-to-spend-millions-to-back-tim-scotts-2024-run/3262773/)
+
+## Hospital Price Transparency Rule Takes Effect with Widespread Non-Compliance and Weak CMS Enforcement
+*Date: 2021-01-01*
+
+1. [Hospital noncompliance with U.S. price transparency regulations](https://pmc.ncbi.nlm.nih.gov/articles/PMC9903964/)
+2. [Hospital Price Transparency Enforcement Updates](https://www.cms.gov/newsroom/fact-sheets/hospital-price-transparency-enforcement-updates)
+3. [Health Care Transparency: CMS Needs More Information on Hospital Pricing Data](https://files.gao.gov/reports/GAO-25-106995/index.html)
 
 ## CNP Attorney Cleta Mitchell Joins Trump Call Pressuring Georgia Officials
 *Date: 2021-01-02*
@@ -11965,6 +12273,14 @@
 3. [GOP senators who voted to impeach Trump facing heat at home](https://www.cnbc.com/2021/02/14/gop-senators-who-voted-to-impeach-trump-facing-heat-at-home.html)
 4. [GOP Senators Who Voted to Convict Donald Trump Face Local Censures](https://www.newsweek.com/gop-senators-who-voted-convict-donald-trump-face-local-censures-1569340)
 
+## Private Equity Firm ReGen Healthcare Invests $100M in Failing Genesis Healthcare, Beginning Four-Year Collapse to Bankruptcy
+*Date: 2021-03-01*
+
+1. [How delays and bankruptcy let a nursing home chain avoid paying settlements for injuries and deaths](https://www.cbsnews.com/news/genesis-nursing-home-bankruptcy-settlements/)
+2. [Inside the Genesis Private Equity Bankruptcy Case](https://cepr.net/publications/inside-the-genesis-private-equity-bankruptcy-case/)
+3. [Genesis Healthcare files for bankruptcy](https://pestakeholder.org/news/genesis-healthcare-files-for-bankruptcy/)
+4. [Warren, Blumenthal, Welch, Goodlander Investigate Genesis HealthCare Private Equity Bankruptcy](https://www.warren.senate.gov/newsroom/press-releases/warren-blumenthal-welch-goodlander-investigate-genesis-healthcare-private-equity-bankruptcy-and-its-impact-on-nursing-home-assisted-living-residents-across-the-country)
+
 ## South Dakota pays $200,000 to silence appraiser chief fired after Noem intervention
 *Date: 2021-03-01*
 
@@ -12213,6 +12529,15 @@
 2. [2 Top Federal Reserve Officials Retire After Trading Disclosures](https://www.npr.org/2021/09/27/1041059924/2-top-federal-reserve-officials-retire-after-trading-disclosures)
 3. [Federal Reserve's Kaplan, Rosengren's Trading Activity Was Legal, But Ill-Advised: Watchdog](https://fortune.com/2024/01/22/federal-reserve-robert-kaplan-eric-rosengren-stock-funds-trades-technically-legal/)
 
+## Simone Biles, McKayla Maroney, Aly Raisman, and Maggie Nichols Testify Before Senate on FBI's Betrayal in Nassar Case
+*Date: 2021-09-15*
+
+1. [McKayla Maroney at Larry Nassar hearing: FBI made 'entirely false claims about what I said'](https://www.cnn.com/2021/09/15/politics/gymnasts-senate-judiciary-committee-larry-nassar-hearing/index.html)
+2. [Gymnasts leave senators asking why FBI agents aren't being prosecuted](https://rollcall.com/2021/09/15/gymnasts-testimony-leaves-senators-wondering-why-fbi-agents-arent-being-prosecuted/)
+3. [READ: Biles, Maroney, Raisman and Nichols opening statements before Congress](https://www.cnn.com/2021/09/15/politics/read-usa-gymnasts-testimony/index.html)
+4. [Gymnasts testify as Congress investigates FBI's handling of Larry Nassar sexual abuse case](https://abcnews.go.com/GMA/News/gymnasts-testify-congress-investigates-fbis-handling-larry-nassar/story?id=80033309)
+5. ['We have been failed': Simone Biles breaks down in tears recounting Nassar's sexual abuse](https://www.nbcnews.com/politics/congress/we-have-been-failed-simone-biles-breaks-down-tears-recounting-n1279255)
+
 ## Dallas and Boston Fed Presidents Resign Over Trading Scandal
 *Date: 2021-09-27*
 
@@ -12376,6 +12701,15 @@
 2. [OSHA opens investigation after Amazon warehouse collapses during tornado, killing 6](https://www.pbs.org/newshour/economy/osha-opens-investigation-after-amazon-warehouse-collapses-during-tornado-killing-6)
 3. [Edwardsville Amazon warehouse collapse](https://en.wikipedia.org/wiki/Edwardsville_Amazon_warehouse_collapse)
 4. [Disaster training, fear of cellphone ban raise alarms after Amazon warehouse collapse](https://www.nbcnews.com/business/business-news/amazon-worker-deaths-tornados-raise-questions-tornado-training-cellpho-rcna8570)
+
+## USA Gymnastics Emerges from Bankruptcy with $380 Million Settlement for 500+ Nassar Survivors
+*Date: 2021-12-13*
+
+1. [Settlement with Survivors approved by court; USA Gymnastics to exit bankruptcy](https://usagym.org/settlement-with-survivors-approved-by-court-usa-gymnastics-to-exit-bankruptcy/)
+2. [Nassar abuse survivors reach $380 million deal with USA Gymnastics, Olympic committee](https://www.npr.org/2021/12/13/1063798289/nassar-abuse-survivors-settlement-gymnastics-olympics)
+3. [Larry Nassar victims reach $380 million settlement with USA Gymnastics, US Olympic Committee and insurers](https://www.cnn.com/2021/12/13/us/larry-nassar-gymnastics-settlement/index.html)
+4. [USA Gymnastics, USOPC reach $380 million settlement with victims of sexual abuse](https://www.pbs.org/newshour/nation/usa-gymnastics-usopc-reach-380-million-settlement-with-victims-of-sexual-abuse)
+5. [How USA Gymnastics has changed since the Larry Nassar scandal](https://abcnews.go.com/Sports/usa-gymnastics-changed-larry-nassar-scandal/story?id=78839442)
 
 ## Harvard Study Finds Private Equity Hospital Takeovers Increase Emergency Room Deaths by 10%
 *Date: 2021-12-15*
@@ -12720,6 +13054,12 @@
 2. [Axon halts its plans for a Taser drone as 9 on ethics board resign over the project](https://www.npr.org/2022/06/06/1103285030/axon-halts-plans-for-taser-drone-as-9-on-ethics-board-resign)
 3. [Axon's AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
 
+## FTC Launches Bipartisan Investigation into PBM Market Concentration and Drug Pricing
+*Date: 2022-06-07*
+
+1. [FTC Votes to Examine PBM Practices](https://www.wiley.law/alert-FTC-Votes-to-Examine-PBM-Practices)
+2. [Cantwell, Grassley Urge FTC to Complete Investigation Into PBM Practices Driving Up Rx Drug Costs](https://www.commerce.senate.gov/2022/10/cantwell-grassley-urge-ftc-to-complete-investigation-into-pbm-practices-driving-up-rx-drug-costs)
+
 ## January 6th Committee Exposes "Big Rip-Off" - $250 Million Fraudulent Fundraising Scheme
 *Date: 2022-06-13*
 
@@ -13060,6 +13400,14 @@
 2. [Top Government Contracts Won by Amazon Web Services](https://www.executivegov.com/articles/top-government-contracts-won-by-amazon-web-services)
 3. [NSA Awards Secret $10 Billion Contract to Amazon](https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/)
 
+## Cancer Drug Shortage Crisis Enables Gray Market Profiteering - Carboplatin Price Jumps from $50 to $500 Per Vial
+*Date: 2023-01-01*
+
+1. [Cancer drug shortage - Price gouging of chemo drugs hits some hospitals hard](https://www.nbcnews.com/health/cancer/cancer-drug-shortage-price-gouging-chemo-drugs-hits-hospitals-hard-rcna98041)
+2. [Drug Shortages and the Threat to Cancer Care](https://www.cancertherapyadvisor.com/features/drug-shortages-threaten-cancer-care/)
+3. [Crisis of Cancer Drug Shortages - Understanding the Causes and Proposing Sustainable Solutions](https://ascopubs.org/doi/10.1200/OP-25-00381)
+4. [Why There's a Serious Cancer Drug Shortage, and How to Fix It](https://www.scientificamerican.com/article/why-theres-a-serious-cancer-drug-shortage-and-how-to-fix-it/)
+
 ## CNP Members Lead Project 2025 Coalition Organizations - Coordination Infrastructure for Trump Return
 *Date: 2023-01-01*
 
@@ -13138,6 +13486,12 @@
 1. [Silicon Valley Bank is shut down by regulators in biggest bank failure since global financial crisis](https://www.cnbc.com/2023/03/10/silicon-valley-bank-is-shut-down-by-regulators-fdic-to-protect-insured-deposits.html)
 2. [Review of the Federal Reserve's Supervision and Regulation of Silicon Valley Bank](https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf)
 3. [What Silicon Valley Bank Collapse Reveals About Regulation](https://www.propublica.org/article/silicon-valley-bank-failure-fdic-fed-failure)
+
+## ProPublica Exposes Cigna's Automated PXDX System Denying 300,000 Claims in Two Months at 1.2 Seconds Per Case
+*Date: 2023-03-13*
+
+1. [Congress Questions Cigna's Large-Scale Denial of Insurance Claims](https://www.propublica.org/article/cigna-health-insurance-denials-pxdx-congress-investigation)
+2. [ProPublica Reports On Health Insurance Denials & Failures To Respond](https://www.gmlawyers.com/propublica-report-on-health-insurance-denials/)
 
 ## DOJ Arrests Guo Wengui in Landmark $1 Billion Fraud Conspiracy
 *Date: 2023-03-15*
@@ -13265,6 +13619,13 @@
 2. [NPR: Media Landscape Shift with Tucker Carlson's Platform Change](https://www.npr.org/2023/05/10/media-platform-changes/tucker-carlson-twitter-x-move)
 3. [Fox News Warns Tucker Carlson to Stop Twitter Video Series](https://www.pbs.org/newshour/politics/fox-news-warns-former-star-tucker-carlson-to-stop-twitter-video-series-axios-reports)
 4. [Tucker Carlson's Departure from Fox News](https://www.pbs.org/newshour/nation/tucker-carlson-out-at-fox-news-agreed-to-part-ways-network-says)
+
+## Senate Hearing Exposes PBM Insulin Profiteering: 75% of Sales Go to Rebates and Fees
+*Date: 2023-05-10*
+
+1. [HELP Committee to Bring CEOs of Major Insulin Manufacturers and PBMs Together for Historic Hearing](https://www.help.senate.gov/dem/newsroom/press/news-help-committee-to-bring-ceos-of-major-insulin-manufacturers-and-pbms-together-for-historic-hearing-to-discuss-the-need-to-lower-insulin-prices-and-the-cost-of-other-prescription-drugs)
+2. [US Senate committee questions leading pharmaceutical companies, PBMs on insulin pricing](https://www.healio.com/news/endocrinology/20230511/us-senate-committee-questions-leading-pharmaceutical-companies-pbms-on-insulin-pricing)
+3. [Insulin makers, PBMs echo old finger-pointing in Senate hearing](https://www.statnews.com/2023/05/10/insulin-makers-pbms-echo-old-finger-pointing-in-senate-hearing/)
 
 ## Second Circuit Reverses District Court, Reinstates Sackler Immunity Deal
 *Date: 2023-05-30*
@@ -13527,6 +13888,14 @@
 3. [X to allow paid political ads, lifting Twitter's earlier ban](https://techcrunch.com/2023/08/30/x-to-allow-paid-political-ads-lifting-twitters-earlier-ban/)
 4. [X/Twitter Will Accept Political Ads Again, Reversing Pre-Musk Ban](https://variety.com/2023/digital/news/x-twitter-musk-political-adverstising-reverse-ban-1235707123/)
 
+## FTC Issues Policy Statement on Orange Book Patent Gaming: Pharmaceutical Evergreening as Unfair Competition Under Section 5
+*Date: 2023-09-01*
+
+1. [FTC Issues Policy Statement on Brand Pharmaceutical Manufacturers' Improper Listing of Patents in the FDA's Orange Book](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-issues-policy-statement-brand-pharmaceutical-manufacturers-improper-listing-patents-food-drug)
+2. [FTC Challenges More Than 100 Patents as Improperly Listed in the FDA's Orange Book](https://www.ftc.gov/news-events/news/press-releases/2023/11/ftc-challenges-more-100-patents-improperly-listed-fdas-orange-book)
+3. [Medications: Navigating the Patent Protection Scheme of Pharmaceutical Companies in the Orange Book](https://ucipclj.org/2025/01/15/medications-navigating-the-patent-protection-scheme-of-pharmaceutical-companies-in-the-orange-book/)
+4. [Throwing the (Orange) Book at Pharmaceutical Manufacturers](https://www.crowell.com/en/insights/client-alerts/throwing-the-orange-book-at-pharmaceutical-manufacturers-ftc-challenges-over-100-drug-product-patents-listed-in-fda-publication)
+
 ## Fifth Circuit Finds Biden Administration Violated First Amendment Through Social Media Coercion
 *Date: 2023-09-08*
 
@@ -13623,6 +13992,13 @@
 3. [Senate committee votes to subpoena Harlan Crow and Leonard Leo](https://www.cnn.com/2023/11/09/politics/senate-committee-subpoenas-harlan-crow-leonard-leo/index.html)
 4. [Senate Democrats vote to subpoena Harlan Crow](https://www.axios.com/2023/11/09/senate-democrats-subpoena-harlan-crow-leonard-leo)
 5. [Senate Committee Votes to Subpoena Billionaire Harlan Crow](https://www.texastribune.org/2023/11/09/harlan-crow-subpoena-senate/)
+
+## Class Action Lawsuit Alleges UnitedHealth Uses AI with 90% Error Rate to Deny Medicare Advantage Claims, Causing Patient Deaths
+*Date: 2023-11-14*
+
+1. [UnitedHealthcare used AI to deny patients' health insurance coverage, lawsuit says](https://www.medicaleconomics.com/view/unitedhealthcare-used-ai-to-deny-patients-health-insurance-coverage-lawsuit-says)
+2. [Class action lawsuit against UnitedHealth's AI claim denials advances](https://www.healthcarefinancenews.com/news/class-action-lawsuit-against-unitedhealths-ai-claim-denials-advances)
+3. [UnitedHealth uses faulty AI to deny elderly patients medically necessary coverage, lawsuit claims](https://www.cbsnews.com/news/unitedhealth-lawsuit-ai-deny-claims-medicare-advantage-health-insurance-denials/)
 
 ## Binance and CEO Changpeng Zhao Plead Guilty to Money Laundering in $4.3 Billion DOJ Settlement
 *Date: 2023-11-21*
@@ -13917,6 +14293,13 @@
 2. [Jury finds NRA and Wayne LaPierre liable in civil corruption trial](https://www.nbcnews.com/news/us-news/nra-trial-verdict-rcna138827)
 3. [Jury finds NRA liable for mismanagement, says Wayne LaPierre violated duties](https://abcnews.go.com/US/jury-finds-nra-liable-mismanagement-wayne-lapierre-violated/story?id=107269909)
 
+## DOJ Launches Antitrust Investigation of UnitedHealth's Vertical Integration Strategy and Optum Physician Acquisitions
+*Date: 2024-02-27*
+
+1. [Report - DOJ launches antitrust probe into UnitedHealth](https://www.axios.com/2024/02/27/unitedhealth-anti-trust-doj)
+2. [UnitedHealth under antitrust investigation by DOJ - reports](https://www.healthcaredive.com/news/unitedhealth-antitrust-investigation-doj-unitedhealthcare-optum/708727/)
+3. [UnitedHealth Group Is Target of DOJ Antitrust Investigation](https://www.managedhealthcareexecutive.com/view/unitedhealth-group-is-target-of-doj-antirust-investigation-reports-wsj)
+
 ## Trump Pressures Georgia Lawmakers to Capture State Election Board
 *Date: 2024-03-01*
 
@@ -14037,6 +14420,22 @@
 4. [Axon's Draft One Is Designed to Defy Transparency](https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency)
 5. [Unlocking next-generation productivity in the field with Axon AI](https://www.axon.com/blog/unlocking-next-generation-productivity-in-the-field-with-axon-ai)
 
+## Biden Administration Finalizes Nursing Home Minimum Staffing Rule Despite Fierce Industry Opposition and Republican Backlash
+*Date: 2024-04-23*
+
+1. [Disclosures of Ownership and Additional Disclosable Parties Information for Skilled Nursing Facilities](https://www.cms.gov/newsroom/fact-sheets/disclosures-ownership-and-additional-disclosable-parties-information-skilled-nursing-facilities-and-0)
+2. [Nursing Home Industry Wants Trump To Rescind Staffing Mandate](https://kffhealthnews.org/news/article/nursing-home-staffing-mandate-trump-administration-repeal/)
+3. [Biden administration's nursing home staffing requirements vacated by federal judge](https://www.fiercehealthcare.com/providers/biden-administrations-nursing-home-staffing-requirements-vacated-federal-judge)
+4. [Strong Bipartisan Opposition Results From Biden Administration Finalizing Federal Minimum Staffing Mandate](https://www.ahcancal.org/News-and-Communications/Press-Releases/Pages/ICYMI-Strong-Bipartisan-Opposition-Results-From-Biden-Administration-Finalizing-Federal-Minimum-Staffing-Mandate.aspx)
+
+## Justice Department Pays $138.7 Million Settlement Over FBI's Failure to Investigate Nassar Allegations
+*Date: 2024-04-23*
+
+1. [DOJ to pay nearly $138 million over FBI failures in Larry Nassar case](https://www.npr.org/2024/04/24/1246780923/doj-to-pay-nearly-138-million-over-fbi-failures-in-larry-nassar-case)
+2. [U.S. government to pay $138.7M over FBI's failure to investigate Larry Nassar allegations](https://www.pbs.org/newshour/amp/nation/u-s-government-to-pay-138-7m-settlement-over-fbis-botched-larry-nassar-assault-allegations)
+3. [Justice Department settles claims on USA Gymnastics investigation](https://rollcall.com/2024/04/23/justice-department-settles-claims-on-usa-gymnastics-investigation/)
+4. [Larry Nassar case: DOJ declines for third time to charge former FBI agents who botched inquiry](https://www.cnn.com/2022/05/26/politics/larry-nassar-agents-fbi-justice-department-declines-charges/index.html)
+
 ## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
 *Date: 2024-04-24*
 
@@ -14070,6 +14469,13 @@
 1. [South Dakota Gov. Kristi Noem erroneously describes meeting with Kim Jong Un in new book](https://www.pbs.org/newshour/politics/south-dakota-gov-kristi-noem-erroneously-describes-meeting-with-kim-jong-un-in-new-book)
 2. [Gov. Kristi Noem faces questions about false claim in her book that she met Kim Jong Un](https://www.cbsnews.com/news/gov-kristi-noem-interview-false-claim-in-her-book-kim-jong-un/)
 3. [The Kristi Noem and Kim Jong Un Controversy, Explained](https://time.com/6974797/kristi-noem-kim-jong-un-book-controversy/)
+
+## Steward Health Care Declares Bankruptcy After Private Equity Extracts $1.3 Billion, At Least 15 Patient Deaths Linked to Substandard Care
+*Date: 2024-05-06*
+
+1. [On Anniversary of Steward Health Care Bankruptcy, Warren, Markey Push For Accountability](https://www.warren.senate.gov/newsroom/press-releases/on-anniversary-of-steward-health-care-bankruptcy-warren-markey-push-for-accountability-for-ralph-de-la-torre-and-other-steward-mpt-executives)
+2. [Steward Health Care claims former executives' 'greed and bad faith misconduct' led to bankruptcy](https://www.cbsnews.com/news/steward-health-care-hospital-bankruptcy-filing-greed-misconduct/)
+3. [Steward Health Care's bankruptcy: one year later](https://pestakeholder.org/news/steward-health-cares-bankruptcy-one-year-later/)
 
 ## Stormy Daniels Testifies in Graphic Detail About Sexual Encounter, Trump Visibly Angry
 *Date: 2024-05-07*
@@ -14284,6 +14690,13 @@
 2. [Supreme Court Grants Trump Broad Immunity for Official Acts, Placing Presidents Above the Law](https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law)
 3. [Trump immunity ruling completes systematic constitutional transformation](https://www.lawfaremedia.org/article/trump-immunity-ruling-completes-systematic-constitutional-transformation)
 
+## FTC Report Reveals PBM Oligopoly: Top 3 Control 80% of Market, Extract $7.3 Billion Through Markups
+*Date: 2024-07-09*
+
+1. [FTC Releases Interim Staff Report on Prescription Drug Middlemen](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-releases-interim-staff-report-prescription-drug-middlemen)
+2. [FTC report adds to scrutiny of drug middlemen](https://www.axios.com/2024/07/09/ftc-report-scrutiny-pbm-consolidation)
+3. [FTC slams pharmacy 'middlemen' for drug price hikes](https://thehill.com/policy/healthcare/4762024-federal-trade-commission-report-pharmacy-middlemen-price-hikes/)
+
 ## Brennan Center warns Georgia SB 189 spurs mass voter challenges
 *Date: 2024-07-09*
 
@@ -14357,12 +14770,25 @@
 3. [SEC sues Trump Media SPAC ex-CEO Patrick Orlando for alleged fraud](https://www.cnbc.com/2024/07/18/sec-sues-trump-media-spac-ex-ceo-patrick-orlando.html)
 4. [Trump Media Rocked by Securities Fraud Scandal](https://www.newsweek.com/patrick-orlando-accused-securities-fraud-trump-media-truth-social-digital-world-acquisition-corp-1926817)
 
+## DaVita Pays $34 Million to Settle Third Kickback Case in Decade, Revealing Systematic Fraud Business Model
+*Date: 2024-07-18*
+
+1. [DaVita to Pay Over $34M to Resolve Allegations of Illegal Kickbacks](https://www.justice.gov/archives/opa/pr/davita-pay-over-34m-resolve-allegations-illegal-kickbacks)
+2. [Denver-based dialysis giant DaVita pays $34 million to settle another whistleblower case](https://www.cpr.org/2024/07/18/dialysis-company-davita-settles-lawsuit-anti-kickback-laws/)
+3. [Denver-based DaVita to pay $34 million to settle latest kickback allegations](https://www.denverpost.com/2024/07/19/davita-kickback-settlement-department-justice/)
+
 ## Vance White Nationalist Social Media Connections Exposed
 *Date: 2024-07-20*
 
 1. [White nationalist bodybuilders and liberal elites: Here's who JD Vance is following on X](https://www.yahoo.com/news/white-nationalist-bodybuilders-liberal-elites-134415332.html)
 2. [Why Is J.D. Vance Still Following This Hitler Apologist?](https://newrepublic.com/post/185616/jd-vance-following-hitler-apologist)
 3. [J.D. Vance Praised Alex Jones as a Truth-Teller in Speech to Leonard Leo-Backed Group](https://www.propublica.org/article/jd-vance-alex-jones-leonard-leo-teneo-maddow-video)
+
+## House Oversight Releases Damning PBM Report After 32-Month Investigation: Anticompetitive Policies Exposed
+*Date: 2024-07-23*
+
+1. [Comer Releases Report on PBMs' Harmful Pricing Tactics and Role in Rising Health Care Costs](https://oversight.house.gov/release/comer-releases-report-on-pbms-harmful-pricing-tactics-and-role-in-rising-health-care-costs%EF%BF%BC/)
+2. [Congress Requests Corrections to Testimony From Three Largest PBM Executives Following FTC Report](https://www.pharmacytimes.com/view/congress-requests-corrections-to-testimony-from-three-largest-pharmacy-benefit-manager-executives-following-ftc-report)
 
 ## Paul Dans departs as Project 2025 director amid campaign controversy
 *Date: 2024-07-30*
@@ -14434,6 +14860,13 @@
 3. [Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
 4. [Musk's Grok AI Cleared for Use Across US Government Agencies](https://www.bloomberg.com/news/articles/2025-09-25/musk-s-grok-ai-cleared-for-use-across-us-government-agencies)
 5. [GSA and xAI Partner on $0.42 per Agency Agreement to Accelerate Federal AI Adoption](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025)
+
+## Humana Pays $90 Million to Settle First-of-Its-Kind Medicare Part D Fraud Case for Fraudulent Bidding
+*Date: 2024-08-16*
+
+1. [Humana Settles for $90 Million Groundbreaking False Claims Act Case Alleging Medicare Part D Prescription Drug Program Fraud](https://www.phillipsandcohen.com/humana-settles-for-90-million/)
+2. [Humana pays $90M to settle whistleblower allegations of Medicare Part D fraud](https://www.healthcaredive.com/news/humana-90m-settlement-medicare-part-d-fraud/724624/)
+3. [Humana Will Pay $90 Million in Medicare Drug Fraud Settlement](https://news.bloomberglaw.com/federal-contracting/humana-will-pay-90-million-in-medicare-drug-fraud-settlement)
 
 ## Defense Contractors Market Ukraine War as "Battle-Tested" Surveillance Technology Proving Ground
 *Date: 2024-08-20*
@@ -14555,6 +14988,14 @@
 2. [Will Biden's FDA Be Led by a Pharma Guy?](https://therevolvingdoorproject.org/will-bidens-fda-be-led-by-a-pharma-guy/)
 3. [Manchin Criticizes Califf's FDA Nomination Over Industry Ties](https://apnews.com/article/fda-robert-califf-pharmaceutical-connections)
 
+## FTC Sues Big Three PBMs for Artificially Inflating Insulin Prices Through Rebate Schemes
+*Date: 2024-09-20*
+
+1. [FTC Sues Prescription Drug Middlemen for Artificially Inflating Insulin Drug Prices](https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-sues-prescription-drug-middlemen-artificially-inflating-insulin-drug-prices)
+2. [Federal Trade Commission accuses three drug middlemen of inflating insulin prices](https://www.nbcnews.com/business/business-news/federal-trade-commission-accuses-three-drug-middlemen-inflating-insuli-rcna172001)
+3. [FTC sues pharmacy benefit managers for inflating price of insulin](https://www.npr.org/2024/09/21/nx-s1-5121886/insulin-ftc-lawsuit-pharmacy-benefit-manager)
+4. [FTC sues drug middlemen for allegedly inflating insulin prices](https://www.cnbc.com/2024/09/20/ftc-sues-drug-middlemen-for-allegedly-inflating-insulin-prices.html)
+
 ## Biden Uses Emergency Drawdown Authority 55 Times to Send $31.7B in Weapons to Ukraine
 *Date: 2024-09-30*
 
@@ -14664,6 +15105,12 @@
 2. [Revolving door between ICE and private prison companies is boosting Trump deportation plans](https://www.yahoo.com/news/articles/revolving-door-between-ice-private-232739971.html)
 3. [Jayapal Calls for Investigation of ICE Detention Centers and Contracts](https://jayapal.house.gov/2025/09/25/jayapal-calls-for-investigation-of-ice-detention-centers-and-contracts/)
 4. [Ethics Disclosure for Senior Government Official's Private Sector Transition](https://www.ice.gov/doclib/leadership/bio/danielBible.pdf)
+
+## HHS Watchdog Finds Health Risk Assessments Drove $7.5 Billion in Medicare Advantage Overpayments Without Additional Patient Care
+*Date: 2024-10-31*
+
+1. [Medicare Advantage - Questionable Use of Health Risk Assessments Continues To Drive Up Payments to Plans by Billions](https://oig.hhs.gov/reports/all/2024/medicare-advantage-questionable-use-of-health-risk-assessments-continues-to-drive-up-payments-to-plans-by-billions/)
+2. [Watchdog Estimates $7.5 Billion Medicare Advantage Overpayment from Questionable Health Risk Assessments](https://www.medicarerights.org/medicare-watch/2024/10/31/watchdog-estimates-7-5-billion-medicare-advantage-overpayment-from-questionable-health-risk-assessments)
 
 ## Joe Rogan Endorses Trump on Election Eve, Marking Major Podcast Influence on Political Discourse
 *Date: 2024-11-04*
@@ -14777,6 +15224,13 @@
 1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
 2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
 
+## UnitedHealthcare CEO Brian Thompson Assassinated in Manhattan, Exposing Public Rage at Health Insurance Industry
+*Date: 2024-12-04*
+
+1. [Killing of Brian Thompson](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson)
+2. [What we know about Luigi Mangione, suspect in Brian Thompson's killing](https://www.npr.org/2024/12/09/nx-s1-5222853/luigi-mangione-suspect-brian-thompson-united-healthcare)
+3. [Luigi Mangione Charged With The Stalking And Murder Of UnitedHealthcare CEO Brian Thompson](https://www.justice.gov/usao-sdny/pr/luigi-mangione-charged-stalking-and-murder-unitedhealthcare-ceo-brian-thompson-and-use)
+
 ## Trump Organization launches $530M Saudi Arabia tower weeks before inauguration
 *Date: 2024-12-11*
 
@@ -14807,6 +15261,14 @@
 2. [Federal appeals court upholds sexual abuse verdict against Trump](https://www.cnn.com/2024/12/30/politics/federal-appeals-court-upholds-sexual-abuse-case-against-trump)
 3. [Appeals court upholds $5 million E. Jean Carroll verdict against Trump](https://www.nbcnews.com/politics/donald-trump/appeals-court-upholds-5-million-e-jean-carroll-verdict-trump-rcna185745)
 4. [US appeals court upholds $5M E. Jean Carroll sexual assault and defamation verdict against Trump](https://www.jurist.org/news/2024/12/us-appeals-court-upholds-5m-e-jean-carroll-sexual-assault-and-defamation-verdict-against-trump/)
+
+## Healthcare Industry Spends Record $744 Million on Federal Lobbying in 2024, Pharmaceutical Sector Leads at $384 Million
+*Date: 2024-12-31*
+
+1. [Health Lobbying](https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=H)
+2. [Lobbying expenditure on health sector in the U.S. 2024, by sector](https://www.statista.com/statistics/1376540/lobbying-expenditure-on-health-sector-by-sector-in-the-us/)
+3. [Health lobby spending surged at end of 2024](https://www.axios.com/pro/health-care-policy/2025/01/22/health-lobbying-spending-2024)
+4. [Record-breaking $4.4 billion spent on lobbying efforts in 2024](https://www.tucsonsentinel.com/nationworld/report/021325_lobbying_record/)
 
 ## Systematic assault on judicial independence begins
 *Date: 2025-01-01*
@@ -18098,6 +18560,13 @@
 2. [Donald Trump Jr. co-founds new private members club, Executive Branch, with a $500,000 fee](https://www.cnbc.com/2025/04/28/donald-trump-jr-private-members-club-executive-branch.html)
 3. [American CEOs are worried about Trump's chaotic new tariffs](https://www.npr.org/2025/03/14/nx-s1-5327534/trump-ceos-tariffs-economy-recession)
 
+## DOJ Sues Aetna, Humana, Elevance for Paying Illegal Medicare Advantage Kickbacks and Discriminating Against Disabled Beneficiaries
+*Date: 2025-05-01*
+
+1. [The United States Files False Claims Act Complaint Against Three National Health Insurance Companies and Three Brokers](https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-three-national-health-insurance)
+2. [Justice Department hits Aetna, Humana, Elevance Health with Medicare Advantage kickback complaint](https://www.fiercehealthcare.com/payers/doj-hits-aetna-humana-elevance-health-medicare-advantage-kickbacks-complaint)
+3. [DOJ sues Humana, Aetna, Elevance, and brokers over alleged Medicare Advantage kickbacks](https://www.healthcare-brew.com/stories/2025/05/02/doj-sues-humana-aetna-elevance-brokers-alleged-medicare-advantage-kickbacks)
+
 ## 100,000+ emails from Israeli Defense Minister Barak hacked, revealing Epstein partnership and global surveillance technology network
 *Date: 2025-05-01*
 
@@ -19728,6 +20197,13 @@
 2. [FCC approves Paramount Skydance merger after concessions](https://www.npr.org/2025/07/24/nx-s1-5477530/paramount-cbs-skydance-sale-fcc-approves)
 3. [FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges](https://variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/)
 4. [FCC Commissioner Slams Paramount's New 'Truth Arbiter' for the Trump Regime](https://gizmodo.com/fcc-commissioner-slams-paramounts-new-truth-arbiter-for-the-trump-regime-2000640818)
+
+## UnitedHealth Confirms DOJ Criminal and Civil Investigation for Medicare Advantage Upcoding Fraud
+*Date: 2025-07-24*
+
+1. [UnitedHealth confirms federal investigation into its Medicare practices](https://www.cnn.com/2025/07/24/business/unitedhealth-investigation-doj)
+2. [UnitedHealth facing DOJ investigation over Medicare billing](https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html)
+3. [DOJ's UnitedHealth investigation likely biggest Medicare Advantage fraud probe yet](https://www.startribune.com/dojs-unitedhealth-investigation-likely-biggest-medicare-advantage-fraud-probe-yet/601442980)
 
 ## Texas Legislature passes redistricting without Democrats present
 *Date: 2025-07-25*
