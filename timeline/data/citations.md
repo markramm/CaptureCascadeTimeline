@@ -4966,6 +4966,13 @@
 2. [White House confirms deal with pharma](https://www.nytimes.com/2009/08/06/health/policy/06drug.html)
 3. [The $80 Billion Drug Deal That Haunts Obama's Legacy](https://www.politico.com/story/2016/07/obamacare-prescription-drugs-pharma-225444)
 
+## Koch Network Mobilizes to Kill Waxman-Markey Cap-and-Trade Climate Bill
+*Date: 2009-06-26*
+
+1. [How David Koch Changed the World](https://newrepublic.com/article/154836/david-koch-changed-world)
+2. [It's Time for Charles Koch to Testify About His Climate Change Disinformation Campaign](https://blog.ucs.org/elliott-negin/its-time-for-charles-koch-to-testify-about-his-climate-change-disinformation-campaign/)
+3. [Time to Wake Up - Dark Money and Climate Denial](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-dark-money-and-climate-denial/)
+
 ## In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
 *Date: 2009-07-01*
 
@@ -5336,6 +5343,14 @@
 1. [FCC Releases Open Internet Order](https://www.fcc.gov/document/fcc-releases-open-internet-order)
 2. [Federal Communications Commission Open Internet Order (2010)](https://en.wikipedia.org/wiki/Federal_Communications_Commission_Open_Internet_Order_(2010))
 3. [How the FCC Open Internet Rules Are Evolving](https://rollcall.com/2014/09/30/how-the-fcc-open-internet-rules-are-evolving/)
+
+## Donors Trust Becomes Primary Climate Denial Dark Money Conduit
+*Date: 2010-12-31*
+
+1. [Dark Money Funds Climate Change Denial Effort](https://www.scientificamerican.com/article/dark-money-funds-climate-change-denial-effort/)
+2. [Time to Wake Up - Dark Money and Climate Denial](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-dark-money-and-climate-denial/)
+3. [Secret Climate Denial Finance](http://www.polluterwatch.com/blog/secret-climate-denial-finance-koch-and-others-hide-tens-millions-through-donors-trust-donors-ca)
+4. [Exclusive - Major Climate Denial Funders Handled $479 Million Of Dark Money](https://www.desmog.com/2015/05/12/exclusive-major-climate-science-denial-funders-donors-trust-and-donors-capital-fund-handled-479-million-untraceable/)
 
 ## ALEC Grants Corporate Lobbyists 'Equal Vote' on Model Legislation for State Legislatures
 *Date: 2011-01-01*
@@ -6887,12 +6902,27 @@
 3. [Exxon - The Road Not Taken](https://awards.journalists.org/entries/exxon-road-not-taken/)
 4. [Ten years since the world learned #ExxonKnew, accountability marches forward](https://climateintegrity.org/news/view/ten-years-since-the-world-learned-exxonknew-accountability-marches-forward)
 
+## EPA Exposes Volkswagen Dieselgate: 11 Million Cars with Emissions Defeat Devices
+*Date: 2015-09-18*
+
+1. [Learn About Volkswagen Violations](https://www.epa.gov/vw/learn-about-volkswagen-violations)
+2. [Regulatory Capture and Dieselgate](https://labgov.city/theurbanmedialab/regulatory-capture-and-dieselgate-how-u-s-and-eu-emissions-oversight-enabled-the-volkswagen-scandal/)
+3. [The Origins and Outcomes of the Volkswagen Emissions Scandal](https://www.theregreview.org/2016/03/15/cramer-origins-outcomes-volkswagen-emissions-scandal/)
+4. [Volkswagen to Spend Up to $14.7 Billion to Settle Allegations](https://www.justice.gov/archives/opa/pr/volkswagen-spend-147-billion-settle-allegations-cheating-emissions-tests-and-deceiving)
+
 ## Daily Wire launches; multiple outlets report seed funding from Farris Wilks
 *Date: 2015-09-21*
 
 1. [The rightwing disinformation machine and the billionaires behind it](https://www.theguardian.com/us-news/2023/feb/10/rightwing-disinformation-machine-daily-wire-prageru-wilks)
 2. [How fracking billionaires built a climate denial empire—and bankrolled Ben Shapiro](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/)
 3. [Ben Shapiro describes Daily Wire seed funding (video)](https://www.facebook.com/officialbenshapiro/videos/10156559228760683/)
+
+## Martin Shkreli Raises Daraprim Price by 5,000%, From $13.50 to $750 Per Pill
+*Date: 2015-09-21*
+
+1. [Daraprim and Predatory Pricing: Martin Shkreli's 5000% Hike](https://law.stanford.edu/2015/10/05/daraprim-and-drug-pricing/)
+2. ['Pharma Bro' Martin Shkreli ordered to pay $64 million for hiking cost of lifesaving drug](https://abcnews.go.com/US/pharma-bro-martin-shkreli-ordered-pay-64-million/story?id=82272398)
+3. [High Drug Prices Sparked Outrage But Little Action](https://www.npr.org/sections/health-shots/2019/12/31/792617538/a-decade-marked-by-outrage-over-drug-prices)
 
 ## Dr. Mona Hanna-Attisha Reveals Elevated Blood Lead Levels in Flint Children
 *Date: 2015-09-24*
@@ -6915,6 +6945,13 @@
 2. [Kunduz Hospital Airstrike](https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike)
 3. [MSF Calls for Independent Investigation into Kunduz Attack](https://www.msf.org/msf-calls-independent-investigation-kunduz-attack)
 4. [US Military Investigation into Kunduz Hospital Attack](https://www.hrw.org/news/2016/04/29/us-kunduz-attack-questions-remain-unanswered)
+
+## Wall Street Journal Exposes Theranos Blood-Testing Fraud in Landmark Investigation
+*Date: 2015-10-15*
+
+1. [Elizabeth Holmes and the Theranos Case: History of a Fraud Scandal](https://www.integrityline.com/expertise/blog/elizabeth-holmes-theranos/)
+2. [How Theranos' faulty blood tests got to market and what that shows about gaps in FDA regulation](https://theconversation.com/how-theranos-faulty-blood-tests-got-to-market-and-what-that-shows-about-gaps-in-fda-regulation-168050)
+3. [Theranos Experience Exposes Weaknesses in FDA Regulatory Discretion](https://accp1.onlinelibrary.wiley.com/doi/full/10.1002/cpdd.374)
 
 ## Flint Switches Back to Detroit Water After 18 Months—But Damage to Children Is Permanent
 *Date: 2015-10-16*
@@ -7261,6 +7298,13 @@
 2. [Trump Tower meeting: At least eight people in room](https://www.cnn.com/2017/07/14/politics/donald-trump-jr-meeting/index.html)
 3. [Trump dictated son's misleading statement on meeting with Russian lawyer](https://www.washingtonpost.com/politics/trump-dictated-sons-misleading-statement-on-meeting-with-russian-lawyer/2017/07/31/04c94f96-73ae-11e7-8f39-eeb7d3a2d304_story.html)
 
+## Walgreens Terminates Theranos Partnership After 31,000 Customers Receive Voided Test Results
+*Date: 2016-06-12*
+
+1. [Theranos](https://en.wikipedia.org/wiki/Theranos)
+2. [Theranos has settled its lawsuit with Walgreens](https://techcrunch.com/2017/08/01/theranos-has-settled-its-lawsuit-with-walgreens/)
+3. [How Safeway and Walgreens fell for the Theranos pipe dream](https://qz.com/2074304/how-safeway-and-walgreens-fell-for-the-theranos-pipe-dream)
+
 ## Guccifer 2.0 (Russian GRU) Begins Leaking Stolen DNC Emails Hours After Hack Exposure
 *Date: 2016-06-15*
 
@@ -7379,6 +7423,13 @@
 3. [The confusing timeline on Roger Stone's communications with WikiLeaks](https://www.washingtonpost.com/news/politics/wp/2018/03/13/the-confusing-timeline-on-roger-stones-communications-with-wikileaks/)
 4. [Misrepresenting Stone's Prescience](https://www.factcheck.org/2017/03/misrepresenting-stones-prescience/)
 
+## Mylan EpiPen Price Increases 550% in Nine Years, CEO Heather Bresch Testifies Before Congress
+*Date: 2016-08-24*
+
+1. [EpiPen price hike controversy - Mylan CEO Heather Bresch speaks out](https://www.cbsnews.com/news/epipen-price-hike-controversy-mylan-ceo-heather-bresch-speaks-out/)
+2. [Congressional Committee Questions Mylan CEO Over EpiPen Controversy](https://www.pharmtech.com/view/congressional-committee-questions-mylan-ceo-over-epipen-controversy)
+3. [Reviewing the Rising Price of EpiPens](https://oversight.house.gov/hearing/reviewing-rising-price-epipens-2/)
+
 ## Apollo Global Management Acquires Constellis Holdings (Blackwater Successor) for Approximately $1 Billion
 *Date: 2016-09-01*
 
@@ -7393,6 +7444,13 @@
 2. [Facebook employees embedded in Trump campaign digital media operation](https://archive.thinkprogress.org/facebook-embeds-trump-campaign-70217364e82d/)
 3. [Facebook and Cambridge Analytica worked side by side at Trump campaign office](https://qz.com/1233579/facebook-and-cambridge-analytica-worked-side-by-side-at-a-trump-campaign-office-in-san-antonio)
 4. [How I helped get Trump elected: Brad Parscale](https://www.cnbc.com/2017/11/08/how-i-helped-get-trump-elected-the-presidents-digital-guru-brad-parscale.html)
+
+## Standing Rock: Private Security and Police Attack Dakota Access Pipeline Water Protectors
+*Date: 2016-09-03*
+
+1. [Standing Rock protests](https://www.britannica.com/event/Standing-Rock-protests)
+2. [Key Moments In The Dakota Access Pipeline Fight](https://www.npr.org/sections/thetwo-way/2017/02/22/514988040/key-moments-in-the-dakota-access-pipeline-fight)
+3. [Stand with Standing Rock](https://www.aclu.org/campaigns-initiatives/stand-with-standing-rock)
 
 ## ITT Tech Closes All 130 Campuses - 35,000 Students Stranded With Worthless Degrees and Non-Dischargeable Debt
 *Date: 2016-09-06*
@@ -7708,6 +7766,13 @@
 2. [2017 is Right-to-Works Watershed Year](https://alec.org/article/2017-is-right-to-works-watershed-year/)
 3. [Right to Work - SourceWatch](https://www.sourcewatch.org/index.php?title=Right_to_Work)
 
+## Eli Lilly, Novo Nordisk, and Sanofi Sued for Insulin Price-Fixing Conspiracy as Prices Rise 300%+
+*Date: 2017-01-10*
+
+1. [Klobuchar Presses Three Pharmaceutical Companies for Action on High Insulin Prices](https://www.klobuchar.senate.gov/public/index.cfm/2017/7/klobuchar-presses-three-pharmaceutical-companies-for-action-on-high-insulin-prices-urges-vigilance-against-anticompetitive-conduct)
+2. [Insulin Price Increases Driven by Collusion Between Major Drug Cos](https://topclassactions.com/lawsuit-settlements/prescription/insulin-price-increases-driven-by-collusion-between-major-drug-cos-claims-class-action-lawsuit/)
+3. [Sanofi, Lilly, Novo and a trio of PBMs face racketeering claims over pricey insulin drugs](https://www.fiercepharma.com/pharma/sanofi-lilly-and-novo-plus-trio-pbms-face-racketeering-claims-over-pricey-insulin-drugs)
+
 ## Rex Tillerson Confirmation Hearing Reveals ExxonMobil-Russia Conflicts and Sanctions Violations
 *Date: 2017-01-11*
 
@@ -7797,6 +7862,14 @@
 1. [Biography of Former Chairman Ajit Pai](https://www.fcc.gov/biography-former-chairman-ajit-pai)
 2. [FCC Chairman Under Trump Is Ajit Pai, Critic Of Net Neutrality Rules](https://www.npr.org/sections/thetwo-way/2017/01/23/510844936/trumps-telecom-chief-is-ajit-pai-critic-of-net-neutrality-rules)
 3. [Ajit Pai named as new FCC chairman](https://money.cnn.com/2017/01/23/technology/trump-fcc-chairman/)
+
+## Trump Reverses Dakota Access Pipeline Denial, Orders Expedited Approval
+*Date: 2017-01-24*
+
+1. [Key Moments In The Dakota Access Pipeline Fight](https://www.npr.org/sections/thetwo-way/2017/02/22/514988040/key-moments-in-the-dakota-access-pipeline-fight)
+2. [Donald Trump's stock in Dakota Access oil pipeline raises concerns](https://www.cbsnews.com/news/donald-trumps-stock-in-dakota-access-oil-pipeline-raises-concerns/)
+3. [President Trump Signs Executive Order Pushing Energy Transfer Partners' Dakota Pipeline](https://www.dallasobserver.com/news/president-trump-signs-executive-order-pushing-energy-transfer-partners-dakota-pipeline-9116038)
+4. [The Dakota Access Pipeline (DAPL)](https://eelp.law.harvard.edu/tracker/dakota-access-pipeline/)
 
 ## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
 *Date: 2017-01-27*
@@ -8174,6 +8247,13 @@
 
 1. [Trump Interview With Lester Holt: President Asked Comey If He Was Under Investigation](https://www.nbcnews.com/news/us-news/trump-reveals-he-asked-comey-whether-he-was-under-investigation-n757821)
 
+## Equifax Data Breach Exposes 147 Million Americans Due to Unpatched Apache Struts Vulnerability
+*Date: 2017-05-13*
+
+1. [Equifax Releases Details on Cybersecurity Incident](https://investor.equifax.com/news-events/press-releases/detail/237/equifax-releases-details-on-cybersecurity-incident)
+2. [Equifax data breach FAQ: What happened, who was affected, what was the impact?](https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html)
+3. [Apache Software Foundation Confirms Equifax Data Breach Due to Failure to Install Patches](https://news.apache.org/foundation/entry/media-alert-the-apache-software)
+
 ## FCC Begins Investigation into Massive Fake Comments Campaign on Net Neutrality Repeal
 *Date: 2017-05-15*
 
@@ -8289,6 +8369,13 @@
 3. [Pentagon nominee Esper, a former Raytheon lobbyist, must extend recusal, says Warren](https://www.defensenews.com/congress/2019/07/15/pentagon-nominee-esper-a-former-raytheon-lobbyist-must-extend-recusal/)
 4. [Mark Esper is the new defense secretary and a former Raytheon lobbyist](https://slate.com/news-and-politics/2019/07/mark-esper-defense-secretary-raytheon-lobbyist.html)
 
+## Equifax Executives Sell $1.8 Million in Stock Days After Discovering Massive Data Breach
+*Date: 2017-08-01*
+
+1. [3 Equifax Executives Sold Stock Days After Hack That Wasn't Disclosed For A Month](https://www.npr.org/sections/thetwo-way/2017/09/08/549434187/3-equifax-executives-sold-stock-days-after-hack-that-wasnt-disclosed-for-a-month)
+2. [Equifax data breach FAQ: What happened, who was affected, what was the impact?](https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html)
+3. [EPIC - Equifax Data Breach](https://archive.epic.org/privacy/data-breach/equifax/)
+
 ## Flock Safety Founded to Deploy Automated License Plate Surveillance in Neighborhoods
 *Date: 2017-08-01*
 
@@ -8373,6 +8460,13 @@
 2. [238 Cities Bid for Amazon HQ2](https://www.govtech.com/biz/238-cities-bid-for-amazon-hq2.html)
 3. [Amazon HQ2: How did we get here? What comes next?](https://www.brookings.edu/articles/amazon-hq2-how-did-we-get-here-what-comes-next/)
 4. [The HQ2 Scam: How Amazon Used a Bidding War to Scrape Cities' Data](https://inthesetimes.com/article/the-hq2-scam-how-amazon-used-a-bidding-war-to-scrape-cities-data)
+
+## Equifax Finally Discloses Breach 40 Days After Discovery, Exposing Regulatory Capture
+*Date: 2017-09-07*
+
+1. [Equifax Announces Cybersecurity Incident Involving Consumer Information](https://investor.equifax.com/news-events/press-releases/detail/240/equifax-announces-cybersecurity-incident-involving-consumer)
+2. [EPIC - Equifax Data Breach](https://archive.epic.org/privacy/data-breach/equifax/)
+3. [Equifax Data Breach Case Study: Causes and Aftermath](https://www.breachsense.com/blog/equifax-data-breach/)
 
 ## Treasury Secretary Mnuchin Requested Military Jet for European Honeymoon, Request Denied After Scrutiny
 *Date: 2017-09-13*
@@ -8621,6 +8715,13 @@
 1. [Federal Reserve Restricts Wells Fargo Growth Until Firm Improves Governance and Controls](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20180202a.htm)
 2. [Fed Restricts Wells Fargo Growth in Unprecedented Punishment](https://www.cnbc.com/2018/02/02/wells-fargo-fed-asset-cap.html)
 3. [Federal Reserve Caps Wells Fargo's Growth](https://www.npr.org/2018/02/02/582767388/federal-reserve-caps-wells-fargos-growth)
+
+## Trump's CFPB Director Mick Mulvaney Shuts Down Equifax Investigation, Exposing Regulatory Capture
+*Date: 2018-02-05*
+
+1. [Report: CFPB's Equifax Probe Stalls as Mulvaney Defangs Watchdog](https://www.usnews.com/news/economy/articles/2018-02-05/report-cfpbs-equifax-probe-stalls-as-mulvaney-defangs-watchdog)
+2. [Mulvaney puts brakes on Equifax probe: Reuters](https://thehill.com/policy/finance/372308-mulvaney-puts-brakes-on-equifax-probe-reuters/)
+3. [Sen. Warner Demands Answers on Stalled CFPB Investigation Into Equifax Breach](https://www.warner.senate.gov/public/index.cfm/2018/2/sen-warner-demands-answers-on-stalled-cfpb-investigation-into-equifax-breach)
 
 ## Mueller Indicts 13 Russians and Internet Research Agency for Election Interference
 *Date: 2018-02-16*
@@ -10675,6 +10776,13 @@
 2. [Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op](https://www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials)
 3. [Top General Apologizes For Role In Trump's Photo During Protests](https://www.npr.org/2020/06/11/875047527/top-general-apologizes-for-role-in-trumps-photo-during-protests)
 
+## Federal Government Awards Billions in No-Bid COVID PPE Contracts, Often to Politically Connected Companies
+*Date: 2020-06-09*
+
+1. [Feds Spend Billions On COVID-19 Contracts, Often Without Fully Competitive Bidding](https://www.npr.org/2020/06/09/869052415/feds-spend-billions-on-covid-19-contracts-often-without-fully-competitive-biddin)
+2. [U.S. Attorney's Office Prosecutes COVID-19 Fraud and Price-Gouging of Personal Protective Equipment](https://www.justice.gov/usao-nj/pr/us-attorney-s-office-prosecutes-covid-19-fraud-and-price-gouging-personal-protective)
+3. [Congress Is Investigating Contracts Tied To Mask And PPE Shortages](https://www.npr.org/2020/07/15/891122225/congress-is-investigating-contracts-tied-to-mask-and-ppe-shortages)
+
 ## FBI Expands Dataminr Contract During George Floyd Protests for Social Media Surveillance of Demonstrations
 *Date: 2020-06-09*
 
@@ -10777,6 +10885,13 @@
 1. [Trump admin ignored risk to civilians in Saudi arms deal](https://www.nbcnews.com/politics/politics-news/trump-admin-failed-assess-risk-civilians-saudi-arms-deal-government-n1236457)
 2. [Pompeo's Arms Sales to Saudi Arabia Were Legal—but Heightened Risks of Civilian Casualties in Yemen](https://foreignpolicy.com/2020/08/11/trump-gulf-pompeo-arms-sales-saudi-arabia-civilian-casualties-yemen-state-department/)
 3. [Pompeo ordered officials to reverse-engineer a reason for Saudi arms sale](https://www.middleeasteye.net/news/pompeo-ordered-officials-reverse-engineer-justification-8bn-emergency-saudi-arms-sale-report)
+
+## Epic Games Sues Apple Over App Store Monopoly and 30% Commission Tax on Developers
+*Date: 2020-08-13*
+
+1. [Epic Games Apple lawsuit filing](https://www.documentcloud.org/documents/7039937-Epic-Games-v-Apple-Complaint.html)
+2. [Epic Games vs Apple - The continuing App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far)
+3. [Epic Games v. Apple](https://en.wikipedia.org/wiki/Epic_Games_v._Apple)
 
 ## Trump Explicitly Admits Blocking USPS Funding to Restrict Mail Voting
 *Date: 2020-08-13*
@@ -11181,6 +11296,13 @@
 1. [Trump pardons Manafort, Stone and Charles Kushner](https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html)
 2. [Trump pardons Blackwater contractors convicted of massacre](https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians)
 3. [Steve Bannon charged with fraud over border wall fundraising](https://www.bbc.com/news/world-us-canada-53853297)
+
+## No Surprises Act Bans Surprise Medical Billing After Years of Private Equity Industry Obstruction
+*Date: 2020-12-27*
+
+1. [Profiting on all sides - Private equity and the No Surprises Act](https://pestakeholder.org/news/profiting-on-all-sides-private-equity-and-the-no-surprises-act/)
+2. [No Surprises - Understand your rights against surprise medical bills](https://www.cms.gov/newsroom/fact-sheets/no-surprises-understand-your-rights-against-surprise-medical-bills)
+3. [ER staffing firms keep the claims flowing even after federal ban on surprise bills](https://wpln.org/post/er-staffing-firms-keep-the-surprise-bills-flowing-in-tennessee-even-after-federal-ban/)
 
 ## Trump tells acting AG "just say the election was corrupt and leave the rest to me"
 *Date: 2020-12-27*
@@ -11840,6 +11962,13 @@
 1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
+## Pfizer Reports $22 Billion Profit on COVID-19 Vaccine, One of Most Profitable Drugs in History
+*Date: 2021-11-02*
+
+1. [Pfizer revenue and profits soar on its Covid vaccine business](https://www.cnn.com/2021/11/02/business/pfizer-earnings/index.html)
+2. [Pfizer's 2021 profits doubled to $22 bn on strong Covid vaccine sales](https://www.france24.com/en/live-news/20220208-pfizer-s-2021-profits-doubled-to-22-bn-on-strong-covid-vaccine-sales)
+3. [How Pfizer Won the Pandemic, Reaping Outsize Profit and Influence](https://kffhealthnews.org/news/article/pfizer-pandemic-vaccine-market-paxlovid-outsize-profit-influence/)
+
 ## US Commerce Department Adds Candiru and NSO Group to Entity List
 *Date: 2021-11-03*
 
@@ -11887,6 +12016,13 @@
 2. [OSHA opens investigation after Amazon warehouse collapses during tornado, killing 6](https://www.pbs.org/newshour/economy/osha-opens-investigation-after-amazon-warehouse-collapses-during-tornado-killing-6)
 3. [Edwardsville Amazon warehouse collapse](https://en.wikipedia.org/wiki/Edwardsville_Amazon_warehouse_collapse)
 4. [Disaster training, fear of cellphone ban raise alarms after Amazon warehouse collapse](https://www.nbcnews.com/business/business-news/amazon-worker-deaths-tornados-raise-questions-tornado-training-cellpho-rcna8570)
+
+## Harvard Study Finds Private Equity Hospital Takeovers Increase Emergency Room Deaths by 10%
+*Date: 2021-12-15*
+
+1. [Deaths Rose in Emergency Rooms After Hospitals Were Acquired by Private Equity Firms](https://hms.harvard.edu/news/deaths-rose-emergency-rooms-after-hospitals-were-acquired-private-equity-firms)
+2. [Hospital Staffing and Patient Outcomes After Private Equity Acquisition](https://www.acpjournals.org/doi/10.7326/ANNALS-24-03471)
+3. [Private equity hospitals have fewer staff in emergency rooms, and more deaths, study finds](https://www.chiefhealthcareexecutive.com/view/private-equity-hospitals-have-fewer-staff-in-emergency-rooms-and-more-deaths-study-finds)
 
 ## Federal Judge Overturns Sackler Immunity Deal, Rules Bankruptcy Law Violated
 *Date: 2021-12-16*
@@ -11953,6 +12089,13 @@
 1. [Corporate Union Busting in Plain Sight: Amazon, Starbucks, and Trader Joes](https://www.epi.org/publication/corporate-union-busting/)
 2. [NEWS: HELP Majority Staff Report on Starbucks](https://www.help.senate.gov/dem/newsroom/press/news-help-majority-staff-report-on-starbucks)
 3. [NLRB Has Filed Repeated Charges Against Starbucks for Illegal Union Busting](https://jacobin.com/2022/12/starbucks-workers-united-illegal-union-busting-nlrb-union-organizing)
+
+## Theranos Founder Elizabeth Holmes Convicted of Defrauding Investors in $9 Billion Fraud Scheme
+*Date: 2022-01-03*
+
+1. [U.S. v. Elizabeth Holmes, et al.](https://www.justice.gov/usao-ndca/us-v-elizabeth-holmes-et-al)
+2. [Former Theranos CEO Elizabeth Holmes to be sentenced on Sept. 26](https://www.npr.org/2022/01/12/1072612059/former-theranos-ceo-elizabeth-holmes-to-be-sentenced-on-sept-26)
+3. [Theranos founder Elizabeth Holmes convicted on 4 counts of fraud](https://abcnews.go.com/US/elizabeth-holmes-trial-jury-unable-unanimous-verdict-counts/story?id=82055043)
 
 ## Virginia Giuffre Lawsuit Against Prince Andrew Proceeds Despite Sealed Settlement Documents
 *Date: 2022-01-03*
@@ -12371,12 +12514,26 @@
 3. [What to Know About the Adult Survivors Act, New York's New Law Allowing Civil Suits Over Past Sexual Abuse](https://www.gothamgazette.com/state/11706-adult-survivors-act-new-york-law-civil-suits-sexual-abuse)
 4. [E Jean Carroll files civil lawsuit against Donald Trump as New York Adult Survivors Act opens window](https://abc7chicago.com/post/e-jean-carroll-donald-trump-new-york-adult-survivors-act-sexual-assault/12489838/)
 
+## FTX Cryptocurrency Exchange Collapses in $32 Billion Fraud, Exposing Crypto Regulation Failure
+*Date: 2022-11-11*
+
+1. [A timeline of cryptocurrency exchange FTX's historic collapse](https://abcnews.go.com/Business/timeline-cryptocurrency-exchange-ftxs-historic-collapse/story?id=93337035)
+2. [Sam Bankman-Fried donated over $40 million in the 2022 election cycle. Where did it go?](https://www.cbsnews.com/news/ftx-sam-bankman-fried-political-donations-2022/)
+3. [Bankruptcy of FTX](https://en.wikipedia.org/wiki/Bankruptcy_of_FTX)
+
 ## Global Civil Society Develops Standardized Resistance Documentation Protocol
 *Date: 2022-11-15*
 
 1. [Amnesty International Report 2022/23: Global Human Rights Overview](https://www.amnesty.org/en/documents/pol10/5670/2023/en/)
 2. [Civil Society Workshop on Human Rights and Counter-Terrorism](https://www.ohchr.org/en/events/events/2022/civil-society-workshop-advance-high-level-international-conference-human-rights)
 3. [Country Reports on Human Rights Practices - 2022](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/)
+
+## Elizabeth Holmes Sentenced to 11 Years in Prison for Theranos Fraud, Exposing Regulatory Failures
+*Date: 2022-11-18*
+
+1. [Elizabeth Holmes Sentenced To More Than 11 Years For Defrauding Theranos Investors Of Hundreds Of Millions](https://www.justice.gov/usao-ndca/pr/elizabeth-holmes-sentenced-more-11-years-defrauding-theranos-investors-hundreds)
+2. [Theranos founder Elizabeth Holmes sentenced to more than 11 years in prison](https://www.cnbc.com/2022/11/18/former-theranos-ceo-elizabeth-holmes-sentenced-to-more-than-11-years-in-prison.html)
+3. [Theranos founder Elizabeth Holmes sentenced to just over 11 years in prison](https://abcnews.go.com/Business/theranos-founder-elizabeth-holmes-sentenced-conviction-fraud/story?id=93055911)
 
 ## Jack Smith appointed Special Counsel to investigate Trump
 *Date: 2022-11-18*
@@ -12421,6 +12578,13 @@
 1. [Twitter Files reveal systematic government coordination on content moderation](https://www.npr.org/2022/12/14/1142666067/elon-musk-is-using-the-twitter-files-to-discredit-foes-and-push-conspiracy-theor)
 2. [Twitter Files: Internal documents expose government platform coordination](https://en.wikipedia.org/wiki/Twitter_Files)
 3. [Court ruling finds government likely coerced platforms on content moderation](https://restofworld.org/2023/elon-musk-twitter-government-orders/)
+
+## FTX Founder Sam Bankman-Fried Arrested, Charged with Campaign Finance Violations and $8 Billion Fraud
+*Date: 2022-12-12*
+
+1. [Sam Bankman-Fried diverted FTX customer funds to donate to political campaigns, authorities charge](https://www.cnbc.com/2022/12/13/ftx-founder-sam-bankman-fried-charged-with-campaign-finance-violations-in-criminal-indictment.html)
+2. [Sam Bankman-Fried donated over $40 million in the 2022 election cycle. Where did it go?](https://www.cbsnews.com/news/ftx-sam-bankman-fried-political-donations-2022/)
+3. [Sam Bankman-Fried's Political Donations: What We Know](https://time.com/6241262/sam-bankman-fried-political-donations/)
 
 ## Global Indigenous Democracy and Governance Summit
 *Date: 2022-12-15*
@@ -12546,6 +12710,14 @@
 2. [U.S. sues Google for allegedly breaking antitrust laws with its ad business](https://www.npr.org/2023/01/24/1151055903/doj-files-second-antitrust-suit-against-google-seeks-to-break-up-its-ad-business)
 3. [United States v. Google LLC (2023) - Ad Tech Case](https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023))
 4. [The U.S. DoJ's Antitrust Effort to Break Up Google](https://competitionlawblog.kluwercompetitionlaw.com/2023/02/28/the-u-s-dojs-antitrust-effort-to-break-up-google/)
+
+## East Palestine Train Derailment: Norfolk Southern Hazardous Chemical Disaster
+*Date: 2023-02-03*
+
+1. [Failed Wheel Bearing Caused Norfolk Southern Train Derailment in East Palestine, Ohio](https://www.ntsb.gov/news/press-releases/Pages/NR20240625.aspx)
+2. [East Palestine, Ohio Train Derailment](https://www.epa.gov/east-palestine-oh-train-derailment)
+3. [Rail Companies Blocked Safety Rules Before Ohio Derailment](https://www.levernews.com/rail-companies-blocked-safety-rules-before-ohio-derailment/)
+4. [Railroad Corporations Are Blocking Safety Regulations to Protect Profits](https://jacobin.com/2023/02/rail-companies-safety-rules-ohio-derailment-brake-sytems-regulations)
 
 ## DOJ Arrests Guo Wengui in Landmark $1 Billion Fraud Conspiracy
 *Date: 2023-03-15*
@@ -12936,6 +13108,13 @@
 3. [Missouri Attorney General Obtains Court Order Blocking Biden Administration](https://ago.mo.gov/home/news/2023/07/05/missouri-attorney-general-andrew-bailey-obtains-court-order-blocking-the-biden-administration-from-violating-first-amendment)
 4. [Murthy v. Missouri (Formerly Missouri v. Biden)](https://www.brennancenter.org/our-work/court-cases/murthy-v-missouri-formerly-missouri-v-biden)
 
+## FTC Sues Amazon for Illegal Monopoly Maintenance Through Anti-Discounting and Seller Coercion
+*Date: 2023-09-26*
+
+1. [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
+2. [U.S. sues Amazon in a monopoly case that could be existential for the retail giant](https://www.npr.org/2023/09/26/1191099421/amazon-ftc-lawsuit-antitrust-monopoly)
+3. [Amazon loses effort to dodge federal antitrust charges](https://www.courthousenews.com/amazon-loses-effort-to-dodge-federal-antitrust-charges/)
+
 ## Russian RT Employees Begin Funneling Money Through Tenet Media to US Influencers
 *Date: 2023-10-01*
 
@@ -12956,6 +13135,13 @@
 
 1. [LAPD Surveilled Gaza Protests Using This Social Media Tool](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/)
 2. [LAPD used controversial social media tool to monitor Gaza protests - Report](https://san.com/cc/lapd-used-controversial-social-media-tool-to-monitor-gaza-protests-report/)
+
+## Sam Bankman-Fried Convicted on All Counts in 'One of the Biggest Financial Frauds in American History'
+*Date: 2023-11-02*
+
+1. [FTX founder Sam Bankman-Fried found guilty of all charges in 'one of the biggest financial frauds in American history'](https://fortune.com/crypto/2023/11/02/sam-bankman-fried-verdict-trial-ftx-fraud-jury-sdny/)
+2. [A timeline of cryptocurrency exchange FTX's historic collapse](https://abcnews.go.com/Business/timeline-cryptocurrency-exchange-ftxs-historic-collapse/story?id=93337035)
+3. [Sam Bankman-Fried](https://en.wikipedia.org/wiki/Sam_Bankman-Fried)
 
 ## xAI Launches Grok with Minimal Safety Guardrails
 *Date: 2023-11-04*
@@ -13345,6 +13531,13 @@
 3. [Elon Musk's xAI bags $200M Pentagon contract for Grok AI rollout](https://interestingengineering.com/culture/elon-musk-xai-grok-pentagon-contract)
 4. [Musk's xAI was a late addition to the Pentagon's set of $200 million AI contracts](https://www.nbcnews.com/tech/security/musk-xai-was-added-late-pentagon-grok-defense-department-rcna219488)
 
+## DOJ Sues Apple for iPhone Monopoly Maintained Through Ecosystem Lock-In and Developer Restrictions
+*Date: 2024-03-21*
+
+1. [Justice Department Sues Apple for Monopolizing Smartphone Markets](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets)
+2. [DOJ sues Apple over iPhone monopoly in landmark antitrust case](https://www.cnbc.com/amp/2024/03/21/doj-sues-apple-over-iphone-monopoly.html)
+3. [A look at the DOJ's lawsuit against Apple for violating antitrust laws](https://www.npr.org/2024/09/20/nx-s1-5119948/a-look-at-the-dojs-lawsuit-against-apple-for-violating-antitrust-laws)
+
 ## Irish Data Protection Commission Launches Grok AI Regulatory Investigation
 *Date: 2024-03-22*
 
@@ -13582,6 +13775,13 @@
 2. [Supreme Court blocks EPA's Good Neighbor air pollution rule](https://www.scotusblog.com/2024/06/supreme-court-blocks-epas-good-neighbor-air-pollution-rule/)
 3. [Supreme Court blocks EPA's "good neighbor" rule aimed at combating air pollution](https://www.cbsnews.com/news/supreme-court-epa-good-neighbor-rule/)
 
+## Supreme Court Rejects $6B Purdue Pharma Settlement Granting Sackler Family Immunity from Opioid Lawsuits
+*Date: 2024-06-27*
+
+1. [Purdue Pharma, Sacklers reach new $7.4 billion opioid settlement](https://www.npr.org/2025/06/16/nx-s1-5435318/purdue-pharma-sacklers-reach-new-7-4-billion-opioid-settlement)
+2. [Attorney General James Secures $7.4 Billion from Purdue Pharma and the Sackler Family](https://ag.ny.gov/press-release/2025/attorney-general-james-secures-74-billion-purdue-pharma-and-sackler-family)
+3. [Harrington v. Purdue Pharma L.P., 603 U.S. ___ (2024)](https://supreme.justia.com/cases/federal/us/603/23-124/)
+
 ## Supreme Court Rejects Sackler Immunity in 5-4 Decision, Blocks Bankruptcy Shield
 *Date: 2024-06-27*
 
@@ -13742,6 +13942,13 @@
 1. [Trump Brags About MAGA Takeover of Georgia Election Board](https://www.rollingstone.com/politics/politics-news/trump-brags-maga-takeover-georgia-election-board-1235073860/)
 2. [The Georgia State Election Board Controversy, Explained](https://www.gpb.org/news/2024/09/03/the-georgia-state-election-board-controversy-explained)
 3. [Georgia Election Board Member's Appearance at Trump Rally Sparks Debate Over Code of Conduct](https://www.wsbtv.com/news/local/atlanta/georgia-election-board-members-appearance-trump-rally-sparks-debate-over-code-conduct/S5WFEFGYSZDVBIFIGQZ4J62QSE/)
+
+## Federal Judge Rules Google is Illegal Monopolist in Landmark Search Antitrust Decision
+*Date: 2024-08-05*
+
+1. [United States v. Google LLC (2020) - Court Opinion](https://www.justice.gov/d9/2024-08/416906.pdf)
+2. [Judge finalizes remedies in Google antitrust case](https://www.cnbc.com/2025/12/05/judge-finalize-remedies-in-google-antitrust-case.html)
+3. [Google Illegally Maintains Search Monopoly, Judge Rules](https://variety.com/2024/digital/news/google-illegal-search-monopoly-judge-ruling-doj-1236096055/)
 
 ## Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio
 *Date: 2024-08-08*
@@ -17064,6 +17271,13 @@
 2. [Judge Declines to Block DOGE Access to Labor, Health, CFPB Data](https://news.bloomberglaw.com/us-law-week/judge-declines-to-block-doge-access-to-labor-health-cfpb-data)
 3. [Unions Expand Suit to Block Elon Musk from Accessing Private Data at DOL, HHS and CFPB](https://www.afscme.org/press/releases/2025/unions-expand-suit-to-block-elon-musk-from-accessing-private-data-at-dol-hhs-and-cfpb)
 4. [Labor and Economic Organizations Ask Judge to Stop DOGE Access to Three Federal Agencies](https://democracyforward.org/updates/labor-and-economic-organizations-ask-judge-to-stop-doge-access-to-three-federal-agencies/)
+
+## Judge Rules Google Operates Illegal Ad Tech Monopoly, Orders Divestiture of Ad Business
+*Date: 2025-04-17*
+
+1. [Department of Justice Prevails in Landmark Antitrust Case Against Google](https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google)
+2. [District Court Rules Google Is a Monopolist in Ad Tech](https://www.stblaw.com/about-us/publications/view/2025/04/25/district-court-rules-google-is-a-monopolist-in-ad-tech)
+3. [Google is monopolist in online advertising tech, judge rules](https://abcnews.go.com/Business/google-monopolist-online-advertising-tech-judge-rules/story?id=120910112)
 
 ## Mass Layoffs Hit Consumer Financial Protection Bureau, Judicial Intervention Emerges
 *Date: 2025-04-17*
@@ -21863,6 +22077,13 @@
 1. [House votes to approve release of the Epstein files](https://www.npr.org/2025/11/18/nx-s1-5611438/epstein-files-bill-house-vote)
 2. [Epstein files bill will head to Trump's desk after approval by House and Senate](https://www.cbsnews.com/live-updates/epstein-files-vote-2025/)
 3. [Epstein files bill passes resoundingly in House with only 1 no vote](https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181)
+
+## Meta Wins FTC Antitrust Case as Judge Rules No Monopoly Despite Instagram/WhatsApp Acquisitions
+*Date: 2025-11-18*
+
+1. [Meta wins FTC antitrust trial that focused on WhatsApp, Instagram](https://www.cnbc.com/2025/11/18/meta-wins-ftc-antitrust-trial-that-focused-on-whatsapp-instagram.html)
+2. [Judge sides with Meta in antitrust trial, will not spin off WhatsApp and Instagram](https://www.npr.org/2025/11/18/nx-s1-5495626/meta-ftc-instagram-whatsapp-antitrust-ruling)
+3. [Meta Wins FTC Antitrust Trial Over Instagram, WhatsApp Deals](https://news.bloomberglaw.com/antitrust/meta-wins-ftc-antitrust-trial-over-instagram-whatsapp-deals)
 
 ## Trump Administration Reinstates 'Public Charge' Rule: Immigrant Wealth Test Returns
 *Date: 2025-11-18*

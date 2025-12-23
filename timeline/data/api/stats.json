@@ -1,15 +1,15 @@
 {
-  "total_events": 3100,
-  "total_tags": 5424,
-  "total_actors": 5207,
-  "total_sources": 10339,
+  "total_events": 3131,
+  "total_tags": 5445,
+  "total_actors": 5259,
+  "total_sources": 10436,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-20"
   },
   "status_counts": {
-    "unknown": 926,
-    "confirmed": 2124,
+    "unknown": 937,
+    "confirmed": 2144,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -25,7 +25,7 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 403
+      "count": 434
     },
     {
       "name": "institutional-capture",
@@ -33,7 +33,7 @@
     },
     {
       "name": "corruption",
-      "count": 223
+      "count": 237
     },
     {
       "name": "kleptocracy",
@@ -67,15 +67,15 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1030
+      "count": 1032
     },
     {
       "name": "Trump Administration",
-      "count": 324
+      "count": 326
     },
     {
       "name": "Department of Justice",
-      "count": 198
+      "count": 203
     },
     {
       "name": "Elon Musk",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Heritage Foundation",
-      "count": 67
+      "count": 68
     },
     {
       "name": "Jeffrey Epstein",
@@ -106,5 +106,5 @@
       "count": 57
     }
   ],
-  "generated": "2025-12-22T19:58:02.906516"
+  "generated": "2025-12-23T01:44:27.802223"
 }
