@@ -37,7 +37,7 @@
   },
   {
     "name": "systematic-corruption",
-    "count": 89
+    "count": 90
   },
   {
     "name": "healthcare",
@@ -92,12 +92,12 @@
     "count": 60
   },
   {
-    "name": "obstruction-of-justice",
+    "name": "fraud",
     "count": 59
   },
   {
-    "name": "fraud",
-    "count": 58
+    "name": "obstruction-of-justice",
+    "count": 59
   },
   {
     "name": "doj",
@@ -388,6 +388,10 @@
     "count": 25
   },
   {
+    "name": "student-debt",
+    "count": 25
+  },
+  {
     "name": "sanctions",
     "count": 25
   },
@@ -405,10 +409,6 @@
   },
   {
     "name": "CNP",
-    "count": 24
-  },
-  {
-    "name": "student-debt",
     "count": 24
   },
   {
@@ -1224,6 +1224,10 @@
     "count": 11
   },
   {
+    "name": "predatory-lending",
+    "count": 11
+  },
+  {
     "name": "Trump University",
     "count": 11
   },
@@ -1357,10 +1361,6 @@
   },
   {
     "name": "media-coordination",
-    "count": 10
-  },
-  {
-    "name": "predatory-lending",
     "count": 10
   },
   {
@@ -3516,6 +3516,10 @@
     "count": 4
   },
   {
+    "name": "for-profit-education",
+    "count": 4
+  },
+  {
     "name": "vaccines",
     "count": 4
   },
@@ -4541,10 +4545,6 @@
   },
   {
     "name": "russian-investment",
-    "count": 3
-  },
-  {
-    "name": "for-profit-education",
     "count": 3
   },
   {
@@ -13545,6 +13545,14 @@
   },
   {
     "name": "Scott-Walker",
+    "count": 1
+  },
+  {
+    "name": "college-closure",
+    "count": 1
+  },
+  {
+    "name": "institutional-collapse",
     "count": 1
   },
   {

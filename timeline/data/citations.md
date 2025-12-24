@@ -7590,6 +7590,13 @@
 2. [Corinthian Colleges Files For Bankruptcy](https://www.npr.org/sections/ed/2015/04/27/402394471/corinthian-colleges-files-for-bankruptcy)
 3. [Corinthian Colleges shuts down, files for bankruptcy](https://www.cbsnews.com/news/corinthian-colleges-shuts-down-28-schools-files-for-bankruptcy/)
 
+## Corinthian Colleges Abruptly Closes All Remaining Campuses, Stranding 16,000 Students After Widespread Fraud Findings
+*Date: 2015-04-26*
+
+1. [The Collapse of Corinthian Colleges Shows the Huge Problem With For-Profit Colleges](https://www.mic.com/articles/116580/the-collapse-of-corinthian-colleges-shows-the-huge-problem-with-for-profit-colleges)
+2. [U.S. will forgive $5.8 billion of loans to Corinthian Colleges students](https://www.npr.org/2022/06/02/1101424651/corinthian-colleges-student-loan-forgiveness)
+3. [All Corinthian College Loans to Be Canceled](https://prospect.org/education/all-corinthian-college-loans-to-be-canceled/)
+
 ## Corinthian Colleges Files Bankruptcy After Federal Crackdown on For-Profit College Fraud
 *Date: 2015-04-27*
 
@@ -8326,6 +8333,13 @@
 2. [SEC charges executives at for-profit college ITT with fraud](https://www.washingtonpost.com/business/economy/sec-charges-executives-at-for-profit-college-itt-with-fraud/2015/05/12/d3bb5c24-f8c5-11e4-a13c-193b1241d51a_story.html)
 3. [The Closure of ITT Tech and the Crash-Landing of the For-Profit College Industry](https://www.masu.org/news/accountability/10-10-2016/closure-itt-tech-and-crash-landing-profit-college-industry)
 4. [Closure of for-profit tech college leaves students in the lurch, in debt](https://www.bostonglobe.com/metro/2016/10/20/closure-for-profit-tech-college-leaves-students-lurch-debt/ICKwmkrR0fCNBY8ySlAAwK/story.html)
+
+## ITT Technical Institute Shuts Down All 130 Campuses After SEC Fraud Charges and Federal Aid Cutoff, Stranding 35,000 Students
+*Date: 2016-09-06*
+
+1. [What Former Employees Say ITT Tech Did To Scam Its Students](https://www.npr.org/sections/ed/2016/12/07/502601724/what-former-employees-say-itt-tech-did-to-scam-its-students)
+2. [ITT's top executives settle fraud charges with SEC](https://www.chicagotribune.com/business/ct-biz-itt-tech-fraud-charges-settlement-20180709-story.html)
+3. [ITT Technical Institute](https://en.wikipedia.org/wiki/ITT_Technical_Institute)
 
 ## ITT Tech Closes All 130 Campuses - 35,000 Students Stranded With Worthless Degrees and Non-Dischargeable Debt
 *Date: 2016-09-06*
@@ -11156,6 +11170,13 @@
 1. [Yemen - US-made bomb used in deadly air strike on civilians](https://www.amnesty.org/en/latest/press-release/2019/09/yemen-us-made-bomb-used-in-deadly-air-strike-on-civilians/)
 2. [Raytheon smart bombs linked to more alleged war crimes in Yemen](https://theferret.scot/raytheon-paveway-missiles-war-crimes-yemen/)
 3. [Raytheon Technologies Corp](https://investigate.afsc.org/company/raytheon)
+
+## Betsy DeVos Repeals Gainful Employment Rule, Eliminating All Accountability for For-Profit College Job Outcomes Despite $1.3 Billion Projected Cost to Taxpayers
+*Date: 2019-07-01*
+
+1. [Betsy DeVos's Shameful Repeal of the Gainful Employment Rule](https://tcf.org/content/commentary/betsy-devoss-shameful-repeal-gainful-employment-rule/)
+2. [Teachers Union Sues Betsy DeVos Over Student Borrower Protections](https://www.npr.org/2020/01/22/798128256/teachers-union-lawsuit-claims-devos-capriciously-repealed-borrower-protections)
+3. [DeVos proposes rollback of for-profit college rule](https://www.pbs.org/newshour/nation/devos-proposes-rollback-of-for-profit-college-rule)
 
 ## Clarence Thomas Takes 8-Day Indonesia Yacht Trip with Harlan Crow
 *Date: 2019-07-01*

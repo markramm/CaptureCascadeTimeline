@@ -1,15 +1,15 @@
 {
-  "total_events": 3360,
-  "total_tags": 5671,
-  "total_actors": 5731,
-  "total_sources": 11277,
+  "total_events": 3361,
+  "total_tags": 5673,
+  "total_actors": 5736,
+  "total_sources": 11280,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-20"
   },
   "status_counts": {
     "unknown": 1010,
-    "confirmed": 2288,
+    "confirmed": 2289,
     "validated": 31,
     "disputed": 2,
     "published": 12,
@@ -62,7 +62,7 @@
     },
     {
       "name": "systematic-corruption",
-      "count": 89
+      "count": 90
     }
   ],
   "top_actors": [
@@ -107,5 +107,5 @@
       "count": 60
     }
   ],
-  "generated": "2025-12-23T23:17:47.460801"
+  "generated": "2025-12-23T23:20:21.759458"
 }
