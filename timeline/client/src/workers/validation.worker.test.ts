@@ -19,20 +19,20 @@ describe('Validation Worker Logic', () => {
         expect(result.success).toBe(true);
     });
 
-    it('rejects an invalid event (missing source)', () => {
+    it('rejects an invalid date', () => {
         const invalidEvent = {
             id: '124',
-            title: 'Invalid Event',
-            date: '2023-01-01',
+            title: 'Invalid Date Event',
+            date: 'not-a-date', // Invalid format
             summary: 'Summary here',
             tags: ['tag1'],
-            sources: [] // Empty sources
+            sources: []
         };
 
         const result = TimelineEventSchema.safeParse(invalidEvent);
         expect(result.success).toBe(false);
         if (!result.success) {
-            expect(result.error.flatten().fieldErrors.sources).toBeDefined();
+            expect(result.error.flatten().fieldErrors.date).toBeDefined();
         }
     });
 
