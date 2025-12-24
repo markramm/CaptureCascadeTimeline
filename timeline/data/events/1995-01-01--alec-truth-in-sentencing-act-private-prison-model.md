@@ -1,0 +1,48 @@
+---
+id: 1995-01-01--alec-truth-in-sentencing-act-private-prison-model
+date: '1995-01-01'
+title: ALEC Criminal Justice Task Force Promotes Truth-in-Sentencing Model Legislation Written by Private Prison Industry
+importance: 9
+actors:
+- ALEC
+- Corrections Corporation of America (CCA)
+- GEO Group
+- State Legislators
+tags:
+- alec
+- mass-incarceration
+- private-prison
+- prison-industrial-complex
+- corporate-lobbying
+- model-legislation
+- quid-pro-quo
+sources:
+- title: 'ALEC in the House: Corporate Bias in Criminal Justice Legislation'
+  url: https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/
+  outlet: Prison Legal News
+  date: '2002-01-15'
+  tier: 1
+- title: Lockup Quotas Help For-Profit Prison Companies Keep Profits High and Prisons Full
+  url: https://www.prwatch.org/news/2013/09/12249/lockup-quotas-help-profit-prison-companies-keep-profits-high-and-prisons-full
+  outlet: PR Watch (Center for Media and Democracy)
+  date: '2013-09-19'
+  tier: 1
+- title: How Mandatory Minimums Perpetuate Mass Incarceration
+  url: https://www.sentencingproject.org/fact-sheet/how-mandatory-minimums-perpetuate-mass-incarceration-and-what-to-do-about-it/
+  outlet: The Sentencing Project
+  date: '2024-01-01'
+  tier: 1
+- title: 'The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom'
+  url: https://www.prisonpolicy.org/scans/Prison_Payoff_Report_WPP_2000.pdf
+  outlet: Western Prison Project / Prison Policy Initiative
+  date: '2000-01-01'
+  tier: 1
+---
+
+The American Legislative Exchange Council (ALEC), co-chaired by Corrections Corporation of America (CCA) executives, promotes its "Truth-in-Sentencing Act" model legislation requiring prisoners to serve at least 85% of their sentences before parole eligibility. The model bill, developed by the ALEC Criminal Justice Task Force with direct participation from CCA and GEO Group representatives, becomes law in 27 states over the next 15 years.
+
+This represents a clear conflict of interest: private prison executives serving on ALEC's task force vote on and promote legislation that directly increases their companies' profits by guaranteeing longer prison stays and higher occupancy rates. Between 1986 and 1994, CCA's annual revenues grew from $14 million to $120 million, fueled in part by harsh sentencing laws the company helped design.
+
+The ALEC task force described Truth-in-Sentencing as one of "the most effective bills supported by the Task Force." By 1995, all 50 states and the federal government had adopted some form of mandatory minimum sentencing that constrained judicial discretion, with 27 states adopting the 85% requirement. The prison population growth directly benefited private prison companies: the number of beds in privately managed facilities increased from 3,000 in 1987 to 20,000 in 1992, and by 1999, over 71,000 prisoners were held in private facilities.
+
+ALEC's model legislation created a feedback loop where corporations that profit from incarceration write the laws that increase incarceration, representing a fundamental corruption of the legislative process for corporate profit.

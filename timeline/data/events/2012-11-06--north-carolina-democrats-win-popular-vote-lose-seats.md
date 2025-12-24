@@ -4,36 +4,36 @@ date: '2012-11-06'
 title: North Carolina Democrats Win Popular Vote But Lose 9 of 13 Congressional Seats
 importance: 9
 tags:
-  - gerrymandering
-  - electoral-manipulation
-  - north-carolina
-  - REDMAP
-  - voter-suppression
+- gerrymandering
+- electoral-manipulation
+- north-carolina
+- redmap
+- voter-suppression
 actors:
-  - Democratic Party
-  - Republican Party
-  - North Carolina General Assembly
+- Democratic Party
+- Republican Party
+- North Carolina General Assembly
 sources:
-  - url: https://www.wunc.org/politics/2014-11-25/duke-mathematicians-investigate-2012-election-results-in-north-carolina
-    title: Duke Mathematicians Investigate 2012 Election Results In North Carolina
-    publisher: WUNC
-    date: 2014-11-25
-    tier: 1
-  - url: https://gerrymander.princeton.edu/info/
-    title: Gerrymandering Project
-    publisher: Princeton University
-    date: 2024-01-01
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/research-reports/redistricting-and-congressional-control-following-2012-election
-    title: Redistricting and Congressional Control Following the 2012 Election
-    publisher: Brennan Center for Justice
-    date: 2013-01-01
-    tier: 1
-  - url: https://www.democracydocket.com/analysis/gerrymandering-deep-dive-north-carolina/
-    title: 'Gerrymandering Deep Dive: North Carolina'
-    publisher: Democracy Docket
-    date: 2022-01-01
-    tier: 2
+- url: https://www.wunc.org/politics/2014-11-25/duke-mathematicians-investigate-2012-election-results-in-north-carolina
+  title: Duke Mathematicians Investigate 2012 Election Results In North Carolina
+  date: 2014-11-25
+  tier: 1
+  outlet: WUNC
+- url: https://gerrymander.princeton.edu/info/
+  title: Gerrymandering Project
+  date: 2024-01-01
+  tier: 1
+  outlet: Princeton University
+- url: https://www.brennancenter.org/our-work/research-reports/redistricting-and-congressional-control-following-2012-election
+  title: Redistricting and Congressional Control Following the 2012 Election
+  date: 2013-01-01
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.democracydocket.com/analysis/gerrymandering-deep-dive-north-carolina/
+  title: 'Gerrymandering Deep Dive: North Carolina'
+  date: 2022-01-01
+  tier: 2
+  outlet: Democracy Docket
 ---
 
 In the 2012 congressional elections, North Carolina Democratic candidates receive over 50% of the statewide popular vote but win only 4 of the state's 13 congressional seats—a stark demonstration of how the Republican-drawn maps from 2011 effectively nullify voter preferences. The results provide mathematical proof of gerrymandering's impact on democratic representation.

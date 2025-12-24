@@ -2,11 +2,8 @@
 id: 2019-09-13--air-force-turnberry-stays-prestwick-review
 date: '2019-09-13'
 importance: 6
-title: Air Force review finds ~6% of Scotland overnights at Trump Turnberry; DHS OIG
-  tallies USSS spend at resort during 2018 visit
-notes: Present both official reviews and press tallies; emphasize that although policies
-  may have been followed, the arrangements created perceived conflicts of interest
-  warranting oversight scrutiny.
+title: Air Force review finds ~6% of Scotland overnights at Trump Turnberry; DHS OIG tallies USSS spend at resort during 2018 visit
+notes: Present both official reviews and press tallies; emphasize that although policies may have been followed, the arrangements created perceived conflicts of interest warranting oversight scrutiny.
 status: confirmed
 actors:
 - U.S. Air Force
@@ -50,9 +47,8 @@ sources:
   - Congress reviewing stays at Trump's resort
   verified: true
 - date: '2019-09-12'
-  outlet: Washington Post
-  title: Air Force says only 6 percent of crews that stopped in Scotland stayed at
-    Trump Turnberry resort
+  outlet: The Washington Post
+  title: Air Force says only 6 percent of crews that stopped in Scotland stayed at Trump Turnberry resort
   url: https://www.washingtonpost.com/politics/air-force-says-only-6-percent-of-crews-that-stopped-in-scotland-stayed-at-trump-turnberry-resort/2019/09/12/d840747a-d5aa-11e9-9610-fb56c5522e1c_story.html
   archive_url: ''
   key_facts_confirmed:

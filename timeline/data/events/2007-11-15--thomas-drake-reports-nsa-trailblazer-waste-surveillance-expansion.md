@@ -27,7 +27,7 @@ sources:
   date: '2010-04-25'
 - url: https://www.washingtonpost.com/world/national-security/former-nsa-executive-thomas-a-drake-may-pay-a-high-price-for-media-leaks/2011/05/22/AGCJ1uDH_story.html
   title: Former NSA Executive Thomas A. Drake May Pay a High Price for Media Leaks
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2011-05-23'
 importance: 8
 status: confirmed

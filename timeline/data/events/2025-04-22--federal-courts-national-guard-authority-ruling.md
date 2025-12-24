@@ -30,7 +30,7 @@ sources:
   title: Appeals Court Allows Trump to Keep National Guard Deployed
   url: https://thehill.com/regulation/court-battles/5360245-appeals-court-allows-trump-to-keep-national-guard-deployed-for-now/
   date: '2025-04-22'
-- outlet: TIME Magazine
+- outlet: TIME
   title: What the Appeals Court Said About Trump's National Guard Power
   url: https://time.com/7296221/trump-national-guard-la-protests-appeals-court-authority/
   date: '2025-04-23'

@@ -3,6 +3,11 @@ id: 2004-10-27--google-acquires-keyhole-earth
 date: '2004-10-27'
 title: Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
 importance: 8
+actors:
+- Google
+- Keyhole Inc.
+- In-Q-Tel
+- Central Intelligence Agency
 tags:
 - google
 - in-q-tel
@@ -10,26 +15,20 @@ tags:
 - surveillance-infrastructure
 - acquisition
 - geospatial-intelligence
-actors:
-- Google
-- Keyhole Inc.
-- In-Q-Tel
-- Central Intelligence Agency
 sources:
-- url: https://www.theregister.com/2004/10/28/google_buys_keyhole/
-  title: Google buys CIA-backed mapping startup
-  publisher: The Register
+- title: Google buys CIA-backed mapping startup
+  url: https://www.theregister.com/2004/10/28/google_buys_keyhole/
+  outlet: The Register
   date: '2004-10-28'
   tier: 2
-- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
-  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
-    Earth
-  publisher: Fortune
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
   date: '2025-07-29'
   tier: 2
-- url: https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/
-  title: The superspy origins of Google Earth
-  publisher: SmarterMSP
+- title: The superspy origins of Google Earth
+  url: https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/
+  outlet: SmarterMSP
   date: '2024-04-02'
   tier: 3
 ---

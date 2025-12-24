@@ -19,22 +19,22 @@ tags:
 - fraud
 - regulatory-failure
 sources:
-- title: 'Silverado collapse cost taxpayers $1 billion'
+- title: Silverado collapse cost taxpayers $1 billion
   url: https://www.denverpost.com/2008/09/29/silverado-collapse-cost-taxpayers-1-billion/
   outlet: Denver Post
   date: '2008-09-29'
   verified: true
-- title: 'Neil Bush'
+- title: Neil Bush
   url: https://en.wikipedia.org/wiki/Neil_Bush
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
 - title: 'Running with A Bad Crowd: Neil Bush & $1 billion Silverado debacle'
   url: https://time.com/archive/6716030/running-with-a-bad-crowd-neil-bush-the-1-billion-silverado-debacle/
-  outlet: TIME Magazine
+  outlet: TIME
   date: '1990-10-28'
   verified: true
-- title: 'Neil Bush, others settle Silverado lawsuit for $49.5 million'
+- title: Neil Bush, others settle Silverado lawsuit for $49.5 million
   url: https://www.upi.com/Archives/1991/05/30/Neil-Bush-others-settle-Silverado-lawsuit-for-495-million/2631675576000/
   outlet: UPI
   date: '1991-05-30'

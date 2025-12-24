@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.washingtonpost.com/business/2025/09/04/stephen-miran-fed-white-house-dual-role/
   title: Fed nominee plans to keep White House role, compromising independence
-  publisher: Washington Post
   date: '2025-09-04'
   tier: 1
+  outlet: The Washington Post
 actors:
 - Stephen Miran
 - Donald Trump

@@ -4,7 +4,7 @@ date: '2000-01-01'
 title: CNP and Federalist Society Coordination - Leonard Leo Links Judicial and Political Networks
 importance: 9
 tags:
-- CNP
+- cnp
 - federalist-society
 - conservative-movement
 - judicial-capture
@@ -16,7 +16,7 @@ actors:
 - Leonard Leo
 - Clarence Thomas
 sources:
-- title: 'Leonard Leo'
+- title: Leonard Leo
   url: https://en.wikipedia.org/wiki/Leonard_Leo
   publication: Wikipedia
   date: '2024-11-10'

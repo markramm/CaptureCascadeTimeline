@@ -18,7 +18,7 @@ tags:
 sources:
 - url: https://www.nytimes.com/2005/12/16/politics/bush-lets-us-spy-on-callers-without-courts.html
   title: Bush Lets U.S. Spy on Callers Without Courts
-  outlet: New York Times
+  outlet: The New York Times
   date: '2005-12-16'
 - url: https://abcnews.go.com/WNT/Investigation/story?id=1456228
   title: Whistle-Blower Had to Fight NSA, LA Times to Tell Story
@@ -26,7 +26,7 @@ sources:
   date: '2006-01-10'
 - url: https://www.washingtonpost.com/wp-dyn/content/article/2006/01/25/AR2006012501435.html
   title: Former NSA Official Criticizes Agency's Domestic Surveillance
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2006-01-26'
 importance: 9
 status: confirmed

@@ -2,14 +2,13 @@
 id: 2024-01-04--house-oversight-78-million-foreign-payments
 date: '2024-01-04'
 importance: 6
-title: House Oversight Documents $7.8 Million in Foreign Payments to Trump During
-  Presidency
+title: House Oversight Documents $7.8 Million in Foreign Payments to Trump During Presidency
 location: Washington DC
 actors:
 - House Oversight Committee
 - Donald Trump
 - Trump Organization
-- China (ICBC)
+- China
 - Saudi Arabia
 - Qatar
 - Malaysia
@@ -25,19 +24,15 @@ sources:
   url: https://oversightdemocrats.house.gov/news/press-releases/new-documents-show-trump-properties-received-least-78-million-foreign
   outlet: House Oversight Democrats
   date: '2024-01-04'
-- title: Trump received millions from foreign governments as president, House Democrats
-    report
+- title: Trump received millions from foreign governments as president, House Democrats report
   url: https://www.washingtonpost.com/politics/2024/01/04/trump-foreign-payments-emoluments/
   outlet: The Washington Post
   date: '2024-01-04'
-- title: Trump businesses received at least $7.8 million from foreign entities during
-    presidency
+- title: Trump businesses received at least $7.8 million from foreign entities during presidency
   url: https://abcnews.go.com/Politics/trump-businesses-received-78-million-foreign-entities-presidency/story?id=106116388
   outlet: ABC News
   date: '2024-01-04'
-notes: Committee analysis covered only four Trump properties for limited time period,
-  actual foreign payments likely much higher. Republican Chairman James Comer terminated
-  investigation in July 2023.
+notes: Committee analysis covered only four Trump properties for limited time period, actual foreign payments likely much higher. Republican Chairman James Comer terminated investigation in July 2023.
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

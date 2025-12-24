@@ -11,25 +11,25 @@ tags:
 - maria-butina
 actors:
 - Maria Butina
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Federal Bureau of Prisons
 - Russian Government
 sources:
 - title: Maria Butina released from federal prison, deported to Russia
   url: https://edition.cnn.com/2019/10/25/politics/maria-butina-released
-  publisher: CNN
   date: '2019-10-25'
   tier: 1
+  outlet: CNN
 - title: Russian operative Maria Butina released from prison, deported to Moscow
   url: https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-set-deportation-after-prison-release-n1071801
-  publisher: NBC News
   date: '2019-10-25'
   tier: 1
+  outlet: NBC News
 - title: Maria Butina, Convicted Russian Operative, Is Released From Federal Prison
   url: https://www.npr.org/2019/10/25/773374719/maria-butina-convicted-russian-operative-is-released-from-federal-prison
-  publisher: NPR
   date: '2019-10-25'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

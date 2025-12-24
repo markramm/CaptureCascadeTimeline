@@ -4,32 +4,32 @@ date: 2011-09-01
 title: FBI Surveils Occupy Wall Street as "Terrorist Threat" Before First Protest
 importance: 8
 actors:
-  - FBI
-  - Department of Homeland Security
-  - Occupy Wall Street
-  - Joint Terrorism Task Force
+- FBI
+- Department of Homeland Security
+- Occupy Wall Street
+- Joint Terrorism Task Force
 tags:
-  - fbi-abuse
-  - surveillance
-  - protest-suppression
-  - first-amendment
-  - domestic-spying
+- fbi-abuse
+- surveillance
+- protest-suppression
+- first-amendment
+- domestic-spying
 sources:
-  - url: https://www.rightsanddissent.org/news/the-fbi-and-occupy-the-surveillance-and-suppression-of-occupy-wall-street/
-    title: The FBI and Occupy - Surveillance and Suppression
-    publisher: Defending Rights & Dissent
-    date: 2012-12-21
-    tier: 1
-  - url: https://www.democracynow.org/2012/12/27/the_fbi_vs_occupy_secret_docs
-    title: The FBI vs. Occupy - Secret Docs Reveal Monitoring
-    publisher: Democracy Now
-    date: 2012-12-27
-    tier: 1
-  - url: https://www.aclu.org/news/national-security/spying-occupy
-    title: Spying on Occupy
-    publisher: ACLU
-    date: 2013-03-28
-    tier: 1
+- url: https://www.rightsanddissent.org/news/the-fbi-and-occupy-the-surveillance-and-suppression-of-occupy-wall-street/
+  title: The FBI and Occupy - Surveillance and Suppression
+  date: 2012-12-21
+  tier: 1
+  outlet: Defending Rights & Dissent
+- url: https://www.democracynow.org/2012/12/27/the_fbi_vs_occupy_secret_docs
+  title: The FBI vs. Occupy - Secret Docs Reveal Monitoring
+  date: 2012-12-27
+  tier: 1
+  outlet: Democracy Now
+- url: https://www.aclu.org/news/national-security/spying-occupy
+  title: Spying on Occupy
+  date: 2013-03-28
+  tier: 1
+  outlet: ACLU
 ---
 
 FBI field offices around the country began surveilling Occupy Wall Street organizers as early as August 2011—a month before the first protesters arrived at Zuccotti Park—treating the nonviolent economic justice movement as a potential terrorist threat despite acknowledging internally that organizers advocated peaceful protest. Documents revealed extensive coordination between the FBI, Department of Homeland Security, and corporate interests to monitor and suppress constitutionally protected protest.

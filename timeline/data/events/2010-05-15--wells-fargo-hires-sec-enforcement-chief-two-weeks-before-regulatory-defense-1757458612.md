@@ -3,7 +3,7 @@ date: '2010-05-15'
 title: 'SEC Revolving Door: Wells Fargo Hires Enforcement Official Amid Ongoing Investigations'
 actors:
 - Wells Fargo & Co.
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - SEC San Francisco enforcement branch
 - Former SEC enforcement chief
 - Private financial defense attorneys

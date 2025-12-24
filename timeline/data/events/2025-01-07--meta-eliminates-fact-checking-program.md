@@ -40,7 +40,7 @@ sources:
   archive_url: https://web.archive.org/web/20250107000000/https://www.seattletimes.com/business/meta-moves-to-end-fact-checking-program/
 - title: Global divide on misinformation deepens as Meta scraps U.S. fact-checking
   url: https://www.washingtonpost.com/technology/2025/01/08/meta-facebook-fact-checking-europe-us/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-01-08'
   archive_url: null
 - title: Meta ends fact checks as it prepares for Trump era
@@ -48,8 +48,7 @@ sources:
   outlet: Spokesman Review
   date: '2025-01-07'
   archive_url: null
-notes: Ends program protecting against misinformation. Moves moderation team to Texas.
-  Returns political content. Trump said threats "probably" worked. Complete surrender.
+notes: Ends program protecting against misinformation. Moves moderation team to Texas. Returns political content. Trump said threats "probably" worked. Complete surrender.
 status: confirmed
 ---
 

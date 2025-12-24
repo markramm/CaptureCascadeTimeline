@@ -4,29 +4,29 @@ date: 2018-10-02
 title: Amazon Raises Minimum Wage to $15 But Eliminates Bonuses and Stock Options
 importance: 8
 actors:
-  - Jeff Bezos
-  - Amazon
+- Jeff Bezos
+- Amazon
 tags:
-  - Worker Exploitation
-  - Corporate Accountability
-  - Amazon
-  - Labor Rights
+- worker exploitation
+- corporate accountability
+- amazon
+- labor rights
 sources:
-  - url: https://www.cnn.com/2018/10/04/business/amazon-minimum-wage-bonus/index.html
-    title: "Amazon eliminates bonuses, stock awards for hourly workers"
-    publisher: CNN Business
-    date: 2018-10-04
-    tier: 1
-  - url: https://www.cnbc.com/2018/10/03/amazon-hourly-workers-lose-monthly-bonuses-stock-awards.html
-    title: "Amazon's hourly workers lose monthly bonuses and stock awards as minimum wage increases"
-    publisher: CNBC
-    date: 2018-10-03
-    tier: 1
-  - url: https://techcrunch.com/2018/10/03/despite-minimum-wage-increase-some-amazon-workers-say-losing-stock-options-and-bonuses-means-they-will-make-less/
-    title: "Despite minimum wage increase, some Amazon workers say losing stock options and bonuses means they will make less"
-    publisher: TechCrunch
-    date: 2018-10-03
-    tier: 2
+- url: https://www.cnn.com/2018/10/04/business/amazon-minimum-wage-bonus/index.html
+  title: Amazon eliminates bonuses, stock awards for hourly workers
+  date: 2018-10-04
+  tier: 1
+  outlet: CNN Business
+- url: https://www.cnbc.com/2018/10/03/amazon-hourly-workers-lose-monthly-bonuses-stock-awards.html
+  title: Amazon's hourly workers lose monthly bonuses and stock awards as minimum wage increases
+  date: 2018-10-03
+  tier: 1
+  outlet: CNBC
+- url: https://techcrunch.com/2018/10/03/despite-minimum-wage-increase-some-amazon-workers-say-losing-stock-options-and-bonuses-means-they-will-make-less/
+  title: Despite minimum wage increase, some Amazon workers say losing stock options and bonuses means they will make less
+  date: 2018-10-03
+  tier: 2
+  outlet: TechCrunch
 status: confirmed
 ---
 

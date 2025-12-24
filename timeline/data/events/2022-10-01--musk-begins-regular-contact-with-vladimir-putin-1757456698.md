@@ -6,26 +6,31 @@ actors:
 - Vladimir Putin
 importance: 10
 sources:
-- title: Wall Street Journal
-  url: Wall Street Journal
-- title: PBS NewsHour
-  url: PBS NewsHour
-- title: Newsweek
-  url: Newsweek
-- title: ABC News
-  url: ABC News
-- title: CNBC
-  url: CNBC
-- title: Wall Street Journal
-  url: Wall Street Journal
-- title: PBS NewsHour
-  url: PBS NewsHour
-- title: Newsweek
-  url: Newsweek
-- title: ABC News
-  url: ABC News
-- title: CNBC
-  url: CNBC
+- title: Elon Musk has been in regular contact with Vladimir Putin since 2022
+  url: https://www.cnbc.com/video/2024/10/25/elon-musk-has-been-in-regular-contact-with-vladimir-putin-since-2022-wsj.html
+  outlet: CNBC
+  date: '2024-10-25'
+  tier: 1
+- title: What to know about Elon Musk's reported phone calls with Putin and why it matters
+  url: https://www.pbs.org/newshour/politics/what-to-know-about-elon-musks-reported-phone-calls-with-putin-and-why-it-matters
+  outlet: PBS NewsHour
+  date: '2024-10-25'
+  tier: 1
+- title: Elon Musk is in 'regular contact' with Vladimir Putin, new report alleges
+  url: https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093
+  outlet: ABC News
+  date: '2024-10-25'
+  tier: 1
+- title: Elon Musk and Putin have "regular contact"
+  url: https://www.axios.com/2024/10/25/elon-musk-putin-trump-russia-ukraine-war
+  outlet: Axios
+  date: '2024-10-25'
+  tier: 1
+- title: NASA chief calls for investigation into report that Musk and Putin have spoken regularly
+  url: https://www.cnn.com/2024/10/25/politics/elon-musk-vladimir-putin
+  outlet: CNN
+  date: '2024-10-25'
+  tier: 1
 tags:
 - musk-putin
 - regular-contact

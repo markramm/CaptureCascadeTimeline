@@ -13,23 +13,20 @@ tags:
 - sensitive-locations
 - policy-reversal
 actors:
-- DHS
+- Department of Homeland Security
 - Kristi Noem
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Donald Trump
 sources:
-- title: What we know so far about Trump's mass deportation plans and ICE raids following
-    immigration executive orders
+- title: What we know so far about Trump's mass deportation plans and ICE raids following immigration executive orders
   url: https://www.nbcnews.com/news/investigations/trump-mass-deportations-ice-raids-executive-immigration-rcna188620
   outlet: NBC News
   date: '2025-07-01'
-- title: Trump says ICE can arrest people at churches and schools, directs agency
-    to use common sense
+- title: Trump says ICE can arrest people at churches and schools, directs agency to use common sense
   url: https://www.cnn.com/2025/01/21/politics/ice-can-arrest-people-at-churches-and-schools/index.html
   outlet: CNN
   date: '2025-01-21'
-- title: Trump officials revoke Biden policy that barred ICE arrests near sensitive
-    locations like schools and churches
+- title: Trump officials revoke Biden policy that barred ICE arrests near sensitive locations like schools and churches
   url: https://www.cbsnews.com/news/trump-immigration-ice-arrests-sensitive-locations/
   outlet: CBS News
   date: '2025-01-21'
@@ -37,8 +34,7 @@ sources:
   url: https://www.axios.com/2025/01/21/trump-deportation-ice-churches-schools-raids
   outlet: Axios
   date: '2025-01-21'
-- title: Trump lifts protections against immigration enforcement at schools, churches,
-    hospitals and other sensitive areas
+- title: Trump lifts protections against immigration enforcement at schools, churches, hospitals and other sensitive areas
   url: https://elpasomatters.org/2025/01/21/border-patrol-ice-enforcement-near-schools-hospitals-churches/
   outlet: El Paso Matters
   date: '2025-01-21'

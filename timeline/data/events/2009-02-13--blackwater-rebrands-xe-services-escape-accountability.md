@@ -16,18 +16,18 @@ actors:
 sources:
 - url: https://en.wikipedia.org/wiki/Blackwater_(company)
   title: Blackwater (company)
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 - url: https://www.newsweek.com/rise-and-fall-mercenary-formerly-known-blackwater-215746
   title: The Rise and Fall of the Mercenary Formerly Known as Blackwater
-  publisher: Newsweek
   date: '2014-06-30'
   tier: 2
+  outlet: Newsweek
 - url: https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/
   title: The Evolution of Blackwater - From Controversy to Constellis Holdings
-  publisher: Ryan J. Hite
   date: '2024-05-25'
   tier: 3
+  outlet: Ryan J. Hite
 status: confirmed
 ---
 

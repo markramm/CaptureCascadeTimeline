@@ -4,43 +4,43 @@ date: '2012-10-22'
 title: Climate Scientist Michael Mann Files Defamation Lawsuit Against Climate Denial Writers
 importance: 8
 tags:
-  - climate-denial
-  - scientist-harassment
-  - defamation
-  - legal-accountability
-  - michael-mann
+- climate-denial
+- scientist-harassment
+- defamation
+- legal-accountability
+- michael-mann
 actors:
-  - Michael Mann
-  - Rand Simberg
-  - Mark Steyn
-  - Competitive Enterprise Institute
-  - National Review
+- Michael Mann
+- Rand Simberg
+- Mark Steyn
+- Competitive Enterprise Institute
+- National Review
 sources:
-  - url: https://climatecasechart.com/case/mann-v-competitive-enterprise-institute/
-    title: Mann v. Competitive Enterprise Institute
-    publisher: Climate Litigation Database
-    date: '2024-01-01'
-    tier: 1
-  - url: https://insideclimatenews.org/news/07022021/michael-mann-defamation-lawsuit-competitive-enterprise-institute-national-review/
-    title: Nine Years After Filing a Lawsuit, Climate Scientist Michael Mann Wants a Court to Affirm the Truth of His Science
-    publisher: Inside Climate News
-    date: '2021-02-07'
-    tier: 1
-  - url: https://insideclimatenews.org/news/25012024/michael-mann-defamation-case-reaches-trial/
-    title: Michael Mann's Defamation Case Against Deniers Finally Reaches Trial
-    publisher: Inside Climate News
-    date: '2024-01-25'
-    tier: 1
-  - url: https://www.scientificamerican.com/article/embattled-climate-scientist-michael-mann-wins-1-million-in-defamation-lawsuit/
-    title: Embattled Climate Scientist Michael Mann Wins $1 Million in Defamation Lawsuit
-    publisher: Scientific American
-    date: '2024-02-09'
-    tier: 1
+- url: https://climatecasechart.com/case/mann-v-competitive-enterprise-institute/
+  title: Mann v. Competitive Enterprise Institute
+  date: '2024-01-01'
+  tier: 1
+  outlet: Climate Litigation Database
+- url: https://insideclimatenews.org/news/07022021/michael-mann-defamation-lawsuit-competitive-enterprise-institute-national-review/
+  title: Nine Years After Filing a Lawsuit, Climate Scientist Michael Mann Wants a Court to Affirm the Truth of His Science
+  date: '2021-02-07'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://insideclimatenews.org/news/25012024/michael-mann-defamation-case-reaches-trial/
+  title: Michael Mann's Defamation Case Against Deniers Finally Reaches Trial
+  date: '2024-01-25'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://www.scientificamerican.com/article/embattled-climate-scientist-michael-mann-wins-1-million-in-defamation-lawsuit/
+  title: Embattled Climate Scientist Michael Mann Wins $1 Million in Defamation Lawsuit
+  date: '2024-02-09'
+  tier: 1
+  outlet: Scientific American
 status: confirmed
 capture_lanes:
-  - Scientist Intimidation
-  - Legal Accountability
-  - Climate Denial Harassment
+- Scientist Intimidation
+- Legal Accountability
+- Climate Denial Harassment
 ---
 
 On October 22, 2012, climate scientist Michael Mann filed a defamation lawsuit against Rand Simberg (a former scholar at the Competitive Enterprise Institute) and Mark Steyn (who wrote for National Review), after they published blog posts comparing him to Jerry Sandusky, the former Penn State football coach convicted of child molestation. The lawsuit challenged years of coordinated harassment targeting Mann for his "hockey stick" climate graph showing dramatic 20th century warming, seeking to hold climate deniers legally accountable for character assassination campaigns against scientists.

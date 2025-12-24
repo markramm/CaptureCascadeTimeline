@@ -4,32 +4,32 @@ date: 2017-10-30
 title: Mueller Indicts Paul Manafort and Rick Gates on 12 Counts Including Conspiracy Against the United States
 importance: 9
 tags:
-  - Mueller Investigation
-  - Paul Manafort
-  - Money Laundering
-  - FARA Violations
-  - Ukraine Lobbying
-  - Foreign Agents
+- mueller investigation
+- paul manafort
+- money laundering
+- fara violations
+- ukraine lobbying
+- foreign agents
 actors:
-  - Paul Manafort
-  - Rick Gates
-  - Robert Mueller
+- Paul Manafort
+- Rick Gates
+- Robert Mueller
 sources:
-  - url: https://www.justice.gov/archives/sco/file/1038391/dl
-    title: Grand Jury Indictment - United States v. Paul J. Manafort Jr. and Richard W. Gates III
-    publisher: U.S. Department of Justice, Special Counsel's Office
-    date: 2017-10-30
-    tier: 1
-  - url: https://www.npr.org/2017/10/30/560786546/grand-jury-approves-first-charges-in-muellers-russia-investigation
-    title: Paul Manafort, 2 More Indicted In 1st Charges In Mueller's Russia Investigation
-    publisher: NPR
-    date: 2017-10-30
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/former-trump-campaign-chair-paul-manafort-faces-new-tax-charges-in-mueller-probe
-    title: Paul Manafort, Rick Gates laundered more than $30 million, according to Mueller indictment
-    publisher: PBS NewsHour
-    date: 2017-10-30
-    tier: 1
+- url: https://www.justice.gov/archives/sco/file/1038391/dl
+  title: Grand Jury Indictment - United States v. Paul J. Manafort Jr. and Richard W. Gates III
+  date: 2017-10-30
+  tier: 1
+  outlet: U.S. Department of Justice, Special Counsel's Office
+- url: https://www.npr.org/2017/10/30/560786546/grand-jury-approves-first-charges-in-muellers-russia-investigation
+  title: Paul Manafort, 2 More Indicted In 1st Charges In Mueller's Russia Investigation
+  date: 2017-10-30
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/politics/former-trump-campaign-chair-paul-manafort-faces-new-tax-charges-in-mueller-probe
+  title: Paul Manafort, Rick Gates laundered more than $30 million, according to Mueller indictment
+  date: 2017-10-30
+  tier: 1
+  outlet: PBS NewsHour
 ---
 
 Special Counsel Robert Mueller unsealed the first indictments in his Russia investigation, charging former Trump campaign chairman Paul Manafort and his longtime business associate Rick Gates with 12 criminal counts. The charges include conspiracy against the United States, conspiracy to launder money, serving as unregistered agents of a foreign principal, making false and misleading statements under the Foreign Agents Registration Act (FARA), and seven counts of failure to file reports of foreign bank and financial accounts.

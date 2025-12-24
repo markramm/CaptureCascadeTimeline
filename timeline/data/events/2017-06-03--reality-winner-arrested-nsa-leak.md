@@ -4,33 +4,33 @@ date: 2017-06-03
 title: Reality Winner Arrested for Leaking Russian Election Interference Report
 importance: 8
 actors:
-  - Reality Winner
-  - NSA
-  - The Intercept
-  - Department of Justice
-  - Trump Administration
+- Reality Winner
+- NSA
+- The Intercept
+- Department of Justice
+- Trump Administration
 tags:
-  - whistleblower-prosecution
-  - espionage-act
-  - russia
-  - election-interference
-  - press-freedom
+- whistleblower-prosecution
+- espionage-act
+- russia
+- election-interference
+- press-freedom
 sources:
-  - url: https://theintercept.com/2018/06/26/reality-winner-plea-deal/
-    title: Whistleblower Reality Winner Pleads Guilty
-    publisher: The Intercept
-    date: 2018-06-26
-    tier: 1
-  - url: https://theintercept.com/2021/06/14/reality-winner-released-prison/
-    title: NSA Whistleblower Reality Winner Released From Prison
-    publisher: The Intercept
-    date: 2021-06-14
-    tier: 1
-  - url: https://www.inquirer.com/philly/columnists/will_bunch/free-reality-winner-whistleblower-american-hero-20180724.html
-    title: She warned America that Russia hacked our voting rolls
-    publisher: Philadelphia Inquirer
-    date: 2018-07-24
-    tier: 1
+- url: https://theintercept.com/2018/06/26/reality-winner-plea-deal/
+  title: Whistleblower Reality Winner Pleads Guilty
+  date: 2018-06-26
+  tier: 1
+  outlet: The Intercept
+- url: https://theintercept.com/2021/06/14/reality-winner-released-prison/
+  title: NSA Whistleblower Reality Winner Released From Prison
+  date: 2021-06-14
+  tier: 1
+  outlet: The Intercept
+- url: https://www.inquirer.com/philly/columnists/will_bunch/free-reality-winner-whistleblower-american-hero-20180724.html
+  title: She warned America that Russia hacked our voting rolls
+  date: 2018-07-24
+  tier: 1
+  outlet: Philadelphia Inquirer
 ---
 
 Former Air Force veteran and NSA contractor Reality Leigh Winner was arrested for leaking a classified intelligence report documenting Russian cyberattacks on U.S. election infrastructure. Her case would result in the longest prison sentence ever imposed for an unauthorized release of government information to the media.

@@ -6,10 +6,10 @@ importance: 6
 location: United States
 actors:
 - TRAC Syracuse University
-- ICE (Immigration and Customs Enforcement)
-- DHS (Department of Homeland Security)
-- CBP (Customs and Border Protection)
-- Stephen Miller (White House senior adviser)
+- Immigration and Customs Enforcement (ICE)
+- Department of Homeland Security
+- Customs and Border Protection (CBP)
+- Stephen Miller
 tags:
 - data
 - enforcement
@@ -19,9 +19,7 @@ capture_lanes:
 citations:
 - https://tracreports.org/whatsnew/email.250801.html
 - https://www.axios.com/2025/08/05/ice-arrests-july-decline-immigrants
-notes: TRAC data shows enforcement falling short of administration goals. Protests
-  particularly strong in California following June raids. Data through July 27 only,
-  full month not yet available at time of reporting.
+notes: TRAC data shows enforcement falling short of administration goals. Protests particularly strong in California following June raids. Data through July 27 only, full month not yet available at time of reporting.
 status: confirmed
 sources:
 - title: ICE arrests decline amid backlash to June immigration raids

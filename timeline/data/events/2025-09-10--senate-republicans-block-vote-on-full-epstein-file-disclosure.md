@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.nytimes.com/2025/09/10/us/politics/senate-republicans-block-epstein-files-vote.html
   title: Senate Republicans Block Vote on Full Epstein File Disclosure
-  publisher: New York Times
   date: '2025-09-10'
   tier: 1
+  outlet: The New York Times
 actors:
 - Senate Republicans
 - Chuck Schumer

@@ -1,32 +1,42 @@
 ---
-id: "2025-12-03--va-creates-non-citizen-employee-database-deportation"
-date: "2025-12-03"
-title: "Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting"
-summary: "A leaked VA memo reveals the Department of Veterans Affairs is compiling a comprehensive database of all non-citizen employees, contractors, volunteers, and affiliates to share with ICE and other immigration enforcement agencies. The directive, issued November 25, requires all VA offices nationwide to report non-citizens among the agency's 450,000 workers by December 30. Democratic lawmakers accuse the administration of bringing veterans and veteran healthcare into Trump's mass deportation scheme, warning the database threatens healthcare stability and intimidates lawful employees including green card holders and work-authorized immigrants who care for veterans."
+id: 2025-12-03--va-creates-non-citizen-employee-database-deportation
+date: '2025-12-03'
+title: Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting
+summary: A leaked VA memo reveals the Department of Veterans Affairs is compiling a comprehensive database of all non-citizen employees, contractors, volunteers, and affiliates to share with ICE and other immigration enforcement agencies. The directive, issued November 25, requires all VA offices nationwide to report non-citizens among the agency's 450,000 workers by December 30. Democratic lawmakers accuse the administration of bringing veterans and veteran healthcare into Trump's mass deportation scheme, warning the database threatens healthcare stability and intimidates lawful employees including green card holders and work-authorized immigrants who care for veterans.
 importance: 9
-tags: ["immigration", "healthcare", "veterans", "surveillance", "civil-rights"]
-actors: ["Doug Collins", "Veterans Affairs", "Kristi Noem", "ICE", "Democratic Congressional Members"]
+tags:
+- immigration
+- healthcare
+- veterans
+- surveillance
+- civil-rights
+actors:
+- Doug Collins
+- Veterans Affairs
+- Kristi Noem
+- Immigration and Customs Enforcement (ICE)
+- Democratic Congressional Members
 sources:
-  - url: "https://www.stripes.com/veterans/2025-12-05/va-employees-not-us-citizens-19993467.html"
-    title: "VA directs leaders to identify employees and affiliates who are not US citizens"
-    publisher: "Stars and Stripes"
-    date: "2025-12-05"
-    tier: 2
-  - url: "https://www.stripes.com/veterans/2025-12-12/democratic-lawmakers-va-workers-us-citizens-20070889.html"
-    title: "Democratic lawmakers accuse Trump administration of targeting VA employees in 'misguided mass deportation scheme'"
-    publisher: "Stars and Stripes"
-    date: "2025-12-12"
-    tier: 2
-  - url: "https://www.rollingstone.com/politics/political-commentary/veterans-affairs-offices-ordered-snitch-noncitizens-1235482420/"
-    title: "Veterans Affairs Offices Ordered to Snitch on Noncitizens"
-    publisher: "Rolling Stone"
-    date: "2025-12-03"
-    tier: 2
-  - url: "https://san.com/cc/va-creating-database-of-non-citizen-employees-leaked-memo-says/"
-    title: "VA creating database of 'non-citizen' employees, leaked memo says"
-    publisher: "San Antonio Report"
-    date: "2025-12-03"
-    tier: 2
+- url: https://www.stripes.com/veterans/2025-12-05/va-employees-not-us-citizens-19993467.html
+  title: VA directs leaders to identify employees and affiliates who are not US citizens
+  date: '2025-12-05'
+  tier: 2
+  outlet: Stars and Stripes
+- url: https://www.stripes.com/veterans/2025-12-12/democratic-lawmakers-va-workers-us-citizens-20070889.html
+  title: Democratic lawmakers accuse Trump administration of targeting VA employees in 'misguided mass deportation scheme'
+  date: '2025-12-12'
+  tier: 2
+  outlet: Stars and Stripes
+- url: https://www.rollingstone.com/politics/political-commentary/veterans-affairs-offices-ordered-snitch-noncitizens-1235482420/
+  title: Veterans Affairs Offices Ordered to Snitch on Noncitizens
+  date: '2025-12-03'
+  tier: 2
+  outlet: Rolling Stone
+- url: https://san.com/cc/va-creating-database-of-non-citizen-employees-leaked-memo-says/
+  title: VA creating database of 'non-citizen' employees, leaked memo says
+  date: '2025-12-03'
+  tier: 2
+  outlet: San Antonio Report
 ---
 
 # Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting

@@ -4,7 +4,7 @@ date: '2004-04-28'
 title: SEC Implements Alternative Net Capital Rules for Major Investment Banks
 importance: 9
 actors:
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Christopher Cox
 - William Donaldson
 - Goldman Sachs
@@ -14,7 +14,7 @@ actors:
 - Bear Stearns
 sources:
 - date: '2008-09-27'
-  outlet: New York Times
+  outlet: The New York Times
   title: SEC Concedes Oversight Flaws Fueled Collapse
   url: https://www.nytimes.com/2008/09/27/business/27sec.html
 - date: '2012-01-30'

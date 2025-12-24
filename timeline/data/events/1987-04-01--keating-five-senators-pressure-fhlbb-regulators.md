@@ -5,11 +5,11 @@ title: Keating Five Senators Pressure FHLBB to Halt Lincoln Investigation
 importance: 9
 location: Washington DC
 actors:
-- Alan Cranston (D-CA)
-- Dennis DeConcini (D-AZ)
-- John Glenn (D-OH)
-- John McCain (R-AZ)
-- Donald Riegle (D-MI)
+- Alan Cranston
+- Dennis DeConcini
+- John Glenn
+- John McCain
+- Donald Riegle
 - Charles Keating
 - Edwin Gray
 - Federal Home Loan Bank Board
@@ -26,7 +26,7 @@ capture_lanes:
 sources:
 - title: WHERE IS THE KEATING FIVE REPORT?
   url: https://www.washingtonpost.com/archive/opinions/1991/10/06/where-is-the-keating-five-report/7db61932-0577-416b-b022-007cdb809245/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1991-10-06'
   verified: true
 - title: Scandal Shaped McCain's Sense of Honor in Office
@@ -41,7 +41,7 @@ sources:
   verified: true
 - title: ETHICS PANEL HEARS 'KEATING 5' CHARGES
   url: https://www.washingtonpost.com/archive/politics/1990/11/16/ethics-panel-hears-keating-5-charges/6b9fd86a-a1eb-411e-b8dd-f94335abbc47/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1990-11-16'
   verified: true
 status: confirmed

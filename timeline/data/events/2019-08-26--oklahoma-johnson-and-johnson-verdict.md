@@ -4,32 +4,32 @@ title: Oklahoma Wins $572 Million Verdict Against Johnson & Johnson for Opioid P
 date: '2019-08-26'
 importance: 8
 actors:
-  - Thad Balkman
-  - Johnson & Johnson
-  - State of Oklahoma
+- Thad Balkman
+- Johnson & Johnson
+- State of Oklahoma
 tags:
-  - opioid-crisis
-  - legal-accountability
-  - public-nuisance
-  - corporate-liability
-  - state-lawsuits
+- opioid-crisis
+- legal-accountability
+- public-nuisance
+- corporate-liability
+- state-lawsuits
 status: confirmed
 sources:
-  - title: Johnson & Johnson Ordered To Pay $572 Million In Oklahoma Opioid Lawsuit
-    url: https://www.npr.org/sections/health-shots/2019/08/26/754481268/judge-in-opioid-trial-rules-johnson-johnson-must-pay-oklahoma-572-million
-    publisher: NPR
-    date: '2019-08-26'
-    tier: 1
-  - title: Oklahoma wins $572 million from opioid manufacturer Johnson & Johnson
-    url: https://stateimpact.npr.org/oklahoma/2019/08/28/oklahoma-wins-572-million-from-opioid-manufacturer-johnson-johnson/
-    publisher: StateImpact Oklahoma
-    date: '2019-08-28'
-    tier: 1
-  - title: Oklahoma judge finds Johnson & Johnson fueled opioid crisis
-    url: https://www.statnews.com/2019/08/26/oklahoma-judge-finds-johnson-johnson-fueled-opioid-crisis/
-    publisher: STAT News
-    date: '2019-08-26'
-    tier: 1
+- title: Johnson & Johnson Ordered To Pay $572 Million In Oklahoma Opioid Lawsuit
+  url: https://www.npr.org/sections/health-shots/2019/08/26/754481268/judge-in-opioid-trial-rules-johnson-johnson-must-pay-oklahoma-572-million
+  date: '2019-08-26'
+  tier: 1
+  outlet: NPR
+- title: Oklahoma wins $572 million from opioid manufacturer Johnson & Johnson
+  url: https://stateimpact.npr.org/oklahoma/2019/08/28/oklahoma-wins-572-million-from-opioid-manufacturer-johnson-johnson/
+  date: '2019-08-28'
+  tier: 1
+  outlet: StateImpact Oklahoma
+- title: Oklahoma judge finds Johnson & Johnson fueled opioid crisis
+  url: https://www.statnews.com/2019/08/26/oklahoma-judge-finds-johnson-johnson-fueled-opioid-crisis/
+  date: '2019-08-26'
+  tier: 1
+  outlet: STAT News
 ---
 
 On August 26, 2019, Cleveland County District Judge Thad Balkman delivered a landmark $572 million judgment against pharmaceutical giant Johnson & Johnson for the company's role in fueling Oklahoma's opioid epidemic. The decision marked the first time a drugmaker was held culpable in court for the fallout from years of liberal opioid dispensing that began in the late 1990s.

@@ -4,7 +4,7 @@ date: '2023-01-01'
 title: CNP Members Lead Project 2025 Coalition Organizations - Coordination Infrastructure for Trump Return
 importance: 9
 tags:
-- CNP
+- cnp
 - conservative-movement
 - project-2025
 - coordination
@@ -23,7 +23,7 @@ sources:
   publication: Global Project Against Hate and Extremism
   date: '2024-01-15'
   tier: 1
-- title: 'Project 2025 Reaches 100 Coalition Partners'
+- title: Project 2025 Reaches 100 Coalition Partners
   url: https://www.heritage.org/press/project-2025-reaches-100-coalition-partners-continues-grow-preparation-next-president
   publication: Heritage Foundation
   date: '2023-06-01'

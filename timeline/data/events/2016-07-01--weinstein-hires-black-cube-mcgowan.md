@@ -16,9 +16,7 @@ date: '2016-07-01'
 id: 2016-07-01--weinstein-hires-black-cube-mcgowan
 importance: 9
 location: United States
-notes: Systematic intelligence operation to suppress sexual misconduct allegations.
-  Sophisticated psychological manipulation and surveillance using former intelligence
-  operatives.
+notes: Systematic intelligence operation to suppress sexual misconduct allegations. Sophisticated psychological manipulation and surveillance using former intelligence operatives.
 sources:
 - archive_url: https://web.archive.org/web/20171107000000/https://abcnews.go.com/Entertainment/harvey-weinstein-hired-elite-intelligence-agency-target-accuser/story?id=50981068
   date: '2017-11-07'
@@ -27,7 +25,7 @@ sources:
   url: https://abcnews.go.com/Entertainment/harvey-weinstein-hired-elite-intelligence-agency-target-accuser/story?id=50981068
 - archive_url: https://web.archive.org/web/20171107000000/https://www.washingtonpost.com/news/morning-mix/wp/2017/11/07/harvey-weinstein-hired-private-spies-to-silence-accusers-journalists-report-says/
   date: '2017-11-07'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Weinstein hired private spies
   url: https://www.washingtonpost.com/news/morning-mix/wp/2017/11/07/harvey-weinstein-hired-private-spies-to-silence-accusers-journalists-report-says/
 - date: '2017-11-07'

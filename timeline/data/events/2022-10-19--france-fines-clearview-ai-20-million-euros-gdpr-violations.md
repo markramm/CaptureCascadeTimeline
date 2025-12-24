@@ -8,23 +8,23 @@ tags:
 - privacy-violations
 - regulatory-action
 - international-law
-- GDPR
+- gdpr
 sources:
 - url: https://www.edpb.europa.eu/news/national-news/2022/french-sa-fines-clearview-ai-eur-20-million_en
   title: The French SA fines Clearview AI EUR 20 million
-  publisher: European Data Protection Board
   date: '2022-10-19'
   tier: 1
+  outlet: European Data Protection Board
 - url: https://www.cnil.fr/en/facial-recognition-20-million-euros-penalty-against-clearview-ai
   title: 'Facial recognition: 20 million euros penalty against CLEARVIEW AI'
-  publisher: CNIL (Commission Nationale de l'Informatique et des Libertés)
   date: '2022-10-20'
   tier: 1
+  outlet: CNIL (Commission Nationale de l'Informatique et des Libertés)
 - url: https://www.hunton.com/privacy-and-information-security-law/cnil-fines-clearview-ai-20-million-euros-for-unlawful-use-of-facial-recognition-technology
   title: CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology
-  publisher: Hunton Privacy and Information Security Law
   date: '2022-10-21'
   tier: 2
+  outlet: Hunton Privacy and Information Security Law
 actors:
 - CNIL
 - Clearview AI

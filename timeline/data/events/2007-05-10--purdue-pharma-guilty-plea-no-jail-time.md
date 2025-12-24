@@ -4,35 +4,35 @@ title: Purdue Pharma Pleads Guilty to Criminal Misbranding, $600M Fine, Zero Exe
 date: '2007-05-10'
 importance: 10
 actors:
-  - Purdue Pharma
-  - Michael Friedman
-  - Howard R. Udell
-  - Paul D. Goldenheim
-  - U.S. Department of Justice
+- Purdue Pharma
+- Michael Friedman
+- Howard R. Udell
+- Paul D. Goldenheim
+- U.S. Department of Justice
 tags:
-  - opioid-crisis
-  - corporate-crime
-  - accountability-failure
-  - deferred-prosecution
-  - regulatory-capture
-  - impunity
+- opioid-crisis
+- corporate-crime
+- accountability-failure
+- deferred-prosecution
+- regulatory-capture
+- impunity
 status: confirmed
 sources:
-  - title: Opioid Manufacturer Purdue Pharma Pleads Guilty to Fraud and Kickback Conspiracies
-    url: https://www.justice.gov/archives/opa/pr/opioid-manufacturer-purdue-pharma-pleads-guilty-fraud-and-kickback-conspiracies
-    publisher: U.S. Department of Justice
-    date: '2020-10-21'
-    tier: 1
-  - title: Evaluating the Propriety and Adequacy of the OxyContin Criminal Settlement
-    url: https://www.govinfo.gov/content/pkg/CHRG-110shrg40884/html/CHRG-110shrg40884.htm
-    publisher: U.S. Congress
-    date: '2007-07-31'
-    tier: 1
-  - title: Purdue's Guilty Pleas
-    url: https://www.judgeforyourselves.info/key-points/purdue/guilty-pleas/
-    publisher: Judge for Yourselves
-    date: '2021-01-01'
-    tier: 2
+- title: Opioid Manufacturer Purdue Pharma Pleads Guilty to Fraud and Kickback Conspiracies
+  url: https://www.justice.gov/archives/opa/pr/opioid-manufacturer-purdue-pharma-pleads-guilty-fraud-and-kickback-conspiracies
+  date: '2020-10-21'
+  tier: 1
+  outlet: U.S. Department of Justice
+- title: Evaluating the Propriety and Adequacy of the OxyContin Criminal Settlement
+  url: https://www.govinfo.gov/content/pkg/CHRG-110shrg40884/html/CHRG-110shrg40884.htm
+  date: '2007-07-31'
+  tier: 1
+  outlet: U.S. Congress
+- title: Purdue's Guilty Pleas
+  url: https://www.judgeforyourselves.info/key-points/purdue/guilty-pleas/
+  date: '2021-01-01'
+  tier: 2
+  outlet: Judge for Yourselves
 ---
 
 On May 10, 2007, Purdue Pharma pleaded guilty to a felony charge of illegally misbranding OxyContin in an effort to mislead and defraud physicians and agreed to pay $600 million—representing approximately 90 percent of OxyContin profits during the offense period. The company admitted to misleading the public about OxyContin's risk of addiction in what was then one of the largest pharmaceutical settlements in U.S. history.

@@ -23,7 +23,7 @@ sources:
   date: '2017-04-19'
 - title: China grants 18 trademarks to companies linked to Trump, Ivanka
   url: https://www.nytimes.com/2018/11/06/business/trump-trademarks-china.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-11-06'
 - title: Ivanka Trump gets initial approval from China for 16 new trademarks
   url: https://www.cnbc.com/2018/11/06/ivanka-trump-gets-initial-approval-from-china-for-16-trademarks.html

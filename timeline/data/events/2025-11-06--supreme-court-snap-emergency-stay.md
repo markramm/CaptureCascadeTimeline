@@ -1,8 +1,7 @@
 ---
 id: 2025-11-06--supreme-court-snap-emergency-stay
 date: '2025-11-06'
-title: Supreme Court Issues Emergency Stay Allowing Trump Administration to Withhold
-  $4 Billion in SNAP Food Benefits
+title: Supreme Court Issues Emergency Stay Allowing Trump Administration to Withhold $4 Billion in SNAP Food Benefits
 importance: 9
 tags:
 - supreme-court
@@ -16,20 +15,18 @@ actors:
 - John McConnell
 - USDA
 sources:
-- title: Supreme Court allows Trump administration to temporarily withhold some SNAP
-    payments for November
+- title: Supreme Court allows Trump administration to temporarily withhold some SNAP payments for November
   url: https://www.nbcnews.com/politics/politics-news/trump-administration-asks-emergency-pause-judges-order-fully-fund-snap-rcna242545
-  publisher: NBC News
   tier: 1
-- title: Supreme Court temporarily blocks full SNAP benefits even as they'd started
-    to go out
+  outlet: NBC News
+- title: Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out
   url: https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal
-  publisher: NPR
   tier: 1
+  outlet: NPR
 - title: Supreme Court issues emergency order to block full SNAP food aid payments
   url: https://www.pbs.org/newshour/nation/supreme-court-issues-emergency-order-to-block-full-snap-food-aid-payments
-  publisher: PBS News
   tier: 1
+  outlet: PBS News
 ---
 
 The Supreme Court issued an administrative stay at least temporarily allowing the Trump administration to withhold approximately $4 billion in SNAP (Supplemental Nutrition Assistance Program) payments affecting 42 million Americans, blocking a federal district court order that had required full November payments by Friday. The order came via Justice Ketanji Brown Jackson and gave a lower appeals court additional time to consider the administration's request to only partially fund food stamps for November, citing insufficient funds due to the government shutdown.

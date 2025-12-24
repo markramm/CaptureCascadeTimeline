@@ -18,19 +18,19 @@ actors:
 sources:
 - title: US DoD Accredits Oracle Cloud Infrastructure (OCI) for Top Secret Missions
   url: https://www.oracle.com/news/announcement/dod-accredits-oracle-cloud-infrastructure-for-top-secret-missions-2022-02-15/
-  publisher: Oracle Corporation
   date: '2022-02-15'
   tier: 3
+  outlet: Oracle Corporation
 - title: US DoD Accredits Oracle Cloud Infrastructure for Top Secret Missions
   url: https://www.prnewswire.com/news-releases/us-dod-accredits-oracle-cloud-infrastructure-oci-for-top-secret-missions-301482233.html
-  publisher: PR Newswire
   date: '2022-02-15'
   tier: 2
+  outlet: PR Newswire
 - title: Oracle cloud authorized to host top secret data for DOD
   url: https://ciyis.net/2022/02/18/oracle-cloud-authorized-to-host-top-secret-data-for-dod/
-  publisher: CIYIS
   date: '2022-02-18'
   tier: 2
+  outlet: CIYIS
 ---
 
 The U.S. Department of Defense granted Oracle Cloud Infrastructure (OCI) authority to operate (ATO) for Top Secret/Sensitive Compartmented Information (TS/SCI) and Special Access Program (SAP) missions on February 15, 2022, authorizing Oracle to host and process some of the Pentagon's most highly classified data and operations. This clearance authorization represented a major expansion of Oracle's access to the nation's most sensitive military and intelligence programs, elevating Oracle to the highest level of security clearance available for cloud computing contractors.

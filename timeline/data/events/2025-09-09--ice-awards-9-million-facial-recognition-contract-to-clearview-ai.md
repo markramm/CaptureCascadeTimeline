@@ -11,11 +11,11 @@ tags:
 sources:
 - url: https://www.404media.co/ice-clearview-ai-facial-recognition-contract-9-million/
   title: ICE Awards $9.2 Million Facial Recognition Contract
-  publisher: 404 Media
   date: '2025-09-09'
   tier: 2
+  outlet: 404 Media
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Clearview AI
 - Trump Administration
 ---

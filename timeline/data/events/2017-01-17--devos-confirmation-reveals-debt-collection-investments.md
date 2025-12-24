@@ -4,30 +4,30 @@ date: 2017-01-17
 title: DeVos Confirmation Hearing Reveals Investments in Student Debt Collection - Ethics Review Incomplete
 importance: 8
 tags:
-  - conflicts-of-interest
-  - education-privatization
-  - student-debt
-  - betsy-devos
+- conflicts-of-interest
+- education-privatization
+- student-debt
+- betsy-devos
 actors:
-  - Betsy DeVos
-  - Performant Financial
-  - RDV Corporation
+- Betsy DeVos
+- Performant Financial
+- RDV Corporation
 sources:
-  - url: https://www.americanprogress.org/article/inside-the-financial-holdings-of-billionaire-betsy-devos/
-    title: Inside the Financial Holdings of Billionaire Betsy DeVos
-    publisher: Center for American Progress
-    date: 2017-01-27
-    tier: 1
-  - url: https://www.npr.org/2017/01/17/510267306/in-betsy-devos-critics-see-a-threat-to-public-education
-    title: In Betsy DeVos, Critics See A Threat To Public Education
-    publisher: NPR
-    date: 2017-01-17
-    tier: 1
-  - url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-debt-collector-performant-financial-corporation-for-illegal-student-loan-servicing-practices/
-    title: CFPB Takes Action Against Debt Collector Performant Financial Corporation
-    publisher: Consumer Financial Protection Bureau
-    date: 2017-07-19
-    tier: 1
+- url: https://www.americanprogress.org/article/inside-the-financial-holdings-of-billionaire-betsy-devos/
+  title: Inside the Financial Holdings of Billionaire Betsy DeVos
+  date: 2017-01-27
+  tier: 1
+  outlet: Center for American Progress
+- url: https://www.npr.org/2017/01/17/510267306/in-betsy-devos-critics-see-a-threat-to-public-education
+  title: In Betsy DeVos, Critics See A Threat To Public Education
+  date: 2017-01-17
+  tier: 1
+  outlet: NPR
+- url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-takes-action-against-debt-collector-performant-financial-corporation-for-illegal-student-loan-servicing-practices/
+  title: CFPB Takes Action Against Debt Collector Performant Financial Corporation
+  date: 2017-07-19
+  tier: 1
+  outlet: Consumer Financial Protection Bureau
 status: confirmed
 ---
 

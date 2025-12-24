@@ -1,0 +1,37 @@
+---
+id: 2013-06-25--shelby-county-v-holder-guts-voting-rights-act
+date: '2013-06-25'
+title: 'Shelby County v. Holder: Supreme Court Guts Voting Rights Act Preclearance'
+importance: 9
+actors:
+- Supreme Court
+- Shelby County Alabama
+tags:
+- voting rights
+- supreme court
+- voter suppression
+- racial justice
+sources:
+- title: Shelby County v. Holder - Wikipedia
+  url: https://en.wikipedia.org/wiki/Shelby_County_v._Holder
+  outlet: Wikipedia
+  tier: 3
+- title: The Shelby County Decision
+  url: https://www.justice.gov/crt/shelby-county-decision
+  outlet: U.S. Department of Justice
+  tier: 1
+- title: Effects of Shelby County v. Holder on the Voting Rights Act
+  url: https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder-voting-rights-act
+  outlet: Brennan Center for Justice
+  tier: 2
+- title: Shelby County v. Holder
+  url: https://www.naacpldf.org/case-issue/shelby-county-v-holder/
+  outlet: NAACP Legal Defense Fund
+  tier: 2
+status: confirmed
+capture_lanes:
+- Judicial Capture
+- Electoral Manipulation
+---
+
+The Supreme Court ruled 5-4 in Shelby County v. Holder that Section 4(b) of the Voting Rights Act—the coverage formula determining which jurisdictions must obtain federal preclearance before changing voting procedures—was unconstitutional and out-of-date. Section 4(b) had identified covered jurisdictions based on literacy tests and low voter registration in the 1960s-70s, resulting in complete coverage of Alabama, Alaska, Georgia, Louisiana, Mississippi, South Carolina, and Virginia, plus certain counties in Arizona, Hawaii, Idaho, and North Carolina. The Court held that while Section 5 preclearance itself was not unconstitutional, without an updated coverage formula it became inoperable. The decision left it to Congress to create a new formula—which Congress has never done. The effects were immediate and dramatic: the same day as the ruling, Texas officials announced they would implement the nation's most restrictive voter ID law, which had previously been blocked in preclearance. The ruling unleashed a wave of new voting restrictions across formerly covered states. A March 2024 Brennan Center study found that the 'racial turnout gap'—the difference in turnout between white and nonwhite voters—had grown since 2012, particularly in states previously covered by preclearance. The decision represented a fundamental weakening of federal civil rights enforcement and enabled systematic voter suppression efforts that had been blocked for nearly 50 years.

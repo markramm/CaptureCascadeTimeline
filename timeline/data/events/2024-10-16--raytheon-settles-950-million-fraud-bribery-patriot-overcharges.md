@@ -15,24 +15,24 @@ tags:
 sources:
 - url: https://www.justice.gov/archives/opa/pr/raytheon-company-pay-over-950m-connection-defective-pricing-foreign-bribery-and-export
   title: Raytheon Company to Pay Over $950M in Connection with Defective Pricing, Foreign Bribery, and Export Control Schemes
-  publisher: U.S. Department of Justice
   date: '2024-10-16'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.washingtonpost.com/technology/2024/10/16/raytheon-fraud-qatar-bribery/
   title: Raytheon pays $950 million to settle fraud and Qatar bribery charges
-  publisher: The Washington Post
   date: '2024-10-16'
   tier: 2
+  outlet: The Washington Post
 - url: https://www.cnbc.com/2024/10/16/rtx-subsidiary-raytheon-to-pay-more-than-950-million-to-settle-foreign-bribery-export-control-fraud-probes.html
   title: RTX subsidiary Raytheon to pay more than $950 million to settle foreign bribery, export control fraud probes
-  publisher: CNBC
   date: '2024-10-16'
   tier: 2
+  outlet: CNBC
 - url: https://theintercept.com/2024/10/18/raytheon-rtx-bribery-fraud-weapons-war-crimes/
   title: When The Blood Money Isn't Enough - Raytheon Admits Defrauding Pentagon
-  publisher: The Intercept
   date: '2024-10-18'
   tier: 2
+  outlet: The Intercept
 actors:
 - Raytheon
 - Department of Justice

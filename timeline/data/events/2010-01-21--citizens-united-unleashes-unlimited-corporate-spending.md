@@ -6,7 +6,7 @@ title: Supreme Court Citizens United Decision Unleashes Unlimited Corporate Spen
 actors:
 - Supreme Court
 - Citizens United
-- Federal Election Commission
+- Federal Election Commission (FEC)
 - Justice Anthony Kennedy
 - Justice John Paul Stevens
 tags:
@@ -46,9 +46,7 @@ sources:
   url: https://www.pbs.org/wgbh/frontline/article/archives-citizens-united-campaign-spending-documentary/
   outlet: PBS Frontline
   date_accessed: '2025-10-17'
-  description: Comprehensive documentary exploring the transformation of campaign
-    finance after the Supreme Court decision, revealing the rise of dark money and
-    outside political spending
+  description: Comprehensive documentary exploring the transformation of campaign finance after the Supreme Court decision, revealing the rise of dark money and outside political spending
 status: confirmed
 capture_lanes:
 - Judicial Capture

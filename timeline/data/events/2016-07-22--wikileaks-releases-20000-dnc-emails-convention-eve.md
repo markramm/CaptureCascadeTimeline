@@ -1,7 +1,7 @@
 ---
 id: 2016-07-22--wikileaks-releases-20000-dnc-emails-convention-eve
 date: '2016-07-22'
-title: 'WikiLeaks Releases 20,000 Stolen DNC Emails Three Days Before Democratic Convention'
+title: WikiLeaks Releases 20,000 Stolen DNC Emails Three Days Before Democratic Convention
 importance: 10
 tags:
 - wikileaks
@@ -20,26 +20,26 @@ actors:
 - Roger Stone
 - Donald Trump
 sources:
-- title: 'WikiLeaks posts nearly 20,000 hacked DNC emails online'
+- title: WikiLeaks posts nearly 20,000 hacked DNC emails online
   url: https://www.washingtonpost.com/news/the-switch/wp/2016/07/22/wikileaks-posts-nearly-20000-hacked-dnc-emails-online/
-  publisher: Washington Post
   date: '2016-07-22'
   tier: 1
-- title: '2016 Democratic National Committee email leak'
+  outlet: The Washington Post
+- title: 2016 Democratic National Committee email leak
   url: https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
-- title: 'Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election'
+  outlet: Wikipedia
+- title: Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election
   url: https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election
-  publisher: US Department of Justice
   date: '2018-07-13'
   tier: 1
-- title: 'Mueller Report Volume I'
+  outlet: US Department of Justice
+- title: Mueller Report Volume I
   url: https://www.justice.gov/archives/sco/file/1373816/download
-  publisher: US Department of Justice
   date: '2019-04-18'
   tier: 1
+  outlet: US Department of Justice
 status: confirmed
 ---
 

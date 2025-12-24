@@ -4,30 +4,30 @@ date: 2015-10-02
 title: Michigan Finally Confirms Lead Problem and Advises Filters—18 Months After Poisoning Began
 importance: 8
 tags:
-  - flint-water-crisis
-  - government-accountability
-  - public-health
-  - cover-up
+- flint-water-crisis
+- government-accountability
+- public-health
+- cover-up
 actors:
-  - Michigan Department of Health and Human Services
-  - Rick Snyder
-  - Genesee County Health Department
+- Michigan Department of Health and Human Services
+- Rick Snyder
+- Genesee County Health Department
 sources:
-  - url: https://www.michiganpublic.org/politics-government/2015-10-16/flint-reconnects-to-detroits-water-system
-    title: Flint reconnects to Detroit's water system
-    publisher: Michigan Public Radio
-    date: 2015-10-16
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Flint_water_crisis
-    title: Flint water crisis
-    publisher: Wikipedia
-    date: 2024-11-10
-    tier: 2
-  - url: https://parlemag.com/2016/04/timeline-of-flint-water-crisis-fema/
-    title: A Timeline of the Flint Water Crisis & Analyzing The Inaction from FEMA
-    publisher: Parle Magazine
-    date: 2016-04-04
-    tier: 2
+- url: https://www.michiganpublic.org/politics-government/2015-10-16/flint-reconnects-to-detroits-water-system
+  title: Flint reconnects to Detroit's water system
+  date: 2015-10-16
+  tier: 1
+  outlet: Michigan Public Radio
+- url: https://en.wikipedia.org/wiki/Flint_water_crisis
+  title: Flint water crisis
+  date: 2024-11-10
+  tier: 2
+  outlet: Wikipedia
+- url: https://parlemag.com/2016/04/timeline-of-flint-water-crisis-fema/
+  title: A Timeline of the Flint Water Crisis & Analyzing The Inaction from FEMA
+  date: 2016-04-04
+  tier: 2
+  outlet: Parle Magazine
 status: confirmed
 ---
 

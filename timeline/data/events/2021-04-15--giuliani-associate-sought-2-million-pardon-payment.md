@@ -4,39 +4,39 @@ date: '2021-04-15'
 title: Giuliani Associate Sought $2 Million Payment for Trump Pardons
 importance: 8
 actors:
-  - Rudy Giuliani
-  - Lev Parnas
-  - Igor Fruman
-  - Harry Sargeant III
-  - Dmytro Firtash
-  - Donald Trump
+- Rudy Giuliani
+- Lev Parnas
+- Igor Fruman
+- Harry Sargeant III
+- Dmytro Firtash
+- Donald Trump
 tags:
-  - Pardons
-  - Corruption
-  - Pay-to-Play
-  - Bribery
-  - Giuliani
+- pardons
+- corruption
+- pay-to-play
+- bribery
+- giuliani
 sources:
-  - title: Giuliani associate sought $2M for pardons, businessman says
-    url: https://apnews.com/article/donald-trump-rudy-giuliani-joe-biden-ukraine-arrests-3de12a6f8e31b7ac51502a7f9d34457f
-    publisher: Associated Press
-    date: '2021-04-15'
-    tier: 1
-  - title: Businessman told of $2 million pardon scheme involving Giuliani
-    url: https://www.nytimes.com/2021/04/15/us/politics/pardons-giuliani-trump.html
-    publisher: New York Times
-    date: '2021-04-15'
-    tier: 1
-  - title: Pardons for sale - Giuliani network and Trump clemency
-    url: https://www.reuters.com/world/us/associate-giuliani-sought-money-pardons-businessman-tells-prosecutors-2021-04-15/
-    publisher: Reuters
-    date: '2021-04-15'
-    tier: 1
-  - title: Lev Parnas and Igor Fruman charged with campaign finance violations
-    url: https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans
-    publisher: U.S. Department of Justice
-    date: '2019-10-10'
-    tier: 1
+- title: Giuliani associate sought $2M for pardons, businessman says
+  url: https://apnews.com/article/donald-trump-rudy-giuliani-joe-biden-ukraine-arrests-3de12a6f8e31b7ac51502a7f9d34457f
+  date: '2021-04-15'
+  tier: 1
+  outlet: Associated Press
+- title: Businessman told of $2 million pardon scheme involving Giuliani
+  url: https://www.nytimes.com/2021/04/15/us/politics/pardons-giuliani-trump.html
+  date: '2021-04-15'
+  tier: 1
+  outlet: The New York Times
+- title: Pardons for sale - Giuliani network and Trump clemency
+  url: https://www.reuters.com/world/us/associate-giuliani-sought-money-pardons-businessman-tells-prosecutors-2021-04-15/
+  date: '2021-04-15'
+  tier: 1
+  outlet: Reuters
+- title: Lev Parnas and Igor Fruman charged with campaign finance violations
+  url: https://www.justice.gov/usao-sdny/pr/lev-parnas-and-igor-fruman-charged-conspiring-violate-straw-and-foreign-donor-bans
+  date: '2019-10-10'
+  tier: 1
+  outlet: U.S. Department of Justice
 status: confirmed
 ---
 

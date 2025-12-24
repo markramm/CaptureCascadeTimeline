@@ -4,15 +4,14 @@ title: JD Vance Writes Foreword for Project 2025 Architect's Book
 importance: 8
 status: confirmed
 actors:
-- JD Vance
+- J.D. Vance
 - Kevin Roberts
 - Heritage Foundation
 - Paul Dans
 - Steven Groves
 sources:
 - outlet: PBS News
-  title: Project 2025 leader postpones launch of his book with Vance foreword until
-    after the election
+  title: Project 2025 leader postpones launch of his book with Vance foreword until after the election
   url: https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election
   accessed_date: '2025-09-23'
 - outlet: The New Republic

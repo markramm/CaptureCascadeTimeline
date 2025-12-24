@@ -1,0 +1,53 @@
+---
+id: 2018-02-26--texas-v-azar-lawsuit-seeks-total-aca-elimination
+date: '2018-02-26'
+title: Texas Leads 20 Republican States in Lawsuit Seeking to Eliminate Entire ACA
+importance: 9
+actors:
+- Texas Attorney General Ken Paxton
+- Judge Reed O'Connor
+- 20 Republican State Attorneys General
+- California Attorney General Xavier Becerra
+- U.S. Supreme Court
+- Fifth Circuit Court of Appeals
+tags:
+- healthcare
+- aca-sabotage
+- legal-challenges
+- republican-attorneys-general
+- supreme-court
+- pre-existing-conditions
+- litigation-warfare
+sources:
+- title: California v. Texas
+  url: https://en.wikipedia.org/wiki/California_v._Texas
+  outlet: Wikipedia
+  tier: 2
+- title: What is the California v. Texas (Texas v. Azar/U.S.) lawsuit?
+  url: https://www.healthinsurance.org/glossary/texas-v-azar/
+  outlet: HealthInsurance.org
+  tier: 3
+- title: Federal Judge Strikes Down Entire ACA; Law Remains In Effect
+  url: https://www.healthaffairs.org/do/10.1377/hblog20181215.617096/full/
+  outlet: Health Affairs
+  tier: 1
+- title: ACA Survives Legal Challenge, Protecting Coverage for Tens of Millions
+  url: https://www.cbpp.org/research/health/aca-survives-legal-challenge-protecting-coverage-for-tens-of-millions
+  outlet: Center on Budget and Policy Priorities
+  tier: 1
+- title: What the Texas v. Azar Ruling Means for the ACA and Health Coverage
+  url: https://www.chcf.org/resource/what-the-texas-v-azar-ruling-means-for-the-aca-and-health-coverage/
+  outlet: California Health Care Foundation
+  tier: 2
+- title: Affordable Care Act Litigation Still on the Docket After California v. Texas
+  url: https://www.congress.gov/crs-product/LSB10641
+  outlet: Congressional Research Service
+  tier: 1
+status: confirmed
+capture_lanes:
+- judicial-warfare
+- healthcare-sabotage
+- republican-litigation-strategy
+---
+
+Twenty Republican state attorneys general and governors, led by Texas, filed Texas v. Azar (later California v. Texas) in federal district court, arguing that the Tax Cuts and Jobs Act's zeroing of the individual mandate penalty rendered the entire Affordable Care Act unconstitutional. The states included Alabama, Arizona, Arkansas, Florida, Georgia, Indiana, Kansas, Louisiana, Mississippi, Missouri, Nebraska, North Dakota, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, Wisconsin, and Maine Governor Paul LePage. Their legal theory: since the Supreme Court's 2012 NFIB v. Sebelius decision upheld the mandate only under Congress's taxing power, eliminating the tax made the requirement unconstitutional, and the mandate was not severable from the rest of the law. On December 14, 2018—the last day of 2019 open enrollment—Judge Reed O'Connor (Northern District of Texas) sided with the states, striking down the entire ACA. California led 20 states defending the law and appealed to the Fifth Circuit, which upheld the mandate's unconstitutionality but questioned severability. The Supreme Court consolidated the case and heard oral arguments November 10, 2020. On June 17, 2021, the Court ruled 7-2 that Texas and the challenging states lacked standing because they showed no injury from the unenforceable mandate, dismissing the case without addressing constitutionality. This marked the third Supreme Court survival of the ACA (2012, 2015, 2021). The lawsuit threatened healthcare coverage for tens of millions, protections for pre-existing conditions, Medicaid expansion, dependent coverage to age 26, and essential health benefits—demonstrating how Republican officials weaponized litigation to accomplish through courts what they failed to achieve legislatively.

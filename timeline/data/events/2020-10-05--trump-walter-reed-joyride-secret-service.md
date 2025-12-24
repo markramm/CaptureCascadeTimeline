@@ -1,33 +1,33 @@
 ---
 id: 2020-10-05--trump-walter-reed-joyride-secret-service
 date: '2020-10-05'
-title: 'COVID-Positive Trump Leaves Hospital for SUV Joyride, Endangering Secret Service in Sealed Vehicle'
+title: COVID-Positive Trump Leaves Hospital for SUV Joyride, Endangering Secret Service in Sealed Vehicle
 importance: 7
 tags:
-  - COVID-19
-  - Public Health
-  - Secret Service
-  - Accountability Crisis
+- covid-19
+- public health
+- secret service
+- accountability crisis
 actors:
-  - Donald Trump
-  - James Phillips
-  - Sean Conley
+- Donald Trump
+- James Phillips
+- Sean Conley
 sources:
-  - title: "'This is insanity' - Doctors slam Trump's drive to greet supporters outside Walter Reed hospital"
-    url: https://www.cnbc.com/2020/10/05/trump-doctors-slam-short-drive-outside-walter-reed-hospital.html
-    publisher: CNBC
-    date: '2020-10-05'
-    tier: 1
-  - title: Trump Waves To Supporters Outside Walter Reed In Brief Drive-By
-    url: https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/04/920181116/in-brief-drive-by-trump-waves-to-supporters-outside-of-walter-reed
-    publisher: NPR
-    date: '2020-10-04'
-    tier: 1
-  - title: Trump Does Drive-By Greeting For Fans Outside Walter Reed
-    url: https://www.buzzfeednews.com/article/tasneemnashrulla/trump-infected-with-covid-19-rode-in-an-suv-with-two-people
-    publisher: BuzzFeed News
-    date: '2020-10-04'
-    tier: 2
+- title: '''This is insanity'' - Doctors slam Trump''s drive to greet supporters outside Walter Reed hospital'
+  url: https://www.cnbc.com/2020/10/05/trump-doctors-slam-short-drive-outside-walter-reed-hospital.html
+  date: '2020-10-05'
+  tier: 1
+  outlet: CNBC
+- title: Trump Waves To Supporters Outside Walter Reed In Brief Drive-By
+  url: https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/04/920181116/in-brief-drive-by-trump-waves-to-supporters-outside-of-walter-reed
+  date: '2020-10-04'
+  tier: 1
+  outlet: NPR
+- title: Trump Does Drive-By Greeting For Fans Outside Walter Reed
+  url: https://www.buzzfeednews.com/article/tasneemnashrulla/trump-infected-with-covid-19-rode-in-an-suv-with-two-people
+  date: '2020-10-04'
+  tier: 2
+  outlet: BuzzFeed News
 status: confirmed
 ---
 

@@ -2,8 +2,7 @@
 id: 2002-11-20--osp-bypasses-cia-vetting-whig-propaganda-fabrication
 date: '2002-11-20'
 importance: 9
-title: OSP Systematically Bypasses CIA Vetting to Feed Fabricated Intelligence to
-  WHIG
+title: OSP Systematically Bypasses CIA Vetting to Feed Fabricated Intelligence to WHIG
 actors:
 - Office of Special Plans
 - White House Iraq Group
@@ -24,8 +23,7 @@ tags:
 - parallel-intelligence
 status: confirmed
 sources:
-- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense
-    for Policy
+- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense for Policy
   url: https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF
   outlet: Pentagon Inspector General
   date: '2007-02-09'
@@ -35,7 +33,7 @@ sources:
   date: '2004-07-09'
 - title: Pentagon Created Phantom Cell to Push Iraq Intelligence
   url: https://www.nytimes.com/2004/10/25/politics/pentagon-created-phantom-cell-to-push-iraq-intelligence.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2004-10-25'
 capture_lanes:
 - Regulatory Capture

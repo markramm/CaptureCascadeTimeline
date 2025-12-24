@@ -4,38 +4,38 @@ date: '2020-04-06'
 title: HHS Inspector General Christi Grimm Reports Severe Hospital Shortages, Trump Attacks Her Credibility
 importance: 8
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - COVID-19
-  - Public Health
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- covid-19
+- public health
 actors:
-  - Christi Grimm
-  - Donald Trump
-  - Jason Weida
-  - Department of Health and Human Services
+- Christi Grimm
+- Donald Trump
+- Jason Weida
+- Department of Health and Human Services
 sources:
-  - title: Watchdog report finds severe shortages and significant challenges to hospitals' coronavirus responses
-    url: https://www.cnn.com/2020/04/06/politics/department-of-health-and-human-services-shortages/index.html
-    publisher: CNN
-    date: '2020-04-06'
-    tier: 1
-  - title: Trump replaces HHS watchdog who found severe shortages at hospitals combating coronavirus
-    url: https://www.washingtonpost.com/politics/trump-replaces-hhs-watchdog-who-found-severe-shortages-at-hospitals-combating-coronavirus/2020/05/02/6e274372-8c87-11ea-ac8a-fe9b8088e101_story.html
-    publisher: Washington Post
-    date: '2020-05-02'
-    tier: 1
-  - title: HHS watchdog defends April report on PPE shortages that drew Trump's wrath
-    url: https://www.cbsnews.com/news/christi-grimm-testimony-hhs-watchdog-defends-april-report-ppe-shortages/
-    publisher: CBS News
-    date: '2020-05-26'
-    tier: 1
-  - title: The HHS Inspector General Report
-    url: https://www.factcheck.org/2020/04/the-hhs-inspector-general-report/
-    publisher: FactCheck.org
-    date: '2020-04-08'
-    tier: 1
+- title: Watchdog report finds severe shortages and significant challenges to hospitals' coronavirus responses
+  url: https://www.cnn.com/2020/04/06/politics/department-of-health-and-human-services-shortages/index.html
+  date: '2020-04-06'
+  tier: 1
+  outlet: CNN
+- title: Trump replaces HHS watchdog who found severe shortages at hospitals combating coronavirus
+  url: https://www.washingtonpost.com/politics/trump-replaces-hhs-watchdog-who-found-severe-shortages-at-hospitals-combating-coronavirus/2020/05/02/6e274372-8c87-11ea-ac8a-fe9b8088e101_story.html
+  date: '2020-05-02'
+  tier: 1
+  outlet: The Washington Post
+- title: HHS watchdog defends April report on PPE shortages that drew Trump's wrath
+  url: https://www.cbsnews.com/news/christi-grimm-testimony-hhs-watchdog-defends-april-report-ppe-shortages/
+  date: '2020-05-26'
+  tier: 1
+  outlet: CBS News
+- title: The HHS Inspector General Report
+  url: https://www.factcheck.org/2020/04/the-hhs-inspector-general-report/
+  date: '2020-04-08'
+  tier: 1
+  outlet: FactCheck.org
 status: confirmed
 ---
 

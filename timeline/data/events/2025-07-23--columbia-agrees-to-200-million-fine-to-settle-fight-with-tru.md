@@ -2,10 +2,7 @@
 id: 2025-07-23--columbia-agrees-to-200-million-fine-to-settle-fight-with-tru
 date: '2025-07-23'
 title: Columbia agrees to $200 million fine to settle fight with Trump
-description: Columbia University agreed to pay a $200 million fine over three years
-  plus $21 million to the EEOC to settle investigations and restore federal funding
-  that the Trump administration had frozen, marking the first major university settlement
-  in Trump's push for control over higher education
+description: Columbia University agreed to pay a $200 million fine over three years plus $21 million to the EEOC to settle investigations and restore federal funding that the Trump administration had frozen, marking the first major university settlement in Trump's push for control over higher education
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -20,14 +17,13 @@ capture_type: regulatory_capture
 sources:
 - title: Columbia agrees to $200 million fine to settle fight with Trump
   url: https://www.nytimes.com/2025/07/23/nyregion/columbia-trump-funding-deal.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-07-23'
 - title: Columbia Agrees to $200 Million Fine to Settle Trump Administration Fight
   url: https://www.bloomberg.com/news/articles/2025-07-23/columbia-agrees-to-200-million-fine-to-settle-white-house-fight
   outlet: Bloomberg
   date: '2025-07-23'
-- title: Columbia agrees to pay over $220 million in deal with Trump administration
-    to restore federal funding
+- title: Columbia agrees to pay over $220 million in deal with Trump administration to restore federal funding
   url: https://www.cnn.com/2025/07/23/politics/columbia-trump-administration-settlement-federal-funding
   outlet: CNN
   date: '2025-07-23'

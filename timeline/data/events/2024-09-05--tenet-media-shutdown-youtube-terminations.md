@@ -29,24 +29,24 @@ actors:
 sources:
 - title: 2024 Tenet Media investigation
   url: https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation
-  publisher: Wikipedia
   date: '2024-09-10'
   tier: 3
+  outlet: Wikipedia
 - title: Pro-Trump Media Firm Abruptly Folds After Russia Scheme Exposed
   url: https://newrepublic.com/post/185686/donald-trump-tenet-media-russia-scheme
-  publisher: The New Republic
   date: '2024-09-05'
   tier: 2
+  outlet: The New Republic
 - title: Blaze Fires YouTube Contributor Linked to Alleged Russian Influence Campaign
   url: https://www.thewrap.com/blaze-youtube-contributor-fired-russian-influence-campaign/
-  publisher: The Wrap
   date: '2024-09-05'
   tier: 2
+  outlet: The Wrap
 - title: YouTube takes down Tenet Media, Lauren Chen channels after DOJ indictments
   url: https://www.washingtonpost.com/technology/2024/09/05/youtube-takes-down-tenet-lauren-chen-tenet-russia-doj/
-  publisher: Washington Post
   date: '2024-09-05'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

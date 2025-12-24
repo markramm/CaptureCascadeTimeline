@@ -28,11 +28,11 @@ sources:
   date: '2008-10-03'
 - title: Bailout Is a No-Strings Windfall to Bankers, if Not to Borrowers
   url: https://www.nytimes.com/2008/10/15/business/economy/15bailout.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2008-10-15'
 - title: The $700 Billion Question
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/09/23/AR2008092303425.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2008-09-24'
 capture_lanes:
 - Regulatory Capture

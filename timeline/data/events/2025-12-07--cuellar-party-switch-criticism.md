@@ -1,36 +1,36 @@
 ---
-id: "2025-12-07--cuellar-party-switch-criticism"
-date: "2025-12-07"
-title: "Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon"
-summary: "President Trump publicly attacks Democratic Representative Henry Cuellar for remaining in the Democratic Party and running for re-election as a Democrat, just days after Trump pardoned Cuellar and his wife from federal bribery and conspiracy charges. Trump's statements—calling Cuellar's decision 'such a lack of LOYALTY' and warning 'next time, no more Mr. Nice guy!'—strongly suggest Trump expected Cuellar to switch to the Republican Party in exchange for the pardon, demonstrating an explicit quid pro quo arrangement where presidential clemency is conditioned on political loyalty and party affiliation rather than justice or mercy."
+id: 2025-12-07--cuellar-party-switch-criticism
+date: '2025-12-07'
+title: Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon
+summary: President Trump publicly attacks Democratic Representative Henry Cuellar for remaining in the Democratic Party and running for re-election as a Democrat, just days after Trump pardoned Cuellar and his wife from federal bribery and conspiracy charges. Trump's statements—calling Cuellar's decision 'such a lack of LOYALTY' and warning 'next time, no more Mr. Nice guy!'—strongly suggest Trump expected Cuellar to switch to the Republican Party in exchange for the pardon, demonstrating an explicit quid pro quo arrangement where presidential clemency is conditioned on political loyalty and party affiliation rather than justice or mercy.
 importance: 9
 actors:
-  - Donald Trump
-  - Henry Cuellar
-  - DOJ
+- Donald Trump
+- Henry Cuellar
+- DOJ
 tags:
-  - pardons
-  - quid-pro-quo
-  - corruption
-  - Congress
-  - party-switching
-  - abuse-of-power
+- pardons
+- quid-pro-quo
+- corruption
+- congress
+- party-switching
+- abuse-of-power
 sources:
-  - url: "https://www.pbs.org/newshour/politics/trump-calls-democratic-rep-cuellar-disloyal-for-not-switching-parties-after-pardon"
-    title: "Trump calls Democratic Rep. Cuellar 'disloyal' for not switching parties after pardon"
-    publisher: "PBS NewsHour"
-    date: "2025-12-07"
-    tier: 1
-  - url: "https://www.cbsnews.com/news/trump-henry-cuellar-pardoned-switch-parties/"
-    title: "Trump suggests Rep. Cuellar, pardoned Democratic congressman, should have switched parties after clemency grant"
-    publisher: "CBS News"
-    date: "2025-12-07"
-    tier: 1
-  - url: "https://abcnews.go.com/Politics/wireStory/trump-slams-pardoned-democratic-congressman-disloyal-switching-parties-128190597"
-    title: "Trump slams pardoned Democratic congressman as 'disloyal' for not switching parties"
-    publisher: "ABC News"
-    date: "2025-12-07"
-    tier: 1
+- url: https://www.pbs.org/newshour/politics/trump-calls-democratic-rep-cuellar-disloyal-for-not-switching-parties-after-pardon
+  title: Trump calls Democratic Rep. Cuellar 'disloyal' for not switching parties after pardon
+  date: '2025-12-07'
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.cbsnews.com/news/trump-henry-cuellar-pardoned-switch-parties/
+  title: Trump suggests Rep. Cuellar, pardoned Democratic congressman, should have switched parties after clemency grant
+  date: '2025-12-07'
+  tier: 1
+  outlet: CBS News
+- url: https://abcnews.go.com/Politics/wireStory/trump-slams-pardoned-democratic-congressman-disloyal-switching-parties-128190597
+  title: Trump slams pardoned Democratic congressman as 'disloyal' for not switching parties
+  date: '2025-12-07'
+  tier: 1
+  outlet: ABC News
 ---
 
 # Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon

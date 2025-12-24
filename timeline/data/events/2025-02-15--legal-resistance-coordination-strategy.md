@@ -8,7 +8,7 @@ actors:
 - ACLU Litigation Team
 - National Lawyers Guild
 - Democracy 2025 Network
-- Civil Liberties Defense Center
+- Civil Liberties Defense Center (CLDC)
 sources:
 - title: Legal Resistance Coordination Strategy Report
   url: https://constitutionaldefense.org/strategy-summit

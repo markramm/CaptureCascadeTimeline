@@ -9,7 +9,7 @@ actors:
 - White House
 - Russ Vought
 - David Legates
-- Elon Musk (DOGE)
+- Elon Musk
 - ICF International
 tags:
 - climate
@@ -21,8 +21,7 @@ sources:
   url: https://www.scientificamerican.com/article/why-trump-just-axed-a-major-climate-program/
   outlet: Scientific American
   date: '2025-01-31'
-- title: Trump administration dismisses nearly 400 scientists working on congressionally
-    mandated national climate report
+- title: Trump administration dismisses nearly 400 scientists working on congressionally mandated national climate report
   url: https://www.cbsnews.com/news/national-climate-assessment-report-scientists-fired/
   outlet: CBS News
   date: '2025-01-30'
@@ -34,11 +33,7 @@ sources:
   url: https://cen.acs.org/environment/climate-change/White-House-dismantling-basis-US/103/web/2025/07
   outlet: Chemical & Engineering News
   date: '2025-07-20'
-notes: Multiple climate websites taken offline as part of dismantling. Program tracked
-  global climate change and shaped regulations across government. Under Vought's proposal,
-  USGCRP would be "confined to more limited advisory role" because "USGCRP actions
-  can frustrate successful litigation defense." OMB would select researchers who question
-  human contributions to climate change, give equal weight to industry studies.
+notes: Multiple climate websites taken offline as part of dismantling. Program tracked global climate change and shaped regulations across government. Under Vought's proposal, USGCRP would be "confined to more limited advisory role" because "USGCRP actions can frustrate successful litigation defense." OMB would select researchers who question human contributions to climate change, give equal weight to industry studies.
 status: confirmed
 capture_lanes:
 - Financial Capture

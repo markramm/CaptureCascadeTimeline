@@ -4,38 +4,38 @@ date: '2022-11-10'
 title: New York Adult Survivors Act Creates Window for Carroll to Sue Trump for Battery
 importance: 8
 tags:
-  - Adult Survivors Act
-  - Sexual Assault
-  - E. Jean Carroll
-  - New York Legislation
-  - Statute of Limitations
+- adult survivors act
+- sexual assault
+- e. jean carroll
+- new york legislation
+- statute of limitations
 actors:
-  - E. Jean Carroll
-  - Donald Trump
-  - Kathy Hochul
-  - Brad Hoylman
-  - Linda Rosenthal
+- E. Jean Carroll
+- Donald Trump
+- Kathy Hochul
+- Brad Hoylman
+- Linda Rosenthal
 sources:
-  - url: https://www.cnn.com/2022/11/24/politics/e-jean-carroll-trump-battery-defamation-lawsuit/index.html
-    title: E. Jean Carroll sues Trump for battery and defamation as lookback window for adult sex abuse survivors' suits opens in New York
-    publisher: CNN
-    date: '2022-11-24'
-    tier: 1
-  - url: https://www.cnn.com/2022/11/24/us/new-york-adult-survivors-act/
-    title: "New York Adult Survivors Act: Lawsuits expected as window for sexual abuse claims opens"
-    publisher: CNN
-    date: '2022-11-24'
-    tier: 1
-  - url: https://www.gothamgazette.com/state/11706-adult-survivors-act-new-york-law-civil-suits-sexual-abuse
-    title: "What to Know About the Adult Survivors Act, New York's New Law Allowing Civil Suits Over Past Sexual Abuse"
-    publisher: Gotham Gazette
-    date: '2022-11-22'
-    tier: 2
-  - url: https://abc7chicago.com/post/e-jean-carroll-donald-trump-new-york-adult-survivors-act-sexual-assault/12489838/
-    title: E Jean Carroll files civil lawsuit against Donald Trump as New York Adult Survivors Act opens window
-    publisher: ABC 7 Chicago
-    date: '2022-11-24'
-    tier: 1
+- url: https://www.cnn.com/2022/11/24/politics/e-jean-carroll-trump-battery-defamation-lawsuit/index.html
+  title: E. Jean Carroll sues Trump for battery and defamation as lookback window for adult sex abuse survivors' suits opens in New York
+  date: '2022-11-24'
+  tier: 1
+  outlet: CNN
+- url: https://www.cnn.com/2022/11/24/us/new-york-adult-survivors-act/
+  title: 'New York Adult Survivors Act: Lawsuits expected as window for sexual abuse claims opens'
+  date: '2022-11-24'
+  tier: 1
+  outlet: CNN
+- url: https://www.gothamgazette.com/state/11706-adult-survivors-act-new-york-law-civil-suits-sexual-abuse
+  title: What to Know About the Adult Survivors Act, New York's New Law Allowing Civil Suits Over Past Sexual Abuse
+  date: '2022-11-22'
+  tier: 2
+  outlet: Gotham Gazette
+- url: https://abc7chicago.com/post/e-jean-carroll-donald-trump-new-york-adult-survivors-act-sexual-assault/12489838/
+  title: E Jean Carroll files civil lawsuit against Donald Trump as New York Adult Survivors Act opens window
+  date: '2022-11-24'
+  tier: 1
+  outlet: ABC 7 Chicago
 status: confirmed
 ---
 

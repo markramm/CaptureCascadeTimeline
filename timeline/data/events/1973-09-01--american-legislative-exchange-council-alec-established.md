@@ -9,7 +9,7 @@ actors:
 - Paul Weyrich
 - Henry Hyde
 - State Legislators
-- Corporate Members
+- Corporate members
 sources:
 - outlet: The American Prospect
   title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
@@ -39,10 +39,7 @@ capture_lanes:
 - Legislative Capture
 - Political System Capture
 - Administrative State Capture
-validation_notes: Comprehensive verification of ALEC's founding through multiple sources,
-  including Congressional Record and Brookings Institution, confirming Paul Weyrich's
-  role in establishing the organization in 1973 as a vehicle for conservative legislative
-  influence.
+validation_notes: Comprehensive verification of ALEC's founding through multiple sources, including Congressional Record and Brookings Institution, confirming Paul Weyrich's role in establishing the organization in 1973 as a vehicle for conservative legislative influence.
 ---
 
 The American Legislative Exchange Council (ALEC) was founded in Chicago as the Conservative Caucus of State Legislators, initiated by Mark Rhoads with key involvement from Paul Weyrich. The organization was designed to create a systematic vehicle for corporate and conservative influence over state-level legislation, establishing a platform for corporations to draft model bills and coordinate with state legislators. By 1975, it moved to Washington, D.C., and became a key mechanism for implementing the Powell Memorandum's blueprint for corporate legislative capture.

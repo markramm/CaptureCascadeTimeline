@@ -11,13 +11,13 @@ actors:
 - Workers
 tags:
 - labor-suppression
-- Supreme-Court
+- supreme-court
 - arbitration
 - class-action
 - judicial-capture
-- Federalist-Society
+- federalist-society
 sources:
-- title: 'Epic Systems Corp v Lewis Wikipedia'
+- title: Epic Systems Corp v Lewis Wikipedia
   url: https://en.wikipedia.org/wiki/Epic_Systems_Corp._v._Lewis
   outlet: Wikipedia
   date: '2024-01-01'

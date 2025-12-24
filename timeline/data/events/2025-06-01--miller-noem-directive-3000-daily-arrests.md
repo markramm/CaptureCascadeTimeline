@@ -14,8 +14,8 @@ tags:
 actors:
 - Stephen Miller
 - Kristi Noem
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- Department of Homeland Security
 sources:
 - title: Trump orders ICE to hit Democrat-run cities in expanded deportation blitz
   url: https://www.axios.com/2025/06/16/trump-ice-democrat-cities-immigration-deport
@@ -25,13 +25,11 @@ sources:
   url: https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller
   outlet: Axios
   date: '2025-05-28'
-- title: 'Stephen Miller, Kristi Noem Push ICE To Drastically Expand Arrests To 3,000-a-Day
-    Quota: Report'
+- title: 'Stephen Miller, Kristi Noem Push ICE To Drastically Expand Arrests To 3,000-a-Day Quota: Report'
   url: https://www.latintimes.com/stephen-miller-kristi-noem-push-ice-drastically-expand-arrests-3000-day-quota-report-583868
   outlet: Latin Times
   date: '2025-05-28'
-- title: 'Stephen Miller and Kristi Noem demand ICE agents increase arrests to 3,000
-    per day: report'
+- title: 'Stephen Miller and Kristi Noem demand ICE agents increase arrests to 3,000 per day: report'
   url: https://www.yahoo.com/news/stephen-miller-kristi-noem-demand-131916023.html
   outlet: Yahoo News
   date: '2025-05-28'

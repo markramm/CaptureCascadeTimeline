@@ -4,7 +4,7 @@ date: '2025-10-07'
 title: OMB Removes Legal References to Federal Worker Back Pay Guarantees
 importance: 8
 actors:
-- Office of Management and Budget
+- Office of Management and Budget (OMB)
 - Donald Trump
 - Federal Workers
 - Chris Van Hollen
@@ -12,9 +12,9 @@ actors:
 sources:
 - title: OMB quietly deletes reference to law requiring back pay to furloughed feds
   url: https://www.defenseone.com/policy/2025/10/omb-quietly-deletes-reference-law-requiring-back-pay-furloughed-feds/408765/
-  publisher: Defense One
   date: '2025-10-07'
   tier: 2
+  outlet: Defense One
 tags:
 - systematic-corruption
 - congressional-authority-subversion

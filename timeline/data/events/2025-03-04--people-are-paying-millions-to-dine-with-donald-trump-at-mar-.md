@@ -2,8 +2,7 @@
 id: 2025-03-04--people-are-paying-millions-to-dine-with-donald-trump-at-mar-
 date: '2025-03-04'
 title: People are paying millions to dine with Donald Trump at Mar-a-Lago
-description: Business executives are paying up to $5 million for private meetings
-  with Trump and $1 million per seat at exclusive Mar-a-Lago dinners
+description: Business executives are paying up to $5 million for private meetings with Trump and $1 million per seat at exclusive Mar-a-Lago dinners
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -17,7 +16,7 @@ capture_type: monetizing_position
 sources:
 - title: People are paying millions to dine with Donald Trump at Mar-a-Lago
   url: https://www.wired.com/story/people-paying-millions-donald-trump-mar-a-lago/
-  outlet: Wired
+  outlet: WIRED
   date: '2025-03-04'
 - title: Trump Turns Mar-a-Lago Dinners Into Pricey Pay to Play Scheme
   url: https://newrepublic.com/post/192296/trump-millions-dinner-mar-a-lago

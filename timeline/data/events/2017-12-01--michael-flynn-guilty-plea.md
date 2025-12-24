@@ -4,35 +4,35 @@ date: 2017-12-01
 title: Michael Flynn Pleads Guilty to Lying to FBI About Russian Contacts
 importance: 9
 tags:
-  - Mueller Investigation
-  - Obstruction of Justice
-  - Russia Contacts
-  - Guilty Plea
-  - Flynn-Kislyak
-  - National Security
-  - Trump Administration
+- mueller investigation
+- obstruction of justice
+- russia contacts
+- guilty plea
+- flynn-kislyak
+- national security
+- trump administration
 actors:
-  - Michael Flynn
-  - Robert Mueller
-  - Sergey Kislyak
-  - Donald Trump
-  - Transition Team
+- Michael Flynn
+- Robert Mueller
+- Sergey Kislyak
+- Donald Trump
+- Transition Team
 sources:
-  - url: https://www.justice.gov/opa/pr/former-national-security-advisor-michael-t-flynn-pleads-guilty-making-false-statements-fbi
-    title: Former National Security Advisor Michael T. Flynn Pleads Guilty to Making False Statements to the FBI
-    publisher: Department of Justice
-    date: 2017-12-01
-    tier: 1
-  - url: https://www.justice.gov/file/1015126/download
-    title: Statement of the Offense - United States v. Michael T. Flynn
-    publisher: U.S. District Court for the District of Columbia
-    date: 2017-12-01
-    tier: 1
-  - url: https://www.justice.gov/storage/report.pdf
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
-    publisher: Department of Justice
-    date: 2019-03-01
-    tier: 1
+- url: https://www.justice.gov/opa/pr/former-national-security-advisor-michael-t-flynn-pleads-guilty-making-false-statements-fbi
+  title: Former National Security Advisor Michael T. Flynn Pleads Guilty to Making False Statements to the FBI
+  date: 2017-12-01
+  tier: 1
+  outlet: Department of Justice
+- url: https://www.justice.gov/file/1015126/download
+  title: Statement of the Offense - United States v. Michael T. Flynn
+  date: 2017-12-01
+  tier: 1
+  outlet: U.S. District Court for the District of Columbia
+- url: https://www.justice.gov/storage/report.pdf
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
+  date: 2019-03-01
+  tier: 1
+  outlet: Department of Justice
 ---
 
 Former National Security Advisor Michael Flynn pleaded guilty to making false statements to the FBI regarding his conversations with Russian Ambassador Sergey Kislyak during the presidential transition. Flynn became the first White House official and the highest-ranking Trump administration member to plead guilty in Special Counsel Robert Mueller's investigation. The plea represented a watershed moment, signaling that Mueller had secured cooperation from someone at the highest levels of Trump's inner circle.

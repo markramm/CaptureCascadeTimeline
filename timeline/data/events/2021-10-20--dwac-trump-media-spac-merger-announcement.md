@@ -6,7 +6,7 @@ actors:
 - Donald Trump
 - Digital World Acquisition Corp
 - Trump Media & Technology Group
-- SEC
+- Securities and Exchange Commission (SEC)
 - Bruce Garelick
 - Patrick Orlando
 sources:

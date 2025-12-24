@@ -8,7 +8,7 @@ actors:
 - NSA
 - FBI
 - White House
-- Tech Companies
+- Tech companies
 - Congress
 - Brennan Center for Justice
 - ACLU

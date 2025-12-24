@@ -16,24 +16,24 @@ tags:
 sources:
 - title: Secret Kill List Proves a Test of Obama's Principles and Will
   url: https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html
-  publisher: New York Times
   date: '2012-05-29'
   tier: 1
+  outlet: The New York Times
 - title: Civilian Casualties from United States Drone Strikes
   url: https://en.wikipedia.org/wiki/Civilian_casualties_from_U.S._drone_strikes
-  publisher: Wikipedia (sourced from NYT reporting)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from NYT reporting)
 - title: Obama's Final Drone Strike Data
   url: https://www.cfr.org/blog/obamas-final-drone-strike-data
-  publisher: Council on Foreign Relations
   date: '2017-01-20'
   tier: 1
+  outlet: Council on Foreign Relations
 - title: Biden Can Reduce Civilian Casualties During US Drone Strikes
   url: https://www.brookings.edu/articles/biden-can-reduce-civilian-casualties-during-us-drone-strikes-heres-how/
-  publisher: Brookings Institution
   date: '2021-01-22'
   tier: 1
+  outlet: Brookings Institution
 ---
 
 The New York Times reveals that the Obama administration has adopted a secret policy counting "all military-age males in a strike zone as combatants...unless there is explicit intelligence posthumously proving them innocent." This Orwellian methodology allows the administration to claim extraordinarily low civilian casualty numbers from drone strikes while independent investigations document hundreds of civilian deaths. The policy effectively presumes guilt based solely on demographics and geography, transforming being a military-age male in certain regions into a capital offense without trial while enabling the government to systematically lie about civilian casualties.

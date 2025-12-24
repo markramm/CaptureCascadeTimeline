@@ -7,7 +7,7 @@ actors:
 - Pete Hegseth
 - Jeffrey Goldberg
 - Mike Waltz
-- JD Vance
+- J.D. Vance
 - Admiral Frank Bradley
 - Senator Jack Reed
 - Senator Roger Wicker
@@ -16,10 +16,10 @@ actors:
 tags:
 - national-security-violation
 - classified-information
-- Pete-Hegseth
-- DoD
-- Signal
-- Yemen-strikes
+- pete-hegseth
+- dod
+- signal
+- yemen-strikes
 - congressional-oversight
 - policy-violations
 - accountability-evasion

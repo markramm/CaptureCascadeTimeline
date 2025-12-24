@@ -22,7 +22,7 @@ status: confirmed
 sources:
 - title: Document Says Oil Chiefs Met With Cheney Task Force
   url: https://www.washingtonpost.com/wp-dyn/content/article/2005/11/15/AR2005111501842.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2005-11-16'
 - title: Cheney v. United States District Court
   url: https://supreme.justia.com/cases/federal/us/542/367/
@@ -30,7 +30,7 @@ sources:
   date: '2004-06-24'
 - title: Energy Task Force Process Used to Develop National Energy Policy
   url: https://www.gao.gov/products/gao-03-894
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2003-08-25'
 capture_lanes:
 - Judicial Capture

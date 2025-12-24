@@ -6,7 +6,7 @@ actors:
 - YouTube
 - Google
 - Times of London
-- Major advertisers (AT&T, PepsiCo, Johnson & Johnson, Walmart, etc.)
+- Major advertisers
 - British government
 - Philip Schindler (Google Chief Business Officer)
 importance: 9

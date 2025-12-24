@@ -3,7 +3,7 @@ date: '1978-11-07'
 title: Business Roundtable Coordinates First Major Corporate PAC Election Strategy
 actors:
 - Business Roundtable
-- Reginald Jones (GE)
+- Reginald Jones
 - Corporate PAC Committee
 - Republican Party
 sources:

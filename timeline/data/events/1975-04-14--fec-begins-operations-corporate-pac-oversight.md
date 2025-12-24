@@ -5,7 +5,7 @@ importance: 8
 title: Federal Election Commission Begins Operations, Institutionalizing Corporate PAC Framework
 location: Washington, D.C.
 actors:
-- Federal Election Commission
+- Federal Election Commission (FEC)
 - President Gerald Ford
 tags:
 - fec

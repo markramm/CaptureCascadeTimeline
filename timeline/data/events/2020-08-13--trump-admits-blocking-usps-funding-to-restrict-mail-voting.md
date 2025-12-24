@@ -4,37 +4,37 @@ date: 2020-08-13
 title: Trump Explicitly Admits Blocking USPS Funding to Restrict Mail Voting
 importance: 9
 tags:
-  - Election Interference
-  - USPS
-  - Postal Service
-  - Voter Suppression
-  - Mail Voting
-  - Trump Confessions
+- election interference
+- usps
+- postal service
+- voter suppression
+- mail voting
+- trump confessions
 actors:
-  - Donald Trump
-  - Louis DeJoy
-  - USPS
+- Donald Trump
+- Louis DeJoy
+- USPS
 sources:
-  - url: https://www.npr.org/2020/08/13/902277382/trump-opposes-boosting-postal-service-funding-to-block-expansion-of-mail-in-voti
-    title: Trump Opposes Boosting Postal Service Funding To Block Expansion Of Mail-In Voting
-    publisher: NPR
-    date: 2020-08-13
-    tier: 1
-  - url: https://www.cnbc.com/amp/2020/08/13/trump-refuses-post-office-funding-as-part-of-fight-against-mail-in-voting.html
-    title: Trump says he is refusing additional post office funding as part of his fight against mail-in voting
-    publisher: CNBC
-    date: 2020-08-13
-    tier: 1
-  - url: https://www.cbsnews.com/news/trump-postal-service-funding-mail-in-voting/
-    title: Trump says he opposes more funding for Postal Service over mail-in voting
-    publisher: CBS News
-    date: 2020-08-13
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/2020/08/13/trump-blurts-out-his-true-motive-blocking-post-office-funding-mail-in-voting/
-    title: Trump blurts out his true motive on post office, mail voting
-    publisher: Washington Post
-    date: 2020-08-13
-    tier: 1
+- url: https://www.npr.org/2020/08/13/902277382/trump-opposes-boosting-postal-service-funding-to-block-expansion-of-mail-in-voti
+  title: Trump Opposes Boosting Postal Service Funding To Block Expansion Of Mail-In Voting
+  date: 2020-08-13
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/amp/2020/08/13/trump-refuses-post-office-funding-as-part-of-fight-against-mail-in-voting.html
+  title: Trump says he is refusing additional post office funding as part of his fight against mail-in voting
+  date: 2020-08-13
+  tier: 1
+  outlet: CNBC
+- url: https://www.cbsnews.com/news/trump-postal-service-funding-mail-in-voting/
+  title: Trump says he opposes more funding for Postal Service over mail-in voting
+  date: 2020-08-13
+  tier: 1
+  outlet: CBS News
+- url: https://www.washingtonpost.com/politics/2020/08/13/trump-blurts-out-his-true-motive-blocking-post-office-funding-mail-in-voting/
+  title: Trump blurts out his true motive on post office, mail voting
+  date: 2020-08-13
+  tier: 1
+  outlet: The Washington Post
 ---
 
 In a Fox Business interview with Maria Bartiromo, President Trump explicitly admitted that he was blocking emergency funding for the United States Postal Service in order to prevent the expansion of mail-in voting during the 2020 presidential election. "They need that money in order to have the Post Office work so it can take all of these millions and millions of ballots," Trump stated, directly connecting his opposition to postal funding with restricting Americans' ability to vote by mail during the COVID-19 pandemic.

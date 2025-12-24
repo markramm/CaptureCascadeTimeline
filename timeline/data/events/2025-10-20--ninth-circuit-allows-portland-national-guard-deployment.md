@@ -22,20 +22,19 @@ tags:
 sources:
 - url: https://www.npr.org/2025/10/20/nx-s1-5564797/ninth-circuit-decision-portland-national-guard-tro-president-trump
   title: 9th Circuit rules that National Guard can deploy to Portland
-  publisher: NPR
   date: '2025-10-20'
   tier: 1
+  outlet: NPR
 - url: https://www.opb.org/article/2025/10/20/ninth-circuit-national-guard-troops-can-deploy-portland/
-  title: 9th Circuit rules that National Guard can deploy to Portland, but legal questions
-    loom
-  publisher: Oregon Public Broadcasting
+  title: 9th Circuit rules that National Guard can deploy to Portland, but legal questions loom
   date: '2025-10-20'
   tier: 1
+  outlet: Oregon Public Broadcasting
 - url: https://oregoncapitalchronicle.com/2025/10/28/guard-deployment-to-portland-stays-blocked-as-9th-circuit-reviews-decision/
   title: Guard deployment to Portland stays blocked as 9th Circuit reviews decision
-  publisher: Oregon Capital Chronicle
   date: '2025-10-28'
   tier: 2
+  outlet: Oregon Capital Chronicle
 ---
 
 A three-judge panel of the U.S. Court of Appeals for the Ninth Circuit ruled 2-1 to overturn a district court order blocking President Trump's deployment of approximately 200 Oregon National Guard troops to protect a Portland ICE facility. Circuit Judges Ryan D. Nelson and Bridget S. Bade formed the majority, while Judge Susan P. Graber dissented.

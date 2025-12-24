@@ -26,29 +26,29 @@ actors:
 sources:
 - url: https://www.prnewswire.com/news-releases/founders-fund-joins-carbyne-s-15-million-series-b-round-to-provide-life-saving-emergency-response-ecosystem-898902831.html
   title: Founders Fund Joins Carbyne's $15 Million Series B Round
-  publisher: PR Newswire
   date: '2018-08-14'
   tier: 2
+  outlet: PR Newswire
 - url: https://www.calcalistech.com/ctech/articles/0,7340,L-3744302,00.html
   title: Founders Fund Invests in a 911 Startup Backed by Ehud Barak
-  publisher: CTech
   date: '2018-08-14'
   tier: 2
+  outlet: CTech
 - url: https://unlimitedhangout.com/2023/05/reportaje-investigativo/the-prince-and-the-spy/
   title: The Prince and The Spy
-  publisher: Unlimited Hangout
   date: '2023-05-16'
   tier: 3
+  outlet: Unlimited Hangout
 - url: https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819
   title: Two American billionaires and their shady deals with Israeli intelligence
-  publisher: TRT World
   date: '2019-08-09'
   tier: 2
+  outlet: TRT World
 - url: https://reason.com/2025/08/27/inside-jeffrey-epsteins-spy-industry-connections/
   title: Inside Jeffrey Epstein's spy industry connections
-  publisher: Reason
   date: '2025-08-27'
   tier: 2
+  outlet: Reason
 status: confirmed
 ---
 

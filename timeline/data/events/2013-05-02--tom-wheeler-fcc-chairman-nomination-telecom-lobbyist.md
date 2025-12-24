@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: Tom Wheeler, Former Lobbyist and Obama Fundraiser, Tapped to Lead FCC
   url: https://business.time.com/2013/05/02/tom-wheeler-former-lobbyist-and-obama-fundraiser-tapped-to-lead-fcc/
-  outlet: Time
+  outlet: TIME
   date: '2013-05-02'
 - title: New FCC chairman is "former lobbyist for cable and wireless industries"
   url: https://arstechnica.netblogpro.com/tech-policy/2013/04/new-fcc-chairman-is-former-lobbyist-for-cable-and-wireless-industries/

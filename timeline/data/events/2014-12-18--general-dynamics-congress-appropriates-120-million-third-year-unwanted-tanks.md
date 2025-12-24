@@ -13,19 +13,19 @@ tags:
 sources:
 - url: https://www.military.com/daily-news/2014/12/18/congress-again-buys-abrams-tanks-the-army-doesnt-want.html
   title: Congress Again Buys Abrams Tanks the Army Doesn't Want
-  publisher: Military.com
   date: '2014-12-18'
   tier: 2
+  outlet: Military.com
 - url: https://www.foxnews.com/politics/army-says-no-to-more-tanks-but-congress-insists
   title: Army says no to more tanks, but Congress insists
-  publisher: Fox News
   date: '2013-04-28'
   tier: 2
+  outlet: Fox News
 - url: https://www.npr.org/2012/07/25/157256332/plant-pleads-to-stay-afloat-but-army-says-no-tanks
   title: Plant Pleads To Stay Afloat, But Army Says 'No Tanks'
-  publisher: NPR
   date: '2012-07-25'
   tier: 1
+  outlet: NPR
 actors:
 - General Dynamics
 - Mike Turner

@@ -4,32 +4,32 @@ date: 2017-11-20
 title: Amazon Launches AWS Secret Region for CIA and Intelligence Community
 importance: 9
 actors:
-  - Amazon Web Services
-  - CIA
-  - Intelligence Community
+- Amazon Web Services
+- CIA
+- Intelligence Community
 tags:
-  - surveillance-infrastructure
-  - cloud-computing
-  - intelligence-agencies
-  - government-contracts
-  - classified-operations
-  - aws
+- surveillance-infrastructure
+- cloud-computing
+- intelligence-agencies
+- government-contracts
+- classified-operations
+- aws
 sources:
-  - url: https://www.nextgov.com/modernization/2017/11/amazon-web-services-announces-secret-cloud-region-cia/142662/
-    title: "Amazon Web Services Announces Secret Cloud Region For CIA"
-    publisher: Nextgov/FCW
-    date: 2017-11-20
-    tier: 1
-  - url: https://techcrunch.com/2017/11/20/aws-launches-a-secret-region-for-the-u-s-intelligence-community/
-    title: "AWS launches a Secret region for the U.S. intelligence community"
-    publisher: TechCrunch
-    date: 2017-11-20
-    tier: 2
-  - url: https://www.theregister.com/2017/11/21/aws_secret_region/
-    title: "Amazon launches Secret Region – so secret it's endorsed by the CIA"
-    publisher: The Register
-    date: 2017-11-21
-    tier: 2
+- url: https://www.nextgov.com/modernization/2017/11/amazon-web-services-announces-secret-cloud-region-cia/142662/
+  title: Amazon Web Services Announces Secret Cloud Region For CIA
+  date: 2017-11-20
+  tier: 1
+  outlet: Nextgov/FCW
+- url: https://techcrunch.com/2017/11/20/aws-launches-a-secret-region-for-the-u-s-intelligence-community/
+  title: AWS launches a Secret region for the U.S. intelligence community
+  date: 2017-11-20
+  tier: 2
+  outlet: TechCrunch
+- url: https://www.theregister.com/2017/11/21/aws_secret_region/
+  title: Amazon launches Secret Region – so secret it's endorsed by the CIA
+  date: 2017-11-21
+  tier: 2
+  outlet: The Register
 ---
 
 Amazon Web Services unveils a dedicated cloud computing region specifically designed to host classified government data at the "Secret" classification level, serving the CIA and all 17 U.S. intelligence agencies. This AWS Secret Region operates as an air-gapped, isolated infrastructure separate from the public internet, enabling intelligence agencies to "host, analyze and run applications on government data classified at the secret level" through the $600 million C2S contract established with the CIA in 2013.

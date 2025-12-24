@@ -21,11 +21,11 @@ sources:
   date: '2005-04-21'
 - url: https://www.washingtonpost.com/wp-dyn/articles/A12989-2005Apr20.html
   title: Negroponte Takes Helm of Intelligence Community
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2005-04-21'
 - url: https://www.nytimes.com/2005/04/22/politics/negroponte-takes-over-as-intelligence-chief.html
   title: Negroponte Takes Over as Intelligence Chief
-  outlet: New York Times
+  outlet: The New York Times
   date: '2005-04-22'
 importance: 7
 status: confirmed

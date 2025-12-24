@@ -1,40 +1,40 @@
 ---
 id: 2022-01-13--all-flint-charges-dismissed-on-technicality
 date: '2022-01-13'
-title: 'Judge Dismisses All Flint Criminal Charges on Technicality—Zero Accountability After Poisoning Thousands'
+title: Judge Dismisses All Flint Criminal Charges on Technicality—Zero Accountability After Poisoning Thousands
 importance: 10
 tags:
-  - flint-water-crisis
-  - accountability
-  - criminal-justice
-  - impunity
-  - environmental-racism
+- flint-water-crisis
+- accountability
+- criminal-justice
+- impunity
+- environmental-racism
 actors:
-  - Elizabeth Kelly
-  - F. Kay Behm
-  - Rick Snyder
-  - Michigan Supreme Court
+- Elizabeth Kelly
+- F. Kay Behm
+- Rick Snyder
+- Michigan Supreme Court
 sources:
-  - url: https://www.npr.org/2022/10/05/1126884708/a-michigan-judge-drops-felony-charges-against-7-people-in-flint-water-scandal
-    title: A Michigan judge drops felony charges against 7 people in Flint water scandal
-    publisher: NPR
-    date: 2022-10-05
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/judge-dismisses-flint-water-crisis-charges-against-former-michigan-governor
-    title: Judge dismisses Flint water crisis charges against former Michigan governor
-    publisher: PBS NewsHour
-    date: 2022-12-09
-    tier: 1
-  - url: https://www.cnn.com/2022/12/13/us/flint-michigan-rick-snyder-water-crisis/index.html
-    title: Criminal charges against former Gov. Rick Snyder related to Flint water crisis to be dismissed
-    publisher: CNN
-    date: 2022-12-13
-    tier: 2
-  - url: https://www.abc12.com/news/flint-water-emergency/final-nail-in-the-coffin-flint-water-criminal-cases-are-over/article_69ccfe32-7803-11ee-83ea-ab7d59c016db.html
-    title: "'Final nail in the coffin' - Flint water criminal cases are over"
-    publisher: ABC12
-    date: 2023-10-18
-    tier: 2
+- url: https://www.npr.org/2022/10/05/1126884708/a-michigan-judge-drops-felony-charges-against-7-people-in-flint-water-scandal
+  title: A Michigan judge drops felony charges against 7 people in Flint water scandal
+  date: 2022-10-05
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/politics/judge-dismisses-flint-water-crisis-charges-against-former-michigan-governor
+  title: Judge dismisses Flint water crisis charges against former Michigan governor
+  date: 2022-12-09
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.cnn.com/2022/12/13/us/flint-michigan-rick-snyder-water-crisis/index.html
+  title: Criminal charges against former Gov. Rick Snyder related to Flint water crisis to be dismissed
+  date: 2022-12-13
+  tier: 2
+  outlet: CNN
+- url: https://www.abc12.com/news/flint-water-emergency/final-nail-in-the-coffin-flint-water-criminal-cases-are-over/article_69ccfe32-7803-11ee-83ea-ab7d59c016db.html
+  title: '''Final nail in the coffin'' - Flint water criminal cases are over'
+  date: 2023-10-18
+  tier: 2
+  outlet: ABC12
 status: confirmed
 ---
 

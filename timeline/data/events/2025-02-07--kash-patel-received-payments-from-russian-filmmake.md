@@ -2,9 +2,7 @@
 id: 2025-02-07--kash-patel-received-payments-from-russian-filmmake
 date: '2025-02-07'
 title: Kash Patel Received Payments from Russian Filmmaker with Kremlin Ties
-description: Documents revealed Trump's FBI director pick Kash Patel was paid by a
-  Russian filmmaker with ties to the Kremlin, raising serious concerns about foreign
-  influence and conflicts of interest.
+description: Documents revealed Trump's FBI director pick Kash Patel was paid by a Russian filmmaker with ties to the Kremlin, raising serious concerns about foreign influence and conflicts of interest.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -31,7 +29,7 @@ sources:
   date: '2025-02-07'
 - title: Kash Patel was paid by Russian filmmaker tied to Kremlin, documents show
   url: https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-07'
 - title: Trump FBI Nominee Kash Patel Pocketed $25K From Filmmaker With Ties to Kremlin
   url: https://www.thedailybeast.com/trump-fbi-nominee-kash-patel-pocketed-25k-from-filmmaker-with-ties-to-kremlin/
@@ -42,8 +40,7 @@ patterns:
 - foreign-influence
 - russian-connections
 - fbi-compromise
-notes: Event represents a significant example of potential intelligence compromise
-  and kleptocratic capture through financial entanglement with foreign actors.
+notes: Event represents a significant example of potential intelligence compromise and kleptocratic capture through financial entanglement with foreign actors.
 capture_lanes:
 - Intelligence Penetration
 - Foreign Influence Networks

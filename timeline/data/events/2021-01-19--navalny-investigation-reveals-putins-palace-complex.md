@@ -16,13 +16,12 @@ sources:
   title: Navalny Releases Investigation Into Decadent Billion-Dollar 'Putin Palace'
   url: https://edition.cnn.com/2021/01/20/europe/putin-palace-navalny-russia-intl/index.html
   date: '2021-01-20'
-- outlet: TIME Magazine
+- outlet: TIME
   title: The Inside Story of How Navalny Uncovered Putin's Palace
   url: https://time.com/5934092/navalny-putin-palace-investigation/
   date: '2021-02-01'
 - outlet: Meduza
-  title: 'Putin''s Palace: Navalny''s Anti-Corruption Foundation Investigates the
-    Russian President''s Billion-Dollar Residence'
+  title: 'Putin''s Palace: Navalny''s Anti-Corruption Foundation Investigates the Russian President''s Billion-Dollar Residence'
   url: https://meduza.io/en/feature/2021/01/19/putin-s-palace
   date: '2021-01-19'
 - outlet: Courthouse News Service

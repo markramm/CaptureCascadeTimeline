@@ -1,8 +1,7 @@
 ---
 id: 2025-09-09--doj-demands-detailed-voter-data-from-30-states-for-centralized-database
 date: '2025-09-09'
-title: DOJ Demands Detailed Voter Roll Data From 30+ States to Build Centralized National
-  Database
+title: DOJ Demands Detailed Voter Roll Data From 30+ States to Build Centralized National Database
 importance: 9
 tags:
 - election-subversion
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.nytimes.com/2025/09/09/us/politics/justice-department-voter-rolls-data.html
   title: Justice Department Demands Voter Roll Data to Build National Database
-  publisher: New York Times
   date: '2025-09-09'
   tier: 1
+  outlet: The New York Times
 actors:
 - Department of Justice
 - Donald Trump

@@ -16,9 +16,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/21/us/politics/trump-doj-reimbursement-demand.html
   title: Trump Demands $230M from Justice Department
-  publisher: New York Times
   date: '2025-10-21'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

@@ -4,39 +4,39 @@ date: '2021-02-10'
 title: Impeachment Managers Present Devastating 13-Minute Video Compilation of January 6 Attack
 importance: 9
 tags:
-  - Impeachment
-  - January 6 Attack
-  - Senate Trial
-  - Video Evidence
-  - Capitol Police
+- impeachment
+- january 6 attack
+- senate trial
+- video evidence
+- capitol police
 actors:
-  - Jamie Raskin
-  - Stacey Plaskett
-  - Eric Swalwell
-  - Eugene Goodman
-  - Mitt Romney
-  - Chuck Schumer
+- Jamie Raskin
+- Stacey Plaskett
+- Eric Swalwell
+- Eugene Goodman
+- Mitt Romney
+- Chuck Schumer
 sources:
-  - url: https://www.nbcnews.com/politics/donald-trump/trump-impeachment-trial-day-2-kicks-case-against-him-n1257246
-    title: House managers play never-seen-before video of Capitol riot in Day 2 of Trump's trial
-    publisher: NBC News
-    date: '2021-02-10'
-    tier: 1
-  - url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/10/966284540/impeachment-managers-to-present-new-video-footage-in-opening-presentation
-    title: Impeachment Managers To Show New Video Footage In Trial
-    publisher: NPR
-    date: '2021-02-10'
-    tier: 1
-  - url: https://www.cbsnews.com/news/trump-impeachment-trial-new-video-evidence-capitol-attack-senators-reaction/
-    title: Senators react to new video evidence from January 6 Capitol attack
-    publisher: CBS News
-    date: '2021-02-10'
-    tier: 1
-  - url: https://www.cbsnews.com/news/jamie-raskin-recounts-us-capitol-riot-impeachment-trial-day-1/
-    title: Representative Raskin gives emotional argument at Trump impeachment trial
-    publisher: CBS News
-    date: '2021-02-09'
-    tier: 1
+- url: https://www.nbcnews.com/politics/donald-trump/trump-impeachment-trial-day-2-kicks-case-against-him-n1257246
+  title: House managers play never-seen-before video of Capitol riot in Day 2 of Trump's trial
+  date: '2021-02-10'
+  tier: 1
+  outlet: NBC News
+- url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/10/966284540/impeachment-managers-to-present-new-video-footage-in-opening-presentation
+  title: Impeachment Managers To Show New Video Footage In Trial
+  date: '2021-02-10'
+  tier: 1
+  outlet: NPR
+- url: https://www.cbsnews.com/news/trump-impeachment-trial-new-video-evidence-capitol-attack-senators-reaction/
+  title: Senators react to new video evidence from January 6 Capitol attack
+  date: '2021-02-10'
+  tier: 1
+  outlet: CBS News
+- url: https://www.cbsnews.com/news/jamie-raskin-recounts-us-capitol-riot-impeachment-trial-day-1/
+  title: Representative Raskin gives emotional argument at Trump impeachment trial
+  date: '2021-02-09'
+  tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

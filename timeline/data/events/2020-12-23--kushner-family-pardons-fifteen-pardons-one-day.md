@@ -4,39 +4,39 @@ date: '2020-12-23'
 title: Trump Pardons Charles Kushner and 14 Others in Single-Day Corruption Spree
 importance: 9
 actors:
-  - Donald Trump
-  - Charles Kushner
-  - Jared Kushner
-  - Paul Erickson
-  - Margaret Hunter
-  - Chris Christie
+- Donald Trump
+- Charles Kushner
+- Jared Kushner
+- Paul Erickson
+- Margaret Hunter
+- Chris Christie
 tags:
-  - Pardons
-  - Corruption
-  - Nepotism
-  - Abuse-of-Power
-  - Pay-to-Play
+- pardons
+- corruption
+- nepotism
+- abuse-of-power
+- pay-to-play
 sources:
-  - title: Trump pardons Manafort, Stone and Charles Kushner
-    url: https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html
-    publisher: CNN
-    date: '2020-12-23'
-    tier: 1
-  - title: Trump Pardons Charles Kushner, Father of His Son-in-Law
-    url: https://www.nytimes.com/2020/12/23/us/politics/trump-pardons-kushner-manafort.html
-    publisher: New York Times
-    date: '2020-12-23'
-    tier: 1
-  - title: Charles Kushner's guilty plea and sentencing
-    url: https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/kushn1203rel.pdf
-    publisher: U.S. Department of Justice
-    date: '2004-12-03'
-    tier: 1
-  - title: The sordid case behind Jared Kushner's father's pardon
-    url: https://www.reuters.com/article/idUSKBN28X1LW/
-    publisher: Reuters
-    date: '2020-12-23'
-    tier: 1
+- title: Trump pardons Manafort, Stone and Charles Kushner
+  url: https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html
+  date: '2020-12-23'
+  tier: 1
+  outlet: CNN
+- title: Trump Pardons Charles Kushner, Father of His Son-in-Law
+  url: https://www.nytimes.com/2020/12/23/us/politics/trump-pardons-kushner-manafort.html
+  date: '2020-12-23'
+  tier: 1
+  outlet: The New York Times
+- title: Charles Kushner's guilty plea and sentencing
+  url: https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/kushn1203rel.pdf
+  date: '2004-12-03'
+  tier: 1
+  outlet: U.S. Department of Justice
+- title: The sordid case behind Jared Kushner's father's pardon
+  url: https://www.reuters.com/article/idUSKBN28X1LW/
+  date: '2020-12-23'
+  tier: 1
+  outlet: Reuters
 status: confirmed
 ---
 

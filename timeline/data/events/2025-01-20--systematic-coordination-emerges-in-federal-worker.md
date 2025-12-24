@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Trump Administration
 - Heritage Foundation
-- Office of Personnel Management
+- Office of Personnel Management (OPM)
 - Federal Employee Unions
 - Project 2025 Coalition
 - Paul Dans
@@ -15,8 +15,7 @@ actors:
 - Everett Kelley
 sources:
 - outlet: AFGE (American Federation of Government Employees)
-  title: Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal
-    Workers
+  title: Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal Workers
   url: https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers
   date_accessed: '2025-09-25'
 - outlet: Citizens for Responsibility and Ethics in Washington
@@ -59,9 +58,7 @@ capture_lanes:
 - Regulatory Capture
 - Administrative State Capture
 - Political System Transformation
-validation_notes: Enhanced with NPR and PBS sources documenting specific layoff details,
-  agency impacts, and legal challenges. Verified Schedule F implications and Project
-  2025 connection.
+validation_notes: Enhanced with NPR and PBS sources documenting specific layoff details, agency impacts, and legal challenges. Verified Schedule F implications and Project 2025 connection.
 ---
 
 The Trump administration systematically dismantled federal civil service protections through Schedule F, an executive order enabling mass reclassification and termination of career civil servants. By October 2025, approximately 4,200 federal workers across at least 7 agencies received reduction in force (RIF) notices. The Heritage Foundation's Project 2025 blueprint targeted up to 50,000 federal workers, transforming nonpartisan positions into at-will political appointments. These actions represent a profound restructuring of the federal workforce, prioritizing political loyalty over institutional expertise and professional civil service standards.

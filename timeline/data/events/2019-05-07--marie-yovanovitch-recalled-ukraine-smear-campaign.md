@@ -4,41 +4,41 @@ date: '2019-05-07'
 title: Ambassador Marie Yovanovitch Recalled from Ukraine After Giuliani-Led Smear Campaign
 importance: 8
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - Ukraine
-  - Corruption
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- ukraine
+- corruption
 actors:
-  - Marie Yovanovitch
-  - Donald Trump
-  - Rudy Giuliani
-  - Yuriy Lutsenko
-  - Lev Parnas
-  - Igor Fruman
-  - John Solomon
+- Marie Yovanovitch
+- Donald Trump
+- Rudy Giuliani
+- Yuriy Lutsenko
+- Lev Parnas
+- Igor Fruman
+- John Solomon
 sources:
-  - title: U.S. Ambassador to Ukraine Recalled in 'Political Hit Job,' Lawmakers Say
-    url: https://foreignpolicy.com/2019/05/07/us-ambassador-to-ukraine-recalled-in-political-hit-job-lawmakers-say-marie-yovanovitch-lutsenko-right-wing-media-accusations-congress-diplomats-diplomacy/
-    publisher: Foreign Policy
-    date: '2019-05-07'
-    tier: 1
-  - title: U.S. ambassador to Ukraine Marie Yovanovitch is recalled after becoming a political target
-    url: https://www.washingtonpost.com/opinions/2019/05/07/us-ambassador-ukraine-is-recalled-after-becoming-political-target/
-    publisher: Washington Post
-    date: '2019-05-07'
-    tier: 1
-  - title: How Former Ambassador Marie Yovanovitch Became A Target In Ukraine
-    url: https://www.npr.org/2019/10/11/768662050/how-former-ambassador-marie-yovanovitch-became-a-target-in-ukraine
-    publisher: NPR
-    date: '2019-10-11'
-    tier: 1
-  - title: Former U.S. Ukraine Ambassador Says President Trump Pushed For Her Removal
-    url: https://www.kpbs.org/news/2019/10/11/former-us-ukraine-ambassador-testifies-in
-    publisher: KPBS
-    date: '2019-10-11'
-    tier: 1
+- title: U.S. Ambassador to Ukraine Recalled in 'Political Hit Job,' Lawmakers Say
+  url: https://foreignpolicy.com/2019/05/07/us-ambassador-to-ukraine-recalled-in-political-hit-job-lawmakers-say-marie-yovanovitch-lutsenko-right-wing-media-accusations-congress-diplomats-diplomacy/
+  date: '2019-05-07'
+  tier: 1
+  outlet: Foreign Policy
+- title: U.S. ambassador to Ukraine Marie Yovanovitch is recalled after becoming a political target
+  url: https://www.washingtonpost.com/opinions/2019/05/07/us-ambassador-ukraine-is-recalled-after-becoming-political-target/
+  date: '2019-05-07'
+  tier: 1
+  outlet: The Washington Post
+- title: How Former Ambassador Marie Yovanovitch Became A Target In Ukraine
+  url: https://www.npr.org/2019/10/11/768662050/how-former-ambassador-marie-yovanovitch-became-a-target-in-ukraine
+  date: '2019-10-11'
+  tier: 1
+  outlet: NPR
+- title: Former U.S. Ukraine Ambassador Says President Trump Pushed For Her Removal
+  url: https://www.kpbs.org/news/2019/10/11/former-us-ukraine-ambassador-testifies-in
+  date: '2019-10-11'
+  tier: 1
+  outlet: KPBS
 status: confirmed
 ---
 

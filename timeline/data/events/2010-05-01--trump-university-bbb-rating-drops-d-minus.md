@@ -4,30 +4,30 @@ date: 2010-05-01
 title: Better Business Bureau Drops Trump University Rating to D- After Flood of Consumer Complaints
 importance: 8
 tags:
-  - Trump University
-  - Fraud
-  - Consumer Protection
-  - Better Business Bureau
-  - Education Fraud
+- trump university
+- fraud
+- consumer protection
+- better business bureau
+- education fraud
 actors:
-  - Donald Trump
-  - Michael Sexton
+- Donald Trump
+- Michael Sexton
 sources:
-  - url: https://www.factcheck.org/2016/03/trump-universitys-d-rating/
-    title: Trump University's D- Rating
-    publisher: FactCheck.org
-    date: 2016-03-11
-    tier: 1
-  - url: https://abcnews.go.com/Politics/bbb-explains-minus-grade-trump-university/story?id=37491525
-    title: BBB Explains D-Minus Grade for Trump University
-    publisher: ABC News
-    date: 2016-03-07
-    tier: 1
-  - url: https://time.com/4251160/better-business-bureau-trump-university-rating/
-    title: Trump University Rating was D- in 2010
-    publisher: TIME
-    date: 2016-03-07
-    tier: 1
+- url: https://www.factcheck.org/2016/03/trump-universitys-d-rating/
+  title: Trump University's D- Rating
+  date: 2016-03-11
+  tier: 1
+  outlet: FactCheck.org
+- url: https://abcnews.go.com/Politics/bbb-explains-minus-grade-trump-university/story?id=37491525
+  title: BBB Explains D-Minus Grade for Trump University
+  date: 2016-03-07
+  tier: 1
+  outlet: ABC News
+- url: https://time.com/4251160/better-business-bureau-trump-university-rating/
+  title: Trump University Rating was D- in 2010
+  date: 2016-03-07
+  tier: 1
+  outlet: TIME
 ---
 
 The Better Business Bureau issued Trump University a D- rating in 2010, the lowest rating the enterprise received during its active operations. The rating resulted from multiple consumer complaints the BBB received documenting deceptive practices, high-pressure sales tactics, and unfulfilled promises. Students complained that Trump University promised personal involvement from Trump in selecting instructors and developing curriculum, but this never materialized. The "mentors" were not the vetted experts students had been promised, and many students felt defrauded after paying thousands of dollars for courses that failed to deliver the advertised value. Trump would later falsely claim during his 2016 presidential campaign that Trump University had an A rating from the BBB, when in fact the D- rating from 2010 represented the organization's actual performance during its operational period.

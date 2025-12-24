@@ -4,31 +4,31 @@ date: 2018-09-26
 title: Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program
 importance: 8
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Whole Foods
+- Jeff Bezos
+- Amazon
+- Whole Foods
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Corporate Accountability
-  - Surveillance
+- union organizing
+- worker exploitation
+- amazon
+- corporate accountability
+- surveillance
 sources:
-  - url: https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201
-    title: "Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video"
-    publisher: Gizmodo
-    date: 2018-09-26
-    tier: 1
-  - url: https://fortune.com/2018/09/26/amazon-anti-union-video-whole-foods/
-    title: "Amazon Sends 'Anti-Union' Video to Whole Foods Team Leaders: Report"
-    publisher: Fortune
-    date: 2018-09-26
-    tier: 1
-  - url: https://www.commondreams.org/news/2018/09/27/unions-are-lying-cheating-rats-leaked-video-reveals-amazons-belligerent-anti-worker
-    title: "'Unions Are Lying, Cheating Rats': Leaked Video Reveals Amazon's Belligerent Anti-Worker Tactics"
-    publisher: Common Dreams
-    date: 2018-09-27
-    tier: 2
+- url: https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201
+  title: Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video
+  date: 2018-09-26
+  tier: 1
+  outlet: Gizmodo
+- url: https://fortune.com/2018/09/26/amazon-anti-union-video-whole-foods/
+  title: 'Amazon Sends ''Anti-Union'' Video to Whole Foods Team Leaders: Report'
+  date: 2018-09-26
+  tier: 1
+  outlet: Fortune
+- url: https://www.commondreams.org/news/2018/09/27/unions-are-lying-cheating-rats-leaked-video-reveals-amazons-belligerent-anti-worker
+  title: '''Unions Are Lying, Cheating Rats'': Leaked Video Reveals Amazon''s Belligerent Anti-Worker Tactics'
+  date: 2018-09-27
+  tier: 2
+  outlet: Common Dreams
 status: confirmed
 ---
 

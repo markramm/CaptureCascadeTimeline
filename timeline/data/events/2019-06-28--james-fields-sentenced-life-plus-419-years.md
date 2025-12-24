@@ -8,33 +8,33 @@ actors:
 - Heather Heyer
 - Susan Bro
 tags:
-- White Nationalism
-- Extremism
-- Domestic Terrorism
+- white nationalism
+- extremism
+- domestic terrorism
 - hate-crimes
-- Alt-Right
+- alt-right
 status: confirmed
 sources:
 - url: https://www.justice.gov/archives/opa/pr/ohio-man-sentenced-life-prison-federal-hate-crimes-related-august-2017-car-attack-rally
   title: Ohio Man Sentenced to Life in Prison for Federal Hate Crimes Related to August 2017 Car Attack at Rally in Charlottesville, Virginia
-  publisher: U.S. Department of Justice
   date: '2019-06-28'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.splcenter.org/resources/hatewatch/virginia-judge-hands-down-life-sentence-plus-419-years-case-james-alex-fields-jr-calls
   title: Virginia Judge Hands Down Life Sentence, Plus 419 Years, in Case of James Alex Fields Jr., Calls Attack An Act of 'Terror'
-  publisher: Southern Poverty Law Center
   date: '2019-07-15'
   tier: 1
+  outlet: Southern Poverty Law Center
 - url: https://www.npr.org/2019/07/15/741756615/virginia-court-sentences-neo-nazi-james-fields-jr-to-life-in-prison
   title: Neo-Nazi James Fields Gets 2nd Life Sentence For Charlottesville Attack
-  publisher: NPR
   date: '2019-07-15'
   tier: 1
+  outlet: NPR
 - url: https://www.cbsnews.com/news/james-alex-fields-jr-charlottesville-car-attack-sentenced-life-plus-419-years-today-2019-07-15/
   title: James Alex Fields Jr. sentenced to life plus 419 years in deadly Charlottesville car attack
-  publisher: CBS News
   date: '2019-07-15'
   tier: 2
+  outlet: CBS News
 capture_lanes:
 - Judicial Capture
 ---

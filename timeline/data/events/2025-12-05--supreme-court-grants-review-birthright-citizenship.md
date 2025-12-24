@@ -15,8 +15,8 @@ actors:
 - Lindsey Graham
 tags:
 - birthright-citizenship
-- 14th-Amendment
-- Supreme-Court
+- 14th-amendment
+- supreme-court
 - immigration
 - constitutional-crisis
 - civil-rights

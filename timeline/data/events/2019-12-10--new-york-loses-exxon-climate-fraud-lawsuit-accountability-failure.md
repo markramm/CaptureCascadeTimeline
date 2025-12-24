@@ -4,43 +4,43 @@ date: '2019-12-10'
 title: New York Loses ExxonMobil Climate Fraud Lawsuit in Major Accountability Failure
 importance: 9
 tags:
-  - climate-denial
-  - exxonknew
-  - corporate-accountability-failure
-  - legal-system
-  - fossil-fuels
+- climate-denial
+- exxonknew
+- corporate-accountability-failure
+- legal-system
+- fossil-fuels
 actors:
-  - Barry Ostrager
-  - Letitia James
-  - ExxonMobil
-  - New York Supreme Court
-  - Eric Schneiderman
+- Barry Ostrager
+- Letitia James
+- ExxonMobil
+- New York Supreme Court
+- Eric Schneiderman
 sources:
-  - url: https://www.npr.org/2019/12/10/780317799/exxon-wins-new-york-climate-change-case
-    title: Exxon Wins New York Climate Change Fraud Case
-    publisher: NPR
-    date: '2019-12-10'
-    tier: 1
-  - url: https://undark.org/2019/12/13/abstracts-exxon-new-york-climate/
-    title: In Climate Fraud Suit, Exxon Mobil Earns Win Over New York State
-    publisher: Undark
-    date: '2019-12-13'
-    tier: 2
-  - url: https://insideclimatenews.org/news/24102018/exxon-climate-fraud-lawsuit-new-york-attorney-general-investigation-tillerson/
-    title: New York AG Sues Exxon, Says Oil Giant Defrauded Investors Over Climate Change
-    publisher: Inside Climate News
-    date: '2018-10-24'
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/People_v._Exxon_Mobil
-    title: People v. Exxon Mobil
-    publisher: Wikipedia
-    date: '2024-01-01'
-    tier: 2
+- url: https://www.npr.org/2019/12/10/780317799/exxon-wins-new-york-climate-change-case
+  title: Exxon Wins New York Climate Change Fraud Case
+  date: '2019-12-10'
+  tier: 1
+  outlet: NPR
+- url: https://undark.org/2019/12/13/abstracts-exxon-new-york-climate/
+  title: In Climate Fraud Suit, Exxon Mobil Earns Win Over New York State
+  date: '2019-12-13'
+  tier: 2
+  outlet: Undark
+- url: https://insideclimatenews.org/news/24102018/exxon-climate-fraud-lawsuit-new-york-attorney-general-investigation-tillerson/
+  title: New York AG Sues Exxon, Says Oil Giant Defrauded Investors Over Climate Change
+  date: '2018-10-24'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://en.wikipedia.org/wiki/People_v._Exxon_Mobil
+  title: People v. Exxon Mobil
+  date: '2024-01-01'
+  tier: 2
+  outlet: Wikipedia
 status: confirmed
 capture_lanes:
-  - Legal System Capture
-  - Corporate Accountability Failure
-  - Judicial Outcomes
+- Legal System Capture
+- Corporate Accountability Failure
+- Judicial Outcomes
 ---
 
 On December 10, 2019, Justice Barry Ostrager of the New York State Supreme Court ruled that New York Attorney General Letitia James "failed to prove by a preponderance of the evidence that ExxonMobil made any material misrepresentations" regarding climate change risks to investors. The decision dismissed New York's landmark lawsuit filed in October 2018, which accused ExxonMobil of defrauding investors by misleading them about financial risks the company faced from climate change regulations. The verdict represented a major accountability failure despite documentary evidence from the #ExxonKnew investigations showing the company's decades of climate science knowledge and subsequent denial funding.

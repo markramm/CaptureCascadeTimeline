@@ -10,7 +10,7 @@ actors:
 - Republican state legislators
 - State Policy Network
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
 - big-lie

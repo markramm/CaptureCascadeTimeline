@@ -10,10 +10,9 @@ tags:
 - spac-fraud
 - regulatory-enforcement
 actors:
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Digital World Acquisition Corp
 - Trump Media & Technology Group
-- SEC
 sources:
 - title: SEC Charges Digital World SPAC for Material Misrepresentations to Investors
   url: https://www.sec.gov/newsroom/press-releases/2023-135

@@ -5,16 +5,16 @@ title: DHS Secretary Announces Additional Chicago Property Purchase for ICE Oper
 importance: 7
 actors:
 - Kristi Noem
-- DHS
-- ICE
+- Department of Homeland Security
+- Immigration and Customs Enforcement (ICE)
 - JB Pritzker
 - City of Chicago
 sources:
 - title: Trump Administration Buying Chicago Property for More ICE Operations
   url: https://chicago.suntimes.com/politics/2025/10/09/trump-dhs-ice-chicago-property-purchase
-  publisher: Chicago Sun-Times
   date: '2025-10-09'
   tier: 2
+  outlet: Chicago Sun-Times
 tags:
 - immigration-enforcement
 - federal-overreach

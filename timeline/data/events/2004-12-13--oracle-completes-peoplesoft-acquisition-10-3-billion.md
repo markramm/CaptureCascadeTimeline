@@ -17,19 +17,19 @@ actors:
 sources:
 - title: The PeopleSoft vs. Oracle clash
   url: https://www.theregister.com/2004/12/13/oracle_peoplesoft_history/
-  publisher: The Register
   date: '2004-12-13'
   tier: 2
+  outlet: The Register
 - title: 20 years since Oracle bought two software rivals in one
   url: https://www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/
-  publisher: The Register
   date: '2025-01-02'
   tier: 2
+  outlet: The Register
 - title: 'Oracle V. Peoplesoft: A Case Study'
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=816006
-  publisher: Harvard Law School
   date: '2006-01-01'
   tier: 2
+  outlet: Harvard Law School
 ---
 
 Oracle Corporation completed its acquisition of PeopleSoft on December 13, 2004, for approximately $10.3 billion ($26.50 per share), concluding an 18-month hostile takeover battle after defeating the Department of Justice's antitrust challenge. The final purchase price represented more than double Oracle's initial $5.1 billion offer from June 2003, demonstrating PeopleSoft's successful resistance strategy that forced Oracle to pay a substantial premium.

@@ -1,0 +1,36 @@
+---
+id: 2025-11-27--uscis-halts-afghan-asylum-collective-punishment
+date: '2025-11-27'
+title: 'USCIS Halts All Afghan Asylum Decisions After DC Shooting: Collective Punishment for Entire Nation'
+importance: 9
+actors:
+- Joseph Edlow
+- Marco Rubio
+- Donald Trump
+tags:
+- uscis
+- immigration
+- collective punishment
+- afghan refugees
+- due process
+- state department
+sources:
+- title: USCIS Implements Additional National Security Measures in the Wake of National Guard Shooting by Afghan National
+  url: https://www.uscis.gov/newsroom/news-releases/uscis-implements-additional-national-security-measures-in-the-wake-of-national-guard-shooting-by
+  outlet: USCIS
+  date: '2025-11-27'
+  tier: 1
+- title: USCIS halts asylum decisions after Afghan national accused of shooting National Guard members
+  url: https://www.foxnews.com/politics/uscis-halts-all-asylum-decisions-after-dc-shooting-national-guard-members
+  outlet: Fox News
+  date: '2025-11-29'
+  tier: 2
+- title: Shooting of National Guard members prompts flurry of U.S. immigration restrictions
+  url: https://www.pbs.org/newshour/politics/shooting-of-national-guard-members-prompts-flurry-of-u-s-immigration-restrictions
+  outlet: PBS
+  date: '2025-11-28'
+  tier: 1
+status: confirmed
+---
+
+On November 27, 2025, USCIS Director Joseph Edlow announced that the agency would halt all asylum decisions for Afghan nationals indefinitely, declaring the pause would continue "until we can ensure that every alien is vetted and screened to the maximum degree possible." The announcement came immediately after a November 26 shooting in Washington, D.C., where Afghan national Rahmanullah Lakanwal was accused of shooting two National Guard members, killing Army Specialist Sarah Beckstrom, 20, and critically wounding Air Force Staff Sergeant Andrew Wolfe, 24. The policy represents collective punishment affecting hundreds of thousands of Afghan nationals for the actions of one individual. The State Department simultaneously paused visa issuance for all Afghan passport holders, effectively shutting down the Special Immigrant Visa program that served as the last remaining pathway for approximately 180,000 Afghans who had assisted U.S. military efforts and were in the application process. USCIS also announced a "full-scale, rigorous reexamination" of all green cards issued to nationals from 19 countries designated as "high-risk," and ordered review of nearly 200,000 refugees admitted during the Biden administration. Refugee advocates and Afghan community organizations denounced the measures as a violation of due process and federal law, arguing that Afghan refugees already undergo the most rigorous vetting process of any immigration category, often taking years. The #AfghanEvac organization stated that Secretary of State Marco Rubio appeared to be attempting "to shut down the Afghan Special Immigrant Visa program in direct violation of federal law." The policy exemplifies the administration's approach of using individual incidents to justify sweeping immigration restrictions that punish entire populations, abandoning legal commitments to allies who risked their lives assisting U.S. military operations in Afghanistan. The suspect, Lakanwal, had worked with the CIA during the Afghanistan War, applied for asylum during the Biden administration, and was granted asylum under the Trump administration in spring 2025, raising questions about the logic of halting all future asylum decisions based on vetting failures that occurred under current leadership.

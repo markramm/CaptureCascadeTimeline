@@ -27,7 +27,7 @@ sources:
   title: Elon Musk spends $277 million to back Trump and Republican candidates
   date: '2025-04-16'
   url: https://www.cbsnews.com/news/elon-musk-277-million-trump-republican-candidates-donations/
-- outlet: Washington Post
+- outlet: The Washington Post
   title: Elon Musk focuses donations on GOP lawmakers targeting judges
   date: '2025-04-16'
   url: https://www.washingtonpost.com/technology/2025/04/16/elon-musk-campaign-donations-judges-impeach/
@@ -38,8 +38,7 @@ sources:
 connections: []
 patterns:
 - kleptocratic-capture
-notes: Musk donated to lawmakers challenging judicial rulings blocking his government
-  efficiency initiatives.
+notes: Musk donated to lawmakers challenging judicial rulings blocking his government efficiency initiatives.
 capture_lanes:
 - Judicial Capture
 ---

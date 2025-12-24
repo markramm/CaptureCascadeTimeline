@@ -2,9 +2,7 @@
 id: 2025-02-13--indias-modi-talks-space-and-good-governance-with-m
 date: '2025-02-13'
 title: India's Modi talks space and 'good governance' with Musk in Washington
-description: Elon Musk met with Indian PM Narendra Modi in the White House hours before
-  Modi's official visit with Trump to discuss space, technology, and Starlink's entry
-  into India
+description: Elon Musk met with Indian PM Narendra Modi in the White House hours before Modi's official visit with Trump to discuss space, technology, and Starlink's entry into India
 status: confirmed
 importance: 6
 location: Washington, D.C.
@@ -17,15 +15,13 @@ capture_type: monetizing_position
 sources:
 - title: India's Modi talks space and 'good governance' with Musk in Washington
   url: https://www.reuters.com/world/indias-modi-holds-meeting-with-billionaire-tesla-ceo-musk-2025-02-13/
-  outlet: REUTERS
+  outlet: Reuters
   date: '2025-02-13'
-- title: President Trump doesn't know if Elon Musk met Narendra Modi as a CEO or White
-    House employee
+- title: President Trump doesn't know if Elon Musk met Narendra Modi as a CEO or White House employee
   url: https://fortune.com/2025/02/14/president-trump-musk-modi-conflicts-interest-meeting/
   outlet: Fortune
   date: '2025-02-14'
-- title: 'PM Modi meets Elon Musk during US visit: AI, space, technology, and business
-    on agenda'
+- title: 'PM Modi meets Elon Musk during US visit: AI, space, technology, and business on agenda'
   url: https://www.businesstoday.in/technology/news/story/pm-modi-meets-elon-musk-during-us-visit-ai-space-technology-and-business-on-agenda-464598-2025-02-14
   outlet: Business Today
   date: '2025-02-14'

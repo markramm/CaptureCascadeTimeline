@@ -1,8 +1,7 @@
 ---
 id: 2025-11-10--first-circuit-snap-ruling-trump-appeal
 date: '2025-11-10'
-title: First Circuit Court Unanimously Rules Trump Administration Must Pay Full SNAP
-  Benefits, Citing 'Immense Harm' to 40 Million Recipients
+title: First Circuit Court Unanimously Rules Trump Administration Must Pay Full SNAP Benefits, Citing 'Immense Harm' to 40 Million Recipients
 importance: 9
 tags:
 - judicial-rebuke
@@ -18,17 +17,16 @@ actors:
 sources:
 - title: Appeals court rules Trump administration cannot avoid paying SNAP
   url: https://rollcall.com/2025/11/10/appeals-court-rules-trump-administration-cannot-avoid-paying-snap/
-  publisher: Roll Call
   tier: 2
-- title: Trump administration cannot withhold $4 billion in SNAP benefits, appeals
-    court rules
+  outlet: Roll Call
+- title: Trump administration cannot withhold $4 billion in SNAP benefits, appeals court rules
   url: https://www.nbcnews.com/politics/politics-news/snap-benefits-appeals-court-rules-trump-admin-cannot-withhold-payments-rcna242954
-  publisher: NBC News
   tier: 1
+  outlet: NBC News
 - title: Appeals court backs ruling requiring full SNAP benefit payments for November
   url: https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html
-  publisher: CNBC
   tier: 2
+  outlet: CNBC
 ---
 
 A three-judge panel of the U.S. Court of Appeals for the First Circuit unanimously ruled that the Trump administration must be forced to pay full SNAP food benefits for November, declining to block U.S. District Judge John McConnell's order requiring the administration to use available federal funds to cover the $4 billion shortfall. Judge Julie Rikelman's opinion stated that allowing partial SNAP payments would cause "immense harm nationwide for the more than 40 million people in the program," directly rebuking the administration's claim that complying with the lower court order would harm the government more than food insecurity would harm tens of millions of Americans.

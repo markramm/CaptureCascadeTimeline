@@ -4,7 +4,7 @@ title: JD Vance Joins Peter Thiel's Mithril Capital as Principal
 importance: 7
 status: confirmed
 actors:
-- JD Vance
+- J.D. Vance
 - Peter Thiel
 - Mithril Capital
 sources:

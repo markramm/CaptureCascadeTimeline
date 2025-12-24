@@ -1,8 +1,7 @@
 ---
 id: 2017-02-08--trump-attacks-nordstrom-using-presidential-office-to-promote-ivanka-business
 date: '2017-02-08'
-title: Trump Attacks Nordstrom Using Presidential Office to Promote Daughter Ivanka's
-  Business After Brand Dropped
+title: Trump Attacks Nordstrom Using Presidential Office to Promote Daughter Ivanka's Business After Brand Dropped
 importance: 8
 tags:
 - emoluments-violations
@@ -19,14 +18,14 @@ actors:
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2017/02/08/514203791/trump-slams-nordstrom-for-dropping-ivanka-s-clothing-line
   title: Trump Slams Nordstrom For Dropping Ivanka's Clothing Line
-  publisher: NPR
   date: '2017-02-08'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/nordstrom-drops-ivanka-trump-line-citing-poor-performance-n716361
   title: Nordstrom drops Ivanka Trump line, citing poor 'performance'
-  publisher: NBC News
   date: '2017-02-02'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

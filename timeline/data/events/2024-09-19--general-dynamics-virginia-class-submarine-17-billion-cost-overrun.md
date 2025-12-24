@@ -13,19 +13,19 @@ tags:
 sources:
 - url: https://appropriations.house.gov/news/remarks/calvert-remarks-oversight-hearing-navy-shipbuilding
   title: Calvert Remarks at Oversight Hearing on Navy Shipbuilding
-  publisher: House Committee on Appropriations
   date: '2024-09-19'
   tier: 1
+  outlet: House Committee on Appropriations
 - url: https://www.stripes.com/branches/navy/2024-11-25/congress-navy-submarine-cost-overruns-15967719.html
   title: White House asks Congress for extra $5.7 billion for Navy submarine cost overruns
-  publisher: Stars and Stripes
   date: '2024-11-26'
   tier: 2
+  outlet: Stars and Stripes
 - url: https://www.bloomberg.com/news/articles/2024-09-19/new-us-submarines-running-17-billion-over-budget-lawmaker-says
   title: New US Submarines Running $17 Billion Over Budget, Lawmaker Says
-  publisher: Bloomberg
   date: '2024-09-19'
   tier: 2
+  outlet: Bloomberg
 actors:
 - General Dynamics
 - Huntington Ingalls Industries

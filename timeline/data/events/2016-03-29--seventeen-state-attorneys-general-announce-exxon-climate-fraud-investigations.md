@@ -4,46 +4,46 @@ date: '2016-03-29'
 title: Seventeen State Attorneys General Announce ExxonMobil Climate Fraud Investigations
 importance: 9
 tags:
-  - climate-denial
-  - exxonknew
-  - state-investigations
-  - corporate-fraud
-  - fossil-fuels
-  - accountability
+- climate-denial
+- exxonknew
+- state-investigations
+- corporate-fraud
+- fossil-fuels
+- accountability
 actors:
-  - Eric Schneiderman
-  - Maura Healey
-  - Claude Walker
-  - ExxonMobil
-  - New York Attorney General
-  - Massachusetts Attorney General
-  - Virgin Islands Attorney General
+- Eric Schneiderman
+- Maura Healey
+- Claude Walker
+- ExxonMobil
+- New York Attorney General
+- Massachusetts Attorney General
+- Virgin Islands Attorney General
 sources:
-  - url: https://insideclimatenews.org/news/30032016/climate-change-fraud-investigation-exxon-eric-shneiderman-18-attorneys-general/
-    title: Climate Fraud Investigation of Exxon Draws Attention of 17 Attorneys General
-    publisher: Inside Climate News
-    date: '2016-03-30'
-    tier: 1
-  - url: https://www.desmog.com/2016/04/01/more-state-attorneys-general-investigate-exxon-exxon-gets-defensive/
-    title: State Investigations Into What Exxon Knew Double, and Exxon Gets Defensive
-    publisher: DeSmog
-    date: '2016-04-01'
-    tier: 1
-  - url: https://www.mass.gov/lists/attorney-generals-office-exxon-investigation
-    title: Attorney General's Office Exxon Investigation
-    publisher: Massachusetts Attorney General
-    date: '2016-04-19'
-    tier: 1
-  - url: https://www.ecowatch.com/20-attorneys-general-launch-climate-fraud-investigation-of-exxon-1882200092.html
-    title: 20 Attorneys General Launch Climate Fraud Investigation of Exxon
-    publisher: EcoWatch
-    date: '2016-03-29'
-    tier: 2
+- url: https://insideclimatenews.org/news/30032016/climate-change-fraud-investigation-exxon-eric-shneiderman-18-attorneys-general/
+  title: Climate Fraud Investigation of Exxon Draws Attention of 17 Attorneys General
+  date: '2016-03-30'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://www.desmog.com/2016/04/01/more-state-attorneys-general-investigate-exxon-exxon-gets-defensive/
+  title: State Investigations Into What Exxon Knew Double, and Exxon Gets Defensive
+  date: '2016-04-01'
+  tier: 1
+  outlet: DeSmog
+- url: https://www.mass.gov/lists/attorney-generals-office-exxon-investigation
+  title: Attorney General's Office Exxon Investigation
+  date: '2016-04-19'
+  tier: 1
+  outlet: Massachusetts Attorney General
+- url: https://www.ecowatch.com/20-attorneys-general-launch-climate-fraud-investigation-of-exxon-1882200092.html
+  title: 20 Attorneys General Launch Climate Fraud Investigation of Exxon
+  date: '2016-03-29'
+  tier: 2
+  outlet: EcoWatch
 status: confirmed
 capture_lanes:
-  - Legal Accountability
-  - State Government Action
-  - Corporate Fraud Investigation
+- Legal Accountability
+- State Government Action
+- Corporate Fraud Investigation
 ---
 
 On March 29, 2016, a coalition of 17 state attorneys general announced coordinated investigations into ExxonMobil for potential climate denial fraud at a daylong climate change conference in Manhattan. Massachusetts Attorney General Maura Healey and Virgin Islands Attorney General Claude Walker joined New York Attorney General Eric Schneiderman, who had issued the first subpoena to ExxonMobil in November 2015. The unprecedented coalition from California, Connecticut, D.C., Illinois, Iowa, Maine, Maryland, Massachusetts, Minnesota, New Mexico, New York, Oregon, Rhode Island, Virgin Islands, Virginia, Vermont, and Washington represented the largest coordinated state-level investigation of corporate climate fraud in American history.

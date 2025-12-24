@@ -4,31 +4,31 @@ date: 2020-08-24
 title: Agriculture Secretary Sonny Perdue Violates Hatch Act by Campaigning for Trump at Official USDA Event
 importance: 7
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Sonny Perdue
-  - Hatch Act
-  - USDA
-  - Political Interference
+- cabinet corruption
+- ethics violations
+- sonny perdue
+- hatch act
+- usda
+- political interference
 actors:
-  - Sonny Perdue
-  - Donald Trump
+- Sonny Perdue
+- Donald Trump
 sources:
-  - url: https://www.govexec.com/oversight/2020/10/usda-secretary-violated-hatch-act-august-speech-watchdog-finds/169156/
-    title: "USDA Secretary Violated Hatch Act With August Speech, Watchdog Finds"
-    publisher: Government Executive
-    date: 2020-10-22
-    tier: 1
-  - url: https://www.nbcnews.com/politics/2020-election/usda-head-perdue-violated-hatch-act-advocating-trump-re-election-n1242687
-    title: "USDA head Perdue violated Hatch Act by advocating for Trump re-election, gov't watchdog says"
-    publisher: NBC News
-    date: 2020-10-22
-    tier: 1
-  - url: https://thehill.com/homenews/administration/520240-usdas-perdue-fined-for-violating-hatch-act-while-promoting-food-boxes/
-    title: "USDA's Perdue fined for violating Hatch Act while promoting food boxes"
-    publisher: The Hill
-    date: 2020-10-22
-    tier: 1
+- url: https://www.govexec.com/oversight/2020/10/usda-secretary-violated-hatch-act-august-speech-watchdog-finds/169156/
+  title: USDA Secretary Violated Hatch Act With August Speech, Watchdog Finds
+  date: 2020-10-22
+  tier: 1
+  outlet: Government Executive
+- url: https://www.nbcnews.com/politics/2020-election/usda-head-perdue-violated-hatch-act-advocating-trump-re-election-n1242687
+  title: USDA head Perdue violated Hatch Act by advocating for Trump re-election, gov't watchdog says
+  date: 2020-10-22
+  tier: 1
+  outlet: NBC News
+- url: https://thehill.com/homenews/administration/520240-usdas-perdue-fined-for-violating-hatch-act-while-promoting-food-boxes/
+  title: USDA's Perdue fined for violating Hatch Act while promoting food boxes
+  date: 2020-10-22
+  tier: 1
+  outlet: The Hill
 ---
 
 Agriculture Secretary Sonny Perdue violated the Hatch Act at an August 24, 2020 event in Mills River, North Carolina, related to the Farmers to Families Food Box Program. During the official USDA event attended by President Trump, Perdue told the crowd that people lined up along the motorcade route were "part of those forgotten people that voted for you for 2016," and added "they and many others are going to vote for you for four more years in 2020. Because they understand, under your administration, they've not been forgotten." Perdue also stated, "that's what's gonna continue to happen — four more years — if America gets out and votes for this man, Donald J. Trump," prompting the crowd to chant "four more years."

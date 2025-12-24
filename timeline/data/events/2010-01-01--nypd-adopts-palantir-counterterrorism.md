@@ -3,6 +3,11 @@ id: 2010-01-01--nypd-adopts-palantir-counterterrorism
 date: '2010-01-01'
 title: NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
 importance: 8
+actors:
+- New York Police Department
+- Palantir Technologies
+- Richard Falkenrath
+- New York City Police Foundation
 tags:
 - palantir
 - nypd
@@ -10,20 +15,15 @@ tags:
 - domestic-surveillance
 - police-surveillance
 - secrecy
-actors:
-- New York Police Department
-- Palantir Technologies
-- Richard Falkenrath
-- New York City Police Foundation
 sources:
-- url: https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops
-  title: Private Donors Supply Spy Gear to Cops
-  publisher: ProPublica
+- title: Private Donors Supply Spy Gear to Cops
+  url: https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops
+  outlet: ProPublica
   date: '2014-10-14'
   tier: 1
-- url: https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085
-  title: How Palantir Is Taking Over New York City
-  publisher: Gizmodo
+- title: How Palantir Is Taking Over New York City
+  url: https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085
+  outlet: Gizmodo
   date: '2016-09-13'
   tier: 2
 ---

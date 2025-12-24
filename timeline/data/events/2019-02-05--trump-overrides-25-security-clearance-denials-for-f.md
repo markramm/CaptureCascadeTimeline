@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: Trump overruled security officials on Kushner clearance
   url: https://www.nytimes.com/2019/02/28/us/politics/jared-kushner-security-clearance.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-02-28'
 - title: Whistleblower says 25 security clearance denials were overturned
   url: https://www.nbcnews.com/politics/white-house/whistleblower-says-trump-administration-overturned-25-security-clearance-denials-n990186
@@ -28,7 +28,7 @@ sources:
   date: '2019-04-01'
 - title: White House security clearance crisis
   url: https://www.washingtonpost.com/politics/2019/04/03/white-houses-security-clearance-troubles/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-04-03'
 capture_lanes:
 - Regulatory Capture

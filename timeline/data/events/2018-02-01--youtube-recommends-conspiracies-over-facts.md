@@ -1,12 +1,13 @@
 ---
 date: '2018-02-01'
 title: Research Shows YouTube Recommends Conspiracy Theories 80% More Than Factual Content
-description: Academic research from Berkeley and Harvard documented that YouTube's recommendation algorithm systematically amplified conspiracy theories and misinformation over factual content, with studies showing conspiracy videos received disproportionately higher recommendation rates than mainstream, fact-based reporting. Researchers found that searching for any political content—Trump rallies, Clinton speeches, Sanders events—resulted in the algorithm consistently recommending more extreme and conspiratorial content. Studies analyzing millions of recommendations showed that flat Earth, anti-vaccination, QAnon, and other conspiracy content received algorithmic amplification that factual refutations never achieved. The research confirmed Guillaume Chaslot's warnings that the algorithm optimized for engagement (which conspiracy theories generate) rather than accuracy, making YouTube what researchers called a "radicalization engine" that systematically pushed users toward misinformation because it maximized watch time and advertising revenue.
+description: Academic research from Berkeley and Harvard documented that YouTube's recommendation algorithm systematically amplified conspiracy theories and misinformation over factual content, with studies showing conspiracy videos received disproportionately higher recommendation rates than mainstream, fact-based reporting. Researchers found that searching for any political content—Trump rallies, Clinton speeches, Sanders events—resulted in the algorithm consistently recommending more extreme and conspiratorial content. Studies analyzing millions of recommendations showed that flat Earth, anti-vaccination, QAnon, and other conspiracy content received algorithmic amplification that factual refutations never achieved. The research confirmed Guillaume Chaslot's warnings that the algorithm optimized for engagement (which conspiracy theories generate) rather than accuracy, making YouTube what researchers called a "radicalization engine" that systematically pushed users toward misinformation
+  because it maximized watch time and advertising revenue.
 actors:
 - YouTube
 - Google
 - University of California Berkeley researchers
-- Harvard researchers
+- Harvard Researchers
 - Counter Extremism Project
 - Data & Society
 importance: 9
@@ -28,7 +29,7 @@ sources:
   url: https://www.counterextremism.com/blog/new-study-confirms-youtube-algorithm-promotes-misinformation-conspiracies-extremism
   outlet: Counter Extremism Project
   date: '2020-03-03'
-- title: 'YouTube''s Plot to Silence Conspiracy Theories'
+- title: YouTube's Plot to Silence Conspiracy Theories
   url: https://www.ischool.berkeley.edu/news/2020/youtubes-plot-silence-conspiracy-theories
   outlet: UC Berkeley School of Information
   date: '2020-03-04'

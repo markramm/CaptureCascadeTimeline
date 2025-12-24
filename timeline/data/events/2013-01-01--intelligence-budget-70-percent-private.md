@@ -25,24 +25,19 @@ sources:
   outlet: NPR
   date: '2013-08-29'
   archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/templates/story/story.php?storyId=216924337
-- title: 'Booz Allen Hamilton: 70% of the U.S. Intelligence Budget Goes to Private
-    Contractors'
+- title: 'Booz Allen Hamilton: 70% of the U.S. Intelligence Budget Goes to Private Contractors'
   url: https://www.mic.com/articles/48845/booz-allen-hamilton-70-of-the-u-s-intelligence-budget-goes-to-private-contractors
   outlet: Mic
   date: '2013-06-11'
 - title: Black budget summary details U.S. spy network's successes, failures and objectives
   url: https://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/7e57bb78-10ab-11e3-8cdd-bcdc09410972_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2013-08-29'
 - title: Private contractors play key role in U.S. intelligence work
   url: https://www.seattletimes.com/nation-world/private-contractors-play-key-role-in-us-intelligence-work/
   outlet: Seattle Times
   date: '2013-06-10'
-notes: Scale of privatization enables operations outside democratic oversight. Ronald
-  Sanders, associate DNI for human capital, confirmed in 2008 briefing that 70% of
-  intelligence budget goes to private sector. Never before have so many U.S. intelligence
-  workers been hired so quickly or given access to secret government information through
-  networked computers.
+notes: Scale of privatization enables operations outside democratic oversight. Ronald Sanders, associate DNI for human capital, confirmed in 2008 briefing that 70% of intelligence budget goes to private sector. Never before have so many U.S. intelligence workers been hired so quickly or given access to secret government information through networked computers.
 status: confirmed
 capture_lanes:
 - Regulatory Capture

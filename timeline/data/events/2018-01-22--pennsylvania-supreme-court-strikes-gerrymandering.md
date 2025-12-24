@@ -4,36 +4,36 @@ date: '2018-01-22'
 title: Pennsylvania Supreme Court Strikes Down Congressional Map as Unconstitutional Partisan Gerrymander
 importance: 8
 tags:
-  - gerrymandering
-  - pennsylvania
-  - state-courts
-  - voting-rights
-  - REDMAP
+- gerrymandering
+- pennsylvania
+- state-courts
+- voting-rights
+- redmap
 actors:
-  - Pennsylvania Supreme Court
-  - League of Women Voters
-  - Pennsylvania General Assembly
+- Pennsylvania Supreme Court
+- League of Women Voters
+- Pennsylvania General Assembly
 sources:
-  - url: https://pubintlaw.org/cases-and-projects/pennsylvania-supreme-court-holds-congressional-map-violates-pa-constitution/
-    title: Pennsylvania Supreme Court Holds Congressional Map Violates PA Constitution
-    publisher: Public Interest Law Center
-    date: 2018-01-22
-    tier: 2
-  - url: https://www.brennancenter.org/our-work/court-cases/league-women-voters-pennsylvania-v-commonwealth-pennsylvania
-    title: League of Women Voters of Pennsylvania v. Commonwealth of Pennsylvania
-    publisher: Brennan Center for Justice
-    date: 2018-01-22
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/analysis-opinion/pennsylvania-supreme-court-confirms-states-congressional-map-illegal
-    title: "Pennsylvania Supreme Court Confirms: State's Congressional Map Is Illegal Partisan Gerrymander"
-    publisher: Brennan Center for Justice
-    date: 2018-02-07
-    tier: 1
-  - url: https://www.inquirer.com/philly/news/pennsylvania/pa-supreme-court-releases-gerrymandering-opinion-2011-map-violates-free-and-equal-elections-20180207.html
-    title: Why Pa.'s gerrymandered map went too far, according to state Supreme Court
-    publisher: Philadelphia Inquirer
-    date: 2018-02-07
-    tier: 2
+- url: https://pubintlaw.org/cases-and-projects/pennsylvania-supreme-court-holds-congressional-map-violates-pa-constitution/
+  title: Pennsylvania Supreme Court Holds Congressional Map Violates PA Constitution
+  date: 2018-01-22
+  tier: 2
+  outlet: Public Interest Law Center
+- url: https://www.brennancenter.org/our-work/court-cases/league-women-voters-pennsylvania-v-commonwealth-pennsylvania
+  title: League of Women Voters of Pennsylvania v. Commonwealth of Pennsylvania
+  date: 2018-01-22
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.brennancenter.org/our-work/analysis-opinion/pennsylvania-supreme-court-confirms-states-congressional-map-illegal
+  title: 'Pennsylvania Supreme Court Confirms: State''s Congressional Map Is Illegal Partisan Gerrymander'
+  date: 2018-02-07
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.inquirer.com/philly/news/pennsylvania/pa-supreme-court-releases-gerrymandering-opinion-2011-map-violates-free-and-equal-elections-20180207.html
+  title: Why Pa.'s gerrymandered map went too far, according to state Supreme Court
+  date: 2018-02-07
+  tier: 2
+  outlet: Philadelphia Inquirer
 ---
 
 The Pennsylvania Supreme Court rules that the state's 2011 congressional map violates the Pennsylvania Constitution's guarantee that "elections shall be free and equal," striking down one of the nation's most extreme partisan gerrymanders. The court finds that Republican-drawn maps allowed the GOP to win 72% of congressional seats while receiving only 49-55% of votes across multiple elections, demonstrating how gerrymandering can systematically nullify voter preferences.

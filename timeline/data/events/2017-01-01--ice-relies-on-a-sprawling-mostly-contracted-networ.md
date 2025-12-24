@@ -2,16 +2,15 @@
 id: 2017-01-01--ice-relies-on-a-sprawling-mostly-contracted-networ
 date: '2017-01-01'
 importance: 6
-title: ICE relies on a sprawling, mostly contracted network of ~200 detention facilities;
-  oversight fragmented
+title: ICE relies on a sprawling, mostly contracted network of ~200 detention facilities; oversight fragmented
 location: United States
 actors:
-- ICE
-- Private contractors (CoreCivic)
+- Immigration and Customs Enforcement (ICE)
+- Private contractors
 - Department of Homeland Security
 - U.S. Marshals Service
 - State and local governments
-- Government Accountability Office
+- Government Accountability Office (GAO)
 tags:
 - detention-network
 - procurement-violations
@@ -20,13 +19,11 @@ tags:
 - guaranteed-minimums
 - oversight-failure
 sources:
-- title: 'Immigration Detention: Actions Needed to Improve Planning, Documentation,
-    and Oversight (GAO-21-149)'
+- title: 'Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight (GAO-21-149)'
   url: https://www.gao.gov/products/gao-21-149
   outlet: GAO
   date: '2021-01-13'
-- title: DHS Should Define Goals and Measures to Assess Facility Inspection Programs
-    (GAO-25-107580)
+- title: DHS Should Define Goals and Measures to Assess Facility Inspection Programs (GAO-25-107580)
   url: https://www.gao.gov/products/gao-25-107580
   outlet: GAO
   date: '2025-05-21'
@@ -38,9 +35,7 @@ sources:
   url: https://www.americanimmigrationcouncil.org/fact-sheet/oversight-immigration-detention-overview/
   outlet: American Immigration Council
   date: '2022-05-16'
-notes: Replace unsourced '1,000+ undisclosed sites' language with verifiable counts
-  and official oversight findings. Short‑term hoteling of children under Title 42
-  (2020) should be handled as a separate entry (see 102).
+notes: Replace unsourced '1,000+ undisclosed sites' language with verifiable counts and official oversight findings. Short‑term hoteling of children under Title 42 (2020) should be handled as a separate entry (see 102).
 status: confirmed
 capture_lanes:
 - Regulatory Capture

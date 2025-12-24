@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Constitutional Defense Network
 - Legal Education Consortium
-- National Association of Criminal Defense Lawyers
+- National Association of Criminal Defense Lawyers (NACDL)
 - Defender Services Office Training Division
 sources:
 - outlet: Legal Education Review

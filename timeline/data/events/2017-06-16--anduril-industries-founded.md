@@ -11,20 +11,20 @@ actors:
 - Founders Fund
 - Palantir Technologies
 tags:
-- Defense Contractors
-- Silicon Valley
-- Autonomous Weapons
-- Military-Industrial Complex
-- Surveillance
+- defense contractors
+- silicon valley
+- autonomous weapons
+- military-industrial complex
+- surveillance
 sources:
-- url: https://en.wikipedia.org/wiki/Anduril_Industries
-  title: Anduril Industries
-  publisher: Wikipedia
+- title: Anduril Industries
+  url: https://en.wikipedia.org/wiki/Anduril_Industries
+  outlet: Wikipedia
   date: '2024-11-01'
   tier: 3
-- url: https://research.contrary.com/company/anduril
-  title: 'Report: Anduril Industries Business Breakdown & Founding Story'
-  publisher: Contrary Research
+- title: 'Report: Anduril Industries Business Breakdown & Founding Story'
+  url: https://research.contrary.com/company/anduril
+  outlet: Contrary Research
   date: '2024-10-01'
   tier: 3
 ---

@@ -1,11 +1,10 @@
 ---
 date: '2024-08-13'
-title: JD Vance Writes Foreword for Project 2025 Architect's Book, Revealing Radical
-  Institutional Transformation Plan
+title: JD Vance Writes Foreword for Project 2025 Architect's Book, Revealing Radical Institutional Transformation Plan
 importance: 9
 status: confirmed
 actors:
-- JD Vance
+- J.D. Vance
 - Kevin Roberts
 - Heritage Foundation
 sources:

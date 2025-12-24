@@ -2,11 +2,10 @@
 id: 2010-06-27--russian-illegals-program-arrests
 date: '2010-06-27'
 importance: 5
-title: DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and
-  are swapped
+title: DOJ charges 'Illegals Program' (including Anna Chapman); 10 plead guilty and are swapped
 actors:
 - Anna Chapman
-- US Department of Justice
+- U.S. Department of Justice
 - FBI
 tags:
 - russian-spy-ring
@@ -30,8 +29,7 @@ sources:
   url: https://www.nbcnewyork.com/news/local/russian-spy-videos-anna-chapman-fbi-sexy-spy-photos/2123873/
   outlet: NBC New York
   date: '2010-06-30'
-notes: Event framed with primary DOJ/FBI sources. Added supplemental media coverage.
-  Expanded summary with operational context.
+notes: Event framed with primary DOJ/FBI sources. Added supplemental media coverage. Expanded summary with operational context.
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

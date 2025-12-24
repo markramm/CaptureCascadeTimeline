@@ -7,7 +7,7 @@ actors:
 - Donald Trump
 - Ajit Pai
 - Verizon Communications
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Tom Wheeler
 tags:
 - revolving-door
@@ -19,17 +19,17 @@ tags:
 - telecommunications
 status: confirmed
 sources:
-- title: 'Biography of Former Chairman Ajit Pai'
+- title: Biography of Former Chairman Ajit Pai
   url: https://www.fcc.gov/biography-former-chairman-ajit-pai
   outlet: Federal Communications Commission
   date: '2017-01-23'
   tier: 1
-- title: 'FCC Chairman Under Trump Is Ajit Pai, Critic Of Net Neutrality Rules'
+- title: FCC Chairman Under Trump Is Ajit Pai, Critic Of Net Neutrality Rules
   url: https://www.npr.org/sections/thetwo-way/2017/01/23/510844936/trumps-telecom-chief-is-ajit-pai-critic-of-net-neutrality-rules
   outlet: NPR
   date: '2017-01-23'
   tier: 1
-- title: 'Ajit Pai named as new FCC chairman'
+- title: Ajit Pai named as new FCC chairman
   url: https://money.cnn.com/2017/01/23/technology/trump-fcc-chairman/
   outlet: CNN
   date: '2017-01-23'

@@ -4,44 +4,44 @@ date: '2012-05-04'
 title: Heartland Institute Billboard Compares Climate Scientists to Unabomber
 importance: 8
 tags:
-  - climate-denial
-  - scientist-harassment
-  - extremist-rhetoric
-  - disinformation
-  - fossil-fuels
+- climate-denial
+- scientist-harassment
+- extremist-rhetoric
+- disinformation
+- fossil-fuels
 actors:
-  - Heartland Institute
-  - Ted Kaczynski
-  - James Sensenbrenner
-  - State Farm
-  - Diageo
-  - Koch Industries
+- Heartland Institute
+- Ted Kaczynski
+- James Sensenbrenner
+- State Farm
+- Diageo
+- Koch Industries
 sources:
-  - url: https://heartland.org/opinion/heartland-institute-ends-experiment-with-unabomber-global-warming-billboard/
-    title: Heartland Institute Ends Experiment with 'Unabomber' Global Warming Billboard
-    publisher: Heartland Institute
-    date: '2012-05-04'
-    tier: 2
-  - url: https://www.chicagomag.com/Chicago-Magazine/Felsenthal-Files/June-2012/Chicagos-Heartland-Institute-and-its-Unabomber-Billboards/
-    title: Chicago's Heartland Institute, the Group Behind the Unabomber Billboard
-    publisher: Chicago Magazine
-    date: '2012-06-01'
-    tier: 2
-  - url: https://news.mongabay.com/2012/05/heartland-institute-losing-major-corporate-sponsors-after-comparing-climate-change-advocates-to-mass-murderers/
-    title: Heartland Institute losing major corporate sponsors after comparing climate change advocates to mass-murderers
-    publisher: Mongabay
-    date: '2012-05-03'
-    tier: 2
-  - url: https://theconversation.com/are-heartland-billboards-the-beginning-of-the-end-for-climate-denial-6888
-    title: Are Heartland billboards the beginning of the end for climate denial?
-    publisher: The Conversation
-    date: '2012-05-08'
-    tier: 1
+- url: https://heartland.org/opinion/heartland-institute-ends-experiment-with-unabomber-global-warming-billboard/
+  title: Heartland Institute Ends Experiment with 'Unabomber' Global Warming Billboard
+  date: '2012-05-04'
+  tier: 2
+  outlet: Heartland Institute
+- url: https://www.chicagomag.com/Chicago-Magazine/Felsenthal-Files/June-2012/Chicagos-Heartland-Institute-and-its-Unabomber-Billboards/
+  title: Chicago's Heartland Institute, the Group Behind the Unabomber Billboard
+  date: '2012-06-01'
+  tier: 2
+  outlet: Chicago Magazine
+- url: https://news.mongabay.com/2012/05/heartland-institute-losing-major-corporate-sponsors-after-comparing-climate-change-advocates-to-mass-murderers/
+  title: Heartland Institute losing major corporate sponsors after comparing climate change advocates to mass-murderers
+  date: '2012-05-03'
+  tier: 2
+  outlet: Mongabay
+- url: https://theconversation.com/are-heartland-billboards-the-beginning-of-the-end-for-climate-denial-6888
+  title: Are Heartland billboards the beginning of the end for climate denial?
+  date: '2012-05-08'
+  tier: 1
+  outlet: The Conversation
 status: confirmed
 capture_lanes:
-  - Media Capture & Control
-  - Information Warfare
-  - Scientist Intimidation
+- Media Capture & Control
+- Information Warfare
+- Scientist Intimidation
 ---
 
 On May 4, 2012, the Heartland Institute erected a digital billboard on the Eisenhower Expressway near Chicago featuring Ted Kaczynski (the Unabomber) with text reading "I still believe in global warming. Do you?" The billboard remained live for 24 hours before widespread condemnation—including from the Institute's own supporters—forced its removal. The campaign planned to feature similar billboards with Fidel Castro, Osama bin Laden, and hostage-taker James J. Lee, claiming that those who accept climate science are "on the radical fringe" with the movement's "most prominent advocates" being "murderers, tyrants, and madmen."

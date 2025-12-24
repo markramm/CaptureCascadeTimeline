@@ -18,13 +18,13 @@ actors:
 sources:
 - url: https://en.wikipedia.org/wiki/KBR,_Inc.
   title: KBR, Inc.
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 - url: https://www.politifact.com/factchecks/2010/jun/09/arianna-huffington/halliburton-kbr-and-iraq-war-contracting-history-s/
   title: Halliburton, KBR, and Iraq war contracting - A history so far
-  publisher: PolitiFact
   date: '2010-06-09'
   tier: 2
+  outlet: PolitiFact
 status: confirmed
 ---
 

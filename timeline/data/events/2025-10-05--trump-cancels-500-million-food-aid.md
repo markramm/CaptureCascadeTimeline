@@ -1,8 +1,7 @@
 ---
 id: 2025-10-05--trump-cancels-500-million-food-aid
 date: '2025-10-05'
-title: Trump Administration Cancels $500 Million in Food Aid, Affecting 94 Million
-  Pounds
+title: Trump Administration Cancels $500 Million in Food Aid, Affecting 94 Million Pounds
 importance: 7
 actors:
 - Trump Administration
@@ -11,9 +10,9 @@ actors:
 sources:
 - title: Trump Canceled 94 Million Pounds of Food Aid
   url: https://www.propublica.org/article/trump-canceled-food-aid-emergency-assistance-program
-  publisher: ProPublica
   date: '2025-10-05'
   tier: 1
+  outlet: ProPublica
 tags:
 - systematic-corruption
 - social-safety-net-dismantling

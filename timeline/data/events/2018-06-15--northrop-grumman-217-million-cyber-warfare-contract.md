@@ -9,29 +9,29 @@ actors:
 - National Security Agency
 - Department of Defense
 tags:
-- Cyber Weapons
-- Surveillance State
-- Military-Industrial Complex
-- Defense Contractors
-- NSA
-- Pentagon Contracts
-- Offensive Cyber Operations
+- cyber weapons
+- surveillance state
+- military-industrial complex
+- defense contractors
+- nsa
+- pentagon contracts
+- offensive cyber operations
 sources:
 - url: https://www.militaryaerospace.com/computers/article/16726574/northrop-grumman-to-coordinate-us-cyber-warfare-computer-tools-and-software-applications
   title: Northrop Grumman to coordinate U.S. cyber warfare computer tools and software applications
-  publisher: Military Aerospace
   date: '2018-06-15'
   tier: 2
+  outlet: Military Aerospace
 - url: https://breakingdefense.com/2021/10/northrop-grumman-eyes-next-gen-sigint-for-army/
   title: Northrop Grumman Eyes Next-Gen SIGINT For Army
-  publisher: Breaking Defense
   date: '2021-10-15'
   tier: 2
+  outlet: Breaking Defense
 - url: https://www.militaryaerospace.com/communications/article/14073416/airborne-sigint-cyber-security
   title: Northrop Grumman to upgrade and provide cyber security for airborne SIGINT
-  publisher: Military Aerospace
   date: '2018-06-01'
   tier: 2
+  outlet: Military Aerospace
 ---
 
 Northrop Grumman received a contract as part of a potential $217 million five-year U.S. military cyber warfare program called Unified Platform, which aims to develop a coordinated cyber weapons infrastructure enabling U.S. Cyber Command to conduct offensive and defensive cyber operations independent of National Security Agency systems. The Unified Platform program represents a major expansion of military cyber warfare capabilities, creating a common tool set that enables cyber warriors to operate as a coordinated unit while maintaining separation from NSA intelligence-gathering infrastructure to avoid interfering with signals intelligence collection operations.

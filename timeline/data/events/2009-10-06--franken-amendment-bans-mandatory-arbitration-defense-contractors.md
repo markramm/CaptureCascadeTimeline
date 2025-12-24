@@ -20,18 +20,18 @@ actors:
 sources:
 - url: https://www.governmentcontractslawblog.com/2009/12/articles/government-contracts-law/the-franken-amendment-a-blow-to-arbitration-and-increased-litigation-and-compliance-for-government-contractors/
   title: The Franken Amendment - A Blow to Arbitration and Increased Litigation and Compliance For Government Contractors
-  publisher: Government Contracts Law Blog
   date: '2009-12-01'
   tier: 3
+  outlet: Government Contracts Law Blog
 - url: http://www.minnpost.com/politics-policy/2009/10/senate-passes-franken-amendment-aimed-defense-contractors/
   title: Senate passes Franken amendment aimed at defense contractors
-  publisher: MinnPost
   date: '2009-10-06'
   tier: 2
+  outlet: MinnPost
 - url: https://en.wikipedia.org/wiki/Jamie_Leigh_Jones
   title: Jamie Leigh Jones
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 status: confirmed
 ---
 

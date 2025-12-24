@@ -1,8 +1,7 @@
 ---
 id: 2025-09-06--doj-conceals-epstein-payment-recipients
 date: '2025-09-06'
-title: DOJ Moves to Conceal Names of Epstein Associates Who Received $100K and $250K
-  Payments
+title: DOJ Moves to Conceal Names of Epstein Associates Who Received $100K and $250K Payments
 importance: 9
 actors:
 - Department of Justice
@@ -10,22 +9,20 @@ actors:
 - NBC News
 sources:
 - url: https://www.nbcnews.com/politics/justice-department/doj-says-names-two-associates-epstein-wired-100k-250k-stay-secret-rcna229408
-  title: DOJ says names of two associates Epstein wired $100K and $250K should stay
-    secret
-  publisher: NBC News
+  title: DOJ says names of two associates Epstein wired $100K and $250K should stay secret
   date: '2025-09-06'
   tier: 1
+  outlet: NBC News
 - url: https://www.cnbc.com/2025/09/06/epstein-doj-says-two-people-he-wired-thousands-to-should-stay-secret.html
-  title: DOJ says names of two associates Epstein wired $100k and $250k to should
-    stay secret
-  publisher: CNBC
+  title: DOJ says names of two associates Epstein wired $100k and $250k to should stay secret
   date: '2025-09-06'
   tier: 2
+  outlet: CNBC
 - url: https://www.thedailybeast.com/doj-asks-judge-to-keep-name-of-2-epstein-associates-secret/
   title: DOJ Asks Judge to Keep Name of Two Epstein Associates Secret
-  publisher: The Daily Beast
   date: '2025-09-06'
   tier: 2
+  outlet: The Daily Beast
 tags:
 - obstruction-of-justice
 - institutional-corruption

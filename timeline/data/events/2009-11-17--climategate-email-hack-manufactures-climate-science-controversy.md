@@ -4,43 +4,43 @@ date: '2009-11-17'
 title: Climategate Email Hack Manufactures Controversy Before Copenhagen Summit
 importance: 8
 tags:
-  - climate-denial
-  - disinformation
-  - cybercrime
-  - media-manipulation
-  - information-warfare
+- climate-denial
+- disinformation
+- cybercrime
+- media-manipulation
+- information-warfare
 actors:
-  - Climate Research Unit
-  - University of East Anglia
-  - Phil Jones
-  - Michael Mann
-  - Climate denial blogosphere
+- Climate Research Unit
+- University of East Anglia
+- Phil Jones
+- Michael Mann
+- Climate denial blogosphere
 sources:
-  - url: https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
-    title: Climatic Research Unit email controversy
-    publisher: Wikipedia
-    date: '2024-01-01'
-    tier: 2
-  - url: https://www.ucs.org/resources/debunking-misinformation-about-stolen-climate-emails
-    title: Debunking Misinformation About Stolen Climate Emails in the "Climategate" Manufactured Controversy
-    publisher: Union of Concerned Scientists
-    date: '2009-12-01'
-    tier: 1
-  - url: https://www.desmog.com/climategate-10-years/
-    title: 'Climategate: 10 Years On'
-    publisher: DeSmog
-    date: '2019-11-15'
-    tier: 1
-  - url: https://www.factcheck.org/2009/12/climategate/
-    title: Climategate
-    publisher: FactCheck.org
-    date: '2009-12-10'
-    tier: 1
+- url: https://en.wikipedia.org/wiki/Climatic_Research_Unit_email_controversy
+  title: Climatic Research Unit email controversy
+  date: '2024-01-01'
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.ucs.org/resources/debunking-misinformation-about-stolen-climate-emails
+  title: Debunking Misinformation About Stolen Climate Emails in the "Climategate" Manufactured Controversy
+  date: '2009-12-01'
+  tier: 1
+  outlet: Union of Concerned Scientists
+- url: https://www.desmog.com/climategate-10-years/
+  title: 'Climategate: 10 Years On'
+  date: '2019-11-15'
+  tier: 1
+  outlet: DeSmog
+- url: https://www.factcheck.org/2009/12/climategate/
+  title: Climategate
+  date: '2009-12-10'
+  tier: 1
+  outlet: FactCheck.org
 status: confirmed
 capture_lanes:
-  - Media Capture & Control
-  - Information Warfare
-  - Cyber Operations
+- Media Capture & Control
+- Information Warfare
+- Cyber Operations
 ---
 
 On November 17, 2009, just weeks before the crucial Copenhagen Climate Summit, hackers breached servers at the Climate Research Unit (CRU) at the University of East Anglia, stealing thousands of emails and computer files spanning 13 years of climate research. The stolen materials were strategically released to climate denial websites, which cherry-picked phrases from private scientific correspondence to falsely claim that climate scientists had manipulated data and suppressed dissenting research. Climate denial advocates branded the incident "Climategate," creating the false impression of a major scientific scandal.

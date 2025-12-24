@@ -9,7 +9,7 @@ actors:
 - Iranian Revolutionary Guard
 - Benjamin Netanyahu
 - Rafael Mariano Grossi
-- Iranian Nuclear Scientists
+- Iranian nuclear scientists
 sources:
 - title: Israel Expands Strikes on Iran's Nuclear Facilities
   outlet: NPR

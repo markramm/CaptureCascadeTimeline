@@ -4,36 +4,36 @@ date: '2021-02-13'
 title: McConnell Says Trump "Practically and Morally Responsible" Minutes After Voting to Acquit
 importance: 10
 tags:
-  - Mitch McConnell
-  - Impeachment
-  - Republican Party
-  - Constitutional Crisis
-  - Senate Trial
+- mitch mcconnell
+- impeachment
+- republican party
+- constitutional crisis
+- senate trial
 actors:
-  - Mitch McConnell
-  - Donald Trump
-  - Senate Republicans
+- Mitch McConnell
+- Donald Trump
+- Senate Republicans
 sources:
-  - url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967701180/after-vote-mcconnell-torched-trump-as-practically-and-morally-responsible-for-ri
-    title: After Voting To Acquit, McConnell Torches Trump As Responsible For Riot
-    publisher: NPR
-    date: '2021-02-13'
-    tier: 1
-  - url: https://www.cbsnews.com/news/mitch-mcconnell-trump-impeachment-vote-senate-speech/
-    title: McConnell says Trump was "practically and morally responsible" for riot after voting not guilty
-    publisher: CBS News
-    date: '2021-02-13'
-    tier: 1
-  - url: https://www.rev.com/transcripts/mitch-mcconnell-speech-transcript-after-vote-to-acquit-trump-in-2nd-impeachment-trial
-    title: Mitch McConnell Speech Transcript After Vote to Acquit Trump in 2nd Impeachment Trial
-    publisher: Rev
-    date: '2021-02-13'
-    tier: 2
-  - url: https://www.cnbc.com/2021/02/13/mcconnell-votes-for-acquittal-but-says-no-question-trump-responsible-for-riot.html
-    title: McConnell votes for acquittal, but then says there's 'no question' Trump is responsible for riot
-    publisher: CNBC
-    date: '2021-02-13'
-    tier: 1
+- url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967701180/after-vote-mcconnell-torched-trump-as-practically-and-morally-responsible-for-ri
+  title: After Voting To Acquit, McConnell Torches Trump As Responsible For Riot
+  date: '2021-02-13'
+  tier: 1
+  outlet: NPR
+- url: https://www.cbsnews.com/news/mitch-mcconnell-trump-impeachment-vote-senate-speech/
+  title: McConnell says Trump was "practically and morally responsible" for riot after voting not guilty
+  date: '2021-02-13'
+  tier: 1
+  outlet: CBS News
+- url: https://www.rev.com/transcripts/mitch-mcconnell-speech-transcript-after-vote-to-acquit-trump-in-2nd-impeachment-trial
+  title: Mitch McConnell Speech Transcript After Vote to Acquit Trump in 2nd Impeachment Trial
+  date: '2021-02-13'
+  tier: 2
+  outlet: Rev
+- url: https://www.cnbc.com/2021/02/13/mcconnell-votes-for-acquittal-but-says-no-question-trump-responsible-for-riot.html
+  title: McConnell votes for acquittal, but then says there's 'no question' Trump is responsible for riot
+  date: '2021-02-13'
+  tier: 1
+  outlet: CNBC
 status: confirmed
 ---
 

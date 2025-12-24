@@ -4,7 +4,7 @@ date: '1985-01-01'
 title: CNP Establishes Three-Times-Yearly Meeting Schedule at Secret Locations
 importance: 8
 tags:
-- CNP
+- cnp
 - conservative-movement
 - coordination
 - secretive-networks
@@ -12,12 +12,12 @@ tags:
 actors:
 - Council for National Policy
 sources:
-- title: 'Council for National Policy'
+- title: Council for National Policy
   url: https://en.wikipedia.org/wiki/Council_for_National_Policy
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'God, Trump and the Closed-Door World of the Council for National Policy'
+- title: God, Trump and the Closed-Door World of the Council for National Policy
   url: https://www.washingtonpost.com/magazine/2021/10/25/god-trump-closed-door-world-council-national-policy/
   publication: Washington Post
   date: '2021-10-25'

@@ -12,27 +12,27 @@ actors:
 - Mark Janus
 tags:
 - labor-suppression
-- Supreme-Court
+- supreme-court
 - judicial-capture
 - right-to-work
 - public-sector-unions
-- Federalist-Society
+- federalist-society
 - union-busting
-- First-Amendment
+- first-amendment
 sources:
-- title: 'Janus v. AFSCME Supreme Court Opinion'
+- title: Janus v. AFSCME Supreme Court Opinion
   url: https://www.supremecourt.gov/opinions/17pdf/16-1466_2b3j.pdf
   outlet: Supreme Court of the United States
   date: '2018-06-27'
   verified: true
   tier: 1
-- title: 'Janus v. AFSCME - Ballotpedia'
+- title: Janus v. AFSCME - Ballotpedia
   url: https://ballotpedia.org/Janus_v._AFSCME
   outlet: Ballotpedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Janus v. AFSCME Case Information'
+- title: Janus v. AFSCME Case Information
   url: https://fedsoc.org/case/janus-v-afscme
   outlet: Federalist Society
   date: '2024-01-01'

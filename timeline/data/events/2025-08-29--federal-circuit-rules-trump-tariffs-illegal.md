@@ -1,8 +1,7 @@
 ---
 id: 2025-08-29--federal-circuit-rules-trump-tariffs-illegal
 date: '2025-08-29'
-title: Federal Circuit Court Rules Trump Tariffs Violated IEEPA, Exceeded Presidential
-  Authority
+title: Federal Circuit Court Rules Trump Tariffs Violated IEEPA, Exceeded Presidential Authority
 importance: 9
 actors:
 - U.S. Court of Appeals for the Federal Circuit
@@ -18,22 +17,20 @@ tags:
 - emergency-powers
 sources:
 - url: https://www.cnn.com/2025/08/29/business/trump-tariffs-appeals-court-ruling
-  title: Appeals court strikes down many Trump tariffs, saying he overstepped his
-    authority
-  publisher: CNN Business
+  title: Appeals court strikes down many Trump tariffs, saying he overstepped his authority
   date: '2025-08-29'
   tier: 2
+  outlet: CNN Business
 - url: https://www.cnbc.com/2025/08/29/trump-trade-tariffs-appeals-court-ieepa.html
   title: Most Trump tariffs ruled illegal by appeals court
-  publisher: CNBC
   date: '2025-08-29'
   tier: 2
+  outlet: CNBC
 - url: https://www.hklaw.com/en/insights/publications/2025/09/court-of-appeals-strikes-down-ieepa-tariffs-setting-stage
-  title: Court of Appeals Strikes Down IEEPA Tariffs, Setting Stage for Supreme Court
-    Ruling
-  publisher: Holland & Knight
+  title: Court of Appeals Strikes Down IEEPA Tariffs, Setting Stage for Supreme Court Ruling
   date: '2025-09-04'
   tier: 2
+  outlet: Holland & Knight
 ---
 
 The U.S. Court of Appeals for the Federal Circuit ruled 7-4 that President Trump unlawfully exceeded his emergency powers authority when imposing sweeping tariffs under the International Emergency Economic Powers Act (IEEPA). The full court held that Trump's 'reciprocal tariffs' and other historic import levies were not authorized under IEEPA, which is intended for genuine national security emergencies rather than broad trade policy.

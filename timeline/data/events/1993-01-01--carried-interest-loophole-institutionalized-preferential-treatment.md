@@ -1,0 +1,54 @@
+---
+id: 1993-01-01--carried-interest-loophole-institutionalized-preferential-treatment
+date: '1993-01-01'
+title: Carried Interest Loophole Becomes Institutionalized Tax Dodge - Private Equity and Hedge Fund Managers Pay 23.8% Capital Gains Rate Instead of 40.8% Ordinary Income Rate on Compensation
+importance: 8
+actors:
+- Private Equity Growth Capital Council
+- Managed Funds Association
+- Blackstone Group
+- KKR
+- Apollo Global Management
+- Carlyle Group
+- Citadel
+- Bridgewater Associates
+tags:
+- tax-policy
+- carried-interest
+- private-equity
+- hedge-funds
+- wealth-transfer
+- corporate-corruption
+- systematic-capture
+- lobbying-influence
+- economic-inequality
+- capital-gains
+sources:
+- title: Carried interest
+  url: https://en.wikipedia.org/wiki/Carried_interest
+  outlet: Wikipedia
+  date: '2024-01-01'
+  tier: 2
+- title: What is carried interest, and how is it taxed?
+  url: https://taxpolicycenter.org/briefing-book/what-carried-interest-and-should-it-be-taxed-capital-gain
+  outlet: Tax Policy Center
+  date: '2024-01-01'
+  tier: 1
+- title: What Is the Carried Interest Loophole, and Why Is It So Difficult to Close?
+  url: https://www.pgpf.org/article/what-is-the-carried-interest-loophole-and-why-is-it-so-difficult-to-close/
+  outlet: Peter G. Peterson Foundation
+  date: '2024-01-01'
+  tier: 1
+- title: Tax Carried Interest as Ordinary Income
+  url: https://www.cbo.gov/budget-options/60946
+  outlet: Congressional Budget Office
+  date: '2024-01-01'
+  tier: 1
+- title: Close the carried interest loophole that is a tax dodge for super-rich private equity executives
+  url: https://ourfinancialsecurity.org/resources/close-the-carried-interest-loophole-that-is-a-tax-dodge-for-super-rich-private-equity-executives/
+  outlet: Americans for Financial Reform
+  date: '2024-01-01'
+  tier: 2
+---
+
+By 1993, the 'carried interest loophole' had become institutionalized as a standard feature of private equity and hedge fund compensation structures, allowing investment fund managers to pay the lower capital gains tax rate (23.8% including the net investment income tax) instead of ordinary income tax rates of up to 40.8% on what is functionally compensation for services. Carried interest, or 'carry,' refers to a share of investment profits—typically 20%—paid to fund managers (general partners) as a performance fee for managing alternative investments. Under the provision, this compensation is characterized as a capital gain rather than ordinary income if the investment is held for specified periods (originally one year, extended to three years by the 2017 Tax Cuts and Jobs Act). The tax rate differential is enormous: carried interest recipients pay the 23.8% long-term capital gains rate rather than the up to 40.8% ordinary income rate that would apply to wage compensation of equivalent value. Additionally, because it is treated as capital income rather than compensation, carried interest is not subject to the 15.3% self-employment tax equivalent to payroll taxes that finance Social Security and Medicare—a double benefit worth tens of billions annually to private equity and hedge fund managers. The loophole has no economic justification: it does not incentivize additional investment or risk-taking, as fund managers receive the performance fee regardless of whether they invest their own capital. Critics correctly argue that carried interest is compensation for services rendered and should be taxed at ordinary income rates, just like performance-based compensation in other industries that involve risk. The Congressional Budget Office estimates that eliminating the loophole could raise between $1.4 billion and $18 billion annually, with a 10-year revenue impact of approximately $12 billion in their conservative estimate. Despite widespread bipartisan recognition that the loophole is indefensible—even Donald Trump campaigned against it in 2016—it has survived every tax reform effort due to the enormous political power of the private equity and hedge fund industries, which donate heavily to both parties and employ legions of lobbyists. The carried interest loophole exemplifies tax code capture: a provision with no policy justification that persists solely because the beneficiaries wield sufficient political power to block reform.

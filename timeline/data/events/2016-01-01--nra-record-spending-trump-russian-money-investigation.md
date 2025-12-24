@@ -1,7 +1,7 @@
 ---
 id: 2016-01-01--nra-record-spending-trump-russian-money-investigation
 date: '2016-01-01'
-title: 'NRA Spends Record $30-55 Million Supporting Trump, FBI Investigates Russian Money Laundering'
+title: NRA Spends Record $30-55 Million Supporting Trump, FBI Investigates Russian Money Laundering
 importance: 10
 tags:
 - nra
@@ -23,24 +23,24 @@ actors:
 sources:
 - title: 'The Trump-Russia-NRA Connection: Here''s What You Need to Know'
   url: https://www.rollingstone.com/politics/politics-news/the-trump-russia-nra-connection-heres-what-you-need-to-know-205458/
-  publisher: Rolling Stone
   date: '2018-03-02'
   tier: 2
-- title: 'FBI Investigating Whether Russian Money Went to NRA to Help Trump'
+  outlet: Rolling Stone
+- title: FBI Investigating Whether Russian Money Went to NRA to Help Trump
   url: https://www.mcclatchy.com/news/politics-government/article195231139.html
-  publisher: McClatchy DC
   date: '2018-01-18'
   tier: 1
-- title: 'Kremlin Used NRA to Help Trump in 2016, Democratic Senate Report Says'
+  outlet: McClatchy DC
+- title: Kremlin Used NRA to Help Trump in 2016, Democratic Senate Report Says
   url: https://www.thedailybeast.com/kremlin-used-nra-to-help-trump-in-2016-says-senate-intelligence-committee
-  publisher: Daily Beast
   date: '2019-09-27'
   tier: 2
-- title: 'NRA & Russia - Majority Report'
+  outlet: The Daily Beast
+- title: NRA & Russia - Majority Report
   url: https://www.finance.senate.gov/download/nra-and-russia_-majority-report
-  publisher: Senate Finance Committee
   date: '2019-09-27'
   tier: 1
+  outlet: Senate Finance Committee
 status: confirmed
 ---
 

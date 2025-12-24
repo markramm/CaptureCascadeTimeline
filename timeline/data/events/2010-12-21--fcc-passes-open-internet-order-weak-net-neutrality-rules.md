@@ -4,7 +4,7 @@ date: '2010-12-21'
 title: FCC Passes First Net Neutrality Rules with Major Wireless Exemption in 3-2 Party-Line Vote
 importance: 8
 actors:
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Julius Genachowski
 - Comcast Corporation
 - Verizon Communications
@@ -17,17 +17,17 @@ tags:
 - deregulation
 status: confirmed
 sources:
-- title: 'FCC Releases Open Internet Order'
+- title: FCC Releases Open Internet Order
   url: https://www.fcc.gov/document/fcc-releases-open-internet-order
   outlet: Federal Communications Commission
   date: '2010-12-21'
   tier: 1
-- title: 'Federal Communications Commission Open Internet Order (2010)'
+- title: Federal Communications Commission Open Internet Order (2010)
   url: https://en.wikipedia.org/wiki/Federal_Communications_Commission_Open_Internet_Order_(2010)
   outlet: Wikipedia
   date: '2010-12-21'
   tier: 2
-- title: 'How the FCC Open Internet Rules Are Evolving'
+- title: How the FCC Open Internet Rules Are Evolving
   url: https://rollcall.com/2014/09/30/how-the-fcc-open-internet-rules-are-evolving/
   outlet: Roll Call
   date: '2014-09-30'

@@ -6,7 +6,7 @@ title: Epstein leaves Bear Stearns amid SEC insider trading investigation
 actors:
 - Jeffrey Epstein
 - Bear Stearns
-- SEC (Securities and Exchange Commission)
+- Securities and Exchange Commission (SEC)
 - Edgar Bronfman
 - Seagram Company
 tags:

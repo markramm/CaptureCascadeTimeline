@@ -10,13 +10,13 @@ actors:
 - Hispanic Scholarship Fund
 - U.S. District Court for D.C.
 tags:
-- DEI
+- dei
 - scholarships
 - civil-rights-lawsuits
 - education-access
 - affirmative-action
-- Edward-Blum
-- Hispanic-students
+- edward-blum
+- hispanic-students
 - discrimination-claims
 capture_lanes:
 - DEI Dismantling

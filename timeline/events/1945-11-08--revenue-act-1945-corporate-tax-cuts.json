@@ -1,0 +1,43 @@
+{
+  "id": "1945-11-08--revenue-act-1945-corporate-tax-cuts",
+  "date": "1945-11-08",
+  "title": "Revenue Act of 1945: Post-War Corporate Tax Relief Begins",
+  "description": "Congress passes the Revenue Act of 1945, repealing the wartime excess profits tax and reducing the top corporate tax rate from 40% to 38%. The act also reduces individual income tax rates (top rate drops from 94% to 86.45%). While justified as necessary economic relief after WWII, this marks the beginning of sustained corporate lobbying for tax reductions and loopholes that continues through the 1950s. Corporate lobbying successfully eliminates the public disclosure requirement for corporate tax returns, removing transparency that would have exposed corporate profitability to voters. The pattern established here—using economic transitions to justify corporate tax relief—becomes a repeated strategy. By 1954, the Internal Revenue Code is comprehensively revised with numerous corporate-friendly provisions, special deductions, and loopholes. This demonstrates corporate tax policy influence predating the Powell Memo by 26 years.",
+  "importance": 7,
+  "actors": [
+    "U.S. Congress",
+    "Corporate lobbying groups",
+    "National Association of Manufacturers",
+    "Harry S. Truman"
+  ],
+  "sources": [
+    {
+      "title": "Revenue Act of 1945",
+      "outlet": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Revenue_Act_of_1945",
+      "tier": 3
+    },
+    {
+      "title": "U.S. Tax Reform Timeline, 1945-Present",
+      "outlet": "Bipartisan Policy Center",
+      "url": "https://bipartisanpolicy.org/issue-brief/u-s-tax-reform-timeline-1945-present/",
+      "tier": 2
+    },
+    {
+      "title": "Corporate Taxation to Curb Monopoly Power: A Brief History",
+      "outlet": "Tax Justice Network",
+      "url": "https://taxjustice.net/2022/11/02/corporate-taxation-to-curb-monopoly-power-a-brief-history-and-a-proposal/",
+      "tier": 2
+    }
+  ],
+  "tags": [
+    "corporate-power",
+    "tax-policy",
+    "business-lobbying",
+    "wealth-concentration",
+    "institutional-capture",
+    "powell-memo-precursors",
+    "post-war-corporate-mobilization"
+  ],
+  "significance": "Establishes post-war pattern of corporate tax reductions justified by economic conditions. Corporate lobbying eliminates public disclosure of tax returns, removing citizen oversight of corporate profitability. This early success in tax policy demonstrates corporate political power already well-organized in 1945, with ability to shape major legislation through Congress."
+}

@@ -4,35 +4,35 @@ title: Supreme Court Rejects Sackler Immunity in 5-4 Decision, Blocks Bankruptcy
 date: '2024-06-27'
 importance: 9
 actors:
-  - U.S. Supreme Court
-  - Neil Gorsuch
-  - Ketanji Brown Jackson
-  - Brett Kavanaugh
-  - Sackler Family
-  - Purdue Pharma
+- U.S. Supreme Court
+- Neil Gorsuch
+- Ketanji Brown Jackson
+- Brett Kavanaugh
+- Sackler Family
+- Purdue Pharma
 tags:
-  - opioid-crisis
-  - supreme-court
-  - bankruptcy-law
-  - accountability
-  - legal-precedent
+- opioid-crisis
+- supreme-court
+- bankruptcy-law
+- accountability
+- legal-precedent
 status: confirmed
 sources:
-  - title: US Supreme Court rejects opioid settlement that shields Sackler family
-    url: https://www.aljazeera.com/news/2024/6/27/us-supreme-court-rejects-opioid-settlement-that-shields-sackler-family
-    publisher: Al Jazeera
-    date: '2024-06-27'
-    tier: 1
-  - title: Supreme Court blocks Sackler family immunity, dismantles Purdue Pharma bankruptcy plan
-    url: https://www.healio.com/news/primary-care/20240627/supreme-court-blocks-sackler-family-immunity-dismantles-purdue-pharma-bankruptcy-plan
-    publisher: Healio
-    date: '2024-06-27'
-    tier: 2
-  - title: Harrington v. Purdue Pharma L.P. Supreme Court Opinion
-    url: https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf
-    publisher: U.S. Supreme Court
-    date: '2024-06-27'
-    tier: 1
+- title: US Supreme Court rejects opioid settlement that shields Sackler family
+  url: https://www.aljazeera.com/news/2024/6/27/us-supreme-court-rejects-opioid-settlement-that-shields-sackler-family
+  date: '2024-06-27'
+  tier: 1
+  outlet: Al Jazeera
+- title: Supreme Court blocks Sackler family immunity, dismantles Purdue Pharma bankruptcy plan
+  url: https://www.healio.com/news/primary-care/20240627/supreme-court-blocks-sackler-family-immunity-dismantles-purdue-pharma-bankruptcy-plan
+  date: '2024-06-27'
+  tier: 2
+  outlet: Healio
+- title: Harrington v. Purdue Pharma L.P. Supreme Court Opinion
+  url: https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf
+  date: '2024-06-27'
+  tier: 1
+  outlet: U.S. Supreme Court
 ---
 
 On June 27, 2024, the Supreme Court ruled 5-4 to reject the Purdue Pharma bankruptcy settlement that would have provided the Sackler family immunity from future opioid-related lawsuits in exchange for paying up to $6 billion. Justice Neil Gorsuch's majority opinion held that "the bankruptcy code does not authorize this kind of order," blocking the Sacklers' attempt to use their company's bankruptcy to shield themselves from personal civil liability.

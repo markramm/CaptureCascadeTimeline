@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Lee Zeldin
 - EPA
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
 - Donald Trump
 - Nancy Beck
 - Lynn Dekleva

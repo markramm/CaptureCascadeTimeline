@@ -2,12 +2,7 @@
 id: 2025-02-04--a-25-year-old-with-elon-musk-ties-has-direct-access-to-the-f
 date: '2025-02-04'
 title: Musk Associate Granted Unprecedented Access to US Treasury Payment Systems
-description: 'Marko Elez, a 25-year-old software engineer with previous experience
-  at SpaceX and X (Twitter), was granted administrator-level access to critical US
-  Treasury payment systems through Elon Musk''s Department of Government Efficiency
-  (DOGE). His access included the Payment Automation Manager and Secure Payment System
-  at the Bureau of the Fiscal Service, which manages over $5 trillion in annual federal
-  payments.
+description: 'Marko Elez, a 25-year-old software engineer with previous experience at SpaceX and X (Twitter), was granted administrator-level access to critical US Treasury payment systems through Elon Musk''s Department of Government Efficiency (DOGE). His access included the Payment Automation Manager and Secure Payment System at the Bureau of the Fiscal Service, which manages over $5 trillion in annual federal payments.
 
 
   Key details:
@@ -21,9 +16,7 @@ description: 'Marko Elez, a 25-year-old software engineer with previous experien
   - Potential ability to modify or interrupt federal payment systems
 
 
-  The incident highlights potential vulnerabilities in government technology infrastructure
-  and raises questions about the Trump Administration''s approach to hiring and system
-  access.'
+  The incident highlights potential vulnerabilities in government technology infrastructure and raises questions about the Trump Administration''s approach to hiring and system access.'
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -51,9 +44,8 @@ sources:
   outlet: emptywheel
   date: '2025-02-12'
   url: https://www.emptywheel.net/2025/02/12/marko-elez-resigned-the-day-his-write-access-to-payment-systems-was-discovered/
-- title: A 25-year-old with Elon Musk ties has direct access to the federal payment
-    system
-  outlet: Wired
+- title: A 25-year-old with Elon Musk ties has direct access to the federal payment system
+  outlet: WIRED
   date: '2025-02-04'
   url: https://www.wired.com/story/elon-musk-associate-bfs-federal-payment-system/
 connections:
@@ -62,8 +54,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - technological-infiltration
-notes: Comprehensive investigation recommended to understand full scope of access
-  and potential risks.
+notes: Comprehensive investigation recommended to understand full scope of access and potential risks.
 ---
 
 A 25-year-old engineer, Marko Elez, with ties to Elon Musk's SpaceX and X, was granted administrator-level access to the US Treasury Department's critical $5 trillion payment systems, raising significant concerns about institutional security and potential regulatory capture.

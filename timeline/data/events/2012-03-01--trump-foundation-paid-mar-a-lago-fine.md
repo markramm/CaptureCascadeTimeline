@@ -4,32 +4,32 @@ date: 2012-03-01
 title: Trump Foundation Illegally Used $158,000 in Charity Funds to Settle Mar-a-Lago Legal Dispute
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Self-Dealing
-  - Mar-a-Lago
-  - Tax Violations
+- trump foundation
+- charity fraud
+- self-dealing
+- mar-a-lago
+- tax violations
 actors:
-  - Donald Trump
-  - Trump Foundation
-  - Town of Palm Beach
+- Donald Trump
+- Trump Foundation
+- Town of Palm Beach
 status: confirmed
 sources:
-  - url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
-    title: Trump used $258,000 from his charity to settle legal problems
-    publisher: Washington Post
-    date: 2016-09-20
-    tier: 1
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
-    title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
-    publisher: New York Attorney General
-    date: 2018-06-14
-    tier: 1
-  - url: https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html
-    title: Trump's Charitable Foundation to Shut Down, New York Attorney General Says
-    publisher: New York Times
-    date: 2019-11-07
-    tier: 1
+- url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
+  title: Trump used $258,000 from his charity to settle legal problems
+  date: 2016-09-20
+  tier: 1
+  outlet: The Washington Post
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
+  title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
+  date: 2018-06-14
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html
+  title: Trump's Charitable Foundation to Shut Down, New York Attorney General Says
+  date: 2019-11-07
+  tier: 1
+  outlet: The New York Times
 ---
 
 The Donald J. Trump Foundation used $158,000 in tax-exempt charitable funds to settle a legal dispute between the Town of Palm Beach and Trump's for-profit Mar-a-Lago Club over an illegal 80-foot flagpole. The town had fined Trump's private club for violating local ordinances by erecting an oversized flagpole, and after protracted litigation, Trump's business owed the town money as part of the settlement. Instead of paying the fine from Mar-a-Lago's business accounts or Trump's personal funds, Trump directed his charitable foundation to pay the settlement, effectively using charitable donations from others to cover his business's legal obligations.

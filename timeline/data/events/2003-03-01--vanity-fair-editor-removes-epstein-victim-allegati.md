@@ -8,7 +8,7 @@ actors:
 - Vicky Ward
 - Jeffrey Epstein
 - Vanity Fair
-- Epstein victims (unnamed)
+- Epstein victims
 tags:
 - media-cover-up
 - editorial-censorship

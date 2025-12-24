@@ -4,29 +4,29 @@ date: 2020-03-13
 title: COVID-19 Emergency Triggers Student Loan Payment Pause - 44 Million Borrowers Get Relief
 importance: 7
 tags:
-  - student-debt
-  - covid-19
-  - debt-relief
+- student-debt
+- covid-19
+- debt-relief
 actors:
-  - Donald Trump
-  - Joe Biden
-  - Department of Education
+- Donald Trump
+- Joe Biden
+- Department of Education
 sources:
-  - url: https://studentaid.gov/announcements-events/covid-19/payment-pause-zero-interest
-    title: COVID-19 Emergency Relief and Federal Student Aid
-    publisher: U.S. Department of Education
-    date: 2020-03-13
-    tier: 1
-  - url: https://www.congress.gov/crs-product/R46314
-    title: Federal Student Loan Debt Relief in the Context of COVID-19
-    publisher: Congressional Research Service
-    date: 2020-04-20
-    tier: 1
-  - url: https://www.bostonfed.org/publications/current-policy-perspectives/2025/how-the-student-loan-payment-pause-affected-borrowers-credit-access-and-credit-use.aspx
-    title: How the Student Loan Payment Pause Affected Borrowers' Credit Access
-    publisher: Federal Reserve Bank of Boston
-    date: 2023-09-01
-    tier: 1
+- url: https://studentaid.gov/announcements-events/covid-19/payment-pause-zero-interest
+  title: COVID-19 Emergency Relief and Federal Student Aid
+  date: 2020-03-13
+  tier: 1
+  outlet: U.S. Department of Education
+- url: https://www.congress.gov/crs-product/R46314
+  title: Federal Student Loan Debt Relief in the Context of COVID-19
+  date: 2020-04-20
+  tier: 1
+  outlet: Congressional Research Service
+- url: https://www.bostonfed.org/publications/current-policy-perspectives/2025/how-the-student-loan-payment-pause-affected-borrowers-credit-access-and-credit-use.aspx
+  title: How the Student Loan Payment Pause Affected Borrowers' Credit Access
+  date: 2023-09-01
+  tier: 1
+  outlet: Federal Reserve Bank of Boston
 status: confirmed
 ---
 

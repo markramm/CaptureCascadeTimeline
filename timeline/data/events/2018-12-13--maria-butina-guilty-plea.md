@@ -21,14 +21,14 @@ actors:
 sources:
 - title: Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme
   url: https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme
-  publisher: NPR
   date: '2018-12-13'
   tier: 1
+  outlet: NPR
 - title: Russian Maria Butina pleads guilty to attempting to infiltrate U.S. conservative movement
   url: https://www.washingtonpost.com/gender-identity/russian-maria-butina-pleads-guilty-to-attempting-to-infiltrate-us-conservative-movement/
-  publisher: Washington Post
   date: '2018-12-13'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

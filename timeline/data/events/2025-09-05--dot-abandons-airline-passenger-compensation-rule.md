@@ -1,8 +1,7 @@
 ---
 id: 2025-09-05--dot-abandons-airline-passenger-compensation-rule
 date: '2025-09-05'
-title: Transportation Department Drops Rule Requiring Airlines to Compensate Passengers
-  for Delays
+title: Transportation Department Drops Rule Requiring Airlines to Compensate Passengers for Delays
 importance: 7
 tags:
 - regulatory-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.cbsnews.com/news/transportation-department-airline-passenger-compensation-rule-dropped/
   title: Trump Administration Abandons Consumer Protection for Flight Disruptions
-  publisher: CBS News
   date: '2025-09-05'
   tier: 1
+  outlet: CBS News
 actors:
 - Sean Duffy
 - Department of Transportation

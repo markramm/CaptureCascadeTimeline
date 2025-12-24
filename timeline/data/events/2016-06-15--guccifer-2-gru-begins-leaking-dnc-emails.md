@@ -1,7 +1,7 @@
 ---
 id: 2016-06-15--guccifer-2-gru-begins-leaking-dnc-emails
 date: '2016-06-15'
-title: 'Guccifer 2.0 (Russian GRU) Begins Leaking Stolen DNC Emails Hours After Hack Exposure'
+title: Guccifer 2.0 (Russian GRU) Begins Leaking Stolen DNC Emails Hours After Hack Exposure
 importance: 10
 tags:
 - russia
@@ -20,26 +20,26 @@ actors:
 - WikiLeaks
 - Robert Mueller
 sources:
-- title: 'Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election'
+- title: Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election
   url: https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election
-  publisher: US Department of Justice
   date: '2018-07-13'
   tier: 1
-- title: 'Guccifer 2.0 - Wikipedia'
+  outlet: US Department of Justice
+- title: Guccifer 2.0 - Wikipedia
   url: https://en.wikipedia.org/wiki/Guccifer_2.0
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - title: '''Lone DNC Hacker'' Guccifer 2.0 Slipped Up and Revealed He Was a Russian Intelligence Officer'
   url: https://www.thedailybeast.com/exclusive-lone-dnc-hacker-guccifer-20-slipped-up-and-revealed-he-was-a-russian-intelligence-officer
-  publisher: Daily Beast
   date: '2018-03-22'
   tier: 2
-- title: 'Tracing Guccifer 2.0''s many tentacles in the 2016 election'
+  outlet: The Daily Beast
+- title: Tracing Guccifer 2.0's many tentacles in the 2016 election
   url: https://www.seattletimes.com/nation-world/tracing-guccifer-2-0s-many-tentacles-in-the-2016-election/
-  publisher: Seattle Times
   date: '2018-07-14'
   tier: 2
+  outlet: Seattle Times
 status: confirmed
 ---
 

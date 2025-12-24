@@ -1,8 +1,7 @@
 ---
 id: 2017-03-22--trump-asks-coats-rogers-deny-russia-collusion-evidence-obstruction
 date: '2017-03-22'
-title: Trump Asks Intelligence Chiefs Coats and Rogers to Publicly Deny Russia Collusion
-  Evidence - Obstruction of Investigation
+title: Trump Asks Intelligence Chiefs Coats and Rogers to Publicly Deny Russia Collusion Evidence - Obstruction of Investigation
 importance: 10
 tags:
 - obstruction-of-justice
@@ -19,9 +18,9 @@ actors:
 sources:
 - url: https://www.nbcnews.com/news/us-news/coats-won-t-say-whether-trump-asked-him-push-back-n763551
   title: Coats Won't Say Whether Trump Asked Him to Push Back on Russia Probe
-  publisher: NBC News
   date: '2017-05-23'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

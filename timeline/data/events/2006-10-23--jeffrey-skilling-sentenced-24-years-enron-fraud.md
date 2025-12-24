@@ -4,31 +4,31 @@ date: 2006-10-23
 title: Jeffrey Skilling Sentenced to 24 Years for Enron Fraud
 importance: 10
 tags:
-  - corporate-fraud
-  - enron
-  - criminal-prosecution
-  - securities-fraud
-  - corporate-accountability
+- corporate-fraud
+- enron
+- criminal-prosecution
+- securities-fraud
+- corporate-accountability
 actors:
-  - Jeffrey Skilling
-  - Department of Justice
-  - Sim Lake
+- Jeffrey Skilling
+- Department of Justice
+- Sim Lake
 sources:
-  - url: https://www.justice.gov/archive/opa/pr/2006/October/06_crm_723.html
-    title: "Former Enron Chief Executive Officer Jeffrey Skilling Sentenced to More Than 24 Years in Prison"
-    publisher: U.S. Department of Justice
-    date: 2006-10-23
-    tier: 1
-  - url: https://www.npr.org/2006/10/23/6369937/enrons-skilling-sentenced-to-24-years-for-fraud
-    title: "Enron's Skilling Sentenced to 24 Years for Fraud"
-    publisher: NPR
-    date: 2006-10-23
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Jeffrey_Skilling
-    title: "Jeffrey Skilling"
-    publisher: Wikipedia
-    date: 2006-10-23
-    tier: 2
+- url: https://www.justice.gov/archive/opa/pr/2006/October/06_crm_723.html
+  title: Former Enron Chief Executive Officer Jeffrey Skilling Sentenced to More Than 24 Years in Prison
+  date: 2006-10-23
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.npr.org/2006/10/23/6369937/enrons-skilling-sentenced-to-24-years-for-fraud
+  title: Enron's Skilling Sentenced to 24 Years for Fraud
+  date: 2006-10-23
+  tier: 1
+  outlet: NPR
+- url: https://en.wikipedia.org/wiki/Jeffrey_Skilling
+  title: Jeffrey Skilling
+  date: 2006-10-23
+  tier: 2
+  outlet: Wikipedia
 ---
 
 On October 23, 2006, former Enron CEO Jeffrey Skilling was sentenced to 24 years and four months in federal prison for his role in the Enron fraud, representing one of the harshest sentences ever imposed on a corporate executive. U.S. District Judge Sim Lake also ordered Skilling to forfeit approximately $45 million to be applied toward restitution for victims of Enron's collapse.

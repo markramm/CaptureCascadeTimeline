@@ -1,7 +1,7 @@
 ---
 id: 1959-09-14--landrum-griffin-act-restricts-union-internal-operations
 date: '1959-09-14'
-title: 'Landrum-Griffin Act Imposes Federal Restrictions on Union Internal Operations'
+title: Landrum-Griffin Act Imposes Federal Restrictions on Union Internal Operations
 importance: 7
 actors:
 - U.S. Congress
@@ -12,23 +12,23 @@ actors:
 tags:
 - labor-suppression
 - union-restrictions
-- Landrum-Griffin
+- landrum-griffin
 - regulatory-burden
 - labor-law
 sources:
-- title: '1959 Landrum-Griffin Act'
+- title: 1959 Landrum-Griffin Act
   url: https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1959-landrum-griffin-act
   outlet: National Labor Relations Board
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'Labor Management Reporting and Disclosure Act of 1959 Wikipedia'
+- title: Labor Management Reporting and Disclosure Act of 1959 Wikipedia
   url: https://en.wikipedia.org/wiki/Labor_Management_Reporting_and_Disclosure_Act_of_1959
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Landrum-Griffin Act of 1959'
+- title: Landrum-Griffin Act of 1959
   url: https://www.ebsco.com/research-starters/history/landrum-griffin-act-1959
   outlet: EBSCO Research Starters
   date: '2024-01-01'

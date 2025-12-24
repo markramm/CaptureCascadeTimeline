@@ -9,14 +9,14 @@ actors:
 sources:
 - title: Partial Shutdown of NIST Biometric Services
   url: https://securedocumentnews.com/news/2025/oct/07/partial-shutdown-of-nist-biometric-services/
-  publisher: Secured Document News
   date: '2025-10-07'
   tier: 3
+  outlet: Secured Document News
 - title: NIST halts facial recognition reviews amid shutdown
   url: https://subscriber.politicopro.com/article/2025/10/nist-halts-facial-recognition-reviews-amid-shutdown-00589721
-  publisher: Politico Pro
   date: '2025-10-07'
   tier: 2
+  outlet: Politico Pro
 tags:
 - nist
 - facial-recognition

@@ -4,36 +4,36 @@ date: 2013-03-11
 title: Federal Court Rules Texas 2011 Redistricting Intentionally Discriminated Against Latino Voters
 importance: 8
 tags:
-  - gerrymandering
-  - racial-discrimination
-  - texas
-  - voting-rights
-  - latino-voters
+- gerrymandering
+- racial-discrimination
+- texas
+- voting-rights
+- latino-voters
 actors:
-  - Texas Legislature
-  - Republican Party
-  - MALDEF
+- Texas Legislature
+- Republican Party
+- MALDEF
 sources:
-  - url: https://www.maldef.org/2017/03/federal-court-declares-texas-2011-congressional-redistricting-plan-illegal-maldef-secures-victory-for-latino-voters/
-    title: Federal Court Declares Texas 2011 Congressional Redistricting Plan Illegal
-    publisher: MALDEF
-    date: 2017-03-11
-    tier: 1
-  - url: https://www.propublica.org/article/five-ways-courts-say-texas-discriminated-against-black-and-latino-voters
-    title: Five Ways Courts Say Texas Discriminated Against Black and Latino Voters
-    publisher: ProPublica
-    date: 2017-08-15
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/analysis-opinion/texas-redistricting-back-court
-    title: Texas Redistricting Back in Court
-    publisher: Brennan Center for Justice
-    date: 2017-03-13
-    tier: 1
-  - url: https://www.texastribune.org/2019/07/24/texas-redistricting-federal-supervision/
-    title: Texas won't be placed back under federal supervision for redistricting despite findings of intentional discrimination
-    publisher: Texas Tribune
-    date: 2019-07-24
-    tier: 2
+- url: https://www.maldef.org/2017/03/federal-court-declares-texas-2011-congressional-redistricting-plan-illegal-maldef-secures-victory-for-latino-voters/
+  title: Federal Court Declares Texas 2011 Congressional Redistricting Plan Illegal
+  date: 2017-03-11
+  tier: 1
+  outlet: MALDEF
+- url: https://www.propublica.org/article/five-ways-courts-say-texas-discriminated-against-black-and-latino-voters
+  title: Five Ways Courts Say Texas Discriminated Against Black and Latino Voters
+  date: 2017-08-15
+  tier: 1
+  outlet: ProPublica
+- url: https://www.brennancenter.org/our-work/analysis-opinion/texas-redistricting-back-court
+  title: Texas Redistricting Back in Court
+  date: 2017-03-13
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.texastribune.org/2019/07/24/texas-redistricting-federal-supervision/
+  title: Texas won't be placed back under federal supervision for redistricting despite findings of intentional discrimination
+  date: 2019-07-24
+  tier: 2
+  outlet: Texas Tribune
 ---
 
 A federal court rules that the Texas Legislature's 2011 redistricting plan for congressional districts discriminated against Latino voters in violation of the federal Voting Rights Act and the U.S. Constitution. The decision finds that Texas deliberately carved up Latino communities and diluted Latino political strength even as the state's Latino population rose to 38% of the total population.

@@ -2,8 +2,7 @@
 id: 2020-07-01--hampton-inn-secret-detention
 date: '2020-07-01'
 importance: 5
-title: During Title 42, unaccompanied children were held in hotels by contractors
-  (e.g., Hampton Inn) before expulsion attempts
+title: During Title 42, unaccompanied children were held in hotels by contractors (e.g., Hampton Inn) before expulsion attempts
 location: McAllen, Texas
 actors:
 - Texas Civil Rights Project
@@ -33,7 +32,7 @@ sources:
   notes: Original AP investigation exposing hotel detentions
 - title: 'FRONTLINE: Children at the Border - Hotel Detention Investigation'
   url: https://www.pbs.org/wgbh/frontline/article/migrant-children-were-detained-hotels-border/
-  outlet: PBS FRONTLINE
+  outlet: PBS Frontline
   date: '2020-08-20'
   notes: Documentary investigation with court monitor interviews
 - title: Investigation Reveals MVM Inc. Detained Children in Hotels
@@ -43,11 +42,10 @@ sources:
   notes: Joint investigation into MVM contractor operations
 - title: Before Covid-19 Border Expulsions, Children Were Held in Hotels by Contractors
   url: https://www.nytimes.com/2020/08/16/us/migrant-children-hotels-coronavirus.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2020-08-16'
   notes: Comprehensive report with court documents
-notes: Anchor to original New York Times reporting by Caitlin Dickerson and ACLU/TCRP
-  litigation; avoid activist framings when official/primary sources exist.
+notes: Anchor to original New York Times reporting by Caitlin Dickerson and ACLU/TCRP litigation; avoid activist framings when official/primary sources exist.
 status: confirmed
 capture_lanes:
 - Media Capture & Control

@@ -4,7 +4,7 @@ title: FinCEN Files Reveal $2 Trillion in Suspicious Banking Transactions
 actors:
 - FinCEN
 - BuzzFeed News
-- International Consortium of Investigative Journalists
+- International Consortium of Investigative Journalists (ICIJ)
 - Jason Leopold
 - Deutsche Bank
 - HSBC
@@ -19,20 +19,17 @@ sources:
   title: FinCEN Files Investigation
   url: https://www.icij.org/investigations/fincen-files/
   access_date: '2025-09-17'
-  description: Comprehensive global investigation revealing systemic banking transparency
-    failures
+  description: Comprehensive global investigation revealing systemic banking transparency failures
 - outlet: BuzzFeed News
   title: FinCEN Files Show Criminals Moved Billions As Banks Watched
   url: https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks
   access_date: '2025-09-17'
-  description: Detailed investigation of global financial institutions' involvement
-    in suspicious transactions
+  description: Detailed investigation of global financial institutions' involvement in suspicious transactions
 - outlet: ProMarket, Stigler Center
   title: ICIJ's FinCEN Files Expose How Banks Turn a Blind Eye to Suspicious Transactions
   url: https://www.promarket.org/2020/10/11/icij-fincen-files-banks-ignore-suspicious-transactions/
   access_date: '2025-09-17'
-  description: Academic and policy analysis of the broader systemic implications of
-    the FinCEN Files
+  description: Academic and policy analysis of the broader systemic implications of the FinCEN Files
 importance: 9
 tags:
 - money-laundering

@@ -18,19 +18,19 @@ actors:
 sources:
 - url: https://techcrunch.com/2019/06/27/police-body-cam-maker-axon-says-no-to-facial-recognition-for-now/
   title: Police body-cam maker Axon says no to facial recognition, for now
-  publisher: TechCrunch
   date: '2019-06-27'
   tier: 1
+  outlet: TechCrunch
 - url: https://www.techdirt.com/2019/07/03/axon-ethics-board-pulls-plug-facial-recognition-tech-being-added-to-body-cameras/
   title: Axon Ethics Board Pulls Plug On Facial Recognition Tech Being Added To Its Body Cameras
-  publisher: Techdirt
   date: '2019-07-03'
   tier: 2
+  outlet: Techdirt
 - url: https://www.policingproject.org/axon-ethics-board
   title: Axon AI Ethics Board
-  publisher: The Policing Project
   date: '2019-06-27'
   tier: 1
+  outlet: The Policing Project
 status: confirmed
 ---
 

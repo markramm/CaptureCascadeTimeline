@@ -4,42 +4,42 @@ date: 2018-06-15
 title: Amazon aggressively pitches Rekognition facial recognition to ICE during family separation crisis
 importance: 9
 actors:
-  - Amazon
-  - AWS
-  - ICE
-  - DHS
-  - Jeff Bezos
+- Amazon
+- AWS
+- Immigration and Customs Enforcement (ICE)
+- Department of Homeland Security
+- Jeff Bezos
 tags:
-  - surveillance
-  - facial-recognition
-  - amazon
-  - rekognition
-  - ice
-  - immigration
-  - family-separation
-  - law-enforcement
-  - privacy
+- surveillance
+- facial-recognition
+- amazon
+- rekognition
+- ice
+- immigration
+- family-separation
+- law-enforcement
+- privacy
 sources:
-  - url: https://www.technologyreview.com/2018/10/22/139639/amazon-is-the-invisible-backbone-behind-ices-immigration-crackdown/
-    title: Amazon is the invisible backbone of ICE's immigration crackdown
-    publisher: MIT Technology Review
-    date: 2018-10-22
-    tier: 1
-  - url: https://www.commondreams.org/news/2018/10/24/over-employees-protests-amazon-aggressively-pitched-facial-recognition-software-ice
-    title: Over Employees' Protests, Amazon Aggressively Pitched Facial Recognition Software to ICE At Height of Child Detention Crisis
-    publisher: Common Dreams
-    date: 2018-10-24
-    tier: 2
-  - url: https://www.aclu.org/press-releases/aclu-calls-moratorium-law-and-immigration-enforcement-use-facial-recognition
-    title: ACLU Calls for Moratorium on Law and Immigration Enforcement Use of Facial Recognition
-    publisher: ACLU
-    date: 2018-10-24
-    tier: 1
-  - url: https://www.seattletimes.com/business/amazon/amazon-officials-pitched-their-facial-recognition-software-to-ice/
-    title: Amazon officials pitched their facial recognition software to ICE
-    publisher: The Seattle Times
-    date: 2018-10-23
-    tier: 1
+- url: https://www.technologyreview.com/2018/10/22/139639/amazon-is-the-invisible-backbone-behind-ices-immigration-crackdown/
+  title: Amazon is the invisible backbone of ICE's immigration crackdown
+  date: 2018-10-22
+  tier: 1
+  outlet: MIT Technology Review
+- url: https://www.commondreams.org/news/2018/10/24/over-employees-protests-amazon-aggressively-pitched-facial-recognition-software-ice
+  title: Over Employees' Protests, Amazon Aggressively Pitched Facial Recognition Software to ICE At Height of Child Detention Crisis
+  date: 2018-10-24
+  tier: 2
+  outlet: Common Dreams
+- url: https://www.aclu.org/press-releases/aclu-calls-moratorium-law-and-immigration-enforcement-use-facial-recognition
+  title: ACLU Calls for Moratorium on Law and Immigration Enforcement Use of Facial Recognition
+  date: 2018-10-24
+  tier: 1
+  outlet: ACLU
+- url: https://www.seattletimes.com/business/amazon/amazon-officials-pitched-their-facial-recognition-software-to-ice/
+  title: Amazon officials pitched their facial recognition software to ICE
+  date: 2018-10-23
+  tier: 1
+  outlet: The Seattle Times
 status: confirmed
 ---
 

@@ -4,34 +4,34 @@ title: Federal Jury Finds CVS, Walgreens, Walmart Liable for Fueling Ohio Opioid
 date: '2021-11-23'
 importance: 8
 actors:
-  - CVS
-  - Walgreens
-  - Walmart
-  - Lake County Ohio
-  - Trumbull County Ohio
+- CVS
+- Walgreens
+- Walmart
+- Lake County Ohio
+- Trumbull County Ohio
 tags:
-  - opioid-crisis
-  - pharmacy-liability
-  - corporate-accountability
-  - public-nuisance
-  - retail-pharmacies
+- opioid-crisis
+- pharmacy-liability
+- corporate-accountability
+- public-nuisance
+- retail-pharmacies
 status: confirmed
 sources:
-  - title: Ohio jury holds CVS, Walgreens and Walmart liable for opioid crisis
-    url: https://www.npr.org/2021/11/23/1058539458/a-jury-in-ohio-says-americas-big-pharmacy-chains-are-liable-for-the-opioid-epide
-    publisher: NPR
-    date: '2021-11-23'
-    tier: 1
-  - title: Jury holds CVS, Walgreens and Walmart responsible for role in opioid crisis
-    url: https://www.cnbc.com/2021/11/23/jury-holds-cvs-walgreens-and-walmart-responsible-for-role-in-opioid-crisis.html
-    publisher: CNBC
-    date: '2021-11-23'
-    tier: 2
-  - title: Federal jury holds pharmacy chains CVS, Walgreens and Walmart responsible for role in opioid crisis
-    url: https://www.fiercehealthcare.com/finance/federal-jury-holds-cvs-walgreens-and-walmart-responsible-for-role-opioid-crisis
-    publisher: Fierce Healthcare
-    date: '2021-11-23'
-    tier: 2
+- title: Ohio jury holds CVS, Walgreens and Walmart liable for opioid crisis
+  url: https://www.npr.org/2021/11/23/1058539458/a-jury-in-ohio-says-americas-big-pharmacy-chains-are-liable-for-the-opioid-epide
+  date: '2021-11-23'
+  tier: 1
+  outlet: NPR
+- title: Jury holds CVS, Walgreens and Walmart responsible for role in opioid crisis
+  url: https://www.cnbc.com/2021/11/23/jury-holds-cvs-walgreens-and-walmart-responsible-for-role-in-opioid-crisis.html
+  date: '2021-11-23'
+  tier: 2
+  outlet: CNBC
+- title: Federal jury holds pharmacy chains CVS, Walgreens and Walmart responsible for role in opioid crisis
+  url: https://www.fiercehealthcare.com/finance/federal-jury-holds-cvs-walgreens-and-walmart-responsible-for-role-opioid-crisis
+  date: '2021-11-23'
+  tier: 2
+  outlet: Fierce Healthcare
 ---
 
 On November 23, 2021, a federal jury in Cleveland found CVS, Walgreens, and Walmart liable for contributing to the opioid crisis in Lake and Trumbull counties in Ohio. After a six-week trial and five and a half days of deliberation, jurors concluded that the pharmacy chains contributed to a public nuisance by selling and dispensing massive quantities of prescription pain pills without adequate oversight.

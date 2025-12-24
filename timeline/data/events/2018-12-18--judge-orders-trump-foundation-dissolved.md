@@ -4,33 +4,33 @@ date: 2018-12-18
 title: New York Judge Orders Trump Foundation Dissolved, Assets Distributed to Charities
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - NY Attorney General
-  - Court Order
-  - Saliann Scarpulla
+- trump foundation
+- charity fraud
+- ny attorney general
+- court order
+- saliann scarpulla
 actors:
-  - Saliann Scarpulla
-  - Donald Trump
-  - Trump Foundation
-  - Barbara Underwood
+- Saliann Scarpulla
+- Donald Trump
+- Trump Foundation
+- Barbara Underwood
 status: confirmed
 sources:
-  - url: https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=vIexA1b0v_PLUS_EKSuJs36C2A==&system=prod
-    title: New York v. Trump Foundation - Order of Dissolution
-    publisher: New York State Supreme Court
-    date: 2018-12-18
-    tier: 1
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial
-    title: AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision
-    publisher: New York Attorney General
-    date: 2018-12-18
-    tier: 1
-  - url: https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html
-    title: Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'
-    publisher: New York Times
-    date: 2018-12-18
-    tier: 1
+- url: https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=vIexA1b0v_PLUS_EKSuJs36C2A==&system=prod
+  title: New York v. Trump Foundation - Order of Dissolution
+  date: 2018-12-18
+  tier: 1
+  outlet: New York State Supreme Court
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial
+  title: AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision
+  date: 2018-12-18
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html
+  title: Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'
+  date: 2018-12-18
+  tier: 1
+  outlet: The New York Times
 ---
 
 New York State Supreme Court Justice Saliann Scarpulla issued an order formally dissolving the Donald J. Trump Foundation and directing the distribution of its remaining $1.78 million in assets to eight legitimate charities under court and Attorney General supervision. The dissolution order came after the Foundation stipulated to illegal coordination with Trump's 2016 presidential campaign and acknowledged systematic violations of laws governing charitable organizations. Justice Scarpulla's order required detailed accounting of all foundation transactions and maintained the court's jurisdiction over claims seeking $2.8 million in restitution and penalties against Trump personally and his adult children who served as foundation board members.

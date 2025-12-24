@@ -19,27 +19,41 @@ capture_lanes:
 - Institutional Memory Preservation
 - Bureaucratic Resilience
 sources:
-- outlet: Foreign Service Journal
-  title: State Department Institutional Resilience Report
-  date: 2024-03
-  url: https://example.com
-- outlet: U.S. Department of State Congressional Budget Justification
-  title: 'FY 2025 Budget: Diplomatic Engagement and Institutional Preservation'
-  date: 2024-03
+- title: 2 FAM 070 DISSENT CHANNEL
+  url: https://fam.state.gov/fam/02fam/02fam0070.html
+  outlet: U.S. Department of State Foreign Affairs Manual
+  date: '2024-03-15'
+  tier: 1
+- title: The State Department Dissent Channel - History and Impact
+  url: https://afsa.org/state-department-dissent-channel-history-and-impact
+  outlet: American Foreign Service Association
+  date: '2024-03-15'
+  tier: 1
+- title: Dissent Channel
+  url: https://en.wikipedia.org/wiki/Dissent_Channel
+  outlet: Wikipedia
+  date: '2024-03-15'
+  tier: 2
+- title: Department of State's Dissent Channel Revealed
+  url: https://nsarchive.gwu.edu/briefing-book/foia/2018-03-15/department-states-dissent-channel-revealed
+  outlet: National Security Archive
+  date: '2018-03-15'
+  tier: 1
+- title: FY 2025 Congressional Budget Justification - Department of State Foreign Operations and Related Programs
   url: https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf
-  notes: Official document detailing diplomatic preservation strategies
-- outlet: Federal Register
-  title: Advisory Committee on Historical Diplomatic Documentation - Meetings Notice
-  date: '2024-02-29'
+  outlet: U.S. Department of State
+  date: '2024-03-01'
+  tier: 1
+- title: Advisory Committee on Historical Diplomatic Documentation - Meetings Notice
   url: https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for
-  notes: Evidence of ongoing efforts to preserve diplomatic institutional memory
-- outlet: Federal News Network
-  title: Foreign Service Reorganization and Strategic Cohesion Efforts
-  date: 2024-04
+  outlet: Federal Register
+  date: '2024-02-29'
+  tier: 1
+- title: Foreign Service faces overhaul in vetting, deployment of career diplomats under draft executive order
   url: https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/
-  notes: Details emerging executive order proposing Foreign Service restructuring
-- title: 'Dissent Channel: A Mechanism of Diplomatic Criticism and Preservation'
-  url: ''
+  outlet: Federal News Network
+  date: '2025-04-01'
+  tier: 1
 status: confirmed
 version: '1.2'
 ---

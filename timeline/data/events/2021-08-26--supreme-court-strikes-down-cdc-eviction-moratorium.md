@@ -2,8 +2,7 @@
 id: 2021-08-26--supreme-court-strikes-down-cdc-eviction-moratorium
 date: '2021-08-26'
 importance: 6
-title: Supreme Court Strikes Down CDC Eviction Moratorium as Unauthorized Executive
-  Action
+title: Supreme Court Strikes Down CDC Eviction Moratorium as Unauthorized Executive Action
 actors:
 - Supreme Court
 - CDC
@@ -19,7 +18,7 @@ status: confirmed
 sources:
 - title: Supreme Court strikes down CDC eviction moratorium despite delta's rise
   url: https://www.washingtonpost.com/politics/courts_law/supreme-court-eviction-ban-struck-down/2021/08/26/46bce3e2-0511-11ec-a654-900a78538242_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2021-08-26'
 - title: The Supreme Court Will Allow Evictions To Resume
   url: https://www.npr.org/2021/08/26/1024668578/court-blocks-biden-cdc-evictions-moratorium

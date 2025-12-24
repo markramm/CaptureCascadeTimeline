@@ -2,8 +2,7 @@
 id: 2025-06-30--how-is-this-legal-critics-say-trump-s-latest-grift-literally
 date: '2025-06-30'
 title: Trump Launches 'Victory 45-47' Fragrance Line, Sparking Ethical Questions
-description: Trump launched a luxury fragrance line called Victory 45-47, demonstrating
-  ongoing efforts to monetize his presidential brand through merchandise
+description: Trump launched a luxury fragrance line called Victory 45-47, demonstrating ongoing efforts to monetize his presidential brand through merchandise
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -20,7 +19,7 @@ capture_type: monetizing_position
 sources:
 - title: 'How is this legal?'': critics say Trump''s latest ''grift'' literally stinks'
   url: https://www.huffpost.com/entry/trump-colognes-perfumes_n_68633564e4b0f166350cec14?ncid=NEWSSTAND0001
-  outlet: Huffington Post
+  outlet: HuffPost
   date: '2025-06-30'
 - title: 'Trump''s latest business venture: A fragrance he says is ''all about winning'''
   url: https://abcnews.go.com/US/trumps-latest-business-venture-fragrance-winning/story?id=123376093
@@ -36,8 +35,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - brand-exploitation
-notes: Part of a broader pattern of presidential brand monetization. Fragrances come
-  in Trump-shaped statue bottles and are numbered collectible editions.
+notes: Part of a broader pattern of presidential brand monetization. Fragrances come in Trump-shaped statue bottles and are numbered collectible editions.
 capture_lanes:
 - Systematic Corruption
 - Merchandise Exploitation

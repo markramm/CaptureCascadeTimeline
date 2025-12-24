@@ -15,9 +15,9 @@ actors:
 - Department of Defense
 tags:
 - asylum
-- Afghan-allies
+- afghan-allies
 - refugees
-- Taliban
+- taliban
 - military-partnerships
 - veteran-advocacy
 - immigration-policy

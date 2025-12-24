@@ -4,31 +4,31 @@ date: 2020-01-16
 title: Pelosi Transmits Impeachment Articles to Senate After 28-Day Strategic Delay
 importance: 9
 tags:
-  - First Impeachment
-  - Senate Trial
-  - Ukraine
-  - Congressional Oversight
+- first impeachment
+- senate trial
+- ukraine
+- congressional oversight
 actors:
-  - Nancy Pelosi
-  - Mitch McConnell
-  - Adam Schiff
-  - Donald Trump
+- Nancy Pelosi
+- Mitch McConnell
+- Adam Schiff
+- Donald Trump
 sources:
-  - url: https://www.speaker.gov/newsroom/11620
-    title: Pelosi Statement on Transmission of Articles of Impeachment
-    publisher: Office of the Speaker of the House
-    date: 2020-01-16
-    tier: 1
-  - url: https://www.congress.gov/congressional-record/2020/01/15/senate-section/article/S242-2
-    title: Senate Receives Articles of Impeachment
-    publisher: Congressional Record
-    date: 2020-01-16
-    tier: 1
-  - url: https://www.c-span.org/video/?468203-1/house-transmits-articles-impeachment-senate
-    title: House Transmits Articles of Impeachment to Senate
-    publisher: C-SPAN
-    date: 2020-01-16
-    tier: 1
+- url: https://www.speaker.gov/newsroom/11620
+  title: Pelosi Statement on Transmission of Articles of Impeachment
+  date: 2020-01-16
+  tier: 1
+  outlet: Office of the Speaker of the House
+- url: https://www.congress.gov/congressional-record/2020/01/15/senate-section/article/S242-2
+  title: Senate Receives Articles of Impeachment
+  date: 2020-01-16
+  tier: 1
+  outlet: Congressional Record
+- url: https://www.c-span.org/video/?468203-1/house-transmits-articles-impeachment-senate
+  title: House Transmits Articles of Impeachment to Senate
+  date: 2020-01-16
+  tier: 1
+  outlet: C-SPAN
 ---
 
 Speaker Nancy Pelosi transmitted the articles of impeachment against President Trump to the Senate on January 16, 2020, ending a 28-day delay strategy designed to pressure Senate Majority Leader Mitch McConnell to establish fair trial procedures. In a solemn ceremony in the Speaker's office, Pelosi signed the articles with commemorative pens before seven House impeachment managers—led by Intelligence Committee Chairman Adam Schiff—walked them across the Capitol to the Senate. The managers appointed were Schiff (lead), Judiciary Chairman Jerry Nadler, Hakeem Jeffries, Zoe Lofgren, Val Demings, Sylvia Garcia, and Jason Crow, a diverse team combining legal expertise, prosecutorial experience, and military service.

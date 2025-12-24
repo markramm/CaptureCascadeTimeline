@@ -18,7 +18,7 @@ sources:
   title: 'Enron Scandal: Summary and Key Facts'
   url: https://www.britannica.com/event/Enron-scandal
   date: '2022-08-15'
-- outlet: TIME Magazine
+- outlet: TIME
   title: 'Top 10 Crooked CEOs: Kenneth Lay & Jeffrey Skilling'
   url: https://content.time.com/time/specials/packages/article/0,28804,1903155_1903156_1903186,00.html
   date: '2009-11-04'

@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: Trump pushed Army Corps to award border wall contract to firm
   url: https://www.washingtonpost.com/immigration/trump-border-wall-fisher-sand-gravel/2019/12/02/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-12-02'
 - title: Fisher Industries wins $2 billion in border wall contracts
   url: https://www.propublica.org/article/fisher-sand-and-gravel-border-wall-contract

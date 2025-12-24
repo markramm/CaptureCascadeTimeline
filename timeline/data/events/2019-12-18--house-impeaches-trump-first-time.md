@@ -4,37 +4,37 @@ date: 2019-12-18
 title: House Votes to Impeach Trump on Abuse of Power and Obstruction of Congress
 importance: 10
 tags:
-  - First Impeachment
-  - Abuse of Power
-  - Obstruction of Congress
-  - Constitutional Crisis
-  - Ukraine
+- first impeachment
+- abuse of power
+- obstruction of congress
+- constitutional crisis
+- ukraine
 actors:
-  - Donald Trump
-  - Nancy Pelosi
-  - Adam Schiff
-  - House Democrats
+- Donald Trump
+- Nancy Pelosi
+- Adam Schiff
+- House Democrats
 sources:
-  - url: https://clerk.house.gov/Votes/2019695
-    title: "Roll Call Vote 695 - H.Res.755 - Article I: Abuse of Power"
-    publisher: U.S. House of Representatives
-    date: 2019-12-18
-    tier: 1
-  - url: https://clerk.house.gov/Votes/2019696
-    title: "Roll Call Vote 696 - H.Res.755 - Article II: Obstruction of Congress"
-    publisher: U.S. House of Representatives
-    date: 2019-12-18
-    tier: 1
-  - url: https://www.congress.gov/bill/116th-congress/house-resolution/755
-    title: "H.Res.755 - Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors"
-    publisher: U.S. Congress
-    date: 2019-12-18
-    tier: 1
-  - url: https://www.c-span.org/video/?467098-1/house-debates-articles-impeachment
-    title: House Debates Articles of Impeachment
-    publisher: C-SPAN
-    date: 2019-12-18
-    tier: 1
+- url: https://clerk.house.gov/Votes/2019695
+  title: 'Roll Call Vote 695 - H.Res.755 - Article I: Abuse of Power'
+  date: 2019-12-18
+  tier: 1
+  outlet: U.S. House of Representatives
+- url: https://clerk.house.gov/Votes/2019696
+  title: 'Roll Call Vote 696 - H.Res.755 - Article II: Obstruction of Congress'
+  date: 2019-12-18
+  tier: 1
+  outlet: U.S. House of Representatives
+- url: https://www.congress.gov/bill/116th-congress/house-resolution/755
+  title: H.Res.755 - Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors
+  date: 2019-12-18
+  tier: 1
+  outlet: U.S. Congress
+- url: https://www.c-span.org/video/?467098-1/house-debates-articles-impeachment
+  title: House Debates Articles of Impeachment
+  date: 2019-12-18
+  tier: 1
+  outlet: C-SPAN
 ---
 
 The House of Representatives voted on December 18, 2019 to impeach President Donald Trump on two articles: Abuse of Power (230-197-1) and Obstruction of Congress (229-198-1), making Trump only the third president in American history to be impeached. Article I charged that Trump "solicited the interference of a foreign government, Ukraine, in the 2020 United States Presidential election" by conditioning military aid and a White House meeting on Ukraine announcing investigations into Joe Biden. Article II charged that Trump "directed the unprecedented, categorical, and indiscriminate defiance of subpoenas" issued by Congress during the impeachment inquiry. The votes were largely party-line, with every Republican voting no and all but two or three Democrats voting yes, reflecting the deep partisan polarization over Trump's conduct.

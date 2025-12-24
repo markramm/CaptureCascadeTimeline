@@ -1,8 +1,7 @@
 ---
 id: 2025-10-01--ronald-johnson-shielded-bukele-from-us-law-enforcement
 date: '2025-10-01'
-title: 'ProPublica: Trump Ambassador Ronald Johnson Shielded El Salvador''s Bukele
-  From Law Enforcement'
+title: 'ProPublica: Trump Ambassador Ronald Johnson Shielded El Salvador''s Bukele From Law Enforcement'
 importance: 9
 actors:
 - Ronald Johnson
@@ -10,12 +9,11 @@ actors:
 - State Department
 - Trump Administration
 sources:
-- title: 'An American Friend: The Trump-Appointed Diplomat Accused of Shielding El
-    Salvador''s President From Law Enforcement'
+- title: 'An American Friend: The Trump-Appointed Diplomat Accused of Shielding El Salvador''s President From Law Enforcement'
   url: https://www.propublica.org/article/ambassador-ronald-johnson-nayib-bukele-trump-el-salvador
-  publisher: ProPublica
   date: '2025-10-01'
   tier: 1
+  outlet: ProPublica
 tags:
 - institutional-capture
 - diplomatic-corruption

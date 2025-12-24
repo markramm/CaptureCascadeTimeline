@@ -6,7 +6,7 @@ importance: 6
 location: Washington, DC
 actors:
 - Supreme Court of the United States
-- Food and Drug Administration
+- Food and Drug Administration (FDA)
 tags:
 - administrative-law
 - courts
@@ -33,8 +33,7 @@ sources:
   outlet: SCOTUSblog
   date: '2024-06-13'
   archive_url: https://web.archive.org/web/20240614000000*/https://www.scotusblog.com/cases/case-files/food-and-drug-administration-v-alliance-for-hippocratic-medicine-2/
-- title: Attorney General Merrick B. Garland Statement on the Supreme Court's Decision
-    in FDA v. Alliance for Hippocratic Medicine
+- title: Attorney General Merrick B. Garland Statement on the Supreme Court's Decision in FDA v. Alliance for Hippocratic Medicine
   url: https://www.justice.gov/archives/opa/pr/attorney-general-merrick-b-garland-statement-supreme-courts-decision-fda-v-alliance
   outlet: U.S. Department of Justice
   date: '2024-06-13'

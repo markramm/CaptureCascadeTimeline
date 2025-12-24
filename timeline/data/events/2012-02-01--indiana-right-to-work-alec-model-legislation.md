@@ -1,7 +1,7 @@
 ---
 id: 2012-02-01--indiana-right-to-work-alec-model-legislation
 date: '2012-02-01'
-title: 'Indiana Becomes 23rd Right-to-Work State Using ALEC Model Legislation'
+title: Indiana Becomes 23rd Right-to-Work State Using ALEC Model Legislation
 importance: 8
 actors:
 - Mitch Daniels
@@ -13,26 +13,26 @@ actors:
 tags:
 - labor-suppression
 - right-to-work
-- ALEC
+- alec
 - model-legislation
 - state-capture
 - union-busting
-- Koch-network
-- Indiana
+- koch-network
+- indiana
 sources:
-- title: 'ALEC Decades of Right-to-Work Effort Pay Off in Michigan'
+- title: ALEC Decades of Right-to-Work Effort Pay Off in Michigan
   url: https://publicintegrity.org/politics/alecs-decades-of-right-to-work-effort-pay-off-in-michigan/
   outlet: Center for Public Integrity
   date: '2012-12-13'
   verified: true
   tier: 1
-- title: 'Who Is Behind the National Right to Work Committee'
+- title: Who Is Behind the National Right to Work Committee
   url: https://www.prwatch.org/news/2014/06/12498/who-behind-national-right-work-committee-and-its-anti-union-crusade
   outlet: Center for Media and Democracy (PR Watch)
   date: '2014-06-18'
   verified: true
   tier: 1
-- title: 'Michigan Right to Work Law Brought to You by Billionaire Kochs, ALEC'
+- title: Michigan Right to Work Law Brought to You by Billionaire Kochs, ALEC
   url: https://www.commondreams.org/news/2012/12/13/michigan-right-work-law-brought-you-billionaire-kochs-alec
   outlet: Common Dreams
   date: '2012-12-13'

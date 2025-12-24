@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.taxpayer.net/agriculture/political-power-of-the-agribusiness-and-crop-insurance-lobbies/
   title: Political Power of the Agribusiness and Crop Insurance Lobbies
-  publisher: Taxpayers for Common Sense
   date: '2018-01-01'
   tier: 2
+  outlet: Taxpayers for Common Sense
 - url: https://blog.ucs.org/elliott-negin/ask-a-scientist-stopping-big-ag-from-hijacking-us-farm-and-food-policy/
   title: Ask a Scientist - Stopping Big Ag from Hijacking US Farm and Food Policy
-  publisher: Union of Concerned Scientists
   date: '2024-01-01'
   tier: 2
+  outlet: Union of Concerned Scientists
 - url: https://farmpolicynews.illinois.edu/2024/05/farm-bill-lobbying-exceeds-500-million-report-says/
   title: Farm Bill Lobbying Exceeds $500 Million, Report Says
-  publisher: Farm Policy News
   date: '2024-05-01'
   tier: 2
+  outlet: Farm Policy News
 actors:
 - Glenn Thompson
 - David Scott

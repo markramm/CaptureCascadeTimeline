@@ -19,19 +19,19 @@ actors:
 - Le Monde
 - NSO Group
 sources:
-- title: 'The Pegasus Project'
+- title: The Pegasus Project
   url: https://www.amnesty.org/en/latest/press-release/2021/07/the-pegasus-project/
   outlet: Amnesty International
   date: '2021-07-18'
   tier: 1
-- title: 'About the Pegasus Project'
+- title: About the Pegasus Project
   url: https://forbiddenstories.org/about-the-pegasus-project/
   outlet: Forbidden Stories
   date: '2021-07-18'
   tier: 1
-- title: 'Private Israeli spyware used to hack cellphones of journalists, activists worldwide'
+- title: Private Israeli spyware used to hack cellphones of journalists, activists worldwide
   url: https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2021-07-18'
   tier: 1
 importance: 10

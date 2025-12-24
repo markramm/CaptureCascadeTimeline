@@ -4,32 +4,32 @@ title: Mylan EpiPen Price Increases 550% in Nine Years, CEO Heather Bresch Testi
 date: '2016-08-24'
 importance: 9
 actors:
-  - Mylan
-  - Heather Bresch
-  - U.S. Congress
+- Mylan
+- Heather Bresch
+- U.S. Congress
 tags:
-  - healthcare
-  - pharmaceutical-price-gouging
-  - regulatory-capture
-  - corruption
-  - corporate-crime
+- healthcare
+- pharmaceutical-price-gouging
+- regulatory-capture
+- corruption
+- corporate-crime
 status: confirmed
 sources:
-  - title: EpiPen price hike controversy - Mylan CEO Heather Bresch speaks out
-    url: https://www.cbsnews.com/news/epipen-price-hike-controversy-mylan-ceo-heather-bresch-speaks-out/
-    publisher: CBS News
-    date: '2016-08-25'
-    tier: 2
-  - title: Congressional Committee Questions Mylan CEO Over EpiPen Controversy
-    url: https://www.pharmtech.com/view/congressional-committee-questions-mylan-ceo-over-epipen-controversy
-    publisher: Pharmaceutical Technology
-    date: '2016-09-21'
-    tier: 2
-  - title: Reviewing the Rising Price of EpiPens
-    url: https://oversight.house.gov/hearing/reviewing-rising-price-epipens-2/
-    publisher: U.S. House Committee on Oversight and Government Reform
-    date: '2016-09-21'
-    tier: 1
+- title: EpiPen price hike controversy - Mylan CEO Heather Bresch speaks out
+  url: https://www.cbsnews.com/news/epipen-price-hike-controversy-mylan-ceo-heather-bresch-speaks-out/
+  date: '2016-08-25'
+  tier: 2
+  outlet: CBS News
+- title: Congressional Committee Questions Mylan CEO Over EpiPen Controversy
+  url: https://www.pharmtech.com/view/congressional-committee-questions-mylan-ceo-over-epipen-controversy
+  date: '2016-09-21'
+  tier: 2
+  outlet: Pharmaceutical Technology
+- title: Reviewing the Rising Price of EpiPens
+  url: https://oversight.house.gov/hearing/reviewing-rising-price-epipens-2/
+  date: '2016-09-21'
+  tier: 1
+  outlet: U.S. House Committee on Oversight and Government Reform
 ---
 
 In August 2016, Mylan CEO Heather Bresch faced intense scrutiny when it was revealed that EpiPen prices had increased from approximately $103 in 2007 to over $608 by 2016—a nearly 550% price increase for a life-saving allergy treatment. The scandal exposed pharmaceutical price gouging, the failure of regulatory oversight, and the role of political connections in protecting corporate profits while millions of Americans faced unaffordable costs for essential emergency medication.

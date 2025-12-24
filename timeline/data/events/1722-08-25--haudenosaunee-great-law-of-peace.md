@@ -15,9 +15,9 @@ sources:
   url: https://www.jstor.org/stable/482139
 - title: 'Exemplar of Liberty: Native American and the Evolution of Democracy'
   author: Donald A. Grinde and Bruce E. Johansen
-  publisher: UCLA American Indian Studies Center
   year: 1991
   url: http://www.books.aisc.ucla.edu/toc/exemplar.html
+  outlet: UCLA American Indian Studies Center
 - title: The Native American Government That Helped Inspire the US Constitution
   outlet: History.com
   url: https://www.history.com/articles/iroquois-confederacy-influence-us-constitution

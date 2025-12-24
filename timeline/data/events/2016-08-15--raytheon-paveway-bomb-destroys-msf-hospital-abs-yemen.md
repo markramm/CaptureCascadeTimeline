@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.doctorswithoutborders.org/latest/yemen-airstrike-msf-supported-hospital-kills-least-11-wounds-least-19
   title: Yemen - Airstrike on MSF-Supported Hospital Kills at Least 11, Wounds At Least 19
-  publisher: Doctors Without Borders
   date: '2016-08-15'
   tier: 1
+  outlet: Doctors Without Borders
 - url: https://www.amnesty.org/en/latest/press-release/2016/09/yemen-evidence-indicates-us-made-bomb-was-used-in-attack-on-msf-hospital/
   title: Yemen - Evidence indicates US-made bomb was used in attack on MSF hospital
-  publisher: Amnesty International
   date: '2016-09-01'
   tier: 1
+  outlet: Amnesty International
 - url: https://www.npr.org/2018/06/12/619085964/airstrike-reportedly-hits-doctors-without-borders-facility-in-yemen
   title: Airstrike Reportedly Hits Doctors Without Borders Facility In Yemen
-  publisher: NPR
   date: '2018-06-12'
   tier: 1
+  outlet: NPR
 - url: https://www.msf.org/yemen-msf-hospital-destroyed-airstrikes
   title: Yemen - MSF hospital destroyed by airstrikes
-  publisher: Médecins Sans Frontières
   date: '2016-08-16'
   tier: 1
+  outlet: Médecins Sans Frontières
 actors:
 - Raytheon
 - Saudi Arabia

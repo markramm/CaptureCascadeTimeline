@@ -62,51 +62,55 @@ python3 research-server/cli/research_cli.py search-events --query "[key terms]"
 - Verify facts across multiple sources
 
 **Step 5: Create Event (Markdown Format)**
-```bash
-# Write event in Markdown format
-cat > "timeline/data/events/YYYY-MM-DD--descriptive-slug.md" << 'EOF'
+
+Use the Write tool to create the event file. **IMPORTANT FORMAT REQUIREMENTS**:
+- Use `outlet` (NOT `publisher`) for source attribution
+- Tags must be lowercase with hyphens
+- Use canonical actor names from `data/actor_aliases.json`
+- Date format: YYYY-MM-DD (with quotes in YAML)
+- ID must match filename exactly
+
+```markdown
 ---
 id: YYYY-MM-DD--descriptive-slug
-date: YYYY-MM-DD
-title: Event Title
-importance: 5-10
+date: 'YYYY-MM-DD'
+title: Event Title (Clear, Descriptive)
+importance: 7
 actors:
-- Actor 1
-- Actor 2
+- Actor Name (use canonical form)
+- Another Actor
 tags:
-- tag1
-- tag2
+- lowercase-tag
+- another-tag
 sources:
-- url: https://...
-  title: Article Title
-  publisher: Publisher
-  date: YYYY-MM-DD
+- title: Article Title
+  url: https://example.com/article
+  outlet: Publisher Name
+  date: 'YYYY-MM-DD'
   tier: 1
+status: confirmed
 ---
 
-Detailed summary with context and significance. Use multiple paragraphs
-for complex events.
+Detailed summary paragraph explaining what happened, who was involved, and the immediate context. This should be factual and sourced.
 
-## Additional Context
+The significance of this event extends to broader patterns of [relevant theme]. This connects to [related events or trends].
 
-You can use markdown formatting:
-- **Bold** for emphasis
-- *Italics* for titles
-- Lists for clarity
-
-## Significance
-
-Explain why this event matters and its impact.
-EOF
-
-# Validate (works with both JSON and MD)
-python3 research-server/cli/research_cli.py validate-event --file "timeline/data/events/YYYY-MM-DD--descriptive-slug.md"
+Additional context about the implications or reactions to this event.
 ```
 
-**IMPORTANT**: Create events directly in `timeline/data/events/` directory as `.md` files.
-Do NOT use the `create-event` CLI command - write markdown files directly.
+**Step 6: Validate Event**
+```bash
+python3 timeline/scripts/validate_markdown_events.py "timeline/data/events/YYYY-MM-DD--descriptive-slug.md"
+```
 
-**Step 6: Track Progress**
+If validation fails, fix the issues before proceeding.
+
+**IMPORTANT**:
+- Create events directly in `timeline/data/events/` directory as `.md` files
+- Always validate after creation
+- Use `outlet` not `publisher` in sources
+
+**Step 7: Track Progress**
 - Keep running count of events created
 - Track duplicates prevented
 - Note any issues encountered
@@ -187,12 +191,20 @@ target_end = "2025-10-31"
 
 ### Minimum Requirements
 - ✅ 2 credible sources (tier-1 or tier-2)
-- ✅ Importance score 5-10 (use appropriate value)
-- ✅ Proper date format (YYYY-MM-DD)
-- ✅ Clear, factual summary (2-3 paragraphs)
+- ✅ Importance score 1-10 (use appropriate value)
+- ✅ Proper date format (YYYY-MM-DD with quotes)
+- ✅ Clear, factual summary (2-3 paragraphs, min 50 chars)
 - ✅ Proper event ID format (YYYY-MM-DD--descriptive-slug)
+- ✅ ID matches filename exactly
 - ✅ Zero duplicates created
 - ✅ Date within specified range (if provided)
+- ✅ **Passes validation**: `python3 timeline/scripts/validate_markdown_events.py`
+
+### Format Requirements (Critical)
+- ✅ Use `outlet` NOT `publisher` in sources
+- ✅ Tags must be lowercase with hyphens
+- ✅ Sources must have valid URLs (https://...)
+- ✅ Use canonical actor names
 
 ### Target Quality
 - 🎯 3 sources from different outlets
@@ -246,10 +258,12 @@ target_end = "2025-10-31"
 
 - [ ] Executed all assigned search queries
 - [ ] Created at least minimum expected events
-- [ ] All events validated successfully
+- [ ] **All events pass validation**: `python3 timeline/scripts/validate_markdown_events.py`
 - [ ] All events within specified date range (if applicable)
 - [ ] Zero duplicates created
-- [ ] All events have 2+ credible sources
+- [ ] All events have 2+ credible sources with valid URLs
+- [ ] All sources use `outlet` (not `publisher`)
+- [ ] All tags are lowercase
 - [ ] Final summary report provided with event count
 
 **If any checklist item is incomplete**: Continue working until complete or report specific blocker.

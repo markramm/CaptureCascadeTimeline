@@ -4,31 +4,31 @@ date: 1989-05-04
 title: Oliver North Convicted of Iran-Contra Felonies, Later Overturned on Immunity
 importance: 9
 tags:
-  - Iran-Contra
-  - Reagan-administration
-  - obstruction-of-justice
-  - accountability
-  - legal-immunity
+- iran-contra
+- reagan-administration
+- obstruction-of-justice
+- accountability
+- legal-immunity
 actors:
-  - Oliver North
-  - Gerhard Gesell
-  - Lawrence Walsh
+- Oliver North
+- Gerhard Gesell
+- Lawrence Walsh
 sources:
-  - url: https://irp.fas.org/offdocs/walsh/chap_02.htm
-    title: Walsh Report Chapter 2 - Oliver L. North
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://nsarchive.gwu.edu/briefing-book/iran/2018-05-16/oliver-norths-checkered-iran-contra-record
-    title: Oliver North's Checkered Iran-Contra Record
-    publisher: National Security Archive
-    date: 2018-05-16
-    tier: 1
-  - url: https://law.justia.com/cases/federal/appellate-courts/F2/910/843/463467/
-    title: United States v. Oliver L. North
-    publisher: U.S. Court of Appeals
-    date: 1990-07-20
-    tier: 1
+- url: https://irp.fas.org/offdocs/walsh/chap_02.htm
+  title: Walsh Report Chapter 2 - Oliver L. North
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://nsarchive.gwu.edu/briefing-book/iran/2018-05-16/oliver-norths-checkered-iran-contra-record
+  title: Oliver North's Checkered Iran-Contra Record
+  date: 2018-05-16
+  tier: 1
+  outlet: National Security Archive
+- url: https://law.justia.com/cases/federal/appellate-courts/F2/910/843/463467/
+  title: United States v. Oliver L. North
+  date: 1990-07-20
+  tier: 1
+  outlet: U.S. Court of Appeals
 ---
 
 Lieutenant Colonel Oliver North is convicted on May 4, 1989, of three felony charges stemming from his central role in the Iran-Contra scandal: accepting an illegal gratuity (a security fence for his home), aiding and abetting in the obstruction of a congressional inquiry, and ordering the destruction of documents through his secretary Fawn Hall. U.S. District Judge Gerhard Gesell sentences North on July 5, 1989, to a three-year suspended prison term, two years probation, $150,000 in fines, and 1,200 hours of community service.

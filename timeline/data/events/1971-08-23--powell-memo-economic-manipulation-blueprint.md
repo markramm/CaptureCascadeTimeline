@@ -5,7 +5,7 @@ title: 'Powell Memo: Psychological Warfare Tactics Applied to Economic Policy'
 importance: 9
 actors:
 - Lewis Powell
-- US Chamber of Commerce
+- U.S. Chamber of Commerce
 - Corporate Interests
 sources:
 - title: 'The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy'
@@ -13,8 +13,7 @@ sources:
   outlet: Greenpeace
   url: https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/
   year: 2021
-- title: 'Lewis Powell memo: notes to the Chamber of Commerce on Americas anti-business
-    climate'
+- title: 'Lewis Powell memo: notes to the Chamber of Commerce on Americas anti-business climate'
   author: Daniel Gross
   outlet: Slate
   url: https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html

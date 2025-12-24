@@ -4,39 +4,39 @@ title: HHS Inspector General Finds Tom Price Violated Federal Travel Rules, Wast
 date: '2018-07-13'
 importance: 8
 actors:
-  - Department of Health and Human Services Office of Inspector General
-  - Tom Price
-  - Department of Health and Human Services
+- Department of Health and Human Services Office of Inspector General
+- Tom Price
+- Department of Health and Human Services
 tags:
-  - inspector-general
-  - corruption
-  - misuse-of-funds
-  - healthcare
-  - hhs
-  - accountability-failure
-  - regulatory-capture
+- inspector-general
+- corruption
+- misuse-of-funds
+- healthcare
+- hhs
+- accountability-failure
+- regulatory-capture
 status: confirmed
 sources:
-  - title: Former HHS secretary Tom Price's air travel wasted $341,000 in government funds, watchdog says
-    url: https://www.washingtonpost.com/national/health-science/former-hhs-secretary-tom-prices-air-travel-wasted-341000-in-government-funds-watchdog-says/2018/07/13/82f700a4-860c-11e8-8f6c-46cb43e3f306_story.html
-    publisher: Washington Post
-    date: '2018-07-13'
-    tier: 1
-  - title: The Office of the Secretary of Health and Human Services Did Not Comply with Federal Regulations
-    url: https://oig.hhs.gov/reports/all/2018/the-office-of-the-secretary-of-health-and-human-services-did-not-comply-with-federal-regulations-for-chartered-aircraft-and-other-government-travel-related-to-former-secretary-price/
-    publisher: HHS Office of Inspector General
-    date: '2018-07-13'
-    tier: 1
-  - title: HHS All But One Of Tom Price's Plane Trips Reviewed Broke Federal Rules
-    url: https://www.npr.org/2018/07/13/628849448/hhs-all-but-one-of-tom-prices-plane-trips-broke-federal-rules
-    publisher: NPR
-    date: '2018-07-13'
-    tier: 1
-  - title: IG Tom Price's travel wasted nearly $341,000
-    url: https://www.cnn.com/2018/07/13/politics/tom-price-travel-review/
-    publisher: CNN
-    date: '2018-07-13'
-    tier: 1
+- title: Former HHS secretary Tom Price's air travel wasted $341,000 in government funds, watchdog says
+  url: https://www.washingtonpost.com/national/health-science/former-hhs-secretary-tom-prices-air-travel-wasted-341000-in-government-funds-watchdog-says/2018/07/13/82f700a4-860c-11e8-8f6c-46cb43e3f306_story.html
+  date: '2018-07-13'
+  tier: 1
+  outlet: The Washington Post
+- title: The Office of the Secretary of Health and Human Services Did Not Comply with Federal Regulations
+  url: https://oig.hhs.gov/reports/all/2018/the-office-of-the-secretary-of-health-and-human-services-did-not-comply-with-federal-regulations-for-chartered-aircraft-and-other-government-travel-related-to-former-secretary-price/
+  date: '2018-07-13'
+  tier: 1
+  outlet: HHS Office of Inspector General
+- title: HHS All But One Of Tom Price's Plane Trips Reviewed Broke Federal Rules
+  url: https://www.npr.org/2018/07/13/628849448/hhs-all-but-one-of-tom-prices-plane-trips-broke-federal-rules
+  date: '2018-07-13'
+  tier: 1
+  outlet: NPR
+- title: IG Tom Price's travel wasted nearly $341,000
+  url: https://www.cnn.com/2018/07/13/politics/tom-price-travel-review/
+  date: '2018-07-13'
+  tier: 1
+  outlet: CNN
 ---
 
 On July 13, 2018, the Department of Health and Human Services Office of Inspector General released a report finding that former HHS Secretary Tom Price violated federal travel regulations on 20 of 21 trips reviewed, wasting at least $341,000 in taxpayer funds through improper use of chartered aircraft and military planes. The OIG determined Price's office failed to complete required cost comparisons to commercial airline service, did not properly authorize charter flights, violated contract requirements, and approved travel that started or ended in locations other than Price's official duty station. The report—issued 10 months after Price's September 2017 resignation amid private jet scandals—documented systematic violations of federal travel rules and recommended HHS seek to recoup $341,000 plus the $59,390 Price had already repaid, exposing weak oversight that enabled Cabinet-level corruption.

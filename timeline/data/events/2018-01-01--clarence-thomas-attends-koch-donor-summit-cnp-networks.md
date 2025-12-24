@@ -5,7 +5,7 @@ title: Clarence Thomas Attends Koch Network Donor Summit - Supreme Court Ethics 
 importance: 9
 tags:
 - supreme-court
-- CNP
+- cnp
 - koch-network
 - ethics-violations
 - dark-money
@@ -15,12 +15,12 @@ actors:
 - Koch Network
 - Council for National Policy
 sources:
-- title: 'Clarence Thomas Secretly Participated in Koch Network Donor Events'
+- title: Clarence Thomas Secretly Participated in Koch Network Donor Events
   url: https://www.propublica.org/article/clarence-thomas-secretly-attended-koch-brothers-donor-events-scotus
   publication: ProPublica
   date: '2023-09-22'
   tier: 1
-- title: "It's Not Personal: Why Clarence Thomas' Trip to the Koch Summit Undermines His Ethics Defense"
+- title: 'It''s Not Personal: Why Clarence Thomas'' Trip to the Koch Summit Undermines His Ethics Defense'
   url: https://www.propublica.org/article/clarence-thomas-koch-network-trips-disclosure-law-scotus
   publication: ProPublica
   date: '2023-09-22'

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-04--trump-fires-bureau-of-labor-statistics-commissioner-over-jobs-data
 date: '2025-09-04'
-title: Trump Fires Bureau of Labor Statistics Commissioner After Unfavorable Jobs
-  Report
+title: Trump Fires Bureau of Labor Statistics Commissioner After Unfavorable Jobs Report
 importance: 9
 tags:
 - institutional-capture
@@ -12,18 +11,18 @@ tags:
 sources:
 - url: https://www.theguardian.com/us-news/2025/sep/04/trump-fires-bls-commissioner-jobs-data
   title: Trump fires jobs statistics chief over unfavorable data
-  publisher: The Guardian
   date: '2025-09-04'
   tier: 1
+  outlet: The Guardian
 - url: https://www.wsj.com/economy/jobs/bls-attack-trump-white-house-erika-mcentarfer
   title: White House Prepares Political Attack on Economic Data Agency
-  publisher: Wall Street Journal
   date: '2025-09-08'
   tier: 1
+  outlet: The Wall Street Journal
 actors:
 - Donald Trump
 - Erika McEntarfer
-- EJ Antoni
+- E.J. Antoni
 - Bureau of Labor Statistics
 - Heritage Foundation
 ---

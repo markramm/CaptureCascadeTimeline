@@ -5,7 +5,7 @@ date: '2025-07-10'
 importance: 6
 location: Washington DC
 actors:
-- US Senate
+- U.S. Senate
 - Senate Appropriations Committee
 - Government Accountability Office (GAO)
 tags:
@@ -15,10 +15,8 @@ tags:
 - senate-action
 - institutional-defense
 citations:
-- 'Federal News Network — Senate appropriators reject House proposal to halve GAO''s
-  budget (Jul 10, 2025): https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year/'
-notes: Senate pushback against House attempt to gut oversight capacity, though the
-  original attempt still demonstrates institutional pressure.
+- 'Federal News Network — Senate appropriators reject House proposal to halve GAO''s budget (Jul 10, 2025): https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year/'
+notes: Senate pushback against House attempt to gut oversight capacity, though the original attempt still demonstrates institutional pressure.
 sources:
 - title: Senate appropriators reject House proposal to halve GAO's budget next year
   url: https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year/

@@ -4,32 +4,32 @@ date: 2013-03-01
 title: Trump Foundation Paid $25,000 to Settle Trump University Legal Claim Using Charity Funds
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Self-Dealing
-  - Trump University
-  - Tax Violations
+- trump foundation
+- charity fraud
+- self-dealing
+- trump university
+- tax violations
 actors:
-  - Donald Trump
-  - Trump Foundation
-  - Florida Attorney General Pam Bondi
+- Donald Trump
+- Trump Foundation
+- Florida Attorney General Pam Bondi
 status: confirmed
 sources:
-  - url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
-    title: Trump used $258,000 from his charity to settle legal problems
-    publisher: Washington Post
-    date: 2016-09-20
-    tier: 1
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
-    title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
-    publisher: New York Attorney General
-    date: 2018-06-14
-    tier: 1
-  - url: https://www.npr.org/2016/09/01/492339256/trump-pays-irs-penalty-for-gift-to-florida-attorney-general
-    title: Trump Pays IRS Penalty For Gift To Florida Attorney General
-    publisher: NPR
-    date: 2016-09-01
-    tier: 1
+- url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
+  title: Trump used $258,000 from his charity to settle legal problems
+  date: 2016-09-20
+  tier: 1
+  outlet: The Washington Post
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
+  title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
+  date: 2018-06-14
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.npr.org/2016/09/01/492339256/trump-pays-irs-penalty-for-gift-to-florida-attorney-general
+  title: Trump Pays IRS Penalty For Gift To Florida Attorney General
+  date: 2016-09-01
+  tier: 1
+  outlet: NPR
 ---
 
 The Donald J. Trump Foundation illegally paid a $25,000 settlement related to Trump University litigation using tax-exempt charitable funds rather than Trump's personal or business accounts. This payment represented another instance of Trump using his charitable foundation as a personal checkbook to settle legal obligations arising from his for-profit business ventures. The payment was later revealed to have gone to Florida Attorney General Pam Bondi's political committee "And Justice for All" in September 2013, just as her office was reviewing whether to join New York's fraud investigation into Trump University.

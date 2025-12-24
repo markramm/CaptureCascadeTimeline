@@ -4,36 +4,36 @@ date: 2018-11-06
 title: Florida Voters Approve Amendment 4 Restoring Voting Rights to 1.4 Million with Felony Convictions
 importance: 8
 tags:
-  - voting-rights
-  - florida
-  - felony-disenfranchisement
-  - amendment-4
-  - democracy
+- voting-rights
+- florida
+- felony-disenfranchisement
+- amendment-4
+- democracy
 actors:
-  - Florida voters
-  - Desmond Meade
-  - Florida Rights Restoration Coalition
+- Florida voters
+- Desmond Meade
+- Florida Rights Restoration Coalition
 sources:
-  - url: https://ballotpedia.org/Florida_Amendment_4,_Voting_Rights_Restoration_for_Felons_Initiative_(2018)
-    title: Florida Amendment 4, Voting Rights Restoration for Felons Initiative (2018)
-    publisher: Ballotpedia
-    date: 2018-11-06
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/2018_Florida_Amendment_4
-    title: 2018 Florida Amendment 4
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 3
-  - url: https://time.com/5447051/florida-amendment-4-felon-voting/
-    title: Florida Passing Amendment 4 Will Restore Voting Rights to 1.4 Million People
-    publisher: TIME
-    date: 2018-11-07
-    tier: 2
-  - url: https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-florida
-    title: Voting Rights Restoration Efforts in Florida
-    publisher: Brennan Center for Justice
-    date: 2019-05-21
-    tier: 1
+- url: https://ballotpedia.org/Florida_Amendment_4,_Voting_Rights_Restoration_for_Felons_Initiative_(2018)
+  title: Florida Amendment 4, Voting Rights Restoration for Felons Initiative (2018)
+  date: 2018-11-06
+  tier: 2
+  outlet: Ballotpedia
+- url: https://en.wikipedia.org/wiki/2018_Florida_Amendment_4
+  title: 2018 Florida Amendment 4
+  date: 2024-01-01
+  tier: 3
+  outlet: Wikipedia
+- url: https://time.com/5447051/florida-amendment-4-felon-voting/
+  title: Florida Passing Amendment 4 Will Restore Voting Rights to 1.4 Million People
+  date: 2018-11-07
+  tier: 2
+  outlet: TIME
+- url: https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-florida
+  title: Voting Rights Restoration Efforts in Florida
+  date: 2019-05-21
+  tier: 1
+  outlet: Brennan Center for Justice
 ---
 
 Florida voters approve Amendment 4 by 64.55%, automatically restoring voting rights to an estimated 1.4 million Floridians with past felony convictions who have completed their sentences. The constitutional amendment represents the largest expansion of voting rights in the United States since the Voting Rights Act of 1965, overturning one of the nation's harshest felony disenfranchisement policies through a grassroots citizen ballot initiative.

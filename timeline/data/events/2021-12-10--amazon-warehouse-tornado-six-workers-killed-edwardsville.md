@@ -4,35 +4,35 @@ date: 2021-12-10
 title: Six Amazon Workers Killed in Edwardsville Warehouse Tornado Collapse
 importance: 10
 actors:
-  - Jeff Bezos
-  - Amazon
+- Jeff Bezos
+- Amazon
 tags:
-  - Worker Exploitation
-  - Corporate Accountability
-  - Amazon
-  - Worker Death
-  - Labor Rights
+- worker exploitation
+- corporate accountability
+- amazon
+- worker death
+- labor rights
 sources:
-  - url: https://www.cnn.com/2021/12/11/business/amazon-deaths-warehouse-tornado/index.html
-    title: "Six people killed in Illinois Amazon warehouse collapse after tornado"
-    publisher: CNN Business
-    date: 2021-12-11
-    tier: 1
-  - url: https://www.pbs.org/newshour/economy/osha-opens-investigation-after-amazon-warehouse-collapses-during-tornado-killing-6
-    title: "OSHA opens investigation after Amazon warehouse collapses during tornado, killing 6"
-    publisher: PBS News
-    date: 2021-12-13
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Edwardsville_Amazon_warehouse_collapse
-    title: "Edwardsville Amazon warehouse collapse"
-    publisher: Wikipedia
-    date: 2021-12-10
-    tier: 2
-  - url: https://www.nbcnews.com/business/business-news/amazon-worker-deaths-tornados-raise-questions-tornado-training-cellpho-rcna8570
-    title: "Disaster training, fear of cellphone ban raise alarms after Amazon warehouse collapse"
-    publisher: NBC News
-    date: 2021-12-14
-    tier: 1
+- url: https://www.cnn.com/2021/12/11/business/amazon-deaths-warehouse-tornado/index.html
+  title: Six people killed in Illinois Amazon warehouse collapse after tornado
+  date: 2021-12-11
+  tier: 1
+  outlet: CNN Business
+- url: https://www.pbs.org/newshour/economy/osha-opens-investigation-after-amazon-warehouse-collapses-during-tornado-killing-6
+  title: OSHA opens investigation after Amazon warehouse collapses during tornado, killing 6
+  date: 2021-12-13
+  tier: 1
+  outlet: PBS News
+- url: https://en.wikipedia.org/wiki/Edwardsville_Amazon_warehouse_collapse
+  title: Edwardsville Amazon warehouse collapse
+  date: 2021-12-10
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.nbcnews.com/business/business-news/amazon-worker-deaths-tornados-raise-questions-tornado-training-cellpho-rcna8570
+  title: Disaster training, fear of cellphone ban raise alarms after Amazon warehouse collapse
+  date: 2021-12-14
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

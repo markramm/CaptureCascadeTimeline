@@ -4,34 +4,34 @@ date: 2000-01-01
 title: Florida Disenfranchises 1.4 Million Citizens Through Felony Voting Bans, Highest Rate in Nation
 importance: 8
 tags:
-  - felony-disenfranchisement
-  - florida
-  - voting-rights
-  - racial-discrimination
+- felony-disenfranchisement
+- florida
+- voting-rights
+- racial-discrimination
 actors:
-  - Florida Legislature
-  - The Sentencing Project
+- Florida Legislature
+- The Sentencing Project
 sources:
-  - url: https://www.sentencingproject.org/fact-sheet/florida-bans-voting-rights-of-over-960000-citizens/
-    title: Florida Bans Voting Rights of Over 960,000 Citizens
-    publisher: The Sentencing Project
-    date: 2024-01-01
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-florida
-    title: Voting Rights Restoration Efforts in Florida
-    publisher: Brennan Center for Justice
-    date: 2019-05-21
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/2018_Florida_Amendment_4
-    title: 2018 Florida Amendment 4
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 3
-  - url: https://time.com/5447051/florida-amendment-4-felon-voting/
-    title: Former Felon Praises Florida Passing Amendment 4
-    publisher: TIME
-    date: 2018-11-07
-    tier: 2
+- url: https://www.sentencingproject.org/fact-sheet/florida-bans-voting-rights-of-over-960000-citizens/
+  title: Florida Bans Voting Rights of Over 960,000 Citizens
+  date: 2024-01-01
+  tier: 1
+  outlet: The Sentencing Project
+- url: https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-florida
+  title: Voting Rights Restoration Efforts in Florida
+  date: 2019-05-21
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://en.wikipedia.org/wiki/2018_Florida_Amendment_4
+  title: 2018 Florida Amendment 4
+  date: 2024-01-01
+  tier: 3
+  outlet: Wikipedia
+- url: https://time.com/5447051/florida-amendment-4-felon-voting/
+  title: Former Felon Praises Florida Passing Amendment 4
+  date: 2018-11-07
+  tier: 2
+  outlet: TIME
 ---
 
 By 2000, Florida disenfranchises an estimated 1.4 million citizens who have felony convictions—nearly a quarter of all disenfranchised people with felony records in the entire United States. Florida's lifetime voting ban for people with felony convictions, rooted in post-Civil War efforts to disenfranchise Black citizens, creates the nation's largest population of citizens permanently excluded from democracy.

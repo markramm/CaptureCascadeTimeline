@@ -11,14 +11,14 @@ tags:
 sources:
 - url: https://www.priv.gc.ca/en/opc-news/news-and-announcements/2021/nr-c_210203/
   title: Clearview AI's unlawful practices represented mass surveillance of Canadians
-  publisher: Office of the Privacy Commissioner of Canada
   date: '2021-02-03'
   tier: 1
+  outlet: Office of the Privacy Commissioner of Canada
 - url: https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/
   title: Clearview AI ceases offering its facial recognition technology in Canada
-  publisher: Office of the Privacy Commissioner of Canada
   date: '2020-07-06'
   tier: 1
+  outlet: Office of the Privacy Commissioner of Canada
 actors:
 - Office of the Privacy Commissioner of Canada
 - Clearview AI

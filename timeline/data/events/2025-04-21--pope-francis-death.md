@@ -12,30 +12,30 @@ tags:
 - easter
 actors:
 - Pope Francis
-- JD Vance
+- J.D. Vance
 - Catholic Church
 - Vatican
 sources:
 - title: Pope Francis dies at 88
   url: https://www.pbs.org/newshour/world/pope-francis-dies-at-88
-  publisher: PBS NewsHour
   date: '2025-04-21'
   tier: 1
+  outlet: PBS NewsHour
 - title: Pope Francis, who met with VP Vance on Easter, dies at 88
   url: https://www.cbsnews.com/news/pope-francis-dead-age-88/
-  publisher: CBS News
   date: '2025-04-21'
   tier: 1
+  outlet: CBS News
 - title: Pope Francis dies at 88 after meeting Vice President Vance
   url: https://www.foxnews.com/world/pope-francis-dies-88-hours-after-meeting-vp-vance-vatican
-  publisher: Fox News
   date: '2025-04-21'
   tier: 2
+  outlet: Fox News
 - title: Pope Francis dies at 88 a day after meeting with Vice President JD Vance
   url: https://www.axios.com/2025/04/21/pope-francis-dies-vance
-  publisher: Axios
   date: '2025-04-21'
   tier: 2
+  outlet: Axios
 ---
 
 Pope Francis, the 266th Pope of the Catholic Church, died at age 88 on April 21, 2025, less than 24 hours after meeting with Vice President JD Vance on Easter Sunday. The Argentine-born pontiff, who had led the Catholic Church since 2013, had been hospitalized for pneumonia for five weeks before being released on March 23, 2025. His death came just one day after his final official meeting with Vice President Vance at the Vatican, marking a tragic end to his 12-year papacy.

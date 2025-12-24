@@ -2,12 +2,11 @@
 id: 2018-04-10--zuckerberg-testifies-congress-avoids-accountability
 date: '2018-04-10'
 importance: 9
-title: Mark Zuckerberg Testifies Before Congress on Cambridge Analytica and Russian
-  Interference
+title: Mark Zuckerberg Testifies Before Congress on Cambridge Analytica and Russian Interference
 location: Washington D.C.
 actors:
 - Mark Zuckerberg
-- US Congress
+- U.S. Congress
 - Facebook
 - Cambridge Analytica
 tags:
@@ -35,9 +34,7 @@ sources:
   outlet: PBS NewsHour
   date: '2018-04-10'
   archive_url: https://archive.org/details/pbs-zuckerberg-congressional-testimony
-notes: His apology my mistake became meme. Senators showed tech illiteracy. No meaningful
-  regulation followed. Facebook stock rose after testimony. Platform changes minimal.
-  Set precedent for tech CEO impunity.
+notes: His apology my mistake became meme. Senators showed tech illiteracy. No meaningful regulation followed. Facebook stock rose after testimony. Platform changes minimal. Set precedent for tech CEO impunity.
 status: confirmed
 ---
 

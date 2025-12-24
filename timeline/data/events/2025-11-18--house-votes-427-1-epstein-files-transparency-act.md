@@ -14,19 +14,19 @@ tags:
 sources:
 - title: House votes to approve release of the Epstein files
   url: https://www.npr.org/2025/11/18/nx-s1-5611438/epstein-files-bill-house-vote
-  publisher: NPR
   date: '2025-11-18'
   tier: 1
+  outlet: NPR
 - title: Epstein files bill will head to Trump's desk after approval by House and Senate
   url: https://www.cbsnews.com/live-updates/epstein-files-vote-2025/
-  publisher: CBS News
   date: '2025-11-18'
   tier: 1
+  outlet: CBS News
 - title: Epstein files bill passes resoundingly in House with only 1 no vote
   url: https://abcnews.go.com/Politics/house-vote-full-epstein-files-release-move-speaker/story?id=127593181
-  publisher: ABC News
   date: '2025-11-18'
   tier: 1
+  outlet: ABC News
 actors:
 - House of Representatives
 - Senate

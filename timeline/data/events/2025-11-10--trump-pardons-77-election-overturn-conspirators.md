@@ -1,8 +1,7 @@
 ---
 id: 2025-11-10--trump-pardons-77-election-overturn-conspirators
 date: '2025-11-10'
-title: Trump Pardons 77 Allies Who Attempted to Overturn 2020 Election Including Giuliani,
-  Meadows, and Fake Electors
+title: Trump Pardons 77 Allies Who Attempted to Overturn 2020 Election Including Giuliani, Meadows, and Fake Electors
 importance: 10
 tags:
 - pardons
@@ -33,40 +32,36 @@ actors:
 - Cathy Latham
 - Andrew Hitt
 sources:
-- title: Trump grants pardons to Giuliani, Meadows, others linked to 2020 election
-    efforts
+- title: Trump grants pardons to Giuliani, Meadows, others linked to 2020 election efforts
   url: https://www.npr.org/2025/11/10/nx-s1-5604174/trump-pardons-2020-election
-  publisher: NPR
   date: '2025-11-10'
   tier: 1
-- title: Trump pardons Rudy Giuliani, others involved in efforts to overturn 2020
-    election
+  outlet: NPR
+- title: Trump pardons Rudy Giuliani, others involved in efforts to overturn 2020 election
   url: https://www.cnn.com/2025/11/10/politics/trump-pardon-allies-2020-election-hnk
-  publisher: CNN
   date: '2025-11-10'
   tier: 1
+  outlet: CNN
 - title: Former pardon attorney says Trump's latest pardons set an 'alarming precedent'
   url: https://www.wbur.org/hereandnow/2025/11/10/trump-pardon-lawyer
-  publisher: WBUR/Here & Now
   date: '2025-11-10'
   tier: 1
-- title: Trump pardons Michigan's alleged false electors for 2020 'offenses' seeking
-    to overturn election
+  outlet: WBUR/Here & Now
+- title: Trump pardons Michigan's alleged false electors for 2020 'offenses' seeking to overturn election
   url: https://michiganadvance.com/2025/11/10/trump-pardons-michigans-alleged-false-electors-for-2020-offenses-seeking-to-overturn-election/
-  publisher: Michigan Advance
   date: '2025-11-10'
   tier: 2
+  outlet: Michigan Advance
 - title: Trump pardons Nevada fake electors; state cases unaffected, remain pending
   url: https://thenevadaindependent.com/article/trump-pardons-nevada-fake-electors-state-cases-unaffected-remain-pending
-  publisher: The Nevada Independent
   date: '2025-11-10'
   tier: 2
-- title: Trump pardon of 2020 election allies does not erase Fulton County election
-    interference charges
+  outlet: The Nevada Independent
+- title: Trump pardon of 2020 election allies does not erase Fulton County election interference charges
   url: https://georgiarecorder.com/2025/11/10/trump-pardon-of-2020-election-allies-does-not-erase-fulton-county-election-interference-charges/
-  publisher: Georgia Recorder
   date: '2025-11-10'
   tier: 2
+  outlet: Georgia Recorder
 status: confirmed
 ---
 

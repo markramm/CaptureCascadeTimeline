@@ -4,31 +4,31 @@ date: 2019-04-09
 title: HUD Inspector General Finds Ben Carson Violated Ethics Rules by Involving Son in Official Business
 importance: 7
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Ben Carson
-  - HUD
-  - Nepotism
-  - Conflicts of Interest
+- cabinet corruption
+- ethics violations
+- ben carson
+- hud
+- nepotism
+- conflicts of interest
 actors:
-  - Ben Carson
-  - Ben Carson Jr.
+- Ben Carson
+- Ben Carson Jr.
 sources:
-  - url: https://www.hudoig.gov/reports-publications/report/investigation-alleged-misuse-office-secretary-private-gain-relative
-    title: "Investigation Into Alleged Misuse of Office by the Secretary for the Private Gain of a Relative"
-    publisher: HUD Office of Inspector General
-    date: 2020-09-28
-    tier: 1
-  - url: https://www.baltimoresun.com/business/bs-bz-carson-ethics-report-20200929-lkzy7kprhfccvnfq4q6cvw3owa-story.html
-    title: "HUD inspectors find Ben Carson's actions didn't benefit son in Baltimore deals, but had the 'appearance' of ethical issues"
-    publisher: Baltimore Sun
-    date: 2020-09-29
-    tier: 1
-  - url: https://americanoversight.org/documents-reveal-ben-carson-jr-s-attempts-to-use-his-influence-at-hud-to-help-his-business
-    title: "Documents Reveal Ben Carson Jr.'s Attempts to Use His Influence at HUD to Help His Business"
-    publisher: American Oversight
-    date: 2019-04-09
-    tier: 2
+- url: https://www.hudoig.gov/reports-publications/report/investigation-alleged-misuse-office-secretary-private-gain-relative
+  title: Investigation Into Alleged Misuse of Office by the Secretary for the Private Gain of a Relative
+  date: 2020-09-28
+  tier: 1
+  outlet: HUD Office of Inspector General
+- url: https://www.baltimoresun.com/business/bs-bz-carson-ethics-report-20200929-lkzy7kprhfccvnfq4q6cvw3owa-story.html
+  title: HUD inspectors find Ben Carson's actions didn't benefit son in Baltimore deals, but had the 'appearance' of ethical issues
+  date: 2020-09-29
+  tier: 1
+  outlet: Baltimore Sun
+- url: https://americanoversight.org/documents-reveal-ben-carson-jr-s-attempts-to-use-his-influence-at-hud-to-help-his-business
+  title: Documents Reveal Ben Carson Jr.'s Attempts to Use His Influence at HUD to Help His Business
+  date: 2019-04-09
+  tier: 2
+  outlet: American Oversight
 ---
 
 The HUD Office of Inspector General investigated allegations that Secretary Benjamin Carson used his office for the personal benefit of his son, Benjamin Carson Jr., a federal contractor, by allowing him to participate in official Department matters including a June 2017 HUD "listening tour" in Baltimore, Maryland. HUD lawyers explicitly warned Carson that his son's involvement would constitute an apparent conflict of interest in violation of federal ethics rules, but Carson proceeded anyway. The department's deputy general counsel raised concerns directly with Carson about potential ethics violations before the Baltimore event.

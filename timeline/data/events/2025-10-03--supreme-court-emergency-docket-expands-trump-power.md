@@ -10,9 +10,9 @@ actors:
 sources:
 - title: US Supreme Court expands its 'emergency' docket - and Trump's power too
   url: https://www.reuters.com/legal/government/us-supreme-court-expands-its-emergency-docket-trumps-power-too-2025-10-03/
-  publisher: Reuters
   date: '2025-10-03'
   tier: 1
+  outlet: Reuters
 tags:
 - institutional-capture
 - judicial-capture

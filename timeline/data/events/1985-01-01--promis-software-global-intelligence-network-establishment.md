@@ -1,13 +1,12 @@
 ---
 id: 1985-01-01--promis-software-global-intelligence-network-establishment
 date: '1985-01-01'
-title: PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell
-  Distribution
+title: PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell Distribution
 importance: 9
 location: Global
 actors:
 - Robert Maxwell
-- US Intelligence
+- US Intelligence (unnamed)
 - Soviet KGB
 - Multiple intelligence agencies
 - State Department

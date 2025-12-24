@@ -2,14 +2,13 @@
 id: 2017-01-01--kerimov-spacex-stake
 date: '2017-01-01'
 importance: 6
-title: 'Reports: Sanctioned oligarch Suleiman Kerimov held ~1% SpaceX stake via Heritage
-  Trust'
+title: 'Reports: Sanctioned oligarch Suleiman Kerimov held ~1% SpaceX stake via Heritage Trust'
 location: United States
 actors:
-- Suleyman Kerimov (Russian Federation Council member)
+- Suleyman Kerimov
 - SpaceX
 - Elon Musk
-- Heritage Trust (Delaware)
+- Heritage Trust
 - Citigroup
 - Treasury Department
 - DOJ/FBI/IRS investigation
@@ -34,17 +33,11 @@ sources:
   url: https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/
   outlet: Kyiv Independent
   date: '2025-01-30'
-- title: Russian oligarch and politician retained stake in SpaceX for 4 years under
-    US sanctions
+- title: Russian oligarch and politician retained stake in SpaceX for 4 years under US sanctions
   url: https://www.pravda.com.ua/eng/news/2025/01/30/7495952/
   outlet: Ukrainska Pravda
   date: '2025-01-30'
-notes: Heritage Trust acquired SpaceX stake 2017 ($210M when SpaceX valued $21B).
-  Kerimov sanctioned 2018. Citigroup consulted Treasury, determined trust not subject
-  to blocking. Treasury finally blocked $1B Heritage Trust June 2022 - 4 years after
-  sanctions. SpaceX stake disposed before 2022 blocking. Kerimov has $9.84B net worth,
-  17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner
-  circle.
+notes: Heritage Trust acquired SpaceX stake 2017 ($210M when SpaceX valued $21B). Kerimov sanctioned 2018. Citigroup consulted Treasury, determined trust not subject to blocking. Treasury finally blocked $1B Heritage Trust June 2022 - 4 years after sanctions. SpaceX stake disposed before 2022 blocking. Kerimov has $9.84B net worth, 17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner circle.
 status: reported
 ---
 

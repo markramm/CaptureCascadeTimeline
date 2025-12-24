@@ -22,7 +22,7 @@ capture_lanes:
 sources:
 - title: 'Richard Mellon Scaife: Funding Father of the Right'
   url: https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1999-05-02'
   verified: true
 - title: Richard Mellon Scaife - Wikipedia

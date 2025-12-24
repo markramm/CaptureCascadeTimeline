@@ -20,24 +20,24 @@ tags:
 sources:
 - title: The CIA Black Sites Program and the Gina Haspel Nomination
   url: https://nsarchive.gwu.edu/briefing-book/intelligence-torture-archive/2018-05-09/cia-black-sites-program-gina-haspel-nomination
-  publisher: National Security Archive
   date: '2018-05-09'
   tier: 1
+  outlet: National Security Archive
 - title: I Went to Prison for Disclosing the CIA's Torture. Gina Haspel Helped Cover It Up
   url: https://www.washingtonpost.com/outlook/i-went-to-prison-for-disclosing-the-cias-torture-gina-haspel-helped-cover-it-up/2018/03/15/9507884e-27f8-11e8-874b-d517e912f125_story.html
-  publisher: Washington Post (John Kiriakou op-ed)
   date: '2018-03-15'
   tier: 1
+  outlet: Washington Post (John Kiriakou op-ed)
 - title: Gina Haspel CIA Torture Cables Declassified
   url: https://nsarchive.gwu.edu/briefing-book/foia-intelligence-torture-archive/2018-08-10/gina-haspel-cia-torture-cables-declassified
-  publisher: National Security Archive
   date: '2018-08-10'
   tier: 1
+  outlet: National Security Archive
 - title: Center for Constitutional Rights - CCR In Disbelief at Confirmation of Gina Haspel
   url: https://ccrjustice.org/home/press-center/press-releases/ccr-disbelief-confirmation-gina-haspel-outraged-former-head-cia
-  publisher: Center for Constitutional Rights
   date: '2018-05-17'
   tier: 1
+  outlet: Center for Constitutional Rights
 ---
 
 President Donald Trump announces his nomination of Gina Haspel to serve as CIA Director, making her the first woman nominated for the position despite her direct involvement in the CIA's torture program and destruction of interrogation videotapes. Haspel ran the CIA's "Cat's Eye" black site in Thailand in 2002 where detainees including Abd al-Rahim al-Nashiri were waterboarded and tortured, and later helped draft the cable authorizing destruction of 92 torture tapes—evidence that was under legal preservation orders. The nomination represents a shocking embrace of officials who committed and concealed war crimes, rewarding impunity with promotion to the agency's highest position.

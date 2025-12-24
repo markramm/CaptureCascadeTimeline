@@ -14,14 +14,14 @@ tags:
 sources:
 - url: https://www.militarytimes.com/news/your-military/2023/04/12/us-defense-companies-sued-by-yemenis-over-weapons-used-in-civil-war/
   title: US defense companies sued by Yemenis over weapons used in civil war
-  publisher: Military Times
   date: '2023-04-12'
   tier: 2
+  outlet: Military Times
 - url: https://www.salon.com/2018/06/27/raytheons-profits-boom-alongside-civilian-deaths-in-yemen_partner/
   title: Raytheon's profits boom alongside civilian deaths in Yemen
-  publisher: Salon
   date: '2018-06-27'
   tier: 2
+  outlet: Salon
 actors:
 - Raytheon
 - Lockheed Martin

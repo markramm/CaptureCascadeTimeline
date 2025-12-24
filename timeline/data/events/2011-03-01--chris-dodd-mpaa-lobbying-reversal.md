@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.opensecrets.org/news/2011/03/chris-dodd-takes-a-spin
   title: Ex-Sen. Chris Dodd Takes a Spin Through the Revolving Door to MPAA
-  publisher: OpenSecrets
   date: '2011-03-01'
   tier: 1
+  outlet: OpenSecrets
 - url: https://thehill.com/policy/technology/146769-mpaa-names-former-sen-chris-dodd-chairman-a-ceo
   title: Dodd to be Hollywood's top man in Washington
-  publisher: The Hill
   date: '2011-03-01'
   tier: 2
+  outlet: The Hill
 - url: https://www.hollywoodreporter.com/movies/movie-news/mpaa-chief-chris-dodd-leaves-complicated-legacy-as-hollywoods-top-lobbyist-998841/
   title: MPAA Chief Chris Dodd Leaves Complicated Legacy as Hollywood's Top Lobbyist
-  publisher: Hollywood Reporter
   date: '2017-04-28'
   tier: 2
+  outlet: Hollywood Reporter
 actors:
 - Chris Dodd
 - MPAA

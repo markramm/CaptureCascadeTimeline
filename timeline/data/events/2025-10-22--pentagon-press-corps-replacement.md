@@ -17,9 +17,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/22/us/politics/pentagon-press-corps-propaganda-outlets.html
   title: Pentagon Replaces Mainstream Media with Pro-Trump Outlets
-  publisher: New York Times
   date: '2025-10-22'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

@@ -4,28 +4,28 @@ date: 2015-02-01
 title: PredPol Predictive Policing Software Adopted by 60 U.S. Police Departments
 importance: 7
 tags:
-  - surveillance
-  - technology
-  - ai
-  - police
+- surveillance
+- technology
+- ai
+- police
 actors:
-  - PredPol
+- PredPol
 sources:
-  - url: https://dailycaller.com/2015/02/11/predictive-policing-is-making-minority-report-a-reality/
-    title: Predictive Policing Is Making Minority Report A Reality
-    publisher: Daily Caller
-    date: 2015-02-11
-    tier: 2
-  - url: https://www.vice.com/en/article/minority-retort-why-oakland-police-turned-down-predictive-policing/
-    title: Why Oakland Police Turned Down Predictive Policing
-    publisher: Vice
-    date: 2016-01-01
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/PredPol
-    title: PredPol
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 2
+- url: https://dailycaller.com/2015/02/11/predictive-policing-is-making-minority-report-a-reality/
+  title: Predictive Policing Is Making Minority Report A Reality
+  date: 2015-02-11
+  tier: 2
+  outlet: Daily Caller
+- url: https://www.vice.com/en/article/minority-retort-why-oakland-police-turned-down-predictive-policing/
+  title: Why Oakland Police Turned Down Predictive Policing
+  date: 2016-01-01
+  tier: 2
+  outlet: Vice
+- url: https://en.wikipedia.org/wiki/PredPol
+  title: PredPol
+  date: 2024-01-01
+  tier: 2
+  outlet: Wikipedia
 ---
 
 PredPol's predictive policing software reaches widespread adoption across the United States, with almost 60 police departments using the technology by early 2015. Major cities including Los Angeles, Atlanta, and numerous smaller jurisdictions have implemented the algorithmic crime prediction system, representing the peak of predictive policing's acceptance in American law enforcement.

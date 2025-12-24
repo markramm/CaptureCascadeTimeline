@@ -4,32 +4,32 @@ title: UnitedHealthcare CEO Brian Thompson Assassinated in Manhattan, Exposing P
 date: '2024-12-04'
 importance: 10
 actors:
-  - Brian Thompson
-  - Luigi Mangione
-  - UnitedHealthcare
-  - UnitedHealth Group
+- Brian Thompson
+- Luigi Mangione
+- UnitedHealthcare
+- UnitedHealth Group
 tags:
-  - healthcare
-  - insurance-fraud
-  - systematic-corruption
-  - healthcare-violence
+- healthcare
+- insurance-fraud
+- systematic-corruption
+- healthcare-violence
 status: confirmed
 sources:
-  - title: Killing of Brian Thompson
-    url: https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson
-    publisher: Wikipedia
-    date: '2024-12-09'
-    tier: 2
-  - title: What we know about Luigi Mangione, suspect in Brian Thompson's killing
-    url: https://www.npr.org/2024/12/09/nx-s1-5222853/luigi-mangione-suspect-brian-thompson-united-healthcare
-    publisher: NPR
-    date: '2024-12-09'
-    tier: 1
-  - title: Luigi Mangione Charged With The Stalking And Murder Of UnitedHealthcare CEO Brian Thompson
-    url: https://www.justice.gov/usao-sdny/pr/luigi-mangione-charged-stalking-and-murder-unitedhealthcare-ceo-brian-thompson-and-use
-    publisher: Department of Justice
-    date: '2024-12-17'
-    tier: 1
+- title: Killing of Brian Thompson
+  url: https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson
+  date: '2024-12-09'
+  tier: 2
+  outlet: Wikipedia
+- title: What we know about Luigi Mangione, suspect in Brian Thompson's killing
+  url: https://www.npr.org/2024/12/09/nx-s1-5222853/luigi-mangione-suspect-brian-thompson-united-healthcare
+  date: '2024-12-09'
+  tier: 1
+  outlet: NPR
+- title: Luigi Mangione Charged With The Stalking And Murder Of UnitedHealthcare CEO Brian Thompson
+  url: https://www.justice.gov/usao-sdny/pr/luigi-mangione-charged-stalking-and-murder-unitedhealthcare-ceo-brian-thompson-and-use
+  date: '2024-12-17'
+  tier: 1
+  outlet: Department of Justice
 ---
 
 On December 4, 2024, Brian Thompson, CEO of UnitedHealthcare, was shot and killed outside the New York Hilton Midtown in Manhattan. The assassination, allegedly carried out by 26-year-old Luigi Mangione, exposed widespread public anger at the American health insurance industry's systematic denial of medical care for profit. The public reaction—celebrating the killing and lionizing the suspect—revealed the depth of rage at insurance companies' business models that prioritize denying claims over providing healthcare, making this a watershed moment in American healthcare politics.

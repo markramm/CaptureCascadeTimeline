@@ -14,22 +14,20 @@ tags:
 - intelligence-community
 sources:
 - url: https://www.cnn.com/2025/08/19/politics/tulsi-gabbard-revokes-security-clearances
-  title: Tulsi Gabbard revokes security clearances of 37 current and former national
-    security officials
-  publisher: CNN
+  title: Tulsi Gabbard revokes security clearances of 37 current and former national security officials
   date: '2025-08-19'
   tier: 1
+  outlet: CNN
 - url: https://www.cbsnews.com/news/trump-tulsi-gabbard-revokes-security-clearances-37-current-former-government-officials/
-  title: Trump administration revokes security clearances of 37 current and former
-    U.S. officials
-  publisher: CBS News
+  title: Trump administration revokes security clearances of 37 current and former U.S. officials
   date: '2025-08-19'
   tier: 1
+  outlet: CBS News
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-213
   title: 'Trump Tyranny Tracker: Day 213'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-27'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Director of National Intelligence Tulsi Gabbard revoked security clearances of 37 current and former intelligence officials, including three currently serving officers, accusing them of 'politicizing intelligence' without providing evidence. Gabbard acknowledged Trump personally directed the revocations in a public social media post.

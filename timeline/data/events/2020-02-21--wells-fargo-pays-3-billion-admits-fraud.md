@@ -11,23 +11,23 @@ tags:
 actors:
 - Wells Fargo
 - Department of Justice
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 sources:
 - url: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices
   title: Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations
-  publisher: U.S. Department of Justice
   date: '2020-02-21'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.cnn.com/2020/02/21/business/wells-fargo-settlement-doj-sec/index.html
   title: US Government Fines Wells Fargo $3 Billion for 'Staggering' Fake-Accounts Scandal
-  publisher: CNN
   date: '2020-02-21'
   tier: 2
+  outlet: CNN
 - url: https://www.sec.gov/news/press-release/2020-38
   title: Wells Fargo Charged With Misleading Investors About Sales Quality
-  publisher: Securities and Exchange Commission
   date: '2020-02-21'
   tier: 1
+  outlet: Securities and Exchange Commission
 ---
 
 Wells Fargo agrees to pay $3 billion to resolve criminal and civil investigations by the Department of Justice and Securities and Exchange Commission into sales practices that created millions of unauthorized accounts between 2002 and 2016. In a deferred prosecution agreement, Wells Fargo formally admits to creating false bank records and committing identity theft—federal crimes—while also admitting it collected millions in unearned fees, harmed customer credit ratings, and misled investors about sales quality. Despite these admissions of systematic criminal conduct affecting 3.5 million accounts, no individuals are charged, and Wells Fargo avoids conviction.

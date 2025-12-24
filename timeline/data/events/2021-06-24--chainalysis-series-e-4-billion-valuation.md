@@ -4,24 +4,24 @@ date: 2021-06-24
 title: Chainalysis Raises $100 Million at $4.2 Billion Valuation in Series E
 importance: 8
 tags:
-  - surveillance
-  - cryptocurrency
-  - private-sector
-  - venture-capital
+- surveillance
+- cryptocurrency
+- private-sector
+- venture-capital
 actors:
-  - Chainalysis
-  - Coatue
+- Chainalysis
+- Coatue
 sources:
-  - url: https://www.prnewswire.com/news-releases/chainalysis-raises-100-million-at-a-4-2-billion-valuation-to-execute-vision-as-the-blockchain-data-platform-301319274.html
-    title: Chainalysis Raises $100 Million at a $4.2 Billion Valuation
-    publisher: PR Newswire
-    date: 2021-06-24
-    tier: 2
-  - url: https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/
-    title: Chainalysis raises $100M, doubles valuation to over $2B
-    publisher: TechCrunch
-    date: 2021-03-26
-    tier: 2
+- url: https://www.prnewswire.com/news-releases/chainalysis-raises-100-million-at-a-4-2-billion-valuation-to-execute-vision-as-the-blockchain-data-platform-301319274.html
+  title: Chainalysis Raises $100 Million at a $4.2 Billion Valuation
+  date: 2021-06-24
+  tier: 2
+  outlet: PR Newswire
+- url: https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/
+  title: Chainalysis raises $100M, doubles valuation to over $2B
+  date: 2021-03-26
+  tier: 2
+  outlet: TechCrunch
 ---
 
 Chainalysis announces a $100 million Series E financing led by Coatue, bringing its valuation to $4.2 billion and establishing the company as the dominant player in the cryptocurrency surveillance industry. The funding round comes just three months after a $100 million Series D round in March 2021 that valued the company at $2 billion, demonstrating explosive investor confidence in the blockchain analytics market.

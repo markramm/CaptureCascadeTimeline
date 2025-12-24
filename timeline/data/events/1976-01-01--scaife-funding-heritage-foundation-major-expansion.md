@@ -9,7 +9,7 @@ actors:
 - Joseph Coors
 - Edwin Meese III
 sources:
-- outlet: Washington Post
+- outlet: The Washington Post
   title: 'Scaife: Funding Father of the Right'
   url: https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm
   accessed_date: '2025-09-23'

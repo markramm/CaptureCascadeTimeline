@@ -20,19 +20,19 @@ actors:
 sources:
 - title: AT&T and Carbyne Collaborate to Enhance 9-1-1 Performance with NG9-1-1 Emergency Response Solutions
   url: https://www.prnewswire.com/news-releases/att-and-carbyne-collaborate-to-enhance-9-1-1-performance-with-ng9-1-1-emergency-response-solutions-301851099.html
-  publisher: PR Newswire
   date: '2023-06-15'
   tier: 2
+  outlet: PR Newswire
 - title: Carbyne partners with AT&T on next-generation 911 tools
   url: https://statescoop.com/carbyne-att-next-generation-911/
-  publisher: StateScoop
   date: '2023-06-15'
   tier: 2
+  outlet: StateScoop
 - title: Carbyne announces resell relationship with AT&T for cloud-based 911 offerings
   url: https://urgentcomm.com/2023/06/15/carbyne-announces-resale-relationship-with-att-for-cloud-based-911-offerings/
-  publisher: Urgent Communications
   date: '2023-06-15'
   tier: 2
+  outlet: Urgent Communications
 status: confirmed
 ---
 

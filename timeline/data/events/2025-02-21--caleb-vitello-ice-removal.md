@@ -2,12 +2,11 @@
 id: 2025-02-21--caleb-vitello-ice-removal
 date: '2025-02-21'
 importance: 8
-title: Acting ICE Director Vitello removed for failing to meet impossible deportation
-  quotas
+title: Acting ICE Director Vitello removed for failing to meet impossible deportation quotas
 location: Washington, D.C.
 actors:
 - Caleb Vitello
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Donald Trump
 - Department of Homeland Security
 tags:
@@ -21,7 +20,7 @@ capture_lanes:
 sources:
 - title: Acting ICE director removed amid White House pressure to boost arrests
   url: https://www.washingtonpost.com/immigration/2025/02/21/ice-director-removed-caleb-vitello/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-21'
 - title: Acting head of ICE reassigned amid frustrations over deportation efforts
   url: https://www.cbsnews.com/news/acting-head-immigration-customs-enforcement-reassigned-frustrations-deportation-efforts-trump/
@@ -31,9 +30,7 @@ sources:
   url: https://www.nbcnews.com/politics/national-security/trump-administration-reassigning-acting-ice-director-rcna193225
   outlet: NBC News
   date: '2025-02-21'
-notes: White House demanded ICE "defy the math" with unrealistic quotas. Also reassigned
-  were Russell Hott and Peter Berg from enforcement division. Officers struggled because
-  immigrants refused to open doors when ICE knocked.
+notes: White House demanded ICE "defy the math" with unrealistic quotas. Also reassigned were Russell Hott and Peter Berg from enforcement division. Officers struggled because immigrants refused to open doors when ICE knocked.
 status: confirmed
 ---
 

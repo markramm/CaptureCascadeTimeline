@@ -6,7 +6,7 @@ importance: 7
 location: Washington, DC
 actors:
 - Rita Lavelle
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
 - Aerojet-General Corporation
 - Ronald Reagan
 - Congress
@@ -18,24 +18,24 @@ tags:
 - regulatory-capture
 - corruption
 sources:
-- title: 'Federal jury convicts EPA official Rita Lavelle'
+- title: Federal jury convicts EPA official Rita Lavelle
   url: https://www.upi.com/Archives/1983/12/01/A-federal-jury-Thursday-convicted-EPA-official-Rita-Lavelle/9294439102800/
   outlet: UPI
   date: '1983-12-01'
   verified: true
-- title: 'Rita Lavelle'
+- title: Rita Lavelle
   url: https://en.wikipedia.org/wiki/Rita_Lavelle
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'United States of America v. Rita M. Lavelle'
+- title: United States of America v. Rita M. Lavelle
   url: https://law.justia.com/cases/federal/appellate-courts/F2/751/1266/189124/
   outlet: Justia (Court Records)
   date: '1985-01-01'
   verified: true
-- title: 'EPA Officials Violated Trust by Manipulating Superfund'
+- title: EPA Officials Violated Trust by Manipulating Superfund
   url: https://www.washingtonpost.com/archive/politics/1984/08/31/epa-officials-violated-trust-by-manipulating-the-superfund/eda09f6e-a454-4f83-9055-2a72ec04cf71/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1984-08-31'
   verified: true
 ---

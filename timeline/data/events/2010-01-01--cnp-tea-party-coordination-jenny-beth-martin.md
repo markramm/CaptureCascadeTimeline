@@ -4,7 +4,7 @@ date: '2010-01-01'
 title: CNP Coordinates Tea Party Movement Through Member Organizations
 importance: 9
 tags:
-- CNP
+- cnp
 - conservative-movement
 - tea-party
 - coordination
@@ -17,7 +17,7 @@ actors:
 - Tony Perkins
 - Ralph Reed
 sources:
-- title: 'Council for National Policy - SourceWatch'
+- title: Council for National Policy - SourceWatch
   url: https://www.sourcewatch.org/index.php/Council_for_National_Policy
   publication: SourceWatch
   date: '2024-11-10'

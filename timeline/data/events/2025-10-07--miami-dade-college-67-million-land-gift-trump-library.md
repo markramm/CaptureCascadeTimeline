@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Miami real estate gift for Trump presidential library sparks lawsuit
   url: https://thehill.com/homenews/state-watch/5558891-miami-trump-library-land-gift-lawsuit/
-  publisher: The Hill
   date: '2025-10-07'
   tier: 2
+  outlet: The Hill
 tags:
 - systematic-corruption
 - conflicts-of-interest

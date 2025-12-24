@@ -11,10 +11,10 @@ id: 2025-10-25--zhao-pardon-lobbying-campaign
 importance: 10
 sources:
 - date: '2025-10-25'
-  publisher: Politico
   tier: 2
   title: Crypto Executive Pardon via Lobbying
   url: https://www.politico.com/news/2025/10/25/binance-zhao-pardon-lobbying-trump
+  outlet: Politico
 status: confirmed
 tags:
 - conflicts-of-interest

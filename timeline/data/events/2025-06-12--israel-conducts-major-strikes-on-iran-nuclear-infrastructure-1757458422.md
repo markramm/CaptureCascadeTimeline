@@ -10,7 +10,7 @@ actors:
 - Iranian nuclear scientists
 - Iranian military leadership
 - Natanz nuclear facility personnel
-- US Military
+- U.S. Military
 - IAEA
 tags:
 - israel-iran-conflict

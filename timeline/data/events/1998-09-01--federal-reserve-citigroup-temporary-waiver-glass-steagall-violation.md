@@ -23,13 +23,12 @@ sources:
   title: Fed Waiver for Citicorp Merger
   url: https://www.federalregister.gov/documents/1998/09/23/98-25456/citicorp-new-york-new-york-order-approving-formation-of-a-bank-holding-company
 - date: '1998-04-06'
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   title: Citigroup Merger Creates Financial Giant
   url: https://www.wsj.com/articles/SB891132908068471000
 - date: '1998-06-26'
   outlet: Federal Reserve
-  title: Federal Reserve Public Meeting Regarding Citicorp and Travelers Group Merger
-    - Regulatory Concerns
+  title: Federal Reserve Public Meeting Regarding Citicorp and Travelers Group Merger - Regulatory Concerns
   url: https://www.federalreserve.gov/supervisionreg/publicmeetings/19980626_panel21.htm
 - date: '1998-04-06'
   outlet: CNN Money

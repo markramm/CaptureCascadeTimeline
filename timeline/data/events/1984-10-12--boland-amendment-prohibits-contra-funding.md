@@ -4,30 +4,30 @@ date: 1984-10-12
 title: Boland Amendment Explicitly Prohibits All U.S. Funding for Contras
 importance: 9
 tags:
-  - Iran-Contra
-  - congressional-oversight
-  - Nicaragua
-  - Reagan-administration
-  - constitutional-law
+- iran-contra
+- congressional-oversight
+- nicaragua
+- reagan-administration
+- constitutional-law
 actors:
-  - Edward Boland
-  - Ronald Reagan
+- Edward Boland
+- Ronald Reagan
 sources:
-  - url: https://www.congress.gov/bill/98th-congress/house-bill/2968
-    title: Defense Appropriations Act 1985
-    publisher: U.S. Congress
-    date: 1984-10-12
-    tier: 1
-  - url: https://irp.fas.org/offdocs/walsh/part_i.htm
-    title: Walsh Report Part I - Iran/Contra Underlying Facts
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/
-    title: The Iran-Contra Affair
-    publisher: PBS American Experience
-    date: 2024-01-15
-    tier: 1
+- url: https://www.congress.gov/bill/98th-congress/house-bill/2968
+  title: Defense Appropriations Act 1985
+  date: 1984-10-12
+  tier: 1
+  outlet: U.S. Congress
+- url: https://irp.fas.org/offdocs/walsh/part_i.htm
+  title: Walsh Report Part I - Iran/Contra Underlying Facts
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/
+  title: The Iran-Contra Affair
+  date: 2024-01-15
+  tier: 1
+  outlet: PBS American Experience
 ---
 
 Congress passes the most restrictive version of the Boland Amendment, explicitly prohibiting any U.S. government agency involved in intelligence activities from providing support for military or paramilitary operations in Nicaragua. The amendment, effective from October 3, 1984, to December 3, 1985, states unambiguously that "no funds available to the Central Intelligence Agency, the Department of Defense, or any other agency or entity of the United States involved in intelligence activities" may be used for "supporting, directly or indirectly, military or paramilitary operations in Nicaragua."

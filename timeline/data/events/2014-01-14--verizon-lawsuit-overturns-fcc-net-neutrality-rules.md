@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Verizon Communications
 - DC Circuit Court of Appeals
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Julius Genachowski
 tags:
 - net-neutrality
@@ -17,17 +17,17 @@ tags:
 - judicial
 status: confirmed
 sources:
-- title: 'Verizon Communications Inc. v. FCC (2014)'
+- title: Verizon Communications Inc. v. FCC (2014)
   url: https://en.wikipedia.org/wiki/Verizon_Communications_Inc._v._FCC_(2014)
   outlet: Wikipedia
   date: '2014-01-14'
   tier: 2
-- title: 'Verizon v. FCC, et al., No. 11-1355 (D.C. Cir. 2014)'
+- title: Verizon v. FCC, et al., No. 11-1355 (D.C. Cir. 2014)
   url: https://law.justia.com/cases/federal/appellate-courts/cadc/11-1355/11-1355-2014-01-14.html
   outlet: Justia
   date: '2014-01-14'
   tier: 2
-- title: 'Verizon Wins Net Neutrality Court Ruling Against FCC'
+- title: Verizon Wins Net Neutrality Court Ruling Against FCC
   url: https://www.bloomberg.com/news/articles/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc
   outlet: Bloomberg
   date: '2014-01-14'

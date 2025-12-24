@@ -20,24 +20,24 @@ tags:
 sources:
 - title: Obama's Covert Drone War in Numbers - Ten Times More Strikes Than Bush
   url: https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
-  publisher: The Bureau of Investigative Journalism
   date: '2017-01-17'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Obama's Final Drone Strike Data
   url: https://www.cfr.org/blog/obamas-final-drone-strike-data
-  publisher: Council on Foreign Relations
   date: '2017-01-20'
   tier: 1
+  outlet: Council on Foreign Relations
 - title: Why Barack Obama Ramped Up Drone Strikes from George W. Bush
   url: https://www.iir.cz/why-barack-obama-ramped-up-drone-strikes-from-george-w-bush
-  publisher: Institute of International Relations Prague
   date: '2020-11-24'
   tier: 2
+  outlet: Institute of International Relations Prague
 - title: Drone Strikes in Pakistan
   url: https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan
-  publisher: Wikipedia (sourced from Bureau data)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from Bureau data)
 ---
 
 President Barack Obama dramatically expands the CIA's drone strike program in his first year in office, authorizing more strikes than George W. Bush conducted during his entire presidency. The expansion transforms armed drones from a limited counterterrorism tool into a systematic assassination program operating across multiple countries outside active war zones, including Pakistan, Yemen, and Somalia. The program operates with minimal transparency, accountability, or legal oversight, normalizing extrajudicial killings that violate international law and cause extensive civilian casualties.

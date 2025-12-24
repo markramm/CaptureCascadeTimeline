@@ -4,7 +4,7 @@ title: Supreme Court declines to let firing of OSC chief take immediate effect
 date: '2025-02-21'
 importance: 6
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - Hampton Dellinger
 tags:
 - courts
@@ -17,13 +17,11 @@ citations:
 notes: ''
 status: confirmed
 sources:
-- title: The Supreme Court won't allow Trump to immediately fire head of whistleblower
-    office
+- title: The Supreme Court won't allow Trump to immediately fire head of whistleblower office
   url: https://federalnewsnetwork.com/litigation/2025/02/the-supreme-court-wont-allow-trump-to-immediately-fire-head-of-whistleblower-office/
   outlet: Federal News Network
   date: '2025-02-21'
-- title: Supreme Court rules that government watchdog fired by Trump may temporarily
-    remain on the job
+- title: Supreme Court rules that government watchdog fired by Trump may temporarily remain on the job
   url: https://www.cnn.com/2025/02/21/politics/supreme-court-trump-dellinger/index.html
   outlet: CNN
   date: '2025-02-21'

@@ -10,8 +10,8 @@ actors:
 - Kristi Noem
 - U.S. District Judge James Boasberg
 - Department of Justice
-- Todd Blanche (Deputy Attorney General)
-- Emil Bove (former Principal Associate Deputy Attorney General)
+- Todd Blanche
+- Emil Bove
 - Joseph Mazzara (DHS acting General Counsel)
 - Venezuelan deportees
 - El Salvador government
@@ -24,7 +24,7 @@ tags:
 - human-rights-violations
 - judicial-integrity
 - executive-overreach
-- DHS
+- dhs
 - trump-administration
 capture_type: judicial_capture
 sources:

@@ -4,30 +4,30 @@ date: 2002-06-15
 title: Arthur Andersen Convicted, Destroying 85,000 Jobs Worldwide
 importance: 10
 tags:
-  - corporate-fraud
-  - enron
-  - obstruction-of-justice
-  - arthur-andersen
-  - corporate-accountability
+- corporate-fraud
+- enron
+- obstruction-of-justice
+- arthur-andersen
+- corporate-accountability
 actors:
-  - Arthur Andersen
-  - Department of Justice
+- Arthur Andersen
+- Department of Justice
 sources:
-  - url: https://www.sec.gov/news/press/2002-89.htm
-    title: "SEC Statement Regarding Andersen Case Conviction"
-    publisher: Securities and Exchange Commission
-    date: 2002-06-15
-    tier: 1
-  - url: https://abcnews.go.com/Business/story?id=87101&page=1
-    title: "Jury Finds Arthur Andersen Guilty"
-    publisher: ABC News
-    date: 2002-06-15
-    tier: 1
-  - url: https://www.britannica.com/money/Arthur-Andersen
-    title: "Arthur Andersen | Accounting Firm, Enron Scandal & Legacy"
-    publisher: Britannica
-    date: 2002-06-15
-    tier: 1
+- url: https://www.sec.gov/news/press/2002-89.htm
+  title: SEC Statement Regarding Andersen Case Conviction
+  date: 2002-06-15
+  tier: 1
+  outlet: Securities and Exchange Commission
+- url: https://abcnews.go.com/Business/story?id=87101&page=1
+  title: Jury Finds Arthur Andersen Guilty
+  date: 2002-06-15
+  tier: 1
+  outlet: ABC News
+- url: https://www.britannica.com/money/Arthur-Andersen
+  title: Arthur Andersen | Accounting Firm, Enron Scandal & Legacy
+  date: 2002-06-15
+  tier: 1
+  outlet: Britannica
 ---
 
 On June 15, 2002, a federal jury convicted Arthur Andersen LLP of obstruction of justice for shredding thousands of Enron-related documents. The verdict effectively destroyed one of the world's most prestigious accounting firms, eliminating 85,000 jobs globally and marking the last time a major corporation faced existential consequences for complicity in fraud.

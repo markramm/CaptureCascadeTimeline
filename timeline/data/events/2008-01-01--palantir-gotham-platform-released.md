@@ -3,6 +3,10 @@ id: 2008-01-01--palantir-gotham-platform-released
 date: '2008-01-01'
 title: Palantir Gotham Platform Released for Intelligence and Defense Applications
 importance: 9
+actors:
+- Palantir Technologies
+- Central Intelligence Agency
+- Intelligence Community
 tags:
 - palantir
 - palantir-gotham
@@ -10,26 +14,20 @@ tags:
 - cia
 - data-analysis
 - intelligence-technology
-actors:
-- Palantir Technologies
-- Central Intelligence Agency
-- intelligence community
 sources:
-- url: https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b
-  title: 'Palantir Gotham: From 9/11 to AI'
-  publisher: Medium
+- title: 'Palantir Gotham: From 9/11 to AI'
+  url: https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b
+  outlet: Medium
   date: '2024-01-01'
   tier: 3
-- url: https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse
-  title: 'The History of Palantir Technologies: From Visionary Beginnings to a Global
-    Data Powerhouse'
-  publisher: Financial Content
+- title: 'The History of Palantir Technologies: From Visionary Beginnings to a Global Data Powerhouse'
+  url: https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse
+  outlet: Financial Content
   date: '2025-03-21'
   tier: 3
-- url: https://www.buzzfeednews.com/article/williamalden/palantirs-relationship-with-americas-spies
-  title: Palantir's Relationship With The Intelligence Community Has Been Worse Than
-    You'd Think
-  publisher: BuzzFeed News
+- title: Palantir's Relationship With The Intelligence Community Has Been Worse Than You'd Think
+  url: https://www.buzzfeednews.com/article/williamalden/palantirs-relationship-with-americas-spies
+  outlet: BuzzFeed News
   date: '2017-04-21'
   tier: 2
 ---

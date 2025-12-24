@@ -12,9 +12,9 @@ actors:
 - Secretary of the Army
 - D.C. National Guard
 tags:
-- National-Guard
+- national-guard
 - militarization
-- Washington-DC
+- washington-dc
 - judicial-appeals
 - martial-law
 - crime-policy

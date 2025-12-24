@@ -6,20 +6,19 @@ importance: 8
 actors:
 - Department of Homeland Security
 - Centers for Medicare and Medicaid Services
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - State Attorneys General Coalition
 sources:
-- title: Trump administration hands over Medicaid recipients' personal data, including
-    addresses, to ICE
+- title: Trump administration hands over Medicaid recipients' personal data, including addresses, to ICE
   url: https://www.cnn.com/2025/07/18/politics/medicaid-ice-personal-data
-  publisher: CNN
   date: '2025-07-18'
   tier: 1
+  outlet: CNN
 - title: Federal Judge Blocks HHS from Sharing Medicaid Data with ICE
   url: https://www.hipaajournal.com/federal-judge-blocks-hhs-sharing-medicaid-data-ice/
-  publisher: HIPAA Journal
   date: '2025-10-01'
   tier: 2
+  outlet: HIPAA Journal
 tags:
 - surveillance-expansion
 - civil-liberties-violation

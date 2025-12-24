@@ -4,15 +4,15 @@ date: '2025-10-07'
 title: ICE Furloughs Entire Detention Oversight Office Despite Record Capacity
 importance: 8
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Office of Detention Oversight
-- DHS
+- Department of Homeland Security
 sources:
 - title: ICE closes detention oversight group in shutdown despite surge in detainees
   url: https://www.washingtonpost.com/immigration/2025/10/07/ice-detention-oversight-shutdown/
-  publisher: Washington Post
   date: '2025-10-07'
   tier: 1
+  outlet: The Washington Post
 tags:
 - accountability-dismantling
 - systematic-corruption

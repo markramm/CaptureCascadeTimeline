@@ -10,21 +10,20 @@ id: 2025-10-30--trump-officials-flee-to-military-bases-miller-noem-hegseth-rubio
 importance: 9
 sources:
 - date: '2025-10-30'
-  publisher: ARLnow
   tier: 2
-  title: Family of top White House official moved from Arlington home to military
-    housing
+  title: Family of top White House official moved from Arlington home to military housing
   url: https://www.arlnow.com/2025/10/30/family-of-top-white-house-official-moved-from-arlington-home-to-military-housing/
+  outlet: ARLnow
 - date: '2025-10-30'
-  publisher: The New Republic
   tier: 2
   title: Stephen Miller Is Hiding From Protesters by Living on Military Base
   url: https://newrepublic.com/post/202463/stephen-miller-kristi-noem-hiding-protesters-military-base-housing
+  outlet: The New Republic
 - date: '2025-10-30'
-  publisher: The Daily Beast
   tier: 2
   title: Stephen Miller Scores Free Military House in 'Trump Green Zone'
   url: https://www.thedailybeast.com/stephen-miller-scores-free-military-house-in-trump-green-zone/
+  outlet: The Daily Beast
 status: confirmed
 tags:
 - accountability-evasion
@@ -37,8 +36,7 @@ tags:
 - military-bases
 - pete-hegseth
 - stephen-miller
-title: 'Trump Officials Flee to Military Bases: Miller, Noem, Hegseth, Rubio Create
-  Militarized "Green Zone"'
+title: 'Trump Officials Flee to Military Bases: Miller, Noem, Hegseth, Rubio Create Militarized "Green Zone"'
 ---
 
 On October 30, 2025, multiple senior Trump administration officials relocated to military housing on U.S. bases in the Washington D.C. area, citing security threats from protesters following the assassination of activist Charlie Kirk. The moves create what critics describe as a militarized "Trump Green Zone" that physically isolates top officials from the American public while straining military resources and deepening the administration's dependence on military infrastructure for governance.

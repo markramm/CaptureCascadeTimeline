@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Government Accountability Office (GAO)
 - Bill Pulte
-- Federal Housing Finance Agency (FHFA)
+- Federal Housing Finance Agency
 - Letitia James
 - Sen. Adam Schiff
 - Federal Reserve Gov. Lisa Cook
@@ -15,15 +15,15 @@ actors:
 - Senate Democrats
 - Department of Justice
 tags:
-- FHFA
-- GAO
+- fhfa
+- gao
 - weaponized-prosecution
 - political-retaliation
 - rule-of-law
 - regulatory-capture
 - mortgage-fraud
 - abuse-of-power
-- Trump-loyalists
+- trump-loyalists
 capture_lanes:
 - Rule of Law Erosion
 - Weaponized Prosecution

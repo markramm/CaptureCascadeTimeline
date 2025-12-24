@@ -1,9 +1,13 @@
 ---
 id: 2009-07-01--in-q-tel-invests-recorded-future
 date: '2009-07-01'
-title: In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded
-  Future
+title: In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
 importance: 8
+actors:
+- In-Q-Tel
+- Google Ventures
+- Recorded Future
+- Christopher Ahlberg
 tags:
 - in-q-tel
 - cia
@@ -12,25 +16,20 @@ tags:
 - ai-surveillance
 - predictive-analytics
 - venture-capital
-actors:
-- In-Q-Tel
-- Google Ventures
-- Recorded Future
-- Christopher Ahlberg
 sources:
-- url: https://en.wikipedia.org/wiki/Recorded_Future
-  title: Recorded Future
-  publisher: Wikipedia
+- title: Recorded Future
+  url: https://en.wikipedia.org/wiki/Recorded_Future
+  outlet: Wikipedia
   date: '2025-11-11'
   tier: 3
-- url: https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/
-  title: The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos
-  publisher: The Intercept
+- title: The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos
+  url: https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/
+  outlet: The Intercept
   date: '2016-04-14'
   tier: 2
-- url: https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/
-  title: Recorded Future bought by MasterCard for $2.65 billion
-  publisher: Boston Globe
+- title: Recorded Future bought by MasterCard for $2.65 billion
+  url: https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/
+  outlet: Boston Globe
   date: '2024-09-12'
   tier: 2
 ---

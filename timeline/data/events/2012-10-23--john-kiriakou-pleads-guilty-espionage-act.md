@@ -4,32 +4,32 @@ date: 2012-10-23
 title: John Kiriakou Pleads Guilty - Only Person Jailed Over CIA Torture Program
 importance: 9
 actors:
-  - John Kiriakou
-  - CIA
-  - Obama Administration
-  - Department of Justice
+- John Kiriakou
+- CIA
+- Obama Administration
+- Department of Justice
 tags:
-  - whistleblower-prosecution
-  - torture
-  - espionage-act
-  - accountability
-  - war-crimes
+- whistleblower-prosecution
+- torture
+- espionage-act
+- accountability
+- war-crimes
 sources:
-  - url: https://whistleblower.org/bio-john-kiriakou/
-    title: Bio - John Kiriakou
-    publisher: Government Accountability Project
-    date: 2012-10-23
-    tier: 1
-  - url: https://www.aljazeera.com/features/2017/5/4/john-kiriakou-the-ex-cia-officer-turned-whistle-blower
-    title: John Kiriakou - The ex-CIA officer turned whistle-blower
-    publisher: Al Jazeera
-    date: 2017-05-04
-    tier: 1
-  - url: https://abcnews.go.com/Blotter/john-kiriakou-30-months/story?id=18314999
-    title: Former CIA Officer Gets 30 Months in Prison for Leak
-    publisher: ABC News
-    date: 2013-01-25
-    tier: 1
+- url: https://whistleblower.org/bio-john-kiriakou/
+  title: Bio - John Kiriakou
+  date: 2012-10-23
+  tier: 1
+  outlet: Government Accountability Project
+- url: https://www.aljazeera.com/features/2017/5/4/john-kiriakou-the-ex-cia-officer-turned-whistle-blower
+  title: John Kiriakou - The ex-CIA officer turned whistle-blower
+  date: 2017-05-04
+  tier: 1
+  outlet: Al Jazeera
+- url: https://abcnews.go.com/Blotter/john-kiriakou-30-months/story?id=18314999
+  title: Former CIA Officer Gets 30 Months in Prison for Leak
+  date: 2013-01-25
+  tier: 1
+  outlet: ABC News
 ---
 
 Former CIA officer John Kiriakou pleaded guilty to violating the Intelligence Identities Protection Act after being indicted under the Espionage Act for publicly confirming that waterboarding was official U.S. government policy. In a profound miscarriage of justice, Kiriakou became the only person connected to the CIA's torture program to serve prison time—not for conducting torture, but for revealing it.

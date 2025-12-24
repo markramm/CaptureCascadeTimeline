@@ -15,8 +15,7 @@ tags:
 - transparency
 status: confirmed
 sources:
-- title: House Speaker Johnson calls for early summer recess to avoid vote on Epstein
-    files
+- title: House Speaker Johnson calls for early summer recess to avoid vote on Epstein files
   url: https://www.npr.org/2025/07/23/nx-s1-5476247/house-speaker-johnson-calls-for-early-summer-recess-to-avoid-vote-on-epstein-files
   outlet: NPR
   date: '2025-07-23'
@@ -26,7 +25,7 @@ sources:
   date: '2025-07-23'
 - title: House sent home early as Epstein files vote looms
   url: https://www.washingtonpost.com/politics/2025/07/23/house-recess-epstein-files
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-07-23'
 capture_lanes:
 - Media Capture & Control

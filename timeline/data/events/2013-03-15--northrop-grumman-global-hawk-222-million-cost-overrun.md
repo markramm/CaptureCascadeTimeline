@@ -7,31 +7,31 @@ actors:
 - Northrop Grumman
 - U.S. Air Force
 - Department of Defense
-- Government Accountability Office
+- Government Accountability Office (GAO)
 tags:
-- Military-Industrial Complex
-- Defense Contractors
-- Cost Overruns
-- Surveillance State
-- Drone Warfare
-- Pentagon Contracts
-- Accountability
+- military-industrial complex
+- defense contractors
+- cost overruns
+- surveillance state
+- drone warfare
+- pentagon contracts
+- accountability
 sources:
 - url: https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-05-6/html/GAOREPORTS-GAO-05-6.htm
   title: 'Unmanned Aerial Vehicles: Changes in Global Hawk Acquisition Strategy Are Needed to Reduce Program Risks'
-  publisher: Government Accountability Office
   date: '2004-12-01'
   tier: 1
+  outlet: GAO
 - url: https://www.nationaldefensemagazine.org/articles/2006/5/1/2006may--soaring-costs-not-likely-to-slow-down-global-hawk
   title: Soaring Costs Not Likely to Slow Down Global Hawk
-  publisher: National Defense Magazine
   date: '2006-05-01'
   tier: 2
+  outlet: National Defense Magazine
 - url: https://www.flightglobal.com/northrop-and-usaf-hit-back-at-critics-of-rq-4-global-hawk-uav-costs/67258.article
   title: Northrop and USAF hit back at critics of RQ-4 Global Hawk UAV costs
-  publisher: Flight Global
   date: '2013-03-15'
   tier: 2
+  outlet: Flight Global
 ---
 
 Northrop Grumman's RQ-4 Global Hawk surveillance drone program experienced massive cost escalation, with per-unit costs exploding from an initial $60.9 million in 2001 to $222.7 million per aircraft (including development costs) by 2013—a nearly four-fold increase that forced the Air Force to slash planned procurement from 63 aircraft to just 45. The program's total cost surged from an original March 2001 estimate of $5.394 billion to $6.281 billion by December 2003, representing a $900 million increase, with development expenses alone increasing almost threefold from $906.2 million to approximately $2.6 billion.

@@ -4,33 +4,33 @@ title: Humana Pays $90 Million to Settle First-of-Its-Kind Medicare Part D Fraud
 date: '2024-08-16'
 importance: 8
 actors:
-  - Humana
-  - Centers for Medicare & Medicaid Services
-  - Department of Justice
-  - Steven Scott (whistleblower)
+- Humana
+- Centers for Medicare & Medicaid Services
+- Department of Justice
+- Steven Scott (whistleblower)
 tags:
-  - healthcare
-  - medicare-advantage
-  - insurance-fraud
-  - systematic-corruption
-  - whistleblower
+- healthcare
+- medicare-advantage
+- insurance-fraud
+- systematic-corruption
+- whistleblower
 status: confirmed
 sources:
-  - title: Humana Settles for $90 Million Groundbreaking False Claims Act Case Alleging Medicare Part D Prescription Drug Program Fraud
-    url: https://www.phillipsandcohen.com/humana-settles-for-90-million/
-    publisher: Phillips & Cohen LLP
-    date: '2024-08-16'
-    tier: 2
-  - title: Humana pays $90M to settle whistleblower allegations of Medicare Part D fraud
-    url: https://www.healthcaredive.com/news/humana-90m-settlement-medicare-part-d-fraud/724624/
-    publisher: Healthcare Dive
-    date: '2024-08-16'
-    tier: 2
-  - title: Humana Will Pay $90 Million in Medicare Drug Fraud Settlement
-    url: https://news.bloomberglaw.com/federal-contracting/humana-will-pay-90-million-in-medicare-drug-fraud-settlement
-    publisher: Bloomberg Law
-    date: '2024-08-16'
-    tier: 1
+- title: Humana Settles for $90 Million Groundbreaking False Claims Act Case Alleging Medicare Part D Prescription Drug Program Fraud
+  url: https://www.phillipsandcohen.com/humana-settles-for-90-million/
+  date: '2024-08-16'
+  tier: 2
+  outlet: Phillips & Cohen LLP
+- title: Humana pays $90M to settle whistleblower allegations of Medicare Part D fraud
+  url: https://www.healthcaredive.com/news/humana-90m-settlement-medicare-part-d-fraud/724624/
+  date: '2024-08-16'
+  tier: 2
+  outlet: Healthcare Dive
+- title: Humana Will Pay $90 Million in Medicare Drug Fraud Settlement
+  url: https://news.bloomberglaw.com/federal-contracting/humana-will-pay-90-million-in-medicare-drug-fraud-settlement
+  date: '2024-08-16'
+  tier: 1
+  outlet: Bloomberg Law
 ---
 
 On August 16, 2024, Humana agreed to pay $90 million to settle the first whistleblower lawsuit alleging systematic fraud in Medicare Part D prescription drug program bidding. The case exposed how Humana maintained "two sets of books"—submitting false financial projections to the Centers for Medicare & Medicaid Services (CMS) to win lucrative contracts while internally projecting that patients would pay far more than disclosed. This groundbreaking settlement revealed systematic fraud in the Medicare Part D contracting process, with insurance companies deliberately misrepresenting their bids to secure government contracts while planning to shift costs onto beneficiaries.

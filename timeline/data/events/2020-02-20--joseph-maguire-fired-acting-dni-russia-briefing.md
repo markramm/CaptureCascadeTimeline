@@ -4,40 +4,40 @@ date: '2020-02-20'
 title: Trump Fires Acting DNI Joseph Maguire After Intelligence Briefing That Russia Prefers Trump in 2020
 importance: 9
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - Intelligence Community
-  - Russia
-  - Election Security
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- intelligence community
+- russia
+- election security
 actors:
-  - Joseph Maguire
-  - Donald Trump
-  - Shelby Pierson
-  - Richard Grenell
-  - Adam Schiff
+- Joseph Maguire
+- Donald Trump
+- Shelby Pierson
+- Richard Grenell
+- Adam Schiff
 sources:
-  - title: After a congressional briefing on election threats, Trump soured on acting spy chief
-    url: https://www.washingtonpost.com/national-security/after-a-congressional-briefing-on-election-threats-trump-soured-on-acting-spy-chief/2020/02/20/1ed2b4ec-53f1-11ea-b119-4faabac6674f_story.html
-    publisher: Washington Post
-    date: '2020-02-20'
-    tier: 1
-  - title: Trump angry after House briefed on Russia meddling in 2020 election on his behalf
-    url: https://www.nbcnews.com/politics/national-security/trump-anger-cost-joseph-maguire-job-director-national-intelligence-n1140086
-    publisher: NBC News
-    date: '2020-02-21'
-    tier: 1
-  - title: Why President Donald Trump Fired Joseph Maguire
-    url: https://time.com/5788479/trump-fires-maguire/
-    publisher: TIME
-    date: '2020-02-21'
-    tier: 1
-  - title: Richard Grenell Named As Acting Director Of National Intelligence
-    url: https://www.npr.org/2020/02/20/807644469/white-house-appoints-outspoken-ambassador-as-new-acting-head-of-intelligence
-    publisher: NPR
-    date: '2020-02-20'
-    tier: 1
+- title: After a congressional briefing on election threats, Trump soured on acting spy chief
+  url: https://www.washingtonpost.com/national-security/after-a-congressional-briefing-on-election-threats-trump-soured-on-acting-spy-chief/2020/02/20/1ed2b4ec-53f1-11ea-b119-4faabac6674f_story.html
+  date: '2020-02-20'
+  tier: 1
+  outlet: The Washington Post
+- title: Trump angry after House briefed on Russia meddling in 2020 election on his behalf
+  url: https://www.nbcnews.com/politics/national-security/trump-anger-cost-joseph-maguire-job-director-national-intelligence-n1140086
+  date: '2020-02-21'
+  tier: 1
+  outlet: NBC News
+- title: Why President Donald Trump Fired Joseph Maguire
+  url: https://time.com/5788479/trump-fires-maguire/
+  date: '2020-02-21'
+  tier: 1
+  outlet: TIME
+- title: Richard Grenell Named As Acting Director Of National Intelligence
+  url: https://www.npr.org/2020/02/20/807644469/white-house-appoints-outspoken-ambassador-as-new-acting-head-of-intelligence
+  date: '2020-02-20'
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

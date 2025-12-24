@@ -4,7 +4,7 @@ date: '2021-01-06'
 title: At Least Six CNP Members Coordinate January 6 Rally - Conservative Network's Role in Insurrection
 importance: 10
 tags:
-- CNP
+- cnp
 - conservative-movement
 - january-6
 - coordination
@@ -20,12 +20,12 @@ actors:
 - Tea Party Patriots
 - Turning Point USA
 sources:
-- title: 'Council for National Policy - Insurrection Exposed'
+- title: Council for National Policy - Insurrection Exposed
   url: https://insurrectionexposed.org/council-for-national-policy/
   publication: Insurrection Exposed
   date: '2021-01-15'
   tier: 2
-- title: 'Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol'
+- title: Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol
   url: https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/
   publication: Center for Media and Democracy
   date: '2021-01-08'

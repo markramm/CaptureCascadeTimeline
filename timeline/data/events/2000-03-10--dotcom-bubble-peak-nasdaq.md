@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Investment Banks
 - Securities Analysts
-- SEC
+- Securities and Exchange Commission (SEC)
 - NASDAQ
 - Venture Capitalists
 - Tech Startups

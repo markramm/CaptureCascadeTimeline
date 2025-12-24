@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://techcrunch.com/2025/02/20/ceo-of-clearview-ai-a-controversial-facial-recognition-startup-has-resigned/
   title: CEO of Clearview AI, a controversial facial recognition startup, has resigned
-  publisher: TechCrunch
   date: '2025-02-20'
   tier: 2
+  outlet: TechCrunch
 - url: https://peopleofcolorintech.com/articles/clearview-ai-ceo-resigns-controversial-facial-recognition-company-eyes-trump-opportunities/
   title: Clearview AI CEO Resigns - Controversial Facial Recognition Company Eyes Trump "Opportunities"
-  publisher: People of Color in Tech
   date: '2025-02-20'
   tier: 3
+  outlet: People of Color in Tech
 - url: https://www.theregister.com/2025/04/09/clearview_founder_exceo_ousted/
   title: Clearview founder ousted from board after shareholder vote
-  publisher: The Register
   date: '2025-04-09'
   tier: 2
+  outlet: The Register
 actors:
 - Hoan Ton-That
 - Clearview AI

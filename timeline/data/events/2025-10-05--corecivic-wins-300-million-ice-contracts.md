@@ -5,20 +5,20 @@ title: Private Prison Company CoreCivic Secures $300 Million in New ICE Contract
 importance: 7
 actors:
 - CoreCivic
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Trump Administration
 - Congress
 sources:
 - title: Private Prison Company Will Rake In $300 Million From New ICE Contracts
   url: https://www.notus.org/immigration/corecivic-immigrant-detention-contracts-california-kansas-oklahoma
-  publisher: NOTUS
   date: '2025-10-05'
   tier: 1
+  outlet: NOTUS
 - title: CoreCivic Announces Four New Contract Modifications
   url: https://ir.corecivic.com/news-releases/news-release-details/corecivic-announces-four-new-contract-modifications-add-capacity
-  publisher: CoreCivic
   date: '2025-10-05'
   tier: 3
+  outlet: CoreCivic
 tags:
 - systematic-corruption
 - crony-capitalism

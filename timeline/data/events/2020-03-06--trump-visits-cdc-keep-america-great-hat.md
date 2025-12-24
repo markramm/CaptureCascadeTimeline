@@ -4,33 +4,33 @@ date: '2020-03-06'
 title: Trump Wears "Keep America Great" Campaign Hat During CDC Visit, Makes False Testing Claims
 importance: 7
 tags:
-  - COVID-19
-  - Public Health
-  - Hatch Act
-  - Disinformation
-  - Accountability Crisis
+- covid-19
+- public health
+- hatch act
+- disinformation
+- accountability crisis
 actors:
-  - Donald Trump
-  - Robert Redfield
-  - Alex Azar
-  - Mike Pence
-  - Jay Inslee
+- Donald Trump
+- Robert Redfield
+- Alex Azar
+- Mike Pence
+- Jay Inslee
 sources:
-  - title: Trump's CDC visit turns into scattershot defense on virus
-    url: https://wtop.com/government/2020/03/president-trump-calls-off-planned-trip-to-cdc-in-atlanta/
-    publisher: WTOP News (Associated Press)
-    date: '2020-03-06'
-    tier: 1
-  - title: 7 disturbing moments from Trump's visit to the CDC
-    url: https://www.salon.com/2020/03/07/7-disturbing-moments-from-trumps-visit-to-the-cdc_partner/
-    publisher: Salon
-    date: '2020-03-07'
-    tier: 2
-  - title: Trump to visit CDC as coronavirus cases, deaths rise in US
-    url: https://nbcwashington.com/news/health/trump-to-visit-cdc-as-coronavirus-cases-deaths-rise-in-us/2233231
-    publisher: NBC Washington (NBC News)
-    date: '2020-03-06'
-    tier: 1
+- title: Trump's CDC visit turns into scattershot defense on virus
+  url: https://wtop.com/government/2020/03/president-trump-calls-off-planned-trip-to-cdc-in-atlanta/
+  date: '2020-03-06'
+  tier: 1
+  outlet: WTOP News (Associated Press)
+- title: 7 disturbing moments from Trump's visit to the CDC
+  url: https://www.salon.com/2020/03/07/7-disturbing-moments-from-trumps-visit-to-the-cdc_partner/
+  date: '2020-03-07'
+  tier: 2
+  outlet: Salon
+- title: Trump to visit CDC as coronavirus cases, deaths rise in US
+  url: https://nbcwashington.com/news/health/trump-to-visit-cdc-as-coronavirus-cases-deaths-rise-in-us/2233231
+  date: '2020-03-06'
+  tier: 1
+  outlet: NBC Washington (NBC News)
 status: confirmed
 ---
 

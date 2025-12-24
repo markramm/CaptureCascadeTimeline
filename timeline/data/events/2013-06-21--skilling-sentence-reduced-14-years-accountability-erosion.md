@@ -4,31 +4,31 @@ date: 2013-06-21
 title: Skilling Sentence Reduced to 14 Years, Marking Accountability Erosion
 importance: 9
 tags:
-  - corporate-fraud
-  - enron
-  - criminal-prosecution
-  - accountability-erosion
-  - legal-outcome
+- corporate-fraud
+- enron
+- criminal-prosecution
+- accountability-erosion
+- legal-outcome
 actors:
-  - Jeffrey Skilling
-  - Department of Justice
-  - Sim Lake
+- Jeffrey Skilling
+- Department of Justice
+- Sim Lake
 sources:
-  - url: https://www.bloomberg.com/news/articles/2013-06-21/enron-s-skilling-sentence-reduced-to-14-years-by-judge
-    title: "Enron's Skilling to Leave Prison in 2017 as Sentence Cut"
-    publisher: Bloomberg
-    date: 2013-06-21
-    tier: 1
-  - url: https://www.nbcnews.com/business/business-news/former-enron-ceo-jeffrey-skilling-gets-prison-sentence-cut-flna6c10412326
-    title: "Former Enron CEO Jeffrey Skilling gets prison sentence cut"
-    publisher: NBC News
-    date: 2013-06-21
-    tier: 1
-  - url: https://www.denverpost.com/2013/06/21/prison-sentence-of-ex-enron-ceo-jeffrey-skilling-reduced-by-10-years/
-    title: "Prison sentence of Ex-Enron CEO Jeffrey Skilling reduced by 10 years"
-    publisher: Denver Post
-    date: 2013-06-21
-    tier: 2
+- url: https://www.bloomberg.com/news/articles/2013-06-21/enron-s-skilling-sentence-reduced-to-14-years-by-judge
+  title: Enron's Skilling to Leave Prison in 2017 as Sentence Cut
+  date: 2013-06-21
+  tier: 1
+  outlet: Bloomberg
+- url: https://www.nbcnews.com/business/business-news/former-enron-ceo-jeffrey-skilling-gets-prison-sentence-cut-flna6c10412326
+  title: Former Enron CEO Jeffrey Skilling gets prison sentence cut
+  date: 2013-06-21
+  tier: 1
+  outlet: NBC News
+- url: https://www.denverpost.com/2013/06/21/prison-sentence-of-ex-enron-ceo-jeffrey-skilling-reduced-by-10-years/
+  title: Prison sentence of Ex-Enron CEO Jeffrey Skilling reduced by 10 years
+  date: 2013-06-21
+  tier: 2
+  outlet: Denver Post
 ---
 
 On June 21, 2013, U.S. District Judge Sim Lake approved a deal reducing former Enron CEO Jeffrey Skilling's prison sentence from 24 years to 14 years—a 10-year reduction that symbolized the erosion of corporate accountability in the decade following the Enron prosecutions. The sentence reduction came five years after the 2008 financial crisis, during which no major Wall Street executives faced criminal prosecution despite fraud far exceeding Enron's scale.

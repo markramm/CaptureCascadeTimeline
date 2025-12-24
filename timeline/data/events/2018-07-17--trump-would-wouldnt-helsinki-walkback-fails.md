@@ -4,30 +4,30 @@ date: 2018-07-17
 title: Trump Claims He Misspoke "Would" Instead of "Wouldn't" in Implausible Helsinki Walkback Attempt
 importance: 8
 tags:
-  - russia
-  - trump
-  - helsinki
-  - election-interference
-  - intelligence-agencies
+- russia
+- trump
+- helsinki
+- election-interference
+- intelligence-agencies
 actors:
-  - Donald Trump
-  - Vladimir Putin
+- Donald Trump
+- Vladimir Putin
 sources:
-  - url: https://www.npr.org/2018/07/17/629896497/trump-attempts-to-soften-controversial-remarks-he-made-in-helsinki
-    title: "Trump Attempts To Soften Controversial Remarks He Made In Helsinki"
-    publisher: NPR
-    date: 2018-07-17
-    tier: 1
-  - url: https://www.pbs.org/newshour/show/can-trumps-reversal-soften-damage-of-helsinki-comments
-    title: "Can Trump's reversal soften damage of Helsinki comments?"
-    publisher: PBS
-    date: 2018-07-17
-    tier: 1
-  - url: https://www.politifact.com/article/2018/jul/17/trump-reverses-russian-election-interference/
-    title: "A walk in the woulds: Donald Trump reverses Helsinki comments on Russian election interference"
-    publisher: PolitiFact
-    date: 2018-07-17
-    tier: 1
+- url: https://www.npr.org/2018/07/17/629896497/trump-attempts-to-soften-controversial-remarks-he-made-in-helsinki
+  title: Trump Attempts To Soften Controversial Remarks He Made In Helsinki
+  date: 2018-07-17
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/show/can-trumps-reversal-soften-damage-of-helsinki-comments
+  title: Can Trump's reversal soften damage of Helsinki comments?
+  date: 2018-07-17
+  tier: 1
+  outlet: PBS
+- url: https://www.politifact.com/article/2018/jul/17/trump-reverses-russian-election-interference/
+  title: 'A walk in the woulds: Donald Trump reverses Helsinki comments on Russian election interference'
+  date: 2018-07-17
+  tier: 1
+  outlet: PolitiFact
 ---
 
 One day after facing fierce bipartisan condemnation for siding with Vladimir Putin over U.S. intelligence agencies, President Donald Trump attempted damage control with an implausible claim that he had simply misspoken a single word during the Helsinki press conference. The walkback was widely mocked as unconvincing and failed to repair the damage from what Senator John McCain had called "one of the most disgraceful performances by an American president in memory."

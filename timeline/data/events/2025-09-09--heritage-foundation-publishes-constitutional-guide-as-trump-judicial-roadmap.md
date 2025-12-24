@@ -1,8 +1,7 @@
 ---
 id: 2025-09-09--heritage-foundation-publishes-constitutional-guide-as-trump-judicial-roadmap
 date: '2025-09-09'
-title: Heritage Foundation Publishes 800-Page Constitutional Guide as Trump's Judicial
-  Roadmap
+title: Heritage Foundation Publishes 800-Page Constitutional Guide as Trump's Judicial Roadmap
 importance: 8
 tags:
 - judicial-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.nytimes.com/2025/09/09/us/politics/heritage-foundation-constitution-guide-alito.html
   title: Heritage Foundation Releases Originalist Constitutional Manifesto
-  publisher: New York Times
   date: '2025-09-09'
   tier: 1
+  outlet: The New York Times
 actors:
 - Heritage Foundation
 - Justice Samuel Alito

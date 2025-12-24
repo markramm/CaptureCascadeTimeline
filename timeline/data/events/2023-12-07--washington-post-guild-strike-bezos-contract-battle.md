@@ -4,31 +4,31 @@ date: 2023-12-07
 title: Washington Post Workers Strike Against Bezos—First Walkout in Nearly 50 Years Over Job Cuts and Stalled Negotiations
 importance: 8
 tags:
-  - media-capture
-  - labor-suppression
-  - billionaire-control
-  - worker-organizing
+- media-capture
+- labor-suppression
+- billionaire-control
+- worker-organizing
 actors:
-  - Washington Post Guild
-  - Jeff Bezos
-  - Patty Stonesifer
-  - Washington Post
+- Washington Post Guild
+- Jeff Bezos
+- Patty Stonesifer
+- Washington Post
 sources:
-  - url: https://www.npr.org/2023/12/07/1217690720/washington-post-workers-strike
-    title: "'Washington Post' journalists stage daylong strike under threat of job cuts"
-    publisher: NPR
-    date: 2023-12-07
-    tier: 1
-  - url: https://www.commondreams.org/news/washington-post-strike
-    title: Washington Post Workers Plan Strike to Pressure Bezos on Contract
-    publisher: Common Dreams
-    date: 2023-12-06
-    tier: 2
-  - url: https://www.cnn.com/2023/12/06/business/washington-post-24-hour-strike/index.html
-    title: The Washington Post braces for historic 24-hour strike as journalists protest staff cuts and contract frustrations
-    publisher: CNN
-    date: 2023-12-06
-    tier: 2
+- url: https://www.npr.org/2023/12/07/1217690720/washington-post-workers-strike
+  title: '''Washington Post'' journalists stage daylong strike under threat of job cuts'
+  date: 2023-12-07
+  tier: 1
+  outlet: NPR
+- url: https://www.commondreams.org/news/washington-post-strike
+  title: Washington Post Workers Plan Strike to Pressure Bezos on Contract
+  date: 2023-12-06
+  tier: 2
+  outlet: Common Dreams
+- url: https://www.cnn.com/2023/12/06/business/washington-post-24-hour-strike/index.html
+  title: The Washington Post braces for historic 24-hour strike as journalists protest staff cuts and contract frustrations
+  date: 2023-12-06
+  tier: 2
+  outlet: CNN
 ---
 
 More than 750 Washington Post journalists and staff members staged a one-day strike on December 7, 2023—the first work stoppage at the paper in nearly 50 years—to protest stalled contract negotiations, planned layoffs of 240 workers, and management's refusal to bargain in good faith. The strike highlighted the fundamental contradiction of billionaire Jeff Bezos owning a major newspaper: workers at the Post faced job cuts and wage stagnation while Bezos—worth over $150 billion—controlled the institution that proclaimed "Democracy Dies in Darkness" and positioned itself as a defender of workers and accountability.

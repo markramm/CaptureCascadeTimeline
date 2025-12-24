@@ -25,7 +25,7 @@ capture_lanes:
 sources:
 - title: Libby Guilty of Lying in C.I.A. Leak Case
   url: https://www.nytimes.com/2007/03/07/washington/07libby.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2007-03-06'
   verified: true
   key_facts_confirmed:
@@ -34,26 +34,19 @@ sources:
   - Highest White House official convicted since Iran-Contra
 - title: Libby Convicted of Perjury, Obstruction in CIA Leak Case
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/03/06/AR2007030600882.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-03-06'
   verified: true
 - title: Bush Commutes Libby's Prison Sentence
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/07/02/AR2007070201741.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-07-02'
   verified: true
   key_facts_confirmed:
   - Sentenced June 5, 2007 to 30 months prison, $250,000 fine
   - Bush commuted prison sentence July 2, 2007
   - Conviction remained intact
-notes: The trial revealed extensive evidence of Cheney's role in authorizing the leak
-  of Plame's identity to discredit her husband Joseph Wilson, who had criticized the
-  Bush administration's claims about Iraqi WMD. Fitzgerald called Libby's obstruction
-  a 'sand cloud' that prevented full investigation of higher-level involvement. The
-  case demonstrated how the Bush administration weaponized classified information
-  against critics. Cheney's anger over the lack of a full pardon created lasting tension
-  with Bush. The conviction highlighted the administration's willingness to compromise
-  national security assets to protect political narratives about the Iraq War.
+notes: The trial revealed extensive evidence of Cheney's role in authorizing the leak of Plame's identity to discredit her husband Joseph Wilson, who had criticized the Bush administration's claims about Iraqi WMD. Fitzgerald called Libby's obstruction a 'sand cloud' that prevented full investigation of higher-level involvement. The case demonstrated how the Bush administration weaponized classified information against critics. Cheney's anger over the lack of a full pardon created lasting tension with Bush. The conviction highlighted the administration's willingness to compromise national security assets to protect political narratives about the Iraq War.
 status: confirmed
 ---
 

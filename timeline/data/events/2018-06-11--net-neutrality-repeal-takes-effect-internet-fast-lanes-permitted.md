@@ -4,7 +4,7 @@ date: '2018-06-11'
 title: Net Neutrality Repeal Officially Takes Effect, Permitting ISPs to Throttle, Block, and Prioritize Content for Payment
 importance: 9
 actors:
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Ajit Pai
 - Comcast Corporation
 - Verizon Communications
@@ -23,12 +23,12 @@ sources:
   outlet: CNN
   date: '2018-06-11'
   tier: 2
-- title: 'Net Neutrality Has Been Rolled Back — But It Not Dead Yet'
+- title: Net Neutrality Has Been Rolled Back — But It Not Dead Yet
   url: https://www.npr.org/2018/06/11/618928905/net-neutrality-has-been-rolled-back-but-its-not-dead-yet
   outlet: NPR
   date: '2018-06-11'
   tier: 1
-- title: 'Repeal Of Net Neutrality Protections Officially Takes Effect'
+- title: Repeal Of Net Neutrality Protections Officially Takes Effect
   url: https://miami.cbslocal.com/2018/06/11/repeal-net-neutrality-takes-effect/
   outlet: CBS
   date: '2018-06-11'

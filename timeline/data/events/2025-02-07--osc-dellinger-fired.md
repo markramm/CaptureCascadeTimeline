@@ -5,10 +5,10 @@ date: '2025-02-07'
 importance: 6
 actors:
 - Donald Trump
-- Hampton Dellinger (Special Counsel)
+- Hampton Dellinger
 - Office of Special Counsel (OSC)
 - Judge Amy Berman Jackson
-- U.S. Senate (confirmed Dellinger 2024)
+- U.S. Senate
 tags:
 - courts
 - personnel
@@ -22,10 +22,7 @@ capture_lanes:
 citations:
 - https://www.supremecourt.gov/DocketPDF/24/24A790/343020/20250218140003661_Dellinger%20-%20SCOTUS%20Opposition.pdf
 - https://www.scotusblog.com/2025/02/trump-asks-court-to-allow-firing-of-watchdog-agency-official
-notes: Dellinger was confirmed by the Senate in 2024 for a 5-year term. His firing
-  was part of Trump's broader purge of watchdogs, including 15 inspectors general
-  fired 5 days after inauguration. Dellinger eventually dropped his lawsuit in March
-  2025 after an appeals court allowed his removal while the case proceeded.
+notes: Dellinger was confirmed by the Senate in 2024 for a 5-year term. His firing was part of Trump's broader purge of watchdogs, including 15 inspectors general fired 5 days after inauguration. Dellinger eventually dropped his lawsuit in March 2025 after an appeals court allowed his removal while the case proceeded.
 status: confirmed
 sources:
 - title: Head of federal whistleblower agency sues Trump over firing

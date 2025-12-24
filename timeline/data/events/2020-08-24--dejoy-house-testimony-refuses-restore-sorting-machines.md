@@ -4,39 +4,39 @@ date: 2020-08-24
 title: DeJoy House Testimony Refuses to Restore Mail Sorting Machines Despite Court Concerns
 importance: 9
 tags:
-  - Election Interference
-  - USPS
-  - Postal Service
-  - Congressional Oversight
-  - DeJoy
-  - Mail Voting
+- election interference
+- usps
+- postal service
+- congressional oversight
+- dejoy
+- mail voting
 actors:
-  - Louis DeJoy
-  - Carolyn Maloney
-  - Ro Khanna
-  - Harley Rouda
-  - USPS
+- Louis DeJoy
+- Carolyn Maloney
+- Ro Khanna
+- Harley Rouda
+- USPS
 sources:
-  - url: https://www.c-span.org/video/?474917-1/house-oversight-commttee-hearing-postal-service-operations-mail-voting
-    title: House Oversight Committee Hearing on Postal Service Operations and Mail-In Voting
-    publisher: C-SPAN
-    date: 2020-08-24
-    tier: 1
-  - url: https://www.npr.org/2020/08/24/904435736/watch-postmaster-general-dejoy-testifies-in-house-oversight-hearing
-    title: Louis DeJoy Testimony On Post Office, Mail-In Voting
-    publisher: NPR
-    date: 2020-08-24
-    tier: 1
-  - url: https://www.nbcnews.com/politics/2020-election/postmaster-general-dejoy-field-tough-questions-house-mail-delays-n1237830
-    title: Postmaster General DeJoy denies political influence as House questions mail delays
-    publisher: NBC News
-    date: 2020-08-24
-    tier: 1
-  - url: https://www.cnn.com/2020/08/24/politics/louis-dejoy-testifies-congress/index.html
-    title: Louis DeJoy defends USPS changes as Democrats attack 'disaster' facing mail delivery
-    publisher: CNN
-    date: 2020-08-24
-    tier: 1
+- url: https://www.c-span.org/video/?474917-1/house-oversight-commttee-hearing-postal-service-operations-mail-voting
+  title: House Oversight Committee Hearing on Postal Service Operations and Mail-In Voting
+  date: 2020-08-24
+  tier: 1
+  outlet: C-SPAN
+- url: https://www.npr.org/2020/08/24/904435736/watch-postmaster-general-dejoy-testifies-in-house-oversight-hearing
+  title: Louis DeJoy Testimony On Post Office, Mail-In Voting
+  date: 2020-08-24
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/politics/2020-election/postmaster-general-dejoy-field-tough-questions-house-mail-delays-n1237830
+  title: Postmaster General DeJoy denies political influence as House questions mail delays
+  date: 2020-08-24
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnn.com/2020/08/24/politics/louis-dejoy-testifies-congress/index.html
+  title: Louis DeJoy defends USPS changes as Democrats attack 'disaster' facing mail delivery
+  date: 2020-08-24
+  tier: 1
+  outlet: CNN
 ---
 
 Postmaster General Louis DeJoy testified before the House Oversight and Reform Committee in a contentious marathon hearing where he repeatedly refused to restore mail sorting machines that had been removed or disconnected under his leadership, despite widespread mail delays and concerns about the upcoming election. DeJoy denied that policies he implemented led to current mail delays and engaged in heated exchanges with multiple representatives over the removal of 671 high-speed mail sorting machines capable of processing 21.4 million pieces per hour.

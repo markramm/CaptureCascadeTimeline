@@ -19,19 +19,19 @@ tags:
 sources:
 - url: https://www.law.com/2025/10/10/senate-confirms-jennifer-mascott-to-3rd-circuit/
   title: Senate Confirms Jennifer Mascott to 3rd Circuit
-  publisher: Law.com
   date: '2025-10-10'
   tier: 2
+  outlet: Law.com
 - url: https://www.courthousenews.com/senate-confirms-third-circuit-nominee-mascott-despite-shutdown-stall/
   title: Senate confirms Third Circuit nominee Mascott despite shutdown stall
-  publisher: Courthouse News Service
   date: '2025-10-09'
   tier: 2
+  outlet: Courthouse News Service
 - url: https://news.bloomberglaw.com/us-law-week/trump-white-house-lawyer-professor-confirmed-to-third-circuit
   title: Trump White House Lawyer, Professor Confirmed to Third Circuit
-  publisher: Bloomberg Law
   date: '2025-10-09'
   tier: 2
+  outlet: Bloomberg Law
 ---
 
 The Senate confirmed Jennifer Mascott to the U.S. Court of Appeals for the Third Circuit by a vote of 50-47, marking Trump's second appointee to this circuit in his second term. Mascott, a Catholic University law professor and former Trump White House lawyer, founded the Separation of Powers Institute at Catholic Law and previously clerked for conservative Justices Clarence Thomas and Brett Kavanaugh.

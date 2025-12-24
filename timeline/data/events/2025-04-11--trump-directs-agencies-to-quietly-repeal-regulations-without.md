@@ -7,7 +7,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Lee Zeldin
-- Office of Information and Regulatory Affairs
+- Office of Information and Regulatory Affairs (OIRA)
 tags:
 - kleptocracy
 - trump-administration

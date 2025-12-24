@@ -11,9 +11,9 @@ actors:
 sources:
 - title: FBI Fires 2 Special Agents Who Worked on Jack Smith Probe
   url: https://thehill.com/policy/national-security/5561234-fbi-fires-agents-january-6-probe/
-  publisher: The Hill
   date: '2025-10-09'
   tier: 2
+  outlet: The Hill
 tags:
 - institutional-capture
 - fbi-weaponization

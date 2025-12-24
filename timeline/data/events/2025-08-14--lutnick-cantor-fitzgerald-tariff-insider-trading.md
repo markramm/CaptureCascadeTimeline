@@ -15,21 +15,20 @@ tags:
 - insider-trading
 sources:
 - url: https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets
-  title: Wyden, Warren Probe Lutnick Firm's Potential Conflicts of Interest Related
-    to Massive Tariff Bets
-  publisher: Senate Finance Committee
+  title: Wyden, Warren Probe Lutnick Firm's Potential Conflicts of Interest Related to Massive Tariff Bets
   date: '2025-08-14'
   tier: 1
+  outlet: Senate Finance Committee
 - url: https://thehill.com/homenews/senate/5452027-wyden-warren-cantor-tariffs/
   title: Democrats warn Cantor Fitzgerald about tariff-related trades
-  publisher: The Hill
   date: '2025-08-14'
   tier: 2
+  outlet: The Hill
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-207
   title: 'Trump Tyranny Tracker: Day 207'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-20'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Senate Democrats flagged Commerce Secretary Howard Lutnick's firm Cantor Fitzgerald for creating financial products allowing clients to bet on Supreme Court tariff rulings, raising insider dealing concerns. Lutnick, a top tariff negotiator, is father of Cantor Fitzgerald CEO Brandon Lutnick.

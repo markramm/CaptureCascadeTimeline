@@ -4,7 +4,7 @@ date: '1997-07-02'
 title: Thai Baht Collapse Triggers Systemic Southeast Asian Economic Crisis
 actors:
 - Thai Government
-- International Monetary Fund (IMF)
+- International Monetary Fund
 - World Bank
 - McKinsey & Company
 - Asian Development Bank

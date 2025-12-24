@@ -25,7 +25,7 @@ status: confirmed
 sources:
 - title: Trump and Justice Dept. Lawyer Said to Have Plotted to Oust Acting AG
   url: https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2021-01-22'
 - title: Jeffrey Clark charged in Georgia election case
   url: https://www.cnn.com/2023/08/14/politics/jeffrey-clark-charged-georgia/index.html
@@ -33,10 +33,9 @@ sources:
   date: '2023-08-14'
 - title: Jan. 6 committee details Trump plan to install Jeffrey Clark
   url: https://www.washingtonpost.com/national-security/2022/06/23/jeffrey-clark-jan-6-committee/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2022-06-23'
-- title: Trump wanted to install loyalist as acting attorney general to help overturn
-    election results
+- title: Trump wanted to install loyalist as acting attorney general to help overturn election results
   url: https://www.nytimes.com/2021/01/22/us/politics/jeffrey-clark-trump-justice-department-election.html
   outlet: The New York Times
   date: '2021-01-22'

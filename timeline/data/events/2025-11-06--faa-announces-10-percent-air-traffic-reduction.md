@@ -18,15 +18,14 @@ actors:
 sources:
 - title: November 6, 2025 – Government shutdown and Trump administration news
   url: https://www.cnn.com/politics/live-news/trump-government-shutdown-faa-11-6-25
-  publisher: CNN
   date: '2025-11-06'
   tier: 1
-- title: Government shutdown prompts FAA to float flight cancellations as Senate talks
-    continue
+  outlet: CNN
+- title: Government shutdown prompts FAA to float flight cancellations as Senate talks continue
   url: https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-senate-republicans-longest-impasse-in-history/
-  publisher: CBS News
   date: '2025-11-06'
   tier: 1
+  outlet: CBS News
 ---
 
 Transportation Secretary Sean Duffy announced on November 6, 2025, that the Federal Aviation Administration would implement a 10% reduction in U.S. air traffic across 40 airports in the coming days due to severe air traffic controller shortages caused by the ongoing government shutdown. The unprecedented measure came as air traffic controllers entered their sixth week working without pay, with many receiving another $0 paycheck while working 60-hour weeks, six days a week. A top air traffic controller union leader reported unprecedented resignation rates as controllers faced impossible choices between their critical safety responsibilities and their families' financial survival.

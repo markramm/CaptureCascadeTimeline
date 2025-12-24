@@ -1,7 +1,7 @@
 ---
 id: 2024-01-01--union-membership-collapses-to-9-9-percent-historic-low
 date: '2024-01-01'
-title: 'Union Membership Collapses to 9.9%, Completing 70-Year Labor Destruction Campaign'
+title: Union Membership Collapses to 9.9%, Completing 70-Year Labor Destruction Campaign
 importance: 9
 actors:
 - American workers
@@ -11,22 +11,22 @@ tags:
 - labor-suppression
 - union-decline
 - statistics
-- BLS
+- bls
 - union-membership
 sources:
-- title: 'Union Members Summary - 2024'
+- title: Union Members Summary - 2024
   url: https://www.bls.gov/news.release/union2.nr0.htm
   outlet: Bureau of Labor Statistics
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'Union Membership Decline Seen as Bad for US by Majorities'
+- title: Union Membership Decline Seen as Bad for US by Majorities
   url: https://www.pewresearch.org/short-reads/2025/08/27/majorities-of-adults-see-decline-of-union-membership-as-bad-for-the-us-and-working-people/
   outlet: Pew Research Center
   date: '2025-08-27'
   verified: true
   tier: 1
-- title: 'Union Membership in the United States Spotlight'
+- title: Union Membership in the United States Spotlight
   url: https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm
   outlet: Bureau of Labor Statistics
   date: '2016-01-01'

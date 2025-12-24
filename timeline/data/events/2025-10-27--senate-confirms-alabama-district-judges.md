@@ -10,21 +10,20 @@ id: 2025-10-27--senate-confirms-alabama-district-judges
 importance: 6
 sources:
 - date: '2025-10-21'
-  publisher: Senate.gov
   tier: 1
-  title: U.S. Senator Katie Britt Votes to Confirm Hal Mooty as District Judge for
-    Northern District of Alabama
+  title: U.S. Senator Katie Britt Votes to Confirm Hal Mooty as District Judge for Northern District of Alabama
   url: https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-votes-to-confirm-hal-mooty-as-district-judge-for-northern-district-of-alabama/
+  outlet: Senate.gov
 - date: '2025-10-22'
-  publisher: Alabama Political Reporter
   tier: 2
   title: Senate confirms Alabama lawyer Harold D. Mooty III for federal judgeship
   url: https://www.alreporter.com/2025/10/22/senate-confirms-alabama-lawyer-harold-d-mooty-iii-for-federal-judgeship/
+  outlet: Alabama Political Reporter
 - date: '2025-10-29'
-  publisher: Alabama Political Reporter
   tier: 2
   title: US Senate confirms Bill Lewis to serve as Alabama federal judge
   url: https://www.alreporter.com/2025/10/29/u-s-senate-confirms-bill-lewis-to-serve-as-alabama-federal-judge/
+  outlet: Alabama Political Reporter
 tags:
 - alabama
 - courts

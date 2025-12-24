@@ -7,7 +7,7 @@ location: United States
 actors:
 - Accenture Federal Services
 - Customs and Border Protection (CBP)
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - DHS Office of Inspector General
 - Trump Administration
 tags:
@@ -21,13 +21,11 @@ sources:
   outlet: The Washington Post
   date: '2019-01-31'
   archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
-- title: CBP terminates controversial $297 million Accenture contract amid continued
-    staffing struggles
+- title: CBP terminates controversial $297 million Accenture contract amid continued staffing struggles
   url: https://www.cnn.com/2019/04/05/politics/cbp-terminate-hiring-contract-accenture/index.html
   outlet: CNN
   date: '2019-04-05'
-- title: Trump Administration Cancels Contract That Failed to Bring on More Border
-    Agents
+- title: Trump Administration Cancels Contract That Failed to Bring on More Border Agents
   url: https://www.govexec.com/management/2019/04/trump-administration-cancels-contract-failed-bring-more-border-agents/156104/
   outlet: Government Executive
   date: '2019-04-08'
@@ -35,12 +33,7 @@ sources:
   url: https://federalnewsnetwork.com/contractsawards/2019/04/cbp-ends-accenture-hiring-contract-for-convenience/
   outlet: Federal News Network
   date: '2019-04-08'
-notes: Contract awarded Nov 2017 to meet Trump executive order for 7500 additional
-  CBP agents. By Oct 2018 - $13.6M paid for 2 accepted offers. By Dec 2018 - 22 hires
-  on payroll, 58 applicants processed. Total $21M paid, $19M for startup costs. DHS
-  IG 'management alert' stated 'Accenture has already taken longer to deploy and delivered
-  less capability than promised'. Accenture charged ~$40K per hire vs average officer
-  annual salary. Terminated 'for convenience' April 2019.
+notes: Contract awarded Nov 2017 to meet Trump executive order for 7500 additional CBP agents. By Oct 2018 - $13.6M paid for 2 accepted offers. By Dec 2018 - 22 hires on payroll, 58 applicants processed. Total $21M paid, $19M for startup costs. DHS IG 'management alert' stated 'Accenture has already taken longer to deploy and delivered less capability than promised'. Accenture charged ~$40K per hire vs average officer annual salary. Terminated 'for convenience' April 2019.
 status: confirmed
 capture_lanes:
 - Executive Power Expansion

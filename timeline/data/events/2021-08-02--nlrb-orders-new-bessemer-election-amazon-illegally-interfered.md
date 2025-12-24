@@ -4,32 +4,32 @@ date: 2021-08-02
 title: NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote
 importance: 9
 actors:
-  - National Labor Relations Board
-  - Amazon
-  - Retail, Wholesale and Department Store Union
+- National Labor Relations Board
+- Amazon
+- Retail, Wholesale and Department Store Union
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Labor Rights
-  - Corporate Accountability
-  - Legal Accountability
+- union organizing
+- worker exploitation
+- amazon
+- labor rights
+- corporate accountability
+- legal accountability
 sources:
-  - url: https://www.jurist.org/news/2021/08/nlrb-finds-amazon-interfered-with-bessemer-union-drive-recommends-new-election/
-    title: "NLRB finds Amazon interfered with Bessemer union drive, recommends new election"
-    publisher: JURIST
-    date: 2021-08-03
-    tier: 1
-  - url: https://www.nbcnews.com/tech/tech-news/amazon-violated-labor-law-alabama-union-election-labor-official-finds-rcna1582
-    title: "Amazon violated labor law in Alabama union election, labor official finds"
-    publisher: NBC News
-    date: 2021-08-02
-    tier: 1
-  - url: https://jacobin.com/2021/08/bessemer-alabama-union-drive-labor-law
-    title: "Alabama Amazon Workers Are Likely Getting a Second Shot at a Union"
-    publisher: Jacobin
-    date: 2021-08-04
-    tier: 2
+- url: https://www.jurist.org/news/2021/08/nlrb-finds-amazon-interfered-with-bessemer-union-drive-recommends-new-election/
+  title: NLRB finds Amazon interfered with Bessemer union drive, recommends new election
+  date: 2021-08-03
+  tier: 1
+  outlet: JURIST
+- url: https://www.nbcnews.com/tech/tech-news/amazon-violated-labor-law-alabama-union-election-labor-official-finds-rcna1582
+  title: Amazon violated labor law in Alabama union election, labor official finds
+  date: 2021-08-02
+  tier: 1
+  outlet: NBC News
+- url: https://jacobin.com/2021/08/bessemer-alabama-union-drive-labor-law
+  title: Alabama Amazon Workers Are Likely Getting a Second Shot at a Union
+  date: 2021-08-04
+  tier: 2
+  outlet: Jacobin
 status: confirmed
 ---
 

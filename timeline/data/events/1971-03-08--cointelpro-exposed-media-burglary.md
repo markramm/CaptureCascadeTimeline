@@ -4,31 +4,31 @@ date: 1971-03-08
 title: COINTELPRO Exposed - FBI's Secret War on Civil Rights and Dissent Revealed
 importance: 9
 actors:
-  - FBI
-  - J. Edgar Hoover
-  - Citizens' Commission to Investigate the FBI
+- FBI
+- J. Edgar Hoover
+- Citizens' Commission to Investigate the FBI
 tags:
-  - fbi-abuse
-  - cointelpro
-  - civil-rights
-  - surveillance
-  - domestic-spying
+- fbi-abuse
+- cointelpro
+- civil-rights
+- surveillance
+- domestic-spying
 sources:
-  - url: https://blackpast.org/african-american-history/cointelpro-1956-1976/
-    title: COINTELPRO (1956-1976)
-    publisher: BlackPast.org
-    date: 1971-03-08
-    tier: 1
-  - url: https://www.eff.org/deeplinks/2014/02/history-surveillance-and-black-community
-    title: The History of Surveillance and the Black Community
-    publisher: Electronic Frontier Foundation
-    date: 2014-02-13
-    tier: 1
-  - url: https://www.lib.berkeley.edu/about/news/fbi
-    title: FBI Records Reveal Violent Surveillance of Black Leaders
-    publisher: UC Berkeley Library
-    date: 2021-06-01
-    tier: 1
+- url: https://blackpast.org/african-american-history/cointelpro-1956-1976/
+  title: COINTELPRO (1956-1976)
+  date: 1971-03-08
+  tier: 1
+  outlet: BlackPast.org
+- url: https://www.eff.org/deeplinks/2014/02/history-surveillance-and-black-community
+  title: The History of Surveillance and the Black Community
+  date: 2014-02-13
+  tier: 1
+  outlet: Electronic Frontier Foundation
+- url: https://www.lib.berkeley.edu/about/news/fbi
+  title: FBI Records Reveal Violent Surveillance of Black Leaders
+  date: 2021-06-01
+  tier: 1
+  outlet: UC Berkeley Library
 ---
 
 The Citizens' Commission to Investigate the FBI burglarized an FBI office in Media, Pennsylvania, and stole classified documents that exposed COINTELPRO—the FBI's covert and illegal program to surveil, infiltrate, discredit, and disrupt American civil rights organizations and political activists. The revelations documented a systematic 15-year campaign of domestic political repression.

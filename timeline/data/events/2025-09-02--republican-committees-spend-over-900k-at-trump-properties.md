@@ -1,8 +1,7 @@
 ---
 id: 2025-09-02--republican-committees-spend-over-900k-at-trump-properties
 date: '2025-09-02'
-title: Republican Political Committees Spend Over $931,000 at Trump Properties Since
-  Inauguration
+title: Republican Political Committees Spend Over $931,000 at Trump Properties Since Inauguration
 importance: 8
 tags:
 - corruption
@@ -12,14 +11,14 @@ tags:
 sources:
 - url: https://www.citizensforethics.org/reports-investigations/crew-reports/political-spending-tops-900k-at-trump-properties-since-inauguration/
   title: Political spending tops $900K at Trump properties since inauguration
-  publisher: CREW
   date: '2025-09-02'
   tier: 1
+  outlet: CREW
 - url: https://www.notus.org/money/republican-political-spending-trump-tower-properties-bedminster-mar-a-lago
   title: Republican Political Spending at Trump Properties Tops $1 Million in 2025
-  publisher: NOTUS
   date: '2025-09-02'
   tier: 2
+  outlet: NOTUS
 actors:
 - Donald Trump
 - Republican National Committee

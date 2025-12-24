@@ -12,26 +12,26 @@ actors:
 - Bill Clinton
 - Hillary Clinton
 sources:
-- title: 'Trump appears with Bill Clinton accusers before debate'
+- title: Trump appears with Bill Clinton accusers before debate
   url: https://www.cnn.com/2016/10/09/politics/donald-trump-juanita-broaddrick-paula-jones-facebook-live-2016-election/index.html
-  publisher: CNN
   date: '2016-10-09'
   tier: 1
-- title: 'Trump Appears With Bill Clinton Accusers Ahead of Debate'
+  outlet: CNN
+- title: Trump Appears With Bill Clinton Accusers Ahead of Debate
   url: https://abcnews.go.com/Politics/trump-appears-bill-clinton-accusers-ahead-debate/story?id=42686583
-  publisher: ABC News
   date: '2016-10-09'
   tier: 1
-- title: 'Ahead of debate, Trump holds news conference with Bill Clinton accusers'
+  outlet: ABC News
+- title: Ahead of debate, Trump holds news conference with Bill Clinton accusers
   url: https://www.washingtonpost.com/news/post-politics/wp/2016/10/09/ahead-of-debate-trump-holds-news-conference-with-bill-clinton-accusers/
-  publisher: Washington Post
   date: '2016-10-09'
   tier: 1
-- title: 'Trump Planned Debate Stunt, Invited Bill Clinton Accusers to Rattle Hillary'
+  outlet: The Washington Post
+- title: Trump Planned Debate Stunt, Invited Bill Clinton Accusers to Rattle Hillary
   url: https://www.nbcnews.com/storyline/2016-presidential-debates/trump-planned-debate-stunt-invited-bill-clinton-accusers-rattle-hillary-n663481
-  publisher: NBC News
   date: '2016-10-10'
   tier: 1
+  outlet: NBC News
 tags:
 - trump-campaign
 - clinton-campaign

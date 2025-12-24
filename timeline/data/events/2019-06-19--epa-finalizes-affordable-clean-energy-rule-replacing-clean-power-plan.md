@@ -4,44 +4,44 @@ date: '2019-06-19'
 title: EPA Finalizes Affordable Clean Energy Rule Replacing Clean Power Plan With Weaker Standards
 importance: 9
 tags:
-  - climate-denial
-  - epa
-  - regulatory-capture
-  - environmental-destruction
-  - coal-industry
-  - trump-administration
+- climate-denial
+- epa
+- regulatory-capture
+- environmental-destruction
+- coal-industry
+- trump-administration
 actors:
-  - Andrew Wheeler
-  - Environmental Protection Agency
-  - Donald Trump
-  - Coal Industry
-  - Scott Pruitt
+- Andrew Wheeler
+- Environmental Protection Agency (EPA)
+- Donald Trump
+- Coal Industry
+- Scott Pruitt
 sources:
-  - url: https://www.epa.gov/newsreleases/epa-finalizes-affordable-clean-energy-rule-ensuring-reliable-diversified-energy
-    title: EPA Finalizes Affordable Clean Energy Rule
-    publisher: EPA
-    date: '2019-06-19'
-    tier: 1
-  - url: https://yaleclimateconnections.org/2019/06/the-trump-epa-strategy-to-undo-the-clean-power-plan/
-    title: The Trump EPA strategy to undo the Clean Power Plan
-    publisher: Yale Climate Connections
-    date: '2019-06-27'
-    tier: 1
-  - url: https://stateimpactcenter.org/issues/climate-action/affordable-clean-energy-rule
-    title: Affordable Clean Energy Rule
-    publisher: State Energy & Environmental Impact Center
-    date: '2024-01-01'
-    tier: 1
-  - url: https://www.edf.org/media/dc-circuit-strikes-down-trump-administration-repeal-and-replacement-clean-power-plan
-    title: D.C. Circuit Strikes Down Trump Administration Repeal and Replacement of the Clean Power Plan
-    publisher: Environmental Defense Fund
-    date: '2021-01-19'
-    tier: 1
+- url: https://www.epa.gov/newsreleases/epa-finalizes-affordable-clean-energy-rule-ensuring-reliable-diversified-energy
+  title: EPA Finalizes Affordable Clean Energy Rule
+  date: '2019-06-19'
+  tier: 1
+  outlet: EPA
+- url: https://yaleclimateconnections.org/2019/06/the-trump-epa-strategy-to-undo-the-clean-power-plan/
+  title: The Trump EPA strategy to undo the Clean Power Plan
+  date: '2019-06-27'
+  tier: 1
+  outlet: Yale Climate Connections
+- url: https://stateimpactcenter.org/issues/climate-action/affordable-clean-energy-rule
+  title: Affordable Clean Energy Rule
+  date: '2024-01-01'
+  tier: 1
+  outlet: State Energy & Environmental Impact Center
+- url: https://www.edf.org/media/dc-circuit-strikes-down-trump-administration-repeal-and-replacement-clean-power-plan
+  title: D.C. Circuit Strikes Down Trump Administration Repeal and Replacement of the Clean Power Plan
+  date: '2021-01-19'
+  tier: 1
+  outlet: Environmental Defense Fund
 status: confirmed
 capture_lanes:
-  - Regulatory Capture
-  - Environmental Destruction
-  - Climate Action Obstruction
+- Regulatory Capture
+- Environmental Destruction
+- Climate Action Obstruction
 ---
 
 On June 19, 2019, EPA Administrator Andrew Wheeler signed the Affordable Clean Energy (ACE) Rule, replacing the Obama-era Clean Power Plan with regulations designed to extend the lifetimes of heavily polluting coal-fired power plants. The ACE Rule established no meaningful limits on carbon pollution and EPA's own analysis projected it would cause over 1,630 premature deaths by 2030 from increased fine particulate matter and ozone smog. The rule represented the culmination of coal industry wishes delivered by a former coal lobbyist using government authority to dismantle climate protections, with the Orwellian "Affordable Clean Energy" name obscuring a policy that would increase pollution at nearly one in five of the nation's coal plants.

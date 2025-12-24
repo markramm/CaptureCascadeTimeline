@@ -4,37 +4,37 @@ date: '2020-09-26'
 title: Trump Nominates Amy Coney Barrett to Supreme Court, Religious Conservative to Replace Liberal Icon Ginsburg
 importance: 9
 tags:
-  - Supreme Court
-  - Judicial Appointments
-  - Abortion Rights
-  - Religious Right
-  - Institutional Corruption
+- supreme court
+- judicial appointments
+- abortion rights
+- religious right
+- institutional corruption
 actors:
-  - Donald Trump
-  - Amy Coney Barrett
-  - Mitch McConnell
-  - Ruth Bader Ginsburg
+- Donald Trump
+- Amy Coney Barrett
+- Mitch McConnell
+- Ruth Bader Ginsburg
 sources:
-  - title: Amy Coney Barrett Supreme Court Nomination
-    url: https://en.wikipedia.org/wiki/Amy_Coney_Barrett_Supreme_Court_nomination
-    publisher: Wikipedia
-    date: '2020-09-26'
-    tier: 3
-  - title: Senate Confirms Amy Coney Barrett to Supreme Court
-    url: https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748
-    publisher: NBC News
-    date: '2020-09-26'
-    tier: 1
-  - title: Amy Coney Barrett Confirmed To Supreme Court Takes Constitutional Oath
-    url: https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court
-    publisher: NPR
-    date: '2020-09-26'
-    tier: 1
-  - title: Fauci Calls Amy Coney Barrett Ceremony Superspreader Event
-    url: https://www.nbcnews.com/politics/white-house/fauci-calls-amy-coney-barrett-ceremony-rose-garden-superspreader-event-n1242781
-    publisher: NBC News
-    date: '2020-10-09'
-    tier: 1
+- title: Amy Coney Barrett Supreme Court Nomination
+  url: https://en.wikipedia.org/wiki/Amy_Coney_Barrett_Supreme_Court_nomination
+  date: '2020-09-26'
+  tier: 3
+  outlet: Wikipedia
+- title: Senate Confirms Amy Coney Barrett to Supreme Court
+  url: https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748
+  date: '2020-09-26'
+  tier: 1
+  outlet: NBC News
+- title: Amy Coney Barrett Confirmed To Supreme Court Takes Constitutional Oath
+  url: https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court
+  date: '2020-09-26'
+  tier: 1
+  outlet: NPR
+- title: Fauci Calls Amy Coney Barrett Ceremony Superspreader Event
+  url: https://www.nbcnews.com/politics/white-house/fauci-calls-amy-coney-barrett-ceremony-rose-garden-superspreader-event-n1242781
+  date: '2020-10-09'
+  tier: 1
+  outlet: NBC News
 ---
 
 On September 26, 2020—just eight days after Justice Ruth Bader Ginsburg's death—President Donald Trump nominated Amy Coney Barrett, a religious conservative from the 7th Circuit Court of Appeals, to fill Ginsburg's seat on the Supreme Court. Barrett's judicial record showed consistent opposition to abortion rights and the Affordable Care Act, making her nomination a stark ideological replacement of the liberal feminist icon Ginsburg with a conservative judge whose confirmation would create a 6-3 conservative supermajority. The nomination came 38 days before the November 3 election with early voting already underway across the country, yet Senate Majority Leader Mitch McConnell vowed to rush through the confirmation—abandoning the "let voters decide" principle he had invoked to block Merrick Garland 293 days before the 2016 election.

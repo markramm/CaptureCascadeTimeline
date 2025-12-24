@@ -1,35 +1,35 @@
 ---
 id: 2025-11-18--trump-reinstates-public-charge-rule-immigrant-wealth-test
 date: '2025-11-18'
-title: "Trump Administration Reinstates 'Public Charge' Rule: Immigrant Wealth Test Returns"
+title: 'Trump Administration Reinstates ''Public Charge'' Rule: Immigrant Wealth Test Returns'
 importance: 9
 status: confirmed
 tags:
-- Immigration
-- Public-Charge
-- DHS
-- USCIS
-- Stephen-Miller
-- Anti-Immigration
-- Wealth-Test
-- Healthcare
-- Food-Assistance
+- immigration
+- public-charge
+- dhs
+- uscis
+- stephen-miller
+- anti-immigration
+- wealth-test
+- healthcare
+- food-assistance
 sources:
 - url: https://www.npr.org/2025/11/18/g-s1-96806/trump-public-charge-rule
   title: Trump administration seeks to bring back public charge rule
-  publisher: NPR
   date: '2025-11-18'
   tier: 1
+  outlet: NPR
 - url: https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility
-  title: 'Public Charge Ground of Inadmissibility'
-  publisher: Federal Register
+  title: Public Charge Ground of Inadmissibility
   date: '2025-11-19'
   tier: 1
+  outlet: Federal Register
 - url: https://pifcoalition.org/resources/press/public-charge-proposal-puts-millions-at-risk-advocates-warn/
   title: Public Charge Proposal Puts Millions at Risk, Advocates Warn
-  publisher: Protecting Immigrant Families Coalition
   date: '2025-11-18'
   tier: 2
+  outlet: Protecting Immigrant Families Coalition
 actors:
 - Department of Homeland Security
 - USCIS

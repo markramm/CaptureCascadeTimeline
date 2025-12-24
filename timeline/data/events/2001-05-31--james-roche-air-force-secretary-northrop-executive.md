@@ -10,28 +10,28 @@ actors:
 - Department of Defense
 - George W. Bush
 tags:
-- Revolving Door
-- Military-Industrial Complex
-- Defense Contractors
-- Corruption
-- Conflicts of Interest
-- Pentagon Leadership
+- revolving door
+- military-industrial complex
+- defense contractors
+- corruption
+- conflicts of interest
+- pentagon leadership
 sources:
 - url: https://www.corpwatch.org/article/usa-inside-lockheeds-250-billion-pentagon-connection
-  title: "USA: Inside Lockheed's $250 Billion Pentagon Connection"
-  publisher: CorpWatch
+  title: 'USA: Inside Lockheed''s $250 Billion Pentagon Connection'
   date: '2001-06-01'
   tier: 2
+  outlet: CorpWatch
 - url: https://www.defensenews.com/industry/2018/11/06/new-watchdog-report-decries-revolving-door-between-the-pentagon-and-defense-contractors/
   title: New watchdog report decries 'revolving door' between the Pentagon and defense contractors
-  publisher: Defense News
   date: '2018-11-06'
   tier: 2
+  outlet: Defense News
 - url: https://pogo.org/reports/brass-parachutes
   title: 'Brass Parachutes: The Problem of the Pentagon Revolving Door'
-  publisher: Project on Government Oversight
   date: '2018-11-06'
   tier: 1
+  outlet: Project on Government Oversight
 ---
 
 President George W. Bush appointed James G. Roche as Secretary of the Air Force in 2001 despite—or perhaps because of—Roche's 17-year career as a top executive at Northrop Grumman, one of the Air Force's largest contractors, exemplifying the revolving door that enables defense industry executives to capture Pentagon leadership positions and shape procurement decisions worth billions for their former employers. Roche's appointment placed a senior Northrop Grumman executive in the position of ultimate decision-making authority for Air Force weapons contracts, creating obvious conflicts of interest where his former colleagues and business relationships could influence his judgment on contract awards, requirements development, and budget priorities.

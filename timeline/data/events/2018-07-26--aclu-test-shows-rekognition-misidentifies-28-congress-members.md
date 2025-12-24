@@ -4,42 +4,42 @@ date: 2018-07-26
 title: ACLU test reveals Amazon Rekognition misidentified 28 Congress members as criminals, showing racial bias
 importance: 8
 actors:
-  - ACLU
-  - Amazon
-  - AWS
-  - John Lewis
-  - Jimmy Gomez
+- ACLU
+- Amazon
+- AWS
+- John Lewis
+- Jimmy Gomez
 tags:
-  - surveillance
-  - facial-recognition
-  - amazon
-  - rekognition
-  - racial-bias
-  - ai-bias
-  - civil-liberties
-  - aclu
-  - congress
+- surveillance
+- facial-recognition
+- amazon
+- rekognition
+- racial-bias
+- ai-bias
+- civil-liberties
+- aclu
+- congress
 sources:
-  - url: https://www.aclu.org/news/privacy-technology/amazons-face-recognition-falsely-matched-28
-    title: Amazon's Face Recognition Falsely Matched 28 Members of Congress With Mugshots
-    publisher: ACLU
-    date: 2018-07-26
-    tier: 1
-  - url: https://www.aclu.org/press-releases/members-congress-demand-meeting-amazon-ceo-following-aclu-report-amazon-face
-    title: Members of Congress Demand Meeting With Amazon CEO Following ACLU Report on Amazon Face Recognition Technology
-    publisher: ACLU
-    date: 2018-07-26
-    tier: 1
-  - url: https://qz.com/1340918/the-aclu-used-amazons-facial-recognition-and-it-labelled-congress-members-as-criminals
-    title: The ACLU used Amazon's facial recognition and it labelled Congress members as criminals
-    publisher: Quartz
-    date: 2018-07-26
-    tier: 2
-  - url: https://www.nextgov.com/artificial-intelligence/2018/07/aclu-used-amazons-facial-recognition-and-it-labelled-congress-members-criminals/150084/
-    title: The ACLU Used Amazon's Facial Recognition And It Labelled Congress Members As Criminals
-    publisher: Nextgov
-    date: 2018-07-26
-    tier: 1
+- url: https://www.aclu.org/news/privacy-technology/amazons-face-recognition-falsely-matched-28
+  title: Amazon's Face Recognition Falsely Matched 28 Members of Congress With Mugshots
+  date: 2018-07-26
+  tier: 1
+  outlet: ACLU
+- url: https://www.aclu.org/press-releases/members-congress-demand-meeting-amazon-ceo-following-aclu-report-amazon-face
+  title: Members of Congress Demand Meeting With Amazon CEO Following ACLU Report on Amazon Face Recognition Technology
+  date: 2018-07-26
+  tier: 1
+  outlet: ACLU
+- url: https://qz.com/1340918/the-aclu-used-amazons-facial-recognition-and-it-labelled-congress-members-as-criminals
+  title: The ACLU used Amazon's facial recognition and it labelled Congress members as criminals
+  date: 2018-07-26
+  tier: 2
+  outlet: Quartz
+- url: https://www.nextgov.com/artificial-intelligence/2018/07/aclu-used-amazons-facial-recognition-and-it-labelled-congress-members-criminals/150084/
+  title: The ACLU Used Amazon's Facial Recognition And It Labelled Congress Members As Criminals
+  date: 2018-07-26
+  tier: 1
+  outlet: Nextgov
 status: confirmed
 ---
 

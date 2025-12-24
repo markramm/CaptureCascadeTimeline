@@ -4,32 +4,32 @@ date: 2009-05-20
 title: Newburgh Four Arrested in FBI Entrapment Sting - "Buffoonery" Made Into Terrorism
 importance: 8
 actors:
-  - FBI
-  - Shahed Hussain
-  - James Cromitie
-  - Department of Justice
+- FBI
+- Shahed Hussain
+- James Cromitie
+- Department of Justice
 tags:
-  - fbi-abuse
-  - entrapment
-  - informants
-  - terrorism-prosecution
-  - civil-liberties
+- fbi-abuse
+- entrapment
+- informants
+- terrorism-prosecution
+- civil-liberties
 sources:
-  - url: https://www.brennancenter.org/our-work/analysis-opinion/newburgh-four-terrorism-case-releases-show-dire-need-fbi-reforms
-    title: Newburgh Four Case Shows Dire Need for FBI Reforms
-    publisher: Brennan Center for Justice
-    date: 2021-07-16
-    tier: 1
-  - url: https://www.thenation.com/article/archive/deploying-informants-fbi-stings-muslims/
-    title: Deploying Informants the FBI Stings Muslims
-    publisher: The Nation
-    date: 2011-06-15
-    tier: 1
-  - url: https://www.pbs.org/wgbh/frontline/article/fbi-sting-operations-terrorism-september-11/
-    title: Are Federal Sting Operations in Counterterrorism Cases Legal?
-    publisher: PBS Frontline
-    date: 2012-08-28
-    tier: 1
+- url: https://www.brennancenter.org/our-work/analysis-opinion/newburgh-four-terrorism-case-releases-show-dire-need-fbi-reforms
+  title: Newburgh Four Case Shows Dire Need for FBI Reforms
+  date: 2021-07-16
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.thenation.com/article/archive/deploying-informants-fbi-stings-muslims/
+  title: Deploying Informants the FBI Stings Muslims
+  date: 2011-06-15
+  tier: 1
+  outlet: The Nation
+- url: https://www.pbs.org/wgbh/frontline/article/fbi-sting-operations-terrorism-september-11/
+  title: Are Federal Sting Operations in Counterterrorism Cases Legal?
+  date: 2012-08-28
+  tier: 1
+  outlet: PBS Frontline
 ---
 
 Four men from Newburgh, New York—James Cromitie, David Williams, Onta Williams, and Laguerre Payen—were arrested in an FBI sting operation in which a paid government informant conceived the plot, provided all the means, and coerced economically desperate men into participating. A federal judge condemned the operation, stating the government "came up with the crime, provided the means, and removed all relevant obstacles," creating terrorists out of men "whose buffoonery is positively Shakespearean in scope."

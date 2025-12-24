@@ -1,0 +1,47 @@
+{
+  "id": "1947-06-23--taft-hartley-act-passed",
+  "date": "1947-06-23",
+  "title": "Taft-Hartley Act Becomes Law: Corporate-Written Anti-Labor Legislation",
+  "description": "The Taft-Hartley Act becomes law after Congress overrides President Truman's veto on June 23, 1947 (Truman vetoed on June 20). The legislation, described by Congressman Donald O'Toole as prepared 'sentence by sentence, paragraph by paragraph, by the National Association of Manufacturers,' fundamentally weakens labor unions by outlawing closed shops, restricting secondary boycotts, allowing states to pass 'right-to-work' laws, and requiring union leaders to sign anti-communist affidavits. The bill passes with overwhelming margins: 68-24 in the Senate (led by Senator Robert Taft) and 308-107 in the House (led by Rep. Fred Hartley). NAM and other business lobbies promoted the act as necessary to curb union power after major strikes in 1945-46. This represents the centerpiece of big business's counterattack against the labor movement that had won major gains during the New Deal. The corporate lobbying infrastructure behind Taft-Hartley demonstrates sophisticated business political organization 24 years before the Powell Memo.",
+  "importance": 10,
+  "actors": [
+    "National Association of Manufacturers",
+    "Robert A. Taft",
+    "Fred A. Hartley Jr.",
+    "Harry S. Truman",
+    "U.S. Congress",
+    "Labor unions",
+    "Corporate lobbying groups"
+  ],
+  "sources": [
+    {
+      "title": "1947 Taft-Hartley Passage and NLRB Structural Changes",
+      "outlet": "National Labor Relations Board",
+      "url": "https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-passage-and-nlrb-structural-changes",
+      "tier": 1
+    },
+    {
+      "title": "Taft-Hartley Act",
+      "outlet": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taft–Hartley_Act",
+      "tier": 3
+    },
+    {
+      "title": "Seventy Five Years Later, Toll of Taft-Hartley Weighs Heavily on Labor",
+      "outlet": "United Electrical Workers (UE)",
+      "url": "https://www.ueunion.org/ue-news-feature/2022/seventy-five-years-later-toll-of-taft-harley-weighs-heavily-on-labor",
+      "tier": 3
+    }
+  ],
+  "tags": [
+    "labor-suppression",
+    "corporate-power",
+    "anti-labor-legislation",
+    "institutional-capture",
+    "business-lobbying",
+    "powell-memo-precursors",
+    "post-war-corporate-mobilization",
+    "right-to-work"
+  ],
+  "significance": "Marks watershed moment in corporate political power—legislation literally written by NAM overrides presidential veto with supermajority support. Enables state-level 'right-to-work' laws that weaken unions across the South and West. Demonstrates corporate ability to reshape fundamental labor law despite opposition from president and labor movement. The act's passage shows business interests already capable of coordinating national legislative campaigns through organizations like NAM."
+}

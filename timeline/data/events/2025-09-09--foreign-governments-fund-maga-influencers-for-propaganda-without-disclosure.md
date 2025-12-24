@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.wired.com/story/foreign-governments-maga-influencers-israel-hungary-south-korea/
   title: Foreign Governments Court Right-Wing Influencers for Propaganda
-  publisher: WIRED
   date: '2025-09-09'
   tier: 2
+  outlet: WIRED
 actors:
 - Israel
 - Hungary

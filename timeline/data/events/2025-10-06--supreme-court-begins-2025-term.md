@@ -1,8 +1,7 @@
 ---
 id: 2025-10-06--supreme-court-begins-2025-term
 date: '2025-10-06'
-title: Supreme Court Begins 2025-2026 Term with Focus on Executive Power and Voting
-  Rights
+title: Supreme Court Begins 2025-2026 Term with Focus on Executive Power and Voting Rights
 importance: 8
 actors:
 - Supreme Court
@@ -18,20 +17,19 @@ tags:
 sources:
 - url: https://www.supremecourt.gov/oral_arguments/2025TermCourtCalendar.pdf
   title: Supreme Court Calendar - October Term 2025
-  publisher: Supreme Court of the United States
   date: '2025-10-06'
   tier: 1
+  outlet: Supreme Court of the United States
 - url: https://news.northeastern.edu/2025/10/06/supreme-court-2025-2026-term-executive-power/
-  title: Supreme Court's 2025-26 term begins today. Here are five big cases to keep
-    an eye on
-  publisher: Northeastern University
+  title: Supreme Court's 2025-26 term begins today. Here are five big cases to keep an eye on
   date: '2025-10-06'
   tier: 2
+  outlet: Northeastern University
 - url: https://www.newsweek.com/full-list-supreme-court-cases-heard-fall-2025-2113194
   title: Full List of Supreme Court Cases to Be Heard This Fall Term
-  publisher: Newsweek
   date: '2025-10-06'
   tier: 2
+  outlet: Newsweek
 ---
 
 The Supreme Court began its 2025-2026 term on October 6, 2025, with a docket featuring critical cases on executive power, voting rights, and constitutional law. The October session includes 10 oral arguments over five days, with several cases that could fundamentally reshape American governance.

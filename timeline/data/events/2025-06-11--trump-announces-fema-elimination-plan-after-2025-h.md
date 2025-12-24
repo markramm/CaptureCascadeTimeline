@@ -9,7 +9,7 @@ actors:
 - Kristi Noem
 - FEMA
 - White House
-- DHS
+- Department of Homeland Security
 - FEMA Review Council
 tags:
 - agency-elimination
@@ -23,8 +23,7 @@ sources:
   url: https://www.cnn.com/2025/06/11/politics/fema-hurricane-season-phase-out-trump
   outlet: CNN
   date: '2025-06-11'
-- title: The Trump administration says it wants to eliminate FEMA. Here's what we
-    know
+- title: The Trump administration says it wants to eliminate FEMA. Here's what we know
   url: https://www.npr.org/2025/06/26/nx-s1-5430469/faq-fema-elimination
   outlet: NPR
   date: '2025-06-26'
@@ -36,10 +35,7 @@ sources:
   url: https://www.governing.com/resilience/trump-moves-to-abolish-fema-shift-disaster-response-to-states
   outlet: Governing
   date: '2025-03-21'
-notes: Elimination announced despite active hurricane season and disaster responses.
-  10% of staff left since January 2025. States expected to work with private partners
-  as "performance enhancing drugs of emergency response." DHS officials aim to eliminate
-  FEMA's disaster recovery role by October 1, 2025.
+notes: Elimination announced despite active hurricane season and disaster responses. 10% of staff left since January 2025. States expected to work with private partners as "performance enhancing drugs of emergency response." DHS officials aim to eliminate FEMA's disaster recovery role by October 1, 2025.
 status: confirmed
 ---
 

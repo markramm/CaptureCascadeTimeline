@@ -19,24 +19,24 @@ tags:
 sources:
 - title: 20 Extraordinary Facts About CIA Extraordinary Rendition and Secret Detention
   url: https://www.justiceinitiative.org/voices/20-extraordinary-facts-about-cia-extraordinary-rendition-and-secret-detention
-  publisher: Open Society Justice Initiative
   date: '2013-09-09'
   tier: 1
+  outlet: Open Society Justice Initiative
 - title: Extraordinary Rendition
   url: https://en.wikipedia.org/wiki/Extraordinary_rendition
-  publisher: Wikipedia (sourced from declassified documents)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from declassified documents)
 - title: CIA Renditions and Secret Detention Programme
   url: https://www.europarl.europa.eu/RegData/etudes/ATAG/2016/583803/EPRS_ATA(2016)583803_EN.pdf
-  publisher: European Parliament
   date: '2016-06-01'
   tier: 1
+  outlet: European Parliament
 - title: Extraordinary Rendition - Mapping the Black Sites
   url: https://www.pbs.org/frontlineworld/stories/rendition701/map/
-  publisher: PBS Frontline
   date: '2007-01-01'
   tier: 1
+  outlet: PBS Frontline
 ---
 
 Following the September 11 attacks, President Bush authorizes the CIA to conduct "extraordinary rendition"—the extrajudicial kidnapping and transfer of terrorism suspects to foreign countries for detention and interrogation, often involving torture. CIA Director George Tenet and Counterterrorism Chief Cofer Black implement a global kidnapping program that will ultimately involve at least 54 countries and result in at least 136 individuals being extraordinarily rendered or secretly detained. The program operates entirely outside legal process, denying victims any access to courts, lawyers, or due process protections, and deliberately transfers suspects to countries known to practice torture.

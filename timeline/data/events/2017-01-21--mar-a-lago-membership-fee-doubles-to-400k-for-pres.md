@@ -23,7 +23,7 @@ sources:
   date: '2017-01-25'
 - title: The Swamp That Trump Built at Mar-a-Lago
   url: https://www.nytimes.com/2019/03/16/us/mar-a-lago-trump.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-03-16'
 - title: Chinese woman with malware arrested at Mar-a-Lago
   url: https://www.bbc.com/news/world-us-canada-47787753

@@ -31,7 +31,7 @@ status: confirmed
 sources:
 - title: Document Says Oil Chiefs Met With Cheney Task Force
   url: https://www.washingtonpost.com/archive/politics/2005/11/16/document-says-oil-chiefs-met-with-cheney-task-force/03ca6ee6-3754-447e-8a24-45b2bc700d4e/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2005-11-16'
 - title: 'Document: Big oil met with Cheney task force'
   url: https://www.nbcnews.com/id/wbna10045043

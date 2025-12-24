@@ -2,9 +2,7 @@
 id: 2025-03-11--usdot-says-verizon-not-moving-fast-enough-on-24-billion-faa-
 date: '2025-03-11'
 title: FAA Reviews Verizon Contract Amid Starlink Competition
-description: The FAA placed its Verizon deal under review as Elon Musk pushed Starlink
-  as an alternative vendor, raising questions about potential conflicts of interest
-  and strategic technology procurement.
+description: The FAA placed its Verizon deal under review as Elon Musk pushed Starlink as an alternative vendor, raising questions about potential conflicts of interest and strategic technology procurement.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -27,7 +25,7 @@ sources:
   date: '2025-03-11'
 - title: FAA close to canceling Verizon contract in favor of Starlink
   url: https://www.washingtonpost.com/business/2025/02/26/musk-starlink-doge-faa-verizon/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-26'
 - title: Musk says FAA air traffic control system is failing
   url: https://www.cnn.com/2025/02/27/business/elon-musk-faa-air-traffic-control-failing-spacex/index.html
@@ -43,8 +41,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - technology-procurement
-notes: Contract review highlights potential conflicts of interest and strategic positioning
-  within Trump's Department of Government Efficiency (DOGE).
+notes: Contract review highlights potential conflicts of interest and strategic positioning within Trump's Department of Government Efficiency (DOGE).
 capture_lanes:
 - Systematic Corruption
 - Technology Capture

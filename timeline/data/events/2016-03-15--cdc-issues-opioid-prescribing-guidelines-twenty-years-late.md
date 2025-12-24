@@ -4,30 +4,30 @@ title: CDC Issues First Opioid Prescribing Guidelines, Twenty Years After OxyCon
 date: '2016-03-15'
 importance: 7
 actors:
-  - Centers for Disease Control and Prevention
-  - U.S. Department of Health and Human Services
+- Centers for Disease Control and Prevention
+- U.S. Department of Health and Human Services
 tags:
-  - opioid-crisis
-  - regulatory-failure
-  - public-health
-  - delayed-response
+- opioid-crisis
+- regulatory-failure
+- public-health
+- delayed-response
 status: confirmed
 sources:
-  - title: CDC Guideline for Prescribing Opioids for Chronic Pain — United States, 2016
-    url: https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm
-    publisher: CDC Morbidity and Mortality Weekly Report
-    date: '2016-03-15'
-    tier: 1
-  - title: CDC Guideline for Prescribing Opioids for Chronic Pain (PDF)
-    url: https://www.cdc.gov/mmwr/volumes/65/rr/pdfs/rr6501e1.pdf
-    publisher: Centers for Disease Control and Prevention
-    date: '2016-03-15'
-    tier: 1
-  - title: Reducing the Risks of Relief — The CDC's Opioid-Prescribing Guideline
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4852278/
-    publisher: New England Journal of Medicine
-    date: '2016-04-01'
-    tier: 1
+- title: CDC Guideline for Prescribing Opioids for Chronic Pain — United States, 2016
+  url: https://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm
+  date: '2016-03-15'
+  tier: 1
+  outlet: CDC Morbidity and Mortality Weekly Report
+- title: CDC Guideline for Prescribing Opioids for Chronic Pain (PDF)
+  url: https://www.cdc.gov/mmwr/volumes/65/rr/pdfs/rr6501e1.pdf
+  date: '2016-03-15'
+  tier: 1
+  outlet: Centers for Disease Control and Prevention
+- title: Reducing the Risks of Relief — The CDC's Opioid-Prescribing Guideline
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4852278/
+  date: '2016-04-01'
+  tier: 1
+  outlet: New England Journal of Medicine
 ---
 
 On March 15, 2016, the Centers for Disease Control and Prevention released its first-ever "Guideline for Prescribing Opioids for Chronic Pain"—twenty years after Purdue Pharma launched OxyContin with aggressive marketing based on false addiction claims, and nine years after Purdue's guilty plea to criminal misbranding.

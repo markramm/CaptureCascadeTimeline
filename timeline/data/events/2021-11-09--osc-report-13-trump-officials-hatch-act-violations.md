@@ -4,47 +4,47 @@ date: 2021-11-09
 title: Office of Special Counsel Report Documents Hatch Act Violations by 13 Senior Trump Officials, Finding "Willful Disregard" for Federal Law
 importance: 9
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Republican National Convention
-  - Trump Administration
-  - Rule of Law
-  - Accountability
+- hatch act
+- ethics violations
+- republican national convention
+- trump administration
+- rule of law
+- accountability
 actors:
-  - Mike Pompeo
-  - Chad Wolf
-  - Kellyanne Conway
-  - Jared Kushner
-  - Kayleigh McEnany
-  - Mark Meadows
-  - Stephen Miller
-  - Robert O'Brien
-  - Dan Brouillette
-  - David Friedman
-  - Alyssah Farah
-  - Brian Morgenstern
-  - Marc Short
+- Mike Pompeo
+- Chad Wolf
+- Kellyanne Conway
+- Jared Kushner
+- Kayleigh McEnany
+- Mark Meadows
+- Stephen Miller
+- Robert O'Brien
+- Dan Brouillette
+- David Friedman
+- Alyssah Farah
+- Brian Morgenstern
+- Marc Short
 sources:
-  - url: https://osc.gov/News/Pages/21-02-Hatch-Act-Report-RNC.aspx
-    title: OSC Issues Hatch Act Report Documenting Violations by 13 Senior Trump Administration Officials, Including at the 2020 Republican National Convention
-    publisher: U.S. Office of Special Counsel
-    date: 2021-11-09
-    tier: 1
-  - url: https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf
-    title: Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election
-    publisher: U.S. Office of Special Counsel
-    date: 2021-08-18
-    tier: 1
-  - url: https://www.cnn.com/2021/11/09/politics/thirteen-trump-officials-violated-hatch-act/index.html
-    title: 13 senior Trump administration officials violated Hatch Act, report finds
-    publisher: CNN
-    date: 2021-11-09
-    tier: 1
-  - url: https://oversightdemocrats.house.gov/news/press-releases/after-oversight-committee-call-for-investigation-into-2020-rnc-convention
-    title: After Oversight Committee Call for Investigation Into 2020 RNC Convention, Special Counsel Finds Trump Administration Officials Showed "Willful Disregard" for Hatch Act
-    publisher: House Committee on Oversight and Accountability
-    date: 2021-11-09
-    tier: 1
+- url: https://osc.gov/News/Pages/21-02-Hatch-Act-Report-RNC.aspx
+  title: OSC Issues Hatch Act Report Documenting Violations by 13 Senior Trump Administration Officials, Including at the 2020 Republican National Convention
+  date: 2021-11-09
+  tier: 1
+  outlet: U.S. Office of Special Counsel
+- url: https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf
+  title: Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election
+  date: 2021-08-18
+  tier: 1
+  outlet: U.S. Office of Special Counsel
+- url: https://www.cnn.com/2021/11/09/politics/thirteen-trump-officials-violated-hatch-act/index.html
+  title: 13 senior Trump administration officials violated Hatch Act, report finds
+  date: 2021-11-09
+  tier: 1
+  outlet: CNN
+- url: https://oversightdemocrats.house.gov/news/press-releases/after-oversight-committee-call-for-investigation-into-2020-rnc-convention
+  title: After Oversight Committee Call for Investigation Into 2020 RNC Convention, Special Counsel Finds Trump Administration Officials Showed "Willful Disregard" for Hatch Act
+  date: 2021-11-09
+  tier: 1
+  outlet: House Committee on Oversight and Accountability
 ---
 
 The U.S. Office of Special Counsel released a comprehensive investigative report documenting that 13 senior Trump administration officials violated the Hatch Act prior to the 2020 election, with the violations characterized as demonstrating "willful disregard for the law" and occurring "without consequence and with the administration's approval." The report detailed systematic ethical violations across two main categories: eleven officials committed violations during official media appearances, and two officials violated the law in connection with the Republican National Convention's unprecedented use of federal property and resources.

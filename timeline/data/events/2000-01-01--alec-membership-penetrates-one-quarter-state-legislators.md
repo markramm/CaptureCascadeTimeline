@@ -5,7 +5,7 @@ title: ALEC Membership Reaches 2,000+ State Legislators - Represents One-Quarter
 importance: 9
 actors:
 - American Legislative Exchange Council (ALEC)
-- State Legislators (2,000+ members)
+- State Legislators
 tags:
 - corporate-capture
 - legislative-capture
@@ -16,29 +16,29 @@ tags:
 sources:
 - title: About ALEC
   url: https://alec.org/about/
-  publisher: American Legislative Exchange Council (official)
   date: '2024-01-01'
   tier: 2
+  outlet: American Legislative Exchange Council (official)
 - title: American Legislative Exchange Council
   url: https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - title: What is ALEC
   url: https://www.alecexposed.org/wiki/What_is_ALEC
-  publisher: ALEC Exposed (Center for Media and Democracy)
   date: '2024-01-01'
   tier: 2
-- title: 'After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever'
+  outlet: ALEC Exposed (Center for Media and Democracy)
+- title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
   url: https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/
-  publisher: The American Prospect
   date: '2023-10-04'
   tier: 2
+  outlet: The American Prospect
 - title: How ALEC Shapes States' Legislation Behind The Scenes
   url: https://www.npr.org/2011/07/21/138537515/how-alec-shapes-state-politics-behind-the-scenes
-  publisher: NPR
   date: '2011-07-21'
   tier: 1
+  outlet: NPR
 status: confirmed
 capture_lanes:
 - Legislative Capture

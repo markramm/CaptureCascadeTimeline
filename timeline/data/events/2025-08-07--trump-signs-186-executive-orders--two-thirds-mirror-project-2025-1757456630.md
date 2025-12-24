@@ -8,8 +8,7 @@ actors:
 importance: 10
 sources:
 - outlet: NPR
-  title: Trump Enacts Project 2025 Policies, Which He Distanced Himself From While
-    Campaigning
+  title: Trump Enacts Project 2025 Policies, Which He Distanced Himself From While Campaigning
   url: https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning
   date: '2025-01-31'
   archive_url: https://web.archive.org/web/20250131000000/https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning
@@ -18,7 +17,7 @@ sources:
   url: https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html
   date: '2025-01-31'
   archive_url: https://web.archive.org/web/20250131000000/https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html
-- outlet: Washington Post
+- outlet: The Washington Post
   title: 5 Ways Project 2025 Appeared in Trump's Presidential Directives
   url: https://www.washingtonpost.com/politics/2025/01/25/5-ways-project-2025-appeared-trumps-presidential-directives/
   date: '2025-01-25'
@@ -32,11 +31,7 @@ tags:
 capture_lanes:
 - Executive Power Expansion
 - Regulatory Transformation
-context: The Trump administration's aggressive use of executive orders reflects a
-  strategic implementation of Project 2025's policy recommendations, demonstrating
-  a systematic approach to reshaping federal governance without congressional approval.
-  This approach raises significant concerns about democratic processes and the balance
-  of governmental powers.
+context: The Trump administration's aggressive use of executive orders reflects a strategic implementation of Project 2025's policy recommendations, demonstrating a systematic approach to reshaping federal governance without congressional approval. This approach raises significant concerns about democratic processes and the balance of governmental powers.
 quality_score: 8
 validation_status: validated
 id: 2025-08-07--trump-signs-186-executive-orders--two-thirds-mirror-project-2025-1757456630

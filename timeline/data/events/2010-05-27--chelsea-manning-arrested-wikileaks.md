@@ -4,32 +4,32 @@ date: 2010-05-27
 title: Chelsea Manning Arrested for Leaking Classified Documents to WikiLeaks
 importance: 9
 actors:
-  - Chelsea Manning
-  - WikiLeaks
-  - U.S. Army
-  - Department of Defense
+- Chelsea Manning
+- WikiLeaks
+- U.S. Army
+- Department of Defense
 tags:
-  - whistleblower-prosecution
-  - wikileaks
-  - iraq-war
-  - afghanistan-war
-  - war-crimes
+- whistleblower-prosecution
+- wikileaks
+- iraq-war
+- afghanistan-war
+- war-crimes
 sources:
-  - url: https://www.justiceinitiative.org/litigation/united-states-v-private-first-class-chelsea-manning
-    title: United States v. Private First Class Chelsea Manning
-    publisher: Open Society Justice Initiative
-    date: 2010-05-27
-    tier: 1
-  - url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
-    title: Commutation for Chelsea Manning
-    publisher: Amnesty International
-    date: 2017-01-18
-    tier: 1
-  - url: https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings
-    title: President Obama's Commutation of Chelsea Manning's Sentence
-    publisher: ACLU
-    date: 2017-01-17
-    tier: 1
+- url: https://www.justiceinitiative.org/litigation/united-states-v-private-first-class-chelsea-manning
+  title: United States v. Private First Class Chelsea Manning
+  date: 2010-05-27
+  tier: 1
+  outlet: Open Society Justice Initiative
+- url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
+  title: Commutation for Chelsea Manning
+  date: 2017-01-18
+  tier: 1
+  outlet: Amnesty International
+- url: https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings
+  title: President Obama's Commutation of Chelsea Manning's Sentence
+  date: 2017-01-17
+  tier: 1
+  outlet: ACLU
 ---
 
 U.S. Army Private First Class Bradley Manning (later Chelsea Manning) was arrested at Forward Operating Base Hammer in Iraq for allegedly leaking hundreds of thousands of classified documents to WikiLeaks, including evidence of war crimes and civilian casualties. The arrest initiated what would become one of the most significant whistleblower prosecutions in American history.

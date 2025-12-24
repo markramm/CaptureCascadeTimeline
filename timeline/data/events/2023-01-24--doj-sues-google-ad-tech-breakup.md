@@ -6,8 +6,8 @@ actors:
 - Department of Justice
 - Google
 - Sundar Pichai
-- Jonathan Kanter (Assistant AG Antitrust)
-- 8 state Attorneys General
+- Jonathan Kanter
+- 8 State Attorneys General
 importance: 10
 tags:
 - google
@@ -31,7 +31,7 @@ sources:
   url: https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023)
   outlet: Wikipedia
   date: '2024-11-01'
-- title: 'The U.S. DoJ''s Antitrust Effort to Break Up Google'
+- title: The U.S. DoJ's Antitrust Effort to Break Up Google
   url: https://competitionlawblog.kluwercompetitionlaw.com/2023/02/28/the-u-s-dojs-antitrust-effort-to-break-up-google/
   outlet: Kluwer Competition Law Blog
   date: '2023-02-28'

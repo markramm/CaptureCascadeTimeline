@@ -4,32 +4,32 @@ date: 2016-06-02
 title: Trump Attacks Federal Judge Curiel as "Mexican" Despite Indiana Birth, Paul Ryan Calls It "Textbook Racism"
 importance: 9
 tags:
-  - Trump University
-  - Racism
-  - Judicial Independence
-  - Witness Intimidation
-  - Paul Ryan
-  - Donald Trump
+- trump university
+- racism
+- judicial independence
+- witness intimidation
+- paul ryan
+- donald trump
 actors:
-  - Donald Trump
-  - Gonzalo Curiel
-  - Paul Ryan
+- Donald Trump
+- Gonzalo Curiel
+- Paul Ryan
 sources:
-  - url: https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry
-    title: Who Is Judge Gonzalo Curiel, The Man Trump Attacked For His Mexican Ancestry?
-    publisher: NPR
-    date: 2016-06-07
-    tier: 1
-  - url: https://www.politifact.com/article/2016/jun/08/donald-trumps-racial-comments-about-judge-trump-un/
-    title: Donald Trump's racial comments about Hispanic judge in Trump University case
-    publisher: PolitiFact
-    date: 2016-06-08
-    tier: 1
-  - url: https://www.cnn.com/2018/02/27/politics/judge-curiel-trump-border-wall/index.html
-    title: Trump's attacks on Judge Curiel are still jarring to read
-    publisher: CNN
-    date: 2018-02-27
-    tier: 1
+- url: https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry
+  title: Who Is Judge Gonzalo Curiel, The Man Trump Attacked For His Mexican Ancestry?
+  date: 2016-06-07
+  tier: 1
+  outlet: NPR
+- url: https://www.politifact.com/article/2016/jun/08/donald-trumps-racial-comments-about-judge-trump-un/
+  title: Donald Trump's racial comments about Hispanic judge in Trump University case
+  date: 2016-06-08
+  tier: 1
+  outlet: PolitiFact
+- url: https://www.cnn.com/2018/02/27/politics/judge-curiel-trump-border-wall/index.html
+  title: Trump's attacks on Judge Curiel are still jarring to read
+  date: 2018-02-27
+  tier: 1
+  outlet: CNN
 ---
 
 Donald Trump launched racist attacks against U.S. District Judge Gonzalo Curiel, who was presiding over the Trump University fraud lawsuits, falsely claiming the judge's Mexican heritage created bias against him. At a San Diego rally in late May and in subsequent media interviews, Trump repeatedly called Curiel "Mexican" despite the judge being born in Indiana, and claimed Curiel could not be fair because Trump wanted to build a wall on the U.S.-Mexico border. Trump told the Wall Street Journal that Curiel's Mexican heritage presented an "absolute conflict" and told CNN "He's a Mexican. We're building a wall between here and Mexico." The attacks drew widespread condemnation across the political spectrum, with House Speaker Paul Ryan calling Trump's comments "sort of like the textbook definition of a racist comment." Trump spent 11 minutes at the San Diego rally attacking Curiel, calling him "a hater of Donald Trump, a hater. He's a hater."

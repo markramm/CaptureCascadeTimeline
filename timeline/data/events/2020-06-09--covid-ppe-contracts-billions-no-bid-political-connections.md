@@ -4,34 +4,34 @@ title: Federal Government Awards Billions in No-Bid COVID PPE Contracts, Often t
 date: '2020-06-09'
 importance: 9
 actors:
-  - Trump Administration
-  - FEMA
-  - U.S. Department of Justice
-  - Congressional Oversight
+- Trump Administration
+- FEMA
+- U.S. Department of Justice
+- Congressional Oversight
 tags:
-  - covid-19
-  - corruption
-  - price-gouging
-  - healthcare
-  - regulatory-capture
-  - no-bid-contracts
+- covid-19
+- corruption
+- price-gouging
+- healthcare
+- regulatory-capture
+- no-bid-contracts
 status: confirmed
 sources:
-  - title: Feds Spend Billions On COVID-19 Contracts, Often Without Fully Competitive Bidding
-    url: https://www.npr.org/2020/06/09/869052415/feds-spend-billions-on-covid-19-contracts-often-without-fully-competitive-biddin
-    publisher: NPR
-    date: '2020-06-09'
-    tier: 1
-  - title: U.S. Attorney's Office Prosecutes COVID-19 Fraud and Price-Gouging of Personal Protective Equipment
-    url: https://www.justice.gov/usao-nj/pr/us-attorney-s-office-prosecutes-covid-19-fraud-and-price-gouging-personal-protective
-    publisher: U.S. Department of Justice
-    date: '2020-06-15'
-    tier: 1
-  - title: Congress Is Investigating Contracts Tied To Mask And PPE Shortages
-    url: https://www.npr.org/2020/07/15/891122225/congress-is-investigating-contracts-tied-to-mask-and-ppe-shortages
-    publisher: NPR
-    date: '2020-07-15'
-    tier: 1
+- title: Feds Spend Billions On COVID-19 Contracts, Often Without Fully Competitive Bidding
+  url: https://www.npr.org/2020/06/09/869052415/feds-spend-billions-on-covid-19-contracts-often-without-fully-competitive-biddin
+  date: '2020-06-09'
+  tier: 1
+  outlet: NPR
+- title: U.S. Attorney's Office Prosecutes COVID-19 Fraud and Price-Gouging of Personal Protective Equipment
+  url: https://www.justice.gov/usao-nj/pr/us-attorney-s-office-prosecutes-covid-19-fraud-and-price-gouging-personal-protective
+  date: '2020-06-15'
+  tier: 1
+  outlet: U.S. Department of Justice
+- title: Congress Is Investigating Contracts Tied To Mask And PPE Shortages
+  url: https://www.npr.org/2020/07/15/891122225/congress-is-investigating-contracts-tied-to-mask-and-ppe-shortages
+  date: '2020-07-15'
+  tier: 1
+  outlet: NPR
 ---
 
 In June 2020, NPR analysis revealed that the federal government had awarded over 250 COVID-19 related contracts worth more than $1 million each without full competitive bidding, totaling billions of dollars in federal spending. Many contracts went to companies with no experience in medical equipment, some with direct political connections to the Trump administration. The contracts included widespread price gouging (markups of 50-1,300%), defective equipment, and outright fraud, exposing how public health emergencies become profit opportunities for politically connected contractors while regulatory oversight collapses.

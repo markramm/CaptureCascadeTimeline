@@ -20,14 +20,14 @@ actors:
 sources:
 - title: Russian Agents Alexander Torshin, Maria Butina Met With Treasury, Fed In 2015
   url: https://www.npr.org/2019/05/10/721763041/exclusive-documents-detail-meetings-of-russians-with-treasury-federal-reserve
-  publisher: NPR
   date: '2019-05-10'
   tier: 1
+  outlet: NPR
 - title: Timeline - The odd overlap of Maria Butina, the gun rights movement, and the 2016 election
   url: https://www.washingtonpost.com/news/politics/wp/2018/07/16/timeline-the-odd-overlap-of-maria-butina-the-gun-rights-movement-and-the-2016-election/
-  publisher: Washington Post
   date: '2018-07-16'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

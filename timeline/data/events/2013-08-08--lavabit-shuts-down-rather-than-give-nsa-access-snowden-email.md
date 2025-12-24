@@ -17,26 +17,26 @@ actors:
 - NSA
 - Edward Snowden
 sources:
-- title: 'Lavabit founder confirms feds'' Snowden spy efforts led to encrypted email service shutdown'
+- title: Lavabit founder confirms feds' Snowden spy efforts led to encrypted email service shutdown
   url: https://www.computerworld.com/article/1686226/lavabit-founder-confirms-feds-snowden-spy-efforts-led-to-encrypted-email-service-shutdown.html
-  publisher: Computerworld
   date: '2013-10-03'
   tier: 2
+  outlet: Computerworld
 - title: Encrypted Email Services Shuttered Amid Snowden Investigation
   url: https://www.npr.org/2013/08/09/210570888/encrypted-email-services-shuttered-amid-snowden-investigation
-  publisher: NPR
   date: '2013-08-09'
   tier: 1
+  outlet: NPR
 - title: 'Lavabit: How One Company Refused to Give FBI "Unrestricted" Access to Emails of 400,000 Customers'
   url: https://www.democracynow.org/2013/10/7/lavabit_how_one_company_refused_to
-  publisher: Democracy Now
   date: '2013-10-07'
   tier: 2
+  outlet: Democracy Now
 - title: Why Did Lavabit Founder Shut Down His Company?
   url: https://www.npr.org/2013/10/07/230192039/why-did-lavabit-founder-shut-down-his-company
-  publisher: NPR
   date: '2013-10-07'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

@@ -19,14 +19,14 @@ actors:
 sources:
 - title: LAPD Surveilled Gaza Protests Using This Social Media Tool
   url: https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/
-  publisher: The Intercept
   date: '2025-03-17'
   tier: 1
+  outlet: The Intercept
 - title: LAPD used controversial social media tool to monitor Gaza protests - Report
   url: https://san.com/cc/lapd-used-controversial-social-media-tool-to-monitor-gaza-protests-report/
-  publisher: San Antonio Current
   date: '2025-03-17'
   tier: 2
+  outlet: San Antonio Current
 status: confirmed
 ---
 

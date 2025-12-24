@@ -4,34 +4,34 @@ title: DOJ Launches Antitrust Investigation of UnitedHealth's Vertical Integrati
 date: '2024-02-27'
 importance: 9
 actors:
-  - Department of Justice
-  - UnitedHealth Group
-  - UnitedHealthcare
-  - Optum
+- Department of Justice
+- UnitedHealth Group
+- UnitedHealthcare
+- Optum
 tags:
-  - healthcare
-  - medicare-advantage
-  - antitrust
-  - vertical-integration
-  - regulatory-capture
-  - systematic-corruption
+- healthcare
+- medicare-advantage
+- antitrust
+- vertical-integration
+- regulatory-capture
+- systematic-corruption
 status: confirmed
 sources:
-  - title: Report - DOJ launches antitrust probe into UnitedHealth
-    url: https://www.axios.com/2024/02/27/unitedhealth-anti-trust-doj
-    publisher: Axios
-    date: '2024-02-27'
-    tier: 1
-  - title: UnitedHealth under antitrust investigation by DOJ - reports
-    url: https://www.healthcaredive.com/news/unitedhealth-antitrust-investigation-doj-unitedhealthcare-optum/708727/
-    publisher: Healthcare Dive
-    date: '2024-02-28'
-    tier: 2
-  - title: UnitedHealth Group Is Target of DOJ Antitrust Investigation
-    url: https://www.managedhealthcareexecutive.com/view/unitedhealth-group-is-target-of-doj-antirust-investigation-reports-wsj
-    publisher: Managed Healthcare Executive
-    date: '2024-02-27'
-    tier: 2
+- title: Report - DOJ launches antitrust probe into UnitedHealth
+  url: https://www.axios.com/2024/02/27/unitedhealth-anti-trust-doj
+  date: '2024-02-27'
+  tier: 1
+  outlet: Axios
+- title: UnitedHealth under antitrust investigation by DOJ - reports
+  url: https://www.healthcaredive.com/news/unitedhealth-antitrust-investigation-doj-unitedhealthcare-optum/708727/
+  date: '2024-02-28'
+  tier: 2
+  outlet: Healthcare Dive
+- title: UnitedHealth Group Is Target of DOJ Antitrust Investigation
+  url: https://www.managedhealthcareexecutive.com/view/unitedhealth-group-is-target-of-doj-antirust-investigation-reports-wsj
+  date: '2024-02-27'
+  tier: 2
+  outlet: Managed Healthcare Executive
 ---
 
 On February 27, 2024, the Wall Street Journal reported that the Department of Justice launched a major antitrust investigation into UnitedHealth Group, focusing on whether the company's vertical integration strategy—particularly Optum's acquisition of physician practices—creates anticompetitive conditions that harm rival insurers, independent physicians, and patients. With Optum now employing or contracting with approximately 90,000 physicians (one in ten doctors nationwide), the investigation examines whether UnitedHealthcare shows preferential treatment to Optum providers, uses market power to exclude competitors, and exploits information asymmetries to dominate healthcare markets. This represents the Biden administration's most significant antitrust challenge to healthcare consolidation and vertical integration.

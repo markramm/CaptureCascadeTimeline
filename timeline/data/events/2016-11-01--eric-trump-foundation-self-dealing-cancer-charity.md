@@ -4,33 +4,33 @@ date: 2016-06-07
 title: Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organization Businesses
 importance: 8
 tags:
-  - Eric Trump
-  - Trump Foundation
-  - Charity Fraud
-  - Self-Dealing
-  - Trump Organization
+- eric trump
+- trump foundation
+- charity fraud
+- self-dealing
+- trump organization
 actors:
-  - Eric Trump
-  - Donald Trump
-  - Trump Organization
-  - Eric Trump Foundation
+- Eric Trump
+- Donald Trump
+- Trump Organization
+- Eric Trump Foundation
 status: confirmed
 sources:
-  - url: https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/
-    title: How Donald Trump Shifted Kids-Cancer Charity Money Into His Business
-    publisher: Forbes
-    date: 2017-06-06
-    tier: 1
-  - url: https://www.forbes.com/sites/danalexander/2016/09/29/the-verbal-gymnastics-of-the-eric-trump-foundation/
-    title: The Verbal Gymnastics Of The Eric Trump Foundation
-    publisher: Forbes
-    date: 2016-09-29
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/eric-trump-foundation-paid-trump-businesses-at-least-12-million-for-charity-golf-events-new-filing-shows/2017/06/27/0609c968-5b09-11e7-a9f6-7c3296387341_story.html
-    title: Eric Trump foundation paid Trump businesses at least $1.2 million for charity golf events
-    publisher: Washington Post
-    date: 2017-06-27
-    tier: 1
+- url: https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/
+  title: How Donald Trump Shifted Kids-Cancer Charity Money Into His Business
+  date: 2017-06-06
+  tier: 1
+  outlet: Forbes
+- url: https://www.forbes.com/sites/danalexander/2016/09/29/the-verbal-gymnastics-of-the-eric-trump-foundation/
+  title: The Verbal Gymnastics Of The Eric Trump Foundation
+  date: 2016-09-29
+  tier: 1
+  outlet: Forbes
+- url: https://www.washingtonpost.com/politics/eric-trump-foundation-paid-trump-businesses-at-least-12-million-for-charity-golf-events-new-filing-shows/2017/06/27/0609c968-5b09-11e7-a9f6-7c3296387341_story.html
+  title: Eric Trump foundation paid Trump businesses at least $1.2 million for charity golf events
+  date: 2017-06-27
+  tier: 1
+  outlet: The Washington Post
 ---
 
 The Eric Trump Foundation, ostensibly dedicated to raising money for St. Jude Children's Research Hospital to fight childhood cancer, systematically funneled charitable donations to Trump Organization businesses by paying inflated costs for charity golf events held at Trump properties. Despite Eric Trump's claims that his family donated the use of Trump golf courses for "free," the Foundation actually paid Trump businesses at least $1.2 million for event costs between 2011-2015. The Foundation charged donors tens of thousands to attend charity golf tournaments, claimed all proceeds went to sick children, but instead directed significant portions to Trump Organization entities through grossly inflated facility fees and expenses.

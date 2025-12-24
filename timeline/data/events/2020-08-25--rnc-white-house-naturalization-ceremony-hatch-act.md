@@ -4,39 +4,39 @@ date: 2020-08-25
 title: Acting DHS Secretary Chad Wolf Violates Hatch Act by Staging White House Naturalization Ceremony as RNC Campaign Content
 importance: 8
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Republican National Convention
-  - Abuse of Office
-  - Immigration
-  - Chad Wolf
-  - Trump Administration
+- hatch act
+- ethics violations
+- republican national convention
+- abuse of office
+- immigration
+- chad wolf
+- trump administration
 actors:
-  - Chad Wolf
-  - Donald Trump
-  - Henry Kerner
-  - Bennie Thompson
+- Chad Wolf
+- Donald Trump
+- Henry Kerner
+- Bennie Thompson
 sources:
-  - url: https://www.hstoday.us/federal-pages/dhs/osc-finds-hatch-act-violation-in-naturalization-ceremony-led-by-chad-wolf/
-    title: OSC Finds Hatch Act Violation in Naturalization Ceremony Led by Chad Wolf
-    publisher: Homeland Security Today
-    date: 2021-08-20
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/2020/08/26/trump-immigrants-naturalization-rnc/
-    title: For one cynical and perhaps illegal moment, Trump finds a use for immigrants
-    publisher: The Washington Post
-    date: 2020-08-26
-    tier: 1
-  - url: https://abcnews.go.com/Politics/immigrant-unaware-naturalization-ceremony-republican-national-convention/story?id=72635289
-    title: Immigrant unaware naturalization ceremony would be used at Republican National Convention
-    publisher: ABC News
-    date: 2020-08-31
-    tier: 1
-  - url: https://www.citizensforethics.org/news/press-releases/chad-wolf-hatch-act-complaint/
-    title: CREW Complaint - Chad Wolf Violated Hatch Act During RNC
-    publisher: Citizens for Responsibility and Ethics in Washington (CREW)
-    date: 2020-08-27
-    tier: 2
+- url: https://www.hstoday.us/federal-pages/dhs/osc-finds-hatch-act-violation-in-naturalization-ceremony-led-by-chad-wolf/
+  title: OSC Finds Hatch Act Violation in Naturalization Ceremony Led by Chad Wolf
+  date: 2021-08-20
+  tier: 1
+  outlet: Homeland Security Today
+- url: https://www.washingtonpost.com/politics/2020/08/26/trump-immigrants-naturalization-rnc/
+  title: For one cynical and perhaps illegal moment, Trump finds a use for immigrants
+  date: 2020-08-26
+  tier: 1
+  outlet: The Washington Post
+- url: https://abcnews.go.com/Politics/immigrant-unaware-naturalization-ceremony-republican-national-convention/story?id=72635289
+  title: Immigrant unaware naturalization ceremony would be used at Republican National Convention
+  date: 2020-08-31
+  tier: 1
+  outlet: ABC News
+- url: https://www.citizensforethics.org/news/press-releases/chad-wolf-hatch-act-complaint/
+  title: CREW Complaint - Chad Wolf Violated Hatch Act During RNC
+  date: 2020-08-27
+  tier: 2
+  outlet: Citizens for Responsibility and Ethics in Washington (CREW)
 ---
 
 Acting Homeland Security Secretary Chad Wolf presided over a naturalization ceremony in the White House Cross Hall that was orchestrated specifically to create content for the Republican National Convention, with the footage broadcast that evening as part of the RNC programming. The U.S. Office of Special Counsel later concluded that Wolf violated the Hatch Act by using his official authority for a partisan political event, with evidence showing the ceremony was "scheduled and conducted for the purpose of producing content to be used at the RNC."

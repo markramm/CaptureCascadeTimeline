@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - White House
 - Department of Interior
-- US Army Corps of Engineers
+- U.S. Army Corps of Engineers
 - Senator Lisa Murkowski
 tags:
 - executive-order
@@ -24,14 +24,9 @@ tags:
 capture_lanes:
 - Executive Power & Emergency Authority
 citations:
-- 'White House — Declaring a National Energy Emergency (EO 14156) (Jan 20, 2025):
-  https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/'
-- 'Federal Register — Declaring a National Energy Emergency (EO 14156) (Jan 29, 2025):
-  https://www.federalregister.gov/documents/2025/01/29/2025-02003/declaring-a-national-energy-emergency'
-notes: Executive authority expansion through emergency declarations to bypass statutes
-  despite no actual energy shortage. U.S. produces more oil and gas than any other
-  country. Critics note emergency powers being used for political goals rather than
-  actual emergencies.
+- 'White House — Declaring a National Energy Emergency (EO 14156) (Jan 20, 2025): https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-energy-emergency/'
+- 'Federal Register — Declaring a National Energy Emergency (EO 14156) (Jan 29, 2025): https://www.federalregister.gov/documents/2025/01/29/2025-02003/declaring-a-national-energy-emergency'
+notes: Executive authority expansion through emergency declarations to bypass statutes despite no actual energy shortage. U.S. produces more oil and gas than any other country. Critics note emergency powers being used for political goals rather than actual emergencies.
 sources:
 - title: Unleashing American Energy
   url: https://www.whitehouse.gov/presidential-actions/2025/01/unleashing-american-energy/

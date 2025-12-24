@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Bono criticises USAid cuts in lengthy interview with podcaster Joe Rogan
   url: https://www.irishtimes.com/culture/tv-radio/2025/05/31/bono-criticises-usaid-cuts-in-lengthy-interview-with-podcaster-joe-rogan/
-  publisher: The Irish Times
   date: '2025-05-31'
   tier: 1
+  outlet: The Irish Times
 - title: Bono Educates Joe Rogan on DOGE's 'Pure Evil' USAID Cuts
   url: https://www.rollingstone.com/music/music-news/bono-joe-rogan-doge-usaid-cuts-pure-evil-1235352064/
-  publisher: Rolling Stone
   date: '2025-06-01'
   tier: 2
+  outlet: Rolling Stone
 - title: Bono Sparks MAGA Backlash After Joe Rogan Appearance
   url: https://www.newsweek.com/bono-sparks-maga-backlash-during-joe-rogan-appearance-2079295
-  publisher: Newsweek
   date: '2025-06-02'
   tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

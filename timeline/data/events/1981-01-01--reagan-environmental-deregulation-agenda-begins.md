@@ -8,7 +8,7 @@ actors:
 - Ronald Reagan
 - Anne Gorsuch
 - James Watt
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
 - Department of Interior
 tags:
 - environmental-deregulation
@@ -17,17 +17,17 @@ tags:
 - reagan
 - public-health
 sources:
-- title: 'Anne Gorsuch Burford'
+- title: Anne Gorsuch Burford
   url: https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'James G. Watt'
+- title: James G. Watt
   url: https://en.wikipedia.org/wiki/James_G._Watt
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'How Reagan EPA Chief Paved Way for Trump Assault on Agency'
+- title: How Reagan EPA Chief Paved Way for Trump Assault on Agency
   url: https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency
   outlet: The New Republic
   date: '2017-02-14'

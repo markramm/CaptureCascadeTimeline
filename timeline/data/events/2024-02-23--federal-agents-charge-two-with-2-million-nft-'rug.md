@@ -3,7 +3,7 @@ actors:
 - Devin Alan Rhoden
 - Berman Jerry Nowlin Jr.
 - HSI
-- DHS
+- Department of Homeland Security
 - U.S. Attorney's Office for the Middle District of Florida
 date: '2024-02-23'
 id: 2024-02-23--federal-agents-charge-two-with-2-million-nft-'rug
@@ -13,12 +13,10 @@ sources:
   title: 2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains
   url: https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains
 - outlet: U.S. Department of Justice - Middle District of Florida
-  title: Two Individuals Charged With Non-Fungible Token 'Rug Pull' And Laundering
-    Proceeds Through The Solana And Ethereum Blockchains
+  title: Two Individuals Charged With Non-Fungible Token 'Rug Pull' And Laundering Proceeds Through The Solana And Ethereum Blockchains
   url: https://www.justice.gov/usao-mdfl/pr/two-individuals-charged-non-fungible-token-rug-pull-and-laundering-proceeds-through
 - outlet: HS Today
-  title: Jury Finds Cybercurrency Developer of Defrauding Investors, Laundering Proceeds
-    Through Other Blockchains
+  title: Jury Finds Cybercurrency Developer of Defrauding Investors, Laundering Proceeds Through Other Blockchains
   url: https://www.hstoday.us/subject-matter-areas/cybersecurity/jury-finds-cybercurrency-developer-of-defrauding-investors-laundering-proceeds-through-other-blockchains/
 tags:
 - nft

@@ -5,7 +5,7 @@ title: DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Se
 importance: 10
 tags:
 - voter-suppression
-- DOJ-weaponization
+- doj-weaponization
 - surveillance-state
 - electoral-manipulation
 - civil-liberties
@@ -24,29 +24,29 @@ actors:
 sources:
 - url: https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada
   title: Trump's DOJ has sued 18 states to try to access voter data
-  publisher: NPR
   date: '2025-12-12'
   tier: 1
+  outlet: NPR
 - url: https://www.justice.gov/opa/pr/justice-department-sues-four-additional-states-and-one-locality-failure-comply-federal
   title: Justice Department Sues Four Additional States and One Locality for Failure to Comply with Federal Elections Laws
-  publisher: Department of Justice
   date: '2025-12-12'
   tier: 1
+  outlet: Department of Justice
 - url: https://www.wgbh.org/news/national/2025-12-12/justice-department-sues-mass-17-other-states-for-access-to-detailed-voter-data
   title: Justice Department sues Mass., 17 other states for access to detailed voter data
-  publisher: GBH (PBS)
   date: '2025-12-12'
   tier: 1
+  outlet: GBH (PBS)
 - url: https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information
   title: Tracker of Justice Department Requests for Voter Information
-  publisher: Brennan Center for Justice
   date: '2025-12-12'
   tier: 1
+  outlet: Brennan Center for Justice
 - url: https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data
   title: ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data
-  publisher: ACLU
   date: '2025-12-12'
   tier: 1
+  outlet: ACLU
 ---
 
 The Department of Justice announced on December 12, 2025 that it had sued four additional states—Colorado, Hawaii, Massachusetts, and Nevada—demanding complete, unredacted voter registration lists including driver's license numbers and partial Social Security numbers, bringing the total number of states sued to 18. This represents an unprecedented federal campaign to create a centralized national voter database, with the DOJ having contacted at least 40 states since May 2025 demanding sensitive voter information.

@@ -4,38 +4,38 @@ date: 2020-08-25
 title: Secretary of State Pompeo Delivers Historic RNC Speech from Jerusalem Rooftop, Violating Hatch Act After Changing State Department Policy
 importance: 9
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Mike Pompeo
-  - Republican National Convention
-  - State Department
-  - Abuse of Office
-  - Trump Administration
+- hatch act
+- ethics violations
+- mike pompeo
+- republican national convention
+- state department
+- abuse of office
+- trump administration
 actors:
-  - Mike Pompeo
-  - Donald Trump
-  - Office of Special Counsel
+- Mike Pompeo
+- Donald Trump
+- Office of Special Counsel (OSC)
 sources:
-  - url: https://www.nbcnews.com/politics/donald-trump/watchdog-mike-pompeo-changed-state-department-rules-violated-hatch-act-n1283615
-    title: Watchdog - Mike Pompeo changed State Department rules, violated Hatch Act with convention speech
-    publisher: NBC News
-    date: 2021-10-18
-    tier: 1
-  - url: https://religionnews.com/2020/08/26/mike-pompeo-accused-of-violating-hatch-act-in-jerusalem-rnc-speech/
-    title: Mike Pompeo accused of violating Hatch Act in Jerusalem RNC speech
-    publisher: Religion News Service
-    date: 2020-08-26
-    tier: 1
-  - url: https://www.cnn.com/2020/10/26/politics/pompeo-probe-hatch-act-violation/index.html
-    title: Pompeo being investigated for potentially breaking the law with RNC speech
-    publisher: CNN
-    date: 2020-10-26
-    tier: 1
-  - url: https://www.politifact.com/article/2020/aug/26/rnc-featured-pompeo-jerusalem-and-official-white-h/
-    title: The RNC featured Pompeo in Jerusalem and official White House acts. Is that legal?
-    publisher: PolitiFact
-    date: 2020-08-26
-    tier: 1
+- url: https://www.nbcnews.com/politics/donald-trump/watchdog-mike-pompeo-changed-state-department-rules-violated-hatch-act-n1283615
+  title: Watchdog - Mike Pompeo changed State Department rules, violated Hatch Act with convention speech
+  date: 2021-10-18
+  tier: 1
+  outlet: NBC News
+- url: https://religionnews.com/2020/08/26/mike-pompeo-accused-of-violating-hatch-act-in-jerusalem-rnc-speech/
+  title: Mike Pompeo accused of violating Hatch Act in Jerusalem RNC speech
+  date: 2020-08-26
+  tier: 1
+  outlet: Religion News Service
+- url: https://www.cnn.com/2020/10/26/politics/pompeo-probe-hatch-act-violation/index.html
+  title: Pompeo being investigated for potentially breaking the law with RNC speech
+  date: 2020-10-26
+  tier: 1
+  outlet: CNN
+- url: https://www.politifact.com/article/2020/aug/26/rnc-featured-pompeo-jerusalem-and-official-white-h/
+  title: The RNC featured Pompeo in Jerusalem and official White House acts. Is that legal?
+  date: 2020-08-26
+  tier: 1
+  outlet: PolitiFact
 ---
 
 Secretary of State Mike Pompeo delivered a speech to the Republican National Convention from a hotel rooftop in Jerusalem during an official diplomatic trip to the Middle East, becoming the first sitting Secretary of State to address a party convention in modern history. The U.S. Office of Special Counsel later concluded that Pompeo violated the Hatch Act after changing long-standing State Department policy specifically to permit his own partisan political participation, documenting that he amended the policy "after being asked, on behalf of President Trump, to participate in the RNC."

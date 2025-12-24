@@ -4,38 +4,38 @@ date: '2023-11-06'
 title: Trump Takes Stand in NY Fraud Trial, Delivers Combative Testimony Calling Case "Witch Hunt"
 importance: 8
 tags:
-  - Financial Fraud
-  - NY Attorney General
-  - Trump Organization
-  - Court Testimony
-  - Arthur Engoron
+- financial fraud
+- ny attorney general
+- trump organization
+- court testimony
+- arthur engoron
 actors:
-  - Donald Trump
-  - Arthur Engoron
-  - Letitia James
-  - Trump Organization
-  - Michael Cohen
+- Donald Trump
+- Arthur Engoron
+- Letitia James
+- Trump Organization
+- Michael Cohen
 sources:
-  - url: https://www.france24.com/en/live-news/20231106-trump-to-testify-at-civil-trial-targeting-his-new-york-empire
-    title: Trump repeatedly clashes with judge at NY civil fraud trial
-    publisher: France24
-    date: '2023-11-06'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/judge-orders-trump-take-stand-ny-fraud-trial-fines-10000-violating-gag-rcna122199
-    title: Trump storms out of fraud trial after judge clashes with attorneys
-    publisher: NBC News
-    date: '2023-10-25'
-    tier: 1
-  - url: https://www.cnbc.com/2023/10/25/trump-fraud-trial-michael-cohen-testifies-in-fraud-trial.html
-    title: Trump fraud trial - Michael Cohen testifies
-    publisher: CNBC
-    date: '2023-10-25'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-fraud-trial-michael-cohen-live-updates-rcna122011
-    title: Trump storms out as Michael Cohen testifies - Fraud trial highlights
-    publisher: NBC News
-    date: '2023-10-25'
-    tier: 1
+- url: https://www.france24.com/en/live-news/20231106-trump-to-testify-at-civil-trial-targeting-his-new-york-empire
+  title: Trump repeatedly clashes with judge at NY civil fraud trial
+  date: '2023-11-06'
+  tier: 1
+  outlet: France24
+- url: https://www.nbcnews.com/politics/donald-trump/judge-orders-trump-take-stand-ny-fraud-trial-fines-10000-violating-gag-rcna122199
+  title: Trump storms out of fraud trial after judge clashes with attorneys
+  date: '2023-10-25'
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnbc.com/2023/10/25/trump-fraud-trial-michael-cohen-testifies-in-fraud-trial.html
+  title: Trump fraud trial - Michael Cohen testifies
+  date: '2023-10-25'
+  tier: 1
+  outlet: CNBC
+- url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-fraud-trial-michael-cohen-live-updates-rcna122011
+  title: Trump storms out as Michael Cohen testifies - Fraud trial highlights
+  date: '2023-10-25'
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

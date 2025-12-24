@@ -2,8 +2,7 @@
 id: 2024-09-30--biden-uses-emergency-drawdown-authority-55-times-t
 date: '2024-09-30'
 importance: 7
-title: Biden Uses Emergency Drawdown Authority 55 Times to Send $31.7B in Weapons
-  to Ukraine
+title: Biden Uses Emergency Drawdown Authority 55 Times to Send $31.7B in Weapons to Ukraine
 actors:
 - Joe Biden
 - Pentagon
@@ -24,7 +23,7 @@ sources:
   date: '2024-09-30'
 - title: 'Presidential Drawdown Authority: Guidance Should Reflect Expanded Use'
   url: https://www.gao.gov/products/gao-25-107475
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2024-09-19'
 - title: U.S. Security Assistance to Ukraine
   url: https://crsreports.congress.gov/product/pdf/IF/IF12040

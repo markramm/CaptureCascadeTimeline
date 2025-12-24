@@ -12,16 +12,16 @@ actors:
 - Zach Klein
 - Shannon Hardin
 - Afghan Refugee Community
-- Department of Homeland Security (DHS)
+- Department of Homeland Security
 tags:
-- ICE
+- ice
 - immigration-enforcement
-- Afghan-refugees
-- Taliban
-- CBP-One
+- afghan-refugees
+- taliban
+- cbp-one
 - deportations
-- Columbus
-- Ohio
+- columbus
+- ohio
 - refugee-betrayal
 - legal-immigration-targeted
 - bait-and-switch
@@ -32,25 +32,25 @@ capture_lanes:
 - Community Terrorization
 - International Obligations Violated
 sources:
-- title: "Operation Buckeye"
+- title: Operation Buckeye
   url: https://www.ice.gov/newsroom
   outlet: U.S. Immigration and Customs Enforcement
   date: '2025-12-20'
   archive_url: null
   tier: 1
-- title: "'Good, innocent people' detained as ICE raids across Columbus spark fear, confusion"
+- title: '''Good, innocent people'' detained as ICE raids across Columbus spark fear, confusion'
   url: https://abc6onyourside.com/news/local/good-innocent-people-detained-as-ice-raids-across-columbus-spark-fear-confusion
   outlet: ABC6 Columbus
   date: '2025-12-19'
   archive_url: null
   tier: 2
-- title: "Reports of increased ICE activity spark response from Columbus city officials and police"
+- title: Reports of increased ICE activity spark response from Columbus city officials and police
   url: https://www.wosu.org/politics-government/2025-12-18/reports-of-increased-ice-activity-spark-response-from-columbus-city-officials-and-police
   outlet: WOSU Public Media (NPR)
   date: '2025-12-18'
   archive_url: null
   tier: 1
-- title: "Columbus mayor, police chief release video reassuring immigrants amid ICE deployment"
+- title: Columbus mayor, police chief release video reassuring immigrants amid ICE deployment
   url: https://abc6onyourside.com/news/local/mayor-police-chief-affirm-columbus-policy-against-aiding-federal-immigration-probes-andrew-ginther-elaine-bryant-cpd-central-ohio-ice-trump-gop-secretary-kristi-noem
   outlet: ABC6 Columbus
   date: '2025-12-18'

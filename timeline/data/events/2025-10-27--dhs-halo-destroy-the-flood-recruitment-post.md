@@ -16,29 +16,29 @@ actors:
 - Department of Homeland Security
 - Kaelan Dorr
 - Marcus Lehto
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - White House
 sources:
 - title: Federal judge says Border Patrol Chief Gregory Bovino admitted he lied
   url: https://www.cnn.com/2025/11/06/us/gregory-bovino-deposition-chicago-immigration
-  publisher: CNN
   date: '2025-11-06'
   tier: 1
+  outlet: CNN
 - title: DHS immigration raid architect Gregory Bovino moves from LA to Chicago
   url: https://www.kotaku.com/halo-dhs-ice-recruitment-destroy-flood-1234567890
-  publisher: Kotaku
   date: '2025-10-27'
   tier: 2
+  outlet: Kotaku
 - title: Chris Hayes - Meet the man putting Trump's brutal immigration agenda into action
   url: https://www.msnbc.com/top-stories/latest/trump-chicago-immigration-raids-greg-bovino-rcna240481
-  publisher: MSNBC
   date: '2025-09-15'
   tier: 2
+  outlet: MSNBC
 - title: Secretary Noem Travels to Chicago as Operation Midway Blitz Reaches More Than 1,000 Illegal Aliens Arrested
   url: https://www.dhs.gov/news/2025/10/03/secretary-noem-travels-chicago-operation-midway-blitz-reaches-more-1000-illegal
-  publisher: Department of Homeland Security
   date: '2025-10-03'
   tier: 1
+  outlet: Department of Homeland Security
 status: confirmed
 ---
 

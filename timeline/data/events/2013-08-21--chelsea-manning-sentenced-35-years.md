@@ -4,32 +4,32 @@ date: 2013-08-21
 title: Chelsea Manning Sentenced to 35 Years for WikiLeaks Disclosures
 importance: 9
 actors:
-  - Chelsea Manning
-  - U.S. Army
-  - Department of Justice
-  - Obama Administration
+- Chelsea Manning
+- U.S. Army
+- Department of Justice
+- Obama Administration
 tags:
-  - whistleblower-prosecution
-  - espionage-act
-  - wikileaks
-  - military-justice
-  - war-crimes
+- whistleblower-prosecution
+- espionage-act
+- wikileaks
+- military-justice
+- war-crimes
 sources:
-  - url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
-    title: Commutation for Chelsea Manning
-    publisher: Amnesty International
-    date: 2017-01-18
-    tier: 1
-  - url: https://www.wsws.org/en/articles/2017/01/18/mann-j18.html
-    title: Chelsea Manning sentence commuted after seven years of brutal imprisonment
-    publisher: World Socialist Web Site
-    date: 2017-01-18
-    tier: 2
-  - url: https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings
-    title: President Obama's Commutation of Chelsea Manning's Sentence
-    publisher: ACLU
-    date: 2017-01-17
-    tier: 1
+- url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
+  title: Commutation for Chelsea Manning
+  date: 2017-01-18
+  tier: 1
+  outlet: Amnesty International
+- url: https://www.wsws.org/en/articles/2017/01/18/mann-j18.html
+  title: Chelsea Manning sentence commuted after seven years of brutal imprisonment
+  date: 2017-01-18
+  tier: 2
+  outlet: World Socialist Web Site
+- url: https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings
+  title: President Obama's Commutation of Chelsea Manning's Sentence
+  date: 2017-01-17
+  tier: 1
+  outlet: ACLU
 ---
 
 U.S. Army Private Chelsea Manning was sentenced to 35 years in military prison for leaking classified documents to WikiLeaks that exposed war crimes and civilian casualties in Iraq and Afghanistan. The sentence was the longest ever imposed on a whistleblower under the Espionage Act and sparked international condemnation from human rights organizations.

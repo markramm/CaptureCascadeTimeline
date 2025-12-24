@@ -7,8 +7,8 @@ actors:
 - Donald Trump
 - Stephen Miller
 - Jeff Sessions
-- DHS
-- ICE
+- Department of Homeland Security
+- Immigration and Customs Enforcement (ICE)
 - CoreCivic
 - GEO Group
 tags:

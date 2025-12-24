@@ -8,7 +8,7 @@ actors:
 - Strategic Litigation Team
 - Legal Research Consortium
 - Democracy 2025
-- Lawyers for Good Government (L4GG)
+- Lawyers for Good Government
 - Institute for Constitutional Advocacy and Protection (ICAP)
 capture_lanes:
 - Systematic Corruption

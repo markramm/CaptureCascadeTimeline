@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.hrw.org/news/2016/10/13/yemen-saudi-led-funeral-attack-apparent-war-crime
   title: Yemen - Saudi-Led Funeral Attack Apparent War Crime
-  publisher: Human Rights Watch
   date: '2016-10-13'
   tier: 1
+  outlet: Human Rights Watch
 - url: https://www.aljazeera.com/news/2016/10/9/yemen-blasts-kill-140-people-at-sanaa-funeral
   title: Yemen - Blasts kill 140 people at Sanaa funeral
-  publisher: Al Jazeera
   date: '2016-10-09'
   tier: 2
+  outlet: Al Jazeera
 - url: https://www.npr.org/sections/thetwo-way/2016/10/15/498062791/saudis-say-wrong-information-caused-bombing-that-killed-140-in-yemen
   title: Saudis Say Wrong Information Caused Bombing That Killed 140 In Yemen
-  publisher: NPR
   date: '2016-10-15'
   tier: 1
+  outlet: NPR
 - url: https://theintercept.com/2016/10/10/photos-show-fragments-of-u-s-bombs-at-site-of-yemen-funeral-masssacre/
   title: Photos Show Fragments of U.S. Bombs at Site of Yemen Funeral Massacre
-  publisher: The Intercept
   date: '2016-10-10'
   tier: 2
+  outlet: The Intercept
 actors:
 - Saudi Arabia
 - Mohammed bin Salman

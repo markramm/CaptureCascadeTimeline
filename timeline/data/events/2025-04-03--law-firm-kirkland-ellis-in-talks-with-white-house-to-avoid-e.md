@@ -2,8 +2,7 @@
 id: 2025-04-03--law-firm-kirkland-ellis-in-talks-with-white-house-to-avoid-e
 date: '2025-04-03'
 title: Law firm Kirkland & Ellis in talks with White House to avoid executive order
-description: Kirkland & Ellis, the largest U.S. law firm by revenue, is negotiating
-  with the Trump White House to avoid becoming the next target of an executive order
+description: Kirkland & Ellis, the largest U.S. law firm by revenue, is negotiating with the Trump White House to avoid becoming the next target of an executive order
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -17,7 +16,7 @@ capture_type: monetizing_position
 sources:
 - title: Law firm Kirkland & Ellis in talks with White House to avoid executive order
   url: https://www.wsj.com/us-news/law/law-firm-kirkland-ellis-in-talks-with-white-house-to-avoid-executive-order-939a9f56?mod=hp_lead_pos6
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-04-03'
 - title: Kirkland Talks Deal With Trump White House, Looks to Avoid Order
   url: https://news.bloomberglaw.com/business-and-practice/kirkland-talks-deal-with-trump-white-house-looks-to-avoid-order

@@ -4,31 +4,31 @@ date: 2007-09-01
 title: FBI Inspector General Reports 35% Error Rate on Terror Watchlist
 importance: 7
 actors:
-  - FBI
-  - Department of Justice Inspector General
-  - Terrorist Screening Center
+- FBI
+- Department of Justice Inspector General
+- Terrorist Screening Center
 tags:
-  - fbi-abuse
-  - watchlists
-  - no-fly-list
-  - civil-liberties
-  - due-process
+- fbi-abuse
+- watchlists
+- no-fly-list
+- civil-liberties
+- due-process
 sources:
-  - url: https://www.aclu.org/press-releases/fbi-inspector-general-reports-35-percent-error-rate-terror-watchlist
-    title: FBI Inspector General Reports 35 Percent Error Rate
-    publisher: ACLU
-    date: 2007-09-06
-    tier: 1
-  - url: https://www.aclu.org/documents/us-government-watchlisting-unfair-process-and-devastating-consequences
-    title: U.S. Government Watchlisting - Unfair Process
-    publisher: ACLU
-    date: 2014-06-01
-    tier: 1
-  - url: https://www.aclu.org/news/national-security/the-watchlisting-system-exemplifies-the-governments-post-9-11-embrace-of-biased-profiling
-    title: Watchlisting System Exemplifies Biased Profiling
-    publisher: ACLU
-    date: 2020-09-11
-    tier: 1
+- url: https://www.aclu.org/press-releases/fbi-inspector-general-reports-35-percent-error-rate-terror-watchlist
+  title: FBI Inspector General Reports 35 Percent Error Rate
+  date: 2007-09-06
+  tier: 1
+  outlet: ACLU
+- url: https://www.aclu.org/documents/us-government-watchlisting-unfair-process-and-devastating-consequences
+  title: U.S. Government Watchlisting - Unfair Process
+  date: 2014-06-01
+  tier: 1
+  outlet: ACLU
+- url: https://www.aclu.org/news/national-security/the-watchlisting-system-exemplifies-the-governments-post-9-11-embrace-of-biased-profiling
+  title: Watchlisting System Exemplifies Biased Profiling
+  date: 2020-09-11
+  tier: 1
+  outlet: ACLU
 ---
 
 A Department of Justice Inspector General audit revealed that the FBI's terrorist watchlist contained approximately 35% errors, with large portions of the list governed by no formal processes for updating or removing records. The report exposed systematic failures in a watchlist system that had grown to include hundreds of thousands of names, with devastating consequences for innocent people wrongly flagged as terrorism suspects.

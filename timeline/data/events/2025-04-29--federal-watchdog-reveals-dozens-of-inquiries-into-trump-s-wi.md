@@ -2,11 +2,7 @@
 id: 2025-04-29--federal-watchdog-reveals-dozens-of-inquiries-into-trump-s-wi
 date: '2025-04-29'
 title: Federal Watchdog Reveals Dozens of Inquiries Into Trump's Withholding of Funds
-description: The Government Accountability Office is investigating whether Trump illegally
-  withheld over $430 billion in congressional appropriations from a variety of agencies,
-  with specific violations found in the Transportation Department and Institute of
-  Museum and Library Services. These investigations represent a potential constitutional
-  challenge to executive power and fiscal responsibility.
+description: The Government Accountability Office is investigating whether Trump illegally withheld over $430 billion in congressional appropriations from a variety of agencies, with specific violations found in the Transportation Department and Institute of Museum and Library Services. These investigations represent a potential constitutional challenge to executive power and fiscal responsibility.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -14,7 +10,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Russ Vought
-- Government Accountability Office
+- Government Accountability Office (GAO)
 - Rosa DeLauro
 - Patty Murray
 tags:
@@ -24,10 +20,9 @@ tags:
 - budget-manipulation
 capture_type: monetizing_position
 sources:
-- title: Federal watchdog reveals dozens of inquiries Into Trump's withholding of
-    funds
+- title: Federal watchdog reveals dozens of inquiries Into Trump's withholding of funds
   url: https://www.nytimes.com/2025/04/29/us/politics/trump-funds-gao.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-04-29'
 - title: Trump Blocking $410+ Billion in Funding Owed to Communities Nationwide
   url: https://democrats-appropriations.house.gov/news/press-releases/new-weeks-away-end-fiscal-year-trump-blocking-410-billion-funding-owed
@@ -43,9 +38,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - executive-overreach
-notes: Event from comprehensive kleptocracy timeline tracking. Detailed investigation
-  reveals systematic blocking of congressionally appropriated funds across multiple
-  federal agencies.
+notes: Event from comprehensive kleptocracy timeline tracking. Detailed investigation reveals systematic blocking of congressionally appropriated funds across multiple federal agencies.
 capture_lanes:
 - Legislative Capture
 - Financial Capture

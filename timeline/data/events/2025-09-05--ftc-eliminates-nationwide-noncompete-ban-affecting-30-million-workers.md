@@ -1,8 +1,7 @@
 ---
 id: 2025-09-05--ftc-eliminates-nationwide-noncompete-ban-affecting-30-million-workers
 date: '2025-09-05'
-title: FTC Reverses Nationwide Noncompete Ban, Leaving 30 Million Workers Bound by
-  Restrictive Contracts
+title: FTC Reverses Nationwide Noncompete Ban, Leaving 30 Million Workers Bound by Restrictive Contracts
 importance: 8
 tags:
 - regulatory-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.npr.org/2025/09/05/ftc-noncompete-ban-eliminated-andrew-ferguson
   title: Federal Trade Commission Reverses Worker Protection on Job Mobility
-  publisher: NPR
   date: '2025-09-05'
   tier: 1
+  outlet: NPR
 actors:
 - Andrew Ferguson
 - Federal Trade Commission

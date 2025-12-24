@@ -20,14 +20,14 @@ actors:
 sources:
 - title: Butina Boss Alexander Torshin - The Kremlin's No-Longer-Secret Weapon
   url: https://www.thedailybeast.com/butina-boss-alexander-torshin-the-kremlins-no-longer-secret-weapon/
-  publisher: The Daily Beast
   date: '2018-07-20'
   tier: 2
+  outlet: The Daily Beast
 - title: Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme
   url: https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme
-  publisher: NPR
   date: '2018-12-13'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

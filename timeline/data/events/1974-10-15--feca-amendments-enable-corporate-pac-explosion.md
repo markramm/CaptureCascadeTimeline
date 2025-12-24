@@ -6,7 +6,7 @@ title: FECA Amendments Enable Corporate PAC Formation, Triggering 1,600% Growth
 location: Washington, D.C.
 actors:
 - U.S. Congress
-- Federal Election Commission
+- Federal Election Commission (FEC)
 tags:
 - campaign-finance
 - corporate-pacs

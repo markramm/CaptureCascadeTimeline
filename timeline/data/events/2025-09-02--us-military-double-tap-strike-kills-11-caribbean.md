@@ -12,24 +12,24 @@ tags:
 sources:
 - url: https://www.nbcnews.com/politics/white-house/white-house-confirms-second-sept-2-strike-alleged-drug-boat-rcna246834
   title: White House confirms second Sept. 2 strike on alleged drug boat
-  publisher: NBC News
   date: '2025-12-01'
   tier: 1
+  outlet: NBC News
 - url: https://www.npr.org/2025/12/03/nx-s1-5630324/did-the-trump-administration-commit-a-war-crime-in-its-attack-on-a-venezuelan-boat
   title: Did the Trump administration commit a war crime in its attack on a Venezuelan boat?
-  publisher: NPR
   date: '2025-12-03'
   tier: 1
+  outlet: NPR
 - url: https://www.democracynow.org/2025/12/2/headlines/white_house_defends_double_tap_strike_on_alleged_drug_boat_says_admiral_gave_the_order_to_kill
   title: White House Defends "Double Tap" Strike on Alleged Drug Boat, Says Admiral Gave Order to Kill
-  publisher: Democracy Now!
   date: '2025-12-02'
   tier: 1
+  outlet: Democracy Now!
 - url: https://www.military.com/daily-news/2025/12/01/white-house-says-admiral-ordered-follow-strike-alleged-drug-boat-insists-attack-was-lawful.html
   title: White House Says Admiral Ordered Follow-on Strike on Alleged Drug Boat
-  publisher: Military.com
   date: '2025-12-01'
   tier: 1
+  outlet: Military.com
 actors:
 - Admiral Frank "Mitch" Bradley
 - Pete Hegseth

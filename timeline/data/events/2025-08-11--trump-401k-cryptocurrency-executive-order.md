@@ -1,36 +1,33 @@
 ---
 id: 2025-08-11--trump-401k-cryptocurrency-executive-order
 date: '2025-08-11'
-title: Trump Opens $12.5 Trillion in Retirement Savings to Cryptocurrency and Private
-  Equity Risk
+title: Trump Opens $12.5 Trillion in Retirement Savings to Cryptocurrency and Private Equity Risk
 importance: 8
 actors:
 - Donald Trump
 - Department of Labor
 - Cryptocurrency industry
-- Private equity industry
+- Private Equity Industry
 tags:
 - regulatory-capture
 - systematic-corruption
 - crypto
 sources:
 - url: https://www.pbs.org/newshour/politics/trump-opens-door-for-401k-retirement-plans-to-invest-in-private-equity-and-crypto
-  title: Trump opens door for 401(k) retirement plans to invest in private equity
-    and crypto
-  publisher: PBS NewsHour
+  title: Trump opens door for 401(k) retirement plans to invest in private equity and crypto
   date: '2025-08-07'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://www.cnbc.com/2025/08/07/trump-order-will-allow-alternative-assets-like-cryptocurrencies-private-equity-in-401ks.html
-  title: Trump signs order allowing alternative assets like cryptocurrencies, private
-    equity in 401(k)s
-  publisher: CNBC
+  title: Trump signs order allowing alternative assets like cryptocurrencies, private equity in 401(k)s
   date: '2025-08-07'
   tier: 2
+  outlet: CNBC
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-204
   title: 'Trump Tyranny Tracker: Day 204'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-17'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Trump signed an executive order directing the Labor Department to allow cryptocurrencies, private equity, and other alternative assets in 401(k) retirement plans, exposing the $12.5 trillion in retirement savings to high-risk, illiquid investments with elevated fees.

@@ -4,30 +4,30 @@ date: 2018-03-01
 title: TRM Labs Founded to Provide Blockchain Intelligence to Governments and Financial Institutions
 importance: 7
 tags:
-  - surveillance
-  - cryptocurrency
-  - private-sector
-  - financial-crime
+- surveillance
+- cryptocurrency
+- private-sector
+- financial-crime
 actors:
-  - TRM Labs
-  - Esteban Castano
-  - Rahul Raina
+- TRM Labs
+- Esteban Castano
+- Rahul Raina
 sources:
-  - url: https://www.ycombinator.com/companies/trm-labs
-    title: TRM Labs - Y Combinator
-    publisher: Y Combinator
-    date: 2018-03-01
-    tier: 2
-  - url: https://www.crunchbase.com/organization/trm-labs
-    title: TRM Labs Company Profile
-    publisher: Crunchbase
-    date: 2018-03-01
-    tier: 2
-  - url: https://www.businesswire.com/news/home/20221109005400/en/Leading-Blockchain-Intelligence-Company-TRM-Labs-Announces-$70-Million-Series-B-Expansion-Led-by-Thoma-Bravo
-    title: TRM Labs Series B Funding Announcement
-    publisher: Business Wire
-    date: 2022-11-09
-    tier: 2
+- url: https://www.ycombinator.com/companies/trm-labs
+  title: TRM Labs - Y Combinator
+  date: 2018-03-01
+  tier: 2
+  outlet: Y Combinator
+- url: https://www.crunchbase.com/organization/trm-labs
+  title: TRM Labs Company Profile
+  date: 2018-03-01
+  tier: 2
+  outlet: Crunchbase
+- url: https://www.businesswire.com/news/home/20221109005400/en/Leading-Blockchain-Intelligence-Company-TRM-Labs-Announces-$70-Million-Series-B-Expansion-Led-by-Thoma-Bravo
+  title: TRM Labs Series B Funding Announcement
+  date: 2022-11-09
+  tier: 2
+  outlet: Business Wire
 ---
 
 Esteban Castano and Rahul Raina found TRM Labs in San Francisco, creating a blockchain intelligence platform designed to help government agencies, financial institutions, and cryptocurrency businesses detect and investigate crypto-related fraud and financial crime. The company enters a rapidly growing market for cryptocurrency surveillance technology, positioning itself to compete with established players like Chainalysis and Elliptic.

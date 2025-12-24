@@ -19,19 +19,19 @@ actors:
 sources:
 - url: https://www.zawya.com/uae/en/press-releases/story/Pegasus_a_DarkMatter_company_signs_a_Global_Strategic_MoU_with_Huawei_to_bring_greater_safety_and_security_to_Smart_Cities-ZAWYA20170429101816/
   title: Pegasus, a DarkMatter company, signs Global Strategic MoU with Huawei
-  publisher: Zawya
   date: '2017-04-29'
   tier: 2
+  outlet: Zawya
 - url: https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819
   title: Two American billionaires and their shady deals with Israeli intelligence
-  publisher: TRT World
   date: '2019-08-09'
   tier: 2
+  outlet: TRT World
 - url: https://exbulletin.com/politics/434943/
   title: UAE's deep ties to China, Russia could end F-35 military advantage
-  publisher: ExBulletin
   date: '2020-12-18'
   tier: 3
+  outlet: ExBulletin
 status: confirmed
 ---
 

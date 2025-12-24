@@ -1,8 +1,7 @@
 ---
 id: 2017-02-13--michael-flynn-resigns-after-24-days-shortest-nsa-tenure-russia-lies
 date: '2017-02-13'
-title: Michael Flynn Resigns After 24 Days as National Security Advisor - Shortest
-  Tenure Ever - Following Russia Lies to Pence and FBI
+title: Michael Flynn Resigns After 24 Days as National Security Advisor - Shortest Tenure Ever - Following Russia Lies to Pence and FBI
 importance: 10
 tags:
 - russia-investigation
@@ -20,14 +19,14 @@ actors:
 sources:
 - url: https://www.nbcnews.com/specials/michael-flynn-firing-lie-leak-liability/
   title: 'Michael Flynn''s firing: A lie, a leak, and then a liability'
-  publisher: NBC News
   date: '2017-02-14'
   tier: 1
+  outlet: NBC News
 - url: https://www.npr.org/2017/02/14/515138526/the-view-from-russia-national-security-adviser-michael-flynn-resigns
   title: 'View From Russia: National Security Adviser Michael Flynn Resigns'
-  publisher: NPR
   date: '2017-02-14'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

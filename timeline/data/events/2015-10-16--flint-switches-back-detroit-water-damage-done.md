@@ -4,30 +4,30 @@ date: 2015-10-16
 title: Flint Switches Back to Detroit Water After 18 Months—But Damage to Children Is Permanent
 importance: 9
 tags:
-  - flint-water-crisis
-  - public-health
-  - lead-poisoning
-  - children
+- flint-water-crisis
+- public-health
+- lead-poisoning
+- children
 actors:
-  - Rick Snyder
-  - Dayne Walling
-  - Flint City Government
+- Rick Snyder
+- Dayne Walling
+- Flint City Government
 sources:
-  - url: https://www.abc12.com/news/flint-water-emergency/flint-switches-back-to-detroit-water-system/article_44e64bc3-51e8-5a07-b4e7-4494876e12bf.html
-    title: Flint switches back to Detroit water system
-    publisher: ABC12
-    date: 2015-10-16
-    tier: 2
-  - url: https://www.michiganpublic.org/politics-government/2015-10-16/flint-reconnects-to-detroits-water-system
-    title: Flint reconnects to Detroit's water system
-    publisher: Michigan Public Radio
-    date: 2015-10-16
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Flint_water_crisis
-    title: Flint water crisis
-    publisher: Wikipedia
-    date: 2024-11-10
-    tier: 2
+- url: https://www.abc12.com/news/flint-water-emergency/flint-switches-back-to-detroit-water-system/article_44e64bc3-51e8-5a07-b4e7-4494876e12bf.html
+  title: Flint switches back to Detroit water system
+  date: 2015-10-16
+  tier: 2
+  outlet: ABC12
+- url: https://www.michiganpublic.org/politics-government/2015-10-16/flint-reconnects-to-detroits-water-system
+  title: Flint reconnects to Detroit's water system
+  date: 2015-10-16
+  tier: 1
+  outlet: Michigan Public Radio
+- url: https://en.wikipedia.org/wiki/Flint_water_crisis
+  title: Flint water crisis
+  date: 2024-11-10
+  tier: 2
+  outlet: Wikipedia
 status: confirmed
 ---
 

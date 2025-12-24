@@ -18,7 +18,7 @@ sources:
   date: '2020-09-29'
 - title: Inside the rocky billionaire bromance of Donald Trump and Carl Icahn
   url: https://www.washingtonpost.com/politics/carl-icahn-donald-trump-business-rivalry-partnership/2016/04/30/4cc69316-024a-11e6-9d36-33d198ea26c5_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
 tags:
 - trump
 - atlantic-city

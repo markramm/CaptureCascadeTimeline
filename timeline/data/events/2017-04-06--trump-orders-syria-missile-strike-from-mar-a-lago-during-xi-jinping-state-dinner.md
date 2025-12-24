@@ -1,8 +1,7 @@
 ---
 id: 2017-04-06--trump-orders-syria-missile-strike-from-mar-a-lago-during-xi-jinping-state-dinner
 date: '2017-04-06'
-title: Trump Orders Syria Missile Strike from Mar-a-Lago During State Dinner with
-  Xi Jinping - Military Action as Mar-a-Lago Spectacle
+title: Trump Orders Syria Missile Strike from Mar-a-Lago During State Dinner with Xi Jinping - Military Action as Mar-a-Lago Spectacle
 importance: 9
 tags:
 - mar-a-lago
@@ -20,19 +19,19 @@ actors:
 sources:
 - url: https://www.npr.org/2017/04/06/522948481/u-s-launches-airstrikes-against-syria-after-chemical-attack
   title: Trump Orders Syria Airstrikes After 'Assad Choked Out The Lives' Of Civilians
-  publisher: NPR
   date: '2017-04-06'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/white-house/trump-why-i-launched-missile-attack-syria-n743656
   title: 'Trump: Why I launched a missile Strike on Syria'
-  publisher: NBC News
   date: '2017-04-07'
   tier: 1
+  outlet: NBC News
 - url: https://www.pbs.org/newshour/world/u-s-fires-missiles-syria-first-attack-assad-regime
   title: U.S. fires missiles into Syria in first attack on Assad regime
-  publisher: PBS NewsHour
   date: '2017-04-07'
   tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 ---
 

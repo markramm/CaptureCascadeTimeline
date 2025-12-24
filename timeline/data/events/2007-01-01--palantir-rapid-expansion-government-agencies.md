@@ -3,6 +3,12 @@ id: 2007-01-01--palantir-rapid-expansion-government-agencies
 date: '2007-01-01'
 title: Palantir Begins Rapid Expansion Across U.S. Government Agencies
 importance: 8
+actors:
+- Palantir Technologies
+- Federal Bureau of Investigation
+- National Security Agency
+- Department of Homeland Security
+- Securities and Exchange Commission (SEC)
 tags:
 - palantir
 - government-contracts
@@ -11,21 +17,15 @@ tags:
 - nsa
 - dhs
 - surveillance-infrastructure
-actors:
-- Palantir Technologies
-- Federal Bureau of Investigation
-- National Security Agency
-- Department of Homeland Security
-- Securities and Exchange Commission
 sources:
-- url: https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/
-  title: Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients
-  publisher: TechCrunch
+- title: Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients
+  url: https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/
+  outlet: TechCrunch
   date: '2015-01-11'
   tier: 2
-- url: https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851
-  title: 'The seer and the seen: Surveying Palantir''s surveillance platform'
-  publisher: Taylor & Francis
+- title: 'The seer and the seen: Surveying Palantir''s surveillance platform'
+  url: https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851
+  outlet: Taylor & Francis
   date: '2022-08-04'
   tier: 2
 ---

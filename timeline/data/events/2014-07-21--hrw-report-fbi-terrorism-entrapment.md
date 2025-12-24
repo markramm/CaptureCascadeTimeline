@@ -4,31 +4,31 @@ date: 2014-07-21
 title: Human Rights Watch Report - FBI Terrorism Prosecutions "Often An Illusion"
 importance: 8
 actors:
-  - FBI
-  - Human Rights Watch
-  - Department of Justice
+- FBI
+- Human Rights Watch
+- Department of Justice
 tags:
-  - fbi-abuse
-  - entrapment
-  - terrorism-prosecution
-  - civil-liberties
-  - accountability
+- fbi-abuse
+- entrapment
+- terrorism-prosecution
+- civil-liberties
+- accountability
 sources:
-  - url: https://www.hrw.org/news/2014/07/21/us-terrorism-prosecutions-often-illusion
-    title: US - Terrorism Prosecutions Often An Illusion
-    publisher: Human Rights Watch
-    date: 2014-07-21
-    tier: 1
-  - url: https://hrlr.law.columbia.edu/hrlr-online/the-anatomy-of-a-federal-terrorism-prosecution-a-blueprint-for-repression-and-entrapment/
-    title: Anatomy of a Federal Terrorism Prosecution
-    publisher: Columbia Human Rights Law Review
-    date: 2014-07-21
-    tier: 1
-  - url: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7566&context=jclc
-    title: Estimating the Prevalence of Entrapment in Post-9/11 Cases
-    publisher: Northwestern Journal of Criminal Law and Criminology
-    date: 2014-01-01
-    tier: 1
+- url: https://www.hrw.org/news/2014/07/21/us-terrorism-prosecutions-often-illusion
+  title: US - Terrorism Prosecutions Often An Illusion
+  date: 2014-07-21
+  tier: 1
+  outlet: Human Rights Watch
+- url: https://hrlr.law.columbia.edu/hrlr-online/the-anatomy-of-a-federal-terrorism-prosecution-a-blueprint-for-repression-and-entrapment/
+  title: Anatomy of a Federal Terrorism Prosecution
+  date: 2014-07-21
+  tier: 1
+  outlet: Columbia Human Rights Law Review
+- url: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7566&context=jclc
+  title: Estimating the Prevalence of Entrapment in Post-9/11 Cases
+  date: 2014-01-01
+  tier: 1
+  outlet: Northwestern Journal of Criminal Law and Criminology
 ---
 
 Human Rights Watch released a comprehensive 214-page report documenting that many high-profile FBI terrorism prosecutions were "an illusion" based on aggressive sting operations that entrapped vulnerable individuals who posed no genuine threat. The report analyzed decades of terrorism cases and found systematic targeting of mentally ill, intellectually disabled, and economically desperate people.

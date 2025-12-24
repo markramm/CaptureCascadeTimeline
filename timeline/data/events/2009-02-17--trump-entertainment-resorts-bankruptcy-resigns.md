@@ -4,29 +4,29 @@ date: 2009-02-17
 title: Trump Entertainment Resorts Files Bankruptcy, Trump Resigns from Board
 importance: 7
 tags:
-  - Bankruptcy
-  - Business Failure
-  - Atlantic City
-  - Casinos
-  - Financial History
-  - Debt
-  - Economic Recession
+- bankruptcy
+- business failure
+- atlantic city
+- casinos
+- financial history
+- debt
+- economic recession
 sources:
-  - url: https://money.cnn.com/2009/02/17/news/companies/trump_entertainment/index.htm
-    title: "Trump Entertainment files for Chapter 11"
-    publisher: CNN Money
-    date: 2009-02-17
-    tier: 1
-  - url: https://themoscowproject.org/collusion/trump-entertainment-resorts-inc-files-bankruptcy/
-    title: "Trump Entertainment Resorts Inc. Files for Bankruptcy"
-    publisher: The Moscow Project
-    date: 2009-02-18
-    tier: 2
-  - url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
-    title: "Yep, Donald Trump's companies have declared bankruptcy...more than four times"
-    publisher: PolitiFact
-    date: 2016-06-21
-    tier: 1
+- url: https://money.cnn.com/2009/02/17/news/companies/trump_entertainment/index.htm
+  title: Trump Entertainment files for Chapter 11
+  date: 2009-02-17
+  tier: 1
+  outlet: CNN Money
+- url: https://themoscowproject.org/collusion/trump-entertainment-resorts-inc-files-bankruptcy/
+  title: Trump Entertainment Resorts Inc. Files for Bankruptcy
+  date: 2009-02-18
+  tier: 2
+  outlet: The Moscow Project
+- url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
+  title: Yep, Donald Trump's companies have declared bankruptcy...more than four times
+  date: 2016-06-21
+  tier: 1
+  outlet: PolitiFact
 ---
 
 Trump Entertainment Resorts filed for Chapter 11 bankruptcy protection on February 17, 2009, after missing a $53.1 million bond payment, marking the sixth bankruptcy of a Trump casino company in 18 years. Just four days before the filing, on February 13, Donald Trump resigned as chairman of the company's board, and his daughter Ivanka Trump also quit the board, as Trump distanced himself from the failing enterprise. The company faced $1.2 billion in debt amid the 2008 financial crisis and the collapse of the Atlantic City gaming market. Trump's ownership stake was reduced to just 10 percent, and he later fought to remove his name from the casinos entirely.

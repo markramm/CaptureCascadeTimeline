@@ -11,14 +11,14 @@ tags:
 sources:
 - url: https://en.wikipedia.org/wiki/Clearview_AI
   title: Clearview AI - Wikipedia
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - url: https://medium.com/@davidsehyeonbaek/clearview-ai-a-powerful-yet-perilous-facial-recognition-technology-company-36ca465ee5eb
   title: 'Clearview AI: A Powerful Yet Perilous Facial Recognition Technology Company'
-  publisher: Medium
   date: '2023-01-01'
   tier: 3
+  outlet: Medium
 actors:
 - Hoan Ton-That
 - Richard Schwartz

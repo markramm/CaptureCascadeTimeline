@@ -4,40 +4,40 @@ date: 2021-05-18
 title: Amazon extends Rekognition police ban indefinitely as Congressional regulation stalls
 importance: 7
 actors:
-  - Amazon
-  - AWS
-  - Andy Jassy
-  - Jeff Bezos
+- Amazon
+- AWS
+- Andy Jassy
+- Jeff Bezos
 tags:
-  - surveillance
-  - facial-recognition
-  - amazon
-  - rekognition
-  - police
-  - law-enforcement
-  - civil-liberties
-  - regulation
+- surveillance
+- facial-recognition
+- amazon
+- rekognition
+- police
+- law-enforcement
+- civil-liberties
+- regulation
 sources:
-  - url: https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/
-    title: Amazon extends ban on police use of Rekognition facial recognition technology
-    publisher: GeekWire
-    date: 2021-05-18
-    tier: 2
-  - url: https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/
-    title: We could see federal regulation on face recognition as early as next week
-    publisher: MIT Technology Review
-    date: 2021-05-21
-    tier: 1
-  - url: https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium
-    title: ACLU Statement on Amazon Face Recognition Moratorium
-    publisher: ACLU
-    date: 2020-06-10
-    tier: 1
-  - url: https://www.engadget.com/rekognition-police-ban-222425615.html
-    title: Amazon extends ban on police use of its facial recognition software
-    publisher: Engadget
-    date: 2021-05-18
-    tier: 2
+- url: https://www.geekwire.com/2021/amazon-denies-police-use-facial-rekognition/
+  title: Amazon extends ban on police use of Rekognition facial recognition technology
+  date: 2021-05-18
+  tier: 2
+  outlet: GeekWire
+- url: https://www.technologyreview.com/2021/05/21/1025155/amazon-face-recognition-federal-ban-police-reform/
+  title: We could see federal regulation on face recognition as early as next week
+  date: 2021-05-21
+  tier: 1
+  outlet: MIT Technology Review
+- url: https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium
+  title: ACLU Statement on Amazon Face Recognition Moratorium
+  date: 2020-06-10
+  tier: 1
+  outlet: ACLU
+- url: https://www.engadget.com/rekognition-police-ban-222425615.html
+  title: Amazon extends ban on police use of its facial recognition software
+  date: 2021-05-18
+  tier: 2
+  outlet: Engadget
 status: confirmed
 ---
 

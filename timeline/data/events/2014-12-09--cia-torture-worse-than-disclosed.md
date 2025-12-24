@@ -19,24 +19,24 @@ tags:
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
-  publisher: U.S. Senate Select Committee on Intelligence
   date: '2014-12-09'
   tier: 1
+  outlet: U.S. Senate Select Committee on Intelligence
 - title: CIA Torture Unredacted - Revealing What Was Hidden in US Senate Report
   url: https://www.thebureauinvestigates.com/blog/2019-07-10/cia-torture-unredacted-revealing-hidden-us-senate-torture-report
-  publisher: The Bureau of Investigative Journalism
   date: '2019-07-10'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: What the CIA Did to Its Detainees
   url: https://apps.frontline.org/torture/
-  publisher: PBS Frontline
   date: '2014-12-09'
   tier: 1
+  outlet: PBS Frontline
 - title: No More Excuses - A Roadmap to Justice for CIA Torture
   url: https://www.hrw.org/report/2015/12/01/no-more-excuses/roadmap-justice-cia-torture
-  publisher: Human Rights Watch
   date: '2015-12-01'
   tier: 1
+  outlet: Human Rights Watch
 ---
 
 The Senate Intelligence Committee report reveals that CIA torture was far more brutal and sadistic than the agency disclosed, documenting techniques that go beyond the authorized list to include rectal feeding and rehydration used as punishment, mock executions, threats to sexually assault detainees' mothers, and at least one death from hypothermia. The findings expose systematic cruelty that amounts to war crimes under international law, including treatment that the International Committee of the Red Cross characterizes as "torture" and "cruel, inhuman and degrading treatment" prohibited by the Geneva Conventions.

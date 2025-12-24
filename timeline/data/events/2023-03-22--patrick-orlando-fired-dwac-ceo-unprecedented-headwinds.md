@@ -15,7 +15,7 @@ actors:
 - Digital World Acquisition Corp
 - DWAC
 - Trump Media & Technology Group
-- SEC
+- Securities and Exchange Commission (SEC)
 - Eric Swider
 sources:
 - title: Trump-linked Digital World Acquisition Corp fires CEO Patrick Orlando

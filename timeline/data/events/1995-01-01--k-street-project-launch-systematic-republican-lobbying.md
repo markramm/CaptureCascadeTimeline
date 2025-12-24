@@ -11,16 +11,21 @@ tags:
 - campaign-finance
 - regulatory-capture
 sources:
-- title: en.wikipedia.org
-  url: https://en.wikipedia.org/wiki/K_Street_Project
-- title: sourcewatch.org
-  url: https://sourcewatch.org/index.php?title=K_Street_Project
-- title: npr.org
+- title: Welcome to the Machine
+  url: https://washingtonmonthly.com/2003/07/01/welcome-to-the-machine/
+  outlet: Washington Monthly
+  date: '2003-07-01'
+  tier: 1
+- title: The K Street Project and Tom DeLay
   url: https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay
-- title: NPR investigative report on K Street Project dynamics
-  url: ''
-- title: Academic research on multi-client lobbying transformations
-  url: ''
+  outlet: NPR
+  date: '2006-01-14'
+  tier: 1
+- title: 'K Street on Main: Legislative Turnover and Multi-Client Lobbying'
+  url: https://www.cambridge.org/core/journals/political-science-research-and-methods/article/k-street-on-main-legislative-turnover-and-multiclient-lobbying/21D251E6DBDB2006D8B126840A7940F5
+  outlet: Political Science Research and Methods, Cambridge University Press
+  date: '2016-04-01'
+  tier: 2
 status: confirmed
 actors: []
 ---

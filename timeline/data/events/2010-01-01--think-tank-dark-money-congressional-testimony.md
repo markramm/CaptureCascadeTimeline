@@ -12,23 +12,23 @@ tags:
 sources:
 - url: https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/
   title: Big Ideas and Big Money - Think Tank Funding in America
-  publisher: Quincy Institute for Responsible Statecraft
   date: '2023-01-01'
   tier: 2
+  outlet: Quincy Institute for Responsible Statecraft
 - url: https://fair.org/extra/who-pays-for-think-tanks/
   title: Who Pays for Think Tanks?
-  publisher: FAIR
   date: '2014-01-01'
   tier: 2
+  outlet: FAIR
 - url: https://www.fastcompany.com/90424503/facebook-google-amazon-are-ramping-up-their-secretive-influence-campaigns-in-dc
   title: Facebook, Google, Amazon are ramping up their secretive influence campaigns in DC
-  publisher: Fast Company
   date: '2019-11-01'
   tier: 2
+  outlet: Fast Company
 actors:
 - Heritage Foundation
 - American Enterprise Institute
-- Koch Brothers
+- Koch brothers
 - General Electric
 - Facebook
 - Google

@@ -10,7 +10,7 @@ actors:
 - U.S. Chamber of Commerce
 - Richard Mellon Scaife
 - Joe Coors
-- Koch Brothers
+- Koch brothers
 sources:
 - outlet: Washington and Lee University School of Law
   title: 'Lewis F. Powell Jr. Papers: Memorandum on American Free Enterprise'

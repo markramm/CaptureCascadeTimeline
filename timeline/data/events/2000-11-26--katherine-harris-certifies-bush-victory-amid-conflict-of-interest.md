@@ -5,7 +5,7 @@ title: Katherine Harris Certifies Bush Victory While Serving as Campaign Co-Chai
 importance: 9
 actors:
 - Katherine Harris
-- George W Bush
+- George W. Bush
 - Jeb Bush
 - Mac Stipanovich
 - Florida Republican Party

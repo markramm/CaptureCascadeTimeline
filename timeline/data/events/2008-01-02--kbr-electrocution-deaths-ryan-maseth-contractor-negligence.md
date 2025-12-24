@@ -20,19 +20,19 @@ actors:
 sources:
 - url: https://www.nbcnews.com/id/wbna29891090
   title: For troops in Iraq, shower still may be fatal
-  publisher: NBC News
   date: '2009-03-18'
   tier: 1
+  outlet: NBC News
 - url: https://www.npr.org/templates/story/story.php?storyId=112704940
   title: The Nation - Another Electrocution Death In Iraq
-  publisher: NPR
   date: '2009-09-14'
   tier: 1
+  outlet: NPR
 - url: https://www.cbsnews.com/news/us-troops-still-dodging-deadly-showers/
   title: U.S. Troops Still Dodging Deadly Showers
-  publisher: CBS News
   date: '2009-01-29'
   tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

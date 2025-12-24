@@ -1,32 +1,44 @@
 ---
-id: "2025-12-03--white-house-media-bias-portal-state-denunciation-system"
-date: "2025-12-03"
-title: "White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets"
-summary: "The Trump White House officially launched a 'Media Bias Portal' at wh.gov/mediabias, creating a state-run denunciation system where Americans are urged to report allegedly biased news stories. The portal features an 'Offender Hall of Shame' database naming individual journalists and their outlets as 'repeat offenders,' and includes a public tipline for submitting complaints. Press freedom organizations warn the system mirrors authoritarian tactics used in Soviet Russia and contemporary China, representing a direct government attack on independent journalism designed to intimidate reporters and delegitimize unfavorable coverage."
+id: 2025-12-03--white-house-media-bias-portal-state-denunciation-system
+date: '2025-12-03'
+title: White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets
+summary: The Trump White House officially launched a 'Media Bias Portal' at wh.gov/mediabias, creating a state-run denunciation system where Americans are urged to report allegedly biased news stories. The portal features an 'Offender Hall of Shame' database naming individual journalists and their outlets as 'repeat offenders,' and includes a public tipline for submitting complaints. Press freedom organizations warn the system mirrors authoritarian tactics used in Soviet Russia and contemporary China, representing a direct government attack on independent journalism designed to intimidate reporters and delegitimize unfavorable coverage.
 importance: 10
-tags: ["authoritarianism", "media-suppression", "first-amendment", "propaganda", "intimidation"]
-actors: ["Donald Trump", "White House Press Office", "Andrew Feinberg", "Eric Garcia", "CBS News", "The Independent", "Boston Globe"]
+tags:
+- authoritarianism
+- media-suppression
+- first-amendment
+- propaganda
+- intimidation
+actors:
+- Donald Trump
+- White House Press Office
+- Andrew Feinberg
+- Eric Garcia
+- CBS News
+- The Independent
+- Boston Globe
 sources:
-  - url: "https://time.com/7338411/white-house-media-bias-tracker-trump-attacks/"
-    title: "White House Launches 'Media Offenders' Site and Tipline"
-    publisher: "Time"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://rsf.org/en/usa-new-white-house-hall-shame-webpage-expands-trump-s-war-press-disparaging-media"
-    title: "USA: New White House 'Hall of Shame' webpage expands Trump's war on the press, disparaging the media"
-    publisher: "Reporters Without Borders"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://cpj.org/2025/12/trump-administrations-media-bias-list-raises-alarm-cpj-says/"
-    title: "Trump administration's 'media bias' list raises alarm, CPJ says"
-    publisher: "Committee to Protect Journalists"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://www.whitehouse.gov/articles/2025/12/icymi-white-house-launches-media-bias-portal-to-expose-fake-news/"
-    title: "ICYMI: White House Launches 'Media Bias' Portal to Expose Fake News"
-    publisher: "White House"
-    date: "2025-12-03"
-    tier: 1
+- url: https://time.com/7338411/white-house-media-bias-tracker-trump-attacks/
+  title: White House Launches 'Media Offenders' Site and Tipline
+  date: '2025-12-03'
+  tier: 1
+  outlet: TIME
+- url: https://rsf.org/en/usa-new-white-house-hall-shame-webpage-expands-trump-s-war-press-disparaging-media
+  title: 'USA: New White House ''Hall of Shame'' webpage expands Trump''s war on the press, disparaging the media'
+  date: '2025-12-03'
+  tier: 1
+  outlet: Reporters Without Borders
+- url: https://cpj.org/2025/12/trump-administrations-media-bias-list-raises-alarm-cpj-says/
+  title: Trump administration's 'media bias' list raises alarm, CPJ says
+  date: '2025-12-03'
+  tier: 1
+  outlet: Committee to Protect Journalists
+- url: https://www.whitehouse.gov/articles/2025/12/icymi-white-house-launches-media-bias-portal-to-expose-fake-news/
+  title: 'ICYMI: White House Launches ''Media Bias'' Portal to Expose Fake News'
+  date: '2025-12-03'
+  tier: 1
+  outlet: White House
 ---
 
 # White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets

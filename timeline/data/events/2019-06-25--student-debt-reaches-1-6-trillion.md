@@ -4,27 +4,27 @@ date: 2019-06-25
 title: U.S. Student Debt Surpasses $1.6 Trillion - 107% Increase in a Decade
 importance: 8
 tags:
-  - student-debt
-  - economic-crisis
-  - inequality
+- student-debt
+- economic-crisis
+- inequality
 actors:
-  - Federal Reserve
+- Federal Reserve
 sources:
-  - url: https://usafacts.org/articles/how-did-us-reach-16-trillion-student-debt/
-    title: How did the US reach $1.6 trillion in student debt?
-    publisher: USAFacts
-    date: 2019-06-25
-    tier: 2
-  - url: https://www.federalreserve.gov/releases/g19/HIST/cc_hist_memo_levels.html
-    title: Consumer Credit Outstanding
-    publisher: Federal Reserve
-    date: 2019-06-25
-    tier: 1
-  - url: https://www.cnbc.com/2019/12/30/student-debt-totals-increased-by-107percent-this-decade.html
-    title: Student debt increased by 107% this decade, Federal Reserve data shows
-    publisher: CNBC
-    date: 2019-12-30
-    tier: 2
+- url: https://usafacts.org/articles/how-did-us-reach-16-trillion-student-debt/
+  title: How did the US reach $1.6 trillion in student debt?
+  date: 2019-06-25
+  tier: 2
+  outlet: USAFacts
+- url: https://www.federalreserve.gov/releases/g19/HIST/cc_hist_memo_levels.html
+  title: Consumer Credit Outstanding
+  date: 2019-06-25
+  tier: 1
+  outlet: Federal Reserve
+- url: https://www.cnbc.com/2019/12/30/student-debt-totals-increased-by-107percent-this-decade.html
+  title: Student debt increased by 107% this decade, Federal Reserve data shows
+  date: 2019-12-30
+  tier: 2
+  outlet: CNBC
 status: confirmed
 ---
 

@@ -2,9 +2,7 @@
 id: 2025-02-10--early-crypto-traders-had-speedy-profit-on-trump-coin-as-othe
 date: '2025-02-10'
 title: Early crypto traders had speedy profit on Trump coin as others suffered losses
-description: Early $TRUMP cryptocurrency insiders made millions of dollars, and Trump
-  and his family pocketed nearly $100 million in fees, while over 800,000 investors
-  lost a combined $2 billion
+description: Early $TRUMP cryptocurrency insiders made millions of dollars, and Trump and his family pocketed nearly $100 million in fees, while over 800,000 investors lost a combined $2 billion
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -18,15 +16,13 @@ capture_type: monetizing_position
 sources:
 - title: Early crypto traders had speedy profit on Trump coin as others suffered losses
   url: https://www.nytimes.com/2025/02/09/us/politics/trump-crypto-memecoin.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-02-10'
-- title: Trump and His Family Earned Millions From Trump Coin While 810,000 Others
-    Lost Money
+- title: Trump and His Family Earned Millions From Trump Coin While 810,000 Others Lost Money
   url: https://www.rollingstone.com/politics/politics-news/trump-meme-coin-2-billion-ls-1235261422/
   outlet: Rolling Stone
   date: '2025-02-10'
-- title: Thousands of investors in Trump's memecoin lost $2 billion in just weeks
-    while the family and its partners racked up $100 million in trading fees
+- title: Thousands of investors in Trump's memecoin lost $2 billion in just weeks while the family and its partners racked up $100 million in trading fees
   url: https://fortune.com/2025/02/11/trump-memecoin-traders-2-billion-dollar-loss-family-100-million-fees/
   outlet: Fortune
   date: '2025-02-11'

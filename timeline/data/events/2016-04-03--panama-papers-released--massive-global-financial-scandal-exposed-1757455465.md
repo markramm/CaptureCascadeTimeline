@@ -2,7 +2,7 @@
 date: '2016-04-03'
 title: Panama Papers Released - Massive Global Financial Scandal Exposed
 actors:
-- International Consortium of Investigative Journalists
+- International Consortium of Investigative Journalists (ICIJ)
 - Mossack Fonseca
 - Vladimir Putin
 - Petro Poroshenko

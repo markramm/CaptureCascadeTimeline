@@ -21,24 +21,24 @@ actors:
 sources:
 - url: https://www.pbs.org/wgbh/frontline/documentary/untouchables/
   title: The Untouchables
-  publisher: PBS Frontline
   date: '2013-01-22'
   tier: 1
+  outlet: PBS Frontline
 - url: https://www.washingtonpost.com/world/national-security/justice-departments-lanny-breuer-oversaw-some-of-largest-criminal-cases-in-us-history/2013/01/29/4567efd0-6a53-11e2-af53-7b2b2a7510a8_story.html
   title: Justice Department's Lanny Breuer Oversaw Some of Largest Criminal Cases
-  publisher: Washington Post
   date: '2013-01-29'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.prwatch.org/news/2013/01/11959/frontline-gets-its-man-lanny-breuer-leaves-doj-after-expose
   title: Frontline Gets Its Man - Lanny Breuer Leaves DOJ After Exposé
-  publisher: PR Watch
   date: '2013-01-29'
   tier: 2
+  outlet: PR Watch
 - url: https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/
   title: Were Bankers Jailed in Past Financial Crises?
-  publisher: PBS Frontline
   date: '2013'
   tier: 1
+  outlet: PBS Frontline
 status: confirmed
 ---
 

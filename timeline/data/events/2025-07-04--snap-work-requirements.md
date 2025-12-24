@@ -27,17 +27,13 @@ sources:
   date: '2025-04-18'
 - title: What to Know About Head Start Amid Proposed Elimination
   url: https://time.com/7278480/head-start-history-effectiveness-trump-hhs-budget-funding-elimination-reactions/
-  outlet: TIME Magazine
+  outlet: TIME
   date: '2025-07-04'
-- title: 2.4 million people expected to lose food stamps after Trump agenda law broadened
-    work requirements, CBO says
+- title: 2.4 million people expected to lose food stamps after Trump agenda law broadened work requirements, CBO says
   url: https://www.cnn.com/2025/07/05/politics/snap-work-requirements-cbo-analysis/index.html
   outlet: CNN Politics
   date: '2025-07-05'
-notes: Congressional Budget Office estimates 2.4-3 million will lose SNAP benefits
-  due to expanded work requirements affecting able-bodied adults 18-64, including
-  parents with children 14+, veterans, homeless individuals, former foster youth.
-  Head Start elimination would affect 750,000-800,000 children.
+notes: Congressional Budget Office estimates 2.4-3 million will lose SNAP benefits due to expanded work requirements affecting able-bodied adults 18-64, including parents with children 14+, veterans, homeless individuals, former foster youth. Head Start elimination would affect 750,000-800,000 children.
 status: confirmed
 ---
 

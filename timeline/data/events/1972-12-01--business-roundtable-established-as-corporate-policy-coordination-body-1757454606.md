@@ -16,7 +16,7 @@ sources:
   title: 'Business Roundtable: How America''s Top CEOs United to Shape Policy'
   url: https://www.reuters.com/business/business-roundtable-corporate-lobbying-history/
   date: '2022-03-15'
-- outlet: Wall Street Journal
+- outlet: The Wall Street Journal
   title: 'The Origins of Corporate Advocacy: Business Roundtable''s Founding'
   url: https://www.wsj.com/articles/business-roundtable-corporate-lobbying-origins
   date: '2022-06-22'

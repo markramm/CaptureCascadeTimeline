@@ -4,33 +4,33 @@ date: 2018-01-25
 title: New York Times Reveals Trump Ordered McGahn to Fire Mueller; Trump Subsequently Demands McGahn Deny Story and Create False Record
 importance: 9
 tags:
-  - Obstruction of Justice
-  - Mueller Investigation
-  - White House Counsel
-  - Presidential Abuse of Power
-  - Don McGahn
-  - Press Manipulation
+- obstruction of justice
+- mueller investigation
+- white house counsel
+- presidential abuse of power
+- don mcgahn
+- press manipulation
 actors:
-  - Donald Trump
-  - Don McGahn
-  - Rod Rosenstein
-  - Robert Mueller
+- Donald Trump
+- Don McGahn
+- Rod Rosenstein
+- Robert Mueller
 sources:
-  - url: https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html
-    title: Trump moved to fire Mueller in June, bringing White House counsel to the brink of leaving
-    publisher: Washington Post
-    date: 2018-01-25
-    tier: 1
-  - url: https://www.npr.org/2018/01/26/580964814/the-10-events-you-need-to-know-to-understand-the-almost-firing-of-robert-mueller
-    title: The 10 Events You Need To Know To Understand The Almost-Firing Of Robert Mueller
-    publisher: NPR
-    date: 2018-01-26
-    tier: 1
-  - url: https://www.justice.gov/archives/sco/file/1373816/dl
-    title: Mueller Report Volume II - Report on Obstruction of Justice
-    publisher: U.S. Department of Justice, Special Counsel's Office
-    date: 2019-04-18
-    tier: 1
+- url: https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html
+  title: Trump moved to fire Mueller in June, bringing White House counsel to the brink of leaving
+  date: 2018-01-25
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.npr.org/2018/01/26/580964814/the-10-events-you-need-to-know-to-understand-the-almost-firing-of-robert-mueller
+  title: The 10 Events You Need To Know To Understand The Almost-Firing Of Robert Mueller
+  date: 2018-01-26
+  tier: 1
+  outlet: NPR
+- url: https://www.justice.gov/archives/sco/file/1373816/dl
+  title: Mueller Report Volume II - Report on Obstruction of Justice
+  date: 2019-04-18
+  tier: 1
+  outlet: U.S. Department of Justice, Special Counsel's Office
 ---
 
 The New York Times reported on January 25, 2018, that President Donald Trump had ordered White House Counsel Don McGahn in June 2017 to direct Deputy Attorney General Rod Rosenstein to remove Special Counsel Robert Mueller, and that McGahn had refused and threatened to resign rather than carry out what he viewed as a potentially catastrophic and legally problematic directive. The revelation, later confirmed in extensive detail in the Mueller Report, exposed Trump's direct attempt to terminate the investigation into Russian interference in the 2016 election and possible coordination with his campaign. More significantly, the Mueller Report documented that after the Times story broke, Trump pressured McGahn to publicly deny the account and to create a false written record contradicting the truthful reporting—conduct that Mueller's team identified as among the most serious episodes of potential obstruction of justice.

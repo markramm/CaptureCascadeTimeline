@@ -1,8 +1,7 @@
 ---
 id: 2025-11-03--medicaid-work-requirements-2027
 date: '2025-11-03'
-title: Trump Administration Announces 2027 Medicaid Work Requirements Affecting Nearly
-  5 Million
+title: Trump Administration Announces 2027 Medicaid Work Requirements Affecting Nearly 5 Million
 importance: 8
 tags:
 - medicaid
@@ -11,17 +10,16 @@ tags:
 - vulnerable-populations
 - systematic-cruelty
 sources:
-- title: A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget
-    Reconciliation Law
+- title: A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget Reconciliation Law
   url: https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/
-  publisher: KFF
   date: '2025-07-15'
   tier: 1
+  outlet: KFF
 - title: 'Trump Tyranny Tracker: Day 288'
   url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288
-  publisher: Trump Tyranny Tracker
   date: '2025-11-03'
   tier: 2
+  outlet: Trump Tyranny Tracker
 actors:
 - CMS
 - Trump

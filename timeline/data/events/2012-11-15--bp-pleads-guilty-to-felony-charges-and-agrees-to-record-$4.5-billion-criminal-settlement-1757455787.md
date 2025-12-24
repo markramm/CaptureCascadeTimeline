@@ -1,11 +1,10 @@
 ---
 date: '2012-11-15'
-title: BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal
-  Settlement
+title: BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal Settlement
 actors:
 - BP (British Petroleum)
 - Department of Justice
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Donald Vidrine
 - Robert Kaluza
 - David Rainey

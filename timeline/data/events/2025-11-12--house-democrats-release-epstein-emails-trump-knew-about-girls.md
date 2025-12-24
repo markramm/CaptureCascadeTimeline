@@ -1,16 +1,15 @@
 ---
 id: 2025-11-12--house-democrats-release-epstein-emails-trump-knew-about-girls
 date: '2025-11-12'
-title: House Oversight Democrats Release Epstein Emails Stating Trump "Knew About
-  the Girls" and Spent Hours with Victim
+title: House Oversight Democrats Release Epstein Emails Stating Trump "Knew About the Girls" and Spent Hours with Victim
 importance: 10
 tags:
-- Epstein
-- House-Oversight
-- Trump-Administration
-- Document-Release
-- Sexual-Abuse
-- Cover-Up
+- epstein
+- house-oversight
+- trump-administration
+- document-release
+- sexual-abuse
+- cover-up
 - institutional-capture
 - accountability
 actors:
@@ -26,25 +25,24 @@ actors:
 sources:
 - title: House Democrats release new Epstein emails referencing Trump
   url: https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983
-  publisher: ABC News
   date: '2025-11-12'
   tier: 1
+  outlet: ABC News
 - title: White House downplays new Epstein emails that mention Trump
   url: https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie
-  publisher: NPR
   date: '2025-11-12'
   tier: 1
+  outlet: NPR
 - title: Read Jeffrey Epstein's newly released emails about Trump
   url: https://www.pbs.org/newshour/politics/read-jeffrey-epsteins-newly-released-emails-about-trump
-  publisher: PBS NewsHour
   date: '2025-11-12'
   tier: 1
-- title: House Oversight Committee Releases Jeffrey Epstein Email Correspondence,
-    Raising Questions About White House Coverup of Epstein Files
+  outlet: PBS NewsHour
+- title: House Oversight Committee Releases Jeffrey Epstein Email Correspondence, Raising Questions About White House Coverup of Epstein Files
   url: https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising
-  publisher: House Committee on Oversight and Accountability Democrats
   date: '2025-11-12'
   tier: 1
+  outlet: House Committee on Oversight and Accountability Democrats
 status: confirmed
 ---
 

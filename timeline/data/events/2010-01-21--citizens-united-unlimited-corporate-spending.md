@@ -8,7 +8,7 @@ actors:
 - Clarence Thomas
 - Samuel Alito
 - Citizens United
-- Federal Election Commission
+- Federal Election Commission (FEC)
 tags:
 - campaign-finance
 - corporate-power
@@ -42,8 +42,7 @@ sources:
   url: https://www.oyez.org/cases/2008/08-205
   outlet: Oyez
   date: '2010-01-21'
-notes: Created Super PACs and dark money groups. Koch network, Harlan Crow, Paul Singer
-  all major beneficiaries. Thomas and Alito had attended donor events with these billionaires.
+notes: Created Super PACs and dark money groups. Koch network, Harlan Crow, Paul Singer all major beneficiaries. Thomas and Alito had attended donor events with these billionaires.
 status: confirmed
 ---
 

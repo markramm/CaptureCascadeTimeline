@@ -16,9 +16,9 @@ actors:
 sources:
 - url: https://www.theguardian.com/environment/2025/oct/18/epa-chemical-industry-lobbyist-confirmed
   title: Industry Lobbyist Confirmed to EPA Leadership
-  publisher: The Guardian
   date: '2025-10-18'
   tier: 1
+  outlet: The Guardian
 status: confirmed
 ---
 

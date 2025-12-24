@@ -12,29 +12,29 @@ tags:
 sources:
 - url: https://www.democracydocket.com/news-alerts/justice-department-fail-epstein-files-deadline-blanche/
   title: DOJ Chickens Out on Epstein Files in Violation of New Law
-  publisher: Democracy Docket
   date: '2025-12-19'
   tier: 2
+  outlet: Democracy Docket
 - url: https://www.nbcnews.com/politics/justice-department/live-blog/epstein-files-release-trump-congress-live-updates-rcna245032
   title: Epstein files include redacted records, more photographs as Trump DOJ criticized for handling
-  publisher: NBC News
   date: '2025-12-19'
   tier: 1
+  outlet: NBC News
 - url: https://abcnews.go.com/Politics/democrats-examining-legal-options-after-doj-full-epstein/story?id=128561229
   title: Some lawmakers criticize DOJ release of Epstein files, say 'fails to comply' with law
-  publisher: ABC News
   date: '2025-12-19'
   tier: 1
+  outlet: ABC News
 - url: https://www.cbsnews.com/live-updates/epstein-files-released-2025/
   title: New Epstein files include photos, documents with redactions as DOJ releases initial trove of records
-  publisher: CBS News
   date: '2025-12-19'
   tier: 1
+  outlet: CBS News
 - url: https://theramm.substack.com/p/the-epstein-files
   title: The Epstein Files
-  publisher: The RAMM
   date: '2025-12-19'
   tier: 2
+  outlet: The RAMM
 actors:
 - Ro Khanna
 - Thomas Massie

@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: Rex Tillerson, Exxon C.E.O., Chosen as Secretary of State
   url: https://www.nytimes.com/2016/12/12/us/politics/rex-tillerson-secretary-of-state-trump.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2016-12-12'
 - title: 'Tillerson Out: The Disastrous Legacy of Rex Tillerson'
   url: https://www.vox.com/world/2018/3/13/17112764/rex-tillerson-fired-state-department

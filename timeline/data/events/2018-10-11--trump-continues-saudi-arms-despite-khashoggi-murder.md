@@ -15,24 +15,24 @@ tags:
 sources:
 - url: https://www.pbs.org/newshour/world/trump-puts-saudi-arms-sales-above-inquiry-into-khashoggi-killing
   title: Trump puts Saudi arms sales above inquiry into Khashoggi killing
-  publisher: PBS
   date: '2018-10-11'
   tier: 1
+  outlet: PBS
 - url: https://www.defensenews.com/congress/2018/10/11/trump-doubles-down-hes-not-stopping-saudi-arms-sales/
   title: Trump doubles down - He's not stopping Saudi arms sales
-  publisher: Defense News
   date: '2018-10-11'
   tier: 2
+  outlet: Defense News
 - url: https://www.washingtonpost.com/politics/killing-of-khashoggi-tests-us-defense-industry-as-backlash-builds-on-capitol-hill/2018/11/21/15a1df52-dc7d-11e8-aa33-53bad9a881e8_story.html
   title: Killing of Khashoggi tests U.S. defense industry as backlash builds on Capitol Hill
-  publisher: The Washington Post
   date: '2018-11-21'
   tier: 2
+  outlet: The Washington Post
 - url: https://www.cnbc.com/2018/11/20/trump-says-us-stands-with-saudi-arabia-despite-khashoggi-killing.html
   title: Trump says US stands with Saudi Arabia despite journalist Khashoggi's killing
-  publisher: CNBC
   date: '2018-11-20'
   tier: 2
+  outlet: CNBC
 actors:
 - Donald Trump
 - Raytheon

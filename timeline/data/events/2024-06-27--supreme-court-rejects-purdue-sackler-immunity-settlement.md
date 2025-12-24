@@ -4,34 +4,34 @@ title: Supreme Court Rejects $6B Purdue Pharma Settlement Granting Sackler Famil
 date: '2024-06-27'
 importance: 9
 actors:
-  - U.S. Supreme Court
-  - Sackler Family
-  - Purdue Pharma
-  - Department of Justice
+- U.S. Supreme Court
+- Sackler Family
+- Purdue Pharma
+- Department of Justice
 tags:
-  - opioid-crisis
-  - pharmaceutical-industry
-  - corruption
-  - regulatory-capture
-  - accountability-failure
-  - bankruptcy-abuse
+- opioid-crisis
+- pharmaceutical-industry
+- corruption
+- regulatory-capture
+- accountability-failure
+- bankruptcy-abuse
 status: confirmed
 sources:
-  - title: Purdue Pharma, Sacklers reach new $7.4 billion opioid settlement
-    url: https://www.npr.org/2025/06/16/nx-s1-5435318/purdue-pharma-sacklers-reach-new-7-4-billion-opioid-settlement
-    publisher: NPR
-    date: '2025-06-16'
-    tier: 1
-  - title: Attorney General James Secures $7.4 Billion from Purdue Pharma and the Sackler Family
-    url: https://ag.ny.gov/press-release/2025/attorney-general-james-secures-74-billion-purdue-pharma-and-sackler-family
-    publisher: New York Attorney General
-    date: '2025-06-16'
-    tier: 1
-  - title: 'Harrington v. Purdue Pharma L.P., 603 U.S. ___ (2024)'
-    url: https://supreme.justia.com/cases/federal/us/603/23-124/
-    publisher: U.S. Supreme Court
-    date: '2024-06-27'
-    tier: 1
+- title: Purdue Pharma, Sacklers reach new $7.4 billion opioid settlement
+  url: https://www.npr.org/2025/06/16/nx-s1-5435318/purdue-pharma-sacklers-reach-new-7-4-billion-opioid-settlement
+  date: '2025-06-16'
+  tier: 1
+  outlet: NPR
+- title: Attorney General James Secures $7.4 Billion from Purdue Pharma and the Sackler Family
+  url: https://ag.ny.gov/press-release/2025/attorney-general-james-secures-74-billion-purdue-pharma-and-sackler-family
+  date: '2025-06-16'
+  tier: 1
+  outlet: New York Attorney General
+- title: Harrington v. Purdue Pharma L.P., 603 U.S. ___ (2024)
+  url: https://supreme.justia.com/cases/federal/us/603/23-124/
+  date: '2024-06-27'
+  tier: 1
+  outlet: U.S. Supreme Court
 ---
 
 On June 27, 2024, the U.S. Supreme Court blocked Purdue Pharma's $6 billion bankruptcy settlement that would have granted the Sackler family—who extracted over $10 billion from Purdue while the company fueled the opioid epidemic—broad immunity from all current and future civil lawsuits. The 5-4 decision rejected the bankruptcy court's authority to provide sweeping legal protections to billionaires who had not filed for bankruptcy themselves, exposing how the Sackler family attempted to use bankruptcy law to shield wealth extracted through conduct that killed hundreds of thousands of Americans.

@@ -24,7 +24,7 @@ sources:
   date: '2020-06-18'
 - title: The Trump Administration Rolled Back 100+ Environmental Rules
   url: https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks-list.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2021-01-20'
 - title: Harvard study on health impacts of rollbacks
   url: https://www.hsph.harvard.edu/c-change/news/economic-health-co-benefits/

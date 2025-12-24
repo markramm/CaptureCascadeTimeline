@@ -2,18 +2,14 @@
 id: 2025-02-27--sec-says-meme-coins-not-subject-to-securities-regulations
 date: '2025-02-27'
 title: SEC Declares Meme Coins Not Subject to Securities Regulations
-description: In a landmark staff statement, the SEC stated that meme coins 'typically
-  have limited or no use or functionality' and are more akin to collectibles than
-  financial securities. This determination means transactions involving meme coins
-  do not require registration under federal securities laws, though fraudulent activities
-  remain subject to enforcement.
+description: In a landmark staff statement, the SEC stated that meme coins 'typically have limited or no use or functionality' and are more akin to collectibles than financial securities. This determination means transactions involving meme coins do not require registration under federal securities laws, though fraudulent activities remain subject to enforcement.
 status: confirmed
 importance: 7
 location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- SEC
+- Securities and Exchange Commission (SEC)
 - SEC Division of Corporation Finance
 tags:
 - crypto
@@ -31,7 +27,7 @@ sources:
   date: '2025-02-27'
   url: https://news.bloomberglaw.com/securities-law/memecoin-suits-test-trumps-sec-on-pivot-in-crypto-enforcement
 - title: Trump family memecoins may trigger increased SEC scrutiny on crypto
-  outlet: CoinTelegraph
+  outlet: Cointelegraph
   date: '2025-02-27'
   url: https://cointelegraph.com/news/trump-memecoins-sec-regulatory-challenges
 connections: []

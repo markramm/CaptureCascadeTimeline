@@ -2,9 +2,7 @@
 id: 2025-05-27--trump-pardons-reality-stars-todd-and-julie-chrisley
 date: '2025-05-27'
 title: Trump pardons reality stars Todd and Julie Chrisley
-description: Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted
-  in 2022 for defrauding banks of over $30 million and evading federal taxes, after
-  their daughter—an RNC speaker and Trump supporter—lobbied for their clemency
+description: Trump pardoned reality TV couple Todd and Julie Chrisley, who were convicted in 2022 for defrauding banks of over $30 million and evading federal taxes, after their daughter—an RNC speaker and Trump supporter—lobbied for their clemency
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -19,15 +17,13 @@ capture_type: monetizing_position
 sources:
 - title: Trump pardons reality stars Todd and Julie Chrisley
   url: https://www.washingtonpost.com/politics/2025/05/27/trump-pardon-chrisley/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-05-27'
-- title: Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud
-    and tax evasion
+- title: Trump to pardon reality TV stars Todd and Julie Chrisley, convicted of fraud and tax evasion
   url: https://www.cnbc.com/2025/05/27/trump-pardons-todd-julie-chrisley-reality-tv.html
   outlet: CNBC
   date: '2025-05-27'
-- title: Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of
-    fraud
+- title: Trump pardons Todd and Julie Chrisley, the reality TV couple convicted of fraud
   url: https://www.npr.org/2025/05/28/nx-s1-5414091/todd-julie-chrisley-pardon-trump
   outlet: NPR
   date: '2025-05-28'
@@ -39,8 +35,7 @@ sources:
   url: https://www.cnn.com/2025/05/27/politics/trump-pardon-chrisley-knows-best
   outlet: CNN
   date: '2025-05-27'
-- title: Trump Pardons Reality Stars Todd and Julie Chrisley Following Tax Evasion
-    and Bank Fraud Convictions
+- title: Trump Pardons Reality Stars Todd and Julie Chrisley Following Tax Evasion and Bank Fraud Convictions
   url: https://variety.com/2025/tv/news/trump-pardons-todd-julie-tax-evasion-bank-fraud-1236411269/
   outlet: Variety
   date: '2025-05-27'

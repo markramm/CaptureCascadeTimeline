@@ -1,28 +1,27 @@
 ---
 id: 2024-08-08--anduril-arsenal-1-facility
 date: '2024-08-08'
-title: 'Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in
-  Ohio'
+title: 'Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio'
 importance: 8
 actors:
 - Anduril Industries
 - Palmer Luckey
 - State of Ohio
 tags:
-- Autonomous Weapons
-- Military-Industrial Complex
-- AI Weapons
-- Manufacturing
-- Defense Contractors
+- autonomous weapons
+- military-industrial complex
+- ai weapons
+- manufacturing
+- defense contractors
 sources:
-- url: https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/
-  title: Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio
-  publisher: Anduril Industries
+- title: Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio
+  url: https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/
+  outlet: Anduril Industries
   date: '2024-08-08'
   tier: 2
-- url: https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/
-  title: Anduril chooses Ohio for $1B manufacturing facility
-  publisher: Manufacturing Dive
+- title: Anduril chooses Ohio for $1B manufacturing facility
+  url: https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/
+  outlet: Manufacturing Dive
   date: '2024-08-08'
   tier: 3
 ---

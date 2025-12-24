@@ -1,8 +1,7 @@
 ---
 id: 1973-01-01--bcci-rapid-expansion-begins-19-branches-five-countries
 date: '1973-01-01'
-title: BCCI Begins Rapid International Expansion Strategy with 19 Branches Across
-  Five Countries
+title: BCCI Begins Rapid International Expansion Strategy with 19 Branches Across Five Countries
 importance: 7
 actors:
 - Agha Hasan Abedi
@@ -17,22 +16,21 @@ tags:
 - asset-growth
 - branch-network
 sources:
-- title: The BCCI Affair - Origin and Early Years
+- title: The BCCI Affair - A Report to the Committee on Foreign Relations
   url: https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm
-  outlet: Federation of American Scientists
-  date: '1973-01-01'
+  outlet: U.S. Senate Committee on Foreign Relations
+  date: '1992-12-01'
+  tier: 1
+- title: Foreign Bank Initial Assessment of Certain BCCI Activities in the U.S.
+  url: https://www.gao.gov/products/ggd-92-96
+  outlet: U.S. Government Accountability Office
+  date: '1992-08-01'
+  tier: 1
 - title: 'BCCI: The Dirtiest Bank of All'
   url: https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/
-  outlet: TIME Magazine
+  outlet: TIME
   date: '1991-07-29'
-- title: The Dictator-Run Bank That Tells the Story of America's Foreign Corruption
-  url: https://foreignpolicy.com/2020/07/07/the-dictator-run-bank-that-tells-the-story-of-americas-foreign-corruption/
-  outlet: Foreign Policy
-  date: '2020-07-07'
-- title: The man who adds mysticism to banking - Aga Hassan Abedi
-  url: null
-  outlet: Financial Times
-  date: '1991-05-17'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Media Capture & Control

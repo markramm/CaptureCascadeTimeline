@@ -1,0 +1,57 @@
+---
+id: 2018-04-06--zero-tolerance-family-separation-private-prison-profits
+date: '2018-04-06'
+title: Trump 'Zero Tolerance' Family Separation Policy Creates Windfall for Private Prison Contractors and Child Detention Facilities
+importance: 10
+actors:
+- Jeff Sessions
+- Donald Trump
+- CoreCivic
+- GEO Group
+- Southwest Key Programs
+- General Dynamics
+- MVM
+- Bank of America
+- JPMorgan Chase
+- Wells Fargo
+tags:
+- private-prison
+- immigration-detention
+- family-separation
+- child-detention
+- trump-administration
+- prison-industrial-complex
+- human-rights-abuse
+- institutional-capture
+sources:
+- title: Trump administration family separation policy
+  url: https://en.wikipedia.org/wiki/Trump_administration_family_separation_policy
+  outlet: Wikipedia
+  date: '2024-01-01'
+  tier: 2
+- title: These Private Prison Companies Are Already Profiting Off of Trump's Order on Family Separation
+  url: https://inthesetimes.com/article/private-prison-trump-family-separation-immigration-ice
+  outlet: In These Times
+  date: '2018-06-21'
+  tier: 2
+- title: Who is Profiting from Incarcerating Immigrant Families?
+  url: https://littlesis.org/news/who-is-profiting-from-incarcerating-immigrant-families/
+  outlet: LittleSis
+  date: '2018-06-20'
+  tier: 2
+- title: 'A National Shame: The Trump Administration''s Separation and Detention of Migrant Families'
+  url: https://www.wola.org/analysis/national-shame-trump-administrations-separation-detention-migrant-families/
+  outlet: Washington Office on Latin America
+  date: '2018-08-01'
+  tier: 1
+status: published
+capture_lanes:
+- institutional-capture
+- systematic-corruption
+---
+
+Attorney General Jeff Sessions announces a "zero tolerance" policy for all border crossings, directing federal prosecutors to criminally prosecute every adult crossing the border illegally. The policy deliberately separates nearly 2,000 children from their families during a six-week period, with thousands held in cages at the border in tent cities and massive warehouses. Private prison contractors and nonprofit detention operators generate massive revenues from the forced separation and detention of children.
+
+CoreCivic and GEO Group, which run the Karnes and Dilley family detention centers, each donated $250,000 to Trump's inaugural fund and collectively operate more than half of private immigration detention contracts, generating over $4 billion in revenue in fiscal year 2017. The largest family detention centers cost the government around $300 per day per person. Southwest Key Programs, a nonprofit that became a $458 million business running shelters for separated children, receives federal contracts totaling $955 million since 2015.
+
+Defense contractor General Dynamics provides case management services at youth detention centers, while MVM earns close to $200 million since 2014 for transportation services moving detained children. Bank of America, JPMorgan Chase, BNP Paribas, U.S. Bancorp, Wells Fargo, and SunTrust Bank provide $900 million in lines of credit to GEO Group and CoreCivic. The family separation policy transforms child welfare into a profit center, with separated children exhibiting "fear, feelings of abandonment, and post-traumatic stress" while corporations and banks profit from their trauma. Public outcry forces Trump to end family separations via executive order in June 2018, but the administration shifts to family detention—still highly profitable for private contractors.

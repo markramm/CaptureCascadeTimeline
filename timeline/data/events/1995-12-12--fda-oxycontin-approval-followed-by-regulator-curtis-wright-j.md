@@ -8,7 +8,7 @@ importance: 9
 actors:
 - Curtis Wright IV
 - Purdue Pharma
-- Food and Drug Administration
+- Food and Drug Administration (FDA)
 - Division of Anesthetic, Critical Care, and Addiction Drug Products
 - Department of Justice
 sources:

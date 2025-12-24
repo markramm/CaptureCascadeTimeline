@@ -1,0 +1,43 @@
+{
+  "id": "1950-09-23--revenue-act-1950-korean-war-taxes",
+  "date": "1950-09-23",
+  "title": "Revenue Act of 1950: Korean War Drives Corporate Tax Increases",
+  "description": "President Truman signs the Revenue Act of 1950 on September 23, essentially unwinding the late-1940s tax cuts and returning corporate and individual taxes to near World War II levels. The act raises the top corporate tax rate from 38% to 45%, with Senate supporters winning approval for an excess profits tax amendment. On January 3, 1951, the Excess Profits Tax Act of 1950 becomes law, effective retroactively from July 1, 1950 through December 31, 1953. The excess profits tax places a 30% surcharge on business profits above prewar levels, with corporations facing a combined marginal rate up to 77% (including surtaxes). The tax raises from $3.3 billion to $5 billion annually. Public polling shows 70% of Americans willing to pay higher taxes for military expansion. The 52-53% corporate tax rate remains stable through the 1950s and 1960s, during which the economy grows at 3.9% annually, demonstrating that high corporate taxes don't impede growth. However, corporate lobbying successfully creates numerous 'exceptions, special rates, credits, deductions, and other alterations' that reduce effective tax rates below statutory rates.",
+  "importance": 7,
+  "actors": [
+    "Harry S. Truman",
+    "U.S. Congress",
+    "Corporate lobbying groups",
+    "U.S. Treasury Department"
+  ],
+  "sources": [
+    {
+      "title": "Timelines in Tax History: The Korean War",
+      "outlet": "Tax Notes",
+      "url": "https://www.taxnotes.com/lr/resolve/tax-notes-federal/timelines-in-tax-history-the-korean-war/7f6k2",
+      "tier": 2
+    },
+    {
+      "title": "U.S. Tax Reform Timeline, 1945-Present",
+      "outlet": "Bipartisan Policy Center",
+      "url": "https://bipartisanpolicy.org/issue-brief/u-s-tax-reform-timeline-1945-present/",
+      "tier": 2
+    },
+    {
+      "title": "Excess Profits Tax",
+      "outlet": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Excess_profits_tax",
+      "tier": 3
+    }
+  ],
+  "tags": [
+    "tax-policy",
+    "corporate-power",
+    "korean-war",
+    "wealth-concentration",
+    "business-lobbying",
+    "powell-memo-precursors",
+    "post-war-corporate-mobilization"
+  ],
+  "significance": "Demonstrates that high corporate tax rates (52-53%) coincide with strong economic growth (3.9% annually), undermining later corporate arguments that high taxes impede prosperity. However, corporate lobbying successfully embeds 'numerous exceptions and special rates' that reduce effective tax burden. The temporary excess profits tax (1950-1953) shows government can tax wartime corporate profits, but corporate influence ensures such taxes remain temporary. Pattern established: statutory rates remain high for political optics while lobbying creates loopholes that reduce actual corporate tax burden."
+}

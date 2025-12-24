@@ -16,19 +16,19 @@ actors:
 sources:
 - title: Bernie Sanders draws criticism for touting Joe Rogan endorsement
   url: https://www.cnn.com/2020/01/24/politics/bernie-sanders-joe-rogan-endorsement/index.html
-  publisher: CNN
   date: '2020-01-24'
   tier: 1
-- title: "#1330 - Bernie Sanders"
+  outlet: CNN
+- title: '#1330 - Bernie Sanders'
   url: https://open.spotify.com/episode/4Y6z42BNxsqaHcpPShOsbG
-  publisher: Spotify (The Joe Rogan Experience)
   date: '2019-08-06'
   tier: 2
+  outlet: Spotify (The Joe Rogan Experience)
 - title: Joe Rogan Praised by Twitter After Bernie Sanders Appears on Podcast
   url: https://www.newsweek.com/joe-rogan-praised-twitter-after-bernie-sanders-appears-podcast-debate-health-care-gun-laws-1453096
-  publisher: Newsweek
   date: '2019-08-06'
   tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

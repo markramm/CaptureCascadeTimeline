@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.cnn.com/2018/08/17/middleeast/us-saudi-yemen-bus-strike-intl/index.html
   title: Bomb that killed 40 children in Yemen was supplied by US
-  publisher: CNN
   date: '2018-08-17'
   tier: 2
+  outlet: CNN
 - url: https://www.hrw.org/news/2018/09/02/yemen-coalition-bus-bombing-apparent-war-crime
   title: Yemen - Coalition Bus Bombing Apparent War Crime
-  publisher: Human Rights Watch
   date: '2018-09-02'
   tier: 1
+  outlet: Human Rights Watch
 - url: https://www.aljazeera.com/news/2018/9/1/saudi-uae-coalition-admits-yemen-school-bus-attack-unjustified
   title: Saudi-UAE coalition admits Yemen school bus attack 'unjustified'
-  publisher: Al Jazeera
   date: '2018-09-01'
   tier: 2
+  outlet: Al Jazeera
 - url: https://www.savethechildren.org/us/charity-stories/yemen-saudi-led-coalition-school-bus-attack-on-children-follow-up
   title: A Year Later - Yemen School Bus Attack
-  publisher: Save the Children
   date: '2019-08-09'
   tier: 2
+  outlet: Save the Children
 actors:
 - Lockheed Martin
 - Raytheon

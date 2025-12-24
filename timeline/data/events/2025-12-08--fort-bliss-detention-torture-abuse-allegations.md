@@ -1,11 +1,50 @@
 ---
-id: "2025-12-08--fort-bliss-detention-torture-abuse-allegations"
-date: "2025-12-08"
-title: "Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations"
-summary: "Human rights organizations including the ACLU, Human Rights Watch, and multiple civil rights groups released findings from interviews with more than 45 detained immigrants at Fort Bliss Camp East Montana in Texas, documenting widespread torture, sexual abuse, and coerced deportations. Sworn declarations describe officers beating detainees unconscious, crushing testicles, forcing fingers into ears causing permanent hearing damage, slamming heads against walls repeatedly, and threatening deportation to El Salvador or Africa to coerce non-Mexican immigrants into crossing into the Mexican desert. The facility, located on a military base previously used to intern Japanese Americans during World War II, now holds over 2,700 people and is the largest immigration detention center in the United States. A leaked internal ICE inspection found the facility violated over 60 federal detention standards in its first 50 days of operation. One Guatemalan immigrant, Francisco Gaspar Andres, died at the facility on December 3, 2025 after failing to receive appropriate medical care for liver and kidney failure."
+id: 2025-12-08--fort-bliss-detention-torture-abuse-allegations
+date: '2025-12-08'
+title: 'Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations'
+summary: Human rights organizations including the ACLU, Human Rights Watch, and multiple civil rights groups released findings from interviews with more than 45 detained immigrants at Fort Bliss Camp East Montana in Texas, documenting widespread torture, sexual abuse, and coerced deportations. Sworn declarations describe officers beating detainees unconscious, crushing testicles, forcing fingers into ears causing permanent hearing damage, slamming heads against walls repeatedly, and threatening deportation to El Salvador or Africa to coerce non-Mexican immigrants into crossing into the Mexican desert. The facility, located on a military base previously used to intern Japanese Americans during World War II, now holds over 2,700 people and is the largest immigration detention center in the United States. A leaked internal ICE inspection found the facility violated over 60 federal detention standards in its first 50 days of operation. One Guatemalan immigrant, Francisco Gaspar Andres, died
+  at the facility on December 3, 2025 after failing to receive appropriate medical care for liver and kidney failure.
 importance: 9
-tags: ["immigration", "detention", "human-rights", "torture", "ice", "abuse", "civil-rights", "due-process", "asylum", "dhs"]
-actors: ["ICE", "Department of Homeland Security", "ACLU", "Human Rights Watch", "Las Americas Immigrant Advocacy Center", "Texas Civil Rights Project", "Francisco Gaspar Andres"]
+tags:
+- immigration
+- detention
+- human-rights
+- torture
+- ice
+- abuse
+- civil-rights
+- due-process
+- asylum
+- dhs
+actors:
+- Immigration and Customs Enforcement (ICE)
+- Department of Homeland Security
+- ACLU
+- Human Rights Watch
+- Las Americas Immigrant Advocacy Center
+- Texas Civil Rights Project
+- Francisco Gaspar Andres
+sources:
+- title: "US: Close Fort Bliss Immigration Detention Site"
+  url: https://www.hrw.org/news/2025/12/08/us-close-fort-bliss-immigration-detention-site
+  outlet: Human Rights Watch
+  date: '2025-12-08'
+  tier: 1
+- title: Human Rights Groups Urge ICE to End Immigration Detention at Fort Bliss Military Base
+  url: https://www.aclu.org/press-releases/human-rights-groups-urge-ice-to-end-immigration-detention-at-fort-bliss-military-base-halt-abusive-third-country-deportations
+  outlet: ACLU
+  date: '2025-12-08'
+  tier: 1
+- title: ACLU reports physical abuse of migrants held at Fort Bliss
+  url: https://www.texastribune.org/2025/12/10/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report/
+  outlet: Texas Tribune
+  date: '2025-12-10'
+  tier: 1
+- title: Human rights groups call on ICE to halt third-country deportations, shut down Fort Bliss detention camp
+  url: https://elpasomatters.org/2025/12/08/fort-bliss-east-montana-ice-detention-camp-el-paso-texas-aclu-letter-third-country-deportations/
+  outlet: El Paso Matters
+  date: '2025-12-08'
+  tier: 2
 ---
 
 # Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations

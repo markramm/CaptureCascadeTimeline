@@ -15,24 +15,24 @@ tags:
 sources:
 - url: https://www.cnn.com/2019/05/24/politics/trump-arms-sales-saudi-arabia-uae/index.html
   title: Trump declares emergency to expedite arms sales to Saudi Arabia and UAE
-  publisher: CNN
   date: '2019-05-24'
   tier: 2
+  outlet: CNN
 - url: https://www.pbs.org/wgbh/frontline/article/saudi-arabia-arms-deal-trump-what-to-know/
   title: What You Need to Know About Trump's $8 Billion Saudi Arms Deal
-  publisher: PBS
   date: '2019-05-28'
   tier: 1
+  outlet: PBS
 - url: https://www.nbcnews.com/politics/national-security/trump-bypasses-congress-push-through-arms-sales-saudis-uae-n1010116
   title: Trump bypasses Congress to push through arms sales to Saudis, UAE
-  publisher: NBC News
   date: '2019-05-24'
   tier: 2
+  outlet: NBC News
 - url: https://www.nbcnews.com/politics/politics-news/trump-admin-failed-assess-risk-civilians-saudi-arms-deal-government-n1236457
   title: Trump admin ignored risk to civilians in Saudi arms deal
-  publisher: NBC News
   date: '2020-08-05'
   tier: 2
+  outlet: NBC News
 actors:
 - Donald Trump
 - Mike Pompeo

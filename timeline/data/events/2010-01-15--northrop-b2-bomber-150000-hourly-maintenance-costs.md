@@ -8,28 +8,28 @@ actors:
 - U.S. Air Force
 - Department of Defense
 tags:
-- Military-Industrial Complex
-- Defense Contractors
-- Cost Overruns
-- Pentagon Contracts
-- Stealth Technology
-- Maintenance Costs
+- military-industrial complex
+- defense contractors
+- cost overruns
+- pentagon contracts
+- stealth technology
+- maintenance costs
 sources:
 - url: https://nationalinterest.org/blog/buzz/why-is-the-air-forces-b-2-spirit-so-expensive
   title: Why Is the Air Force's B-2 Spirit So Expensive?
-  publisher: The National Interest
   date: '2010-01-01'
   tier: 2
+  outlet: The National Interest
 - url: https://www.wionews.com/photos/why-the-b-2-bomber-needs-120-hours-of-maintenance-for-every-hour-of-flight-1756024443487
   title: Why the B-2 bomber needs 120 hours of maintenance for every hour of flight
-  publisher: WION News
   date: '2024-01-15'
   tier: 3
+  outlet: WION News
 - url: https://boltflight.com/why-the-b-2-spirit-stealth-bomber-costs-over-2-billion-the-price-of-invisibility-and-global-reach/
   title: Why the B-2 Spirit Stealth Bomber Costs Over $2 Billion
-  publisher: Bolt Flight
   date: '2023-06-01'
   tier: 3
+  outlet: Bolt Flight
 ---
 
 The Northrop Grumman B-2 Spirit stealth bomber's operating costs reached approximately $150,000 per flight hour according to U.S. Department of Defense estimates, making it the most expensive military aircraft to operate in history and generating massive ongoing revenue for Northrop Grumman through maintenance contracts that require 120 hours of maintenance for every single hour of flight time. The extraordinary costs stem primarily from the aircraft's fragile stealth coating materials that must be continuously reapplied and maintained in climate-controlled hangars, with each flight requiring an average of 124 man-hours of maintenance to restore the bomber's radar-absorbent coating and recalibrate sensors.

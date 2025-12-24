@@ -2,9 +2,7 @@
 id: 2025-02-06--trump-administration-disbands-task-force-targeting
 date: '2025-02-06'
 title: Trump Administration Disbands Task Force Targeting Russian Oligarchs
-description: The Trump administration disbanded the Justice Department task force
-  dedicated to investigating and prosecuting Russian oligarchs, effectively ending
-  efforts to hold Russian elites accountable for sanctions violations and money laundering.
+description: The Trump administration disbanded the Justice Department task force dedicated to investigating and prosecuting Russian oligarchs, effectively ending efforts to hold Russian elites accountable for sanctions violations and money laundering.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -21,15 +19,13 @@ tags:
 - money-laundering
 capture_type: monetizing_position
 sources:
-- title: Trump administration ends Biden-era task force aimed at seizing Russian oligarchs
-    assets
+- title: Trump administration ends Biden-era task force aimed at seizing Russian oligarchs assets
   url: https://www.pbs.org/newshour/politics/trump-administration-ends-biden-era-task-force-aimed-at-seizing-russian-oligarchs-assets
   outlet: PBS News
   date: '2025-02-06'
-- title: Trump's Justice Department ends Biden-era task force aimed at seizing assets
-    of Russian oligarchs
+- title: Trump's Justice Department ends Biden-era task force aimed at seizing assets of Russian oligarchs
   url: https://www.washingtonpost.com/politics/2025/02/06/russia-sanctions-trump-treasury-doj-bondi/504f34fa-e4d8-11ef-ab83-bb30e4340014_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-06'
 - title: U.S. Disbands Task Forces on Russian Sanctions, Foreign Influence
   url: https://www.themoscowtimes.com/2025/02/07/us-disbands-task-forces-on-russian-sanctions-foreign-influence-a87901
@@ -44,8 +40,7 @@ patterns:
 - foreign-influence
 - justice-obstruction
 - oligarch-protection
-notes: This event represents a significant example of kleptocratic capture, demonstrating
-  how democratic institutions are being systematically undermined.
+notes: This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined.
 capture_lanes:
 - Regulatory Capture
 ---

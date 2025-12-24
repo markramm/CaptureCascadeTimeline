@@ -4,29 +4,29 @@ date: '2020-04-23'
 title: Trump Suggests Injecting Disinfectant and UV Light Inside Body as COVID Treatments
 importance: 8
 tags:
-  - COVID-19
-  - Public Health
-  - Disinformation
-  - Accountability Crisis
+- covid-19
+- public health
+- disinformation
+- accountability crisis
 actors:
-  - Donald Trump
-  - William Bryan
+- Donald Trump
+- William Bryan
 sources:
-  - title: The White House Spins Trump's Disinfectant Remarks
-    url: https://www.factcheck.org/2020/04/the-white-house-spins-trumps-disinfectant-remarks/
-    publisher: FactCheck.org
-    date: '2020-04-27'
-    tier: 1
-  - title: Trump suggests 'injection' of disinfectant to beat coronavirus and 'clean' the lungs
-    url: https://www.nbcnews.com/politics/donald-trump/trump-suggests-injection-disinfectant-beat-coronavirus-clean-lungs-n1191216
-    publisher: NBC News
-    date: '2020-04-23'
-    tier: 1
-  - title: In Context - What Donald Trump said about disinfectant, sun and coronavirus
-    url: https://www.politifact.com/article/2020/apr/24/context-what-donald-trump-said-about-disinfectant-/
-    publisher: PolitiFact
-    date: '2020-04-24'
-    tier: 1
+- title: The White House Spins Trump's Disinfectant Remarks
+  url: https://www.factcheck.org/2020/04/the-white-house-spins-trumps-disinfectant-remarks/
+  date: '2020-04-27'
+  tier: 1
+  outlet: FactCheck.org
+- title: Trump suggests 'injection' of disinfectant to beat coronavirus and 'clean' the lungs
+  url: https://www.nbcnews.com/politics/donald-trump/trump-suggests-injection-disinfectant-beat-coronavirus-clean-lungs-n1191216
+  date: '2020-04-23'
+  tier: 1
+  outlet: NBC News
+- title: In Context - What Donald Trump said about disinfectant, sun and coronavirus
+  url: https://www.politifact.com/article/2020/apr/24/context-what-donald-trump-said-about-disinfectant-/
+  date: '2020-04-24'
+  tier: 1
+  outlet: PolitiFact
 status: confirmed
 ---
 

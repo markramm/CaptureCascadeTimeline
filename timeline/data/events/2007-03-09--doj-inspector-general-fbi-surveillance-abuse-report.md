@@ -22,11 +22,11 @@ sources:
   date: '2007-03-01'
 - url: https://www.washingtonpost.com/wp-dyn/content/article/2007/03/08/AR2007030800538.html
   title: FBI Found to Abuse Patriot Act Powers
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-03-09'
 - url: https://www.nytimes.com/2007/03/09/washington/09fbi.html
   title: F.B.I. Data Mining Reached Beyond Initial Targets
-  outlet: New York Times
+  outlet: The New York Times
   date: '2007-03-09'
 importance: 8
 status: confirmed

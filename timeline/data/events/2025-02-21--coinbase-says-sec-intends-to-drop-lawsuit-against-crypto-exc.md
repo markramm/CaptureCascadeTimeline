@@ -3,7 +3,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Gary Gensler
-- SEC
+- Securities and Exchange Commission (SEC)
 - Coinbase Global Inc.
 capture_lanes:
 - Regulatory Capture
@@ -13,14 +13,11 @@ connections:
 - Ongoing crypto regulatory disputes
 - SEC regulatory approach to cryptocurrency
 date: '2025-02-21'
-description: The SEC agreed to drop its two-year lawsuit against Coinbase—a pivotal
-  moment in cryptocurrency regulatory landscape that could signal a shift in the agency's
-  enforcement strategy.
+description: The SEC agreed to drop its two-year lawsuit against Coinbase—a pivotal moment in cryptocurrency regulatory landscape that could signal a shift in the agency's enforcement strategy.
 id: 2025-02-21--coinbase-says-sec-intends-to-drop-lawsuit-against-crypto-exc
 importance: 8
 location: Washington, D.C.
-notes: Significant development in cryptocurrency regulatory environment, indicating
-  potential recalibration of SEC's stance
+notes: Significant development in cryptocurrency regulatory environment, indicating potential recalibration of SEC's stance
 patterns:
 - kleptocratic-capture
 - regulatory-transformation

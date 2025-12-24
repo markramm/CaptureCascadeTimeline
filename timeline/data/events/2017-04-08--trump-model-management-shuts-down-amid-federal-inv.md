@@ -20,7 +20,7 @@ sources:
   date: '2017-04-08'
 - title: Trump Model Management to Close
   url: https://www.nytimes.com/2017/04/08/fashion/trump-models-agency-closes.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2017-04-08'
 - title: Trump's modeling agency broke immigration laws, attorneys say
   url: https://money.cnn.com/2016/03/10/news/trump-model-visas/index.html

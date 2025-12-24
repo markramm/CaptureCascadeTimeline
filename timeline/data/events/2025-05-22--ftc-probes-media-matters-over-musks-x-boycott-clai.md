@@ -2,9 +2,7 @@
 id: 2025-05-22--ftc-probes-media-matters-over-musks-x-boycott-clai
 date: '2025-05-22'
 title: FTC probes Media Matters over Musk's X boycott claims, document shows
-description: The Federal Trade Commission (FTC) has launched an investigation into
-  journalism watchdog Media Matters on behalf of Elon Musk for coordinating an advertiser
-  boycott of X
+description: The Federal Trade Commission (FTC) has launched an investigation into journalism watchdog Media Matters on behalf of Elon Musk for coordinating an advertiser boycott of X
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -18,10 +16,9 @@ capture_type: monetizing_position
 sources:
 - title: FTC probes Media Matters over Musk's X boycott claims, document shows
   url: https://www.reuters.com/sustainability/boards-policy-regulation/ftc-probes-media-matters-over-musks-x-boycott-claims-document-shows-2025-05-22/
-  outlet: REUTERS
+  outlet: Reuters
   date: '2025-05-22'
-- title: FTC Launches Initial Stage Of Investigation Of Media Matters Over Elon Musk's
-    Ad Boycott Claims
+- title: FTC Launches Initial Stage Of Investigation Of Media Matters Over Elon Musk's Ad Boycott Claims
   url: https://deadline.com/2025/05/ftc-media-matters-investigation-1236408820/
   outlet: Deadline
   date: '2025-05-22'

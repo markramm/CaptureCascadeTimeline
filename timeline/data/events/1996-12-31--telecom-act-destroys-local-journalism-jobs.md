@@ -5,7 +5,7 @@ title: Telecommunications Act Triggers Mass Layoffs and Destruction of Local Jou
 importance: 8
 actors:
 - Media Conglomerates
-- Local News Stations
+- Local news stations
 - Radio Journalists
 - Newspaper Reporters
 - FCC Federal Communications Commission
@@ -27,17 +27,17 @@ sources:
   outlet: Truthout
   date: '2016-02-08'
   tier: 2
-- title: 'Twenty Years of Media Consolidation Has Not Been Good For Our Democracy'
+- title: Twenty Years of Media Consolidation Has Not Been Good For Our Democracy
   url: https://billmoyers.com/story/twenty-years-of-media-consolidation-has-not-been-good-for-our-democracy/
   outlet: Bill Moyers
   date: '2016-02-11'
   tier: 2
-- title: 'The Telecommunications Act of 1996 Killed Local Radio'
+- title: The Telecommunications Act of 1996 Killed Local Radio
   url: https://www.35000watts.com/the-telecommunications-act-of-1996-killed-local-radio/
   outlet: 35000 Watts
   date: '2020'
   tier: 2
-- title: 'Telecommunications Act of 1996'
+- title: Telecommunications Act of 1996
   url: https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996
   outlet: Wikipedia
   date: '2024'

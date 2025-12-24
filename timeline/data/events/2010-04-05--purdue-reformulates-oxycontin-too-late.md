@@ -4,32 +4,32 @@ title: Purdue Reformulates OxyContin as "Abuse-Deterrent" After 14 Years, Drives
 date: '2010-04-05'
 importance: 8
 actors:
-  - Purdue Pharma
-  - FDA
-  - Sackler Family
+- Purdue Pharma
+- FDA
+- Sackler Family
 tags:
-  - opioid-crisis
-  - pharmaceutical-industry
-  - regulatory-failure
-  - public-health
-  - unintended-consequences
+- opioid-crisis
+- pharmaceutical-industry
+- regulatory-failure
+- public-health
+- unintended-consequences
 status: confirmed
 sources:
-  - title: Study shows Purdue's switch to 'abuse-deterrent' OxyContin helped drive a spike in hepatitis C infections
-    url: https://www.statnews.com/2019/02/04/purdue-abuse-deterrent-oxycontin-hepatitis-c-infections/
-    publisher: STAT News
-    date: '2019-02-04'
-    tier: 1
-  - title: Revamped OxyContin was supposed to reduce abuse, but has it?
-    url: https://www.statnews.com/2019/07/22/revamped-oxycontin-was-supposed-to-reduce-abuse-but-has-it/
-    publisher: STAT News
-    date: '2019-07-22'
-    tier: 1
-  - title: How the Reformulation of Oxycontin Ignited the Heroin Epidemic
-    url: https://www.nber.org/system/files/working_papers/w24475/w24475.pdf
-    publisher: National Bureau of Economic Research
-    date: '2018-01-01'
-    tier: 1
+- title: Study shows Purdue's switch to 'abuse-deterrent' OxyContin helped drive a spike in hepatitis C infections
+  url: https://www.statnews.com/2019/02/04/purdue-abuse-deterrent-oxycontin-hepatitis-c-infections/
+  date: '2019-02-04'
+  tier: 1
+  outlet: STAT News
+- title: Revamped OxyContin was supposed to reduce abuse, but has it?
+  url: https://www.statnews.com/2019/07/22/revamped-oxycontin-was-supposed-to-reduce-abuse-but-has-it/
+  date: '2019-07-22'
+  tier: 1
+  outlet: STAT News
+- title: How the Reformulation of Oxycontin Ignited the Heroin Epidemic
+  url: https://www.nber.org/system/files/working_papers/w24475/w24475.pdf
+  date: '2018-01-01'
+  tier: 1
+  outlet: National Bureau of Economic Research
 ---
 
 On April 5, 2010, the FDA approved Purdue Pharma's reformulated OxyContin designed to make it more difficult to crush, snort, or inject—14 years after the original drug's launch and three years after the company's guilty plea to criminal misbranding. Purdue ceased shipping the old formulation on August 5, 2010, and began exclusively shipping the reformulated version on August 9, 2010.

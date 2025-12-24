@@ -2,12 +2,11 @@
 id: 2022-12-27--carlo-jimenez-whistleblower-retaliation
 date: '2022-12-27'
 importance: 8
-title: ICE whistleblower faces retaliation after reporting weapons violations at detention
-  facility
+title: ICE whistleblower faces retaliation after reporting weapons violations at detention facility
 location: Conroe, Texas
 actors:
 - Carlo Jimenez
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Department of Homeland Security OIG
 - Merit Systems Protection Board
 tags:
@@ -31,10 +30,7 @@ sources:
   url: https://www.dol.gov/agencies/oalj/PUBLIC/WHISTLEBLOWER/REFERENCES/CASELISTS/FEDERAL_2022
   outlet: Department of Labor
   date: '2022-12-31'
-notes: Houston Field Office has over 16,000 allegations of potential misconduct under
-  review by ICE's Office of Professional Responsibility. Jimenez filed additional
-  complaints in 2025 against Houston Field Office Director Bradford for colluding
-  to keep false evaluations in his personnel file.
+notes: Houston Field Office has over 16,000 allegations of potential misconduct under review by ICE's Office of Professional Responsibility. Jimenez filed additional complaints in 2025 against Houston Field Office Director Bradford for colluding to keep false evaluations in his personnel file.
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2022-12-27--ice-whistleblower-faces-retaliation-after-reportin'
 _merge_timestamp: '2025-09-05T23:46:55.906002'

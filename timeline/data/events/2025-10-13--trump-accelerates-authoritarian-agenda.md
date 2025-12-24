@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Trump, Feeling Emboldened, Pushes Agenda Into Higher Gear
   url: https://www.wsj.com/politics/policy/trump-authoritarian-agenda-acceleration-84a2e8d4
-  publisher: Wall Street Journal
   date: '2025-10-13'
   tier: 1
+  outlet: The Wall Street Journal
 tags:
 - institutional-capture
 - systematic-corruption

@@ -11,7 +11,7 @@ actors:
 - CFTC
 - Federal Reserve
 - Treasury Department
-- SEC
+- Securities and Exchange Commission (SEC)
 tags:
 - derivatives-regulation
 - regulatory-suppression

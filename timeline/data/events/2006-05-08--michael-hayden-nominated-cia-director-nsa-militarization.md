@@ -18,15 +18,14 @@ tags:
 sources:
 - url: https://www.washingtonpost.com/wp-dyn/content/article/2006/05/08/AR2006050800842.html
   title: Bush Picks Air Force General to Head CIA
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2006-05-08'
 - url: https://www.nytimes.com/2006/05/09/washington/09intel.html
   title: Bush Chooses Ex-NSA Chief for CIA Post
-  outlet: New York Times
+  outlet: The New York Times
   date: '2006-05-09'
 - url: https://intelligence.senate.gov/hearings/nomination-general-michael-v-hayden-be-director-central-intelligence-agency
-  title: Nomination of General Michael V. Hayden to be Director of the Central Intelligence
-    Agency
+  title: Nomination of General Michael V. Hayden to be Director of the Central Intelligence Agency
   outlet: Senate Intelligence Committee
   date: '2006-05-18'
 importance: 8

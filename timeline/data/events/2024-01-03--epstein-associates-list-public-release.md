@@ -25,7 +25,7 @@ sources:
   date: '2024-01-03'
 - url: https://www.washingtonpost.com/nation/2024/01/03/epstein-documents-released-names/
   title: Epstein documents released, naming powerful associates
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2024-01-03'
 importance: 9
 status: confirmed

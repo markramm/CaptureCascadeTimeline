@@ -21,24 +21,24 @@ tags:
 sources:
 - title: 2005 CIA Interrogation Videotapes Destruction
   url: https://en.wikipedia.org/wiki/2005_CIA_interrogation_videotapes_destruction
-  publisher: Wikipedia (sourced from DOJ investigation)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from DOJ investigation)
 - title: Destruction of CIA Interrogation Tapes May Conceal Government Crimes
   url: https://www.amnesty.org/en/latest/press-release/2007/12/usa-destruction-cia-interrogation-tapes-may-conceal-government-crimes-20/
-  publisher: Amnesty International
   date: '2007-12-10'
   tier: 1
+  outlet: Amnesty International
 - title: Court Papers - 92 Interrogation Tapes Destroyed by CIA
   url: https://www.cnn.com/2009/POLITICS/03/02/cia.tapes.destroyed/
-  publisher: CNN
   date: '2009-03-02'
   tier: 2
+  outlet: CNN
 - title: Torture Tapes - Failure at All Levels
   url: https://www.brennancenter.org/our-work/research-reports/torture-tapes-failure-all-levels-0
-  publisher: Brennan Center for Justice
   date: '2009-04-21'
   tier: 1
+  outlet: Brennan Center for Justice
 ---
 
 CIA National Clandestine Service director Jose Rodriguez orders the destruction of 92 videotapes documenting hundreds of hours of brutal interrogations of Abu Zubaydah and Abd al-Rahim al-Nashiri at secret CIA black sites. The tapes contain graphic evidence of waterboarding, stress positions, and other torture techniques that violate U.S. and international law. Rodriguez destroys the tapes despite objections from CIA and White House lawyers, and despite multiple ongoing investigations and court proceedings requiring preservation of evidence. The destruction represents deliberate obstruction of justice and an attempt to conceal war crimes.

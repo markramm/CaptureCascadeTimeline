@@ -5,36 +5,36 @@ title: Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Un
 summary: U.S. District Judge Paul Engelmayer of the Southern District of New York granted the Justice Department's request to publicly release grand jury transcripts and evidence from Ghislaine Maxwell's sex trafficking case, reversing his earlier August 2025 denial. The decision came in response to the DOJ's renewed motion following passage of the Epstein Files Transparency Act, which Congress passed and President Trump signed in November 2025. The Act requires the department to disclose all Epstein-related records by December 19, 2025.
 importance: 8
 actors:
-  - Paul Engelmayer
-  - Ghislaine Maxwell
-  - Department of Justice
-  - Donald Trump
-  - Pam Bondi
+- Paul Engelmayer
+- Ghislaine Maxwell
+- Department of Justice
+- Donald Trump
+- Pam Bondi
 tags:
-  - epstein-network
-  - maxwell
-  - judicial-orders
-  - transparency
-  - grand-jury
-  - epstein-files
-  - doj
-  - victim-protection
+- epstein-network
+- maxwell
+- judicial-orders
+- transparency
+- grand-jury
+- epstein-files
+- doj
+- victim-protection
 sources:
-  - url: https://www.nbcnews.com/politics/politics-news/new-york-judge-orders-release-ghislaine-maxwell-related-grand-jury-rec-rcna248191
-    title: Judge in New York orders release of Ghislaine Maxwell-related grand jury records
-    publisher: NBC News
-    date: 2025-12-09
-    tier: 1
-  - url: https://www.cbsnews.com/news/ghislaine-maxwell-sex-trafficking-case-records-justice-department-unseal-judge-says/
-    title: Justice Department can unseal Ghislaine Maxwell sex trafficking case records, federal judge says
-    publisher: CBS News
-    date: 2025-12-09
-    tier: 1
-  - url: https://abcnews.go.com/US/judge-grants-doj-motion-release-grand-jury-materials/story?id=128243928
-    title: Judge grants DOJ motion to release grand jury materials from Ghislaine Maxwell case
-    publisher: ABC News
-    date: 2025-12-09
-    tier: 1
+- url: https://www.nbcnews.com/politics/politics-news/new-york-judge-orders-release-ghislaine-maxwell-related-grand-jury-rec-rcna248191
+  title: Judge in New York orders release of Ghislaine Maxwell-related grand jury records
+  date: 2025-12-09
+  tier: 1
+  outlet: NBC News
+- url: https://www.cbsnews.com/news/ghislaine-maxwell-sex-trafficking-case-records-justice-department-unseal-judge-says/
+  title: Justice Department can unseal Ghislaine Maxwell sex trafficking case records, federal judge says
+  date: 2025-12-09
+  tier: 1
+  outlet: CBS News
+- url: https://abcnews.go.com/US/judge-grants-doj-motion-release-grand-jury-materials/story?id=128243928
+  title: Judge grants DOJ motion to release grand jury materials from Ghislaine Maxwell case
+  date: 2025-12-09
+  tier: 1
+  outlet: ABC News
 ---
 
 U.S. District Judge Paul Engelmayer of the Southern District of New York granted the Justice Department's request to publicly release grand jury transcripts and evidence from Ghislaine Maxwell's sex trafficking case, reversing his earlier August 2025 denial. In a 24-page order, Judge Engelmayer determined that the Epstein Files Transparency Act, which Congress passed and President Trump signed in November 2025, "unambiguously applies" to grand jury materials and requires their disclosure. The law mandates the DOJ to release all unclassified Epstein and Maxwell-related records by December 19, 2025.

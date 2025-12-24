@@ -15,8 +15,8 @@ tags:
 - trump-administration
 actors:
 - Judge Maame Ewusi-Mensah Frimpong
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- Department of Homeland Security
 - U.S. District Court Central District of California
 - ACLU of Southern California
 sources:
@@ -28,8 +28,7 @@ sources:
   url: https://calmatters.org/justice/2025/07/la-immigration-restraining-order/
   outlet: CalMatters
   date: '2025-07-11'
-- title: Judge orders Trump administration to stop immigration arrests without probable
-    cause in Southern California
+- title: Judge orders Trump administration to stop immigration arrests without probable cause in Southern California
   url: https://www.cnn.com/2025/07/11/politics/california-immigration-arrests-probable-cause
   outlet: CNN
   date: '2025-07-11'

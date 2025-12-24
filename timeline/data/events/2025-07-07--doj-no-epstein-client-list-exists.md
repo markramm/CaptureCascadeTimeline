@@ -2,8 +2,7 @@
 id: 2025-07-07--doj-no-epstein-client-list-exists
 date: '2025-07-07'
 importance: 10
-title: DOJ Declares No Epstein Client List Exists After Bondi Claimed It Was on Her
-  Desk
+title: DOJ Declares No Epstein Client List Exists After Bondi Claimed It Was on Her Desk
 location: Washington D.C.
 actors:
 - Department of Justice
@@ -31,15 +30,12 @@ sources:
   outlet: NPR
   date: '2025-07-07'
   archive_url: https://web.archive.org/web/20250707000000/https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo
-- title: Justice department says no 'client list' exists in Epstein sex trafficking
-    case
+- title: Justice department says no 'client list' exists in Epstein sex trafficking case
   url: https://www.washingtonpost.com/national-security/2025/07/07/justice-pam-bondi-epstein-no-client-list/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-07-07'
   archive_url: https://web.archive.org/web/20250707000000/https://www.washingtonpost.com/national-security/2025/07/07/justice-pam-bondi-epstein-no-client-list/
-notes: Complete reversal from Bondi's February Fox News claim. White House scrambled
-  to explain Bondi meant "entirety of paperwork" not client list. Memo claims no further
-  disclosure warranted. Triggers Musk's 35+ post attack suggesting Trump in files.
+notes: Complete reversal from Bondi's February Fox News claim. White House scrambled to explain Bondi meant "entirety of paperwork" not client list. Memo claims no further disclosure warranted. Triggers Musk's 35+ post attack suggesting Trump in files.
 status: confirmed
 ---
 

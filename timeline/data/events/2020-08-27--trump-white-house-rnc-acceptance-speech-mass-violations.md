@@ -4,41 +4,41 @@ date: 2020-08-27
 title: Trump Delivers RNC Acceptance Speech from White House South Lawn in Unprecedented Mass Hatch Act Violation Event
 importance: 9
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Republican National Convention
-  - White House
-  - Abuse of Office
-  - Trump Administration
-  - Rule of Law
+- hatch act
+- ethics violations
+- republican national convention
+- white house
+- abuse of office
+- trump administration
+- rule of law
 actors:
-  - Donald Trump
-  - Melania Trump
-  - Mark Meadows
-  - Mike Pompeo
-  - Chad Wolf
-  - Ivanka Trump
+- Donald Trump
+- Melania Trump
+- Mark Meadows
+- Mike Pompeo
+- Chad Wolf
+- Ivanka Trump
 sources:
-  - url: https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf
-    title: Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election
-    publisher: U.S. Office of Special Counsel
-    date: 2021-08-18
-    tier: 1
-  - url: https://www.npr.org/2020/08/26/906228532/trump-shatters-ethics-norms-by-making-official-acts-part-of-rnc-broadcast
-    title: Trump Shatters Ethics Norms By Making Official Acts Part Of GOP Convention
-    publisher: NPR
-    date: 2020-08-26
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/hatch-act-republican-convention/2020/08/25/53b72b44-e6f8-11ea-970a-64c73a1c2392_story.html
-    title: Focus on Trump's official White House actions as part of Republican convention programming raises Hatch Act concerns
-    publisher: The Washington Post
-    date: 2020-08-25
-    tier: 1
-  - url: https://www.politicususa.com/2020/08/26/mark-meadows-nobody-outside-the-beltway-really-cares-about-hatch-act-violations.html
-    title: Mark Meadows - Nobody Outside The Beltway Really Cares About Hatch Act Violations
-    publisher: PoliticusUSA
-    date: 2020-08-26
-    tier: 2
+- url: https://osc.gov/documents/hatch%20act/reports/investigation%20of%20political%20activities%20by%20senior%20trump%20administration%20officials%20during%20the%202020%20presidential%20election.pdf
+  title: Investigation of Political Activities by Senior Trump Administration Officials During the 2020 Presidential Election
+  date: 2021-08-18
+  tier: 1
+  outlet: U.S. Office of Special Counsel
+- url: https://www.npr.org/2020/08/26/906228532/trump-shatters-ethics-norms-by-making-official-acts-part-of-rnc-broadcast
+  title: Trump Shatters Ethics Norms By Making Official Acts Part Of GOP Convention
+  date: 2020-08-26
+  tier: 1
+  outlet: NPR
+- url: https://www.washingtonpost.com/politics/hatch-act-republican-convention/2020/08/25/53b72b44-e6f8-11ea-970a-64c73a1c2392_story.html
+  title: Focus on Trump's official White House actions as part of Republican convention programming raises Hatch Act concerns
+  date: 2020-08-25
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.politicususa.com/2020/08/26/mark-meadows-nobody-outside-the-beltway-really-cares-about-hatch-act-violations.html
+  title: Mark Meadows - Nobody Outside The Beltway Really Cares About Hatch Act Violations
+  date: 2020-08-26
+  tier: 2
+  outlet: PoliticusUSA
 ---
 
 President Trump delivered his Republican National Convention acceptance speech from the White House South Lawn before 1,500 attendees in an unprecedented use of federal property for a partisan campaign event, culminating four days of systematic Hatch Act violations that transformed the White House and federal government into campaign backdrops. First Lady Melania Trump delivered her speech from the Rose Garden two days earlier, while the RNC programming featured a staged naturalization ceremony and Secretary of State Pompeo's speech from Jerusalem, leading the Office of Special Counsel to document violations by 13 senior administration officials.

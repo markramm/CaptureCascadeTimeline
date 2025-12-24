@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--corporate-pacs-174-million-election-objectors
 date: '2025-08-01'
-title: Corporate PACs Donated $174 Million to Lawmakers Who Attempted to Overturn
-  2020 Election
+title: Corporate PACs Donated $174 Million to Lawmakers Who Attempted to Overturn 2020 Election
 importance: 8
 actors:
 - Koch Industries
@@ -18,9 +17,9 @@ tags:
 sources:
 - url: https://www.citizensforethics.org/reports-investigations/crew-reports/corporate-america-has-largely-abandoned-its-post-january-6-promises-on-democracy/
   title: Corporate America has largely abandoned its post-January 6 promises on democracy
-  publisher: Citizens for Responsibility and Ethics in Washington
   date: '2025-07-31'
   tier: 2
+  outlet: Citizens for Responsibility and Ethics in Washington
 ---
 
 Citizens for Responsibility and Ethics in Washington (CREW) reported in August 2025 that over 2,000 corporate and industry group PACs have donated more than $174 million to members of the 'Sedition Caucus'—the 147 lawmakers who voted against certifying the 2020 presidential election, plus Donald Trump and new members of Congress who ran on the Big Lie that Trump won. Koch Industries led corporate donors with $2.21 million to 113 seditionist lawmakers, followed by American Crystal Sugar ($1.51 million to 117 lawmakers) and AT&T ($1.5 million to 133 lawmakers).

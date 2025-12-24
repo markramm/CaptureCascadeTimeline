@@ -2,23 +2,22 @@
 id: 2025-07-30--congress-sues-ice-detention-access
 date: '2025-07-30'
 importance: 9
-title: Twelve House Democrats sue Trump administration for blocking detention facility
-  oversight
+title: Twelve House Democrats sue Trump administration for blocking detention facility oversight
 location: Washington, D.C. (U.S. District Court)
 actors:
 - Rep. Joe Neguse (CO)
-- Rep. Jason Crow (CO)
+- Rep. Jason Crow
 - Rep. Adriano Espaillat (NY)
 - Rep. Dan Goldman (NY)
 - Rep. Bennie Thompson (MS)
-- Rep. Jamie Raskin (MD)
+- Rep. Jamie Raskin
 - Rep. Veronica Escobar (TX)
 - Rep. Robert Garcia (CA)
 - Rep. Luis Correa (CA)
 - Rep. Jimmy Gomez (CA)
 - Rep. Raul Ruiz (CA)
 - Rep. Norma Torres (CA)
-- Democracy Forward (counsel)
+- Democracy Forward
 - DHS Secretary Kristi Noem
 tags:
 - congressional-oversight
@@ -30,8 +29,7 @@ capture_lanes:
 - Judicial Capture & Corruption
 - Corporate Capture & Regulatory Breakdown
 sources:
-- title: Democratic lawmakers sue over ICE's new policy limiting access to detention
-    centers
+- title: Democratic lawmakers sue over ICE's new policy limiting access to detention centers
   url: https://www.cnn.com/2025/07/30/politics/democrats-sue-ice-detention-center-access
   outlet: CNN Politics
   date: '2025-07-30'
@@ -43,17 +41,11 @@ sources:
   url: https://www.axios.com/2025/07/30/ice-detention-facilities-lawsuit-democrats
   outlet: Axios
   date: '2025-07-30'
-- title: Members of Congress Sue Trump-Vance Administration for Blocking Lawful Oversight
-    of Federal Immigration Detention Facilities
+- title: Members of Congress Sue Trump-Vance Administration for Blocking Lawful Oversight of Federal Immigration Detention Facilities
   url: https://democracyforward.org/updates/moc-ice-lawsuit/
   outlet: Democracy Forward
   date: '2025-07-30'
-notes: Assistant House Minority Leader Joe Neguse stated "Blocking Members of Congress
-  from oversight visits to ICE facilities that house or otherwise detain immigrants
-  clearly violates federal law — and the Trump administration knows it." The lawsuit
-  argues the new DHS policy violates longstanding federal law and "harmed each Plaintiff's
-  right as an individual member of Congress to conduct oversight." This represents
-  an unprecedented attempt to block congressional oversight of detention conditions.
+notes: Assistant House Minority Leader Joe Neguse stated "Blocking Members of Congress from oversight visits to ICE facilities that house or otherwise detain immigrants clearly violates federal law — and the Trump administration knows it." The lawsuit argues the new DHS policy violates longstanding federal law and "harmed each Plaintiff's right as an individual member of Congress to conduct oversight." This represents an unprecedented attempt to block congressional oversight of detention conditions.
 status: confirmed
 ---
 

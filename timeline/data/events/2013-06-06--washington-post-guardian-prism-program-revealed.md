@@ -22,20 +22,20 @@ actors:
 - Apple
 sources:
 - url: https://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html
-  title: "U.S., British intelligence mining data from nine U.S. Internet companies in broad secret program"
-  publisher: The Washington Post
+  title: U.S., British intelligence mining data from nine U.S. Internet companies in broad secret program
   date: '2013-06-06'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.npr.org/sections/thetwo-way/2013/06/06/189321612/nsa-reportedly-mines-servers-of-u-s-internet-firms-for-data
-  title: "NSA Reportedly Mines Servers Of U.S. Internet Firms For Data"
-  publisher: NPR
+  title: NSA Reportedly Mines Servers Of U.S. Internet Firms For Data
   date: '2013-06-06'
   tier: 1
+  outlet: NPR
 - url: https://www.bloomberg.com/news/articles/2013-06-20/nsa-prism-spying-scandal-tech-companies-struggle-to-open-up
-  title: "NSA Prism Spying Scandal: Tech Companies Struggle to Open Up"
-  publisher: Bloomberg
+  title: 'NSA Prism Spying Scandal: Tech Companies Struggle to Open Up'
   date: '2013-06-20'
   tier: 2
+  outlet: Bloomberg
 status: confirmed
 ---
 

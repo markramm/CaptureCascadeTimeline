@@ -1,8 +1,7 @@
 ---
 id: 2025-09-11--senate-democrats-demand-bank-testimony-on-epstein-connections
 date: '2025-09-11'
-title: Ten Senate Democrats Demand Banking Committee Hearings on Epstein Financial
-  Ties
+title: Ten Senate Democrats Demand Banking Committee Hearings on Epstein Financial Ties
 importance: 9
 tags:
 - financial-corruption
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.nytimes.com/2025/09/11/business/senate-democrats-jpmorgan-epstein-testimony.html
   title: Democratic Senators Demand Bank Testimony on Epstein Connections
-  publisher: New York Times
   date: '2025-09-11'
   tier: 1
+  outlet: The New York Times
 actors:
 - Elizabeth Warren
 - Jamie Dimon

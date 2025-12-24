@@ -28,18 +28,15 @@ sources:
   url: https://www.cnn.com/2023/04/07/politics/clarence-thomas-crow-trips/index.html
   outlet: CNN
   date: '2023-04-07'
-- title: Justice Clarence Thomas discloses trips paid for by GOP megadonor Harlan
-    Crow
+- title: Justice Clarence Thomas discloses trips paid for by GOP megadonor Harlan Crow
   url: https://www.washingtonpost.com/politics/2023/04/06/clarence-thomas-harlan-crow-propublica/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2023-04-06'
 - title: Clarence Thomas acknowledges 'family trips' with GOP donor amid ethics questions
   url: https://www.nbcnews.com/politics/supreme-court/clarence-thomas-acknowledges-family-trips-gop-donor-ethics-questions-rcna78723
   outlet: NBC News
   date: '2023-04-07'
-notes: Investigation revealed yacht trips, private jet travel, luxury resort stays
-  worth millions. Thomas claimed personal hospitality exemption. Led to calls for
-  resignation and binding ethics code.
+notes: Investigation revealed yacht trips, private jet travel, luxury resort stays worth millions. Thomas claimed personal hospitality exemption. Led to calls for resignation and binding ethics code.
 status: confirmed
 ---
 

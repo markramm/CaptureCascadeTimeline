@@ -4,31 +4,31 @@ date: 2014-10-01
 title: Chainalysis Founded to Provide Blockchain Forensics to Governments and Banks
 importance: 8
 tags:
-  - surveillance
-  - cryptocurrency
-  - private-sector
-  - financial-crime
+- surveillance
+- cryptocurrency
+- private-sector
+- financial-crime
 actors:
-  - Chainalysis
-  - Michael Gronager
-  - Jonathan Levin
-  - Jan Møller
+- Chainalysis
+- Michael Gronager
+- Jonathan Levin
+- Jan Møller
 sources:
-  - url: https://en.wikipedia.org/wiki/Chainalysis
-    title: Chainalysis - Wikipedia
-    publisher: Wikipedia
-    date: 2014-10-01
-    tier: 2
-  - url: https://www.chainalysis.com/blog/building-the-first-blockchain-analytics-company-ep-127/
-    title: The Birth of Chainalysis - Michael Gronager
-    publisher: Chainalysis
-    date: 2014-10-01
-    tier: 2
-  - url: https://research.contrary.com/company/chainalysis
-    title: Chainalysis Business Breakdown & Founding Story
-    publisher: Contrary Research
-    date: 2014-10-01
-    tier: 2
+- url: https://en.wikipedia.org/wiki/Chainalysis
+  title: Chainalysis - Wikipedia
+  date: 2014-10-01
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.chainalysis.com/blog/building-the-first-blockchain-analytics-company-ep-127/
+  title: The Birth of Chainalysis - Michael Gronager
+  date: 2014-10-01
+  tier: 2
+  outlet: Chainalysis
+- url: https://research.contrary.com/company/chainalysis
+  title: Chainalysis Business Breakdown & Founding Story
+  date: 2014-10-01
+  tier: 2
+  outlet: Contrary Research
 ---
 
 Michael Gronager, Jonathan Levin, and Jan Møller found Chainalysis in late 2014, creating the first startup dedicated to Bitcoin tracing for government agencies and financial institutions. The company emerges from Gronager's work investigating the Mt. Gox cryptocurrency exchange collapse, where he realizes that digital forensics tools could help governments track illicit cash flows and enable banks to comply with know-your-customer regulations.

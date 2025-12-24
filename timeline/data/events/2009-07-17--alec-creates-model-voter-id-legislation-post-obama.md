@@ -9,7 +9,7 @@ actors:
 - Heritage Foundation
 - ALEC Public Safety and Elections Task Force
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
 - corporate-influence

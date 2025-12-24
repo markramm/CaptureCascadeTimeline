@@ -1,8 +1,7 @@
 ---
 id: 2025-10-20--secret-weaponization-working-group
 date: '2025-10-20'
-title: Secret Interagency Working Group Coordinates Trump Retaliation Against Political
-  Opponents
+title: Secret Interagency Working Group Coordinates Trump Retaliation Against Political Opponents
 importance: 10
 tags:
 - weaponization-of-government
@@ -21,9 +20,9 @@ actors:
 sources:
 - url: https://www.reuters.com/world/us/trump-weaponization-working-group-investigation-2025-10-20/
   title: Secret Interagency Weaponization Working Group Targeting Opponents
-  publisher: Reuters
   date: '2025-10-20'
   tier: 1
+  outlet: Reuters
 status: confirmed
 ---
 

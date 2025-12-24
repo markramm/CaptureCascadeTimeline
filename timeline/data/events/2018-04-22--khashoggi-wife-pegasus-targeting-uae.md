@@ -17,9 +17,9 @@ actors:
 - Citizen Lab
 - University of Toronto
 sources:
-- title: 'UAE agency put Pegasus spyware on phone of Jamal Khashoggi wife months before his murder'
+- title: UAE agency put Pegasus spyware on phone of Jamal Khashoggi wife months before his murder
   url: https://www.washingtonpost.com/nation/interactive/2021/hanan-elatr-phone-pegasus/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2021-07-18'
   tier: 1
 - title: 'Pegasus Spyware Put on Phone of Khashoggi Wife: Washington Post'
@@ -27,7 +27,7 @@ sources:
   outlet: PBS Frontline
   date: '2021-07-19'
   tier: 1
-- title: 'UAE placed spyware on Khashoggi wife phone months before murder'
+- title: UAE placed spyware on Khashoggi wife phone months before murder
   url: https://www.middleeasteye.net/news/uae-pegasus-spyware-khashoggi-wife-phone-months-murder
   outlet: Middle East Eye
   date: '2021-07-18'

@@ -1,7 +1,7 @@
 ---
 id: 1955-01-01--national-right-to-work-committee-founded-anti-union-lobbying
 date: '1955-01-01'
-title: 'National Right to Work Committee Founded to Coordinate Anti-Union Corporate Lobbying'
+title: National Right to Work Committee Founded to Coordinate Anti-Union Corporate Lobbying
 importance: 8
 actors:
 - Fred A. Hartley
@@ -12,22 +12,22 @@ tags:
 - labor-suppression
 - right-to-work
 - anti-union-lobbying
-- NRTWC
+- nrtwc
 - corporate-funding
 sources:
-- title: 'Who Is Behind the National Right to Work Committee'
+- title: Who Is Behind the National Right to Work Committee
   url: https://www.prwatch.org/news/2014/06/12498/who-behind-national-right-work-committee-and-its-anti-union-crusade
   outlet: Center for Media and Democracy (PR Watch)
   date: '2014-06-18'
   verified: true
   tier: 1
-- title: 'Who Is Behind the National Right to Work Committee and its Anti-Union Crusade'
+- title: Who Is Behind the National Right to Work Committee and its Anti-Union Crusade
   url: https://progressive.org/latest/behind-national-right-work-committee-anti-union-crusade/
   outlet: The Progressive
   date: '2014-06-18'
   verified: true
   tier: 2
-- title: 'National Right to Work Committee SourceWatch'
+- title: National Right to Work Committee SourceWatch
   url: https://www.sourcewatch.org/index.php/National_Right_to_Work_Committee
   outlet: SourceWatch
   date: '2024-01-01'

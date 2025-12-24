@@ -8,10 +8,10 @@ actors:
 - Flock Safety
 - Garrett Langley
 - ACLU
-- Electronic Frontier Foundation
+- Electronic Frontier Foundation (EFF)
 tags:
 - surveillance
-- ALPR
+- alpr
 - mass-surveillance
 - license-plate-readers
 - warrantless-surveillance

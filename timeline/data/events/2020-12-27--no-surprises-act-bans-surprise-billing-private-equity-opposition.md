@@ -4,35 +4,35 @@ title: No Surprises Act Bans Surprise Medical Billing After Years of Private Equ
 date: '2020-12-27'
 importance: 8
 actors:
-  - U.S. Congress
-  - TeamHealth
-  - Envision Healthcare
-  - Blackstone Group
-  - KKR
-  - Private Equity Industry
+- U.S. Congress
+- TeamHealth
+- Envision Healthcare
+- Blackstone Group
+- KKR
+- Private Equity Industry
 tags:
-  - healthcare
-  - private-equity
-  - regulatory-capture
-  - surprise-billing
-  - legislative-reform
+- healthcare
+- private-equity
+- regulatory-capture
+- surprise-billing
+- legislative-reform
 status: confirmed
 sources:
-  - title: Profiting on all sides - Private equity and the No Surprises Act
-    url: https://pestakeholder.org/news/profiting-on-all-sides-private-equity-and-the-no-surprises-act/
-    publisher: Private Equity Stakeholder Project
-    date: '2022-01-01'
-    tier: 2
-  - title: No Surprises - Understand your rights against surprise medical bills
-    url: https://www.cms.gov/newsroom/fact-sheets/no-surprises-understand-your-rights-against-surprise-medical-bills
-    publisher: Centers for Medicare & Medicaid Services
-    date: '2021-12-30'
-    tier: 1
-  - title: ER staffing firms keep the claims flowing even after federal ban on surprise bills
-    url: https://wpln.org/post/er-staffing-firms-keep-the-surprise-bills-flowing-in-tennessee-even-after-federal-ban/
-    publisher: WPLN News
-    date: '2023-06-15'
-    tier: 2
+- title: Profiting on all sides - Private equity and the No Surprises Act
+  url: https://pestakeholder.org/news/profiting-on-all-sides-private-equity-and-the-no-surprises-act/
+  date: '2022-01-01'
+  tier: 2
+  outlet: Private Equity Stakeholder Project
+- title: No Surprises - Understand your rights against surprise medical bills
+  url: https://www.cms.gov/newsroom/fact-sheets/no-surprises-understand-your-rights-against-surprise-medical-bills
+  date: '2021-12-30'
+  tier: 1
+  outlet: Centers for Medicare & Medicaid Services
+- title: ER staffing firms keep the claims flowing even after federal ban on surprise bills
+  url: https://wpln.org/post/er-staffing-firms-keep-the-surprise-bills-flowing-in-tennessee-even-after-federal-ban/
+  date: '2023-06-15'
+  tier: 2
+  outlet: WPLN News
 ---
 
 On December 27, 2020, Congress passed the No Surprises Act as part of the Consolidated Appropriations Act of 2021, banning most surprise medical billing beginning January 1, 2022. The legislation addressed a predatory billing practice that generated billions in profits for private equity-backed physician staffing companies—particularly TeamHealth (Blackstone) and Envision Healthcare (KKR)—which had used surprise billing as a core business strategy for over a decade. The Act passed only after years of fierce industry lobbying and opposition, demonstrating how private equity firms monetize regulatory gaps while fighting reforms that protect patients.

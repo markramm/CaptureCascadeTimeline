@@ -20,24 +20,24 @@ tags:
 sources:
 - title: Secret Kill List Proves a Test of Obama's Principles
   url: https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html
-  publisher: New York Times
   date: '2012-05-29'
   tier: 1
+  outlet: The New York Times
 - title: Anwar al-Awlaki
   url: https://en.wikipedia.org/wiki/Anwar_al-Awlaki
-  publisher: Wikipedia (sourced from government documents)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from government documents)
 - title: Targeted Killings - ACLU vs Obama Administration
   url: https://www.aclu.org/cases/al-aulaqi-v-panetta-constitutional-challenge-killing-three-us-citizens
-  publisher: ACLU
   date: '2014-07-18'
   tier: 1
+  outlet: ACLU
 - title: Obama's Final Drone Strike Data
   url: https://www.cfr.org/blog/obamas-final-drone-strike-data
-  publisher: Council on Foreign Relations
   date: '2017-01-20'
   tier: 1
+  outlet: Council on Foreign Relations
 ---
 
 A CIA drone strike in Yemen kills Anwar al-Awlaki, a U.S. citizen and Islamic cleric, without charges, trial, or judicial process. Al-Awlaki becomes the first American citizen to be deliberately assassinated by his own government since the Civil War era. President Obama personally approved placing al-Awlaki on the kill list based on classified intelligence that he had moved beyond propaganda to an operational role in al-Qaeda in the Arabian Peninsula. The killing raises profound constitutional questions about executive power to execute American citizens without due process, and sets precedents that future presidents will exploit to claim authority to assassinate citizens in secret based on classified evidence never subject to judicial review.

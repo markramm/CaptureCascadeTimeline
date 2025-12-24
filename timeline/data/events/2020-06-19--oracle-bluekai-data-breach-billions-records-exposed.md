@@ -16,19 +16,19 @@ actors:
 sources:
 - title: Oracle's BlueKai tracks you across the web. That data spilled online
   url: https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/
-  publisher: TechCrunch
   date: '2020-06-19'
   tier: 2
+  outlet: TechCrunch
 - title: Billions of Records of Web-Tracking Data Exposed by Oracle's BlueKai
   url: https://social.cyware.com/news/billions-of-records-of-web-tracking-data-exposed-by-oracles-bluekai-00629add
-  publisher: Cyware
   date: '2020-06-20'
   tier: 2
+  outlet: Cyware
 - title: The Big Data Breaches of 2020 - What Did We Learn?
   url: https://www.bitsight.com/blog/the-big-data-breaches-of-2020-what-happened-and-what-did-we-learn
-  publisher: BitSight
   date: '2020-12-31'
   tier: 2
+  outlet: BitSight
 ---
 
 Oracle's BlueKai Data Management Platform exposed billions of records containing sensitive web tracking data through an unsecured cloud server discovered on June 19, 2020, in one of the largest data breaches of the year. The database, left accessible to the public internet without password protection or authentication, contained names, home addresses, email addresses, and detailed web browsing activity including purchases, newsletter subscriptions, and website visits across some of the world's most popular websites.

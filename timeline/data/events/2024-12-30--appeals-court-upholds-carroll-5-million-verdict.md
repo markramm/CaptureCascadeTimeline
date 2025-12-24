@@ -4,36 +4,36 @@ date: '2024-12-30'
 title: Federal Appeals Court Upholds $5 Million Carroll Verdict Against Trump
 importance: 7
 tags:
-  - Appeals Court
-  - E. Jean Carroll
-  - Sexual Abuse
-  - Defamation
-  - Legal Victory
+- appeals court
+- e. jean carroll
+- sexual abuse
+- defamation
+- legal victory
 actors:
-  - E. Jean Carroll
-  - Donald Trump
-  - Second Circuit Court of Appeals
+- E. Jean Carroll
+- Donald Trump
+- Second Circuit Court of Appeals
 sources:
-  - url: https://www.pbs.org/newshour/politics/5-million-verdict-in-sexual-abuse-case-against-president-elect-donald-trump-upheld-by-appeals-court
-    title: $5 million verdict in sexual abuse case against President-elect Donald Trump upheld by appeals court
-    publisher: PBS
-    date: '2024-12-30'
-    tier: 1
-  - url: https://www.cnn.com/2024/12/30/politics/federal-appeals-court-upholds-sexual-abuse-case-against-trump
-    title: Federal appeals court upholds sexual abuse verdict against Trump
-    publisher: CNN
-    date: '2024-12-30'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/appeals-court-upholds-5-million-e-jean-carroll-verdict-trump-rcna185745
-    title: Appeals court upholds $5 million E. Jean Carroll verdict against Trump
-    publisher: NBC News
-    date: '2024-12-30'
-    tier: 1
-  - url: https://www.jurist.org/news/2024/12/us-appeals-court-upholds-5m-e-jean-carroll-sexual-assault-and-defamation-verdict-against-trump/
-    title: US appeals court upholds $5M E. Jean Carroll sexual assault and defamation verdict against Trump
-    publisher: JURIST
-    date: '2024-12-30'
-    tier: 2
+- url: https://www.pbs.org/newshour/politics/5-million-verdict-in-sexual-abuse-case-against-president-elect-donald-trump-upheld-by-appeals-court
+  title: $5 million verdict in sexual abuse case against President-elect Donald Trump upheld by appeals court
+  date: '2024-12-30'
+  tier: 1
+  outlet: PBS
+- url: https://www.cnn.com/2024/12/30/politics/federal-appeals-court-upholds-sexual-abuse-case-against-trump
+  title: Federal appeals court upholds sexual abuse verdict against Trump
+  date: '2024-12-30'
+  tier: 1
+  outlet: CNN
+- url: https://www.nbcnews.com/politics/donald-trump/appeals-court-upholds-5-million-e-jean-carroll-verdict-trump-rcna185745
+  title: Appeals court upholds $5 million E. Jean Carroll verdict against Trump
+  date: '2024-12-30'
+  tier: 1
+  outlet: NBC News
+- url: https://www.jurist.org/news/2024/12/us-appeals-court-upholds-5m-e-jean-carroll-sexual-assault-and-defamation-verdict-against-trump/
+  title: US appeals court upholds $5M E. Jean Carroll sexual assault and defamation verdict against Trump
+  date: '2024-12-30'
+  tier: 2
+  outlet: JURIST
 status: confirmed
 ---
 

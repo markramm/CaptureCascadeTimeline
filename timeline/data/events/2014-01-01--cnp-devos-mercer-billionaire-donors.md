@@ -4,7 +4,7 @@ date: '2014-01-01'
 title: CNP Membership Includes DeVos and Mercer Families - Billionaire Donor Integration
 importance: 9
 tags:
-- CNP
+- cnp
 - conservative-movement
 - dark-money
 - billionaire-donors
@@ -19,7 +19,7 @@ actors:
 - Betsy DeVos
 - Erik Prince
 sources:
-- title: 'Council for National Policy - DeSmog'
+- title: Council for National Policy - DeSmog
   url: https://www.desmog.com/council-national-policy/
   publication: DeSmog
   date: '2024-11-10'

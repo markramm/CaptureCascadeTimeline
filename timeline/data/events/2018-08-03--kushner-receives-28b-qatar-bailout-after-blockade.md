@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: Kushners Near Deal With Qatar-Linked Company for Troubled Tower
   url: https://www.nytimes.com/2018/05/17/nyregion/kushner-deal-qatar-666-5th.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-05-17'
 - title: The Kushners' Troubled Tower
   url: https://www.newyorker.com/news/news-desk/jared-kushners-business-dealings-and-the-qatar-blockade

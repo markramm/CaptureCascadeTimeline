@@ -20,7 +20,7 @@ tags:
 - ethics-violations
 - conflicts-of-interest
 - government-contracts
-- DHS
+- dhs
 - regulatory-capture
 - trump-administration
 capture_type: regulatory_capture

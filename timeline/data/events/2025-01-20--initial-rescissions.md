@@ -6,7 +6,7 @@ title: Trump signs Executive Order 14148 rescinding 78 Biden directives
 location: White House, Washington DC
 actors:
 - Donald Trump
-- JD Vance
+- J.D. Vance
 - Domestic Policy Council
 - National Economic Council
 tags:
@@ -44,9 +44,7 @@ sources:
   - First day in office action
   - Climate, DEI, immigration focus
   - 45-day review for additional rescissions
-notes: First of 26 executive orders signed on inauguration day. Rescinded orders included
-  EO 13990 (Protecting Public Health), EO 14008 (Climate Crisis), EO 14074 (Law Enforcement
-  Accountability Database). March 14 follow-up order rescinded additional directives.
+notes: First of 26 executive orders signed on inauguration day. Rescinded orders included EO 13990 (Protecting Public Health), EO 14008 (Climate Crisis), EO 14074 (Law Enforcement Accountability Database). March 14 follow-up order rescinded additional directives.
 status: confirmed
 ---
 

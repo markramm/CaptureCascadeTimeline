@@ -4,7 +4,7 @@ date: '2020-09-01'
 title: CNP September 2020 Membership Directory Leaked - Current Network Exposed
 importance: 9
 tags:
-- CNP
+- cnp
 - conservative-movement
 - coordination
 - secretive-networks
@@ -13,12 +13,12 @@ actors:
 - Council for National Policy
 - Documented
 sources:
-- title: 'Documented Has Obtained a New Council for National Policy Membership List'
+- title: Documented Has Obtained a New Council for National Policy Membership List
   url: https://documented.net/investigations/documented-has-obtained-a-recent-council-for-national-policy-membership-list
   publication: Documented
   date: '2022-01-15'
   tier: 1
-- title: 'Council for National Policy Membership Directory September 2020'
+- title: Council for National Policy Membership Directory September 2020
   url: https://www.documentcloud.org/documents/7280937-Council-for-National-Policy-Membership-Directory/
   publication: DocumentCloud
   date: '2020-09-01'

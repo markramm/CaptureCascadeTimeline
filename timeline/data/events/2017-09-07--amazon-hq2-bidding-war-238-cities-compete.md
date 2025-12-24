@@ -4,34 +4,34 @@ date: 2017-09-07
 title: Amazon Launches HQ2 Bidding War—238 Cities Compete to Offer Billions in Subsidies
 importance: 9
 tags:
-  - corporate-welfare
-  - economic-extraction
-  - race-to-bottom
-  - surveillance-capitalism
+- corporate-welfare
+- economic-extraction
+- race-to-bottom
+- surveillance-capitalism
 actors:
-  - Amazon
-  - Jeff Bezos
+- Amazon
+- Jeff Bezos
 sources:
-  - url: https://money.cnn.com/2017/10/23/technology/amazon-hq2-proposals-update/index.html
-    title: Amazon received 238 proposals for second headquarters
-    publisher: CNN Money
-    date: 2017-10-23
-    tier: 2
-  - url: https://www.govtech.com/biz/238-cities-bid-for-amazon-hq2.html
-    title: 238 Cities Bid for Amazon HQ2
-    publisher: Government Technology
-    date: 2017-10-23
-    tier: 2
-  - url: https://www.brookings.edu/articles/amazon-hq2-how-did-we-get-here-what-comes-next/
-    title: "Amazon HQ2: How did we get here? What comes next?"
-    publisher: Brookings Institution
-    date: 2018-11-14
-    tier: 1
-  - url: https://inthesetimes.com/article/the-hq2-scam-how-amazon-used-a-bidding-war-to-scrape-cities-data
-    title: "The HQ2 Scam: How Amazon Used a Bidding War to Scrape Cities' Data"
-    publisher: In These Times
-    date: 2018-12-03
-    tier: 2
+- url: https://money.cnn.com/2017/10/23/technology/amazon-hq2-proposals-update/index.html
+  title: Amazon received 238 proposals for second headquarters
+  date: 2017-10-23
+  tier: 2
+  outlet: CNN Money
+- url: https://www.govtech.com/biz/238-cities-bid-for-amazon-hq2.html
+  title: 238 Cities Bid for Amazon HQ2
+  date: 2017-10-23
+  tier: 2
+  outlet: Government Technology
+- url: https://www.brookings.edu/articles/amazon-hq2-how-did-we-get-here-what-comes-next/
+  title: 'Amazon HQ2: How did we get here? What comes next?'
+  date: 2018-11-14
+  tier: 1
+  outlet: Brookings Institution
+- url: https://inthesetimes.com/article/the-hq2-scam-how-amazon-used-a-bidding-war-to-scrape-cities-data
+  title: 'The HQ2 Scam: How Amazon Used a Bidding War to Scrape Cities'' Data'
+  date: 2018-12-03
+  tier: 2
+  outlet: In These Times
 ---
 
 Amazon announced in September 2017 that it would build a second headquarters (HQ2) equal to its Seattle campus, sparking a bidding war among 238 North American cities desperate to win 50,000 promised jobs. Cities competed to offer the largest subsidy packages—with bids averaging $6.75 billion from states and $2.15 billion from cities—while providing Amazon with detailed proprietary data on infrastructure, real estate, demographics, and economic development plans. The spectacle represented corporate welfare extraction at industrial scale, with cities racing to beggar themselves while enriching one of the world's most valuable companies owned by the world's wealthiest individual.

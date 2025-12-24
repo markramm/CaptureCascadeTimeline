@@ -11,14 +11,14 @@ actors:
 sources:
 - title: Justice Department obtains indictment of Trump foe Letitia James
   url: https://www.washingtonpost.com/national-security/2025/10/09/letitia-james-grand-jury-trump/
-  publisher: Washington Post
   date: '2025-10-09'
   tier: 1
+  outlet: The Washington Post
 - title: The Mortgage Fraud Charges Against Letitia James, Explained
   url: https://www.bloomberg.com/news/articles/2025-10-10/letitia-james-mortgage-fraud-charges-explained
-  publisher: Bloomberg
   date: '2025-10-10'
   tier: 1
+  outlet: Bloomberg
 tags:
 - political-prosecution
 - doj-weaponization

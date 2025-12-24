@@ -9,14 +9,14 @@ actors:
 sources:
 - title: Notice of Request for Information; Regulatory Reform on Artificial Intelligence
   url: https://www.federalregister.gov/documents/2025/09/26/2025-18737/notice-of-request-for-information-regulatory-reform-on-artificial-intelligence
-  publisher: Federal Register
   date: '2025-09-26'
   tier: 1
+  outlet: Federal Register
 - title: 'AI Regulations in 2025: US, EU, UK, Japan, China & More'
   url: https://www.anecdotes.ai/learn/ai-regulations-in-2025-us-eu-uk-japan-china-and-more
-  publisher: Anecdotes
   date: '2025'
   tier: 3
+  outlet: Anecdotes
 tags:
 - ai-regulation
 - deregulation

@@ -19,24 +19,24 @@ actors:
 sources:
 - title: Microsoft and Google Challenge US Government Gag Orders
   url: https://slashdot.org/story/13/08/30/2245249/microsoft-and-google-challenge-us-government-gag-orders
-  publisher: Slashdot
   date: '2013-08-30'
   tier: 2
-- title: 'Microsoft, Google Say They''re Moving Forward With NSA Lawsuit'
+  outlet: Slashdot
+- title: Microsoft, Google Say They're Moving Forward With NSA Lawsuit
   url: https://www.npr.org/sections/thetwo-way/2013/08/30/217325884/microsoft-google-say-they-will-move-forward-with-nsa-lawsuit
-  publisher: NPR
   date: '2013-08-30'
   tier: 1
+  outlet: NPR
 - title: A Step Forward in Microsoft's Legal Battle for Transparency about Government Data Requests
   url: https://www.eff.org/deeplinks/2017/02/step-forward-microsofts-legal-battle-transparency-about-government-data-requests
-  publisher: Electronic Frontier Foundation
   date: '2017-02-23'
   tier: 1
+  outlet: Electronic Frontier Foundation
 - title: Foreign Intelligence Surveillance Act (FISA) Transparency Case Archives
   url: https://blogs.microsoft.com/datalaw/initiative/legal-cases/foreign-intelligence-surveillance-act-fisa-transparency-case/
-  publisher: Microsoft
   date: '2013-08-30'
   tier: 1
+  outlet: Microsoft
 status: confirmed
 ---
 

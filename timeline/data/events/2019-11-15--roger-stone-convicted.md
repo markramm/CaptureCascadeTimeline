@@ -4,36 +4,36 @@ date: 2019-11-15
 title: Roger Stone Convicted on All Counts - Obstruction, Witness Tampering, and Lying to Congress
 importance: 8
 tags:
-  - Mueller Investigation
-  - WikiLeaks
-  - Obstruction of Justice
-  - Witness Tampering
-  - Congressional Lies
-  - Trump Pardons
-  - Russia Interference
+- mueller investigation
+- wikileaks
+- obstruction of justice
+- witness tampering
+- congressional lies
+- trump pardons
+- russia interference
 actors:
-  - Roger Stone
-  - Donald Trump
-  - Jerome Corsi
-  - Randy Credico
-  - WikiLeaks
-  - Julian Assange
+- Roger Stone
+- Donald Trump
+- Jerome Corsi
+- Randy Credico
+- WikiLeaks
+- Julian Assange
 sources:
-  - url: https://www.justice.gov/usao-dc/pr/roger-jason-stone-jr-convicted-seven-felonies
-    title: Roger Jason Stone, Jr. Convicted of Seven Felonies
-    publisher: U.S. Attorney's Office, District of Columbia
-    date: 2019-11-15
-    tier: 1
-  - url: https://www.justice.gov/storage/report.pdf
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume I
-    publisher: Department of Justice Special Counsel's Office
-    date: 2019-04-18
-    tier: 1
-  - url: https://www.documentcloud.org/documents/5740797-Stone-Indictment.html
-    title: United States v. Roger J. Stone, Jr. - Indictment
-    publisher: U.S. District Court for the District of Columbia
-    date: 2019-01-24
-    tier: 1
+- url: https://www.justice.gov/usao-dc/pr/roger-jason-stone-jr-convicted-seven-felonies
+  title: Roger Jason Stone, Jr. Convicted of Seven Felonies
+  date: 2019-11-15
+  tier: 1
+  outlet: U.S. Attorney's Office, District of Columbia
+- url: https://www.justice.gov/storage/report.pdf
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume I
+  date: 2019-04-18
+  tier: 1
+  outlet: Department of Justice Special Counsel's Office
+- url: https://www.documentcloud.org/documents/5740797-Stone-Indictment.html
+  title: United States v. Roger J. Stone, Jr. - Indictment
+  date: 2019-01-24
+  tier: 1
+  outlet: U.S. District Court for the District of Columbia
 ---
 
 A federal jury convicted longtime Trump advisor Roger Stone on all seven counts: one count of obstruction of an official proceeding, five counts of making false statements to Congress, and one count of witness tampering. The conviction stemmed from Stone's efforts to obstruct the House Intelligence Committee's investigation into Russian interference in the 2016 election, his lies about serving as an intermediary between the Trump campaign and WikiLeaks, and his attempts to intimidate witness Randy Credico. Stone became the sixth Trump associate convicted of crimes as a result of the Mueller investigation, and Trump would later commute his sentence and grant him a full pardon.

@@ -4,7 +4,7 @@ date: '2021-01-02'
 title: CNP Attorney Cleta Mitchell Joins Trump Call Pressuring Georgia Officials
 importance: 10
 tags:
-- CNP
+- cnp
 - conservative-movement
 - election-denial
 - coordination
@@ -16,12 +16,12 @@ actors:
 - Brad Raffensperger
 - Council for National Policy
 sources:
-- title: 'Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol'
+- title: Christian Right Council for National Policy Tied to Violent Insurrection at U.S. Capitol
   url: https://www.exposedbycmd.org/2021/01/08/christian-right-council-national-policy-tied-violent-insurrection-u-s-capitol/
   publication: Center for Media and Democracy
   date: '2021-01-08'
   tier: 1
-- title: 'The Shadow Network (Council for National Policy) Is Not Going Away'
+- title: The Shadow Network (Council for National Policy) Is Not Going Away
   url: https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/
   publication: Bill Moyers
   date: '2021-01-08'

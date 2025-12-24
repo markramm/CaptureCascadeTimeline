@@ -17,24 +17,24 @@ tags:
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
-  publisher: U.S. Senate Select Committee on Intelligence
   date: '2014-12-09'
   tier: 1
+  outlet: U.S. Senate Select Committee on Intelligence
 - title: Enhanced Interrogation Techniques
   url: https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
-  publisher: Wikipedia (sourced from Senate report)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from Senate report)
 - title: Psychologists Behind CIA Torture Report Settle Lawsuit
   url: https://www.aclu.org/press-releases/psychologists-behind-cia-torture-report-settle-lawsuit
-  publisher: ACLU
   date: '2017-08-17'
   tier: 1
+  outlet: ACLU
 - title: No More Excuses - Roadmap to Justice for CIA Torture
   url: https://www.hrw.org/report/2015/12/01/no-more-excuses/roadmap-justice-cia-torture
-  publisher: Human Rights Watch
   date: '2015-12-01'
   tier: 1
+  outlet: Human Rights Watch
 ---
 
 The Senate Intelligence Committee's investigation reveals that the CIA paid private contractors James Mitchell and Bruce Jessen $81 million to design, implement, and assess the effectiveness of the enhanced interrogation program. The psychologists had no interrogation experience, no background in terrorism or al-Qaeda, and no relevant regional or linguistic expertise. They based their torture methods on a theory of "learned helplessness" derived from experiments on dogs and reverse-engineered from military Survival, Evasion, Resistance, and Escape (SERE) training designed to prepare U.S. soldiers for torture by enemies—not to extract intelligence. The massive payments for pseudoscientific torture demonstrate how the CIA privatized war crimes while enriching contractors who designed techniques proven ineffective and illegal.

@@ -4,32 +4,32 @@ title: Pfizer Reports $22 Billion Profit on COVID-19 Vaccine, One of Most Profit
 date: '2021-11-02'
 importance: 9
 actors:
-  - Pfizer
-  - BioNTech
-  - U.S. Government
+- Pfizer
+- BioNTech
+- U.S. Government
 tags:
-  - healthcare
-  - covid-19
-  - pharmaceutical-price-gouging
-  - regulatory-capture
-  - corporate-profiteering
+- healthcare
+- covid-19
+- pharmaceutical-price-gouging
+- regulatory-capture
+- corporate-profiteering
 status: confirmed
 sources:
-  - title: Pfizer revenue and profits soar on its Covid vaccine business
-    url: https://www.cnn.com/2021/11/02/business/pfizer-earnings/index.html
-    publisher: CNN Business
-    date: '2021-11-02'
-    tier: 2
-  - title: Pfizer's 2021 profits doubled to $22 bn on strong Covid vaccine sales
-    url: https://www.france24.com/en/live-news/20220208-pfizer-s-2021-profits-doubled-to-22-bn-on-strong-covid-vaccine-sales
-    publisher: France24
-    date: '2022-02-08'
-    tier: 2
-  - title: How Pfizer Won the Pandemic, Reaping Outsize Profit and Influence
-    url: https://kffhealthnews.org/news/article/pfizer-pandemic-vaccine-market-paxlovid-outsize-profit-influence/
-    publisher: KFF Health News
-    date: '2023-01-25'
-    tier: 1
+- title: Pfizer revenue and profits soar on its Covid vaccine business
+  url: https://www.cnn.com/2021/11/02/business/pfizer-earnings/index.html
+  date: '2021-11-02'
+  tier: 2
+  outlet: CNN Business
+- title: Pfizer's 2021 profits doubled to $22 bn on strong Covid vaccine sales
+  url: https://www.france24.com/en/live-news/20220208-pfizer-s-2021-profits-doubled-to-22-bn-on-strong-covid-vaccine-sales
+  date: '2022-02-08'
+  tier: 2
+  outlet: France24
+- title: How Pfizer Won the Pandemic, Reaping Outsize Profit and Influence
+  url: https://kffhealthnews.org/news/article/pfizer-pandemic-vaccine-market-paxlovid-outsize-profit-influence/
+  date: '2023-01-25'
+  tier: 1
+  outlet: KFF Health News
 ---
 
 In November 2021, Pfizer reported annual profits of $21.98 billion on revenues of $81.29 billion for 2021, with COVID-19 vaccine sales of $36.7 billion accounting for 45% of total company revenue. The COVID-19 vaccine became one of the most financially successful pharmaceutical products in history, generating massive profits while relying on publicly-funded research, government advance purchase commitments, and liability protections—demonstrating how pharmaceutical companies privatize publicly-funded innovation while extracting maximum profits during public health emergencies.

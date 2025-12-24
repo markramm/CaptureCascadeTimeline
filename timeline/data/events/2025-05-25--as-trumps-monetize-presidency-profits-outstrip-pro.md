@@ -2,9 +2,7 @@
 id: 2025-05-25--as-trumps-monetize-presidency-profits-outstrip-pro
 date: '2025-05-25'
 title: As Trumps monetize presidency, profits outstrip protests
-description: Trump and his family have monetized the presidency to the tune of hundreds
-  of millions of dollars without significant public outcry and institutional pushback
-  after his early purge of federal ethics watchdogs
+description: Trump and his family have monetized the presidency to the tune of hundreds of millions of dollars without significant public outcry and institutional pushback after his early purge of federal ethics watchdogs
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -18,10 +16,9 @@ capture_type: personnel_rewiring
 sources:
 - title: As Trumps monetize presidency, profits outstrip protests
   url: https://www.nytimes.com/2025/05/25/us/politics/trump-money-plane-crypto.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-05-25'
-- title: 'From crypto to private jets: How Donald Trump and his family have profited
-    from the US presidency'
+- title: 'From crypto to private jets: How Donald Trump and his family have profited from the US presidency'
   url: https://www.irishtimes.com/world/us/2025/05/27/profits-outstrip-protests-as-trumps-monetise-the-presidency/
   outlet: The Irish Times
   date: '2025-05-27'

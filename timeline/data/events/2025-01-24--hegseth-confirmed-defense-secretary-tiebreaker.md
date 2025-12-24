@@ -4,7 +4,7 @@ date: '2025-01-24'
 title: Pete Hegseth confirmed as Defense Secretary in historic VP tiebreaker vote
 actors:
 - Pete Hegseth
-- JD Vance
+- J.D. Vance
 - U.S. Senate
 - Mitch McConnell
 - Lisa Murkowski
@@ -29,13 +29,11 @@ status: confirmed
 sources:
 - date: '2025-01-24'
   outlet: NPR
-  title: Pete Hegseth, Trump's embattled pick for defense secretary, confirmed by
-    Senate
+  title: Pete Hegseth, Trump's embattled pick for defense secretary, confirmed by Senate
   url: https://www.npr.org/2025/01/24/nx-s1-5272854/trump-cabinet-picks-pete-hegseth-senate-confirmation-vote
 - date: '2025-01-24'
   outlet: NewsNation
-  title: Pete Hegseth confirmed as Secretary of Defense with JD Vance's tiebreaking
-    vote
+  title: Pete Hegseth confirmed as Secretary of Defense with JD Vance's tiebreaking vote
   url: https://www.newsnationnow.com/politics/hegseth-senate-vote-confirmation/
 - date: '2025-01-24'
   outlet: Al Jazeera

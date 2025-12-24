@@ -4,7 +4,7 @@ title: Senate Investigates Google Tax Avoidance, Exposes 2.4% Foreign Tax Rate
 description: The Senate Permanent Subcommittee on Investigations held hearings exposing Google's systematic tax avoidance, revealing the company paid only 2.4% tax rate on foreign profits by routing earnings through Ireland, Netherlands, and Bermuda. The investigation documented that Google avoided approximately $2 billion in taxes annually through the Double Irish Dutch Sandwich structure. Chairman Carl Levin stated the tax avoidance represented "a significant cause of the budget deficit and adds to the tax burden that ordinary Americans bear." Google Chairman Eric Schmidt defended the practices as "capitalism" and said he was "very proud" of the company's tax structure. The hearings failed to produce legislation closing loopholes, demonstrating tech industry's successful lobbying to maintain tax avoidance schemes despite public exposure of the harm to US tax base.
 actors:
 - Senate Permanent Subcommittee on Investigations
-- Carl Levin (Chairman)
+- Carl Levin
 - John McCain
 - Google
 - Eric Schmidt

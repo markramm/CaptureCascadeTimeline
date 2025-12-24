@@ -4,7 +4,7 @@ date: '2025-04-05'
 title: Legal Resistance Tech Collaboration Platform Launch
 importance: 7
 actors:
-- Electronic Frontier Foundation
+- Electronic Frontier Foundation (EFF)
 - Legal Tech Innovations
 - Digital Defense Fund
 tags:

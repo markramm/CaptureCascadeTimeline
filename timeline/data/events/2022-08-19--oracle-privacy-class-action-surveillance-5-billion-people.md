@@ -19,19 +19,19 @@ actors:
 sources:
 - title: Oracle's 'surveillance machine' faces privacy class action
   url: https://techcrunch.com/2022/08/22/oracle-us-privacy-class-action/
-  publisher: TechCrunch
   date: '2022-08-22'
   tier: 2
+  outlet: TechCrunch
 - title: Class action against Oracle's worldwide surveillance machine
   url: https://www.iccl.ie/news/class-action-against-oracle/
-  publisher: Irish Council for Civil Liberties
   date: '2022-08-22'
   tier: 2
+  outlet: Irish Council for Civil Liberties
 - title: Oracle facing class action over 'brokering' personal data
   url: https://www.theregister.com/2022/08/23/lawsuit_oracle_personal_data/
-  publisher: The Register
   date: '2022-08-23'
   tier: 2
+  outlet: The Register
 ---
 
 Three privacy rights advocates filed a class action lawsuit against Oracle Corporation on August 19, 2022, in the Northern District of California, alleging that the company operates a "worldwide surveillance machine" that has compiled detailed digital dossiers on approximately 5 billion internet users without their knowledge or consent. The 66-page complaint (Case No. 3:22-cv-04792) was filed by Dr. Johnny Ryan of the Irish Council for Civil Liberties, Mike Katz-Lacabe of the Center for Human Rights and Privacy, and Professor Jennifer Golbeck of the University of Maryland's College of Information Studies.

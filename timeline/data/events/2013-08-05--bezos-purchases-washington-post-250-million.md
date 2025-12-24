@@ -4,30 +4,30 @@ date: 2013-08-05
 title: Jeff Bezos Purchases Washington Post for $250 Million
 importance: 9
 tags:
-  - media-capture
-  - billionaire-control
-  - corporate-power
-  - surveillance-capitalism
+- media-capture
+- billionaire-control
+- corporate-power
+- surveillance-capitalism
 actors:
-  - Jeff Bezos
-  - Donald Graham
-  - Washington Post Company
+- Jeff Bezos
+- Donald Graham
+- Washington Post Company
 sources:
-  - url: https://abcnews.go.com/Business/washington-post-newspaper-sold-amazon-ceo-jeffrey-bezos/story?id=19875877
-    title: Amazon CEO, Founder Buys The Washington Post Newspaper for $250 Million
-    publisher: ABC News
-    date: 2013-08-05
-    tier: 1
-  - url: https://money.cnn.com/2013/08/05/news/companies/washington-post-bezos/index.html
-    title: Amazon's Bezos buys Washington Post for $250 million
-    publisher: CNN Money
-    date: 2013-08-05
-    tier: 2
-  - url: https://business.time.com/2013/08/05/amazon-billionaire-jeff-bezos-buys-washington-post-for-250-million/
-    title: Amazon Billionaire Jeff Bezos to Buy Washington Post for $250 Million
-    publisher: TIME
-    date: 2013-08-05
-    tier: 1
+- url: https://abcnews.go.com/Business/washington-post-newspaper-sold-amazon-ceo-jeffrey-bezos/story?id=19875877
+  title: Amazon CEO, Founder Buys The Washington Post Newspaper for $250 Million
+  date: 2013-08-05
+  tier: 1
+  outlet: ABC News
+- url: https://money.cnn.com/2013/08/05/news/companies/washington-post-bezos/index.html
+  title: Amazon's Bezos buys Washington Post for $250 million
+  date: 2013-08-05
+  tier: 2
+  outlet: CNN Money
+- url: https://business.time.com/2013/08/05/amazon-billionaire-jeff-bezos-buys-washington-post-for-250-million/
+  title: Amazon Billionaire Jeff Bezos to Buy Washington Post for $250 Million
+  date: 2013-08-05
+  tier: 1
+  outlet: TIME
 ---
 
 Amazon founder Jeff Bezos personally purchased The Washington Post and its affiliated publications for $250 million, ending the Graham family's four-generation stewardship of one of America's most influential newspapers. The sale marked a watershed moment in billionaire media capture, placing control of a major democratic institution in the hands of one of the world's wealthiest individuals.

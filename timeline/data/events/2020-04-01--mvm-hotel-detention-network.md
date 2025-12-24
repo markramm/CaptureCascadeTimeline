@@ -2,12 +2,11 @@
 id: 2020-04-01--mvm-hotel-detention-network
 date: '2020-04-01'
 importance: 9
-title: MVM Inc operates shadow detention network using hotels and unmarked buildings
-  for children
+title: MVM Inc operates shadow detention network using hotels and unmarked buildings for children
 location: McAllen TX, El Paso TX, Phoenix AZ, Chicago IL, Seattle WA
 actors:
 - MVM Inc.
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Hampton Inn & Suites
 - Sonesta Hotels
 - Department of Homeland Security
@@ -21,8 +20,7 @@ tags:
 capture_lanes:
 - Corporate Capture & Regulatory Breakdown
 sources:
-- title: Shadow Immigration System - Migrant Children Detained In Hotels By Private
-    Contractors
+- title: Shadow Immigration System - Migrant Children Detained In Hotels By Private Contractors
   url: https://www.npr.org/2020/08/20/904027735/shadow-immigration-system-migrant-children-detained-in-hotels-by-private-contrac
   outlet: NPR
   date: '2020-08-20'
@@ -38,12 +36,7 @@ sources:
   url: https://en.wikipedia.org/wiki/MVM,_Inc.
   outlet: Wikipedia
   date: '2024-01-01'
-notes: MVM created a parallel detention system outside standard oversight, using commercial
-  hotels as de facto jails for unaccompanied minors. In 2018, MVM used a Phoenix office
-  building for three weeks despite lacking proper zoning or childcare licenses. Attorneys
-  later filed suit against MVM for enforced disappearance, torture, and child abduction
-  related to family separations. The use of hotels allowed ICE to bypass standard
-  detention protocols and congressional oversight mechanisms.
+notes: MVM created a parallel detention system outside standard oversight, using commercial hotels as de facto jails for unaccompanied minors. In 2018, MVM used a Phoenix office building for three weeks despite lacking proper zoning or childcare licenses. Attorneys later filed suit against MVM for enforced disappearance, torture, and child abduction related to family separations. The use of hotels allowed ICE to bypass standard detention protocols and congressional oversight mechanisms.
 status: confirmed
 ---
 

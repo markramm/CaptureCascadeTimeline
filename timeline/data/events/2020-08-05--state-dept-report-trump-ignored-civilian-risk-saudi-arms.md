@@ -14,19 +14,19 @@ tags:
 sources:
 - url: https://www.nbcnews.com/politics/politics-news/trump-admin-failed-assess-risk-civilians-saudi-arms-deal-government-n1236457
   title: Trump admin ignored risk to civilians in Saudi arms deal
-  publisher: NBC News
   date: '2020-08-05'
   tier: 2
+  outlet: NBC News
 - url: https://foreignpolicy.com/2020/08/11/trump-gulf-pompeo-arms-sales-saudi-arabia-civilian-casualties-yemen-state-department/
   title: Pompeo's Arms Sales to Saudi Arabia Were Legal—but Heightened Risks of Civilian Casualties in Yemen
-  publisher: Foreign Policy
   date: '2020-08-11'
   tier: 2
+  outlet: Foreign Policy
 - url: https://www.middleeasteye.net/news/pompeo-ordered-officials-reverse-engineer-justification-8bn-emergency-saudi-arms-sale-report
   title: Pompeo ordered officials to reverse-engineer a reason for Saudi arms sale
-  publisher: Middle East Eye
   date: '2020-05-21'
   tier: 2
+  outlet: Middle East Eye
 actors:
 - Donald Trump
 - Mike Pompeo

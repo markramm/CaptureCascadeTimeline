@@ -24,24 +24,24 @@ actors:
 sources:
 - url: https://home.treasury.gov/data/troubled-asset-relief-program
   title: Troubled Asset Relief Program (TARP)
-  publisher: U.S. Department of the Treasury
   date: '2008-10-03'
   tier: 1
+  outlet: U.S. Department of the Treasury
 - url: https://www.history.com/articles/troubled-asset-relief-program
   title: Troubled Asset Relief Program
-  publisher: History
   date: '2008'
   tier: 2
+  outlet: History
 - url: https://www.gao.gov/products/gao-24-107033
   title: Troubled Asset Relief Program - Lifetime Cost
-  publisher: U.S. Government Accountability Office
   date: '2024'
   tier: 1
+  outlet: U.S. Government Accountability Office
 - url: https://www.propublica.org/article/the-bailout-was-11-years-ago-were-still-tracking-every-penny
   title: The Bailout Was 11 Years Ago. We're Still Tracking Every Penny
-  publisher: ProPublica
   date: '2019'
   tier: 1
+  outlet: ProPublica
 status: confirmed
 ---
 

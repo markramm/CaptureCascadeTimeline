@@ -4,33 +4,33 @@ date: 2020-01-31
 title: Senate Votes 51-49 to Block Witnesses in Impeachment Trial, Ensuring Trump Acquittal
 importance: 10
 tags:
-  - First Impeachment
-  - Senate Trial
-  - Cover-up
-  - Republican Complicity
-  - Ukraine
+- first impeachment
+- senate trial
+- cover-up
+- republican complicity
+- ukraine
 actors:
-  - Mitch McConnell
-  - Mitt Romney
-  - Susan Collins
-  - Senate Republicans
-  - Donald Trump
+- Mitch McConnell
+- Mitt Romney
+- Susan Collins
+- Senate Republicans
+- Donald Trump
 sources:
-  - url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00033.htm
-    title: "Senate Vote 33 - Motion to Call Witnesses and Documents"
-    publisher: U.S. Senate
-    date: 2020-01-31
-    tier: 1
-  - url: https://www.c-span.org/video/?468828-1/senate-votes-5149-witnesses-president-trump-impeachment-trial
-    title: Senate Votes 51-49 Against Witnesses in President Trump Impeachment Trial
-    publisher: C-SPAN
-    date: 2020-01-31
-    tier: 1
-  - url: https://www.npr.org/2020/01/31/801432093/senate-blocks-witnesses-and-documents-in-impeachment-trial-clearing-path-to-acqu
-    title: Senate Blocks Witnesses And Documents In Impeachment Trial, Clearing Path To Acquittal
-    publisher: NPR
-    date: 2020-01-31
-    tier: 1
+- url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00033.htm
+  title: Senate Vote 33 - Motion to Call Witnesses and Documents
+  date: 2020-01-31
+  tier: 1
+  outlet: U.S. Senate
+- url: https://www.c-span.org/video/?468828-1/senate-votes-5149-witnesses-president-trump-impeachment-trial
+  title: Senate Votes 51-49 Against Witnesses in President Trump Impeachment Trial
+  date: 2020-01-31
+  tier: 1
+  outlet: C-SPAN
+- url: https://www.npr.org/2020/01/31/801432093/senate-blocks-witnesses-and-documents-in-impeachment-trial-clearing-path-to-acqu
+  title: Senate Blocks Witnesses And Documents In Impeachment Trial, Clearing Path To Acquittal
+  date: 2020-01-31
+  tier: 1
+  outlet: NPR
 ---
 
 The Senate voted 51-49 on January 31, 2020 to block witness testimony and document production in President Trump's impeachment trial, making it the first Senate impeachment trial in American history conducted without witnesses or new evidence. Only two Republicans—Mitt Romney of Utah and Susan Collins of Maine—broke ranks to vote with all 47 Democrats for witnesses, falling short of the simple majority needed. The vote came just days after revelations from John Bolton's book manuscript confirming Trump tied Ukraine aid to Biden investigations, making the decision to proceed without hearing from Bolton a transparent cover-up that prioritized partisan loyalty over constitutional duty.

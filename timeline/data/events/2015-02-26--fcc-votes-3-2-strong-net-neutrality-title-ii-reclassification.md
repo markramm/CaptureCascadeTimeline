@@ -5,7 +5,7 @@ title: FCC Votes 3-2 for Strong Net Neutrality Protections Through Title II Recl
 importance: 9
 actors:
 - Tom Wheeler
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Ajit Pai
 - Michael O'Rielly
 - Mignon Clyburn
@@ -20,17 +20,17 @@ tags:
 - regulatory-capture
 status: confirmed
 sources:
-- title: 'FCC Approves Net Neutrality Rules For Open Internet'
+- title: FCC Approves Net Neutrality Rules For Open Internet
   url: https://www.npr.org/sections/thetwo-way/2015/02/26/389259382/net-neutrality-up-for-vote-today-by-fcc-board
   outlet: NPR
   date: '2015-02-26'
   tier: 1
-- title: 'FCC Enacts Title II Net Neutrality Rules With Partisan Vote'
+- title: FCC Enacts Title II Net Neutrality Rules With Partisan Vote
   url: https://www.usnews.com/news/articles/2015/02/26/fcc-enacts-title-ii-net-neutrality-rules-with-partisan-vote
   outlet: U.S. News
   date: '2015-02-26'
   tier: 2
-- title: 'FCC Votes to Adopt Tom Wheeler Net Neutrality Rules'
+- title: FCC Votes to Adopt Tom Wheeler Net Neutrality Rules
   url: https://www.usnews.com/opinion/articles/2015/02/26/fcc-votes-to-adopt-tom-wheelers-net-neutrality-rules
   outlet: U.S. News
   date: '2015-02-26'

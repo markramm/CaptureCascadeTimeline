@@ -1,38 +1,38 @@
 ---
 id: 2002-12-19--central-park-five-exonerated-dna-evidence
 date: 2002-12-19
-title: "Central Park Five Exonerated: DNA Proves Innocence After 13 Years"
+title: 'Central Park Five Exonerated: DNA Proves Innocence After 13 Years'
 importance: 9
 tags:
-  - Central Park Five
-  - Criminal Justice
-  - Wrongful Conviction
-  - DNA Evidence
-  - Racism
+- central park five
+- criminal justice
+- wrongful conviction
+- dna evidence
+- racism
 actors:
-  - Yusef Salaam
-  - Korey Wise
-  - Antron McCray
-  - Kevin Richardson
-  - Raymond Santana
-  - Matias Reyes
-  - Donald Trump
+- Yusef Salaam
+- Korey Wise
+- Antron McCray
+- Kevin Richardson
+- Raymond Santana
+- Matias Reyes
+- Donald Trump
 sources:
-  - url: https://www.pbs.org/kenburns/the-central-park-five/conviction-and-exoneration
-    title: "Conviction and Exoneration - The Central Park Five"
-    publisher: PBS
-    date: 2012-04-16
-    tier: 1
-  - url: https://innocenceproject.org/cases/korey-wise/
-    title: "Korey Wise - Innocence Project"
-    publisher: Innocence Project
-    date: 2002-12-19
-    tier: 1
-  - url: https://www.goodhousekeeping.com/entertainment/a28038525/matias-reyes-central-park-five-jogger/
-    title: "Matias Reyes's Confession Exonerated the Central Park Five"
-    publisher: Good Housekeeping
-    date: 2019-06-18
-    tier: 1
+- url: https://www.pbs.org/kenburns/the-central-park-five/conviction-and-exoneration
+  title: Conviction and Exoneration - The Central Park Five
+  date: 2012-04-16
+  tier: 1
+  outlet: PBS
+- url: https://innocenceproject.org/cases/korey-wise/
+  title: Korey Wise - Innocence Project
+  date: 2002-12-19
+  tier: 1
+  outlet: Innocence Project
+- url: https://www.goodhousekeeping.com/entertainment/a28038525/matias-reyes-central-park-five-jogger/
+  title: Matias Reyes's Confession Exonerated the Central Park Five
+  date: 2019-06-18
+  tier: 1
+  outlet: Good Housekeeping
 ---
 
 Justice Charles J. Tejada of the New York State Supreme Court vacated the convictions of all five men wrongfully imprisoned for the 1989 Central Park jogger case, ending one of the most notorious miscarriages of justice in American legal history. The exoneration came after Matias Reyes, a convicted serial rapist and murderer serving life in prison, confessed to committing the crime alone—a confession fully corroborated by DNA evidence that definitively excluded all five original defendants.

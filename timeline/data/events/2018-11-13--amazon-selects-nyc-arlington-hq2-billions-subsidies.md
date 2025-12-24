@@ -4,32 +4,32 @@ date: 2018-11-13
 title: Amazon Selects NYC and Arlington for HQ2—Extracting at Least $4.6 Billion in Subsidies
 importance: 9
 tags:
-  - corporate-welfare
-  - economic-extraction
-  - billionaire-impunity
-  - wealth-extraction
+- corporate-welfare
+- economic-extraction
+- billionaire-impunity
+- wealth-extraction
 actors:
-  - Amazon
-  - Jeff Bezos
-  - Andrew Cuomo
-  - Bill de Blasio
-  - Good Jobs First
+- Amazon
+- Jeff Bezos
+- Andrew Cuomo
+- Bill de Blasio
+- Good Jobs First
 sources:
-  - url: https://theintercept.com/2018/11/15/amazon-hq2-long-island-city-virginia-subsidies/
-    title: Amazon HQ2 Will Cost Taxpayers at Least $4.6 Billion, More Than Twice What the Company Claimed
-    publisher: The Intercept
-    date: 2018-11-15
-    tier: 1
-  - url: https://edition.cnn.com/2018/11/13/business/amazon-hq2-subsidies
-    title: "Helipads and tax breaks: The perks Amazon is getting from New York, Virginia deals"
-    publisher: CNN
-    date: 2018-11-13
-    tier: 2
-  - url: https://goodjobsfirst.org/amazon-hq2-hq3-subsidy-awards-costly-not-yet-fully-accounted-for/
-    title: Amazon HQ2, HQ3 Subsidy Awards Costly, Not Yet Fully Accounted For
-    publisher: Good Jobs First
-    date: 2018-11-15
-    tier: 1
+- url: https://theintercept.com/2018/11/15/amazon-hq2-long-island-city-virginia-subsidies/
+  title: Amazon HQ2 Will Cost Taxpayers at Least $4.6 Billion, More Than Twice What the Company Claimed
+  date: 2018-11-15
+  tier: 1
+  outlet: The Intercept
+- url: https://edition.cnn.com/2018/11/13/business/amazon-hq2-subsidies
+  title: 'Helipads and tax breaks: The perks Amazon is getting from New York, Virginia deals'
+  date: 2018-11-13
+  tier: 2
+  outlet: CNN
+- url: https://goodjobsfirst.org/amazon-hq2-hq3-subsidy-awards-costly-not-yet-fully-accounted-for/
+  title: Amazon HQ2, HQ3 Subsidy Awards Costly, Not Yet Fully Accounted For
+  date: 2018-11-15
+  tier: 1
+  outlet: Good Jobs First
 ---
 
 Amazon announced on November 13, 2018 that it would split its HQ2 project between Long Island City in Queens, New York and Crystal City in Arlington, Virginia (rebranded as "National Landing"). While Amazon claimed the combined subsidies totaled approximately $2.8 billion, analysis by Good Jobs First—the nation's leading corporate subsidy tracker—found the actual cost to taxpayers would be at least $4.6 billion, more than twice Amazon's figure. The deal transferred billions in public wealth to the world's richest person while demonstrating how corporations manipulate subsidy calculations to obscure the true cost of corporate welfare.

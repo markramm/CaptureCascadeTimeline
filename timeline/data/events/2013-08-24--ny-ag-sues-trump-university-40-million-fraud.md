@@ -4,32 +4,32 @@ date: 2013-08-24
 title: New York Attorney General Sues Trump University for $40 Million, Calls It "Straight Up Fraud"
 importance: 9
 tags:
-  - Trump University
-  - Fraud
-  - Consumer Protection
-  - New York Attorney General
-  - Eric Schneiderman
-  - Civil Lawsuit
+- trump university
+- fraud
+- consumer protection
+- new york attorney general
+- eric schneiderman
+- civil lawsuit
 actors:
-  - Eric Schneiderman
-  - Donald Trump
-  - Michael Sexton
+- Eric Schneiderman
+- Donald Trump
+- Michael Sexton
 sources:
-  - url: https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding
-    title: A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million
-    publisher: New York Attorney General
-    date: 2013-08-24
-    tier: 1
-  - url: https://www.cnn.com/2016/06/02/politics/eric-schneiderman-attorney-general-trump-university-fraud/index.html
-    title: New York AG Eric Schneiderman says 'this is straight up fraud'
-    publisher: CNN
-    date: 2016-06-02
-    tier: 1
-  - url: https://www.nbcnews.com/news/other/ny-attorney-general-sues-donald-trump-says-trump-university-fraud-f8C10995988
-    title: NY Attorney General sues Donald Trump, says Trump University a fraud
-    publisher: NBC News
-    date: 2013-08-24
-    tier: 1
+- url: https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding
+  title: A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million
+  date: 2013-08-24
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.cnn.com/2016/06/02/politics/eric-schneiderman-attorney-general-trump-university-fraud/index.html
+  title: New York AG Eric Schneiderman says 'this is straight up fraud'
+  date: 2016-06-02
+  tier: 1
+  outlet: CNN
+- url: https://www.nbcnews.com/news/other/ny-attorney-general-sues-donald-trump-says-trump-university-fraud-f8C10995988
+  title: NY Attorney General sues Donald Trump, says Trump University a fraud
+  date: 2013-08-24
+  tier: 1
+  outlet: NBC News
 ---
 
 New York Attorney General Eric Schneiderman filed a $40 million civil lawsuit against Donald Trump, The Trump Entrepreneur Initiative (formerly Trump University LLC), and Michael Sexton on August 24, 2013, alleging "persistent fraudulent, illegal and deceptive conduct." Schneiderman characterized the case as "straight up fraud," alleging that more than 5,000 consumers nationwide were defrauded of over $40 million between 2005 and 2011. The lawsuit documented that Trump University operated as an unlicensed educational institute that promised to teach Trump's personal real estate investing techniques but instead misled consumers into paying for expensive courses that failed to deliver on promises. The investigation revealed that Trump did not hand-pick even a single instructor at the seminars and had little or no role in developing the Trump University curriculum or seminar content, contradicting core marketing promises made to students.

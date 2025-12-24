@@ -15,20 +15,20 @@ actors:
 - Larry Klayman
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2013/12/16/251645205/federal-judge-rules-nsa-bulk-phone-record-collection-unconstitutional
-  title: "Federal Judge Rules NSA Bulk Phone Record Collection Unconstitutional"
-  publisher: NPR
+  title: Federal Judge Rules NSA Bulk Phone Record Collection Unconstitutional
   date: '2013-12-16'
   tier: 1
+  outlet: NPR
 - url: https://www.washingtonpost.com/national/judge-nsas-collecting-of-phone-records-is-likely-unconstitutional/2013/12/16/6e098eda-6688-11e3-a0b9-249bbb34602c_story.html
-  title: "Judge: NSA's collecting of phone records is probably unconstitutional"
-  publisher: The Washington Post
+  title: 'Judge: NSA''s collecting of phone records is probably unconstitutional'
   date: '2013-12-16'
   tier: 1
+  outlet: The Washington Post
 - url: https://edition.cnn.com/2013/12/16/justice/nsa-surveillance-court-ruling
-  title: "Judge: NSA domestic phone data-mining unconstitutional"
-  publisher: CNN
+  title: 'Judge: NSA domestic phone data-mining unconstitutional'
   date: '2013-12-16'
   tier: 2
+  outlet: CNN
 status: confirmed
 ---
 

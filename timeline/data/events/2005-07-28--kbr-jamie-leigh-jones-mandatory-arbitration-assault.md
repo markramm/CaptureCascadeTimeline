@@ -21,18 +21,18 @@ actors:
 sources:
 - url: https://abcnews.go.com/Blotter/story?id=3977702&page=1
   title: Victim - Gang-Rape Cover-Up by U.S., Halliburton/KBR
-  publisher: ABC News
   date: '2007-12-10'
   tier: 1
+  outlet: ABC News
 - url: https://en.wikipedia.org/wiki/Jamie_Leigh_Jones
   title: Jamie Leigh Jones
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 - url: https://abcnews.go.com/Blotter/halliburton-employee-jamie-leigh-jones-testifies-senate-rape/story?id=8775641
   title: Naked, Sore, Bruised and Bleeding - Alleged U.S. Contractor Rape Victim Fights for Day in Court
-  publisher: ABC News
   date: '2009-10-07'
   tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

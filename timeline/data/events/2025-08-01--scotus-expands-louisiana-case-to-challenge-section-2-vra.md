@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--scotus-expands-louisiana-case-to-challenge-section-2-vra
 date: '2025-08-01'
-title: Supreme Court Expands Louisiana Redistricting Case to Challenge Section 2 of
-  Voting Rights Act
+title: Supreme Court Expands Louisiana Redistricting Case to Challenge Section 2 of Voting Rights Act
 importance: 10
 actors:
 - Supreme Court
@@ -13,43 +12,41 @@ actors:
 - ACLU
 - Civil Rights Division
 tags:
-- Voting-Rights-Act
-- Supreme-Court
-- Racial-Justice
-- Louisiana
-- Redistricting
-- Civil-Rights-Rollback
+- voting-rights-act
+- supreme-court
+- racial-justice
+- louisiana
+- redistricting
+- civil-rights-rollback
 - vote-dilution
 - judiciary
 - constitutional-law
 sources:
 - url: https://www.npr.org/2025/10/15/nx-s1-5567801/supreme-court-louisiana-redistricting-voting-rights-act
-  title: A Supreme Court ruling on voting rights could boost Republicans' redistricting
-    efforts
-  publisher: NPR
+  title: A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts
   date: '2025-10-15'
   tier: 1
+  outlet: NPR
 - url: https://www.democracydocket.com/news-alerts/once-the-voting-rights-acts-champion-doj-now-wants-scotus-to-gut-it/
-  title: Trump Department of Justice Tells SCOTUS Key Plank of Voting Rights Act is
-    Unconstitutional
-  publisher: Democracy Docket
+  title: Trump Department of Justice Tells SCOTUS Key Plank of Voting Rights Act is Unconstitutional
   date: '2025-08-27'
   tier: 2
+  outlet: Democracy Docket
 - url: https://www.brennancenter.org/our-work/research-reports/louisiana-v-callais
   title: Louisiana v. Callais
-  publisher: Brennan Center for Justice
   date: '2025-10-15'
   tier: 1
+  outlet: Brennan Center for Justice
 - url: https://www.naacpldf.org/case-issue/louisiana-v-callais/
   title: Louisiana v. Callais
-  publisher: NAACP Legal Defense Fund
   date: '2025-08-01'
   tier: 1
+  outlet: NAACP Legal Defense Fund
 - url: https://www.justice.gov/crt/section-2-voting-rights-act
   title: Section 2 Of The Voting Rights Act
-  publisher: Department of Justice - Civil Rights Division
   date: '2025-01-01'
   tier: 1
+  outlet: Department of Justice - Civil Rights Division
 ---
 
 The Supreme Court took the extraordinary step of expanding the legal questions in Louisiana v. Callais (Nos. 24-109, 24-110), ordering supplemental briefs on whether creating majority-minority districts to remedy Voting Rights Act violations violates the Fourteenth or Fifteenth Amendments. The Court's order signals potential willingness to strike down or severely limit Section 2 of the Voting Rights Act, which since 1982 has prohibited voting practices that result in racial discrimination, even without proof of intentional bias.

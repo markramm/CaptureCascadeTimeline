@@ -9,14 +9,14 @@ tags:
 - authoritarianism
 - abuse-of-power
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Trump Administration
 sources:
 - url: https://popular.info/p/ice-weapons-spending-militarization
   title: ICE Weapons Spending Surges 700 Percent
-  publisher: Popular Information
   date: '2025-10-20'
   tier: 2
+  outlet: Popular Information
 status: confirmed
 ---
 

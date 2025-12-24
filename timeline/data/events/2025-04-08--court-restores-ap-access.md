@@ -23,13 +23,10 @@ citations:
 - https://www.ap.org/media-center/ap-in-the-news/2025/ap-wins-reinstatement-to-white-house-events-after-judge-rules-government-cant-bar-its-journalists
 - https://www.theguardian.com/us-news/2025/apr/08/judge-orders-white-house-restore-associated-press-access
 - https://www.washingtonpost.com/media/2025/04/08/associated-press-white-house-ban-lifted
-notes: This ruling preceded the April 15 press pool restructuring where the White
-  House eliminated the permanent wire service position, effectively circumventing
-  the court's order to restore AP access. Part of broader pattern of press suppression.
+notes: This ruling preceded the April 15 press pool restructuring where the White House eliminated the permanent wire service position, effectively circumventing the court's order to restore AP access. Part of broader pattern of press suppression.
 status: confirmed
 sources:
-- title: AP wins reinstatement to White House events after judge rules government
-    can't bar its journalists
+- title: AP wins reinstatement to White House events after judge rules government can't bar its journalists
   url: https://www.ap.org/media-center/ap-in-the-news/2025/ap-wins-reinstatement-to-white-house-events-after-judge-rules-government-cant-bar-its-journalists
   outlet: Associated Press
   date: '2025-04-08'
@@ -39,7 +36,7 @@ sources:
   date: '2025-04-08'
 - title: Associated Press White House ban lifted by judge
   url: https://www.washingtonpost.com/media/2025/04/08/associated-press-white-house-ban-lifted
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-04-08'
 ---
 

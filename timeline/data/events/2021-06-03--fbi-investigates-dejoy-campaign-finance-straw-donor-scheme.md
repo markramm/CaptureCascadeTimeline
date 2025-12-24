@@ -4,38 +4,38 @@ date: 2021-06-03
 title: FBI Investigates DeJoy Over Alleged Straw Donor Campaign Finance Scheme
 importance: 8
 tags:
-  - Campaign Finance
-  - FBI Investigation
-  - DeJoy
-  - USPS
-  - Political Corruption
-  - Straw Donors
+- campaign finance
+- fbi investigation
+- dejoy
+- usps
+- political corruption
+- straw donors
 actors:
-  - Louis DeJoy
-  - FBI
-  - Carolyn Maloney
-  - John Sarbanes
+- Louis DeJoy
+- FBI
+- Carolyn Maloney
+- John Sarbanes
 sources:
-  - url: https://www.npr.org/2021/06/04/1003172114/fbi-investigates-postmaster-general-louis-dejoy-over-campaign-fundraising
-    title: FBI Investigates Postmaster General Louis DeJoy Over Campaign Fundraising
-    publisher: NPR
-    date: 2021-06-04
-    tier: 1
-  - url: https://www.axios.com/2021/06/03/louis-dejoy-fbi-investigation-campaign
-    title: FBI investigating Postmaster General DeJoy over campaign fundraising activity
-    publisher: Axios
-    date: 2021-06-03
-    tier: 1
-  - url: https://maloney.house.gov/media-center/in-the-news/house-oversight-committee-will-investigate-louis-dejoy-following-claims-he
-    title: House Oversight Committee will investigate Louis DeJoy following claims he pressured employees to make campaign donations
-    publisher: Rep. Carolyn Maloney
-    date: 2020-09-08
-    tier: 1
-  - url: https://sarbanes.house.gov/media-center/press-releases/sarbanes-examines-allegations-postmaster-general-dejoy-engaged-illegal
-    title: Sarbanes Examines Allegations That Postmaster General DeJoy Engaged in Illegal Campaign Finance Scheme
-    publisher: Rep. John Sarbanes
-    date: 2021-02-24
-    tier: 1
+- url: https://www.npr.org/2021/06/04/1003172114/fbi-investigates-postmaster-general-louis-dejoy-over-campaign-fundraising
+  title: FBI Investigates Postmaster General Louis DeJoy Over Campaign Fundraising
+  date: 2021-06-04
+  tier: 1
+  outlet: NPR
+- url: https://www.axios.com/2021/06/03/louis-dejoy-fbi-investigation-campaign
+  title: FBI investigating Postmaster General DeJoy over campaign fundraising activity
+  date: 2021-06-03
+  tier: 1
+  outlet: Axios
+- url: https://maloney.house.gov/media-center/in-the-news/house-oversight-committee-will-investigate-louis-dejoy-following-claims-he
+  title: House Oversight Committee will investigate Louis DeJoy following claims he pressured employees to make campaign donations
+  date: 2020-09-08
+  tier: 1
+  outlet: Rep. Carolyn Maloney
+- url: https://sarbanes.house.gov/media-center/press-releases/sarbanes-examines-allegations-postmaster-general-dejoy-engaged-illegal
+  title: Sarbanes Examines Allegations That Postmaster General DeJoy Engaged in Illegal Campaign Finance Scheme
+  date: 2021-02-24
+  tier: 1
+  outlet: Rep. John Sarbanes
 ---
 
 The FBI launched an investigation into Postmaster General Louis DeJoy over allegations that he orchestrated an illegal straw donor campaign finance scheme at his former company, New Breed Logistics. Former employees told the Washington Post that DeJoy pressured them to make political donations to Republican candidates and campaigns, which he would then reimburse through inflated bonuses. Such arrangements violate federal and state campaign finance laws designed to prevent wealthy donors from circumventing contribution limits by funneling money through intermediaries.

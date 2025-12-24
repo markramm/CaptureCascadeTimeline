@@ -17,19 +17,19 @@ actors:
 sources:
 - url: https://www.npr.org/2007/03/12/7859069/halliburton-to-move-headquarters-to-dubai
   title: Halliburton to Move Headquarters to Dubai
-  publisher: NPR
   date: '2007-03-12'
   tier: 1
+  outlet: NPR
 - url: https://abcnews.go.com/WNT/Business/story?amp=&id=2942429&page=1
   title: Halliburton Moves Its Headquarters Abroad
-  publisher: ABC News
   date: '2007-03-12'
   tier: 1
+  outlet: ABC News
 - url: https://www.cnbc.com/2007/03/12/halliburton-to-move-headquarters-to-dubai-from-houston.html
   title: Halliburton to Move Headquarters to Dubai from Houston
-  publisher: CNBC
   date: '2007-03-12'
   tier: 2
+  outlet: CNBC
 status: confirmed
 ---
 

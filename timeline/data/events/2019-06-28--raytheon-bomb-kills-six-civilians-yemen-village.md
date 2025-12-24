@@ -13,19 +13,19 @@ tags:
 sources:
 - url: https://www.amnesty.org/en/latest/press-release/2019/09/yemen-us-made-bomb-used-in-deadly-air-strike-on-civilians/
   title: Yemen - US-made bomb used in deadly air strike on civilians
-  publisher: Amnesty International
   date: '2019-09-05'
   tier: 1
+  outlet: Amnesty International
 - url: https://theferret.scot/raytheon-paveway-missiles-war-crimes-yemen/
   title: Raytheon smart bombs linked to more alleged war crimes in Yemen
-  publisher: The Ferret
   date: '2019-09-05'
   tier: 2
+  outlet: The Ferret
 - url: https://investigate.afsc.org/company/raytheon
   title: Raytheon Technologies Corp
-  publisher: American Friends Service Committee
   date: '2020-06-01'
   tier: 2
+  outlet: American Friends Service Committee
 actors:
 - Raytheon
 - Saudi Arabia

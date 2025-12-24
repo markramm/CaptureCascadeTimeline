@@ -1,8 +1,7 @@
 ---
 id: 2025-11-05--faa-air-traffic-reduction-shutdown-crisis
 date: '2025-11-05'
-title: FAA Reduces Air Traffic by 10% at Major Airports as Unpaid Controllers Face
-  Staffing Crisis During 40-Day Shutdown
+title: FAA Reduces Air Traffic by 10% at Major Airports as Unpaid Controllers Face Staffing Crisis During 40-Day Shutdown
 importance: 9
 tags:
 - government-shutdown
@@ -15,19 +14,18 @@ actors:
 - Bryan Bedford
 - Sean Duffy
 sources:
-- title: Air traffic controllers warn of 'tipping point' as U.S. government shutdown
-    drags on
+- title: Air traffic controllers warn of 'tipping point' as U.S. government shutdown drags on
   url: https://www.npr.org/2025/11/05/nx-s1-5598420/air-traffic-controllers-government-shutdown
-  publisher: NPR
   tier: 1
+  outlet: NPR
 - title: FAA will reduce air traffic by 10% at many airports to maintain safety
   url: https://www.npr.org/2025/11/05/nx-s1-5600082/faa-airport-traffic-reductions-shutdown
-  publisher: NPR
   tier: 1
+  outlet: NPR
 - title: Air traffic controllers feeling the pinch of the government shutdown
   url: https://www.npr.org/2025/11/04/nx-s1-5596204/air-traffic-controllers-feeling-the-pinch-of-the-government-shutdown
-  publisher: NPR
   tier: 1
+  outlet: NPR
 ---
 
 The Federal Aviation Administration announced it would reduce air traffic by up to 10% at 40 of the nation's busiest airports as the government shutdown—then in its 40th day—created a staffing crisis among air traffic controllers working without pay. FAA Administrator Bryan Bedford reported that 20% to 40% of controllers had stopped showing up for work at affected facilities, forcing the agency to implement flight reductions starting with 4% cuts on Friday, November 5, escalating to potential 10% reductions to maintain safety standards. The initial implementation contributed to over 4,500 flight cancellations and 18,000 delays over the weekend.

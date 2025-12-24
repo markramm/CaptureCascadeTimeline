@@ -1,8 +1,7 @@
 ---
 id: 2025-10-09--roger-ver-48-million-settlement-after-hiring-trump-fixers
 date: '2025-10-09'
-title: Crypto Investor 'Bitcoin Jesus' Reaches $48 Million Deal After Hiring Trump
-  Associates
+title: Crypto Investor 'Bitcoin Jesus' Reaches $48 Million Deal After Hiring Trump Associates
 importance: 8
 actors:
 - Roger Ver
@@ -13,9 +12,9 @@ actors:
 sources:
 - title: Crypto Investor Known as 'Bitcoin Jesus' Reaches Deal With Prosecutors
   url: https://www.nytimes.com/2025/10/09/technology/roger-ver-bitcoin-settlement.html
-  publisher: New York Times
   date: '2025-10-09'
   tier: 1
+  outlet: The New York Times
 tags:
 - systematic-corruption
 - crypto-corruption

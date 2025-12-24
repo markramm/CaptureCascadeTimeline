@@ -5,16 +5,15 @@ title: OMB Director Russ Vought Uses Shutdown to Execute Mass Federal Purges
 importance: 9
 actors:
 - Russ Vought
-- Office of Management and Budget
+- Office of Management and Budget (OMB)
 - Trump Administration
 - Congress
 sources:
-- title: 'Trump''s shutdown architect: Russ Vought''s plan to deconstruct the government
-    was years in the making'
+- title: 'Trump''s shutdown architect: Russ Vought''s plan to deconstruct the government was years in the making'
   url: https://www.cnn.com/2025/10/03/politics/russ-vought-shutdown-project-2025
-  publisher: CNN
   date: '2025-10-03'
   tier: 1
+  outlet: CNN
 tags:
 - institutional-capture
 - systematic-corruption

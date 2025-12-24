@@ -4,33 +4,33 @@ date: 2018-08-21
 title: Michael Cohen Pleads Guilty to Campaign Finance Violations, Implicates Trump as "Individual-1"
 importance: 9
 tags:
-  - Mueller Investigation
-  - Campaign Finance Violations
-  - Hush Money
-  - Michael Cohen
-  - Presidential Accountability
-  - Individual-1
+- mueller investigation
+- campaign finance violations
+- hush money
+- michael cohen
+- presidential accountability
+- individual-1
 actors:
-  - Michael Cohen
-  - Donald Trump
-  - Stormy Daniels
-  - Karen McDougal
+- Michael Cohen
+- Donald Trump
+- Stormy Daniels
+- Karen McDougal
 sources:
-  - url: https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax
-    title: Michael Cohen Pleads Guilty In Manhattan Federal Court To Eight Counts, Including Criminal Tax Evasion And Campaign Finance Violations
-    publisher: U.S. Department of Justice, Southern District of New York
-    date: 2018-08-21
-    tier: 1
-  - url: https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
-    title: Michael Cohen Sentenced To 3 Years In Prison
-    publisher: U.S. Department of Justice, Southern District of New York
-    date: 2018-12-12
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/how-michael-cohen-broke-campaign-finance-law
-    title: How Michael Cohen broke campaign finance law
-    publisher: PBS NewsHour
-    date: 2018-08-21
-    tier: 1
+- url: https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax
+  title: Michael Cohen Pleads Guilty In Manhattan Federal Court To Eight Counts, Including Criminal Tax Evasion And Campaign Finance Violations
+  date: 2018-08-21
+  tier: 1
+  outlet: U.S. Department of Justice, Southern District of New York
+- url: https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
+  title: Michael Cohen Sentenced To 3 Years In Prison
+  date: 2018-12-12
+  tier: 1
+  outlet: U.S. Department of Justice, Southern District of New York
+- url: https://www.pbs.org/newshour/politics/how-michael-cohen-broke-campaign-finance-law
+  title: How Michael Cohen broke campaign finance law
+  date: 2018-08-21
+  tier: 1
+  outlet: PBS NewsHour
 ---
 
 Michael Cohen, President Donald Trump's longtime personal attorney and fixer, pleaded guilty in Manhattan federal court to eight felony counts, including campaign finance violations that he stated were committed "in coordination with and at the direction of a candidate for federal office"—a clear reference to Trump. In his sworn allocution before U.S. District Judge William H. Pauley III, Cohen admitted to orchestrating illegal hush money payments to two women who alleged affairs with Trump, specifically to influence the outcome of the 2016 presidential election.

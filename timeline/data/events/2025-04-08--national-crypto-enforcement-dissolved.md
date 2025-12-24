@@ -6,7 +6,7 @@ title: DOJ dissolves National Cryptocurrency Enforcement Team under Trump direct
 location: Washington, DC
 actors:
 - Department of Justice
-- Todd Blanche (Deputy Attorney General)
+- Todd Blanche
 - National Cryptocurrency Enforcement Team (NCET)
 - Trump Administration
 - Computer Crime and Intellectual Property Section (CCIPS)
@@ -20,8 +20,7 @@ capture_lanes:
 - Corporate Capture & Regulatory Breakdown
 - Financial Corruption & Kleptocracy
 sources:
-- title: Justice Department scraps crypto unit as Trump further loosens oversight
-    of digital assets
+- title: Justice Department scraps crypto unit as Trump further loosens oversight of digital assets
   url: https://fortune.com/crypto/2025/04/08/doj-ncet-disbands-memo-todd-blanche-trump/
   outlet: Fortune Crypto
   date: '2025-04-08'
@@ -37,9 +36,7 @@ sources:
   url: https://www.pbs.org/newshour/politics/justice-department-will-disband-its-team-focused-on-cryptocurrency-crimes
   outlet: PBS News
   date: '2025-04-08'
-notes: NCET established 2021-2022 under Biden; Blanche memo states DOJ "not a digital
-  assets regulator" and condemns prior "regulation by prosecution" approach; also
-  disbanded Market Integrity and Major Frauds Unit crypto enforcement
+notes: NCET established 2021-2022 under Biden; Blanche memo states DOJ "not a digital assets regulator" and condemns prior "regulation by prosecution" approach; also disbanded Market Integrity and Major Frauds Unit crypto enforcement
 status: confirmed
 ---
 

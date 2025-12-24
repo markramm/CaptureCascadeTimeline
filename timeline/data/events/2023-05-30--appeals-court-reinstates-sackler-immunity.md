@@ -4,33 +4,33 @@ title: Second Circuit Reverses District Court, Reinstates Sackler Immunity Deal
 date: '2023-05-30'
 importance: 8
 actors:
-  - U.S. Court of Appeals for the Second Circuit
-  - Sackler Family
-  - Purdue Pharma
-  - U.S. Department of Justice
+- U.S. Court of Appeals for the Second Circuit
+- Sackler Family
+- Purdue Pharma
+- U.S. Department of Justice
 tags:
-  - opioid-crisis
-  - bankruptcy-law
-  - appeals-process
-  - accountability-failure
-  - judicial-disagreement
+- opioid-crisis
+- bankruptcy-law
+- appeals-process
+- accountability-failure
+- judicial-disagreement
 status: confirmed
 sources:
-  - title: A landmark appeals court ruling clears way for Purdue Pharma-Sackler bankruptcy deal
-    url: https://www.npr.org/2023/05/30/1178850879/sackler-family-purdue-pharma-immunity-lawsuits-oxycontin-opioid
-    publisher: NPR
-    date: '2023-05-30'
-    tier: 1
-  - title: Appeals court approves a deal to shield the Sackler family from opioid lawsuits
-    url: https://www.npr.org/2023/05/30/1178850879/sackler-family-purdue-pharma-immunity-lawsuits-oxycontin-opioid
-    publisher: NPR
-    date: '2023-05-30'
-    tier: 1
-  - title: Landmark Second Circuit decision affirms Purdue Plan, legality of nonconsensual third-party releases
-    url: https://www.davispolk.com/insights/client-update/landmark-second-circuit-decision-affirms-purdue-plan-legality-nonconsensual
-    publisher: Davis Polk
-    date: '2023-05-30'
-    tier: 2
+- title: A landmark appeals court ruling clears way for Purdue Pharma-Sackler bankruptcy deal
+  url: https://www.npr.org/2023/05/30/1178850879/sackler-family-purdue-pharma-immunity-lawsuits-oxycontin-opioid
+  date: '2023-05-30'
+  tier: 1
+  outlet: NPR
+- title: Appeals court approves a deal to shield the Sackler family from opioid lawsuits
+  url: https://www.npr.org/2023/05/30/1178850879/sackler-family-purdue-pharma-immunity-lawsuits-oxycontin-opioid
+  date: '2023-05-30'
+  tier: 1
+  outlet: NPR
+- title: Landmark Second Circuit decision affirms Purdue Plan, legality of nonconsensual third-party releases
+  url: https://www.davispolk.com/insights/client-update/landmark-second-circuit-decision-affirms-purdue-plan-legality-nonconsensual
+  date: '2023-05-30'
+  tier: 2
+  outlet: Davis Polk
 ---
 
 On May 30, 2023, the United States Court of Appeals for the Second Circuit reversed U.S. District Judge Colleen McMahon's December 2021 ruling, holding that bankruptcy courts do have authority to approve non-consensual third-party releases. The divided 2-1 decision reinstated the Purdue Pharma bankruptcy plan granting the Sackler family immunity from opioid-related lawsuits, clearing the path for the controversial settlement to proceed.

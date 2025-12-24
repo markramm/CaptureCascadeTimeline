@@ -31,7 +31,7 @@ sources:
   date: '2020-07-07'
 - title: 'B.C.C.I.: The Dirtiest Bank of All'
   url: https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/
-  outlet: TIME Magazine
+  outlet: TIME
   date: '1989-01-01'
 - title: 'Strategic Analysis: Pakistan''s Military Financing and Intelligence Networks'
   url: https://www.tandfonline.com/doi/abs/10.1080/09700161.2019.1625512

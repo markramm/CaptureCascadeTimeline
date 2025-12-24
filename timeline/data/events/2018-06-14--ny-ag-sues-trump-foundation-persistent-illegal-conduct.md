@@ -4,36 +4,36 @@ date: 2018-06-14
 title: New York AG Sues Trump Foundation for "Persistent Illegal Conduct" and Coordinating with Campaign
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - NY Attorney General
-  - Self-Dealing
-  - Campaign Finance
-  - Barbara Underwood
+- trump foundation
+- charity fraud
+- ny attorney general
+- self-dealing
+- campaign finance
+- barbara underwood
 actors:
-  - Barbara Underwood
-  - Donald Trump
-  - Donald Trump Jr
-  - Eric Trump
-  - Ivanka Trump
-  - Trump Foundation
+- Barbara Underwood
+- Donald Trump
+- Donald Trump Jr.
+- Eric Trump
+- Ivanka Trump
+- Trump Foundation
 status: confirmed
 sources:
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
-    title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
-    publisher: New York Attorney General
-    date: 2018-06-14
-    tier: 1
-  - url: https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=RvMG0E8YcUgRbdx3xJl_PLUS_A==&system=prod
-    title: New York v. Trump Foundation - Petition
-    publisher: New York State Supreme Court
-    date: 2018-06-14
-    tier: 1
-  - url: https://www.nytimes.com/2018/06/14/nyregion/trump-foundation-lawsuit-attorney-general.html
-    title: New York Attorney General Sues Trump and His Foundation
-    publisher: New York Times
-    date: 2018-06-14
-    tier: 1
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
+  title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
+  date: 2018-06-14
+  tier: 1
+  outlet: New York Attorney General
+- url: https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=RvMG0E8YcUgRbdx3xJl_PLUS_A==&system=prod
+  title: New York v. Trump Foundation - Petition
+  date: 2018-06-14
+  tier: 1
+  outlet: New York State Supreme Court
+- url: https://www.nytimes.com/2018/06/14/nyregion/trump-foundation-lawsuit-attorney-general.html
+  title: New York Attorney General Sues Trump and His Foundation
+  date: 2018-06-14
+  tier: 1
+  outlet: The New York Times
 ---
 
 New York Attorney General Barbara Underwood filed a comprehensive lawsuit against the Donald J. Trump Foundation, Donald Trump, and his three eldest children (Donald Jr., Eric, and Ivanka) alleging "persistently illegal conduct" spanning more than a decade. The lawsuit documented a shocking pattern of Trump using the charitable foundation as a personal checkbook to advance business interests, settle legal disputes, and coordinate with his 2016 presidential campaign in violation of federal and state law. The AG sought $2.8 million in restitution, dissolution of the Foundation under court supervision, a 10-year ban on Trump serving as a director of any New York charity, and one-year bans for his children.

@@ -5,9 +5,9 @@ importance: 6
 title: Supreme Court Dismisses All Trump Emoluments Cases as Moot
 location: Washington DC
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - Donald Trump
-- CREW (Citizens for Responsibility and Ethics in Washington)
+- Citizens for Responsibility and Ethics in Washington (CREW)
 - District of Columbia
 - Maryland
 - Congressional Democrats
@@ -31,9 +31,7 @@ sources:
   url: https://www.nytimes.com/2021/01/25/us/politics/trump-emoluments-supreme-court.html
   outlet: The New York Times
   date: '2021-01-25'
-notes: By waiting until Trump left office to dismiss cases, Supreme Court effectively
-  immunized presidential profiteering from foreign governments. No president has ever
-  been held accountable for emoluments violations.
+notes: By waiting until Trump left office to dismiss cases, Supreme Court effectively immunized presidential profiteering from foreign governments. No president has ever been held accountable for emoluments violations.
 capture_lanes:
 - Judicial Capture
 - Legislative Capture

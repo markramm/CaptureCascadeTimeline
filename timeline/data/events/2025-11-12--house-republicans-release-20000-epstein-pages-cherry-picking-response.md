@@ -1,16 +1,15 @@
 ---
 id: 2025-11-12--house-republicans-release-20000-epstein-pages-cherry-picking-response
 date: '2025-11-12'
-title: House Republicans Release 20,000+ Epstein Pages in Response to Democrat Emails,
-  Accuse "Cherry-Picking"
+title: House Republicans Release 20,000+ Epstein Pages in Response to Democrat Emails, Accuse "Cherry-Picking"
 importance: 7
 tags:
-- Epstein
-- House-Oversight
-- Trump-Administration
-- Document-Release
-- Partisan-Politics
-- Transparency
+- epstein
+- house-oversight
+- trump-administration
+- document-release
+- partisan-politics
+- transparency
 actors:
 - House Oversight Committee
 - James Comer
@@ -23,19 +22,19 @@ actors:
 sources:
 - title: House committee releases over 20,000 documents from Epstein estate
   url: https://www.npr.org/2025/11/13/nx-s1-5607057/house-committee-releases-over-20-000-documents-from-epstein-estate
-  publisher: NPR
   date: '2025-11-13'
   tier: 1
+  outlet: NPR
 - title: Oversight Committee Releases Additional Epstein Estate Documents
   url: https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/
-  publisher: House Committee on Oversight and Government Reform
   date: '2025-11-12'
   tier: 1
+  outlet: House Committee on Oversight and Government Reform
 - title: New Epstein emails and files - What do they reveal about Trump?
   url: https://www.aljazeera.com/news/2025/11/13/new-epstein-emails-and-files-what-do-they-reveal-about-trump
-  publisher: Al Jazeera
   date: '2025-11-13'
   tier: 2
+  outlet: Al Jazeera
 status: confirmed
 ---
 

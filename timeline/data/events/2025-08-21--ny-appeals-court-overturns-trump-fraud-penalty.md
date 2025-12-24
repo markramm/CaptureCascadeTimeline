@@ -12,34 +12,34 @@ actors:
 - Eric Trump
 - Donald Trump Jr.
 tags:
-- Financial Fraud
-- NY Attorney General
-- Trump Organization
-- Appeals Court
-- Eighth Amendment
+- financial fraud
+- ny attorney general
+- trump organization
+- appeals court
+- eighth amendment
 - judiciary
 - courts
 sources:
 - url: https://www.npr.org/2025/08/21/g-s1-84246/civil-fraud-penalty-president-trump-appeal
   title: Massive civil fraud penalty against President Trump tossed by appeals court
-  publisher: NPR
   date: '2025-08-21'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/donald-trump/ny-appeals-court-throws-trumps-500-million-fraud-judgment-rcna217340
   title: NY appeals court throws out Trump's more than $500 million fraud judgment
-  publisher: NBC News
   date: '2025-08-21'
   tier: 1
+  outlet: NBC News
 - url: https://www.pbs.org/newshour/politics/trumps-massive-civil-fraud-penalty-for-exaggerating-financial-statements-is-thrown-out-by-appeals-court
   title: Trump's civil fraud penalty thrown out by appeals court
-  publisher: PBS NewsHour
   date: '2025-08-21'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://abcnews.go.com/US/appeals-court-throws-trumps-454-million-civil-fraud/story?id=124848691
   title: Appeals court throws out Trump's $454 million civil fraud judgment
-  publisher: ABC News
   date: '2025-08-21'
   tier: 1
+  outlet: ABC News
 ---
 
 The New York Appellate Division, in a unanimous five-judge decision, threw out the $527 million civil fraud judgment against President Donald Trump and his companies, ruling the penalty was "excessive" and violated the Eighth Amendment's prohibition on excessive fines. The appeals court overturned Judge Arthur Engoron's February 2024 ruling that had ordered Trump to pay $355 million in penalties (which with interest exceeded $515 million) for fraudulently inflating property values to secure favorable loans and insurance terms. Including penalties against Trump Organization executives Eric Trump and Donald Trump Jr., the total judgment with interest had reached $527 million. The appeals court ruled that while two judges believed Trump was properly held liable for business fraud, all five agreed the financial penalty was constitutionally excessive. The $175 million bond Trump posted in March 2024 would be returned to the Trump Organization, representing a major legal victory for Trump in the midst of his 2025 presidency.

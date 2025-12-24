@@ -3,7 +3,7 @@ actors:
 - Devin Alan Rhoden
 - Berman Jerry Nowlin Jr.
 - HSI
-- DHS
+- Department of Homeland Security
 - U.S. Air Force Office of Special Investigations
 - Pasco County Sheriff's Office
 - Department of Defense Inspector General
@@ -20,8 +20,7 @@ sources:
   title: 2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains
   url: https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains
 - outlet: Department of Justice - Middle District of Florida
-  title: Jury Finds Non-Fungible Token Developer Guilty Of Defrauding Investors And
-    Laundering Proceeds Through Blockchains
+  title: Jury Finds Non-Fungible Token Developer Guilty Of Defrauding Investors And Laundering Proceeds Through Blockchains
   url: https://www.justice.gov/usao-mdfl/pr/jury-finds-non-fungible-token-developer-guilty-defrauding-investors-and-laundering
 - outlet: Business Observer
   title: Alabama, Pinellas Park men face prison in digital NFT scam

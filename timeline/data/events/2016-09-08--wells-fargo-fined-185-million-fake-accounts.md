@@ -12,24 +12,24 @@ tags:
 actors:
 - Wells Fargo
 - John Stumpf
-- Consumer Financial Protection Bureau
+- Consumer Financial Protection Bureau (CFPB)
 - Richard Cordray
 sources:
 - url: https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/
   title: 'CFPB Enforcement Action: Wells Fargo Bank, N.A.'
-  publisher: Consumer Financial Protection Bureau
   date: '2016-09-08'
   tier: 1
+  outlet: Consumer Financial Protection Bureau
 - url: https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-fines-wells-fargo-100-million-widespread-illegal-practice-secretly-opening-unauthorized-accounts/
   title: Consumer Financial Protection Bureau Fines Wells Fargo $100 Million
-  publisher: Consumer Financial Protection Bureau
   date: '2016-09-08'
   tier: 1
+  outlet: Consumer Financial Protection Bureau
 - url: https://www.npr.org/sections/thetwo-way/2016/09/08/493130449/wells-fargo-to-pay-around-190-million-over-fake-accounts-that-sparked-bonuses
   title: Wells Fargo Fined $185 Million Over Creation Of Fake Accounts For Bonuses
-  publisher: NPR
   date: '2016-09-08'
   tier: 1
+  outlet: NPR
 ---
 
 The Consumer Financial Protection Bureau, Office of the Comptroller of the Currency, and Los Angeles City Attorney announce a combined $185 million settlement with Wells Fargo for the systematic creation of more than two million unauthorized deposit and credit card accounts. The CFPB assesses a $100 million penalty—the largest in the agency's history—while the OCC adds $35 million and Los Angeles contributes $50 million. Wells Fargo also agrees to pay full restitution to affected consumers.

@@ -11,8 +11,8 @@ tags:
 - immigration-enforcement
 actors:
 - Donald Trump
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- Department of Homeland Security
 - Kristi Noem
 sources:
 - title: Under President Trump ICE Arrests Have Increased by 627%

@@ -6,7 +6,7 @@ actors:
 - Scott Gottlieb
 - Elizabeth Warren
 - Pfizer Board of Directors
-- Food and Drug Administration
+- Food and Drug Administration (FDA)
 sources:
 - outlet: STAT News
   title: Scott Gottlieb walks through the revolving door to the Pfizer board

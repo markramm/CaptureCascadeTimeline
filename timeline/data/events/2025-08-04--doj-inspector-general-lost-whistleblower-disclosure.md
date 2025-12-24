@@ -1,8 +1,7 @@
 ---
 id: 2025-08-04--doj-inspector-general-lost-whistleblower-disclosure
 date: '2025-08-04'
-title: DOJ Inspector General 'Lost' Whistleblower Complaint Against Trump Judicial
-  Nominee for Three Months
+title: DOJ Inspector General 'Lost' Whistleblower Complaint Against Trump Judicial Nominee for Three Months
 importance: 9
 actors:
 - DOJ Office of Inspector General
@@ -18,23 +17,20 @@ tags:
 - obstruction
 sources:
 - url: https://whistlebloweraid.org/whistleblower-aid-urges-congressional-action-after-disclosure-implicating-emil-bove-was-ignored-by-justice-department-inspector-general/
-  title: Whistleblower Aid Urges Congressional Action after Disclosure Implicating
-    Emil Bove was Ignored by Justice Department Inspector General
-  publisher: Whistleblower Aid
+  title: Whistleblower Aid Urges Congressional Action after Disclosure Implicating Emil Bove was Ignored by Justice Department Inspector General
   date: '2025-08-04'
   tier: 2
+  outlet: Whistleblower Aid
 - url: https://www.cnn.com/2025/07/27/politics/justice-department-official-second-whistleblower
-  title: Another whistleblower claims that top DOJ official suggested department could
-    ignore court orders
-  publisher: CNN
+  title: Another whistleblower claims that top DOJ official suggested department could ignore court orders
   date: '2025-07-27'
   tier: 2
+  outlet: CNN
 - url: https://abcnews.go.com/US/whistleblower-complaint-alleges-top-doj-official-emil-bove/story?id=123167302
-  title: Whistleblower complaint alleges top DOJ official Emil Bove said he was willing
-    to violate court orders
-  publisher: ABC News
+  title: Whistleblower complaint alleges top DOJ official Emil Bove said he was willing to violate court orders
   date: '2025-06-24'
   tier: 2
+  outlet: ABC News
 ---
 
 Whistleblower Aid revealed that the DOJ Office of the Inspector General 'lost' a whistleblower disclosure for almost three months, only 'finding' it on the eve of Emil Bove's confirmation vote for a federal judgeship. The disclosure, submitted on May 5, 2025, alleged that Bove and other senior DOJ officials may have violated laws, rules, or regulations by attempting to mislead federal judges and potentially ignore court orders regarding the administration's immigration enforcement efforts in March 2025.

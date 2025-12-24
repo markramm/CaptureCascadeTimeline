@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Russian National Charged in Conspiracy to Act as an Agent of the Russian Federation
   url: https://www.justice.gov/archives/opa/pr/russian-national-charged-conspiracy-act-agent-russian-federation-within-united-states
-  publisher: Department of Justice
   date: '2018-07-16'
   tier: 1
+  outlet: Department of Justice
 - title: Maria Butina Case Bolsters Understanding of 'Infiltration' In Russian 2016 Attack
   url: https://www.npr.org/2018/07/17/629627064/new-charges-confirm-that-infiltration-was-an-aspect-of-russian-2016-attack
-  publisher: NPR
   date: '2018-07-17'
   tier: 1
+  outlet: NPR
 - title: Maria Butina Arrested for Role in the NRA-Russia Scandal
   url: https://www.rollingstone.com/politics/politics-news/maria-butina-first-arrest-nra-russia-scandal-699923/
-  publisher: Rolling Stone
   date: '2018-07-16'
   tier: 2
+  outlet: Rolling Stone
 status: confirmed
 ---
 

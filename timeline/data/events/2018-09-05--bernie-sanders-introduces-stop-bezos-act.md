@@ -4,32 +4,32 @@ date: 2018-09-05
 title: Bernie Sanders Introduces "Stop BEZOS Act" Targeting Amazon Wages
 importance: 8
 actors:
-  - Bernie Sanders
-  - Jeff Bezos
-  - Amazon
-  - Ro Khanna
+- Bernie Sanders
+- Jeff Bezos
+- Amazon
+- Ro Khanna
 tags:
-  - Worker Exploitation
-  - Corporate Accountability
-  - Amazon
-  - Political Response
-  - Labor Rights
+- worker exploitation
+- corporate accountability
+- amazon
+- political response
+- labor rights
 sources:
-  - url: https://khanna.house.gov/media/in-the-news/bernie-sanders-introduces-stop-bezos-act-senate
-    title: "Bernie Sanders introduces 'Stop BEZOS Act' in Senate"
-    publisher: U.S. House of Representatives (Ro Khanna)
-    date: 2018-09-05
-    tier: 1
-  - url: https://www.cnbc.com/2018/09/05/bernie-sanders-amazon-walmart-worker-pay/index.html
-    title: "Bernie Sanders' 'Stop BEZOS' bill targets worker pay at Amazon and Walmart"
-    publisher: CNBC
-    date: 2018-09-05
-    tier: 1
-  - url: https://www.commondreams.org/news/2018/09/05/end-starvation-wages-and-kick-billionaires-welfare-sanders-introduces-stop-bezos-act
-    title: "To End Starvation Wages and Kick Billionaires Off Welfare, Sanders Introduces 'Stop BEZOS Act'"
-    publisher: Common Dreams
-    date: 2018-09-05
-    tier: 2
+- url: https://khanna.house.gov/media/in-the-news/bernie-sanders-introduces-stop-bezos-act-senate
+  title: Bernie Sanders introduces 'Stop BEZOS Act' in Senate
+  date: 2018-09-05
+  tier: 1
+  outlet: U.S. House of Representatives (Ro Khanna)
+- url: https://www.cnbc.com/2018/09/05/bernie-sanders-amazon-walmart-worker-pay/index.html
+  title: Bernie Sanders' 'Stop BEZOS' bill targets worker pay at Amazon and Walmart
+  date: 2018-09-05
+  tier: 1
+  outlet: CNBC
+- url: https://www.commondreams.org/news/2018/09/05/end-starvation-wages-and-kick-billionaires-welfare-sanders-introduces-stop-bezos-act
+  title: To End Starvation Wages and Kick Billionaires Off Welfare, Sanders Introduces 'Stop BEZOS Act'
+  date: 2018-09-05
+  tier: 2
+  outlet: Common Dreams
 status: confirmed
 ---
 

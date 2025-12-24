@@ -26,7 +26,7 @@ sources:
   date: '2017-12-14'
 - title: Trump taps net neutrality critic to lead the FCC
   url: https://www.washingtonpost.com/news/the-switch/wp/2017/01/23/meet-donald-trumps-official-new-fcc-chairman-ajit-pai/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2017-01-23'
 - title: The FCC just scrapped rules regulating equal access to the internet
   url: https://www.nbcnews.com/tech/tech-news/it-s-decision-day-future-internet-n829336

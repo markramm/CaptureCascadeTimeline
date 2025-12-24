@@ -10,10 +10,10 @@ actors:
 - Y Combinator
 tags:
 - surveillance
-- ALPR
+- alpr
 - license-plate-readers
 - private-surveillance
-- Y-Combinator
+- y-combinator
 capture_lanes:
 - Surveillance & Data Control
 sources:

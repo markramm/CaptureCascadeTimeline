@@ -16,20 +16,19 @@ tags:
 sources:
 - url: https://www.cnbc.com/2025/08/13/trump-orders-easing-of-commercial-spaceflight-regulations-in-boon-to-musks-spacex.html
   title: Trump orders easing of commercial spaceflight rules, in boon to Musk's SpaceX
-  publisher: CNBC
   date: '2025-08-13'
   tier: 2
+  outlet: CNBC
 - url: https://www.propublica.org/article/trump-musk-spacex-rocket-launch-environmental-regulation-rollback
-  title: Trump Administration Looking to Slash Environmental Protection Rules for
-    Rocket Launches
-  publisher: ProPublica
+  title: Trump Administration Looking to Slash Environmental Protection Rules for Rocket Launches
   date: '2025-08-14'
   tier: 1
+  outlet: ProPublica
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-207
   title: 'Trump Tyranny Tracker: Day 207'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-20'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Trump signed an executive order directing the Transportation Department to slash FAA regulations on rocket launches, eliminating or expediting environmental reviews for commercial spaceflight. The order directly benefits SpaceX, whose owner Elon Musk repeatedly complained about FAA environmental impact studies and licensing reviews.

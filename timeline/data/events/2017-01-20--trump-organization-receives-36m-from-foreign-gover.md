@@ -26,11 +26,11 @@ sources:
   date: '2021-01-04'
 - title: Trump properties made over $750,000 from Saudi government
   url: https://www.washingtonpost.com/politics/saudi-payments-to-trump-hotels/2018/12/05/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2018-12-05'
 - title: T-Mobile executives stayed at Trump hotel more than 52 times
   url: https://www.washingtonpost.com/politics/t-mobile-executives-seeking-merger-stayed-at-trump-hotel-more-than-52-times/2019/03/05/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-03-05'
 capture_lanes:
 - Judicial Capture

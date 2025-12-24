@@ -1,7 +1,6 @@
 ---
 date: '2001-12-13'
-title: Office of Information and Regulatory Affairs Systematically Subordinated to
-  Corporate Input
+title: Office of Information and Regulatory Affairs Systematically Subordinated to Corporate Input
 importance: 9
 actors:
 - OIRA
@@ -35,7 +34,7 @@ sources:
   date: '2002-05-10'
 - title: Business Groups' Influence on Federal Regulations
   url: https://www.washingtonpost.com/archive/politics/2001/12/13/business-groups-influence-federal-regulations/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2001-12-13'
 id: 2001-12-13--office-of-information-and-regulatory-affairs-syste
 created_from: research-priority-RT-011-project2025-systematic-institutional-capture

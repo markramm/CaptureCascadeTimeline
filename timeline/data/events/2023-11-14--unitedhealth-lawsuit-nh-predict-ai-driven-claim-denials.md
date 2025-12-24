@@ -4,33 +4,33 @@ title: Class Action Lawsuit Alleges UnitedHealth Uses AI with 90% Error Rate to 
 date: '2023-11-14'
 importance: 9
 actors:
-  - UnitedHealth Group
-  - NaviHealth
-  - UnitedHealthcare
+- UnitedHealth Group
+- NaviHealth
+- UnitedHealthcare
 tags:
-  - healthcare
-  - medicare-advantage
-  - insurance-fraud
-  - artificial-intelligence
-  - systematic-corruption
-  - prior-authorization
+- healthcare
+- medicare-advantage
+- insurance-fraud
+- artificial-intelligence
+- systematic-corruption
+- prior-authorization
 status: confirmed
 sources:
-  - title: UnitedHealthcare used AI to deny patients' health insurance coverage, lawsuit says
-    url: https://www.medicaleconomics.com/view/unitedhealthcare-used-ai-to-deny-patients-health-insurance-coverage-lawsuit-says
-    publisher: Medical Economics
-    date: '2023-11-15'
-    tier: 2
-  - title: Class action lawsuit against UnitedHealth's AI claim denials advances
-    url: https://www.healthcarefinancenews.com/news/class-action-lawsuit-against-unitedhealths-ai-claim-denials-advances
-    publisher: Healthcare Finance News
-    date: '2025-02-15'
-    tier: 2
-  - title: UnitedHealth uses faulty AI to deny elderly patients medically necessary coverage, lawsuit claims
-    url: https://www.cbsnews.com/news/unitedhealth-lawsuit-ai-deny-claims-medicare-advantage-health-insurance-denials/
-    publisher: CBS News
-    date: '2023-11-14'
-    tier: 1
+- title: UnitedHealthcare used AI to deny patients' health insurance coverage, lawsuit says
+  url: https://www.medicaleconomics.com/view/unitedhealthcare-used-ai-to-deny-patients-health-insurance-coverage-lawsuit-says
+  date: '2023-11-15'
+  tier: 2
+  outlet: Medical Economics
+- title: Class action lawsuit against UnitedHealth's AI claim denials advances
+  url: https://www.healthcarefinancenews.com/news/class-action-lawsuit-against-unitedhealths-ai-claim-denials-advances
+  date: '2025-02-15'
+  tier: 2
+  outlet: Healthcare Finance News
+- title: UnitedHealth uses faulty AI to deny elderly patients medically necessary coverage, lawsuit claims
+  url: https://www.cbsnews.com/news/unitedhealth-lawsuit-ai-deny-claims-medicare-advantage-health-insurance-denials/
+  date: '2023-11-14'
+  tier: 1
+  outlet: CBS News
 ---
 
 On November 14, 2023, the families of two deceased Medicare Advantage beneficiaries filed a federal class action lawsuit alleging that UnitedHealth Group knowingly uses a faulty artificial intelligence algorithm with a 90% error rate to systematically deny elderly patients coverage for medically necessary post-acute care. The lawsuit claims that UnitedHealth's nH Predict AI tool overrides physicians' medical judgments to cut off coverage prematurely, leading to patient deaths and deteriorating health. When patients appeal these AI-driven denials, they win over 90% of the time—proving the denials were medically unjustified—but the arduous appeals process results in many patients dying or suffering permanent harm before coverage is restored.

@@ -15,20 +15,20 @@ actors:
 - Eric Holder
 sources:
 - url: https://www.npr.org/2013/06/21/194371404/u-s-charges-nsa-leaker-snowden-with-espionage
-  title: "U.S. Charges NSA Leaker Snowden With Espionage"
-  publisher: NPR
+  title: U.S. Charges NSA Leaker Snowden With Espionage
   date: '2013-06-21'
   tier: 1
+  outlet: NPR
 - url: https://www.cbsnews.com/news/us-files-espionage-charges-against-nsa-leaker/
-  title: "U.S. files espionage charges against NSA leaker"
-  publisher: CBS News
+  title: U.S. files espionage charges against NSA leaker
   date: '2013-06-21'
   tier: 2
+  outlet: CBS News
 - url: https://www.pbs.org/newshour/nation/edward-snowden
-  title: "Manning, Snowden and the DOJ's Espionage War Against Leakers"
-  publisher: PBS NewsHour
+  title: Manning, Snowden and the DOJ's Espionage War Against Leakers
   date: '2013-08-21'
   tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 ---
 

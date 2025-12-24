@@ -4,35 +4,35 @@ date: 2019-10-26
 title: Pentagon Awards $10 Billion JEDI Cloud Contract to Microsoft Over Amazon
 importance: 8
 actors:
-  - Pentagon
-  - Microsoft
-  - Amazon Web Services
-  - Donald Trump
-  - Jeff Bezos
+- Pentagon
+- Microsoft
+- Amazon Web Services
+- Donald Trump
+- Jeff Bezos
 tags:
-  - military-contracts
-  - cloud-computing
-  - political-interference
-  - government-contracts
-  - corruption
-  - aws
-  - pentagon
+- military-contracts
+- cloud-computing
+- political-interference
+- government-contracts
+- corruption
+- aws
+- pentagon
 sources:
-  - url: https://www.npr.org/2019/10/26/773706177/pentagon-awards-10-billion-contract-to-microsoft-over-front-runner-amazon
-    title: "Pentagon Awards $10 Billion Contract To Microsoft Over Front-Runner Amazon"
-    publisher: NPR
-    date: 2019-10-26
-    tier: 1
-  - url: https://techcrunch.com/2019/10/25/in-a-victory-over-amazon-microsoft-wins-10b-pentagon-jedi-cloud-contract/
-    title: "In a victory over Amazon, Microsoft wins $10B Pentagon JEDI cloud contract"
-    publisher: TechCrunch
-    date: 2019-10-25
-    tier: 2
-  - url: https://www.pbs.org/newshour/politics/pentagon-cancels-disputed-jedi-cloud-contract-with-microsoft
-    title: "Pentagon cancels disputed JEDI cloud contract with Microsoft"
-    publisher: PBS NewsHour
-    date: 2021-07-06
-    tier: 1
+- url: https://www.npr.org/2019/10/26/773706177/pentagon-awards-10-billion-contract-to-microsoft-over-front-runner-amazon
+  title: Pentagon Awards $10 Billion Contract To Microsoft Over Front-Runner Amazon
+  date: 2019-10-26
+  tier: 1
+  outlet: NPR
+- url: https://techcrunch.com/2019/10/25/in-a-victory-over-amazon-microsoft-wins-10b-pentagon-jedi-cloud-contract/
+  title: In a victory over Amazon, Microsoft wins $10B Pentagon JEDI cloud contract
+  date: 2019-10-25
+  tier: 2
+  outlet: TechCrunch
+- url: https://www.pbs.org/newshour/politics/pentagon-cancels-disputed-jedi-cloud-contract-with-microsoft
+  title: Pentagon cancels disputed JEDI cloud contract with Microsoft
+  date: 2021-07-06
+  tier: 1
+  outlet: PBS NewsHour
 ---
 
 The Pentagon awards the $10 billion, 10-year Joint Enterprise Defense Infrastructure (JEDI) cloud contract to Microsoft, stunning observers who widely expected Amazon Web Services to win based on its established relationship with the intelligence community through the CIA's C2S contract. Under the JEDI contract, Microsoft will manage sensitive military data storage and provide the U.S. military access to artificial intelligence technologies for tactical and strategic operations.

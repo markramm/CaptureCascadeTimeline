@@ -1,0 +1,33 @@
+---
+id: 2019-10-07--sutter-health-antitrust-settlement
+date: '2019-10-07'
+title: Sutter Health Settles Antitrust Case for $575 Million, Admits to All-or-Nothing Contracting and Price Concealment
+importance: 9
+actors:
+- Sutter Health
+- Xavier Becerra
+- California Attorney General
+tags:
+- healthcare
+- hospital
+- antitrust
+- price-transparency
+- market-concentration
+- california
+sources:
+- title: Attorney General Announces Final Approval of $575 Million Settlement with Sutter Health
+  url: https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-final-approval-575-million-settlement-sutter
+  outlet: California Attorney General
+  tier: 1
+- title: Sutter Health Settles $575 Million California Antitrust Suit
+  url: https://www.capradio.org/articles/2019/12/20/sutter-health-settles-575-million-california-antitrust-suit-agrees-to-change-practices/
+  outlet: CapRadio
+  tier: 2
+- title: Federal judge grants final approval of $575M settlement against Sutter Health
+  url: https://www.fiercehealthcare.com/hospitals/federal-judge-grants-final-approval-575m-settlement-against-sutter-health
+  outlet: Fierce Healthcare
+  tier: 2
+status: confirmed
+---
+
+One day before trial, California hospital system Sutter Health agreed to pay $575 million and change anticompetitive practices after a lawsuit filed by California Attorney General Xavier Becerra and consolidated with a 2014 case brought by the United Food and Commercial Workers International Union. The case alleged that Sutter used its market dominance to require health insurers to include all Sutter hospitals in their networks to have any Sutter hospitals—a practice called 'all-or-nothing contracting.' Because insurers needed certain 'must-have' Sutter hospitals to make their networks commercially viable, they were compelled to include Sutter's less desirable, higher-priced hospitals as well. Sutter also prohibited insurers from disclosing upfront to patients the prices of Sutter's healthcare services, preventing price shopping and shielding Sutter from competition. The anticompetitive conduct resulted in Northern California insurance premiums being 25-35% higher than Southern California, with healthcare prices 40-70% higher, according to the Pacific Business Group on Health. The settlement requires Sutter to cease all-or-nothing contracting, limit out-of-network charges, work with a court-approved compliance monitor for at least 10 years, and allow insurers to provide plan members with pricing information. San Francisco Superior Court Judge Anne-Christine Massullo granted final approval on August 27, 2021. Attorney General Becerra called it a 'first-in-the-nation comprehensive settlement' that 'should send a clear message to the markets: if you're looking to consolidate for any reason other than efficiency that delivers better quality for a lower price, think again.' The case established that hospital systems could use market power to suppress price transparency and force anticompetitive bundling, extracting billions in excess costs from patients and employers.

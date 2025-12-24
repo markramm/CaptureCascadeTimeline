@@ -14,7 +14,7 @@ actors:
 - Nineteen Fifty-Six Magazine
 - Department of Justice
 tags:
-- DEI-rollback
+- dei-rollback
 - campus-censorship
 - racial-justice
 - first-amendment

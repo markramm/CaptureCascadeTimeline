@@ -4,35 +4,35 @@ date: '2016-02-13'
 title: Justice Antonin Scalia Dies, McConnell Immediately Vows to Block Any Obama Nominee
 importance: 9
 tags:
-  - Supreme Court
-  - Judicial Appointments
-  - Obstruction
-  - Institutional Corruption
+- supreme court
+- judicial appointments
+- obstruction
+- institutional corruption
 actors:
-  - Antonin Scalia
-  - Mitch McConnell
-  - Barack Obama
+- Antonin Scalia
+- Mitch McConnell
+- Barack Obama
 sources:
-  - title: Flashback Inside McConnell's Unprecedented Power Play After Scalia's Death
-    url: https://www.pbs.org/wgbh/frontline/article/flashback-inside-mcconnells-unprecedented-power-play-after-scalias-death/
-    publisher: PBS Frontline
-    date: '2016-02-13'
-    tier: 1
-  - title: Get Ready For A Fight To Replace Scalia
-    url: https://www.npr.org/2016/02/13/466689001/get-ready-for-a-fight-to-replace-scalia
-    publisher: NPR
-    date: '2016-02-13'
-    tier: 1
-  - title: Senate Leaders Divided After Antonin Scalia's Death
-    url: https://rollcall.com/2016/02/13/senate-leaders-divided-after-antonin-scalias-death/
-    publisher: Roll Call
-    date: '2016-02-13'
-    tier: 2
-  - title: The Scalia Vacancy in Historical Context
-    url: https://www.congress.gov/crs-product/R44773
-    publisher: Congressional Research Service
-    date: '2016-02-16'
-    tier: 1
+- title: Flashback Inside McConnell's Unprecedented Power Play After Scalia's Death
+  url: https://www.pbs.org/wgbh/frontline/article/flashback-inside-mcconnells-unprecedented-power-play-after-scalias-death/
+  date: '2016-02-13'
+  tier: 1
+  outlet: PBS Frontline
+- title: Get Ready For A Fight To Replace Scalia
+  url: https://www.npr.org/2016/02/13/466689001/get-ready-for-a-fight-to-replace-scalia
+  date: '2016-02-13'
+  tier: 1
+  outlet: NPR
+- title: Senate Leaders Divided After Antonin Scalia's Death
+  url: https://rollcall.com/2016/02/13/senate-leaders-divided-after-antonin-scalias-death/
+  date: '2016-02-13'
+  tier: 2
+  outlet: Roll Call
+- title: The Scalia Vacancy in Historical Context
+  url: https://www.congress.gov/crs-product/R44773
+  date: '2016-02-16'
+  tier: 1
+  outlet: Congressional Research Service
 ---
 
 On February 13, 2016, Supreme Court Justice Antonin Scalia died of apparent natural causes at a luxury resort in West Texas, creating a vacancy on the Court with nearly 11 months remaining in President Obama's term. Within hours of Scalia's death being announced, Senate Majority Leader Mitch McConnell issued an unprecedented statement declaring that the Senate would refuse to consider any nominee submitted by President Obama, asserting that "this vacancy should not be filled until we have a new president." McConnell's immediate blockade—announced before Obama had even named a nominee and 293 days before the 2016 election—marked an extraordinary departure from constitutional norms and Senate precedent, denying a sitting president the opportunity to fulfill his constitutional duty to fill a Supreme Court vacancy.

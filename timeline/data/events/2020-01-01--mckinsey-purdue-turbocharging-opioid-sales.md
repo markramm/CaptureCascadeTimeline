@@ -4,32 +4,32 @@ title: McKinsey Advised Purdue on "Turbocharging" OxyContin Sales, Targeting Hig
 date: '2020-01-01'
 importance: 8
 actors:
-  - McKinsey & Company
-  - Purdue Pharma
-  - Sackler Family
+- McKinsey & Company
+- Purdue Pharma
+- Sackler Family
 tags:
-  - opioid-crisis
-  - management-consulting
-  - corporate-crime
-  - pharmaceutical-marketing
-  - accountability-failure
+- opioid-crisis
+- management-consulting
+- corporate-crime
+- pharmaceutical-marketing
+- accountability-failure
 status: confirmed
 sources:
-  - title: McKinsey Apologizes For Helping Purdue Pharma 'Turbocharge' Opioid Sales
-    url: https://www.npr.org/2020/12/09/944563257/mckinsey-apologizes-for-helping-purdue-pharma-turbocharge-opioid-sales
-    publisher: NPR
-    date: '2020-12-09'
-    tier: 1
-  - title: New documents show McKinsey's role in fueling opioid epidemic
-    url: https://hub.jhu.edu/2022/06/30/mckinsey-opioid-documents-archive/
-    publisher: Johns Hopkins Hub
-    date: '2022-06-30'
-    tier: 1
-  - title: How McKinsey, the World's Most Elite Consulting Firm, Helped Turbocharge America's Opioid Epidemic
-    url: https://jacobin.com/2020/12/mckinsey-consulting-firm-opioid-epidemic-purdue-pharma
-    publisher: Jacobin
-    date: '2020-12-01'
-    tier: 2
+- title: McKinsey Apologizes For Helping Purdue Pharma 'Turbocharge' Opioid Sales
+  url: https://www.npr.org/2020/12/09/944563257/mckinsey-apologizes-for-helping-purdue-pharma-turbocharge-opioid-sales
+  date: '2020-12-09'
+  tier: 1
+  outlet: NPR
+- title: New documents show McKinsey's role in fueling opioid epidemic
+  url: https://hub.jhu.edu/2022/06/30/mckinsey-opioid-documents-archive/
+  date: '2022-06-30'
+  tier: 1
+  outlet: Johns Hopkins Hub
+- title: How McKinsey, the World's Most Elite Consulting Firm, Helped Turbocharge America's Opioid Epidemic
+  url: https://jacobin.com/2020/12/mckinsey-consulting-firm-opioid-epidemic-purdue-pharma
+  date: '2020-12-01'
+  tier: 2
+  outlet: Jacobin
 ---
 
 Documents released in late 2020 in federal bankruptcy court revealed that elite management consulting firm McKinsey & Company worked closely with Purdue Pharma and the Sackler family, developing detailed plans to "turbocharge" OxyContin sales at a time when opioid abuse had already killed hundreds of thousands of Americans. McKinsey's recommendations focused on intensifying marketing to the highest-volume opioid prescribers in the country, demonstrating how prestigious consulting firms enabled the deadly opioid epidemic.

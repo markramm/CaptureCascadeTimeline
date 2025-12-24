@@ -2,9 +2,7 @@
 id: 2025-04-11--trump-announces-deals-with-more-law-firms-for-a-combined-600
 date: '2025-04-11'
 title: Trump announces deals with more law firms for a combined $600 million
-description: Trump announced agreements with five major law firms to provide a combined
-  $600 million in pro bono legal services to causes he supports, pushing the total
-  pledged to nearly $1 billion
+description: Trump announced agreements with five major law firms to provide a combined $600 million in pro bono legal services to causes he supports, pushing the total pledged to nearly $1 billion
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -17,7 +15,7 @@ capture_type: monetizing_position
 sources:
 - title: Trump announces deals with more law firms for a combined $600 million
   url: https://www.washingtonpost.com/politics/2025/04/11/trump-law-firms-deals-orders/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-04-11'
 - title: 'Trump: 5 law firms commit $600 million in pro bono legal work'
   url: https://www.cnbc.com/2025/04/11/trump-law-firms-pro-bono-work.html
@@ -31,8 +29,7 @@ sources:
   url: https://news.bloomberglaw.com/business-and-practice/five-major-law-firms-cut-600-million-deals-with-trump-1
   outlet: Bloomberg Law
   date: '2025-04-11'
-- title: Trump's deals with law firms are like deals made with a gun to the head,
-    lawyers say
+- title: Trump's deals with law firms are like deals made with a gun to the head, lawyers say
   url: https://www.npr.org/2025/05/31/nx-s1-5406173/trump-deals-law-firms
   outlet: NPR
   date: '2025-05-31'

@@ -7,7 +7,7 @@ actors:
 - Bill Clinton
 - U.S. Senate
 - U.S. House of Representatives
-- Chinese Government
+- Chinese government
 - Corporate Lobbies
 - U.S. Manufacturing Workers
 tags:
@@ -29,17 +29,17 @@ sources:
   outlet: Clinton White House Archives
   date: '2000-10-10'
   tier: 1
-- title: 'United States-China Relations Act of 2000'
+- title: United States-China Relations Act of 2000
   url: https://en.wikipedia.org/wiki/United_States–China_Relations_Act_of_2000
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'Fact Sheet on China, WTO, and PNTR'
+- title: Fact Sheet on China, WTO, and PNTR
   url: https://1997-2001.state.gov/regions/eap/fs-china_pntr-wto_000524.html
   outlet: U.S. Department of State
   date: '2000-05-24'
   tier: 1
-- title: 'The High Cost of the China-WTO Deal'
+- title: The High Cost of the China-WTO Deal
   url: https://www.epi.org/publication/issuebriefs_ib137/
   outlet: Economic Policy Institute
   date: '2000-06-26'

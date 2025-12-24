@@ -2,12 +2,11 @@
 id: 2010-03-26--speechnow-org-decision-creates-super-pacs
 date: '2010-03-26'
 importance: 9
-title: SpeechNow.org v. FEC Decision Creates Super PACs Following Citizens United
-  Logic
+title: SpeechNow.org v. FEC Decision Creates Super PACs Following Citizens United Logic
 location: Washington D.C.
 actors:
 - SpeechNow.org
-- Federal Election Commission
+- Federal Election Commission (FEC)
 - DC Circuit Court of Appeals
 - David Keating
 - Club for Growth
@@ -40,11 +39,7 @@ sources:
   url: https://www.opensecrets.org/news/reports/a-decade-under-citizens-united
   outlet: OpenSecrets
   date: '2020-01-21'
-notes: The DC Circuit applied Citizens United logic to rule that groups making only
-  independent expenditures can accept unlimited contributions. The FEC subsequently
-  allowed creation of 'super PACs' - independent expenditure-only committees. This
-  decision transformed Citizens United from theoretical corporate speech rights into
-  practical unlimited spending vehicles that would channel billions into elections.
+notes: The DC Circuit applied Citizens United logic to rule that groups making only independent expenditures can accept unlimited contributions. The FEC subsequently allowed creation of 'super PACs' - independent expenditure-only committees. This decision transformed Citizens United from theoretical corporate speech rights into practical unlimited spending vehicles that would channel billions into elections.
 status: confirmed
 ---
 

@@ -4,30 +4,30 @@ date: 2018-04-10
 title: Judge Finalizes Trump University Settlement After Appeal Resolved, Victims Receive Payments
 importance: 8
 tags:
-  - Trump University
-  - Fraud
-  - Settlement
-  - Consumer Protection
-  - Accountability
+- trump university
+- fraud
+- settlement
+- consumer protection
+- accountability
 actors:
-  - Gonzalo Curiel
-  - Donald Trump
+- Gonzalo Curiel
+- Donald Trump
 sources:
-  - url: https://abcnews.go.com/US/judge-finalizes-25-million-settlement-victims-donald-trumps/story?id=54347237
-    title: Judge finalizes $25 million settlement for victims of Donald Trump's fraudulent university
-    publisher: ABC News
-    date: 2018-04-10
-    tier: 1
-  - url: https://www.cnn.com/2018/04/10/politics/trump-university-settlement-finalized-trnd/index.html
-    title: A judge has finalized a $25 million settlement for students who claim they were defrauded by Trump University
-    publisher: CNN
-    date: 2018-04-10
-    tier: 1
-  - url: https://www.nbcnews.com/politics/white-house/federal-court-approves-25-million-trump-university-settlement-n845181
-    title: Federal court approves $25 million Trump University settlement
-    publisher: NBC News
-    date: 2018-02-06
-    tier: 1
+- url: https://abcnews.go.com/US/judge-finalizes-25-million-settlement-victims-donald-trumps/story?id=54347237
+  title: Judge finalizes $25 million settlement for victims of Donald Trump's fraudulent university
+  date: 2018-04-10
+  tier: 1
+  outlet: ABC News
+- url: https://www.cnn.com/2018/04/10/politics/trump-university-settlement-finalized-trnd/index.html
+  title: A judge has finalized a $25 million settlement for students who claim they were defrauded by Trump University
+  date: 2018-04-10
+  tier: 1
+  outlet: CNN
+- url: https://www.nbcnews.com/politics/white-house/federal-court-approves-25-million-trump-university-settlement-n845181
+  title: Federal court approves $25 million Trump University settlement
+  date: 2018-02-06
+  tier: 1
+  outlet: NBC News
 ---
 
 U.S. District Judge Gonzalo Curiel issued a final order on April 10, 2018 concluding the Trump University litigation and authorizing distribution of the $25 million settlement to approximately 3,730 victims who would receive at least 90 percent of their money back. The finalization came more than a year after the initial settlement approval in March 2017, delayed by an appeal from one class member who sought to opt out of the settlement. With the appeal resolved, victims of what court documents described as Trump's "fraudulent scheme" finally received restitution for money lost to Trump University's predatory sales tactics. The settlement closure occurred while Trump was serving as president, marking one of the few instances of accountability for his business fraud while in office.

@@ -1,8 +1,7 @@
 ---
 id: 2025-11-04--barbara-wien-stephen-miller-investigation
 date: '2025-11-04'
-title: DOJ Escalates Investigation of 66-Year-Old Activist for Distributing Stephen
-  Miller Protest Fliers
+title: DOJ Escalates Investigation of 66-Year-Old Activist for Distributing Stephen Miller Protest Fliers
 importance: 8
 tags:
 - first-amendment
@@ -11,22 +10,21 @@ tags:
 - protest-rights
 - stephen-miller
 sources:
-- title: Feds Try to Nail Senior Barbara Wien, 66, for 'Looking At' Stephen Miller's
-    Wife
+- title: Feds Try to Nail Senior Barbara Wien, 66, for 'Looking At' Stephen Miller's Wife
   url: https://www.thedailybeast.com/judge-stalls-stephen-miller-doxxing-case-against-retired-lady-66/
-  publisher: The Daily Beast
   date: '2025-11-07'
   tier: 2
+  outlet: The Daily Beast
 - title: Court Docs Show Virginia Woman Distributed Stephen Miller's Home Address
   url: https://dailycaller.com/2025/11/04/virginia-woman-stephen-miller-home-address-affidavit/
-  publisher: The Daily Caller
   date: '2025-11-04'
   tier: 3
+  outlet: The Daily Caller
 - title: 'Trump Tyranny Tracker: Day 289'
   url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289
-  publisher: Trump Tyranny Tracker
   date: '2025-11-04'
   tier: 2
+  outlet: Trump Tyranny Tracker
 actors:
 - DOJ
 - FBI

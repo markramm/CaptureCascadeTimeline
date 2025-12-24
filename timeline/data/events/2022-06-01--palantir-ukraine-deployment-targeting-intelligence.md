@@ -17,19 +17,19 @@ actors:
 sources:
 - url: https://time.com/6691662/ai-ukraine-war-palantir/
   title: Tech Companies Turned Ukraine Into an AI War Lab
-  publisher: TIME
   date: '2024-02-12'
   tier: 1
+  outlet: TIME
 - url: https://united24media.com/war-in-ukraine/palantir-the-secretive-tech-giant-shaping-ukraines-war-effort-5519
   title: Palantir, the Secretive Tech Giant Shaping Ukraine's War Effort
-  publisher: United24 Media
   date: '2024-08-15'
   tier: 2
+  outlet: United24 Media
 - url: https://www.euronews.com/next/2023/02/02/ukraine-crisis-palantir
   title: Ukraine is using Palantir's software for 'targeting,' CEO says
-  publisher: Euronews
   date: '2023-02-02'
   tier: 1
+  outlet: Euronews
 ---
 
 On June 1, 2022, Palantir CEO Alex Karp crossed the border from Poland into Ukraine and met President Volodymyr Zelensky in the presidential palace bunker, becoming the first major Western tech CEO to visit since Russia's February invasion. Karp told Zelensky they could work together "in ways that allow David to beat a modern-day Goliath," offering to deploy "cutting-edge technology to defend the West." Palantir provided its data-analytics software free of charge to more than half a dozen Ukrainian agencies, including the Defense, Economy, and Education ministries.

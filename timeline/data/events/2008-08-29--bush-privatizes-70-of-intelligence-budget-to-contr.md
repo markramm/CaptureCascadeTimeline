@@ -21,7 +21,7 @@ status: confirmed
 sources:
 - title: Black budget summary details U.S. spy network successes and failures
   url: https://www.washingtonpost.com/world/national-security/black-budget-summary-details-us-spy-networks-successes-failures-and-objectives/2013/08/29/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2013-08-29'
 - title: Private contractors play key role in U.S. intelligence work
   url: https://www.seattletimes.com/nation-world/private-contractors-play-key-role-in-us-intelligence-work/

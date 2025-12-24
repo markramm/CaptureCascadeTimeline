@@ -2,12 +2,11 @@
 id: 1976-01-01--operation-berkshire-tobacco
 date: '1976-01-01'
 importance: 8
-title: Tobacco Industry 'Operation Berkshire' and global coordination to resist smoking
-  regulation
+title: Tobacco Industry 'Operation Berkshire' and global coordination to resist smoking regulation
 actors:
 - British American Tobacco
 - Philip Morris
-- RJ Reynolds
+- R.J. Reynolds
 - Imperial Tobacco
 tags:
 - corporate-collusion
@@ -27,14 +26,7 @@ sources:
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1434157/
   outlet: WHO / IARC (via PMC)
   date: '2004-01-01'
-notes: Operation Berkshire began with a December 1976 proposal by Imperial Tobacco's
-  Tony Garrett to coordinate a "defensive strategy" against smoking health concerns.
-  The conspiracy culminated in a secret June 1977 meeting at Shockerwick House where
-  CEOs from Philip Morris, BAT, R.J. Reynolds, and other major tobacco companies agreed
-  to create front organizations like ICOSI (later INFOTAB) to monitor anti-tobacco
-  groups and promote scientific controversy despite internal acknowledgment of smoking's
-  health risks. This represents an early example of corporate intelligence privatization
-  being used to circumvent accountability structures.
+notes: Operation Berkshire began with a December 1976 proposal by Imperial Tobacco's Tony Garrett to coordinate a "defensive strategy" against smoking health concerns. The conspiracy culminated in a secret June 1977 meeting at Shockerwick House where CEOs from Philip Morris, BAT, R.J. Reynolds, and other major tobacco companies agreed to create front organizations like ICOSI (later INFOTAB) to monitor anti-tobacco groups and promote scientific controversy despite internal acknowledgment of smoking's health risks. This represents an early example of corporate intelligence privatization being used to circumvent accountability structures.
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

@@ -1,20 +1,14 @@
 ---
 date: '2024-12-03'
-title: South Korea President Yoon Suk Yeol Declares Martial Law, Triggering Democratic
-  Crisis
-description: President Yoon Suk Yeol's brief martial law declaration represented a
-  dramatic attempt to circumvent legislative opposition. With an approval rating as
-  low as 17% and facing potential impeachment, Yoon accused the opposition Democratic
-  Party of being an 'anti-state den of criminals'. The National Assembly swiftly countered
-  by forcing past soldiers to vote down his decree, highlighting the resilience of
-  South Korean democratic institutions.
+title: South Korea President Yoon Suk Yeol Declares Martial Law, Triggering Democratic Crisis
+description: President Yoon Suk Yeol's brief martial law declaration represented a dramatic attempt to circumvent legislative opposition. With an approval rating as low as 17% and facing potential impeachment, Yoon accused the opposition Democratic Party of being an 'anti-state den of criminals'. The National Assembly swiftly countered by forcing past soldiers to vote down his decree, highlighting the resilience of South Korean democratic institutions.
 importance: 9
 status: confirmed
 actors:
 - Yoon Suk Yeol
 - South Korean National Assembly
 - South Korean protesters
-- Democratic Party (DPK)
+- Democratic Party
 location: South Korea, Seoul
 tags:
 - south-korea

@@ -22,7 +22,7 @@ sources:
   date: '2016-04-01'
 - title: Trump Model Management lawsuit dismissed
   url: https://www.washingtonpost.com/news/post-politics/wp/2016/04/01/trump-model-management-lawsuit-dismissed/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2016-04-01'
 - title: Model's Lawsuit Against Donald Trump Agency Dismissed
   url: https://abcnews.go.com/Politics/models-lawsuit-donald-trump-agency-dismissed/story?id=37878264

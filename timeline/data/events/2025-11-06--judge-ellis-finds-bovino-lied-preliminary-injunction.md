@@ -20,42 +20,42 @@ actors:
 - Judge Sara Ellis
 - Gregory Bovino
 - Department of Homeland Security
-- CBP
-- ICE
+- Customs and Border Protection (CBP)
+- Immigration and Customs Enforcement (ICE)
 - Chicago Headline Club
-- journalists
+- Journalists
 - protesters
 sources:
 - title: Federal judge says Border Patrol Chief Gregory Bovino admitted he lied, in ruling limiting federal agents' use of force in Chicago
   url: https://www.cnn.com/2025/11/06/us/gregory-bovino-deposition-chicago-immigration
-  publisher: CNN
   date: '2025-11-06'
   tier: 1
+  outlet: CNN
 - title: Border Patrol commander admitted he lied about tear gas incident, judge says, as she restricts use of force by immigration agents in Chicago
   url: https://abcnews.go.com/US/border-patrol-commander-admitted-lied-tear-gas-incident/story?id=127283392
-  publisher: ABC News
   date: '2025-11-06'
   tier: 1
+  outlet: ABC News
 - title: Judge grants preliminary injunction against Bovino, federal agents over use of force - 'Shocks the conscience'
   url: https://www.cbsnews.com/chicago/news/chicago-immigration-gregory-bovino-preliminary-injunction-judge-sara-ellis/
-  publisher: CBS Chicago
   date: '2025-11-06'
   tier: 1
+  outlet: CBS Chicago
 - title: Federal Judge Imposes Strict Restrictions on Immigration Agents' Use of Force Against Protesters, Media, Clergy
   url: https://news.wttw.com/2025/11/06/federal-judge-says-border-patrol-chief-greg-bovino-lied-about-being-hit-rock-deploying
-  publisher: WTTW Chicago
   date: '2025-11-06'
   tier: 1
+  outlet: WTTW Chicago
 - title: Federal Judge Blasts Border Patrol Boss For Lying, Extends Order Restricting Use Of Force
   url: https://blockclubchicago.org/2025/11/06/hold-federal-judge-blasts-border-patrol-boss-for-lying-extends-order-restricting-use-of-force/
-  publisher: Block Club Chicago
   date: '2025-11-06'
   tier: 2
+  outlet: Block Club Chicago
 - title: Judge blasts Trump's Chicago border 'Blitz,' extends curbs on use of force that 'shocks the conscience'
   url: https://chicago.suntimes.com/immigration/2025/11/06/judge-sara-ellis-operation-midway-blitz-tear-gas-deportation-campaign
-  publisher: Chicago Sun-Times
   date: '2025-11-06'
   tier: 2
+  outlet: Chicago Sun-Times
 status: confirmed
 ---
 

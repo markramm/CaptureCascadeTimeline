@@ -22,7 +22,7 @@ status: confirmed
 sources:
 - title: NSA Prism program taps into user data
   url: https://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2013-06-06'
 - title: Edward Snowden NSA files decoded
   url: https://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded

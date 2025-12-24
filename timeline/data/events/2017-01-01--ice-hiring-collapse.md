@@ -5,7 +5,7 @@ importance: 6
 title: ICE hiring collapses despite 10,000 agent expansion order
 location: United States
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Trump Administration
 tags:
 - administrative-failure
@@ -30,11 +30,7 @@ sources:
   url: https://www.npr.org/2017/02/23/516712980/trumps-plan-to-hire-15-000-border-patrol-and-ice-agents-wont-be-easy-to-fulfill
   outlet: NPR
   date: '2017-02-23'
-notes: Executive order signed 5 days after inauguration Jan 2017. Congress denied
-  funding - requested $76M for FY2017 capacity building, got $0. Requested $186M for
-  1,000 officers FY2018, got only $15.7M for 65 agents. Hiring dropped from ~740 officers
-  in 2016 to 371 in 2017. Administration resorted to raiding other federal agencies
-  for personnel to meet enforcement goals.
+notes: Executive order signed 5 days after inauguration Jan 2017. Congress denied funding - requested $76M for FY2017 capacity building, got $0. Requested $186M for 1,000 officers FY2018, got only $15.7M for 65 agents. Hiring dropped from ~740 officers in 2016 to 371 in 2017. Administration resorted to raiding other federal agencies for personnel to meet enforcement goals.
 status: confirmed
 capture_lanes:
 - Legislative Capture

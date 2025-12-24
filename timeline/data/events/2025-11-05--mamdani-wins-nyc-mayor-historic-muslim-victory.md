@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Zohran Mamdani wins NYC mayoral race
   url: https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor
-  publisher: NPR
   date: '2025-11-04'
   tier: 1
+  outlet: NPR
 - title: Zohran Mamdani wins NYC mayor election over Cuomo
   url: https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909
-  publisher: NBC News
   date: '2025-11-05'
   tier: 1
+  outlet: NBC News
 - title: Zohran Mamdani elected as New York City's first Muslim mayor
   url: https://www.aljazeera.com/news/liveblog/2025/11/5/nyc-mayoral-election-results-live-polls-closing-soon-in-mamdani-cuomo-race
-  publisher: Al Jazeera
   date: '2025-11-05'
   tier: 2
+  outlet: Al Jazeera
 ---
 
 Zohran Mamdani won New York City's mayoral election on November 5, 2025, making history as the first Muslim mayor, the first person of South Asian descent, and at age 34, the youngest mayor in over a century. With nearly 90% of votes counted, Mamdani secured 50.4% of the vote, defeating former Governor Andrew Cuomo (running as an Independent) who received 41.6%, and Republican Curtis Sliwa with 7.1%. The Associated Press called the race at 9:34 PM ET, less than 40 minutes after polls closed.

@@ -1,11 +1,10 @@
 ---
 date: '2012-11-15'
-title: BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal
-  Settlement
+title: BP Pleads Guilty to Felony Charges and Agrees to Record $4.5 Billion Criminal Settlement
 actors:
 - BP (British Petroleum)
 - Department of Justice
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Donald Vidrine
 - Robert Kaluza
 - David Rainey
@@ -16,14 +15,12 @@ sources:
   url: https://www.justice.gov/archives/opa/pr/bp-exploration-and-production-inc-pleads-guilty-sentencedto-pay-record-4-billion-crimes
   outlet: U.S. Department of Justice
   date: '2012-11-15'
-  key_details: Confirmed details of the $4 billion criminal settlement, including
-    14 criminal counts and specific charges
+  key_details: Confirmed details of the $4 billion criminal settlement, including 14 criminal counts and specific charges
 - title: BP Agrees to Plead Guilty to Crimes in Gulf Oil Spill
   url: https://www.propublica.org/article/bp-agrees-to-plead-guilty-to-crimes-in-gulf-oil-spill
   outlet: ProPublica
   date: '2012-11-15'
-  key_details: Comprehensive analysis of the criminal settlement and its implications
-    for corporate accountability
+  key_details: Comprehensive analysis of the criminal settlement and its implications for corporate accountability
 - title: Deepwater Horizon Litigation Overview
   url: https://en.wikipedia.org/wiki/Deepwater_Horizon_litigation
   outlet: Wikipedia

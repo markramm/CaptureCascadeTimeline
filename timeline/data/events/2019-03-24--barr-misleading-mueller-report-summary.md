@@ -4,33 +4,33 @@ date: 2019-03-24
 title: Attorney General Barr Releases Misleading 4-Page Summary of Mueller Report
 importance: 10
 tags:
-  - Mueller Investigation
-  - Obstruction of Justice
-  - Attorney General Corruption
-  - Disinformation
-  - Accountability Crisis
-  - DOJ Politicization
+- mueller investigation
+- obstruction of justice
+- attorney general corruption
+- disinformation
+- accountability crisis
+- doj politicization
 actors:
-  - William Barr
-  - Robert Mueller
-  - Donald Trump
-  - Rod Rosenstein
+- William Barr
+- Robert Mueller
+- Donald Trump
+- Rod Rosenstein
 sources:
-  - url: https://www.justice.gov/storage/report.pdf
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
-    publisher: Department of Justice
-    date: 2019-04-18
-    tier: 1
-  - url: https://www.documentcloud.org/documents/5984372-March-27-letter-from-Mueller-to-Barr.html
-    title: Letter from Robert S. Mueller III to Attorney General William P. Barr
-    publisher: Special Counsel's Office
-    date: 2019-03-27
-    tier: 1
-  - url: https://www.justice.gov/opa/press-release/file/1153481/download
-    title: Attorney General Barr's Summary Letter
-    publisher: Department of Justice
-    date: 2019-03-24
-    tier: 1
+- url: https://www.justice.gov/storage/report.pdf
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
+  date: 2019-04-18
+  tier: 1
+  outlet: Department of Justice
+- url: https://www.documentcloud.org/documents/5984372-March-27-letter-from-Mueller-to-Barr.html
+  title: Letter from Robert S. Mueller III to Attorney General William P. Barr
+  date: 2019-03-27
+  tier: 1
+  outlet: Special Counsel's Office
+- url: https://www.justice.gov/opa/press-release/file/1153481/download
+  title: Attorney General Barr's Summary Letter
+  date: 2019-03-24
+  tier: 1
+  outlet: Department of Justice
 ---
 
 Attorney General William Barr released a four-page letter to Congress purporting to summarize the 448-page Mueller Report's "principal conclusions" just 48 hours after receiving it. Barr's summary fundamentally mischaracterized the report's findings on obstruction of justice and selectively quoted from the report to create a false exoneration narrative. This strategic distortion shaped public perception for nearly a month before the actual report's release, achieving Trump's political goal of declaring "total exoneration" despite Mueller's explicit statement that the report "does not exonerate" the President.

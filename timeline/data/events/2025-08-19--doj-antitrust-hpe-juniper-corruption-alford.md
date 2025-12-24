@@ -1,8 +1,7 @@
 ---
 id: 2025-08-19--doj-antitrust-hpe-juniper-corruption-alford
 date: '2025-08-19'
-title: Fired DOJ Antitrust Official Accuses Bondi Leadership of Corruption in $14B
-  Merger
+title: Fired DOJ Antitrust Official Accuses Bondi Leadership of Corruption in $14B Merger
 importance: 9
 actors:
 - Roger Alford
@@ -19,20 +18,19 @@ tags:
 sources:
 - url: https://news.bloomberglaw.com/antitrust/doj-perverted-justice-in-hpe-deal-dismissed-official-says
   title: DOJ 'Perverted Justice' in HPE Deal, Dismissed Official Says
-  publisher: Bloomberg Law
   date: '2025-08-19'
   tier: 1
+  outlet: Bloomberg Law
 - url: https://thehill.com/policy/technology/5458361-doj-lobbyist-influence-claims/
-  title: Ex-DOJ antitrust official tears into agency leadership over MAGA-friendly
-    lobbying
-  publisher: The Hill
+  title: Ex-DOJ antitrust official tears into agency leadership over MAGA-friendly lobbying
   date: '2025-08-19'
   tier: 2
+  outlet: The Hill
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-211
   title: 'Trump Tyranny Tracker: Day 211'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-25'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Former DOJ antitrust official Roger Alford publicly accused Attorney General Pam Bondi's chief of staff Chad Mizelle of 'perverting justice' by overruling career officials to approve the Hewlett Packard Enterprise-Juniper Networks $14 billion merger. Alford and another senior official were fired for opposing the settlement influenced by MAGA-aligned lobbyists.

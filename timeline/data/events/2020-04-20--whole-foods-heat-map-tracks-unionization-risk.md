@@ -4,32 +4,32 @@ date: 2020-04-20
 title: Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics
 importance: 8
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Whole Foods
+- Jeff Bezos
+- Amazon
+- Whole Foods
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Surveillance
-  - Data Analytics
-  - Corporate Accountability
+- union organizing
+- worker exploitation
+- amazon
+- surveillance
+- data analytics
+- corporate accountability
 sources:
-  - url: https://www.businessinsider.com/whole-foods-tracks-unionization-risk-with-heat-map-2020-1
-    title: "Whole Foods tracks unionization risk with heat map"
-    publisher: Business Insider
-    date: 2020-04-20
-    tier: 1
-  - url: https://www.computerweekly.com/news/252481961/Amazons-Whole-Foods-uses-heat-mapping-to-track-unionisation-efforts
-    title: "Amazon's Whole Foods uses heat mapping to track unionisation efforts"
-    publisher: Computer Weekly
-    date: 2020-04-20
-    tier: 2
-  - url: https://www.thedailybeast.com/whole-foods-tracks-stores-at-risk-of-unionizing-with-a-heat-map-report-says
-    title: "Whole Foods Tracks Stores at Risk of Unionizing With a Heat Map, Report Says"
-    publisher: The Daily Beast
-    date: 2020-04-20
-    tier: 2
+- url: https://www.businessinsider.com/whole-foods-tracks-unionization-risk-with-heat-map-2020-1
+  title: Whole Foods tracks unionization risk with heat map
+  date: 2020-04-20
+  tier: 1
+  outlet: Business Insider
+- url: https://www.computerweekly.com/news/252481961/Amazons-Whole-Foods-uses-heat-mapping-to-track-unionisation-efforts
+  title: Amazon's Whole Foods uses heat mapping to track unionisation efforts
+  date: 2020-04-20
+  tier: 2
+  outlet: Computer Weekly
+- url: https://www.thedailybeast.com/whole-foods-tracks-stores-at-risk-of-unionizing-with-a-heat-map-report-says
+  title: Whole Foods Tracks Stores at Risk of Unionizing With a Heat Map, Report Says
+  date: 2020-04-20
+  tier: 2
+  outlet: The Daily Beast
 status: confirmed
 ---
 

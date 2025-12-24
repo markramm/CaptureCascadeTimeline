@@ -11,14 +11,14 @@ tags:
 sources:
 - url: https://www.technologyreview.com/2021/04/09/1022240/clearview-ai-nypd-emails/
   title: The NYPD used Clearview's controversial facial recognition tool
-  publisher: MIT Technology Review
   date: '2021-04-09'
   tier: 1
+  outlet: MIT Technology Review
 - url: https://www.buzzfeednews.com/article/carolinehaskins1/nypd-has-misled-public-about-clearview-ai-use
   title: The NYPD Has Misled The Public About Its Use Of Facial Recognition Tool Clearview AI
-  publisher: BuzzFeed News
   date: '2020-02-01'
   tier: 2
+  outlet: BuzzFeed News
 actors:
 - NYPD
 - Clearview AI

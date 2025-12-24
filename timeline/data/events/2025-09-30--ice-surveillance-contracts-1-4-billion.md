@@ -1,23 +1,22 @@
 ---
 id: 2025-09-30--ice-surveillance-contracts-1-4-billion
 date: '2025-09-30'
-title: ICE Awards $1.4 Billion in Surveillance Contracts in Single Month, Highest
-  in 18 Years
+title: ICE Awards $1.4 Billion in Surveillance Contracts in Single Month, Highest in 18 Years
 importance: 9
 actors:
-- Immigration and Customs Enforcement
+- Immigration and Customs Enforcement (ICE)
 - Department of Homeland Security
 sources:
 - title: ICE is mounting a mass surveillance campaign on American citizens
   url: https://reason.com/2025/10/23/ice-is-mounting-a-mass-surveillance-campaign-on-american-citizens/
-  publisher: Reason
   date: '2025-10-23'
   tier: 2
+  outlet: Reason
 - title: September 2025 US Tech Policy Roundup
   url: https://www.techpolicy.press/september-2025-us-tech-policy-roundup/
-  publisher: TechPolicy.Press
   date: 2025-09
   tier: 3
+  outlet: TechPolicy.Press
 tags:
 - ice
 - surveillance

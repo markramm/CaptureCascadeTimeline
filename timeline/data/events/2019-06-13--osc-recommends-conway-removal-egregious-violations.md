@@ -4,38 +4,38 @@ date: 2019-06-13
 title: Office of Special Counsel Issues Unprecedented Recommendation to Remove Kellyanne Conway for "Egregious, Notorious, and Ongoing" Hatch Act Violations
 importance: 9
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Kellyanne Conway
-  - Abuse of Office
-  - Trump Administration
-  - Rule of Law
+- hatch act
+- ethics violations
+- kellyanne conway
+- abuse of office
+- trump administration
+- rule of law
 actors:
-  - Kellyanne Conway
-  - Donald Trump
-  - Henry Kerner
-  - Office of Special Counsel
+- Kellyanne Conway
+- Donald Trump
+- Henry Kerner
+- Office of Special Counsel (OSC)
 sources:
-  - url: https://osc.gov/News/Pages/19-10-Kellyanne-Conway-Hatch-Act.aspx
-    title: OSC Finds Kellyanne Conway Repeatedly Violated the Hatch Act, Recommends Removal from Federal Service
-    publisher: U.S. Office of Special Counsel
-    date: 2019-06-13
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/office-of-special-counsel-recommends-removal-of-kellyanne-conway-from-federal-office-for-violating-the-hatch-act/2019/06/13/0786ae2e-8df4-11e9-8f69-a2795fca3343_story.html
-    title: Federal watchdog agency recommends removal of Kellyanne Conway from federal office for violating the Hatch Act
-    publisher: The Washington Post
-    date: 2019-06-13
-    tier: 1
-  - url: https://www.citizensforethics.org/reports-investigations/crew-reports/kellyanne-conway-eclipses-50-hatch-act-violations-on-twitter/
-    title: Kellyanne Conway eclipses 50 Hatch Act violations on Twitter
-    publisher: Citizens for Responsibility and Ethics in Washington (CREW)
-    date: 2019-06-13
-    tier: 2
-  - url: https://www.nbcnews.com/politics/white-house/government-watchdog-calls-kellyanne-conway-be-removed-office-violating-hatch-n1017241
-    title: Government watchdog calls for Kellyanne Conway to be removed from office for violating the Hatch Act
-    publisher: NBC News
-    date: 2019-06-13
-    tier: 1
+- url: https://osc.gov/News/Pages/19-10-Kellyanne-Conway-Hatch-Act.aspx
+  title: OSC Finds Kellyanne Conway Repeatedly Violated the Hatch Act, Recommends Removal from Federal Service
+  date: 2019-06-13
+  tier: 1
+  outlet: U.S. Office of Special Counsel
+- url: https://www.washingtonpost.com/politics/office-of-special-counsel-recommends-removal-of-kellyanne-conway-from-federal-office-for-violating-the-hatch-act/2019/06/13/0786ae2e-8df4-11e9-8f69-a2795fca3343_story.html
+  title: Federal watchdog agency recommends removal of Kellyanne Conway from federal office for violating the Hatch Act
+  date: 2019-06-13
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.citizensforethics.org/reports-investigations/crew-reports/kellyanne-conway-eclipses-50-hatch-act-violations-on-twitter/
+  title: Kellyanne Conway eclipses 50 Hatch Act violations on Twitter
+  date: 2019-06-13
+  tier: 2
+  outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+- url: https://www.nbcnews.com/politics/white-house/government-watchdog-calls-kellyanne-conway-be-removed-office-violating-hatch-n1017241
+  title: Government watchdog calls for Kellyanne Conway to be removed from office for violating the Hatch Act
+  date: 2019-06-13
+  tier: 1
+  outlet: NBC News
 ---
 
 The U.S. Office of Special Counsel issued an extraordinary recommendation that White House Counselor Kellyanne Conway be removed from federal service for repeated Hatch Act violations, calling her conduct "egregious, notorious, and ongoing." Special Counsel Henry Kerner, himself a Trump appointee, stated the recommendation was "unprecedented" for a political appointee of Conway's stature, documenting dozens of violations where Conway used her official position to disparage Democratic presidential candidates during television interviews and on social media despite previous warnings.

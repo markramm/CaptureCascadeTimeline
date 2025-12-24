@@ -16,7 +16,7 @@ sources:
   title: Ring and its surveillance cameras have partnered with over 400 police departments
   url: https://www.cnn.com/2019/08/29/us/ring-cameras-police/index.html
 - date: '2019-08-28'
-  outlet: Washington Post
+  outlet: The Washington Post
   tier: 1
   title: Ring, the doorbell-camera firm, has partnered with 400 police forces, extending surveillance reach
   url: https://www.washingtonpost.com/technology/2019/08/28/doorbell-camera-firm-ring-has-partnered-with-police-forces-extending-surveillance-reach/

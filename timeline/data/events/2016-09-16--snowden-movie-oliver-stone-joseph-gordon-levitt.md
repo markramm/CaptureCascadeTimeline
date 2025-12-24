@@ -15,20 +15,20 @@ actors:
 - Edward Snowden
 sources:
 - url: https://www.npr.org/2016/09/16/494199388/movie-review-oliver-stones-snowden
-  title: "Movie Review: Oliver Stone's 'Snowden'"
-  publisher: NPR
+  title: 'Movie Review: Oliver Stone''s ''Snowden'''
   date: '2016-09-16'
   tier: 1
+  outlet: NPR
 - url: https://www.washingtonpost.com/goingoutguide/movies/in-snowden-the-national-security-whistleblower-gets-the-oliver-stone-treatment/2016/09/15/8f2ebde4-78e9-11e6-ac8e-cf8e0dd91dc7_story.html
-  title: "In 'Snowden,' the national security whistleblower gets the Oliver Stone treatment"
-  publisher: The Washington Post
+  title: In 'Snowden,' the national security whistleblower gets the Oliver Stone treatment
   date: '2016-09-15'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.rogerebert.com/reviews/snowden-2016
-  title: "Snowden movie review & film summary (2016)"
-  publisher: Roger Ebert
+  title: Snowden movie review & film summary (2016)
   date: '2016-09-16'
   tier: 2
+  outlet: Roger Ebert
 status: confirmed
 ---
 

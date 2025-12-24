@@ -1,46 +1,46 @@
 ---
 id: 2015-09-16--insideclimate-news-launches-exxonknew-investigation
 date: '2015-09-16'
-title: InsideClimate News Launches #ExxonKnew Investigation Revealing Decades of Deception
+title: InsideClimate News Launches
 importance: 9
 tags:
-  - climate-denial
-  - investigative-journalism
-  - exxonknew
-  - corporate-fraud
-  - fossil-fuels
+- climate-denial
+- investigative-journalism
+- exxonknew
+- corporate-fraud
+- fossil-fuels
 actors:
-  - InsideClimate News
-  - ExxonMobil
-  - Los Angeles Times
-  - Columbia University
-  - James Black
+- InsideClimate News
+- ExxonMobil
+- Los Angeles Times
+- Columbia University
+- James Black
 sources:
-  - url: https://insideclimatenews.org/news/30122015/2015-exxon-mobil-climate-change-science-research-exxonknew-investigation-petition/
-    title: '2015: The Year We Found Out #ExxonKnew'
-    publisher: Inside Climate News
-    date: '2015-12-30'
-    tier: 1
-  - url: https://insideclimatenews.org/project/exxon-the-road-not-taken/
-    title: 'Exxon: The Road Not Taken'
-    publisher: Inside Climate News
-    date: '2015-09-16'
-    tier: 1
-  - url: https://awards.journalists.org/entries/exxon-road-not-taken/
-    title: Exxon - The Road Not Taken
-    publisher: Online Journalism Awards
-    date: '2016-01-01'
-    tier: 2
-  - url: https://climateintegrity.org/news/view/ten-years-since-the-world-learned-exxonknew-accountability-marches-forward
-    title: 'Ten years since the world learned #ExxonKnew, accountability marches forward'
-    publisher: Center for Climate Integrity
-    date: '2025-09-16'
-    tier: 1
+- url: https://insideclimatenews.org/news/30122015/2015-exxon-mobil-climate-change-science-research-exxonknew-investigation-petition/
+  title: '2015: The Year We Found Out #ExxonKnew'
+  date: '2015-12-30'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://insideclimatenews.org/project/exxon-the-road-not-taken/
+  title: 'Exxon: The Road Not Taken'
+  date: '2015-09-16'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://awards.journalists.org/entries/exxon-road-not-taken/
+  title: Exxon - The Road Not Taken
+  date: '2016-01-01'
+  tier: 2
+  outlet: Online Journalism Awards
+- url: https://climateintegrity.org/news/view/ten-years-since-the-world-learned-exxonknew-accountability-marches-forward
+  title: 'Ten years since the world learned #ExxonKnew, accountability marches forward'
+  date: '2025-09-16'
+  tier: 1
+  outlet: Center for Climate Integrity
 status: confirmed
 capture_lanes:
-  - Corporate Research Suppression
-  - Media Capture & Control
-  - Investigative Journalism
+- Corporate Research Suppression
+- Media Capture & Control
+- Investigative Journalism
 ---
 
 On September 16, 2015, InsideClimate News began publishing an eight-month investigation revealing that Exxon's own scientists warned executives as early as 1977 that burning fossil fuels was heating the planet, yet the company then worked at the forefront of climate denial for decades. The nine-part investigative series "Exxon: The Road Not Taken" exposed how Exxon conducted cutting-edge climate research in the 1970s-80s, confirming human-caused global warming, then systematically funded campaigns to manufacture doubt about the scientific consensus its own scientists had confirmed.

@@ -15,20 +15,20 @@ actors:
 - Edward Snowden
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2014/01/16/263130142/nsa-reportedly-collected-millions-of-phone-texts-every-day
-  title: "NSA Reportedly Collected Millions Of Phone Texts Every Day"
-  publisher: NPR
+  title: NSA Reportedly Collected Millions Of Phone Texts Every Day
   date: '2014-01-16'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/tech/tech-news/hundreds-millions-texts-snooped-daily-nsa-latest-leak-flna2D11943973
-  title: "Hundreds of millions of texts snooped daily by NSA: Latest leak"
-  publisher: NBC News
+  title: 'Hundreds of millions of texts snooped daily by NSA: Latest leak'
   date: '2014-01-16'
   tier: 2
+  outlet: NBC News
 - url: https://www.theregister.com/2014/01/16/snowden_leak_shows_nsa_collects_tiny_fraction_of_sms_messages
-  title: "NSA: It's TRUE, we grab 200 MILLION of your text messages A DAY globally"
-  publisher: The Register
+  title: 'NSA: It''s TRUE, we grab 200 MILLION of your text messages A DAY globally'
   date: '2014-01-16'
   tier: 2
+  outlet: The Register
 status: confirmed
 ---
 

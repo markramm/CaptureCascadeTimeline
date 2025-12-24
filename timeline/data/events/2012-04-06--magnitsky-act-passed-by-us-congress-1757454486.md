@@ -7,11 +7,10 @@ actors:
 - Bill Browder
 - Benjamin Cardin
 - John McCain
-- US Congress
+- U.S. Congress
 sources:
 - outlet: Congress.gov
-  title: 'Human Rights and Anti-Corruption Sanctions: The Global Magnitsky Human Rights
-    Accountability Act'
+  title: 'Human Rights and Anti-Corruption Sanctions: The Global Magnitsky Human Rights Accountability Act'
   url: https://www.congress.gov/crs-product/IF10576
 - outlet: Human Rights First
   title: U.S. Global Magnitsky Sanctions

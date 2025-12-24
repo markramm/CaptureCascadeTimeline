@@ -16,18 +16,18 @@ actors:
 sources:
 - url: https://fortune.com/2016/06/06/military-contractor-blackwater-for-sale/
   title: Military Contractor Formerly Known As Blackwater May Be for Sale for up to $1 Billion
-  publisher: Fortune
   date: '2016-06-06'
   tier: 2
+  outlet: Fortune
 - url: https://en.wikipedia.org/wiki/Blackwater_(company)
   title: Blackwater (company)
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 - url: https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/
   title: The Evolution of Blackwater - From Controversy to Constellis Holdings
-  publisher: Ryan J. Hite
   date: '2024-05-25'
   tier: 3
+  outlet: Ryan J. Hite
 status: confirmed
 ---
 

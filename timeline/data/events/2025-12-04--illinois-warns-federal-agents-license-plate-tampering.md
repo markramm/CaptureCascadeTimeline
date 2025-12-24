@@ -13,13 +13,13 @@ actors:
 - Illinois Secretary of State
 tags:
 - immigration
-- ICE
+- ice
 - law-enforcement
 - state-authority
 - license-plates
 - vehicle-laws
-- Illinois
-- Chicago
+- illinois
+- chicago
 - federal-overreach
 - impersonation
 capture_lanes:

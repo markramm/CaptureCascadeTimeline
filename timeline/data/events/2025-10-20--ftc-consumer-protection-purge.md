@@ -12,13 +12,13 @@ actors:
 - FTC
 - Lina Khan
 - Trump Appointees
-- tech companies
+- Tech companies
 sources:
 - url: https://www.wired.com/story/ftc-deletes-consumer-protection-ai-guidance/
   title: FTC Erases Consumer Protection Guidance on AI
-  publisher: WIRED
   date: '2025-10-20'
   tier: 2
+  outlet: WIRED
 status: confirmed
 ---
 

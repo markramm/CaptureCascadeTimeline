@@ -6,7 +6,7 @@ title: Kellyanne Conway Commits 50+ Hatch Act Violations, No Consequences
 actors:
 - Kellyanne Conway
 - Donald Trump
-- Office of Special Counsel
+- Office of Special Counsel (OSC)
 - White House
 - Ivanka Trump
 - Jared Kushner
@@ -28,7 +28,7 @@ sources:
   date: '2019-06-13'
 - title: Trump officials who violated the Hatch Act
   url: https://www.washingtonpost.com/politics/2020/08/27/trumps-hatch-act-violations/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2020-08-27'
 capture_lanes:
 - Regulatory Capture

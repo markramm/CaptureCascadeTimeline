@@ -4,33 +4,33 @@ date: 2016-11-30
 title: Amazon launches Rekognition facial recognition service, targeting law enforcement
 importance: 8
 actors:
-  - Amazon
-  - AWS
-  - Andy Jassy
+- Amazon
+- AWS
+- Andy Jassy
 tags:
-  - surveillance
-  - facial-recognition
-  - amazon
-  - rekognition
-  - law-enforcement
-  - ai
-  - privacy
+- surveillance
+- facial-recognition
+- amazon
+- rekognition
+- law-enforcement
+- ai
+- privacy
 sources:
-  - url: https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-rekognition/
-    title: Introducing Amazon Rekognition
-    publisher: Amazon Web Services
-    date: 2016-11-30
-    tier: 1
-  - url: https://techcrunch.com/2016/11/30/amazon-launches-amazon-ai-to-bring-its-machine-learning-smarts-to-developers/
-    title: Amazon launches Amazon AI to bring its machine learning smarts to developers
-    publisher: TechCrunch
-    date: 2016-11-30
-    tier: 2
-  - url: https://www.aclu.org/news/privacy-technology/amazon-teams-government-deploy-dangerous-new
-    title: Amazon Teams Up With Government to Deploy Dangerous New Facial Recognition Technology
-    publisher: ACLU
-    date: 2018-05-22
-    tier: 1
+- url: https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-rekognition/
+  title: Introducing Amazon Rekognition
+  date: 2016-11-30
+  tier: 1
+  outlet: Amazon Web Services
+- url: https://techcrunch.com/2016/11/30/amazon-launches-amazon-ai-to-bring-its-machine-learning-smarts-to-developers/
+  title: Amazon launches Amazon AI to bring its machine learning smarts to developers
+  date: 2016-11-30
+  tier: 2
+  outlet: TechCrunch
+- url: https://www.aclu.org/news/privacy-technology/amazon-teams-government-deploy-dangerous-new
+  title: Amazon Teams Up With Government to Deploy Dangerous New Facial Recognition Technology
+  date: 2018-05-22
+  tier: 1
+  outlet: ACLU
 status: confirmed
 ---
 

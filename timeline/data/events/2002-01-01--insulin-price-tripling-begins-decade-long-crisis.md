@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8249113/
   title: Insulin insulated - barriers to competition and affordability in the United States insulin market
-  publisher: National Center for Biotechnology Information
   date: '2021-06-01'
   tier: 1
+  outlet: National Center for Biotechnology Information
 - url: https://www.congress.gov/event/116th-congress/house-event/109299
   title: Priced Out of a Lifesaving Drug - Getting Answers on the Rising Cost of Insulin
-  publisher: US House of Representatives
   date: '2019-04-10'
   tier: 1
+  outlet: US House of Representatives
 - url: https://www.advisory.com/daily-briefing/2018/11/07/insulin-prices
   title: What drove the 300% rise in insulin prices (and how to reverse it)
-  publisher: Advisory Board
   date: '2018-11-07'
   tier: 2
+  outlet: Advisory Board
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9036473/
   title: Origins of the Crisis in Insulin Affordability and Practical Advice for Clinicians on Using Human Insulin
-  publisher: National Center for Biotechnology Information
   date: '2022-04-01'
   tier: 1
+  outlet: National Center for Biotechnology Information
 actors:
 - Eli Lilly
 - Novo Nordisk

@@ -1,7 +1,7 @@
 ---
 id: 1962-01-17--executive-order-10988-federal-workers-collective-bargaining-rights
 date: '1962-01-17'
-title: 'Kennedy Executive Order 10988 Grants Federal Workers Collective Bargaining Rights'
+title: Kennedy Executive Order 10988 Grants Federal Workers Collective Bargaining Rights
 importance: 8
 actors:
 - John F. Kennedy
@@ -13,22 +13,22 @@ tags:
 - public-sector-unions
 - executive-order
 - collective-bargaining
-- AFSCME
-- Kennedy
+- afscme
+- kennedy
 sources:
-- title: 'Executive Order 10988 Wikipedia'
+- title: Executive Order 10988 Wikipedia
   url: https://en.wikipedia.org/wiki/Executive_Order_10988
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Profile of Union Workers in State and Local Government'
+- title: Profile of Union Workers in State and Local Government
   url: https://www.epi.org/publication/a-profile-of-union-workers-in-state-and-local-government-key-facts-about-the-sector-for-followers-of-janus-v-afscme-council-31/
   outlet: Economic Policy Institute
   date: '2018-01-01'
   verified: true
   tier: 1
-- title: 'The Man Who Put Public-Employee Unions on the Map'
+- title: The Man Who Put Public-Employee Unions on the Map
   url: https://prospect.org/labor/man-put-public-employee-unions-map/
   outlet: The American Prospect
   date: '2018-01-01'

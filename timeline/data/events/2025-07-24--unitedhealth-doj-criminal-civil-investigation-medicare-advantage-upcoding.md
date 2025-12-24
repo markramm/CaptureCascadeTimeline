@@ -4,33 +4,33 @@ title: UnitedHealth Confirms DOJ Criminal and Civil Investigation for Medicare A
 date: '2025-07-24'
 importance: 9
 actors:
-  - UnitedHealth Group
-  - UnitedHealthcare
-  - Department of Justice
-  - Centers for Medicare & Medicaid Services
+- UnitedHealth Group
+- UnitedHealthcare
+- Department of Justice
+- Centers for Medicare & Medicaid Services
 tags:
-  - healthcare
-  - medicare-advantage
-  - insurance-fraud
-  - regulatory-capture
-  - systematic-corruption
+- healthcare
+- medicare-advantage
+- insurance-fraud
+- regulatory-capture
+- systematic-corruption
 status: confirmed
 sources:
-  - title: UnitedHealth confirms federal investigation into its Medicare practices
-    url: https://www.cnn.com/2025/07/24/business/unitedhealth-investigation-doj
-    publisher: CNN
-    date: '2025-07-24'
-    tier: 1
-  - title: UnitedHealth facing DOJ investigation over Medicare billing
-    url: https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html
-    publisher: CNBC
-    date: '2025-07-24'
-    tier: 1
-  - title: DOJ's UnitedHealth investigation likely biggest Medicare Advantage fraud probe yet
-    url: https://www.startribune.com/dojs-unitedhealth-investigation-likely-biggest-medicare-advantage-fraud-probe-yet/601442980
-    publisher: Star Tribune
-    date: '2025-07-24'
-    tier: 2
+- title: UnitedHealth confirms federal investigation into its Medicare practices
+  url: https://www.cnn.com/2025/07/24/business/unitedhealth-investigation-doj
+  date: '2025-07-24'
+  tier: 1
+  outlet: CNN
+- title: UnitedHealth facing DOJ investigation over Medicare billing
+  url: https://www.cnbc.com/2025/07/24/unitedhealthcare-doj-investigation-medicare-billing.html
+  date: '2025-07-24'
+  tier: 1
+  outlet: CNBC
+- title: DOJ's UnitedHealth investigation likely biggest Medicare Advantage fraud probe yet
+  url: https://www.startribune.com/dojs-unitedhealth-investigation-likely-biggest-medicare-advantage-fraud-probe-yet/601442980
+  date: '2025-07-24'
+  tier: 2
+  outlet: Star Tribune
 ---
 
 On July 24, 2025, UnitedHealth Group confirmed in an SEC filing that the Department of Justice has launched both criminal and civil investigations into the company's Medicare Advantage billing practices, focusing on systematic upcoding fraud that may have generated billions in government overpayments. This represents the largest Medicare Advantage fraud investigation in history, targeting the nation's largest health insurer for allegedly manipulating diagnosis codes to inflate patient risk scores and extract higher federal reimbursements.

@@ -9,24 +9,18 @@ id: 2025-08-11--dc-guard-prep
 location: Washington, DC
 actors:
 - Donald Trump
-- DC National Guard
+- D.C. National Guard
 - West Virginia National Guard
 - South Carolina National Guard
 - Ohio National Guard
-notes: '100-200 soldiers supporting law enforcement at any given time. Guard providing
-  admin, logistical, physical support. Assisting with crowd control at landmarks.
-  Initial statement: unarmed at local law enforcement request. Saturday reversal:
-  may be armed, won''t make arrests. Unprecedented multi-state Guard deployment for
-  DC law enforcement.'
+notes: '100-200 soldiers supporting law enforcement at any given time. Guard providing admin, logistical, physical support. Assisting with crowd control at landmarks. Initial statement: unarmed at local law enforcement request. Saturday reversal: may be armed, won''t make arrests. Unprecedented multi-state Guard deployment for DC law enforcement.'
 status: confirmed
 sources:
-- title: Trump announces federal takeover of DC police and mobilization of National
-    Guard
+- title: Trump announces federal takeover of DC police and mobilization of National Guard
   url: https://www.cnn.com/politics/live-news/trump-presidency-dc-crime-08-11-25
   outlet: CNN
   date: '2025-08-11'
-- title: Three Republican-led states to send hundreds of National Guard troops to
-    Washington
+- title: Three Republican-led states to send hundreds of National Guard troops to Washington
   url: https://www.npr.org/2025/08/17/nx-s1-5505271/three-republican-led-states-to-send-hundreds-of-national-guard-troops-to-washington
   outlet: NPR
   date: '2025-08-17'
@@ -34,8 +28,7 @@ sources:
   url: https://www.cbsnews.com/news/west-virginia-to-deploy-hundreds-of-national-guard-troops-to-d-c/
   outlet: CBS News
   date: '2025-08-16'
-- title: National Guard Mobilizes 800 Troops in D.C. to Support Federal, Local Law
-    Enforcement
+- title: National Guard Mobilizes 800 Troops in D.C. to Support Federal, Local Law Enforcement
   url: https://www.defense.gov/News/News-Stories/Article/Article/4275149/national-guard-mobilizes-800-troops-in-dc-to-support-federal-local-law-enforcem/
   outlet: Defense.gov
   date: '2025-08-11'

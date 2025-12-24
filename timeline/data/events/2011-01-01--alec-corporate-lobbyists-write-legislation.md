@@ -12,21 +12,21 @@ tags:
 sources:
 - url: https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/
   title: ALEC's Influence over Lawmaking in State Legislatures
-  publisher: Brookings Institution
   date: '2019-12-06'
   tier: 1
+  outlet: Brookings Institution
 - url: https://www.commoncause.org/issues/alec/
   title: ALEC
-  publisher: Common Cause
   date: '2024-01-01'
   tier: 2
+  outlet: Common Cause
 - url: https://www.alecexposed.org/wiki/ALEC_Exposed
   title: ALEC Exposed
-  publisher: Center for Media and Democracy
   date: '2024-01-01'
   tier: 2
+  outlet: Center for Media and Democracy
 actors:
-- American Legislative Exchange Council
+- American Legislative Exchange Council (ALEC)
 - State Legislatures
 - Koch Industries
 - ExxonMobil

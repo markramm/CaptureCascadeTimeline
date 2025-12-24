@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://publicintegrity.org/politics/flouting-the-rule-on-lobbyist-paid-travel/
   title: Flouting the rule on lobbyist-paid travel
-  publisher: Center for Public Integrity
   date: '2005-06-30'
   tier: 1
+  outlet: Center for Public Integrity
 - url: https://publicintegrity.org/federal-politics/so-much-travel-in-so-little-time/
   title: So much travel in so little time
-  publisher: Center for Public Integrity
   date: '2006-03-01'
   tier: 1
+  outlet: Center for Public Integrity
 - url: https://www.cnbc.com/id/100972702
   title: Return of the junket - Lawmakers trot globe on lobbyists' tab
-  publisher: CNBC
   date: '2013-08-23'
   tier: 1
+  outlet: CNBC
 actors:
 - Tom DeLay
 - Jack Abramoff

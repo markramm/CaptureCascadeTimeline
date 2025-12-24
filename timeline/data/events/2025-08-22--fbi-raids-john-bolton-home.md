@@ -13,7 +13,7 @@ actors:
 - Kash Patel
 - John Ratcliffe
 - FBI
-- JD Vance
+- J.D. Vance
 tags:
 - political-retaliation
 - classified-documents
@@ -28,18 +28,16 @@ tags:
 sources:
 - date: '2025-08-22'
   outlet: NBC News
-  title: FBI searches former national security adviser John Bolton's home in a probe
-    to find classified records
+  title: FBI searches former national security adviser John Bolton's home in a probe to find classified records
   url: https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503
   archive_url: https://web.archive.org/web/20250822000000/https://www.nbcnews.com/politics/politics-news/fbi-raids-former-national-security-adviser-john-boltons-home-probe-fin-rcna226503
 - date: '2025-08-22'
   outlet: CNN
-  title: FBI conducts search at John Bolton's home as part of resumed national security
-    investigation
+  title: FBI conducts search at John Bolton's home as part of resumed national security investigation
   url: https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search
   archive_url: https://web.archive.org/web/20250822000000/https://www.cnn.com/2025/08/22/politics/john-bolton-fbi-search
 - date: '2025-08-22'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: FBI raids home of former Trump national security adviser John Bolton
   url: https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/
   archive_url: https://web.archive.org/web/20250822000000/https://www.washingtonpost.com/national-security/2025/08/22/bolton-home-fbi-search-trump/

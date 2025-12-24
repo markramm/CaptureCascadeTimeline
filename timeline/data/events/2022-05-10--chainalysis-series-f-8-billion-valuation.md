@@ -4,30 +4,30 @@ date: 2022-05-10
 title: Chainalysis Raises $170 Million at $8.6 Billion Valuation in Series F
 importance: 8
 tags:
-  - surveillance
-  - cryptocurrency
-  - private-sector
-  - venture-capital
+- surveillance
+- cryptocurrency
+- private-sector
+- venture-capital
 actors:
-  - Chainalysis
-  - GIC
-  - Singapore
+- Chainalysis
+- GIC
+- Singapore
 sources:
-  - url: https://www.prnewswire.com/news-releases/chainalysis-doubles-private-sector-business-and-raises-new-funding-to-double-its-valuation-to-8-6-billion-301545867.html
-    title: Chainalysis Doubles Private Sector Business and Raises New Funding
-    publisher: PR Newswire
-    date: 2022-05-10
-    tier: 2
-  - url: https://techcrunch.com/2022/05/10/crypto-forensics-startup-chainalysis-raises-170m-at-8-6b-valuation/
-    title: Crypto forensics startup Chainalysis raises $170M at $8.6B valuation
-    publisher: TechCrunch
-    date: 2022-05-10
-    tier: 2
-  - url: https://www.coindesk.com/business/2022/05/12/chainalysis-raises-170m-at-86b-valuation
-    title: Chainalysis Raises $170M at $8.6B Valuation
-    publisher: CoinDesk
-    date: 2022-05-12
-    tier: 1
+- url: https://www.prnewswire.com/news-releases/chainalysis-doubles-private-sector-business-and-raises-new-funding-to-double-its-valuation-to-8-6-billion-301545867.html
+  title: Chainalysis Doubles Private Sector Business and Raises New Funding
+  date: 2022-05-10
+  tier: 2
+  outlet: PR Newswire
+- url: https://techcrunch.com/2022/05/10/crypto-forensics-startup-chainalysis-raises-170m-at-8-6b-valuation/
+  title: Crypto forensics startup Chainalysis raises $170M at $8.6B valuation
+  date: 2022-05-10
+  tier: 2
+  outlet: TechCrunch
+- url: https://www.coindesk.com/business/2022/05/12/chainalysis-raises-170m-at-86b-valuation
+  title: Chainalysis Raises $170M at $8.6B Valuation
+  date: 2022-05-12
+  tier: 1
+  outlet: CoinDesk
 ---
 
 Chainalysis announces a $170 million Series F financing led by GIC, Singapore's sovereign wealth fund, bringing its valuation to $8.6 billion and cementing the company's position as the largest enterprise SaaS company in the cryptocurrency industry. The funding round represents another doubling of valuation in less than a year, growing from $4.2 billion in June 2021 to $8.6 billion.

@@ -12,14 +12,14 @@ actors:
 - U.S. Capitol Police
 - Barack Obama
 tags:
-- January-6
+- january-6
 - pardons
 - witness-intimidation
 - stalking
 - law-enforcement
 - parole-violation
-- Trump-pardons
-- Congressional-security
+- trump-pardons
+- congressional-security
 capture_lanes:
 - Rule of Law Erosion
 - January 6 Accountability Reversal

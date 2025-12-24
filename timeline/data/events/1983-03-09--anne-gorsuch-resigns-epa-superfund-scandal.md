@@ -8,7 +8,7 @@ actors:
 - Anne Gorsuch Burford
 - Ronald Reagan
 - Congress
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
 - Neil Gorsuch
 tags:
 - epa
@@ -18,7 +18,7 @@ tags:
 - superfund
 - anne-gorsuch
 sources:
-- title: 'Anne Gorsuch Burford'
+- title: Anne Gorsuch Burford
   url: https://en.wikipedia.org/wiki/Anne_Gorsuch_Burford
   outlet: Wikipedia
   date: '2024-01-01'
@@ -28,12 +28,12 @@ sources:
   outlet: WESA (NPR)
   date: '2022-09-16'
   verified: true
-- title: 'Anne Gorsuch Burford, 62, Dies; Reagan EPA Director'
+- title: Anne Gorsuch Burford, 62, Dies; Reagan EPA Director
   url: http://www.washingtonpost.com/wp-dyn/articles/A3418-2004Jul21.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2004-07-22'
   verified: true
-- title: 'How Reagan EPA Chief Paved the Way for Trump Assault on Agency'
+- title: How Reagan EPA Chief Paved the Way for Trump Assault on Agency
   url: https://newrepublic.com/article/141471/reagans-epa-chief-paved-way-trumps-assault-agency
   outlet: The New Republic
   date: '2017-02-14'

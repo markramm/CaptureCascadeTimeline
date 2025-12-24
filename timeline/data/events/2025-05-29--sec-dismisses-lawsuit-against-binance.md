@@ -2,9 +2,7 @@
 id: 2025-05-29--sec-dismisses-lawsuit-against-binance
 date: '2025-05-29'
 title: SEC dismisses lawsuit against Binance
-description: The SEC dismissed its lawsuit against Binance after the crypto exchange
-  platform accepted $2 billion worth of Trump's USD1 stablecoin in a transaction with
-  state-backed Emirati investment firm MGX
+description: The SEC dismissed its lawsuit against Binance after the crypto exchange platform accepted $2 billion worth of Trump's USD1 stablecoin in a transaction with state-backed Emirati investment firm MGX
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -20,15 +18,13 @@ capture_type: regulatory_capture
 sources:
 - title: SEC dismisses lawsuit against Binance
   url: https://www.wsj.com/finance/currencies/sec-dismisses-lawsuit-against-binance-cce1dcae?mod=hp_listb_pos3
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-05-29'
-- title: SEC drops Binance lawsuit, ending one of last remaining crypto enforcement
-    actions
+- title: SEC drops Binance lawsuit, ending one of last remaining crypto enforcement actions
   url: https://www.cnbc.com/2025/05/29/sec-drops-binance-lawsuit-ending-one-of-last-remaining-crypto-actions.html
   outlet: CNBC
   date: '2025-05-29'
-- title: SEC Files to Dismiss Regulator's Long-Running Lawsuit Against Binance, CZ,
-    Binance.US
+- title: SEC Files to Dismiss Regulator's Long-Running Lawsuit Against Binance, CZ, Binance.US
   url: https://www.coindesk.com/policy/2025/05/29/sec-files-to-dismiss-regulators-long-running-lawsuit-against-binance
   outlet: CoinDesk
   date: '2025-05-29'

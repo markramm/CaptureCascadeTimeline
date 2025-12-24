@@ -1,8 +1,7 @@
 ---
 id: 2017-05-15--fcc-launches-fake-comments-investigation-net-neutrality
 date: '2017-05-15'
-title: FCC Begins Investigation into Massive Fake Comments Campaign on Net Neutrality
-  Repeal
+title: FCC Begins Investigation into Massive Fake Comments Campaign on Net Neutrality Repeal
 importance: 9
 tags:
 - digital-democracy
@@ -12,7 +11,7 @@ tags:
 - technology-policy
 actors:
 - Ajit Pai
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - New York Attorney General's Office
 sources:
 - title: 'NPR: Millions of Fake Comments Found in Net Neutrality Vote'

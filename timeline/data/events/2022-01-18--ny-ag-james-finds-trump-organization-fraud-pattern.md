@@ -4,40 +4,40 @@ date: '2022-01-18'
 title: NY Attorney General James Files Motion Revealing Evidence of Trump Organization Fraud
 importance: 9
 tags:
-  - Financial Fraud
-  - NY Attorney General
-  - Trump Organization
-  - Asset Valuation Fraud
-  - Letitia James
+- financial fraud
+- ny attorney general
+- trump organization
+- asset valuation fraud
+- letitia james
 actors:
-  - Letitia James
-  - Donald Trump
-  - Ivanka Trump
-  - Donald Trump Jr.
-  - Eric Trump
-  - Allen Weisselberg
-  - Trump Organization
+- Letitia James
+- Donald Trump
+- Ivanka Trump
+- Donald Trump Jr.
+- Eric Trump
+- Allen Weisselberg
+- Trump Organization
 sources:
-  - url: https://ag.ny.gov/press-release/2022/attorney-general-james-sues-donald-trump-years-financial-fraud
-    title: Attorney General James Sues Donald Trump for Years of Financial Fraud
-    publisher: New York Attorney General's Office
-    date: '2022-09-21'
-    tier: 1
-  - url: https://abcnews.go.com/US/york-ag-letitia-james-files-250m-lawsuit-trump/story?id=90240332
-    title: NY AG Letitia James files $250M lawsuit against Trump for defrauding lenders
-    publisher: ABC News
-    date: '2022-09-21'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/ny-fraud-case-damages-pay-millions-judge-engoron-rcna135283
-    title: Judge fines Donald Trump more than $350 million
-    publisher: NBC News
-    date: '2024-02-16'
-    tier: 1
-  - url: https://www.wptv.com/news/political/mar-a-lago-overvalued-by-664-million-business-fraud-lawsuit-against-former-president-donald-trump-claims
-    title: Mar-a-Lago overvalued by $664 million, lawsuit claims
-    publisher: WPTV
-    date: '2022-09-21'
-    tier: 2
+- url: https://ag.ny.gov/press-release/2022/attorney-general-james-sues-donald-trump-years-financial-fraud
+  title: Attorney General James Sues Donald Trump for Years of Financial Fraud
+  date: '2022-09-21'
+  tier: 1
+  outlet: New York Attorney General's Office
+- url: https://abcnews.go.com/US/york-ag-letitia-james-files-250m-lawsuit-trump/story?id=90240332
+  title: NY AG Letitia James files $250M lawsuit against Trump for defrauding lenders
+  date: '2022-09-21'
+  tier: 1
+  outlet: ABC News
+- url: https://www.nbcnews.com/politics/donald-trump/ny-fraud-case-damages-pay-millions-judge-engoron-rcna135283
+  title: Judge fines Donald Trump more than $350 million
+  date: '2024-02-16'
+  tier: 1
+  outlet: NBC News
+- url: https://www.wptv.com/news/political/mar-a-lago-overvalued-by-664-million-business-fraud-lawsuit-against-former-president-donald-trump-claims
+  title: Mar-a-Lago overvalued by $664 million, lawsuit claims
+  date: '2022-09-21'
+  tier: 2
+  outlet: WPTV
 status: confirmed
 ---
 

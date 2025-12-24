@@ -19,24 +19,24 @@ tags:
 sources:
 - title: Bush Acknowledges Secret CIA Prisons
   url: https://www.npr.org/templates/story/story.php?storyId=5782487
-  publisher: NPR
   date: '2006-09-06'
   tier: 1
+  outlet: NPR
 - title: President Bush's Speech on Terrorism
   url: https://www.washingtonpost.com/wp-dyn/content/article/2006/09/06/AR2006090600437.html
-  publisher: Washington Post
   date: '2006-09-06'
   tier: 1
+  outlet: The Washington Post
 - title: CIA Black Sites
   url: https://en.wikipedia.org/wiki/CIA_black_sites
-  publisher: Wikipedia (sourced from presidential speech)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from presidential speech)
 - title: Bush Acknowledges Secret Prisons
   url: https://www.aclu.org/press-releases/president-bush-acknowledges-secret-prisons
-  publisher: ACLU
   date: '2006-09-06'
   tier: 1
+  outlet: ACLU
 ---
 
 President George W. Bush publicly acknowledges for the first time that the CIA has been operating secret prisons to hold and interrogate terrorism suspects, confirming what journalists and human rights organizations had been reporting for years. In a White House speech, Bush admits that "a small number of suspected terrorist leaders and operatives" have been held at secret CIA detention facilities where they were subjected to "an alternative set of procedures" that he claims were "safe, lawful, and effective." The admission comes as Bush announces the transfer of 14 "high-value detainees" from CIA custody to Guantanamo Bay, finally providing them with some legal protections after years of complete isolation.

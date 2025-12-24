@@ -5,14 +5,14 @@ title: Budget Chief Russell Vought Seizes Congressional Spending Authority
 importance: 10
 actors:
 - Russell Vought
-- Office of Management and Budget
+- Office of Management and Budget (OMB)
 - Congress
 sources:
 - title: Congress is losing its grip on the power to spend Americans' money
   url: https://www.washingtonpost.com/business/2025/10/13/congress-spending-power-vought-omb/
-  publisher: Washington Post
   date: '2025-10-13'
   tier: 1
+  outlet: The Washington Post
 tags:
 - institutional-capture
 - executive-overreach

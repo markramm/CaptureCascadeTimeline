@@ -4,42 +4,42 @@ date: '2006-05-18'
 title: Competitive Enterprise Institute Launches "CO2 is Life" Advertising Campaign
 importance: 8
 tags:
-  - climate-denial
-  - disinformation
-  - fossil-fuels
-  - public-manipulation
-  - media-influence
+- climate-denial
+- disinformation
+- fossil-fuels
+- public-manipulation
+- media-influence
 actors:
-  - Competitive Enterprise Institute
-  - Myron Ebell
-  - ExxonMobil
-  - Curt Davis
+- Competitive Enterprise Institute
+- Myron Ebell
+- ExxonMobil
+- Curt Davis
 sources:
-  - url: https://cei.org/content/cei-launches-ad-campaign-counter-global-warming-alarmism
-    title: CEI Launches Ad Campaign to Counter Global Warming Alarmism
-    publisher: Competitive Enterprise Institute
-    date: '2006-05-18'
-    tier: 2
-  - url: https://www.npr.org/templates/story/story.php?storyId=5425355
-    title: They Call It Pollution. We Call It Life.
-    publisher: NPR
-    date: '2006-05-23'
-    tier: 1
-  - url: https://grist.org/article/the-cei-ads/
-    title: The CEI ads
-    publisher: Grist
-    date: '2006-05-19'
-    tier: 2
-  - url: https://unearthed.greenpeace.org/2016/11/18/donald-trump-myron-ebell-cei-climate-change/
-    title: Watch the bizarre advert praising CO2 that Donald Trump's EPA transition head made
-    publisher: Greenpeace Unearthed
-    date: '2016-11-18'
-    tier: 2
+- url: https://cei.org/content/cei-launches-ad-campaign-counter-global-warming-alarmism
+  title: CEI Launches Ad Campaign to Counter Global Warming Alarmism
+  date: '2006-05-18'
+  tier: 2
+  outlet: Competitive Enterprise Institute
+- url: https://www.npr.org/templates/story/story.php?storyId=5425355
+  title: They Call It Pollution. We Call It Life.
+  date: '2006-05-23'
+  tier: 1
+  outlet: NPR
+- url: https://grist.org/article/the-cei-ads/
+  title: The CEI ads
+  date: '2006-05-19'
+  tier: 2
+  outlet: Grist
+- url: https://unearthed.greenpeace.org/2016/11/18/donald-trump-myron-ebell-cei-climate-change/
+  title: Watch the bizarre advert praising CO2 that Donald Trump's EPA transition head made
+  date: '2016-11-18'
+  tier: 2
+  outlet: Greenpeace Unearthed
 status: confirmed
 capture_lanes:
-  - Media Capture & Control
-  - Information Warfare
-  - Public Opinion Manipulation
+- Media Capture & Control
+- Information Warfare
+- Public Opinion Manipulation
 ---
 
 The Competitive Enterprise Institute (CEI) launched a national television advertising campaign on May 18, 2006, featuring two 60-second spots promoting carbon dioxide as beneficial and dismissing climate change concerns. The ads aired in 14 U.S. cities from May 18-28, 2006, strategically timed to counter Al Gore's documentary "An Inconvenient Truth." The campaign's tagline—"They call it pollution. We call it life"—represented one of the most brazen examples of fossil fuel industry-funded climate disinformation reaching mass audiences.

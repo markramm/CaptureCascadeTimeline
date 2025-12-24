@@ -1,7 +1,7 @@
 ---
 id: 2016-07-27--trump-russia-if-youre-listening-gru-hacks-same-day
 date: '2016-07-27'
-title: 'Trump Publicly Calls on Russia to Hack Clinton Emails, GRU Begins Targeting Clinton Servers Same Day'
+title: Trump Publicly Calls on Russia to Hack Clinton Emails, GRU Begins Targeting Clinton Servers Same Day
 importance: 10
 tags:
 - trump
@@ -19,26 +19,26 @@ actors:
 - Hillary Clinton
 - Robert Mueller
 sources:
-- title: 'Donald Trump Asks Russia to Find Hillary Clinton''s Emails'
+- title: Donald Trump Asks Russia to Find Hillary Clinton's Emails
   url: https://www.c-span.org/clip/campaign-2016/donald-trump-asks-russia-to-find-hillary-clintons-emails/4615538
-  publisher: C-SPAN
   date: '2016-07-27'
   tier: 1
-- title: 'Russians Tried to Hack Hillary Clinton Campaign on Same Day Donald Trump Told Them to Do So'
+  outlet: C-SPAN
+- title: Russians Tried to Hack Hillary Clinton Campaign on Same Day Donald Trump Told Them to Do So
   url: https://www.newsweek.com/donald-trump-russia-hillary-clinton-1024161
-  publisher: Newsweek
   date: '2018-07-13'
   tier: 2
-- title: 'Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses'
+  outlet: Newsweek
+- title: Grand Jury Indicts 12 Russian Intelligence Officers for Hacking Offenses
   url: https://www.justice.gov/archives/opa/pr/grand-jury-indicts-12-russian-intelligence-officers-hacking-offenses-related-2016-election
-  publisher: US Department of Justice
   date: '2018-07-13'
   tier: 1
-- title: '5 key takeaways from the latest indictment in Mueller''s Russia probe'
+  outlet: US Department of Justice
+- title: 5 key takeaways from the latest indictment in Mueller's Russia probe
   url: https://www.cnbc.com/2018/07/13/5-key-takeaways-from-mueller-indictment-of-russian-election-hackers.html
-  publisher: CNBC
   date: '2018-07-13'
   tier: 2
+  outlet: CNBC
 status: confirmed
 ---
 

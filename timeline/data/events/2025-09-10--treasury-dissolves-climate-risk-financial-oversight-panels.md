@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.reuters.com/sustainability/climate-energy/treasury-bessent-dissolves-climate-risk-panels-fsoc-2025-09-10/
   title: Treasury Dismantles Climate Risk Financial Oversight Panels
-  publisher: Reuters
   date: '2025-09-10'
   tier: 1
+  outlet: Reuters
 actors:
 - Scott Bessent
 - Treasury Department

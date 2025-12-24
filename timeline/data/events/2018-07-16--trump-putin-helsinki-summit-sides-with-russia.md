@@ -4,38 +4,38 @@ date: 2018-07-16
 title: Trump Sides with Putin Over U.S. Intelligence at Helsinki Summit, Attacks Own Agencies
 importance: 10
 tags:
-  - russia
-  - trump
-  - intelligence-agencies
-  - election-interference
-  - helsinki
+- russia
+- trump
+- intelligence-agencies
+- election-interference
+- helsinki
 actors:
-  - Donald Trump
-  - Vladimir Putin
-  - Dan Coats
-  - John Brennan
-  - John McCain
+- Donald Trump
+- Vladimir Putin
+- Dan Coats
+- John Brennan
+- John McCain
 sources:
-  - url: https://www.npr.org/2018/07/16/629462401/transcript-president-trump-and-russian-president-putins-joint-press-conference
-    title: "Transcript: President Trump And Russian President Putin's Joint Press Conference"
-    publisher: NPR
-    date: 2018-07-16
-    tier: 1
-  - url: https://www.npr.org/2018/07/17/629601233/trumps-helsinki-bow-to-putin-leaves-world-wondering-whats-up
-    title: "Trump's Helsinki Bow To Putin Leaves World Wondering: Why?"
-    publisher: NPR
-    date: 2018-07-17
-    tier: 1
-  - url: https://www.npr.org/2018/07/16/629554155/disgraceful-pushover-deeply-troubled-reaction-to-the-trump-putin-summit
-    title: "'Disgraceful,' 'Pushover,' 'Deeply Troubled': Reaction To The Trump-Putin Summit"
-    publisher: NPR
-    date: 2018-07-16
-    tier: 1
-  - url: https://time.com/5339932/john-mccain-statement-trump-putin-meeting/
-    title: "John McCain Slams Trump for 'Disgraceful Performance' at Putin Meeting"
-    publisher: TIME
-    date: 2018-07-16
-    tier: 2
+- url: https://www.npr.org/2018/07/16/629462401/transcript-president-trump-and-russian-president-putins-joint-press-conference
+  title: 'Transcript: President Trump And Russian President Putin''s Joint Press Conference'
+  date: 2018-07-16
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/2018/07/17/629601233/trumps-helsinki-bow-to-putin-leaves-world-wondering-whats-up
+  title: 'Trump''s Helsinki Bow To Putin Leaves World Wondering: Why?'
+  date: 2018-07-17
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/2018/07/16/629554155/disgraceful-pushover-deeply-troubled-reaction-to-the-trump-putin-summit
+  title: '''Disgraceful,'' ''Pushover,'' ''Deeply Troubled'': Reaction To The Trump-Putin Summit'
+  date: 2018-07-16
+  tier: 1
+  outlet: NPR
+- url: https://time.com/5339932/john-mccain-statement-trump-putin-meeting/
+  title: John McCain Slams Trump for 'Disgraceful Performance' at Putin Meeting
+  date: 2018-07-16
+  tier: 2
+  outlet: TIME
 ---
 
 In one of the most shocking moments in modern American presidential history, President Donald Trump publicly sided with Russian President Vladimir Putin over his own intelligence agencies during a joint press conference in Helsinki, Finland. Standing next to Putin before a global audience, Trump refused to affirm that Russia interfered in the 2016 U.S. presidential election, directly contradicting the unanimous assessment of the U.S. intelligence community.

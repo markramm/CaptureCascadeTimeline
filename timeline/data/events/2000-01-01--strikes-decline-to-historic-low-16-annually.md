@@ -1,7 +1,7 @@
 ---
 id: 2000-01-01--strikes-decline-to-historic-low-16-annually
 date: '2000-01-01'
-title: 'Major Strikes Collapse to 16 Annually, Down 95% from Pre-PATCO Era'
+title: Major Strikes Collapse to 16 Annually, Down 95% from Pre-PATCO Era
 importance: 8
 actors:
 - American workers
@@ -11,16 +11,16 @@ tags:
 - labor-suppression
 - strikes
 - decline
-- PATCO-legacy
+- patco-legacy
 - permanent-replacement
 sources:
-- title: 'The 1981 PATCO Strike'
+- title: The 1981 PATCO Strike
   url: https://libraries.uta.edu/news/1981-patco-strike
   outlet: UTA Libraries
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'The Return of the Strike'
+- title: The Return of the Strike
   url: https://prospect.org/article/return-strike
   outlet: The American Prospect
   date: '2024-01-01'

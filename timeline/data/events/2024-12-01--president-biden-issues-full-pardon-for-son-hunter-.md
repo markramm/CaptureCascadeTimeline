@@ -2,8 +2,7 @@
 id: 2024-12-01--president-biden-issues-full-pardon-for-son-hunter-
 date: '2024-12-01'
 importance: 8
-title: President Biden Issues Full Pardon for Son Hunter Despite Repeated Promises
-  Not To
+title: President Biden Issues Full Pardon for Son Hunter Despite Repeated Promises Not To
 actors:
 - Joe Biden
 - Hunter Biden
@@ -22,10 +21,9 @@ sources:
   date: '2024-12-01'
 - title: Joe Biden pardons his son Hunter Biden
   url: https://www.washingtonpost.com/politics/2024/12/01/hunter-biden-pardon/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2024-12-01'
-- title: Biden pardons his son Hunter on gun and tax charges despite previously saying
-    he wouldn't
+- title: Biden pardons his son Hunter on gun and tax charges despite previously saying he wouldn't
   url: https://www.pbs.org/newshour/politics/biden-pardons-his-son-hunter-on-gun-and-tax-charges-despite-previously-saying-he-wouldnt
   outlet: PBS NewsHour
   date: '2024-12-01'

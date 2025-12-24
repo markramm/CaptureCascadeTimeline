@@ -1,13 +1,8 @@
 ---
 id: 2025-01-29--doj-moves-to-drop-charges-against-former-gop-lawmaker-in-cas
 date: '2025-01-29'
-title: DOJ moves to drop charges against former GOP lawmaker in case criticized by
-  Trump
-description: Federal prosecutors dismissed criminal charges against former Representative
-  Jeff Fortenberry (R-NE), who was accused of lying to federal agents about accepting
-  illegal campaign donations from a Nigerian billionaire. The dismissal came after
-  an appeals court overturned previous convictions and Trump publicly criticized the
-  prosecution.
+title: DOJ moves to drop charges against former GOP lawmaker in case criticized by Trump
+description: Federal prosecutors dismissed criminal charges against former Representative Jeff Fortenberry (R-NE), who was accused of lying to federal agents about accepting illegal campaign donations from a Nigerian billionaire. The dismissal came after an appeals court overturned previous convictions and Trump publicly criticized the prosecution.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -23,17 +18,15 @@ tags:
 - political-interference
 capture_type: monetizing_position
 sources:
-- title: DOJ moves to drop charges against former GOP lawmaker in case criticized
-    by Trump
+- title: DOJ moves to drop charges against former GOP lawmaker in case criticized by Trump
   url: https://www.politico.com/news/2025/01/29/jeff-fortenberry-dismiss-charges-00201274
-  outlet: POLITICO
+  outlet: Politico
   date: '2025-01-29'
 - title: Justice Department Drops Case Against Ex-Rep. Jeff Fortenberry
   url: https://rollcall.com/2025/01/29/justice-department-drops-case-against-ex-rep-jeff-fortenberry/
   outlet: Roll Call
   date: '2025-01-29'
-- title: Trump Justice Department Files to Drop Charges Against Former Nebraska U.S.
-    Rep. Jeff Fortenberry
+- title: Trump Justice Department Files to Drop Charges Against Former Nebraska U.S. Rep. Jeff Fortenberry
   url: https://nebraskaexaminer.com/2025/01/29/trump-justice-department-files-to-drop-charges-against-former-nebraska-u-s-rep-jeff-fortenberry/
   outlet: Nebraska Examiner
   date: '2025-01-29'
@@ -43,8 +36,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - political-weaponization
-notes: Case demonstrates potential political manipulation of legal prosecution under
-  the Trump administration.
+notes: Case demonstrates potential political manipulation of legal prosecution under the Trump administration.
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

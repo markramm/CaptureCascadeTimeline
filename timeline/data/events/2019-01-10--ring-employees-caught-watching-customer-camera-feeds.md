@@ -4,39 +4,39 @@ date: 2019-01-10
 title: The Intercept reveals Ring employees in Ukraine had unfettered access to customer video feeds
 importance: 8
 actors:
-  - Ring
-  - Amazon
-  - Jeff Bezos
+- Ring
+- Amazon
+- Jeff Bezos
 tags:
-  - surveillance
-  - ring
-  - amazon
-  - privacy
-  - employee-misconduct
-  - ukraine
-  - doorbell-camera
-  - home-security
+- surveillance
+- ring
+- amazon
+- privacy
+- employee-misconduct
+- ukraine
+- doorbell-camera
+- home-security
 sources:
-  - url: https://theintercept.com/2019/01/10/amazon-ring-security-camera/
-    title: For Owners of Amazon's Ring Security Cameras, Strangers May Have Been Watching Too
-    publisher: The Intercept
-    date: 2019-01-10
-    tier: 1
-  - url: https://theintercept.com/2019/11/20/amazon-ring-security-senate/
-    title: Senators Press Amazon for Answers on Ring's Sloppy Security Practices
-    publisher: The Intercept
-    date: 2019-11-20
-    tier: 1
-  - url: https://www.engadget.com/2019-01-10-ring-gave-employees-access-customer-video-feeds.html
-    title: Ring reportedly gave employees access to customer video feeds
-    publisher: Engadget
-    date: 2019-01-10
-    tier: 2
-  - url: https://www.vice.com/en/article/ring-fired-employees-abusing-video-data/
-    title: Ring Fired Employees for Watching Customer Videos
-    publisher: Vice
-    date: 2020-01-10
-    tier: 1
+- url: https://theintercept.com/2019/01/10/amazon-ring-security-camera/
+  title: For Owners of Amazon's Ring Security Cameras, Strangers May Have Been Watching Too
+  date: 2019-01-10
+  tier: 1
+  outlet: The Intercept
+- url: https://theintercept.com/2019/11/20/amazon-ring-security-senate/
+  title: Senators Press Amazon for Answers on Ring's Sloppy Security Practices
+  date: 2019-11-20
+  tier: 1
+  outlet: The Intercept
+- url: https://www.engadget.com/2019-01-10-ring-gave-employees-access-customer-video-feeds.html
+  title: Ring reportedly gave employees access to customer video feeds
+  date: 2019-01-10
+  tier: 2
+  outlet: Engadget
+- url: https://www.vice.com/en/article/ring-fired-employees-abusing-video-data/
+  title: Ring Fired Employees for Watching Customer Videos
+  date: 2020-01-10
+  tier: 1
+  outlet: Vice
 status: confirmed
 ---
 

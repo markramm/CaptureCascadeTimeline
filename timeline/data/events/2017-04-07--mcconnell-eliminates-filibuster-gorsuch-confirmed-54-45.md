@@ -4,38 +4,38 @@ date: '2017-04-07'
 title: McConnell Invokes Nuclear Option, Eliminates Filibuster for Supreme Court Nominees, Gorsuch Confirmed 54-45
 importance: 9
 tags:
-  - Supreme Court
-  - Judicial Appointments
-  - Senate Rules
-  - Institutional Corruption
-  - Nuclear Option
+- supreme court
+- judicial appointments
+- senate rules
+- institutional corruption
+- nuclear option
 actors:
-  - Mitch McConnell
-  - Neil Gorsuch
-  - Chuck Schumer
-  - Harry Reid
-  - Donald Trump
+- Mitch McConnell
+- Neil Gorsuch
+- Chuck Schumer
+- Harry Reid
+- Donald Trump
 sources:
-  - title: Senate Pulls Nuclear Trigger To Ease Gorsuch Confirmation
-    url: https://www.npr.org/2017/04/06/522847700/senate-pulls-nuclear-trigger-to-ease-gorsuch-confirmation
-    publisher: NPR
-    date: '2017-04-07'
-    tier: 1
-  - title: McConnell Went Nuclear to Confirm Gorsuch But Democrats Changed Senate Filibuster Rules First
-    url: https://www.nbcnews.com/politics/donald-trump/mcconnell-went-nuclear-confirm-gorsuch-democrats-changed-senate-filibuster-rules-n887271
-    publisher: NBC News
-    date: '2018-07-09'
-    tier: 1
-  - title: GOP Triggers Nuclear Option on Neil Gorsuch Nomination
-    url: https://www.cnn.com/2017/04/06/politics/senate-nuclear-option-neil-gorsuch/index.html
-    publisher: CNN
-    date: '2017-04-06'
-    tier: 2
-  - title: Nuclear Option
-    url: https://en.wikipedia.org/wiki/Nuclear_option
-    publisher: Wikipedia
-    date: '2017-04-07'
-    tier: 3
+- title: Senate Pulls Nuclear Trigger To Ease Gorsuch Confirmation
+  url: https://www.npr.org/2017/04/06/522847700/senate-pulls-nuclear-trigger-to-ease-gorsuch-confirmation
+  date: '2017-04-07'
+  tier: 1
+  outlet: NPR
+- title: McConnell Went Nuclear to Confirm Gorsuch But Democrats Changed Senate Filibuster Rules First
+  url: https://www.nbcnews.com/politics/donald-trump/mcconnell-went-nuclear-confirm-gorsuch-democrats-changed-senate-filibuster-rules-n887271
+  date: '2018-07-09'
+  tier: 1
+  outlet: NBC News
+- title: GOP Triggers Nuclear Option on Neil Gorsuch Nomination
+  url: https://www.cnn.com/2017/04/06/politics/senate-nuclear-option-neil-gorsuch/index.html
+  date: '2017-04-06'
+  tier: 2
+  outlet: CNN
+- title: Nuclear Option
+  url: https://en.wikipedia.org/wiki/Nuclear_option
+  date: '2017-04-07'
+  tier: 3
+  outlet: Wikipedia
 ---
 
 On April 6, 2017, Senate Majority Leader Mitch McConnell invoked the "nuclear option"—a parliamentary procedure to change Senate rules by simple majority vote—to eliminate the 60-vote filibuster requirement for Supreme Court nominations, lowering the threshold to a simple 51-vote majority. The following day, April 7, 2017, the Senate confirmed Neil Gorsuch to the Supreme Court by a vote of 54-45, filling the seat that Merrick Garland should have occupied. The rule change permanently transformed Supreme Court confirmations from requiring bipartisan consensus to allowing purely partisan appointments, enabling the subsequent confirmations of Brett Kavanaugh and Amy Coney Barrett and creating a 6-3 conservative supermajority that would reshape American law for decades.

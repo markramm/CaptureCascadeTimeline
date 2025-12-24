@@ -4,7 +4,7 @@ date: '2018-07-16'
 title: FCC Chairman Ajit Pai Refers Sinclair-Tribune Merger to Hearing Over "Serious Concerns" About Sham Divestitures and Misrepresentation
 importance: 9
 actors:
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Ajit Pai
 - Sinclair Broadcast Group
 - Tribune Media
@@ -21,22 +21,22 @@ tags:
 - democracy
 location: Washington, DC
 sources:
-- title: "How Tribune Media's $3.9 Billion Merger With Sinclair Fell Apart"
+- title: How Tribune Media's $3.9 Billion Merger With Sinclair Fell Apart
   url: https://www.npr.org/2018/08/09/637230074/how-tribune-medias-3-9-billion-merger-with-sinclair-fell-apart
   outlet: NPR
   date: '2018-08-09'
   tier: 1
-- title: 'Sinclair did not fully disclose facts on Tribune merger, FCC claims'
+- title: Sinclair did not fully disclose facts on Tribune merger, FCC claims
   url: https://www.nbcnews.com/news/us-news/sinclair-did-not-fully-disclose-facts-tribune-merger-fcc-claims-n892951
   outlet: NBC News
   date: '2018-07-16'
   tier: 1
-- title: 'Attempted acquisition of Tribune Media by Sinclair Broadcast Group'
+- title: Attempted acquisition of Tribune Media by Sinclair Broadcast Group
   url: https://en.wikipedia.org/wiki/Attempted_acquisition_of_Tribune_Media_by_Sinclair_Broadcast_Group
   outlet: Wikipedia
   date: '2024-12-01'
   tier: 2
-- title: 'Tribune Media Terminates Merger Agreement with Sinclair Broadcast Group, Files Lawsuit'
+- title: Tribune Media Terminates Merger Agreement with Sinclair Broadcast Group, Files Lawsuit
   url: https://www.tribunemedia.com/tribune-media-terminates-merger-agreement-with-sinclair-broadcast-group-inc-files-lawsuit-for-breach-of-contract/
   outlet: Tribune Media
   date: '2018-08-09'

@@ -8,28 +8,28 @@ actors:
 - Heather Heyer
 - Donald Trump
 tags:
-- White Nationalism
-- Extremism
-- Domestic Terrorism
-- Alt-Right
+- white nationalism
+- extremism
+- domestic terrorism
+- alt-right
 - hate-crimes
 status: confirmed
 sources:
 - url: https://www.justice.gov/archives/opa/pr/ohio-man-sentenced-life-prison-federal-hate-crimes-related-august-2017-car-attack-rally
   title: Ohio Man Sentenced to Life in Prison for Federal Hate Crimes Related to August 2017 Car Attack at Rally in Charlottesville, Virginia
-  publisher: U.S. Department of Justice
   date: '2019-06-28'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.npr.org/2018/12/07/674672922/james-alex-fields-unite-the-right-protester-who-killed-heather-heyer-found-guilt
   title: Charlottesville Jury Convicts 'Unite The Right' Protester Who Killed Woman
-  publisher: NPR
   date: '2018-12-07'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/nation/man-who-drove-into-charlottesville-protest-killing-heather-heyer-convicted-of-first-degree-murder
   title: Man who drove into Charlottesville protest, killing Heather Heyer, convicted of first-degree murder
-  publisher: PBS NewsHour
   date: '2018-12-07'
   tier: 1
+  outlet: PBS NewsHour
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration

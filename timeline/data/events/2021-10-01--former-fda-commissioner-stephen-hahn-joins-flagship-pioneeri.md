@@ -9,13 +9,12 @@ actors:
 - Stephen Hahn
 - Flagship Pioneering
 - Moderna
-- Food and Drug Administration
+- Food and Drug Administration (FDA)
 - Noubar Afeyan
 - Stéphane Bancel
 sources:
 - outlet: FierceBiotech
-  title: He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins
-    biotech's backer
+  title: He authorized Moderna's vaccine 6 months ago. Now, ex-FDA chief Hahn joins biotech's backer
   url: https://www.fiercebiotech.com/biotech/six-months-after-granting-moderna-covid-19-eua-ex-fda-commish-joins-biotech-s-founding
 - outlet: Flagship Pioneering
   title: Dr. Stephen Hahn Joins Flagship Pioneering as Chief Medical Officer
@@ -24,8 +23,7 @@ sources:
   title: Former FDA Head Takes on Exec Role at Flagship's Preemptive Health Initiative
   url: https://www.biospace.com/former-fda-head-stephen-hahn-takes-cmo-role-at-flagship-pioneering-preemptive-health-initiative
 - outlet: PR Newswire
-  title: Dr. Stephen Hahn, 24th US FDA Commissioner, Joins Flagship Pioneering as
-    Chief Medical Officer
+  title: Dr. Stephen Hahn, 24th US FDA Commissioner, Joins Flagship Pioneering as Chief Medical Officer
   url: https://www.prnewswire.com/news-releases/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative-301312012.html
 status: confirmed
 priority_id: claude-priority-regulatory-capture-pharma-fda

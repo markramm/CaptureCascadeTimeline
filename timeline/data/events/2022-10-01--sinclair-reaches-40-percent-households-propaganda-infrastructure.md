@@ -5,7 +5,7 @@ title: Sinclair Broadcasting Reaches 40% of U.S. Households Through 294 Stations
 importance: 9
 actors:
 - Sinclair Broadcast Group
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - David Smith
 - Local News Anchors
 tags:
@@ -19,12 +19,12 @@ tags:
 - regulatory-capture
 location: Hunt Valley, MD
 sources:
-- title: 'Sinclair reaches 40 percent households'
+- title: Sinclair reaches 40 percent households
   url: https://www.sourcewatch.org/index.php/Sinclair_Broadcast_Group
   outlet: SourceWatch
   date: '2024-01-01'
   tier: 2
-- title: 'List of stations owned or operated by Sinclair Broadcast Group'
+- title: List of stations owned or operated by Sinclair Broadcast Group
   url: https://en.wikipedia.org/wiki/List_of_stations_owned_or_operated_by_Sinclair_Broadcast_Group
   outlet: Wikipedia
   date: '2024-12-01'
@@ -34,12 +34,12 @@ sources:
   outlet: Journal of Broadcasting & Electronic Media
   date: '2019-09-01'
   tier: 1
-- title: "How Does Local TV News Change Viewers' Attitudes? The Case of Sinclair Broadcasting"
+- title: How Does Local TV News Change Viewers' Attitudes? The Case of Sinclair Broadcasting
   url: https://www.tandfonline.com/doi/full/10.1080/10584609.2021.1901807
   outlet: Political Communication
   date: '2022-01-01'
   tier: 1
-- title: "Media consolidation takes toll on local news but doesn't necessarily bias coverage"
+- title: Media consolidation takes toll on local news but doesn't necessarily bias coverage
   url: https://www.colorado.edu/today/2021/10/20/media-consolidation-takes-toll-local-news-doesnt-necessarily-bias-coverage
   outlet: University of Colorado Boulder
   date: '2021-10-20'

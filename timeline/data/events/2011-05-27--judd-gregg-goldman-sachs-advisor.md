@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.familywealthreport.com/article.php/Goldman-Appoints-Former-Senator,-Governor-As-International-Advisor
   title: Goldman Appoints Former Senator, Governor As International Advisor
-  publisher: Family Wealth Report
   date: '2011-05-27'
   tier: 2
+  outlet: Family Wealth Report
 - url: https://www.salon.com/2011/06/01/former_senators_now_with_investment_banks_and_lobbying_firms/
   title: The revolving door keeps spinning
-  publisher: Salon
   date: '2011-06-01'
   tier: 2
+  outlet: Salon
 - url: https://sourcewatch.org/index.php/Judd_Gregg
   title: Judd Gregg
-  publisher: SourceWatch
   date: '2024-01-01'
   tier: 2
+  outlet: SourceWatch
 actors:
 - Judd Gregg
 - Goldman Sachs

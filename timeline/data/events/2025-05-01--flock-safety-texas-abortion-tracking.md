@@ -7,12 +7,12 @@ location: Johnson County, Texas
 actors:
 - Johnson County Sheriff Adam King
 - Flock Safety
-- Electronic Frontier Foundation
+- Electronic Frontier Foundation (EFF)
 - Representative Raja Krishnamoorthi
 - Representative Robert Garcia
 tags:
 - surveillance
-- ALPR
+- alpr
 - abortion-surveillance
 - reproductive-rights
 - warrantless-surveillance

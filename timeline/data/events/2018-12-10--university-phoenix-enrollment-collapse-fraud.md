@@ -4,30 +4,30 @@ date: 2018-12-10
 title: University of Phoenix Enrollment Collapses 80% After Fraud Investigations - $191M FTC Settlement
 importance: 7
 tags:
-  - for-profit-colleges
-  - fraud
-  - student-debt
-  - university-of-phoenix
+- for-profit-colleges
+- fraud
+- student-debt
+- university-of-phoenix
 actors:
-  - University of Phoenix
-  - Apollo Education Group
-  - Federal Trade Commission
+- University of Phoenix
+- Apollo Education Group
+- Federal Trade Commission
 sources:
-  - url: https://www.npr.org/2019/12/10/786738760/university-of-phoenix-reaches-191-million-settlement-with-ftc-including-debt-rel
-    title: University Of Phoenix Reaches $191 Million Settlement With FTC, Including Debt Relief
-    publisher: NPR
-    date: 2019-12-10
-    tier: 1
-  - url: https://www.ftc.gov/enforcement/refunds/university-phoenix-settlement
-    title: University of Phoenix Settlement
-    publisher: Federal Trade Commission
-    date: 2019-12-10
-    tier: 1
-  - url: https://www.justice.gov/archives/opa/pr/university-phoenix-settles-false-claims-act-lawsuit-675-million
-    title: University of Phoenix Settles False Claims Act Lawsuit for $67.5 Million
-    publisher: U.S. Department of Justice
-    date: 2009-12-14
-    tier: 1
+- url: https://www.npr.org/2019/12/10/786738760/university-of-phoenix-reaches-191-million-settlement-with-ftc-including-debt-rel
+  title: University Of Phoenix Reaches $191 Million Settlement With FTC, Including Debt Relief
+  date: 2019-12-10
+  tier: 1
+  outlet: NPR
+- url: https://www.ftc.gov/enforcement/refunds/university-phoenix-settlement
+  title: University of Phoenix Settlement
+  date: 2019-12-10
+  tier: 1
+  outlet: Federal Trade Commission
+- url: https://www.justice.gov/archives/opa/pr/university-phoenix-settles-false-claims-act-lawsuit-675-million
+  title: University of Phoenix Settles False Claims Act Lawsuit for $67.5 Million
+  date: 2009-12-14
+  tier: 1
+  outlet: U.S. Department of Justice
 status: confirmed
 ---
 

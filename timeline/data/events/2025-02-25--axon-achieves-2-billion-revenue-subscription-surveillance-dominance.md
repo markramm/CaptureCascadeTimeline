@@ -17,19 +17,19 @@ actors:
 sources:
 - url: https://investor.axon.com/2025-02-25-Axon-2024-revenue-grows-33-to-2-1-billion-third-consecutive-year-of-30-annual-growth
   title: Axon 2024 revenue grows 33% to $2.1 billion; third consecutive year of 30%+ annual growth
-  publisher: Axon Investor Relations
   date: '2025-02-25'
   tier: 2
+  outlet: Axon Investor Relations
 - url: https://www.prnewswire.com/news-releases/axon-2024-revenue-grows-33-to-2-1-billion-third-consecutive-year-of-30-annual-growth-302385237.html
   title: Axon 2024 revenue grows 33% to $2.1 billion
-  publisher: PR Newswire
   date: '2025-02-25'
   tier: 2
+  outlet: PR Newswire
 - url: https://investor.axon.com/2025-08-04-Axon-reports-Q2-2025-revenue-of-669-million,-up-33-year-over-year
   title: Axon reports Q2 2025 revenue of $669 million, up 33% year over year
-  publisher: Axon Investor Relations
   date: '2025-08-04'
   tier: 2
+  outlet: Axon Investor Relations
 status: confirmed
 ---
 

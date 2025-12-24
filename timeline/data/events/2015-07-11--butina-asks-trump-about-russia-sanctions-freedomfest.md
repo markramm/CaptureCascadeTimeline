@@ -1,7 +1,7 @@
 ---
 id: 2015-07-11--butina-asks-trump-about-russia-sanctions-freedomfest
 date: '2015-07-11'
-title: 'Russian Agent Maria Butina Questions Trump About Sanctions at FreedomFest, Trump Promises to "Get Along" with Putin'
+title: Russian Agent Maria Butina Questions Trump About Sanctions at FreedomFest, Trump Promises to "Get Along" with Putin
 importance: 9
 tags:
 - maria-butina
@@ -20,24 +20,24 @@ actors:
 sources:
 - title: 'WATCH: Maria Butina Asks Trump a Question About Russian Sanctions in 2015'
   url: https://heavy.com/news/2018/07/maria-butina-donald-trump-video-2015/
-  publisher: Heavy
   date: '2018-07-16'
   tier: 2
-- title: 'Russian indicted this month asked Trump question in 2015'
+  outlet: Heavy
+- title: Russian indicted this month asked Trump question in 2015
   url: https://www.cnn.com/videos/politics/2018/07/16/trump-russia-probe-russian-national-mariia-butina-question-sot-vpx.cnn
-  publisher: CNN
   date: '2018-07-16'
   tier: 1
-- title: 'Maria Butina, Accused Of Being Russian Agent, Has Long History Of Urging Protest'
+  outlet: CNN
+- title: Maria Butina, Accused Of Being Russian Agent, Has Long History Of Urging Protest
   url: https://www.npr.org/2018/09/19/647174528/maria-butina-accused-of-being-russian-agent-has-long-history-of-urging-protest
-  publisher: NPR
   date: '2018-09-19'
   tier: 1
-- title: 'Trump Told Woman Charged As Kremlin Agent He''d Drop Russia Sanctions'
+  outlet: NPR
+- title: Trump Told Woman Charged As Kremlin Agent He'd Drop Russia Sanctions
   url: https://www.huffingtonpost.co.uk/entry/trump-agent-russia-sanctions_n_5b4d19e7e4b0de86f485b0a5
-  publisher: HuffPost
   date: '2018-07-16'
   tier: 2
+  outlet: HuffPost
 status: confirmed
 ---
 

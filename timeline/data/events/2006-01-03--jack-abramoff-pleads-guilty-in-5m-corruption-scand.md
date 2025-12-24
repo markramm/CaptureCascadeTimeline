@@ -26,7 +26,7 @@ sources:
   date: '2006-01-03'
 - title: The Fast Rise and Steep Fall of Jack Abramoff
   url: https://www.washingtonpost.com/archive/politics/2005/12/29/the-fast-rise-and-steep-fall-of-jack-abramoff/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2005-12-29'
 - title: GIMME FIVE Investigation of Tribal Lobbying Matters
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm

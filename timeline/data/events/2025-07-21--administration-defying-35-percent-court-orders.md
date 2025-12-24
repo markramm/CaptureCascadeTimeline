@@ -2,8 +2,7 @@
 id: 2025-07-21--administration-defying-35-percent-court-orders
 date: '2025-07-21'
 importance: 10
-title: Trump Administration Defying 35% of Court Orders in Unprecedented Constitutional
-  Crisis
+title: Trump Administration Defying 35% of Court Orders in Unprecedented Constitutional Crisis
 location: United States
 actors:
 - Trump Administration
@@ -22,10 +21,9 @@ capture_lanes:
 - Executive Power & Emergency Authority
 - Judicial Capture & Corruption
 sources:
-- title: Trump accused of defying about a third of major court orders since taking
-    office
+- title: Trump accused of defying about a third of major court orders since taking office
   url: https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-07-21'
   archive_url: https://web.archive.org/web/20250721000000/https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/
 - title: Trump Admin Refuses to Abide by 1 in 3 Court Rulings Against Its Policies
@@ -43,10 +41,7 @@ sources:
   outlet: Just Security
   date: '2025-07-24'
   type: legal-tracking
-notes: Analysis of 337 lawsuits found 165 adverse rulings, 57 defied (35%). Constitutional
-  law experts warn of systemic breakdown in separation of powers. 72% of voters concerned,
-  52% view as abuse of power. Most significant defiance in immigration, executive
-  orders, and regulatory actions.
+notes: Analysis of 337 lawsuits found 165 adverse rulings, 57 defied (35%). Constitutional law experts warn of systemic breakdown in separation of powers. 72% of voters concerned, 52% view as abuse of power. Most significant defiance in immigration, executive orders, and regulatory actions.
 poll_data:
   voter_concern: 72
   abuse_perception: 52
@@ -55,8 +50,7 @@ expert_quotes:
   quote: We are dangerously close to a constitutional crisis.
   source: Constitutional Law Expert
 - expert: Amanda Frost
-  quote: A constitutional crisis occurs when one branch blatantly exceeds its constitutional
-    authority and others cannot stop it.
+  quote: A constitutional crisis occurs when one branch blatantly exceeds its constitutional authority and others cannot stop it.
   source: University of Virginia Law Professor
 noncompliance_details:
   total_lawsuits: 337

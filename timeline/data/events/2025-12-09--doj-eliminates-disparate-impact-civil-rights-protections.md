@@ -6,6 +6,32 @@ summary: "The Department of Justice issued a final rule eliminating disparate im
 importance: 10
 tags: ["civil-rights", "doj", "legal", "discrimination", "regulation", "executive-action", "constitutional-law", "voting-rights", "housing", "education", "environmental-justice"]
 actors: ["Pam Bondi", "Harmeet Dhillon", "Department of Justice"]
+sources:
+- title: Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement
+  url: https://www.justice.gov/opa/pr/department-justice-rule-restores-equal-protection-all-civil-rights-enforcement
+  outlet: Department of Justice Office of Public Affairs
+  date: '2025-12-09'
+  tier: 1
+- title: Rescinding Portions of Department of Justice Title VI Regulations
+  url: https://www.federalregister.gov/documents/2025/12/10/2025-22448/
+  outlet: Federal Register
+  date: '2025-12-10'
+  tier: 1
+- title: Department of Justice Eliminates Title VI Disparate Impact Regulations
+  url: https://www.sullcrom.com/insights/memo/2025/December/Department-Justice-Eliminates-Title-VI-Disparate-Impact-Regulations
+  outlet: Sullivan & Cromwell LLP
+  date: '2025-12-09'
+  tier: 2
+- title: DOJ Promulgates Final Rule Removing Disparate Impact Regulations Under Title VI
+  url: https://www.mcguirewoods.com/client-resources/alerts/2025/12/doj-promulgates-final-rule-removing-disparate-impact-regulations-under-title-vi/
+  outlet: McGuireWoods
+  date: '2025-12-09'
+  tier: 2
+- title: DOJ Eliminated Its Disparate Impact Regulations
+  url: https://eelp.law.harvard.edu/tracker/rollback-executive-order-directed-agencies-to-eliminate-use-and-enforcement-of-disparate-impact-standard/
+  outlet: Harvard Environmental & Energy Law Program
+  date: '2025-12-09'
+  tier: 1
 ---
 
 # Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination

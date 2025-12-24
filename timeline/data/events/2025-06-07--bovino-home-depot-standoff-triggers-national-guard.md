@@ -25,24 +25,24 @@ actors:
 sources:
 - title: Gregory Bovino, Head of Los Angeles Campaign, Shows How Immigration Agents Rack Up Arrests
   url: https://news.wttw.com/2025/09/04/gregory-bovino-head-los-angeles-campaign-shows-how-immigration-agents-rack-arrests
-  publisher: WTTW Chicago
   date: '2025-09-04'
   tier: 1
+  outlet: WTTW Chicago
 - title: Gregory Bovino, head of Los Angeles campaign, shows how immigration agents rack up arrests
   url: https://www.kpbs.org/news/border-immigration/2025/09/04/gregory-bovino-head-of-los-angeles-campaign-shows-how-immigration-agents-rack-up-arrests
-  publisher: KPBS
   date: '2025-09-04'
   tier: 1
+  outlet: KPBS
 - title: He misled the public about his last big immigration sweep. Now he's leading the Border Patrol in LA
   url: https://calmatters.org/investigation/2025/06/los-angeles-border-patrol-chief/
-  publisher: CalMatters
   date: '2025-06-15'
   tier: 1
-- title: "'I Went to Watch the Tiny Operation That's Making ICE Lose Its Mind'"
+  outlet: CalMatters
+- title: '''I Went to Watch the Tiny Operation That''s Making ICE Lose Its Mind'''
   url: https://slate.com/business/2025/10/donald-trump-immigration-ice-raids-arrests-la.html
-  publisher: Slate
   date: '2025-10-15'
   tier: 2
+  outlet: Slate
 status: confirmed
 related_events:
 - 2025-06-07--la-national-guard-deployment

@@ -4,9 +4,9 @@ title: American Legislative Exchange Council (ALEC) Established
 importance: 8
 status: confirmed
 actors:
-- American Legislative Exchange Council
+- American Legislative Exchange Council (ALEC)
 - State Legislators
-- Corporate Members
+- Corporate members
 sources:
 - title: alecattacks.org
   url: https://www.alecattacks.org/history-of-alec

@@ -19,21 +19,20 @@ tags:
 - civil-rights
 sources:
 - url: https://www.npr.org/2025/10/15/nx-s1-5567801/supreme-court-louisiana-redistricting-voting-rights-act
-  title: A Supreme Court ruling on voting rights could boost Republicans' redistricting
-    efforts
-  publisher: NPR
+  title: A Supreme Court ruling on voting rights could boost Republicans' redistricting efforts
   date: '2025-10-15'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/supreme-court/supreme-court-voting-rights-act-redistricting-congress-louisiana-rcna237565
   title: Supreme Court leans toward further weakening landmark Voting Rights Act
-  publisher: NBC News
   date: '2025-10-15'
   tier: 2
+  outlet: NBC News
 - url: https://www.brennancenter.org/our-work/research-reports/louisiana-v-callais
   title: Louisiana v. Callais
-  publisher: Brennan Center for Justice
   date: '2025-10-15'
   tier: 1
+  outlet: Brennan Center for Justice
 ---
 
 The Supreme Court heard rare second-round oral arguments in Louisiana v. Callais, a case that could fundamentally weaken or eliminate Section 2 of the 1965 Voting Rights Act. The case questions whether Louisiana's creation of a second majority-Black congressional district (which elected Rep. Cleo Fields) violates the Fourteenth or Fifteenth Amendments by intentionally considering race in redistricting.

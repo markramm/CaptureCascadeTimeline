@@ -1,8 +1,7 @@
 ---
 id: 2025-10-09--letitia-james-indicted-bank-fraud
 date: '2025-10-09'
-title: DOJ Indicts New York AG Letitia James on Bank Fraud Charges After Trump Pressure
-  Campaign
+title: DOJ Indicts New York AG Letitia James on Bank Fraud Charges After Trump Pressure Campaign
 importance: 9
 actors:
 - Letitia James
@@ -21,20 +20,19 @@ tags:
 sources:
 - url: https://www.justice.gov/usao-edva/pr/new-york-state-attorney-general-indicted
   title: New York State Attorney General Indicted
-  publisher: U.S. Department of Justice
   date: '2025-10-09'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.npr.org/2025/10/09/nx-s1-5569792/letitia-james-indictment-trump
   title: Letitia James, who prosecuted Trump, indicted for alleged bank fraud
-  publisher: NPR
   date: '2025-10-09'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/justice-department/ny-attorney-general-letitia-james-trump-opponent-indicted-grand-jury-b-rcna236737
-  title: Grand jury indicts N.Y. Attorney General Letitia James, a Trump opponent,
-    on bank fraud charges
-  publisher: NBC News
+  title: Grand jury indicts N.Y. Attorney General Letitia James, a Trump opponent, on bank fraud charges
   date: '2025-10-09'
   tier: 2
+  outlet: NBC News
 ---
 
 On October 9, 2025, a federal grand jury in the Eastern District of Virginia indicted New York Attorney General Letitia James on charges of bank fraud and making false statements to a financial institution. The indictment alleges that James misrepresented a Norfolk, Virginia home she purchased in 2020 as her second residence to obtain favorable mortgage terms, allowing her to save approximately $17,837 over the life of the loan—roughly $594 per year in interest. The charges stem from allegations that James falsely claimed the property as a second home while renting it to a family of three.

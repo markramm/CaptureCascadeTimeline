@@ -2,16 +2,12 @@
 id: 2016-01-01--vance-joins-mithril-capital
 date: '2016-01-01'
 title: J.D. Vance Joins Peter Thiel's Mithril Capital as Principal
-description: Following publication of "Hillbilly Elegy," J.D. Vance joins Peter Thiel's
-  venture capital firm Mithril Capital as principal, deepening financial and ideological
-  ties. Position provides Vance with Silicon Valley credentials and wealth while aligning
-  him with Thiel's network of anti-establishment conservatives planning political
-  disruption through tech-enabled strategies.
+description: Following publication of "Hillbilly Elegy," J.D. Vance joins Peter Thiel's venture capital firm Mithril Capital as principal, deepening financial and ideological ties. Position provides Vance with Silicon Valley credentials and wealth while aligning him with Thiel's network of anti-establishment conservatives planning political disruption through tech-enabled strategies.
 importance: 6
 tags:
-- J.D. Vance
-- Peter Thiel
-- Mithril Capital
+- j.d. vance
+- peter thiel
+- mithril capital
 - venture-capital
 - silicon-valley
 - political-pipeline
@@ -47,12 +43,7 @@ patterns:
 - revolving-door
 - billionaire-patronage
 - political-grooming
-notes: Vance's hiring at Mithril Capital represents classic patronage system where
-  ideologically aligned individuals are given wealth-building opportunities in exchange
-  for future political service. The position transforms Vance from working-class author
-  to Silicon Valley insider, providing him with elite credentials and financial resources
-  necessary for political campaigns. This mirrors Thiel's broader strategy of creating
-  alternative elite networks loyal to his anti-democratic vision.
+notes: Vance's hiring at Mithril Capital represents classic patronage system where ideologically aligned individuals are given wealth-building opportunities in exchange for future political service. The position transforms Vance from working-class author to Silicon Valley insider, providing him with elite credentials and financial resources necessary for political campaigns. This mirrors Thiel's broader strategy of creating alternative elite networks loyal to his anti-democratic vision.
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration

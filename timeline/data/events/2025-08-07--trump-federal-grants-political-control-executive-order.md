@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Donald Trump
 - White House
-- Office of Management and Budget
+- Office of Management and Budget (OMB)
 tags:
 - executive-power
 - executive-orders
@@ -15,20 +15,19 @@ tags:
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/08/improving-oversight-of-federal-grantmaking/
   title: 'Executive Order 14332: Improving Oversight of Federal Grantmaking'
-  publisher: The White House
   date: '2025-08-07'
   tier: 1
+  outlet: The White House
 - url: https://www.statnews.com/2025/08/08/trump-executive-order-disrupts-science-lawsuits-expected/
-  title: Trump executive order seeks to centralize control of grantmaking under political
-    appointees
-  publisher: STAT News
+  title: Trump executive order seeks to centralize control of grantmaking under political appointees
   date: '2025-08-08'
   tier: 2
+  outlet: STAT News
 - url: https://www.govexec.com/management/2025/08/federal-grants-must-demonstrably-advance-trumps-agenda-president-orders/407335/
   title: Federal grants must 'demonstrably advance' Trump's agenda, president orders
-  publisher: Government Executive
   date: '2025-08-08'
   tier: 2
+  outlet: Government Executive
 ---
 
 President Trump signed Executive Order 14332 titled 'Improving Oversight of Federal Grantmaking,' transforming the federal grantmaking process by giving presidential political appointees unprecedented power over billions of dollars in research and discretionary grants. The order requires each agency head to designate a senior appointee to review all funding opportunity announcements and discretionary grants to ensure they align with 'agency priorities and the national interest'—effectively meaning Trump's policy agenda.

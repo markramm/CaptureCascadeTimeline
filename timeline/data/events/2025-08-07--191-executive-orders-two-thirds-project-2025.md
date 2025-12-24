@@ -33,13 +33,10 @@ sources:
   archive_url: https://web.archive.org/web/20250807000000/https://www.npr.org/2025/08/07/trump-executive-orders-project-2025
 - title: How Trump's Executive Orders Systematically Implement Project 2025
   url: https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-08-07'
   archive_url: https://web.archive.org/web/20250807000000/https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders
-notes: Nearly one executive order per day pace. Multiple analyses confirm two-thirds
-  alignment with Project 2025 despite campaign denials. Includes DEI elimination,
-  environmental deregulation, Schedule F reinstatement. Heritage Foundation wrote
-  script, Trump executing it.
+notes: Nearly one executive order per day pace. Multiple analyses confirm two-thirds alignment with Project 2025 despite campaign denials. Includes DEI elimination, environmental deregulation, Schedule F reinstatement. Heritage Foundation wrote script, Trump executing it.
 status: confirmed
 validation_status: validated
 ---

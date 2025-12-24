@@ -21,7 +21,7 @@ tags:
 sources:
 - title: Truth Social surges in DJT stock debut
   url: https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2024-03-26'
   archive_url: https://web.archive.org/web/20240326000000/https://www.washingtonpost.com/technology/2024/03/26/truth-social-trump-djt-social-media-stock/
 - title: DJT stock creates unique new ethical nightmare
@@ -33,16 +33,13 @@ sources:
   url: https://www.cnbc.com/2024/03/26/trump-media-stock-ticker-djt-debuts-after-dwac-merger.html
   outlet: CNBC
   date: '2024-03-26'
-  description: Detailed coverage of initial trading day, stock volatility, and ownership
-    structure
+  description: Detailed coverage of initial trading day, stock volatility, and ownership structure
 - title: Trump Media & Technology Group Corp. (DJT) SEC Filings
   url: https://www.nasdaq.com/market-activity/stocks/djt/sec-filings
   outlet: NASDAQ
   date: '2024-03-26'
   description: Official SEC filing repository for company financial disclosures
-notes: First time in history a presidential candidate owns publicly traded media company.
-  Stock valuation and trading volume demonstrate significant market speculation. Potential
-  for unprecedented conflicts of interest through media ownership and foreign investment.
+notes: First time in history a presidential candidate owns publicly traded media company. Stock valuation and trading volume demonstrate significant market speculation. Potential for unprecedented conflicts of interest through media ownership and foreign investment.
 status: confirmed
 capture_lanes:
 - Media Capture & Control

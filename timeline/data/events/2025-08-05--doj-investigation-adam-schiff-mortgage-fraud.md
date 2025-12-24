@@ -17,21 +17,20 @@ tags:
 - political-prosecution
 sources:
 - url: https://www.foxnews.com/politics/sen-adam-schiff-under-federal-criminal-investigation-alleged-mortgage-fraud-violations
-  title: Sen Adam Schiff, D-Calif., under criminal investigation for alleged mortgage
-    fraud
-  publisher: Fox News
+  title: Sen Adam Schiff, D-Calif., under criminal investigation for alleged mortgage fraud
   date: '2025-08-05'
   tier: 2
+  outlet: Fox News
 - url: https://www.nbcnews.com/politics/justice-department/doj-opens-investigation-new-york-ags-office-brought-fraud-case-trump-rcna223731
   title: DOJ investigating N.Y. AG's office and Sen. Adam Schiff
-  publisher: NBC News
   date: '2025-08-05'
   tier: 2
+  outlet: NBC News
 - url: https://www.cnbc.com/2025/10/23/trump-adam-schiff-mortgage-doj-hayes-maryland.html
   title: Trump foe Sen. Adam Schiff eyed by DOJ in mortgage fraud probe
-  publisher: CNBC
   date: '2025-10-23'
   tier: 2
+  outlet: CNBC
 ---
 
 Fox News reported on August 5, 2025, that the U.S. Attorney's Office in Maryland launched a federal criminal investigation into Democratic California Senator Adam Schiff for alleged mortgage fraud. The Federal Housing Finance Agency (FHFA) referred Schiff's case to DOJ, accusing him of falsifying bank documents and property records to secure favorable loan terms by misrepresenting his Maryland home as his primary residence from 2003 to 2019, despite representing California in Congress.

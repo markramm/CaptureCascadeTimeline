@@ -7,12 +7,31 @@ actors:
 - Federal Workforce
 importance: 9
 sources:
-- title: Federal News Network
-  url: ''
-- title: Wikipedia
-  url: ''
-- title: Project 2025 analysis
-  url: ''
+- title: Trump administration estimates 50,000 federal employees will lose civil service protections
+  url: https://federalnewsnetwork.com/workforce/2025/04/trump-administration-estimates-50000-federal-employees-will-lose-civil-service-protections/
+  outlet: Federal News Network
+  date: '2025-04-18'
+  tier: 1
+- title: Trump revives executive order aiming to strip some federal employees of civil service protections
+  url: https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/
+  outlet: Federal News Network
+  date: '2025-01-20'
+  tier: 1
+- title: Thousands of federal workers would be easier to fire under Trump rule change
+  url: https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f
+  outlet: NPR
+  date: '2025-04-18'
+  tier: 1
+- title: What to know about Schedule F, Trump's plan to replace federal workers with loyalists
+  url: https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers
+  outlet: Axios
+  date: '2025-04-18'
+  tier: 1
+- title: Schedule F appointment
+  url: https://en.wikipedia.org/wiki/Schedule_F_appointment
+  outlet: Wikipedia
+  date: '2025-01-20'
+  tier: 2
 tags:
 - schedule-f
 - civil-service

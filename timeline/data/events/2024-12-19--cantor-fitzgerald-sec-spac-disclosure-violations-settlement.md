@@ -4,9 +4,9 @@ date: '2024-12-19'
 title: SEC Charges Cantor Fitzgerald $6.75 Million for Misleading SPAC Disclosures
 status: confirmed
 actors:
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Cantor Fitzgerald
-- Howard Lutnick (CEO)
+- Howard Lutnick
 - View, Inc.
 - Satellogic
 sources:
@@ -18,8 +18,7 @@ sources:
   url: https://www.business-standard.com/world-news/cantor-fitzgerald-pays-6-75-mn-to-settle-misleading-spac-disclosures-124121300111_1.html
   date: '2024-12-12'
   outlet: Business Standard
-- title: Cantor Fitzgerald pays $6.75 million to settle SEC charges over misleading
-    SPAC disclosures
+- title: Cantor Fitzgerald pays $6.75 million to settle SEC charges over misleading SPAC disclosures
   url: https://www.marketscreener.com/quote/stock/SATELLOGIC-INC-132401546/news/Cantor-Fitzgerald-pays-6-75-million-to-settle-SEC-charges-over-misleading-SPAC-disclosures-48583816/
   date: '2024-12-12'
   outlet: MarketScreener

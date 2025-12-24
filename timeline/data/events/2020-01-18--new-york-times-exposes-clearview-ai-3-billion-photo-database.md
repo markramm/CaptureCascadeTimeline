@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://www.npr.org/2023/09/28/1202310781/exposing-the-secretive-company-at-the-forefront-of-facial-recognition-technology
   title: Exposing the secretive company at the forefront of facial recognition technology
-  publisher: NPR
   date: '2023-09-28'
   tier: 1
+  outlet: NPR
 - url: https://en.wikipedia.org/wiki/Kashmir_Hill
   title: Kashmir Hill - Wikipedia
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - url: https://www.rollingstone.com/culture/culture-features/clearview-ai-app-privacy-your-face-belongs-to-us-excerpt-1234829211/
-  title: "A Shazam for People: Clearview's AI App Was a Hit Among the Rich and Powerful"
-  publisher: Rolling Stone
+  title: 'A Shazam for People: Clearview''s AI App Was a Hit Among the Rich and Powerful'
   date: '2023-01-01'
   tier: 2
+  outlet: Rolling Stone
 actors:
 - Kashmir Hill
 - Clearview AI

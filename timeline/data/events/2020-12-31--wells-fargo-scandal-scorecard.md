@@ -17,19 +17,19 @@ actors:
 sources:
 - url: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices
   title: Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations
-  publisher: U.S. Department of Justice
   date: '2020-02-21'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/
   title: 'CFPB Enforcement Action: Wells Fargo Bank, N.A.'
-  publisher: Consumer Financial Protection Bureau
   date: '2016-09-08'
   tier: 1
+  outlet: Consumer Financial Protection Bureau
 - url: https://www.npr.org/sections/thetwo-way/2017/04/10/523254069/wells-fargo-claws-back-75-million-more-from-2-executives-over-fake-accounts
   title: Wells Fargo Claws Back $75 Million More From 2 Executives
-  publisher: NPR
   date: '2017-04-10'
   tier: 1
+  outlet: NPR
 ---
 
 After nearly a decade of systematic fraud, multiple investigations, Congressional hearings, and billions in penalties, the Wells Fargo fake accounts scandal concludes with a stark scorecard that defines two-tiered justice in American finance: 3.5 million fraudulent accounts affecting millions of customers, 5,300 low-level employees fired, $3 billion in corporate fines, zero executives prosecuted. The executives who designed the fraud-incentivizing system, profited from inflated metrics, and were aware of misconduct for years retire wealthy and free, while workers who responded to institutional pressure face financial ruin and potential criminal liability.

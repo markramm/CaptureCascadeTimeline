@@ -1,28 +1,25 @@
 ---
 id: 2025-09-08--sfpd-illegal-alpr-data-sharing-ice
 date: '2025-09-08'
-title: San Francisco Police Allowed 1.6 Million Illegal License Plate Searches by
-  ICE and Out-of-State Agencies
+title: San Francisco Police Allowed 1.6 Million Illegal License Plate Searches by ICE and Out-of-State Agencies
 importance: 8
 actors:
 - San Francisco Police Department
-- Immigration and Customs Enforcement
+- Immigration and Customs Enforcement (ICE)
 - Flock Safety
-- Electronic Frontier Foundation
+- Electronic Frontier Foundation (EFF)
 - ACLU
 sources:
-- title: SFPD let Georgia, Texas cops illegally search city surveillance data on behalf
-    of ICE
+- title: SFPD let Georgia, Texas cops illegally search city surveillance data on behalf of ICE
   url: https://sfstandard.com/2025/09/08/sfpd-flock-alpr-ice-data-sharing/
-  publisher: San Francisco Standard
   date: '2025-09-08'
   tier: 2
-- title: 'EFF, ACLU to SFPD: Stop Illegally Sharing Data With ICE and Anti-Abortion
-    States'
+  outlet: San Francisco Standard
+- title: 'EFF, ACLU to SFPD: Stop Illegally Sharing Data With ICE and Anti-Abortion States'
   url: https://www.eff.org/deeplinks/2025/09/eff-aclu-sfpd-stop-illegally-sharing-data-ice-and-anti-abortion-states
-  publisher: Electronic Frontier Foundation
   date: '2025-09-08'
   tier: 1
+  outlet: Electronic Frontier Foundation
 tags:
 - surveillance
 - alpr

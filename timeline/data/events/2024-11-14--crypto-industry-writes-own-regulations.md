@@ -13,7 +13,7 @@ actors:
 - Cryptocurrency Industry Consortium
 - Financial Stability Board
 - European Securities and Markets Authority
-- SEC
+- Securities and Exchange Commission (SEC)
 - CFTC
 sources:
 - title: fsb.org

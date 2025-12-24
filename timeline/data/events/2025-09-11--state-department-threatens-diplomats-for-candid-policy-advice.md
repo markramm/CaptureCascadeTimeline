@@ -1,8 +1,7 @@
 ---
 id: 2025-09-11--state-department-threatens-diplomats-for-candid-policy-advice
 date: '2025-09-11'
-title: State Department Adds 'Fidelity' Criterion, Retaliates Against Diplomats for
-  Honest Analysis
+title: State Department Adds 'Fidelity' Criterion, Retaliates Against Diplomats for Honest Analysis
 importance: 8
 tags:
 - institutional-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.nbcnews.com/politics/national-security/state-department-diplomats-retaliation-trump-administration
   title: Diplomats Threatened Over Candid Advice
-  publisher: NBC News
   date: '2025-09-11'
   tier: 1
+  outlet: NBC News
 actors:
 - State Department
 - American Foreign Service Association

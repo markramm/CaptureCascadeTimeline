@@ -4,30 +4,30 @@ date: 2015-09-24
 title: Dr. Mona Hanna-Attisha Reveals Elevated Blood Lead Levels in Flint Children
 importance: 10
 tags:
-  - flint-water-crisis
-  - whistleblower
-  - public-health
-  - lead-poisoning
-  - children
+- flint-water-crisis
+- whistleblower
+- public-health
+- lead-poisoning
+- children
 actors:
-  - Mona Hanna-Attisha
-  - Michigan Department of Health and Human Services
+- Mona Hanna-Attisha
+- Michigan Department of Health and Human Services
 sources:
-  - url: https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2015.303003
-    title: Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis - A Spatial Analysis of Risk and Public Health Response
-    publisher: American Journal of Public Health
-    date: 2016-02-01
-    tier: 1
-  - url: https://www.npr.org/2017/09/17/551670868/doctor-who-discovered-children-had-elevated-lead-levels-talks-about-whats-change
-    title: Doctor Who Discovered Children Had Elevated Lead Levels Talks About What's Changed
-    publisher: NPR
-    date: 2017-09-17
-    tier: 1
-  - url: https://pubmed.ncbi.nlm.nih.gov/26691115/
-    title: Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis
-    publisher: PubMed
-    date: 2016-02-01
-    tier: 1
+- url: https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2015.303003
+  title: Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis - A Spatial Analysis of Risk and Public Health Response
+  date: 2016-02-01
+  tier: 1
+  outlet: American Journal of Public Health
+- url: https://www.npr.org/2017/09/17/551670868/doctor-who-discovered-children-had-elevated-lead-levels-talks-about-whats-change
+  title: Doctor Who Discovered Children Had Elevated Lead Levels Talks About What's Changed
+  date: 2017-09-17
+  tier: 1
+  outlet: NPR
+- url: https://pubmed.ncbi.nlm.nih.gov/26691115/
+  title: Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis
+  date: 2016-02-01
+  tier: 1
+  outlet: PubMed
 status: confirmed
 ---
 

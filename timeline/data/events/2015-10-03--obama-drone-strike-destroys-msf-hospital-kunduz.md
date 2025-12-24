@@ -19,24 +19,24 @@ tags:
 sources:
 - title: Kunduz Hospital Attack - Initial MSF Statement
   url: https://www.msf.org/afghanistan-msf-demands-explanations-after-deadly-airstrikes-hit-kunduz-hospital
-  publisher: Doctors Without Borders (MSF)
   date: '2015-10-03'
   tier: 1
+  outlet: Doctors Without Borders (MSF)
 - title: Kunduz Hospital Airstrike
   url: https://en.wikipedia.org/wiki/Kunduz_hospital_airstrike
-  publisher: Wikipedia (sourced from MSF and military reports)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from MSF and military reports)
 - title: MSF Calls for Independent Investigation into Kunduz Attack
   url: https://www.msf.org/msf-calls-independent-investigation-kunduz-attack
-  publisher: Doctors Without Borders (MSF)
   date: '2015-10-07'
   tier: 1
+  outlet: Doctors Without Borders (MSF)
 - title: US Military Investigation into Kunduz Hospital Attack
   url: https://www.hrw.org/news/2016/04/29/us-kunduz-attack-questions-remain-unanswered
-  publisher: Human Rights Watch
   date: '2016-04-29'
   tier: 1
+  outlet: Human Rights Watch
 ---
 
 A U.S. Air Force AC-130 gunship launches sustained airstrikes against a Doctors Without Borders (Médecins Sans Frontières) hospital in Kunduz, Afghanistan, killing 42 people including 14 staff members, 24 patients, and 4 caretakers. The attacks continue for more than an hour despite frantic phone calls from MSF to U.S. and Afghan military officials identifying the facility as a protected medical facility and pleading for the strikes to stop. The hospital destruction represents one of the most clear-cut violations of international humanitarian law in the Afghan War, targeting a clearly marked medical facility known to all parties, killing medical staff actively treating patients, and continuing even after being informed of the catastrophic error.

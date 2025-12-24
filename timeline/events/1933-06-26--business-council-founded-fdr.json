@@ -1,0 +1,47 @@
+{
+  "id": "1933-06-26--business-council-founded-fdr",
+  "date": "1933-06-26",
+  "title": "Business Council Founded: Corporate Advisory Network Established Under FDR",
+  "description": "Secretary of Commerce Daniel C. Roper and investment banker Sidney Weinberg found the Business Advisory Council for the United States Department of Commerce under President Franklin D. Roosevelt. The organization is designed 'for corporate titans to offer counsel and advise to the federal government,' according to the Detroit Free Press. The Business Council forms the Industrial Advisory Board for the National Recovery Administration during the Great Depression and establishes committees to discuss the Securities Exchange Act of 1934, Banking Act of 1935, and Social Security Act. This gives major corporations direct input into New Deal legislation. As President Obama later notes, 'Every President since Franklin Delano Roosevelt has sought the advice of the Business Council.' The organization is renamed 'The Business Council' as an independent entity in 1961 under President Kennedy. Membership is by invitation-only, limited to CEOs of leading multinational businesses personally selected by fellow members. The Business Council becomes the organizational model for later corporate policy networks including the Business Roundtable (1972), with Business Roundtable co-founder Irving Shapiro stating: 'The Roundtable wasn't created by the Business Council, but by the same people.' This demonstrates corporate policy influence infrastructure in place 38 years before the Powell Memo.",
+  "importance": 8,
+  "actors": [
+    "Daniel C. Roper",
+    "Sidney Weinberg",
+    "Franklin D. Roosevelt",
+    "Business Council",
+    "U.S. Department of Commerce",
+    "National Recovery Administration",
+    "Corporate CEOs"
+  ],
+  "sources": [
+    {
+      "title": "The Business Council",
+      "outlet": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Business_Council",
+      "tier": 3
+    },
+    {
+      "title": "About Us",
+      "outlet": "The Business Council",
+      "url": "https://businesscouncil.com/about-us/",
+      "tier": 3
+    },
+    {
+      "title": "The Rise and Decline of the Business Roundtable?",
+      "outlet": "University of Greenwich",
+      "url": "https://gala.gre.ac.uk/id/eprint/15915/1/15915%20Cronin_The_Rise_and_Decline_of_the_Business_Roundtable_2016.pdf",
+      "tier": 2
+    }
+  ],
+  "tags": [
+    "corporate-power",
+    "institutional-capture",
+    "business-lobbying",
+    "policy-networks",
+    "powell-memo-precursors",
+    "new-deal",
+    "regulatory-capture",
+    "post-war-corporate-mobilization"
+  ],
+  "significance": "Establishes direct corporate access to policy formation at the highest levels of government, embedded within the executive branch itself. The Business Council's role in shaping Securities Exchange Act, Banking Act, and Social Security Act demonstrates corporate influence over ostensibly progressive New Deal legislation. The organization's continuity across all presidential administrations (1933-present) shows bipartisan corporate access regardless of party in power. This creates template for 'moderate' corporate influence that operates through advisory relationships rather than confrontational lobbying, making corporate power less visible to the public."
+}

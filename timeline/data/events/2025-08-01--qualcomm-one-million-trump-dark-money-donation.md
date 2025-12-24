@@ -17,14 +17,14 @@ tags:
 sources:
 - url: https://www.citizensforethics.org/reports-investigations/crew-investigations/qualcomm-gave-1-million-to-pro-trump-dark-money-group/
   title: Qualcomm gave $1 million to pro-Trump dark money group
-  publisher: Citizens for Responsibility and Ethics in Washington
   date: '2025-07-30'
   tier: 2
+  outlet: Citizens for Responsibility and Ethics in Washington
 - url: https://www.opensecrets.org/orgs/securing-american-greatness/summary?id=D000114050
   title: 'Securing American Greatness Profile: Summary'
-  publisher: OpenSecrets
   date: '2025-07-30'
   tier: 2
+  outlet: OpenSecrets
 ---
 
 Citizens for Responsibility and Ethics in Washington (CREW) reported on July 30, 2025, that Qualcomm gave $1 million to Securing American Greatness, a nonprofit 501(c)(4) organization that supported President Trump in the 2024 election and is now spending to boost his agenda. The donation was revealed in a corporate document posted on Qualcomm's investor relations webpage detailing political activity between September 30, 2024 and March 30, 2025, making it unclear whether the contribution was made before or after the election.

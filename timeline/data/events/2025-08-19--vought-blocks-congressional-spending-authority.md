@@ -1,12 +1,11 @@
 ---
 id: 2025-08-19--vought-blocks-congressional-spending-authority
 date: '2025-08-19'
-title: OMB Director Vought Blocks Billions in Congressional Appropriations, Claims
-  Unilateral Spending Power
+title: OMB Director Vought Blocks Billions in Congressional Appropriations, Claims Unilateral Spending Power
 importance: 9
 actors:
 - Russell Vought
-- Office of Management and Budget
+- Office of Management and Budget (OMB)
 - Donald Trump
 tags:
 - institutional-capture
@@ -14,22 +13,20 @@ tags:
 - constitutional-crisis
 sources:
 - url: https://democrats-appropriations.house.gov/news/press-releases/rap-sheet-president-trump-and-russ-vought-are-breaking-law-stealing-communities
-  title: President Trump and Russ Vought are Breaking the Law, Stealing from Communities,
-    Usurping Congress
-  publisher: House Appropriations Committee
+  title: President Trump and Russ Vought are Breaking the Law, Stealing from Communities, Usurping Congress
   date: '2025-08-19'
   tier: 1
+  outlet: House Appropriations Committee
 - url: https://www.govexec.com/management/2025/06/withholding-agency-funds-end-year-under-consideration-white-house-says/406323/
-  title: Withholding agency funds at the end of the year under consideration, White
-    House says
-  publisher: Government Executive
+  title: Withholding agency funds at the end of the year under consideration, White House says
   date: '2025-06-24'
   tier: 2
+  outlet: Government Executive
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-212
   title: 'Trump Tyranny Tracker: Day 212'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-26'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 OMB Director Russell Vought blocked billions in congressionally-approved public funding, including over $5 billion in SNAP benefits for hungry families, claiming unilateral power to withhold spending despite the Impoundment Control Act prohibiting such actions. Vought confirmed considering 'pocket rescissions'—allowing spending to expire before agencies can allocate funds.

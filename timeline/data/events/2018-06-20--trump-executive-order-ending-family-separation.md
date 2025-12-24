@@ -17,25 +17,25 @@ tags:
 status: confirmed
 sources:
 - url: https://www.npr.org/2018/06/20/622095441/trump-executive-order-on-family-separation-what-it-does-and-doesnt-do
-  title: "Trump's Executive Order On Family Separation: What It Does And Doesn't Do"
-  publisher: NPR
+  title: 'Trump''s Executive Order On Family Separation: What It Does And Doesn''t Do'
   date: '2018-06-20'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/politics/read-trumps-full-executive-order-on-family-separation
   title: Read Trump's full executive order on family separation
-  publisher: PBS NewsHour
   date: '2018-06-20'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://www.politifact.com/factchecks/2018/nov/29/donald-trump/donald-trump-falsely-says-family-separations-were-/
   title: Donald Trump, again, falsely says Obama had family separation policy
-  publisher: PolitiFact
   date: '2018-11-29'
   tier: 1
+  outlet: PolitiFact
 - url: https://www.npr.org/2019/04/09/711446917/fact-check-trump-wrongly-states-obama-administration-had-child-separation-policy
-  title: "FACT CHECK: Trump Wrongly Blames Obama For Child Separation Policy"
-  publisher: NPR
+  title: 'FACT CHECK: Trump Wrongly Blames Obama For Child Separation Policy'
   date: '2019-04-09'
   tier: 1
+  outlet: NPR
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture

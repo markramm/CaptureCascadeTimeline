@@ -1,11 +1,8 @@
 ---
 id: 2025-05-12--trump-s-uk-ambassador-has-investments-in-industries-set-to-b
 date: '2025-05-12'
-title: Trump’s UK ambassador has investments in industries set to benefit from trade
-  deal
-description: Warren Stephens’s, the US ambassador to the UK, family-owned investment
-  firm holds at least $250 million worth of stock in agricultural and food companies
-  that will benefit from the US-UK trade deal Trump announced this week
+title: Trump’s UK ambassador has investments in industries set to benefit from trade deal
+description: Warren Stephens’s, the US ambassador to the UK, family-owned investment firm holds at least $250 million worth of stock in agricultural and food companies that will benefit from the US-UK trade deal Trump announced this week
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -17,17 +14,15 @@ tags:
 - corruption
 capture_type: monetizing_position
 sources:
-- title: Trump’s UK ambassador has investments in industries set to benefit from trade
-    deal
+- title: Trump’s UK ambassador has investments in industries set to benefit from trade deal
   url: https://www.desmog.com/2025/05/15/donald-trump-uk-ambassador-warren-stephens-investments-industries-set-to-benefit-from-trade-deal/
-  outlet: Desmog
+  outlet: DeSmog
   date: '2025-05-12'
 - title: Trump's UK Ambassador Stands to Benefit From New Trade Deal
   url: https://jacobin.com/2025/05/trump-uk-ambassador-trade-deal
   outlet: Jacobin
   date: '2025-05-12'
-- title: Donald Trump's Fossil Fuel Executive UK Ambassador Donated 4 Million to President's
-    Inauguration Fund
+- title: Donald Trump's Fossil Fuel Executive UK Ambassador Donated 4 Million to President's Inauguration Fund
   url: https://www.desmog.com/2025/04/23/donald-trump-warren-stephens-fossil-fuel-executive-uk-ambassador-donated-4-million-to-president-inauguration-fund/
   outlet: DeSmog
   date: '2025-04-23'

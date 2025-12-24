@@ -13,13 +13,13 @@ actors:
 - Department of Veterans Affairs
 - Department of Treasury
 tags:
-- DOGE
-- IRS
+- doge
+- irs
 - whistleblower-retaliation
 - government-efficiency
 - capture
-- Treasury-Department
-- Veterans-Affairs
+- treasury-department
+- veterans-affairs
 capture_lanes:
 - Agency Capture
 - Whistleblower Retaliation

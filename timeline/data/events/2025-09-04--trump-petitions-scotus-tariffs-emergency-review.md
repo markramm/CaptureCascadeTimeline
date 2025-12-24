@@ -1,8 +1,7 @@
 ---
 id: 2025-09-04--trump-petitions-scotus-tariffs-emergency-review
 date: '2025-09-04'
-title: Trump Administration Petitions Supreme Court for Emergency Review of Tariffs
-  Ruling
+title: Trump Administration Petitions Supreme Court for Emergency Review of Tariffs Ruling
 importance: 9
 actors:
 - Donald Trump
@@ -20,20 +19,19 @@ tags:
 sources:
 - url: https://www.npr.org/2025/09/04/nx-s1-5528573/trump-supreme-court-tariffs-ruling
   title: Trump asks Supreme Court to reverse tariffs ruling finding them illegal
-  publisher: NPR
   date: '2025-09-04'
   tier: 1
+  outlet: NPR
 - url: https://www.scotusblog.com/2025/08/the-supreme-court-and-trumps-tariffs-an-explainer/
   title: 'The Supreme Court and Trump''s tariffs: an explainer'
-  publisher: SCOTUSblog
   date: '2025-09-04'
   tier: 1
+  outlet: SCOTUSblog
 - url: https://www.npr.org/2025/09/09/nx-s1-5535806/supreme-court-trump-tariffs
-  title: Supreme Court will weigh in on Trump's tariffs. Here's what to know about
-    the case
-  publisher: NPR
+  title: Supreme Court will weigh in on Trump's tariffs. Here's what to know about the case
   date: '2025-09-09'
   tier: 1
+  outlet: NPR
 ---
 
 The Trump administration filed an expedited emergency petition with the Supreme Court seeking to overturn the Federal Circuit's August 29 ruling that declared Trump's sweeping tariffs illegal under the International Emergency Economic Powers Act (IEEPA). The government asked the Court to stay the Federal Circuit's decision, which had found that Trump exceeded his emergency powers authority when imposing 'reciprocal tariffs' on imports from nearly all U.S. trading partners.

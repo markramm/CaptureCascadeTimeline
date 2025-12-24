@@ -1,0 +1,47 @@
+{
+  "id": "1946-11-05--republican-congress-anti-labor-campaign",
+  "date": "1946-11-05",
+  "title": "1946 Republican Congressional Victory: NAM Anti-Communist Campaign Succeeds",
+  "description": "Republicans win control of both houses of Congress for the first time since 1932, following an unprecedented advertising blitz by the National Association of Manufacturers and other employer groups designed to convince voters that 'communists' lurked everywhere and that price controls were 'un-American.' The campaign successfully uses anti-communist rhetoric to attack New Deal policies, labor unions, and government regulation. Senator Robert Taft accuses President Truman of seeking a Congress 'dominated by a policy of appeasing the Russians abroad and of fostering communism at home.' The House Un-American Activities Committee (HUAC) is converted from a special to a standing (permanent) committee in 1946, institutionalizing anti-communist investigations. This electoral success, achieved through coordinated corporate propaganda, sets the stage for the Taft-Hartley Act (1947) and demonstrates sophisticated corporate political mobilization using mass media. The NAM campaign shows business groups already deploying coordinated national messaging strategies 25 years before the Powell Memo.",
+  "importance": 9,
+  "actors": [
+    "National Association of Manufacturers",
+    "Republican Party",
+    "Robert A. Taft",
+    "Harry S. Truman",
+    "House Un-American Activities Committee",
+    "Corporate employer groups"
+  ],
+  "sources": [
+    {
+      "title": "The Postwar Red Scare",
+      "outlet": "Bill of Rights Institute",
+      "url": "https://www.billofrightsinstitute.org/essays/the-postwar-red-scare",
+      "tier": 2
+    },
+    {
+      "title": "Seventy Five Years Later, Toll of Taft-Hartley Weighs Heavily on Labor",
+      "outlet": "United Electrical Workers (UE)",
+      "url": "https://www.ueunion.org/ue-news-feature/2022/seventy-five-years-later-toll-of-taft-harley-weighs-heavily-on-labor",
+      "tier": 3
+    },
+    {
+      "title": "Harry S. Truman: Campaigns and Elections",
+      "outlet": "Miller Center, University of Virginia",
+      "url": "https://millercenter.org/president/truman/campaigns-and-elections",
+      "tier": 2
+    }
+  ],
+  "tags": [
+    "corporate-power",
+    "anti-communism",
+    "labor-suppression",
+    "business-lobbying",
+    "propaganda",
+    "institutional-capture",
+    "powell-memo-precursors",
+    "post-war-corporate-mobilization",
+    "anti-labor-legislation"
+  ],
+  "significance": "Demonstrates corporate ability to shape national elections through coordinated propaganda campaigns. NAM's successful anti-communist messaging strategy becomes template for business opposition to labor and progressive policies. The conversion of HUAC to permanent status institutionalizes corporate-aligned anti-communist investigations, creating long-term infrastructure for suppressing labor organizing and progressive movements."
+}

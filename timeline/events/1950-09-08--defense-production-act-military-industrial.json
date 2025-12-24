@@ -1,0 +1,49 @@
+{
+  "id": "1950-09-08--defense-production-act-military-industrial",
+  "date": "1950-09-08",
+  "title": "Defense Production Act of 1950: Military-Industrial Complex Institutionalized",
+  "description": "President Truman signs the Defense Production Act of 1950 on September 8, in response to the Korean War outbreak. The act grants the president broad powers to intervene in the national economy to ensure or expedite production of goods, services, and resources for 'national defense.' This legislation institutionalizes the military-industrial relationship for the first time in peacetime American history, establishing a permanent standing military with inflated defense expenditures and large corporations as permanent suppliers. Truman establishes the Office of Defense Mobilization, institutes wage and price controls, strictly regulates heavy industries (steel, mining), and prioritizes allocation of scarce materials. The DPA plays a vital role in establishing domestic aluminum and titanium industries through capital provision, interest-free loans, and directed resources. Congress quickly passes legislation encouraging and facilitating industrial expansion to meet projected military needs. Defense spending rises from $150 billion (2002 dollars) in 1950 to nearly $500 billion in 1953—a 233% increase. The act has been reauthorized over 50 times since 1950, creating permanent government-corporate defense relationship.",
+  "importance": 9,
+  "actors": [
+    "Harry S. Truman",
+    "U.S. Congress",
+    "Defense contractors",
+    "Office of Defense Mobilization",
+    "Department of Defense",
+    "Steel industry",
+    "Mining industry",
+    "Aluminum industry",
+    "Titanium industry"
+  ],
+  "sources": [
+    {
+      "title": "Defense Production Act of 1950",
+      "outlet": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Defense_Production_Act_of_1950",
+      "tier": 3
+    },
+    {
+      "title": "The Defense Production Act of 1950: History, Authorities, and Considerations for Congress",
+      "outlet": "Congressional Research Service",
+      "url": "https://www.congress.gov/crs-product/R43767",
+      "tier": 1
+    },
+    {
+      "title": "Radio and Television Address to the American People Following the Signing of the Defense Production Act",
+      "outlet": "Truman Presidential Library",
+      "url": "https://www.trumanlibrary.gov/library/public-papers/243/radio-and-television-address-american-people-following-signing-defense",
+      "tier": 1
+    }
+  ],
+  "tags": [
+    "military-industrial-complex",
+    "corporate-power",
+    "defense-spending",
+    "institutional-capture",
+    "government-contracts",
+    "powell-memo-precursors",
+    "post-war-corporate-mobilization",
+    "economic-policy"
+  ],
+  "significance": "Establishes permanent peacetime military-industrial relationship, fundamentally altering American capitalism. Creates guaranteed government market for defense contractors, leading to $10 trillion in defense spending (1948-1989 in current dollars). The act's 50+ reauthorizations show bipartisan support for government-subsidized corporate profits through defense contracts. This institutionalizes corporate dependence on government contracts while corporations maintain rhetoric of 'free enterprise.' Presages Eisenhower's 1961 warning about military-industrial complex influence."
+}

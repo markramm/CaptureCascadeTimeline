@@ -21,7 +21,7 @@ sources:
   date: '2014-06-01'
   url: https://abcnews.go.com/blogs/politics/2014/06/get-me-rewrite-white-house-talking-points-on-iraq-and-al-qaeda
 - title: Records Could Shed Light on Iraq Group
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2008-06-09'
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
 capture_lanes:

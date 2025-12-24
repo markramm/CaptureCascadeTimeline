@@ -2,14 +2,13 @@
 id: 2025-08-07--ossoff-ice-detention-abuse-investigation
 date: '2025-08-07'
 importance: 9
-title: Senator Ossoff documents 510 credible reports of ICE detention abuse including
-  child mistreatment
+title: Senator Ossoff documents 510 credible reports of ICE detention abuse including child mistreatment
 location: Florida (Krome and other facilities)
 actors:
 - Jon Ossoff
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Department of Homeland Security
-- Tricia McLaughlin (DHS)
+- Tricia McLaughlin
 - Krome detention center
 tags:
 - detention-abuse
@@ -29,14 +28,11 @@ sources:
   url: https://www.nbcnews.com/news/us-news/immigration-detention-human-rights-abuses-report-rcna222499
   outlet: NBC News
   date: '2025-08-11'
-- title: Krome Detention Center was most overcrowded ICE facility in country, new
-    data shows
+- title: Krome Detention Center was most overcrowded ICE facility in country, new data shows
   url: https://www.wptv.com/news/state/miami-dade/krome-detention-center-was-most-overcrowded-ice-facility-in-country-new-data-shows
   outlet: WPTV
   date: '2025-04-24'
-notes: By March, Krome detention increased 249% from pre-inauguration levels. Investigation
-  based on interviews with correctional staff, law enforcement, attorneys, detainees,
-  doctors, and nurses. DHS systematically obstructed site visits and detainee interviews.
+notes: By March, Krome detention increased 249% from pre-inauguration levels. Investigation based on interviews with correctional staff, law enforcement, attorneys, detainees, doctors, and nurses. DHS systematically obstructed site visits and detainee interviews.
 status: confirmed
 ---
 

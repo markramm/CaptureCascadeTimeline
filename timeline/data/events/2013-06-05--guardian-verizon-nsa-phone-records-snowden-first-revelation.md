@@ -17,20 +17,20 @@ actors:
 - Verizon
 sources:
 - url: https://www.washingtonpost.com/news/wonk/wp/2013/06/05/nsa-asked-verizon-for-records-of-all-calls-in-the-u-s/
-  title: "Report: NSA asked Verizon for records of all calls in the U.S."
-  publisher: The Washington Post
+  title: 'Report: NSA asked Verizon for records of all calls in the U.S.'
   date: '2013-06-05'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.csmonitor.com/USA/2013/1016/NSA-revelations-A-timeline-of-what-s-come-out-since-Snowden-leaks-began/June-5-8-2013
-  title: "NSA revelations: A timeline of what's come out since Snowden leaks began"
-  publisher: Christian Science Monitor
+  title: 'NSA revelations: A timeline of what''s come out since Snowden leaks began'
   date: '2013-10-16'
   tier: 2
+  outlet: Christian Science Monitor
 - url: https://www.npr.org/sections/thetwo-way/2013/06/06/189141006/nsa-whistleblower-revealed
-  title: "NSA Whistleblower Revealed"
-  publisher: NPR
+  title: NSA Whistleblower Revealed
   date: '2013-06-06'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

@@ -4,44 +4,44 @@ date: 2014-01-01
 title: Flint Water Crisis (2014-2024) - 12,000 Children Poisoned, Zero Accountability
 importance: 10
 tags:
-  - flint-water-crisis
-  - environmental-racism
-  - emergency-manager
-  - accountability
-  - lead-poisoning
-  - democracy
+- flint-water-crisis
+- environmental-racism
+- emergency-manager
+- accountability
+- lead-poisoning
+- democracy
 actors:
-  - Rick Snyder
-  - Darnell Earley
-  - Mona Hanna-Attisha
-  - LeeAnne Walters
-  - Marc Edwards
+- Rick Snyder
+- Darnell Earley
+- Mona Hanna-Attisha
+- LeeAnne Walters
+- Marc Edwards
 sources:
-  - url: https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know
-    title: Flint Water Crisis - Everything You Need to Know
-    publisher: Natural Resources Defense Council
-    date: 2023-11-08
-    tier: 1
-  - url: https://www.cnn.com/2016/03/04/us/flint-water-crisis-fast-facts/index.html
-    title: Flint Water Crisis Fast Facts
-    publisher: CNN
-    date: 2024-08-07
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/Flint_water_crisis
-    title: Flint water crisis
-    publisher: Wikipedia
-    date: 2024-11-10
-    tier: 2
-  - url: https://harvardpolitics.com/flint-crisis-racism/
-    title: What the Water Crisis in Flint shows about Racism in Public Health
-    publisher: Harvard Political Review
-    date: 2021-04-20
-    tier: 1
-  - url: https://bridgemi.com/michigan-environment-watch/no-convictions-flint-attorney-general-ends-water-crisis-prosecutions/
-    title: No convictions for Flint - Attorney general ends water crisis prosecutions
-    publisher: Bridge Michigan
-    date: 2023-10-18
-    tier: 2
+- url: https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know
+  title: Flint Water Crisis - Everything You Need to Know
+  date: 2023-11-08
+  tier: 1
+  outlet: Natural Resources Defense Council
+- url: https://www.cnn.com/2016/03/04/us/flint-water-crisis-fast-facts/index.html
+  title: Flint Water Crisis Fast Facts
+  date: 2024-08-07
+  tier: 2
+  outlet: CNN
+- url: https://en.wikipedia.org/wiki/Flint_water_crisis
+  title: Flint water crisis
+  date: 2024-11-10
+  tier: 2
+  outlet: Wikipedia
+- url: https://harvardpolitics.com/flint-crisis-racism/
+  title: What the Water Crisis in Flint shows about Racism in Public Health
+  date: 2021-04-20
+  tier: 1
+  outlet: Harvard Political Review
+- url: https://bridgemi.com/michigan-environment-watch/no-convictions-flint-attorney-general-ends-water-crisis-prosecutions/
+  title: No convictions for Flint - Attorney general ends water crisis prosecutions
+  date: 2023-10-18
+  tier: 2
+  outlet: Bridge Michigan
 status: confirmed
 ---
 

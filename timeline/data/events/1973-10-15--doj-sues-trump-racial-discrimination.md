@@ -1,34 +1,34 @@
 ---
 id: 1973-10-15--doj-sues-trump-racial-discrimination
 date: 1973-10-15
-title: "DOJ Sues Trump and Father for Systemic Housing Discrimination"
+title: DOJ Sues Trump and Father for Systemic Housing Discrimination
 importance: 8
 tags:
-  - Racism
-  - Housing Discrimination
-  - Trump Family
-  - Civil Rights
-  - DOJ
+- racism
+- housing discrimination
+- trump family
+- civil rights
+- doj
 actors:
-  - Donald Trump
-  - Fred Trump
-  - Roy Cohn
+- Donald Trump
+- Fred Trump
+- Roy Cohn
 sources:
-  - url: https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case
-    title: "Donald Trump's Housing Discrimination Case Still Chases Him Decades Later"
-    publisher: NPR
-    date: 2016-09-29
-    tier: 1
-  - url: https://clearinghouse.net/case/15342/
-    title: "United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc."
-    publisher: Civil Rights Litigation Clearinghouse
-    date: 1973-10-15
-    tier: 1
-  - url: https://www.politifact.com/factchecks/2016/sep/27/hillary-clinton/true-hillary-clinton-says-federal-government-sued-/
-    title: "Hillary Clinton says federal government sued Donald Trump for housing discrimination"
-    publisher: PolitiFact
-    date: 2016-09-27
-    tier: 1
+- url: https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case
+  title: Donald Trump's Housing Discrimination Case Still Chases Him Decades Later
+  date: 2016-09-29
+  tier: 1
+  outlet: NPR
+- url: https://clearinghouse.net/case/15342/
+  title: United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc.
+  date: 1973-10-15
+  tier: 1
+  outlet: Civil Rights Litigation Clearinghouse
+- url: https://www.politifact.com/factchecks/2016/sep/27/hillary-clinton/true-hillary-clinton-says-federal-government-sued-/
+  title: Hillary Clinton says federal government sued Donald Trump for housing discrimination
+  date: 2016-09-27
+  tier: 1
+  outlet: PolitiFact
 ---
 
 The U.S. Department of Justice filed a major civil rights lawsuit against Donald Trump, his father Fred Trump, and their real estate company, Trump Management Inc., for systematic racial discrimination in housing. The lawsuit, filed in U.S. District Court for the Eastern District of New York, accused the Trumps of violating the Fair Housing Act of 1968 across 39 apartment buildings in Brooklyn, Queens, and Staten Island.

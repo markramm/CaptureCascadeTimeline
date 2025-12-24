@@ -12,9 +12,9 @@ actors:
 sources:
 - title: Billionaire Trump Ally Emerges as Key Broker in Harvard Fight
   url: https://www.nytimes.com/2025/10/05/us/politics/stephen-schwarzman-harvard-trump.html
-  publisher: New York Times
   date: '2025-10-05'
   tier: 1
+  outlet: The New York Times
 tags:
 - institutional-capture
 - academic-freedom-erosion

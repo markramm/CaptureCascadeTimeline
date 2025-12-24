@@ -24,19 +24,17 @@ tags:
 - propaganda-coordination
 status: confirmed
 sources:
-- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense
-    for Policy
+- title: Review of Pre-Iraqi War Activities of the Office of Under Secretary of Defense for Policy
   url: https://media.defense.gov/2007/Feb/09/2001623463/-1/-1/1/07-INTEL-04.PDF
   outlet: Pentagon Inspector General
   date: '2007-02-09'
-- title: Report on Whether Public Statements by U.S. Officials Were Substantiated
-    by Intelligence
+- title: Report on Whether Public Statements by U.S. Officials Were Substantiated by Intelligence
   url: https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf
   outlet: Senate Intelligence Committee
   date: '2008-06-05'
 - title: Pentagon Office Set Up Separate Intelligence Unit
   url: https://www.washingtonpost.com/archive/politics/2004/06/21/pentagon-office-set-up-separate-intelligence-unit/21b99c67-73c8-4f4a-9d15-2f3b49e36a37/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2004-06-21'
 capture_lanes:
 - Legislative Capture

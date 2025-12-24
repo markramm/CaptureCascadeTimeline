@@ -4,36 +4,36 @@ date: 2020-08-13
 title: USPS Removes Mailboxes in Democratic Areas, Reverses After Public Outcry
 importance: 8
 tags:
-  - Election Interference
-  - USPS
-  - Postal Service
-  - Voter Suppression
-  - DeJoy
+- election interference
+- usps
+- postal service
+- voter suppression
+- dejoy
 actors:
-  - Louis DeJoy
-  - USPS
-  - Donald Trump
+- Louis DeJoy
+- USPS
+- Donald Trump
 sources:
-  - url: https://www.wweek.com/news/2020/08/13/united-states-postal-service-confirmed-it-has-removed-mailboxes-in-portland-and-eugene/
-    title: U.S. Postal Service Confirms It Has Removed Mailboxes in Portland and Eugene
-    publisher: Willamette Week
-    date: 2020-08-13
-    tier: 2
-  - url: https://www.kgw.com/article/news/verify/mail-in-ballots-portland-mailboxes-removed-usps-trump-voting-election/283-dc46af71-d048-4ba2-bcdb-c3d36ff26725
-    title: "VERIFY: Are USPS mailboxes being removed from Portland streets?"
-    publisher: KGW
-    date: 2020-08-13
-    tier: 2
-  - url: https://abcnews.go.com/Politics/citing-customer-concerns-postal-service-halt-mailbox-removals/story?id=72407791
-    title: "Citing 'customer concerns,' Postal Service says it will halt mailbox removals"
-    publisher: ABC News
-    date: 2020-08-14
-    tier: 1
-  - url: https://www.democracynow.org/2020/8/14/headlines/usps_confirms_removal_of_public_mailboxes_from_oregon_cities
-    title: USPS Confirms Removal of Public Mailboxes from Oregon Cities
-    publisher: Democracy Now
-    date: 2020-08-14
-    tier: 2
+- url: https://www.wweek.com/news/2020/08/13/united-states-postal-service-confirmed-it-has-removed-mailboxes-in-portland-and-eugene/
+  title: U.S. Postal Service Confirms It Has Removed Mailboxes in Portland and Eugene
+  date: 2020-08-13
+  tier: 2
+  outlet: Willamette Week
+- url: https://www.kgw.com/article/news/verify/mail-in-ballots-portland-mailboxes-removed-usps-trump-voting-election/283-dc46af71-d048-4ba2-bcdb-c3d36ff26725
+  title: 'VERIFY: Are USPS mailboxes being removed from Portland streets?'
+  date: 2020-08-13
+  tier: 2
+  outlet: KGW
+- url: https://abcnews.go.com/Politics/citing-customer-concerns-postal-service-halt-mailbox-removals/story?id=72407791
+  title: Citing 'customer concerns,' Postal Service says it will halt mailbox removals
+  date: 2020-08-14
+  tier: 1
+  outlet: ABC News
+- url: https://www.democracynow.org/2020/8/14/headlines/usps_confirms_removal_of_public_mailboxes_from_oregon_cities
+  title: USPS Confirms Removal of Public Mailboxes from Oregon Cities
+  date: 2020-08-14
+  tier: 2
+  outlet: Democracy Now
 ---
 
 The United States Postal Service confirmed that it removed dozens of public mailboxes from streets in Democratic-leaning areas across multiple states, including Oregon, Montana, Pennsylvania, and New York. In Portland, four blue collection boxes were removed from city streets, while 27 additional boxes were removed from Eugene, Oregon. Photos of USPS workers loading the signature blue mailboxes onto trucks went viral, triggering widespread public alarm about election interference.

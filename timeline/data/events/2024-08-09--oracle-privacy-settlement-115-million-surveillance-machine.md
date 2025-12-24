@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Oracle to pay $115M in data privacy settlement
   url: https://topclassactions.com/lawsuit-settlements/privacy/oracle-class-action-alleges-company-earns-billions-selling-internet-users-personal-information/
-  publisher: Top Class Actions
   date: '2024-08-12'
   tier: 2
+  outlet: Top Class Actions
 - title: Oracle/Data Broker Consumer Privacy Violations Class Action
   url: https://www.lieffcabraser.com/privacy/oracle/
-  publisher: Lieff Cabraser Heimann & Bernstein
   date: '2024-08-09'
   tier: 2
+  outlet: Lieff Cabraser Heimann & Bernstein
 - title: Oracle's 'surveillance machine' faces privacy class action
   url: https://techcrunch.com/2022/08/22/oracle-us-privacy-class-action/
-  publisher: TechCrunch
   date: '2022-08-22'
   tier: 2
+  outlet: TechCrunch
 ---
 
 U.S. District Judge Richard Seeborg granted preliminary approval on August 9, 2024, to a class action settlement requiring Oracle Corporation to pay $115 million and implement changes to its data brokerage practices. The settlement resolves the lawsuit filed in August 2022 alleging that Oracle operated a "worldwide surveillance machine" that violated the privacy of approximately 5 billion people by collecting and selling their personal information without consent.

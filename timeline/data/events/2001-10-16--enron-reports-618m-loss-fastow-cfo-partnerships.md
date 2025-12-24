@@ -4,30 +4,30 @@ date: 2001-10-16
 title: Enron Reports $618 Million Loss and Reveals CFO Partnership Schemes
 importance: 9
 tags:
-  - corporate-fraud
-  - enron
-  - accounting-fraud
-  - white-collar-crime
+- corporate-fraud
+- enron
+- accounting-fraud
+- white-collar-crime
 actors:
-  - Kenneth Lay
-  - Jeffrey Skilling
-  - Andrew Fastow
+- Kenneth Lay
+- Jeffrey Skilling
+- Andrew Fastow
 sources:
-  - url: https://en.wikipedia.org/wiki/Enron_scandal
-    title: "Enron scandal - Wikipedia"
-    publisher: Wikipedia
-    date: 2001-10-16
-    tier: 2
-  - url: https://www.econcrises.org/2016/12/07/enron-corporation-2001/
-    title: "Enron Corporation - Financial Scandals, Scoundrels & Crises"
-    publisher: Economic Crises
-    date: 2001-10-16
-    tier: 2
-  - url: http://archives.cpajournal.com/2003/0403/features/f042403.htm
-    title: "Enron and the Raptors"
-    publisher: CPA Journal
-    date: 2003-04-01
-    tier: 1
+- url: https://en.wikipedia.org/wiki/Enron_scandal
+  title: Enron scandal - Wikipedia
+  date: 2001-10-16
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.econcrises.org/2016/12/07/enron-corporation-2001/
+  title: Enron Corporation - Financial Scandals, Scoundrels & Crises
+  date: 2001-10-16
+  tier: 2
+  outlet: Economic Crises
+- url: http://archives.cpajournal.com/2003/0403/features/f042403.htm
+  title: Enron and the Raptors
+  date: 2003-04-01
+  tier: 1
+  outlet: CPA Journal
 ---
 
 On October 16, 2001, Enron announced a $618 million quarterly loss, marking a pivotal moment in the company's downfall. The loss was largely attributed to a one-time charge for terminating "certain structured finance arrangements" known as the Raptors, which were partnerships controlled by CFO Andrew Fastow.

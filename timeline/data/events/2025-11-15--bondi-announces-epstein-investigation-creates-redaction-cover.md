@@ -4,40 +4,40 @@ date: '2025-11-15'
 title: Bondi Announces New Epstein Investigation Days Before House Vote, Creating Cover for Redactions
 importance: 8
 tags:
-- Epstein
-- Cover-Up
-- DOJ-Weaponization
-- Pam-Bondi
-- Strategic-Timing
-- Active-Investigation
-- Obstruction
-- Transparency
+- epstein
+- cover-up
+- doj-weaponization
+- pam-bondi
+- strategic-timing
+- active-investigation
+- obstruction
+- transparency
 sources:
 - title: At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes
   url: https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes
-  publisher: NPR
   date: '2025-11-15'
   tier: 1
+  outlet: NPR
 - title: At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes
   url: https://www.opb.org/article/2025/11/16/at-trump-s-urging-bondi-says-u-s-will-investigate-epstein-s-ties-to-foes/
-  publisher: OPB
   date: '2025-11-16'
   tier: 1
+  outlet: OPB
 - title: Bondi Ties Herself in Knots Explaining Epstein U-Turn
   url: https://www.thedailybeast.com/bondi-ties-herself-in-knots-explaining-epstein-u-turn/
-  publisher: The Daily Beast
   date: '2025-11-15'
   tier: 2
+  outlet: The Daily Beast
 - title: Will the Epstein Files Be Released? How Trump May Have Found a Way to Block Them
   url: https://time.com/7334450/epstein-files-released-trump-massie/
-  publisher: TIME
   date: '2025-11-18'
   tier: 2
+  outlet: TIME
 - title: Epstein files bill includes exceptions that could affect what gets released and when
   url: https://abcnews.go.com/Politics/epstein-files-bill-includes-exceptions-affect-gets-released/story?id=127673876
-  publisher: ABC News
   date: '2025-11-19'
   tier: 1
+  outlet: ABC News
 actors:
 - Pam Bondi
 - Jay Clayton

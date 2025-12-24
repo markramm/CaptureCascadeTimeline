@@ -4,37 +4,37 @@ title: Purdue Pharma Launches Aggressive OxyContin Marketing Campaign Based on F
 date: '1996-01-01'
 importance: 9
 actors:
-  - Purdue Pharma
-  - Sackler Family
-  - Richard Sackler
+- Purdue Pharma
+- Sackler Family
+- Richard Sackler
 tags:
-  - opioid-crisis
-  - pharmaceutical-industry
-  - corporate-crime
-  - regulatory-capture
-  - public-health
+- opioid-crisis
+- pharmaceutical-industry
+- corporate-crime
+- regulatory-capture
+- public-health
 status: confirmed
 sources:
-  - title: "The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/
-    publisher: American Journal of Public Health
-    date: '2009-01-01'
-    tier: 1
-  - title: Behind Purdue Pharma's marketing of OxyContin
-    url: https://www.pbs.org/newshour/show/behind-purdue-pharmas-marketing-of-oxycontin
-    publisher: PBS NewsHour
-    date: '2018-01-01'
-    tier: 1
-  - title: "Inside the 'Aggressive' Marketing of OxyContin"
-    url: https://www.pbs.org/wgbh/frontline/article/inside-the-aggressive-marketing-of-oxycontin-revisit-purdue-pharmas-role-in-the-opioid-crisis/
-    publisher: PBS Frontline
-    date: '2020-01-01'
-    tier: 1
-  - title: How One Sentence Helped Set Off the Opioid Crisis
-    url: https://www.marketplace.org/story/2017/12/13/opioid
-    publisher: Marketplace
-    date: '2017-12-13'
-    tier: 1
+- title: 'The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/
+  date: '2009-01-01'
+  tier: 1
+  outlet: American Journal of Public Health
+- title: Behind Purdue Pharma's marketing of OxyContin
+  url: https://www.pbs.org/newshour/show/behind-purdue-pharmas-marketing-of-oxycontin
+  date: '2018-01-01'
+  tier: 1
+  outlet: PBS NewsHour
+- title: Inside the 'Aggressive' Marketing of OxyContin
+  url: https://www.pbs.org/wgbh/frontline/article/inside-the-aggressive-marketing-of-oxycontin-revisit-purdue-pharmas-role-in-the-opioid-crisis/
+  date: '2020-01-01'
+  tier: 1
+  outlet: PBS Frontline
+- title: How One Sentence Helped Set Off the Opioid Crisis
+  url: https://www.marketplace.org/story/2017/12/13/opioid
+  date: '2017-12-13'
+  tier: 1
+  outlet: Marketplace
 ---
 
 Purdue Pharma launched the most aggressive marketing campaign ever undertaken for a narcotic drug, introducing OxyContin with false claims about addiction risk. At the 1996 launch party, Dr. Richard Sackler predicted the debut would "be followed by a blizzard of prescriptions that will bury the competition."

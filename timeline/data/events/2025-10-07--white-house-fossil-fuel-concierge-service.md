@@ -11,9 +11,9 @@ actors:
 sources:
 - title: White House offers 'concierge' service to fossil fuel firms
   url: https://www.washingtonpost.com/climate-environment/2025/10/07/trump-fossil-fuel-concierge-service/
-  publisher: Washington Post
   date: '2025-10-07'
   tier: 1
+  outlet: The Washington Post
 tags:
 - regulatory-capture
 - systematic-corruption

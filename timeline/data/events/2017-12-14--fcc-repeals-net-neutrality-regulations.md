@@ -6,7 +6,7 @@ title: FCC Repeals Net Neutrality Regulations Under Industry Pressure
 actors:
 - Ajit Pai
 - Mignon Clyburn
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Verizon
 - Comcast
 - AT&T
@@ -32,17 +32,13 @@ sources:
   url: https://www.brookings.edu/articles/net-neutrality-2-0-perspectives-on-fcc-regulation-of-internet-service-providers/
   outlet: Brookings Institution
   date: '2018-01-15'
-  description: Academic analysis of the net neutrality repeal, providing policy context
-    and historical perspective
+  description: Academic analysis of the net neutrality repeal, providing policy context and historical perspective
 status: confirmed
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 - Technological Infrastructure
-notes: The net neutrality repeal demonstrates systematic regulatory capture, where
-  industry interests override public internet access protections. The decision's long-term
-  implications include potential discrimination in internet traffic and increased
-  corporate control over digital communication infrastructure.
+notes: The net neutrality repeal demonstrates systematic regulatory capture, where industry interests override public internet access protections. The decision's long-term implications include potential discrimination in internet traffic and increased corporate control over digital communication infrastructure.
 related_events:
 - 2002-09-15--telecommunications-act-deregulation
 ---

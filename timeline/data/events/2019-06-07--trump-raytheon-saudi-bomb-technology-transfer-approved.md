@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.axios.com/2019/06/08/american-defense-firm-authorized-build-bomb-parts-saudi-arabia
   title: American defense firm Raytheon authorized to build "high-tech" bomb parts in Saudi Arabia
-  publisher: Axios
   date: '2019-06-08'
   tier: 2
+  outlet: Axios
 - url: https://www.nbcnews.com/politics/congress/under-trump-arms-deal-high-tech-u-s-bombs-be-n1015346
   title: Under Trump arms deal, high-tech U.S. bombs to be built in Saudi Arabia
-  publisher: NBC News
   date: '2019-06-07'
   tier: 2
+  outlet: NBC News
 - url: https://inthesetimes.com/article/trump-yemen-weapons-raytheon-saudi-arabia
   title: Trump Lets Raytheon Share Sensitive Bomb-Making Tech with Saudi Arabia
-  publisher: In These Times
   date: '2019-06-07'
   tier: 2
+  outlet: In These Times
 - url: https://www.commondreams.org/news/2019/06/07/warnings-more-deadly-attacks-yemen-trump-permits-raytheon-manufacture-high-tech-bomb
   title: Warnings of More Deadly Attacks on Yemen as Trump Permits Raytheon to Manufacture 'High-Tech Bomb Parts' Inside Saudi Arabia
-  publisher: Common Dreams
   date: '2019-06-07'
   tier: 2
+  outlet: Common Dreams
 actors:
 - Donald Trump
 - Raytheon

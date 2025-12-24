@@ -1,7 +1,7 @@
 ---
 id: 1980-01-01--corporate-mobilization-powell-memo-business-roundtable-political-offensive
 date: '1980-01-01'
-title: 'Corporate Political Mobilization Accelerates Following Powell Memo and Business Roundtable Formation'
+title: Corporate Political Mobilization Accelerates Following Powell Memo and Business Roundtable Formation
 importance: 9
 actors:
 - Business Roundtable
@@ -11,13 +11,13 @@ actors:
 - Corporate CEOs
 tags:
 - corporate-mobilization
-- Powell-Memo
-- Business-Roundtable
+- powell-memo
+- business-roundtable
 - political-offensive
 - anti-labor
 - corporate-lobbying
 sources:
-- title: 'Powell Memo Attack on American Free Enterprise System'
+- title: Powell Memo Attack on American Free Enterprise System
   url: https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/
   outlet: Greenpeace USA
   date: '2024-01-01'

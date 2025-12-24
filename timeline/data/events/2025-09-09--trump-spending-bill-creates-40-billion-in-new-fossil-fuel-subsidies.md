@@ -11,14 +11,14 @@ tags:
 sources:
 - url: https://www.wired.com/story/trump-spending-fossil-fuel-subsidies-40-billion/
   title: Trump Spending Act Creates $40 Billion in New Fossil Fuel Subsidies
-  publisher: WIRED
   date: '2025-09-09'
   tier: 2
+  outlet: WIRED
 - url: https://www.wsj.com/business/energy-oil/trump-oil-donors-harold-hamm-kelcy-warren-policy-influence
   title: Oil Industry Influence on Energy Policy
-  publisher: Wall Street Journal
   date: '2025-09-08'
   tier: 1
+  outlet: The Wall Street Journal
 actors:
 - Donald Trump
 - Harold Hamm

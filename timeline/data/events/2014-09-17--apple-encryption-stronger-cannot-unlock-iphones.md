@@ -18,24 +18,24 @@ actors:
 sources:
 - title: Apple will no longer unlock most iPhones, iPads for police, even with search warrants
   url: https://www.washingtonpost.com/business/technology/2014/09/17/2612af58-3ed2-11e4-b03f-de718edeb92f_story.html
-  publisher: Washington Post
   date: '2014-09-17'
   tier: 1
+  outlet: The Washington Post
 - title: 'Apple: iOS 8 Prevents Cooperation With Police Unlocking Requests'
   url: https://www.npr.org/sections/alltechconsidered/2014/09/18/349561490/apple-ios-8-prevents-cooperation-with-police-unlocking-requests
-  publisher: NPR
   date: '2014-09-18'
   tier: 1
+  outlet: NPR
 - title: IOS 8 encryption - Why Apple won't unlock your iPhone for the police
   url: https://slate.com/technology/2014/09/ios-8-encryption-why-apple-wont-unlock-your-iphone-for-the-police.html
-  publisher: Slate
   date: '2014-09-17'
   tier: 2
+  outlet: Slate
 - title: Apple Reiterates Inability to Unlock iOS Devices Running iOS 8 or Higher in New Court Filing
   url: https://www.macrumors.com/2015/10/20/apple-ios-device-encryption-ios-8/
-  publisher: MacRumors
   date: '2015-10-20'
   tier: 2
+  outlet: MacRumors
 status: confirmed
 ---
 

@@ -1,17 +1,8 @@
 ---
 id: 2021-11-01--in-q-tel-leaders-launch-spac-revolving-door
 date: '2021-11-01'
-title: In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on
-  Steroids'
+title: In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
 importance: 8
-tags:
-- in-q-tel
-- cia
-- revolving-door
-- corruption
-- spac
-- defense-contractors
-- conflict-of-interest
 actors:
 - Christopher Darby
 - Stephen Bowsher
@@ -20,16 +11,23 @@ actors:
 - Alex Younger
 - In-Q-Tel
 - Chain Bridge I
+tags:
+- in-q-tel
+- cia
+- revolving-door
+- corruption
+- spac
+- defense-contractors
+- conflict-of-interest
 sources:
-- url: https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/
-  title: As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action
-  publisher: The Intercept
+- title: As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action
+  url: https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/
+  outlet: The Intercept
   date: '2022-05-05'
   tier: 2
-- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
-  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
-    Earth
-  publisher: Fortune
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
   date: '2025-07-29'
   tier: 2
 ---

@@ -6,7 +6,7 @@ title: DHS eliminates civil rights and oversight offices through mass layoffs
 location: Washington, D.C.
 actors:
 - Department of Homeland Security
-- Tricia McLaughlin (DHS)
+- Tricia McLaughlin
 - Office for Civil Rights and Civil Liberties
 - Immigration Detention Ombudsman
 - Citizenship and Immigration Services Ombudsman
@@ -27,14 +27,11 @@ sources:
   url: https://www.axios.com/2025/03/21/dhs-layoffs-homeland-security-civil-rights
   outlet: Axios
   date: '2025-03-21'
-- title: Trump administration closes three DHS offices focused on civil rights and
-    oversight
+- title: Trump administration closes three DHS offices focused on civil rights and oversight
   url: https://www.epi.org/policywatch/trump-administration-closes-three-dhs-offices-focused-on-civil-rights-and-oversight/
   outlet: Economic Policy Institute
   date: '2025-03-22'
-notes: Senators warned eliminating CRCL would violate statutory requirements. Federal
-  judge ordered offices must continue statutorily required functions. Cuts left offices
-  unable to investigate civil rights violations or detention conditions.
+notes: Senators warned eliminating CRCL would violate statutory requirements. Federal judge ordered offices must continue statutorily required functions. Cuts left offices unable to investigate civil rights violations or detention conditions.
 status: confirmed
 ---
 

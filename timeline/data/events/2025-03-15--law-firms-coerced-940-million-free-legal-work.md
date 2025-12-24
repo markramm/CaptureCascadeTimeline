@@ -2,7 +2,7 @@
 actors:
 - Trump Administration
 - Major law firms
-- Paul, Weiss
+- Paul Weiss
 - Kirkland & Ellis
 - Latham & Watkins
 - Skadden

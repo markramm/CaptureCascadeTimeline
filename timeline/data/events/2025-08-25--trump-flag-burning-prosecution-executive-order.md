@@ -15,9 +15,9 @@ tags:
 sources:
 - url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
   title: 2025 Donald J. Trump Executive Orders
-  publisher: Federal Register
   date: '2025-08-25'
   tier: 1
+  outlet: Federal Register
 ---
 
 President Trump signed an executive order titled 'Prosecuting Burning of the American Flag' directing the Department of Justice to prosecute individuals for flag burning, despite the Supreme Court's landmark 1989 decision in Texas v. Johnson establishing flag burning as protected speech under the First Amendment. The order represents a direct challenge to established constitutional precedent and judicial authority.

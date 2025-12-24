@@ -1,38 +1,38 @@
 ---
-id: "2025-12-06--leiweke-pardon-golf-gowdy"
-date: "2025-12-06"
-title: "Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy"
-summary: "President Trump grants a full pardon to Tim Leiweke, former CEO of Oak View Group, who was indicted in July 2025 for conspiracy to rig bidding on a $375 million basketball arena at the University of Texas. The pardon follows a golf conversation between Trump and former Rep. Trey Gowdy, who represents Leiweke. The case demonstrates how personal connections and lobbying at Trump's golf courses influence the exercise of presidential clemency power, raising concerns about the integrity of the justice system when pardons can be secured through social proximity to the president rather than through established legal processes."
+id: 2025-12-06--leiweke-pardon-golf-gowdy
+date: '2025-12-06'
+title: Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy
+summary: President Trump grants a full pardon to Tim Leiweke, former CEO of Oak View Group, who was indicted in July 2025 for conspiracy to rig bidding on a $375 million basketball arena at the University of Texas. The pardon follows a golf conversation between Trump and former Rep. Trey Gowdy, who represents Leiweke. The case demonstrates how personal connections and lobbying at Trump's golf courses influence the exercise of presidential clemency power, raising concerns about the integrity of the justice system when pardons can be secured through social proximity to the president rather than through established legal processes.
 importance: 8
 actors:
-  - Donald Trump
-  - Tim Leiweke
-  - Trey Gowdy
-  - Oak View Group
-  - DOJ
+- Donald Trump
+- Tim Leiweke
+- Trey Gowdy
+- Oak View Group
+- DOJ
 tags:
-  - pardons
-  - corruption
-  - bid-rigging
-  - antitrust
-  - golf-diplomacy
-  - influence-peddling
+- pardons
+- corruption
+- bid-rigging
+- antitrust
+- golf-diplomacy
+- influence-peddling
 sources:
-  - url: "https://www.nbcnews.com/politics/donald-trump/trump-pardons-tim-leiweke-oak-view-group-charged-justice-department-rcna247307"
-    title: "Trump pardons sports executive charged by his Justice Department"
-    publisher: "NBC News"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://www.bloomberg.com/news/articles/2025-12-04/ex-oak-view-ceo-leiweke-pardoned-by-trump-in-bid-rigging-case"
-    title: "Trump Pardons Former Oak View CEO Tim Leiweke in Bid-Rigging Case"
-    publisher: "Bloomberg"
-    date: "2025-12-04"
-    tier: 2
-  - url: "https://www.inquisitr.com/trump-grants-pardon-after-golf-chat-with-trey-gowdy"
-    title: "Trump Grants Pardon After Golf Chat With Trey Gowdy"
-    publisher: "The Inquisitr"
-    date: "2025-12-06"
-    tier: 3
+- url: https://www.nbcnews.com/politics/donald-trump/trump-pardons-tim-leiweke-oak-view-group-charged-justice-department-rcna247307
+  title: Trump pardons sports executive charged by his Justice Department
+  date: '2025-12-03'
+  tier: 1
+  outlet: NBC News
+- url: https://www.bloomberg.com/news/articles/2025-12-04/ex-oak-view-ceo-leiweke-pardoned-by-trump-in-bid-rigging-case
+  title: Trump Pardons Former Oak View CEO Tim Leiweke in Bid-Rigging Case
+  date: '2025-12-04'
+  tier: 2
+  outlet: Bloomberg
+- url: https://www.inquisitr.com/trump-grants-pardon-after-golf-chat-with-trey-gowdy
+  title: Trump Grants Pardon After Golf Chat With Trey Gowdy
+  date: '2025-12-06'
+  tier: 3
+  outlet: The Inquisitr
 ---
 
 # Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy

@@ -1,8 +1,7 @@
 ---
 id: 2017-01-30--trump-fires-acting-ag-sally-yates-for-refusing-to-defend-muslim-ban
 date: '2017-01-30'
-title: Trump Fires Acting Attorney General Sally Yates for Refusing to Defend Muslim
-  Ban
+title: Trump Fires Acting Attorney General Sally Yates for Refusing to Defend Muslim Ban
 importance: 10
 tags:
 - rule-of-law
@@ -20,15 +19,14 @@ actors:
 sources:
 - url: https://www.npr.org/2017/01/30/512534805/justice-department-wont-defend-trumps-immigration-order
   title: Trump Fires Acting Attorney General For Refusing To Defend Immigration Order
-  publisher: NPR
   date: '2017-01-30'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/politics/acting-attorney-general-tells-doj-staff-not-defend-trump-refugee-order
-  title: Trump replaces acting attorney general Yates after she orders DOJ to stop
-    defending refugee ban
-  publisher: PBS
+  title: Trump replaces acting attorney general Yates after she orders DOJ to stop defending refugee ban
   date: '2017-01-30'
   tier: 1
+  outlet: PBS
 status: confirmed
 ---
 

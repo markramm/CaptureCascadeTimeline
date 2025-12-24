@@ -12,15 +12,15 @@ tags:
 actors:
 - Ronald Reagan
 - Barry Goldwater
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Cable industry
 sources:
-- title: 'Cable Communications Policy Act of 1984'
+- title: Cable Communications Policy Act of 1984
   url: https://en.wikipedia.org/wiki/Cable_Communications_Policy_Act_of_1984
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Cable Communications Policy Act of 1984 (1984)'
+- title: Cable Communications Policy Act of 1984 (1984)
   url: https://firstamendment.mtsu.edu/article/cable-communications-policy-act-of-1984/
   publication: The First Amendment Encyclopedia
   date: '2024-09-15'

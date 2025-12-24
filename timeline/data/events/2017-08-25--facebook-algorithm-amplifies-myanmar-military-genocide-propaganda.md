@@ -1,12 +1,12 @@
 ---
 id: 2017-08-25--facebook-algorithm-amplifies-myanmar-military-genocide-propaganda
 date: '2017-08-25'
-title: 'Facebook Algorithm Amplifies Myanmar Military Hate Speech Enabling Rohingya Genocide'
+title: Facebook Algorithm Amplifies Myanmar Military Hate Speech Enabling Rohingya Genocide
 importance: 10
 actors:
 - Facebook
 - Mark Zuckerberg
-- Myanmar Military (Tatmadaw)
+- Myanmar Military
 - Rohingya Muslims
 - United Nations
 - Amnesty International
@@ -23,22 +23,22 @@ tags:
 - tech-platforms
 - systematic-violence
 sources:
-- title: 'Facebook algorithms promoted anti-Rohingya violence in Myanmar'
+- title: Facebook algorithms promoted anti-Rohingya violence in Myanmar
   url: https://time.com/6217730/myanmar-meta-rohingya-facebook/
   outlet: TIME
   date: '2022-09-29'
   tier: 1
-- title: 'Amnesty report finds Facebook amplified hate ahead of Rohingya massacre'
+- title: Amnesty report finds Facebook amplified hate ahead of Rohingya massacre
   url: https://www.pbs.org/newshour/world/amnesty-report-finds-facebook-amplified-hate-ahead-of-rohingya-massacre-in-myanmar
   outlet: PBS NewsHour
   date: '2022-09-29'
   tier: 1
-- title: "Facebook's systems promoted violence against Rohingya"
+- title: Facebook's systems promoted violence against Rohingya
   url: https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/
   outlet: Amnesty International
   date: '2022-09-29'
   tier: 1
-- title: 'Facebook and Genocide in Myanmar'
+- title: Facebook and Genocide in Myanmar
   url: https://systemicjustice.org/article/facebook-and-genocide-how-facebook-contributed-to-genocide-in-myanmar-and-why-it-will-not-be-held-accountable/
   outlet: Harvard Law School - Systemic Justice Project
   date: '2023-06-15'

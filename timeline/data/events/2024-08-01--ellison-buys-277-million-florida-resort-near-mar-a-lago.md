@@ -17,19 +17,19 @@ actors:
 sources:
 - title: After pouring $450 million into Florida real estate, Oracle's Larry Ellison plans to lure the ultra-rich to an exclusive town 20 minutes from Trump's Mar-a-Lago
   url: https://fortune.com/2025/03/21/larry-ellison-oracle-florida-real-estate-manalapan/
-  publisher: Fortune
   date: '2025-03-21'
   tier: 2
+  outlet: Fortune
 - title: Larry Ellison Invests $450M in Manalapan, Boosting Luxury Real Estate Demand
   url: https://www.ainvest.com/news/larry-ellison-invests-450m-manalapan-boosting-luxury-real-estate-demand-2503/
-  publisher: Ainvest
   date: '2025-03-21'
   tier: 2
+  outlet: Ainvest
 - title: Larry Ellison joins billionaires reshaping Florida real estate
   url: https://www.craincurrency.com/art-collectibles-and-property-management/larry-ellison-joins-billionaires-reshaping-florida-real
-  publisher: Crain Currency
   date: '2025-03-21'
   tier: 2
+  outlet: Crain Currency
 ---
 
 Oracle Chairman Larry Ellison purchased the Eau Palm Beach Resort & Spa in Manalapan, Florida, for $277 million in August 2024, bringing his total real estate investment in the exclusive 400-resident island town to $450 million. Located approximately 20 minutes from Donald Trump's Mar-a-Lago estate, Ellison's acquisitions position him as a major property owner in an ultra-wealthy enclave that has become a magnet for billionaires seeking proximity to Trump's political power center.

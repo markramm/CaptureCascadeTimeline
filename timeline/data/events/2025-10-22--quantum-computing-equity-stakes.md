@@ -17,9 +17,9 @@ actors:
 sources:
 - url: https://www.wsj.com/articles/trump-quantum-computing-equity-stakes
   title: Trump Administration Seeks Equity Stakes in Quantum Computing Firms
-  publisher: Wall Street Journal
   date: '2025-10-22'
   tier: 1
+  outlet: The Wall Street Journal
 status: confirmed
 ---
 

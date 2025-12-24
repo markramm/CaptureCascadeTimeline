@@ -4,42 +4,42 @@ date: '2024-02-16'
 title: Judge Engoron Issues $454 Million Fraud Judgment Against Trump, Bans NY Business Operations
 importance: 10
 tags:
-  - Financial Fraud
-  - NY Attorney General
-  - Trump Organization
-  - Civil Fraud Judgment
-  - Arthur Engoron
-  - Business Ban
+- financial fraud
+- ny attorney general
+- trump organization
+- civil fraud judgment
+- arthur engoron
+- business ban
 actors:
-  - Arthur Engoron
-  - Donald Trump
-  - Letitia James
-  - Donald Trump Jr.
-  - Eric Trump
-  - Allen Weisselberg
-  - Jeffrey McConney
-  - Trump Organization
+- Arthur Engoron
+- Donald Trump
+- Letitia James
+- Donald Trump Jr.
+- Eric Trump
+- Allen Weisselberg
+- Jeffrey McConney
+- Trump Organization
 sources:
-  - url: https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump
-    title: Attorney General James Wins Landmark Victory Against Donald Trump
-    publisher: New York Attorney General's Office
-    date: '2024-02-16'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/ny-fraud-case-damages-pay-millions-judge-engoron-rcna135283
-    title: Judge fines Trump more than $350 million, bars him from NY businesses
-    publisher: NBC News
-    date: '2024-02-16'
-    tier: 1
-  - url: https://www.cnbc.com/2024/02/16/trump-fraud-trial-judge-engoron-verdict-ny-ag-business-case.html
-    title: Trump fraud trial - Judge Engoron fines ex-president $454 million
-    publisher: CNBC
-    date: '2024-02-16'
-    tier: 1
-  - url: https://abcnews.go.com/US/live-updates/trump-fraud-trial/?id=103642561
-    title: Judge fines Trump $354 million, says frauds 'shock the conscience'
-    publisher: ABC News
-    date: '2024-02-16'
-    tier: 1
+- url: https://ag.ny.gov/press-release/2024/attorney-general-james-wins-landmark-victory-case-against-donald-trump
+  title: Attorney General James Wins Landmark Victory Against Donald Trump
+  date: '2024-02-16'
+  tier: 1
+  outlet: New York Attorney General's Office
+- url: https://www.nbcnews.com/politics/donald-trump/ny-fraud-case-damages-pay-millions-judge-engoron-rcna135283
+  title: Judge fines Trump more than $350 million, bars him from NY businesses
+  date: '2024-02-16'
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnbc.com/2024/02/16/trump-fraud-trial-judge-engoron-verdict-ny-ag-business-case.html
+  title: Trump fraud trial - Judge Engoron fines ex-president $454 million
+  date: '2024-02-16'
+  tier: 1
+  outlet: CNBC
+- url: https://abcnews.go.com/US/live-updates/trump-fraud-trial/?id=103642561
+  title: Judge fines Trump $354 million, says frauds 'shock the conscience'
+  date: '2024-02-16'
+  tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

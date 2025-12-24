@@ -4,33 +4,33 @@ date: 2019-04-18
 title: Mueller Report Released - 448 Pages Documenting Russian Interference and Obstruction Episodes
 importance: 10
 tags:
-  - Mueller Investigation
-  - Obstruction of Justice
-  - Russia Interference
-  - Presidential Accountability
-  - Impeachment
-  - Rule of Law
+- mueller investigation
+- obstruction of justice
+- russia interference
+- presidential accountability
+- impeachment
+- rule of law
 actors:
-  - Robert Mueller
-  - Donald Trump
-  - William Barr
-  - Russian Government
+- Robert Mueller
+- Donald Trump
+- William Barr
+- Russian Government
 sources:
-  - url: https://www.justice.gov/storage/report.pdf
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
-    publisher: Department of Justice Special Counsel's Office
-    date: 2019-04-18
-    tier: 1
-  - url: https://www.justice.gov/opa/pr/report-investigation-russian-interference-2016-presidential-election
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election
-    publisher: Department of Justice
-    date: 2019-04-18
-    tier: 1
-  - url: https://intelligence.house.gov/mueller-report/
-    title: Mueller Report - Analysis and Materials
-    publisher: House Permanent Select Committee on Intelligence
-    date: 2019-04-18
-    tier: 1
+- url: https://www.justice.gov/storage/report.pdf
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
+  date: 2019-04-18
+  tier: 1
+  outlet: Department of Justice Special Counsel's Office
+- url: https://www.justice.gov/opa/pr/report-investigation-russian-interference-2016-presidential-election
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election
+  date: 2019-04-18
+  tier: 1
+  outlet: Department of Justice
+- url: https://intelligence.house.gov/mueller-report/
+  title: Mueller Report - Analysis and Materials
+  date: 2019-04-18
+  tier: 1
+  outlet: House Permanent Select Committee on Intelligence
 ---
 
 The Department of Justice released Special Counsel Robert Mueller's 448-page Report on the Investigation into Russian Interference in the 2016 Presidential Election, the culmination of a 22-month investigation that issued more than 2,800 subpoenas, executed nearly 500 search warrants, and interviewed approximately 500 witnesses. The report documented in extraordinary detail Russia's "sweeping and systematic" interference in American democracy and presented substantial evidence of presidential obstruction of justice, explicitly stating it "does not exonerate" President Trump.

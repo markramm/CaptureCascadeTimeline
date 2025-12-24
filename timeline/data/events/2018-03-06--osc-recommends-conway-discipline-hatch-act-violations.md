@@ -4,33 +4,33 @@ date: 2018-03-06
 title: Office of Special Counsel Recommends Disciplining Kellyanne Conway for Hatch Act Violations
 importance: 8
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Kellyanne Conway
-  - Abuse of Office
-  - Trump Administration
+- hatch act
+- ethics violations
+- kellyanne conway
+- abuse of office
+- trump administration
 actors:
-  - Kellyanne Conway
-  - Donald Trump
-  - Henry Kerner
-  - Roy Moore
-  - Doug Jones
+- Kellyanne Conway
+- Donald Trump
+- Henry Kerner
+- Roy Moore
+- Doug Jones
 sources:
-  - url: https://osc.gov/Documents/Hatch%20Act/Reports/Report%20of%20Prohibited%20Political%20Activity,%20Kellyanne%20Conway%20(HA-19-0631%20&%20HA-19-3395).pdf
-    title: Report of Prohibited Political Activity, Kellyanne Conway
-    publisher: U.S. Office of Special Counsel
-    date: 2018-03-06
-    tier: 1
-  - url: https://www.cnbc.com/2018/03/06/special-counsel-says-trump-adviser-conway-violated-hatch-act.html
-    title: Trump advisor Kellyanne Conway violated Hatch Act in TV interviews, federal investigators say
-    publisher: CNBC
-    date: 2018-03-06
-    tier: 1
-  - url: https://www.npr.org/2019/06/13/732359174/kellyanne-conway-should-be-fired-for-violating-ethics-law-oversight-office-says
-    title: Kellyanne Conway Violated Hatch Act, Should Be Fired Says Oversight Group
-    publisher: NPR
-    date: 2019-06-13
-    tier: 1
+- url: https://osc.gov/Documents/Hatch%20Act/Reports/Report%20of%20Prohibited%20Political%20Activity,%20Kellyanne%20Conway%20(HA-19-0631%20&%20HA-19-3395).pdf
+  title: Report of Prohibited Political Activity, Kellyanne Conway
+  date: 2018-03-06
+  tier: 1
+  outlet: U.S. Office of Special Counsel
+- url: https://www.cnbc.com/2018/03/06/special-counsel-says-trump-adviser-conway-violated-hatch-act.html
+  title: Trump advisor Kellyanne Conway violated Hatch Act in TV interviews, federal investigators say
+  date: 2018-03-06
+  tier: 1
+  outlet: CNBC
+- url: https://www.npr.org/2019/06/13/732359174/kellyanne-conway-should-be-fired-for-violating-ethics-law-oversight-office-says
+  title: Kellyanne Conway Violated Hatch Act, Should Be Fired Says Oversight Group
+  date: 2019-06-13
+  tier: 1
+  outlet: NPR
 ---
 
 The U.S. Office of Special Counsel sent a report to President Trump recommending disciplinary action against White House Counselor Kellyanne Conway for violating the Hatch Act during television interviews where she promoted Republican Senate candidate Roy Moore and attacked Democratic candidate Doug Jones in Alabama's 2017 special election. The federal watchdog found that Conway "impermissibly mixed official government business with political views about candidates," appearing on Fox News and CNN in her official White House capacity to engage in partisan political advocacy prohibited by federal law.

@@ -1,7 +1,7 @@
 ---
 id: 1985-08-17--hormel-strike-permanent-replacement-breaking-pattern-bargaining
 date: '1985-08-17'
-title: 'Hormel Strike Broken Through Permanent Replacement, Ending Pattern Bargaining in Meatpacking'
+title: Hormel Strike Broken Through Permanent Replacement, Ending Pattern Bargaining in Meatpacking
 importance: 8
 actors:
 - Hormel
@@ -14,21 +14,21 @@ tags:
 - permanent-replacement
 - union-busting
 - meatpacking
-- Minnesota
+- minnesota
 sources:
-- title: '1985-1986 Hormel Strike Wikipedia'
+- title: 1985-1986 Hormel Strike Wikipedia
   url: https://en.wikipedia.org/wiki/1985-86_Hormel_strike
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Overview - Hormel P-9 Union Strike of 1985'
+- title: Overview - Hormel P-9 Union Strike of 1985
   url: https://libguides.mnhs.org/hormelstrike
   outlet: Minnesota Historical Society Library
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'They Say Give Back We Say Fight Back'
+- title: They Say Give Back We Say Fight Back
   url: https://dollarsandsense.org/archives/2000/0900rachleff.html
   outlet: Dollars & Sense
   date: '2000-09-01'

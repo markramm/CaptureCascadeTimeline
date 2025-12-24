@@ -4,30 +4,30 @@ date: 2021-01-15
 title: PredPol Rebrands as Geolitica Amid Mounting Criticism of Racial Bias
 importance: 7
 tags:
-  - surveillance
-  - technology
-  - ai
-  - police
-  - civil-rights
+- surveillance
+- technology
+- ai
+- police
+- civil-rights
 actors:
-  - PredPol
-  - Geolitica
+- PredPol
+- Geolitica
 sources:
-  - url: https://en.wikipedia.org/wiki/Geolitica
-    title: Geolitica
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 2
-  - url: https://www.techpolicy.press/politicians-move-to-limit-predictive-policing-after-years-of-controversial-failures/
-    title: Politicians Move to Limit Predictive Policing After Years of Controversial Failures
-    publisher: TechPolicy.Press
-    date: 2021-08-01
-    tier: 2
-  - url: https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes
-    title: Predictive Policing Software Terrible At Predicting Crimes
-    publisher: The Markup
-    date: 2023-10-02
-    tier: 1
+- url: https://en.wikipedia.org/wiki/Geolitica
+  title: Geolitica
+  date: 2024-01-01
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.techpolicy.press/politicians-move-to-limit-predictive-policing-after-years-of-controversial-failures/
+  title: Politicians Move to Limit Predictive Policing After Years of Controversial Failures
+  date: 2021-08-01
+  tier: 2
+  outlet: TechPolicy.Press
+- url: https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes
+  title: Predictive Policing Software Terrible At Predicting Crimes
+  date: 2023-10-02
+  tier: 1
+  outlet: The Markup
 ---
 
 PredPol, the controversial predictive policing software company, rebrands itself as Geolitica in 2021 as criticism of algorithmic bias in law enforcement intensifies. The rebrand represents an attempt to distance the company from growing scrutiny of predictive policing's discriminatory impacts and documented failures to reduce crime.

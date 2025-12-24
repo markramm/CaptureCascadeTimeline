@@ -4,31 +4,31 @@ date: 2019-05-01
 title: Academic Studies Document PredPol's Racial Bias and Ineffectiveness
 importance: 8
 tags:
-  - surveillance
-  - technology
-  - ai
-  - police
-  - civil-rights
-  - research
+- surveillance
+- technology
+- ai
+- police
+- civil-rights
+- research
 actors:
-  - PredPol
-  - LAPD
+- PredPol
+- LAPD
 sources:
-  - url: https://dailybruin.com/2019/05/02/predictive-policing-algorithm-perpetuates-racial-profiling-by-lapd
-    title: Predictive policing algorithm perpetuates racial profiling by LAPD
-    publisher: Daily Bruin
-    date: 2019-05-02
-    tier: 2
-  - url: https://www.muckrock.com/news/archives/2019/nov/05/predictive-policing-lacks-accuracy-tests/
-    title: "It's PredPol, and it's going to reduce crime - Agencies take algorithmic effectiveness on faith"
-    publisher: MuckRock
-    date: 2019-11-05
-    tier: 2
-  - url: https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/
-    title: Predictive policing algorithms are racist. They need to be dismantled.
-    publisher: MIT Technology Review
-    date: 2020-07-17
-    tier: 1
+- url: https://dailybruin.com/2019/05/02/predictive-policing-algorithm-perpetuates-racial-profiling-by-lapd
+  title: Predictive policing algorithm perpetuates racial profiling by LAPD
+  date: 2019-05-02
+  tier: 2
+  outlet: Daily Bruin
+- url: https://www.muckrock.com/news/archives/2019/nov/05/predictive-policing-lacks-accuracy-tests/
+  title: It's PredPol, and it's going to reduce crime - Agencies take algorithmic effectiveness on faith
+  date: 2019-11-05
+  tier: 2
+  outlet: MuckRock
+- url: https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/
+  title: Predictive policing algorithms are racist. They need to be dismantled.
+  date: 2020-07-17
+  tier: 1
+  outlet: MIT Technology Review
 ---
 
 Multiple academic studies and internal police audits published in 2019 provide comprehensive evidence of PredPol's racial bias and failure to demonstrate effectiveness, undermining the fundamental claims that have justified the technology's widespread adoption.

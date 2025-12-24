@@ -13,19 +13,19 @@ actors:
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2017/04/10/523254069/wells-fargo-claws-back-75-million-more-from-2-executives-over-fake-accounts
   title: Wells Fargo Claws Back $75 Million More From 2 Executives
-  publisher: NPR
   date: '2017-04-10'
   tier: 1
+  outlet: NPR
 - url: https://www.cnbc.com/2016/09/27/wells-fargo-ceo-john-stumpf-forfeits-41-million.html
   title: Wells Fargo CEO John Stumpf Forfeits $41 Million
-  publisher: CNBC
   date: '2016-09-27'
   tier: 2
+  outlet: CNBC
 - url: https://money.cnn.com/2016/10/13/investing/wells-fargo-ceo-resigns-compensation/index.html
   title: Wells Fargo CEO John Stumpf Walks With $130 Million
-  publisher: CNN Money
   date: '2016-10-13'
   tier: 2
+  outlet: CNN Money
 ---
 
 Following intense Congressional pressure and public outrage, Wells Fargo announces that CEO John Stumpf will forfeit $41 million in unvested stock awards and his 2016 salary and bonus. The clawback represents the board's first attempt to impose financial consequences on senior leadership for the fake accounts scandal. However, the forfeiture leaves Stumpf with approximately $130 million in accumulated wealth from his tenure, demonstrating the limits of compensation clawbacks as accountability mechanisms.

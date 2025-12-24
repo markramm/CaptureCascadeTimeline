@@ -12,7 +12,7 @@ tags:
 - shell-companies
 - political-corruption
 actors:
-- International Consortium of Investigative Journalists
+- International Consortium of Investigative Journalists (ICIJ)
 - King Abdullah II of Jordan
 - Andrej Babiš
 - Sebastián Piñera
@@ -25,13 +25,11 @@ sources:
   url: https://www.icij.org/investigations/pandora-papers/
   outlet: International Consortium of Investigative Journalists
   type: Primary Investigation
-- title: 'Pandora Papers: Biggest ever leak of offshore data exposes financial secrets
-    of rich and powerful'
+- title: 'Pandora Papers: Biggest ever leak of offshore data exposes financial secrets of rich and powerful'
   url: https://www.bbc.com/news/world-58780561
   outlet: BBC News
   date: '2021-10-03'
-- title: Pandora papers reveal hidden wealth and tax avoidance of world's rich and
-    powerful
+- title: Pandora papers reveal hidden wealth and tax avoidance of world's rich and powerful
   url: https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-of-world-leaders
   outlet: The Guardian
   date: '2021-10-03'

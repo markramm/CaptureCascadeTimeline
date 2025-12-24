@@ -4,42 +4,42 @@ title: Mental Health Parity Act Signed into Law with No Enforcement Mechanism, E
 date: '2008-10-03'
 importance: 8
 actors:
-  - George W. Bush
-  - Paul Wellstone
-  - Pete Domenici
-  - Department of Labor
-  - Employee Benefits Security Administration
-  - Health insurance industry
+- George W. Bush
+- Paul Wellstone
+- Pete Domenici
+- Department of Labor
+- Employee Benefits Security Administration
+- Health insurance industry
 tags:
-  - healthcare
-  - mental-health
-  - insurance-fraud
-  - regulatory-capture
-  - enforcement-failure
-  - dol
-  - systematic-corruption
+- healthcare
+- mental-health
+- insurance-fraud
+- regulatory-capture
+- enforcement-failure
+- dol
+- systematic-corruption
 status: confirmed
 sources:
-  - title: The Mental Health Parity and Addiction Equity Act (MHPAEA)
-    url: https://www.cms.gov/marketplace/private-health-insurance/mental-health-parity-addiction-equity
-    publisher: Centers for Medicare & Medicaid Services
-    date: '2024-01-15'
-    tier: 1
-  - title: Mental Health and Substance Use - State and Federal Oversight of Compliance with Parity Requirements Varies
-    url: https://www.gao.gov/products/gao-20-150
-    publisher: Government Accountability Office
-    date: '2019-12-20'
-    tier: 1
-  - title: Factors Affecting State-Level Enforcement of the Federal Mental Health Parity and Addiction Equity Act
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9938503/
-    publisher: PMC (National Institutes of Health)
-    date: '2023-02-01'
-    tier: 1
-  - title: FY 2022 MHPAEA Enforcement Fact Sheet
-    url: https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/mental-health-parity/mhpaea-enforcement-2022
-    publisher: Department of Labor
-    date: '2022-12-31'
-    tier: 1
+- title: The Mental Health Parity and Addiction Equity Act (MHPAEA)
+  url: https://www.cms.gov/marketplace/private-health-insurance/mental-health-parity-addiction-equity
+  date: '2024-01-15'
+  tier: 1
+  outlet: Centers for Medicare & Medicaid Services
+- title: Mental Health and Substance Use - State and Federal Oversight of Compliance with Parity Requirements Varies
+  url: https://www.gao.gov/products/gao-20-150
+  date: '2019-12-20'
+  tier: 1
+  outlet: GAO
+- title: Factors Affecting State-Level Enforcement of the Federal Mental Health Parity and Addiction Equity Act
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9938503/
+  date: '2023-02-01'
+  tier: 1
+  outlet: PMC (National Institutes of Health)
+- title: FY 2022 MHPAEA Enforcement Fact Sheet
+  url: https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/mental-health-parity/mhpaea-enforcement-2022
+  date: '2022-12-31'
+  tier: 1
+  outlet: Department of Labor
 ---
 
 On October 3, 2008, President George W. Bush signed the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act (MHPAEA) into law as part of the Emergency Economic Stabilization Act (TARP legislation), requiring health insurers to provide mental health and substance use disorder benefits on par with physical health coverage. However, the legislation included no mechanism to regularly monitor compliance, gave the Department of Labor no authority to act directly against insurance companies, and created no front-end enforcement system to ensure compliance before violations harmed patients. The result has been systematic insurer non-compliance—with DOL citing 113 violations in 2017-2018 alone, the Government Accountability Office finding that nearly all comparative analyses contained insufficient information to support compliance findings, and research showing the law has had "minimal effect" on increasing treatment access or decreasing costs due to inadequate enforcement. States have filled some enforcement gaps, assessing over $31 million in fines against 30+ health plans since 2016, but the federal enforcement vacuum has allowed insurance companies to routinely violate parity requirements for 16 years while facing minimal consequences.

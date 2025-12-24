@@ -5,7 +5,7 @@ actors:
 - U.S. intelligence agencies
 - Defense agencies
 - FedRAMP
-- General Services Administration (GSA)
+- General Services Administration
 - AWS
 - Google Cloud
 capture_lanes:
@@ -19,8 +19,7 @@ importance: 9
 priority_id: RT-CLAUDE-2025-ai-regulatory-capture-openai-anthropic
 sources:
 - outlet: TechCrunch
-  title: Anthropic Takes Aim at OpenAI, Offers Claude to All Three Branches of Government
-    for $1
+  title: Anthropic Takes Aim at OpenAI, Offers Claude to All Three Branches of Government for $1
   url: https://techcrunch.com/2025/08/12/anthropic-takes-aim-at-openai-offers-claude-to-all-three-branches-of-government-for-1/
   verified_date: '2025-08-12'
   access_date: '2025-10-06'
@@ -43,8 +42,7 @@ tags:
 - classified-systems
 - cloud-infrastructure
 - government-contract
-title: Anthropic Secures Comprehensive FedRAMP High Certification for Government AI
-  Deployment
+title: Anthropic Secures Comprehensive FedRAMP High Certification for Government AI Deployment
 ---
 
 Anthropic achieved comprehensive FedRAMP High certification for Claude across multiple cloud platforms, enabling secure AI deployment across all three branches of the U.S. government. Through a groundbreaking $1 OneGov deal with the General Services Administration (GSA), Anthropic offers Claude AI to federal, legislative, and judicial agencies with unprecedented accessibility.

@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Trump to attend campaign fundraising event at Oracle Chairman Larry Ellison's Rancho Mirage estate
   url: https://www.cnbc.com/2020/02/12/trump-fundraiser-scheduled-at-oracle-chairman-larry-ellisons-report.html
-  publisher: CNBC
   date: '2020-02-12'
   tier: 2
+  outlet: CNBC
 - title: Oracle's Larry Ellison makes friends with his enemy's enemy, hosting a fundraiser for President Trump
   url: https://fortune.com/2020/02/14/oracle-amazon-larry-ellison-hosts-fundraiser-trump/
-  publisher: Fortune
   date: '2020-02-14'
   tier: 2
+  outlet: Fortune
 - title: Oracle Boss Larry Ellison's Coachella Valley Trump Fundraiser Protested by Employees and Locals Alike
   url: https://www.lamag.com/citythinkblog/oracle-boss-larry-ellisons-coachella-valley-trump-fundraiser-protested-by-employees-and-locals-alike/
-  publisher: Los Angeles Magazine
   date: '2020-02-19'
   tier: 2
+  outlet: Los Angeles Magazine
 ---
 
 Oracle Chairman Larry Ellison hosted President Donald Trump at his Rancho Mirage, California estate on February 19, 2020, for a high-dollar campaign fundraiser that raised approximately $7 million for Trump's reelection campaign. Attendees paid $100,000 for a golf outing and photo opportunity with the president, while those contributing an additional $150,000 gained access to a private round-table discussion. The event took place at Ellison's Porcupine Creek estate, less than two weeks before California's Super Tuesday primary election.

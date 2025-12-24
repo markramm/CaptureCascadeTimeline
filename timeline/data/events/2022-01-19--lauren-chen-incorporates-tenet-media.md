@@ -16,14 +16,14 @@ actors:
 sources:
 - title: 2024 Tenet Media investigation
   url: https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation
-  publisher: Wikipedia
   date: '2024-09-10'
   tier: 3
+  outlet: Wikipedia
 - title: Meet the right-wing Canadian influencers accused of collaborating with an alleged Russian propaganda scheme
   url: https://www.cbc.ca/news/investigates/russian-influence-election-tenet-media-chen-southern-1.7314976
-  publisher: CBC News
   date: '2024-09-06'
   tier: 1
+  outlet: CBC News
 status: confirmed
 ---
 

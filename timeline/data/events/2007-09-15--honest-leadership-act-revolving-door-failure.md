@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.opensecrets.org/revolving-door
   title: Revolving Door - Overview
-  publisher: OpenSecrets
   date: '2024-01-01'
   tier: 1
+  outlet: OpenSecrets
 - url: https://www.citizen.org/article/revolving-congress/
   title: Revolving Congress - The Revolving Door Class of 2019 Flocks to K Street
-  publisher: Public Citizen
   date: '2019-01-01'
   tier: 1
+  outlet: Public Citizen
 - url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2313304
   title: Congressional Staff and the Revolving Door - The Impact of Regulatory Change
-  publisher: SSRN
   date: '2014-01-01'
   tier: 1
+  outlet: SSRN
 actors:
 - Congress
 - K Street

@@ -8,7 +8,7 @@ actors:
 - Paul Manafort
 - Konstantin Kilimnik
 - Trump Campaign
-- Russian Intelligence (GRU)
+- Russian Intelligence
 - Ukrainian Oligarchs
 tags:
 - russian-interference
@@ -30,22 +30,17 @@ sources:
   outlet: Senate Intelligence Committee
   date: '2020-08-18'
   archive_url: https://web.archive.org/web/20200818000000/https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf
-- title: 'U.S. Treasury Provides Missing Link: Manafort''s Partner Gave Campaign Polling
-    Data to Kremlin'
+- title: 'U.S. Treasury Provides Missing Link: Manafort''s Partner Gave Campaign Polling Data to Kremlin'
   url: https://www.justsecurity.org/75766/us-treasury-provides-missing-link-manaforts-partner-gave-campaign-polling-data-to-kremlin-in-2016/
   outlet: Just Security
   date: '2021-04-15'
   archive_url: null
-- title: Paul Manafort Briefed Russian Intelligence Member on 'Battleground States'
-    That Nearly All Voted for Trump
+- title: Paul Manafort Briefed Russian Intelligence Member on 'Battleground States' That Nearly All Voted for Trump
   url: https://www.newsweek.com/paul-manafort-russian-intelligence-kilimnik-collusion-trump-campaign-1400826
   outlet: Newsweek
   date: '2019-03-01'
   archive_url: null
-notes: Senate found Kilimnik was Russian intelligence officer. Data included internal
-  polling from key swing states. Used to target disinformation. Manafort owed millions
-  to Russian oligarch Deripaska. U.S. Treasury confirmed Kilimnik provided polling
-  data to Russian Intelligence Services.
+notes: Senate found Kilimnik was Russian intelligence officer. Data included internal polling from key swing states. Used to target disinformation. Manafort owed millions to Russian oligarch Deripaska. U.S. Treasury confirmed Kilimnik provided polling data to Russian Intelligence Services.
 status: confirmed
 ---
 

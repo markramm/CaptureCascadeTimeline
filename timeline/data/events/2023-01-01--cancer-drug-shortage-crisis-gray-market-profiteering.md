@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.nbcnews.com/health/cancer/cancer-drug-shortage-price-gouging-chemo-drugs-hits-hospitals-hard-rcna98041
   title: Cancer drug shortage - Price gouging of chemo drugs hits some hospitals hard
-  publisher: NBC News
   date: '2023-08-18'
   tier: 2
+  outlet: NBC News
 - url: https://www.cancertherapyadvisor.com/features/drug-shortages-threaten-cancer-care/
   title: Drug Shortages and the Threat to Cancer Care
-  publisher: Cancer Therapy Advisor
   date: '2023-07-01'
   tier: 2
+  outlet: Cancer Therapy Advisor
 - url: https://ascopubs.org/doi/10.1200/OP-25-00381
   title: Crisis of Cancer Drug Shortages - Understanding the Causes and Proposing Sustainable Solutions
-  publisher: Journal of Clinical Oncology - Oncology Practice
   date: '2025-01-01'
   tier: 1
+  outlet: Journal of Clinical Oncology - Oncology Practice
 - url: https://www.scientificamerican.com/article/why-theres-a-serious-cancer-drug-shortage-and-how-to-fix-it/
   title: Why There's a Serious Cancer Drug Shortage, and How to Fix It
-  publisher: Scientific American
   date: '2023-05-01'
   tier: 2
+  outlet: Scientific American
 actors:
 - Big Pharma
 - Teva Pharmaceuticals

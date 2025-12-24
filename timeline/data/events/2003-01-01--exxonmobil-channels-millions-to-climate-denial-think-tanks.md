@@ -4,45 +4,45 @@ date: '2003-01-01'
 title: ExxonMobil Channels Millions to Climate Denial Think Tanks and Front Groups
 importance: 8
 tags:
-  - climate-denial
-  - dark-money
-  - think-tank-funding
-  - fossil-fuels
-  - disinformation
-  - regulatory-capture
+- climate-denial
+- dark-money
+- think-tank-funding
+- fossil-fuels
+- disinformation
+- regulatory-capture
 actors:
-  - ExxonMobil
-  - American Enterprise Institute
-  - Cato Institute
-  - Marshall Institute
-  - International Policy Network
-  - Competitive Enterprise Institute
+- ExxonMobil
+- American Enterprise Institute
+- Cato Institute
+- Marshall Institute
+- International Policy Network
+- Competitive Enterprise Institute
 sources:
-  - url: https://www.desmog.com/exxonmobil-funding-climate-science-denial/
-    title: "ExxonMobil's Funding of Climate Science Denial"
-    publisher: DeSmog
-    date: '2024-01-01'
-    tier: 1
-  - url: https://theecologist.org/2018/oct/22/love-anger-and-oil-funding-behind-climate-denial
-    title: The love, the anger and the oil funding behind climate denial
-    publisher: The Ecologist
-    date: '2018-10-22'
-    tier: 2
-  - url: https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/
-    title: How Big Oil Lost Control of Its Climate Misinformation Machine
-    publisher: Inside Climate News
-    date: '2017-12-22'
-    tier: 1
-  - url: https://www.ucs.org/resources/debunking-misinformation-about-stolen-climate-emails
-    title: Debunking Misinformation About Stolen Climate Emails
-    publisher: Union of Concerned Scientists
-    date: '2009-12-01'
-    tier: 1
+- url: https://www.desmog.com/exxonmobil-funding-climate-science-denial/
+  title: ExxonMobil's Funding of Climate Science Denial
+  date: '2024-01-01'
+  tier: 1
+  outlet: DeSmog
+- url: https://theecologist.org/2018/oct/22/love-anger-and-oil-funding-behind-climate-denial
+  title: The love, the anger and the oil funding behind climate denial
+  date: '2018-10-22'
+  tier: 2
+  outlet: The Ecologist
+- url: https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/
+  title: How Big Oil Lost Control of Its Climate Misinformation Machine
+  date: '2017-12-22'
+  tier: 1
+  outlet: Inside Climate News
+- url: https://www.ucs.org/resources/debunking-misinformation-about-stolen-climate-emails
+  title: Debunking Misinformation About Stolen Climate Emails
+  date: '2009-12-01'
+  tier: 1
+  outlet: Union of Concerned Scientists
 status: confirmed
 capture_lanes:
-  - Media Capture & Control
-  - Regulatory Capture
-  - Think Tank Capture
+- Media Capture & Control
+- Regulatory Capture
+- Think Tank Capture
 ---
 
 ExxonMobil significantly expanded its climate denial funding operation in 2003, channeling millions of dollars to a network of think tanks and front groups designed to manufacture doubt about climate science. The oil giant gave £3.5 million ($4.8 million) to climate skeptic organizations in the United States during 2003 alone, with specific grants including $225,000 to the American Enterprise Institute, $25,000 to the Cato Institute, and $25,000 to the Marshall Institute. Between 2000 and 2003, Mother Jones magazine documented that ExxonMobil channeled at least $8,678,450 to forty organizations that employed disinformation campaigns against climate science.

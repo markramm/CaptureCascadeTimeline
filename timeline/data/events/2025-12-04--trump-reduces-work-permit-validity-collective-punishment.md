@@ -20,7 +20,7 @@ tags:
 - economic-harm
 - asylum-policy
 - trump-administration
-- USCIS
+- uscis
 capture_type: administrative_cruelty
 sources:
 - title: U.S. tightens immigration work permits in latest move to expand crackdown

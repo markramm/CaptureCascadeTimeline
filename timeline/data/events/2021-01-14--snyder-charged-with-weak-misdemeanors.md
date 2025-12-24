@@ -4,30 +4,30 @@ date: 2021-01-14
 title: Rick Snyder Charged With Misdemeanors for Poisoning Thousands—First Governor Ever Criminally Charged
 importance: 9
 tags:
-  - flint-water-crisis
-  - Rick-Snyder
-  - accountability
-  - criminal-justice
+- flint-water-crisis
+- rick-snyder
+- accountability
+- criminal-justice
 actors:
-  - Rick Snyder
-  - Dana Nessel
-  - Fadwa Hammoud
+- Rick Snyder
+- Dana Nessel
+- Fadwa Hammoud
 sources:
-  - url: https://www.npr.org/2021/01/14/956924155/ex-michigan-gov-rick-snyder-and-8-others-criminally-charged-in-flint-water-crisi
-    title: Ex-Michigan Gov. Rick Snyder And 8 Others Criminally Charged In Flint Water Crisis
-    publisher: NPR
-    date: 2021-01-14
-    tier: 1
-  - url: https://www.pbs.org/wgbh/frontline/article/flint-water-crisis-nine-former-michigan-officials-including-ex-gov-rick-snyder-charged/
-    title: Nine Former Michigan Officials, Including Ex-Gov. Rick Snyder, Charged in Flint Water Crisis
-    publisher: PBS Frontline
-    date: 2021-01-14
-    tier: 1
-  - url: https://www.nbcnews.com/news/us-news/former-michigan-gov-rick-snyder-charged-flint-water-crisis-n1253966
-    title: Former Michigan Gov. Rick Snyder charged in Flint water crisis
-    publisher: NBC News
-    date: 2021-01-14
-    tier: 2
+- url: https://www.npr.org/2021/01/14/956924155/ex-michigan-gov-rick-snyder-and-8-others-criminally-charged-in-flint-water-crisi
+  title: Ex-Michigan Gov. Rick Snyder And 8 Others Criminally Charged In Flint Water Crisis
+  date: 2021-01-14
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/wgbh/frontline/article/flint-water-crisis-nine-former-michigan-officials-including-ex-gov-rick-snyder-charged/
+  title: Nine Former Michigan Officials, Including Ex-Gov. Rick Snyder, Charged in Flint Water Crisis
+  date: 2021-01-14
+  tier: 1
+  outlet: PBS Frontline
+- url: https://www.nbcnews.com/news/us-news/former-michigan-gov-rick-snyder-charged-flint-water-crisis-n1253966
+  title: Former Michigan Gov. Rick Snyder charged in Flint water crisis
+  date: 2021-01-14
+  tier: 2
+  outlet: NBC News
 status: confirmed
 ---
 

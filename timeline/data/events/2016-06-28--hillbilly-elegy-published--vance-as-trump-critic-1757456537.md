@@ -20,7 +20,7 @@ sources:
   url: https://www.britannica.com/topic/Hillbilly-Elegy
   retrieval_date: '2025-09-23'
 - title: J.D. Vance's Political Evolution
-  outlet: Time Magazine
+  outlet: TIME
   url: https://time.com/6078483/j-d-vance-interview-trump/
   retrieval_date: '2025-09-23'
 importance: 8

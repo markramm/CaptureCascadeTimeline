@@ -17,20 +17,20 @@ actors:
 - ACLU
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2015/05/07/404898259/federal-court-bulk-collection-of-phone-metadata-is-illegal
-  title: "NSA's Bulk Collection Of Americans' Phone Data Is Illegal, Appeals Court Rules"
-  publisher: NPR
+  title: NSA's Bulk Collection Of Americans' Phone Data Is Illegal, Appeals Court Rules
   date: '2015-05-07'
   tier: 1
+  outlet: NPR
 - url: https://theintercept.com/2015/05/07/appellate-court-rules-nsas-bulk-collection-phone-records-illegal/
-  title: "NSA's Bulk Collection of Phone Records Is Illegal, Appeals Court Says"
-  publisher: The Intercept
+  title: NSA's Bulk Collection of Phone Records Is Illegal, Appeals Court Says
   date: '2015-05-07'
   tier: 1
+  outlet: The Intercept
 - url: https://www.eff.org/deeplinks/2015/05/eff-case-analysis-appeals-court-rules-nsa-phone-records-dragnet-illegal
-  title: "EFF Case Analysis: Appeals Court Rules NSA Phone Records Dragnet is Illegal"
-  publisher: Electronic Frontier Foundation
+  title: 'EFF Case Analysis: Appeals Court Rules NSA Phone Records Dragnet is Illegal'
   date: '2015-05-07'
   tier: 1
+  outlet: Electronic Frontier Foundation
 status: confirmed
 ---
 

@@ -7,7 +7,7 @@ location: United States
 actors:
 - Ronald Reagan
 - Corporate America
-- Internal Revenue Service
+- Internal Revenue Service (IRS)
 - Congress
 tags:
 - corporate-taxes
@@ -16,7 +16,7 @@ tags:
 - reaganomics
 - tax-policy
 sources:
-- title: 'How four decades of tax cuts fueled inequality'
+- title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
@@ -26,9 +26,9 @@ sources:
   outlet: Americans For Tax Fairness
   date: '2024-01-01'
   verified: true
-- title: 'How Corporations Shift Profits to Avoid Taxes'
+- title: How Corporations Shift Profits to Avoid Taxes
   url: https://time.com/6326583/tax-shelters-multinational-corporations/
-  outlet: TIME Magazine
+  outlet: TIME
   date: '2024-01-01'
   verified: true
 ---

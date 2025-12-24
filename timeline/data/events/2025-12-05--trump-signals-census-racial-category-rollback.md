@@ -1,8 +1,7 @@
 ---
 id: 2025-12-05--trump-signals-census-racial-category-rollback
 date: '2025-12-05'
-title: Trump Official Signals Rollback of Census Racial Categories to Erase Marginalized
-  Communities from Federal Data
+title: Trump Official Signals Rollback of Census Racial Categories to Erase Marginalized Communities from Federal Data
 importance: 9
 tags:
 - census-manipulation
@@ -14,7 +13,7 @@ tags:
 - institutional-capture
 actors:
 - Mark Calabria
-- Office of Management and Budget
+- Office of Management and Budget (OMB)
 - Census Bureau
 - Leadership Conference on Civil and Human Rights
 - Arab American Institute
@@ -22,31 +21,29 @@ actors:
 sources:
 - title: Trump official signals potential rollback of changes to census racial categories
   url: https://www.npr.org/2025/12/05/nx-s1-5634897/trump-census-race-categories-ethnicity-middle-east-north-africa
-  publisher: NPR
   date: '2025-12-05'
   tier: 1
-- title: U.S. Census changes how it identifies people by race and ethnicity, creates
-    Middle Eastern and North African category for first time
+  outlet: NPR
+- title: U.S. Census changes how it identifies people by race and ethnicity, creates Middle Eastern and North African category for first time
   url: https://www.pbs.org/newshour/politics/u-s-census-changes-how-it-identifies-people-by-race-and-ethnicity-creates-middle-eastern-and-north-african-category-for-first-time
-  publisher: PBS NewsHour
   date: '2024-03-28'
   tier: 1
+  outlet: PBS NewsHour
 - title: 'Project 2025 and the Census: Ghosts of Past, Present, and Future'
   url: https://civilrights.org/blog/project-2025-and-the-census-ghosts-of-past-present-and-future/
-  publisher: The Leadership Conference on Civil and Human Rights
   date: '2024-06-17'
   tier: 1
-- title: Next U.S. census will have new boxes for 'Middle Eastern or North African,'
-    'Latino'
+  outlet: The Leadership Conference on Civil and Human Rights
+- title: Next U.S. census will have new boxes for 'Middle Eastern or North African,' 'Latino'
   url: https://www.npr.org/2024/03/28/1237218459/census-race-categories-ethnicity-middle-east-north-africa
-  publisher: NPR
   date: '2024-03-28'
   tier: 1
+  outlet: NPR
 - title: Revisions to OMB's Statistical Policy Directive No. 15
   url: https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and
-  publisher: Federal Register
   date: '2024-03-29'
   tier: 1
+  outlet: Federal Register
 ---
 
 Mark Calabria, Trump's chief statistician at the Office of Management and Budget, publicly signaled a potential rollback of Biden-era updates to federal racial and ethnic data collection standards at a December 5 meeting of the Council of Professional Associations on Federal Statistics. The announcement threatens to reverse the first major revision to census categories in 27 years—specifically eliminating the new "Middle Eastern or North African" (MENA) category and reformatted "Hispanic or Latino" question approved after extensive Census Bureau research and more than 20,000 public comments. Calabria stated the administration is "still at the very beginning of a review" of both the revised standards and the approval process itself, marking the first public confirmation that Trump officials are considering abandoning these changes for the 2030 census and all federal government data collection.

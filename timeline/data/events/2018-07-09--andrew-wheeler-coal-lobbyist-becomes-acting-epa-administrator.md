@@ -4,45 +4,45 @@ date: '2018-07-09'
 title: Coal Lobbyist Andrew Wheeler Becomes Acting EPA Administrator After Pruitt Resignation
 importance: 8
 tags:
-  - regulatory-capture
-  - epa
-  - fossil-fuels
-  - climate-denial
-  - revolving-door
-  - coal-industry
+- regulatory-capture
+- epa
+- fossil-fuels
+- climate-denial
+- revolving-door
+- coal-industry
 actors:
-  - Andrew Wheeler
-  - Donald Trump
-  - Environmental Protection Agency
-  - Faegre Baker Daniels
-  - Murray Energy
-  - Robert Murray
+- Andrew Wheeler
+- Donald Trump
+- Environmental Protection Agency (EPA)
+- Faegre Baker Daniels
+- Murray Energy
+- Robert Murray
 sources:
-  - url: https://www.nytimes.com/2018/07/05/climate/andrew-wheeler-epa.html
-    title: Andrew Wheeler, Coal Lobbyist, Is Named Acting E.P.A. Chief
-    publisher: New York Times
-    date: '2018-07-05'
-    tier: 2
-  - url: https://www.npr.org/2019/02/28/698814670/senate-confirms-andrew-wheeler-to-lead-epa
-    title: Senate Confirms Andrew Wheeler To Lead EPA
-    publisher: NPR
-    date: '2019-02-28'
-    tier: 1
-  - url: https://www.propublica.org/article/andrew-wheeler-epa-coal-lobbyist-robert-murray
-    title: "EPA's New Boss Used to Be a Coal Lobbyist, Working for Its Biggest Customer"
-    publisher: ProPublica
-    date: '2018-07-06'
-    tier: 1
-  - url: https://www.desmog.com/andrew-wheeler/
-    title: Andrew Wheeler
-    publisher: DeSmog
-    date: '2024-01-01'
-    tier: 1
+- url: https://www.nytimes.com/2018/07/05/climate/andrew-wheeler-epa.html
+  title: Andrew Wheeler, Coal Lobbyist, Is Named Acting E.P.A. Chief
+  date: '2018-07-05'
+  tier: 2
+  outlet: The New York Times
+- url: https://www.npr.org/2019/02/28/698814670/senate-confirms-andrew-wheeler-to-lead-epa
+  title: Senate Confirms Andrew Wheeler To Lead EPA
+  date: '2019-02-28'
+  tier: 1
+  outlet: NPR
+- url: https://www.propublica.org/article/andrew-wheeler-epa-coal-lobbyist-robert-murray
+  title: EPA's New Boss Used to Be a Coal Lobbyist, Working for Its Biggest Customer
+  date: '2018-07-06'
+  tier: 1
+  outlet: ProPublica
+- url: https://www.desmog.com/andrew-wheeler/
+  title: Andrew Wheeler
+  date: '2024-01-01'
+  tier: 1
+  outlet: DeSmog
 status: confirmed
 capture_lanes:
-  - Regulatory Capture
-  - Revolving Door Corruption
-  - Environmental Destruction
+- Regulatory Capture
+- Revolving Door Corruption
+- Environmental Destruction
 ---
 
 On July 9, 2018, Donald Trump named Andrew Wheeler as Acting EPA Administrator following Scott Pruitt's resignation amid 14 federal corruption investigations. Wheeler, a former coal industry lobbyist who had represented Murray Energy—one of America's largest coal companies—embodied regulatory capture even more systematically than Pruitt. While Pruitt's tenure featured spectacular corruption scandals, Wheeler brought disciplined industry expertise to dismantling environmental protections with less public drama but potentially greater long-term damage to climate and environmental regulation.

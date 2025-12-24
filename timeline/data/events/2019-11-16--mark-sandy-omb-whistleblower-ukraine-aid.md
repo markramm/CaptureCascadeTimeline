@@ -4,38 +4,38 @@ date: '2019-11-16'
 title: OMB Official Mark Sandy Testifies on Ukraine Aid Freeze, Reveals Two Colleagues Resigned Over Concerns
 importance: 8
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - Ukraine
-  - Impeachment
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- ukraine
+- impeachment
 actors:
-  - Mark Sandy
-  - Michael Duffey
-  - Donald Trump
-  - Office of Management and Budget
+- Mark Sandy
+- Michael Duffey
+- Donald Trump
+- Office of Management and Budget (OMB)
 sources:
-  - title: Two OMB officials resigned in part over concerns about Ukraine aid hold, official testifies
-    url: https://www.washingtonpost.com/us-policy/2019/11/26/two-omb-officials-resigned-voicing-concerns-over-ukraine-aid-hold-official-testifies/
-    publisher: Washington Post
-    date: '2019-11-26'
-    tier: 1
-  - title: Summary of Mark Sandy's Deposition Testimony
-    url: https://www.lawfareblog.com/summary-mark-sandys-deposition-testimony
-    publisher: Lawfare
-    date: '2019-11-26'
-    tier: 1
-  - title: Mark Sandy transcript - Budget official testimony undermines impeachment defense on freezing Ukraine aid
-    url: https://www.cnn.com/2019/11/26/politics/transcripts-released-philip-reeker-mark-sandy/index.html
-    publisher: CNN
-    date: '2019-11-26'
-    tier: 1
-  - title: Impeachment Inquiry - Officials Worried Freezing Ukraine Aid Might Break The Law
-    url: https://www.npr.org/2019/11/26/783130582/white-house-officials-worried-freezing-ukraine-aid-could-break-the-law
-    publisher: NPR
-    date: '2019-11-26'
-    tier: 1
+- title: Two OMB officials resigned in part over concerns about Ukraine aid hold, official testifies
+  url: https://www.washingtonpost.com/us-policy/2019/11/26/two-omb-officials-resigned-voicing-concerns-over-ukraine-aid-hold-official-testifies/
+  date: '2019-11-26'
+  tier: 1
+  outlet: The Washington Post
+- title: Summary of Mark Sandy's Deposition Testimony
+  url: https://www.lawfareblog.com/summary-mark-sandys-deposition-testimony
+  date: '2019-11-26'
+  tier: 1
+  outlet: Lawfare
+- title: Mark Sandy transcript - Budget official testimony undermines impeachment defense on freezing Ukraine aid
+  url: https://www.cnn.com/2019/11/26/politics/transcripts-released-philip-reeker-mark-sandy/index.html
+  date: '2019-11-26'
+  tier: 1
+  outlet: CNN
+- title: Impeachment Inquiry - Officials Worried Freezing Ukraine Aid Might Break The Law
+  url: https://www.npr.org/2019/11/26/783130582/white-house-officials-worried-freezing-ukraine-aid-could-break-the-law
+  date: '2019-11-26'
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

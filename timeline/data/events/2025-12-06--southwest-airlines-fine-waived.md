@@ -15,12 +15,12 @@ tags:
 - corporate-capture
 - regulatory-capture
 - consumer-protection
-- Southwest-Airlines
-- DOT
+- southwest-airlines
+- dot
 - political-favoritism
 - accountability-erosion
 - airline-industry
-- Sean-Duffy
+- sean-duffy
 capture_lanes:
 - Corporate & Financial Capture
 - Regulatory Capture & Enforcement Collapse

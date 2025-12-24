@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.npr.org/2019/06/20/734437874/in-rare-rebuke-to-trump-senate-votes-to-block-saudi-arms-sales
   title: Senate Votes To Block Saudi Arms Sales In Bipartisan Move
-  publisher: NPR
   date: '2019-06-20'
   tier: 1
+  outlet: NPR
 - url: https://thehill.com/homenews/senate/449511-senate-votes-to-block-trumps-saudi-arms-sale/
   title: Senate votes to block Trump's Saudi arms sale
-  publisher: The Hill
   date: '2019-06-20'
   tier: 2
+  outlet: The Hill
 - url: https://www.foreign.senate.gov/press/dem/release/menendez-graham-murphy-paul-leahy-young-reed-announce-22-joint-resolutions-to-block-weapons-sales-to-saudi-arabia-and-uae-without-congressional-approval
   title: 22 Joint Resolutions to Block Weapons Sales to Saudi Arabia and UAE
-  publisher: Senate Foreign Relations Committee
   date: '2019-06-06'
   tier: 1
+  outlet: Senate Foreign Relations Committee
 - url: https://www.pbs.org/newshour/show/news-wrap-senate-votes-to-block-saudi-arms-sales
   title: Senate votes to block Saudi arms sales
-  publisher: PBS
   date: '2019-06-20'
   tier: 1
+  outlet: PBS
 actors:
 - Bob Menendez
 - Lindsey Graham

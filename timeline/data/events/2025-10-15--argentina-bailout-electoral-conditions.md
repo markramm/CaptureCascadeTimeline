@@ -17,9 +17,9 @@ actors:
 sources:
 - url: https://thehill.com/policy/international/trump-argentina-bailout-milei/
   title: Trump Pledges $40B to Argentina with Electoral Conditions
-  publisher: The Hill
   date: '2025-10-15'
   tier: 2
+  outlet: The Hill
 status: confirmed
 ---
 

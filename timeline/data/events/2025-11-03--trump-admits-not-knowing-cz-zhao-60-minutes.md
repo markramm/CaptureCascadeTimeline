@@ -1,8 +1,7 @@
 ---
 id: 2025-11-03--trump-admits-not-knowing-cz-zhao-60-minutes
 date: '2025-11-03'
-title: Trump Admits on 60 Minutes He Doesn't Know Changpeng Zhao, the Binance Founder
-  He Pardoned
+title: Trump Admits on 60 Minutes He Doesn't Know Changpeng Zhao, the Binance Founder He Pardoned
 importance: 9
 tags:
 - pardons
@@ -15,22 +14,21 @@ tags:
 - pay-to-play
 - interview
 sources:
-- title: Trump on Binance cryptocurrency tycoon he pardoned "I don't know who he is"
-    - CBS News
+- title: Trump on Binance cryptocurrency tycoon he pardoned "I don't know who he is" - CBS News
   url: https://www.cbsnews.com/news/trump-binance-cryptocurrency-tycoon-he-pardoned-dont-know-who-he-is/
-  publisher: CBS News
   date: '2025-11-03'
   tier: 1
+  outlet: CBS News
 - title: Trump says he knows 'nothing' about the crypto billionaire he pardoned
   url: https://www.nbcnews.com/politics/donald-trump/trump-knows-nothing-crypto-billionaire-cz-binance-pardon-biden-rcna241584
-  publisher: NBC News
   date: '2025-11-03'
   tier: 1
+  outlet: NBC News
 - title: Trump says he has 'no idea who' Binance's CZ is after pardoning him
   url: https://www.cnbc.com/2025/11/03/trump-60-minutes-binance-cz-pardon.html
-  publisher: CNBC
   date: '2025-11-03'
   tier: 2
+  outlet: CNBC
 actors:
 - Donald Trump
 - Norah O'Donnell

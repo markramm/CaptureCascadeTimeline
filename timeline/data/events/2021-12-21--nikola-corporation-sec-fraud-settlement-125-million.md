@@ -1,13 +1,12 @@
 ---
 id: 2021-12-21--nikola-corporation-sec-fraud-settlement-125-million
 date: '2021-12-21'
-title: SEC Charges Nikola Corporation $125 Million for SPAC-Related Fraud and False
-  Claims
+title: SEC Charges Nikola Corporation $125 Million for SPAC-Related Fraud and False Claims
 status: confirmed
 actors:
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Nikola Corporation
-- Trevor Milton (Founder and Former Executive Chairman)
+- Trevor Milton
 - VectoIQ Acquisition Corp (SPAC)
 sources:
 - title: SEC Charges Nikola and its Founder with Fraud

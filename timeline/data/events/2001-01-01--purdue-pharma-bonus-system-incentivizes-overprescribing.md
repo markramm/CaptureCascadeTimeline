@@ -4,31 +4,31 @@ title: Purdue Pharma Bonus System Incentivizes Sales Reps to Target Highest Opio
 date: '2001-01-01'
 importance: 8
 actors:
-  - Purdue Pharma
-  - Sackler Family
+- Purdue Pharma
+- Sackler Family
 tags:
-  - opioid-crisis
-  - pharmaceutical-industry
-  - corporate-crime
-  - perverse-incentives
-  - public-health
+- opioid-crisis
+- pharmaceutical-industry
+- corporate-crime
+- perverse-incentives
+- public-health
 status: confirmed
 sources:
-  - title: "The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy"
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/
-    publisher: American Journal of Public Health
-    date: '2009-01-01'
-    tier: 1
-  - title: "GAO Report: OxyContin Abuse and Diversion and Efforts to Address the Problem"
-    url: https://www.gao.gov/assets/a240885.html
-    publisher: U.S. Government Accountability Office
-    date: '2004-01-01'
-    tier: 1
-  - title: Fixing Pharma's Incentives Problem in the Wake of the U.S. Opioid Crisis
-    url: https://hbr.org/2016/06/fixing-pharmas-incentives-problem-in-the-wake-of-the-u-s-opioid-crisis
-    publisher: Harvard Business Review
-    date: '2016-06-01'
-    tier: 2
+- title: 'The Promotion and Marketing of OxyContin: Commercial Triumph, Public Health Tragedy'
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2622774/
+  date: '2009-01-01'
+  tier: 1
+  outlet: American Journal of Public Health
+- title: 'GAO Report: OxyContin Abuse and Diversion and Efforts to Address the Problem'
+  url: https://www.gao.gov/assets/a240885.html
+  date: '2004-01-01'
+  tier: 1
+  outlet: U.S. Government Accountability Office
+- title: Fixing Pharma's Incentives Problem in the Wake of the U.S. Opioid Crisis
+  url: https://hbr.org/2016/06/fixing-pharmas-incentives-problem-in-the-wake-of-the-u-s-opioid-crisis
+  date: '2016-06-01'
+  tier: 2
+  outlet: Harvard Business Review
 ---
 
 Purdue Pharma's lucrative bonus system paid sales representatives an average of $71,500 in annual bonuses—more than their $55,000 base salary—with bonuses ranging from $15,000 to nearly $240,000. In 2001 alone, Purdue paid $40 million in sales incentive bonuses, systematically incentivizing representatives to increase OxyContin sales in their territories by targeting physicians with the highest rates of opioid prescriptions.

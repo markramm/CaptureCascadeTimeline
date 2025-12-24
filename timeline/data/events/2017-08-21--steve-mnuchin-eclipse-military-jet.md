@@ -4,31 +4,31 @@ date: 2017-08-21
 title: Treasury Secretary Mnuchin Uses Military Jet for Solar Eclipse Viewing Trip to Kentucky
 importance: 7
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Steve Mnuchin
-  - Misuse of Funds
-  - Military Aircraft
+- cabinet corruption
+- ethics violations
+- steve mnuchin
+- misuse of funds
+- military aircraft
 actors:
-  - Steve Mnuchin
-  - Louise Linton
-  - Mitch McConnell
+- Steve Mnuchin
+- Louise Linton
+- Mitch McConnell
 sources:
-  - url: https://www.washingtonpost.com/business/economy/mnuchin-viewed-eclipse-from-roof-of-fort-knox/2017/08/24/1b6ba9b4-8903-11e7-a50f-e0d4e6ec070a_story.html
-    title: "Ethics group wants to know what led Mnuchin to view eclipse in Kentucky"
-    publisher: Washington Post
-    date: 2017-08-24
-    tier: 1
-  - url: https://www.washingtonpost.com/business/economy/treasury-inspector-general-to-review-mnuchin-flight-to-ft-knox/2017/08/31/d9e122d4-8eb2-11e7-91d5-ab4e4bb76a3a_story.html
-    title: "Treasury inspector general to review Mnuchin's flight to Fort Knox"
-    publisher: Washington Post
-    date: 2017-08-31
-    tier: 1
-  - url: https://time.com/4915080/watchdog-steven-mnuchin-louise-linton-trip-eclipse/
-    title: "Steve Mnuchin, Linton May Have Used Plane to Watch Eclipse"
-    publisher: Time
-    date: 2017-08-31
-    tier: 1
+- url: https://www.washingtonpost.com/business/economy/mnuchin-viewed-eclipse-from-roof-of-fort-knox/2017/08/24/1b6ba9b4-8903-11e7-a50f-e0d4e6ec070a_story.html
+  title: Ethics group wants to know what led Mnuchin to view eclipse in Kentucky
+  date: 2017-08-24
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.washingtonpost.com/business/economy/treasury-inspector-general-to-review-mnuchin-flight-to-ft-knox/2017/08/31/d9e122d4-8eb2-11e7-91d5-ab4e4bb76a3a_story.html
+  title: Treasury inspector general to review Mnuchin's flight to Fort Knox
+  date: 2017-08-31
+  tier: 1
+  outlet: The Washington Post
+- url: https://time.com/4915080/watchdog-steven-mnuchin-louise-linton-trip-eclipse/
+  title: Steve Mnuchin, Linton May Have Used Plane to Watch Eclipse
+  date: 2017-08-31
+  tier: 1
+  outlet: TIME
 ---
 
 Treasury Secretary Steven Mnuchin and his wife Louise Linton took a government plane to Louisville and Fort Knox, Kentucky on August 21, 2017, ostensibly for official business but coinciding with viewing the total solar eclipse. Mnuchin viewed the eclipse from the lawn of Fort Knox alongside Senate Majority Leader Mitch McConnell. The group used an Air Force C-37B at a cost of $26,900.25, approximately $9,400 more than a commercial FAA plane would have cost. Between spring and fall 2017, Mnuchin took seven separate trips on military aircraft at a total cost of nearly $1 million, with the Fort Knox eclipse trip costing $33,046 in total.

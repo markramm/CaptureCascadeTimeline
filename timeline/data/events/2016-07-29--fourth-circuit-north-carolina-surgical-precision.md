@@ -4,36 +4,36 @@ date: '2016-07-29'
 title: Appeals Court Strikes Down North Carolina Voter ID Law With "Surgical Precision" Ruling
 importance: 9
 tags:
-  - voting-rights
-  - north-carolina
-  - voter-suppression
-  - racial-discrimination
-  - hb-589
+- voting-rights
+- north-carolina
+- voter-suppression
+- racial-discrimination
+- hb-589
 actors:
-  - Fourth Circuit Court of Appeals
-  - Diana Gribbon Motz
-  - North Carolina General Assembly
+- Fourth Circuit Court of Appeals
+- Diana Gribbon Motz
+- North Carolina General Assembly
 sources:
-  - url: https://www.npr.org/sections/thetwo-way/2016/07/29/487935700/u-s-appeals-court-strikes-down-north-carolinas-voter-id-law
-    title: U.S. Appeals Court Strikes Down North Carolina's Voter ID Law
-    publisher: NPR
-    date: 2016-07-29
-    tier: 1
-  - url: https://www.npr.org/2016/07/29/487952482/federal-appeals-court-throws-out-north-carolinas-voter-id-law
-    title: Federal Appeals Court Throws Out North Carolina's Voter ID Law
-    publisher: NPR
-    date: 2016-07-29
-    tier: 1
-  - url: https://colorlines.com/article/court-north-carolina-voter-id-laws-targeted-blacks-almost-surgical-precision/
-    title: "Court: N.C. Voter ID Laws Targeted Blacks with 'Almost Surgical Precision'"
-    publisher: Colorlines
-    date: 2016-07-29
-    tier: 2
-  - url: https://abcnews.go.com/Politics/controversial-north-carolina-voter-id-law-struck-federal/story?id=41000614
-    title: Controversial North Carolina Voter ID Law Struck Down by Federal Appeals Court
-    publisher: ABC News
-    date: 2016-07-29
-    tier: 2
+- url: https://www.npr.org/sections/thetwo-way/2016/07/29/487935700/u-s-appeals-court-strikes-down-north-carolinas-voter-id-law
+  title: U.S. Appeals Court Strikes Down North Carolina's Voter ID Law
+  date: 2016-07-29
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/2016/07/29/487952482/federal-appeals-court-throws-out-north-carolinas-voter-id-law
+  title: Federal Appeals Court Throws Out North Carolina's Voter ID Law
+  date: 2016-07-29
+  tier: 1
+  outlet: NPR
+- url: https://colorlines.com/article/court-north-carolina-voter-id-laws-targeted-blacks-almost-surgical-precision/
+  title: 'Court: N.C. Voter ID Laws Targeted Blacks with ''Almost Surgical Precision'''
+  date: 2016-07-29
+  tier: 2
+  outlet: Colorlines
+- url: https://abcnews.go.com/Politics/controversial-north-carolina-voter-id-law-struck-federal/story?id=41000614
+  title: Controversial North Carolina Voter ID Law Struck Down by Federal Appeals Court
+  date: 2016-07-29
+  tier: 2
+  outlet: ABC News
 ---
 
 The Fourth Circuit Court of Appeals strikes down North Carolina's comprehensive voter suppression law (HB 589) in a scathing ruling that finds the legislature "target[ed] African Americans with almost surgical precision." Judge Diana Gribbon Motz's opinion exposes how North Carolina Republicans requested racial data on voting practices, then systematically restricted every method disproportionately used by Black voters while preserving methods used by white voters—demonstrating intentional racial discrimination through data-driven suppression.

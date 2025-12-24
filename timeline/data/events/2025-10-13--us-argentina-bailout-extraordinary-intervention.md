@@ -11,9 +11,9 @@ actors:
 sources:
 - title: The U.S. has stepped in with an extraordinary bailout of Argentina
   url: https://www.cnbc.com/2025/10/13/us-argentina-bailout-extraordinary-intervention.html
-  publisher: CNBC
   date: '2025-10-13'
   tier: 1
+  outlet: CNBC
 tags:
 - systematic-corruption
 - treasury-corruption

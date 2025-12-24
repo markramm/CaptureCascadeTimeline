@@ -16,19 +16,19 @@ tags:
 sources:
 - url: https://www.cnbc.com/2025/08/20/trump-splurged-on-more-than-100-million-in-bonds-since-taking-office.html
   title: Trump has snapped up more than $100 million in bonds since taking office
-  publisher: CNBC
   date: '2025-08-20'
   tier: 2
+  outlet: CNBC
 - url: https://www.nbcnews.com/business/markets/trump-bought-bonds-companies-governments-rcna226024
   title: Trump bought more than $100 million in bonds since January, filings show
-  publisher: NBC News
   date: '2025-08-20'
   tier: 1
+  outlet: NBC News
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-213
   title: 'Trump Tyranny Tracker: Day 213'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-27'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Ethics disclosures revealed Trump purchased at least $103 million in corporate and municipal bonds since January 20, making over 600 transactions including bonds from Wells Fargo, Citigroup, Morgan Stanley, Meta, UnitedHealth, T-Mobile, and Home Depot—all companies subject to federal regulation and policy decisions.

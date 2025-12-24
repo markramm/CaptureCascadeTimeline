@@ -12,9 +12,9 @@ actors:
 sources:
 - title: Trump targets deals in pharma, AI, energy, mining before midterm elections
   url: https://www.reuters.com/markets/us/trump-targets-deals-pharma-ai-energy-mining-before-midterm-elections-2025-10-04/
-  publisher: Reuters
   date: '2025-10-04'
   tier: 1
+  outlet: Reuters
 tags:
 - systematic-corruption
 - state-corporate-fusion

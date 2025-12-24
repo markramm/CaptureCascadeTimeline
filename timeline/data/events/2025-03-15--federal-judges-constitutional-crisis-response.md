@@ -1,8 +1,7 @@
 ---
 id: 2025-03-15--federal-judges-constitutional-crisis-response
 date: '2025-03-15'
-title: Federal Judiciary Responds to Mounting Constitutional Threats in Emergency
-  Closed-Door Conference
+title: Federal Judiciary Responds to Mounting Constitutional Threats in Emergency Closed-Door Conference
 importance: 9
 actors:
 - Federal Judiciary Leadership
@@ -18,9 +17,8 @@ tags:
 - separation-of-powers
 - threat-management
 sources:
-- outlet: Washington Post
-  title: Two Senior Judges Appointed by Republicans Speak Out About Threats Against
-    Federal Judiciary
+- outlet: The Washington Post
+  title: Two Senior Judges Appointed by Republicans Speak Out About Threats Against Federal Judiciary
   url: https://www.washingtonpost.com/politics/2025/03/11/judges-security-threats-impeachment/39317e1e-feb3-11ef-b7a7-d938159de2bc_story.html
   access_date: '2025-09-17'
 - outlet: Washington Times

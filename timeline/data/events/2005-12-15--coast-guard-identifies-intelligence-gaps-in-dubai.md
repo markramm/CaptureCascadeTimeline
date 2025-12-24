@@ -1,14 +1,9 @@
 ---
 date: '2005-12-15'
 title: Coast Guard Identifies Critical Intelligence Gaps in Dubai Ports World Deal
-description: In December 2005, Coast Guard intelligence officials concluded that significant
-  intelligence gaps existed that prevented a comprehensive threat assessment of the
-  potential Dubai Ports World (DPW) port management merger. The unclassified report
-  stated that broad information deficiencies made it impossible to fully evaluate
-  potential risks related to DPW's operations, personnel, and potential foreign influence
-  supporting terrorist activities.
+description: In December 2005, Coast Guard intelligence officials concluded that significant intelligence gaps existed that prevented a comprehensive threat assessment of the potential Dubai Ports World (DPW) port management merger. The unclassified report stated that broad information deficiencies made it impossible to fully evaluate potential risks related to DPW's operations, personnel, and potential foreign influence supporting terrorist activities.
 actors:
-- US Coast Guard
+- U.S. Coast Guard
 - Dubai Ports World
 - UAE
 - 9/11 Commission
@@ -53,8 +48,7 @@ patterns:
 connections:
 - International port security challenges
 - Post-9/11 national security assessments
-notes: Pivotal intelligence assessment revealing systemic vulnerabilities in port
-  security foreign ownership evaluation processes.
+notes: Pivotal intelligence assessment revealing systemic vulnerabilities in port security foreign ownership evaluation processes.
 ---
 
 US Coast Guard intelligence officials produced a classified report raising significant security risks associated with DP World's proposed management of US port operations. The assessment identified critical intelligence gaps preventing proper evaluation of risks from DP World's operations, personnel, and potential foreign influence that could support terrorist activities.

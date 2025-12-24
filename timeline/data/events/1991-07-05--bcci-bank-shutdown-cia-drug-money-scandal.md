@@ -4,33 +4,33 @@ date: 1991-07-05
 title: BCCI Bank Shut Down After Exposing CIA Drug Money Laundering Network
 importance: 10
 tags:
-  - corruption
-  - money-laundering
-  - CIA
-  - drug-trafficking
-  - Iran-Contra
-  - foreign-policy
+- corruption
+- money-laundering
+- cia
+- drug-trafficking
+- iran-contra
+- foreign-policy
 actors:
-  - William Casey
-  - Manuel Noriega
-  - Adnan Khashoggi
-  - Manucher Ghorbanifar
+- William Casey
+- Manuel Noriega
+- Adnan Khashoggi
+- Manucher Ghorbanifar
 sources:
-  - url: https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
-    title: The BCCI Affair - BCCI, The CIA and Foreign Intelligence
-    publisher: Senate Committee on Foreign Relations
-    date: 1992-12-01
-    tier: 1
-  - url: https://www.upi.com/Archives/1991/10/22/FBI-knew-BCCI-financed-Iran-Contra-deal-bank-official-says/3522688104000/
-    title: FBI Knew BCCI Financed Iran-Contra Deal
-    publisher: UPI
-    date: 1991-10-22
-    tier: 2
-  - url: https://publicintelligence.net/the-bcci-affair/
-    title: The BCCI Affair Senate Investigation Report
-    publisher: Public Intelligence
-    date: 1992-12-01
-    tier: 2
+- url: https://irp.fas.org/congress/1992_rpt/bcci/11intel.htm
+  title: The BCCI Affair - BCCI, The CIA and Foreign Intelligence
+  date: 1992-12-01
+  tier: 1
+  outlet: Senate Committee on Foreign Relations
+- url: https://www.upi.com/Archives/1991/10/22/FBI-knew-BCCI-financed-Iran-Contra-deal-bank-official-says/3522688104000/
+  title: FBI Knew BCCI Financed Iran-Contra Deal
+  date: 1991-10-22
+  tier: 2
+  outlet: UPI
+- url: https://publicintelligence.net/the-bcci-affair/
+  title: The BCCI Affair Senate Investigation Report
+  date: 1992-12-01
+  tier: 2
+  outlet: Public Intelligence
 ---
 
 Customs and bank regulators in seven countries simultaneously raid and shut down the Bank of Credit and Commerce International (BCCI), exposing what becomes known as the largest corporate criminal enterprise in history. The shutdown follows a Price Waterhouse investigation ordered by the Bank of England in March 1991, which finds "evidence of massive and widespread fraud" in the $20 billion rogue banking empire with liabilities of $14 billion.

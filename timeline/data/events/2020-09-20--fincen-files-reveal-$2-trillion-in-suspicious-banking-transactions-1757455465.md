@@ -4,7 +4,7 @@ title: FinCEN Files Reveal $2 Trillion in Suspicious Banking Transactions
 actors:
 - FinCEN
 - BuzzFeed News
-- International Consortium of Investigative Journalists
+- International Consortium of Investigative Journalists (ICIJ)
 - Deutsche Bank
 - HSBC
 - JPMorgan Chase

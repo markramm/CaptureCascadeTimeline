@@ -1,8 +1,7 @@
 ---
 id: 2025-09-08--house-oversight-releases-epstein-birthday-book-trump-contributions
 date: '2025-09-08'
-title: House Oversight Committee Releases Epstein Birthday Book with Trump Contributions
-  Including "Fully Depreciated Woman" Check Photo
+title: House Oversight Committee Releases Epstein Birthday Book with Trump Contributions Including "Fully Depreciated Woman" Check Photo
 importance: 9
 tags:
 - epstein-connections
@@ -23,23 +22,20 @@ actors:
 - Leslie Wexner
 sources:
 - url: https://www.npr.org/2025/09/08/nx-s1-5534397/trump-epstein-birthday-book
-  title: Estate of Jeffrey Epstein gives Congress 'birthday book' allegedly signed
-    by Trump
-  publisher: NPR
+  title: Estate of Jeffrey Epstein gives Congress 'birthday book' allegedly signed by Trump
   date: '2025-09-08'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/nation/see-epsteins-full-birthday-book-with-alleged-personal-messages-from-trump-clinton-and-others
-  title: See Epstein's full 'birthday book,' with alleged personal messages from Trump,
-    Clinton and others
-  publisher: PBS
+  title: See Epstein's full 'birthday book,' with alleged personal messages from Trump, Clinton and others
   date: '2025-09-08'
   tier: 1
+  outlet: PBS
 - url: https://www.nbcnews.com/politics/donald-trump/trump-jeffrey-epstein-birthday-book-rcna229803
-  title: House committee releases 'birthday book' with lewd message Trump allegedly
-    sent to Epstein
-  publisher: NBC News
+  title: House committee releases 'birthday book' with lewd message Trump allegedly sent to Epstein
   date: '2025-09-08'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

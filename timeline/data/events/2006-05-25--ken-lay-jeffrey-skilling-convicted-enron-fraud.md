@@ -4,31 +4,31 @@ date: 2006-05-25
 title: Ken Lay and Jeffrey Skilling Convicted of Enron Fraud and Conspiracy
 importance: 10
 tags:
-  - corporate-fraud
-  - enron
-  - criminal-prosecution
-  - securities-fraud
-  - corporate-accountability
+- corporate-fraud
+- enron
+- criminal-prosecution
+- securities-fraud
+- corporate-accountability
 actors:
-  - Kenneth Lay
-  - Jeffrey Skilling
-  - Department of Justice
+- Kenneth Lay
+- Jeffrey Skilling
+- Department of Justice
 sources:
-  - url: https://abcnews.go.com/Business/LegalCenter/story?id=2003728&page=1
-    title: "Enron Verdict: Ken Lay Guilty on All Counts, Skilling on 19 Counts"
-    publisher: ABC News
-    date: 2006-05-25
-    tier: 1
-  - url: https://www.npr.org/series/5181660/guilty-verderts-reached-at-enron-trial
-    title: "Guilty Verdicts Reached at Enron Trial"
-    publisher: NPR
-    date: 2006-05-25
-    tier: 1
-  - url: https://www.industryweek.com/the-economy/regulations/article/21945817/lay-skilling-found-guilty
-    title: "Lay, Skilling Found Guilty"
-    publisher: IndustryWeek
-    date: 2006-05-25
-    tier: 2
+- url: https://abcnews.go.com/Business/LegalCenter/story?id=2003728&page=1
+  title: 'Enron Verdict: Ken Lay Guilty on All Counts, Skilling on 19 Counts'
+  date: 2006-05-25
+  tier: 1
+  outlet: ABC News
+- url: https://www.npr.org/series/5181660/guilty-verderts-reached-at-enron-trial
+  title: Guilty Verdicts Reached at Enron Trial
+  date: 2006-05-25
+  tier: 1
+  outlet: NPR
+- url: https://www.industryweek.com/the-economy/regulations/article/21945817/lay-skilling-found-guilty
+  title: Lay, Skilling Found Guilty
+  date: 2006-05-25
+  tier: 2
+  outlet: IndustryWeek
 ---
 
 On May 25, 2006, a federal jury convicted Enron founder Kenneth Lay on all six counts of fraud and conspiracy, and former CEO Jeffrey Skilling on 19 of 28 counts of securities fraud, wire fraud, and conspiracy. The verdicts marked a watershed moment in corporate accountability, holding top executives personally responsible for orchestrating one of the largest corporate frauds in American history.

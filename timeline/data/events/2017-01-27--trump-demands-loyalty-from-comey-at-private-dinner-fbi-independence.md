@@ -17,16 +17,15 @@ actors:
 - Sergey Kislyak
 sources:
 - url: https://www.npr.org/2017/06/07/531927032/comey-trump-asked-for-loyalty-wanted-him-to-let-flynn-investigation-go
-  title: 'Comey: Trump Asked For ''Loyalty,'' Wanted Him To ''Let'' Flynn Investigation
-    ''Go'''
-  publisher: NPR
+  title: 'Comey: Trump Asked For ''Loyalty,'' Wanted Him To ''Let'' Flynn Investigation ''Go'''
   date: '2017-06-07'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/politics/comey-congress-president-trump-told-need-loyalty
   title: 'Comey to Congress: President Trump told him ''I need loyalty'''
-  publisher: PBS
   date: '2017-06-08'
   tier: 1
+  outlet: PBS
 status: confirmed
 ---
 

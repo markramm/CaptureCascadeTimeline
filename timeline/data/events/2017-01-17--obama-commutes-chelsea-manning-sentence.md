@@ -4,31 +4,31 @@ date: 2017-01-17
 title: Obama Commutes Chelsea Manning's Sentence After Brutal Imprisonment
 importance: 8
 actors:
-  - Barack Obama
-  - Chelsea Manning
-  - Department of Justice
+- Barack Obama
+- Chelsea Manning
+- Department of Justice
 tags:
-  - whistleblower-prosecution
-  - clemency
-  - lgbtq
-  - torture
-  - accountability
+- whistleblower-prosecution
+- clemency
+- lgbtq
+- torture
+- accountability
 sources:
-  - url: https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings
-    title: President Obama's Commutation Most Likely Saved Her Life
-    publisher: ACLU
-    date: 2017-01-17
-    tier: 1
-  - url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
-    title: Commutation for Chelsea Manning Positive Step
-    publisher: Amnesty International
-    date: 2017-01-18
-    tier: 1
-  - url: https://www.nbcnews.com/news/us-news/president-obama-commutes-chelsea-manning-s-sentence-n708046
-    title: President Obama Commutes Chelsea Manning's Sentence
-    publisher: NBC News
-    date: 2017-01-17
-    tier: 1
+- url: https://www.aclu.org/news/free-speech/president-obamas-commutation-chelsea-mannings
+  title: President Obama's Commutation Most Likely Saved Her Life
+  date: 2017-01-17
+  tier: 1
+  outlet: ACLU
+- url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
+  title: Commutation for Chelsea Manning Positive Step
+  date: 2017-01-18
+  tier: 1
+  outlet: Amnesty International
+- url: https://www.nbcnews.com/news/us-news/president-obama-commutes-chelsea-manning-s-sentence-n708046
+  title: President Obama Commutes Chelsea Manning's Sentence
+  date: 2017-01-17
+  tier: 1
+  outlet: NBC News
 ---
 
 President Barack Obama commuted the sentence of Chelsea Manning, reducing her 35-year prison term to seven years served with a release date of May 17, 2017. The commutation came after Manning attempted suicide twice in 2016 while serving her sentence as a transgender woman in a men's military prison, prompting widespread concerns that she would not survive her full sentence.

@@ -19,20 +19,19 @@ tags:
 sources:
 - url: https://www.jurist.org/news/2025/09/us-federal-court-upholds-california-social-media-youth-protection-law/
   title: US federal court upholds California social media youth protection law
-  publisher: JURIST
   date: '2025-09-09'
   tier: 2
+  outlet: JURIST
 - url: https://www.courthousenews.com/ninth-circuit-sides-with-california-over-regulating-minors-addictive-social-media-feeds/
-  title: Ninth Circuit sides with California over regulating minors' 'addictive' social
-    media feeds
-  publisher: Courthouse News Service
+  title: Ninth Circuit sides with California over regulating minors' 'addictive' social media feeds
   date: '2025-09-09'
   tier: 2
+  outlet: Courthouse News Service
 - url: https://news.bloomberglaw.com/litigation/california-can-enforce-social-media-addiction-law-9th-cir-says
   title: California Cleared to Restrict Addictive Social Media Feeds
-  publisher: Bloomberg Law
   date: '2025-09-09'
   tier: 2
+  outlet: Bloomberg Law
 ---
 
 The U.S. Court of Appeals for the Ninth Circuit issued a mixed ruling in NetChoice, LLC v. Bonta, largely upholding California's Protecting Our Kids from Social Media Addiction Act (SB 976) while striking down one provision. The decision affirmed a district court's denial of NetChoice's preliminary injunction challenge to the law, which regulates how social media companies can use addictive algorithms and personalized feeds when targeting minors.

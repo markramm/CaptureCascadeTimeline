@@ -26,11 +26,10 @@ sources:
   archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/2019/08/07/mississippi-ice-raids
 - title: ICE Agents Raid Mississippi Workplaces, Arrest 680 People
   url: https://www.washingtonpost.com/immigration/ice-agents-raid-miss-work-sites-arrest-680-people-in-largest-single-state-immigration-enforcement-action-in-us-history/2019/08/07/801d5cfe-b94e-11e9-b3b4-2bb69e8c4e39_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-08-07'
   archive_url: ''
-- title: After 680 Arrested in Mississippi ICE Raids, Hundreds of Workers Released,
-    but "Terror" Persists
+- title: After 680 Arrested in Mississippi ICE Raids, Hundreds of Workers Released, but "Terror" Persists
   url: https://www.cbsnews.com/news/after-680-arrested-in-mississippi-ice-raids-hundreds-of-workers-released-but-terror-persists-today-2019-08-08/
   outlet: CBS News
   date: '2019-08-08'

@@ -16,20 +16,19 @@ tags:
 sources:
 - url: https://www.npr.org/2025/09/02/nx-s1-5509613/missouri-state-attorney-general-named-co-deputy-director-of-fbi
   title: Missouri state attorney general named co-deputy director of FBI
-  publisher: NPR
   date: '2025-09-02'
   tier: 1
+  outlet: NPR
 - url: https://www.stlpr.org/government-politics-issues/2025-08-18/andrew-bailey-missouri-attorney-general-trump
-  title: Trump taps Missouri Attorney General Andrew Bailey for FBI co-deputy director
-    post
-  publisher: St. Louis Public Radio
+  title: Trump taps Missouri Attorney General Andrew Bailey for FBI co-deputy director post
   date: '2025-08-18'
   tier: 1
+  outlet: St. Louis Public Radio
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-211
   title: 'Trump Tyranny Tracker: Day 211'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-25'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Trump appointed Missouri Attorney General Andrew Bailey as Co-Deputy Director of the FBI alongside Dan Bongino, creating the first dual deputy director structure in FBI history. Bailey, a Trump loyalist who supported debunked 2020 election claims, has no FBI experience but will help run day-to-day operations traditionally managed by career veterans.

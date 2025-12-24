@@ -4,35 +4,35 @@ date: 2013-01-01
 title: Kansas Implements Kris Kobach's Proof-of-Citizenship Voting Law and Expands Interstate Crosscheck
 importance: 7
 tags:
-  - voter-suppression
-  - kansas
-  - kris-kobach
-  - voter-id
-  - interstate-crosscheck
+- voter-suppression
+- kansas
+- kris-kobach
+- voter-id
+- interstate-crosscheck
 actors:
-  - Kris Kobach
-  - Kansas Secretary of State
+- Kris Kobach
+- Kansas Secretary of State
 sources:
-  - url: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
-    title: Judge Tosses Kansas' Proof-Of-Citizenship Voter Law And Rebukes Sec. Of State Kobach
-    publisher: NPR
-    date: 2018-06-19
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history
-    title: Uncovering Kris Kobach's Anti-Voting History
-    publisher: Brennan Center for Justice
-    date: 2017-10-19
-    tier: 1
-  - url: https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial
-    title: How the Case for Voter Fraud Was Tested — and Utterly Failed
-    publisher: ProPublica
-    date: 2018-03-19
-    tier: 1
-  - url: https://www.aclu.org/press-releases/federal-court-strikes-down-kansas-anti-voting-law
-    title: Federal Court Strikes Down Kansas Anti-Voting Law
-    publisher: ACLU
-    date: 2018-06-18
-    tier: 1
+- url: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
+  title: Judge Tosses Kansas' Proof-Of-Citizenship Voter Law And Rebukes Sec. Of State Kobach
+  date: 2018-06-19
+  tier: 1
+  outlet: NPR
+- url: https://www.brennancenter.org/our-work/analysis-opinion/uncovering-kris-kobachs-anti-voting-history
+  title: Uncovering Kris Kobach's Anti-Voting History
+  date: 2017-10-19
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.propublica.org/article/kris-kobach-voter-fraud-kansas-trial
+  title: How the Case for Voter Fraud Was Tested — and Utterly Failed
+  date: 2018-03-19
+  tier: 1
+  outlet: ProPublica
+- url: https://www.aclu.org/press-releases/federal-court-strikes-down-kansas-anti-voting-law
+  title: Federal Court Strikes Down Kansas Anti-Voting Law
+  date: 2018-06-18
+  tier: 1
+  outlet: ACLU
 ---
 
 Kansas Secretary of State Kris Kobach implements one of the nation's strictest voter registration laws, requiring documentary proof of citizenship (birth certificate, passport, or naturalization papers) to register to vote. Simultaneously, Kobach expands the Interstate Voter Registration Crosscheck Program to 30 states, creating a system plagued by false matches that wrongly flags legitimate voters for removal. Both initiatives claim to combat voter fraud but lack evidence of significant fraud while creating substantial barriers to legitimate voting.

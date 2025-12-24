@@ -10,11 +10,11 @@ actors:
 - State Policy Network
 - Republican state legislators
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
 - big-lie
-- Trump
+- trump
 - model-legislation
 - state-capture
 - corporate-influence

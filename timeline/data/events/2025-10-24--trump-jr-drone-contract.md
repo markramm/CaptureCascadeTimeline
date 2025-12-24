@@ -1,8 +1,7 @@
 ---
 id: 2025-10-24--trump-jr-drone-contract
 date: '2025-10-24'
-title: Pentagon Awards Drone Contract to Company Where Trump Jr. Holds $4 Million
-  Stake
+title: Pentagon Awards Drone Contract to Company Where Trump Jr. Holds $4 Million Stake
 importance: 9
 tags:
 - corruption
@@ -18,16 +17,15 @@ actors:
 - Trump Administration
 sources:
 - url: https://techstartups.com/2025/10/24/trump-jr-backed-drone-company-wins-multimillion-dollar-pentagon-contract/
-  title: Trump Jr.–backed little-known drone company wins multimillion-dollar Pentagon
-    contract
-  publisher: Tech Startups
+  title: Trump Jr.–backed little-known drone company wins multimillion-dollar Pentagon contract
   date: '2025-10-24'
   tier: 2
+  outlet: Tech Startups
 - url: https://newrepublic.com/post/202253/donald-trump-jr-defense-department-drones-contract
   title: Trump's DOD Gives Massive Contract to Company With Ties to His Son
-  publisher: The New Republic
   date: '2025-10-25'
   tier: 2
+  outlet: The New Republic
 status: confirmed
 ---
 

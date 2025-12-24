@@ -4,32 +4,32 @@ date: '2025-11-14'
 title: Trump Orders DOJ via Truth Social to Investigate Political Opponents Over Epstein Ties
 importance: 9
 tags:
-- Epstein
-- DOJ
-- Abuse of Power
-- Political Persecution
-- Trump Administration
+- epstein
+- doj
+- abuse of power
+- political persecution
+- trump administration
 sources:
 - title: Trump says he's asking Justice Department to investigate Epstein's ties to slew of high-profile figures
   url: https://www.cnn.com/2025/11/14/politics/trump-epstein-doj-investigate-enemies
-  publisher: CNN
   date: '2025-11-14'
   tier: 1
+  outlet: CNN
 - title: At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes
   url: https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes
-  publisher: NPR
   date: '2025-11-15'
   tier: 1
+  outlet: NPR
 - title: Trump responds to appearance in new Epstein emails by pushing DOJ probe of Clinton, Larry Summers, Reid Hoffman
   url: https://fortune.com/2025/11/14/epstein-reid-hoffman-larry-summers-jpmorgan-trump-bill-clinton-investigation/
-  publisher: Fortune
   date: '2025-11-14'
   tier: 2
+  outlet: Fortune
 - title: Trump directs DOJ to investigate Jeffrey Epstein's relationship with political and other figures
   url: https://www.nbcnews.com/politics/trump-administration/trump-epstein-bondi-clinton-larry-summers-reid-hoffman-jpmorgan-chase-rcna243971
-  publisher: NBC News
   date: '2025-11-14'
   tier: 1
+  outlet: NBC News
 actors:
 - Donald Trump
 - Pamela Bondi

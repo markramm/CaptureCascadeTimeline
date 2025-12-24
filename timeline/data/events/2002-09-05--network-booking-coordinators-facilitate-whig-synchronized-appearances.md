@@ -2,8 +2,7 @@
 id: 2002-09-05--network-booking-coordinators-facilitate-whig-synchronized-appearances
 date: '2002-09-05'
 importance: 8
-title: Network Booking Coordinators Systematically Facilitate WHIG Synchronized Propaganda
-  Appearances
+title: Network Booking Coordinators Systematically Facilitate WHIG Synchronized Propaganda Appearances
 actors:
 - Network Booking Coordinators
 - Karen Hughes
@@ -29,7 +28,7 @@ sources:
   date: '2008-03-15'
 - title: The White House Iraq Group's Media Strategy
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819_2.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2008-06-08'
 - title: 'Networks as Propaganda Platforms: The September 2002 Campaign'
   url: https://www.commondreams.org/views/2007/09/08/networks-propaganda-platforms-september-2002-campaign

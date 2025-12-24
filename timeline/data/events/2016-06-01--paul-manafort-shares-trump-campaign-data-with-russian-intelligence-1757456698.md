@@ -4,11 +4,10 @@ title: Paul Manafort Shares Trump Campaign Data with Russian Intelligence
 actors:
 - Paul Manafort
 - Konstantin Kilimnik
-- Russian intelligence
+- Russian Intelligence
 importance: 10
 sources:
-- title: 'Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With
-    Russia'
+- title: 'Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With Russia'
   url: https://www.npr.org/2020/08/18/903512647/senate-report-former-trump-aide-paul-manafort-shared-campaign-info-with-russia
   outlet: NPR
   date: '2020-08-18'
@@ -16,8 +15,7 @@ sources:
   url: https://www.pbs.org/newshour/politics/u-s-says-russia-was-given-trump-campaign-polling-data-in-2016
   outlet: PBS News
   date: '2021-04-15'
-- title: 'Treasury: Manafort Associate Passed ''Sensitive'' Campaign Data to Russian
-    Intelligence'
+- title: 'Treasury: Manafort Associate Passed ''Sensitive'' Campaign Data to Russian Intelligence'
   url: https://thehill.com/policy/national-security/548447-treasury-manafort-russian-intelligence-trump-campaign-2016/
   outlet: The Hill
   date: '2021-04-15'

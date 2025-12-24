@@ -6,7 +6,7 @@ importance: 8
 actors:
 - James Baker III
 - Katherine Harris
-- George W Bush
+- George W. Bush
 - Mac Stipanovich
 - Ted Olson
 - Republican Party
@@ -30,14 +30,12 @@ sources:
   url: https://scholarship.law.gwu.edu/faculty_publications/245/
   outlet: George Washington University Law School
   date: '2001-01-01'
-  details: Academic analysis of strategic behavior in Supreme Court's Bush v. Gore
-    decision
+  details: Academic analysis of strategic behavior in Supreme Court's Bush v. Gore decision
 - title: 2000 United States Presidential Election Recount in Florida
   url: https://en.wikipedia.org/wiki/2000_United_States_presidential_election_recount_in_Florida
   outlet: Wikipedia
   date: '2025-10-15'
-  details: Comprehensive overview of the legal and political strategies during the
-    Florida recount
+  details: Comprehensive overview of the legal and political strategies during the Florida recount
 status: confirmed
 capture_lanes:
 - Media Capture & Control

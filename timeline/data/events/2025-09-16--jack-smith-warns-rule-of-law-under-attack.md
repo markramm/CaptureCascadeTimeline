@@ -1,8 +1,7 @@
 ---
 id: 2025-09-16--jack-smith-warns-rule-of-law-under-attack
 date: '2025-09-16'
-title: Former Special Counsel Jack Smith Warns Rule of Law 'Under Attack Like Never
-  Before'
+title: Former Special Counsel Jack Smith Warns Rule of Law 'Under Attack Like Never Before'
 importance: 8
 actors:
 - Jack Smith
@@ -19,15 +18,14 @@ tags:
 sources:
 - url: https://www.npr.org/2025/09/25/nx-s1-5552723/former-special-counsel-jack-smith-warns-that-rule-of-law-is-under-attack
   title: Former special counsel Jack Smith warns that rule of law is 'under attack'
-  publisher: NPR
   date: '2025-09-25'
   tier: 1
+  outlet: NPR
 - url: https://www.cnn.com/2025/10/14/politics/jack-smith-interview-special-counsel-justice-department-trump
-  title: Takeaways from former special counsel Jack Smith's scathing review of the
-    Trump Justice Department
-  publisher: CNN
+  title: Takeaways from former special counsel Jack Smith's scathing review of the Trump Justice Department
   date: '2025-10-14'
   tier: 2
+  outlet: CNN
 ---
 
 On September 16, 2025, former Special Counsel Jack Smith delivered his first public remarks since leaving the Department of Justice in a speech at George Mason University, warning that "the rule of law is under attack like in no other period in our lifetimes." NPR exclusively obtained a recording of the event from an attendee, as no national media appeared to be present for Smith's lecture to students, professors, and members of the public.

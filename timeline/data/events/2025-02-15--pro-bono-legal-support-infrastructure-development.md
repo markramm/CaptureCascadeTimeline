@@ -4,7 +4,7 @@ date: '2025-02-15'
 title: Pro Bono Legal Support Infrastructure Expansion
 importance: 7
 actors:
-- Legal Services Corporation
+- Legal Services Corporation (LSC)
 - ABA Pro Bono Center
 - National Lawyers Guild
 tags:

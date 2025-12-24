@@ -1,8 +1,7 @@
 ---
 id: 2025-09-10--commerce-secretary-lutnick-forces-corporations-to-provide-government-equity
 date: '2025-09-10'
-title: Commerce Secretary Lutnick Forces Corporations to Provide Government Equity
-  Stakes
+title: Commerce Secretary Lutnick Forces Corporations to Provide Government Equity Stakes
 importance: 9
 tags:
 - institutional-capture
@@ -11,16 +10,15 @@ tags:
 - systematic-corruption
 sources:
 - url: https://www.cnbc.com/2025/08/19/lutnick-intel-stock-chips-trump.html
-  title: Lutnick says Intel has to give government equity in return for CHIPS Act
-    funds
-  publisher: CNBC
+  title: Lutnick says Intel has to give government equity in return for CHIPS Act funds
   date: '2025-08-19'
   tier: 1
+  outlet: CNBC
 - url: https://www.benzinga.com/markets/equities/25/09/47615797/howard-lutnicks-push-for-government-ownership-in-intel-defense-giants-sparks-wall-street-concern
   title: Howard Lutnick's Push For Government Ownership Sparks Wall Street Concern
-  publisher: Benzinga
   date: '2025-09-10'
   tier: 2
+  outlet: Benzinga
 actors:
 - Howard Lutnick
 - Department of Commerce

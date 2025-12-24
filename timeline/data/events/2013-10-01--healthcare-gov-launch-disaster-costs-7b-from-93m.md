@@ -24,7 +24,7 @@ sources:
   date: '2014-09-24'
 - title: 6 enrolled on first day of Healthcare.gov
   url: https://www.washingtonpost.com/national/health-science/six-people-signed-up-for-obamacare-on-launch-day/2013/10/31/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2013-10-31'
 - title: Oregon's $305 million exchange failure
   url: https://www.politico.com/story/2015/04/oregon-obamacare-website-never-worked-117395

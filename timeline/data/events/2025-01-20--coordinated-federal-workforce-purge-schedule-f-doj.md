@@ -7,7 +7,7 @@ actors:
 - J.P. Cooney
 - Anne McNamara
 - Mary Dohrmann
-- Office of Personnel Management
+- Office of Personnel Management (OPM)
 - National Treasury Employees Union
 - American Federation of Government Employees
 sources:

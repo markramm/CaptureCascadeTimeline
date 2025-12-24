@@ -15,23 +15,23 @@ actors:
 - Moody's Investors Service
 - Fitch Ratings
 - Department of Justice
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 sources:
 - url: https://www.justice.gov/opa/pr/justice-department-and-state-partners-secure-137-billion-settlement-sp-defrauding-investors
   title: Justice Department and State Partners Secure $1.375 Billion Settlement with S&P for Defrauding Investors
-  publisher: Department of Justice
   date: '2015-02-03'
   tier: 1
+  outlet: Department of Justice
 - url: https://www.justice.gov/opa/pr/moody-s-corporation-agrees-pay-864-million-settle-federal-and-state-claims-rating-subprime
   title: Moody's Agrees to Pay $864 Million to Settle Federal and State Claims
-  publisher: Department of Justice
   date: '2017-01-13'
   tier: 1
+  outlet: Department of Justice
 - url: https://www.cfr.org/backgrounder/credit-rating-controversy
   title: The Credit Rating Controversy
-  publisher: Council on Foreign Relations
   date: '2015'
   tier: 2
+  outlet: Council on Foreign Relations
 status: confirmed
 ---
 

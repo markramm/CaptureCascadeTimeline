@@ -23,7 +23,7 @@ sources:
   date: '2008-07-28'
 - title: Monica Goodling Congressional Testimony
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/05/23/AR2007052301567.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-05-23'
 - title: Virginia State Bar Public Reprimand of Monica Goodling
   url: https://www.vsb.org/docs/goodling-052711.pdf

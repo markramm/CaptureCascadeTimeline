@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.warren.senate.gov/oversight/reports/new-report-from-senator-warren-uncovers-defense-industrys-abuse-of-revolving-door-hiring-practices
   title: New Report from Senator Warren Uncovers Defense Industry's Abuse of Revolving Door Hiring Practices
-  publisher: U.S. Senator Elizabeth Warren
   date: '2022-04-26'
   tier: 1
+  outlet: U.S. Senator Elizabeth Warren
 - url: https://www.commondreams.org/news/elizabeth-warren-pentagon-military-contractors-revolving-door
   title: Brass for Gold - Warren Report Details Revolving Door Between Capitol Hill and War Profiteers
-  publisher: Common Dreams
   date: '2023-04-26'
   tier: 2
+  outlet: Common Dreams
 - url: https://truthout.org/articles/over-500-former-government-officials-are-now-lobbying-for-defense-contractors/
   title: Over 500 Former Government Officials Are Now Lobbying for Defense Contractors
-  publisher: Truthout
   date: '2022-04-28'
   tier: 2
+  outlet: Truthout
 actors:
 - Elizabeth Warren
 - Boeing

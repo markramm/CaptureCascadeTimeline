@@ -4,30 +4,30 @@ date: 2015-04-26
 title: Corinthian Colleges Files Bankruptcy After Defrauding 72,000 Students - Executives Shield Assets
 importance: 8
 tags:
-  - for-profit-colleges
-  - student-debt
-  - bankruptcy-law
-  - fraud
-  - corinthian-colleges
+- for-profit-colleges
+- student-debt
+- bankruptcy-law
+- fraud
+- corinthian-colleges
 actors:
-  - Corinthian Colleges
-  - Jack Massimino
+- Corinthian Colleges
+- Jack Massimino
 sources:
-  - url: https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-education-management-corporation
-    title: Corinthian Colleges Case Documents
-    publisher: U.S. Department of Justice
-    date: 2015-05-04
-    tier: 1
-  - url: https://www.npr.org/sections/ed/2015/04/27/402394471/corinthian-colleges-files-for-bankruptcy
-    title: Corinthian Colleges Files For Bankruptcy
-    publisher: NPR
-    date: 2015-04-27
-    tier: 1
-  - url: https://www.cbsnews.com/news/corinthian-colleges-shuts-down-28-schools-files-for-bankruptcy/
-    title: Corinthian Colleges shuts down, files for bankruptcy
-    publisher: CBS News
-    date: 2015-04-27
-    tier: 1
+- url: https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-education-management-corporation
+  title: Corinthian Colleges Case Documents
+  date: 2015-05-04
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.npr.org/sections/ed/2015/04/27/402394471/corinthian-colleges-files-for-bankruptcy
+  title: Corinthian Colleges Files For Bankruptcy
+  date: 2015-04-27
+  tier: 1
+  outlet: NPR
+- url: https://www.cbsnews.com/news/corinthian-colleges-shuts-down-28-schools-files-for-bankruptcy/
+  title: Corinthian Colleges shuts down, files for bankruptcy
+  date: 2015-04-27
+  tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-11--state-department-threatens-visa-sanctions-over-social-media-comments
 date: '2025-09-11'
-title: Deputy Secretary Landau Announces Visa Sanctions for Foreign Comments on Charlie
-  Kirk Death
+title: Deputy Secretary Landau Announces Visa Sanctions for Foreign Comments on Charlie Kirk Death
 importance: 8
 tags:
 - first-amendment-violations
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.theguardian.com/us-news/2025/sep/11/christopher-landau-visa-sanctions-charlie-kirk
   title: State Department Targets Foreigners for Social Media Comments
-  publisher: The Guardian
   date: '2025-09-11'
   tier: 1
+  outlet: The Guardian
 actors:
 - Christopher Landau
 - State Department

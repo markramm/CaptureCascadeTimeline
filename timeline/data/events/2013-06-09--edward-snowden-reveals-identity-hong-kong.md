@@ -15,20 +15,20 @@ actors:
 - Laura Poitras
 sources:
 - url: https://www.democracynow.org/2013/6/10/youre_being_watched_edward_snowden_emerges
-  title: "You're Being Watched: Edward Snowden Emerges as Source Behind Explosive Revelations of NSA Spying"
-  publisher: Democracy Now!
+  title: 'You''re Being Watched: Edward Snowden Emerges as Source Behind Explosive Revelations of NSA Spying'
   date: '2013-06-10'
   tier: 1
+  outlet: Democracy Now!
 - url: https://www.npr.org/2013/06/09/190141006/nsa-whistleblower-revealed
-  title: "NSA Whistleblower Revealed"
-  publisher: NPR
+  title: NSA Whistleblower Revealed
   date: '2013-06-09'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/feature/edward-snowden-interview/edward-snowden-timeline-n114871
-  title: "Edward Snowden: A Timeline"
-  publisher: NBC News
+  title: 'Edward Snowden: A Timeline'
   date: '2014-05-27'
   tier: 2
+  outlet: NBC News
 status: confirmed
 ---
 

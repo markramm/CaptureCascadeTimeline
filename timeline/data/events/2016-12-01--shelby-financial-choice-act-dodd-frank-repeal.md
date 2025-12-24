@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.americanbanker.com/news/ex-chair-of-senate-banking-panel-to-retire-after-2022-midterms
   title: Ex-chair of Senate Banking panel to retire after 2022 midterms
-  publisher: American Banker
   date: '2021-02-08'
   tier: 2
+  outlet: American Banker
 - url: https://www.washingtonpost.com/politics/2022/12/24/richard-shelby-senator-retirement/
   title: Sen. Richard Shelby evolved and thrived over 44 years in Congress
-  publisher: Washington Post
   date: '2022-12-24'
   tier: 1
+  outlet: The Washington Post
 - url: https://rollcall.com/2021/02/08/alabama-sen-richard-shelby-announces-he-will-retire-after-2022/
   title: Alabama Sen. Richard Shelby announces he will retire after 2022
-  publisher: Roll Call
   date: '2021-02-08'
   tier: 2
+  outlet: Roll Call
 actors:
 - Richard Shelby
 - Senate Banking Committee

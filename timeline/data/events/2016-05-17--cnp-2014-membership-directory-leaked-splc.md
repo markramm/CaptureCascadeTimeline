@@ -6,7 +6,7 @@ importance: 9
 tags:
 - conservative-movement
 - coordination
-- CNP
+- cnp
 - secretive-networks
 - institutional-capture
 actors:

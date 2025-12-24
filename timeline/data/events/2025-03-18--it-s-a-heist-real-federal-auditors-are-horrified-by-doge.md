@@ -1,8 +1,7 @@
 ---
 id: 2025-03-18--it-s-a-heist-real-federal-auditors-are-horrified-by-doge
 date: '2025-03-18'
-title: 'DOGE Audit Controversy: Inflated Savings Claims and Potential Conflicts of
-  Interest'
+title: 'DOGE Audit Controversy: Inflated Savings Claims and Potential Conflicts of Interest'
 actors:
 - Elon Musk
 - Treasury Department
@@ -19,15 +18,14 @@ capture_type: monetizing_position
 location: Washington, D.C.
 sources:
 - outlet: PBS NewsHour
-  title: Treasury watchdog launches audit of DOGE access to federal government's payment
-    system
+  title: Treasury watchdog launches audit of DOGE access to federal government's payment system
   url: https://www.pbs.org/newshour/politics/treasury-watchdog-launches-audit-of-doge-access-to-federal-governments-payment-system
   date: '2025-03-18'
 - outlet: NPR
   title: DOGE released data about federal contract savings. It doesn't add up
   url: https://www.npr.org/2025/02/19/nx-s1-5302705/doge-overstates-savings-federal-contracts
   date: '2025-02-19'
-- outlet: Wired
+- outlet: WIRED
   title: '''It''s a heist'': real federal auditors are horrified by DOGE'
   url: https://www.wired.com/story/federal-auditors-doge-elon-musk/
   date: '2025-03-18'
@@ -35,8 +33,7 @@ status: confirmed
 connections:
 - Potential misuse of government position
 - Conflicts of interest in federal contracting
-notes: Comprehensive documentation of DOGE's controversial audit practices and potential
-  regulatory capture.
+notes: Comprehensive documentation of DOGE's controversial audit practices and potential regulatory capture.
 patterns:
 - kleptocratic-capture
 ---

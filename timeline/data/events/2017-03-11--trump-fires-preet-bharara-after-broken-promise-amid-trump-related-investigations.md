@@ -1,8 +1,7 @@
 ---
 id: 2017-03-11--trump-fires-preet-bharara-after-broken-promise-amid-trump-related-investigations
 date: '2017-03-11'
-title: Trump Fires Preet Bharara After Broken Promise to Keep Him - Obstruction Amid
-  Trump-Related Investigations
+title: Trump Fires Preet Bharara After Broken Promise to Keep Him - Obstruction Amid Trump-Related Investigations
 importance: 10
 tags:
 - obstruction-of-justice
@@ -20,20 +19,19 @@ actors:
 sources:
 - url: https://www.npr.org/2017/03/11/519845829/u-s-attorney-preet-bharara-fired-after-refusing-to-resign
   title: U.S. Attorney Preet Bharara Fired After Refusing To Resign
-  publisher: NPR
   date: '2017-03-11'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/preet-bharara-u-s-attorney-fired-trump-we-should-never-n743666
-  title: 'Preet Bharara, U.S. attorney fired by Trump: ''We should never be a rubber
-    stamp for the White House'''
-  publisher: NBC News
+  title: 'Preet Bharara, U.S. attorney fired by Trump: ''We should never be a rubber stamp for the White House'''
   date: '2017-04-18'
   tier: 1
+  outlet: NBC News
 - url: https://www.propublica.org/article/trump-personal-lawyer-boasted-that-he-got-preet-bharara-fired
   title: Trump's Personal Lawyer Boasted That He Got Preet Bharara Fired
-  publisher: ProPublica
   date: '2017-06-09'
   tier: 1
+  outlet: ProPublica
 status: confirmed
 ---
 

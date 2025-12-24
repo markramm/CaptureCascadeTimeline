@@ -9,7 +9,7 @@ actors:
 - Donald Trump
 - World Liberty Financial
 - Campaign Legal Center
-- Citizens for Responsibility and Ethics in Washington
+- Citizens for Responsibility and Ethics in Washington (CREW)
 tags:
 - crypto-conflicts
 - congressional-investigation
@@ -18,32 +18,23 @@ tags:
 - sar-requests
 status: confirmed
 sources:
-- title: Top House Dems Demand All Suspicious Activity Reports Related to Trump Crypto
-    Ventures
+- title: Top House Dems Demand All Suspicious Activity Reports Related to Trump Crypto Ventures
   url: https://oversightdemocrats.house.gov/news/press-releases/top-house-dems-demand-all-suspicious-activity-reports-related-trump-crypto
   outlet: House Oversight Democrats
   date: '2025-05-14'
-- title: House Democrats Seek Treasury Reports on Trump's Meme Coin, World Liberty
-    Financial
+- title: House Democrats Seek Treasury Reports on Trump's Meme Coin, World Liberty Financial
   url: https://decrypt.co/319837/house-democrats-treasury-reports-trump-crypto
   outlet: Decrypt
   date: '2025-05-14'
-- title: Top Democrats Demand Treasury Info on Trump's Crypto Deals, Citing 'Bribery'
-    Risks
+- title: Top Democrats Demand Treasury Info on Trump's Crypto Deals, Citing 'Bribery' Risks
   url: https://www.coindesk.com/policy/2025/05/14/top-democrats-demand-treasury-info-on-trumps-crypto-deals-citing-bribery-risks
   outlet: CoinDesk
   date: '2025-05-14'
-- title: Democrats ask Treasury for 'suspicious activity reports' on Trump crypto
-    ventures
+- title: Democrats ask Treasury for 'suspicious activity reports' on Trump crypto ventures
   url: https://www.theblock.co/post/354345/democrats-ask-treasury-for-suspicious-activity-reports-on-trump-crypto-ventures-mention-justin-sun
   outlet: The Block
   date: '2025-05-14'
-notes: This represents Congress grappling with entirely new form of potential presidential
-  corruption through cryptocurrency channels designed to circumvent traditional financial
-  oversight mechanisms. SAR request acknowledgment that traditional anti-corruption
-  mechanisms inadequate for cryptocurrency-enabled influence operations, requiring
-  new investigative approaches for pseudonymous blockchain transactions worth hundreds
-  of millions.
+notes: This represents Congress grappling with entirely new form of potential presidential corruption through cryptocurrency channels designed to circumvent traditional financial oversight mechanisms. SAR request acknowledgment that traditional anti-corruption mechanisms inadequate for cryptocurrency-enabled influence operations, requiring new investigative approaches for pseudonymous blockchain transactions worth hundreds of millions.
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration

@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://publicintegrity.org/politics/max-baucus-senate-finance-committee/
   title: Max Baucus — Senate Finance Committee
-  publisher: Center for Public Integrity
   date: '2014-01-01'
   tier: 1
+  outlet: Center for Public Integrity
 - url: https://www.nbcnews.com/politics/congress/sanders-steps-push-single-payer-health-care-old-foe-switches-n799911
   title: Affordable Care Act Architect Flips on Single-Payer - The Time Has Come
-  publisher: NBC News
   date: '2017-09-13'
   tier: 1
+  outlet: NBC News
 - url: https://pnhp.org/news/max-baucus-should-not-be-deciding-health-care-for-america/
   title: Max Baucus Should Not Be Deciding Health Care for America
-  publisher: Physicians for a National Health Program
   date: '2009-09-01'
   tier: 2
+  outlet: Physicians for a National Health Program
 actors:
 - Max Baucus
 - Senate Finance Committee

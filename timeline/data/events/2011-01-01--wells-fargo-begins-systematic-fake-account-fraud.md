@@ -15,19 +15,19 @@ actors:
 sources:
 - url: https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/
   title: 'CFPB Enforcement Action: Wells Fargo Bank, N.A.'
-  publisher: Consumer Financial Protection Bureau
   date: '2016-09-08'
   tier: 1
+  outlet: Consumer Financial Protection Bureau
 - url: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices
   title: Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations
-  publisher: U.S. Department of Justice
   date: '2020-02-21'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.npr.org/sections/thetwo-way/2017/08/31/547550804/wells-fargo-admits-to-nearly-twice-as-many-possible-fake-accounts-3-5-million
   title: Wells Fargo Admits To Nearly Twice As Many Possible Fake Accounts — 3.5 Million
-  publisher: NPR
   date: '2017-08-31'
   tier: 1
+  outlet: NPR
 ---
 
 Wells Fargo employees begin a systematic scheme to create unauthorized bank and credit card accounts, ultimately affecting 3.5 million customer accounts over five years. Driven by aggressive sales targets and compensation incentives, employees open accounts without customer consent, forge signatures, create fake email addresses and PIN numbers, and transfer funds from authorized accounts to cover the fraudulent accounts. The scheme generates millions in unearned fees while employees desperately attempt to meet impossible sales quotas known as "cross-selling" targets.

@@ -21,24 +21,24 @@ tags:
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
-  publisher: U.S. Senate Select Committee on Intelligence
   date: '2014-12-09'
   tier: 1
+  outlet: U.S. Senate Select Committee on Intelligence
 - title: Enhanced Interrogation Techniques
   url: https://en.wikipedia.org/wiki/Enhanced_interrogation_techniques
-  publisher: Wikipedia (sourced from declassified documents)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from declassified documents)
 - title: The CIA Torture Report - What You Need to Know
   url: https://www.pbs.org/wgbh/frontline/article/the-cia-torture-report-what-you-need-to-know/
-  publisher: PBS Frontline
   date: '2014-12-09'
   tier: 1
+  outlet: PBS Frontline
 - title: Enhanced Interrogation Explained
   url: https://humanrightsfirst.org/library/enhanced-interrogation-explained/
-  publisher: Human Rights First
   date: '2016-02-01'
   tier: 2
+  outlet: Human Rights First
 ---
 
 Following the authorization provided by the August 2002 Yoo-Bybee torture memos, the CIA begins systematically implementing "enhanced interrogation techniques" on terrorism suspects held at secret black site prisons. The program, developed by psychologists James Mitchell and Bruce Jessen who had no interrogation experience, subjects detainees to waterboarding, stress positions, sleep deprivation for up to 180 hours, confinement in coffin-sized boxes, forced nudity, sexual humiliation, and "walling" (slamming detainees against walls).

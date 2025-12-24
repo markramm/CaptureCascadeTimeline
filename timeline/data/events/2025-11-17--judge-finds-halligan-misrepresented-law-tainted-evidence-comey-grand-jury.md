@@ -14,19 +14,19 @@ tags:
 sources:
 - title: Judge says James Comey indictment may be tainted by 'profound investigative missteps'
   url: https://abcnews.go.com/US/judge-comey-case-raises-alarm-profound-investigative-missteps/story?id=127594703
-  publisher: ABC News
   date: '2025-11-17'
   tier: 1
+  outlet: ABC News
 - title: Judge says government 'missteps' in James Comey's case could result in the dismissal of the charges
   url: https://www.nbcnews.com/politics/justice-department/judge-says-missteps-james-comey-case-result-charges-dismissed-rcna244405
-  publisher: NBC News
   date: '2025-11-17'
   tier: 2
+  outlet: NBC News
 - title: The Situation - Malevolence, Incompetence, and the Strange Case of Lindsey Halligan
   url: https://www.lawfaremedia.org/article/the-situation--malevolence--incompetence--and-the-strange-case-of-lindsey-halligan
-  publisher: Lawfare
   date: '2025-11-18'
   tier: 1
+  outlet: Lawfare
 actors:
 - William Fitzpatrick
 - Lindsey Halligan

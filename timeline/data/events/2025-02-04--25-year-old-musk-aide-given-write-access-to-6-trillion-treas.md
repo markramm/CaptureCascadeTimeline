@@ -2,12 +2,7 @@
 id: 2025-02-04--25-year-old-musk-aide-given-write-access-to-6-trillion-treas
 date: '2025-02-04'
 title: 25-Year-Old Musk Aide Given Write Access to $6 Trillion Treasury Payment System
-description: Treasury Secretary Scott Bessent granted DOGE personnel unprecedented
-  access to critical payment systems. Elez had full administrative privileges to modify
-  code in systems handling all federal payments. After racist posts were discovered
-  on his social media, Elez resigned, only for Musk to call for his rehiring with
-  backing from Trump and VP Vance. The Treasury Inspector General launched an audit
-  of security controls after Democratic lawmakers raised alarms about the access.
+description: Treasury Secretary Scott Bessent granted DOGE personnel unprecedented access to critical payment systems. Elez had full administrative privileges to modify code in systems handling all federal payments. After racist posts were discovered on his social media, Elez resigned, only for Musk to call for his rehiring with backing from Trump and VP Vance. The Treasury Inspector General launched an audit of security controls after Democratic lawmakers raised alarms about the access.
 status: confirmed
 importance: 10
 location: Washington, D.C.
@@ -17,7 +12,7 @@ actors:
 - Scott Bessent
 - David Lebryk
 - Donald Trump
-- JD Vance
+- J.D. Vance
 tags:
 - treasury
 - payment-system
@@ -33,8 +28,7 @@ sources:
   url: https://www.npr.org/2025/02/06/nx-s1-5289337/elon-musk-doge-treasury
   date: '2025-02-06'
 - outlet: CNN
-  title: DOGE will keep limited access to Treasury payments system with 2 associates
-    having 'read-only' view
+  title: DOGE will keep limited access to Treasury payments system with 2 associates having 'read-only' view
   url: https://www.cnn.com/2025/02/05/politics/doge-treasury-payments-system-access/index.html
   date: '2025-02-05'
 - title: 'Bloomberg: 25-Year-Old Musk Aide Given Write Access to $6 Tri'
@@ -46,9 +40,7 @@ patterns:
 - system-capture
 - security-compromise
 - crony-access
-notes: This event represents significant kleptocratic capture and institutional destruction.
-  Raises serious concerns about data privacy, security protocols, and politicization
-  of federal payment systems.
+notes: This event represents significant kleptocratic capture and institutional destruction. Raises serious concerns about data privacy, security protocols, and politicization of federal payment systems.
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

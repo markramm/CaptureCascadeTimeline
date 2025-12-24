@@ -2,8 +2,7 @@
 id: 2025-06-14--minnesota-house-speaker-assassination
 date: '2025-06-14'
 importance: 6
-title: Minnesota House Speaker Emerita Melissa Hortman and Husband Assassinated, Senator
-  John Hoffman and Wife Wounded
+title: Minnesota House Speaker Emerita Melissa Hortman and Husband Assassinated, Senator John Hoffman and Wife Wounded
 location: Champlin and Brooklyn Park, Minnesota
 actors:
 - Melissa Hortman (victim, killed)
@@ -11,7 +10,7 @@ actors:
 - John Hoffman (victim, wounded)
 - Yvette Hoffman (victim, wounded)
 - Vance Boelter (perpetrator)
-- Tim Walz (Governor)
+- Tim Walz
 tags:
 - political-assassination
 - stochastic-terrorism
@@ -21,18 +20,15 @@ tags:
 - minnesota
 status: confirmed
 sources:
-- title: After Two-Day Manhunt, Suspect Charged with Shooting Two Minnesota Lawmakers
-    and Their Spouses
+- title: After Two-Day Manhunt, Suspect Charged with Shooting Two Minnesota Lawmakers and Their Spouses
   url: https://www.justice.gov/opa/pr/after-two-day-manhunt-suspect-charged-shooting-two-minnesota-lawmakers-and-their-spouses
   outlet: Department of Justice
   date: '2025-06-16'
-- title: Minnesota lawmaker Melissa Hortman killed, State Sen. John Hoffman wounded
-    in targeted political violence
+- title: Minnesota lawmaker Melissa Hortman killed, State Sen. John Hoffman wounded in targeted political violence
   url: https://abcnews.go.com/US/2-minnesota-lawmakers-shot-targeted-incident-officials/story?id=122840751
   outlet: ABC News
   date: '2025-06-14'
-- title: Minnesota Rep. Melissa Hortman killed, state Sen. John Hoffman injured in
-    targeted shootings
+- title: Minnesota Rep. Melissa Hortman killed, state Sen. John Hoffman injured in targeted shootings
   url: https://www.cbsnews.com/news/minnesota-lawmaker-shooting-melissa-hortman-john-hoffman-brooklyn-park/
   outlet: CBS News
   date: '2025-06-14'
@@ -40,9 +36,7 @@ sources:
   url: https://www.justice.gov/usao-mn/pr/vance-boelter-indicted-murders-melissa-and-mark-hortman-shootings-john-and-yvette-0
   outlet: U.S. Attorney's Office - District of Minnesota
   date: '2025-06-27'
-notes: Northwestern researchers established direct statistical causation between Trump
-  tweets and violence magnitude. This assassination exemplifies stochastic terrorism
-  pattern where inflammatory rhetoric inspires lone actors without direct commands.
+notes: Northwestern researchers established direct statistical causation between Trump tweets and violence magnitude. This assassination exemplifies stochastic terrorism pattern where inflammatory rhetoric inspires lone actors without direct commands.
 capture_lanes:
 - Legislative Capture
 ---

@@ -4,9 +4,9 @@ date: '2008-08-01'
 title: FCC Orders Comcast to Stop Throttling BitTorrent Traffic in Historic 3-2 Vote on Net Neutrality
 importance: 9
 actors:
-- Federal Communications Commission
+- Federal Communications Commission (FCC)
 - Comcast Corporation
-- Electronic Frontier Foundation
+- Electronic Frontier Foundation (EFF)
 - Kevin Martin
 tags:
 - net-neutrality
@@ -16,17 +16,17 @@ tags:
 - comcast
 status: confirmed
 sources:
-- title: 'FCC Rules Against Comcast for BitTorrent Blocking'
+- title: FCC Rules Against Comcast for BitTorrent Blocking
   url: https://www.eff.org/deeplinks/2008/08/fcc-rules-against-comcast-bit-torrent-blocking
   outlet: Electronic Frontier Foundation
   date: '2008-08-01'
   tier: 1
-- title: 'FCC formally rules Comcast throttling of BitTorrent was illegal'
+- title: FCC formally rules Comcast throttling of BitTorrent was illegal
   url: https://cyberlaw.org.uk/2008/08/01/fcc-formally-rules-comcasts-throttling-of-bittorrent-was-illegal/
   outlet: CyberLaw
   date: '2008-08-01'
   tier: 2
-- title: 'Order Against Comcast Issued, FCC Credits EFF'
+- title: Order Against Comcast Issued, FCC Credits EFF
   url: https://www.eff.org/deeplinks/2008/08/order-against-comcast-issued-fcc-credits-eff
   outlet: Electronic Frontier Foundation
   date: '2008-08-01'

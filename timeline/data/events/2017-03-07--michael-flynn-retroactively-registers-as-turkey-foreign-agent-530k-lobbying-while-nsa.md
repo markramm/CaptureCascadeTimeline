@@ -1,8 +1,7 @@
 ---
 id: 2017-03-07--michael-flynn-retroactively-registers-as-turkey-foreign-agent-530k-lobbying-while-nsa
 date: '2017-03-07'
-title: Michael Flynn Retroactively Registers as Turkey Foreign Agent - $530K Lobbying
-  During Campaign and as National Security Advisor
+title: Michael Flynn Retroactively Registers as Turkey Foreign Agent - $530K Lobbying During Campaign and as National Security Advisor
 importance: 10
 tags:
 - flynn
@@ -20,19 +19,19 @@ actors:
 sources:
 - url: https://www.npr.org/2017/03/10/519703341/michael-flynn-admits-lobbying-may-have-benefited-turkish-government
   title: Michael Flynn Admits Lobbying May Have Benefited Turkish Government
-  publisher: NPR
   date: '2017-03-10'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/politics-news/michael-flynn-disclosed-his-lobbying-might-have-helped-turkey-n731056
   title: Michael Flynn Discloses His Lobbying Might Have Helped Turkey
-  publisher: NBC News
   date: '2017-03-09'
   tier: 1
+  outlet: NBC News
 - url: https://www.justice.gov/archives/sco/file/1015126/dl
   title: United States v. Michael T. Flynn - Statement of Offense
-  publisher: U.S. Department of Justice
   date: '2017-12-01'
   tier: 1
+  outlet: U.S. Department of Justice
 status: confirmed
 ---
 

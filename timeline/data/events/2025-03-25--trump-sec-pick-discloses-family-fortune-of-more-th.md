@@ -2,8 +2,7 @@
 id: 2025-03-25--trump-sec-pick-discloses-family-fortune-of-more-th
 date: '2025-03-25'
 title: Trump SEC pick discloses family fortune of more than $328 million
-description: Paul Atkins, Trump’s nominee to lead the SEC, has disclosed personal
-  assets exceeding $328 million, potentially worth as much as $588.8 million
+description: Paul Atkins, Trump’s nominee to lead the SEC, has disclosed personal assets exceeding $328 million, potentially worth as much as $588.8 million
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -17,7 +16,7 @@ capture_type: regulatory_capture
 sources:
 - title: Trump SEC pick discloses family fortune of more than $328 million
   url: https://www.reuters.com/world/us/trump-sec-pick-discloses-family-fortune-more-than-328-million-2025-03-25/
-  outlet: REUTERS
+  outlet: Reuters
   date: '2025-03-25'
 - title: SEC Chair Nominee Paul Atkins, Spouse Worth at Least 27 Million
   url: https://www.bloomberg.com/news/articles/2025-03-25/sec-chair-nominee-paul-atkins-spouse-worth-at-least-327-million
@@ -27,8 +26,7 @@ sources:
   url: https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/
   outlet: Fortune
   date: '2025-03-25'
-- title: Trump SEC Pick Paul Atkins' Crypto Ties Draw Sen. Warren's Ire Ahead of Confirmation
-    Hearing
+- title: Trump SEC Pick Paul Atkins' Crypto Ties Draw Sen. Warren's Ire Ahead of Confirmation Hearing
   url: https://www.coindesk.com/policy/2025/03/26/trump-sec-pick-paul-atkins-crypto-ties-draw-sen-warren-s-ire-ahead-of-confirmation-hearing
   outlet: CoinDesk
   date: '2025-03-26'

@@ -4,40 +4,40 @@ date: 2020-06-10
 title: Amazon announces one-year moratorium on police use of Rekognition after George Floyd protests
 importance: 7
 actors:
-  - Amazon
-  - AWS
-  - Jeff Bezos
+- Amazon
+- AWS
+- Jeff Bezos
 tags:
-  - surveillance
-  - facial-recognition
-  - amazon
-  - rekognition
-  - police
-  - george-floyd
-  - racial-justice
-  - law-enforcement
-  - civil-liberties
+- surveillance
+- facial-recognition
+- amazon
+- rekognition
+- police
+- george-floyd
+- racial-justice
+- law-enforcement
+- civil-liberties
 sources:
-  - url: https://www.npr.org/2020/06/10/874418013/amazon-halts-police-use-of-its-facial-recognition-technology
-    title: Amazon Halts Police Use Of Its Facial Recognition Technology
-    publisher: NPR
-    date: 2020-06-10
-    tier: 1
-  - url: https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium
-    title: ACLU Statement on Amazon Face Recognition Moratorium
-    publisher: ACLU
-    date: 2020-06-10
-    tier: 1
-  - url: https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/
-    title: The two-year fight to stop Amazon from selling face recognition to the police
-    publisher: MIT Technology Review
-    date: 2020-06-12
-    tier: 1
-  - url: https://aibusiness.com/companies/amazon-web-services-extends-ban-on-facial-recognition-sales-to-police
-    title: Amazon Web Services extends ban on facial recognition sales to police
-    publisher: AI Business
-    date: 2021-05-19
-    tier: 2
+- url: https://www.npr.org/2020/06/10/874418013/amazon-halts-police-use-of-its-facial-recognition-technology
+  title: Amazon Halts Police Use Of Its Facial Recognition Technology
+  date: 2020-06-10
+  tier: 1
+  outlet: NPR
+- url: https://www.aclu.org/press-releases/aclu-statement-amazon-face-recognition-moratorium
+  title: ACLU Statement on Amazon Face Recognition Moratorium
+  date: 2020-06-10
+  tier: 1
+  outlet: ACLU
+- url: https://www.technologyreview.com/2020/06/12/1003482/amazon-stopped-selling-police-face-recognition-fight/
+  title: The two-year fight to stop Amazon from selling face recognition to the police
+  date: 2020-06-12
+  tier: 1
+  outlet: MIT Technology Review
+- url: https://aibusiness.com/companies/amazon-web-services-extends-ban-on-facial-recognition-sales-to-police
+  title: Amazon Web Services extends ban on facial recognition sales to police
+  date: 2021-05-19
+  tier: 2
+  outlet: AI Business
 status: confirmed
 ---
 

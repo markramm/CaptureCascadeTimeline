@@ -4,32 +4,32 @@ date: 2010-09-24
 title: FBI Raids Anti-War Activists' Homes in Coordinated Nationwide Operation
 importance: 7
 actors:
-  - FBI
-  - Department of Justice
-  - Anti-war activists
-  - Grand jury
+- FBI
+- Department of Justice
+- Anti-war activists
+- Grand jury
 tags:
-  - fbi-abuse
-  - surveillance
-  - protest-suppression
-  - first-amendment
-  - political-repression
+- fbi-abuse
+- surveillance
+- protest-suppression
+- first-amendment
+- political-repression
 sources:
-  - url: https://theintercept.com/2019/10/22/terrorism-fbi-political-dissent/
-    title: The FBI's Long History of Treating Political Dissent as Terrorism
-    publisher: The Intercept
-    date: 2019-10-22
-    tier: 1
-  - url: https://progressive.org/latest/spying-occupy-activists/
-    title: Spying on Occupy Activists
-    publisher: The Progressive
-    date: 2013-03-28
-    tier: 1
-  - url: https://www.rightsanddissent.org/news/51-years-ago-the-fbi-tried-to-kill-the-revolution-they-are-still-trying/
-    title: 51 Years Ago the FBI Tried to Kill the Revolution
-    publisher: Defending Rights & Dissent
-    date: 2020-12-04
-    tier: 2
+- url: https://theintercept.com/2019/10/22/terrorism-fbi-political-dissent/
+  title: The FBI's Long History of Treating Political Dissent as Terrorism
+  date: 2019-10-22
+  tier: 1
+  outlet: The Intercept
+- url: https://progressive.org/latest/spying-occupy-activists/
+  title: Spying on Occupy Activists
+  date: 2013-03-28
+  tier: 1
+  outlet: The Progressive
+- url: https://www.rightsanddissent.org/news/51-years-ago-the-fbi-tried-to-kill-the-revolution-they-are-still-trying/
+  title: 51 Years Ago the FBI Tried to Kill the Revolution
+  date: 2020-12-04
+  tier: 2
+  outlet: Defending Rights & Dissent
 ---
 
 FBI agents executed coordinated early-morning raids on the homes and offices of anti-war and international solidarity activists in Minneapolis, Chicago, and other cities, seizing computers, phones, documents, and political materials. The raids targeted activists organizing against the Iraq and Afghanistan wars and supporting Palestinian and Colombian resistance movements, demonstrating how counterterrorism authorities were being used to criminalize political speech and international solidarity work.

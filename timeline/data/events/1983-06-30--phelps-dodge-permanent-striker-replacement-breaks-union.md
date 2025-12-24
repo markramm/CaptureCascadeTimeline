@@ -1,7 +1,7 @@
 ---
 id: 1983-06-30--phelps-dodge-permanent-striker-replacement-breaks-union
 date: '1983-06-30'
-title: 'Phelps Dodge Breaks Copper Strike Using Permanent Replacement Workers, Destroying Union'
+title: Phelps Dodge Breaks Copper Strike Using Permanent Replacement Workers, Destroying Union
 importance: 8
 actors:
 - Phelps Dodge Corporation
@@ -14,9 +14,9 @@ tags:
 - permanent-replacement
 - union-busting
 - mining
-- Arizona
+- arizona
 sources:
-- title: 'The Thirtieth Anniversary of the Phelps Dodge Strike'
+- title: The Thirtieth Anniversary of the Phelps Dodge Strike
   url: https://www.cornellpress.cornell.edu/the-thirtieth-anniversary-of-the-phelps-dodge-strike/
   outlet: Cornell University Press
   date: '2013-06-30'
@@ -28,7 +28,7 @@ sources:
   date: '2021-04-17'
   verified: true
   tier: 2
-- title: 'The Return of the Strike'
+- title: The Return of the Strike
   url: https://prospect.org/article/return-strike
   outlet: The American Prospect
   date: '2024-01-01'

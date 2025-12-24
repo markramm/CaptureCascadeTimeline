@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: Trump removes inspector general who was to oversee $2 trillion stimulus spending
   url: https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2020-04-07'
 - title: Trump Has Fired 5 Inspectors General. Here Are the Reasons He Gave
   url: https://www.npr.org/2020/05/16/857090494/trump-has-fired-5-inspectors-general-here-are-the-reasons-he-gave

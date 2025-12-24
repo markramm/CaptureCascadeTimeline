@@ -18,19 +18,19 @@ actors:
 sources:
 - title: Joe Rogan "betrayed" by Trump on "insane" ICE raids
   url: https://www.salon.com/2025/07/05/joe-rogan-betrayed-by-trump-on-insane-ice-raids/
-  publisher: Salon
   date: '2025-07-05'
   tier: 2
+  outlet: Salon
 - title: Joe Rogan tears into Trump's immigration crackdown - 'horrific'
   url: https://www.newsweek.com/joe-rogan-donald-trump-immigration-crackdown-podcast-remarks-10858292
-  publisher: Newsweek
   date: '2025-07-03'
   tier: 2
+  outlet: Newsweek
 - title: Joe Rogan on ICE raids, arrests under Trump - 'It's insane'
   url: https://thehill.com/homenews/administration/5383761-trump-ice-worksite-raids-reaction/
-  publisher: The Hill
   date: '2025-07-02'
   tier: 2
+  outlet: The Hill
 status: confirmed
 ---
 

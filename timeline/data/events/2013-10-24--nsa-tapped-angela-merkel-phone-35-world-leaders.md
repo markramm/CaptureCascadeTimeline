@@ -16,20 +16,20 @@ actors:
 - Edward Snowden
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2013/10/24/240503748/report-nsa-monitored-phones-of-35-world-leaders
-  title: "Report: NSA Monitored Phones Of 35 World Leaders"
-  publisher: NPR
+  title: 'Report: NSA Monitored Phones Of 35 World Leaders'
   date: '2013-10-24'
   tier: 1
+  outlet: NPR
 - url: https://edition.cnn.com/2013/10/24/world/europe/europe-summit-nsa-surveillance
-  title: "Germany's Angela Merkel: Relations with U.S. 'severely shaken' over spying claims"
-  publisher: CNN
+  title: 'Germany''s Angela Merkel: Relations with U.S. ''severely shaken'' over spying claims'
   date: '2013-10-24'
   tier: 2
+  outlet: CNN
 - url: https://www.washingtonpost.com/world/uproar-in-germany-continues-over-accusations-that-us-tapped-merkels-phone/2013/10/24/39e4c618-3c96-11e3-b0e7-716179a2c2c7_story.html
-  title: "Germans launch probe into allegations of U.S. spying"
-  publisher: The Washington Post
+  title: Germans launch probe into allegations of U.S. spying
   date: '2013-10-24'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

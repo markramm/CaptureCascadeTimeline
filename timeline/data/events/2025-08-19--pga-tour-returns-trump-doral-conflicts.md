@@ -13,19 +13,19 @@ tags:
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-08-19/trump-golf-course-to-host-pga-in-2026-ending-10-year-freeze
   title: Trump Doral to Host PGA Tour in 2026, Ending Decade of Distance
-  publisher: Bloomberg
   date: '2025-08-19'
   tier: 1
+  outlet: Bloomberg
 - url: https://www.espn.com/golf/story/_/id/46015761/trump-national-doral-returns-2026-pga-tour-schedule
   title: Trump National Doral returns on 2026 PGA Tour schedule
-  publisher: ESPN
   date: '2025-08-19'
   tier: 2
+  outlet: ESPN
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-212
   title: 'Trump Tyranny Tracker: Day 212'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-26'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 The PGA Tour announced Trump National Doral will host the Miami Championship signature event April 30-May 3, 2026, with a $20 million purse. This marks the first PGA Tour event at a Trump property in a decade, directly enriching the president's business while serving in office.

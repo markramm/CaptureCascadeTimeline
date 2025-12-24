@@ -14,30 +14,30 @@ actors:
 - Angelo Mozilo
 - Countrywide Financial
 - Bank of America
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Department of Justice
 - Federal Reserve
 sources:
 - url: https://money.cnn.com/2010/10/15/news/companies/mozilo_SEC/index.htm
   title: Countrywide's Mozilo to pay $67.5 million settlement
-  publisher: CNN Money
   date: '2010-10-15'
   tier: 1
+  outlet: CNN Money
 - url: https://www.cbsnews.com/news/angelo-mozilo-former-ceo-of-countrywide-financial-corp-settles-with-the-sec/
   title: Angelo Mozilo Settles with the SEC
-  publisher: CBS News
   date: '2010-10-15'
   tier: 1
+  outlet: CBS News
 - url: https://oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-establishes-california-foreclosure-relief-fund
   title: AG Harris Establishes California Foreclosure Relief Fund
-  publisher: California Department of Justice
   date: '2016'
   tier: 1
+  outlet: California Department of Justice
 - url: https://money.cnn.com/2018/06/06/news/companies/angelo-mozilo-countrywide-2008/index.html
   title: Angelo Mozilo and his doomed mortgage machine
-  publisher: CNN
   date: '2018-06-06'
   tier: 1
+  outlet: CNN
 status: confirmed
 ---
 

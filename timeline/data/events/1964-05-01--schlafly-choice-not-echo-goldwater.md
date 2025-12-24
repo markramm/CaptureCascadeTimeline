@@ -1,0 +1,34 @@
+---
+id: 1964-05-01--schlafly-choice-not-echo-goldwater
+date: '1964-05-01'
+title: Phyllis Schlafly Publishes 'A Choice Not an Echo,' Launching Conservative Movement Infrastructure
+importance: 8
+actors:
+- Phyllis Schlafly
+- Barry Goldwater
+- John Birch Society
+- Republican Party
+tags:
+- conservative-movement
+- institutional-capture
+- political-infrastructure
+- grassroots-organizing
+sources:
+- title: A Choice Not an Echo
+  url: https://en.wikipedia.org/wiki/A_Choice_Not_an_Echo
+  outlet: Wikipedia
+  date: '2025-12-01'
+  tier: 2
+- title: Phyllis Schlafly
+  url: https://en.wikipedia.org/wiki/Phyllis_Schlafly
+  outlet: Wikipedia
+  date: '2025-12-01'
+  tier: 2
+- title: A Choice Not an Echo
+  url: https://www.britannica.com/topic/A-Choice-Not-an-Echo
+  outlet: Encyclopaedia Britannica
+  date: '2025-12-01'
+  tier: 1
+---
+
+Phyllis Schlafly self-publishes 'A Choice Not an Echo,' a 128-page polemic attacking the Republican establishment and supporting Barry Goldwater's presidential campaign. The book becomes an instant phenomenon, selling over three million copies by summer 1964 and bringing Schlafly to national prominence as a conservative activist. In it, Schlafly denounces the 'Rockefeller Republicans' in the Northeast, accusing them of corruption and globalism, and details how the liberal wing of the Republican Party had manipulated the party's choice of nominees in prior conventions. The John Birch Society distributes 300,000 copies in California prior to the June 2, 1964 GOP primary, which proves decisive in Goldwater securing the nomination. Gardiner Johnson of the Republican National Committee states that the book's distribution in California was a major factor in Goldwater winning the nomination. National Review later calls this 'the canonical text of movement conservatism.' The book establishes Schlafly as a key architect of grassroots conservative organizing and demonstrates the power of self-published political literature in mobilizing activist networks. This success provides the foundation for Schlafly's later campaigns against the ERA and her creation of lasting conservative infrastructure through Eagle Forum. The book's model of attacking party establishment from the right and mobilizing grassroots activists becomes a template replicated throughout conservative movement building over the following decades.

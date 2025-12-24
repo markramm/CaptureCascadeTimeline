@@ -4,38 +4,38 @@ date: '2020-11-25'
 title: Trump Pardons Michael Flynn After Guilty Plea and Sidney Powell Conspiracy Theories
 importance: 8
 actors:
-  - Donald Trump
-  - Michael Flynn
-  - Sidney Powell
-  - Emmet Sullivan
-  - William Barr
+- Donald Trump
+- Michael Flynn
+- Sidney Powell
+- Emmet Sullivan
+- William Barr
 tags:
-  - Pardons
-  - Russia-Investigation
-  - Obstruction-of-Justice
-  - Corruption
-  - Turkey
+- pardons
+- russia-investigation
+- obstruction-of-justice
+- corruption
+- turkey
 sources:
-  - title: Trump pardons Michael Flynn, who pleaded guilty to lying to the FBI
-    url: https://www.cnn.com/2020/11/25/politics/michael-flynn-pardon/index.html
-    publisher: CNN
-    date: '2020-11-25'
-    tier: 1
-  - title: Trump Pardons Michael Flynn, Ignoring Pleas From Justice Dept.
-    url: https://www.nytimes.com/2020/11/25/us/politics/trump-pardons-michael-flynn.html
-    publisher: New York Times
-    date: '2020-11-25'
-    tier: 1
-  - title: Michael Flynn's guilty plea
-    url: https://www.justice.gov/file/1015126/download
-    publisher: U.S. Department of Justice
-    date: '2017-12-01'
-    tier: 1
-  - title: Judge Sullivan refuses to dismiss Flynn case after pardon
-    url: https://www.reuters.com/article/idUSKBN28Z2PD/
-    publisher: Reuters
-    date: '2020-11-25'
-    tier: 1
+- title: Trump pardons Michael Flynn, who pleaded guilty to lying to the FBI
+  url: https://www.cnn.com/2020/11/25/politics/michael-flynn-pardon/index.html
+  date: '2020-11-25'
+  tier: 1
+  outlet: CNN
+- title: Trump Pardons Michael Flynn, Ignoring Pleas From Justice Dept.
+  url: https://www.nytimes.com/2020/11/25/us/politics/trump-pardons-michael-flynn.html
+  date: '2020-11-25'
+  tier: 1
+  outlet: The New York Times
+- title: Michael Flynn's guilty plea
+  url: https://www.justice.gov/file/1015126/download
+  date: '2017-12-01'
+  tier: 1
+  outlet: U.S. Department of Justice
+- title: Judge Sullivan refuses to dismiss Flynn case after pardon
+  url: https://www.reuters.com/article/idUSKBN28Z2PD/
+  date: '2020-11-25'
+  tier: 1
+  outlet: Reuters
 status: confirmed
 ---
 

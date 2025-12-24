@@ -15,21 +15,20 @@ tags:
 - data-manipulation
 sources:
 - url: https://www.nbcnews.com/politics/justice-department/justice-department-investigating-whether-dc-police-manipulated-crime-d-rcna225886
-  title: Justice Department is investigating whether D.C. police manipulated crime
-    data
-  publisher: NBC News
+  title: Justice Department is investigating whether D.C. police manipulated crime data
   date: '2025-08-19'
   tier: 1
+  outlet: NBC News
 - url: https://www.nbcwashington.com/news/local/justice-department-to-investigate-whether-dc-police-manipulated-crime-data/3977022/
   title: Justice Dept. to investigate whether DC police faked crime data
-  publisher: NBC Washington
   date: '2025-08-19'
   tier: 1
+  outlet: NBC Washington
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-212
   title: 'Trump Tyranny Tracker: Day 212'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-26'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 US Attorney Jeanine Pirro launched a Justice Department investigation into whether DC police manipulated crime statistics to make rates appear lower, despite violent crime being down 26% and at a 30-year low. The investigation provides justification for Trump's federal takeover of DC police and deployment of 800 National Guard troops.

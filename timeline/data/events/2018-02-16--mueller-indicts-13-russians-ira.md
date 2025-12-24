@@ -4,33 +4,33 @@ date: 2018-02-16
 title: Mueller Indicts 13 Russians and Internet Research Agency for Election Interference
 importance: 9
 tags:
-  - Mueller Investigation
-  - Russia Interference
-  - Foreign Interference
-  - Disinformation
-  - Social Media Manipulation
-  - Election 2016
+- mueller investigation
+- russia interference
+- foreign interference
+- disinformation
+- social media manipulation
+- election 2016
 actors:
-  - Robert Mueller
-  - Internet Research Agency
-  - Yevgeny Prigozhin
-  - Russian Government
+- Robert Mueller
+- Internet Research Agency
+- Yevgeny Prigozhin
+- Russian Government
 sources:
-  - url: https://www.justice.gov/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere
-    title: Grand Jury Indicts Thirteen Russian Individuals and Three Russian Companies for Scheme to Interfere in the United States Political System
-    publisher: Department of Justice
-    date: 2018-02-16
-    tier: 1
-  - url: https://www.justice.gov/file/1035477/download
-    title: United States v. Internet Research Agency et al. - Indictment
-    publisher: U.S. District Court for the District of Columbia
-    date: 2018-02-16
-    tier: 1
-  - url: https://www.dni.gov/files/documents/ICA_2017_01.pdf
-    title: Assessing Russian Activities and Intentions in Recent US Elections (ICA 2017)
-    publisher: Office of the Director of National Intelligence
-    date: 2017-01-06
-    tier: 1
+- url: https://www.justice.gov/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere
+  title: Grand Jury Indicts Thirteen Russian Individuals and Three Russian Companies for Scheme to Interfere in the United States Political System
+  date: 2018-02-16
+  tier: 1
+  outlet: Department of Justice
+- url: https://www.justice.gov/file/1035477/download
+  title: United States v. Internet Research Agency et al. - Indictment
+  date: 2018-02-16
+  tier: 1
+  outlet: U.S. District Court for the District of Columbia
+- url: https://www.dni.gov/files/documents/ICA_2017_01.pdf
+  title: Assessing Russian Activities and Intentions in Recent US Elections (ICA 2017)
+  date: 2017-01-06
+  tier: 1
+  outlet: Office of the Director of National Intelligence
 ---
 
 Special Counsel Robert Mueller's investigation filed its first charges against Russian government entities, indicting 13 Russian nationals and three Russian companies for conducting a sophisticated social media disinformation campaign to interfere in the 2016 U.S. presidential election. The indictment exposed the operations of the Internet Research Agency (IRA), a St. Petersburg-based "troll farm" funded by Yevgeny Prigozhin, a close ally of Russian President Vladimir Putin, known as "Putin's chef."

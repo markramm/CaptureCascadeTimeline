@@ -4,30 +4,30 @@ date: 1986-09-26
 title: Reagan Vetoes Apartheid Sanctions, Congress Overrides in Historic Rebuke
 importance: 8
 tags:
-  - foreign-policy
-  - human-rights
-  - apartheid
-  - South-Africa
-  - Reagan-administration
+- foreign-policy
+- human-rights
+- apartheid
+- south-africa
+- reagan-administration
 actors:
-  - Ronald Reagan
-  - Desmond Tutu
+- Ronald Reagan
+- Desmond Tutu
 sources:
-  - url: https://www.reaganlibrary.gov/archives/speech/message-house-representatives-returning-without-approval-bill-concerning-apartheid
-    title: Message to the House Returning Without Approval Anti-Apartheid Bill
-    publisher: Reagan Presidential Library
-    date: 1986-09-26
-    tier: 1
-  - url: https://history.house.gov/Historical-Highlights/1951-2000/The-House-overrides-President-Reagan_s-veto-of-the-Comprehensive-Anti_Apartheid-Act/
-    title: House Overrides President Reagan's Veto of Anti-Apartheid Act
-    publisher: U.S. House of Representatives
-    date: 2024-01-01
-    tier: 1
-  - url: https://www.nytimes.com/1986/10/03/world/reagan-s-veto-overridden-sanctions-voted-on-south-africa.html
-    title: Reagan's Veto Overridden; Sanctions Voted on South Africa
-    publisher: New York Times
-    date: 1986-10-03
-    tier: 2
+- url: https://www.reaganlibrary.gov/archives/speech/message-house-representatives-returning-without-approval-bill-concerning-apartheid
+  title: Message to the House Returning Without Approval Anti-Apartheid Bill
+  date: 1986-09-26
+  tier: 1
+  outlet: Reagan Presidential Library
+- url: https://history.house.gov/Historical-Highlights/1951-2000/The-House-overrides-President-Reagan_s-veto-of-the-Comprehensive-Anti_Apartheid-Act/
+  title: House Overrides President Reagan's Veto of Anti-Apartheid Act
+  date: 2024-01-01
+  tier: 1
+  outlet: U.S. House of Representatives
+- url: https://www.nytimes.com/1986/10/03/world/reagan-s-veto-overridden-sanctions-voted-on-south-africa.html
+  title: Reagan's Veto Overridden; Sanctions Voted on South Africa
+  date: 1986-10-03
+  tier: 2
+  outlet: The New York Times
 ---
 
 President Reagan vetoes the Comprehensive Anti-Apartheid Act of 1986, calling economic sanctions against South Africa's white minority regime "economic warfare" and claiming they would hurt the impoverished Black majority. Reagan's veto represents the culmination of his administration's "constructive engagement" policy, which for six years had opposed meaningful pressure on the apartheid regime.

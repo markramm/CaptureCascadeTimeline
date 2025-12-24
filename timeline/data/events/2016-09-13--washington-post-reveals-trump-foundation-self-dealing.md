@@ -4,33 +4,33 @@ date: 2016-09-13
 title: Washington Post Investigation Reveals Trump Foundation Used for Self-Dealing and Business Settlements
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Self-Dealing
-  - Investigative Journalism
-  - David Fahrenthold
+- trump foundation
+- charity fraud
+- self-dealing
+- investigative journalism
+- david fahrenthold
 actors:
-  - Donald Trump
-  - Trump Foundation
-  - David Fahrenthold
-  - Washington Post
+- Donald Trump
+- Trump Foundation
+- David Fahrenthold
+- Washington Post
 status: confirmed
 sources:
-  - url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
-    title: Trump used $258,000 from his charity to settle legal problems
-    publisher: Washington Post
-    date: 2016-09-20
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/how-donald-trump-retooled-his-charity-to-spend-other-peoples-money/2016/09/10/da8cce64-75df-11e6-8149-b8d05321db62_story.html
-    title: How Donald Trump retooled his charity to spend other people's money
-    publisher: Washington Post
-    date: 2016-09-10
-    tier: 1
-  - url: https://www.pulitzer.org/winners/david-fahrenthold
-    title: David Fahrenthold Pulitzer Prize Citation
-    publisher: Pulitzer Prize Board
-    date: 2017-04-10
-    tier: 1
+- url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
+  title: Trump used $258,000 from his charity to settle legal problems
+  date: 2016-09-20
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.washingtonpost.com/politics/how-donald-trump-retooled-his-charity-to-spend-other-peoples-money/2016/09/10/da8cce64-75df-11e6-8149-b8d05321db62_story.html
+  title: How Donald Trump retooled his charity to spend other people's money
+  date: 2016-09-10
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.pulitzer.org/winners/david-fahrenthold
+  title: David Fahrenthold Pulitzer Prize Citation
+  date: 2017-04-10
+  tier: 1
+  outlet: Pulitzer Prize Board
 ---
 
 Washington Post investigative reporter David Fahrenthold published a groundbreaking series of investigations revealing that the Donald J. Trump Foundation had engaged in a systematic pattern of illegal self-dealing, using tax-exempt charitable funds to purchase items for Trump's personal use, settle his businesses' legal disputes, and promote his political campaigns. The investigation documented at least $258,000 in foundation funds used to pay legal settlements for Trump's for-profit businesses, including $158,000 to settle a Mar-a-Lago flagpole dispute and payments related to Trump University. The reporting also revealed that Trump had not donated any of his own money to the Foundation since 2008, instead using it to distribute other people's charitable contributions while taking credit for the philanthropy.

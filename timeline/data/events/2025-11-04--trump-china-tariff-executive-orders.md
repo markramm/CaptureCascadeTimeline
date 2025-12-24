@@ -1,8 +1,7 @@
 ---
 id: 2025-11-04--trump-china-tariff-executive-orders
 date: '2025-11-04'
-title: Trump Issues Executive Orders Modifying China Tariff Rates and Fentanyl-Related
-  Duties
+title: Trump Issues Executive Orders Modifying China Tariff Rates and Fentanyl-Related Duties
 importance: 7
 tags:
 - tariffs
@@ -11,23 +10,21 @@ tags:
 - executive-power
 - economic-policy
 sources:
-- title: Modifying Reciprocal Tariff Rates Consistent with the Economic and Trade
-    Arrangement Between the United States and the People's Republic of China
+- title: Modifying Reciprocal Tariff Rates Consistent with the Economic and Trade Arrangement Between the United States and the People's Republic of China
   url: https://www.whitehouse.gov/presidential-actions/2025/11/modifying-reciprocal-tariff-rates-consistent-with-the-economic-and-trade-arrangement-between-the-united-states-and-the-peoples-republic-of-china/
-  publisher: White House
   date: '2025-11-04'
   tier: 1
-- title: Modifying Duties Addressing the Synthetic Opioid Supply Chain in the People's
-    Republic of China
+  outlet: White House
+- title: Modifying Duties Addressing the Synthetic Opioid Supply Chain in the People's Republic of China
   url: https://www.whitehouse.gov/presidential-actions/2025/11/modifying-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of-china/
-  publisher: White House
   date: '2025-11-04'
   tier: 1
+  outlet: White House
 - title: 'Trump Tyranny Tracker: Day 289'
   url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289
-  publisher: Trump Tyranny Tracker
   date: '2025-11-04'
   tier: 2
+  outlet: Trump Tyranny Tracker
 actors:
 - Trump
 - White House

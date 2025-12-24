@@ -1,18 +1,13 @@
 ---
 id: 2025-02-10--lee-zeldin-cuts-epa-65-percent
 date: '2025-02-10'
-title: EPA Administrator Zeldin Plans 65% Workforce Cut While Terminating $20 Billion
-  Climate Grants
-description: EPA Administrator Lee Zeldin, who received $186,000 for undisclosed paid
-  op-eds including defending Brazilian beef producer JBS, announces plans to cut EPA
-  workforce by 65% and eliminate scientific research arm. Terminated $20 billion in
-  climate grants which courts found lacked sufficient evidence of fraud. Previously
-  defended companies with major environmental violations.
+title: EPA Administrator Zeldin Plans 65% Workforce Cut While Terminating $20 Billion Climate Grants
+description: EPA Administrator Lee Zeldin, who received $186,000 for undisclosed paid op-eds including defending Brazilian beef producer JBS, announces plans to cut EPA workforce by 65% and eliminate scientific research arm. Terminated $20 billion in climate grants which courts found lacked sufficient evidence of fraud. Previously defended companies with major environmental violations.
 actors:
 - lee-zeldin
 - EPA
-- jbs
-- Environmental Protection Agency
+- JBS
+- Environmental Protection Agency (EPA)
 importance: 8
 sources:
 - date: '2025-02-10'
@@ -37,12 +32,7 @@ tags:
 - jbs
 - paid-advocacy
 status: confirmed
-notes: Zeldin's plan to cut EPA by 65% while eliminating scientific research represents
-  most aggressive environmental deregulation in agency history. His $186,000 in undisclosed
-  paid op-eds defending polluters like JBS (major deforestation contributor) shows
-  pattern of corporate advocacy. Terminating $20 billion in climate grants without
-  evidence of fraud demonstrates arbitrary use of power. Eliminating scientific research
-  arm ensures future policy decisions lack empirical basis, enabling unlimited pollution.
+notes: Zeldin's plan to cut EPA by 65% while eliminating scientific research represents most aggressive environmental deregulation in agency history. His $186,000 in undisclosed paid op-eds defending polluters like JBS (major deforestation contributor) shows pattern of corporate advocacy. Terminating $20 billion in climate grants without evidence of fraud demonstrates arbitrary use of power. Eliminating scientific research arm ensures future policy decisions lack empirical basis, enabling unlimited pollution.
 connections:
 - 2025-07-29--epa-endangerment-finding-rescission
 - 2025-08-08--epa-terminates-union-contracts

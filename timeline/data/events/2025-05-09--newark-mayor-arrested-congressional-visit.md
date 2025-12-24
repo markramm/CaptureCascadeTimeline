@@ -2,12 +2,11 @@
 id: 2025-05-09--newark-mayor-arrested-congressional-visit
 date: '2025-05-09'
 importance: 10
-title: ICE arrests Newark Mayor during congressional oversight visit to detention
-  facility
+title: ICE arrests Newark Mayor during congressional oversight visit to detention facility
 location: Newark, New Jersey
 actors:
 - Ras Baraka
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Rep. LaMonica McIver
 - Rep. Bonnie Watson Coleman
 - Rep. Robert Menendez Jr.
@@ -21,13 +20,11 @@ capture_lanes:
 - Constitutional & Democratic Breakdown
 - Law Enforcement Weaponization
 sources:
-- title: Newark Mayor Ras Baraka arrested at ICE facility while joining Democrats
-    to conduct 'oversight'
+- title: Newark Mayor Ras Baraka arrested at ICE facility while joining Democrats to conduct 'oversight'
   url: https://abcnews.go.com/Politics/newark-mayor-arrested-ice-facility-joining-democrats-conduct/story?id=121652689
   outlet: ABC News
   date: '2025-05-09'
-- title: Newark Mayor Ras Baraka arrested for alleged trespass at New Jersey ICE detention
-    facility
+- title: Newark Mayor Ras Baraka arrested for alleged trespass at New Jersey ICE detention facility
   url: https://www.cnbc.com/2025/05/09/newark-mayor-arrested-baraka-ice.html
   outlet: CNBC
   date: '2025-05-09'
@@ -35,10 +32,7 @@ sources:
   url: https://newjerseymonitor.com/2025/05/09/newark-mayor-detained-by-federal-agents-during-protest-at-ice-jail/
   outlet: New Jersey Monitor
   date: '2025-05-09'
-notes: Video evidence showed Baraka was arrested on public property after complying
-  with orders to leave. Rep. Menendez called it "an act of intimidation." Governor
-  Phil Murphy called the arrest "unjust" and demanded Baraka's immediate release.
-  Baraka had sued GEO Group in April alleging the facility lacked proper permits.
+notes: Video evidence showed Baraka was arrested on public property after complying with orders to leave. Rep. Menendez called it "an act of intimidation." Governor Phil Murphy called the arrest "unjust" and demanded Baraka's immediate release. Baraka had sued GEO Group in April alleging the facility lacked proper permits.
 status: confirmed
 ---
 

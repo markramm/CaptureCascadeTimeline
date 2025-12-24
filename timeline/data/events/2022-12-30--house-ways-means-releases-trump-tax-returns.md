@@ -4,38 +4,38 @@ date: '2022-12-30'
 title: House Ways and Means Committee Releases Six Years of Trump Tax Returns
 importance: 9
 tags:
-  - Tax Fraud
-  - Congressional Oversight
-  - Trump Tax Returns
-  - IRS Audit Failure
-  - Foreign Bank Accounts
+- tax fraud
+- congressional oversight
+- trump tax returns
+- irs audit failure
+- foreign bank accounts
 actors:
-  - House Ways and Means Committee
-  - Richard Neal
-  - Donald Trump
-  - IRS
-  - Treasury Department
+- House Ways and Means Committee
+- Richard Neal
+- Donald Trump
+- IRS
+- Treasury Department
 sources:
-  - url: https://abcnews.go.com/US/6-years-trump-tax-documents-released-democratic-ways/story?id=95707006
-    title: 6 years of Trump tax documents released by House Ways and Means Committee
-    publisher: ABC News
-    date: '2022-12-30'
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/mandatory-irs-audit-of-trump-taxes-delayed-during-presidency-house-panel-says
-    title: Mandatory IRS audit of Trump taxes delayed during presidency
-    publisher: PBS NewsHour
-    date: '2022-12-20'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/trumps-tax-returns-released-house-committee-years-legal-battles-rcna62408
-    title: Trump's tax returns released by House committee show he paid little in taxes
-    publisher: NBC News
-    date: '2022-12-30'
-    tier: 1
-  - url: https://www.cnbc.com/2022/12/30/trumps-tax-returns-released-by-house-ways-and-means-committee.html
-    title: Trump's tax returns released by House Ways and Means Committee
-    publisher: CNBC
-    date: '2022-12-30'
-    tier: 1
+- url: https://abcnews.go.com/US/6-years-trump-tax-documents-released-democratic-ways/story?id=95707006
+  title: 6 years of Trump tax documents released by House Ways and Means Committee
+  date: '2022-12-30'
+  tier: 1
+  outlet: ABC News
+- url: https://www.pbs.org/newshour/politics/mandatory-irs-audit-of-trump-taxes-delayed-during-presidency-house-panel-says
+  title: Mandatory IRS audit of Trump taxes delayed during presidency
+  date: '2022-12-20'
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.nbcnews.com/politics/donald-trump/trumps-tax-returns-released-house-committee-years-legal-battles-rcna62408
+  title: Trump's tax returns released by House committee show he paid little in taxes
+  date: '2022-12-30'
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnbc.com/2022/12/30/trumps-tax-returns-released-by-house-ways-and-means-committee.html
+  title: Trump's tax returns released by House Ways and Means Committee
+  date: '2022-12-30'
+  tier: 1
+  outlet: CNBC
 status: confirmed
 ---
 

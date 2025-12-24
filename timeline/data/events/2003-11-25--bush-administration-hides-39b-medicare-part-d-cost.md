@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: Department of Health and Human Services Chief Actuary Communications
   url: https://www.gao.gov/products/b-302911
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2004-05-04'
 - title: Medicare actuary details threats over estimates
   url: https://www.govexec.com/federal-news/2004/03/medicare-actuary-details-threats-over-estimates/16317/

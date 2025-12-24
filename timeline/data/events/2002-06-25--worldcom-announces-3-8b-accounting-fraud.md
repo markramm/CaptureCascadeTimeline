@@ -4,32 +4,32 @@ date: 2002-06-25
 title: WorldCom Announces $3.8 Billion Accounting Fraud Discovery
 importance: 10
 tags:
-  - corporate-fraud
-  - worldcom
-  - accounting-fraud
-  - securities-fraud
-  - white-collar-crime
+- corporate-fraud
+- worldcom
+- accounting-fraud
+- securities-fraud
+- white-collar-crime
 actors:
-  - Bernard Ebbers
-  - Cynthia Cooper
-  - Scott Sullivan
-  - WorldCom
+- Bernard Ebbers
+- Cynthia Cooper
+- Scott Sullivan
+- WorldCom
 sources:
-  - url: https://en.wikipedia.org/wiki/WorldCom_scandal
-    title: "WorldCom scandal"
-    publisher: Wikipedia
-    date: 2002-06-25
-    tier: 2
-  - url: https://internationalbanker.com/history-of-financial-crises/the-worldcom-scandal-2002/
-    title: "The WorldCom Scandal (2002)"
-    publisher: International Banker
-    date: 2002-06-25
-    tier: 2
-  - url: https://www.everycrsreport.com/reports/RS21253.html
-    title: "WorldCom: The Accounting Scandal"
-    publisher: Congressional Research Service
-    date: 2002-06-25
-    tier: 1
+- url: https://en.wikipedia.org/wiki/WorldCom_scandal
+  title: WorldCom scandal
+  date: 2002-06-25
+  tier: 2
+  outlet: Wikipedia
+- url: https://internationalbanker.com/history-of-financial-crises/the-worldcom-scandal-2002/
+  title: The WorldCom Scandal (2002)
+  date: 2002-06-25
+  tier: 2
+  outlet: International Banker
+- url: https://www.everycrsreport.com/reports/RS21253.html
+  title: 'WorldCom: The Accounting Scandal'
+  date: 2002-06-25
+  tier: 1
+  outlet: Congressional Research Service
 ---
 
 On June 25, 2002, WorldCom, the second-largest telecommunications company in the United States, announced it would restate its financial statements after discovering $3.8 billion in fraudulent accounting entries. The company admitted that "certain transfers" from line cost expenses to asset accounts violated generally accepted accounting principles (GAAP), representing the largest accounting fraud in American history at that time.

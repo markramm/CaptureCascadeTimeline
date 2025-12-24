@@ -18,20 +18,20 @@ actors:
 - State Department
 sources:
 - url: https://www.washingtonpost.com/world/snowden-departs-hong-kong-for-a-third-country-government-says/2013/06/23/08e9eff2-dbde-11e2-a9f2-42ee3912ae0e_story.html
-  title: "Edward Snowden flees Hong Kong for Moscow, asks Ecuador to grant him asylum"
-  publisher: The Washington Post
+  title: Edward Snowden flees Hong Kong for Moscow, asks Ecuador to grant him asylum
   date: '2013-06-23'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.npr.org/sections/thetwo-way/2013/06/23/194594830/snowden-on-the-run-seeks-asylum-in-ecuador
-  title: "Snowden on the run, seeks asylum in Ecuador"
-  publisher: NPR
+  title: Snowden on the run, seeks asylum in Ecuador
   date: '2013-06-23'
   tier: 1
+  outlet: NPR
 - url: https://edition.cnn.com/2013/06/23/politics/nsa-leaks
-  title: "Snowden on the run, seeks asylum in Ecuador"
-  publisher: CNN
+  title: Snowden on the run, seeks asylum in Ecuador
   date: '2013-06-23'
   tier: 2
+  outlet: CNN
 status: confirmed
 ---
 

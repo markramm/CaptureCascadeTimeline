@@ -4,32 +4,32 @@ date: 1987-05-05
 title: Televised Iran-Contra Congressional Hearings Begin, Riveting Nation
 importance: 9
 tags:
-  - Iran-Contra
-  - congressional-oversight
-  - Reagan-administration
-  - accountability
-  - media
+- iran-contra
+- congressional-oversight
+- reagan-administration
+- accountability
+- media
 actors:
-  - Oliver North
-  - John Poindexter
-  - George Shultz
-  - Caspar Weinberger
+- Oliver North
+- John Poindexter
+- George Shultz
+- Caspar Weinberger
 sources:
-  - url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/thehearings.php
-    title: Understanding the Iran-Contra Affairs - The Hearings
-    publisher: Brown University
-    date: 2024-01-01
-    tier: 1
-  - url: https://levin-center.org/what-is-oversight/portraits/the-iran-contra-affair/
-    title: The Iran-Contra Affair
-    publisher: Levin Center for Oversight and Democracy
-    date: 2024-01-01
-    tier: 1
-  - url: https://www.c-span.org/video/?151144-1/iran-contra-hearings-opening-statements
-    title: Iran-Contra Hearings Opening Statements
-    publisher: C-SPAN
-    date: 1987-05-05
-    tier: 1
+- url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/thehearings.php
+  title: Understanding the Iran-Contra Affairs - The Hearings
+  date: 2024-01-01
+  tier: 1
+  outlet: Brown University
+- url: https://levin-center.org/what-is-oversight/portraits/the-iran-contra-affair/
+  title: The Iran-Contra Affair
+  date: 2024-01-01
+  tier: 1
+  outlet: Levin Center for Oversight and Democracy
+- url: https://www.c-span.org/video/?151144-1/iran-contra-hearings-opening-statements
+  title: Iran-Contra Hearings Opening Statements
+  date: 1987-05-05
+  tier: 1
+  outlet: C-SPAN
 ---
 
 Joint congressional hearings on the Iran-Contra affair begin, launching seven weeks of televised testimony that becomes the most-watched series of congressional hearings since the Senate Watergate Committee hearings in 1973. The House Select Committee to Investigate Covert Arms Transactions with Iran and the Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition conduct joint public hearings that expose the extent of illegal operations conducted by Reagan administration officials.

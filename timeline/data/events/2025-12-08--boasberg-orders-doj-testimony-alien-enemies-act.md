@@ -6,6 +6,32 @@ summary: "U.S. District Judge James Boasberg ordered Deputy Assistant Attorney G
 importance: 9
 tags: ["courts", "contempt", "alien-enemies-act", "deportation", "doj", "judicial-authority", "rule-of-law", "due-process", "el-salvador", "whistleblower"]
 actors: ["James Boasberg", "Drew Ensign", "Erez Reuveni", "Kristi Noem", "Department of Justice", "Department of Homeland Security"]
+sources:
+- title: Judge orders top DOJ attorney to testify about Alien Enemies Act deportations
+  url: https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048
+  outlet: ABC News
+  date: '2025-12-08'
+  tier: 1
+- title: Judge orders testimonies in contempt inquiry over deportation flight
+  url: https://www.upi.com/Top_News/US/2025/12/09/testimonies-DOJ-attorneys-deportation-flight/3591765266554/
+  outlet: UPI
+  date: '2025-12-09'
+  tier: 1
+- title: Judge Boasberg to resume criminal contempt inquiry into Trump officials involved in Alien Enemies Act deportation flights
+  url: https://www.cnn.com/2025/11/19/politics/boasberg-contempt-of-court-alien-enemies-act-flights
+  outlet: CNN
+  date: '2025-11-19'
+  tier: 1
+- title: Judge expands criminal contempt probe over deportation flights, saying Kristi Noem failed to provide answers
+  url: https://www.cnn.com/2025/12/08/politics/kristi-noem-deportation-flights-contempt
+  outlet: CNN
+  date: '2025-12-08'
+  tier: 1
+- title: DOJ refuses to answer some questions from the judge who blocked Alien Enemies Act deportations
+  url: https://www.nbcnews.com/politics/trump-administration/doj-refuses-respond-questions-judge-blocked-alien-enemies-act-deportat-rcna196883
+  outlet: NBC News
+  date: '2025-11-01'
+  tier: 1
 ---
 
 # Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order

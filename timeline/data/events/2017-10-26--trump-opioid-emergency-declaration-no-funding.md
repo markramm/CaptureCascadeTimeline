@@ -4,32 +4,32 @@ title: Trump Declares Opioid Public Health Emergency Without Requesting Any New 
 date: '2017-10-26'
 importance: 7
 actors:
-  - Donald Trump
-  - Eric Hargan
-  - Department of Health and Human Services
+- Donald Trump
+- Eric Hargan
+- Department of Health and Human Services
 tags:
-  - opioid-crisis
-  - hollow-gestures
-  - trump-administration
-  - public-health
-  - underfunding
+- opioid-crisis
+- hollow-gestures
+- trump-administration
+- public-health
+- underfunding
 status: confirmed
 sources:
-  - title: Trump Administration Declares Opioid Crisis A Public Health Emergency
-    url: https://www.npr.org/2017/10/26/560083795/president-trump-may-declare-opioid-epidemic-national-emergency
-    publisher: NPR
-    date: '2017-10-26'
-    tier: 1
-  - title: Trump declares opioids public health emergency but doesn't add funding
-    url: https://www.healthcaredive.com/news/trump-declares-opioids-public-health-emergency-but-doesnt-add-funding/508354/
-    publisher: Healthcare Dive
-    date: '2017-10-26'
-    tier: 2
-  - title: No new funding in Trump's emergency opioid declaration
-    url: https://www.modernhealthcare.com/article/20171026/NEWS/171029906/no-new-funding-in-trump-s-emergency-opioid-declaration
-    publisher: Modern Healthcare
-    date: '2017-10-26'
-    tier: 2
+- title: Trump Administration Declares Opioid Crisis A Public Health Emergency
+  url: https://www.npr.org/2017/10/26/560083795/president-trump-may-declare-opioid-epidemic-national-emergency
+  date: '2017-10-26'
+  tier: 1
+  outlet: NPR
+- title: Trump declares opioids public health emergency but doesn't add funding
+  url: https://www.healthcaredive.com/news/trump-declares-opioids-public-health-emergency-but-doesnt-add-funding/508354/
+  date: '2017-10-26'
+  tier: 2
+  outlet: Healthcare Dive
+- title: No new funding in Trump's emergency opioid declaration
+  url: https://www.modernhealthcare.com/article/20171026/NEWS/171029906/no-new-funding-in-trump-s-emergency-opioid-declaration
+  date: '2017-10-26'
+  tier: 2
+  outlet: Modern Healthcare
 ---
 
 On October 26, 2017, President Trump declared the opioid crisis a public health emergency—but the declaration provided no new funding and stopped short of the national emergency designation Trump had promised in August. The move was widely criticized as a hollow gesture that failed to match the scale of a crisis killing tens of thousands of Americans annually.

@@ -25,7 +25,7 @@ sources:
   date: '2013-06-14'
 - title: Obama and leakers how many prosecutions
   url: https://www.politifact.com/factchecks/2017/jun/09/jeff-sessions/obama-prosecuted-leakers-more-aggressively-sessio/
-  outlet: Politifact
+  outlet: PolitiFact
   date: '2017-06-09'
 - title: The war on leaks and journalism
   url: https://www.theguardian.com/commentisfree/2013/may/20/obama-administration-espionage-act-james-goodale

@@ -4,32 +4,32 @@ date: 2016-01-28
 title: Trump Uses Charity Foundation for Iowa Campaign Event, Violating Tax Law
 importance: 8
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Campaign Finance
-  - Tax Violations
-  - Election Interference
+- trump foundation
+- charity fraud
+- campaign finance
+- tax violations
+- election interference
 actors:
-  - Donald Trump
-  - Trump Foundation
-  - Corey Lewandowski
+- Donald Trump
+- Trump Foundation
+- Corey Lewandowski
 status: confirmed
 sources:
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
-    title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
-    publisher: New York Attorney General
-    date: 2018-06-14
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/trump-foundation-apparently-admits-to-violating-ban-on-self-dealing-new-filing-to-irs-shows/2016/11/22/893f6508-b0a9-11e6-8616-52b15787add0_story.html
-    title: Trump Foundation apparently admits to violating ban on 'self-dealing'
-    publisher: Washington Post
-    date: 2016-11-22
-    tier: 1
-  - url: https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds
-    title: Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds
-    publisher: NPR
-    date: 2019-11-07
-    tier: 1
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
+  title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
+  date: 2018-06-14
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.washingtonpost.com/politics/trump-foundation-apparently-admits-to-violating-ban-on-self-dealing-new-filing-to-irs-shows/2016/11/22/893f6508-b0a9-11e6-8616-52b15787add0_story.html
+  title: Trump Foundation apparently admits to violating ban on 'self-dealing'
+  date: 2016-11-22
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds
+  title: Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds
+  date: 2019-11-07
+  tier: 1
+  outlet: NPR
 ---
 
 Donald Trump staged a campaign fundraiser in Des Moines, Iowa disguised as a charitable event, using the Trump Foundation in direct violation of federal tax law prohibiting 501(c)(3) charitable organizations from participating in political campaigns. The January 28, 2016 event occurred just days before the Iowa caucuses after Trump boycotted a Republican primary debate. Trump raised approximately $5.6 million in pledged donations, presented oversized novelty checks to veterans organizations on camera for political benefit, and allowed his campaign - led by manager Corey Lewandowski - to control the event and direct foundation activities for campaign purposes.

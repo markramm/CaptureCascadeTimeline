@@ -4,31 +4,31 @@ date: 2002-07-21
 title: WorldCom Files for Bankruptcy with $107 Billion in Assets
 importance: 10
 tags:
-  - corporate-fraud
-  - worldcom
-  - bankruptcy
-  - accounting-fraud
-  - white-collar-crime
+- corporate-fraud
+- worldcom
+- bankruptcy
+- accounting-fraud
+- white-collar-crime
 actors:
-  - Bernard Ebbers
-  - WorldCom
-  - Scott Sullivan
+- Bernard Ebbers
+- WorldCom
+- Scott Sullivan
 sources:
-  - url: https://www.pbs.org/newshour/economy/business-july-dec02-worldcom_07-22
-    title: "WorldCom Files for Largest Bankruptcy in U.S. History"
-    publisher: PBS NewsHour
-    date: 2002-07-22
-    tier: 1
-  - url: https://www.govinfo.gov/content/pkg/CHRG-108shrg91564/html/CHRG-108shrg91564.htm
-    title: "THE WORLDCOM CASE: LOOKING AT BANKRUPTCY AND COMPETITION ISSUES"
-    publisher: U.S. Congress
-    date: 2002-07-21
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/WorldCom_scandal
-    title: "WorldCom scandal"
-    publisher: Wikipedia
-    date: 2002-07-21
-    tier: 2
+- url: https://www.pbs.org/newshour/economy/business-july-dec02-worldcom_07-22
+  title: WorldCom Files for Largest Bankruptcy in U.S. History
+  date: 2002-07-22
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.govinfo.gov/content/pkg/CHRG-108shrg91564/html/CHRG-108shrg91564.htm
+  title: 'THE WORLDCOM CASE: LOOKING AT BANKRUPTCY AND COMPETITION ISSUES'
+  date: 2002-07-21
+  tier: 1
+  outlet: U.S. Congress
+- url: https://en.wikipedia.org/wiki/WorldCom_scandal
+  title: WorldCom scandal
+  date: 2002-07-21
+  tier: 2
+  outlet: Wikipedia
 ---
 
 On July 21, 2002, WorldCom filed for Chapter 11 bankruptcy protection, listing $107 billion in assets and $41 billion in debt—making it the largest bankruptcy in American history. The filing came just 26 days after the company disclosed $3.8 billion in accounting fraud, demonstrating the speed at which systematic fraud can destroy even the largest corporations.

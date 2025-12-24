@@ -4,45 +4,45 @@ date: '1991-01-01'
 title: George C. Marshall Institute Becomes Central Node in Fossil Fuel-Funded Climate Denial
 importance: 8
 tags:
-  - climate-denial
-  - think-tank-funding
-  - fossil-fuels
-  - scientific-disinformation
-  - fred-singer
+- climate-denial
+- think-tank-funding
+- fossil-fuels
+- scientific-disinformation
+- fred-singer
 actors:
-  - George C. Marshall Institute
-  - Frederick Seitz
-  - Fred Singer
-  - Robert Jastrow
-  - William Nierenberg
-  - ExxonMobil
-  - Jeffrey Salmon
+- George C. Marshall Institute
+- Frederick Seitz
+- Fred Singer
+- Robert Jastrow
+- William Nierenberg
+- ExxonMobil
+- Jeffrey Salmon
 sources:
-  - url: https://en.wikipedia.org/wiki/George_C._Marshall_Institute
-    title: George C. Marshall Institute
-    publisher: Wikipedia
-    date: '2024-01-01'
-    tier: 2
-  - url: https://e360.yale.edu/features/global_warming_deniers_and_their_proven_strategy_of_doubt
-    title: Global Warming Deniers and Their Proven Strategy of Doubt
-    publisher: Yale Environment 360
-    date: '2010-06-16'
-    tier: 1
-  - url: https://www.tandfonline.com/doi/full/10.1080/09644016.2020.1863703
-    title: 'Early oil industry disinformation on global warming'
-    publisher: Environmental Politics
-    date: '2020-12-15'
-    tier: 1
-  - url: https://climateinvestigations.org/climate-files-decades-of-denial/
-    title: 'Climate Files Update: Decades of Denial'
-    publisher: Climate Investigations Center
-    date: '2024-01-01'
-    tier: 1
+- url: https://en.wikipedia.org/wiki/George_C._Marshall_Institute
+  title: George C. Marshall Institute
+  date: '2024-01-01'
+  tier: 2
+  outlet: Wikipedia
+- url: https://e360.yale.edu/features/global_warming_deniers_and_their_proven_strategy_of_doubt
+  title: Global Warming Deniers and Their Proven Strategy of Doubt
+  date: '2010-06-16'
+  tier: 1
+  outlet: Yale Environment 360
+- url: https://www.tandfonline.com/doi/full/10.1080/09644016.2020.1863703
+  title: Early oil industry disinformation on global warming
+  date: '2020-12-15'
+  tier: 1
+  outlet: Environmental Politics
+- url: https://climateinvestigations.org/climate-files-decades-of-denial/
+  title: 'Climate Files Update: Decades of Denial'
+  date: '2024-01-01'
+  tier: 1
+  outlet: Climate Investigations Center
 status: confirmed
 capture_lanes:
-  - Think Tank Capture
-  - Scientific Disinformation
-  - Regulatory Capture
+- Think Tank Capture
+- Scientific Disinformation
+- Regulatory Capture
 ---
 
 By 1991, the George C. Marshall Institute (GMI) had evolved into a central node in the fossil fuel industry's climate denial infrastructure, receiving funding from ExxonMobil and other energy companies to attack climate science. Founded in 1984 by physicists Frederick Seitz (former President of the National Academy of Sciences), Robert Jastrow (founder of NASA's Goddard Institute for Space Studies), and William Nierenberg (former director of Scripps Institution of Oceanography), the institute pivoted from Cold War defense advocacy to climate denial in the late 1980s. Historians of climate change politics identify GMI's 1989 publications as marking the commencement of organized disinformation about global warming.

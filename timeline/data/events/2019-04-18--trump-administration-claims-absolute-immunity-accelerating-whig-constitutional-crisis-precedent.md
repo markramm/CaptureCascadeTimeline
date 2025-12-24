@@ -11,19 +11,12 @@ capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
 constitutional_violations:
-- Systematic elimination of congressional oversight authority through absolute immunity
-  claims
+- Systematic elimination of congressional oversight authority through absolute immunity claims
 - Constitutional separation of powers bypass through precedent-based executive expansion
 - Democratic accountability destruction through systematic institutional capture acceleration
-- Legislative branch authority nullification through coordinated constitutional crisis
-  exploitation
+- Legislative branch authority nullification through coordinated constitutional crisis exploitation
 date: '2019-04-18'
-historical_significance: This event marks the systematic acceleration of WHIG constitutional
-  crisis precedents into comprehensive democratic transformation, demonstrating how
-  episodic crisis exploitation precedents enable permanent oligarchic institutional
-  capture without constitutional amendment or legitimate emergency powers. The absolute
-  immunity claims represent the culmination of WHIG template implementation, transforming
-  executive deception mechanisms into systematic elimination of democratic constraints.
+historical_significance: This event marks the systematic acceleration of WHIG constitutional crisis precedents into comprehensive democratic transformation, demonstrating how episodic crisis exploitation precedents enable permanent oligarchic institutional capture without constitutional amendment or legitimate emergency powers. The absolute immunity claims represent the culmination of WHIG template implementation, transforming executive deception mechanisms into systematic elimination of democratic constraints.
 id: 2019-04-18--trump-administration-claims-absolute-immunity-accelerating-whig-constitutional-crisis-precedent
 importance: 10
 sources:
@@ -32,13 +25,12 @@ sources:
   title: Trump administration claims absolute immunity from congressional oversight
   url: https://www.politico.com/story/2019/04/18/trump-administration-absolute-immunity-congressional-oversight-1281119
 - date: '2019-11-25'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Federal judges rule presidents 'are not kings' as Trump claims absolute immunity
   url: https://www.washingtonpost.com/politics/courts_law/federal-judges-rule-presidents-are-not-kings-as-trump-claims-absolute-immunity/2019/11/25/c2c1d5c8-0f8f-11ea-bd9d-c628fd48b3a0_story.html
 - date: '2019-07-09'
   outlet: NPR
-  title: Supreme Court Says Trump Not 'Immune' From Records Release, But Hedges On
-    House Case
+  title: Supreme Court Says Trump Not 'Immune' From Records Release, But Hedges On House Case
   url: https://www.npr.org/2020/07/09/884447882/supreme-court-says-trump-not-immune-from-records-release-pushes-back-on-congress
 - date: '2019-09-25'
   outlet: CNN
@@ -46,8 +38,7 @@ sources:
   url: https://www.cnn.com/2019/09/25/politics/trump-presidential-immunity-court/index.html
 - date: '2024-07-01'
   outlet: ACLU
-  title: 'ACLU Press Release: Supreme Court Grants Trump Broad Immunity for Official
-    Acts, Placing Presidents Above the Law'
+  title: 'ACLU Press Release: Supreme Court Grants Trump Broad Immunity for Official Acts, Placing Presidents Above the Law'
   url: https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law
 - date: '2019-10-15'
   outlet: Levin Center for Oversight and Democracy
@@ -72,8 +63,7 @@ tags:
 - constitutional-precedent-acceleration
 - democratic-accountability-destruction
 - oligarchic-governance-establishment
-title: Trump Administration Claims Absolute Immunity from Congressional Oversight,
-  Systematically Accelerating WHIG Constitutional Crisis Precedent
+title: Trump Administration Claims Absolute Immunity from Congressional Oversight, Systematically Accelerating WHIG Constitutional Crisis Precedent
 triggered_by:
 - 2005-12-16--whig-precedent-enables-ongoing-surveillance-state-constitutional-crisis
 - 2002-10-16--whig-achieves-systematic-bypass-constitutional-separation-powers

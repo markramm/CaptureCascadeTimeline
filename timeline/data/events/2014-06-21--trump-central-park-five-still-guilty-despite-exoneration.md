@@ -1,36 +1,36 @@
 ---
 id: 2014-06-21--trump-central-park-five-still-guilty-despite-exoneration
 date: 2014-06-21
-title: "Trump: Central Park Five Still Guilty Despite DNA Exoneration"
+title: 'Trump: Central Park Five Still Guilty Despite DNA Exoneration'
 importance: 8
 tags:
-  - Racism
-  - Central Park Five
-  - Donald Trump
-  - Criminal Justice
+- racism
+- central park five
+- donald trump
+- criminal justice
 actors:
-  - Donald Trump
-  - Yusef Salaam
-  - Korey Wise
-  - Antron McCray
-  - Kevin Richardson
-  - Raymond Santana
+- Donald Trump
+- Yusef Salaam
+- Korey Wise
+- Antron McCray
+- Kevin Richardson
+- Raymond Santana
 sources:
-  - url: https://www.nbcnews.com/politics/2016-election/donald-trump-says-central-park-five-are-guilty-despite-dna-n661941
-    title: "Donald Trump Says Central Park Five Are Guilty, Despite DNA Evidence"
-    publisher: NBC News
-    date: 2016-10-07
-    tier: 1
-  - url: https://time.com/5597843/central-park-five-trump-history/
-    title: "President Trump Played a Key Role in the Central Park Five Case"
-    publisher: Time
-    date: 2019-06-12
-    tier: 1
-  - url: https://www.politifact.com/article/2023/jul/25/did-donald-trump-ever-apologize-central/
-    title: "Did Donald Trump ever apologize to the Central Park Five?"
-    publisher: PolitiFact
-    date: 2023-07-25
-    tier: 1
+- url: https://www.nbcnews.com/politics/2016-election/donald-trump-says-central-park-five-are-guilty-despite-dna-n661941
+  title: Donald Trump Says Central Park Five Are Guilty, Despite DNA Evidence
+  date: 2016-10-07
+  tier: 1
+  outlet: NBC News
+- url: https://time.com/5597843/central-park-five-trump-history/
+  title: President Trump Played a Key Role in the Central Park Five Case
+  date: 2019-06-12
+  tier: 1
+  outlet: TIME
+- url: https://www.politifact.com/article/2023/jul/25/did-donald-trump-ever-apologize-central/
+  title: Did Donald Trump ever apologize to the Central Park Five?
+  date: 2023-07-25
+  tier: 1
+  outlet: PolitiFact
 ---
 
 Twelve years after DNA evidence conclusively proved the innocence of the Central Park Five, Donald Trump published an opinion piece in the New York Daily News calling the city's $41 million settlement with the wrongfully convicted men "a disgrace" and continuing to assert their guilt. Trump's op-ed, written in response to the settlement announcement, demonstrated his refusal to acknowledge scientific evidence or accept that the five men had been exonerated.

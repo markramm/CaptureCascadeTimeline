@@ -11,14 +11,14 @@ tags:
 sources:
 - url: https://www.finance.senate.gov/ranking-members-news/new-wyden-bill-would-force-treasury-to-turn-over-epstein-files
   title: New Wyden Bill Would Force Treasury to Turn Over Epstein Files
-  publisher: Senate Finance Committee
   date: '2025-09-10'
   tier: 1
+  outlet: Senate Finance Committee
 - url: https://www.bloomberg.com/news/articles/2025-09-10/wyden-introduces-petra-act-epstein-treasury-records
   title: Senator Wyden Demands Bank Testimony on Epstein Connections
-  publisher: Bloomberg
   date: '2025-09-10'
   tier: 1
+  outlet: Bloomberg
 actors:
 - Ron Wyden
 - Scott Bessent

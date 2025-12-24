@@ -4,38 +4,38 @@ date: '2021-01-25'
 title: Pelosi Transmits Impeachment Article to Senate After Biden Inauguration
 importance: 9
 tags:
-  - Trump Presidency
-  - Impeachment
-  - January 6 Attack
-  - Senate Trial
-  - Constitutional Law
+- trump presidency
+- impeachment
+- january 6 attack
+- senate trial
+- constitutional law
 actors:
-  - Nancy Pelosi
-  - Jamie Raskin
-  - Chuck Schumer
-  - Mitch McConnell
-  - House Impeachment Managers
+- Nancy Pelosi
+- Jamie Raskin
+- Chuck Schumer
+- Mitch McConnell
+- House Impeachment Managers
 sources:
-  - url: https://pelosi.house.gov/news/press-releases/pelosi-announces-house-will-deliver-article-of-impeachment-to-senate-on-january
-    title: Pelosi Announces House Will Deliver Article of Impeachment to Senate on January 25
-    publisher: House Speaker's Office
-    date: '2021-01-22'
-    tier: 1
-  - url: https://raskin.house.gov/2021/1/speaker-pelosi-names-raskin-lead-impeachment-manager
-    title: Speaker Pelosi Names Raskin Lead Impeachment Manager
-    publisher: Rep. Jamie Raskin's Office
-    date: '2021-01-12'
-    tier: 1
-  - url: https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate
-    title: Amid Grief, Rep. Jamie Raskin Leads Trump Impeachment Effort In Senate
-    publisher: NPR
-    date: '2021-01-27'
-    tier: 1
-  - url: https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says
-    title: Senate To Begin Trump's Impeachment Trial Week Of Feb. 8
-    publisher: NPR
-    date: '2021-01-22'
-    tier: 1
+- url: https://pelosi.house.gov/news/press-releases/pelosi-announces-house-will-deliver-article-of-impeachment-to-senate-on-january
+  title: Pelosi Announces House Will Deliver Article of Impeachment to Senate on January 25
+  date: '2021-01-22'
+  tier: 1
+  outlet: House Speaker's Office
+- url: https://raskin.house.gov/2021/1/speaker-pelosi-names-raskin-lead-impeachment-manager
+  title: Speaker Pelosi Names Raskin Lead Impeachment Manager
+  date: '2021-01-12'
+  tier: 1
+  outlet: Rep. Jamie Raskin's Office
+- url: https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate
+  title: Amid Grief, Rep. Jamie Raskin Leads Trump Impeachment Effort In Senate
+  date: '2021-01-27'
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/2021/01/22/959606259/house-to-transmit-article-of-impeachment-to-senate-on-monday-schumer-says
+  title: Senate To Begin Trump's Impeachment Trial Week Of Feb. 8
+  date: '2021-01-22'
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

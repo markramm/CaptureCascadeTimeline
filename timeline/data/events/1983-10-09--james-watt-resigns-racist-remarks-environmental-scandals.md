@@ -16,22 +16,22 @@ tags:
 - regulatory-capture
 - public-lands
 sources:
-- title: 'James G. Watt'
+- title: James G. Watt
   url: https://en.wikipedia.org/wiki/James_G._Watt
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'The Secretary of Interior Once Banned Rock Bands From National Mall'
+- title: The Secretary of Interior Once Banned Rock Bands From National Mall
   url: https://www.smithsonianmag.com/smart-news/secretary-interior-once-banned-rock-bands-national-mall-180962735/
   outlet: Smithsonian Magazine
   date: '2019-07-03'
   verified: true
-- title: 'Watt Sets Off Uproar With Music Ban'
+- title: Watt Sets Off Uproar With Music Ban
   url: https://www.washingtonpost.com/archive/politics/1983/04/07/watt-sets-off-uproar-with-music-ban/ddf51d7c-7161-46a9-a774-869fa71b6601/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1983-04-07'
   verified: true
-- title: 'The Beach Boys attract the wrong element, says Interior Secretary'
+- title: The Beach Boys attract the wrong element, says Interior Secretary
   url: https://www.upi.com/Archives/1983/07/04/The-Beach-Boys-attract-the-wrong-element-says-Interior-Secretary-bans-them-from-July-4th-celebration/9954426139200/
   outlet: UPI
   date: '1983-07-04'

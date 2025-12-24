@@ -2,9 +2,7 @@
 id: 2025-04-29--paramount-board-clears-possible-path-for-settling-trump-s-60
 date: '2025-04-29'
 title: Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit
-description: Paramount’s board–which is pursuing a merger deal with Skydance that
-  would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses
-  60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris
+description: Paramount’s board–which is pursuing a merger deal with Skydance that would need DOJ’s signoff–cleared the path to settle Trump’s lawsuit that accuses 60 Minutes of “deceptively” editing its pre-election interview with Kamala Harris
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -18,7 +16,7 @@ capture_type: monetizing_position
 sources:
 - title: Paramount board clears possible path for settling Trump’s ‘60 Minutes’ lawsuit
   url: https://www.nytimes.com/2025/04/29/business/media/paramount-cbs-60-minutes-trump-lawsuit.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-04-29'
 - title: Paramount agrees to pay 16 million to settle Trump's lawsuit over 60 Minutes
   url: https://www.nbcnews.com/news/us-news/paramount-agrees-pay-16-million-settle-trumps-lawsuit-60-minutes-kamal-rcna216419

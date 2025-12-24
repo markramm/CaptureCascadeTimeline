@@ -19,8 +19,7 @@ tags:
 - electoral-manipulation
 status: confirmed
 sources:
-- title: Georgia election chief uses controversial law to challenge black and Hispanic
-    voter registrations
+- title: Georgia election chief uses controversial law to challenge black and Hispanic voter registrations
   url: https://apnews.com/article/north-america-lawsuits-us-news-elections-georgia-c7d0e8b9c93a4e919eb0c68acc75b0b4
   outlet: Associated Press
   date: '2018-10-12'
@@ -30,7 +29,7 @@ sources:
   date: '2018-10-13'
 - title: Voting Rights Become a Flashpoint in Georgia Governor's Race
   url: https://www.nytimes.com/2018/11/19/us/politics/georgia-voting-suppression.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-11-19'
 capture_lanes:
 - Media Capture & Control

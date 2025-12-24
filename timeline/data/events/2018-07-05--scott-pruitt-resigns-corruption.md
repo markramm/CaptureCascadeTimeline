@@ -8,7 +8,7 @@ location: Washington, D.C.
 actors:
 - Scott Pruitt
 - Donald Trump
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
 - Andrew Wheeler
 tags:
 - corruption
@@ -21,7 +21,7 @@ tags:
 sources:
 - title: Scott Pruitt Resigns as E.P.A. Chief
   url: https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-resignation.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-07-05'
 - title: Scott Pruitt resigns as EPA administrator
   url: https://www.cnn.com/2018/07/05/politics/scott-pruitt-epa-resigns/index.html
@@ -31,13 +31,7 @@ sources:
   url: https://www.theatlantic.com/politics/archive/2018/07/scott-pruitt-resigns/564529/
   outlet: The Atlantic
   date: '2018-07-05'
-notes: "Pruitt's tenure represented the most extreme case of regulatory capture -\
-  \ an oil \nindustry ally dismantling environmental protections from within. He met\
-  \ almost \nexclusively with industry representatives, rolled back dozens of regulations,\
-  \ and \ndeleted climate change references from EPA materials. His replacement, Andrew\
-  \ Wheeler, \nwas a former coal lobbyist, continuing the pattern of industry insiders\
-  \ running \nagencies meant to regulate those industries. Trump praised Pruitt even\
-  \ as he resigned.\n"
+notes: "Pruitt's tenure represented the most extreme case of regulatory capture - an oil \nindustry ally dismantling environmental protections from within. He met almost \nexclusively with industry representatives, rolled back dozens of regulations, and \ndeleted climate change references from EPA materials. His replacement, Andrew Wheeler, \nwas a former coal lobbyist, continuing the pattern of industry insiders running \nagencies meant to regulate those industries. Trump praised Pruitt even as he resigned.\n"
 related_events:
 - 2017-03-31--tom-price-resigns-private-jet-scandal
 - 2018-12-15--ryan-zinke-resigns-corruption

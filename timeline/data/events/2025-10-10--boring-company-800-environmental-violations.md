@@ -10,9 +10,9 @@ actors:
 sources:
 - title: Elon Musk's Boring Co. Accused of Nearly 800 Environmental Violations
   url: https://www.propublica.org/article/boring-company-elon-musk-environmental-violations-las-vegas
-  publisher: ProPublica
   date: '2025-10-10'
   tier: 1
+  outlet: ProPublica
 tags:
 - regulatory-capture
 - environmental-violations

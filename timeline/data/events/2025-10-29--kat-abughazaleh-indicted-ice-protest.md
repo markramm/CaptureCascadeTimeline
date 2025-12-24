@@ -1,13 +1,12 @@
 ---
 id: 2025-10-29--kat-abughazaleh-indicted-ice-protest
 date: '2025-10-29'
-title: DOJ Indicts Democratic Congressional Candidate Kat Abughazaleh for ICE Facility
-  Protest
+title: DOJ Indicts Democratic Congressional Candidate Kat Abughazaleh for ICE Facility Protest
 importance: 7
 actors:
 - Kat Abughazaleh
 - Department of Justice
-- Immigration and Customs Enforcement
+- Immigration and Customs Enforcement (ICE)
 - Catherine Sharp
 - Michael Rabbitt
 - Trump Administration
@@ -21,21 +20,19 @@ tags:
 sources:
 - url: https://www.nbcnews.com/politics/justice-department/doj-indicts-democratic-congressional-candidate-kat-abughazaleh-ice-pro-rcna240584
   title: DOJ indicts Democratic congressional candidate Kat Abughazaleh over ICE protests
-  publisher: NBC News
   date: '2025-10-29'
   tier: 2
+  outlet: NBC News
 - url: https://theintercept.com/2025/10/29/kat-abughazaleh-ice-protest-broadview-trump-doj/
-  title: Trump DOJ Charges House Candidate Kat Abughazaleh With Conspiracy for Protesting
-    ICE
-  publisher: The Intercept
+  title: Trump DOJ Charges House Candidate Kat Abughazaleh With Conspiracy for Protesting ICE
   date: '2025-10-29'
   tier: 1
+  outlet: The Intercept
 - url: https://www.cbsnews.com/chicago/news/kat-abughazaleh-protesters-indicted-broadview-ice-facility/
-  title: Congressional candidate Kat Abughazaleh, five others indicted over protest
-    outside Broadview ICE facility
-  publisher: CBS Chicago
+  title: Congressional candidate Kat Abughazaleh, five others indicted over protest outside Broadview ICE facility
   date: '2025-10-29'
   tier: 2
+  outlet: CBS Chicago
 ---
 
 On October 29, 2025, the Department of Justice unsealed a federal indictment charging Democratic congressional candidate Kat Abughazaleh and five other activists with conspiracy to impede federal law enforcement officers and forcibly impeding ICE officers during a September 26 protest outside an Immigration and Customs Enforcement facility in Broadview, Illinois. The 11-page indictment, filed October 23, alleges that protesters surrounded a vehicle driven by a federal agent, banged on the car, broke a mirror, scratched "PIG" on the vehicle, and physically blocked its entry to the facility. Abughazaleh allegedly placed her hands on the vehicle's hood and braced her body against it.

@@ -2,11 +2,10 @@
 id: 2025-08-01--ice-detention-deaths-increase
 date: '2025-08-01'
 importance: 9
-title: ICE detention deaths reach 14 in FY2025 amid reports of medical neglect and
-  overcrowding
+title: ICE detention deaths reach 14 in FY2025 amid reports of medical neglect and overcrowding
 location: United States (multiple facilities)
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - CoreCivic
 - GEO Group
 - Department of Homeland Security
@@ -28,15 +27,11 @@ sources:
   url: https://www.npr.org/2025/06/04/nx-s1-5417980/private-prisons-and-local-jails-are-ramping-up-as-ice-detention-exceeds-capacity
   outlet: NPR
   date: '2025-06-04'
-- title: 'Policy Brief - Snapshot of ICE Detention: Inhumane Conditions and Alarming
-    Expansion'
+- title: 'Policy Brief - Snapshot of ICE Detention: Inhumane Conditions and Alarming Expansion'
   url: https://immigrantjustice.org/research/policy-brief-snapshot-of-ice-detention-inhumane-conditions-and-alarming-expansion/
   outlet: National Immigrant Justice Center
   date: '2025-07-15'
-notes: Deaths included Ge at GEO Group's Moshannon Valley facility and Marie Ange
-  Blaise on April 25. Previous ACLU reports found 95% of ICE detention deaths could
-  have been prevented with adequate medical care. DHS oversight mechanisms have failed
-  to impose meaningful consequences on contractors.
+notes: Deaths included Ge at GEO Group's Moshannon Valley facility and Marie Ange Blaise on April 25. Previous ACLU reports found 95% of ICE detention deaths could have been prevented with adequate medical care. DHS oversight mechanisms have failed to impose meaningful consequences on contractors.
 status: confirmed
 ---
 

@@ -4,31 +4,31 @@ date: 2016-10-03
 title: New York Attorney General Orders Trump Foundation to Immediately Cease Fundraising
 importance: 8
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - NY Attorney General
-  - Regulatory Violations
+- trump foundation
+- charity fraud
+- ny attorney general
+- regulatory violations
 actors:
-  - Eric Schneiderman
-  - Donald Trump
-  - Trump Foundation
+- Eric Schneiderman
+- Donald Trump
+- Trump Foundation
 status: confirmed
 sources:
-  - url: https://ag.ny.gov/press-release/2016/ag-schneiderman-issues-cease-and-desist-order-trump-foundation
-    title: AG Schneiderman Issues Cease And Desist Order To Trump Foundation
-    publisher: New York Attorney General
-    date: 2016-10-03
-    tier: 1
-  - url: https://www.nytimes.com/2016/10/04/us/politics/donald-trump-foundation.html
-    title: New York Attorney General Tells Trump Foundation to Stop Raising Money
-    publisher: New York Times
-    date: 2016-10-04
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/new-york-attorney-general-orders-trump-foundation-to-stop-fundraising/2016/10/03/1ea3i7be-896a-11e6-b57d-dd49277af02f_story.html
-    title: New York attorney general orders Trump Foundation to stop fundraising
-    publisher: Washington Post
-    date: 2016-10-03
-    tier: 1
+- url: https://ag.ny.gov/press-release/2016/ag-schneiderman-issues-cease-and-desist-order-trump-foundation
+  title: AG Schneiderman Issues Cease And Desist Order To Trump Foundation
+  date: 2016-10-03
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.nytimes.com/2016/10/04/us/politics/donald-trump-foundation.html
+  title: New York Attorney General Tells Trump Foundation to Stop Raising Money
+  date: 2016-10-04
+  tier: 1
+  outlet: The New York Times
+- url: https://www.washingtonpost.com/politics/new-york-attorney-general-orders-trump-foundation-to-stop-fundraising/2016/10/03/1ea3i7be-896a-11e6-b57d-dd49277af02f_story.html
+  title: New York attorney general orders Trump Foundation to stop fundraising
+  date: 2016-10-03
+  tier: 1
+  outlet: The Washington Post
 ---
 
 New York Attorney General Eric Schneiderman issued a cease-and-desist order requiring the Donald J. Trump Foundation to immediately stop soliciting contributions in New York State because it had been operating for nearly 30 years without proper registration. The order revealed that the Trump Foundation had never obtained the required registration under Article 7-A of New York's Executive Law, which mandates that charities soliciting contributions submit to annual audits and oversight. The Foundation's failure to register meant it had operated outside legal oversight throughout its existence, allowing the systematic fraud and self-dealing that would later be documented in detail.

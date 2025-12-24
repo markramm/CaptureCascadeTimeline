@@ -4,31 +4,31 @@ date: 2015-02-18
 title: LeeAnne Walters' Water Tests Show Lead at 104 ppb—Nearly 7 Times EPA Limit
 importance: 9
 tags:
-  - flint-water-crisis
-  - whistleblower
-  - lead-poisoning
-  - public-health
+- flint-water-crisis
+- whistleblower
+- lead-poisoning
+- public-health
 actors:
-  - LeeAnne Walters
-  - Marc Edwards
-  - City of Flint
-  - EPA
+- LeeAnne Walters
+- Marc Edwards
+- City of Flint
+- EPA
 sources:
-  - url: https://flintwaterstudy.org/2015/08/hazardous-waste-levels-of-lead-found-in-a-flint-households-water/
-    title: Hazardous Waste-levels of Lead found in a Flint household's water
-    publisher: Flint Water Study - Virginia Tech
-    date: 2015-08-27
-    tier: 1
-  - url: https://www.goldmanprize.org/recipient/leeanne-walters/
-    title: LeeAnne Walters - Goldman Environmental Prize
-    publisher: Goldman Environmental Prize
-    date: 2018-04-23
-    tier: 1
-  - url: https://www.oneearth.org/environmental-justice-hero-leeanne-walters/
-    title: Environmental Justice Hero - LeeAnne Walters
-    publisher: One Earth
-    date: 2021-04-23
-    tier: 2
+- url: https://flintwaterstudy.org/2015/08/hazardous-waste-levels-of-lead-found-in-a-flint-households-water/
+  title: Hazardous Waste-levels of Lead found in a Flint household's water
+  date: 2015-08-27
+  tier: 1
+  outlet: Flint Water Study - Virginia Tech
+- url: https://www.goldmanprize.org/recipient/leeanne-walters/
+  title: LeeAnne Walters - Goldman Environmental Prize
+  date: 2018-04-23
+  tier: 1
+  outlet: Goldman Environmental Prize
+- url: https://www.oneearth.org/environmental-justice-hero-leeanne-walters/
+  title: Environmental Justice Hero - LeeAnne Walters
+  date: 2021-04-23
+  tier: 2
+  outlet: One Earth
 status: confirmed
 ---
 

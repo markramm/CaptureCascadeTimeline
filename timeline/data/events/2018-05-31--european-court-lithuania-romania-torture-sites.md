@@ -21,24 +21,24 @@ tags:
 sources:
 - title: Lithuania and Romania Fined for Helping CIA Run Secret Prisons
   url: https://www.thebureauinvestigates.com/stories/2018-05-31/crofton-echr
-  publisher: The Bureau of Investigative Journalism
   date: '2018-05-31'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Lithuania and Romania Complicit for Hosting CIA Black Sites
   url: https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/
-  publisher: Verfassungsblog
   date: '2018-06-07'
   tier: 2
+  outlet: Verfassungsblog
 - title: European Court Finds Romania Hosted CIA Secret Prison
   url: https://www.justiceinitiative.org/newsroom/european-court-finds-romania-hosted-cia-secret-prison
-  publisher: Open Society Justice Initiative
   date: '2018-05-31'
   tier: 1
+  outlet: Open Society Justice Initiative
 - title: European Complicity in CIA Torture in Black Sites
   url: https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/
-  publisher: Amnesty International
   date: '2020-02-14'
   tier: 1
+  outlet: Amnesty International
 ---
 
 The European Court of Human Rights issues rulings finding that Romania and Lithuania violated the European Convention on Human Rights by hosting CIA secret prisons where terrorism suspects were tortured. The court conclusively determines that Romania operated a CIA black site from September 2003 to November 2005, and Lithuania from February 2005 to March 2006, where Abu Zubaydah and Abd al-Rahim al-Nashiri were held and subjected to waterboarding, stress positions, sleep deprivation, and other torture. The rulings order both countries to pay 100,000 euros in damages to each victim, but result in no criminal prosecutions of officials who facilitated the torture sites.

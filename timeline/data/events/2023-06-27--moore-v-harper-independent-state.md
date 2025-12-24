@@ -2,11 +2,10 @@
 id: 2023-06-27--moore-v-harper-independent-state
 date: '2023-06-27'
 importance: 6
-title: Supreme Court Rejects Dangerous "Independent State Legislature" Theory in Moore
-  v. Harper
+title: Supreme Court Rejects Dangerous "Independent State Legislature" Theory in Moore v. Harper
 location: Washington DC
 actors:
-- US Supreme Court
+- U.S. Supreme Court
 - North Carolina Legislature
 - Democracy advocates
 tags:
@@ -30,9 +29,7 @@ sources:
   url: https://www.brennancenter.org/our-work/analysis-opinion/moore-v-harper-decision
   outlet: Brennan Center for Justice
   date: '2023-06-27'
-notes: Theory threatened to eliminate all state constitutional protections for voting
-  rights and fair elections. Decision preserves role of state courts in protecting
-  democracy.
+notes: Theory threatened to eliminate all state constitutional protections for voting rights and fair elections. Decision preserves role of state courts in protecting democracy.
 capture_lanes:
 - Judicial Capture
 - Financial Capture

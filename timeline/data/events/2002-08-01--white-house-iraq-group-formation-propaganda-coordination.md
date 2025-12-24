@@ -23,10 +23,9 @@ status: confirmed
 sources:
 - title: Records Could Shed Light on Iraq Group
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2008-06-08'
-- title: 'The Broader Conspiracy: What We Already Know About the White House Iraq
-    Group'
+- title: 'The Broader Conspiracy: What We Already Know About the White House Iraq Group'
   url: https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/
   outlet: Think Progress
   date: '2007-03-08'

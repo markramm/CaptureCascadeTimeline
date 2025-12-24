@@ -11,10 +11,7 @@ capture_lanes:
 capture_type: monetizing_position
 connections: []
 date: '2025-04-10'
-description: The AFL-CIO and former OSHA officials warn that Elon Musk's operatives
-  are embedded at the Department of Labor, and may gain access to sensitive whistleblower
-  files; Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active
-  OSHA investigations for workplace injuries and safety violations
+description: The AFL-CIO and former OSHA officials warn that Elon Musk's operatives are embedded at the Department of Labor, and may gain access to sensitive whistleblower files; Musk's companies—Tesla, SpaceX, and The Boring Company—have over 50 active OSHA investigations for workplace injuries and safety violations
 id: 2025-04-10--labor-leaders-fear-elon-musk-and-doge-could-gain-access-to-w
 importance: 7
 location: Washington, D.C.
@@ -23,9 +20,8 @@ patterns:
 - kleptocratic-capture
 sources:
 - date: '2025-04-10'
-  outlet: Wired
-  title: Labor leaders fear Elon Musk and DOGE could gain access to whistleblower
-    files
+  outlet: WIRED
+  title: Labor leaders fear Elon Musk and DOGE could gain access to whistleblower files
   url: https://www.wired.com/story/elon-musk-doge-osha-whistleblower-files/
 - date: '2025-04-10'
   outlet: The Hill

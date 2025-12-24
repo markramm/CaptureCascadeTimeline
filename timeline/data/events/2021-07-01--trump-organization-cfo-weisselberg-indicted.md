@@ -4,38 +4,38 @@ date: '2021-07-01'
 title: Trump Organization CFO Allen Weisselberg Indicted for $1.7M Tax Fraud Scheme
 importance: 8
 tags:
-  - Tax Fraud
-  - Trump Organization
-  - Manhattan DA
-  - Allen Weisselberg
-  - Criminal Indictment
+- tax fraud
+- trump organization
+- manhattan da
+- allen weisselberg
+- criminal indictment
 actors:
-  - Allen Weisselberg
-  - Trump Organization
-  - Cyrus Vance Jr.
-  - Manhattan District Attorney
-  - Donald Trump
+- Allen Weisselberg
+- Trump Organization
+- Cyrus Vance Jr.
+- Manhattan District Attorney
+- Donald Trump
 sources:
-  - url: https://www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-fraud-scheme/
-    title: Trump Organization and CFO charged with 15 counts in alleged tax fraud
-    publisher: CBS News
-    date: '2021-07-01'
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/trump-business-weisselberg-indictments/2021/07/01/e2b774a0-da15-11eb-bb9e-70fda8c37057_story.html
-    title: Prosecutors allege 15-year tax fraud scheme as Trump Organization arraigned
-    publisher: Washington Post
-    date: '2021-07-01'
-    tier: 1
-  - url: https://www.cnbc.com/amp/2021/07/01/trump-organization-cfo-allen-weisselberg-pleads-not-guilty-to-tax-crimes.html
-    title: Trump Organization indictment charges scheme to dodge taxes
-    publisher: CNBC
-    date: '2021-07-01'
-    tier: 1
-  - url: https://www.cnn.com/politics/live-news/trump-organization-charges-07-01-21/index.html
-    title: Trump Organization charges
-    publisher: CNN
-    date: '2021-07-01'
-    tier: 1
+- url: https://www.cbsnews.com/amp/live-updates/trump-organization-indicted-allen-weisselberg-tax-fraud-scheme/
+  title: Trump Organization and CFO charged with 15 counts in alleged tax fraud
+  date: '2021-07-01'
+  tier: 1
+  outlet: CBS News
+- url: https://www.washingtonpost.com/politics/trump-business-weisselberg-indictments/2021/07/01/e2b774a0-da15-11eb-bb9e-70fda8c37057_story.html
+  title: Prosecutors allege 15-year tax fraud scheme as Trump Organization arraigned
+  date: '2021-07-01'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.cnbc.com/amp/2021/07/01/trump-organization-cfo-allen-weisselberg-pleads-not-guilty-to-tax-crimes.html
+  title: Trump Organization indictment charges scheme to dodge taxes
+  date: '2021-07-01'
+  tier: 1
+  outlet: CNBC
+- url: https://www.cnn.com/politics/live-news/trump-organization-charges-07-01-21/index.html
+  title: Trump Organization charges
+  date: '2021-07-01'
+  tier: 1
+  outlet: CNN
 status: confirmed
 ---
 

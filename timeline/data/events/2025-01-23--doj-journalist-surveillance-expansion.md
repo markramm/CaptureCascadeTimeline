@@ -8,15 +8,14 @@ actors:
 - FBI
 - National Security Division
 - Journalists
-- News Organizations
+- News organizations
 sources:
 - outlet: NPR
   title: DOJ Rescinds Biden-era Protections for Reporters in Leak Investigations
   url: https://www.npr.org/2025/04/25/nx-s1-5377624/pam-bondi-reporters-subpoena-leaks
   date: '2025-04-25'
 - outlet: Reuters
-  title: Justice Department Issues New Data Security Guidelines with Potential Surveillance
-    Implications
+  title: Justice Department Issues New Data Security Guidelines with Potential Surveillance Implications
   url: https://www.reuters.com/legal/government/justice-department-data-security-program-2025-01-08/
   date: '2025-01-08'
 - outlet: Electronic Frontier Foundation

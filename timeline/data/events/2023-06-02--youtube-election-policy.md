@@ -39,7 +39,7 @@ sources:
   date: '2023-06-02'
 - title: YouTube Reverses Misinformation Policy on 2020 Election
   url: https://www.nytimes.com/2023/06/02/technology/youtube-election-misinformation-policy.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2023-06-02'
   archive_url: https://web.archive.org/web/20250814194913/https://www.nytimes.com/
 - title: YouTube will now allow 2020 election denialism content, in policy reversal

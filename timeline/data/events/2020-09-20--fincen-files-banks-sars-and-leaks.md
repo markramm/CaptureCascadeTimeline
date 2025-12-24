@@ -2,10 +2,8 @@
 id: 2020-09-20--fincen-files-banks-sars-and-leaks
 date: '2020-09-20'
 importance: 8
-title: '''FinCEN Files'' leak reveals banks flagged >$2T in suspicious transactions;
-  U.S. warns SAR disclosures are unlawful'
-notes: 'Include both investigative findings (scope and examples) and FinCEN''s official
-  response on the
+title: '''FinCEN Files'' leak reveals banks flagged >$2T in suspicious transactions; U.S. warns SAR disclosures are unlawful'
+notes: 'Include both investigative findings (scope and examples) and FinCEN''s official response on the
 
   illegality of SAR disclosures; note that SARs reflect suspicions, not proven crimes.
 
@@ -14,7 +12,7 @@ status: confirmed
 actors:
 - Financial Crimes Enforcement Network (FinCEN)
 - International Consortium of Investigative Journalists (ICIJ)
-- BuzzFeed News (original partner)
+- BuzzFeed News
 - Deutsche Bank
 - HSBC
 - Standard Chartered

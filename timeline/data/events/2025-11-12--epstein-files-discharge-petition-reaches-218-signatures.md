@@ -1,14 +1,13 @@
 ---
 id: 2025-11-12--epstein-files-discharge-petition-reaches-218-signatures
 date: '2025-11-12'
-title: Epstein Files Transparency Act Discharge Petition Reaches 218 Signatures,
-  Forcing House Vote
+title: Epstein Files Transparency Act Discharge Petition Reaches 218 Signatures, Forcing House Vote
 importance: 9
 tags:
-- Epstein
-- Congress
-- Transparency
-- Sexual-Abuse
+- epstein
+- congress
+- transparency
+- sexual-abuse
 - discharge-petition
 - institutional-capture
 - accountability
@@ -23,24 +22,21 @@ actors:
 - Donald Trump
 - House of Representatives
 sources:
-- title: Rep. Grijalva signs petition on Epstein files, giving it the 218th signature
-    needed to force House vote
+- title: Rep. Grijalva signs petition on Epstein files, giving it the 218th signature needed to force House vote
   url: https://www.pbs.org/newshour/politics/rep-grijalva-signs-petition-on-epstein-files-giving-it-the-218th-signature-needed-to-force-house-vote
-  publisher: PBS NewsHour
   date: '2025-11-12'
   tier: 1
-- title: Epstein discharge petition secures final signature needed to force House
-    vote on releasing files
+  outlet: PBS NewsHour
+- title: Epstein discharge petition secures final signature needed to force House vote on releasing files
   url: https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/
-  publisher: CBS News
   date: '2025-11-12'
   tier: 1
-- title: Adelita Grijalva can force a vote on the Epstein files, but she's still
-    not sworn in
+  outlet: CBS News
+- title: Adelita Grijalva can force a vote on the Epstein files, but she's still not sworn in
   url: https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in
-  publisher: NPR
   date: '2025-10-16'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

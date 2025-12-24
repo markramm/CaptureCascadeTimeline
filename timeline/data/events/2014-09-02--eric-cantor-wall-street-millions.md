@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.npr.org/2014/09/09/347151287/cantor-brings-congressional-connections-to-wall-street-job
   title: Cantor Brings Congressional Connections To Wall Street Job
-  publisher: NPR
   date: '2014-09-09'
   tier: 1
+  outlet: NPR
 - url: https://www.npr.org/sections/itsallpolitics/2014/09/02/345142098/eric-cantor-joins-wall-street-investment-bank
   title: Eric Cantor Joins Wall Street Investment Bank
-  publisher: NPR
   date: '2014-09-02'
   tier: 1
+  outlet: NPR
 - url: https://www.marketplace.org/2014/09/02/business/eric-cantor-gets-new-jobon-wall-street/
   title: Eric Cantor gets a new job...on Wall Street
-  publisher: Marketplace
   date: '2014-09-02'
   tier: 2
+  outlet: Marketplace
 actors:
 - Eric Cantor
 - Moelis & Company

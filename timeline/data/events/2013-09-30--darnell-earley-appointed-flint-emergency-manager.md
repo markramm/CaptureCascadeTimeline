@@ -4,29 +4,29 @@ date: 2013-09-30
 title: Darnell Earley Appointed as Flint Emergency Manager, Will Oversee Disastrous Water Switch
 importance: 8
 tags:
-  - emergency-manager
-  - flint-water-crisis
-  - michigan
-  - Rick-Snyder
+- emergency-manager
+- flint-water-crisis
+- michigan
+- rick-snyder
 actors:
-  - Darnell Earley
-  - Rick Snyder
+- Darnell Earley
+- Rick Snyder
 sources:
-  - url: https://en.wikipedia.org/wiki/Darnell_Earley
-    title: Darnell Earley
-    publisher: Wikipedia
-    date: 2024-10-15
-    tier: 2
-  - url: https://www.detroitnews.com/story/news/michigan/flint-water-crisis/2016/03/14/darnell-earley-flint-water-crisis/81788654/
-    title: Darnell Earley - The man in power during Flint switch
-    publisher: Detroit News
-    date: 2016-03-14
-    tier: 2
-  - url: https://www.cbsnews.com/news/ex-flint-emergency-manager-darnell-earley-says-he-relied-on-experts-in-water-crisis/
-    title: Ex-Flint emergency manager says he relied on experts in water crisis
-    publisher: CBS News
-    date: 2016-02-04
-    tier: 2
+- url: https://en.wikipedia.org/wiki/Darnell_Earley
+  title: Darnell Earley
+  date: 2024-10-15
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.detroitnews.com/story/news/michigan/flint-water-crisis/2016/03/14/darnell-earley-flint-water-crisis/81788654/
+  title: Darnell Earley - The man in power during Flint switch
+  date: 2016-03-14
+  tier: 2
+  outlet: Detroit News
+- url: https://www.cbsnews.com/news/ex-flint-emergency-manager-darnell-earley-says-he-relied-on-experts-in-water-crisis/
+  title: Ex-Flint emergency manager says he relied on experts in water crisis
+  date: 2016-02-04
+  tier: 2
+  outlet: CBS News
 status: confirmed
 ---
 

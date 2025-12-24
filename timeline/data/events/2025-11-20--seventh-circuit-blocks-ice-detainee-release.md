@@ -7,9 +7,9 @@ location: Chicago, Illinois
 actors:
 - 7th Circuit Court of Appeals
 - Judge Jeffrey Cummings
-- Trump administration
+- Trump Administration
 - Department of Homeland Security
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - National Immigrant Justice Center
 - ACLU of Illinois
 tags:
@@ -27,32 +27,32 @@ capture_lanes:
 sources:
 - title: Appeals court blocks federal judge's order to release hundreds of immigrants arrested in Illinois immigration crackdown
   url: https://chicago.suntimes.com/immigration/2025/11/20/federal-appeals-court-release-hundreds-ice-detainees-hold
-  publisher: Chicago Sun-Times
   date: '2025-11-20'
   tier: 1
+  outlet: Chicago Sun-Times
 - title: Chicago ICE Detainee Release Temporarily Blocked by 7th Circuit
   url: https://news.bloomberglaw.com/business-and-practice/chicago-ice-detainee-release-temporarily-blocked-by-7th-circuit
-  publisher: Bloomberg Law
   date: '2025-11-20'
   tier: 1
+  outlet: Bloomberg Law
 - title: Federal Judge in Chicago Orders ICE to Release Hundreds of People From Detention Centers Who Were Arrested in Likely Violation of Consent Decree
   url: https://immigrantjustice.org/press-release/federal-judge-in-chicago-orders-ice-to-release-hundreds-of-people-from-detention-centers-who-were-arrested-in-likely-violation-of-consent-decree/
-  publisher: National Immigrant Justice Center
   date: '2025-11-12'
   tier: 1
   archive_url: null
+  outlet: National Immigrant Justice Center
 - title: Secretary Noem Travels to Chicago as Operation Midway Blitz Reaches More Than 1,000 Illegal Aliens Arrested
   url: https://www.dhs.gov/news/2025/10/03/secretary-noem-travels-chicago-operation-midway-blitz-reaches-more-1000-illegal
-  publisher: Department of Homeland Security
   date: '2025-10-03'
   tier: 1
   archive_url: null
+  outlet: Department of Homeland Security
 - title: Appeals court weighs release of immigration detainees to electronic monitoring
   url: https://www.nprillinois.org/illinois/2025-12-03/appeals-court-weighs-release-of-immigration-detainees-to-electronic-monitoring
-  publisher: NPR Illinois
   date: '2025-12-03'
   tier: 1
   archive_url: null
+  outlet: NPR Illinois
 status: confirmed
 ---
 

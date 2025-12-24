@@ -1,8 +1,7 @@
 ---
 id: 2025-11-16--60-minutes-investigation-trump-binance-pardon-corruption
 date: '2025-11-16'
-title: '60 Minutes Investigation: Former DOJ Officials Call Trump''s Binance Pardon
-  ''Unprecedented Corruption'''
+title: '60 Minutes Investigation: Former DOJ Officials Call Trump''s Binance Pardon ''Unprecedented Corruption'''
 importance: 9
 tags:
 - media-investigation
@@ -15,23 +14,21 @@ tags:
 - trump-conflicts
 - world-liberty-financial
 sources:
-- title: Trump pardon of crypto billionaire sparks concerns over his use of the pardon
-    power - CBS News
+- title: Trump pardon of crypto billionaire sparks concerns over his use of the pardon power - CBS News
   url: https://www.cbsnews.com/news/trump-pardon-of-crypto-billionaire-sparks-concerns-over-use-of-pardon-power-60-minutes-transcript/
-  publisher: CBS News
   date: '2025-11-16'
   tier: 1
-- title: '''This Is Corruption'': ''60 Minutes'' Reports Trump Pardoned Binance Boss
-    After He ''Enriched'' Crypto Business Tied to Trump Family'
+  outlet: CBS News
+- title: '''This Is Corruption'': ''60 Minutes'' Reports Trump Pardoned Binance Boss After He ''Enriched'' Crypto Business Tied to Trump Family'
   url: https://www.yahoo.com/news/articles/corruption-60-minutes-reports-trump-020527641.html
-  publisher: Yahoo News
   date: '2025-11-17'
   tier: 2
+  outlet: Yahoo News
 - title: Trump Pardon for Binance CEO Was 'Corruption'—Former DOJ Pardon Attorney
   url: https://www.newsweek.com/trump-pardon-binance-ceo-corruption-doj-pardon-attorney-11058870
-  publisher: Newsweek
   date: '2025-11-17'
   tier: 2
+  outlet: Newsweek
 actors:
 - CBS News
 - 60 Minutes

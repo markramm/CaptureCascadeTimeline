@@ -4,21 +4,21 @@ date: 2015-09-01
 title: Chainalysis Secures First Federal Contract with FBI for $9,000
 importance: 7
 tags:
-  - surveillance
-  - cryptocurrency
-  - FBI
-  - contracts
-  - law-enforcement
+- surveillance
+- cryptocurrency
+- fbi
+- contracts
+- law-enforcement
 actors:
-  - Chainalysis
-  - FBI
-  - IRS
+- Chainalysis
+- FBI
+- IRS
 sources:
-  - url: https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government
-    title: Inside Chainalysis' Multimillion-Dollar Relationship With the US Government
-    publisher: CoinDesk
-    date: 2020-02-10
-    tier: 1
+- url: https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government
+  title: Inside Chainalysis' Multimillion-Dollar Relationship With the US Government
+  date: 2020-02-10
+  tier: 1
+  outlet: CoinDesk
 ---
 
 Chainalysis secures its first federal government contract, a $9,000 data software deal with the FBI, marking the beginning of the U.S. government's systematic use of blockchain surveillance technology. In 2015, the FBI and the Internal Revenue Service are Chainalysis's only federal clients, establishing the foundation for what will become a multimillion-dollar relationship between the cryptocurrency surveillance industry and U.S. law enforcement agencies.

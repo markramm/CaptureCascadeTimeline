@@ -1,8 +1,7 @@
 ---
 id: 2025-08-11--vietnam-farmers-displaced-trump-golf-resort
 date: '2025-08-11'
-title: Vietnamese Farmers Displaced for Trump Golf Resort, Compensated $3,200 and
-  Rice
+title: Vietnamese Farmers Displaced for Trump Golf Resort, Compensated $3,200 and Rice
 importance: 7
 actors:
 - Trump Organization
@@ -14,21 +13,20 @@ tags:
 - international
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-08-11/fistful-of-dollars-and-rice-for-vietnam-farmers-displaced-for-us15-billion-trump-golf-club
-  title: Fistful of dollars and rice for Vietnam farmers displaced for US$1.5 billion
-    Trump golf club
-  publisher: Bloomberg
+  title: Fistful of dollars and rice for Vietnam farmers displaced for US$1.5 billion Trump golf club
   date: '2025-08-11'
   tier: 1
+  outlet: Bloomberg
 - url: https://www.japantimes.co.jp/news/2025/08/11/asia-pacific/vietnam-farmers-trump-golf-club/
   title: Little offered to Vietnam farmers displaced for $1.5 billion Trump golf club
-  publisher: The Japan Times
   date: '2025-08-11'
   tier: 2
+  outlet: The Japan Times
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-204
   title: 'Trump Tyranny Tracker: Day 204'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-17'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Vietnamese farmers in Hung Yen province were forced to surrender land for a $1.5 billion Trump-branded golf resort, receiving compensation as low as $3,200 and rice provisions. Thousands of villagers were offered $12-$30 per square meter for farmland, drastically reduced from initial estimates exceeding $500 million.

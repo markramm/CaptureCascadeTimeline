@@ -1,8 +1,7 @@
 ---
 id: 2025-10-23--white-house-ballroom-corporate-donations
 date: '2025-10-23'
-title: White House Releases List of 37 Corporate Donors for Trump's $300M Ballroom
-  Project
+title: White House Releases List of 37 Corporate Donors for Trump's $300M Ballroom Project
 importance: 9
 actors:
 - Trump
@@ -18,21 +17,19 @@ actors:
 sources:
 - url: https://www.cnn.com/2025/10/23/politics/ballroom-donors-white-house-trump
   title: White House releases list of donors for Trump's multi-million-dollar ballroom
-  publisher: CNN
   date: '2025-10-23'
   tier: 1
+  outlet: CNN
 - url: https://www.cnbc.com/2025/10/23/trump-white-house-east-wing-ballroom-donors-apple-amazon-meta-microsoft-google.html
-  title: Trump White House ballroom financed by Big Tech and these other corporate
-    donors
-  publisher: CNBC
+  title: Trump White House ballroom financed by Big Tech and these other corporate donors
   date: '2025-10-23'
   tier: 2
+  outlet: CNBC
 - url: https://www.cbsnews.com/news/trump-ballroom-donors-white-house-stand-to-gain/
-  title: What donors to Trump's White House ballroom stand to gain from the federal
-    government
-  publisher: CBS News
+  title: What donors to Trump's White House ballroom stand to gain from the federal government
   date: '2025-10-23'
   tier: 1
+  outlet: CBS News
 tags:
 - pay-to-play
 - conflicts-of-interest

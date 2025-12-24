@@ -1,8 +1,7 @@
 ---
 id: 2024-03-25--google-violates-ai-safety-commitments-with-gemini
 date: '2024-03-25'
-title: UK Lawmakers Accuse Google of Breaking AI Safety Pledge with Gemini 2.5 Pro
-  Release
+title: UK Lawmakers Accuse Google of Breaking AI Safety Pledge with Gemini 2.5 Pro Release
 importance: 8
 actors:
 - Google DeepMind
@@ -17,7 +16,7 @@ tags:
 - transparency-failures
 - frontier-ai-safety
 sources:
-- outlet: TIME Magazine
+- outlet: TIME
   title: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge
   url: https://time.com/7313320/google-deepmind-gemini-ai-safety-pledge/
   date: '2025-08-29'
@@ -26,8 +25,7 @@ sources:
   url: https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute
   date: '2024-02-01'
 - outlet: Fortune
-  title: British Lawmakers Accuse Google DeepMind of 'Breach of Trust' Over Delayed
-    Gemini 2.5 Pro Safety Report
+  title: British Lawmakers Accuse Google DeepMind of 'Breach of Trust' Over Delayed Gemini 2.5 Pro Safety Report
   url: https://fortune.com/2025/08/29/british-lawmakers-accuse-google-deepmind-of-breach-of-trust-over-delayed-gemini-2-5-pro-safety-report/
   date: '2025-08-29'
 - outlet: MLex

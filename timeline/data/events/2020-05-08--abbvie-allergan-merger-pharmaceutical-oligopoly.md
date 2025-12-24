@@ -1,0 +1,49 @@
+---
+id: 2020-05-08--abbvie-allergan-merger-pharmaceutical-oligopoly
+date: '2020-05-08'
+title: 'AbbVie Completes $63 Billion Allergan Acquisition: Pharmaceutical Industry Consolidates Into Oligopoly'
+importance: 9
+actors:
+- AbbVie
+- Allergan
+- Federal Trade Commission
+tags:
+- antitrust
+- consolidation
+- merger
+- pharmaceutical-industry
+- regulatory-capture
+- ftc
+- market-concentration
+- healthcare
+sources:
+- title: After FTC surprises, pharma should expect more M&A scrutiny in 2020—and here's why
+  url: https://www.fiercepharma.com/pharma/after-ftc-surprises-what-antitrust-scrutiny-should-biopharma-expect-their-m-a-deals-2020
+  outlet: Fierce Pharma
+  date: '2020-01-15'
+  tier: 2
+- title: The biggest pharma merger and acquisition deals of 2019
+  url: https://www.europeanpharmaceuticalreview.com/article/111051/the-biggest-pharma-merger-and-acquisition-deals-of-2019/
+  outlet: European Pharmaceutical Review
+  date: '2019'
+  tier: 3
+- title: 'FTC''s watchdog role in pharma mergers: Road bumps and the way forward'
+  url: https://www.nortonrosefulbright.com/en-us/knowledge/publications/33212c9e/ftcs-watchdog-role-in-pharma-mergers-road-bumps-and-the-way-forward
+  outlet: Norton Rose Fulbright
+  date: '2023'
+  tier: 3
+---
+
+AbbVie completed its $63 billion acquisition of Allergan after FTC approval requiring divestiture of digestive drug brazikumab to resolve antitrust concerns. The merger created a pharmaceutical giant with combined 2019 revenues of $48 billion and a diversified portfolio spanning immunology, oncology, neuroscience, eye care, and aesthetics—further consolidating the pharmaceutical industry into a small oligopoly of mega-corporations with enormous pricing power.
+
+The AbbVie-Allergan merger was the second of three pharmaceutical mega-mergers completed in 2019-2020, following Bristol-Myers Squibb's $74 billion Celgene acquisition and preceding various other consolidations. Together, these deals dramatically increased concentration in the pharmaceutical industry, reducing the number of major drug developers and giving surviving companies greater leverage over insurers, pharmacy benefit managers, physicians, and patients.
+
+The FTC issued a "second request" demanding additional information about the merger's competitive effects—a signal of heightened scrutiny—but ultimately approved the deal after Allergan agreed to divest brazikumab, an experimental drug for Crohn's disease that competed with AbbVie's development pipeline. However, the remedy addressed only a narrow competitive overlap and failed to account for broader concerns about reduced innovation, portfolio leverage effects, and increased market power across multiple therapeutic areas.
+
+The merger was particularly significant because it combined AbbVie's blockbuster immunology drug Humira (the world's best-selling drug with over $20 billion in annual sales) with Allergan's diverse portfolio including Botox, Restasis, and various generic drugs. The combined company gained enormous leverage to negotiate favorable terms with insurers and PBMs, effectively forcing inclusion of multiple high-priced drugs in formularies by threatening to exclude entire therapeutic categories.
+
+AbbVie's acquisition strategy was partly defensive, seeking to diversify revenue before Humira's U.S. patent exclusivity expired and biosimilar competition emerged. However, the merger also eliminated Allergan as an independent competitor and concentrated control over numerous therapeutic markets in a single corporate entity with reduced incentives to compete on price.
+
+Consumer and patient impacts included higher drug prices across multiple therapeutic areas, reduced competition in key drug categories, elimination of competing research programs, and increased difficulty for insurers to negotiate lower prices when facing a consolidated supplier with portfolio leverage. Studies of pharmaceutical mergers consistently show price increases for existing drugs and reduced innovation investment post-merger.
+
+The AbbVie-Allergan merger exemplified the pattern of weak antitrust enforcement that enabled economy-wide consolidation from 2008-2020. Despite clear evidence that pharmaceutical consolidation harms consumers through higher prices and reduced innovation, the FTC approved the deal with minimal remedies, signaling that regulators would accept nearly any merger with token divestitures regardless of long-term competitive harm.

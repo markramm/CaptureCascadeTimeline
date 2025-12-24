@@ -4,7 +4,7 @@ title: GAO says NIH grant delays violated the Impoundment Control Act
 date: '2025-08-05'
 importance: 6
 actors:
-- GAO
+- Government Accountability Office (GAO)
 - HHS
 - NIH
 tags:
@@ -20,24 +20,20 @@ citations:
 - https://www.govexec.com/oversight/2025/08/trump-illegally-froze-1800-nih-medical-research-grants-congress-watchdog-says/407296
 - https://www.statnews.com/2025/08/05/gao-says-nih-cuts-violated-impoundment-control-act/
 - https://thehill.com/homenews/5437295-nih-broke-law-by-withholding-funding-gao/
-notes: This GAO finding represents one of many instances where the Trump administration
-  illegally withheld congressionally appropriated funds. The freeze affected critical
-  medical research during ongoing public health challenges.
+notes: This GAO finding represents one of many instances where the Trump administration illegally withheld congressionally appropriated funds. The freeze affected critical medical research during ongoing public health challenges.
 status: confirmed
 sources:
 - title: GAO Decision - Matter of Department of Health and Human Services
   url: https://www.gao.gov/products/b-337203
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2025-08-05'
-- title: Trump illegally froze 1,800 NIH medical research grants, Congress' watchdog
-    says
+- title: Trump illegally froze 1,800 NIH medical research grants, Congress' watchdog says
   url: https://www.govexec.com/oversight/2025/08/trump-illegally-froze-1800-nih-medical-research-grants-congress-watchdog-says/407296
   outlet: Government Executive
   date: '2025-08-05'
-- title: Trump administration violated impoundment law by canceling NIH grants, slowing
-    new awards, GAO finds
+- title: Trump administration violated impoundment law by canceling NIH grants, slowing new awards, GAO finds
   url: https://www.statnews.com/2025/08/05/gao-says-nih-cuts-violated-impoundment-control-act/
-  outlet: Stat News
+  outlet: STAT News
   date: '2025-08-05'
 - title: 'NIH broke law by withholding funding: GAO'
   url: https://thehill.com/homenews/5437295-nih-broke-law-by-withholding-funding-gao/

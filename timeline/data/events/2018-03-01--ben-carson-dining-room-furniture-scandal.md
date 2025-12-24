@@ -4,32 +4,32 @@ date: 2018-03-01
 title: HUD Secretary Ben Carson Spends $31,000 in Taxpayer Funds on Dining Room Furniture, Violates Federal Law
 importance: 7
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Ben Carson
-  - HUD
-  - Misuse of Funds
-  - Whistleblower
+- cabinet corruption
+- ethics violations
+- ben carson
+- hud
+- misuse of funds
+- whistleblower
 actors:
-  - Ben Carson
-  - Candy Carson
-  - Helen Foster
+- Ben Carson
+- Candy Carson
+- Helen Foster
 sources:
-  - url: https://www.washingtonpost.com/news/powerpost/wp/2018/03/20/ben-carson-defends-purchase-of-new-31000-set-the-dining-room-table-was-actually-dangerous/
-    title: "HUD Secretary Ben Carson says $31,000 dining set was ordered for safety reasons. And it was his wife's call."
-    publisher: Washington Post
-    date: 2018-03-20
-    tier: 1
-  - url: https://www.npr.org/2018/02/28/589493664/ben-carson-and-hud-face-allegations-of-lavish-spending-including-31-000-furnitur
-    title: "Ben Carson Faces Allegations Of Lavish Spending, Including $31,000 On Furniture"
-    publisher: NPR
-    date: 2018-02-28
-    tier: 1
-  - url: https://www.cnn.com/2018/03/14/politics/ben-carson-dining-room-table/index.html
-    title: "So, HUD lied about buying Ben Carson's $31,000 dining room set?"
-    publisher: CNN
-    date: 2018-03-14
-    tier: 1
+- url: https://www.washingtonpost.com/news/powerpost/wp/2018/03/20/ben-carson-defends-purchase-of-new-31000-set-the-dining-room-table-was-actually-dangerous/
+  title: HUD Secretary Ben Carson says $31,000 dining set was ordered for safety reasons. And it was his wife's call.
+  date: 2018-03-20
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.npr.org/2018/02/28/589493664/ben-carson-and-hud-face-allegations-of-lavish-spending-including-31-000-furnitur
+  title: Ben Carson Faces Allegations Of Lavish Spending, Including $31,000 On Furniture
+  date: 2018-02-28
+  tier: 1
+  outlet: NPR
+- url: https://www.cnn.com/2018/03/14/politics/ben-carson-dining-room-table/index.html
+  title: So, HUD lied about buying Ben Carson's $31,000 dining room set?
+  date: 2018-03-14
+  tier: 1
+  outlet: CNN
 ---
 
 The U.S. Department of Housing and Urban Development spent $31,561 on custom-made dining room furniture for HUD Secretary Ben Carson's office in late 2017, in apparent violation of federal law requiring Congressional approval for department head office redecoration costs exceeding $5,000. The furniture order, placed on December 21 from Baltimore-based Sebree and Associates, included a mahogany table, ten chairs with velvet upholstery, a sideboard, and a hutch. HUD initially denied Carson's involvement, but internal emails released under FOIA contradicted those claims, revealing "printouts of the furniture the Secretary and Mrs. Carson picked out."

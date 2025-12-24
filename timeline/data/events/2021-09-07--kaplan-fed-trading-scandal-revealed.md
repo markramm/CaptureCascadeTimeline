@@ -13,7 +13,7 @@ id: 2021-09-07--kaplan-fed-trading-scandal-revealed
 importance: 8
 sources:
 - date: '2021-09-07'
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   title: Fed Officials Made Trades During Pandemic
   url: https://www.wsj.com/articles/federal-reserve-ethics-officials-pandemic-trades-11630959600
 - date: '2021-09-27'
@@ -22,8 +22,7 @@ sources:
   url: https://www.npr.org/2021/09/27/1041059924/2-top-federal-reserve-officials-retire-after-trading-disclosures
 - date: '2021-09-27'
   outlet: NBC News
-  title: Dallas Fed President Robert Kaplan Resigns After Controversy Over Stock Market
-    Trading
+  title: Dallas Fed President Robert Kaplan Resigns After Controversy Over Stock Market Trading
   url: https://www.nbcnews.com/business/economy/dallas-fed-president-robert-kaplan-resigns-after-controversy-over-stock-n1280200
 status: confirmed
 tags:

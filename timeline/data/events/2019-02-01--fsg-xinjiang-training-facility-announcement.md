@@ -18,24 +18,24 @@ actors:
 sources:
 - url: https://www.cnn.com/2019/02/01/asia/frontier-services-xinjiang-intl
   title: Erik Prince-linked security company announces investment in Xinjiang
-  publisher: CNN
   date: '2019-02-01'
   tier: 1
+  outlet: CNN
 - url: https://www.washingtonpost.com/world/asia_pacific/blackwater-founder-erik-princes-new-company-building-training-center-in-xinjiang/2019/02/01/ac372d40-2602-11e9-ba08-caf4ff5a3433_story.html
   title: Blackwater founder Erik Prince's new company building training center in Xinjiang
-  publisher: Washington Post
   date: '2019-02-01'
   tier: 1
+  outlet: The Washington Post
 - url: https://abcnews.go.com/International/erik-princes-company-plans-business-china-province-human/story?id=66139535
   title: Erik Prince's company plans business in China province under human rights scrutiny
-  publisher: ABC News
   date: '2019-10-09'
   tier: 1
+  outlet: ABC News
 - url: https://www.npr.org/2019/02/04/691394262/china-business-ventures-tied-to-blackwater-founder-erik-prince-raise-questions
   title: China Business Ventures Tied To Blackwater Founder Erik Prince Raise Questions
-  publisher: NPR
   date: '2019-02-04'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

@@ -14,9 +14,9 @@ actors:
 - Dr. Cody Meissner
 tags:
 - public-health
-- RFK-Jr
+- rfk-jr
 - anti-vaccine
-- CDC
+- cdc
 - child-safety
 - expertise-purge
 - healthcare

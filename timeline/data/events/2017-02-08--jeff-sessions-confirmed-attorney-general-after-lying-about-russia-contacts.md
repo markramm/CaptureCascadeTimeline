@@ -1,8 +1,7 @@
 ---
 id: 2017-02-08--jeff-sessions-confirmed-attorney-general-after-lying-about-russia-contacts
 date: '2017-02-08'
-title: Jeff Sessions Confirmed as Attorney General After Lying Under Oath About Russia
-  Contacts
+title: Jeff Sessions Confirmed as Attorney General After Lying Under Oath About Russia Contacts
 importance: 9
 tags:
 - perjury
@@ -18,14 +17,14 @@ actors:
 sources:
 - url: https://www.npr.org/2017/03/02/518197125/attorney-general-jeff-sessions-recuses-himself-from-russia-investigations
   title: Attorney General Jeff Sessions Recuses Himself From Russia Investigations
-  publisher: NPR
   date: '2017-03-02'
   tier: 1
+  outlet: NPR
 - url: https://abcnews.go.com/Politics/timeline-leading-jeff-sessions-recusal-fallout/story?id=45855918
   title: Timeline leading up to Jeff Sessions' recusal and the fallout
-  publisher: ABC News
   date: '2017-03-02'
   tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

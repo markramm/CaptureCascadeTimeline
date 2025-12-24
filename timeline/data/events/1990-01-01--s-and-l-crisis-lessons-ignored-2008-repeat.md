@@ -7,7 +7,7 @@ location: United States
 actors:
 - Financial regulators
 - Congress
-- Banking industry
+- Banking Industry
 - Economics profession
 tags:
 - s&l-crisis
@@ -16,17 +16,17 @@ tags:
 - moral-hazard
 - 2008-crisis
 sources:
-- title: 'Were Bankers Jailed In Past Financial Crises?'
+- title: Were Bankers Jailed In Past Financial Crises?
   url: https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/
   outlet: PBS Frontline
   date: '2024-01-01'
   verified: true
-- title: 'Savings and Loan Crisis'
+- title: Savings and Loan Crisis
   url: https://www.federalreservehistory.org/essays/savings-and-loan-crisis
   outlet: Federal Reserve History
   date: '2024-01-01'
   verified: true
-- title: 'The Savings and Loan Crisis (1989)'
+- title: The Savings and Loan Crisis (1989)
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2024-01-01'

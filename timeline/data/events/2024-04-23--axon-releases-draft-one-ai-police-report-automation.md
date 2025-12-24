@@ -21,33 +21,33 @@ actors:
 - Axon
 - OpenAI
 - Microsoft
-- Electronic Frontier Foundation
+- Electronic Frontier Foundation (EFF)
 sources:
 - url: https://investor.axon.com/2024-04-23-Axon-reimagines-report-writing-with-Draft-One,-a-first-of-its-kind-AI-powered-force-multiplier-for-public-safety
   title: Axon reimagines report writing with Draft One, a first-of-its-kind AI-powered force multiplier for public safety
-  publisher: Axon Investor Relations
   date: '2024-04-23'
   tier: 2
+  outlet: Axon Investor Relations
 - url: https://www.cnn.com/2025/08/12/tech/ai-police-reports-axon
   title: How AI is being used by police departments to help draft reports
-  publisher: CNN
   date: '2025-08-12'
   tier: 1
+  outlet: CNN
 - url: https://www.axon.com/products/draft-one
   title: Draft One Product Overview
-  publisher: Axon
   date: '2024-04-23'
   tier: 2
+  outlet: Axon
 - url: https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency
   title: Axon's Draft One Is Designed to Defy Transparency
-  publisher: Electronic Frontier Foundation
   date: '2025-07-16'
   tier: 1
+  outlet: Electronic Frontier Foundation
 - url: https://www.axon.com/blog/unlocking-next-generation-productivity-in-the-field-with-axon-ai
   title: Unlocking next-generation productivity in the field with Axon AI
-  publisher: Axon
   date: '2025-02-01'
   tier: 2
+  outlet: Axon
 status: confirmed
 ---
 

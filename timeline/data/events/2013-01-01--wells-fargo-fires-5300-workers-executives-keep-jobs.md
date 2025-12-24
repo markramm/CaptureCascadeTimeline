@@ -15,19 +15,19 @@ actors:
 sources:
 - url: https://www.npr.org/2016/09/09/493228759/wells-fargo-fires-5-000-employees-over-fake-accounts
   title: Wells Fargo Fires 5,000 Employees Over Fake Accounts
-  publisher: NPR
   date: '2016-09-09'
   tier: 1
+  outlet: NPR
 - url: https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/
   title: 'CFPB Enforcement Action: Wells Fargo Bank, N.A.'
-  publisher: Consumer Financial Protection Bureau
   date: '2016-09-08'
   tier: 1
+  outlet: Consumer Financial Protection Bureau
 - url: https://abcnews.go.com/US/wells-fargo-fires-5300-workers-unauthorized-account-scandal/story?id=41956019
   title: Wells Fargo Fires About 5,300 Workers in Unauthorized Account Scandal
-  publisher: ABC News
   date: '2016-09-08'
   tier: 2
+  outlet: ABC News
 ---
 
 Wells Fargo begins systematically firing approximately 5,300 low-level employees between 2011 and 2016 for creating unauthorized customer accounts, while the senior executives who designed the sales incentive systems and set impossible quotas face no disciplinary action. The firings demonstrate a classic pattern of corporate accountability: workers who respond to institutional pressure by breaking rules are terminated, while the leadership that created the criminogenic environment remains untouched.

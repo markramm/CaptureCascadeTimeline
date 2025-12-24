@@ -20,24 +20,24 @@ tags:
 sources:
 - title: Abu Zubaydah - The Forever Prisoner
   url: https://www.therenditionproject.org.uk/prisoners/zubaydah.html
-  publisher: The Rendition Project
   date: '2024-01-01'
   tier: 1
+  outlet: The Rendition Project
 - title: Experts Call for Release of Guantanamo Bay Detainee Abu Zubaydah
   url: https://www.ohchr.org/en/press-releases/2025/01/experts-call-release-guantanamo-bay-detainee-abu-zubaydah-arbitrarily
-  publisher: UN Office of the High Commissioner for Human Rights
   date: '2025-01-24'
   tier: 1
+  outlet: UN Office of the High Commissioner for Human Rights
 - title: The Forever Prisoner - Alex Gibney Documentary
   url: https://www.pbs.org/newshour/show/alex-gibneys-the-forever-prisoner-reveals-cia-torture-tactics
-  publisher: PBS NewsHour
   date: '2021-12-06'
   tier: 1
+  outlet: PBS NewsHour
 - title: Abu Zubaydah Gets His PRB
   url: https://www.humanrightsfirst.org/senate-report-cia-torture/abu-zubaydah
-  publisher: Human Rights First
   date: '2016-08-24'
   tier: 1
+  outlet: Human Rights First
 ---
 
 Abu Zubaydah remains held in U.S. custody more than two decades after his capture in Pakistan in March 2002, despite never being charged with any crime. Zubaydah was the CIA's first "high-value detainee" and the primary test subject for the torture program, waterboarded 83 times and subjected to the full range of enhanced interrogation techniques including stress positions, sleep deprivation exceeding 180 hours, confinement in coffin-sized boxes, and beatings. The torture was so severe he lost an eye and suffered permanent brain damage. Yet after 4.5 years in CIA black sites and more than 15 years at Guantanamo Bay, the U.S. has never brought charges, effectively holding him in indefinite detention based on suspicion alone—a practice that violates both U.S. and international law.

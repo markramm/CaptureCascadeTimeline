@@ -4,28 +4,28 @@ date: 2015-06-29
 title: NBC Fires Trump from The Apprentice Following Racist Comments About Mexican Immigrants
 importance: 7
 tags:
-  - The Apprentice
-  - NBC
-  - Racism
-  - Immigration
-  - Presidential Campaign
-  - Mark Burnett
+- the apprentice
+- nbc
+- racism
+- immigration
+- presidential campaign
+- mark burnett
 sources:
-  - url: https://www.nbcnews.com/news/amp/ncna409381
-    title: NBC Officially Fires Donald Trump From 'Celebrity Apprentice'
-    publisher: NBC News
-    date: 2015-06-29
-    tier: 1
-  - url: https://www.npr.org/2015/06/29/418641198/nbc-dumps-donald-trump-over-comments-on-mexican-immigrants
-    title: NBC Dumps Donald Trump Over Comments On Mexican Immigrants
-    publisher: NPR
-    date: 2015-06-29
-    tier: 1
-  - url: https://variety.com/2015/tv/news/nbc-donald-trump-immigrants-1201530568/
-    title: NBC Cutting Ties to Donald Trump Over 'Derogatory' Comments
-    publisher: Variety
-    date: 2015-06-29
-    tier: 1
+- url: https://www.nbcnews.com/news/amp/ncna409381
+  title: NBC Officially Fires Donald Trump From 'Celebrity Apprentice'
+  date: 2015-06-29
+  tier: 1
+  outlet: NBC News
+- url: https://www.npr.org/2015/06/29/418641198/nbc-dumps-donald-trump-over-comments-on-mexican-immigrants
+  title: NBC Dumps Donald Trump Over Comments On Mexican Immigrants
+  date: 2015-06-29
+  tier: 1
+  outlet: NPR
+- url: https://variety.com/2015/tv/news/nbc-donald-trump-immigrants-1201530568/
+  title: NBC Cutting Ties to Donald Trump Over 'Derogatory' Comments
+  date: 2015-06-29
+  tier: 1
+  outlet: Variety
 ---
 
 NBCUniversal announces on June 29, 2015, that it is ending its business relationship with Donald Trump, firing him from "The Apprentice" and cancelling the Trump-produced Miss USA and Miss Universe pageants in response to Trump's racist comments about Mexican immigrants during his presidential campaign announcement two weeks earlier. The decision follows a petition signed by over 200,000 people and comes despite Trump's highly profitable 11-year relationship with the network.

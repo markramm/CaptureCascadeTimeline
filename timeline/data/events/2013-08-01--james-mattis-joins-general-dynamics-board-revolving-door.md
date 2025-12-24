@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.seattletimes.com/nation-world/nation-politics/mattis-to-exit-high-paid-board-seat-if-confirmed-as-defense-chief/
   title: Mattis to exit high-paid board seat if confirmed as defense chief
-  publisher: The Seattle Times
   date: '2017-01-01'
   tier: 2
+  outlet: The Seattle Times
 - url: https://medium.com/war-is-boring/the-conflicts-of-interest-of-james-mattis-70df5caa79cc
   title: The Conflicts of Interest of James Mattis
-  publisher: War Is Boring (Medium)
   date: '2016-12-01'
   tier: 3
+  outlet: War Is Boring (Medium)
 - url: https://www.military.com/daily-news/2019/08/08/mattis-gets-seat-board-defense-giant-general-dynamics.html
   title: Mattis Gets Seat on Board of Defense Giant General Dynamics
-  publisher: Military.com
   date: '2019-08-08'
   tier: 2
+  outlet: Military.com
 actors:
 - James Mattis
 - General Dynamics

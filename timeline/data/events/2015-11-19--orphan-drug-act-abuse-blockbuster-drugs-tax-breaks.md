@@ -9,29 +9,29 @@ tags:
 - tax-avoidance
 - drug-pricing
 - healthcare
-- FDA
+- fda
 - systematic-corruption
 sources:
 - url: https://www.hopkinsmedicine.org/news/media/releases/orphan_drug_loophole_needs_closing_johns_hopkins_researchers_say
   title: Orphan Drug Loophole Needs Closing, Johns Hopkins Researchers Say
-  publisher: Johns Hopkins Medicine
   date: '2015-11-19'
   tier: 1
+  outlet: Johns Hopkins Medicine
 - url: https://www.npr.org/sections/health-shots/2017/01/17/509506836/drugs-for-rare-diseases-have-become-uncommonly-rich-monopolies
   title: Orphan Drug Rules Manipulated By Industry To Create Priced Monopolies
-  publisher: NPR
   date: '2017-01-17'
   tier: 1
+  outlet: NPR
 - url: https://www.eurekalert.org/news-releases/541467
   title: Orphan drug loophole needs closing, Johns Hopkins researchers say
-  publisher: EurekAlert!
   date: '2015-11-19'
   tier: 1
+  outlet: EurekAlert!
 - url: https://www.fiercepharma.com/pharma/johns-hopkins-accuses-drugmakers-of-gaming-orphan-drug-law
   title: Johns Hopkins accuses drugmakers of gaming orphan drug law
-  publisher: Fierce Pharma
   date: '2015-11-19'
   tier: 2
+  outlet: Fierce Pharma
 actors:
 - Johns Hopkins University
 - FDA

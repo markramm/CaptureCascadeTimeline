@@ -10,10 +10,10 @@ id: 2025-10-27--world-liberty-financial-crypto-ties
 importance: 10
 sources:
 - date: '2025-10-27'
-  publisher: Bloomberg
   tier: 2
   title: Trump Family Crypto Platform Tied to Pardoned Binance Executive
   url: https://www.bloomberg.com/news/articles/2025-10-27/trump-family-crypto-binance-zhao-pardon-connections
+  outlet: Bloomberg
 status: confirmed
 tags:
 - bribery

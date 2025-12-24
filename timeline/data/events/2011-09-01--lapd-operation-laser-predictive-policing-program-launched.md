@@ -4,32 +4,32 @@ date: 2011-09-01
 title: LAPD Launches Operation LASER Predictive Policing Program with Palantir
 importance: 8
 tags:
-  - surveillance
-  - technology
-  - police
-  - ai
-  - civil-rights
+- surveillance
+- technology
+- police
+- ai
+- civil-rights
 actors:
-  - LAPD
-  - Palantir Technologies
-  - Craig Uchida
-  - Peter Thiel
+- LAPD
+- Palantir Technologies
+- Craig Uchida
+- Peter Thiel
 sources:
-  - url: https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/
-    title: How the LAPD and Palantir Use Data to Justify Racist Policing
-    publisher: The Intercept
-    date: 2021-01-30
-    tier: 1
-  - url: https://bja.ojp.gov/sites/g/files/xyckuh186/files/media/document/losangelesspi.pdf
-    title: The Los Angeles Smart Policing Initiative - Reducing Gun-Related Violence
-    publisher: Bureau of Justice Assistance
-    date: 2012-01-01
-    tier: 1
-  - url: https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd
-    title: Scars, Tattoos, And License Plates - This Is What Palantir And The LAPD Know About You
-    publisher: BuzzFeed News
-    date: 2020-08-01
-    tier: 2
+- url: https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/
+  title: How the LAPD and Palantir Use Data to Justify Racist Policing
+  date: 2021-01-30
+  tier: 1
+  outlet: The Intercept
+- url: https://bja.ojp.gov/sites/g/files/xyckuh186/files/media/document/losangelesspi.pdf
+  title: The Los Angeles Smart Policing Initiative - Reducing Gun-Related Violence
+  date: 2012-01-01
+  tier: 1
+  outlet: Bureau of Justice Assistance
+- url: https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd
+  title: Scars, Tattoos, And License Plates - This Is What Palantir And The LAPD Know About You
+  date: 2020-08-01
+  tier: 2
+  outlet: BuzzFeed News
 ---
 
 The Los Angeles Police Department launches Operation LASER (Los Angeles Strategic Extraction and Restoration), a controversial predictive policing program that runs from 2011 to 2019. The program is designed to identify and target individuals deemed at high risk of committing violent crimes using a points-based scoring system called the LASER score.

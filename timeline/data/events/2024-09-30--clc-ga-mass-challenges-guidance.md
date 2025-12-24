@@ -24,19 +24,15 @@ actors:
 - Brennan Center for Justice
 - Lawyers' Committee for Civil Rights Under Law
 - Georgia election officials
-- Brad Raffensperger (Georgia Secretary of State)
-notes: SB 189 allows challenges based on death records, past registration elsewhere,
-  tax exemptions suggesting primary residence elsewhere, or P.O. box addresses. Within
-  90 days of the law taking effect, over 45,000 voter challenges were filed statewide.
-  Multiple lawsuits were filed challenging the law under NVRA and constitutional grounds.
+- Brad Raffensperger
+notes: SB 189 allows challenges based on death records, past registration elsewhere, tax exemptions suggesting primary residence elsewhere, or P.O. box addresses. Within 90 days of the law taking effect, over 45,000 voter challenges were filed statewide. Multiple lawsuits were filed challenging the law under NVRA and constitutional grounds.
 status: confirmed
 sources:
 - title: Advocacy Groups Send Guidance on Mass Voter Challenges to Elections Officials
   url: https://www.acluga.org/en/press-releases/press-release-advocacy-groups-send-guidance-mass-voter-challenges-elections-officials
   outlet: ACLU of Georgia
   date: '2024-09-30'
-- title: Civil Rights Groups File Lawsuit to Stop Georgia Law's Outrageous New Pathway
-    to Purging Eligible Voters
+- title: Civil Rights Groups File Lawsuit to Stop Georgia Law's Outrageous New Pathway to Purging Eligible Voters
   url: https://www.lawyerscommittee.org/civil-rights-groups-file-lawsuit-to-stop-georgia-laws-outrageous-new-pathway-to-purging-eligible-voters/
   outlet: Lawyers' Committee for Civil Rights Under Law
   date: '2024-09-25'

@@ -12,23 +12,20 @@ actors:
 - Donald A. Grinde, Jr.
 - Robert J. Miller
 sources:
-- title: The Native American Roots of the U.S. Constitution
-  outlet: JSTOR Daily
-  url: https://daily.jstor.org/the-native-american-roots-of-the-u-s-constitution/
-  type: Academic Analysis
-- title: The United States Constitution and the Iroquois League
-  url: ''
-- title: 'Exemplar of Liberty: Native America and the Evolution of Democracy'
-  url: ''
-- title: U.S. Senate Resolution Recognizing Iroquois Confederacy Influence
-  date: '1987-09-16'
-  outlet: U.S. Senate Official Records
-  url: https://www.oneidaindiannation.com/fast-facts-democracy-and-the-haudenosaunee/
-  type: Official Recognition
-- title: American Indian Constitutions and Their Influence on the United States Constitution
-  url: ''
-- title: The Indigenous Influence Theory of American Democracy
-  url: ''
+- title: The Haudenosaunee Confederacy and the Constitution
+  outlet: Library of Congress Law Library
+  url: https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/
+  date: '2023-09-26'
+  tier: 1
+- title: S.Con.Res.76 - Acknowledging the Contribution of the Iroquois Confederacy of Nations to the Development of the United States Constitution
+  outlet: U.S. Congress
+  url: https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/76
+  date: '1987-12-02'
+  tier: 1
+- title: How the Iroquois Great Law of Peace Shaped U.S. Democracy
+  outlet: PBS Native America
+  url: https://www.pbs.org/native-america/blog/how-the-iroquois-great-law-of-peace-shaped-us-democracy
+  tier: 2
 tags:
 - indigenous-democracy
 - consensus-governance

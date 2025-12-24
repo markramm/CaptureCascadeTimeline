@@ -1,32 +1,41 @@
 ---
-id: "2025-12-03--usip-rebranded-donald-trump-institute-peace"
-date: "2025-12-03"
-title: "U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover"
-summary: "The State Department announced the U.S. Institute of Peace has been renamed the 'Donald J. Trump Institute of Peace,' with Trump's name installed on the building's facade in Washington, DC. The renaming follows the administration's armed takeover and gutting of the 40-year-old congressionally-chartered independent agency earlier in 2025. The move occurred while the government's seizure remains under legal challenge, with a federal judge ruling the takeover illegal. Critics compare the rebranding to authoritarian tactics in Russia and North Korea where dictators attach their names to seized institutions."
+id: 2025-12-03--usip-rebranded-donald-trump-institute-peace
+date: '2025-12-03'
+title: U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover
+summary: The State Department announced the U.S. Institute of Peace has been renamed the 'Donald J. Trump Institute of Peace,' with Trump's name installed on the building's facade in Washington, DC. The renaming follows the administration's armed takeover and gutting of the 40-year-old congressionally-chartered independent agency earlier in 2025. The move occurred while the government's seizure remains under legal challenge, with a federal judge ruling the takeover illegal. Critics compare the rebranding to authoritarian tactics in Russia and North Korea where dictators attach their names to seized institutions.
 importance: 9
-tags: ["authoritarianism", "institutional-capture", "propaganda", "narcissism", "rule-of-law"]
-actors: ["Donald Trump", "State Department", "U.S. Institute of Peace", "Federal Judiciary"]
+tags:
+- authoritarianism
+- institutional-capture
+- propaganda
+- narcissism
+- rule-of-law
+actors:
+- Donald Trump
+- State Department
+- U.S. Institute of Peace
+- Federal Judiciary
 sources:
-  - url: "https://www.cnn.com/2025/12/03/politics/us-institute-of-peace-renamed-trump"
-    title: "US Institute of Peace renamed for Trump after his administration gutted it earlier this year"
-    publisher: "CNN"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://www.nbcnews.com/politics/doge/trump-us-institute-peace-renamed-musk-dismantled-rcna247367"
-    title: "U.S. Institute of Peace renamed for Trump after his administration dismantled the agency"
-    publisher: "NBC News"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://www.npr.org/2025/12/04/g-s1-100576/trump-institute-of-peace-name"
-    title: "Trump is fighting the Institute of Peace in court. His name is on the building"
-    publisher: "NPR"
-    date: "2025-12-04"
-    tier: 1
-  - url: "https://www.pbs.org/newshour/politics/trump-added-his-name-to-the-u-s-institute-of-peace-building-while-fighting-the-organization-in-court"
-    title: "Trump added his name to the U.S. Institute of Peace building while fighting the organization in court"
-    publisher: "PBS"
-    date: "2025-12-03"
-    tier: 1
+- url: https://www.cnn.com/2025/12/03/politics/us-institute-of-peace-renamed-trump
+  title: US Institute of Peace renamed for Trump after his administration gutted it earlier this year
+  date: '2025-12-03'
+  tier: 1
+  outlet: CNN
+- url: https://www.nbcnews.com/politics/doge/trump-us-institute-peace-renamed-musk-dismantled-rcna247367
+  title: U.S. Institute of Peace renamed for Trump after his administration dismantled the agency
+  date: '2025-12-03'
+  tier: 1
+  outlet: NBC News
+- url: https://www.npr.org/2025/12/04/g-s1-100576/trump-institute-of-peace-name
+  title: Trump is fighting the Institute of Peace in court. His name is on the building
+  date: '2025-12-04'
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/politics/trump-added-his-name-to-the-u-s-institute-of-peace-building-while-fighting-the-organization-in-court
+  title: Trump added his name to the U.S. Institute of Peace building while fighting the organization in court
+  date: '2025-12-03'
+  tier: 1
+  outlet: PBS
 ---
 
 # U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover

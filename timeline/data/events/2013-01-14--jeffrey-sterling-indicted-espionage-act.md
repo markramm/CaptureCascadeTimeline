@@ -4,33 +4,33 @@ date: 2013-01-14
 title: Jeffrey Sterling Indicted Under Espionage Act for Alleged Leak to James Risen
 importance: 8
 actors:
-  - Jeffrey Sterling
-  - James Risen
-  - CIA
-  - Obama Administration
-  - Department of Justice
+- Jeffrey Sterling
+- James Risen
+- CIA
+- Obama Administration
+- Department of Justice
 tags:
-  - whistleblower-prosecution
-  - espionage-act
-  - press-freedom
-  - iran
-  - accountability
+- whistleblower-prosecution
+- espionage-act
+- press-freedom
+- iran
+- accountability
 sources:
-  - url: https://theintercept.com/2015/06/18/jeffrey-sterling-took-on-the-cia-and-lost-everything/
-    title: How Jeffrey Sterling Took on the CIA — and Lost Everything
-    publisher: The Intercept
-    date: 2015-06-18
-    tier: 1
-  - url: https://www.wsws.org/en/articles/2011/02/ster-f04.html
-    title: Obama administration indicts ex-CIA whistleblower
-    publisher: World Socialist Web Site
-    date: 2011-02-04
-    tier: 2
-  - url: https://freedom.press/issues/a-preview-of-the-trial-of-ex-cia-officer-jeffery-sterling-accused-source-of-journalist-james-risen/
-    title: Preview of the trial of ex-CIA officer Jeffery Sterling
-    publisher: Freedom of the Press Foundation
-    date: 2015-01-12
-    tier: 1
+- url: https://theintercept.com/2015/06/18/jeffrey-sterling-took-on-the-cia-and-lost-everything/
+  title: How Jeffrey Sterling Took on the CIA — and Lost Everything
+  date: 2015-06-18
+  tier: 1
+  outlet: The Intercept
+- url: https://www.wsws.org/en/articles/2011/02/ster-f04.html
+  title: Obama administration indicts ex-CIA whistleblower
+  date: 2011-02-04
+  tier: 2
+  outlet: World Socialist Web Site
+- url: https://freedom.press/issues/a-preview-of-the-trial-of-ex-cia-officer-jeffery-sterling-accused-source-of-journalist-james-risen/
+  title: Preview of the trial of ex-CIA officer Jeffery Sterling
+  date: 2015-01-12
+  tier: 1
+  outlet: Freedom of the Press Foundation
 ---
 
 Former CIA officer Jeffrey Alexander Sterling was indicted on espionage charges for allegedly revealing details about Operation Merlin—a botched covert operation to sabotage Iran's nuclear program—to New York Times journalist James Risen. The case became a flashpoint in the conflict between national security prosecutions and press freedom.

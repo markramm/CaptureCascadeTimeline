@@ -9,26 +9,26 @@ actors:
 - David Fahrenthold
 - Washington Post
 sources:
-- title: 'Trump recorded having extremely lewd conversation about women in 2005'
+- title: Trump recorded having extremely lewd conversation about women in 2005
   url: https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html
-  publisher: Washington Post
   date: '2016-10-07'
   tier: 1
   author: David Fahrenthold
-- title: 'Donald Trump Access Hollywood tape'
+  outlet: The Washington Post
+- title: Donald Trump Access Hollywood tape
   url: https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape
-  publisher: Wikipedia
   retrieval_date: '2025-11-11'
   tier: 2
+  outlet: Wikipedia
 - title: 'In context: Donald Trump''s lewd remarks from 2005'
   url: https://www.politifact.com/article/2016/oct/08/context-donald-trumps-lewd-remarks-2005/
-  publisher: PolitiFact
   date: '2016-10-08'
   tier: 1
-- title: 'David A. Fahrenthold of The Washington Post'
+  outlet: PolitiFact
+- title: David A. Fahrenthold of The Washington Post
   url: https://www.pulitzer.org/winners/david-fahrenthold
-  publisher: Pulitzer Prize Board
   tier: 1
+  outlet: Pulitzer Prize Board
 tags:
 - trump-campaign
 - sexual-misconduct

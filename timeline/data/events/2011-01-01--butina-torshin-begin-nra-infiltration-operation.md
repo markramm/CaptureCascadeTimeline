@@ -1,7 +1,7 @@
 ---
 id: 2011-01-01--butina-torshin-begin-nra-infiltration-operation
 date: '2011-01-01'
-title: 'Maria Butina and Alexander Torshin Begin Systematic NRA Infiltration Operation'
+title: Maria Butina and Alexander Torshin Begin Systematic NRA Infiltration Operation
 importance: 9
 tags:
 - maria-butina
@@ -18,26 +18,26 @@ actors:
 - David Keene
 - Russian Government
 sources:
-- title: 'Timeline of Russian plot to infiltrate NRA and GOP'
+- title: Timeline of Russian plot to infiltrate NRA and GOP
   url: https://www.cbsnews.com/news/timeline-of-russian-plot-to-infiltrate-nra-and-gop/
-  publisher: CBS News
   date: '2019-01-01'
   tier: 1
-- title: 'Inside the Decade-Long Russian Campaign to Infiltrate the NRA and Help Elect Trump'
+  outlet: CBS News
+- title: Inside the Decade-Long Russian Campaign to Infiltrate the NRA and Help Elect Trump
   url: https://www.rollingstone.com/politics/politics-features/inside-the-decade-long-russian-campaign-to-infiltrate-the-nra-and-help-elect-trump-630054/
-  publisher: Rolling Stone
   date: '2018-07-01'
   tier: 2
-- title: 'Maria Butina, Russian gun rights activist linked to NRA, charged as Kremlin agent'
+  outlet: Rolling Stone
+- title: Maria Butina, Russian gun rights activist linked to NRA, charged as Kremlin agent
   url: https://abcnews.go.com/Politics/maria-butina-russian-activist-linked-nra-charged-conspiracy/story?id=56626626
-  publisher: ABC News
   date: '2018-07-16'
   tier: 1
-- title: 'NRA & Russia - Majority Report'
+  outlet: ABC News
+- title: NRA & Russia - Majority Report
   url: https://www.finance.senate.gov/download/nra-and-russia_-majority-report
-  publisher: Senate Finance Committee
   date: '2019-09-27'
   tier: 1
+  outlet: Senate Finance Committee
 status: confirmed
 ---
 

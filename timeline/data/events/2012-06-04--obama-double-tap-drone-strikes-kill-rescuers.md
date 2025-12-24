@@ -17,24 +17,24 @@ tags:
 sources:
 - title: Covert Drone War - CIA Tactics in Pakistan Include Targeting Rescuers and Funerals
   url: https://www.thebureauinvestigates.com/stories/2012-02-04/covert-drone-war
-  publisher: The Bureau of Investigative Journalism
   date: '2012-02-04'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Obama's Covert Drone War in Numbers
   url: https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
-  publisher: The Bureau of Investigative Journalism
   date: '2017-01-17'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Living Under Drones - Death, Injury, and Trauma to Civilians
   url: https://www.law.stanford.edu/publications/living-under-drones-death-injury-and-trauma-to-civilians-from-us-drone-practices-in-pakistan
-  publisher: Stanford Law School / NYU School of Law
   date: '2012-09-25'
   tier: 1
+  outlet: Stanford Law School / NYU School of Law
 - title: Drone Strikes in Pakistan
   url: https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan
-  publisher: Wikipedia (sourced from Bureau data)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from Bureau data)
 ---
 
 The Bureau of Investigative Journalism publishes comprehensive evidence that the CIA conducts "double-tap" drone strikes—following an initial strike with a second strike targeting rescuers, medical personnel, and civilians who rush to help victims. The investigation documents at least three cases where subsequent strikes killed first responders attempting to recover bodies and aid wounded victims, terrorizing communities and preventing people from providing humanitarian assistance. The double-tap tactic violates international humanitarian law prohibitions against targeting medical personnel and constitutes a war crime, yet the practice continues as deliberate CIA policy designed to maximize casualties and intimidate populations.

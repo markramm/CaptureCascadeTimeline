@@ -14,21 +14,20 @@ tags:
 - tech
 sources:
 - url: https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html
-  title: U.S. government takes 10% stake in Intel, as Trump expands control over private
-    sector
-  publisher: CNBC
+  title: U.S. government takes 10% stake in Intel, as Trump expands control over private sector
   date: '2025-08-22'
   tier: 2
+  outlet: CNBC
 - url: https://www.npr.org/2025/08/22/nx-s1-5509673/trump-says-us-government-will-take-stake-intel
   title: Intel will give the U.S. government a 10% stake, Trump says
-  publisher: NPR
   date: '2025-08-22'
   tier: 1
+  outlet: NPR
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-211
   title: 'Trump Tyranny Tracker: Day 211'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-25'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Commerce Secretary Howard Lutnick announced the U.S. government would take a 10% equity stake in Intel worth $8.9 billion, converting previously committed CHIPS Act grants into government ownership. SoftBank simultaneously invested $2 billion, purchasing 2% of Intel. The equity-for-funding model represents a fundamental policy shift from the Biden administration's grant approach.

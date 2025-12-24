@@ -1,8 +1,7 @@
 ---
 id: 2025-10-01--doj-fires-prosecutor-benary-false-social-media
 date: '2025-10-01'
-title: DOJ Fires Top National Security Prosecutor Michael Ben'Ary Based on False Social
-  Media Post
+title: DOJ Fires Top National Security Prosecutor Michael Ben'Ary Based on False Social Media Post
 importance: 8
 actors:
 - Michael Ben'Ary
@@ -19,22 +18,20 @@ tags:
 - misinformation
 sources:
 - url: https://www.cnn.com/2025/10/01/politics/justice-department-prosecutor-fired-comey-case
-  title: Justice Department fires prosecutor falsely tied to Comey case in social
-    media post
-  publisher: CNN
+  title: Justice Department fires prosecutor falsely tied to Comey case in social media post
   date: '2025-10-01'
   tier: 2
+  outlet: CNN
 - url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
-  title: DOJ fires top national security prosecutor after he's questionably linked
-    to Comey pushback
-  publisher: NBC News
+  title: DOJ fires top national security prosecutor after he's questionably linked to Comey pushback
   date: '2025-10-01'
   tier: 2
+  outlet: NBC News
 - url: https://abcnews.go.com/US/top-prosecutor-fired-embattled-us-attorneys-office-slams/story?id=126188806
   title: Top prosecutor fired from embattled US attorney's office slams DOJ leadership
-  publisher: ABC News
   date: '2025-10-03'
   tier: 2
+  outlet: ABC News
 ---
 
 On October 1, 2025, the Department of Justice fired Michael Ben'Ary, the chief of the national security section in the U.S. Attorney's Office for the Eastern District of Virginia, after pro-Trump activist and writer Julie Kelly posted on social media falsely linking him to internal resistance against the James Comey indictment. Ben'Ary, who had served with the DOJ for 20 years and led critical national security prosecutions, was not involved in the Comey case and had no connection to the allegations made in Kelly's post.

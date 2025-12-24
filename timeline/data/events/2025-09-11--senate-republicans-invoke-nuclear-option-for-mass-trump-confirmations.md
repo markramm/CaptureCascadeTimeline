@@ -1,8 +1,7 @@
 ---
 id: 2025-09-11--senate-republicans-invoke-nuclear-option-for-mass-trump-confirmations
 date: '2025-09-11'
-title: Senate Republicans Change Rules to Confirm Trump Nominees in Batches Without
-  Individual Scrutiny
+title: Senate Republicans Change Rules to Confirm Trump Nominees in Batches Without Individual Scrutiny
 importance: 9
 tags:
 - institutional-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.npr.org/2025/09/11/senate-republicans-nuclear-option-trump-confirmations
   title: Republicans Invoke 'Nuclear Option' for Mass Confirmations
-  publisher: NPR
   date: '2025-09-11'
   tier: 1
+  outlet: NPR
 actors:
 - John Thune
 - Senate Republicans

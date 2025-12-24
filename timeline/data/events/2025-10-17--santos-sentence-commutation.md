@@ -15,9 +15,9 @@ actors:
 sources:
 - url: https://www.cnn.com/2025/10/17/politics/george-santos-trump-commutation
   title: Trump commutes sentence of convicted fraudster George Santos
-  publisher: CNN
   date: '2025-10-17'
   tier: 1
+  outlet: CNN
 status: confirmed
 ---
 

@@ -7,12 +7,9 @@
 ## Haudenosaunee Confederacy: Pre-Constitutional Democratic Model
 *Date: 1142-01-01*
 
-1. [The Native American Roots of the U.S. Constitution](https://daily.jstor.org/the-native-american-roots-of-the-u-s-constitution/)
-2. [The United States Constitution and the Iroquois League]()
-3. [Exemplar of Liberty: Native America and the Evolution of Democracy]()
-4. [U.S. Senate Resolution Recognizing Iroquois Confederacy Influence](https://www.oneidaindiannation.com/fast-facts-democracy-and-the-haudenosaunee/)
-5. [American Indian Constitutions and Their Influence on the United States Constitution]()
-6. [The Indigenous Influence Theory of American Democracy]()
+1. [The Haudenosaunee Confederacy and the Constitution](https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/)
+2. [S.Con.Res.76 - Acknowledging the Contribution of the Iroquois Confederacy of Nations to the Development of the United States Constitution](https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/76)
+3. [How the Iroquois Great Law of Peace Shaped U.S. Democracy](https://www.pbs.org/native-america/blog/how-the-iroquois-great-law-of-peace-shaped-us-democracy)
 
 ## Iroquois Women: Political Power and Governance Roles
 *Date: 1600-01-01*
@@ -25,10 +22,10 @@
 ## Pre-Colonial Indigenous Democratic Governance Models
 *Date: 1600-01-01*
 
-1. [Traditional Democratic Innovations for Modern Governance](academic research compilation)
+1. [The Origins of Democracy in the Americas](https://franklin.uga.edu/news/stories/2022/origins-democracy-americas)
 2. [Keystone Institutions of Democratic Governance Across Indigenous North America](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.840049/full)
-3. [Deliberative Democracy and Historical Perspectives on American Indian/Alaska Native Political Decision-Making Practices](https://www.nature.com/articles/s41599-020-0506-4)
-4. [The Indigenous Roots of Representative Democracy](https://www.nber.org/system/files/working_papers/w21193/w21193.pdf)
+3. [The Indigenous Roots of Representative Democracy](https://www.nber.org/system/files/working_papers/w21193/w21193.pdf)
+4. [Indigenous Americans Ruled Democratically Long Before the U.S. Did](https://www.sciencenews.org/article/democracy-indigenous-americans-people-rule-muscogee)
 
 ## Haudenosaunee Great Law of Peace: Indigenous Democratic Foundation
 *Date: 1722-08-25*
@@ -52,6 +49,313 @@
 2. [How the Great Law of Peace Helped Shape New York and American Democracy](https://history.nycourts.gov/great-law-of-peace-shape-ny-american-democracy/)
 3. [The Native American Government That Helped Inspire the US Constitution](https://www.history.com/articles/iroquois-confederacy-influence-us-constitution)
 
+## Vanderbilt Consolidates New York Central Railroad - Creates First Giant Railroad System
+*Date: 1867-01-01*
+
+1. [Cornelius Vanderbilt and Railroads](https://narhf.org/cornelius-vanderbilt-and-railroads-the-empire-that-reshaped-american-industry/)
+2. [New York Central Railroad Company](https://www.britannica.com/money/New-York-Central-Railroad-Company)
+3. [Cornelius Vanderbilt - Wikipedia](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)
+
+## Erie War Escalates - Gould and Fisk Flee to Jersey with $7 Million in Watered Stock
+*Date: 1868-03-04*
+
+1. [Erie War - Wikipedia](https://en.wikipedia.org/wiki/Erie_War)
+2. [The Erie War - Corporate Conflict in the Gilded Age](https://www.u-s-history.com/pages/h874.html)
+3. [Jay Gould - Robber Baron, Railroad, & Net Worth](https://www.britannica.com/money/Jay-Gould)
+4. [Robber Barons - Gould and Fisk](https://blogs.loc.gov/inside_adams/2012/09/robber-barons-gould-and-fisk/)
+
+## Black Friday - Gould and Fisk Gold Corner Attempt Triggers Financial Panic
+*Date: 1869-09-24*
+
+1. [Jay Gould - Wikipedia](https://en.wikipedia.org/wiki/Jay_Gould)
+2. [Jay Gould - Biography, Robber Baron, Railroad, & Net Worth](https://www.britannica.com/money/Jay-Gould)
+3. [Robber Barons - Gould and Fisk](https://blogs.loc.gov/inside_adams/2012/09/robber-barons-gould-and-fisk/)
+
+## Standard Oil Company Incorporated in Ohio by John D. Rockefeller
+*Date: 1870-01-10*
+
+1. [Standard Oil Established - Library of Congress](https://guides.loc.gov/this-month-in-business-history/january/standard-oil-established)
+2. [Standard Oil - Wikipedia](https://en.wikipedia.org/wiki/Standard_Oil)
+3. [Standard Oil | History, Monopoly, & Breakup](https://www.britannica.com/money/Standard-Oil)
+4. [Rockefeller and the Standard Oil Monopoly](https://www.crf-usa.org/bill-of-rights-in-action/bria-16-2-b-rockefeller-and-the-standard-oil-monopoly.html)
+
+## Cleveland Massacre - Rockefeller Consolidates Oil Refining Monopoly in Six Weeks
+*Date: 1872-02-17*
+
+1. [The Cleveland Massacre](https://www.pbs.org/wgbh/americanexperience/features/rockefellers-south/)
+2. [History of Standard Oil - The Cleveland Massacre](https://moglen.law.columbia.edu/twiki/bin/view/AmLegalHist/TylerConwayProject)
+3. [The Cleveland Massacre - Standard Oil Makes First Attack](https://www.americanhistoryusa.com/cleveland-massacre-standard-oil-makes-first-attack/)
+4. [South Improvement Company - Wikipedia](https://en.wikipedia.org/wiki/South_Improvement_Company)
+
+## Carnegie Opens Edgar Thomson Steel Works - Introduces Bessemer Process at Scale
+*Date: 1875-01-01*
+
+1. [Andrew Carnegie and the Creation of U.S. Steel](https://billofrightsinstitute.org/essays/andrew-carnegie-and-the-creation-of-us-steel)
+2. [Carnegie Steel Company](https://www.britannica.com/money/Carnegie-Steel-Company)
+3. [Carnegie Steel - Wikipedia](https://en.wikipedia.org/wiki/Carnegie_Steel_Company)
+
+## Munn v. Illinois: Supreme Court Affirms State Power to Regulate Corporations
+*Date: 1877-03-01*
+
+1. [Munn v. Illinois, 94 U.S. 113 (1877)](https://www.law.cornell.edu/supremecourt/text/94/113)
+2. [Munn v. Illinois](https://www.oyez.org/cases/1850-1900/94us113)
+3. [Munn v. Illinois | Railroad Regulation, Property Rights & Due Process](https://www.britannica.com/event/Munn-v-Illinois)
+4. [Munn v. Illinois - Wikipedia](https://en.wikipedia.org/wiki/Munn_v._Illinois)
+
+## Black Thursday: Mass Execution of Molly Maguires Based on Pinkerton Infiltration
+*Date: 1877-06-21*
+
+1. [Molly Maguires](https://en.wikipedia.org/wiki/Molly_Maguires)
+2. [The Legend of the Molly Maguires](https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/legend-molly-maguires)
+3. [Molly Maguires Executed](https://www.irishcentral.com/roots/history/molly-maguires-executed)
+4. [Introduction - Molly Maguires](https://guides.loc.gov/chronicling-america-molly-maguires)
+
+## Great Railroad Strike of 1877: First National Strike Meets State Violence
+*Date: 1877-07-16*
+
+1. [The Start of the Great Railroad Strike of 1877](https://guides.loc.gov/this-month-in-business-history/july/great-railroad-strike-1877)
+2. [Great Railroad Strike of 1877](https://www.britannica.com/topic/Great-Railroad-Strike-of-1877)
+3. [The 1877 Strike That Brought US Railroads to a Standstill](https://www.history.com/articles/1877-railroad-strike-trains)
+4. [Great Railroad Strike of 1877](https://en.wikipedia.org/wiki/Great_Railroad_Strike_of_1877)
+
+## Standard Oil Attorney Develops Trust Legal Innovation to Circumvent Anti-Monopoly Laws
+*Date: 1879-01-01*
+
+1. [Trusts and the Origins of Antitrust Legislation](https://ir.lawnet.fordham.edu/flr/vol81/iss5/7/)
+2. [The Common Law Corporation - The Power of the Trust](https://columbialawreview.org/content/the-common-law-corporation-the-power-of-the-trust-in-anglo-american-business-history/)
+3. [Standard Oil - Wikipedia](https://en.wikipedia.org/wiki/Standard_Oil)
+4. [Trust (business) - Wikipedia](https://en.wikipedia.org/wiki/Trust_(business))
+
+## Standard Oil Trust Formed - First Modern Corporate Monopoly Structure
+*Date: 1882-01-02*
+
+1. [Standard Oil Trust is Organized](https://www.ebsco.com/research-starters/history/standard-oil-trust-organized)
+2. [Standard Oil Established - Library of Congress](https://guides.loc.gov/this-month-in-business-history/january/standard-oil-established)
+3. [January 2, 1882 - John D. Rockefeller Forms Standard Oil Trust](https://legallegacy.wordpress.com/2019/01/02/january-2-1882-john-d-rockefeller-forms-standard-oil-trust-first-sanctioned-monopoly-in-america/)
+4. [Standard Oil - Wikipedia](https://en.wikipedia.org/wiki/Standard_Oil)
+
+## Roscoe Conkling's Fraudulent Argument for Corporate Personhood in San Mateo County v. Southern Pacific
+*Date: 1882-12-19*
+
+1. [San Mateo County v. Southern Pacific R. Co., 116 U.S. 138 (1885)](https://supreme.justia.com/cases/federal/us/116/138/)
+2. [The History of Corporate Personhood](https://www.brennancenter.org/our-work/analysis-opinion/history-corporate-personhood)
+3. [The Long March of the Corporate Rights Movement](https://lareviewofbooks.org/article/the-long-march-of-the-corporate-rights-movement/)
+4. [Interpretation Of The Fourteenth Amendment Is Broadened](https://www.annenbergclassroom.org/timeline_event/interpretation-of-the-fourteenth-amendment-is-broadened/)
+
+## Railroad Commission Cases: State Regulation Affirmed with Corporate Property Rights Caveat
+*Date: 1886-03-25*
+
+1. [Railroad Commission Cases, 116 U.S. 307 (1886)](https://www.law.cornell.edu/supremecourt/text/116/307)
+2. [Railroad Commission Cases - Wikipedia](https://en.wikipedia.org/wiki/Railroad_Commission_Cases)
+3. [Reagan v. Farmers' Loan & Trust Co., 154 U.S. 362 (1894)](https://www.law.cornell.edu/supremecourt/text/154/362)
+
+## Santa Clara County v. Southern Pacific Railroad: The Corporate Personhood Precedent That Never Was
+*Date: 1886-05-10*
+
+1. [Santa Clara County v. Southern Pacific Railroad Co., 118 U.S. 394 (1886)](https://supreme.justia.com/cases/federal/us/118/394/)
+2. [Santa Clara County v. Southern Pacific Railroad Co. - Wikipedia](https://en.wikipedia.org/wiki/Santa_Clara_County_v._Southern_Pacific_Railroad_Co.)
+3. [The History of Corporate Personhood](https://www.brennancenter.org/our-work/analysis-opinion/history-corporate-personhood)
+4. [Corporate personhood, monopoly capital, and the precedent that wasn't: The 1886 Santa Clara case](https://www.liberationschool.org/corporate-personhood-monopoly-capital-and-the-precedent-that-wasnt-the-1866-santa-clara-case/)
+5. [What Is The Basis For Corporate Personhood?](https://www.npr.org/2011/10/24/141663195/what-is-the-basis-for-corporate-personhood)
+
+## Pembina Consolidated Silver Mining Co. v. Pennsylvania: Court Explicitly Affirms Corporate Personhood
+*Date: 1888-01-07*
+
+1. [Pembina Consolidated Silver Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)](https://supreme.justia.com/cases/federal/us/125/181/)
+2. [U.S. Reports: Pembina Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)](https://www.loc.gov/item/usrep125181/)
+3. [Pembina Consolidated Silver Mining & Milling Co. v. Commonwealth of Pennsylvania - Case Brief](https://www.quimbee.com/cases/pembina-consolidated-silver-mining-milling-co-v-commonwealth-of-pennsylvania)
+
+## Minneapolis & St. Louis Railway v. Beckwith: Corporate Personhood Doctrine Becomes Settled Law
+*Date: 1889-01-07*
+
+1. [Minneapolis & St. Louis Ry. Co. v. Beckwith, 129 U.S. 26 (1889)](https://supreme.justia.com/cases/federal/us/129/26/)
+2. [U.S. Reports: Minneapolis Railway Co. v. Beckwith, 129 U.S. 26 (1889)](https://www.loc.gov/item/usrep129026/)
+3. [Minneapolis & St. Louis Railway Company v. Beckwith](https://en.wikisource.org/wiki/Minneapolis_&_St._Louis_Railway_Company_v._Beckwith)
+
+## Company Towns and Debt Peonage: Corporate Control of Coal Mining Communities
+*Date: 1890-01-01*
+
+1. [Coal Company Scrip Paid to Miners Often Left Them Deep in Debt](https://rethinkq.adp.com/artifact-coal-company-scrip-miners/)
+2. [Company Towns: 1880s to 1935](https://socialwelfare.library.vcu.edu/programs/housing/company-towns-1890s-to-1935/)
+3. [Company Store](https://en.wikipedia.org/wiki/Company_store)
+
+## Sherman Antitrust Act Passed but Designed for Non-Enforcement Against Monopolies
+*Date: 1890-07-02*
+
+1. [Sherman Anti-Trust Act - National Archives](https://www.archives.gov/milestone-documents/sherman-anti-trust-act)
+2. [Sherman Anti-Trust Act Signed into Law - Library of Congress](https://guides.loc.gov/this-month-in-business-history/july/sherman-antitrust-act-enacted)
+3. [Sherman Antitrust Act - Wikipedia](https://en.wikipedia.org/wiki/Sherman_Antitrust_Act)
+4. [Sherman Antitrust Act](https://www.britannica.com/event/Sherman-Antitrust-Act)
+
+## Charlotte, Columbia and Augusta Railroad v. Gibbes: Corporate Personhood Reaffirmed
+*Date: 1892-01-04*
+
+1. [Charlotte, C. & A. R. Co. v. Gibbes, 142 U.S. 386 (1892)](https://supreme.justia.com/cases/federal/us/142/386/)
+2. [How the 14th Amendment Made Corporations Into People](https://www.history.com/articles/14th-amendment-corporate-personhood-made-corporations-into-people)
+
+## Carnegie Steel Company Formed Through Massive Vertical Integration Consolidation
+*Date: 1892-07-01*
+
+1. [Carnegie Steel Company](https://www.britannica.com/money/Carnegie-Steel-Company)
+2. [Andrew Carnegie and the Creation of U.S. Steel](https://billofrightsinstitute.org/essays/andrew-carnegie-and-the-creation-of-us-steel)
+3. [Carnegie Steel Company - Wikipedia](https://en.wikipedia.org/wiki/Carnegie_Steel_Company)
+
+## Homestead Strike: Carnegie Steel Deploys 300 Pinkertons Against Workers
+*Date: 1892-07-06*
+
+1. [1892 Homestead Strike](https://aflcio.org/about/history/labor-history-events/1892-homestead-strike)
+2. [Homestead Strike](https://www.britannica.com/event/Homestead-Strike)
+3. [Introduction - Homestead Strike](https://guides.loc.gov/chronicling-america-homestead-strike)
+4. [Homestead Strike - Summary, Causes & Impact](https://www.history.com/topics/industrial-revolution/homestead-strike)
+
+## Anti-Pinkerton Act: Congress Limits Private Armies After Homestead Violence
+*Date: 1893-07-01*
+
+1. [Anti-Pinkerton Act of 1893](https://en.wikipedia.org/wiki/Anti-Pinkerton_Act_of_1893)
+2. [Private Guards, Public Goods, and Political Violence](https://www.press.jhu.edu/newsroom/private-guards-public-goods-and-political-violence-or-lessons-end-gilded-age)
+3. [Interpretations of the Anti-Pinkerton Act](https://www.gao.gov/products/b-139965-1)
+
+## Pullman Strike: Federal Troops Deploy Against 125,000 Railway Workers
+*Date: 1894-05-11*
+
+1. [Pullman Strike](https://www.britannica.com/event/Pullman-Strike)
+2. [The Strike of 1894](https://www.nps.gov/pull/learn/historyculture/the-strike-of-1894.htm)
+3. [Social Welfare History Project - Jane Addams and the 1894 Pullman Strike](https://socialwelfare.library.vcu.edu/organizations/labor/jane-addams-and-the-1894-pullman-strike/)
+4. [Pullman Strike](https://en.wikipedia.org/wiki/Pullman_Strike)
+
+## J.P. Morgan Railroad Reorganizations Create Consolidated Monopoly Systems
+*Date: 1895-01-01*
+
+1. [J.P. Morgan - Wikipedia](https://en.wikipedia.org/wiki/J._P._Morgan)
+2. [J.P. Morgan - Biography & Facts](https://www.britannica.com/money/J-P-Morgan)
+3. [J.P. Morgan - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/encyclopedia/capitalism-and-labor/j-p-morgan/)
+4. [JP Morgan](https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtid=2&psid=3164)
+
+## In re Debs: Supreme Court Weaponizes Antitrust Law Against Labor
+*Date: 1895-05-27*
+
+1. [The Debs Case - Labor, Capital, and the Federal Courts of the 1890s](https://www.fjc.gov/sites/default/files/trials/debs.pdf)
+2. [In re Debs](https://www.britannica.com/money/In-re-Debs)
+3. [In re Debs](https://teachingamericanhistory.org/document/in-re-debs/)
+
+## Lattimer Massacre: Sheriff Deputies Kill 19 Unarmed Immigrant Miners
+*Date: 1897-09-10*
+
+1. [How a 1897 Massacre of Pennsylvania Coal Miners Morphed From a Galvanizing Crisis to Forgotten History](https://www.smithsonianmag.com/history/how-1897-massacre-pennsylvania-coal-miners-morphed-galvanizing-crisis-forgotten-history-180971695/)
+2. [Lattimer Massacre](https://en.wikipedia.org/wiki/Lattimer_massacre)
+3. [Sept. 10, 1897 - Lattimer Massacre](https://www.zinnedproject.org/news/tdih/lattimer-massacre/)
+4. [The Lattimer Tragedy of 1897](https://paheritage.wpengine.com/article/lattimer-tragedy-1897/)
+
+## U.S. Steel Corporation Formed - First Billion-Dollar Corporation in History
+*Date: 1901-02-25*
+
+1. [Morgan Assembles the World's Largest Corporation](https://www.ebsco.com/research-starters/history/morgan-assembles-worlds-largest-corporation)
+2. [The Founding of U.S. Steel and the Power of Public Opinion](https://www.library.hbs.edu/us-steel/exhibition/the-founding-of-u.s.-steel-and-the-power-of-public-opinion)
+3. [United States Steel Corporation - History & Facts](https://www.britannica.com/money/United-States-Steel-Corporation)
+4. [Carnegie Steel Company - Wikipedia](https://en.wikipedia.org/wiki/Carnegie_Steel_Company)
+
+## Roosevelt Announces Northern Securities Antitrust Suit Against J.P. Morgan Railroad Trust
+*Date: 1902-02-19*
+
+1. [Northern Securities Co. v. United States - Wikipedia](https://en.wikipedia.org/wiki/Northern_Securities_Co._v._United_States)
+2. [The Northern Securities Case - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/encyclopedia/capitalism-and-labor/northern-securities-case/)
+3. [Northern Securities Company v. United States (1904) - U.S. Conlawpedia](https://sites.gsu.edu/us-constipedia/northern-securities-co-v-united-states-1904/)
+
+## Justice Department Files Antitrust Suit Against Beef Trust Monopoly
+*Date: 1902-05-01*
+
+1. [Swift & Co. v. United States - Wikipedia](https://en.wikipedia.org/wiki/Swift_&_Co._v._United_States)
+2. [U.S. Supreme Court Upholds Prosecution of the Beef Trust - EBSCO Research](https://www.ebsco.com/research-starters/history/us-supreme-court-upholds-prosecution-beef-trust)
+3. [Beef Trust Cases - Encyclopedia.com](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/beef-trust-cases)
+
+## Anthracite Coal Strike Begins in Pennsylvania, 147,000 Miners Walk Out
+*Date: 1902-05-12*
+
+1. [Anthracite Coal Strike - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Capitalism-and-Labor/Anthracite-Coal-Strike)
+2. [Anthracite coal strike of 1902 - Wikipedia](https://en.wikipedia.org/wiki/Anthracite_coal_strike_of_1902)
+3. [The Coal Strike That Defined Theodore Roosevelt's Presidency - Smithsonian](https://www.smithsonianmag.com/history/when-roosevelt-and-jp-morgan-fixed-coal-mine-strike-180975311/)
+
+## Roosevelt Intervenes in Coal Strike as Neutral Arbitrator, Origins of Square Deal
+*Date: 1902-10-03*
+
+1. [Today in History - October 3 - Library of Congress](https://www.loc.gov/item/today-in-history/october-03/)
+2. [The Square Deal - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/encyclopedia/politics-and-government/square-deal/)
+3. [The Coal Strike of 1902 - Turning Point in U.S. Policy](https://www.dol.gov/general/aboutdol/history/coalstrike)
+
+## Roosevelt Creates Bureau of Corporations and Department of Commerce and Labor
+*Date: 1903-02-14*
+
+1. [Bureau of Corporations - Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Corporations)
+2. [Creation of the U.S. Department of Commerce and Labor - EBSCO Research](https://www.ebsco.com/research-starters/history/creation-us-department-commerce-and-labor)
+3. [An act to establish the Department of Commerce and Labor - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/digital-library/o40441/)
+
+## Roosevelt Signs Elkins Act Prohibiting Railroad Rebates and Price Discrimination
+*Date: 1903-02-19*
+
+1. [Elkins Act - Wikipedia](https://en.wikipedia.org/wiki/Elkins_Act)
+2. [The Elkins Act - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Capitalism-and-Labor/The-Elkins-Act)
+3. [Railroad Regulation Under the Elkins and Hepburn Acts](https://constitutionallawreporter.com/2016/06/09/railroad-regulation-under-the-elkins-and-hepburn-acts-2/)
+
+## Supreme Court Orders Northern Securities Dissolution in First Major Antitrust Victory
+*Date: 1904-03-14*
+
+1. [Northern Securities Co. v. United States - Wikipedia](https://en.wikipedia.org/wiki/Northern_Securities_Co._v._United_States)
+2. [The Northern Securities Case - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/encyclopedia/capitalism-and-labor/northern-securities-case/)
+3. [Northern Securities Co. v. United States - Justia](https://supreme.justia.com/cases/federal/us/193/197/)
+4. [Northern Securities Company v. United States (1904) - U.S. Conlawpedia](https://sites.gsu.edu/us-constipedia/northern-securities-co-v-united-states-1904/)
+
+## Supreme Court Rules Against Beef Trust, Establishes Stream of Commerce Doctrine
+*Date: 1905-01-30*
+
+1. [Swift & Co. v. United States - Wikipedia](https://en.wikipedia.org/wiki/Swift_&_Co._v._United_States)
+2. [U.S. Supreme Court Upholds Prosecution of the Beef Trust - EBSCO Research](https://www.ebsco.com/research-starters/history/us-supreme-court-upholds-prosecution-beef-trust)
+3. [Swift & Co. v. United States - Ballotpedia](https://ballotpedia.org/Swift_&_Co._v._United_States)
+
+## Roosevelt Signs Hepburn Act Creating First True Federal Regulatory Agency
+*Date: 1906-06-29*
+
+1. [Hepburn Rate Bill - National Archives](https://www.archives.gov/legislative/features/hepburn)
+2. [Hepburn Act - Wikipedia](https://en.wikipedia.org/wiki/Hepburn_Act)
+3. [The Hepburn Act - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Capitalism-and-Labor/The-Hepburn-Act)
+4. [Hepburn Act - Britannica](https://www.britannica.com/topic/Hepburn-Act)
+
+## Roosevelt Justice Department Files Antitrust Suit Against American Tobacco Trust
+*Date: 1907-07-19*
+
+1. [United States v. American Tobacco Co. - Wikipedia](https://en.wikipedia.org/wiki/United_States_v._American_Tobacco_Co.)
+2. [U.S. Supreme Court Breaks Up the American Tobacco Company - EBSCO Research](https://www.ebsco.com/research-starters/politics-and-government/us-supreme-court-breaks-american-tobacco-company)
+3. [Antitrust History - The American Tobacco Case of 1911](https://fee.org/articles/antitrust-history-the-american-tobacco-case-of-1911/)
+
+## Roosevelt Approves U.S. Steel Acquisition of Tennessee Coal & Iron During Panic, Exposing Reform Limits
+*Date: 1907-11-02*
+
+1. [Panic of 1907 - Wikipedia](https://en.wikipedia.org/wiki/Panic_of_1907)
+2. [Tennessee Coal, Iron and Railroad - Encyclopedia of Alabama](https://encyclopediaofalabama.org/article/tennessee-coal-iron-and-railroad-tci/)
+3. [J. P. Morgan - Theodore Roosevelt Center](https://www.theodorerooseveltcenter.org/encyclopedia/capitalism-and-labor/j-p-morgan/)
+
+## Roosevelt Leaves Office After 44 Antitrust Suits, Revealing Progressive Era Reform Limits
+*Date: 1909-03-04*
+
+1. [Presidency of Theodore Roosevelt - Wikipedia](https://en.wikipedia.org/wiki/Presidency_of_Theodore_Roosevelt)
+2. [Roosevelt and the Square Deal - Britannica](https://www.britannica.com/biography/Theodore-Roosevelt/The-Square-Deal)
+3. [Antitrust Lessons From the Presidency of Theodore Roosevelt - ProMarket](https://www.promarket.org/2021/07/18/biden-antitrust-roosevelt-mckinley-sherman-act/)
+
+## Supreme Court Establishes "Rule of Reason" Doctrine, Justice Harlan Warns It Will Emasculate Antitrust Law
+*Date: 1911-05-15*
+
+1. [Rule of reason - Wikipedia](https://en.wikipedia.org/wiki/Rule_of_reason)
+2. [Rule of reason and the Supreme Court | Research Starters | EBSCO](https://www.ebsco.com/research-starters/law/rule-reason-and-supreme-court)
+3. [Standard Oil Co. of New Jersey v. United States - Wikipedia](https://en.wikipedia.org/wiki/Standard_Oil_Co._of_New_Jersey_v._United_States)
+4. [Standard Oil v. United States 1911 | Encyclopedia.com](https://www.encyclopedia.com/law/legal-and-political-magazines/standard-oil-v-united-states-1911)
+
+## Standard Oil Breakup's Paradox - Rockefeller's Wealth Triples as Fragmented Companies Reconsolidate
+*Date: 1911-05-15*
+
+1. [Standard Oil Co. of New Jersey v. United States | 221 U.S. 1 (1911) | Justia](https://supreme.justia.com/cases/federal/us/221/1/)
+2. [Standard Oil Co. of New Jersey v. United States (1911) | Wex](https://www.law.cornell.edu/wex/standard_oil_co._of_new_jersey_v._united_states_(1911))
+3. [Standard Oil Co. of New Jersey v. United States - Wikipedia](https://en.wikipedia.org/wiki/Standard_Oil_Co._of_New_Jersey_v._United_States)
+4. [Standard Oil v. United States | Research Starters | EBSCO](https://www.ebsco.com/research-starters/law/standard-oil-co-v-united-states)
+
 ## Supreme Court Orders Standard Oil Breakup in Landmark Antitrust Decision
 *Date: 1911-05-15*
 
@@ -59,6 +363,32 @@
 2. [Standard Oil Co. of New Jersey v. United States (1911) | Wex](https://www.law.cornell.edu/wex/standard_oil_co._of_new_jersey_v._united_states_(1911))
 3. [Standard Oil Company v. United States](https://civics.supremecourthistory.org/article/standard-oil-company-v-united-states/)
 4. [Standard Oil Co. of New Jersey v. United States (1911)](https://sites.gsu.edu/us-constipedia/standard-oil-co-of-new-jersey-v-united-states-1911/)
+
+## Supreme Court Orders American Tobacco Breakup, Applying Rule of Reason to Tobacco Trust
+*Date: 1911-05-29*
+
+1. [United States v. American Tobacco Co. - Wikipedia](https://en.wikipedia.org/wiki/United_States_v._American_Tobacco_Co.)
+2. [United States v. American Tobacco Co. | 221 U.S. 106 (1911) | Justia](https://supreme.justia.com/cases/federal/us/221/106/)
+3. [United States v. American Tobacco Company | NCpedia](https://www.ncpedia.org/united-states-v-american-tobacco-co)
+4. [Antitrust History - The American Tobacco Case of 1911](https://fee.org/articles/antitrust-history-the-american-tobacco-case-of-1911/)
+5. [American Tobacco and the Legacy of the Antitrust Laws](https://www.investmentoffice.com/Observations/Markets_in_History/American_Tobacco_and_the_Legacy_of_the_Antitrust_Laws.html)
+
+## DuPont Powder Trust Ordered Dissolved, But Family Control and Geographic Proximity Limit Effectiveness
+*Date: 1912-06-13*
+
+1. [World War I Centennial - Breaking Up DuPont](https://www.mentalfloss.com/article/30916/world-war-i-centennial-breaking-dupont)
+2. [Hercules Inc. - Company History](https://www.company-histories.com/Hercules-Inc-Company-History.html)
+3. [Boom Times | Science History Institute](https://www.sciencehistory.org/stories/magazine/boom-times/)
+4. [Atlas Powder Company - Wikipedia](https://en.wikipedia.org/wiki/Atlas_Powder_Company)
+5. [Hercules Inc. - Wikipedia](https://en.wikipedia.org/wiki/Hercules_Inc.)
+
+## Ludlow Massacre: National Guard Burns Tent Colony, Killing 21 Including 11 Children
+*Date: 1914-04-20*
+
+1. [Ludlow Massacre](https://en.wikipedia.org/wiki/Ludlow_Massacre)
+2. [The Ludlow Massacre](https://www.pbs.org/wgbh/americanexperience/features/rockefellers-ludlow/)
+3. [Ludlow Massacre](https://www.britannica.com/event/Ludlow-Massacre)
+4. [Introduction - Ludlow Massacre](https://guides.loc.gov/chronicling-america-ludlow-massacre)
 
 ## Wilson Signs Federal Trade Commission Act, Creating Expert Antitrust Enforcement Agency
 *Date: 1914-09-26*
@@ -68,12 +398,209 @@
 3. [The Origins of the FTC: Concentration, Cooperation, Control, and Competition](https://www.ftc.gov/sites/default/files/attachments/federal-trade-commission-history/origins.pdf)
 4. [Federal Trade Commission Act (FTCA)](https://www.britannica.com/money/Federal-Trade-Commission-Act)
 
+## Hearst Newspaper Empire Reaches 28 Papers Controlling One in Four American Readers Through Yellow Journalism Tactics
+*Date: 1920-01-01*
+
+1. [William Randolph Hearst](https://en.wikipedia.org/wiki/William_Randolph_Hearst)
+2. [William Randolph Hearst](https://www.britannica.com/money/William-Randolph-Hearst)
+3. [Newspapers in the 1920s & 1930s](https://guides.library.illinois.edu/adventures/industry)
+4. [The Hearst Corp](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/hearst-corp)
+
+## Supreme Court Dismisses U.S. Steel Antitrust Case, Ruling Size Alone Not Illegal - Enforcement Ends Until 1945
+*Date: 1920-03-01*
+
+1. [United States v. United States Steel Corp. | 251 U.S. 417 (1920) | Justia](https://supreme.justia.com/cases/federal/us/251/417/)
+2. [United States v. United States Steel Corporation | Research Starters | EBSCO](https://www.ebsco.com/research-starters/law/united-states-v-united-states-steel-corporation)
+3. [Standard Oil and U.S. Steel - Predation and Collusion | University of Florida](https://scholarship.law.ufl.edu/facultypub/260/)
+4. [UNITED STATES v. UNITED STATES STEEL CORPORATION | Cornell Law](https://www.law.cornell.edu/supremecourt/text/251/417)
+
+## Harding Transfers Naval Oil Reserves to Interior Department
+*Date: 1921-05-31*
+
+1. [U.S. Senate - 100 Years Since Teapot Dome](https://www.senate.gov/artandhistory/senate-stories/one-hundred-years-since-teapot-dome.htm)
+2. [Britannica - Teapot Dome Scandal](https://www.britannica.com/event/Teapot-Dome-Scandal)
+3. [History.com - Teapot Dome Scandal](https://www.history.com/articles/teapot-dome-scandal)
+
+## Interior Secretary Albert Fall Receives $100,000 Cash Bribe from Edward Doheny
+*Date: 1921-11-30*
+
+1. [U.S. Senate - Senate Investigates the Teapot Dome Scandal](https://www.senate.gov/about/powers-procedures/investigations/senate-investigates-the-teapot-dome-scandal.htm)
+2. [Wikipedia - Teapot Dome Scandal](https://en.wikipedia.org/wiki/Teapot_Dome_scandal)
+3. [Britannica - Albert Bacon Fall](https://www.britannica.com/biography/Albert-Bacon-Fall)
+
+## Albert Fall Secretly Grants Teapot Dome Oil Reserve to Harry Sinclair Without Competitive Bidding
+*Date: 1922-04-07*
+
+1. [U.S. Senate - 100 Years Since Teapot Dome](https://www.senate.gov/artandhistory/senate-stories/one-hundred-years-since-teapot-dome.htm)
+2. [Teach Democracy - The Teapot Dome Scandal](https://teachdemocracy.org/online-lessons/bill-of-rights-in-action/bria-24-4-a)
+3. [History.com - Teapot Dome Scandal](https://www.history.com/articles/teapot-dome-scandal)
+
+## Senate Initiates Investigation of Teapot Dome Secret Oil Leases
+*Date: 1922-04-15*
+
+1. [U.S. Senate - Senate Investigates the Teapot Dome Scandal](https://www.senate.gov/about/powers-procedures/investigations/senate-investigates-the-teapot-dome-scandal.htm)
+2. [Teach Democracy - The Teapot Dome Scandal](https://www.crf-usa.org/bill-of-rights-in-action/bria-24-4-the-teapot-dome-scandal.html)
+3. [Academic Brooklyn - Teapot Dome Summary](https://academic.brooklyn.cuny.edu/history/johnson/teapotdome.htm)
+
+## Scripps-McRae League Renamed Scripps-Howard as Second-Largest Newspaper Chain Consolidates Power
+*Date: 1922-11-01*
+
+1. [E. W. Scripps Company](https://en.wikipedia.org/wiki/E._W._Scripps_Company)
+2. [The E.W. Scripps Company](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/ew-scripps-company)
+3. [History of The E.W. Scripps Company](https://www.fundinguniverse.com/company-histories/the-e-w-scripps-company-history/)
+4. [E.W. Scripps History - 1878 to Present](https://scripps.com/company/history/)
+
+## Senate Public Lands Committee Begins Teapot Dome Hearings Under Thomas Walsh
+*Date: 1923-10-15*
+
+1. [U.S. Senate - Thomas J. Walsh Featured Biography](https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Walsh.htm)
+2. [Levin Center - Senator Walsh and the Teapot Dome Investigation](https://levin-center.org/senator-walsh-and-the-teapot-dome-investigation/)
+3. [U.S. Senate - 100 Years Since Teapot Dome](https://www.senate.gov/artandhistory/senate-stories/one-hundred-years-since-teapot-dome.htm)
+
+## Radio Act of 1927 Establishes Public Ownership of Airwaves and "Public Interest" Broadcasting Standard
+*Date: 1927-02-23*
+
+1. [Radio Act of 1927 [established the Federal Radio Commission]](https://www.fcc.gov/document/radio-act-1927-established-federal-radio-commission)
+2. [Radio Act of 1927](https://en.wikipedia.org/wiki/Radio_Act_of_1927)
+3. [Anniversary of the Radio Act of 1927, The Beginning of Broadcast Regulation](https://blogs.loc.gov/law/2016/02/anniversary-of-the-radio-act-of-1927-the-beginning-of-broadcast-regulation/)
+4. [Radio Act of 1927 (1927)](https://firstamendment.mtsu.edu/article/radio-act-of-1927/)
+
+## Albert Fall Convicted of Bribery - First Cabinet Member Imprisoned for Crimes in Office
+*Date: 1929-10-25*
+
+1. [History.com - Cabinet Member Found Guilty in Teapot Dome Scandal](https://www.history.com/this-day-in-history/cabinet-member-guilty-in-teapot-dome-scandal)
+2. [Wikipedia - Albert B. Fall](https://en.wikipedia.org/wiki/Albert_B._Fall)
+3. [UPI - Interior Secretary Albert Fall Found Guilty in Teapot Dome Scandal](https://www.upi.com/amp/Top_News/2020/10/25/On-This-Day-Interior-Secretary-Fall-found-guilty-in-Teapot-Dome-scandal/4771603466234)
+
+## Albert Fall Enters Prison as First Cabinet Member Incarcerated for Felony Crimes
+*Date: 1931-07-20*
+
+1. [El Palacio - Albert Fall](https://elpalacio.org/2012/03/albert-fall/)
+2. [New Mexico History - Senator Albert Bacon Fall](https://newmexicohistoryblog.wordpress.com/2019/07/16/albert-fall/)
+3. [Wikipedia - Albert B. Fall](https://en.wikipedia.org/wiki/Albert_B._Fall)
+
+## Senate Banking Committee Launches Investigation into Wall Street Crash
+*Date: 1932-03-02*
+
+1. [U.S. Senate - Subcommittee on Senate Resolutions 84 and 234](https://www.senate.gov/about/powers-procedures/investigations/pecora.htm)
+2. [Pecora Commission - Wikipedia](https://en.wikipedia.org/wiki/Pecora_Commission)
+3. [Ferdinand Pecora and the 1929 Stock Market Crash](https://levin-center.org/ferdinand-pecora-and-the-1929-stock-market-crash/)
+
+## Ferdinand Pecora Appointed Chief Counsel to Senate Banking Investigation
+*Date: 1933-01-15*
+
+1. [U.S. Senate - Subcommittee on Senate Resolutions 84 and 234](https://www.senate.gov/about/powers-procedures/investigations/pecora.htm)
+2. [The Man Who Busted the 'Banksters'](https://www.smithsonianmag.com/history/the-man-who-busted-the-banksters-932416/)
+3. [Ferdinand Pecora and the 1929 Stock Market Crash](https://levin-center.org/ferdinand-pecora-and-the-1929-stock-market-crash/)
+
+## Charles Mitchell Testifies Before Pecora Commission, Resigns in Disgrace
+*Date: 1933-02-21*
+
+1. [U.S. Senate - Subcommittee on Senate Resolutions 84 and 234](https://www.senate.gov/about/powers-procedures/investigations/pecora.htm)
+2. [Charles E. Mitchell - Wikipedia](https://en.wikipedia.org/wiki/Charles_E._Mitchell)
+3. [The Man Who Busted the 'Banksters'](https://www.smithsonianmag.com/history/the-man-who-busted-the-banksters-932416/)
+4. [U.S. Senate - Subpoena of Charles Mitchell](https://www.senate.gov/artandhistory/history/common/investigations/image/Pecora_MitchellSubpoena_display.htm)
+
+## Pecora Commission Exposes Albert Wiggin's Short Selling of Chase Bank Stock
+*Date: 1933-05-23*
+
+1. [Albert H. Wiggin - Wikipedia](https://en.wikipedia.org/wiki/Albert_H._Wiggin)
+2. [Ferdinand Pecora and the 1929 Stock Market Crash](https://levin-center.org/ferdinand-pecora-and-the-1929-stock-market-crash/)
+3. [Fair To All People - The SEC and the Regulation of Insider Trading](https://www.sechistorical.org/museum/galleries/it/fullDisclosure_a.php)
+
+## J.P. Morgan Jr. Testifies, Preferred List and Tax Evasion Exposed
+*Date: 1933-05-24*
+
+1. [Pecora Commission - Wikipedia](https://en.wikipedia.org/wiki/Pecora_Commission)
+2. [The Man Who Busted the 'Banksters'](https://www.smithsonianmag.com/history/the-man-who-busted-the-banksters-932416/)
+3. [Tax History Project - Pecora Hearings Spark Tax Morality Debate](http://www.taxhistory.org/thp/readings.nsf/ArtWeb/F04F120607F66E2685256DFE005981FC)
+4. [Ferdinand Pecora, Chairman Duncan Fletcher, and Witness J.P. Morgan Jr.](https://docsteach.org/documents/document/ferdinand-pecora-chairman-duncan-fletcher-and-witness-j-p-morgan-jr-during-a-break-at-the-senate-banking-committee-hearings)
+
+## Securities Act of 1933 Enacted, Requiring Truth in Securities Sales
+*Date: 1933-05-27*
+
+1. [Securities Act of 1933 - Wikipedia](https://en.wikipedia.org/wiki/Securities_Act_of_1933)
+2. [Signing of the Securities Exchange Act of 1934](https://guides.loc.gov/this-month-in-business-history/june/signing-securities-exchange-act-1934)
+3. [Pecora Commission - Wikipedia](https://en.wikipedia.org/wiki/Pecora_Commission)
+4. [U.S. Senate - Subcommittee on Senate Resolutions 84 and 234](https://www.senate.gov/about/powers-procedures/investigations/pecora.htm)
+
+## Securities Act of 1933 Establishes Federal Securities Regulation
+*Date: 1933-05-27*
+
+1. [Securities Act of 1933](https://www.sechistorical.org/museum/galleries/kennedy/politicians_b.php)
+2. [Securities Act of 1933 - Full Text](https://fraser.stlouisfed.org/title/securities-act-1933-5878)
+3. [Securities Act of 1933](https://en.wikipedia.org/wiki/Securities_Act_of_1933)
+4. [The Securities Act of 1933](https://www.sec.gov/newsroom/videos/securities-act-1933)
+
+## Glass-Steagall Act Separates Commercial and Investment Banking
+*Date: 1933-06-16*
+
+1. [H.R. 5661, Banking Act of 1933 (Glass-Steagall Act)](https://www.visitthecapitol.gov/artifact/hr-5661-banking-act-1933-glass-steagall-act-june-13-1933)
+2. [Banking Act of 1933 (Glass-Steagall)](https://www.federalreservehistory.org/essays/glass-steagall-act)
+3. [Glass-Steagall Act](https://www.history.com/topics/great-depression/glass-steagall-act)
+4. [Pecora Commission - Wikipedia](https://en.wikipedia.org/wiki/Pecora_Commission)
+
+## Glass-Steagall Act Separates Commercial and Investment Banking
+*Date: 1933-06-16*
+
+1. [Banking Act of 1933 (Glass-Steagall)](https://www.federalreservehistory.org/essays/glass-steagall-act)
+2. [The Glass-Steagall Act - A Legal and Policy Analysis](https://www.congress.gov/crs-product/R44349)
+3. [Banking Act of 1933 (Glass-Steagall Act)](https://fraser.stlouisfed.org/title/banking-act-1933-glass-steagall-act-991)
+4. [Glass-Steagall Act](https://www.history.com/topics/great-depression/glass-steagall-act)
+
+## Securities Exchange Act Creates SEC, Regulates Secondary Markets
+*Date: 1934-06-06*
+
+1. [Signing of the Securities Exchange Act of 1934](https://guides.loc.gov/this-month-in-business-history/june/signing-securities-exchange-act-1934)
+2. [431 Days - Joseph P. Kennedy and the Creation of the SEC](https://www.sechistorical.org/museum/galleries/kennedy/)
+3. [Securities Exchange Act of 1934](https://en.wikipedia.org/wiki/Securities_Exchange_Act_of_1934)
+4. [United States Securities and Exchange Commission](https://en.wikipedia.org/wiki/United_States_Securities_and_Exchange_Commission)
+
+## Securities Exchange Act Creates SEC, Ferdinand Pecora Appointed Commissioner
+*Date: 1934-06-06*
+
+1. [Signing of the Securities Exchange Act of 1934](https://guides.loc.gov/this-month-in-business-history/june/signing-securities-exchange-act-1934)
+2. [U.S. Senate - Subcommittee on Senate Resolutions 84 and 234](https://www.senate.gov/about/powers-procedures/investigations/pecora.htm)
+3. [Securities and Exchange Commission - SEC, Definition & Purpose](https://www.history.com/topics/us-government-and-politics/securities-and-exchange-commission)
+4. [Ferdinand Pecora - Wikipedia](https://en.wikipedia.org/wiki/Ferdinand_Pecora)
+
+## Pecora Commission Issues Final Report on Wall Street Corruption
+*Date: 1934-06-16*
+
+1. [U.S. Senate - Subcommittee on Senate Resolutions 84 and 234](https://www.senate.gov/about/powers-procedures/investigations/pecora.htm)
+2. [Pecora Commission - Wikipedia](https://en.wikipedia.org/wiki/Pecora_Commission)
+3. [Congress Investigates - The Senate Investigation of the Stock Exchange](https://www.archives.gov/legislative/resources/education/pecora)
+
+## Communications Act of 1934 Creates FCC and Consolidates Federal Media Regulation Under Public Interest Standard
+*Date: 1934-06-19*
+
+1. [Communications Act of 1934](https://en.wikipedia.org/wiki/Communications_Act_of_1934)
+2. [Communications Act of 1934](https://www.britannica.com/event/Communications-Act-of-1934)
+3. [Communications Act of 1934](https://firstamendment.mtsu.edu/article/communications-act-of-1934/)
+4. [Communications Act of 1934 (Full Text)](https://transition.fcc.gov/Reports/1934new.pdf)
+
 ## Wagner Act Establishes Federal Protection for Union Rights and Collective Bargaining
 *Date: 1935-07-05*
 
 1. [1935 Passage of the Wagner Act](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1935-passage-of-the-wagner-act)
 2. [National Labor Relations Act of 1935](https://www.archives.gov/milestone-documents/national-labor-relations-act)
 3. [FDR and the Wagner Act](https://www.fdrlibrary.org/wagner-act)
+
+## Public Utility Holding Company Act Breaks Up Utility Monopolies
+*Date: 1935-08-26*
+
+1. [Public Utility Holding Company Act of 1935](https://en.wikipedia.org/wiki/Public_Utility_Holding_Company_Act_of_1935)
+2. [Repeal of PUHCA 1935 and Enactment of PUHCA 2005](https://www.federalregister.gov/documents/2005/12/20/05-24116/repeal-of-the-public-utility-holding-company-act-of-1935-and-enactment-of-the-public-utility-holding)
+3. [The Repeal of PUHCA 1935 and Its Impact](https://www.everycrsreport.com/reports/RL33739.html)
+4. [Public Utility Holding Company Act of 1935 - 1935-1992](https://www.eia.gov/electricity/pdfpages/puhca/index.php)
+
+## Revenue Act of 1935 Enacts "Wealth Tax" on Highest Incomes
+*Date: 1935-08-30*
+
+1. [Revenue Act of 1935](https://en.wikipedia.org/wiki/Revenue_Act_of_1935)
+2. [The Wealth Tax of 1935 and the Victory Tax of 1942](https://apps.irs.gov/app/understandingTaxes/teacher/whys_thm02_les05.jsp)
+3. [1935 Wealth Tax Act](https://spartacus-educational.com/USAwealthT.htm)
+4. [Revenue Acts](https://www.ebsco.com/research-starters/history/revenue-acts)
 
 ## Robinson-Patman Act Prohibits Price Discrimination to Protect Small Retailers from Chain Store Power
 *Date: 1936-06-19*
@@ -83,12 +610,56 @@
 3. [FTC Revives Enforcement of the Robinson-Patman Act](https://www.congress.gov/crs-product/LSB11257)
 4. [Price Discrimination: Robinson-Patman Violations](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/price-discrimination-robinson-patman-violations)
 
+## FCC Establishes Television Ownership Limit of Three Stations to Prevent Media Monopoly Concentration
+*Date: 1941-05-06*
+
+1. [Review of the Commission's Broadcast Ownership Rules](https://docs.fcc.gov/public/attachments/DOC-347796A2.pdf)
+2. [Federal Register - National Television Multiple Ownership Rule](https://www.federalregister.gov/documents/2018/01/26/2018-01404/national-television-multiple-ownership-rule)
+3. [The FCC's Multiple Ownership Rules and National Audience Reach Cap](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=2892&context=dlr)
+
+## Aaron Director Launches Free Market Study at Chicago Law School with Volker Fund Financing
+*Date: 1946-01-01*
+
+1. [Corporations and the Rise of the Chicago Law and Economics Movement](https://www.promarket.org/2020/01/15/corporations-and-the-rise-of-the-chicago-law-and-economics-movement/)
+2. [Aaron Director - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Director)
+3. [Did Corporations Fund the Rise of Law and Economics in the 1940s and 1950s?](https://reason.com/volokh/2020/01/23/did-corporations-fund-the-rise-of-law-and-economics-in-the-1940s-and-1950s/)
+4. [Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust](https://www.promarket.org/2019/10/07/aaron-director-and-the-empirical-foundation-for-the-chicago-attitude-on-antitrust/)
+
+## Mont Pelerin Society Founded with Volker Fund Support, Launching International Free-Market Network
+*Date: 1947-04-10*
+
+1. [Mont Pelerin Society - Wikipedia](https://en.wikipedia.org/wiki/Mont_Pelerin_Society)
+2. [William Volker Fund](https://www.philanthropyroundtable.org/almanac/volker-bolsters-economic-liberty/)
+3. [The Mont Pelerin Society's 50th Anniversary](https://fee.org/articles/the-mont-pelerin-societys-50th-anniversary/)
+
 ## Taft-Hartley Act Severely Restricts Union Power, Enables State Right-to-Work Laws
 *Date: 1947-06-23*
 
 1. [1947 Taft-Hartley Substantive Provisions](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-substantive-provisions)
 2. [Taft-Hartley Act Wikipedia](https://en.wikipedia.org/wiki/Taft–Hartley_Act)
 3. [Labor Management Relations Act of 1947 (Taft-Hartley Act)](https://www.influencewatch.org/legislation/labor-management-relations-act-of-1947-taft-hartley-act/)
+
+## FCC Establishes Fairness Doctrine Requiring Broadcasters to Present Balanced Coverage of Controversial Issues
+*Date: 1949-06-01*
+
+1. [Fairness doctrine](https://en.wikipedia.org/wiki/Fairness_doctrine)
+2. [Fairness doctrine](https://www.britannica.com/topic/Fairness-Doctrine)
+3. [Fairness Doctrine](https://docs.fcc.gov/public/attachments/FCC-87-266A1.pdf)
+4. [Rosel H. Hyde Article on the FCC Fairness Doctrine](https://lawreview.syr.edu/about/history/rosel-h-hyde-article-on-the-fcc-fairness-doctrine/)
+
+## National Association of Manufacturers Launches Industry on Parade Television Series
+*Date: 1950-01-01*
+
+1. [Industry on Parade - Wikipedia](https://en.wikipedia.org/wiki/Industry_on_Parade)
+2. [Industry on Parade: a NAM Television Series](https://www.hagley.org/research/programs/nam-project-news/industry-parade-nam-television-series)
+3. [National Association of Manufacturers - Wikipedia](https://en.wikipedia.org/wiki/National_Association_of_Manufacturers)
+
+## NSC-68 Directive Creates Permanent Military-Industrial Establishment - Defense Spending to Triple
+*Date: 1950-04-07*
+
+1. [NSC-68, 1950](https://history.state.gov/milestones/1945-1952/NSC68)
+2. [NSC 68](https://en.wikipedia.org/wiki/NSC_68)
+3. [United States Objectives and Programs for National Security (NSC 68)](https://teachingamericanhistory.org/document/nsc-68-united-states-objectives-and-programs-for-national-security/)
 
 ## Celler-Kefauver Act Closes Merger Loopholes, Strengthens Government Power to Block Anticompetitive Consolidation
 *Date: 1950-12-29*
@@ -97,6 +668,27 @@
 2. [Celler-Kefauver Act | Definition & History](https://www.britannica.com/topic/Celler-Kefauver-Act)
 3. [Celler-Kefauver Act - Overview, History, and Impact](https://corporatefinanceinstitute.com/resources/wealth-management/celler-kefauver-act/)
 4. [The 100 Year Evolution of the Clayton Act](https://www.justice.gov/atr/file/517721/dl)
+
+## Aaron Director Launches Antitrust Project to Restructure American Competition Law
+*Date: 1953-01-01*
+
+1. [Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust](https://www.promarket.org/2019/10/07/aaron-director-and-the-empirical-foundation-for-the-chicago-attitude-on-antitrust/)
+2. [Aaron Director - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Director)
+3. [Corporations and the Rise of the Chicago Law and Economics Movement](https://www.promarket.org/2020/01/15/corporations-and-the-rise-of-the-chicago-law-and-economics-movement/)
+
+## FCC Adopts Seven-Station Rule Limiting Broadcast Ownership to Prevent Media Monopoly and Ensure Viewpoint Diversity
+*Date: 1953-01-01*
+
+1. [FCC ends 'seven-station' rule](https://www.upi.com/Archives/1984/07/26/FCC-ends-seven-station-rule/3182459662400/)
+2. [Review of the Commission's Broadcast Ownership Rules](https://docs.fcc.gov/public/attachments/DOC-347796A2.pdf)
+3. [The FCC's Multiple Ownership Rules and National Audience Reach Cap](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=2892&context=dlr)
+
+## John M. Olin Founds Foundation That Will Become Major Conservative Philanthropy Vehicle
+*Date: 1953-01-01*
+
+1. [John M. Olin Foundation - Wikipedia](https://en.wikipedia.org/wiki/John_M._Olin_Foundation)
+2. [John Olin](https://www.philanthropyroundtable.org/almanac/people/hall-of-fame/detail/john-olin)
+3. [John M. Olin Foundation (1953–2005)](https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/)
 
 ## Roy Cohn Establishes Blackmail and Intimidation Network
 *Date: 1953-02-09*
@@ -113,11 +705,40 @@
 2. [The Search for the Manchurian Candidate](https://www.cia.gov/readingroom/document/search-manchurian-candidate)
 3. [CIA Behavior Control Experiments Collection](https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments)
 
+## Eisenhower's "Chance for Peace" Speech - Every Gun Made Is a Theft From Those Who Hunger
+*Date: 1953-04-16*
+
+1. [Address "The Chance for Peace" Delivered Before the American Society of Newspaper Editors](https://www.presidency.ucsb.edu/documents/address-the-chance-for-peace-delivered-before-the-american-society-newspaper-editors)
+2. [Chance for Peace speech](https://en.wikipedia.org/wiki/Chance_for_Peace_speech)
+3. [Why Eisenhower's "Chance for Peace" Address Still Matters](https://quincyinst.org/2023/04/19/why-eisenhowers-chance-for-peace-address-still-matters/)
+
+## Eisenhower Approves New Look Defense Policy - Cuts Military Budget by One-Third Despite Pentagon Resistance
+*Date: 1953-10-30*
+
+1. [New Look (policy)](https://en.wikipedia.org/wiki/New_Look_(policy))
+2. [Yes We Can - How Eisenhower Wrestled Down the U.S. Warfare State](https://www.theglobalist.com/yes-we-can-how-eisenhower-wrestled-down-the-u-s-warfare-state/)
+3. [Dwight D. Eisenhower - Foreign Affairs](https://millercenter.org/president/eisenhower/foreign-affairs)
+
 ## Union Membership Reaches Peak of 35% of Workforce, Enabling Shared Prosperity
 *Date: 1954-01-01*
 
 1. [Union Membership in the United States Spotlight](https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm)
 2. [Union Membership Rate U.S.](https://www.statista.com/statistics/195349/union-membership-rate-of-employees-in-the-us-since-2000/)
+
+## William Baroody Joins American Enterprise Institute, Launching Major Conservative Think Tank Expansion
+*Date: 1954-01-01*
+
+1. [American Enterprise Institute - Wikipedia](https://en.wikipedia.org/wiki/American_Enterprise_Institute)
+2. [AEI Guards Free Enterprise](https://www.philanthropyroundtable.org/almanac/aei-guards-free-enterprise/)
+3. [American Enterprise Institute - SourceWatch](https://www.sourcewatch.org/index.php/American_Enterprise_Institute)
+
+## White Citizens' Councils Founded With Business Elite Backing to Resist Integration
+*Date: 1954-07-11*
+
+1. [On Jul 11, 1954 First White Citizens' Council Forms to Oppose School Integration](https://calendar.eji.org/racial-injustice/jul/11)
+2. [Citizens' Councils](https://mississippiencyclopedia.org/entries/citizens-councils/)
+3. [White Citizens' Councils (WCC)](https://kinginstitute.stanford.edu/white-citizens-councils-wcc)
+4. [White Citizens' Councils](https://www.pbs.org/wgbh/americanexperience/features/emmett-citizens-council/)
 
 ## National Right to Work Committee Founded to Coordinate Anti-Union Corporate Lobbying
 *Date: 1955-01-01*
@@ -126,12 +747,75 @@
 2. [Who Is Behind the National Right to Work Committee and its Anti-Union Crusade](https://progressive.org/latest/behind-national-right-work-committee-anti-union-crusade/)
 3. [National Right to Work Committee SourceWatch](https://www.sourcewatch.org/index.php/National_Right_to_Work_Committee)
 
+## Southern Manifesto Signed by 101 Congressmen Pledging Resistance to School Integration
+*Date: 1956-03-12*
+
+1. [The Southern Manifesto of 1956](https://history.house.gov/Historical-Highlights/1951-2000/The-Southern-Manifesto-of-1956/)
+2. [Southern Manifesto](https://teachingamericanhistory.org/document/southern-manifesto/)
+3. [Southern congressmen pledge to resist Brown decision](https://kinginstitute.stanford.edu/southern-congressmen-pledge-resist-brown-decision)
+4. [The Southern Manifesto March 12 1956](https://www.crmvet.org/docs/560312_southern_manifesto.pdf)
+
+## Mississippi Creates State Sovereignty Commission for Civil Rights Surveillance and Segregationist Funding
+*Date: 1956-03-29*
+
+1. [Mississippi State Sovereignty Commission](https://da.mdah.ms.gov/sovcom/scagencycasehistory.php)
+2. [Mississippi State Sovereignty Commission](https://mississippiencyclopedia.org/entries/mississippi-state-sovereignty-commission/)
+3. [The Mississippi State Sovereignty Commission An Agency History](https://www.mshistorynow.mdah.ms.gov/issue/mississippi-sovereignty-commission-an-agency-history)
+
+## Virginia Enacts Massive Resistance Laws Authorizing School Closures to Prevent Integration
+*Date: 1956-09-21*
+
+1. [Massive Resistance](https://encyclopediavirginia.org/entries/massive-resistance/)
+2. [The State Responds Massive Resistance](https://old.lva.virginia.gov/exhibits/brown/resistance.htm)
+3. [Massive Resistance](https://virginiahistory.org/learn/civil-rights-movement-virginia/massive-resistance)
+
+## Aaron Director Founds Journal of Law and Economics, Institutionalizing Corporate-Friendly Legal Scholarship
+*Date: 1958-01-01*
+
+1. [The Journal of Law and Economics - Wikipedia](https://en.wikipedia.org/wiki/The_Journal_of_Law_and_Economics)
+2. [Ronald H. Coase, Founding Scholar in Law and Economics, 1910-2013](https://www.law.uchicago.edu/news/ronald-h-coase-founding-scholar-law-and-economics-1910-2013)
+3. [Aaron Director - Wikipedia](https://en.wikipedia.org/wiki/Aaron_Director)
+
+## Prince Edward County Virginia Closes All Public Schools for Five Years Rather Than Integrate
+*Date: 1959-06-02*
+
+1. [Massive Resistance in a Small Town](https://www.neh.gov/humanities/2013/septemberoctober/feature/massive-resistance-in-small-town)
+2. [Massive Resistance](https://encyclopediavirginia.org/entries/massive-resistance/)
+3. [Feb 2 1959 The Norfolk 17 Attend Formerly All-White Schools](https://www.zinnedproject.org/news/tdih/norfolk-17-attend-formerly-all-white-schools)
+
 ## Landrum-Griffin Act Imposes Federal Restrictions on Union Internal Operations
 *Date: 1959-09-14*
 
 1. [1959 Landrum-Griffin Act](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1959-landrum-griffin-act)
 2. [Labor Management Reporting and Disclosure Act of 1959 Wikipedia](https://en.wikipedia.org/wiki/Labor_Management_Reporting_and_Disclosure_Act_of_1959)
 3. [Landrum-Griffin Act of 1959](https://www.ebsco.com/research-starters/history/landrum-griffin-act-1959)
+
+## Congressional Report Finds 1,400 Retired Military Officers Employed by Top Defense Contractors
+*Date: 1960-01-18*
+
+1. [The 'Military Lobby' – its Impact on Congress, Nation](https://library.cqpress.com/cqalmanac/document.php?id=cqal63-1317449)
+2. [Eisenhower's farewell addresses - A speechwriter remembers](https://www.brookings.edu/articles/eisenhowers-farewell-addresses-a-speechwriter-remembers/)
+
+## AMA Launches Operation Coffee Cup with Ronald Reagan Recording Against Medicare
+*Date: 1961-01-01*
+
+1. [Operation Coffee Cup - Wikipedia](https://en.wikipedia.org/wiki/Operation_Coffee_Cup)
+2. [Ronald Reagan Speaks Out Against Socialized Medicine - Wikipedia](https://en.wikipedia.org/wiki/Ronald_Reagan_Speaks_Out_Against_Socialized_Medicine)
+3. [How Operation Coffee Cup undermined US universal healthcare](https://www.rte.ie/brainstorm/2020/1020/1172670-operation-coffee-cup-socialized-medicine-ronald-reagan-donald-trump-joe-biden-united-states/)
+
+## President Eisenhower's Farewell Address Warns Against Military-Industrial Complex
+*Date: 1961-01-17*
+
+1. [President Dwight D. Eisenhower's Farewell Address (1961)](https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address)
+2. [Farewell Address](https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address)
+3. [Dwight D. Eisenhower's farewell address](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower%27s_farewell_address)
+4. [Eisenhower's farewell addresses - A speechwriter remembers](https://www.brookings.edu/articles/eisenhowers-farewell-addresses-a-speechwriter-remembers/)
+
+## American Enterprise Association Renames Itself American Enterprise Institute Under Baroody Presidency
+*Date: 1962-01-01*
+
+1. [American Enterprise Institute - Wikipedia](https://en.wikipedia.org/wiki/American_Enterprise_Institute)
+2. [American Enterprise Institute (AEI)](https://www.britannica.com/topic/American-Enterprise-Institute)
 
 ## Kennedy Executive Order 10988 Grants Federal Workers Collective Bargaining Rights
 *Date: 1962-01-17*
@@ -140,12 +824,52 @@
 2. [Profile of Union Workers in State and Local Government](https://www.epi.org/publication/a-profile-of-union-workers-in-state-and-local-government-key-facts-about-the-sector-for-followers-of-janus-v-afscme-council-31/)
 3. [The Man Who Put Public-Employee Unions on the Map](https://prospect.org/labor/man-put-public-employee-unions-map/)
 
+## King-Anderson Medicare Bill Defeated in Committee After Intense Corporate Lobbying
+*Date: 1962-02-13*
+
+1. [Social Security Amendments of 1965 - Wikipedia](https://en.wikipedia.org/wiki/Social_Security_Amendments_of_1965)
+2. [Prescription for success](https://millercenter.org/issues-policy/us-domestic-policy/prescription-for-success)
+3. [Medicare Signed into Law](https://www.senate.gov/artandhistory/history/minute/Medicare_Signed_Into_Law.htm)
+
+## William Volker Fund Closes After Financing Chicago School and Mont Pelerin Society
+*Date: 1962-12-31*
+
+1. [William Volker Fund - SourceWatch](https://www.sourcewatch.org/index.php/William_Volker_Fund)
+2. [William Volker Fund](https://www.philanthropyroundtable.org/almanac/volker-bolkers-economic-liberty/)
+3. [Murray Rothbard - Wikipedia](https://en.wikipedia.org/wiki/Murray_Rothbard)
+
+## Business-Industry Political Action Committee Founded as First Corporate PAC
+*Date: 1963-08-01*
+
+1. [BIPAC - Wikipedia](https://en.wikipedia.org/wiki/BIPAC)
+2. [Business Industry Political Action Committee - SourceWatch](https://www.sourcewatch.org/index.php/Business_Industry_Political_Action_Committee)
+3. [The Business PAC Phenomenon: An Irony of Electoral Reform](https://www.aei.org/articles/the-business-pac-phenomenon-an-irony-of-electoral-reform/)
+
+## 24th Amendment Ratified Abolishing Poll Tax in Federal Elections After Decades of Voter Suppression
+*Date: 1964-01-23*
+
+1. [Voting Rights A Short History](https://www.carnegie.org/our-work/article/voting-rights-timeline/)
+2. [Poll taxes in the United States](https://en.wikipedia.org/wiki/Poll_taxes_in_the_United_States)
+
 ## Phyllis Schlafly Publishes 'A Choice Not an Echo,' Launching Conservative Movement Infrastructure
 *Date: 1964-05-01*
 
 1. [A Choice Not an Echo](https://en.wikipedia.org/wiki/A_Choice_Not_an_Echo)
 2. [Phyllis Schlafly](https://en.wikipedia.org/wiki/Phyllis_Schlafly)
 3. [A Choice Not an Echo](https://www.britannica.com/topic/A-Choice-Not-an-Echo)
+
+## Segregation Academies Proliferate as White Families Flee Integrated Public Schools With Public Subsidies
+*Date: 1964-09-01*
+
+1. [Segregation academy](https://en.wikipedia.org/wiki/Segregation_academy)
+2. [A History of Private Schools and Race in the American South](https://southerneducation.org/publications/history-of-private-schools-and-race-in-the-american-south/)
+3. [Private School Movement](https://encyclopediaofarkansas.net/entries/private-school-movement-9384/)
+
+## AEI Faces IRS Investigation After Baroody's Control of Goldwater Campaign
+*Date: 1964-11-03*
+
+1. [American Enterprise Institute - Wikipedia](https://en.wikipedia.org/wiki/American_Enterprise_Institute)
+2. [Barry Goldwater's Curious Campaign](https://aliciapatterson.org/john-judis/barry-goldwaters-curious-campaign/)
 
 ## Phyllis Schlafly Launches Monthly Newsletter, Building Conservative Communications Network
 *Date: 1967-08-01*
@@ -210,6 +934,13 @@
 1. [Richard Viguerie - Wikipedia](https://en.wikipedia.org/wiki/Richard_Viguerie)
 2. [From Direct Mail to America's Right Turn](https://www.npr.org/2004/12/15/4229442/from-direct-mail-to-americas-right-turn)
 3. [Empire of Direct Mail](https://kansaspress.ku.edu/9780700633418/)
+
+## IRS Adopts Non-Discrimination Policy for Private Schools After Court Order Targeting Segregation Academies
+*Date: 1970-07-10*
+
+1. [A History of Private Schools and Race in the American South](https://southerneducation.org/publications/history-of-private-schools-and-race-in-the-american-south/)
+2. [Bob Jones University v United States](https://en.wikipedia.org/wiki/Bob_Jones_University_v._United_States)
+3. [The Real Origins of the Religious Right](https://portside.org/2021-09-05/real-origins-religious-right)
 
 ## Milton Friedman's 'The Social Responsibility of Business Is to Increase Its Profits' Establishes Shareholder Primacy Doctrine
 *Date: 1970-09-13*
@@ -379,10 +1110,9 @@
 ## BCCI Begins Rapid International Expansion Strategy with 19 Branches Across Five Countries
 *Date: 1973-01-01*
 
-1. [The BCCI Affair - Origin and Early Years](https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm)
-2. [BCCI: The Dirtiest Bank of All](https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/)
-3. [The Dictator-Run Bank That Tells the Story of America's Foreign Corruption](https://foreignpolicy.com/2020/07/07/the-dictator-run-bank-that-tells-the-story-of-americas-foreign-corruption/)
-4. [The man who adds mysticism to banking - Aga Hassan Abedi](None)
+1. [The BCCI Affair - A Report to the Committee on Foreign Relations](https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm)
+2. [Foreign Bank Initial Assessment of Certain BCCI Activities in the U.S.](https://www.gao.gov/products/ggd-92-96)
+3. [BCCI: The Dirtiest Bank of All](https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/)
 
 ## Paul Weyrich Begins Official Coalition Meetings, Coordinating Conservative Movement
 *Date: 1973-01-01*
@@ -777,6 +1507,13 @@
 1. [Free to Choose - Wikipedia](https://en.wikipedia.org/wiki/Free_to_Choose)
 2. [Milton Friedman - Wikipedia](https://en.wikipedia.org/wiki/Milton_Friedman)
 
+## Jamaica Enters Second IMF Stand-By Arrangement Under Michael Manley, Beginning Decades of Structural Adjustment
+*Date: 1977-01-01*
+
+1. [Jamaica and the International Monetary Fund](https://en.wikipedia.org/wiki/Jamaica_and_the_International_Monetary_Fund)
+2. [Jamaica and the IMF: A Never-ending Story](https://www.e-ir.info/2016/03/06/jamaica-and-the-imf-a-never-ending-story/)
+3. [Jamaica's Decades of Debt are Damaging Its Future](https://atlantablackstar.com/2013/04/16/jamaicas-decades-of-debt-are-damaging-its-future/)
+
 ## Jack Kemp and William Roth Introduce Tax Cut Bill, Translating Supply-Side Theory to Legislation
 *Date: 1977-01-01*
 
@@ -870,6 +1607,13 @@
 2. [1978 California Proposition 13](https://en.wikipedia.org/wiki/1978_California_Proposition_13)
 3. [Proposition 13: Everything You Thought You Knew, and Things You Didn't](https://aoausa.com/proposition-13-everything-you-thought-you-knew-and-things-you-didnt-from-the-howard-jarvis-taxpayers-association/)
 
+## IRS Tightens Private School Tax Exemption Rules Catalyzing Religious Right Political Mobilization
+*Date: 1978-08-22*
+
+1. [Paul Weyrich Father of a New Right](https://modernagejournal.com/paul-weyrich-father-of-a-new-right/236103/)
+2. [The Real Origins of the Religious Right](https://portside.org/2021-09-05/real-origins-religious-right)
+3. [It Wasn't Abortion That Formed the Religious Right It Was Support for Segregation](https://slate.com/human-interest/2014/05/the-religious-right-formed-around-support-for-segregation-not-against-abortion.html)
+
 ## Carter Signs Airline Deregulation Act, Beginning Industry Consolidation Era
 *Date: 1978-10-24*
 
@@ -960,6 +1704,13 @@
 
 1. [Powell Memo Attack on American Free Enterprise System](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
 
+## U.S. Backs El Salvador Death Squad Government Through 12-Year Civil War
+*Date: 1980-01-01*
+
+1. [31st Anniversary of the Assassination of Archbishop Oscar Romero](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB339/index.htm)
+2. [Archbishop Romero Assassinated](https://www.zinnedproject.org/news/tdih/romero-assassinated/)
+3. [El Salvador - Death Squad Accountability](https://cja.org/where-we-work/el-salvador/)
+
 ## Claim: Epstein and Maxwell Alleged Intelligence Operation (Unverified)
 *Date: 1980-01-01*
 
@@ -981,13 +1732,6 @@
 1. [The NLRB Protects Workers Right To Organize, Yet Remains Underfunded](https://www.americanprogress.org/article/the-nlrb-protects-workers-right-to-organize-yet-remains-underfunded/)
 2. [Shortchanged: Weak Anti-Retaliation Provisions in NLRA Cost Workers Billions](https://www.epi.org/publication/shortchanged-weak-anti-retaliation-provisions-in-the-national-labor-relations-act-cost-workers-billions/)
 3. [Unlawful: U.S. Employers Charged with Violating Federal Law in 41.5% of Union Elections](https://www.epi.org/publication/unlawful-employer-opposition-to-union-election-campaigns/)
-
-## U.S. Backs El Salvador Death Squad Government Through 12-Year Civil War
-*Date: 1980-03-24*
-
-1. [31st Anniversary of the Assassination of Archbishop Oscar Romero](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB339/index.htm)
-2. [Archbishop Romero Assassinated](https://www.zinnedproject.org/news/tdih/romero-assassinated/)
-3. [El Salvador - Death Squad Accountability](https://cja.org/where-we-work/el-salvador/)
 
 ## Powell creates Central Hudson test expanding corporate commercial speech rights
 *Date: 1980-06-20*
@@ -1035,6 +1779,13 @@
 1. [Reagan era - Wikipedia](https://en.wikipedia.org/wiki/Reagan_era)
 2. [REAGAN AND HERITAGE: A Unique Partnership](https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership)
 3. [November 4, 1980: Modern Conservatism Ascends](https://constitutingamerica.org/november-4-1980-president-ronald-reagan-elected-modern-conservatism-ascends-to-preserve-individual-freedom-guest-essayist-scot-faulkner/)
+
+## Edward Seaga Defeats Michael Manley in Jamaica Election, Immediately Re-Engages IMF Structural Adjustment
+*Date: 1980-11-05*
+
+1. [Jamaica and the International Monetary Fund](https://en.wikipedia.org/wiki/Jamaica_and_the_International_Monetary_Fund)
+2. [Jamaica and the IMF: A Never-ending Story](https://www.e-ir.info/2016/03/06/jamaica-and-the-imf-a-never-ending-story/)
+3. [When Seaga swung the axe](https://jamaica-gleaner.com/gleaner/20130127/news/news2.html)
 
 ## ALEC Establishes Cabinet Task Forces and Partners with Reagan's Task Force on Federalism
 *Date: 1981-01-01*
@@ -1211,6 +1962,13 @@
 3. [U.S. Presidents and the Federal Deficit](https://amarkfoundation.org/reports/u-s-presidents-and-the-federal-deficit/)
 4. [Ronald Reagan: Domestic Affairs](https://millercenter.org/president/reagan/domestic-affairs)
 
+## Reagan Supports Philippine Dictator Marcos Despite Massive Kleptocracy
+*Date: 1982-01-01*
+
+1. [Ferdinand Marcos Visits the White House](https://vandvreader.org/ferdinand-marcos-visits-the-white-house-16-september-1982/)
+2. [The Philippines - U.S. Policy During the Marcos Years](https://proquest.libguides.com/dnsa/philippines1965)
+3. [How the US Derailed Philippine History in 1986](https://www.rappler.com/voices/thought-leaders/analysis-how-united-states-derailed-philippine-history-1986/)
+
 ## S&L Deregulation Creates Moral Hazard: Recipe for Systematic Fraud
 *Date: 1982-01-01*
 
@@ -1276,13 +2034,6 @@
 1. [Tax Equity and Fiscal Responsibility Act of 1982](https://en.wikipedia.org/wiki/Tax_Equity_and_Fiscal_Responsibility_Act_of_1982)
 2. [H.R.4961 - Tax Equity and Fiscal Responsibility Act of 1982](https://www.congress.gov/bill/97th-congress/house-bill/4961)
 3. [Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)](https://www.reaganlibrary.gov/archives/topic-guide/tax-equity-and-fiscal-responsibility-act-1982-tefra)
-
-## Reagan Supports Philippine Dictator Marcos Despite Massive Kleptocracy
-*Date: 1982-09-16*
-
-1. [Ferdinand Marcos Visits the White House](https://vandvreader.org/ferdinand-marcos-visits-the-white-house-16-september-1982/)
-2. [The Philippines - U.S. Policy During the Marcos Years](https://proquest.libguides.com/dnsa/philippines1965)
-3. [How the US Derailed Philippine History in 1986](https://www.rappler.com/voices/thought-leaders/analysis-how-united-states-derailed-philippine-history-1986/)
 
 ## Josemaria Escriva Beatified Despite Controversies
 *Date: 1982-10-06*
@@ -1462,6 +2213,13 @@
 
 1. [Council for National Policy](https://en.wikipedia.org/wiki/Council_for_National_Policy)
 2. [God, Trump and the Closed-Door World of the Council for National Policy](https://www.washingtonpost.com/magazine/2021/10/25/god-trump-closed-door-world-council-national-policy/)
+
+## Council of Conservative Citizens Founded by Former White Citizens' Councils Members to Continue Segregationist Agenda
+*Date: 1985-01-01*
+
+1. [Council of Conservative Citizens](https://en.wikipedia.org/wiki/Council_of_Conservative_Citizens)
+2. [White Citizens' Council and the Council of Conservative Citizens](https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/white-citizens-council-and-council-conservative-citizens)
+3. [Council of Conservative Citizens](https://www.splcenter.org/resources/extremist-files/council-conservative-citizens/)
 
 ## Maxwell Begins Distribution of Backdoored PROMIS Software to KGB and China
 *Date: 1985-01-01*
@@ -1661,11 +2419,9 @@
 ## Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and Bankers Trust
 *Date: 1987-04-01*
 
-1. [Decline of the Glass–Steagall Act](https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act)
-2. [Federal Reserve Section 20 Subsidiary Regulatory Overview]()
-3. [The Repeal of Glass-Steagall and the Advent of Broad Banking](https://www.occ.treas.gov/publications-and-resources/publications/economics/working-papers-archived/pub-econ-working-paper-2000-5.pdf)
-4. [The Glass-Steagall Act: A Legal and Policy Analysis](https://www.congress.gov/crs-product/R44349)
-5. [About Securities Underwriting and Dealing Subsidiaries](https://www.federalreserve.gov/bankinforeg/suds_about.htm)
+1. [The Glass-Steagall Act: A Legal and Policy Analysis](https://crsreports.congress.gov/product/pdf/R/R44349/3)
+2. [The Repeal of Glass-Steagall and the Advent of Broad Banking](https://www.occ.treas.gov/publications-and-resources/publications/economics/working-papers-archived/pub-econ-working-paper-2000-5.pdf)
+3. [Cracking the Glass-Steagall Barriers](https://www.frbsf.org/research-and-insights/publications/economic-letter/1997/03/cracking-the-glass-steagall-barriers/)
 
 ## Keating Five Senators Pressure FHLBB to Halt Lincoln Investigation
 *Date: 1987-04-01*
@@ -1695,6 +2451,14 @@
 1. [Fairness doctrine](https://en.wikipedia.org/wiki/Fairness_doctrine)
 2. [How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media](https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/)
 3. [The Fairness Doctrine: How We Lost It and Why We Need It Back](https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/)
+
+## Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage Requirements for Broadcasters
+*Date: 1987-08-04*
+
+1. [Fairness doctrine](https://en.wikipedia.org/wiki/Fairness_doctrine)
+2. [Fairness Doctrine](https://www.reaganlibrary.gov/archives/topic-guide/fairness-doctrine)
+3. [Fairness Doctrine](https://docs.fcc.gov/public/attachments/FCC-87-266A1.pdf)
+4. [The repeal of the fairness doctrine accelerated the polarization of US media](https://www.poynter.org/reporting-editing/2025/poynter-50-repeal-fairness-doctrine-rush-limbaugh-conservative-talk-radio/)
 
 ## Senate Rejects Robert Bork Supreme Court Nomination 42-58, First Ideological Rejection in Nearly a Century
 *Date: 1987-10-23*
@@ -1771,6 +2535,13 @@
 1. [Savings and Loan Crisis](https://www.federalreservehistory.org/essays/savings-and-loan-crisis)
 2. [The Savings and Loan Crisis (1989)](https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/)
 3. [Savings and loan crisis](https://en.wikipedia.org/wiki/Savings_and_loan_crisis)
+
+## John Williamson Codifies 'Washington Consensus' as Framework for Global Structural Adjustment
+*Date: 1989-01-01*
+
+1. [Washington Consensus](https://en.wikipedia.org/wiki/Washington_Consensus)
+2. [What is the 'Washington Consensus?'](https://www.piie.com/blogs/realtime-economic-issues-watch/what-washington-consensus)
+3. [How have the Washington Consensus reforms affected economic performance in sub-Saharan Africa?](https://www.brookings.edu/articles/how-have-the-washington-consensus-reforms-affected-economic-performance-in-sub-saharan-africa/)
 
 ## Reagan Leaves Office: Domestic Corruption and Policy Failure Legacy
 *Date: 1989-01-20*
@@ -1967,6 +2738,13 @@
 2. [Leslie Wexner Says Jeffrey Epstein Misappropriated At Least $46 Million](https://www.forbes.com/sites/rachelsandler/2019/08/07/leslie-wexner-says-jeffery-epstein-misappropriated-at-least-46-million-from-him/)
 3. [Letter from Les](https://www.wexnerfoundation.org/letter-from-les/)
 
+## Trump's Six Bankruptcies: Pattern of Borrowing Heavily and Walking Away
+*Date: 1991-06-01*
+
+1. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
+2. [Fact Check: Has Trump declared bankruptcy four or six times?](https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/)
+3. [How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions](https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf)
+
 ## Trump Plaza Fined $200,000 for Removing Black Employees from Gaming Floor
 *Date: 1991-06-05*
 
@@ -1980,13 +2758,6 @@
 1. [Opening The Books On Donald Trump's Business Deals In Atlantic City](https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city)
 2. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
 3. [Donald Trump's Companies Filed for Bankruptcy 4 Times](https://abcnews.go.com/Politics/donald-trump-filed-bankruptcy-times/story?id=13419250)
-
-## Trump's Six Bankruptcies: Pattern of Borrowing Heavily and Walking Away
-*Date: 1991-07-01*
-
-1. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
-2. [Fact Check: Has Trump declared bankruptcy four or six times?](https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/)
-3. [How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions](https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf)
 
 ## BCCI Bank Shut Down After Exposing CIA Drug Money Laundering Network
 *Date: 1991-07-05*
@@ -2002,12 +2773,37 @@
 2. [Panel Finds Credible Evidence Cranston Violated Ethics Rules](https://www.washingtonpost.com/archive/politics/1991/02/28/panel-finds-credible-evidence-cranston-violated-ethics-rules/6a936c72-ef9c-4cd5-ac31-1953570e8222/)
 3. [Keating Five Scandal: Exposing 1980s Banking and Political Corruption](https://www.factualamerica.com/journalistic-landmarks/keating-five-scandal-investigation-reveals-1980s-banking-corruption)
 
+## Harvard's Sachs Becomes Yeltsin Economic Advisor After 'Grand Bargain' for Soviet Support Rejected by Bush Administration
+*Date: 1991-12-01*
+
+1. [Russia's Failure to Reform](https://www.jeffsachs.org/newspaper-articles/2tfga7mnpkw2t8dg5f6wjncfg2g6bj)
+2. [Jeffrey Sachs explains why he thinks 'shock therapy' was so tough in Russia](https://www.npr.org/transcripts/1097135961)
+3. [Sachs Quits As Economic Consultant To Yeltsin](https://www.thecrimson.com/article/1994/1/24/sachs-quits-as-economic-consultant-to/)
+4. [Jeffrey Sachs: How the Neocons Subverted Russia's Financial Stabilization in the Early 1990s](https://scheerpost.com/2024/09/17/jeffrey-sachs-how-the-neocons-subverted-russias-financial-stabilization-in-the-early-1990s/)
+
+## Harvard Receives $40 Million USAID Contract to Advise Russia's Economic Transition: 'Harvard's Blank Check from Uncle Sam'
+*Date: 1992-01-01*
+
+1. [Harvard Princes, Russian Reformers: When Harvard Ran Moscow](https://www.thecrimson.com/article/2024/3/30/hiid-scrut/)
+2. [Harvard Institute for International Development](https://en.wikipedia.org/wiki/Harvard_Institute_for_International_Development)
+3. [How Harvard Lost Russia](https://www.institutionalinvestor.com/article/2btfpiwkwid6fq6qrokcg/home/how-harvard-lost-russia)
+4. [Harvard's Role in Russian Economic Reform](https://sdonline.org/issue/67/harvards-role-russian-economic-reform)
+
 ## SEC Investigates Madoff Feeder Fund Avellino & Bienes, Misses $65 Billion Ponzi Scheme in First Regulatory Failure
 *Date: 1992-01-01*
 
 1. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Executive Summary](https://www.sec.gov/files/oig-509-exec-summary.pdf)
 2. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Full Report](https://www.sec.gov/news/studies/2009/oig-509.pdf)
 3. [Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme](https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigation-failure-sec-uncover-bernard-madoffs-ponzi-scheme)
+
+## Russia Launches 'Shock Therapy' Economic Reforms: Price Liberalization Triggers 2,520% Inflation and Economic Collapse
+*Date: 1992-01-02*
+
+1. [Yeltsin–Gaidar government reforms](https://en.wikipedia.org/wiki/Yeltsin–Gaidar_government_reforms)
+2. [Four Reformers in Russia's Shock Therapy](https://geohistory.today/russia-shock-therapy/)
+3. [Key facts about the '90s price liberalization in Russia](https://tass.com/economy/916534)
+4. [Economic history of the Russian Federation](https://en.wikipedia.org/wiki/Economic_history_of_the_Russian_Federation)
+5. [How 'shock therapy' created Russian oligarchs and paved the path for Putin](https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin)
 
 ## Trump Castle and Trump Plaza File Simultaneous Bankruptcies
 *Date: 1992-03-09*
@@ -2030,6 +2826,14 @@
 1. [Walsh Report Part VIII - Caspar W. Weinberger](https://irp.fas.org/offdocs/walsh/part_viii.htm)
 2. [Weinberger Indicted on 5 Counts](https://www.washingtonpost.com/archive/politics/1992/06/17/weinberger-indicted-on-5-counts/51cbf33a-9846-4555-a1eb-7a9bf7bef3fd/)
 3. [Reagan Defense Chief Weinberger Indicted in Iran-Contra Probe](https://www.upi.com/Archives/1992/06/16/Reagan-defense-chief-Weinberger-indicted-in-Iran-Contra-probe/3991708667200/)
+
+## Russia Begins Mass Voucher Privatization: 148 Million Citizens Given Certificates Worth 'Two Volga Cars' That Become Worthless
+*Date: 1992-10-01*
+
+1. [Privatization in Russia](https://en.wikipedia.org/wiki/Privatization_in_Russia)
+2. [How privatization changed the Soviet economy 30 years ago and created the first oligarchs](https://www.gw2ru.com/business/3614-how-privatization-changed-soviet-economy)
+3. [Russian Privatization and Oligarchs](https://factsanddetails.com/russia/Economics_Business_Agriculture/sub9_7b/entry-5169.html)
+4. [Outrage as architect of 1990s privatization bemoans lack of 'gratitude'](https://en.thebell.io/outrage-as-architect-of-1990s-privatization-bemoans-lack-of-gratitude/)
 
 ## FDA Prescription Drug User Fee Act Creates Financial Dependence on Pharmaceutical Industry
 *Date: 1992-10-29*
@@ -2090,6 +2894,15 @@
 2. [Tobacco industry playbook](https://en.wikipedia.org/wiki/Tobacco_industry_playbook)
 3. [Frederick Seitz](https://www.sourcewatch.org/index.php/Frederick_Seitz)
 4. [Fred Seitz, the $45 million man](https://scienceblogs.com/deltoid/2006/04/17/fred-seitz-the-45-million-man)
+
+## Russia's Shock Therapy Triggers Unprecedented Peacetime Mortality Crisis: Male Life Expectancy Drops 6+ Years, 1.6-5 Million Excess Deaths
+*Date: 1993-01-01*
+
+1. [Economic history of the Russian Federation](https://en.wikipedia.org/wiki/Economic_history_of_the_Russian_Federation)
+2. [The Hyperinflation in Russia in the 1990's](https://www.sjsu.edu/faculty/watkins/russianinfl.htm)
+3. [Economic change, crime, and mortality crisis in Russia: regional analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC28623/)
+4. [Macroeconomic consequences of the Russian mortality crisis](https://www.sciencedirect.com/science/article/abs/pii/S0305750X98000989)
+5. [Post-Soviet Russian Economic Collapse](https://www.networkideas.org/news-analysis/2017/06/post-soviet-russian-economic-collapse/)
 
 ## Trump appears in Epstein aircraft logbooks multiple times (DOJ exhibits)
 *Date: 1993-01-01*
@@ -2262,11 +3075,9 @@
 ## K Street Project Systematically Transforms Washington Lobbying Infrastructure
 *Date: 1995-01-01*
 
-1. [en.wikipedia.org](https://en.wikipedia.org/wiki/K_Street_Project)
-2. [sourcewatch.org](https://sourcewatch.org/index.php?title=K_Street_Project)
-3. [npr.org](https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay)
-4. [NPR investigative report on K Street Project dynamics]()
-5. [Academic research on multi-client lobbying transformations]()
+1. [Welcome to the Machine](https://washingtonmonthly.com/2003/07/01/welcome-to-the-machine/)
+2. [The K Street Project and Tom DeLay](https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay)
+3. [K Street on Main: Legislative Turnover and Multi-Client Lobbying](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/k-street-on-main-legislative-turnover-and-multiclient-lobbying/21D251E6DBDB2006D8B126840A7940F5)
 
 ## Tom DeLay Elected Majority Whip - Creates K Street PAC Tracking System
 *Date: 1995-01-04*
@@ -2291,6 +3102,22 @@
 2. [The K Street Project and Tom DeLay](https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay)
 3. [The Law and Ethics of K Street: Lobbying, the First Amendment, and the Duty to Create Just Laws](https://www.cambridge.org/core/journals/business-ethics-quarterly/article/abs/law-and-ethics-of-k-street-lobbying-the-first-amendment-and-the-duty-to-create-just-laws/77D1682398F3617E469B78BB0F8535FC)
 4. [One Big Mess, In Search of a Big Idea](https://www.brookings.edu/articles/one-big-mess-in-search-of-a-big-idea/)
+
+## IMF Approves $6.8 Billion Russia Loan With Structural Adjustment Conditions: Second Largest Loan in IMF History Fails to Stabilize Economy
+*Date: 1995-04-01*
+
+1. [The IMF and Russia in the 1990s](https://www.imf.org/external/pubs/ft/staffp/2006/01/pdf/odling.pdf)
+2. [The IMF and Russia in the 1990s - Working Paper](https://www.imf.org/external/pubs/ft/wp/2004/wp04155.pdf)
+3. [Russia's Meltdown: Anatomy of the IMF Failure](https://www.heritage.org/report/russias-meltdown-anatomy-the-imf-failure)
+4. [Russia and the International Financial Institutions](https://carnegieendowment.org/posts/2000/01/russia-and-the-international-financial-institutions?lang=en)
+
+## Russia's 'Loans-for-Shares' Auctions Transfer $100 Billion in State Assets to Oligarchs for Pennies on the Dollar
+*Date: 1995-11-01*
+
+1. [Loans for shares scheme](https://en.wikipedia.org/wiki/Loans_for_shares_scheme)
+2. [Russian Privatization and Oligarchs](https://factsanddetails.com/russia/Economics_Business_Agriculture/sub9_7b/entry-5169.html)
+3. [How 'shock therapy' created Russian oligarchs and paved the path for Putin](https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin)
+4. [Loans for Shares Revisited](https://www.nber.org/system/files/working_papers/w15819/w15819.pdf)
 
 ## FDA Approval of OxyContin Reveals Systemic Regulatory Capture by Purdue Pharma
 *Date: 1995-12-12*
@@ -2347,6 +3174,14 @@
 3. [Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill](https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest)
 4. [The Net @ Risk: Big, Bigger, Biggest Media](http://www.pbs.org/moyers/citizensclass/the_net_risk/big_bigger_biggest_media/)
 
+## Telecommunications Act of 1996 Eliminates Radio Ownership Caps and Raises TV Limits, Triggering Massive Media Consolidation
+*Date: 1996-02-08*
+
+1. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
+2. [Telecommunications Act of 1996](https://www.britannica.com/topic/Telecommunications-Act)
+3. [Democracy in Peril - Twenty Years of Media Consolidation Under the Telecommunications Act](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
+4. [Statement on Signing the Telecommunications Act of 1996](https://www.presidency.ucsb.edu/documents/statement-signing-the-telecommunications-act-1996)
+
 ## Telecommunications Act Enables Massive Media Consolidation
 *Date: 1996-02-08*
 
@@ -2402,6 +3237,14 @@
 2. [The Telecommunications Act of 1996 Killed Local Radio](https://www.35000watts.com/the-telecommunications-act-of-1996-killed-local-radio/)
 3. [Democracy in Peril: Twenty Years of Media Consolidation](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
 4. [What Loosening Restrictions On Radio Consolidation Could Do](https://www.npr.org/2019/06/07/730323196/one-more-scoop-of-vanilla-a-new-proposal-looks-to-loosen-radio-ownership-rules)
+
+## Oligarchs Bankroll Yeltsin Re-election Victory: 'Seven Bankers' Control 50-70% of Russia's Economy Through Loans-for-Shares Deal
+*Date: 1996-07-03*
+
+1. [Seven Bankers](https://en.wikipedia.org/wiki/Seven_Bankers)
+2. [Russian oligarchs](https://en.wikipedia.org/wiki/Russian_oligarchs)
+3. [The Rise of the Oligarchs: How a Handful of Tycoons Came to Dominate Post-Soviet Russia](https://www.historytools.org/stories/the-rise-of-the-oligarchs-how-a-handful-of-tycoons-came-to-dominate-post-soviet-russia)
+4. [How 'shock therapy' created Russian oligarchs and paved the path for Putin](https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin)
 
 ## Gary Webb's "Dark Alliance" Exposes CIA-Contra-Crack Cocaine Connection
 *Date: 1996-08-18*
@@ -2541,6 +3384,14 @@
 2. [B-2 Bomber: Cost and Operational Issues](https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-97-181/html/GAOREPORTS-NSIAD-97-181.htm)
 3. [The B-2 and Beyond](https://www.airandspaceforces.com/article/0798bomber/)
 
+## USAID Cancels Harvard Russia Project After Discovering Shleifer and Hay Used Insider Positions to Profit from Russian Investments
+*Date: 1997-09-01*
+
+1. [Harvard Princes, Russian Reformers: When Harvard Ran Moscow](https://www.thecrimson.com/article/2024/3/30/hiid-scrut/)
+2. [Andrei Shleifer](https://en.wikipedia.org/wiki/Andrei_Shleifer)
+3. [Harvard Institute for International Development](https://en.wikipedia.org/wiki/Harvard_Institute_for_International_Development)
+4. [Russia Case Progresses](https://www.harvardmagazine.com/2004/09/russia-case-progresses-html)
+
 ## IMF Imposes Harsh Structural Adjustment on Indonesia
 *Date: 1997-10-08*
 
@@ -2558,14 +3409,9 @@
 ## IMF Imposes Harsh Structural Adjustment on Indonesia
 *Date: 1997-10-14*
 
-1. [International Monetary Fund](International Monetary Fund)
-2. [IMF Press Release](IMF Press Release)
-3. [Wikipedia](Wikipedia)
-4. [Science Direct](Science Direct)
-5. [International Monetary Fund](International Monetary Fund)
-6. [IMF Press Release](IMF Press Release)
-7. [Wikipedia](Wikipedia)
-8. [Science Direct](Science Direct)
+1. [Indonesia Letter of Intent, October 31, 1997](https://www.imf.org/external/np/loi/103197.htm)
+2. [Press Release: IMF Approves Stand-By Credit for Indonesia](https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr9750)
+3. [Recovery from the Asian Crisis and the Role of the IMF](https://www.imf.org/external/np/exr/ib/2000/062300.htm)
 
 ## IMF Imposes Radical Structural Adjustment on Indonesia
 *Date: 1997-10-15*
@@ -2748,6 +3594,14 @@
 2. [McKinsey Sees 'Ominous' Signs of Another Asian Debt Crisis](https://www.bloomberg.com/news/articles/2019-08-20/omens-of-another-asian-debt-crisis-seen-by-mckinsey-in-stresses)
 3. [The Asian Crisis: Causes, Policy Responses, and Outcomes](https://www.imf.org/external/pubs/ft/wp/1999/wp99138.pdf)
 
+## Russia Defaults on Debt and Abandons Ruble Defense: Largest Sovereign Default in History Caps Decade of Economic Devastation
+*Date: 1998-08-17*
+
+1. [1998 Russian financial crisis](https://en.wikipedia.org/wiki/1998_Russian_financial_crisis)
+2. [Russia's 1998 currency crisis: what lessons for today?](https://www.economicsobservatory.com/russias-1998-currency-crisis-what-lessons-for-today)
+3. [A Case Study of a Currency Crisis: The Russian Default of 1998](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=14310&context=ypfs-documents)
+4. [Russia's Meltdown: Anatomy of the IMF Failure](https://www.heritage.org/europe/report/russias-meltdown-anatomy-the-imf-failure)
+
 ## Federal Reserve Grants Citigroup Temporary Waiver for Glass-Steagall Violation
 *Date: 1998-09-01*
 
@@ -2895,13 +3749,6 @@
 2. [About In-Q-Tel](https://www.iqt.org/about)
 3. [Gilman Louie](https://en.wikipedia.org/wiki/Gilman_Louie)
 
-## CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
-*Date: 1999-09-01*
-
-1. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-2. [About In-Q-Tel](https://www.iqt.org/about)
-3. [Gilman Louie](https://en.wikipedia.org/wiki/Gilman_Louie)
-
 ## Robert Rubin Joins Citigroup for $126 Million After Engineering Glass-Steagall Repeal
 *Date: 1999-10-26*
 
@@ -2951,6 +3798,15 @@
 2. [One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network](https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/)
 3. [Jennifer Lopez's 'nightmare': Diddy probes renew look at 1999 shooting](https://www.mercurynews.com/2024/04/01/jennifer-lopezs-nightmare-diddy-investigations-renew-questions-about-1999-shooting/)
 4. [Driver: Lopez Said Shyne Fired Gun](https://abcnews.go.com/Entertainment/story?id=109455)
+
+## Yeltsin Resigns, Oligarchs Elevate Putin to President: KGB Officer Chosen to Protect 'The Family' Transforms Russia into Kleptocracy
+*Date: 1999-12-31*
+
+1. [Vladimir Putin's rise to power](https://en.wikipedia.org/wiki/Vladimir_Putin's_rise_to_power)
+2. [How Putin Conquered Russia's Oligarchy](https://www.npr.org/sections/money/2022/03/29/1088886554/how-putin-conquered-russias-oligarchy)
+3. [Stealing Russia Blind](https://www.journalofdemocracy.org/articles/stealing-russia-blind/)
+4. [Putin's Oligarchs](https://foreignanalysis.com/putins-oligarchs/)
+5. [How 'shock therapy' created Russian oligarchs and paved the path for Putin](https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin)
 
 ## ALEC Membership Reaches 2,000+ State Legislators - Represents One-Quarter to One-Third of All State Legislators Nationwide
 *Date: 2000-01-01*
@@ -3041,6 +3897,13 @@
 2. [Exclusive: Newly discovered photos and video shed fresh light on Trump's ties to Jeffrey Epstein](https://www.cnn.com/2025/07/22/politics/kfile-trump-epstein-photos-footage)
 3. [How well did Trump and Epstein really know each other? A timeline](https://www.aljazeera.com/news/2025/7/18/how-well-did-trump-and-epstein-really-know-each-other-a-timeline)
 
+## Ecuador President Mahuad Announces Dollarization 'Jump Into the Abyss' Amid Economic Crisis
+*Date: 2000-01-09*
+
+1. [Ecuador's Historic Strike](https://www.almendron.com/tribuna/ecuadors-historic-strike/)
+2. [Confederation of Indigenous Nationalities of Ecuador](https://en.wikipedia.org/wiki/Confederation_of_Indigenous_Nationalities_of_Ecuador)
+3. [Ecuador and the IMF](https://www.imf.org/en/news/articles/2015/09/28/04/53/sp051900)
+
 ## AOL-Time Warner $164 Billion Merger Creates Largest Media Conglomerate in History
 *Date: 2000-01-11*
 
@@ -3048,6 +3911,13 @@
 2. [Democracy in Peril: Twenty Years of Media Consolidation](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
 3. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
 4. [Media Mergers and the Public Interest](https://www.crf-usa.org/bill-of-rights-in-action/bria-23-1-d-media-mergers-and-the-public-interest.html)
+
+## Bolivia's Cochabamba Water War: Indigenous-Led Uprising Forces Reversal of World Bank-Mandated Bechtel Privatization
+*Date: 2000-01-21*
+
+1. [Cochabamba Water War](https://en.wikipedia.org/wiki/Cochabamba_Water_War)
+2. [Bolivians end foreign-owned water privatization in Cochabamba 'Water War', 2000](https://nvdatabase.swarthmore.edu/content/bolivians-end-foreign-owned-water-privatization-cochabamba-water-war-2000)
+3. [The Water War Dispatches in Full](https://www.democracyctr.org/the-water-war-dispatches-in-full)
 
 ## Halliburton Opens Tehran Office While Cheney Still CEO, Completing $40 Million Annual Iran Business Through Cayman Islands Subsidiary Designed to Circumvent U.S. Sanctions
 *Date: 2000-02-01*
@@ -3320,6 +4190,13 @@
 3. [Tenth Anniversary of the Bush-era Tax Cuts](https://www.epi.org/publication/tenth_anniversary_of_the_bush-era_tax_cuts/)
 4. [Tax Relief](https://georgewbush-whitehouse.archives.gov/infocus/taxes/)
 
+## Argentina Passes 'Zero Deficit Law' Under IMF Pressure, Cutting Salaries and Pensions 13%
+*Date: 2001-07-13*
+
+1. [1998–2002 Argentine great depression](https://en.wikipedia.org/wiki/1998–2002_Argentine_great_depression)
+2. [Argentina Since Default: The IMF and the Depression](https://cepr.net/documents/publications/argentina_2002_09_03.htm)
+3. [The 2001 Crisis in Argentina: An IMF-Sponsored Default?](https://www.hbs.edu/faculty/Pages/item.aspx?num=30484)
+
 ## Oracle Hires CIA Executive Director David Carney, Establishes Information Assurance Center
 *Date: 2001-09-04*
 
@@ -3417,6 +4294,13 @@
 2. [MAINWAY - Wikipedia](https://en.wikipedia.org/wiki/MAINWAY)
 3. [President's Surveillance Program worked with private sector to collect data after Sept. 11, 2001](https://www.washingtonpost.com/investigations/presidents-surveillance-program-worked-with-private-sector-to-collect-data-after-sept-11-2001/2013/06/27/2c7a7e74-df57-11e2-b2d4-ea6d8f477a01_story.html)
 
+## Argentina Imposes 'Corralito' Bank Account Freeze Under IMF Austerity, Triggering Mass Protests
+*Date: 2001-12-01*
+
+1. [1998–2002 Argentine great depression](https://en.wikipedia.org/wiki/1998–2002_Argentine_great_depression)
+2. [Argentina 20 Years After La Crisis del 2001](https://nacla.org/argentina-20-years-after-la-crisis-del-2001/)
+3. [Argentina Since Default: The IMF and the Depression](https://cepr.net/documents/publications/argentina_2002_09_03.htm)
+
 ## Enron Files for Bankruptcy After Energy Task Force Influence
 *Date: 2001-12-02*
 
@@ -3438,6 +4322,13 @@
 1. [OIRA: Regulatory Review and Corporate Influence](https://www.everycrsreport.com/reports/RL32397.html)
 2. [For Bush's Regulatory 'Czar,' The Equation Is Persuasion](https://www.foreffectivegov.org/node/249)
 3. [Business Groups' Influence on Federal Regulations](https://www.washingtonpost.com/archive/politics/2001/12/13/business-groups-influence-federal-regulations/)
+
+## Argentina Declares Largest Sovereign Default in History on $100+ Billion Debt After IMF Austerity Collapse
+*Date: 2001-12-22*
+
+1. [1998–2002 Argentine great depression](https://en.wikipedia.org/wiki/1998–2002_Argentine_great_depression)
+2. [Argentina 20 Years After La Crisis del 2001](https://nacla.org/argentina-20-years-after-la-crisis-del-2001/)
+3. [An Analysis of Argentina's 2001 Default Resolution](https://www.cigionline.org/static/documents/documents/CIGI%20Paper%20No.110WEB_0.pdf)
 
 ## Abramoff-Reed Execute Double-Dealing Scheme Against Tigua Tribe
 *Date: 2002-01-01*
@@ -3581,13 +4472,6 @@
 1. [White House Iraq Group](https://en.wikipedia.org/wiki/White_House_Iraq_Group)
 2. [White House Iraq Group Profile](https://sourcewatch.org/index.php/White_House_Iraq_Group)
 3. [Karl Rove 'In The Fight' Again With New Memoir](https://www.npr.org/transcripts/124597241?storyId=124597241)
-
-## Poindexter Announces DARPA Total Information Awareness Program
-*Date: 2002-08-02*
-
-1. [Overview of the Information Awareness Office - Poindexter Speech](https://irp.fas.org/agency/dod/poindexter.html)
-2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-3. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
 
 ## Poindexter Announces DARPA Total Information Awareness Program
 *Date: 2002-08-02*
@@ -3937,13 +4821,6 @@
 2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
 3. [Total Information Awareness](https://www.sourcewatch.org/index.php/Total_Information_Awareness)
 
-## New York Times Exposes Total Information Awareness Surveillance Program, Sparking Public Outcry
-*Date: 2002-11-09*
-
-1. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
-2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-3. [Total Information Awareness](https://www.sourcewatch.org/index.php/Total_Information_Awareness)
-
 ## Federalist Society Provides WHIG with Crisis-Accelerated Legal Justification Infrastructure for Powell Memorandum Implementation
 *Date: 2002-11-15*
 
@@ -4040,13 +4917,6 @@
 2. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
 3. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
-## In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
-*Date: 2003-02-01*
-
-1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
-2. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
-3. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-
 ## Colin Powell Presents False WMD Evidence to UN Security Council
 *Date: 2003-02-05*
 
@@ -4105,19 +4975,19 @@
 2. [Palantir Technologies](https://en.wikipedia.org/wiki/Palantir_Technologies)
 3. [How Your Tax Dollars Built Palantir's Global Surveillance Empire](https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/)
 
-## Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
-*Date: 2003-05-01*
-
-1. [How Peter Thiel's Palantir Helped the NSA Spy on the Whole World](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/)
-2. [Palantir Technologies](https://en.wikipedia.org/wiki/Palantir_Technologies)
-3. [How Your Tax Dollars Built Palantir's Global Surveillance Empire](https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/)
-
 ## Powell-WHIG Template Establishes Crisis-Accelerated Institutional Capture Blueprint for Ongoing Democratic Transformation
 *Date: 2003-05-01*
 
 1. [President Bush Announces Major Combat Operations in Iraq Have Ended](https://georgewbush-whitehouse.archives.gov/news/releases/2003/05/20030501-15.html)
 2. [Crisis and Leviathan: Critical Episodes in the Growth of American Government](https://www.amazon.com/Crisis-Leviathan-Critical-Episodes-Government/dp/0195069161)
 3. [The Shock Doctrine: The Rise of Disaster Capitalism](https://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999)
+
+## Paul Bremer Begins Issuing 'CPA 100 Orders' to Restructure Iraq's Economy Under Military Occupation
+*Date: 2003-05-06*
+
+1. [Coalition Provisional Authority](https://en.wikipedia.org/wiki/Coalition_Provisional_Authority)
+2. [100 Orders](https://en.wikipedia.org/wiki/100_Orders)
+3. [The Hand-Over that Wasn't: How the Occupation of Iraq Continues](https://fpif.org/the_hand-over_that_wasnt_how_the_occupation_of_iraq_continues/)
 
 ## Coalition Provisional Authority Loses .8B in Iraqi Oil Revenue
 *Date: 2003-05-06*
@@ -4200,6 +5070,13 @@
 5. [Libby Guilty of Lying in C.I.A. Leak Case](https://www.nytimes.com/2007/03/07/washington/07libby.html)
 6. [The Plame Affair: A Chronology](https://www.washingtonpost.com/wp-srv/politics/special/plame/plame_timeline.html)
 
+## Paul Bremer Issues CPA Order 39 Imposing Radical Free Market Restructuring on Occupied Iraq
+*Date: 2003-09-19*
+
+1. [Economic reform of Iraq](https://en.wikipedia.org/wiki/Economic_reform_of_Iraq)
+2. [100 Orders](https://en.wikipedia.org/wiki/100_Orders)
+3. [State Rebuilding in Reverse](https://www.merip.org/2004/09/state-rebuilding-in-reverse/)
+
 ## Paul Bremer Order 39 Privatizes Iraq Economy for Foreign Corporations
 *Date: 2003-09-19*
 
@@ -4213,19 +5090,6 @@
 1. [Terrorism Information Awareness (TIA) Terminated](https://sgp.fas.org/congress/2003/tia.html)
 2. [Congress funds Defense, kills Terrorism Information Awareness](https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/)
 3. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-
-## Congress Officially Defunds Total Information Awareness Program
-*Date: 2003-09-24*
-
-1. [Terrorism Information Awareness (TIA) Terminated](https://sgp.fas.org/congress/2003/tia.html)
-2. [Congress funds Defense, kills Terrorism Information Awareness](https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/)
-3. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-
-## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
-*Date: 2003-10-01*
-
-1. [4chan](https://en.wikipedia.org/wiki/4chan)
-2. [Moot: the 4chan founder who sparked Anonymous](https://www.theguardian.com/technology/2015/jan/21/moot-christopher-poole-4chan)
 
 ## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
 *Date: 2003-10-01*
@@ -4253,6 +5117,13 @@
 1. [Good riddance to Special Counsel Scott Bloch](https://www.whistleblower.org/press-releases/good-riddance-special-counsel-scott-bloch-enemy-whistleblowers-forced-out-office/)
 2. [Former Head of OSC Pleads Guilty to Criminal Contempt](https://www.justice.gov/opa/pr/former-head-us-office-special-counsel-pleads-guilty-criminal-contempt-congress)
 3. [Whistleblower groups call on President Bush to fire Scott Bloch](https://www.pogo.org/press-release/2007/05/whistleblower-groups-call-on-president-bush-to-fire-special-counsel-scott-bloch/)
+
+## The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properties and Brand
+*Date: 2004-01-08*
+
+1. [Why Donald Trump on 'Celebrity Apprentice' Raises Conflict of Interest Questions](https://fortune.com/2016/12/09/donald-trump-celebrity-apprentice-nbc/)
+2. [Exposing Mark Burnett - The Man Who Sold Us Trump](https://www.lexisantamaria.substack.com/p/exposing-mark-burnett-the-man-who)
+3. [The Apprentice (American TV series)](https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series))
 
 ## The Apprentice Premieres on NBC, Rehabilitating Trump's Image After Bankruptcies
 *Date: 2004-01-08*
@@ -4324,13 +5195,6 @@
 3. [20 Extraordinary Facts About CIA Extraordinary Rendition](https://www.justiceinitiative.org/voices/20-extraordinary-facts-about-cia-extraordinary-rendition-and-secret-detention)
 4. [Maher Arar - ACLU Case](https://www.aclu.org/cases/arar-v-ashcroft)
 
-## The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properties and Brand
-*Date: 2004-06-01*
-
-1. [Why Donald Trump on 'Celebrity Apprentice' Raises Conflict of Interest Questions](https://fortune.com/2016/12/09/donald-trump-celebrity-apprentice-nbc/)
-2. [Exposing Mark Burnett - The Man Who Sold Us Trump](https://www.lexisantamaria.substack.com/p/exposing-mark-burnett-the-man-who)
-3. [The Apprentice (American TV series)](https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series))
-
 ## Stewart v. Blackwell Applies Bush v. Gore Equal Protection Precedent to Ohio Voting Disparities
 *Date: 2004-06-04*
 
@@ -4396,13 +5260,6 @@
 2. [Google's Motto Was 'Don't Be Evil'?](https://www.snopes.com/fact-check/google-motto-dont-be-evil/)
 3. [Google went public 20 years ago—what your $1000 investment would be worth today](https://finance.yahoo.com/news/google-went-public-20-years-165744013.html)
 4. [That was then The worst Google IPO calls](https://www.cnbc.com/2014/08/19/that-was-then-the-worst-google-ipo-calls.html)
-
-## Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
-*Date: 2004-10-27*
-
-1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-3. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
 
 ## Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
 *Date: 2004-10-27*
@@ -4479,11 +5336,12 @@
 3. [ALEC in the House: Corporate Bias in Criminal Justice Legislation](https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/)
 4. [The Hidden History of ALEC and Prison Labor](https://www.thenation.com/article/archive/hidden-history-alec-and-prison-labor/)
 
-## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
+## Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)
 *Date: 2005-01-01*
 
-1. [Palantir's Growth Story: How the Magic of Data Analysis Is Changing the World](https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
+1. [Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
+2. [For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices](https://www.gao.gov/products/gao-10-948t)
+3. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
 
 ## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
 *Date: 2005-01-01*
@@ -4562,13 +5420,6 @@
 2. [2005 Law Made Student Loans More Lucrative](https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative)
 3. [Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)](https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm)
 
-## Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)
-*Date: 2005-04-20*
-
-1. [Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
-2. [For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices](https://www.gao.gov/products/gao-10-948t)
-3. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
-
 ## Trump Launches "Trump University" Real Estate Seminars Without Academic License or Accreditation
 *Date: 2005-05-23*
 
@@ -4610,6 +5461,14 @@
 1. [Ebbers Sentenced to 25 Years for Fraud](https://www.npr.org/2005/07/13/4752469/ebbers-sentenced-to-25-years-for-fraud)
 2. [United States v. Bernard Ebbers](https://www.justice.gov/usao-sdny/united-states-v-bernard-ebbers)
 3. [Bernard Ebbers](https://en.wikipedia.org/wiki/Bernard_Ebbers)
+
+## Harvard Pays $26.5 Million to Settle USAID Fraud Case: Shleifer and Hay Found Liable for Conspiring to Defraud Government
+*Date: 2005-07-28*
+
+1. [Harvard To Pay $26.5 Million in HIID Settlement](https://www.thecrimson.com/article/2005/7/29/harvard-to-pay-265-million-in/)
+2. [Star Economist Accused of Fraud After Russia Project](https://www.thecrimson.com/article/2005/6/9/star-economist-accused-of-fraud-after/)
+3. [Harvard in Russia: Conflicts of Interest](https://www.harvardmagazine.com/2012/06/harvard-in-russa-conflicts-of-interest)
+4. [Harvard Institute for International Development](https://en.wikipedia.org/wiki/Harvard_Institute_for_International_Development)
 
 ## KBR Employee Jamie Leigh Jones Alleges Gang Rape in Iraq, Exposes Systematic Use of Mandatory Arbitration to Shield Contractor Accountability
 *Date: 2005-07-28*
@@ -4763,12 +5622,6 @@
 1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
 2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
 
-## Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
-*Date: 2006-01-01*
-
-1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
-2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
-
 ## Jack Abramoff Pleads Guilty in 5M Corruption Scandal
 *Date: 2006-01-03*
 
@@ -4913,19 +5766,6 @@
 1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
 2. [The seer and the seen: Surveying Palantir's surveillance platform](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851)
 
-## Palantir Begins Rapid Expansion Across U.S. Government Agencies
-*Date: 2007-01-01*
-
-1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
-2. [The seer and the seen: Surveying Palantir's surveillance platform](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851)
-
-## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
-*Date: 2007-03-01*
-
-1. [Email from 2007 ties Trump adviser Stephen Miller to neo-Nazi Richard Spencer](https://electronicintifada.net/blogs/michael-f-brown/email-2007-ties-trump-adviser-stephen-miller-neo-nazi-richard-spencer)
-2. [Richard Spencer on Stephen Miller: Clearly I Was Influencing Him in College](https://www.peoplefor.org/rightwingwatch/post/richard-spencer-on-stephen-miller-clearly-i-was-influencing-him-in-college)
-3. [The White Nationalist Education of Stephen Miller](https://gen.medium.com/the-white-nationalist-education-of-stephen-miller-3d69f5f19964)
-
 ## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
 *Date: 2007-03-01*
 
@@ -5003,6 +5843,14 @@
 2. [U.S. Government Watchlisting - Unfair Process](https://www.aclu.org/documents/us-government-watchlisting-unfair-process-and-devastating-consequences)
 3. [Watchlisting System Exemplifies Biased Profiling](https://www.aclu.org/news/national-security/the-watchlisting-system-exemplifies-the-governments-post-9-11-embrace-of-biased-profiling)
 
+## Naomi Klein Publishes 'The Shock Doctrine': Russia Economic Experiment Exposed as Blueprint for Disaster Capitalism
+*Date: 2007-09-01*
+
+1. [The Shock Doctrine](https://en.wikipedia.org/wiki/The_Shock_Doctrine)
+2. [The Shock Doctrine](https://naomiklein.org/the-shock-doctrine/)
+3. [The Shock Doctrine - Official Site](https://tsd.naomiklein.org/shock-doctrine.html)
+4. [The Shock Doctrine: Naomi Klein on the Rise of Disaster Capitalism](https://www.democracynow.org/2007/9/17/the_shock_doctrine_naomi_klein_on)
+
 ## Honest Leadership Act Takes Effect But Fails to Slow Congressional Revolving Door
 *Date: 2007-09-15*
 
@@ -5070,13 +5918,6 @@
 2. [Investigation into the Non-Prosecution Agreement with Jeffrey Epstein (Report)](https://www.justice.gov/opr/page/file/1336471/dl)
 3. [Perversion of Justice: Jeffrey Epstein (topic hub)](https://www.miamiherald.com/topics/jeffrey-epstein)
 4. [Jeffrey Epstein 'Belonged to Intelligence'? (analysis of the claim)](https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/)
-
-## Palantir Gotham Platform Released for Intelligence and Defense Applications
-*Date: 2008-01-01*
-
-1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
-2. [The History of Palantir Technologies: From Visionary Beginnings to a Global Data Powerhouse](https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse)
-3. [Palantir's Relationship With The Intelligence Community Has Been Worse Than You'd Think](https://www.buzzfeednews.com/article/williamalden/palantirs-relationship-with-americas-spies)
 
 ## Palantir Gotham Platform Released for Intelligence and Defense Applications
 *Date: 2008-01-01*
@@ -5375,12 +6216,6 @@
 1. [Enter the Dragnet](https://logicmag.io/commons/enter-the-dragnet/)
 2. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
 
-## LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance
-*Date: 2009-01-01*
-
-1. [Enter the Dragnet](https://logicmag.io/commons/enter-the-dragnet/)
-2. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
-
 ## Harlan Crow Begins Paying Private School Tuition for Thomas's Grandnephew
 *Date: 2009-01-01*
 
@@ -5536,13 +6371,6 @@
 2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
 3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
 
-## In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
-*Date: 2009-07-01*
-
-1. [Recorded Future](https://en.wikipedia.org/wiki/Recorded_Future)
-2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
-3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
-
 ## True the Vote Founded: Tea Party Poll Watching and Voter Challenge Operations Begin
 *Date: 2009-07-01*
 
@@ -5654,18 +6482,18 @@
 2. [Consolidation in Hospital Sector Leading to Higher Health Care Costs](https://harris.uchicago.edu/news-events/news/consolidation-hospital-sector-leading-higher-health-care-costs-study-finds)
 3. [Hospital M&A studies highlight higher prices, tepid antitrust intervention](https://www.fiercehealthcare.com/finance/hospital-ma-studies-highlight-higher-prices-tepid-antitrust-intervention)
 
+## McKinsey Expands State Government Austerity Consulting Following Great Recession Budget Crisis
+*Date: 2010-01-01*
+
+1. [Fiscal resilience: Tools to manage state budgets in an age of uncertainty](https://www.mckinsey.com/industries/public-sector/our-insights/fiscal-resilience-tools-to-manage-state-budgets-in-an-age-of-uncertainty)
+2. [Capturing performance opportunities in US state and local governments](https://www.mckinsey.com/industries/public-sector/our-insights/capturing-performance-opportunities-in-us-state-and-local-governments)
+
 ## NSO Group Founded in Israel to Develop Pegasus Spyware
 *Date: 2010-01-01*
 
 1. [NSO Group - Wikipedia](https://en.wikipedia.org/wiki/NSO_Group)
 2. [The rise and fall of NSO Group](https://forbiddenstories.org/the-rise-and-fall-of-nso-group/)
 3. [Who are NSO Group, the company being sued by Apple?](https://cybermagazine.com/cyber-security/who-are-nso-group-company-being-sued-apple)
-
-## NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
-*Date: 2010-01-01*
-
-1. [Private Donors Supply Spy Gear to Cops](https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops)
-2. [How Palantir Is Taking Over New York City](https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085)
 
 ## NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
 *Date: 2010-01-01*
@@ -5818,6 +6646,13 @@
 2. [BBB Explains D-Minus Grade for Trump University](https://abcnews.go.com/Politics/bbb-explains-minus-grade-trump-university/story?id=37491525)
 3. [Trump University Rating was D- in 2010](https://time.com/4251160/better-business-bureau-trump-university-rating/)
 
+## European Commission, ECB, and IMF Form 'Troika' and Impose First Greek Bailout with Harsh Austerity
+*Date: 2010-05-02*
+
+1. [First Economic Adjustment Programme for Greece](https://en.wikipedia.org/wiki/First_Economic_Adjustment_Programme_for_Greece)
+2. [Timeline: Greece's Debt Crisis](https://www.cfr.org/timeline/greeces-debt-crisis-timeline)
+3. [The Troika's Policy in Greece: Rob the Greek people and give the money to private banks](https://www.cadtm.org/The-Troika-s-Policy-in-Greece-Rob-the-Greek-people-and-give-the-money-to)
+
 ## SEC Revolving Door: Wells Fargo Hires Enforcement Official Amid Ongoing Investigations
 *Date: 2010-05-15*
 
@@ -5843,11 +6678,6 @@
 1. [Trump University targeted by NY regulators](https://money.cnn.com/2011/05/20/news/companies/trump_university/index.htm)
 2. [Trump University](https://en.wikipedia.org/wiki/Trump_University)
 3. [What was Trump University, and why is it still important?](https://www.researchcghe.org/blogs/2016-11-22-what-was-trump-university-and-why-is-it-still-important/)
-
-## Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
-*Date: 2010-06-18*
-
-1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
 
 ## Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
 *Date: 2010-06-18*
@@ -5982,12 +6812,13 @@
 3. [Cashing in on Kids: 172 ALEC Education Bills Push Privatization in 2015](https://www.prwatch.org/news/2016/03/13054/cashing-kids-172-alec-education-bills-2015)
 4. [Education Savings Accounts, Explained](https://www.edweek.org/policy-politics/education-savings-accounts-explained/2023/03)
 
-## Pam Bondi Serves as Florida AG 2011-2019, Never Prosecutes Epstein Despite Mounting Evidence
+## Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
 *Date: 2011-01-01*
 
-1. [Bondi Has Been Failing Epstein's Victims for Years](https://www.bloomberg.com/opinion/articles/2025-07-27/bondi-has-been-failing-epstein-s-victims-for-years)
-2. [Could Pam Bondi have prosecuted Jeffrey Epstein?](https://www.yahoo.com/news/could-pam-bondi-prosecuted-jeffrey-120200807.html)
-3. [Julie K. Brown statement on Bondi and Epstein](https://x.com/jkbjournalist/status/1895138335099658275)
+1. [The Design, Development & Certification of the Boeing 737 MAX - Final Report](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
+2. [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
+3. [Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
+4. [Boeing Whistleblower John Barnett Found Dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 
 ## Pam Bondi Serves as Florida AG 2011-2019, Never Prosecutes Epstein Despite Mounting Evidence
 *Date: 2011-01-01*
@@ -6064,6 +6895,13 @@
 4. [GOP Lawmakers Now Admit Years of Obamacare Repeal Votes Were a Sham](https://theintercept.com/2017/03/31/repeal-votes-obamacare/)
 5. [GOP Aims To Kill Obamacare Yet Again After Failing 70 Times](https://www.newsweek.com/gop-health-care-bill-repeal-and-replace-70-failed-attempts-643832)
 
+## Financial Crisis Inquiry Commission Report Released, No Banker Prosecutions Follow
+*Date: 2011-01-27*
+
+1. [The Financial Crisis Inquiry Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
+2. [Financial Crisis Inquiry Commission - Wikipedia](https://en.wikipedia.org/wiki/Financial_Crisis_Inquiry_Commission)
+3. [Financial Crisis Hearing, Like Pecora Commission, Offers Rare Opportunity](https://www.cbsnews.com/news/financial-crisis-hearing-like-pecora-commission-offers-rare-opportunity/)
+
 ## Chris Dodd Becomes Hollywood's Chief Lobbyist After Promising No Lobbying
 *Date: 2011-03-01*
 
@@ -6114,13 +6952,6 @@
 2. [How Donald Trump Perpetuated the 'Birther' Movement for Years](https://abcnews.go.com/Politics/donald-trump-perpetuated-birther-movement-years/story?id=42138176)
 3. [14 of Trump's most outrageous 'birther' claims – half from after 2011](https://www.cnn.com/2016/09/09/politics/donald-trump-birther/)
 4. [Trump on Birtherism: Wrong, and Wrong](https://www.factcheck.org/2016/09/trump-on-birtherism-wrong-and-wrong/)
-
-## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
-*Date: 2011-05-01*
-
-1. [When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/justice/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/)
-2. [Attorney General Pam Bondi's Motive Questioned in Firing of Mortgage Fraud Investigators](https://flaglerlive.com/pam-bondi-fires-mortgage-attorneys/)
-3. [Report: Trump AG Pick Bondi Frequently Sold Out Her Former Office](https://accountable.us/report-trump-ag-pick-bondi-frequently-sold-out-her-former-office-to-big-corporate-donors-at-publics-expense/)
 
 ## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
 *Date: 2011-05-01*
@@ -6293,6 +7124,20 @@
 3. [Judicial activist urged 'no mention of Ginni' in arranged payment to Clarence Thomas's wife](https://thehill.com/regulation/court-battles/3989854-judicial-activist-urged-no-mention-of-ginni-in-arranged-payment-to-clarence-thomass-wife-wapo/)
 4. [WaPo - Supreme Court justice's wife received thousands in 'hidden payments'](https://www.cnn.com/videos/politics/2023/05/05/ginni-thomas-payments-leonard-leo-wapo-nc-vpx.cnn)
 
+## McKinsey Africa Begins Bribery Scheme with South African State-Owned Enterprises
+*Date: 2012-01-01*
+
+1. [McKinsey & Company Africa To Pay Over $120 Million In Connection With Bribery Of South African Government Officials](https://www.justice.gov/usao-sdny/pr/mckinsey-company-africa-pay-over-120-million-connection-bribery-south-african)
+2. [South Africa: Consulting firms, including McKinsey, under fire in 'state capture' probe](https://www.theafricareport.com/193472/south-africa-consulting-firms-including-mckinsey-under-fire-in-state-capture-probe/)
+3. [How Consulting Firms Enabled State Capture in South Africa](https://giace.org/press/how-consulting-firms-enabled-state-capture-in-south-africa/)
+
+## McKinsey Works Alongside Paul Manafort to Rebrand Ukraine's Viktor Yanukovych as Reformer
+*Date: 2012-01-01*
+
+1. [The iconic U.S. company raising the stature of corrupt governments around the world](https://www.seattletimes.com/nation-world/the-iconic-u-s-company-raising-the-stature-of-corrupt-governments-around-the-world/)
+2. [How McKinsey has helped raise the stature of authoritarian Governments?](https://marcellus.in/story/how-mckinsey-has-helped-raise-the-stature-of-authoritarian-governments/)
+3. [McKinsey help raise stature of authoritarian govts. worldwide, according to New York Times](https://www.business-humanrights.org/en/latest-news/mckinsey-help-raise-stature-of-authoritarian-govts-worldwide-according-to-new-york-times/)
+
 ## Nonprofit Hospital CEO Compensation Explodes: 42.5% Increase While Community Benefit Stagnates
 *Date: 2012-01-01*
 
@@ -6340,6 +7185,13 @@
 1. [Trump used $258,000 from his charity to settle legal problems](https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html)
 2. [AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board](https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board)
 3. [Trump's Charitable Foundation to Shut Down, New York Attorney General Says](https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html)
+
+## Greece Accepts Second Troika Bailout of €130 Billion with 53.5% Private Debt Haircut
+*Date: 2012-03-09*
+
+1. [Greek austerity packages](https://en.wikipedia.org/wiki/Greek_austerity_packages)
+2. [Timeline: Greece's Debt Crisis](https://www.cfr.org/timeline/greeces-debt-crisis-timeline)
+3. [Lessons from the IMF's Bailout of Greece](https://financialservices.house.gov/uploadedfiles/hhrg-115-ba19-wstate-rnelson-20170518.pdf)
 
 ## STOCK Act Signed into Law
 *Date: 2012-04-04*
@@ -6931,13 +7783,6 @@
 2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
 3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
 
-## Pam Bondi Receives Illegal $25,000 Trump Foundation Donation During Trump University Investigation
-*Date: 2013-09-17*
-
-1. [The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/)
-2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
-3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
-
 ## Brazil's President Cancels US State Visit Over NSA Spying on Dilma Rousseff
 *Date: 2013-09-17*
 
@@ -7094,6 +7939,13 @@
 1. [NSO Group - Wikipedia](https://en.wikipedia.org/wiki/NSO_Group)
 2. [Francisco Partners Offloads Israeli Surveillance Company NSO](https://www.calcalistech.com/ctech/articles/0,7340,L-3756381,00.html)
 3. [What to know about the investors behind embattled spyware firm NSO Group](https://www.axios.com/2021/07/22/nso-group-spying-investors)
+
+## McKinsey & Company Hired by NYC to Reduce Violence at Rikers Island Jail Complex
+*Date: 2014-01-01*
+
+1. [New York City Paid McKinsey Millions to Stem Jail Violence. Instead, Violence Soared.](https://www.propublica.org/article/new-york-city-paid-mckinsey-millions-to-stem-jail-violence-instead-violence-soared)
+2. [ProPublica: NYC Paid McKinsey To Stem Jail Violence. Instead, It Soared](https://www.npr.org/2019/12/11/787001049/propublica-nyc-paid-mckinsey-to-stem-jail-violence-instead-it-soared)
+3. [New York City Paid McKinsey & Company Millions for Failed Program to Reduce Jail Violence](https://www.prisonlegalnews.org/news/2020/apr/1/new-york-city-paid-mckinsey-company-millions-failed-program-reduce-jail-violence/)
 
 ## Verizon Lawsuit Successfully Overturns FCC Net Neutrality Rules, Court Demands Title II Reclassification
 *Date: 2014-01-14*
@@ -7385,13 +8237,6 @@
 2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
 3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
 
-## Gamergate Begins: 4chan Harassment Campaign Becomes Political Mobilization Blueprint
-*Date: 2014-08-16*
-
-1. [Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream](https://www.buzzfeednews.com/article/josephbernstein/heres-how-breitbart-and-milo-smuggled-white-nationalism)
-2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
-3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
-
 ## Eric Cantor Joins Wall Street Investment Bank for $3.4M After House Leadership
 *Date: 2014-09-02*
 
@@ -7512,6 +8357,12 @@
 3. [Carbyne Raises $15M for Next-Gen 911 Service](https://techcrunch.com/2018/08/14/carbyne-raises-15m-for-its-first-israeli-startup/)
 4. [The Intersection of Silicon Valley, Intelligence Networks, and Jeffrey Epstein](https://www.ibtimes.com/silicon-valley-intelligence-networks-jeffrey-epstein-3658263)
 5. [Leaked Emails Reveal Epstein's Surveillance Empire Ties](https://nationalfile.com/epstein-emails-barak-thiel-surveillance-08-30-2025/)
+
+## McKinsey Advises State Medicaid Programs on Managed Care Restructuring and Cost Containment
+*Date: 2015-01-01*
+
+1. [Next-generation contracting: Managed Medicaid for individuals with special or supportive care needs](https://www.mckinsey.com/industries/healthcare/our-insights/next-generation-contracting-managed-medicaid-for-individuals-with-special-or-supportive-care-needs)
+2. [Medicaid](https://www.mckinsey.com/industries/healthcare/how-we-help-clients/americas/medicaid)
 
 ## West Virginia Suffers Highest Per-Capita Opioid Rate, 67 Pills Per Person Annually
 *Date: 2015-01-01*
@@ -7670,6 +8521,19 @@
 2. [NBC Dumps Donald Trump Over Comments On Mexican Immigrants](https://www.npr.org/2015/06/29/418641198/nbc-dumps-donald-trump-over-comments-on-mexican-immigrants)
 3. [NBC Cutting Ties to Donald Trump Over 'Derogatory' Comments](https://variety.com/2015/tv/news/nbc-donald-trump-immigrants-1201530568/)
 
+## McKinsey and NYC Corrections Officials Rig 'Restart' Program Data at Rikers Island
+*Date: 2015-07-01*
+
+1. [New York City Paid McKinsey Millions to Stem Jail Violence. Instead, Violence Soared.](https://www.propublica.org/article/new-york-city-paid-mckinsey-millions-to-stem-jail-violence-instead-violence-soared)
+2. [McKinsey Was Paid Millions to Reduce Violence at Rikers. So It Reportedly Gamed the Numbers to Look Like It Did.](https://slate.com/news-and-politics/2019/12/new-york-city-paid-mckinsey-millions-reduce-violence-rikers-island-jail-complex.html)
+
+## Greeks Vote 61% 'Oxi' (No) to Reject Troika Austerity in Historic Referendum
+*Date: 2015-07-05*
+
+1. [2015 Greek bailout referendum](https://en.wikipedia.org/wiki/2015_Greek_bailout_referendum)
+2. [Yanis Varoufakis on the Legacy of Greece's Oxi Referendum](https://jacobin.com/2025/07/yanis-varoufakis-on-the-legacy-of-greeces-oxi-referendum)
+3. [After Bailout Referendum Is Rejected, Greece's Finance Minister Resigns](https://www.npr.org/sections/thetwo-way/2015/07/05/420238573/greeks-decide-the-fate-of-their-economy-in-crucial-referendum)
+
 ## Russian Agent Maria Butina Questions Trump About Sanctions at FreedomFest, Trump Promises to "Get Along" with Putin
 *Date: 2015-07-11*
 
@@ -7701,6 +8565,13 @@
 1. [Audit Report on the NYPD's Oversight of Its Agreement with ShotSpotter Inc.](https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-police-departments-oversight-of-its-agreement-with-shotspotter-inc-for-the-gunshot-detection-and-location-system/)
 2. [Sacramento Police Department - Gunshot Detection](https://www.atlasofsurveillance.org/a/AOS007259)
 3. [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter)
+
+## Greece Accepts Third Bailout of €86 Billion Despite 61% Referendum Rejection Six Weeks Earlier
+*Date: 2015-08-19*
+
+1. [Greece: the third economic adjustment programme](https://www.consilium.europa.eu/en/policies/financial-assistance-eurozone-members/greece-programme/)
+2. [Greek government-debt crisis](https://en.wikipedia.org/wiki/Greek_government-debt_crisis)
+3. [Tsipras on the Political Drama of July 2015: Defiance, the 17-Hour Showdown and the U-Turn](https://greekreporter.com/2025/11/24/tsipras-political-drama-july-2015/)
 
 ## Chainalysis Secures First Federal Contract with FBI for $9,000
 *Date: 2015-09-01*
@@ -7846,6 +8717,14 @@
 2. [Why A GOP Strategist Turned Down Working With Cambridge Analytica](https://www.npr.org/2018/03/22/595967438/why-a-gop-strategist-turned-down-working-with-cambridge-analytica)
 3. [Cambridge Analytica, Data Firm That Scraped Facebook, Is Closing](https://www.npr.org/sections/thetwo-way/2018/05/02/607782799/cambridge-analytica-is-shutting-down-after-facebook-data-controversy)
 
+## McKinsey Develops Saudi Vision 2030 Economic Blueprint for Crown Prince MBS
+*Date: 2015-12-01*
+
+1. [Saudi Arabia's McKinsey reshuffle](https://www.brookings.edu/articles/saudi-arabias-mckinsey-reshuffle/)
+2. [Implementing Saudi Arabia's Vision 2030](https://www.brandeis.edu/crown/publications/middle-east-briefs/pdfs/101-200/meb127.pdf)
+3. [Clouded Vision: The Flawed Economic Policy of Saudi Arabia's Vision 2030](https://www.the-generation.net/clouded-vision-the-flawed-economic-policy-of-saudi-arabias-vision-2030/)
+4. [Saudi Vision 2030](https://en.wikipedia.org/wiki/Saudi_Vision_2030)
+
 ## NRA Leaders Travel to Moscow on Trip Arranged by Maria Butina and Alexander Torshin, Meet High-Level Russian Officials
 *Date: 2015-12-10*
 
@@ -7900,6 +8779,12 @@
 1. [Grayshift - Wikipedia](https://en.wikipedia.org/wiki/Grayshift)
 2. [GrayKey iPhone unlocker poses serious security concerns](https://www.malwarebytes.com/blog/news/2018/03/graykey-iphone-unlocker-poses-serious-security-concerns)
 3. [Grayshift - 2025 Company Profile](https://tracxn.com/d/companies/grayshift/__LflU_b0S0eXja4FHNvKnyQwJcKy-kovxF-2dljSlCds)
+
+## McKinsey & Company Begins ICE 'Organizational Transformation' Contract Under Obama Administration
+*Date: 2016-01-01*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [McKinsey ends work with ICE amid furor over immigration policy](https://www.cnbc.com/2018/07/09/mckinsey-ends-work-with-ice-amid-furor-over-immigration-policy.html)
 
 ## NRA Spends Record $30-55 Million Supporting Trump, FBI Investigates Russian Money Laundering
 *Date: 2016-01-01*
@@ -8082,6 +8967,15 @@
 3. [U.S. Treasury Provides Missing Link: Manafort's Partner Gave Campaign Polling Data to Kremlin](https://www.justsecurity.org/75766/us-treasury-provides-missing-link-manaforts-partner-gave-campaign-polling-data-to-kremlin-in-2016/)
 4. [Paul Manafort Briefed Russian Intelligence Member on 'Battleground States' That Nearly All Voted for Trump](https://www.newsweek.com/paul-manafort-russian-intelligence-kilimnik-collusion-trump-campaign-1400826)
 
+## Puerto Rico Defaults on $422 Million Bond Payment, Triggering Largest Municipal Debt Crisis in U.S. History
+*Date: 2016-05-01*
+
+1. [Puerto Rican government-debt crisis](https://en.wikipedia.org/wiki/Puerto_Rican_government-debt_crisis)
+2. [Puerto Rico Plays Brinkmanship with Historic Debt Default](https://www.institutionalinvestor.com/article/2bsy6j2nllk8xxhojoe0w/corner-office/puerto-rico-plays-brinkmanship-with-historic-debt-default)
+3. [Puerto Rico Gov. Signs Bill Authorizing Halt of Debt Payments](https://www.democracynow.org/2016/4/7/headlines/puerto_rico_gov_signs_bill_authorizing_halt_of_debt_payments)
+4. [Wall Street's Solution to Puerto Rico Debt Crisis? Shutter Schools, Fire Workers](https://www.commondreams.org/news/2015/07/28/wall-streets-solution-puerto-rico-debt-crisis-shutter-schools-fire-workers)
+5. [Puerto Rico's Public Debts: Accumulation and Restructuring](https://www.congress.gov/crs-product/R46788)
+
 ## Roger Stone Meets Russian National Offering Clinton Dirt for $2 Million
 *Date: 2016-05-01*
 
@@ -8179,6 +9073,15 @@
 2. [Fact-Checking Vance's Trump Statements](https://www.pbs.org/newshour/politics/fact-checking-j-d-vances-past-statements-and-relationship-with-trump)
 3. [Hillbilly Elegy's Political Context](https://www.britannica.com/topic/Hillbilly-Elegy)
 4. [J.D. Vance's Political Evolution](https://time.com/6078483/j-d-vance-interview-trump/)
+
+## Obama Signs PROMESA Creating Unelected Fiscal Control Board to Govern Puerto Rico's $72 Billion Debt Crisis
+*Date: 2016-06-30*
+
+1. [Puerto Rico Oversight, Management, and Economic Stability Act](https://en.wikipedia.org/wiki/PROMESA)
+2. [Frequently Asked Questions - Financial Oversight and Management Board for Puerto Rico](https://oversightboard.pr.gov/faq/)
+3. [Puerto Rico's Fiscal Control Board: A Parallel Government Full of Lawyers and Consultants](https://www.latinousa.org/2018/08/02/puertoricofcb/)
+4. [The Unelected Board Governing Puerto Rico Will Continue to Operate in Secret](https://jacobin.com/2023/05/puerto-rico-fomb-debt-board-supreme-court-ruling-transparency)
+5. [PROMESA: A Failed Colonial Experiment?](https://grupocne.org/2021/06/29/promesa-a-failed-colonial-experiment/)
 
 ## Harvey Weinstein Hires Black Cube to Suppress Rose McGowan Allegations
 *Date: 2016-07-01*
@@ -8516,6 +9419,12 @@
 2. [The Design, Development & Certification of the Boeing 737 MAX](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
 3. [The Boeing 737 MAX - Lessons for Engineering Ethics](https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/)
 
+## NYC Extends McKinsey Rikers Contract to $27.5 Million Despite Escalating Violence
+*Date: 2016-11-01*
+
+1. [New York City Paid McKinsey Millions to Stem Jail Violence. Instead, Violence Soared.](https://www.propublica.org/article/new-york-city-paid-mckinsey-millions-to-stem-jail-violence-instead-violence-soared)
+2. [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
+
 ## National Enquirer Shreds Trump Documents from Safe After WSJ Inquiry
 *Date: 2016-11-04*
 
@@ -8551,6 +9460,22 @@
 1. [Introducing Amazon Rekognition](https://aws.amazon.com/about-aws/whats-new/2016/11/introducing-amazon-rekognition/)
 2. [Amazon launches Amazon AI to bring its machine learning smarts to developers](https://techcrunch.com/2016/11/30/amazon-launches-amazon-ai-to-bring-its-machine-learning-smarts-to-developers/)
 3. [Amazon Teams Up With Government to Deploy Dangerous New Facial Recognition Technology](https://www.aclu.org/news/privacy-technology/amazon-teams-government-deploy-dangerous-new)
+
+## McKinsey & Company Hired as Lead Strategic Adviser to Puerto Rico Fiscal Control Board Despite Owning $20+ Million in Puerto Rico Bonds
+*Date: 2016-11-30*
+
+1. [McKinsey: Puerto Rico Bondholder and Fiscal Board's Lead Adviser](https://periodismoinvestigativo.com/2018/12/mckinsey-puerto-rico-bondholder-and-fiscal-boards-lead-adviser/)
+2. [Puerto Rico Consultant McKinsey & Company's Ownership of $20 Million of Puerto Rico Bonds Raises Conflict of Interest Concerns](https://www.investorlawyers.com/blog/puerto-rico-consultant-mckinsey-companys-ownership-of-20-million-of-puerto-rico-bonds-raises-conflict-of-interest-concerns/)
+3. [Fiscal control board amends contract with McKinsey & Co.](https://caribbeanbusiness.com/fiscal-control-board-amends-contract-with-mckinsey-co/)
+4. [Puerto Rico's Fiscal Control Board: Parallel Government Full of Lawyers and Consultants](https://periodismoinvestigativo.com/2018/08/puerto-ricos-fiscal-control-board-parallel-government-full-of-lawyers-and-consultants/)
+5. [What McKinsey Is Doing in Puerto Rico](https://nonprofitquarterly.org/what-mckinsey-is-doing-in-puerto-rico/)
+
+## McKinsey Creates Report Identifying Saudi Dissidents on Twitter for Internal Use
+*Date: 2016-12-01*
+
+1. [Saudi dissident files lawsuit against McKinsey for outing him as MBS opponent](https://www.middleeasteye.net/news/saudi-dissident-files-lawsuit-against-consulting-firm-mckinsey)
+2. [McKinsey Says It's 'Horrified' Saudi Arabia Report May Have Been Misused](https://www.bloomberg.com/news/articles/2018-10-21/mckinsey-horrified-saudi-arabia-report-may-have-been-misused)
+3. [Saudi govt. deployed 'Twitter troll army' to silence critics and allegedly used McKinsey analysis to target dissidents](https://www.business-humanrights.org/en/latest-news/saudi-govt-deployed-twitter-troll-army-to-silence-critics-and-allegedly-used-mckinsey-analysis-to-target-dissidents/)
 
 ## Saudi Lobbyists Book 500 Rooms at Trump Hotel After Election
 *Date: 2016-12-01*
@@ -8657,32 +9582,19 @@
 3. [Russian oligarch held stake in Musk's SpaceX through trust despite sanctions](https://kyivindependent.com/russian-oligarchs-hidden-stake-in-musks-spacex-revealed-despite-sanctions-bloomberg-reported/)
 4. [Russian oligarch and politician retained stake in SpaceX for 4 years under US sanctions](https://www.pravda.com.ua/eng/news/2025/01/30/7495952/)
 
+## McKinsey Advises 22 of China's Largest State-Owned Enterprises Implementing CCP Strategic Initiatives
+*Date: 2017-01-01*
+
+1. [McKinsey Equipped America's Foremost Adversary and Misrepresented Work for the Chinese Military Under Oath](https://selectcommitteeontheccp.house.gov/media/investigations/mckinsey-equipped-americas-foremost-adversary-and-misrepresented-work-chinese)
+2. [Consulting giant McKinsey profits off both sides of U.S.-China cold war](https://www.nbcnews.com/politics/national-security/advising-both-chinese-state-companies-pentagon-mckinsey-co-comes-under-n1283777)
+3. [The iconic U.S. company raising the stature of corrupt governments around the world](https://www.seattletimes.com/nation-world/the-iconic-u-s-company-raising-the-stature-of-corrupt-governments-around-the-world/)
+
 ## Pecker and Howard Remove Trump Documents from National Enquirer Safe Before Inauguration
 *Date: 2017-01-01*
 
 1. [National Enquirer removed Trump secrets before inauguration](https://www.nbcnews.com/politics/donald-trump/national-enquirer-hid-trump-secrets-safe-removed-them-inauguration-n903356)
 2. [Enquirer's safe held damaging Trump stories](https://www.cnbc.com/2018/08/23/national-enquirers-safe-held-damaging-trump-stories.html)
 3. [Former National Enquirer publisher testifies about his role in helping Trump in 2016](https://www.npr.org/2024/04/27/1247649199/former-national-enquirer-publisher-testifies-about-his-role-in-helping-trump-in-)
-
-## Russian Oligarch Kerimov Acquires 1% SpaceX Stake Through Heritage Trust
-*Date: 2017-01-01*
-
-1. [The Moscow Times]()
-2. [U.S. Department of Treasury]()
-3. [Bloomberg News]()
-4. [Kyiv Independent]()
-
-## Russian Oligarch Kerimov Acquires 1% SpaceX Stake Through Heritage Trust
-*Date: 2017-01-01*
-
-1. [Bloomberg](Bloomberg)
-2. [U.S. Department of Treasury](U.S. Department of Treasury)
-3. [The Moscow Times](The Moscow Times)
-4. [Kyiv Independent](Kyiv Independent)
-5. [Bloomberg](Bloomberg)
-6. [U.S. Department of Treasury](U.S. Department of Treasury)
-7. [The Moscow Times](The Moscow Times)
-8. [Kyiv Independent](Kyiv Independent)
 
 ## Intelligence Community Assessment Concludes Putin Ordered Campaign to Influence 2016 Election
 *Date: 2017-01-06*
@@ -8769,6 +9681,13 @@
 2. [How Heritage Foundation shaped Trump administration](https://www.nytimes.com/2018/06/20/magazine/trump-government-heritage-foundation-think-tank.html)
 3. [Heritage Foundation's unprecedented influence](https://www.politico.com/story/2018/01/23/heritage-foundation-trump-administration-358756)
 
+## McKinsey's ICE Contract Redirected Toward Trump's Immigration Crackdown and Detention Cost-Cutting
+*Date: 2017-01-20*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding for Detainees: Report](https://www.thedailybeast.com/consulting-firm-mckinsey-and-company-told-ice-to-cut-food-medical-funding-for-detainees-report)
+3. [Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That Even ICE Staff Viewed as Too Harsh on Immigrants](https://www.commondreams.org/news/2019/12/04/consulting-giant-mckinsey-suggested-detention-savings-opportunities-even-ice-staff)
+
 ## Secret Service Pays $1.4M to Trump Properties for Protection
 *Date: 2017-01-20*
 
@@ -8812,12 +9731,11 @@
 3. [President Trump Signs Executive Order Pushing Energy Transfer Partners' Dakota Pipeline](https://www.dallasobserver.com/news/president-trump-signs-executive-order-pushing-energy-transfer-partners-dakota-pipeline-9116038)
 4. [The Dakota Access Pipeline (DAPL)](https://eelp.law.harvard.edu/tracker/dakota-access-pipeline/)
 
-## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
+## McKinsey Work Redirected to Trump's Immigration Crackdown: Deportation Acceleration and Detention Cost Reduction
 *Date: 2017-01-27*
 
-1. [Two Courts Find That, Yes, It Was a Muslim Ban All Along](https://www.aclu.org/news/immigrants-rights/two-courts-find-yes-it-was-muslim-ban-all-along)
-2. [Stephen Miller: A driving force behind the Muslim ban and family separation policy](https://www.splcenter.org/hatewatch/2019/02/25/stephen-miller-driving-force-behind-muslim-ban-and-family-separation-policy)
-3. [Executive Order 13769](https://en.wikipedia.org/wiki/Executive_Order_13769)
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [McKinsey proposed ICE cut spending on food and medical care for detained migrants to reduce costs](https://slate.com/news-and-politics/2019/12/mckinsey-suggested-ice-cut-food-medical-spending-detained-illegal-migrants.html)
 
 ## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
 *Date: 2017-01-27*
@@ -8871,6 +9789,13 @@
 1. [The $250 Million Dark Money Operation to Capture the Supreme Court](https://www.nytimes.com/2023/08/22/us/politics/leonard-leo-courts-dark-money.html)
 2. [Trump's judicial appointments](https://en.wikipedia.org/wiki/Donald_Trump_judicial_appointments)
 3. [How the Federalist Society won](https://www.politico.com/news/2022/06/24/federalist-society-supreme-court-00041801)
+
+## McKinsey Redirected from Obama-Era ICE Reform to Trump Immigration Crackdown Consulting
+*Date: 2017-02-01*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding for Detainees: Report](https://www.thedailybeast.com/consulting-firm-mckinsey-and-company-told-ice-to-cut-food-medical-funding-for-detainees-report/)
+3. [McKinsey proposed ICE cut spending on food and medical care for detained migrants to reduce costs](https://slate.com/news-and-politics/2019/12/mckinsey-suggested-ice-cut-food-medical-spending-detained-illegal-migrants.html)
 
 ## Rex Tillerson ExxonMobil CEO Becomes Secretary of State
 *Date: 2017-02-01*
@@ -9013,6 +9938,15 @@
 2. [Preet Bharara, U.S. attorney fired by Trump: 'We should never be a rubber stamp for the White House'](https://www.nbcnews.com/news/us-news/preet-bharara-u-s-attorney-fired-trump-we-should-never-n743666)
 3. [Trump's Personal Lawyer Boasted That He Got Preet Bharara Fired](https://www.propublica.org/article/trump-personal-lawyer-boasted-that-he-got-preet-bharara-fired)
 
+## McKinsey-Designed Fiscal Plan Mandates Devastating Austerity: Pension Cuts, School Closures, Healthcare Privatization, Furloughs
+*Date: 2017-03-13*
+
+1. [Board orders furloughs, pension cuts, more for 'capsizing' Puerto Rico](https://www.nbcnews.com/news/latino/board-orders-furloughs-pension-cuts-more-puerto-rico-n732941)
+2. [Extreme Measures: How Puerto Rico's Bankruptcy Caused a Radical Change to Its Public Pension Retirement Systems](https://www.wolfpopper.com/news/extreme-measures-how-puerto-ricos-bankruptcy-caused-a-radical-change-to-its-public-pension-retirement-systems)
+3. [Keeping our PROMESA: What the U.S. can do about Puerto Rico's fiscal crisis](https://www.brookings.edu/articles/keeping-our-promesa-what-the-u-s-can-do-about-puerto-ricos-fiscal-crisis/)
+4. [McKinsey: Doing God's Work in Puerto Rico](https://www.nakedcapitalism.com/2019/04/mckinsey-doing-gods-work-in-puerto-rico.html)
+5. [What McKinsey Is Doing in Puerto Rico](https://nonprofitquarterly.org/what-mckinsey-is-doing-in-puerto-rico/)
+
 ## Reuters finds Russians paid $98.4 million for Trump-branded Florida condos
 *Date: 2017-03-17*
 
@@ -9067,11 +10001,12 @@
 1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
 2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
 
-## Palmer Luckey Leaves Facebook After Political Donation Controversy
+## McKinsey Proposes 'Detention Savings Opportunities': Cuts to Food, Medical Care, and Guard Supervision for Migrants
 *Date: 2017-03-30*
 
-1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
-2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That Even ICE Staff Viewed as Too Harsh on Immigrants](https://www.commondreams.org/news/2019/12/04/consulting-giant-mckinsey-suggested-detention-savings-opportunities-even-ice-staff)
+3. [Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding for Detainees: Report](https://www.thedailybeast.com/consulting-firm-mckinsey-and-company-told-ice-to-cut-food-medical-funding-for-detainees-report)
 
 ## Judge Curiel Approves $25 Million Trump University Settlement, Victims to Receive 90% Refunds
 *Date: 2017-03-31*
@@ -9079,6 +10014,12 @@
 1. [Judge Approves $25 Million Settlement Of Trump University Lawsuit](https://www.npr.org/sections/thetwo-way/2017/03/31/522199535/judge-approves-25-million-settlement-of-trump-university-lawsuit)
 2. [Court Approval of $25 million Settlement in Trump University Case](https://www.rgrdlaw.com/news-item-Approval-of-25-million-Settlement-in-Trump-University-Case-033117.html)
 3. [Trump University](https://en.wikipedia.org/wiki/Trump_University)
+
+## McKinsey Delivers Final Rikers Report After Violence Soars Nearly 50% During Contract Period
+*Date: 2017-04-01*
+
+1. [New York City Paid McKinsey Millions to Stem Jail Violence. Instead, Violence Soared.](https://www.propublica.org/article/new-york-city-paid-mckinsey-millions-to-stem-jail-violence-instead-violence-soared)
+2. [ProPublica: NYC Paid McKinsey To Stem Jail Violence. Instead, It Soared](https://www.npr.org/2019/12/11/787001049/propublica-nyc-paid-mckinsey-to-stem-jail-violence-instead-it-soared)
 
 ## Steve Bannon Removed from National Security Council After Unprecedented Political Appointment Sparked Bipartisan Outrage
 *Date: 2017-04-05*
@@ -9177,6 +10118,12 @@
 1. [Jeffrey Epstein's Veiled Threat to Bill Gates](https://www.wsj.com/)
 2. [Jeffrey Epstein Allegedly Tried to Extort Bill Gates](https://www.irishtimes.com/world/us/2023/05/22/jeffrey-epstein-allegedly-tried-to-extort-bill-gates-over-extramarital-affair/)
 3. [Bill Gates Affair Row: The Epstein Connection](https://www.businesstoday.in/visualstories/corporates/bill-gates-affair-row-who-is-mila-antonova-the-russian-bridge-player-involved-in-alleged-affair-with-microsoft-co-founder-know-all-about-the-jeffrey-epstein-connection-37860-22-05-2023)
+
+## McKinsey Ghostwrites Its Own $2.2 Million ICE Contract Extension: Consulting Firm Defines Its Own Scope of Work
+*Date: 2017-05-01*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [Consulting firm McKinsey's suggestions for ICE were sometimes too harsh even for the agency](https://www.mic.com/impact/consulting-firm-mckinseys-suggestions-for-ice-were-sometimes-too-harsh-even-for-the-agency-19426397)
 
 ## Ed Feulner Returns as Heritage Foundation Interim President After DeMint Ousted for Management Failures
 *Date: 2017-05-02*
@@ -9300,12 +10247,6 @@
 1. [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
 2. [Report: Anduril Industries Business Breakdown & Founding Story](https://research.contrary.com/company/anduril)
 
-## Anduril Industries Founded by Palmer Luckey and Former Palantir Executives
-*Date: 2017-06-16*
-
-1. [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
-2. [Report: Anduril Industries Business Breakdown & Founding Story](https://research.contrary.com/company/anduril)
-
 ## Trump Orders McGahn to Fire Mueller, Triggering Potential "Saturday Night Massacre"
 *Date: 2017-06-17*
 
@@ -9335,6 +10276,14 @@
 2. [6 Takeaways From Georgia's 'Use It Or Lose It' Voter Purge Investigation](https://www.npr.org/2018/10/22/659591998/6-takeaways-from-georgias-use-it-or-lose-it-voter-purge-investigation)
 3. [Voter Purges: What Georgians Heading to the Polls Need to Know](https://www.propublica.org/article/voter-purges-what-georgians-heading-to-the-polls-need-to-know)
 4. [Georgia voters purge may be largest in U.S. history](https://www.ajc.com/news/state--regional-govt--politics/voter-purge-begs-question-what-the-matter-with-georgia/YAFvuk3Bu95kJIMaDiDFqJ/)
+
+## McKinsey Contracted to Develop 'Detailed Privatization Plans' for Puerto Rico's Electric Utility PREPA Just Months Before Hurricane Maria
+*Date: 2017-07-01*
+
+1. [McKinsey: Doing God's Work in Puerto Rico](https://www.nakedcapitalism.com/2019/04/mckinsey-doing-gods-work-in-puerto-rico.html)
+2. [As Puerto Rico's Privatized Power Grid Collapses, Its Owner Eyes A Bigger Payday](https://www.huffpost.com/entry/puerto-rico-power-grid-luma-energy-hurricane-damage_n_6349f7cee4b08e0e6083b06c)
+3. [Puerto Rico's Electricity Nightmare Was Brought to You by Privatization](https://progressive.international/wire/2022-11-11-puerto-ricos-electricity-nightmare-was-brought-to-you-by-privatization/en/)
+4. [Contract Between Puerto Rico, LUMA Energy Sets up Full Privatization](https://ieefa.org/wp-content/uploads/2020/10/Contract-with-LUMA-Energy-Sets-up-Full-Privatization_Higher-Rates_October-2020.pdf)
 
 ## Netanyahu Meets Visegrad Leaders in Budapest Before Hungary and Poland Purchase Pegasus
 *Date: 2017-07-19*
@@ -9386,12 +10335,6 @@
 1. [Ohio Man Sentenced to Life in Prison for Federal Hate Crimes Related to August 2017 Car Attack at Rally in Charlottesville, Virginia](https://www.justice.gov/archives/opa/pr/ohio-man-sentenced-life-prison-federal-hate-crimes-related-august-2017-car-attack-rally)
 2. [Charlottesville Jury Convicts 'Unite The Right' Protester Who Killed Woman](https://www.npr.org/2018/12/07/674672922/james-alex-fields-unite-the-right-protester-who-killed-heather-heyer-found-guilt)
 3. [Man who drove into Charlottesville protest, killing Heather Heyer, convicted of first-degree murder](https://www.pbs.org/newshour/nation/man-who-drove-into-charlottesville-protest-killing-heather-heyer-convicted-of-first-degree-murder)
-
-## Nick Fuentes Attends Unite the Right Rally in Charlottesville
-*Date: 2017-08-12*
-
-1. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
-2. [White Power Rising: The Making of Nick Fuentes](https://globalextremism.org/post/the-making-of-nick-fuentes/)
 
 ## Nick Fuentes Attends Unite the Right Rally in Charlottesville
 *Date: 2017-08-12*
@@ -9482,6 +10425,15 @@
 2. [Treasury Secretary Mnuchin requested government jet for European honeymoon](https://abcnews.go.com/Politics/treasury-secretary-mnuchin-requested-government-jet-european-honeymoon/story?id=49777076)
 3. [Honeymoon phase over. Just-married Mnuchin cancels gov't love jet](https://www.nbcnews.com/politics/politics-news/honeymoon-over-just-married-mnuchin-cancels-gov-t-jet-n801271)
 
+## Hurricane Maria Devastates Puerto Rico, Exposing Infrastructure Collapse While McKinsey Continues Advising on Privatization and Austerity
+*Date: 2017-09-20*
+
+1. ['Disaster Capitalism' and the Attempts to Privatize Puerto Rico](https://www.wnycstudios.org/podcasts/takeaway/segments/disaster-capitalism-and-attempts-privatize-puerto-rico)
+2. [There's Nothing Natural About Puerto Rico's Disaster](https://theintercept.com/2018/09/21/puerto-rico-hurricane-maria-disaster-capitalism/)
+3. [McKinsey: Doing God's Work in Puerto Rico](https://www.nakedcapitalism.com/2019/04/mckinsey-doing-gods-work-in-puerto-rico.html)
+4. [Disaster Capitalism Strikes Puerto Rico](https://www.publicbooks.org/disaster-capitalism-strikes-puerto-rico/)
+5. [How Disaster Capitalism Has Ruined Puerto Rico](https://www.commondreams.org/views/2018/10/10/how-disaster-capitalism-has-ruined-puerto-rico)
+
 ## Ramaswamy's Axovant Alzheimer drug fails, stock crashes 75% after pump-and-dump
 *Date: 2017-09-26*
 
@@ -9505,6 +10457,12 @@
 1. [Police report lays out details, timeline of sexual assault allegation](https://www.npr.org/2024/11/21/nx-s1-5199630/police-report-gives-details-timeline-of-the-sexual-assault-claim-against-pete-hegseth)
 2. [Police report reveals new details from sexual assault allegation against Trump's defense secretary nominee](https://www.cnn.com/2024/11/21/politics/pete-hegseth-police-report-defense-secretary-trump/index.html)
 3. [NPR Investigates Sexual Misconduct Allegations in Media Industry](https://www.npr.org/2024/12/01/media-accountability-report-sexual-misconduct)
+
+## ICE Credits McKinsey with 'Quantifiable Benefits': Increased Deportations and Reduced Detention Time
+*Date: 2017-10-01*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [McKinsey proposed ICE cut spending on food and medical care for detained migrants to reduce costs](https://slate.com/news-and-politics/2019/12/mckinsey-suggested-ice-cut-food-medical-spending-detained-illegal-migrants.html)
 
 ## Whitefish Energy Wins $300M No-Bid Puerto Rico Contract Despite 2 Employees
 *Date: 2017-10-03*
@@ -9705,6 +10663,13 @@
 1. [ICE Leads The Nation In Encryption-Cracking Expenditures](https://www.techdirt.com/2018/09/25/ice-leads-nation-encryption-cracking-expenditures/)
 2. [The DEA Says It Wants that New iPhone Unlocking Tool 'GrayKey'](https://motherboard.vice.com/en_us/article/mbxba4/graykey-grayshift-dea-iphone-hack)
 3. [Documents Prove Local Cops Have Bought Cheap iPhone Cracking Tech](https://motherboard.vice.com/en_us/article/xw5bqz/documents-prove-local-cops-have-bought-cheap-iphone-cracking-tech)
+
+## McKinsey Works with Kremlin-Linked Russian Companies Under Western Sanctions
+*Date: 2018-01-01*
+
+1. [The iconic U.S. company raising the stature of corrupt governments around the world](https://www.seattletimes.com/nation-world/the-iconic-u-s-company-raising-the-stature-of-corrupt-governments-around-the-world/)
+2. [How McKinsey has helped raise the stature of authoritarian Governments?](https://marcellus.in/story/how-mckinsey-has-helped-raise-the-stature-of-authoritarian-governments/)
+3. [McKinsey help raise stature of authoritarian govts. worldwide, according to New York Times](https://www.business-humanrights.org/en/latest-news/mckinsey-help-raise-stature-of-authoritarian-govts-worldwide-according-to-new-york-times/)
 
 ## Putin-Linked Company Receives Tariff Exemption Until Public Outcry
 *Date: 2018-01-01*
@@ -10176,6 +11141,13 @@
 2. [Northrop Grumman Eyes Next-Gen SIGINT For Army](https://breakingdefense.com/2021/10/northrop-grumman-eyes-next-gen-sigint-for-army/)
 3. [Northrop Grumman to upgrade and provide cyber security for airborne SIGINT](https://www.militaryaerospace.com/communications/article/14073416/airborne-sigint-cyber-security)
 
+## IMF Approves Record $57 Billion Argentina Bailout Under Macri, Largest in Fund History
+*Date: 2018-06-20*
+
+1. [Argentina and the International Monetary Fund](https://en.wikipedia.org/wiki/Argentina_and_the_International_Monetary_Fund)
+2. [IMF throws Argentina a $57 billion lifeline](https://www.atlanticcouncil.org/blogs/new-atlanticist/imf-throws-argentina-a-57-billion-lifeline/)
+3. [Argentina: Ex-Post Evaluation of Exceptional Access Under the 2018 Stand-By Arrangement](https://www.imf.org/en/Publications/CR/Issues/2021/12/22/Argentina-Ex-Post-Evaluation-of-Exceptional-Access-Under-the-2018-Stand-By-Arrangement-511289)
+
 ## Trump Signs Executive Order "Ending" Family Separation After International Outcry
 *Date: 2018-06-20*
 
@@ -10190,6 +11162,12 @@
 1. [Peter Thiel Told FBI About Kremlin Invitations](https://ground.news/article/peter-thiel-told-fbi-about-kremlin-invitations)
 2. [How Peter Thiel Received 2 Kremlin Invites For Meetings With Putin](https://www.benzinga.com/news/23/11/35736615/how-palantir-paypal-co-founder-turned-fbi-informant-peter-thiel-received-two-kremlin-invites-for-pri)
 3. [Billionaire FBI Informant Peter Thiel's Kremlin Invites](https://news.yahoo.com/billionaire-fbi-informant-peter-thiel-130944986.html)
+
+## New York Times Discloses McKinsey's $20 Million ICE Contract: Employee Outrage and Internal Crisis
+*Date: 2018-06-26*
+
+1. [McKinsey & Co. will no longer work with ICE](https://qz.com/work/1325101/mckinsey-company-employees-forced-the-company-to-stop-working-with-ice)
+2. [McKinsey ends work with ICE amid furor over immigration policy](https://www.cnbc.com/2018/07/09/mckinsey-ends-work-with-ice-amid-furor-over-immigration-policy.html)
 
 ## Janus v. AFSCME: Supreme Court Expands Right-to-Work to All Public Sector Workers Nationwide
 *Date: 2018-06-27*
@@ -10211,6 +11189,13 @@
 2. [Scott Pruitt resigns as EPA administrator](https://www.cnn.com/2018/07/05/politics/scott-pruitt-epa-resigns/index.html)
 3. [All of Scott Pruitt's Scandals, Explained](https://www.theatlantic.com/politics/archive/2018/07/scott-pruitt-resigns/564529/)
 
+## McKinsey Agrees to Repay $74 Million to South Africa's Eskom After State Capture Scandal
+*Date: 2018-07-06*
+
+1. [McKinsey Reaches Settlement to Repay Fee to S.Africa's Eskom](https://www.bloomberg.com/news/articles/2018-07-06/mckinsey-reaches-settlement-to-repay-fee-to-south-africa-s-eskom)
+2. [South Africa: McKinsey tries to mop up 'shocking' state capture mess](https://www.theafricareport.com/56115/in-south-africa-mckinsey-tries-to-mop-up-shocking-state-capture-mess/)
+3. [South Africa: McKinsey Accused in Gupta Graft Case](https://www.occrp.org/en/news/south-africa-mckinsey-accused-in-gupta-graft-case)
+
 ## Coal Lobbyist Andrew Wheeler Becomes Acting EPA Administrator After Pruitt Resignation
 *Date: 2018-07-09*
 
@@ -10218,6 +11203,20 @@
 2. [Senate Confirms Andrew Wheeler To Lead EPA](https://www.npr.org/2019/02/28/698814670/senate-confirms-andrew-wheeler-to-lead-epa)
 3. [EPA's New Boss Used to Be a Coal Lobbyist, Working for Its Biggest Customer](https://www.propublica.org/article/andrew-wheeler-epa-coal-lobbyist-robert-murray)
 4. [Andrew Wheeler](https://www.desmog.com/andrew-wheeler/)
+
+## McKinsey Ends ICE Contract Amid Employee Revolt and Public Backlash Over Immigration Policies
+*Date: 2018-07-09*
+
+1. [McKinsey ends work with ICE amid furor over immigration policy](https://www.cnbc.com/2018/07/09/mckinsey-ends-work-with-ice-amid-furor-over-immigration-policy.html)
+2. [McKinsey Is No Longer Working With ICE, the Agency at the Heart of the Family Separations Scandal](https://fortune.com/2018/07/10/mckinsey-ice-contract-border-separations/)
+3. [McKinsey & Co. will no longer work with ICE](https://qz.com/work/1325101/mckinsey-company-employees-forced-the-company-to-stop-working-with-ice)
+
+## McKinsey Ends ICE Contract Amid Employee Revolt: 'Will Not Engage in Work At Odds With Our Values'
+*Date: 2018-07-09*
+
+1. [McKinsey ends work with ICE amid furor over immigration policy](https://www.cnbc.com/2018/07/09/mckinsey-ends-work-with-ice-amid-furor-over-immigration-policy.html)
+2. [McKinsey & Co. will no longer work with ICE](https://qz.com/work/1325101/mckinsey-company-employees-forced-the-company-to-stop-working-with-ice)
+3. [McKinsey Is No Longer Working With ICE, the Agency at the Heart of the Family Separations Scandal](https://fortune.com/2018/07/10/mckinsey-ice-contract-border-separations/)
 
 ## Tech Workers Coalition: Establishing Digital Resistance Infrastructure
 *Date: 2018-07-12*
@@ -10256,6 +11255,12 @@
 3. [Attempted acquisition of Tribune Media by Sinclair Broadcast Group](https://en.wikipedia.org/wiki/Attempted_acquisition_of_Tribune_Media_by_Sinclair_Broadcast_Group)
 4. [Tribune Media Terminates Merger Agreement with Sinclair Broadcast Group, Files Lawsuit](https://www.tribunemedia.com/tribune-media-terminates-merger-agreement-with-sinclair-broadcast-group-inc-files-lawsuit-for-breach-of-contract/)
 5. [Sinclair Broadcast Group Acquisition of Tribune Media: Competitive and Regulatory Issues](https://www.congress.gov/crs-product/R44892)
+
+## McKinsey Signs $2 Million CBP Contract One Week After Ending ICE Work: Continued Immigration Enforcement Involvement
+*Date: 2018-07-16*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [McKinsey Is No Longer Working With ICE, the Agency at the Heart of the Family Separations Scandal](https://fortune.com/2018/07/10/mckinsey-ice-contract-border-separations/)
 
 ## Trump Sides with Putin Over U.S. Intelligence at Helsinki Summit, Attacks Own Agencies
 *Date: 2018-07-16*
@@ -10403,6 +11408,13 @@
 2. [Bernie Sanders' 'Stop BEZOS' bill targets worker pay at Amazon and Walmart](https://www.cnbc.com/2018/09/05/bernie-sanders-amazon-walmart-worker-pay/index.html)
 3. [To End Starvation Wages and Kick Billionaires Off Welfare, Sanders Introduces 'Stop BEZOS Act'](https://www.commondreams.org/news/2018/09/05/end-starvation-wages-and-kick-billionaires-welfare-sanders-introduces-stop-bezos-act)
 
+## McKinsey Holds Lavish Corporate Retreat in Kashgar Four Miles from Uyghur Concentration Camps
+*Date: 2018-09-06*
+
+1. [How McKinsey Has Helped Raise the Stature of Authoritarian Governments](https://www.uyghurcongress.org/en/how-mckinsey-has-helped-raise-the-stature-of-authoritarian-governments/)
+2. [McKinsey held a lavish corporate retreat in Kashgar miles from where the Chinese government is imprisoning up to one million ethnic Uighurs](https://www.businessinsider.in/McKinsey-held-a-lavish-corporate-retreat-in-Kashgar-miles-from-where-the-Chinese-government-is-imprisoning-up-to-one-million-ethnic-Uighurs/articleshow/67110537.cms)
+3. [The iconic U.S. company raising the stature of corrupt governments around the world](https://www.seattletimes.com/nation-world/the-iconic-u-s-company-raising-the-stature-of-corrupt-governments-around-the-world/)
+
 ## CMS Administrator Seema Verma Spent $5 Million in Taxpayer Funds on GOP Consultants to Boost Personal Profile
 *Date: 2018-09-12*
 
@@ -10470,6 +11482,14 @@
 3. [Audio transcripts of Jamal Khashoggi's murder revealed](https://www.aljazeera.com/news/2019/9/10/audio-transcripts-of-jamal-khashoggis-murder-revealed)
 4. [5 years after Jamal Khashoggi's murder, human rights groups call for justice](https://www.npr.org/2023/10/02/1202937036/jamal-khashoggi-mbs-murder-saudi-arabia-human-rights)
 
+## Jamal Khashoggi Murdered After McKinsey Report Compromised Close Associate
+*Date: 2018-10-02*
+
+1. [Assassination of Jamal Khashoggi](https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi)
+2. [Saudi dissident files lawsuit against McKinsey for outing him as MBS opponent](https://www.middleeasteye.net/news/saudi-dissident-files-lawsuit-against-consulting-firm-mckinsey)
+3. [Saudi Arabia reportedly deployed Twitter army against Khashoggi and other critics](https://www.cnbc.com/2018/10/21/saudi-arabia-reportedly-used-twitter-against-khashoggi-other-critics.html)
+4. [McKinsey tweets in response to Saudi government using its data in identifying potential dissenters](https://www.thedp.com/article/2018/11/mckinsey-saudi-arabia-journalist-turkey-upenn-penn-philadelphia)
+
 ## Saudi Crown Prince's Entourage Books Trump Hotel During Khashoggi Crisis
 *Date: 2018-10-02*
 
@@ -10508,6 +11528,13 @@
 1. [China grants 18 trademarks in 2 months to Trump, daughter](https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727)
 2. [Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE](https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html)
 3. [China approves new batch of Ivanka Trump trademarks amid trade talks](https://www.reuters.com/article/us-china-usa-ivanka-idUSKCN1NB0TL)
+
+## McKinsey Claims It's 'Horrified' After Saudi Dissident Report Made Public
+*Date: 2018-10-21*
+
+1. [McKinsey Says It's 'Horrified' Saudi Arabia Report May Have Been Misused](https://www.bloomberg.com/news/articles/2018-10-21/mckinsey-horrified-saudi-arabia-report-may-have-been-misused)
+2. [McKinsey's Saudi Arabia Twitter report is its business model](https://slate.com/news-and-politics/2018/10/mckinsey-saudi-arabia-consulting-scandal.html)
+3. [Exiled Saudi Dissident Sues McKinsey in U.S. for Outing Him to MBS](https://www.newsweek.com/exiled-saudi-dissident-sues-mckinsey-us-outing-him-mbs-1568226)
 
 ## Trump Adopts 'Invasion' Rhetoric Mainstreaming Great Replacement Theory Before Midterms
 *Date: 2018-10-22*
@@ -10600,6 +11627,14 @@
 3. [Michael Cohen Admits Trump Tower-Moscow Talks Continued Into 2016 Presidential Run](https://www.npr.org/2018/11/29/671864979/trump-moscow-real-estate-talks-continued-into-presidential-run-documents-show)
 4. [Michael Cohen pleads guilty to lying about Trump Tower project in Moscow](https://www.nbcnews.com/politics/politics-news/former-trump-attorney-michael-cohen-pleads-guilty-lying-congress-n941616)
 
+## Investigation Reveals McKinsey Advised Both Puerto Rico Fiscal Board and Hedge Fund Creditors Through Whitebox Advisors Holding $140 Million in Bonds
+*Date: 2018-12-01*
+
+1. [McKinsey: Puerto Rico Bondholder and Fiscal Board's Lead Adviser](https://periodismoinvestigativo.com/2018/12/mckinsey-puerto-rico-bondholder-and-fiscal-boards-lead-adviser/)
+2. [The Story McKinsey Didn't Want Written](https://www.institutionalinvestor.com/article/b1g5zjdcr97k2y/The-Story-McKinsey-Didn-t-Want-Written)
+3. [McKinsey, A Consulting Firm With History Of Conflicts, At Center Of Puerto Rico Bankruptcy](https://hedgefundalpha.com/mckinsey-puerto-rico-bankruptcy/)
+4. [McKinsey: Doing God's Work in Puerto Rico](https://www.nakedcapitalism.com/2019/04/mckinsey-doing-gods-work-in-puerto-rico.html)
+
 ## NYPD Begins Secret Trial of Clearview AI Facial Recognition Technology
 *Date: 2018-12-06*
 
@@ -10618,6 +11653,13 @@
 
 1. [Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme](https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme)
 2. [Russian Maria Butina pleads guilty to attempting to infiltrate U.S. conservative movement](https://www.washingtonpost.com/gender-identity/russian-maria-butina-pleads-guilty-to-attempting-to-infiltrate-us-conservative-movement/)
+
+## New York Times Investigation Exposes McKinsey's Work Raising Stature of Authoritarian Governments
+*Date: 2018-12-15*
+
+1. [New York Times states McKinsey is helping raise stature of authoritarian govts.; McKinsey responds](https://www.business-humanrights.org/en/latest-news/new-york-times-states-mckinsey-is-helping-raise-stature-of-authoritarian-govts-mckinsey-responds/)
+2. [The iconic U.S. company raising the stature of corrupt governments around the world](https://www.seattletimes.com/nation-world/the-iconic-u-s-company-raising-the-stature-of-corrupt-governments-around-the-world/)
+3. [How McKinsey Has Helped Raise the Stature of Authoritarian Governments](https://www.uyghurcongress.org/en/how-mckinsey-has-helped-raise-the-stature-of-authoritarian-governments/)
 
 ## Interior Secretary Ryan Zinke Resigns Facing 18 Federal Investigations
 *Date: 2018-12-15*
@@ -10737,13 +11779,6 @@
 2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
 3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
 
-## Pam Bondi Joins Ballard Partners as Lobbyist, Monetizing Government Connections
-*Date: 2019-01-15*
-
-1. [Pam Bondi's Extensive Lobbying Poses Serious Conflict of Interest](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest)
-2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
-3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
-
 ## HHS Inspector General Reveals Thousands More Children Separated Than Disclosed
 *Date: 2019-01-17*
 
@@ -10751,6 +11786,13 @@
 2. [Thousands more migrant kids separated from parents under Trump than previously reported](https://www.nbcnews.com/politics/immigration/thousands-more-migrant-kids-separated-parents-under-trump-previously-reported-n959791)
 3. ['Thousands' more children were separated than government admitted, and it doesn't know how many, watchdog report says](https://edition.cnn.com/2019/01/17/politics/inspector-general-unaccompanied-children-immigration/index.html)
 4. [Separated Children Placed in Office of Refugee Resettlement Care](https://oig.hhs.gov/reports/all/2019/separated-children-placed-in-office-of-refugee-resettlement-care/)
+
+## Dream Center Education Holdings Enters Receivership, Art Institutes Collapse Leaves Thousands Stranded, $16 Million in Student Aid Disappeared
+*Date: 2019-01-18*
+
+1. [How buying the Art Institutes brought Dream Center to the brink of collapse](https://www.highereddive.com/news/how-buying-the-art-institutes-brought-dream-center-to-the-brink-of-collapse/546627/)
+2. [Timeline: How Dream Center's higher ed bid went off the rails](https://www.highereddive.com/news/timeline-how-dream-centers-higher-ed-bid-went-off-the-rails/550339/)
+3. [Congress investigates Education Department in wake of abrupt Art Institute closures](https://democrats-edworkforce.house.gov/media/news/congress-investigates-education-department-in-wake-of-abrupt-art-institute-closures)
 
 ## Erik Prince's Frontier Services Group Announces Xinjiang Training Facility Amid Uyghur Detention Campaign
 *Date: 2019-02-01*
@@ -10806,6 +11848,13 @@
 3. [North Carolina GOP Operative Faces New Felony Charges That Allege Ballot Fraud](https://www.npr.org/2019/07/30/746800630/north-carolina-gop-operative-faces-new-felony-charges-that-allege-ballot-fraud)
 4. [Mark Harris (North Carolina politician) - Wikipedia](https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician))
 
+## McKinsey Managing Director Says Firm Would 'Walk' from Murderer Client, Then Increases Saudi Revenue
+*Date: 2019-03-01*
+
+1. [McKinsey's Ethical Dilemma: Profit, Controversy, and Internal Culture Under Fire](https://ctol.digital/news/mckinsey-ethical-dilemma-profit-controversy-culture/)
+2. [Moral Injury: When McKinsey Comes to Town](https://ethicsunwrapped.utexas.edu/moral-injury-when-mckinsey-comes-to-town)
+3. [New York Times states McKinsey is helping raise stature of authoritarian govts.; McKinsey responds](https://www.business-humanrights.org/en/latest-news/new-york-times-states-mckinsey-is-helping-raise-stature-of-authoritarian-govts-mckinsey-responds/)
+
 ## During Sprint merger review, T-Mobile executives spent ~$195,000 at Trump's D.C. hotel
 *Date: 2019-03-05*
 
@@ -10841,13 +11890,6 @@
 1. [Federal Aviation Administration Grounds Boeing 737 Max 8 And 9 Jets](https://www.npr.org/2019/03/13/703162378/federal-aviation-administration-grounds-boeing-737-max-8-and-9-jets)
 2. [The Grounding of the Boeing 737 MAX](https://www.theregreview.org/2019/03/19/nakahara-grounding-boeing-737-max/)
 3. [US Grounds Boeing 737 Max Planes, Citing Links Between 2 Fatal Crashes](https://www.cnbc.com/2019/03/13/boeing-shares-fall-after-report-says-us-expected-to-ground-737-max-fleet.html)
-
-## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
-*Date: 2019-03-15*
-
-1. [Christchurch shootings: 49 killed in New Zealand mosque attacks](https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead)
-2. [New Zealand Mosque Shootings Kill 49](https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html)
-3. [Platforms struggle with extremist content after shootings](https://www.npr.org/2019/08/05/748420957/facebook-youtube-twitter-say-they-are-removing-content-tied-to-el-paso-shooting)
 
 ## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
 *Date: 2019-03-15*
@@ -11245,13 +12287,6 @@
 2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
 3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
 
-## Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
-*Date: 2019-07-25*
-
-1. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
-2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
-3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
-
 ## Director of National Intelligence Dan Coats Resigns After Repeated Conflicts with Trump Over Russia
 *Date: 2019-07-28*
 
@@ -11259,13 +12294,6 @@
 2. [Intelligence Director Coats to resign next month, Trump says](https://www.washingtonpost.com/world/national-security/intelligence-director-coats-expected-to-resign/2019/07/28/34e361e2-b16b-11e9-8e94-71a35969e4d8_story.html)
 3. [Dan Coats Spoke Truth to Trump. Now He's Out](https://www.govexec.com/defense/2019/07/dan-coats-spoke-truth-trump-now-hes-out/158762/)
 4. [Testimony by intelligence chiefs on global threats highlights differences with president](https://www.washingtonpost.com/world/national-security/intelligence-officials-will-name-biggest-threats-facing-us-during-senate-hearing/2019/01/28/f08dc5cc-2340-11e9-ad53-824486280311_story.html)
-
-## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
-*Date: 2019-08-03*
-
-1. [El Paso Shooting Suspect's Manifesto Echoes Trump's Language](https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html)
-2. [El Paso shooting suspect said he targeted Mexicans](https://www.washingtonpost.com/national/el-paso-shooting-suspect-told-officers-he-was-targeting-mexicans-police-say/2019/08/09/)
-3. [El Paso Walmart shooting leaves 20 dead](https://www.cnn.com/2019/08/03/us/el-paso-shooting/index.html)
 
 ## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
 *Date: 2019-08-03*
@@ -11465,6 +12493,13 @@
 3. [The Secret Meeting Between Mark Zuckerberg, Peter Thiel, Donald Trump, and Jared Kushner](https://www.thedailybeast.com/the-secret-meeting-between-mark-zuckerberg-peter-thiel-donald-trump-and-jared-kushner/)
 4. [Mark Zuckerberg, Jared Kushner Struck Secret White House Deal](https://www.mediaite.com/media/news/mark-zuckerberg-reportedly-promised-to-avoid-fact-checks-of-political-speech-so-trump-would-lay-off-on-regulating-facebook/)
 
+## Ecuador Indigenous Uprising Forces Moreno to Withdraw IMF-Backed Fuel Subsidy Cuts
+*Date: 2019-10-03*
+
+1. [2019 Ecuadorian protests](https://en.wikipedia.org/wiki/2019_Ecuadorian_protests)
+2. [Clashes erupt at Ecuador fuel price protests](https://www.aljazeera.com/economy/2019/10/8/clashes-erupt-at-ecuador-fuel-price-protests)
+3. [Ecuador sees historic win, but 'grey days' ahead](https://roarmag.org/essays/ecuador-indigenous-protest-imf/)
+
 ## Sutter Health Settles Antitrust Case for $575 Million, Admits to All-or-Nothing Contracting and Price Concealment
 *Date: 2019-10-07*
 
@@ -11557,20 +12592,6 @@
 2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
 3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
 
-## Groyper War Erupts: Far-Right Activists Disrupt Trump Jr. Event at UCLA
-*Date: 2019-11-10*
-
-1. [Groypers](https://en.wikipedia.org/wiki/Groypers)
-2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
-3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
-
-## SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites
-*Date: 2019-11-12*
-
-1. [Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails](https://www.splcenter.org/hatewatch/2019/11/12/stephen-millers-affinity-white-nationalism-revealed-leaked-emails)
-2. [Leaked Stephen Miller emails suggest White House aide promoted white nationalism](https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/)
-3. [Stephen Miller And White Nationalism](https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism)
-
 ## SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites
 *Date: 2019-11-12*
 
@@ -11627,6 +12648,20 @@
 1. [Congressman Duncan D. Hunter Pleads Guilty to Stealing Campaign Funds](https://www.justice.gov/usao-sdca/pr/congressman-duncan-d-hunter-pleads-guilty-stealing-campaign-funds)
 2. [Duncan Hunter pleads guilty to conspiracy to misuse campaign funds](https://rollcall.com/2019/12/03/duncan-hunter-pleads-guilty-to-conspiracy-to-misuse-campaign-funds/)
 3. [Duncan Hunter submits resignation after guilty plea on conspiracy to misuse campaign funds](https://abcnews.go.com/Politics/duncan-hunter-submits-resignation-guilty-plea-conspiracy-misuse/story?id=68128521)
+
+## ProPublica Investigation Exposes McKinsey's ICE Contracts Recommending Cuts to Detainee Care
+*Date: 2019-12-03*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [Jayapal Presses McKinsey on Contracting Relationship with ICE](https://jayapal.house.gov/2020/01/07/jayapal-presses-mckinsey-on-contracting-relationship-with-ice/)
+3. [Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That Even ICE Staff Viewed as Too Harsh on Immigrants](https://www.commondreams.org/news/2019/12/04/consulting-giant-mckinsey-suggested-detention-savings-opportunities-even-ice-staff)
+
+## ProPublica Exposes McKinsey's ICE Work Through FOIA Lawsuit: 1,500 Pages Reveal Detention Cost-Cutting Proposals
+*Date: 2019-12-03*
+
+1. [How McKinsey Helped the Trump Administration Detain and Deport Immigrants](https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies)
+2. [McKinsey Called Our Story About Its ICE Contract False. It's Not.](https://www.propublica.org/article/mckinsey-called-our-story-about-its-ice-contract-false-its-not)
+3. [Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That Even ICE Staff Viewed as Too Harsh on Immigrants](https://www.commondreams.org/news/2019/12/04/consulting-giant-mckinsey-suggested-detention-savings-opportunities-even-ice-staff)
 
 ## New York Loses ExxonMobil Climate Fraud Lawsuit in Major Accountability Failure
 *Date: 2019-12-10*
@@ -11691,6 +12726,13 @@
 3. [A Dialysis Duopoly: How Public Funding Entrenched Private Power](https://lpeproject.org/blog/a-dialysis-duopoly-how-public-funding-entrenched-private-power/)
 4. [The Dialysis Industry is Failing America](https://www.8vc.com/resources/the-dialysis-industry-is-failing-america)
 
+## McKinsey Federal Contract Terminated After GSA Inspector General Finds $65 Million in Overcharges
+*Date: 2020-01-01*
+
+1. [Cutting Government Is Easy... If You Go After McKinsey](https://www.thebignewsletter.com/p/cutting-government-is-easy-if-you)
+2. [Why the US Government Buys Overpriced Services From McKinsey](https://www.promarket.org/2020/01/10/why-the-us-government-buys-overpriced-services-from-mckinsey/)
+3. [McKinsey's prime US federal contracts drop to nine-year low](https://www.consulting.us/news/10143/mckinseys-prime-us-federal-contracts-drop-to-nine-year-low)
+
 ## McKinsey Advised Purdue on "Turbocharging" OxyContin Sales, Targeting High-Volume Prescribers
 *Date: 2020-01-01*
 
@@ -11710,6 +12752,11 @@
 *Date: 2020-01-01*
 
 1. [Wage Theft Wikipedia](https://en.wikipedia.org/wiki/Wage_theft)
+
+## Rep. Pramila Jayapal Launches Congressional Inquiry Into McKinsey's ICE Contracts and Detention Recommendations
+*Date: 2020-01-07*
+
+1. [Jayapal Presses McKinsey on Contracting Relationship with ICE](https://jayapal.house.gov/2020/01/07/jayapal-presses-mckinsey-on-contracting-relationship-with-ice/)
 
 ## Boeing Internal Messages Released - "Designed by Clowns, Supervised by Monkeys"
 *Date: 2020-01-09*
@@ -11805,12 +12852,6 @@
 1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
 2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
 
-## YouTube Terminates Nick Fuentes Channel for Hate Speech Violations
-*Date: 2020-02-14*
-
-1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
-2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
-
 ## Larry Ellison Hosts Trump Fundraiser at California Estate, Raises $7 Million
 *Date: 2020-02-19*
 
@@ -11862,13 +12903,6 @@
 2. [Federal Reserve Vice Chair Richard Clarida Resigns After Trading Scandal](https://www.newsweek.com/federal-reserve-vice-chair-richard-clarida-becomes-third-resign-after-trading-scandal-1667763)
 3. [Fed Watchdog Clears Powell, Clarida in Trading Scandal Probe](https://www.bloomberg.com/news/articles/2022-07-14/fed-watchdog-clears-powell-clarida-in-trading-scandal-probe)
 4. [Fed Vice Chair Clarida Resigns Amid Trading Scandal](https://krdo.com/news/ap-national-news/2022/01/10/fed-vice-chair-richard-clarida-resigns-amid-trading-scandal-2/)
-
-## First AFPAC Conference Launches as White Nationalist Alternative to CPAC
-*Date: 2020-02-28*
-
-1. [America First Political Action Conference](https://en.wikipedia.org/wiki/America_First_Political_Action_Conference)
-2. [Far-Right Extremists Gather in Florida for CPAC Spinoff Alongside Sitting Congressman](https://www.splcenter.org/resources/hatewatch/far-right-extremists-gather-florida-cpac-spinoff-alongside-sitting-congressman)
-3. [AFPAC III: Elected Officials Support White Supremacist Event](https://www.adl.org/resources/article/afpac-iii-elected-officials-support-white-supremacist-event)
 
 ## First AFPAC Conference Launches as White Nationalist Alternative to CPAC
 *Date: 2020-02-28*
@@ -12037,6 +13071,15 @@
 2. [President Trump Ousts Steve Linick, State Department Watchdog](https://www.bloomberg.com/news/articles/2020-05-16/state-department-inspector-general-steve-linick-is-fired)
 3. [Pompeo urged Trump to fire State Department inspector general](https://www.cnbc.com/2020/05/16/pompeo-urged-trump-to-fire-state-department-inspector-general.html)
 
+## Puerto Rico Selects LUMA Energy for $1.5 Billion Grid Privatization Following McKinsey's Recommendations, Quanta Services Connection Raises Questions
+*Date: 2020-05-15*
+
+1. [LUMA Energy](https://en.wikipedia.org/wiki/LUMA_Energy)
+2. [The Privatization of Puerto Rico's Power Grid Is Mired in Controversy](https://spectrum.ieee.org/the-privatization-of-puerto-rico-power-grid-mired-in-controversy)
+3. [Contract Between Puerto Rico, LUMA Energy Sets up Full Privatization](https://ieefa.org/wp-content/uploads/2020/10/Contract-with-LUMA-Energy-Sets-up-Full-Privatization_Higher-Rates_October-2020.pdf)
+4. [McKinsey: Doing God's Work in Puerto Rico](https://www.nakedcapitalism.com/2019/04/mckinsey-doing-gods-work-in-puerto-rico.html)
+5. [Fuera LUMA: Puerto Rico Confronts Neoliberal Electricity System Takeover](https://gjia.georgetown.edu/2021/06/21/fuera-luma-puerto-rico-confronts-neoliberal-electricity-system-takeover-amid-ongoing-struggles-for-self-determination/)
+
 ## Trump Fires 5 Inspectors General in 6 Weeks to Block Investigations
 *Date: 2020-05-15*
 
@@ -12111,12 +13154,6 @@
 1. [German payments firm Wirecard files for insolvency after revealing $2 billion accounting black hole](https://www.cnbc.com/2020/06/25/german-payments-company-wirecard-files-for-insolvency.html)
 2. [What the Wirecard scandal reveals about the state of German financial supervision](https://blogs.lse.ac.uk/europpblog/2020/11/19/what-the-wirecard-scandal-reveals-about-the-state-of-german-financial-supervision/)
 3. [Credit Suisse collapse probe slams banking regulator](https://www.france24.com/en/live-news/20241220-credit-suisse-collapse-probe-slams-banking-regulator)
-
-## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
-*Date: 2020-07-01*
-
-1. [Contract to Anduril Industries, Inc.](https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014)
-2. [Anduril raises $200m, wins contract for autonomous surveillance towers along US-Mexico border](https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border)
 
 ## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
 *Date: 2020-07-01*
@@ -12544,6 +13581,13 @@
 3. [FTC and states sue Facebook, could force it to divest Instagram and WhatsApp](https://www.cnbc.com/2020/12/09/ftc-and-several-states-launch-antitrust-lawsuits-against-facebook.html)
 4. [FTC v. Meta case status](https://en.wikipedia.org/wiki/FTC_v._Meta)
 
+## McKinsey Agrees to Repay $40 Million to Transnet and SAA in South Africa State Capture Settlement
+*Date: 2020-12-09*
+
+1. [McKinsey capitulates (again), agrees to pay back Transnet and SAA](https://www.news24.com/fin24/companies/industrial/mckinsey-capitulates-again-agrees-to-pay-back-transnet-and-saa-20201209)
+2. [McKinsey to Repay $63 Million to South Africa's Transnet](https://www.bnnbloomberg.ca/mckinsey-to-repay-63-million-to-south-africa-s-transnet-1.1608375)
+3. [McKinsey steps up controls after being left red-faced by State Capture experience in South Africa](https://www.dailymaverick.co.za/article/2020-12-11-mckinsey-steps-up-controls-after-being-left-red-faced-by-state-capture-experience-in-south-africa/)
+
 ## CNP Leadership Releases Letter Urging State Legislators to Reject 25 Million Votes
 *Date: 2020-12-10*
 
@@ -12721,20 +13765,6 @@
 2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
 3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
 
-## Stephen Miller Writes Trump's January 6 Ellipse Speech, Adds Language About Pence Overturning Election
-*Date: 2021-01-06*
-
-1. [Donald Trump adviser Stephen Miller grilled about rally that preceded Jan. 6 insurrection](https://www.pbs.org/newshour/politics/donald-trump-adviser-stephen-miller-grilled-about-rally-that-preceded-jan-6-insurrection)
-2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
-3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
-
-## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
-*Date: 2021-01-06*
-
-1. [Nick Fuentes Faces Scrutiny Following Jan. 6 Subpoena](https://www.splcenter.org/resources/hatewatch/nick-fuentes-faces-scrutiny-following-jan-6-subpoena)
-2. [Key January 6th Instigator, Nick Fuentes, Reinstatement on Twitter/X: The Implications](https://www.justsecurity.org/95385/twitter-x-fuentes-role-january-6th-attack/)
-3. [Nicholas J. Fuentes: Five Things to Know](https://www.adl.org/resources/blog/nicholas-j-fuentes-five-things-know)
-
 ## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
 *Date: 2021-01-06*
 
@@ -12817,13 +13847,6 @@
 2. [Russell Vought: The gung-ho Christian nationalist who helps Trump be Trump](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)
 3. [OMB's Russell Vought, the Christian 'nation-ist' driving Project 2025 and DOGE](https://religionnews.com/2025/06/23/ombs-russell-vought-the-christian-nation-ist-driving-project-2025-and-dogeruss-vought/)
 
-## Russell Vought Founds Center for Renewing America, Christian Nationalist Policy Shop for Trump Return
-*Date: 2021-01-15*
-
-1. [The Theocratic Blueprint for Trump's Next Term](https://www.thenation.com/article/society/russell-vought-center-renewing-america-christian-nationalism/)
-2. [Russell Vought: The gung-ho Christian nationalist who helps Trump be Trump](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)
-3. [OMB's Russell Vought, the Christian 'nation-ist' driving Project 2025 and DOGE](https://religionnews.com/2025/06/23/ombs-russell-vought-the-christian-nation-ist-driving-project-2025-and-dogeruss-vought/)
-
 ## Trump's Final Day Pardon Spree - 73 Pardons Including Bannon and Broidy
 *Date: 2021-01-19*
 
@@ -12891,6 +13914,13 @@
 1. [Saying 'Peace Not Going to Break Out... Anytime Soon,' Raytheon CEO Sees 'Solid Growth' in Middle East](https://www.commondreams.org/news/2021/01/28/saying-peace-not-going-break-out-anytime-soon-raytheon-ceo-sees-solid-growth-middle)
 2. [Big War CEOs - There's chaos in the world and our prospects are excellent](https://responsiblestatecraft.org/2022/01/28/big-war-ceos-theres-chaos-in-the-world-and-our-prospects-are-excellent/)
 3. [How Raytheon turned a potentially hard year into a good one](https://www.bostonglobe.com/2022/01/02/business/they-have-massive-influence-how-raytheon-turned-potentially-hard-year-into-good-one/)
+
+## Saudi Dissident Omar Abdulaziz's Lawsuit Against McKinsey Filed in Federal Court
+*Date: 2021-02-02*
+
+1. [Saudi dissident files lawsuit against McKinsey for outing him as MBS opponent](https://www.middleeasteye.net/news/saudi-dissident-files-lawsuit-against-consulting-firm-mckinsey)
+2. [Exiled Saudi Dissident Sues McKinsey in U.S. for Outing Him to MBS](https://www.newsweek.com/exiled-saudi-dissident-sues-mckinsey-us-outing-him-mbs-1568226)
+3. [Exiled Saudi dissident sues consultancy firm McKinsey in the USA over allegedly outing him to Saudi authorities](https://www.business-humanrights.org/en/latest-news/usa-exiled-saudi-dissident-sues-consultancy-firm-mckinsey-over-allegedly-outing-him-to-saudi-authorities-as-a-critic-of-the-kingdom/)
 
 ## Canadian Privacy Commissioners Declare Clearview AI Represents "Mass Surveillance" of Citizens
 *Date: 2021-02-03*
@@ -13010,13 +14040,6 @@
 2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
 3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
 
-## Stephen Miller Founds America First Legal to Challenge Biden Administration and Advance White Nationalist Agenda
-*Date: 2021-04-06*
-
-1. [America First Legal](https://en.wikipedia.org/wiki/America_First_Legal)
-2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
-3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
-
 ## Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
 *Date: 2021-04-09*
 
@@ -13063,6 +14086,14 @@
 1. [Frank Kendall flies out of revolving door and into Air Force confirmation](https://responsiblestatecraft.org/2021/05/24/frank-kendall-flies-out-of-revolving-door-and-into-air-force-confirmation/)
 2. [Joe Biden Is Filling Top Pentagon Positions With Defense Contractors](https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/)
 3. [The Pentagon's Revolving Door Keeps Spinning: 2021 in Review](https://pogo.org/analysis/2022/01/the-pentagons-revolving-door-keeps-spinning-2021-in-review)
+
+## LUMA Energy Assumes Control of Puerto Rico's Grid Amid Massive 'Fuera LUMA' Protests Against McKinsey-Designed Privatization
+*Date: 2021-06-01*
+
+1. [In Puerto Rico, private company takes over power utility service](https://www.nbcnews.com/news/latino/puerto-rico-private-company-takes-power-utility-service-rcna1091)
+2. [Fuera LUMA: Puerto Rico Confronts Neoliberal Electricity System Takeover](https://gjia.georgetown.edu/2021/06/21/fuera-luma-puerto-rico-confronts-neoliberal-electricity-system-takeover-amid-ongoing-struggles-for-self-determination/)
+3. [Out LUMA!: Puerto Ricans demand an end to the privatization of energy](https://peoplesdispatch.org/2024/07/05/out-luma-puerto-ricans-demand-an-end-to-the-privatization-of-energy/)
+4. [A Private Company Provokes an Energy Crisis in Puerto Rico](https://newlinesmag.com/reportage/a-private-company-provokes-an-energy-crisis-in-puerto-rico/)
 
 ## Trump calls Bitcoin 'a scam' competing with the dollar
 *Date: 2021-06-01*
@@ -13117,13 +14148,6 @@
 2. [Prosecutors allege 15-year tax fraud scheme as Trump Organization arraigned](https://www.washingtonpost.com/politics/trump-business-weisselberg-indictments/2021/07/01/e2b774a0-da15-11eb-bb9e-70fda8c37057_story.html)
 3. [Trump Organization indictment charges scheme to dodge taxes](https://www.cnbc.com/amp/2021/07/01/trump-organization-cfo-allen-weisselberg-pleads-not-guilty-to-tax-crimes.html)
 4. [Trump Organization charges](https://www.cnn.com/politics/live-news/trump-organization-charges-07-01-21/index.html)
-
-## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
-*Date: 2021-07-01*
-
-1. [Twitter Deplatforms White Nationalist Nick Fuentes](https://jewishjournal.com/news/338588/twitter-deplatforms-white-nationalist-nick-fuentes/)
-2. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
-3. [As Big Tech Deplatforms, Extremists Find New Alt-Tech Ways To Talk Online](https://www.npr.org/2021/03/16/972519460/across-the-internet-a-game-of-whac-a-mole-is-underway-to-root-out-extremism)
 
 ## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
 *Date: 2021-07-01*
@@ -13358,12 +14382,6 @@
 1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
-## In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
-*Date: 2021-11-01*
-
-1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-
 ## Pfizer Reports $22 Billion Profit on COVID-19 Vaccine, One of Most Profitable Drugs in History
 *Date: 2021-11-02*
 
@@ -13394,6 +14412,14 @@
 1. [Former Assistant Attorney General, Jonathan Kanter](https://www.justice.gov/archives/atr/staff-profile/former-assistant-attorney-general-jonathan-kanter)
 2. [Senate confirms Big Tech critic Jonathan Kanter to lead DOJ Antitrust Division](https://www.cnbc.com/2021/11/16/senate-confirms-jonathan-kanter-to-lead-doj-antitrust-division.html)
 3. [Jonathan Kanter](https://en.wikipedia.org/wiki/Jonathan_Kanter)
+
+## SEC Fines McKinsey Subsidiary MIO Partners $18 Million for Puerto Rico Conflict of Interest and Material Nonpublic Information Violations
+*Date: 2021-11-22*
+
+1. [SEC fines McKinsey for failures related to Puerto Rico debt](https://www.bondbuyer.com/news/sec-fines-mckinsey-for-failues-related-to-puerto-rico-debt)
+2. [MIO Partners, Inc. - SEC Administrative Proceeding](https://www.sec.gov/files/litigation/admin/2021/ia-5912.pdf)
+3. [McKinsey Unit Pays $18 Million to SEC in Latest Compliance Lapse](https://news.bloomberglaw.com/esg/mckinsey-unit-fined-18-million-over-sec-compliance-failures)
+4. [Million-dollar fine to Board consultant for conflict of interest with PR's debt](https://www.archyde.com/million-dollar-fine-to-board-consultant-for-conflict-of-interest-with-prs-debt-noticel-the-truth-as-it-is-puerto-rico-news-noticel/)
 
 ## Apple Sues NSO Group Over FORCEDENTRY Exploit and Pegasus Spyware Targeting
 *Date: 2021-11-23*
@@ -13480,12 +14506,6 @@
 4. [Scientists, Doctors Call on Spotify to Implement Misinformation Policy Over Claims on Joe Rogan Show](https://www.techpolicy.press/scientists-doctors-call-on-spotify-to-implement-misinformation-policy-over-claims-on-joe-rogan-show/)
 5. [What the Joe Rogan podcast controversy says about the online misinformation ecosystem](https://www.npr.org/2022/01/21/1074442185/joe-rogan-doctor-covid-podcast-spotify-misinformation)
 6. [Fighting Misinformation With Science Journalism](https://www.npr.org/2022/03/09/1085425659/fighting-misinformation-with-science-journalism)
-
-## Anduril AI-Powered Drones Deployed to Ukraine Since 2022
-*Date: 2022-01-01*
-
-1. [Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence Since 2022](https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html)
-2. ['Battle-tested in Ukraine' — How US drone makers turned Ukraine into a tagline to sell west](https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/)
 
 ## Anduril AI-Powered Drones Deployed to Ukraine Since 2022
 *Date: 2022-01-01*
@@ -13601,6 +14621,14 @@
 2. [US DoD Accredits Oracle Cloud Infrastructure for Top Secret Missions](https://www.prnewswire.com/news-releases/us-dod-accredits-oracle-cloud-infrastructure-oci-for-top-secret-missions-301482233.html)
 3. [Oracle cloud authorized to host top secret data for DOD](https://ciyis.net/2022/02/18/oracle-cloud-authorized-to-host-top-secret-data-for-dod/)
 
+## Thousands Strike Across Puerto Rico Demanding End to PROMESA, Austerity, and Privatization in National Day of Action
+*Date: 2022-02-18*
+
+1. [Puerto Rican Unionists Protest Austerity, Look at US Responsibility](https://www.counterpunch.org/2022/02/25/puerto-rican-unionists-protest-austerity-look-at-us-responsibility/)
+2. [Puerto Rican union workers strike against austerity, point to U.S. responsibility](https://peoplesworld.org/article/puerto-rican-union-workers-strike-against-austerity-point-to-u-s-responsibility/)
+3. [National day of strikes and protests in Puerto Rico](https://www.wsws.org/en/articles/2022/02/19/04fa-f19.html)
+4. [Puerto Rico in Crisis: Government Workers Battle Neoliberal Reform](https://nacla.org/puerto-rico-crisis-government-workers-battle-neoliberal-reform/)
+
 ## National $26 Billion Opioid Settlement with Distributors and J&J, Zero Executive Prosecutions
 *Date: 2022-02-25*
 
@@ -13650,6 +14678,12 @@
 1. [FDA Chief Confirmed Despite Industry Ties](https://www.npr.org/2022/02/15/1080887602/an-fda-chief-has-been-confirmed-despite-concerns-over-his-pharmaceutical-industr)
 2. [The Revolving Door: FDA to Pharmaceutical Industry](https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry)
 3. [FDA Only Inspected 6% of Foreign Drug Manufacturing Facilities in 2022](https://www.propublica.org/article/fda-drugs-medication-inspections-china-india-manufacturers)
+
+## French Senate Investigation Reveals 'McKinsey Gate' Scandal: Nearly €1 Billion in Government Consulting Fees
+*Date: 2022-03-25*
+
+1. [What France's 'McKinsey Gate' scandal revealed about the four major types of consulting's conflicts of interests](https://theconversation.com/what-frances-mckinsey-gate-scandal-revealed-about-the-four-major-types-of-consultings-conflicts-of-interests-240829)
+2. [Liberté, égalité, McKinsey: Macron has corrupted democracy](https://www.newarab.com/opinion/liberte-egalite-mckinsey-macron-has-corrupted-democracy)
 
 ## Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory
 *Date: 2022-04-01*
@@ -13807,6 +14841,13 @@
 4. [Explaining SCOTUS's Abortion Decision in Dobbs v. Jackson Women's Health Organization](https://www.lwv.org/blog/explaining-scotuss-abortion-decision-dobbs-v-jackson-womens-health-organization)
 5. [Dobbs v. Jackson Women's Health Organization](https://fedsoc.org/case/dobbs-v-jackson-womens-health-organization)
 
+## Sweet v. Cardona Settlement Approves $6 Billion in Automatic Debt Cancellation for 200,000 Students Defrauded by For-Profit Colleges, Ending Years of Trump-Era Delays
+*Date: 2022-06-24*
+
+1. [Here's a list of the colleges in the Sweet v. Cardona settlement agreement](https://www.highereddive.com/news/heres-a-list-of-the-colleges-in-the-sweet-v-cardona-settlement-agreement/629283/)
+2. [Judge approves Sweet v. Cardona student debt relief settlement](https://www.highereddive.com/news/judge-approves-sweet-v-cardona-student-debt-relief-settlement-appeal-likely/636844/)
+3. [Student Borrowers: What to Know About Sweet v. Cardona](https://www.cssny.org/news/entry/Sweet-v-Cardona-student-debt-class-action-lawsuit-settlement)
+
 ## Three Arrows Capital Ordered Into Liquidation After $3 Billion Hedge Fund Collapse Triggers Crypto Contagion
 *Date: 2022-06-27*
 
@@ -13936,6 +14977,13 @@
 2. [FACT SHEET - President Biden Announces Student Loan Relief for Borrowers Who Need It Most](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/)
 3. [Biden cancels up to $20,000 in student loan debt for millions of Americans](https://www.cnbc.com/2022/08/24/biden-cancels-up-to-20000-in-student-loan-debt-extends-payment-pause.html)
 
+## Pulitzer-Winning Journalists Publish 'When McKinsey Comes to Town' Exposing Authoritarian Consulting
+*Date: 2022-09-01*
+
+1. [When McKinsey Comes to Town](https://www.penguinrandomhouse.com/books/634029/when-mckinsey-comes-to-town-by-walt-bogdanich-and-michael-forsythe/)
+2. [When McKinsey Comes to Town](https://en.wikipedia.org/wiki/When_McKinsey_Comes_to_Town)
+3. [McKinsey & Company cashed in by consulting both companies and their regulators](https://www.npr.org/2022/10/03/1126202801/mckinsey-consulting-walt-bogdanich-michael-forsythe)
+
 ## NY Attorney General Files $250 Million Fraud Lawsuit Against Trump Organization
 *Date: 2022-09-21*
 
@@ -13944,19 +14992,21 @@
 3. [NY AG sues Trump, seeking end to business in state and $250 million](https://www.cbsnews.com/amp/news/new-york-attorney-general-letitia-james-sues-trump-the-trump-organization-seeking-end-business-state-250-million/)
 4. [New York sues Trump, company and family over fraud claims](https://www.cnbc.com/amp/2022/09/21/new-york-sues-donald-trump-company-and-family-members-over-widespread-fraud-claims-seeks-at-least-250-million-in-penalties.html)
 
+## Federal Court Dismisses Abdulaziz Lawsuit, Rules McKinsey Had No Duty to Protect Dissident
+*Date: 2022-09-22*
+
+1. [Influencer named in report on Saudi dissidents loses negligence suit](https://www.courthousenews.com/influencer-named-in-report-on-saudi-dissidents-loses-negligence-suit/)
+2. [McKinsey consultancy under fire at 2nd Circuit from persecuted Saudi dissident](https://www.courthousenews.com/mckinsey-consultancy-under-fire-at-2nd-circuit-from-persecuted-saudi-dissident/)
+3. [Abdulaziz v. McKinsey & Co.](https://case-law.vlex.com/vid/abdulaziz-v-mckinsey-co-887643275)
+
 ## Musk Begins Regular Contact with Vladimir Putin
 *Date: 2022-10-01*
 
-1. [Wall Street Journal](Wall Street Journal)
-2. [PBS NewsHour](PBS NewsHour)
-3. [Newsweek](Newsweek)
-4. [ABC News](ABC News)
-5. [CNBC](CNBC)
-6. [Wall Street Journal](Wall Street Journal)
-7. [PBS NewsHour](PBS NewsHour)
-8. [Newsweek](Newsweek)
-9. [ABC News](ABC News)
-10. [CNBC](CNBC)
+1. [Elon Musk has been in regular contact with Vladimir Putin since 2022](https://www.cnbc.com/video/2024/10/25/elon-musk-has-been-in-regular-contact-with-vladimir-putin-since-2022-wsj.html)
+2. [What to know about Elon Musk's reported phone calls with Putin and why it matters](https://www.pbs.org/newshour/politics/what-to-know-about-elon-musks-reported-phone-calls-with-putin-and-why-it-matters)
+3. [Elon Musk is in 'regular contact' with Vladimir Putin, new report alleges](https://abcnews.go.com/US/elon-musk-regular-contact-vladimir-putin-new-report/story?id=115130093)
+4. [Elon Musk and Putin have "regular contact"](https://www.axios.com/2024/10/25/elon-musk-putin-trump-russia-ukraine-war)
+5. [NASA chief calls for investigation into report that Musk and Putin have spoken regularly](https://www.cnn.com/2024/10/25/politics/elon-musk-vladimir-putin)
 
 ## Elon Musk begins regular contact with Vladimir Putin
 *Date: 2022-10-01*
@@ -14037,13 +15087,6 @@
 1. [DOJ names Jack Smith as special counsel to oversee Trump criminal investigations](https://www.npr.org/2022/11/18/1137736663/special-counsel-trump-justice-department-jan-6-mar-a-lago)
 2. [Attorney General Merrick Garland names Jack Smith special counsel in Trump criminal probes](https://www.cnbc.com/2022/11/18/attorney-general-merrick-garland-to-name-special-counsel-in-trump-criminal-probe-report-says.html)
 3. [Merrick Garland names special counsel for Trump, Jan. 6 investigations](https://www.washingtonpost.com/national-security/2022/11/18/justice-trump-garland-special-counsel/)
-
-## Trump Hosts White Nationalist Nick Fuentes and Kanye West at Mar-a-Lago Dinner
-*Date: 2022-11-22*
-
-1. [The inside story of Trump's explosive dinner with Ye and Nick Fuentes](https://www.nbcnews.com/politics/donald-trump/story-trumps-explosive-dinner-ye-nick-fuentes-rcna59010)
-2. [Trump hosted Holocaust denier at Mar-a-Lago estate](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
-3. [Republican leaders denounce Trump's dinner with white nationalist Nick Fuentes](https://www.npr.org/2022/11/29/1139742844/republicans-denounce-trump-dinner-white-supremacist-nick-fuentes)
 
 ## Trump Hosts White Nationalist Nick Fuentes and Kanye West at Mar-a-Lago Dinner
 *Date: 2022-11-22*
@@ -14141,6 +15184,13 @@
 1. [Under Ethics Scrutiny, Liberal Dark Money Behemoth Arabella Advisors Discloses $1.3 Billion Fundraising Haul](https://freebeacon.com/democrats/under-ethics-scrutiny-liberal-dark-money-behemoth-arabella-advisors-discloses-1-3-billion-fundraising-haul/)
 2. [Meet the Swiss Billionaire Behind Arabella Advisors Dark Money Empire](https://capitalresearch.org/article/meet-the-swiss-billionaire-behind-arabella-advisors-dark-money-empire/)
 3. [How a Secretive Billionaire Handed His Fortune to the Architect of the 'Dark Money' Political Network](https://www.theatlantic.com/politics/archive/2021/09/anonymous-big-donor-conservative-nonprofit-16-thirty-fund/620092/)
+
+## 90/10 Rule Loophole Closes, Ending For-Profit Colleges' Predatory Targeting of Veterans by Counting GI Bill and Military Tuition Assistance as Federal Aid
+*Date: 2023-01-01*
+
+1. [90/10 Loophole](https://vetsedsuccess.org/what-we-do/policy-advocacy/our-work-with-the-executive-branch/education/90-10-loophole/)
+2. [New Rule Closes '90-10 Loophole' Harming Military-Connected Students](https://www.moaa.org/content/publications-and-media/news-articles/2022-news-articles/new-rule-closes-90-10-loophole-harming-military-connected-students/)
+3. [90–10 rule](https://en.wikipedia.org/wiki/90–10_rule)
 
 ## Amazon AWS Government Contracts Reach Multi-Billion Dollar Annual Scale
 *Date: 2023-01-01*
@@ -14396,6 +15446,13 @@
 1. [FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers from Taking Control of Users' Cameras](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
 2. [Amazon's Ring to pay $5.8M after staff and contractors caught snooping on customer videos](https://techcrunch.com/2023/05/31/amazon-ring-ftc-settlement-lax-security/)
 3. [Amazon.com's Ring will pay $5.8 million after employees spied on customer videos](https://www.nbcnews.com/business/consumer/ring-doorbell-camera-employees-mishandled-customer-videos-rcna87103)
+
+## House Select Committee Exposes McKinsey Work for Chinese Military While Advising Pentagon
+*Date: 2023-06-01*
+
+1. [McKinsey Equipped America's Foremost Adversary and Misrepresented Work for the Chinese Military Under Oath](https://selectcommitteeontheccp.house.gov/media/investigations/mckinsey-equipped-americas-foremost-adversary-and-misrepresented-work-chinese)
+2. [Hawley, Rubio Blast McKinsey Lies, Push Firm to Dissolve Ties with China](https://www.hawley.senate.gov/hawley-rubio-blast-mckinsey-lies-push-firm-dissolve-ties-china/)
+3. [Consulting giant McKinsey profits off both sides of U.S.-China cold war](https://www.nbcnews.com/politics/national-security/advising-both-chinese-state-companies-pentagon-mckinsey-co-comes-under-n1283777)
 
 ## YouTube stops removing false claims about past U.S. elections
 *Date: 2023-06-02*
@@ -14922,14 +15979,6 @@
 2. [Trump received millions from foreign governments as president, House Democrats report](https://www.washingtonpost.com/politics/2024/01/04/trump-foreign-payments-emoluments/)
 3. [Trump businesses received at least $7.8 million from foreign entities during presidency](https://abcnews.go.com/Politics/trump-businesses-received-78-million-foreign-entities-presidency/story?id=106116388)
 
-## Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
-*Date: 2024-01-05*
-
-1. [The Design, Development & Certification of the Boeing 737 MAX - Final Report](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
-2. [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
-3. [Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
-4. [Boeing Whistleblower John Barnett Found Dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
-
 ## Alaska Airlines 737 MAX 9 Door Plug Blows Out at 16,000 Feet, Exposing Continued Boeing Safety Failures
 *Date: 2024-01-05*
 
@@ -15136,11 +16185,13 @@
 ## State Department Develops Advanced Internal Resistance and Preservation Protocols
 *Date: 2024-03-15*
 
-1. [State Department Institutional Resilience Report](https://example.com)
-2. [FY 2025 Budget: Diplomatic Engagement and Institutional Preservation](https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf)
-3. [Advisory Committee on Historical Diplomatic Documentation - Meetings Notice](https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for)
-4. [Foreign Service Reorganization and Strategic Cohesion Efforts](https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/)
-5. [Dissent Channel: A Mechanism of Diplomatic Criticism and Preservation]()
+1. [2 FAM 070 DISSENT CHANNEL](https://fam.state.gov/fam/02fam/02fam0070.html)
+2. [The State Department Dissent Channel - History and Impact](https://afsa.org/state-department-dissent-channel-history-and-impact)
+3. [Dissent Channel](https://en.wikipedia.org/wiki/Dissent_Channel)
+4. [Department of State's Dissent Channel Revealed](https://nsarchive.gwu.edu/briefing-book/foia/2018-03-15/department-states-dissent-channel-revealed)
+5. [FY 2025 Congressional Budget Justification - Department of State Foreign Operations and Related Programs](https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf)
+6. [Advisory Committee on Historical Diplomatic Documentation - Meetings Notice](https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for)
+7. [Foreign Service faces overhaul in vetting, deployment of career diplomats under draft executive order](https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/)
 
 ## SCOTUS allows Texas SB 4 to take effect temporarily
 *Date: 2024-03-19*
@@ -15237,12 +16288,6 @@
 2. [U.S. government to pay $138.7M over FBI's failure to investigate Larry Nassar allegations](https://www.pbs.org/newshour/amp/nation/u-s-government-to-pay-138-7m-settlement-over-fbis-botched-larry-nassar-assault-allegations)
 3. [Justice Department settles claims on USA Gymnastics investigation](https://rollcall.com/2024/04/23/justice-department-settles-claims-on-usa-gymnastics-investigation/)
 4. [Larry Nassar case: DOJ declines for third time to charge former FBI agents who botched inquiry](https://www.cnn.com/2022/05/26/politics/larry-nassar-agents-fbi-justice-department-declines-charges/index.html)
-
-## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
-*Date: 2024-04-24*
-
-1. [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
-2. [Anduril and General Atomics to Develop New Collaborative Combat Aircraft for Air Force](https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/)
 
 ## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
 *Date: 2024-04-24*
@@ -15644,12 +16689,6 @@
 1. [Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
 2. [Anduril chooses Ohio for $1B manufacturing facility](https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/)
 
-## Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio
-*Date: 2024-08-08*
-
-1. [Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
-2. [Anduril chooses Ohio for $1B manufacturing facility](https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/)
-
 ## Oracle Agrees to $115 Million Settlement Over Mass Surveillance Data Brokerage
 *Date: 2024-08-09*
 
@@ -15721,12 +16760,6 @@
 1. [U.S. AI Safety Institute Signs Agreements Regarding AI Safety Research](https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research)
 2. [OpenAI, Anthropic to Collaborate with NIST on AI Safety Testing](https://www.nextgov.com/artificial-intelligence/2024/08/openai-anthropic-collab-nist-ai-safety-testing/399175/)
 3. [OpenAI and Anthropic Agree to Let U.S. AI Safety Institute Test Models](https://www.cnbc.com/2024/08/29/openai-and-anthropic-agree-to-let-us-ai-safety-institute-test-models.html)
-
-## Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
-*Date: 2024-09-01*
-
-1. [Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security](https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/)
-2. [CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And We're Mapping It](https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it)
 
 ## Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
 *Date: 2024-09-01*
@@ -16045,18 +17078,26 @@
 1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
 2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
 
-## OpenAI Partners with Anduril to Integrate AI into Weapons Systems
-*Date: 2024-12-04*
-
-1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
-2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
-
 ## UnitedHealthcare CEO Brian Thompson Assassinated in Manhattan, Exposing Public Rage at Health Insurance Industry
 *Date: 2024-12-04*
 
 1. [Killing of Brian Thompson](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson)
 2. [What we know about Luigi Mangione, suspect in Brian Thompson's killing](https://www.npr.org/2024/12/09/nx-s1-5222853/luigi-mangione-suspect-brian-thompson-united-healthcare)
 3. [Luigi Mangione Charged With The Stalking And Murder Of UnitedHealthcare CEO Brian Thompson](https://www.justice.gov/usao-sdny/pr/luigi-mangione-charged-stalking-and-murder-unitedhealthcare-ceo-brian-thompson-and-use)
+
+## McKinsey Africa Agrees to Pay $122 Million Settlement for Bribery of South African Officials
+*Date: 2024-12-05*
+
+1. [McKinsey & Company Africa To Pay Over $120 Million In Connection With Bribery Of South African Government Officials](https://www.justice.gov/usao-sdny/pr/mckinsey-company-africa-pay-over-120-million-connection-bribery-south-african)
+2. [McKinsey unit will pay $123 million to settle claims it bribed South African officials](https://www.cnbc.com/2024/12/05/mckinsey-bribery-settlement-south-africa.html)
+3. [McKinsey's R1.1-billion settlement a strategic victory for South Africa's fight against corruption](https://www.dailymaverick.co.za/article/2024-12-06-mckinseys-r1-1-billion-settlement-a-strategic-victory-for-south-africas-fight-against-corruption/)
+
+## McKinsey Pays $73 Million Final Settlement to South Africa in State Capture Resolution
+*Date: 2024-12-06*
+
+1. [McKinsey's R1.1-billion settlement a strategic victory for South Africa's fight against corruption](https://www.dailymaverick.co.za/article/2024-12-06-mckinseys-r1-1-billion-settlement-a-strategic-victory-for-south-africas-fight-against-corruption/)
+2. [McKinsey & Company makes further voluntary commitment to repay fees](https://www.mckinsey.com/za/our-work/statements/mckinsey-and-company-makes-further-voluntary-commitment-to-repay-fees)
+3. [South Africa: McKinsey tries to mop up 'shocking' state capture mess](https://www.theafricareport.com/56115/in-south-africa-mckinsey-tries-to-mop-up-shocking-state-capture-mess/)
 
 ## FTC Blocks Kroger-Albertsons $24.6B Grocery Merger, Citing Labor and Consumer Harm
 *Date: 2024-12-10*
@@ -16073,6 +17114,13 @@
 3. [Dar Global and The Trump Organization Expand Collaboration with SAR 2 Billion Trump Tower](https://darglobal.co.uk/press/Dar-Global-and-The-Trump-Organization-Expand-Collaboration-with-the-Launch-of-SAR-2-Billion-Trump-Tower-to-Tranform-Jeddah-Skyline)
 4. [Eric Trump reveals rendering of Trump Tower project in Saudi Arabia](https://www.foxbusiness.com/real-estate/eric-trump-reveals-rendering-trump-tower-project-saudi-arabia)
 5. [Ahead of Trump's inauguration, Trump Organization expands its global business](https://abcnews.go.com/US/ahead-trumps-inauguration-trump-organization-expands-global-business/story?id=116746951)
+
+## McKinsey Agrees to $650 Million Criminal Settlement for Role in 'Turbocharging' Opioid Sales for Purdue Pharma
+*Date: 2024-12-13*
+
+1. [Justice Department Announces Resolution of Criminal and Civil Investigations into McKinsey & Company's Work with Purdue Pharma](https://www.justice.gov/archives/opa/pr/justice-department-announces-resolution-criminal-and-civil-investigations-mckinsey-companys)
+2. [McKinsey & Company to pay $650 million for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
+3. [Consulting firm McKinsey to pay $650 million to resolve US criminal opioid probe](https://www.cnn.com/2024/12/13/business/mckinsey-doj-opioid-probe/index.html)
 
 ## SEC Charges Cantor Fitzgerald $6.75 Million for Misleading SPAC Disclosures
 *Date: 2024-12-19*
@@ -16169,13 +17217,12 @@
 ## Grok AI Demonstrates Major Safety and Misinformation Vulnerabilities
 *Date: 2025-01-15*
 
-1. [Elon Musk released xAIs Grok 4 without any safety reports—despite calling AI more dangerous than nukes](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
-2. [OpenAI and Anthropic researchers decry reckless safety culture at Elon Musks xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
-3. [Why xAI Loses US Deal After Grok Sparks Political AI Scandal](https://aimagazine.com/news/revealed-how-groks-antisemitism-lost-xai-a-key-us-contract)
-4. [New York Times](New York Times)
-5. [Reuters](Reuters)
-6. [New York Times](New York Times)
-7. [Reuters](Reuters)
+1. [Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more dangerous than nukes](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
+2. [OpenAI and Anthropic researchers decry reckless safety culture at Elon Musk's xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
+3. [The Grok chatbot spewed racist and antisemitic content](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content)
+4. [Elon Musk's AI chatbot is suddenly posting antisemitic tropes](https://www.cnn.com/2025/07/08/tech/grok-ai-antisemitism)
+5. [xAI issues lengthy apology for violent and antisemitic Grok social media posts](https://www.cnn.com/2025/07/12/tech/xai-apology-antisemitic-grok-social-media-posts)
+6. [Why xAI Loses US Deal After Grok Sparks Political AI Scandal](https://aimagazine.com/news/revealed-how-groks-antisemitism-lost-xai-a-key-us-contract)
 
 ## Crypto firms pour $18 million into Trump inauguration
 *Date: 2025-01-17*
@@ -16318,10 +17365,11 @@
 ## J.D. Vance Inaugurated as Vice President
 *Date: 2025-01-20*
 
-1. [NBC News: 'WATCH: JD Vance is sworn in as vice president']()
-2. [CBS News: 'Here's who is swearing in Trump and Vance at the 2025 inauguration']()
-3. [The Hill: 'Who was sitting behind JD Vance on Inauguration Day?']()
-4. [California Governor's Office: Official inaugural statement]()
+1. [WATCH - JD Vance is sworn in as vice president](https://www.nbcnews.com/now/video/watch-jd-vance-is-sworn-in-as-vice-president-229771333607)
+2. [Here's who is swearing in Trump and Vance at the 2025 inauguration](https://www.cbsnews.com/news/who-is-swearing-trump-vance-in-2025/)
+3. [Trump, Vance sworn in at inauguration at U.S. Capitol](https://www.cbsnews.com/video/trump-vance-sworn-in-at-inauguration-in-washington-dc/)
+4. [Watch - JD Vance sworn in as vice president](https://www.cnn.com/2025/01/20/politics/video/jd-vance-sworn-in-vice-president-digvid)
+5. [Second inauguration of Donald Trump](https://en.wikipedia.org/wiki/Second_inauguration_of_Donald_Trump)
 
 ## J.D. Vance Inaugurated as 50th Vice President
 *Date: 2025-01-20*
@@ -16459,14 +17507,6 @@
 1. [Lina Khan](https://en.wikipedia.org/wiki/Lina_Khan)
 2. [Trump's pick to replace Lina Khan as FTC chair pledges to take on 'Big Tech' and 'wokeness'](https://qz.com/trump-ftc-chair-lina-khan-ferguson-big-tech-meta-google-1851718273)
 3. [Changes in the Makeup of the FTC May Impact Antitrust Policy](https://www.mayerbrown.com/en/insights/publications/2025/03/changes-in-the-makeup-of-the-ftc-may-impact-antitrust-policy)
-
-## Coordinated Federal Workforce Purge: Schedule F and DOJ Personnel Removal
-*Date: 2025-01-20*
-
-1. [Trump administration fires DOJ officials who worked on criminal investigations of the president](https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512)
-2. [How Trump and Musk have shaken the federal workforce](https://www.cnn.com/2025/02/07/politics/trump-musk-federal-workforce/index.html)
-3. [Donald Trump's plans to politicize federal workforce raise concerns](https://thehill.com/homenews/administration/4993221-trump-federal-workforce-overhaul-schedule-f/amp/)
-4. [Trump's Schedule F plan, explained](https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/)
 
 ## National emergency declared at U.S. southern border
 *Date: 2025-01-21*
@@ -16878,9 +17918,11 @@
 ## Schedule F Implementation Targets 50,000 Federal Workers
 *Date: 2025-02-01*
 
-1. [Federal News Network]()
-2. [Wikipedia]()
-3. [Project 2025 analysis]()
+1. [Trump administration estimates 50,000 federal employees will lose civil service protections](https://federalnewsnetwork.com/workforce/2025/04/trump-administration-estimates-50000-federal-employees-will-lose-civil-service-protections/)
+2. [Trump revives executive order aiming to strip some federal employees of civil service protections](https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/)
+3. [Thousands of federal workers would be easier to fire under Trump rule change](https://www.npr.org/2025/04/18/nx-s1-5369550/trump-federal-workers-schedule-f)
+4. [What to know about Schedule F, Trump's plan to replace federal workers with loyalists](https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers)
+5. [Schedule F appointment](https://en.wikipedia.org/wiki/Schedule_F_appointment)
 
 ## Schedule F Implementation Targets 50,000 Federal Workers
 *Date: 2025-02-01*
@@ -17074,13 +18116,6 @@
 1. [Zeldin announces 65% EPA workforce reduction, terminates climate funding](https://insideclimatenews.org/news/10022025/zeldin-epa-cuts-climate-grants/)
 2. [EPA chief plans to eliminate scientific research division](https://www.theguardian.com/environment/2025/feb/11/epa-zeldin-workforce-science-cuts)
 3. [EPA Seeks to Reduce Workforce and Budget to Reagan-Era Levels](https://www.npr.org/2025/02/10/nx-s1-5280155/lee-zeldin-epa-workforce-cuts)
-
-## Stephen Miller Emerges as "Prime Minister" with Unprecedented Power Across All Policy
-*Date: 2025-02-10*
-
-1. [Stephen Miller is more powerful in the White House than ever](https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house/index.html)
-2. [Stephen Miller re-emerges as an 'untouchable' force in Trump's White House](https://www.nbcnews.com/politics/trump-administration/stephen-miller-untouchable-force-trump-white-house-rcna206180)
-3. [How White House adviser Stephen Miller is running Trump's D.C. takeover](https://www.washingtonpost.com/politics/2025/09/05/trump-dc-takeover-stephen-miller-white-house/)
 
 ## Stephen Miller Emerges as "Prime Minister" with Unprecedented Power Across All Policy
 *Date: 2025-02-10*
@@ -17733,13 +18768,6 @@
 1. [Trump crypto revenue analysis](https://www.ft.com/content/trump-crypto-revenue)
 2. [Trump's World Liberty Financial crypto project says it sold $550 million in tokens](https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html)
 3. [Trump family's net worth has increased by $2.9 billion thanks to crypto investments, new report says](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/)
-
-## Project 2025 Authors Fill Key Administration Positions
-*Date: 2025-03-01*
-
-1. [The key Project 2025 authors now staffing the Trump administration](https://www.nbcnews.com/politics/trump-administration/key-project-2025-authors-now-staffing-trump-administration-rcna195107)
-2. [Which Donald Trump Appointees Have Project 2025 Links?](https://www.newsweek.com/donald-trump-project-2025-cabinet-picks-1989565)
-3. [Trump names Project 2025 architect Russell Vought to key White House role](https://www.pbs.org/newshour/show/trump-names-project-2025-architect-russell-vought-to-key-white-house-role)
 
 ## Trump Establishes Strategic Crypto Reserve, Expanding U.S. Digital Asset Strategy
 *Date: 2025-03-02*
@@ -18651,13 +19679,6 @@
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 3. [About In-Q-Tel](https://www.iqt.org/about)
 
-## In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum Computing
-*Date: 2025-04-03*
-
-1. [In-Q-Tel, the CIA's venture capital arm, reaches 800th investment](https://www.washingtontimes.com/news/2025/apr/3/q-tel-cias-venture-capital-arm-reaches-800th-investment/)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-3. [About In-Q-Tel](https://www.iqt.org/about)
-
 ## Law firm Kirkland & Ellis in talks with White House to avoid executive order
 *Date: 2025-04-03*
 
@@ -19216,10 +20237,12 @@
 ## Musk Associates Monetize Access to Private Tech Company Stakes
 *Date: 2025-04-24*
 
-1. [SpaceX Might Invest $2 Billion in Musk's xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/)
-2. [Musk Inner Circle Selling Private Company Access]()
-3. [Elon Musk's SpaceX Share Sale to Value Company at About $400 Billion](https://www.bloomberg.com/news/articles/2025-07-15/musk-spacex-share-sale-to-value-company-at-about-400-billion)
-4. [Most of Elon Musk's fortune now comes from his private companies](https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html)
+1. [A Side Hustle for Friends of Musk - Selling Access to Stakes in His Private Companies](https://www.tovima.com/wsj/a-side-hustle-for-friends-of-musk-selling-access-to-stakes-in-his-private-companies/)
+2. [Top DOGE Goon Antonio Gracias Set to Make Millions Gatekeeping Shares in Best Friend Elon Musk's SpaceX](https://www.thedailybeast.com/top-doge-goon-antonio-gracias-set-to-make-millions-gatekeeping-shares-in-best-friend-elon-musks-spacex/)
+3. [Elon Musk and DOGE's Antonio Gracias Cash In on Americans' Retirement](https://www.rollingstone.com/politics/politics-features/elon-musk-trump-doge-antonio-gracias-social-security-1235330658/)
+4. [SpaceX Might Invest $2 Billion in Musk's xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/)
+5. [Elon Musk's SpaceX Share Sale to Value Company at About $400 Billion](https://www.bloomberg.com/news/articles/2025/07/15/musk-spacex-share-sale-to-value-company-at-about-400-billion)
+6. [Most of Elon Musk's fortune now comes from his private companies](https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html)
 
 ## Indicted 'Bitcoin Jesus' Pays Roger Stone $600,000 to Lobby Against Tax Charges
 *Date: 2025-04-24*
@@ -20152,11 +21175,11 @@
 ## Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan
 *Date: 2025-06-01*
 
-1. [ProPublica: Russell Vought's Project 2025 Policy Statements]()
-2. [AP News: White House Budget Office Federal Workforce Reduction]()
-3. [Official OMB/OPM Guidance on Agency Workforce Reductions]()
-4. [Federal News Network]()
-5. [Project 2025 Implementation analysis]()
+1. [OPM says cuts to federal workforce surpassed 2025 goals](https://federalnewsnetwork.com/workforce/2025/11/317000-feds-have-left-the-government-this-year-surpassing-opms-goal/)
+2. [Trump administration says about 4,200 federal employees face layoffs](https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought)
+3. [Trump administration lays off thousands of federal workers during government shutdown](https://www.cnn.com/2025/10/10/politics/government-shutdown-federal-worker-firings)
+4. [OMB chief Russell Vought - Federal workers layoffs to begin within a day or two](https://www.axios.com/2025/10/01/white-house-omb-federal-workers-layoffs-shutdown-vought-house-republicans)
+5. [2025 United States federal mass layoffs](https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs)
 
 ## Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan
 *Date: 2025-06-01*
@@ -20220,12 +21243,6 @@
 2. [US President Donald Trump's Social Media Firm Truth Social to Launch Spot BTC ETF](https://www.coindesk.com/markets/2025/06/03/us-president-donald-trumps-social-media-firm-truth-social-to-launch-spot-bitcoin-etf)
 3. [Trump Media Inches Closer to 'Truth Social Bitcoin ETF' After Filing](https://www.bloomberg.com/news/articles/2025-06-03/trump-tied-truth-social-bitcoin-etf-inches-closer-after-filing)
 4. [Day 5: Crypto Has Made Trump $1.2 BILLION Richer – and Counting](https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677)
-
-## Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
-*Date: 2025-06-05*
-
-1. [Anduril raises funding at $30.5 billion valuation in round led by Founders Fund, chairman says](https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html)
-2. [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/)
 
 ## Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
 *Date: 2025-06-05*
@@ -20877,9 +21894,11 @@
 ## Climate Programs Dismantled - NOAA Faces 27% Budget Cut, Hundreds of Jobs Eliminated
 *Date: 2025-07-15*
 
-1. [PBS NewsHour: 'As NOAA braces for more cuts, scientists say public safety is at risk']()
-2. [Environmental Defense Fund: 'Reports: Trump Administration Plans Detrimental Cuts to NOAA Climate Research']()
-3. [Project 2025 Implementation analysis]()
+1. [Proposed budget would slash NOAA funding](https://www.npr.org/2025/04/11/nx-s1-5361366/major-budget-cuts-proposed-for-the-national-oceanic-and-atmospheric-administration)
+2. [Trump's budget plan eviscerates weather and climate research, and it could be enacted immediately](https://www.cnn.com/2025/04/11/climate/trump-noaa-budget-cuts/index.html)
+3. [Trump administration pushes ahead with NOAA climate and weather cuts](https://www.science.org/content/article/trump-administration-pushes-ahead-noaa-climate-and-weather-cuts)
+4. [Trump's NOAA Budget Cuts Could Gut Critical Climate Modeling](https://www.propublica.org/article/trump-noaa-budget-cuts-climate-change-modeling-princeton-gfdl)
+5. [NOAA Budget Cuts Proposed for FY2025](https://climate.law.columbia.edu/content/noaa-budget-cuts-proposed-fy2025)
 
 ## Climate Programs Dismantled - NOAA Faces 27% Budget Cut
 *Date: 2025-07-15*
@@ -21537,13 +22556,6 @@
 2. [DOJ fires sandwich thrower after he's charged with assaulting officer in Washington, DC](https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html)
 3. [Fired DOJ employee could face prison for throwing sandwich at officers](https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/)
 
-## DOJ Employee Sean Dunn Fired After Throwing Sandwich at Federal Agent in Protest
-*Date: 2025-08-10*
-
-1. [Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C.](https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/)
-2. [DOJ fires sandwich thrower after he's charged with assaulting officer in Washington, DC](https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html)
-3. [Fired DOJ employee could face prison for throwing sandwich at officers](https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/)
-
 ## About 120 FBI agents assigned to patrol Washington, D.C. streets
 *Date: 2025-08-10*
 
@@ -21648,9 +22660,11 @@
 ## Education Department Faces 50% Workforce Reduction
 *Date: 2025-08-15*
 
-1. [Food Research & Action Center]()
-2. [ACLU]()
-3. [NPR]()
+1. [Education Department cuts nearly 50% of workforce](https://www.washingtontimes.com/news/2025/mar/11/education-department-cuts-nearly-50-workforce/)
+2. [U.S. Department of Education Initiates Reduction in Force](https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-reduction-force)
+3. [Education Department's mass layoffs first step toward agency shutdown, Secretary McMahon says](https://www.axios.com/2025/03/11/education-department-workforce-cuts)
+4. [Dept. of Education plans to slash nearly 50 percent of its staff](https://19thnews.org/2025/03/department-of-education-layoffs/)
+5. [U.S. Department of Education says it will cut nearly half its staff](https://www.ednc.org/03-12-2025-u-s-department-of-education-says-it-will-cut-nearly-half-its-staff/)
 
 ## Education Department Faces 50% Workforce Reduction
 *Date: 2025-08-15*
@@ -21883,13 +22897,6 @@
 5. [Cybersecurity Predictions and Institutional Risk Management in 2025](https://insights.sei.cmu.edu/blog/13-cybersecurity-predictions-for-2025/)
 6. [DOGE Compromised Social Security Data: Systemic Risks and Accountability](https://www.narfe.org/blog/2025/09/02/doge-compromised-social-security-data/)
 
-## Whistleblower Exposes DOGE Team Copying Entire Social Security Database to Vulnerable Cloud Server
-*Date: 2025-08-26*
-
-1. [DOGE put Social Security numbers and other data on a risky server, whistleblower alleges](https://www.nbcnews.com/politics/doge/doge-put-social-security-numbers-data-risky-server-whistleblower-alleg-rcna227259)
-2. [Whistleblower says DOGE put Social Security numbers at risk](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
-3. [DOGE uploaded live copy of Social Security database to 'vulnerable' cloud server, says whistleblower](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
-
 ## DOJ Launches Probe Into FBI/CIA Officials Over Russia Investigation Records Under Kash Patel and Dan Bongino
 *Date: 2025-08-26*
 
@@ -21936,16 +22943,6 @@
 1. [Trump family crypto empire expands with Crypto.com partnership](https://abcnews.go.com/US/wireStory/trump-family-crypto-empire-expands-crypto-partnership-124990306)
 2. [Trump Media Partners With Crypto.com on Crypto Treasury](https://www.bloomberg.com/news/articles/2025-08-26/trump-media-partners-with-crypto-com-on-crypto-treasury-company)
 3. [Trump Media (DJT), Crypto.com to Build $6.4B CRO Treasury Firm, CRO Token Jumps 25%](https://www.coindesk.com/business/2025/08/26/trump-media-crypto-com-to-build-usd6-4b-cro-treasury-firm-cro-jumps-25)
-
-## Whistleblower Reveals DOGE's Alleged Unauthorized Copy of Social Security NUMIDENT Database
-*Date: 2025-08-26*
-
-1. [Whistleblower says DOGE put Social Security numbers at risk](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
-2. [DOGE uploaded live copy of Social Security database to 'vulnerable' cloud server, says whistleblower](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
-3. [DOGE put Social Security data in 'vulnerable cloud environment': Whistleblower](https://thehill.com/homenews/administration/5471062-cloud-environment-security-lapses/)
-4. [DOGE put Social Security numbers and other data on a risky server, whistleblower alleges](https://www.nbcnews.com/politics/doge/doge-put-social-security-numbers-data-risky-server-whistleblower-alleg-rcna227259)
-5. [SSA asked to explain response to DOGE whistleblower](https://www.theregister.com/2025/09/11/ssa_doge_whistleblower_demand)
-6. [DOGE employees uploaded Social Security database to 'vulnerable' cloud, agency whistleblower says](https://fedscoop.com/doge-social-security-database-whistleblower-cloud-environment-data-vulnerabilities/)
 
 ## Trump Convenes Oval Office Meeting on Gaza Development With Jared Kushner's Business Interests Central
 *Date: 2025-08-27*
@@ -23064,14 +24061,6 @@
 3. [Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James](https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james)
 4. [Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary](https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary)
 
-## Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James
-*Date: 2025-10-17*
-
-1. [Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office](https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838)
-2. [Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James](https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/)
-3. [Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James](https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james)
-4. [Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary](https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary)
-
 ## DHS Purchases $172 Million in Luxury Jets for Kristi Noem During Shutdown
 *Date: 2025-10-18*
 
@@ -23168,13 +24157,6 @@
 2. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
 3. [Trump's Decline and the Rise of a Shadow Government](https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/)
 
-## Russ Vought Emerges as "Shadow President" Running Government During Trump Disengagement
-*Date: 2025-10-21*
-
-1. [Shadow President: Project 2025 Architect Russell Vought Using Shutdown to Gut Agencies](https://www.democracynow.org/2025/10/21/russell_vought_propublica_shadow_president)
-2. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
-3. [Trump's Decline and the Rise of a Shadow Government](https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/)
-
 ## Trump Installs Election Deniers in DHS Election Security Positions
 *Date: 2025-10-22*
 
@@ -23201,13 +24183,6 @@
 *Date: 2025-10-22*
 
 1. [Trump Prioritizes White South Africans in Refugee Admissions](https://www.washingtonpost.com/immigration/2025/10/22/trump-refugee-admissions-afrikaners/)
-
-## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
-*Date: 2025-10-22*
-
-1. [Trump plans to demolish White House East Wing as ballroom cost grows to $300 million](https://www.cbsnews.com/news/demolish-white-house-east-wing-ballroom-trump-cost/)
-2. [Trump defends East Wing demolition and raises ballroom price to $300 million](https://www.washingtonpost.com/politics/2025/10/22/trump-white-house-ballroom/)
-3. [Trump plows ahead with East Wing demolition despite calls for caution](https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump)
 
 ## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
 *Date: 2025-10-22*
@@ -23318,13 +24293,6 @@
 4. [Laotian American man deported to Laos despite court order blocking his removal, attorneys say](https://gasiantimes.com/nation/2025/10/29/laotian-american-man-deported-to-laos-despite-court-order-blocking-his-removal-attorneys-say/)
 5. [2023 Country Reports on Human Rights Practices - Laos](https://2021-2025.state.gov/reports/2023-country-reports-on-human-rights-practices/laos/)
 6. [Country Report - Laos March 2025](https://www.genocidewatch.com/single-post/country-report-laos-march-2025)
-
-## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
-*Date: 2025-10-25*
-
-1. [Keystone Kash Accused of Using $60M FBI Jet for Date Night](https://www.thedailybeast.com/kash-patel-accused-of-using-gov-jet-for-date-night/)
-2. [Kash Patel once called for ending FBI director's government jet use](https://www.cbsnews.com/news/patel-fbi-director-government-jet/)
-3. [FBI Ousts Leader as Patel Fumes Over Attention to Agency Jet Use](https://news.bloomberglaw.com/us-law-week/fbi-ousts-leader-as-patel-fumes-over-attention-to-agency-jet-use)
 
 ## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
 *Date: 2025-10-25*
@@ -23448,20 +24416,10 @@
 1. [Anduril conducts first flight test of Air Force CCA drone prototype](https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/)
 2. [Anduril CEO unveils the Fury unmanned fighter jet](https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/)
 
-## Anduril's Autonomous Fighter Jet Completes First Flight Test
-*Date: 2025-10-31*
-
-1. [Anduril conducts first flight test of Air Force CCA drone prototype](https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/)
-2. [Anduril CEO unveils the Fury unmanned fighter jet](https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/)
-
 ## Test Markdown Event Creation
 *Date: 2025-10-31*
 
 1. [Test Source](https://example.com/test)
-
-## Final Test of Markdown Event Creation
-*Date: 2025-11-01*
-
 
 ## Trump Administration Announces 2027 Medicaid Work Requirements Affecting Nearly 5 Million
 *Date: 2025-11-03*
@@ -23517,13 +24475,6 @@
 2. [FBI Agents Association: Kash Patel 'disregarded the law'](https://www.msnbc.com/rachel-maddow-show/maddowblog/fbi-agents-association-kash-patel-disregarded-law-latest-personnel-pur-rcna241928)
 3. [FBI association accuses Director Kash Patel of violating due process](https://www.cnn.com/2025/08/21/politics/fbi-association-warning-patel-firings)
 
-## FBI Agents Association Issues Unprecedented Rebuke: Patel "Disregarded the Law" in Campaign of Retribution
-*Date: 2025-11-04*
-
-1. [FBI agents rip Kash Patel's firings: erratic and arbitrary retribution](https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond)
-2. [FBI Agents Association: Kash Patel 'disregarded the law'](https://www.msnbc.com/rachel-maddow-show/maddowblog/fbi-agents-association-kash-patel-disregarded-law-latest-personnel-pur-rcna241928)
-3. [FBI association accuses Director Kash Patel of violating due process](https://www.cnn.com/2025/08/21/politics/fbi-association-warning-patel-firings)
-
 ## Memphis Residents Report Widespread Racial Profiling by Trump's Federal Police Task Force
 *Date: 2025-11-04*
 
@@ -23567,26 +24518,12 @@
 2. [Judge accuses prosecutors in James Comey case of taking an 'indict first, investigate later' approach](https://www.nbcnews.com/politics/justice-department/judge-accuses-prosecutors-comey-case-taking-indict-first-investigate-l-rcna242222)
 3. [Judge in Comey case scolds prosecutors as he orders them to produce records from probe](https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence)
 
-## Judge Scolds Comey Prosecutors for "Indict First, Investigate Second" Approach
-*Date: 2025-11-05*
-
-1. [Judge scolds Comey prosecutors for 'indict first and investigate second' approach](https://www.washingtonpost.com/national-security/2025/11/05/justice-department-prosecution-james-comey/)
-2. [Judge accuses prosecutors in James Comey case of taking an 'indict first, investigate later' approach](https://www.nbcnews.com/politics/justice-department/judge-accuses-prosecutors-comey-case-taking-indict-first-investigate-l-rcna242222)
-3. [Judge in Comey case scolds prosecutors as he orders them to produce records from probe](https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence)
-
 ## Zohran Mamdani Elected NYC Mayor: First Muslim, Youngest in Century
 *Date: 2025-11-05*
 
 1. [Zohran Mamdani wins NYC mayoral race](https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor)
 2. [Zohran Mamdani wins NYC mayor election over Cuomo](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
 3. [Zohran Mamdani elected as New York City's first Muslim mayor](https://www.aljazeera.com/news/liveblog/2025/11/5/nyc-mayoral-election-results-live-polls-closing-soon-in-mamdani-cuomo-race)
-
-## Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticism of Trump's Emergency Powers
-*Date: 2025-11-05*
-
-1. [Supreme Court justices appear skeptical that Trump tariffs are legal](https://www.cnbc.com/2025/11/05/supreme-court-trump-trade-tarrifs-vos.html)
-2. [Supreme Court enters the lion's den on Trump tariffs](https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court)
-3. [Supreme Court hears Trump tariffs case, key justices appear skeptical of president's power](https://abcnews.go.com/Politics/supreme-court-hears-trump-tariffs-case-staggering-importance/story?id=126950904)
 
 ## Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticism of Trump's Emergency Powers
 *Date: 2025-11-05*
@@ -23632,13 +24569,6 @@
 2. [Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent](https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142)
 3. [Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor after trial](https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/)
 
-## Jury Acquits DOJ Whistleblower Sean Dunn of Sandwich Assault in Rebuke to Weaponized Prosecution
-*Date: 2025-11-06*
-
-1. [Subway sandwich thrower found not guilty in D.C. jury rebuke](https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich)
-2. [Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent](https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142)
-3. [Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor after trial](https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/)
-
 ## Supreme Court Issues Emergency Stay Allowing Trump Administration to Withhold $4 Billion in SNAP Food Benefits
 *Date: 2025-11-06*
 
@@ -23668,13 +24598,6 @@
 4. [Clergy say religious rights are under attack inside and outside the Broadview ICE facility](https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility)
 5. [Eucharistic procession turned back by feds at Broadview ICE detention facility](https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/)
 6. [ICE again prevents Chicago Catholics from bringing Eucharist to immigrant detainees](https://www.ncronline.org/news/ice-again-prevents-chicago-catholics-bringing-eucharist-immigrant-detainees)
-
-## Letitia James Files Vindictive Prosecution Motion to Dismiss Federal Charges
-*Date: 2025-11-07*
-
-1. [Letitia James urges court to toss her case, calling it Trump's revenge](https://www.washingtonpost.com/national-security/2025/11/07/letitia-james-vindictive-prosecution-motion/)
-2. [Prosecution of Letitia James](https://en.wikipedia.org/wiki/Prosecution_of_Letitia_James)
-3. [Letitia James Gets Trial Date in Federal Mortgage Fraud Case](https://www.newsweek.com/letitia-james-trial-date-charges-arrested-donald-trump-10934677)
 
 ## Letitia James Files Vindictive Prosecution Motion to Dismiss Federal Charges
 *Date: 2025-11-07*
@@ -23756,13 +24679,6 @@
 1. [Rep. Grijalva signs petition on Epstein files, giving it the 218th signature needed to force House vote](https://www.pbs.org/newshour/politics/rep-grijalva-signs-petition-on-epstein-files-giving-it-the-218th-signature-needed-to-force-house-vote)
 2. [Epstein discharge petition secures final signature needed to force House vote on releasing files](https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/)
 3. [Adelita Grijalva can force a vote on the Epstein files, but she's still not sworn in](https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in)
-
-## Government Shutdown Ends After 43 Days: Longest in U.S. History
-*Date: 2025-11-12*
-
-1. [The longest government shutdown in U.S. history comes to a close](https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end)
-2. [The shutdown deal doesn't extend expiring health subsidies. What happens to them now?](https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now)
-3. [Trump signs funding bill into law, ending record-long government shutdown](https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438)
 
 ## Government Shutdown Ends After 43 Days: Longest in U.S. History
 *Date: 2025-11-12*
@@ -24509,10 +25425,19 @@
 ## Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order
 *Date: 2025-12-08*
 
+1. [Judge orders top DOJ attorney to testify about Alien Enemies Act deportations](https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048)
+2. [Judge orders testimonies in contempt inquiry over deportation flight](https://www.upi.com/Top_News/US/2025/12/09/testimonies-DOJ-attorneys-deportation-flight/3591765266554/)
+3. [Judge Boasberg to resume criminal contempt inquiry into Trump officials involved in Alien Enemies Act deportation flights](https://www.cnn.com/2025/11/19/politics/boasberg-contempt-of-court-alien-enemies-act-flights)
+4. [Judge expands criminal contempt probe over deportation flights, saying Kristi Noem failed to provide answers](https://www.cnn.com/2025/12/08/politics/kristi-noem-deportation-flights-contempt)
+5. [DOJ refuses to answer some questions from the judge who blocked Alien Enemies Act deportations](https://www.nbcnews.com/politics/trump-administration/doj-refuses-respond-questions-judge-blocked-alien-enemies-act-deportat-rcna196883)
 
 ## Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations
 *Date: 2025-12-08*
 
+1. [US: Close Fort Bliss Immigration Detention Site](https://www.hrw.org/news/2025/12/08/us-close-fort-bliss-immigration-detention-site)
+2. [Human Rights Groups Urge ICE to End Immigration Detention at Fort Bliss Military Base](https://www.aclu.org/press-releases/human-rights-groups-urge-ice-to-end-immigration-detention-at-fort-bliss-military-base-halt-abusive-third-country-deportations)
+3. [ACLU reports physical abuse of migrants held at Fort Bliss](https://www.texastribune.org/2025/12/10/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report/)
+4. [Human rights groups call on ICE to halt third-country deportations, shut down Fort Bliss detention camp](https://elpasomatters.org/2025/12/08/fort-bliss-east-montana-ice-detention-camp-el-paso-texas-aclu-letter-third-country-deportations/)
 
 ## Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling
 *Date: 2025-12-08*
@@ -24525,6 +25450,11 @@
 ## Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases
 *Date: 2025-12-08*
 
+1. [Judges Are Getting Fired as Trump Pursues Immigration 'Purge'](https://www.bloomberg.com/news/features/2025/12/16/judges-are-getting-fired-as-trump-pursues-immigration-purge)
+2. [Meet Tania Nemer, Fired Immigration Judge Suing Trump Admin](https://www.democracynow.org/2025/12/18/immigration_court_judges_fired_tania_nemer)
+3. [A deep dive into the Trump administration's firing of immigration judges](https://www.npr.org/2025/11/05/nx-s1-5584095/a-deep-dive-into-the-trump-administrations-firing-of-immigration-judges)
+4. [Inside the Trump administration's unprecedented purge of immigration judges](https://www.cnn.com/2025/10/06/politics/immigration-judges-fired-trump)
+5. [At Least Seven NYC Immigration Judges Fired in Latest Nationwide Purge](https://documentedny.com/2025/12/01/seven-nyc-immigration-judges-fired-in-latest-nationwide-purge/)
 
 ## Paramount Skydance Launches $108.4 Billion Hostile Takeover Bid for Warner Bros. Discovery with Saudi, Qatari, and UAE Backing
 *Date: 2025-12-08*
@@ -24538,10 +25468,19 @@
 ## State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate
 *Date: 2025-12-08*
 
+1. [Trump administration has revoked 85000 visas since January](https://www.cnn.com/2025/12/08/politics/visa-revocations-state-department)
+2. [Trump administration revokes record 85000 visas in sweeping immigration crackdown](https://www.foxnews.com/us/trump-administration-revokes-record-85000-visas-sweeping-immigration-crackdown-targeting-safety-threats)
+3. [US immigration rules big update: 85,000 visas revoked by Trump administration](https://www.india.com/news/world/us-immigration-rules-crackdown-85000-visas-revoked-by-trump-admin-since-jan-due-to-safety-threats-over-8000-belonged-student-visas-state-dept-officials-says-offences-driving-theft-assault-identified-8222639/)
+4. [Trump administration has revoked 85000 visas since January](https://abc17news.com/politics/national-politics/cnn-us-politics/2025/12/08/trump-administration-has-revoked-85000-visas-since-january-state-department-official-says/)
 
 ## Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
 *Date: 2025-12-08*
 
+1. [Trump v. Slaughter: an explainer](https://www.scotusblog.com/2025/12/trump-v-slaughter-an-explainer/)
+2. [Supreme Court to Redefine the President's Power to Fire Independent Agency Heads](https://www.klgates.com/Supreme-Court-to-Redefine-the-Presidents-Power-to-Fire-Independent-Agency-Heads-Implications-for-Business-11-25-2025)
+3. [Supreme Court seems likely to back Trump's power to fire independent agency board members](https://www.columbian.com/news/2025/dec/08/supreme-court-seems-likely-to-back-trumps-power-to-fire-independent-agency-board-members/)
+4. [Supreme Court to reconsider a 90-year-old unanimous ruling that limits presidential power](https://fortune.com/2025/12/07/supreme-court-humphreys-executor-unanimous-ruling-presidential-power-limit-heads-independent-agencies/)
+5. [What Is Humphrey's Executor and Why Should You Care About It?](https://www.americanprogress.org/article/what-is-humphreys-executor-and-why-should-you-care-about-it/)
 
 ## ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
 *Date: 2025-12-08*
@@ -24560,6 +25499,11 @@
 ## Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
 *Date: 2025-12-09*
 
+1. [Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement](https://www.justice.gov/opa/pr/department-justice-rule-restores-equal-protection-all-civil-rights-enforcement)
+2. [Rescinding Portions of Department of Justice Title VI Regulations](https://www.federalregister.gov/documents/2025/12/10/2025-22448/)
+3. [Department of Justice Eliminates Title VI Disparate Impact Regulations](https://www.sullcrom.com/insights/memo/2025/December/Department-Justice-Eliminates-Title-VI-Disparate-Impact-Regulations)
+4. [DOJ Promulgates Final Rule Removing Disparate Impact Regulations Under Title VI](https://www.mcguirewoods.com/client-resources/alerts/2025/12/doj-promulgates-final-rule-removing-disparate-impact-regulations-under-title-vi/)
+5. [DOJ Eliminated Its Disparate Impact Regulations](https://eelp.law.harvard.edu/tracker/rollback-executive-order-directed-agencies-to-eliminate-use-and-enforcement-of-disparate-impact-standard/)
 
 ## Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act
 *Date: 2025-12-09*

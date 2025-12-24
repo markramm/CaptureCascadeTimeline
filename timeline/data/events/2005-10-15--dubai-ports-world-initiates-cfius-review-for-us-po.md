@@ -1,12 +1,11 @@
 ---
 date: '2005-10-15'
-title: Dubai Ports World Initiates Controversial CFIUS Review for US Port Management
-  Acquisition
+title: Dubai Ports World Initiates Controversial CFIUS Review for US Port Management Acquisition
 actors:
 - Dubai Ports World
 - Sheikh Mohammed bin Rashid Al Maktoum
 - CFIUS
-- US Coast Guard
+- U.S. Coast Guard
 - P&O
 - Department of Homeland Security
 - President George W. Bush

@@ -4,40 +4,40 @@ date: '2020-02-07'
 title: Trump Fires Impeachment Witnesses Vindman and Sondland in Coordinated Retaliation Purge
 importance: 9
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - Impeachment
-  - Ukraine
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- impeachment
+- ukraine
 actors:
-  - Donald Trump
-  - Alexander Vindman
-  - Yevgeny Vindman
-  - Gordon Sondland
-  - David Pressman
-  - Mike Pompeo
+- Donald Trump
+- Alexander Vindman
+- Yevgeny Vindman
+- Gordon Sondland
+- David Pressman
+- Mike Pompeo
 sources:
-  - title: Trump fires two major impeachment figures – Alexander Vindman and Gordon Sondland
-    url: https://www.cnn.com/2020/02/07/politics/alex-vindman-donald-trump-impeachment
-    publisher: CNN
-    date: '2020-02-07'
-    tier: 1
-  - title: Trump ousts EU ambassador Sondland
-    url: https://thehill.com/homenews/administration/482108-trump-ousts-eu-ambassador-sondland/
-    publisher: The Hill
-    date: '2020-02-07'
-    tier: 1
-  - title: Lt. Col. Vindman, fired by White House after testifying in Trump impeachment
-    url: https://www.stripes.com/branches/army/lt-col-vindman-fired-by-white-house-after-testifying-in-trump-impeachment-will-retire-from-army-1.636781
-    publisher: Stars and Stripes
-    date: '2020-07-08'
-    tier: 1
-  - title: Alexander Vindman, NSC official who testified in impeachment trial, removed from White House
-    url: https://www.cbsnews.com/news/alexander-vindman-removed-from-white-house-today/
-    publisher: CBS News
-    date: '2020-02-07'
-    tier: 1
+- title: Trump fires two major impeachment figures – Alexander Vindman and Gordon Sondland
+  url: https://www.cnn.com/2020/02/07/politics/alex-vindman-donald-trump-impeachment
+  date: '2020-02-07'
+  tier: 1
+  outlet: CNN
+- title: Trump ousts EU ambassador Sondland
+  url: https://thehill.com/homenews/administration/482108-trump-ousts-eu-ambassador-sondland/
+  date: '2020-02-07'
+  tier: 1
+  outlet: The Hill
+- title: Lt. Col. Vindman, fired by White House after testifying in Trump impeachment
+  url: https://www.stripes.com/branches/army/lt-col-vindman-fired-by-white-house-after-testifying-in-trump-impeachment-will-retire-from-army-1.636781
+  date: '2020-07-08'
+  tier: 1
+  outlet: Stars and Stripes
+- title: Alexander Vindman, NSC official who testified in impeachment trial, removed from White House
+  url: https://www.cbsnews.com/news/alexander-vindman-removed-from-white-house-today/
+  date: '2020-02-07'
+  tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

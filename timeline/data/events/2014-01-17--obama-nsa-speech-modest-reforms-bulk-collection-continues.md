@@ -17,24 +17,24 @@ actors:
 sources:
 - title: Transcript of President Obama's Jan. 17 speech on NSA reforms
   url: https://www.washingtonpost.com/politics/full-text-of-president-obamas-jan-17-speech-on-nsa-reforms/2014/01/17/fa33590a-7f8c-11e3-9556-4a4bf7bcbd84_story.html
-  publisher: Washington Post
   date: '2014-01-17'
   tier: 1
+  outlet: The Washington Post
 - title: Transcript Of President Obama's Speech On NSA Reforms
   url: https://www.npr.org/sections/itsallpolitics/2014/01/17/263480199/transcript-of-president-obamas-speech-on-nsa-reforms
-  publisher: NPR
   date: '2014-01-17'
   tier: 1
+  outlet: NPR
 - title: Annotated - The Most Important Passage from President Obama's NSA Speech
   url: https://www.aclu.org/news/national-security/annotated-most-important-passage-president-obamas-nsa-speech
-  publisher: ACLU
   date: '2014-01-17'
   tier: 1
+  outlet: ACLU
 - title: Statement on US President Obama's surveillance speech
   url: https://www.hrw.org/news/2014/01/17/statement-us-president-obamas-surveillance-speech
-  publisher: Human Rights Watch
   date: '2014-01-17'
   tier: 1
+  outlet: Human Rights Watch
 status: confirmed
 ---
 

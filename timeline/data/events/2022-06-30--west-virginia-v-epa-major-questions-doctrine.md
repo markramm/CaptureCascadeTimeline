@@ -11,7 +11,7 @@ actors:
 - Justice Neil Gorsuch
 - Justice Brett Kavanaugh
 - Justice Amy Coney Barrett
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
 - West Virginia Attorney General Patrick Morrisey
 - Justice Elena Kagan
 - Justice Stephen Breyer

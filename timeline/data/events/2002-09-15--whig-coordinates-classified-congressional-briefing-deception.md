@@ -1,13 +1,8 @@
 ---
 id: 2002-09-15--whig-coordinates-classified-congressional-briefing-deception
-title: WHIG Coordinates Systematic Deception in Classified Congressional Intelligence
-  Briefings
+title: WHIG Coordinates Systematic Deception in Classified Congressional Intelligence Briefings
 date: '2002-09-15'
-description: In September 2002, the White House Iraq Group (WHIG) coordinates with
-  legislative liaison Nicholas Calio to systematically present fabricated intelligence
-  assessments to congressional leadership. This coordinated effort involves suppressing
-  contradictory evidence from intelligence agencies while using classified briefing
-  privileges to manipulate the war authorization process.
+description: In September 2002, the White House Iraq Group (WHIG) coordinates with legislative liaison Nicholas Calio to systematically present fabricated intelligence assessments to congressional leadership. This coordinated effort involves suppressing contradictory evidence from intelligence agencies while using classified briefing privileges to manipulate the war authorization process.
 category: congressional-deception-operations
 actors:
 - Karl Rove
@@ -22,7 +17,7 @@ sources:
   title: White House Iraq Group (WHIG) Overview
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   access_date: '2025-09-17'
-- outlet: Washington Post
+- outlet: The Washington Post
   title: Records Could Shed Light on Iraq Group
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
   access_date: '2025-09-17'
@@ -56,10 +51,7 @@ connections:
   - whig-congressional-deception-sequence
   - systematic-separation-powers-violation
   - war-authorization-manipulation
-historical_significance: Demonstrated a systematic approach to undermining congressional
-  oversight by weaponizing classified intelligence briefings, establishing a dangerous
-  precedent for executive manipulation of legislative authority through information
-  control.
+historical_significance: Demonstrated a systematic approach to undermining congressional oversight by weaponizing classified intelligence briefings, establishing a dangerous precedent for executive manipulation of legislative authority through information control.
 status: confirmed
 capture_lanes:
 - Media Capture & Control

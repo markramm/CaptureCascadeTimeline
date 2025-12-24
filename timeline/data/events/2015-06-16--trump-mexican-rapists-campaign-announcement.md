@@ -1,0 +1,36 @@
+---
+id: 2015-06-16--trump-mexican-rapists-campaign-announcement
+date: '2015-06-16'
+title: Trump Launches Presidential Campaign Calling Mexican Immigrants 'Rapists' and Criminals
+importance: 9
+actors:
+- Donald Trump
+tags:
+- racial-politics
+- dog-whistle-politics
+- immigration
+- republican-party
+- xenophobia
+- institutional-racism
+- white-nationalism
+sources:
+- title: Donald Trump Announces Presidential Bid By Trashing Mexico, Mexicans
+  url: https://www.nbcnews.com/news/latino/donald-trump-announces-presidential-bid-trashing-mexico-mexicans-n376521
+  outlet: NBC News
+  tier: 1
+- title: Trump basically called Mexicans rapists again
+  url: https://www.cnn.com/2018/04/06/politics/trump-mexico-rapists/index.html
+  outlet: CNN
+  tier: 1
+- title: 'Donald Trump: All the Times He''s Insulted Mexico'
+  url: https://time.com/4473972/donald-trump-mexico-meeting-insult/
+  outlet: TIME
+  tier: 1
+- title: Trump's repeated use of the Mexican rapist trope is as old (and as racist) as colonialism
+  url: https://www.nbcnews.com/think/opinion/trump-s-repeated-use-mexican-rapist-trope-old-racist-colonialism-ncna863451
+  outlet: NBC News
+  tier: 1
+status: confirmed
+---
+
+Donald Trump formally announced his presidential candidacy with a speech demonizing Mexican immigrants in explicitly racist terms. Trump declared: 'When Mexico sends its people, they're not sending their best. They're not sending you. They're not sending you. They're sending people that have lots of problems, and they're bringing those problems with us. They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are good people.' The remarks produced immediate backlash from Republicans, Hispanic leaders, and media partners who cut ties with Trump. Rather than apologizing, Trump doubled down, issuing a statement claiming 'The Mexican Government is forcing their most unwanted people into the United States. They are, in many cases, criminals, drug dealers, rapists.' Trump said he 'can never apologize for the truth.' The Clinton-Kaine campaign documented 16 instances after June 2015 when Trump repeated that unauthorized immigrants are 'hardened criminals and rapists.' The attack 'was described as a test run for how to generate attention in a crowded primary' and succeeded in getting Trump 'more screen time than any of his Republican competitors.' Trump's use of the 'Mexican rapist trope' drew on centuries-old colonial racism used to justify violence against racialized populations. The campaign announcement marked a decisive shift from dog whistle politics to openly racist attacks, testing how far explicit racial demonization could carry a Republican candidate.

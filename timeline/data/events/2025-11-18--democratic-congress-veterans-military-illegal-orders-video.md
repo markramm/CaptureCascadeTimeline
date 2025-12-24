@@ -15,14 +15,14 @@ tags:
 sources:
 - title: Trump calls Democratic lawmakers' message to military 'seditious,' says it's punishable by death
   url: https://www.npr.org/2025/11/20/nx-s1-5615190/trump-democrats-military-video-seditious
-  publisher: NPR
   date: '2025-11-20'
   tier: 1
+  outlet: NPR
 - title: Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders
   url: https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003
-  publisher: NBC News
   date: '2025-11-20'
   tier: 1
+  outlet: NBC News
 actors:
 - Elissa Slotkin
 - Mark Kelly

@@ -10,10 +10,10 @@ id: 2025-10-25--tech-ceos-block-military-deployment
 importance: 9
 sources:
 - date: '2025-10-25'
-  publisher: Wall Street Journal
   tier: 1
   title: Silicon Valley Influence Halts San Francisco Troop Deployment
   url: https://www.wsj.com/articles/tech-billionaires-trump-san-francisco-troops
+  outlet: The Wall Street Journal
 status: confirmed
 tags:
 - abuse-of-power

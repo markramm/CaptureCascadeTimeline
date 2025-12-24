@@ -10,7 +10,7 @@ tags:
 - trump-media
 - spac-fraud
 actors:
-- Securities and Exchange Commission
+- Securities and Exchange Commission (SEC)
 - Patrick Orlando
 - Digital World Acquisition Corp
 - Trump Media & Technology Group

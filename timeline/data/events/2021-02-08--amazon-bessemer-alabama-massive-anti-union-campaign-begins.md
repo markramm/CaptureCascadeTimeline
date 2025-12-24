@@ -4,26 +4,26 @@ date: 2021-02-08
 title: Amazon Launches Massive Anti-Union Campaign at Bessemer Alabama Warehouse
 importance: 9
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Retail, Wholesale and Department Store Union
-  - Morgan Lewis
+- Jeff Bezos
+- Amazon
+- Retail, Wholesale and Department Store Union
+- Morgan Lewis
 sources:
-  - url: https://newlaborforum.cuny.edu/2021/11/15/crushing-unions-by-any-means-necessary-how-amazons-blistering-anti-union-campaign-won-in-bessemer-alabama/
-    title: "Crushing Unions, by Any Means Necessary: How Amazon's Blistering Anti-Union Campaign Won in Bessemer, Alabama"
-    publisher: New Labor Forum
-    date: 2021-11-15
-    tier: 1
-  - url: https://www.cnbc.com/2021/04/16/how-amazon-fought-the-union-drive-in-alabama.html
-    title: "How Amazon fought the union drive in Alabama"
-    publisher: CNBC
-    date: 2021-04-16
-    tier: 1
-  - url: https://www.nbcnews.com/think/opinion/amazon-s-anti-union-pr-efforts-amid-alabama-vote-are-ncna1262687
-    title: "Amazon's anti-union PR efforts amid Alabama vote are a very bad look"
-    publisher: NBC News
-    date: 2021-03-29
-    tier: 1
+- url: https://newlaborforum.cuny.edu/2021/11/15/crushing-unions-by-any-means-necessary-how-amazons-blistering-anti-union-campaign-won-in-bessemer-alabama/
+  title: 'Crushing Unions, by Any Means Necessary: How Amazon''s Blistering Anti-Union Campaign Won in Bessemer, Alabama'
+  date: 2021-11-15
+  tier: 1
+  outlet: New Labor Forum
+- url: https://www.cnbc.com/2021/04/16/how-amazon-fought-the-union-drive-in-alabama.html
+  title: How Amazon fought the union drive in Alabama
+  date: 2021-04-16
+  tier: 1
+  outlet: CNBC
+- url: https://www.nbcnews.com/think/opinion/amazon-s-anti-union-pr-efforts-amid-alabama-vote-are-ncna1262687
+  title: Amazon's anti-union PR efforts amid Alabama vote are a very bad look
+  date: 2021-03-29
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

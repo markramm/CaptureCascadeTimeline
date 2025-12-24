@@ -1,32 +1,41 @@
 ---
-id: "2025-12-02--dell-family-6-billion-trump-accounts-election-year-payout"
-date: "2025-12-02"
-title: "Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment"
-summary: "Michael and Susan Dell pledged $6.25 billion to fund 'Trump Accounts' for 25 million children, depositing $250 into each eligible child's account. The timing coincides with Trump's upcoming $1,000 midterm election deposits, raising concerns about using charitable giving to build political loyalty. Critics warn the initiative functions as a privately subsidized election-year payout that could influence voting behavior while the administration simultaneously cuts traditional social safety programs."
+id: 2025-12-02--dell-family-6-billion-trump-accounts-election-year-payout
+date: '2025-12-02'
+title: Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment
+summary: Michael and Susan Dell pledged $6.25 billion to fund 'Trump Accounts' for 25 million children, depositing $250 into each eligible child's account. The timing coincides with Trump's upcoming $1,000 midterm election deposits, raising concerns about using charitable giving to build political loyalty. Critics warn the initiative functions as a privately subsidized election-year payout that could influence voting behavior while the administration simultaneously cuts traditional social safety programs.
 importance: 9
-tags: ["corruption", "financial-manipulation", "election-interference", "oligarchy", "campaign-finance"]
-actors: ["Michael Dell", "Susan Dell", "Donald Trump", "Treasury Department"]
+tags:
+- corruption
+- financial-manipulation
+- election-interference
+- oligarchy
+- campaign-finance
+actors:
+- Michael Dell
+- Susan Dell
+- Donald Trump
+- Treasury Department
 sources:
-  - url: "https://www.npr.org/2025/12/02/nx-s1-5628412/michael-susan-dell-trump-account-children-investment-saving"
-    title: "Michael and Susan Dell commit $6.25 billion for investment accounts for kids"
-    publisher: "NPR"
-    date: "2025-12-02"
-    tier: 1
-  - url: "https://www.nbcnews.com/business/business-news/dells-billions-donation-trump-accounts-rcna246946"
-    title: "Dell family to give $6.25 billion to create 25 million additional 'Trump Accounts'"
-    publisher: "NBC News"
-    date: "2025-12-02"
-    tier: 1
-  - url: "https://www.cnbc.com/2025/12/02/michael-susan-dell-trump-accounts.html"
-    title: "Michael Dell pledges $6.25 billion to fund Trump Accounts for 25 million kids"
-    publisher: "CNBC"
-    date: "2025-12-02"
-    tier: 2
-  - url: "https://www.bloomberg.com/news/articles/2025-12-02/michael-dell-gives-6-25-billion-to-launch-trump-accounts-for-25-million-kids"
-    title: "Michael Dell Gives $6.25 Billion to Launch 'Trump Accounts' for 25 Million Kids"
-    publisher: "Bloomberg"
-    date: "2025-12-02"
-    tier: 2
+- url: https://www.npr.org/2025/12/02/nx-s1-5628412/michael-susan-dell-trump-account-children-investment-saving
+  title: Michael and Susan Dell commit $6.25 billion for investment accounts for kids
+  date: '2025-12-02'
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/business/business-news/dells-billions-donation-trump-accounts-rcna246946
+  title: Dell family to give $6.25 billion to create 25 million additional 'Trump Accounts'
+  date: '2025-12-02'
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnbc.com/2025/12/02/michael-susan-dell-trump-accounts.html
+  title: Michael Dell pledges $6.25 billion to fund Trump Accounts for 25 million kids
+  date: '2025-12-02'
+  tier: 2
+  outlet: CNBC
+- url: https://www.bloomberg.com/news/articles/2025-12-02/michael-dell-gives-6-25-billion-to-launch-trump-accounts-for-25-million-kids
+  title: Michael Dell Gives $6.25 Billion to Launch 'Trump Accounts' for 25 Million Kids
+  date: '2025-12-02'
+  tier: 2
+  outlet: Bloomberg
 ---
 
 # Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment

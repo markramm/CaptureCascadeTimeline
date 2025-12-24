@@ -17,24 +17,24 @@ actors:
 sources:
 - title: Germany Opens Formal Inquiry Into Tapping Of Merkel's Phone
   url: https://www.npr.org/sections/thetwo-way/2014/06/04/318776863/germany-opens-formal-inquiry-into-tapping-of-merkel-s-phone
-  publisher: NPR
   date: '2014-06-04'
   tier: 1
+  outlet: NPR
 - title: Germany opens criminal probe into Merkel phone tapping
   url: https://www.timesofisrael.com/germany-opens-criminal-probe-into-merkel-phone-tapping/
-  publisher: Times of Israel
   date: '2014-06-04'
   tier: 2
+  outlet: Times of Israel
 - title: German Parliamentary Committee investigation of the NSA spying scandal
   url: https://en.wikipedia.org/wiki/German_Parliamentary_Committee_investigation_of_the_NSA_spying_scandal
-  publisher: Wikipedia
   date: '2014-06-04'
   tier: 2
+  outlet: Wikipedia
 - title: Germany Closes Probe Into Alleged U.S. Hacking Of Merkel's Phone
   url: https://www.npr.org/sections/thetwo-way/2015/06/12/413866194/germany-closes-probe-into-alleged-u-s-hacking-of-merkels-phone
-  publisher: NPR
   date: '2015-06-12'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

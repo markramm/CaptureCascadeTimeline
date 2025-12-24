@@ -4,31 +4,31 @@ date: 1983-12-20
 title: Donald Rumsfeld Meets Saddam Hussein as Reagan Special Envoy to Iraq
 importance: 8
 tags:
-  - foreign-policy
-  - Iraq
-  - Reagan-administration
-  - war-crimes
-  - chemical-weapons
+- foreign-policy
+- iraq
+- reagan-administration
+- war-crimes
+- chemical-weapons
 actors:
-  - Donald Rumsfeld
-  - Saddam Hussein
-  - Ronald Reagan
+- Donald Rumsfeld
+- Saddam Hussein
+- Ronald Reagan
 sources:
-  - url: https://www.npr.org/2005/09/22/4859238/u-s-links-to-saddam-during-iran-iraq-war
-    title: U.S. Links to Saddam During Iran-Iraq War
-    publisher: NPR
-    date: 2005-09-22
-    tier: 1
-  - url: https://nsarchive.gwu.edu/briefing-book/iraq-gate/2018-12-07/shaking-hands-saddam-hussein-cia-documents-detail-us-embrace-iraqi-president-1980s
-    title: Shaking Hands with Saddam Hussein
-    publisher: National Security Archive
-    date: 2018-12-07
-    tier: 1
-  - url: https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/
-    title: Exclusive CIA Files Prove America Helped Saddam as He Gassed Iran
-    publisher: Foreign Policy
-    date: 2013-08-26
-    tier: 1
+- url: https://www.npr.org/2005/09/22/4859238/u-s-links-to-saddam-during-iran-iraq-war
+  title: U.S. Links to Saddam During Iran-Iraq War
+  date: 2005-09-22
+  tier: 1
+  outlet: NPR
+- url: https://nsarchive.gwu.edu/briefing-book/iraq-gate/2018-12-07/shaking-hands-saddam-hussein-cia-documents-detail-us-embrace-iraqi-president-1980s
+  title: Shaking Hands with Saddam Hussein
+  date: 2018-12-07
+  tier: 1
+  outlet: National Security Archive
+- url: https://foreignpolicy.com/2013/08/26/exclusive-cia-files-prove-america-helped-saddam-as-he-gassed-iran/
+  title: Exclusive CIA Files Prove America Helped Saddam as He Gassed Iran
+  date: 2013-08-26
+  tier: 1
+  outlet: Foreign Policy
 ---
 
 President Reagan sends Donald Rumsfeld as a special envoy to Baghdad to meet with Iraqi dictator Saddam Hussein, establishing formal diplomatic relations and initiating a strategic partnership during the Iran-Iraq War. The now-infamous handshake between Rumsfeld and Hussein symbolizes the Reagan administration's "tilt" toward Iraq despite full knowledge of Hussein's use of chemical weapons against Iranian forces.

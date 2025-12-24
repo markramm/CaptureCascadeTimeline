@@ -9,16 +9,31 @@ actors:
 - Office of Personnel Management (OPM)
 importance: 9
 sources:
-- title: 'ProPublica: Russell Vought''s Project 2025 Policy Statements'
-  url: ''
-- title: 'AP News: White House Budget Office Federal Workforce Reduction'
-  url: ''
-- title: Official OMB/OPM Guidance on Agency Workforce Reductions
-  url: ''
-- title: Federal News Network
-  url: ''
-- title: Project 2025 Implementation analysis
-  url: ''
+- title: OPM says cuts to federal workforce surpassed 2025 goals
+  url: https://federalnewsnetwork.com/workforce/2025/11/317000-feds-have-left-the-government-this-year-surpassing-opms-goal/
+  outlet: Federal News Network
+  date: '2025-11-15'
+  tier: 2
+- title: Trump administration says about 4,200 federal employees face layoffs
+  url: https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought
+  outlet: NPR
+  date: '2025-10-10'
+  tier: 1
+- title: Trump administration lays off thousands of federal workers during government shutdown
+  url: https://www.cnn.com/2025/10/10/politics/government-shutdown-federal-worker-firings
+  outlet: CNN
+  date: '2025-10-10'
+  tier: 1
+- title: OMB chief Russell Vought - Federal workers layoffs to begin within a day or two
+  url: https://www.axios.com/2025/10/01/white-house-omb-federal-workers-layoffs-shutdown-vought-house-republicans
+  outlet: Axios
+  date: '2025-10-01'
+  tier: 1
+- title: 2025 United States federal mass layoffs
+  url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
+  outlet: Wikipedia
+  date: '2025-10-15'
+  tier: 3
 tags:
 - workforce-reduction
 - federal-employees

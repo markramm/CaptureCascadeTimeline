@@ -17,8 +17,8 @@ tags:
 actors:
 - Gregory Bovino
 - Kristi Noem
-- ICE
-- CBP
+- Immigration and Customs Enforcement (ICE)
+- Customs and Border Protection (CBP)
 - Tom Homan
 - Todd Lyons
 - Katie Abraham
@@ -26,29 +26,29 @@ actors:
 sources:
 - title: ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal Illegal Aliens Terrorizing Americans in Sanctuary Illinois
   url: https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal
-  publisher: Department of Homeland Security
   date: '2025-09-08'
   tier: 1
-- title: "'Operation Midway Blitz': Homeland Security, ICE warn of new operation in Chicago"
+  outlet: Department of Homeland Security
+- title: '''Operation Midway Blitz'': Homeland Security, ICE warn of new operation in Chicago'
   url: https://www.nbcchicago.com/news/politics/operation-midway-blitz-homeland-security-ice-warn-of-new-operation-in-chicago/3821080/
-  publisher: NBC Chicago
   date: '2025-09-08'
   tier: 1
+  outlet: NBC Chicago
 - title: DHS immigration raid architect Gregory Bovino moves from LA to Chicago
   url: https://www.foxnews.com/politics/architect-la-ice-raids-reportedly-arrives-chicago-focus-shifts-windy-city-agents-work-history
-  publisher: Fox News
   date: '2025-09-08'
   tier: 2
+  outlet: Fox News
 - title: Secretary Noem Travels to Chicago as Operation Midway Blitz Reaches More Than 1,000 Illegal Aliens Arrested
   url: https://www.dhs.gov/news/2025/10/03/secretary-noem-travels-chicago-operation-midway-blitz-reaches-more-1000-illegal
-  publisher: Department of Homeland Security
   date: '2025-10-03'
   tier: 1
-- title: "'Operation Midway Blitz': Over 3,000 arrests and protests in 2 months"
+  outlet: Department of Homeland Security
+- title: '''Operation Midway Blitz'': Over 3,000 arrests and protests in 2 months'
   url: https://wgntv.com/news/operation-midway-blitz/operation-midway-blitz-2-months/
-  publisher: WGN Chicago
   date: '2025-11-08'
   tier: 2
+  outlet: WGN Chicago
 status: confirmed
 ---
 

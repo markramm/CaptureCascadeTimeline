@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.bellingcat.com/news/mena/2018/04/27/american-made-bomb-used-airstrike-yemen-wedding/
   title: American-Made Bomb Used in Airstrike on Yemen Wedding
-  publisher: Bellingcat
   date: '2018-04-27'
   tier: 2
+  outlet: Bellingcat
 - url: https://www.washingtonpost.com/world/middle_east/us-allies-have-killed-thousands-of-yemenis-from-the-air-after-22-died-at-a-wedding-one-village-asks-why-us/2018/07/25/3c3e4801-164e-42ae-ac08-bec09044e52a_story.html
   title: US allies have killed thousands of Yemeni civilians from the air. After 22 died at a wedding, one village asks, 'Why us?'
-  publisher: The Washington Post
   date: '2018-07-25'
   tier: 2
+  outlet: The Washington Post
 - url: https://www.salon.com/2018/06/27/raytheons-profits-boom-alongside-civilian-deaths-in-yemen_partner/
   title: Raytheon's profits boom alongside civilian deaths in Yemen
-  publisher: Salon
   date: '2018-06-27'
   tier: 2
+  outlet: Salon
 - url: https://edition.cnn.com/interactive/2018/09/world/yemen-airstrikes-intl/
   title: Made in America - Shrapnel in Yemen ties US bombs to civilian deaths
-  publisher: CNN
   date: '2018-09-01'
   tier: 2
+  outlet: CNN
 actors:
 - Raytheon
 - Lockheed Martin

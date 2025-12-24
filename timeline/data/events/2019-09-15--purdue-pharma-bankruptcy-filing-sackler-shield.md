@@ -4,36 +4,36 @@ title: Purdue Pharma Files Bankruptcy to Shield Sackler Family from Civil Lawsui
 date: '2019-09-15'
 importance: 9
 actors:
-  - Purdue Pharma
-  - Sackler Family
-  - Richard Sackler
-  - David Sackler
-  - Mortimer D.A. Sackler
-  - Kathe Sackler
-  - Jonathan Sackler
+- Purdue Pharma
+- Sackler Family
+- Richard Sackler
+- David Sackler
+- Mortimer D.A. Sackler
+- Kathe Sackler
+- Jonathan Sackler
 tags:
-  - opioid-crisis
-  - bankruptcy-abuse
-  - corporate-crime
-  - accountability-failure
-  - legal-manipulation
+- opioid-crisis
+- bankruptcy-abuse
+- corporate-crime
+- accountability-failure
+- legal-manipulation
 status: confirmed
 sources:
-  - title: Purdue Pharma files for bankruptcy as part of a $10 billion agreement to settle opioid lawsuits
-    url: https://www.cnn.com/2019/09/16/us/purdue-pharma-bankruptcy-filing/index.html
-    publisher: CNN
-    date: '2019-09-16'
-    tier: 2
-  - title: Court conflicted over Purdue Pharma bankruptcy plan that shields Sacklers from liability
-    url: https://www.scotusblog.com/2023/12/purdue-bankruptcy-sacklers/
-    publisher: SCOTUSblog
-    date: '2023-12-01'
-    tier: 1
-  - title: Judge in Purdue Pharma bankruptcy grants lawsuit protection to Sacklers
-    url: https://www.washingtonpost.com/business/2019/11/06/judge-purdue-pharma-bankruptcy-extends-lawsuit-protection-sacklers/
-    publisher: Washington Post
-    date: '2019-11-06'
-    tier: 2
+- title: Purdue Pharma files for bankruptcy as part of a $10 billion agreement to settle opioid lawsuits
+  url: https://www.cnn.com/2019/09/16/us/purdue-pharma-bankruptcy-filing/index.html
+  date: '2019-09-16'
+  tier: 2
+  outlet: CNN
+- title: Court conflicted over Purdue Pharma bankruptcy plan that shields Sacklers from liability
+  url: https://www.scotusblog.com/2023/12/purdue-bankruptcy-sacklers/
+  date: '2023-12-01'
+  tier: 1
+  outlet: SCOTUSblog
+- title: Judge in Purdue Pharma bankruptcy grants lawsuit protection to Sacklers
+  url: https://www.washingtonpost.com/business/2019/11/06/judge-purdue-pharma-bankruptcy-extends-lawsuit-protection-sacklers/
+  date: '2019-11-06'
+  tier: 2
+  outlet: The Washington Post
 ---
 
 On September 15, 2019, Purdue Pharma filed for Chapter 11 bankruptcy protection after facing thousands of lawsuits from states, local governments, Native American tribes, and victims related to the opioid crisis. The bankruptcy filing was a strategic maneuver designed to shield the billionaire Sackler family from civil liability while allowing them to retain billions extracted from the company in previous years.

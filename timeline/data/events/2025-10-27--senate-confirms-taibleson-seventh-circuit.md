@@ -11,21 +11,20 @@ id: 2025-10-27--senate-confirms-taibleson-seventh-circuit
 importance: 6
 sources:
 - date: '2025-10-27'
-  publisher: Senate.gov
   tier: 1
-  title: Sen. Johnson Releases Statement on Confirmation of Rebecca Taibleson to the
-    U.S. Court of Appeals for the Seventh Circuit
+  title: Sen. Johnson Releases Statement on Confirmation of Rebecca Taibleson to the U.S. Court of Appeals for the Seventh Circuit
   url: https://www.ronjohnson.senate.gov/2025/10/sen-johnson-releases-statement-on-confirmation-of-rebecca-taibleson-to-the-u-s-court-of-appeals-for-the-seventh-circuit
+  outlet: Senate.gov
 - date: '2025-10-28'
-  publisher: Wisconsin Law Journal
   tier: 2
   title: Taibleson confirmed to appeals court
   url: https://wislawjournal.com/2025/10/28/taibleson-confirmed-to-appeals-court/
+  outlet: Wisconsin Law Journal
 - date: '2025-10-27'
-  publisher: Bloomberg Law
   tier: 2
   title: Trump Appeals Court Pick Who Drew Conservative Ire Confirmed
   url: https://news.bloomberglaw.com/us-law-week/trump-appeals-court-pick-who-drew-conservative-ire-confirmed
+  outlet: Bloomberg Law
 tags:
 - appeals-court
 - courts
