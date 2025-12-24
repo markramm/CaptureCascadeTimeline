@@ -1,15 +1,15 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1032
+    "count": 1057
   },
   {
     "name": "Trump Administration",
-    "count": 326
+    "count": 330
   },
   {
     "name": "Department of Justice",
-    "count": 203
+    "count": 238
   },
   {
     "name": "Elon Musk",
@@ -20,28 +20,36 @@
     "count": 89
   },
   {
-    "name": "FBI",
-    "count": 70
-  },
-  {
     "name": "Heritage Foundation",
-    "count": 68
+    "count": 73
   },
   {
-    "name": "Jeffrey Epstein",
-    "count": 62
+    "name": "FBI",
+    "count": 71
   },
   {
     "name": "Supreme Court",
-    "count": 59
+    "count": 70
+  },
+  {
+    "name": "Jeffrey Epstein",
+    "count": 63
+  },
+  {
+    "name": "George W. Bush",
+    "count": 60
+  },
+  {
+    "name": "Ronald Reagan",
+    "count": 58
+  },
+  {
+    "name": "Dick Cheney",
+    "count": 57
   },
   {
     "name": "ICE",
     "count": 57
-  },
-  {
-    "name": "Dick Cheney",
-    "count": 55
   },
   {
     "name": "White House",
@@ -52,15 +60,19 @@
     "count": 54
   },
   {
-    "name": "George W. Bush",
-    "count": 52
+    "name": "Federal Trade Commission",
+    "count": 53
   },
   {
     "name": "Department of Homeland Security",
     "count": 52
   },
   {
-    "name": "Ronald Reagan",
+    "name": "Congress",
+    "count": 50
+  },
+  {
+    "name": "Barack Obama",
     "count": 49
   },
   {
@@ -68,8 +80,8 @@
     "count": 46
   },
   {
-    "name": "Congress",
-    "count": 46
+    "name": "Bill Clinton",
+    "count": 45
   },
   {
     "name": "Amazon",
@@ -80,11 +92,11 @@
     "count": 42
   },
   {
-    "name": "Karl Rove",
+    "name": "Department of Defense",
     "count": 42
   },
   {
-    "name": "Barack Obama",
+    "name": "Karl Rove",
     "count": 42
   },
   {
@@ -92,11 +104,11 @@
     "count": 42
   },
   {
-    "name": "Department of Defense",
-    "count": 41
+    "name": "Google",
+    "count": 40
   },
   {
-    "name": "Google",
+    "name": "Treasury Department",
     "count": 39
   },
   {
@@ -104,11 +116,11 @@
     "count": 39
   },
   {
-    "name": "Trump Organization",
-    "count": 38
+    "name": "Donald Trump Jr.",
+    "count": 39
   },
   {
-    "name": "Bill Clinton",
+    "name": "Trump Organization",
     "count": 38
   },
   {
@@ -120,19 +132,19 @@
     "count": 38
   },
   {
-    "name": "Donald Trump Jr.",
-    "count": 36
+    "name": "SEC",
+    "count": 37
   },
   {
     "name": "White House Iraq Group",
     "count": 35
   },
   {
-    "name": "Treasury Department",
+    "name": "Mark Zuckerberg",
     "count": 34
   },
   {
-    "name": "Mark Zuckerberg",
+    "name": "Elizabeth Warren",
     "count": 34
   },
   {
@@ -148,15 +160,23 @@
     "count": 32
   },
   {
+    "name": "Joe Biden",
+    "count": 32
+  },
+  {
     "name": "Eric Trump",
-    "count": 30
+    "count": 32
+  },
+  {
+    "name": "Republican Party",
+    "count": 31
   },
   {
     "name": "DHS",
     "count": 30
   },
   {
-    "name": "Elizabeth Warren",
+    "name": "ExxonMobil",
     "count": 29
   },
   {
@@ -172,19 +192,11 @@
     "count": 28
   },
   {
-    "name": "ExxonMobil",
-    "count": 28
-  },
-  {
-    "name": "SEC",
-    "count": 28
-  },
-  {
-    "name": "Joe Biden",
-    "count": 28
-  },
-  {
     "name": "World Liberty Financial",
+    "count": 28
+  },
+  {
+    "name": "Letitia James",
     "count": 27
   },
   {
@@ -192,11 +204,39 @@
     "count": 27
   },
   {
+    "name": "Paul Weyrich",
+    "count": 26
+  },
+  {
     "name": "Saudi Arabia",
     "count": 26
   },
   {
-    "name": "Paul Weyrich",
+    "name": "Clarence Thomas",
+    "count": 26
+  },
+  {
+    "name": "Securities and Exchange Commission",
+    "count": 26
+  },
+  {
+    "name": "Federal Reserve",
+    "count": 25
+  },
+  {
+    "name": "American Legislative Exchange Council",
+    "count": 25
+  },
+  {
+    "name": "Council for National Policy",
+    "count": 25
+  },
+  {
+    "name": "Federalist Society",
+    "count": 25
+  },
+  {
+    "name": "Boeing",
     "count": 25
   },
   {
@@ -208,15 +248,19 @@
     "count": 25
   },
   {
+    "name": "U.S. Senate",
+    "count": 24
+  },
+  {
+    "name": "Koch Industries",
+    "count": 24
+  },
+  {
     "name": "Oracle",
     "count": 24
   },
   {
-    "name": "Council for National Policy",
-    "count": 24
-  },
-  {
-    "name": "Federal Trade Commission",
+    "name": "Americans for Prosperity",
     "count": 24
   },
   {
@@ -232,7 +276,7 @@
     "count": 24
   },
   {
-    "name": "Boeing",
+    "name": "DOJ",
     "count": 24
   },
   {
@@ -240,15 +284,7 @@
     "count": 24
   },
   {
-    "name": "Letitia James",
-    "count": 24
-  },
-  {
-    "name": "Republican Party",
-    "count": 23
-  },
-  {
-    "name": "Clarence Thomas",
+    "name": "U.S. Congress",
     "count": 23
   },
   {
@@ -256,7 +292,7 @@
     "count": 23
   },
   {
-    "name": "DOJ",
+    "name": "Mitch McConnell",
     "count": 23
   },
   {
@@ -264,7 +300,7 @@
     "count": 23
   },
   {
-    "name": "U.S. Senate",
+    "name": "Leonard Leo",
     "count": 22
   },
   {
@@ -276,15 +312,7 @@
     "count": 22
   },
   {
-    "name": "American Legislative Exchange Council",
-    "count": 21
-  },
-  {
-    "name": "Koch Industries",
-    "count": 21
-  },
-  {
-    "name": "Americans for Prosperity",
+    "name": "FDA",
     "count": 21
   },
   {
@@ -292,8 +320,12 @@
     "count": 21
   },
   {
-    "name": "Mitch McConnell",
-    "count": 21
+    "name": "U.S. Chamber of Commerce",
+    "count": 20
+  },
+  {
+    "name": "Roger Stone",
+    "count": 20
   },
   {
     "name": "Rudy Giuliani",
@@ -328,19 +360,7 @@
     "count": 20
   },
   {
-    "name": "U.S. Congress",
-    "count": 19
-  },
-  {
-    "name": "Federal Reserve",
-    "count": 19
-  },
-  {
     "name": "Edwin Feulner",
-    "count": 19
-  },
-  {
-    "name": "Roger Stone",
     "count": 19
   },
   {
@@ -364,15 +384,19 @@
     "count": 19
   },
   {
+    "name": "Joseph Coors",
+    "count": 18
+  },
+  {
     "name": "Federal Aviation Administration",
     "count": 18
   },
   {
-    "name": "Federalist Society",
+    "name": "Chuck Schumer",
     "count": 18
   },
   {
-    "name": "Chuck Schumer",
+    "name": "GEO Group",
     "count": 18
   },
   {
@@ -381,6 +405,14 @@
   },
   {
     "name": "U.S. Air Force",
+    "count": 18
+  },
+  {
+    "name": "Citigroup",
+    "count": 18
+  },
+  {
+    "name": "U.S. Department of Justice",
     "count": 18
   },
   {
@@ -400,15 +432,19 @@
     "count": 18
   },
   {
-    "name": "Joseph Coors",
-    "count": 17
-  },
-  {
     "name": "Larry Ellison",
     "count": 17
   },
   {
     "name": "Ghislaine Maxwell",
+    "count": 17
+  },
+  {
+    "name": "Department of Health and Human Services",
+    "count": 17
+  },
+  {
+    "name": "Federal Communications Commission",
     "count": 17
   },
   {
@@ -428,15 +464,15 @@
     "count": 17
   },
   {
-    "name": "FDA",
+    "name": "John Roberts",
     "count": 16
   },
   {
-    "name": "Citigroup",
+    "name": "Mike Pence",
     "count": 16
   },
   {
-    "name": "Securities and Exchange Commission",
+    "name": "Chief Justice John Roberts",
     "count": 16
   },
   {
@@ -452,6 +488,10 @@
     "count": 16
   },
   {
+    "name": "Karoline Leavitt",
+    "count": 16
+  },
+  {
     "name": "Mike Johnson",
     "count": 16
   },
@@ -460,15 +500,23 @@
     "count": 15
   },
   {
+    "name": "Bank of America",
+    "count": 15
+  },
+  {
     "name": "Charles Koch",
     "count": 15
   },
   {
-    "name": "Leonard Leo",
+    "name": "Goldman Sachs",
     "count": 15
   },
   {
     "name": "Northrop Grumman",
+    "count": 15
+  },
+  {
+    "name": "Ron Wyden",
     "count": 15
   },
   {
@@ -480,7 +528,7 @@
     "count": 15
   },
   {
-    "name": "Mike Pence",
+    "name": "Wells Fargo",
     "count": 15
   },
   {
@@ -496,19 +544,19 @@
     "count": 15
   },
   {
-    "name": "Karoline Leavitt",
-    "count": 15
-  },
-  {
-    "name": "U.S. Chamber of Commerce",
+    "name": "Department of Labor",
     "count": 14
   },
   {
-    "name": "John Roberts",
+    "name": "Supreme Court of the United States",
     "count": 14
   },
   {
-    "name": "Federal Communications Commission",
+    "name": "Environmental Protection Agency",
+    "count": 14
+  },
+  {
+    "name": "AT&T",
     "count": 14
   },
   {
@@ -524,15 +572,11 @@
     "count": 14
   },
   {
-    "name": "Ron Wyden",
+    "name": "Halliburton",
     "count": 14
   },
   {
     "name": "Scooter Libby",
-    "count": 14
-  },
-  {
-    "name": "Wells Fargo",
     "count": 14
   },
   {
@@ -552,6 +596,10 @@
     "count": 14
   },
   {
+    "name": "Jeff Sessions",
+    "count": 14
+  },
+  {
     "name": "Nick Fuentes",
     "count": 14
   },
@@ -564,23 +612,11 @@
     "count": 14
   },
   {
-    "name": "Supreme Court of the United States",
-    "count": 13
-  },
-  {
-    "name": "Department of Health and Human Services",
-    "count": 13
-  },
-  {
-    "name": "Environmental Protection Agency",
+    "name": "Alan Greenspan",
     "count": 13
   },
   {
     "name": "Office of Management and Budget",
-    "count": 13
-  },
-  {
-    "name": "AT&T",
     "count": 13
   },
   {
@@ -592,11 +628,15 @@
     "count": 13
   },
   {
-    "name": "Halliburton",
+    "name": "Apple",
     "count": 13
   },
   {
-    "name": "Apple",
+    "name": "Merrick Garland",
+    "count": 13
+  },
+  {
+    "name": "Ivanka Trump",
     "count": 13
   },
   {
@@ -604,19 +644,19 @@
     "count": 13
   },
   {
-    "name": "Department of Labor",
+    "name": "State Policy Network",
     "count": 12
   },
   {
-    "name": "Bank of America",
-    "count": 12
-  },
-  {
-    "name": "Goldman Sachs",
+    "name": "Grover Norquist",
     "count": 12
   },
   {
     "name": "David Koch",
+    "count": 12
+  },
+  {
+    "name": "YouTube",
     "count": 12
   },
   {
@@ -632,15 +672,19 @@
     "count": 12
   },
   {
-    "name": "U.S. Department of Justice",
+    "name": "House Oversight Committee",
     "count": 12
   },
   {
-    "name": "Merrick Garland",
+    "name": "JPMorgan Chase",
     "count": 12
   },
   {
-    "name": "Jeff Sessions",
+    "name": "CoreCivic",
+    "count": 12
+  },
+  {
+    "name": "Lina Khan",
     "count": 12
   },
   {
@@ -656,6 +700,14 @@
     "count": 12
   },
   {
+    "name": "Changpeng Zhao",
+    "count": 12
+  },
+  {
+    "name": "Binance",
+    "count": 12
+  },
+  {
     "name": "Department of Commerce",
     "count": 12
   },
@@ -664,15 +716,23 @@
     "count": 12
   },
   {
+    "name": "American Enterprise Institute",
+    "count": 11
+  },
+  {
     "name": "United States",
     "count": 11
   },
   {
-    "name": "GEO Group",
+    "name": "Robert Rubin",
     "count": 11
   },
   {
     "name": "State Legislatures",
+    "count": 11
+  },
+  {
+    "name": "CFTC",
     "count": 11
   },
   {
@@ -688,15 +748,19 @@
     "count": 11
   },
   {
-    "name": "House Oversight Committee",
+    "name": "Eric Holder",
+    "count": 11
+  },
+  {
+    "name": "Nancy Pelosi",
+    "count": 11
+  },
+  {
+    "name": "Consumer Financial Protection Bureau",
     "count": 11
   },
   {
     "name": "Maria Butina",
-    "count": 11
-  },
-  {
-    "name": "YouTube",
     "count": 11
   },
   {
@@ -708,10 +772,6 @@
     "count": 11
   },
   {
-    "name": "Ivanka Trump",
-    "count": 11
-  },
-  {
     "name": "Mark Meadows",
     "count": 11
   },
@@ -720,7 +780,11 @@
     "count": 10
   },
   {
-    "name": "American Enterprise Institute",
+    "name": "Arthur Laffer",
+    "count": 10
+  },
+  {
+    "name": "Robert Bork",
     "count": 10
   },
   {
@@ -736,19 +800,23 @@
     "count": 10
   },
   {
-    "name": "State Policy Network",
-    "count": 10
-  },
-  {
     "name": "National Guard",
     "count": 10
   },
   {
-    "name": "Grover Norquist",
+    "name": "Federal Bureau of Investigation",
     "count": 10
   },
   {
     "name": "National Rifle Association",
+    "count": 10
+  },
+  {
+    "name": "Tom DeLay",
+    "count": 10
+  },
+  {
+    "name": "House Republicans",
     "count": 10
   },
   {
@@ -760,11 +828,15 @@
     "count": 10
   },
   {
-    "name": "Eric Holder",
+    "name": "WikiLeaks",
     "count": 10
   },
   {
-    "name": "WikiLeaks",
+    "name": "Betsy DeVos",
+    "count": 10
+  },
+  {
+    "name": "Justice Samuel Alito",
     "count": 10
   },
   {
@@ -776,11 +848,7 @@
     "count": 10
   },
   {
-    "name": "Changpeng Zhao",
-    "count": 10
-  },
-  {
-    "name": "Binance",
+    "name": "Tom Homan",
     "count": 10
   },
   {
@@ -788,7 +856,15 @@
     "count": 10
   },
   {
+    "name": "U.S. Supreme Court",
+    "count": 9
+  },
+  {
     "name": "National Labor Relations Board",
+    "count": 9
+  },
+  {
+    "name": "Richard Nixon",
     "count": 9
   },
   {
@@ -796,11 +872,11 @@
     "count": 9
   },
   {
-    "name": "Alan Greenspan",
+    "name": "Brett Kavanaugh",
     "count": 9
   },
   {
-    "name": "Robert Rubin",
+    "name": "Corrections Corporation of America (CCA)",
     "count": 9
   },
   {
@@ -808,15 +884,11 @@
     "count": 9
   },
   {
-    "name": "Tom DeLay",
+    "name": "Newt Gingrich",
     "count": 9
   },
   {
     "name": "Deutsche Bank",
-    "count": 9
-  },
-  {
-    "name": "House Republicans",
     "count": 9
   },
   {
@@ -864,15 +936,7 @@
     "count": 9
   },
   {
-    "name": "JPMorgan Chase",
-    "count": 9
-  },
-  {
     "name": "Alexander Torshin",
-    "count": 9
-  },
-  {
-    "name": "Nancy Pelosi",
     "count": 9
   },
   {
@@ -880,11 +944,15 @@
     "count": 9
   },
   {
+    "name": "Bernie Sanders",
+    "count": 9
+  },
+  {
     "name": "Cambridge Analytica",
     "count": 9
   },
   {
-    "name": "Betsy DeVos",
+    "name": "Justice Clarence Thomas",
     "count": 9
   },
   {
@@ -912,16 +980,16 @@
     "count": 9
   },
   {
-    "name": "Tom Homan",
-    "count": 9
-  },
-  {
     "name": "Trump Family",
     "count": 9
   },
   {
     "name": "CBS News",
     "count": 9
+  },
+  {
+    "name": "Phyllis Schlafly",
+    "count": 8
   },
   {
     "name": "Richard Mellon Scaife",
@@ -932,7 +1000,7 @@
     "count": 8
   },
   {
-    "name": "Robert Bork",
+    "name": "Business Roundtable",
     "count": 8
   },
   {
@@ -944,7 +1012,19 @@
     "count": 8
   },
   {
-    "name": "Brett Kavanaugh",
+    "name": "Senate Finance Committee",
+    "count": 8
+  },
+  {
+    "name": "Democratic National Committee",
+    "count": 8
+  },
+  {
+    "name": "Eli Lilly",
+    "count": 8
+  },
+  {
+    "name": "George H.W. Bush",
     "count": 8
   },
   {
@@ -952,7 +1032,11 @@
     "count": 8
   },
   {
-    "name": "Newt Gingrich",
+    "name": "Phil Gramm",
+    "count": 8
+  },
+  {
+    "name": "Dennis Hastert",
     "count": 8
   },
   {
@@ -976,15 +1060,23 @@
     "count": 8
   },
   {
+    "name": "Mitt Romney",
+    "count": 8
+  },
+  {
+    "name": "General Dynamics",
+    "count": 8
+  },
+  {
     "name": "John Brennan",
     "count": 8
   },
   {
-    "name": "John Stumpf",
+    "name": "CDC",
     "count": 8
   },
   {
-    "name": "Bernie Sanders",
+    "name": "John Stumpf",
     "count": 8
   },
   {
@@ -996,7 +1088,19 @@
     "count": 8
   },
   {
+    "name": "Ajit Pai",
+    "count": 8
+  },
+  {
+    "name": "Chuck Grassley",
+    "count": 8
+  },
+  {
     "name": "Mossack Fonseca",
+    "count": 8
+  },
+  {
+    "name": "U.S. Marshals Service",
     "count": 8
   },
   {
@@ -1008,11 +1112,23 @@
     "count": 8
   },
   {
+    "name": "Senate Judiciary Committee",
+    "count": 8
+  },
+  {
     "name": "Louis DeJoy",
     "count": 8
   },
   {
     "name": "Office of Personnel Management",
+    "count": 8
+  },
+  {
+    "name": "Justice Elena Kagan",
+    "count": 8
+  },
+  {
+    "name": "Justice Sonia Sotomayor",
     "count": 8
   },
   {
@@ -1056,7 +1172,7 @@
     "count": 7
   },
   {
-    "name": "Richard Nixon",
+    "name": "Richard Viguerie",
     "count": 7
   },
   {
@@ -1080,6 +1196,14 @@
     "count": 7
   },
   {
+    "name": "Amy Coney Barrett",
+    "count": 7
+  },
+  {
+    "name": "Republican National Committee",
+    "count": 7
+  },
+  {
     "name": "House Judiciary Committee",
     "count": 7
   },
@@ -1096,6 +1220,10 @@
     "count": 7
   },
   {
+    "name": "KKR",
+    "count": 7
+  },
+  {
     "name": "John McCain",
     "count": 7
   },
@@ -1104,7 +1232,19 @@
     "count": 7
   },
   {
+    "name": "Clear Channel Communications",
+    "count": 7
+  },
+  {
+    "name": "Republican Congress",
+    "count": 7
+  },
+  {
     "name": "LAPD",
+    "count": 7
+  },
+  {
+    "name": "Enron",
     "count": 7
   },
   {
@@ -1120,27 +1260,15 @@
     "count": 7
   },
   {
-    "name": "Dennis Hastert",
-    "count": 7
-  },
-  {
     "name": "Comcast Corporation",
     "count": 7
   },
   {
-    "name": "General Dynamics",
-    "count": 7
-  },
-  {
-    "name": "CDC",
+    "name": "Henry Paulson",
     "count": 7
   },
   {
     "name": "Kellyanne Conway",
-    "count": 7
-  },
-  {
-    "name": "Chief Justice John Roberts",
     "count": 7
   },
   {
@@ -1160,11 +1288,7 @@
     "count": 7
   },
   {
-    "name": "Ajit Pai",
-    "count": 7
-  },
-  {
-    "name": "Chuck Grassley",
+    "name": "New York Attorney General",
     "count": 7
   },
   {
@@ -1184,7 +1308,11 @@
     "count": 7
   },
   {
-    "name": "U.S. Marshals Service",
+    "name": "Express Scripts",
+    "count": 7
+  },
+  {
+    "name": "Mick Mulvaney",
     "count": 7
   },
   {
@@ -1200,10 +1328,6 @@
     "count": 7
   },
   {
-    "name": "Mitt Romney",
-    "count": 7
-  },
-  {
     "name": "Rod Rosenstein",
     "count": 7
   },
@@ -1216,7 +1340,7 @@
     "count": 7
   },
   {
-    "name": "Senate Judiciary Committee",
+    "name": "FTC",
     "count": 7
   },
   {
@@ -1228,11 +1352,31 @@
     "count": 7
   },
   {
+    "name": "Richard Blumenthal",
+    "count": 7
+  },
+  {
+    "name": "Justice Neil Gorsuch",
+    "count": 7
+  },
+  {
+    "name": "Justice Brett Kavanaugh",
+    "count": 7
+  },
+  {
+    "name": "Justice Amy Coney Barrett",
+    "count": 7
+  },
+  {
     "name": "Allen Weisselberg",
     "count": 7
   },
   {
     "name": "Digital World Acquisition Corp",
+    "count": 7
+  },
+  {
+    "name": "ProPublica",
     "count": 7
   },
   {
@@ -1276,11 +1420,15 @@
     "count": 6
   },
   {
+    "name": "Eagle Forum",
+    "count": 6
+  },
+  {
     "name": "Richard Scaife",
     "count": 6
   },
   {
-    "name": "Richard Viguerie",
+    "name": "Milton Friedman",
     "count": 6
   },
   {
@@ -1296,19 +1444,7 @@
     "count": 6
   },
   {
-    "name": "Arthur Laffer",
-    "count": 6
-  },
-  {
-    "name": "Business Roundtable",
-    "count": 6
-  },
-  {
     "name": "Wall Street Journal",
-    "count": 6
-  },
-  {
-    "name": "Amy Coney Barrett",
     "count": 6
   },
   {
@@ -1320,19 +1456,11 @@
     "count": 6
   },
   {
-    "name": "Senate Finance Committee",
-    "count": 6
-  },
-  {
     "name": "Cato Institute",
     "count": 6
   },
   {
-    "name": "George H.W. Bush",
-    "count": 6
-  },
-  {
-    "name": "KKR",
+    "name": "Anthony Kennedy",
     "count": 6
   },
   {
@@ -1348,11 +1476,7 @@
     "count": 6
   },
   {
-    "name": "Democratic National Committee",
-    "count": 6
-  },
-  {
-    "name": "Republican Congress",
+    "name": "Larry Nassar",
     "count": 6
   },
   {
@@ -1369,10 +1493,6 @@
   },
   {
     "name": "Lawrence Summers",
-    "count": 6
-  },
-  {
-    "name": "CFTC",
     "count": 6
   },
   {
@@ -1393,6 +1513,14 @@
   },
   {
     "name": "Verizon",
+    "count": 6
+  },
+  {
+    "name": "PhRMA",
+    "count": 6
+  },
+  {
+    "name": "Big Pharma",
     "count": 6
   },
   {
@@ -1432,6 +1560,10 @@
     "count": 6
   },
   {
+    "name": "Antitrust Division",
+    "count": 6
+  },
+  {
     "name": "Koch brothers",
     "count": 6
   },
@@ -1445,6 +1577,18 @@
   },
   {
     "name": "Glenn Greenwald",
+    "count": 6
+  },
+  {
+    "name": "Eric Schneiderman",
+    "count": 6
+  },
+  {
+    "name": "FinCEN",
+    "count": 6
+  },
+  {
+    "name": "UnitedHealth Group",
     "count": 6
   },
   {
@@ -1468,11 +1612,15 @@
     "count": 6
   },
   {
-    "name": "Consumer Financial Protection Bureau",
+    "name": "Bureau of Prisons",
     "count": 6
   },
   {
-    "name": "Mick Mulvaney",
+    "name": "CVS Caremark",
+    "count": 6
+  },
+  {
+    "name": "OptumRx",
     "count": 6
   },
   {
@@ -1493,6 +1641,10 @@
   },
   {
     "name": "Federal Courts",
+    "count": 6
+  },
+  {
+    "name": "Brian Kemp",
     "count": 6
   },
   {
@@ -1540,11 +1692,15 @@
     "count": 6
   },
   {
-    "name": "Richard Blumenthal",
+    "name": "Immigration and Customs Enforcement (ICE)",
     "count": 6
   },
   {
-    "name": "ProPublica",
+    "name": "Biden Administration",
+    "count": 6
+  },
+  {
+    "name": "MGX",
     "count": 6
   },
   {
@@ -1612,11 +1768,15 @@
     "count": 6
   },
   {
-    "name": "Howard Phillips",
+    "name": "AFL-CIO",
     "count": 5
   },
   {
-    "name": "Milton Friedman",
+    "name": "Roger Ailes",
+    "count": 5
+  },
+  {
+    "name": "Howard Phillips",
     "count": 5
   },
   {
@@ -1636,11 +1796,11 @@
     "count": 5
   },
   {
-    "name": "U.S. Supreme Court",
+    "name": "Jack Kemp",
     "count": 5
   },
   {
-    "name": "Eli Lilly",
+    "name": "Department of Treasury",
     "count": 5
   },
   {
@@ -1656,11 +1816,11 @@
     "count": 5
   },
   {
-    "name": "Koch Network",
+    "name": "American Airlines",
     "count": 5
   },
   {
-    "name": "Anthony Kennedy",
+    "name": "Koch Network",
     "count": 5
   },
   {
@@ -1668,7 +1828,7 @@
     "count": 5
   },
   {
-    "name": "Phil Gramm",
+    "name": "Americans for Tax Reform",
     "count": 5
   },
   {
@@ -1676,7 +1836,7 @@
     "count": 5
   },
   {
-    "name": "Corrections Corporation of America (CCA)",
+    "name": "Viacom",
     "count": 5
   },
   {
@@ -1696,6 +1856,14 @@
     "count": 5
   },
   {
+    "name": "Microsoft Corporation",
+    "count": 5
+  },
+  {
+    "name": "Bill Gates",
+    "count": 5
+  },
+  {
     "name": "Supreme Court Justices",
     "count": 5
   },
@@ -1704,7 +1872,7 @@
     "count": 5
   },
   {
-    "name": "Enron",
+    "name": "Trent Lott",
     "count": 5
   },
   {
@@ -1712,15 +1880,7 @@
     "count": 5
   },
   {
-    "name": "PhRMA",
-    "count": 5
-  },
-  {
     "name": "Ari Fleischer",
-    "count": 5
-  },
-  {
-    "name": "Republican National Committee",
     "count": 5
   },
   {
@@ -1748,6 +1908,14 @@
     "count": 5
   },
   {
+    "name": "Bain Capital",
+    "count": 5
+  },
+  {
+    "name": "Corinthian Colleges",
+    "count": 5
+  },
+  {
     "name": "Hans von Spakovsky",
     "count": 5
   },
@@ -1764,11 +1932,31 @@
     "count": 5
   },
   {
+    "name": "Ben Bernanke",
+    "count": 5
+  },
+  {
     "name": "Paul Singer",
     "count": 5
   },
   {
     "name": "Pfizer",
+    "count": 5
+  },
+  {
+    "name": "Lanny Breuer",
+    "count": 5
+  },
+  {
+    "name": "Tom Price",
+    "count": 5
+  },
+  {
+    "name": "U.S. Department of Education",
+    "count": 5
+  },
+  {
+    "name": "European Commission",
     "count": 5
   },
   {
@@ -1800,15 +1988,7 @@
     "count": 5
   },
   {
-    "name": "Eric Schneiderman",
-    "count": 5
-  },
-  {
     "name": "Darnell Earley",
-    "count": 5
-  },
-  {
-    "name": "FinCEN",
     "count": 5
   },
   {
@@ -1821,6 +2001,14 @@
   },
   {
     "name": "Gazprombank",
+    "count": 5
+  },
+  {
+    "name": "DaVita",
+    "count": 5
+  },
+  {
+    "name": "USA Gymnastics",
     "count": 5
   },
   {
@@ -1856,15 +2044,15 @@
     "count": 5
   },
   {
-    "name": "CoreCivic",
-    "count": 5
-  },
-  {
-    "name": "Brian Kemp",
+    "name": "Sinclair Broadcast Group",
     "count": 5
   },
   {
     "name": "United Nations",
+    "count": 5
+  },
+  {
+    "name": "Centers for Medicare and Medicaid Services",
     "count": 5
   },
   {
@@ -1876,7 +2064,15 @@
     "count": 5
   },
   {
+    "name": "Dick Durbin",
+    "count": 5
+  },
+  {
     "name": "Charles Kushner",
+    "count": 5
+  },
+  {
+    "name": "Ninth Circuit Court of Appeals",
     "count": 5
   },
   {
@@ -1928,7 +2124,7 @@
     "count": 5
   },
   {
-    "name": "Biden Administration",
+    "name": "Trevor Milton",
     "count": 5
   },
   {
@@ -1940,11 +2136,15 @@
     "count": 5
   },
   {
-    "name": "MGX",
+    "name": "Justice Ketanji Brown Jackson",
     "count": 5
   },
   {
     "name": "Starlink",
+    "count": 5
+  },
+  {
+    "name": "James Comer",
     "count": 5
   },
   {
@@ -2000,14 +2200,6 @@
     "count": 4
   },
   {
-    "name": "AFL-CIO",
-    "count": 4
-  },
-  {
-    "name": "Roger Ailes",
-    "count": 4
-  },
-  {
     "name": "John M. Olin Foundation",
     "count": 4
   },
@@ -2016,7 +2208,19 @@
     "count": 4
   },
   {
+    "name": "Catholic Church",
+    "count": 4
+  },
+  {
     "name": "Edwin Meese III",
+    "count": 4
+  },
+  {
+    "name": "Paul Ryan",
+    "count": 4
+  },
+  {
+    "name": "Jerry Falwell",
     "count": 4
   },
   {
@@ -2028,15 +2232,19 @@
     "count": 4
   },
   {
+    "name": "Congressional Budget Office",
+    "count": 4
+  },
+  {
+    "name": "Bear Stearns",
+    "count": 4
+  },
+  {
     "name": "Steven Calabresi",
     "count": 4
   },
   {
     "name": "David McIntosh",
-    "count": 4
-  },
-  {
-    "name": "Department of Treasury",
     "count": 4
   },
   {
@@ -2048,11 +2256,7 @@
     "count": 4
   },
   {
-    "name": "American Airlines",
-    "count": 4
-  },
-  {
-    "name": "Federal Bureau of Investigation",
+    "name": "Citicorp",
     "count": 4
   },
   {
@@ -2064,7 +2268,19 @@
     "count": 4
   },
   {
+    "name": "Democratic Party",
+    "count": 4
+  },
+  {
+    "name": "Apollo Global Management",
+    "count": 4
+  },
+  {
     "name": "Mexican Government",
+    "count": 4
+  },
+  {
+    "name": "Al Gore",
     "count": 4
   },
   {
@@ -2092,6 +2308,10 @@
     "count": 4
   },
   {
+    "name": "John Reed",
+    "count": 4
+  },
+  {
     "name": "Trump Model Management",
     "count": 4
   },
@@ -2101,6 +2321,10 @@
   },
   {
     "name": "China",
+    "count": 4
+  },
+  {
+    "name": "Larry Summers",
     "count": 4
   },
   {
@@ -2120,15 +2344,15 @@
     "count": 4
   },
   {
+    "name": "Novo Nordisk",
+    "count": 4
+  },
+  {
     "name": "CNN",
     "count": 4
   },
   {
     "name": "Paul Wolfowitz",
-    "count": 4
-  },
-  {
-    "name": "Trent Lott",
     "count": 4
   },
   {
@@ -2152,6 +2376,10 @@
     "count": 4
   },
   {
+    "name": "David Smith",
+    "count": 4
+  },
+  {
     "name": "Joseph Wilson",
     "count": 4
   },
@@ -2161,6 +2389,10 @@
   },
   {
     "name": "Patrick Fitzgerald",
+    "count": 4
+  },
+  {
+    "name": "House Energy and Commerce Committee",
     "count": 4
   },
   {
@@ -2212,19 +2444,15 @@
     "count": 4
   },
   {
-    "name": "Lanny Breuer",
-    "count": 4
-  },
-  {
     "name": "Rick Santelli",
     "count": 4
   },
   {
-    "name": "European Commission",
+    "name": "Chelsea Manning",
     "count": 4
   },
   {
-    "name": "Chelsea Manning",
+    "name": "Richard Cordray",
     "count": 4
   },
   {
@@ -2237,6 +2465,10 @@
   },
   {
     "name": "Common Cause",
+    "count": 4
+  },
+  {
+    "name": "Johnson & Johnson",
     "count": 4
   },
   {
@@ -2304,6 +2536,14 @@
     "count": 4
   },
   {
+    "name": "Sally Yates",
+    "count": 4
+  },
+  {
+    "name": "Chris Collins",
+    "count": 4
+  },
+  {
     "name": "Andy Jassy",
     "count": 4
   },
@@ -2356,6 +2596,10 @@
     "count": 4
   },
   {
+    "name": "Heather Heyer",
+    "count": 4
+  },
+  {
     "name": "Gennady Timchenko",
     "count": 4
   },
@@ -2365,6 +2609,18 @@
   },
   {
     "name": "Comcast",
+    "count": 4
+  },
+  {
+    "name": "Alex Azar",
+    "count": 4
+  },
+  {
+    "name": "Janet Yellen",
+    "count": 4
+  },
+  {
+    "name": "Barbara Underwood",
     "count": 4
   },
   {
@@ -2424,6 +2680,10 @@
     "count": 4
   },
   {
+    "name": "Centers for Medicare & Medicaid Services",
+    "count": 4
+  },
+  {
     "name": "Brad Raffensperger",
     "count": 4
   },
@@ -2433,6 +2693,10 @@
   },
   {
     "name": "Bill Cassidy",
+    "count": 4
+  },
+  {
+    "name": "Nikola Corporation",
     "count": 4
   },
   {
@@ -2464,7 +2728,27 @@
     "count": 4
   },
   {
+    "name": "OFAC",
+    "count": 4
+  },
+  {
+    "name": "Three Arrows Capital",
+    "count": 4
+  },
+  {
+    "name": "Celsius Network",
+    "count": 4
+  },
+  {
+    "name": "Voyager Digital",
+    "count": 4
+  },
+  {
     "name": "Edward Coristine",
+    "count": 4
+  },
+  {
+    "name": "FTX",
     "count": 4
   },
   {
@@ -2473,6 +2757,10 @@
   },
   {
     "name": "X (Twitter)",
+    "count": 4
+  },
+  {
+    "name": "Harvard University",
     "count": 4
   },
   {
@@ -2492,11 +2780,7 @@
     "count": 4
   },
   {
-    "name": "Dick Durbin",
-    "count": 4
-  },
-  {
-    "name": "FTC",
+    "name": "UnitedHealthcare",
     "count": 4
   },
   {
@@ -2536,10 +2820,6 @@
     "count": 4
   },
   {
-    "name": "Trevor Milton",
-    "count": 4
-  },
-  {
     "name": "Hampton Dellinger",
     "count": 4
   },
@@ -2564,10 +2844,6 @@
     "count": 4
   },
   {
-    "name": "Ninth Circuit Court of Appeals",
-    "count": 4
-  },
-  {
     "name": "Texas House Democrats",
     "count": 4
   },
@@ -2577,10 +2853,6 @@
   },
   {
     "name": "California",
-    "count": 4
-  },
-  {
-    "name": "James Comer",
     "count": 4
   },
   {
@@ -2624,15 +2896,15 @@
     "count": 4
   },
   {
-    "name": "Immigration and Customs Enforcement (ICE)",
-    "count": 4
-  },
-  {
     "name": "Indigenous Leadership",
     "count": 3
   },
   {
     "name": "Federal employees",
+    "count": 3
+  },
+  {
+    "name": "Barry Goldwater",
     "count": 3
   },
   {
@@ -2660,10 +2932,6 @@
     "count": 3
   },
   {
-    "name": "Paul Ryan",
-    "count": 3
-  },
-  {
     "name": "Ed Crane",
     "count": 3
   },
@@ -2672,11 +2940,19 @@
     "count": 3
   },
   {
-    "name": "Jerry Falwell",
+    "name": "Chicago School of Economics",
     "count": 3
   },
   {
-    "name": "Bear Stearns",
+    "name": "William Roth",
+    "count": 3
+  },
+  {
+    "name": "William F. Baxter",
+    "count": 3
+  },
+  {
+    "name": "General Electric",
     "count": 3
   },
   {
@@ -2696,11 +2972,19 @@
     "count": 3
   },
   {
+    "name": "Thomas W. Beasley",
+    "count": 3
+  },
+  {
     "name": "Lincoln Savings and Loan",
     "count": 3
   },
   {
     "name": "Robert McFarlane",
+    "count": 3
+  },
+  {
+    "name": "NASDAQ",
     "count": 3
   },
   {
@@ -2716,11 +3000,11 @@
     "count": 3
   },
   {
-    "name": "Citicorp",
+    "name": "Caspar Weinberger",
     "count": 3
   },
   {
-    "name": "Caspar Weinberger",
+    "name": "Rush Limbaugh",
     "count": 3
   },
   {
@@ -2760,15 +3044,15 @@
     "count": 3
   },
   {
-    "name": "Americans for Tax Reform",
+    "name": "Bernie Madoff",
+    "count": 3
+  },
+  {
+    "name": "Blackstone Group",
     "count": 3
   },
   {
     "name": "Enron Corporation",
-    "count": 3
-  },
-  {
-    "name": "Al Gore",
     "count": 3
   },
   {
@@ -2780,19 +3064,15 @@
     "count": 3
   },
   {
-    "name": "Clear Channel Communications",
+    "name": "Lowry Mays",
     "count": 3
   },
   {
-    "name": "Viacom",
+    "name": "Michigan State University",
     "count": 3
   },
   {
-    "name": "Democratic Party",
-    "count": 3
-  },
-  {
-    "name": "John Reed",
+    "name": "Travelers Group",
     "count": 3
   },
   {
@@ -2812,7 +3092,15 @@
     "count": 3
   },
   {
+    "name": "South Korea",
+    "count": 3
+  },
+  {
     "name": "Andrew Cuomo",
+    "count": 3
+  },
+  {
+    "name": "Jim Leach",
     "count": 3
   },
   {
@@ -2844,7 +3132,11 @@
     "count": 3
   },
   {
-    "name": "Bill Gates",
+    "name": "John Ashcroft",
+    "count": 3
+  },
+  {
+    "name": "Sanofi",
     "count": 3
   },
   {
@@ -2908,11 +3200,11 @@
     "count": 3
   },
   {
-    "name": "Billy Tauzin",
+    "name": "Rick Scott",
     "count": 3
   },
   {
-    "name": "House Energy and Commerce Committee",
+    "name": "Billy Tauzin",
     "count": 3
   },
   {
@@ -2921,6 +3213,10 @@
   },
   {
     "name": "Native American Tribes",
+    "count": 3
+  },
+  {
+    "name": "Lehman Brothers",
     "count": 3
   },
   {
@@ -2940,11 +3236,7 @@
     "count": 3
   },
   {
-    "name": "Bain Capital",
-    "count": 3
-  },
-  {
-    "name": "Corinthian Colleges",
+    "name": "University of Phoenix",
     "count": 3
   },
   {
@@ -2964,7 +3256,15 @@
     "count": 3
   },
   {
+    "name": "Humana",
+    "count": 3
+  },
+  {
     "name": "Thomas Drake",
+    "count": 3
+  },
+  {
+    "name": "Timothy Geithner",
     "count": 3
   },
   {
@@ -2984,7 +3284,7 @@
     "count": 3
   },
   {
-    "name": "Henry Paulson",
+    "name": "Covington & Burling",
     "count": 3
   },
   {
@@ -2997,10 +3297,6 @@
   },
   {
     "name": "Jim DeMint",
-    "count": 3
-  },
-  {
-    "name": "Tom Price",
     "count": 3
   },
   {
@@ -3017,6 +3313,10 @@
   },
   {
     "name": "Tony Perkins",
+    "count": 3
+  },
+  {
+    "name": "Hospital corporations",
     "count": 3
   },
   {
@@ -3056,7 +3356,7 @@
     "count": 3
   },
   {
-    "name": "Apollo Global Management",
+    "name": "Arne Duncan",
     "count": 3
   },
   {
@@ -3112,6 +3412,10 @@
     "count": 3
   },
   {
+    "name": "Texas Attorney General Greg Abbott",
+    "count": 3
+  },
+  {
     "name": "North Carolina Legislature",
     "count": 3
   },
@@ -3160,6 +3464,10 @@
     "count": 3
   },
   {
+    "name": "AstraZeneca",
+    "count": 3
+  },
+  {
     "name": "Alexander Nix",
     "count": 3
   },
@@ -3188,6 +3496,18 @@
     "count": 3
   },
   {
+    "name": "W. Jay Abbott",
+    "count": 3
+  },
+  {
+    "name": "Michael Langeman",
+    "count": 3
+  },
+  {
+    "name": "McKayla Maroney",
+    "count": 3
+  },
+  {
     "name": "Hope Hicks",
     "count": 3
   },
@@ -3204,7 +3524,15 @@
     "count": 3
   },
   {
+    "name": "AbbVie",
+    "count": 3
+  },
+  {
     "name": "The Guardian",
+    "count": 3
+  },
+  {
+    "name": "Ted Cruz",
     "count": 3
   },
   {
@@ -3225,10 +3553,6 @@
   },
   {
     "name": "Corey Lewandowski",
-    "count": 3
-  },
-  {
-    "name": "New York Attorney General",
     "count": 3
   },
   {
@@ -3276,7 +3600,15 @@
     "count": 3
   },
   {
-    "name": "Richard Cordray",
+    "name": "Mylan",
+    "count": 3
+  },
+  {
+    "name": "Innate Immunotherapeutics",
+    "count": 3
+  },
+  {
+    "name": "ITT Technical Institute",
     "count": 3
   },
   {
@@ -3285,6 +3617,10 @@
   },
   {
     "name": "Institute on Taxation and Economic Policy",
+    "count": 3
+  },
+  {
+    "name": "Texas Attorney General Ken Paxton",
     "count": 3
   },
   {
@@ -3301,10 +3637,6 @@
   },
   {
     "name": "DHS Office of Inspector General",
-    "count": 3
-  },
-  {
-    "name": "Sally Yates",
     "count": 3
   },
   {
@@ -3332,11 +3664,7 @@
     "count": 3
   },
   {
-    "name": "Heather Heyer",
-    "count": 3
-  },
-  {
-    "name": "Lina Khan",
+    "name": "CVS Health",
     "count": 3
   },
   {
@@ -3353,6 +3681,14 @@
   },
   {
     "name": "League of Women Voters",
+    "count": 3
+  },
+  {
+    "name": "Aly Raisman",
+    "count": 3
+  },
+  {
+    "name": "Fifth Circuit Court of Appeals",
     "count": 3
   },
   {
@@ -3384,7 +3720,7 @@
     "count": 3
   },
   {
-    "name": "Barbara Underwood",
+    "name": "Greg Becker",
     "count": 3
   },
   {
@@ -3396,7 +3732,7 @@
     "count": 3
   },
   {
-    "name": "Chris Collins",
+    "name": "American Medical Association",
     "count": 3
   },
   {
@@ -3408,11 +3744,23 @@
     "count": 3
   },
   {
+    "name": "Cigna",
+    "count": 3
+  },
+  {
+    "name": "Stacey Abrams",
+    "count": 3
+  },
+  {
     "name": "Joe Manchin",
     "count": 3
   },
   {
     "name": "CNP Action",
+    "count": 3
+  },
+  {
+    "name": "NRA",
     "count": 3
   },
   {
@@ -3440,10 +3788,6 @@
     "count": 3
   },
   {
-    "name": "Bureau of Prisons",
-    "count": 3
-  },
-  {
     "name": "Michael Atkinson",
     "count": 3
   },
@@ -3460,7 +3804,7 @@
     "count": 3
   },
   {
-    "name": "Alex Azar",
+    "name": "Lisa Nelson",
     "count": 3
   },
   {
@@ -3500,7 +3844,15 @@
     "count": 3
   },
   {
+    "name": "Justice Stephen Breyer",
+    "count": 3
+  },
+  {
     "name": "Manhattan District Attorney",
+    "count": 3
+  },
+  {
+    "name": "Christopher Wray",
     "count": 3
   },
   {
@@ -3521,10 +3873,6 @@
   },
   {
     "name": "Bureau of Industry and Security",
-    "count": 3
-  },
-  {
-    "name": "Nikola Corporation",
     "count": 3
   },
   {
@@ -3560,10 +3908,6 @@
     "count": 3
   },
   {
-    "name": "OFAC",
-    "count": 3
-  },
-  {
     "name": "House Armed Services Committee",
     "count": 3
   },
@@ -3576,11 +3920,11 @@
     "count": 3
   },
   {
-    "name": "FTX",
+    "name": "Inspectors General",
     "count": 3
   },
   {
-    "name": "Inspectors General",
+    "name": "FDIC",
     "count": 3
   },
   {
@@ -3616,6 +3960,10 @@
     "count": 3
   },
   {
+    "name": "Lisa Monaco",
+    "count": 3
+  },
+  {
     "name": "CREW",
     "count": 3
   },
@@ -3625,10 +3973,6 @@
   },
   {
     "name": "Janelle King",
-    "count": 3
-  },
-  {
-    "name": "Justice Samuel Alito",
     "count": 3
   },
   {
@@ -3792,10 +4136,6 @@
     "count": 3
   },
   {
-    "name": "Catholic Church",
-    "count": 3
-  },
-  {
     "name": "Paul Ingrassia",
     "count": 3
   },
@@ -3876,10 +4216,6 @@
     "count": 3
   },
   {
-    "name": "Harvard University",
-    "count": 3
-  },
-  {
     "name": "NBC News",
     "count": 3
   },
@@ -3905,6 +4241,10 @@
   },
   {
     "name": "Kristin Bird",
+    "count": 3
+  },
+  {
+    "name": "Charles McDowell",
     "count": 3
   },
   {
@@ -3964,6 +4304,10 @@
     "count": 2
   },
   {
+    "name": "Harry Truman",
+    "count": 2
+  },
+  {
     "name": "J. Edgar Hoover",
     "count": 2
   },
@@ -3989,6 +4333,10 @@
   },
   {
     "name": "KGB",
+    "count": 2
+  },
+  {
+    "name": "Kevin Phillips",
     "count": 2
   },
   {
@@ -4021,6 +4369,10 @@
   },
   {
     "name": "Kroll Associates",
+    "count": 2
+  },
+  {
+    "name": "STOP ERA",
     "count": 2
   },
   {
@@ -4072,7 +4424,7 @@
     "count": 2
   },
   {
-    "name": "Barry Goldwater",
+    "name": "Morton Blackwell",
     "count": 2
   },
   {
@@ -4100,6 +4452,10 @@
     "count": 2
   },
   {
+    "name": "Gerald Ford",
+    "count": 2
+  },
+  {
     "name": "Chamber of Commerce",
     "count": 2
   },
@@ -4116,23 +4472,11 @@
     "count": 2
   },
   {
-    "name": "Jack Kemp",
-    "count": 2
-  },
-  {
-    "name": "William Roth",
-    "count": 2
-  },
-  {
     "name": "William E. Simon",
     "count": 2
   },
   {
     "name": "Aaron Director",
-    "count": 2
-  },
-  {
-    "name": "Chicago School of Economics",
     "count": 2
   },
   {
@@ -4176,7 +4520,15 @@
     "count": 2
   },
   {
+    "name": "Moral Majority",
+    "count": 2
+  },
+  {
     "name": "Internal Revenue Service",
+    "count": 2
+  },
+  {
+    "name": "David Stockman",
     "count": 2
   },
   {
@@ -4184,11 +4536,23 @@
     "count": 2
   },
   {
-    "name": "General Electric",
+    "name": "Stanford Law School",
+    "count": 2
+  },
+  {
+    "name": "Tim LaHaye",
+    "count": 2
+  },
+  {
+    "name": "Nelson Bunker Hunt",
     "count": 2
   },
   {
     "name": "Centers for Disease Control",
+    "count": 2
+  },
+  {
+    "name": "Lee Atwater",
     "count": 2
   },
   {
@@ -4205,6 +4569,14 @@
   },
   {
     "name": "Nancy Reagan",
+    "count": 2
+  },
+  {
+    "name": "T. Don Hutto",
+    "count": 2
+  },
+  {
+    "name": "Jack C. Massey",
     "count": 2
   },
   {
@@ -4253,6 +4625,14 @@
   },
   {
     "name": "Thomas A. Roe",
+    "count": 2
+  },
+  {
+    "name": "Joint Committee on Taxation",
+    "count": 2
+  },
+  {
+    "name": "Paul Volcker",
     "count": 2
   },
   {
@@ -4320,7 +4700,23 @@
     "count": 2
   },
   {
+    "name": "Managed Funds Association",
+    "count": 2
+  },
+  {
+    "name": "Carlyle Group",
+    "count": 2
+  },
+  {
+    "name": "Wendy Gramm",
+    "count": 2
+  },
+  {
     "name": "Robert Fiske",
+    "count": 2
+  },
+  {
+    "name": "Janet Reno",
     "count": 2
   },
   {
@@ -4345,6 +4741,26 @@
   },
   {
     "name": "Ralph Nader",
+    "count": 2
+  },
+  {
+    "name": "Thomas J. Bliley Jr.",
+    "count": 2
+  },
+  {
+    "name": "Banking Industry",
+    "count": 2
+  },
+  {
+    "name": "Allen Stanford",
+    "count": 2
+  },
+  {
+    "name": "Stanford Financial Group",
+    "count": 2
+  },
+  {
+    "name": "Kathie Klages",
     "count": 2
   },
   {
@@ -4384,19 +4800,19 @@
     "count": 2
   },
   {
-    "name": "Travelers Group",
-    "count": 2
-  },
-  {
     "name": "state Republican legislators",
     "count": 2
   },
   {
-    "name": "Indonesia",
+    "name": "Federal Reserve Bank of New York",
     "count": 2
   },
   {
-    "name": "South Korea",
+    "name": "Time Warner",
+    "count": 2
+  },
+  {
+    "name": "Indonesia",
     "count": 2
   },
   {
@@ -4417,10 +4833,6 @@
   },
   {
     "name": "Norman Augustine",
-    "count": 2
-  },
-  {
-    "name": "Jim Leach",
     "count": 2
   },
   {
@@ -4485,6 +4897,10 @@
   },
   {
     "name": "Conoco",
+    "count": 2
+  },
+  {
+    "name": "Judge Colleen Kollar-Kotelly",
     "count": 2
   },
   {
@@ -4656,10 +5072,6 @@
     "count": 2
   },
   {
-    "name": "David Smith",
-    "count": 2
-  },
-  {
     "name": "JD Edwards",
     "count": 2
   },
@@ -4684,15 +5096,7 @@
     "count": 2
   },
   {
-    "name": "John Ashcroft",
-    "count": 2
-  },
-  {
     "name": "William Donaldson",
-    "count": 2
-  },
-  {
-    "name": "Lehman Brothers",
     "count": 2
   },
   {
@@ -4724,7 +5128,7 @@
     "count": 2
   },
   {
-    "name": "University of Phoenix",
+    "name": "Sallie Mae",
     "count": 2
   },
   {
@@ -4768,6 +5172,10 @@
     "count": 2
   },
   {
+    "name": "Harry Markopolos",
+    "count": 2
+  },
+  {
     "name": "ConocoPhillips",
     "count": 2
   },
@@ -4797,6 +5205,10 @@
   },
   {
     "name": "House Appropriations Committee",
+    "count": 2
+  },
+  {
+    "name": "American International Group",
     "count": 2
   },
   {
@@ -4864,6 +5276,14 @@
     "count": 2
   },
   {
+    "name": "Thomas H. Lee Partners",
+    "count": 2
+  },
+  {
+    "name": "iHeartMedia",
+    "count": 2
+  },
+  {
     "name": "Defense Criminal Investigative Service",
     "count": 2
   },
@@ -4876,7 +5296,19 @@
     "count": 2
   },
   {
+    "name": "Pennsylvania Supreme Court",
+    "count": 2
+  },
+  {
     "name": "House Financial Services Committee",
+    "count": 2
+  },
+  {
+    "name": "Health insurance industry",
+    "count": 2
+  },
+  {
+    "name": "Pharmaceutical Research and Manufacturers of America",
     "count": 2
   },
   {
@@ -4885,10 +5317,6 @@
   },
   {
     "name": "Los Angeles Police Department",
-    "count": 2
-  },
-  {
-    "name": "Covington & Burling",
     "count": 2
   },
   {
@@ -4932,6 +5360,14 @@
     "count": 2
   },
   {
+    "name": "True the Vote",
+    "count": 2
+  },
+  {
+    "name": "James O'Keefe",
+    "count": 2
+  },
+  {
     "name": "Jan Brewer",
     "count": 2
   },
@@ -4968,6 +5404,10 @@
     "count": 2
   },
   {
+    "name": "Justice Anthony Kennedy",
+    "count": 2
+  },
+  {
     "name": "Sonia Sotomayor",
     "count": 2
   },
@@ -4993,6 +5433,10 @@
   },
   {
     "name": "Scott Fitzgerald",
+    "count": 2
+  },
+  {
+    "name": "Roche",
     "count": 2
   },
   {
@@ -5076,7 +5520,31 @@
     "count": 2
   },
   {
+    "name": "Private equity firms",
+    "count": 2
+  },
+  {
     "name": "Bill Browder",
+    "count": 2
+  },
+  {
+    "name": "Kraft Foods",
+    "count": 2
+  },
+  {
+    "name": "Sam Brownback",
+    "count": 2
+  },
+  {
+    "name": "Kansas Legislature",
+    "count": 2
+  },
+  {
+    "name": "National Federation of Independent Business",
+    "count": 2
+  },
+  {
+    "name": "Republican Governors",
     "count": 2
   },
   {
@@ -5112,11 +5580,27 @@
     "count": 2
   },
   {
+    "name": "Max Baucus",
+    "count": 2
+  },
+  {
     "name": "Airlines",
     "count": 2
   },
   {
     "name": "Advertisers",
+    "count": 2
+  },
+  {
+    "name": "Kris Kobach",
+    "count": 2
+  },
+  {
+    "name": "Harry Reid",
+    "count": 2
+  },
+  {
+    "name": "Florida Attorney General Pam Bondi",
     "count": 2
   },
   {
@@ -5156,7 +5640,7 @@
     "count": 2
   },
   {
-    "name": "Texas Attorney General Greg Abbott",
+    "name": "Shelby County Alabama",
     "count": 2
   },
   {
@@ -5204,6 +5688,10 @@
     "count": 2
   },
   {
+    "name": "Cerberus Capital Management",
+    "count": 2
+  },
+  {
     "name": "Dmitry Kozak",
     "count": 2
   },
@@ -5212,7 +5700,7 @@
     "count": 2
   },
   {
-    "name": "AstraZeneca",
+    "name": "Justice Antonin Scalia",
     "count": 2
   },
   {
@@ -5224,7 +5712,7 @@
     "count": 2
   },
   {
-    "name": "Arne Duncan",
+    "name": "USPTO",
     "count": 2
   },
   {
@@ -5260,6 +5748,14 @@
     "count": 2
   },
   {
+    "name": "Kent Thiry",
+    "count": 2
+  },
+  {
+    "name": "HHS Office of Inspector General",
+    "count": 2
+  },
+  {
     "name": "Senate Select Committee on Intelligence",
     "count": 2
   },
@@ -5269,6 +5765,14 @@
   },
   {
     "name": "Boeing engineers",
+    "count": 2
+  },
+  {
+    "name": "Rodney Gilstrap",
+    "count": 2
+  },
+  {
+    "name": "Eastern District of Texas",
     "count": 2
   },
   {
@@ -5308,6 +5812,18 @@
     "count": 2
   },
   {
+    "name": "Steve Penny",
+    "count": 2
+  },
+  {
+    "name": "U.S. Olympic Committee",
+    "count": 2
+  },
+  {
+    "name": "Scott Blackmun",
+    "count": 2
+  },
+  {
     "name": "National Enquirer/AMI",
     "count": 2
   },
@@ -5324,11 +5840,15 @@
     "count": 2
   },
   {
-    "name": "Ted Cruz",
+    "name": "Celgene",
     "count": 2
   },
   {
     "name": "Robert Mercer",
+    "count": 2
+  },
+  {
+    "name": "American Kidney Fund",
     "count": 2
   },
   {
@@ -5384,7 +5904,15 @@
     "count": 2
   },
   {
+    "name": "Mike Crapo",
+    "count": 2
+  },
+  {
     "name": "Timothy Sloan",
+    "count": 2
+  },
+  {
+    "name": "Wall Street investors",
     "count": 2
   },
   {
@@ -5400,19 +5928,23 @@
     "count": 2
   },
   {
+    "name": "Apple Inc.",
+    "count": 2
+  },
+  {
+    "name": "Facebook/Meta",
+    "count": 2
+  },
+  {
+    "name": "OECD",
+    "count": 2
+  },
+  {
     "name": "Cytrox",
     "count": 2
   },
   {
-    "name": "Texas Attorney General Ken Paxton",
-    "count": 2
-  },
-  {
     "name": "Suleyman Kerimov",
-    "count": 2
-  },
-  {
-    "name": "Novo Nordisk",
     "count": 2
   },
   {
@@ -5572,6 +6104,10 @@
     "count": 2
   },
   {
+    "name": "Aetna",
+    "count": 2
+  },
+  {
     "name": "Dan Elwell",
     "count": 2
   },
@@ -5600,7 +6136,7 @@
     "count": 2
   },
   {
-    "name": "Janet Yellen",
+    "name": "Lou Anna Simon",
     "count": 2
   },
   {
@@ -5624,10 +6160,6 @@
     "count": 2
   },
   {
-    "name": "Sinclair Broadcast Group",
-    "count": 2
-  },
-  {
     "name": "Sprint",
     "count": 2
   },
@@ -5637,6 +6169,14 @@
   },
   {
     "name": "ZTE Corporation",
+    "count": 2
+  },
+  {
+    "name": "Silicon Valley Bank",
+    "count": 2
+  },
+  {
+    "name": "Kevin McCarthy",
     "count": 2
   },
   {
@@ -5660,7 +6200,15 @@
     "count": 2
   },
   {
+    "name": "Department of Health and Human Services Office of Inspector General",
+    "count": 2
+  },
+  {
     "name": "Samsung",
+    "count": 2
+  },
+  {
+    "name": "American Hospital Association",
     "count": 2
   },
   {
@@ -5680,10 +6228,6 @@
     "count": 2
   },
   {
-    "name": "Innate Immunotherapeutics",
-    "count": 2
-  },
-  {
     "name": "Duncan Hunter",
     "count": 2
   },
@@ -5700,7 +6244,7 @@
     "count": 2
   },
   {
-    "name": "Stacey Abrams",
+    "name": "Amgen",
     "count": 2
   },
   {
@@ -5744,6 +6288,10 @@
     "count": 2
   },
   {
+    "name": "Rick Singer",
+    "count": 2
+  },
+  {
     "name": "Westlands Water District",
     "count": 2
   },
@@ -5761,6 +6309,10 @@
   },
   {
     "name": "William Burck",
+    "count": 2
+  },
+  {
+    "name": "Qualcomm",
     "count": 2
   },
   {
@@ -5792,10 +6344,6 @@
     "count": 2
   },
   {
-    "name": "Johnson & Johnson",
-    "count": 2
-  },
-  {
     "name": "Trump National Doral",
     "count": 2
   },
@@ -5817,6 +6365,10 @@
   },
   {
     "name": "Jonathan Sackler",
+    "count": 2
+  },
+  {
+    "name": "SoftBank",
     "count": 2
   },
   {
@@ -5880,10 +6432,6 @@
     "count": 2
   },
   {
-    "name": "Lisa Nelson",
-    "count": 2
-  },
-  {
     "name": "Sonesta Hotels",
     "count": 2
   },
@@ -5913,6 +6461,18 @@
   },
   {
     "name": "Sherry Bren",
+    "count": 2
+  },
+  {
+    "name": "Wayne LaPierre",
+    "count": 2
+  },
+  {
+    "name": "Wilson \"Woody\" Phillips",
+    "count": 2
+  },
+  {
+    "name": "John Frazer",
     "count": 2
   },
   {
@@ -5969,10 +6529,6 @@
   },
   {
     "name": "Envision Healthcare",
-    "count": 2
-  },
-  {
-    "name": "Blackstone Group",
     "count": 2
   },
   {
@@ -6056,6 +6612,14 @@
     "count": 2
   },
   {
+    "name": "Kim Reynolds",
+    "count": 2
+  },
+  {
+    "name": "Alden Global Capital",
+    "count": 2
+  },
+  {
     "name": "Stephen Hahn",
     "count": 2
   },
@@ -6084,11 +6648,19 @@
     "count": 2
   },
   {
+    "name": "Simone Biles",
+    "count": 2
+  },
+  {
     "name": "Shakira",
     "count": 2
   },
   {
     "name": "Alemán, Cordero, Galindo & Lee",
+    "count": 2
+  },
+  {
+    "name": "Hedge Funds",
     "count": 2
   },
   {
@@ -6121,6 +6693,10 @@
   },
   {
     "name": "Gina Raimondo",
+    "count": 2
+  },
+  {
+    "name": "Jonathan Kanter",
     "count": 2
   },
   {
@@ -6160,7 +6736,27 @@
     "count": 2
   },
   {
+    "name": "Do Kwon",
+    "count": 2
+  },
+  {
+    "name": "Terraform Labs",
+    "count": 2
+  },
+  {
+    "name": "Paul Engelmayer",
+    "count": 2
+  },
+  {
     "name": "House January 6th Committee",
+    "count": 2
+  },
+  {
+    "name": "Genesis",
+    "count": 2
+  },
+  {
+    "name": "BlockFi",
     "count": 2
   },
   {
@@ -6212,11 +6808,19 @@
     "count": 2
   },
   {
-    "name": "Justice Clarence Thomas",
+    "name": "Swiss National Bank",
     "count": 2
   },
   {
     "name": "Enrique Tarrio",
+    "count": 2
+  },
+  {
+    "name": "Senate HELP Committee",
+    "count": 2
+  },
+  {
+    "name": "Paul Hudson",
     "count": 2
   },
   {
@@ -6237,6 +6841,10 @@
   },
   {
     "name": "Rocket One Capital",
+    "count": 2
+  },
+  {
+    "name": "Edward Blum",
     "count": 2
   },
   {
@@ -6261,10 +6869,6 @@
   },
   {
     "name": "Fani Willis",
-    "count": 2
-  },
-  {
-    "name": "Fifth Circuit Court of Appeals",
     "count": 2
   },
   {
@@ -6344,18 +6948,6 @@
     "count": 2
   },
   {
-    "name": "Justice Sonia Sotomayor",
-    "count": 2
-  },
-  {
-    "name": "Justice Elena Kagan",
-    "count": 2
-  },
-  {
-    "name": "Justice Ketanji Brown Jackson",
-    "count": 2
-  },
-  {
     "name": "General Atomics",
     "count": 2
   },
@@ -6377,10 +6969,6 @@
   },
   {
     "name": "AI Safety Experts",
-    "count": 2
-  },
-  {
-    "name": "Rick Scott",
     "count": 2
   },
   {
@@ -6477,6 +7065,14 @@
   },
   {
     "name": "NIH",
+    "count": 2
+  },
+  {
+    "name": "Andrew Ferguson",
+    "count": 2
+  },
+  {
+    "name": "Gail Slater",
     "count": 2
   },
   {
@@ -6713,10 +7309,6 @@
   },
   {
     "name": "Kaelan Dorr",
-    "count": 2
-  },
-  {
-    "name": "FDIC",
     "count": 2
   },
   {
@@ -7036,10 +7628,6 @@
     "count": 2
   },
   {
-    "name": "Lisa Monaco",
-    "count": 2
-  },
-  {
     "name": "Judge Sara Ellis",
     "count": 2
   },
@@ -7049,10 +7637,6 @@
   },
   {
     "name": "Timothy Mellon",
-    "count": 2
-  },
-  {
-    "name": "Charles McDowell",
     "count": 2
   },
   {
@@ -7073,10 +7657,6 @@
   },
   {
     "name": "Republicans",
-    "count": 2
-  },
-  {
-    "name": "Larry Summers",
     "count": 2
   },
   {
@@ -7236,11 +7816,35 @@
     "count": 1
   },
   {
+    "name": "John D. Rockefeller",
+    "count": 1
+  },
+  {
+    "name": "Standard Oil Company",
+    "count": 1
+  },
+  {
+    "name": "Chief Justice Edward White",
+    "count": 1
+  },
+  {
+    "name": "Woodrow Wilson",
+    "count": 1
+  },
+  {
     "name": "Franklin D. Roosevelt",
     "count": 1
   },
   {
     "name": "Robert Wagner",
+    "count": 1
+  },
+  {
+    "name": "Senator Joseph T. Robinson",
+    "count": 1
+  },
+  {
+    "name": "Representative Wright Patman",
     "count": 1
   },
   {
@@ -7252,7 +7856,11 @@
     "count": 1
   },
   {
-    "name": "Harry Truman",
+    "name": "Representative Emanuel Celler",
+    "count": 1
+  },
+  {
+    "name": "Senator Estes Kefauver",
     "count": 1
   },
   {
@@ -7304,6 +7912,14 @@
     "count": 1
   },
   {
+    "name": "John Birch Society",
+    "count": 1
+  },
+  {
+    "name": "National Federation of Republican Women",
+    "count": 1
+  },
+  {
     "name": "Yuri Andropov",
     "count": 1
   },
@@ -7317,6 +7933,14 @@
   },
   {
     "name": "British Parliament",
+    "count": 1
+  },
+  {
+    "name": "H.R. Haldeman",
+    "count": 1
+  },
+  {
+    "name": "George Wallace",
     "count": 1
   },
   {
@@ -7368,6 +7992,14 @@
     "count": 1
   },
   {
+    "name": "Evangelical Christians",
+    "count": 1
+  },
+  {
+    "name": "Mormon Church",
+    "count": 1
+  },
+  {
     "name": "Abu Dhabi",
     "count": 1
   },
@@ -7377,6 +8009,10 @@
   },
   {
     "name": "Cayman Islands",
+    "count": 1
+  },
+  {
+    "name": "New Right",
     "count": 1
   },
   {
@@ -7500,10 +8136,6 @@
     "count": 1
   },
   {
-    "name": "Morton Blackwell",
-    "count": 1
-  },
-  {
     "name": "Church Committee",
     "count": 1
   },
@@ -7540,6 +8172,10 @@
     "count": 1
   },
   {
+    "name": "Linda Taylor",
+    "count": 1
+  },
+  {
     "name": "Political Action Committees",
     "count": 1
   },
@@ -7572,6 +8208,18 @@
     "count": 1
   },
   {
+    "name": "Senator Philip Hart",
+    "count": 1
+  },
+  {
+    "name": "Senator Hugh Scott",
+    "count": 1
+  },
+  {
+    "name": "Representative Peter Rodino",
+    "count": 1
+  },
+  {
     "name": "Irving Kristol",
     "count": 1
   },
@@ -7581,10 +8229,6 @@
   },
   {
     "name": "Koch Foundation",
-    "count": 1
-  },
-  {
-    "name": "Gerald Ford",
     "count": 1
   },
   {
@@ -7808,7 +8452,7 @@
     "count": 1
   },
   {
-    "name": "Moral Majority",
+    "name": "Thomas Road Baptist Church",
     "count": 1
   },
   {
@@ -7832,15 +8476,7 @@
     "count": 1
   },
   {
-    "name": "David Stockman",
-    "count": 1
-  },
-  {
     "name": "Greg Mankiw",
-    "count": 1
-  },
-  {
-    "name": "Congressional Budget Office",
     "count": 1
   },
   {
@@ -7853,6 +8489,18 @@
   },
   {
     "name": "Working class",
+    "count": 1
+  },
+  {
+    "name": "Douglas Ginsburg",
+    "count": 1
+  },
+  {
+    "name": "Frank Easterbrook",
+    "count": 1
+  },
+  {
+    "name": "Richard Posner",
     "count": 1
   },
   {
@@ -7880,11 +8528,7 @@
     "count": 1
   },
   {
-    "name": "Tim LaHaye",
-    "count": 1
-  },
-  {
-    "name": "Nelson Bunker Hunt",
+    "name": "Senator Howard Metzenbaum",
     "count": 1
   },
   {
@@ -7908,6 +8552,10 @@
     "count": 1
   },
   {
+    "name": "Alexander Lamis",
+    "count": 1
+  },
+  {
     "name": "Spencer Abraham",
     "count": 1
   },
@@ -7925,6 +8573,18 @@
   },
   {
     "name": "Wellspring Committee",
+    "count": 1
+  },
+  {
+    "name": "Illinois Legislature",
+    "count": 1
+  },
+  {
+    "name": "Robert Dole",
+    "count": 1
+  },
+  {
+    "name": "Bruce Bartlett",
     "count": 1
   },
   {
@@ -7952,7 +8612,19 @@
     "count": 1
   },
   {
+    "name": "Dickinson R. Debevoise",
+    "count": 1
+  },
+  {
     "name": "John Shad",
+    "count": 1
+  },
+  {
+    "name": "Robert Crants",
+    "count": 1
+  },
+  {
+    "name": "Massey Burch Investment Group",
     "count": 1
   },
   {
@@ -8013,6 +8685,10 @@
   },
   {
     "name": "Olin Foundation",
+    "count": 1
+  },
+  {
+    "name": "Immigration and Naturalization Service (INS)",
     "count": 1
   },
   {
@@ -8132,6 +8808,22 @@
     "count": 1
   },
   {
+    "name": "Vanderbilt University Law School",
+    "count": 1
+  },
+  {
+    "name": "Dan Rostenkowski",
+    "count": 1
+  },
+  {
+    "name": "Bob Packwood",
+    "count": 1
+  },
+  {
+    "name": "Bill Bradley",
+    "count": 1
+  },
+  {
     "name": "Corporate lobbyists",
     "count": 1
   },
@@ -8168,10 +8860,6 @@
     "count": 1
   },
   {
-    "name": "Stanford Law School",
-    "count": 1
-  },
-  {
     "name": "Harvard Law School",
     "count": 1
   },
@@ -8201,10 +8889,6 @@
   },
   {
     "name": "Bankers Trust",
-    "count": 1
-  },
-  {
-    "name": "Paul Volcker",
     "count": 1
   },
   {
@@ -8264,10 +8948,6 @@
     "count": 1
   },
   {
-    "name": "Rush Limbaugh",
-    "count": 1
-  },
-  {
     "name": "Edward F. McLaughlin",
     "count": 1
   },
@@ -8277,6 +8957,22 @@
   },
   {
     "name": "ABC Radio Network",
+    "count": 1
+  },
+  {
+    "name": "Larry McCarthy",
+    "count": 1
+  },
+  {
+    "name": "William Horton",
+    "count": 1
+  },
+  {
+    "name": "Michael Dukakis",
+    "count": 1
+  },
+  {
+    "name": "Floyd Brown",
     "count": 1
   },
   {
@@ -8416,6 +9112,22 @@
     "count": 1
   },
   {
+    "name": "Jesse Helms",
+    "count": 1
+  },
+  {
+    "name": "Harvey Gantt",
+    "count": 1
+  },
+  {
+    "name": "Alex Castellanos",
+    "count": 1
+  },
+  {
+    "name": "Carter Wrenn",
+    "count": 1
+  },
+  {
     "name": "George C. Marshall Institute",
     "count": 1
   },
@@ -8464,6 +9176,26 @@
     "count": 1
   },
   {
+    "name": "Avellino & Bienes",
+    "count": 1
+  },
+  {
+    "name": "H. David Kotz",
+    "count": 1
+  },
+  {
+    "name": "Sister Souljah",
+    "count": 1
+  },
+  {
+    "name": "Jesse Jackson",
+    "count": 1
+  },
+  {
+    "name": "Rainbow Coalition",
+    "count": 1
+  },
+  {
     "name": "Pharmaceutical Research and Manufacturers of America (PhRMA)",
     "count": 1
   },
@@ -8488,6 +9220,18 @@
     "count": 1
   },
   {
+    "name": "Private Equity Growth Capital Council",
+    "count": 1
+  },
+  {
+    "name": "Citadel",
+    "count": 1
+  },
+  {
+    "name": "Bridgewater Associates",
+    "count": 1
+  },
+  {
     "name": "Republican Congressional Leadership",
     "count": 1
   },
@@ -8505,10 +9249,6 @@
   },
   {
     "name": "R.J. Reynolds",
-    "count": 1
-  },
-  {
-    "name": "Wendy Gramm",
     "count": 1
   },
   {
@@ -8548,6 +9288,10 @@
     "count": 1
   },
   {
+    "name": "Carlos Salinas de Gortari",
+    "count": 1
+  },
+  {
     "name": "EZLN Zapatista Army",
     "count": 1
   },
@@ -8560,7 +9304,15 @@
     "count": 1
   },
   {
-    "name": "Janet Reno",
+    "name": "Wackenhut Corrections Corporation (WCC)",
+    "count": 1
+  },
+  {
+    "name": "George C. Zoley",
+    "count": 1
+  },
+  {
+    "name": "The Wackenhut Corporation",
     "count": 1
   },
   {
@@ -8624,6 +9376,22 @@
     "count": 1
   },
   {
+    "name": "Larry Pressler",
+    "count": 1
+  },
+  {
+    "name": "Reed Hundt",
+    "count": 1
+  },
+  {
+    "name": "BellSouth",
+    "count": 1
+  },
+  {
+    "name": "Southwestern Bell",
+    "count": 1
+  },
+  {
     "name": "Major Donors",
     "count": 1
   },
@@ -8649,10 +9417,6 @@
   },
   {
     "name": "Madison Square Garden",
-    "count": 1
-  },
-  {
-    "name": "Lowry Mays",
     "count": 1
   },
   {
@@ -8700,10 +9464,6 @@
     "count": 1
   },
   {
-    "name": "Banking Industry",
-    "count": 1
-  },
-  {
     "name": "Insurance Industry",
     "count": 1
   },
@@ -8716,11 +9476,31 @@
     "count": 1
   },
   {
+    "name": "Spencer Barasch",
+    "count": 1
+  },
+  {
+    "name": "MSU Gymnastics Program",
+    "count": 1
+  },
+  {
     "name": "Notorious B.I.G.",
     "count": 1
   },
   {
     "name": "International Monetary Fund (IMF)",
+    "count": 1
+  },
+  {
+    "name": "McDonnell Douglas",
+    "count": 1
+  },
+  {
+    "name": "Les Aspin",
+    "count": 1
+  },
+  {
+    "name": "William Perry",
     "count": 1
   },
   {
@@ -8752,7 +9532,19 @@
     "count": 1
   },
   {
+    "name": "Sanford Weill",
+    "count": 1
+  },
+  {
     "name": "corporate donors",
+    "count": 1
+  },
+  {
+    "name": "Joel Klein",
+    "count": 1
+  },
+  {
+    "name": "20 State Attorneys General",
     "count": 1
   },
   {
@@ -8780,6 +9572,18 @@
     "count": 1
   },
   {
+    "name": "William McDonough",
+    "count": 1
+  },
+  {
+    "name": "John Meriwether",
+    "count": 1
+  },
+  {
+    "name": "Long-Term Capital Management",
+    "count": 1
+  },
+  {
     "name": "NationsBank",
     "count": 1
   },
@@ -8801,6 +9605,30 @@
   },
   {
     "name": "Electronic Industries Alliance",
+    "count": 1
+  },
+  {
+    "name": "Walt Disney Company",
+    "count": 1
+  },
+  {
+    "name": "Universal",
+    "count": 1
+  },
+  {
+    "name": "Mary Bono",
+    "count": 1
+  },
+  {
+    "name": "American Library Association",
+    "count": 1
+  },
+  {
+    "name": "U.S. Copyright Office",
+    "count": 1
+  },
+  {
+    "name": "Recording Industry Association of America",
     "count": 1
   },
   {
@@ -8952,10 +9780,6 @@
     "count": 1
   },
   {
-    "name": "Time Warner",
-    "count": 1
-  },
-  {
     "name": "Steve Case",
     "count": 1
   },
@@ -8985,6 +9809,22 @@
   },
   {
     "name": "Pioneers",
+    "count": 1
+  },
+  {
+    "name": "Investment Banks",
+    "count": 1
+  },
+  {
+    "name": "Securities Analysts",
+    "count": 1
+  },
+  {
+    "name": "Venture Capitalists",
+    "count": 1
+  },
+  {
+    "name": "Tech Startups",
     "count": 1
   },
   {
@@ -9020,6 +9860,10 @@
     "count": 1
   },
   {
+    "name": "AMFM Inc.",
+    "count": 1
+  },
+  {
     "name": "Chinese Government",
     "count": 1
   },
@@ -9040,6 +9884,10 @@
     "count": 1
   },
   {
+    "name": "John Sweeney",
+    "count": 1
+  },
+  {
     "name": "Jeb Bush",
     "count": 1
   },
@@ -9049,6 +9897,10 @@
   },
   {
     "name": "Supreme Court Conservative Majority",
+    "count": 1
+  },
+  {
+    "name": "AIG",
     "count": 1
   },
   {
@@ -9100,6 +9952,10 @@
     "count": 1
   },
   {
+    "name": "Paul O'Neill",
+    "count": 1
+  },
+  {
     "name": "David W. Carney",
     "count": 1
   },
@@ -9136,10 +9992,6 @@
     "count": 1
   },
   {
-    "name": "Microsoft Corporation",
-    "count": 1
-  },
-  {
     "name": "Steve Ballmer",
     "count": 1
   },
@@ -9173,6 +10025,10 @@
   },
   {
     "name": "Time Warner Cable",
+    "count": 1
+  },
+  {
+    "name": "Congressional Diabetes Caucus",
     "count": 1
   },
   {
@@ -9452,6 +10308,10 @@
     "count": 1
   },
   {
+    "name": "Election Assistance Commission",
+    "count": 1
+  },
+  {
     "name": "Powell Memorandum Legal Network",
     "count": 1
   },
@@ -9592,6 +10452,14 @@
     "count": 1
   },
   {
+    "name": "Bill Thomas",
+    "count": 1
+  },
+  {
+    "name": "Charles Grassley",
+    "count": 1
+  },
+  {
     "name": "Michael Powell",
     "count": 1
   },
@@ -9605,6 +10473,10 @@
   },
   {
     "name": "NSA Officials",
+    "count": 1
+  },
+  {
+    "name": "HCA Healthcare",
     "count": 1
   },
   {
@@ -9776,6 +10648,10 @@
     "count": 1
   },
   {
+    "name": "J. Kenneth Blackwell",
+    "count": 1
+  },
+  {
     "name": "Dr. David Graham",
     "count": 1
   },
@@ -9897,10 +10773,6 @@
   },
   {
     "name": "MBNA",
-    "count": 1
-  },
-  {
-    "name": "Sallie Mae",
     "count": 1
   },
   {
@@ -10100,6 +10972,22 @@
     "count": 1
   },
   {
+    "name": "Aspen Dental",
+    "count": 1
+  },
+  {
+    "name": "Ares Management",
+    "count": 1
+  },
+  {
+    "name": "Leonard Green & Partners",
+    "count": 1
+  },
+  {
+    "name": "American Securities",
+    "count": 1
+  },
+  {
     "name": "Steven Griles",
     "count": 1
   },
@@ -10112,7 +11000,11 @@
     "count": 1
   },
   {
-    "name": "American International Group",
+    "name": "eBay",
+    "count": 1
+  },
+  {
+    "name": "MercExchange",
     "count": 1
   },
   {
@@ -10136,6 +11028,18 @@
     "count": 1
   },
   {
+    "name": "AT&T Inc.",
+    "count": 1
+  },
+  {
+    "name": "BellSouth Corporation",
+    "count": 1
+  },
+  {
+    "name": "SBC Communications",
+    "count": 1
+  },
+  {
     "name": "Jonathan Williams",
     "count": 1
   },
@@ -10153,6 +11057,14 @@
   },
   {
     "name": "Paul D. Goldenheim",
+    "count": 1
+  },
+  {
+    "name": "Questcor Pharmaceuticals",
+    "count": 1
+  },
+  {
+    "name": "Mallinckrodt",
     "count": 1
   },
   {
@@ -10252,6 +11164,14 @@
     "count": 1
   },
   {
+    "name": "Angelo Mozilo",
+    "count": 1
+  },
+  {
+    "name": "Countrywide Financial",
+    "count": 1
+  },
+  {
     "name": "Telecommunications Companies",
     "count": 1
   },
@@ -10288,6 +11208,34 @@
     "count": 1
   },
   {
+    "name": "Mark Ciavarella",
+    "count": 1
+  },
+  {
+    "name": "Michael Conahan",
+    "count": 1
+  },
+  {
+    "name": "PA Child Care",
+    "count": 1
+  },
+  {
+    "name": "Luzerne County Court of Common Pleas",
+    "count": 1
+  },
+  {
+    "name": "Juvenile Law Center",
+    "count": 1
+  },
+  {
+    "name": "Richard Fuld",
+    "count": 1
+  },
+  {
+    "name": "Edward Liddy",
+    "count": 1
+  },
+  {
     "name": "Lloyd Blankfein",
     "count": 1
   },
@@ -10305,6 +11253,30 @@
   },
   {
     "name": "Neel Kashkari",
+    "count": 1
+  },
+  {
+    "name": "Paul Wellstone",
+    "count": 1
+  },
+  {
+    "name": "Pete Domenici",
+    "count": 1
+  },
+  {
+    "name": "Employee Benefits Security Administration",
+    "count": 1
+  },
+  {
+    "name": "110th Congress",
+    "count": 1
+  },
+  {
+    "name": "Delta Air Lines",
+    "count": 1
+  },
+  {
+    "name": "Northwest Airlines",
     "count": 1
   },
   {
@@ -10348,10 +11320,6 @@
     "count": 1
   },
   {
-    "name": "Pharmaceutical Research and Manufacturers of America",
-    "count": 1
-  },
-  {
     "name": "Mark Martin",
     "count": 1
   },
@@ -10365,6 +11333,14 @@
   },
   {
     "name": "Wall Street Banks",
+    "count": 1
+  },
+  {
+    "name": "Leroy King",
+    "count": 1
+  },
+  {
+    "name": "Stanford International Bank",
     "count": 1
   },
   {
@@ -10416,7 +11392,23 @@
     "count": 1
   },
   {
+    "name": "Catherine Engelbrecht",
+    "count": 1
+  },
+  {
+    "name": "King Street Patriots",
+    "count": 1
+  },
+  {
     "name": "ALEC Public Safety and Elections Task Force",
+    "count": 1
+  },
+  {
+    "name": "Hannah Giles",
+    "count": 1
+  },
+  {
+    "name": "ACORN",
     "count": 1
   },
   {
@@ -10445,6 +11437,18 @@
   },
   {
     "name": "Arizona State Legislators",
+    "count": 1
+  },
+  {
+    "name": "Apollo Group",
+    "count": 1
+  },
+  {
+    "name": "Mary Hendow",
+    "count": 1
+  },
+  {
+    "name": "Julie Albertson",
     "count": 1
   },
   {
@@ -10520,10 +11524,6 @@
     "count": 1
   },
   {
-    "name": "Justice Anthony Kennedy",
-    "count": 1
-  },
-  {
     "name": "Justice John Paul Stevens",
     "count": 1
   },
@@ -10553,6 +11553,22 @@
   },
   {
     "name": "GMAC",
+    "count": 1
+  },
+  {
+    "name": "Fabrice Tourre",
+    "count": 1
+  },
+  {
+    "name": "John Paulson",
+    "count": 1
+  },
+  {
+    "name": "IKB Deutsche Industriebank",
+    "count": 1
+  },
+  {
+    "name": "ACA Management",
     "count": 1
   },
   {
@@ -10624,10 +11640,6 @@
     "count": 1
   },
   {
-    "name": "Roche",
-    "count": 1
-  },
-  {
     "name": "Actemra",
     "count": 1
   },
@@ -10637,6 +11649,10 @@
   },
   {
     "name": "Knowledge and Progress Fund",
+    "count": 1
+  },
+  {
+    "name": "Alex Hertel-Fernandez",
     "count": 1
   },
   {
@@ -10664,6 +11680,30 @@
     "count": 1
   },
   {
+    "name": "Intellectual Ventures",
+    "count": 1
+  },
+  {
+    "name": "Nathan Myhrvold",
+    "count": 1
+  },
+  {
+    "name": "Edward Jung",
+    "count": 1
+  },
+  {
+    "name": "James Bessen",
+    "count": 1
+  },
+  {
+    "name": "Michael Meurer",
+    "count": 1
+  },
+  {
+    "name": "Boston University",
+    "count": 1
+  },
+  {
     "name": "Evan Bayh",
     "count": 1
   },
@@ -10677,6 +11717,26 @@
   },
   {
     "name": "Berry Plastics",
+    "count": 1
+  },
+  {
+    "name": "Speaker John Boehner",
+    "count": 1
+  },
+  {
+    "name": "Rep. Joe Barton",
+    "count": 1
+  },
+  {
+    "name": "Rep. Pat Meehan",
+    "count": 1
+  },
+  {
+    "name": "Speaker Paul Ryan",
+    "count": 1
+  },
+  {
+    "name": "President Barack Obama",
     "count": 1
   },
   {
@@ -10701,6 +11761,14 @@
   },
   {
     "name": "Securities Industry and Financial Markets Association",
+    "count": 1
+  },
+  {
+    "name": "Association of Private Sector Colleges and Universities (APSCU)",
+    "count": 1
+  },
+  {
+    "name": "For-Profit College Industry",
     "count": 1
   },
   {
@@ -10760,10 +11828,6 @@
     "count": 1
   },
   {
-    "name": "Ben Bernanke",
-    "count": 1
-  },
-  {
     "name": "Jack Quinn",
     "count": 1
   },
@@ -10793,6 +11857,34 @@
   },
   {
     "name": "Liberty Consulting",
+    "count": 1
+  },
+  {
+    "name": "Kaiser Permanente",
+    "count": 1
+  },
+  {
+    "name": "Ascension Health",
+    "count": 1
+  },
+  {
+    "name": "Tower Health",
+    "count": 1
+  },
+  {
+    "name": "Bernard Tyson",
+    "count": 1
+  },
+  {
+    "name": "Santa Clara University School of Law",
+    "count": 1
+  },
+  {
+    "name": "U.S. Government Accountability Office",
+    "count": 1
+  },
+  {
+    "name": "Patent Assertion Entities",
     "count": 1
   },
   {
@@ -10856,10 +11948,6 @@
     "count": 1
   },
   {
-    "name": "Kraft Foods",
-    "count": 1
-  },
-  {
     "name": "Ted Kaczynski",
     "count": 1
   },
@@ -10884,14 +11972,6 @@
     "count": 1
   },
   {
-    "name": "Sam Brownback",
-    "count": 1
-  },
-  {
-    "name": "Kansas Legislature",
-    "count": 1
-  },
-  {
     "name": "Tom Donilon",
     "count": 1
   },
@@ -10904,6 +11984,10 @@
     "count": 1
   },
   {
+    "name": "Republican State Attorneys General",
+    "count": 1
+  },
+  {
     "name": "Jon Leibowitz (FTC Chairman)",
     "count": 1
   },
@@ -10912,11 +11996,31 @@
     "count": 1
   },
   {
+    "name": "New England Compounding Center",
+    "count": 1
+  },
+  {
+    "name": "Barry Cadden",
+    "count": 1
+  },
+  {
+    "name": "Massachusetts Board of Pharmacy",
+    "count": 1
+  },
+  {
     "name": "James Taylor",
     "count": 1
   },
   {
     "name": "Solar Energy Industries Association",
+    "count": 1
+  },
+  {
+    "name": "Elizabeth Fowler",
+    "count": 1
+  },
+  {
+    "name": "WellPoint",
     "count": 1
   },
   {
@@ -10968,11 +12072,11 @@
     "count": 1
   },
   {
-    "name": "Kris Kobach",
+    "name": "Kansas Secretary of State",
     "count": 1
   },
   {
-    "name": "Kansas Secretary of State",
+    "name": "John Boehner",
     "count": 1
   },
   {
@@ -10992,15 +12096,15 @@
     "count": 1
   },
   {
+    "name": "William Black",
+    "count": 1
+  },
+  {
     "name": "Jesse Jackson Jr.",
     "count": 1
   },
   {
     "name": "Sandra Stevens Jackson",
-    "count": 1
-  },
-  {
-    "name": "Florida Attorney General Pam Bondi",
     "count": 1
   },
   {
@@ -11040,11 +12144,19 @@
     "count": 1
   },
   {
-    "name": "Hong Kong government",
+    "name": "Solvay Pharmaceuticals",
     "count": 1
   },
   {
-    "name": "Shelby County Alabama",
+    "name": "Actavis",
+    "count": 1
+  },
+  {
+    "name": "Watson Pharmaceuticals",
+    "count": 1
+  },
+  {
+    "name": "Hong Kong government",
     "count": 1
   },
   {
@@ -11144,6 +12256,10 @@
     "count": 1
   },
   {
+    "name": "US Airways",
+    "count": 1
+  },
+  {
     "name": "Richard Leon",
     "count": 1
   },
@@ -11240,14 +12356,6 @@
     "count": 1
   },
   {
-    "name": "Max Baucus",
-    "count": 1
-  },
-  {
-    "name": "UnitedHealth Group",
-    "count": 1
-  },
-  {
     "name": "Jeffrey Forbes",
     "count": 1
   },
@@ -11264,18 +12372,6 @@
     "count": 1
   },
   {
-    "name": "Carlyle Group",
-    "count": 1
-  },
-  {
-    "name": "Cerberus Capital Management",
-    "count": 1
-  },
-  {
-    "name": "Managed Funds Association",
-    "count": 1
-  },
-  {
     "name": "William Hague",
     "count": 1
   },
@@ -11285,6 +12381,10 @@
   },
   {
     "name": "Oleksandr Turchynov",
+    "count": 1
+  },
+  {
+    "name": "Shaun McCutcheon",
     "count": 1
   },
   {
@@ -11325,6 +12425,14 @@
   },
   {
     "name": "Republic of Argentina",
+    "count": 1
+  },
+  {
+    "name": "Alice Corp",
+    "count": 1
+  },
+  {
+    "name": "CLS Bank International",
     "count": 1
   },
   {
@@ -11392,6 +12500,14 @@
     "count": 1
   },
   {
+    "name": "Senator Marco Rubio",
+    "count": 1
+  },
+  {
+    "name": "Insurance Companies",
+    "count": 1
+  },
+  {
     "name": "Amy Robach",
     "count": 1
   },
@@ -11404,7 +12520,23 @@
     "count": 1
   },
   {
+    "name": "Lex Machina",
+    "count": 1
+  },
+  {
     "name": "Drug Wholesalers",
+    "count": 1
+  },
+  {
+    "name": "Standard & Poor's",
+    "count": 1
+  },
+  {
+    "name": "Moody's Investors Service",
+    "count": 1
+  },
+  {
+    "name": "Fitch Ratings",
     "count": 1
   },
   {
@@ -11440,6 +12572,10 @@
     "count": 1
   },
   {
+    "name": "Association of Private Sector Colleges and Universities",
+    "count": 1
+  },
+  {
     "name": "Gerard Lynch",
     "count": 1
   },
@@ -11453,6 +12589,18 @@
   },
   {
     "name": "Defense Contract Audit Agency",
+    "count": 1
+  },
+  {
+    "name": "King (Plaintiff)",
+    "count": 1
+  },
+  {
+    "name": "Sylvia Burwell (HHS Secretary)",
+    "count": 1
+  },
+  {
+    "name": "Alan Ashley",
     "count": 1
   },
   {
@@ -11524,11 +12672,67 @@
     "count": 1
   },
   {
+    "name": "Alon J. Vainer",
+    "count": 1
+  },
+  {
+    "name": "Daniel D. Barbir",
+    "count": 1
+  },
+  {
     "name": "VTB Group",
     "count": 1
   },
   {
     "name": "Yevgeny Dvoskin",
+    "count": 1
+  },
+  {
+    "name": "Valeant Pharmaceuticals",
+    "count": 1
+  },
+  {
+    "name": "J. Michael Pearson",
+    "count": 1
+  },
+  {
+    "name": "Philidor Rx Services",
+    "count": 1
+  },
+  {
+    "name": "William Ackman",
+    "count": 1
+  },
+  {
+    "name": "Senate Special Committee on Aging",
+    "count": 1
+  },
+  {
+    "name": "Education Management Corporation (EDMC)",
+    "count": 1
+  },
+  {
+    "name": "Art Institutes",
+    "count": 1
+  },
+  {
+    "name": "Argosy University",
+    "count": 1
+  },
+  {
+    "name": "Brown Mackie College",
+    "count": 1
+  },
+  {
+    "name": "South University",
+    "count": 1
+  },
+  {
+    "name": "38 State Attorneys General",
+    "count": 1
+  },
+  {
+    "name": "Johns Hopkins University",
     "count": 1
   },
   {
@@ -11557,6 +12761,10 @@
   },
   {
     "name": "David Enrich",
+    "count": 1
+  },
+  {
+    "name": "Fresenius Medical Care",
     "count": 1
   },
   {
@@ -11601,6 +12809,14 @@
   },
   {
     "name": "Judge Analisa Torres",
+    "count": 1
+  },
+  {
+    "name": "Anne Cori",
+    "count": 1
+  },
+  {
+    "name": "Cathie Adams",
     "count": 1
   },
   {
@@ -11756,15 +12972,19 @@
     "count": 1
   },
   {
+    "name": "Office of Inspector General",
+    "count": 1
+  },
+  {
     "name": "John Podesta",
     "count": 1
   },
   {
-    "name": "Mylan",
+    "name": "Heather Bresch",
     "count": 1
   },
   {
-    "name": "Heather Bresch",
+    "name": "Zimmer Biomet",
     "count": 1
   },
   {
@@ -11776,11 +12996,35 @@
     "count": 1
   },
   {
-    "name": "ITT Technical Institute",
+    "name": "Kevin Modany",
+    "count": 1
+  },
+  {
+    "name": "Daniel Fitzpatrick",
     "count": 1
   },
   {
     "name": "Ted Mitchell",
+    "count": 1
+  },
+  {
+    "name": "Indianapolis Star",
+    "count": 1
+  },
+  {
+    "name": "Michigan State University Police",
+    "count": 1
+  },
+  {
+    "name": "Karolyi Ranch",
+    "count": 1
+  },
+  {
+    "name": "Béla Károlyi",
+    "count": 1
+  },
+  {
+    "name": "Márta Károlyi",
     "count": 1
   },
   {
@@ -11812,10 +13056,6 @@
     "count": 1
   },
   {
-    "name": "Mike Crapo",
-    "count": 1
-  },
-  {
     "name": "Martha Roby",
     "count": 1
   },
@@ -11840,6 +13080,18 @@
     "count": 1
   },
   {
+    "name": "Anheuser-Busch InBev",
+    "count": 1
+  },
+  {
+    "name": "SABMiller",
+    "count": 1
+  },
+  {
+    "name": "Molson Coors",
+    "count": 1
+  },
+  {
     "name": "Unite-HERE Local 54 union",
     "count": 1
   },
@@ -11856,11 +13108,23 @@
     "count": 1
   },
   {
+    "name": "Damon T. Hininger",
+    "count": 1
+  },
+  {
+    "name": "Board of Directors",
+    "count": 1
+  },
+  {
     "name": "Boeing pilots",
     "count": 1
   },
   {
     "name": "Airline pilots",
+    "count": 1
+  },
+  {
+    "name": "Worth Rises",
     "count": 1
   },
   {
@@ -11889,6 +13153,22 @@
   },
   {
     "name": "VEB Bank",
+    "count": 1
+  },
+  {
+    "name": "Pfizer Inc.",
+    "count": 1
+  },
+  {
+    "name": "Google/Alphabet",
+    "count": 1
+  },
+  {
+    "name": "Amazon.com",
+    "count": 1
+  },
+  {
+    "name": "Big Four accounting firms",
     "count": 1
   },
   {
@@ -11964,22 +13244,6 @@
     "count": 1
   },
   {
-    "name": "Sanofi",
-    "count": 1
-  },
-  {
-    "name": "CVS Caremark",
-    "count": 1
-  },
-  {
-    "name": "Express Scripts",
-    "count": 1
-  },
-  {
-    "name": "OptumRx",
-    "count": 1
-  },
-  {
     "name": "George Nader",
     "count": 1
   },
@@ -11989,6 +13253,10 @@
   },
   {
     "name": "Walter Shaub",
+    "count": 1
+  },
+  {
+    "name": "Navient Corporation",
     "count": 1
   },
   {
@@ -12160,15 +13428,19 @@
     "count": 1
   },
   {
-    "name": "Harry Reid",
-    "count": 1
-  },
-  {
     "name": "Law Enforcement",
     "count": 1
   },
   {
     "name": "Brian Duffy",
+    "count": 1
+  },
+  {
+    "name": "Boris Epshteyn",
+    "count": 1
+  },
+  {
+    "name": "White House Office of Communications",
     "count": 1
   },
   {
@@ -12204,6 +13476,10 @@
     "count": 1
   },
   {
+    "name": "Matthew Dunlap",
+    "count": 1
+  },
+  {
     "name": "Apache Software Foundation",
     "count": 1
   },
@@ -12220,11 +13496,23 @@
     "count": 1
   },
   {
+    "name": "TC Heartland",
+    "count": 1
+  },
+  {
     "name": "Paris Agreement",
     "count": 1
   },
   {
     "name": "Reality Winner",
+    "count": 1
+  },
+  {
+    "name": "Kansas Republican Party",
+    "count": 1
+  },
+  {
+    "name": "Center on Budget and Policy Priorities",
     "count": 1
   },
   {
@@ -12272,6 +13560,10 @@
     "count": 1
   },
   {
+    "name": "MS-13",
+    "count": 1
+  },
+  {
     "name": "John Gamble",
     "count": 1
   },
@@ -12304,6 +13596,14 @@
     "count": 1
   },
   {
+    "name": "Seema Verma (CMS Administrator)",
+    "count": 1
+  },
+  {
+    "name": "Navigator Organizations",
+    "count": 1
+  },
+  {
     "name": "Axovant Sciences",
     "count": 1
   },
@@ -12329,6 +13629,14 @@
   },
   {
     "name": "PREPA",
+    "count": 1
+  },
+  {
+    "name": "Community Financial Services Association of America",
+    "count": 1
+  },
+  {
+    "name": "Jeb Hensarling",
     "count": 1
   },
   {
@@ -12364,6 +13672,30 @@
     "count": 1
   },
   {
+    "name": "Larry Merlo",
+    "count": 1
+  },
+  {
+    "name": "Mark Bertolini",
+    "count": 1
+  },
+  {
+    "name": "President Donald Trump",
+    "count": 1
+  },
+  {
+    "name": "U.S. Department of Treasury",
+    "count": 1
+  },
+  {
+    "name": "Kevin Brady",
+    "count": 1
+  },
+  {
+    "name": "Orrin Hatch",
+    "count": 1
+  },
+  {
     "name": "Dutch authorities (disclosure)",
     "count": 1
   },
@@ -12388,10 +13720,6 @@
     "count": 1
   },
   {
-    "name": "Apple Inc.",
-    "count": 1
-  },
-  {
     "name": "Russian oligarch",
     "count": 1
   },
@@ -12404,11 +13732,31 @@
     "count": 1
   },
   {
-    "name": "Pennsylvania Supreme Court",
+    "name": "U.N. Human Rights Office",
+    "count": 1
+  },
+  {
+    "name": "African Union",
     "count": 1
   },
   {
     "name": "Pennsylvania General Assembly",
+    "count": 1
+  },
+  {
+    "name": "Rosemarie Aquilina",
+    "count": 1
+  },
+  {
+    "name": "Rachael Denhollander",
+    "count": 1
+  },
+  {
+    "name": "Jordyn Wieber",
+    "count": 1
+  },
+  {
+    "name": "Ingham County Circuit Court",
     "count": 1
   },
   {
@@ -12425,6 +13773,18 @@
   },
   {
     "name": "Data & Society",
+    "count": 1
+  },
+  {
+    "name": "Judge Reed O'Connor",
+    "count": 1
+  },
+  {
+    "name": "20 Republican State Attorneys General",
+    "count": 1
+  },
+  {
+    "name": "California Attorney General Xavier Becerra",
     "count": 1
   },
   {
@@ -12488,6 +13848,10 @@
     "count": 1
   },
   {
+    "name": "Bondholders",
+    "count": 1
+  },
+  {
     "name": "33,000 Toys R Us workers",
     "count": 1
   },
@@ -12521,6 +13885,14 @@
   },
   {
     "name": "John Legere",
+    "count": 1
+  },
+  {
+    "name": "Southwest Key Programs",
+    "count": 1
+  },
+  {
+    "name": "MVM",
     "count": 1
   },
   {
@@ -12572,7 +13944,31 @@
     "count": 1
   },
   {
+    "name": "John Engler",
+    "count": 1
+  },
+  {
+    "name": "MSU Board of Trustees",
+    "count": 1
+  },
+  {
+    "name": "Mark Warner",
+    "count": 1
+  },
+  {
     "name": "Ivanka Trump Marks LLC",
+    "count": 1
+  },
+  {
+    "name": "Bayer AG",
+    "count": 1
+  },
+  {
+    "name": "Monsanto",
+    "count": 1
+  },
+  {
+    "name": "BASF",
     "count": 1
   },
   {
@@ -12636,6 +14032,14 @@
     "count": 1
   },
   {
+    "name": "Tribune Media",
+    "count": 1
+  },
+  {
+    "name": "Steven Fader",
+    "count": 1
+  },
+  {
     "name": "Android phone manufacturers",
     "count": 1
   },
@@ -12688,6 +14092,10 @@
     "count": 1
   },
   {
+    "name": "America's Health Insurance Plans",
+    "count": 1
+  },
+  {
     "name": "Brookfield Property Partners",
     "count": 1
   },
@@ -12708,7 +14116,19 @@
     "count": 1
   },
   {
+    "name": "Makan Delrahim",
+    "count": 1
+  },
+  {
+    "name": "David Cordani",
+    "count": 1
+  },
+  {
     "name": "Rachel Mitchell",
+    "count": 1
+  },
+  {
+    "name": "Greg Palast",
     "count": 1
   },
   {
@@ -12737,6 +14157,18 @@
   },
   {
     "name": "Trump International Hotel New York",
+    "count": 1
+  },
+  {
+    "name": "Samsung Bioepis",
+    "count": 1
+  },
+  {
+    "name": "Boehringer Ingelheim",
+    "count": 1
+  },
+  {
+    "name": "Sandoz",
     "count": 1
   },
   {
@@ -12864,15 +14296,7 @@
     "count": 1
   },
   {
-    "name": "NRA",
-    "count": 1
-  },
-  {
     "name": "Republican Jewish Coalition",
-    "count": 1
-  },
-  {
-    "name": "Private equity firms",
     "count": 1
   },
   {
@@ -12889,6 +14313,10 @@
   },
   {
     "name": "Economic Policy Institute",
+    "count": 1
+  },
+  {
+    "name": "Tax Foundation",
     "count": 1
   },
   {
@@ -12913,10 +14341,6 @@
   },
   {
     "name": "Colin Greenspon",
-    "count": 1
-  },
-  {
-    "name": "HHS Office of Inspector General",
     "count": 1
   },
   {
@@ -12968,6 +14392,22 @@
     "count": 1
   },
   {
+    "name": "Mark Harris",
+    "count": 1
+  },
+  {
+    "name": "McCrae Dowless",
+    "count": 1
+  },
+  {
+    "name": "Dan McCready",
+    "count": 1
+  },
+  {
+    "name": "North Carolina State Board of Elections",
+    "count": 1
+  },
+  {
     "name": "T-Mobile US",
     "count": 1
   },
@@ -12993,6 +14433,18 @@
   },
   {
     "name": "Ethiopian Civil Aviation Authority",
+    "count": 1
+  },
+  {
+    "name": "Lori Loughlin",
+    "count": 1
+  },
+  {
+    "name": "Felicity Huffman",
+    "count": 1
+  },
+  {
+    "name": "U.S. Attorney Andrew Lelling",
     "count": 1
   },
   {
@@ -13073,6 +14525,14 @@
   },
   {
     "name": "John Solomon",
+    "count": 1
+  },
+  {
+    "name": "Lucy Koh",
+    "count": 1
+  },
+  {
+    "name": "Edith Ramirez",
     "count": 1
   },
   {
@@ -13192,6 +14652,10 @@
     "count": 1
   },
   {
+    "name": "Metropolitan Correctional Center",
+    "count": 1
+  },
+  {
     "name": "Thad Balkman",
     "count": 1
   },
@@ -13256,7 +14720,51 @@
     "count": 1
   },
   {
+    "name": "Adam Neumann",
+    "count": 1
+  },
+  {
+    "name": "WeWork",
+    "count": 1
+  },
+  {
+    "name": "John White",
+    "count": 1
+  },
+  {
     "name": "Anne Nelson",
+    "count": 1
+  },
+  {
+    "name": "Tyson Foods",
+    "count": 1
+  },
+  {
+    "name": "JBS",
+    "count": 1
+  },
+  {
+    "name": "Cargill",
+    "count": 1
+  },
+  {
+    "name": "National Beef",
+    "count": 1
+  },
+  {
+    "name": "U.S. District Court for Minnesota",
+    "count": 1
+  },
+  {
+    "name": "Sutter Health",
+    "count": 1
+  },
+  {
+    "name": "Xavier Becerra",
+    "count": 1
+  },
+  {
+    "name": "California Attorney General",
     "count": 1
   },
   {
@@ -13273,6 +14781,14 @@
   },
   {
     "name": "David Murillo",
+    "count": 1
+  },
+  {
+    "name": "Bristol-Myers Squibb",
+    "count": 1
+  },
+  {
+    "name": "Joseph Simons",
     "count": 1
   },
   {
@@ -13324,7 +14840,7 @@
     "count": 1
   },
   {
-    "name": "OECD",
+    "name": "Fresenius",
     "count": 1
   },
   {
@@ -13412,15 +14928,15 @@
     "count": 1
   },
   {
-    "name": "James O'Keefe",
-    "count": 1
-  },
-  {
     "name": "Project Veritas",
     "count": 1
   },
   {
     "name": "Abigail Spanberger",
+    "count": 1
+  },
+  {
+    "name": "Small Business Administration",
     "count": 1
   },
   {
@@ -13508,6 +15024,10 @@
     "count": 1
   },
   {
+    "name": "Allergan",
+    "count": 1
+  },
+  {
     "name": "Eliot Engel",
     "count": 1
   },
@@ -13529,6 +15049,38 @@
   },
   {
     "name": "USPS Board of Governors",
+    "count": 1
+  },
+  {
+    "name": "Wirecard",
+    "count": 1
+  },
+  {
+    "name": "Markus Braun",
+    "count": 1
+  },
+  {
+    "name": "Jan Marsalek",
+    "count": 1
+  },
+  {
+    "name": "EY",
+    "count": 1
+  },
+  {
+    "name": "BaFin",
+    "count": 1
+  },
+  {
+    "name": "Felix Hufeld",
+    "count": 1
+  },
+  {
+    "name": "Financial Times",
+    "count": 1
+  },
+  {
+    "name": "KPMG",
     "count": 1
   },
   {
@@ -13557,6 +15109,10 @@
   },
   {
     "name": "State Department Inspector General",
+    "count": 1
+  },
+  {
+    "name": "Joshua Powell",
     "count": 1
   },
   {
@@ -13736,6 +15292,14 @@
     "count": 1
   },
   {
+    "name": "National Bureau of Economic Research",
+    "count": 1
+  },
+  {
+    "name": "Private Equity Firms",
+    "count": 1
+  },
+  {
     "name": "RNC",
     "count": 1
   },
@@ -13773,6 +15337,10 @@
   },
   {
     "name": "Opportunity Matters Fund",
+    "count": 1
+  },
+  {
+    "name": "Northside Hospital",
     "count": 1
   },
   {
@@ -13892,11 +15460,23 @@
     "count": 1
   },
   {
-    "name": "Kevin McCarthy",
+    "name": "Louisiana Republican Party",
     "count": 1
   },
   {
-    "name": "Louisiana Republican Party",
+    "name": "Genesis Healthcare",
+    "count": 1
+  },
+  {
+    "name": "ReGen Healthcare",
+    "count": 1
+  },
+  {
+    "name": "Joel Landau",
+    "count": 1
+  },
+  {
+    "name": "David Gefner",
     "count": 1
   },
   {
@@ -13932,15 +15512,35 @@
     "count": 1
   },
   {
-    "name": "Kim Reynolds",
-    "count": 1
-  },
-  {
     "name": "Republican State Legislators",
     "count": 1
   },
   {
     "name": "Mother Jones",
+    "count": 1
+  },
+  {
+    "name": "Tribune Publishing",
+    "count": 1
+  },
+  {
+    "name": "Randall D. Smith",
+    "count": 1
+  },
+  {
+    "name": "Chicago Tribune",
+    "count": 1
+  },
+  {
+    "name": "Baltimore Sun",
+    "count": 1
+  },
+  {
+    "name": "New York Daily News",
+    "count": 1
+  },
+  {
+    "name": "Denver Post",
     "count": 1
   },
   {
@@ -13957,6 +15557,10 @@
   },
   {
     "name": "Coatue",
+    "count": 1
+  },
+  {
+    "name": "Arizona Attorney General Mark Brnovich",
     "count": 1
   },
   {
@@ -13977,6 +15581,10 @@
   },
   {
     "name": "Chainnov Inc",
+    "count": 1
+  },
+  {
+    "name": "White House Competition Council",
     "count": 1
   },
   {
@@ -14004,6 +15612,14 @@
     "count": 1
   },
   {
+    "name": "Hindenburg Research",
+    "count": 1
+  },
+  {
+    "name": "VectoIQ",
+    "count": 1
+  },
+  {
     "name": "Michael Williams",
     "count": 1
   },
@@ -14024,6 +15640,10 @@
     "count": 1
   },
   {
+    "name": "Maggie Nichols",
+    "count": 1
+  },
+  {
     "name": "Noubar Afeyan",
     "count": 1
   },
@@ -14037,6 +15657,30 @@
   },
   {
     "name": "Shaukat Tarin",
+    "count": 1
+  },
+  {
+    "name": "Tether Holdings Limited",
+    "count": 1
+  },
+  {
+    "name": "Dawn Stump",
+    "count": 1
+  },
+  {
+    "name": "Bitfinex",
+    "count": 1
+  },
+  {
+    "name": "Local Newspapers",
+    "count": 1
+  },
+  {
+    "name": "Communities",
+    "count": 1
+  },
+  {
+    "name": "University of North Carolina Researchers",
     "count": 1
   },
   {
@@ -14105,6 +15749,22 @@
   },
   {
     "name": "SDNY Prosecutors",
+    "count": 1
+  },
+  {
+    "name": "Robyn Moberly",
+    "count": 1
+  },
+  {
+    "name": "U.S. Olympic & Paralympic Committee",
+    "count": 1
+  },
+  {
+    "name": "John Manly",
+    "count": 1
+  },
+  {
+    "name": "Sarah Klein",
     "count": 1
   },
   {
@@ -14256,6 +15916,10 @@
     "count": 1
   },
   {
+    "name": "Montenegro",
+    "count": 1
+  },
+  {
     "name": "Information Commissioner's Office",
     "count": 1
   },
@@ -14300,6 +15964,10 @@
     "count": 1
   },
   {
+    "name": "Maria Cantwell",
+    "count": 1
+  },
+  {
     "name": "Save America PAC",
     "count": 1
   },
@@ -14312,7 +15980,55 @@
     "count": 1
   },
   {
+    "name": "JAB Consumer Partners",
+    "count": 1
+  },
+  {
+    "name": "JAB Holding Company",
+    "count": 1
+  },
+  {
+    "name": "National Veterinary Associates",
+    "count": 1
+  },
+  {
+    "name": "Ethos Veterinary Health",
+    "count": 1
+  },
+  {
+    "name": "Compassion-First Pet Hospitals",
+    "count": 1
+  },
+  {
+    "name": "Jackson Women's Health Organization",
+    "count": 1
+  },
+  {
+    "name": "Mississippi Attorney General Lynn Fitch",
+    "count": 1
+  },
+  {
+    "name": "Kyle Davies",
+    "count": 1
+  },
+  {
+    "name": "Su Zhu",
+    "count": 1
+  },
+  {
+    "name": "Monetary Authority of Singapore",
+    "count": 1
+  },
+  {
+    "name": "Dubai Financial Services Authority",
+    "count": 1
+  },
+  {
     "name": "Carlos De Oliveira",
+    "count": 1
+  },
+  {
+    "name": "West Virginia Attorney General Patrick Morrisey",
     "count": 1
   },
   {
@@ -14321,6 +16037,10 @@
   },
   {
     "name": "drake-ventures-llc",
+    "count": 1
+  },
+  {
+    "name": "Alex Mashinsky",
     "count": 1
   },
   {
@@ -14373,6 +16093,10 @@
   },
   {
     "name": "Jason Ravnsborg",
+    "count": 1
+  },
+  {
+    "name": "Local News Anchors",
     "count": 1
   },
   {
@@ -14484,10 +16208,6 @@
     "count": 1
   },
   {
-    "name": "Facebook/Meta",
-    "count": 1
-  },
-  {
     "name": "Gateway Pundit",
     "count": 1
   },
@@ -14516,6 +16236,18 @@
     "count": 1
   },
   {
+    "name": "Teva Pharmaceuticals",
+    "count": 1
+  },
+  {
+    "name": "Gray Market Vendors",
+    "count": 1
+  },
+  {
+    "name": "Cancer Treatment Centers",
+    "count": 1
+  },
+  {
     "name": "William L. Walton",
     "count": 1
   },
@@ -14536,6 +16268,10 @@
     "count": 1
   },
   {
+    "name": "Federal prosecutors",
+    "count": 1
+  },
+  {
     "name": "Anonymous",
     "count": 1
   },
@@ -14552,6 +16288,14 @@
     "count": 1
   },
   {
+    "name": "Meta Platforms",
+    "count": 1
+  },
+  {
+    "name": "Judge Edward Davila",
+    "count": 1
+  },
+  {
     "name": "Norfolk Southern Railway",
     "count": 1
   },
@@ -14564,6 +16308,14 @@
     "count": 1
   },
   {
+    "name": "California DFPI",
+    "count": 1
+  },
+  {
+    "name": "House Committee on Energy and Commerce",
+    "count": 1
+  },
+  {
     "name": "Ho Wan Kwok",
     "count": 1
   },
@@ -14573,6 +16325,34 @@
   },
   {
     "name": "Yvette Wang",
+    "count": 1
+  },
+  {
+    "name": "Credit Suisse",
+    "count": 1
+  },
+  {
+    "name": "UBS",
+    "count": 1
+  },
+  {
+    "name": "FINMA",
+    "count": 1
+  },
+  {
+    "name": "Swiss Federal Council",
+    "count": 1
+  },
+  {
+    "name": "Marlene Amstad",
+    "count": 1
+  },
+  {
+    "name": "Archegos Capital",
+    "count": 1
+  },
+  {
+    "name": "Greensill Capital",
     "count": 1
   },
   {
@@ -14625,6 +16405,14 @@
   },
   {
     "name": "January 6 Committee",
+    "count": 1
+  },
+  {
+    "name": "Lars Fruergaard Jorgensen",
+    "count": 1
+  },
+  {
+    "name": "Heather Cianfrocco",
     "count": 1
   },
   {
@@ -14688,15 +16476,35 @@
     "count": 1
   },
   {
-    "name": "Greg Becker",
-    "count": 1
-  },
-  {
     "name": "Daniel Beck",
     "count": 1
   },
   {
     "name": "Democracy advocates",
+    "count": 1
+  },
+  {
+    "name": "Students for Fair Admissions",
+    "count": 1
+  },
+  {
+    "name": "University of North Carolina",
+    "count": 1
+  },
+  {
+    "name": "Lorie Smith",
+    "count": 1
+  },
+  {
+    "name": "303 Creative LLC",
+    "count": 1
+  },
+  {
+    "name": "Colorado Civil Rights Commission",
+    "count": 1
+  },
+  {
+    "name": "Alliance Defending Freedom",
     "count": 1
   },
   {
@@ -14717,6 +16525,14 @@
   },
   {
     "name": "Cytrox AD",
+    "count": 1
+  },
+  {
+    "name": "Activision Blizzard",
+    "count": 1
+  },
+  {
+    "name": "Judge Jacqueline Scott Corley",
     "count": 1
   },
   {
@@ -14753,6 +16569,22 @@
   },
   {
     "name": "Pharmaceutical Manufacturers Association",
+    "count": 1
+  },
+  {
+    "name": "Andrew N. Ferguson",
+    "count": 1
+  },
+  {
+    "name": "Amphastar",
+    "count": 1
+  },
+  {
+    "name": "Covis Pharma",
+    "count": 1
+  },
+  {
+    "name": "Teva",
     "count": 1
   },
   {
@@ -14793,6 +16625,14 @@
   },
   {
     "name": "Gary Wang",
+    "count": 1
+  },
+  {
+    "name": "NaviHealth",
+    "count": 1
+  },
+  {
+    "name": "Suzanne Clark",
     "count": 1
   },
   {
@@ -14872,6 +16712,18 @@
     "count": 1
   },
   {
+    "name": "JetBlue Airways",
+    "count": 1
+  },
+  {
+    "name": "Spirit Airlines",
+    "count": 1
+  },
+  {
+    "name": "Judge William Young",
+    "count": 1
+  },
+  {
     "name": "Roberta Kaplan",
     "count": 1
   },
@@ -14933,6 +16785,10 @@
   },
   {
     "name": "Department of Defense Inspector General",
+    "count": 1
+  },
+  {
+    "name": "Optum",
     "count": 1
   },
   {
@@ -15032,7 +16888,27 @@
     "count": 1
   },
   {
+    "name": "American Health Care Association",
+    "count": 1
+  },
+  {
+    "name": "LeadingAge",
+    "count": 1
+  },
+  {
     "name": "Kim Jong Un",
+    "count": 1
+  },
+  {
+    "name": "Steward Health Care",
+    "count": 1
+  },
+  {
+    "name": "Ralph de la Torre",
+    "count": 1
+  },
+  {
+    "name": "Medical Properties Trust",
     "count": 1
   },
   {
@@ -15184,19 +17060,11 @@
     "count": 1
   },
   {
-    "name": "Justice Neil Gorsuch",
+    "name": "Special Counsel Jack Smith",
     "count": 1
   },
   {
-    "name": "Justice Brett Kavanaugh",
-    "count": 1
-  },
-  {
-    "name": "Justice Amy Coney Barrett",
-    "count": 1
-  },
-  {
-    "name": "True the Vote",
+    "name": "Melissa Holyoak",
     "count": 1
   },
   {
@@ -15228,6 +17096,14 @@
     "count": 1
   },
   {
+    "name": "Dennis Kogod",
+    "count": 1
+  },
+  {
+    "name": "DaVita Rx",
+    "count": 1
+  },
+  {
     "name": "Raw Egg Nationalist",
     "count": 1
   },
@@ -15241,6 +17117,18 @@
   },
   {
     "name": "Darryl Cooper",
+    "count": 1
+  },
+  {
+    "name": "Adam Kautzner",
+    "count": 1
+  },
+  {
+    "name": "David Joyner",
+    "count": 1
+  },
+  {
+    "name": "Patrick Conway",
     "count": 1
   },
   {
@@ -15273,6 +17161,10 @@
   },
   {
     "name": "AI Ethics Review Board",
+    "count": 1
+  },
+  {
+    "name": "Steven Scott (whistleblower)",
     "count": 1
   },
   {
@@ -15452,6 +17344,10 @@
     "count": 1
   },
   {
+    "name": "Medicare Advantage insurers",
+    "count": 1
+  },
+  {
     "name": "US government agencies",
     "count": 1
   },
@@ -15576,6 +17472,26 @@
     "count": 1
   },
   {
+    "name": "Brian Thompson",
+    "count": 1
+  },
+  {
+    "name": "Luigi Mangione",
+    "count": 1
+  },
+  {
+    "name": "Kroger Company",
+    "count": 1
+  },
+  {
+    "name": "Albertsons Companies",
+    "count": 1
+  },
+  {
+    "name": "Judge Nelson",
+    "count": 1
+  },
+  {
     "name": "Howard Lutnick (CEO)",
     "count": 1
   },
@@ -15597,6 +17513,14 @@
   },
   {
     "name": "Dave Boliek (State Auditor)",
+    "count": 1
+  },
+  {
+    "name": "Pharmaceutical Care Management Association",
+    "count": 1
+  },
+  {
+    "name": "Pharmaceutical industry",
     "count": 1
   },
   {
@@ -16105,10 +18029,6 @@
   },
   {
     "name": "Suleiman Kerimov",
-    "count": 1
-  },
-  {
-    "name": "Swiss National Bank",
     "count": 1
   },
   {
@@ -17496,6 +19416,26 @@
     "count": 1
   },
   {
+    "name": "Elevance Health",
+    "count": 1
+  },
+  {
+    "name": "eHealth",
+    "count": 1
+  },
+  {
+    "name": "GoHealth",
+    "count": 1
+  },
+  {
+    "name": "SelectQuote",
+    "count": 1
+  },
+  {
+    "name": "Andrew Shea (whistleblower)",
+    "count": 1
+  },
+  {
     "name": "Handala hacking group",
     "count": 1
   },
@@ -18560,10 +20500,6 @@
     "count": 1
   },
   {
-    "name": "Qualcomm",
-    "count": 1
-  },
-  {
     "name": "Securing American Greatness",
     "count": 1
   },
@@ -18792,10 +20728,6 @@
     "count": 1
   },
   {
-    "name": "Gail Slater",
-    "count": 1
-  },
-  {
     "name": "nexstar-media-group",
     "count": 1
   },
@@ -18805,10 +20737,6 @@
   },
   {
     "name": "federal-communications-commission",
-    "count": 1
-  },
-  {
-    "name": "SoftBank",
     "count": 1
   },
   {
@@ -18977,10 +20905,6 @@
   },
   {
     "name": "EJ Antoni",
-    "count": 1
-  },
-  {
-    "name": "Andrew Ferguson",
     "count": 1
   },
   {
@@ -19264,10 +21188,6 @@
     "count": 1
   },
   {
-    "name": "Christopher Wray",
-    "count": 1
-  },
-  {
     "name": "Sinan Gursoy",
     "count": 1
   },
@@ -19309,10 +21229,6 @@
   },
   {
     "name": "MAHA Commission",
-    "count": 1
-  },
-  {
-    "name": "Centers for Medicare and Medicaid Services",
     "count": 1
   },
   {
@@ -19525,10 +21441,6 @@
   },
   {
     "name": "Prabowo Subianto",
-    "count": 1
-  },
-  {
-    "name": "Hedge Funds",
     "count": 1
   },
   {
@@ -20304,10 +22216,6 @@
     "count": 1
   },
   {
-    "name": "Edward Blum",
-    "count": 1
-  },
-  {
     "name": "Hispanic Scholarship Fund",
     "count": 1
   },
@@ -20628,10 +22536,6 @@
     "count": 1
   },
   {
-    "name": "American Medical Association",
-    "count": 1
-  },
-  {
     "name": "Jim O'Neill",
     "count": 1
   },
@@ -20756,10 +22660,6 @@
     "count": 1
   },
   {
-    "name": "Paul Hudson",
-    "count": 1
-  },
-  {
     "name": "American College of Physicians",
     "count": 1
   },
@@ -20860,10 +22760,6 @@
     "count": 1
   },
   {
-    "name": "Paul Engelmayer",
-    "count": 1
-  },
-  {
     "name": "Qatar government",
     "count": 1
   },
@@ -20877,10 +22773,6 @@
   },
   {
     "name": "Judge Richard M. Berman",
-    "count": 1
-  },
-  {
-    "name": "Judge Colleen Kollar-Kotelly",
     "count": 1
   },
   {
@@ -20937,10 +22829,6 @@
   },
   {
     "name": "Paramount Pictures",
-    "count": 1
-  },
-  {
-    "name": "Antitrust Division",
     "count": 1
   },
   {

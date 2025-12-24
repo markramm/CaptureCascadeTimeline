@@ -1,0 +1,48 @@
+{
+  "id": "2011-01-01--alec-voter-id-model-legislation-spreads",
+  "date": "2011-01-01",
+  "title": "ALEC Voter ID Model Legislation Spreads: 62 Bills in 37 States Following 2010 GOP Wave",
+  "summary": "Following the 2010 midterm elections when Republicans took control of state legislatures, the American Legislative Exchange Council's (ALEC) Voter ID Act model legislation—approved at its 2009 Atlanta meeting and modeled on Indiana and Georgia laws—spread rapidly across the country. In the 2011 and 2012 legislative sessions, lawmakers proposed 62 photo ID bills in 37 states. A News21 analysis found that more than half were sponsored by ALEC members or conference attendees. Columbia University political scientist Alex Hertel-Fernandez noted that legislators who paid $50 annual ALEC membership dues 'had access to a draft proposal for strict voter ID requirements.' Seven states passed particularly strict photo ID measures in 2011: Alabama, Kansas, Rhode Island, South Carolina, Texas, Tennessee, and Wisconsin. The Center for Media and Democracy identified 'numerous instances where legislation introduced in state legislatures contained ALEC DNA—meaning the state legislation and the ALEC models shared similar or identical language or provisions.' By 2011, ALEC had nearly 2,000 state legislator members (more than 25% of all state legislators nationwide), and approximately 1,000 bills based on ALEC language were being introduced annually with a 20% enactment rate. Fourteen states enacted restrictive voter ID bills modeled on the ALEC template in 2011, with Democratic governors vetoing them in four others. The coordinated push represented systematic corporate-funded legislative capture to restrict voting access.",
+  "importance": 8,
+  "tags": [
+    "Voter Suppression",
+    "ALEC",
+    "Republican Party",
+    "Corporate Capture"
+  ],
+  "actors": [
+    "American Legislative Exchange Council",
+    "Alex Hertel-Fernandez"
+  ],
+  "status": "confirmed",
+  "capture_lanes": [
+    "Legislative Capture",
+    "Electoral Manipulation"
+  ],
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652",
+      "title": "Flurry of Voter ID laws tied to conservative group ALEC",
+      "publisher": "NBC News",
+      "tier": 1
+    },
+    {
+      "url": "https://www.mprnews.org/story/2012/03/04/voter-id-alec",
+      "title": "Voter ID drive part of quiet, well-funded national conservative effort",
+      "publisher": "Minnesota Public Radio",
+      "tier": 2
+    },
+    {
+      "url": "https://votingrights.news21.com/article/movement/index.html",
+      "title": "Flurry of Photo ID Laws Tied to Conservative Washington Group",
+      "publisher": "News21",
+      "tier": 3
+    },
+    {
+      "url": "https://www.prwatch.org/news/2011/12/11203/doj-rejects-alec-inspired-voter-id-bill-south-carolina",
+      "title": "DOJ Rejects ALEC-Inspired Voter ID Bill in South Carolina",
+      "publisher": "PR Watch",
+      "tier": 3
+    }
+  ]
+}

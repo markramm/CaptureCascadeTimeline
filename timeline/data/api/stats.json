@@ -1,17 +1,18 @@
 {
-  "total_events": 3131,
-  "total_tags": 5445,
-  "total_actors": 5259,
-  "total_sources": 10436,
+  "total_events": 3360,
+  "total_tags": 5671,
+  "total_actors": 5731,
+  "total_sources": 11277,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-20"
   },
   "status_counts": {
-    "unknown": 937,
-    "confirmed": 2144,
+    "unknown": 1010,
+    "confirmed": 2288,
     "validated": 31,
     "disputed": 2,
+    "published": 12,
     "verified": 1,
     "enhanced": 1,
     "reported": 7,
@@ -25,31 +26,31 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 434
+      "count": 523
     },
     {
       "name": "institutional-capture",
-      "count": 244
+      "count": 272
     },
     {
       "name": "corruption",
-      "count": 237
+      "count": 252
     },
     {
       "name": "kleptocracy",
-      "count": 135
+      "count": 136
+    },
+    {
+      "name": "trump-administration",
+      "count": 133
     },
     {
       "name": "government-contracts",
       "count": 130
     },
     {
-      "name": "trump-administration",
-      "count": 124
-    },
-    {
       "name": "crypto",
-      "count": 112
+      "count": 118
     },
     {
       "name": "surveillance",
@@ -60,22 +61,22 @@
       "count": 99
     },
     {
-      "name": "constitutional-crisis",
-      "count": 88
+      "name": "systematic-corruption",
+      "count": 89
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1032
+      "count": 1057
     },
     {
       "name": "Trump Administration",
-      "count": 326
+      "count": 330
     },
     {
       "name": "Department of Justice",
-      "count": 203
+      "count": 238
     },
     {
       "name": "Elon Musk",
@@ -86,25 +87,25 @@
       "count": 89
     },
     {
-      "name": "FBI",
-      "count": 70
-    },
-    {
       "name": "Heritage Foundation",
-      "count": 68
+      "count": 73
     },
     {
-      "name": "Jeffrey Epstein",
-      "count": 62
+      "name": "FBI",
+      "count": 71
     },
     {
       "name": "Supreme Court",
-      "count": 59
+      "count": 70
     },
     {
-      "name": "ICE",
-      "count": 57
+      "name": "Jeffrey Epstein",
+      "count": 63
+    },
+    {
+      "name": "George W. Bush",
+      "count": 60
     }
   ],
-  "generated": "2025-12-23T01:44:27.802223"
+  "generated": "2025-12-23T23:17:47.460801"
 }

@@ -140,12 +140,40 @@
 2. [Profile of Union Workers in State and Local Government](https://www.epi.org/publication/a-profile-of-union-workers-in-state-and-local-government-key-facts-about-the-sector-for-followers-of-janus-v-afscme-council-31/)
 3. [The Man Who Put Public-Employee Unions on the Map](https://prospect.org/labor/man-put-public-employee-unions-map/)
 
+## Phyllis Schlafly Publishes 'A Choice Not an Echo,' Launching Conservative Movement Infrastructure
+*Date: 1964-05-01*
+
+1. [A Choice Not an Echo](https://en.wikipedia.org/wiki/A_Choice_Not_an_Echo)
+2. [Phyllis Schlafly](https://en.wikipedia.org/wiki/Phyllis_Schlafly)
+3. [A Choice Not an Echo](https://www.britannica.com/topic/A-Choice-Not-an-Echo)
+
+## Phyllis Schlafly Launches Monthly Newsletter, Building Conservative Communications Network
+*Date: 1967-08-01*
+
+1. [Phyllis Schlafly Bio](https://eagleforum.org/about/bio.html)
+2. [Phyllis Schlafly](https://en.wikipedia.org/wiki/Phyllis_Schlafly)
+3. [The Phyllis Schlafly Report](https://pseagles.com/The_Phyllis_Schlafly_Report)
+
 ## Robert Maxwell's Secret KGB Meeting Coincides with Czechoslovakia Invasion Planning
 *Date: 1968-08-01*
 
 1. [Robert Maxwell & the KGB](https://espionagehistoryarchive.com/2019/12/20/robert-maxwell-the-kgb/)
 2. [Robert Maxwell - Intelligence Connections](https://powerbase.info/index.php/Robert_Maxwell)
 3. [Robert Maxwell: Media Mogul and Intelligence Figure](https://silview.media/tag/robert-maxwell/)
+
+## Nixon Wins Presidency Using Southern Strategy Based on Racial Resentment
+*Date: 1968-11-05*
+
+1. [Southern strategy - Wikipedia](https://en.wikipedia.org/wiki/Southern_strategy)
+2. [Southern strategy | Britannica](https://www.britannica.com/topic/Southern-strategy)
+3. [Kevin Phillips (political commentator) - Wikipedia](https://en.wikipedia.org/wiki/Kevin_Phillips_(political_commentator))
+
+## Kevin Phillips Publishes 'The Emerging Republican Majority' Codifying Racial Realignment Strategy
+*Date: 1969-01-01*
+
+1. [The Emerging Republican Majority | Princeton University Press](https://press.princeton.edu/books/paperback/9780691163246/the-emerging-republican-majority)
+2. [Kevin Phillips (political commentator) - Wikipedia](https://en.wikipedia.org/wiki/Kevin_Phillips_(political_commentator))
+3. [Kevin Phillips, Nixon political analyst and prolific author, dies at 82](https://www.washingtonpost.com/obituaries/2023/10/10/kevin-phillips-nixon-political-analyst-author-dies/)
 
 ## Roger Ailes Creates Plan for Nixon's "GOP TV" Pro-Administration Network
 *Date: 1970-01-01*
@@ -284,6 +312,13 @@
 2. [Lewis F. Powell, Jr. Biography](https://www.britannica.com/biography/Lewis-F-Powell-Jr)
 3. [Lewis F. Powell Jr. - Wikipedia](https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.)
 
+## Phyllis Schlafly Launches STOP ERA Campaign, Pioneering Anti-Feminist Infrastructure
+*Date: 1972-02-01*
+
+1. [Phyllis Schlafly](https://en.wikipedia.org/wiki/Phyllis_Schlafly)
+2. [The Real Story of Phyllis Schlafly's Campaign Against the ERA](https://www.nyhistory.org/blogs/mrs-america-primer-the-real-story-of-phyllis-schlaflys-campaign-against-the-era)
+3. [Sermonizing in Pearls: Phyllis Schlafly and the Women's History of the Religious Right](https://lareviewofbooks.org/article/sermonizing-pearls-phyllis-schlafly-womens-history-religious-right/)
+
 ## Bank of Credit and Commerce International (BCCI) Founded
 *Date: 1972-03-01*
 
@@ -306,6 +341,13 @@
 1. [The Powell Memo: A Call-to-Arms for Corporations](https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/)
 2. [The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
 3. [Lewis Powell memo: notes to the Chamber of Commerce](https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html)
+
+## Eagle Forum Founded as Permanent Conservative Infrastructure for 'Pro-Family' Organizing
+*Date: 1972-11-01*
+
+1. [Eagle Forum](https://en.wikipedia.org/wiki/Eagle_Forum)
+2. [Eagle Forum](https://firstamendment.mtsu.edu/article/eagle-forum/)
+3. [Phyllis Schlafly](https://www.womenshistory.org/education-resources/biographies/phyllis-schlafly)
 
 ## National Association of Manufacturers Relocates to Washington D.C. in Corporate Mobilization
 *Date: 1972-11-01*
@@ -593,6 +635,14 @@
 1. [Scaife: Funding Father of the Right](https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm)
 2. [Scaife Foundations: Conservative Funding Network](https://www.sourcewatch.org/index.php/Scaife_Foundations)
 3. [Scaife Family Foundations Research](http://conservativetransparency.org/org/scaife-foundations/)
+
+## Reagan Launches 'Welfare Queen' Attack Using Racially Coded Chicago Fraud Story
+*Date: 1976-01-27*
+
+1. [Linda Taylor - Wikipedia](https://en.wikipedia.org/wiki/Linda_Taylor)
+2. [The Truth Behind The Lies Of The Original 'Welfare Queen'](https://www.npr.org/sections/codeswitch/2013/12/20/255819681/the-truth-behind-the-lies-of-the-original-welfare-queen)
+3. [The Myth of the Welfare Queen](https://newrepublic.com/article/154404/myth-welfare-queen)
+4. [The True Story of Chicago's 'Welfare Queen'](https://www.chicagomag.com/city-life/may-2019/the-true-story-of-chicagos-welfare-queen/)
 
 ## Buckley v. Valeo Establishes Framework for Corporate Political Spending
 *Date: 1976-01-30*
@@ -953,6 +1003,12 @@
 2. [Central Hudson Gas & Electric Corp. v. Public Service Commission](https://www.oyez.org/cases/1979/79-565)
 3. [Central Hudson Test](https://firstamendment.mtsu.edu/article/central-hudson-test/)
 
+## Schlafly and Falwell Joint Rally Demonstrates Religious Right Coalition Unity
+*Date: 1980-06-30*
+
+1. [Sermonizing in Pearls: Phyllis Schlafly and the Women's History of the Religious Right](https://lareviewofbooks.org/article/sermonizing-pearls-phyllis-schlafly-womens-history-religious-right/)
+2. [Phyllis Schlafly's Opposition to Equal Rights Amendment Feminism](https://billofrightsinstitute.org/essays/phyllis-schlafly-and-the-debate-over-the-equal-rights-amendment)
+
 ## Reagan Aide Edwin Meese Coordinates with Heritage on "Mandate for Leadership"
 *Date: 1980-07-01*
 
@@ -964,6 +1020,14 @@
 
 1. [Motor Carrier Act of 1980 - Wikipedia](https://en.wikipedia.org/wiki/Motor_Carrier_Act_of_1980)
 2. [Forty Years After Surface Freight Deregulation](https://www.theregreview.org/2020/12/14/ellig-forty-years-after-surface-freight-deregulation/)
+
+## Reagan Launches General Election Campaign with 'States' Rights' Speech Near Civil Rights Murder Site
+*Date: 1980-08-03*
+
+1. [States' rights speech - Wikipedia](https://en.wikipedia.org/wiki/States'_rights_speech)
+2. [Aug. 3, 1980: Reagan Gives 'State's Rights' Speech at Neshoba County Fair](https://www.zinnedproject.org/news/tdih/reagan-speech-at-neshoba/)
+3. [Ronald Reagan's Neshoba County Speech](https://www.c-span.org/video/?293124-1/ronald-reagans-neshoba-county-speech)
+4. [Reagan and Philadelphia](https://washingtonmonthly.com/2004/06/10/reagan-and-philadelphia/)
 
 ## Ronald Reagan Elected President, Conservative Infrastructure Achieves Powell Memo Goals
 *Date: 1980-11-04*
@@ -1073,6 +1137,13 @@
 3. [Changes in Antitrust Enforcement Policies and Activities](https://www.gao.gov/assets/ggd-91-2.pdf)
 4. [The Rise, Survival, and Potential Fall of the Reagan-Era Antitrust Consensus](https://www.promarket.org/2022/03/13/the-rise-survival-and-potential-fall-of-the-reagan-era-antitrust-consensus/)
 
+## Council for National Policy Founded with Schlafly as Founding Member, Creating Elite Conservative Network
+*Date: 1981-05-01*
+
+1. [Council for National Policy](https://www.sourcewatch.org/index.php/Council_for_National_Policy)
+2. [Phyllis Schlafly](https://en.wikipedia.org/wiki/Phyllis_Schlafly)
+3. [Council For National Policy](https://www.monitoringinfluence.org/org/the-council-for-national-policy/)
+
 ## Council for National Policy Founded - Secret Conservative Coordination Network
 *Date: 1981-05-01*
 
@@ -1096,6 +1167,14 @@
 3. [1981 Professional Air Traffic Controllers Organization strike](https://en.wikipedia.org/wiki/1981_Professional_Air_Traffic_Controllers_Organization_strike)
 4. [The Legacy of the Crushed 1981 PATCO Strike](https://jacobin.com/2021/08/reagan-patco-1981-strike-legacy-air-traffic-controllers-union-public-sector-strikebreaking)
 
+## Reagan Signs Economic Recovery Tax Act (ERTA) - Top Rate Slashed from 70% to 50%, Corporate Tax Cuts Total $150 Billion Over Five Years
+*Date: 1981-08-13*
+
+1. [Economic Recovery Tax Act of 1981](https://en.wikipedia.org/wiki/Economic_Recovery_Tax_Act_of_1981)
+2. [Retrospective on the 1981 Reagan Tax Cut](https://taxfoundation.org/research/all/federal/retrospective-1981-reagan-tax-cut/)
+3. [Reagan signs Economic Recovery Tax Act (ERTA)](https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta)
+4. [H.R.4242 - Economic Recovery Tax Act of 1981](https://www.congress.gov/bill/97th-congress/house-bill/4242)
+
 ## Reagan Signs ERTA: Massive Tax Cuts for Wealthy Begin Inequality Explosion
 *Date: 1981-08-13*
 
@@ -1103,6 +1182,13 @@
 2. [Reagan signs Economic Recovery Tax Act](https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta)
 3. [Retrospective on the 1981 Reagan Tax Cut](https://taxfoundation.org/research/all/federal/retrospective-1981-reagan-tax-cut/)
 4. ["Reaganomics": The Economic Recovery Tax Act of 1981](https://reagan.blogs.archives.gov/2016/08/15/reaganomics-the-economic-recovery-tax-act-of-1981/)
+
+## Lee Atwater's Recorded Confession Explains Evolution of Racial Dog Whistle Politics
+*Date: 1981-11-13*
+
+1. [Exclusive: Lee Atwater's Infamous 1981 Interview on the Southern Strategy](https://www.thenation.com/article/archive/exclusive-lee-atwaters-infamous-1981-interview-southern-strategy/)
+2. [Lee Atwater's Infamous 1981 Interview on the Southern Strategy](https://www.bunkhistory.org/resources/lee-atwaters-infamous-1981-interview-on-the-southern-strategy)
+3. [Dog whistle (politics) - Wikipedia](https://en.wikipedia.org/wiki/Dog_whistle_(politics))
 
 ## CNP Completes "Three-Legged Stool" with Heritage and ALEC - Coordination Infrastructure Operational
 *Date: 1981-12-01*
@@ -1177,6 +1263,20 @@
 3. [Merger guidelines - Wikipedia](https://en.wikipedia.org/wiki/Merger_guidelines)
 4. [Antitrust Enforcement and the Rule of Law](https://www.mercatus.org/research/policy-briefs/antitrust-enforcement-and-rule-of-law)
 
+## Equal Rights Amendment Defeated After Schlafly's Decade-Long Campaign, Establishing Conservative Movement Model
+*Date: 1982-06-30*
+
+1. [How Phyllis Schlafly Derailed the Equal Rights Amendment](https://www.history.com/articles/equal-rights-amendment-failure-phyllis-schlafly)
+2. [Phyllis Schlafly and the End of the Equal Rights Amendment](https://boundarystones.weta.org/2022/04/20/phyllis-schlafly-and-end-equal-rights-amendment)
+3. [Life Story: Phyllis Schlafly](https://wams.nyhistory.org/growth-and-turmoil/feminism-and-the-backlash/phyllis-schlafly/)
+
+## Reagan Signs TEFRA Reversing Much of ERTA - Largest Peacetime Tax Increase Raises $100 Billion After Revenue Collapse
+*Date: 1982-09-03*
+
+1. [Tax Equity and Fiscal Responsibility Act of 1982](https://en.wikipedia.org/wiki/Tax_Equity_and_Fiscal_Responsibility_Act_of_1982)
+2. [H.R.4961 - Tax Equity and Fiscal Responsibility Act of 1982](https://www.congress.gov/bill/97th-congress/house-bill/4961)
+3. [Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA)](https://www.reaganlibrary.gov/archives/topic-guide/tax-equity-and-fiscal-responsibility-act-1982-tefra)
+
 ## Reagan Supports Philippine Dictator Marcos Despite Massive Kleptocracy
 *Date: 1982-09-16*
 
@@ -1201,6 +1301,14 @@
 3. [The Garn-St Germain Depository Institutions Act of 1982](https://www.chicagofed.org/publications/economic-perspectives/1983/march-april-garcia)
 4. [Legislative History and Economic Impact of the Garn-St Germain Depository Institutions Act](https://www.congress.gov/bill/97th-congress/house-bill/6267)
 
+## RNC Signs Consent Decree Banning Voter Intimidation After Armed Ballot Security Task Force
+*Date: 1982-11-01*
+
+1. [Ballot Security Task Force - Wikipedia](https://en.wikipedia.org/wiki/Ballot_Security_Task_Force)
+2. [DNC v. RNC Consent Decree](https://www.brennancenter.org/our-work/court-cases/dnc-v-rnc-consent-decree)
+3. [Decades-Old Consent Decree Lifted Against RNC's 'Ballot Security' Measures](https://www.npr.org/2018/01/09/576858203/decades-old-consent-decree-lifted-against-rncs-ballot-security-measures)
+4. [With a landmark court order expired, a 1981 campaign of voter suppression might point to trouble in 2020](https://www.cbc.ca/radio/day6/voter-suppression-halloween-heroes-rubik-s-cube-s-creator-watchdogs-legion-dolly-parton-s-songs-and-more-1.5782336/with-a-landmark-court-order-expired-a-1981-campaign-of-voter-suppression-might-point-to-trouble-in-2020-1.5782358)
+
 ## SEC Adopts Rule 10b-18, Legalizing Stock Buybacks and Creating Major Wealth Extraction Mechanism
 *Date: 1982-11-17*
 
@@ -1214,6 +1322,13 @@
 1. [The Heritage Foundation - Wikipedia](https://en.wikipedia.org/wiki/The_Heritage_Foundation)
 2. [REAGAN AND HERITAGE - A Unique Partnership](https://www.heritage.org/conservatism/commentary/reagan-and-heritage-unique-partnership)
 3. [Heritage Foundation - SourceWatch](https://www.sourcewatch.org/index.php/Heritage_Foundation)
+
+## Corrections Corporation of America Founded in Nashville, Launching Modern Private Prison Industry
+*Date: 1983-01-28*
+
+1. [CoreCivic](https://en.wikipedia.org/wiki/CoreCivic)
+2. [Corrections Corporation of America - Company History](https://www.company-histories.com/Corrections-Corporation-of-America-Company-History.html)
+3. [CoreCivic](https://www.sourcewatch.org/index.php/CoreCivic)
 
 ## Anne Gorsuch Resigns EPA After Contempt of Congress: Regulatory Capture Exposed
 *Date: 1983-03-09*
@@ -1281,6 +1396,13 @@
 2. [Manhattan Institute for Policy Research](https://sourcewatch.org/index.php/Manhattan_Institute_for_Policy_Research)
 3. [Manhattan Institute for Policy Research Funding Data](http://conservativetransparency.org/org/manhattan-institute-for-policy-research/)
 4. [Manhattan Institute](https://militarist-monitor.org/profile/manhattan_institute/)
+
+## First Fully Privatized Prison Opens in Houston Under CCA Contract with Immigration and Naturalization Service
+*Date: 1984-01-22*
+
+1. [T. Don Hutto](https://en.wikipedia.org/wiki/T._Don_Hutto)
+2. [CoreCivic](https://en.wikipedia.org/wiki/CoreCivic)
+3. [Houston to Host World's First Museum Dedicated to the Private Prison Industry](https://freepresshouston.com/holiday_inn/)
 
 ## Charles Keating Purchases Lincoln S&L: Systematic Fraud Network
 *Date: 1984-02-01*
@@ -1442,12 +1564,27 @@
 2. [House Overrides President Reagan's Veto of Anti-Apartheid Act](https://history.house.gov/Historical-Highlights/1951-2000/The-House-overrides-President-Reagan_s-veto-of-the-Comprehensive-Anti_Apartheid-Act/)
 3. [Reagan's Veto Overridden; Sanctions Voted on South Africa](https://www.nytimes.com/1986/10/03/world/reagan-s-veto-overridden-sanctions-voted-on-south-africa.html)
 
+## Corrections Corporation of America Goes Public on NASDAQ at $9 Per Share, Wall Street Bets on Mass Incarceration
+*Date: 1986-10-01*
+
+1. [Investor FAQs](https://ir.corecivic.com/investor-faqs)
+2. [History of Corrections Corporation of America](https://www.fundinguniverse.com/company-histories/corrections-corporation-of-america-history/)
+3. [CoreCivic](https://en.wikipedia.org/wiki/CoreCivic)
+
 ## Koop Releases AIDS Report After Five-Year Delay: Public Health vs Politics
 *Date: 1986-10-22*
 
 1. [C. Everett Koop and First Surgeon General Report on AIDS](https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/)
 2. [AIDS, the Surgeon General, and Politics of Public Health](https://profiles.nlm.nih.gov/spotlight/qq/feature/aids)
 3. [C. Everett Koop: Pioneering Surgeon General](https://www.thedailybeast.com/c-everett-koop-pioneering-surgeon-general-spurred-reagan-response-to-aids/)
+
+## Reagan Signs Tax Reform Act of 1986 - Top Individual Rate Cut from 50% to 28%, Corporate Rate Slashed from 46% to 34%, Tax Brackets Reduced from 16 to 2
+*Date: 1986-10-22*
+
+1. [Tax Reform Act of 1986](https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986)
+2. [The Tax Reform Act of 1986](https://www.jec.senate.gov/public/_cache/files/67d0d81b-a878-46ab-8a5e-e75dc050cc25/primertra1986.pdf)
+3. [1986 RIP: Different Tax Rates for Different Income Sources](https://taxpolicycenter.org/taxvox/1986-rip-different-tax-rates-different-income-sources)
+4. [1986 Tax Reform Economics and Why It Didn't Create Growth](https://taxfoundation.org/blog/economics-1986-tax-reform-didnt-create-growth/)
 
 ## Tax Reform Act of 1986 - Corporate Lobbying Secures Massive Rate Reductions
 *Date: 1986-10-22*
@@ -1595,6 +1732,14 @@
 1. [The Rush Limbaugh Show](https://en.wikipedia.org/wiki/The_Rush_Limbaugh_Show)
 2. [How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media](https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/)
 3. [Rush Limbaugh](https://en.wikipedia.org/wiki/Rush_Limbaugh)
+
+## Bush Campaign Deploys Willie Horton Ad Weaponizing Racial Fear of Black Criminals
+*Date: 1988-09-21*
+
+1. [Willie Horton - Wikipedia](https://en.wikipedia.org/wiki/Willie_Horton)
+2. [How the Willie Horton Ad Played on Racism and Fear](https://www.history.com/articles/george-bush-willie-horton-racist-ad)
+3. [This is the 30-year-old Willie Horton ad everybody is talking about today](https://www.cnn.com/2018/11/01/politics/willie-horton-ad-1988-explainer-trnd)
+4. [Who Is Willie Horton? How a Political Ad Made a Man into a U.S. Nightmare](https://www.themarshallproject.org/2015/05/13/willie-horton-revisited)
 
 ## Silverado S&L Collapses: Neil Bush Conflict of Interest Costs Taxpayers $1 Billion
 *Date: 1988-12-01*
@@ -1778,6 +1923,13 @@
 2. [FDIC Publication - Charles Keating and Lincoln Savings and Loan](https://www.fdic.gov/publications/charles-keating-and-lincoln-savings-and-loan)
 3. [NPR: Keating Case Legal Proceedings Update](https://www.npr.org/1996/12/03/1041592/keating)
 
+## Jesse Helms 'White Hands' Ad Weaponizes Affirmative Action Against Black Senate Candidate
+*Date: 1990-10-29*
+
+1. [Hands (advertisement) - Wikipedia](https://en.wikipedia.org/wiki/Hands_(advertisement))
+2. [Political Pro With Race-Baiting Past Doesn't See It In Romney's Welfare Charge](https://www.npr.org/sections/itsallpolitics/2012/09/10/160885683/political-pro-with-race-baiting-past-doesnt-see-it-in-romneys-welfare-charge)
+3. [Anti-Affirmative Action Political Ad from Jesse Helms's 1990 Campaign](https://thesocietypages.org/socimages/2008/05/05/anti-affirmative-action-political-ad-from-jesse-helmss-1990-campaign/)
+
 ## George C. Marshall Institute Becomes Central Node in Fossil Fuel-Funded Climate Denial
 *Date: 1991-01-01*
 
@@ -1864,6 +2016,14 @@
 2. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
 3. [How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions](https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf)
 
+## Clinton Uses 'Sister Souljah Moment' to Distance Democrats from Black Community
+*Date: 1992-06-13*
+
+1. [Sister Souljah moment - Wikipedia](https://en.wikipedia.org/wiki/Sister_Souljah_moment)
+2. [CLINTON STUNS RAINBOW COALITION](https://www.washingtonpost.com/archive/politics/1992/06/14/clinton-stuns-rainbow-coalition/02d7564f-5472-4081-b6b2-2fe5b849fa60/)
+3. [BILL CLINTON'S DEBT TO SISTER SOULJAH](https://www.chicagotribune.com/news/ct-xpm-1992-10-28-9204070622-story.html)
+4. [How Sister Souljah Went From Radical Activist to Scapegoat to Blockbuster Novelist](https://www.thenation.com/article/society/sister-souljah-coldest-winter/)
+
 ## Defense Secretary Caspar Weinberger Indicted on Five Iran-Contra Felonies
 *Date: 1992-06-16*
 
@@ -1906,6 +2066,15 @@
 2. [Bad Boy Records](https://en.wikipedia.org/wiki/Bad_Boy_Records)
 3. [Bad Boy Worldwide Entertainment Group Company History](https://www.fundinguniverse.com/company-histories/bad-boy-worldwide-entertainment-group-history/)
 4. [Bad Boy Entertainment: Origins and Rise (1992-1996)](https://www.blackpast.org/african-american-history/groups-organizations-african-american-history/bad-boy-entertainment-1992/)
+
+## Carried Interest Loophole Becomes Institutionalized Tax Dodge - Private Equity and Hedge Fund Managers Pay 23.8% Capital Gains Rate Instead of 40.8% Ordinary Income Rate on Compensation
+*Date: 1993-01-01*
+
+1. [Carried interest](https://en.wikipedia.org/wiki/Carried_interest)
+2. [What is carried interest, and how is it taxed?](https://taxpolicycenter.org/briefing-book/what-carried-interest-and-should-it-be-taxed-capital-gain)
+3. [What Is the Carried Interest Loophole, and Why Is It So Difficult to Close?](https://www.pgpf.org/article/what-is-the-carried-interest-loophole-and-why-is-it-so-difficult-to-close/)
+4. [Tax Carried Interest as Ordinary Income](https://www.cbo.gov/budget-options/60946)
+5. [Close the carried interest loophole that is a tax dodge for super-rich private equity executives](https://ourfinancialsecurity.org/resources/close-the-carried-interest-loophole-that-is-a-tax-dodge-for-super-rich-private-equity-executives/)
 
 ## Grover Norquist Wednesday Meetings Begin - Conservative Coordination Hub
 *Date: 1993-01-01*
@@ -1999,6 +2168,13 @@
 1. [Whitewater controversy](https://en.wikipedia.org/wiki/Whitewater_controversy)
 2. [Clinton Scandals - A Guide From Whitewater To The Clinton Foundation](https://www.npr.org/2016/06/12/481718785/clinton-scandals-a-guide-from-whitewater-to-the-clinton-foundation)
 3. [Whitewater affair](https://www.britannica.com/topic/Whitewater-affair)
+
+## Wackenhut Corrections (Later GEO Group) Goes Public on NASDAQ, Second Major Private Prison Company Enters Wall Street
+*Date: 1994-07-01*
+
+1. [GEO Group](https://en.wikipedia.org/wiki/GEO_Group)
+2. [History Timeline](https://www.geogroup.com/about-us/history-timeline/)
+3. [Wackenhut Changes Name to Geo Group, Politics Remain the Same](https://www.prisonlegalnews.org/news/2004/jun/15/wackenhut-changes-name-to-geo-group-politics-remain-the-same/)
 
 ## Kenneth Starr Replaces Robert Fiske as Whitewater Independent Counsel
 *Date: 1994-08-05*
@@ -2951,6 +3127,14 @@
 3. [Beyond Counting Votes: The Political Economy of Bush v. Gore](https://scholarship.law.gwu.edu/faculty_publications/245/)
 4. [2000 United States Presidential Election Recount in Florida](https://en.wikipedia.org/wiki/2000_United_States_presidential_election_recount_in_Florida)
 
+## Brooks Brothers Riot: Republican Operatives Physically Stop Miami-Dade Recount
+*Date: 2000-11-22*
+
+1. [Brooks Brothers riot - Wikipedia](https://en.wikipedia.org/wiki/Brooks_Brothers_riot)
+2. [How the 'Brooks Brothers Riot' Set the Stage for Insurrection](https://www.thenation.com/article/politics/brooks-brothers-riot/)
+3. [Twenty Years Ago, Rioters Tried to Stop a Presidential Vote Count – and Succeeded](https://historynewsnetwork.org/article/179367)
+4. [2000 Florida recount: How the 'Brooks Brothers Riot' killed the Bush-Gore recount in Miami](https://www.washingtonpost.com/history/2018/11/15/its-insanity-how-brooks-brothers-riot-killed-recount-miami/)
+
 ## Katherine Harris Certifies Bush Victory While Serving as Campaign Co-Chair
 *Date: 2000-11-26*
 
@@ -3127,6 +3311,14 @@
 1. [PolitiFact: Donald Trump's claim of "no financial interests" in Saudi Arabia? That's Half True at best](https://www.politifact.com/factchecks/2018/oct/18/donald-trump/donald-trumps-claim-no-financial-interests-saudi-a)
 2. [Saudi rentals at Trump World Tower raise conflict-of-interest concerns: Report](https://www.middleeasteye.net/news/foreign-counties-lease-trump-world-tower-emoluments-concerns-heighten)
 3. [Trump and Saudi Arabia: Deep business ties spark new scrutiny](https://www.cbsnews.com/news/trump-and-saudi-arabia-deep-business-ties-spark-new-scrutiny)
+
+## Bush Signs EGTRRA Tax Cuts - Top Rate Reduced from 39.6% to 35%, Estate Tax Phased Out, Beginning $1.5 Trillion Debt Increase
+*Date: 2001-06-07*
+
+1. [Economic Growth and Tax Relief Reconciliation Act of 2001](https://en.wikipedia.org/wiki/Economic_Growth_and_Tax_Relief_Reconciliation_Act_of_2001)
+2. [The Legacy of the 2001 and 2003 'Bush' Tax Cuts](https://www.cbpp.org/research/federal-tax/the-legacy-of-the-2001-and-2003-bush-tax-cuts)
+3. [Tenth Anniversary of the Bush-era Tax Cuts](https://www.epi.org/publication/tenth_anniversary_of_the_bush-era_tax_cuts/)
+4. [Tax Relief](https://georgewbush-whitehouse.archives.gov/infocus/taxes/)
 
 ## Oracle Hires CIA Executive Director David Carney, Establishes Information Assurance Center
 *Date: 2001-09-04*
@@ -3723,6 +3915,14 @@
 2. [Trump called Epstein a 'terrific guy' who enjoyed 'younger' women](https://www.washingtonpost.com/politics/trump-called-epstein-a-terrific-guy-before-denying-relationship-with-him/2019/07/08/a01e0f00-a1be-11e9-bd56-eac6bb02d01d_story.html)
 3. [Fact Check - Trump Epstein 'Terrific Guy' Quote](https://www.snopes.com/fact-check/trump-epstein-terrific-guy)
 
+## Help America Vote Act Signed: Provisional Ballots, Voter ID, and Electronic Voting Vulnerabilities
+*Date: 2002-10-29*
+
+1. [Help America Vote Act - Wikipedia](https://en.wikipedia.org/wiki/Help_America_Vote_Act)
+2. [Help America Vote Act](https://www.eac.gov/about/help_america_vote_act.aspx)
+3. [The Help America Vote Act of 2002 (HAVA)](https://www.congress.gov/crs_external_products/R/PDF/R46949/R46949.12.pdf)
+4. [H.R.3295 - Help America Vote Act of 2002](https://www.congress.gov/bill/107th-congress/house-bill/3295)
+
 ## OSP Fabricates Iraq-Al Qaeda Connection Intelligence for WHIG Distribution
 *Date: 2002-11-05*
 
@@ -3925,6 +4125,14 @@
 1. [The Impact of CPA Decisionmaking on Iraq Reconstruction](https://www.govinfo.gov/content/pkg/CHRG-110hhrg36545/html/CHRG-110hhrg36545.htm)
 2. [Major Findings: DPC Oversight Hearings on Waste, Fraud, and Corruption in Iraq](https://www.dpc.senate.gov/documents/dpc-iraq-report.pdf)
 3. [Iraq: Bremer CPA Lost Track of  Billion in Oil Revenues](https://corpwatch.org/article/iraq-bremer-cpa-lost-track-9-billion-oil-revenues-meant-rebuilding)
+
+## Bush Signs JGTRRA - Dividend and Capital Gains Rates Slashed to 15%, Massively Favoring Investment Income Over Wages
+*Date: 2003-05-28*
+
+1. [Jobs and Growth Tax Relief Reconciliation Act of 2003](https://en.wikipedia.org/wiki/Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003)
+2. [The Legacy of the 2001 and 2003 'Bush' Tax Cuts](https://www.cbpp.org/research/federal-tax/the-legacy-of-the-2001-and-2003-bush-tax-cuts)
+3. [Bush tax cuts](https://en.wikipedia.org/wiki/Bush_tax_cuts)
+4. [The Legacy of the Bush Tax Cuts on Taxpayers and the Economy](https://www.thebalancemoney.com/president-george-bush-tax-cuts-3306331)
 
 ## FCC Attempts Massive Media Deregulation Under Michael Powell Despite 97% Public Opposition
 *Date: 2003-06-02*
@@ -4210,6 +4418,14 @@
 2. [columbusfreepress.com](https://columbusfreepress.com/article/diebold-indicted-its-spectre-still-haunts-ohio-elections)
 3. [money.cnn.com](https://money.cnn.com/magazines/fortune/fortune_archive/2006/11/13/8393084/)
 4. [verifiedvoting.org](https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/)
+
+## Ohio Secretary of State Blackwell Allocates Voting Machines to Favor Bush in Swing State
+*Date: 2004-11-02*
+
+1. [J. Kenneth Blackwell - SourceWatch](https://sourcewatch.org/index.php/J._Kenneth_Blackwell)
+2. [Former Ohio Elections Chief Blackwell Brings a Troubled Record](https://www.brennancenter.org/sites/default/files/analysis/Ken_Blackwell.pdf)
+3. [2004 United States election voting controversies - Wikipedia](https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies)
+4. [New Ohio voter transcripts feed floodtide of doubt about Republican election manipulation](https://www.freepress.org/departments/display/19/2004/930)
 
 ## FDA Whistleblower David Graham Testifies on Vioxx Cover-up Before Senate
 *Date: 2004-11-18*
@@ -5021,6 +5237,14 @@
 2. [Jack Abramoff Indian lobbying scandal - Wikipedia](https://en.wikipedia.org/wiki/Jack_Abramoff_Indian_lobbying_scandal)
 3. [Abramoff: Lobbying Congress - Ethics Unwrapped](https://ethicsunwrapped.utexas.edu/case-study/abramoff-lobbying-congress)
 
+## Kids for Cash Scandal Exposed: Pennsylvania Judges Accepted $2.8 Million in Kickbacks to Fill Private Juvenile Detention Centers
+*Date: 2008-09-11*
+
+1. [Kids for cash scandal](https://en.wikipedia.org/wiki/Kids_for_cash_scandal)
+2. [Luzerne 'Kids for Cash' Scandal](https://jlc.org/luzerne-kids-cash-scandal)
+3. [Former judges who sent kids to jail for money must pay more than $200 million](https://www.npr.org/2022/08/18/1118108084/michael-conahan-mark-ciavarella-kids-for-cash)
+4. [Judges who got kickbacks for sending kids to for-profit jails ordered to pay $200 million](https://www.cbsnews.com/news/kids-for-cash-judges-mark-ciavarella-michael-conahan-200-million-damages/)
+
 ## Lehman Brothers Files Largest Bankruptcy in U.S. History with $639 Billion in Assets After Government Refuses Bailout, Creating Arbitrary 'Too Big to Fail' Enforcement Where Bear Stearns and AIG Were Rescued But Lehman Was Allowed to Collapse, Triggering Global Financial Panic
 *Date: 2008-09-15*
 
@@ -5319,12 +5543,28 @@
 2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
 3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
 
+## True the Vote Founded: Tea Party Poll Watching and Voter Challenge Operations Begin
+*Date: 2009-07-01*
+
+1. [True the Vote - Wikipedia](https://en.wikipedia.org/wiki/True_the_Vote)
+2. [How True the Vote Fabricates Claims of Election Fraud, for Fun and Profit](https://www.texasmonthly.com/news-politics/true-the-vote-election-fraud/)
+3. [True the Vote Voter Intimidation Case Goes to Trial in Georgia](https://www.democracydocket.com/analysis/true-the-vote-voter-intimidation-case-goes-to-trial-in-georgia/)
+4. [True the Vote - SourceWatch](https://www.sourcewatch.org/index.php/True_the_Vote)
+
 ## ALEC Creates Model Voter ID Legislation Following Obama Election
 *Date: 2009-07-17*
 
 1. [Voter ID Act Exposed](https://www.alecexposed.org/wiki/Voter_ID_Act_Exposed)
 2. [Voter ID drive part of quiet, well-funded national conservative effort](https://www.mprnews.org/story/2012/03/04/voter-id-alec)
 3. [Flurry of Voter ID laws tied to conservative group ALEC](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652)
+
+## James O'Keefe's Deceptively Edited ACORN Videos Trigger Destruction of Voter Registration Organization
+*Date: 2009-09-01*
+
+1. [ACORN 2009 undercover videos controversy - Wikipedia](https://en.wikipedia.org/wiki/ACORN_2009_undercover_videos_controversy)
+2. [James O'Keefe Pays $100K Settlement after Deceiving Public about ACORN](https://www.prwatch.org/news/2013/03/12019/james-o'keefe-pays-100k-settlement-after-deceiving-public-about-acorn-alec's-help)
+3. [James O'Keefe - Wikipedia](https://en.wikipedia.org/wiki/James_O%27Keefe)
+4. [Reminder: James O'Keefe has a history of failing to discredit journalists](https://www.salon.com/2017/11/28/reminder-james-okeefe-has-a-history-of-failing-to-discredit-journalists/)
 
 ## 9/12 Taxpayer March on Washington Demonstrates Koch Network Mobilization Power
 *Date: 2009-09-12*
@@ -5355,6 +5595,13 @@
 2. [Brownskins and Greenbacks: ALEC, the For-Profit Prison Industry and Arizona's SB 1070](https://www.prwatch.org/news/2011/08/10947/brownskins-and-greenbacks-alec-profit-prison-industry-and-arizona%E2%80%99s-sb-1070)
 3. [Private Prison Companies Behind the Scenes of Arizona's Immigration Law](https://www.prisonlegalnews.org/news/2010/nov/15/private-prison-companies-behind-the-scenes-of-arizonas-immigration-law/)
 4. [SB 1070](https://sourcewatch.org/index.php/SB_1070)
+
+## University of Phoenix Settles $78.5 Million False Claims Act Lawsuit for Illegal Recruiter Incentive Compensation
+*Date: 2009-12-14*
+
+1. [$78.5M Settles U. of Phoenix Case](https://www.insidehighered.com/news/2009/12/15/785m-settles-u-phoenix-case)
+2. [University of Phoenix Settles False Claims Act Lawsuit for $67.5 Million](https://www.justice.gov/archives/opa/pr/university-phoenix-settles-false-claims-act-lawsuit-675-million)
+3. [University of Phoenix settles qui tam suit for $78.5 million](https://www.phillipsandcohen.com/university-of-phoenix-settles-qui-tam-suit-for-78-5-million/)
 
 ## Former CDC Director Julie Gerberding Joins Merck as Vaccine Division President
 *Date: 2009-12-21*
@@ -5719,6 +5966,14 @@
 2. [Flurry of Voter ID laws tied to conservative group ALEC](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652)
 3. [Voting Rights in 2011 - A Legislative Round-Up](https://www.brennancenter.org/our-work/research-reports/voting-rights-2011-legislative-round)
 
+## ALEC Voter ID Model Legislation Spreads: 62 Bills in 37 States Following 2010 GOP Wave
+*Date: 2011-01-01*
+
+1. [Flurry of Voter ID laws tied to conservative group ALEC](https://www.nbcnews.com/news/investigations/flurry-voter-id-laws-tied-conservative-group-alec-flna955652)
+2. [Voter ID drive part of quiet, well-funded national conservative effort](https://www.mprnews.org/story/2012/03/04/voter-id-alec)
+3. [Flurry of Photo ID Laws Tied to Conservative Washington Group](https://votingrights.news21.com/article/movement/index.html)
+4. [DOJ Rejects ALEC-Inspired Voter ID Bill in South Carolina](https://www.prwatch.org/news/2011/12/11203/doj-rejects-alec-inspired-voter-id-bill-south-carolina)
+
 ## Arizona Becomes First State to Enact ALEC-Inspired Education Savings Accounts - Pioneering Universal Voucher Path
 *Date: 2011-01-01*
 
@@ -5800,6 +6055,15 @@
 2. [Evan Bayh - Revolving Door Summary](https://www.opensecrets.org/revolving-door/bayh-evan/summary?id=76382)
 3. [Evan Bayh spent his final year in the Senate trying to find a job in the private sector](https://www.theblaze.com/news/2016/10/08/evan-bayh-spent-his-final-year-in-the-senate-trying-to-find-a-job-in-the-private-sector)
 
+## House Republicans Launch Six Years of Symbolic ACA Repeal Votes
+*Date: 2011-01-19*
+
+1. [Efforts to repeal the Affordable Care Act](https://en.wikipedia.org/wiki/Efforts_to_repeal_the_Affordable_Care_Act)
+2. [Timeline of ACA repeal and replace efforts](https://ballotpedia.org/Timeline_of_ACA_repeal_and_replace_efforts)
+3. [The House Voted to Repeal Obamacare More Than 50 Times](https://time.com/4712725/ahca-house-repeal-votes-obamacare/)
+4. [GOP Lawmakers Now Admit Years of Obamacare Repeal Votes Were a Sham](https://theintercept.com/2017/03/31/repeal-votes-obamacare/)
+5. [GOP Aims To Kill Obamacare Yet Again After Failing 70 Times](https://www.newsweek.com/gop-health-care-bill-repeal-and-replace-70-failed-attempts-643832)
+
 ## Chris Dodd Becomes Hollywood's Chief Lobbyist After Promising No Lobbying
 *Date: 2011-03-01*
 
@@ -5843,6 +6107,14 @@
 2. [Natural Resource Trustees Announce Deepwater Horizon Oil Spill Restoration Agreement](https://www.justice.gov/opa/pr/natural-resource-trustees-deepwater-horizon-oil-spill-announce-1-billion-agreement-fund-early)
 3. [10 Years of NOAA's Work After the Deepwater Horizon Oil Spill: A Timeline](https://www.fisheries.noaa.gov/national/habitat-conservation/10-years-noaas-work-after-deepwater-horizon-oil-spill-timeline)
 
+## Trump's Birtherism Campaign Forces Obama to Release Long-Form Birth Certificate
+*Date: 2011-04-27*
+
+1. [Barack Obama citizenship conspiracy theories - Wikipedia](https://en.wikipedia.org/wiki/Barack_Obama_citizenship_conspiracy_theories)
+2. [How Donald Trump Perpetuated the 'Birther' Movement for Years](https://abcnews.go.com/Politics/donald-trump-perpetuated-birther-movement-years/story?id=42138176)
+3. [14 of Trump's most outrageous 'birther' claims – half from after 2011](https://www.cnn.com/2016/09/09/politics/donald-trump-birther/)
+4. [Trump on Birtherism: Wrong, and Wrong](https://www.factcheck.org/2016/09/trump-on-birtherism-wrong-and-wrong/)
+
 ## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
 *Date: 2011-05-01*
 
@@ -5877,6 +6149,13 @@
 1. [Goldman Appoints Former Senator, Governor As International Advisor](https://www.familywealthreport.com/article.php/Goldman-Appoints-Former-Senator,-Governor-As-International-Advisor)
 2. [The revolving door keeps spinning](https://www.salon.com/2011/06/01/former_senators_now_with_investment_banks_and_lobbying_firms/)
 3. [Judd Gregg](https://sourcewatch.org/index.php/Judd_Gregg)
+
+## Department of Education Issues Gainful Employment Rule to Regulate For-Profit Colleges, Industry Immediately Challenges in Court
+*Date: 2011-06-13*
+
+1. [The Tortured Path of the Gainful Employment Rule](https://www.americanprogress.org/article/the-tortured-path-of-the-gainful-employment-rule/)
+2. [Final Gainful Employment Rule Offers Students Necessary Protections](https://www.newamerica.org/education-policy/edcentral/final-gainful-employment-rule/)
+3. [Gainful Employment Take One: Motivation, History, and the Reality of the New Rules](https://www.richmondfed.org/region_communities/regional_data_analysis/surveys/community_college/community_college_insights/2024/gainful_employment_20240322)
 
 ## Rep. Anthony Weiner Resigns After Sexting Scandal and Cover-Up
 *Date: 2011-06-16*
@@ -6161,6 +6440,15 @@
 3. [Living Under Drones - Death, Injury, and Trauma to Civilians](https://www.law.stanford.edu/publications/living-under-drones-death-injury-and-trauma-to-civilians-from-us-drone-practices-in-pakistan)
 4. [Drone Strikes in Pakistan](https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan)
 
+## Supreme Court Makes ACA Medicaid Expansion Optional, Enabling State Obstruction
+*Date: 2012-06-28*
+
+1. [National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)](https://supreme.justia.com/cases/federal/us/567/519/)
+2. [National Federation of Independent Business v. Sebelius](https://constitutioncenter.org/the-constitution/supreme-court-case-library/nfib-v-sebelius)
+3. [Status of State Medicaid Expansion Decisions](https://www.kff.org/medicaid/status-of-state-medicaid-expansion-decisions/)
+4. [In the 10 states that didn't expand Medicaid, 1.6M can't afford health insurance](https://stateline.org/2024/07/19/in-the-10-states-that-didnt-expand-medicaid-1-6m-cant-afford-health-insurance/)
+5. [The Triumph of Politics Over Public Health: States Opting Out of Medicaid Expansion](https://pmc.ncbi.nlm.nih.gov/articles/PMC3935692/)
+
 ## Congress Overrides Army to Fund $255 Million in Unwanted Abrams Tank Upgrades to Protect General Dynamics Ohio Plant
 *Date: 2012-07-25*
 
@@ -6288,6 +6576,15 @@
 1. [Wells Fargo Fires 5,000 Employees Over Fake Accounts](https://www.npr.org/2016/09/09/493228759/wells-fargo-fires-5-000-employees-over-fake-accounts)
 2. [CFPB Enforcement Action: Wells Fargo Bank, N.A.](https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/)
 3. [Wells Fargo Fires About 5,300 Workers in Unauthorized Account Scandal](https://abcnews.go.com/US/wells-fargo-fires-5300-workers-unauthorized-account-scandal/story?id=41956019)
+
+## Obama Signs American Taxpayer Relief Act Making 82% of Bush Tax Cuts Permanent - 'Fiscal Cliff' Deal Locks in $2.8 Trillion in Tax Cuts for Wealthy
+*Date: 2013-01-02*
+
+1. [American Taxpayer Relief Act of 2012](https://en.wikipedia.org/wiki/American_Taxpayer_Relief_Act_of_2012)
+2. ['Fiscal Cliff' Deal Makes Permanent 82 Percent of Bush Tax Cuts](https://www.cbpp.org/blog/fiscal-cliff-deal-makes-permanent-82-percent-of-bush-tax-cuts)
+3. [Budget Deal Makes Permanent 82 Percent of President Bush's Tax Cuts](https://www.cbpp.org/research/budget-deal-makes-permanent-82-percent-of-president-bushs-tax-cuts)
+4. [The 'Fiscal Cliff' and the American Taxpayer Relief Act of 2012](https://www.everycrsreport.com/reports/R42884.html)
+5. [United States fiscal cliff](https://en.wikipedia.org/wiki/United_States_fiscal_cliff)
 
 ## Google's Political Influence Derails FTC Antitrust Investigation
 *Date: 2013-01-03*
@@ -6522,6 +6819,14 @@
 1. [Shelby County v. Holder, 570 U.S. 529 (2013)](https://supreme.justia.com/cases/federal/us/570/529/)
 2. [Reflecting On the 10th Anniversary of Shelby County v. Holder](https://www.justice.gov/archives/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder)
 3. [The Effects of Shelby County v. Holder](https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder)
+4. [Shelby County v. Holder](https://www.naacpldf.org/case-issue/shelby-county-v-holder/)
+
+## Shelby County v. Holder: Supreme Court Guts Voting Rights Act Preclearance
+*Date: 2013-06-25*
+
+1. [Shelby County v. Holder - Wikipedia](https://en.wikipedia.org/wiki/Shelby_County_v._Holder)
+2. [The Shelby County Decision](https://www.justice.gov/crt/shelby-county-decision)
+3. [Effects of Shelby County v. Holder on the Voting Rights Act](https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder-voting-rights-act)
 4. [Shelby County v. Holder](https://www.naacpldf.org/case-issue/shelby-county-v-holder/)
 
 ## Supreme Court Shelby County Decision Guts Voting Rights Act
@@ -6900,6 +7205,15 @@
 2. [Ukraine - Crimea, Eastern Ukraine, Conflict](https://www.britannica.com/place/Ukraine/The-crisis-in-Crimea-and-eastern-Ukraine)
 3. [Russia's Putin, Crimean Leaders Sign Annexation Treaty](https://www.rferl.org/a/russia-crimea-ukraine-treaty/25301179.html)
 
+## Supreme Court Strikes Down Aggregate Campaign Contribution Limits in McCutcheon v. FEC
+*Date: 2014-04-02*
+
+1. [McCutcheon v. Federal Election Commission, 572 U.S. 185 (2014)](https://www.law.cornell.edu/supremecourt/text/12-536)
+2. [McCutcheon v. FEC](https://www.fec.gov/legal-resources/court-cases/mccutcheon-et-al-v-fec/)
+3. [McCutcheon v. FEC](https://www.brennancenter.org/our-work/court-cases/mccutcheon-v-fec)
+4. [Supreme Court Addresses Major Questions Doctrine and EPA's Regulation of Greenhouse Gas Emissions](https://www.congress.gov/crs-product/LSB10791)
+5. [Breaking Down the McCutcheon Decision](https://gai.georgetown.edu/breaking-down-the-mccutcheon-decision/)
+
 ## Flint Switches to Corrosive River Water to Save Money, Poisoning Entire City
 *Date: 2014-04-25*
 
@@ -7152,6 +7466,14 @@
 3. [The CIA Torture Report - What You Need to Know](https://www.pbs.org/wgbh/frontline/article/the-cia-torture-report-what-you-need-to-know/)
 4. [Senate Torture Report](https://www.aclu.org/publications/senate-torture-report)
 
+## Marco Rubio's Risk Corridor Amendment Triggers ACA Insurance Market Destabilization
+*Date: 2014-12-16*
+
+1. [Marco Rubio: We 'wiped out' Obamacare 'bailout fund' for insurance companies](https://www.politifact.com/factchecks/2016/feb/25/marco-rubio/rubio-we-wiped-out-obamacare-bailout-fund-insuranc/)
+2. [Marco Rubio may not have 'killed' the ACA, but a new study suggests he bruised it](https://www.fiercehealthcare.com/aca/study-risk-corridor-program-rising-premiums-individual-market)
+3. [How the ACA 'Risk Corridor' Fallout Is Hurting Health Care](https://knowledge.wharton.upenn.edu/article/significance-risk-corridors-lawsuits/)
+4. [How much did Marco Rubio screw the insurance market? $8.3 billion and counting](https://acasignups.net/16/11/24/how-much-did-marco-rubio-screw-insurance-market-83-billion-and-counting)
+
 ## Congress Appropriates $120 Million for Unwanted Abrams Tanks for Third Consecutive Year Despite Army Opposition
 *Date: 2014-12-18*
 
@@ -7311,12 +7633,28 @@
 2. [Prosecutors detail sex abuse allegations against Dennis Hastert](https://www.pbs.org/newshour/nation/prosecutors-detail-sex-abuse-allegations-against-dennis-hastert)
 3. [Dennis Hastert](https://en.wikipedia.org/wiki/Dennis_Hastert)
 
+## Trump Launches Presidential Campaign Calling Mexican Immigrants 'Rapists' and Criminals
+*Date: 2015-06-16*
+
+1. [Donald Trump Announces Presidential Bid By Trashing Mexico, Mexicans](https://www.nbcnews.com/news/latino/donald-trump-announces-presidential-bid-trashing-mexico-mexicans-n376521)
+2. [Trump basically called Mexicans rapists again](https://www.cnn.com/2018/04/06/politics/trump-mexico-rapists/index.html)
+3. [Donald Trump: All the Times He's Insulted Mexico](https://time.com/4473972/donald-trump-mexico-meeting-insult/)
+4. [Trump's repeated use of the Mexican rapist trope is as old (and as racist) as colonialism](https://www.nbcnews.com/think/opinion/trump-s-repeated-use-mexican-rapist-trope-old-racist-colonialism-ncna863451)
+
 ## Northrop Grumman Pays $11.4 Million for Illegally Billing Executive Compensation to Federal Contracts
 *Date: 2015-06-18*
 
 1. [Northrop Grumman Corp. Pays $11.4 Million to Resolve Allegations That It Improperly Charged Costs to Government Contracts](https://www.justice.gov/archives/opa/pr/northrop-grumman-corp-pays-114-million-resolve-allegations-it-improperly-charged-costs)
 2. [Northrop Grumman Violation Tracker](https://violationtracker.goodjobsfirst.org/parent/northrop-grumman)
 3. [Defense Contractor Fraud](https://www.fraudfighters.net/industry-areas/defense-contractor-fraud/)
+
+## Supreme Court Rejects King v. Burwell Challenge to ACA Subsidies in Federal Exchanges
+*Date: 2015-06-25*
+
+1. [King v. Burwell, 576 U.S. 473 (2015)](https://supreme.justia.com/cases/federal/us/576/473/)
+2. [King v. Burwell](https://en.wikipedia.org/wiki/King_v._Burwell)
+3. [State-by-State Effects of a Ruling for the Challengers in King v. Burwell](https://www.kff.org/interactive/king-v-burwell-effects/)
+4. [King v. Burwell and Beyond: Implications for Public Health Policy and Practice](https://pmc.ncbi.nlm.nih.gov/articles/PMC4612182/)
 
 ## NBC Fires Trump from The Apprentice Following Racist Comments About Mexican Immigrants
 *Date: 2015-06-29*
@@ -7470,6 +7808,13 @@
 2. [Valeant Pharmaceuticals blasted by U.S. lawmakers over drug price hikes](https://www.cbc.ca/news/business/valeant-senate-ceo-1.3555259)
 3. [Valeant CEO Faces Hostile Congress, Regrets Drug Price Hikes](https://www.nbcnews.com/health/health-news/valeant-ceo-faces-hostile-congress-regrets-drug-price-hikes-n563386)
 4. [Pharmaceutical Company and Former Executives Charged With Misleading Financial Disclosures](https://www.sec.gov/newsroom/press-releases/2020-169)
+
+## Education Management Corporation (EDMC) Settles Largest-Ever For-Profit Education Fraud Case for $95.5 Million, Forgives $103 Million in Student Loans
+*Date: 2015-11-16*
+
+1. [For-Profit College Company to Pay $95.5 Million to Settle Claims of Illegal Recruiting, Consumer Fraud and Other Violations](https://www.justice.gov/archives/opa/pr/profit-college-company-pay-955-million-settle-claims-illegal-recruiting-consumer-fraud-and)
+2. [Obama administration, states reach major settlements with Education Management Corporation](https://www.insidehighered.com/news/2015/11/17/obama-administration-states-reach-major-settlements-education-management-corporation)
+3. [A.G. Schneiderman Announces $102.8 Million Settlement with EDMC to Forgive Student Loans and Reform Recruiting and Enrollment Practices](https://ag.ny.gov/press-release/2015/ag-schneiderman-announces-1028-million-settlement-edmc-forgive-student-loans-and)
 
 ## Johns Hopkins Study Exposes Orphan Drug Act Gaming - Seven of Top 10 Drugs Exploiting Tax Breaks for Rare Diseases
 *Date: 2015-11-19*
@@ -7625,6 +7970,13 @@
 2. [Trump Model Management lawsuit dismissed](https://www.washingtonpost.com/news/post-politics/wp/2016/04/01/trump-model-management-lawsuit-dismissed/)
 3. [Model's Lawsuit Against Donald Trump Agency Dismissed](https://abcnews.go.com/Politics/models-lawsuit-donald-trump-agency-dismissed/story?id=37878264)
 4. [Trump model to take case to U.S. government... but is it too late?](https://money.cnn.com/2016/03/23/news/trump-model-case/index.html)
+
+## Phyllis Schlafly Endorses Trump in Final Political Act, Passing Torch to Populist Movement
+*Date: 2016-03-11*
+
+1. [When Phyllis Schlafly made the case for Donald Trump](https://www.cnn.com/2016/09/07/politics/phyllis-schlafly-donald-trump-book/index.html)
+2. [Trump Honors 'Great Patriot,' Conservative Icon Phyllis Schlafly](https://www.nbcnews.com/politics/2016-election/donald-trump-honor-conservative-icon-phyllis-schlafly-funeral-n646101)
+3. [The Conservative Case for Trump](https://en.wikipedia.org/wiki/The_Conservative_Case_for_Trump)
 
 ## CDC Issues First Opioid Prescribing Guidelines, Twenty Years After OxyContin Launch
 *Date: 2016-03-15*
@@ -7915,6 +8267,13 @@
 3. [Airstrike Reportedly Hits Doctors Without Borders Facility In Yemen](https://www.npr.org/2018/06/12/619085964/airstrike-reportedly-hits-doctors-without-borders-facility-in-yemen)
 4. [Yemen - MSF hospital destroyed by airstrikes](https://www.msf.org/yemen-msf-hospital-destroyed-airstrikes)
 
+## Deputy Attorney General Sally Yates Issues Memo to Phase Out Federal Private Prisons, Citing Safety Problems and High Costs
+*Date: 2016-08-18*
+
+1. [Phasing Out Our Use of Private Prisons](https://www.justice.gov/archives/opa/blog/phasing-out-our-use-private-prisons)
+2. [Obama administration to end use of private prisons](https://www.pbs.org/newshour/nation/obama-administration-end-use-private-prisons)
+3. [BOP: Memorandum on Use of Private Prisons Rescinded](https://www.bop.gov/resources/news/20170224_doj_memo.jsp)
+
 ## Stone tweets "Podesta's time in the barrel" 47 days before WikiLeaks
 *Date: 2016-08-21*
 
@@ -8129,6 +8488,13 @@
 3. [Banker Gary Farro testifies about urgent request from Michael Cohen](https://www.washingtontimes.com/news/2024/apr/26/banker-gary-farro-testifies-about-urgent-request-m/)
 4. [Trump hush money trial highlights - Michael Cohen testifies about directed payment](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898)
 
+## Corrections Corporation of America Rebrands as CoreCivic After DOJ Phase-Out Announcement and Undercover Exposé
+*Date: 2016-10-28*
+
+1. [Corrections Corporation of America Rebrands as CoreCivic](https://www.corecivic.com/news/corrections-corporation-of-america-rebrands-as-corecivic)
+2. [Corrections Corporation of America, Rocked by Setbacks, Changes its Name](https://www.prisonlegalnews.org/news/2016/nov/8/corrections-corporation-america-rocked-setbacks-changes-its-name/)
+3. [Private Prison Giant CCA To 'Rebrand' as CoreCivic](https://www.nashvillescene.com/news/pithinthewind/private-prison-giant-cca-to-rebrand-as-corecivic/article_cf13f01c-76d1-5168-ba20-a5d3349932d4.html)
+
 ## Boeing Obtains FAA Approval to Conceal MCAS System from Pilot Manuals and Training
 *Date: 2016-11-01*
 
@@ -8143,6 +8509,13 @@
 2. [Ronan Farrow says Enquirer shredded documents](https://www.cnn.com/2019/10/14/media/ronan-farrow-american-media-national-enquirer/index.html)
 3. [AP: National Enquirer Kept Damaging Trump Stories in Safe](https://www.cbsnews.com/news/ap-national-enquirer-kept-damaging-trump-stories-hush-money-papers-in-safe/)
 4. [Ronan Farrow Book Reveals National Enquirer's Trump Document Destruction](https://www.npr.org/2024/06/06/g-s1-3170/ronan-farrow-me-too-trump-weinstein-catch-and-kill)
+
+## Private Prison Stocks Surge After Trump Election Victory, CoreCivic Up 43% and GEO Group Up 21% in Single Day
+*Date: 2016-11-09*
+
+1. [Stock Prices for Private Prison Firms Surge After Trump Elected President](https://www.prisonlegalnews.org/news/2017/apr/3/stock-prices-private-prison-firms-surge-after-trump-elected-president/)
+2. [Private prison stocks up 100% since Trump's win](https://money.cnn.com/2017/02/24/investing/private-prison-stocks-soar-trump/index.html)
+3. [What Trump's Victory Means for the Private Prison Industry](https://www.brennancenter.org/our-work/analysis-opinion/what-trumps-victory-means-private-prison-industry)
 
 ## Trump settles Trump University fraud for $25M; 7,000 victims recover 90% of costs
 *Date: 2016-11-18*
@@ -8213,6 +8586,15 @@
 
 1. [Clearview AI - Wikipedia](https://en.wikipedia.org/wiki/Clearview_AI)
 2. [Clearview AI: A Powerful Yet Perilous Facial Recognition Technology Company](https://medium.com/@davidsehyeonbaek/clearview-ai-a-powerful-yet-perilous-facial-recognition-technology-company-36ca465ee5eb)
+
+## Corporate Offshore Profit Shifting and Tax Avoidance Costs U.S. Government $100-240 Billion Annually - Multinational Corporations Shift 40% of Global Profits to Tax Havens
+*Date: 2017-01-01*
+
+1. [Offshore Tax Avoidance](https://itep.org/offshore-tax-avoidance/)
+2. [Ending offshore profit shifting](https://www.oecd.org/about/impact/ending-offshore-profit-shifting.htm)
+3. [Corporate tax chartbook: How corporations rig the rules to dodge the taxes they owe](https://www.epi.org/publication/corporate-tax-chartbook-how-corporations-rig-the-rules-to-dodge-the-taxes-they-owe/)
+4. [International Corporate Tax Avoidance: A Review of the Channels, Magnitudes, and Blind Spots](https://www.imf.org/en/publications/wp/issues/2018/07/23/international-corporate-tax-avoidance-a-review-of-the-channels-effect-size-and-blind-spots-45999)
+5. [Tax inversion](https://en.wikipedia.org/wiki/Tax_inversion)
 
 ## Cytrox Established in North Macedonia as NSO Competitor
 *Date: 2017-01-01*
@@ -8544,6 +8926,13 @@
 3. [Former Romney Adviser Worked on Burisma Board With Hunter Biden](https://www.redstate.com/nick-arama/2020/02/06/former-romney-adviser-worked-on-burisma-board-with-hunter-biden/)
 4. [Top Romney Adviser Worked With Hunter Biden On Board Of Ukrainian Energy Company](https://thefederalist.com/2019/09/26/top-romney-adviser-worked-with-hunter-biden-on-board-of-ukrainian-energy-company/)
 
+## Attorney General Jeff Sessions Rescinds Obama-Era Private Prison Phase-Out, Citing 'Future Needs of Federal Corrections System'
+*Date: 2017-02-21*
+
+1. [Justice Department Reverses Obama Private Prison Order](https://www.bloomberg.com/news/articles/2017-02-23/obama-private-prison-order-reversed-by-trump-administration)
+2. [Private Prisons: Here's Why Sessions' Memo Matters](https://www.nbcnews.com/news/us-news/private-prisons-here-s-why-sessions-memo-matters-n725316)
+3. [Sessions' Reversal of the Private Prison Phase-Out](https://www.nlg.org/nlg-review/article/sessions-reversal-of-the-private-prison-phase-out/)
+
 ## Washington Post Launches "Democracy Dies in Darkness" Slogan Under Bezos Ownership
 *Date: 2017-02-22*
 
@@ -8801,6 +9190,14 @@
 
 1. [Trump Interview With Lester Holt: President Asked Comey If He Was Under Investigation](https://www.nbcnews.com/news/us-news/trump-reveals-he-asked-comey-whether-he-was-under-investigation-n757821)
 
+## Trump Creates Presidential Commission on Election Integrity to Investigate Nonexistent Fraud
+*Date: 2017-05-11*
+
+1. [Presidential Advisory Commission on Election Integrity - Wikipedia](https://en.wikipedia.org/wiki/Presidential_Advisory_Commission_on_Election_Integrity)
+2. [Report: Trump commission did not find widespread voter fraud](https://www.pbs.org/newshour/politics/report-trump-commission-did-not-find-widespread-voter-fraud)
+3. [Trump Dissolves Controversial Election Commission](https://www.npr.org/2018/01/03/575524512/trump-dissolves-controversial-election-commission)
+4. [Disbanded: Trump's 'Voter Fraud' Commission](https://www.brennancenter.org/our-work/research-reports/disbanded-trumps-voter-fraud-commission)
+
 ## Equifax Data Breach Exposes 147 Million Americans Due to Unpatched Apache Struts Vulnerability
 *Date: 2017-05-13*
 
@@ -8851,6 +9248,15 @@
 1. [Whistleblower Reality Winner Pleads Guilty](https://theintercept.com/2018/06/26/reality-winner-plea-deal/)
 2. [NSA Whistleblower Reality Winner Released From Prison](https://theintercept.com/2021/06/14/reality-winner-released-prison/)
 3. [She warned America that Russia hacked our voting rolls](https://www.inquirer.com/philly/columnists/will_bunch/free-reality-winner-whistleblower-american-hero-20180724.html)
+
+## Kansas Legislature Overrides Brownback Veto to Repeal Failed Tax Cuts - Republican-Controlled Legislature Rejects Supply-Side Economics After Devastating 5-Year Experiment
+*Date: 2017-06-06*
+
+1. [Kansas experiment](https://en.wikipedia.org/wiki/Kansas_experiment)
+2. [Kansas Provides Compelling Evidence of Failure of 'Supply-Side' Tax Cuts](https://www.cbpp.org/research/state-budget-and-tax/kansas-provides-compelling-evidence-of-failure-of-supply-side-tax)
+3. [As Trump Proposes Tax Cuts, Kansas Deals With Aftermath Of Experiment](https://www.npr.org/2017/10/25/560040131/as-trump-proposes-tax-cuts-kansas-deals-with-aftermath-of-experiment)
+4. [The Kansas tax cut experiment](https://www.brookings.edu/articles/the-kansas-tax-cut-experiment/)
+5. [Failed tax-cut experiment in Kansas should guide national leaders](https://thehill.com/opinion/finance/418768-kansas-voters-render-final-verdict-on-failed-tax-cut-experiment/)
 
 ## Office of Special Counsel Finds White House Social Media Director Dan Scavino Violated Hatch Act with Political Tweet Attacking Congressman
 *Date: 2017-06-09*
@@ -8931,6 +9337,14 @@
 3. [Pentagon nominee Esper, a former Raytheon lobbyist, must extend recusal, says Warren](https://www.defensenews.com/congress/2019/07/15/pentagon-nominee-esper-a-former-raytheon-lobbyist-must-extend-recusal/)
 4. [Mark Esper is the new defense secretary and a former Raytheon lobbyist](https://slate.com/news-and-politics/2019/07/mark-esper-defense-secretary-raytheon-lobbyist.html)
 
+## Trump Weaponizes MS-13 Gang to Demonize Central American Immigrants and Justify Mass Deportations
+*Date: 2017-07-28*
+
+1. [The Trump administration's framing of the MS-13 gang: narrowing the borders of belonging with homeland maternity](https://www.tandfonline.com/doi/full/10.1080/14791420.2023.2236187)
+2. [The real message in Trump's MS-13 speech (Opinion)](https://edition.cnn.com/2017/07/29/opinions/trump-message-ms13-speech-opinion-reyes)
+3. [Critics Of President Trump Say He's Highlighting The MS13 Gang For Political Purposes](https://www.npr.org/2018/01/31/582240414/critics-of-president-trump-say-hes-highlighting-the-ms13-gang-for-political-purp)
+4. [I've Been Reporting on MS-13 for a Year. Here Are the 5 Things Trump Gets Most Wrong](https://www.propublica.org/article/ms-13-immigration-facts-what-trump-administration-gets-wrong)
+
 ## Equifax Executives Sell $1.8 Million in Stock Days After Discovering Massive Data Breach
 *Date: 2017-08-01*
 
@@ -8971,6 +9385,14 @@
 1. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
 2. [White Power Rising: The Making of Nick Fuentes](https://globalextremism.org/post/the-making-of-nick-fuentes/)
 
+## Trump Creates Moral Equivalence Between Nazis and Counter-Protesters After Charlottesville Rally
+*Date: 2017-08-15*
+
+1. [Unite the Right rally - Wikipedia](https://en.wikipedia.org/wiki/Unite_the_Right_rally)
+2. [In Context: Trump's 'very fine people on both sides' remarks](https://www.politifact.com/article/2019/apr/26/context-trumps-very-fine-people-both-sides-remarks/)
+3. [Trump defends 2017 'very fine people' comments, calls Robert E. Lee 'a great general'](https://abcnews.go.com/Politics/trump-defends-2017-fine-people-comments-calls-robert/story?id=62653478)
+4. [Trump said 'blame on both sides' in Charlottesville, now the anniversary puts him on the spot](https://abcnews.go.com/Politics/trump-blame-sides-charlottesville-now-anniversary-puts-spot/story?id=57141612)
+
 ## Trump Defends White Nationalists with "Very Fine People On Both Sides" Remarks
 *Date: 2017-08-15*
 
@@ -8999,6 +9421,15 @@
 2. [Amnesty report finds Facebook amplified hate ahead of Rohingya massacre](https://www.pbs.org/newshour/world/amnesty-report-finds-facebook-amplified-hate-ahead-of-rohingya-massacre-in-myanmar)
 3. [Facebook's systems promoted violence against Rohingya](https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/)
 4. [Facebook and Genocide in Myanmar](https://systemicjustice.org/article/facebook-and-genocide-how-facebook-contributed-to-genocide-in-myanmar-and-why-it-will-not-be-held-accountable/)
+
+## Trump Administration Slashes ACA Navigator Program Funding by 84%, Cuts Outreach by 90%
+*Date: 2017-08-31*
+
+1. [A 90% Cut to the ACA Navigator Program](https://www.kff.org/quick-take/a-90-cut-to-the-aca-navigator-program/)
+2. [Trump Administration Slashing Funding for Marketplace Enrollment Assistance and Outreach](https://www.cbpp.org/blog/trump-administration-slashing-funding-for-marketplace-enrollment-assistance-and-outreach)
+3. [White House Chops Funding For ACA Health Insurance Navigators By 90%](https://kffhealthnews.org/morning-breakout/white-house-chops-funding-for-aca-health-insurance-navigators-by-90/)
+4. [CMS Cuts ACA Advertising By 90 Percent Amid Other Cuts To Enrollment Outreach](https://www.healthaffairs.org/content/forefront/cms-cuts-aca-advertising-90-percent-amid-other-cuts-enrollment-outreach)
+5. [Trump administration slashes funding for ACA navigators](https://www.healthcaredive.com/news/trump-slashes-aca-navigator-funding-cms/740180/)
 
 ## Wells Fargo Revises Fake Account Count to 3.5 Million, Up 67%
 *Date: 2017-08-31*
@@ -9200,6 +9631,24 @@
 2. [Attorney General Becerra Issues Statement on Department of Education's Illegal Decision](https://oag.ca.gov/news/press-releases/attorney-general-becerra-issues-statement-department-education%E2%80%99s-illegal)
 3. [Education Dept. Says Defrauded Students Should Receive Only Partial Debt Relief](https://www.npr.org/2017/12/21/572322624/education-dept-says-defrauded-students-should-receive-only-partial-debt-relief)
 
+## Tax Cuts and Jobs Act Zeroes ACA Individual Mandate Penalty, Destabilizing Insurance Markets
+*Date: 2017-12-22*
+
+1. [Repealing the Individual Health Insurance Mandate: An Updated Estimate](https://www.cbo.gov/publication/53300)
+2. [Implications of the 2017 Tax Cuts and Jobs Act for Public Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC5944881/)
+3. [The impact of the repeal of the federal individual insurance mandate on uninsurance](https://pmc.ncbi.nlm.nih.gov/articles/PMC8886708/)
+4. [The Tax Bill And The Individual Mandate: What Happened, And What Does It Mean?](https://www.healthaffairs.org/do/10.1377/forefront.20171220.323429/)
+5. [CBO Report Shows Repeal of Individual Mandate Results in 13 Million More Americans Uninsured, Higher Premiums](https://www.lung.org/media/press-releases/repeal-of-individual-mandate-results)
+
+## Trump Signs Tax Cuts and Jobs Act - Corporate Rate Permanently Slashed from 35% to 21%, Pass-Through Deduction, Estate Tax Exemption Doubled, $1.9 Trillion Added to Deficit
+*Date: 2017-12-22*
+
+1. [Tax Cuts and Jobs Act](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act)
+2. [Tax Cuts and Jobs Act of 2017 (TCJA)](https://www.law.cornell.edu/wex/tax_cuts_and_jobs_act_of_2017_(tcja))
+3. [How did the Tax Cuts and Jobs Act change business taxes?](https://taxpolicycenter.org/briefing-book/how-did-tax-cuts-and-jobs-act-change-business-taxes)
+4. [Effects of the Tax Cuts and Jobs Act: A preliminary analysis](https://www.brookings.edu/articles/effects-of-the-tax-cuts-and-jobs-act-a-preliminary-analysis/)
+5. [Tax Cuts and Jobs Act](https://itep.org/tax-cuts-and-jobs-act/)
+
 ## Google Moves $23B to Bermuda Tax Haven in Single Year
 *Date: 2017-12-31*
 
@@ -9279,6 +9728,14 @@
 5. [How the revolving door at FAA spins Boeing's way](https://www.sentinelsource.com/how-the-revolving-door-at-faa-spins-boeing-s-way/article_73ba51c8-97ed-11ef-8007-ef69f110458e.html)
 6. [How the FAA Ceded Aviation Safety Oversight to Boeing](https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing)
 
+## Trump Calls Haiti and African Nations 'Shithole Countries' in Bipartisan Immigration Meeting
+*Date: 2018-01-11*
+
+1. [Trump referred to Haiti and African nations as 'shithole' countries](https://www.nbcnews.com/politics/white-house/trump-referred-haiti-african-countries-shithole-nations-n836946)
+2. [Trump Denies 'Shithole Countries' Remark; Top Democrat Says He Said It](https://www.npr.org/2018/01/12/577598401/in-morning-tweet-trump-denies-calling-african-countries-by-a-vulgar-slur)
+3. [Global fury over Trump's racist remark on Africa, Haiti](https://www.aljazeera.com/news/2018/1/12/trumps-shithole-remarks-spur-international-anger)
+4. [Trump once denied using this slur about Haiti and African nations. Now he boasts about it](https://abcnews.go.com/Politics/wireStory/trump-denied-slur-haiti-african-nations-now-boasts-128266309)
+
 ## Pennsylvania Supreme Court Strikes Down Congressional Map as Unconstitutional Partisan Gerrymander
 *Date: 2018-01-22*
 
@@ -9339,6 +9796,16 @@
 1. [Grand Jury Indicts Thirteen Russian Individuals and Three Russian Companies for Scheme to Interfere in the United States Political System](https://www.justice.gov/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere)
 2. [United States v. Internet Research Agency et al. - Indictment](https://www.justice.gov/file/1035477/download)
 3. [Assessing Russian Activities and Intentions in Recent US Elections (ICA 2017)](https://www.dni.gov/files/documents/ICA_2017_01.pdf)
+
+## Texas Leads 20 Republican States in Lawsuit Seeking to Eliminate Entire ACA
+*Date: 2018-02-26*
+
+1. [California v. Texas](https://en.wikipedia.org/wiki/California_v._Texas)
+2. [What is the California v. Texas (Texas v. Azar/U.S.) lawsuit?](https://www.healthinsurance.org/glossary/texas-v-azar/)
+3. [Federal Judge Strikes Down Entire ACA; Law Remains In Effect](https://www.healthaffairs.org/do/10.1377/hblog20181215.617096/full/)
+4. [ACA Survives Legal Challenge, Protecting Coverage for Tens of Millions](https://www.cbpp.org/research/health/aca-survives-legal-challenge-protecting-coverage-for-tens-of-millions)
+5. [What the Texas v. Azar Ruling Means for the ACA and Health Coverage](https://www.chcf.org/resource/what-the-texas-v-azar-ruling-means-for-the-aca-and-health-coverage/)
+6. [Affordable Care Act Litigation Still on the Docket After California v. Texas](https://www.congress.gov/crs-product/LSB10641)
 
 ## Amazon acquires Ring for over $1 billion, creating foundation for private surveillance network
 *Date: 2018-02-27*
@@ -9485,6 +9952,14 @@
 2. [Q&A: Trump Administration's 'Zero-Tolerance' Immigration Policy](https://www.hrw.org/news/2018/08/16/qa-trump-administrations-zero-tolerance-immigration-policy)
 3. [Justice Department Knew 2018 Border Policy Would Separate Children From Families](https://www.npr.org/2021/01/14/957011268/justice-department-knew-2018-border-policy-would-separate-families)
 4. [A Look Back at the Family Separation Policy: The Struggle to Uncover the Truth Behind the Trump Administration's Wrongdoings](https://www.americanimmigrationcouncil.org/report/family-separation-policy/)
+
+## Trump 'Zero Tolerance' Family Separation Policy Creates Windfall for Private Prison Contractors and Child Detention Facilities
+*Date: 2018-04-06*
+
+1. [Trump administration family separation policy](https://en.wikipedia.org/wiki/Trump_administration_family_separation_policy)
+2. [These Private Prison Companies Are Already Profiting Off of Trump's Order on Family Separation](https://inthesetimes.com/article/private-prison-trump-family-separation-immigration-ice)
+3. [Who is Profiting from Incarcerating Immigrant Families?](https://littlesis.org/news/who-is-profiting-from-incarcerating-immigrant-families/)
+4. [A National Shame: The Trump Administration's Separation and Detention of Migrant Families](https://www.wola.org/analysis/national-shame-trump-administrations-separation-detention-migrant-families/)
 
 ## Judge Finalizes Trump University Settlement After Appeal Resolved, Victims Receive Payments
 *Date: 2018-04-10*
@@ -9822,6 +10297,14 @@
 2. [Guo Wengui and Steve Bannon Launch Investigation Fund](https://chinadigitaltimes.net/2018/11/guo-wengui-and-steve-bannon-launch-investigation-fund/)
 3. [U.S. charges Chinese tycoon Guo Wengui in a $1 billion fraud conspiracy](https://www.npr.org/2023/03/15/1163676898/chinese-business-tycoon-guo-wengui-fraud-arrest)
 
+## Trump Administration Expands 'Junk Insurance' Short-Term Plans to Undermine ACA
+*Date: 2018-08-01*
+
+1. [Trump era rule that expanded duration of short-term health plans in Democrats' crosshairs](https://www.fiercehealthcare.com/payers/trump-era-rule-expanded-duration-short-term-health-plans-democrats-crosshairs)
+2. [Biden rolls back Trump expansion of short-term 'junk' insurance plans](https://thehill.com/policy/healthcare/4561849-biden-trump-short-term-junk-insurance-plans-obamacare/)
+3. [Trump has brought back the type of junk health insurance that Obamacare was meant to ban](https://slate.com/business/2018/08/trump-has-brought-back-the-type-of-junk-health-insurance-that-obamacare-was-meant-to-ban.html)
+4. [11 ways the GOP sabotaged Obamacare](https://www.healthinsurance.org/blog/12-ways-the-gop-sabotaged-obamacare/)
+
 ## SEC Drops ExxonMobil Climate Investigation Under Trump Administration
 *Date: 2018-08-02*
 
@@ -9934,6 +10417,14 @@
 3. [Dr Christine Blasey Ford Testimony Live Updates](https://www.cbsnews.com/live-news/brett-kavanaugh-hearing-confirmation-today-christine-blasey-ford-sexual-assault-allegations-live/)
 4. [Key Moments in Senate Testimony of Christine Blasey Ford and Brett Kavanaugh](https://theintercept.com/2018/09/27/live-christine-blasey-ford-brett-kavanaugh-testify/)
 
+## Georgia Secretary of State Brian Kemp Purges 340,000 Voters While Running for Governor
+*Date: 2018-10-01*
+
+1. [How a massive voter purge in Georgia affected the 2018 election](https://www.apmreports.org/story/2019/10/29/georgia-voting-registration-records-removed)
+2. [Georgia's Brian Kemp Improperly Purged 340000 Voters](https://www.rollingstone.com/politics/politics-news/brian-kemp-340000-voters-748165/)
+3. [GOP candidate improperly purged 340000 from Georgia voter rolls, investigation claims](https://www.gregpalast.com/the-guardian-gop-candidate-improperly-purged-340000-from-georgia-voter-rolls-investigation-claims/)
+4. [Election expert Greg Palast: Thanks to GOP voter suppression, 'Democrats may have effectively lost'](https://www.salon.com/2018/10/28/election-expert-greg-palast-brian-kemps-postcard-trick-wrongly-purged-340000-georgia-voters/)
+
 ## Georgia Secretary of State Brian Kemp Refuses to Recuse From Overseeing His Own Governor Election
 *Date: 2018-10-01*
 
@@ -10003,6 +10494,14 @@
 1. [China grants 18 trademarks in 2 months to Trump, daughter](https://apnews.com/article/0a3283036d2f4e699da4aa3c6dd01727)
 2. [Ivanka Trump Wins China Trademarks, Then Her Father Vows to Save ZTE](https://www.nytimes.com/2018/05/28/business/ivanka-trump-china-trademarks.html)
 3. [China approves new batch of Ivanka Trump trademarks amid trade talks](https://www.reuters.com/article/us-china-usa-ivanka-idUSKCN1NB0TL)
+
+## Trump Adopts 'Invasion' Rhetoric Mainstreaming Great Replacement Theory Before Midterms
+*Date: 2018-10-22*
+
+1. [The Long, Lethal History of Trump's 'Invasion' Rhetoric](https://inkstickmedia.com/the-long-often-lethal-history-of-trumps-anti-immigrant-invasion-rhetoric-conspiracy-theory/)
+2. [Talk of 'invasion' moves from the fringe to the mainstream of GOP immigration message](https://www.npr.org/2022/08/03/1115175247/talk-of-invasion-moves-from-the-fringe-to-the-mainstream-of-gop-immigration-mess)
+3. [How Trump is relying on a racist conspiracy theory to question election results](https://www.npr.org/2024/09/13/g-s1-22583/trump-great-replacement-conspiracy-theory)
+4. [Immigration 'Invasion' Rhetoric Has a Long, Ugly History](https://www.boundless.com/blog/illegal-immigration-is-not-an-invasion)
 
 ## Trump Calls Saudi Khashoggi Explanation "Worst Cover-Up Ever" But Signals He Won't Hold MBS Accountable
 *Date: 2018-10-23*
@@ -10179,6 +10678,14 @@
 3. [ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth](https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth)
 4. [State Corporate Taxes](https://itep.org/category/state-corporate-taxes/)
 
+## State Corporate Tax Rates Decline 33% Since 1980s - ALEC-Driven 'Race to Bottom' Shifts Tax Burden from Corporations to Working Families
+*Date: 2019-01-01*
+
+1. [ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth](https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth)
+2. [ALEC's Economic Agenda Will Weaken State Economies and Harm Working Families](https://www.epi.org/press/alecs-economic-agenda-weaken-state-economies/)
+3. [Taxes and Budgets](https://www.alecexposed.org/wiki/Taxes_and_Budgets)
+4. [State Tax Action in 2025: Amid Uncertainty, Tax Cuts and New Revenue](https://itep.org/state-tax-action-2025-federal-uncertainty-tax-cuts-new-revenue/)
+
 ## Peter Thiel Backs J.D. Vance's $93 Million Narya Capital Venture Fund
 *Date: 2019-01-01*
 
@@ -10276,6 +10783,14 @@
 1. [Edwards v. United States - Court Ruling](https://www.courtlistener.com/docket/4355835/edwards-v-united-states/)
 2. [Judge Says Prosecutors Broke Law In Jeffrey Epstein Case](https://www.npr.org/2019/02/21/696652915/judge-says-prosecutors-broke-law-in-jeffrey-epstein-case)
 3. [Judge: Federal prosecutors broke law in Jeffrey Epstein case](https://www.reuters.com/article/us-people-epstein-judge/judge-federal-prosecutors-broke-law-in-jeffrey-epstein-case-idUSKCN1QA2DG)
+
+## North Carolina Board Voids Election After Republican Operative's Ballot Harvesting Scheme
+*Date: 2019-02-27*
+
+1. [State Board unanimously orders new election in 9th Congressional District](https://www.ncsbe.gov/news/press-releases/2019/02/25/state-board-unanimously-orders-new-election-9th-congressional-district)
+2. [Four people plead guilty in North Carolina ballot probe of 2016 and 2018 elections](https://www.nbcnews.com/politics/elections/four-people-plead-guilty-north-carolina-ballot-probe-2016-2018-electio-rcna49534)
+3. [North Carolina GOP Operative Faces New Felony Charges That Allege Ballot Fraud](https://www.npr.org/2019/07/30/746800630/north-carolina-gop-operative-faces-new-felony-charges-that-allege-ballot-fraud)
+4. [Mark Harris (North Carolina politician) - Wikipedia](https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician))
 
 ## During Sprint merger review, T-Mobile executives spent ~$195,000 at Trump's D.C. hotel
 *Date: 2019-03-05*
@@ -12341,6 +12856,14 @@
 2. [Supreme Court ends Trump emoluments lawsuits](https://www.cnn.com/2021/01/25/politics/emoluments-supreme-court-trump/index.html)
 3. [Supreme Court Dismisses Challenges to Trump's Business Profits](https://www.nytimes.com/2021/01/25/us/politics/trump-emoluments-supreme-court.html)
 
+## Biden Signs Executive Order 14006 to End Federal Private Prison Contracts, But Excludes Immigration Detention
+*Date: 2021-01-26*
+
+1. [Executive Order on Reforming Our Incarceration System to Eliminate the Use of Privately Operated Criminal Detention Facilities](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2021/01/26/executive-order-reforming-our-incarceration-system-to-eliminate-the-use-of-privately-operated-criminal-detention-facilities/)
+2. [Executive Order 14006](https://en.wikipedia.org/wiki/Executive_Order_14006)
+3. [Breaking Down Biden's Order to Eliminate DOJ Private Prison Contracts](https://www.brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts)
+4. [The Real Impact Of Biden's Private Prisons Executive Order](https://www.npr.org/2021/01/29/962190239/the-real-impact-of-bidens-private-prisons-executive-order)
+
 ## Raytheon CEO Hayes Tells Investors "Peace Not Going to Break Out" in Middle East, Sees Solid Growth
 *Date: 2021-01-28*
 
@@ -12556,6 +13079,15 @@
 
 1. [Chainalysis Raises $100 Million at a $4.2 Billion Valuation](https://www.prnewswire.com/news-releases/chainalysis-raises-100-million-at-a-4-2-billion-valuation-to-execute-vision-as-the-blockchain-data-platform-301319274.html)
 2. [Chainalysis raises $100M, doubles valuation to over $2B](https://techcrunch.com/2021/03/26/chainalysis-raises-100m-doubles-valuation-to-over-2b/)
+
+## Supreme Court Further Guts Voting Rights Act in Brnovich v. DNC
+*Date: 2021-07-01*
+
+1. [Brnovich v. Democratic National Committee, 594 U.S. 647 (2021)](https://www.justice.gov/d9/case-documents/attachments/2021/07/01/brnovich_v._dnc_and_arizona_republican_party_v._dnc_nos._19-1257_and_19-1258_july_2021.pdf)
+2. [Voting Rights Act - Supreme Court Provides Guideposts for Determining Violations of Section 2 in Brnovich v. DNC](https://www.congress.gov/crs-product/LSB10624)
+3. [Brnovich v. Democratic National Committee](https://www.scotusblog.com/case-files/cases/brnovich-v-democratic-national-committee/)
+4. [Brnovich - A Significant Blow to Our Freedom to Vote](https://www.lwv.org/blog/brnovich-significant-blow-our-freedom-vote)
+5. [Brnovich v. DNC - The Supreme Court kills the Voting Rights Act](https://slate.com/news-and-politics/2021/07/brnovich-voting-rights-act-alito.html)
 
 ## Trump Organization CFO Allen Weisselberg Indicted for $1.7M Tax Fraud Scheme
 *Date: 2021-07-01*
@@ -13245,6 +13777,15 @@
 2. [Private Equity's Stealthy Vet Takeover Leaves Pet Owners Paying the Price](https://www.economicliberties.us/press-release/private-equitys-stealthy-vet-takeover-leaves-pet-owners-paying-the-price/)
 3. [Corporate consolidation and the rise of private equity](https://www.aaha.org/trends-magazine/publications/corporate-consolidation-and-the-rise-of-private-equity/)
 
+## Supreme Court Overturns Roe v. Wade in Dobbs, Ending Federal Abortion Rights After 50 Years
+*Date: 2022-06-24*
+
+1. [Dobbs v. Jackson Women's Health Organization, 597 U.S. ___ (2022)](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf)
+2. [Dobbs v. Jackson Women's Health Organization](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/)
+3. [Dobbs v. Jackson Women's Health Organization](https://constitutioncenter.org/the-constitution/supreme-court-case-library/dobbs-v-jackson-womens-health-organization)
+4. [Explaining SCOTUS's Abortion Decision in Dobbs v. Jackson Women's Health Organization](https://www.lwv.org/blog/explaining-scotuss-abortion-decision-dobbs-v-jackson-womens-health-organization)
+5. [Dobbs v. Jackson Women's Health Organization](https://fedsoc.org/case/dobbs-v-jackson-womens-health-organization)
+
 ## Three Arrows Capital Ordered Into Liquidation After $3 Billion Hedge Fund Collapse Triggers Crypto Contagion
 *Date: 2022-06-27*
 
@@ -13259,6 +13800,15 @@
 1. [Trump charged with seeking to delete security footage in documents case](https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment/)
 2. [Trump allegedly attempted to have surveillance video deleted: Special counsel](https://abcnews.go.com/US/mar-lago-staffer-charged-special-counsels-classified-documents/story?id=101741061)
 3. [Trump charged with trying to delete Mar-a-Lago surveillance footage in new indictment](https://thehill.com/regulation/court-battles/4123941-trump-charged-with-trying-to-delete-mar-a-lago-surveillance-footage-in-new-indictment/)
+
+## Supreme Court Establishes Major Questions Doctrine in West Virginia v. EPA, Limiting Regulatory Power
+*Date: 2022-06-30*
+
+1. [West Virginia v. EPA, 597 U.S. ___ (2022)](https://www.supremecourt.gov/opinions/21pdf/20-1530_n758.pdf)
+2. [Supreme Court Addresses Major Questions Doctrine and EPA's Regulation of Greenhouse Gas Emissions](https://www.congress.gov/crs-product/LSB10791)
+3. [West Virginia v. EPA and the Future of the Administrative State](https://law.stanford.edu/2022/07/06/west-virginia-v-epa-and-the-future-of-the-administrative-state/)
+4. [The Major Questions Doctrine Reigns Supreme in West Virginia v. EPA](https://www.kirkland.com/publications/kirkland-alert/2022/07/supreme-court-west-virginia-v-epa)
+5. [West VA vs. EPA - Supreme Court Ruling and Climate Change](https://www.nrdc.org/stories/supreme-courts-epa-ruling-explained)
 
 ## Oracle Launches "Project Texas" with TikTok, $1 Billion Data Storage Partnership
 *Date: 2022-07-01*
@@ -13923,12 +14473,30 @@
 4. [US Government Continues to Crack Down on Insider Trading with Four Coordinated Actions](https://www.morganlewis.com/pubs/2023/07/us-government-continues-to-crack-down-on-insider-trading-with-four-coordinated-actions)
 5. [2 Investors Plead Guilty to Insider Trading Linked to Trump Media Deal](https://www.upi.com/Top_News/US/2024/04/03/Trump-Media-investors-guilty-insider-trading/6551712170472/)
 
+## Supreme Court Ends Affirmative Action in College Admissions in Students for Fair Admissions Decisions
+*Date: 2023-06-29*
+
+1. [Students for Fair Admissions v. Harvard, 600 U.S. ___ (2023)](https://www.supremecourt.gov/opinions/22pdf/20-1199_hgdj.pdf)
+2. [The Supreme Court Strikes Down Affirmative Action at Harvard and UNC](https://www.congress.gov/crs-product/LSB10893)
+3. [Students for Fair Admissions Inc. v. President & Fellows of Harvard College](https://www.scotusblog.com/cases/case-files/students-for-fair-admissions-inc-v-president-fellows-of-harvard-college/)
+4. [Students for Fair Admissions v. Harvard FAQ](https://law.stanford.edu/2023/12/12/students-for-fair-admissions-v-harvard-faq-navigating-the-evolving-implications-of-the-courts-ruling/)
+5. [Inside the Decision - What the Supreme Court Said About Affirmative Action](https://www.thecrimson.com/article/2023/6/30/scotus-affirmative-action-analysis/)
+
 ## FBI Arrests Three in "Trust Social" Investigation for DWAC Insider Trading
 *Date: 2023-06-29*
 
 1. [U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals](https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10)
 2. [Trump insider trading: Michael Shvartsman and brother Gerald Shvartsman plead guilty to insider trading linked to Trump Social](https://abc7.com/trump-insider-trading-michael-shvartsman-and-brother-gerald-plead-guilty-to-trading-linked-social/14611272/)
 3. [3 men who funded Trump-acquired social media company charged with insider trading](https://abcnews.go.com/Politics/3-men-funded-trump-social-media-company-charged/story?id=100486153)
+
+## Supreme Court Allows Religious Exemptions from Anti-Discrimination Laws in 303 Creative v. Elenis
+*Date: 2023-06-30*
+
+1. [303 Creative LLC v. Elenis, 600 U.S. 570 (2023)](https://www.supremecourt.gov/opinions/22pdf/21-476_c185.pdf)
+2. [303 Creative v. Elenis - Supreme Court Recognizes Free Speech Exception to Nondiscrimination Law](https://www.congress.gov/crs-product/LSB11000)
+3. [LGBTQIA+ Discrimination and the Impact of 303 Creative LLC v. Elenis](https://www.lwv.org/blog/lgbtqia-discrimination-and-impact-303-creative-llc-v-elenis)
+4. [303 Creative LLC v. Elenis](https://www.theusconstitution.org/litigation/303-creative-llc-v-elenis/)
+5. [Supreme Court Decides Important First Amendment Case Creating Exception to Anti-Discrimination Laws](https://imla.org/2023/07/303-creative-v-elenis/)
 
 ## Supreme Court Strikes Down Biden $400 Billion Student Loan Forgiveness as Executive Overreach
 *Date: 2023-06-30*
@@ -14910,6 +15478,16 @@
 2. [Supreme Court Grants Trump Broad Immunity for Official Acts, Placing Presidents Above the Law](https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law)
 3. [Trump immunity ruling completes systematic constitutional transformation](https://www.lawfaremedia.org/article/trump-immunity-ruling-completes-systematic-constitutional-transformation)
 
+## Supreme Court Grants Broad Presidential Immunity in Trump v. United States, Creating King-Like Powers
+*Date: 2024-07-01*
+
+1. [Trump v. United States, 603 U.S. ___ (2024)](https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf)
+2. [Supreme Court says Trump has absolute immunity for core acts only](https://www.npr.org/2024/07/01/nx-s1-5002157/supreme-court-trump-immunity)
+3. [Justices rule Trump has some immunity from prosecution](https://www.scotusblog.com/2024/07/justices-rule-trump-has-some-immunity-from-prosecution/)
+4. [Presidential Immunity from Criminal Prosecution in Trump v. United States](https://www.congress.gov/crs-product/LSB11194)
+5. [Trump v. United States - Revisiting the Presidential Immunity Ruling 1 Year Later](https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/)
+6. [Breaking down the Trump immunity decision](https://constitutioncenter.org/blog/breaking-down-the-trump-immunity-decision)
+
 ## FTC Report Reveals PBM Oligopoly: Top 3 Control 80% of Market, Extract $7.3 Billion Through Markups
 *Date: 2024-07-09*
 
@@ -15353,6 +15931,14 @@
 1. [Dark money spending in 2024 federal elections reaches record $1.9 billion](https://www.brennancenter.org/our-work/analysis-opinion/dark-money-2024-elections)
 2. [Wall Street giants funneled $171 million to Project 2025 groups](https://www.desmog.com/2024/11/07/wall-street-project-2025-dark-money/)
 3. [Dark money contributions to super PACs exceed two previous cycles combined](https://www.washingtonpost.com/politics/2024/11/08/dark-money-super-pacs-record/)
+
+## Private Prison Stocks Soar After Trump's 2024 Victory: CoreCivic Up 29%, GEO Group Up 42% in Single Session
+*Date: 2024-11-06*
+
+1. [Trump's election win sends private prisons stocks soaring as investors anticipate hard crackdown on migration](https://fortune.com/2024/11/07/president-donald-trump-election-immigration-border-detention-ice-geo-group-corecivic/)
+2. [Private Prison Stocks Soar After Trump Win on Deportation Plans](https://www.bloomberg.com/news/articles/2024-11-07/private-prison-stocks-soar-after-trump-win-on-deportation-plans)
+3. [Private prison stocks jump on Trump appointment of immigration hard-liner Tom Homan](https://www.cnbc.com/2024/11/11/private-prison-stocks-jump-on-trump-appointment-of-immigration-hardliner-tom-homan.html)
+4. [Private prison firms contributed more than $1M to Trump's reelection. Now they expect a business boom](https://abcnews.go.com/US/private-prison-firms-contributed-1m-trumps-reelection-now/story?id=116046776)
 
 ## NLRB Rules Captive Audience Meetings Are Illegal Employer Coercion (Likely Reversed 2025)
 *Date: 2024-11-13*
@@ -16174,6 +16760,15 @@
 2. [Trump administration dismisses nearly 400 scientists working on congressionally mandated national climate report](https://www.cbsnews.com/news/national-climate-assessment-report-scientists-fired/)
 3. [Trump Administration Deals Potentially Fatal Blow to National Climate Assessment](https://climate.law.columbia.edu/content/trump-administration-deals-potentially-fatal-blow-national-climate-assessment)
 4. [How the White House is dismantling the heart of US climate policy](https://cen.acs.org/environment/climate-change/White-House-dismantling-basis-US/103/web/2025/07)
+
+## ALEC Publishes 'Essential Policy Solutions 2025' Playbook - State-Level Corporate and Income Tax Elimination Agenda, Coordination with Federal Project 2025
+*Date: 2025-02-01*
+
+1. [ALEC Publishes Its Own Project 2025 — for the States](https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/)
+2. [ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth](https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth)
+3. [ALEC's Economic Agenda Will Weaken State Economies and Harm Working Families, Leading Experts Find](https://www.epi.org/press/alecs-economic-agenda-weaken-state-economies/)
+4. [State Tax Action in 2025: Amid Uncertainty, Tax Cuts and New Revenue](https://itep.org/state-tax-action-2025-federal-uncertainty-tax-cuts-new-revenue/)
+5. [Right-Wing Group ALEC Publishes Its Own Project 2025 — for the States](https://truthout.org/articles/right-wing-group-alec-publishes-its-own-project-2025-for-the-states/)
 
 ## Campaign Legal Center identifies 467 conflicts requiring recusal
 *Date: 2025-02-01*

@@ -1,0 +1,60 @@
+{
+  "id": "2008-09-11--kids-for-cash-scandal-exposed-pennsylvania",
+  "date": "2008-09-11",
+  "title": "Kids for Cash Scandal Exposed: Pennsylvania Judges Accepted $2.8 Million in Kickbacks to Fill Private Juvenile Detention Centers",
+  "summary": "Luzerne County Court of Common Pleas judges Mark Ciavarella and Michael Conahan are exposed for accepting $2.8 million in illegal payments from the builder and co-owner of PA Child Care, a for-profit juvenile detention facility. From 2003 to 2008, the judges altered the lives of more than 2,500 children across 6,000 cases, sending children as young as 8 to extended detention for minor offenses including jaywalking, truancy, smoking on school grounds, trespassing in vacant buildings, and mocking an assistant principal on MySpace.\n\nOver 50% of the children who appeared before Ciavarella lacked legal representation, and 60% were removed from their homes and sent to the private facilities. The judges shut down a county-run juvenile detention center to create a captive market for the for-profit lockups. Victims include first-time offenders given harsh sentences for petty theft and other trivial infractions—all to maximize occupancy and profits at facilities paying kickbacks to the judges.\n\nThe scandal represents the most egregious example of private prison corruption and is believed to be the largest judicial corruption scandal in U.S. history. After exposure, the Pennsylvania Supreme Court throws out 4,000 juvenile convictions entered between 2003 and 2008. Ciavarella receives a 28-year federal sentence and Conahan receives 17.5 years. In 2022, they are ordered to pay over $200 million to victims. The case exposes the fundamental danger of for-profit juvenile detention: when corporations pay per bed, per day, they create financial incentives to incarcerate children.",
+  "importance": 10,
+  "actors": [
+    "Mark Ciavarella",
+    "Michael Conahan",
+    "PA Child Care",
+    "Luzerne County Court of Common Pleas",
+    "Pennsylvania Supreme Court",
+    "Juvenile Law Center"
+  ],
+  "tags": [
+    "private-prison",
+    "judicial-corruption",
+    "juvenile-justice",
+    "prison-industrial-complex",
+    "kickbacks",
+    "quid-pro-quo",
+    "institutional-capture"
+  ],
+  "sources": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kids_for_cash_scandal",
+      "title": "Kids for cash scandal",
+      "publisher": "Wikipedia",
+      "date": "2024-01-01",
+      "tier": 2
+    },
+    {
+      "url": "https://jlc.org/luzerne-kids-cash-scandal",
+      "title": "Luzerne 'Kids for Cash' Scandal",
+      "publisher": "Juvenile Law Center",
+      "date": "2024-01-01",
+      "tier": 1
+    },
+    {
+      "url": "https://www.npr.org/2022/08/18/1118108084/michael-conahan-mark-ciavarella-kids-for-cash",
+      "title": "Former judges who sent kids to jail for money must pay more than $200 million",
+      "publisher": "NPR",
+      "date": "2022-08-18",
+      "tier": 1
+    },
+    {
+      "url": "https://www.cbsnews.com/news/kids-for-cash-judges-mark-ciavarella-michael-conahan-200-million-damages/",
+      "title": "Judges who got kickbacks for sending kids to for-profit jails ordered to pay $200 million",
+      "publisher": "CBS News",
+      "date": "2022-08-18",
+      "tier": 1
+    }
+  ],
+  "status": "published",
+  "capture_lanes": [
+    "judicial-capture",
+    "institutional-capture",
+    "systematic-corruption"
+  ]
+}
