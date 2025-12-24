@@ -1,7 +1,6 @@
 
 import React from 'react';
 import { Search } from 'lucide-react';
-import type { GraphSettings } from '../../../types/visualization';
 
 interface FilterControlsProps {
     searchText: string;

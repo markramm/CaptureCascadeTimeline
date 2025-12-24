@@ -33,11 +33,16 @@ export const TimelineEventSchema = z.object({
     tags: z.array(z.string()).min(1),
     entities: z.array(z.string()).describe("Named entities (People/Orgs) for Graph linking").optional(),
 
+    // UX Metadata
+    importance: z.number().min(1).max(10).default(5).describe("Visual importance weight (1-10)"),
+    status: z.enum(['confirmed', 'likely', 'disputed', 'retracted']).default('confirmed'),
+
     // Sourcing & Truth
     sources: z.array(z.object({
         url: z.string().url(),
         title: z.string().optional(),
-        date_accessed: z.string().datetime().optional()
+        date_accessed: z.string().datetime().optional(),
+        tier: z.enum(['1', '2', '3']).optional().describe("Source quality tier: 1=Primary, 2=Reliable, 3=Weak")
     })).min(0),
 
     verification_history: z.array(VerificationRecord).default([]),

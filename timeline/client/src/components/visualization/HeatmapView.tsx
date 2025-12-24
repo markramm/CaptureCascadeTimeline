@@ -2,7 +2,7 @@ import { useEffect, useRef, useMemo } from 'react';
 import * as d3 from 'd3';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
-import type { VisualizationProps } from '../../types/visualization';
+import type { VisualizationProps, GraphSettings } from '../../types/visualization';
 import { useResizeObserver } from '../../hooks/useResizeObserver';
 import { useGraphData } from '../../hooks/useGraphData';
 
@@ -27,7 +27,7 @@ export function HeatmapView({
         showLabels: true,
         showMetrics: false,
         viewMode: 'heatmap'
-    }, [settings, maxNodes, minConnectionStrength]);
+    } as GraphSettings, [settings, maxNodes, minConnectionStrength]);
 
     const { nodes } = useGraphData(events, effectiveSettings);
 
@@ -74,7 +74,7 @@ export function HeatmapView({
 
     // Render D3
     useEffect(() => {
-        if (!svgRef.current || !heatmapData.data.length) return;
+        if (!svgRef.current || !heatmapData.data || !heatmapData.data.length) return;
 
         const margin = { top: 30, right: 30, bottom: 50, left: 100 };
         const width = dimensions.width - margin.left - margin.right;
@@ -102,7 +102,7 @@ export function HeatmapView({
 
         const colorScale = d3.scaleSequential()
             .interpolator(d3.interpolateInferno)
-            .domain([0, d3.max(heatmapData.data, d => d.count) || 1]);
+            .domain([0, (d3.max(heatmapData.data, (d: any) => d.count) as number) || 1]);
 
         // Axes
         g.append("g")

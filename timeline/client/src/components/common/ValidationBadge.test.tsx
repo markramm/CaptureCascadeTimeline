@@ -2,7 +2,7 @@
 import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import { ValidationBadge } from './ValidationBadge';
-import { ValidationRecord } from '../../schemas/validation';
+import type { ValidationRecord } from '../../schemas/validation';
 
 describe('ValidationBadge', () => {
     it('renders Verified for high confidence', () => {

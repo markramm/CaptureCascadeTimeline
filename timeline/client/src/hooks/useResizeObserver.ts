@@ -1,12 +1,17 @@
+import { useEffect, useState } from 'react';
+import type { RefObject } from 'react';
 
-import { useEffect, useState, RefObject } from 'react';
+interface Dimensions {
+    width: number;
+    height: number;
+}
 
 /**
  * A hook that observes the dimensions of a container element.
  * Returns the current width and height.
  */
-export function useResizeObserver(ref: RefObject<HTMLElement>, initialWidth = 800, initialHeight = 600) {
-    const [dimensions, setDimensions] = useState({ width: initialWidth, height: initialHeight });
+export function useResizeObserver(ref: RefObject<HTMLElement | null>, initialWidth = 800, initialHeight = 600) {
+    const [dimensions, setDimensions] = useState<Dimensions>({ width: initialWidth, height: initialHeight });
 
     useEffect(() => {
         if (!ref.current) return;

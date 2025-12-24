@@ -3,7 +3,6 @@ import * as d3 from 'd3';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
 import type { TimelineEvent } from '../../schemas/events';
-import { calculateDegreeCentrality, calculateBetweennessCentrality } from '../../utils/graphMetrics';
 import type { GraphNode, GraphLink } from '../../utils/graphMetrics';
 import { GraphControls } from './GraphControls';
 import type { GraphSettings, VisualizationProps } from '../../types/visualization';

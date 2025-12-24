@@ -28,7 +28,8 @@ export function useGraphData(events: TimelineEvent[], settings: GraphSettings) {
             nodes.forEach(node => {
                 node.metrics = {
                     degree: degreeMap.get(node.id) || 0,
-                    betweenness: betweennessMap.get(node.id) || 0
+                    betweenness: betweennessMap.get(node.id) || 0,
+                    clustering: 0
                 };
             });
         }

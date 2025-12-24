@@ -2,7 +2,7 @@ import { useEffect, useRef, useMemo } from 'react';
 import * as d3 from 'd3';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
-import type { VisualizationProps } from '../../types/visualization';
+import type { VisualizationProps, GraphSettings } from '../../types/visualization';
 import { useResizeObserver } from '../../hooks/useResizeObserver';
 import { useGraphData } from '../../hooks/useGraphData';
 
@@ -26,8 +26,8 @@ export function LagAnalysisView({
         layout: 'force',
         showLabels: true,
         showMetrics: false,
-        viewMode: 'patterns'
-    }, [settings, maxNodes, minConnectionStrength]);
+        viewMode: 'lag-analysis'
+    } as GraphSettings, [settings, maxNodes, minConnectionStrength]);
 
     const { nodes, links } = useGraphData(events, effectiveSettings);
 

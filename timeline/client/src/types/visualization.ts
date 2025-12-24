@@ -7,7 +7,7 @@ export interface GraphSettings {
     maxNodes: number;
     searchText: string;
     selectedTypes: string[];
-    viewMode: 'graph' | 'matrix' | 'sunburst' | 'heatmap' | 'patterns';
+    viewMode: 'graph' | 'matrix' | 'sunburst' | 'heatmap' | 'patterns' | 'lag-analysis';
 }
 
 export interface VisualizationProps {

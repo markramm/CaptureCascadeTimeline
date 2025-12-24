@@ -1,11 +1,11 @@
-
-import type { SimulationNodeDatum, SimulationLinkDatum } from 'd3';
+import type { SimulationLinkDatum } from 'd3';
 
 // Define Types for Graph Data
-export interface GraphNode extends SimulationNodeDatum {
+export interface GraphNode extends d3.SimulationNodeDatum {
     id: string;
     type: 'event' | 'actor';
     label: string;
+    group?: string;
     entities?: string[];
     metrics?: {
         degree: number;

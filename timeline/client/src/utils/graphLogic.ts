@@ -37,12 +37,11 @@ export function computeGraphData({ events, settings }: GraphDataParams): { nodes
         );
     }
 
-    // Apply Type Filter
-    if (settings.selectedTypes && settings.selectedTypes.length > 0) {
-        filteredEvents = filteredEvents.filter(e =>
-            e.type && settings.selectedTypes.includes(e.type)
-        );
-    }
+    const typeFilter = (e: TimelineEvent) => {
+        if (!settings.selectedTypes || settings.selectedTypes.length === 0) return true;
+        return e.type && settings.selectedTypes.includes(e.type);
+    };
+    filteredEvents = filteredEvents.filter(typeFilter);
 
     filteredEvents.slice(0, settings.maxNodes).forEach(event => {
         const importance = 5;

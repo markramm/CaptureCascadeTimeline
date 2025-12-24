@@ -2,7 +2,7 @@ import * as d3 from 'd3';
 import { useEffect, useRef, useMemo } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
-import type { VisualizationProps } from '../../types/visualization';
+import type { VisualizationProps, GraphSettings } from '../../types/visualization';
 import { useResizeObserver } from '../../hooks/useResizeObserver';
 import { useGraphData } from '../../hooks/useGraphData';
 
@@ -27,7 +27,7 @@ export function MatrixView({
         showLabels: true,
         showMetrics: false,
         viewMode: 'matrix'
-    }, [settings, maxNodes, minConnectionStrength]);
+    } as GraphSettings, [settings, maxNodes, minConnectionStrength]);
 
     const { nodes, links } = useGraphData(events, effectiveSettings);
 
@@ -96,7 +96,7 @@ export function MatrixView({
                     .style("fill-opacity", l.value) // Opacity by strength
                     .style("fill", l.source === l.target ? "#ddd" : "#3b82f6")
                     .append("title")
-                    .text(`${matrixData.nodes[l.source].title} <-> ${matrixData.nodes[l.target].title}`);
+                    .text(`${matrixData.nodes[l.source].label} <-> ${matrixData.nodes[l.target].label}`);
             });
 
             // Row Label
@@ -105,7 +105,7 @@ export function MatrixView({
                 .attr("y", x.bandwidth() / 2)
                 .attr("dy", ".32em")
                 .attr("text-anchor", "end")
-                .text(node.title.substring(0, 15))
+                .text(node.label.substring(0, 15))
                 .style("font-size", "10px")
                 .style("fill", "#64748b");
         });
@@ -122,7 +122,7 @@ export function MatrixView({
             .attr("y", x.bandwidth() / 2)
             .attr("dy", ".32em")
             .attr("text-anchor", "start")
-            .text(d => d.title.substring(0, 15))
+            .text(d => d.label.substring(0, 15))
             .style("font-size", "10px")
             .style("fill", "#64748b");
 
