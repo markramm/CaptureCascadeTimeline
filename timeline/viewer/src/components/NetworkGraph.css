@@ -36,84 +36,7 @@
   transition: all 0.3s ease;
 }
 
-/* Controls - Top Left */
-.graph-controls {
-  top: 20px;
-  left: 20px;
-  width: 280px;
-  max-height: calc(100% - 40px);
-  overflow-y: auto;
-  padding: 0;
-  /* Padding moved to content */
-  display: flex;
-  flex-direction: column;
-}
-
-/* Collapsible Settings Header */
-.settings-header {
-  padding: 16px;
-  cursor: pointer;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-weight: 600;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  background: rgba(255, 255, 255, 0.05);
-  user-select: none;
-}
-
-.settings-header:hover {
-  background: rgba(255, 255, 255, 0.1);
-}
-
-.settings-content {
-  padding: 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.control-group {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-
-.control-group label {
-  font-size: 13px;
-  font-weight: 500;
-  color: #94a3b8;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  cursor: pointer;
-}
-
-.control-group input[type="range"] {
-  width: 100%;
-  accent-color: #6366f1;
-}
-
-.control-group input[type="checkbox"] {
-  accent-color: #6366f1;
-  width: 16px;
-  height: 16px;
-}
-
-.control-group button {
-  padding: 8px 12px;
-  background: #3b82f6;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-
-.control-group button:hover {
-  background: #2563eb;
-}
+/* Obsolete overlay controls removed as they are now in sidebar */
 
 /* Node Details - Right Side */
 /* Node Details - Right Side */
@@ -269,10 +192,12 @@
   background: rgba(255, 255, 255, 0.2);
   border-radius: 3px;
 }
+
 /* Graph Overlay Controls */
 .graph-overlay-controls {
   position: absolute;
-  top: 80px; /* Moved to top-left to avoid legend overlap */
+  top: 80px;
+  /* Moved to top-left to avoid legend overlap */
   left: 20px;
   width: 220px;
   background: rgba(15, 23, 42, 0.7);
@@ -322,7 +247,8 @@
   background: #3b82f6;
   border: 2px solid #1e293b;
   box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3);
-  margin-top: -5px; /* Adjust for firefox/chrome diffs usually, but appearance none helps */
+  margin-top: -5px;
+  /* Adjust for firefox/chrome diffs usually, but appearance none helps */
 }
 
 /* Firefox thumb */

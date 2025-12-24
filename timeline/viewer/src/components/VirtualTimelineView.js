@@ -11,7 +11,7 @@ import { FilterX } from 'lucide-react';
 import useIndexedDB from '../hooks/useIndexedDB';
 import './VirtualTimelineView.css';
 
-const ITEM_HEIGHT = 150; // Pixels per event card
+const ITEM_HEIGHT = 110; // Pixels per event card - reduced for density
 const WINDOW_SIZE = 50; // Events to keep in memory
 
 const VirtualTimelineView = ({

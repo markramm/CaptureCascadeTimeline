@@ -1,25 +1,25 @@
-
-import { useEffect, useRef, useState, useMemo } from 'react';
+import { useRef, useState, useMemo, useEffect } from 'react';
 import * as d3 from 'd3';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
 import type { TimelineEvent } from '../../schemas/events';
 import { calculateDegreeCentrality, calculateBetweennessCentrality } from '../../utils/graphMetrics';
 import type { GraphNode, GraphLink } from '../../utils/graphMetrics';
-import { GraphControls, type GraphSettings } from './GraphControls';
+import { GraphControls } from './GraphControls';
+import type { GraphSettings, VisualizationProps } from '../../types/visualization';
+import { useResizeObserver } from '../../hooks/useResizeObserver';
+import { useGraphData } from '../../hooks/useGraphData';
+import { getIconPath } from '../../utils/graphIcons';
+import { computeGraphData } from '../../utils/graphLogic'; // Keep for export functionality
+import { MatrixView } from './MatrixView';
+import { LagAnalysisView } from './LagAnalysisView';
+import { HeatmapView } from './HeatmapView';
+import { SunburstView } from './SunburstView';
+import { exportToGEXF, downloadFile } from '../../utils/exportUtils';
+import { ErrorBoundary } from '../common/ErrorBoundary';
 import './NetworkGraph.css';
 
 const EMPTY_ARRAY: TimelineEvent[] = [];
-
-interface NetworkGraphProps {
-    minConnectionStrength?: number;
-    showMetrics?: boolean;
-    maxNodes?: number;
-    showLabels?: boolean;
-    graphLayout?: 'force' | 'timeline';
-    title?: string;
-    description?: string;
-}
 
 export function NetworkGraph({
     minConnectionStrength = 0.5,
@@ -29,40 +29,11 @@ export function NetworkGraph({
     graphLayout = 'force',
     title,
     description
-}: NetworkGraphProps) {
+}: VisualizationProps) {
     const svgRef = useRef<SVGSVGElement>(null);
     const simulationRef = useRef<d3.Simulation<GraphNode, GraphLink> | null>(null);
     const wrapperRef = useRef<HTMLDivElement>(null);
-    const [dimensions, setDimensions] = useState({ width: 800, height: 600 });
-
-    // Resize Observer
-    useEffect(() => {
-        if (!wrapperRef.current) return;
-
-        const updateDimensions = () => {
-            if (wrapperRef.current) {
-                setDimensions({
-                    width: wrapperRef.current.clientWidth,
-                    height: wrapperRef.current.clientHeight
-                });
-            }
-        };
-
-        // Initial sizing
-        updateDimensions();
-
-        const observer = new ResizeObserver(entries => {
-            for (const entry of entries) {
-                setDimensions({
-                    width: entry.contentRect.width,
-                    height: entry.contentRect.height
-                });
-            }
-        });
-
-        observer.observe(wrapperRef.current);
-        return () => observer.disconnect();
-    }, []);
+    const dimensions = useResizeObserver(wrapperRef);
 
     // Internal State for Controls
     const [settings, setSettings] = useState<GraphSettings>({
@@ -72,147 +43,43 @@ export function NetworkGraph({
         minStrength: minConnectionStrength,
         maxNodes: maxNodes,
         searchText: '',
-        selectedTypes: []
+        selectedTypes: [],
+        viewMode: 'graph'
     });
 
 
 
     // UI State
     const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
-    // const [highlightedNodeId, setHighlightedNodeId] = useState<string | null>(null);
-    // const [isLayoutFrozen, setIsLayoutFrozen] = useState(false);
 
     // Data Loading
     const events = useLiveQuery(() => db.events.toArray()) || EMPTY_ARRAY;
 
     // Transform Data for Graph
+    // Transform Data for Graph
+    // Data Processing (Memoized by Hook)
+    const { nodes: graphNodes, links: graphLinks } = useGraphData(events, settings);
+
+    // Transform Data for Graph (Clone for D3 mutation)
     const graphData = useMemo<{ nodes: GraphNode[]; links: GraphLink[] }>(() => {
-        if (!events.length) return { nodes: [], links: [] };
+        const nodes = graphNodes.map(n => ({ ...n }));
+        const links = graphLinks.map(l => ({ ...l }));
 
-        const nodes: GraphNode[] = [];
-        const links: GraphLink[] = [];
-        const nodeMap = new Map<string, GraphNode>();
-
-        // 1. Process Events as Nodes
-        // Sort by date desc to show most recent events first if limit is hit
-        let filteredEvents = [...events].sort((a, b) => {
-            const dateA = a.date ? new Date(a.date).getTime() : 0;
-            const dateB = b.date ? new Date(b.date).getTime() : 0;
-            return dateB - dateA;
+        // Add coordinates initialization if missing
+        nodes.forEach(node => {
+            // Re-initialize positions near center for simulation stability if they are 0,0
+            // (Using deterministic seeded random based on ID for consistency)
+            node.x = 400 + (((node.id.charCodeAt(0) || 0) % 100) - 50);
+            node.y = 300 + (((node.id.charCodeAt(node.id.length - 1) || 0) % 100) - 50);
         });
-
-        // Apply Search Filter
-        if (settings.searchText) {
-            const lowerQuery = settings.searchText.toLowerCase();
-            filteredEvents = filteredEvents.filter(e =>
-                (e.title && e.title.toLowerCase().includes(lowerQuery)) ||
-                (e.summary && e.summary.toLowerCase().includes(lowerQuery)) ||
-                (e.tags && e.tags.some(t => t && t.toLowerCase().includes(lowerQuery))) ||
-                (e.entities && e.entities.some(ent => ent && ent.toLowerCase().includes(lowerQuery)))
-            );
-        }
-
-        // Apply Type Filter
-        if (settings.selectedTypes && settings.selectedTypes.length > 0) {
-            filteredEvents = filteredEvents.filter(e =>
-                e.type && settings.selectedTypes.includes(e.type)
-            );
-        }
-
-        filteredEvents.slice(0, settings.maxNodes).forEach(event => {
-            const importance = 5; // Default for now, can calculate based on tags later
-
-            const node: GraphNode = {
-                id: event.id,
-                type: 'event',
-                label: (event.title || 'Untitled').substring(0, 25) + ((event.title || '').length > 25 ? '...' : ''),
-                fullTitle: event.title || 'Untitled',
-                date: event.date,
-                tags: event.tags || [],
-                impact: importance,
-                group: event.type || 'other',
-                // Initialize positions near center to prevent "explosion" from 0,0
-                x: 400 + (((event.id.charCodeAt(0) || 0) % 100) - 50),
-                y: 300 + (((event.id.charCodeAt(event.id.length - 1) || 0) % 100) - 50),
-                entities: event.entities || []
-            };
-            nodes.push(node);
-            nodeMap.set(event.id, node);
-        });
-
-        // 2. Extract Actors (from Tags currently, as we don't have dedicated Actors field in new Event Schema yet? 
-        // Wait, legacy schema had 'actors'. Current schema doesn't explicitly have 'actors' field, but 'entities'? 
-        // Let's check Schema. 'entities' is optional. Legacy used 'actors'.
-        // For now, I'll extract from 'tags' if they look like people, OR if we add 'entities' later.
-        // Actually, let's treat specific tags as actors if we can, or just graph events for now.
-        // Legacy 'actors' were specific.
-        // Let's use 'tags' for shared tag connections (Thematic).
-
-        // Connect events by Shared Tags (Thematic)
-        for (let i = 0; i < nodes.length; i++) {
-            for (let j = i + 1; j < nodes.length; j++) {
-                const nodeA = nodes[i];
-                const nodeB = nodes[j];
-
-                const tagsA = nodeA.tags || [];
-                const tagsB = nodeB.tags || [];
-
-                const sharedTags = tagsA.filter((t: string) => tagsB.includes(t));
-
-                if (sharedTags.length >= 1) {
-                    // Strength based on Jaccard Index or simple overlap count
-                    const similarity = sharedTags.length / Math.sqrt(tagsA.length * tagsB.length);
-
-                    if (similarity >= settings.minStrength) {
-                        links.push({
-                            source: nodeA.id,
-                            target: nodeB.id,
-                            type: 'thematic',
-                            strength: similarity,
-                            tags: sharedTags
-                        });
-                    }
-                }
-
-                // Temporal connections (within 3 days)
-                if (nodeA.date && nodeB.date) {
-                    const daysDiff = Math.abs(
-                        new Date(nodeA.date).getTime() - new Date(nodeB.date).getTime()
-                    ) / (1000 * 60 * 60 * 24);
-
-                    if (daysDiff <= 3) {
-                        const strength = 1 - (daysDiff / 3);
-                        links.push({
-                            source: nodeA.id,
-                            target: nodeB.id,
-                            type: 'temporal',
-                            strength: strength
-                        });
-                    }
-                }
-            }
-        }
-
-        // Metrics Calculation
-        if (settings.showMetrics) {
-            const degree = calculateDegreeCentrality(nodes, links);
-            const betweenness = calculateBetweennessCentrality(nodes, links);
-
-            nodes.forEach(n => {
-                n.metrics = {
-                    degree: degree.get(n.id) || 0,
-                    betweenness: betweenness.get(n.id) || 0,
-                    clustering: 0
-                };
-            });
-        }
 
         return { nodes, links };
+    }, [graphNodes, graphLinks]);
 
-    }, [events, settings.minStrength, settings.showMetrics, settings.maxNodes, settings.searchText, settings.selectedTypes]);
 
-    // D3 Rendering Effect
+    // D3 Rendering Effect (Graph Mode Only)
     useEffect(() => {
+        if (settings.viewMode && settings.viewMode !== 'graph') return; // Skip if not graph mode
         if (!svgRef.current || !graphData.nodes.length) return;
 
         const { width, height } = dimensions;
@@ -259,16 +126,13 @@ export function NetworkGraph({
                 .attr('stroke-opacity', 0.4)
                 .attr('stroke-width', d => (d.strength || 0.5) * 2);
 
-            // Nodes
+            // Node Groups
             const node = g.append('g')
-                .selectAll('circle')
+                .selectAll('g.node')
                 .data(graphData.nodes)
-                .enter().append('circle')
-                .attr('r', d => 5 + (d.metrics?.betweenness || 0) * 50) // Size by influence
-                .attr('fill', d => colorScale(d.group as string))
-                .attr('stroke', '#fff')
-                .attr('stroke-width', 1.5)
-                .call(d3.drag<SVGCircleElement, GraphNode>()
+                .enter().append('g')
+                .attr('class', 'node')
+                .call(d3.drag<SVGGElement, GraphNode>()
                     .on('start', dragStarted)
                     .on('drag', dragged)
                     .on('end', dragEnded)
@@ -276,7 +140,46 @@ export function NetworkGraph({
                 .on('click', (event: any, d) => { // eslint-disable-line @typescript-eslint/no-explicit-any
                     event.stopPropagation();
                     setSelectedNode(d);
+
+                    // Highlight neighborhood
+                    const connectedIds = new Set<string>();
+                    connectedIds.add(d.id);
+                    graphData.links.forEach(l => {
+                        if (l.source === d || (l.source as GraphNode).id === d.id) connectedIds.add((l.target as GraphNode).id);
+                        if (l.target === d || (l.target as GraphNode).id === d.id) connectedIds.add((l.source as GraphNode).id);
+                    });
+
+                    node.transition().duration(300)
+                        .style('opacity', n => connectedIds.has(n.id) ? 1 : 0.1);
+
+                    link.transition().duration(300)
+                        .style('opacity', () => 0.05) // Should check connectivity but complex for links in D3 tick. Simple fade for now. or check source/target
+                        .style('opacity', l => (connectedIds.has((l.source as GraphNode).id) && connectedIds.has((l.target as GraphNode).id)) ? 1 : 0.05);
                 });
+
+            // Circle Background - Visual Centrality
+            node.append('circle')
+                .attr('r', d => {
+                    const baseSize = 12;
+                    if (settings.showMetrics && d.metrics) {
+                        // Scale by degree (connections) and betweenness (bridge role)
+                        // Simple linear combo for now
+                        const centralityBonus = (d.metrics.degree * 2) + (d.metrics.betweenness * 50);
+                        return Math.min(baseSize + centralityBonus, 40); // Max size cap
+                    }
+                    return baseSize;
+                })
+                .attr('fill', d => colorScale(d.group as string))
+                .attr('stroke', '#fff')
+                .attr('stroke-width', 1.5);
+
+            // Icon
+            node.append('path')
+                .attr('d', d => getIconPath(d.group))
+                .attr('fill', 'white')
+                .attr('transform', 'translate(-8, -8) scale(0.7)') // Center icon (approx)
+                .style('pointer-events', 'none');
+
 
             // Labels
             if (settings.showLabels) {
@@ -285,12 +188,19 @@ export function NetworkGraph({
                     .data(graphData.nodes)
                     .enter().append('text')
                     .text(d => d.label)
-                    .attr('x', 8)
-                    .attr('y', 3)
+                    .attr('x', 14)
+                    .attr('y', 4)
                     .style('font-size', '10px')
                     .style('fill', '#ccc')
                     .style('pointer-events', 'none');
             }
+
+            // Reset highlighting on canvas click
+            svg.on('click', () => {
+                setSelectedNode(null);
+                node.transition().duration(300).style('opacity', 1);
+                link.transition().duration(300).style('opacity', () => 0.4);
+            });
 
             simulation.on('tick', () => {
                 link
@@ -300,13 +210,12 @@ export function NetworkGraph({
                     .attr('y2', d => (d.target as GraphNode).y!);
 
                 node
-                    .attr('cx', d => d.x!)
-                    .attr('cy', d => d.y!);
+                    .attr('transform', d => `translate(${d.x},${d.y})`);
 
                 if (settings.showLabels) {
                     g.selectAll('text')
-                        .attr('x', (d: any) => d.x + 8) // eslint-disable-line @typescript-eslint/no-explicit-any
-                        .attr('y', (d: any) => d.y + 3); // eslint-disable-line @typescript-eslint/no-explicit-any
+                        .attr('x', (d: any) => d.x + 14) // eslint-disable-line @typescript-eslint/no-explicit-any
+                        .attr('y', (d: any) => d.y + 4); // eslint-disable-line @typescript-eslint/no-explicit-any
                 }
             });
 
@@ -375,62 +284,156 @@ export function NetworkGraph({
                 .style('color', '#888');
         }
 
-    }, [graphData, settings.layout, settings.showLabels, dimensions]);
+    }, [graphData, settings.layout, settings.showLabels, dimensions, settings.viewMode]);
 
+
+    // Export Handler
+    const handleExport = () => {
+        const { nodes, links } = computeGraphData({ events, settings });
+        const gexf = exportToGEXF(nodes, links);
+        downloadFile(gexf, `network_graph_${new Date().toISOString().split('T')[0]}.gexf`, 'text/xml');
+    };
 
     return (
         <div className="network-graph-container" ref={wrapperRef} style={{ width: '100%', height: '100%', position: 'relative', overflow: 'hidden' }}>
-            <GraphControls settings={settings} onChange={setSettings} />
+            <GraphControls settings={settings} onChange={setSettings} onExport={handleExport} />
 
             {/* Title Overlay */}
             {(title || description) && (
-                <div style={{
-                    position: 'absolute',
-                    top: 20,
-                    left: 20,
-                    zIndex: 5,
-                    pointerEvents: 'none', // Let clicks pass through to graph
-                    maxWidth: '400px'
-                }}>
+                <div style={{ position: 'absolute', top: 20, left: 20, zIndex: 5, pointerEvents: 'none', maxWidth: '400px' }}>
                     {title && <h2 style={{ color: '#e2e8f0', margin: 0, fontSize: '1.5rem', textShadow: '0 2px 4px rgba(0,0,0,0.5)' }}>{title}</h2>}
                     {description && <p style={{ color: '#94a3b8', margin: '5px 0 0 0', textShadow: '0 1px 2px rgba(0,0,0,0.5)' }}>{description}</p>}
                 </div>
             )}
 
-            {/* Overlay Controls could go here */}
-            {selectedNode && (
-                <div className="node-tooltip" style={{
-                    position: 'absolute', bottom: 20, right: 20,
-                    background: 'rgba(15, 23, 42, 0.9)', color: 'white', padding: '16px',
-                    borderRadius: '12px', width: '280px', zIndex: 10,
-                    boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
-                    border: '1px solid rgba(255, 255, 255, 0.1)',
-                    backdropFilter: 'blur(8px)'
-                }}>
-                    <h3 style={{ marginTop: 0, color: 'white', fontSize: '1rem' }}>{selectedNode.fullTitle}</h3>
-                    <p style={{ fontSize: '0.9em', color: '#ccc' }}>{selectedNode.date}</p>
-                    <div style={{ margin: '10px 0' }}>
-                        {selectedNode.tags?.map((t: string) => (
-                            <span key={t} style={{
-                                display: 'inline-block', background: '#334155',
-                                padding: '2px 6px', borderRadius: '4px',
-                                fontSize: '0.8em', marginRight: '4px', marginBottom: '4px'
-                            }}>
-                                {t}
-                            </span>
-                        ))}
-                    </div>
-                    {selectedNode.metrics && (
-                        <div style={{ fontSize: '0.8em', color: '#aaa', marginTop: '8px', borderTop: '1px solid #444', paddingTop: '8px' }}>
-                            <div>Degree: {selectedNode.metrics.degree}</div>
-                            <div>Betweenness: {selectedNode.metrics.betweenness.toFixed(4)}</div>
-                        </div>
-                    )}
-                    <button onClick={() => setSelectedNode(null)} style={{ marginTop: '10px', padding: '4px 8px' }}>Close</button>
+            {/* View Switching */}
+            {settings.viewMode === 'matrix' && (
+                <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 1 }}>
+                    <ErrorBoundary name="Matrix View">
+                        <MatrixView
+                            minConnectionStrength={settings.minStrength}
+                            maxNodes={settings.maxNodes}
+                            settings={settings}
+                        />
+                    </ErrorBoundary>
                 </div>
             )}
 
-            <svg ref={svgRef} style={{ display: 'block' }}></svg>
+            {settings.viewMode === 'sunburst' && (
+                <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 1 }}>
+                    <ErrorBoundary name="Hierarchy View">
+                        <SunburstView />
+                    </ErrorBoundary>
+                </div>
+            )}
+
+            {settings.viewMode === 'heatmap' && (
+                <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 1 }}>
+                    <ErrorBoundary name="Heatmap View">
+                        <HeatmapView
+                            minConnectionStrength={settings.minStrength}
+                            maxNodes={settings.maxNodes}
+                            settings={settings} // Pass settings for filtering
+                        />
+                    </ErrorBoundary>
+                </div>
+            )}
+
+            {settings.viewMode === 'patterns' && (
+                <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 1 }}>
+                    <ErrorBoundary name="Patterns View">
+                        <LagAnalysisView
+                            minConnectionStrength={settings.minStrength}
+                            maxNodes={settings.maxNodes}
+                            settings={settings}
+                        />
+                    </ErrorBoundary>
+                </div>
+            )}
+
+            {settings.viewMode === 'graph' && (
+                <>
+                    {/* Legend Overlay */}
+                    <div style={{
+                        position: 'absolute', top: 20, right: 20,
+                        background: 'rgba(15, 23, 42, 0.8)', padding: '12px',
+                        borderRadius: '8px', zIndex: 5, border: '1px solid rgba(255,255,255,0.1)',
+                        backdropFilter: 'blur(4px)'
+                    }}>
+                        <h4 style={{ margin: '0 0 8px 0', color: '#94a3b8', fontSize: '0.8rem', textTransform: 'uppercase' }}>Legend</h4>
+                        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px 16px' }}>
+                            {[
+                                { type: 'legislative', color: '#e74c3c', label: 'Legislative' },
+                                { type: 'judicial', color: '#3498db', label: 'Judicial' },
+                                { type: 'financial', color: '#2ecc71', label: 'Financial' },
+                                { type: 'corporate', color: '#9b59b6', label: 'Corporate' },
+                                { type: 'political', color: '#f39c12', label: 'Political' },
+                                { type: 'cultural', color: '#1abc9c', label: 'Cultural' },
+                            ].map(item => (
+                                <div key={item.type} style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '0.8rem', color: '#cbd5e1' }}>
+                                    <span style={{ width: '8px', height: '8px', borderRadius: '50%', background: item.color, display: 'inline-block' }}></span>
+                                    {item.label}
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+
+                    {selectedNode && (
+                        <div className="node-tooltip" style={{
+                            position: 'absolute', bottom: 20, right: 20,
+                            background: 'rgba(15, 23, 42, 0.9)', color: 'white', padding: '16px',
+                            borderRadius: '12px', width: '280px', zIndex: 10,
+                            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+                            border: '1px solid rgba(255, 255, 255, 0.1)',
+                            backdropFilter: 'blur(8px)'
+                        }}>
+                            <h3 style={{ marginTop: 0, color: 'white', fontSize: '1rem' }}>{selectedNode.fullTitle}</h3>
+                            <p style={{ fontSize: '0.9em', color: '#ccc' }}>{selectedNode.date}</p>
+                            <div style={{ margin: '10px 0' }}>
+                                {selectedNode.tags?.map((t: string) => (
+                                    <span key={t} style={{
+                                        display: 'inline-block', background: '#334155',
+                                        padding: '2px 6px', borderRadius: '4px',
+                                        fontSize: '0.8em', marginRight: '4px', marginBottom: '4px'
+                                    }}>
+                                        {t}
+                                    </span>
+                                ))}
+                            </div>
+                            {selectedNode.metrics && (
+                                <div style={{ fontSize: '0.8em', color: '#aaa', marginTop: '8px', borderTop: '1px solid #444', paddingTop: '8px' }}>
+                                    <div>Degree: {selectedNode.metrics.degree}</div>
+                                    <div>Betweenness: {selectedNode.metrics.betweenness.toFixed(4)}</div>
+                                </div>
+                            )}
+                            <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
+                                <button
+                                    onClick={() => window.open(`/events/${selectedNode.id}/edit`, '_self')}
+                                    style={{
+                                        flex: 1, padding: '6px 12px', borderRadius: '6px', border: 'none',
+                                        background: '#3b82f6', color: 'white', cursor: 'pointer', fontWeight: 500
+                                    }}
+                                >
+                                    Edit Event
+                                </button>
+                                <button
+                                    onClick={() => setSelectedNode(null)}
+                                    style={{
+                                        padding: '6px 12px', borderRadius: '6px', border: '1px solid #475569',
+                                        background: 'transparent', color: '#cbd5e1', cursor: 'pointer'
+                                    }}
+                                >
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    )}
+
+                    <ErrorBoundary name="Network Graph">
+                        <svg ref={svgRef} style={{ display: 'block' }}></svg>
+                    </ErrorBoundary>
+                </>
+            )}
         </div>
     );
 }

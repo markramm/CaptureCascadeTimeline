@@ -257,8 +257,8 @@ export class TimelineDB {
         }
 
         const eventData = cursor.value;
-        const titleMatch = eventData.title?.toLowerCase().includes(lowerQuery);
-        const summaryMatch = eventData.summary?.toLowerCase().includes(lowerQuery);
+        const titleMatch = (eventData.title || '').toLowerCase().includes(lowerQuery);
+        const summaryMatch = (eventData.summary || '').toLowerCase().includes(lowerQuery);
 
         if (titleMatch || summaryMatch) {
           events.push(eventData);
@@ -520,8 +520,8 @@ export class TimelineDB {
     // Text search filter
     if (filters.searchQuery) {
       const query = filters.searchQuery.toLowerCase();
-      const titleMatch = event.title?.toLowerCase().includes(query);
-      const summaryMatch = event.summary?.toLowerCase().includes(query);
+      const titleMatch = (event.title || '').toLowerCase().includes(query);
+      const summaryMatch = (event.summary || '').toLowerCase().includes(query);
       if (!titleMatch && !summaryMatch) {
         return false;
       }

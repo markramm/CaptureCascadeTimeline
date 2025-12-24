@@ -33,7 +33,11 @@ describe('FilterPanel', () => {
     minImportance: 0,
     onMinImportanceChange: jest.fn(),
     graphControls: {},
-    onGraphControlsChange: jest.fn()
+    onGraphControlsChange: jest.fn(),
+    actorControls: {},
+    onActorControlsChange: jest.fn(),
+    zoomLevel: 1,
+    onZoomLevelChange: jest.fn()
   };
 
   beforeEach(() => {
@@ -84,8 +88,7 @@ describe('FilterPanel', () => {
   test('handles importance filter change via select', () => {
     render(<FilterPanel {...mockProps} />);
 
-    // Find the select element (it might have a label or be implied)
-    // We can look for the combustion that handles importance
+    // Find the select element for importance
     const select = screen.getByDisplayValue('All Events (1-10)');
     fireEvent.change(select, { target: { value: '5' } });
 
@@ -104,11 +107,6 @@ describe('FilterPanel', () => {
 
   test('handles date range inputs', () => {
     render(<FilterPanel {...mockProps} />);
-
-    // Date inputs might not have explicit labels connected via htmlFor in the simplified test environment
-    // but they usually have labels. Let's check typical structure.
-    // Based on code: <label>From</label><input type="date">
-
     const inputs = screen.getAllByDisplayValue('');
     const dateInputs = inputs.filter(i => i.type === 'date');
     // Expect at least 2 date inputs (Start/End)

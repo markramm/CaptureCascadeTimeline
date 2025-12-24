@@ -4,7 +4,7 @@
 
 const isDevelopment = process.env.NODE_ENV === 'development';
 const isGitHubPages = window.location.hostname.includes('github.io') ||
-                     window.location.pathname.includes('/kleptocracy-timeline');
+  window.location.pathname.includes('/kleptocracy-timeline');
 // const isStaticDeployment = window.location.hostname.includes('capturecascade.org');
 
 // Base URL configuration
@@ -55,7 +55,7 @@ export const API_ENDPOINTS = USE_LIVE_API ? {
   },
   metadata: {
     actors: getLiveApiPath('timeline/actors'),
-    tags: getLiveApiPath('timeline/tags'), 
+    tags: getLiveApiPath('timeline/tags'),
     sources: getLiveApiPath('timeline/sources'),
     dateRange: getLiveApiPath('timeline/date-range')
   },
@@ -93,7 +93,7 @@ export const RAW_DATA_URL = `https://raw.githubusercontent.com/${process.env.REA
 export const transformStaticData = (data, endpoint) => {
   // Always return data as-is since our static files have the correct format
   return data;
-  
+
   /* Unreachable code - keeping for reference
   switch (endpoint) {
     case 'timeline':
@@ -131,7 +131,7 @@ export const transformStaticData = (data, endpoint) => {
 const FEATURE_FLAGS = {
   // IndexedDB optimization is now the default (85% memory reduction: 800MB → 130MB)
   // Can be disabled via localStorage: localStorage.setItem('useIndexedDB', 'false')
-  USE_INDEXED_DB: localStorage.getItem('useIndexedDB') !== 'false',
+  USE_INDEXED_DB: true,
 
   // Legacy flag - kept for backwards compatibility
   USE_INDEXED_DB_DEFAULT: true

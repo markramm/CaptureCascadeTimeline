@@ -775,10 +775,13 @@ const NetworkGraph = ({
         .on('mouseout', function () {
           d3.selectAll('.node-tooltip').remove();
         })
-        .call(d3.drag()
-          .on('start', dragStarted)
-          .on('drag', dragged)
-          .on('end', dragEnded));
+        .on('mouseout', function () {
+          d3.selectAll('.node-tooltip').remove();
+        });
+      /* .call(d3.drag()
+        .on('start', dragStarted)
+        .on('drag', dragged)
+        .on('end', dragEnded)); */
 
       // Add labels for important events and all actors
       /* const labels = g.append('g')
@@ -802,9 +805,37 @@ const NetworkGraph = ({
 
       // Drag functions for timeline (constrained movement)
       function dragStarted(event) {
-        if (!isLayoutFrozen && !event.active) simulation.alphaTarget(0.3).restart();
+        // Timeline layout is static
         event.subject.fx = event.subject.x;
         event.subject.fy = event.subject.y;
+      }
+
+      function dragged(event) {
+        event.subject.fx = event.x;
+        event.subject.fy = event.y;
+        d3.select(this).attr('cx', event.x).attr('cy', event.y);
+      }
+
+      function dragEnded(event) {
+        event.subject.fx = event.x;
+        event.subject.fy = event.y;
+      }
+
+      function highlightConnections(node) {
+        const connectedNodes = new Set([node.id]);
+
+        links.style('opacity', function (link) {
+          if (link.source.id === node.id || link.target.id === node.id) {
+            connectedNodes.add(link.source.id);
+            connectedNodes.add(link.target.id);
+            return 1;
+          }
+          return 0.1;
+        });
+
+        nodes.style('opacity', n =>
+          connectedNodes.has(n.id) ? 1 : 0.2
+        );
       }
     };
 
@@ -954,289 +985,244 @@ const NetworkGraph = ({
         .attr('stroke-width', 0.5);
     };
 
-    function dragged(event) {
-      // Allow limited vertical movement only
-      event.subject.fy = Math.max(50, Math.min(height - 50, event.y));
-      d3.select(this).attr('cy', event.subject.fy);
+    // Build and render graph
+    const graphData = buildGraphData(events, filterType);
+
+    // Render based on layout type
+    switch (graphLayout) {
+      case 'timeline':
+        renderTimelineLayout(graphData);
+        break;
+      case 'circular':
+        renderCircularLayout(graphData);
+        break;
+      case 'grid':
+        renderGridLayout(graphData);
+        break;
+      default:
+        renderForceLayout(graphData);
     }
+  }, [events, graphLayout, filterType, showLabels, maxNodes, minConnectionStrength,
+    searchQuery, selectedActor, selectedTag, highlightedNodeId, activeCategories, isLayoutFrozen]);
 
-    function dragEnded(event) {
-      // Keep the new position
-      event.subject.fy = event.y;
-    }
-
-    function highlightConnections(node) {
-      const connectedNodes = new Set([node.id]);
-
-      links.style('opacity', function (link) {
-        if (link.source.id === node.id || link.target.id === node.id) {
-          connectedNodes.add(link.source.id);
-          connectedNodes.add(link.target.id);
-          return 1;
-        }
-        return 0.1;
-      });
-
-      nodes.style('opacity', n =>
-        connectedNodes.has(n.id) ? 1 : 0.2
-      );
-    }
-
-    // Click on background to reset highlighting  
-    svg.on('click', function (event) {
-      if (event.target === this) {
-        links.style('opacity', d => {
-          if (d.type === 'temporal') return 0.8;
-          if (d.type === 'involved') return 0.4;
-          return 0.3;
-        });
-        nodes.style('opacity', 1);
-        setSelectedNode(null);
-        setHighlightedNodeId(null);
-      }
-    });
+  const handleCategoryToggle = (categoryId) => {
+    console.log("Category toggling now handled via sidebar filters");
+    // setActiveCategories call removed
   };
 
-
-
-  // Build and render graph
-  const graphData = buildGraphData(events, filterType);
-
-  // Render based on layout type
-  switch (graphLayout) {
-    case 'timeline':
-      renderTimelineLayout(graphData);
-      break;
-    case 'circular':
-      renderCircularLayout(graphData);
-      break;
-    case 'grid':
-      renderGridLayout(graphData);
-      break;
-    default:
-      renderForceLayout(graphData);
-  }
-}, [events, graphLayout, filterType, showLabels, maxNodes, minConnectionStrength,
-  searchQuery, selectedActor, selectedTag, highlightedNodeId, activeCategories, isLayoutFrozen]);
-
-const handleCategoryToggle = (categoryId) => {
-  console.log("Category toggling now handled via sidebar filters");
-  // setActiveCategories call removed
-};
-
-const toggleLayoutFreeze = () => {
-  if (simulationRef.current) {
-    if (isLayoutFrozen) {
-      // Unfreeze: restart the simulation
-      simulationRef.current.alphaTarget(0.3).restart();
-      setIsLayoutFrozen(false);
-    } else {
-      // Freeze: stop the simulation
-      simulationRef.current.stop();
-      setIsLayoutFrozen(true);
+  const toggleLayoutFreeze = () => {
+    if (simulationRef.current) {
+      if (isLayoutFrozen) {
+        // Unfreeze: restart the simulation
+        simulationRef.current.alphaTarget(0.3).restart();
+        setIsLayoutFrozen(false);
+      } else {
+        // Freeze: stop the simulation
+        simulationRef.current.stop();
+        setIsLayoutFrozen(true);
+      }
     }
-  }
-};
+  };
 
-// resetFilters removed - handled by parent component
+  // resetFilters removed - handled by parent component
 
-return (
-  <div className="network-graph-container">
-    <button
-      onClick={toggleLayoutFreeze}
-      style={{
-        position: 'absolute',
-        top: '20px',
-        left: '20px',
-        padding: '8px 16px',
-        background: isLayoutFrozen ? 'rgba(231, 76, 60, 0.9)' : 'rgba(39, 174, 96, 0.9)',
-        backdropFilter: 'blur(4px)',
-        color: 'white',
-        border: '1px solid rgba(255,255,255,0.2)',
-        borderRadius: '6px',
-        cursor: 'pointer',
-        fontWeight: '600',
-        fontSize: '13px',
-        zIndex: 10,
-        boxShadow: '0 4px 6px rgba(0,0,0,0.2)'
-      }}
-      title={isLayoutFrozen ? 'Unfreeze' : 'Freeze'}
-    >
-      {isLayoutFrozen ? '❄️ Frozen' : '🌊 Live Force'}
-    </button>
+  return (
+    <div className="network-graph-container">
+      <button
+        onClick={toggleLayoutFreeze}
+        style={{
+          position: 'absolute',
+          top: '20px',
+          left: '20px',
+          padding: '8px 16px',
+          background: isLayoutFrozen ? 'rgba(231, 76, 60, 0.9)' : 'rgba(39, 174, 96, 0.9)',
+          backdropFilter: 'blur(4px)',
+          color: 'white',
+          border: '1px solid rgba(255,255,255,0.2)',
+          borderRadius: '6px',
+          cursor: 'pointer',
+          fontWeight: '600',
+          fontSize: '13px',
+          zIndex: 10,
+          boxShadow: '0 4px 6px rgba(0,0,0,0.2)'
+        }}
+        title={isLayoutFrozen ? 'Unfreeze' : 'Freeze'}
+      >
+        {isLayoutFrozen ? '❄️ Frozen' : '🌊 Live Force'}
+      </button>
 
-    <svg ref={svgRef} className="network-graph"></svg>
+      <svg ref={svgRef} className="network-graph"></svg>
 
-    {selectedNode && (
-      <div className="node-details">
-        <h3>
-          {selectedNode.fullTitle || selectedNode.fullName || selectedNode.label}
-        </h3>
-        <button
-          onClick={() => setSelectedNode(null)}
-          className="close-btn"
-          title="Close Details"
-        >
-          ×
-        </button>
+      {selectedNode && (
+        <div className="node-details">
+          <h3>
+            {selectedNode.fullTitle || selectedNode.fullName || selectedNode.label}
+          </h3>
+          <button
+            onClick={() => setSelectedNode(null)}
+            className="close-btn"
+            title="Close Details"
+          >
+            ×
+          </button>
 
-        <div className="node-meta">
-          <p><strong>Type:</strong> <span style={{ textTransform: 'capitalize' }}>{selectedNode.type}</span></p>
-          {selectedNode.date && <p><strong>Date:</strong> {selectedNode.date}</p>}
-          {selectedNode.impact && <p><strong>Impact Score:</strong> {selectedNode.impact}/10</p>}
+          <div className="node-meta">
+            <p><strong>Type:</strong> <span style={{ textTransform: 'capitalize' }}>{selectedNode.type}</span></p>
+            {selectedNode.date && <p><strong>Date:</strong> {selectedNode.date}</p>}
+            {selectedNode.impact && <p><strong>Impact Score:</strong> {selectedNode.impact}/10</p>}
 
-          {showMetrics && selectedNode.metrics && (
-            <div style={{ marginTop: '10px', padding: '8px', background: '#f0f4f8', borderRadius: '4px' }}>
-              <h5 style={{ margin: '0 0 5px 0', fontSize: '13px', borderBottom: '1px solid #ddd' }}>Network Metrics</h5>
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '5px', fontSize: '12px' }}>
-                <div>Degree: <strong>{selectedNode.metrics.degree}</strong></div>
-                <div>Centrality: <strong>{selectedNode.metrics.betweenness.toFixed(3)}</strong></div>
-                <div>Clustering: <strong>{selectedNode.metrics.clustering.toFixed(2)}</strong></div>
+            {showMetrics && selectedNode.metrics && (
+              <div style={{ marginTop: '10px', padding: '8px', background: '#f0f4f8', borderRadius: '4px' }}>
+                <h5 style={{ margin: '0 0 5px 0', fontSize: '13px', borderBottom: '1px solid #ddd' }}>Network Metrics</h5>
+                <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '5px', fontSize: '12px' }}>
+                  <div>Degree: <strong>{selectedNode.metrics.degree}</strong></div>
+                  <div>Centrality: <strong>{selectedNode.metrics.betweenness.toFixed(3)}</strong></div>
+                  <div>Clustering: <strong>{selectedNode.metrics.clustering.toFixed(2)}</strong></div>
+                </div>
               </div>
+            )}
+          </div>
+
+          {selectedNode.type === 'actor' && (
+            <div className="related-events" style={{ marginTop: '15px' }}>
+              <p><strong>Related Events ({selectedNode.eventCount}):</strong></p>
+              <ul style={{
+                maxHeight: '200px',
+                overflowY: 'auto',
+                padding: 0,
+                marginTop: '10px',
+                listStyle: 'none'
+              }}>
+                {events
+                  .filter(e => e.actors?.includes(selectedNode.fullName))
+                  .sort((a, b) => new Date(b.date) - new Date(a.date))
+                  .map(e => (
+                    <li key={e.id} style={{
+                      marginBottom: '8px',
+                      padding: '8px',
+                      background: '#f8fafc',
+                      borderRadius: '4px',
+                      borderLeft: '3px solid #64748b',
+                      fontSize: '13px'
+                    }}>
+                      <div style={{ fontSize: '11px', color: '#64748b', marginBottom: '4px' }}>{e.date}</div>
+                      {e.title}
+                    </li>
+                  ))}
+              </ul>
             </div>
           )}
+
+          {selectedNode.type === 'event' && (
+            <>
+              <p style={{ marginTop: '15px', lineHeight: '1.6' }}>{selectedNode.summary || 'No description available.'}</p>
+
+              {selectedNode.actors && selectedNode.actors.length > 0 && (
+                <div style={{ marginTop: '15px' }}>
+                  <strong>Actors:</strong>
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '5px', marginTop: '5px' }}>
+                    {selectedNode.actors.map(actor => (
+                      <span key={actor} style={{
+                        background: '#e2e8f0',
+                        padding: '2px 8px',
+                        borderRadius: '12px',
+                        fontSize: '12px',
+                        color: '#475569'
+                      }}>
+                        {actor}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {selectedNode.tags && selectedNode.tags.length > 0 && (
+                <div style={{ marginTop: '15px' }}>
+                  <strong>Tags:</strong>
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '5px', marginTop: '5px' }}>
+                    {selectedNode.tags.map(tag => (
+                      <span key={tag} style={{
+                        background: '#f1f5f9',
+                        padding: '2px 8px',
+                        borderRadius: '4px',
+                        fontSize: '12px',
+                        color: '#64748b',
+                        border: '1px solid #cbd5e1'
+                      }}>
+                        #{tag}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
+          )}
         </div>
+      )}
 
-        {selectedNode.type === 'actor' && (
-          <div className="related-events" style={{ marginTop: '15px' }}>
-            <p><strong>Related Events ({selectedNode.eventCount}):</strong></p>
-            <ul style={{
-              maxHeight: '200px',
-              overflowY: 'auto',
-              padding: 0,
-              marginTop: '10px',
-              listStyle: 'none'
-            }}>
-              {events
-                .filter(e => e.actors?.includes(selectedNode.fullName))
-                .sort((a, b) => new Date(b.date) - new Date(a.date))
-                .map(e => (
-                  <li key={e.id} style={{
-                    marginBottom: '8px',
-                    padding: '8px',
-                    background: '#f8fafc',
-                    borderRadius: '4px',
-                    borderLeft: '3px solid #64748b',
-                    fontSize: '13px'
-                  }}>
-                    <div style={{ fontSize: '11px', color: '#64748b', marginBottom: '4px' }}>{e.date}</div>
-                    {e.title}
-                  </li>
-                ))}
-            </ul>
-          </div>
-        )}
-
-        {selectedNode.type === 'event' && (
-          <>
-            <p style={{ marginTop: '15px', lineHeight: '1.6' }}>{selectedNode.summary || 'No description available.'}</p>
-
-            {selectedNode.actors && selectedNode.actors.length > 0 && (
-              <div style={{ marginTop: '15px' }}>
-                <strong>Actors:</strong>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '5px', marginTop: '5px' }}>
-                  {selectedNode.actors.map(actor => (
-                    <span key={actor} style={{
-                      background: '#e2e8f0',
-                      padding: '2px 8px',
-                      borderRadius: '12px',
-                      fontSize: '12px',
-                      color: '#475569'
-                    }}>
-                      {actor}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            )}
-
-            {selectedNode.tags && selectedNode.tags.length > 0 && (
-              <div style={{ marginTop: '15px' }}>
-                <strong>Tags:</strong>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '5px', marginTop: '5px' }}>
-                  {selectedNode.tags.map(tag => (
-                    <span key={tag} style={{
-                      background: '#f1f5f9',
-                      padding: '2px 8px',
-                      borderRadius: '4px',
-                      fontSize: '12px',
-                      color: '#64748b',
-                      border: '1px solid #cbd5e1'
-                    }}>
-                      #{tag}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            )}
-          </>
-        )}
-      </div>
-    )}
-
-    {/* Overlay Controls for Node Count & Strength */}
+      {/* Overlay Controls for Node Count & Strength */}
 
 
-    {/* Interactive Category Filter (replaces static legend) */}
-    <div className="graph-legend" style={{ maxWidth: '180px' }}>
-      <h4>Filter by Category</h4>
-      <div
-        className="legend-item clickable"
-        onClick={() => handleCategoryToggle('all')}
-        style={{
-          cursor: 'pointer',
-          opacity: activeCategories.has('all') ? 1 : 0.5,
-          fontWeight: activeCategories.has('all') ? 'bold' : 'normal'
-        }}
-      >
-        <span style={{
-          display: 'inline-block',
-          width: '16px',
-          height: '16px',
-          borderRadius: '3px',
-          background: 'linear-gradient(45deg, #e74c3c, #3498db, #2ecc71, #f39c12)',
-          marginRight: '8px'
-        }}></span>
-        All Categories
-      </div>
-
-      {categories.filter(c => c.id !== 'other').map(category => (
+      {/* Interactive Category Filter (replaces static legend) */}
+      <div className="graph-legend" style={{ maxWidth: '180px' }}>
+        <h4>Filter by Category</h4>
         <div
-          key={category.id}
           className="legend-item clickable"
-          onClick={() => handleCategoryToggle(category.id)}
+          onClick={() => handleCategoryToggle('all')}
           style={{
             cursor: 'pointer',
-            opacity: activeCategories.has('all') || activeCategories.has(category.id) ? 1 : 0.3,
-            fontWeight: activeCategories.has(category.id) && !activeCategories.has('all') ? 'bold' : 'normal'
+            opacity: activeCategories.has('all') ? 1 : 0.5,
+            fontWeight: activeCategories.has('all') ? 'bold' : 'normal'
           }}
         >
-          <span
-            className={`legend-color ${category.id}`}
-            style={{ background: category.color }}
-          ></span>
-          {category.label}
+          <span style={{
+            display: 'inline-block',
+            width: '16px',
+            height: '16px',
+            borderRadius: '3px',
+            background: 'linear-gradient(45deg, #e74c3c, #3498db, #2ecc71, #f39c12)',
+            marginRight: '8px'
+          }}></span>
+          All Categories
         </div>
-      ))}
 
-      <div style={{ marginTop: '15px', paddingTop: '10px', borderTop: '1px solid #ddd' }}>
-        <h5 style={{ fontSize: '12px', marginBottom: '8px' }}>Connection Types</h5>
-        <div className="legend-item" style={{ fontSize: '11px' }}>
-          <span style={{ display: 'inline-block', width: '25px', height: '2px', background: '#ffd700', marginRight: '5px' }}></span>
-          Temporal (≤3 days)
-        </div>
-        <div className="legend-item" style={{ fontSize: '11px' }}>
-          <span style={{ display: 'inline-block', width: '25px', height: '2px', background: '#87ceeb', marginRight: '5px' }}></span>
-          Thematic (2+ tags)
-        </div>
-        <div className="legend-item" style={{ fontSize: '11px' }}>
-          <span style={{ display: 'inline-block', width: '25px', height: '2px', background: '#ddd', marginRight: '5px' }}></span>
-          Actor-Event
+        {categories.filter(c => c.id !== 'other').map(category => (
+          <div
+            key={category.id}
+            className="legend-item clickable"
+            onClick={() => handleCategoryToggle(category.id)}
+            style={{
+              cursor: 'pointer',
+              opacity: activeCategories.has('all') || activeCategories.has(category.id) ? 1 : 0.3,
+              fontWeight: activeCategories.has(category.id) && !activeCategories.has('all') ? 'bold' : 'normal'
+            }}
+          >
+            <span
+              className={`legend-color ${category.id}`}
+              style={{ background: category.color }}
+            ></span>
+            {category.label}
+          </div>
+        ))}
+
+        <div style={{ marginTop: '15px', paddingTop: '10px', borderTop: '1px solid #ddd' }}>
+          <h5 style={{ fontSize: '12px', marginBottom: '8px' }}>Connection Types</h5>
+          <div className="legend-item" style={{ fontSize: '11px' }}>
+            <span style={{ display: 'inline-block', width: '25px', height: '2px', background: '#ffd700', marginRight: '5px' }}></span>
+            Temporal (≤3 days)
+          </div>
+          <div className="legend-item" style={{ fontSize: '11px' }}>
+            <span style={{ display: 'inline-block', width: '25px', height: '2px', background: '#87ceeb', marginRight: '5px' }}></span>
+            Thematic (2+ tags)
+          </div>
+          <div className="legend-item" style={{ fontSize: '11px' }}>
+            <span style={{ display: 'inline-block', width: '25px', height: '2px', background: '#ddd', marginRight: '5px' }}></span>
+            Actor-Event
+          </div>
         </div>
       </div>
     </div>
-  </div>
-);
+  );
 };
 
 export default NetworkGraph;

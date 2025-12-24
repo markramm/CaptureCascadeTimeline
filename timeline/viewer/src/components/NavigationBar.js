@@ -23,8 +23,9 @@ const NavigationBar = ({ onAboutClick }) => {
     <nav className="navigation-bar">
       <div className="nav-container">
         <div className="nav-brand">
-          <a href={baseUrl + '/'} className="brand-link">
-            Kleptocracy Timeline
+          <a href={baseUrl + '/'} className="brand-link" style={{ display: 'flex', flexDirection: 'column', lineHeight: '1.2', alignItems: 'flex-start' }}>
+            <span style={{ fontSize: '1.1rem', fontWeight: '700', letterSpacing: '-0.02em' }}>Capture Cascade Timeline</span>
+            <span style={{ fontSize: '0.75rem', fontWeight: '400', opacity: 0.7 }}>Tracking Patterns of Democratic Degradation</span>
           </a>
         </div>
         <ul className="nav-links">

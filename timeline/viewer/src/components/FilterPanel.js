@@ -52,7 +52,10 @@ const FilterPanel = ({
   onGraphControlsChange,
   // Zoom Props
   zoomLevel,
-  onZoomLevelChange
+  onZoomLevelChange,
+  // Actor Props
+  actorControls,
+  onActorControlsChange
 }) => {
   const [expandedSections, setExpandedSections] = useState({
     sorting: true,
@@ -62,7 +65,8 @@ const FilterPanel = ({
     actors: false,
     dates: true,
     timeline: viewMode === 'timeline',
-    graph: viewMode === 'graph' // Default to open in graph view
+    graph: viewMode === 'graph',
+    actorView: viewMode === 'actors'
   });
 
   const toggleSection = (section) => {
@@ -232,7 +236,7 @@ const FilterPanel = ({
 
       <div className="filter-stats" style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <div className="stat">
+          <div className="stat" data-testid="event-count-display">
             <span className="stat-value" style={{ fontSize: '1.2rem' }}>{eventCount}</span>
             <span className="stat-label">Events</span>
           </div>
@@ -670,6 +674,81 @@ const FilterPanel = ({
             isOpen={expandedSections.graph}
             onToggle={() => toggleSection('graph')}
           />
+        )}
+
+        {/* Actor View Controls */}
+        {viewMode === 'actors' && (
+          <div className="filter-section">
+            <button
+              className="section-header"
+              onClick={() => toggleSection('actorView')}
+            >
+              <div className="header-title">
+                <Settings size={16} />
+                <span>Actor View Settings</span>
+              </div>
+              {expandedSections.actorView ? <ChevronUp size={16} /> : <ChevronDown size={16} />}
+            </button>
+
+            {expandedSections.actorView && (
+              <div className="section-content">
+                <div className="control-group" style={{ marginBottom: '1rem' }}>
+                  <label style={{ display: 'block', marginBottom: '0.5rem', fontSize: '0.875rem', color: '#cbd5e1' }}>
+                    Min Events per Actor
+                  </label>
+                  <select
+                    value={actorControls.minEvents}
+                    onChange={(e) => onActorControlsChange({ ...actorControls, minEvents: parseInt(e.target.value) })}
+                    style={{
+                      width: '100%',
+                      padding: '0.5rem',
+                      background: '#1f2937',
+                      border: '1px solid #374151',
+                      color: 'white',
+                      borderRadius: '0.25rem'
+                    }}
+                  >
+                    <option value="1">1+ events</option>
+                    <option value="2">2+ events</option>
+                    <option value="3">3+ events</option>
+                    <option value="5">5+ events</option>
+                    <option value="10">10+ events</option>
+                    <option value="20">20+ events</option>
+                  </select>
+                </div>
+
+                <div className="control-group" style={{ marginBottom: '1rem' }}>
+                  <label className="checkbox-label" style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer' }}>
+                    <input
+                      type="checkbox"
+                      checked={actorControls.showLabels}
+                      onChange={(e) => onActorControlsChange({ ...actorControls, showLabels: e.target.checked })}
+                    />
+                    <span style={{ fontSize: '0.875rem', color: '#cbd5e1' }}>Show Labels</span>
+                  </label>
+                </div>
+
+                <div className="control-group">
+                  <button
+                    onClick={() => onActorControlsChange({ ...actorControls, compareMode: !actorControls.compareMode, compareNodes: [] })}
+                    style={{
+                      width: '100%',
+                      padding: '0.5rem',
+                      background: actorControls.compareMode ? '#e74c3c' : '#3b82f6',
+                      color: 'white',
+                      border: 'none',
+                      borderRadius: '0.25rem',
+                      cursor: 'pointer',
+                      fontSize: '0.875rem',
+                      fontWeight: '500'
+                    }}
+                  >
+                    {actorControls.compareMode ? 'Exit Investigation' : '🔍 Investigation Mode'}
+                  </button>
+                </div>
+              </div>
+            )}
+          </div>
         )}
       </div>
 

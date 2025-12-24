@@ -1,0 +1,1059 @@
+import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import LandingPage from './components/LandingPage';
+import NavigationBar from './components/NavigationBar';
+import TimelineViewWrapper from './components/TimelineViewWrapper';
+import FilterPanel from './components/FilterPanel';
+import EventDetails from './components/EventDetails';
+import AboutOverlay from './components/AboutOverlay';
+import StatsPanel from './components/StatsPanel';
+import SearchBar from './components/SearchBar';
+import ViewToggle from './components/ViewToggle';
+import NetworkGraph from './components/NetworkGraph';
+import NetworkGraphActors from './components/NetworkGraphActors';
+import DownloadMenu from './components/DownloadMenu';
+import apiService from './services/apiService';
+import { USE_LIVE_API } from './config';
+import { useUrlState } from './hooks/useUrlState';
+import { shareEvent, shareFilteredView } from './utils/shareUtils';
+import { createNewEventIssue, openGitHub } from './utils/githubUtils';
+import { initAnalytics, trackEvent, trackFilter, AnalyticsEvents } from './utils/analytics';
+import {
+  Filter,
+  BarChart3,
+  Loader2,
+  AlertCircle,
+  Share2,
+  Plus,
+  RefreshCw
+} from 'lucide-react';
+import './App.css'; // Keep CSS
+
+function Viewer() {
+  // URL state management
+  const { urlState, updateUrl } = useUrlState();
+
+  // State management
+  const [events, setEvents] = useState([]);
+  const [filteredEvents, setFilteredEvents] = useState([]);
+  const [selectedEvent, setSelectedEvent] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+  const [showLanding, setShowLanding] = useState(false);
+  const [shareNotification, setShareNotification] = useState(null);
+  const [filteredCount, setFilteredCount] = useState(0);
+  const [showAbout, setShowAbout] = useState(false);
+
+  // Filter states - initialize from URL or defaults
+  const [selectedTags, setSelectedTags] = useState([]);
+  const [selectedActors, setSelectedActors] = useState([]);
+  const [selectedCaptureLanes, setSelectedCaptureLanes] = useState([]);
+  const [dateRange, setDateRange] = useState({ start: null, end: null });
+  const [searchQuery, setSearchQuery] = useState('');
+  const [viewMode, setViewMode] = useState('timeline');
+  const [sortOrder, setSortOrder] = useState('newest');
+  const [minImportance, setMinImportance] = useState(0);
+
+  // UI states - initialize from URL or defaults
+  const [showFilters, setShowFilters] = useState(true);
+  const [showStats, setShowStats] = useState(false);
+  const [zoomLevel, setZoomLevel] = useState(1);
+  const [refreshing, setRefreshing] = useState(false);
+
+  // Timeline view controls - initialize from URL or defaults
+  const [timelineControls, setTimelineControls] = useState({
+    compactMode: 'medium',
+    showMinimap: true
+  });
+
+  // Graph view controls
+  const [graphControls, setGraphControls] = useState({
+    layout: 'force',
+    connectionStrength: 0,
+    showMetrics: false,
+    maxNodes: 200,
+    showLabels: true
+  });
+
+  // Actor view controls
+  const [actorControls, setActorControls] = useState({
+    minEvents: 3,
+    showLabels: true,
+    compareMode: false,
+    compareNodes: []
+  });
+
+  // Auto-refresh functionality
+  const [autoRefresh, setAutoRefresh] = useState(false);
+  const refreshIntervalRef = useRef(null);
+
+  // Metadata
+  const [allTags, setAllTags] = useState([]);
+  const [allActors, setAllActors] = useState([]);
+  const [allCaptureLanes, setAllCaptureLanes] = useState([]);
+  const [stats, setStats] = useState(null);
+
+  // Initialize state from URL when urlState is available
+  useEffect(() => {
+    if (urlState) {
+      setSelectedCaptureLanes(urlState.selectedCaptureLanes || []);
+      setSelectedTags(urlState.selectedTags || []);
+      setSelectedActors(urlState.selectedActors || []);
+      setDateRange(urlState.dateRange || { start: null, end: null });
+      setSearchQuery(urlState.searchQuery || '');
+      setViewMode(urlState.viewMode || 'timeline');
+      setSortOrder(urlState.sortOrder || 'newest');
+      setMinImportance(urlState.minImportance || 0);
+      setTimelineControls(urlState.timelineControls || {
+        compactMode: 'medium',
+        showMinimap: true
+      });
+      if (urlState.graphControls) {
+        setGraphControls(urlState.graphControls);
+      }
+      if (urlState.actorControls) {
+        setActorControls(urlState.actorControls);
+      }
+      setZoomLevel(urlState.zoomLevel || 1);
+      setShowFilters(urlState.showFilters !== false);
+      setShowStats(urlState.showStats || false);
+      setShowLanding(urlState.showLanding || false);
+
+      // Handle deep link to specific event
+      if (urlState.selectedEventId && events.length > 0) {
+        const event = events.find(e => e.id === urlState.selectedEventId);
+        if (event) {
+          setSelectedEvent(event);
+          setShowLanding(false);
+        }
+      }
+    }
+  }, [urlState, events]);
+
+  // Initialize analytics and load data
+  useEffect(() => {
+    initAnalytics();
+    loadData();
+  }, []);
+
+  const loadData = async (isRefresh = false) => {
+    try {
+      if (isRefresh) {
+        setRefreshing(true);
+      } else {
+        setLoading(true);
+      }
+
+      // Import FEATURE_FLAGS to check if IndexedDB is enabled
+      const { FEATURE_FLAGS } = require('./config');
+      const useIndexedDB = FEATURE_FLAGS.USE_INDEXED_DB;
+
+      if (useIndexedDB) {
+        // IndexedDB optimization: Load only critical data for initial render
+        // VirtualTimelineView will load its own event data from IndexedDB
+        console.log('[App] Using IndexedDB mode - loading minimal initial data for fast render');
+
+        const [tagsData, actorsData] = await Promise.all([
+          apiService.metadata.getTags(),
+          apiService.metadata.getActors()
+        ]);
+
+        // Extract metadata (needed for filters)
+        setAllTags(tagsData.tags || []);
+        setAllActors(actorsData.actors || []);
+        setAllCaptureLanes([]);
+
+        // Set empty events array - not needed for IndexedDB mode
+        setEvents([]);
+        setFilteredEvents([]);
+
+        // Mark as loaded - UI can render now
+        setLoading(false);
+        setRefreshing(false);
+        setError(null);
+
+        // Load stats in background (non-blocking)
+        Promise.all([
+          apiService.stats.getOverview(),
+          apiService.stats.getActorStats({ limit: 10 }),
+          apiService.stats.getImportanceStats()
+        ]).then(([statsData, actorStatsData, importanceData]) => {
+          const enhancedStats = {
+            ...statsData,
+            top_actors: actorStatsData.actor_stats || [],
+            importance_distribution: importanceData.distribution || {},
+            importance_by_year: importanceData.by_year || {}
+          };
+          setStats(enhancedStats);
+          console.log('[App] Background stats loaded');
+        }).catch(err => {
+          console.warn('[App] Failed to load stats (non-critical):', err);
+        });
+
+      } else {
+        // Legacy mode: Load all events for EnhancedTimelineView
+        console.log('[App] Using legacy mode - loading all events');
+
+        const [eventsData, tagsData, actorsData, statsData, actorStatsData, importanceData] = await Promise.all([
+          apiService.events.getEvents({ per_page: 10000 }), // Load all events
+          apiService.metadata.getTags(),
+          apiService.metadata.getActors(),
+          apiService.stats.getOverview(),
+          apiService.stats.getActorStats({ limit: 10 }),
+          apiService.stats.getImportanceStats()
+        ]);
+
+        // Extract events from paginated response
+        const events = eventsData.events || eventsData;
+        console.log(`[App] Loaded ${events.length} events from API`);
+        setEvents(events);
+        setFilteredEvents(events);
+
+        // Extract metadata
+        setAllTags(tagsData.tags || []);
+        setAllActors(actorsData.actors || []);
+        setAllCaptureLanes([]);
+
+        // Enhance stats with additional API data
+        const enhancedStats = {
+          ...statsData,
+          top_actors: actorStatsData.actor_stats || [],
+          importance_distribution: importanceData.distribution || {},
+          importance_by_year: importanceData.by_year || {},
+          // Generate events_by_year from the events data for compatibility
+          events_by_year: eventsData.events ?
+            eventsData.events.reduce((acc, event) => {
+              const year = event.date?.substring(0, 4);
+              if (year) {
+                acc[year] = (acc[year] || 0) + 1;
+              }
+              return acc;
+            }, {}) : {}
+        };
+        setStats(enhancedStats);
+        setLoading(false);
+        setRefreshing(false);
+        setError(null);
+      }
+    } catch (err) {
+      const errorMessage = USE_LIVE_API
+        ? 'Failed to load timeline data. Please ensure the Research Monitor v2 server is running on port 5558.'
+        : 'Failed to load timeline data. Please check that the API files are deployed correctly.';
+      setError(errorMessage);
+      console.error('Error loading data:', err);
+      setLoading(false);
+      setRefreshing(false);
+    }
+  };
+
+  // Handle manual refresh
+  const handleRefresh = useCallback(() => {
+    loadData(true);
+  }, []);
+
+  // Auto-refresh effect
+  useEffect(() => {
+    if (autoRefresh) {
+      refreshIntervalRef.current = setInterval(() => {
+        loadData(true);
+      }, 30000); // Refresh every 30 seconds
+    } else {
+      if (refreshIntervalRef.current) {
+        clearInterval(refreshIntervalRef.current);
+        refreshIntervalRef.current = null;
+      }
+    }
+
+    return () => {
+      if (refreshIntervalRef.current) {
+        clearInterval(refreshIntervalRef.current);
+      }
+    };
+  }, [autoRefresh]);
+
+  // Apply filters using API calls for better performance
+  useEffect(() => {
+    const applyFilters = async () => {
+      try {
+        // Build API filter parameters
+        const filterParams = {
+          per_page: 10000, // Load all filtered results
+          start_date: dateRange.start || null,
+          end_date: dateRange.end || null,
+          importance_min: minImportance > 0 ? minImportance : null,
+          search: searchQuery || null,
+          tags: selectedTags.length > 0 ? selectedTags.join(',') : null,
+          actors: selectedActors.length > 0 ? selectedActors.join(',') : null
+        };
+
+        let filtered;
+        if (searchQuery) {
+          // Use search API for text queries
+          const searchParams = {
+            q: searchQuery,
+            limit: 10000,
+            offset: 0,
+            start_date: dateRange.start || null,
+            end_date: dateRange.end || null,
+            min_importance: minImportance > 0 ? minImportance : null,
+            tags: selectedTags.length > 0 ? selectedTags.join(',') : null,
+            actors: selectedActors.length > 0 ? selectedActors.join(',') : null
+          };
+          const searchResult = await apiService.events.searchEvents(searchParams);
+          filtered = searchResult.events || [];
+        } else {
+          // Use regular events API with filters
+          const eventsResult = await apiService.events.getEvents(filterParams);
+          filtered = eventsResult.events || eventsResult || [];
+        }
+
+        // Apply capture lanes filter client-side (not in API v2)
+        if (selectedCaptureLanes.length > 0) {
+          filtered = filtered.filter(event =>
+            event.capture_lanes && Array.isArray(event.capture_lanes) && selectedCaptureLanes.some(lane => event.capture_lanes.includes(lane))
+          );
+        }
+
+        // Apply sorting
+        const sorted = [...filtered];
+        switch (sortOrder) {
+          case 'newest':
+            sorted.sort((a, b) => {
+              const dateA = a.date || '';
+              const dateB = b.date || '';
+              return dateB.localeCompare(dateA);
+            });
+            break;
+          case 'importance':
+            sorted.sort((a, b) => (b.importance || 0) - (a.importance || 0));
+            break;
+          case 'alphabetical':
+            sorted.sort((a, b) => {
+              const titleA = a.title || '';
+              const titleB = b.title || '';
+              return titleA.localeCompare(titleB);
+            });
+            break;
+          case 'chronological':
+          default:
+            sorted.sort((a, b) => {
+              const dateA = a.date || '';
+              const dateB = b.date || '';
+              return dateA.localeCompare(dateB);
+            });
+            break;
+        }
+
+        setFilteredEvents(sorted);
+        // In legacy mode (or when API returns full list), update count directly
+        if (filtered.length > 0 || !searchQuery) {
+          setFilteredCount(filtered.length);
+        }
+      } catch (error) {
+        console.error('Error applying filters:', error);
+        // Fallback to client-side filtering if API fails
+        setFilteredEvents(events);
+        setFilteredCount(events.length);
+      }
+    };
+
+    applyFilters();
+  }, [events, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, sortOrder, minImportance]);
+
+  // Event handlers
+  const handleEventClick = useCallback((event) => {
+    setSelectedEvent(event);
+    trackEvent(AnalyticsEvents.VIEW_EVENT_DETAILS, {
+      event_year: event.date?.substring(0, 4),
+      event_importance: event.importance
+    });
+  }, []);
+
+  const handleTagClick = useCallback((tag) => {
+    const newTags = selectedTags.includes(tag)
+      ? selectedTags.filter(t => t !== tag)
+      : [...selectedTags, tag];
+
+    setSelectedTags(newTags);
+    trackFilter('tag', tag);
+
+    // Update URL with new tags
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes,
+        selectedTags: newTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats, selectedCaptureLanes]);
+
+  const handleActorClick = useCallback((actor) => {
+    const newActors = selectedActors.includes(actor)
+      ? selectedActors.filter(a => a !== actor)
+      : [...selectedActors, actor];
+
+    setSelectedActors(newActors);
+
+    // Update URL with new actors
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes,
+        selectedTags,
+        selectedActors: newActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
+
+  const handleCaptureLaneClick = useCallback((lane) => {
+    const newLanes = selectedCaptureLanes.includes(lane)
+      ? selectedCaptureLanes.filter(l => l !== lane)
+      : [...selectedCaptureLanes, lane];
+
+    setSelectedCaptureLanes(newLanes);
+
+    // Update URL with new capture lanes
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes: newLanes,
+        selectedTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        graphControls,
+        actorControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, graphControls, actorControls, zoomLevel, showFilters, showStats]);
+
+  const handleTimelineControlsChange = useCallback((newControls) => {
+    setTimelineControls(newControls);
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes,
+        selectedTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls: newControls,
+        graphControls,
+        actorControls,
+        zoomLevel,
+        showFilters,
+        showStats
+      });
+    }
+  }, [updateUrl, selectedTags, selectedActors, dateRange, searchQuery, viewMode, zoomLevel, showFilters, showStats, selectedCaptureLanes, graphControls, actorControls]);
+
+  const handleGraphControlsChange = useCallback((newControlsOrUpdater) => {
+    // Handle both direct object and functional updates
+    setGraphControls(prev => {
+      const newControls = typeof newControlsOrUpdater === 'function'
+        ? newControlsOrUpdater(prev)
+        : newControlsOrUpdater;
+
+      if (updateUrl) {
+        updateUrl({
+          selectedCaptureLanes,
+          selectedTags,
+          selectedActors,
+          dateRange,
+          searchQuery,
+          viewMode,
+          timelineControls,
+          graphControls: newControls,
+          actorControls,
+          zoomLevel,
+          showFilters,
+          showStats
+        });
+      }
+      return newControls;
+    });
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, actorControls, zoomLevel, showFilters, showStats]);
+
+  const handleActorControlsChange = useCallback((newControlsOrUpdater) => {
+    setActorControls(prev => {
+      const newControls = typeof newControlsOrUpdater === 'function'
+        ? newControlsOrUpdater(prev)
+        : newControlsOrUpdater;
+
+      if (updateUrl) {
+        updateUrl({
+          selectedCaptureLanes,
+          selectedTags,
+          selectedActors,
+          dateRange,
+          searchQuery,
+          viewMode,
+          timelineControls,
+          graphControls,
+          actorControls: newControls,
+          zoomLevel,
+          showFilters,
+          showStats
+        });
+      }
+      return newControls;
+    });
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, graphControls, zoomLevel, showFilters, showStats]);
+
+  const clearFilters = useCallback(() => {
+    const defaultState = {
+      selectedCaptureLanes: [],
+      selectedTags: [],
+      selectedActors: [],
+      dateRange: { start: null, end: null },
+      searchQuery: '',
+      sortOrder: 'newest',
+      minImportance: 0,
+      viewMode,
+      timelineControls: {
+        compactMode: 'medium',
+        showMinimap: true
+      },
+      zoomLevel,
+      showFilters,
+      showStats
+    };
+
+    setSelectedCaptureLanes(defaultState.selectedCaptureLanes);
+    setSelectedTags(defaultState.selectedTags);
+    setSelectedActors(defaultState.selectedActors);
+    setDateRange(defaultState.dateRange);
+    setSearchQuery(defaultState.searchQuery);
+    setSortOrder(defaultState.sortOrder);
+    setMinImportance(defaultState.minImportance);
+    setTimelineControls(defaultState.timelineControls);
+
+    // Update URL to reflect cleared state
+    if (updateUrl) {
+      updateUrl(defaultState);
+    }
+  }, [updateUrl, viewMode, zoomLevel, showFilters, showStats]);
+
+  const handleFilteredCountChange = useCallback((count) => {
+    setFilteredCount(count);
+  }, []);
+
+  // Compute timeline groups for better visualization
+  const timelineGroups = useMemo(() => {
+    const groups = {};
+    filteredEvents.forEach(event => {
+      const year = event.date?.substring(0, 4) || 'Unknown';
+      if (!groups[year]) {
+        groups[year] = [];
+      }
+      groups[year].push(event);
+    });
+    return groups;
+  }, [filteredEvents]);
+
+  // Handler for entering timeline from landing page
+  const handleEnterTimeline = useCallback(() => {
+    setShowLanding(false);
+    if (updateUrl) {
+      updateUrl({
+        selectedCaptureLanes,
+        selectedTags,
+        selectedActors,
+        dateRange,
+        searchQuery,
+        viewMode,
+        timelineControls,
+        zoomLevel,
+        showFilters,
+        showStats,
+        showLanding: false
+      });
+    }
+  }, [updateUrl, selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode, timelineControls, zoomLevel, showFilters, showStats]);
+
+  // Handler for sharing an event
+  const handleShareEvent = useCallback(async (event) => {
+    const result = await shareEvent(event, {
+      selectedCaptureLanes,
+      selectedTags,
+      selectedActors,
+      dateRange,
+      searchQuery,
+      viewMode
+    });
+
+    if (result.success) {
+      setShareNotification({
+        type: 'success',
+        message: result.method === 'clipboard'
+          ? 'Link copied to clipboard!'
+          : 'Event shared successfully!'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    } else {
+      setShareNotification({
+        type: 'error',
+        message: 'Failed to share event'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    }
+  }, [selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode]);
+
+  // Handler for sharing filtered view
+  const handleShareView = useCallback(async () => {
+    const result = await shareFilteredView({
+      selectedCaptureLanes,
+      selectedTags,
+      selectedActors,
+      dateRange,
+      searchQuery,
+      viewMode
+    });
+
+    if (result.success) {
+      setShareNotification({
+        type: 'success',
+        message: result.method === 'clipboard'
+          ? 'Link copied to clipboard!'
+          : 'View shared successfully!'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    } else {
+      setShareNotification({
+        type: 'error',
+        message: 'Failed to share view'
+      });
+      setTimeout(() => setShareNotification(null), 3000);
+    }
+  }, [selectedCaptureLanes, selectedTags, selectedActors, dateRange, searchQuery, viewMode]);
+
+  if (loading) {
+    return (
+      <div className="loading-container">
+        <Loader2 className="spinner" size={48} />
+        <p>Loading timeline data...</p>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="error-container">
+        <AlertCircle size={48} />
+        <h2>Error Loading Timeline</h2>
+        <p>{error}</p>
+        <button onClick={loadData} className="retry-button">
+          Retry
+        </button>
+      </div>
+    );
+  }
+
+  // Show landing page if it's the initial visit or explicitly requested
+  if (showLanding) {
+    return <LandingPage onEnterTimeline={handleEnterTimeline} />;
+  }
+
+  return (
+    <div className="app">
+      <NavigationBar onAboutClick={() => setShowAbout(true)} />
+
+      {/* Share notification */}
+      {shareNotification && (
+        <div className={`share-notification ${shareNotification.type}`}>
+          {shareNotification.message}
+        </div>
+      )}
+
+
+      <header className="app-header" style={{ justifyContent: 'center', padding: '10px' }}>
+        {/* Title moved to NavigationBar */}
+
+        <div className="header-controls">
+          <SearchBar
+            value={searchQuery}
+            onChange={(newQuery) => {
+              setSearchQuery(newQuery);
+              if (updateUrl) {
+                updateUrl({
+                  selectedCaptureLanes,
+                  selectedTags,
+                  selectedActors,
+                  dateRange,
+                  searchQuery: newQuery,
+                  viewMode,
+                  timelineControls,
+                  showFilters,
+                  showStats
+                });
+              }
+            }}
+            placeholder="Search events, actors, tags..."
+          />
+
+          <div className="header-buttons">
+            <div className="view-controls">
+              <button
+                className={`icon-button ${showFilters ? 'active' : ''}`}
+                onClick={() => setShowFilters(!showFilters)}
+                title="Toggle Filters"
+              >
+                <Filter size={20} />
+              </button>
+
+              <button
+                className={`icon-button ${showStats ? 'active' : ''}`}
+                onClick={() => setShowStats(!showStats)}
+                title="Toggle Statistics"
+              >
+                <BarChart3 size={20} />
+              </button>
+            </div>
+
+            <div className="data-controls">
+              <button
+                className={`icon-button ${refreshing ? 'spinning' : ''}`}
+                onClick={handleRefresh}
+                disabled={refreshing}
+                title="Refresh data"
+              >
+                <RefreshCw size={20} />
+              </button>
+
+              <button
+                className={`icon-button ${autoRefresh ? 'active' : ''}`}
+                onClick={() => setAutoRefresh(!autoRefresh)}
+                title={autoRefresh ? 'Disable auto-refresh' : 'Enable auto-refresh (30s)'}
+              >
+                <RefreshCw size={20} />
+                {autoRefresh && <span className="auto-indicator">AUTO</span>}
+              </button>
+            </div>
+
+            <button
+              className="icon-button"
+              onClick={() => {
+                navigator.clipboard.writeText(window.location.href);
+                setShareNotification({ message: 'Link copied to clipboard!', type: 'success' });
+                setTimeout(() => setShareNotification(null), 3000);
+              }}
+              title="Copy link to share this view"
+            >
+              <Share2 size={20} />
+            </button>
+
+            <DownloadMenu
+              events={filteredEvents}
+              onDownload={(format) => {
+                trackEvent(AnalyticsEvents.EXPORT_DATA, { format });
+                setShareNotification({
+                  message: `Timeline exported as ${format.toUpperCase()}`,
+                  type: 'success'
+                });
+                setTimeout(() => setShareNotification(null), 3000);
+              }}
+            />
+          </div >
+
+          <button
+            className="share-view-button"
+            onClick={handleShareView}
+            title="Share current view"
+          >
+            <Share2 size={18} />
+            <span>Share View</span>
+          </button>
+
+          <button
+            className="submit-event-button"
+            onClick={() => openGitHub(createNewEventIssue())}
+            title="Submit new event"
+          >
+            <Plus size={18} />
+            <span>Submit Event</span>
+          </button>
+
+          <ViewToggle
+            currentView={viewMode}
+            onViewChange={(newViewMode) => {
+              setViewMode(newViewMode);
+              if (updateUrl) {
+                updateUrl({
+                  selectedCaptureLanes,
+                  selectedTags,
+                  selectedActors,
+                  dateRange,
+                  searchQuery,
+                  viewMode: newViewMode,
+                  timelineControls,
+                  zoomLevel,
+                  showFilters,
+                  showStats
+                });
+              }
+            }}
+          />
+        </div >
+      </header >
+
+      <div className="app-body">
+        <AnimatePresence>
+          {showFilters && (
+            <motion.aside
+              className="sidebar filter-sidebar"
+              initial={{ x: -300 }}
+              animate={{ x: 0 }}
+              exit={{ x: -300 }}
+              transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            >
+              <FilterPanel
+                allTags={allTags}
+                allActors={allActors}
+                allCaptureLanes={allCaptureLanes}
+                selectedTags={selectedTags}
+                selectedActors={selectedActors}
+                selectedCaptureLanes={selectedCaptureLanes}
+                dateRange={dateRange}
+                events={events}
+                sortOrder={sortOrder}
+                onSortOrderChange={setSortOrder}
+                minImportance={minImportance}
+                onMinImportanceChange={setMinImportance}
+                onTagsChange={(newTags) => {
+                  setSelectedTags(newTags);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedCaptureLanes,
+                      selectedTags: newTags,
+                      selectedActors,
+                      dateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onCaptureLanesChange={(newLanes) => {
+                  setSelectedCaptureLanes(newLanes);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedCaptureLanes: newLanes,
+                      selectedTags,
+                      selectedActors,
+                      dateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onActorsChange={(newActors) => {
+                  setSelectedActors(newActors);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedCaptureLanes,
+                      selectedTags,
+                      selectedActors: newActors,
+                      dateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onDateRangeChange={(newDateRange) => {
+                  setDateRange(newDateRange);
+                  if (updateUrl) {
+                    updateUrl({
+                      selectedCaptureLanes,
+                      selectedTags,
+                      selectedActors,
+                      dateRange: newDateRange,
+                      searchQuery,
+                      viewMode,
+                      timelineControls,
+                      zoomLevel,
+                      showFilters,
+                      showStats
+                    });
+                  }
+                }}
+                onClear={clearFilters}
+                eventCount={loading ? 0 : filteredCount}
+                totalCount={loading ? 0 : (events.length > 0 ? events.length : (stats?.total_events || 0))}
+                viewMode={viewMode}
+                timelineControls={timelineControls}
+                onTimelineControlsChange={handleTimelineControlsChange}
+                timelineData={viewMode === 'timeline' ? {
+                  events: filteredEvents,
+                  groups: timelineGroups,
+                  onNavigate: (date) => {
+                    // Navigate to specific date by setting it as center of view
+                    if (date) {
+                      const targetDate = new Date(date);
+                      const beforeDate = new Date(targetDate);
+                      const afterDate = new Date(targetDate);
+                      beforeDate.setMonth(beforeDate.getMonth() - 3);
+                      afterDate.setMonth(afterDate.getMonth() + 3);
+
+                      setDateRange({
+                        start: beforeDate.toISOString().split('T')[0],
+                        end: afterDate.toISOString().split('T')[0]
+                      });
+                    }
+                  },
+                  onDateRangeSelect: (range) => {
+                    // Update date range from minimap selection
+                    if (range && range.start && range.end) {
+                      setDateRange({
+                        start: range.start,
+                        end: range.end
+                      });
+                    } else {
+                      // Clear date range if null selection
+                      setDateRange({ start: '', end: '' });
+                    }
+                  },
+                  currentDateRange: dateRange
+                } : null}
+
+                // Graph Props
+                graphControls={graphControls}
+                onGraphControlsChange={handleGraphControlsChange}
+
+                // Actor Props
+                actorControls={actorControls}
+                onActorControlsChange={handleActorControlsChange}
+
+                // Zoom Props
+                zoomLevel={zoomLevel}
+                onZoomLevelChange={setZoomLevel}
+              />
+
+            </motion.aside>
+          )}
+        </AnimatePresence>
+
+        <main className={`main-content ${viewMode === 'graph' ? 'graph-mode' : ''}`}>
+          {/* Header moved to FilterPanel to save space */}
+
+          {viewMode === 'graph' ? (
+            <NetworkGraph
+              events={filteredEvents}
+              searchQuery={searchQuery}
+              activeCategories={new Set(selectedTags.length > 0 ? selectedTags : ['all'])}
+              // Lifted State Props
+              graphLayout={graphControls.layout}
+              minConnectionStrength={graphControls.connectionStrength}
+              showMetrics={graphControls.showMetrics}
+              maxNodes={graphControls.maxNodes}
+              showLabels={graphControls.showLabels}
+              // Pass Setters via the wrapped handler to ensure URL updates
+              onGraphLayoutChange={(val) => handleGraphControlsChange(prev => ({ ...prev, layout: val }))}
+              onMaxNodesChange={(val) => handleGraphControlsChange(prev => ({ ...prev, maxNodes: val }))}
+              onConnectionStrengthChange={(val) => handleGraphControlsChange(prev => ({ ...prev, connectionStrength: val }))}
+              onShowMetricsChange={(val) => handleGraphControlsChange(prev => ({ ...prev, showMetrics: val }))}
+              onShowLabelsChange={(val) => handleGraphControlsChange(prev => ({ ...prev, showLabels: val }))}
+            />
+          ) : viewMode === 'actors' ? (
+            <NetworkGraphActors
+              events={filteredEvents}
+              searchQuery={searchQuery}
+              minEvents={actorControls.minEvents}
+              showLabels={actorControls.showLabels}
+              compareMode={actorControls.compareMode}
+              compareNodes={actorControls.compareNodes}
+              onMinEventsChange={(val) => handleActorControlsChange(prev => ({ ...prev, minEvents: val }))}
+              onShowLabelsChange={(val) => handleActorControlsChange(prev => ({ ...prev, showLabels: val }))}
+              onCompareModeChange={(val) => handleActorControlsChange(prev => ({ ...prev, compareMode: val }))}
+              onCompareNodesChange={(val) => handleActorControlsChange(prev => ({ ...prev, compareNodes: val }))}
+            />
+          ) : (
+            <TimelineViewWrapper
+              events={filteredEvents}
+              groups={timelineGroups}
+              viewMode={viewMode}
+              zoomLevel={zoomLevel}
+              sortOrder={sortOrder}
+              onEventClick={handleEventClick}
+              onTagClick={handleTagClick}
+              onActorClick={handleActorClick}
+              onCaptureLaneClick={handleCaptureLaneClick}
+              selectedTags={selectedTags}
+              selectedActors={selectedActors}
+              timelineControls={timelineControls}
+              onTimelineControlsChange={setTimelineControls}
+              searchQuery={searchQuery}
+              dateRange={dateRange}
+              minImportance={minImportance}
+              onFilteredCountChange={handleFilteredCountChange}
+              onClearFilters={clearFilters}
+            />
+          )}
+        </main>
+
+        <AnimatePresence>
+          {showStats && stats && (
+            <motion.aside
+              className="sidebar stats-sidebar"
+              initial={{ x: 300 }}
+              animate={{ x: 0 }}
+              exit={{ x: 300 }}
+              transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            >
+              <StatsPanel
+                stats={stats}
+                events={filteredEvents}
+              />
+            </motion.aside>
+          )}
+        </AnimatePresence>
+
+      </div>
+
+      <AnimatePresence>
+        {selectedEvent && (
+          <EventDetails
+            event={selectedEvent}
+            onClose={() => setSelectedEvent(null)}
+            onTagClick={handleTagClick}
+            onShare={handleShareEvent}
+            onActorClick={handleActorClick}
+            onCaptureLaneClick={handleCaptureLaneClick}
+          />
+        )}
+        {showAbout && (
+          <AboutOverlay onClose={() => setShowAbout(false)} />
+        )}
+      </AnimatePresence>
+    </div >
+  );
+}
+
+export default Viewer;

@@ -1,27 +1,18 @@
-
 import { useState } from 'react';
-import { Settings2, ChevronUp, Layers, Share2, Search } from 'lucide-react';
+import type { GraphSettings } from '../../types/visualization';
+import { Search, Filter, Sliders, Settings as SettingsIcon, Layout, Grid, Activity, BarChart2, Download, Settings2, ChevronUp, Share2, Layers } from 'lucide-react';
 import './GraphControls.css';
-
-export interface GraphSettings {
-    layout: 'force' | 'timeline';
-    showLabels: boolean;
-    showMetrics: boolean;
-    minStrength: number;
-    maxNodes: number;
-    searchText: string;
-    selectedTypes: string[];
-}
 
 interface GraphControlsProps {
     settings: GraphSettings;
     onChange: (settings: GraphSettings) => void;
+    onExport?: () => void;
 }
 
-export function GraphControls({ settings, onChange }: GraphControlsProps) {
+export function GraphControls({ settings, onChange, onExport }: GraphControlsProps) {
     const [collapsed, setCollapsed] = useState(false);
 
-    const update = (key: keyof GraphSettings, value: any) => {
+    const updateSetting = <K extends keyof GraphSettings>(key: K, value: GraphSettings[K]) => {
         onChange({ ...settings, [key]: value });
     };
 
@@ -30,7 +21,7 @@ export function GraphControls({ settings, onChange }: GraphControlsProps) {
         const newTypes = types.includes(type)
             ? types.filter(t => t !== type)
             : [...types, type];
-        update('selectedTypes', newTypes);
+        updateSetting('selectedTypes', newTypes);
     };
 
     // All available types from schema
@@ -56,17 +47,53 @@ export function GraphControls({ settings, onChange }: GraphControlsProps) {
             </div>
 
             <div className="control-group">
+                <label>View Mode</label>
+                <div className="switch">
+                    <button
+                        className={settings.viewMode === 'graph' ? 'active' : ''}
+                        onClick={() => updateSetting('viewMode', 'graph')}
+                    >
+                        Graph
+                    </button>
+                    <button
+                        className={settings.viewMode === 'matrix' ? 'active' : ''}
+                        onClick={() => updateSetting('viewMode', 'matrix')}
+                    >
+                        Matrix
+                    </button>
+                    <button
+                        className={settings.viewMode === 'sunburst' ? 'active' : ''}
+                        onClick={() => updateSetting('viewMode', 'sunburst')}
+                    >
+                        Hierarchy
+                    </button>
+                    <button
+                        className={settings.viewMode === 'heatmap' ? 'active' : ''}
+                        onClick={() => updateSetting('viewMode', 'heatmap')}
+                    >
+                        Hotspots
+                    </button>
+                    <button
+                        className={settings.viewMode === 'patterns' ? 'active' : ''}
+                        onClick={() => updateSetting('viewMode', 'patterns')}
+                    >
+                        Patterns
+                    </button>
+                </div>
+            </div>
+
+            <div className="control-group">
                 <label>Layout Mode</label>
                 <div className="switch">
                     <button
                         className={settings.layout === 'force' ? 'active' : ''}
-                        onClick={() => update('layout', 'force')}
+                        onClick={() => updateSetting('layout', 'force')}
                     >
                         <Share2 size={12} style={{ marginRight: 4 }} /> Network
                     </button>
                     <button
                         className={settings.layout === 'timeline' ? 'active' : ''}
-                        onClick={() => update('layout', 'timeline')}
+                        onClick={() => updateSetting('layout', 'timeline')}
                     >
                         <Layers size={12} style={{ marginRight: 4 }} /> Timeline
                     </button>
@@ -81,7 +108,7 @@ export function GraphControls({ settings, onChange }: GraphControlsProps) {
                         type="text"
                         placeholder="Search entities, tags..."
                         value={settings.searchText || ''}
-                        onChange={(e) => update('searchText', e.target.value)}
+                        onChange={(e) => updateSetting('searchText', e.target.value)}
                         style={{
                             width: '100%',
                             padding: '6px 8px 6px 28px',
@@ -128,7 +155,7 @@ export function GraphControls({ settings, onChange }: GraphControlsProps) {
                     max="500"
                     step="10"
                     value={settings.maxNodes}
-                    onChange={(e) => update('maxNodes', parseInt(e.target.value))}
+                    onChange={(e) => updateSetting('maxNodes', parseInt(e.target.value))}
                 />
             </div>
 
@@ -143,27 +170,51 @@ export function GraphControls({ settings, onChange }: GraphControlsProps) {
                     max="1"
                     step="0.1"
                     value={settings.minStrength}
-                    onChange={(e) => update('minStrength', parseFloat(e.target.value))}
+                    onChange={(e) => updateSetting('minStrength', parseFloat(e.target.value))}
                 />
             </div>
 
-            <div className="control-item-row">
-                <span>Show Labels</span>
+            <div className="control-group checkbox">
+                <label>Show Labels</label>
                 <input
                     type="checkbox"
                     checked={settings.showLabels}
-                    onChange={(e) => update('showLabels', e.target.checked)}
+                    onChange={(e) => updateSetting('showLabels', e.target.checked)}
                 />
             </div>
 
-            <div className="control-item-row">
-                <span>Show Metrics</span>
+            <div className="control-group checkbox">
+                <label>Show Metrics</label>
                 <input
                     type="checkbox"
                     checked={settings.showMetrics}
-                    onChange={(e) => update('showMetrics', e.target.checked)}
+                    onChange={(e) => updateSetting('showMetrics', e.target.checked)}
                 />
             </div>
+
+            {onExport && (
+                <div className="control-group" style={{ marginTop: '15px', paddingTop: '10px', borderTop: '1px solid #334155' }}>
+                    <button
+                        onClick={onExport}
+                        style={{
+                            width: '100%',
+                            padding: '8px',
+                            background: '#334155',
+                            color: '#e2e8f0',
+                            border: '1px solid #475569',
+                            borderRadius: '6px',
+                            cursor: 'pointer',
+                            display: 'flex',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            gap: '8px',
+                            fontSize: '0.9em'
+                        }}
+                    >
+                        <Download size={14} /> Export Graph (GEXF)
+                    </button>
+                </div>
+            )}
         </div>
     );
 }
