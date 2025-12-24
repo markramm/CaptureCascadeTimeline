@@ -45,6 +45,8 @@ export const syncEvents = async (force = false) => {
     }
 };
 
+import type { ValidationRecord, AggregatedValidation } from '../schemas/validation';
+
 export const syncValidations = async () => {
     try {
         const response = await fetch('/api/validations.json');
@@ -53,10 +55,10 @@ export const syncValidations = async () => {
             throw new Error('Failed to fetch validations.json');
         }
 
-        const data: any[] = await response.json();
+        const data: AggregatedValidation[] = await response.json();
         console.log(`Fetching validation records for ${data.length} events...`);
 
-        const allRecords = [];
+        const allRecords: ValidationRecord[] = [];
         for (const item of data) {
             for (const v of item.validations) {
                 allRecords.push(v);

@@ -23,11 +23,6 @@ import './NetworkGraph.css';
 const EMPTY_ARRAY: TimelineEvent[] = [];
 
 export function NetworkGraph({
-    minConnectionStrength: _minConnectionStrength = 0.5,
-    showMetrics: _showMetrics = false,
-    maxNodes: _maxNodes = 200,
-    showLabels: _showLabels = true,
-    graphLayout: _graphLayout = 'force',
     title,
     description
 }: VisualizationProps) {
@@ -60,8 +55,12 @@ export function NetworkGraph({
 
 
 
-    // UI State
-    const [selectedNode, setSelectedNode] = useState<GraphNode | null>(null);
+
+    const selectEvent = useUIStore(s => s.selectEvent);
+    const clearSelection = useUIStore(s => s.clearSelection);
+    const focusedEventId = useUIStore(s => s.focusedEventId);
+
+    // Derived Settings Object for Hooks
 
     // Data Loading
     const events = useLiveQuery(() => db.events.toArray()) || EMPTY_ARRAY;
@@ -149,24 +148,9 @@ export function NetworkGraph({
                     .on('drag', dragged)
                     .on('end', dragEnded)
                 )
-                .on('click', (event: any, d) => { // eslint-disable-line @typescript-eslint/no-explicit-any
+                .on('click', (event: MouseEvent, d) => { // eslint-disable-line
                     event.stopPropagation();
-                    setSelectedNode(d);
-
-                    // Highlight neighborhood
-                    const connectedIds = new Set<string>();
-                    connectedIds.add(d.id);
-                    graphData.links.forEach(l => {
-                        if (l.source === d || (l.source as GraphNode).id === d.id) connectedIds.add((l.target as GraphNode).id);
-                        if (l.target === d || (l.target as GraphNode).id === d.id) connectedIds.add((l.source as GraphNode).id);
-                    });
-
-                    node.transition().duration(300)
-                        .style('opacity', n => connectedIds.has(n.id) ? 1 : 0.1);
-
-                    link.transition().duration(300)
-                        .style('opacity', () => 0.05) // Should check connectivity but complex for links in D3 tick. Simple fade for now. or check source/target
-                        .style('opacity', l => (connectedIds.has((l.source as GraphNode).id) && connectedIds.has((l.target as GraphNode).id)) ? 1 : 0.05);
+                    selectEvent(d.id, event.shiftKey || event.metaKey);
                 });
 
             // Circle Background - Visual Centrality
@@ -185,14 +169,14 @@ export function NetworkGraph({
                 .attr('stroke', d => {
                     const records = validationsMap.get(d.id);
                     if (records && records.length > 0) {
-                        if (records.some((r: any) => r.confidence === 'rejected')) return '#ef4444'; // Red
-                        if (records.some((r: any) => r.confidence === 'high')) return '#10b981'; // Emerald
+                        if (records.some((r: { confidence: string }) => r.confidence === 'rejected')) return '#ef4444'; // Red
+                        if (records.some((r: { confidence: string }) => r.confidence === 'high')) return '#10b981'; // Emerald
                     }
                     return '#fff';
                 })
                 .attr('stroke-width', d => {
                     const records = validationsMap.get(d.id);
-                    if (records && records.some((r: any) => r.confidence === 'high')) return 3;
+                    if (records && records.some((r: { confidence: string }) => r.confidence === 'high')) return 3;
                     return 1.5;
                 });
 
@@ -220,7 +204,7 @@ export function NetworkGraph({
 
             // Reset highlighting on canvas click
             svg.on('click', () => {
-                setSelectedNode(null);
+                clearSelection();
                 node.transition().duration(300).style('opacity', 1);
                 link.transition().duration(300).style('opacity', () => 0.4);
             });
@@ -237,23 +221,23 @@ export function NetworkGraph({
 
                 if (settings.showLabels) {
                     g.selectAll('text')
-                        .attr('x', (d: any) => d.x + 14) // eslint-disable-line @typescript-eslint/no-explicit-any
-                        .attr('y', (d: any) => d.y + 4); // eslint-disable-line @typescript-eslint/no-explicit-any
+                        .attr('x', (d) => (d as GraphNode).x! + 14)
+                        .attr('y', (d) => (d as GraphNode).y! + 4);
                 }
             });
 
-            function dragStarted(event: any) { // eslint-disable-line @typescript-eslint/no-explicit-any
+            function dragStarted(event: d3.D3DragEvent<SVGGElement, GraphNode, GraphNode>) {
                 if (!event.active) simulation.alphaTarget(0.3).restart();
                 event.subject.fx = event.subject.x;
                 event.subject.fy = event.subject.y;
             }
 
-            function dragged(event: any) { // eslint-disable-line @typescript-eslint/no-explicit-any
+            function dragged(event: d3.D3DragEvent<SVGGElement, GraphNode, GraphNode>) {
                 event.subject.fx = event.x;
                 event.subject.fy = event.y;
             }
 
-            function dragEnded(event: any) { // eslint-disable-line @typescript-eslint/no-explicit-any
+            function dragEnded(event: d3.D3DragEvent<SVGGElement, GraphNode, GraphNode>) {
                 if (!event.active) simulation.alphaTarget(0);
                 event.subject.fx = null;
                 event.subject.fy = null;
@@ -297,7 +281,7 @@ export function NetworkGraph({
                 .attr('r', 6)
                 .attr('fill', d => colorScale(d.group as string))
                 .attr('stroke', '#fff')
-                .on('click', (_event: any, d) => setSelectedNode(d)); // eslint-disable-line @typescript-eslint/no-explicit-any
+                .on('click', (_event: MouseEvent, d) => selectEvent(d.id));
 
             // Time Axis
             const xAxis = d3.axisBottom(xScale);
@@ -309,6 +293,52 @@ export function NetworkGraph({
 
     }, [graphData, settings.layout, settings.showLabels, dimensions, settings.viewMode]);
 
+
+    // Highlighting Effect
+    useEffect(() => {
+        if (!svgRef.current || !graphData.nodes.length) return;
+        const svg = d3.select(svgRef.current);
+        const node = svg.selectAll('.node'); // Need to ensure class 'node' is set
+        const link = svg.selectAll('line'); // Need better selector if possible
+
+        if (!focusedEventId) {
+            // Reset
+            node.transition().duration(300).style('opacity', 1);
+            link.transition().duration(300).style('opacity', 0.4);
+            return;
+        }
+
+        // Calculate Neighborhood
+        const connectedIds = new Set<string>();
+        connectedIds.add(focusedEventId);
+
+        // We need 'links' to calculate neighborhood. 
+        // Note: graphData.links might reference objects or IDs depending on d3 force init state.
+        // But since we are inside the component, we can access graphData.links.
+        // Only potential issue is if graphData changes reference. 
+        // But graphData is memoized.
+
+        graphData.links.forEach(l => {
+            // D3 Force replaces source/target string IDs with Node objects. 
+            // We need to handle both just in case or rely on d3 typing.
+            const sId = (typeof l.source === 'object') ? (l.source as GraphNode).id : l.source as string;
+            const tId = (typeof l.target === 'object') ? (l.target as GraphNode).id : l.target as string;
+
+            if (sId === focusedEventId) connectedIds.add(tId);
+            if (tId === focusedEventId) connectedIds.add(sId);
+        });
+
+        node.transition().duration(300)
+            .style('opacity', (d: any) => connectedIds.has(d.id) ? 1 : 0.1);
+
+        link.transition().duration(300)
+            .style('opacity', (l: any) => {
+                const sId = (typeof l.source === 'object') ? (l.source as GraphNode).id : l.source as string;
+                const tId = (typeof l.target === 'object') ? (l.target as GraphNode).id : l.target as string;
+                return (connectedIds.has(sId) && connectedIds.has(tId)) ? 1 : 0.05;
+            });
+
+    }, [focusedEventId, graphData]); // Run when focus changes
 
     // Export Handler
     const handleExport = () => {
@@ -401,62 +431,66 @@ export function NetworkGraph({
                         </div>
                     </div>
 
-                    {selectedNode && (
-                        <div className="node-tooltip" style={{
-                            position: 'absolute', bottom: 20, right: 20,
-                            background: 'rgba(15, 23, 42, 0.9)', color: 'white', padding: '16px',
-                            borderRadius: '12px', width: '280px', zIndex: 10,
-                            boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
-                            border: '1px solid rgba(255, 255, 255, 0.1)',
-                            backdropFilter: 'blur(8px)'
-                        }}>
-                            <h3 style={{ marginTop: 0, color: 'white', fontSize: '1rem' }}>{selectedNode.fullTitle}</h3>
-                            <p style={{ fontSize: '0.9em', color: '#ccc' }}>{selectedNode.date}</p>
-                            <div style={{ margin: '10px 0' }}>
-                                {selectedNode.tags?.map((t: string) => (
-                                    <span key={t} style={{
-                                        display: 'inline-block', background: '#334155',
-                                        padding: '2px 6px', borderRadius: '4px',
-                                        fontSize: '0.8em', marginRight: '4px', marginBottom: '4px'
-                                    }}>
-                                        {t}
-                                    </span>
-                                ))}
-                            </div>
-                            {selectedNode.metrics && (
-                                <div style={{ fontSize: '0.8em', color: '#aaa', marginTop: '8px', borderTop: '1px solid #444', paddingTop: '8px' }}>
-                                    <div>Degree: {selectedNode.metrics.degree}</div>
-                                    <div>Betweenness: {selectedNode.metrics.betweenness.toFixed(4)}</div>
+                    {focusedEventId && (() => {
+                        const selectedNode = graphData.nodes.find(n => n.id === focusedEventId);
+                        if (!selectedNode) return null;
+                        return (
+                            <div className="node-tooltip" style={{
+                                position: 'absolute', bottom: 20, right: 20,
+                                background: 'rgba(15, 23, 42, 0.9)', color: 'white', padding: '16px',
+                                borderRadius: '12px', width: '280px', zIndex: 10,
+                                boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+                                border: '1px solid rgba(255, 255, 255, 0.1)',
+                                backdropFilter: 'blur(8px)'
+                            }}>
+                                <h3 style={{ marginTop: 0, color: 'white', fontSize: '1rem' }}>{selectedNode.fullTitle}</h3>
+                                <p style={{ fontSize: '0.9em', color: '#ccc' }}>{selectedNode.date}</p>
+                                <div style={{ margin: '10px 0' }}>
+                                    {selectedNode.tags?.map((t: string) => (
+                                        <span key={t} style={{
+                                            display: 'inline-block', background: '#334155',
+                                            padding: '2px 6px', borderRadius: '4px',
+                                            fontSize: '0.8em', marginRight: '4px', marginBottom: '4px'
+                                        }}>
+                                            {t}
+                                        </span>
+                                    ))}
                                 </div>
-                            )}
-                            {validationsMap.get(selectedNode.id) && (
-                                <div style={{ fontSize: '0.8em', color: '#10b981', marginTop: '4px', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                                    <span>✓ Verified</span>
-                                    <span style={{ color: '#94a3b8' }}>({validationsMap.get(selectedNode.id).length})</span>
+                                {selectedNode.metrics && (
+                                    <div style={{ fontSize: '0.8em', color: '#aaa', marginTop: '8px', borderTop: '1px solid #444', paddingTop: '8px' }}>
+                                        <div>Degree: {selectedNode.metrics.degree}</div>
+                                        <div>Betweenness: {selectedNode.metrics.betweenness.toFixed(4)}</div>
+                                    </div>
+                                )}
+                                {validationsMap.get(selectedNode.id) && (
+                                    <div style={{ fontSize: '0.8em', color: '#10b981', marginTop: '4px', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                                        <span>✓ Verified</span>
+                                        <span style={{ color: '#94a3b8' }}>({validationsMap.get(selectedNode.id).length})</span>
+                                    </div>
+                                )}
+                                <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
+                                    <button
+                                        onClick={() => window.open(`/events/${selectedNode.id}/edit`, '_self')}
+                                        style={{
+                                            flex: 1, padding: '6px 12px', borderRadius: '6px', border: 'none',
+                                            background: '#3b82f6', color: 'white', cursor: 'pointer', fontWeight: 500
+                                        }}
+                                    >
+                                        Edit Event
+                                    </button>
+                                    <button
+                                        onClick={() => clearSelection()}
+                                        style={{
+                                            padding: '6px 12px', borderRadius: '6px', border: '1px solid #475569',
+                                            background: 'transparent', color: '#cbd5e1', cursor: 'pointer'
+                                        }}
+                                    >
+                                        Close
+                                    </button>
                                 </div>
-                            )}
-                            <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
-                                <button
-                                    onClick={() => window.open(`/events/${selectedNode.id}/edit`, '_self')}
-                                    style={{
-                                        flex: 1, padding: '6px 12px', borderRadius: '6px', border: 'none',
-                                        background: '#3b82f6', color: 'white', cursor: 'pointer', fontWeight: 500
-                                    }}
-                                >
-                                    Edit Event
-                                </button>
-                                <button
-                                    onClick={() => setSelectedNode(null)}
-                                    style={{
-                                        padding: '6px 12px', borderRadius: '6px', border: '1px solid #475569',
-                                        background: 'transparent', color: '#cbd5e1', cursor: 'pointer'
-                                    }}
-                                >
-                                    Close
-                                </button>
                             </div>
-                        </div>
-                    )}
+                        );
+                    })()}
 
                     <ErrorBoundary name="Network Graph">
                         <svg ref={svgRef} style={{ display: 'block' }}></svg>

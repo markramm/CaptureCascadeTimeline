@@ -44,21 +44,25 @@ export const MetricControls: React.FC<MetricControlsProps> = ({ maxNodes, minStr
             </div>
 
             <div className="control-group checkbox">
-                <label>Show Labels</label>
-                <input
-                    type="checkbox"
-                    checked={showLabels}
-                    onChange={(e) => onUpdate('showLabels', e.target.checked)}
-                />
+                <label>
+                    <input
+                        type="checkbox"
+                        checked={showLabels}
+                        onChange={(e) => onUpdate('showLabels', e.target.checked)}
+                    />
+                    Show Labels
+                </label>
             </div>
 
             <div className="control-group checkbox">
-                <label>Show Metrics</label>
-                <input
-                    type="checkbox"
-                    checked={showMetrics}
-                    onChange={(e) => onUpdate('showMetrics', e.target.checked)}
-                />
+                <label>
+                    <input
+                        type="checkbox"
+                        checked={showMetrics}
+                        onChange={(e) => onUpdate('showMetrics', e.target.checked)}
+                    />
+                    Show Metrics
+                </label>
             </div>
         </>
     );
