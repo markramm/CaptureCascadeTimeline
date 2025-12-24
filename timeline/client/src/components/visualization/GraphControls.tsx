@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import type { GraphSettings } from '../../types/visualization';
 import { Settings2, ChevronUp, Download } from 'lucide-react';
+import { useUIStore } from '../../stores/uiStore';
 import { ViewSwitcher } from './controls/ViewSwitcher';
 import { LayoutControls } from './controls/LayoutControls';
 import { FilterControls } from './controls/FilterControls';
@@ -8,24 +8,44 @@ import { MetricControls } from './controls/MetricControls';
 import './GraphControls.css';
 
 interface GraphControlsProps {
-    settings: GraphSettings;
-    onChange: (settings: GraphSettings) => void;
     onExport?: () => void;
 }
 
-export function GraphControls({ settings, onChange, onExport }: GraphControlsProps) {
+export function GraphControls({ onExport }: GraphControlsProps) {
     const [collapsed, setCollapsed] = useState(false);
 
-    const updateSetting = <K extends keyof GraphSettings>(key: K, value: GraphSettings[K]) => {
-        onChange({ ...settings, [key]: value });
+    // Store State
+    const viewMode = useUIStore(s => s.viewMode);
+    const layout = useUIStore(s => s.layout);
+    const showLabels = useUIStore(s => s.showLabels);
+    const showMetrics = useUIStore(s => s.showMetrics);
+    const minStrength = useUIStore(s => s.minStrength);
+    const maxNodes = useUIStore(s => s.maxNodes);
+    const searchText = useUIStore(s => s.searchTerm);
+    const selectedTypes = useUIStore(s => s.selectedTypes);
+
+    // Store Actions
+    const setViewMode = useUIStore(s => s.setViewMode);
+    const setLayout = useUIStore(s => s.setLayout);
+    const setSearchTerm = useUIStore(s => s.setSearchTerm);
+    const setTypeFilter = useUIStore(s => s.setTypeFilter);
+    const toggleLabels = useUIStore(s => s.toggleLabels);
+    const toggleMetrics = useUIStore(s => s.toggleMetrics);
+    const setMetric = useUIStore(s => s.setMetric);
+
+    const updateMetric = (key: string, value: any) => {
+        if (key === 'maxNodes') setMetric('maxNodes', value);
+        if (key === 'minStrength') setMetric('minStrength', value);
+        if (key === 'showLabels') toggleLabels();
+        if (key === 'showMetrics') toggleMetrics();
     };
 
     const toggleType = (type: string) => {
-        const types = settings.selectedTypes || [];
+        const types = selectedTypes || [];
         const newTypes = types.includes(type)
             ? types.filter(t => t !== type)
             : [...types, type];
-        updateSetting('selectedTypes', newTypes);
+        setTypeFilter(newTypes);
     };
 
     if (collapsed) {
@@ -48,28 +68,28 @@ export function GraphControls({ settings, onChange, onExport }: GraphControlsPro
             </div>
 
             <ViewSwitcher
-                viewMode={settings.viewMode}
-                onChange={(mode) => updateSetting('viewMode', mode)}
+                viewMode={viewMode}
+                onChange={setViewMode}
             />
 
             <LayoutControls
-                layout={settings.layout}
-                onChange={(layout) => updateSetting('layout', layout)}
+                layout={layout}
+                onChange={setLayout}
             />
 
             <FilterControls
-                searchText={settings.searchText}
-                selectedTypes={settings.selectedTypes}
-                onSearchChange={(text) => updateSetting('searchText', text)}
+                searchText={searchText}
+                selectedTypes={selectedTypes}
+                onSearchChange={setSearchTerm}
                 onTypeToggle={toggleType}
             />
 
             <MetricControls
-                maxNodes={settings.maxNodes}
-                minStrength={settings.minStrength}
-                showLabels={settings.showLabels}
-                showMetrics={settings.showMetrics}
-                onUpdate={updateSetting}
+                maxNodes={maxNodes}
+                minStrength={minStrength}
+                showLabels={showLabels}
+                showMetrics={showMetrics}
+                onUpdate={updateMetric}
             />
 
             {onExport && (

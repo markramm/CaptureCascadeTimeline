@@ -1,4 +1,5 @@
 import { useRef, useState, useMemo, useEffect } from 'react';
+import { useUIStore } from '../../stores/uiStore';
 import * as d3 from 'd3';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
@@ -22,11 +23,11 @@ import './NetworkGraph.css';
 const EMPTY_ARRAY: TimelineEvent[] = [];
 
 export function NetworkGraph({
-    minConnectionStrength = 0.5,
-    showMetrics = false,
-    maxNodes = 200,
-    showLabels = true,
-    graphLayout = 'force',
+    minConnectionStrength: _minConnectionStrength = 0.5,
+    showMetrics: _showMetrics = false,
+    maxNodes: _maxNodes = 200,
+    showLabels: _showLabels = true,
+    graphLayout: _graphLayout = 'force',
     title,
     description
 }: VisualizationProps) {
@@ -35,17 +36,27 @@ export function NetworkGraph({
     const wrapperRef = useRef<HTMLDivElement>(null);
     const dimensions = useResizeObserver(wrapperRef);
 
-    // Internal State for Controls
-    const [settings, setSettings] = useState<GraphSettings>({
-        layout: graphLayout,
-        showLabels: showLabels,
-        showMetrics: showMetrics,
-        minStrength: minConnectionStrength,
-        maxNodes: maxNodes,
-        searchText: '',
-        selectedTypes: [],
-        viewMode: 'graph'
-    });
+    // Consume Store State
+    const layout = useUIStore(s => s.layout);
+    const showLabels = useUIStore(s => s.showLabels);
+    const showMetrics = useUIStore(s => s.showMetrics);
+    const minStrength = useUIStore(s => s.minStrength);
+    const maxNodes = useUIStore(s => s.maxNodes);
+    const searchText = useUIStore(s => s.searchTerm);
+    const selectedTypes = useUIStore(s => s.selectedTypes);
+    const viewMode = useUIStore(s => s.viewMode);
+
+    // Derived Settings Object for Hooks
+    const settings: GraphSettings = useMemo(() => ({
+        layout,
+        showLabels,
+        showMetrics,
+        minStrength,
+        maxNodes,
+        searchText,
+        selectedTypes,
+        viewMode
+    }), [layout, showLabels, showMetrics, minStrength, maxNodes, searchText, selectedTypes, viewMode]);
 
 
 
@@ -308,7 +319,7 @@ export function NetworkGraph({
 
     return (
         <div className="network-graph-container" ref={wrapperRef} style={{ width: '100%', height: '100%', position: 'relative', overflow: 'hidden' }}>
-            <GraphControls settings={settings} onChange={setSettings} onExport={handleExport} />
+            <GraphControls onExport={handleExport} />
 
             {/* Title Overlay */}
             {(title || description) && (
