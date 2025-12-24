@@ -2,9 +2,7 @@
 id: 2025-04-24--a-side-hustle-for-friends-of-musk-selling-access-to-stakes-i
 date: '2025-04-24'
 title: Musk Associates Monetize Access to Private Tech Company Stakes
-description: Elon Musk's inner circle is quietly profiting from selling access to
-  private shares in Musk's companies through exclusive shell companies and special-purpose
-  vehicles
+description: Elon Musk's inner circle is quietly profiting from selling access to private shares in Musk's companies through exclusive shell companies and special-purpose vehicles
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -22,7 +20,7 @@ capture_type: monetizing_position
 sources:
 - title: A Side Hustle for Friends of Musk - Selling Access to Stakes in His Private Companies
   url: https://www.tovima.com/wsj/a-side-hustle-for-friends-of-musk-selling-access-to-stakes-in-his-private-companies/
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-04-24'
   tier: 1
 - title: Top DOGE Goon Antonio Gracias Set to Make Millions Gatekeeping Shares in Best Friend Elon Musk's SpaceX

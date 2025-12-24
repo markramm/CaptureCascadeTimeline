@@ -1,15 +1,15 @@
 {
-  "total_events": 3484,
-  "total_tags": 5720,
-  "total_actors": 5935,
-  "total_sources": 11746,
+  "total_events": 3516,
+  "total_tags": 5743,
+  "total_actors": 6001,
+  "total_sources": 11847,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-20"
   },
   "status_counts": {
-    "unknown": 1030,
-    "confirmed": 2373,
+    "unknown": 1050,
+    "confirmed": 2385,
     "validated": 31,
     "disputed": 2,
     "published": 31,
@@ -30,7 +30,7 @@
     },
     {
       "name": "institutional-capture",
-      "count": 299
+      "count": 311
     },
     {
       "name": "corruption",
@@ -58,11 +58,11 @@
     },
     {
       "name": "antitrust",
-      "count": 103
+      "count": 104
     },
     {
-      "name": "supreme-court",
-      "count": 102
+      "name": "systematic-corruption",
+      "count": 103
     }
   ],
   "top_actors": [
@@ -76,7 +76,7 @@
     },
     {
       "name": "Department of Justice",
-      "count": 237
+      "count": 239
     },
     {
       "name": "Elon Musk",
@@ -107,5 +107,5 @@
       "count": 69
     }
   ],
-  "generated": "2025-12-24T01:50:15.994382"
+  "generated": "2025-12-24T02:04:31.121800"
 }

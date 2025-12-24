@@ -2094,6 +2094,56 @@
     "_id_hash": "7663b8dafa105acf238c998116a277c3f5a88a2178e078d54724b93c5d9b9f50"
   },
   {
+    "id": "1911-03-25--triangle-shirtwaist-factory-fire",
+    "date": "1911-03-25",
+    "title": "Triangle Shirtwaist Factory Fire Kills 146 Workers: Locked Doors and Preventable Deaths Expose Corporate Negligence",
+    "importance": 10,
+    "actors": [
+      "Max Blanck",
+      "Isaac Harris",
+      "Triangle Shirtwaist Company",
+      "Frances Perkins",
+      "New York State Legislature"
+    ],
+    "sources": [
+      {
+        "title": "Triangle Shirtwaist Fire",
+        "outlet": "AFL-CIO",
+        "url": "https://aflcio.org/about/history/labor-history-events/triangle-shirtwaist-fire"
+      },
+      {
+        "title": "The Triangle Shirtwaist Factory Fire",
+        "outlet": "Occupational Safety and Health Administration",
+        "url": "https://www.osha.gov/aboutosha/40-years/trianglefactoryfire"
+      },
+      {
+        "title": "Triangle Shirtwaist Factory fire",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire"
+      },
+      {
+        "title": "Triangle Shirtwaist Factory Fire",
+        "outlet": "History.com",
+        "url": "https://www.history.com/articles/triangle-shirtwaist-fire"
+      }
+    ],
+    "tags": [
+      "labor-suppression",
+      "corporate-power",
+      "worker-safety",
+      "progressive-era",
+      "institutional-capture"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Economic Capture",
+      "Regulatory Capture"
+    ],
+    "summary": "A fire broke out on the top floors of the Triangle Shirtwaist factory in New York City, killing 146 garment workers—123 women and girls and 23 men—who died from the fire, smoke inhalation, or falling or jumping to their deaths. Most victims were recent Italian or Jewish immigrants aged 14 to 23 who worked nine hours a day on weekdays plus seven hours on Saturdays. The deaths were largely preventable: owners Max Blanck and Isaac Harris had locked the fire escape exit doors to prevent stealing, one stairway opened only inward, and firefighters' ladders couldn't reach the upper floors of the 10-story building. Only two of four elevators were operational. Trapped workers jumped to their deaths as witnesses watched in horror. The disaster sparked a national movement for safer working conditions. New York State Legislature created the Factory Investigating Commission in June, which over the following year and a half visited factories, interviewed workers, and held public hearings. The commission's findings led to passage of more than 30 health and safety laws, including factory fire codes and child labor restrictions. Frances Perkins, who witnessed the fire, later became Secretary of Labor under Roosevelt and helped create New Deal worker protections including the National Labor Relations Act. The 100th anniversary of the fire marked \"a century of reforms that make up the core of OSHA's mission.\"",
+    "_file": "1911-03-25--triangle-shirtwaist-factory-fire.md",
+    "_id_hash": "1c89a917e4dca4d7af58ecb1b659347d8a7e66ffae31a9e35931b2fa1a1ca269"
+  },
+  {
     "id": "1911-05-15--rule-of-reason-doctrine-harlan-dissent-weakens-antitrust",
     "date": "1911-05-15",
     "title": "Supreme Court Establishes \"Rule of Reason\" Doctrine, Justice Harlan Warns It Will Emasculate Antitrust Law",
@@ -2290,6 +2340,101 @@
     "_id_hash": "c2f4e4738af2343a6ae5a33aaabf03c6b4e9fc79b46a309d755ace198c134a46"
   },
   {
+    "id": "1912-01-12--lawrence-textile-strike-bread-and-roses",
+    "date": "1912-01-12",
+    "title": "Lawrence \"Bread and Roses\" Strike: IWW Unites 20,000 Workers Across 51 Nationalities, Wins 15% Raise",
+    "importance": 9,
+    "actors": [
+      "Industrial Workers of the World (IWW)",
+      "Joseph Ettor",
+      "Arturo Giovannitti",
+      "American Woolen Company"
+    ],
+    "sources": [
+      {
+        "title": "1912 Lawrence textile strike",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/1912_Lawrence_textile_strike"
+      },
+      {
+        "title": "The 1912 Bread and Roses Strike",
+        "outlet": "New England Historical Society",
+        "url": "https://newenglandhistoricalsociety.com/flashback-photo-the-1912-bread-and-roses-strike/"
+      },
+      {
+        "title": "The Industrial Workers of the World",
+        "outlet": "PBS American Experience",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/goldman-industrial-workers-world/"
+      }
+    ],
+    "tags": [
+      "labor-organizing",
+      "progressive-era",
+      "immigrant-rights",
+      "corporate-power",
+      "iww"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Economic Capture",
+      "Counter-Resistance"
+    ],
+    "summary": "Polish women textile workers at the Everett Mill in Lawrence, Massachusetts walked out after discovering their employer had reduced wages by $0.32 when Massachusetts enforced a law cutting mill workers' hours from 56 to 54 per week. The strike spread rapidly to more than 20,000 workers involving nearly every mill in Lawrence, uniting workers from more than 51 different nationalities. Working conditions were brutal: half of children died before age six, 36% of mill workers died before age 25, and average life expectancy was 39 years. The Industrial Workers of the World (IWW or \"Wobblies\") assumed leadership through Joseph Ettor and Arturo Giovannitti, forming a strike committee of 56 people representing fourteen nationalities. New tactics emerged: when police dispersed picket lines, Ettor devised the \"moving picket line\" circling the entire mill district 24 hours a day. Strike demands included a 15% wage increase, acceptance of the 54-hour week, an end to the premium and bonus system, double pay for overtime, and no retaliation. On March 12, American Woolen Company reached a settlement meeting all four original demands. Other companies followed and the strike ended March 24, 1912. The victory proved the AFL wrong in believing unskilled, foreign-speaking workers incapable of organizing. Other New England mills raised wages to avoid similar strikes. The Lawrence strike \"signaled the high-water mark of the Wobblies.\"",
+    "_file": "1912-01-12--lawrence-textile-strike-bread-and-roses.md",
+    "_id_hash": "311510d327420fe0aa7790b7944940e097b8b20b53090ddec64605570379b05b"
+  },
+  {
+    "id": "1912-05-16--pujo-committee-hearings-begin-money-trust",
+    "date": "1912-05-16",
+    "title": "Pujo Committee Hearings Begin: Money Trust Investigation Exposes JP Morgan Control of $22 Billion Through 341 Interlocking Directorships",
+    "importance": 9,
+    "actors": [
+      "Arsène Pujo",
+      "Samuel Untermyer",
+      "JP Morgan",
+      "George F. Baker",
+      "James E. Stillman",
+      "U.S. House of Representatives"
+    ],
+    "sources": [
+      {
+        "title": "Pujo Committee",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pujo_Committee"
+      },
+      {
+        "title": "Pujo Committee \"Money Trust\" Wall Street Banking Cartel Investigation 1912-1913",
+        "outlet": "Public Intelligence",
+        "url": "https://publicintelligence.net/pujo-committee-money-trust-wall-street-banking-cartel-investigation-1912-1913/"
+      },
+      {
+        "title": "Uncurrent Events - The Pujo Committee",
+        "outlet": "Federal Reserve Bank of St. Louis",
+        "url": "https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/"
+      },
+      {
+        "title": "Congress and the Money Trust",
+        "outlet": "National Archives",
+        "url": "https://www.archives.gov/legislative/resources/education/money-trust"
+      }
+    ],
+    "tags": [
+      "banking-consolidation",
+      "progressive-era",
+      "financial-capture",
+      "jp-morgan",
+      "congressional-investigation"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Economic Capture",
+      "Financial Capture"
+    ],
+    "summary": "The U.S. House Committee on Banking and Currency subcommittee headed by Rep. Arsène Pujo of Louisiana began hearings to investigate the \"money trust\"—a concentrated group of Wall Street bankers exerting powerful control over the nation's finances. The investigation arose from concerns following the Panic of 1907, when banker JP Morgan prevented economic collapse by raising funds to prop up struggling financial institutions, exposing dangerous concentration of private financial power. The committee, with counsel Samuel Untermyer, held hearings from May 16, 1912 to February 26, 1913. In December 1912, the seventy-six year old Morgan testified for several hours, along with associates James E. Stillman and George F. Baker. The committee identified six banking houses responsible for increasing concentration of money and credit: JP Morgan & Co.; First National Bank of New York; National City Bank of New York; Lee, Higginson & Co.; Kidder, Peabody & Co.; and Kuhn, Loeb & Co. The investigation documented a sophisticated financial network unified by 341 interlocking directorships held in 112 corporations valued at more than $22 billion in resources and capitalization. JP Morgan & Co. was identified as the \"heart\" of the combination. The committee's final 1913 report declared that existing banking and credit practices resulted in \"a vast and growing concentration of control of money and credit in the hands of a comparatively few men.\" The findings influenced passage of the Federal Reserve Act of 1913, Federal Trade Commission Act of 1914, and Clayton Antitrust Act of 1914. Louis Brandeis popularized the findings in his book \"Other People's Money and How the Bankers Use It.\" Morgan died in April 1913; House of Morgan partners blamed the stress of testifying in the Pujo hearings.",
+    "_file": "1912-05-16--pujo-committee-hearings-begin-money-trust.md",
+    "_id_hash": "731153435e3f759f7c5c3271d3978b297a3bef1b775fc89d350b6ef3bfb14033"
+  },
+  {
     "id": "1912-06-13--dupont-powder-trust-breakup-limited-effectiveness",
     "date": "1912-06-13",
     "title": "DuPont Powder Trust Ordered Dissolved, But Family Control and Geographic Proximity Limit Effectiveness",
@@ -2342,6 +2487,136 @@
     "summary": "Following a 1911 Sherman Antitrust Act lawsuit, the U.S. District Court for Delaware ordered the DuPont Powder Company dissolved and divided into three independent entities: the reconstituted DuPont, Hercules Powder Company, and Atlas Powder Company. DuPont had controlled approximately two-thirds of the explosives market and all gunpowder for the U.S. military through ownership of 40 plants nationwide. The government's case began after former DuPont sales agent Robert S. Waddell alleged in 1906 that the \"Powder Trust\" was bilking the government of $2,520,000 annually through monopolistic profits. However, the breakup proved largely ineffective at creating genuine competition. The DuPont family retained substantial financial interests in all three companies, with Pierre and Irenee DuPont holding large stock blocks. Hercules headquarters was located across the street from DuPont in Wilmington, Delaware, and \"breathes heavily Dupontized air\" according to Fortune magazine. The new company was staffed by executives transplanted directly from DuPont headquarters. As late as 1970, the president of Hercules was related to the DuPont family. The three companies were convicted during World War I of joint price-fixing, with DuPont assessed a $40,000 fine. Moreover, DuPont itself retained its monopoly on manufacturing gunpowder for the U.S. military—supposedly the primary object of the antitrust action. This case demonstrates how early 20th-century antitrust remedies failed when family ownership, geographic proximity, and executive relationships maintained underlying connections between supposedly independent companies—a pattern that would repeat throughout antitrust history.",
     "_file": "1912-06-13--dupont-powder-trust-breakup-limited-effectiveness.md",
     "_id_hash": "3b1e07f2477d53386065fb0fd88cbd1371f075423567ba55d9dfcb4c1a049dd9"
+  },
+  {
+    "id": "1913-02-03--sixteenth-amendment-ratified-income-tax",
+    "date": "1913-02-03",
+    "title": "16th Amendment Ratified: Federal Income Tax Established to Shift Burden from Middle Class to Wealthy",
+    "importance": 9,
+    "actors": [
+      "Delaware State Legislature",
+      "Philander C. Knox",
+      "U.S. Congress",
+      "Progressive Movement"
+    ],
+    "sources": [
+      {
+        "title": "16th Amendment to the U.S. Constitution - Federal Income Tax (1913)",
+        "outlet": "National Archives",
+        "url": "https://www.archives.gov/milestone-documents/16th-amendment"
+      },
+      {
+        "title": "Sixteenth Amendment to the United States Constitution",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution"
+      },
+      {
+        "title": "The Income Tax Amendment - Most Thought It Was a Great Idea in 1913",
+        "outlet": "Constitutional Rights Foundation",
+        "url": "https://www.crf-usa.org/bill-of-rights-in-action/bria-11-3-b-the-income-tax-amendment-most-thought-it-was-a-great-idea-in-1913.html"
+      }
+    ],
+    "tags": [
+      "progressive-era",
+      "taxation",
+      "economic-reform",
+      "constitutional-amendment"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Democratic Reform",
+      "Counter-Resistance"
+    ],
+    "summary": "Delaware became the 36th state to ratify the 16th Amendment, meeting the three-fourths requirement to establish Congress's right to impose a federal income tax. Secretary of State Philander C. Knox certified the amendment on February 25, 1913. The amendment was part of a wave of Progressive Era federal and state constitutional amendments championing political and social reform. Congress had passed the amendment on July 2, 1909. The key progressive argument was \"that it was fairer for wealthy individuals to pay for the taxes and tariffs that had been largely obliged from the middle class and the poor in society.\" In 1909, conservatives in Congress, hoping to kill the idea, proposed a constitutional amendment believing it would never receive ratification by three-fourths of states. Much to their surprise, state legislatures ratified it rapidly. The rise of the Progressive Party and Democratic Party victory in the 1912 Presidential Election accelerated ratification. From 1909 to 1913, thirty-six of the then forty-eight states ratified the amendment. The text grants Congress authority \"to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.\" In 1913, due to generous exemptions and deductions, less than 1% of the population paid income taxes at the rate of only 1% of net income. Shortly after ratification, Congress imposed a federal income tax with the Revenue Act of 1913. This amendment was a significant milestone for the Progressive Era, aimed at addressing economic inequality and providing government revenue to fund social reforms.",
+    "_file": "1913-02-03--sixteenth-amendment-ratified-income-tax.md",
+    "_id_hash": "3c2b81b92418964b60642ce4c9fb3d789ab5f5b163246dc19d37e27e343635c6"
+  },
+  {
+    "id": "1913-04-08--seventeenth-amendment-ratified-direct-senate-elections",
+    "date": "1913-04-08",
+    "title": "17th Amendment Ratified: Direct Election of Senators Ends State Legislature Appointments and Deadlock Corruption",
+    "importance": 8,
+    "actors": [
+      "Connecticut State Legislature",
+      "U.S. Congress",
+      "Progressive Movement"
+    ],
+    "sources": [
+      {
+        "title": "17th Amendment to the U.S. Constitution - Direct Election of U.S. Senators (1913)",
+        "outlet": "National Archives",
+        "url": "https://www.archives.gov/milestone-documents/17th-amendment"
+      },
+      {
+        "title": "Seventeenth Amendment to the United States Constitution",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution"
+      },
+      {
+        "title": "Landmark Legislation: The Seventeenth Amendment to the Constitution",
+        "outlet": "U.S. Senate",
+        "url": "https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm"
+      }
+    ],
+    "tags": [
+      "progressive-era",
+      "electoral-reform",
+      "constitutional-amendment",
+      "democratic-reform"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Democratic Reform",
+      "Counter-Resistance"
+    ],
+    "summary": "Connecticut became the 36th state to ratify the 17th Amendment, meeting the three-fourths requirement to establish direct election of United States senators by popular vote. The amendment modified Article I, Section 3 of the Constitution, which had required state legislatures to appoint senators. Congress passed the amendment on May 13, 1912. The amendment arose from Progressive Era dissatisfaction with political corruption and inefficiency. Late in the 19th century, some state legislatures deadlocked over senator elections when different parties controlled different houses—Senate vacancies could last months or years. The amendment superseded the original constitutional provision under which senators were appointed by state legislatures. Popular support for passage surged during the Progressive Era as a response to concerns about corruption in the appointment process. The transition to direct election began with special elections in Georgia and Maryland, then in earnest with the November 1914 election. Augustus Bacon of Georgia became the first senator directly elected under the 17th Amendment on July 15, 1913. Sitting senators were not affected until their existing terms expired. The transition was complete on March 4, 1919, when senators chosen by the November 1918 election took office. This represented a significant democratization of the Senate and reduction of opportunities for state-level political corruption in federal representation.",
+    "_file": "1913-04-08--seventeenth-amendment-ratified-direct-senate-elections.md",
+    "_id_hash": "befbc572651451feff7e142421d429158c52544b0c15d11af2d26af02833711b"
+  },
+  {
+    "id": "1913-12-23--federal-reserve-act-signed-wilson",
+    "date": "1913-12-23",
+    "title": "Federal Reserve Act Creates Central Banking System: Wilson Signs Compromise Between Private Bank Control and Government Oversight",
+    "importance": 10,
+    "actors": [
+      "President Woodrow Wilson",
+      "Carter Glass",
+      "Robert Latham Owen",
+      "JP Morgan",
+      "William Jennings Bryan"
+    ],
+    "sources": [
+      {
+        "title": "Federal Reserve Act Signed into Law",
+        "outlet": "Federal Reserve History",
+        "url": "https://www.federalreservehistory.org/essays/federal-reserve-act-signed"
+      },
+      {
+        "title": "The Senate Passes the Federal Reserve Act",
+        "outlet": "U.S. Senate",
+        "url": "https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm"
+      },
+      {
+        "title": "Federal Reserve Act",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act"
+      }
+    ],
+    "tags": [
+      "banking-consolidation",
+      "progressive-era",
+      "financial-regulation",
+      "federal-reserve",
+      "jp-morgan"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Financial Capture",
+      "Regulatory Capture"
+    ],
+    "summary": "President Woodrow Wilson signed the Federal Reserve Act at 6:00 p.m., creating the Federal Reserve System as the central banking system of the United States. The need for a central bank became evident during the Panic of 1907, when the federal government lacked tools to respond and had to depend on private bankers like JP Morgan to provide capital infusions to sustain the banking system. Following the 1912 elections giving Democrats control of Congress and the presidency, Congressman Carter Glass and Senator Robert Latham Owen introduced legislation to create a central bank. The proposal reflected debate between those favoring private control (like proponents of the earlier Aldrich Plan) and those favoring government control (including progressives like William Jennings Bryan). Glass and Owen crafted a compromise: private banks would control twelve regional Federal Reserve Banks, but a controlling interest was placed in a central board filled with presidential appointees. The system of twelve regional banks was designed to diminish Wall Street's influence. After months of hearings, amendments, and debates, the House passed the bill 298 to 60 on December 22, 1913, and the Senate passed it 43 to 25 on December 23. Most senators immediately rushed to Union Station to catch trains home for the holidays, while chief sponsors went to the White House. Wilson used four pens for the signing, giving one to each leading sponsor. Wilson said he felt grateful for having had a part \"in completing a work of lasting benefit for the country.\" The Act laid the foundation for the modern U.S. financial system, providing a more stable, centralized framework for managing the nation's money supply and banking institutions, though critics argued it institutionalized Wall Street influence over monetary policy.",
+    "_file": "1913-12-23--federal-reserve-act-signed-wilson.md",
+    "_id_hash": "57e20830d808852b9d507a1a9026e5339c0879a175276e325567987346e4db9f"
   },
   {
     "id": "1914-04-20--ludlow-massacre",
@@ -2441,6 +2716,245 @@
     "_id_hash": "0f6ca860b4c3b367bb498cbaf67e749755cfe8441d8d5796fa99de68b400dd17"
   },
   {
+    "id": "1914-10-15--clayton-antitrust-act-signed-labor-exemption",
+    "date": "1914-10-15",
+    "title": "Clayton Antitrust Act Signed: Labor Unions Exempted from Antitrust Laws, Gompers Calls It Labor's Magna Carta",
+    "importance": 9,
+    "actors": [
+      "President Woodrow Wilson",
+      "Henry De Lamar Clayton Jr.",
+      "Samuel Gompers",
+      "American Federation of Labor",
+      "E. Y. Webb"
+    ],
+    "sources": [
+      {
+        "title": "The Clayton Antitrust Act",
+        "outlet": "U.S. House of Representatives History",
+        "url": "https://history.house.gov/HistoricalHighlight/Detail/15032424979"
+      },
+      {
+        "title": "Labor Unions Win Exemption from Antitrust Laws",
+        "outlet": "EBSCO Research",
+        "url": "https://www.ebsco.com/research-starters/history/labor-unions-win-exemption-antitrust-laws"
+      },
+      {
+        "title": "Clayton Antitrust Act of 1914",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clayton_Antitrust_Act_of_1914"
+      },
+      {
+        "title": "Clayton Antitrust Act Enacted",
+        "outlet": "Library of Congress",
+        "url": "https://guides.loc.gov/this-month-in-business-history/october/clayton-anitrust-enacted"
+      }
+    ],
+    "tags": [
+      "progressive-era",
+      "antitrust",
+      "labor-organizing",
+      "regulatory-reform"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "counter-resistance",
+      "regulatory-capture"
+    ],
+    "summary": "President Woodrow Wilson signed the Clayton Antitrust Act, enhancing previous antitrust legislation and explicitly exempting labor unions from antitrust laws. Alabama Democrat Henry De Lamar Clayton Jr. introduced the legislation in anticipation of the Commission on Industrial Relations report. The House passed the act 277 to 54 on June 5, 1914. The Senate passed its own version 46-16 on September 2, 1914, with the final version passing the Senate on October 6 and the House on October 8. Labor unions gained a significant legal exemption from antitrust laws, marking a turning point in labor relations. Historically, labor organizations faced strict legal constraints during the late 19th century when courts interpreted strikes and organizing efforts as unlawful conspiracies. Section 6 stated \"that the labor of a human being is not a commodity or article of commerce\" and declared that nothing in antitrust laws shall forbid the existence and operation of labor, agricultural, or horticultural organizations. The law declared strikes, boycotts, and labor unions legal under federal law. AFL head Samuel Gompers strongly supported Section 6, describing the law as \"Labor's Magna Charta\" or \"Bill of Rights.\" President Wilson remained adamant, but pressure from Gompers produced a congressional compromise engineered by North Carolina Representative E. Y. Webb, who believed the Sherman Act was never intended to apply to labor unions. The compromise incorporated labor provisions in a bill otherwise aimed at eliminating restraint-of-trade strategies employed by trusts. The law also banned price discrimination and anti-competitive mergers. The Federal Trade Commission Act, also passed in 1914, transferred functions of the U.S. Bureau of Corporations to the Federal Trade Commission and authorized cease-and-desist orders enjoining \"unfair methods of competition.\"",
+    "_file": "1914-10-15--clayton-antitrust-act-signed-labor-exemption.md",
+    "_id_hash": "19dec9ed81b1654e560354095f00587b94878f205404e585fa1f0f07e64eae32"
+  },
+  {
+    "id": "1917-06-15--espionage-act-signed-wilson-criminalizes-dissent",
+    "date": "1917-06-15",
+    "title": "Espionage Act Signed: Wilson Criminalizes Antiwar Speech, Targets IWW Labor Organizers and Socialists",
+    "importance": 9,
+    "actors": [
+      "President Woodrow Wilson",
+      "Industrial Workers of the World (IWW)",
+      "Eugene V. Debs",
+      "Victor L. Berger",
+      "Emma Goldman",
+      "Alexander Berkman"
+    ],
+    "sources": [
+      {
+        "title": "Espionage Act of 1917",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Espionage_Act_of_1917"
+      },
+      {
+        "title": "The Sedition and Espionage Acts Were Designed to Quash Dissent",
+        "outlet": "History.com",
+        "url": "https://www.history.com/articles/sedition-espionage-acts-woodrow-wilson-wwi"
+      },
+      {
+        "title": "Espionage Act of 1917",
+        "outlet": "First Amendment Encyclopedia",
+        "url": "https://firstamendment.mtsu.edu/article/espionage-act-of-1917/"
+      },
+      {
+        "title": "Prelude to the Red Scare - The Espionage and Sedition Acts",
+        "outlet": "PBS American Experience",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/goldman-prelude-red-scare-espionage-and-sedition-acts/"
+      }
+    ],
+    "tags": [
+      "labor-suppression",
+      "free-speech",
+      "world-war-i",
+      "iww",
+      "state-repression"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Political Capture",
+      "Legal Capture"
+    ],
+    "summary": "President Woodrow Wilson signed the Espionage Act into law, prohibiting interference with military operations or recruitment, preventing insubordination in the military, and preventing support of U.S. enemies during wartime. The Wilson administration, knowing many Americans were conflicted about U.S. entry into World War I, launched a sweeping propaganda campaign to instill hatred of the German enemy abroad and disloyalty at home. Wilson publicly stated that disloyalty to the war effort \"must be crushed out\" and that disloyal individuals had \"sacrificed their right to civil liberties\" like free speech and expression. Enforcement varied greatly, with most activity in Western states where the Industrial Workers of the World (IWW) labor union was active. On September 5, 1917, federal agents raided IWW offices nationwide. On September 28, 166 people active in the IWW were accused of trying to \"cause insubordination, disloyalty, and refusal of duty in the military and naval forces\" in violation of the Espionage Act. One hundred and one defendants were found guilty, receiving prison sentences ranging from ten days to twenty years. Notable prosecutions included Austrian-American socialist congressman Victor L. Berger; labor leader and five-time Socialist Party candidate Eugene V. Debs; and anarchists Emma Goldman and Alexander Berkman. In June 1918, Debs was arrested for violating the act by undermining conscription efforts and sentenced to ten years in prison. The broadly worded law ultimately resulted in arrest and prosecution of more than 2,000 Americans, some sentenced to 20 years in prison for sedition. In March 1919, President Wilson, at Attorney General Thomas Watt Gregory's suggestion, pardoned or commuted sentences of some 200 prisoners convicted under the Act. The law came to be viewed as one of the most egregious violations of the Constitution's free speech protections.",
+    "_file": "1917-06-15--espionage-act-signed-wilson-criminalizes-dissent.md",
+    "_id_hash": "f98bb1f563bcf5f89860ec12c7d6ecae9394d28c85c5d807b4a8794bf95f8d9f"
+  },
+  {
+    "id": "1917-07-28--war-industries-board-established-baruch",
+    "date": "1917-07-28",
+    "title": "War Industries Board Established: Bernard Baruch and \"Dollar-a-Year Men\" Institutionalize Corporate-Government Fusion",
+    "importance": 8,
+    "actors": [
+      "Bernard Baruch",
+      "President Woodrow Wilson",
+      "War Department",
+      "Navy Department"
+    ],
+    "sources": [
+      {
+        "title": "War Industries Board",
+        "outlet": "1914-1918 Online Encyclopedia",
+        "url": "https://encyclopedia.1914-1918-online.net/article/war-industries-board/"
+      },
+      {
+        "title": "United States Establishes the War Industries Board",
+        "outlet": "EBSCO Research",
+        "url": "https://www.ebsco.com/research-starters/military-history-and-science/united-states-establishes-war-industries-board"
+      },
+      {
+        "title": "War Industries Board",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_Industries_Board"
+      }
+    ],
+    "tags": [
+      "world-war-i",
+      "corporate-power",
+      "government-industry",
+      "revolving-door",
+      "institutional-capture"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Economic Capture",
+      "Political Capture"
+    ],
+    "summary": "The United States government established the War Industries Board (WIB) to coordinate the purchase of war supplies between the War Department and Navy Department during World War I. The WIB existed from July 1917 to December 1918 to coordinate and channel production by setting priorities, fixing prices, and standardizing products to support the war efforts of the United States and its allies. In spring 1918, President Woodrow Wilson reorganized the board and named Wall Street trader Bernard Baruch as its chairman. Wilson transferred to Baruch the power to coordinate industry that Congress had granted to the president in the National Defense and Military Appropriations Acts of 1916, as well as certain controls over the military that Wilson had as commander in chief. Endowed with this authority, Baruch was able to determine priorities, requisition supplies, conserve resources, commandeer plants, and make purchases for the United States and the Allies. Baruch, previously one of the most famous Wall Street traders, formulated an elaborate plan whereby representatives of various businesses were organized into \"committees of the industries\" to work with the council in coordinating resources. For their efforts, they received one dollar a year and became known as the \"dollar-a-year men.\" Prior to taking this position, Baruch divested most of his stock portfolio to avoid conflict of interest and invested almost 75% of his $10 million fortune in Liberty Bonds. However, the WIB often had to negotiate with industry rather than direct it, and Baruch was never an industrial czar. Under the WIB, industrial production in the U.S. increased 20%. The WIB was terminated by executive order on January 1, 1919. The model established a template for corporate-government coordination that would influence future mobilization efforts and blur lines between public interest and corporate profit.",
+    "_file": "1917-07-28--war-industries-board-established-baruch.md",
+    "_id_hash": "4a499c731c84ee838c07c6864ed42492b6e25cd530c81bdec06eb0ef6570660b"
+  },
+  {
+    "id": "1918-05-16--sedition-act-expands-espionage-act",
+    "date": "1918-05-16",
+    "title": "Sedition Act Expands Espionage Act: Criminalizes \"Disloyal\" Speech About Government, Results in 1,000+ Convictions",
+    "importance": 8,
+    "actors": [
+      "U.S. Congress",
+      "President Woodrow Wilson",
+      "Meyer London",
+      "Mollie Steimer",
+      "Joseph Rutherford"
+    ],
+    "sources": [
+      {
+        "title": "Sedition Act of 1918",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sedition_Act_of_1918"
+      },
+      {
+        "title": "Sedition Act of 1918",
+        "outlet": "First Amendment Encyclopedia",
+        "url": "https://firstamendment.mtsu.edu/article/sedition-act-of-1918/"
+      },
+      {
+        "title": "Espionage Act of 1917 and Sedition Act of 1918 (1917-1918)",
+        "outlet": "Constitution Center",
+        "url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/espionage-act-of-1917-and-sedition-act-of-1918-1917-1918"
+      }
+    ],
+    "tags": [
+      "free-speech",
+      "world-war-i",
+      "state-repression",
+      "labor-suppression"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Political Capture",
+      "Legal Capture"
+    ],
+    "summary": "Congress passed the Sedition Act, extending the Espionage Act of 1917 to cover a broader range of offenses, notably speech and expression that cast the government or war effort in a negative light or interfered with sale of government bonds. The act forbade use of \"disloyal, profane, scurrilous, or abusive language\" about the United States government, its flag, or its armed forces or that caused others to view the American government or its institutions with contempt. Those convicted generally received sentences of imprisonment for five to 20 years. The act also allowed the Postmaster General to refuse to deliver mail meeting those standards for punishable speech or opinion. The final vote was 48 to 26 in the Senate and 293 to 1 in the House, with the sole dissenting vote cast by Socialist Meyer London of New York. More than 2,000 cases were filed under the Espionage Act of 1917 and Sedition Act of 1918. Of these, more than 1,000 ended in convictions. Targets of prosecution were typically individuals who opposed the war effort, including pacifists, anarchists, and socialists. Violations could lead to as much as 20 years in prison and a $10,000 fine. Notable cases included Mollie Steimer, convicted under the Espionage Act as amended by the Sedition Act. In May 1918, sedition charges were laid against Watch Tower Bible and Tract Society president Joseph Rutherford and seven other directors. On June 21, seven directors including Rutherford were sentenced to the maximum 20 years' imprisonment for each of four charges, to be served concurrently. In 1919, a unanimous Supreme Court upheld the Espionage Act in Schenck v. United States, ruling that the First Amendment did not protect pacifists who circulated antidraft literature from arrest. Congress repealed the Sedition Act amendments in March 1921, though many portions of the Espionage Act of 1917 remain law today.",
+    "_file": "1918-05-16--sedition-act-expands-espionage-act.md",
+    "_id_hash": "6426ad489993d13fb8e4a3f61c5a2d104478e62c1874a5ab9159fdeb8b8077ee"
+  },
+  {
+    "id": "1919-11-07--palmer-raids-begin-red-scare-deportations",
+    "date": "1919-11-07",
+    "title": "Palmer Raids Begin: Attorney General and J. Edgar Hoover Arrest 6,000 in 36 Cities, Deport 249 on \"Soviet Ark\"",
+    "importance": 9,
+    "actors": [
+      "A. Mitchell Palmer",
+      "J. Edgar Hoover",
+      "U.S. Department of Justice",
+      "Emma Goldman",
+      "Alexander Berkman",
+      "Louis Post"
+    ],
+    "sources": [
+      {
+        "title": "Palmer Raids",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Palmer_Raids"
+      },
+      {
+        "title": "Palmer Raids",
+        "outlet": "Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/history/famous-cases/palmer-raids"
+      },
+      {
+        "title": "Palmer Raids - Definition, Purpose & 1920s",
+        "outlet": "History.com",
+        "url": "https://www.history.com/articles/palmer-raids"
+      },
+      {
+        "title": "Introduction - Palmer Raids",
+        "outlet": "Library of Congress",
+        "url": "https://guides.loc.gov/chronicling-america-palmer-raids"
+      }
+    ],
+    "tags": [
+      "red-scare",
+      "state-repression",
+      "labor-suppression",
+      "fbi",
+      "deportations"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Political Capture",
+      "Legal Capture"
+    ],
+    "summary": "The U.S. Department of Justice began a series of raids on November 7—a date selected to coincide with the anniversary of the Russian Revolution—to capture and arrest suspected socialists, especially anarchists and communists, and deport them from the United States. The Russian Revolution in 1917 and creation of a communist state heightened fears of communism spreading within the United States. On June 2, 1919, militant anarchist Carlo Valdinoci blew up the front of newly appointed Attorney General A. Mitchell Palmer's home in Washington, D.C., killing himself when the bomb exploded too early. The bombing was one in a series of coordinated attacks that day on judges, politicians, law enforcement officials, and others in eight cities nationwide. Palmer created a small division to gather intelligence on the radical threat and placed young Justice Department lawyer J. Edgar Hoover in charge. Together, Palmer and Hoover created the General Intelligence Division in the Federal Bureau of Investigation and secured increased funds from Congress to devote to anticommunist activities. The raids particularly targeted Italian immigrants and Eastern European Jewish immigrants with alleged leftist ties, focusing on Italian anarchists and immigrant leftist labor activists. The first raids on November 7, 1919 resulted in hundreds of arrests. More raids followed on January 2, 1920, when Justice Department agents conducted raids in 33 cities, arresting 3,000 people. Total arrests across 36 cities reached 6,000 people. These arrests led to 249 deportations on December 21, 1919 aboard the USS Buford, nicknamed the \"Soviet Ark\" and \"Red Ark.\" Among deportees were famed anarchists Emma Goldman and Alexander Berkman. Though 556 foreign citizens were deported including prominent leftist leaders, Palmer's efforts were largely frustrated by Acting Secretary of Labor Louis Post, who had authority for deportations and reversed more than 70% of the 1,600 deportation warrants. In June 1920, Massachusetts District Court Judge George W. Anderson ordered discharge of 17 arrested aliens and denounced the Department of Justice's actions, writing that \"a mob is a mob, whether made up of Government officials acting under instructions from the Department of Justice, or of criminals and loafers and the vicious classes.\" As news of the raids' brutality became public and constitutionality was questioned, the National Civil Liberties Bureau and others publicly challenged Palmer's actions. Palmer's unfulfilled predictions of a May Day 1920 revolution destroyed his credibility, diminishing the Red Scare and ending the raids. The American Civil Liberties Union was formed with the stated goal of protecting constitutional rights and civil liberties.",
+    "_file": "1919-11-07--palmer-raids-begin-red-scare-deportations.md",
+    "_id_hash": "af5e4ea7d07bc47bf9ac6b26ab30d54e709ac4f5c6bbb70ee6a9ed25f272f894"
+  },
+  {
     "id": "1920-01-01--hearst-newspaper-chain-consolidation",
     "date": "1920-01-01",
     "title": "Hearst Newspaper Empire Reaches 28 Papers Controlling One in Four American Readers Through Yellow Journalism Tactics",
@@ -2497,6 +3011,44 @@
     "_id_hash": "92e00702552793183da8bbed7f747df26f965c10288c276c4b1879957538c673"
   },
   {
+    "id": "1920-01-02--palmer-raids-mass-arrests-deportations-labor-suppression",
+    "date": "1920-01-02",
+    "title": "Palmer Raids Mass Arrests Target Labor and Immigrant Activists",
+    "importance": 9,
+    "tags": [
+      "labor-suppression",
+      "civil-liberties",
+      "institutional-capture",
+      "surveillance-state"
+    ],
+    "actors": [
+      "A. Mitchell Palmer",
+      "J. Edgar Hoover",
+      "Bureau of Investigation",
+      "Department of Justice"
+    ],
+    "sources": [
+      {
+        "title": "FBI - Palmer Raids",
+        "date": "2024",
+        "url": "https://www.fbi.gov/history/famous-cases/palmer-raids"
+      },
+      {
+        "title": "History.com - Palmer Raids",
+        "date": "2024",
+        "url": "https://www.history.com/articles/palmer-raids"
+      },
+      {
+        "title": "First Amendment Encyclopedia - Palmer Raids and Suppression of Dissent",
+        "date": "2024",
+        "url": "https://firstamendment.mtsu.edu/article/the-palmer-raids-and-suppression-of-dissent/"
+      }
+    ],
+    "summary": "Attorney General A. Mitchell Palmer and Bureau of Investigation chief J. Edgar Hoover orchestrated simultaneous raids across 36 cities, arresting over 6,000 people without warrants under the Immigration Act of 1918. The raids specifically targeted labor union leaders, particularly the Industrial Workers of the World, along with Italian anarchists and Eastern European Jewish immigrants with alleged leftist ties. Of 10,000 arrested during the Palmer Raids overall, 3,500 were held in detention and 556 resident aliens were eventually deported. The raids established mass surveillance and deportation as tools for labor suppression, with Acting Labor Secretary Louis Freeland Post later canceling over 2,000 warrants as illegal. The nascent ACLU published documentation of systematic Justice Department violations of civil liberties, but the precedent for weaponizing immigration enforcement against labor organizing was established.",
+    "_file": "1920-01-02--palmer-raids-mass-arrests-deportations-labor-suppression.md",
+    "_id_hash": "02d842b85a23c3ecf2cfedb45fe58f700cac10be012ae3dc72f657b37bc2831f"
+  },
+  {
     "id": "1920-03-01--us-steel-antitrust-case-dismissed-size-not-offense",
     "date": "1920-03-01",
     "title": "Supreme Court Dismisses U.S. Steel Antitrust Case, Ruling Size Alone Not Illegal - Enforcement Ends Until 1945",
@@ -2548,6 +3100,46 @@
     "_id_hash": "bb9c4a5975fb996e782ea9d5db23c01eceeafcfb29ae042672c22da728536f4d"
   },
   {
+    "id": "1921-01-01--american-plan-open-shop-campaign-begins",
+    "date": "1921-01-01",
+    "title": "American Plan Open Shop Campaign Launches Nationwide Union Suppression",
+    "importance": 8,
+    "tags": [
+      "labor-suppression",
+      "corporate-capture",
+      "anti-union",
+      "systematic-corruption"
+    ],
+    "actors": [
+      "National Association of Manufacturers",
+      "Chamber of Commerce",
+      "U.S. Steel",
+      "Henry Clay Frick",
+      "Elbert Gary",
+      "John D. Rockefeller Jr."
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia - American Plan (union negotiations)",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/American_Plan_(union_negotiations)"
+      },
+      {
+        "title": "Encyclopedia.com - American Plan",
+        "date": "2024",
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/american-plan-0"
+      },
+      {
+        "title": "IBEW 1245 - Chapter 24 The American Plan",
+        "date": "2024",
+        "url": "https://ibew1245.com/chapter-24-the-american-plan/"
+      }
+    ],
+    "summary": "Business leaders including Henry Clay Frick, Judge Elbert Gary, and John D. Rockefeller Jr. launched a coordinated campaign to roll back labor gains by promoting the \"open shop\" as patriotic while branding union membership as \"un-American.\" Meeting in Chicago in 1921, anti-union employers agreed not to negotiate with unions and to require employees to sign pledges against union membership. The National Association of Manufacturers endorsed the strategy in 1920, combining yellow-dog contracts, welfare capitalism, company unions, and outright repression to control workplaces and prevent unionization. The campaign drove union membership down at least 25 percent between 1921-1923, with total membership falling from 5.1 million in 1920 to 3.6 million in 1929. U.S. Steel required workers to sign a \"Pledge of Patriotism\" promising not to strike. The IBEW condemned the American Plan as an attempt to \"camouflage industrial slavery with the American flag,\" but the coordinated corporate assault successfully suppressed labor organizing throughout the decade.",
+    "_file": "1921-01-01--american-plan-open-shop-campaign-begins.md",
+    "_id_hash": "292a3a60ba978ab21409960bd369ec844201fce0cc569c109323d314375d5d54"
+  },
+  {
     "id": "1921-05-31--harding-transfers-naval-oil-reserves-interior-department",
     "date": "1921-05-31",
     "title": "Harding Transfers Naval Oil Reserves to Interior Department",
@@ -2583,6 +3175,43 @@
     "summary": "President Warren G. Harding signed Executive Order 3474 transferring control of naval petroleum reserves at Teapot Dome, Wyoming, and Elk Hills and Buena Vista in California from the Navy Department to the Department of the Interior under Secretary Albert Fall. This transfer removed the reserves from Navy oversight and positioned them for Fall's secret, no-bid leasing scheme. The reserves had been designated by President Taft to ensure the Navy would always have adequate fuel supplies. Fall had convinced Harding and Navy Secretary Edwin Denby that the Interior Department could better manage these strategic assets, setting the stage for what would become the biggest political corruption scandal before Watergate.",
     "_file": "1921-05-31--harding-transfers-naval-oil-reserves-interior-department.md",
     "_id_hash": "15447bfafc1e18e0beb158aeabf7b2b62ab3b36e0bbb3ee20f9fe7639dcfb310"
+  },
+  {
+    "id": "1921-11-23--revenue-act-mellon-tax-cuts-wealthy-begin",
+    "date": "1921-11-23",
+    "title": "Revenue Act of 1921 Begins Mellon Tax Cuts for Wealthy",
+    "importance": 8,
+    "tags": [
+      "tax-policy",
+      "wealth-concentration",
+      "institutional-capture",
+      "systematic-corruption"
+    ],
+    "actors": [
+      "Andrew Mellon",
+      "Warren G. Harding",
+      "Republican Party"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia - Revenue Act of 1921",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/Revenue_Act_of_1921"
+      },
+      {
+        "title": "U.S. History - Revenue Act of 1921",
+        "date": "2024",
+        "url": "https://www.u-s-history.com/pages/h1367.html"
+      },
+      {
+        "title": "Coolidge Foundation - The Mellon Plan",
+        "date": "2024",
+        "url": "https://coolidgefoundation.org/blog/the-mellon-plan-the-legislative-fight-for-the-first-supply-side-tax-reforms/"
+      }
+    ],
+    "summary": "Treasury Secretary Andrew Mellon secured passage of the first Republican tax reduction following the 1920 landslide, dropping the top marginal rate from 73 to 58 percent while introducing preferential treatment for capital gains at 12.5 percent. The act repealed the excess profits tax imposed during World War I and dramatically lowered the threshold for the top rate, benefiting wealthy individuals and corporations. Mellon argued tax reduction would \"spur economic expansion,\" establishing the supply-side doctrine that cutting taxes on the wealthy stimulates growth. Democrats and Progressive Republican Robert La Follette denounced the plan as \"a device to relieve multi-millionaires at the expense of other taxpayers.\" The act initiated a series of tax cuts in 1921, 1924, 1926, and 1928 that concentrated wealth at the top and contributed to the speculative bubble that preceded the 1929 crash. Mellon would serve three presidents from 1921-1932, with one senator quipping that \"three presidents served under Mellon.\"",
+    "_file": "1921-11-23--revenue-act-mellon-tax-cuts-wealthy-begin.md",
+    "_id_hash": "006660af015e757169fff9ec7962279818bfaa719875f5a9745215e41bc40c6a"
   },
   {
     "id": "1921-11-30--albert-fall-receives-100000-doheny-bribe",
@@ -2692,6 +3321,43 @@
     "_id_hash": "95d7ef32dc032e0739e1a90bc33bb9eecedfa37637a8203bc67c2b83fcc2cd77"
   },
   {
+    "id": "1922-09-01--railway-shopcraft-strike-broken-daugherty-injunction",
+    "date": "1922-09-01",
+    "title": "Railway Shopcraft Strike Broken by Daugherty Sweeping Injunction",
+    "importance": 8,
+    "tags": [
+      "labor-suppression",
+      "judicial-capture",
+      "executive-corruption",
+      "anti-union"
+    ],
+    "actors": [
+      "Harry Daugherty",
+      "Warren G. Harding",
+      "Railroad Labor Board"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia - Railway Labor Act",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/Railway_Labor_Act"
+      },
+      {
+        "title": "EBSCO - Railway Labor Act of 1926",
+        "date": "2024",
+        "url": "https://www.ebsco.com/research-starters/history/railway-labor-act-1926"
+      },
+      {
+        "title": "BMWE - Understanding the Railway Labor Act",
+        "date": "2024",
+        "url": "https://www.bmwe.org/cms/file/10042023_110910_UNDERSTANDINGTHERLA.PDF"
+      }
+    ],
+    "summary": "Attorney General Harry Daugherty secured a sweeping federal injunction that prohibited virtually any action by railway shop craft workers in furtherance of the largest railway strike in U.S. history. The 1922 strike involved hundreds of thousands of workers fighting wage reductions ordered by the Railroad Labor Board and employer attempts to replace established unions with company unions. The Harding administration's injunction broke the strike by making collective action illegal, establishing a precedent for using federal courts to suppress labor organizing. Employers exploited their strong postwar position to weaken unionized railway crafts through company unions and other anti-union tactics. The Railroad Labor Board, rather than providing relief to workers, ruled in favor of wage reductions during the 1921 recession. The strike's defeat through government intervention exposed the inadequacy of existing labor law and ultimately forced revision of railway labor law in 1926, though workers had already suffered a major defeat.",
+    "_file": "1922-09-01--railway-shopcraft-strike-broken-daugherty-injunction.md",
+    "_id_hash": "85c5ec70c47377476868223b9047507e1676c07c07ee36f7ed11257d3e416510"
+  },
+  {
     "id": "1922-11-01--scripps-howard-newspaper-chain-formation",
     "date": "1922-11-01",
     "title": "Scripps-McRae League Renamed Scripps-Howard as Second-Largest Newspaper Chain Consolidates Power",
@@ -2748,6 +3414,80 @@
     "_id_hash": "41cabb13556dee6e025bc68715f6beeb7885b8429a66028d3b7f5682a9f00c03"
   },
   {
+    "id": "1923-02-15--charles-forbes-resigns-veterans-bureau-corruption",
+    "date": "1923-02-15",
+    "title": "Charles Forbes Resigns Veterans Bureau Amid Massive Corruption Scandal",
+    "importance": 8,
+    "tags": [
+      "executive-corruption",
+      "institutional-capture",
+      "fraud",
+      "systematic-corruption"
+    ],
+    "actors": [
+      "Charles Forbes",
+      "Warren G. Harding",
+      "Charles F. Cramer"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia - Charles R. Forbes",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/Charles_R._Forbes"
+      },
+      {
+        "title": "U.S. History - Veterans' Bureau Scandal",
+        "date": "2024",
+        "url": "https://www.u-s-history.com/pages/h1379.html"
+      },
+      {
+        "title": "We Are The Mighty - First Head of VA Was So Corrupt",
+        "date": "2024",
+        "url": "https://www.wearethemighty.com/articles/president-tried-to-kill-corrupt-va-director/"
+      }
+    ],
+    "summary": "Veterans Bureau Director Charles Forbes resigned from Paris after President Harding confronted him at the White House, allegedly grabbing him by the throat and shouting \"You double-crossing bastard!\" Forbes had embezzled money, accepted bribes, and sold nearly 7 million dollars of desperately needed hospital supplies for only 600,000 dollars despite presidential orders to stop. Congressional testimony revealed Forbes accepted a 5,000 dollar bribe at the Drake Hotel to secure 17 million dollars in hospital construction contracts. He sold brand new hospital bedsheets for 20 cents that the Veterans Bureau was purchasing for one dollar. With a 500 million dollar annual budget overseeing 30,000 employees, Forbes systematically defrauded disabled World War I veterans. Bureau general counsel Charles F. Cramer committed suicide on March 14, 1923, one week after resigning. Forbes was later convicted of conspiracy to defraud the government, fined 10,000 dollars, and served 20 months at Leavenworth. Investigations revealed the Ohio Gang cost the government an estimated 2 billion dollars during Harding's administration.",
+    "_file": "1923-02-15--charles-forbes-resigns-veterans-bureau-corruption.md",
+    "_id_hash": "34f3b98f871ae025cf36ec3adba246f5c11c31927ee50e5a903a3976fb1dcbea"
+  },
+  {
+    "id": "1923-05-30--jesse-smith-suicide-ohio-gang-corruption",
+    "date": "1923-05-30",
+    "title": "Jesse Smith Suicide Exposes Ohio Gang Justice Department Corruption",
+    "importance": 7,
+    "tags": [
+      "executive-corruption",
+      "institutional-capture",
+      "systematic-corruption",
+      "justice-department"
+    ],
+    "actors": [
+      "Jesse Smith",
+      "Harry Daugherty",
+      "Warren G. Harding"
+    ],
+    "sources": [
+      {
+        "title": "EBSCO - U.S. Attorney General Harry M. Daugherty's Aide Commits Suicide",
+        "date": "2024",
+        "url": "https://www.ebsco.com/research-starters/law/us-attorney-general-harry-m-daughertys-aide-commits-suicide"
+      },
+      {
+        "title": "Britannica - Harry Micajah Daugherty",
+        "date": "2024",
+        "url": "https://www.britannica.com/biography/Harry-Micajah-Daugherty"
+      },
+      {
+        "title": "Wikipedia - Harry M. Daugherty",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/Harry_M._Daugherty"
+      }
+    ],
+    "summary": "Jesse W. Smith, Attorney General Harry Daugherty's aide and key Ohio Gang operator within the Justice Department, died by suicide as scrutiny of Harding administration corruption intensified. Smith managed sensitive communications and facilitated illicit schemes including the sale of illegal liquor permits during Prohibition and corrupt financial transactions involving government property. His responsibilities included brokering pardons and protection for bootleggers and criminals willing to pay the Ohio Gang. Smith's deteriorating mental health and increasing paranoia culminated in his death, which intensified public and congressional investigation of Justice Department corruption. Daugherty faced allegations of profiting from government alcohol sales, failing to enforce Prohibition statutes, and selling pardons. The Ohio Gang, consisting of politicians and industry leaders from Harding's Ohio political orbit, systematically looted federal agencies. Smith's suicide provided early warning of the scandals that would engulf the Harding administration, though the full scope of Teapot Dome and other corruption would only emerge after Harding's death in August 1923.",
+    "_file": "1923-05-30--jesse-smith-suicide-ohio-gang-corruption.md",
+    "_id_hash": "e174fe783a42768a42354b673cee86cbd3cf345536bd550f543c06bfe9dca5d6"
+  },
+  {
     "id": "1923-10-15--senate-teapot-dome-hearings-begin-walsh",
     "date": "1923-10-15",
     "title": "Senate Public Lands Committee Begins Teapot Dome Hearings Under Thomas Walsh",
@@ -2781,6 +3521,120 @@
     "summary": "The Senate Committee on Public Lands and Surveys began formal public hearings on the Teapot Dome oil leases, led by Montana Democratic Senator Thomas Walsh. Republican leadership had assigned this junior minority member to chair the inquiry, expecting it to be futile. Walsh, a former prosecutor, spent two years meticulously reviewing mountains of documents submitted by Fall and following every lead. On January 24, 1924, Edward Doheny admitted under oath that he had given Fall a $100,000 \"loan.\" What began as quiet hearings in a small committee room soon became a public sensation with packed audiences in the Senate Caucus Room. Walsh's diligent investigation uncovered how Fall, earning $12,000 annually, had recently spent $140,000 improving his ranch with Liberty Bonds bearing serial numbers traced to Sinclair. This investigation firmly established congressional authority to investigate executive branch corruption.",
     "_file": "1923-10-15--senate-teapot-dome-hearings-begin-walsh.md",
     "_id_hash": "4593c5e0e08af9bac9044b55bf0a2e6d10bcca04ed3f38dca83762ca5e8ee389"
+  },
+  {
+    "id": "1924-03-28--coolidge-fires-daugherty-refuses-open-justice-files",
+    "date": "1924-03-28",
+    "title": "Coolidge Fires Daugherty for Refusing to Open Justice Department Files",
+    "importance": 7,
+    "tags": [
+      "executive-corruption",
+      "institutional-capture",
+      "accountability-crisis",
+      "obstruction"
+    ],
+    "actors": [
+      "Harry Daugherty",
+      "Calvin Coolidge",
+      "Warren G. Harding"
+    ],
+    "sources": [
+      {
+        "title": "Miller Center - Harry M. Daugherty",
+        "date": "2024",
+        "url": "https://millercenter.org/president/coolidge/essays/daugherty-1921-attorney-general"
+      },
+      {
+        "title": "Britannica - Harry Micajah Daugherty",
+        "date": "2024",
+        "url": "https://www.britannica.com/biography/Harry-Micajah-Daugherty"
+      },
+      {
+        "title": "Wikipedia - Ohio Gang",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/Ohio_Gang"
+      }
+    ],
+    "summary": "President Calvin Coolidge dismissed Attorney General Harry Daugherty after he refused to open Justice Department files to a congressional committee investigating charges of wrongdoing by Harding associates. Daugherty faced bitter public opposition when appointed attorney general and nearly faced impeachment proceedings in 1922 as rumors of corruption circulated around him throughout Harding's administration. His defiance of congressional oversight represented an attempt to obstruct investigation of systematic graft, fraud, and theft by the Ohio Gang. Daugherty went to trial twice in 1927 on charges of graft and fraud stemming from his actions as attorney general, with both trials ending in hung juries. He was suspected of profiting from illegal alcohol sales, failing to enforce Prohibition, and selling pardons and legal protection. Daugherty spent the rest of his life in Ohio law practice, maintaining his innocence and defending both himself and Harding in \"The Inside Story of the Harding Tragedy\" (1932). His refusal to provide documents and his ultimate firing established a pattern of executive branch resistance to accountability that would recur throughout American political history.",
+    "_file": "1924-03-28--coolidge-fires-daugherty-refuses-open-justice-files.md",
+    "_id_hash": "95fb0b451abdbd928130a3e2bda8e36b1191f60a9763f57bc34223654486a533"
+  },
+  {
+    "id": "1926-11-15--nbc-created-rca-radio-broadcasting-monopoly",
+    "date": "1926-11-15",
+    "title": "NBC Created as RCA Establishes Radio Broadcasting Monopoly",
+    "importance": 8,
+    "tags": [
+      "media-consolidation",
+      "monopoly-power",
+      "institutional-capture",
+      "corporate-capture"
+    ],
+    "actors": [
+      "David Sarnoff",
+      "Radio Corporation of America",
+      "General Electric",
+      "Westinghouse",
+      "AT&T"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia - David Sarnoff",
+        "date": "2024",
+        "url": "https://en.wikipedia.org/wiki/David_Sarnoff"
+      },
+      {
+        "title": "History of Information - David Sarnoff Creates NBC",
+        "date": "2024",
+        "url": "https://historyofinformation.com/detail.php?id=591"
+      },
+      {
+        "title": "PBS - About Sarnoff",
+        "date": "2024",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/bigdream-about-sarnoff/"
+      }
+    ],
+    "summary": "Radio Corporation of America created the National Broadcasting Company through acquisition and merger of the WEAF and WJZ station chains, establishing the first major commercial radio broadcasting network in the United States. RCA owned 50 percent of NBC, with General Electric holding 30 percent and Westinghouse 20 percent, forming a corporate conglomerate that controlled a substantial portion of American radio broadcasting. David Sarnoff, who led RCA from shortly after its 1919 founding, created NBC as a new subsidiary after RCA bought AT&T's telephone group network. The network initially operated Red and Blue divisions, with the Red Network emphasizing sponsored entertainment and the Blue Network focusing on educational content. When federal investigators threatened antitrust charges in 1923 against RCA, Westinghouse, AT&T, and GE for conspiring to restrain trade in the radio industry, Sarnoff suggested splitting off NBC to satisfy regulators while preserving the patent-sharing monopoly. The concentration of radio broadcasting under corporate control established a pattern for mass media consolidation that would shape American public discourse for decades.",
+    "_file": "1926-11-15--nbc-created-rca-radio-broadcasting-monopoly.md",
+    "_id_hash": "fe76536f1bae1f5b293247f926ca466bf0f7761d5aa522c9df8450afe5c1d08f"
+  },
+  {
+    "id": "1927-01-01--company-unions-peak-welfare-capitalism-anti-union-strategy",
+    "date": "1927-01-01",
+    "title": "Company Unions Peak as Welfare Capitalism Undermines Independent Labor",
+    "importance": 7,
+    "tags": [
+      "labor-suppression",
+      "corporate-capture",
+      "anti-union",
+      "institutional-capture"
+    ],
+    "actors": [
+      "Goodyear Tire",
+      "U.S. Steel",
+      "National Association of Manufacturers",
+      "Samuel Gompers"
+    ],
+    "sources": [
+      {
+        "title": "Voices of Capitalism - Welfare Capitalism in the 1920s",
+        "date": "2024",
+        "url": "https://voicesofcapitalism.com/welfare-capitalism-in-the-1920s/"
+      },
+      {
+        "title": "EH.net - U.S. Economy in the 1920s",
+        "date": "2024",
+        "url": "https://eh.net/encyclopedia/the-u-s-economy-in-the-1920s/"
+      },
+      {
+        "title": "OnLabor - Conscious Capitalism vs. Unions",
+        "date": "2024",
+        "url": "https://onlabor.org/conscious-capitalism-vs-unions-a-look-at-whole-foods/"
+      }
+    ],
+    "summary": "Major American corporations deployed company-sponsored unions, benefits programs, and internal grievance systems as sophisticated anti-union strategies during the peak of 1920s welfare capitalism. Rather than negotiating with outside union representatives, companies like Goodyear Tire and U.S. Steel established in-house labor organizations with limited power, offering paid leave, medical care, and recreational programs to discourage independent union membership. Goodyear based its \"industrial assembly\" on the U.S. Congress structure but retained management control over wages and working conditions. Employers promoted these company-controlled benefits as alternatives to collective bargaining, coupled with surveillance and yellow-dog contracts. The strategy divided workforces, isolated union activists, and reduced independent union influence. AFL President Samuel Gompers condemned company unions as \"a pretense admirably calculated to deceive.\" The Leeds and Northrup Cooperative Association instituted one of the nation's first unemployment insurance plans in 1922 as part of this corporate-controlled approach. Whatever ethical claims employers made, managers sought to retain control over workplaces and co-opt any desire to unionize independently. This sophisticated union avoidance strategy proved effective until the Wagner Act banned company unions in 1935.",
+    "_file": "1927-01-01--company-unions-peak-welfare-capitalism-anti-union-strategy.md",
+    "_id_hash": "253f9559de554851fcefcc5d7bda4d05cbfc99c5dad996c093f9cb5c04ca1d73"
   },
   {
     "id": "1927-02-23--radio-act-establishes-public-airwaves-doctrine",
@@ -2840,6 +3694,80 @@
     "summary": "President Calvin Coolidge signs the Radio Act of 1927 (Public Law 632, 69th Congress), establishing the foundational principle that radio spectrum frequencies are publicly owned natural resources held in trust by the federal government for the American people. The legislation creates the Federal Radio Commission (FRC) and mandates that broadcast license holders must serve \"the public interest, convenience, or necessity\" - a revolutionary standard requiring private corporations using public airwaves to demonstrate public benefit in exchange for exclusive use of scarce broadcast frequencies.\n\nThe bipartisan Dill-White Bill, sponsored by Senator Clarence Dill (D-WA) and Representative Wallace H. White Jr. (R-ME), establishes that while the government will license private broadcasters to use specific frequencies, the electromagnetic spectrum itself remains public property requiring licensees to meet ongoing public interest obligations. This framework represents a critical middle ground between government-controlled broadcasting and unrestricted private ownership, creating enforceable public accountability for media corporations profiting from exclusive use of limited public resources.\n\nThe Act's \"public interest, convenience, or necessity\" standard becomes the constitutional and legal foundation for all subsequent broadcast regulation, justifying content requirements (Fairness Doctrine 1949), ownership limits (seven-station rule 1953), children's programming mandates, equal time provisions, and restrictions on monopoly concentration. The public ownership principle enables the Federal Communications Commission to deny or revoke licenses, enforce diversity requirements, and regulate broadcast content in ways that would be unconstitutional for print media - grounded in the scarcity of broadcast spectrum and the public's ownership of the airwaves.\n\nHowever, this regulatory framework is systematically dismantled through corporate-funded deregulation beginning in the Reagan era: the Fairness Doctrine is abolished (1987), ownership limits are repeatedly raised and then eliminated (Telecommunications Act 1996), and the \"public interest\" standard is effectively nullified through FCC regulatory capture and industry lobbying. The 90-year trajectory from the Radio Act's public ownership doctrine (1927) to six corporations controlling 90% of American media (2017) demonstrates how foundational public interest protections can be eroded through sustained corporate lobbying even while the original legal framework remains nominally in force.",
     "_file": "1927-02-23--radio-act-establishes-public-airwaves-doctrine.md",
     "_id_hash": "b8852339372eec17299315b943e637b5f58bd5e6bd36bf9b3085537096a9754c"
+  },
+  {
+    "id": "1928-01-01--margin-buying-explosion-enables-stock-speculation-bubble",
+    "date": "1928-01-01",
+    "title": "Margin Buying Explosion Enables Rampant Stock Market Speculation",
+    "importance": 8,
+    "tags": [
+      "financial-deregulation",
+      "speculation",
+      "systematic-corruption",
+      "wealth-concentration"
+    ],
+    "actors": [
+      "Federal Reserve",
+      "Goldman Sachs",
+      "Investment Trusts"
+    ],
+    "sources": [
+      {
+        "title": "Trustnet - The 1920s Roaring Twenties and Stock Market Crash",
+        "date": "2024",
+        "url": "https://www.trustnet.com/investing/13435466/the-1920s-the-roaring-twenties-and-the-stock-market-crash"
+      },
+      {
+        "title": "Federal Reserve History - Stock Market Crash of 1929",
+        "date": "2024",
+        "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+      },
+      {
+        "title": "Economic History Review - The Great Margin Call",
+        "date": "2023",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.13213"
+      }
+    ],
+    "summary": "A new brokerage industry enabling margin stock purchases allowed ordinary investors to buy corporate equities with only 10 percent down, borrowing the rest with stocks serving as collateral for loans. By August 1929, brokers routinely lent small investors more than two-thirds of the face value of stocks being purchased, with over 8.5 billion dollars out on loan, exceeding the entire amount of currency circulating in the United States. People mortgaged homes and sold Liberty Bonds to pour cash into the stock market, with some 300 million shares carried on margin by midsummer 1929. Investment trusts, the 1929 equivalent of closed-end mutual funds, sold at premiums above underlying stock values and created complex pyramids of leverage. Goldman Sachs Trading Corporation and similar vehicles owned shares in other trusts, which owned shares in yet more trusts, creating dangerous webs of cross-ownership and hidden leverage. The speculative boom detached stock prices from company fundamentals, fueled by easy credit, media hype, and unwavering belief in perpetual market growth. When margin loans were called as the market turned in October 1929, forced selling amplified the price collapse, demonstrating the dangers of excessive leverage that regulators had failed to restrain.",
+    "_file": "1928-01-01--margin-buying-explosion-enables-stock-speculation-bubble.md",
+    "_id_hash": "18e2712ee75f06b2d4fee207dfc26709bd029d8b03943b54f7f4fa2aeaeafcf4"
+  },
+  {
+    "id": "1929-08-01--investment-trusts-leverage-pyramid-reaches-peak",
+    "date": "1929-08-01",
+    "title": "Investment Trust Leverage Pyramids Reach Unsustainable Peak",
+    "importance": 7,
+    "tags": [
+      "financial-deregulation",
+      "speculation",
+      "systematic-corruption",
+      "regulatory-failure"
+    ],
+    "actors": [
+      "Goldman Sachs",
+      "Investment Trusts",
+      "Federal Reserve"
+    ],
+    "sources": [
+      {
+        "title": "Fiveable - Stock Market Speculation and Financial Innovations",
+        "date": "2024",
+        "url": "https://fiveable.me/history-of-american-business/unit-9/stock-market-speculation-financial-innovations/study-guide/AFNl25nOCi8TF0ed"
+      },
+      {
+        "title": "Britannica - Stock Market Crash of 1929",
+        "date": "2024",
+        "url": "https://www.britannica.com/event/stock-market-crash-of-1929"
+      },
+      {
+        "title": "Lumen Learning - Stock Market Crash of 1929",
+        "date": "2024",
+        "url": "https://courses.lumenlearning.com/suny-ushistory2os2xmaster/chapter/the-stock-market-crash-of-1929/"
+      }
+    ],
+    "summary": "Investment trusts reached peak popularity and systemic danger by selling at premiums higher than underlying stock values while creating complex pyramids of cross-ownership and hidden leverage. These 1929 equivalents of closed-end mutual funds bought stock on margin with funds loaned not by banks but by \"others,\" creating opacity and systemic fragility. Goldman Sachs Trading Corporation and similar vehicles pioneered dangerous structures where a single trust owned shares in other trusts, which owned shares in yet more trusts, amplifying both gains and catastrophic losses. Public utility stocks were driven to unsustainable levels by the explosion of investment trust formation and margin investing. The trusts' funds proved very sensitive to any market weakness, with cross-ownership creating a web of interconnected vulnerabilities. Financial entrepreneurs structured these vehicles to maximize fees and commissions while obscuring the actual leverage ratios and risk exposure. Media and public sentiment hyped these investments, creating a euphoric environment detached from fundamental economic reality. The proliferation of holding companies and investment trusts created debt that could not be liquidated when the market turned. This unregulated shadow banking system collapsed spectacularly in October 1929, demonstrating the need for securities regulation that would not arrive until the 1933-1934 New Deal reforms.",
+    "_file": "1929-08-01--investment-trusts-leverage-pyramid-reaches-peak.md",
+    "_id_hash": "c97504d6e70e5ebf69bd8b54da3c811f0fc0aa3ea21c126ac06fac980f930853"
   },
   {
     "id": "1929-10-25--albert-fall-convicted-bribery-first-cabinet-member",
@@ -3758,6 +4686,77 @@
     "_id_hash": "045804f5232e6b217443757169438bbd0a7dfa40e9f78c14e59f3336bac813a7"
   },
   {
+    "id": "1940-01-01--wwii-corporate-profit-explosion-cost-plus-contracts",
+    "date": "1940-01-01",
+    "title": "WWII Corporate Profits Soar 113% as Cost-Plus Contracts Enable Massive War Profiteering",
+    "summary": "Corporate profits explode during WWII mobilization, with the largest 200 corporations more than doubling annual profits from $576 million (1936-39) to $1.225 billion (1940-44) - a 113% increase. Cost-plus contracting allows companies to inflate costs with lavish executive salaries while earning guaranteed profits. General Motors pays CEO Charles E. Wilson more than the combined salaries of the President, Vice President, entire Cabinet, Supreme Court, Speaker of the House, and General Eisenhower. After-tax profits exceed 100% in steel, meat, and chemicals sectors.",
+    "importance": 8,
+    "actors": [
+      "U.S. corporations",
+      "General Motors",
+      "Steel industry",
+      "War Industries Board",
+      "Charles E. Wilson"
+    ],
+    "sources": [
+      {
+        "title": "The American Economy during World War II",
+        "url": "https://eh.net/encyclopedia/the-american-economy-during-world-war-ii/"
+      },
+      {
+        "title": "J. Thorne: Profiteering in the Second World War",
+        "url": "https://www.marxists.org/history/etol/newspape/fi/vol07/no06/thorne.htm"
+      },
+      {
+        "title": "U.S. At War: The Profiteering",
+        "url": "https://time.com/archive/6865413/u-s-at-war-the-profiteering/"
+      }
+    ],
+    "tags": [
+      "war-profiteering",
+      "corporate-power",
+      "defense-industry",
+      "executive-compensation",
+      "cost-plus-contracts"
+    ],
+    "_file": "1940-01-01--wwii-corporate-profit-explosion-cost-plus-contracts.md",
+    "_id_hash": "b9400743df7d6f2db68e6d2f7ad8caf430820adecdb15e5959e484db8fd519de"
+  },
+  {
+    "id": "1941-03-01--truman-committee-established-war-profiteering-oversight",
+    "date": "1941-03-01",
+    "title": "Truman Committee Established to Investigate War Profiteering",
+    "summary": "Senator Harry S. Truman establishes the Senate Special Committee to Investigate the National Defense Program (Truman Committee) after witnessing widespread waste and profiteering in war production. Over the next four years, the committee will save an estimated $10-15 billion by uncovering fraud and defective equipment from major defense contractors, establishing a high-water mark for congressional oversight of corporate war profiteering.",
+    "importance": 8,
+    "actors": [
+      "Harry S. Truman",
+      "U.S. Senate",
+      "Defense contractors"
+    ],
+    "sources": [
+      {
+        "title": "Truman Investigation of Waste & Abuse in WWII",
+        "url": "https://levin-center.org/harry-truman-and-the-investigation-of-waste-fraud-abuse-in-world-war-ii/"
+      },
+      {
+        "title": "U.S. Senate: Special Committee to Investigate the National Defense Program",
+        "url": "https://www.senate.gov/about/powers-procedures/investigations/truman.htm"
+      },
+      {
+        "title": "Truman Committee became the model for scrutinizing giant public expenditures",
+        "url": "https://www.npr.org/2023/05/11/1175403633/truman-committee-became-the-model-for-scrutinizing-giant-public-expenditures"
+      }
+    ],
+    "tags": [
+      "war-profiteering",
+      "congressional-oversight",
+      "defense-industry",
+      "institutional-accountability"
+    ],
+    "_file": "1941-03-01--truman-committee-established-war-profiteering-oversight.md",
+    "_id_hash": "7f52b7c3794f58747c77f06feb52ce17f2215d7822c4ffb3111f763f9222ec32"
+  },
+  {
     "id": "1941-05-06--fcc-limits-tv-ownership-three-stations",
     "date": "1941-05-06",
     "title": "FCC Establishes Television Ownership Limit of Three Stations to Prevent Media Monopoly Concentration",
@@ -3803,6 +4802,267 @@
     "summary": "The Federal Communications Commission imposes the first national ownership restrictions for television stations at the dawn of the television industry, limiting any single entity from owning, operating, or controlling more than three television stations nationwide. The rule implements the FCC's longstanding policy of \"diversification\" to prevent monopoly concentration and preserve competition in the broadcast media, based on Congressional mandate to prevent communications monopolies and ensure diverse viewpoints reach the American public.\n\nThe three-station ownership limit reflects the FCC's determination that television broadcasting, using publicly-owned spectrum frequencies, must serve democratic discourse and community interests rather than enabling corporate media monopolies. The Commission establishes that concentration of station ownership threatens both economic competition and the diversity of information and viewpoints available to the public, making ownership limits essential to fulfilling the Communications Act's \"public interest\" mandate.\n\nThe ownership limit is progressively relaxed through subsequent FCC decisions reflecting growing industry lobbying power: increased to five stations (early 1950s); expanded to seven stations with no more than five VHF (1953); raised to twelve stations with 25% national audience cap (1984); increased to 35% national audience reach (1996 Telecommunications Act); and effectively eliminated through subsequent deregulation allowing single corporations to own hundreds of stations. The strict three-station limit demonstrates the FCC's original commitment to preventing media monopoly, while its systematic dismantling reveals how sustained corporate lobbying and regulatory capture can eliminate protective regulations even while the underlying legal framework (Communications Act) remains in force.\n\nThe restrictive ownership rules contribute to a more diverse and competitive television landscape during the industry's formative decades (1941-1980s), but their removal enables unprecedented media consolidation: by 2017, six corporations control 90% of American media. The DuMont Television Network's shutdown (1956) partially resulted from these ownership limits preventing the network and Paramount Pictures from acquiring additional stations, illustrating how the rules actively prevented monopoly concentration before their systematic weakening.",
     "_file": "1941-05-06--fcc-limits-tv-ownership-three-stations.md",
     "_id_hash": "7e0f6acb11ecc6b7faee9ddd18fe6905e01db135177e16367313151790195d23"
+  },
+  {
+    "id": "1942-01-16--war-production-board-created-corporate-government-fusion",
+    "date": "1942-01-16",
+    "title": "War Production Board Establishes Corporate-Government Fusion Model",
+    "summary": "President Franklin D. Roosevelt creates the War Production Board (WPB) to coordinate wartime production, staffing it with corporate executives as 'dollar-a-year men.' This establishes a precedent for corporate-government partnership where business leaders shape government policy while maintaining industry ties, a model that will influence Cold War-era defense mobilization and the eventual military-industrial complex.",
+    "importance": 8,
+    "actors": [
+      "Franklin D. Roosevelt",
+      "Donald Nelson",
+      "War Production Board",
+      "Defense contractors",
+      "William Knudsen"
+    ],
+    "sources": [
+      {
+        "title": "War Production Board - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/War_Production_Board"
+      },
+      {
+        "title": "The Way We Won: America's Economic Breakthrough During World War II",
+        "url": "https://prospect.org/health/way-won-america-s-economic-breakthrough-world-war-ii/"
+      },
+      {
+        "title": "Records of the War Production Board",
+        "url": "https://www.archives.gov/research/guide-fed-records/groups/179.html"
+      }
+    ],
+    "tags": [
+      "corporate-government-fusion",
+      "war-profiteering",
+      "revolving-door",
+      "defense-industry",
+      "institutional-capture"
+    ],
+    "_file": "1942-01-16--war-production-board-created-corporate-government-fusion.md",
+    "_id_hash": "27d19ea3ec215e5f3da925d3c88308764c6c26de89471a186a413bffadb939ce"
+  },
+  {
+    "id": "1942-12-21--anaconda-wire-cable-fraud-indictment-defective-military-equipment",
+    "date": "1942-12-21",
+    "title": "Anaconda Wire and Cable Indicted for $6 Million Fraud Selling Defective Equipment",
+    "summary": "The Justice Department indicts Anaconda Wire and Cable Company and five employees for conspiracy to defraud the United States by supplying defective wire and cable for combat use. Lend-Lease shipments to the Soviet Union were 50% defective, prompting an official Soviet protest. Despite pleading guilty to endangering soldiers' lives, the company receives only nominal fines - establishing a pattern of minimal consequences for war profiteering.",
+    "importance": 7,
+    "actors": [
+      "Anaconda Wire and Cable Company",
+      "Department of Justice",
+      "Truman Committee",
+      "Francis Biddle"
+    ],
+    "sources": [
+      {
+        "title": "Truman Investigation of Waste & Abuse in WWII",
+        "url": "https://levin-center.org/harry-truman-and-the-investigation-of-waste-fraud-abuse-in-world-war-ii/"
+      },
+      {
+        "title": "Senator Harry S Truman and the Truman Committee",
+        "url": "https://www.defensemedianetwork.com/stories/senator-harry-s-truman-and-the-truman-committee/"
+      },
+      {
+        "title": "George Breitman: Wartime Crimes of Big Business",
+        "url": "https://www.marxists.org/history/etol/writers/breitman/1943/10/crimes.htm"
+      }
+    ],
+    "tags": [
+      "war-profiteering",
+      "defense-industry",
+      "corporate-impunity",
+      "institutional-capture"
+    ],
+    "_file": "1942-12-21--anaconda-wire-cable-fraud-indictment-defective-military-equipment.md",
+    "_id_hash": "d9c78c1fd63e5ee0502a9ac73029f76ef7d7e2436492297548138ebaf21c5926"
+  },
+  {
+    "id": "1943-06-25--smith-connally-act-restricts-wartime-union-activity",
+    "date": "1943-06-25",
+    "title": "Smith-Connally Act Restricts Union Rights, Bans Political Contributions",
+    "summary": "Congress overrides President Roosevelt's veto to pass the Smith-Connally Act (War Labor Disputes Act) after coal miners strike for wages to match wartime inflation. The act requires 30-day strike notice, prohibits strikes in war plants, and bans union contributions to federal elections. While designed to expire after the war, it establishes precedents for union restriction that will be expanded in the 1947 Taft-Hartley Act.",
+    "importance": 7,
+    "actors": [
+      "U.S. Congress",
+      "Franklin D. Roosevelt",
+      "John L. Lewis",
+      "United Mine Workers"
+    ],
+    "sources": [
+      {
+        "title": "Smith–Connally Act - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Smith–Connally_Act"
+      },
+      {
+        "title": "The Smith–Connally Act and Labor Battles on the Home Front",
+        "url": "https://www.nationalww2museum.org/war/articles/smith-connally-act-and-labor-battles-home-front"
+      },
+      {
+        "title": "Smith-Connally Anti-Strike Act",
+        "url": "https://www.britannica.com/topic/Smith-Connally-Anti-Strike-Act"
+      }
+    ],
+    "tags": [
+      "labor-suppression",
+      "union-rights",
+      "campaign-finance",
+      "wartime-policy"
+    ],
+    "_file": "1943-06-25--smith-connally-act-restricts-wartime-union-activity.md",
+    "_id_hash": "a43ca000fdc5fcaa957a0a1cc93b37fe767d60b27633795c8df59226b0339ebf"
+  },
+  {
+    "id": "1943-07-01--curtiss-wright-defective-engines-scandal-truman-investigation",
+    "date": "1943-07-01",
+    "title": "Curtiss-Wright Exposed for Supplying Defective Aircraft Engines to Military",
+    "summary": "The Truman Committee reveals that Curtiss-Wright's Lockland, Ohio plant supplied defective aircraft engines to the Army Air Force through falsified tests, forged inspection reports, and collusion with military inspectors. Despite holding more defense contracts than any company except General Motors, the company knowingly delivered faulty engines that endangered pilots' lives. The scandal propels Truman to national prominence and Time Magazine's cover.",
+    "importance": 8,
+    "actors": [
+      "Curtiss-Wright Corporation",
+      "Truman Committee",
+      "Harry S. Truman",
+      "Army Air Force"
+    ],
+    "sources": [
+      {
+        "title": "The Scandal that Led to Harry S. Truman Becoming President",
+        "url": "https://www.historynet.com/curtiss-wright-scandal/"
+      },
+      {
+        "title": "R-2600 Lockland Investigation",
+        "url": "https://www.enginehistory.org/Piston/Wright/R-2600/R-2600Lockland.shtml"
+      },
+      {
+        "title": "Senator Harry S Truman and the Truman Committee",
+        "url": "https://www.defensemedianetwork.com/stories/senator-harry-s-truman-and-the-truman-committee/"
+      }
+    ],
+    "tags": [
+      "war-profiteering",
+      "defense-industry",
+      "corporate-impunity",
+      "congressional-oversight",
+      "inspector-general-failure"
+    ],
+    "_file": "1943-07-01--curtiss-wright-defective-engines-scandal-truman-investigation.md",
+    "_id_hash": "539d49b4fcd41793327826bd0a420fb18160e821813b2af6e1f24b7384a9d03a"
+  },
+  {
+    "id": "1944-06-22--gi-bill-signed-veterans-benefits-corporate-subsidies",
+    "date": "1944-06-22",
+    "title": "GI Bill Signed, Providing Veterans Benefits While Subsidizing Corporations and Universities",
+    "importance": 6,
+    "actors": [
+      "Franklin D. Roosevelt",
+      "U.S. Congress",
+      "Veterans Administration"
+    ],
+    "sources": [
+      {
+        "title": "Servicemen's Readjustment Act (1944)",
+        "url": "https://www.archives.gov/milestone-documents/servicemens-readjustment-act",
+        "outlet": "National Archives"
+      },
+      {
+        "title": "G.I. Bill",
+        "url": "https://en.wikipedia.org/wiki/G.I._Bill",
+        "outlet": "Wikipedia"
+      },
+      {
+        "title": "Research Starters: The GI Bill",
+        "url": "https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-gi-bill",
+        "outlet": "National WWII Museum"
+      }
+    ],
+    "tags": [
+      "education-policy",
+      "veterans-benefits",
+      "corporate-subsidies",
+      "higher-education",
+      "housing-policy"
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "regulatory-capture",
+      "economic-capture"
+    ],
+    "summary": "President Franklin D. Roosevelt signs the Servicemen's Readjustment Act of 1944, commonly known as the G.I. Bill of Rights, on June 22, 1944. The comprehensive legislation provides education, housing, and business benefits to returning WWII veterans while simultaneously subsidizing corporate training programs and driving expansion of universities and the housing industry. Through the Veterans Administration, the act enabled veterans to obtain grants for school and college tuition, subsistence, books, supplies, and equipment; low-interest mortgage loans for homes; low-interest loans for farms or businesses; job training and hiring privileges; one year of unemployment compensation; and counseling services. Within seven years, approximately 8 million veterans received educational benefits: 2.3 million attended colleges and universities, 3.5 million received school training, and 3.4 million received on-the-job training. Professor Edwin Amenta notes that veterans benefits were a bargain for conservatives who feared high taxation and extension of New Deal agencies, as benefits went to a small group without long-term implications for universal programs, diverting power from New Deal bureaucracies. The GI Bill provided massive subsidies to universities and colleges (driving unprecedented expansion), the housing industry (low-interest mortgage loans fueled suburban development), corporations (on-the-job training meant government paid companies to train workers), and the banking industry (VA-guaranteed loans eliminated risk while ensuring profits). The benefits were not distributed equally - discriminatory lending and admission practices meant Black veterans often could not access the same opportunities as white veterans, contributing to the racial wealth gap.",
+    "_file": "1944-06-22--gi-bill-signed-veterans-benefits-corporate-subsidies.md",
+    "_id_hash": "779e008c47f87d06bc757bd41d06a36465c864d1ffa32b2ed680b09efdb13ed2"
+  },
+  {
+    "id": "1944-07-01--bretton-woods-conference-creates-imf-world-bank",
+    "date": "1944-07-01",
+    "title": "Bretton Woods Conference Establishes Dollar Hegemony Through IMF and World Bank",
+    "summary": "Delegates from 44 allied nations convene at Bretton Woods, New Hampshire to design the postwar international monetary system. The conference establishes the International Monetary Fund and World Bank, fixing global currencies to the dollar and the dollar to gold at $35/ounce. This institutionalizes U.S. economic dominance and creates mechanisms for imposing market liberalization on debtor nations - structural adjustment policies that will benefit multinational corporations for decades.",
+    "importance": 9,
+    "actors": [
+      "U.S. Treasury",
+      "Harry Dexter White",
+      "John Maynard Keynes",
+      "International Monetary Fund",
+      "World Bank"
+    ],
+    "sources": [
+      {
+        "title": "Bretton Woods and the Birth of the World Bank",
+        "url": "https://www.worldbank.org/en/archive/history/exhibits/Bretton-Woods-and-the-Birth-of-the-World-Bank"
+      },
+      {
+        "title": "Creation of the Bretton Woods System",
+        "url": "https://www.federalreservehistory.org/essays/bretton-woods-created"
+      },
+      {
+        "title": "Bretton Woods Conference - Library of Congress",
+        "url": "https://guides.loc.gov/this-month-in-business-history/july/bretton-woods-conference"
+      }
+    ],
+    "tags": [
+      "international-finance",
+      "dollar-hegemony",
+      "structural-adjustment",
+      "corporate-globalization",
+      "financial-institutions"
+    ],
+    "_file": "1944-07-01--bretton-woods-conference-creates-imf-world-bank.md",
+    "_id_hash": "e4634ce384e828045b648c18ae05a6431c7cc75e4eb75e4af71960dad7904967"
+  },
+  {
+    "id": "1945-11-21--1946-strike-wave-largest-us-labor-action",
+    "date": "1945-11-21",
+    "title": "Largest Strike Wave in U.S. History Begins as 5 Million Workers Walk Out",
+    "summary": "Over five million American workers engage in strikes in the year after V-J Day - the largest strike wave in U.S. history and the closest thing to a national general strike of the 20th century. Workers demand wages to match 16% inflation while their pay rises only 7%. Major strikes include 750,000 steel workers, 320,000 auto workers, 350,000 coal miners, and 174,000 electrical workers. Corporate backlash and media opposition fuel the 1946 Republican congressional victory and passage of the anti-union Taft-Hartley Act in 1947.",
+    "importance": 8,
+    "actors": [
+      "United Auto Workers",
+      "United Mine Workers",
+      "United Steel Workers",
+      "Walter Reuther",
+      "John L. Lewis",
+      "U.S. corporations"
+    ],
+    "sources": [
+      {
+        "title": "United States strike wave of 1945–1946 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/United_States_strike_wave_of_1945–1946"
+      },
+      {
+        "title": "The World War II and post-war strike wave",
+        "url": "https://libcom.org/article/world-war-ii-and-post-war-strike-wave-jeremy-brecher"
+      },
+      {
+        "title": "Work Stoppages: 1940-1949",
+        "url": "https://www.bls.gov/wsp/factsheets/work-stoppages-decade-1940-to-1949.htm"
+      }
+    ],
+    "tags": [
+      "labor-organizing",
+      "strikes",
+      "corporate-power",
+      "postwar-economy",
+      "union-rights"
+    ],
+    "_file": "1945-11-21--1946-strike-wave-largest-us-labor-action.md",
+    "_id_hash": "776aa85a8457b9596ec04286886e656992b664b7deb532bd4092ea17e90f7d33"
   },
   {
     "id": "1946-01-01--aaron-director-chicago-free-market-study-volker-fund",
@@ -3977,6 +5237,43 @@
     "summary": "Congress overrides President Harry Truman's veto to pass the Labor Management Relations Act of 1947, known as the Taft-Hartley Act after sponsors Senator Robert Taft (R-OH) and Representative Fred Hartley (R-NJ). The legislation fundamentally restricts union power by amending the 1935 Wagner Act, prohibiting closed shops, jurisdictional strikes, wildcat strikes, solidarity strikes, political strikes, secondary boycotts, mass picketing, and union monetary donations to federal political campaigns.\n\nCritically, Section 14(b) of Taft-Hartley authorizes states to pass \"right-to-work\" laws banning union shop agreements, providing the legal foundation for the state-level labor suppression campaigns that ALEC would later coordinate beginning in 1979. The Act also requires union officers to sign non-communist affidavits during the Cold War, imposes good faith bargaining requirements on unions, prohibits \"excessive\" dues and initiation fees, and creates the legal framework enabling permanent striker replacement that Reagan would exploit in the 1981 PATCO strike.\n\nPresident Truman denounces the legislation as a \"slave-labor bill,\" warning it would \"reverse the basic direction of our national labor policy\" and \"conflict with important principles of our democratic society.\" Despite organized labor's fierce opposition, the Republican-controlled 80th Congress passes the bill with support from Southern Democrats and corporate lobbying from the National Association of Manufacturers. Taft-Hartley represents the first major legislative rollback of New Deal labor protections and establishes the legal architecture enabling systematic union destruction over the following 75 years.",
     "_file": "1947-06-23--taft-hartley-act-restricts-union-power.md",
     "_id_hash": "f1be9e21c15ee284087a1598598cff9a2f011852b983516b3c6714e719cf835e"
+  },
+  {
+    "id": "1947-07-26--national-security-act-creates-permanent-warfare-state",
+    "date": "1947-07-26",
+    "title": "National Security Act Establishes Permanent Warfare State and Military-Industrial Framework",
+    "summary": "President Truman signs the National Security Act, merging military departments into the National Military Establishment (later Department of Defense), creating the CIA and National Security Council, and establishing the National Security Resources Board to coordinate military, industrial, and civilian mobilization. This legislation creates the institutional framework for what President Eisenhower will later call the 'military-industrial complex' - a permanent fusion of military and corporate interests.",
+    "importance": 9,
+    "actors": [
+      "Harry S. Truman",
+      "U.S. Congress",
+      "Department of Defense",
+      "Central Intelligence Agency",
+      "National Security Council"
+    ],
+    "sources": [
+      {
+        "title": "National Security Act of 1947 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/National_Security_Act_of_1947"
+      },
+      {
+        "title": "National Security Act of 1947",
+        "url": "https://history.state.gov/milestones/1945-1952/national-security-act"
+      },
+      {
+        "title": "The National Security Act Turns 75",
+        "url": "https://nsarchive.gwu.edu/briefing-book/intelligence/2022-07-26/national-security-act-turns-75"
+      }
+    ],
+    "tags": [
+      "military-industrial-complex",
+      "national-security-state",
+      "intelligence-agencies",
+      "defense-industry",
+      "institutional-capture"
+    ],
+    "_file": "1947-07-26--national-security-act-creates-permanent-warfare-state.md",
+    "_id_hash": "0bcda2d2c12a88358f215e3718ee77f0e2e62ce479ec65070a81dde379cd4250"
   },
   {
     "id": "1949-06-01--fcc-fairness-doctrine-requires-balanced-coverage",
@@ -144006,7 +145303,7 @@
       {
         "title": "A Side Hustle for Friends of Musk - Selling Access to Stakes in His Private Companies",
         "url": "https://www.tovima.com/wsj/a-side-hustle-for-friends-of-musk-selling-access-to-stakes-in-his-private-companies/",
-        "outlet": "Wall Street Journal",
+        "outlet": "The Wall Street Journal",
         "date": "2025-04-24",
         "tier": 1
       },

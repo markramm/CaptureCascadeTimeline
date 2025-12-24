@@ -340,6 +340,14 @@
 2. [Roosevelt and the Square Deal - Britannica](https://www.britannica.com/biography/Theodore-Roosevelt/The-Square-Deal)
 3. [Antitrust Lessons From the Presidency of Theodore Roosevelt - ProMarket](https://www.promarket.org/2021/07/18/biden-antitrust-roosevelt-mckinley-sherman-act/)
 
+## Triangle Shirtwaist Factory Fire Kills 146 Workers: Locked Doors and Preventable Deaths Expose Corporate Negligence
+*Date: 1911-03-25*
+
+1. [Triangle Shirtwaist Fire](https://aflcio.org/about/history/labor-history-events/triangle-shirtwaist-fire)
+2. [The Triangle Shirtwaist Factory Fire](https://www.osha.gov/aboutosha/40-years/trianglefactoryfire)
+3. [Triangle Shirtwaist Factory fire](https://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire)
+4. [Triangle Shirtwaist Factory Fire](https://www.history.com/articles/triangle-shirtwaist-fire)
+
 ## Supreme Court Establishes "Rule of Reason" Doctrine, Justice Harlan Warns It Will Emasculate Antitrust Law
 *Date: 1911-05-15*
 
@@ -373,6 +381,21 @@
 4. [Antitrust History - The American Tobacco Case of 1911](https://fee.org/articles/antitrust-history-the-american-tobacco-case-of-1911/)
 5. [American Tobacco and the Legacy of the Antitrust Laws](https://www.investmentoffice.com/Observations/Markets_in_History/American_Tobacco_and_the_Legacy_of_the_Antitrust_Laws.html)
 
+## Lawrence "Bread and Roses" Strike: IWW Unites 20,000 Workers Across 51 Nationalities, Wins 15% Raise
+*Date: 1912-01-12*
+
+1. [1912 Lawrence textile strike](https://en.wikipedia.org/wiki/1912_Lawrence_textile_strike)
+2. [The 1912 Bread and Roses Strike](https://newenglandhistoricalsociety.com/flashback-photo-the-1912-bread-and-roses-strike/)
+3. [The Industrial Workers of the World](https://www.pbs.org/wgbh/americanexperience/features/goldman-industrial-workers-world/)
+
+## Pujo Committee Hearings Begin: Money Trust Investigation Exposes JP Morgan Control of $22 Billion Through 341 Interlocking Directorships
+*Date: 1912-05-16*
+
+1. [Pujo Committee](https://en.wikipedia.org/wiki/Pujo_Committee)
+2. [Pujo Committee "Money Trust" Wall Street Banking Cartel Investigation 1912-1913](https://publicintelligence.net/pujo-committee-money-trust-wall-street-banking-cartel-investigation-1912-1913/)
+3. [Uncurrent Events - The Pujo Committee](https://fraser.stlouisfed.org/blog/2019/08/the-pujo-committee/)
+4. [Congress and the Money Trust](https://www.archives.gov/legislative/resources/education/money-trust)
+
 ## DuPont Powder Trust Ordered Dissolved, But Family Control and Geographic Proximity Limit Effectiveness
 *Date: 1912-06-13*
 
@@ -381,6 +404,27 @@
 3. [Boom Times | Science History Institute](https://www.sciencehistory.org/stories/magazine/boom-times/)
 4. [Atlas Powder Company - Wikipedia](https://en.wikipedia.org/wiki/Atlas_Powder_Company)
 5. [Hercules Inc. - Wikipedia](https://en.wikipedia.org/wiki/Hercules_Inc.)
+
+## 16th Amendment Ratified: Federal Income Tax Established to Shift Burden from Middle Class to Wealthy
+*Date: 1913-02-03*
+
+1. [16th Amendment to the U.S. Constitution - Federal Income Tax (1913)](https://www.archives.gov/milestone-documents/16th-amendment)
+2. [Sixteenth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Sixteenth_Amendment_to_the_United_States_Constitution)
+3. [The Income Tax Amendment - Most Thought It Was a Great Idea in 1913](https://www.crf-usa.org/bill-of-rights-in-action/bria-11-3-b-the-income-tax-amendment-most-thought-it-was-a-great-idea-in-1913.html)
+
+## 17th Amendment Ratified: Direct Election of Senators Ends State Legislature Appointments and Deadlock Corruption
+*Date: 1913-04-08*
+
+1. [17th Amendment to the U.S. Constitution - Direct Election of U.S. Senators (1913)](https://www.archives.gov/milestone-documents/17th-amendment)
+2. [Seventeenth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Seventeenth_Amendment_to_the_United_States_Constitution)
+3. [Landmark Legislation: The Seventeenth Amendment to the Constitution](https://www.senate.gov/about/origins-foundations/senate-and-constitution/seventeenth-amendment.htm)
+
+## Federal Reserve Act Creates Central Banking System: Wilson Signs Compromise Between Private Bank Control and Government Oversight
+*Date: 1913-12-23*
+
+1. [Federal Reserve Act Signed into Law](https://www.federalreservehistory.org/essays/federal-reserve-act-signed)
+2. [The Senate Passes the Federal Reserve Act](https://www.senate.gov/artandhistory/history/minute/Senate_Passes_the_Federal_Reserve_Act.htm)
+3. [Federal Reserve Act](https://en.wikipedia.org/wiki/Federal_Reserve_Act)
 
 ## Ludlow Massacre: National Guard Burns Tent Colony, Killing 21 Including 11 Children
 *Date: 1914-04-20*
@@ -398,6 +442,44 @@
 3. [The Origins of the FTC: Concentration, Cooperation, Control, and Competition](https://www.ftc.gov/sites/default/files/attachments/federal-trade-commission-history/origins.pdf)
 4. [Federal Trade Commission Act (FTCA)](https://www.britannica.com/money/Federal-Trade-Commission-Act)
 
+## Clayton Antitrust Act Signed: Labor Unions Exempted from Antitrust Laws, Gompers Calls It Labor's Magna Carta
+*Date: 1914-10-15*
+
+1. [The Clayton Antitrust Act](https://history.house.gov/HistoricalHighlight/Detail/15032424979)
+2. [Labor Unions Win Exemption from Antitrust Laws](https://www.ebsco.com/research-starters/history/labor-unions-win-exemption-antitrust-laws)
+3. [Clayton Antitrust Act of 1914](https://en.wikipedia.org/wiki/Clayton_Antitrust_Act_of_1914)
+4. [Clayton Antitrust Act Enacted](https://guides.loc.gov/this-month-in-business-history/october/clayton-anitrust-enacted)
+
+## Espionage Act Signed: Wilson Criminalizes Antiwar Speech, Targets IWW Labor Organizers and Socialists
+*Date: 1917-06-15*
+
+1. [Espionage Act of 1917](https://en.wikipedia.org/wiki/Espionage_Act_of_1917)
+2. [The Sedition and Espionage Acts Were Designed to Quash Dissent](https://www.history.com/articles/sedition-espionage-acts-woodrow-wilson-wwi)
+3. [Espionage Act of 1917](https://firstamendment.mtsu.edu/article/espionage-act-of-1917/)
+4. [Prelude to the Red Scare - The Espionage and Sedition Acts](https://www.pbs.org/wgbh/americanexperience/features/goldman-prelude-red-scare-espionage-and-sedition-acts/)
+
+## War Industries Board Established: Bernard Baruch and "Dollar-a-Year Men" Institutionalize Corporate-Government Fusion
+*Date: 1917-07-28*
+
+1. [War Industries Board](https://encyclopedia.1914-1918-online.net/article/war-industries-board/)
+2. [United States Establishes the War Industries Board](https://www.ebsco.com/research-starters/military-history-and-science/united-states-establishes-war-industries-board)
+3. [War Industries Board](https://en.wikipedia.org/wiki/War_Industries_Board)
+
+## Sedition Act Expands Espionage Act: Criminalizes "Disloyal" Speech About Government, Results in 1,000+ Convictions
+*Date: 1918-05-16*
+
+1. [Sedition Act of 1918](https://en.wikipedia.org/wiki/Sedition_Act_of_1918)
+2. [Sedition Act of 1918](https://firstamendment.mtsu.edu/article/sedition-act-of-1918/)
+3. [Espionage Act of 1917 and Sedition Act of 1918 (1917-1918)](https://constitutioncenter.org/the-constitution/historic-document-library/detail/espionage-act-of-1917-and-sedition-act-of-1918-1917-1918)
+
+## Palmer Raids Begin: Attorney General and J. Edgar Hoover Arrest 6,000 in 36 Cities, Deport 249 on "Soviet Ark"
+*Date: 1919-11-07*
+
+1. [Palmer Raids](https://en.wikipedia.org/wiki/Palmer_Raids)
+2. [Palmer Raids](https://www.fbi.gov/history/famous-cases/palmer-raids)
+3. [Palmer Raids - Definition, Purpose & 1920s](https://www.history.com/articles/palmer-raids)
+4. [Introduction - Palmer Raids](https://guides.loc.gov/chronicling-america-palmer-raids)
+
 ## Hearst Newspaper Empire Reaches 28 Papers Controlling One in Four American Readers Through Yellow Journalism Tactics
 *Date: 1920-01-01*
 
@@ -405,6 +487,13 @@
 2. [William Randolph Hearst](https://www.britannica.com/money/William-Randolph-Hearst)
 3. [Newspapers in the 1920s & 1930s](https://guides.library.illinois.edu/adventures/industry)
 4. [The Hearst Corp](https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/hearst-corp)
+
+## Palmer Raids Mass Arrests Target Labor and Immigrant Activists
+*Date: 1920-01-02*
+
+1. [FBI - Palmer Raids](https://www.fbi.gov/history/famous-cases/palmer-raids)
+2. [History.com - Palmer Raids](https://www.history.com/articles/palmer-raids)
+3. [First Amendment Encyclopedia - Palmer Raids and Suppression of Dissent](https://firstamendment.mtsu.edu/article/the-palmer-raids-and-suppression-of-dissent/)
 
 ## Supreme Court Dismisses U.S. Steel Antitrust Case, Ruling Size Alone Not Illegal - Enforcement Ends Until 1945
 *Date: 1920-03-01*
@@ -414,12 +503,26 @@
 3. [Standard Oil and U.S. Steel - Predation and Collusion | University of Florida](https://scholarship.law.ufl.edu/facultypub/260/)
 4. [UNITED STATES v. UNITED STATES STEEL CORPORATION | Cornell Law](https://www.law.cornell.edu/supremecourt/text/251/417)
 
+## American Plan Open Shop Campaign Launches Nationwide Union Suppression
+*Date: 1921-01-01*
+
+1. [Wikipedia - American Plan (union negotiations)](https://en.wikipedia.org/wiki/American_Plan_(union_negotiations))
+2. [Encyclopedia.com - American Plan](https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/american-plan-0)
+3. [IBEW 1245 - Chapter 24 The American Plan](https://ibew1245.com/chapter-24-the-american-plan/)
+
 ## Harding Transfers Naval Oil Reserves to Interior Department
 *Date: 1921-05-31*
 
 1. [U.S. Senate - 100 Years Since Teapot Dome](https://www.senate.gov/artandhistory/senate-stories/one-hundred-years-since-teapot-dome.htm)
 2. [Britannica - Teapot Dome Scandal](https://www.britannica.com/event/Teapot-Dome-Scandal)
 3. [History.com - Teapot Dome Scandal](https://www.history.com/articles/teapot-dome-scandal)
+
+## Revenue Act of 1921 Begins Mellon Tax Cuts for Wealthy
+*Date: 1921-11-23*
+
+1. [Wikipedia - Revenue Act of 1921](https://en.wikipedia.org/wiki/Revenue_Act_of_1921)
+2. [U.S. History - Revenue Act of 1921](https://www.u-s-history.com/pages/h1367.html)
+3. [Coolidge Foundation - The Mellon Plan](https://coolidgefoundation.org/blog/the-mellon-plan-the-legislative-fight-for-the-first-supply-side-tax-reforms/)
 
 ## Interior Secretary Albert Fall Receives $100,000 Cash Bribe from Edward Doheny
 *Date: 1921-11-30*
@@ -442,6 +545,13 @@
 2. [Teach Democracy - The Teapot Dome Scandal](https://www.crf-usa.org/bill-of-rights-in-action/bria-24-4-the-teapot-dome-scandal.html)
 3. [Academic Brooklyn - Teapot Dome Summary](https://academic.brooklyn.cuny.edu/history/johnson/teapotdome.htm)
 
+## Railway Shopcraft Strike Broken by Daugherty Sweeping Injunction
+*Date: 1922-09-01*
+
+1. [Wikipedia - Railway Labor Act](https://en.wikipedia.org/wiki/Railway_Labor_Act)
+2. [EBSCO - Railway Labor Act of 1926](https://www.ebsco.com/research-starters/history/railway-labor-act-1926)
+3. [BMWE - Understanding the Railway Labor Act](https://www.bmwe.org/cms/file/10042023_110910_UNDERSTANDINGTHERLA.PDF)
+
 ## Scripps-McRae League Renamed Scripps-Howard as Second-Largest Newspaper Chain Consolidates Power
 *Date: 1922-11-01*
 
@@ -450,12 +560,47 @@
 3. [History of The E.W. Scripps Company](https://www.fundinguniverse.com/company-histories/the-e-w-scripps-company-history/)
 4. [E.W. Scripps History - 1878 to Present](https://scripps.com/company/history/)
 
+## Charles Forbes Resigns Veterans Bureau Amid Massive Corruption Scandal
+*Date: 1923-02-15*
+
+1. [Wikipedia - Charles R. Forbes](https://en.wikipedia.org/wiki/Charles_R._Forbes)
+2. [U.S. History - Veterans' Bureau Scandal](https://www.u-s-history.com/pages/h1379.html)
+3. [We Are The Mighty - First Head of VA Was So Corrupt](https://www.wearethemighty.com/articles/president-tried-to-kill-corrupt-va-director/)
+
+## Jesse Smith Suicide Exposes Ohio Gang Justice Department Corruption
+*Date: 1923-05-30*
+
+1. [EBSCO - U.S. Attorney General Harry M. Daugherty's Aide Commits Suicide](https://www.ebsco.com/research-starters/law/us-attorney-general-harry-m-daughertys-aide-commits-suicide)
+2. [Britannica - Harry Micajah Daugherty](https://www.britannica.com/biography/Harry-Micajah-Daugherty)
+3. [Wikipedia - Harry M. Daugherty](https://en.wikipedia.org/wiki/Harry_M._Daugherty)
+
 ## Senate Public Lands Committee Begins Teapot Dome Hearings Under Thomas Walsh
 *Date: 1923-10-15*
 
 1. [U.S. Senate - Thomas J. Walsh Featured Biography](https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Walsh.htm)
 2. [Levin Center - Senator Walsh and the Teapot Dome Investigation](https://levin-center.org/senator-walsh-and-the-teapot-dome-investigation/)
 3. [U.S. Senate - 100 Years Since Teapot Dome](https://www.senate.gov/artandhistory/senate-stories/one-hundred-years-since-teapot-dome.htm)
+
+## Coolidge Fires Daugherty for Refusing to Open Justice Department Files
+*Date: 1924-03-28*
+
+1. [Miller Center - Harry M. Daugherty](https://millercenter.org/president/coolidge/essays/daugherty-1921-attorney-general)
+2. [Britannica - Harry Micajah Daugherty](https://www.britannica.com/biography/Harry-Micajah-Daugherty)
+3. [Wikipedia - Ohio Gang](https://en.wikipedia.org/wiki/Ohio_Gang)
+
+## NBC Created as RCA Establishes Radio Broadcasting Monopoly
+*Date: 1926-11-15*
+
+1. [Wikipedia - David Sarnoff](https://en.wikipedia.org/wiki/David_Sarnoff)
+2. [History of Information - David Sarnoff Creates NBC](https://historyofinformation.com/detail.php?id=591)
+3. [PBS - About Sarnoff](https://www.pbs.org/wgbh/americanexperience/features/bigdream-about-sarnoff/)
+
+## Company Unions Peak as Welfare Capitalism Undermines Independent Labor
+*Date: 1927-01-01*
+
+1. [Voices of Capitalism - Welfare Capitalism in the 1920s](https://voicesofcapitalism.com/welfare-capitalism-in-the-1920s/)
+2. [EH.net - U.S. Economy in the 1920s](https://eh.net/encyclopedia/the-u-s-economy-in-the-1920s/)
+3. [OnLabor - Conscious Capitalism vs. Unions](https://onlabor.org/conscious-capitalism-vs-unions-a-look-at-whole-foods/)
 
 ## Radio Act of 1927 Establishes Public Ownership of Airwaves and "Public Interest" Broadcasting Standard
 *Date: 1927-02-23*
@@ -464,6 +609,20 @@
 2. [Radio Act of 1927](https://en.wikipedia.org/wiki/Radio_Act_of_1927)
 3. [Anniversary of the Radio Act of 1927, The Beginning of Broadcast Regulation](https://blogs.loc.gov/law/2016/02/anniversary-of-the-radio-act-of-1927-the-beginning-of-broadcast-regulation/)
 4. [Radio Act of 1927 (1927)](https://firstamendment.mtsu.edu/article/radio-act-of-1927/)
+
+## Margin Buying Explosion Enables Rampant Stock Market Speculation
+*Date: 1928-01-01*
+
+1. [Trustnet - The 1920s Roaring Twenties and Stock Market Crash](https://www.trustnet.com/investing/13435466/the-1920s-the-roaring-twenties-and-the-stock-market-crash)
+2. [Federal Reserve History - Stock Market Crash of 1929](https://www.federalreservehistory.org/essays/stock-market-crash-of-1929)
+3. [Economic History Review - The Great Margin Call](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.13213)
+
+## Investment Trust Leverage Pyramids Reach Unsustainable Peak
+*Date: 1929-08-01*
+
+1. [Fiveable - Stock Market Speculation and Financial Innovations](https://fiveable.me/history-of-american-business/unit-9/stock-market-speculation-financial-innovations/study-guide/AFNl25nOCi8TF0ed)
+2. [Britannica - Stock Market Crash of 1929](https://www.britannica.com/event/stock-market-crash-of-1929)
+3. [Lumen Learning - Stock Market Crash of 1929](https://courses.lumenlearning.com/suny-ushistory2os2xmaster/chapter/the-stock-market-crash-of-1929/)
 
 ## Albert Fall Convicted of Bribery - First Cabinet Member Imprisoned for Crimes in Office
 *Date: 1929-10-25*
@@ -610,12 +769,75 @@
 3. [FTC Revives Enforcement of the Robinson-Patman Act](https://www.congress.gov/crs-product/LSB11257)
 4. [Price Discrimination: Robinson-Patman Violations](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/price-discrimination-robinson-patman-violations)
 
+## WWII Corporate Profits Soar 113% as Cost-Plus Contracts Enable Massive War Profiteering
+*Date: 1940-01-01*
+
+1. [The American Economy during World War II](https://eh.net/encyclopedia/the-american-economy-during-world-war-ii/)
+2. [J. Thorne: Profiteering in the Second World War](https://www.marxists.org/history/etol/newspape/fi/vol07/no06/thorne.htm)
+3. [U.S. At War: The Profiteering](https://time.com/archive/6865413/u-s-at-war-the-profiteering/)
+
+## Truman Committee Established to Investigate War Profiteering
+*Date: 1941-03-01*
+
+1. [Truman Investigation of Waste & Abuse in WWII](https://levin-center.org/harry-truman-and-the-investigation-of-waste-fraud-abuse-in-world-war-ii/)
+2. [U.S. Senate: Special Committee to Investigate the National Defense Program](https://www.senate.gov/about/powers-procedures/investigations/truman.htm)
+3. [Truman Committee became the model for scrutinizing giant public expenditures](https://www.npr.org/2023/05/11/1175403633/truman-committee-became-the-model-for-scrutinizing-giant-public-expenditures)
+
 ## FCC Establishes Television Ownership Limit of Three Stations to Prevent Media Monopoly Concentration
 *Date: 1941-05-06*
 
 1. [Review of the Commission's Broadcast Ownership Rules](https://docs.fcc.gov/public/attachments/DOC-347796A2.pdf)
 2. [Federal Register - National Television Multiple Ownership Rule](https://www.federalregister.gov/documents/2018/01/26/2018-01404/national-television-multiple-ownership-rule)
 3. [The FCC's Multiple Ownership Rules and National Audience Reach Cap](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=2892&context=dlr)
+
+## War Production Board Establishes Corporate-Government Fusion Model
+*Date: 1942-01-16*
+
+1. [War Production Board - Wikipedia](https://en.wikipedia.org/wiki/War_Production_Board)
+2. [The Way We Won: America's Economic Breakthrough During World War II](https://prospect.org/health/way-won-america-s-economic-breakthrough-world-war-ii/)
+3. [Records of the War Production Board](https://www.archives.gov/research/guide-fed-records/groups/179.html)
+
+## Anaconda Wire and Cable Indicted for $6 Million Fraud Selling Defective Equipment
+*Date: 1942-12-21*
+
+1. [Truman Investigation of Waste & Abuse in WWII](https://levin-center.org/harry-truman-and-the-investigation-of-waste-fraud-abuse-in-world-war-ii/)
+2. [Senator Harry S Truman and the Truman Committee](https://www.defensemedianetwork.com/stories/senator-harry-s-truman-and-the-truman-committee/)
+3. [George Breitman: Wartime Crimes of Big Business](https://www.marxists.org/history/etol/writers/breitman/1943/10/crimes.htm)
+
+## Smith-Connally Act Restricts Union Rights, Bans Political Contributions
+*Date: 1943-06-25*
+
+1. [Smith–Connally Act - Wikipedia](https://en.wikipedia.org/wiki/Smith–Connally_Act)
+2. [The Smith–Connally Act and Labor Battles on the Home Front](https://www.nationalww2museum.org/war/articles/smith-connally-act-and-labor-battles-home-front)
+3. [Smith-Connally Anti-Strike Act](https://www.britannica.com/topic/Smith-Connally-Anti-Strike-Act)
+
+## Curtiss-Wright Exposed for Supplying Defective Aircraft Engines to Military
+*Date: 1943-07-01*
+
+1. [The Scandal that Led to Harry S. Truman Becoming President](https://www.historynet.com/curtiss-wright-scandal/)
+2. [R-2600 Lockland Investigation](https://www.enginehistory.org/Piston/Wright/R-2600/R-2600Lockland.shtml)
+3. [Senator Harry S Truman and the Truman Committee](https://www.defensemedianetwork.com/stories/senator-harry-s-truman-and-the-truman-committee/)
+
+## GI Bill Signed, Providing Veterans Benefits While Subsidizing Corporations and Universities
+*Date: 1944-06-22*
+
+1. [Servicemen's Readjustment Act (1944)](https://www.archives.gov/milestone-documents/servicemens-readjustment-act)
+2. [G.I. Bill](https://en.wikipedia.org/wiki/G.I._Bill)
+3. [Research Starters: The GI Bill](https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-gi-bill)
+
+## Bretton Woods Conference Establishes Dollar Hegemony Through IMF and World Bank
+*Date: 1944-07-01*
+
+1. [Bretton Woods and the Birth of the World Bank](https://www.worldbank.org/en/archive/history/exhibits/Bretton-Woods-and-the-Birth-of-the-World-Bank)
+2. [Creation of the Bretton Woods System](https://www.federalreservehistory.org/essays/bretton-woods-created)
+3. [Bretton Woods Conference - Library of Congress](https://guides.loc.gov/this-month-in-business-history/july/bretton-woods-conference)
+
+## Largest Strike Wave in U.S. History Begins as 5 Million Workers Walk Out
+*Date: 1945-11-21*
+
+1. [United States strike wave of 1945–1946 - Wikipedia](https://en.wikipedia.org/wiki/United_States_strike_wave_of_1945–1946)
+2. [The World War II and post-war strike wave](https://libcom.org/article/world-war-ii-and-post-war-strike-wave-jeremy-brecher)
+3. [Work Stoppages: 1940-1949](https://www.bls.gov/wsp/factsheets/work-stoppages-decade-1940-to-1949.htm)
 
 ## Aaron Director Launches Free Market Study at Chicago Law School with Volker Fund Financing
 *Date: 1946-01-01*
@@ -638,6 +860,13 @@
 1. [1947 Taft-Hartley Substantive Provisions](https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-substantive-provisions)
 2. [Taft-Hartley Act Wikipedia](https://en.wikipedia.org/wiki/Taft–Hartley_Act)
 3. [Labor Management Relations Act of 1947 (Taft-Hartley Act)](https://www.influencewatch.org/legislation/labor-management-relations-act-of-1947-taft-hartley-act/)
+
+## National Security Act Establishes Permanent Warfare State and Military-Industrial Framework
+*Date: 1947-07-26*
+
+1. [National Security Act of 1947 - Wikipedia](https://en.wikipedia.org/wiki/National_Security_Act_of_1947)
+2. [National Security Act of 1947](https://history.state.gov/milestones/1945-1952/national-security-act)
+3. [The National Security Act Turns 75](https://nsarchive.gwu.edu/briefing-book/intelligence/2022-07-26/national-security-act-turns-75)
 
 ## FCC Establishes Fairness Doctrine Requiring Broadcasters to Present Balanced Coverage of Controversial Issues
 *Date: 1949-06-01*

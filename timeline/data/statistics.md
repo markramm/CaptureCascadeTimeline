@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-24 01:50:16
+Generated: 2025-12-24 02:04:31
 
 ## Overview
-- **Total Events**: 3484
+- **Total Events**: 3516
 - **Date Range**: 1142-01-01 to 2025-12-20
-- **Total Sources**: 11746
-- **Unique Tags**: 5720
-- **Unique Actors**: 5935
+- **Total Sources**: 11847
+- **Unique Tags**: 5743
+- **Unique Actors**: 6001
 
 ## Event Status
-- **Unknown**: 1030
-- **Confirmed**: 2373
+- **Unknown**: 1050
+- **Confirmed**: 2385
 - **Validated**: 31
 - **Disputed**: 2
 - **Published**: 31
@@ -27,20 +27,20 @@ Generated: 2025-12-24 01:50:16
 
 ## Top Tags
 - regulatory-capture: 538 events
-- institutional-capture: 299 events
+- institutional-capture: 311 events
 - corruption: 280 events
 - trump-administration: 142 events
 - kleptocracy: 139 events
 - government-contracts: 129 events
 - crypto: 118 events
 - surveillance: 114 events
-- antitrust: 103 events
-- supreme-court: 102 events
+- antitrust: 104 events
+- systematic-corruption: 103 events
 
 ## Top Actors
 - Donald Trump: 1044 events
 - Trump Administration: 334 events
-- Department of Justice: 237 events
+- Department of Justice: 239 events
 - Elon Musk: 161 events
 - Department of Homeland Security: 83 events
 - Immigration and Customs Enforcement (ICE): 83 events
@@ -81,24 +81,36 @@ Generated: 2025-12-24 01:50:16
 - 1906: 1 events
 - 1907: 2 events
 - 1909: 1 events
-- 1911: 4 events
-- 1912: 1 events
-- 1914: 2 events
-- 1920: 2 events
-- 1921: 2 events
-- 1922: 3 events
-- 1923: 1 events
-- 1927: 1 events
-- 1929: 1 events
+- 1911: 5 events
+- 1912: 3 events
+- 1913: 3 events
+- 1914: 3 events
+- 1917: 2 events
+- 1918: 1 events
+- 1919: 1 events
+- 1920: 3 events
+- 1921: 4 events
+- 1922: 4 events
+- 1923: 3 events
+- 1924: 1 events
+- 1926: 1 events
+- 1927: 2 events
+- 1928: 1 events
+- 1929: 2 events
 - 1931: 1 events
 - 1932: 1 events
 - 1933: 8 events
 - 1934: 4 events
 - 1935: 3 events
 - 1936: 1 events
-- 1941: 1 events
+- 1940: 1 events
+- 1941: 2 events
+- 1942: 2 events
+- 1943: 2 events
+- 1944: 2 events
+- 1945: 1 events
 - 1946: 1 events
-- 1947: 2 events
+- 1947: 3 events
 - 1949: 1 events
 - 1950: 3 events
 - 1953: 7 events

@@ -5,7 +5,7 @@
   },
   {
     "name": "institutional-capture",
-    "count": 299
+    "count": 311
   },
   {
     "name": "corruption",
@@ -33,6 +33,10 @@
   },
   {
     "name": "antitrust",
+    "count": 104
+  },
+  {
+    "name": "systematic-corruption",
     "count": 103
   },
   {
@@ -42,10 +46,6 @@
   {
     "name": "foreign-influence",
     "count": 99
-  },
-  {
-    "name": "systematic-corruption",
-    "count": 97
   },
   {
     "name": "healthcare",
@@ -64,16 +64,16 @@
     "count": 83
   },
   {
-    "name": "fraud",
-    "count": 77
+    "name": "corporate-power",
+    "count": 80
   },
   {
-    "name": "corporate-power",
-    "count": 75
+    "name": "fraud",
+    "count": 78
   },
   {
     "name": "campaign-finance",
-    "count": 72
+    "count": 73
   },
   {
     "name": "accountability",
@@ -89,7 +89,7 @@
   },
   {
     "name": "revolving-door",
-    "count": 66
+    "count": 68
   },
   {
     "name": "conservative-movement",
@@ -97,7 +97,7 @@
   },
   {
     "name": "judicial-capture",
-    "count": 63
+    "count": 64
   },
   {
     "name": "executive-power",
@@ -136,6 +136,10 @@
     "count": 49
   },
   {
+    "name": "labor-suppression",
+    "count": 48
+  },
+  {
     "name": "project-2025",
     "count": 47
   },
@@ -160,8 +164,16 @@
     "count": 45
   },
   {
+    "name": "corporate-capture",
+    "count": 44
+  },
+  {
     "name": "national-security",
     "count": 44
+  },
+  {
+    "name": "congressional-oversight",
+    "count": 43
   },
   {
     "name": "authoritarianism",
@@ -176,14 +188,6 @@
     "count": 42
   },
   {
-    "name": "congressional-oversight",
-    "count": 41
-  },
-  {
-    "name": "corporate-capture",
-    "count": 41
-  },
-  {
     "name": "pay-to-play",
     "count": 41
   },
@@ -194,10 +198,6 @@
   {
     "name": "saudi-arabia",
     "count": 40
-  },
-  {
-    "name": "labor-suppression",
-    "count": 39
   },
   {
     "name": "civil-rights",
@@ -252,6 +252,14 @@
     "count": 35
   },
   {
+    "name": "financial-regulation",
+    "count": 34
+  },
+  {
+    "name": "structural-adjustment",
+    "count": 34
+  },
+  {
     "name": "corporate-lobbying",
     "count": 34
   },
@@ -268,10 +276,6 @@
     "count": 34
   },
   {
-    "name": "financial-regulation",
-    "count": 33
-  },
-  {
     "name": "voting-rights",
     "count": 33
   },
@@ -284,15 +288,19 @@
     "count": 33
   },
   {
-    "name": "structural-adjustment",
-    "count": 33
-  },
-  {
     "name": "media-control",
     "count": 33
   },
   {
     "name": "monopoly",
+    "count": 32
+  },
+  {
+    "name": "media-consolidation",
+    "count": 32
+  },
+  {
+    "name": "civil-liberties",
     "count": 32
   },
   {
@@ -324,11 +332,7 @@
     "count": 32
   },
   {
-    "name": "media-consolidation",
-    "count": 31
-  },
-  {
-    "name": "civil-liberties",
+    "name": "financial-capture",
     "count": 31
   },
   {
@@ -352,12 +356,12 @@
     "count": 30
   },
   {
-    "name": "financial-capture",
+    "name": "consulting-scandal",
     "count": 30
   },
   {
-    "name": "consulting-scandal",
-    "count": 30
+    "name": "tax-policy",
+    "count": 28
   },
   {
     "name": "state-capture",
@@ -386,10 +390,6 @@
   {
     "name": "ice",
     "count": 28
-  },
-  {
-    "name": "tax-policy",
-    "count": 27
   },
   {
     "name": "electoral-manipulation",
@@ -500,6 +500,10 @@
     "count": 23
   },
   {
+    "name": "accountability-crisis",
+    "count": 23
+  },
+  {
     "name": "defense-contractors",
     "count": 23
   },
@@ -528,6 +532,10 @@
     "count": 23
   },
   {
+    "name": "fbi",
+    "count": 22
+  },
+  {
     "name": "austerity",
     "count": 22
   },
@@ -541,10 +549,6 @@
   },
   {
     "name": "torture",
-    "count": 22
-  },
-  {
-    "name": "accountability-crisis",
     "count": 22
   },
   {
@@ -576,10 +580,6 @@
     "count": 21
   },
   {
-    "name": "fbi",
-    "count": 21
-  },
-  {
     "name": "ethics violations",
     "count": 21
   },
@@ -590,6 +590,18 @@
   {
     "name": "trump administration",
     "count": 21
+  },
+  {
+    "name": "regulatory-failure",
+    "count": 20
+  },
+  {
+    "name": "progressive-era",
+    "count": 20
+  },
+  {
+    "name": "federal-reserve",
+    "count": 20
   },
   {
     "name": "oracle",
@@ -620,15 +632,7 @@
     "count": 20
   },
   {
-    "name": "regulatory-failure",
-    "count": 19
-  },
-  {
     "name": "union-busting",
-    "count": 19
-  },
-  {
-    "name": "federal-reserve",
     "count": 19
   },
   {
@@ -669,6 +673,10 @@
   },
   {
     "name": "institutional-corruption",
+    "count": 18
+  },
+  {
+    "name": "surveillance-state",
     "count": 18
   },
   {
@@ -768,10 +776,6 @@
     "count": 17
   },
   {
-    "name": "surveillance-state",
-    "count": 17
-  },
-  {
     "name": "tariffs",
     "count": 17
   },
@@ -817,6 +821,14 @@
   },
   {
     "name": "regulatory-enforcement",
+    "count": 15
+  },
+  {
+    "name": "congressional-investigation",
+    "count": 15
+  },
+  {
+    "name": "corporate-impunity",
     "count": 15
   },
   {
@@ -908,7 +920,7 @@
     "count": 14
   },
   {
-    "name": "congressional-investigation",
+    "name": "intelligence-agencies",
     "count": 14
   },
   {
@@ -1004,15 +1016,11 @@
     "count": 13
   },
   {
-    "name": "progressive-era",
+    "name": "obstruction",
     "count": 13
   },
   {
     "name": "political-influence",
-    "count": 13
-  },
-  {
-    "name": "intelligence-agencies",
     "count": 13
   },
   {
@@ -1033,10 +1041,6 @@
   },
   {
     "name": "merger",
-    "count": 13
-  },
-  {
-    "name": "corporate-impunity",
     "count": 13
   },
   {
@@ -1085,6 +1089,10 @@
   },
   {
     "name": "economic-policy",
+    "count": 12
+  },
+  {
+    "name": "war-profiteering",
     "count": 12
   },
   {
@@ -1164,10 +1172,6 @@
     "count": 12
   },
   {
-    "name": "obstruction",
-    "count": 12
-  },
-  {
     "name": "jd-vance",
     "count": 12
   },
@@ -1202,6 +1206,14 @@
   {
     "name": "artificial-intelligence",
     "count": 12
+  },
+  {
+    "name": "institutional-accountability",
+    "count": 11
+  },
+  {
+    "name": "financial-deregulation",
+    "count": 11
   },
   {
     "name": "dog-whistle-politics",
@@ -1334,10 +1346,6 @@
   {
     "name": "rule-of-law-erosion",
     "count": 11
-  },
-  {
-    "name": "institutional-accountability",
-    "count": 10
   },
   {
     "name": "new-deal",
@@ -1516,6 +1524,10 @@
     "count": 9
   },
   {
+    "name": "executive-compensation",
+    "count": 9
+  },
+  {
     "name": "political-manipulation",
     "count": 9
   },
@@ -1525,10 +1537,6 @@
   },
   {
     "name": "corporate-strategy",
-    "count": 9
-  },
-  {
-    "name": "financial-deregulation",
     "count": 9
   },
   {
@@ -1680,7 +1688,15 @@
     "count": 8
   },
   {
+    "name": "justice-department",
+    "count": 8
+  },
+  {
     "name": "collective-bargaining",
+    "count": 8
+  },
+  {
+    "name": "military-industrial-complex",
     "count": 8
   },
   {
@@ -1745,10 +1761,6 @@
   },
   {
     "name": "in-q-tel",
-    "count": 8
-  },
-  {
-    "name": "executive-compensation",
     "count": 8
   },
   {
@@ -1916,11 +1928,19 @@
     "count": 7
   },
   {
+    "name": "executive-corruption",
+    "count": 7
+  },
+  {
     "name": "broadcasting",
     "count": 7
   },
   {
     "name": "banking-regulation",
+    "count": 7
+  },
+  {
+    "name": "defense-industry",
     "count": 7
   },
   {
@@ -1933,10 +1953,6 @@
   },
   {
     "name": "think-tanks",
-    "count": 7
-  },
-  {
-    "name": "military-industrial-complex",
     "count": 7
   },
   {
@@ -1992,10 +2008,6 @@
     "count": 7
   },
   {
-    "name": "justice-department",
-    "count": 7
-  },
-  {
     "name": "bailout",
     "count": 7
   },
@@ -2029,10 +2041,6 @@
   },
   {
     "name": "congressional-deception",
-    "count": 7
-  },
-  {
-    "name": "war-profiteering",
     "count": 7
   },
   {
@@ -2233,6 +2241,14 @@
   },
   {
     "name": "legislative-reform",
+    "count": 6
+  },
+  {
+    "name": "regulatory-reform",
+    "count": 6
+  },
+  {
+    "name": "free-speech",
     "count": 6
   },
   {
@@ -2636,7 +2652,15 @@
     "count": 5
   },
   {
+    "name": "banking-consolidation",
+    "count": 5
+  },
+  {
     "name": "presidential-power",
+    "count": 5
+  },
+  {
+    "name": "labor-organizing",
     "count": 5
   },
   {
@@ -3124,10 +3148,6 @@
     "count": 5
   },
   {
-    "name": "regulatory-reform",
-    "count": 5
-  },
-  {
     "name": "big-tech",
     "count": 5
   },
@@ -3260,7 +3280,23 @@
     "count": 4
   },
   {
+    "name": "wealth-concentration",
+    "count": 4
+  },
+  {
     "name": "tobacco-industry",
+    "count": 4
+  },
+  {
+    "name": "jp-morgan",
+    "count": 4
+  },
+  {
+    "name": "taxation",
+    "count": 4
+  },
+  {
+    "name": "deportations",
     "count": 4
   },
   {
@@ -3269,6 +3305,10 @@
   },
   {
     "name": "institutional-integrity",
+    "count": 4
+  },
+  {
+    "name": "higher-education",
     "count": 4
   },
   {
@@ -4056,10 +4096,6 @@
     "count": 4
   },
   {
-    "name": "free-speech",
-    "count": 4
-  },
-  {
     "name": "legal",
     "count": 4
   },
@@ -4148,15 +4184,19 @@
     "count": 3
   },
   {
-    "name": "banking-consolidation",
-    "count": 3
-  },
-  {
     "name": "rule-of-reason",
     "count": 3
   },
   {
-    "name": "executive-corruption",
+    "name": "world-war-i",
+    "count": 3
+  },
+  {
+    "name": "state-repression",
+    "count": 3
+  },
+  {
+    "name": "anti-union",
     "count": 3
   },
   {
@@ -4164,11 +4204,15 @@
     "count": 3
   },
   {
-    "name": "taxation",
+    "name": "ownership-limits",
     "count": 3
   },
   {
-    "name": "ownership-limits",
+    "name": "international-finance",
+    "count": 3
+  },
+  {
+    "name": "strikes",
     "count": 3
   },
   {
@@ -4688,10 +4732,6 @@
     "count": 3
   },
   {
-    "name": "higher-education",
-    "count": 3
-  },
-  {
     "name": "climate-policy",
     "count": 3
   },
@@ -5065,10 +5105,6 @@
   },
   {
     "name": "political-coordination",
-    "count": 3
-  },
-  {
-    "name": "deportations",
     "count": 3
   },
   {
@@ -5616,11 +5652,19 @@
     "count": 2
   },
   {
-    "name": "wealth-concentration",
+    "name": "enforcement-limitations",
     "count": 2
   },
   {
-    "name": "enforcement-limitations",
+    "name": "iww",
+    "count": 2
+  },
+  {
+    "name": "constitutional-amendment",
+    "count": 2
+  },
+  {
+    "name": "democratic-reform",
     "count": 2
   },
   {
@@ -5632,7 +5676,15 @@
     "count": 2
   },
   {
+    "name": "monopoly-power",
+    "count": 2
+  },
+  {
     "name": "communications-policy",
+    "count": 2
+  },
+  {
+    "name": "speculation",
     "count": 2
   },
   {
@@ -5673,6 +5725,22 @@
   },
   {
     "name": "media-concentration",
+    "count": 2
+  },
+  {
+    "name": "union-rights",
+    "count": 2
+  },
+  {
+    "name": "corporate-subsidies",
+    "count": 2
+  },
+  {
+    "name": "dollar-hegemony",
+    "count": 2
+  },
+  {
+    "name": "corporate-globalization",
     "count": 2
   },
   {
@@ -5801,10 +5869,6 @@
   },
   {
     "name": "oil-politics",
-    "count": 2
-  },
-  {
-    "name": "international-finance",
     "count": 2
   },
   {
@@ -6068,10 +6132,6 @@
     "count": 2
   },
   {
-    "name": "jp-morgan",
-    "count": 2
-  },
-  {
     "name": "deregulation-failure",
     "count": 2
   },
@@ -6241,10 +6301,6 @@
   },
   {
     "name": "perverse-incentives",
-    "count": 2
-  },
-  {
-    "name": "strikes",
     "count": 2
   },
   {
@@ -7892,10 +7948,6 @@
     "count": 2
   },
   {
-    "name": "labor-organizing",
-    "count": 2
-  },
-  {
     "name": "colonial-resistance",
     "count": 2
   },
@@ -9172,6 +9224,14 @@
     "count": 1
   },
   {
+    "name": "worker-safety",
+    "count": 1
+  },
+  {
+    "name": "immigrant-rights",
+    "count": 1
+  },
+  {
     "name": "dupont",
     "count": 1
   },
@@ -9180,11 +9240,27 @@
     "count": 1
   },
   {
+    "name": "economic-reform",
+    "count": 1
+  },
+  {
+    "name": "electoral-reform",
+    "count": 1
+  },
+  {
     "name": "rockefeller",
     "count": 1
   },
   {
     "name": "federal-trade-commission",
+    "count": 1
+  },
+  {
+    "name": "government-industry",
+    "count": 1
+  },
+  {
+    "name": "red-scare",
     "count": 1
   },
   {
@@ -9252,6 +9328,42 @@
     "count": 1
   },
   {
+    "name": "cost-plus-contracts",
+    "count": 1
+  },
+  {
+    "name": "corporate-government-fusion",
+    "count": 1
+  },
+  {
+    "name": "wartime-policy",
+    "count": 1
+  },
+  {
+    "name": "inspector-general-failure",
+    "count": 1
+  },
+  {
+    "name": "education-policy",
+    "count": 1
+  },
+  {
+    "name": "veterans-benefits",
+    "count": 1
+  },
+  {
+    "name": "housing-policy",
+    "count": 1
+  },
+  {
+    "name": "financial-institutions",
+    "count": 1
+  },
+  {
+    "name": "postwar-economy",
+    "count": 1
+  },
+  {
     "name": "mont-pelerin-society",
     "count": 1
   },
@@ -9265,6 +9377,10 @@
   },
   {
     "name": "congressional-action",
+    "count": 1
+  },
+  {
+    "name": "national-security-state",
     "count": 1
   },
   {
@@ -11256,10 +11372,6 @@
     "count": 1
   },
   {
-    "name": "corporate-globalization",
-    "count": 1
-  },
-  {
     "name": "constitutional-process",
     "count": 1
   },
@@ -13248,10 +13360,6 @@
     "count": 1
   },
   {
-    "name": "democratic-reform",
-    "count": 1
-  },
-  {
     "name": "gates-network",
     "count": 1
   },
@@ -15068,10 +15176,6 @@
     "count": 1
   },
   {
-    "name": "corporate-subsidies",
-    "count": 1
-  },
-  {
     "name": "favoritism",
     "count": 1
   },
@@ -16673,10 +16777,6 @@
   },
   {
     "name": "crypto-evolution",
-    "count": 1
-  },
-  {
-    "name": "dollar-hegemony",
     "count": 1
   },
   {
@@ -20924,10 +21024,6 @@
     "count": 1
   },
   {
-    "name": "defense-industry",
-    "count": 1
-  },
-  {
     "name": "vote-dilution",
     "count": 1
   },
@@ -21057,10 +21153,6 @@
   },
   {
     "name": "trump-russia-connection",
-    "count": 1
-  },
-  {
-    "name": "monopoly-power",
     "count": 1
   },
   {
