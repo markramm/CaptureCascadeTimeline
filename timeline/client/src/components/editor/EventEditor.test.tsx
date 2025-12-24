@@ -49,7 +49,31 @@ describe('EventEditor', () => {
             // Actually, let's just check console or specific error elements class 'error'
             const errors = document.querySelectorAll('.error');
             expect(errors.length).toBeGreaterThan(0);
-        });
+        }); // End waitFor
+    }); // End validates required fields
+
+    it('allows adding tags', async () => {
+        render(
+            <BrowserRouter>
+                <EventEditor />
+            </BrowserRouter>
+        );
+
+        // Find TagInput by placeholder "Add thematic tag..."
+        const tagInput = screen.getByPlaceholderText('Add thematic tag...');
+        fireEvent.change(tagInput, { target: { value: 'Corruption' } });
+        fireEvent.keyDown(tagInput, { key: 'Enter', code: 'Enter' });
+
+        // Check if tag appears
+        expect(screen.getByText('Corruption')).toBeInTheDocument();
     });
 
+    it('shows AI Verify button', () => {
+        render(
+            <BrowserRouter>
+                <EventEditor />
+            </BrowserRouter>
+        );
+        expect(screen.getByText('AI Verify')).toBeInTheDocument();
+    });
 });

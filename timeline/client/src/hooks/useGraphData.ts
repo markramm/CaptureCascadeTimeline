@@ -22,10 +22,13 @@ export function useGraphData(events: TimelineEvent[], settings: GraphSettings) {
         // 2. Optional: Compute expensive metrics
         // Only if requested by settings
         if (settings.showMetrics) {
+            const degreeMap = calculateDegreeCentrality(nodes, links);
+            const betweennessMap = calculateBetweennessCentrality(nodes, links);
+
             nodes.forEach(node => {
                 node.metrics = {
-                    degree: calculateDegreeCentrality(node, links),
-                    betweenness: calculateBetweennessCentrality(node, links)
+                    degree: degreeMap.get(node.id) || 0,
+                    betweenness: betweennessMap.get(node.id) || 0
                 };
             });
         }

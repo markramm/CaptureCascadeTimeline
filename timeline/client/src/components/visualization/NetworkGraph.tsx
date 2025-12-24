@@ -9,6 +9,7 @@ import { GraphControls } from './GraphControls';
 import type { GraphSettings, VisualizationProps } from '../../types/visualization';
 import { useResizeObserver } from '../../hooks/useResizeObserver';
 import { useGraphData } from '../../hooks/useGraphData';
+import { useValidations } from '../../hooks/useValidations';
 import { getIconPath } from '../../utils/graphIcons';
 import { computeGraphData } from '../../utils/graphLogic'; // Keep for export functionality
 import { MatrixView } from './MatrixView';
@@ -59,6 +60,7 @@ export function NetworkGraph({
     // Transform Data for Graph
     // Data Processing (Memoized by Hook)
     const { nodes: graphNodes, links: graphLinks } = useGraphData(events, settings);
+    const validationsMap = useValidations();
 
     // Transform Data for Graph (Clone for D3 mutation)
     const graphData = useMemo<{ nodes: GraphNode[]; links: GraphLink[] }>(() => {
@@ -170,8 +172,19 @@ export function NetworkGraph({
                     return baseSize;
                 })
                 .attr('fill', d => colorScale(d.group as string))
-                .attr('stroke', '#fff')
-                .attr('stroke-width', 1.5);
+                .attr('stroke', d => {
+                    const records = validationsMap.get(d.id);
+                    if (records && records.length > 0) {
+                        if (records.some((r: any) => r.confidence === 'rejected')) return '#ef4444'; // Red
+                        if (records.some((r: any) => r.confidence === 'high')) return '#10b981'; // Emerald
+                    }
+                    return '#fff';
+                })
+                .attr('stroke-width', d => {
+                    const records = validationsMap.get(d.id);
+                    if (records && records.some((r: any) => r.confidence === 'high')) return 3;
+                    return 1.5;
+                });
 
             // Icon
             node.append('path')
@@ -404,6 +417,12 @@ export function NetworkGraph({
                                 <div style={{ fontSize: '0.8em', color: '#aaa', marginTop: '8px', borderTop: '1px solid #444', paddingTop: '8px' }}>
                                     <div>Degree: {selectedNode.metrics.degree}</div>
                                     <div>Betweenness: {selectedNode.metrics.betweenness.toFixed(4)}</div>
+                                </div>
+                            )}
+                            {validationsMap.get(selectedNode.id) && (
+                                <div style={{ fontSize: '0.8em', color: '#10b981', marginTop: '4px', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                                    <span>✓ Verified</span>
+                                    <span style={{ color: '#94a3b8' }}>({validationsMap.get(selectedNode.id).length})</span>
                                 </div>
                             )}
                             <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>

@@ -14,7 +14,15 @@ vi.mock('dexie-react-hooks', () => ({
 
 // Mock useGraphData to return simple structure
 vi.mock('../../hooks/useGraphData', () => ({
-    useGraphData: () => ({ nodes: [], links: [] })
+    useGraphData: () => ({
+        nodes: [
+            { id: '1', label: 'Node 1', type: 'event', group: 'legislative', x: 100, y: 100 },
+            { id: '2', label: 'Node 2', type: 'event', group: 'executive', x: 200, y: 200 }
+        ],
+        links: [
+            { source: '1', target: '2', strength: 1 }
+        ]
+    })
 }));
 
 // Mock d3 if necessary (though we want to test d3 integration usually, 
@@ -28,6 +36,10 @@ describe('NetworkGraph Component', () => {
         expect(container.querySelector('.network-graph-container')).toBeInTheDocument();
         // Should have SVG
         expect(container.querySelector('svg')).toBeInTheDocument();
+        // Should have nodes (circles)
+        expect(container.querySelectorAll('circle').length).toBeGreaterThan(0);
+        // Should have links (lines)
+        expect(container.querySelectorAll('line').length).toBeGreaterThan(0);
     });
 
     it('displays title when provided', () => {

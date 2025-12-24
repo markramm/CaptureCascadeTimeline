@@ -1,10 +1,11 @@
-
 import { useState, useMemo } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
 import { useNavigate } from 'react-router-dom';
 import { ChevronLeft, ChevronRight, Search, ExternalLink, Edit, Plus } from 'lucide-react';
 import type { TimelineEvent } from '../../schemas/events';
+import { useValidations } from '../../hooks/useValidations';
+import { ValidationBadge } from '../common/ValidationBadge';
 import './TimelineTable.css';
 
 const EMPTY_ARRAY: TimelineEvent[] = [];
@@ -15,6 +16,7 @@ export function TimelineTable() {
     const [search, setSearch] = useState('');
     const [sortField, setSortField] = useState<keyof TimelineEvent>('date');
     const [sortDir, setSortDir] = useState<'asc' | 'desc'>('desc');
+    const validationsMap = useValidations();
 
     const ITEMS_PER_PAGE = 20;
 
@@ -86,6 +88,7 @@ export function TimelineTable() {
                     <thead>
                         <tr>
                             <th onClick={() => handleSort('date')} className="sortable">Date {sortField === 'date' && (sortDir === 'asc' ? '↑' : '↓')}</th>
+                            <th>Status</th>
                             <th onClick={() => handleSort('title')} className="sortable">Title {sortField === 'title' && (sortDir === 'asc' ? '↑' : '↓')}</th>
                             <th>Type</th>
                             <th>Tags</th>
@@ -96,6 +99,9 @@ export function TimelineTable() {
                         {paginatedEvents.map(event => (
                             <tr key={event.id}>
                                 <td className="col-date">{event.date}</td>
+                                <td>
+                                    <ValidationBadge validations={validationsMap.get(event.id)} compact />
+                                </td>
                                 <td className="col-title">
                                     <div className="event-title">{event.title}</div>
                                     <div className="event-summary">{event.summary.substring(0, 100)}...</div>
@@ -121,7 +127,7 @@ export function TimelineTable() {
                         ))}
                         {paginatedEvents.length === 0 && (
                             <tr>
-                                <td colSpan={5} style={{ textAlign: 'center', padding: '2rem' }}>
+                                <td colSpan={6} style={{ textAlign: 'center', padding: '2rem' }}>
                                     No events found.
                                 </td>
                             </tr>

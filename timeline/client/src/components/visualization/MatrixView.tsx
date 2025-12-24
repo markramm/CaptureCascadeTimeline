@@ -1,4 +1,5 @@
 import * as d3 from 'd3';
+import { useEffect, useRef, useMemo } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { db } from '../../db';
 import type { VisualizationProps } from '../../types/visualization';

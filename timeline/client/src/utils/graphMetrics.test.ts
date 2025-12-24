@@ -9,10 +9,10 @@ describe('Graph Metrics Utility', () => {
     //     |
     //     4
     const nodes: GraphNode[] = [
-        { id: '1', type: 'event', label: '1' },
-        { id: '2', type: 'event', label: '2' },
-        { id: '3', type: 'event', label: '3' },
-        { id: '4', type: 'event', label: '4' }
+        { id: '1', type: 'event', label: '1', x: 0, y: 0, vx: 0, vy: 0 },
+        { id: '2', type: 'event', label: '2', x: 0, y: 0, vx: 0, vy: 0 },
+        { id: '3', type: 'event', label: '3', x: 0, y: 0, vx: 0, vy: 0 },
+        { id: '4', type: 'event', label: '4', x: 0, y: 0, vx: 0, vy: 0 }
     ];
 
     const links: GraphLink[] = [
@@ -45,8 +45,8 @@ describe('Graph Metrics Utility', () => {
 
     it('handles disconnected graph', () => {
         const disconnectedNodes: GraphNode[] = [
-            { id: 'A', type: 'event', label: 'A' },
-            { id: 'B', type: 'event', label: 'B' }
+            { id: 'A', type: 'event', label: 'A', x: 0, y: 0, vx: 0, vy: 0 },
+            { id: 'B', type: 'event', label: 'B', x: 0, y: 0, vx: 0, vy: 0 }
         ];
         const disconnectedLinks: GraphLink[] = [];
 
