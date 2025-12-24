@@ -1,0 +1,80 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "validator_id": {
+            "type": "string",
+            "description": "ID of the validator who performed this check"
+        },
+        "validations": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "event_id": {
+                        "type": "string"
+                    },
+                    "timestamp": {
+                        "type": "string",
+                        "format": "date-time"
+                    },
+                    "type": {
+                        "type": "string",
+                        "enum": [
+                            "source",
+                            "factual",
+                            "cross-reference",
+                            "comprehensive"
+                        ]
+                    },
+                    "confidence": {
+                        "type": "string",
+                        "enum": [
+                            "high",
+                            "medium",
+                            "low",
+                            "rejected"
+                        ]
+                    },
+                    "notes": {
+                        "type": "string"
+                    },
+                    "sources_checked": {
+                        "type": "array",
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "url": {
+                                    "type": "string",
+                                    "format": "uri"
+                                },
+                                "status": {
+                                    "type": "string",
+                                    "enum": [
+                                        "verified",
+                                        "dead",
+                                        "unreachable"
+                                    ]
+                                }
+                            },
+                            "required": [
+                                "url",
+                                "status"
+                            ]
+                        }
+                    }
+                },
+                "required": [
+                    "event_id",
+                    "timestamp",
+                    "type",
+                    "confidence"
+                ]
+            }
+        }
+    },
+    "required": [
+        "validator_id",
+        "validations"
+    ]
+}

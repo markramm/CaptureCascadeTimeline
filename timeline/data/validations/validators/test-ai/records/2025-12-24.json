@@ -1,0 +1,13 @@
+{
+  "validator_id": "test-ai",
+  "validations": [
+    {
+      "event_id": "hernandez_pardon_event",
+      "timestamp": "2025-12-24T08:24:54.336427+00:00",
+      "type": "source",
+      "confidence": "high",
+      "notes": "Verified by Test Bot",
+      "sources_checked": []
+    }
+  ]
+}

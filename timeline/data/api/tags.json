@@ -1,19 +1,19 @@
 [
   {
     "name": "regulatory-capture",
-    "count": 434
+    "count": 522
   },
   {
     "name": "institutional-capture",
-    "count": 244
+    "count": 259
   },
   {
     "name": "corruption",
-    "count": 237
+    "count": 252
   },
   {
     "name": "kleptocracy",
-    "count": 135
+    "count": 136
   },
   {
     "name": "government-contracts",
@@ -21,11 +21,11 @@
   },
   {
     "name": "trump-administration",
-    "count": 124
+    "count": 126
   },
   {
     "name": "crypto",
-    "count": 112
+    "count": 118
   },
   {
     "name": "surveillance",
@@ -40,64 +40,80 @@
     "count": 88
   },
   {
+    "name": "systematic-corruption",
+    "count": 87
+  },
+  {
+    "name": "antitrust",
+    "count": 83
+  },
+  {
+    "name": "conflict-of-interest",
+    "count": 82
+  },
+  {
+    "name": "healthcare",
+    "count": 81
+  },
+  {
     "name": "conflicts-of-interest",
     "count": 81
   },
   {
-    "name": "conflict-of-interest",
-    "count": 80
-  },
-  {
     "name": "supreme-court",
-    "count": 70
+    "count": 75
   },
   {
     "name": "campaign-finance",
-    "count": 68
+    "count": 70
   },
   {
-    "name": "systematic-corruption",
+    "name": "revolving-door",
     "count": 65
+  },
+  {
+    "name": "lobbying",
+    "count": 63
   },
   {
     "name": "executive-power",
     "count": 63
   },
   {
-    "name": "revolving-door",
-    "count": 59
+    "name": "accountability",
+    "count": 61
   },
   {
     "name": "obstruction-of-justice",
     "count": 59
   },
   {
-    "name": "accountability",
-    "count": 58
-  },
-  {
-    "name": "lobbying",
-    "count": 57
+    "name": "fraud",
+    "count": 56
   },
   {
     "name": "conservative-movement",
     "count": 54
   },
   {
+    "name": "judicial-capture",
+    "count": 53
+  },
+  {
     "name": "corporate-influence",
     "count": 51
   },
   {
-    "name": "judicial-capture",
+    "name": "money-laundering",
     "count": 51
   },
   {
     "name": "doj",
-    "count": 48
+    "count": 51
   },
   {
-    "name": "money-laundering",
-    "count": 47
+    "name": "deregulation",
+    "count": 50
   },
   {
     "name": "national-security",
@@ -112,16 +128,16 @@
     "count": 45
   },
   {
+    "name": "corporate-fraud",
+    "count": 44
+  },
+  {
     "name": "abuse-of-power",
     "count": 44
   },
   {
     "name": "authoritarianism",
     "count": 42
-  },
-  {
-    "name": "deregulation",
-    "count": 41
   },
   {
     "name": "cia",
@@ -136,10 +152,6 @@
     "count": 41
   },
   {
-    "name": "corporate-fraud",
-    "count": 39
-  },
-  {
     "name": "constitutional-violation",
     "count": 38
   },
@@ -152,14 +164,6 @@
     "count": 38
   },
   {
-    "name": "fraud",
-    "count": 37
-  },
-  {
-    "name": "antitrust",
-    "count": 37
-  },
-  {
     "name": "rule-of-law",
     "count": 36
   },
@@ -170,6 +174,18 @@
   {
     "name": "justice-weaponization",
     "count": 36
+  },
+  {
+    "name": "corporate-power",
+    "count": 35
+  },
+  {
+    "name": "public-health",
+    "count": 35
+  },
+  {
+    "name": "congressional-oversight",
+    "count": 35
   },
   {
     "name": "iraq-war",
@@ -186,10 +202,6 @@
   {
     "name": "voter-suppression",
     "count": 35
-  },
-  {
-    "name": "public-health",
-    "count": 34
   },
   {
     "name": "pay-to-play",
@@ -216,14 +228,6 @@
     "count": 33
   },
   {
-    "name": "congressional-oversight",
-    "count": 33
-  },
-  {
-    "name": "healthcare",
-    "count": 33
-  },
-  {
     "name": "russia",
     "count": 33
   },
@@ -240,15 +244,31 @@
     "count": 32
   },
   {
+    "name": "pharmaceutical-industry",
+    "count": 32
+  },
+  {
+    "name": "telecommunications",
+    "count": 32
+  },
+  {
     "name": "media-control",
     "count": 32
   },
   {
-    "name": "model-legislation",
+    "name": "congressional-corruption",
+    "count": 32
+  },
+  {
+    "name": "labor-suppression",
     "count": 31
   },
   {
-    "name": "telecommunications",
+    "name": "corporate-lobbying",
+    "count": 31
+  },
+  {
+    "name": "model-legislation",
     "count": 31
   },
   {
@@ -256,16 +276,8 @@
     "count": 31
   },
   {
-    "name": "congressional-corruption",
-    "count": 31
-  },
-  {
     "name": "White Nationalism",
     "count": 31
-  },
-  {
-    "name": "labor-suppression",
-    "count": 30
   },
   {
     "name": "saudi-arabia",
@@ -276,12 +288,16 @@
     "count": 30
   },
   {
-    "name": "doj-weaponization",
-    "count": 29
+    "name": "ftc",
+    "count": 30
   },
   {
-    "name": "corporate-lobbying",
-    "count": 28
+    "name": "self-dealing",
+    "count": 30
+  },
+  {
+    "name": "doj-weaponization",
+    "count": 29
   },
   {
     "name": "ALEC",
@@ -292,7 +308,19 @@
     "count": 28
   },
   {
+    "name": "media-consolidation",
+    "count": 28
+  },
+  {
+    "name": "whistleblower",
+    "count": 28
+  },
+  {
     "name": "electoral-manipulation",
+    "count": 27
+  },
+  {
+    "name": "cover-up",
     "count": 27
   },
   {
@@ -304,6 +332,10 @@
     "count": 27
   },
   {
+    "name": "financial-crisis",
+    "count": 26
+  },
+  {
     "name": "trump",
     "count": 26
   },
@@ -313,6 +345,10 @@
   },
   {
     "name": "financial-capture",
+    "count": 26
+  },
+  {
+    "name": "propaganda",
     "count": 26
   },
   {
@@ -336,12 +372,12 @@
     "count": 25
   },
   {
-    "name": "self-dealing",
+    "name": "courts",
     "count": 25
   },
   {
-    "name": "courts",
-    "count": 25
+    "name": "financial-crime",
+    "count": 24
   },
   {
     "name": "fossil-fuels",
@@ -349,6 +385,10 @@
   },
   {
     "name": "CNP",
+    "count": 24
+  },
+  {
+    "name": "consumer-protection",
     "count": 24
   },
   {
@@ -368,11 +408,15 @@
     "count": 23
   },
   {
+    "name": "fcc",
+    "count": 23
+  },
+  {
     "name": "Corruption",
     "count": 23
   },
   {
-    "name": "whistleblower",
+    "name": "student-debt",
     "count": 23
   },
   {
@@ -380,11 +424,11 @@
     "count": 23
   },
   {
-    "name": "coordination",
+    "name": "insider-trading",
     "count": 22
   },
   {
-    "name": "fcc",
+    "name": "coordination",
     "count": 22
   },
   {
@@ -396,11 +440,11 @@
     "count": 22
   },
   {
-    "name": "torture",
+    "name": "defense-contractors",
     "count": 22
   },
   {
-    "name": "propaganda",
+    "name": "torture",
     "count": 22
   },
   {
@@ -424,7 +468,7 @@
     "count": 21
   },
   {
-    "name": "insider-trading",
+    "name": "corporate-crime",
     "count": 21
   },
   {
@@ -436,11 +480,11 @@
     "count": 21
   },
   {
-    "name": "Ethics Violations",
+    "name": "accountability-crisis",
     "count": 21
   },
   {
-    "name": "defense-contractors",
+    "name": "Ethics Violations",
     "count": 21
   },
   {
@@ -452,7 +496,7 @@
     "count": 21
   },
   {
-    "name": "corporate-power",
+    "name": "monopoly",
     "count": 20
   },
   {
@@ -468,7 +512,7 @@
     "count": 20
   },
   {
-    "name": "cover-up",
+    "name": "private-equity",
     "count": 20
   },
   {
@@ -484,15 +528,7 @@
     "count": 19
   },
   {
-    "name": "media-consolidation",
-    "count": 19
-  },
-  {
-    "name": "corporate-crime",
-    "count": 19
-  },
-  {
-    "name": "pharmaceutical-industry",
+    "name": "federal-reserve",
     "count": 19
   },
   {
@@ -501,10 +537,6 @@
   },
   {
     "name": "mass-surveillance",
-    "count": 19
-  },
-  {
-    "name": "student-debt",
     "count": 19
   },
   {
@@ -526,14 +558,6 @@
   {
     "name": "epstein-files",
     "count": 19
-  },
-  {
-    "name": "federal-reserve",
-    "count": 18
-  },
-  {
-    "name": "financial-crisis",
-    "count": 18
   },
   {
     "name": "corporate-corruption",
@@ -596,6 +620,22 @@
     "count": 17
   },
   {
+    "name": "tax-avoidance",
+    "count": 17
+  },
+  {
+    "name": "regulatory-failure",
+    "count": 17
+  },
+  {
+    "name": "investigation",
+    "count": 17
+  },
+  {
+    "name": "market-concentration",
+    "count": 17
+  },
+  {
     "name": "financial-corruption",
     "count": 17
   },
@@ -644,27 +684,11 @@
     "count": 16
   },
   {
-    "name": "financial-crime",
-    "count": 16
-  },
-  {
-    "name": "tax-avoidance",
-    "count": 16
-  },
-  {
     "name": "enron",
     "count": 16
   },
   {
     "name": "quid-pro-quo",
-    "count": 16
-  },
-  {
-    "name": "investigation",
-    "count": 16
-  },
-  {
-    "name": "consumer-protection",
     "count": 16
   },
   {
@@ -692,12 +716,20 @@
     "count": 16
   },
   {
+    "name": "emergency-powers",
+    "count": 16
+  },
+  {
     "name": "elon-musk",
     "count": 16
   },
   {
     "name": "weaponization-of-government",
     "count": 16
+  },
+  {
+    "name": "executive-order",
+    "count": 15
   },
   {
     "name": "wealth-extraction",
@@ -708,7 +740,23 @@
     "count": 15
   },
   {
-    "name": "regulatory-failure",
+    "name": "sec",
+    "count": 15
+  },
+  {
+    "name": "criminal-justice",
+    "count": 15
+  },
+  {
+    "name": "trade-policy",
+    "count": 15
+  },
+  {
+    "name": "accountability-failure",
+    "count": 15
+  },
+  {
+    "name": "securities-fraud",
     "count": 15
   },
   {
@@ -724,6 +772,14 @@
     "count": 15
   },
   {
+    "name": "bribery",
+    "count": 15
+  },
+  {
+    "name": "market-manipulation",
+    "count": 15
+  },
+  {
     "name": "wells-fargo",
     "count": 15
   },
@@ -732,15 +788,11 @@
     "count": 15
   },
   {
-    "name": "emergency-powers",
-    "count": 15
-  },
-  {
     "name": "tech-regulation",
     "count": 15
   },
   {
-    "name": "executive-order",
+    "name": "chicago-school",
     "count": 14
   },
   {
@@ -764,14 +816,6 @@
     "count": 14
   },
   {
-    "name": "criminal-justice",
-    "count": 14
-  },
-  {
-    "name": "trade-policy",
-    "count": 14
-  },
-  {
     "name": "monopolization",
     "count": 14
   },
@@ -780,11 +824,11 @@
     "count": 14
   },
   {
-    "name": "accountability-failure",
+    "name": "intelligence-manipulation",
     "count": 14
   },
   {
-    "name": "intelligence-manipulation",
+    "name": "investigative-journalism",
     "count": 14
   },
   {
@@ -804,10 +848,6 @@
     "count": 14
   },
   {
-    "name": "market-manipulation",
-    "count": 14
-  },
-  {
     "name": "edward-snowden",
     "count": 14
   },
@@ -822,6 +862,10 @@
   {
     "name": "judiciary",
     "count": 14
+  },
+  {
+    "name": "political-influence",
+    "count": 13
   },
   {
     "name": "privatization",
@@ -840,7 +884,19 @@
     "count": 13
   },
   {
+    "name": "bankruptcy",
+    "count": 13
+  },
+  {
     "name": "imf-intervention",
+    "count": 13
+  },
+  {
+    "name": "merger",
+    "count": 13
+  },
+  {
+    "name": "systemic-risk",
     "count": 13
   },
   {
@@ -869,18 +925,6 @@
   },
   {
     "name": "private-military",
-    "count": 13
-  },
-  {
-    "name": "accountability-crisis",
-    "count": 13
-  },
-  {
-    "name": "bribery",
-    "count": 13
-  },
-  {
-    "name": "ftc",
     "count": 13
   },
   {
@@ -940,19 +984,15 @@
     "count": 12
   },
   {
+    "name": "conservative-media",
+    "count": 12
+  },
+  {
     "name": "Racism",
     "count": 12
   },
   {
     "name": "congressional-investigation",
-    "count": 12
-  },
-  {
-    "name": "political-influence",
-    "count": 12
-  },
-  {
-    "name": "monopoly",
     "count": 12
   },
   {
@@ -964,11 +1004,11 @@
     "count": 12
   },
   {
-    "name": "Koch-network",
+    "name": "corporate-consolidation",
     "count": 12
   },
   {
-    "name": "private-equity",
+    "name": "Koch-network",
     "count": 12
   },
   {
@@ -980,7 +1020,15 @@
     "count": 12
   },
   {
+    "name": "democracy",
+    "count": 12
+  },
+  {
     "name": "Pentagon Contracts",
+    "count": 12
+  },
+  {
+    "name": "racial-discrimination",
     "count": 12
   },
   {
@@ -993,14 +1041,6 @@
   },
   {
     "name": "republican-party",
-    "count": 12
-  },
-  {
-    "name": "securities-fraud",
-    "count": 12
-  },
-  {
-    "name": "investigative-journalism",
     "count": 12
   },
   {
@@ -1060,6 +1100,10 @@
     "count": 12
   },
   {
+    "name": "artificial-intelligence",
+    "count": 12
+  },
+  {
     "name": "rule-of-law-erosion",
     "count": 12
   },
@@ -1069,6 +1113,10 @@
   },
   {
     "name": "intelligence-privatization",
+    "count": 11
+  },
+  {
+    "name": "neoliberalism",
     "count": 11
   },
   {
@@ -1084,10 +1132,6 @@
     "count": 11
   },
   {
-    "name": "sec",
-    "count": 11
-  },
-  {
     "name": "mass-incarceration",
     "count": 11
   },
@@ -1100,7 +1144,19 @@
     "count": 11
   },
   {
-    "name": "racial-discrimination",
+    "name": "education",
+    "count": 11
+  },
+  {
+    "name": "consolidation",
+    "count": 11
+  },
+  {
+    "name": "pentagon",
+    "count": 11
+  },
+  {
+    "name": "intellectual-property",
     "count": 11
   },
   {
@@ -1188,10 +1244,6 @@
     "count": 11
   },
   {
-    "name": "artificial-intelligence",
-    "count": 11
-  },
-  {
     "name": "judicial-review",
     "count": 11
   },
@@ -1200,7 +1252,15 @@
     "count": 11
   },
   {
+    "name": "labor-rights",
+    "count": 10
+  },
+  {
     "name": "organizational-profile",
+    "count": 10
+  },
+  {
+    "name": "reagan-administration",
     "count": 10
   },
   {
@@ -1208,11 +1268,11 @@
     "count": 10
   },
   {
-    "name": "environmental-deregulation",
+    "name": "censorship",
     "count": 10
   },
   {
-    "name": "corporate-consolidation",
+    "name": "environmental-deregulation",
     "count": 10
   },
   {
@@ -1221,6 +1281,10 @@
   },
   {
     "name": "fda",
+    "count": 10
+  },
+  {
+    "name": "too-big-to-fail",
     "count": 10
   },
   {
@@ -1240,6 +1304,10 @@
     "count": 10
   },
   {
+    "name": "drug-pricing",
+    "count": 10
+  },
+  {
     "name": "media-coordination",
     "count": 10
   },
@@ -1256,6 +1324,10 @@
     "count": 10
   },
   {
+    "name": "insurance-fraud",
+    "count": 10
+  },
+  {
     "name": "drones",
     "count": 10
   },
@@ -1264,15 +1336,19 @@
     "count": 10
   },
   {
+    "name": "tax-evasion",
+    "count": 10
+  },
+  {
+    "name": "for-profit-colleges",
+    "count": 10
+  },
+  {
     "name": "Surveillance",
     "count": 10
   },
   {
     "name": "privacy-violation",
-    "count": 10
-  },
-  {
-    "name": "pentagon",
     "count": 10
   },
   {
@@ -1340,19 +1416,7 @@
     "count": 9
   },
   {
-    "name": "conservative-media",
-    "count": 9
-  },
-  {
-    "name": "chicago-school",
-    "count": 9
-  },
-  {
     "name": "corporate-strategy",
-    "count": 9
-  },
-  {
-    "name": "censorship",
     "count": 9
   },
   {
@@ -1364,7 +1428,23 @@
     "count": 9
   },
   {
+    "name": "derivatives",
+    "count": 9
+  },
+  {
     "name": "whistleblowing",
+    "count": 9
+  },
+  {
+    "name": "sexual-assault",
+    "count": 9
+  },
+  {
+    "name": "institutional-abuse",
+    "count": 9
+  },
+  {
+    "name": "gymnastics",
     "count": 9
   },
   {
@@ -1392,15 +1472,19 @@
     "count": 9
   },
   {
+    "name": "predatory-lending",
+    "count": 9
+  },
+  {
     "name": "congress",
     "count": 9
   },
   {
-    "name": "due-process",
+    "name": "patent-abuse",
     "count": 9
   },
   {
-    "name": "tax-evasion",
+    "name": "due-process",
     "count": 9
   },
   {
@@ -1508,10 +1592,6 @@
     "count": 9
   },
   {
-    "name": "labor-rights",
-    "count": 8
-  },
-  {
     "name": "collective-bargaining",
     "count": 8
   },
@@ -1536,11 +1616,11 @@
     "count": 8
   },
   {
-    "name": "reagan-administration",
+    "name": "reaganomics",
     "count": 8
   },
   {
-    "name": "reaganomics",
+    "name": "ponzi-scheme",
     "count": 8
   },
   {
@@ -1553,6 +1633,14 @@
   },
   {
     "name": "journalism",
+    "count": 8
+  },
+  {
+    "name": "tech-monopoly",
+    "count": 8
+  },
+  {
+    "name": "executive-compensation",
     "count": 8
   },
   {
@@ -1573,6 +1661,10 @@
   },
   {
     "name": "undisclosed-gifts",
+    "count": 8
+  },
+  {
+    "name": "congressional-testimony",
     "count": 8
   },
   {
@@ -1617,6 +1709,10 @@
   },
   {
     "name": "Florida",
+    "count": 8
+  },
+  {
+    "name": "meta",
     "count": 8
   },
   {
@@ -1716,6 +1812,10 @@
     "count": 8
   },
   {
+    "name": "merger-enforcement",
+    "count": 7
+  },
+  {
     "name": "intelligence-operations",
     "count": 7
   },
@@ -1732,6 +1832,10 @@
     "count": 7
   },
   {
+    "name": "banking",
+    "count": 7
+  },
+  {
     "name": "religious-right",
     "count": 7
   },
@@ -1744,6 +1848,10 @@
     "count": 7
   },
   {
+    "name": "enforcement-failure",
+    "count": 7
+  },
+  {
     "name": "oil-industry",
     "count": 7
   },
@@ -1753,6 +1861,10 @@
   },
   {
     "name": "junk-bonds",
+    "count": 7
+  },
+  {
+    "name": "leveraged-buyout",
     "count": 7
   },
   {
@@ -1772,15 +1884,15 @@
     "count": 7
   },
   {
+    "name": "bailout",
+    "count": 7
+  },
+  {
     "name": "trump-connections",
     "count": 7
   },
   {
-    "name": "bankruptcy",
-    "count": 7
-  },
-  {
-    "name": "derivatives",
+    "name": "institutional-failure",
     "count": 7
   },
   {
@@ -1808,6 +1920,10 @@
     "count": 7
   },
   {
+    "name": "inspector-general",
+    "count": 7
+  },
+  {
     "name": "criminal-prosecution",
     "count": 7
   },
@@ -1820,7 +1936,7 @@
     "count": 7
   },
   {
-    "name": "congressional-testimony",
+    "name": "hospital",
     "count": 7
   },
   {
@@ -1852,14 +1968,6 @@
     "count": 7
   },
   {
-    "name": "for-profit-colleges",
-    "count": 7
-  },
-  {
-    "name": "meta",
-    "count": 7
-  },
-  {
     "name": "aws",
     "count": 7
   },
@@ -1881,6 +1989,10 @@
   },
   {
     "name": "apple",
+    "count": 7
+  },
+  {
+    "name": "patient-harm",
     "count": 7
   },
   {
@@ -1916,6 +2028,18 @@
     "count": 7
   },
   {
+    "name": "pbm",
+    "count": 7
+  },
+  {
+    "name": "pharmacy",
+    "count": 7
+  },
+  {
+    "name": "institutional-accountability",
+    "count": 7
+  },
+  {
     "name": "posse-comitatus",
     "count": 7
   },
@@ -1945,6 +2069,10 @@
   },
   {
     "name": "election-denial",
+    "count": 7
+  },
+  {
+    "name": "biden-administration",
     "count": 7
   },
   {
@@ -1996,6 +2124,10 @@
     "count": 7
   },
   {
+    "name": "regulatory-enforcement",
+    "count": 6
+  },
+  {
     "name": "grassroots-mobilization",
     "count": 6
   },
@@ -2005,10 +2137,6 @@
   },
   {
     "name": "corporate-coordination",
-    "count": 6
-  },
-  {
-    "name": "banking",
     "count": 6
   },
   {
@@ -2044,6 +2172,10 @@
     "count": 6
   },
   {
+    "name": "regulatory-rollback",
+    "count": 6
+  },
+  {
     "name": "media",
     "count": 6
   },
@@ -2068,6 +2200,10 @@
     "count": 6
   },
   {
+    "name": "SEC",
+    "count": 6
+  },
+  {
     "name": "presidential-pardons",
     "count": 6
   },
@@ -2084,11 +2220,11 @@
     "count": 6
   },
   {
-    "name": "oligarchs",
+    "name": "oligopoly",
     "count": 6
   },
   {
-    "name": "inspector-general",
+    "name": "oligarchs",
     "count": 6
   },
   {
@@ -2124,7 +2260,15 @@
     "count": 6
   },
   {
+    "name": "patent-trolls",
+    "count": 6
+  },
+  {
     "name": "deferred-prosecution",
+    "count": 6
+  },
+  {
+    "name": "price-gouging",
     "count": 6
   },
   {
@@ -2180,6 +2324,10 @@
     "count": 6
   },
   {
+    "name": "sanctions-violations",
+    "count": 6
+  },
+  {
     "name": "Campaign Finance",
     "count": 6
   },
@@ -2200,11 +2348,19 @@
     "count": 6
   },
   {
+    "name": "senate-confirmation",
+    "count": 6
+  },
+  {
     "name": "special-counsel",
     "count": 6
   },
   {
     "name": "ALPR",
+    "count": 6
+  },
+  {
+    "name": "settlement",
     "count": 6
   },
   {
@@ -2240,7 +2396,19 @@
     "count": 6
   },
   {
+    "name": "sex-trafficking",
+    "count": 6
+  },
+  {
     "name": "Russ Vought",
+    "count": 6
+  },
+  {
+    "name": "epstein",
+    "count": 6
+  },
+  {
+    "name": "corporate-governance",
     "count": 6
   },
   {
@@ -2249,10 +2417,6 @@
   },
   {
     "name": "Postal Service",
-    "count": 6
-  },
-  {
-    "name": "tech-monopoly",
     "count": 6
   },
   {
@@ -2297,6 +2461,10 @@
   },
   {
     "name": "xai",
+    "count": 6
+  },
+  {
+    "name": "medicare-advantage",
     "count": 6
   },
   {
@@ -2428,6 +2596,10 @@
     "count": 5
   },
   {
+    "name": "elite-networks",
+    "count": 5
+  },
+  {
     "name": "legal-education",
     "count": 5
   },
@@ -2460,11 +2632,11 @@
     "count": 5
   },
   {
-    "name": "regulatory-rollback",
+    "name": "economic-inequality",
     "count": 5
   },
   {
-    "name": "economic-inequality",
+    "name": "debt-loading",
     "count": 5
   },
   {
@@ -2484,15 +2656,7 @@
     "count": 5
   },
   {
-    "name": "education",
-    "count": 5
-  },
-  {
     "name": "poverty",
-    "count": 5
-  },
-  {
-    "name": "democracy",
     "count": 5
   },
   {
@@ -2505,14 +2669,6 @@
   },
   {
     "name": "citigroup",
-    "count": 5
-  },
-  {
-    "name": "executive-compensation",
-    "count": 5
-  },
-  {
-    "name": "merger",
     "count": 5
   },
   {
@@ -2612,6 +2768,10 @@
     "count": 5
   },
   {
+    "name": "vertical-integration",
+    "count": 5
+  },
+  {
     "name": "financial-sector",
     "count": 5
   },
@@ -2692,6 +2852,10 @@
     "count": 5
   },
   {
+    "name": "dialysis",
+    "count": 5
+  },
+  {
     "name": "emergency-response-tech",
     "count": 5
   },
@@ -2700,11 +2864,11 @@
     "count": 5
   },
   {
-    "name": "monetization",
+    "name": "fbi-failure",
     "count": 5
   },
   {
-    "name": "sanctions-violations",
+    "name": "monetization",
     "count": 5
   },
   {
@@ -2713,6 +2877,10 @@
   },
   {
     "name": "memoir",
+    "count": 5
+  },
+  {
+    "name": "hhs",
     "count": 5
   },
   {
@@ -2740,11 +2908,11 @@
     "count": 5
   },
   {
-    "name": "senate-confirmation",
+    "name": "industry-influence",
     "count": 5
   },
   {
-    "name": "industry-influence",
+    "name": "sinclair-broadcasting",
     "count": 5
   },
   {
@@ -2788,10 +2956,6 @@
     "count": 5
   },
   {
-    "name": "sex-trafficking",
-    "count": 5
-  },
-  {
     "name": "instagram",
     "count": 5
   },
@@ -2801,6 +2965,10 @@
   },
   {
     "name": "DeJoy",
+    "count": 5
+  },
+  {
+    "name": "presidential-pardon",
     "count": 5
   },
   {
@@ -2824,7 +2992,19 @@
     "count": 5
   },
   {
+    "name": "big-tech",
+    "count": 5
+  },
+  {
+    "name": "stablecoin",
+    "count": 5
+  },
+  {
     "name": "legal-precedent",
+    "count": 5
+  },
+  {
+    "name": "crypto-fraud",
     "count": 5
   },
   {
@@ -2892,10 +3072,6 @@
     "count": 5
   },
   {
-    "name": "epstein",
-    "count": 5
-  },
-  {
     "name": "data-manipulation",
     "count": 5
   },
@@ -2932,6 +3108,10 @@
     "count": 4
   },
   {
+    "name": "competition",
+    "count": 4
+  },
+  {
     "name": "media-infrastructure",
     "count": 4
   },
@@ -2949,6 +3129,10 @@
   },
   {
     "name": "conservative-funding",
+    "count": 4
+  },
+  {
+    "name": "regulatory-framework",
     "count": 4
   },
   {
@@ -2972,6 +3156,14 @@
     "count": 4
   },
   {
+    "name": "consumer-welfare-standard",
+    "count": 4
+  },
+  {
+    "name": "banking-deregulation",
+    "count": 4
+  },
+  {
     "name": "NLRB",
     "count": 4
   },
@@ -2980,11 +3172,11 @@
     "count": 4
   },
   {
-    "name": "sec-investigation",
+    "name": "wealth-inequality",
     "count": 4
   },
   {
-    "name": "elite-networks",
+    "name": "sec-investigation",
     "count": 4
   },
   {
@@ -2997,10 +3189,6 @@
   },
   {
     "name": "corporate-raiders",
-    "count": 4
-  },
-  {
-    "name": "leveraged-buyout",
     "count": 4
   },
   {
@@ -3017,6 +3205,10 @@
   },
   {
     "name": "atlantic-city",
+    "count": 4
+  },
+  {
+    "name": "debt-crisis",
     "count": 4
   },
   {
@@ -3044,7 +3236,7 @@
     "count": 4
   },
   {
-    "name": "sexual-assault",
+    "name": "law-enforcement-failure",
     "count": 4
   },
   {
@@ -3068,6 +3260,10 @@
     "count": 4
   },
   {
+    "name": "rent-extraction",
+    "count": 4
+  },
+  {
     "name": "israel",
     "count": 4
   },
@@ -3080,7 +3276,15 @@
     "count": 4
   },
   {
+    "name": "shadow-banking",
+    "count": 4
+  },
+  {
     "name": "florida",
+    "count": 4
+  },
+  {
+    "name": "kickbacks",
     "count": 4
   },
   {
@@ -3089,10 +3293,6 @@
   },
   {
     "name": "accounting-fraud",
-    "count": 4
-  },
-  {
-    "name": "regulatory-enforcement",
     "count": 4
   },
   {
@@ -3125,6 +3325,10 @@
   },
   {
     "name": "energy",
+    "count": 4
+  },
+  {
+    "name": "medicare-fraud",
     "count": 4
   },
   {
@@ -3249,6 +3453,14 @@
   },
   {
     "name": "ohio",
+    "count": 4
+  },
+  {
+    "name": "FDA",
+    "count": 4
+  },
+  {
+    "name": "profiteering",
     "count": 4
   },
   {
@@ -3396,7 +3608,19 @@
     "count": 4
   },
   {
+    "name": "local-news-capture",
+    "count": 4
+  },
+  {
+    "name": "judicial-reform",
+    "count": 4
+  },
+  {
     "name": "voter-purge",
+    "count": 4
+  },
+  {
+    "name": "misuse-of-funds",
     "count": 4
   },
   {
@@ -3408,15 +3632,19 @@
     "count": 4
   },
   {
+    "name": "Trump-administration",
+    "count": 4
+  },
+  {
     "name": "political-favoritism",
     "count": 4
   },
   {
-    "name": "institutional-accountability",
+    "name": "racial-profiling",
     "count": 4
   },
   {
-    "name": "racial-profiling",
+    "name": "nonprofit-fraud",
     "count": 4
   },
   {
@@ -3512,10 +3740,6 @@
     "count": 4
   },
   {
-    "name": "presidential-pardon",
-    "count": 4
-  },
-  {
     "name": "Republican National Convention",
     "count": 4
   },
@@ -3549,6 +3773,14 @@
   },
   {
     "name": "bitcoin",
+    "count": 4
+  },
+  {
+    "name": "regulatory-reform",
+    "count": 4
+  },
+  {
+    "name": "lina-khan",
     "count": 4
   },
   {
@@ -3748,6 +3980,10 @@
     "count": 3
   },
   {
+    "name": "cold-war",
+    "count": 3
+  },
+  {
     "name": "blackmail",
     "count": 3
   },
@@ -3772,6 +4008,10 @@
     "count": 3
   },
   {
+    "name": "chamber-of-commerce",
+    "count": 3
+  },
+  {
     "name": "international-banking",
     "count": 3
   },
@@ -3781,10 +4021,6 @@
   },
   {
     "name": "state-level-politics",
-    "count": 3
-  },
-  {
-    "name": "neoliberalism",
     "count": 3
   },
   {
@@ -3808,15 +4044,11 @@
     "count": 3
   },
   {
-    "name": "regulatory-framework",
-    "count": 3
-  },
-  {
     "name": "intelligence-oversight",
     "count": 3
   },
   {
-    "name": "consumer-welfare-standard",
+    "name": "airline-industry",
     "count": 3
   },
   {
@@ -3836,15 +4068,15 @@
     "count": 3
   },
   {
-    "name": "enforcement-failure",
-    "count": 3
-  },
-  {
     "name": "trickle-down",
     "count": 3
   },
   {
     "name": "strike-breaking",
+    "count": 3
+  },
+  {
+    "name": "moral-hazard",
     "count": 3
   },
   {
@@ -3892,10 +4124,6 @@
     "count": 3
   },
   {
-    "name": "debt-loading",
-    "count": 3
-  },
-  {
     "name": "senate-ethics",
     "count": 3
   },
@@ -3908,19 +4136,11 @@
     "count": 3
   },
   {
-    "name": "bailout",
-    "count": 3
-  },
-  {
     "name": "glass-steagall-violation",
     "count": 3
   },
   {
     "name": "casino",
-    "count": 3
-  },
-  {
-    "name": "debt-crisis",
     "count": 3
   },
   {
@@ -3949,6 +4169,14 @@
   },
   {
     "name": "mentorship",
+    "count": 3
+  },
+  {
+    "name": "Bernie Madoff",
+    "count": 3
+  },
+  {
+    "name": "lobbying-influence",
     "count": 3
   },
   {
@@ -3996,11 +4224,7 @@
     "count": 3
   },
   {
-    "name": "systemic-risk",
-    "count": 3
-  },
-  {
-    "name": "market-concentration",
+    "name": "financial-crisis-precursor",
     "count": 3
   },
   {
@@ -4021,6 +4245,10 @@
   },
   {
     "name": "mass-death",
+    "count": 3
+  },
+  {
+    "name": "radio-monopoly",
     "count": 3
   },
   {
@@ -4112,10 +4340,6 @@
     "count": 3
   },
   {
-    "name": "institutional-failure",
-    "count": 3
-  },
-  {
     "name": "Fourth-Amendment",
     "count": 3
   },
@@ -4189,6 +4413,10 @@
   },
   {
     "name": "surveillance-expansion",
+    "count": 3
+  },
+  {
+    "name": "npe",
     "count": 3
   },
   {
@@ -4281,6 +4509,10 @@
   },
   {
     "name": "voter-id",
+    "count": 3
+  },
+  {
+    "name": "industry-lobbying",
     "count": 3
   },
   {
@@ -4420,6 +4652,10 @@
     "count": 3
   },
   {
+    "name": "must-run-segments",
+    "count": 3
+  },
+  {
     "name": "leadership-crisis",
     "count": 3
   },
@@ -4452,15 +4688,7 @@
     "count": 3
   },
   {
-    "name": "misuse-of-funds",
-    "count": 3
-  },
-  {
     "name": "cabinet-scandal",
-    "count": 3
-  },
-  {
-    "name": "settlement",
     "count": 3
   },
   {
@@ -4480,7 +4708,7 @@
     "count": 3
   },
   {
-    "name": "Trump-administration",
+    "name": "agriculture",
     "count": 3
   },
   {
@@ -4500,6 +4728,14 @@
     "count": 3
   },
   {
+    "name": "merger-review",
+    "count": 3
+  },
+  {
+    "name": "market-dominance",
+    "count": 3
+  },
+  {
     "name": "helsinki",
     "count": 3
   },
@@ -4509,6 +4745,10 @@
   },
   {
     "name": "Presidential Accountability",
+    "count": 3
+  },
+  {
+    "name": "California",
     "count": 3
   },
   {
@@ -4612,6 +4852,10 @@
     "count": 3
   },
   {
+    "name": "nursing-home",
+    "count": 3
+  },
+  {
     "name": "criminal-conspiracy",
     "count": 3
   },
@@ -4672,10 +4916,6 @@
     "count": 3
   },
   {
-    "name": "crypto-fraud",
-    "count": 3
-  },
-  {
     "name": "political-monetization",
     "count": 3
   },
@@ -4696,11 +4936,11 @@
     "count": 3
   },
   {
-    "name": "corporate-governance",
+    "name": "algorithms",
     "count": 3
   },
   {
-    "name": "algorithms",
+    "name": "lawsuit",
     "count": 3
   },
   {
@@ -4745,10 +4985,6 @@
   },
   {
     "name": "automation",
-    "count": 3
-  },
-  {
-    "name": "judicial-reform",
     "count": 3
   },
   {
@@ -5116,11 +5352,15 @@
     "count": 2
   },
   {
-    "name": "organized-crime",
+    "name": "price-discrimination",
     "count": 2
   },
   {
-    "name": "cold-war",
+    "name": "small-business",
+    "count": 2
+  },
+  {
+    "name": "organized-crime",
     "count": 2
   },
   {
@@ -5276,10 +5516,6 @@
     "count": 2
   },
   {
-    "name": "airline-industry",
-    "count": 2
-  },
-  {
     "name": "carter-administration",
     "count": 2
   },
@@ -5293,10 +5529,6 @@
   },
   {
     "name": "financial-networks",
-    "count": 2
-  },
-  {
-    "name": "banking-deregulation",
     "count": 2
   },
   {
@@ -5320,6 +5552,10 @@
     "count": 2
   },
   {
+    "name": "bipartisan-consensus",
+    "count": 2
+  },
+  {
     "name": "task-forces",
     "count": 2
   },
@@ -5332,7 +5568,7 @@
     "count": 2
   },
   {
-    "name": "wealth-inequality",
+    "name": "enforcement-collapse",
     "count": 2
   },
   {
@@ -5364,10 +5600,6 @@
     "count": 2
   },
   {
-    "name": "moral-hazard",
-    "count": 2
-  },
-  {
     "name": "central-america",
     "count": 2
   },
@@ -5377,6 +5609,10 @@
   },
   {
     "name": "federal-judiciary",
+    "count": 2
+  },
+  {
+    "name": "merger-guidelines",
     "count": 2
   },
   {
@@ -5444,6 +5680,10 @@
     "count": 2
   },
   {
+    "name": "meatpacking",
+    "count": 2
+  },
+  {
     "name": "Minnesota",
     "count": 2
   },
@@ -5469,6 +5709,10 @@
   },
   {
     "name": "intelligence-infrastructure",
+    "count": 2
+  },
+  {
+    "name": "talk-radio",
     "count": 2
   },
   {
@@ -5512,7 +5756,15 @@
     "count": 2
   },
   {
+    "name": "wage-suppression",
+    "count": 2
+  },
+  {
     "name": "whitewater",
+    "count": 2
+  },
+  {
+    "name": "insurance-industry",
     "count": 2
   },
   {
@@ -5560,6 +5812,14 @@
     "count": 2
   },
   {
+    "name": "Allen Stanford",
+    "count": 2
+  },
+  {
+    "name": "msu-failures",
+    "count": 2
+  },
+  {
     "name": "financial-liberalization",
     "count": 2
   },
@@ -5588,11 +5848,19 @@
     "count": 2
   },
   {
+    "name": "hedge-funds",
+    "count": 2
+  },
+  {
     "name": "banking-consolidation",
     "count": 2
   },
   {
-    "name": "too-big-to-fail",
+    "name": "copyright",
+    "count": 2
+  },
+  {
+    "name": "platform-power",
     "count": 2
   },
   {
@@ -5601,10 +5869,6 @@
   },
   {
     "name": "choctaw",
-    "count": 2
-  },
-  {
-    "name": "shadow-banking",
     "count": 2
   },
   {
@@ -5656,7 +5920,15 @@
     "count": 2
   },
   {
+    "name": "enron-loophole",
+    "count": 2
+  },
+  {
     "name": "lame-duck",
+    "count": 2
+  },
+  {
+    "name": "credit-default-swaps",
     "count": 2
   },
   {
@@ -5733,6 +6005,10 @@
   },
   {
     "name": "fisa-bypass",
+    "count": 2
+  },
+  {
+    "name": "microsoft",
     "count": 2
   },
   {
@@ -6072,11 +6348,23 @@
     "count": 2
   },
   {
+    "name": "terrorism-financing",
+    "count": 2
+  },
+  {
+    "name": "regulatory-gaps",
+    "count": 2
+  },
+  {
     "name": "nsa-whistleblowing",
     "count": 2
   },
   {
     "name": "pulitzer-prize",
+    "count": 2
+  },
+  {
+    "name": "roll-up-strategy",
     "count": 2
   },
   {
@@ -6172,10 +6460,6 @@
     "count": 2
   },
   {
-    "name": "vertical-integration",
-    "count": 2
-  },
-  {
     "name": "trafficking-network",
     "count": 2
   },
@@ -6205,6 +6489,14 @@
   },
   {
     "name": "banking-crisis",
+    "count": 2
+  },
+  {
+    "name": "mental-health",
+    "count": 2
+  },
+  {
+    "name": "airlines",
     "count": 2
   },
   {
@@ -6388,6 +6680,10 @@
     "count": 2
   },
   {
+    "name": "surprise-billing",
+    "count": 2
+  },
+  {
     "name": "legislative-action",
     "count": 2
   },
@@ -6436,15 +6732,11 @@
     "count": 2
   },
   {
-    "name": "price-gouging",
-    "count": 2
-  },
-  {
     "name": "publisher-exploitation",
     "count": 2
   },
   {
-    "name": "industry-lobbying",
+    "name": "prosecutorial-discretion",
     "count": 2
   },
   {
@@ -6524,6 +6816,10 @@
     "count": 2
   },
   {
+    "name": "forum-shopping",
+    "count": 2
+  },
+  {
     "name": "facebook-ads",
     "count": 2
   },
@@ -6533,6 +6829,10 @@
   },
   {
     "name": "Cost-Plus Contracts",
+    "count": 2
+  },
+  {
+    "name": "usoc-failures",
     "count": 2
   },
   {
@@ -6808,11 +7108,11 @@
     "count": 2
   },
   {
-    "name": "hhs",
+    "name": "crisis-profiteering",
     "count": 2
   },
   {
-    "name": "crisis-profiteering",
+    "name": "payday-lending",
     "count": 2
   },
   {
@@ -6908,14 +7208,6 @@
     "count": 2
   },
   {
-    "name": "sinclair-broadcasting",
-    "count": 2
-  },
-  {
-    "name": "local-news-capture",
-    "count": 2
-  },
-  {
     "name": "border-militarization",
     "count": 2
   },
@@ -6937,6 +7229,10 @@
   },
   {
     "name": "Federalist-Society",
+    "count": 2
+  },
+  {
+    "name": "dodd-frank",
     "count": 2
   },
   {
@@ -6980,7 +7276,7 @@
     "count": 2
   },
   {
-    "name": "California",
+    "name": "CMS",
     "count": 2
   },
   {
@@ -7036,7 +7332,7 @@
     "count": 2
   },
   {
-    "name": "merger-review",
+    "name": "child-exploitation",
     "count": 2
   },
   {
@@ -7085,6 +7381,10 @@
   },
   {
     "name": "don-mcgahn",
+    "count": 2
+  },
+  {
+    "name": "5g",
     "count": 2
   },
   {
@@ -7152,6 +7452,14 @@
     "count": 2
   },
   {
+    "name": "spac-era",
+    "count": 2
+  },
+  {
+    "name": "price-transparency",
+    "count": 2
+  },
+  {
     "name": "Obstruction of Congress",
     "count": 2
   },
@@ -7161,6 +7469,10 @@
   },
   {
     "name": "fact-checking",
+    "count": 2
+  },
+  {
+    "name": "minimal-accountability",
     "count": 2
   },
   {
@@ -7292,6 +7604,22 @@
     "count": 2
   },
   {
+    "name": "newspaper-collapse",
+    "count": 2
+  },
+  {
+    "name": "news-deserts",
+    "count": 2
+  },
+  {
+    "name": "hedge-fund-predation",
+    "count": 2
+  },
+  {
+    "name": "local-journalism",
+    "count": 2
+  },
+  {
     "name": "Allen Weisselberg",
     "count": 2
   },
@@ -7412,6 +7740,10 @@
     "count": 2
   },
   {
+    "name": "algorithmic-stablecoin",
+    "count": 2
+  },
+  {
     "name": "subpoena",
     "count": 2
   },
@@ -7425,6 +7757,10 @@
   },
   {
     "name": "fraudulent-transfers",
+    "count": 2
+  },
+  {
+    "name": "regulatory-void",
     "count": 2
   },
   {
@@ -7449,6 +7785,14 @@
   },
   {
     "name": "oversight-protection",
+    "count": 2
+  },
+  {
+    "name": "court-losses",
+    "count": 2
+  },
+  {
+    "name": "banking-collapse",
     "count": 2
   },
   {
@@ -7480,10 +7824,6 @@
     "count": 2
   },
   {
-    "name": "lawsuit",
-    "count": 2
-  },
-  {
     "name": "data-collection",
     "count": 2
   },
@@ -7497,6 +7837,10 @@
   },
   {
     "name": "tucker-carlson",
+    "count": 2
+  },
+  {
+    "name": "insulin",
     "count": 2
   },
   {
@@ -7529,6 +7873,10 @@
   },
   {
     "name": "Arthur Engoron",
+    "count": 2
+  },
+  {
+    "name": "regulatory-resistance",
     "count": 2
   },
   {
@@ -7989,10 +8337,6 @@
   },
   {
     "name": "corporate-sponsorship",
-    "count": 2
-  },
-  {
-    "name": "stablecoin",
     "count": 2
   },
   {
@@ -8568,10 +8912,6 @@
     "count": 2
   },
   {
-    "name": "FDA",
-    "count": 2
-  },
-  {
     "name": "Pete-Hegseth",
     "count": 2
   },
@@ -8661,6 +9001,14 @@
   },
   {
     "name": "constitutional-design",
+    "count": 1
+  },
+  {
+    "name": "federal-trade-commission",
+    "count": 1
+  },
+  {
+    "name": "progressive-era",
     "count": 1
   },
   {
@@ -8813,10 +9161,6 @@
   },
   {
     "name": "cointelpro",
-    "count": 1
-  },
-  {
-    "name": "chamber-of-commerce",
     "count": 1
   },
   {
@@ -9136,6 +9480,10 @@
     "count": 1
   },
   {
+    "name": "premerger-notification",
+    "count": 1
+  },
+  {
     "name": "neoconservatism",
     "count": 1
   },
@@ -9169,6 +9517,10 @@
   },
   {
     "name": "authoritarian-partnership",
+    "count": 1
+  },
+  {
+    "name": "enforcement-abandonment",
     "count": 1
   },
   {
@@ -9425,10 +9777,6 @@
   },
   {
     "name": "trucking-industry",
-    "count": 1
-  },
-  {
-    "name": "bipartisan-consensus",
     "count": 1
   },
   {
@@ -9708,10 +10056,6 @@
     "count": 1
   },
   {
-    "name": "meatpacking",
-    "count": 1
-  },
-  {
     "name": "arms-trafficking",
     "count": 1
   },
@@ -9825,10 +10169,6 @@
   },
   {
     "name": "corporate-debt",
-    "count": 1
-  },
-  {
-    "name": "talk-radio",
     "count": 1
   },
   {
@@ -10060,10 +10400,6 @@
     "count": 1
   },
   {
-    "name": "lobbying-influence",
-    "count": 1
-  },
-  {
     "name": "systematic-organization",
     "count": 1
   },
@@ -10132,6 +10468,10 @@
     "count": 1
   },
   {
+    "name": "manufacturing-decline",
+    "count": 1
+  },
+  {
     "name": "zapatista-uprising",
     "count": 1
   },
@@ -10157,10 +10497,6 @@
   },
   {
     "name": "federal-funding",
-    "count": 1
-  },
-  {
-    "name": "insurance-industry",
     "count": 1
   },
   {
@@ -10224,6 +10560,10 @@
     "count": 1
   },
   {
+    "name": "democratic-infrastructure",
+    "count": 1
+  },
+  {
     "name": "fundraising-scandal",
     "count": 1
   },
@@ -10237,10 +10577,6 @@
   },
   {
     "name": "labor-policy",
-    "count": 1
-  },
-  {
-    "name": "law-enforcement-failure",
     "count": 1
   },
   {
@@ -10273,6 +10609,10 @@
   },
   {
     "name": "local-news",
+    "count": 1
+  },
+  {
+    "name": "athlete-safety",
     "count": 1
   },
   {
@@ -10428,11 +10768,31 @@
     "count": 1
   },
   {
+    "name": "Federal Reserve",
+    "count": 1
+  },
+  {
     "name": "political-blacklisting",
     "count": 1
   },
   {
     "name": "partisan-infrastructure",
+    "count": 1
+  },
+  {
+    "name": "disney",
+    "count": 1
+  },
+  {
+    "name": "public-domain",
+    "count": 1
+  },
+  {
+    "name": "dmca",
+    "count": 1
+  },
+  {
+    "name": "fair-use",
     "count": 1
   },
   {
@@ -10608,6 +10968,14 @@
     "count": 1
   },
   {
+    "name": "analyst-conflicts",
+    "count": 1
+  },
+  {
+    "name": "irrational-exuberance",
+    "count": 1
+  },
+  {
     "name": "heartland-institute",
     "count": 1
   },
@@ -10637,6 +11005,10 @@
   },
   {
     "name": "fcc-regulation",
+    "count": 1
+  },
+  {
+    "name": "telecommunications-act",
     "count": 1
   },
   {
@@ -10696,15 +11068,7 @@
     "count": 1
   },
   {
-    "name": "enron-loophole",
-    "count": 1
-  },
-  {
     "name": "procedural-abuse",
-    "count": 1
-  },
-  {
-    "name": "credit-default-swaps",
     "count": 1
   },
   {
@@ -10776,10 +11140,6 @@
     "count": 1
   },
   {
-    "name": "kickbacks",
-    "count": 1
-  },
-  {
     "name": "diplomatic-mission",
     "count": 1
   },
@@ -10812,7 +11172,7 @@
     "count": 1
   },
   {
-    "name": "microsoft",
+    "name": "political-transitions",
     "count": 1
   },
   {
@@ -10861,6 +11221,10 @@
   },
   {
     "name": "local-democracy",
+    "count": 1
+  },
+  {
+    "name": "insulin-crisis",
     "count": 1
   },
   {
@@ -11460,6 +11824,10 @@
     "count": 1
   },
   {
+    "name": "Rick Scott",
+    "count": 1
+  },
+  {
     "name": "joseph-wilson",
     "count": 1
   },
@@ -11537,10 +11905,6 @@
   },
   {
     "name": "dhs-acquisition",
-    "count": 1
-  },
-  {
-    "name": "competition",
     "count": 1
   },
   {
@@ -11720,10 +12084,6 @@
     "count": 1
   },
   {
-    "name": "predatory-lending",
-    "count": 1
-  },
-  {
     "name": "regulatory-race-to-bottom",
     "count": 1
   },
@@ -11856,19 +12216,15 @@
     "count": 1
   },
   {
-    "name": "terrorism-financing",
-    "count": 1
-  },
-  {
-    "name": "regulatory-gaps",
-    "count": 1
-  },
-  {
     "name": "illegal-surveillance",
     "count": 1
   },
   {
     "name": "warrantless-spying",
+    "count": 1
+  },
+  {
+    "name": "dental",
     "count": 1
   },
   {
@@ -12112,6 +12468,10 @@
     "count": 1
   },
   {
+    "name": "dol",
+    "count": 1
+  },
+  {
     "name": "Tea-Party",
     "count": 1
   },
@@ -12232,6 +12592,10 @@
     "count": 1
   },
   {
+    "name": "FTC",
+    "count": 1
+  },
+  {
     "name": "cyber-intelligence",
     "count": 1
   },
@@ -12284,6 +12648,10 @@
     "count": 1
   },
   {
+    "name": "synthetic-cdo",
+    "count": 1
+  },
+  {
     "name": "Better Business Bureau",
     "count": 1
   },
@@ -12332,7 +12700,15 @@
     "count": 1
   },
   {
-    "name": "intellectual-property",
+    "name": "financial-reform",
+    "count": 1
+  },
+  {
+    "name": "Elizabeth Warren",
+    "count": 1
+  },
+  {
+    "name": "institutional-creation",
     "count": 1
   },
   {
@@ -12361,6 +12737,10 @@
   },
   {
     "name": "mercenaries",
+    "count": 1
+  },
+  {
+    "name": "intellectual-ventures",
     "count": 1
   },
   {
@@ -12448,7 +12828,15 @@
     "count": 1
   },
   {
+    "name": "facility-fees",
+    "count": 1
+  },
+  {
     "name": "freedom-partners",
+    "count": 1
+  },
+  {
+    "name": "nonprofit-abuse",
     "count": 1
   },
   {
@@ -12512,6 +12900,14 @@
     "count": 1
   },
   {
+    "name": "aca",
+    "count": 1
+  },
+  {
+    "name": "senate-corruption",
+    "count": 1
+  },
+  {
     "name": "too-big-to-jail",
     "count": 1
   },
@@ -12525,14 +12921,6 @@
   },
   {
     "name": "lame-duck-session",
-    "count": 1
-  },
-  {
-    "name": "oligopoly",
-    "count": 1
-  },
-  {
-    "name": "rent-extraction",
     "count": 1
   },
   {
@@ -12581,10 +12969,6 @@
   },
   {
     "name": "Bipartisan Corruption",
-    "count": 1
-  },
-  {
-    "name": "profiteering",
     "count": 1
   },
   {
@@ -12840,6 +13224,14 @@
     "count": 1
   },
   {
+    "name": "software-patents",
+    "count": 1
+  },
+  {
+    "name": "business-methods",
+    "count": 1
+  },
+  {
     "name": "research-ethics",
     "count": 1
   },
@@ -12896,6 +13288,10 @@
     "count": 1
   },
   {
+    "name": "eastern-district-texas",
+    "count": 1
+  },
+  {
     "name": "targeted-exploitation",
     "count": 1
   },
@@ -12905,6 +13301,10 @@
   },
   {
     "name": "appalachia",
+    "count": 1
+  },
+  {
+    "name": "rating-agencies",
     "count": 1
   },
   {
@@ -13292,6 +13692,10 @@
     "count": 1
   },
   {
+    "name": "stock-act-violation",
+    "count": 1
+  },
+  {
     "name": "financialization-warfare",
     "count": 1
   },
@@ -13312,6 +13716,10 @@
     "count": 1
   },
   {
+    "name": "karolyi-ranch",
+    "count": 1
+  },
+  {
     "name": "Investigative Journalism",
     "count": 1
   },
@@ -13329,10 +13737,6 @@
   },
   {
     "name": "monopsony",
-    "count": 1
-  },
-  {
-    "name": "wage-suppression",
     "count": 1
   },
   {
@@ -13372,6 +13776,14 @@
     "count": 1
   },
   {
+    "name": "beer-industry",
+    "count": 1
+  },
+  {
+    "name": "duopoly",
+    "count": 1
+  },
+  {
     "name": "casino-closure",
     "count": 1
   },
@@ -13405,6 +13817,10 @@
   },
   {
     "name": "pre-election-panic",
+    "count": 1
+  },
+  {
+    "name": "predatory-business",
     "count": 1
   },
   {
@@ -13656,6 +14072,10 @@
     "count": 1
   },
   {
+    "name": "trump-coordination",
+    "count": 1
+  },
+  {
     "name": "sexual-harassment",
     "count": 1
   },
@@ -13729,6 +14149,10 @@
   },
   {
     "name": "rosenstein",
+    "count": 1
+  },
+  {
+    "name": "tc-heartland",
     "count": 1
   },
   {
@@ -13844,6 +14268,10 @@
     "count": 1
   },
   {
+    "name": "usury",
+    "count": 1
+  },
+  {
     "name": "Campaign Officials",
     "count": 1
   },
@@ -13900,10 +14328,6 @@
     "count": 1
   },
   {
-    "name": "agriculture",
-    "count": 1
-  },
-  {
     "name": "corporate-subsidies",
     "count": 1
   },
@@ -13913,6 +14337,18 @@
   },
   {
     "name": "silicon-valley-intelligence",
+    "count": 1
+  },
+  {
+    "name": "insulin-pricing",
+    "count": 1
+  },
+  {
+    "name": "victim-testimony",
+    "count": 1
+  },
+  {
+    "name": "survivor-justice",
     "count": 1
   },
   {
@@ -13949,6 +14385,10 @@
   },
   {
     "name": "political-donors",
+    "count": 1
+  },
+  {
+    "name": "financial-engineering",
     "count": 1
   },
   {
@@ -14112,6 +14552,18 @@
     "count": 1
   },
   {
+    "name": "seeds",
+    "count": 1
+  },
+  {
+    "name": "agrochemicals",
+    "count": 1
+  },
+  {
+    "name": "campaign-finance-violations",
+    "count": 1
+  },
+  {
     "name": "Cyber Weapons",
     "count": 1
   },
@@ -14224,10 +14676,6 @@
     "count": 1
   },
   {
-    "name": "CMS",
-    "count": 1
-  },
-  {
     "name": "active-duty-troops",
     "count": 1
   },
@@ -14237,6 +14685,10 @@
   },
   {
     "name": "khashoggi",
+    "count": 1
+  },
+  {
+    "name": "evergreening",
     "count": 1
   },
   {
@@ -14376,10 +14828,6 @@
     "count": 1
   },
   {
-    "name": "child-exploitation",
-    "count": 1
-  },
-  {
     "name": "pedophile-networks",
     "count": 1
   },
@@ -14477,6 +14925,18 @@
   },
   {
     "name": "white-house-obstruction",
+    "count": 1
+  },
+  {
+    "name": "standard-essential-patents",
+    "count": 1
+  },
+  {
+    "name": "frand",
+    "count": 1
+  },
+  {
+    "name": "qualcomm",
     "count": 1
   },
   {
@@ -14700,6 +15160,10 @@
     "count": 1
   },
   {
+    "name": "price-fixing",
+    "count": 1
+  },
+  {
     "name": "Gordon Sondland",
     "count": 1
   },
@@ -14840,19 +15304,11 @@
     "count": 1
   },
   {
-    "name": "prosecutorial-discretion",
-    "count": 1
-  },
-  {
     "name": "richard-clarida",
     "count": 1
   },
   {
     "name": "teen-harm",
-    "count": 1
-  },
-  {
-    "name": "mental-health",
     "count": 1
   },
   {
@@ -14980,6 +15436,22 @@
     "count": 1
   },
   {
+    "name": "audit-failure",
+    "count": 1
+  },
+  {
+    "name": "economic-nationalism",
+    "count": 1
+  },
+  {
+    "name": "bafin",
+    "count": 1
+  },
+  {
+    "name": "ernst-young",
+    "count": 1
+  },
+  {
     "name": "secret-detention",
     "count": 1
   },
@@ -15009,10 +15481,6 @@
   },
   {
     "name": "developer-restrictions",
-    "count": 1
-  },
-  {
-    "name": "platform-power",
     "count": 1
   },
   {
@@ -15180,6 +15648,10 @@
     "count": 1
   },
   {
+    "name": "mortality",
+    "count": 1
+  },
+  {
     "name": "election-2020",
     "count": 1
   },
@@ -15232,10 +15704,6 @@
     "count": 1
   },
   {
-    "name": "surprise-billing",
-    "count": 1
-  },
-  {
     "name": "jeffrey-rosen",
     "count": 1
   },
@@ -15261,6 +15729,10 @@
   },
   {
     "name": "tax-strategy",
+    "count": 1
+  },
+  {
+    "name": "non-compliance",
     "count": 1
   },
   {
@@ -15416,6 +15888,10 @@
     "count": 1
   },
   {
+    "name": "vulture-capitalism",
+    "count": 1
+  },
+  {
     "name": "Biden Administration",
     "count": 1
   },
@@ -15492,6 +15968,14 @@
     "count": 1
   },
   {
+    "name": "hindenburg-research",
+    "count": 1
+  },
+  {
+    "name": "trump-pardon",
+    "count": 1
+  },
+  {
     "name": "Legal Accountability",
     "count": 1
   },
@@ -15513,6 +15997,14 @@
   },
   {
     "name": "facebook-papers",
+    "count": 1
+  },
+  {
+    "name": "CFTC",
+    "count": 1
+  },
+  {
+    "name": "civic-infrastructure",
     "count": 1
   },
   {
@@ -15548,6 +16040,10 @@
     "count": 1
   },
   {
+    "name": "jonathan-kanter",
+    "count": 1
+  },
+  {
     "name": "forcedentry",
     "count": 1
   },
@@ -15561,6 +16057,10 @@
   },
   {
     "name": "retail-pharmacies",
+    "count": 1
+  },
+  {
+    "name": "safesport",
     "count": 1
   },
   {
@@ -15756,6 +16256,14 @@
     "count": 1
   },
   {
+    "name": "veterinary",
+    "count": 1
+  },
+  {
+    "name": "hedge-fund-collapse",
+    "count": 1
+  },
+  {
     "name": "surveillance-footage",
     "count": 1
   },
@@ -15769,6 +16277,14 @@
   },
   {
     "name": "asset-concealment",
+    "count": 1
+  },
+  {
+    "name": "contagion",
+    "count": 1
+  },
+  {
+    "name": "three-arrows-capital",
     "count": 1
   },
   {
@@ -15813,10 +16329,6 @@
   },
   {
     "name": "putin-contact",
-    "count": 1
-  },
-  {
-    "name": "must-run-segments",
     "count": 1
   },
   {
@@ -15972,6 +16484,14 @@
     "count": 1
   },
   {
+    "name": "drug-shortage",
+    "count": 1
+  },
+  {
+    "name": "cancer-treatment",
+    "count": 1
+  },
+  {
     "name": "document-unsealing",
     "count": 1
   },
@@ -16004,7 +16524,19 @@
     "count": 1
   },
   {
+    "name": "fdic",
+    "count": 1
+  },
+  {
+    "name": "interest-rate-risk",
+    "count": 1
+  },
+  {
     "name": "investment-scam",
+    "count": 1
+  },
+  {
+    "name": "finma",
     "count": 1
   },
   {
@@ -16124,10 +16656,6 @@
     "count": 1
   },
   {
-    "name": "hedge-funds",
-    "count": 1
-  },
-  {
     "name": "kleptocracy-network",
     "count": 1
   },
@@ -16192,6 +16720,10 @@
     "count": 1
   },
   {
+    "name": "activision-blizzard",
+    "count": 1
+  },
+  {
     "name": "sec-charges",
     "count": 1
   },
@@ -16229,6 +16761,22 @@
   },
   {
     "name": "RICO",
+    "count": 1
+  },
+  {
+    "name": "pharmaceutical-patents",
+    "count": 1
+  },
+  {
+    "name": "patent-evergreening",
+    "count": 1
+  },
+  {
+    "name": "orange-book",
+    "count": 1
+  },
+  {
+    "name": "generic-drugs",
     "count": 1
   },
   {
@@ -16301,6 +16849,10 @@
   },
   {
     "name": "ethics-crisis",
+    "count": 1
+  },
+  {
+    "name": "prior-authorization",
     "count": 1
   },
   {
@@ -16624,6 +17176,14 @@
     "count": 1
   },
   {
+    "name": "staffing",
+    "count": 1
+  },
+  {
+    "name": "noncompete-clauses",
+    "count": 1
+  },
+  {
     "name": "animal-cruelty",
     "count": 1
   },
@@ -16645,6 +17205,14 @@
   },
   {
     "name": "kim-jong-un",
+    "count": 1
+  },
+  {
+    "name": "Cerberus",
+    "count": 1
+  },
+  {
+    "name": "Ralph de la Torre",
     "count": 1
   },
   {
@@ -16869,6 +17437,10 @@
   },
   {
     "name": "right-wing-media",
+    "count": 1
+  },
+  {
+    "name": "spread-pricing",
     "count": 1
   },
   {
@@ -17145,6 +17717,18 @@
   },
   {
     "name": "political-instability",
+    "count": 1
+  },
+  {
+    "name": "healthcare-violence",
+    "count": 1
+  },
+  {
+    "name": "kroger",
+    "count": 1
+  },
+  {
+    "name": "albertsons",
     "count": 1
   },
   {
@@ -17425,6 +18009,10 @@
   },
   {
     "name": "governance-transformation",
+    "count": 1
+  },
+  {
+    "name": "andrew-ferguson",
     "count": 1
   },
   {
@@ -17996,10 +18584,6 @@
     "count": 1
   },
   {
-    "name": "market-dominance",
-    "count": 1
-  },
-  {
     "name": "corporate-surveillance",
     "count": 1
   },
@@ -18452,10 +19036,6 @@
     "count": 1
   },
   {
-    "name": "big-tech",
-    "count": 1
-  },
-  {
     "name": "challenger-data",
     "count": 1
   },
@@ -18728,6 +19308,10 @@
     "count": 1
   },
   {
+    "name": "disability-discrimination",
+    "count": 1
+  },
+  {
     "name": "handala-hackers",
     "count": 1
   },
@@ -18861,10 +19445,6 @@
   },
   {
     "name": "regulatory-inquiry",
-    "count": 1
-  },
-  {
-    "name": "5g",
     "count": 1
   },
   {
@@ -20657,10 +21237,6 @@
   },
   {
     "name": "diplomatic-theater",
-    "count": 1
-  },
-  {
-    "name": "drug-pricing",
     "count": 1
   },
   {

@@ -144,6 +144,51 @@ class TimelineGenerator:
         
         log_success(f"Generated citations in {output_file}")
     
+    def generate_validations(self) -> None:
+        """Generate aggregated validations index."""
+        validations_dir = Path("data/validations/validators")
+        output_file = self.output_dir / "api/validations.json"
+        
+        log_info("Generating validations index...")
+        
+        aggregated = {}
+
+        if validations_dir.exists():
+            for v_dir in validations_dir.iterdir():
+                if not v_dir.is_dir(): continue
+                
+                records_dir = v_dir / 'records'
+                if not records_dir.exists(): continue
+                
+                for r_file in records_dir.glob('*.json'):
+                    try:
+                        with open(r_file, 'r') as f:
+                            data = json.load(f)
+                            validator_id = data.get('validator_id')
+                            
+                            for v in data.get('validations', []):
+                                eid = v['event_id']
+                                if eid not in aggregated:
+                                    aggregated[eid] = {
+                                        'event_id': eid,
+                                        'validations': [],
+                                        'high_confidence_count': 0
+                                    }
+                                
+                                # Add validator ID to record
+                                v_entry = v.copy()
+                                v_entry['validator_id'] = validator_id
+                                aggregated[eid]['validations'].append(v_entry)
+                                
+                                if v.get('confidence') == 'high':
+                                    aggregated[eid]['high_confidence_count'] += 1
+                                    
+                    except Exception as e:
+                        self.logger.warning(f"Failed to process validation record {r_file}: {e}")
+
+        save_json_file(output_file, list(aggregated.values()))
+        log_success(f"Generated validations index with {len(aggregated)} validated events")
+    
     def generate_statistics(self) -> None:
         """Generate detailed statistics report."""
         output_file = self.output_dir / "statistics.md"
@@ -385,6 +430,12 @@ Examples:
         action='store_true',
         help='Generate statistics report'
     )
+
+    parser.add_argument(
+        '--validations',
+        action='store_true',
+        help='Generate validations index'
+    )
     
     args = parser.parse_args()
     
@@ -419,6 +470,9 @@ Examples:
         
         if args.all or args.stats:
             generator.generate_statistics()
+
+        if args.all or args.validations:
+            generator.generate_validations()
         
         print()
         log_success("Generation complete!")
