@@ -34,8 +34,8 @@ export function GraphControls({ onExport }: GraphControlsProps) {
     const setMetric = useUIStore(s => s.setMetric);
 
     const updateMetric = (key: string, value: any) => {
-        if (key === 'maxNodes') setMetric('maxNodes', value);
-        if (key === 'minStrength') setMetric('minStrength', value);
+        if (key === 'maxNodes') setMetric('maxNodes', value as number);
+        if (key === 'minStrength') setMetric('minStrength', value as number);
         if (key === 'showLabels') toggleLabels();
         if (key === 'showMetrics') toggleMetrics();
     };

@@ -8,6 +8,7 @@ import { EventEditor } from './components/editor/EventEditor';
 import { NetworkGraph } from './components/visualization/NetworkGraph';
 import { Database, LayoutDashboard, Bug, Plus, Share2, Settings as SettingsIcon } from 'lucide-react';
 import { Settings as SettingsView } from './components/Settings';
+import { TimelineView } from './components/visualization/TimelineView';
 
 function App() {
   const [init, setInit] = useState<{ initialized: boolean; count: number; error?: string }>({
@@ -61,6 +62,11 @@ function App() {
                 </Link>
               </li>
               <li>
+                <Link to="/timeline" style={{ display: 'flex', alignItems: 'center', gap: '10px', padding: '10px 20px', color: '#e2e8f0', textDecoration: 'none' }}>
+                  <LayoutDashboard size={18} /> Timeline
+                </Link>
+              </li>
+              <li>
                 <Link to="/events/new" style={{ display: 'flex', alignItems: 'center', gap: '10px', padding: '10px 20px', color: '#e2e8f0', textDecoration: 'none' }}>
                   <Plus size={18} /> New Event
                 </Link>
@@ -90,6 +96,7 @@ function App() {
           <Routes>
             <Route path="/" element={<DashboardView />} />
             <Route path="/graph" element={<GraphView />} />
+            <Route path="/timeline" element={<div style={{ height: '100%', padding: '20px' }}><TimelineView /></div>} />
             <Route path="/events/new" element={<div style={{ padding: '30px' }}><EventEditor /></div>} />
             <Route path="/events/:id/edit" element={<div style={{ padding: '30px' }}><EventEditor /></div>} />
             <Route path="/debug" element={<DebugView />} />
@@ -114,8 +121,6 @@ function GraphView() {
     <div style={{ width: '100%', height: '100%', display: 'flex', flexDirection: 'column' }}>
       {/* Title and Description are now passed to NetworkGraph for overlay rendering */}
       <NetworkGraph
-        showMetrics={true}
-        graphLayout="force"
         title="Network Graph"
         description="Visualizing relationships based on shared tags and temporal proximity."
       />

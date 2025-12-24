@@ -1,0 +1,31 @@
+.timeline-view {
+    background: #0f172a;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.timeline-view svg {
+    display: block;
+}
+
+.grid line {
+    stroke: #334155;
+    stroke-opacity: 0.3;
+}
+
+.grid text {
+    font-family: sans-serif;
+    font-size: 10px;
+    fill: #94a3b8;
+}
+
+.axis path,
+.axis line {
+    stroke: #475569;
+}
+
+.axis text {
+    fill: #94a3b8;
+}
