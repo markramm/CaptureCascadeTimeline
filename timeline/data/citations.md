@@ -23965,6 +23965,14 @@
 
 1. [US Supreme Court expands its 'emergency' docket - and Trump's power too](https://www.reuters.com/legal/government/us-supreme-court-expands-its-emergency-docket-trumps-power-too-2025-10-03/)
 
+## Pirro's DC Office Dismisses 21% of Cases in 8 Weeks vs 0.5% Over Previous Decade
+*Date: 2025-10-04*
+
+1. [Jeanine Pirro's Recent Flood of Failures](https://www.emptywheel.net/2025/10/04/jeanine-pirros-recent-flood-of-failures/)
+2. [No Bills Are Only The Beginning Of Jeanine Pirro's F-Ups](https://abovethelaw.com/2025/09/no-bills-are-only-the-beginning-of-jeanine-pirros-f-ups/)
+3. [Trump Admin's D.C. Prosecutions Are Being Rejected by Judges, Juries](https://www.rollingstone.com/politics/politics-news/trump-pirro-judges-juries-dc-reject-charges-prosecutions-1235421862/)
+4. [US Attorney Pirro's office admits grand jury refused charges against DC woman](https://www.wusa9.com/article/news/crime/us-attorney-jeanine-pirros-office-admits-grand-jury-refused-charges-against-dc-woman-twice-sydney-reid-dc-jail/65-dc64747e-a8d4-4ad9-89e2-f6317f0fa2bd)
+
 ## Trump Targets Corporate Deals Across 30+ Industries Before Midterm Elections
 *Date: 2025-10-04*
 
