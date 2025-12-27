@@ -25949,3 +25949,8 @@
 5. [Thoughts on the Supreme Court Ruling Against Trump in the Illinois National Guard Case](https://reason.com/volokh/2025/12/25/thoughts-on-the-supreme-court-ruling-against-trump-in-the-illinois-national-guard-case/)
 6. [Regular Forces and the Insurrection Act](https://www.stevevladeck.com/p/187-regular-forces-and-the-insurrection)
 7. [25A443 Trump v. Illinois](https://www.supremecourt.gov/opinions/25pdf/25a443_ba7d.pdf)
+
+## US Launches Christmas Day Strikes on Nigerian Villages, ISIS Claims Questioned by Residents and Analysts
+*Date: 2025-12-25*
+
+1. [US strikes in Nigeria raise questions about targeting and coordination](https://www.ft.com/content/99d23e21-1ca4-4dbc-819d-90449d0040ba)
