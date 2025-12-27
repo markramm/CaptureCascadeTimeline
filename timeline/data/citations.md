@@ -25911,6 +25911,15 @@
 5. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
 6. [House quickly kills Marjorie Taylor Greene's effort to oust Speaker Johnson](https://abcnews.go.com/Politics/marjorie-taylor-greene-triggers-vote-motion-oust-speaker/story?id=110043228)
 
+## CBS News Editor Bari Weiss Pulls 60 Minutes CECOT Prison Abuse Segment Hours Before Broadcast
+*Date: 2025-12-21*
+
+1. [60 Minutes Report Leaks Online, Bari Weiss Axed Migrant Prison Segment](https://variety.com/2025/tv/news/60-minutes-report-leaks-online-bari-weiss-migrant-prison-1236615715/)
+2. [Controversial 60 Minutes segment on Trump immigration policy leaks online](https://www.pbs.org/newshour/nation/controversial-60-minutes-segment-on-trump-immigration-policy-leaks-online)
+3. [Pulled 60 Minutes episode aired in Canada](https://www.axios.com/2025/12/22/60-minutes-episode-leaked)
+4. [CBS Boss Bari Weiss 60 Minutes Intervention Backfires as Episode Leaks](https://www.thedailybeast.com/cbs-boss-bari-weiss-60-minutes-intervention-backfires-as-episode-leaks/)
+5. [60 Minutes story shelved by Bari Weiss streamed in Canada](https://www.cnn.com/2025/12/22/media/60-minutes-cecot-bari-weiss-canada-global-tv)
+
 ## DOJ Announces Discovery of Over One Million Additional Epstein Documents
 *Date: 2025-12-22*
 
