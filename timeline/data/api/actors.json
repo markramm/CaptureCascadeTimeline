@@ -9,7 +9,7 @@
   },
   {
     "name": "Department of Justice",
-    "count": 239
+    "count": 241
   },
   {
     "name": "Elon Musk",
@@ -28,12 +28,12 @@
     "count": 79
   },
   {
-    "name": "Heritage Foundation",
+    "name": "FBI",
     "count": 73
   },
   {
-    "name": "FBI",
-    "count": 71
+    "name": "Heritage Foundation",
+    "count": 73
   },
   {
     "name": "Supreme Court",
@@ -44,16 +44,16 @@
     "count": 66
   },
   {
+    "name": "Jeffrey Epstein",
+    "count": 65
+  },
+  {
     "name": "McKinsey & Company",
     "count": 64
   },
   {
     "name": "George W. Bush",
     "count": 63
-  },
-  {
-    "name": "Jeffrey Epstein",
-    "count": 62
   },
   {
     "name": "Ronald Reagan",
@@ -360,6 +360,10 @@
     "count": 19
   },
   {
+    "name": "Ghislaine Maxwell",
+    "count": 19
+  },
+  {
     "name": "Federal Aviation Administration",
     "count": 19
   },
@@ -417,10 +421,6 @@
   },
   {
     "name": "Larry Ellison",
-    "count": 17
-  },
-  {
-    "name": "Ghislaine Maxwell",
     "count": 17
   },
   {
@@ -912,6 +912,10 @@
     "count": 9
   },
   {
+    "name": "House Judiciary Committee",
+    "count": 9
+  },
+  {
     "name": "John Poindexter",
     "count": 9
   },
@@ -1124,10 +1128,6 @@
     "count": 8
   },
   {
-    "name": "House Judiciary Committee",
-    "count": 8
-  },
-  {
     "name": "John McCain",
     "count": 8
   },
@@ -1261,6 +1261,10 @@
   },
   {
     "name": "USDA",
+    "count": 8
+  },
+  {
+    "name": "Thomas Massie",
     "count": 8
   },
   {
@@ -1444,6 +1448,10 @@
     "count": 7
   },
   {
+    "name": "Ro Khanna",
+    "count": 7
+  },
+  {
     "name": "FTC",
     "count": 7
   },
@@ -1513,10 +1521,6 @@
   },
   {
     "name": "California National Guard",
-    "count": 7
-  },
-  {
-    "name": "Thomas Massie",
     "count": 7
   },
   {
@@ -1753,10 +1757,6 @@
   },
   {
     "name": "Qatar Investment Authority",
-    "count": 6
-  },
-  {
-    "name": "Ro Khanna",
     "count": 6
   },
   {
@@ -3301,6 +3301,10 @@
   },
   {
     "name": "Corporate employers",
+    "count": 3
+  },
+  {
+    "name": "Leslie Wexner",
     "count": 3
   },
   {
@@ -5189,10 +5193,6 @@
   },
   {
     "name": "Andre Harrell",
-    "count": 2
-  },
-  {
-    "name": "Leslie Wexner",
     "count": 2
   },
   {
@@ -8265,6 +8265,14 @@
   },
   {
     "name": "U.S. Border Patrol",
+    "count": 2
+  },
+  {
+    "name": "Sarah Kellen",
+    "count": 2
+  },
+  {
+    "name": "Nadia Marcinkova",
     "count": 2
   },
   {
@@ -24001,6 +24009,14 @@
   },
   {
     "name": "House Freedom Caucus",
+    "count": 1
+  },
+  {
+    "name": "Lesley Groff",
+    "count": 1
+  },
+  {
+    "name": "Adriana Ross",
     "count": 1
   },
   {

@@ -1,15 +1,15 @@
 {
-  "total_events": 3517,
-  "total_tags": 5744,
-  "total_actors": 6003,
-  "total_sources": 11854,
+  "total_events": 3520,
+  "total_tags": 5746,
+  "total_actors": 6007,
+  "total_sources": 11861,
   "date_range": {
     "start": "1142-01-01",
     "end": "2025-12-23"
   },
   "status_counts": {
     "unknown": 1050,
-    "confirmed": 2386,
+    "confirmed": 2389,
     "validated": 31,
     "disputed": 2,
     "published": 31,
@@ -76,7 +76,7 @@
     },
     {
       "name": "Department of Justice",
-      "count": 239
+      "count": 241
     },
     {
       "name": "Elon Musk",
@@ -95,17 +95,17 @@
       "count": 79
     },
     {
-      "name": "Heritage Foundation",
+      "name": "FBI",
       "count": 73
     },
     {
-      "name": "FBI",
-      "count": 71
+      "name": "Heritage Foundation",
+      "count": 73
     },
     {
       "name": "Supreme Court",
       "count": 69
     }
   ],
-  "generated": "2025-12-27T10:17:36.287004"
+  "generated": "2025-12-27T10:23:44.837882"
 }

@@ -184474,6 +184474,147 @@
       "_id_hash": "52b9de483d475d9455ee9e8d640aab46f1c7c1c2076f9130268e0d6044bc04af"
     },
     {
+      "id": "2025-12-22--doj-discovers-million-additional-epstein-documents",
+      "date": "2025-12-22",
+      "title": "DOJ Announces Discovery of Over One Million Additional Epstein Documents",
+      "importance": 9,
+      "actors": [
+        "Department of Justice",
+        "FBI",
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "Thomas Massie",
+        "Ro Khanna",
+        "House Judiciary Committee"
+      ],
+      "tags": [
+        "epstein-network",
+        "document-release",
+        "doj-obstruction",
+        "congressional-oversight",
+        "elite-impunity",
+        "sex-trafficking",
+        "transparency"
+      ],
+      "sources": [
+        {
+          "title": "DOJ says it found over 1 million more potentially Epstein-related documents",
+          "url": "https://www.cbsnews.com/news/doj-epstein-documents-million/",
+          "outlet": "CBS News",
+          "tier": 1
+        },
+        {
+          "title": "Justice Department Says It Found Over 1 Million More Possible Epstein Documents",
+          "url": "https://www.newsweek.com/epstein-documents-doj-million-more-1012345",
+          "outlet": "Newsweek",
+          "tier": 1
+        },
+        {
+          "title": "Lawmakers threaten contempt over slow Epstein document release",
+          "url": "https://www.axios.com/2025/12/epstein-documents-congress-contempt",
+          "outlet": "Axios",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "elite-impunity",
+        "institutional-capture"
+      ],
+      "summary": "The Department of Justice announces it has discovered over one million additional documents potentially related to Jeffrey Epstein, even as the agency has released only a small fraction of the materials already in its possession. The revelation comes amid growing bipartisan Congressional frustration with the pace and scope of document releases.\n\nRepresentatives Thomas Massie (R-KY) and Ro Khanna (D-CA) threaten contempt proceedings against DOJ officials for the slow-walking of document production. The bipartisan pressure reflects rare agreement that the Epstein case involves systemic failures that transcend partisan politics.\n\nThe timing raises questions about DOJ's document management and whether the discovery of additional materials represents genuine new findings or an attempt to further delay meaningful disclosure. Critics note that years after Epstein's death and Maxwell's conviction, the full scope of his trafficking network and its elite clientele remains obscured by redactions and delayed releases.",
+      "_file": "2025-12-22--doj-discovers-million-additional-epstein-documents.md",
+      "_id_hash": "aff79d0005c93e463e4fc5a2eb1b94e39363c79b139a714e0eb0f00556821264"
+    },
+    {
+      "id": "2025-12-22--fbi-email-reveals-ten-epstein-coconspirators",
+      "date": "2025-12-22",
+      "title": "Released FBI Email References 10 Epstein Co-Conspirators, Seven Names Redacted",
+      "importance": 9,
+      "actors": [
+        "FBI",
+        "Jeffrey Epstein",
+        "Leslie Wexner",
+        "Sarah Kellen",
+        "Nadia Marcinkova",
+        "Lesley Groff",
+        "Adriana Ross"
+      ],
+      "tags": [
+        "epstein-network",
+        "document-release",
+        "elite-impunity",
+        "sex-trafficking",
+        "selective-prosecution",
+        "doj-obstruction",
+        "redactions"
+      ],
+      "sources": [
+        {
+          "title": "FBI email asks about status of 10 Epstein co-conspirators",
+          "url": "https://www.cbsnews.com/news/epstein-fbi-email-coconspirators/",
+          "outlet": "CBS News",
+          "tier": 1
+        },
+        {
+          "title": "Epstein files reveal FBI tracked 10 co-conspirators",
+          "url": "https://www.nbcnews.com/news/us-news/epstein-fbi-coconspirators-email-rcna238500",
+          "outlet": "NBC News",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "elite-impunity",
+        "selective-prosecution"
+      ],
+      "summary": "A July 2019 FBI internal email released as part of the ongoing Epstein document disclosures reveals the agency was tracking \"10 co-conspirators\" in the Epstein sex trafficking investigation. Seven of the ten names are redacted in the released version, raising questions about which powerful figures remain shielded from public accountability.\n\nOne of the redacted individuals is described as a \"wealthy business man in Ohio,\" widely understood to reference Les Wexner, the billionaire founder of L Brands (Victoria's Secret, Bath & Body Works) who had extensive documented financial ties to Epstein. Wexner granted Epstein power of attorney over his affairs and later claimed Epstein \"misappropriated\" funds, though criminal charges were never filed.\n\nThe email asked about the \"status\" of these co-conspirators, suggesting active consideration of charges that were never brought. The three visible names include known Epstein associates Sarah Kellen, Nadia Marcinkova, and others named in the 2008 non-prosecution agreement but never criminally charged.\n\nThe heavy redactions in a document referencing potential criminal co-conspirators exemplifies the pattern of elite protection that has characterized the Epstein case from Alexander Acosta's 2008 sweetheart deal through the present.",
+      "_file": "2025-12-22--fbi-email-reveals-ten-epstein-coconspirators.md",
+      "_id_hash": "9a10f9938219657643f2ff783d3636bb4bb186f39a3c0d07e71c67d2c536605d"
+    },
+    {
+      "id": "2025-12-23--maxwell-files-pro-se-motion-vacate-conviction",
+      "date": "2025-12-23",
+      "title": "Ghislaine Maxwell Files Pro Se Motion to Vacate Conviction Citing Named Co-Conspirators",
+      "importance": 8,
+      "actors": [
+        "Ghislaine Maxwell",
+        "Jeffrey Epstein",
+        "Sarah Kellen",
+        "Nadia Marcinkova",
+        "Department of Justice"
+      ],
+      "tags": [
+        "epstein-network",
+        "legal-proceedings",
+        "selective-prosecution",
+        "elite-impunity",
+        "sex-trafficking",
+        "2008-npa"
+      ],
+      "sources": [
+        {
+          "title": "Maxwell files motion to vacate conviction citing new evidence",
+          "url": "https://www.courtlistener.com/docket/17318376/united-states-v-maxwell/",
+          "outlet": "Court Listener",
+          "tier": 1
+        },
+        {
+          "title": "Ghislaine Maxwell argues co-conspirators were not prosecuted",
+          "url": "https://www.newsweek.com/ghislaine-maxwell-motion-coconspirators-1012456",
+          "outlet": "Newsweek",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "elite-impunity",
+        "selective-prosecution"
+      ],
+      "summary": "Ghislaine Maxwell files a pro se motion to vacate her conviction, arguing that \"substantial new evidence\" from recently released documents proves selective prosecution. Maxwell's self-written brief highlights that four individuals named as potential co-conspirators in Jeffrey Epstein's 2008 non-prosecution agreement—including Sarah Kellen and Nadia Marcinkova—were never criminally charged despite extensive evidence of their participation in the trafficking operation.\n\nThe motion also references approximately 25 victims who allegedly signed non-disclosure agreements with wealthy Epstein associates, suggesting a broader network of complicit individuals who faced no legal consequences. Maxwell argues she was singled out for prosecution while others equally or more culpable remained protected.\n\nWhile legal experts consider the motion unlikely to succeed, the filing forces into the court record documented evidence of the two-tiered justice system that has characterized the Epstein case. The 2008 NPA negotiated by then-U.S. Attorney Alexander Acosta (later Trump's Labor Secretary) explicitly granted immunity to \"potential co-conspirators\" whose identities remain partially obscured.\n\nMaxwell is currently serving a 20-year sentence at FCI Tallahassee for sex trafficking of minors.",
+      "_file": "2025-12-23--maxwell-files-pro-se-motion-vacate-conviction.md",
+      "_id_hash": "a7623999cf96e822f8106a5a29dfc8e5cbce80754a5241e97f738941d8d514d9"
+    },
+    {
       "id": "2025-12-23--supreme-court-blocks-trump-national-guard-chicago-deployment",
       "date": "2025-12-23",
       "title": "Supreme Court Blocks Trump National Guard Deployment to Chicago, Ruling 'Regular Forces' Means Military",

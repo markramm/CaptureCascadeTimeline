@@ -168,12 +168,12 @@
     "count": 44
   },
   {
-    "name": "national-security",
+    "name": "congressional-oversight",
     "count": 44
   },
   {
-    "name": "congressional-oversight",
-    "count": 43
+    "name": "national-security",
+    "count": 44
   },
   {
     "name": "authoritarianism",
@@ -360,6 +360,10 @@
     "count": 30
   },
   {
+    "name": "transparency",
+    "count": 29
+  },
+  {
     "name": "tax-policy",
     "count": 28
   },
@@ -377,10 +381,6 @@
   },
   {
     "name": "law-enforcement",
-    "count": 28
-  },
-  {
-    "name": "transparency",
     "count": 28
   },
   {
@@ -480,6 +480,10 @@
     "count": 24
   },
   {
+    "name": "epstein-network",
+    "count": 24
+  },
+  {
     "name": "cnp",
     "count": 24
   },
@@ -565,10 +569,6 @@
   },
   {
     "name": "neoliberalism",
-    "count": 21
-  },
-  {
-    "name": "epstein-network",
     "count": 21
   },
   {
@@ -1208,6 +1208,10 @@
     "count": 12
   },
   {
+    "name": "elite-impunity",
+    "count": 12
+  },
+  {
     "name": "institutional-accountability",
     "count": 11
   },
@@ -1632,6 +1636,10 @@
     "count": 9
   },
   {
+    "name": "sex-trafficking",
+    "count": 9
+  },
+  {
     "name": "authoritarian-tactics",
     "count": 9
   },
@@ -1673,10 +1681,6 @@
   },
   {
     "name": "militarization",
-    "count": 9
-  },
-  {
-    "name": "elite-impunity",
     "count": 9
   },
   {
@@ -2524,10 +2528,6 @@
     "count": 6
   },
   {
-    "name": "sex-trafficking",
-    "count": 6
-  },
-  {
     "name": "corporate-governance",
     "count": 6
   },
@@ -3185,6 +3185,10 @@
   },
   {
     "name": "authoritarian-consolidation",
+    "count": 5
+  },
+  {
+    "name": "document-release",
     "count": 5
   },
   {
@@ -4152,6 +4156,10 @@
     "count": 4
   },
   {
+    "name": "selective-prosecution",
+    "count": 4
+  },
+  {
     "name": "operation-midway-blitz",
     "count": 4
   },
@@ -4848,6 +4856,10 @@
     "count": 3
   },
   {
+    "name": "legal-proceedings",
+    "count": 3
+  },
+  {
     "name": "college-closure",
     "count": 3
   },
@@ -5268,10 +5280,6 @@
     "count": 3
   },
   {
-    "name": "document-release",
-    "count": 3
-  },
-  {
     "name": "tech-oversight",
     "count": 3
   },
@@ -5301,6 +5309,10 @@
   },
   {
     "name": "extortion",
+    "count": 3
+  },
+  {
+    "name": "doj-obstruction",
     "count": 3
   },
   {
@@ -7097,10 +7109,6 @@
   },
   {
     "name": "online radicalization",
-    "count": 2
-  },
-  {
-    "name": "legal-proceedings",
     "count": 2
   },
   {
@@ -8953,10 +8961,6 @@
   },
   {
     "name": "geopolitics",
-    "count": 2
-  },
-  {
-    "name": "selective-prosecution",
     "count": 2
   },
   {
@@ -18692,10 +18696,6 @@
     "count": 1
   },
   {
-    "name": "doj-obstruction",
-    "count": 1
-  },
-  {
     "name": "bondi-deception",
     "count": 1
   },
@@ -22969,6 +22969,14 @@
   },
   {
     "name": "house-rules",
+    "count": 1
+  },
+  {
+    "name": "redactions",
+    "count": 1
+  },
+  {
+    "name": "2008-npa",
     "count": 1
   },
   {

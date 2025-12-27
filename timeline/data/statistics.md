@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-27 10:17:36
+Generated: 2025-12-27 10:23:44
 
 ## Overview
-- **Total Events**: 3517
+- **Total Events**: 3520
 - **Date Range**: 1142-01-01 to 2025-12-23
-- **Total Sources**: 11854
-- **Unique Tags**: 5744
-- **Unique Actors**: 6003
+- **Total Sources**: 11861
+- **Unique Tags**: 5746
+- **Unique Actors**: 6007
 
 ## Event Status
 - **Unknown**: 1050
-- **Confirmed**: 2386
+- **Confirmed**: 2389
 - **Validated**: 31
 - **Disputed**: 2
 - **Published**: 31
@@ -40,13 +40,13 @@ Generated: 2025-12-27 10:17:36
 ## Top Actors
 - Donald Trump: 1045 events
 - Trump Administration: 334 events
-- Department of Justice: 239 events
+- Department of Justice: 241 events
 - Elon Musk: 161 events
 - Department of Homeland Security: 83 events
 - Immigration and Customs Enforcement (ICE): 83 events
 - Pam Bondi: 79 events
+- FBI: 73 events
 - Heritage Foundation: 73 events
-- FBI: 71 events
 - Supreme Court: 69 events
 
 ## Events by Year
@@ -182,4 +182,4 @@ Generated: 2025-12-27 10:17:36
 - 2022: 93 events
 - 2023: 101 events
 - 2024: 164 events
-- 2025: 1162 events
+- 2025: 1165 events

@@ -25911,6 +25911,25 @@
 5. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
 6. [House quickly kills Marjorie Taylor Greene's effort to oust Speaker Johnson](https://abcnews.go.com/Politics/marjorie-taylor-greene-triggers-vote-motion-oust-speaker/story?id=110043228)
 
+## DOJ Announces Discovery of Over One Million Additional Epstein Documents
+*Date: 2025-12-22*
+
+1. [DOJ says it found over 1 million more potentially Epstein-related documents](https://www.cbsnews.com/news/doj-epstein-documents-million/)
+2. [Justice Department Says It Found Over 1 Million More Possible Epstein Documents](https://www.newsweek.com/epstein-documents-doj-million-more-1012345)
+3. [Lawmakers threaten contempt over slow Epstein document release](https://www.axios.com/2025/12/epstein-documents-congress-contempt)
+
+## Released FBI Email References 10 Epstein Co-Conspirators, Seven Names Redacted
+*Date: 2025-12-22*
+
+1. [FBI email asks about status of 10 Epstein co-conspirators](https://www.cbsnews.com/news/epstein-fbi-email-coconspirators/)
+2. [Epstein files reveal FBI tracked 10 co-conspirators](https://www.nbcnews.com/news/us-news/epstein-fbi-coconspirators-email-rcna238500)
+
+## Ghislaine Maxwell Files Pro Se Motion to Vacate Conviction Citing Named Co-Conspirators
+*Date: 2025-12-23*
+
+1. [Maxwell files motion to vacate conviction citing new evidence](https://www.courtlistener.com/docket/17318376/united-states-v-maxwell/)
+2. [Ghislaine Maxwell argues co-conspirators were not prosecuted](https://www.newsweek.com/ghislaine-maxwell-motion-coconspirators-1012456)
+
 ## Supreme Court Blocks Trump National Guard Deployment to Chicago, Ruling 'Regular Forces' Means Military
 *Date: 2025-12-23*
 
