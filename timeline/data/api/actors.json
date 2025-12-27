@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1044
+    "count": 1045
   },
   {
     "name": "Trump Administration",
@@ -193,7 +193,7 @@
   },
   {
     "name": "U.S. Supreme Court",
-    "count": 29
+    "count": 30
   },
   {
     "name": "ExxonMobil",
@@ -224,15 +224,15 @@
     "count": 27
   },
   {
+    "name": "Clarence Thomas",
+    "count": 27
+  },
+  {
     "name": "xAI",
     "count": 27
   },
   {
     "name": "U.S. Department of Justice",
-    "count": 26
-  },
-  {
-    "name": "Clarence Thomas",
     "count": 26
   },
   {
@@ -428,6 +428,10 @@
     "count": 17
   },
   {
+    "name": "John Roberts",
+    "count": 17
+  },
+  {
     "name": "Citigroup",
     "count": 17
   },
@@ -453,10 +457,6 @@
   },
   {
     "name": "Environmental Protection Agency (EPA)",
-    "count": 16
-  },
-  {
-    "name": "John Roberts",
     "count": 16
   },
   {
@@ -552,6 +552,10 @@
     "count": 14
   },
   {
+    "name": "Samuel Alito",
+    "count": 14
+  },
+  {
     "name": "Kenneth Lay",
     "count": 14
   },
@@ -597,10 +601,6 @@
   },
   {
     "name": "Alan Greenspan",
-    "count": 13
-  },
-  {
-    "name": "Samuel Alito",
     "count": 13
   },
   {
@@ -808,6 +808,10 @@
     "count": 10
   },
   {
+    "name": "Brett Kavanaugh",
+    "count": 10
+  },
+  {
     "name": "National Guard",
     "count": 10
   },
@@ -901,10 +905,6 @@
   },
   {
     "name": "Richard Nixon",
-    "count": 9
-  },
-  {
-    "name": "Brett Kavanaugh",
     "count": 9
   },
   {
@@ -1108,6 +1108,14 @@
     "count": 8
   },
   {
+    "name": "Neil Gorsuch",
+    "count": 8
+  },
+  {
+    "name": "Amy Coney Barrett",
+    "count": 8
+  },
+  {
     "name": "Democratic National Committee",
     "count": 8
   },
@@ -1293,14 +1301,6 @@
   },
   {
     "name": "Federal Home Loan Bank Board",
-    "count": 7
-  },
-  {
-    "name": "Neil Gorsuch",
-    "count": 7
-  },
-  {
-    "name": "Amy Coney Barrett",
     "count": 7
   },
   {
@@ -2180,6 +2180,10 @@
     "count": 5
   },
   {
+    "name": "Ketanji Brown Jackson",
+    "count": 5
+  },
+  {
     "name": "E. Jean Carroll",
     "count": 5
   },
@@ -2233,6 +2237,10 @@
   },
   {
     "name": "X (Twitter)",
+    "count": 5
+  },
+  {
+    "name": "Elena Kagan",
     "count": 5
   },
   {
@@ -2848,10 +2856,6 @@
     "count": 4
   },
   {
-    "name": "Ketanji Brown Jackson",
-    "count": 4
-  },
-  {
     "name": "Volodymyr Zelenskyy",
     "count": 4
   },
@@ -2961,10 +2965,6 @@
   },
   {
     "name": "Harmeet Dhillon",
-    "count": 4
-  },
-  {
-    "name": "Elena Kagan",
     "count": 4
   },
   {
@@ -3637,6 +3637,10 @@
   },
   {
     "name": "Citizens United",
+    "count": 3
+  },
+  {
+    "name": "Sonia Sotomayor",
     "count": 3
   },
   {
@@ -5849,10 +5853,6 @@
   },
   {
     "name": "Justice Anthony Kennedy",
-    "count": 2
-  },
-  {
-    "name": "Sonia Sotomayor",
     "count": 2
   },
   {
@@ -24001,6 +24001,14 @@
   },
   {
     "name": "House Freedom Caucus",
+    "count": 1
+  },
+  {
+    "name": "Martin S. Lederman",
+    "count": 1
+  },
+  {
+    "name": "State of Illinois",
     "count": 1
   }
 ]

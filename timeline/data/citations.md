@@ -25910,3 +25910,14 @@
 4. [Marjorie Taylor Greene reportedly attempting to oust House Speaker Mike Johnson before resignation](https://www.wsbtv.com/news/local/atlanta/marjorie-taylor-greene-reportedly-attempting-oust-house-speaker-mike-johnson-before-resignation/NVQRJQADWFBXLOZBD362LPD57A/)
 5. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
 6. [House quickly kills Marjorie Taylor Greene's effort to oust Speaker Johnson](https://abcnews.go.com/Politics/marjorie-taylor-greene-triggers-vote-motion-oust-speaker/story?id=110043228)
+
+## Supreme Court Blocks Trump National Guard Deployment to Chicago, Ruling 'Regular Forces' Means Military
+*Date: 2025-12-23*
+
+1. [Supreme Court rejects Trump's effort to deploy National Guard in Illinois](https://www.scotusblog.com/2025/12/supreme-court-rejects-trumps-effort-to-deploy-national-guard-in-illinois/)
+2. [Supreme Court rejects Trump's bid to deploy National Guard in Illinois](https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-bid-deploy-national-guard-illinois-rcna238630)
+3. [How a Scholar Nudged the Supreme Court Toward Its Troop Deployment Ruling](https://dnyuz.com/2025/12/24/how-a-scholar-nudged-the-supreme-court-toward-its-troop-deployment-ruling/)
+4. [The implications of the Supreme Court ruling against Trump in National Guard case](https://www.npr.org/2025/12/24/nx-s1-5655238/the-implications-of-the-supreme-court-ruling-against-trump-in-national-guard-case)
+5. [Thoughts on the Supreme Court Ruling Against Trump in the Illinois National Guard Case](https://reason.com/volokh/2025/12/25/thoughts-on-the-supreme-court-ruling-against-trump-in-the-illinois-national-guard-case/)
+6. [Regular Forces and the Insurrection Act](https://www.stevevladeck.com/p/187-regular-forces-and-the-insurrection)
+7. [25A443 Trump v. Illinois](https://www.supremecourt.gov/opinions/25pdf/25a443_ba7d.pdf)

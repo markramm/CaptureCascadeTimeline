@@ -41,7 +41,7 @@
   },
   {
     "name": "supreme-court",
-    "count": 102
+    "count": 103
   },
   {
     "name": "foreign-influence",
@@ -101,7 +101,7 @@
   },
   {
     "name": "executive-power",
-    "count": 63
+    "count": 64
   },
   {
     "name": "obstruction-of-justice",
@@ -816,6 +816,10 @@
     "count": 16
   },
   {
+    "name": "national-guard",
+    "count": 16
+  },
+  {
     "name": "emergency-powers",
     "count": 16
   },
@@ -889,10 +893,6 @@
   },
   {
     "name": "tech",
-    "count": 15
-  },
-  {
-    "name": "national-guard",
     "count": 15
   },
   {
@@ -1332,6 +1332,10 @@
     "count": 11
   },
   {
+    "name": "military-deployment",
+    "count": 11
+  },
+  {
     "name": "doge",
     "count": 11
   },
@@ -1473,10 +1477,6 @@
   },
   {
     "name": "hatch act",
-    "count": 10
-  },
-  {
-    "name": "military-deployment",
     "count": 10
   },
   {
@@ -2300,6 +2300,10 @@
     "count": 6
   },
   {
+    "name": "federalism",
+    "count": 6
+  },
+  {
     "name": "reagan",
     "count": 6
   },
@@ -2729,10 +2733,6 @@
   },
   {
     "name": "welfare-reform",
-    "count": 5
-  },
-  {
-    "name": "federalism",
     "count": 5
   },
   {
@@ -8801,6 +8801,14 @@
   },
   {
     "name": "emergency-stays",
+    "count": 2
+  },
+  {
+    "name": "constitutional-limits",
+    "count": 2
+  },
+  {
+    "name": "insurrection-act",
     "count": 2
   },
   {
@@ -20504,10 +20512,6 @@
     "count": 1
   },
   {
-    "name": "constitutional-limits",
-    "count": 1
-  },
-  {
     "name": "political-assassination",
     "count": 1
   },
@@ -20577,10 +20581,6 @@
   },
   {
     "name": "analysis",
-    "count": 1
-  },
-  {
-    "name": "insurrection-act",
     "count": 1
   },
   {
@@ -22969,6 +22969,10 @@
   },
   {
     "name": "house-rules",
+    "count": 1
+  },
+  {
+    "name": "judicial-resistance",
     "count": 1
   }
 ]

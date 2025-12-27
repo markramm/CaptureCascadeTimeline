@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-24 02:05:14
+Generated: 2025-12-27 10:17:36
 
 ## Overview
-- **Total Events**: 3516
-- **Date Range**: 1142-01-01 to 2025-12-20
-- **Total Sources**: 11847
-- **Unique Tags**: 5743
-- **Unique Actors**: 6001
+- **Total Events**: 3517
+- **Date Range**: 1142-01-01 to 2025-12-23
+- **Total Sources**: 11854
+- **Unique Tags**: 5744
+- **Unique Actors**: 6003
 
 ## Event Status
 - **Unknown**: 1050
-- **Confirmed**: 2385
+- **Confirmed**: 2386
 - **Validated**: 31
 - **Disputed**: 2
 - **Published**: 31
@@ -38,7 +38,7 @@ Generated: 2025-12-24 02:05:14
 - systematic-corruption: 103 events
 
 ## Top Actors
-- Donald Trump: 1044 events
+- Donald Trump: 1045 events
 - Trump Administration: 334 events
 - Department of Justice: 239 events
 - Elon Musk: 161 events
@@ -182,4 +182,4 @@ Generated: 2025-12-24 02:05:14
 - 2022: 93 events
 - 2023: 101 events
 - 2024: 164 events
-- 2025: 1161 events
+- 2025: 1162 events
