@@ -25902,6 +25902,11 @@
 3. [What's inside the Epstein files released by the Justice Department](https://www.cnn.com/2025/12/20/politics/jeffrey-epstein-files-released-doj)
 4. [The Epstein Files](https://theramm.substack.com/p/the-epstein-files)
 
+## DOJ Voter Roll Crusade Riddled With Errors as Dhillon Sues 21 States With Sloppy Filings
+*Date: 2025-12-20*
+
+1. [The DOJ's Sloppy Voter Roll Crusade](https://www.democracydocket.com/analysis/the-dojs-sloppy-voter-roll-crusade/)
+
 ## Defense Secretary Hegseth Orders 'Operation Hawkeye Strike': Massive Retaliatory Strikes Against ISIS in Syria
 *Date: 2025-12-20*
 
