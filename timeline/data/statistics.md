@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2025-12-30 10:48:06
+Generated: 2025-12-30 16:26:26
 
 ## Overview
-- **Total Events**: 3543
+- **Total Events**: 3618
 - **Date Range**: 1142-01-01 to 2025-12-28
-- **Total Sources**: 11924
-- **Unique Tags**: 5773
-- **Unique Actors**: 6036
+- **Total Sources**: 12104
+- **Unique Tags**: 5832
+- **Unique Actors**: 6075
 
 ## Event Status
-- **Unknown**: 1050
-- **Confirmed**: 2412
+- **Unknown**: 1055
+- **Confirmed**: 2482
 - **Validated**: 31
 - **Disputed**: 2
 - **Published**: 31
@@ -26,28 +26,28 @@ Generated: 2025-12-30 10:48:06
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 542 events
-- institutional-capture: 315 events
-- corruption: 285 events
+- regulatory-capture: 553 events
+- institutional-capture: 317 events
+- corruption: 295 events
 - trump-administration: 146 events
-- kleptocracy: 139 events
-- government-contracts: 129 events
+- kleptocracy: 140 events
+- government-contracts: 131 events
 - crypto: 119 events
-- surveillance: 114 events
-- antitrust: 104 events
-- systematic-corruption: 103 events
+- surveillance: 115 events
+- supreme-court: 108 events
+- antitrust: 105 events
 
 ## Top Actors
-- Donald Trump: 1052 events
-- Trump Administration: 341 events
-- Department of Justice: 247 events
-- Elon Musk: 162 events
-- Department of Homeland Security: 86 events
-- Immigration and Customs Enforcement (ICE): 86 events
-- Pam Bondi: 80 events
+- Donald Trump: 1077 events
+- Trump Administration: 370 events
+- Department of Justice: 257 events
+- Elon Musk: 164 events
+- Department of Homeland Security: 93 events
+- Immigration and Customs Enforcement (ICE): 91 events
+- Pam Bondi: 87 events
+- Supreme Court: 75 events
 - FBI: 73 events
 - Heritage Foundation: 73 events
-- Supreme Court: 69 events
 
 ## Events by Year
 - 1142: 1 events
@@ -182,4 +182,4 @@ Generated: 2025-12-30 10:48:06
 - 2022: 93 events
 - 2023: 101 events
 - 2024: 164 events
-- 2025: 1188 events
+- 2025: 1263 events

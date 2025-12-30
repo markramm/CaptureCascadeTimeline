@@ -1,15 +1,15 @@
 {
-  "total_events": 3520,
-  "total_tags": 5746,
-  "total_actors": 6007,
-  "total_sources": 11861,
+  "total_events": 3618,
+  "total_tags": 5832,
+  "total_actors": 6075,
+  "total_sources": 12104,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2025-12-23"
+    "end": "2025-12-28"
   },
   "status_counts": {
-    "unknown": 1050,
-    "confirmed": 2389,
+    "unknown": 1055,
+    "confirmed": 2482,
     "validated": 31,
     "disputed": 2,
     "published": 31,
@@ -26,73 +26,77 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 538
+      "count": 553
     },
     {
       "name": "institutional-capture",
-      "count": 311
+      "count": 317
     },
     {
       "name": "corruption",
-      "count": 280
+      "count": 295
     },
     {
       "name": "trump-administration",
-      "count": 142
+      "count": 146
     },
     {
       "name": "kleptocracy",
-      "count": 139
+      "count": 140
     },
     {
       "name": "government-contracts",
-      "count": 129
+      "count": 131
     },
     {
       "name": "crypto",
-      "count": 118
+      "count": 119
     },
     {
       "name": "surveillance",
-      "count": 114
+      "count": 115
+    },
+    {
+      "name": "supreme-court",
+      "count": 108
     },
     {
       "name": "antitrust",
-      "count": 104
-    },
-    {
-      "name": "systematic-corruption",
-      "count": 103
+      "count": 105
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1045
+      "count": 1077
     },
     {
       "name": "Trump Administration",
-      "count": 334
+      "count": 370
     },
     {
       "name": "Department of Justice",
-      "count": 241
+      "count": 257
     },
     {
       "name": "Elon Musk",
-      "count": 161
+      "count": 164
     },
     {
       "name": "Department of Homeland Security",
-      "count": 83
+      "count": 93
     },
     {
       "name": "Immigration and Customs Enforcement (ICE)",
-      "count": 83
+      "count": 91
     },
     {
       "name": "Pam Bondi",
-      "count": 79
+      "count": 87
+    },
+    {
+      "name": "Supreme Court",
+      "count": 75
     },
     {
       "name": "FBI",
@@ -101,11 +105,7 @@
     {
       "name": "Heritage Foundation",
       "count": 73
-    },
-    {
-      "name": "Supreme Court",
-      "count": 69
     }
   ],
-  "generated": "2025-12-27T10:23:44.837882"
+  "generated": "2025-12-30T16:26:26.917334"
 }
