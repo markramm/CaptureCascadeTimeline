@@ -23288,6 +23288,13 @@
 2. [Inspectors General's Role as Independent Watchdogs in Question](https://www.govexec.com/transition/2025/01/inspectors-generals-role-independent-government-watchdogs-question-after-trump-firings/402550/)
 3. [Trump's Illegal Firing of Inspectors General](https://americanoversight.org/investigation/trumps-illegal-firing-of-inspectors-general/)
 
+## Hegseth Allegedly Orders Kill Them All Before Boat Strike, 87 Dead in Caribbean Drug War Campaign
+*Date: 2025-09-02*
+
+1. [Hegseth order on first Caribbean boat strike, officials say - Kill them all](https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/)
+2. [Navy admiral tells lawmakers there was no kill all order from Hegseth](https://www.pbs.org/newshour/politics/who-is-adm-bradley-lawmakers-will-hear-from-navy-admiral-who-reportedly-ordered-attack-that-killed-boat-strike-survivors)
+3. [White House defends strikes on boat survivors](https://www.npr.org/2025/12/02/nx-s1-5628308/trump-hegseth-boat-strikes)
+
 ## ICE Reactivates $2M Paragon Spyware Contract for WhatsApp, Signal Encryption Breaking
 *Date: 2025-09-02*
 
@@ -25158,6 +25165,27 @@
 3. [Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations](https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456)
 4. [Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says](https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987)
 
+## Trump Cabinet Includes 12 Billionaires Worth $390 Billion, Wealthiest Administration in History
+*Date: 2025-12-01*
+
+1. [Meet the Trump administrations 12 billionaires](https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/)
+2. [Trumps Billionaire Cabinet Represents the Top 0.0001 Percent](https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/)
+3. [Trump Has Stuffed His Cabinet With Oligarchs](https://truthout.org/articles/trump-has-stuffed-his-cabinet-with-oligarchs-poised-to-govern-for-their-profit/)
+
+## Trump Administration Drops 100+ Corporate Enforcement Actions, Penalties Fall 97 Percent
+*Date: 2025-12-01*
+
+1. [Trumps 100 Days of Oligarchy and Conflicts of Interest](https://www.citizen.org/news/trumps-100-days-of-oligarchy-corruption-and-conflicts-of-interest/)
+2. [US financial regulatory enforcement plummets under Trump](https://www.wolterskluwer.com/en/expert-insights/us-financial-regulatory-enforcement-plummets-under-trump-report-finds)
+3. [100 Days of Corruption Oversight Democrats Highlight 100 Conflicts of Interest](https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest)
+
+## Trump Pardons Former Honduras President Hernandez, Convicted of Trafficking 400 Tons of Cocaine to US
+*Date: 2025-12-01*
+
+1. [Trump formally pardons former Honduran President Juan Orlando Hernandez](https://www.cnn.com/2025/12/02/politics/juan-orlando-hernandez-pardon)
+2. [Examining Trumps Pardon of Former Honduran President Convicted of Trafficking Drugs to US](https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/)
+3. [Trumps Pardon of Honduras Former President Rewrites a Landmark US Drug Case](https://www.bloomberg.com/news/features/2025-12-26/trump-s-pardon-of-honduras-former-president-rewrites-a-landmark-us-drug-case)
+
 ## Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment
 *Date: 2025-12-02*
 
@@ -25508,6 +25536,13 @@
 5. [Breaking down Trump's 2025 National Security Strategy](https://www.brookings.edu/articles/breaking-down-trumps-2025-national-security-strategy/)
 6. [Unpacking a Trump Twist of the National Security Strategy](https://www.cfr.org/expert-brief/unpacking-trump-twist-national-security-strategy)
 
+## Trump National Security Strategy Revives Monroe Doctrine, Shifts Focus from Europe to Western Hemisphere
+*Date: 2025-12-04*
+
+1. [White House calls strategy Trumps version of the Monroe Doctrine](https://www.npr.org/2025/12/09/nx-s1-5633261/white-house-calls-national-security-strategy-trumps-version-of-the-monroe-doctrine)
+2. [Breaking down Trumps 2025 National Security Strategy](https://www.brookings.edu/articles/breaking-down-trumps-2025-national-security-strategy/)
+3. [Ten Jolting Takeaways from Trumps New National Security Strategy](https://warontherocks.com/2025/12/ten-jolting-takeaways-from-trumps-new-national-security-strategy/)
+
 ## Trump Reduces Work Permit Validity to 18 Months Citing Single DC Shooting
 *Date: 2025-12-04*
 
@@ -25546,6 +25581,13 @@
 4. [CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns](https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/)
 5. [CDC advisory panel rolls back hepatitis B vaccine guidelines](https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482)
 6. [ACIP Recommends Individual-Based Decision-Making for Hepatitis B Vaccine for Infants](https://www.cdc.gov/media/releases/2025/2025-acip-recommends-individual-based-decision-making-for-hepatitis-b-vaccine-for-infants-born-to-women.html)
+
+## Federal Courts in Three States Block ICE Warrantless Arrests as Unconstitutional
+*Date: 2025-12-05*
+
+1. [Colorado judge rules immigration agents must stop warrantless arrests](https://www.npr.org/2025/12/05/nx-s1-5627491/colorado-judge-rules-that-immigration-agents-must-stop-warrantless-arrests)
+2. [Federal judge restricts warrantless immigration arrests in DC](https://www.axios.com/2025/12/03/warrantless-immigration-arrests-dc-beryl-howell-ruling)
+3. [Federal Judge Extends Consent Decree Prohibiting ICE Warrantless Arrests](https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/)
 
 ## Federal Judge Orders Release of Epstein Grand Jury Materials from 2005-2007 Florida Investigations
 *Date: 2025-12-05*
@@ -25733,6 +25775,12 @@
 3. [Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey](https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba)
 4. [Former Trump lawyer Alina Habba resigns as New Jersey U.S. attorney after disqualification](https://www.cnbc.com/2025/12/08/trump-alina-habba-new-jersey-prosecutor.html)
 
+## Former DOJ Staff Say Civil Rights Division Destroyed as Administration Eliminates Disparate Impact Doctrine
+*Date: 2025-12-09*
+
+1. [Former US Justice Department staff says civil rights division destroyed](https://www.aljazeera.com/news/2025/12/9/former-us-justice-department-staff-says-civil-rights-division-destroyed)
+2. [Trumps Attempt to Roll Back Key Civil Rights Enforcement Tool](https://www.aclu.org/news/racial-justice/trumps-attempt-to-roll-back-key-civil-rights-enforcement-tool)
+
 ## Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
 *Date: 2025-12-09*
 
@@ -25772,6 +25820,12 @@
 3. [Who is Lindsey Halligan, prosecutor in Comey, James cases?](https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james)
 4. [Editorial: Eastern District deserves a lawfully appointed, professional prosecutor](https://www.dailypress.com/2025/12/09/editorial-eastern-district-deserves-a-lawfully-appointed-professional-prosecutor/)
 
+## FAA Administrator Bedford Violates Ethics Agreement, Holds Up to $30 Million in Airline Stock
+*Date: 2025-12-10*
+
+1. [FAA Chief Appears to Still Hold Airline Stock, Cantwell Says](https://www.bloomberg.com/news/articles/2025-12-10/faa-chief-appears-to-still-hold-airline-stock-cantwell-says)
+2. [FAA Administrator Bedford in Violation of Ethics Agreement](https://www.commerce.senate.gov/2025/12/faa-administrator-bedford-in-violation-of-ethics-agreement-potentially-holds-millions-in-republic-airways-stock-months-after-confirmation-committee)
+
 ## Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount
 *Date: 2025-12-10*
 
@@ -25786,6 +25840,19 @@
 2. [Democrats lambaste Noem, demand she resign at combative congressional hearing](https://www.washingtonpost.com/immigration/2025/12/11/noem-dhs-congress-house-hearing/)
 3. [Moulton Introduces the NOEM Act to Hold ICE Officers Accountable for Constitutional Violations](https://moulton.house.gov/news/press-releases/moulton-introduces-noem-act-hold-ice-officers-accountable-constitutional)
 
+## Senator Calls for Insider Trading Investigation After Venture Global Executives Buy $24M in Stock Before DOE License
+*Date: 2025-12-11*
+
+1. [US Senator Calls for Insider Trading Investigation Into Trump Donors After $12M Share Purchases](https://thedailyadda.com/2025/12/11/us-senator-calls-for-insider-trading-investigation-into-trump-donors-after-12m-share-purchases/)
+2. [Energy Department Approves Final Export Authorization for Venture Global CP2 LNG](https://www.energy.gov/articles/energy-department-approves-final-export-authorization-venture-global-cp2-lng)
+
+## AI Czar David Sacks Holds 700+ Private AI Investments While Shaping Federal Tech Policy
+*Date: 2025-12-12*
+
+1. [Trump tech adviser David Sacks under fire over vast AI investments](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts)
+2. [Trumps SF AI and Crypto Czar David Sacks Apparently Enriching Himself](https://sfist.com/2025/12/01/trumps-sf-ai-and-crypto-czar-david-sacks-apparently-enriching-himself-and-his-friends-in-white-house-role/)
+3. [Elizabeth Warren Wants To Probe Trumps Crypto Czar](https://www.benzinga.com/crypto/cryptocurrency/25/09/47837070/elizabeth-warren-wants-to-probe-trumps-crypto-czar-and-how-david-sacks-is-overstaying-his-1)
+
 ## DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses
 *Date: 2025-12-12*
 
@@ -25794,6 +25861,20 @@
 3. [Justice Department sues Mass., 17 other states for access to detailed voter data](https://www.wgbh.org/news/national/2025-12-12/justice-department-sues-mass-17-other-states-for-access-to-detailed-voter-data)
 4. [Tracker of Justice Department Requests for Voter Information](https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information)
 5. [ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data](https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data)
+
+## Seven Die in ICE Custody in December, Four Within Four Days, Deadliest Year Since 2004
+*Date: 2025-12-15*
+
+1. [Seven Immigrants Die in ICE Custody in December](https://www.notus.org/immigration/ice-detention-deaths-december-2025)
+2. [2025 is the deadliest year to be in ICE custody in decades](https://www.npr.org/2025/10/23/nx-s1-5538090/ice-detention-custody-immigration-arrest-enforcement-dhs-trump)
+3. [Deaths of four ICE detainees in four days](https://www.washingtonpost.com/immigration/2025/12/20/ice-detainee-deaths/)
+
+## CDC Adopts RFK Jr Panel Recommendation Reversing 30-Year Hepatitis B Vaccine Policy
+*Date: 2025-12-16*
+
+1. [CDC panel overhauled by RFK Jr changes childhood vaccine recommendations](https://www.pbs.org/newshour/show/cdc-panel-overhauled-by-rfk-jr-changes-childhood-vaccine-recommendations)
+2. [RFK Jrs vaccine panel weakens recommendation on hepatitis B shot](https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html)
+3. [Trump orders review of childhood vaccine schedule](https://www.washingtonpost.com/health/2025/12/05/acip-childhood-immunization-schedule-hepatitis-b/)
 
 ## House Judiciary Subcommittee Hearing Exposes How Trump Administration Corrupted DOJ Antitrust Enforcement Through Pay-to-Play Schemes and Political Interference
 *Date: 2025-12-16*
@@ -25828,6 +25909,12 @@
 5. [House passes GOP health care bill that doesn't extend ACA subsidies](https://abcnews.go.com/Politics/moderate-republicans-buck-leadership-back-democrat-effort-extend/story?id=128485292)
 6. [GOP centrists push Democratic ObamaCare discharge petition to 218-signature threshold](https://thehill.com/homenews/house/5652673-gop-centrists-democratic-obamacare-discharge-petition/)
 7. [Leader Jeffries on MS NOW: We Should Not Leave Town Until We Vote on Extending the ACA Tax Credits](https://democraticleader.house.gov/media/press-releases/leader-jeffries-ms-now-we-should-not-leave-town-until-we-vote-extending-aca)
+
+## ACLU Sues ICE for First Amendment Violations Against Observers in Minnesota Raids
+*Date: 2025-12-17*
+
+1. [ACLU of Minnesota sues ICE DHS over constitutional violations against observers](https://www.courthousenews.com/aclu-of-minnesota-sues-ice-dhs-over-constitutional-violations-against-observers/)
+2. [ACLU takes legal action against ICE in Minnesota](https://sahanjournal.com/immigration/ice-minnesota-aclu-lawsuit-observer-rights/)
 
 ## Senate Passes $901 Billion Defense Bill with Unprecedented Oversight Provisions Targeting Hegseth
 *Date: 2025-12-17*
@@ -25946,6 +26033,33 @@
 1. [FBI email asks about status of 10 Epstein co-conspirators](https://www.cbsnews.com/news/epstein-fbi-email-coconspirators/)
 2. [Epstein files reveal FBI tracked 10 co-conspirators](https://www.nbcnews.com/news/us-news/epstein-fbi-coconspirators-email-rcna238500)
 
+## Federal Judge Orders Due Process for 252 Venezuelans Sent to El Salvadors CECOT Prison
+*Date: 2025-12-22*
+
+1. [Federal judge says US must give due process to deported Venezuelans](https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case)
+2. [US sent 238 migrants to Salvadoran mega-prison](https://www.cbsnews.com/news/what-records-show-about-migrants-sent-to-salvadoran-prison-60-minutes-transcript/)
+3. [US Government Illegally Detains Father in Notorious Salvadoran Prison](https://www.americanimmigrationcouncil.org/press-release/us-government-illegally-detains-father-two-notorious-salvadoran-prison/)
+
+## Venezuela Naval Blockade Kills 105 in 29 Strikes as Trump Refuses to Rule Out War
+*Date: 2025-12-22*
+
+1. [Trump not ruling out war with Venezuela](https://www.nbcnews.com/politics/donald-trump/trump-not-ruling-war-venezuela-rcna250012)
+2. [Trump warns Maduro not to play tough as China Russia back Venezuela](https://www.aljazeera.com/news/2025/12/23/trump-warns-maduro-not-to-play-tough-as-china-russia-back-venezuela)
+3. [Trump faces narrowing options on Venezuela](https://www.washingtonpost.com/national-security/2025/12/21/trump-venezuela-boat-strikes-oil-maduro/)
+
+## Epstein Files Reveal Larry Summers and Jes Staley Named as Estate Executors
+*Date: 2025-12-23*
+
+1. [Epstein Once Appointed Staley, Summers Executors of His Will](https://www.bloomberg.com/news/articles/2025-12-23/epstein-once-appointed-staley-summers-executors-of-his-will)
+2. [Summers Named Successor Executor in Epstein Will](https://www.thecrimson.com/article/2025/12/22/summers-epstein-will/)
+
+## Epstein Files Reveal Trump Flew on Epstein Jet At Least 8 Times, Prosecutors Knew in 2020
+*Date: 2025-12-23*
+
+1. [Justice Department releases more Epstein files mentioning Trump](https://www.npr.org/2025/12/23/nx-s1-5653302/more-epstein-files-released-trump-mentioned)
+2. [What the latest Epstein files release reveals and where Trump is mentioned](https://www.pbs.org/newshour/show/what-the-latest-epstein-files-release-reveals-and-where-trump-is-mentioned)
+3. [New Epstein files release includes Trump mentions](https://www.axios.com/2025/12/23/doj-new-epstein-files-trump)
+
 ## Ghislaine Maxwell Files Pro Se Motion to Vacate Conviction Citing Named Co-Conspirators
 *Date: 2025-12-23*
 
@@ -25963,7 +26077,21 @@
 6. [Regular Forces and the Insurrection Act](https://www.stevevladeck.com/p/187-regular-forces-and-the-insurrection)
 7. [25A443 Trump v. Illinois](https://www.supremecourt.gov/opinions/25pdf/25a443_ba7d.pdf)
 
+## 12 Bipartisan Senators Demand Inspector General Audit of DOJ Epstein Files Compliance
+*Date: 2025-12-24*
+
+1. [Senators call for audit into DOJs release of Epstein files](https://www.cnbc.com/2025/12/24/epstein-files-senators-call-for-audit-into-dojs-release.html)
+2. [Senators urge DOJ watchdog to audit slow release of Epstein files](https://www.pbs.org/newshour/nation/senators-urge-doj-watchdog-to-audit-slow-release-of-epstein-files)
+3. [Blumenthal Murkowski Merkley Lead Call for Inspector General Audit](https://www.merkley.senate.gov/blumenthal-murkowski-merkley-lead-call-for-inspector-general-audit-following-dojs-failure-to-release-the-full-epstein-files-as-demanded-by-survivors-required-by-law/)
+
 ## US Launches Christmas Day Strikes on Nigerian Villages, ISIS Claims Questioned by Residents and Analysts
 *Date: 2025-12-25*
 
 1. [US strikes in Nigeria raise questions about targeting and coordination](https://www.ft.com/content/99d23e21-1ca4-4dbc-819d-90449d0040ba)
+
+## Trump and Zelensky Meet at Mar-a-Lago, Claim 90 Percent of Ukraine Peace Plan Agreed
+*Date: 2025-12-28*
+
+1. [Zelensky and Trump to meet in Florida for peace plan talks](https://www.cnn.com/2025/12/28/politics/zelensky-trump-meeting-peace-plan)
+2. [Trump says Russia and Ukraine are maybe very close to peace deal](https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago-peace-talks-president/story?id=128736611)
+3. [The US offers Ukraine a 15-year security guarantee](https://www.npr.org/2025/12/29/g-s1-103906/ukraine-russia-trump-zelenskyy-security)

@@ -166147,6 +166147,56 @@
       "_id_hash": "2456dcc2924503a10f265ef89c7d6f84553a6705c00478d9620412c1faa3af1f"
     },
     {
+      "id": "2025-09-02--hegseth-kill-them-all-order-boat-strikes-87-dead",
+      "date": "2025-09-02",
+      "title": "Hegseth Allegedly Orders Kill Them All Before Boat Strike, 87 Dead in Caribbean Drug War Campaign",
+      "importance": 10,
+      "actors": [
+        "Pete Hegseth",
+        "Stephen Miller",
+        "Department of Defense",
+        "U.S. Navy",
+        "Adam Smith"
+      ],
+      "tags": [
+        "war-crimes",
+        "military",
+        "drug-war",
+        "venezuela",
+        "caribbean",
+        "executive-overreach",
+        "hegseth"
+      ],
+      "sources": [
+        {
+          "title": "Hegseth order on first Caribbean boat strike, officials say - Kill them all",
+          "url": "https://www.washingtonpost.com/national-security/2025/11/28/hegseth-kill-them-all-survivors-boat-strike/",
+          "outlet": "Washington Post",
+          "tier": 1
+        },
+        {
+          "title": "Navy admiral tells lawmakers there was no kill all order from Hegseth",
+          "url": "https://www.pbs.org/newshour/politics/who-is-adm-bradley-lawmakers-will-hear-from-navy-admiral-who-reportedly-ordered-attack-that-killed-boat-strike-survivors",
+          "outlet": "PBS NewsHour",
+          "tier": 1
+        },
+        {
+          "title": "White House defends strikes on boat survivors",
+          "url": "https://www.npr.org/2025/12/02/nx-s1-5628308/trump-hegseth-boat-strikes",
+          "outlet": "NPR",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "executive-overreach",
+        "military-industrial-complex"
+      ],
+      "summary": "Defense Secretary Pete Hegseth allegedly issues a verbal \"kill them all\" order before a September 2 strike on a suspected drug boat in the Caribbean. The first strike kills 9 of 11 people aboard. Approximately 40 minutes later, a second strike is ordered to kill the two survivors clinging to wreckage. In total, at least 87 people have been killed in 22 vessel strikes as part of the Trump administration's Caribbean drug interdiction campaign.\n\nRep. Adam Smith describes the survivors as \"basically two shirtless people clinging to the bow of a capsized and inoperable boat\" before missiles killed them. Congressional Democrats are investigating whether the attacks constitute war crimes. Hegseth denies giving a specific \"kill order\" but states he \"fully support[s] that strike.\"\n\nStephen Miller, as architect of the administration's border and drug policies, reportedly pushed for military strikes against cartels. The Washington Post reports Miller and other senior officials \"were looking for a fight\" and his \"hard-line Mexico strategy morphed into deadly boat strikes.\"\n\nLawmakers have not specifically authorized military force against alleged drug boats. The Pentagon refuses to release video footage of the strikes. The campaign represents an unprecedented use of military force in drug interdiction without congressional authorization, potentially violating both domestic law and international humanitarian law regarding the treatment of shipwreck survivors.",
+      "_file": "2025-09-02--hegseth-kill-them-all-order-boat-strikes-87-dead.md",
+      "_id_hash": "53436c89703e8a0cc598bb8c6111eae53983cd49edd216275cd4add077ed4124"
+    },
+    {
       "id": "2025-09-02--ice-paragon-spyware-contract-encryption",
       "date": "2025-09-02",
       "title": "ICE Reactivates $2M Paragon Spyware Contract for WhatsApp, Signal Encryption Breaking",
@@ -178608,6 +178658,148 @@
       "_id_hash": "3883a106a6017287399b08587dab7550aede5a4bed6e67a74bee993c9ebe67c0"
     },
     {
+      "id": "2025-12-01--billionaire-cabinet-390-billion-wealth-oligarchy",
+      "date": "2025-12-01",
+      "title": "Trump Cabinet Includes 12 Billionaires Worth $390 Billion, Wealthiest Administration in History",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Elon Musk",
+        "Trump Administration"
+      ],
+      "tags": [
+        "oligarchy",
+        "billionaires",
+        "cabinet",
+        "wealth-inequality",
+        "corruption",
+        "plutocracy"
+      ],
+      "sources": [
+        {
+          "title": "Meet the Trump administrations 12 billionaires",
+          "url": "https://www.washingtonpost.com/politics/interactive/2025/trump-white-house-billionaires-musk/",
+          "outlet": "Washington Post",
+          "tier": 1
+        },
+        {
+          "title": "Trumps Billionaire Cabinet Represents the Top 0.0001 Percent",
+          "url": "https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/",
+          "outlet": "Public Citizen",
+          "tier": 2
+        },
+        {
+          "title": "Trump Has Stuffed His Cabinet With Oligarchs",
+          "url": "https://truthout.org/articles/trump-has-stuffed-his-cabinet-with-oligarchs-poised-to-govern-for-their-profit/",
+          "outlet": "Truthout",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "oligarchy",
+        "institutional-capture"
+      ],
+      "summary": "At least 12 billionaires hold formal Trump administration roles with a combined net worth of approximately $390 billion, making it the wealthiest White House in modern history. The group includes Elon Musk (the world's richest person, who spent $294 million on the 2024 election), the owner of the Houston Rockets, and the former CEO of World Wrestling Entertainment.\n\nFor comparison, Biden's cabinet had a combined net worth of $118 million—more than a thousand times less than Trump's billionaire appointees. Even excluding Musk, Trump's 2025 cabinet far exceeds his first term cabinet's $3.2 billion in wealth, which was itself a previous record.\n\nCritics describe this as \"a more blatant and transparent form of oligarchy—rule by the super-rich.\" The pattern demonstrates wealth converting directly to political power and policy control. Billionaires who contributed hundreds of millions to Trump's election now hold positions where they shape policies affecting their business interests.\n\nThe concentration of extreme wealth in positions of government power—with individuals whose personal fortunes exceed the GDP of many countries now making regulatory and policy decisions—represents a fundamental transformation of American governance into what observers call \"oligarchic rule.\"",
+      "_file": "2025-12-01--billionaire-cabinet-390-billion-wealth-oligarchy.md",
+      "_id_hash": "d17190f5a681aa25fae3408fb05b2e9bd14cbba38158f94cbdeb6a645255e4a3"
+    },
+    {
+      "id": "2025-12-01--corporate-enforcement-collapse-100-plus-cases-dropped",
+      "date": "2025-12-01",
+      "title": "Trump Administration Drops 100+ Corporate Enforcement Actions, Penalties Fall 97 Percent",
+      "importance": 9,
+      "actors": [
+        "Trump Administration",
+        "Department of Justice",
+        "SEC",
+        "FTC"
+      ],
+      "tags": [
+        "corporate-impunity",
+        "regulatory-capture",
+        "enforcement-collapse",
+        "corruption",
+        "pay-to-play"
+      ],
+      "sources": [
+        {
+          "title": "Trumps 100 Days of Oligarchy and Conflicts of Interest",
+          "url": "https://www.citizen.org/news/trumps-100-days-of-oligarchy-corruption-and-conflicts-of-interest/",
+          "outlet": "Public Citizen",
+          "tier": 2
+        },
+        {
+          "title": "US financial regulatory enforcement plummets under Trump",
+          "url": "https://www.wolterskluwer.com/en/expert-insights/us-financial-regulatory-enforcement-plummets-under-trump-report-finds",
+          "outlet": "Wolters Kluwer",
+          "tier": 2
+        },
+        {
+          "title": "100 Days of Corruption Oversight Democrats Highlight 100 Conflicts of Interest",
+          "url": "https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest",
+          "outlet": "House Oversight Democrats",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "regulatory-capture",
+        "corporate-impunity"
+      ],
+      "summary": "The Trump administration has dropped, withdrawn, or halted enforcement actions against over 100 corporations in its first year, establishing a systematic pattern of protection for companies that donated to Trump's inauguration. Regulatory enforcement against financial services fell 37% in the first half of 2025, with monetary penalties dropping 32%. Financial penalties for competition and antitrust violations fell 97%.\n\nCorporations facing federal enforcement actions donated at least $50 million to Trump's inauguration. Key examples include: Crypto.com withdrew from an SEC lawsuit after donating $1 million to the inauguration, with the SEC probe ended in March 2025 and the company subsequently announcing a $1 billion Trump media deal. Apple CEO Tim Cook donated $1 million and Trump lifted tariffs on Chinese electronics including many Apple products. Turkish businessman Ismail Terlemez, arrested in Belgium for a NATO contract bribery scheme in May, saw all DOJ charges dropped in July.\n\nOn February 10, Trump ordered a 180-day pause on all Foreign Corrupt Practices Act enforcement—the primary tool for prosecuting corporate overseas bribery. The DOJ's Office of Public Integrity, which handles public corruption cases, is being slashed in half. Treasury suspended the Corporate Transparency Act in March, reopening the door to shell companies and dirty money.\n\nThe pattern establishes clear quid pro quo: corporations under investigation donate to Trump, investigations are dropped or favorable policy changes occur. Law enforcement has become a protection racket benefiting donors.",
+      "_file": "2025-12-01--corporate-enforcement-collapse-100-plus-cases-dropped.md",
+      "_id_hash": "9a0850fbd21d883b8482b65f0f90007468e6decec948ab2df3ec38270877ac71"
+    },
+    {
+      "id": "2025-12-01--trump-pardons-honduras-president-hernandez-400-tons-cocaine",
+      "date": "2025-12-01",
+      "title": "Trump Pardons Former Honduras President Hernandez, Convicted of Trafficking 400 Tons of Cocaine to US",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Juan Orlando Hernandez",
+        "Roger Stone",
+        "Joaquin El Chapo Guzman"
+      ],
+      "tags": [
+        "pardons",
+        "drug-trafficking",
+        "corruption",
+        "honduras",
+        "clemency-abuse",
+        "roger-stone"
+      ],
+      "sources": [
+        {
+          "title": "Trump formally pardons former Honduran President Juan Orlando Hernandez",
+          "url": "https://www.cnn.com/2025/12/02/politics/juan-orlando-hernandez-pardon",
+          "outlet": "CNN",
+          "tier": 1
+        },
+        {
+          "title": "Examining Trumps Pardon of Former Honduran President Convicted of Trafficking Drugs to US",
+          "url": "https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/",
+          "outlet": "FactCheck.org",
+          "tier": 1
+        },
+        {
+          "title": "Trumps Pardon of Honduras Former President Rewrites a Landmark US Drug Case",
+          "url": "https://www.bloomberg.com/news/features/2025-12-26/trump-s-pardon-of-honduras-former-president-rewrites-a-landmark-us-drug-case",
+          "outlet": "Bloomberg",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "clemency-abuse",
+        "corruption"
+      ],
+      "summary": "President Trump grants a full pardon to former Honduran President Juan Orlando Hernández, who had been convicted in U.S. federal court of conspiring to traffic more than 400 tons of cocaine into the United States and sentenced to 45 years in prison. Hernández received bribes from drug traffickers including Joaquín \"El Chapo\" Guzmán of the Sinaloa Cartel.\n\nTrump claimed without evidence that the prosecution was a \"Biden setup.\" The pardon was secured through a letter praising Trump and lobbying by Roger Stone, the longtime Trump advisor previously pardoned by Trump in his first term.\n\nBipartisan lawmakers criticized the pardon as contradicting U.S. anti-drug trafficking efforts. Honduras sought to arrest Hernández upon his release to face domestic charges. The DEA and federal prosecutors had worked for years to build the case against Hernández, gathering evidence of his protection of cocaine shipments and receipt of millions in cartel bribes.\n\nA House Judiciary Committee report found Trump's second-term pardons have wiped out over $1.3 billion in restitution and fines, undermining accountability to victims. Of approximately 10,000 pardon petitions filed in 2025, only 10 ordinary people have been granted clemency—demonstrating the pardon power is being used for political allies and those with lobbying connections, not justice.",
+      "_file": "2025-12-01--trump-pardons-honduras-president-hernandez-400-tons-cocaine.md",
+      "_id_hash": "3cd91b9b613154628e7aad0ad260f9aac77fd671440b48c76a13cb5abc829dcf"
+    },
+    {
       "id": "2025-12-02--dell-family-6-billion-trump-accounts-election-year-payout",
       "date": "2025-12-02",
       "title": "Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment",
@@ -181379,6 +181571,52 @@
       "_id_hash": "89c832075acdfac0e4c4a04eb229c0bd4a6f4004c4e882e6bc5b663301985b91"
     },
     {
+      "id": "2025-12-04--trump-national-security-strategy-monroe-doctrine-revival",
+      "date": "2025-12-04",
+      "title": "Trump National Security Strategy Revives Monroe Doctrine, Shifts Focus from Europe to Western Hemisphere",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Trump Administration",
+        "European Union"
+      ],
+      "tags": [
+        "national-security",
+        "monroe-doctrine",
+        "foreign-policy",
+        "latin-america",
+        "europe",
+        "nato"
+      ],
+      "sources": [
+        {
+          "title": "White House calls strategy Trumps version of the Monroe Doctrine",
+          "url": "https://www.npr.org/2025/12/09/nx-s1-5633261/white-house-calls-national-security-strategy-trumps-version-of-the-monroe-doctrine",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "Breaking down Trumps 2025 National Security Strategy",
+          "url": "https://www.brookings.edu/articles/breaking-down-trumps-2025-national-security-strategy/",
+          "outlet": "Brookings Institution",
+          "tier": 1
+        },
+        {
+          "title": "Ten Jolting Takeaways from Trumps New National Security Strategy",
+          "url": "https://warontherocks.com/2025/12/ten-jolting-takeaways-from-trumps-new-national-security-strategy/",
+          "outlet": "War on the Rocks",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "foreign-policy"
+      ],
+      "summary": "The Trump administration releases its National Security Strategy articulating a \"Trump Corollary\" to the Monroe Doctrine, fundamentally reorienting US strategic priorities away from Europe and toward the Western Hemisphere.\n\nThe strategy declares the Western Hemisphere as the top US security priority and pledges to \"deny non-Hemispheric competitors the ability to position forces or other threatening capabilities\" in the Americas. It calls for shifting US military assets to the Western Hemisphere \"away from theatres whose relative import to American national security has declined\"—a clear reference to Europe.\n\nThe document identifies three hemispheric threats: migration, drugs/crime, and China. It sharply criticizes European allies for their migration and free speech policies, warning they face the \"prospect of civilizational erasure.\" French analyst Sylvie Matelly described the Europe section as \"three pages full of vitriol.\"\n\nEU leader Costa acknowledged a \"changed relationship\" between the US and Europe following the strategy's release. The document provides intellectual justification for the administration's aggressive actions in Venezuela, military strikes in the Caribbean, and pressure on Canada, Greenland, and Panama.\n\nThe strategy also labels internal bureaucratic resistance as \"subversion\" linked to foreign powers, alleging \"ideological infiltration\" and \"institutional capture\" are mechanisms of \"strategic psychological warfare\"—providing justification for purging career civil servants as national security threats.",
+      "_file": "2025-12-04--trump-national-security-strategy-monroe-doctrine-revival.md",
+      "_id_hash": "f6b7e82e574ae64dfceeae833dda1d3d3471ccb7b95c9e2c4037ff1e6d461dfc"
+    },
+    {
       "id": "2025-12-04--trump-reduces-work-permit-validity-collective-punishment",
       "date": "2025-12-04",
       "title": "Trump Reduces Work Permit Validity to 18 Months Citing Single DC Shooting",
@@ -181697,6 +181935,53 @@
       "summary": "The CDC's Advisory Committee on Immunization Practices (ACIP) votes 8-3 to end the universal recommendation that all newborns receive hepatitis B vaccination at birth, reversing a 34-year policy that reduced pediatric hepatitis B infections by 99%. The committee, entirely reconstituted by HHS Secretary Robert F. Kennedy Jr. after he fired all 17 sitting members in June 2025, recommends \"individual-based decision-making\" for infants born to mothers who test negative for the virus, with delayed vaccination until at least 2 months of age.\n\nThe policy change represents the most significant rollback of childhood vaccination recommendations in modern U.S. public health history. Before universal birth-dose vaccination began in 1991, approximately 20,000 newborns contracted hepatitis B annually; that number has fallen to fewer than 20 per year. Medical data shows that 90% of infants infected with hepatitis B develop chronic infection, with approximately 25% dying prematurely from liver complications including cirrhosis and liver cancer.\n\nThe vote provokes unprecedented opposition from the medical community. American Academy of Pediatrics President Dr. Susan Kressly states the change \"makes children in America less safe\" and calls it \"irresponsible and purposely misleading guidance\" that will \"lead to more hepatitis B infections in infants and children.\" The AAP immediately instructs its 67,000 members to ignore ACIP's recommendation and continue vaccinating all newborns. Dr. Cody Meissner, the only panel member with prior ACIP service who voted against the change, warns: \"We are doing harm by changing this wording.\"\n\nAdditional medical organizations denouncing the change include the American College of Physicians, the Infectious Diseases Society of America, the American Association of Immunologists, and the Hepatitis B Foundation. Dr. Flor Munoz of IDSA asks: \"How can this committee justify removing a well established, successful and safe prevention strategy?\" Dr. Joseph Hibbeln criticizes that \"no rational science has been presented\" to justify the change. Dr. Stephen Patrick, a neonatologist at Children's Hospital of Atlanta, states: \"For the first time in my career, I am deeply concerned that I cannot fully rely on the CDC's recommendations.\"\n\nThe committee's stated rationale contradicts available evidence. PBS NewsHour fact-checking reveals that ACIP's claim that the U.S. is an \"outlier\" in recommending birth-dose vaccination is false: of 194 WHO member states, 116 recommend universal hepatitis B birth-dose vaccination. Committee members claim the change primarily affects \"low-risk\" populations, but the CDC estimates that approximately half of the 640,000 chronically infected American adults don't know they're infected, making exposure risk assessment unreliable. A 2019 study found that 57.9% of hepatitis B cases among newborns involved non-U.S.-born mothers from high-endemicity countries, but no enhanced screening measures were proposed to identify these cases.\n\nThe recommendation requires approval from acting CDC Director Jim O'Neill, a former investment executive without medical background, or from HHS Secretary Kennedy before becoming official policy. Senator Bill Cassidy urges O'Neill to reject the vote, calling it \"a mistake.\" O'Neill comments that \"The American people have benefited from the committee's well-informed, rigorous discussion,\" signaling likely approval.\n\nThe policy change reflects Kennedy's longstanding anti-vaccine ideology. As a vaccine skeptic who has promoted debunked theories linking vaccines to autism, Kennedy personally selected every ACIP member after firing the previous committee. The reconstituted panel includes individuals who have \"largely expressed skepticism of vaccines,\" according to NBC News. No new safety concerns, effectiveness issues, or changes in hepatitis B risk prompted the policy review; panel members cite parental concerns and the fact that \"it's been a long time\" since the recommendation was last reviewed.\n\nPublic health experts warn the change will reverse decades of progress. CDC analysis estimates that hepatitis B vaccination prevented over 6 million infections and nearly 1 million hospitalizations among children born between 1994-2023. Acute hepatitis B cases among children dropped 99% between 1990-2019. The American Association of Immunologists warns that \"even a modest delay could result in a substantial increase in preventable chronic infections, liver cancers, and deaths.\" Dr. Sean O'Leary, chair of AAP's Committee on Infectious Diseases, emphasizes: \"This is a situation where one missed case is too many.\"\n\nThe hepatitis B vaccine has \"one of the most well established safety records of any vaccine,\" according to the AAP. The virus spreads from mother to child during delivery and through microscopic blood exposure in everyday interactions. Infected infants face lifetime consequences: chronic hepatitis B infection leads to severe liver disease, cirrhosis, liver cancer, and premature death in approximately one-quarter of cases. Unlike adults, infants' immune systems cannot effectively clear the infection, resulting in the 90% chronic infection rate.\n\nMultiple states and medical organizations announce they will not follow the new guidance. New York State's Department of Health declares it will continue recommending birth-dose vaccination. The AAP's directive to ignore ACIP represents an extraordinary breach in the traditional relationship between federal health authorities and medical professional organizations, reflecting deep concern about political interference in public health decision-making.\n\nThe vote marks Kennedy's most extreme public health rollback since taking office as HHS Secretary, fundamentally undermining the CDC's credibility and the integrity of the vaccine advisory process. By reconstituting ACIP with vaccine skeptics and overturning evidence-based policies without scientific justification, the decision prioritizes anti-vaccine ideology over child safety and represents a dangerous precedent for politically-motivated erosion of public health protections.",
       "_file": "2025-12-05--cdc-ends-universal-hepatitis-b-infant-vaccination.md",
       "_id_hash": "72de21d4d7db8b35c31192ecc83ef55b0443ba564efd7499c378e27a4ca6bbd7"
+    },
+    {
+      "id": "2025-12-05--federal-courts-block-ice-warrantless-arrests-multiple-states",
+      "date": "2025-12-05",
+      "title": "Federal Courts in Three States Block ICE Warrantless Arrests as Unconstitutional",
+      "importance": 8,
+      "actors": [
+        "R. Brooke Jackson",
+        "Beryl Howell",
+        "Immigration and Customs Enforcement (ICE)",
+        "Stephen Miller"
+      ],
+      "tags": [
+        "fourth-amendment",
+        "warrantless-arrests",
+        "ice-enforcement",
+        "constitutional-violations",
+        "judicial-resistance"
+      ],
+      "sources": [
+        {
+          "title": "Colorado judge rules immigration agents must stop warrantless arrests",
+          "url": "https://www.npr.org/2025/12/05/nx-s1-5627491/colorado-judge-rules-that-immigration-agents-must-stop-warrantless-arrests",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "Federal judge restricts warrantless immigration arrests in DC",
+          "url": "https://www.axios.com/2025/12/03/warrantless-immigration-arrests-dc-beryl-howell-ruling",
+          "outlet": "Axios",
+          "tier": 1
+        },
+        {
+          "title": "Federal Judge Extends Consent Decree Prohibiting ICE Warrantless Arrests",
+          "url": "https://immigrantjustice.org/press-release/federal-judge-extends-consent-decree-prohibiting-ice-from-arresting-people-without-warrants-or-probable-cause/",
+          "outlet": "National Immigrant Justice Center",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "judicial-resistance",
+        "constitutional-crisis"
+      ],
+      "summary": "Federal judges in Colorado, Washington D.C., and Illinois issue rulings blocking ICE's systematic warrantless arrest practices as unconstitutional violations of the Fourth Amendment.\n\nIn Colorado, Judge R. Brooke Jackson issues a 66-page ruling declaring ICE \"routinely\" makes unlawful warrantless arrests, finding that mere presence in the U.S. without authorization is insufficient to justify warrantless arrest. He orders ICE to establish probable cause of flight risk before making arrests.\n\nIn Washington D.C., Judge Beryl Howell bars warrantless arrests without establishing probable cause of flight risk. Her ruling cites White House officials setting a 3,000 daily arrest quota and references Stephen Miller telling agents to \"just go out there and arrest\" people. Court documents show 943 arrests occurred in D.C. between August 7 and September 9 alone.\n\nIn Illinois, a judge extends the 2022 Castañon Nava consent decree through February 2, 2026, ordering release of people subjected to warrantless arrests and requiring ICE to retrain officers who violated the consent decree. Already 600 people have been ordered released for warrantless arrest violations.\n\nThe rulings reveal an administration prioritizing arrest quotas over constitutional rights. Multiple federal courts independently finding the same pattern of systematic Fourth Amendment violations demonstrates that the unconstitutional conduct is policy, not aberration.",
+      "_file": "2025-12-05--federal-courts-block-ice-warrantless-arrests-multiple-states.md",
+      "_id_hash": "298708a1d04d86167d15603dcc44f9b89bcc414cc3177b49ad2a0c9ea7834ec0"
     },
     {
       "id": "2025-12-05--florida-judge-orders-epstein-grand-jury-release",
@@ -183113,6 +183398,47 @@
       "_id_hash": "08f0fda3a2843eeda1a64a780d10894d972f0d7d99c6d392248b28d97ccc7b14"
     },
     {
+      "id": "2025-12-09--doj-civil-rights-division-destroyed-disparate-impact-eliminated",
+      "date": "2025-12-09",
+      "title": "Former DOJ Staff Say Civil Rights Division Destroyed as Administration Eliminates Disparate Impact Doctrine",
+      "importance": 9,
+      "actors": [
+        "Pam Bondi",
+        "Harmeet Dhillon",
+        "Department of Justice",
+        "Civil Rights Division"
+      ],
+      "tags": [
+        "civil-rights",
+        "doj-politicization",
+        "institutional-capture",
+        "discrimination",
+        "regulatory-rollback"
+      ],
+      "sources": [
+        {
+          "title": "Former US Justice Department staff says civil rights division destroyed",
+          "url": "https://www.aljazeera.com/news/2025/12/9/former-us-justice-department-staff-says-civil-rights-division-destroyed",
+          "outlet": "Al Jazeera",
+          "tier": 1
+        },
+        {
+          "title": "Trumps Attempt to Roll Back Key Civil Rights Enforcement Tool",
+          "url": "https://www.aclu.org/news/racial-justice/trumps-attempt-to-roll-back-key-civil-rights-enforcement-tool",
+          "outlet": "ACLU",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "institutional-capture",
+        "civil-rights-rollback"
+      ],
+      "summary": "Over 200 former DOJ employees sign a letter stating the Civil Rights Division has been \"destroyed\" and its mission turned \"upside down\" under the Trump administration. The letter coincides with the administration's formal elimination of the \"disparate impact\" test in civil rights enforcement—a decades-old legal standard used to prove discrimination in housing, lending, employment, education, and healthcare.\n\nThe disparate impact doctrine, established through decades of case law and regulation, allows plaintiffs to prove discrimination by showing policies have discriminatory effects even without proof of discriminatory intent. Its elimination makes it vastly harder to challenge systemic discrimination.\n\nThe rollback follows an April 2025 executive order directing agencies to eliminate disparate impact standards \"to the maximum degree\" across all sectors. Assistant Attorney General for Civil Rights Harmeet Dhillon oversaw the implementation, which effectively guts enforcement tools that have been central to civil rights law since the 1960s.\n\nThe Civil Rights Division has experienced a 75% attorney exodus under Dhillon's leadership. Reuters reported that two-thirds of the DOJ unit charged with defending administration policies in court have quit, with lawyers stating they could not defend policies that were \"not legally justifiable.\" The combination of policy destruction and personnel exodus represents a systematic dismantling of federal civil rights enforcement capacity.",
+      "_file": "2025-12-09--doj-civil-rights-division-destroyed-disparate-impact-eliminated.md",
+      "_id_hash": "0b91a1b51a66c90b2f164366cc2df7767384d70602e789904fb81e3dd999b7fc"
+    },
+    {
       "id": "2025-12-09--doj-eliminates-disparate-impact-civil-rights-protections",
       "date": "2025-12-09",
       "title": "Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination",
@@ -183387,6 +183713,49 @@
       "_id_hash": "1909dc8d801419926ea2fd4eb4efc05270462fdf8999dcfea5c04bb6836886b6"
     },
     {
+      "id": "2025-12-10--faa-administrator-bedford-ethics-violation-30-million-airline-stock",
+      "date": "2025-12-10",
+      "title": "FAA Administrator Bedford Violates Ethics Agreement, Holds Up to $30 Million in Airline Stock",
+      "importance": 8,
+      "actors": [
+        "Bryan Bedford",
+        "Maria Cantwell",
+        "Office of Government Ethics",
+        "Republic Airways",
+        "Mesa Air Group",
+        "FAA"
+      ],
+      "tags": [
+        "ethics-violations",
+        "regulatory-capture",
+        "conflicts-of-interest",
+        "aviation",
+        "trump-administration"
+      ],
+      "sources": [
+        {
+          "title": "FAA Chief Appears to Still Hold Airline Stock, Cantwell Says",
+          "url": "https://www.bloomberg.com/news/articles/2025-12-10/faa-chief-appears-to-still-hold-airline-stock-cantwell-says",
+          "outlet": "Bloomberg",
+          "tier": 1
+        },
+        {
+          "title": "FAA Administrator Bedford in Violation of Ethics Agreement",
+          "url": "https://www.commerce.senate.gov/2025/12/faa-administrator-bedford-in-violation-of-ethics-agreement-potentially-holds-millions-in-republic-airways-stock-months-after-confirmation-committee",
+          "outlet": "Senate Commerce Committee",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "regulatory-capture",
+        "conflicts-of-interest"
+      ],
+      "summary": "Senator Maria Cantwell reveals that FAA Administrator Bryan Bedford violated his ethics agreement by failing to divest up to $30 million in airline stock within the required 90-day deadline. Bedford, confirmed on July 9, 2025, was required to divest his Republic Airways Holdings stock by October 7, but financial disclosures show he had not done so.\n\nThe Office of Government Ethics denied Bedford's request to amend his ethics agreement on December 9, 2025, one day before Cantwell's disclosure. The violation is particularly egregious because the Republic-Mesa Air Group merger, announced November 25, 2025, nearly doubled the value of Bedford's stock holdings while he serves as the regulator overseeing the merger and the broader aviation industry.\n\nBedford previously served as CEO of Republic Airways, creating a textbook regulatory capture scenario: the former airline executive now regulates his former company while maintaining a multimillion-dollar financial stake in its success. The aviation industry he is supposed to regulate can directly enrich him through stock appreciation.\n\nThis represents the broader pattern of Trump administration officials maintaining financial conflicts with the industries they oversee, enabled by the February 2025 firing of OGE Director David Huitema which eliminated independent ethics oversight.",
+      "_file": "2025-12-10--faa-administrator-bedford-ethics-violation-30-million-airline-stock.md",
+      "_id_hash": "55d987663c2769027ba3919cdd2688b250217c87c745497dd8f1dedea059dcda"
+    },
+    {
       "id": "2025-12-10--netflix-warner-antitrust-intervention",
       "date": "2025-12-10",
       "title": "Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount",
@@ -183488,6 +183857,97 @@
       "_id_hash": "3d05d038d846ce63e81eac24807d7a904e216a99468e3b26d431ee6d85d0b903"
     },
     {
+      "id": "2025-12-11--venture-global-insider-trading-investigation-called-trump-donors",
+      "date": "2025-12-11",
+      "title": "Senator Calls for Insider Trading Investigation After Venture Global Executives Buy $24M in Stock Before DOE License",
+      "importance": 8,
+      "actors": [
+        "Robert Pender",
+        "Michael Sabel",
+        "Chris Wright",
+        "Venture Global LNG",
+        "Department of Energy"
+      ],
+      "tags": [
+        "insider-trading",
+        "regulatory-capture",
+        "energy",
+        "trump-donors",
+        "corruption",
+        "lng"
+      ],
+      "sources": [
+        {
+          "title": "US Senator Calls for Insider Trading Investigation Into Trump Donors After $12M Share Purchases",
+          "url": "https://thedailyadda.com/2025/12/11/us-senator-calls-for-insider-trading-investigation-into-trump-donors-after-12m-share-purchases/",
+          "outlet": "The Daily Adda",
+          "tier": 2
+        },
+        {
+          "title": "Energy Department Approves Final Export Authorization for Venture Global CP2 LNG",
+          "url": "https://www.energy.gov/articles/energy-department-approves-final-export-authorization-venture-global-cp2-lng",
+          "outlet": "Department of Energy",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "regulatory-capture",
+        "corruption"
+      ],
+      "summary": "A Democratic senator calls for an insider trading investigation into two billionaire co-chairs of Venture Global LNG after they purchased approximately $12 million in company shares each in March 2025—just days after meeting with Trump administration officials including Energy Secretary Chris Wright. Shortly thereafter, the Department of Energy granted the company an export license essential for its European expansion plans.\n\nRobert Pender and Michael Sabel's combined $24 million stock purchase, made with apparent knowledge of the pending regulatory decision, represents a potential securities violation. The timing suggests the executives may have had nonpublic information about the favorable DOE decision when making their purchases.\n\nVenture Global donated $1 million to Trump's inauguration, and individuals connected to the company spent $810,000 on lobbying in 2025—a twelve-fold increase from their previous high. The pattern suggests a pay-to-play arrangement: inauguration donations and lobbying expenditures leading to regulatory approvals that enrich company executives.\n\nThe case exemplifies how the Trump administration's regulatory apparatus appears to function as a mechanism for enriching political supporters, with company executives positioned to profit from favorable decisions they help secure through political contributions and access.",
+      "_file": "2025-12-11--venture-global-insider-trading-investigation-called-trump-donors.md",
+      "_id_hash": "13587fd5024eaab090042cf19c17c404eb2309a9a528a4c130965370ef5ca6a4"
+    },
+    {
+      "id": "2025-12-12--david-sacks-700-ai-investments-while-setting-federal-policy",
+      "date": "2025-12-12",
+      "title": "AI Czar David Sacks Holds 700+ Private AI Investments While Shaping Federal Tech Policy",
+      "importance": 9,
+      "actors": [
+        "David Sacks",
+        "Elizabeth Warren",
+        "Craft Ventures",
+        "BitGo"
+      ],
+      "tags": [
+        "conflicts-of-interest",
+        "regulatory-capture",
+        "artificial-intelligence",
+        "crypto",
+        "tech-policy",
+        "corruption"
+      ],
+      "sources": [
+        {
+          "title": "Trump tech adviser David Sacks under fire over vast AI investments",
+          "url": "https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "Trumps SF AI and Crypto Czar David Sacks Apparently Enriching Himself",
+          "url": "https://sfist.com/2025/12/01/trumps-sf-ai-and-crypto-czar-david-sacks-apparently-enriching-himself-and-his-friends-in-white-house-role/",
+          "outlet": "SFist",
+          "tier": 2
+        },
+        {
+          "title": "Elizabeth Warren Wants To Probe Trumps Crypto Czar",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/25/09/47837070/elizabeth-warren-wants-to-probe-trumps-crypto-czar-and-how-david-sacks-is-overstaying-his-1",
+          "outlet": "Benzinga",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "regulatory-capture",
+        "conflicts-of-interest"
+      ],
+      "summary": "White House AI and Crypto Czar David Sacks is shaping federal technology policy while holding more than 700 private investments, including hundreds in AI companies. The New York Times found Sacks remains invested in 449 companies with AI products through his venture capital firm Craft Ventures.\n\nSacks received financial conflict of interest waivers from the White House allowing him to work on policy affecting his investments. Critics say the waivers grant \"carte blanche\" to violate conflict of interest statutes. His firm Craft Ventures invested in crypto company BitGo, which benefited from the GENIUS Act that Sacks backed. After the legislation passed, BitGo filed for an IPO.\n\nSacks has weakened national security controls on chip exports and brokered a UAE AI deal while maintaining financial stakes in affected industries. Senator Elizabeth Warren is investigating whether Sacks exceeded his 130-day term limit as a special government employee, which would subject him to stricter ethics requirements.\n\nThe arrangement represents textbook regulatory capture: a venture capitalist with hundreds of millions invested in AI and crypto companies is now the primary architect of federal policy in those sectors. Every policy decision he makes—from chip export controls to crypto regulation to AI governance—directly affects the value of his personal investments.",
+      "_file": "2025-12-12--david-sacks-700-ai-investments-while-setting-federal-policy.md",
+      "_id_hash": "262d90ec25abcdf09aba2e88db3ce75436251300bcd773fc23fdf622503083bd"
+    },
+    {
       "id": "2025-12-12--doj-expands-voter-data-lawsuits-to-18-states",
       "date": "2025-12-12",
       "title": "DOJ Expands Voter Data Seizure Campaign to 18 States, Demanding Social Security Numbers and Driver's Licenses",
@@ -183552,6 +184012,102 @@
       "summary": "The Department of Justice announced on December 12, 2025 that it had sued four additional states—Colorado, Hawaii, Massachusetts, and Nevada—demanding complete, unredacted voter registration lists including driver's license numbers and partial Social Security numbers, bringing the total number of states sued to 18. This represents an unprecedented federal campaign to create a centralized national voter database, with the DOJ having contacted at least 40 states since May 2025 demanding sensitive voter information.\n\nThe 18 states sued are: California, Colorado, Delaware, Hawaii, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Hampshire, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Vermont, and Washington—all states that Trump lost in the 2020 election and predominantly led by Democratic administrations. The DOJ also sued Fulton County, Georgia for 2020 election records. Assistant Attorney General Harmeet Dhillon claimed the lawsuits enforce federal election laws including the National Voter Registration Act, Help America Vote Act, and Civil Rights Act of 1960, while announcing that DOJ investigations had identified 260,000 deceased individuals and thousands of alleged non-citizens on voter rolls.\n\nState officials mounted fierce resistance, with Massachusetts Secretary of the Commonwealth Bill Galvin condemning the lawsuit as \"simply another example of the Trump Department of Justice's campaign to intimidate states\" and refusing to hand over voter personal data for \"outrageous fishing expeditions.\" Colorado Secretary of State Jena Griswold declared \"We will not hand over Coloradans' sensitive voting information to Donald Trump,\" while Massachusetts Attorney General Andrea Joy Campbell stated \"The privacy of Massachusetts voters is not up for negotiation\" and pledged to defend against misuse of voter information for a \"cruel and harmful agenda.\"\n\nCivil liberties organizations filed motions to intervene in multiple lawsuits to protect voter privacy. The ACLU and Common Cause intervened in Rhode Island's case, with the ACLU of Rhode Island calling the federal probe \"a major threat to the privacy of Rhode Island voters,\" warning that \"Drivers' licenses and social security numbers provided as part of the voter registration process are sensitive pieces of information that deserve to be protected and that the Department of Justice has absolutely no legitimate need for.\" In California, the court granted intervention motions from the NAACP, League of Women Voters, and SIREN, with these organizations arguing that releasing sensitive voter data would \"violate state privacy laws and chill voter participation, particularly among Black and immigrant voters.\"\n\nElection security experts raised alarms about the unprecedented nature of the data collection effort. David Becker, founder of the Center for Election Innovation & Research and former DOJ attorney, stated \"It appears the Justice Department is trying to acquire sensitive information on all Americans for who knows what purpose, with very, very questionable statutory authority.\" Becker warned that \"All of these seem designed not to create a viable election policy, but to lay the groundwork to claim the 2026 and 2028 elections are stolen.\" The Brennan Center for Justice documented the campaign and noted that organizations warned the DOJ effort represents \"a national voter database, which Congress has never authorized,\" with potential for \"large-scale voter purges based on faulty database matching techniques cooked up by election deniers.\"\n\nThe voter data seizure program represents a comprehensive federal surveillance infrastructure targeting American voters, with states raising concerns that the DOJ intends to use the information \"for the enforcement of immigration laws\" or \"in a manner that intimidates a voter.\" Privacy concerns were heightened by the DOJ's refusal to guarantee data protection under the Privacy Act of 1974, with Minnesota reporting it asked DOJ to guarantee data security but received no response before being sued. Only two states—Indiana and Wyoming—voluntarily provided complete voter rolls to the DOJ.\n\nThis escalation follows earlier DOJ voter data demands documented since May 2025, with the department having reviewed 47.5 million voter records across nearly 30 states by December. The creation of an unprecedented centralized federal voter database, combined with the DOJ's parallel gutting of voting rights enforcement, represents what civil liberties advocates characterize as infrastructure for mass voter suppression, intimidation, and potential purges—particularly targeting Democratic-led states and communities of color—while establishing the groundwork to challenge legitimate election results in 2026 and 2028.",
       "_file": "2025-12-12--doj-expands-voter-data-lawsuits-to-18-states.md",
       "_id_hash": "6844c37fde58413612673791363727ea8cc453caf3b3cd8c4d685dc56ef7122a"
+    },
+    {
+      "id": "2025-12-15--ice-seven-deaths-four-days-deadliest-month",
+      "date": "2025-12-15",
+      "title": "Seven Die in ICE Custody in December, Four Within Four Days, Deadliest Year Since 2004",
+      "importance": 9,
+      "actors": [
+        "Immigration and Customs Enforcement (ICE)",
+        "Department of Homeland Security",
+        "Jean Wilson Brutus",
+        "Fouad Saeed Abdulkadir",
+        "Nenko Stanev Gantchev"
+      ],
+      "tags": [
+        "ice-detention",
+        "deaths-in-custody",
+        "immigration",
+        "human-rights",
+        "trump-administration"
+      ],
+      "sources": [
+        {
+          "title": "Seven Immigrants Die in ICE Custody in December",
+          "url": "https://www.notus.org/immigration/ice-detention-deaths-december-2025",
+          "outlet": "NOTUS",
+          "tier": 2
+        },
+        {
+          "title": "2025 is the deadliest year to be in ICE custody in decades",
+          "url": "https://www.npr.org/2025/10/23/nx-s1-5538090/ice-detention-custody-immigration-arrest-enforcement-dhs-trump",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "Deaths of four ICE detainees in four days",
+          "url": "https://www.washingtonpost.com/immigration/2025/12/20/ice-detainee-deaths/",
+          "outlet": "Washington Post",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "human-rights-violations",
+        "institutional-capture"
+      ],
+      "summary": "Seven people die in ICE custody in December 2025, with four deaths occurring within a four-day span from December 12-15, making it the deadliest month of Trump's second term. The deaths occur as ICE holds a record 68,000+ people in detention, and 2025 becomes the deadliest year for ICE custody since 2004 with at least 30-32 total deaths.\n\nAmong the dead: Jean Wilson Brutus (41, Haiti) died December 12 at University Hospital Newark after a medical emergency, having been in custody only one day. Fouad Saeed Abdulkadir (46, Eritrea), an imam, died after 215 days of detention at Moshannon Valley Processing Center in Pennsylvania. Nenko Stanev Gantchev (56, Bulgaria) died December 15 at North Lake Processing Center in Michigan. Dalvin Francisco Rodriguez (39, Nicaragua) was found without a pulse December 4 and pronounced dead 10 days later.\n\nHuman Rights Watch notes that \"access to medical care has been extremely limited\" in ICE facilities. ICE's Detainee Death Reporting page has not been updated since October, making tracking difficult and obscuring the full scope of deaths.\n\nThe deaths are directly correlated with the mass expansion of detention under Trump's deportation quotas—the administration's policy of arresting 1,100+ people daily has overwhelmed detention capacity, leading to inadequate medical care, overcrowding, and preventable deaths. Nearly half of those detained have no criminal record beyond immigration status.",
+      "_file": "2025-12-15--ice-seven-deaths-four-days-deadliest-month.md",
+      "_id_hash": "6d8405ab5b9faaef09b925bd7075744f010bc147e8297685f16731ee0c44a2e6"
+    },
+    {
+      "id": "2025-12-16--cdc-adopts-rfk-panel-hepatitis-b-vaccine-reversal",
+      "date": "2025-12-16",
+      "title": "CDC Adopts RFK Jr Panel Recommendation Reversing 30-Year Hepatitis B Vaccine Policy",
+      "importance": 9,
+      "actors": [
+        "Robert F. Kennedy Jr.",
+        "CDC",
+        "Advisory Committee on Immunization Practices",
+        "American Medical Association"
+      ],
+      "tags": [
+        "public-health",
+        "vaccines",
+        "rfk-jr",
+        "cdc",
+        "institutional-capture",
+        "anti-science"
+      ],
+      "sources": [
+        {
+          "title": "CDC panel overhauled by RFK Jr changes childhood vaccine recommendations",
+          "url": "https://www.pbs.org/newshour/show/cdc-panel-overhauled-by-rfk-jr-changes-childhood-vaccine-recommendations",
+          "outlet": "PBS NewsHour",
+          "tier": 1
+        },
+        {
+          "title": "RFK Jrs vaccine panel weakens recommendation on hepatitis B shot",
+          "url": "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html",
+          "outlet": "CNBC",
+          "tier": 1
+        },
+        {
+          "title": "Trump orders review of childhood vaccine schedule",
+          "url": "https://www.washingtonpost.com/health/2025/12/05/acip-childhood-immunization-schedule-hepatitis-b/",
+          "outlet": "Washington Post",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "institutional-capture",
+        "regulatory-capture"
+      ],
+      "summary": "The CDC officially adopts a recommendation from RFK Jr.'s handpicked Advisory Committee on Immunization Practices (ACIP) to drop the 30-year policy that all newborns be vaccinated against hepatitis B. The panel voted 8-3 on December 5 to weaken the recommendation, with the CDC finalizing adoption on December 16.\n\nThis represents the first major undermining of childhood vaccination protections based on ideology rather than science. Kennedy fired all 17 original ACIP members in June 2025 and replaced them with allies, many with ties to vaccine-skeptical groups. The new recommendation calls for \"individual decision-making\" for babies whose mothers test negative, with first doses delayed to at least 2 months if not given at birth.\n\nThe American Medical Association called the decision \"reckless,\" stating it \"undermines decades of public confidence in a proven, lifesaving vaccine\" and \"creates confusion for parents.\" Legal experts note the process may violate the Administrative Procedure Act, which requires open, deliberative processes based on scientific evidence.\n\nHours after the vote, Trump issued an executive order directing federal health officials to review the entire childhood immunization schedule and consider recommending fewer shots. An ACIP working group is currently reviewing all childhood vaccines for potential additional changes, signaling this is just the beginning of a broader rollback of vaccination recommendations.",
+      "_file": "2025-12-16--cdc-adopts-rfk-panel-hepatitis-b-vaccine-reversal.md",
+      "_id_hash": "d827b1b7f40a1215768c4538844922e24e1dd83087a7233d415892b065cc2b7d"
     },
     {
       "id": "2025-12-16--house-hearing-doj-antitrust-corruption-pay-to-play",
@@ -183844,6 +184400,46 @@
       ],
       "_file": "2025-12-17--aca-subsidies-discharge-petition-218-signatures.md",
       "_id_hash": "41ed8c60b7b5f978d1c5bedb3c783016c2f27e2c2030cc3728c6d3f9ff76ab3d"
+    },
+    {
+      "id": "2025-12-17--aclu-sues-ice-first-amendment-violations-minnesota",
+      "date": "2025-12-17",
+      "title": "ACLU Sues ICE for First Amendment Violations Against Observers in Minnesota Raids",
+      "importance": 8,
+      "actors": [
+        "ACLU Minnesota",
+        "Immigration and Customs Enforcement (ICE)",
+        "Department of Homeland Security"
+      ],
+      "tags": [
+        "first-amendment",
+        "ice-enforcement",
+        "civil-liberties",
+        "press-freedom",
+        "minnesota"
+      ],
+      "sources": [
+        {
+          "title": "ACLU of Minnesota sues ICE DHS over constitutional violations against observers",
+          "url": "https://www.courthousenews.com/aclu-of-minnesota-sues-ice-dhs-over-constitutional-violations-against-observers/",
+          "outlet": "Courthouse News",
+          "tier": 2
+        },
+        {
+          "title": "ACLU takes legal action against ICE in Minnesota",
+          "url": "https://sahanjournal.com/immigration/ice-minnesota-aclu-lawsuit-observer-rights/",
+          "outlet": "Sahan Journal",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "civil-liberties-violations",
+        "press-freedom"
+      ],
+      "summary": "The ACLU of Minnesota files a federal class action lawsuit against ICE and the Department of Homeland Security over \"Operation Metro Surge,\" alleging systematic violations of constitutional rights against observers and bystanders.\n\nSix Minnesota residents allege ICE agents pepper-sprayed peaceful observers, pointed assault rifles at bystanders, temporarily abducted U.S. citizens, followed people home in unmarked cars to intimidate them, and detained a U.S. citizen despite proof of citizenship in violation of the Fourth Amendment.\n\nA second ACLU lawsuit filed December 18 targets Freeborn County to stop ICE cooperation, claiming the county's policy led to civil rights violations and deportations for minor violations like broken tail lights.\n\nThe lawsuits document ICE targeting constitutional rights to observe and document law enforcement activities—a fundamental First Amendment protection. The use of military-style tactics including assault rifles and pepper spray against civilians exercising their right to observe represents an escalation of force against constitutionally protected activity.\n\nThe pattern of detaining U.S. citizens despite proof of citizenship demonstrates the over-aggressive nature of enforcement operations driven by arrest quotas rather than actual immigration violations. At least 170 U.S. citizens have been wrongfully detained in the first nine months of the Trump immigration crackdown.",
+      "_file": "2025-12-17--aclu-sues-ice-first-amendment-violations-minnesota.md",
+      "_id_hash": "b52820e5776441f68ffdf1cb71d72d3770a5f7f65d1e7082968f36afa20ebaea"
     },
     {
       "id": "2025-12-17--senate-passes-ndaa-hegseth-boat-strike-oversight",
@@ -184728,6 +185324,195 @@
       "_id_hash": "9a10f9938219657643f2ff783d3636bb4bb186f39a3c0d07e71c67d2c536605d"
     },
     {
+      "id": "2025-12-22--federal-judge-orders-due-process-252-cecot-deportees",
+      "date": "2025-12-22",
+      "title": "Federal Judge Orders Due Process for 252 Venezuelans Sent to El Salvadors CECOT Prison",
+      "importance": 9,
+      "actors": [
+        "Trump Administration",
+        "Department of Homeland Security",
+        "El Salvador",
+        "Nayib Bukele"
+      ],
+      "tags": [
+        "cecot-prison",
+        "due-process",
+        "deportation",
+        "alien-enemies-act",
+        "constitutional-crisis",
+        "venezuela"
+      ],
+      "sources": [
+        {
+          "title": "Federal judge says US must give due process to deported Venezuelans",
+          "url": "https://www.npr.org/2025/12/22/nx-s1-5652187/alien-enemies-act-deportations-case",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "US sent 238 migrants to Salvadoran mega-prison",
+          "url": "https://www.cbsnews.com/news/what-records-show-about-migrants-sent-to-salvadoran-prison-60-minutes-transcript/",
+          "outlet": "CBS News",
+          "tier": 1
+        },
+        {
+          "title": "US Government Illegally Detains Father in Notorious Salvadoran Prison",
+          "url": "https://www.americanimmigrationcouncil.org/press-release/us-government-illegally-detains-father-two-notorious-salvadoran-prison/",
+          "outlet": "American Immigration Council",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "constitutional-crisis",
+        "human-rights-violations"
+      ],
+      "summary": "A federal judge orders the U.S. government to provide due process to 252 Venezuelan men sent to El Salvador's CECOT mega-prison, giving the administration until January 5, 2026 to either return them to the U.S. or provide hearings. The ruling challenges Trump's invocation of the 1798 Alien Enemies Act—only the fourth time in U.S. history the law has been used—under the claim that the Venezuelan gang Tren de Aragua is part of the Venezuelan government.\n\nThe U.S. is paying El Salvador $6 million to house migrants at CECOT, a facility documented by Human Rights Watch for \"arbitrary arrests, enforced disappearances, torture and other ill-treatment.\" CBS News investigations found most of those sent had no apparent criminal records. The 280 people transferred in March-April 2025 were held incommunicado for four months without any outside contact.\n\nThe case of Kilmar Ábrego Garcia, wrongly deported despite legal protection from persecution, was released this month after a separate federal court order—demonstrating that some sent to CECOT had legitimate legal claims to remain in the U.S.\n\nThe use of a 226-year-old wartime law to circumvent due process protections represents a constitutional crisis. By sending detainees to a foreign torture facility, the administration attempts to place them beyond the reach of U.S. courts—an offshore detention strategy reminiscent of Guantanamo Bay but applied to civil immigration cases rather than terrorism suspects.",
+      "_file": "2025-12-22--federal-judge-orders-due-process-252-cecot-deportees.md",
+      "_id_hash": "1c40a40b1c299342bbe37e83fafad884783dcdd8219a39e2b6f0cead13ddc6fb"
+    },
+    {
+      "id": "2025-12-22--venezuela-naval-blockade-105-killed-29-strikes",
+      "date": "2025-12-22",
+      "title": "Venezuela Naval Blockade Kills 105 in 29 Strikes as Trump Refuses to Rule Out War",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Nicolas Maduro",
+        "Stephen Miller",
+        "Pete Hegseth",
+        "Jeff Merkley",
+        "Tim Kaine",
+        "Rand Paul"
+      ],
+      "tags": [
+        "venezuela",
+        "military-strikes",
+        "naval-blockade",
+        "war-powers",
+        "drug-war",
+        "latin-america"
+      ],
+      "sources": [
+        {
+          "title": "Trump not ruling out war with Venezuela",
+          "url": "https://www.nbcnews.com/politics/donald-trump/trump-not-ruling-war-venezuela-rcna250012",
+          "outlet": "NBC News",
+          "tier": 1
+        },
+        {
+          "title": "Trump warns Maduro not to play tough as China Russia back Venezuela",
+          "url": "https://www.aljazeera.com/news/2025/12/23/trump-warns-maduro-not-to-play-tough-as-china-russia-back-venezuela",
+          "outlet": "Al Jazeera",
+          "tier": 1
+        },
+        {
+          "title": "Trump faces narrowing options on Venezuela",
+          "url": "https://www.washingtonpost.com/national-security/2025/12/21/trump-venezuela-boat-strikes-oil-maduro/",
+          "outlet": "Washington Post",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "executive-overreach",
+        "war-powers"
+      ],
+      "summary": "The Trump administration's naval blockade of Venezuela has killed at least 105 people in 29 strikes on 30 vessels as of December 22. The US Coast Guard seized the Centuries tanker carrying 1.8 million barrels of Venezuelan crude to China. Approximately 15,000 US troops and more than a dozen warships are deployed to the region.\n\nWhen asked by NBC News, Trump would not rule out war with Venezuela. Stephen Miller suggested Venezuela's oil \"belongs to Washington,\" describing the nationalization of Venezuela's petroleum industry as \"theft\"—raising questions about whether resource extraction rather than drug enforcement is driving the aggressive policy.\n\nBipartisan congressional pushback is emerging. Senators Jeff Merkley and Tim Kaine introduced the \"Prohibiting Unauthorized Military Action in Venezuela Act of 2025.\" Senator Rand Paul warned the strikes may be a \"prelude to an invasion.\" Lawmakers have not authorized military force against Venezuela.\n\nChina condemned the blockade as a \"serious violation of international law,\" while Russia expressed \"full support\" for Venezuela. The escalation risks a broader conflict with Chinese and Russian interests in the region.\n\nThe campaign represents the most aggressive US military posture toward a Latin American country in decades, testing the limits of presidential war powers. The combination of naval blockade, military strikes, and refusal to rule out full-scale war without congressional authorization echoes historical patterns of US intervention in Latin America.",
+      "_file": "2025-12-22--venezuela-naval-blockade-105-killed-29-strikes.md",
+      "_id_hash": "1ff60c768550e62ccfd4e813ce6eb8eda2385e53c14b4d87575d8ad5758729ea"
+    },
+    {
+      "id": "2025-12-23--epstein-files-reveal-summers-staley-estate-executors",
+      "date": "2025-12-23",
+      "title": "Epstein Files Reveal Larry Summers and Jes Staley Named as Estate Executors",
+      "importance": 9,
+      "actors": [
+        "Larry Summers",
+        "Jes Staley",
+        "Jeffrey Epstein",
+        "Harvard University",
+        "Barclays",
+        "JP Morgan"
+      ],
+      "tags": [
+        "epstein-network",
+        "elite-impunity",
+        "document-release",
+        "financial-elite",
+        "harvard"
+      ],
+      "sources": [
+        {
+          "title": "Epstein Once Appointed Staley, Summers Executors of His Will",
+          "url": "https://www.bloomberg.com/news/articles/2025-12-23/epstein-once-appointed-staley-summers-executors-of-his-will",
+          "outlet": "Bloomberg",
+          "tier": 1
+        },
+        {
+          "title": "Summers Named Successor Executor in Epstein Will",
+          "url": "https://www.thecrimson.com/article/2025/12/22/summers-epstein-will/",
+          "outlet": "Harvard Crimson",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "elite-impunity",
+        "institutional-capture"
+      ],
+      "summary": "Newly released Epstein documents reveal that draft wills from 2012-2014 named former Treasury Secretary Larry Summers and former Barclays CEO Jes Staley as \"successor executors\" of Jeffrey Epstein's estate, with each entitled to $250,000 upon completion of probate.\n\nSummers served as Treasury Secretary under Clinton (1999-2001), World Bank Chief Economist (1991-1993), Director of the National Economic Council under Obama, and Harvard University president. He subsequently stepped down from his Harvard teaching post and his position on the OpenAI board following the revelations. Both Summers and Staley claimed no knowledge of being named in the will.\n\nStaley served as Epstein's private banker at JP Morgan for over 30 years. He was banned from the UK financial industry in 2021 for lying to regulators about his relationship with Epstein, which he had characterized as \"purely professional.\" The documents reveal the relationship was close enough for Epstein to entrust his estate to Staley's management.\n\nNeither Summers nor Staley appeared in Epstein's final 2019 will executed shortly before his death. The documents briefly appeared on the DOJ website before being removed without explanation, then restored after public backlash.\n\nThe revelations demonstrate the depth of Epstein's connections to the highest levels of American financial and political elite—individuals who held the most powerful economic policy positions in the U.S. government while maintaining relationships with a convicted sex offender close enough to be named estate executors.",
+      "_file": "2025-12-23--epstein-files-reveal-summers-staley-estate-executors.md",
+      "_id_hash": "8817bf7124910ad33c31f109cb904650343ab03db9bc4871d59b4f7ca75ec672"
+    },
+    {
+      "id": "2025-12-23--epstein-files-reveal-trump-flew-eight-times-on-epstein-jet",
+      "date": "2025-12-23",
+      "title": "Epstein Files Reveal Trump Flew on Epstein Jet At Least 8 Times, Prosecutors Knew in 2020",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "Department of Justice"
+      ],
+      "tags": [
+        "epstein-network",
+        "document-release",
+        "elite-impunity",
+        "trump-epstein",
+        "suppressed-evidence"
+      ],
+      "sources": [
+        {
+          "title": "Justice Department releases more Epstein files mentioning Trump",
+          "url": "https://www.npr.org/2025/12/23/nx-s1-5653302/more-epstein-files-released-trump-mentioned",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "What the latest Epstein files release reveals and where Trump is mentioned",
+          "url": "https://www.pbs.org/newshour/show/what-the-latest-epstein-files-release-reveals-and-where-trump-is-mentioned",
+          "outlet": "PBS NewsHour",
+          "tier": 1
+        },
+        {
+          "title": "New Epstein files release includes Trump mentions",
+          "url": "https://www.axios.com/2025/12/23/doj-new-epstein-files-trump",
+          "outlet": "Axios",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "elite-impunity",
+        "institutional-capture"
+      ],
+      "summary": "A 2020 federal prosecutor email released as part of the Epstein document disclosure reveals that Donald Trump flew on Jeffrey Epstein's private jet \"many more times than previously has been reported.\" Flight records show Trump as a passenger on at least 8 flights between 1993 and 1996—far more than the 1-2 flights previously publicly known.\n\nFour of these flights included Ghislaine Maxwell as a fellow passenger. One flight included only Trump, Epstein, and a 20-year-old woman whose name remains redacted in the released documents. Other flights included Trump with his then-wife Marla Maples and children Tiffany and Eric.\n\nThe documents reveal that federal prosecutors possessed this information in 2020 but it was not previously disclosed to the public—meaning this evidence existed through Trump's first presidency, the 2020 election, and into his second term. The information only emerged due to the congressional mandate in the bipartisan Epstein Files Transparency Act.\n\nThe pattern demonstrates institutional protection of a powerful political figure: prosecutors held evidence of a more extensive Trump-Epstein relationship than publicly acknowledged, but this information was suppressed until Congress forced its release. Trump is now president while his DOJ controls what Epstein documents are released and how heavily they are redacted.",
+      "_file": "2025-12-23--epstein-files-reveal-trump-flew-eight-times-on-epstein-jet.md",
+      "_id_hash": "80d133abd2cc936bc74d52b7cf739f5be23091aff9da03f447302d295459965c"
+    },
+    {
       "id": "2025-12-23--maxwell-files-pro-se-motion-vacate-conviction",
       "date": "2025-12-23",
       "title": "Ghislaine Maxwell Files Pro Se Motion to Vacate Conviction Citing Named Co-Conspirators",
@@ -184854,6 +185639,59 @@
       "_id_hash": "74b67fb990258a097ea2f71df1f029aa00d4fd4719ef52b10ae0b943f0bd8a1c"
     },
     {
+      "id": "2025-12-24--twelve-senators-demand-ig-audit-epstein-files-compliance",
+      "date": "2025-12-24",
+      "title": "12 Bipartisan Senators Demand Inspector General Audit of DOJ Epstein Files Compliance",
+      "importance": 8,
+      "actors": [
+        "Richard Blumenthal",
+        "Lisa Murkowski",
+        "Jeff Merkley",
+        "Chuck Schumer",
+        "Amy Klobuchar",
+        "Adam Schiff",
+        "Dick Durbin",
+        "Cory Booker",
+        "Department of Justice",
+        "Don Berthiaume"
+      ],
+      "tags": [
+        "epstein-network",
+        "congressional-oversight",
+        "doj-obstruction",
+        "bipartisan",
+        "inspector-general"
+      ],
+      "sources": [
+        {
+          "title": "Senators call for audit into DOJs release of Epstein files",
+          "url": "https://www.cnbc.com/2025/12/24/epstein-files-senators-call-for-audit-into-dojs-release.html",
+          "outlet": "CNBC",
+          "tier": 1
+        },
+        {
+          "title": "Senators urge DOJ watchdog to audit slow release of Epstein files",
+          "url": "https://www.pbs.org/newshour/nation/senators-urge-doj-watchdog-to-audit-slow-release-of-epstein-files",
+          "outlet": "PBS NewsHour",
+          "tier": 1
+        },
+        {
+          "title": "Blumenthal Murkowski Merkley Lead Call for Inspector General Audit",
+          "url": "https://www.merkley.senate.gov/blumenthal-murkowski-merkley-lead-call-for-inspector-general-audit-following-dojs-failure-to-release-the-full-epstein-files-as-demanded-by-survivors-required-by-law/",
+          "outlet": "Senator Merkley Office",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "congressional-oversight",
+        "elite-impunity"
+      ],
+      "summary": "Twelve bipartisan senators write to DOJ Acting Inspector General Don Berthiaume demanding an audit of the Department's compliance with the Epstein Files Transparency Act. The letter is led by Senators Richard Blumenthal (D-CT), Lisa Murkowski (R-AK), and Jeff Merkley (D-OR), with additional signatures from Senators Klobuchar, Schiff, Durbin, Booker, Kim, Peters, Van Hollen, Hirono, and Whitehouse.\n\nThe letter states: \"Given the Administration's historic hostility to releasing the files, politicization of the Epstein case more broadly, and failure to comply with the Epstein Files Transparency Act, a neutral assessment of its compliance with the statutory disclosure requirements is essential.\"\n\nThe senators note that \"not only has DOJ withheld files, but those records that were disclosed are largely information that was already public.\" Senate Minority Leader Schumer separately states: \"A Christmas Eve news dump of 'a million more files' only proves what we already know: Trump is engaged in a massive coverup.\"\n\nThe inclusion of Republican Senator Lisa Murkowski demonstrates this is not partisan politics but genuine concern about DOJ lawbreaking. The invocation of \"historic hostility\" and \"politicization\" in an official Senate letter is extraordinary language suggesting senators believe political protection of elites, potentially including the President, is driving the obstruction.",
+      "_file": "2025-12-24--twelve-senators-demand-ig-audit-epstein-files-compliance.md",
+      "_id_hash": "752abe4d7178116c2b1ecb20d38840be4b5b10f4f8c21ca50edaa699458913af"
+    },
+    {
       "id": "2025-12-25--us-strikes-nigeria-sokoto-state-isis-claims-questioned",
       "date": "2025-12-25",
       "title": "US Launches Christmas Day Strikes on Nigerian Villages, ISIS Claims Questioned by Residents and Analysts",
@@ -184891,6 +185729,53 @@
       "summary": "On Christmas Day evening, the US military launches strikes on at least three settlements in Sokoto state, northwest Nigeria, firing 16 GPS-guided precision munitions from naval platforms in the Gulf of Guinea. President Trump announces the operation on social media, claiming \"a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria\" that \"decimated\" terrorist camps.\n\nHowever, residents of Jabo village tell local media a starkly different story. They report the projectiles landed in empty fields, causing no casualties. \"Glory be to God, there was no loss of life,\" one resident tells Arise News. Video footage shows burnt metal debris in what appears to be farmland. Residents express surprise at being targeted, noting the last militant attack in their area occurred two years ago.\n\nNigerian security analysts question the choice of Sokoto state as a target. Mustapha Gembu calls it \"highly questionable,\" noting Sokoto suffers more from banditry than terrorism and has almost no Christian population—despite Trump framing the strikes as responding to \"terrorist activity directed against Christians.\" Sokoto is a predominantly Muslim region and the historical seat of the Sokoto Caliphate, a spiritual center of Islam in Nigeria.\n\nThe Nigerian government claims the strikes received \"explicit approval\" from President Tinubu and were conducted \"in conjunction with\" US forces. Major General Samaila Uba says the operation targeted \"foreign Isis-linked elements\" based on \"credible intelligence.\" However, one senior Nigerian government official, speaking on background, admits he was still trying to establish facts about when Abuja was informed of the timing and location, and acknowledges Sokoto was \"not the most obvious choice of target.\"\n\nOpposition politician Umar Ardo demands Tinubu explain \"the legal basis, authorisation process and strategic rationale,\" questioning whether Nigerian authorities exercised \"meaningful control over the operation or they are themselves mere onlookers.\"\n\nThe strikes follow Trump's November threat to deploy the US military \"guns a blazing\" against attacks on \"cherished Christians\" in Nigeria, pressure that led Tinubu to dispatch security officials to Washington and replace his defence minister. The operation continues the administration's aggressive Africa posture—since February, the US has conducted over 100 strikes in Somalia, including what Admiral James Kilby called \"the largest air strike in the history of the world\" in May.",
       "_file": "2025-12-25--us-strikes-nigeria-sokoto-state-isis-claims-questioned.md",
       "_id_hash": "e162a31c6a96398d73cc07304f555aecb29924fb15ca1ee7f95d4cb4f98f9cdf"
+    },
+    {
+      "id": "2025-12-28--trump-zelensky-mar-a-lago-90-percent-peace-plan-agreed",
+      "date": "2025-12-28",
+      "title": "Trump and Zelensky Meet at Mar-a-Lago, Claim 90 Percent of Ukraine Peace Plan Agreed",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Volodymyr Zelensky",
+        "Vladimir Putin",
+        "European Union"
+      ],
+      "tags": [
+        "ukraine",
+        "russia",
+        "foreign-policy",
+        "peace-negotiations",
+        "nato",
+        "mar-a-lago"
+      ],
+      "sources": [
+        {
+          "title": "Zelensky and Trump to meet in Florida for peace plan talks",
+          "url": "https://www.cnn.com/2025/12/28/politics/zelensky-trump-meeting-peace-plan",
+          "outlet": "CNN",
+          "tier": 1
+        },
+        {
+          "title": "Trump says Russia and Ukraine are maybe very close to peace deal",
+          "url": "https://abcnews.go.com/Politics/volodymyr-zelenskyy-arrives-mar-lago-peace-talks-president/story?id=128736611",
+          "outlet": "ABC News",
+          "tier": 1
+        },
+        {
+          "title": "The US offers Ukraine a 15-year security guarantee",
+          "url": "https://www.npr.org/2025/12/29/g-s1-103906/ukraine-russia-trump-zelenskyy-security",
+          "outlet": "NPR",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "foreign-policy"
+      ],
+      "summary": "President Trump hosts Ukrainian President Volodymyr Zelensky at Mar-a-Lago for a three-hour meeting on a peace plan to end the Russia-Ukraine war. Trump claims they covered \"95%\" of issues and are \"maybe very close\" to a deal. Zelensky states that 90% of a 20-point peace plan is agreed, with US-Ukraine security guarantees \"100% agreed\" and military dimensions finalized.\n\nThe most contentious remaining issue is territory. Moscow demands Ukraine withdraw from all of eastern Donetsk region, while Ukraine currently controls less than 50% of Donetsk. Trump warns Zelensky that more land \"may be taken over the next period of a number of months and you're better off making a deal now.\" The US proposed transforming disputed areas into \"free economic zones\" with three-way control between the US, Ukraine, and Russia.\n\nCritically, Ukraine would no longer seek full NATO membership under the deal—a significant concession from Kyiv's long-standing position. The US offers 15-year security guarantees (Zelensky wants 50 years), but these would NOT include US troops on the ground. Europe would provide forces and fund most new assistance.\n\nTrump signed a defense bill on December 18 providing $400 million annually for Ukraine in fiscal years 2026-2027—dramatically down from the $67 billion total during the Biden era. The meeting represents a fundamental shift in US Ukraine policy from unlimited support to pressuring territorial concessions that would validate Russia's invasion.",
+      "_file": "2025-12-28--trump-zelensky-mar-a-lago-90-percent-peace-plan-agreed.md",
+      "_id_hash": "4a6534808991d5667e7a4710ee88d89e951cf258ca75bf7711409ca47705532c"
     }
   ]
 }
