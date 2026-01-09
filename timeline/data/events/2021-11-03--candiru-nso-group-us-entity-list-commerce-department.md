@@ -17,8 +17,7 @@ actors:
 - NSO Group
 - Gina Raimondo
 sources:
-- title: 'Malicious activities: US blacklists Israel NSO Group and Candiru spyware
-    firms'
+- title: 'Malicious activities: US blacklists Israel NSO Group and Candiru spyware firms'
   url: https://www.timesofisrael.com/us-blacklists-israels-nso-group-and-candiru-spyware-firms/
   outlet: The Times of Israel
   date: '2021-11-03'
@@ -26,14 +25,13 @@ sources:
   url: https://therecord.media/two-more-foreign-spyware-firms-blacklisted-by-us
   outlet: The Record
   date: '2021-11-03'
-- title: Commerce Adds NSO Group and Other Foreign Companies to Entity List for Malicious
-    Cyber Activities
+- title: Commerce Adds NSO Group and Other Foreign Companies to Entity List for Malicious Cyber Activities
   url: https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list
   outlet: US Department of Commerce
   date: '2021-11-03'
 - title: US Blacklists NSO Group and 3 Others for Selling Spyware, Hacking Tools
   url: https://www.nextgov.com/cybersecurity/2021/11/us-blacklists-nso-group-and-3-others-selling-spyware-hacking-tools/186611/
-  outlet: NextGov
+  outlet: Nextgov
   date: '2021-11-03'
 - title: Commerce Department blacklists controversial spyware company NSO Group
   url: https://cyberscoop.com/commerce-department-blacklists-controversial-spyware-company-nso-group/

@@ -4,29 +4,29 @@ date: 2022-01-13
 title: Navient Settles for $1.85 Billion Over Student Loan Servicing Fraud - Steered Borrowers Into Costly Forbearances
 importance: 8
 tags:
-  - student-debt
-  - fraud
-  - loan-servicing
-  - navient
+- student-debt
+- fraud
+- loan-servicing
+- navient
 actors:
-  - Navient
-  - Letitia James
+- Navient
+- Letitia James
 sources:
-  - url: https://ag.ny.gov/press-release/2022/attorney-general-james-secures-185-billion-deceptive-student-loan-servicer
-    title: Attorney General James Secures $1.85 Billion From Deceptive Student Loan Servicer Navient
-    publisher: New York Attorney General
-    date: 2022-01-13
-    tier: 1
-  - url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-navient-from-federal-student-loan-servicing-and-orders-the-company-to-pay-120-million-for-wide-ranging-student-lending-failures/
-    title: CFPB Bans Navient from Federal Student Loan Servicing
-    publisher: Consumer Financial Protection Bureau
-    date: 2022-01-13
-    tier: 1
-  - url: https://www.npr.org/2022/01/13/1072780601/student-loan-debt-navient-settlement
-    title: Student loan servicer Navient will cancel $1.7 billion in debt in settlement
-    publisher: NPR
-    date: 2022-01-13
-    tier: 1
+- url: https://ag.ny.gov/press-release/2022/attorney-general-james-secures-185-billion-deceptive-student-loan-servicer
+  title: Attorney General James Secures $1.85 Billion From Deceptive Student Loan Servicer Navient
+  date: 2022-01-13
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-bans-navient-from-federal-student-loan-servicing-and-orders-the-company-to-pay-120-million-for-wide-ranging-student-lending-failures/
+  title: CFPB Bans Navient from Federal Student Loan Servicing
+  date: 2022-01-13
+  tier: 1
+  outlet: Consumer Financial Protection Bureau
+- url: https://www.npr.org/2022/01/13/1072780601/student-loan-debt-navient-settlement
+  title: Student loan servicer Navient will cancel $1.7 billion in debt in settlement
+  date: 2022-01-13
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

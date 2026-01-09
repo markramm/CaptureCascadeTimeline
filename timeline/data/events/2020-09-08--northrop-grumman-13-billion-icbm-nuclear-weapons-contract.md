@@ -10,28 +10,28 @@ actors:
 - Boeing
 - Orbital ATK
 tags:
-- Military-Industrial Complex
-- Defense Contractors
-- Nuclear Weapons
-- Pentagon Contracts
-- ICBMs
-- Monopoly Power
+- military-industrial complex
+- defense contractors
+- nuclear weapons
+- pentagon contracts
+- icbms
+- monopoly power
 sources:
 - url: https://www.af.mil/News/Article-Display/Article/2340139/department-of-the-air-force-awards-contract-for-new-icbm-system-that-enhances-s/
   title: Department of the Air Force awards contract for new ICBM system
-  publisher: U.S. Air Force
   date: '2020-09-08'
   tier: 1
+  outlet: U.S. Air Force
 - url: https://spacenews.com/northrop-grumman-receives-13-3-billion-contract-to-develop-next-generation-icbm/
   title: Northrop Grumman receives $13.3 billion contract to develop next-generation ICBM
-  publisher: SpaceNews
   date: '2020-09-08'
   tier: 2
+  outlet: SpaceNews
 - url: https://www.armscontrol.org/act/2020-10/news/air-force-awards-new-icbm-contract
   title: Air Force Awards New ICBM Contract
-  publisher: Arms Control Association
   date: '2020-10-01'
   tier: 1
+  outlet: Arms Control Association
 ---
 
 The Department of the Air Force awarded Northrop Grumman a $13.3 billion contract on September 8, 2020, to develop the Ground Based Strategic Deterrent intercontinental ballistic missile system, initiating the engineering and manufacturing development phase of a program estimated to cost between $93.1 billion and $95.8 billion in total acquisition costs, with lifecycle expenses reaching approximately $264 billion over fifty years. The GBSD program will replace 400 Minuteman III missiles deployed in silos across Montana, North Dakota, and Wyoming, plus an additional 200 missiles used for testing and development, making Northrop Grumman the primary contractor for America's land-based nuclear weapons delivery systems for the next half-century.

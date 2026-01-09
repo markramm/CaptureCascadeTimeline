@@ -16,19 +16,19 @@ actors:
 sources:
 - title: Oracle To Buy BlueKai For Estimated $350M to $400M
   url: https://www.adexchanger.com/data-exchanges/oracle-to-buy-bluekai-for-estimated-400m-deal-presents-big-challenges/
-  publisher: AdExchanger
   date: '2014-02-20'
   tier: 2
+  outlet: AdExchanger
 - title: BlueKai
   url: https://en.wikipedia.org/wiki/BlueKai
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - title: Oracle's BlueKai tracks you across the web. That data spilled online
   url: https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking/
-  publisher: TechCrunch
   date: '2020-06-19'
   tier: 2
+  outlet: TechCrunch
 ---
 
 Oracle Corporation acquired BlueKai, one of the world's largest data brokerage and web tracking companies, on February 24, 2014, for approximately $400 million, significantly expanding Oracle's commercial surveillance capabilities. The acquisition gave Oracle control of one of the largest repositories of web tracking data outside the federal government, with BlueKai maintaining approximately 700 million actionable consumer profiles by 2015.

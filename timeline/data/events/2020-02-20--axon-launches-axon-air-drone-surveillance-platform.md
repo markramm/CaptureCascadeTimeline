@@ -18,19 +18,19 @@ actors:
 sources:
 - url: https://investor.axon.com/2020-02-20-Axon-Launches-First-Connected-App-for-Law-Enforcement-that-Livestreams-Drone-Video-Directly-into-Axon-Evidence
   title: Axon Launches First Connected App for Law Enforcement that Livestreams Drone Video Directly into Axon Evidence
-  publisher: Axon Investor Relations
   date: '2020-02-20'
   tier: 2
+  outlet: Axon Investor Relations
 - url: https://www.axon.com/products/axon-air
   title: Axon Air Product Overview
-  publisher: Axon
   date: '2020-02-20'
   tier: 2
+  outlet: Axon
 - url: https://www.officer.com/command-hq/technology/security-surveillance/uav-uas/product/21008346/axon-axon-air-law-enforcement-drone-program
   title: Axon Air Law Enforcement Drone Program
-  publisher: Officer.com
   date: '2020-02-20'
   tier: 2
+  outlet: Officer.com
 status: confirmed
 ---
 

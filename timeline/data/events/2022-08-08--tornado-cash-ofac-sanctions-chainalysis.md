@@ -4,34 +4,34 @@ date: 2022-08-08
 title: Treasury Sanctions Tornado Cash with Chainalysis Providing Analysis
 importance: 9
 tags:
-  - surveillance
-  - cryptocurrency
-  - sanctions
-  - privacy
-  - OFAC
-  - North-Korea
+- surveillance
+- cryptocurrency
+- sanctions
+- privacy
+- ofac
+- north-korea
 actors:
-  - OFAC
-  - Tornado Cash
-  - Chainalysis
-  - Lazarus Group
-  - U.S. Treasury
+- OFAC
+- Tornado Cash
+- Chainalysis
+- Lazarus Group
+- U.S. Treasury
 sources:
-  - url: https://home.treasury.gov/news/press-releases/jy0916
-    title: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
-    publisher: U.S. Department of the Treasury
-    date: 2022-08-08
-    tier: 1
-  - url: https://www.chainalysis.com/blog/tornado-cash-ofac-designation-sanctions/
-    title: OFAC Sanctions Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group
-    publisher: Chainalysis
-    date: 2022-08-08
-    tier: 2
-  - url: https://www.chainalysis.com/blog/how-2022-crypto-sanction-designations-affected-crypto-crime/
-    title: How 2022 Crypto Sanctions Affected Crypto Crime
-    publisher: Chainalysis
-    date: 2022-08-08
-    tier: 2
+- url: https://home.treasury.gov/news/press-releases/jy0916
+  title: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
+  date: 2022-08-08
+  tier: 1
+  outlet: U.S. Department of the Treasury
+- url: https://www.chainalysis.com/blog/tornado-cash-ofac-designation-sanctions/
+  title: OFAC Sanctions Tornado Cash for Laundering Crypto Stolen by North Korea's Lazarus Group
+  date: 2022-08-08
+  tier: 2
+  outlet: Chainalysis
+- url: https://www.chainalysis.com/blog/how-2022-crypto-sanction-designations-affected-crypto-crime/
+  title: How 2022 Crypto Sanctions Affected Crypto Crime
+  date: 2022-08-08
+  tier: 2
+  outlet: Chainalysis
 ---
 
 The U.S. Treasury's Office of Foreign Assets Control (OFAC) sanctions Tornado Cash, adding the decentralized cryptocurrency mixer to the Specially Designated Nationals (SDN) List with multiple cryptocurrency addresses as identifiers. This landmark action marks the first time OFAC has sanctioned a decentralized protocol rather than a centralized service, with Chainalysis providing the blockchain intelligence that supports the designation.

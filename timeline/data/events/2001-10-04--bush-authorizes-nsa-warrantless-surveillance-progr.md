@@ -25,7 +25,7 @@ status: confirmed
 sources:
 - title: Bush Lets U.S. Spy on Callers Without Courts
   url: https://www.nytimes.com/2005/12/16/politics/bush-lets-us-spy-on-callers-without-courts.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2005-12-16'
 - title: 'The Program: The NSA''s Domestic Surveillance'
   url: https://www.pbs.org/wgbh/frontline/film/homefront/

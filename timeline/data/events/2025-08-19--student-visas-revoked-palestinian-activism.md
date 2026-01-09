@@ -13,21 +13,20 @@ tags:
 - free-speech
 sources:
 - url: https://www.nbcnews.com/news/us-news/trump-administration-revoked-6000-student-visas-state-department-says-rcna225757
-  title: Trump administration revoked more than 6,000 student visas, State Department
-    says
-  publisher: NBC News
+  title: Trump administration revoked more than 6,000 student visas, State Department says
   date: '2025-08-19'
   tier: 1
+  outlet: NBC News
 - url: https://www.cbsnews.com/news/student-visas-revoked-state-department/
   title: State Department revokes over 6000 student visas
-  publisher: CBS News
   date: '2025-08-19'
   tier: 1
+  outlet: CBS News
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-211
   title: 'Trump Tyranny Tracker: Day 211'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-25'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 The State Department revoked over 6,000 student visas, including 200-300 for alleged 'support for terrorism,' with particular focus on students participating in pro-Palestinian protests and criticism of Israel's Gaza war. A Tufts student was detained for six weeks after co-writing an opinion piece criticizing Israel's conduct.

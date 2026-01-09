@@ -1,8 +1,7 @@
 ---
 id: 2025-11-04--dhs-mobile-identify-facial-recognition-app
 date: '2025-11-04'
-title: DHS Releases Mobile Facial Recognition App for Local Police to Identify Immigration
-  Status
+title: DHS Releases Mobile Facial Recognition App for Local Police to Identify Immigration Status
 importance: 9
 tags:
 - surveillance
@@ -14,19 +13,19 @@ tags:
 sources:
 - title: Immigration agents have new technology to identify and track people
   url: https://www.npr.org/2025/11/08/nx-s1-5585691/ice-facial-recognition-immigration-tracking-spyware
-  publisher: NPR
   date: '2025-11-08'
   tier: 1
+  outlet: NPR
 - title: DHS Gives Local Cops a Facial Recognition App To Find Immigrants
   url: https://www.404media.co/cbp-quietly-launches-face-scanning-app-for-local-cops-to-do-immigration-enforcement/
-  publisher: 404 Media
   date: '2025-11-04'
   tier: 2
+  outlet: 404 Media
 - title: 'Trump Tyranny Tracker: Day 289'
   url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289
-  publisher: Trump Tyranny Tracker
   date: '2025-11-04'
   tier: 2
+  outlet: Trump Tyranny Tracker
 actors:
 - DHS
 - ICE

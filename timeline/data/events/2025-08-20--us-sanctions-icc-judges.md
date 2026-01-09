@@ -18,23 +18,19 @@ sources:
   url: https://www.icc-cpi.int/news/icc-strongly-rejects-new-us-sanctions-against-judges-and-deputy-prosecutors
 - date: '2025-08-20'
   outlet: United Nations
-  title: UN Rights Chief Decries 'Relentless Intensification' of US Sanctions Against
-    ICC Staff
+  title: UN Rights Chief Decries 'Relentless Intensification' of US Sanctions Against ICC Staff
   url: https://news.un.org/en/story/2025/08/1165696
 - date: '2025-08-20'
   outlet: US State Department
-  title: Imposing Sanctions in Response to the ICC's Actions Targeting the United
-    States and Israel
+  title: Imposing Sanctions in Response to the ICC's Actions Targeting the United States and Israel
   url: https://www.state.gov/releases/office-of-the-spokesperson/2025/08/imposing-further-sanctions-in-response-to-the-iccs-ongoing-threat-to-americans-and-israelis
 - date: '2025-08-20'
-  outlet: Washington Post
-  title: US Sanctions More ICC Judges, Prosecutors for Probes into Alleged American,
-    Israeli War Crimes
+  outlet: The Washington Post
+  title: US Sanctions More ICC Judges, Prosecutors for Probes into Alleged American, Israeli War Crimes
   url: https://www.washingtonpost.com/politics/2025/08/20/us-icc-trump-israel-rubio-sanctions/3d76b038-7de4-11f0-971c-6c8e53bd2f21_story.html
 - date: '2025-08-20'
   outlet: Axios
-  title: '''Threat to Americans and Israelis'': Trump Admin Imposes Fresh Sanctions
-    on ICC Officials'
+  title: '''Threat to Americans and Israelis'': Trump Admin Imposes Fresh Sanctions on ICC Officials'
   url: https://www.axios.com/2025/08/21/trump-icc-sanctions-israel-rubio-us-israel-afghanistan
 tags:
 - icc-sanctions

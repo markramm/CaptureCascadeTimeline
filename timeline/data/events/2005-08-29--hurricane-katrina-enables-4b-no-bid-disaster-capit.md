@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: 'Hurricanes Katrina and Rita: Continued Findings of Fraud, Waste, and Abuse'
   url: https://www.gao.gov/products/gao-07-300
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2007-01-22'
 - title: 'Crisis Profiteering: Dick Cheney, Halliburton and Hurricane Katrina'
   url: https://www.democracynow.org/2005/9/9/crisis_profiteering_dick_cheney_halliburton_and

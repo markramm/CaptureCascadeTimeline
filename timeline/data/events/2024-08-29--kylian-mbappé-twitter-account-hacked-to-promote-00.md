@@ -21,9 +21,8 @@ sources:
   outlet: SportBible
 - title: Crypto Scam Details Following Mbappé Twitter Hack
   url: https://www.cointelegraph.com/news/trader-loses-1-million-fake-mbappe-token-scam
-  outlet: CoinTelegraph
-  description: Detailed report on cryptocurrency scam following Twitter account hijacking,
-    including financial impact
+  outlet: Cointelegraph
+  description: Detailed report on cryptocurrency scam following Twitter account hijacking, including financial impact
 ---
 
 Soccer star Kylian Mbappé's Twitter/X account was hacked for approximately 20 minutes, resulting in the promotion of a '$MBAPPE' cryptocurrency scam. Hackers posted inflammatory content including anti-Semitic messages, claims about a Manchester United transfer, and insults targeting Lionel Messi. The cryptocurrency briefly spiked in value, with one user reportedly making $200,000 from a $286 investment before the posts were deleted.

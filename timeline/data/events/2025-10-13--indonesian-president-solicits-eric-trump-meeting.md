@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Indonesian president asks Trump for meeting with son Eric in 'hot mic' moment
   url: https://www.reuters.com/world/indonesian-president-asks-trump-meeting-with-son-eric-hot-mic-moment-2025-10-13/
-  publisher: Reuters
   date: '2025-10-13'
   tier: 1
+  outlet: Reuters
 tags:
 - conflicts-of-interest
 - foreign-influence

@@ -4,37 +4,37 @@ date: 2019-06-28
 title: Florida Legislature Enacts "Poll Tax" Requiring Payment of Fines to Undermine Amendment 4
 importance: 9
 tags:
-  - voter-suppression
-  - florida
-  - amendment-4
-  - poll-tax
-  - ron-desantis
-  - felony-disenfranchisement
+- voter-suppression
+- florida
+- amendment-4
+- poll-tax
+- ron-desantis
+- felony-disenfranchisement
 actors:
-  - Ron DeSantis
-  - Florida Legislature
-  - Republican Party
+- Ron DeSantis
+- Florida Legislature
+- Republican Party
 sources:
-  - url: https://ballotpedia.org/Florida_Senate_Bill_7066_(2019)
-    title: Florida Senate Bill 7066 (2019)
-    publisher: Ballotpedia
-    date: 2019-06-28
-    tier: 2
-  - url: https://www.aclu.org/news/voting-rights/amendment-4-is-back-in-court-as-florida-fights-our-victory-over-its-modern-day-poll-tax
-    title: Amendment 4 is Back in Court as Florida Fights Our Victory Over its Modern-Day Poll Tax
-    publisher: ACLU
-    date: 2020-09-11
-    tier: 1
-  - url: https://campaignlegal.org/update/florida-implements-modern-day-poll-tax-depriving-thousands-right-vote
-    title: Florida Implements Modern Day Poll Tax
-    publisher: Campaign Legal Center
-    date: 2019-07-01
-    tier: 1
-  - url: https://www.buzzfeednews.com/article/dominicholden/flordia-felon-voting-rights-law-poll-tax-ron-desantis
-    title: Florida's Governor Signed A Law Making It Harder For Felons To Vote
-    publisher: BuzzFeed News
-    date: 2019-06-28
-    tier: 2
+- url: https://ballotpedia.org/Florida_Senate_Bill_7066_(2019)
+  title: Florida Senate Bill 7066 (2019)
+  date: 2019-06-28
+  tier: 2
+  outlet: Ballotpedia
+- url: https://www.aclu.org/news/voting-rights/amendment-4-is-back-in-court-as-florida-fights-our-victory-over-its-modern-day-poll-tax
+  title: Amendment 4 is Back in Court as Florida Fights Our Victory Over its Modern-Day Poll Tax
+  date: 2020-09-11
+  tier: 1
+  outlet: ACLU
+- url: https://campaignlegal.org/update/florida-implements-modern-day-poll-tax-depriving-thousands-right-vote
+  title: Florida Implements Modern Day Poll Tax
+  date: 2019-07-01
+  tier: 1
+  outlet: Campaign Legal Center
+- url: https://www.buzzfeednews.com/article/dominicholden/flordia-felon-voting-rights-law-poll-tax-ron-desantis
+  title: Florida's Governor Signed A Law Making It Harder For Felons To Vote
+  date: 2019-06-28
+  tier: 2
+  outlet: BuzzFeed News
 ---
 
 Governor Ron DeSantis signs Senate Bill 7066 into law, requiring people with felony convictions to pay all fines, fees, court costs, and restitution before regaining voting rights—directly undermining the intent of Amendment 4, which Florida voters approved with 65% support just seven months earlier. Critics immediately denounce the law as a modern-day poll tax that creates a wealth-based barrier to voting rights restoration.

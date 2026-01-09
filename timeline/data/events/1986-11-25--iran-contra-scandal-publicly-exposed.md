@@ -4,32 +4,32 @@ date: 1986-11-25
 title: Attorney General Meese Reveals Iran-Contra Scandal to Public
 importance: 10
 tags:
-  - Iran-Contra
-  - Reagan-administration
-  - congressional-oversight
-  - covert-operations
-  - Nicaragua
+- iran-contra
+- reagan-administration
+- congressional-oversight
+- covert-operations
+- nicaragua
 actors:
-  - Edwin Meese
-  - Ronald Reagan
-  - Oliver North
-  - John Poindexter
+- Edwin Meese
+- Ronald Reagan
+- Oliver North
+- John Poindexter
 sources:
-  - url: https://www.history.com/this-day-in-history/iran-contra-connection-revealed
-    title: Iran-Contra Connection Revealed
-    publisher: History Channel
-    date: 2024-11-25
-    tier: 2
-  - url: https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/
-    title: The Iran-Contra Affair
-    publisher: PBS American Experience
-    date: 2024-01-15
-    tier: 1
-  - url: https://irp.fas.org/offdocs/walsh/
-    title: Final Report of the Independent Counsel for Iran/Contra Matters
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
+- url: https://www.history.com/this-day-in-history/iran-contra-connection-revealed
+  title: Iran-Contra Connection Revealed
+  date: 2024-11-25
+  tier: 2
+  outlet: History Channel
+- url: https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/
+  title: The Iran-Contra Affair
+  date: 2024-01-15
+  tier: 1
+  outlet: PBS American Experience
+- url: https://irp.fas.org/offdocs/walsh/
+  title: Final Report of the Independent Counsel for Iran/Contra Matters
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
 ---
 
 Attorney General Edwin Meese announces that proceeds from secret arms sales to Iran were illegally diverted to fund Nicaraguan Contra rebels, publicly exposing the Iran-Contra scandal that had been revealed three weeks earlier by the Lebanese magazine Ash-Shiraa on November 3. The announcement comes after National Security Advisor John Poindexter and NSC staff member Oliver North have spent four days systematically destroying incriminating documents.

@@ -1,8 +1,7 @@
 ---
 id: 2017-05-17--rosenstein-appoints-mueller-special-counsel-russia-investigation-obstruction
 date: '2017-05-17'
-title: Rosenstein Appoints Robert Mueller as Special Counsel for Russia Investigation
-  - Direct Response to Trump's Obstruction
+title: Rosenstein Appoints Robert Mueller as Special Counsel for Russia Investigation - Direct Response to Trump's Obstruction
 importance: 10
 tags:
 - mueller-investigation
@@ -19,20 +18,19 @@ actors:
 sources:
 - url: https://www.justice.gov/opa/pr/appointment-special-counsel
   title: Appointment of Special Counsel
-  publisher: U.S. Department of Justice
   date: '2017-05-17'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.npr.org/2017/05/17/528846598/former-fbi-director-mueller-appointed-special-counsel-to-oversee-russia-probe
-  title: Robert Mueller, Former FBI Director, Appointed Special Counsel To Oversee
-    Russia Probe
-  publisher: NPR
+  title: Robert Mueller, Former FBI Director, Appointed Special Counsel To Oversee Russia Probe
   date: '2017-05-17'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/politics-news/special-counsel-will-take-over-fbi-russia-campaign-interference-investigation-n761271
   title: Special counsel will take over FBI Russia campaign interference investigation
-  publisher: NBC News
   date: '2017-05-17'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

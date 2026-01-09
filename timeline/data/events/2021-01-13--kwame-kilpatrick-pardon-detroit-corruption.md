@@ -4,36 +4,36 @@ date: '2021-01-13'
 title: Trump Pardons Kwame Kilpatrick After Serving 7 of 28 Years for Detroit Corruption
 importance: 7
 actors:
-  - Donald Trump
-  - Kwame Kilpatrick
-  - Bobby Ferguson
-  - Alveda King
+- Donald Trump
+- Kwame Kilpatrick
+- Bobby Ferguson
+- Alveda King
 tags:
-  - Pardons
-  - Corruption
-  - Public-Corruption
-  - Abuse-of-Power
+- pardons
+- corruption
+- public-corruption
+- abuse-of-power
 sources:
-  - title: Trump Commutes Sentence of Kwame Kilpatrick, Ex-Detroit Mayor
-    url: https://www.nytimes.com/2021/01/20/us/politics/kwame-kilpatrick-trump.html
-    publisher: New York Times
-    date: '2021-01-20'
-    tier: 1
-  - title: Trump commutes sentence of corrupt ex-Detroit Mayor Kilpatrick
-    url: https://www.reuters.com/article/idUSKBN29P0A7/
-    publisher: Reuters
-    date: '2021-01-20'
-    tier: 1
-  - title: Former Detroit Mayor Kwame Kilpatrick Sentenced to 28 Years
-    url: https://www.justice.gov/usao-edmi/pr/former-detroit-mayor-kwame-kilpatrick-sentenced-28-years
-    publisher: U.S. Department of Justice
-    date: '2013-10-10'
-    tier: 1
-  - title: Kilpatrick convicted in corruption trial
-    url: https://apnews.com/article/5c8f9b8e8f8f4e5a8b5f5f5f5f5f5f5f
-    publisher: Associated Press
-    date: '2013-03-11'
-    tier: 1
+- title: Trump Commutes Sentence of Kwame Kilpatrick, Ex-Detroit Mayor
+  url: https://www.nytimes.com/2021/01/20/us/politics/kwame-kilpatrick-trump.html
+  date: '2021-01-20'
+  tier: 1
+  outlet: The New York Times
+- title: Trump commutes sentence of corrupt ex-Detroit Mayor Kilpatrick
+  url: https://www.reuters.com/article/idUSKBN29P0A7/
+  date: '2021-01-20'
+  tier: 1
+  outlet: Reuters
+- title: Former Detroit Mayor Kwame Kilpatrick Sentenced to 28 Years
+  url: https://www.justice.gov/usao-edmi/pr/former-detroit-mayor-kwame-kilpatrick-sentenced-28-years
+  date: '2013-10-10'
+  tier: 1
+  outlet: U.S. Department of Justice
+- title: Kilpatrick convicted in corruption trial
+  url: https://apnews.com/article/5c8f9b8e8f8f4e5a8b5f5f5f5f5f5f5f
+  date: '2013-03-11'
+  tier: 1
+  outlet: Associated Press
 status: confirmed
 ---
 

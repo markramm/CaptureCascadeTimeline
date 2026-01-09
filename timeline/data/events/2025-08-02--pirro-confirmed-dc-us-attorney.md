@@ -10,22 +10,20 @@ actors:
 - Department of Justice
 sources:
 - url: https://www.nbcnews.com/politics/congress/senate-confirms-former-fox-news-host-jeanine-pirro-us-attorney-distric-rcna222702
-  title: Senate confirms former Fox News host Jeanine Pirro as U.S. attorney for the
-    District of Columbia
-  publisher: NBC News
+  title: Senate confirms former Fox News host Jeanine Pirro as U.S. attorney for the District of Columbia
   date: '2025-08-02'
   tier: 1
+  outlet: NBC News
 - url: https://www.npr.org/2025/08/03/nx-s1-5491473/senate-confirms-ex-fox-news-host-pirro-as-top-federal-prosecutor-for-nations-capital
-  title: Senate confirms ex-Fox News host Pirro as top federal prosecutor for nation's
-    capital
-  publisher: NPR
+  title: Senate confirms ex-Fox News host Pirro as top federal prosecutor for nation's capital
   date: '2025-08-03'
   tier: 1
+  outlet: NPR
 - url: https://www.cbsnews.com/news/senate-confirms-jeanine-pirro-dc-us-attorney/
   title: Senate confirms Jeanine Pirro as U.S. Attorney for the District of Columbia
-  publisher: CBS News
   date: '2025-08-02'
   tier: 1
+  outlet: CBS News
 tags:
 - institutional-capture
 - judicial-corruption

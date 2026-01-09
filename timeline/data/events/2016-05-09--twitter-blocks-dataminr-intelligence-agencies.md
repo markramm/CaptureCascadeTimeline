@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Twitter cuts off intelligence agencies from data feed
   url: https://money.cnn.com/2016/05/09/technology/twitter-dataminr-intelligence-agencies/
-  publisher: CNN Money
   date: '2016-05-09'
   tier: 1
+  outlet: CNN Money
 - title: Dataminr was in an unpaid pilot with intel agencies when Twitter ended the deal
   url: https://techcrunch.com/2016/05/09/dataminr-was-in-an-unpaid-pilot-with-intel-agencies-when-twitter-ended-the-deal/
-  publisher: TechCrunch
   date: '2016-05-09'
   tier: 2
+  outlet: TechCrunch
 - title: Why Twitter chose to do battle with the CIA
   url: https://www.cnbc.com/2016/05/13/why-twitter-chose-to-do-battle-with-the-cia.html
-  publisher: CNBC
   date: '2016-05-13'
   tier: 2
+  outlet: CNBC
 status: confirmed
 ---
 

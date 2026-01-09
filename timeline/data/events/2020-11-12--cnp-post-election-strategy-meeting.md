@@ -4,7 +4,7 @@ date: '2020-11-12'
 title: CNP Holds Post-Election Strategy Meeting - Planning Electoral College Challenge
 importance: 10
 tags:
-- CNP
+- cnp
 - conservative-movement
 - coordination
 - election-denial
@@ -18,12 +18,12 @@ actors:
 - Lisa Nelson
 - Virginia Thomas
 sources:
-- title: 'Recordings and Materials From Council for National Policy Meetings'
+- title: Recordings and Materials From Council for National Policy Meetings
   url: https://documented.net/investigations/council-for-national-policy-recordings
   publication: Documented
   date: '2020-11-20'
   tier: 1
-- title: 'A Rare Peek Inside the Vast Right-Wing Conspiracy'
+- title: A Rare Peek Inside the Vast Right-Wing Conspiracy
   url: https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy
   publication: The New Republic
   date: '2020-12-10'

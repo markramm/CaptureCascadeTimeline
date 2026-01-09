@@ -13,18 +13,15 @@ sources:
   - Turned to Federalist people and Heritage Foundation for list
   - Leonard Leo drew up lists of potential justices
 - outlet: ProPublica
-  title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court
-    Supermajority'
+  title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court Supermajority'
   url: https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority
   verified: true
   key_facts_confirmed:
   - Leo met with Trump and campaign lawyer Don McGahn in March 2016
-  - Trump stated judicial picks would be "conservative, all picked by the Federalist
-    Society"
+  - Trump stated judicial picks would be "conservative, all picked by the Federalist Society"
   - 86% of Trump's judicial appointees were Federalist Society members
-- outlet: TIME Magazine
-  title: 'Trump, Federalist Society, and Leonard Leo: Inside the Judicial Nomination
-    Strategy'
+- outlet: TIME
+  title: 'Trump, Federalist Society, and Leonard Leo: Inside the Judicial Nomination Strategy'
   url: https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/
   verified: true
   key_facts_confirmed:
@@ -52,12 +49,9 @@ capture_lanes:
 - Judicial Capture & Corruption
 - Electoral Strategy
 historical_context:
-  broader_implications: Unprecedented privatization of judicial selection process
-    through ideological screening
-  campaign_strategy: Using judicial nominations to secure conservative voter support
-    and reshape federal judiciary
-  long_term_impact: Fundamental transformation of federal court composition through
-    coordinated conservative legal strategy
+  broader_implications: Unprecedented privatization of judicial selection process through ideological screening
+  campaign_strategy: Using judicial nominations to secure conservative voter support and reshape federal judiciary
+  long_term_impact: Fundamental transformation of federal court composition through coordinated conservative legal strategy
 ---
 
 During the 2016 campaign, Donald Trump made a pivotal strategic commitment to outsource Supreme Court nominee selection entirely to the Federalist Society, a move that would fundamentally reshape the federal judiciary. In March 2016, Trump, campaign lawyer Don McGahn, and Federalist Society executive Leonard Leo met at the Jones Day law offices to develop a list of 21 potential Supreme Court nominees.

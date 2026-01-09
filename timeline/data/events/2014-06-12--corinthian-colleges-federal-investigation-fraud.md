@@ -4,30 +4,30 @@ date: 2014-06-12
 title: Federal Government Cuts Off Corinthian Colleges - 72,000 Students Trapped by Fraud
 importance: 8
 tags:
-  - for-profit-colleges
-  - student-debt
-  - fraud
-  - corinthian-colleges
+- for-profit-colleges
+- student-debt
+- fraud
+- corinthian-colleges
 actors:
-  - Department of Education
-  - Corinthian Colleges
-  - Arne Duncan
+- Department of Education
+- Corinthian Colleges
+- Arne Duncan
 sources:
-  - url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-for-profit-corinthian-colleges-for-predatory-lending-scheme/
-    title: CFPB Sues For-Profit Corinthian Colleges for Predatory Lending Scheme
-    publisher: Consumer Financial Protection Bureau
-    date: 2014-09-16
-    tier: 1
-  - url: https://oag.ca.gov/corinthian
-    title: Information for Former Corinthian Colleges Students
-    publisher: California Attorney General
-    date: 2014-06-01
-    tier: 1
-  - url: https://www.npr.org/2014/06/12/321481029/government-restricts-funding-to-corinthian-colleges
-    title: Government Restricts Funding To Corinthian Colleges
-    publisher: NPR
-    date: 2014-06-12
-    tier: 1
+- url: https://www.consumerfinance.gov/about-us/newsroom/cfpb-sues-for-profit-corinthian-colleges-for-predatory-lending-scheme/
+  title: CFPB Sues For-Profit Corinthian Colleges for Predatory Lending Scheme
+  date: 2014-09-16
+  tier: 1
+  outlet: Consumer Financial Protection Bureau
+- url: https://oag.ca.gov/corinthian
+  title: Information for Former Corinthian Colleges Students
+  date: 2014-06-01
+  tier: 1
+  outlet: California Attorney General
+- url: https://www.npr.org/2014/06/12/321481029/government-restricts-funding-to-corinthian-colleges
+  title: Government Restricts Funding To Corinthian Colleges
+  date: 2014-06-12
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

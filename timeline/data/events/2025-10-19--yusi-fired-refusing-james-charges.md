@@ -1,8 +1,7 @@
 ---
 id: 2025-10-19--yusi-fired-refusing-james-charges
 date: '2025-10-19'
-title: Federal Prosecutor Elizabeth Yusi Fired After Refusing to Charge NY AG Letitia
-  James
+title: Federal Prosecutor Elizabeth Yusi Fired After Refusing to Charge NY AG Letitia James
 importance: 9
 actors:
 - Elizabeth Yusi
@@ -12,23 +11,20 @@ actors:
 - Department of Justice
 sources:
 - url: https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/
-  title: Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney
-    General Letitia James
-  publisher: CBS News
+  title: Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James
   date: '2025-10-17'
   tier: 1
+  outlet: CBS News
 - url: https://www.cnn.com/2025/10/24/politics/beth-yusi-fired-letitia-james-case-information-email
-  title: Prosecutor who resisted bringing charges against NY AG was fired after allegations
-    she sent case info to her personal email
-  publisher: CNN
+  title: Prosecutor who resisted bringing charges against NY AG was fired after allegations she sent case info to her personal email
   date: '2025-10-24'
   tier: 1
+  outlet: CNN
 - url: https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary/
-  title: Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political
-    Adversary
-  publisher: Democracy Docket
+  title: Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary
   date: '2025-10-17'
   tier: 2
+  outlet: Democracy Docket
 tags:
 - weaponization-of-government
 - institutional-capture

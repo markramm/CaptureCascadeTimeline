@@ -30,10 +30,9 @@ sources:
   date: '2006-06-20'
 - title: Feith's Pentagon Office Produced 'Alternative' Intelligence
   url: https://www.washingtonpost.com/wp-dyn/content/article/2005/02/09/AR2005020901853.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2005-02-10'
-- title: 'The Italian Letter: How the Bush Administration Used a Fake Letter to Build
-    the Case for War in Iraq'
+- title: 'The Italian Letter: How the Bush Administration Used a Fake Letter to Build the Case for War in Iraq'
   url: https://www.newyorker.com/magazine/2003/10/27/the-stovepipe
   outlet: The New Yorker
   date: '2003-10-27'

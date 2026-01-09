@@ -1,8 +1,7 @@
 ---
 id: 2017-05-11--trump-admits-to-lester-holt-fired-comey-because-of-russia-thing-obstruction-confession
 date: '2017-05-11'
-title: Trump Admits to Lester Holt He Fired Comey Because of This Russia Thing - Obstruction
-  Confession on National TV
+title: Trump Admits to Lester Holt He Fired Comey Because of This Russia Thing - Obstruction Confession on National TV
 importance: 10
 tags:
 - obstruction-of-justice
@@ -17,11 +16,10 @@ actors:
 - Rod Rosenstein
 sources:
 - url: https://www.nbcnews.com/news/us-news/trump-reveals-he-asked-comey-whether-he-was-under-investigation-n757821
-  title: 'Trump Interview With Lester Holt: President Asked Comey If He Was Under
-    Investigation'
-  publisher: NBC News
+  title: 'Trump Interview With Lester Holt: President Asked Comey If He Was Under Investigation'
   date: '2017-05-11'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

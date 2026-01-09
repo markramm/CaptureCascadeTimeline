@@ -3,6 +3,11 @@ id: 2003-02-01--in-q-tel-invests-keyhole-iraq-war
 date: '2003-02-01'
 title: In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
 importance: 8
+actors:
+- In-Q-Tel
+- Keyhole Inc.
+- National Geospatial-Intelligence Agency
+- CNN
 tags:
 - in-q-tel
 - cia
@@ -10,26 +15,20 @@ tags:
 - iraq-war
 - satellite-surveillance
 - geospatial-intelligence
-actors:
-- In-Q-Tel
-- Keyhole Inc.
-- National Geospatial-Intelligence Agency
-- CNN
 sources:
-- url: https://www.theregister.com/2004/10/28/google_buys_keyhole/
-  title: Google buys CIA-backed mapping startup
-  publisher: The Register
+- title: Google buys CIA-backed mapping startup
+  url: https://www.theregister.com/2004/10/28/google_buys_keyhole/
+  outlet: The Register
   date: '2004-10-28'
   tier: 2
-- url: https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/
-  title: The superspy origins of Google Earth
-  publisher: SmarterMSP
+- title: The superspy origins of Google Earth
+  url: https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/
+  outlet: SmarterMSP
   date: '2024-04-02'
   tier: 3
-- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
-  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
-    Earth
-  publisher: Fortune
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
   date: '2025-07-29'
   tier: 2
 ---

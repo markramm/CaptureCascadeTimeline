@@ -20,24 +20,24 @@ tags:
 sources:
 - title: Secret Kill List Proves a Test of Obama's Principles and Will
   url: https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html
-  publisher: New York Times
   date: '2012-05-29'
   tier: 1
+  outlet: The New York Times
 - title: Drone Strikes - Civilian Casualties from United States Drone Strikes
   url: https://en.wikipedia.org/wiki/Civilian_casualties_from_U.S._drone_strikes
-  publisher: Wikipedia (sourced from NYT reporting)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from NYT reporting)
 - title: Obama's Final Drone Strike Data
   url: https://www.cfr.org/blog/obamas-final-drone-strike-data
-  publisher: Council on Foreign Relations
   date: '2017-01-20'
   tier: 1
+  outlet: Council on Foreign Relations
 - title: Obama Defends Deadly Drone Campaign
   url: https://www.middleeasteye.net/news/obama-defends-deadly-drone-campaign-new-book
-  publisher: Middle East Eye
   date: '2020-11-16'
   tier: 2
+  outlet: Middle East Eye
 ---
 
 The New York Times publishes an explosive investigation revealing that President Obama personally approves every name on a secret "kill list" for drone strikes during regular Tuesday National Security Council meetings dubbed "Terror Tuesdays." The article exposes how the president reviews biographical dossiers of suspected terrorists, weighs intelligence evidence, and makes final decisions on who will be assassinated by CIA drones or Special Operations forces. The disclosure provides unprecedented insight into America's extrajudicial killing program and Obama's personal role in selecting targets for assassination without trial, judicial review, or public accountability.

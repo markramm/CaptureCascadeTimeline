@@ -4,28 +4,28 @@ date: 2024-02-12
 title: Biden Approves $136 Billion in Targeted Student Debt Relief - 3.7 Million Borrowers Through Alternative Programs
 importance: 7
 tags:
-  - student-debt
-  - debt-relief
-  - joe-biden
+- student-debt
+- debt-relief
+- joe-biden
 actors:
-  - Joe Biden
-  - Miguel Cardona
+- Joe Biden
+- Miguel Cardona
 sources:
-  - url: https://www.cnbc.com/2024/02/12/biden-has-forgiven-136-billion-in-student-debt.html
-    title: Biden has forgiven $136 billion in student debt. More relief is on the way
-    publisher: CNBC
-    date: 2024-02-12
-    tier: 2
-  - url: https://www.pbs.org/newshour/politics/despite-collapse-of-his-forgiveness-plan-millions-had-student-loans-canceled-under-biden
-    title: Despite collapse of his forgiveness plan, millions had student loans canceled under Biden
-    publisher: PBS
-    date: 2024-10-22
-    tier: 1
-  - url: https://www.npr.org/2024/04/08/1243071907/biden-student-loan-debt-relief-millions
-    title: Biden releases student loan debt relief plan for millions of borrowers
-    publisher: NPR
-    date: 2024-04-08
-    tier: 1
+- url: https://www.cnbc.com/2024/02/12/biden-has-forgiven-136-billion-in-student-debt.html
+  title: Biden has forgiven $136 billion in student debt. More relief is on the way
+  date: 2024-02-12
+  tier: 2
+  outlet: CNBC
+- url: https://www.pbs.org/newshour/politics/despite-collapse-of-his-forgiveness-plan-millions-had-student-loans-canceled-under-biden
+  title: Despite collapse of his forgiveness plan, millions had student loans canceled under Biden
+  date: 2024-10-22
+  tier: 1
+  outlet: PBS
+- url: https://www.npr.org/2024/04/08/1243071907/biden-student-loan-debt-relief-millions
+  title: Biden releases student loan debt relief plan for millions of borrowers
+  date: 2024-04-08
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

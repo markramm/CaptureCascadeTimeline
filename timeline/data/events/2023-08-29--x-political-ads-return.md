@@ -2,8 +2,7 @@
 id: 2023-08-29--x-political-ads-return
 date: '2023-08-29'
 importance: 5
-title: X reverses 2019 ban, allows U.S. political ads; verified accounts prioritized
-  in recommendations
+title: X reverses 2019 ban, allows U.S. political ads; verified accounts prioritized in recommendations
 location: Online
 actors:
 - X (Twitter)
@@ -24,7 +23,7 @@ sources:
   date: '2023-08-29'
 - title: X Reverses Ban on Political Ads After Musk Takeover
   url: https://www.wsj.com/articles/x-twitter-political-ads-return-musk
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2023-08-29'
 - title: X to allow paid political ads, lifting Twitter's earlier ban
   url: https://techcrunch.com/2023/08/30/x-to-allow-paid-political-ads-lifting-twitters-earlier-ban/

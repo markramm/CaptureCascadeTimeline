@@ -15,19 +15,19 @@ actors:
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2016/10/12/497729371/wells-fargo-ceo-john-stumpf-resigns-amid-scandal
   title: Wells Fargo CEO John Stumpf Resigns Amid Scandal
-  publisher: NPR
   date: '2016-10-12'
   tier: 1
+  outlet: NPR
 - url: https://www.npr.org/2016/10/13/497775025/john-sumpfs-34-year-tenure-ends-at-wells-fargo-amid-banking-scandal
   title: John Stumpf's 34-Year Tenure Ends At Wells Fargo Amid Banking Scandal
-  publisher: NPR
   date: '2016-10-13'
   tier: 1
+  outlet: NPR
 - url: https://money.cnn.com/2016/10/13/investing/wells-fargo-ceo-resigns-compensation/index.html
   title: Wells Fargo CEO John Stumpf Walks With $130 Million
-  publisher: CNN Money
   date: '2016-10-13'
   tier: 2
+  outlet: CNN Money
 ---
 
 Wells Fargo CEO John Stumpf resigns effective immediately, ending his 34-year career at the bank amid the fake accounts scandal. Despite calls from Senator Elizabeth Warren and others for him to forfeit his compensation and face criminal charges, Stumpf departs with approximately $130-137 million in accumulated wealth from stock holdings and vested compensation. The resignation demonstrates that even in cases of admitted systematic fraud, executive accountability means retiring rich rather than facing prosecution.

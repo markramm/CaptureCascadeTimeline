@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.npr.org/2019/07/25/745200244/trump-vetoes-bills-intended-to-block-arms-sales-to-saudi-arabia
   title: Trump Vetoes Bills Intended To Block Arms Sales To Saudi Arabia
-  publisher: NPR
   date: '2019-07-25'
   tier: 1
+  outlet: NPR
 - url: https://www.armscontrol.org/act/2019-09/news/trump-vetoes-challenge-arab-arms-sales
   title: Trump Vetoes Challenge to Arab Arms Sales
-  publisher: Arms Control Association
   date: '2019-09-01'
   tier: 2
+  outlet: Arms Control Association
 - url: https://thehill.com/homenews/administration/454317-trump-vetoes-resolutions-attempting-to-block-saudi-arms-sales/
   title: Trump vetoes resolutions attempting to block Saudi arms sales
-  publisher: The Hill
   date: '2019-07-24'
   tier: 2
+  outlet: The Hill
 - url: https://www.cnn.com/2019/07/24/politics/saudi-arms-sale-resolutions-trump-veto/index.html
   title: Trump vetoes 3 bills prohibiting arms sales to Saudi Arabia
-  publisher: CNN
   date: '2019-07-24'
   tier: 2
+  outlet: CNN
 actors:
 - Donald Trump
 - Raytheon

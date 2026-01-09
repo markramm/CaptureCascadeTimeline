@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: Secret Service paid at least $1.4 million to Trump properties
   url: https://www.washingtonpost.com/politics/secret-service-has-paid-at-least-14-million-to-trump-properties/2020/05/08/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2020-05-08'
 - title: Trump's Mar-a-Lago charged Secret Service at least $1.4 million
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/secret-service-paid-at-least-1-4-million-to-trump/

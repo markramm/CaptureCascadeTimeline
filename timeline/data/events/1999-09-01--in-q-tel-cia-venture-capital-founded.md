@@ -3,33 +3,32 @@ id: 1999-09-01--in-q-tel-cia-venture-capital-founded
 date: '1999-09-01'
 title: CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
 importance: 9
-tags:
-- cia
-- in-q-tel
-- intelligence-privatization
-- surveillance-infrastructure
-- venture-capital
 actors:
 - Central Intelligence Agency
 - George Tenet
 - Gilman Louie
 - Norman Augustine
 - In-Q-Tel
+tags:
+- cia
+- in-q-tel
+- intelligence-privatization
+- surveillance-infrastructure
+- venture-capital
 sources:
-- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
-  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
-    Earth
-  publisher: Fortune
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
   date: '2025-07-29'
   tier: 2
-- url: https://www.iqt.org/about
-  title: About In-Q-Tel
-  publisher: In-Q-Tel
+- title: About In-Q-Tel
+  url: https://www.iqt.org/about
+  outlet: In-Q-Tel
   date: '2025-11-11'
   tier: 2
-- url: https://en.wikipedia.org/wiki/Gilman_Louie
-  title: Gilman Louie
-  publisher: Wikipedia
+- title: Gilman Louie
+  url: https://en.wikipedia.org/wiki/Gilman_Louie
+  outlet: Wikipedia
   date: '2025-11-11'
   tier: 3
 ---

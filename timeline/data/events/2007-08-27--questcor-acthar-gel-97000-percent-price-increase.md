@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.cnn.com/2018/06/29/health/acthar-mallinckrodt-questcor-price-hike-trevor-foltz/index.html
   title: Anatomy of a 97,000% drug price hike - One family's fight to save their son
-  publisher: CNN
   date: '2018-06-29'
   tier: 2
+  outlet: CNN
 - url: https://www.cnn.com/2019/04/30/health/mallinckrodt-whistleblower-lawsuit-acthar/index.html
   title: Whistleblowers - Drug company bribed doctors to boost sales
-  publisher: CNN
   date: '2019-04-30'
   tier: 2
+  outlet: CNN
 - url: https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/Mallinckrodt%20Staff%20Report%2010-01-20%20PDF.pdf
   title: Drug Pricing Investigation Mallinckrodt - H.P. Acthar Gel Staff Report
-  publisher: House Committee on Oversight and Reform
   date: '2020-10-01'
   tier: 1
+  outlet: House Committee on Oversight and Reform
 - url: https://www.fiercepharma.com/pharma/mallinckrodt-defrauded-major-insurer-700m-through-kickbacks-acthar-price-hikes-lawsuit
   title: Humana calls Mallinckrodt's Acthar a 'billion-dollar golden goose' in $700M fraud lawsuit
-  publisher: Fierce Pharma
   date: '2019-08-05'
   tier: 2
+  outlet: Fierce Pharma
 actors:
 - Questcor Pharmaceuticals
 - Mallinckrodt

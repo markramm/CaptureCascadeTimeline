@@ -4,30 +4,30 @@ date: 2020-10-01
 title: Amazon Discloses 19,816 Workers Infected with COVID-19 After Months of Concealment
 importance: 10
 actors:
-  - Jeff Bezos
-  - Amazon
+- Jeff Bezos
+- Amazon
 tags:
-  - Worker Exploitation
-  - COVID-19
-  - Corporate Accountability
-  - Amazon
-  - Public Health
+- worker exploitation
+- covid-19
+- corporate accountability
+- amazon
+- public health
 sources:
-  - url: https://www.cnn.com/2020/10/01/tech/amazon-covid-cases/index.html
-    title: "Amazon said nearly 20,000 employees have tested positive or been presumed positive for COVID-19"
-    publisher: CNN Business
-    date: 2020-10-01
-    tier: 1
-  - url: https://www.cnbc.com/2020/10/01/amazon-says-more-than-19000-workers-got-covid-19.html
-    title: "Amazon says more than 19,000 workers got Covid-19"
-    publisher: CNBC
-    date: 2020-10-01
-    tier: 1
-  - url: https://sandiegouniontribune.com/business/story/2021-11-15/amazon-covid-outbreak-workplace-safety-right-to-know-penalty
-    title: "Amazon to pay California $500,000 for 'concealing' COVID cases among workers"
-    publisher: San Diego Union-Tribune
-    date: 2021-11-15
-    tier: 1
+- url: https://www.cnn.com/2020/10/01/tech/amazon-covid-cases/index.html
+  title: Amazon said nearly 20,000 employees have tested positive or been presumed positive for COVID-19
+  date: 2020-10-01
+  tier: 1
+  outlet: CNN Business
+- url: https://www.cnbc.com/2020/10/01/amazon-says-more-than-19000-workers-got-covid-19.html
+  title: Amazon says more than 19,000 workers got Covid-19
+  date: 2020-10-01
+  tier: 1
+  outlet: CNBC
+- url: https://sandiegouniontribune.com/business/story/2021-11-15/amazon-covid-outbreak-workplace-safety-right-to-know-penalty
+  title: Amazon to pay California $500,000 for 'concealing' COVID cases among workers
+  date: 2021-11-15
+  tier: 1
+  outlet: San Diego Union-Tribune
 status: confirmed
 ---
 

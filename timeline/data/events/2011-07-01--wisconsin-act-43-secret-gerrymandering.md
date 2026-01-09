@@ -4,37 +4,37 @@ date: 2011-07-01
 title: Wisconsin Republicans Pass Act 43 Gerrymandering Plan in Secret Process
 importance: 8
 tags:
-  - gerrymandering
-  - wisconsin
-  - republican-party
-  - electoral-manipulation
-  - REDMAP
-  - secrecy
+- gerrymandering
+- wisconsin
+- republican-party
+- electoral-manipulation
+- redmap
+- secrecy
 actors:
-  - Wisconsin Legislature
-  - Republican Party
-  - Michael Best & Friedrich
+- Wisconsin Legislature
+- Republican Party
+- Michael Best & Friedrich
 sources:
-  - url: https://www.prwatch.org/news/2016/05/13111/high-tech-gerrymandering-trial-wisconsin
-    title: Hi-Tech Hyper-Partisan Gerrymandering on Trial in Wisconsin
-    publisher: PR Watch
-    date: 2016-05-24
-    tier: 2
-  - url: https://docs.legis.wisconsin.gov/2011/related/acts/43
-    title: 2011 Wisconsin Act 43
-    publisher: Wisconsin Legislature
-    date: 2011-07-01
-    tier: 1
-  - url: https://madison.com/news/local/govt-and-politics/article_c7a71b38-b98c-5b9f-aef5-908cc72ee068.html
-    title: Federal judges panel finds state redistricting plan an 'unconstitutional gerrymander'
-    publisher: Madison.com
-    date: 2016-11-21
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/Gill_v._Whitford
-    title: Gill v. Whitford
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 3
+- url: https://www.prwatch.org/news/2016/05/13111/high-tech-gerrymandering-trial-wisconsin
+  title: Hi-Tech Hyper-Partisan Gerrymandering on Trial in Wisconsin
+  date: 2016-05-24
+  tier: 2
+  outlet: PR Watch
+- url: https://docs.legis.wisconsin.gov/2011/related/acts/43
+  title: 2011 Wisconsin Act 43
+  date: 2011-07-01
+  tier: 1
+  outlet: Wisconsin Legislature
+- url: https://madison.com/news/local/govt-and-politics/article_c7a71b38-b98c-5b9f-aef5-908cc72ee068.html
+  title: Federal judges panel finds state redistricting plan an 'unconstitutional gerrymander'
+  date: 2016-11-21
+  tier: 2
+  outlet: Madison.com
+- url: https://en.wikipedia.org/wiki/Gill_v._Whitford
+  title: Gill v. Whitford
+  date: 2024-01-01
+  tier: 3
+  outlet: Wikipedia
 ---
 
 Wisconsin Republicans pass 2011 Wisconsin Act 43, implementing extreme partisan gerrymandering through an unprecedented secret process. The redistricting plan, drawn behind closed doors at a private law firm with rank-and-file Republican legislators required to sign confidentiality agreements, creates what federal judges will later describe as the most gerrymandered maps in the United States.

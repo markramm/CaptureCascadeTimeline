@@ -4,31 +4,31 @@ date: 2002-09-12
 title: Tyco CEO Dennis Kozlowski Indicted for $600 Million Fraud
 importance: 9
 tags:
-  - corporate-fraud
-  - tyco
-  - securities-fraud
-  - executive-looting
-  - white-collar-crime
+- corporate-fraud
+- tyco
+- securities-fraud
+- executive-looting
+- white-collar-crime
 actors:
-  - Dennis Kozlowski
-  - Mark Swartz
-  - Mark Belnick
+- Dennis Kozlowski
+- Mark Swartz
+- Mark Belnick
 sources:
-  - url: https://edition.cnn.com/2002/BUSINESS/asia/09/12/us.tyco/
-    title: "Three Tyco execs indicted for fraud"
-    publisher: CNN
-    date: 2002-09-12
-    tier: 1
-  - url: https://www.sec.gov/news/press/2002-135.htm
-    title: "SEC Sues Former Tyco CEO Kozlowski, Two Others for Fraud"
-    publisher: Securities and Exchange Commission
-    date: 2002-09-12
-    tier: 1
-  - url: https://money.cnn.com/2002/09/12/news/companies/kozlowski/index.htm
-    title: "Kozlowski, two others indicted, plead not guilty"
-    publisher: CNN Money
-    date: 2002-09-12
-    tier: 1
+- url: https://edition.cnn.com/2002/BUSINESS/asia/09/12/us.tyco/
+  title: Three Tyco execs indicted for fraud
+  date: 2002-09-12
+  tier: 1
+  outlet: CNN
+- url: https://www.sec.gov/news/press/2002-135.htm
+  title: SEC Sues Former Tyco CEO Kozlowski, Two Others for Fraud
+  date: 2002-09-12
+  tier: 1
+  outlet: Securities and Exchange Commission
+- url: https://money.cnn.com/2002/09/12/news/companies/kozlowski/index.htm
+  title: Kozlowski, two others indicted, plead not guilty
+  date: 2002-09-12
+  tier: 1
+  outlet: CNN Money
 ---
 
 On September 12, 2002, Manhattan District Attorney Robert Morgenthau indicted former Tyco International CEO Dennis Kozlowski, CFO Mark Swartz, and General Counsel Mark Belnick on charges of looting at least $600 million from the company through fraudulent loans and unauthorized stock sales. The three executives were led into court in handcuffs and pleaded not guilty.

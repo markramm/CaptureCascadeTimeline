@@ -4,11 +4,11 @@ date: '2025-02-27'
 title: Attorney General Bondi Releases First Phase of Declassified Epstein Files, Initiating Multi-Phase Document Releases Through November 2025
 importance: 8
 tags:
-- Epstein
-- DOJ
-- Sexual Abuse
-- Transparency
-- Trump Administration
+- epstein
+- doj
+- sexual abuse
+- transparency
+- trump administration
 actors:
 - Pamela Bondi
 - Jeffrey Epstein
@@ -18,44 +18,44 @@ actors:
 sources:
 - url: https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files
   title: Attorney General Pamela Bondi Releases First Phase of Declassified Epstein Files
-  publisher: Department of Justice
   date: '2025-02-27'
   tier: 1
+  outlet: Department of Justice
 - url: https://www.npr.org/2025/02/28/nx-s1-5312936/epstein-files-release-rickroll-backlash
   title: DOJ releases Epstein files, accuses FBI of withholding more
-  publisher: NPR
   date: '2025-02-28'
   tier: 1
+  outlet: NPR
 - url: https://www.npr.org/2025/08/22/nx-s1-5509535/epstein-files-congress-house-oversight-committee-trump
   title: First wave of Epstein files has been sent to Congress, says Oversight Committee chair
-  publisher: NPR
   date: '2025-08-22'
   tier: 1
+  outlet: NPR
 - url: https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/
   title: Oversight Committee Releases Epstein Records Provided by the Department of Justice
-  publisher: House Oversight Committee
   date: '2025-09-02'
   tier: 1
+  outlet: House Oversight Committee
 - url: https://www.aljazeera.com/news/2025/9/3/us-house-committee-releases-over-33000-pages-of-epstein-related-records
   title: US House committee releases over 33,000 pages of Epstein-related records
-  publisher: Al Jazeera
   date: '2025-09-03'
   tier: 2
+  outlet: Al Jazeera
 - url: https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising
   title: House Oversight Committee Releases Jeffrey Epstein Email Correspondence, Raising Questions About White House Coverup of Epstein Files
-  publisher: House Oversight Committee Democrats
   date: '2025-11-12'
   tier: 1
+  outlet: House Oversight Committee Democrats
 - url: https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie
   title: White House downplays new Epstein emails that mention Trump
-  publisher: NPR
   date: '2025-11-12'
   tier: 1
+  outlet: NPR
 - url: https://www.axios.com/2025/11/12/epstein-emails-trump-house-oversight-ghislaine
   title: Epstein wrote Trump "knew about the girls," newly released emails show
-  publisher: Axios
   date: '2025-11-12'
   tier: 2
+  outlet: Axios
 status: confirmed
 ---
 

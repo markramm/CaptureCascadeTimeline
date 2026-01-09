@@ -4,31 +4,31 @@ date: 2011-11-29
 title: Michigan Emergency Manager Seizes Control of Flint, Stripping Democratic Governance
 importance: 9
 tags:
-  - emergency-manager
-  - democracy
-  - flint-water-crisis
-  - michigan
-  - Rick-Snyder
+- emergency-manager
+- democracy
+- flint-water-crisis
+- michigan
+- rick-snyder
 actors:
-  - Rick Snyder
-  - Michael Brown
-  - Flint City Government
+- Rick Snyder
+- Michael Brown
+- Flint City Government
 sources:
-  - url: https://www.michiganpublic.org/politics-government/2016-02-03/how-did-we-get-here-a-look-back-at-michigans-emergency-manager-law
-    title: How did we get here? A look back at Michigan's emergency manager law
-    publisher: Michigan Public Radio
-    date: 2016-02-03
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Financial_emergency_in_Michigan
-    title: Financial emergency in Michigan
-    publisher: Wikipedia
-    date: 2024-11-10
-    tier: 2
-  - url: https://www.prwatch.org/news/2016/03/13064/flint-casualty-right-wing-government-experiment
-    title: Flint Is a Casualty in the Right Wing's War on Local Democracy
-    publisher: PR Watch
-    date: 2016-03-01
-    tier: 2
+- url: https://www.michiganpublic.org/politics-government/2016-02-03/how-did-we-get-here-a-look-back-at-michigans-emergency-manager-law
+  title: How did we get here? A look back at Michigan's emergency manager law
+  date: 2016-02-03
+  tier: 1
+  outlet: Michigan Public Radio
+- url: https://en.wikipedia.org/wiki/Financial_emergency_in_Michigan
+  title: Financial emergency in Michigan
+  date: 2024-11-10
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.prwatch.org/news/2016/03/13064/flint-casualty-right-wing-government-experiment
+  title: Flint Is a Casualty in the Right Wing's War on Local Democracy
+  date: 2016-03-01
+  tier: 2
+  outlet: PR Watch
 status: confirmed
 ---
 

@@ -4,40 +4,40 @@ date: '2021-01-19'
 title: Trump's Final Day Pardon Spree - 73 Pardons Including Bannon and Broidy
 importance: 9
 actors:
-  - Donald Trump
-  - Steve Bannon
-  - Elliott Broidy
-  - Ken Kurson
-  - Paul Manafort
-  - Roger Stone
-  - Rudy Giuliani
+- Donald Trump
+- Steve Bannon
+- Elliott Broidy
+- Ken Kurson
+- Paul Manafort
+- Roger Stone
+- Rudy Giuliani
 tags:
-  - Pardons
-  - Corruption
-  - Abuse-of-Power
-  - Fraud
-  - Pay-to-Play
+- pardons
+- corruption
+- abuse-of-power
+- fraud
+- pay-to-play
 sources:
-  - title: Trump grants clemency to Bannon, other allies on last day in office
-    url: https://www.reuters.com/article/idUSKBN29O06P/
-    publisher: Reuters
-    date: '2021-01-20'
-    tier: 1
-  - title: Trump Pardons Steve Bannon Amid Flurry of Last-Minute Clemency Grants
-    url: https://www.nytimes.com/2021/01/19/us/politics/trump-pardons.html
-    publisher: New York Times
-    date: '2021-01-20'
-    tier: 1
-  - title: Full list of Trump's last-minute pardons and commutations
-    url: https://www.cnn.com/2021/01/20/politics/trump-pardons-commutations-list/index.html
-    publisher: CNN
-    date: '2021-01-20'
-    tier: 1
-  - title: Steve Bannon charged with fraud in 'We Build the Wall' campaign
-    url: https://www.justice.gov/usao-sdny/pr/leaders-we-build-wall-online-fundraising-campaign-charged-defrauding-hundreds-thousands
-    publisher: U.S. Department of Justice
-    date: '2020-08-20'
-    tier: 1
+- title: Trump grants clemency to Bannon, other allies on last day in office
+  url: https://www.reuters.com/article/idUSKBN29O06P/
+  date: '2021-01-20'
+  tier: 1
+  outlet: Reuters
+- title: Trump Pardons Steve Bannon Amid Flurry of Last-Minute Clemency Grants
+  url: https://www.nytimes.com/2021/01/19/us/politics/trump-pardons.html
+  date: '2021-01-20'
+  tier: 1
+  outlet: The New York Times
+- title: Full list of Trump's last-minute pardons and commutations
+  url: https://www.cnn.com/2021/01/20/politics/trump-pardons-commutations-list/index.html
+  date: '2021-01-20'
+  tier: 1
+  outlet: CNN
+- title: Steve Bannon charged with fraud in 'We Build the Wall' campaign
+  url: https://www.justice.gov/usao-sdny/pr/leaders-we-build-wall-online-fundraising-campaign-charged-defrauding-hundreds-thousands
+  date: '2020-08-20'
+  tier: 1
+  outlet: U.S. Department of Justice
 status: confirmed
 ---
 

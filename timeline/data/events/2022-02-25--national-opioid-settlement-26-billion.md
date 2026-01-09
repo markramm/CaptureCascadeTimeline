@@ -4,34 +4,34 @@ title: National $26 Billion Opioid Settlement with Distributors and J&J, Zero Ex
 date: '2022-02-25'
 importance: 9
 actors:
-  - McKesson
-  - Cardinal Health
-  - AmerisourceBergen
-  - Johnson & Johnson
-  - State Attorneys General
+- McKesson
+- Cardinal Health
+- AmerisourceBergen
+- Johnson & Johnson
+- State Attorneys General
 tags:
-  - opioid-crisis
-  - corporate-settlement
-  - accountability-failure
-  - pharmaceutical-distributors
-  - deferred-prosecution
+- opioid-crisis
+- corporate-settlement
+- accountability-failure
+- pharmaceutical-distributors
+- deferred-prosecution
 status: confirmed
 sources:
-  - title: 4 U.S. companies will pay $26 billion to settle claims they fueled the opioid crisis
-    url: https://www.npr.org/2022/02/25/1082901958/opioid-settlement-johnson-26-billion
-    publisher: NPR
-    date: '2022-02-25'
-    tier: 1
-  - title: Executive Summary – National Opioids Settlement
-    url: https://nationalopioidsettlement.com/executive-summary/
-    publisher: National Opioid Settlement
-    date: '2022-02-25'
-    tier: 1
-  - title: Johnson & Johnson, opioid distributors finalize $26 billion national settlement
-    url: https://www.washingtonpost.com/health/2022/02/25/opioid-settlement-final/
-    publisher: Washington Post
-    date: '2022-02-25'
-    tier: 2
+- title: 4 U.S. companies will pay $26 billion to settle claims they fueled the opioid crisis
+  url: https://www.npr.org/2022/02/25/1082901958/opioid-settlement-johnson-26-billion
+  date: '2022-02-25'
+  tier: 1
+  outlet: NPR
+- title: Executive Summary – National Opioids Settlement
+  url: https://nationalopioidsettlement.com/executive-summary/
+  date: '2022-02-25'
+  tier: 1
+  outlet: National Opioid Settlement
+- title: Johnson & Johnson, opioid distributors finalize $26 billion national settlement
+  url: https://www.washingtonpost.com/health/2022/02/25/opioid-settlement-final/
+  date: '2022-02-25'
+  tier: 2
+  outlet: The Washington Post
 ---
 
 On February 25, 2022, Johnson & Johnson and three major drug distributors—McKesson, Cardinal Health, and AmerisourceBergen—finalized a $26 billion national settlement to resolve thousands of opioid lawsuits from states, counties, cities, and Native American tribes. Despite the record settlement amount, no executives from any of the four companies faced criminal prosecution for their role in flooding communities with addictive prescription opioids.

@@ -4,32 +4,32 @@ date: 2019-07-25
 title: Trump Pressures Zelensky in Phone Call - "I Would Like You to Do Us a Favor Though"
 importance: 10
 tags:
-  - First Impeachment
-  - Ukraine
-  - Quid Pro Quo
-  - Foreign Interference
-  - Election Interference
-  - Abuse of Power
+- first impeachment
+- ukraine
+- quid pro quo
+- foreign interference
+- election interference
+- abuse of power
 actors:
-  - Donald Trump
-  - Volodymyr Zelensky
-  - Rudy Giuliani
+- Donald Trump
+- Volodymyr Zelensky
+- Rudy Giuliani
 sources:
-  - url: https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf
-    title: "Memorandum of Telephone Conversation: The President and President Zelensky of Ukraine"
-    publisher: White House
-    date: 2019-09-25
-    tier: 1
-  - url: https://intelligence.house.gov/report/
-    title: The Trump-Ukraine Impeachment Inquiry Report
-    publisher: House Intelligence Committee
-    date: 2019-12-03
-    tier: 1
-  - url: https://www.npr.org/2019/09/25/764052120/read-transcript-of-president-trumps-call-with-ukraine-s-leader
-    title: "Read: Transcript Of President Trump's Call With Ukraine's Leader"
-    publisher: NPR
-    date: 2019-09-25
-    tier: 1
+- url: https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf
+  title: 'Memorandum of Telephone Conversation: The President and President Zelensky of Ukraine'
+  date: 2019-09-25
+  tier: 1
+  outlet: White House
+- url: https://intelligence.house.gov/report/
+  title: The Trump-Ukraine Impeachment Inquiry Report
+  date: 2019-12-03
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://www.npr.org/2019/09/25/764052120/read-transcript-of-president-trumps-call-with-ukraine-s-leader
+  title: 'Read: Transcript Of President Trump''s Call With Ukraine''s Leader'
+  date: 2019-09-25
+  tier: 1
+  outlet: NPR
 ---
 
 President Donald Trump pressured Ukrainian President Volodymyr Zelensky to investigate his domestic political rival Joe Biden and his son Hunter Biden during a July 25, 2019 phone call, explicitly tying U.S. military assistance to political favors in what would become the central act of his first impeachment. In the now-infamous call, Trump responded to Zelensky's request for Javelin anti-tank missiles by saying "I would like you to do us a favor though," before demanding investigations into Biden's role in Ukraine policy and a debunked conspiracy theory about Ukrainian interference in the 2016 election. Trump had frozen $391 million in congressionally approved military aid to Ukraine weeks earlier, creating unmistakable leverage over a nation under active military threat from Russia.

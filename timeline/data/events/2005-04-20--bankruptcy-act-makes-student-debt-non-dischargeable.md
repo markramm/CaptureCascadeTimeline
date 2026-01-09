@@ -4,30 +4,30 @@ date: 2005-04-20
 title: Bankruptcy Act Makes Private Student Loans Non-Dischargeable - Weaponizing Law Against Students
 importance: 9
 tags:
-  - bankruptcy-law
-  - student-debt
-  - regulatory-capture
-  - financial-fraud
+- bankruptcy-law
+- student-debt
+- regulatory-capture
+- financial-fraud
 actors:
-  - George W. Bush
-  - MBNA
-  - Sallie Mae
+- George W. Bush
+- MBNA
+- Sallie Mae
 sources:
-  - url: https://www.congress.gov/bill/109th-congress/senate-bill/256
-    title: S.256 - Bankruptcy Abuse Prevention and Consumer Protection Act of 2005
-    publisher: U.S. Congress
-    date: 2005-04-20
-    tier: 1
-  - url: https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative
-    title: 2005 Law Made Student Loans More Lucrative
-    publisher: NPR
-    date: 2007-04-24
-    tier: 1
-  - url: https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm
-    title: Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)
-    publisher: U.S. Government Publishing Office
-    date: 2005-04-20
-    tier: 1
+- url: https://www.congress.gov/bill/109th-congress/senate-bill/256
+  title: S.256 - Bankruptcy Abuse Prevention and Consumer Protection Act of 2005
+  date: 2005-04-20
+  tier: 1
+  outlet: U.S. Congress
+- url: https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative
+  title: 2005 Law Made Student Loans More Lucrative
+  date: 2007-04-24
+  tier: 1
+  outlet: NPR
+- url: https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm
+  title: Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)
+  date: 2005-04-20
+  tier: 1
+  outlet: U.S. Government Publishing Office
 status: confirmed
 ---
 

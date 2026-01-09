@@ -1,8 +1,7 @@
 ---
 id: 2017-05-10--trump-reveals-israeli-classified-intelligence-to-lavrov-kislyak-oval-office-day-after-comey-firing
 date: '2017-05-10'
-title: Trump Reveals Israeli Classified Intelligence to Russian Foreign Minister Lavrov
-  in Oval Office - Day After Comey Firing
+title: Trump Reveals Israeli Classified Intelligence to Russian Foreign Minister Lavrov in Oval Office - Day After Comey Firing
 importance: 10
 tags:
 - classified-intelligence
@@ -20,14 +19,14 @@ actors:
 sources:
 - url: https://www.npr.org/2017/05/15/528511980/report-trump-gave-classified-information-to-russians-during-white-house-visit
   title: 'Reports: Trump Gave Classified Info To Russians During White House Visit'
-  publisher: NPR
   date: '2017-05-15'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/israel-was-source-intelligence-trump-shared-russia-sources-n760301
   title: Israel was source of intelligence Trump shared with Russia, officials say
-  publisher: NBC News
   date: '2017-05-16'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

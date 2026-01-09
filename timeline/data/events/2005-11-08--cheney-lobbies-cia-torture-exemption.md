@@ -20,24 +20,24 @@ tags:
 sources:
 - title: Cheney Lobbies for CIA Exemption to Torture Ban
   url: https://www.democracynow.org/2005/10/25/headlines/cheney_lobbies_for_cia_exemption_to_torture_ban
-  publisher: Democracy Now
   date: '2005-10-25'
   tier: 1
+  outlet: Democracy Now
 - title: Agreement Reached on McCain Torture Amendment
   url: https://www.npr.org/transcripts/5055198
-  publisher: NPR
   date: '2005-12-15'
   tier: 1
+  outlet: NPR
 - title: Vice President Endorses Torture
   url: https://www.hrw.org/news/2006/10/25/us-vice-president-endorses-torture
-  publisher: Human Rights Watch
   date: '2006-10-25'
   tier: 1
+  outlet: Human Rights Watch
 - title: Cheney Digs in on Legacy of Torture
   url: https://www.aclu.org/news/national-security/cheney-digs-legacy-torture
-  publisher: ACLU
   date: '2014-12-14'
   tier: 1
+  outlet: ACLU
 ---
 
 Vice President Dick Cheney and CIA Director Porter Goss personally lobby Senator John McCain in an extraordinary attempt to exempt CIA officers from proposed legislation banning "cruel, inhuman or degrading treatment" of any detainee held by the U.S. government. Despite the Senate voting 90-9 to approve McCain's anti-torture amendment, Cheney aggressively pushes for a carve-out allowing the CIA to continue using enhanced interrogation techniques at black site prisons. The lobbying effort exposes the administration's commitment to preserving its torture program despite overwhelming congressional opposition and growing international condemnation.

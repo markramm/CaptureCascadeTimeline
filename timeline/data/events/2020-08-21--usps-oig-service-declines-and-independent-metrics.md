@@ -2,13 +2,10 @@
 id: 2020-08-21--usps-oig-service-declines-and-independent-metrics
 date: '2020-08-21'
 importance: 9
-title: USPS OIG flags service declines after mid-July changes; independent datasets
-  show sharp on-time drops
-notes: 'Include both official OIG findings and independent/third-party performance
-  datasets (Senate HSGAC
+title: USPS OIG flags service declines after mid-July changes; independent datasets show sharp on-time drops
+notes: 'Include both official OIG findings and independent/third-party performance datasets (Senate HSGAC
 
-  minority update; internal USPS slides released by House Oversight; GAO''s 2021 national
-  trendlines).
+  minority update; internal USPS slides released by House Oversight; GAO''s 2021 national trendlines).
 
   '
 status: confirmed
@@ -52,7 +49,7 @@ sources:
   - 2020 nationwide on-time performance fell vs. 2019 baseline
   verified: true
 - date: '2020-08-21'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: House Oversight releases internal USPS performance data showing declines
   url: https://www.washingtonpost.com/powerpost/house-poised-to-pass-bill-to-boost-us-postal-service-amid-trump-attacks/2020/08/21/c9196fa8-e3c6-11ea-8181-606e603bb1c4_story.html
   archive_url: ''

@@ -2,10 +2,8 @@
 id: 2025-12-04--amnesty-international-alligator-alcatraz-torture-report
 date: '2025-12-04'
 importance: 9
-title: Amnesty International documents torture and enforced disappearances at "Alligator
-  Alcatraz" and Krome detention facilities
-location: Everglades Detention Facility, Florida; Krome North Service Processing
-  Center, Florida
+title: Amnesty International documents torture and enforced disappearances at "Alligator Alcatraz" and Krome detention facilities
+location: Everglades Detention Facility, Florida; Krome North Service Processing Center, Florida
 actors:
 - Amnesty International
 - Amy Fischer
@@ -19,25 +17,23 @@ actors:
 tags:
 - immigration-enforcement
 - human-rights-violations
-- ICE
+- ice
 - torture
 - detention-conditions
-- Amnesty-International
+- amnesty-international
 - enforced-disappearances
 - medical-neglect
-- Florida
+- florida
 capture_lanes:
 - Immigration & Border Militarization
 - Human Rights & Civil Liberties Violations
 sources:
-- title: Amnesty International report details human rights violations at Everglades
-    and Krome detention centers
+- title: Amnesty International report details human rights violations at Everglades and Krome detention centers
   url: https://www.wgcu.org/top-story/2025-12-04/amnesty-international-report-details-human-rights-violations-at-everglades-and-krome-detention-centers
   outlet: WGCU PBS & NPR
   date: '2025-12-04'
   tier: 1
-- title: Amnesty alleges torture, enforced disappearances at Florida immigration
-    detention facilities
+- title: Amnesty alleges torture, enforced disappearances at Florida immigration detention facilities
   url: https://www.wlrn.org/immigration/2025-12-04/torture-human-rights-krome-alligator-alcatraz
   outlet: WLRN (NPR)
   date: '2025-12-04'
@@ -47,23 +43,17 @@ sources:
   outlet: NPR
   date: '2025-12-11'
   tier: 1
-- title: 'Torture & Enforced Disappearances at Florida''s ICE Jails: Amnesty International
-    Report'
+- title: 'Torture & Enforced Disappearances at Florida''s ICE Jails: Amnesty International Report'
   url: https://www.democracynow.org/2025/12/10/florida_immigration_detention_torture_amnesty_report
   outlet: Democracy Now
   date: '2025-12-10'
   tier: 1
-- title: 'USA: New Findings Reveal Human Rights Violations at Florida''s "Alligator
-    Alcatraz" and Krome Detention Centers'
+- title: 'USA: New Findings Reveal Human Rights Violations at Florida''s "Alligator Alcatraz" and Krome Detention Centers'
   url: https://www.amnesty.org/en/latest/news/2025/12/estados-unidos-nuevas-investigaciones-revelan-violaciones-de-derechos-humanos-en-los-centros-de-detencion-de-alligator-alcatraz-y-krome-en-florida/
   outlet: Amnesty International
   date: '2025-12-04'
   tier: 1
-notes: Report based on September 2025 research mission. Of 24 ICE custody deaths
-  since October 2024, six occurred in Florida facilities including four at Krome.
-  Florida increased immigration detention by over 50% since January 2025, issuing
-  $360+ million in no-bid contracts for Alligator Alcatraz with $450 million projected
-  annual costs.
+notes: Report based on September 2025 research mission. Of 24 ICE custody deaths since October 2024, six occurred in Florida facilities including four at Krome. Florida increased immigration detention by over 50% since January 2025, issuing $360+ million in no-bid contracts for Alligator Alcatraz with $450 million projected annual costs.
 status: confirmed
 ---
 

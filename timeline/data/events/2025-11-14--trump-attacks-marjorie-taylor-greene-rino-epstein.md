@@ -1,48 +1,43 @@
 ---
 id: 2025-11-14--trump-attacks-marjorie-taylor-greene-rino-epstein
 date: '2025-11-14'
-title: Trump Publicly Turns on Marjorie Taylor Greene, Calls Her RINO Over Epstein
-  Files Support
+title: Trump Publicly Turns on Marjorie Taylor Greene, Calls Her RINO Over Epstein Files Support
 importance: 9
 tags:
-- Epstein
-- Trump-Administration
-- Retaliation
-- Stochastic-Terrorism
-- Congress
+- epstein
+- trump-administration
+- retaliation
+- stochastic-terrorism
+- congress
 actors:
 - Donald Trump
 - Marjorie Taylor Greene
 sources:
-- title: Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world
-    defenders
+- title: Trump cuts ties with Marjorie Taylor Greene, once among his top MAGA-world defenders
   url: https://www.npr.org/2025/11/15/g-s1-97954/trump-marjorie-taylor-greene
-  publisher: NPR
   date: '2025-11-15'
   tier: 1
-- title: Marjorie Taylor Greene blasts Trump for 'vicious' attacks amid pipe bomb scare
-    and death threat against her son
+  outlet: NPR
+- title: Marjorie Taylor Greene blasts Trump for 'vicious' attacks amid pipe bomb scare and death threat against her son
   url: https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-blasts-trump-vicious-unwarranted-attacks-re-rcna244351
-  publisher: NBC News
   date: '2025-11-17'
   tier: 1
+  outlet: NBC News
 - title: Trump, Marjorie Taylor Greene engage in war of words over Epstein investigation
   url: https://abcnews.go.com/Politics/trump-marjorie-taylor-greene-engage-war-words-epstein/story?id=127553799
-  publisher: ABC News
   date: '2025-11-16'
   tier: 1
-- title: Trump says he's withdrawing support for Marjorie Taylor Greene, may back
-    primary opponent
+  outlet: ABC News
+- title: Trump says he's withdrawing support for Marjorie Taylor Greene, may back primary opponent
   url: https://www.cbsnews.com/news/trump-withdrawing-support-marjorie-taylor-greene/
-  publisher: CBS News
   date: '2025-11-14'
   tier: 1
-- title: Georgia Rep. Marjorie Taylor Greene blames Trump for hoax pizza harassment,
-    pipe bomb threats
+  outlet: CBS News
+- title: Georgia Rep. Marjorie Taylor Greene blames Trump for hoax pizza harassment, pipe bomb threats
   url: https://www.cbsnews.com/atlanta/news/georgia-rep-marjorie-taylor-greene-blames-trump-for-hoax-pizza-harassment-pipe-bomb-threats-i-am-not-a-traitor/
-  publisher: CBS News
   date: '2025-11-17'
   tier: 1
+  outlet: CBS News
 ---
 
 President Donald Trump launched a sustained public attack against one of his most loyal congressional allies, Rep. Marjorie Taylor Greene (R-GA), withdrawing his endorsement on Friday, November 14, 2025, and escalating his rhetoric through the weekend with multiple derogatory nicknames and accusations that she had become "the RINO that we all know she always was." The public rupture occurred days after Greene signed a bipartisan discharge petition to force release of Jeffrey Epstein investigation files and coincided with an upcoming House vote on the Epstein Files Transparency Act, leading Greene to accuse Trump of retaliatory conduct designed to intimidate other Republicans.

@@ -19,14 +19,14 @@ tags:
 - campaign-contributions
 - regulatory-capture
 sources:
-- title: 'Keating Five'
+- title: Keating Five
   url: https://en.wikipedia.org/wiki/Keating_Five
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Panel Finds Credible Evidence Cranston Violated Ethics Rules'
+- title: Panel Finds Credible Evidence Cranston Violated Ethics Rules
   url: https://www.washingtonpost.com/archive/politics/1991/02/28/panel-finds-credible-evidence-cranston-violated-ethics-rules/6a936c72-ef9c-4cd5-ac31-1953570e8222/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1991-02-28'
   verified: true
 - title: 'Keating Five Scandal: Exposing 1980s Banking and Political Corruption'

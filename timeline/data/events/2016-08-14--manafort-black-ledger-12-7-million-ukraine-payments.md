@@ -1,7 +1,7 @@
 ---
 id: 2016-08-14--manafort-black-ledger-12-7-million-ukraine-payments
 date: '2016-08-14'
-title: 'Black Ledger Reveals $12.7 Million in Secret Cash Payments to Trump Campaign Chair Manafort'
+title: Black Ledger Reveals $12.7 Million in Secret Cash Payments to Trump Campaign Chair Manafort
 importance: 10
 tags:
 - paul-manafort
@@ -20,26 +20,26 @@ actors:
 - Trump Campaign
 - Ukraine National Anti-Corruption Bureau
 sources:
-- title: 'Secret Ledger in Ukraine Lists Cash for Donald Trump''s Campaign Chief'
+- title: Secret Ledger in Ukraine Lists Cash for Donald Trump's Campaign Chief
   url: https://www.nytimes.com/2016/08/15/us/politics/paul-manafort-ukraine-donald-trump.html
-  publisher: New York Times
   date: '2016-08-14'
   tier: 1
-- title: 'More than $12 million earmarked for Trump''s campaign manager in Ukraine'
+  outlet: The New York Times
+- title: More than $12 million earmarked for Trump's campaign manager in Ukraine
   url: https://www.washingtonpost.com/politics/more-than-12-million-earmarked-for-trumps-campaign-manager-in-ukraine/2016/08/15/7ff7bec4-62dd-11e6-96c0-37533479f3f5_story.html
-  publisher: Washington Post
   date: '2016-08-15'
   tier: 1
-- title: 'Paul Manafort''s ''Black Ledger'' Payments Confirmed, Report Says'
+  outlet: The Washington Post
+- title: Paul Manafort's 'Black Ledger' Payments Confirmed, Report Says
   url: https://www.newsweek.com/paul-manaforts-black-ledger-payments-confirmed-report-says-583111
-  publisher: Newsweek
   date: '2017-04-12'
   tier: 2
-- title: 'The Ukraine Payments That Link Manafort to Putin'
+  outlet: Newsweek
+- title: The Ukraine Payments That Link Manafort to Putin
   url: https://www.newsweek.com/ukraine-payments-link-manafort-putin-575429
-  publisher: Newsweek
   date: '2017-04-03'
   tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

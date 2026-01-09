@@ -4,27 +4,27 @@ title: HHS Watchdog Finds Health Risk Assessments Drove $7.5 Billion in Medicare
 date: '2024-10-31'
 importance: 9
 actors:
-  - Department of Health and Human Services Office of Inspector General
-  - Centers for Medicare & Medicaid Services
-  - Medicare Advantage insurers
+- Department of Health and Human Services Office of Inspector General
+- Centers for Medicare & Medicaid Services
+- Medicare Advantage insurers
 tags:
-  - healthcare
-  - medicare-advantage
-  - insurance-fraud
-  - systematic-corruption
-  - regulatory-capture
+- healthcare
+- medicare-advantage
+- insurance-fraud
+- systematic-corruption
+- regulatory-capture
 status: confirmed
 sources:
-  - title: Medicare Advantage - Questionable Use of Health Risk Assessments Continues To Drive Up Payments to Plans by Billions
-    url: https://oig.hhs.gov/reports/all/2024/medicare-advantage-questionable-use-of-health-risk-assessments-continues-to-drive-up-payments-to-plans-by-billions/
-    publisher: HHS Office of Inspector General
-    date: '2024-10-31'
-    tier: 1
-  - title: Watchdog Estimates $7.5 Billion Medicare Advantage Overpayment from Questionable Health Risk Assessments
-    url: https://www.medicarerights.org/medicare-watch/2024/10/31/watchdog-estimates-7-5-billion-medicare-advantage-overpayment-from-questionable-health-risk-assessments
-    publisher: Medicare Rights Center
-    date: '2024-10-31'
-    tier: 2
+- title: Medicare Advantage - Questionable Use of Health Risk Assessments Continues To Drive Up Payments to Plans by Billions
+  url: https://oig.hhs.gov/reports/all/2024/medicare-advantage-questionable-use-of-health-risk-assessments-continues-to-drive-up-payments-to-plans-by-billions/
+  date: '2024-10-31'
+  tier: 1
+  outlet: HHS Office of Inspector General
+- title: Watchdog Estimates $7.5 Billion Medicare Advantage Overpayment from Questionable Health Risk Assessments
+  url: https://www.medicarerights.org/medicare-watch/2024/10/31/watchdog-estimates-7-5-billion-medicare-advantage-overpayment-from-questionable-health-risk-assessments
+  date: '2024-10-31'
+  tier: 2
+  outlet: Medicare Rights Center
 ---
 
 On October 31, 2024, the Department of Health and Human Services Office of Inspector General (OIG) released a report estimating that Medicare Advantage insurers received at least $7.5 billion in improper payments in 2023 from Health Risk Assessments (HRAs) that added diagnoses to inflate risk scores without resulting in any additional medical care or spending for patients. The report exposed a systematic fraud scheme where insurers send representatives to beneficiaries' homes to conduct "assessments" that generate diagnoses increasing federal payments, but these diagnoses never lead to treatment—revealing they were added solely for billing purposes rather than legitimate medical findings. This represents one of the largest documented Medicare fraud schemes in history, with the Medicare Payment Advisory Commission estimating industry-wide overpayments could reach $43 billion annually.

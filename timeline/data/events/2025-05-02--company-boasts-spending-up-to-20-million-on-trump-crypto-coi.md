@@ -2,10 +2,7 @@
 id: 2025-05-02--company-boasts-spending-up-to-20-million-on-trump-crypto-coi
 date: '2025-05-02'
 title: Freight Technologies Purchases $20M in Trump Crypto to Lobby Against Tariffs
-description: Freight Technologies Inc. CEO Javier Selgas revealed a bold lobbying
-  strategy by purchasing $20 million worth of Trump's cryptocurrency, with the explicit
-  goal of gaining the president's attention regarding punitive tariffs on Mexican
-  imports that were significantly impacting the company's shipping operations.
+description: Freight Technologies Inc. CEO Javier Selgas revealed a bold lobbying strategy by purchasing $20 million worth of Trump's cryptocurrency, with the explicit goal of gaining the president's attention regarding punitive tariffs on Mexican imports that were significantly impacting the company's shipping operations.
 actors:
 - Donald Trump
 - Javier Selgas
@@ -26,7 +23,7 @@ patterns:
 - kleptocratic-capture
 - regulatory-manipulation
 sources:
-- outlet: Huffington Post
+- outlet: HuffPost
   title: Company boasts spending up to $20 million on Trump crypto coin to buy influence
   url: https://www.huffpost.com/entry/trump-coins-freight-influence_n_68153967e4b03d516aad99d3
   date: '2025-05-02'
@@ -46,8 +43,7 @@ connections:
 - Cryptocurrency lobbying
 - Trump administration trade policy
 status: confirmed
-notes: Event from comprehensive kleptocracy timeline tracking. Updated with additional
-  sources and context.
+notes: Event from comprehensive kleptocracy timeline tracking. Updated with additional sources and context.
 ---
 
 Freight Technologies Inc., a North American shipping logistics company, announced a $20 million purchase of President Trump's cryptocurrency ($TRUMP) as a strategic attempt to influence White House trade policy and lobby for tariff relief. CEO Javier Selgas explicitly stated the goal was to draw attention to the devastating impact of 25% tariffs on cross-border freight traffic.

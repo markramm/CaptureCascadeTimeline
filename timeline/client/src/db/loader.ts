@@ -1,52 +1,70 @@
+/**
+ * Database Loader
+ *
+ * Handles syncing timeline data from remote sources to local IndexedDB.
+ * Uses the dataService for fetching and the config for source URLs.
+ */
 
 import { db } from './index';
+import { fetchTimelineData } from '../services/dataService';
+import { getConfig } from '../config/timeline';
+import type { ValidationRecord, AggregatedValidation } from '../schemas/validation';
 
-export const syncEvents = async (force = false) => {
+export interface SyncResult {
+    count: number;
+    source: 'local' | 'network';
+    schemaWarning?: string;
+}
+
+/**
+ * Sync events from configured data source to local IndexedDB
+ */
+export const syncEvents = async (force = false): Promise<SyncResult> => {
     const count = await db.events.count();
     if (count > 0 && !force) {
         console.log('Events already loaded via Dexie');
         return { count, source: 'local' };
     }
 
-    try {
-        const response = await fetch('/api/timeline.json');
-        if (!response.ok) throw new Error('Failed to fetch timeline.json');
+    const config = getConfig();
+    console.log(`Fetching events from: ${config.dataUrl}`);
 
-        // Check if response is raw array or object
-        const data = await response.json();
-        const events = Array.isArray(data) ? data : data.events;
+    const result = await fetchTimelineData();
 
-        if (!events) {
-            // Support legacy format if needed, or error
-            throw new Error('Invalid timeline.json format');
-        }
-
-        console.log(`Fetching ${events.length} events from API...`);
-
-        // Bulk put (faster than add)
-        await db.events.bulkPut(events);
-
-        // Also sync validations
-        await syncValidations();
-
-        // Update repo sync status (mock for now)
-        await db.repos.put({
-            url: window.location.origin,
-            name: 'Local Static API',
-            last_synced: new Date().toISOString(),
-            enabled: true
-        });
-
-        return { count: events.length, source: 'network' };
-        return { count: events.length, source: 'network' };
-    } catch (err) {
-        console.error('Failed to sync events:', err);
-        throw err;
+    if (!result.success) {
+        throw new Error(result.error || 'Failed to fetch timeline data');
     }
+
+    if (!result.events || result.events.length === 0) {
+        throw new Error('No events found in timeline data');
+    }
+
+    console.log(`Fetching ${result.events.length} events from API...`);
+
+    // Bulk put (faster than add)
+    await db.events.bulkPut(result.events);
+
+    // Also sync validations
+    await syncValidations();
+
+    // Update repo sync status
+    await db.repos.put({
+        url: config.dataUrl,
+        name: result.data?.name || 'Timeline',
+        last_synced: new Date().toISOString(),
+        enabled: true
+    });
+
+    return {
+        count: result.events.length,
+        source: 'network',
+        schemaWarning: result.schemaWarning
+    };
 };
 
-import type { ValidationRecord, AggregatedValidation } from '../schemas/validation';
-
+/**
+ * Sync validation records from API
+ */
 export const syncValidations = async () => {
     try {
         const response = await fetch('/api/validations.json');
@@ -65,9 +83,7 @@ export const syncValidations = async () => {
             }
         }
 
-        // Clear and replace? Or upsert?
-        // Since id is auto-inc, bulkPut might just add. 
-        // For now, clear table first to avoid dups if re-syncing whole set.
+        // Clear and replace to avoid dups if re-syncing whole set.
         await db.validations.clear();
         await db.validations.bulkPut(allRecords);
 

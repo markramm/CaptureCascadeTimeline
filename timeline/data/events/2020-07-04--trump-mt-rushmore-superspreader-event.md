@@ -4,30 +4,30 @@ date: '2020-07-04'
 title: Trump Holds Mt. Rushmore Rally with 7,500 Packed, Maskless Attendees During Pandemic Surge
 importance: 7
 tags:
-  - COVID-19
-  - Public Health
-  - Superspreader Event
-  - Accountability Crisis
+- covid-19
+- public health
+- superspreader event
+- accountability crisis
 actors:
-  - Donald Trump
-  - Kristi Noem
-  - Kimberly Guilfoyle
+- Donald Trump
+- Kristi Noem
+- Kimberly Guilfoyle
 sources:
-  - title: Trump Flouts Virus Rules, Warns Of 'New Far-Left Fascism' At Mount Rushmore Event
-    url: https://www.npr.org/2020/07/04/887222928/trump-flouts-virus-rules-warns-of-new-far-left-fascism-in-speech-ahead-of-july-4
-    publisher: NPR
-    date: '2020-07-04'
-    tier: 1
-  - title: The Fourth of July Weekend Threw America's Coronavirus Failures Into Stark Relief
-    url: https://time.com/5863324/july-fourth-coronavirus/
-    publisher: TIME
-    date: '2020-07-06'
-    tier: 1
-  - title: No social distancing planned for Trump's Mt. Rushmore fireworks event, governor says
-    url: https://abcnews.go.com/Politics/trump-holding-large-scale-july-4th-event-mount/story?id=71576804
-    publisher: ABC News
-    date: '2020-07-01'
-    tier: 1
+- title: Trump Flouts Virus Rules, Warns Of 'New Far-Left Fascism' At Mount Rushmore Event
+  url: https://www.npr.org/2020/07/04/887222928/trump-flouts-virus-rules-warns-of-new-far-left-fascism-in-speech-ahead-of-july-4
+  date: '2020-07-04'
+  tier: 1
+  outlet: NPR
+- title: The Fourth of July Weekend Threw America's Coronavirus Failures Into Stark Relief
+  url: https://time.com/5863324/july-fourth-coronavirus/
+  date: '2020-07-06'
+  tier: 1
+  outlet: TIME
+- title: No social distancing planned for Trump's Mt. Rushmore fireworks event, governor says
+  url: https://abcnews.go.com/Politics/trump-holding-large-scale-july-4th-event-mount/story?id=71576804
+  date: '2020-07-01'
+  tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

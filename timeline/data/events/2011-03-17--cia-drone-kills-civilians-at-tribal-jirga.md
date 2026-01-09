@@ -17,24 +17,24 @@ tags:
 sources:
 - title: Covert Drone War - CIA Tactics in Pakistan Include Targeting Rescuers and Funerals
   url: https://www.thebureauinvestigates.com/stories/2012-02-04/covert-drone-war
-  publisher: The Bureau of Investigative Journalism
   date: '2012-02-04'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Drone Strikes in Pakistan
   url: https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan
-  publisher: Wikipedia (sourced from Bureau data)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from Bureau data)
 - title: Obama's Covert Drone War in Numbers
   url: https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
-  publisher: The Bureau of Investigative Journalism
   date: '2017-01-17'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Living Under Drones - Death, Injury, and Trauma to Civilians from US Drone Practices in Pakistan
   url: https://www.law.stanford.edu/publications/living-under-drones-death-injury-and-trauma-to-civilians-from-us-drone-practices-in-pakistan
-  publisher: Stanford Law School / NYU School of Law
   date: '2012-09-25'
   tier: 1
+  outlet: Stanford Law School / NYU School of Law
 ---
 
 A CIA drone strike on a tribal jirga (council meeting) in Datta Khel, North Waziristan kills at least 42 people, the vast majority of them civilians including tribal elders gathered to resolve a local mining dispute. The massacre represents one of the deadliest single drone strikes of Obama's presidency and epitomizes the horrific consequences of signature strikes—CIA targeting based on behavioral patterns rather than confirmed identification of terrorists. Witnesses and Pakistani officials report the strike hit a gathering of tribal leaders and community members conducting traditional conflict resolution, not a meeting of militants as the CIA claimed.

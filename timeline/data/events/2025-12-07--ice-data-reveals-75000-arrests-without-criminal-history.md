@@ -4,13 +4,13 @@ date: '2025-12-07'
 title: ICE Data Reveals 75,000 Arrests Had No Criminal History in Quota-Driven Dragnet
 importance: 9
 tags:
-- ICE
+- ice
 - immigration-enforcement
 - mass-detention
 - dragnet
 - due-process
 - police-state
-- Stephen-Miller
+- stephen-miller
 - arrest-quotas
 - data-transparency
 actors:
@@ -22,27 +22,27 @@ actors:
 - arrested individuals
 - Kristi Noem
 sources:
-- title: "ICE has arrested nearly 75,000 people with no criminal records, data shows"
+- title: ICE has arrested nearly 75,000 people with no criminal records, data shows
   url: https://www.nbcnews.com/politics/immigration/ice-arrested-nearly-75000-people-no-criminal-records-data-shows-rcna247377
   outlet: NBC News
   date: '2025-12-07'
   tier: 1
-- title: "About a third of people arrested by ICE had no criminal record, new data shows"
+- title: About a third of people arrested by ICE had no criminal record, new data shows
   url: https://www.npr.org/2025/12/10/nx-s1-5637397/about-a-third-of-people-arrested-by-ice-had-no-criminal-record-new-data-shows
   outlet: NPR
   date: '2025-12-10'
   tier: 1
-- title: "The number of non-criminal detainees arrested by ICE has surged by 2,000% under Trump"
+- title: The number of non-criminal detainees arrested by ICE has surged by 2,000% under Trump
   url: https://www.cbsnews.com/news/ice-detainee-data-fastest-growing-without-criminal-records-trump/
   outlet: CBS News
   date: '2025-12-05'
   tier: 1
-- title: "ICE data release: Sep. 2023 to mid-Oct. 2025"
+- title: 'ICE data release: Sep. 2023 to mid-Oct. 2025'
   url: https://deportationdata.org/news/2025-12-01-ICE-release.html
   outlet: Deportation Data Project
   date: '2025-12-01'
   tier: 1
-- title: "ICE detains US citizen in Minneapolis"
+- title: ICE detains US citizen in Minneapolis
   url: https://www.cbsnews.com/minnesota/news/minneapolis-leaders-say-us-citizen-was-wrongfully-arrested-by-ice-agents/
   outlet: CBS News
   date: '2025-12-10'

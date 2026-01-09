@@ -3,21 +3,21 @@ id: 2010-06-18--biden-praises-palantir-stimulus-fraud-detection
 date: '2010-06-18'
 title: Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
 importance: 7
+actors:
+- Joe Biden
+- Peter Orszag
+- Palantir Technologies
+- Recovery Accountability and Transparency Board
 tags:
 - palantir
 - joe-biden
 - stimulus
 - fraud-detection
 - government-endorsement
-actors:
-- Joe Biden
-- Peter Orszag
-- Palantir Technologies
-- Recovery Accountability and Transparency Board
 sources:
-- url: https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b
-  title: 'Palantir Gotham: From 9/11 to AI'
-  publisher: Medium
+- title: 'Palantir Gotham: From 9/11 to AI'
+  url: https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b
+  outlet: Medium
   date: '2024-01-01'
   tier: 3
 ---

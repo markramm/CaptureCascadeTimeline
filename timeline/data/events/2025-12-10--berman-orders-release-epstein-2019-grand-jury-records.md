@@ -15,19 +15,19 @@ tags:
 sources:
 - title: New York judge orders release of Jeffrey Epstein grand jury records from 2019 case
   url: https://www.nbcnews.com/politics/justice-department/new-york-judge-orders-release-jeffrey-epstein-grand-jury-records-rcna248393
-  publisher: NBC News
   date: '2025-12-10'
   tier: 1
+  outlet: NBC News
 - title: Justice Department can unseal records from Epstein's 2019 sex trafficking case, judge says
   url: https://www.opb.org/article/2025/12/10/justice-department-can-unseal-records-from-epstein-s-2019-sex-trafficking-case-judge-says/
-  publisher: OPB
   date: '2025-12-10'
   tier: 1
+  outlet: OPB
 - title: Federal judge orders unsealing of more Epstein files in New York
   url: https://www.cbsnews.com/news/epstein-files-new-york-judge-unsealing-justice-department/
-  publisher: CBS News
   date: '2025-12-10'
   tier: 2
+  outlet: CBS News
 actors:
 - Judge Richard M. Berman
 - Department of Justice

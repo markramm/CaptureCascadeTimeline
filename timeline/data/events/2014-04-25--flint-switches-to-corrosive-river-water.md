@@ -4,36 +4,36 @@ date: 2014-04-25
 title: Flint Switches to Corrosive River Water to Save Money, Poisoning Entire City
 importance: 10
 tags:
-  - flint-water-crisis
-  - emergency-manager
-  - environmental-racism
-  - public-health
-  - cost-cutting
+- flint-water-crisis
+- emergency-manager
+- environmental-racism
+- public-health
+- cost-cutting
 actors:
-  - Darnell Earley
-  - Flint Department of Public Works
-  - Michigan Department of Environmental Quality
+- Darnell Earley
+- Flint Department of Public Works
+- Michigan Department of Environmental Quality
 sources:
-  - url: https://www.history.com/this-day-in-history/april-25/the-flint-water-crisis-begins
-    title: The Flint water crisis begins
-    publisher: History.com
-    date: 2024-04-25
-    tier: 2
-  - url: https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know
-    title: Flint Water Crisis - Everything You Need to Know
-    publisher: Natural Resources Defense Council
-    date: 2023-11-08
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Flint_water_crisis
-    title: Flint water crisis
-    publisher: Wikipedia
-    date: 2024-11-10
-    tier: 2
-  - url: https://news.umich.edu/five-years-later-flint-water-crisis-most-egregious-example-of-environmental-injustice-u-m-researcher-says/
-    title: Five years later - Flint water crisis most egregious example of environmental injustice
-    publisher: University of Michigan News
-    date: 2019-04-25
-    tier: 1
+- url: https://www.history.com/this-day-in-history/april-25/the-flint-water-crisis-begins
+  title: The Flint water crisis begins
+  date: 2024-04-25
+  tier: 2
+  outlet: History.com
+- url: https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know
+  title: Flint Water Crisis - Everything You Need to Know
+  date: 2023-11-08
+  tier: 1
+  outlet: Natural Resources Defense Council
+- url: https://en.wikipedia.org/wiki/Flint_water_crisis
+  title: Flint water crisis
+  date: 2024-11-10
+  tier: 2
+  outlet: Wikipedia
+- url: https://news.umich.edu/five-years-later-flint-water-crisis-most-egregious-example-of-environmental-injustice-u-m-researcher-says/
+  title: Five years later - Flint water crisis most egregious example of environmental injustice
+  date: 2019-04-25
+  tier: 1
+  outlet: University of Michigan News
 status: confirmed
 ---
 

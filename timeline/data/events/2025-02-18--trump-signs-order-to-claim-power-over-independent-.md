@@ -2,9 +2,7 @@
 id: 2025-02-18--trump-signs-order-to-claim-power-over-independent-
 date: '2025-02-18'
 title: Trump Signs Order to Claim Power Over Independent Agencies
-description: President Trump signed an executive order claiming direct control over
-  traditionally independent federal agencies, undermining their ability to operate
-  free from political interference.
+description: President Trump signed an executive order claiming direct control over traditionally independent federal agencies, undermining their ability to operate free from political interference.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -24,7 +22,7 @@ capture_type: monetizing_position
 sources:
 - title: Trump signs executive order challenging independence of FCC, FTC and SEC
   url: https://www.washingtonpost.com/politics/2025/02/18/trump-executive-order-fcc-ftc-sec/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-18'
 - title: Trump executive order targets control of SEC, FTC, and FCC
   url: https://fortune.com/2025/02/19/trump-executive-order-aims-to-seize-control-from-independent-watchdogs-sec-ftc-and-fcc/
@@ -34,8 +32,7 @@ sources:
   url: https://www.npr.org/2025/02/19/nx-s1-5302481/trump-independent-agencies
   outlet: NPR
   date: '2025-02-19'
-- title: President Donald J. Trump Reins in Independent Agencies to Restore a Government
-    that Answers to the American People
+- title: President Donald J. Trump Reins in Independent Agencies to Restore a Government that Answers to the American People
   url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-reins-in-independent-agencies-to-restore-a-government-that-answers-to-the-american-people/
   outlet: White House
   date: '2025-02-18'
@@ -44,8 +41,7 @@ patterns:
 - institutional-capture
 - independence-destruction
 - authoritarian-consolidation
-notes: This event represents a significant example of kleptocratic capture, demonstrating
-  how democratic institutions are being systematically undermined.
+notes: This event represents a significant example of kleptocratic capture, demonstrating how democratic institutions are being systematically undermined.
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

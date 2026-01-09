@@ -20,14 +20,14 @@ actors:
 sources:
 - title: Spotify's Joe Rogan has repeatedly spread the baseless conspiracy theory that January 6 was a false flag orchestrated by the FBI
   url: https://www.mediamatters.org/january-6-insurrection/spotifys-joe-rogan-has-repeatedly-spread-baseless-conspiracy-theory-january
-  publisher: Media Matters for America
   date: '2023-07-31'
   tier: 2
+  outlet: Media Matters for America
 - title: Joe Rogan Says It's a 'Fact' That Jan. 6 Insurrection Was False Flag, Cites Ray Epps
   url: https://www.thedailybeast.com/joe-rogan-says-its-a-fact-that-jan-6-insurrection-was-false-flag-cites-ray-epps
-  publisher: The Daily Beast
   date: '2023-07-31'
   tier: 2
+  outlet: The Daily Beast
 status: confirmed
 ---
 

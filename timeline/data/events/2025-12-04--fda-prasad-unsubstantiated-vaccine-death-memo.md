@@ -11,13 +11,13 @@ actors:
 - FDA Commissioner Martin Makary
 - FDA Scientists
 tags:
-- FDA
+- fda
 - vaccines
 - public-health
 - vaccine-safety
 - disinformation
-- RFK-Jr
-- COVID-19
+- rfk-jr
+- covid-19
 - children
 - scientific-integrity
 - regulatory-capture

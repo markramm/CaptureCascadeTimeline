@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.hrw.org/news/2016/12/08/yemen-us-made-bombs-used-unlawful-airstrikes
   title: Yemen - US-Made Bombs Used in Unlawful Airstrikes
-  publisher: Human Rights Watch
   date: '2016-12-08'
   tier: 1
+  outlet: Human Rights Watch
 - url: https://pulitzercenter.org/stories/arizona-yemen-how-bombs-built-raytheon-tucson-killed-31-civilians-yemeni-village
   title: From Arizona to Yemen - How Bombs Built by Raytheon in Tucson Killed 31 Civilians in Yemeni Village
-  publisher: Pulitzer Center
   date: '2018-12-17'
   tier: 1
+  outlet: Pulitzer Center
 - url: https://www.democracynow.org/2018/12/17/from_arizona_to_yemen_how_bombs
   title: How Bombs Built by Raytheon in Tucson Killed 31 Civilians in Yemen
-  publisher: Democracy Now
   date: '2018-12-17'
   tier: 2
+  outlet: Democracy Now
 - url: https://reliefweb.int/report/yemen/yemen-us-made-bombs-used-unlawful-airstrikes-enar
   title: Yemen - US-made bombs used in unlawful airstrikes
-  publisher: ReliefWeb
   date: '2016-12-08'
   tier: 1
+  outlet: ReliefWeb
 actors:
 - Raytheon
 - Saudi Arabia

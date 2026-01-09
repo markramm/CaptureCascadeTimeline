@@ -18,11 +18,11 @@ tags:
 sources:
 - url: https://www.washingtonpost.com/wp-dyn/articles/A17126-2004Nov12.html
   title: CIA Chief Goss Reorganizes Senior Ranks
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2004-11-13'
 - url: https://www.nytimes.com/2004/11/16/politics/exodus-at-cia-amid-allegations-of-political-pressure.html
   title: Exodus at CIA Amid Allegations of Political Pressure
-  outlet: New York Times
+  outlet: The New York Times
   date: '2004-11-16'
 - url: https://www.theguardian.com/world/2004/nov/16/usa.politics
   title: Bush's CIA Chief Purges Agency Critics

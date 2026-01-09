@@ -4,35 +4,35 @@ date: 2018-11-06
 title: Michigan Voters Approve Independent Redistricting Commission, Ending Partisan Gerrymandering
 importance: 8
 tags:
-  - gerrymandering
-  - michigan
-  - direct-democracy
-  - voting-rights
-  - ballot-initiative
+- gerrymandering
+- michigan
+- direct-democracy
+- voting-rights
+- ballot-initiative
 actors:
-  - Voters Not Politicians
-  - Michigan voters
+- Voters Not Politicians
+- Michigan voters
 sources:
-  - url: https://ballotpedia.org/Michigan_Proposal_2,_Independent_Redistricting_Commission_Initiative_(2018)
-    title: Michigan Proposal 2, Independent Redistricting Commission Initiative (2018)
-    publisher: Ballotpedia
-    date: 2018-11-06
-    tier: 2
-  - url: https://campaignlegal.org/story/how-michigan-voters-came-together-flip-gerrymandering-its-head
-    title: How Michigan Voters Came Together to Flip Gerrymandering On Its Head
-    publisher: Campaign Legal Center
-    date: 2019-01-01
-    tier: 1
-  - url: https://bridgemi.com/michigan-government/maps-show-how-gerrymandering-benefitted-michigan-republicans/
-    title: Maps show how gerrymandering benefitted Michigan Republicans
-    publisher: Bridge Michigan
-    date: 2018-10-15
-    tier: 2
-  - url: https://gerrymander.princeton.edu/reforms/mi/
-    title: Michigan
-    publisher: Princeton Gerrymandering Project
-    date: 2024-01-01
-    tier: 1
+- url: https://ballotpedia.org/Michigan_Proposal_2,_Independent_Redistricting_Commission_Initiative_(2018)
+  title: Michigan Proposal 2, Independent Redistricting Commission Initiative (2018)
+  date: 2018-11-06
+  tier: 2
+  outlet: Ballotpedia
+- url: https://campaignlegal.org/story/how-michigan-voters-came-together-flip-gerrymandering-its-head
+  title: How Michigan Voters Came Together to Flip Gerrymandering On Its Head
+  date: 2019-01-01
+  tier: 1
+  outlet: Campaign Legal Center
+- url: https://bridgemi.com/michigan-government/maps-show-how-gerrymandering-benefitted-michigan-republicans/
+  title: Maps show how gerrymandering benefitted Michigan Republicans
+  date: 2018-10-15
+  tier: 2
+  outlet: Bridge Michigan
+- url: https://gerrymander.princeton.edu/reforms/mi/
+  title: Michigan
+  date: 2024-01-01
+  tier: 1
+  outlet: Princeton Gerrymandering Project
 ---
 
 Michigan voters approve Proposal 2 with 61% support, amending the state constitution to create an independent redistricting commission that removes politicians from the line-drawing process. The grassroots "Voters Not Politicians" initiative directly responds to Michigan's status as having some of the nation's worst gerrymandering, where 2011 Republican-drawn maps allowed the GOP to win 64% of House seats and 9 of 14 congressional seats despite winning only 50.1% of statewide votes in 2016.

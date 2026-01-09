@@ -1,32 +1,43 @@
 ---
-id: "2025-12-02--voice-of-america-bureau-closures-surrender-information-space"
-date: "2025-12-02"
-title: "Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China"
-summary: "Trump administration officials notified Congress of plans to close six Voice of America overseas bureaus and four shortwave radio transmitters, defying federal court orders requiring VOA operations to resume. The closures will shut down VOA presence in Jakarta, Islamabad, Nairobi, Prague, and other strategic locations, along with radio stations in Germany, Thailand, and Botswana. Press freedom advocates warn the shutdown surrenders critical information infrastructure to Russian and Chinese state media in regions where independent journalism is heavily restricted, while Republican national security experts call it a strategic gift to America's adversaries."
+id: 2025-12-02--voice-of-america-bureau-closures-surrender-information-space
+date: '2025-12-02'
+title: Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China
+summary: Trump administration officials notified Congress of plans to close six Voice of America overseas bureaus and four shortwave radio transmitters, defying federal court orders requiring VOA operations to resume. The closures will shut down VOA presence in Jakarta, Islamabad, Nairobi, Prague, and other strategic locations, along with radio stations in Germany, Thailand, and Botswana. Press freedom advocates warn the shutdown surrenders critical information infrastructure to Russian and Chinese state media in regions where independent journalism is heavily restricted, while Republican national security experts call it a strategic gift to America's adversaries.
 importance: 9
-tags: ["media-suppression", "foreign-policy", "authoritarianism", "china", "russia", "propaganda"]
-actors: ["Donald Trump", "Kari Lake", "Voice of America", "Federal Judiciary", "State Department"]
+tags:
+- media-suppression
+- foreign-policy
+- authoritarianism
+- china
+- russia
+- propaganda
+actors:
+- Donald Trump
+- Kari Lake
+- Voice of America
+- Federal Judiciary
+- State Department
 sources:
-  - url: "https://thedesk.net/2025/12/voice-of-america-closing-bureaus-shortwave-radio/"
-    title: "Voice of America moves forward with bureau, shortwave radio closures"
-    publisher: "The Desk"
-    date: "2025-12-02"
-    tier: 2
-  - url: "https://www.pbs.org/newshour/show/what-is-voice-of-america-and-why-trump-is-dismantling-the-broadcaster"
-    title: "What is Voice of America and why Trump is dismantling the broadcaster"
-    publisher: "PBS NewsHour"
-    date: "2025-12-03"
-    tier: 1
-  - url: "https://www.wbur.org/hereandnow/2025/08/01/voice-of-america-shutdown"
-    title: "How Trump's shutdown of Voice of America will impact underserved countries worldwide"
-    publisher: "NPR/WBUR Here & Now"
-    date: "2025-08-01"
-    tier: 1
-  - url: "https://abcnews.go.com/Politics/trump-silencing-voa-threatens-free-media-repressive-countries/story?id=119897528"
-    title: "Trump silencing VOA threatens free media in repressive countries, advocates say"
-    publisher: "ABC News"
-    date: "2025-03-15"
-    tier: 1
+- url: https://thedesk.net/2025/12/voice-of-america-closing-bureaus-shortwave-radio/
+  title: Voice of America moves forward with bureau, shortwave radio closures
+  date: '2025-12-02'
+  tier: 2
+  outlet: The Desk
+- url: https://www.pbs.org/newshour/show/what-is-voice-of-america-and-why-trump-is-dismantling-the-broadcaster
+  title: What is Voice of America and why Trump is dismantling the broadcaster
+  date: '2025-12-03'
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.wbur.org/hereandnow/2025/08/01/voice-of-america-shutdown
+  title: How Trump's shutdown of Voice of America will impact underserved countries worldwide
+  date: '2025-08-01'
+  tier: 1
+  outlet: NPR/WBUR Here & Now
+- url: https://abcnews.go.com/Politics/trump-silencing-voa-threatens-free-media-repressive-countries/story?id=119897528
+  title: Trump silencing VOA threatens free media in repressive countries, advocates say
+  date: '2025-03-15'
+  tier: 1
+  outlet: ABC News
 ---
 
 # Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China

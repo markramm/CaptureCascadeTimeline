@@ -4,31 +4,31 @@ date: 1986-11-21
 title: Oliver North Begins Systematic Destruction of Iran-Contra Evidence
 importance: 9
 tags:
-  - Iran-Contra
-  - Reagan-administration
-  - obstruction-of-justice
-  - cover-up
-  - covert-operations
+- iran-contra
+- reagan-administration
+- obstruction-of-justice
+- cover-up
+- covert-operations
 actors:
-  - Oliver North
-  - Fawn Hall
-  - John Poindexter
+- Oliver North
+- Fawn Hall
+- John Poindexter
 sources:
-  - url: https://www.history.com/this-day-in-history/oliver-north-starts-feeding-documents-into-the-shredding-machine
-    title: Oliver North Starts Feeding Documents Into the Shredding Machine
-    publisher: History Channel
-    date: 2024-11-21
-    tier: 2
-  - url: https://irp.fas.org/offdocs/walsh/chap_02.htm
-    title: Walsh Report Chapter 2 - United States v. Oliver L. North
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://irp.fas.org/offdocs/walsh/chap_05.htm
-    title: Walsh Report Chapter 5 - Fawn Hall
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
+- url: https://www.history.com/this-day-in-history/oliver-north-starts-feeding-documents-into-the-shredding-machine
+  title: Oliver North Starts Feeding Documents Into the Shredding Machine
+  date: 2024-11-21
+  tier: 2
+  outlet: History Channel
+- url: https://irp.fas.org/offdocs/walsh/chap_02.htm
+  title: Walsh Report Chapter 2 - United States v. Oliver L. North
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://irp.fas.org/offdocs/walsh/chap_05.htm
+  title: Walsh Report Chapter 5 - Fawn Hall
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
 ---
 
 National Security Council staff member Oliver North and his secretary Fawn Hall begin systematically shredding documents that would expose illegal activities related to arms sales to Iran and the diversion of proceeds to Nicaraguan Contra rebels. The five-day document destruction campaign, running from November 21-25, 1986, represents a brazen attempt to obstruct justice as the scandal begins to unravel.

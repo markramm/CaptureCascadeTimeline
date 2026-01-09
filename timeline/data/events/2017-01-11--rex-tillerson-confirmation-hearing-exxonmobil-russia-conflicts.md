@@ -1,8 +1,7 @@
 ---
 id: 2017-01-11--rex-tillerson-confirmation-hearing-exxonmobil-russia-conflicts
 date: '2017-01-11'
-title: Rex Tillerson Confirmation Hearing Reveals ExxonMobil-Russia Conflicts and
-  Sanctions Violations
+title: Rex Tillerson Confirmation Hearing Reveals ExxonMobil-Russia Conflicts and Sanctions Violations
 importance: 9
 tags:
 - conflicts-of-interest
@@ -19,22 +18,20 @@ actors:
 - Rosneft
 sources:
 - url: https://www.cbsnews.com/news/rex-tillerson-grilled-on-exxonmobil-conflicts-russia-sanctions-climate-change-at-confirmation/
-  title: Rex Tillerson grilled on ExxonMobil conflicts, Russia sanctions, climate
-    change at confirmation
-  publisher: CBS News
+  title: Rex Tillerson grilled on ExxonMobil conflicts, Russia sanctions, climate change at confirmation
   date: '2017-01-11'
   tier: 1
+  outlet: CBS News
 - url: https://www.nbcnews.com/news/us-news/under-tillerson-exxon-showed-reckless-disregard-russia-sanctions-n784921
-  title: Under Tillerson, Exxon Showed 'Reckless Disregard' for Russia Sanctions,
-    Says Treasury
-  publisher: NBC News
+  title: Under Tillerson, Exxon Showed 'Reckless Disregard' for Russia Sanctions, Says Treasury
   date: '2017-07-20'
   tier: 1
+  outlet: NBC News
 - url: https://www.npr.org/2017/01/11/509361557/rex-tillerson-questioned-about-trumps-ties-to-russia-in-confirmation-hearing
   title: Rex Tillerson Questioned About Trump's Ties To Russia In Confirmation Hearing
-  publisher: NPR
   date: '2017-01-11'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

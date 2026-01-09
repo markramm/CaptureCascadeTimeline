@@ -4,36 +4,36 @@ date: 2020-06-15
 title: Louis DeJoy Begins Serving as Postmaster General Despite Conflicts of Interest
 importance: 9
 tags:
-  - Election Interference
-  - USPS
-  - Postal Service
-  - Conflicts of Interest
-  - Political Appointees
+- election interference
+- usps
+- postal service
+- conflicts of interest
+- political appointees
 actors:
-  - Louis DeJoy
-  - Donald Trump
-  - USPS Board of Governors
+- Louis DeJoy
+- Donald Trump
+- USPS Board of Governors
 sources:
-  - url: https://about.usps.com/newsroom/national-releases/2020/0506-bog-announces-selection-of-louis-dejoy-to-serve-as-nations-75th-postmaster-general.htm
-    title: Board of Governors Announces Selection of Louis DeJoy to Serve as Nation's 75th Postmaster General
-    publisher: United States Postal Service
-    date: 2020-05-06
-    tier: 1
-  - url: https://www.npr.org/2020/05/07/851976464/new-postmaster-general-is-top-gop-fundraiser
-    title: Louis DeJoy, New Postmaster General, Is Top GOP Donor
-    publisher: NPR
-    date: 2020-05-07
-    tier: 1
-  - url: https://federalnewsnetwork.com/agency-oversight/2020/05/usps-board-names-logistics-executive-as-new-postmaster-general/
-    title: USPS board names logistics executive as new postmaster general
-    publisher: Federal News Network
-    date: 2020-05-06
-    tier: 2
-  - url: https://www.citizen.org/article/guaranteed-delivery-dejoys-post-office-corruption/
-    title: "Guaranteed Delivery: DeJoy's Post Office Corruption"
-    publisher: Public Citizen
-    date: 2020-08-20
-    tier: 2
+- url: https://about.usps.com/newsroom/national-releases/2020/0506-bog-announces-selection-of-louis-dejoy-to-serve-as-nations-75th-postmaster-general.htm
+  title: Board of Governors Announces Selection of Louis DeJoy to Serve as Nation's 75th Postmaster General
+  date: 2020-05-06
+  tier: 1
+  outlet: United States Postal Service
+- url: https://www.npr.org/2020/05/07/851976464/new-postmaster-general-is-top-gop-fundraiser
+  title: Louis DeJoy, New Postmaster General, Is Top GOP Donor
+  date: 2020-05-07
+  tier: 1
+  outlet: NPR
+- url: https://federalnewsnetwork.com/agency-oversight/2020/05/usps-board-names-logistics-executive-as-new-postmaster-general/
+  title: USPS board names logistics executive as new postmaster general
+  date: 2020-05-06
+  tier: 2
+  outlet: Federal News Network
+- url: https://www.citizen.org/article/guaranteed-delivery-dejoys-post-office-corruption/
+  title: 'Guaranteed Delivery: DeJoy''s Post Office Corruption'
+  date: 2020-08-20
+  tier: 2
+  outlet: Public Citizen
 ---
 
 Louis DeJoy officially began serving as the 75th Postmaster General of the United States and USPS Chief Executive Officer, having been unanimously selected by the USPS Board of Governors on May 6, 2020. DeJoy was a major Republican Party megadonor who contributed over $1.2 million to Trump's election efforts and more than $440,000 to Republican causes since January 2020 alone. He had no prior postal experience, marking the first postmaster general without USPS experience since 1992.

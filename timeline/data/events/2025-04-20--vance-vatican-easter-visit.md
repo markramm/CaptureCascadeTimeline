@@ -18,19 +18,19 @@ actors:
 sources:
 - title: Vice President Vance meets Pope Francis on Easter
   url: https://www.pbs.org/newshour/world/vice-president-vance-meets-pope-francis-easter-vatican
-  publisher: PBS NewsHour
   date: '2025-04-20'
   tier: 1
+  outlet: PBS NewsHour
 - title: JD Vance meets Pope Francis at Vatican on Easter Sunday
   url: https://www.cbsnews.com/news/jd-vance-pope-francis-vatican-easter-meeting/
-  publisher: CBS News
   date: '2025-04-20'
   tier: 1
+  outlet: CBS News
 - title: VP Vance's Easter meeting with Pope Francis at Vatican
   url: https://www.foxnews.com/world/vp-vance-meets-pope-francis-easter-vatican
-  publisher: Fox News
   date: '2025-04-20'
   tier: 2
+  outlet: Fox News
 ---
 
 Vice President JD Vance met with Pope Francis at the Vatican on Easter Sunday, April 20, 2025, in what would tragically become one of the Pope's final official acts before his death the following day. The meeting, which took place during the holiest day of the Christian calendar, saw the 88-year-old pontiff—visibly frail and in a wheelchair—exchange gifts with the Vice President. Francis presented Vance with three chocolate Easter eggs for his children, a Vatican tie, and rosaries, while Vance told the Pope "I pray for you every day."

@@ -4,30 +4,30 @@ date: 2018-01-01
 title: Amazon Pays Zero Federal Income Tax Again on $11.2 Billion Profit—Receives $129 Million Tax Rebate
 importance: 9
 tags:
-  - tax-avoidance
-  - corporate-welfare
-  - wealth-extraction
-  - billionaire-impunity
+- tax-avoidance
+- corporate-welfare
+- wealth-extraction
+- billionaire-impunity
 actors:
-  - Amazon
-  - Jeff Bezos
-  - Institute on Taxation and Economic Policy
+- Amazon
+- Jeff Bezos
+- Institute on Taxation and Economic Policy
 sources:
-  - url: https://itep.org/amazon-in-its-prime-doubles-profits-pays-0-in-federal-income-taxes/
-    title: "Amazon in Its Prime: Doubles Profits, Pays $0 in Federal Income Taxes"
-    publisher: Institute on Taxation and Economic Policy
-    date: 2019-02-13
-    tier: 1
-  - url: https://www.cnbc.com/2019/04/03/why-amazon-paid-no-federal-income-tax.html
-    title: Why Amazon paid no 2018 US federal income tax
-    publisher: CNBC
-    date: 2019-04-03
-    tier: 2
-  - url: https://www.snopes.com/fact-check/amazon-no-income-taxes-2018/
-    title: Did Amazon Pay No Federal Income Taxes in 2018?
-    publisher: Snopes
-    date: 2019-04-05
-    tier: 1
+- url: https://itep.org/amazon-in-its-prime-doubles-profits-pays-0-in-federal-income-taxes/
+  title: 'Amazon in Its Prime: Doubles Profits, Pays $0 in Federal Income Taxes'
+  date: 2019-02-13
+  tier: 1
+  outlet: Institute on Taxation and Economic Policy
+- url: https://www.cnbc.com/2019/04/03/why-amazon-paid-no-federal-income-tax.html
+  title: Why Amazon paid no 2018 US federal income tax
+  date: 2019-04-03
+  tier: 2
+  outlet: CNBC
+- url: https://www.snopes.com/fact-check/amazon-no-income-taxes-2018/
+  title: Did Amazon Pay No Federal Income Taxes in 2018?
+  date: 2019-04-05
+  tier: 1
+  outlet: Snopes
 ---
 
 Amazon paid zero federal income tax for the second consecutive year despite nearly doubling its U.S. profits to $11.2 billion in 2018. Beyond avoiding all federal taxes, Amazon actually received a $129 million tax rebate from the federal government—yielding a negative 1% effective tax rate. This occurred after the 2017 Tax Cuts and Jobs Act reduced the statutory corporate tax rate from 35% to 21%, demonstrating that even drastically lower tax rates could not compel Amazon to contribute to federal revenue.

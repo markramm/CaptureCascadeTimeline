@@ -10,10 +10,10 @@ id: 2025-10-25--ballard-lobbying-revenue-surge
 importance: 9
 sources:
 - date: '2025-10-25'
-  publisher: Washington Post
   tier: 1
   title: MAGA Lobbying Firms Revenue Surge
   url: https://www.washingtonpost.com/politics/2025/10/25/trump-lobbying-ballard-partners-revenue/
+  outlet: The Washington Post
 status: confirmed
 tags:
 - conflicts-of-interest

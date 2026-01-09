@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Oracle To Buy Sun For Approximately $7.4 Billion
   url: https://techcrunch.com/2009/04/20/oracle-to-buy-sun-hold-on-to-your-hats/
-  publisher: TechCrunch
   date: '2009-04-20'
   tier: 2
+  outlet: TechCrunch
 - title: US DOJ and DG Comp Clear Oracle's Acquisition of Sun Microsystems
   url: https://www.nera.com/experience/2010/us-doj-and-dg-comp-clear-oracles-acquis.html
-  publisher: NERA Economic Consulting
   date: '2010-01-21'
   tier: 2
+  outlet: NERA Economic Consulting
 - title: Oracle Buys Sun
   url: https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html
-  publisher: Oracle Corporation
   date: '2009-04-20'
   tier: 3
+  outlet: Oracle Corporation
 ---
 
 Oracle Corporation completed its acquisition of Sun Microsystems on January 27, 2010, for approximately $7.4 billion ($9.50 per share in cash), gaining control of critical software infrastructure including the Java programming language, MySQL open-source database, and Sun's hardware systems business. The acquisition, announced in April 2009, was delayed for nearly a year due to regulatory scrutiny from the European Commission over concerns about Oracle's control of MySQL, a competitor to Oracle's flagship database product.

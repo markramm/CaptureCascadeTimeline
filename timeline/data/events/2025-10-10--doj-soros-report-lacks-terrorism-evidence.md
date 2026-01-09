@@ -10,9 +10,9 @@ actors:
 sources:
 - title: Report on Soros Cited by DOJ Shows No Terrorism Funding Evidence
   url: https://www.nytimes.com/2025/10/10/us/politics/soros-doj-report-terrorism.html
-  publisher: New York Times
   date: '2025-10-10'
   tier: 1
+  outlet: The New York Times
 tags:
 - doj-weaponization
 - political-persecution

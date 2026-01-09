@@ -4,33 +4,33 @@ date: 2012-06-01
 title: New Orleans Police Launch Secret Palantir Predictive Policing Program
 importance: 8
 tags:
-  - surveillance
-  - technology
-  - police
-  - ai
-  - civil-rights
-  - privacy
+- surveillance
+- technology
+- police
+- ai
+- civil-rights
+- privacy
 actors:
-  - NOPD
-  - Palantir Technologies
-  - Mitch Landrieu
-  - Peter Thiel
+- NOPD
+- Palantir Technologies
+- Mitch Landrieu
+- Peter Thiel
 sources:
-  - url: https://www.typeinvestigations.org/investigation/2018/02/27/palantir-secretly-use-new-orleans-test-predictive-policing/
-    title: Did Palantir Secretly Use New Orleans to Test Predictive Policing?
-    publisher: Type Investigations
-    date: 2018-02-27
-    tier: 1
-  - url: https://www.aclu.org/news/privacy-technology/new-orleans-program-offers-lessons-pitfalls-predictive-policing
-    title: New Orleans Program Offers Lessons In Pitfalls Of Predictive Policing
-    publisher: ACLU
-    date: 2018-03-01
-    tier: 1
-  - url: https://privacyinternational.org/examples/1975/palantirs-secretive-predictive-policing-programme-new-orleans
-    title: Palantir's secretive predictive policing programme in New Orleans
-    publisher: Privacy International
-    date: 2018-03-01
-    tier: 1
+- url: https://www.typeinvestigations.org/investigation/2018/02/27/palantir-secretly-use-new-orleans-test-predictive-policing/
+  title: Did Palantir Secretly Use New Orleans to Test Predictive Policing?
+  date: 2018-02-27
+  tier: 1
+  outlet: Type Investigations
+- url: https://www.aclu.org/news/privacy-technology/new-orleans-program-offers-lessons-pitfalls-predictive-policing
+  title: New Orleans Program Offers Lessons In Pitfalls Of Predictive Policing
+  date: 2018-03-01
+  tier: 1
+  outlet: ACLU
+- url: https://privacyinternational.org/examples/1975/palantirs-secretive-predictive-policing-programme-new-orleans
+  title: Palantir's secretive predictive policing programme in New Orleans
+  date: 2018-03-01
+  tier: 1
+  outlet: Privacy International
 ---
 
 The New Orleans Police Department launches a secretive predictive policing program in partnership with Palantir Technologies, a data-mining firm founded with seed money from the CIA's venture capital arm In-Q-Tel. The program operates without public knowledge or oversight, escaping scrutiny through its establishment as a philanthropic relationship with Mayor Mitch Landrieu's signature NOLA For Life anti-violence initiative.

@@ -4,32 +4,32 @@ date: 2021-08-15
 title: ShotSpotter Accuracy Crisis - Chicago Inspector General Report and Williams Case
 importance: 8
 tags:
-  - surveillance
-  - technology
-  - police
-  - ai
-  - civil-rights
-  - justice
+- surveillance
+- technology
+- police
+- ai
+- civil-rights
+- justice
 actors:
-  - ShotSpotter
-  - Michael Williams
-  - Chicago Police Department
+- ShotSpotter
+- Michael Williams
+- Chicago Police Department
 sources:
-  - url: https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence
-    title: How AI-powered Tech ShotSpotter Landed a Man in Jail With Scant Evidence
-    publisher: Bloomberg
-    date: 2021-08-19
-    tier: 1
-  - url: https://chicago.suntimes.com/2021/8/20/22634381/shotspotter-police-courtroom-evidence-michael-williams
-    title: As much as it could help police, ShotSpotter's not ready for the courtroom
-    publisher: Chicago Sun-Times
-    date: 2021-08-20
-    tier: 2
-  - url: https://www.macarthurjustice.org/case/williams-v-city-of-chicago/
-    title: Williams v. City of Chicago
-    publisher: MacArthur Justice Center
-    date: 2022-01-01
-    tier: 1
+- url: https://www.bloomberg.com/news/articles/2021-08-19/how-ai-powered-tech-landed-man-in-jail-with-scant-evidence
+  title: How AI-powered Tech ShotSpotter Landed a Man in Jail With Scant Evidence
+  date: 2021-08-19
+  tier: 1
+  outlet: Bloomberg
+- url: https://chicago.suntimes.com/2021/8/20/22634381/shotspotter-police-courtroom-evidence-michael-williams
+  title: As much as it could help police, ShotSpotter's not ready for the courtroom
+  date: 2021-08-20
+  tier: 2
+  outlet: Chicago Sun-Times
+- url: https://www.macarthurjustice.org/case/williams-v-city-of-chicago/
+  title: Williams v. City of Chicago
+  date: 2022-01-01
+  tier: 1
+  outlet: MacArthur Justice Center
 ---
 
 The reliability and accuracy of ShotSpotter's gunshot detection technology face a major crisis in August 2021 as the Chicago Office of Inspector General releases a damning report on the system's effectiveness, while the Michael Williams case exposes evidence that ShotSpotter analysts modified forensic reports at police request.

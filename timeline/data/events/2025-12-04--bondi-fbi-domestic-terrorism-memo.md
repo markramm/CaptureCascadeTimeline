@@ -5,42 +5,42 @@ title: Bondi Orders FBI to Compile "Domestic Terrorism" List Targeting Political
 summary: Attorney General Pam Bondi issued a classified memorandum ordering the FBI to compile a list of groups expressing "domestic terrorism" defined to include "anti-American sentiment," "anti-capitalism," "anti-Christianity," "adherence to radical gender ideology," and "opposition to law enforcement." The memo implements National Security Presidential Memorandum-7 (NSPM-7) and gives the FBI 30 days to provide a list of groups "engaged in acts that may constitute domestic terrorism" along with strategies to disrupt them. The directive orders a five-year retroactive review of all FBI files, establishes cash reward systems for informants, and instructs prosecutors to pursue "the most serious, readily provable offenses" including conspiracy, material support for terrorism, RICO, and seditious conspiracy charges. Critics warn the memo criminalizes protected First Amendment activities and political dissent, conflating ideological viewpoints with terrorist conduct.
 importance: 10
 actors:
-  - Pam Bondi
-  - FBI
-  - Donald Trump
-  - Kash Patel
-  - Ken Klippenstein
+- Pam Bondi
+- FBI
+- Donald Trump
+- Kash Patel
+- Ken Klippenstein
 tags:
-  - judicial-capture
-  - DOJ
-  - political-prosecution
-  - constitutional-violation
-  - first-amendment
-  - surveillance
-  - trump-administration
-  - civil-liberties
-  - authoritarianism
+- judicial-capture
+- doj
+- political-prosecution
+- constitutional-violation
+- first-amendment
+- surveillance
+- trump-administration
+- civil-liberties
+- authoritarianism
 sources:
-  - url: https://www.democracynow.org/2025/12/8/ken_klippenstein_fbi_domestic_terrorism_nspm7
-    title: 'Domestic Terrorism: Leaked DOJ Memo Targets Anti-Americanism, Anti-Capitalism, Anti-Christianity'
-    publisher: Democracy Now
-    date: 2025-12-08
-    tier: 1
-  - url: https://www.kenklippenstein.com/p/leak-fbi-list-of-extremists-is-coming
-    title: 'FBI Making List of American Extremists, Leaked Memo Reveals'
-    publisher: Ken Klippenstein
-    date: 2025-12-06
-    tier: 2
-  - url: https://www.democracydocket.com/news-alerts/leaked-memo-bondi-doj-list-target-anti-trump-activists-domestic-terrorists/
-    title: 'Leaked Memo: DOJ To List, Target Anti-Trump Activists as Domestic Terrorists'
-    publisher: Democracy Docket
-    date: 2025-12-08
-    tier: 2
-  - url: https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive
-    title: DOJ Issues Sweeping New Domestic Terrorism Directive
-    publisher: Arnold & Porter
-    date: 2025-12-04
-    tier: 1
+- url: https://www.democracynow.org/2025/12/8/ken_klippenstein_fbi_domestic_terrorism_nspm7
+  title: 'Domestic Terrorism: Leaked DOJ Memo Targets Anti-Americanism, Anti-Capitalism, Anti-Christianity'
+  date: 2025-12-08
+  tier: 1
+  outlet: Democracy Now
+- url: https://www.kenklippenstein.com/p/leak-fbi-list-of-extremists-is-coming
+  title: FBI Making List of American Extremists, Leaked Memo Reveals
+  date: 2025-12-06
+  tier: 2
+  outlet: Ken Klippenstein
+- url: https://www.democracydocket.com/news-alerts/leaked-memo-bondi-doj-list-target-anti-trump-activists-domestic-terrorists/
+  title: 'Leaked Memo: DOJ To List, Target Anti-Trump Activists as Domestic Terrorists'
+  date: 2025-12-08
+  tier: 2
+  outlet: Democracy Docket
+- url: https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/12/doj-issues-sweeping-new-domestic-terrorism-directive
+  title: DOJ Issues Sweeping New Domestic Terrorism Directive
+  date: 2025-12-04
+  tier: 1
+  outlet: Arnold & Porter
 ---
 
 Attorney General Pam Bondi issued a classified memorandum on December 4, 2025, ordering the FBI and all federal law enforcement agencies to compile a list of groups expressing what the Department of Justice characterizes as "domestic terrorism." The leaked memo, first published by investigative journalist Ken Klippenstein, defines potential domestic terrorism through ideological characteristics including "anti-American sentiment," "anti-capitalism," "anti-Christianity," "adherence to radical gender ideology," "opposition to law and immigration enforcement," and "extreme views in favor of mass migration and open borders." The directive represents an operational implementation of President Trump's National Security Presidential Memorandum-7 (NSPM-7), issued in September 2025 following the assassination of conservative activist Charlie Kirk.

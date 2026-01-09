@@ -4,35 +4,35 @@ date: '2017-07-01'
 title: Georgia Secretary of State Brian Kemp Purges 560,000 Voters in Single Day Using "Exact Match" System
 importance: 9
 tags:
-  - voter-suppression
-  - georgia
-  - brian-kemp
-  - voter-purge
-  - racial-discrimination
+- voter-suppression
+- georgia
+- brian-kemp
+- voter-purge
+- racial-discrimination
 actors:
-  - Brian Kemp
-  - Georgia Secretary of State
+- Brian Kemp
+- Georgia Secretary of State
 sources:
-  - url: https://www.apmreports.org/story/2019/10/29/georgia-voting-registration-records-removed
-    title: How a massive voter purge in Georgia affected the 2018 election
-    publisher: APM Reports
-    date: 2019-10-29
-    tier: 1
-  - url: https://www.npr.org/2018/10/22/659591998/6-takeaways-from-georgias-use-it-or-lose-it-voter-purge-investigation
-    title: 6 Takeaways From Georgia's 'Use It Or Lose It' Voter Purge Investigation
-    publisher: NPR
-    date: 2018-10-22
-    tier: 1
-  - url: https://www.propublica.org/article/voter-purges-what-georgians-heading-to-the-polls-need-to-know
-    title: 'Voter Purges: What Georgians Heading to the Polls Need to Know'
-    publisher: ProPublica
-    date: 2018-10-10
-    tier: 1
-  - url: https://www.ajc.com/news/state--regional-govt--politics/voter-purge-begs-question-what-the-matter-with-georgia/YAFvuk3Bu95kJIMaDiDFqJ/
-    title: Georgia voters purge may be largest in U.S. history
-    publisher: Atlanta Journal-Constitution
-    date: 2017-08-04
-    tier: 2
+- url: https://www.apmreports.org/story/2019/10/29/georgia-voting-registration-records-removed
+  title: How a massive voter purge in Georgia affected the 2018 election
+  date: 2019-10-29
+  tier: 1
+  outlet: APM Reports
+- url: https://www.npr.org/2018/10/22/659591998/6-takeaways-from-georgias-use-it-or-lose-it-voter-purge-investigation
+  title: 6 Takeaways From Georgia's 'Use It Or Lose It' Voter Purge Investigation
+  date: 2018-10-22
+  tier: 1
+  outlet: NPR
+- url: https://www.propublica.org/article/voter-purges-what-georgians-heading-to-the-polls-need-to-know
+  title: 'Voter Purges: What Georgians Heading to the Polls Need to Know'
+  date: 2018-10-10
+  tier: 1
+  outlet: ProPublica
+- url: https://www.ajc.com/news/state--regional-govt--politics/voter-purge-begs-question-what-the-matter-with-georgia/YAFvuk3Bu95kJIMaDiDFqJ/
+  title: Georgia voters purge may be largest in U.S. history
+  date: 2017-08-04
+  tier: 2
+  outlet: Atlanta Journal-Constitution
 ---
 
 On a single day in late July 2017, Georgia Secretary of State Brian Kemp's office removes 560,000 Georgians—8% of the state's registered voters—from the voter rolls in what may be the largest mass purge in U.S. history. The purge uses Georgia's aggressive "use it or lose it" policy combined with a new "exact match" system that disproportionately targets Black and minority voters for minor discrepancies in registration records.

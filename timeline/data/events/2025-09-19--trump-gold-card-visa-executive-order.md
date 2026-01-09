@@ -15,14 +15,14 @@ tags:
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/09/the-gold-card/
   title: 'Executive Order 14351: The Gold Card'
-  publisher: The White House
   date: '2025-09-19'
   tier: 1
+  outlet: The White House
 - url: https://www.aila.org/library/executive-order-of-september-19-2025-the-gold-card
   title: Executive Order on the Gold Card
-  publisher: American Immigration Lawyers Association
   date: '2025-09-19'
   tier: 2
+  outlet: American Immigration Lawyers Association
 ---
 
 President Trump signed Executive Order 14351 establishing the 'Gold Card' visa program, requiring foreign nationals to make 'unrestricted gifts' of $1 million to the Department of Commerce ($2 million if a corporation gives on behalf of an individual) to obtain residency. The order represents an unprecedented monetization of immigration policy, effectively creating a pay-for-entry system that circumvents traditional visa requirements.

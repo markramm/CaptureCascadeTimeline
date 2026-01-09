@@ -13,9 +13,9 @@ actors:
 sources:
 - title: Key crypto agency in turmoil
   url: https://thehill.com/policy/technology/5558623-cftc-nominee-brian-quintenz-withdrawn/
-  publisher: The Hill
   date: '2025-10-07'
   tier: 2
+  outlet: The Hill
 tags:
 - regulatory-capture
 - crypto-corruption

@@ -4,37 +4,37 @@ date: '2020-09-27'
 title: New York Times Obtains Trump Tax Returns, Reveals $750 in Federal Taxes Paid
 importance: 9
 tags:
-  - Tax Fraud
-  - Financial Fraud
-  - Trump Organization
-  - Tax Avoidance
-  - Media Investigation
+- tax fraud
+- financial fraud
+- trump organization
+- tax avoidance
+- media investigation
 actors:
-  - Donald Trump
-  - New York Times
-  - Ivanka Trump
-  - Trump Organization
+- Donald Trump
+- New York Times
+- Ivanka Trump
+- Trump Organization
 sources:
-  - url: https://www.npr.org/2020/09/27/917566141/trump-dismisses-new-york-times-reporting-that-he-paid-little-in-federal-income-t
-    title: Trump Tax Returns, Loans Detailed In 'New York Times' Report
-    publisher: NPR
-    date: '2020-09-27'
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/ny-times-trump-paid-750-in-us-income-taxes-in-2016-2017
-    title: 5 key findings from NY Times report on Trump's tax returns
-    publisher: PBS NewsHour
-    date: '2020-09-27'
-    tier: 1
-  - url: https://www.cnn.com/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html
-    title: "Don't miss the Ivanka Trump bombshell buried in the Times tax story"
-    publisher: CNN
-    date: '2020-09-28'
-    tier: 1
-  - url: https://www.cnbc.com/2020/09/27/trump-paid-little-to-no-federal-income-taxes-over-several-years-nyt-.html
-    title: Trump paid little to no federal income taxes over several years
-    publisher: CNBC
-    date: '2020-09-27'
-    tier: 1
+- url: https://www.npr.org/2020/09/27/917566141/trump-dismisses-new-york-times-reporting-that-he-paid-little-in-federal-income-t
+  title: Trump Tax Returns, Loans Detailed In 'New York Times' Report
+  date: '2020-09-27'
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/politics/ny-times-trump-paid-750-in-us-income-taxes-in-2016-2017
+  title: 5 key findings from NY Times report on Trump's tax returns
+  date: '2020-09-27'
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.cnn.com/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html
+  title: Don't miss the Ivanka Trump bombshell buried in the Times tax story
+  date: '2020-09-28'
+  tier: 1
+  outlet: CNN
+- url: https://www.cnbc.com/2020/09/27/trump-paid-little-to-no-federal-income-taxes-over-several-years-nyt-.html
+  title: Trump paid little to no federal income taxes over several years
+  date: '2020-09-27'
+  tier: 1
+  outlet: CNBC
 status: confirmed
 ---
 

@@ -21,19 +21,19 @@ actors:
 sources:
 - url: https://www.newyorkfed.org/aboutthefed/aig
   title: Actions Related to AIG
-  publisher: Federal Reserve Bank of New York
   date: '2008-09-16'
   tier: 1
+  outlet: Federal Reserve Bank of New York
 - url: https://www.congress.gov/crs-product/R42953
   title: Government Assistance for AIG - Summary and Cost
-  publisher: Congressional Research Service
   date: '2013'
   tier: 1
+  outlet: Congressional Research Service
 - url: https://www.grassley.senate.gov/news/commentary/q-financial-bailout
   title: Q & A - The Financial Bailout
-  publisher: U.S. Senator Chuck Grassley
   date: '2009'
   tier: 1
+  outlet: U.S. Senator Chuck Grassley
 status: confirmed
 ---
 

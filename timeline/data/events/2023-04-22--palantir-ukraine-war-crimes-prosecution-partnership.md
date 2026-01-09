@@ -16,19 +16,19 @@ actors:
 sources:
 - url: https://www.cnbc.com/2023/04/22/data-company-palantir-to-help-ukraine-prosecute-alleged-russian-war-crimes.html
   title: Data company Palantir to help Ukraine prosecute alleged Russian war crimes
-  publisher: CNBC
   date: '2023-04-22'
   tier: 1
+  outlet: CNBC
 - url: https://fedscoop.com/palantir-to-help-ukraine-process-data-in-war-crimes-investigations/
   title: Palantir to help Ukraine process data in war crimes investigations
-  publisher: FedScoop
   date: '2023-04-21'
   tier: 2
+  outlet: FedScoop
 - url: https://time.com/6331902/ukraine-war-crimes-prosecutor/
   title: How Ukraine is Pioneering New Ways to Prosecute War Crimes
-  publisher: TIME
   date: '2023-05-15'
   tier: 1
+  outlet: TIME
 ---
 
 On April 22, 2023, Palantir Technologies announced a partnership with Ukraine's Prosecutor General's Office to process massive volumes of war crimes evidence using artificial intelligence and data analytics. At the time of the announcement, Ukraine had registered more than 78,000 alleged war crimes, generating vast quantities of digital evidence including drone footage, satellite imagery, timestamped social media posts, intercepted communications, and witness testimonies. Ukraine's Prosecutor General Andriy Kostin stated that "analyzing this amount of evidence would be virtually impossible without modern IT solutions."

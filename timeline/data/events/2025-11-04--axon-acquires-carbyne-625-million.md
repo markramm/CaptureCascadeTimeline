@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Axon to Acquire Carbyne, Uniting Cloud Infrastructure and AI to Redefine the 911 Experience
   url: https://investor.axon.com/2025-11-04-Axon-to-Acquire-Carbyne,-Uniting-Cloud-Infrastructure-and-AI-to-Redefine-the-911-Experience
-  publisher: Axon Investor Relations
   date: '2025-11-04'
   tier: 1
+  outlet: Axon Investor Relations
 - title: Public safety giant Axon acquires Carbyne for $625 million in cash
   url: https://www.calcalistech.com/ctechnews/article/rj4vnuokwg
-  publisher: Calcalist Tech
   date: '2025-11-04'
   tier: 2
+  outlet: Calcalist Tech
 - title: Axon to Acquire Israeli AI-Powered Carbyne for Next-Gen 911
   url: https://israel.com/breaking-only/axon-to-acquire-israeli-ai-powered-carbyne-for-next-gen-911-platform/
-  publisher: Israel.com
   date: '2025-11-04'
   tier: 2
+  outlet: Israel.com
 status: confirmed
 ---
 

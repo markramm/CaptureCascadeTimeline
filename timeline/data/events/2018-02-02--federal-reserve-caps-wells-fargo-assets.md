@@ -15,19 +15,19 @@ actors:
 sources:
 - url: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20180202a.htm
   title: Federal Reserve Restricts Wells Fargo Growth Until Firm Improves Governance and Controls
-  publisher: Federal Reserve
   date: '2018-02-02'
   tier: 1
+  outlet: Federal Reserve
 - url: https://www.cnbc.com/2018/02/02/wells-fargo-fed-asset-cap.html
   title: Fed Restricts Wells Fargo Growth in Unprecedented Punishment
-  publisher: CNBC
   date: '2018-02-02'
   tier: 2
+  outlet: CNBC
 - url: https://www.npr.org/2018/02/02/582767388/federal-reserve-caps-wells-fargos-growth
   title: Federal Reserve Caps Wells Fargo's Growth
-  publisher: NPR
   date: '2018-02-02'
   tier: 1
+  outlet: NPR
 ---
 
 The Federal Reserve Board imposes an unprecedented enforcement action against Wells Fargo, restricting the bank from growing beyond its total asset size as of December 31, 2017—approximately $1.95 trillion. The asset cap represents the most severe punishment the Fed has imposed on a major bank in modern times, effectively freezing Wells Fargo's ability to expand until it demonstrates substantial improvements in governance, risk management, and compliance. The Fed also requires Wells Fargo to replace four board members and subjects all directors to unprecedented supervisory letters noting they "did not meet supervisory expectations."

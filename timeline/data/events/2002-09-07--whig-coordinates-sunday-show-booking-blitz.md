@@ -45,14 +45,13 @@ sources:
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1533-8525.2005.00029.x
   outlet: The Sociological Quarterly
   date: '2004-01-01'
-- title: 'Reframing the Iraq War: Official Sources, Dramatic Events, and Changes in
-    Media Framing'
+- title: 'Reframing the Iraq War: Official Sources, Dramatic Events, and Changes in Media Framing'
   url: https://academic.oup.com/joc/article-abstract/67/2/282/4082404
   outlet: Journal of Communication
   date: '2004-01-01'
 - title: Records Could Shed Light on Iraq Group
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2008-09-01'
 - title: As We Leave Iraq, Remember How We Got In
   url: https://www.americanprogress.org/article/think-again-as-we-leave-iraq-remember-how-we-got-in/

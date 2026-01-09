@@ -4,30 +4,30 @@ date: '2015-02-23'
 title: '"Corinthian 15" Launch First Student Debt Strike in U.S. History'
 importance: 8
 tags:
-  - student-debt
-  - corinthian-colleges
-  - debt-strike
-  - activism
+- student-debt
+- corinthian-colleges
+- debt-strike
+- activism
 actors:
-  - Debt Collective
-  - Corinthian 15
-  - Arne Duncan
+- Debt Collective
+- Corinthian 15
+- Arne Duncan
 sources:
-  - url: https://www.democracynow.org/2015/2/25/students_launch_historic_debt_strike_refusing
-    title: Students Launch Historic Debt Strike, Refusing to Pay Back Predatory College Loans
-    publisher: Democracy Now
-    date: 2015-02-25
-    tier: 1
-  - url: https://powerreport.debtcollective.org/reports/2015-3-1-corinthian-100-demanding-debt-cancellation-in-washington-dc/
-    title: Corinthian Strike Team Demands Debt Cancellation in Washington DC
-    publisher: The Debt Collective
-    date: 2015-03-01
-    tier: 1
-  - url: https://www.npr.org/2015/02/24/388599824/former-students-of-for-profit-college-go-on-debt-strike
-    title: Former Students Of For-Profit College Go On 'Debt Strike'
-    publisher: NPR
-    date: 2015-02-24
-    tier: 1
+- url: https://www.democracynow.org/2015/2/25/students_launch_historic_debt_strike_refusing
+  title: Students Launch Historic Debt Strike, Refusing to Pay Back Predatory College Loans
+  date: 2015-02-25
+  tier: 1
+  outlet: Democracy Now
+- url: https://powerreport.debtcollective.org/reports/2015-3-1-corinthian-100-demanding-debt-cancellation-in-washington-dc/
+  title: Corinthian Strike Team Demands Debt Cancellation in Washington DC
+  date: 2015-03-01
+  tier: 1
+  outlet: The Debt Collective
+- url: https://www.npr.org/2015/02/24/388599824/former-students-of-for-profit-college-go-on-debt-strike
+  title: Former Students Of For-Profit College Go On 'Debt Strike'
+  date: 2015-02-24
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

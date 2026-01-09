@@ -4,34 +4,34 @@ title: Harvard Study Finds Private Equity Hospital Takeovers Increase Emergency 
 date: '2021-12-15'
 importance: 10
 actors:
-  - Private Equity Industry
-  - Blackstone Group
-  - KKR
-  - TeamHealth
-  - Envision Healthcare
+- Private Equity Industry
+- Blackstone Group
+- KKR
+- TeamHealth
+- Envision Healthcare
 tags:
-  - healthcare
-  - private-equity
-  - corporate-crime
-  - regulatory-capture
-  - deaths
+- healthcare
+- private-equity
+- corporate-crime
+- regulatory-capture
+- deaths
 status: confirmed
 sources:
-  - title: Deaths Rose in Emergency Rooms After Hospitals Were Acquired by Private Equity Firms
-    url: https://hms.harvard.edu/news/deaths-rose-emergency-rooms-after-hospitals-were-acquired-private-equity-firms
-    publisher: Harvard Medical School
-    date: '2021-12-15'
-    tier: 1
-  - title: Hospital Staffing and Patient Outcomes After Private Equity Acquisition
-    url: https://www.acpjournals.org/doi/10.7326/ANNALS-24-03471
-    publisher: Annals of Internal Medicine
-    date: '2024-12-31'
-    tier: 1
-  - title: Private equity hospitals have fewer staff in emergency rooms, and more deaths, study finds
-    url: https://www.chiefhealthcareexecutive.com/view/private-equity-hospitals-have-fewer-staff-in-emergency-rooms-and-more-deaths-study-finds
-    publisher: Chief Healthcare Executive
-    date: '2022-01-04'
-    tier: 2
+- title: Deaths Rose in Emergency Rooms After Hospitals Were Acquired by Private Equity Firms
+  url: https://hms.harvard.edu/news/deaths-rose-emergency-rooms-after-hospitals-were-acquired-private-equity-firms
+  date: '2021-12-15'
+  tier: 1
+  outlet: Harvard Medical School
+- title: Hospital Staffing and Patient Outcomes After Private Equity Acquisition
+  url: https://www.acpjournals.org/doi/10.7326/ANNALS-24-03471
+  date: '2024-12-31'
+  tier: 1
+  outlet: Annals of Internal Medicine
+- title: Private equity hospitals have fewer staff in emergency rooms, and more deaths, study finds
+  url: https://www.chiefhealthcareexecutive.com/view/private-equity-hospitals-have-fewer-staff-in-emergency-rooms-and-more-deaths-study-finds
+  date: '2022-01-04'
+  tier: 2
+  outlet: Chief Healthcare Executive
 ---
 
 In December 2021, researchers at Harvard Medical School published a landmark study in *Annals of Internal Medicine* demonstrating that hospitals acquired by private equity firms experienced significant increases in emergency department mortality—7 additional deaths per 10,000 visits (approximately 10% increase)—linked directly to private equity-driven staffing cuts and reduced salary expenditures. The study provided quantitative evidence that private equity's profit-maximization strategies kill patients by subordinating medical care to financial extraction.

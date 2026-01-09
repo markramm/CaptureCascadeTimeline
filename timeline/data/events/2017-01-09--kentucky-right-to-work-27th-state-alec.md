@@ -1,7 +1,7 @@
 ---
 id: 2017-01-09--kentucky-right-to-work-27th-state-alec
 date: '2017-01-09'
-title: 'Kentucky Becomes 27th Right-to-Work State in First Week of Session Using ALEC Model'
+title: Kentucky Becomes 27th Right-to-Work State in First Week of Session Using ALEC Model
 importance: 8
 actors:
 - Matt Bevin
@@ -11,25 +11,25 @@ actors:
 tags:
 - labor-suppression
 - right-to-work
-- ALEC
-- Kentucky
+- alec
+- kentucky
 - union-busting
 - state-capture
 - model-legislation
 sources:
-- title: 'Kentucky Becomes the 27th Right-to-Work State'
+- title: Kentucky Becomes the 27th Right-to-Work State
   url: https://alec.org/article/kentucky-becomes-the-27th-right-to-work-state/
   outlet: American Legislative Exchange Council
   date: '2017-01-09'
   verified: true
   tier: 2
-- title: '2017 is Right-to-Works Watershed Year'
+- title: 2017 is Right-to-Works Watershed Year
   url: https://alec.org/article/2017-is-right-to-works-watershed-year/
   outlet: American Legislative Exchange Council
   date: '2017-01-01'
   verified: true
   tier: 2
-- title: 'Right to Work - SourceWatch'
+- title: Right to Work - SourceWatch
   url: https://www.sourcewatch.org/index.php?title=Right_to_Work
   outlet: SourceWatch
   date: '2024-01-01'

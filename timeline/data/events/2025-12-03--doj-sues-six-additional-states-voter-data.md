@@ -25,7 +25,7 @@ tags:
 - privacy-violation
 - data-collection
 - trump-administration
-- DOJ
+- doj
 capture_type: information_control
 sources:
 - title: Justice Department Sues Six Additional States for Failure to Provide Voter Registration Rolls

@@ -4,33 +4,33 @@ title: Federal Judge Overturns Sackler Immunity Deal, Rules Bankruptcy Law Viola
 date: '2021-12-16'
 importance: 8
 actors:
-  - Colleen McMahon
-  - Sackler Family
-  - Purdue Pharma
-  - U.S. Department of Justice
+- Colleen McMahon
+- Sackler Family
+- Purdue Pharma
+- U.S. Department of Justice
 tags:
-  - opioid-crisis
-  - bankruptcy-law
-  - judicial-oversight
-  - accountability
-  - legal-precedent
+- opioid-crisis
+- bankruptcy-law
+- judicial-oversight
+- accountability
+- legal-precedent
 status: confirmed
 sources:
-  - title: Judge overturns settlement that protected the Sackler family from opioid lawsuits
-    url: https://www.npr.org/2021/12/16/1065046057/judge-overturns-settlement-that-protected-the-sackler-family-from-opioid-lawsuit
-    publisher: NPR
-    date: '2021-12-16'
-    tier: 1
-  - title: Purdue Pharma deal giving Sackler family civil immunity from opioid claims overturned
-    url: https://www.washingtonpost.com/business/2021/12/16/purdue-pharma-sackler-ruling/
-    publisher: Washington Post
-    date: '2021-12-16'
-    tier: 2
-  - title: Judge overturns settlement that protected the Sackler family from opioid lawsuits
-    url: https://www.whqr.org/national/2021-12-16/judge-overturns-settlement-that-protected-the-sackler-family-from-opioid-lawsuits
-    publisher: WHQR Public Radio
-    date: '2021-12-16'
-    tier: 2
+- title: Judge overturns settlement that protected the Sackler family from opioid lawsuits
+  url: https://www.npr.org/2021/12/16/1065046057/judge-overturns-settlement-that-protected-the-sackler-family-from-opioid-lawsuit
+  date: '2021-12-16'
+  tier: 1
+  outlet: NPR
+- title: Purdue Pharma deal giving Sackler family civil immunity from opioid claims overturned
+  url: https://www.washingtonpost.com/business/2021/12/16/purdue-pharma-sackler-ruling/
+  date: '2021-12-16'
+  tier: 2
+  outlet: The Washington Post
+- title: Judge overturns settlement that protected the Sackler family from opioid lawsuits
+  url: https://www.whqr.org/national/2021-12-16/judge-overturns-settlement-that-protected-the-sackler-family-from-opioid-lawsuits
+  date: '2021-12-16'
+  tier: 2
+  outlet: WHQR Public Radio
 ---
 
 On December 16, 2021, U.S. District Court Judge Colleen McMahon overturned the controversial bankruptcy settlement that would have granted the Sackler family immunity from opioid-related lawsuits in exchange for $4.5 billion. Judge McMahon ruled that bankruptcy courts do not have the authority to approve such releases under federal bankruptcy law, rejecting the unprecedented attempt to shield billionaires who never filed for bankruptcy.

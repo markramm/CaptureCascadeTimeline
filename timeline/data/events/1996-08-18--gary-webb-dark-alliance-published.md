@@ -4,30 +4,30 @@ date: 1996-08-18
 title: Gary Webb's "Dark Alliance" Exposes CIA-Contra-Crack Cocaine Connection
 importance: 10
 tags:
-  - journalism
-  - CIA
-  - drug-trafficking
-  - Iran-Contra
-  - accountability
-  - whistleblowing
+- journalism
+- cia
+- drug-trafficking
+- iran-contra
+- accountability
+- whistleblowing
 actors:
-  - Gary Webb
+- Gary Webb
 sources:
-  - url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB113/storm.htm
-    title: The Storm over Dark Alliance
-    publisher: National Security Archive
-    date: 2024-01-01
-    tier: 1
-  - url: https://theintercept.com/2014/09/25/managing-nightmare-cia-media-destruction-gary-webb/
-    title: How the CIA Watched Over the Destruction of Gary Webb
-    publisher: The Intercept
-    date: 2014-09-25
-    tier: 1
-  - url: https://archive.org/details/dark_alliance_original_series-gary_webb_cia_cocaine
-    title: Dark Alliance Original Series
-    publisher: San Jose Mercury News
-    date: 1996-08-18
-    tier: 1
+- url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB113/storm.htm
+  title: The Storm over Dark Alliance
+  date: 2024-01-01
+  tier: 1
+  outlet: National Security Archive
+- url: https://theintercept.com/2014/09/25/managing-nightmare-cia-media-destruction-gary-webb/
+  title: How the CIA Watched Over the Destruction of Gary Webb
+  date: 2014-09-25
+  tier: 1
+  outlet: The Intercept
+- url: https://archive.org/details/dark_alliance_original_series-gary_webb_cia_cocaine
+  title: Dark Alliance Original Series
+  date: 1996-08-18
+  tier: 1
+  outlet: San Jose Mercury News
 ---
 
 Investigative journalist Gary Webb publishes his explosive three-part "Dark Alliance" series in the San Jose Mercury News, examining connections between the CIA, U.S.-backed Nicaraguan Contra rebels, and the crack cocaine epidemic that devastated African American communities during the 1980s. The 20,000-word investigation becomes an unprecedented internet sensation when posted on the newspaper's website with supporting documents and audio recordings, receiving up to 1.3 million hits daily and becoming one of the first major national security stories to gain traction online.

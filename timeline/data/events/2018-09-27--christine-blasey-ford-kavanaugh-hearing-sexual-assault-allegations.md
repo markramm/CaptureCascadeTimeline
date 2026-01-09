@@ -4,38 +4,38 @@ date: '2018-09-27'
 title: Christine Blasey Ford Delivers Credible, Emotional Testimony Alleging Kavanaugh Sexual Assault, He Responds with Partisan Rant
 importance: 9
 tags:
-  - Supreme Court
-  - Sexual Assault
-  - Judicial Appointments
-  - Accountability Crisis
-  - #MeToo
+- supreme court
+- sexual assault
+- judicial appointments
+- accountability crisis
+- metoo
 actors:
-  - Christine Blasey Ford
-  - Brett Kavanaugh
-  - Lindsey Graham
-  - Chuck Grassley
-  - Rachel Mitchell
+- Christine Blasey Ford
+- Brett Kavanaugh
+- Lindsey Graham
+- Chuck Grassley
+- Rachel Mitchell
 sources:
-  - title: Christine Blasey Ford Testimony to Senate Judiciary Committee
-    url: https://www.judiciary.senate.gov/imo/media/doc/09-27-18%20Ford%20Testimony.pdf
-    publisher: U.S. Senate Committee on the Judiciary
-    date: '2018-09-27'
-    tier: 1
-  - title: I Will Never Forget Christine Blasey Ford Recounts Her Trauma in Raw Testimony
-    url: https://www.cnn.com/2018/09/27/politics/christine-blasey-ford-raw-testimony/index.html
-    publisher: CNN
-    date: '2018-09-27'
-    tier: 2
-  - title: Dr Christine Blasey Ford Testimony Live Updates
-    url: https://www.cbsnews.com/live-news/brett-kavanaugh-hearing-confirmation-today-christine-blasey-ford-sexual-assault-allegations-live/
-    publisher: CBS News
-    date: '2018-09-27'
-    tier: 1
-  - title: Key Moments in Senate Testimony of Christine Blasey Ford and Brett Kavanaugh
-    url: https://theintercept.com/2018/09/27/live-christine-blasey-ford-brett-kavanaugh-testify/
-    publisher: The Intercept
-    date: '2018-09-27'
-    tier: 1
+- title: Christine Blasey Ford Testimony to Senate Judiciary Committee
+  url: https://www.judiciary.senate.gov/imo/media/doc/09-27-18%20Ford%20Testimony.pdf
+  date: '2018-09-27'
+  tier: 1
+  outlet: U.S. Senate Committee on the Judiciary
+- title: I Will Never Forget Christine Blasey Ford Recounts Her Trauma in Raw Testimony
+  url: https://www.cnn.com/2018/09/27/politics/christine-blasey-ford-raw-testimony/index.html
+  date: '2018-09-27'
+  tier: 2
+  outlet: CNN
+- title: Dr Christine Blasey Ford Testimony Live Updates
+  url: https://www.cbsnews.com/live-news/brett-kavanaugh-hearing-confirmation-today-christine-blasey-ford-sexual-assault-allegations-live/
+  date: '2018-09-27'
+  tier: 1
+  outlet: CBS News
+- title: Key Moments in Senate Testimony of Christine Blasey Ford and Brett Kavanaugh
+  url: https://theintercept.com/2018/09/27/live-christine-blasey-ford-brett-kavanaugh-testify/
+  date: '2018-09-27'
+  tier: 1
+  outlet: The Intercept
 ---
 
 On September 27, 2018, Dr. Christine Blasey Ford testified before the Senate Judiciary Committee that Supreme Court nominee Brett Kavanaugh had sexually assaulted her at a house party in 1982 when she was 15 and he was 17. Ford delivered four hours of credible, detailed, emotionally raw testimony describing how Kavanaugh and his friend Mark Judge trapped her in a bedroom, how Kavanaugh pinned her to a bed, groped her, attempted to remove her clothing, and covered her mouth when she tried to scream—leaving her fearing she might accidentally be killed. Ford stated she was "100 percent certain" it was Kavanaugh who assaulted her. Kavanaugh responded with an angry, partisan rant, attacking Democrats, invoking Clinton conspiracy theories, refusing to support an FBI investigation, and displaying a complete lack of judicial temperament. Despite Ford's compelling testimony, Republicans proceeded to confirm Kavanaugh.

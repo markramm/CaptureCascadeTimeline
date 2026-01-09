@@ -1,7 +1,6 @@
 ---
 date: '2011-05-11'
-title: FCC Commissioner Meredith Baker Joins Comcast Four Months After Approving NBC
-  Universal Merger
+title: FCC Commissioner Meredith Baker Joins Comcast Four Months After Approving NBC Universal Merger
 importance: 8
 actors:
 - Meredith Attwell Baker
@@ -21,7 +20,7 @@ status: confirmed
 sources:
 - title: FCC commissioner Meredith Baker to join Comcast-NBC
   url: https://www.washingtonpost.com/blogs/post-tech/post/fcc-commissioner-meredith-baker-to-join-comcast-nbc/2011/05/11/AFYfl1rG_blog.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2011-05-11'
 - title: Outgoing FCC Commissioner To Lobby For Comcast
   url: https://www.npr.org/2011/05/12/136250400/for-government-employees-revolving-door-continues

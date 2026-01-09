@@ -25,14 +25,14 @@ actors:
 sources:
 - title: Meet the right-wing Canadian influencers accused of collaborating with an alleged Russian propaganda scheme
   url: https://www.cbc.ca/news/investigates/russian-influence-election-tenet-media-chen-southern-1.7314976
-  publisher: CBC News
   date: '2024-09-06'
   tier: 1
+  outlet: CBC News
 - title: How Russian operatives covertly hired U.S. influencers to create viral videos
   url: https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube
-  publisher: NPR
   date: '2024-09-05'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

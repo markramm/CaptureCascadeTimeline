@@ -4,33 +4,33 @@ date: 2019-11-15
 title: Ambassador Yovanovitch Testifies on Giuliani Smear Campaign and Removal from Ukraine Post
 importance: 9
 tags:
-  - First Impeachment
-  - Ukraine
-  - State Department
-  - Witness Intimidation
-  - Smear Campaign
+- first impeachment
+- ukraine
+- state department
+- witness intimidation
+- smear campaign
 actors:
-  - Marie Yovanovitch
-  - Rudy Giuliani
-  - Donald Trump
-  - Lev Parnas
-  - Igor Fruman
+- Marie Yovanovitch
+- Rudy Giuliani
+- Donald Trump
+- Lev Parnas
+- Igor Fruman
 sources:
-  - url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=803
-    title: "Impeachment Inquiry: Ambassador Marie Yovanovitch Public Testimony Transcript"
-    publisher: House Intelligence Committee
-    date: 2019-11-15
-    tier: 1
-  - url: https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D006.pdf
-    title: Deposition of Marie Yovanovitch
-    publisher: House Intelligence Committee
-    date: 2019-10-11
-    tier: 1
-  - url: https://www.c-span.org/video/?466378-102/impeachment-hearing-ambassador-marie-yovanovitch-testifies
-    title: Impeachment Hearing - Ambassador Marie Yovanovitch Public Testimony
-    publisher: C-SPAN
-    date: 2019-11-15
-    tier: 1
+- url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=803
+  title: 'Impeachment Inquiry: Ambassador Marie Yovanovitch Public Testimony Transcript'
+  date: 2019-11-15
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D006.pdf
+  title: Deposition of Marie Yovanovitch
+  date: 2019-10-11
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://www.c-span.org/video/?466378-102/impeachment-hearing-ambassador-marie-yovanovitch-testifies
+  title: Impeachment Hearing - Ambassador Marie Yovanovitch Public Testimony
+  date: 2019-11-15
+  tier: 1
+  outlet: C-SPAN
 ---
 
 Former U.S. Ambassador to Ukraine Marie Yovanovitch delivered powerful public testimony on November 15, 2019, describing a systematic smear campaign orchestrated by Rudy Giuliani and corrupt Ukrainian prosecutors to remove her from her post because she refused to assist with investigations targeting Joe Biden. Yovanovitch, a 33-year Foreign Service veteran with bipartisan support, testified that she was told to "watch her back" by a Ukrainian official who warned that Giuliani and his associates were "looking to hurt" her. In a dramatic moment during her live testimony, Trump attacked her on Twitter, prompting Chairman Adam Schiff to read the tweet aloud and note that it constituted witness intimidation in real-time.

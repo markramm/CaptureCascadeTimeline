@@ -26,29 +26,29 @@ actors:
 sources:
 - title: LA Mayor Karen Bass confronts federal agents in MacArthur Park, demands withdrawal
   url: https://www.foxla.com/news/ice-operation-macarthur-park-july-7-2025
-  publisher: FOX 11 Los Angeles
   date: '2025-07-07'
   tier: 2
+  outlet: FOX 11 Los Angeles
 - title: MacArthur Park immigration sweep leaves Los Angeles community leaders with more questions
   url: https://www.cbsnews.com/losangeles/news/macarthur-park-immigration-sweep-los-angeles-community-leaders/
-  publisher: CBS Los Angeles
   date: '2025-07-07'
   tier: 1
+  outlet: CBS Los Angeles
 - title: Karen Bass confronts troops in LA's MacArthur Park in largely immigrant neighborhood
   url: https://thegrio.com/2025/07/08/karen-bass-confronts-troops-in-las-macarthur-park-in-largely-immigrant-neighborhood/
-  publisher: TheGrio
   date: '2025-07-08'
   tier: 2
+  outlet: TheGrio
 - title: Federal agents raid Los Angeles as Mayor Bass calls it unacceptable
   url: https://www.foxnews.com/us/federal-agents-conduct-immigration-raid-los-angeles-fierce-opposition-democrat-mayor
-  publisher: Fox News
   date: '2025-07-07'
   tier: 2
+  outlet: Fox News
 - title: Chris Hayes - Meet the man putting Trump's brutal immigration agenda into action
   url: https://www.msnbc.com/top-stories/latest/trump-chicago-immigration-raids-greg-bovino-rcna240481
-  publisher: MSNBC
   date: '2025-09-15'
   tier: 2
+  outlet: MSNBC
 status: confirmed
 ---
 

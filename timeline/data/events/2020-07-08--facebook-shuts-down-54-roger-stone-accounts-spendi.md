@@ -19,10 +19,9 @@ sources:
   url: https://about.fb.com/news/2020/07/removing-political-coordinated-inauthentic-behavior
   outlet: Facebook
   date: '2020-07-08'
-- title: Facebook closes network of accounts and pages affiliated with Roger Stone
-    for manipulation
+- title: Facebook closes network of accounts and pages affiliated with Roger Stone for manipulation
   url: https://www.washingtonpost.com/technology/2020/07/08/facebook-roger-stone/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2020-07-08'
 - title: Facebook removes network of inauthentic behavior tied to Roger Stone
   url: https://www.cnbc.com/2020/07/08/facebook-removes-network-of-inauthentic-behavior-tied-to-roger-stone.html

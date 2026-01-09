@@ -14,12 +14,12 @@ actors:
 - Pentagon Press Corps
 tags:
 - press-freedom
-- First-Amendment
-- Pentagon
+- first-amendment
+- pentagon
 - media
 - censorship
 - prior-restraint
-- Hegseth
+- hegseth
 - journalism
 capture_lanes:
 - Press Freedom Erosion

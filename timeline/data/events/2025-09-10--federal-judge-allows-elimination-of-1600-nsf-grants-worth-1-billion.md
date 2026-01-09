@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.theguardian.com/us-news/2025/sep/10/nsf-grants-eliminated-doge-trump
   title: Federal Judge Allows $1 Billion in Science Foundation Grant Cuts
-  publisher: The Guardian
   date: '2025-09-10'
   tier: 1
+  outlet: The Guardian
 actors:
 - Donald Trump
 - DOGE

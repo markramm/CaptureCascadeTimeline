@@ -4,33 +4,33 @@ date: '2021-01-13'
 title: House Impeaches Trump for Second Time on Single Charge of "Incitement of Insurrection"
 importance: 10
 tags:
-  - Trump Presidency
-  - Impeachment
-  - January 6 Attack
-  - Constitutional Crisis
-  - Republican Party
+- trump presidency
+- impeachment
+- january 6 attack
+- constitutional crisis
+- republican party
 actors:
-  - Donald Trump
-  - Nancy Pelosi
-  - Liz Cheney
-  - Adam Kinzinger
-  - House of Representatives
+- Donald Trump
+- Nancy Pelosi
+- Liz Cheney
+- Adam Kinzinger
+- House of Representatives
 sources:
-  - url: https://www.npr.org/sections/trump-impeachment-effort-live-updates/2021/01/13/956449072/house-impeaches-trump-a-2nd-time-citing-insurrection-at-u-s-capitol
-    title: House Impeaches Trump A 2nd Time, Citing Insurrection At U.S. Capitol
-    publisher: NPR
-    date: '2021-01-13'
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/majority-of-house-members-vote-for-2nd-impeachment-of-trump
-    title: Donald Trump becomes the first U.S. president to be impeached twice
-    publisher: PBS NewsHour
-    date: '2021-01-13'
-    tier: 1
-  - url: https://www.npr.org/2021/01/14/956621191/these-are-the-10-republicans-who-voted-to-impeach-trump
-    title: Who Are The 10 Republicans Who Voted To Impeach President Trump?
-    publisher: NPR
-    date: '2021-01-14'
-    tier: 1
+- url: https://www.npr.org/sections/trump-impeachment-effort-live-updates/2021/01/13/956449072/house-impeaches-trump-a-2nd-time-citing-insurrection-at-u-s-capitol
+  title: House Impeaches Trump A 2nd Time, Citing Insurrection At U.S. Capitol
+  date: '2021-01-13'
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/politics/majority-of-house-members-vote-for-2nd-impeachment-of-trump
+  title: Donald Trump becomes the first U.S. president to be impeached twice
+  date: '2021-01-13'
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.npr.org/2021/01/14/956621191/these-are-the-10-republicans-who-voted-to-impeach-trump
+  title: Who Are The 10 Republicans Who Voted To Impeach President Trump?
+  date: '2021-01-14'
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

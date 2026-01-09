@@ -20,24 +20,24 @@ actors:
 sources:
 - url: https://en.wikipedia.org/wiki/2004_Fallujah_ambush
   title: 2004 Fallujah ambush
-  publisher: Wikipedia
   date: '2004-03-31'
   tier: 3
+  outlet: Wikipedia
 - url: https://www.sfgate.com/news/article/Horror-at-Fallujah-SAVAGE-ATTACK-Bodies-2772639.php
   title: Horror at Fallujah - Bodies dragged through street, hung from bridge
-  publisher: San Francisco Chronicle
   date: '2004-04-01'
   tier: 2
+  outlet: San Francisco Chronicle
 - url: https://www.npr.org/sections/thetwo-way/2012/01/06/144804089/after-seven-years-families-of-slain-blackwater-contractors-settle-suit
   title: After Seven Years, Families Of Slain Blackwater Contractors Settle Suit
-  publisher: NPR
   date: '2012-01-06'
   tier: 1
+  outlet: NPR
 - url: https://medium.com/@chelsealynnqueen94/the-2004-fallujah-ambush-4f3edcba7004
   title: The 2004 Fallujah Ambush
-  publisher: Medium
   date: '2019-03-31'
   tier: 3
+  outlet: Medium
 status: confirmed
 ---
 

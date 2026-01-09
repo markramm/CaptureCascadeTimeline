@@ -4,43 +4,43 @@ date: 2020-02-20
 title: DOJ Overrules Prosecutors' Roger Stone Sentencing Recommendation After Trump Tweet
 importance: 8
 tags:
-  - DOJ Corruption
-  - Mueller Investigation
-  - Roger Stone
-  - Sentencing
-  - Barr Obstruction
-  - Prosecutorial Independence
-  - Trump Interference
+- doj corruption
+- mueller investigation
+- roger stone
+- sentencing
+- barr obstruction
+- prosecutorial independence
+- trump interference
 actors:
-  - Roger Stone
-  - Donald Trump
-  - William Barr
-  - Aaron Zelinsky
-  - Jonathan Kravis
-  - Judge Amy Berman Jackson
-  - Adam Jed
-  - Michael Marando
+- Roger Stone
+- Donald Trump
+- William Barr
+- Aaron Zelinsky
+- Jonathan Kravis
+- Judge Amy Berman Jackson
+- Adam Jed
+- Michael Marando
 sources:
-  - url: https://www.npr.org/2020/02/11/804888522/doj-to-revise-sentencing-request-for-roger-stone-following-trump-tweet
-    title: Prosecutors Quit After DOJ Seeks 'Less' Prison Time For Trump Ally Roger Stone
-    publisher: NPR
-    date: 2020-02-11
-    tier: 1
-  - url: https://www.npr.org/2020/02/20/807099176/roger-stone-sentenced-to-3-years-amid-furor-over-trump-involvement-in-doj-cases
-    title: Roger Stone Sentenced To More Than 3 Years Amid Furor Over Trump And DOJ
-    publisher: NPR
-    date: 2020-02-20
-    tier: 1
-  - url: https://www.nbcnews.com/politics/politics-news/doj-backpedalling-sentencing-recommendation-trump-ally-roger-stone-n1134961
-    title: All four Roger Stone prosecutors resign from case after DOJ backpedals on sentencing recommendation
-    publisher: NBC News
-    date: 2020-02-11
-    tier: 2
-  - url: https://www.cnn.com/2020/02/11/politics/roger-stone-sentencing-justice-department/index.html
-    title: All 4 federal prosecutors quit Stone case after DOJ overrules prosecutors on sentencing request
-    publisher: CNN
-    date: 2020-02-11
-    tier: 2
+- url: https://www.npr.org/2020/02/11/804888522/doj-to-revise-sentencing-request-for-roger-stone-following-trump-tweet
+  title: Prosecutors Quit After DOJ Seeks 'Less' Prison Time For Trump Ally Roger Stone
+  date: 2020-02-11
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/2020/02/20/807099176/roger-stone-sentenced-to-3-years-amid-furor-over-trump-involvement-in-doj-cases
+  title: Roger Stone Sentenced To More Than 3 Years Amid Furor Over Trump And DOJ
+  date: 2020-02-20
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/politics/politics-news/doj-backpedalling-sentencing-recommendation-trump-ally-roger-stone-n1134961
+  title: All four Roger Stone prosecutors resign from case after DOJ backpedals on sentencing recommendation
+  date: 2020-02-11
+  tier: 2
+  outlet: NBC News
+- url: https://www.cnn.com/2020/02/11/politics/roger-stone-sentencing-justice-department/index.html
+  title: All 4 federal prosecutors quit Stone case after DOJ overrules prosecutors on sentencing request
+  date: 2020-02-11
+  tier: 2
+  outlet: CNN
 ---
 
 On February 20, 2020, federal Judge Amy Berman Jackson sentenced Roger Stone, longtime Trump adviser and political operative, to 40 months in prison for lying to Congress, witness tampering, and obstruction of justice. The sentencing came at the conclusion of an unprecedented political controversy that exposed deep corruption within the Department of Justice under Attorney General William Barr. Just days before sentencing, DOJ leadership overruled career prosecutors' sentencing recommendation hours after President Trump tweeted his displeasure, prompting all four prosecutors on the case to withdraw in protest—an extraordinary rebuke of political interference in criminal justice.

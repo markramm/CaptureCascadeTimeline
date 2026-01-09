@@ -4,30 +4,30 @@ date: 2022-05-02
 title: Amazon Defeats Second Staten Island Union Vote at LDJ5 Facility 618 to 380
 importance: 7
 actors:
-  - Amazon
-  - Christian Smalls
-  - Amazon Labor Union
+- Amazon
+- Christian Smalls
+- Amazon Labor Union
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Labor Rights
+- union organizing
+- worker exploitation
+- amazon
+- labor rights
 sources:
-  - url: https://www.npr.org/2022/05/02/1095866859/amazon-labor-union-staten-island-union-election-chris-smalls-warehouse-workers
-    title: "Amazon Labor Union fails to repeat victory in Staten Island Amazon warehouse election"
-    publisher: NPR
-    date: 2022-05-02
-    tier: 1
-  - url: https://www.cnbc.com/2022/05/02/amazon-workers-at-second-staten-island-warehouse-reject-union.html
-    title: "Amazon workers at second Staten Island warehouse reject union"
-    publisher: CNBC
-    date: 2022-05-02
-    tier: 1
-  - url: https://jacobin.com/2022/05/amazon-staten-island-ldj5-sorting-center-union-vote-loss
-    title: "Amazon Workers Just Suffered a Defeat. But the Fight Is Far From Over."
-    publisher: Jacobin
-    date: 2022-05-04
-    tier: 2
+- url: https://www.npr.org/2022/05/02/1095866859/amazon-labor-union-staten-island-union-election-chris-smalls-warehouse-workers
+  title: Amazon Labor Union fails to repeat victory in Staten Island Amazon warehouse election
+  date: 2022-05-02
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2022/05/02/amazon-workers-at-second-staten-island-warehouse-reject-union.html
+  title: Amazon workers at second Staten Island warehouse reject union
+  date: 2022-05-02
+  tier: 1
+  outlet: CNBC
+- url: https://jacobin.com/2022/05/amazon-staten-island-ldj5-sorting-center-union-vote-loss
+  title: Amazon Workers Just Suffered a Defeat. But the Fight Is Far From Over.
+  date: 2022-05-04
+  tier: 2
+  outlet: Jacobin
 status: confirmed
 ---
 

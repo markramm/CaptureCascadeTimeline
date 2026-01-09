@@ -16,9 +16,9 @@ actors:
 sources:
 - url: https://apnews.com/article/north-carolina-redistricting-gerrymandering-black-representative
   title: North Carolina GOP Redraws Congressional Map for Partisan Gain
-  publisher: Associated Press
   date: '2025-10-20'
   tier: 1
+  outlet: Associated Press
 status: confirmed
 ---
 

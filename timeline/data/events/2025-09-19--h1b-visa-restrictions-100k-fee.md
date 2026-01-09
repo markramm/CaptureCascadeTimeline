@@ -15,9 +15,9 @@ tags:
 sources:
 - url: https://www.nafsa.org/executive-and-regulatory-actions-trump2admin
   title: Executive and Regulatory Actions Under the Second Trump Administration
-  publisher: 'NAFSA: Association of International Educators'
   date: '2025-09-19'
   tier: 2
+  outlet: 'NAFSA: Association of International Educators'
 ---
 
 President Trump issued a Presidential Proclamation imposing severe restrictions on H-1B specialty occupation workers, requiring employers to pay a $100,000 fee per petition with limited national-interest exemptions. This dramatic escalation in visa costs represents a fundamental shift in skilled immigration policy, effectively pricing out most employers except large corporations.

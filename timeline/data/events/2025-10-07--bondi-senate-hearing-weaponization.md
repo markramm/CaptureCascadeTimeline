@@ -19,22 +19,20 @@ tags:
 - pam-bondi
 sources:
 - url: https://www.npr.org/2025/10/07/nx-s1-5563934/bondi-senate-judiciary-committee-testify
-  title: Democrats press Bondi over concerns DOJ is being weaponized to target Trump's
-    foes
-  publisher: NPR
+  title: Democrats press Bondi over concerns DOJ is being weaponized to target Trump's foes
   date: '2025-10-07'
   tier: 1
+  outlet: NPR
 - url: https://www.cnn.com/2025/10/07/politics/bondi-senate-hearing-takeaways
   title: Takeaways from Attorney General Pam Bondi's contentious Senate hearing
-  publisher: CNN
   date: '2025-10-07'
   tier: 2
+  outlet: CNN
 - url: https://abcnews.go.com/Politics/democrats-highlight-doj-weaponization-epstein-files-bondis-senate/story?id=126260560
-  title: Bondi rips Democratic senators, dodges questions on 'weaponization' and Homan
-    during fiery hearing
-  publisher: ABC News
+  title: Bondi rips Democratic senators, dodges questions on 'weaponization' and Homan during fiery hearing
   date: '2025-10-07'
   tier: 2
+  outlet: ABC News
 ---
 
 On October 7, 2025, Attorney General Pam Bondi testified before the Senate Judiciary Committee in a contentious oversight hearing marked by sharp Democratic criticism of the Justice Department's targeting of President Trump's political opponents. The hearing came one day before former FBI Director James Comey's scheduled arraignment on charges he allegedly lied to Congress, and amid growing concerns that Bondi has transformed the DOJ into a tool for political retribution.

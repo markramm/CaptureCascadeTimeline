@@ -17,9 +17,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/18/us/politics/doj-prosecutor-fired-letitia-james.html
   title: DOJ Prosecutor Fired for Refusing Political Charges
-  publisher: New York Times
   date: '2025-10-18'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

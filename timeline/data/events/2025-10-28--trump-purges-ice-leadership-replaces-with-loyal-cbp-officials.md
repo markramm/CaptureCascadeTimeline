@@ -11,22 +11,20 @@ id: 2025-10-28--trump-purges-ice-leadership-replaces-with-loyal-cbp-officials
 importance: 9
 sources:
 - date: '2025-10-27'
-  publisher: CBS News
   tier: 1
-  title: Trump administration to reassign ICE officials in bid to intensify deportation
-    campaign
+  title: Trump administration to reassign ICE officials in bid to intensify deportation campaign
   url: https://www.cbsnews.com/news/trump-administration-reassign-ice-intensify-deportation-campaign-border-patrol/
+  outlet: CBS News
 - date: '2025-10-28'
-  publisher: Axios
   tier: 2
   title: Trump administration purges ICE field officials
   url: https://www.axios.com/2025/10/28/trump-ice-deportations-field-officials-noem
+  outlet: Axios
 - date: '2025-10-29'
-  publisher: Reason
   tier: 2
-  title: Trump's move to replace 12 ICE directors could mean more aggressive and unconstitutional
-    immigration enforcement
+  title: Trump's move to replace 12 ICE directors could mean more aggressive and unconstitutional immigration enforcement
   url: https://reason.com/2025/10/29/trumps-move-to-replace-12-ice-directors-could-mean-more-aggressive-and-unconstitutional-immigration-enforcement/
+  outlet: Reason
 status: confirmed
 tags:
 - border-patrol
@@ -38,8 +36,7 @@ tags:
 - leadership-purge
 - loyalty-test
 - mass-arrests
-title: Trump Purges 12 ICE Field Directors, Replaces with Border Patrol Loyalists
-  to Escalate Deportations
+title: Trump Purges 12 ICE Field Directors, Replaces with Border Patrol Loyalists to Escalate Deportations
 ---
 
 On October 28, 2025, while President Trump was returning from a three-country Asia trip, the administration executed a major purge of Immigration and Customs Enforcement (ICE) leadership, reassigning 12 field office directors across the country and replacing them with Customs and Border Protection (CBP) officials and Border Patrol agents known to be more loyal to Trump and more willing to escalate immigration enforcement beyond constitutional limits.

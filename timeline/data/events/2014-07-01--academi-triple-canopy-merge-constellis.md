@@ -16,18 +16,18 @@ actors:
 sources:
 - url: https://en.wikipedia.org/wiki/Blackwater_(company)
   title: Blackwater (company)
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 - url: https://foreignpolicy.com/2014/07/01/blackwaters-descendants-are-doing-just-fine/
   title: Blackwater's Descendants Are Doing Just Fine
-  publisher: Foreign Policy
   date: '2014-07-01'
   tier: 2
+  outlet: Foreign Policy
 - url: https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/
   title: The Evolution of Blackwater - From Controversy to Constellis Holdings
-  publisher: Ryan J. Hite
   date: '2024-05-25'
   tier: 3
+  outlet: Ryan J. Hite
 status: confirmed
 ---
 

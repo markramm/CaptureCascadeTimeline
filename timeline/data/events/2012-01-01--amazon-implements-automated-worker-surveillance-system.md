@@ -4,30 +4,30 @@ date: 2012-01-01
 title: Amazon Implements Automated Worker Surveillance and Tracking System
 importance: 8
 actors:
-  - Jeff Bezos
-  - Amazon
+- Jeff Bezos
+- Amazon
 tags:
-  - Worker Exploitation
-  - Surveillance
-  - Corporate Accountability
-  - Technology
-  - Amazon
+- worker exploitation
+- surveillance
+- corporate accountability
+- technology
+- amazon
 sources:
-  - url: https://www.technologyreview.com/2019/04/26/1021/amazons-system-for-tracking-its-warehouse-workers-can-automatically-fire-them/
-    title: "Amazon's system for tracking its warehouse workers can automatically fire them"
-    publisher: MIT Technology Review
-    date: 2019-04-26
-    tier: 1
-  - url: https://www.vice.com/en/article/internal-documents-show-amazons-dystopian-system-for-tracking-workers-every-minute-of-their-shifts/
-    title: "Internal Documents Show Amazon's Dystopian System for Tracking Workers Every Minute of Their Shifts"
-    publisher: Vice News
-    date: 2021-06-14
-    tier: 1
-  - url: https://blogs.ischool.berkeley.edu/w231/2022/03/02/amazons-adapt-and-its-harm-on-workers/
-    title: "Amazon's ADAPT and its Harm on Workers"
-    publisher: UC Berkeley School of Information
-    date: 2022-03-02
-    tier: 1
+- url: https://www.technologyreview.com/2019/04/26/1021/amazons-system-for-tracking-its-warehouse-workers-can-automatically-fire-them/
+  title: Amazon's system for tracking its warehouse workers can automatically fire them
+  date: 2019-04-26
+  tier: 1
+  outlet: MIT Technology Review
+- url: https://www.vice.com/en/article/internal-documents-show-amazons-dystopian-system-for-tracking-workers-every-minute-of-their-shifts/
+  title: Internal Documents Show Amazon's Dystopian System for Tracking Workers Every Minute of Their Shifts
+  date: 2021-06-14
+  tier: 1
+  outlet: Vice News
+- url: https://blogs.ischool.berkeley.edu/w231/2022/03/02/amazons-adapt-and-its-harm-on-workers/
+  title: Amazon's ADAPT and its Harm on Workers
+  date: 2022-03-02
+  tier: 1
+  outlet: UC Berkeley School of Information
 status: confirmed
 ---
 

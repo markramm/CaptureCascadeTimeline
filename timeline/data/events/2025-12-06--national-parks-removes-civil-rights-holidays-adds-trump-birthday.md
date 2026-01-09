@@ -5,52 +5,52 @@ title: National Park Service Removes MLK Day and Juneteenth from Fee-Free Days, 
 summary: The Interior Department announced on November 25, 2025, that the National Park Service would remove Martin Luther King Jr. Day and Juneteenth from its 2026 calendar of fee-free entry days, while adding President Trump's birthday (June 14, which coincides with Flag Day) to the list of "resident-only patriotic fee-free days." The changes became public on December 6, 2025, sparking immediate condemnation from civil rights organizations and Democratic lawmakers.
 importance: 8
 actors:
-  - Interior Department
-  - National Park Service
-  - Donald Trump
-  - Doug Burgum
-  - Derrick Johnson
-  - NAACP
-  - Angus King
-  - Cornell William Brooks
-  - Tyrhee Moore
-  - Olivia Juarez
+- Interior Department
+- National Park Service
+- Donald Trump
+- Doug Burgum
+- Derrick Johnson
+- NAACP
+- Angus King
+- Cornell William Brooks
+- Tyrhee Moore
+- Olivia Juarez
 tags:
-  - cultural-capture
-  - historical-revisionism
-  - civil-rights
-  - National-Park-Service
-  - Interior-Department
-  - personality-cult
-  - institutional-capture
-  - racial-justice
-  - public-lands
+- cultural-capture
+- historical-revisionism
+- civil-rights
+- national-park-service
+- interior-department
+- personality-cult
+- institutional-capture
+- racial-justice
+- public-lands
 sources:
-  - url: https://www.doi.gov/pressreleases/department-interior-announces-modernized-more-affordable-national-park-access
-    title: Department of the Interior Announces Modernized, More Affordable National Park Access
-    publisher: U.S. Department of the Interior
-    date: 2025-11-25
-    tier: 1
-  - url: https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth
-    title: National parks' fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday
-    publisher: NPR
-    date: 2025-12-06
-    tier: 1
-  - url: https://naacp.org/articles/naacp-condemns-trump-administrations-removal-mlk-day-and-juneteenth-national-parks-free
-    title: NAACP Condemns Trump Administration's Removal of MLK Day and Juneteenth From National Parks Free Days
-    publisher: NAACP
-    date: 2025-12-08
-    tier: 1
-  - url: https://eji.org/news/national-parks-cancel-free-admission-on-mlk-day-and-juneteenth/
-    title: National Parks Cancel Free Admission on MLK Day and Juneteenth
-    publisher: Equal Justice Initiative
-    date: 2025-12-06
-    tier: 1
-  - url: https://www.cbsnews.com/news/trump-administration-national-park-service-free-days-juneteenth-mlk-day/
-    title: National parks add Trump's birthday to list of fee-free days and remove MLK Day, Juneteenth
-    publisher: CBS News
-    date: 2025-12-06
-    tier: 1
+- url: https://www.doi.gov/pressreleases/department-interior-announces-modernized-more-affordable-national-park-access
+  title: Department of the Interior Announces Modernized, More Affordable National Park Access
+  date: 2025-11-25
+  tier: 1
+  outlet: U.S. Department of the Interior
+- url: https://www.npr.org/2025/12/06/g-s1-101090/national-parks-fee-free-calendar-mlk-juneteenth
+  title: National parks' fee-free calendar drops MLK Day, Juneteenth and adds Trump's birthday
+  date: 2025-12-06
+  tier: 1
+  outlet: NPR
+- url: https://naacp.org/articles/naacp-condemns-trump-administrations-removal-mlk-day-and-juneteenth-national-parks-free
+  title: NAACP Condemns Trump Administration's Removal of MLK Day and Juneteenth From National Parks Free Days
+  date: 2025-12-08
+  tier: 1
+  outlet: NAACP
+- url: https://eji.org/news/national-parks-cancel-free-admission-on-mlk-day-and-juneteenth/
+  title: National Parks Cancel Free Admission on MLK Day and Juneteenth
+  date: 2025-12-06
+  tier: 1
+  outlet: Equal Justice Initiative
+- url: https://www.cbsnews.com/news/trump-administration-national-park-service-free-days-juneteenth-mlk-day/
+  title: National parks add Trump's birthday to list of fee-free days and remove MLK Day, Juneteenth
+  date: 2025-12-06
+  tier: 1
+  outlet: CBS News
 ---
 
 The Interior Department announced on November 25, 2025, that the National Park Service would remove Martin Luther King Jr. Day and Juneteenth from its 2026 calendar of fee-free entry days, while adding President Trump's birthday (June 14, which coincides with Flag Day) to the list of "resident-only patriotic fee-free days." The changes became public on December 6, 2025, sparking immediate condemnation from civil rights organizations and Democratic lawmakers.

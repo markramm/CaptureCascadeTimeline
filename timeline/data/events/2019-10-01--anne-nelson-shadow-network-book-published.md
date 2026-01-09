@@ -4,7 +4,7 @@ date: '2019-10-01'
 title: Anne Nelson Publishes "Shadow Network" - Exposing CNP as Conservative Coordination Hub
 importance: 9
 tags:
-- CNP
+- cnp
 - conservative-movement
 - coordination
 - investigative-journalism
@@ -13,12 +13,12 @@ actors:
 - Anne Nelson
 - Council for National Policy
 sources:
-- title: "Shadow Network: Media, Money, and the Secret Hub of the Radical Right"
+- title: 'Shadow Network: Media, Money, and the Secret Hub of the Radical Right'
   url: https://www.amazon.com/Shadow-Network-Media-Secret-Radical/dp/163557319X
   publication: Bloomsbury Publishing
   date: '2019-10-01'
   tier: 1
-- title: "Book Review: 'Shadow Network' Offers A Lesson On The American Right's Mastery Of Politics"
+- title: 'Book Review: ''Shadow Network'' Offers A Lesson On The American Right''s Mastery Of Politics'
   url: https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics
   publication: NPR
   date: '2019-10-29'

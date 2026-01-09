@@ -4,30 +4,30 @@ date: 2014-03-01
 title: Trump Foundation Buys $20,000 Portrait of Trump at Charity Auction, Hangs in Trump Golf Club
 importance: 8
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Self-Dealing
-  - Tax Violations
+- trump foundation
+- charity fraud
+- self-dealing
+- tax violations
 actors:
-  - Donald Trump
-  - Trump Foundation
+- Donald Trump
+- Trump Foundation
 status: confirmed
 sources:
-  - url: https://www.washingtonpost.com/politics/how-donald-trump-retooled-his-charity-to-spend-other-peoples-money/2016/09/10/da8cce64-75df-11e6-8149-b8d05321db62_story.html
-    title: How Donald Trump retooled his charity to spend other people's money
-    publisher: Washington Post
-    date: 2016-09-10
-    tier: 1
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
-    title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
-    publisher: New York Attorney General
-    date: 2018-06-14
-    tier: 1
-  - url: https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds
-    title: Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds
-    publisher: NPR
-    date: 2019-11-07
-    tier: 1
+- url: https://www.washingtonpost.com/politics/how-donald-trump-retooled-his-charity-to-spend-other-peoples-money/2016/09/10/da8cce64-75df-11e6-8149-b8d05321db62_story.html
+  title: How Donald Trump retooled his charity to spend other people's money
+  date: 2016-09-10
+  tier: 1
+  outlet: The Washington Post
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
+  title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
+  date: 2018-06-14
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds
+  title: Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds
+  date: 2019-11-07
+  tier: 1
+  outlet: NPR
 ---
 
 The Donald J. Trump Foundation spent $20,000 in charitable funds to purchase a portrait of Donald Trump painted by a speed-painter at a charity gala at Mar-a-Lago. The four-foot portrait, created during the event, was supposed to be sold with proceeds benefiting the charity hosting the auction. Instead, the Trump Foundation bid on and purchased the portrait, then displayed it at Trump National Golf Club in Doral, Florida, providing no charitable benefit while decorating Trump's for-profit business property with an image of himself purchased using charitable donations from others.

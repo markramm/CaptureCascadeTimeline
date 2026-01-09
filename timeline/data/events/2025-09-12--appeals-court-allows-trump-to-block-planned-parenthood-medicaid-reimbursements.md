@@ -1,8 +1,7 @@
 ---
 id: 2025-09-12--appeals-court-allows-trump-to-block-planned-parenthood-medicaid-reimbursements
 date: '2025-09-12'
-title: Federal Appeals Court Upholds Trump Law Blocking Planned Parenthood Medicaid
-  Reimbursements
+title: Federal Appeals Court Upholds Trump Law Blocking Planned Parenthood Medicaid Reimbursements
 importance: 8
 tags:
 - healthcare-access-sabotage
@@ -12,14 +11,14 @@ tags:
 sources:
 - url: https://www.theguardian.com/us-news/2025/sep/12/planned-parenthood-medicaid-funding-appeals-court-trump
   title: Federal Court Allows Trump to Block Planned Parenthood Medicaid Reimbursements
-  publisher: The Guardian
   date: '2025-09-12'
   tier: 1
+  outlet: The Guardian
 - url: https://www.nytimes.com/2025/09/11/us/politics/planned-parenthood-medicaid-trump-defunding.html
   title: Appeals Court Revives Trump's Law Blocking Medicaid Reimbursements
-  publisher: New York Times
   date: '2025-09-11'
   tier: 1
+  outlet: The New York Times
 actors:
 - Donald Trump
 - Planned Parenthood

@@ -4,36 +4,36 @@ date: 2010-01-01
 title: Republican State Leadership Committee Launches REDMAP Gerrymandering Project
 importance: 9
 tags:
-  - gerrymandering
-  - electoral-manipulation
-  - republican-party
-  - redistricting
-  - REDMAP
+- gerrymandering
+- electoral-manipulation
+- republican-party
+- redistricting
+- redmap
 actors:
-  - Republican State Leadership Committee
-  - Ed Gillespie
-  - Karl Rove
+- Republican State Leadership Committee
+- Ed Gillespie
+- Karl Rove
 sources:
-  - url: https://www.redistrictingmajorityproject.com/
-    title: The RSLC Redistricting Majority Project – REDMAP
-    publisher: Republican State Leadership Committee
-    date: 2010-01-01
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/gop-gerrymandering-creates-uphill-fight-dems-house
-    title: GOP gerrymandering creates uphill fight for Dems in the House
-    publisher: PBS News
-    date: 2017-07-14
-    tier: 1
-  - url: https://billmoyers.com/story/in-2010-republicans-weaponized-gerrymandering-heres-how-they-did-it/
-    title: In 2010, Republicans 'Weaponized' Gerrymandering. Here's How They Did It
-    publisher: BillMoyers.com
-    date: 2016-07-15
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/REDMAP
-    title: REDMAP
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 3
+- url: https://www.redistrictingmajorityproject.com/
+  title: The RSLC Redistricting Majority Project – REDMAP
+  date: 2010-01-01
+  tier: 1
+  outlet: Republican State Leadership Committee
+- url: https://www.pbs.org/newshour/politics/gop-gerrymandering-creates-uphill-fight-dems-house
+  title: GOP gerrymandering creates uphill fight for Dems in the House
+  date: 2017-07-14
+  tier: 1
+  outlet: PBS News
+- url: https://billmoyers.com/story/in-2010-republicans-weaponized-gerrymandering-heres-how-they-did-it/
+  title: In 2010, Republicans 'Weaponized' Gerrymandering. Here's How They Did It
+  date: 2016-07-15
+  tier: 2
+  outlet: BillMoyers.com
+- url: https://en.wikipedia.org/wiki/REDMAP
+  title: REDMAP
+  date: 2024-01-01
+  tier: 3
+  outlet: Wikipedia
 ---
 
 The Republican State Leadership Committee (RSLC) launches REDMAP (Redistricting Majority Project), a strategic initiative to gain control of state legislatures before the 2011 redistricting cycle following the 2010 Census. The project represents an unprecedented systematic approach to gerrymandering designed to secure Republican congressional majorities for the next decade.

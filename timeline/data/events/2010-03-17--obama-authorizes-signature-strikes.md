@@ -19,24 +19,24 @@ tags:
 sources:
 - title: Obama's Covert Drone War in Numbers
   url: https://www.thebureauinvestigates.com/stories/2017-01-17/obamas-covert-drone-war-in-numbers-ten-times-more-strikes-than-bush
-  publisher: The Bureau of Investigative Journalism
   date: '2017-01-17'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: Drone Strikes - An Overview, Articulation and Assessment
   url: https://cgsr.llnl.gov/sites/cgsr/files/2024-08/DroneStrikes.pdf
-  publisher: Lawrence Livermore National Laboratory Center for Global Security Research
   date: '2024-08-01'
   tier: 1
+  outlet: Lawrence Livermore National Laboratory Center for Global Security Research
 - title: Obama Defends Deadly Drone Campaign in New Book
   url: https://www.middleeasteye.net/news/obama-defends-deadly-drone-campaign-new-book
-  publisher: Middle East Eye
   date: '2020-11-16'
   tier: 2
+  outlet: Middle East Eye
 - title: Biden Can Reduce Civilian Casualties During US Drone Strikes - Here's How
   url: https://www.brookings.edu/articles/biden-can-reduce-civilian-casualties-during-us-drone-strikes-heres-how/
-  publisher: Brookings Institution
   date: '2021-01-22'
   tier: 1
+  outlet: Brookings Institution
 ---
 
 President Obama secretly authorizes the CIA to conduct "signature strikes"—drone attacks that target groups of people based on patterns of suspicious behavior rather than confirmed identification of specific individuals. This policy shift enables the CIA to strike gatherings of military-age males in certain locations, convoys displaying particular characteristics, or groups engaged in activities deemed consistent with militant behavior, without knowing who they are killing. The signature strikes policy dramatically accelerates the pace of drone operations while exponentially increasing civilian casualties and fundamentally abandoning due process—people are killed not for confirmed crimes or imminent threats, but because their behavior matches a profile.

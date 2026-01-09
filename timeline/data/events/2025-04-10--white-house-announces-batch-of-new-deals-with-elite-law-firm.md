@@ -2,11 +2,7 @@
 id: 2025-04-10--white-house-announces-batch-of-new-deals-with-elite-law-firm
 date: '2025-04-10'
 title: Trump White House Brokers Pro Bono Deals with Elite Law Firms
-description: President Trump's administration leveraged executive power to secure
-  pro bono legal services from major law firms by offering protection from potential
-  government sanctions. Firms like Paul Weiss and Skadden agreed to provide millions
-  in free legal work, with some deals reaching $100 million, in exchange for avoiding
-  punitive executive orders.
+description: President Trump's administration leveraged executive power to secure pro bono legal services from major law firms by offering protection from potential government sanctions. Firms like Paul Weiss and Skadden agreed to provide millions in free legal work, with some deals reaching $100 million, in exchange for avoiding punitive executive orders.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -35,7 +31,7 @@ patterns:
 sources:
 - title: White House announces batch of new deals with elite law firms
   url: https://www.wsj.com/us-news/law/latham-watkins-simpson-thacher-near-deals-with-white-house-aadfa172?mod=hp_lead_pos4
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-04-10'
 - title: Trump Floats Asking Top Law Firms to Do Trade Deal Work Pro Bono
   url: https://www.bloomberg.com/news/articles/2025-04-10/trump-floats-asking-top-law-firms-to-do-trade-deal-work-pro-bono
@@ -45,8 +41,7 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-04-11/trump-cuts-pro-bono-deals-with-law-firms-as-he-seeks-trade-help
   outlet: Bloomberg
   date: '2025-04-11'
-notes: Event from comprehensive kleptocracy timeline tracking. Enhanced with additional
-  Bloomberg sources detailing pro bono legal service negotiations.
+notes: Event from comprehensive kleptocracy timeline tracking. Enhanced with additional Bloomberg sources detailing pro bono legal service negotiations.
 connections: []
 ---
 

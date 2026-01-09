@@ -20,11 +20,11 @@ status: confirmed
 sources:
 - title: Supreme Court Invalidates Key Part of Voting Rights Act
   url: https://www.nytimes.com/2013/06/26/us/supreme-court-ruling.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2013-06-25'
 - title: Supreme Court strikes down part of Voting Rights Act
   url: https://www.washingtonpost.com/politics/supreme-court-strikes-down-part-of-voting-rights-act/2013/06/25/8f0d91ae-dd2a-11e2-bd83-e99e43c336ed_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2013-06-25'
 - title: Shelby County v. Holder
   url: https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf

@@ -11,25 +11,25 @@ actors:
 tags:
 - surveillance
 - privacy
-- DARPA
+- darpa
 - mass-surveillance
 - data-mining
-- TIA
+- tia
 - national-security
 sources:
-- url: https://irp.fas.org/agency/dod/poindexter.html
-  title: Overview of the Information Awareness Office - Poindexter Speech
-  publisher: Federation of American Scientists
+- title: Overview of the Information Awareness Office - Poindexter Speech
+  url: https://irp.fas.org/agency/dod/poindexter.html
+  outlet: Federation of American Scientists
   date: '2002-08-02'
   tier: 1
-- url: https://en.wikipedia.org/wiki/Total_Information_Awareness
-  title: Total Information Awareness
-  publisher: Wikipedia
+- title: Total Information Awareness
+  url: https://en.wikipedia.org/wiki/Total_Information_Awareness
+  outlet: Wikipedia
   date: '2024-01-15'
   tier: 2
-- url: https://archive.epic.org/privacy/profiling/tia/
-  title: Total Terrorism Information Awareness (TIA)
-  publisher: Electronic Privacy Information Center
+- title: Total Terrorism Information Awareness (TIA)
+  url: https://archive.epic.org/privacy/profiling/tia/
+  outlet: Electronic Privacy Information Center
   date: '2003-09-30'
   tier: 1
 ---

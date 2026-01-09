@@ -4,31 +4,31 @@ date: 1987-05-06
 title: CIA Director William Casey Dies Before Testifying on Iran-Contra Role
 importance: 9
 tags:
-  - Iran-Contra
-  - CIA
-  - Reagan-administration
-  - accountability
-  - cover-up
+- iran-contra
+- cia
+- reagan-administration
+- accountability
+- cover-up
 actors:
-  - William Casey
-  - Ronald Reagan
-  - Richard Secord
+- William Casey
+- Ronald Reagan
+- Richard Secord
 sources:
-  - url: https://irp.fas.org/offdocs/walsh/chap_15.htm
-    title: Walsh Report Chapter 15 - William J. Casey
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://www.washingtonpost.com/archive/politics/1987/05/07/former-cia-director-william-j-casey-dies/da60a0b4-79cf-43d3-b370-848c2439e833/
-    title: Former CIA Director William J. Casey Dies
-    publisher: Washington Post
-    date: 1987-05-07
-    tier: 2
-  - url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/profile-casey.php
-    title: William Casey CIA Director Profile
-    publisher: Brown University
-    date: 2024-01-01
-    tier: 1
+- url: https://irp.fas.org/offdocs/walsh/chap_15.htm
+  title: Walsh Report Chapter 15 - William J. Casey
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://www.washingtonpost.com/archive/politics/1987/05/07/former-cia-director-william-j-casey-dies/da60a0b4-79cf-43d3-b370-848c2439e833/
+  title: Former CIA Director William J. Casey Dies
+  date: 1987-05-07
+  tier: 2
+  outlet: The Washington Post
+- url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/profile-casey.php
+  title: William Casey CIA Director Profile
+  date: 2024-01-01
+  tier: 1
+  outlet: Brown University
 ---
 
 CIA Director William Casey dies at age 74 from nervous-system lymphoma, taking critical knowledge of the Iran-Contra scandal to his grave without ever testifying before Congress. Casey dies less than 24 hours after former colleague Richard Secord testifies that Casey supported the illegal aiding of Nicaraguan Contra rebels, raising questions about the full extent of CIA involvement in the scheme.

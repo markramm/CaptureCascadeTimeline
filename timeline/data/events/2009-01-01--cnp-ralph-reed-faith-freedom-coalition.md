@@ -4,7 +4,7 @@ date: '2009-01-01'
 title: CNP Member Ralph Reed Founds Faith and Freedom Coalition - Religious Right Coordination Expands
 importance: 8
 tags:
-- CNP
+- cnp
 - conservative-movement
 - religious-right
 - coordination
@@ -14,12 +14,12 @@ actors:
 - Council for National Policy
 - Faith and Freedom Coalition
 sources:
-- title: 'Faith and Freedom Coalition'
+- title: Faith and Freedom Coalition
   url: https://en.wikipedia.org/wiki/Faith_and_Freedom_Coalition
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Council for National Policy'
+- title: Council for National Policy
   url: https://persagen.org/docs/council_for_national_policy.html
   publication: Persagen
   date: '2024-11-10'

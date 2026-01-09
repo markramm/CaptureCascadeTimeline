@@ -4,33 +4,33 @@ date: 1992-12-24
 title: Bush Pardons Six Iran-Contra Officials on Christmas Eve, Completing Cover-Up
 importance: 10
 tags:
-  - Iran-Contra
-  - presidential-pardons
-  - obstruction-of-justice
-  - accountability
-  - cover-up
+- iran-contra
+- presidential-pardons
+- obstruction-of-justice
+- accountability
+- cover-up
 actors:
-  - George H.W. Bush
-  - Caspar Weinberger
-  - Robert McFarlane
-  - Elliott Abrams
-  - Lawrence Walsh
+- George H.W. Bush
+- Caspar Weinberger
+- Robert McFarlane
+- Elliott Abrams
+- Lawrence Walsh
 sources:
-  - url: https://irp.fas.org/offdocs/walsh/chap_28.htm
-    title: Walsh Report Chapter 28 - George Bush
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://www.npr.org/2018/12/06/674079779/george-h-w-bushs-mixed-legacy-in-a-reagan-era-scandal
-    title: George H.W. Bush's Mixed Legacy In A Reagan-Era Scandal
-    publisher: NPR
-    date: 2018-12-06
-    tier: 1
-  - url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/thepardons.php
-    title: Understanding the Iran-Contra Affairs - The Pardons
-    publisher: Brown University
-    date: 2024-01-01
-    tier: 1
+- url: https://irp.fas.org/offdocs/walsh/chap_28.htm
+  title: Walsh Report Chapter 28 - George Bush
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://www.npr.org/2018/12/06/674079779/george-h-w-bushs-mixed-legacy-in-a-reagan-era-scandal
+  title: George H.W. Bush's Mixed Legacy In A Reagan-Era Scandal
+  date: 2018-12-06
+  tier: 1
+  outlet: NPR
+- url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/thepardons.php
+  title: Understanding the Iran-Contra Affairs - The Pardons
+  date: 2024-01-01
+  tier: 1
+  outlet: Brown University
 ---
 
 President George H.W. Bush issues sweeping pardons to six Iran-Contra defendants on Christmas Eve, twelve days before former Defense Secretary Caspar Weinberger's trial was scheduled to begin. The pardons cover Weinberger, former National Security Adviser Robert McFarlane, former Assistant Secretary of State Elliott Abrams, former CIA Central American Task Force Chief Alan Fiers Jr., former CIA Deputy Director for Operations Clair George, and former CIA Counter-Terrorism Chief Duane Clarridge.

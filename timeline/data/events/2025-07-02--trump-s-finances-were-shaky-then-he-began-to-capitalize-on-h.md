@@ -2,9 +2,7 @@
 id: 2025-07-02--trump-s-finances-were-shaky-then-he-began-to-capitalize-on-h
 date: '2025-07-02'
 title: Trump’s finances were shaky. Then he began to capitalize on his comeback
-description: Trump has increased his net worth by billions of dollars through business
-  deals he made since returning to office—though his financials were in dire straits
-  just last year under the weight of massive civil penalties and liabilities
+description: Trump has increased his net worth by billions of dollars through business deals he made since returning to office—though his financials were in dire straits just last year under the weight of massive civil penalties and liabilities
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -18,7 +16,7 @@ capture_type: monetizing_position
 sources:
 - title: Trump’s finances were shaky. Then he began to capitalize on his comeback
   url: https://www.nytimes.com/2025/07/02/us/trump-finances-crypto.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-07-02'
 - title: Trump family's net worth has increased by 2.9 billion thanks to crypto investments
   url: https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/
@@ -32,8 +30,7 @@ sources:
   url: https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677
   outlet: House Financial Services Democrats
   date: '2025-01-25'
-- title: Trump Media builds 2 billion bitcoin hoard, as cryptocurrency swells president's
-    net worth
+- title: Trump Media builds 2 billion bitcoin hoard, as cryptocurrency swells president's net worth
   url: https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html
   outlet: CNBC
   date: '2025-07-21'

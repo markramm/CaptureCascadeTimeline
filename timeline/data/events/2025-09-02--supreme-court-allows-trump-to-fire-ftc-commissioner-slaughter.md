@@ -11,14 +11,14 @@ tags:
 sources:
 - url: https://www.theguardian.com/us-news/2025/sep/02/supreme-court-ftc-commissioner-removal
   title: Supreme Court allows Trump to fire FTC Commissioner
-  publisher: The Guardian
   date: '2025-09-02'
   tier: 1
+  outlet: The Guardian
 - url: https://apnews.com/article/supreme-court-ftc-rebecca-slaughter-trump-roberts-2025
   title: Chief Justice Roberts permits unprecedented agency independence violation
-  publisher: Associated Press
   date: '2025-09-02'
   tier: 1
+  outlet: Associated Press
 actors:
 - Chief Justice John Roberts
 - Donald Trump

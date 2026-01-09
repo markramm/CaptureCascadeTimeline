@@ -15,15 +15,15 @@ actors:
 tags:
 - immigration-enforcement
 - border-security
-- DHS
-- ICE
-- CBP
+- dhs
+- ice
+- cbp
 - deportations
 - drug-seizures
-- Coast Guard
+- coast guard
 - enforcement-statistics
-- Trump administration
-- Kristi Noem
+- trump administration
+- kristi noem
 capture_lanes:
 - Immigration Enforcement Escalation
 - Executive Power Expansion
@@ -31,19 +31,19 @@ capture_lanes:
 - Deportation Infrastructure
 - Drug War Policies
 sources:
-- title: "Under President Trump and Secretary Noem, the Department of Homeland Security Has Historic Year"
+- title: Under President Trump and Secretary Noem, the Department of Homeland Security Has Historic Year
   url: https://www.dhs.gov/news/2025/12/19/under-president-trump-and-secretary-noem-department-homeland-security-has-historic
   outlet: Department of Homeland Security
   date: '2025-12-19'
   archive_url: null
   tier: 1
-- title: "Border crossings once again at a record low in November 2025"
+- title: Border crossings once again at a record low in November 2025
   url: https://www.cbp.gov/newsroom/national-media-release/border-crossings-once-again-record-low-november-2025
   outlet: U.S. Customs and Border Protection
   date: '2025-12-04'
   archive_url: null
   tier: 1
-- title: "Border Crossings Once Again at a Record Low in November 2025"
+- title: Border Crossings Once Again at a Record Low in November 2025
   url: https://www.dhs.gov/news/2025/12/04/border-crossings-once-again-record-low-november-2025
   outlet: Department of Homeland Security
   date: '2025-12-04'

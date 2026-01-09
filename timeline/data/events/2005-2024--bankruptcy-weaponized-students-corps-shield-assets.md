@@ -1,38 +1,38 @@
 ---
 id: 2005-2024--bankruptcy-weaponized-students-corps-shield-assets
 date: 2005-04-20
-title: "Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)"
+title: 'Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)'
 importance: 9
 tags:
-  - bankruptcy-law
-  - student-debt
-  - corporate-fraud
-  - inequality
-  - kleptocracy
+- bankruptcy-law
+- student-debt
+- corporate-fraud
+- inequality
+- kleptocracy
 actors:
-  - Corinthian Colleges
-  - ITT Tech
-  - University of Phoenix
-  - Purdue Pharma
-  - Sackler Family
-  - Trump Organization
-  - Navient
+- Corinthian Colleges
+- ITT Tech
+- University of Phoenix
+- Purdue Pharma
+- Sackler Family
+- Trump Organization
+- Navient
 sources:
-  - url: https://www.congress.gov/bill/109th-congress/senate-bill/256
-    title: Bankruptcy Abuse Prevention and Consumer Protection Act of 2005
-    publisher: U.S. Congress
-    date: 2005-04-20
-    tier: 1
-  - url: https://www.gao.gov/products/gao-10-948t
-    title: For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices
-    publisher: U.S. Government Accountability Office
-    date: 2010-08-04
-    tier: 1
-  - url: https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden
-    title: Supreme Court strikes down student loan program
-    publisher: NPR
-    date: 2023-06-30
-    tier: 1
+- url: https://www.congress.gov/bill/109th-congress/senate-bill/256
+  title: Bankruptcy Abuse Prevention and Consumer Protection Act of 2005
+  date: 2005-04-20
+  tier: 1
+  outlet: U.S. Congress
+- url: https://www.gao.gov/products/gao-10-948t
+  title: For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices
+  date: 2010-08-04
+  tier: 1
+  outlet: U.S. Government Accountability Office
+- url: https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden
+  title: Supreme Court strikes down student loan program
+  date: 2023-06-30
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

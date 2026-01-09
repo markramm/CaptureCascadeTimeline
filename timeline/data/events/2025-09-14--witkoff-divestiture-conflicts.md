@@ -1,8 +1,7 @@
 ---
 id: 2025-09-14--witkoff-divestiture-conflicts
 date: '2025-09-14'
-title: Trump Envoy Steve Witkoff Divests $120M Real Estate Stake While Retaining $350M
-  in Assets Including Trump Crypto
+title: Trump Envoy Steve Witkoff Divests $120M Real Estate Stake While Retaining $350M in Assets Including Trump Crypto
 importance: 8
 actors:
 - Steve Witkoff
@@ -12,21 +11,19 @@ actors:
 sources:
 - url: https://therealdeal.com/national/2025/09/16/steve-witkoff-sells-stake-in-real-estate-firm-for-120m/
   title: Steve Witkoff sells stake in real estate firm for $120M
-  publisher: The Real Deal
   date: '2025-09-16'
   tier: 2
+  outlet: The Real Deal
 - url: https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/
-  title: Sen. Schiff Leads Senate Democrats in Demanding Answers from Trump Envoy
-    Steve Witkoff on Failure to Divest Ownership of World Liberty Financial Crypto
-    Assets
-  publisher: Senate Democrats
+  title: Sen. Schiff Leads Senate Democrats in Demanding Answers from Trump Envoy Steve Witkoff on Failure to Divest Ownership of World Liberty Financial Crypto Assets
   date: '2025-10-22'
   tier: 1
+  outlet: Senate Democrats
 - url: https://finance.yahoo.com/news/us-envoy-steve-witkoff-still-152659251.html
   title: US Envoy Steve Witkoff Still Holds Trump-Linked Crypto, Raising Ethics Concerns
-  publisher: Yahoo Finance
   date: '2025-10-22'
   tier: 2
+  outlet: Yahoo Finance
 tags:
 - conflicts-of-interest
 - self-dealing

@@ -12,39 +12,39 @@ id: 2025-12-04--doj-eliminates-prea-protections-transgender-inmates
 importance: 9
 sources:
 - date: '2025-12-04'
-  publisher: NPR
   tier: 1
-  title: 'Internal memo halts oversight of prison rape protections for trans inmates'
+  title: Internal memo halts oversight of prison rape protections for trans inmates
   url: https://www.npr.org/2025/12/04/nx-s1-5630490/prison-doj-safety-memo-changes-trans-lgbtq-inmates
+  outlet: NPR
 - date: '2025-12-04'
-  publisher: Prism Reports
   tier: 2
-  title: 'Trump administration plans to end prison rape protections for trans and intersex people'
+  title: Trump administration plans to end prison rape protections for trans and intersex people
   url: https://prismreports.org/2025/12/04/prison-rape-elimination-act-trans-intersex-trump-doj/
+  outlet: Prism Reports
 - date: '2025-12-04'
-  publisher: The 19th
   tier: 2
-  title: 'Trump administration plans to end prison rape protections for trans and intersex people, memo says'
+  title: Trump administration plans to end prison rape protections for trans and intersex people, memo says
   url: https://19thnews.org/2025/12/trump-administration-plans-to-end-prison-rape-protections-for-trans-and-intersex-people-memo-says/
+  outlet: The 19th
 - date: '2025-12-04'
-  publisher: Government Executive
   tier: 2
-  title: 'Trump administration plans to end prison rape protections for trans and intersex people, memo says'
+  title: Trump administration plans to end prison rape protections for trans and intersex people, memo says
   url: https://www.govexec.com/management/2025/12/trump-administration-plans-end-prison-rape-protections-trans-and-intersex-people-memo-says/410057/
+  outlet: Government Executive
 - date: '2025-01-20'
-  publisher: White House
   tier: 1
   title: 'Executive Order: Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government'
   url: https://www.whitehouse.gov/presidential-actions/2025/01/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal-government/
+  outlet: White House
 status: confirmed
 tags:
-- LGBTQ-rights
+- lgbtq-rights
 - prison-conditions
-- PREA
-- DOJ
+- prea
+- doj
 - transgender-rights
 - human-rights-violations
-- Bureau-of-Prisons
+- bureau-of-prisons
 - vulnerable-populations
 - sexual-violence
 - prison-reform

@@ -4,43 +4,43 @@ date: '2024-02-08'
 title: Michael Mann Wins Defamation Lawsuit After 12-Year Battle Against Climate Deniers
 importance: 8
 tags:
-  - climate-denial
-  - scientist-harassment
-  - defamation
-  - legal-accountability
-  - michael-mann
+- climate-denial
+- scientist-harassment
+- defamation
+- legal-accountability
+- michael-mann
 actors:
-  - Michael Mann
-  - Rand Simberg
-  - Mark Steyn
-  - Competitive Enterprise Institute
-  - National Review
+- Michael Mann
+- Rand Simberg
+- Mark Steyn
+- Competitive Enterprise Institute
+- National Review
 sources:
-  - url: https://www.scientificamerican.com/article/embattled-climate-scientist-michael-mann-wins-1-million-in-defamation-lawsuit/
-    title: Embattled Climate Scientist Michael Mann Wins $1 Million in Defamation Lawsuit
-    publisher: Scientific American
-    date: '2024-02-09'
-    tier: 1
-  - url: https://www.cnn.com/2024/02/09/media/michael-mann-national-review-climate-defamation/index.html
-    title: Climate scientist Michael Mann awarded more than $1 million in damages from conservative writers who defamed his work
-    publisher: CNN Business
-    date: '2024-02-09'
-    tier: 2
-  - url: https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay
-    title: Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay and Wins
-    publisher: Eos
-    date: '2024-02-08'
-    tier: 1
-  - url: https://web.sas.upenn.edu/pcssm/news/michael-mann-a-leading-climate-scientist-wins-his-defamation-suit/
-    title: Michael Mann, a Leading Climate Scientist, Wins His Defamation Suit
-    publisher: Penn Center for Science, Sustainability, and the Media
-    date: '2024-02-09'
-    tier: 1
+- url: https://www.scientificamerican.com/article/embattled-climate-scientist-michael-mann-wins-1-million-in-defamation-lawsuit/
+  title: Embattled Climate Scientist Michael Mann Wins $1 Million in Defamation Lawsuit
+  date: '2024-02-09'
+  tier: 1
+  outlet: Scientific American
+- url: https://www.cnn.com/2024/02/09/media/michael-mann-national-review-climate-defamation/index.html
+  title: Climate scientist Michael Mann awarded more than $1 million in damages from conservative writers who defamed his work
+  date: '2024-02-09'
+  tier: 2
+  outlet: CNN Business
+- url: https://eos.org/articles/climate-scientist-michael-mann-confronts-defamers-in-court-after-12-year-delay
+  title: Climate Scientist Michael Mann Confronts Defamers in Court After 12-Year Delay and Wins
+  date: '2024-02-08'
+  tier: 1
+  outlet: Eos
+- url: https://web.sas.upenn.edu/pcssm/news/michael-mann-a-leading-climate-scientist-wins-his-defamation-suit/
+  title: Michael Mann, a Leading Climate Scientist, Wins His Defamation Suit
+  date: '2024-02-09'
+  tier: 1
+  outlet: Penn Center for Science, Sustainability, and the Media
 status: confirmed
 capture_lanes:
-  - Legal Accountability
-  - Scientist Protection
-  - Climate Denial Consequences
+- Legal Accountability
+- Scientist Protection
+- Climate Denial Consequences
 ---
 
 On February 8, 2024, a jury unanimously decided in favor of climate scientist Michael Mann in his 12-year defamation battle against Rand Simberg and Mark Steyn, who had compared him to convicted child molester Jerry Sandusky in 2012 blog posts. The jury found Simberg and Steyn guilty of defamation and awarded Mann more than $1 million in damages, representing a landmark victory for scientists facing harassment from climate denial campaigns. The verdict came after years of legal delays and established potential consequences for the most extreme character assassination tactics targeting climate researchers.

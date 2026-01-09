@@ -20,19 +20,19 @@ actors:
 sources:
 - url: https://www.federalreserve.gov/regreform/reform-bearstearns.htm
   title: Bear Stearns, JPMorgan Chase, and Maiden Lane LLC
-  publisher: Federal Reserve
   date: '2008-03-16'
   tier: 1
+  outlet: Federal Reserve
 - url: https://www.federalreservehistory.org/essays/support-for-specific-institutions
   title: Support for Specific Institutions
-  publisher: Federal Reserve History
   date: '2008'
   tier: 1
+  outlet: Federal Reserve History
 - url: https://www.ineteconomics.org/perspectives/blog/rewarding-bad-behavior-the-bear-stearns-bailout
   title: Rewarding Bad Behavior - The Bear Stearns Bailout
-  publisher: Institute for New Economic Thinking
   date: '2008'
   tier: 2
+  outlet: Institute for New Economic Thinking
 status: confirmed
 ---
 

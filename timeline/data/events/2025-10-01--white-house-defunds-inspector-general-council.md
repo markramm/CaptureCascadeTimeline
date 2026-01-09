@@ -10,17 +10,16 @@ actors:
 - Susan Collins
 - Chuck Grassley
 sources:
-- title: Trump administration knocks out at least 15 oversight websites, saying IGs
-    'lied to the public'
+- title: Trump administration knocks out at least 15 oversight websites, saying IGs 'lied to the public'
   url: https://www.govexec.com/oversight/2025/10/government-watchdog-websites-go-dark-omb-withholds-funds-ig-committee/408543/
-  publisher: Government Executive
   date: '2025-10-01'
   tier: 1
+  outlet: Government Executive
 - title: Federal websites, IG hotlines start to go dark under shutdown
   url: https://federalnewsnetwork.com/government-shutdown/2025/10/federal-websites-ig-hotlines-start-to-go-dark-under-shutdown/
-  publisher: Federal News Network
   date: '2025-10-01'
   tier: 2
+  outlet: Federal News Network
 tags:
 - institutional-capture
 - systematic-corruption

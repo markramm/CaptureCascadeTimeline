@@ -4,39 +4,39 @@ date: 2018-07-19
 title: Senate Votes 98-0 to Reject Putin's Request to Interrogate U.S. Officials in Bipartisan Rebuke of Trump
 importance: 8
 tags:
-  - russia
-  - trump
-  - helsinki
-  - senate
-  - putin
-  - bipartisan
+- russia
+- trump
+- helsinki
+- senate
+- putin
+- bipartisan
 actors:
-  - Vladimir Putin
-  - Donald Trump
-  - Chuck Schumer
-  - Michael McFaul
-  - Bill Browder
+- Vladimir Putin
+- Donald Trump
+- Chuck Schumer
+- Michael McFaul
+- Bill Browder
 sources:
-  - url: https://edition.cnn.com/politics/live-news/trump-today-07-19-18/h_3761f1662b0836600ef8a508fa63f563
-    title: "Senate votes 98-0 to reject Putin's proposal to interrogate US officials despite Trump reversal"
-    publisher: CNN
-    date: 2018-07-19
-    tier: 2
-  - url: https://www.reed.senate.gov/news/releases/us-senate-votes-98-0-to-tell-trump-not-to-hand-over-american-citizens-to-putin
-    title: "U.S. Senate Votes 98-0 to Tell Trump Not to Hand Over American Citizens to Putin"
-    publisher: Senator Jack Reed
-    date: 2018-07-19
-    tier: 1
-  - url: https://www.denver7.com/news/politics/in-98-0-vote-senate-rebukes-trump-s-consideration-of-allowing-russia-to-question-ambassadors
-    title: "In 98-0 vote, Senate rebukes Trump's consideration of allowing Russia to question ambassadors"
-    publisher: Denver7
-    date: 2018-07-19
-    tier: 2
-  - url: https://www.congress.gov/115/crec/2018/07/26/modified/CREC-2018-07-26-pt1-PgS5427.htm
-    title: "Congressional Record - Senate Resolution 594"
-    publisher: U.S. Congress
-    date: 2018-07-26
-    tier: 1
+- url: https://edition.cnn.com/politics/live-news/trump-today-07-19-18/h_3761f1662b0836600ef8a508fa63f563
+  title: Senate votes 98-0 to reject Putin's proposal to interrogate US officials despite Trump reversal
+  date: 2018-07-19
+  tier: 2
+  outlet: CNN
+- url: https://www.reed.senate.gov/news/releases/us-senate-votes-98-0-to-tell-trump-not-to-hand-over-american-citizens-to-putin
+  title: U.S. Senate Votes 98-0 to Tell Trump Not to Hand Over American Citizens to Putin
+  date: 2018-07-19
+  tier: 1
+  outlet: Senator Jack Reed
+- url: https://www.denver7.com/news/politics/in-98-0-vote-senate-rebukes-trump-s-consideration-of-allowing-russia-to-question-ambassadors
+  title: In 98-0 vote, Senate rebukes Trump's consideration of allowing Russia to question ambassadors
+  date: 2018-07-19
+  tier: 2
+  outlet: Denver7
+- url: https://www.congress.gov/115/crec/2018/07/26/modified/CREC-2018-07-26-pt1-PgS5427.htm
+  title: Congressional Record - Senate Resolution 594
+  date: 2018-07-26
+  tier: 1
+  outlet: U.S. Congress
 ---
 
 In a rare moment of unanimous Senate action, lawmakers voted 98-0 to approve a resolution rejecting Vladimir Putin's proposal to interrogate U.S. officials—a direct and powerful rebuke of President Trump's consideration of the Russian offer during the Helsinki summit. The vote demonstrated extraordinary bipartisan unity against Trump's approach to Russia just days after his controversial press conference with Putin.

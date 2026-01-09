@@ -20,25 +20,25 @@ tags:
 status: confirmed
 sources:
 - url: https://oig.hhs.gov/newsroom/news-releases/2019/uac.asp
-  title: "HHS OIG: Many Children Separated from Parents, Guardians Before Ms. L. v. Ice Court Order and Some Separations Continue"
-  publisher: U.S. Department of Health and Human Services Office of Inspector General
+  title: 'HHS OIG: Many Children Separated from Parents, Guardians Before Ms. L. v. Ice Court Order and Some Separations Continue'
   date: '2019-01-17'
   tier: 1
+  outlet: U.S. Department of Health and Human Services Office of Inspector General
 - url: https://www.nbcnews.com/politics/immigration/thousands-more-migrant-kids-separated-parents-under-trump-previously-reported-n959791
   title: Thousands more migrant kids separated from parents under Trump than previously reported
-  publisher: NBC News
   date: '2019-01-17'
   tier: 1
+  outlet: NBC News
 - url: https://edition.cnn.com/2019/01/17/politics/inspector-general-unaccompanied-children-immigration/index.html
-  title: "'Thousands' more children were separated than government admitted, and it doesn't know how many, watchdog report says"
-  publisher: CNN
+  title: '''Thousands'' more children were separated than government admitted, and it doesn''t know how many, watchdog report says'
   date: '2019-01-17'
   tier: 2
+  outlet: CNN
 - url: https://oig.hhs.gov/reports/all/2019/separated-children-placed-in-office-of-refugee-resettlement-care/
   title: Separated Children Placed in Office of Refugee Resettlement Care
-  publisher: U.S. Department of Health and Human Services Office of Inspector General
   date: '2019-01-17'
   tier: 1
+  outlet: U.S. Department of Health and Human Services Office of Inspector General
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

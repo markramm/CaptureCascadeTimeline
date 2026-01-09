@@ -17,20 +17,19 @@ tags:
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/09/saving-tiktok-while-protecting-national-security/
   title: 'Executive Order 14352: Saving TikTok While Protecting National Security'
-  publisher: The White House
   date: '2025-09-25'
   tier: 1
+  outlet: The White House
 - url: https://www.npr.org/2025/09/25/nx-s1-5553517/tiktok-deal-trump-executive-order
   title: Trump advances TikTok deal with new executive order
-  publisher: NPR
   date: '2025-09-25'
   tier: 1
+  outlet: NPR
 - url: https://www.cnbc.com/2025/09/25/trump-approves-tiktok-deal-through-executive-order.html
-  title: Trump approves TikTok deal through executive order, Vance says business valued
-    at $14 billion
-  publisher: CNBC
+  title: Trump approves TikTok deal through executive order, Vance says business valued at $14 billion
   date: '2025-09-25'
   tier: 2
+  outlet: CNBC
 ---
 
 President Trump signed Executive Order 14352 titled 'Saving TikTok While Protecting National Security' on September 25, 2025, approving a deal that allows TikTok to continue operating in the United States under majority U.S. ownership. The order extended the enforcement deadline by 120 days to January 23, 2026, to allow completion of a transaction that values the U.S. operation at approximately $14 billion. Under the deal, ByteDance will own less than 20% of the new entity, with Oracle serving as TikTok's security provider.

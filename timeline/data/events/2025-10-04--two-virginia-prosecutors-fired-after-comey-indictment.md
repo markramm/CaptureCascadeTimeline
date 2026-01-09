@@ -10,12 +10,11 @@ actors:
 - Eastern District of Virginia
 - Career Prosecutors
 sources:
-- title: 'More turmoil at Virginia US attorney''s office following Comey indictment:
-    2 top prosecutors fired'
+- title: 'More turmoil at Virginia US attorney''s office following Comey indictment: 2 top prosecutors fired'
   url: https://abcnews.go.com/Politics/virginia-us-attorneys-office-turmoil-comey-indictment-prosecutors/story?id=125368942
-  publisher: ABC News
   date: '2025-10-04'
   tier: 1
+  outlet: ABC News
 tags:
 - institutional-capture
 - doj-weaponization

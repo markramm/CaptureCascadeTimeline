@@ -22,22 +22,17 @@ tags:
 sources:
 - title: Senate confirms David Bernhardt, a former oil lobbyist, as Interior secretary
   url: https://www.washingtonpost.com/climate-environment/2019/04/11/senate-set-confirm-david-bernhardt-former-oil-lobbyist-interior-secretary/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-04-11'
 - title: David Bernhardt Is Confirmed as Interior Secretary
   url: https://www.nytimes.com/2019/04/11/climate/david-bernhardt-interior-secretary.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-04-11'
 - title: David Bernhardt Is President Trump's Most Conflicted Cabinet Nominee
   url: https://www.americanprogress.org/article/david-bernhardt-president-trumps-conflicted-cabinet-nominee/
   outlet: Center for American Progress
   date: '2019-03-27'
-notes: "Bernhardt's confirmation represented peak regulatory capture - the Senate\
-  \ knowingly \nconfirmed someone whose conflicts were so numerous he needed a reference\
-  \ card. He \nimmediately began implementing policies benefiting his former clients,\
-  \ including \nweakening the Endangered Species Act and opening millions of acres\
-  \ for drilling. \nHis tenure demonstrated how the Trump administration transformed\
-  \ government agencies \ninto tools for the industries they were meant to regulate.\n"
+notes: "Bernhardt's confirmation represented peak regulatory capture - the Senate knowingly \nconfirmed someone whose conflicts were so numerous he needed a reference card. He \nimmediately began implementing policies benefiting his former clients, including \nweakening the Endangered Species Act and opening millions of acres for drilling. \nHis tenure demonstrated how the Trump administration transformed government agencies \ninto tools for the industries they were meant to regulate.\n"
 related_events:
 - 2018-12-15--ryan-zinke-resigns-corruption
 - 2017-02-07--andrew-wheeler-coal-lobbyist-epa

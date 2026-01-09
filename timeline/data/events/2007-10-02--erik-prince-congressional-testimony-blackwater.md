@@ -17,19 +17,19 @@ actors:
 sources:
 - url: https://www.govinfo.gov/content/pkg/CHRG-110hhrg45219/html/CHRG-110hhrg45219.htm
   title: Hearing on Blackwater USA
-  publisher: U.S. Government Publishing Office
   date: '2007-10-02'
   tier: 1
+  outlet: U.S. Government Publishing Office
 - url: https://www.npr.org/2007/10/03/14943144/blackwater-ceo-defends-workers-in-iraq
   title: Blackwater CEO Defends Workers in Iraq
-  publisher: NPR
   date: '2007-10-03'
   tier: 1
+  outlet: NPR
 - url: https://time.com/archive/6914957/former-blackwater-ceo-erik-prince/
   title: Former Blackwater CEO Erik Prince
-  publisher: TIME
   date: '2007-10-08'
   tier: 2
+  outlet: TIME
 status: confirmed
 ---
 

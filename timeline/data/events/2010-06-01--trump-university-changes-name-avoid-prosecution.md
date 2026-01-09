@@ -4,31 +4,31 @@ date: 2010-06-01
 title: Trump University Changes Name to "Trump Entrepreneur Initiative" Under Pressure from NY Education Department
 importance: 8
 tags:
-  - Trump University
-  - Fraud
-  - Education Fraud
-  - New York
-  - Regulatory Evasion
+- trump university
+- fraud
+- education fraud
+- new york
+- regulatory evasion
 actors:
-  - Donald Trump
-  - Michael Sexton
-  - Joseph Frey
+- Donald Trump
+- Michael Sexton
+- Joseph Frey
 sources:
-  - url: https://money.cnn.com/2011/05/20/news/companies/trump_university/index.htm
-    title: Trump University targeted by NY regulators
-    publisher: CNN Money
-    date: 2011-05-20
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Trump_University
-    title: Trump University
-    publisher: Wikipedia
-    date: 2016-11-18
-    tier: 2
-  - url: https://www.researchcghe.org/blogs/2016-11-22-what-was-trump-university-and-why-is-it-still-important/
-    title: What was Trump University, and why is it still important?
-    publisher: Centre for Global Higher Education
-    date: 2016-11-22
-    tier: 2
+- url: https://money.cnn.com/2011/05/20/news/companies/trump_university/index.htm
+  title: Trump University targeted by NY regulators
+  date: 2011-05-20
+  tier: 1
+  outlet: CNN Money
+- url: https://en.wikipedia.org/wiki/Trump_University
+  title: Trump University
+  date: 2016-11-18
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.researchcghe.org/blogs/2016-11-22-what-was-trump-university-and-why-is-it-still-important/
+  title: What was Trump University, and why is it still important?
+  date: 2016-11-22
+  tier: 2
+  outlet: Centre for Global Higher Education
 ---
 
 In June 2010, Trump University changed its name to "The Trump Entrepreneur Initiative" following sustained pressure from the New York State Education Department, which had repeatedly warned since 2005 that the organization was illegally using the term "university" without proper authorization. A March 2010 letter from Deputy Commissioner for Higher Education Joseph Frey explicitly stated that "Use of the word 'university' by your corporation is misleading and violates New York Education Law and the Rules of the Board of Regents." The name change represented an attempt to avoid prosecution for operating an unlicensed educational institution rather than any substantive reform of the enterprise's fraudulent business practices. Despite the cosmetic rebranding, the organization continued the same high-pressure sales tactics and deceptive marketing practices under its new name.

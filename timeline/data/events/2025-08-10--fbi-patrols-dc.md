@@ -12,16 +12,12 @@ actors:
 - Donald Trump
 - FBI
 - DC Metropolitan Police
-notes: FBI agents typically work at desks, lack training for community policing. Trump
-  admin didn't consult DC police leadership on optimal deployment. Trump compared
-  DC crime action to border crackdown. Week-long minimum deployment. Secret Service
-  Uniformed Division also launched special patrols. Unprecedented use of FBI for street-level
-  law enforcement.
+notes: FBI agents typically work at desks, lack training for community policing. Trump admin didn't consult DC police leadership on optimal deployment. Trump compared DC crime action to border crackdown. Week-long minimum deployment. Secret Service Uniformed Division also launched special patrols. Unprecedented use of FBI for street-level law enforcement.
 status: confirmed
 sources:
 - title: FBI dispatches agents to D.C. streets as Trump weighs calling National Guard
   url: https://www.washingtonpost.com/dc-md-va/2025/08/10/dc-crime-trump-crackdown/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-08-10'
 - title: Trump zeroes in on federal takeover of DC as FBI patrols streets
   url: https://www.cnn.com/2025/08/11/politics/trump-washington-dc-crime
@@ -31,8 +27,7 @@ sources:
   url: https://www.newsweek.com/trump-sends-120-fbi-agents-dc-crime-crackdown-threat-report-2111498
   outlet: Newsweek
   date: '2025-08-10'
-- title: FBI moves to dispatch 120 agents to D.C. streets as Trump vows crackdown
-    on crime
+- title: FBI moves to dispatch 120 agents to D.C. streets as Trump vows crackdown on crime
   url: https://www.startribune.com/fbi-moves-to-dispatch-120-agents-to-dc-streets-as-trump-vows-crackdown-on-crime/601452857
   outlet: Star Tribune
   date: '2025-08-10'

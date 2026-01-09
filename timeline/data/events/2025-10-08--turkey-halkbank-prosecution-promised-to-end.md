@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Turkey's Erdogan Says Halkbank U.S. Case to End After Trump Talks
   url: https://www.bloomberg.com/news/articles/2025-10-08/turkey-erdogan-says-halkbank-us-case-to-end-after-trump-talks
-  publisher: Bloomberg
   date: '2025-10-08'
   tier: 1
+  outlet: Bloomberg
 tags:
 - doj-weaponization
 - foreign-influence

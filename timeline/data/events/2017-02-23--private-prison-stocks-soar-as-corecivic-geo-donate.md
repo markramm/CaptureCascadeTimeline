@@ -24,7 +24,7 @@ sources:
   date: '2017-02-23'
 - title: Private prisons back Trump and could see big payoffs
   url: https://www.washingtonpost.com/politics/private-prisons-back-trump-and-could-see-big-payoffs-with-his-immigration-crackdown/2017/02/23/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2017-02-23'
 - title: GEO Group Runs Out of Cell Space
   url: https://www.motherjones.com/politics/2017/08/geo-group-private-prison-immigration-detention-trump/

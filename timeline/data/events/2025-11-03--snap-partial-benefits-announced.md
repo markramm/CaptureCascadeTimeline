@@ -12,14 +12,14 @@ tags:
 sources:
 - title: Trump administration will fund SNAP food benefits at 50% the normal payment
   url: https://www.npr.org/2025/11/03/nx-s1-5596121/snap-food-benefits-trump-government-shutdown
-  publisher: NPR
   date: '2025-11-03'
   tier: 1
+  outlet: NPR
 - title: 'Trump Tyranny Tracker: Day 288'
   url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-288
-  publisher: Trump Tyranny Tracker
   date: '2025-11-03'
   tier: 2
+  outlet: Trump Tyranny Tracker
 actors:
 - Trump
 - USDA

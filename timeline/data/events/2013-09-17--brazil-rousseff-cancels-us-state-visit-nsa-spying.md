@@ -19,24 +19,24 @@ actors:
 sources:
 - title: Brazilian president cancels White House visit over NSA spying
   url: https://www.wsws.org/en/articles/2013/09/19/brazil-s19.html
-  publisher: World Socialist Web Site
   date: '2013-09-19'
   tier: 2
+  outlet: World Socialist Web Site
 - title: Brazilian Leader Postpones State Visit Over Spying Concerns
   url: https://www.npr.org/sections/thetwo-way/2013/09/17/223414386/brazilian-president-postpones-state-visit-over-spying-concerns
-  publisher: NPR
   date: '2013-09-17'
   tier: 1
+  outlet: NPR
 - title: Brazil Spurns U.S. State Visit Invitation Over NSA Spying
   url: https://world.time.com/2013/09/17/brazil-spurns-u-s-state-visit-invitation-over-nsa-spying/
-  publisher: TIME
   date: '2013-09-17'
   tier: 2
+  outlet: TIME
 - title: NSA spying scandal spoils dinner at the White House for Brazil's president
   url: https://www.washingtonpost.com/world/national-security/nsas-bulk-collection-of-americans-phone-records-ends-sunday/2015/11/27/75dc62e2-9546-11e5-a2d6-f57908580b1f_story.html
-  publisher: Washington Post
   date: '2013-09-17'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

@@ -4,35 +4,35 @@ date: 2019-12-13
 title: Conservative Lawsuit Forces Wisconsin to Purge 200,000 Voters Before 2020 Election
 importance: 8
 tags:
-  - voter-suppression
-  - wisconsin
-  - voter-purge
-  - republican-party
-  - 2020-election
+- voter-suppression
+- wisconsin
+- voter-purge
+- republican-party
+- 2020-election
 actors:
-  - Wisconsin Institute for Law and Liberty
-  - Wisconsin Elections Commission
+- Wisconsin Institute for Law and Liberty
+- Wisconsin Elections Commission
 sources:
-  - url: https://www.pbs.org/newshour/politics/conservatives-seek-to-purge-200000-from-voter-rolls-in-wisconsin
-    title: Conservatives seek to purge 200,000 from voter rolls in Wisconsin
-    publisher: PBS NewsHour
-    date: 2019-12-13
-    tier: 1
-  - url: https://www.nbcnews.com/politics/2020-election/conservatives-seek-immediate-purge-over-200-000-voters-wisconsin-n1109636
-    title: Conservatives seek immediate purge of over 200,000 voters in Wisconsin
-    publisher: NBC News
-    date: 2019-12-13
-    tier: 1
-  - url: https://americanoversight.org/investigation/wisconsins-voter-roll-purge
-    title: Wisconsin's Voter-Roll Purge
-    publisher: American Oversight
-    date: 2019-12-16
-    tier: 2
-  - url: https://slate.com/news-and-politics/2019/12/wisconsin-voter-purge-judge-order.html
-    title: How a Conservative Group Persuaded a Judge to Purge Wisconsin's Voter Rolls
-    publisher: Slate
-    date: 2019-12-16
-    tier: 2
+- url: https://www.pbs.org/newshour/politics/conservatives-seek-to-purge-200000-from-voter-rolls-in-wisconsin
+  title: Conservatives seek to purge 200,000 from voter rolls in Wisconsin
+  date: 2019-12-13
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.nbcnews.com/politics/2020-election/conservatives-seek-immediate-purge-over-200-000-voters-wisconsin-n1109636
+  title: Conservatives seek immediate purge of over 200,000 voters in Wisconsin
+  date: 2019-12-13
+  tier: 1
+  outlet: NBC News
+- url: https://americanoversight.org/investigation/wisconsins-voter-roll-purge
+  title: Wisconsin's Voter-Roll Purge
+  date: 2019-12-16
+  tier: 2
+  outlet: American Oversight
+- url: https://slate.com/news-and-politics/2019/12/wisconsin-voter-purge-judge-order.html
+  title: How a Conservative Group Persuaded a Judge to Purge Wisconsin's Voter Rolls
+  date: 2019-12-16
+  tier: 2
+  outlet: Slate
 ---
 
 A Wisconsin judge orders the state Elections Commission to immediately remove over 200,000 voters from registration rolls following a lawsuit by the conservative Wisconsin Institute for Law and Liberty (WILL). The purge targets voters flagged as potential "movers" based on data suggesting they may have changed addresses, with the timing designed to impact the 2020 presidential election in this crucial swing state that Donald Trump won by just 23,000 votes in 2016.

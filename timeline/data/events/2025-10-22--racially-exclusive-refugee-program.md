@@ -16,9 +16,9 @@ actors:
 sources:
 - url: https://www.washingtonpost.com/immigration/2025/10/22/trump-refugee-admissions-afrikaners/
   title: Trump Prioritizes White South Africans in Refugee Admissions
-  publisher: Washington Post
   date: '2025-10-22'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

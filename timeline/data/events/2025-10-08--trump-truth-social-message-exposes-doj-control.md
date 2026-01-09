@@ -10,9 +10,9 @@ actors:
 sources:
 - title: Inside the Justice Department Where the President Calls the Shots
   url: https://www.wsj.com/politics/policy/trump-justice-department-attorney-general-bondi-84a2e8d4
-  publisher: Wall Street Journal
   date: '2025-10-08'
   tier: 1
+  outlet: The Wall Street Journal
 tags:
 - doj-weaponization
 - institutional-capture

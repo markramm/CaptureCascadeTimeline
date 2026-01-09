@@ -4,36 +4,36 @@ date: 2018-07-13
 title: Mueller Indicts 12 GRU Officers for Hacking DNC and Democratic Campaign Infrastructure
 importance: 10
 tags:
-  - Mueller Investigation
-  - Russia Interference
-  - Cyber Warfare
-  - DNC Hack
-  - GRU
-  - Foreign Interference
-  - Election 2016
-  - WikiLeaks
+- mueller investigation
+- russia interference
+- cyber warfare
+- dnc hack
+- gru
+- foreign interference
+- election 2016
+- wikileaks
 actors:
-  - Robert Mueller
-  - GRU
-  - Russian Military Intelligence
-  - Democratic National Committee
-  - WikiLeaks
+- Robert Mueller
+- GRU
+- Russian Military Intelligence
+- Democratic National Committee
+- WikiLeaks
 sources:
-  - url: https://www.justice.gov/opa/pr/grand-jury-indicts-twelve-russian-intelligence-officers-hacking-offenses-related-2016
-    title: Grand Jury Indicts Twelve Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election
-    publisher: Department of Justice
-    date: 2018-07-13
-    tier: 1
-  - url: https://www.justice.gov/file/1080281/download
-    title: United States v. Viktor Borisovich Netyksho et al. - Indictment
-    publisher: U.S. District Court for the District of Columbia
-    date: 2018-07-13
-    tier: 1
-  - url: https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf
-    title: Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, Volume 2
-    publisher: Senate Select Committee on Intelligence
-    date: 2019-10-08
-    tier: 1
+- url: https://www.justice.gov/opa/pr/grand-jury-indicts-twelve-russian-intelligence-officers-hacking-offenses-related-2016
+  title: Grand Jury Indicts Twelve Russian Intelligence Officers for Hacking Offenses Related to the 2016 Election
+  date: 2018-07-13
+  tier: 1
+  outlet: Department of Justice
+- url: https://www.justice.gov/file/1080281/download
+  title: United States v. Viktor Borisovich Netyksho et al. - Indictment
+  date: 2018-07-13
+  tier: 1
+  outlet: U.S. District Court for the District of Columbia
+- url: https://www.intelligence.senate.gov/sites/default/files/documents/Report_Volume2.pdf
+  title: Russian Active Measures Campaigns and Interference in the 2016 U.S. Election, Volume 2
+  date: 2019-10-08
+  tier: 1
+  outlet: Senate Select Committee on Intelligence
 ---
 
 Special Counsel Robert Mueller indicted twelve officers of the Russian Federation's Main Intelligence Directorate (GRU) for hacking the Democratic National Committee, the Democratic Congressional Campaign Committee, and the Clinton presidential campaign during the 2016 election. The 29-page indictment provided extraordinary technical detail about the most consequential cyberattack in American political history, revealing how Russian military intelligence weaponized stolen information to influence a U.S. presidential election.

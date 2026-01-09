@@ -1,9 +1,12 @@
 ---
 id: 2006-01-01--palantir-first-contract-jieddo-iraq-afghanistan
 date: '2006-01-01'
-title: Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq
-  and Afghanistan
+title: Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
 importance: 8
+actors:
+- Palantir Technologies
+- Joint IED Defeat Organization
+- Department of Defense
 tags:
 - palantir
 - defense-contracts
@@ -11,19 +14,15 @@ tags:
 - iraq-war
 - afghanistan-war
 - military-privatization
-actors:
-- Palantir Technologies
-- Joint IED Defeat Organization
-- Department of Defense
 sources:
-- url: https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/
-  title: Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients
-  publisher: TechCrunch
+- title: Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients
+  url: https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/
+  outlet: TechCrunch
   date: '2015-01-11'
   tier: 2
-- url: https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/
-  title: Palantir — A Federal Market Lesson For VCs
-  publisher: Crunchbase
+- title: Palantir — A Federal Market Lesson For VCs
+  url: https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/
+  outlet: Crunchbase
   date: '2024-01-01'
   tier: 3
 ---

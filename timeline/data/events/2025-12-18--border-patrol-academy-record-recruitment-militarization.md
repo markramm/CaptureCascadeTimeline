@@ -10,8 +10,8 @@ actors:
 - Donald Trump
 - Department of Homeland Security (DHS)
 tags:
-- Border Patrol
-- CBP
+- border patrol
+- cbp
 - recruitment
 - training
 - militarization
@@ -19,7 +19,7 @@ tags:
 - enforcement-expansion
 - use-of-force
 - vehicle-pursuits
-- Trump administration
+- trump administration
 capture_lanes:
 - Border Enforcement Militarization
 - Immigration Enforcement Expansion
@@ -27,19 +27,19 @@ capture_lanes:
 - Law Enforcement Training
 - Border Security Infrastructure
 sources:
-- title: "Border Patrol trains record number of recruits, with new lessons on car chases and shooting"
+- title: Border Patrol trains record number of recruits, with new lessons on car chases and shooting
   url: https://www.cnn.com/2025/12/18/us/border-patrol-academy
   outlet: CNN
   date: '2025-12-18'
   archive_url: null
   tier: 2
-- title: "Border crossings once again at a record low in November 2025"
+- title: Border crossings once again at a record low in November 2025
   url: https://www.cbp.gov/newsroom/national-media-release/border-crossings-once-again-record-low-november-2025
   outlet: U.S. Customs and Border Protection
   date: '2025-12-04'
   archive_url: null
   tier: 1
-- title: "DHS opens up new $60K bonuses for Border Patrol agents, other officers"
+- title: DHS opens up new $60K bonuses for Border Patrol agents, other officers
   url: https://www.govexec.com/pay-benefits/2025/12/dhs-opens-new-60k-bonuses-border-patrol-agents-other-officers/410271/
   outlet: Government Executive
   date: '2025-12-01'

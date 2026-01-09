@@ -29,19 +29,19 @@ actors:
 sources:
 - title: Cutting edge for Fayette 911 will aid in locating victims
   url: https://thecitizen.com/2018/03/29/cutting-edge-fayette-911-will-aid-locating-victims/
-  publisher: The Citizen
   date: '2018-03-29'
   tier: 2
+  outlet: The Citizen
 - title: Carbyne Makes History, Announces Early Adopters of Next-Gen 911 Plugin
   url: https://www.prnewswire.com/news-releases/carbyne-makes-history-announces-early-adopters-of-next-gen-911-plugin-fayette-county-ga-and-ocean-county-nj-822828443.html
-  publisher: PR Newswire
   date: '2018-03-29'
   tier: 2
+  outlet: PR Newswire
 - title: The CIA, Mossad and "Epstein Network" are Exploiting Mass Shootings
   url: https://www.mintpressnews.com/cia-israel-mossad-jeffrey-epstein-orwellian-nightmare/261692/
-  publisher: MintPress News
   date: '2019-09-01'
   tier: 3
+  outlet: MintPress News
 status: confirmed
 ---
 

@@ -9,12 +9,12 @@ actors:
 - American Legislative Exchange Council (ALEC)
 - Supreme Court
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
 - voting-rights
-- Shelby-County
-- VRA
+- shelby-county
+- vra
 - state-capture
 status: confirmed
 sources:

@@ -4,42 +4,42 @@ date: '2018-08-02'
 title: SEC Drops ExxonMobil Climate Investigation Under Trump Administration
 importance: 8
 tags:
-  - climate-denial
-  - exxonknew
-  - regulatory-capture
-  - accountability-failure
-  - trump-administration
+- climate-denial
+- exxonknew
+- regulatory-capture
+- accountability-failure
+- trump-administration
 actors:
-  - Securities and Exchange Commission
-  - ExxonMobil
-  - Donald Trump
-  - Rex Tillerson
+- Securities and Exchange Commission
+- ExxonMobil
+- Donald Trump
+- Rex Tillerson
 sources:
-  - url: https://www.cbsnews.com/news/sec-drops-investigation-into-exxon-climate-change-response/
-    title: SEC drops investigation into Exxon climate change response
-    publisher: CBS News
-    date: '2018-08-03'
-    tier: 2
-  - url: https://www.spokesman.com/stories/2018/aug/03/sec-drops-investigation-into-exxon-climate-change-/
-    title: SEC drops investigation into Exxon climate change response
-    publisher: The Spokesman-Review
-    date: '2018-08-03'
-    tier: 2
-  - url: https://www.scmp.com/news/world/united-states-canada/article/2158261/us-government-drops-investigation-exxons-climate
-    title: US government drops investigation into Exxon's climate change response
-    publisher: South China Morning Post
-    date: '2018-08-03'
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy
-    title: ExxonMobil climate change denial
-    publisher: Wikipedia
-    date: '2024-01-01'
-    tier: 2
+- url: https://www.cbsnews.com/news/sec-drops-investigation-into-exxon-climate-change-response/
+  title: SEC drops investigation into Exxon climate change response
+  date: '2018-08-03'
+  tier: 2
+  outlet: CBS News
+- url: https://www.spokesman.com/stories/2018/aug/03/sec-drops-investigation-into-exxon-climate-change-/
+  title: SEC drops investigation into Exxon climate change response
+  date: '2018-08-03'
+  tier: 2
+  outlet: The Spokesman-Review
+- url: https://www.scmp.com/news/world/united-states-canada/article/2158261/us-government-drops-investigation-exxons-climate
+  title: US government drops investigation into Exxon's climate change response
+  date: '2018-08-03'
+  tier: 2
+  outlet: South China Morning Post
+- url: https://en.wikipedia.org/wiki/ExxonMobil_climate_change_controversy
+  title: ExxonMobil climate change denial
+  date: '2024-01-01'
+  tier: 2
+  outlet: Wikipedia
 status: confirmed
 capture_lanes:
-  - Regulatory Capture
-  - Executive Power Abuse
-  - Corporate Accountability Failure
+- Regulatory Capture
+- Executive Power Abuse
+- Corporate Accountability Failure
 ---
 
 On August 2, 2018, the Trump administration's Securities and Exchange Commission (SEC) dropped its two-year investigation into how ExxonMobil factors climate change regulations into its calculations of asset values. The SEC informed the energy giant in a letter dated Thursday that it would "not recommend an enforcement action against the company at this time." The decision came during the Trump presidency, when former ExxonMobil CEO Rex Tillerson had served as Secretary of State, and represented a major accountability failure for corporate climate fraud.

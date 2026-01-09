@@ -3,6 +3,11 @@ id: 2009-01-01--lapd-jric-fusion-center-adopts-palantir
 date: '2009-01-01'
 title: LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance
 importance: 8
+actors:
+- Joint Regional Intelligence Center
+- Los Angeles Police Department
+- Palantir Technologies
+- Department of Homeland Security
 tags:
 - palantir
 - lapd
@@ -10,20 +15,15 @@ tags:
 - domestic-surveillance
 - jric
 - police-surveillance
-actors:
-- Joint Regional Intelligence Center
-- Los Angeles Police Department
-- Palantir Technologies
-- Department of Homeland Security
 sources:
-- url: https://logicmag.io/commons/enter-the-dragnet/
-  title: Enter the Dragnet
-  publisher: Logic Magazine
+- title: Enter the Dragnet
+  url: https://logicmag.io/commons/enter-the-dragnet/
+  outlet: Logic Magazine
   date: '2021-01-01'
   tier: 2
-- url: https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/
-  title: How the LAPD and Palantir Use Data to Justify Racist Policing
-  publisher: The Intercept
+- title: How the LAPD and Palantir Use Data to Justify Racist Policing
+  url: https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/
+  outlet: The Intercept
   date: '2021-01-30'
   tier: 1
 ---

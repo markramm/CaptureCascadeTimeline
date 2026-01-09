@@ -21,19 +21,19 @@ actors:
 sources:
 - url: https://fortune.com/2025/10/22/government-shutdown-ice-agents-super-checks-federal-employees-furlough/
   title: As government shutdown persists, ICE agents are among the still-paid employees receiving 'super checks' including lost pay and overtime
-  publisher: Fortune
   date: '2025-10-22'
   tier: 2
+  outlet: Fortune
 - url: https://federalnewsnetwork.com/government-shutdown/2025/10/dhs-to-keep-paying-70000-law-enforcement-officials-amid-shutdown-using-reconciliation-law/
   title: DHS keeps paying 70,000 law enforcement officials amid shutdown using reconciliation funds
-  publisher: Federal News Network
   date: '2025-10-22'
   tier: 2
+  outlet: Federal News Network
 - url: https://www.npr.org/2025/10/22/g-s1-94389/government-shutdown
   title: The federal government is still shut down. Here's what that means across the country
-  publisher: NPR
   date: '2025-10-22'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-08--fcc-chairman-brendan-carr-weaponizes-broadcast-licenses-against-media
 date: '2025-09-08'
-title: FCC Chairman Brendan Carr Threatens to Revoke Broadcast Licenses Over News
-  Coverage
+title: FCC Chairman Brendan Carr Threatens to Revoke Broadcast Licenses Over News Coverage
 importance: 9
 tags:
 - media-intimidation
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.wsj.com/business/media/fcc-brendan-carr-comcast-nbc-broadcast-license-threats
   title: FCC Chairman Weaponizes Broadcast Licenses
-  publisher: Wall Street Journal
   date: '2025-09-08'
   tier: 1
+  outlet: The Wall Street Journal
 actors:
 - Brendan Carr
 - FCC

@@ -26,9 +26,7 @@ actors:
 - Department of Homeland Security
 - Trump Administration
 - Civil liberties groups
-notes: This policy expands ideological screening of immigrants based on protected
-  political speech. Critics note the vague definition of antisemitism could encompass
-  legitimate criticism of Israeli government policies.
+notes: This policy expands ideological screening of immigrants based on protected political speech. Critics note the vague definition of antisemitism could encompass legitimate criticism of Israeli government policies.
 status: confirmed
 sources:
 - title: DHS to Begin Screening Aliens' Social Media Activity for Antisemitism
@@ -37,7 +35,7 @@ sources:
   date: '2025-04-09'
 - title: USCIS to screen immigrants' social media for antisemitic activity
   url: https://www.washingtonpost.com/immigration/2025/04/09/antisemitic-social-media-immigrants
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-04-09'
 - title: U.S. says it is now monitoring immigrants' social media for antisemitism
   url: https://www.npr.org/2025/04/09/g-s1-59149/immigrants-social-media-antisemitism-dhs

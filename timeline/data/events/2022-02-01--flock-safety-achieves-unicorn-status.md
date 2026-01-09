@@ -11,7 +11,7 @@ actors:
 - Garrett Langley
 tags:
 - surveillance
-- ALPR
+- alpr
 - license-plate-readers
 - unicorn-valuation
 - police-surveillance

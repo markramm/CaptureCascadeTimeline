@@ -1,8 +1,7 @@
 ---
 id: 2025-09-26--norquist-conservative-coalition-urge-aca-tax-credit-expiration
 date: '2025-09-26'
-title: Grover Norquist and 35 Conservative Groups Urge Trump to Let ACA Tax Credits
-  Expire While Opposing Corporate Tax Credit Expirations
+title: Grover Norquist and 35 Conservative Groups Urge Trump to Let ACA Tax Credits Expire While Opposing Corporate Tax Credit Expirations
 importance: 9
 tags:
 - institutional-capture
@@ -23,25 +22,24 @@ actors:
 sources:
 - url: https://www.npr.org/2025/10/12/nx-s1-5570849/shutdown-aca-health-care-tax-credits
   title: ACA health care plans are at the center of the shutdown fight
-  publisher: NPR
   date: '2025-10-12'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/congress/democratic-demands-shutdown-fight-obamacare-republicans-midterms-rcna234454
-  title: Democrats want Obamacare subsidies extended in a shutdown deal. It could
-    help the GOP in the midterms
-  publisher: NBC News
+  title: Democrats want Obamacare subsidies extended in a shutdown deal. It could help the GOP in the midterms
   date: '2025-09-17'
   tier: 1
+  outlet: NBC News
 - url: https://www.npr.org/2011/07/14/137800715/the-man-behind-the-gops-tax-pledge
   title: The Man Behind The GOP's No-Tax Pledge
-  publisher: NPR
   date: '2011-07-14'
   tier: 1
+  outlet: NPR
 - url: https://abcnews.go.com/Business/wireStory/republicans-grapple-voter-frustration-rising-health-care-premiums-126894850
   title: Republicans grapple with voter frustration over rising health care premiums
-  publisher: ABC News
   date: '2025-10-31'
   tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

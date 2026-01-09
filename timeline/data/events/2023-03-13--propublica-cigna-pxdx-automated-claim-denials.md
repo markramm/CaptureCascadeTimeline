@@ -4,26 +4,26 @@ title: ProPublica Exposes Cigna's Automated PXDX System Denying 300,000 Claims i
 date: '2023-03-13'
 importance: 9
 actors:
-  - Cigna
-  - ProPublica
-  - House Committee on Energy and Commerce
+- Cigna
+- ProPublica
+- House Committee on Energy and Commerce
 tags:
-  - healthcare
-  - insurance-fraud
-  - systematic-corruption
-  - investigative-journalism
+- healthcare
+- insurance-fraud
+- systematic-corruption
+- investigative-journalism
 status: confirmed
 sources:
-  - title: Congress Questions Cigna's Large-Scale Denial of Insurance Claims
-    url: https://www.propublica.org/article/cigna-health-insurance-denials-pxdx-congress-investigation
-    publisher: ProPublica
-    date: '2023-04-24'
-    tier: 1
-  - title: ProPublica Reports On Health Insurance Denials & Failures To Respond
-    url: https://www.gmlawyers.com/propublica-report-on-health-insurance-denials/
-    publisher: Gardy & Notis LLP
-    date: '2023-03-15'
-    tier: 2
+- title: Congress Questions Cigna's Large-Scale Denial of Insurance Claims
+  url: https://www.propublica.org/article/cigna-health-insurance-denials-pxdx-congress-investigation
+  date: '2023-04-24'
+  tier: 1
+  outlet: ProPublica
+- title: ProPublica Reports On Health Insurance Denials & Failures To Respond
+  url: https://www.gmlawyers.com/propublica-report-on-health-insurance-denials/
+  date: '2023-03-15'
+  tier: 2
+  outlet: Gardy & Notis LLP
 ---
 
 On March 13, 2023, ProPublica published an investigation revealing that health insurance giant Cigna used an automated system called PXDX to deny 300,000 claims over two months without doctors examining individual patient files—spending an average of just 1.2 seconds reviewing each case before rejecting payments for medical tests and procedures deemed "not medically necessary." The investigation exposed how health insurers have industrialized claim denial, using technology to deny medically necessary care at massive scale while maintaining the pretense of medical review. This represents a systematic business model where insurers profit by automatically rejecting legitimate claims, banking on the fact that fewer than 1% of patients will successfully appeal.

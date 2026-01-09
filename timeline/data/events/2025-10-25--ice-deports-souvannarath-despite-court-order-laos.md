@@ -14,7 +14,7 @@ actors:
 - Trump administration
 - Laos government
 tags:
-- ICE
+- ice
 - court-defiance
 - rule-of-law-erosion
 - deportation
@@ -54,7 +54,7 @@ sources:
 - title: Country Report - Laos March 2025
   url: https://www.genocidewatch.com/single-post/country-report-laos-march-2025
   outlet: Genocide Watch
-  date: '2025-03'
+  date: 2025-03
   tier: 2
 connections:
 - DOJ reveals Kristi Noem approved deportations defying court order (2025-11-26)

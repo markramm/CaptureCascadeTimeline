@@ -21,19 +21,19 @@ actors:
 sources:
 - url: https://investor.axon.com/2018-05-04-Axon-Acquires-VIEVU-Camera-Subsidiary-from-The-Safariland-Group-and-Announces-Strategic-Long-Term-Holster-Partnership
   title: Axon Acquires VIEVU Camera Subsidiary from The Safariland Group
-  publisher: Axon Investor Relations
   date: '2018-05-04'
   tier: 2
+  outlet: Axon Investor Relations
 - url: https://www.bloomberg.com/news/articles/2018-05-04/the-biggest-police-body-cam-company-is-buying-its-main-competitor
   title: The Biggest Police Body Cam Company Is Buying Its Main Competitor
-  publisher: Bloomberg
   date: '2018-05-04'
   tier: 1
+  outlet: Bloomberg
 - url: https://www.fool.com/investing/2018/05/18/is-there-any-stopping-axon-enterprise-now.aspx
   title: Axon Enterprise Now Owns the Police Body Cam Market
-  publisher: Motley Fool
   date: '2018-05-18'
   tier: 2
+  outlet: Motley Fool
 status: confirmed
 ---
 

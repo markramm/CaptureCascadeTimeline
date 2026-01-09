@@ -4,44 +4,44 @@ date: '1993-01-01'
 title: Philip Morris Creates TASSC Front Group, Exporting Tobacco Doubt Tactics to Climate Denial
 importance: 8
 tags:
-  - climate-denial
-  - tobacco-industry
-  - manufactured-doubt
-  - frederick-seitz
-  - corporate-disinformation
+- climate-denial
+- tobacco-industry
+- manufactured-doubt
+- frederick-seitz
+- corporate-disinformation
 actors:
-  - Philip Morris
-  - The Advancement of Sound Science Coalition
-  - Frederick Seitz
-  - Fred Singer
-  - APCO Associates
-  - R.J. Reynolds
+- Philip Morris
+- The Advancement of Sound Science Coalition
+- Frederick Seitz
+- Fred Singer
+- APCO Associates
+- R.J. Reynolds
 sources:
-  - url: https://www.desmog.com/2015/02/04/how-tobacco-shills-inspired-climate-denial/
-    title: How Tobacco Shills Inspired Climate Denial
-    publisher: DeSmog
-    date: '2015-02-04'
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Tobacco_industry_playbook
-    title: Tobacco industry playbook
-    publisher: Wikipedia
-    date: '2024-01-01'
-    tier: 2
-  - url: https://www.sourcewatch.org/index.php/Frederick_Seitz
-    title: Frederick Seitz
-    publisher: SourceWatch
-    date: '2024-01-01'
-    tier: 2
-  - url: https://scienceblogs.com/deltoid/2006/04/17/fred-seitz-the-45-million-man
-    title: Fred Seitz, the $45 million man
-    publisher: ScienceBlogs
-    date: '2006-04-17'
-    tier: 2
+- url: https://www.desmog.com/2015/02/04/how-tobacco-shills-inspired-climate-denial/
+  title: How Tobacco Shills Inspired Climate Denial
+  date: '2015-02-04'
+  tier: 1
+  outlet: DeSmog
+- url: https://en.wikipedia.org/wiki/Tobacco_industry_playbook
+  title: Tobacco industry playbook
+  date: '2024-01-01'
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.sourcewatch.org/index.php/Frederick_Seitz
+  title: Frederick Seitz
+  date: '2024-01-01'
+  tier: 2
+  outlet: SourceWatch
+- url: https://scienceblogs.com/deltoid/2006/04/17/fred-seitz-the-45-million-man
+  title: Fred Seitz, the $45 million man
+  date: '2006-04-17'
+  tier: 2
+  outlet: ScienceBlogs
 status: confirmed
 capture_lanes:
-  - Corporate Disinformation Infrastructure
-  - Scientific Doubt Manufacturing
-  - Cross-Industry Tactics Transfer
+- Corporate Disinformation Infrastructure
+- Scientific Doubt Manufacturing
+- Cross-Industry Tactics Transfer
 ---
 
 In 1993, Philip Morris tobacco company created The Advancement of Sound Science Coalition (TASSC) through PR firm APCO Associates as a front group to challenge evidence linking secondhand smoke to disease. TASSC became a critical bridge between tobacco industry doubt-manufacturing tactics and climate denial campaigns, recruiting Frederick Seitz and Fred Singer—scientists who had helped tobacco companies manufacture uncertainty about cancer research—as advisors. The organization demonstrated how corporate playbooks for undermining inconvenient science could be exported across industries, with the same scientists and tactics deployed to create doubt about both tobacco health risks and climate change.

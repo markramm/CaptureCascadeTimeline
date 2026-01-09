@@ -9,7 +9,7 @@ actors:
 - Heritage Foundation
 - State Policy Network
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
 - corporate-influence

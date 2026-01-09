@@ -1,15 +1,13 @@
 ---
 id: 1998-04-03--american-petroleum-institute-victory-memo-outlines-climate-d
 date: '1998-04-03'
-title: American Petroleum Institute "Victory" Memo Exposes Climate Disinformation
-  Strategy
+title: American Petroleum Institute "Victory" Memo Exposes Climate Disinformation Strategy
 importance: 9
 sources:
 - outlet: Climate Files
-  title: 1998 American Petroleum Institute Global Climate Science Communications Team
-    Action Plan
+  title: 1998 American Petroleum Institute Global Climate Science Communications Team Action Plan
   url: https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/
-- outlet: New York Times
+- outlet: The New York Times
   title: Industrial Group Plans to Battle Climate Treaty
   url: https://www.nytimes.com/1998/04/26/us/industrial-group-plans-to-battle-climate-treaty.html
   date: '1998-04-26'

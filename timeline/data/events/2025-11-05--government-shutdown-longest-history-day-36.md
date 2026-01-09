@@ -17,20 +17,19 @@ actors:
 sources:
 - title: The government shutdown is now the longest in U.S. history
   url: https://www.npr.org/2025/11/05/nx-s1-5598315/government-shutdown-longest-history
-  publisher: NPR
   date: '2025-11-05'
   tier: 1
+  outlet: NPR
 - title: Government shutdown set to become longest ever after latest Senate vote fails
   url: https://www.cnbc.com/2025/11/04/government-shutdown-trump-senate.html
-  publisher: CNBC
   date: '2025-11-04'
   tier: 2
-- title: Trump pressures GOP senators to end the government shutdown, now the longest
-    ever
+  outlet: CNBC
+- title: Trump pressures GOP senators to end the government shutdown, now the longest ever
   url: https://federalnewsnetwork.com/government-shutdown/2025/11/government-shutdown-becomes-the-longest-on-record-as-fallout-spreads-nationwide/
-  publisher: Federal News Network
   date: '2025-11-05'
   tier: 2
+  outlet: Federal News Network
 ---
 
 The Trump administration's government shutdown reached its 36th day on November 5, 2025, officially surpassing the previous record of 35 days set during the December 2018-January 2019 shutdown under Trump's first term. Over 1 million federal employees continued working without paychecks, while approximately 600,000 remained furloughed. Though a 2019 law guarantees backpay after shutdown resolution, President Trump's recent comments left many workers worried about whether that commitment would be honored.

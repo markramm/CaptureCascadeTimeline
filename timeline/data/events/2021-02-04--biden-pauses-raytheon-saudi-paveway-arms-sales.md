@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.defensenews.com/global/mideast-africa/2021/02/05/boeing-raytheon-missile-sales-to-saudi-arabia-canceled-by-biden-administration/
   title: Boeing, Raytheon missile sales to Saudi Arabia paused by Biden administration
-  publisher: Defense News
   date: '2021-02-05'
   tier: 2
+  outlet: Defense News
 - url: https://thehill.com/policy/defense/536172-biden-administration-pauses-uae-saudi-arms-sales-amid-review/
   title: Biden administration pauses UAE, Saudi arms sales amid broader review
-  publisher: The Hill
   date: '2021-01-27'
   tier: 2
+  outlet: The Hill
 - url: https://theintercept.com/2021/02/04/biden-saudi-yemen-arms/
   title: Biden Ends U.S. Support for Saudi "Offensive" in Yemen
-  publisher: The Intercept
   date: '2021-02-04'
   tier: 2
+  outlet: The Intercept
 - url: https://www.cnbc.com/2021/01/28/bidens-pause-on-gulf-weapons-sales-and-the-us-saudi-relationship.html
   title: Biden's pause on Gulf weapons sales foreshadows a tougher U.S.-Saudi relationship
-  publisher: CNBC
   date: '2021-01-28'
   tier: 2
+  outlet: CNBC
 actors:
 - Joe Biden
 - Jake Sullivan

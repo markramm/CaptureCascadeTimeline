@@ -20,19 +20,19 @@ actors:
 sources:
 - url: https://investor.axon.com/2025-09-23-Axon-to-acquire-AI-powered-911-communications-company-Prepared,-strengthening-the-public-safety-ecosystem-from-call-to-closure
   title: Axon to acquire AI-powered 911 communications company Prepared, strengthening the public safety ecosystem from call to closure
-  publisher: Axon Investor Relations
   date: '2025-09-23'
   tier: 1
+  outlet: Axon Investor Relations
 - url: https://www.prnewswire.com/news-releases/axon-to-acquire-ai-powered-911-communications-company-prepared-strengthening-the-public-safety-ecosystem-from-call-to-closure-302564578.html
   title: Axon to acquire AI-powered 911 communications company Prepared
-  publisher: PR Newswire
   date: '2025-09-23'
   tier: 1
+  outlet: PR Newswire
 - url: https://www.govtech.com/biz/report-axon-enterprise-wants-to-buy-911-tech-firm-prepared
   title: Report - Axon Enterprise Wants to Buy 911 Tech Firm Prepared
-  publisher: Government Technology
   date: '2025-09-23'
   tier: 2
+  outlet: Government Technology
 status: confirmed
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-08--missouri-gop-passes-mid-decade-gerrymander-to-eliminate-democratic-seat
 date: '2025-09-08'
-title: Missouri GOP Passes Mid-Decade Gerrymander to Eliminate Democratic Congressional
-  Seat
+title: Missouri GOP Passes Mid-Decade Gerrymander to Eliminate Democratic Congressional Seat
 importance: 8
 tags:
 - election-subversion
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.cbsnews.com/news/missouri-redistricting-congressional-map-democrats-emmanuel-cleaver/
   title: Missouri Dismantles Democratic Congressional District
-  publisher: CBS News
   date: '2025-09-12'
   tier: 1
+  outlet: CBS News
 actors:
 - Missouri GOP legislature
 - Representative Emmanuel Cleaver

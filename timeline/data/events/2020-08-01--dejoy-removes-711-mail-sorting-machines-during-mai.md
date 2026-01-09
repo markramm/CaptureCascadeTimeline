@@ -18,7 +18,7 @@ status: confirmed
 sources:
 - title: Judge blocks 'politically motivated' USPS changes that slowed mail
   url: https://www.washingtonpost.com/business/2020/09/17/usps-dejoy-court-order/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2020-09-17'
 - title: New documents show DeJoy's USPS removed 711 mail sorting machines
   url: https://www.cnn.com/2020/09/09/politics/usps-removed-711-sorting-machines/index.html

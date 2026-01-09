@@ -4,37 +4,37 @@ date: 2013-06-25
 title: Supreme Court Guts Voting Rights Act in Shelby County v. Holder Decision
 importance: 10
 tags:
-  - voting-rights
-  - supreme-court
-  - shelby-county
-  - john-roberts
-  - voter-suppression
+- voting-rights
+- supreme-court
+- shelby-county
+- john-roberts
+- voter-suppression
 actors:
-  - Supreme Court
-  - John Roberts
-  - Shelby County
-  - Congress
+- Supreme Court
+- John Roberts
+- Shelby County
+- Congress
 sources:
-  - url: https://supreme.justia.com/cases/federal/us/570/529/
-    title: Shelby County v. Holder, 570 U.S. 529 (2013)
-    publisher: Supreme Court of the United States
-    date: 2013-06-25
-    tier: 1
-  - url: https://www.justice.gov/archives/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder
-    title: Reflecting On the 10th Anniversary of Shelby County v. Holder
-    publisher: U.S. Department of Justice
-    date: 2023-06-25
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder
-    title: The Effects of Shelby County v. Holder
-    publisher: Brennan Center for Justice
-    date: 2018-08-06
-    tier: 1
-  - url: https://www.naacpldf.org/case-issue/shelby-county-v-holder/
-    title: Shelby County v. Holder
-    publisher: NAACP Legal Defense Fund
-    date: 2013-06-25
-    tier: 1
+- url: https://supreme.justia.com/cases/federal/us/570/529/
+  title: Shelby County v. Holder, 570 U.S. 529 (2013)
+  date: 2013-06-25
+  tier: 1
+  outlet: Supreme Court of the United States
+- url: https://www.justice.gov/archives/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder
+  title: Reflecting On the 10th Anniversary of Shelby County v. Holder
+  date: 2023-06-25
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder
+  title: The Effects of Shelby County v. Holder
+  date: 2018-08-06
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.naacpldf.org/case-issue/shelby-county-v-holder/
+  title: Shelby County v. Holder
+  date: 2013-06-25
+  tier: 1
+  outlet: NAACP Legal Defense Fund
 ---
 
 The Supreme Court strikes down Section 4(b) of the Voting Rights Act of 1965 in a 5-4 decision, effectively nullifying Section 5's preclearance requirement that prevented jurisdictions with histories of racial discrimination from changing voting laws without federal approval. Chief Justice John Roberts's majority opinion declares that racial voting discrimination is a relic of the past, rendering the Voting Rights Act's core protections inoperable and triggering an immediate wave of voter suppression laws across formerly covered states.

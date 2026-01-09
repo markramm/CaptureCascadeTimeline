@@ -16,8 +16,7 @@ tags:
 - corruption
 sources:
 - url: https://www.miamiherald.com/news/local/article214210674.html
-  title: How a future Trump Cabinet member gave a serial sex abuser the deal of a
-    lifetime
+  title: How a future Trump Cabinet member gave a serial sex abuser the deal of a lifetime
   outlet: Miami Herald
   date: '2018-11-28'
 - url: https://www.justice.gov/oig/reports/evaluation-and-inspections-division-epstein
@@ -25,9 +24,8 @@ sources:
   outlet: DOJ Office of Inspector General
   date: '2020-11-19'
 - url: https://www.washingtonpost.com/politics/labor-secretary-acosta-cut-deal-with-billionaire-in-sex-abuse-case-involving-40-underage-girls/2017/03/21/d33271a8-0d85-11e7-ab07-07d9f521f6b5_story.html
-  title: Labor Secretary Acosta cut deal with billionaire in sex abuse case involving
-    40 underage girls
-  outlet: Washington Post
+  title: Labor Secretary Acosta cut deal with billionaire in sex abuse case involving 40 underage girls
+  outlet: The Washington Post
   date: '2017-03-21'
 importance: 9
 status: confirmed

@@ -4,28 +4,28 @@ date: 2006-07-05
 title: Ken Lay Dies Before Sentencing, Conviction Later Vacated
 importance: 9
 tags:
-  - corporate-fraud
-  - enron
-  - criminal-prosecution
-  - legal-outcome
+- corporate-fraud
+- enron
+- criminal-prosecution
+- legal-outcome
 actors:
-  - Kenneth Lay
+- Kenneth Lay
 sources:
-  - url: https://www.pbs.org/newshour/economy/business-july-dec06-lay_07-05
-    title: "Convicted Enron Founder Kenneth Lay Dies at 64"
-    publisher: PBS NewsHour
-    date: 2006-07-05
-    tier: 1
-  - url: https://www.nbcnews.com/id/wbna13715925
-    title: "Enron founder Ken Lay dies of heart disease"
-    publisher: NBC News
-    date: 2006-07-05
-    tier: 1
-  - url: https://www.npr.org/2006/07/06/5539129/lays-death-may-lead-court-to-toss-case
-    title: "Lay's Death May Lead Court to Toss Case"
-    publisher: NPR
-    date: 2006-07-06
-    tier: 1
+- url: https://www.pbs.org/newshour/economy/business-july-dec06-lay_07-05
+  title: Convicted Enron Founder Kenneth Lay Dies at 64
+  date: 2006-07-05
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.nbcnews.com/id/wbna13715925
+  title: Enron founder Ken Lay dies of heart disease
+  date: 2006-07-05
+  tier: 1
+  outlet: NBC News
+- url: https://www.npr.org/2006/07/06/5539129/lays-death-may-lead-court-to-toss-case
+  title: Lay's Death May Lead Court to Toss Case
+  date: 2006-07-06
+  tier: 1
+  outlet: NPR
 ---
 
 On July 5, 2006, Kenneth Lay died of a heart attack at his vacation home in Aspen, Colorado, just six weeks after being convicted on all six counts of fraud and conspiracy in the Enron scandal. Lay, 64, was pronounced dead at Aspen Valley Hospital at 3:11 a.m. A preliminary autopsy reported he died of a heart attack caused by coronary artery disease.

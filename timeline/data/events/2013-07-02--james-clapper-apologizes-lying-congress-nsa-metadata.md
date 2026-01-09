@@ -15,20 +15,20 @@ actors:
 - Dianne Feinstein
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2013/07/02/198118060/clapper-apologizes-for-answer-on-nsas-data-collection
-  title: "Clapper Apologizes For Answer On NSA's Data Collection"
-  publisher: NPR
+  title: Clapper Apologizes For Answer On NSA's Data Collection
   date: '2013-07-02'
   tier: 1
+  outlet: NPR
 - url: https://www.politifact.com/article/2014/mar/11/james-clappers-testimony-one-year-later/
-  title: "James Clapper's testimony one year later"
-  publisher: PolitiFact
+  title: James Clapper's testimony one year later
   date: '2014-03-11'
   tier: 2
+  outlet: PolitiFact
 - url: https://thehill.com/policy/defense/308979-clapper-apologies-for-erroneous-statement-to-congress-on-us-data-collection
-  title: "Intelligence chief Clapper apologizes for 'erroneous' statement to Congress"
-  publisher: The Hill
+  title: Intelligence chief Clapper apologizes for 'erroneous' statement to Congress
   date: '2013-07-02'
   tier: 2
+  outlet: The Hill
 status: confirmed
 ---
 

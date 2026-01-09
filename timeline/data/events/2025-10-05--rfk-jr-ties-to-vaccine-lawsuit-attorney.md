@@ -1,8 +1,7 @@
 ---
 id: 2025-10-05--rfk-jr-ties-to-vaccine-lawsuit-attorney
 date: '2025-10-05'
-title: RFK Jr.'s Legal Associate Aaron Siri Advances Anti-Vaccine Lawsuits While Influencing
-  HHS
+title: RFK Jr.'s Legal Associate Aaron Siri Advances Anti-Vaccine Lawsuits While Influencing HHS
 importance: 8
 actors:
 - Robert F. Kennedy Jr.
@@ -11,9 +10,9 @@ actors:
 sources:
 - title: Kennedy's Ties to Ally Leading Vaccine Lawsuits Raise Ethical Concerns
   url: https://www.nytimes.com/2025/10/05/health/rfk-jr-aaron-siri-vaccines.html
-  publisher: New York Times
   date: '2025-10-05'
   tier: 1
+  outlet: The New York Times
 tags:
 - conflicts-of-interest
 - regulatory-capture

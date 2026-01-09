@@ -9,20 +9,19 @@ actors:
 - Facebook
 - Donald Trump
 tags:
-- Tech Industry
-- Political Influence
-- Silicon Valley
-- Corporate Censorship
+- tech industry
+- political influence
+- silicon valley
+- corporate censorship
 sources:
-- url: https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html
-  title: Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump
-    donation was to blame
-  publisher: CNBC
+- title: Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame
+  url: https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html
+  outlet: CNBC
   date: '2019-05-22'
   tier: 2
-- url: https://en.wikipedia.org/wiki/Palmer_Luckey
-  title: Palmer Luckey
-  publisher: Wikipedia
+- title: Palmer Luckey
+  url: https://en.wikipedia.org/wiki/Palmer_Luckey
+  outlet: Wikipedia
   date: '2024-11-01'
   tier: 3
 ---

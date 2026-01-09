@@ -16,19 +16,19 @@ actors:
 sources:
 - url: https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices
   title: Wells Fargo Agrees to Pay $3 Billion to Resolve Criminal and Civil Investigations
-  publisher: U.S. Department of Justice
   date: '2020-02-21'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.cnn.com/2020/02/21/business/wells-fargo-settlement-doj-sec/index.html
   title: US Government Fines Wells Fargo $3 Billion for 'Staggering' Fake-Accounts Scandal
-  publisher: CNN
   date: '2020-02-21'
   tier: 2
+  outlet: CNN
 - url: https://www.dcreport.org/2020/03/03/justice-deferred-at-wells-fargo/
   title: Justice Deferred at Wells Fargo
-  publisher: DCReport
   date: '2020-03-03'
   tier: 2
+  outlet: DCReport
 ---
 
 The Department of Justice announces it will not bring criminal charges against any Wells Fargo executives for their roles in the fake accounts scandal, instead accepting a deferred prosecution agreement with the corporation. Despite Wells Fargo's admission that "top Community Bank leaders" were aware of unlawful conduct as early as 2002, despite 3.5 million fake accounts affecting millions of customers, despite admitted fraud involving forged signatures and stolen identities, the Trump DOJ concludes that no individual executives merit prosecution. The decision becomes definitive proof that senior banking executives operate above criminal law.

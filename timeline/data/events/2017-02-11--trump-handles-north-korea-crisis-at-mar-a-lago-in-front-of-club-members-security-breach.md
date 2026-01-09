@@ -1,8 +1,7 @@
 ---
 id: 2017-02-11--trump-handles-north-korea-crisis-at-mar-a-lago-in-front-of-club-members-security-breach
 date: '2017-02-11'
-title: Trump Handles North Korea Missile Crisis at Mar-a-Lago in Front of Paying Club
-  Members - Unprecedented Security Breach
+title: Trump Handles North Korea Missile Crisis at Mar-a-Lago in Front of Paying Club Members - Unprecedented Security Breach
 importance: 9
 tags:
 - emoluments
@@ -16,26 +15,25 @@ actors:
 - Sean Spicer
 sources:
 - url: https://abcnews.go.com/Politics/inside-mar-lago-donald-trump-learned-north-korea/story?id=45461410
-  title: 'Inside Mar-a-Lago: How Donald Trump learned about the North Korean missile
-    test'
-  publisher: ABC News
+  title: 'Inside Mar-a-Lago: How Donald Trump learned about the North Korean missile test'
   date: '2017-02-13'
   tier: 1
+  outlet: ABC News
 - url: https://www.npr.org/sections/thetwo-way/2017/02/12/514778665/north-korea-test-fires-first-missile-under-a-trump-presidency
   title: North Korea Test-Fires First Missile During Trump's Presidency
-  publisher: NPR
   date: '2017-02-12'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/world/north-korea-test-missile
   title: North Korea test-fires missile, apparently challenging Trump
-  publisher: PBS NewsHour
   date: '2017-02-12'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://www.cbsnews.com/news/trump-trips-to-mar-a-lago-cost-taxpayers-13-6m-watchdog-report/
   title: 'Trump''s first 4 trips to Mar-a-Lago cost taxpayers $13.6M: watchdog report'
-  publisher: CBS News
   date: '2019-02-05'
   tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

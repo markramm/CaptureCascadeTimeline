@@ -4,35 +4,35 @@ date: '2017-04-11'
 title: Federal Court Rules Texas Voter ID Law Intentionally Discriminatory Against Minorities
 importance: 8
 tags:
-  - voter-suppression
-  - texas
-  - voter-id
-  - racial-discrimination
-  - voting-rights
+- voter-suppression
+- texas
+- voter-id
+- racial-discrimination
+- voting-rights
 actors:
-  - Texas Legislature
-  - Federal Courts
+- Texas Legislature
+- Federal Courts
 sources:
-  - url: https://www.cnn.com/2017/04/11/politics/texas-voter-id-law-discriminate/index.html
-    title: 'Texas voter ID law designed to discriminate, judge rules'
-    publisher: CNN
-    date: '2017-04-11'
-    tier: 2
-  - url: https://www.texastribune.org/2016/07/20/appeals-court-rules-texas-voter-id/
-    title: 'Texas Voter ID Law Violates Voting Rights Act, Court Rules'
-    publisher: Texas Tribune
-    date: 2016-07-20
-    tier: 2
-  - url: https://www.brennancenter.org/our-work/analysis-opinion/what-you-should-know-about-voter-id-texas
-    title: What You Should Know About Voter ID in Texas
-    publisher: Brennan Center for Justice
-    date: 2018-08-27
-    tier: 1
-  - url: https://campaignlegal.org/story/citizens-barred-polls-negative-impact-strict-photo-voter-id-texas
-    title: 'Citizens barred from the polls: The negative impact of strict photo voter ID in Texas'
-    publisher: Campaign Legal Center
-    date: 2017-01-01
-    tier: 1
+- url: https://www.cnn.com/2017/04/11/politics/texas-voter-id-law-discriminate/index.html
+  title: Texas voter ID law designed to discriminate, judge rules
+  date: '2017-04-11'
+  tier: 2
+  outlet: CNN
+- url: https://www.texastribune.org/2016/07/20/appeals-court-rules-texas-voter-id/
+  title: Texas Voter ID Law Violates Voting Rights Act, Court Rules
+  date: 2016-07-20
+  tier: 2
+  outlet: Texas Tribune
+- url: https://www.brennancenter.org/our-work/analysis-opinion/what-you-should-know-about-voter-id-texas
+  title: What You Should Know About Voter ID in Texas
+  date: 2018-08-27
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://campaignlegal.org/story/citizens-barred-polls-negative-impact-strict-photo-voter-id-texas
+  title: 'Citizens barred from the polls: The negative impact of strict photo voter ID in Texas'
+  date: 2017-01-01
+  tier: 1
+  outlet: Campaign Legal Center
 ---
 
 A federal judge rules that Texas's voter ID law, widely considered the strictest in the nation, was intentionally designed to discriminate against Black and Latino voters. The ruling finds "a pattern of conduct unexplainable on grounds other than the race factor" and marks the second time federal courts conclude that Texas's law violates the Voting Rights Act and was enacted with discriminatory purpose. The law's acceptance of gun permits but rejection of student IDs exemplifies its partisan and racial targeting.

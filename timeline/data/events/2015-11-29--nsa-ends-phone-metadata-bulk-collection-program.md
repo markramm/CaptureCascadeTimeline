@@ -19,24 +19,24 @@ actors:
 sources:
 - title: NSA Ends Bulk Collection of Telephony Metadata under Section 215
   url: https://www.lawfaremedia.org/article/nsa-ends-bulk-collection-telephony-metadata-under-section-215
-  publisher: Lawfare
   date: '2015-11-29'
   tier: 1
+  outlet: Lawfare
 - title: 'FACT SHEET: Implementation of the USA FREEDOM Act of 2015'
   url: https://www.intelligence.gov/ic-on-the-record-database/results/fact-sheet/fact-sheet-implementation-of-the-usa-freedom-act-of-2015
-  publisher: Office of the Director of National Intelligence
   date: '2015-11-29'
   tier: 1
+  outlet: Office of the Director of National Intelligence
 - title: NSA Ends Sept. 11-Era Surveillance Program
   url: https://www.npr.org/sections/thetwo-way/2015/11/29/457779757/nsa-ends-sept-11th-era-surveillance-program
-  publisher: NPR
   date: '2015-11-29'
   tier: 1
+  outlet: NPR
 - title: NSA's bulk collection of Americans' phone records ends Sunday
   url: https://www.washingtonpost.com/world/national-security/nsas-bulk-collection-of-americans-phone-records-ends-sunday/2015/11/27/75dc62e2-9546-11e5-a2d6-f57908580b1f_story.html
-  publisher: Washington Post
   date: '2015-11-27'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

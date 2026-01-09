@@ -13,19 +13,19 @@ tags:
 sources:
 - url: https://www.amnesty.org/en/latest/news/2022/01/yemen-us-made-weapon-used-in-air-strike-that-killed-scores-in-escalation-of-saudi-led-coalition-attacks/
   title: Yemen - US-made weapon used in air strike that killed scores
-  publisher: Amnesty International
   date: '2022-01-22'
   tier: 1
+  outlet: Amnesty International
 - url: https://reliefweb.int/report/yemen/yemen-us-made-weapon-used-air-strike-killed-scores-escalation-saudi-led-coalition
   title: Yemen - US-made weapon used in air strike that killed scores in escalation
-  publisher: ReliefWeb
   date: '2022-01-22'
   tier: 1
+  outlet: ReliefWeb
 - url: https://www.hrw.org/news/2022/04/18/yemen-latest-round-saudi-uae-led-attacks-targets-civilians
   title: Yemen - Latest Round of Saudi-UAE-Led Attacks Targets Civilians
-  publisher: Human Rights Watch
   date: '2022-04-18'
   tier: 1
+  outlet: Human Rights Watch
 actors:
 - Raytheon
 - Saudi Arabia

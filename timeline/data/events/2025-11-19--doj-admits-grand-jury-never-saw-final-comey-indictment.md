@@ -14,19 +14,19 @@ tags:
 sources:
 - title: DOJ says full grand jury in Comey case was not presented copy of final indictment
   url: https://www.pbs.org/newshour/politics/comeys-lawyers-say-prosecution-pushed-by-trump-is-vindictive-and-case-should-be-tossed
-  publisher: PBS NewsHour
   date: '2025-11-19'
   tier: 1
+  outlet: PBS NewsHour
 - title: Justice Department admits grand jury did not review final Comey indictment
   url: https://www.aljazeera.com/news/2025/11/19/justice-department-admits-grand-jury-did-not-review-final-comey-indictment
-  publisher: Al Jazeera
   date: '2025-11-19'
   tier: 1
+  outlet: Al Jazeera
 - title: DOJ admits not all grand jury members saw the final version of the indictment against James Comey
   url: https://www.nbcnews.com/politics/justice-department/james-comey-seeks-dismiss-selective-vindictive-case-key-hearing-rcna244777
-  publisher: NBC News
   date: '2025-11-19'
   tier: 2
+  outlet: NBC News
 actors:
 - James Comey
 - Lindsey Halligan

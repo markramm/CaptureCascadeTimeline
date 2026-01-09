@@ -22,7 +22,7 @@ capture_lanes:
 sources:
 - title: Facebook says Russian-backed accounts bought $100,000 in ads
   url: https://www.washingtonpost.com/politics/facebook-says-it-sold-political-ads-to-russian-company-during-2016-election/2017/09/06/32f01fd2-931e-11e7-89fa-bb822a46da5b_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2017-09-06'
   archive_url: https://web.archive.org/web/20170906000000/https://www.washingtonpost.com/politics/facebook-says-it-sold-political-ads-to-russian-company-during-2016-election/2017/09/06/32f01fd2-931e-11e7-89fa-bb822a46da5b_story.html
 - title: Facebook sold ads to Russian company during 2016 election
@@ -38,12 +38,9 @@ sources:
 - url: https://abcnews.go.com/Politics/facebook-congress-russian-linked-content-reached-126-million/story?id=50821650
   outlet: ABC News
   date: '2017-10-30'
-  title: Facebook to tell Congress Russian-linked content may have reached 126 million
-    during 2016 election
+  title: Facebook to tell Congress Russian-linked content may have reached 126 million during 2016 election
   notes: Comprehensive details of Russian ad targeting and reach
-notes: 3,000 ads purchased by 470 accounts linked to IRA. Reached 126 million Americans.
-  Focus on divisive issues. First admission after denying for months. Led to congressional
-  hearings and Zuckerberg testimony.
+notes: 3,000 ads purchased by 470 accounts linked to IRA. Reached 126 million Americans. Focus on divisive issues. First admission after denying for months. Led to congressional hearings and Zuckerberg testimony.
 status: confirmed
 ---
 

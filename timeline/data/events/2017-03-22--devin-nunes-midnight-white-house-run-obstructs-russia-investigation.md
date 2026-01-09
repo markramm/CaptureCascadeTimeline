@@ -1,8 +1,7 @@
 ---
 id: 2017-03-22--devin-nunes-midnight-white-house-run-obstructs-russia-investigation
 date: '2017-03-22'
-title: Devin Nunes Makes Secret Midnight White House Visit to View Intel, Then Briefs
-  Trump Before Committee - Obstruction of Investigation
+title: Devin Nunes Makes Secret Midnight White House Visit to View Intel, Then Briefs Trump Before Committee - Obstruction of Investigation
 importance: 10
 tags:
 - obstruction-of-justice
@@ -19,19 +18,19 @@ actors:
 sources:
 - url: https://www.nbcnews.com/politics/congress/sources-nunes-got-intelligence-reports-white-house-n738871
   title: 'Sources: Nunes Got Intelligence Reports at White House'
-  publisher: NBC News
   date: '2017-03-27'
   tier: 1
+  outlet: NBC News
 - url: https://www.pbs.org/newshour/politics/nunes-confirms-source-surveillance-reports-white-house-grounds
   title: Nunes confirms source of surveillance reports was on White House grounds
-  publisher: PBS NewsHour
   date: '2017-03-27'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://www.npr.org/2017/03/27/521780348/what-you-need-to-know-about-the-devin-nunes-controversy
   title: What You Need To Know About The Devin Nunes Controversy
-  publisher: NPR
   date: '2017-03-27'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

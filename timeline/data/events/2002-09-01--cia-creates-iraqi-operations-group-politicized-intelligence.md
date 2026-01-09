@@ -16,17 +16,16 @@ tags:
 - wmd-fabrication
 sources:
 - url: https://www.intelligence.senate.gov/sites/default/files/publications/iraqreport2.pdf
-  title: Report on the U.S. Intelligence Community's Prewar Intelligence Assessments
-    on Iraq
+  title: Report on the U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq
   outlet: Senate Select Committee on Intelligence
   date: '2004-07-09'
 - url: https://www.washingtonpost.com/wp-dyn/articles/A62042-2004Jul7.html
   title: CIA Analysis Was 'Dead Wrong' on WMDs, Senate Report Says
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2004-07-08'
 - url: https://www.nytimes.com/2004/07/10/politics/cia-was-pushed-to-alter-view-of-iraq-threat-report-says.html
   title: CIA Was Pushed to Alter View of Iraq Threat, Report Says
-  outlet: New York Times
+  outlet: The New York Times
   date: '2004-07-10'
 importance: 9
 status: confirmed

@@ -2,8 +2,7 @@
 id: 2025-04-02--zuckerberg-lobbies-trump-to-avoid-meta-antitrust-trial
 date: '2025-04-02'
 title: Zuckerberg lobbies Trump to avoid Meta antitrust trial
-description: Meta CEO lobbies Trump to settle FTC antitrust case before trial on Instagram/WhatsApp
-  acquisitions
+description: Meta CEO lobbies Trump to settle FTC antitrust case before trial on Instagram/WhatsApp acquisitions
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -26,11 +25,11 @@ sources:
   date: '2025-04-02'
 - title: Zuckerberg Lobbies Trump to Avoid Meta Antitrust Trial
   url: https://www.wsj.com/politics/policy/meta-antitrust-trial-zuckerberg-lobbying-trump-67c8f3a5
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-04-02'
 - title: Inside Mark Zuckerberg's Failed Negotiations to End Meta's Antitrust Case
   url: https://www.wsj.com/us-news/law/mark-zuckerberg-meta-antitrust-ftc-negotiations-a53b3382
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-04-03'
 - title: Meta CEO Zuckerberg Lobbies Trump to Avoid Antitrust Trial
   url: https://www.usnews.com/news/politics/articles/2025-04-02/meta-ceo-zuckerberg-lobbies-trump-to-avoid-antitrust-trial-wsj-reports
@@ -38,7 +37,7 @@ sources:
   date: '2025-04-02'
 - title: Trump sued to break up Meta in 2020. It's finally going to trial
   url: https://www.washingtonpost.com/technology/2025/04/12/trump-sued-break-up-meta-2020-its-finally-going-trial/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-04-12'
 connections: []
 patterns:

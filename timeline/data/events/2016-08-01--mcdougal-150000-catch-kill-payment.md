@@ -23,11 +23,10 @@ capture_lanes:
 sources:
 - title: Publisher admits to hush money payments
   url: https://www.washingtonpost.com/lifestyle/style/publisher-of-the-national-enquirer-admits-to-hush-money-payments-made-on-trumps-behalf/2018/12/12/ebf24b76-fe49-11e8-83c0-b06139e540e5_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2018-12-12'
   archive_url: https://web.archive.org/web/20181212000000/https://www.washingtonpost.com/lifestyle/style/publisher-of-the-national-enquirer-admits-to-hush-money-payments-made-on-trumps-behalf/2018/12/12/ebf24b76-fe49-11e8-83c0-b06139e540e5_story.html
-- title: National Enquirer Publisher Fined $187,500 for Paying Karen McDougal for
-    Trump Affair Story
+- title: National Enquirer Publisher Fined $187,500 for Paying Karen McDougal for Trump Affair Story
   url: https://www.newsweek.com/national-enquirer-publisher-fined-187500-paying-karen-mcdougal-trump-affair-story-1596987
   outlet: Newsweek
   date: '2021-06-03'
@@ -39,14 +38,11 @@ sources:
   url: https://www.nbcnews.com/politics/donald-trump/national-enquirer-publisher-pay-187-500-fine-trump-hush-money-n1269370
   outlet: NBC News
   date: '2021-06-02'
-- title: Who is Karen McDougal and how is she connected to Donald Trump's hush money
-    case?
+- title: Who is Karen McDougal and how is she connected to Donald Trump's hush money case?
   url: https://abcnews.go.com/US/karen-mcdougal-connected-donald-trumps-hush-money-case/story?id=109649754
   outlet: ABC News
   date: '2024-04-23'
-notes: Largest payment in catch-and-kill scheme. McDougal silenced through 2016 election.
-  Part of systematic suppression operation. Triggered later document destruction.
-  Criminal campaign finance violation.
+notes: Largest payment in catch-and-kill scheme. McDougal silenced through 2016 election. Part of systematic suppression operation. Triggered later document destruction. Criminal campaign finance violation.
 status: confirmed
 ---
 

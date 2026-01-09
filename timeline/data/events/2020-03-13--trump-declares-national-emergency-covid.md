@@ -4,30 +4,30 @@ date: '2020-03-13'
 title: Trump Declares National Emergency for COVID-19 After Weeks of Denialism and Delay
 importance: 8
 tags:
-  - COVID-19
-  - Public Health
-  - Accountability Crisis
-  - Federal Response
+- covid-19
+- public health
+- accountability crisis
+- federal response
 actors:
-  - Donald Trump
-  - Alex Azar
-  - Mike Pence
+- Donald Trump
+- Alex Azar
+- Mike Pence
 sources:
-  - title: Trump declares coronavirus pandemic a national emergency
-    url: https://www.statnews.com/2020/03/13/national-emergency-coronavirus/
-    publisher: STAT News
-    date: '2020-03-13'
-    tier: 1
-  - title: Trump declares national emergency to combat coronavirus, authorizes waiving of laws and regulations
-    url: https://www.nbcnews.com/politics/donald-trump/trump-hold-friday-afternoon-press-conference-coronavirus-n1157981
-    publisher: NBC News
-    date: '2020-03-13'
-    tier: 1
-  - title: Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak
-    url: https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
-    publisher: Trump White House Archives
-    date: '2020-03-13'
-    tier: 1
+- title: Trump declares coronavirus pandemic a national emergency
+  url: https://www.statnews.com/2020/03/13/national-emergency-coronavirus/
+  date: '2020-03-13'
+  tier: 1
+  outlet: STAT News
+- title: Trump declares national emergency to combat coronavirus, authorizes waiving of laws and regulations
+  url: https://www.nbcnews.com/politics/donald-trump/trump-hold-friday-afternoon-press-conference-coronavirus-n1157981
+  date: '2020-03-13'
+  tier: 1
+  outlet: NBC News
+- title: Proclamation on Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID-19) Outbreak
+  url: https://trumpwhitehouse.archives.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
+  date: '2020-03-13'
+  tier: 1
+  outlet: Trump White House Archives
 status: confirmed
 ---
 

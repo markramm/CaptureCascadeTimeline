@@ -11,29 +11,29 @@ actors:
 - FBI
 - Air Force Office of Special Investigations
 tags:
-- Defense Contractors
-- Fraud
-- Military-Industrial Complex
-- False Claims Act
-- Pentagon Contracts
-- Contractor Abuse
-- Accountability
+- defense contractors
+- fraud
+- military-industrial complex
+- false claims act
+- pentagon contracts
+- contractor abuse
+- accountability
 sources:
 - url: https://www.justice.gov/usao-sdca/pr/northrop-grumman-subsidiary-agrees-pay-3165-million-overbilling-us-air-force-civil-and
   title: Northrop Grumman Subsidiary Agrees to Pay $31.65 Million for Overbilling U.S. Air Force in Civil and Criminal Settlements
-  publisher: U.S. Department of Justice
   date: '2018-11-01'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.govexec.com/management/2018/11/northrop-grumman-pays-2745-million-under-false-claims-act/152572/
   title: Northrop Grumman Pays $27.45 Million Under False Claims Act
-  publisher: Government Executive
   date: '2018-11-01'
   tier: 2
+  outlet: Government Executive
 - url: https://www.fraudfighters.net/industry-areas/defense-contractor-fraud/
   title: Defense Contractor Fraud
-  publisher: Fischer Legal Group
   date: '2018-11-01'
   tier: 2
+  outlet: Fischer Legal Group
 ---
 
 Northrop Grumman Systems Corporation agreed to pay $31.65 million to settle civil and criminal charges for systematically defrauding the U.S. Air Force by overbilling labor hours on battlefield communications contracts between January 2011 and October 2013. The settlement included $27.45 million for False Claims Act violations and $4.2 million in criminal forfeiture, resolving allegations that the defense contractor knowingly billed the Air Force for thousands of hours that employees stationed in the Middle East never actually worked on the Battlefield Airborne Communications Node (BACN) and Dynamic Re-tasking Capability (DRC) contracts.

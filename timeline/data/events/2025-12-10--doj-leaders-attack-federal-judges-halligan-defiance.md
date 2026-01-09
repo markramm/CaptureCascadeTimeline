@@ -20,26 +20,26 @@ actors:
 - Judge William Fitzpatrick
 - Department of Justice
 sources:
-- title: 'DOJ Hits Back at Judges Doubting Halligan''s US Attorney Role'
+- title: DOJ Hits Back at Judges Doubting Halligan's US Attorney Role
   url: https://news.bloomberglaw.com/ip-law/doj-hits-back-at-judges-doubting-halligans-us-attorney-role
-  publisher: Bloomberg Law
   date: '2025-12-08'
   tier: 2
+  outlet: Bloomberg Law
 - title: '''Jaw dropping'': Legal expert says Trump pick''s bold move is daring judges to take action'
   url: https://www.rawstory.com/jaw-dropping-lindsey-halligan/
-  publisher: Raw Story
   date: '2025-12-10'
   tier: 3
-- title: 'Who is Lindsey Halligan, prosecutor in Comey, James cases?'
+  outlet: Raw Story
+- title: Who is Lindsey Halligan, prosecutor in Comey, James cases?
   url: https://www.npr.org/2025/11/25/nx-s1-5620636/lindsey-halligan-us-attorney-unlawful-comey-james
-  publisher: NPR
   date: '2025-11-25'
   tier: 1
+  outlet: NPR
 - title: 'Editorial: Eastern District deserves a lawfully appointed, professional prosecutor'
   url: https://www.dailypress.com/2025/12/09/editorial-eastern-district-deserves-a-lawfully-appointed-professional-prosecutor/
-  publisher: Daily Press
   date: '2025-12-09'
   tier: 2
+  outlet: Daily Press
 ---
 
 Department of Justice leaders Attorney General Pam Bondi and Deputy Attorney General Todd Blanche launched an unprecedented public attack on federal judges who ruled that Lindsey Halligan was unlawfully appointed as U.S. Attorney for the Eastern District of Virginia. By December 10, three separate federal judges had ruled against or questioned Halligan's authority: Judge Cameron McGowan Currie dismissed criminal cases on November 24 finding Halligan's appointment violated federal law, Judge Colleen Kollar-Kotelly blocked DOJ from using evidence on December 7, and Judge Leonie Brinkema suggested Halligan resign on December 9 after DOJ called her colleagues "rogue" jurists. Rather than comply with judicial rulings or appeal through proper channels, DOJ doubled down—issuing a statement accusing judges of an "unconscionable campaign of bias and hostility" and warning of "no tolerance for undemocratic judicial activism."

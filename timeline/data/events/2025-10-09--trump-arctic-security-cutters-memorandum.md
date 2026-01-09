@@ -1,8 +1,7 @@
 ---
 id: 2025-10-09--trump-arctic-security-cutters-memorandum
 date: '2025-10-09'
-title: Trump Authorizes Foreign Construction of Arctic Security Cutters via Presidential
-  Memorandum
+title: Trump Authorizes Foreign Construction of Arctic Security Cutters via Presidential Memorandum
 importance: 7
 actors:
 - Donald Trump
@@ -16,11 +15,10 @@ tags:
 - military
 sources:
 - url: https://www.whitehouse.gov/fact-sheets/2025/10/fact-sheet-president-donald-j-trump-authorizes-construction-of-arctic-security-cutters/
-  title: 'Fact Sheet: President Donald J. Trump Authorizes Construction of Arctic
-    Security Cutters'
-  publisher: The White House
+  title: 'Fact Sheet: President Donald J. Trump Authorizes Construction of Arctic Security Cutters'
   date: '2025-10-09'
   tier: 1
+  outlet: The White House
 ---
 
 President Trump signed a Presidential Memorandum on October 9, 2025, authorizing the construction of up to four Arctic Security Cutters (ASCs) abroad to address 'urgent national security needs' in the Arctic region. The memorandum invokes presidential authority under 14 U.S.C. 1151(b) and 10 U.S.C. 8679(b) to permit foreign construction, bypassing traditional U.S. shipbuilding requirements and potentially undermining domestic manufacturing capabilities.

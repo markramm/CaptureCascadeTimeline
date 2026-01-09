@@ -9,12 +9,11 @@ actors:
 - Treasury Department
 - Corporate Sponsors
 sources:
-- title: Trump Allies Sold Sponsorships to What Appeared to Be a Treasury Event. It
-    Wasn't.
+- title: Trump Allies Sold Sponsorships to What Appeared to Be a Treasury Event. It Wasn't.
   url: https://www.wsj.com/politics/policy/1789-capital-treasury-event-fake-sponsorships-a8c2e3f4
-  publisher: Wall Street Journal
   date: '2025-10-13'
   tier: 1
+  outlet: The Wall Street Journal
 tags:
 - systematic-corruption
 - influence-peddling

@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.airandspaceforces.com/raytheon-utc-merger-approved-creating-second-largest-defense-company/
   title: Raytheon, UTC Merger Approved, Creating Second Largest Defense Company
-  publisher: Air & Space Forces Magazine
   date: '2020-04-03'
   tier: 2
+  outlet: Air & Space Forces Magazine
 - url: https://www.justice.gov/archives/opa/pr/justice-department-requires-divestitures-merger-between-utc-and-raytheon-address-vertical-and
   title: Justice Department Requires Divestitures in Merger Between UTC and Raytheon
-  publisher: U.S. Department of Justice
   date: '2020-03-27'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.defensenews.com/industry/2020/03/27/raytheon-utc-look-to-shed-segments-to-win-merger-approval/
   title: Raytheon-UTC merger wins approval, pending divestitures
-  publisher: Defense News
   date: '2020-03-27'
   tier: 2
+  outlet: Defense News
 - url: https://defense360.csis.org/what-comes-after-the-last-supper/
   title: What Comes after the 'Last Supper'?
-  publisher: CSIS
   date: '2020-06-08'
   tier: 2
+  outlet: CSIS
 actors:
 - Raytheon
 - United Technologies Corporation

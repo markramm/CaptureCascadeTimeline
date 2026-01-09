@@ -30,16 +30,13 @@ sources:
   date: '2023-09-22'
 - title: Justice Thomas attended at least two Koch donor summits
   url: https://www.washingtonpost.com/politics/2023/09/22/clarence-thomas-koch-network/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2023-09-22'
 - title: Clarence Thomas attended Koch network donor events
   url: https://www.cnn.com/2023/09/22/politics/clarence-thomas-koch-network-propublica/index.html
   outlet: CNN
   date: '2023-09-22'
-notes: Thomas attended at least two Koch donor summits over the years according to
-  three former network employees and one major donor. Koch network spent 15 years
-  building legal infrastructure to bring cases. Note - Alito's attendance at Koch
-  events not substantiated, though he has separate donor ethics issues.
+notes: Thomas attended at least two Koch donor summits over the years according to three former network employees and one major donor. Koch network spent 15 years building legal infrastructure to bring cases. Note - Alito's attendance at Koch events not substantiated, though he has separate donor ethics issues.
 status: confirmed
 ---
 

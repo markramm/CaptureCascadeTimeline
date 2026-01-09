@@ -17,19 +17,19 @@ actors:
 sources:
 - title: You are being followed - The business of social media surveillance
   url: https://littlesis.org/news/you-are-being-followed-the-business-of-social-media-surveillance/
-  publisher: Little Sis
   date: '2016-10-11'
   tier: 2
+  outlet: Little Sis
 - title: CIA-Backed Firm Touted Social Media Surveillance Of Students To Sell Services To Evanston Police
   url: https://shadowproof.com/2018/09/10/cia-backed-firm-touted-social-media-surveillance-of-students-to-sell-services-to-evanston-police/
-  publisher: Shadowproof
   date: '2018-09-10'
   tier: 2
+  outlet: Shadowproof
 - title: The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos
   url: https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/
-  publisher: The Intercept
   date: '2016-04-14'
   tier: 1
+  outlet: The Intercept
 status: confirmed
 ---
 

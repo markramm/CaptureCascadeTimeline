@@ -21,11 +21,10 @@ sources:
   date: '2019-07-08'
 - url: https://www.nytimes.com/2019/07/06/nyregion/jeffrey-epstein-arrested-sex-trafficking.html
   title: Jeffrey Epstein Charged With Sex Trafficking of Girls as Young as 14
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-07-06'
 - url: https://www.cnn.com/2019/07/06/us/jeffrey-epstein-arrested-sex-trafficking/index.html
-  title: Billionaire Jeffrey Epstein arrested on federal charges of sex trafficking
-    minors
+  title: Billionaire Jeffrey Epstein arrested on federal charges of sex trafficking minors
   outlet: CNN
   date: '2019-07-06'
 importance: 10

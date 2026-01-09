@@ -20,24 +20,24 @@ actors:
 sources:
 - url: https://www.nationalreview.com/corner/judge-consolidates-james-and-comey-motions-to-disqualify-halligan/
   title: Judge Consolidates James and Comey Motions to Disqualify Halligan
-  publisher: National Review
   date: '2025-10-24'
   tier: 2
+  outlet: National Review
 - url: https://www.notus.org/courts/lindsey-halligan-james-comey-prosecutor-appointment-trump-virginia
   title: Comey's Lawyers Argue Prosecutor Handling His Case Was Improperly Installed
-  publisher: Notus
   date: '2025-10-20'
   tier: 2
+  outlet: Notus
 - url: https://www.cnbc.com/2025/10/20/comey-trump-halligan-criminal-case.html
   title: James Comey asks judge to toss criminal case, says Trump-picked prosecutor Lindsey Halligan was appointed unlawfully
-  publisher: CNBC
   date: '2025-10-20'
   tier: 1
+  outlet: CNBC
 - url: https://www.cnn.com/2025/10/09/politics/trump-halligan-doj-appointment-challenged-comey
   title: Comey's challenge of Lindsey Halligan is the latest bid to derail Trump's top prosecutors
-  publisher: CNN
   date: '2025-10-09'
   tier: 1
+  outlet: CNN
 status: confirmed
 ---
 

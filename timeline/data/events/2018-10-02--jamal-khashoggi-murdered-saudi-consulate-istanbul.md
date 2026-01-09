@@ -19,26 +19,26 @@ actors:
 - Turkish intelligence
 - CIA
 sources:
-  - title: U.S. Intelligence Says Saudi Crown Prince Approved Operation
-    url: https://www.npr.org/2021/02/25/971215788/biden-administration-poised-to-release-report-on-killing-of-jamal-khashoggi
-    publisher: NPR
-    date: 2021-02-25
-    tier: 1
-  - title: Timeline of the murder of journalist Jamal Khashoggi
-    url: https://www.aljazeera.com/news/2021/2/26/timeline-of-the-murder-of-journalist-jamal-khashoggi
-    publisher: Al Jazeera
-    date: 2021-02-26
-    tier: 2
-  - title: Audio transcripts of Jamal Khashoggi's murder revealed
-    url: https://www.aljazeera.com/news/2019/9/10/audio-transcripts-of-jamal-khashoggis-murder-revealed
-    publisher: Al Jazeera
-    date: 2019-09-10
-    tier: 2
-  - title: 5 years after Jamal Khashoggi's murder, human rights groups call for justice
-    url: https://www.npr.org/2023/10/02/1202937036/jamal-khashoggi-mbs-murder-saudi-arabia-human-rights
-    publisher: NPR
-    date: 2023-10-02
-    tier: 1
+- title: U.S. Intelligence Says Saudi Crown Prince Approved Operation
+  url: https://www.npr.org/2021/02/25/971215788/biden-administration-poised-to-release-report-on-killing-of-jamal-khashoggi
+  date: 2021-02-25
+  tier: 1
+  outlet: NPR
+- title: Timeline of the murder of journalist Jamal Khashoggi
+  url: https://www.aljazeera.com/news/2021/2/26/timeline-of-the-murder-of-journalist-jamal-khashoggi
+  date: 2021-02-26
+  tier: 2
+  outlet: Al Jazeera
+- title: Audio transcripts of Jamal Khashoggi's murder revealed
+  url: https://www.aljazeera.com/news/2019/9/10/audio-transcripts-of-jamal-khashoggis-murder-revealed
+  date: 2019-09-10
+  tier: 2
+  outlet: Al Jazeera
+- title: 5 years after Jamal Khashoggi's murder, human rights groups call for justice
+  url: https://www.npr.org/2023/10/02/1202937036/jamal-khashoggi-mbs-murder-saudi-arabia-human-rights
+  date: 2023-10-02
+  tier: 1
+  outlet: NPR
 ---
 
 On October 2, 2018, Jamal Khashoggi, a 59-year-old Saudi dissident journalist living in Virginia and writing for the Washington Post, is murdered inside the Saudi consulate in Istanbul, Turkey. Khashoggi enters the consulate at approximately 1:14 PM to obtain official documents for his upcoming wedding. He never leaves alive.

@@ -4,30 +4,30 @@ date: 1982-03-23
 title: Guatemala Military Coup Brings Ríos Montt to Power with Reagan Support
 importance: 9
 tags:
-  - foreign-policy
-  - human-rights
-  - central-america
-  - genocide
-  - Reagan-administration
+- foreign-policy
+- human-rights
+- central-america
+- genocide
+- reagan-administration
 actors:
-  - Ronald Reagan
-  - Efraín Ríos Montt
+- Ronald Reagan
+- Efraín Ríos Montt
 sources:
-  - url: https://nsarchive.gwu.edu/briefing-book/guatemala/2018-05-10/guatemala-genocide-ruling-five-years-later
-    title: The Guatemala Genocide Ruling, Five Years Later
-    publisher: National Security Archive
-    date: 2018-05-10
-    tier: 1
-  - url: https://www.npr.org/sections/thetwo-way/2013/05/10/182867501/former-dictator-found-guilty-of-genocide-in-guatemala
-    title: Former Dictator Found Guilty Of Genocide In Guatemala
-    publisher: NPR
-    date: 2013-05-10
-    tier: 1
-  - url: https://abcnews.go.com/ABC_Univision/News/ronald-reagan-finance-genocide-guatemala/story?id=19179627
-    title: Did Reagan Finance Genocide in Guatemala?
-    publisher: ABC News
-    date: 2013-05-13
-    tier: 2
+- url: https://nsarchive.gwu.edu/briefing-book/guatemala/2018-05-10/guatemala-genocide-ruling-five-years-later
+  title: The Guatemala Genocide Ruling, Five Years Later
+  date: 2018-05-10
+  tier: 1
+  outlet: National Security Archive
+- url: https://www.npr.org/sections/thetwo-way/2013/05/10/182867501/former-dictator-found-guilty-of-genocide-in-guatemala
+  title: Former Dictator Found Guilty Of Genocide In Guatemala
+  date: 2013-05-10
+  tier: 1
+  outlet: NPR
+- url: https://abcnews.go.com/ABC_Univision/News/ronald-reagan-finance-genocide-guatemala/story?id=19179627
+  title: Did Reagan Finance Genocide in Guatemala?
+  date: 2013-05-13
+  tier: 2
+  outlet: ABC News
 ---
 
 General Efraín Ríos Montt seizes power in Guatemala through a military coup, beginning what would become the bloodiest period in the nation's history. The Reagan administration, seeking regional allies for its covert war against Nicaragua's Sandinista government, immediately embraces the new military dictator despite clear evidence of massive human rights violations.

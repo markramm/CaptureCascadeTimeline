@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.cfr.org/global-conflict-tracker/conflict/war-yemen
   title: Conflict in Yemen and the Red Sea
-  publisher: Council on Foreign Relations
   date: '2024-01-15'
   tier: 2
+  outlet: Council on Foreign Relations
 - url: https://www.hrw.org/news/2022/04/07/us-assistance-saudi-led-coalition-risks-complicity-war-crimes
   title: US Assistance to Saudi-Led Coalition Risks Complicity in War Crimes
-  publisher: Human Rights Watch
   date: '2022-04-07'
   tier: 1
+  outlet: Human Rights Watch
 - url: https://caat.org.uk/homepage/stop-arming-saudi-arabia/the-war-on-yemens-civilians/
   title: The war on Yemen's civilians
-  publisher: Campaign Against Arms Trade
   date: '2022-06-01'
   tier: 2
+  outlet: Campaign Against Arms Trade
 - url: https://magazine.columbia.edu/article/war-atrocities-yemen-linked-us-weapons
   title: War Atrocities in Yemen Linked to US Weapons
-  publisher: Columbia Magazine
   date: '2021-05-01'
   tier: 2
+  outlet: Columbia Magazine
 actors:
 - Saudi Arabia
 - Mohammed bin Salman

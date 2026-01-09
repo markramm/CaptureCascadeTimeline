@@ -4,32 +4,32 @@ title: Illicit Fentanyl Overtakes Prescription Opioids as Leading Cause of Overd
 date: '2016-01-01'
 importance: 9
 actors:
-  - Drug Enforcement Administration
-  - Centers for Disease Control and Prevention
-  - Illicit Fentanyl Suppliers
+- Drug Enforcement Administration
+- Centers for Disease Control and Prevention
+- Illicit Fentanyl Suppliers
 tags:
-  - opioid-crisis
-  - fentanyl
-  - synthetic-opioids
-  - public-health
-  - unintended-consequences
+- opioid-crisis
+- fentanyl
+- synthetic-opioids
+- public-health
+- unintended-consequences
 status: confirmed
 sources:
-  - title: Drug Overdose Deaths - Facts and Figures
-    url: https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates
-    publisher: National Institute on Drug Abuse
-    date: '2024-01-01'
-    tier: 1
-  - title: Are fentanyl overdose deaths rising in the US?
-    url: https://usafacts.org/articles/are-fentanyl-overdose-deaths-rising-in-the-us/
-    publisher: USAFacts
-    date: '2023-01-01'
-    tier: 2
-  - title: Drug and Opioid-Involved Overdose Deaths — United States, 2013–2017
-    url: https://www.cdc.gov/mmwr/volumes/67/wr/mm675152e1.htm
-    publisher: CDC MMWR
-    date: '2018-12-21'
-    tier: 1
+- title: Drug Overdose Deaths - Facts and Figures
+  url: https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates
+  date: '2024-01-01'
+  tier: 1
+  outlet: National Institute on Drug Abuse
+- title: Are fentanyl overdose deaths rising in the US?
+  url: https://usafacts.org/articles/are-fentanyl-overdose-deaths-rising-in-the-us/
+  date: '2023-01-01'
+  tier: 2
+  outlet: USAFacts
+- title: Drug and Opioid-Involved Overdose Deaths — United States, 2013–2017
+  url: https://www.cdc.gov/mmwr/volumes/67/wr/mm675152e1.htm
+  date: '2018-12-21'
+  tier: 1
+  outlet: CDC MMWR
 ---
 
 In 2016, illicit fentanyl and other synthetic opioids overtook prescription opioids as the leading cause of opioid overdose deaths in the United States, marking a deadly transition in the opioid epidemic. This shift represented the catastrophic unintended consequence of belated efforts to restrict prescription opioid access without providing adequate addiction treatment—users addicted to prescription pills transitioned to far more dangerous illicit drugs.

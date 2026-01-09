@@ -14,26 +14,26 @@ actors:
 - Barbara Comstock
 - Republican Party
 sources:
-- title: 'Paul Ryan said he won''t defend Donald Trump'
+- title: Paul Ryan said he won't defend Donald Trump
   url: https://www.cnn.com/2016/10/10/politics/paul-ryan-said-he-wont-defend-donald-trump/index.html
-  publisher: CNN
   date: '2016-10-10'
   tier: 1
-- title: 'McCain Joins Growing Ranks of Republicans Withdrawing Support for Trump'
+  outlet: CNN
+- title: McCain Joins Growing Ranks of Republicans Withdrawing Support for Trump
   url: https://abcnews.go.com/Politics/republican-lawmakers-condemn-trumps-leaked-comments-groping-women/story?id=42657879
-  publisher: ABC News
   date: '2016-10-08'
   tier: 1
-- title: 'Jason Chaffetz, Utah Republican, drops support for Trump'
+  outlet: ABC News
+- title: Jason Chaffetz, Utah Republican, drops support for Trump
   url: https://www.washingtontimes.com/news/2016/oct/8/chaffetz-drops-support-trump-over-candidates-comme/
-  publisher: Washington Times
   date: '2016-10-08'
   tier: 2
-- title: 'Paul Ryan Told Republicans They Could Drop Support For Trump In Wake Of Access Hollywood Tape'
+  outlet: Washington Times
+- title: Paul Ryan Told Republicans They Could Drop Support For Trump In Wake Of Access Hollywood Tape
   url: https://www.axios.com/2019/04/07/trump-paul-ryan-2016-election-access-hollywood
-  publisher: Axios
   date: '2019-04-07'
   tier: 2
+  outlet: Axios
 tags:
 - republican-party
 - trump-campaign

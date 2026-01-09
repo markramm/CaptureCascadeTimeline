@@ -4,37 +4,37 @@ date: 2018-06-11
 title: Supreme Court Upholds Ohio's Aggressive "Use It Or Lose It" Voter Purge System
 importance: 8
 tags:
-  - voting-rights
-  - supreme-court
-  - voter-purge
-  - ohio
-  - voter-suppression
+- voting-rights
+- supreme-court
+- voter-purge
+- ohio
+- voter-suppression
 actors:
-  - Supreme Court
-  - Samuel Alito
-  - Sonia Sotomayor
-  - Jon Husted
+- Supreme Court
+- Samuel Alito
+- Sonia Sotomayor
+- Jon Husted
 sources:
-  - url: https://www.npr.org/2018/06/11/618870982/supreme-court-upholds-controversial-ohio-voter-purge-law
-    title: Supreme Court Upholds Controversial Ohio Voter-Purge Law
-    publisher: NPR
-    date: 2018-06-11
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-rules-ohios-controversial-system-purging-voters-legal
-    title: Supreme Court Rules Ohio's Controversial System for Purging Voters is Legal
-    publisher: Brennan Center for Justice
-    date: 2018-06-11
-    tier: 1
-  - url: https://www.nbcnews.com/politics/supreme-court/ohio-wins-supreme-court-fight-over-voter-registration-n873226
-    title: Supreme Court gives Ohio right to purge thousands of voters from its rolls
-    publisher: NBC News
-    date: 2018-06-11
-    tier: 1
-  - url: https://www.lwv.org/newsroom/press-releases/supreme-court-upholds-unreasonable-voter-purge-standard
-    title: Supreme Court Upholds Unreasonable Voter Purge Standard
-    publisher: League of Women Voters
-    date: 2018-06-11
-    tier: 2
+- url: https://www.npr.org/2018/06/11/618870982/supreme-court-upholds-controversial-ohio-voter-purge-law
+  title: Supreme Court Upholds Controversial Ohio Voter-Purge Law
+  date: 2018-06-11
+  tier: 1
+  outlet: NPR
+- url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-rules-ohios-controversial-system-purging-voters-legal
+  title: Supreme Court Rules Ohio's Controversial System for Purging Voters is Legal
+  date: 2018-06-11
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.nbcnews.com/politics/supreme-court/ohio-wins-supreme-court-fight-over-voter-registration-n873226
+  title: Supreme Court gives Ohio right to purge thousands of voters from its rolls
+  date: 2018-06-11
+  tier: 1
+  outlet: NBC News
+- url: https://www.lwv.org/newsroom/press-releases/supreme-court-upholds-unreasonable-voter-purge-standard
+  title: Supreme Court Upholds Unreasonable Voter Purge Standard
+  date: 2018-06-11
+  tier: 2
+  outlet: League of Women Voters
 ---
 
 The Supreme Court rules 5-4 to uphold Ohio's aggressive voter purge system—the most severe in the nation—that removes voters from registration rolls if they fail to vote in a single federal election and don't return a mailed confirmation notice. Justice Samuel Alito's majority opinion greenlights aggressive voter purging nationwide, while Justice Sonia Sotomayor's dissent warns that the ruling "entirely ignores the history of voter suppression" and enables disenfranchisement of minority and low-income voters.

@@ -19,19 +19,19 @@ actors:
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-10-27/pardon-of-cz-how-binance-founder-aided-trump-family-crypto-venture
   title: How Zhao's Binance Aided Trump Family Crypto Venture Before Pardon
-  publisher: Bloomberg
   date: '2025-10-27'
   tier: 2
+  outlet: Bloomberg
 - url: https://www.cnn.com/2025/10/23/politics/binance-founder-trump-pardon
   title: Trump pardons Binance founder Changpeng Zhao
-  publisher: CNN
   date: '2025-10-23'
   tier: 1
+  outlet: CNN
 - url: https://www.axios.com/2025/10/23/trump-pardon-binance-cz
   title: Trump pardons convicted Binance founder Changpeng 'CZ' Zhao
-  publisher: Axios
   date: '2025-10-23'
   tier: 2
+  outlet: Axios
 status: confirmed
 ---
 

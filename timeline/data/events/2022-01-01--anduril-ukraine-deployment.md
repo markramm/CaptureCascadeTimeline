@@ -6,25 +6,23 @@ importance: 8
 actors:
 - Anduril Industries
 - Ukraine
-- Department of Defense
+- U.S. Department of Defense
 - Palmer Luckey
 tags:
-- Ukraine War
-- Autonomous Weapons
-- Military Aid
-- AI Weapons
-- Defense Contractors
+- ukraine war
+- autonomous weapons
+- military aid
+- ai weapons
+- defense contractors
 sources:
-- url: https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html
-  title: Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence
-    Since 2022
-  publisher: Defense Express
+- title: Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence Since 2022
+  url: https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html
+  outlet: Defense Express
   date: '2024-09-15'
   tier: 3
-- url: https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/
-  title: '''Battle-tested in Ukraine'' — How US drone makers turned Ukraine into a
-    tagline to sell west'
-  publisher: Kyiv Independent
+- title: '''Battle-tested in Ukraine'' — How US drone makers turned Ukraine into a tagline to sell west'
+  url: https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/
+  outlet: Kyiv Independent
   date: '2024-08-20'
   tier: 2
 ---

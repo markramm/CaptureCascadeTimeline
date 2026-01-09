@@ -10,20 +10,20 @@ actors:
 - Corporate members
 - State legislators
 tags:
-- ALEC
+- alec
 - state-capture
 - model-legislation
 - corporate-lobbying
 - transparency
 - leak
 sources:
-- title: 'ALEC Exposed'
+- title: ALEC Exposed
   url: https://www.alecexposed.org/wiki/ALEC_Exposed
   outlet: Center for Media and Democracy
   date: '2011-07-13'
   verified: true
   tier: 1
-- title: 'The Nation ALEC Exposed Coverage'
+- title: The Nation ALEC Exposed Coverage
   url: https://www.thenation.com/article/archive/alec-exposed/
   outlet: The Nation
   date: '2011-07-13'

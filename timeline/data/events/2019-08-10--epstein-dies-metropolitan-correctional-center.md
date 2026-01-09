@@ -21,7 +21,7 @@ sources:
   date: '2019-08-10'
 - url: https://www.washingtonpost.com/politics/investigators-scrutinize-broken-cameras-outside-epsteins-jail-cell/2019/08/26/3065c0b8-c827-11e9-a1fe-ca46e8d573c0_story.html
   title: Investigators scrutinize broken cameras outside Epstein's jail cell
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-08-26'
 - url: https://apnews.com/4ff27f28f32d446795b65ac7dd8cc4ac
   title: Guards on duty when Epstein died were offered plea deal

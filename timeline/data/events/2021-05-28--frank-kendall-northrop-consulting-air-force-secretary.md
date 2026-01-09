@@ -10,29 +10,29 @@ actors:
 - Joe Biden
 - U.S. Senate
 tags:
-- Revolving Door
-- Military-Industrial Complex
-- Defense Contractors
-- Corruption
-- Conflicts of Interest
-- Pentagon Leadership
-- Biden Administration
+- revolving door
+- military-industrial complex
+- defense contractors
+- corruption
+- conflicts of interest
+- pentagon leadership
+- biden administration
 sources:
 - url: https://responsiblestatecraft.org/2021/05/24/frank-kendall-flies-out-of-revolving-door-and-into-air-force-confirmation/
   title: Frank Kendall flies out of revolving door and into Air Force confirmation
-  publisher: Responsible Statecraft
   date: '2021-05-24'
   tier: 2
+  outlet: Responsible Statecraft
 - url: https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/
   title: Joe Biden Is Filling Top Pentagon Positions With Defense Contractors
-  publisher: The Intercept
   date: '2021-05-28'
   tier: 2
+  outlet: The Intercept
 - url: https://pogo.org/analysis/2022/01/the-pentagons-revolving-door-keeps-spinning-2021-in-review
-  title: "The Pentagon's Revolving Door Keeps Spinning: 2021 in Review"
-  publisher: Project on Government Oversight
+  title: 'The Pentagon''s Revolving Door Keeps Spinning: 2021 in Review'
   date: '2022-01-01'
   tier: 1
+  outlet: Project on Government Oversight
 ---
 
 President Joe Biden nominated Frank Kendall for Air Force Secretary in May 2021 despite Kendall having received $702,319 in consulting fees from Northrop Grumman as part of a $300,000 per year consulting contract after serving as Under Secretary of Defense for Acquisition, Technology and Logistics under President Obama. The nomination exemplified the Biden administration's embrace of the Pentagon revolving door, placing a recent Northrop Grumman consultant in charge of the Air Force at the exact moment the service was overseeing Northrop's $80 billion B-21 Raider bomber program, multibillion-dollar ICBM contracts, and numerous other major weapons systems that would generate enormous revenue for Kendall's recent employer.

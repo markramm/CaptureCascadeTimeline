@@ -6,24 +6,23 @@ importance: 9
 actors:
 - OpenAI
 - Anduril Industries
-- Department of Defense
+- U.S. Department of Defense
 - Palmer Luckey
 tags:
-- Autonomous Weapons
-- AI Weapons
-- Military-Industrial Complex
-- Tech Industry
-- Defense Contractors
+- autonomous weapons
+- ai weapons
+- military-industrial complex
+- tech industry
+- defense contractors
 sources:
-- url: https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/
-  title: We saw a demo of the new AI system powering Anduril's vision for war
-  publisher: MIT Technology Review
+- title: We saw a demo of the new AI system powering Anduril's vision for war
+  url: https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/
+  outlet: MIT Technology Review
   date: '2024-12-10'
   tier: 1
-- url: https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/
-  title: Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of
-    warfare
-  publisher: CBS News
+- title: Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare
+  url: https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/
+  outlet: CBS News
   date: '2024-12-08'
   tier: 2
 ---

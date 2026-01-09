@@ -1,8 +1,7 @@
 ---
 id: 2017-04-05--steve-bannon-removed-from-national-security-council-after-unprecedented-political-appointment
 date: '2017-04-05'
-title: Steve Bannon Removed from National Security Council After Unprecedented Political
-  Appointment Sparked Bipartisan Outrage
+title: Steve Bannon Removed from National Security Council After Unprecedented Political Appointment Sparked Bipartisan Outrage
 importance: 8
 tags:
 - steve-bannon
@@ -20,19 +19,19 @@ actors:
 sources:
 - url: https://www.npr.org/2017/04/05/522733074/trump-chief-strategist-steve-bannon-removed-from-national-security-council
   title: Trump Chief Strategist Steve Bannon Removed From National Security Council
-  publisher: NPR
   date: '2017-04-05'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/steve-bannon-removed-national-security-council-n742926
   title: Steve Bannon Removed From National Security Council
-  publisher: NBC News
   date: '2017-04-05'
   tier: 1
+  outlet: NBC News
 - url: https://www.pbs.org/newshour/nation/trump-removes-steve-bannon-national-security-council
   title: Trump removes Steve Bannon from National Security Council
-  publisher: PBS NewsHour
   date: '2017-04-05'
   tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 ---
 

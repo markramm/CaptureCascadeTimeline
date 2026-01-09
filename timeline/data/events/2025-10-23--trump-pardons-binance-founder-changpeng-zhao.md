@@ -39,7 +39,7 @@ sources:
   tier: 1
 - title: Trump pardons Binance founder Changpeng 'CZ' Zhao
   url: https://www.washingtonpost.com/business/2025/10/23/trump-pardon-binance-zhao/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-10-23'
   tier: 1
 - title: Trump pardons Binance founder Changpeng Zhao
@@ -57,8 +57,7 @@ sources:
   outlet: Bloomberg
   date: '2025-10-27'
   tier: 1
-- title: Trump's Pardon Of Changpeng Zhao Reportedly Followed Binance's High Level
-    Task Force, $2 Billion Stablecoin Deal
+- title: Trump's Pardon Of Changpeng Zhao Reportedly Followed Binance's High Level Task Force, $2 Billion Stablecoin Deal
   url: https://finance.yahoo.com/news/trumps-pardon-changpeng-zhao-reportedly-203116262.html
   outlet: Yahoo Finance
   date: '2025-10-23'

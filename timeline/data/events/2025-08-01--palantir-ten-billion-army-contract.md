@@ -17,20 +17,19 @@ tags:
 sources:
 - url: https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html
   title: Palantir lands $10 billion Army software and data contract
-  publisher: CNBC
   date: '2025-08-01'
   tier: 2
+  outlet: CNBC
 - url: https://breakingdefense.com/2025/08/army-consolidates-dozens-of-palantir-software-contracts-into-one-deal-worth-up-to-10-billion/
-  title: Army consolidates dozens of Palantir software contracts into one deal worth
-    up to $10 billion
-  publisher: Breaking Defense
+  title: Army consolidates dozens of Palantir software contracts into one deal worth up to $10 billion
   date: '2025-08-01'
   tier: 2
+  outlet: Breaking Defense
 - url: https://www.axios.com/2025/08/05/palantir-army-software-contract
   title: Palantir's $10 billion Army contract continues its D.C. win streak
-  publisher: Axios
   date: '2025-08-05'
   tier: 2
+  outlet: Axios
 ---
 
 The U.S. Army awarded Palantir Technologies a decade-long Enterprise Service Agreement worth up to $10 billion for AI-driven battlefield analysis and targeting systems. The contract consolidates 75 existing contracts (15 prime contracts and 60 related contracts) into a single agreement, accelerating delivery of commercial software to warfighters while removing contract and reseller pass-through fees.

@@ -18,26 +18,26 @@ tags:
 - task-forces
 - federalism
 sources:
-- title: 'The American Legislative Exchange Council (ALEC)'
+- title: The American Legislative Exchange Council (ALEC)
   url: https://www.cjcj.org/media/import/documents/the_american_legislative_exchange_council.pdf
-  publisher: Center on Juvenile and Criminal Justice
   date: '2011-01-01'
   tier: 2
-- title: "Paul Weyrich's Troika Reunited: ALEC Partners with Republican Study Committee at Heritage Foundation"
+  outlet: Center on Juvenile and Criminal Justice
+- title: 'Paul Weyrich''s Troika Reunited: ALEC Partners with Republican Study Committee at Heritage Foundation'
   url: https://www.prwatch.org/news/2012/09/11752/paul-weyrichs-troika-reunited-alec-partners-republican-study-committee-heritage-f
-  publisher: PR Watch (Center for Media and Democracy)
   date: '2012-09-27'
   tier: 2
+  outlet: PR Watch (Center for Media and Democracy)
 - title: American Legislative Exchange Council
   url: https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council
-  publisher: SourceWatch (Center for Media and Democracy)
   date: '2024-01-01'
   tier: 2
-- title: 'After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever'
+  outlet: SourceWatch (Center for Media and Democracy)
+- title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
   url: https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/
-  publisher: The American Prospect
   date: '2023-10-04'
   tier: 2
+  outlet: The American Prospect
 status: confirmed
 capture_lanes:
 - Legislative Capture

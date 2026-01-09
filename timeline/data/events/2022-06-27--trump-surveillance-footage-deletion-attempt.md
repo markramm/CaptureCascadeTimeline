@@ -18,22 +18,19 @@ status: confirmed
 sources:
 - title: Trump charged with seeking to delete security footage in documents case
   url: https://www.washingtonpost.com/national-security/2023/07/27/trump-carlos-deoliveira-classified-indictment/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2023-07-27'
 - title: 'Trump allegedly attempted to have surveillance video deleted: Special counsel'
   url: https://abcnews.go.com/US/mar-lago-staffer-charged-special-counsels-classified-documents/story?id=101741061
   outlet: ABC News
   date: '2023-07-27'
-- title: Trump charged with trying to delete Mar-a-Lago surveillance footage in new
-    indictment
+- title: Trump charged with trying to delete Mar-a-Lago surveillance footage in new indictment
   url: https://thehill.com/regulation/court-battles/4123941-trump-charged-with-trying-to-delete-mar-a-lago-surveillance-footage-in-new-indictment/
   outlet: The Hill
   date: '2023-07-27'
-notes: 'De Oliveira, a 20-year Trump employee who became property manager in January
-  2022, asked
+notes: 'De Oliveira, a 20-year Trump employee who became property manager in January 2022, asked
 
-  about server retention period (45 days) before requesting deletion. He later lied
-  to FBI
+  about server retention period (45 days) before requesting deletion. He later lied to FBI
 
   in January 2023 interview, saying he "never saw nothing" regarding boxes. This brought
 

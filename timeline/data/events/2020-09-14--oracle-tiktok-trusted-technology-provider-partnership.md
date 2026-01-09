@@ -18,19 +18,19 @@ actors:
 sources:
 - title: Oracle Preferred to be TikTok Partner in the US
   url: https://en.tempo.co/read/1987062/oracle-preferred-to-be-tiktok-partner-in-the-us
-  publisher: Tempo
   date: '2020-09-14'
   tier: 2
+  outlet: Tempo
 - title: Oracle met with Senate aides about TikTok data storage after House ban passed
   url: https://www.cnbc.com/2024/04/22/oracle-met-with-senate-aides-on-tiktok-data-housing-project.html
-  publisher: CNBC
   date: '2024-04-22'
   tier: 2
+  outlet: CNBC
 - title: Why Oracle could be key to a TikTok deal
   url: https://sg.news.yahoo.com/why-oracle-could-key-tiktok-193000985.html
-  publisher: Yahoo News
   date: '2025-09-17'
   tier: 2
+  outlet: Yahoo News
 ---
 
 Oracle Corporation announced on September 14, 2020, that ByteDance had selected Oracle as TikTok's "trusted technology provider" in the United States, positioning Oracle to provide cloud infrastructure services and security oversight for TikTok's U.S. operations. The announcement came amid intense pressure from the Trump administration, which had threatened to ban TikTok unless ByteDance divested the app to an American company due to national security concerns about Chinese government access to American user data.

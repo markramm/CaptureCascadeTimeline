@@ -4,30 +4,30 @@ date: 2022-04-12
 title: Amazon Injury Rate Double Warehouse Industry Average - 6.8 Per 100 Workers
 importance: 9
 actors:
-  - Amazon
-  - Strategic Organizing Center
+- Amazon
+- Strategic Organizing Center
 tags:
-  - Worker Exploitation
-  - Corporate Accountability
-  - Amazon
-  - Labor Rights
-  - Worker Safety
+- worker exploitation
+- corporate accountability
+- amazon
+- labor rights
+- worker safety
 sources:
-  - url: https://www.cnbc.com/2023/04/12/study-amazon-workers-seriously-hurt-at-twice-rate-of-other-warehouses.html
-    title: "Amazon workers seriously injured at more than twice the rate of other warehouses, study finds"
-    publisher: CNBC
-    date: 2023-04-12
-    tier: 1
-  - url: https://www.seattletimes.com/business/amazons-injury-rate-jumped-20-last-year-new-report-shows/
-    title: "Amazon's injury rate jumped 20% last year, new report shows"
-    publisher: The Seattle Times
-    date: 2022-04-12
-    tier: 1
-  - url: https://warehouseworkers.org/wp-content/uploads/2023/04/SOC_In-Denial_Amazon-Injury-Report-April-2023.pdf
-    title: "In Denial: Amazon's Continuing Failure to Fix Its Injury Crisis"
-    publisher: Strategic Organizing Center
-    date: 2023-04-01
-    tier: 1
+- url: https://www.cnbc.com/2023/04/12/study-amazon-workers-seriously-hurt-at-twice-rate-of-other-warehouses.html
+  title: Amazon workers seriously injured at more than twice the rate of other warehouses, study finds
+  date: 2023-04-12
+  tier: 1
+  outlet: CNBC
+- url: https://www.seattletimes.com/business/amazons-injury-rate-jumped-20-last-year-new-report-shows/
+  title: Amazon's injury rate jumped 20% last year, new report shows
+  date: 2022-04-12
+  tier: 1
+  outlet: The Seattle Times
+- url: https://warehouseworkers.org/wp-content/uploads/2023/04/SOC_In-Denial_Amazon-Injury-Report-April-2023.pdf
+  title: 'In Denial: Amazon''s Continuing Failure to Fix Its Injury Crisis'
+  date: 2023-04-01
+  tier: 1
+  outlet: Strategic Organizing Center
 status: confirmed
 ---
 

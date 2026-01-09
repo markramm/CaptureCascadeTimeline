@@ -1,8 +1,7 @@
 ---
 id: 2025-09-06--kash-patel-krispy-kreme-conflict
 date: '2025-09-06'
-title: FBI Director Kash Patel's Krispy Kreme Stock Purchase Raises Conflict of Interest
-  Concerns
+title: FBI Director Kash Patel's Krispy Kreme Stock Purchase Raises Conflict of Interest Concerns
 importance: 8
 actors:
 - Kash Patel
@@ -12,20 +11,19 @@ actors:
 sources:
 - url: https://www.cnn.com/2025/09/17/business/kash-patel-krispy-kreme-shares
   title: The FBI director just spurred a brief Krispy Kreme rally
-  publisher: CNN
   date: '2025-09-17'
   tier: 1
+  outlet: CNN
 - url: https://www.notus.org/policy/kash-patel-krispy-kreme-investment-fbi-data-breach-probe
-  title: Kash Patel Says His Krispy Kreme Investment Isn't a Conflict, Despite FBI
-    Data-Breach Probe
-  publisher: Notus
+  title: Kash Patel Says His Krispy Kreme Investment Isn't a Conflict, Despite FBI Data-Breach Probe
   date: '2025-09-06'
   tier: 2
+  outlet: Notus
 - url: https://www.benzinga.com/news/politics/25/09/47729209/fbi-director-kash-patel-bought-2-stocks-in-2025-ones-already-a-meme-favorite
   title: FBI Director Kash Patel Buys 2 Stocks In 2025, One A Meme Favorite
-  publisher: Benzinga
   date: '2025-09-17'
   tier: 2
+  outlet: Benzinga
 tags:
 - conflicts-of-interest
 - ethics-violations

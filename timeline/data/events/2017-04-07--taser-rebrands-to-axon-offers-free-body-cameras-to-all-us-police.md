@@ -17,19 +17,19 @@ actors:
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2017/04/07/522878573/we-re-more-than-stun-guns-says-taser-as-it-changes-company-name
   title: We're More Than Stun Guns, Says Taser As It Changes Company Name
-  publisher: NPR
   date: '2017-04-07'
   tier: 1
+  outlet: NPR
 - url: https://techcrunch.com/2017/04/05/taser-rebrands-as-axon-and-offers-free-body-cameras-to-any-police-department/
   title: Taser rebrands as Axon and offers free body cameras to any police department
-  publisher: TechCrunch
   date: '2017-04-05'
   tier: 1
+  outlet: TechCrunch
 - url: https://www.axon.com/news/our-future-as-axon
   title: Our Future as Axon
-  publisher: Axon
   date: '2017-04-05'
   tier: 2
+  outlet: Axon
 status: confirmed
 ---
 

@@ -19,24 +19,24 @@ status: confirmed
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2018/05/07/609225537/sessions-says-zero-tolerance-for-illegal-border-crossers-vows-to-divide-families
   title: Sessions Says 'Zero Tolerance' For Illegal Border Crossers, Vows To Divide Families
-  publisher: NPR
   date: '2018-05-07'
   tier: 1
+  outlet: NPR
 - url: https://www.hrw.org/news/2018/08/16/qa-trump-administrations-zero-tolerance-immigration-policy
-  title: "Q&A: Trump Administration's 'Zero-Tolerance' Immigration Policy"
-  publisher: Human Rights Watch
+  title: 'Q&A: Trump Administration''s ''Zero-Tolerance'' Immigration Policy'
   date: '2018-08-16'
   tier: 1
+  outlet: Human Rights Watch
 - url: https://www.npr.org/2021/01/14/957011268/justice-department-knew-2018-border-policy-would-separate-families
   title: Justice Department Knew 2018 Border Policy Would Separate Children From Families
-  publisher: NPR
   date: '2021-01-14'
   tier: 1
+  outlet: NPR
 - url: https://www.americanimmigrationcouncil.org/report/family-separation-policy/
-  title: "A Look Back at the Family Separation Policy: The Struggle to Uncover the Truth Behind the Trump Administration's Wrongdoings"
-  publisher: American Immigration Council
+  title: 'A Look Back at the Family Separation Policy: The Struggle to Uncover the Truth Behind the Trump Administration''s Wrongdoings'
   date: '2024-06-18'
   tier: 1
+  outlet: American Immigration Council
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

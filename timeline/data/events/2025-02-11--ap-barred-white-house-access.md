@@ -39,7 +39,7 @@ sources:
   date: '2025-02-14'
 - title: Associated Press White House ban lifted by court
   url: https://www.washingtonpost.com/style/media/2025/04/08/associated-press-white-house-ban-lifted
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-04-08'
 ---
 

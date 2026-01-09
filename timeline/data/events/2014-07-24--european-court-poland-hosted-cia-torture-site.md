@@ -21,24 +21,24 @@ tags:
 sources:
 - title: European Court Finds Poland Violated Rights by Hosting CIA Secret Prison
   url: https://www.justiceinitiative.org/newsroom/european-court-finds-poland-violated-rights-by-hosting-cia-secret-prison
-  publisher: Open Society Justice Initiative
   date: '2014-07-24'
   tier: 1
+  outlet: Open Society Justice Initiative
 - title: Lithuania and Romania Complicit for Hosting CIA Black Sites
   url: https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/
-  publisher: Verfassungsblog
   date: '2018-06-07'
   tier: 2
+  outlet: Verfassungsblog
 - title: CIA Black Sites
   url: https://en.wikipedia.org/wiki/CIA_black_sites
-  publisher: Wikipedia (sourced from ECHR rulings)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from ECHR rulings)
 - title: European Complicity in CIA Torture in Black Sites
   url: https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/
-  publisher: Amnesty International
   date: '2020-02-14'
   tier: 1
+  outlet: Amnesty International
 ---
 
 The European Court of Human Rights issues a landmark ruling finding that Poland violated the European Convention on Human Rights by allowing the CIA to operate a secret torture prison on its territory from December 2002 to September 2003. The court conclusively determines that Poland hosted a CIA black site where Abu Zubaydah and Abd al-Rahim al-Nashiri were subjected to torture including waterboarding, stress positions, sleep deprivation, and other techniques that constitute inhuman and degrading treatment. The ruling represents the first international court judgment holding a European democracy accountable for complicity in the CIA's post-9/11 torture program.

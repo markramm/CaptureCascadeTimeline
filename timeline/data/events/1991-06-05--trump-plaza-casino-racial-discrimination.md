@@ -1,33 +1,33 @@
 ---
 id: 1991-06-05--trump-plaza-casino-racial-discrimination
 date: 1991-06-05
-title: "Trump Plaza Fined $200,000 for Removing Black Employees from Gaming Floor"
+title: Trump Plaza Fined $200,000 for Removing Black Employees from Gaming Floor
 importance: 7
 tags:
-  - Racism
-  - Trump Business
-  - Casino
-  - Employment Discrimination
+- racism
+- trump business
+- casino
+- employment discrimination
 actors:
-  - Donald Trump
-  - Robert LiButti
-  - Kip Brown
+- Donald Trump
+- Robert LiButti
+- Kip Brown
 sources:
-  - url: https://www.upi.com/Archives/1992/10/19/Trump-Plaza-loses-appeal-of-discrimination-penalty/1911719467200/
-    title: "Trump Plaza loses appeal of discrimination penalty"
-    publisher: UPI Archives
-    date: 1992-10-19
-    tier: 1
-  - url: https://slate.com/news-and-politics/2016/03/donald-trump-robert-libutti-and-black-trump-plaza-employees.html
-    title: "Donald Trump, Robert LiButti, and black Trump Plaza employees"
-    publisher: Slate
-    date: 2016-03-10
-    tier: 1
-  - url: https://www.cardplayer.com/poker-news/19262-casino-took-black-employees-off-floor-when-donald-trump-was-around-former-employee
-    title: "Casino Took Black Employees Off Floor When Donald Trump Was Around: Former Employee"
-    publisher: Card Player
-    date: 2015-07-10
-    tier: 1
+- url: https://www.upi.com/Archives/1992/10/19/Trump-Plaza-loses-appeal-of-discrimination-penalty/1911719467200/
+  title: Trump Plaza loses appeal of discrimination penalty
+  date: 1992-10-19
+  tier: 1
+  outlet: UPI Archives
+- url: https://slate.com/news-and-politics/2016/03/donald-trump-robert-libutti-and-black-trump-plaza-employees.html
+  title: Donald Trump, Robert LiButti, and black Trump Plaza employees
+  date: 2016-03-10
+  tier: 1
+  outlet: Slate
+- url: https://www.cardplayer.com/poker-news/19262-casino-took-black-employees-off-floor-when-donald-trump-was-around-former-employee
+  title: 'Casino Took Black Employees Off Floor When Donald Trump Was Around: Former Employee'
+  date: 2015-07-10
+  tier: 1
+  outlet: Card Player
 ---
 
 New Jersey casino regulators fined Trump Plaza Hotel and Casino $200,000—at the time one of the largest civil rights penalties ever imposed on an Atlantic City casino—for systematically removing Black employees and women from craps tables to accommodate the racist demands of Robert LiButti, a mob-linked high roller. The New Jersey Casino Control Commission doubled the gaming division's recommended fine after determining the discrimination was "gravely serious."

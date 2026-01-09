@@ -1,8 +1,7 @@
 ---
 id: 2017-01-29--trump-approves-botched-yemen-raid-navy-seal-owens-killed-civilian-casualties
 date: '2017-01-29'
-title: Trump Approves Botched Yemen Raid Killing Navy SEAL Owens and 23+ Civilians
-  Including 8-Year-Old American Girl
+title: Trump Approves Botched Yemen Raid Killing Navy SEAL Owens and 23+ Civilians Including 8-Year-Old American Girl
 importance: 9
 tags:
 - military-incompetence
@@ -18,14 +17,14 @@ actors:
 sources:
 - url: https://www.npr.org/sections/parallels/2017/02/02/512490365/yemen-aftermath-trumps-first-military-raid-continues-to-raise-questions
   title: 'Yemen Raid: Questions Swirl About Trump''s First Military Operation'
-  publisher: NPR
   date: '2017-02-02'
   tier: 1
+  outlet: NPR
 - url: https://www.npr.org/sections/thetwo-way/2017/02/27/517496770/father-of-navy-seal-killed-in-yemen-raid-has-harsh-words-for-trump
   title: Father Of Navy SEAL Killed In Yemen Raid Has Harsh Words For Trump
-  publisher: NPR
   date: '2017-02-27'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

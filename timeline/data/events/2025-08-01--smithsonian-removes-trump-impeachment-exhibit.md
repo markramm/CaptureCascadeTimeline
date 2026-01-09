@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--smithsonian-removes-trump-impeachment-exhibit
 date: '2025-08-01'
-title: Smithsonian Removes Trump Impeachment References from National Museum of American
-  History
+title: Smithsonian Removes Trump Impeachment References from National Museum of American History
 importance: 8
 actors:
 - Smithsonian Institution
@@ -16,21 +15,19 @@ tags:
 sources:
 - url: https://www.npr.org/2025/08/01/g-s1-80602/smithsonian-impeachment-trump
   title: Trump's impeachments have been removed from a Smithsonian exhibit, for now
-  publisher: NPR
   date: '2025-08-01'
   tier: 1
+  outlet: NPR
 - url: https://www.cnn.com/2025/08/01/politics/smithsonian-trump-impeachment-exhibit-museum
-  title: Smithsonian temporarily removes reference to Trump's impeachments from presidency
-    exhibit
-  publisher: CNN
+  title: Smithsonian temporarily removes reference to Trump's impeachments from presidency exhibit
   date: '2025-08-01'
   tier: 2
+  outlet: CNN
 - url: https://www.pbs.org/newshour/politics/smithsonian-removes-trump-from-an-exhibits-impeachment-display-but-says-its-temporary
-  title: Smithsonian removes Trump from an exhibit's impeachment display, but says
-    it's temporary
-  publisher: PBS
+  title: Smithsonian removes Trump from an exhibit's impeachment display, but says it's temporary
   date: '2025-08-01'
   tier: 1
+  outlet: PBS
 ---
 
 The Smithsonian's National Museum of American History removed references to President Donald Trump's two impeachments from its presidential power exhibit following White House pressure. The museum claimed the removal was part of a content review undertaken after pressure to remove an art museum director, stating they would restore the exhibit to its 2008 appearance since other topics in the section had not been updated since then.

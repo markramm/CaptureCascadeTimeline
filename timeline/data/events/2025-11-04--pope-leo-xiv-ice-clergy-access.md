@@ -26,24 +26,24 @@ actors:
 sources:
 - title: Pope Leo XIV calls for ICE to allow clergy access to detained migrants
   url: https://www.americamagazine.org/politics-society/2025/11/04/pope-leo-xiv-ice-detention-clergy-access
-  publisher: America Magazine
   date: '2025-11-04'
   tier: 2
+  outlet: America Magazine
 - title: Pope asks ICE to allow pastoral care for detained immigrants
   url: https://www.chicagotribune.com/2025/11/04/pope-leo-xiv-ice-clergy-broadview/
-  publisher: Chicago Tribune
   date: '2025-11-04'
   tier: 2
+  outlet: Chicago Tribune
 - title: Pope Leo XIV urges U.S. authorities to permit clergy visits to ICE detainees
   url: https://www.axios.com/2025/11/04/pope-leo-xiv-ice-detention-religious-access
-  publisher: Axios
   date: '2025-11-04'
   tier: 2
+  outlet: Axios
 - title: American Pope challenges ICE over religious freedom for migrants
   url: https://www.ncronline.org/news/pope-leo-xiv-ice-clergy-access-detention
-  publisher: National Catholic Reporter
   date: '2025-11-04'
   tier: 2
+  outlet: National Catholic Reporter
 ---
 
 Pope Leo XIV issued a direct challenge to U.S. Immigration and Customs Enforcement on November 4, 2025, calling on ICE authorities to allow pastoral workers and clergy to minister to detained migrants. Speaking from Castel Gandolfo, the papal summer residence, Pope Leo XIV stated he "would certainly invite the authorities to allow pastoral workers to attend to the needs" of migrants in ICE detention, while calling for "deep reflection" on the broader treatment of detained immigrants. The statement came amid growing controversy over ICE's denial of religious access at multiple detention facilities, most notably the Broadview ICE Processing Center near Chicago—the Pope's hometown.

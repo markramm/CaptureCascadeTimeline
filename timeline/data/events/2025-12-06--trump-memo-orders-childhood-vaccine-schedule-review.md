@@ -15,9 +15,9 @@ actors:
 tags:
 - public-health
 - vaccines
-- RFK-Jr
-- CDC
-- HHS
+- rfk-jr
+- cdc
+- hhs
 - child-safety
 - political-manipulation
 - anti-vaccine

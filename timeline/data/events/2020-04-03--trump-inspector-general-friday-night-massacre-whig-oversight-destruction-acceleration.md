@@ -1,8 +1,7 @@
 ---
 id: 2020-04-03--trump-inspector-general-friday-night-massacre-whig-oversight-destruction-acceleration
 date: '2020-04-03'
-title: Trump Inspector General Friday Night Massacre Systematically Accelerates WHIG
-  Oversight Destruction Precedent for Constitutional Crisis Operations
+title: Trump Inspector General Friday Night Massacre Systematically Accelerates WHIG Oversight Destruction Precedent for Constitutional Crisis Operations
 actors:
 - Donald Trump
 - Michael Atkinson
@@ -24,18 +23,15 @@ tags:
 - executive-immunity-infrastructure
 - oligarchic-governance-enabling
 sources:
-- title: Trump fires intelligence community inspector general who handled whistleblower
-    complaint
+- title: Trump fires intelligence community inspector general who handled whistleblower complaint
   url: https://www.cnn.com/2020/04/03/politics/trump-intelligence-community-inspector-general-whistleblower/index.html
   outlet: CNN
   date: '2020-04-04'
-- title: Trump's systematic removal of inspectors general creates 'constitutional
-    crisis'
+- title: Trump's systematic removal of inspectors general creates 'constitutional crisis'
   url: https://www.washingtonpost.com/politics/2020/05/21/trumps-systematic-removal-inspectors-general-creates-constitutional-crisis/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2020-05-21'
-- title: Trump administration's inspector general purge echoes Bush-era oversight
-    destruction
+- title: Trump administration's inspector general purge echoes Bush-era oversight destruction
   url: https://www.politico.com/news/2020/05/19/trump-inspector-general-firings-oversight-265219
   outlet: Politico
   date: '2020-05-19'
@@ -46,20 +42,11 @@ triggered_by:
 - 2005-12-16--whig-precedent-enables-ongoing-surveillance-state-constitutional-crisis
 - 2019-02-14--barr-confirmation-systematic-doj-politicization-whig-template-acceleration
 constitutional_violations:
-- Systematic elimination of independent oversight through coordinated inspector general
-  purges
-- Constitutional accountability mechanism destruction enabling executive immunity
-  operations
-- Democratic constraint removal through systematic capture of internal accountability
-  systems
-- Separation of powers corruption through executive elimination of legislative oversight
-  tools
-historical_significance: The Inspector General Friday Night Massacre represents the
-  systematic acceleration of WHIG oversight destruction precedent into comprehensive
-  elimination of accountability infrastructure, demonstrating how Bush-era crisis
-  exploitation template enables permanent institutional capture through systematic
-  removal of democratic constraints. This marks the culmination of WHIG precedent
-  implementation for ongoing constitutional crisis operations.
+- Systematic elimination of independent oversight through coordinated inspector general purges
+- Constitutional accountability mechanism destruction enabling executive immunity operations
+- Democratic constraint removal through systematic capture of internal accountability systems
+- Separation of powers corruption through executive elimination of legislative oversight tools
+historical_significance: The Inspector General Friday Night Massacre represents the systematic acceleration of WHIG oversight destruction precedent into comprehensive elimination of accountability infrastructure, demonstrating how Bush-era crisis exploitation template enables permanent institutional capture through systematic removal of democratic constraints. This marks the culmination of WHIG precedent implementation for ongoing constitutional crisis operations.
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

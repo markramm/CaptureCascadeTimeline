@@ -25,7 +25,7 @@ status: confirmed
 sources:
 - title: Key Players in the Valerie Plame Affair
   url: https://www.washingtonpost.com/wp-srv/politics/special/plame/Plame_KeyPlayers.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-07-03'
 - title: 23 Administration Officials Involved In Plame Leak
   url: https://thinkprogress.org/23-administration-officials-involved-in-plame-leak-ea5a42de4684/
@@ -33,7 +33,7 @@ sources:
   date: '2005-10-21'
 - title: A War on Wilson?
   url: https://content.time.com/time/nation/article/0,8599,465270,00.html
-  outlet: Time Magazine
+  outlet: TIME
   date: '2003-07-17'
 capture_lanes:
 - Media Capture & Control

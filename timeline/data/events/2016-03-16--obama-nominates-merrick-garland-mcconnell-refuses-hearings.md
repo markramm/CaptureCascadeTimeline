@@ -4,36 +4,36 @@ date: '2016-03-16'
 title: Obama Nominates Merrick Garland to Supreme Court, McConnell and Senate Republicans Refuse to Hold Hearings or Vote
 importance: 9
 tags:
-  - Supreme Court
-  - Judicial Appointments
-  - Obstruction
-  - Institutional Corruption
+- supreme court
+- judicial appointments
+- obstruction
+- institutional corruption
 actors:
-  - Barack Obama
-  - Merrick Garland
-  - Mitch McConnell
-  - Chuck Grassley
+- Barack Obama
+- Merrick Garland
+- Mitch McConnell
+- Chuck Grassley
 sources:
-  - title: What Happened With Merrick Garland In 2016 And Why It Matters Now
-    url: https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now
-    publisher: NPR
-    date: '2018-06-29'
-    tier: 1
-  - title: McConnell Blocking Supreme Court Nomination About A Principle Not A Person
-    url: https://www.npr.org/2016/03/16/470664561/mcconnell-blocking-supreme-court-nomination-about-a-principle-not-a-person
-    publisher: NPR
-    date: '2016-03-16'
-    tier: 1
-  - title: Merrick Garland Supreme Court Nomination
-    url: https://en.wikipedia.org/wiki/Merrick_Garland_Supreme_Court_nomination
-    publisher: Wikipedia
-    date: '2020-09-18'
-    tier: 3
-  - title: Tracking the Controversy Over Judge Garland's Nomination
-    url: https://constitutioncenter.org/blog/tracking-the-controversy-over-judge-garlands-nomination
-    publisher: National Constitution Center
-    date: '2016-03-17'
-    tier: 2
+- title: What Happened With Merrick Garland In 2016 And Why It Matters Now
+  url: https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now
+  date: '2018-06-29'
+  tier: 1
+  outlet: NPR
+- title: McConnell Blocking Supreme Court Nomination About A Principle Not A Person
+  url: https://www.npr.org/2016/03/16/470664561/mcconnell-blocking-supreme-court-nomination-about-a-principle-not-a-person
+  date: '2016-03-16'
+  tier: 1
+  outlet: NPR
+- title: Merrick Garland Supreme Court Nomination
+  url: https://en.wikipedia.org/wiki/Merrick_Garland_Supreme_Court_nomination
+  date: '2020-09-18'
+  tier: 3
+  outlet: Wikipedia
+- title: Tracking the Controversy Over Judge Garland's Nomination
+  url: https://constitutioncenter.org/blog/tracking-the-controversy-over-judge-garlands-nomination
+  date: '2016-03-17'
+  tier: 2
+  outlet: National Constitution Center
 ---
 
 On March 16, 2016, President Barack Obama nominated Merrick B. Garland, the widely respected Chief Judge of the U.S. Court of Appeals for the District of Columbia Circuit, to fill the Supreme Court vacancy created by Justice Antonin Scalia's death one month earlier. Garland was considered a moderate consensus candidate whom Republicans had previously praised—precisely the kind of qualified, confirmable nominee who would typically receive bipartisan support. Senate Majority Leader Mitch McConnell and Senate Republicans, however, refused to hold any hearings, meet with Garland, or allow any vote on the nomination, executing an unprecedented 293-day blockade that denied a sitting president the ability to fulfill his constitutional duty and stole a Supreme Court seat that would later be filled by Trump nominee Neil Gorsuch.

@@ -12,9 +12,9 @@ tags:
 sources:
 - url: https://www.reuters.com/legal/sec-moves-dismiss-case-against-nikola-founder-trevor-milton-2025-09-12/
   title: SEC Dismisses Case Against Nikola Founder After Trump Pardon
-  publisher: Reuters
   date: '2025-09-12'
   tier: 1
+  outlet: Reuters
 actors:
 - Trevor Milton
 - Securities and Exchange Commission

@@ -1,8 +1,7 @@
 ---
 id: 2017-01-11--trump-announces-sham-business-conflicts-plan-retains-ownership-sons-run-company
 date: '2017-01-11'
-title: 'Trump Announces Sham Business Conflicts Plan: Retains Ownership While Sons
-  Run Company - Rejects Divestment'
+title: 'Trump Announces Sham Business Conflicts Plan: Retains Ownership While Sons Run Company - Rejects Divestment'
 importance: 10
 tags:
 - emoluments
@@ -21,14 +20,14 @@ actors:
 sources:
 - url: https://www.npr.org/2017/01/11/509179572/president-elect-trump-announces-plan-to-address-business-conflicts
   title: President-Elect Trump Announces Plan To Address Business Conflicts
-  publisher: NPR
   date: '2017-01-11'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/show/trumps-plan-company-enough-avoid-conflicts-interest
   title: Is Trump's plan for his company enough to avoid conflicts of interest?
-  publisher: PBS NewsHour
   date: '2017-01-11'
   tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 ---
 

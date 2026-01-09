@@ -15,8 +15,7 @@ date: '2018-10-01'
 id: 2018-10-01--operation-faithful-patriot
 importance: 6
 location: US-Mexico Border
-notes: Unprecedented active-duty military deployment to border just before midterm
-  elections
+notes: Unprecedented active-duty military deployment to border just before midterm elections
 sources:
 - archive_url: https://web.archive.org/web/20250814000000/https://www.defense.gov/News/faithful-patriot
   date: '2018-10-29'
@@ -25,7 +24,7 @@ sources:
   url: https://www.defense.gov/News/faithful-patriot
 - archive_url: https://web.archive.org/web/20250814000000/https://www.gao.gov/products/gao-19-416
   date: '2019-06-01'
-  outlet: Government Accountability Office
+  outlet: GAO
   title: GAO cost analysis of deployment
   url: https://www.gao.gov/products/gao-19-416
 - archive_url: https://web.archive.org/web/20250815000000/https://www.nbcnews.com/politics/white-house/pentagon-send-5-200-troops-u-s-mexico-border-operation-n925866

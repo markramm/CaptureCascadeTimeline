@@ -4,31 +4,31 @@ date: 2019-10-24
 title: Federal Judge Holds DeVos in Contempt for Illegally Collecting on Corinthian Loans - $100K Fine
 importance: 9
 tags:
-  - contempt-of-court
-  - betsy-devos
-  - student-debt
-  - corinthian-colleges
-  - rule-of-law
+- contempt-of-court
+- betsy-devos
+- student-debt
+- corinthian-colleges
+- rule-of-law
 actors:
-  - Betsy DeVos
-  - Sallie Kim
-  - Department of Education
+- Betsy DeVos
+- Sallie Kim
+- Department of Education
 sources:
-  - url: https://www.npr.org/2019/10/25/773334681/devos-held-in-contempt-of-court-ed-department-fined-100-000-in-student-loan-case
-    title: DeVos Held In Contempt Of Court For Enforcing Loans On Defrauded College Students
-    publisher: NPR
-    date: 2019-10-25
-    tier: 1
-  - url: https://www.ppsl.org/news/news/press-releases/betsy-devos-held-in-contempt-for-illegal-collection-student-debts
-    title: DeVos Held In Contempt For Illegal Collection of Student Debts
-    publisher: Project on Predatory Student Lending
-    date: 2019-10-24
-    tier: 1
-  - url: https://www.cbsnews.com/news/betsy-devos-found-in-contempt-of-court-violating-student-loans-order/
-    title: Betsy DeVos found in contempt of court for violating order on student loans
-    publisher: CBS News
-    date: 2019-10-24
-    tier: 1
+- url: https://www.npr.org/2019/10/25/773334681/devos-held-in-contempt-of-court-ed-department-fined-100-000-in-student-loan-case
+  title: DeVos Held In Contempt Of Court For Enforcing Loans On Defrauded College Students
+  date: 2019-10-25
+  tier: 1
+  outlet: NPR
+- url: https://www.ppsl.org/news/news/press-releases/betsy-devos-held-in-contempt-for-illegal-collection-student-debts
+  title: DeVos Held In Contempt For Illegal Collection of Student Debts
+  date: 2019-10-24
+  tier: 1
+  outlet: Project on Predatory Student Lending
+- url: https://www.cbsnews.com/news/betsy-devos-found-in-contempt-of-court-violating-student-loans-order/
+  title: Betsy DeVos found in contempt of court for violating order on student loans
+  date: 2019-10-24
+  tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

@@ -12,19 +12,19 @@ tags:
 sources:
 - title: ICE Agents Shoot U.S. Citizen in Los Angeles Area
   url: https://www.democracynow.org/2025/11/4/headlines/ice_agents_shoot_us_citizen_in_los_angeles_area
-  publisher: Democracy Now
   date: '2025-11-04'
   tier: 1
+  outlet: Democracy Now
 - title: US Citizen Shot From Behind by ICE, Lawyers Say
   url: https://www.newsweek.com/ice-shooting-california-10980288
-  publisher: Newsweek
   date: '2025-11-04'
   tier: 2
+  outlet: Newsweek
 - title: CAIR-LA Expresses Deep Concern Over Shooting of U.S. Citizen by ICE
   url: https://ca.cair.com/press-release/cair-la-expresses-deep-concern-over-shooting-of-u-s-citizen-by-ice-calls-for-independent-probe/
-  publisher: CAIR California
   date: '2025-11-04'
   tier: 2
+  outlet: CAIR California
 actors:
 - ICE
 - Carlos Jimenez

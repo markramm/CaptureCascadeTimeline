@@ -9,7 +9,7 @@ actors:
 - American Legislative Exchange Council
 - Henry Hyde
 tags:
-- ALEC
+- alec
 - paul-weyrich
 - model-legislation
 - state-capture
@@ -28,7 +28,7 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever'
+- title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
   url: https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/
   outlet: The American Prospect
   date: '2023-10-04'

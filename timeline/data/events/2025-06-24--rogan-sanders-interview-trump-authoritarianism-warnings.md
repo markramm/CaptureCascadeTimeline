@@ -18,14 +18,14 @@ actors:
 sources:
 - title: Bernie Sanders Spars With Joe Rogan Over Trump's '60 Minutes' Lawsuit
   url: https://variety.com/2025/tv/news/bernie-sanders-joe-rogan-trump-60-minutes-lawsuit-intimidation-1236440068/
-  publisher: Variety
   date: '2025-06-25'
   tier: 2
+  outlet: Variety
 - title: Bernie Sanders pressed by Joe Rogan during interview about his presidential plans in 2028
   url: https://www.yahoo.com/news/sen-bernie-sanders-pressed-joe-075312776.html
-  publisher: Yahoo News
   date: '2025-06-24'
   tier: 2
+  outlet: Yahoo News
 status: confirmed
 ---
 

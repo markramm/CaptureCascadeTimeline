@@ -1,8 +1,7 @@
 ---
 id: 2002-11-09--new-york-times-exposes-tia-surveillance-program
 date: '2002-11-09'
-title: New York Times Exposes Total Information Awareness Surveillance Program, Sparking
-  Public Outcry
+title: New York Times Exposes Total Information Awareness Surveillance Program, Sparking Public Outcry
 importance: 9
 actors:
 - New York Times
@@ -17,24 +16,24 @@ tags:
 - privacy
 - media
 - investigative-journalism
-- TIA
+- tia
 - mass-surveillance
 - civil-liberties
-- Fourth-Amendment
+- fourth-amendment
 sources:
-- url: https://archive.epic.org/privacy/profiling/tia/
-  title: Total Terrorism Information Awareness (TIA)
-  publisher: Electronic Privacy Information Center
+- title: Total Terrorism Information Awareness (TIA)
+  url: https://archive.epic.org/privacy/profiling/tia/
+  outlet: Electronic Privacy Information Center
   date: '2003-09-30'
   tier: 1
-- url: https://en.wikipedia.org/wiki/Total_Information_Awareness
-  title: Total Information Awareness
-  publisher: Wikipedia
+- title: Total Information Awareness
+  url: https://en.wikipedia.org/wiki/Total_Information_Awareness
+  outlet: Wikipedia
   date: '2024-01-15'
   tier: 2
-- url: https://www.sourcewatch.org/index.php/Total_Information_Awareness
-  title: Total Information Awareness
-  publisher: SourceWatch
+- title: Total Information Awareness
+  url: https://www.sourcewatch.org/index.php/Total_Information_Awareness
+  outlet: SourceWatch
   date: '2024-01-10'
   tier: 2
 ---

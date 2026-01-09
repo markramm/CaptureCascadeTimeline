@@ -4,33 +4,33 @@ date: 2018-12-18
 title: Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - NY Attorney General
-  - Legal Settlement
-  - Barbara Underwood
+- trump foundation
+- charity fraud
+- ny attorney general
+- legal settlement
+- barbara underwood
 actors:
-  - Donald Trump
-  - Trump Foundation
-  - Barbara Underwood
-  - New York Attorney General
+- Donald Trump
+- Trump Foundation
+- Barbara Underwood
+- New York Attorney General
 status: confirmed
 sources:
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial
-    title: AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision
-    publisher: New York Attorney General
-    date: 2018-12-18
-    tier: 1
-  - url: https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html
-    title: Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'
-    publisher: New York Times
-    date: 2018-12-18
-    tier: 1
-  - url: https://www.npr.org/2018/12/18/677778958/trump-foundation-to-dissolve-amid-new-york-ags-investigation
-    title: Trump Foundation To Dissolve Amid New York AG's Investigation
-    publisher: NPR
-    date: 2018-12-18
-    tier: 1
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial
+  title: AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision
+  date: 2018-12-18
+  tier: 1
+  outlet: New York Attorney General
+- url: https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html
+  title: Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'
+  date: 2018-12-18
+  tier: 1
+  outlet: The New York Times
+- url: https://www.npr.org/2018/12/18/677778958/trump-foundation-to-dissolve-amid-new-york-ags-investigation
+  title: Trump Foundation To Dissolve Amid New York AG's Investigation
+  date: 2018-12-18
+  tier: 1
+  outlet: NPR
 ---
 
 The Donald J. Trump Foundation reached a settlement with the New York Attorney General agreeing to dissolve under court supervision and admitting to a pattern of illegal coordination with Trump's 2016 presidential campaign. The stipulation filed in New York State Supreme Court required the Foundation to distribute all remaining assets (approximately $1.7 million) to legitimate charities approved by the Attorney General and the court. Critically, the agreement included admissions by Trump that his Foundation coordinated illegally with his campaign during the January 2016 Iowa veterans fundraiser and that campaign staff directed foundation activities in violation of federal law prohibiting 501(c)(3) organizations from participating in political campaigns.

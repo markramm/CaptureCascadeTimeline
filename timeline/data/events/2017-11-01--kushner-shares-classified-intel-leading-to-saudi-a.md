@@ -27,7 +27,7 @@ sources:
   date: '2018-03-21'
 - title: The Khashoggi murder and Trump's response
   url: https://www.nytimes.com/2018/11/20/world/middleeast/trump-saudi-khashoggi.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-11-20'
 capture_lanes:
 - Media Capture & Control

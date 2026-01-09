@@ -9,14 +9,14 @@ actors:
 sources:
 - title: 'Exclusive: Meta launches super PAC to fight AI regulation'
   url: https://www.axios.com/2025/09/23/meta-superpac-ai-regulation
-  publisher: Axios
   date: '2025-09-23'
   tier: 2
+  outlet: Axios
 - title: Artificial Intelligence 2025 Legislation
   url: https://www.ncsl.org/technology-and-communication/artificial-intelligence-2025-legislation
-  publisher: National Conference of State Legislatures
   date: '2025'
   tier: 1
+  outlet: National Conference of State Legislatures
 tags:
 - meta
 - ai-regulation

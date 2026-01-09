@@ -4,36 +4,36 @@ date: '2023-05-09'
 title: Jury Finds Trump Liable for Sexual Abuse and Defamation of E. Jean Carroll, Awards $5 Million
 importance: 9
 tags:
-  - Sexual Abuse
-  - E. Jean Carroll
-  - Civil Liability
-  - Jury Verdict
-  - Defamation
+- sexual abuse
+- e. jean carroll
+- civil liability
+- jury verdict
+- defamation
 actors:
-  - E. Jean Carroll
-  - Donald Trump
-  - Lewis Kaplan
+- E. Jean Carroll
+- Donald Trump
+- Lewis Kaplan
 sources:
-  - url: https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict
-    title: A jury finds Trump liable for battery and defamation in E. Jean Carroll trial
-    publisher: NPR
-    date: '2023-05-09'
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case
-    title: Judge upholds the $5 million verdict against Trump in E. Jean Carroll's sex abuse and defamation case
-    publisher: PBS
-    date: '2023-07-19'
-    tier: 1
-  - url: https://news.wttw.com/2023/05/09/jury-finds-donald-trump-liable-sexual-abuse-awards-accuser-5m
-    title: Jury Finds Donald Trump Liable for Sexual Abuse, Awards Accuser $5M
-    publisher: WTTW Chicago
-    date: '2023-05-09'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/judge-tosses-trumps-counterclaim-e-jean-carroll-finding-rape-claim-sub-rcna98577
-    title: Judge tosses Trump's counterclaim against E. Jean Carroll, finding rape claim is 'substantially true'
-    publisher: NBC News
-    date: '2023-08-07'
-    tier: 1
+- url: https://www.npr.org/2023/05/09/1174975870/trump-carroll-verdict
+  title: A jury finds Trump liable for battery and defamation in E. Jean Carroll trial
+  date: '2023-05-09'
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case
+  title: Judge upholds the $5 million verdict against Trump in E. Jean Carroll's sex abuse and defamation case
+  date: '2023-07-19'
+  tier: 1
+  outlet: PBS
+- url: https://news.wttw.com/2023/05/09/jury-finds-donald-trump-liable-sexual-abuse-awards-accuser-5m
+  title: Jury Finds Donald Trump Liable for Sexual Abuse, Awards Accuser $5M
+  date: '2023-05-09'
+  tier: 1
+  outlet: WTTW Chicago
+- url: https://www.nbcnews.com/politics/donald-trump/judge-tosses-trumps-counterclaim-e-jean-carroll-finding-rape-claim-sub-rcna98577
+  title: Judge tosses Trump's counterclaim against E. Jean Carroll, finding rape claim is 'substantially true'
+  date: '2023-08-07'
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

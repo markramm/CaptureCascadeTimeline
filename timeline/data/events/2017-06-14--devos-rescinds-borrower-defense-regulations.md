@@ -4,29 +4,29 @@ date: 2017-06-14
 title: DeVos Freezes Borrower Defense Rule Protecting Defrauded Students - States Sue for Unlawful Delay
 importance: 8
 tags:
-  - regulatory-capture
-  - student-debt
-  - betsy-devos
-  - for-profit-colleges
+- regulatory-capture
+- student-debt
+- betsy-devos
+- for-profit-colleges
 actors:
-  - Betsy DeVos
-  - Maura Healey
+- Betsy DeVos
+- Maura Healey
 sources:
-  - url: https://www.npr.org/sections/thetwo-way/2017/07/06/535776573/18-states-sue-betsy-devos-and-education-dept-over-delay-of-borrower-defense-rule
-    title: 18 States Sue Betsy DeVos And Education Dept. Over Delay Of Borrower Defense Rule
-    publisher: NPR
-    date: 2017-07-06
-    tier: 1
-  - url: https://oag.ca.gov/news/press-releases/attorney-general-becerra-and-18-state-attorneys-general-sue-betsy-devos-and-us
-    title: Attorney General Becerra and 18 State Attorneys General Sue Betsy DeVos
-    publisher: California Attorney General
-    date: 2017-07-06
-    tier: 1
-  - url: https://www.pbs.org/newshour/education/betsy-devos-freezes-obama-era-protections-student-borrowers
-    title: Betsy DeVos freezes Obama-era protections for student borrowers
-    publisher: PBS
-    date: 2017-06-14
-    tier: 1
+- url: https://www.npr.org/sections/thetwo-way/2017/07/06/535776573/18-states-sue-betsy-devos-and-education-dept-over-delay-of-borrower-defense-rule
+  title: 18 States Sue Betsy DeVos And Education Dept. Over Delay Of Borrower Defense Rule
+  date: 2017-07-06
+  tier: 1
+  outlet: NPR
+- url: https://oag.ca.gov/news/press-releases/attorney-general-becerra-and-18-state-attorneys-general-sue-betsy-devos-and-us
+  title: Attorney General Becerra and 18 State Attorneys General Sue Betsy DeVos
+  date: 2017-07-06
+  tier: 1
+  outlet: California Attorney General
+- url: https://www.pbs.org/newshour/education/betsy-devos-freezes-obama-era-protections-student-borrowers
+  title: Betsy DeVos freezes Obama-era protections for student borrowers
+  date: 2017-06-14
+  tier: 1
+  outlet: PBS
 status: confirmed
 ---
 

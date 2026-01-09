@@ -15,9 +15,9 @@ actors:
 sources:
 - url: https://www.usatoday.com/story/news/politics/2025/10/17/trump-infrastructure-freeze-democratic-cities/
   title: Trump Freezes $11 Billion in Infrastructure Projects in Opposition-Led Cities
-  publisher: USA Today
   date: '2025-10-17'
   tier: 2
+  outlet: USA Today
 status: confirmed
 ---
 

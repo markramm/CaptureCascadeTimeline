@@ -1,10 +1,8 @@
 ---
 id: 2025-03-19--donald-trump-jr-mixes-business-and-politics-in-serbia-as-pro
 date: '2025-03-19'
-title: Donald Trump Jr. meets Serbian president to promote Trump hotel amid massive
-  protests
-description: Trump Jr promotes Belgrade hotel project while supporting embattled Serbian
-  president amid protests
+title: Donald Trump Jr. meets Serbian president to promote Trump hotel amid massive protests
+description: Trump Jr promotes Belgrade hotel project while supporting embattled Serbian president amid protests
 status: confirmed
 importance: 9
 location: Belgrade, Serbia
@@ -24,10 +22,9 @@ capture_lanes:
 - Financial Corruption & Kleptocracy
 - Corporate Capture & Regulatory Breakdown
 sources:
-- title: Donald Trump Jr. mixes business and politics in Serbia, as protests there
-    rage
+- title: Donald Trump Jr. mixes business and politics in Serbia, as protests there rage
   url: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-03-19'
 - title: Trump Jr. Meets Embattled Leader Vucic in Surprise Serbia Visit
   url: https://www.bloomberg.com/news/articles/2025-03-11/trump-jr-meets-embattled-leader-vucic-in-surprise-serbia-visit

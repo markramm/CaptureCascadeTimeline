@@ -12,24 +12,24 @@ tags:
 sources:
 - url: https://www.npr.org/2025/12/20/nx-s1-5650758/epstein-files-doj-trump-photo
   title: Available to download Friday, some Epstein files no longer there Saturday afternoon
-  publisher: NPR
   date: '2025-12-20'
   tier: 1
+  outlet: NPR
 - url: https://www.cbsnews.com/live-updates/epstein-files-released-2025/
   title: New Epstein files include photos, documents with redactions as DOJ releases initial trove of records
-  publisher: CBS News
   date: '2025-12-20'
   tier: 1
+  outlet: CBS News
 - url: https://www.cnn.com/2025/12/20/politics/jeffrey-epstein-files-released-doj
   title: What's inside the Epstein files released by the Justice Department
-  publisher: CNN
   date: '2025-12-20'
   tier: 1
+  outlet: CNN
 - url: https://theramm.substack.com/p/the-epstein-files
   title: The Epstein Files
-  publisher: The RAMM
   date: '2025-12-20'
   tier: 2
+  outlet: The RAMM
 actors:
 - Department of Justice
 - Donald Trump

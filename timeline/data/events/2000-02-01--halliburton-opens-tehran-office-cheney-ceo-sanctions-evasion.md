@@ -17,17 +17,17 @@ actors:
 sources:
 - url: https://www.democracynow.org/2003/7/16/trading_with_the_enemy_halliburton_ge
   title: Trading With the Enemy - Halliburton & GE Make Millions Trading With Iran
-  publisher: Democracy Now
   date: '2003-07-16'
   tier: 2
+  outlet: Democracy Now
 - url: https://archive.thinkprogress.org/flashback-as-halliburton-ceo-cheney-evaded-u-s-law-to-do-business-with-iran-832cbeb2a568/
   title: As Halliburton CEO, Cheney Evaded U.S. Law To Do Business With Iran
-  publisher: ThinkProgress
   tier: 3
+  outlet: ThinkProgress
 - url: https://www.corpwatch.org/article/cheney-halliburton-and-spoils-war
   title: Cheney, Halliburton and the Spoils of War
-  publisher: CorpWatch
   tier: 3
+  outlet: CorpWatch
 status: confirmed
 ---
 

@@ -4,29 +4,29 @@ date: 2004-11-21
 title: Trump Hotels & Casino Resorts Files Bankruptcy, Trump Removed as CEO
 importance: 7
 tags:
-  - Bankruptcy
-  - Business Failure
-  - Atlantic City
-  - Casinos
-  - Financial History
-  - Debt
-  - Corporate Governance
+- bankruptcy
+- business failure
+- atlantic city
+- casinos
+- financial history
+- debt
+- corporate governance
 sources:
-  - url: https://lasvegassun.com/news/2004/dec/16/trump-hotels-casino-resorts-files-plan-to-exit-ban/
-    title: "Trump Hotels & Casino Resorts files plan to exit bankruptcy"
-    publisher: Las Vegas Sun
-    date: 2004-12-16
-    tier: 1
-  - url: https://www.politifact.com/factchecks/2015/sep/21/carly-fiorina/trumps-four-bankruptcies/
-    title: "Fact-checking claims about Donald Trump's four bankruptcies"
-    publisher: PolitiFact
-    date: 2015-09-21
-    tier: 1
-  - url: https://ir.law.utk.edu/cgi/viewcontent.cgi?article=1048&context=utk_studlawbankruptcy
-    title: "Trump Entertainment Resorts: Three Bankruptcies and the Failure to Make America Great Again"
-    publisher: University of Tennessee College of Law
-    date: 2017
-    tier: 1
+- url: https://lasvegassun.com/news/2004/dec/16/trump-hotels-casino-resorts-files-plan-to-exit-ban/
+  title: Trump Hotels & Casino Resorts files plan to exit bankruptcy
+  date: 2004-12-16
+  tier: 1
+  outlet: Las Vegas Sun
+- url: https://www.politifact.com/factchecks/2015/sep/21/carly-fiorina/trumps-four-bankruptcies/
+  title: Fact-checking claims about Donald Trump's four bankruptcies
+  date: 2015-09-21
+  tier: 1
+  outlet: PolitiFact
+- url: https://ir.law.utk.edu/cgi/viewcontent.cgi?article=1048&context=utk_studlawbankruptcy
+  title: 'Trump Entertainment Resorts: Three Bankruptcies and the Failure to Make America Great Again'
+  date: 2017
+  tier: 1
+  outlet: University of Tennessee College of Law
 ---
 
 Trump Hotels and Casino Resorts, the publicly traded company that operated Trump's Atlantic City casino empire, filed for Chapter 11 bankruptcy protection on November 21, 2004, unable to make a $73 million interest payment due November 1. The company was drowning in approximately $1.8 billion of debt accumulated from years of overleveraged casino operations and unsuccessful expansion attempts. The bankruptcy forced Trump to relinquish his CEO title and drastically reduce his ownership stake from 47 percent to 27 percent, though he remained the largest individual shareholder and maintained his role as chairman.

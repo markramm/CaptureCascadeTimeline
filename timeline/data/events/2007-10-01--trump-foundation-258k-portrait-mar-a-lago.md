@@ -4,31 +4,31 @@ date: 2007-10-01
 title: Trump Foundation Pays $258,000 for Six-Foot Portrait of Trump at Charity Auction
 importance: 8
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Self-Dealing
-  - Tax Violations
-  - Mar-a-Lago
+- trump foundation
+- charity fraud
+- self-dealing
+- tax violations
+- mar-a-lago
 actors:
-  - Donald Trump
-  - Trump Foundation
+- Donald Trump
+- Trump Foundation
 status: confirmed
 sources:
-  - url: https://www.washingtonpost.com/politics/a-clue-to-the-whereabouts-of-the-6-foot-tall-portrait-of-donald-trump/2016/09/14/ae65db82-7a8f-11e6-ac8e-cf8e0dd91dc7_story.html
-    title: A clue to the whereabouts of the 6-foot-tall portrait of Donald Trump
-    publisher: Washington Post
-    date: 2016-09-14
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
-    title: Trump used $258,000 from his charity to settle legal problems
-    publisher: Washington Post
-    date: 2016-09-20
-    tier: 1
-  - url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
-    title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
-    publisher: New York Attorney General
-    date: 2018-06-14
-    tier: 1
+- url: https://www.washingtonpost.com/politics/a-clue-to-the-whereabouts-of-the-6-foot-tall-portrait-of-donald-trump/2016/09/14/ae65db82-7a8f-11e6-ac8e-cf8e0dd91dc7_story.html
+  title: A clue to the whereabouts of the 6-foot-tall portrait of Donald Trump
+  date: 2016-09-14
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.washingtonpost.com/politics/trump-used-258000-from-his-charity-to-settle-legal-problems/2016/09/20/adc88f9c-7d11-11e6-ac8e-cf8e0dd91dc7_story.html
+  title: Trump used $258,000 from his charity to settle legal problems
+  date: 2016-09-20
+  tier: 1
+  outlet: The Washington Post
+- url: https://ag.ny.gov/press-release/2018/ag-underwood-announces-lawsuit-against-donald-j-trump-foundation-and-its-board
+  title: AG Underwood Announces Lawsuit Against Donald J. Trump Foundation And Its Board
+  date: 2018-06-14
+  tier: 1
+  outlet: New York Attorney General
 ---
 
 The Donald J. Trump Foundation paid $258,000 in charitable funds to purchase a six-foot portrait of Donald Trump at a charity auction in Palm Beach, Florida. The portrait, painted by artist William Quigley, was supposed to be sold to benefit charity, but instead the Foundation used tax-exempt charitable donations to acquire an item of purely personal benefit to Trump. The massive portrait was later discovered hanging at Trump's Doral golf resort in Miami, confirming it provided no charitable purpose and instead decorated Trump's for-profit business property.

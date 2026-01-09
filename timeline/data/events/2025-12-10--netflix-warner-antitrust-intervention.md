@@ -1,40 +1,40 @@
 ---
-id: "2025-12-10--netflix-warner-antitrust-intervention"
-date: "2025-12-10"
-title: "Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount"
-summary: "President Trump publicly intervenes in the DOJ's antitrust review of Netflix's $72 billion acquisition of Warner Bros. Discovery, stating it 'could be a problem' due to market concentration and demanding that CNN be sold. Trump's intervention follows his administration's stated 'heavy skepticism' about the Netflix deal while favoring Paramount's competing bid, which is backed by Trump ally Larry Ellison. Legal experts warn that Trump's direct involvement in antitrust enforcement based on political considerations rather than competitive analysis represents dangerous politicization of law enforcement and departure from the rule of law, where deal approval depends on 'making promises' to Trump rather than meeting legal antitrust standards."
+id: 2025-12-10--netflix-warner-antitrust-intervention
+date: '2025-12-10'
+title: Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount
+summary: President Trump publicly intervenes in the DOJ's antitrust review of Netflix's $72 billion acquisition of Warner Bros. Discovery, stating it 'could be a problem' due to market concentration and demanding that CNN be sold. Trump's intervention follows his administration's stated 'heavy skepticism' about the Netflix deal while favoring Paramount's competing bid, which is backed by Trump ally Larry Ellison. Legal experts warn that Trump's direct involvement in antitrust enforcement based on political considerations rather than competitive analysis represents dangerous politicization of law enforcement and departure from the rule of law, where deal approval depends on 'making promises' to Trump rather than meeting legal antitrust standards.
 importance: 9
 actors:
-  - Donald Trump
-  - Netflix
-  - Warner Bros Discovery
-  - Paramount
-  - Larry Ellison
-  - DOJ
-  - Ted Sarandos
+- Donald Trump
+- Netflix
+- Warner Bros Discovery
+- Paramount
+- Larry Ellison
+- DOJ
+- Ted Sarandos
 tags:
-  - antitrust
-  - political-interference
-  - corruption
-  - DOJ
-  - media-consolidation
-  - cronyism
+- antitrust
+- political-interference
+- corruption
+- doj
+- media-consolidation
+- cronyism
 sources:
-  - url: "https://www.npr.org/2025/12/06/nx-s1-5634651/film-industry-reacts-to-news-that-netflix-is-set-to-acquire-warner-bros-discovery"
-    title: "Film industry reacts to news that Netflix is set to acquire Warner Bros. Discovery"
-    publisher: "NPR"
-    date: "2025-12-06"
-    tier: 1
-  - url: "https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415"
-    title: "Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say"
-    publisher: "ABC News"
-    date: "2025-12-10"
-    tier: 1
-  - url: "https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html"
-    title: "Trump admin views Netflix and Warner Bros. deal with 'heavy skepticism': Senior official"
-    publisher: "CNBC"
-    date: "2025-12-05"
-    tier: 2
+- url: https://www.npr.org/2025/12/06/nx-s1-5634651/film-industry-reacts-to-news-that-netflix-is-set-to-acquire-warner-bros-discovery
+  title: Film industry reacts to news that Netflix is set to acquire Warner Bros. Discovery
+  date: '2025-12-06'
+  tier: 1
+  outlet: NPR
+- url: https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415
+  title: Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say
+  date: '2025-12-10'
+  tier: 1
+  outlet: ABC News
+- url: https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html
+  title: 'Trump admin views Netflix and Warner Bros. deal with ''heavy skepticism'': Senior official'
+  date: '2025-12-05'
+  tier: 2
+  outlet: CNBC
 ---
 
 # Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount

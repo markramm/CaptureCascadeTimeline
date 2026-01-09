@@ -1,7 +1,7 @@
 ---
 id: 2022-01-01--starbucks-systematic-union-busting-nlrb-violations
 date: '2022-01-01'
-title: 'Starbucks Executes Systematic Union-Busting Campaign with Record NLRB Violations'
+title: Starbucks Executes Systematic Union-Busting Campaign with Record NLRB Violations
 importance: 8
 actors:
 - Starbucks
@@ -12,8 +12,8 @@ actors:
 tags:
 - labor-suppression
 - union-busting
-- Starbucks
-- NLRB
+- starbucks
+- nlrb
 - illegal-retaliation
 - captive-audience
 - worker-organizing
@@ -30,7 +30,7 @@ sources:
   date: '2023-01-01'
   verified: true
   tier: 1
-- title: 'NLRB Has Filed Repeated Charges Against Starbucks for Illegal Union Busting'
+- title: NLRB Has Filed Repeated Charges Against Starbucks for Illegal Union Busting
   url: https://jacobin.com/2022/12/starbucks-workers-united-illegal-union-busting-nlrb-union-organizing
   outlet: Jacobin
   date: '2022-12-01'

@@ -18,9 +18,9 @@ actors:
 sources:
 - url: https://www.wsj.com/articles/trump-irs-liberal-donors-investigation
   title: Trump Administration Weaponizes IRS Against Liberal Organizations
-  publisher: Wall Street Journal
   date: '2025-10-15'
   tier: 1
+  outlet: The Wall Street Journal
 status: confirmed
 ---
 

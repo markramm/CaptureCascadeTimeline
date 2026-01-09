@@ -33,11 +33,9 @@ sources:
   date: '2025-04-01'
 - title: WSJ wins for Musk-Putin coordination reporting
   url: https://www.wsj.com/articles/pulitzer-prize-musk-investigation
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-04-01'
-notes: Multiple major news organizations independently documenting same kleptocratic
-  patterns. Represents validation of systematic corruption framework by journalism's
-  highest honors.
+notes: Multiple major news organizations independently documenting same kleptocratic patterns. Represents validation of systematic corruption framework by journalism's highest honors.
 ---
 
 Multiple Pulitzer Prize-winning investigations in 2025 documented systematic kleptocratic patterns. Reuters won for "boldly reported exposé" of systematic regulatory failures enabling widespread corruption. Wall Street Journal's national reporting prize covered Elon Musk's systematic coordination between business interests and political power, including private conversations with Putin. Boston Globe's collaboration with Organized Crime and Corruption Reporting Project showed how "corporate malfeasance, personal greed and government neglect led to compromised care and deaths." Awards recognize unprecedented journalistic documentation of institutional capture.

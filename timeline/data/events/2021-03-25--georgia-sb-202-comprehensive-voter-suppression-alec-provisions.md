@@ -9,10 +9,10 @@ actors:
 - Secretary of State Brad Raffensperger
 - American Legislative Exchange Council (ALEC)
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
-- Georgia
+- georgia
 - big-lie
 - voting-rights
 - state-capture

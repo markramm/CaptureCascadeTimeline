@@ -1,8 +1,7 @@
 ---
 id: 2025-10-17--russell-vought-power-consolidation
 date: '2025-10-17'
-title: OMB Director Russell Vought Consolidates Authoritarian Control Over Federal
-  Government
+title: OMB Director Russell Vought Consolidates Authoritarian Control Over Federal Government
 importance: 9
 tags:
 - corruption
@@ -17,11 +16,10 @@ actors:
 - OMB
 sources:
 - url: https://www.propublica.org/article/russell-vought-budget-director-authoritarian-control
-  title: Budget Director Russell Vought Consolidates Authoritarian Control Over Federal
-    Government
-  publisher: ProPublica
+  title: Budget Director Russell Vought Consolidates Authoritarian Control Over Federal Government
   date: '2025-10-17'
   tier: 1
+  outlet: ProPublica
 status: confirmed
 ---
 

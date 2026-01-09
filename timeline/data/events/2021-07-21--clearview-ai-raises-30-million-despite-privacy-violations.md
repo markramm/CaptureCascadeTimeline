@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://www.clearview.ai/press-room/clearview-ai-closes-30-million-dollar-series-b-funding-round
   title: Clearview AI Closes 30 Million Dollar Series B Funding Round
-  publisher: Clearview AI
   date: '2021-07-26'
   tier: 3
+  outlet: Clearview AI
 - url: https://www.axios.com/2021/07/22/clearview-ai-series-b-funding-privacy-violations
   title: Clearview AI raises $30 million in Series B funding despite privacy investigations
-  publisher: Axios
   date: '2021-07-22'
   tier: 2
+  outlet: Axios
 - url: https://www.finsmes.com/2021/07/clearview-ai-closes-30m-series-b-funding.html
   title: Clearview AI Closes $30M Series B Funding
-  publisher: FinSMEs
   date: '2021-07-01'
   tier: 3
+  outlet: FinSMEs
 actors:
 - Clearview AI
 - Kirenaga Partners

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-20--us-attorney-siebert-resigns-trump-pressure
 date: '2025-09-20'
-title: Eastern District of Virginia US Attorney Erik Siebert Resigns Under Trump Pressure
-  to Charge Letitia James
+title: Eastern District of Virginia US Attorney Erik Siebert Resigns Under Trump Pressure to Charge Letitia James
 importance: 9
 actors:
 - Erik Siebert
@@ -20,17 +19,15 @@ tags:
 - obstruction-of-justice
 sources:
 - url: https://www.npr.org/2025/09/20/nx-s1-5547837/us-attorney-virginia-resigns-letitia-james-probe
-  title: U.S. attorney resigns under pressure from Trump to charge N.Y. AG Letitia
-    James
-  publisher: NPR
+  title: U.S. attorney resigns under pressure from Trump to charge N.Y. AG Letitia James
   date: '2025-09-20'
   tier: 1
+  outlet: NPR
 - url: https://abcnews.go.com/Politics/new-yorks-top-federal-prosecutor-steps-amid-tension/story?id=118796725
-  title: NY's top federal prosecutor, several DOJ officials resign over Mayor Eric
-    Adams' case
-  publisher: ABC News
+  title: NY's top federal prosecutor, several DOJ officials resign over Mayor Eric Adams' case
   date: '2025-09-20'
   tier: 2
+  outlet: ABC News
 ---
 
 On September 20, 2025, Erik Siebert resigned as U.S. Attorney for the Eastern District of Virginia after President Trump publicly stated he wanted Siebert "out" following a monthslong mortgage fraud investigation into New York Attorney General Letitia James that failed to produce criminal charges. Siebert, whom Trump had nominated to lead the office earlier in 2025 after more than a decade of service there, faced intense pressure from the Trump administration to bring charges against James based on alleged paperwork discrepancies involving her Brooklyn townhouse and a Virginia home.

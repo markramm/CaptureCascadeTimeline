@@ -27,16 +27,13 @@ sources:
   date: '2022-08-12'
 - title: FBI's Trump Mar-a-Lago search yielded 11 sets of classified documents
   url: https://www.washingtonpost.com/national-security/2022/08/12/trump-warrant-release/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2022-08-12'
-notes: 'FBI seized four sets of top-secret documents, seven other sets of classified
-  information,
+notes: 'FBI seized four sets of top-secret documents, seven other sets of classified information,
 
-  and multiple items including binders of photos and information about the President
-  of France.
+  and multiple items including binders of photos and information about the President of France.
 
-  Search warrant was approved by Judge Reinhart on August 5, 2022, based on violations
-  of the
+  Search warrant was approved by Judge Reinhart on August 5, 2022, based on violations of the
 
   Espionage Act, obstruction, and illegal removal of government records.'
 capture_lanes:

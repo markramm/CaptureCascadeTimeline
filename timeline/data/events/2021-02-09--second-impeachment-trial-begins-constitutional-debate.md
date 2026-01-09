@@ -4,40 +4,40 @@ date: '2021-02-09'
 title: Second Impeachment Trial Begins with Constitutional Debate on Trying Former President
 importance: 9
 tags:
-  - Impeachment
-  - Senate Trial
-  - Constitutional Law
-  - Trump Presidency
-  - January 6 Attack
+- impeachment
+- senate trial
+- constitutional law
+- trump presidency
+- january 6 attack
 actors:
-  - Donald Trump
-  - Patrick Leahy
-  - Bruce Castor
-  - David Schoen
-  - Michael van der Veen
-  - Bill Cassidy
-  - Mitch McConnell
+- Donald Trump
+- Patrick Leahy
+- Bruce Castor
+- David Schoen
+- Michael van der Veen
+- Bill Cassidy
+- Mitch McConnell
 sources:
-  - url: https://www.npr.org/2021/01/25/960389715/sen-patrick-leahy-to-preside-over-trumps-senate-impeachment-trial
-    title: Patrick Leahy To Preside Over Trump's Senate Trial, Not John Roberts
-    publisher: NPR
-    date: '2021-01-25'
-    tier: 1
-  - url: https://www.cnbc.com/2021/02/09/trump-impeachment-trial-live-updates-stream.html
-    title: Trump impeachment trial updates - GOP senator rips former president's legal team
-    publisher: CNBC
-    date: '2021-02-09'
-    tier: 1
-  - url: https://www.c-span.org/video/?c4944732/senate-votes-56-44-proceed-impeachment-trial
-    title: Senate Votes 56-44 to Proceed with Impeachment Trial
-    publisher: C-SPAN
-    date: '2021-02-09'
-    tier: 1
-  - url: https://www.newsweek.com/trump-impeachment-defense-lawyer-bruce-castors-opening-statements-eviscerated-republicans-1568054
-    title: Trump Impeachment Defense Lawyer Bruce Castor's Opening Statements Eviscerated by Critics
-    publisher: Newsweek
-    date: '2021-02-09'
-    tier: 2
+- url: https://www.npr.org/2021/01/25/960389715/sen-patrick-leahy-to-preside-over-trumps-senate-impeachment-trial
+  title: Patrick Leahy To Preside Over Trump's Senate Trial, Not John Roberts
+  date: '2021-01-25'
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2021/02/09/trump-impeachment-trial-live-updates-stream.html
+  title: Trump impeachment trial updates - GOP senator rips former president's legal team
+  date: '2021-02-09'
+  tier: 1
+  outlet: CNBC
+- url: https://www.c-span.org/video/?c4944732/senate-votes-56-44-proceed-impeachment-trial
+  title: Senate Votes 56-44 to Proceed with Impeachment Trial
+  date: '2021-02-09'
+  tier: 1
+  outlet: C-SPAN
+- url: https://www.newsweek.com/trump-impeachment-defense-lawyer-bruce-castors-opening-statements-eviscerated-republicans-1568054
+  title: Trump Impeachment Defense Lawyer Bruce Castor's Opening Statements Eviscerated by Critics
+  date: '2021-02-09'
+  tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

@@ -4,42 +4,42 @@ title: Alex Azar Confirmed as HHS Secretary After Doubling Insulin Prices at Eli
 date: '2018-01-24'
 importance: 9
 actors:
-  - Alex Azar
-  - Eli Lilly
-  - Department of Health and Human Services
-  - Ron Wyden
-  - Donald Trump
+- Alex Azar
+- Eli Lilly
+- Department of Health and Human Services
+- Ron Wyden
+- Donald Trump
 tags:
-  - revolving-door
-  - regulatory-capture
-  - healthcare
-  - pharmaceutical-industry
-  - insulin-pricing
-  - hhs
-  - lobbying
-  - senate-confirmation
+- revolving-door
+- regulatory-capture
+- healthcare
+- pharmaceutical-industry
+- insulin-pricing
+- hhs
+- lobbying
+- senate-confirmation
 status: confirmed
 sources:
-  - title: Senate confirms HHS secretary nominee Alex Azar
-    url: https://www.cnn.com/2018/01/24/politics/alex-azar-confirmation-department-of-health-and-human-services
-    publisher: CNN
-    date: '2018-01-24'
-    tier: 1
-  - title: HHS Secretary Alex Azar Once Doubled The Price of Insulin
-    url: https://www.newsweek.com/hhs-alex-azar-import-cheaper-drugs-canada-1451931
-    publisher: Newsweek
-    date: '2019-07-31'
-    tier: 2
-  - title: Alex Azar's Unusual Spin Through the Revolving Door
-    url: https://kffhealthnews.org/news/article/health-202-alex-azar-drug-importation-canada/
-    publisher: KFF Health News
-    date: '2020-09-30'
-    tier: 1
-  - title: Trump's HHS Pick Alex Azar Is the Worst Pharma Bro of All
-    url: https://www.commondreams.org/views/2017/11/17/trumps-hhs-pick-alex-azar-worst-pharma-bro-all
-    publisher: Common Dreams
-    date: '2017-11-17'
-    tier: 2
+- title: Senate confirms HHS secretary nominee Alex Azar
+  url: https://www.cnn.com/2018/01/24/politics/alex-azar-confirmation-department-of-health-and-human-services
+  date: '2018-01-24'
+  tier: 1
+  outlet: CNN
+- title: HHS Secretary Alex Azar Once Doubled The Price of Insulin
+  url: https://www.newsweek.com/hhs-alex-azar-import-cheaper-drugs-canada-1451931
+  date: '2019-07-31'
+  tier: 2
+  outlet: Newsweek
+- title: Alex Azar's Unusual Spin Through the Revolving Door
+  url: https://kffhealthnews.org/news/article/health-202-alex-azar-drug-importation-canada/
+  date: '2020-09-30'
+  tier: 1
+  outlet: KFF Health News
+- title: Trump's HHS Pick Alex Azar Is the Worst Pharma Bro of All
+  url: https://www.commondreams.org/views/2017/11/17/trumps-hhs-pick-alex-azar-worst-pharma-bro-all
+  date: '2017-11-17'
+  tier: 2
+  outlet: Common Dreams
 ---
 
 On January 24, 2018, the Senate confirmed Alex Azar as Secretary of Health and Human Services by a vote of 55-43, installing as the nation's top healthcare regulator a pharmaceutical executive who had overseen dramatic insulin price increases during his decade at Eli Lilly. As President of Lilly USA from 2012 to 2017, Azar presided over a doubling of insulin prices—Humalog rose from $123 per vial in January 2012 to $255 in early 2017, with annual price increases of 20.8 percent (2014), 16.9 percent (2015), and 7.5 percent (2016). Senator Ron Wyden noted during confirmation hearings that Azar "never, not one time, signed off on a decrease in the price of a drug" during his Eli Lilly tenure. Azar's confirmation exemplified the pharmaceutical industry's regulatory capture of HHS, installing a former drug company executive to oversee the very industry he had enriched through aggressive pricing strategies.

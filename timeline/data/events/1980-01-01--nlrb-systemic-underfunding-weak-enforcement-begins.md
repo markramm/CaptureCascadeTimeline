@@ -1,7 +1,7 @@
 ---
 id: 1980-01-01--nlrb-systemic-underfunding-weak-enforcement-begins
 date: '1980-01-01'
-title: 'NLRB Systemic Underfunding and Weak Enforcement Enables Corporate Union-Busting'
+title: NLRB Systemic Underfunding and Weak Enforcement Enables Corporate Union-Busting
 importance: 8
 actors:
 - National Labor Relations Board
@@ -10,13 +10,13 @@ actors:
 - Reagan administration
 tags:
 - labor-suppression
-- NLRB
+- nlrb
 - regulatory-capture
 - union-busting
 - enforcement-failure
 - underfunding
 sources:
-- title: 'The NLRB Protects Workers Right To Organize, Yet Remains Underfunded'
+- title: The NLRB Protects Workers Right To Organize, Yet Remains Underfunded
   url: https://www.americanprogress.org/article/the-nlrb-protects-workers-right-to-organize-yet-remains-underfunded/
   outlet: Center for American Progress
   date: '2022-04-01'

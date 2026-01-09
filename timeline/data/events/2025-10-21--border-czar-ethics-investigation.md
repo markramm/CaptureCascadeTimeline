@@ -17,9 +17,9 @@ actors:
 sources:
 - url: https://www.propublica.org/article/border-czar-ethics-investigation-detention-contracts
   title: Ethics Probe into Border Czar and DHS Contract Ties
-  publisher: ProPublica
   date: '2025-10-21'
   tier: 1
+  outlet: ProPublica
 status: confirmed
 ---
 

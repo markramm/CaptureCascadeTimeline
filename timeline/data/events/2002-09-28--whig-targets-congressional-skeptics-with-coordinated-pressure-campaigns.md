@@ -1,8 +1,7 @@
 ---
 id: 2002-09-28--whig-targets-congressional-skeptics-with-coordinated-pressure-campaigns
 date: '2002-09-28'
-title: WHIG Launches Coordinated Pressure Campaigns Against Congressional War Authorization
-  Skeptics
+title: WHIG Launches Coordinated Pressure Campaigns Against Congressional War Authorization Skeptics
 importance: 8
 actors:
 - Karl Rove
@@ -21,10 +20,9 @@ tags:
 - separation-of-powers-violation
 sources:
 - title: 'White House Iraq Group: Strategic Communications and Political Pressure'
-  outlet: New York Times
+  outlet: The New York Times
   url: https://en.wikipedia.org/wiki/White_House_Iraq_Group
-  description: Comprehensive overview of WHIG's formation, tactics, and role in Iraq
-    War buildup
+  description: Comprehensive overview of WHIG's formation, tactics, and role in Iraq War buildup
   type: secondary-analysis
   credibility: 9
   date: '2002-09-28'
@@ -36,7 +34,7 @@ sources:
   credibility: 8
   date: 2002-09
 - title: Inside the White House Iraq Group's Propaganda Campaign
-  outlet: Washington Post
+  outlet: The Washington Post
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
   description: Historical analysis of WHIG's systematic approach to building war support
   type: investigative-report
@@ -49,12 +47,7 @@ constitutional_issues:
 - executive abuse of power
 - democratic deliberation
 - checks and balances
-historical_significance: The systematic targeting of congressional skeptics through
-  coordinated pressure campaigns marked a fundamental transformation of executive-legislative
-  relations from constitutional debate to political warfare. This operation established
-  dangerous precedents for executive intimidation of legislative opposition and demonstrated
-  how propaganda operations could systematically suppress democratic deliberation
-  and manufacture artificial consensus.
+historical_significance: The systematic targeting of congressional skeptics through coordinated pressure campaigns marked a fundamental transformation of executive-legislative relations from constitutional debate to political warfare. This operation established dangerous precedents for executive intimidation of legislative opposition and demonstrated how propaganda operations could systematically suppress democratic deliberation and manufacture artificial consensus.
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

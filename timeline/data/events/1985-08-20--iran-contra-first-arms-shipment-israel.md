@@ -4,32 +4,32 @@ date: 1985-08-20
 title: First Secret Arms Shipment to Iran Initiates Iran-Contra Scandal
 importance: 10
 tags:
-  - Iran-Contra
-  - Reagan-administration
-  - foreign-policy
-  - arms-trafficking
-  - covert-operations
+- iran-contra
+- reagan-administration
+- foreign-policy
+- arms-trafficking
+- covert-operations
 actors:
-  - Ronald Reagan
-  - Robert McFarlane
-  - Oliver North
-  - Manucher Ghorbanifar
+- Ronald Reagan
+- Robert McFarlane
+- Oliver North
+- Manucher Ghorbanifar
 sources:
-  - url: https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/
-    title: The Iran-Contra Affair
-    publisher: PBS American Experience
-    date: 2024-01-15
-    tier: 1
-  - url: https://irp.fas.org/offdocs/walsh/
-    title: Final Report of the Independent Counsel for Iran/Contra Matters
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/timeline.php
-    title: Understanding the Iran-Contra Affairs - Timeline
-    publisher: Brown University
-    date: 2024-01-01
-    tier: 1
+- url: https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/
+  title: The Iran-Contra Affair
+  date: 2024-01-15
+  tier: 1
+  outlet: PBS American Experience
+- url: https://irp.fas.org/offdocs/walsh/
+  title: Final Report of the Independent Counsel for Iran/Contra Matters
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/timeline.php
+  title: Understanding the Iran-Contra Affairs - Timeline
+  date: 2024-01-01
+  tier: 1
+  outlet: Brown University
 ---
 
 Israel sends 96 American-made BGM-71 TOW anti-tank missiles to Iran through arms dealer Manucher Ghorbanifar, marking the first covert arms shipment in what becomes the Iran-Contra scandal. Hours after receiving the weapons, the Islamic fundamentalist group Islamic Jihad releases one American hostage held in Lebanon, Reverend Benjamin Weir, establishing the arms-for-hostages pattern.

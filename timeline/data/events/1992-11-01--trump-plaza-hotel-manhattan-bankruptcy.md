@@ -4,29 +4,29 @@ date: 1992-11-01
 title: Trump Plaza Hotel in Manhattan Files for Bankruptcy Protection
 importance: 6
 tags:
-  - Bankruptcy
-  - Business Failure
-  - New York
-  - Hotels
-  - Financial History
-  - Debt
-  - Real Estate
+- bankruptcy
+- business failure
+- new york
+- hotels
+- financial history
+- debt
+- real estate
 sources:
-  - url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
-    title: "Yep, Donald Trump's companies have declared bankruptcy...more than four times"
-    publisher: PolitiFact
-    date: 2016-06-21
-    tier: 1
-  - url: https://www.abi.org/feed-item/donald-trump-business-bankruptcies-a-summary
-    title: "Donald Trump Business Bankruptcies. A Summary."
-    publisher: American Bankruptcy Institute
-    date: 2016-09-27
-    tier: 1
-  - url: https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/
-    title: "Fact Check: Has Trump declared bankruptcy four or six times?"
-    publisher: Washington Post
-    date: 2016-09-26
-    tier: 1
+- url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
+  title: Yep, Donald Trump's companies have declared bankruptcy...more than four times
+  date: 2016-06-21
+  tier: 1
+  outlet: PolitiFact
+- url: https://www.abi.org/feed-item/donald-trump-business-bankruptcies-a-summary
+  title: Donald Trump Business Bankruptcies. A Summary.
+  date: 2016-09-27
+  tier: 1
+  outlet: American Bankruptcy Institute
+- url: https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/
+  title: 'Fact Check: Has Trump declared bankruptcy four or six times?'
+  date: 2016-09-26
+  tier: 1
+  outlet: The Washington Post
 ---
 
 The Plaza Hotel in Manhattan, the iconic luxury property Trump had purchased in 1988 for $407.5 million, filed for Chapter 11 bankruptcy protection in November 1992 under the weight of over $550 million in debt. Trump had financed the purchase almost entirely with borrowed money, and the property's revenues could not support the massive debt service requirements. The Plaza bankruptcy marked Trump's fourth major bankruptcy filing in 1992, following the March bankruptcies of Trump Castle and Trump Plaza Casino in Atlantic City, and coming in the midst of a broader collapse of his overleveraged real estate and casino empire.

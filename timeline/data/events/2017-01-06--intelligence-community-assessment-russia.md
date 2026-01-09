@@ -4,41 +4,41 @@ date: 2017-01-06
 title: Intelligence Community Assessment Concludes Putin Ordered Campaign to Influence 2016 Election
 importance: 9
 tags:
-  - Russia Interference
-  - Intelligence Community
-  - Election Security
-  - Putin
-  - Foreign Interference
-  - Cyber Warfare
+- russia interference
+- intelligence community
+- election security
+- putin
+- foreign interference
+- cyber warfare
 actors:
-  - Vladimir Putin
-  - CIA
-  - FBI
-  - NSA
-  - Donald Trump
-  - Barack Obama
-  - James Clapper
+- Vladimir Putin
+- CIA
+- FBI
+- NSA
+- Donald Trump
+- Barack Obama
+- James Clapper
 sources:
-  - url: https://www.dni.gov/files/documents/ICA_2016_Election.pdf
-    title: Background to "Assessing Russian Activities and Intentions in Recent US Elections" - Intelligence Community Assessment
-    publisher: Office of the Director of National Intelligence
-    date: 2017-01-06
-    tier: 1
-  - url: https://www.intelligence.senate.gov/publications/committee-findings-2017-intelligence-community-assessment
-    title: Committee Findings on the 2017 Intelligence Community Assessment
-    publisher: Senate Select Committee on Intelligence
-    date: 2019-07-25
-    tier: 1
-  - url: https://www.fbi.gov/news/speeches-and-testimony/assessing-russian-activities-and-intentions-in-recent-elections
-    title: Assessing Russian Activities and Intentions in Recent Elections - Statement
-    publisher: Federal Bureau of Investigation
-    date: 2017-01-06
-    tier: 1
-  - url: https://www.cbsnews.com/news/senate-intelligence-committee-report-2016-russian-interference-assessment/
-    title: Bipartisan Senate Intel report backs intelligence assessment of 2016 Russian interference
-    publisher: CBS News
-    date: 2020-04-21
-    tier: 1
+- url: https://www.dni.gov/files/documents/ICA_2016_Election.pdf
+  title: Background to "Assessing Russian Activities and Intentions in Recent US Elections" - Intelligence Community Assessment
+  date: 2017-01-06
+  tier: 1
+  outlet: Office of the Director of National Intelligence
+- url: https://www.intelligence.senate.gov/publications/committee-findings-2017-intelligence-community-assessment
+  title: Committee Findings on the 2017 Intelligence Community Assessment
+  date: 2019-07-25
+  tier: 1
+  outlet: Senate Select Committee on Intelligence
+- url: https://www.fbi.gov/news/speeches-and-testimony/assessing-russian-activities-and-intentions-in-recent-elections
+  title: Assessing Russian Activities and Intentions in Recent Elections - Statement
+  date: 2017-01-06
+  tier: 1
+  outlet: Federal Bureau of Investigation
+- url: https://www.cbsnews.com/news/senate-intelligence-committee-report-2016-russian-interference-assessment/
+  title: Bipartisan Senate Intel report backs intelligence assessment of 2016 Russian interference
+  date: 2020-04-21
+  tier: 1
+  outlet: CBS News
 ---
 
 On January 6, 2017, the U.S. Intelligence Community released a comprehensive assessment concluding that Russian President Vladimir Putin personally ordered an extensive influence campaign aimed at undermining the 2016 U.S. presidential election. The Intelligence Community Assessment (ICA), titled "Assessing Russian Activities and Intentions in Recent US Elections," represented a unified conclusion from the CIA, FBI, and NSA that Russia conducted an unprecedented cyber and propaganda operation designed to harm Hillary Clinton's candidacy and help Donald Trump win the presidency. The report marked the first official government determination that a foreign adversary had actively intervened in an American presidential election with the explicit goal of determining the outcome.

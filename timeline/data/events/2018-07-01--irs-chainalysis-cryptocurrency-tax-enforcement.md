@@ -4,26 +4,26 @@ date: 2018-07-01
 title: IRS Launches Virtual Currency Compliance Campaign Using Chainalysis
 importance: 7
 tags:
-  - surveillance
-  - cryptocurrency
-  - IRS
-  - tax-enforcement
-  - contracts
+- surveillance
+- cryptocurrency
+- irs
+- tax-enforcement
+- contracts
 actors:
-  - IRS
-  - Chainalysis
-  - IRS Criminal Investigation
+- IRS
+- Chainalysis
+- IRS Criminal Investigation
 sources:
-  - url: https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government
-    title: Inside Chainalysis' Multimillion-Dollar Relationship With the US Government
-    publisher: CoinDesk
-    date: 2020-02-10
-    tier: 1
-  - url: https://cointelegraph.com/news/irs-uses-chainalysis-to-track-down-bitcoin-tax-cheats
-    title: IRS Uses Chainalysis to Track Down Bitcoin Tax Cheats
-    publisher: Cointelegraph
-    date: 2018-07-01
-    tier: 2
+- url: https://www.coindesk.com/business/2020/02/10/inside-chainalysis-multimillion-dollar-relationship-with-the-us-government
+  title: Inside Chainalysis' Multimillion-Dollar Relationship With the US Government
+  date: 2020-02-10
+  tier: 1
+  outlet: CoinDesk
+- url: https://cointelegraph.com/news/irs-uses-chainalysis-to-track-down-bitcoin-tax-cheats
+  title: IRS Uses Chainalysis to Track Down Bitcoin Tax Cheats
+  date: 2018-07-01
+  tier: 2
+  outlet: Cointelegraph
 ---
 
 The Internal Revenue Service announces a Virtual Currency Compliance Campaign to address tax noncompliance related to cryptocurrency use, heavily relying on Chainalysis blockchain surveillance software. The IRS Cyber Crimes Unit (CCU), a five-year-old division of IRS Criminal Investigation, deploys Chainalysis's "Reactor" software to identify taxpayers who may be non-compliant with tax laws or involved in criminal activity related to cryptocurrency transactions.

@@ -4,43 +4,43 @@ title: ACA Architect Liz Fowler Leaves White House for Johnson & Johnson After I
 date: '2012-12-05'
 importance: 9
 actors:
-  - Elizabeth Fowler
-  - Johnson & Johnson
-  - WellPoint
-  - Max Baucus
-  - Barack Obama
-  - Senate Finance Committee
+- Elizabeth Fowler
+- Johnson & Johnson
+- WellPoint
+- Max Baucus
+- Barack Obama
+- Senate Finance Committee
 tags:
-  - revolving-door
-  - regulatory-capture
-  - healthcare
-  - lobbying
-  - pharmaceutical-industry
-  - insurance-industry
-  - aca
-  - senate-corruption
+- revolving-door
+- regulatory-capture
+- healthcare
+- lobbying
+- pharmaceutical-industry
+- insurance-industry
+- aca
+- senate-corruption
 status: confirmed
 sources:
-  - title: 'Revolver Spotlight: Elizabeth Fowler'
-    url: https://therevolvingdoorproject.org/revolver-spotlight-elizabeth-fowler/
-    publisher: Revolving Door Project
-    date: '2021-02-24'
-    tier: 2
-  - title: Obamacare Architect Leaves White House for Pharmaceutical Industry Job
-    url: https://www.commondreams.org/views/2012/12/05/obamacare-architect-leaves-white-house-pharmaceutical-industry-job
-    publisher: Common Dreams
-    date: '2012-12-05'
-    tier: 2
-  - title: Author of Obamacare Blueprint Rewarded with Job at Johnson & Johnson
-    url: http://www.allgov.com/news/appointments-and-resignations/author-of-obamacare-blueprint-rewarded-with-job-at-johnson--johnson-121221?news=846548
-    publisher: AllGov
-    date: '2012-12-21'
-    tier: 3
-  - title: Liz Fowler and the government-corporate revolving door
-    url: https://liberationnews.org/elizabeth-fowler-and-the-html/
-    publisher: Liberation News
-    date: '2013-06-13'
-    tier: 3
+- title: 'Revolver Spotlight: Elizabeth Fowler'
+  url: https://therevolvingdoorproject.org/revolver-spotlight-elizabeth-fowler/
+  date: '2021-02-24'
+  tier: 2
+  outlet: Revolving Door Project
+- title: Obamacare Architect Leaves White House for Pharmaceutical Industry Job
+  url: https://www.commondreams.org/views/2012/12/05/obamacare-architect-leaves-white-house-pharmaceutical-industry-job
+  date: '2012-12-05'
+  tier: 2
+  outlet: Common Dreams
+- title: Author of Obamacare Blueprint Rewarded with Job at Johnson & Johnson
+  url: http://www.allgov.com/news/appointments-and-resignations/author-of-obamacare-blueprint-rewarded-with-job-at-johnson--johnson-121221?news=846548
+  date: '2012-12-21'
+  tier: 3
+  outlet: AllGov
+- title: Liz Fowler and the government-corporate revolving door
+  url: https://liberationnews.org/elizabeth-fowler-and-the-html/
+  date: '2013-06-13'
+  tier: 3
+  outlet: Liberation News
 ---
 
 On December 5, 2012, Elizabeth "Liz" Fowler announced her departure from the White House to join Johnson & Johnson as head of global health policy, completing her third spin through the healthcare industry revolving door. Fowler had served as the chief architect of the Affordable Care Act while working for Senator Max Baucus (D-MT) from 2008-2010, after leaving her position as Vice President for Public Policy at WellPoint, the nation's largest health insurer. After the ACA passed, she moved to the White House as Special Assistant to the President for Healthcare and Economic Policy (2010-2012) to implement the law she had drafted. Senator Baucus himself called Fowler "the architect" of the ACA, while critics noted that to the extent Fowler authored the legislation, "we might as well consider WellPoint its author as well." Her move to Johnson & Johnson—where she would oversee pharmaceutical and medical device lobbying—rewarded Fowler for crafting legislation that expanded insurance coverage while preserving private industry profits and specifically excluding the public option that threatened industry revenue.

@@ -17,26 +17,26 @@ actors:
 - Mike Pompeo
 - Saudi Arabia government
 sources:
-  - title: Trump says Saudi operation that killed Khashoggi 'very bad' concept 'carried out poorly'
-    url: https://www.pbs.org/newshour/world/trump-saudi-operation-that-killed-khashoggi-very-bad-concept-carried-out-poorly
-    publisher: PBS NewsHour
-    date: 2018-10-23
-    tier: 1
-  - title: "Trump: Saudi handling of Khashoggi killing 'worst cover-up ever'"
-    url: https://www.aljazeera.com/news/2018/10/24/trump-saudi-handling-of-khashoggi-killing-worst-cover-up-ever
-    publisher: Al Jazeera
-    date: 2018-10-24
-    tier: 2
-  - title: Trump calls aftermath of Khashoggi killing 'worst cover-up ever'
-    url: https://www.nbcnews.com/politics/politics-news/trump-calls-khashoggi-killing-worst-cover-ever-n923591
-    publisher: NBC News
-    date: 2018-10-23
-    tier: 1
-  - title: Trump says Khashoggi killing was one of the worst cover-ups in the history of cover-ups
-    url: https://www.businessinsider.nl/trump-khashoggi-killing-worst-cover-up-saudi-arabia-2018-10/
-    publisher: Business Insider
-    date: 2018-10-23
-    tier: 2
+- title: Trump says Saudi operation that killed Khashoggi 'very bad' concept 'carried out poorly'
+  url: https://www.pbs.org/newshour/world/trump-saudi-operation-that-killed-khashoggi-very-bad-concept-carried-out-poorly
+  date: 2018-10-23
+  tier: 1
+  outlet: PBS NewsHour
+- title: 'Trump: Saudi handling of Khashoggi killing ''worst cover-up ever'''
+  url: https://www.aljazeera.com/news/2018/10/24/trump-saudi-handling-of-khashoggi-killing-worst-cover-up-ever
+  date: 2018-10-24
+  tier: 2
+  outlet: Al Jazeera
+- title: Trump calls aftermath of Khashoggi killing 'worst cover-up ever'
+  url: https://www.nbcnews.com/politics/politics-news/trump-calls-khashoggi-killing-worst-cover-ever-n923591
+  date: 2018-10-23
+  tier: 1
+  outlet: NBC News
+- title: Trump says Khashoggi killing was one of the worst cover-ups in the history of cover-ups
+  url: https://www.businessinsider.nl/trump-khashoggi-killing-worst-cover-up-saudi-arabia-2018-10/
+  date: 2018-10-23
+  tier: 2
+  outlet: Business Insider
 ---
 
 On October 23, 2018, three weeks after Jamal Khashoggi's murder inside the Saudi consulate in Istanbul, President Trump publicly acknowledges the killing was orchestrated by Saudi Arabia but makes clear he will not hold Crown Prince Mohammed bin Salman accountable. Despite calling Saudi Arabia's handling of the assassination the "worst cover-up ever," Trump prioritizes arms deals and the U.S.-Saudi relationship over justice for the murdered Washington Post journalist.

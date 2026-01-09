@@ -4,41 +4,41 @@ title: Healthcare Industry Spends Record $744 Million on Federal Lobbying in 202
 date: '2024-12-31'
 importance: 8
 actors:
-  - Pharmaceutical Research and Manufacturers of America
-  - American Medical Association
-  - American Hospital Association
-  - Pharmaceutical Care Management Association
-  - Health insurance industry
-  - Pharmaceutical industry
+- Pharmaceutical Research and Manufacturers of America
+- American Medical Association
+- American Hospital Association
+- Pharmaceutical Care Management Association
+- Health insurance industry
+- Pharmaceutical industry
 tags:
-  - lobbying
-  - healthcare
-  - pharmaceutical-industry
-  - systematic-corruption
-  - regulatory-capture
-  - campaign-finance
+- lobbying
+- healthcare
+- pharmaceutical-industry
+- systematic-corruption
+- regulatory-capture
+- campaign-finance
 status: confirmed
 sources:
-  - title: Health Lobbying
-    url: https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=H
-    publisher: OpenSecrets
-    date: '2025-01-15'
-    tier: 1
-  - title: Lobbying expenditure on health sector in the U.S. 2024, by sector
-    url: https://www.statista.com/statistics/1376540/lobbying-expenditure-on-health-sector-by-sector-in-the-us/
-    publisher: Statista
-    date: '2025-02-01'
-    tier: 2
-  - title: Health lobby spending surged at end of 2024
-    url: https://www.axios.com/pro/health-care-policy/2025/01/22/health-lobbying-spending-2024
-    publisher: Axios
-    date: '2025-01-22'
-    tier: 2
-  - title: Record-breaking $4.4 billion spent on lobbying efforts in 2024
-    url: https://www.tucsonsentinel.com/nationworld/report/021325_lobbying_record/
-    publisher: Tucson Sentinel
-    date: '2025-02-13'
-    tier: 2
+- title: Health Lobbying
+  url: https://www.opensecrets.org/industries/lobbying?cycle=2024&ind=H
+  date: '2025-01-15'
+  tier: 1
+  outlet: OpenSecrets
+- title: Lobbying expenditure on health sector in the U.S. 2024, by sector
+  url: https://www.statista.com/statistics/1376540/lobbying-expenditure-on-health-sector-by-sector-in-the-us/
+  date: '2025-02-01'
+  tier: 2
+  outlet: Statista
+- title: Health lobby spending surged at end of 2024
+  url: https://www.axios.com/pro/health-care-policy/2025/01/22/health-lobbying-spending-2024
+  date: '2025-01-22'
+  tier: 2
+  outlet: Axios
+- title: Record-breaking $4.4 billion spent on lobbying efforts in 2024
+  url: https://www.tucsonsentinel.com/nationworld/report/021325_lobbying_record/
+  date: '2025-02-13'
+  tier: 2
+  outlet: Tucson Sentinel
 ---
 
 In 2024, the healthcare sector spent $743.9 million on federal lobbying—$10 million less than 2023's $745 million but maintaining its position as the largest lobbying sector in the United States for the 26th consecutive year. Pharmaceutical and health products companies led healthcare spending with $384.5 million, followed by the insurance industry at $157 million and hospitals/nursing homes at substantial additional amounts. The pharmaceutical industry alone has spent over $6.1 billion on federal lobbying from 1999 through 2024, demonstrating sustained investment in political influence. Major trade groups increased spending in 2024: PhRMA spent $31 million (up from $27 million in 2023), the Pharmaceutical Care Management Association spent $18 million (up from $15 million), and the American Medical Association spent $24 million (up from $21 million). This $744 million in annual healthcare lobbying—combined with hundreds of millions in campaign contributions—systematically captures federal health policy, ensuring legislation protects industry profits rather than patient welfare through a sustained influence operation that dwarfs patient advocacy spending by ratios exceeding 100-to-1.

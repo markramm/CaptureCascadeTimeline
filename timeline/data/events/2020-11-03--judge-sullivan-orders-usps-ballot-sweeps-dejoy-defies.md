@@ -4,39 +4,39 @@ date: 2020-11-03
 title: Judge Sullivan Orders Emergency USPS Ballot Sweeps, DeJoy Initially Defies Court Order
 importance: 9
 tags:
-  - Election Interference
-  - USPS
-  - Postal Service
-  - Judicial Orders
-  - DeJoy
-  - Mail Voting
-  - Election Day
+- election interference
+- usps
+- postal service
+- judicial orders
+- dejoy
+- mail voting
+- election day
 actors:
-  - Emmet Sullivan
-  - Louis DeJoy
-  - USPS
-  - Federal Courts
+- Emmet Sullivan
+- Louis DeJoy
+- USPS
+- Federal Courts
 sources:
-  - url: https://lawandcrime.com/2020-election/federal-judge-orders-usps-to-conduct-election-day-sweeps-to-ensure-ballots-are-not-delayed-in-key-battleground-states/
-    title: Emmet Sullivan Orders USPS to Sweep Facilities for Ballots
-    publisher: Law & Crime
-    date: 2020-11-03
-    tier: 2
-  - url: https://www.cbsnews.com/news/postal-service-missing-ballots-sweep-louis-dejoy-federal-judge/
-    title: Judge could call postmaster general to testify over missed ballot sweep deadline
-    publisher: CBS News
-    date: 2020-11-03
-    tier: 1
-  - url: https://federalnewsnetwork.com/management/2020/11/usps-sweeps-220-mail-processing-sites-for-undelivered-ballots-following-federal-court-order/
-    title: USPS sweeps 220 mail processing sites for any undelivered ballots following federal court order
-    publisher: Federal News Network
-    date: 2020-11-03
-    tier: 2
-  - url: https://www.washingtonpost.com/business/2020/11/02/usps-ballots-court-ruling/
-    title: "Federal judge scolds USPS on vote-by-mail delays: Five key takeaways"
-    publisher: Washington Post
-    date: 2020-11-02
-    tier: 1
+- url: https://lawandcrime.com/2020-election/federal-judge-orders-usps-to-conduct-election-day-sweeps-to-ensure-ballots-are-not-delayed-in-key-battleground-states/
+  title: Emmet Sullivan Orders USPS to Sweep Facilities for Ballots
+  date: 2020-11-03
+  tier: 2
+  outlet: Law & Crime
+- url: https://www.cbsnews.com/news/postal-service-missing-ballots-sweep-louis-dejoy-federal-judge/
+  title: Judge could call postmaster general to testify over missed ballot sweep deadline
+  date: 2020-11-03
+  tier: 1
+  outlet: CBS News
+- url: https://federalnewsnetwork.com/management/2020/11/usps-sweeps-220-mail-processing-sites-for-undelivered-ballots-following-federal-court-order/
+  title: USPS sweeps 220 mail processing sites for any undelivered ballots following federal court order
+  date: 2020-11-03
+  tier: 2
+  outlet: Federal News Network
+- url: https://www.washingtonpost.com/business/2020/11/02/usps-ballots-court-ruling/
+  title: 'Federal judge scolds USPS on vote-by-mail delays: Five key takeaways'
+  date: 2020-11-02
+  tier: 1
+  outlet: The Washington Post
 ---
 
 U.S. District Judge Emmet G. Sullivan issued an emergency order on Election Day directing the United States Postal Service to immediately sweep its processing facilities between 12:30 p.m. and 3:00 p.m. to ensure that delivery of mail-in ballots was not delayed, particularly in crucial battleground states. The order specifically targeted facilities where on-time delivery rates had fallen dramatically, mandating that postal inspectors immediately send any discovered ballots out for delivery. The Postal Service initially refused to comply with the court's deadline, conducting sweeps hours later than ordered, prompting Judge Sullivan to demand explanations for "apparent lack of compliance."

@@ -30,10 +30,9 @@ sources:
   url: https://www.cnn.com/2025/08/14/politics/california-redistricting-republicans-schwarzenegger
   outlet: CNN
   date: '2025-08-14'
-- title: California lawmakers begin passing bills to counter Texas in nationwide fight
-    over election maps
+- title: California lawmakers begin passing bills to counter Texas in nationwide fight over election maps
   url: https://www.washingtonpost.com/politics/2025/08/21/california-texas-redistricting-trump/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-08-21'
 notes: Escalation of redistricting wars as blue states respond to red state manipulation
 status: validated

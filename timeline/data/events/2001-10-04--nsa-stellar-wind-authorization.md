@@ -36,7 +36,7 @@ sources:
   date: '2015-09-18'
 - title: Legal Memos on Bush-Era Warrantless Wiretapping
   url: https://www.washingtonpost.com/world/national-security/legal-memos-released-on-bush-era-justification-for-warrantless-wiretapping/2014/09/05/91b86c52-356d-11e4-9e92-0899b306bbea_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2014-09-05'
 status: confirmed
 capture_lanes:

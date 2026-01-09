@@ -1,34 +1,34 @@
 ---
 id: 1975-06-10--trump-settles-housing-discrimination-no-admission
 date: 1975-06-10
-title: "Trump Settles Housing Discrimination Case Without Admitting Guilt"
+title: Trump Settles Housing Discrimination Case Without Admitting Guilt
 importance: 7
 tags:
-  - Racism
-  - Housing Discrimination
-  - Trump Family
-  - Civil Rights
-  - DOJ
+- racism
+- housing discrimination
+- trump family
+- civil rights
+- doj
 actors:
-  - Donald Trump
-  - Fred Trump
-  - Roy Cohn
+- Donald Trump
+- Fred Trump
+- Roy Cohn
 sources:
-  - url: https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case
-    title: "Donald Trump's Housing Discrimination Case Still Chases Him Decades Later"
-    publisher: NPR
-    date: 2016-09-29
-    tier: 1
-  - url: https://clearinghouse.net/doc/83283/
-    title: "Consent Order - United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc."
-    publisher: Civil Rights Litigation Clearinghouse
-    date: 1975-06-10
-    tier: 1
-  - url: https://www.pbs.org/wgbh/frontline/article/donald-trump-roy-cohn-race-discrimination-lawsuit-fight-documentary-excerpt/
-    title: "How Donald Trump Developed His Political Playbook"
-    publisher: PBS Frontline
-    date: 2019-09-24
-    tier: 1
+- url: https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case
+  title: Donald Trump's Housing Discrimination Case Still Chases Him Decades Later
+  date: 2016-09-29
+  tier: 1
+  outlet: NPR
+- url: https://clearinghouse.net/doc/83283/
+  title: Consent Order - United States v. Fred C. Trump, Donald Trump, and Trump Management, Inc.
+  date: 1975-06-10
+  tier: 1
+  outlet: Civil Rights Litigation Clearinghouse
+- url: https://www.pbs.org/wgbh/frontline/article/donald-trump-roy-cohn-race-discrimination-lawsuit-fight-documentary-excerpt/
+  title: How Donald Trump Developed His Political Playbook
+  date: 2019-09-24
+  tier: 1
+  outlet: PBS Frontline
 ---
 
 After nearly two years of aggressive legal combat, Donald Trump and his father Fred Trump signed a consent decree settling the Department of Justice's landmark housing discrimination lawsuit. The settlement included the standard legal disclaimer that it was "in no way an admission" of wrongdoing—a phrase that would become central to Trump's lifelong approach to legal accountability.

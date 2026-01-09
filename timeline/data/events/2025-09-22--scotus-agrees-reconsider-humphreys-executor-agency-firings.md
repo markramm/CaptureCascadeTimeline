@@ -1,8 +1,7 @@
 ---
 id: 2025-09-22--scotus-agrees-reconsider-humphreys-executor-agency-firings
 date: '2025-09-22'
-title: Supreme Court Agrees to Reconsider Humphrey's Executor, Review Trump's Power
-  to Fire Agency Heads
+title: Supreme Court Agrees to Reconsider Humphrey's Executor, Review Trump's Power to Fire Agency Heads
 importance: 10
 actors:
 - Supreme Court
@@ -22,14 +21,14 @@ tags:
 sources:
 - url: https://www.cnn.com/2025/09/22/politics/supreme-court-precedent-trump-fire
   title: Supreme Court agrees to reconsider precedent that limits who Trump can fire
-  publisher: CNN Politics
   date: '2025-09-22'
   tier: 2
+  outlet: CNN Politics
 - url: https://www.scotusblog.com/2025/09/scotustoday-for-tuesday-september-23/
   title: SCOTUStoday for Tuesday, September 23
-  publisher: SCOTUSblog
   date: '2025-09-23'
   tier: 1
+  outlet: SCOTUSblog
 ---
 
 The Supreme Court agreed to hear a rush appeal deciding whether President Trump acted lawfully in firing board members leading independent federal agencies, setting up oral arguments for December 2025. The case will reconsider the landmark 1935 precedent Humphrey's Executor v. United States, which established that Congress can require presidents to show cause before dismissing board members overseeing independent agencies.

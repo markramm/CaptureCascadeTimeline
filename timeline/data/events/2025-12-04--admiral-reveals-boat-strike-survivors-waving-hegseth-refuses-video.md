@@ -6,8 +6,8 @@ importance: 10
 tags:
 - war-crimes
 - extrajudicial-killing
-- Pete-Hegseth
-- DoD
+- pete-hegseth
+- dod
 - evidence-obstruction
 - maritime-strikes
 - human-rights-violations
@@ -16,34 +16,34 @@ tags:
 sources:
 - url: https://www.npr.org/2025/12/04/nx-s1-5633245/hegseth-signal-yemen-venezuela-boat-strikes
   title: Top admiral briefs lawmakers on boat strike as watchdog faults Hegseth for Signal use
-  publisher: NPR
   date: '2025-12-04'
   tier: 1
+  outlet: NPR
 - url: https://time.com/7339154/admiral-bradley-boat-strike-hegseth/
   title: Boat Hit in 'Double-Tap' Strike Was Not Heading to U.S., Admiral Reportedly Tells Lawmakers
-  publisher: TIME
   date: '2025-12-06'
   tier: 2
+  outlet: TIME
 - url: https://www.pbs.org/newshour/politics/who-is-adm-bradley-lawmakers-will-hear-from-navy-admiral-who-reportedly-ordered-attack-that-killed-boat-strike-survivors
   title: Navy admiral tells lawmakers there was no 'kill all' order from Hegseth in boat attack
-  publisher: PBS NewsHour
   date: '2025-12-04'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://www.military.com/daily-news/2025/12/04/lawmakers-hear-navy-admiral-who-ordered-attack-killed-boat-strike-survivors.html
   title: Admiral Says There Was No 'Kill Them All' Order in Boat Attack, But Video Alarms Lawmakers
-  publisher: Military.com
   date: '2025-12-04'
   tier: 1
+  outlet: Military.com
 - url: https://www.justsecurity.org/125998/boat-strikes-shipwrecked-servicemembers/
   title: Killing Shipwrecked Survivors is Not Just Illegal—It Endangers U.S. Servicemembers
-  publisher: Just Security
   date: '2025-12-03'
   tier: 1
+  outlet: Just Security
 - url: https://www.justsecurity.org/126802/expert-backgrounder-law-shipwrecked-survivors/
   title: Expert Backgrounder - Law on Targeting Shipwrecked Traffickers
-  publisher: Just Security
   date: '2025-12-06'
   tier: 1
+  outlet: Just Security
 actors:
 - Admiral Frank Bradley
 - Pete Hegseth

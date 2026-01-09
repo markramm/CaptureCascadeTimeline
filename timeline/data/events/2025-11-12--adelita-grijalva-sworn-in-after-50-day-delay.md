@@ -4,10 +4,10 @@ date: '2025-11-12'
 title: Rep. Adelita Grijalva Sworn Into House After Historic 50-Day Delay, Becomes 218th Signature on Epstein Files Petition
 importance: 8
 tags:
-- Congress
-- House of Representatives
-- Arizona
-- Epstein
+- congress
+- house of representatives
+- arizona
+- epstein
 - discharge-petition
 - special-election
 actors:
@@ -18,19 +18,19 @@ actors:
 sources:
 - title: After a 50-day wait, Arizona Rep. Adelita Grijalva is sworn into Congress
   url: https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in
-  publisher: NPR
   date: '2025-11-12'
   tier: 1
+  outlet: NPR
 - title: Democratic Rep. Grijalva sworn in after 7 weeks, becomes key signature on Epstein files petition
   url: https://abcnews.go.com/Politics/rep-elect-grijalva-sworn-months-after-special-election/story?id=127417242
-  publisher: ABC News
   date: '2025-11-12'
   tier: 1
+  outlet: ABC News
 - title: Democratic Rep. Raúl M. Grijalva of Arizona dies at 77
   url: https://www.npr.org/2025/03/13/g-s1-53681/democratic-rep-raul-m-grijalva-of-arizona-dies-at-77
-  publisher: NPR
   date: '2025-03-13'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

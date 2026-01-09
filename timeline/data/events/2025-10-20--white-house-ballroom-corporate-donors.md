@@ -1,8 +1,7 @@
 ---
 id: 2025-10-20--white-house-ballroom-corporate-donors
 date: '2025-10-20'
-title: Trump Hosts $250 Million White House Ballroom Fundraiser with Defense and Tech
-  Executives
+title: Trump Hosts $250 Million White House Ballroom Fundraiser with Defense and Tech Executives
 importance: 9
 tags:
 - corruption
@@ -21,9 +20,9 @@ actors:
 sources:
 - url: https://www.cbsnews.com/news/white-house-ballroom-corporate-donors-trump/
   title: Corporate donors seek federal favors while funding Trump's White House ballroom
-  publisher: CBS News
   date: '2025-10-25'
   tier: 1
+  outlet: CBS News
 status: confirmed
 ---
 

@@ -4,29 +4,29 @@ date: 2017-12-21
 title: DeVos Replaces Full Debt Relief With Earnings-Based Formula - Corinthian Victims Get Pennies on Dollar
 importance: 8
 tags:
-  - student-debt
-  - regulatory-capture
-  - betsy-devos
-  - corinthian-colleges
+- student-debt
+- regulatory-capture
+- betsy-devos
+- corinthian-colleges
 actors:
-  - Betsy DeVos
-  - Department of Education
+- Betsy DeVos
+- Department of Education
 sources:
-  - url: https://www.consumerfinancialserviceslawmonitor.com/2018/03/in-departure-from-obama-administration-doe-to-grant-only-partial-student-debt-relief-for-corinthian-alumni/
-    title: In Departure from Obama Administration, DOE to Grant Only Partial Student Debt Relief for Corinthian Alumni
-    publisher: Consumer Financial Services Law Monitor
-    date: 2018-03-01
-    tier: 2
-  - url: https://oag.ca.gov/news/press-releases/attorney-general-becerra-issues-statement-department-education%E2%80%99s-illegal
-    title: "Attorney General Becerra Issues Statement on Department of Education's Illegal Decision"
-    publisher: California Attorney General
-    date: 2017-12-21
-    tier: 1
-  - url: https://www.npr.org/2017/12/21/572322624/education-dept-says-defrauded-students-should-receive-only-partial-debt-relief
-    title: Education Dept. Says Defrauded Students Should Receive Only Partial Debt Relief
-    publisher: NPR
-    date: 2017-12-21
-    tier: 1
+- url: https://www.consumerfinancialserviceslawmonitor.com/2018/03/in-departure-from-obama-administration-doe-to-grant-only-partial-student-debt-relief-for-corinthian-alumni/
+  title: In Departure from Obama Administration, DOE to Grant Only Partial Student Debt Relief for Corinthian Alumni
+  date: 2018-03-01
+  tier: 2
+  outlet: Consumer Financial Services Law Monitor
+- url: https://oag.ca.gov/news/press-releases/attorney-general-becerra-issues-statement-department-education%E2%80%99s-illegal
+  title: Attorney General Becerra Issues Statement on Department of Education's Illegal Decision
+  date: 2017-12-21
+  tier: 1
+  outlet: California Attorney General
+- url: https://www.npr.org/2017/12/21/572322624/education-dept-says-defrauded-students-should-receive-only-partial-debt-relief
+  title: Education Dept. Says Defrauded Students Should Receive Only Partial Debt Relief
+  date: 2017-12-21
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

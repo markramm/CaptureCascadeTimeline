@@ -4,32 +4,32 @@ date: 2017-08-01
 title: Courts Strike Down North Carolina Racial Gerrymandering, Legislature Redraws With Explicit Partisan Intent
 importance: 8
 tags:
-  - gerrymandering
-  - racial-discrimination
-  - north-carolina
-  - voting-rights
-  - republican-party
+- gerrymandering
+- racial-discrimination
+- north-carolina
+- voting-rights
+- republican-party
 actors:
-  - North Carolina General Assembly
-  - David Lewis
-  - Robert Rucho
-  - Republican Party
+- North Carolina General Assembly
+- David Lewis
+- Robert Rucho
+- Republican Party
 sources:
-  - url: https://www.npr.org/2017/08/30/547065920/under-pressure-north-carolina-draws-new-voting-maps
-    title: Accused Of Racial Gerrymandering, North Carolina's New Maps Also Under Scrutiny
-    publisher: NPR
-    date: 2017-08-30
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/court-cases/north-carolina-v-covington
-    title: North Carolina v. Covington
-    publisher: Brennan Center for Justice
-    date: 2018-01-01
-    tier: 1
-  - url: https://www.commoncause.org/north-carolina/work/common-cause-v-lewis/
-    title: Common Cause v. Lewis
-    publisher: Common Cause North Carolina
-    date: 2019-01-01
-    tier: 2
+- url: https://www.npr.org/2017/08/30/547065920/under-pressure-north-carolina-draws-new-voting-maps
+  title: Accused Of Racial Gerrymandering, North Carolina's New Maps Also Under Scrutiny
+  date: 2017-08-30
+  tier: 1
+  outlet: NPR
+- url: https://www.brennancenter.org/our-work/court-cases/north-carolina-v-covington
+  title: North Carolina v. Covington
+  date: 2018-01-01
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.commoncause.org/north-carolina/work/common-cause-v-lewis/
+  title: Common Cause v. Lewis
+  date: 2019-01-01
+  tier: 2
+  outlet: Common Cause North Carolina
 ---
 
 Federal courts strike down North Carolina's 2011 legislative redistricting as unconstitutional racial gerrymandering, finding that Republican lawmakers illegally packed African American voters into 28 districts. In response, the Republican-controlled legislature redraws the maps with explicit partisan rather than racial criteria—openly admitting the goal is to maximize Republican seats regardless of voter preferences.

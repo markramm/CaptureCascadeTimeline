@@ -15,9 +15,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/18/us/politics/dhs-luxury-jets-noem-shutdown.html
   title: Coast Guard Luxury Jet Purchase
-  publisher: New York Times
   date: '2025-10-18'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

@@ -20,14 +20,14 @@ actors:
 sources:
 - url: https://www.sec.gov/news/press-release/2010-59
   title: SEC Charges Goldman Sachs With Fraud in Structuring and Marketing of CDO Tied to Subprime Mortgages
-  publisher: Securities and Exchange Commission
   date: '2010-04-16'
   tier: 1
+  outlet: Securities and Exchange Commission
 - url: https://www.sec.gov/news/press-release/2010-123
   title: Goldman Sachs to Pay Record $550 Million to Settle SEC Charges Related to Subprime Mortgage CDO
-  publisher: Securities and Exchange Commission
   date: '2010-07-15'
   tier: 1
+  outlet: Securities and Exchange Commission
 status: confirmed
 ---
 

@@ -1,0 +1,38 @@
+---
+id: 2010-07-21--dodd-frank-creates-cfpb-elizabeth-warren
+date: '2010-07-21'
+title: Dodd-Frank Act Creates Consumer Financial Protection Bureau to Regulate Predatory Lending
+importance: 9
+actors:
+- Barack Obama
+- Elizabeth Warren
+- Richard Cordray
+- Consumer Financial Protection Bureau
+tags:
+- consumer-protection
+- regulatory-capture
+- predatory-lending
+- financial-reform
+- elizabeth warren
+- institutional-creation
+sources:
+- title: Consumer Financial Protection Bureau
+  url: https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau
+  outlet: Wikipedia
+  tier: 2
+- title: Consumer Financial Protection Bureau (CFPB) | History, Functions, & Controversies
+  url: https://www.britannica.com/money/Consumer-Financial-Protection-Bureau
+  outlet: Britannica Money
+  tier: 1
+- title: What is the Consumer Financial Protection Bureau, anyway?
+  url: https://www.pbs.org/newshour/economy/making-sense/what-is-the-consumer-financial-protection-bureau-anyway
+  outlet: PBS News
+  tier: 1
+- title: 'Industry Profile: Payday lenders - Lobbying'
+  url: https://www.opensecrets.org/federal-lobbying/industries/background?cycle=2024&id=F1420
+  outlet: OpenSecrets
+  tier: 1
+status: confirmed
+---
+
+President Barack Obama signed the Dodd-Frank Wall Street Reform and Consumer Protection Act, establishing the Consumer Financial Protection Bureau (CFPB) to regulate consumer financial products and protect Americans from predatory lending practices. The CFPB was the brainchild of Harvard Law Professor Elizabeth Warren, who first proposed a "Financial Product Safety Commission" in 2007 in Democracy Journal following the 2008 financial crisis. The agency consolidated consumer protection authority previously scattered across seven different federal agencies, giving it significant autonomy and enforcement powers. Obama appointed Warren as Special Advisor to set up the agency, but Republican opposition prevented her from becoming its first director. The CFPB officially began operations on July 21, 2011, with Richard Cordray as director. The agency's creation represented the most significant consumer protection reform in decades, with authority over payday lenders, student loan servicers, for-profit colleges, mortgage servicers, and other financial institutions that had systematically exploited low-income Americans. However, the CFPB immediately became a target of financial industry lobbying and Republican efforts to dismantle it. The payday lending industry alone spent $7.4 million lobbying in 2010 and $12.5 million in 2011 to influence Dodd-Frank implementation. The CFPB would return over $21 billion to defrauded consumers before the Trump administration systematically gutted its enforcement powers, demonstrating both the scale of predatory lending exploitation and the effectiveness of aggressive consumer protection regulation.

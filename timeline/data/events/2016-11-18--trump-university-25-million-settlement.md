@@ -4,31 +4,31 @@ date: 2016-11-18
 title: Trump Settles Trump University Fraud Cases for $25 Million, 10 Days After Election Victory
 importance: 9
 tags:
-  - Trump University
-  - Fraud
-  - Settlement
-  - Consumer Protection
-  - Accountability
+- trump university
+- fraud
+- settlement
+- consumer protection
+- accountability
 actors:
-  - Donald Trump
-  - Gonzalo Curiel
-  - Eric Schneiderman
+- Donald Trump
+- Gonzalo Curiel
+- Eric Schneiderman
 sources:
-  - url: https://www.washingtonpost.com/politics/source-trump-nearing-settlement-in-trump-university-fraud-cases/2016/11/18/8dc047c0-ada0-11e6-a31b-4b6397e625d0_story.html
-    title: Trump agrees to $25 million settlement in Trump University fraud cases
-    publisher: Washington Post
-    date: 2016-11-18
-    tier: 1
-  - url: https://www.nbcnews.com/politics/white-house/federal-court-approves-25-million-trump-university-settlement-n845181
-    title: Federal court approves $25 million Trump University settlement
-    publisher: NBC News
-    date: 2018-02-06
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Trump_University
-    title: Trump University
-    publisher: Wikipedia
-    date: 2016-11-18
-    tier: 2
+- url: https://www.washingtonpost.com/politics/source-trump-nearing-settlement-in-trump-university-fraud-cases/2016/11/18/8dc047c0-ada0-11e6-a31b-4b6397e625d0_story.html
+  title: Trump agrees to $25 million settlement in Trump University fraud cases
+  date: 2016-11-18
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.nbcnews.com/politics/white-house/federal-court-approves-25-million-trump-university-settlement-n845181
+  title: Federal court approves $25 million Trump University settlement
+  date: 2018-02-06
+  tier: 1
+  outlet: NBC News
+- url: https://en.wikipedia.org/wiki/Trump_University
+  title: Trump University
+  date: 2016-11-18
+  tier: 2
+  outlet: Wikipedia
 ---
 
 Donald Trump agreed on November 18, 2016 to pay $25 million to settle all three Trump University fraud lawsuits—two class actions and the New York Attorney General civil suit—just 10 days after winning the presidential election and less than two weeks before the San Diego class action was scheduled to go to trial. The settlement was reached despite Trump's repeated insistence throughout the campaign that he would never settle and would win at trial. The $25 million settlement distributed $21 million to participants in the class actions, $3 million to New Yorkers not covered by the class actions, and up to $1 million in penalties to the state of New York. The settlement agreement specified that Trump did not admit any wrongdoing, though the settlement amount and timing eliminated the possibility that Trump would be forced to testify under oath about his fraud scheme during his presidential transition.

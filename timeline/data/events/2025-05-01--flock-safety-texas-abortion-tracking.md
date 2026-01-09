@@ -12,7 +12,7 @@ actors:
 - Representative Robert Garcia
 tags:
 - surveillance
-- ALPR
+- alpr
 - abortion-surveillance
 - reproductive-rights
 - warrantless-surveillance

@@ -1,36 +1,36 @@
 ---
 id: 1989-05-01--trump-central-park-five-full-page-ads
 date: 1989-05-01
-title: "Trump Demands Death Penalty in $85,000 Ads Against Central Park Five"
+title: Trump Demands Death Penalty in $85,000 Ads Against Central Park Five
 importance: 9
 tags:
-  - Racism
-  - Central Park Five
-  - Criminal Justice
-  - Death Penalty
+- racism
+- central park five
+- criminal justice
+- death penalty
 actors:
-  - Donald Trump
-  - Yusef Salaam
-  - Korey Wise
-  - Antron McCray
-  - Kevin Richardson
-  - Raymond Santana
+- Donald Trump
+- Yusef Salaam
+- Korey Wise
+- Antron McCray
+- Kevin Richardson
+- Raymond Santana
 sources:
-  - url: https://time.com/5597843/central-park-five-trump-history/
-    title: "President Trump Played a Key Role in the Central Park Five Case"
-    publisher: Time
-    date: 2019-06-12
-    tier: 1
-  - url: https://www.npr.org/2024/09/11/nx-s1-5108632/central-park-five-trump-debate
-    title: "The Central Park Five and Trump, explained"
-    publisher: NPR
-    date: 2024-09-11
-    tier: 1
-  - url: https://www.documentcloud.org/documents/6131533-trumpdeathpenaltyad05011989/
-    title: "Trump's Central Park Five ad in Newsday"
-    publisher: DocumentCloud
-    date: 1989-05-01
-    tier: 1
+- url: https://time.com/5597843/central-park-five-trump-history/
+  title: President Trump Played a Key Role in the Central Park Five Case
+  date: 2019-06-12
+  tier: 1
+  outlet: TIME
+- url: https://www.npr.org/2024/09/11/nx-s1-5108632/central-park-five-trump-debate
+  title: The Central Park Five and Trump, explained
+  date: 2024-09-11
+  tier: 1
+  outlet: NPR
+- url: https://www.documentcloud.org/documents/6131533-trumpdeathpenaltyad05011989/
+  title: Trump's Central Park Five ad in Newsday
+  date: 1989-05-01
+  tier: 1
+  outlet: DocumentCloud
 ---
 
 Two weeks after five Black and Latino teenagers were arrested for the brutal rape and beating of a jogger in Central Park, Donald Trump spent $85,000 to place full-page advertisements in four major New York newspapers calling for their execution. The ads, which appeared in The New York Times, New York Daily News, New York Post, and Newsday, featured inflammatory language under the headline "BRING BACK THE DEATH PENALTY. BRING BACK OUR POLICE!"

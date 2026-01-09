@@ -25,10 +25,9 @@ sources:
   date: '2023-06-15'
 - title: 'President Biden: Remove Inspector General Cuffari Before You Leave Office'
   url: https://www.pogo.org/policy-letters/president-biden-remove-inspector-general-cuffari-before-you-leave-office
-  outlet: Project On Government Oversight
+  outlet: Project on Government Oversight
   date: '2024-11-14'
-- title: Despite critical report, Biden hasn't taken disciplinary action against DHS
-    watchdog
+- title: Despite critical report, Biden hasn't taken disciplinary action against DHS watchdog
   url: https://www.govexec.com/oversight/2024/12/despite-critical-report-biden-hasnt-taken-disciplinary-action-against-dhs-watchdog/401411/
   outlet: Government Executive
   date: '2024-12-04'

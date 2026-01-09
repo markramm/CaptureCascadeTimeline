@@ -1,0 +1,37 @@
+---
+id: 2014-10-22--davita-pays-350-million-doctor-kickback-settlement
+date: '2014-10-22'
+title: DaVita Pays $350 Million to Settle Doctor Kickback Allegations, Exposing Systematic Dialysis Profiteering Scheme
+importance: 8
+actors:
+- DaVita
+- Kent Thiry
+- Department of Justice
+- HHS Office of Inspector General
+tags:
+- healthcare
+- dialysis
+- medicare-fraud
+- kickbacks
+- regulatory-capture
+- patient-harm
+- systematic-corruption
+sources:
+- title: DaVita to Pay $350 Million to Resolve Allegations of Illegal Kickbacks
+  url: https://www.justice.gov/archives/opa/pr/davita-pay-350-million-resolve-allegations-illegal-kickbacks
+  outlet: U.S. Department of Justice
+  date: '2014-10-22'
+  tier: 1
+- title: DaVita to Pay $350 Million to Resolve Allegations of Illegal Kickbacks
+  url: https://oig.hhs.gov/fraud/enforcement/davita-to-pay-350-million-to-resolve-allegations-of-illegal-kickbacks/
+  outlet: HHS Office of Inspector General
+  date: '2014-10-22'
+  tier: 1
+- title: DaVita whistleblower case settles for $400M - doctor kickbacks
+  url: https://www.phillipsandcohen.com/whistleblower-behind-davitas-record-400-million-settlement-charges-alleging-kickbacks-doctors/
+  outlet: Phillips & Cohen LLP
+  date: '2014-10-22'
+  tier: 2
+---
+
+DaVita Healthcare Partners, the nation's second-largest dialysis provider, agrees to pay $350 million to resolve False Claims Act allegations that it paid illegal kickbacks to physicians to induce patient referrals to its dialysis clinics from 2005-2014. The scheme involved DaVita offering lucrative joint venture partnerships to nephrologists and vascular access physicians with significant patient populations suffering from kidney disease, selling them ownership stakes at artificially deflated prices through a practice internally called 'Hipper Compression.' DaVita would falsely depress the value of dialysis centers in internal calculations by assuming large declines in reimbursement rates from high-paying commercially insured patients (internally referred to as 'Hippers'), allowing physicians to purchase joint venture shares at below-market prices. Doctors who referred patients to centers they co-owned with DaVita received extraordinary returns ranging from 120% to 220% or more within two years of their initial investment. The settlement includes an additional $39 million civil forfeiture for specific joint ventures in Denver and $11.5 million to settle related state Medicaid claims, bringing the total to approximately $400 million. DaVita enters into a Corporate Integrity Agreement requiring it to unwind some business arrangements, restructure others, and submit to an Independent Monitor to review arrangements with nephrologists for Anti-Kickback Statute compliance. The case reveals how dialysis industry giants exploit the difference between Medicare reimbursement ($250 per treatment) and commercial insurance payments ($1,000+ per treatment) to create kickback schemes that steer patients toward higher-profit insurance plans. This settlement is part of a pattern: DaVita has paid nearly $1 billion in civil penalties since 2012 for fraud, waste, and kickback violations, demonstrating systematic profiteering in an industry that controls life-or-death treatment for 550,000 Americans with kidney failure.

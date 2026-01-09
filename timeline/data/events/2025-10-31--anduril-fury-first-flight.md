@@ -8,19 +8,19 @@ actors:
 - U.S. Air Force
 - Palmer Luckey
 tags:
-- Autonomous Weapons
-- AI Weapons
-- Military-Industrial Complex
-- Defense Contractors
+- autonomous weapons
+- ai weapons
+- military-industrial complex
+- defense contractors
 sources:
-- url: https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/
-  title: Anduril conducts first flight test of Air Force CCA drone prototype
-  publisher: DefenseScoop
+- title: Anduril conducts first flight test of Air Force CCA drone prototype
+  url: https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/
+  outlet: DefenseScoop
   date: '2025-10-31'
   tier: 3
-- url: https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/
-  title: Anduril CEO unveils the Fury unmanned fighter jet
-  publisher: CBS News
+- title: Anduril CEO unveils the Fury unmanned fighter jet
+  url: https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/
+  outlet: CBS News
   date: '2025-11-03'
   tier: 2
 ---

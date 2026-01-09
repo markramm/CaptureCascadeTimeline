@@ -1,8 +1,7 @@
 ---
 id: 2025-10-11--crypto-pac-141-million-war-chest
 date: '2025-10-11'
-title: Crypto Super PAC Fairshake Amasses $141M War Chest to Shape 2026 Elections
-  After Defeating Sherrod Brown
+title: Crypto Super PAC Fairshake Amasses $141M War Chest to Shape 2026 Elections After Defeating Sherrod Brown
 importance: 8
 actors:
 - Fairshake
@@ -11,23 +10,20 @@ actors:
 - Crypto industry
 sources:
 - url: https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026
-  title: Crypto spent millions to defeat Sherrod Brown and elect allies. It's ready
-    for a repeat in 2026
-  publisher: WOSU Public Media
+  title: Crypto spent millions to defeat Sherrod Brown and elect allies. It's ready for a repeat in 2026
   date: '2025-10-13'
   tier: 1
+  outlet: WOSU Public Media
 - url: https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html
-  title: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence
-    in 2026 election
-  publisher: CNBC
+  title: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 election
   date: '2025-01-30'
   tier: 2
+  outlet: CNBC
 - url: https://www.usnews.com/news/best-states/ohio/articles/2025-10-11/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026
-  title: Crypto Spent Millions to Defeat Sherrod Brown and Elect Allies. It's Ready
-    for a Repeat in 2026
-  publisher: U.S. News
+  title: Crypto Spent Millions to Defeat Sherrod Brown and Elect Allies. It's Ready for a Repeat in 2026
   date: '2025-10-11'
   tier: 2
+  outlet: U.S. News
 tags:
 - regulatory-capture
 - election-manipulation

@@ -1,8 +1,7 @@
 ---
 id: 2025-11-06--glen-casada-pardon-tennessee-corruption
 date: '2025-11-06'
-title: Trump Pardons Former Tennessee House Speaker Glen Casada and Chief of Staff
-  Convicted of Federal Corruption
+title: Trump Pardons Former Tennessee House Speaker Glen Casada and Chief of Staff Convicted of Federal Corruption
 importance: 8
 tags:
 - pardons
@@ -17,16 +16,16 @@ actors:
 sources:
 - title: Trump pardons ex-Tennessee GOP House speaker Glen Casada, top aide
   url: https://www.nbcnews.com/politics/donald-trump/trump-pardons-former-tennessee-house-speaker-aide-convicted-federal-co-rcna242544
-  publisher: NBC News
   tier: 1
+  outlet: NBC News
 - title: Trump pardons former Tennessee House speaker and aide, convicted of fraud
   url: https://www.msnbc.com/top-stories/latest/trump-pardons-tennessee-house-speaker-glen-casada-cothren-rcna242644
-  publisher: MSNBC
   tier: 2
+  outlet: MSNBC
 - title: Trump pardons former Tennessee Speaker Casada, ex-chief of staff
   url: https://tennesseelookout.com/briefs/former-tennessee-speaker-casada-ex-chief-of-staff-reportedly-pardoned/
-  publisher: Tennessee Lookout
   tier: 2
+  outlet: Tennessee Lookout
 ---
 
 President Trump pardoned former Tennessee House Speaker Glen Casada and his chief of staff Cade Cothren just weeks after they were sentenced to federal prison for public corruption charges. Casada received a three-year sentence in September 2025 for orchestrating a 2020 scheme to receive over $50,000 in taxpayer money through a fraudulent mailer program, while Cothren was sentenced to 2.5 years. The two had set up a secret company that exploited the state's postage and printing program, which provides House members $3,000 annually for constituent mailers, billing the state while operating the vendor themselves.

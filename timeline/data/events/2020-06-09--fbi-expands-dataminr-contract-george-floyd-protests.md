@@ -22,19 +22,19 @@ actors:
 sources:
 - title: Police Surveilled George Floyd Protests With Help From Twitter-Affiliated Startup Dataminr
   url: https://theintercept.com/2020/07/09/twitter-dataminr-police-spy-surveillance-black-lives-matter-protests/
-  publisher: The Intercept
   date: '2020-07-09'
   tier: 1
+  outlet: The Intercept
 - title: FBI Expands Ability to Monitor Social Media, Location Data
   url: https://theintercept.com/2020/06/24/fbi-surveillance-social-media-cellphone-dataminr-venntel/
-  publisher: The Intercept
   date: '2020-06-24'
   tier: 1
+  outlet: The Intercept
 - title: FBI Awards Dataminr Contract for Twitter 'Firehose'
   url: https://www.nextgov.com/emerging-tech/2016/11/fbi-awards-dataminr-contract-twitter-firehose/133152/
-  publisher: Nextgov
   date: '2016-11-01'
   tier: 2
+  outlet: Nextgov
 status: confirmed
 ---
 

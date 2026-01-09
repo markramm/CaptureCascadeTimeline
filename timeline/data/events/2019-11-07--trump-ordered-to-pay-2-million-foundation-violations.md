@@ -4,39 +4,39 @@ date: 2019-11-07
 title: Judge Orders Trump to Pay $2 Million for Misusing Trump Foundation Charity Funds
 importance: 9
 tags:
-  - Trump Foundation
-  - Charity Fraud
-  - Court Judgment
-  - NY Attorney General
-  - Saliann Scarpulla
-  - Accountability
+- trump foundation
+- charity fraud
+- court judgment
+- ny attorney general
+- saliann scarpulla
+- accountability
 actors:
-  - Saliann Scarpulla
-  - Donald Trump
-  - Letitia James
-  - Trump Foundation
+- Saliann Scarpulla
+- Donald Trump
+- Letitia James
+- Trump Foundation
 status: confirmed
 sources:
-  - url: https://ag.ny.gov/press-release/2019/court-orders-president-trump-pay-2-million-illegally-using-trump-foundation
-    title: Court Orders President Trump To Pay $2 Million For Illegally Using Trump Foundation Funds
-    publisher: New York Attorney General
-    date: 2019-11-07
-    tier: 1
-  - url: https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=8egPCj8KJexIX9IHbmxRqg==&system=prod
-    title: New York v. Trump Foundation - Final Judgment
-    publisher: New York State Supreme Court
-    date: 2019-11-07
-    tier: 1
-  - url: https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html
-    title: Trump Ordered to Pay $2 Million to Charities for Misuse of Foundation
-    publisher: New York Times
-    date: 2019-11-07
-    tier: 1
-  - url: https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds
-    title: Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds
-    publisher: NPR
-    date: 2019-11-07
-    tier: 1
+- url: https://ag.ny.gov/press-release/2019/court-orders-president-trump-pay-2-million-illegally-using-trump-foundation
+  title: Court Orders President Trump To Pay $2 Million For Illegally Using Trump Foundation Funds
+  date: 2019-11-07
+  tier: 1
+  outlet: New York Attorney General
+- url: https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=8egPCj8KJexIX9IHbmxRqg==&system=prod
+  title: New York v. Trump Foundation - Final Judgment
+  date: 2019-11-07
+  tier: 1
+  outlet: New York State Supreme Court
+- url: https://www.nytimes.com/2019/11/07/nyregion/trump-charities-new-york.html
+  title: Trump Ordered to Pay $2 Million to Charities for Misuse of Foundation
+  date: 2019-11-07
+  tier: 1
+  outlet: The New York Times
+- url: https://www.npr.org/2019/11/07/777287610/judge-says-trump-must-pay-2-million-over-misuse-of-foundation-funds
+  title: Judge Says Trump Must Pay $2 Million Over Misuse Of Foundation Funds
+  date: 2019-11-07
+  tier: 1
+  outlet: NPR
 ---
 
 New York State Supreme Court Justice Saliann Scarpulla ordered President Donald Trump to pay $2 million in damages to eight legitimate charities for systematically misusing the Trump Foundation for personal, business, and political purposes. The judgment found that Trump had "breached his fiduciary duties" as Foundation president and personally benefited from charitable assets meant for public good. The court also mandated that Trump and his adult children complete mandatory training on the legal requirements for operating charitable foundations and imposed restrictions on Trump's ability to serve on charity boards without prior court approval - extraordinary judicial sanctions acknowledging his systematic abuse of charitable status.

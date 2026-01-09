@@ -24,7 +24,7 @@ sources:
   date: '1999-09-01'
 - title: Fannie Mae Eases Credit Requirements
   url: https://www.nytimes.com/1999/09/30/business/fannie-mae-eases-credit-to-aid-mortgage-lending.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '1999-09-30'
 - title: Thoughtful Reform of U.S. Housing Policy
   url: https://www.brookings.edu/articles/thoughtful-reform-of-u-s-housing-policy/

@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://fortune.com/2015/10/31/valeant-scandal/
   title: Valeant - A timeline of the big Pharma scandal
-  publisher: Fortune
   date: '2015-10-31'
   tier: 2
+  outlet: Fortune
 - url: https://www.cbc.ca/news/business/valeant-senate-ceo-1.3555259
   title: Valeant Pharmaceuticals blasted by U.S. lawmakers over drug price hikes
-  publisher: CBC News
   date: '2016-04-27'
   tier: 2
+  outlet: CBC News
 - url: https://www.nbcnews.com/health/health-news/valeant-ceo-faces-hostile-congress-regrets-drug-price-hikes-n563386
   title: Valeant CEO Faces Hostile Congress, Regrets Drug Price Hikes
-  publisher: NBC News
   date: '2016-04-27'
   tier: 2
+  outlet: NBC News
 - url: https://www.sec.gov/newsroom/press-releases/2020-169
   title: Pharmaceutical Company and Former Executives Charged With Misleading Financial Disclosures
-  publisher: Securities and Exchange Commission
   date: '2020-07-28'
   tier: 1
+  outlet: Securities and Exchange Commission
 actors:
 - Valeant Pharmaceuticals
 - J. Michael Pearson

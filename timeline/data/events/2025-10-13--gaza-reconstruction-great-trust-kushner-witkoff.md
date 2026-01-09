@@ -1,8 +1,7 @@
 ---
 id: 2025-10-13--gaza-reconstruction-great-trust-kushner-witkoff
 date: '2025-10-13'
-title: Trump Administration Unveils Gaza GREAT Trust Reconstruction Plan at Egypt
-  Summit with Kushner and Witkoff
+title: Trump Administration Unveils Gaza GREAT Trust Reconstruction Plan at Egypt Summit with Kushner and Witkoff
 importance: 9
 actors:
 - Trump
@@ -12,19 +11,19 @@ actors:
 sources:
 - url: https://therealdeal.com/national/2025/10/21/kushner-witkoff-pitch-gaza-reconstruction-as-50b-play/
   title: Kushner and Witkoff pitch Gaza reconstruction as $50B real estate play
-  publisher: The Real Deal
   date: '2025-10-21'
   tier: 2
+  outlet: The Real Deal
 - url: https://arabcenterdc.org/resource/the-great-trust-for-gaza-a-blueprint-for-dispossession-not-reconstruction/
   title: 'The GREAT Trust for Gaza: A Blueprint for Dispossession, Not Reconstruction'
-  publisher: Arab Center DC
   date: '2025-09-01'
   tier: 2
+  outlet: Arab Center DC
 - url: https://www.cnbc.com/2025/09/01/gaza-riviera-trump-administration-weighs-post-war-redevelopment-plan.html
   title: 'Gaza Riviera: Trump administration weighs post-war redevelopment plan'
-  publisher: CNBC
   date: '2025-09-01'
   tier: 2
+  outlet: CNBC
 tags:
 - conflicts-of-interest
 - self-dealing

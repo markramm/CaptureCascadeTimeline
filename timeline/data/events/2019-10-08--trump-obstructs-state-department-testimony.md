@@ -4,32 +4,32 @@ date: 2019-10-08
 title: Trump Blocks Ambassador Sondland Testimony, Declares Total Obstruction of Congress
 importance: 9
 tags:
-  - First Impeachment
-  - Obstruction of Congress
-  - Ukraine
-  - State Department
-  - Gordon Sondland
+- first impeachment
+- obstruction of congress
+- ukraine
+- state department
+- gordon sondland
 actors:
-  - Donald Trump
-  - Gordon Sondland
-  - Mike Pompeo
-  - Adam Schiff
+- Donald Trump
+- Gordon Sondland
+- Mike Pompeo
+- Adam Schiff
 sources:
-  - url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=700
-    title: Statement on State Department Directing Ambassador Sondland Not to Appear for Deposition
-    publisher: House Intelligence Committee
-    date: 2019-10-08
-    tier: 1
-  - url: https://twitter.com/realDonaldTrump/status/1181560708808486913
-    title: Trump Tweet on Sondland Testimony
-    publisher: Donald Trump via Twitter
-    date: 2019-10-08
-    tier: 1
-  - url: https://www.reuters.com/article/us-usa-trump-whistleblower-sondland/eu-ambassador-sondland-will-not-testify-in-trump-impeachment-probe-idUSKBN1WN1FO
-    title: EU Ambassador Sondland will not testify in Trump impeachment probe
-    publisher: Reuters
-    date: 2019-10-08
-    tier: 1
+- url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=700
+  title: Statement on State Department Directing Ambassador Sondland Not to Appear for Deposition
+  date: 2019-10-08
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://twitter.com/realDonaldTrump/status/1181560708808486913
+  title: Trump Tweet on Sondland Testimony
+  date: 2019-10-08
+  tier: 1
+  outlet: Donald Trump via Twitter
+- url: https://www.reuters.com/article/us-usa-trump-whistleblower-sondland/eu-ambassador-sondland-will-not-testify-in-trump-impeachment-probe-idUSKBN1WN1FO
+  title: EU Ambassador Sondland will not testify in Trump impeachment probe
+  date: 2019-10-08
+  tier: 1
+  outlet: Reuters
 ---
 
 The Trump administration blocked EU Ambassador Gordon Sondland from testifying before House impeachment investigators just hours before his scheduled deposition on October 8, 2019, inaugurating a pattern of complete non-cooperation with Congress that would form the basis for the obstruction of Congress impeachment article. Sondland, a key figure in the Ukraine pressure campaign, had traveled to Washington and was prepared to appear when State Department officials—acting on White House orders—directed him not to comply with the congressional subpoena. Trump tweeted that morning, "I would love to send Ambassador Sondland, a really good man and great American, to testify, but unfortunately he would be testifying before a totally compromised kangaroo court."

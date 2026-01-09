@@ -11,9 +11,9 @@ actors:
 - U.S. Department of Homeland Security
 tags:
 - surveillance
-- ALPR
+- alpr
 - immigration-enforcement
-- ICE
+- ice
 - warrantless-surveillance
 - data-sharing
 capture_lanes:

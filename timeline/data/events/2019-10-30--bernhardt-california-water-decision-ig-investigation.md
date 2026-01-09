@@ -4,33 +4,33 @@ date: 2019-10-30
 title: Interior IG Investigates Bernhardt for California Water Decision Benefiting Former Client Westlands
 importance: 8
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - David Bernhardt
-  - Interior Department
-  - Inspector General
-  - Conflicts of Interest
-  - Westlands Water District
+- cabinet corruption
+- ethics violations
+- david bernhardt
+- interior department
+- inspector general
+- conflicts of interest
+- westlands water district
 actors:
-  - David Bernhardt
-  - Westlands Water District
-  - David Murillo
+- David Bernhardt
+- Westlands Water District
+- David Murillo
 sources:
-  - url: https://capitolweekly.net/former-california-water-lobbyist-trumps-interior-secretary-under-investigation/
-    title: "Former California water lobbyist, Trump's Interior Secretary, under investigation"
-    publisher: Capitol Weekly
-    date: 2019-04-15
-    tier: 2
-  - url: https://www.cnn.com/2019/04/15/politics/bernhardt-interior-ig-investigation/index.html
-    title: "Interior IG opens investigation into Secretary Bernhardt four days after confirmation"
-    publisher: CNN
-    date: 2019-04-15
-    tier: 1
-  - url: https://sjvsun.com/ag/feds-clear-ex-interior-sec-bernhardt-in-probe-of-westlands-ties/
-    title: "Feds clear Ex-Interior Sec. Bernhardt in probe of Westlands ties"
-    publisher: San Joaquin Valley Sun
-    date: 2022-02-17
-    tier: 2
+- url: https://capitolweekly.net/former-california-water-lobbyist-trumps-interior-secretary-under-investigation/
+  title: Former California water lobbyist, Trump's Interior Secretary, under investigation
+  date: 2019-04-15
+  tier: 2
+  outlet: Capitol Weekly
+- url: https://www.cnn.com/2019/04/15/politics/bernhardt-interior-ig-investigation/index.html
+  title: Interior IG opens investigation into Secretary Bernhardt four days after confirmation
+  date: 2019-04-15
+  tier: 1
+  outlet: CNN
+- url: https://sjvsun.com/ag/feds-clear-ex-interior-sec-bernhardt-in-probe-of-westlands-ties/
+  title: Feds clear Ex-Interior Sec. Bernhardt in probe of Westlands ties
+  date: 2022-02-17
+  tier: 2
+  outlet: San Joaquin Valley Sun
 ---
 
 The Interior Department Inspector General opened an investigation into Secretary David Bernhardt's California water policy decisions that benefited Westlands Water District, his former lobbying client. The investigation examined whether Bernhardt violated ethics agreements by influencing new environmental rules for water deliveries to California's San Joaquin Valley via the Central Valley Project. In February 2019, Acting Secretary Bernhardt reportedly directed David Murillo, the Acting Commissioner for the Bureau of Reclamation, to roll back environmental protections for delta smelt and winter-run Chinook salmon in the San Francisco Bay Delta region. Bernhardt served as a lobbyist for Westlands until 2016, the year before he joined Interior as Deputy Secretary.

@@ -1,0 +1,39 @@
+---
+id: 2002-01-01--alec-living-wage-mandate-preemption-act-blocks-local-minimum-wage
+date: '2002-01-01'
+title: ALEC Adopts Living Wage Mandate Preemption Act to Block Local Minimum Wage Increases
+importance: 8
+actors:
+- American Legislative Exchange Council (ALEC)
+- National Restaurant Association
+- McDonald's
+- Walmart
+- state Republican legislators
+tags:
+- labor-suppression
+- alec
+- minimum-wage
+- preemption
+- local-democracy
+- model-legislation
+- corporate-lobbying
+- wage-theft
+sources:
+- title: Living Wage Mandate Preemption Act
+  url: https://alec.org/model-policy/living-wage-mandate-preemption-act/
+  outlet: American Legislative Exchange Council
+  date: 2002-01
+  tier: 2
+- title: 'Fighting Wage Preemption: How Workers Have Lost Billions in Wages'
+  url: https://www.nelp.org/publication/fighting-wage-preemption/
+  outlet: National Employment Law Project
+  date: '2017'
+  tier: 1
+- title: City governments are raising standards for working people—and state legislators are lowering them back down
+  url: https://www.epi.org/publication/city-governments-are-raising-standards-for-working-people-and-state-legislators-are-lowering-them-back-down/
+  outlet: Economic Policy Institute
+  date: '2017-06-13'
+  tier: 1
+---
+
+The American Legislative Exchange Council (ALEC) Board of Directors approves the "Living Wage Mandate Preemption Act" in January 2002, following adoption by ALEC's Commerce, Insurance, and Economic Development Task Force at the 2001 States and Nation Policy Summit. The model legislation is designed to prevent cities and counties from setting higher minimum wages than state law allows, repealing existing local living wage ordinances and prohibiting political subdivisions from enacting new ones. The act represents a strategic use of state preemption to block progressive local democracy on wage issues, protecting corporate profits by preventing cities from responding to cost-of-living differences or worker needs. Over the next 15 years, 25 states pass preemption laws based on ALEC's model, including Florida (2003), Georgia (2004), Wisconsin (2011), Louisiana (2012), Alabama, Indiana, Kansas, Mississippi, Oklahoma, and Tennessee (2013), Michigan, Missouri, and Oregon (2015). The preemption laws have devastating impact: in 12 cities and counties that adopted local wage laws only to be preempted by state legislatures, nearly 346,000 workers lose an average of $4,100 per year individually—nearly $1.5 billion per year collectively. The model legislation demonstrates ALEC's multi-pronged strategy: not just attacking unions directly through right-to-work, but also preventing progressive local governments from raising wages through democratic processes, ensuring a permanent low-wage workforce for ALEC's corporate members including McDonald's, Walmart, and the National Restaurant Association.

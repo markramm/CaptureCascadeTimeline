@@ -4,49 +4,49 @@ date: '2023-08-14'
 title: Fulton County DA Fani Willis Indicts Trump and 18 Co-Defendants on Georgia RICO Charges
 importance: 10
 actors:
-  - Donald Trump
-  - Fani Willis
-  - Rudy Giuliani
-  - Mark Meadows
-  - John Eastman
-  - Sidney Powell
-  - Jeffrey Clark
-  - Brad Raffensperger
+- Donald Trump
+- Fani Willis
+- Rudy Giuliani
+- Mark Meadows
+- John Eastman
+- Sidney Powell
+- Jeffrey Clark
+- Brad Raffensperger
 tags:
-  - criminal-indictment
-  - georgia
-  - RICO
-  - election-fraud
-  - fake-electors
-  - accountability
+- criminal-indictment
+- georgia
+- rico
+- election-fraud
+- fake-electors
+- accountability
 status: confirmed
 sources:
-  - title: Donald Trump is indicted in Georgia for seeking to overturn the 2020 election
-    url: https://www.npr.org/2023/08/14/1152841080/trump-fulton-county-georgia-election-investigation-indictments
-    outlet: NPR
-    date: '2023-08-14'
-    tier: 1
-  - title: Read the full Georgia indictment against Trump and 18 allies
-    url: https://www.pbs.org/newshour/politics/read-the-full-georgia-indictment-against-trump-and-18-allies
-    outlet: PBS
-    date: '2023-08-14'
-    tier: 1
-  - title: Why Fulton County District Attorney Fani Willis chose RICO to indict Trump
-    url: https://www.npr.org/2023/08/15/1193875137/why-fulton-county-district-attorney-fani-willis-chose-rico-to-indict-trump
-    outlet: NPR
-    date: '2023-08-15'
-    tier: 1
-  - title: The Georgia case against Trump is loaded with breathtaking ambition
-    url: https://www.axios.com/2023/08/15/georgia-indictment-fani-willis-trump-rico
-    outlet: Axios
-    date: '2023-08-15'
-    tier: 2
-notes: 'This was the most sweeping criminal case against Trump, charging him and 18 co-defendants under Georgia''s RICO statute. The indictment included the infamous "find 11,780 votes" call to Brad Raffensperger and the fake electors scheme in Georgia.'
+- title: Donald Trump is indicted in Georgia for seeking to overturn the 2020 election
+  url: https://www.npr.org/2023/08/14/1152841080/trump-fulton-county-georgia-election-investigation-indictments
+  outlet: NPR
+  date: '2023-08-14'
+  tier: 1
+- title: Read the full Georgia indictment against Trump and 18 allies
+  url: https://www.pbs.org/newshour/politics/read-the-full-georgia-indictment-against-trump-and-18-allies
+  outlet: PBS
+  date: '2023-08-14'
+  tier: 1
+- title: Why Fulton County District Attorney Fani Willis chose RICO to indict Trump
+  url: https://www.npr.org/2023/08/15/1193875137/why-fulton-county-district-attorney-fani-willis-chose-rico-to-indict-trump
+  outlet: NPR
+  date: '2023-08-15'
+  tier: 1
+- title: The Georgia case against Trump is loaded with breathtaking ambition
+  url: https://www.axios.com/2023/08/15/georgia-indictment-fani-willis-trump-rico
+  outlet: Axios
+  date: '2023-08-15'
+  tier: 2
+notes: This was the most sweeping criminal case against Trump, charging him and 18 co-defendants under Georgia's RICO statute. The indictment included the infamous "find 11,780 votes" call to Brad Raffensperger and the fake electors scheme in Georgia.
 capture_lanes:
-  - Judiciary Capture
-  - Election Subversion
-  - Executive Power Expansion
-  - Accountability Evasion
+- Judiciary Capture
+- Election Subversion
+- Executive Power Expansion
+- Accountability Evasion
 ---
 
 Fulton County District Attorney Fani Willis announced a sweeping 98-page indictment charging former President Donald Trump and 18 co-defendants with violating Georgia's Racketeer Influenced and Corrupt Organizations (RICO) Act in a conspiracy to overturn the 2020 presidential election results in Georgia. The indictment represented the most comprehensive criminal case against Trump, charging him with 41 counts and detailing 161 criminal acts in what prosecutors described as a "criminal enterprise" to subvert democracy.

@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.opensecrets.org/revolving/rev_summary.php?id=34118
   title: Revolving Door - Tom Daschle Employment Summary
-  publisher: OpenSecrets
   date: '2024-01-01'
   tier: 1
+  outlet: OpenSecrets
 - url: https://www.washingtonpost.com/wp-dyn/articles/A32604-2005Mar13.html
   title: Daschle Moving to K Street
-  publisher: Washington Post
   date: '2005-03-13'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.britannica.com/biography/Tom-Daschle
   title: Tom Daschle - US Senate Majority Leader, Tax Reform Advocate
-  publisher: Britannica
   date: '2024-01-01'
   tier: 2
+  outlet: Britannica
 actors:
 - Tom Daschle
 - InterMedia Advisors

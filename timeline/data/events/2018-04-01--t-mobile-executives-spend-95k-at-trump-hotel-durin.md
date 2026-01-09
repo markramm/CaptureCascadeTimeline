@@ -18,10 +18,9 @@ tags:
 - corporate-influence
 status: confirmed
 sources:
-- title: T-Mobile executives stayed at Trump hotel more than 52 times during merger
-    review
+- title: T-Mobile executives stayed at Trump hotel more than 52 times during merger review
   url: https://www.washingtonpost.com/politics/t-mobile-executives-seeking-merger-stayed-at-trump-hotel-more-than-52-times/2019/03/05/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-03-05'
 - title: T-Mobile admitted it spent $195,000 at Trump Hotel
   url: https://www.reuters.com/article/us-sprint-corp-m-a-trump-idUSKCN1QM1ZU

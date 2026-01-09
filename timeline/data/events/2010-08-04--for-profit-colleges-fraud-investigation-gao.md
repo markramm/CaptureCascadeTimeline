@@ -4,29 +4,29 @@ date: 2010-08-04
 title: GAO Investigation Exposes Systemic For-Profit College Fraud - Industry Takes 25% of Federal Aid
 importance: 8
 tags:
-  - for-profit-colleges
-  - student-debt
-  - fraud
-  - regulatory-capture
+- for-profit-colleges
+- student-debt
+- fraud
+- regulatory-capture
 actors:
-  - Government Accountability Office
-  - Tom Harkin
+- Government Accountability Office
+- Tom Harkin
 sources:
-  - url: https://www.gao.gov/products/gao-10-948t
-    title: "For-Profit Colleges: Undercover Testing Finds Colleges Encouraged Fraud and Engaged in Deceptive Marketing"
-    publisher: U.S. Government Accountability Office
-    date: 2010-08-04
-    tier: 1
-  - url: https://www.help.senate.gov/imo/media/for_profit_report/ExecutiveSummary.pdf
-    title: For-Profit Higher Education - The Failure to Safeguard the Federal Investment
-    publisher: U.S. Senate HELP Committee
-    date: 2012-07-30
-    tier: 1
-  - url: https://www.npr.org/2010/08/04/128950238/undercover-probes-find-fraud-at-for-profit-colleges
-    title: Undercover Probes Find Fraud At For-Profit Colleges
-    publisher: NPR
-    date: 2010-08-04
-    tier: 1
+- url: https://www.gao.gov/products/gao-10-948t
+  title: 'For-Profit Colleges: Undercover Testing Finds Colleges Encouraged Fraud and Engaged in Deceptive Marketing'
+  date: 2010-08-04
+  tier: 1
+  outlet: U.S. Government Accountability Office
+- url: https://www.help.senate.gov/imo/media/for_profit_report/ExecutiveSummary.pdf
+  title: For-Profit Higher Education - The Failure to Safeguard the Federal Investment
+  date: 2012-07-30
+  tier: 1
+  outlet: U.S. Senate HELP Committee
+- url: https://www.npr.org/2010/08/04/128950238/undercover-probes-find-fraud-at-for-profit-colleges
+  title: Undercover Probes Find Fraud At For-Profit Colleges
+  date: 2010-08-04
+  tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 1935-07-05--wagner-act-establishes-union-rights-collective-bargaining
 date: '1935-07-05'
-title: 'Wagner Act Establishes Federal Protection for Union Rights and Collective Bargaining'
+title: Wagner Act Establishes Federal Protection for Union Rights and Collective Bargaining
 importance: 10
 actors:
 - Franklin D. Roosevelt
@@ -11,25 +11,25 @@ actors:
 - American workers
 tags:
 - labor-rights
-- Wagner-Act
-- NLRA
-- New-Deal
+- wagner-act
+- nlra
+- new-deal
 - collective-bargaining
 - union-organizing
 sources:
-- title: '1935 Passage of the Wagner Act'
+- title: 1935 Passage of the Wagner Act
   url: https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1935-passage-of-the-wagner-act
   outlet: National Labor Relations Board
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'National Labor Relations Act of 1935'
+- title: National Labor Relations Act of 1935
   url: https://www.archives.gov/milestone-documents/national-labor-relations-act
   outlet: National Archives
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'FDR and the Wagner Act'
+- title: FDR and the Wagner Act
   url: https://www.fdrlibrary.org/wagner-act
   outlet: FDR Presidential Library & Museum
   date: '2024-01-01'

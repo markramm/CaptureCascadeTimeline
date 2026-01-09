@@ -4,38 +4,38 @@ date: 2018-11-29
 title: Michael Cohen Pleads Guilty to Lying to Congress About Trump Tower Moscow Timeline
 importance: 8
 tags:
-  - Mueller Investigation
-  - Trump Tower Moscow
-  - Congressional Lies
-  - Michael Cohen
-  - Russia Business Dealings
-  - Campaign Finance
+- mueller investigation
+- trump tower moscow
+- congressional lies
+- michael cohen
+- russia business dealings
+- campaign finance
 actors:
-  - Michael Cohen
-  - Donald Trump
-  - Dmitry Peskov
-  - Robert Mueller
+- Michael Cohen
+- Donald Trump
+- Dmitry Peskov
+- Robert Mueller
 sources:
-  - url: https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
-    title: Michael Cohen Sentenced To 3 Years In Prison
-    publisher: U.S. Department of Justice - Southern District of New York
-    date: 2018-12-12
-    tier: 1
-  - url: https://www.justice.gov/archives/sco/file/1115576/download
-    title: Criminal Information - United States v. Michael Cohen
-    publisher: U.S. Department of Justice - Special Counsel's Office
-    date: 2018-11-29
-    tier: 1
-  - url: https://www.npr.org/2018/11/29/671864979/trump-moscow-real-estate-talks-continued-into-presidential-run-documents-show
-    title: Michael Cohen Admits Trump Tower-Moscow Talks Continued Into 2016 Presidential Run
-    publisher: NPR
-    date: 2018-11-29
-    tier: 1
-  - url: https://www.nbcnews.com/politics/politics-news/former-trump-attorney-michael-cohen-pleads-guilty-lying-congress-n941616
-    title: Michael Cohen pleads guilty to lying about Trump Tower project in Moscow
-    publisher: NBC News
-    date: 2018-11-29
-    tier: 1
+- url: https://www.justice.gov/usao-sdny/pr/michael-cohen-sentenced-3-years-prison
+  title: Michael Cohen Sentenced To 3 Years In Prison
+  date: 2018-12-12
+  tier: 1
+  outlet: U.S. Department of Justice - Southern District of New York
+- url: https://www.justice.gov/archives/sco/file/1115576/download
+  title: Criminal Information - United States v. Michael Cohen
+  date: 2018-11-29
+  tier: 1
+  outlet: U.S. Department of Justice - Special Counsel's Office
+- url: https://www.npr.org/2018/11/29/671864979/trump-moscow-real-estate-talks-continued-into-presidential-run-documents-show
+  title: Michael Cohen Admits Trump Tower-Moscow Talks Continued Into 2016 Presidential Run
+  date: 2018-11-29
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/politics/politics-news/former-trump-attorney-michael-cohen-pleads-guilty-lying-congress-n941616
+  title: Michael Cohen pleads guilty to lying about Trump Tower project in Moscow
+  date: 2018-11-29
+  tier: 1
+  outlet: NBC News
 ---
 
 Michael Cohen, President Donald Trump's former personal attorney and longtime fixer, pleaded guilty on November 29, 2018, to making false statements to Congress about the Trump Organization's negotiations to build a Trump Tower in Moscow. This was Cohen's second guilty plea in 2018 and came as part of a cooperation agreement with Special Counsel Robert Mueller's office. The case directly implicated the Trump campaign's business ties to Russia, revealing that negotiations with the Kremlin continued deep into the 2016 presidential primary season while Trump publicly denied having business relationships with Russia.

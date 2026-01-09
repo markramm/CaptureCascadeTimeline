@@ -1,8 +1,7 @@
 ---
 id: 2017-04-19--fox-news-fires-bill-oreilly-after-13-million-sexual-harassment-settlements-trump-defended-him
 date: '2017-04-19'
-title: Fox News Fires Bill O'Reilly After $13 Million Sexual Harassment Settlements
-  - Trump Had Defended Him
+title: Fox News Fires Bill O'Reilly After $13 Million Sexual Harassment Settlements - Trump Had Defended Him
 importance: 8
 tags:
 - fox-news
@@ -20,14 +19,14 @@ actors:
 sources:
 - url: https://www.nbcnews.com/news/amp/ncna748236
   title: Bill O'Reilly Officially Out at Fox News Amid Sexual Harassment Claims
-  publisher: NBC News
   date: '2017-04-19'
   tier: 1
+  outlet: NBC News
 - url: https://abcnews.go.com/Business/bill-oreilly-fox-news/story?id=46887583
   title: Bill O'Reilly out at Fox News amid sexual misconduct allegations
-  publisher: ABC News
   date: '2017-04-19'
   tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

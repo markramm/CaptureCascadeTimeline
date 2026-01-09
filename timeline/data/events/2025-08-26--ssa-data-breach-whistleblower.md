@@ -14,7 +14,7 @@ sources:
   title: Whistleblower says DOGE put Social Security numbers at risk
   url: https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy
 - date: '2025-08-26'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Social Security official says DOGE compromised Americans' data
   url: https://www.washingtonpost.com/politics/2025/08/26/social-security-data-cloud-whistleblower/
 - date: '2025-08-26'

@@ -4,34 +4,34 @@ date: 2023-01-01
 title: Amazon AWS Government Contracts Reach Multi-Billion Dollar Annual Scale
 importance: 8
 actors:
-  - Amazon Web Services
-  - CIA
-  - NSA
-  - Pentagon
-  - Department of Defense
+- Amazon Web Services
+- CIA
+- NSA
+- Pentagon
+- Department of Defense
 tags:
-  - government-contracts
-  - surveillance-infrastructure
-  - cloud-computing
-  - intelligence-agencies
-  - aws
-  - government-dependence
+- government-contracts
+- surveillance-infrastructure
+- cloud-computing
+- intelligence-agencies
+- aws
+- government-dependence
 sources:
-  - url: https://www.tenderalpha.com/blog/post/quantitative-analysis/how-much-do-government-contracts-contribute-to-amazon-web-services-growth
-    title: "How Much Do Government Contracts Contribute to Amazon Web Services' Growth?"
-    publisher: TenderAlpha
-    date: 2024-01-15
-    tier: 2
-  - url: https://www.executivegov.com/articles/top-government-contracts-won-by-amazon-web-services
-    title: "Top Government Contracts Won by Amazon Web Services"
-    publisher: ExecutiveGov
-    date: 2023-08-15
-    tier: 2
-  - url: https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/
-    title: "NSA Awards Secret $10 Billion Contract to Amazon"
-    publisher: Nextgov/FCW
-    date: 2021-08-10
-    tier: 1
+- url: https://www.tenderalpha.com/blog/post/quantitative-analysis/how-much-do-government-contracts-contribute-to-amazon-web-services-growth
+  title: How Much Do Government Contracts Contribute to Amazon Web Services' Growth?
+  date: 2024-01-15
+  tier: 2
+  outlet: TenderAlpha
+- url: https://www.executivegov.com/articles/top-government-contracts-won-by-amazon-web-services
+  title: Top Government Contracts Won by Amazon Web Services
+  date: 2023-08-15
+  tier: 2
+  outlet: ExecutiveGov
+- url: https://www.nextgov.com/modernization/2021/08/nsa-awards-secret-10-billion-contract-amazon/184390/
+  title: NSA Awards Secret $10 Billion Contract to Amazon
+  date: 2021-08-10
+  tier: 1
+  outlet: Nextgov/FCW
 ---
 
 By 2023, Amazon Web Services has consolidated its position as the dominant cloud infrastructure provider for the U.S. government, with multi-billion dollar contracts across the intelligence community, Department of Defense, and civilian agencies creating unprecedented government dependence on a single commercial vendor. AWS's government portfolio includes some of the most sensitive and valuable federal contracts ever awarded to a technology company, spanning all levels of classified operations and establishing Amazon as an indispensable infrastructure provider for national security operations.

@@ -35,11 +35,9 @@ sources:
   date: '2025-01-24'
 - title: Why Trump's designation of drug cartels as terrorists alarms Mexico
   url: https://www.washingtonpost.com/world/2025/01/21/trump-cartels-terrorists-mexico/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-01-21'
-notes: Precise implementation of Project 2025 recommendation. Order references Immigration
-  and Nationality Act section 219 and EO 13224 from 2001. Material support provisions
-  could affect street gangs selling narcotics and cross-border economic activity.
+notes: Precise implementation of Project 2025 recommendation. Order references Immigration and Nationality Act section 219 and EO 13224 from 2001. Material support provisions could affect street gangs selling narcotics and cross-border economic activity.
 status: confirmed
 ---
 

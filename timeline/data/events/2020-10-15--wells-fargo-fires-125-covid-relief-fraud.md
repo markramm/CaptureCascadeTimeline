@@ -13,19 +13,19 @@ actors:
 sources:
 - url: https://www.npr.org/sections/coronavirus-live-updates/2020/10/15/923976874/wells-fargo-fires-more-than-100-employees-for-alleged-coronavirus-relief-fraud
   title: Wells Fargo Fires More Than 100 Employees Accused Of Coronavirus Relief Fraud
-  publisher: NPR
   date: '2020-10-15'
   tier: 1
+  outlet: NPR
 - url: https://www.bankingdive.com/news/wells-fargo-fires-up-to-125-employees-over-misuse-of-eidl-aid/587080/
   title: Wells Fargo Fires Up to 125 Employees Over Misuse of EIDL Aid
-  publisher: Banking Dive
   date: '2020-10-15'
   tier: 2
+  outlet: Banking Dive
 - url: https://www.pymnts.com/news/security-and-risk/2020/wells-fargo-fires-over-100-allegedly-collecting-covid-relief-funds
   title: Wells Fargo Fires Over 100 For Allegedly Collecting COVID Relief Funds
-  publisher: PYMNTS
   date: '2020-10-15'
   tier: 2
+  outlet: PYMNTS
 ---
 
 Wells Fargo terminates between 100 and 125 employees for fraudulently obtaining COVID-19 relief funds through the SBA's Economic Injury Disaster Loan (EIDL) program. Employees created fake profiles and made false representations to receive advances of up to $10,000 from the pandemic relief program. The firings occur just months after Wells Fargo agreed to pay $3 billion for its fake accounts scandal, demonstrating that the corporate culture enabling fraud—and the pattern of punishing low-level workers while protecting leadership—remains fundamentally unchanged.

@@ -19,9 +19,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/15/us/politics/trump-prosecution-targets.html
   title: Trump Demands DOJ Prosecute Named Political Opponents
-  publisher: New York Times
   date: '2025-10-15'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

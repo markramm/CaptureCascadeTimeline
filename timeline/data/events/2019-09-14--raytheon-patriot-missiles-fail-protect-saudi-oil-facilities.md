@@ -13,24 +13,24 @@ tags:
 sources:
 - url: https://www.military.com/daily-news/2019/09/23/attacks-saudi-oil-plants-reveal-weaknesses-us-made-defenses.html
   title: Attacks on Saudi Oil Plants Reveal Weaknesses in US-Made Defenses
-  publisher: Military.com
   date: '2019-09-23'
   tier: 2
+  outlet: Military.com
 - url: https://www.washingtonpost.com/world/2019/09/17/billions-spent-us-weapons-didnt-protect-saudi-arabias-most-critical-oil-sites-crippling-attack/
   title: Billions spent on US weapons didn't protect Saudi Arabia's most critical oil sites from crippling attack
-  publisher: The Washington Post
   date: '2019-09-17'
   tier: 2
+  outlet: The Washington Post
 - url: https://www.nbcnews.com/think/opinion/trump-sending-troops-saudi-arabia-shows-short-range-air-defenses-ncna1057461
   title: Why U.S. Patriot missiles failed to stop drones and cruise missiles attacking Saudi oil sites
-  publisher: NBC News
   date: '2019-09-23'
   tier: 2
+  outlet: NBC News
 - url: https://nationalinterest.org/blog/buzz/did-american-built-patriot-missiles-fail-protect-saudi-arabia-86691
   title: Did American-Built Patriot Missiles Fail to Protect Saudi Arabia?
-  publisher: The National Interest
   date: '2019-09-19'
   tier: 2
+  outlet: The National Interest
 actors:
 - Raytheon
 - Saudi Arabia

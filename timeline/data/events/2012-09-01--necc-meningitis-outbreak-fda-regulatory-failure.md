@@ -6,31 +6,31 @@ importance: 9
 tags:
 - pharmaceutical-industry
 - regulatory-capture
-- FDA
+- fda
 - healthcare
 - public-health
 - regulatory-failure
 sources:
 - url: https://archive.cdc.gov/www_cdc_gov/hai/outbreaks/meningitis.html
   title: Multistate Outbreak of Fungal Meningitis and Other Infections
-  publisher: Centers for Disease Control and Prevention
   date: '2012-10-01'
   tier: 1
+  outlet: Centers for Disease Control and Prevention
 - url: https://www.govinfo.gov/content/pkg/CHRG-112shrg94198/html/CHRG-112shrg94198.htm
   title: Pharmacy Compounding - Implications of the 2012 Meningitis Outbreak
-  publisher: US Senate Committee on Health, Education, Labor, and Pensions
   date: '2012-11-01'
   tier: 1
+  outlet: US Senate Committee on Health, Education, Labor, and Pensions
 - url: https://www.npr.org/2012/12/30/168292511/tracing-the-big-meningitis-outbreak-of-2012
   title: Tracing The Big Meningitis Outbreak Of 2012
-  publisher: NPR
   date: '2012-12-30'
   tier: 1
+  outlet: NPR
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3694934/
   title: Lessons Learned from Compounding Tragedies
-  publisher: National Center for Biotechnology Information
   date: '2013-06-01'
   tier: 1
+  outlet: National Center for Biotechnology Information
 actors:
 - New England Compounding Center
 - Barry Cadden

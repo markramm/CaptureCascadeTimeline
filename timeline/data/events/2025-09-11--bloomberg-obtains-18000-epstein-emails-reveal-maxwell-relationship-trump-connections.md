@@ -1,8 +1,7 @@
 ---
 id: 2025-09-11--bloomberg-obtains-18000-epstein-emails-reveal-maxwell-relationship-trump-connections
 date: '2025-09-11'
-title: Bloomberg Obtains 18,000+ Epstein Emails Revealing Maxwell Relationship and
-  Trump Name Removal Request
+title: Bloomberg Obtains 18,000+ Epstein Emails Revealing Maxwell Relationship and Trump Name Removal Request
 importance: 9
 tags:
 - epstein-connections
@@ -19,14 +18,14 @@ actors:
 sources:
 - url: https://www.msnbc.com/top-stories/latest/epstein-trump-emails-maxwell-bloomberg-report-rcna230711
   title: Reported Epstein emails raise more questions about Trump
-  publisher: MSNBC
   date: '2025-09-11'
   tier: 1
+  outlet: MSNBC
 - url: https://www.newsweek.com/epstein-emails-private-account-2128274
   title: 'Reported Emails From Epstein''s Private Account Revealed: What To Know'
-  publisher: Newsweek
   date: '2025-09-11'
   tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

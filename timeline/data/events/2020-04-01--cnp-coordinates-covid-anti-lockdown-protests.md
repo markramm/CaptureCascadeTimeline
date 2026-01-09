@@ -4,10 +4,10 @@ date: '2020-04-01'
 title: CNP Coordinates National COVID-19 Anti-Lockdown Protest Movement
 importance: 8
 tags:
-- CNP
+- cnp
 - conservative-movement
 - coordination
-- COVID-19
+- covid-19
 - astroturfing
 - public-health
 actors:
@@ -20,12 +20,12 @@ actors:
 - Ed Meese
 - Lisa Nelson
 sources:
-- title: 'Secretive Right-Wing Nonprofit Plays Role in COVID-19 Organizing'
+- title: Secretive Right-Wing Nonprofit Plays Role in COVID-19 Organizing
   url: https://www.prwatch.org/news/2020/05/13581/secretive-right-wing-nonprofit-plays-role-covid-19-organizing
   publication: PR Watch
   date: '2020-05-15'
   tier: 1
-- title: 'The Council for National Policy organizes anti-lockdown protests & national COVID response'
+- title: The Council for National Policy organizes anti-lockdown protests & national COVID response
   url: https://trumpfile.org/cnp-protests-covid/
   publication: Trump File
   date: '2020-05-01'

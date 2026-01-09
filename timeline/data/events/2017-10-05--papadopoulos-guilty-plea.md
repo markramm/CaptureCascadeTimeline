@@ -4,38 +4,38 @@ date: 2017-10-05
 title: George Papadopoulos Becomes First Trump Campaign Official to Plead Guilty in Mueller Probe
 importance: 8
 tags:
-  - Mueller Investigation
-  - Russia Contacts
-  - Guilty Plea
-  - Campaign Officials
-  - Trump Pardons
-  - Foreign Interference
+- mueller investigation
+- russia contacts
+- guilty plea
+- campaign officials
+- trump pardons
+- foreign interference
 actors:
-  - George Papadopoulos
-  - Joseph Mifsud
-  - Robert Mueller
-  - Donald Trump
+- George Papadopoulos
+- Joseph Mifsud
+- Robert Mueller
+- Donald Trump
 sources:
-  - url: https://www.justice.gov/archives/opa/press-release/file/1007346/download
-    title: Statement of Offense - United States v. George Papadopoulos
-    publisher: U.S. Department of Justice
-    date: 2017-10-05
-    tier: 1
-  - url: https://www.lawfaremedia.org/article/summary-papadopoulos-pleads-guilty-making-false-statements-fbi
-    title: Summary - Papadopoulos Pleads Guilty to Making False Statements to the FBI
-    publisher: Lawfare
-    date: 2017-10-30
-    tier: 1
-  - url: https://www.justice.gov/archives/sco/file/1373816/dl
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
-    publisher: U.S. Department of Justice
-    date: 2019-04-18
-    tier: 1
-  - url: https://www.npr.org/sections/thetwo-way/2017/10/30/560816481/trumps-former-foreign-policy-advisor-pleads-guilty-to-lying-to-the-fbi
-    title: George Papadopoulos, Former Trump Adviser, Admits Seeking 'Dirt' On Clinton, Lying To FBI
-    publisher: NPR
-    date: 2017-10-30
-    tier: 1
+- url: https://www.justice.gov/archives/opa/press-release/file/1007346/download
+  title: Statement of Offense - United States v. George Papadopoulos
+  date: 2017-10-05
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.lawfaremedia.org/article/summary-papadopoulos-pleads-guilty-making-false-statements-fbi
+  title: Summary - Papadopoulos Pleads Guilty to Making False Statements to the FBI
+  date: 2017-10-30
+  tier: 1
+  outlet: Lawfare
+- url: https://www.justice.gov/archives/sco/file/1373816/dl
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report)
+  date: 2019-04-18
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.npr.org/sections/thetwo-way/2017/10/30/560816481/trumps-former-foreign-policy-advisor-pleads-guilty-to-lying-to-the-fbi
+  title: George Papadopoulos, Former Trump Adviser, Admits Seeking 'Dirt' On Clinton, Lying To FBI
+  date: 2017-10-30
+  tier: 1
+  outlet: NPR
 ---
 
 George Papadopoulos, a foreign policy adviser to Donald Trump's 2016 presidential campaign, secretly pleaded guilty on October 5, 2017, to making false statements to FBI agents about his contacts with individuals connected to the Russian government. The guilty plea, which became public on October 30, 2017, when court documents were unsealed, marked the first Trump campaign official to plead guilty as part of Special Counsel Robert Mueller's investigation into Russian interference in the 2016 election.

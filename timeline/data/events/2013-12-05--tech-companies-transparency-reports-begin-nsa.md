@@ -20,24 +20,24 @@ actors:
 sources:
 - title: Google, Yahoo, Facebook, Microsoft and LinkedIn Release New NSA Data
   url: https://time.com/3843/tech-titans-nsa/
-  publisher: TIME
   date: '2014-02-03'
   tier: 2
+  outlet: TIME
 - title: Tech Giants Update Transparency Reports with FISA Requests
   url: https://threatpost.com/tech-giants-update-transparency-reports-with-fisa-request-numbers/104056/
-  publisher: Threatpost
   date: '2014-02-04'
   tier: 2
+  outlet: Threatpost
 - title: Tech companies give first look at secret gov't data requests
   url: https://www.cbsnews.com/news/google-microsoft-yahoo-facebook-linkedin-secret-government-nsa-data-requests/
-  publisher: CBS News
   date: '2014-02-03'
   tier: 2
+  outlet: CBS News
 - title: Microsoft, Google Say They're Moving Forward With NSA Lawsuit
   url: https://www.npr.org/sections/thetwo-way/2013/08/30/217325884/microsoft-google-say-they-will-move-forward-with-nsa-lawsuit
-  publisher: NPR
   date: '2013-08-30'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

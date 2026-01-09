@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.huffingtonpost.com/entry/evan-bayh-corporate-boards_us_578fe868e4b0fc06ec5b85d6
   title: Evan Bayh Has Made Millions Off Corporate Boards Since Leaving The Senate
-  publisher: HuffPost
   date: '2016-07-21'
   tier: 2
+  outlet: HuffPost
 - url: https://www.opensecrets.org/revolving-door/bayh-evan/summary?id=76382
   title: Evan Bayh - Revolving Door Summary
-  publisher: OpenSecrets
   date: '2024-01-01'
   tier: 1
+  outlet: OpenSecrets
 - url: https://www.theblaze.com/news/2016/10/08/evan-bayh-spent-his-final-year-in-the-senate-trying-to-find-a-job-in-the-private-sector
   title: Evan Bayh spent his final year in the Senate trying to find a job in the private sector
-  publisher: Blaze Media
   date: '2016-10-08'
   tier: 2
+  outlet: Blaze Media
 actors:
 - Evan Bayh
 - Apollo Global Management

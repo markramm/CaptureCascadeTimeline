@@ -4,30 +4,30 @@ date: 2014-10-13
 title: GM Plant Stops Using Flint Water After It Corrodes Car Parts—But Residents Must Keep Drinking It
 importance: 9
 tags:
-  - flint-water-crisis
-  - environmental-racism
-  - corporate-accountability
-  - General-Motors
+- flint-water-crisis
+- environmental-racism
+- corporate-accountability
+- general-motors
 actors:
-  - General Motors
-  - Darnell Earley
-  - Flint City Government
+- General Motors
+- Darnell Earley
+- Flint City Government
 sources:
-  - url: https://www.democracynow.org/2016/2/17/what_did_gm_the_governor_know
-    title: What Did GM & the Governor Know? GM Stopped Using Flint Water Over a Year Before Emergency Declared
-    publisher: Democracy Now
-    date: 2016-02-17
-    tier: 1
-  - url: https://gmauthority.com/blog/2016/02/how-gm-sidestepped-the-disastrous-flint-water-crisis/
-    title: How GM Avoided Flint Water Crisis
-    publisher: GM Authority
-    date: 2016-02-09
-    tier: 2
-  - url: https://www.corporatecrimereporter.com/news/200/pediatrician-general-motors-flint-water-crisis/
-    title: A Pediatrician, General Motors and the Flint Water Crisis
-    publisher: Corporate Crime Reporter
-    date: 2016-02-10
-    tier: 2
+- url: https://www.democracynow.org/2016/2/17/what_did_gm_the_governor_know
+  title: What Did GM & the Governor Know? GM Stopped Using Flint Water Over a Year Before Emergency Declared
+  date: 2016-02-17
+  tier: 1
+  outlet: Democracy Now
+- url: https://gmauthority.com/blog/2016/02/how-gm-sidestepped-the-disastrous-flint-water-crisis/
+  title: How GM Avoided Flint Water Crisis
+  date: 2016-02-09
+  tier: 2
+  outlet: GM Authority
+- url: https://www.corporatecrimereporter.com/news/200/pediatrician-general-motors-flint-water-crisis/
+  title: A Pediatrician, General Motors and the Flint Water Crisis
+  date: 2016-02-10
+  tier: 2
+  outlet: Corporate Crime Reporter
 status: confirmed
 ---
 

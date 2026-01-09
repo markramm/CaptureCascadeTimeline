@@ -4,28 +4,28 @@ date: '2020-02-28'
 title: Trump Calls Coronavirus "Their New Hoax" at South Carolina Rally
 importance: 9
 tags:
-  - COVID-19
-  - Public Health
-  - Disinformation
-  - Accountability Crisis
+- covid-19
+- public health
+- disinformation
+- accountability crisis
 actors:
-  - Donald Trump
+- Donald Trump
 sources:
-  - title: Trump and the 'New Hoax'
-    url: https://www.factcheck.org/2020/03/trump-and-the-new-hoax/
-    publisher: FactCheck.org
-    date: '2020-03-02'
-    tier: 1
-  - title: Trump calls coronavirus Democrats' 'new hoax'
-    url: https://www.nbcnews.com/politics/donald-trump/trump-calls-coronavirus-democrats-new-hoax-n1145721
-    publisher: NBC News
-    date: '2020-02-28'
-    tier: 1
-  - title: AP FACT CHECK - Trump's virus revisionism; Biden on the hoax
-    url: https://www.pbs.org/newshour/politics/ap-fact-check-trumps-virus-revisionism-biden-on-the-hoax
-    publisher: PBS NewsHour
-    date: '2020-09-18'
-    tier: 1
+- title: Trump and the 'New Hoax'
+  url: https://www.factcheck.org/2020/03/trump-and-the-new-hoax/
+  date: '2020-03-02'
+  tier: 1
+  outlet: FactCheck.org
+- title: Trump calls coronavirus Democrats' 'new hoax'
+  url: https://www.nbcnews.com/politics/donald-trump/trump-calls-coronavirus-democrats-new-hoax-n1145721
+  date: '2020-02-28'
+  tier: 1
+  outlet: NBC News
+- title: AP FACT CHECK - Trump's virus revisionism; Biden on the hoax
+  url: https://www.pbs.org/newshour/politics/ap-fact-check-trumps-virus-revisionism-biden-on-the-hoax
+  date: '2020-09-18'
+  tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 ---
 

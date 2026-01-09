@@ -4,30 +4,30 @@ date: 2023-06-30
 title: Supreme Court Strikes Down Biden Student Loan Forgiveness 6-3 - Protects Debt System Against Democratic Relief
 importance: 9
 tags:
-  - supreme-court
-  - student-debt
-  - judicial-capture
-  - biden-v-nebraska
+- supreme-court
+- student-debt
+- judicial-capture
+- biden-v-nebraska
 actors:
-  - John Roberts
-  - Joe Biden
-  - Elena Kagan
+- John Roberts
+- Joe Biden
+- Elena Kagan
 sources:
-  - url: https://www.scotusblog.com/2023/06/supreme-court-strikes-down-biden-student-loan-forgiveness-program/
-    title: Supreme Court strikes down Biden student-loan forgiveness program
-    publisher: SCOTUSblog
-    date: 2023-06-30
-    tier: 1
-  - url: https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden
-    title: Supreme Court strikes down student loan program
-    publisher: NPR
-    date: 2023-06-30
-    tier: 1
-  - url: https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf
-    title: Biden v. Nebraska Supreme Court Opinion
-    publisher: U.S. Supreme Court
-    date: 2023-06-30
-    tier: 1
+- url: https://www.scotusblog.com/2023/06/supreme-court-strikes-down-biden-student-loan-forgiveness-program/
+  title: Supreme Court strikes down Biden student-loan forgiveness program
+  date: 2023-06-30
+  tier: 1
+  outlet: SCOTUSblog
+- url: https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden
+  title: Supreme Court strikes down student loan program
+  date: 2023-06-30
+  tier: 1
+  outlet: NPR
+- url: https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf
+  title: Biden v. Nebraska Supreme Court Opinion
+  date: 2023-06-30
+  tier: 1
+  outlet: U.S. Supreme Court
 status: confirmed
 ---
 

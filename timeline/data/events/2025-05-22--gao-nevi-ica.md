@@ -20,13 +20,12 @@ id: 2025-05-22--gao-nevi-ica
 importance: 7
 sources:
 - date: '2025-05-22'
-  outlet: Government Accountability Office
+  outlet: GAO
   title: GAO Decision on NEVI Formula Program Funds
   url: https://www.gao.gov/assets/880/877916.pdf
 - date: '2025-05-22'
   outlet: Government Executive
-  title: GAO Says Transportation Department Can't Withhold Electric Vehicle Infrastructure
-    Program Funds
+  title: GAO Says Transportation Department Can't Withhold Electric Vehicle Infrastructure Program Funds
   url: https://www.govexec.com/oversight/2025/05/gao-transportation-department-cant-withhold-electric-vehicle-infrastructure-program-funds/405534
 - date: '2025-05-22'
   outlet: The Hill
@@ -42,8 +41,7 @@ sources:
   url: https://rollcall.com/2025/05/22/gao-finds-dot-funding-pause-on-electric-vehicle-charging-illegal/
 - date: '2025-05-22'
   outlet: Eno Center for Transportation
-  title: GAO Ruling on NEVI Impoundment Could Upend Approvals of All USDOT Formula
-    Grant Programs
+  title: GAO Ruling on NEVI Impoundment Could Upend Approvals of All USDOT Formula Grant Programs
   url: https://enotrans.org/article/gao-ruling-on-nevi-impoundment-could-upend-approvals-of-all-usdot-formula-grant-programs/
 status: confirmed
 tags:

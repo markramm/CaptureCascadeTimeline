@@ -28,19 +28,15 @@ sources:
   url: https://www.pbs.org/newshour/politics/epstein-client-list-doesnt-exist-doj-says
   outlet: PBS NewsHour
   date: '2025-07-07'
-- title: Justice department says no 'client list' exists in Epstein sex trafficking
-    files
+- title: Justice department says no 'client list' exists in Epstein sex trafficking files
   url: https://www.washingtonpost.com/politics/2025/07/07/jeffrey-epstein-doj-client-list-bondi/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-07-07'
 - title: DOJ, FBI review finds no Jeffrey Epstein 'client list,' confirms suicide
   url: https://abcnews.go.com/US/doj-fbi-review-finds-jeffrey-epstein-client-list/story
   outlet: ABC News
   date: '2025-07-08'
-notes: DOJ cites ongoing investigations to block releases despite Epstein dead since
-  2019. Bondi claims "client list" exists but investigators confirm no such list found.
-  Pattern of protecting intelligence operation continues. Cover-up spans multiple
-  administrations.
+notes: DOJ cites ongoing investigations to block releases despite Epstein dead since 2019. Bondi claims "client list" exists but investigators confirm no such list found. Pattern of protecting intelligence operation continues. Cover-up spans multiple administrations.
 status: confirmed
 ---
 

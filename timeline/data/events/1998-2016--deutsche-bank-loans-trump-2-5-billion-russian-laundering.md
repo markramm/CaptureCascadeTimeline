@@ -1,7 +1,7 @@
 ---
 id: 1998-2016--deutsche-bank-loans-trump-2-5-billion-russian-laundering
 date: '1998-01-01'
-title: 'Deutsche Bank Loans Trump $2.5 Billion Despite Russian Money Laundering and Red Flags'
+title: Deutsche Bank Loans Trump $2.5 Billion Despite Russian Money Laundering and Red Flags
 importance: 10
 tags:
 - trump
@@ -18,26 +18,26 @@ actors:
 - Russian Oligarchs
 - Justin Kennedy
 sources:
-- title: 'Deutsche Bank loaned more than $2 billion to Trump over two decades'
+- title: Deutsche Bank loaned more than $2 billion to Trump over two decades
   url: https://www.cnbc.com/2019/03/19/deutsche-bank-loaned-2-billion-to-donald-trump-over-two-decades-nyt.html
-  publisher: CNBC/New York Times
   date: '2019-03-19'
   tier: 1
-- title: 'Deutsche Bank loaned Trump $2bn despite multiple red flags'
+  outlet: CNBC/New York Times
+- title: Deutsche Bank loaned Trump $2bn despite multiple red flags
   url: https://www.worldfinance.com/strategy/deutsche-bank-loaned-trump-2bn-despite-multiple-red-flags-new-report-claims
-  publisher: World Finance
   date: '2019-10-15'
   tier: 2
-- title: 'DFS Fines Deutsche Bank $425 Million for Russian Mirror-Trading Scheme'
+  outlet: World Finance
+- title: DFS Fines Deutsche Bank $425 Million for Russian Mirror-Trading Scheme
   url: https://www.dfs.ny.gov/reports_and_publications/press_releases/pr1701301
-  publisher: NY Department of Financial Services
   date: '2017-01-30'
   tier: 1
+  outlet: NY Department of Financial Services
 - title: 'Trump and Deutsche Bank: It''s Complicated'
   url: https://www.wnycstudios.org/podcasts/trumpinc/episodes/trump-inc-trump-deutsche-bank-its-complicated
-  publisher: WNYC
   date: '2019-02-19'
   tier: 1
+  outlet: WNYC
 status: confirmed
 ---
 

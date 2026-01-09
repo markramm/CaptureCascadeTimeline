@@ -4,41 +4,41 @@ date: '2021-02-13'
 title: Senate Acquits Trump 57-43 Despite Bipartisan Majority Finding Him Guilty
 importance: 10
 tags:
-  - Impeachment
-  - Senate Trial
-  - Constitutional Crisis
-  - Republican Party
-  - Acquittal
+- impeachment
+- senate trial
+- constitutional crisis
+- republican party
+- acquittal
 actors:
-  - Donald Trump
-  - Mitt Romney
-  - Richard Burr
-  - Bill Cassidy
-  - Susan Collins
-  - Lisa Murkowski
-  - Ben Sasse
-  - Pat Toomey
+- Donald Trump
+- Mitt Romney
+- Richard Burr
+- Bill Cassidy
+- Susan Collins
+- Lisa Murkowski
+- Ben Sasse
+- Pat Toomey
 sources:
-  - url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967098840/senate-acquits-trump-in-impeachment-trial-again
-    title: Senate Acquits Trump In Impeachment Trial - Again
-    publisher: NPR
-    date: '2021-02-13'
-    tier: 1
-  - url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/15/967878039/7-gop-senators-voted-to-convict-trump-only-1-faces-voters-next-year
-    title: 7 GOP Senators Voted To Convict Trump. Only 1 Faces Voters Next Year
-    publisher: NPR
-    date: '2021-02-15'
-    tier: 1
-  - url: https://www.npr.org/2021/02/13/967704462/senate-acquits-trump-key-takeaways-from-impeachment-trial
-    title: Senate Acquits Trump - Key Takeaways From Impeachment Trial
-    publisher: NPR
-    date: '2021-02-13'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/trump-acquitted-impeachment-trial-7-gop-senators-vote-democrats-convict-n1257876
-    title: Trump acquitted in impeachment trial; 7 GOP Senators vote with Democrats to convict
-    publisher: NBC News
-    date: '2021-02-13'
-    tier: 1
+- url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967098840/senate-acquits-trump-in-impeachment-trial-again
+  title: Senate Acquits Trump In Impeachment Trial - Again
+  date: '2021-02-13'
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/15/967878039/7-gop-senators-voted-to-convict-trump-only-1-faces-voters-next-year
+  title: 7 GOP Senators Voted To Convict Trump. Only 1 Faces Voters Next Year
+  date: '2021-02-15'
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/2021/02/13/967704462/senate-acquits-trump-key-takeaways-from-impeachment-trial
+  title: Senate Acquits Trump - Key Takeaways From Impeachment Trial
+  date: '2021-02-13'
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/politics/donald-trump/trump-acquitted-impeachment-trial-7-gop-senators-vote-democrats-convict-n1257876
+  title: Trump acquitted in impeachment trial; 7 GOP Senators vote with Democrats to convict
+  date: '2021-02-13'
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

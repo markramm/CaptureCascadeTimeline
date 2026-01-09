@@ -22,24 +22,24 @@ tags:
 sources:
 - title: Obama Releases Bush-Era Memos Authorizing Torture Techniques
   url: https://www.democracynow.org/2009/4/17/memos
-  publisher: Democracy Now
   date: '2009-04-17'
   tier: 1
+  outlet: Democracy Now
 - title: Obama Wanted to Look Forward Not Backward on Torture, But He Failed to Look Either Way
   url: https://medium.com/@DanFroomkin/obama-wanted-to-look-forward-not-backward-on-torture-but-he-failed-to-look-either-way-c1b258ac3258
-  publisher: Dan Froomkin (Medium)
   date: '2018-04-16'
   tier: 2
+  outlet: Dan Froomkin (Medium)
 - title: Obama and Counterterror - The Ignored Record
   url: https://www.hrw.org/news/2015/02/05/obama-counterterror-ignored-record
-  publisher: Human Rights Watch
   date: '2015-02-05'
   tier: 1
+  outlet: Human Rights Watch
 - title: Torture Memos Released
   url: https://www.cbsnews.com/news/torture-memos-released/
-  publisher: CBS News
   date: '2009-04-16'
   tier: 2
+  outlet: CBS News
 ---
 
 President Barack Obama authorizes the Department of Justice to release four previously classified memos from the Office of Legal Counsel written between 2002 and 2005 that authorized CIA torture techniques including waterboarding, stress positions, sleep deprivation, and confinement in coffin-sized boxes. While releasing the memos to satisfy transparency demands, Obama simultaneously announces that CIA interrogators who relied on the legal guidance will not face prosecution, establishing a policy of impunity for torture that defines his administration's approach to Bush-era war crimes.

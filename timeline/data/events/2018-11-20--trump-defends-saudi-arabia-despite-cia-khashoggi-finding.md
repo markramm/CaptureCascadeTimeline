@@ -20,26 +20,26 @@ actors:
 - King Salman
 - Gina Haspel
 sources:
-  - title: Donald Trump defends Saudi Arabia's denials in Khashoggi murder, says relationship most important
-    url: https://abcnews.go.com/politics/statement-khashoggi-murder-trump-relationship-saudi-arabia-important/story?id=59319462
-    publisher: ABC News
-    date: 2018-11-20
-    tier: 1
-  - title: Trump says U.S. will stand by Saudi Arabia, despite CIA's conclusion about Khashoggi killing
-    url: https://www.cbsnews.com/amp/news/trump-says-u-s-will-stand-by-saudis-despite-intel-communitys-conclusion-about-khashoggi-killing/
-    publisher: CBS News
-    date: 2018-11-20
-    tier: 1
-  - title: In unusual statement disputing the CIA and filled with exclamation points, Trump backs Saudi ruler after Khashoggi killing
-    url: https://www.nbcnews.com/politics/donald-trump/unusual-statement-disputing-cia-filled-exclamation-points-trump-backs-saudi-n938526
-    publisher: NBC News
-    date: 2018-11-20
-    tier: 1
-  - title: Trump says US stands with Saudi Arabia despite journalist Khashoggi's killing
-    url: https://www.cnbc.com/2018/11/20/trump-says-us-stands-with-saudi-arabia-despite-khashoggi-killing.html
-    publisher: CNBC
-    date: 2018-11-20
-    tier: 2
+- title: Donald Trump defends Saudi Arabia's denials in Khashoggi murder, says relationship most important
+  url: https://abcnews.go.com/politics/statement-khashoggi-murder-trump-relationship-saudi-arabia-important/story?id=59319462
+  date: 2018-11-20
+  tier: 1
+  outlet: ABC News
+- title: Trump says U.S. will stand by Saudi Arabia, despite CIA's conclusion about Khashoggi killing
+  url: https://www.cbsnews.com/amp/news/trump-says-u-s-will-stand-by-saudis-despite-intel-communitys-conclusion-about-khashoggi-killing/
+  date: 2018-11-20
+  tier: 1
+  outlet: CBS News
+- title: In unusual statement disputing the CIA and filled with exclamation points, Trump backs Saudi ruler after Khashoggi killing
+  url: https://www.nbcnews.com/politics/donald-trump/unusual-statement-disputing-cia-filled-exclamation-points-trump-backs-saudi-n938526
+  date: 2018-11-20
+  tier: 1
+  outlet: NBC News
+- title: Trump says US stands with Saudi Arabia despite journalist Khashoggi's killing
+  url: https://www.cnbc.com/2018/11/20/trump-says-us-stands-with-saudi-arabia-despite-khashoggi-killing.html
+  date: 2018-11-20
+  tier: 2
+  outlet: CNBC
 ---
 
 On November 20, 2018, President Trump issues an extraordinary written statement titled "Statement from President Donald J. Trump on Standing with Saudi Arabia" that explicitly rejects CIA findings and defends Crown Prince Mohammed bin Salman despite the intelligence community's high-confidence assessment that MBS ordered Jamal Khashoggi's murder. The statement, which begins with the subheading "America First!" and is filled with exclamation points, prioritizes arms sales and geopolitical alliances over accountability for the assassination of a Washington Post journalist and U.S. resident.

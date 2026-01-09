@@ -1,7 +1,7 @@
 ---
 id: 2023-07-01--amazon-refuses-bargain-jfk8-union-new-union-busting-tactic
 date: '2023-07-01'
-title: 'Amazon Refuses to Bargain with JFK8 Union, Pioneering Refuse-to-Bargain Union-Busting Tactic'
+title: Amazon Refuses to Bargain with JFK8 Union, Pioneering Refuse-to-Bargain Union-Busting Tactic
 importance: 8
 actors:
 - Amazon
@@ -11,25 +11,25 @@ actors:
 tags:
 - labor-suppression
 - union-busting
-- Amazon
-- NLRB
+- amazon
+- nlrb
 - collective-bargaining
 - refuse-to-bargain
-- Staten-Island
+- staten-island
 sources:
-- title: 'Three Years After Union Vote, Amazon Refuses to Recognise JFK8 Union'
+- title: Three Years After Union Vote, Amazon Refuses to Recognise JFK8 Union
   url: https://www.business-humanrights.org/en/latest-news/usa-three-years-after-union-vote-amazon-refuses-to-recognise-jfk8-union-and-delays-collective-bargaining-through-legal-challenges-incl-comp-comment/
   outlet: Business and Human Rights Centre
   date: '2025-01-01'
   verified: true
   tier: 2
-- title: 'As Amazon Refuses to Bargain, Divisions Have Emerged in Amazon Labor Union'
+- title: As Amazon Refuses to Bargain, Divisions Have Emerged in Amazon Labor Union
   url: https://jacobin.com/2023/07/amazon-labor-union-jfk8-chris-smalls-reform-caucus-democracy
   outlet: Jacobin
   date: '2023-07-01'
   verified: true
   tier: 2
-- title: 'Amazon Hit With Labor Complaint Over Failing to Bargain With Staten Island Union'
+- title: Amazon Hit With Labor Complaint Over Failing to Bargain With Staten Island Union
   url: https://www.nbcnewyork.com/news/business/money-report/amazon-hit-with-labor-complaint-over-failing-to-bargain-with-staten-island-union/4499899/
   outlet: NBC New York
   date: '2023-07-01'

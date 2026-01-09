@@ -4,31 +4,31 @@ date: 2004-07-07
 title: Enron Founder Ken Lay Indicted on 11 Counts of Fraud and Conspiracy
 importance: 9
 tags:
-  - corporate-fraud
-  - enron
-  - securities-fraud
-  - criminal-prosecution
-  - white-collar-crime
+- corporate-fraud
+- enron
+- securities-fraud
+- criminal-prosecution
+- white-collar-crime
 actors:
-  - Kenneth Lay
-  - Jeffrey Skilling
-  - Department of Justice
+- Kenneth Lay
+- Jeffrey Skilling
+- Department of Justice
 sources:
-  - url: https://famous-trials.com/enron/1787-home
-    title: "The Enron (Ken Lay and Jeff Skilling) Trial: An Account"
-    publisher: Famous Trials
-    date: 2004-07-07
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/Trial_of_Kenneth_Lay_and_Jeffrey_Skilling
-    title: "Trial of Kenneth Lay and Jeffrey Skilling"
-    publisher: Wikipedia
-    date: 2004-07-07
-    tier: 2
-  - url: https://www.npr.org/series/5181660/guilty-verdicts-reached-at-enron-trial
-    title: "Guilty Verdicts Reached at Enron Trial"
-    publisher: NPR
-    date: 2004-07-07
-    tier: 1
+- url: https://famous-trials.com/enron/1787-home
+  title: 'The Enron (Ken Lay and Jeff Skilling) Trial: An Account'
+  date: 2004-07-07
+  tier: 2
+  outlet: Famous Trials
+- url: https://en.wikipedia.org/wiki/Trial_of_Kenneth_Lay_and_Jeffrey_Skilling
+  title: Trial of Kenneth Lay and Jeffrey Skilling
+  date: 2004-07-07
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.npr.org/series/5181660/guilty-verdicts-reached-at-enron-trial
+  title: Guilty Verdicts Reached at Enron Trial
+  date: 2004-07-07
+  tier: 1
+  outlet: NPR
 ---
 
 On July 7, 2004, a federal grand jury indicted Enron founder and former CEO Kenneth Lay on 11 counts of securities fraud, wire fraud, and making false statements to banks. The indictment charged that Lay repeatedly lied to investors, employees, and federal regulators about Enron's deteriorating financial condition while enriching himself through stock sales and fraudulent transactions.

@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: 'The Whitefish contract: How a tiny firm got Puerto Rico''s biggest contract'
   url: https://www.washingtonpost.com/national/small-montana-firm-lands-puerto-ricos-biggest-contract-to-get-the-power-back-on/2017/10/23/31cccc3e-b4d6-11e7-9e58-e6288544af98_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2017-10-23'
 - title: Puerto Rico Cancels Whitefish Energy Contract
   url: https://www.npr.org/sections/thetwo-way/2017/10/29/560683583/puerto-rico-cancels-controversial-300-million-contract-awarded-to-montana-firm

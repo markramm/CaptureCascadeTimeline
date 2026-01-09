@@ -4,28 +4,28 @@ date: 1992-03-09
 title: Trump Castle and Trump Plaza File Simultaneous Bankruptcies
 importance: 6
 tags:
-  - Bankruptcy
-  - Business Failure
-  - Atlantic City
-  - Casinos
-  - Financial History
-  - Debt
+- bankruptcy
+- business failure
+- atlantic city
+- casinos
+- financial history
+- debt
 sources:
-  - url: https://www.upi.com/Archives/1992/03/09/Trumps-Castle-and-Plaza-file-for-bankruptcy/3105700117200/
-    title: "Trump's Castle and Plaza file for bankruptcy"
-    publisher: UPI Archives
-    date: 1992-03-09
-    tier: 1
-  - url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
-    title: "Yep, Donald Trump's companies have declared bankruptcy...more than four times"
-    publisher: PolitiFact
-    date: 2016-06-21
-    tier: 1
-  - url: https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf
-    title: "How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions"
-    publisher: U.S. House Committee on the Judiciary
-    date: 2020-09-29
-    tier: 1
+- url: https://www.upi.com/Archives/1992/03/09/Trumps-Castle-and-Plaza-file-for-bankruptcy/3105700117200/
+  title: Trump's Castle and Plaza file for bankruptcy
+  date: 1992-03-09
+  tier: 1
+  outlet: UPI Archives
+- url: https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/
+  title: Yep, Donald Trump's companies have declared bankruptcy...more than four times
+  date: 2016-06-21
+  tier: 1
+  outlet: PolitiFact
+- url: https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf
+  title: How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions
+  date: 2020-09-29
+  tier: 1
+  outlet: U.S. House Committee on the Judiciary
 ---
 
 Trump Castle and Trump Plaza Hotel and Casino in Atlantic City both filed for Chapter 11 bankruptcy protection on March 9, 1992, marking Trump's second and third casino bankruptcies in less than a year. Trump Castle faced $338 million in bond debt it could not service, while Trump Plaza was drowning in $250 million of accumulated debt. Both properties had seen their revenues collapse after the opening of the Trump Taj Mahal in April 1990, which siphoned customers away from Trump's two older casinos, creating a devastating cannibalization effect within his own casino portfolio.

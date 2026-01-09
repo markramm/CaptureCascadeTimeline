@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: Bush Aide Softened Greenhouse Gas Links to Global Warming
   url: https://www.nytimes.com/2005/06/08/politics/bush-aide-softened-greenhouse-gas-links-to-global-warming.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2005-06-08'
 - title: Political Interference with Climate Change Science Under the Bush Administration
   url: https://oversight.house.gov/sites/democrats.oversight.house.gov/files/documents/20071201121618.pdf

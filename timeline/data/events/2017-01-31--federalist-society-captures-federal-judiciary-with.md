@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: The $250 Million Dark Money Operation to Capture the Supreme Court
   url: https://www.nytimes.com/2023/08/22/us/politics/leonard-leo-courts-dark-money.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2023-08-22'
 - title: Trump's judicial appointments
   url: https://en.wikipedia.org/wiki/Donald_Trump_judicial_appointments

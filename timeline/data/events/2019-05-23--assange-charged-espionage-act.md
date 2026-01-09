@@ -4,32 +4,32 @@ date: 2019-05-23
 title: Julian Assange Charged Under Espionage Act - Unprecedented Attack on Press Freedom
 importance: 9
 actors:
-  - Julian Assange
-  - WikiLeaks
-  - Department of Justice
-  - Trump Administration
+- Julian Assange
+- WikiLeaks
+- Department of Justice
+- Trump Administration
 tags:
-  - espionage-act
-  - press-freedom
-  - wikileaks
-  - first-amendment
-  - extradition
+- espionage-act
+- press-freedom
+- wikileaks
+- first-amendment
+- extradition
 sources:
-  - url: https://www.justice.gov/opa/pr/wikileaks-founder-charged-superseding-indictment
-    title: WikiLeaks Founder Charged in Superseding Indictment
-    publisher: U.S. Department of Justice
-    date: 2019-05-23
-    tier: 1
-  - url: https://www.rcfp.org/may-2019-assange-indictment-analysis/
-    title: Special Analysis of the May 2019 Superseding Indictment
-    publisher: Reporters Committee for Freedom of the Press
-    date: 2019-05-23
-    tier: 1
-  - url: https://www.npr.org/2024/03/26/1240861168/wikileaks-julian-assange-uk-court-delays-extradition
-    title: WikiLeaks Julian Assange UK Court Delays Extradition
-    publisher: NPR
-    date: 2024-03-26
-    tier: 1
+- url: https://www.justice.gov/opa/pr/wikileaks-founder-charged-superseding-indictment
+  title: WikiLeaks Founder Charged in Superseding Indictment
+  date: 2019-05-23
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.rcfp.org/may-2019-assange-indictment-analysis/
+  title: Special Analysis of the May 2019 Superseding Indictment
+  date: 2019-05-23
+  tier: 1
+  outlet: Reporters Committee for Freedom of the Press
+- url: https://www.npr.org/2024/03/26/1240861168/wikileaks-julian-assange-uk-court-delays-extradition
+  title: WikiLeaks Julian Assange UK Court Delays Extradition
+  date: 2024-03-26
+  tier: 1
+  outlet: NPR
 ---
 
 A U.S. grand jury added 17 counts under the Espionage Act to the federal indictment against WikiLeaks founder Julian Assange, marking the first time in American history that the government used the 1917 anti-spying law to prosecute a publisher for receiving and publishing truthful classified information. The charges sparked immediate warnings from press freedom advocates that the case posed an existential threat to investigative journalism.

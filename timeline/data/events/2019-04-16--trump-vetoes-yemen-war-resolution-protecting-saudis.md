@@ -18,26 +18,26 @@ actors:
 - U.S. Congress
 - Saudi Arabia government
 sources:
-  - title: Trump vetoes Yemen War Powers Resolution
-    url: https://www.cnn.com/2019/04/16/politics/trump-vetoes-yemen-war-powers-resolution/index.html
-    publisher: CNN
-    date: 2019-04-16
-    tier: 1
-  - title: Where Trump's veto leaves the Yemen resolution
-    url: https://www.brookings.edu/articles/where-trumps-veto-leaves-the-yemen-resolution/
-    publisher: Brookings Institution
-    date: 2019-04-18
-    tier: 1
-  - title: Humanitarian crisis in Yemen remains the worst in the world, warns UN
-    url: https://news.un.org/en/story/2019/02/1032811
-    publisher: UN News
-    date: 2019-02-14
-    tier: 1
-  - title: Presidential Veto Message to the Senate to Accompany S.J. Res. 7
-    url: https://trumpwhitehouse.archives.gov/presidential-actions/presidential-veto-message-senate-accompany-s-j-res-7/
-    publisher: White House Archives
-    date: 2019-04-16
-    tier: 1
+- title: Trump vetoes Yemen War Powers Resolution
+  url: https://www.cnn.com/2019/04/16/politics/trump-vetoes-yemen-war-powers-resolution/index.html
+  date: 2019-04-16
+  tier: 1
+  outlet: CNN
+- title: Where Trump's veto leaves the Yemen resolution
+  url: https://www.brookings.edu/articles/where-trumps-veto-leaves-the-yemen-resolution/
+  date: 2019-04-18
+  tier: 1
+  outlet: Brookings Institution
+- title: Humanitarian crisis in Yemen remains the worst in the world, warns UN
+  url: https://news.un.org/en/story/2019/02/1032811
+  date: 2019-02-14
+  tier: 1
+  outlet: UN News
+- title: Presidential Veto Message to the Senate to Accompany S.J. Res. 7
+  url: https://trumpwhitehouse.archives.gov/presidential-actions/presidential-veto-message-senate-accompany-s-j-res-7/
+  date: 2019-04-16
+  tier: 1
+  outlet: White House Archives
 ---
 
 On April 16, 2019, President Trump vetoes S.J. Res. 7, a bipartisan congressional resolution invoking the War Powers Resolution to end U.S. military support for the Saudi-led war in Yemen. The veto protects Crown Prince Mohammed bin Salman six months after the CIA concluded with high confidence that MBS ordered the murder of journalist Jamal Khashoggi. Trump's action ensures continued U.S. complicity in what the United Nations calls "the worst humanitarian crisis in the world."

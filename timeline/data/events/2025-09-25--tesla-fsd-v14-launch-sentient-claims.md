@@ -9,14 +9,14 @@ actors:
 sources:
 - title: Tesla is finally launching FSD v14 and Elon Musk says it 'feels sentient'
   url: https://electrek.co/2025/09/25/tesla-launching-fsd-v14-elon-musk-feels-sentient/
-  publisher: Electrek
   date: '2025-09-25'
   tier: 2
+  outlet: Electrek
 - title: 'Tesla FSD V14 set for early wide release next week: Elon Musk'
   url: https://www.teslarati.com/tesla-fsd-v14-early-wide-release-next-week-elon-musk/
-  publisher: Teslarati
   date: '2025-09-25'
   tier: 3
+  outlet: Teslarati
 tags:
 - tesla
 - musk

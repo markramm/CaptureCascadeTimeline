@@ -4,37 +4,37 @@ date: '2024-01-26'
 title: Jury Awards E. Jean Carroll $83.3 Million in Second Defamation Trial Against Trump
 importance: 9
 tags:
-  - Defamation
-  - E. Jean Carroll
-  - Civil Liability
-  - Jury Verdict
-  - Damages Award
+- defamation
+- e. jean carroll
+- civil liability
+- jury verdict
+- damages award
 actors:
-  - E. Jean Carroll
-  - Donald Trump
-  - Lewis Kaplan
-  - Roberta Kaplan
+- E. Jean Carroll
+- Donald Trump
+- Lewis Kaplan
+- Roberta Kaplan
 sources:
-  - url: https://www.npr.org/2024/01/26/1226626397/trump-defamation-trial
-    title: Jury orders Trump to pay $83 million for defaming columnist E. Jean Carroll
-    publisher: NPR
-    date: '2024-01-26'
-    tier: 1
-  - url: https://www.pbs.org/newshour/nation/trump-must-pay-additional-83-million-to-e-jean-carroll-in-defamation-case-jury-decides
-    title: Trump ordered to pay additional $83.3 million to E. Jean Carroll in defamation case
-    publisher: PBS
-    date: '2024-01-26'
-    tier: 1
-  - url: https://www.cbsnews.com/news/trump-e-jean-carroll-trial-closing-arguments-courtroom/
-    title: Trump must pay $83.3 million for defaming E. Jean Carroll, jury says
-    publisher: CBS News
-    date: '2024-01-26'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/verdict-reached-e-jean-carrolls-defamation-damages-trial-trump-rcna135919
-    title: Trump must pay E. Jean Carroll over $83 million in defamation damages, jury finds
-    publisher: NBC News
-    date: '2024-01-26'
-    tier: 1
+- url: https://www.npr.org/2024/01/26/1226626397/trump-defamation-trial
+  title: Jury orders Trump to pay $83 million for defaming columnist E. Jean Carroll
+  date: '2024-01-26'
+  tier: 1
+  outlet: NPR
+- url: https://www.pbs.org/newshour/nation/trump-must-pay-additional-83-million-to-e-jean-carroll-in-defamation-case-jury-decides
+  title: Trump ordered to pay additional $83.3 million to E. Jean Carroll in defamation case
+  date: '2024-01-26'
+  tier: 1
+  outlet: PBS
+- url: https://www.cbsnews.com/news/trump-e-jean-carroll-trial-closing-arguments-courtroom/
+  title: Trump must pay $83.3 million for defaming E. Jean Carroll, jury says
+  date: '2024-01-26'
+  tier: 1
+  outlet: CBS News
+- url: https://www.nbcnews.com/politics/donald-trump/verdict-reached-e-jean-carrolls-defamation-damages-trial-trump-rcna135919
+  title: Trump must pay E. Jean Carroll over $83 million in defamation damages, jury finds
+  date: '2024-01-26'
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

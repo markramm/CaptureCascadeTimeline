@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Facebook, Instagram, and Twitter Provided Data Access for a Surveillance Product Marketed to Target Activists of Color
   url: https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target
-  publisher: ACLU of Northern California
   date: '2016-10-11'
   tier: 1
+  outlet: ACLU of Northern California
 - title: Facebook, Twitter cut off data access for Geofeedia, a social media surveillance startup
   url: https://techcrunch.com/2016/10/11/facebook-twitter-cut-off-data-access-for-geofeedia-a-social-media-surveillance-startup/
-  publisher: TechCrunch
   date: '2016-10-11'
   tier: 2
+  outlet: TechCrunch
 - title: Facebook, Twitter, Instagram Block Geofeedia Tool Used for Police Surveillance
   url: https://www.nbcnews.com/tech/internet/facebook-twitter-instagram-block-geofeedia-tool-used-police-surveillance-n664706
-  publisher: NBC News
   date: '2016-10-11'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

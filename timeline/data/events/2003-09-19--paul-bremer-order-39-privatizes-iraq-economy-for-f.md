@@ -22,7 +22,7 @@ sources:
   date: '2003-09-19'
 - title: 'Rebuilding Iraq: Resource, Security, Governance, Essential Services'
   url: https://www.gao.gov/products/gao-04-902r
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2004-06-28'
 - title: State Rebuilding in Reverse
   url: https://merip.org/2004/12/state-rebuilding-in-reverse/

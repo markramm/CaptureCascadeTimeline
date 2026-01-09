@@ -4,7 +4,7 @@ date: '2020-08-21'
 title: Trump Speaks at CNP Meeting - President Addresses Conservative Coordination Hub
 importance: 9
 tags:
-- CNP
+- cnp
 - conservative-movement
 - trump-administration
 - coordination
@@ -23,7 +23,7 @@ sources:
   publication: Rev
   date: '2020-08-21'
   tier: 2
-- title: 'Remarks by President Trump at the 2020 Council for National Policy Meeting'
+- title: Remarks by President Trump at the 2020 Council for National Policy Meeting
   url: https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-2020-council-national-policy-meeting/
   publication: Trump White House Archives
   date: '2020-08-21'

@@ -19,24 +19,24 @@ actors:
 sources:
 - title: Trump's interview with Joe Rogan had over 50 million views
   url: https://www.cnn.com/2024/10/26/media/trump-rogan-interview-50-million-views/index.html
-  publisher: CNN
   date: '2024-10-26'
   tier: 1
+  outlet: CNN
 - title: Voters Say Joe Rogan Interview Was 'Deciding Factor' for Trump Vote
   url: https://www.newsweek.com/voters-joe-rogan-trump-interview-deciding-factor-1980234
-  publisher: Newsweek
   date: '2024-11-06'
   tier: 2
+  outlet: Newsweek
 - title: Joe Rogan's Trump Interview Dominates Before Election
   url: https://www.rollingstone.com/politics/politics-features/joe-rogan-trump-interview-election-impact-1234987654/
-  publisher: Rolling Stone
   date: '2024-10-27'
   tier: 2
+  outlet: Rolling Stone
 - title: How Joe Rogan Became Trump's Most Valuable Surrogate
   url: https://www.axios.com/2024/11/06/joe-rogan-trump-interview-young-voters
-  publisher: Axios
   date: '2024-11-06'
   tier: 2
+  outlet: Axios
 status: confirmed
 ---
 

@@ -12,14 +12,14 @@ actors:
 sources:
 - title: Big Investors Await Windfall From Trump's Argentina Bailout
   url: https://www.nytimes.com/2025/10/09/business/argentina-bailout-investors.html
-  publisher: New York Times
   date: '2025-10-09'
   tier: 1
+  outlet: The New York Times
 - title: Warren Asks Hedge Fund Group If It Played Argentina Bailout Role
   url: https://www.bloomberg.com/news/articles/2025-10-09/warren-asks-hedge-fund-group-if-it-played-argentina-bailout-role
-  publisher: Bloomberg
   date: '2025-10-09'
   tier: 1
+  outlet: Bloomberg
 tags:
 - systematic-corruption
 - conflicts-of-interest

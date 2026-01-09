@@ -6,25 +6,24 @@ importance: 9
 actors:
 - Anduril Industries
 - U.S. Air Force
-- Department of Defense
+- U.S. Department of Defense
 - Palmer Luckey
 - General Atomics
 tags:
-- Autonomous Weapons
-- Military-Industrial Complex
-- AI Weapons
-- Defense Contractors
-- Pentagon Contracts
+- autonomous weapons
+- military-industrial complex
+- ai weapons
+- defense contractors
+- pentagon contracts
 sources:
-- url: https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/
-  title: Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program
-  publisher: Anduril Industries
+- title: Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program
+  url: https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/
+  outlet: Anduril Industries
   date: '2024-04-24'
   tier: 2
-- url: https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/
-  title: Anduril and General Atomics to Develop New Collaborative Combat Aircraft
-    for Air Force
-  publisher: Air & Space Forces Magazine
+- title: Anduril and General Atomics to Develop New Collaborative Combat Aircraft for Air Force
+  url: https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/
+  outlet: Air & Space Forces Magazine
   date: '2024-04-24'
   tier: 3
 ---

@@ -13,26 +13,26 @@ tags:
 - corporate-lobbying
 - business-model
 sources:
-- title: 'After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever'
+- title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
   url: https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/
-  publisher: The American Prospect
   date: '2023-10-04'
   tier: 2
+  outlet: The American Prospect
 - title: American Legislative Exchange Council
   url: https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council
-  publisher: SourceWatch (Center for Media and Democracy)
   date: '2024-01-01'
   tier: 2
+  outlet: SourceWatch (Center for Media and Democracy)
 - title: What is ALEC
   url: https://www.alecexposed.org/wiki/What_is_ALEC
-  publisher: ALEC Exposed (Center for Media and Democracy)
   date: '2024-01-01'
   tier: 2
-- title: "Who Passes Business's 'Model Bills'? Policy Capacity and Corporate Influence in U.S. State Politics"
+  outlet: ALEC Exposed (Center for Media and Democracy)
+- title: Who Passes Business's 'Model Bills'? Policy Capacity and Corporate Influence in U.S. State Politics
   url: https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/who-passes-businesss-model-bills-policy-capacity-and-corporate-influence-in-us-state-politics/38D2641B307637657B8DD1266FB87965
-  publisher: Cambridge University Press - Perspectives on Politics
   date: '2019-09-01'
   tier: 1
+  outlet: Cambridge University Press - Perspectives on Politics
 status: confirmed
 capture_lanes:
 - Legislative Capture

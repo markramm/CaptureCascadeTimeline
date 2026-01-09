@@ -4,37 +4,37 @@ date: 2019-06-27
 title: Supreme Court Rules Partisan Gerrymandering Beyond Federal Court Jurisdiction
 importance: 9
 tags:
-  - gerrymandering
-  - supreme-court
-  - voting-rights
-  - electoral-manipulation
-  - john-roberts
+- gerrymandering
+- supreme-court
+- voting-rights
+- electoral-manipulation
+- john-roberts
 actors:
-  - Supreme Court
-  - John Roberts
-  - Robert Rucho
-  - Common Cause
+- Supreme Court
+- John Roberts
+- Robert Rucho
+- Common Cause
 sources:
-  - url: https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf
-    title: Rucho v. Common Cause Opinion
-    publisher: Supreme Court of the United States
-    date: 2019-06-27
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/court-cases/rucho-v-common-cause
-    title: Rucho v. Common Cause
-    publisher: Brennan Center for Justice
-    date: 2019-06-27
-    tier: 1
-  - url: https://harvardlawreview.org/print/vol-133/rucho-v-common-cause/
-    title: Rucho v. Common Cause
-    publisher: Harvard Law Review
-    date: 2020-01-01
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Rucho_v._Common_Cause
-    title: Rucho v. Common Cause
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 3
+- url: https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf
+  title: Rucho v. Common Cause Opinion
+  date: 2019-06-27
+  tier: 1
+  outlet: Supreme Court of the United States
+- url: https://www.brennancenter.org/our-work/court-cases/rucho-v-common-cause
+  title: Rucho v. Common Cause
+  date: 2019-06-27
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://harvardlawreview.org/print/vol-133/rucho-v-common-cause/
+  title: Rucho v. Common Cause
+  date: 2020-01-01
+  tier: 1
+  outlet: Harvard Law Review
+- url: https://en.wikipedia.org/wiki/Rucho_v._Common_Cause
+  title: Rucho v. Common Cause
+  date: 2024-01-01
+  tier: 3
+  outlet: Wikipedia
 ---
 
 The Supreme Court rules 5-4 in *Rucho v. Common Cause* that partisan gerrymandering claims present "political questions beyond the reach of the federal courts," effectively eliminating federal judicial oversight of even extreme partisan redistricting. The decision gives state legislatures a green light to draw district maps for maximum partisan advantage, regardless of how severely this distorts democratic representation.

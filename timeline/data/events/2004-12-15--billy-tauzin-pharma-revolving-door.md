@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://billmoyers.com/story/the-man-who-made-you-pay-more-at-the-drugstore/
   title: The Lobbyist Who Made You Pay More at the Drugstore
-  publisher: BillMoyers.com
   date: '2014-01-01'
   tier: 1
+  outlet: BillMoyers.com
 - url: https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/
   title: The Legacy of Billy Tauzin - The White House-PhRMA Deal
-  publisher: Sunlight Foundation
   date: '2010-02-12'
   tier: 1
+  outlet: Sunlight Foundation
 - url: https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020
   title: Medicare Drug Planners Now Lobbyists, With Billions at Stake
-  publisher: ProPublica
   date: '2009-10-20'
   tier: 1
+  outlet: ProPublica
 actors:
 - Billy Tauzin
 - PhRMA

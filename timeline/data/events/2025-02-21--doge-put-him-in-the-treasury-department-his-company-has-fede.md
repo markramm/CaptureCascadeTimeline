@@ -1,11 +1,8 @@
 ---
 id: 2025-02-21--doge-put-him-in-the-treasury-department-his-company-has-fede
 date: '2025-02-21'
-title: DOGE put him in the Treasury Department. His company has federal contracts
-  worth millions
-description: Tom Krause, CEO of Cloud Software Group, which holds federal contracts
-  worth up to $11.8 million, has been appointed the Treasury Department’s fiscal assistant
-  secretary while retaining his private-sector role
+title: DOGE put him in the Treasury Department. His company has federal contracts worth millions
+description: Tom Krause, CEO of Cloud Software Group, which holds federal contracts worth up to $11.8 million, has been appointed the Treasury Department’s fiscal assistant secretary while retaining his private-sector role
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -17,21 +14,19 @@ tags:
 - government-contracts
 capture_type: regulatory_capture
 sources:
-- title: DOGE put him in the Treasury Department. His company has federal contracts
-    worth millions
+- title: DOGE put him in the Treasury Department. His company has federal contracts worth millions
   url: https://www.wired.com/story/krause-doge-cloud-software-treasury/
-  outlet: Wired
+  outlet: WIRED
   date: '2025-02-21'
 - title: Treasury installs DOGE ally as head of payment system
   url: https://www.washingtonpost.com/business/2025/02/07/treasury-doge-payments-musk/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-07'
 - title: Reed Calls for Immediate Ouster of Unqualified Partisan Tom Krause at Treasury
   url: https://www.reed.senate.gov/news/releases/reed-calls-for-immediate-ouster-of-unqualified-partisan-tom-krause-at-treasury
   outlet: Senator Jack Reed
   date: '2025-02-21'
-- title: Ex-employees say Tom Krause, tapped by Musk to overhaul Treasury, was a hatchet
-    man
+- title: Ex-employees say Tom Krause, tapped by Musk to overhaul Treasury, was a hatchet man
   url: https://abcnews.go.com/Business/employees-tom-krause-tapped-musk-overhaul-treasury-hatchet/story?id=118647158
   outlet: ABC News
   date: '2025-02-21'

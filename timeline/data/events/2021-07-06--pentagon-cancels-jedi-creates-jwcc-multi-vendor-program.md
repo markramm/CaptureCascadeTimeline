@@ -4,34 +4,34 @@ date: 2021-07-06
 title: Pentagon Cancels $10B JEDI Contract, Creates Joint Warfighter Cloud Capability
 importance: 8
 actors:
-  - Pentagon
-  - Microsoft
-  - Amazon Web Services
-  - Google
-  - Oracle
+- Pentagon
+- Microsoft
+- Amazon Web Services
+- Google
+- Oracle
 tags:
-  - military-contracts
-  - cloud-computing
-  - government-contracts
-  - aws
-  - pentagon
-  - jwcc
+- military-contracts
+- cloud-computing
+- government-contracts
+- aws
+- pentagon
+- jwcc
 sources:
-  - url: https://www.npr.org/2021/07/06/1013420036/pentagon-scraps-10-billion-contract-with-microsoft-bitterly-contested-by-amazon
-    title: "Pentagon Scraps $10 Billion Contract With Microsoft, Bitterly Contested By Amazon"
-    publisher: NPR
-    date: 2021-07-06
-    tier: 1
-  - url: https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html
-    title: "Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over"
-    publisher: CNBC
-    date: 2021-07-06
-    tier: 2
-  - url: https://federalnewsnetwork.com/defense-main/2021/11/dod-picks-amazon-microsoft-google-and-oracle-for-multibillion-dollar-project-to-replace-jedi-cloud/
-    title: "DoD picks Amazon, Microsoft, Google and Oracle for multibillion dollar project to replace JEDI Cloud"
-    publisher: Federal News Network
-    date: 2021-11-19
-    tier: 2
+- url: https://www.npr.org/2021/07/06/1013420036/pentagon-scraps-10-billion-contract-with-microsoft-bitterly-contested-by-amazon
+  title: Pentagon Scraps $10 Billion Contract With Microsoft, Bitterly Contested By Amazon
+  date: 2021-07-06
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html
+  title: Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over
+  date: 2021-07-06
+  tier: 2
+  outlet: CNBC
+- url: https://federalnewsnetwork.com/defense-main/2021/11/dod-picks-amazon-microsoft-google-and-oracle-for-multibillion-dollar-project-to-replace-jedi-cloud/
+  title: DoD picks Amazon, Microsoft, Google and Oracle for multibillion dollar project to replace JEDI Cloud
+  date: 2021-11-19
+  tier: 2
+  outlet: Federal News Network
 ---
 
 The Defense Department cancels the controversial $10 billion JEDI (Joint Enterprise Defense Infrastructure) cloud computing contract previously awarded to Microsoft in 2019, ending two years of bitter litigation with Amazon Web Services. The Pentagon announces a new multi-vendor procurement approach called the Joint Warfighter Cloud Capability (JWCC), valued at up to $9 billion through 2028, initially soliciting proposals from both Amazon and Microsoft as "the only companies at the moment that can meet the military's requirements."

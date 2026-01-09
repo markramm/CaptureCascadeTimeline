@@ -2,10 +2,7 @@
 id: 2025-02-13--trump-takes-aim-at-officials-who-police-agency-wrongdoing-pr
 date: '2025-02-13'
 title: Trump Fires Top Ethics and Whistleblower Protection Officials
-description: President Trump fired multiple key oversight officials, including the
-  heads of the Office of Government Ethics and Office of Special Counsel. These actions
-  were seen as a strategic move to dismantle checks on presidential power and potentially
-  expose confidential whistleblower information.
+description: President Trump fired multiple key oversight officials, including the heads of the Office of Government Ethics and Office of Special Counsel. These actions were seen as a strategic move to dismantle checks on presidential power and potentially expose confidential whistleblower information.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -32,7 +29,7 @@ sources:
   date: '2025-02-13'
 - title: Trump takes aim at officials who police agency wrongdoing, protect workers
   url: https://www.washingtonpost.com/politics/2025/02/13/trump-firings-watchdogs/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-13'
 connections: []
 patterns:

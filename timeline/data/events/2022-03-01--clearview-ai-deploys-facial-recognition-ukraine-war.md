@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://time.com/6334176/ukraine-clearview-ai-russia/
   title: Ukraine's 'Secret Weapon' Against Russia Is Clearview AI
-  publisher: TIME
   date: '2023-11-01'
   tier: 1
+  outlet: TIME
 - url: https://www.cnbc.com/2022/03/13/ukraine-has-started-using-clearview-ais-facial-recognition-during-war.html
   title: Ukraine has started using Clearview AI's facial recognition during war
-  publisher: CNBC
   date: '2022-03-13'
   tier: 1
+  outlet: CNBC
 - url: https://privacyinternational.org/news-analysis/4806/clearviewukraine-partnership-how-surveillance-companies-exploit-war
-  title: 'The Clearview/Ukraine partnership - How surveillance companies exploit war'
-  publisher: Privacy International
+  title: The Clearview/Ukraine partnership - How surveillance companies exploit war
   date: '2022-03-15'
   tier: 2
+  outlet: Privacy International
 actors:
 - Clearview AI
 - Ukraine Ministry of Defence

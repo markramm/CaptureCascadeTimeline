@@ -14,20 +14,20 @@ actors:
 - U.S. Senate Banking Committee
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2016/09/20/494738797/you-should-resign-watch-sen-elizabeth-warren-grill-wells-fargo-ceo-john-stumpf
-  title: "'You Should Resign': Watch Sen. Elizabeth Warren Grill Wells Fargo CEO"
-  publisher: NPR
+  title: '''You Should Resign'': Watch Sen. Elizabeth Warren Grill Wells Fargo CEO'
   date: '2016-09-20'
   tier: 1
+  outlet: NPR
 - url: https://www.warren.senate.gov/newsroom/videos/watch/senator-elizabeth-warren-questions-wells-fargo-ceo-john-stumpf-at-banking-committee-hearing
   title: Senator Elizabeth Warren Questions Wells Fargo CEO John Stumpf
-  publisher: U.S. Senate
   date: '2016-09-20'
   tier: 1
+  outlet: U.S. Senate
 - url: https://www.cnbc.com/2016/09/20/senator-warren-on-wells-fargo-ceo-gutless-leadership.html
   title: 'Sen. Elizabeth Warren on Wells Fargo CEO Stumpf: Gutless leadership'
-  publisher: CNBC
   date: '2016-09-20'
   tier: 2
+  outlet: CNBC
 ---
 
 Wells Fargo CEO John Stumpf testifies before the Senate Banking Committee in a hearing titled "An Examination of Wells Fargo's Unauthorized Accounts and the Regulatory Response." Senator Elizabeth Warren delivers a devastating confrontation, accusing Stumpf of "gutless leadership" and demanding his resignation, return of compensation earned during the fraud, and criminal investigation. The hearing becomes an iconic moment exposing the disconnect between executive accountability rhetoric and reality.

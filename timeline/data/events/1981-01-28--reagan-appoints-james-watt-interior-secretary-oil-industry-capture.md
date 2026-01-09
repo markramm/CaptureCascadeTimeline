@@ -11,11 +11,11 @@ actors:
 - Oil Industry
 sources:
 - date: '1981-01-29'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Reagan Names James Watt Interior Secretary
   url: https://www.washingtonpost.com/archive/politics/1981/01/29/reagan-names-james-watt-interior-secretary/
 - date: '1981-01-29'
-  outlet: New York Times
+  outlet: The New York Times
   title: Watt Resigns His Interior Post
   url: https://www.nytimes.com/1983/10/10/us/watt-resigns-his-interior-post.html
 - date: '2023-06-09'

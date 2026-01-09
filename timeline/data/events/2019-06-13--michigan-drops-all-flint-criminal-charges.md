@@ -4,31 +4,31 @@ date: 2019-06-13
 title: Michigan Drops All Criminal Charges in Flint Water Crisis, Promises New Investigation
 importance: 9
 tags:
-  - flint-water-crisis
-  - accountability
-  - criminal-justice
-  - impunity
+- flint-water-crisis
+- accountability
+- criminal-justice
+- impunity
 actors:
-  - Dana Nessel
-  - Nick Lyon
-  - Eden Wells
-  - Darnell Earley
+- Dana Nessel
+- Nick Lyon
+- Eden Wells
+- Darnell Earley
 sources:
-  - url: https://www.npr.org/2019/06/13/732540100/mich-prosecutors-drop-charges-in-flint-water-investigation-but-promise-new-probe
-    title: Charges Dropped In Flint Drinking Water Investigation, Officials Vow New Probe
-    publisher: NPR
-    date: 2019-06-13
-    tier: 1
-  - url: https://www.nbcnews.com/news/us-news/michigan-prosecutors-dismiss-all-criminal-charges-flint-water-investigation-n1017346
-    title: Michigan prosecutors dismiss all criminal charges in Flint water investigation
-    publisher: NBC News
-    date: 2019-06-13
-    tier: 2
-  - url: https://bridgemi.com/michigan-environment-watch/no-convictions-flint-attorney-general-ends-water-crisis-prosecutions/
-    title: No convictions for Flint - Attorney general ends water crisis prosecutions
-    publisher: Bridge Michigan
-    date: 2019-06-13
-    tier: 2
+- url: https://www.npr.org/2019/06/13/732540100/mich-prosecutors-drop-charges-in-flint-water-investigation-but-promise-new-probe
+  title: Charges Dropped In Flint Drinking Water Investigation, Officials Vow New Probe
+  date: 2019-06-13
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/news/us-news/michigan-prosecutors-dismiss-all-criminal-charges-flint-water-investigation-n1017346
+  title: Michigan prosecutors dismiss all criminal charges in Flint water investigation
+  date: 2019-06-13
+  tier: 2
+  outlet: NBC News
+- url: https://bridgemi.com/michigan-environment-watch/no-convictions-flint-attorney-general-ends-water-crisis-prosecutions/
+  title: No convictions for Flint - Attorney general ends water crisis prosecutions
+  date: 2019-06-13
+  tier: 2
+  outlet: Bridge Michigan
 status: confirmed
 ---
 

@@ -1,34 +1,34 @@
 ---
 id: 1978-03-06--doj-sues-trump-again-violating-discrimination-settlement
 date: 1978-03-06
-title: "DOJ Returns to Court: Trump Violated 1975 Discrimination Settlement"
+title: 'DOJ Returns to Court: Trump Violated 1975 Discrimination Settlement'
 importance: 8
 tags:
-  - Racism
-  - Housing Discrimination
-  - Trump Family
-  - Civil Rights
-  - DOJ
+- racism
+- housing discrimination
+- trump family
+- civil rights
+- doj
 actors:
-  - Donald Trump
-  - Fred Trump
-  - Roy Cohn
+- Donald Trump
+- Fred Trump
+- Roy Cohn
 sources:
-  - url: https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case
-    title: "Donald Trump's Housing Discrimination Case Still Chases Him Decades Later"
-    publisher: NPR
-    date: 2016-09-29
-    tier: 1
-  - url: https://www.nytimes.com/2016/08/28/us/politics/donald-trump-housing-race.html
-    title: "Inside the Government's Racial Bias Case Against Donald Trump's Company"
-    publisher: New York Times
-    date: 2016-08-27
-    tier: 1
-  - url: https://time.com/4508889/presidential-debate-1970s-bias-donald-trump/
-    title: "Trump's 1973 Discrimination Case Was Part of Larger Case"
-    publisher: Time
-    date: 2016-09-27
-    tier: 1
+- url: https://www.npr.org/2016/09/29/495955920/donald-trump-plagued-by-decades-old-housing-discrimination-case
+  title: Donald Trump's Housing Discrimination Case Still Chases Him Decades Later
+  date: 2016-09-29
+  tier: 1
+  outlet: NPR
+- url: https://www.nytimes.com/2016/08/28/us/politics/donald-trump-housing-race.html
+  title: Inside the Government's Racial Bias Case Against Donald Trump's Company
+  date: 2016-08-27
+  tier: 1
+  outlet: The New York Times
+- url: https://time.com/4508889/presidential-debate-1970s-bias-donald-trump/
+  title: Trump's 1973 Discrimination Case Was Part of Larger Case
+  date: 2016-09-27
+  tier: 1
+  outlet: TIME
 ---
 
 Just three years after settling the landmark housing discrimination case with a court-supervised consent decree, the Department of Justice returned to federal court with new allegations: the Trump Organization had violated the settlement terms and continued systematic discrimination against Black rental applicants. A DOJ attorney wrote to Roy Cohn in 1978 stating bluntly, "We believe that an underlying pattern of discrimination continues to exist in the Trump Management organization."

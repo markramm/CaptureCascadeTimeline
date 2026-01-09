@@ -21,19 +21,19 @@ actors:
 sources:
 - title: NRA & Russia - Majority Report
   url: https://www.finance.senate.gov/download/nra-and-russia_-majority-report
-  publisher: Senate Finance Committee
   date: '2019-09-27'
   tier: 1
+  outlet: Senate Finance Committee
 - title: Maria Butina Pleads Guilty In Foreign Agent Case, Admits Clandestine Influence Scheme
   url: https://www.npr.org/2018/12/13/676406084/maria-butina-guilty-in-foreign-agent-case-admits-clandestine-influence-scheme
-  publisher: NPR
   date: '2018-12-13'
   tier: 1
+  outlet: NPR
 - title: Prosecutors seek 18-month sentence for Maria Butina in Russian plot
   url: https://www.washingtonpost.com/local/legal-issues/prosecutors-seek-18-month-prison-sentence-for-maria-butina-in-russian-plot-to-forge-ties-to-us-conservative-groups/2019/04/19/de703ba2-6203-11e9-9412-daf3d2e67c6d_story.html
-  publisher: Washington Post
   date: '2019-04-19'
   tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

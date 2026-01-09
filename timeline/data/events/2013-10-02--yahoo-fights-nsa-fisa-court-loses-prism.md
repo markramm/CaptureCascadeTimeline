@@ -18,24 +18,24 @@ actors:
 sources:
 - title: Yahoo Threatened With A Secret $250,000 Per Day Fine If It Didn't Comply With NSA PRISM Demands
   url: https://www.techdirt.com/articles/20140912/05494728500/yahoo-threatened-with-secret-250000-per-day-fine-if-it-didnt-comply-with-nsa-prism-demands.shtml
-  publisher: Techdirt
   date: '2014-09-12'
   tier: 2
+  outlet: Techdirt
 - title: Yahoo Fought the NSA's PRISM Program in Court
   url: https://www.newsweek.com/yahoo-fought-nsas-prism-program-court-270130
-  publisher: Newsweek
   date: '2014-09-12'
   tier: 2
+  outlet: Newsweek
 - title: Yahoo wins court order to release records of its fight against PRISM
   url: https://www.dailydot.com/unclick/yahoo-prism-court-win-fisa-declassified/
-  publisher: Daily Dot
   date: '2013-09-09'
   tier: 2
+  outlet: Daily Dot
 - title: Encrypted Email Services Shuttered Amid Snowden Investigation
   url: https://www.npr.org/2013/08/09/210570888/encrypted-email-services-shuttered-amid-snowden-investigation
-  publisher: NPR
   date: '2013-08-09'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

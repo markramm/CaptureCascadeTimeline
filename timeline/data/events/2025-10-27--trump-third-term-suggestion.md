@@ -7,10 +7,10 @@ id: 2025-10-27--trump-third-term-suggestion
 importance: 9
 sources:
 - date: '2025-10-27'
-  publisher: The Guardian
   tier: 1
   title: Trump Floats Constitutional Third Term Bypass
   url: https://www.theguardian.com/us-news/2025/oct/27/trump-third-term-vice-president-suggestion
+  outlet: The Guardian
 status: confirmed
 tags:
 - authoritarianism

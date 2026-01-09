@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--ghislaine-maxwell-prison-transfer-minimum-security
 date: '2025-08-01'
-title: Ghislaine Maxwell Transferred to Minimum-Security Texas Prison Camp After Meeting
-  with DOJ Officials
+title: Ghislaine Maxwell Transferred to Minimum-Security Texas Prison Camp After Meeting with DOJ Officials
 importance: 9
 actors:
 - Ghislaine Maxwell
@@ -18,21 +17,19 @@ tags:
 sources:
 - url: https://www.cnn.com/2025/08/01/politics/ghislaine-maxwell-federal-prison-texas
   title: Ghislaine Maxwell moved to federal prison camp in Texas
-  publisher: CNN
   date: '2025-08-01'
   tier: 2
+  outlet: CNN
 - url: https://www.npr.org/2025/08/01/g-s1-80655/ghislaine-maxwell-epstein-prison-transfer
-  title: Ghislaine Maxwell, Epstein's former girlfriend, transferred to a prison camp
-    in Texas
-  publisher: NPR
+  title: Ghislaine Maxwell, Epstein's former girlfriend, transferred to a prison camp in Texas
   date: '2025-08-01'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/ghislaine-maxwells-transfer-cushy-prison-camp-travesty-justice-ex-bop-rcna223045
-  title: Ghislaine Maxwell's transfer to cushy prison camp is a 'travesty of justice,'
-    ex-BOP official says
-  publisher: NBC News
+  title: Ghislaine Maxwell's transfer to cushy prison camp is a 'travesty of justice,' ex-BOP official says
   date: '2025-08-02'
   tier: 2
+  outlet: NBC News
 ---
 
 Convicted sex trafficker Ghislaine Maxwell was transferred on August 1, 2025, from a low-security facility in Tallahassee, Florida to a minimum-security federal prison camp in Bryan, Texas. The transfer came one week after Deputy Attorney General Todd Blanche met with Maxwell and her lawyer for nine hours over two days. The move is highly unusual because Bureau of Prisons policy requires sex offenders to be housed in at least low-security facilities unless they receive a special waiver.

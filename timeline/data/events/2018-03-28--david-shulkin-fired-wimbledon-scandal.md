@@ -4,33 +4,33 @@ date: 2018-03-28
 title: VA Secretary David Shulkin Fired After Inspector General Finds Ethics Violations on Taxpayer-Funded European Trip
 importance: 7
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - David Shulkin
-  - VA
-  - Inspector General
-  - Misuse of Funds
+- cabinet corruption
+- ethics violations
+- david shulkin
+- va
+- inspector general
+- misuse of funds
 actors:
-  - David Shulkin
-  - Vivieca Wright Simpson
-  - Merle Bari
-  - Donald Trump
+- David Shulkin
+- Vivieca Wright Simpson
+- Merle Bari
+- Donald Trump
 sources:
-  - url: https://www.cnbc.com/2018/02/14/veterans-affairs-chief-shulkin-improperly-accepted-wimbledon-tickets.html
-    title: "Veterans Affairs boss David Shulkin improperly accepted Wimbledon tickets, allowed wife to fly to Europe on taxpayers' dime, scathing report says"
-    publisher: CNBC
-    date: 2018-02-14
-    tier: 1
-  - url: https://www.npr.org/sections/thetwo-way/2018/02/15/585957402/inspector-serious-derelictions-by-va-secretary-related-to-overseas-travel
-    title: "Inspector: 'Serious Derelictions' By VA Secretary Related To Overseas Travel"
-    publisher: NPR
-    date: 2018-02-15
-    tier: 1
-  - url: https://www.npr.org/sections/thetwo-way/2018/03/29/597866101/fired-va-secretary-says-white-house-muzzled-him
-    title: "David Shulkin, Fired VA Secretary, Says White House Muzzled Him"
-    publisher: NPR
-    date: 2018-03-29
-    tier: 1
+- url: https://www.cnbc.com/2018/02/14/veterans-affairs-chief-shulkin-improperly-accepted-wimbledon-tickets.html
+  title: Veterans Affairs boss David Shulkin improperly accepted Wimbledon tickets, allowed wife to fly to Europe on taxpayers' dime, scathing report says
+  date: 2018-02-14
+  tier: 1
+  outlet: CNBC
+- url: https://www.npr.org/sections/thetwo-way/2018/02/15/585957402/inspector-serious-derelictions-by-va-secretary-related-to-overseas-travel
+  title: 'Inspector: ''Serious Derelictions'' By VA Secretary Related To Overseas Travel'
+  date: 2018-02-15
+  tier: 1
+  outlet: NPR
+- url: https://www.npr.org/sections/thetwo-way/2018/03/29/597866101/fired-va-secretary-says-white-house-muzzled-him
+  title: David Shulkin, Fired VA Secretary, Says White House Muzzled Him
+  date: 2018-03-29
+  tier: 1
+  outlet: NPR
 ---
 
 President Trump fired Veterans Affairs Secretary David Shulkin on March 28, 2018, after an Inspector General report found he improperly accepted tickets to Wimbledon tennis matches and allowed taxpayers to pay for his wife's travel on an 11-day European trip in July 2017 costing at least $122,334. The IG investigation revealed Shulkin's chief of staff, Vivieca Wright Simpson, made false representations to a VA ethics official and altered an official email record, resulting in VA improperly paying $4,312 in airfare for Shulkin's wife, Merle Bari. The report documented that a VA employee "effectively acted as a personal travel concierge" for Shulkin and his wife during the trip to Denmark and England.

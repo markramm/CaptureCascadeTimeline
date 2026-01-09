@@ -1,0 +1,56 @@
+---
+id: 2015-07-28--fbi-indianapolis-receives-nassar-allegations-fails-to-investigate
+date: '2015-07-28'
+title: FBI Indianapolis Field Office Receives Nassar Allegations from USA Gymnastics, Fails to Open Investigation for 14 Months
+importance: 10
+actors:
+- Federal Bureau of Investigation
+- W. Jay Abbott
+- Michael Langeman
+- USA Gymnastics
+- Steve Penny
+- U.S. Olympic Committee
+- Scott Blackmun
+- Alan Ashley
+- Larry Nassar
+- McKayla Maroney
+tags:
+- fbi-failure
+- institutional-abuse
+- cover-up
+- gymnastics
+- law-enforcement-failure
+- usoc-failures
+- sexual-assault
+sources:
+- title: DOJ OIG Releases Report of Investigation and Review of the FBI's Handling of Allegations of Sexual Abuse by Former USA Gymnastics Physician Lawrence Gerard Nassar
+  url: https://oig.justice.gov/news/doj-oig-releases-report-investigation-and-review-fbis-handling-allegations-sexual-abuse-former
+  outlet: Department of Justice Office of Inspector General
+  date: '2021-07-14'
+  tier: 1
+- title: FBI seriously mishandled Larry Nassar case, Justice Department watchdog says
+  url: https://www.pbs.org/newshour/nation/fbi-seriously-mishandled-larry-nassar-case-justice-department-watchdog-says
+  outlet: PBS News
+  date: '2021-07-14'
+  tier: 1
+- title: FBI director details 'totally unacceptable' failures in Larry Nassar case
+  url: https://www.cbsnews.com/news/fbi-fires-agent-larry-nassar-usa-gymnastics-doctor/
+  outlet: CBS News
+  date: '2021-09-15'
+  tier: 1
+- title: The Constellation of Factors Underlying Larry Nassar's Abuse of Athletes
+  url: https://www.ropesgray.com/-/media/Files/USOC/ropes-gray-full-report.pdf
+  outlet: Ropes & Gray LLP
+  date: '2018-12-10'
+  tier: 1
+---
+
+On July 28, 2015, officials in the FBI's Indianapolis Field Office met with USA Gymnastics leadership who reported sexual abuse allegations against team doctor Larry Nassar from three young gymnasts. The FBI failed to formally document this meeting, failed to properly handle and document receipt of relevant evidence, and failed to open an investigation in Michigan where the abuse occurred and where Nassar was still actively treating gymnasts at Michigan State University. The FBI Indianapolis office did not transfer the case to the FBI Lansing Resident Agency until October 2016—a delay of over 14 months during which approximately 70 or more young athletes were sexually abused by Nassar under the guise of medical treatment.
+
+USA Gymnastics President Steve Penny had directly notified USOC CEO Scott Blackmun and Chief of Sport Performance Alan Ashley in July 2015 that National Team members had lodged sexual abuse allegations against Nassar. Neither Blackmun nor Ashley shared the information with others in the USOC organization, and the USOC took no action between July 2015 and September 2016 when the Indianapolis Star published its investigation of Nassar's abuse. This coordinated institutional silence between USA Gymnastics, the USOC, and the FBI created a protection racket for a known predator while he continued to abuse vulnerable young athletes.
+
+The FBI Indianapolis Field Office's handling of the Nassar case violated numerous FBI policies and constituted gross negligence that enabled ongoing sexual violence. Special Agent in Charge W. Jay Abbott and Supervisory Special Agent Michael Langeman failed to document an interview with Olympic gymnast McKayla Maroney conducted on September 2, 2015, until February 2017—17 months after the interview. When they eventually documented Maroney's report, they 'made entirely false claims' about what she said, according to her later congressional testimony. Abbott and Langeman also made false statements to investigators about their handling of the case.
+
+The Justice Department Inspector General investigation found that during the period from July 2015 to September 2016, Nassar continued to treat gymnasts at Michigan State University, a high school in Michigan, and a gymnastics club in Michigan, sexually assaulting dozens of additional victims while the FBI sat on credible allegations without investigation. The FBI Lansing Resident Agency did not become aware of the Nassar allegations until after the Michigan State University Police Department executed a search warrant on Nassar's residence in September 2016, following the Indianapolis Star investigation that bypassed the FBI entirely.
+
+The FBI's failure to investigate Nassar despite credible reports from elite Olympic athletes demonstrated a catastrophic breakdown in law enforcement that prioritized institutional relationships with USA Gymnastics and the USOC over the safety of child athletes. FBI Director Christopher Wray later fired Supervisory Special Agent Langeman, but W. Jay Abbott had retired in January 2018 before any review launched, escaping accountability. The Justice Department during both the Trump and early Biden administrations declined to bring criminal charges against the FBI agents who lied to investigators, demonstrating that institutional protection extends even to law enforcement officials who enable child sexual abuse through deliberate inaction and false statements.

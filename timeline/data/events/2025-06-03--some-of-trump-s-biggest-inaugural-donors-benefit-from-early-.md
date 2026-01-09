@@ -2,9 +2,7 @@
 id: 2025-06-03--some-of-trump-s-biggest-inaugural-donors-benefit-from-early-
 date: '2025-06-03'
 title: Some of Trump’s biggest inaugural donors benefit from early government actions
-description: Major donors to Trump's inaugural fund, like Pilgrim’s Pride and Ripple
-  Labs, have already seen benefits from the government–Ripple settled a $2 billion
-  SEC case for just $50 million and Pilgrim's Pride's parent company won USDA approvals
+description: Major donors to Trump's inaugural fund, like Pilgrim’s Pride and Ripple Labs, have already seen benefits from the government–Ripple settled a $2 billion SEC case for just $50 million and Pilgrim's Pride's parent company won USDA approvals
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -18,20 +16,17 @@ capture_type: regulatory_capture
 sources:
 - title: Some of Trump’s biggest inaugural donors benefit from early government actions
   url: https://www.wsj.com/politics/policy/trump-inauguration-donors-benefit-2ff3121f?mod=politics_lead_pos2
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-06-03'
-- title: Major corporate interests and megadonors gave $239 million to fund Trump's
-    inauguration
+- title: Major corporate interests and megadonors gave $239 million to fund Trump's inauguration
   url: https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074
   outlet: NBC News
   date: '2025-06-03'
-- title: 'Giving outsize sums: Companies that donated to Trump''s inauguration reaped
-    huge rewards'
+- title: 'Giving outsize sums: Companies that donated to Trump''s inauguration reaped huge rewards'
   url: https://www.alternet.org/trump-inauguration-donors/
   outlet: Alternet
   date: '2025-06-03'
-- title: Crypto firms gave $18M to Trump's inauguration. Ripple's $4.9M gift was second
-    biggest overall
+- title: Crypto firms gave $18M to Trump's inauguration. Ripple's $4.9M gift was second biggest overall
   url: https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/
   outlet: Fortune
   date: '2025-04-21'

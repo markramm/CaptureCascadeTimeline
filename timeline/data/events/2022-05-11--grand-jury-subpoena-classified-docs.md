@@ -15,27 +15,23 @@ tags:
 - mar-a-lago
 status: confirmed
 sources:
-- title: 'Timeline: Special counsel''s investigation into Trump''s handling of classified
-    documents'
+- title: 'Timeline: Special counsel''s investigation into Trump''s handling of classified documents'
   url: https://abcnews.go.com/US/timeline-special-counsels-investigation-trumps-handling-classified-documents/story?id=101768329
   outlet: ABC News
   date: '2023-08-01'
 - title: Justice Dept. using grand jury to probe Trump's Mar-a-Lago documents
   url: https://www.washingtonpost.com/national-security/2022/05/12/mar-a-lago-documents-grand-jury/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2022-05-12'
 - title: Federal prosecution of Donald Trump (classified documents case)
   url: https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(classified_documents_case)
   outlet: Wikipedia
   date: '2024-01-01'
-notes: 'Trump''s team requested deadline extension and raised claims about presidential
-  declassification
+notes: 'Trump''s team requested deadline extension and raised claims about presidential declassification
 
-  authority without asserting Trump had actually declassified the documents. The indictment
-  later
+  authority without asserting Trump had actually declassified the documents. The indictment later
 
-  alleged Trump directed boxes be moved before his attorney''s June 2 search, ensuring
-  the attorney
+  alleged Trump directed boxes be moved before his attorney''s June 2 search, ensuring the attorney
 
   would not locate all responsive documents.'
 capture_lanes:

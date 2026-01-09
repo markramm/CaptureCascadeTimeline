@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--laura-loomer-loyalty-purges-trump-administration
 date: '2025-08-01'
-title: Far-Right Activist Laura Loomer Orchestrates Mass Loyalty Purges Across Trump
-  Administration
+title: Far-Right Activist Laura Loomer Orchestrates Mass Loyalty Purges Across Trump Administration
 importance: 9
 actors:
 - Laura Loomer
@@ -18,22 +17,20 @@ tags:
 - extremism
 sources:
 - url: https://edition.cnn.com/2025/08/04/politics/laura-loomer-trump-firings
-  title: Inside Laura Loomer's hunt for disloyalty in Trump's government — and where
-    she's looking next
-  publisher: CNN
+  title: Inside Laura Loomer's hunt for disloyalty in Trump's government — and where she's looking next
   date: '2025-08-04'
   tier: 2
+  outlet: CNN
 - url: https://abcnews.go.com/Politics/loomer-urged-trump-remove-nsa-director-multiple-agencies/story?id=120484445
-  title: 'Loomer, far-right activist, urged Trump to remove NSA director and others:
-    Sources'
-  publisher: ABC News
+  title: 'Loomer, far-right activist, urged Trump to remove NSA director and others: Sources'
   date: '2025-08-01'
   tier: 2
+  outlet: ABC News
 - url: https://thehill.com/homenews/5232940-trump-purges-national-security-loomer/
   title: 5 things to know about Laura Loomer and Trump's national security purge
-  publisher: The Hill
   date: '2025-08-01'
   tier: 2
+  outlet: The Hill
 ---
 
 Politico reported in August 2025 that over a dozen high-ranking officials across multiple federal agencies were forced to leave their jobs or had nominations derailed after being flagged as 'disloyal' by far-right extremist Laura Loomer, with hundreds more terminations planned. Loomer established a 'tip line' for administration staffers to report colleagues deemed insufficiently loyal to Trump, telling reporters: 'I'm happy to take people's tips about disloyal appointees, disloyal staffers and Biden holdovers.' Her campaigns led to departures from the NSA, National Security Council, DOJ, HHS, FDA, and Department of Defense.

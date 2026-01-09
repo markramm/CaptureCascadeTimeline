@@ -14,24 +14,24 @@ tags:
 sources:
 - title: Trump says he signed bill to release Epstein files
   url: https://www.aljazeera.com/news/2025/11/20/trump-says-he-signed-bill-to-release-epstein-files
-  publisher: Al Jazeera
   date: '2025-11-20'
   tier: 1
+  outlet: Al Jazeera
 - title: What's next now that Trump has signed a bill releasing the Epstein files
   url: https://www.npr.org/2025/11/20/g-s1-98477/trump-signed-bill-releasing-epstein-files
-  publisher: NPR
   date: '2025-11-20'
   tier: 1
+  outlet: NPR
 - title: What's in the Epstein files — and when could they come out?
   url: https://www.nbcnews.com/politics/justice-department/what-in-epstein-files-when-release-house-bill-vote-trump-sign-rcna244799
-  publisher: NBC News
   date: '2025-11-19'
   tier: 1
+  outlet: NBC News
 - title: At Trump's urging, Bondi says U.S. will investigate Epstein's ties to political foes
   url: https://www.npr.org/2025/11/15/g-s1-97958/bondi-investigate-epstein-ties-to-political-foes
-  publisher: NPR
   date: '2025-11-15'
   tier: 1
+  outlet: NPR
 actors:
 - Donald Trump
 - Pam Bondi

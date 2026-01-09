@@ -1,8 +1,7 @@
 ---
 id: 2025-10-19--doj-fabricate-terrorist-claims-deportation
 date: '2025-10-19'
-title: DOJ Whistleblower Reveals Officials Ordered Fabrication of Terrorist Claims
-  in Deportation Case
+title: DOJ Whistleblower Reveals Officials Ordered Fabrication of Terrorist Claims in Deportation Case
 importance: 9
 actors:
 - Erez Reuveni
@@ -12,22 +11,20 @@ actors:
 - Pam Bondi
 sources:
 - url: https://www.cbsnews.com/news/justice-department-whistleblower-says-he-witnessed-officials-undermining-rule-of-law-60-minutes-transcript/
-  title: DOJ whistleblower says he witnessed government officials undermining the
-    rule of law
-  publisher: CBS News
+  title: DOJ whistleblower says he witnessed government officials undermining the rule of law
   date: '2025-10-19'
   tier: 1
+  outlet: CBS News
 - url: https://www.cbsnews.com/news/erez-reuveni-justice-department-whistleblower-kilmar-abrego-garcia-60-minutes/
-  title: Fired Justice Department lawyer says he refused to lie in the Abrego Garcia
-    case
-  publisher: CBS News
+  title: Fired Justice Department lawyer says he refused to lie in the Abrego Garcia case
   date: '2025-10-19'
   tier: 1
+  outlet: CBS News
 - url: https://www.nbcnews.com/politics/justice-department/whistleblower-says-top-doj-official-suggested-ignoring-court-orders-de-rcna214763
   title: Whistleblower says top DOJ official suggested ignoring court orders on deportations
-  publisher: NBC News
   date: '2025-06-24'
   tier: 1
+  outlet: NBC News
 tags:
 - obstruction-of-justice
 - false-evidence

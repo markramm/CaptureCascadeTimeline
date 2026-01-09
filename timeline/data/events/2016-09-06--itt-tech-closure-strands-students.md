@@ -4,30 +4,30 @@ date: 2016-09-06
 title: ITT Tech Closes All 130 Campuses - 35,000 Students Stranded With Worthless Degrees and Non-Dischargeable Debt
 importance: 8
 tags:
-  - for-profit-colleges
-  - student-debt
-  - itt-tech
-  - fraud
+- for-profit-colleges
+- student-debt
+- itt-tech
+- fraud
 actors:
-  - ITT Technical Institute
-  - Department of Education
-  - Ted Mitchell
+- ITT Technical Institute
+- Department of Education
+- Ted Mitchell
 sources:
-  - url: https://www.npr.org/sections/thetwo-way/2016/09/06/492819673/large-for-profit-itt-technical-institutes-will-close-its-doors
-    title: ITT Tech Is Shutting Down All Of Its Campuses
-    publisher: NPR
-    date: 2016-09-06
-    tier: 1
-  - url: https://studentaid.gov/announcements-events/itt
-    title: Information for ITT Technical Institute Students
-    publisher: U.S. Department of Education
-    date: 2016-09-06
-    tier: 1
-  - url: https://www.pbs.org/newshour/education/ITT-technical-institutes-suddenly-closes-doors
-    title: ITT Technical Institutes suddenly closes its doors, leaving thousands of students scrambling
-    publisher: PBS
-    date: 2016-09-06
-    tier: 1
+- url: https://www.npr.org/sections/thetwo-way/2016/09/06/492819673/large-for-profit-itt-technical-institutes-will-close-its-doors
+  title: ITT Tech Is Shutting Down All Of Its Campuses
+  date: 2016-09-06
+  tier: 1
+  outlet: NPR
+- url: https://studentaid.gov/announcements-events/itt
+  title: Information for ITT Technical Institute Students
+  date: 2016-09-06
+  tier: 1
+  outlet: U.S. Department of Education
+- url: https://www.pbs.org/newshour/education/ITT-technical-institutes-suddenly-closes-doors
+  title: ITT Technical Institutes suddenly closes its doors, leaving thousands of students scrambling
+  date: 2016-09-06
+  tier: 1
+  outlet: PBS
 status: confirmed
 ---
 

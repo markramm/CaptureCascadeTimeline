@@ -19,19 +19,19 @@ actors:
 sources:
 - title: Vitali Klitschko hits out at podcaster Joe Rogan for repeating 'Russian propaganda'
   url: https://www.bbc.com/news/articles/cn4x4x4x4x4
-  publisher: BBC News
   date: '2024-11-24'
   tier: 1
+  outlet: BBC News
 - title: Klitschko to Rogan - You are repeating Russian propaganda
   url: https://www.npr.org/2024/11/24/rogan-klitschko-ukraine
-  publisher: NPR
   date: '2024-11-24'
   tier: 1
+  outlet: NPR
 - title: Joe Rogan's History with RT and Russian Narratives
   url: https://www.mediamatters.org/joe-rogan-russia-today-appearances
-  publisher: Media Matters for America
   date: '2024-11-25'
   tier: 2
+  outlet: Media Matters for America
 status: confirmed
 ---
 

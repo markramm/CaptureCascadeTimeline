@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9439849/
   title: Biological patent thickets and delayed access to biosimilars, an American problem
-  publisher: National Center for Biotechnology Information
   date: '2022-08-01'
   tier: 1
+  outlet: National Center for Biotechnology Information
 - url: https://academic.oup.com/jlb/article/9/2/lsac022/6680093
   title: Biological patent thickets and delayed access to biosimilars, an American problem
-  publisher: Oxford Academic - Journal of Law and the Biosciences
   date: '2022-08-01'
   tier: 1
+  outlet: Oxford Academic - Journal of Law and the Biosciences
 - url: https://www.genengnews.com/topics/drug-discovery/amgen-delaying-u-s-launch-of-humira-biosimilar-in-settlement-with-abbvie/
   title: Amgen Delaying U.S. Launch of Humira Biosimilar in Settlement with AbbVie
-  publisher: GEN - Genetic Engineering & Biotechnology News
   date: '2017-10-01'
   tier: 2
+  outlet: GEN - Genetic Engineering & Biotechnology News
 - url: https://www.statnews.com/pharmalot/2018/11/07/abbvie-biosimilars-humira-patents/
   title: Behind the patent thicket - tactics AbbVie allegedly used to thwart biosimilar versions of Humira
-  publisher: STAT News
   date: '2018-11-07'
   tier: 2
+  outlet: STAT News
 actors:
 - AbbVie
 - Amgen

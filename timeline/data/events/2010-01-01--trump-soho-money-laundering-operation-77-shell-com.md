@@ -27,8 +27,7 @@ sources:
   outlet: NPR
   date: '2017-11-07'
   archive_url: https://web.archive.org/web/20250814000000/https://www.npr.org/2017/11/07/560849787/trump-soho-a-shiny-hotel-wrapped-in-glass-but-hiding-mysteries
-- title: 'Steppe to Soho: How Millions Linked to Kazakhstan Mega-Fraud Case Ended
-    up in Trump Property'
+- title: 'Steppe to Soho: How Millions Linked to Kazakhstan Mega-Fraud Case Ended up in Trump Property'
   url: https://www.occrp.org/en/investigation/steppe-to-soho-how-millions-linked-to-kazakhstan-mega-fraud-case-ended-up-in-trump-property
   outlet: OCCRP
   date: '2017-12-19'
@@ -38,13 +37,9 @@ sources:
   date: '2017-06-21'
 - title: Former Mafia-linked figure describes association with Trump
   url: https://www.washingtonpost.com/politics/former-mafia-linked-figure-describes-association-with-trump/2016/05/17/cec6c2c6-16d3-11e6-aa55-670cabef46e0_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2016-05-17'
-notes: Former Bayrock finance director testified to systematic money laundering. Felix
-  Sater pleaded guilty in 1998 to $40 million stock fraud scheme orchestrated by Russian
-  Mafia, became FBI informant. Tevfik Arif arrested in 2010 in Turkey on prostitution
-  charges (acquitted 2012). Building described as "monument to spectacularly corrupt
-  money-laundering and tax evasion."
+notes: Former Bayrock finance director testified to systematic money laundering. Felix Sater pleaded guilty in 1998 to $40 million stock fraud scheme orchestrated by Russian Mafia, became FBI informant. Tevfik Arif arrested in 2010 in Turkey on prostitution charges (acquitted 2012). Building described as "monument to spectacularly corrupt money-laundering and tax evasion."
 status: confirmed
 ---
 

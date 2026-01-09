@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7054854/
   title: Lobbying Expenditures and Campaign Contributions by the Pharmaceutical and Health Product Industry in the United States, 1999-2018
-  publisher: National Center for Biotechnology Information
   date: '2020-03-01'
   tier: 1
+  outlet: National Center for Biotechnology Information
 - url: https://kffhealthnews.org/news/article/pharma-campaign-cash-delivered-to-key-lawmakers-with-surgical-precision/
   title: Pharma Campaign Cash Delivered to Key Lawmakers With Surgical Precision
-  publisher: KFF Health News
   date: '2024-01-01'
   tier: 1
+  outlet: KFF Health News
 - url: https://www.opensecrets.org/industries/summary?ind=H04++
   title: Pharmaceuticals / Health Products Recipients
-  publisher: OpenSecrets
   date: '2024-01-01'
   tier: 1
+  outlet: OpenSecrets
 actors:
 - House Energy and Commerce Committee
 - Fred Upton

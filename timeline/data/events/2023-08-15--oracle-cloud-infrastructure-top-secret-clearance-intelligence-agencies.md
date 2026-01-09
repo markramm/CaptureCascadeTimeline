@@ -18,19 +18,19 @@ actors:
 sources:
 - title: Oracle's cloud network gains top secret approval with intelligence agencies
   url: https://www.nextgov.com/modernization/2023/08/oracles-cloud-network-gains-top-secret-approval-intelligence-agencies/389437/
-  publisher: Nextgov
   date: '2023-08-15'
   tier: 2
+  outlet: Nextgov
 - title: Oracle Receives Authority to Operate from the Intelligence Community and DoD
   url: https://www.oracle.com/news/announcement/oracle-receives-authority-to-operate-from-ic-and-dod-2023-08-15/
-  publisher: Oracle
   date: '2023-08-15'
   tier: 3
+  outlet: Oracle
 - title: Oracle cloud wins top secret government clearance
   url: https://www.theregister.com/2023/08/16/oracle_cloud_top_secret/
-  publisher: The Register
   date: '2023-08-16'
   tier: 2
+  outlet: The Register
 ---
 
 Oracle announced on August 15, 2023, that its Oracle Cloud Infrastructure (OCI) received authority to operate Top Secret/Sensitive Compartmented Information (TS/SCI) from the 18-agency Intelligence Community, marking a major expansion of Oracle's access to the nation's most classified systems. This clearance authorization enables Oracle to host and process the highest levels of classified intelligence data across all U.S. intelligence agencies, including the CIA, NSA, and other members of the intelligence community.

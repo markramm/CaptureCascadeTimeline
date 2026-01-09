@@ -13,19 +13,19 @@ tags:
 sources:
 - url: https://www.commondreams.org/news/2021/01/28/saying-peace-not-going-break-out-anytime-soon-raytheon-ceo-sees-solid-growth-middle
   title: Saying 'Peace Not Going to Break Out... Anytime Soon,' Raytheon CEO Sees 'Solid Growth' in Middle East
-  publisher: Common Dreams
   date: '2021-01-28'
   tier: 2
+  outlet: Common Dreams
 - url: https://responsiblestatecraft.org/2022/01/28/big-war-ceos-theres-chaos-in-the-world-and-our-prospects-are-excellent/
   title: Big War CEOs - There's chaos in the world and our prospects are excellent
-  publisher: Responsible Statecraft
   date: '2022-01-28'
   tier: 2
+  outlet: Responsible Statecraft
 - url: https://www.bostonglobe.com/2022/01/02/business/they-have-massive-influence-how-raytheon-turned-potentially-hard-year-into-good-one/
   title: How Raytheon turned a potentially hard year into a good one
-  publisher: The Boston Globe
   date: '2022-01-02'
   tier: 2
+  outlet: The Boston Globe
 actors:
 - Greg Hayes
 - Raytheon

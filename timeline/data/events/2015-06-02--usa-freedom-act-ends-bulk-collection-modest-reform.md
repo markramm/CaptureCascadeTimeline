@@ -18,20 +18,20 @@ actors:
 - NSA
 sources:
 - url: https://www.npr.org/2015/06/02/411533512/senate-advances-usa-freedom-act-after-republican-leaders-fail-to-amend-bill
-  title: "Senate Advances USA Freedom Act, After Republican Leaders Fail To Amend Bill"
-  publisher: NPR
+  title: Senate Advances USA Freedom Act, After Republican Leaders Fail To Amend Bill
   date: '2015-06-02'
   tier: 1
+  outlet: NPR
 - url: https://theintercept.com/2015/06/02/one-small-step-toward-post-snowden-surveillance-reform-one-giant-step-congress/
-  title: "USA Freedom Act: Small Step for Post-Snowden Reform, Giant Leap for Congress"
-  publisher: The Intercept
+  title: 'USA Freedom Act: Small Step for Post-Snowden Reform, Giant Leap for Congress'
   date: '2015-06-02'
   tier: 1
+  outlet: The Intercept
 - url: https://www.brennancenter.org/our-work/analysis-opinion/congress-passes-nsa-reform-bill
-  title: "Congress Passes NSA Reform Bill"
-  publisher: Brennan Center for Justice
+  title: Congress Passes NSA Reform Bill
   date: '2015-06-02'
   tier: 1
+  outlet: Brennan Center for Justice
 status: confirmed
 ---
 

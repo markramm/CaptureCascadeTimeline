@@ -1,7 +1,7 @@
 ---
 id: 1973-01-01--alec-founded-corporate-model-legislation-state-capture
 date: '1973-01-01'
-title: 'ALEC Founded to Coordinate Corporate Model Legislation Across State Legislatures'
+title: ALEC Founded to Coordinate Corporate Model Legislation Across State Legislatures
 importance: 9
 actors:
 - Paul Weyrich
@@ -11,14 +11,14 @@ actors:
 - Joseph Coors
 - Corporate funders
 tags:
-- ALEC
+- alec
 - state-capture
 - model-legislation
 - corporate-lobbying
 - conservative-movement
 - legislative-coordination
 sources:
-- title: 'A History of ALEC and The Peoples Resistance'
+- title: A History of ALEC and The Peoples Resistance
   url: https://www.alecattacks.org/history-of-alec
   outlet: ALEC Attacks
   date: '2024-01-01'
@@ -30,7 +30,7 @@ sources:
   date: '2012-09-01'
   verified: true
   tier: 1
-- title: 'American Legislative Exchange Council Wikipedia'
+- title: American Legislative Exchange Council Wikipedia
   url: https://en.wikipedia.org/wiki/American_Legislative_Exchange_Council
   outlet: Wikipedia
   date: '2024-01-01'

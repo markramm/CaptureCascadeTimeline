@@ -23,38 +23,34 @@ actors:
 sources:
 - url: https://blockclubchicago.org/2025/11/07/feds-tell-faith-leaders-no-more-prayer-outside-broadview-facility/
   title: Feds Tell Faith Leaders 'No More Prayer' Outside Broadview Facility
-  publisher: Block Club Chicago
   date: '2025-11-07'
   tier: 2
+  outlet: Block Club Chicago
 - url: https://chicago.suntimes.com/immigration/2025/10/11/broadview-detention-immigration-enforcement-ice-religious-leaders-communion-fence-protests
-  title: Religious leaders are denied request to deliver Communion to detainees at
-    Broadview facility
-  publisher: Chicago Sun-Times
+  title: Religious leaders are denied request to deliver Communion to detainees at Broadview facility
   date: '2025-10-11'
   tier: 2
+  outlet: Chicago Sun-Times
 - url: https://www.cbsnews.com/chicago/news/religious-leaders-turned-away-broadview-ice-facility/
-  title: Religious leaders offering communion to detainees turned away at Broadview
-    ICE facility
-  publisher: CBS Chicago
+  title: Religious leaders offering communion to detainees turned away at Broadview ICE facility
   date: '2025-11-01'
   tier: 1
+  outlet: CBS Chicago
 - url: https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility
-  title: Clergy say religious rights are under attack inside and outside the Broadview
-    ICE facility
-  publisher: WBEZ Chicago
+  title: Clergy say religious rights are under attack inside and outside the Broadview ICE facility
   date: '2025-10-23'
   tier: 1
+  outlet: WBEZ Chicago
 - url: https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/
   title: Eucharistic procession turned back by feds at Broadview ICE detention facility
-  publisher: America Magazine
   date: '2025-10-12'
   tier: 2
+  outlet: America Magazine
 - url: https://www.ncronline.org/news/ice-again-prevents-chicago-catholics-bringing-eucharist-immigrant-detainees
-  title: ICE again prevents Chicago Catholics from bringing Eucharist to immigrant
-    detainees
-  publisher: National Catholic Reporter
+  title: ICE again prevents Chicago Catholics from bringing Eucharist to immigrant detainees
   date: '2025-11-02'
   tier: 2
+  outlet: National Catholic Reporter
 status: confirmed
 ---
 

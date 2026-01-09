@@ -4,34 +4,34 @@ date: '2019-06-21'
 title: E. Jean Carroll Publicly Accuses Trump of Sexual Assault in New York Magazine
 importance: 8
 tags:
-  - Sexual Assault
-  - E. Jean Carroll
-  - Defamation
-  - Trump Personal Conduct
+- sexual assault
+- e. jean carroll
+- defamation
+- trump personal conduct
 actors:
-  - E. Jean Carroll
-  - Donald Trump
+- E. Jean Carroll
+- Donald Trump
 sources:
-  - url: https://www.npr.org/2019/06/21/734918876/trump-denies-new-sexual-assault-allegation-by-advice-columnist-e-jean-carroll
-    title: Trump Denies New Sexual Assault Allegation By Advice Columnist E. Jean Carroll
-    publisher: NPR
-    date: '2019-06-21'
-    tier: 1
-  - url: https://www.cnn.com/2019/06/21/politics/trump-new-york-magazine-assault-e-jean-carroll/index.html
-    title: Magazine columnist accuses Trump of sexually assaulting her in the '90s
-    publisher: CNN
-    date: '2019-06-21'
-    tier: 1
-  - url: https://www.axios.com/2019/11/04/e-jean-carroll-lawsuit-donald-trump-defamation
-    title: E. Jean Carroll sues Trump for defamation
-    publisher: Axios
-    date: '2019-11-04'
-    tier: 2
-  - url: https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case
-    title: Judge upholds the $5 million verdict against Trump in E. Jean Carroll's sex abuse and defamation case
-    publisher: PBS
-    date: '2023-07-19'
-    tier: 1
+- url: https://www.npr.org/2019/06/21/734918876/trump-denies-new-sexual-assault-allegation-by-advice-columnist-e-jean-carroll
+  title: Trump Denies New Sexual Assault Allegation By Advice Columnist E. Jean Carroll
+  date: '2019-06-21'
+  tier: 1
+  outlet: NPR
+- url: https://www.cnn.com/2019/06/21/politics/trump-new-york-magazine-assault-e-jean-carroll/index.html
+  title: Magazine columnist accuses Trump of sexually assaulting her in the '90s
+  date: '2019-06-21'
+  tier: 1
+  outlet: CNN
+- url: https://www.axios.com/2019/11/04/e-jean-carroll-lawsuit-donald-trump-defamation
+  title: E. Jean Carroll sues Trump for defamation
+  date: '2019-11-04'
+  tier: 2
+  outlet: Axios
+- url: https://www.pbs.org/newshour/politics/judge-upholds-the-5-million-verdict-against-trump-in-e-jean-carrolls-sex-abuse-and-defamation-case
+  title: Judge upholds the $5 million verdict against Trump in E. Jean Carroll's sex abuse and defamation case
+  date: '2023-07-19'
+  tier: 1
+  outlet: PBS
 status: confirmed
 ---
 

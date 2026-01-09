@@ -4,38 +4,38 @@ date: '2019-07-28'
 title: Director of National Intelligence Dan Coats Resigns After Repeated Conflicts with Trump Over Russia
 importance: 8
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - Intelligence Community
-  - Russia
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- intelligence community
+- russia
 actors:
-  - Dan Coats
-  - Donald Trump
-  - John Ratcliffe
-  - Vladimir Putin
+- Dan Coats
+- Donald Trump
+- John Ratcliffe
+- Vladimir Putin
 sources:
-  - title: Director Of National Intelligence Dan Coats Resigns
-    url: https://www.npr.org/2019/07/28/746089806/director-of-national-intelligence-dan-coats-resigns
-    publisher: NPR
-    date: '2019-07-28'
-    tier: 1
-  - title: Intelligence Director Coats to resign next month, Trump says
-    url: https://www.washingtonpost.com/world/national-security/intelligence-director-coats-expected-to-resign/2019/07/28/34e361e2-b16b-11e9-8e94-71a35969e4d8_story.html
-    publisher: Washington Post
-    date: '2019-07-28'
-    tier: 1
-  - title: Dan Coats Spoke Truth to Trump. Now He's Out
-    url: https://www.govexec.com/defense/2019/07/dan-coats-spoke-truth-trump-now-hes-out/158762/
-    publisher: Government Executive
-    date: '2019-07-29'
-    tier: 1
-  - title: Testimony by intelligence chiefs on global threats highlights differences with president
-    url: https://www.washingtonpost.com/world/national-security/intelligence-officials-will-name-biggest-threats-facing-us-during-senate-hearing/2019/01/28/f08dc5cc-2340-11e9-ad53-824486280311_story.html
-    publisher: Washington Post
-    date: '2019-01-29'
-    tier: 1
+- title: Director Of National Intelligence Dan Coats Resigns
+  url: https://www.npr.org/2019/07/28/746089806/director-of-national-intelligence-dan-coats-resigns
+  date: '2019-07-28'
+  tier: 1
+  outlet: NPR
+- title: Intelligence Director Coats to resign next month, Trump says
+  url: https://www.washingtonpost.com/world/national-security/intelligence-director-coats-expected-to-resign/2019/07/28/34e361e2-b16b-11e9-8e94-71a35969e4d8_story.html
+  date: '2019-07-28'
+  tier: 1
+  outlet: The Washington Post
+- title: Dan Coats Spoke Truth to Trump. Now He's Out
+  url: https://www.govexec.com/defense/2019/07/dan-coats-spoke-truth-trump-now-hes-out/158762/
+  date: '2019-07-29'
+  tier: 1
+  outlet: Government Executive
+- title: Testimony by intelligence chiefs on global threats highlights differences with president
+  url: https://www.washingtonpost.com/world/national-security/intelligence-officials-will-name-biggest-threats-facing-us-during-senate-hearing/2019/01/28/f08dc5cc-2340-11e9-ad53-824486280311_story.html
+  date: '2019-01-29'
+  tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

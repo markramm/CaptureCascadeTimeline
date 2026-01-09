@@ -2,8 +2,7 @@
 id: 2025-02-05--us-sovereign-wealth-fund-could-stockpile-bitcoin-trump-s-cry
 date: '2025-02-05'
 title: US sovereign wealth fund could stockpile Bitcoin, Trump's crypto czar says
-description: The new US sovereign wealth fund may stockpile Bitcoin, according to
-  Trump's Crypto Czar and billionaire David Sacks
+description: The new US sovereign wealth fund may stockpile Bitcoin, according to Trump's Crypto Czar and billionaire David Sacks
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -19,8 +18,7 @@ sources:
   url: https://news.bitcoin.com/us-sovereign-wealth-fund-could-stockpile-bitcoin-trumps-crypto-czar-says/
   outlet: Bitcoin
   date: '2025-02-05'
-- title: Trump's crypto czar floats bitcoin reserve as White House pushes sovereign
-    wealth fund
+- title: Trump's crypto czar floats bitcoin reserve as White House pushes sovereign wealth fund
   url: https://www.theblock.co/post/338761/bitcoin-could-be-part-of-us-sovereign-wealth-fund-plan-says-trumps-crypto-czar
   outlet: The Block
   date: '2025-02-05'
@@ -34,7 +32,7 @@ sources:
   date: '2025-02-04'
 - title: How Trump's Sovereign Wealth Fund Is Bullish for Bitcoin
   url: https://www.nasdaq.com/articles/how-trumps-sovereign-wealth-fund-bullish-bitcoin
-  outlet: Nasdaq
+  outlet: NASDAQ
   date: '2025-02-05'
 connections: []
 patterns:

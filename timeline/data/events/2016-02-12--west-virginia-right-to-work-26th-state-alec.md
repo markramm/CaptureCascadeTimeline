@@ -1,7 +1,7 @@
 ---
 id: 2016-02-12--west-virginia-right-to-work-26th-state-alec
 date: '2016-02-12'
-title: 'West Virginia Becomes 26th Right-to-Work State, Overriding Governor Veto with ALEC Model'
+title: West Virginia Becomes 26th Right-to-Work State, Overriding Governor Veto with ALEC Model
 importance: 8
 actors:
 - West Virginia Legislature
@@ -13,25 +13,25 @@ actors:
 tags:
 - labor-suppression
 - right-to-work
-- ALEC
-- West-Virginia
+- alec
+- west-virginia
 - union-busting
 - state-capture
-- Koch-network
+- koch-network
 sources:
-- title: 'West Virginia Becomes the 26th Right-to-Work State'
+- title: West Virginia Becomes the 26th Right-to-Work State
   url: https://alec.org/article/west-virginia-becomes-the-26th-right-to-work-state/
   outlet: American Legislative Exchange Council
   date: '2016-02-12'
   verified: true
   tier: 2
-- title: 'West Virginia Becomes the 26th Right-to-Work State'
+- title: West Virginia Becomes the 26th Right-to-Work State
   url: https://www.huntonlaborblog.com/2016/03/articles/employment-policies/west-virginia-becomes-the-26th-right-to-work-state/
   outlet: Hunton Labor Blog
   date: '2016-03-01'
   verified: true
   tier: 2
-- title: 'Right to Work - SourceWatch'
+- title: Right to Work - SourceWatch
   url: https://www.sourcewatch.org/index.php?title=Right_to_Work
   outlet: SourceWatch
   date: '2024-01-01'

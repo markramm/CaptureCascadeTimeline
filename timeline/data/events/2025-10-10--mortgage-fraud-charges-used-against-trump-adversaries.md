@@ -1,8 +1,7 @@
 ---
 id: 2025-10-10--mortgage-fraud-charges-used-against-trump-adversaries
 date: '2025-10-10'
-title: Trump Administration Systematically Uses Mortgage Fraud Charges Against Political
-  Adversaries
+title: Trump Administration Systematically Uses Mortgage Fraud Charges Against Political Adversaries
 importance: 9
 actors:
 - Letitia James
@@ -14,9 +13,9 @@ actors:
 sources:
 - title: Trump Administration Uses Mortgage Fraud to Target Adversaries
   url: https://www.nytimes.com/2025/10/10/us/politics/trump-mortgage-fraud-political-enemies.html
-  publisher: New York Times
   date: '2025-10-10'
   tier: 1
+  outlet: The New York Times
 tags:
 - political-prosecution
 - systematic-corruption

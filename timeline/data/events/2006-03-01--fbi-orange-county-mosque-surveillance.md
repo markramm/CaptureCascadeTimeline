@@ -4,32 +4,32 @@ date: 2006-03-01
 title: FBI Infiltrates Orange County Mosques with Informant in Dragnet Surveillance
 importance: 8
 actors:
-  - FBI
-  - Craig Monteilh
-  - Muslim community
-  - Department of Justice
+- FBI
+- Craig Monteilh
+- Muslim community
+- Department of Justice
 tags:
-  - fbi-abuse
-  - surveillance
-  - religious-profiling
-  - civil-liberties
-  - informants
+- fbi-abuse
+- surveillance
+- religious-profiling
+- civil-liberties
+- informants
 sources:
-  - url: https://www.aclu.org/news/national-security/how-the-fbi-spied-on-orange-county-muslims-and-attempted-to-get-away-with-it
-    title: How the FBI Spied on Orange County Muslims
-    publisher: ACLU
-    date: 2011-02-22
-    tier: 1
-  - url: https://theintercept.com/2021/09/12/fbi-informant-surveillance-muslims-supreme-court-911/
-    title: FBI Informant's Role in Upcoming SCOTUS Case
-    publisher: The Intercept
-    date: 2021-09-12
-    tier: 1
-  - url: https://www.aljazeera.com/opinions/2021/9/11/the-war-on-terror-and-the-disciplining-of-american-muslims
-    title: The War on Terror and the Disciplining of American Muslims
-    publisher: Al Jazeera
-    date: 2021-09-11
-    tier: 1
+- url: https://www.aclu.org/news/national-security/how-the-fbi-spied-on-orange-county-muslims-and-attempted-to-get-away-with-it
+  title: How the FBI Spied on Orange County Muslims
+  date: 2011-02-22
+  tier: 1
+  outlet: ACLU
+- url: https://theintercept.com/2021/09/12/fbi-informant-surveillance-muslims-supreme-court-911/
+  title: FBI Informant's Role in Upcoming SCOTUS Case
+  date: 2021-09-12
+  tier: 1
+  outlet: The Intercept
+- url: https://www.aljazeera.com/opinions/2021/9/11/the-war-on-terror-and-the-disciplining-of-american-muslims
+  title: The War on Terror and the Disciplining of American Muslims
+  date: 2021-09-11
+  tier: 1
+  outlet: Al Jazeera
 ---
 
 The FBI ordered informant Craig Monteilh to infiltrate multiple large mosques in Orange County, California, in a dragnet surveillance operation that targeted entire Muslim communities rather than specific suspects. The operation exemplified the FBI's post-9/11 practice of religious profiling and mass surveillance of Muslim Americans.

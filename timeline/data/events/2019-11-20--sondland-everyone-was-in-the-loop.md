@@ -4,34 +4,34 @@ date: 2019-11-20
 title: Sondland Testifies - "Was There a Quid Pro Quo? The Answer Is Yes. Everyone Was in the Loop."
 importance: 10
 tags:
-  - First Impeachment
-  - Ukraine
-  - Quid Pro Quo
-  - State Department
-  - Abuse of Power
+- first impeachment
+- ukraine
+- quid pro quo
+- state department
+- abuse of power
 actors:
-  - Gordon Sondland
-  - Mike Pompeo
-  - Mike Pence
-  - Mick Mulvaney
-  - John Bolton
-  - Donald Trump
+- Gordon Sondland
+- Mike Pompeo
+- Mike Pence
+- Mick Mulvaney
+- John Bolton
+- Donald Trump
 sources:
-  - url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=806
-    title: "Impeachment Inquiry: Ambassador Gordon Sondland Public Testimony Transcript"
-    publisher: House Intelligence Committee
-    date: 2019-11-20
-    tier: 1
-  - url: https://www.npr.org/2019/11/20/781042006/read-sondlands-opening-statement-saying-top-officials-knew-of-ukraine-quid-pro-
-    title: "Read Sondland's Opening Statement Saying Top Officials Knew Of Ukraine Quid Pro Quo"
-    publisher: NPR
-    date: 2019-11-20
-    tier: 1
-  - url: https://www.c-span.org/video/?466379-1/impeachment-hearing-eu-ambassador-gordon-sondland-testifies
-    title: Impeachment Hearing - EU Ambassador Gordon Sondland Public Testimony
-    publisher: C-SPAN
-    date: 2019-11-20
-    tier: 1
+- url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=806
+  title: 'Impeachment Inquiry: Ambassador Gordon Sondland Public Testimony Transcript'
+  date: 2019-11-20
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://www.npr.org/2019/11/20/781042006/read-sondlands-opening-statement-saying-top-officials-knew-of-ukraine-quid-pro-
+  title: Read Sondland's Opening Statement Saying Top Officials Knew Of Ukraine Quid Pro Quo
+  date: 2019-11-20
+  tier: 1
+  outlet: NPR
+- url: https://www.c-span.org/video/?466379-1/impeachment-hearing-eu-ambassador-gordon-sondland-testifies
+  title: Impeachment Hearing - EU Ambassador Gordon Sondland Public Testimony
+  date: 2019-11-20
+  tier: 1
+  outlet: C-SPAN
 ---
 
 EU Ambassador Gordon Sondland delivered blockbuster testimony on November 20, 2019, explicitly confirming the quid pro quo at the heart of Trump's first impeachment and implicating the highest levels of the administration. In opening remarks that devastated Trump's defense, Sondland declared: "Was there a quid pro quo? As I testified previously, with regard to the requested White House call and the White House meeting, the answer is yes." He went further, stating that "everyone was in the loop"—including Secretary of State Mike Pompeo, Vice President Mike Pence, acting Chief of Staff Mick Mulvaney, and former National Security Advisor John Bolton. Sondland testified that he worked on Ukraine matters "at the express direction of the President of the United States" through Rudy Giuliani.

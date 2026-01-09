@@ -3,16 +3,6 @@ id: 2003-05-01--palantir-technologies-founded-thiel-karp
 date: '2003-05-01'
 title: Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
 importance: 8
-tags:
-- palantir
-- peter-thiel
-- alex-karp
-- surveillance-infrastructure
-- founding
-- TIA
-- CIA
-- In-Q-Tel
-- mass-surveillance
 actors:
 - Peter Thiel
 - Alex Karp
@@ -22,20 +12,30 @@ actors:
 - John Poindexter
 - In-Q-Tel
 - CIA
+tags:
+- palantir
+- peter-thiel
+- alex-karp
+- surveillance-infrastructure
+- founding
+- tia
+- cia
+- in-q-tel
+- mass-surveillance
 sources:
-- url: https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/
-  title: How Peter Thiel's Palantir Helped the NSA Spy on the Whole World
-  publisher: The Intercept
+- title: How Peter Thiel's Palantir Helped the NSA Spy on the Whole World
+  url: https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/
+  outlet: The Intercept
   date: '2017-02-22'
   tier: 1
-- url: https://en.wikipedia.org/wiki/Palantir_Technologies
-  title: Palantir Technologies
-  publisher: Wikipedia
+- title: Palantir Technologies
+  url: https://en.wikipedia.org/wiki/Palantir_Technologies
+  outlet: Wikipedia
   date: '2024-01-15'
   tier: 2
-- url: https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/
-  title: How Your Tax Dollars Built Palantir's Global Surveillance Empire
-  publisher: Technocracy News
+- title: How Your Tax Dollars Built Palantir's Global Surveillance Empire
+  url: https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/
+  outlet: Technocracy News
   date: '2023-08-15'
   tier: 2
 ---

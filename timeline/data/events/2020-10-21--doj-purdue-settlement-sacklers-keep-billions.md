@@ -4,38 +4,38 @@ title: DOJ Purdue Settlement Allows Sacklers to Keep Billions in Extracted Wealt
 date: '2020-10-21'
 importance: 9
 actors:
-  - U.S. Department of Justice
-  - Purdue Pharma
-  - Sackler Family
-  - Richard Sackler
-  - David Sackler
-  - Mortimer D.A. Sackler
-  - Kathe Sackler
-  - Jonathan Sackler
-  - William Tong
+- U.S. Department of Justice
+- Purdue Pharma
+- Sackler Family
+- Richard Sackler
+- David Sackler
+- Mortimer D.A. Sackler
+- Kathe Sackler
+- Jonathan Sackler
+- William Tong
 tags:
-  - opioid-crisis
-  - corporate-crime
-  - accountability-failure
-  - deferred-prosecution
-  - wealth-extraction
+- opioid-crisis
+- corporate-crime
+- accountability-failure
+- deferred-prosecution
+- wealth-extraction
 status: confirmed
 sources:
-  - title: Justice Department Announces Global Resolution of Criminal and Civil Investigations with Opioid Manufacturer Purdue Pharma
-    url: https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid
-    publisher: U.S. Department of Justice
-    date: '2020-10-21'
-    tier: 1
-  - title: Lawmakers urge DOJ to revise $8.3 billion settlement with Purdue
-    url: https://www.statnews.com/pharmalot/2020/11/11/purdue-pharma-justice-department-settlement-lawmakers/
-    publisher: STAT News
-    date: '2020-11-11'
-    tier: 1
-  - title: Purdue Pharma Billion Dollar Settlement in Opioid Crisis – Sacklers Go Free
-    url: https://apicciano.commons.gc.cuny.edu/2020/10/22/purdue-pharma-billion-dollar-settlement-in-opioid-crisis-sacklers-go-free/
-    publisher: CUNY Academic Works
-    date: '2020-10-22'
-    tier: 2
+- title: Justice Department Announces Global Resolution of Criminal and Civil Investigations with Opioid Manufacturer Purdue Pharma
+  url: https://www.justice.gov/archives/opa/pr/justice-department-announces-global-resolution-criminal-and-civil-investigations-opioid
+  date: '2020-10-21'
+  tier: 1
+  outlet: U.S. Department of Justice
+- title: Lawmakers urge DOJ to revise $8.3 billion settlement with Purdue
+  url: https://www.statnews.com/pharmalot/2020/11/11/purdue-pharma-justice-department-settlement-lawmakers/
+  date: '2020-11-11'
+  tier: 1
+  outlet: STAT News
+- title: Purdue Pharma Billion Dollar Settlement in Opioid Crisis – Sacklers Go Free
+  url: https://apicciano.commons.gc.cuny.edu/2020/10/22/purdue-pharma-billion-dollar-settlement-in-opioid-crisis-sacklers-go-free/
+  date: '2020-10-22'
+  tier: 2
+  outlet: CUNY Academic Works
 ---
 
 On October 21, 2020, the Department of Justice announced a settlement totaling more than $8 billion with Purdue Pharma—touted as the largest penalties ever levied against a pharmaceutical manufacturer—yet the settlement allowed the Sackler family to keep the vast majority of billions extracted from the company. Individual Sacklers agreed to pay only $225 million while retaining an estimated $11-13 billion in wealth extracted before bankruptcy.

@@ -10,9 +10,9 @@ actors:
 sources:
 - title: Key Trump Nominee Accused of Sexual Harassment
   url: https://www.politico.com/news/2025/10/09/paul-ingrassia-sexual-harassment-allegations-00308429
-  publisher: Politico
   date: '2025-10-09'
   tier: 1
+  outlet: Politico
 tags:
 - institutional-capture
 - workplace-harassment

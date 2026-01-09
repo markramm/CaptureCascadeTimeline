@@ -4,40 +4,40 @@ date: '2022-12-06'
 title: Trump Organization Convicted on All 17 Criminal Counts in Tax Fraud Trial
 importance: 9
 tags:
-  - Tax Fraud
-  - Trump Organization
-  - Criminal Conviction
-  - Manhattan DA
-  - Corporate Crime
+- tax fraud
+- trump organization
+- criminal conviction
+- manhattan da
+- corporate crime
 actors:
-  - Trump Organization
-  - Trump Corporation
-  - Trump Payroll Corporation
-  - Alvin Bragg
-  - Manhattan District Attorney
-  - Donald Trump
-  - Allen Weisselberg
+- Trump Organization
+- Trump Corporation
+- Trump Payroll Corporation
+- Alvin Bragg
+- Manhattan District Attorney
+- Donald Trump
+- Allen Weisselberg
 sources:
-  - url: https://www.npr.org/2022/12/06/1140756394/former-president-donald-trumps-company-found-guilty-criminal-tax-fraud
-    title: Trump Organization found guilty of criminal tax fraud scheme
-    publisher: NPR
-    date: '2022-12-06'
-    tier: 1
-  - url: https://www.cnbc.com/2022/12/06/trump-organization-convicted-in-new-york-criminal-tax-fraud-case.html
-    title: Trump Organization convicted in criminal tax fraud case
-    publisher: CNBC
-    date: '2022-12-06'
-    tier: 1
-  - url: https://www.cbsnews.com/news/trump-organization-trial-verdict-tax-fraud-charges/
-    title: Trump Organization found guilty on all charges in tax fraud trial
-    publisher: CBS News
-    date: '2022-12-06'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/donald-trump/trump-organization-faces-sentencing-tax-fraud-scheme-rcna65013
-    title: Trump Organization fined $1.6 million for tax fraud scheme
-    publisher: NBC News
-    date: '2023-01-13'
-    tier: 1
+- url: https://www.npr.org/2022/12/06/1140756394/former-president-donald-trumps-company-found-guilty-criminal-tax-fraud
+  title: Trump Organization found guilty of criminal tax fraud scheme
+  date: '2022-12-06'
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2022/12/06/trump-organization-convicted-in-new-york-criminal-tax-fraud-case.html
+  title: Trump Organization convicted in criminal tax fraud case
+  date: '2022-12-06'
+  tier: 1
+  outlet: CNBC
+- url: https://www.cbsnews.com/news/trump-organization-trial-verdict-tax-fraud-charges/
+  title: Trump Organization found guilty on all charges in tax fraud trial
+  date: '2022-12-06'
+  tier: 1
+  outlet: CBS News
+- url: https://www.nbcnews.com/politics/donald-trump/trump-organization-faces-sentencing-tax-fraud-scheme-rcna65013
+  title: Trump Organization fined $1.6 million for tax fraud scheme
+  date: '2023-01-13'
+  tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

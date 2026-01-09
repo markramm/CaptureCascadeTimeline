@@ -16,19 +16,19 @@ actors:
 sources:
 - url: https://www.c4isrnet.com/unmanned/2023/04/26/ukraine-launches-brave1-tech-cluster-to-boost-military-capability/
   title: Ukraine launches 'BRAVE1' tech cluster to boost military capability
-  publisher: C4ISRNET
   date: '2023-04-26'
   tier: 2
+  outlet: C4ISRNET
 - url: https://www.kmu.gov.ua/en/news/v-ukraini-zapustyly-defense-tech-cluster-brave1-iakyi-stymuliuvatyme-rozvytok-viiskovykh-innovatsii-ta-oboronnykh-tekhnolohii
   title: Ukraine launches BRAVE1 defence tech cluster to stimulate development of military innovations and defence technologies
-  publisher: Cabinet of Ministers of Ukraine
   date: '2023-04-26'
   tier: 1
+  outlet: Cabinet of Ministers of Ukraine
 - url: https://www.csis.org/analysis/understanding-military-ai-ecosystem-ukraine
   title: Understanding the Military AI Ecosystem of Ukraine
-  publisher: Center for Strategic and International Studies
   date: '2024-01-15'
   tier: 1
+  outlet: Center for Strategic and International Studies
 ---
 
 On April 26, 2023, the Ukrainian government launched Brave1, a state-backed coordination platform designed to accelerate development of dual-use military and surveillance technologies. Founded by a coalition including the Ministry of Digital Transformation, Ministry of Defence, General Staff of the Armed Forces, National Security and Defense Council, Ministry of Strategic Industries, and Ministry of Economy, Brave1 received initial funding of 100 million hryvnias (approximately $2.7 million). The platform explicitly prioritized "scalable, interoperable tools, including AI-driven surveillance systems, cyber defense technologies, and semi-autonomous drones designed for contested environments."

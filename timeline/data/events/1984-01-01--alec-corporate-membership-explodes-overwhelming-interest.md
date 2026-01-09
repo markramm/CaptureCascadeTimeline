@@ -24,19 +24,19 @@ tags:
 sources:
 - title: American Legislative Exchange Council
   url: https://www.sourcewatch.org/index.php/American_Legislative_Exchange_Council
-  publisher: SourceWatch (Center for Media and Democracy)
   date: '2024-01-01'
   tier: 2
-- title: "Shilling for Profit: A Case Study of ALEC's Campaign Against Divestment from Apartheid South Africa"
+  outlet: SourceWatch (Center for Media and Democracy)
+- title: 'Shilling for Profit: A Case Study of ALEC''s Campaign Against Divestment from Apartheid South Africa'
   url: https://www.prwatch.org/news/2013/12/12338/shilling-profit-case-study-alecs-campaign-against-divestment-apartheid-south
-  publisher: PR Watch (Center for Media and Democracy)
   date: '2013-12-16'
   tier: 2
-- title: 'After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever'
+  outlet: PR Watch (Center for Media and Democracy)
+- title: After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever
   url: https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/
-  publisher: The American Prospect
   date: '2023-10-04'
   tier: 2
+  outlet: The American Prospect
 status: confirmed
 capture_lanes:
 - Financial Capture

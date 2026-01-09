@@ -1,8 +1,7 @@
 ---
 id: 2025-09-10--trump-threatens-to-sue-new-york-times-over-epstein-drawing-reporting
 date: '2025-09-10'
-title: Trump Threatens to Sue New York Times Over Reporting on Epstein Drawing Signed
-  by Him
+title: Trump Threatens to Sue New York Times Over Reporting on Epstein Drawing Signed by Him
 importance: 7
 tags:
 - press-intimidation
@@ -12,14 +11,14 @@ tags:
 sources:
 - url: https://www.nytimes.com/2025/09/10/us/politics/trump-threatens-lawsuit-epstein-drawing.html
   title: Trump Threatens Legal Action Over Epstein Drawing Reporting
-  publisher: New York Times
   date: '2025-09-10'
   tier: 1
+  outlet: The New York Times
 - url: https://abcnews.go.com/Politics/james-comer-blocks-handwriting-analysis-trump-epstein-signature/story?id=125220089
   title: House Chair Blocks Handwriting Analysis of Trump Signature
-  publisher: ABC News
   date: '2025-09-10'
   tier: 1
+  outlet: ABC News
 actors:
 - Donald Trump
 - New York Times

@@ -15,9 +15,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/21/us/politics/trump-inspector-general-firing.html
   title: Trump Fires Another Inspector General
-  publisher: New York Times
   date: '2025-10-21'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

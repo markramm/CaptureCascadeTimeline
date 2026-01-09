@@ -9,17 +9,16 @@ actors:
 - EchoStar
 - Gwynne Shotwell
 sources:
-- title: SpaceX strikes $17B deal to buy EchoStar's spectrum for Starlink's direct-to-phone
-    service
+- title: SpaceX strikes $17B deal to buy EchoStar's spectrum for Starlink's direct-to-phone service
   url: https://techcrunch.com/2025/09/08/spacex-strikes-17b-deal-to-buy-echostars-spectrum-for-starlinks-direct-to-phone-service/
-  publisher: TechCrunch
   date: '2025-09-08'
   tier: 2
+  outlet: TechCrunch
 - title: Starlink set to hit $11.8 billion revenue in 2025, boosted by military contracts
   url: https://spacenews.com/starlink-set-to-hit-11-8-billion-revenue-in-2025-boosted-by-military-contracts/
-  publisher: SpaceNews
   date: '2025'
   tier: 2
+  outlet: SpaceNews
 tags:
 - spacex
 - starlink

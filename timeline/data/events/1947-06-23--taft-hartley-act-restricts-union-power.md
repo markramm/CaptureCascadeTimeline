@@ -1,7 +1,7 @@
 ---
 id: 1947-06-23--taft-hartley-act-restricts-union-power
 date: '1947-06-23'
-title: 'Taft-Hartley Act Severely Restricts Union Power, Enables State Right-to-Work Laws'
+title: Taft-Hartley Act Severely Restricts Union Power, Enables State Right-to-Work Laws
 importance: 9
 actors:
 - Robert Taft
@@ -14,23 +14,23 @@ tags:
 - labor-suppression
 - union-busting
 - right-to-work
-- Taft-Hartley
+- taft-hartley
 - labor-law
-- Congressional-action
+- congressional-action
 sources:
-- title: '1947 Taft-Hartley Substantive Provisions'
+- title: 1947 Taft-Hartley Substantive Provisions
   url: https://www.nlrb.gov/about-nlrb/who-we-are/our-history/1947-taft-hartley-substantive-provisions
   outlet: National Labor Relations Board
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'Taft-Hartley Act Wikipedia'
+- title: Taft-Hartley Act Wikipedia
   url: https://en.wikipedia.org/wiki/Taft–Hartley_Act
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Labor Management Relations Act of 1947 (Taft-Hartley Act)'
+- title: Labor Management Relations Act of 1947 (Taft-Hartley Act)
   url: https://www.influencewatch.org/legislation/labor-management-relations-act-of-1947-taft-hartley-act/
   outlet: InfluenceWatch
   date: '2024-01-01'

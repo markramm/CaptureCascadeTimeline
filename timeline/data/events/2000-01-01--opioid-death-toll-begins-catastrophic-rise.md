@@ -4,34 +4,34 @@ title: Opioid Epidemic Death Toll Reaches 500,000 Americans Between 2000-2020
 date: '2000-01-01'
 importance: 10
 actors:
-  - Purdue Pharma
-  - Sackler Family
-  - FDA
-  - DEA
-  - Pharmaceutical Industry
+- Purdue Pharma
+- Sackler Family
+- FDA
+- DEA
+- Pharmaceutical Industry
 tags:
-  - opioid-crisis
-  - public-health-catastrophe
-  - mass-death
-  - regulatory-failure
-  - accountability-failure
+- opioid-crisis
+- public-health-catastrophe
+- mass-death
+- regulatory-failure
+- accountability-failure
 status: confirmed
 sources:
-  - title: Opioid epidemic in the United States
-    url: https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States
-    publisher: Wikipedia (citing CDC data)
-    date: '2024-01-01'
-    tier: 2
-  - title: The Opioid Crisis and Recent Federal Policy Responses
-    url: https://www.cbo.gov/publication/58532
-    publisher: Congressional Budget Office
-    date: '2022-07-01'
-    tier: 1
-  - title: Overdoses have killed a million Americans since the start of the opioid epidemic
-    url: https://www.npr.org/2021/12/30/1069062738/more-than-a-million-americans-have-died-from-overdoses-during-the-opioid-epidemi
-    publisher: NPR
-    date: '2021-12-30'
-    tier: 1
+- title: Opioid epidemic in the United States
+  url: https://en.wikipedia.org/wiki/Opioid_epidemic_in_the_United_States
+  date: '2024-01-01'
+  tier: 2
+  outlet: Wikipedia (citing CDC data)
+- title: The Opioid Crisis and Recent Federal Policy Responses
+  url: https://www.cbo.gov/publication/58532
+  date: '2022-07-01'
+  tier: 1
+  outlet: Congressional Budget Office
+- title: Overdoses have killed a million Americans since the start of the opioid epidemic
+  url: https://www.npr.org/2021/12/30/1069062738/more-than-a-million-americans-have-died-from-overdoses-during-the-opioid-epidemi
+  date: '2021-12-30'
+  tier: 1
+  outlet: NPR
 ---
 
 Between 2000 and 2020, approximately 500,000 Americans died from opioid-involved overdoses, representing one of the most devastating preventable public health catastrophes in American history. The death toll resulted from a combination of aggressive pharmaceutical marketing, regulatory capture, and systematic failure to hold corporate executives criminally accountable despite guilty pleas and documented evidence of fraud.

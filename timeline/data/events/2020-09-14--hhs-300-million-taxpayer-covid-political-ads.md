@@ -4,41 +4,41 @@ date: 2020-09-14
 title: HHS Spends $300 Million in Taxpayer Funds on "Defeating Despair" COVID Ad Campaign Timed to Promote Trump Before Election
 importance: 9
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Abuse of Office
-  - Campaign Finance
-  - COVID-19
-  - HHS
-  - Trump Administration
-  - Michael Caputo
+- hatch act
+- ethics violations
+- abuse of office
+- campaign finance
+- covid-19
+- hhs
+- trump administration
+- michael caputo
 actors:
-  - Michael Caputo
-  - Donald Trump
-  - Dennis Quaid
-  - CeCe Winans
-  - Alex Azar
+- Michael Caputo
+- Donald Trump
+- Dennis Quaid
+- CeCe Winans
+- Alex Azar
 sources:
-  - url: https://www.coronaviruswarroom.org/statement-trump-appointee-reappropriated-300m-in-tax-payer-funded-dollars-for-coronavirus-propaganda-campaign/
-    title: Trump-Appointee Reappropriated $300M in Tax-Payer Funded Dollars for Coronavirus Propaganda Campaign
-    publisher: Coronavirus War Room
-    date: 2020-09-14
-    tier: 2
-  - url: https://kffhealthnews.org/morning-breakout/hhs-reallocates-300m-from-cdc-for-ad-campaign-celebs-defend-involvement/
-    title: HHS Reallocates $300M From CDC For Ad Campaign; Celebs Defend Involvement
-    publisher: KFF Health News
-    date: 2020-09-22
-    tier: 1
-  - url: https://deadline.com/2020/09/dennis-quaid-cece-winans-white-house-covid-ad-campaign-1234585819/
-    title: Dennis Quaid To Appear In $300M White House COVID Ad Campaign
-    publisher: Deadline
-    date: 2020-09-22
-    tier: 1
-  - url: https://thehill.com/homenews/news/526461-hhs-scraps-celebrity-covid-19-ad-campaign-aimed-at-defeating-despair/
-    title: HHS scraps celebrity COVID-19 ad campaign aimed at 'defeating despair'
-    publisher: The Hill
-    date: 2020-11-20
-    tier: 1
+- url: https://www.coronaviruswarroom.org/statement-trump-appointee-reappropriated-300m-in-tax-payer-funded-dollars-for-coronavirus-propaganda-campaign/
+  title: Trump-Appointee Reappropriated $300M in Tax-Payer Funded Dollars for Coronavirus Propaganda Campaign
+  date: 2020-09-14
+  tier: 2
+  outlet: Coronavirus War Room
+- url: https://kffhealthnews.org/morning-breakout/hhs-reallocates-300m-from-cdc-for-ad-campaign-celebs-defend-involvement/
+  title: HHS Reallocates $300M From CDC For Ad Campaign; Celebs Defend Involvement
+  date: 2020-09-22
+  tier: 1
+  outlet: KFF Health News
+- url: https://deadline.com/2020/09/dennis-quaid-cece-winans-white-house-covid-ad-campaign-1234585819/
+  title: Dennis Quaid To Appear In $300M White House COVID Ad Campaign
+  date: 2020-09-22
+  tier: 1
+  outlet: Deadline
+- url: https://thehill.com/homenews/news/526461-hhs-scraps-celebrity-covid-19-ad-campaign-aimed-at-defeating-despair/
+  title: HHS scraps celebrity COVID-19 ad campaign aimed at 'defeating despair'
+  date: 2020-11-20
+  tier: 1
+  outlet: The Hill
 ---
 
 The Department of Health and Human Services launched a $300 million advertising campaign called "Defeating Despair" to promote the Trump administration's COVID-19 response, with the effort conceived by political appointee Michael Caputo and timed to air before the November election. Caputo abruptly requisitioned the funds from the Centers for Disease Control budget and pursued celebrities including actor Dennis Quaid and singer CeCe Winans, with contractors vetting at least 274 potential celebrity contributors for their political views on issues including the 2016 election before allowing participation.

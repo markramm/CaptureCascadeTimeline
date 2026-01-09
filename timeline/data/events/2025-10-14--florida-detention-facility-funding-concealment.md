@@ -1,8 +1,7 @@
 ---
 id: 2025-10-14--florida-detention-facility-funding-concealment
 date: '2025-10-14'
-title: Florida Officials Concealed $608 Million Federal Funding for Immigration Detention
-  Facility
+title: Florida Officials Concealed $608 Million Federal Funding for Immigration Detention Facility
 importance: 8
 tags:
 - corruption
@@ -17,9 +16,9 @@ actors:
 sources:
 - url: https://apnews.com/article/florida-immigration-detention-facility-funding-concealment
   title: Officials Hide $608M Federal Funding Request for Alligator Alcatraz
-  publisher: Associated Press
   date: '2025-10-14'
   tier: 1
+  outlet: Associated Press
 status: confirmed
 ---
 

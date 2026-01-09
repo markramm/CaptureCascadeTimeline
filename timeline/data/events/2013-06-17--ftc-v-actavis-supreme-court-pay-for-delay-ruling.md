@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.ftc.gov/news-events/news/press-releases/2009/06/ftc-chairman-leibowitz-eliminating-pay-delay-pharmaceutical-settlements-would-save-consumers-35
   title: FTC Chairman Leibowitz - Eliminating Pay-for-Delay Pharmaceutical Settlements Would Save Consumers $3.5 Billion Annually
-  publisher: Federal Trade Commission
   date: '2009-06-23'
   tier: 1
+  outlet: Federal Trade Commission
 - url: https://www.ftc.gov/legal-library/browse/cases-proceedings/071-0060-watson-pharmaceuticals-inc-et-al-ftc-v-actavis
   title: Watson Pharmaceuticals, Inc., et al. (FTC v. Actavis)
-  publisher: Federal Trade Commission
   date: '2013-06-17'
   tier: 1
+  outlet: Federal Trade Commission
 - url: https://supreme.justia.com/cases/federal/us/570/136/
   title: FTC v. Actavis, Inc. | 570 U.S. 136 (2013)
-  publisher: Supreme Court of the United States
   date: '2013-06-17'
   tier: 1
+  outlet: Supreme Court of the United States
 - url: https://www.ftc.gov/news-events/topics/competition-enforcement/pay-delay
   title: Pay for Delay
-  publisher: Federal Trade Commission
   date: '2024-01-01'
   tier: 1
+  outlet: Federal Trade Commission
 actors:
 - Supreme Court of the United States
 - Federal Trade Commission

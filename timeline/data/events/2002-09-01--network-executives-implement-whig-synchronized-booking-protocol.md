@@ -10,11 +10,11 @@ actors:
 - Karen Hughes
 - Andrew Card
 sources:
-- outlet: Washington Post
+- outlet: The Washington Post
   title: Records Could Shed Light on Iraq Group
   url: https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html
   type: news_analysis
-- outlet: Washington Post
+- outlet: The Washington Post
   title: With CIA Push, Movement to War Accelerated
   url: https://www.washingtonpost.com/archive/politics/2004/04/19/with-cia-push-movement-to-war-accelerated/fdb9a48f-6ca3-4efb-8839-3bc8134e7423/
   type: investigative_reporting
@@ -27,9 +27,7 @@ sources:
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   type: research_compilation
 importance: 9
-significance: Demonstrated a systematic mechanism for coordinated propaganda dissemination
-  across major media platforms, eliminating diverse perspectives and independent analysis
-  through carefully choreographed messaging.
+significance: Demonstrated a systematic mechanism for coordinated propaganda dissemination across major media platforms, eliminating diverse perspectives and independent analysis through carefully choreographed messaging.
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion

@@ -4,38 +4,38 @@ date: '2020-12-01'
 title: DOJ Reveals Investigation into $2 Million Bribery-for-Pardon Scheme
 importance: 9
 actors:
-  - Donald Trump
-  - Elliott Broidy
-  - Lev Parnas
-  - Rudy Giuliani
+- Donald Trump
+- Elliott Broidy
+- Lev Parnas
+- Rudy Giuliani
 tags:
-  - Pardons
-  - Corruption
-  - Pay-to-Play
-  - Bribery
-  - DOJ
-  - Investigation
+- pardons
+- corruption
+- pay-to-play
+- bribery
+- doj
+- investigation
 sources:
-  - title: Unsealed court records reveal secret pardon bribery investigation
-    url: https://www.cnn.com/2020/12/01/politics/pardon-investigation-justice-department/index.html
-    publisher: CNN
-    date: '2020-12-01'
-    tier: 1
-  - title: Justice Dept. Examining Possible Pardon Bribery Scheme
-    url: https://www.nytimes.com/2020/12/01/us/politics/pardon-bribery-investigation.html
-    publisher: New York Times
-    date: '2020-12-01'
-    tier: 1
-  - title: Heavily redacted court filing reveals federal investigation into bribery scheme
-    url: https://www.reuters.com/article/idUSKBN28C00L/
-    publisher: Reuters
-    date: '2020-12-01'
-    tier: 1
-  - title: Court documents show federal pardon bribery probe
-    url: https://apnews.com/article/joe-biden-donald-trump-us-news-coronavirus-pandemic-4d1a7eea19f35229a5828c781c234ccc
-    publisher: Associated Press
-    date: '2020-12-01'
-    tier: 1
+- title: Unsealed court records reveal secret pardon bribery investigation
+  url: https://www.cnn.com/2020/12/01/politics/pardon-investigation-justice-department/index.html
+  date: '2020-12-01'
+  tier: 1
+  outlet: CNN
+- title: Justice Dept. Examining Possible Pardon Bribery Scheme
+  url: https://www.nytimes.com/2020/12/01/us/politics/pardon-bribery-investigation.html
+  date: '2020-12-01'
+  tier: 1
+  outlet: The New York Times
+- title: Heavily redacted court filing reveals federal investigation into bribery scheme
+  url: https://www.reuters.com/article/idUSKBN28C00L/
+  date: '2020-12-01'
+  tier: 1
+  outlet: Reuters
+- title: Court documents show federal pardon bribery probe
+  url: https://apnews.com/article/joe-biden-donald-trump-us-news-coronavirus-pandemic-4d1a7eea19f35229a5828c781c234ccc
+  date: '2020-12-01'
+  tier: 1
+  outlet: Associated Press
 status: confirmed
 ---
 

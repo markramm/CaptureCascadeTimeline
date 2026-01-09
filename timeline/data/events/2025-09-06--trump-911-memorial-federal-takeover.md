@@ -10,21 +10,20 @@ actors:
 - Port Authority of New York and New Jersey
 sources:
 - url: https://www.ems1.com/9-11/trump-administration-considers-federal-takeover-of-national-september-11-memorial-museum
-  title: Trump administration considers federal takeover of National September 11
-    Memorial & Museum
-  publisher: EMS1
+  title: Trump administration considers federal takeover of National September 11 Memorial & Museum
   date: '2025-09-06'
   tier: 2
+  outlet: EMS1
 - url: https://abc7ny.com/post/trump-looking-take-september-11-memorial-museum-report-says/17750902/
   title: Trump looking to take over September 11 Memorial and Museum, report says
-  publisher: ABC7 New York
   date: '2025-09-06'
   tier: 2
+  outlet: ABC7 New York
 - url: https://www.ocregister.com/2025/09/05/sept-11-museum-takeover/
   title: Trump seeking ways to take over 9/11 memorial in NYC
-  publisher: Orange County Register
   date: '2025-09-05'
   tier: 2
+  outlet: Orange County Register
 tags:
 - institutional-capture
 - abuse-of-power

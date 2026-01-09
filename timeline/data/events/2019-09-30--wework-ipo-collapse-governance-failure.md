@@ -1,0 +1,39 @@
+---
+id: 2019-09-30--wework-ipo-collapse-governance-failure
+date: '2019-09-30'
+title: WeWork Withdraws IPO After Valuation Collapses from $47 Billion to $10 Billion, Exposing Massive Corporate Governance Failure
+importance: 8
+actors:
+- Adam Neumann
+- WeWork
+- SEC
+- SoftBank
+- John White
+- New York Attorney General
+tags:
+- fraud
+- regulatory-capture
+- corporate-governance
+- sec
+- revolving-door
+- spac-era
+- self-dealing
+sources:
+- title: WeWork pulls IPO filing
+  url: https://www.cnbc.com/2019/09/30/wework-says-it-will-file-request-to-withdraw-its-ipo-prospectus-after-roadshow-management-turmoil.html
+  outlet: CNBC
+  date: '2019-09-30'
+  tier: 2
+- title: WeWork's Revolving-Door Games Called Into Question
+  url: https://prospect.org/power/wework-revolving-door-games-sec/
+  outlet: The American Prospect
+  date: '2019-11-01'
+  tier: 2
+- title: 'WeSuck: First Came the Hype; then Came Adam Neumann''s Self-Dealing'
+  url: https://wallstreetonparade.com/2023/11/wesuck-first-came-the-hype-then-came-adam-neumanns-self-dealing-then-came-the-ipo-scandal-now-comes-the-bankruptcy/
+  outlet: Wall Street on Parade
+  date: '2023-11-01'
+  tier: 2
+---
+
+WeWork formally withdraws its S-1 filing and postpones its IPO after investor scrutiny reveals catastrophic governance failures and self-dealing by CEO Adam Neumann. The company's valuation collapses from $47 billion (January 2019) to under $10 billion in months. The SEC investigation reveals Neumann purchased properties to lease back to WeWork, charged the company $6 million for trademark rights to the word 'We,' and cashed out over $700 million before the IPO. Critically, WeWork exploited regulatory gaps by hiring former SEC Division of Corporation Finance Director John White to navigate IPO review while using misleading 'community adjusted EBITDA' metrics that the SEC questioned but failed to halt. The collapse exposes how the revolving door between Wall Street and regulators enables self-dealing: two progressive organizations petition Congress to investigate WeWork's hiring of former SEC officials. Despite clear evidence of self-dealing and accounting manipulation, Neumann receives a $1 billion payout to resign while facing no criminal prosecution—what former Labor Secretary Robert Reich calls the blueprint for 'becoming a fabulously rich con artist.' The WeWork debacle reveals how SPAC-era governance allowed charismatic founders with super-voting rights to operate without meaningful board oversight, presaging the Nikola and other frauds that followed.

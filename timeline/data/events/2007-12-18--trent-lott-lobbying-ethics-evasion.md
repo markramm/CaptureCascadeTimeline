@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.opensecrets.org/revolving-door/trent-lott-r/summary?id=70566
   title: Trent Lott - Revolving Door Summary
-  publisher: OpenSecrets
   date: '2024-01-01'
   tier: 1
+  outlet: OpenSecrets
 - url: https://grist.org/article/who-built-senator-turned-dirty-energy-lobbyist-trent-lott-you-did/
   title: Who Built Senator-Turned-Dirty Energy Lobbyist Trent Lott? You Did
-  publisher: Grist
   date: '2008-01-08'
   tier: 2
+  outlet: Grist
 - url: https://www.cnn.com/2013/09/02/us/trent-lott-fast-facts/index.html
   title: Trent Lott Fast Facts
-  publisher: CNN
   date: '2013-09-02'
   tier: 2
+  outlet: CNN
 actors:
 - Trent Lott
 - John Breaux

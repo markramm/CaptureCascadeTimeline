@@ -1,37 +1,47 @@
 ---
-id: "2025-12-05--rfk-jr-cdc-panel-rolls-back-hepatitis-b-vaccine-recommendation"
-date: "2025-12-05"
-title: "RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation"
-summary: "The CDC's Advisory Committee on Immunization Practices, reconstituted with members handpicked by HHS Secretary Robert F. Kennedy Jr., voted 8-3 to end the universal recommendation that all newborns receive hepatitis B vaccine at birth. The vote overturns a 30-year policy credited with reducing newborn hepatitis B infections from 20,000 annually to fewer than 20. The new recommendation allows 'individual decision-making' for babies whose mothers test negative, with delays until at least 2 months old. Medical experts condemned the rollback as ignoring evidence that the birth dose prevents 95% of infections and warns it will lead to preventable lifelong disease and death."
+id: 2025-12-05--rfk-jr-cdc-panel-rolls-back-hepatitis-b-vaccine-recommendation
+date: '2025-12-05'
+title: RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation
+summary: The CDC's Advisory Committee on Immunization Practices, reconstituted with members handpicked by HHS Secretary Robert F. Kennedy Jr., voted 8-3 to end the universal recommendation that all newborns receive hepatitis B vaccine at birth. The vote overturns a 30-year policy credited with reducing newborn hepatitis B infections from 20,000 annually to fewer than 20. The new recommendation allows 'individual decision-making' for babies whose mothers test negative, with delays until at least 2 months old. Medical experts condemned the rollback as ignoring evidence that the birth dose prevents 95% of infections and warns it will lead to preventable lifelong disease and death.
 importance: 10
-tags: ["public-health", "vaccines", "science-denial", "children", "regulatory-capture"]
-actors: ["Robert F. Kennedy Jr.", "CDC", "ACIP", "Donald Trump", "Bill Cassidy"]
+tags:
+- public-health
+- vaccines
+- science-denial
+- children
+- regulatory-capture
+actors:
+- Robert F. Kennedy Jr.
+- CDC
+- ACIP
+- Donald Trump
+- Bill Cassidy
 sources:
-  - url: "https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting"
-    title: "CDC's ACIP changes recommendations for hepatitis B vaccination for infants"
-    publisher: "NPR"
-    date: "2025-12-05"
-    tier: 1
-  - url: "https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html"
-    title: "RFK Jr.'s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance"
-    publisher: "CNBC"
-    date: "2025-12-05"
-    tier: 2
-  - url: "https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482"
-    title: "CDC advisory panel rolls back hepatitis B vaccine guidelines: What you need to know"
-    publisher: "NBC News"
-    date: "2025-12-05"
-    tier: 1
-  - url: "https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/"
-    title: "RFK Jr.'s ACIP panel recommends delay in newborn hepatitis B vaccination"
-    publisher: "STAT News"
-    date: "2025-12-05"
-    tier: 1
-  - url: "https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/"
-    title: "CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns"
-    publisher: "CBS News"
-    date: "2025-12-05"
-    tier: 1
+- url: https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting
+  title: CDC's ACIP changes recommendations for hepatitis B vaccination for infants
+  date: '2025-12-05'
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2025/12/05/hepatitis-b-vaccine-babies-rfk-jr-cdc.html
+  title: RFK Jr.'s vaccine panel weakens recommendation on hepatitis B shot for babies, scrapping universal guidance
+  date: '2025-12-05'
+  tier: 2
+  outlet: CNBC
+- url: https://www.nbcnews.com/health/kids-health/cdc-panel-vote-hepatitis-b-vaccine-babies-rfk-jr-rcna247482
+  title: 'CDC advisory panel rolls back hepatitis B vaccine guidelines: What you need to know'
+  date: '2025-12-05'
+  tier: 1
+  outlet: NBC News
+- url: https://www.statnews.com/2025/12/05/cdc-hepatitis-b-vaccination-acip-panel-overturns-30-year-policy/
+  title: RFK Jr.'s ACIP panel recommends delay in newborn hepatitis B vaccination
+  date: '2025-12-05'
+  tier: 1
+  outlet: STAT News
+- url: https://www.cbsnews.com/news/cdc-acip-vaccine-panel-hepatitis-b-birth-dose/
+  title: CDC vaccine panel votes to stop recommending birth dose of hepatitis B vaccine for all newborns
+  date: '2025-12-05'
+  tier: 1
+  outlet: CBS News
 ---
 
 # RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation

@@ -4,42 +4,42 @@ date: '2025-03-12'
 title: EPA Administrator Lee Zeldin Eliminates Office of Environmental Justice and External Civil Rights
 importance: 9
 tags:
-- EPA
-- Environmental-Justice
-- Civil-Rights
-- Lee-Zeldin
-- Environmental-Racism
-- DEI-Elimination
-- Project-2025
-- Trump-Administration
-- Pollution
-- Communities-of-Color
+- epa
+- environmental-justice
+- civil-rights
+- lee-zeldin
+- environmental-racism
+- dei-elimination
+- project-2025
+- trump-administration
+- pollution
+- communities-of-color
 sources:
 - url: https://www.epa.gov/newsreleases/epa-terminates-bidens-environmental-justice-dei-arms-agency
   title: EPA Terminates Biden's Environmental Justice, DEI Arms of Agency
-  publisher: U.S. Environmental Protection Agency
   date: '2025-03-12'
   tier: 1
+  outlet: U.S. Environmental Protection Agency
 - url: https://www.cbsnews.com/news/epa-eliminating-environmental-justice-jobs-dei/
   title: EPA eliminating environmental justice jobs
-  publisher: CBS News
   date: '2025-03-12'
   tier: 1
+  outlet: CBS News
 - url: https://www.govexec.com/management/2025/03/epa-begins-eliminating-offices-doge-tightens-grip-nearly-all-agency-spending/403684/
   title: EPA begins eliminating offices as DOGE tightens grip on nearly all agency spending
-  publisher: Government Executive
   date: '2025-03-12'
   tier: 2
+  outlet: Government Executive
 - url: https://blog.nwf.org/2025/03/epas-decision-to-shutter-its-environmental-justice-and-civil-rights-office-puts-communities-at-risk/
   title: EPA's Decision to Shutter Its Environmental Justice and Civil Rights Office Puts Communities at Risk
-  publisher: National Wildlife Federation
   date: '2025-03-13'
   tier: 2
+  outlet: National Wildlife Federation
 - url: https://eelp.law.harvard.edu/tracker/epa-launched-new-office-of-environmental-justice-and-external-civil-rights-oejecr/
   title: EPA Eliminated Office of Environmental Justice and External Civil Rights (OEJECR) and EJ Regional Divisions
-  publisher: Harvard Law School Environmental & Energy Law Program
   date: '2025-03-12'
   tier: 1
+  outlet: Harvard Law School Environmental & Energy Law Program
 actors:
 - Lee Zeldin
 - EPA

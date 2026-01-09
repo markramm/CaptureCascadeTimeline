@@ -4,34 +4,34 @@ title: Bankruptcy Court Approves Sackler Immunity Deal Despite DOJ Opposition
 date: '2021-09-01'
 importance: 9
 actors:
-  - Robert Drain
-  - Sackler Family
-  - Purdue Pharma
-  - U.S. Department of Justice
-  - State Attorneys General
+- Robert Drain
+- Sackler Family
+- Purdue Pharma
+- U.S. Department of Justice
+- State Attorneys General
 tags:
-  - opioid-crisis
-  - bankruptcy-abuse
-  - judicial-failure
-  - accountability-failure
-  - corporate-impunity
+- opioid-crisis
+- bankruptcy-abuse
+- judicial-failure
+- accountability-failure
+- corporate-impunity
 status: confirmed
 sources:
-  - title: Purdue Pharma bankruptcy plan approved, resolving opioid claims and giving Sackler family civil immunity
-    url: https://www.washingtonpost.com/business/2021/09/01/purdue-pharma-bankruptcy-judge-ruling/
-    publisher: Washington Post
-    date: '2021-09-01'
-    tier: 2
-  - title: Sackler Family Wins Immunity From Opioid Lawsuits In Purdue Pharma Bankruptcy
-    url: https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic
-    publisher: NPR
-    date: '2021-09-01'
-    tier: 1
-  - title: Federal court grants Sackler family immunity from all future opioid lawsuits
-    url: https://www.jurist.org/news/2021/09/federal-court-grants-sackler-family-immunity-from-all-future-opioid-lawsuits/
-    publisher: JURIST Legal News
-    date: '2021-09-01'
-    tier: 2
+- title: Purdue Pharma bankruptcy plan approved, resolving opioid claims and giving Sackler family civil immunity
+  url: https://www.washingtonpost.com/business/2021/09/01/purdue-pharma-bankruptcy-judge-ruling/
+  date: '2021-09-01'
+  tier: 2
+  outlet: The Washington Post
+- title: Sackler Family Wins Immunity From Opioid Lawsuits In Purdue Pharma Bankruptcy
+  url: https://www.npr.org/2021/09/01/1031053251/sackler-family-immunity-purdue-pharma-oxcyontin-opioid-epidemic
+  date: '2021-09-01'
+  tier: 1
+  outlet: NPR
+- title: Federal court grants Sackler family immunity from all future opioid lawsuits
+  url: https://www.jurist.org/news/2021/09/federal-court-grants-sackler-family-immunity-from-all-future-opioid-lawsuits/
+  date: '2021-09-01'
+  tier: 2
+  outlet: JURIST Legal News
 ---
 
 On September 1, 2021, U.S. Bankruptcy Court Judge Robert Drain approved a bankruptcy settlement granting the Sackler family "global peace" from civil liability for the opioid epidemic, despite vigorous opposition from the Department of Justice and nine state attorneys general. The ruling allowed billionaires who never filed for bankruptcy to purchase immunity from future lawsuits through their company's bankruptcy proceedings.

@@ -12,9 +12,9 @@ actors:
 sources:
 - title: OMB quietly deletes reference to law requiring back pay to furloughed feds
   url: https://www.defenseone.com/policy/2025/10/omb-quietly-deletes-reference-law-requiring-back-pay-furloughed-feds/408765/
-  publisher: Defense One
   date: '2025-10-07'
   tier: 2
+  outlet: Defense One
 tags:
 - systematic-corruption
 - congressional-authority-subversion

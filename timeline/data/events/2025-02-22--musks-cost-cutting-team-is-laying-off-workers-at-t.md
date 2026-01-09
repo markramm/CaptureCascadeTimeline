@@ -1,11 +1,8 @@
 ---
 id: 2025-02-22--musks-cost-cutting-team-is-laying-off-workers-at-t
 date: '2025-02-22'
-title: Musk’s cost-cutting team is laying off workers at the auto safety agency overseeing
-  his car company
-description: Elon Musk is slashing jobs at the National Highway Traffic Safety Administration—the
-  federal agency that oversees auto safety and crash investigations, including those
-  involving Tesla
+title: Musk’s cost-cutting team is laying off workers at the auto safety agency overseeing his car company
+description: Elon Musk is slashing jobs at the National Highway Traffic Safety Administration—the federal agency that oversees auto safety and crash investigations, including those involving Tesla
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -16,14 +13,13 @@ tags:
 - kleptocracy
 capture_type: regulatory_capture
 sources:
-- title: Musk’s cost-cutting team is laying off workers at the auto safety agency
-    overseeing his car company
+- title: Musk’s cost-cutting team is laying off workers at the auto safety agency overseeing his car company
   url: https://apnews.com/article/musk-trump-autonomous-selfdriving-doge-auto-safety-99b369c5e3ccd3e7c09b6951604b3a0a
   outlet: Associated Press
   date: '2025-02-22'
 - title: DOGE employee cuts fall heavily on agency that regulates Musk's Tesla
   url: https://www.washingtonpost.com/business/2025/02/21/musk-doge-tesla-autonomous-vehicles-nhtsa/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-21'
 - title: Musk's DOGE is laying off workers at the auto safety agency overseeing Tesla
   url: https://fortune.com/2025/02/23/elon-musk-doge-nhtsa-layoffs-safety-tesla-self-driving/

@@ -2,9 +2,7 @@
 id: 2025-03-16--top-broadband-official-exits-commerce-department-w
 date: '2025-03-16'
 title: Top broadband official exits Commerce Department with sharp Musk warning
-description: Evan Feinman, who led the Commerce Department’s $42.5 billion broadband
-  program, resigned warning that Trump is restructuring the initiative to benefit
-  Elon Musk’s Starlink
+description: Evan Feinman, who led the Commerce Department’s $42.5 billion broadband program, resigned warning that Trump is restructuring the initiative to benefit Elon Musk’s Starlink
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -18,7 +16,7 @@ capture_type: monetizing_position
 sources:
 - title: Top broadband official exits Commerce Department with sharp Musk warning
   url: https://www.politico.com/news/2025/03/16/official-exits-commerce-department-musk-warning-00232278
-  outlet: POLITICO
+  outlet: Politico
   date: '2025-03-16'
 - title: Outgoing Commerce Official Shreds Elon Musk's Starlink in Final Email
   url: https://newrepublic.com/post/192819/commerce-official-elon-musk-starlink
@@ -28,13 +26,11 @@ sources:
   url: https://www.rollingstone.com/politics/politics-news/outgoing-broadband-chief-warning-elon-musk-1235297425/
   outlet: Rolling Stone
   date: '2025-03-16'
-- title: Commerce Department Director Leaves Job With a Scathing Warning About Elon
-    Musk
+- title: Commerce Department Director Leaves Job With a Scathing Warning About Elon Musk
   url: https://www.thedailybeast.com/commerce-department-director-leaves-job-with-a-scathing-warning-about-elon-musk/
   outlet: The Daily Beast
   date: '2025-03-16'
-- title: Trump's changes to a 42 billion broadband program could be a win for Musk's
-    Starlink
+- title: Trump's changes to a 42 billion broadband program could be a win for Musk's Starlink
   url: https://www.npr.org/2025/03/28/nx-s1-5338963/musk-starlink-broadband-commerce
   outlet: NPR
   date: '2025-03-28'

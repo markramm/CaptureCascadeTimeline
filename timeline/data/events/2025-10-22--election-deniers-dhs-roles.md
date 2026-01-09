@@ -17,9 +17,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/22/us/politics/trump-election-deniers-dhs.html
   title: Trump Installs Election Deniers in Homeland Security Positions
-  publisher: New York Times
   date: '2025-10-22'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

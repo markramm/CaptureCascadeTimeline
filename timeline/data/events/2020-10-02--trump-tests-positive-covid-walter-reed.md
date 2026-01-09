@@ -4,32 +4,32 @@ date: '2020-10-02'
 title: Trump Tests Positive for COVID-19, Hospitalized at Walter Reed with Experimental Treatments
 importance: 8
 tags:
-  - COVID-19
-  - Public Health
-  - Healthcare
-  - Accountability Crisis
+- covid-19
+- public health
+- healthcare
+- accountability crisis
 actors:
-  - Donald Trump
-  - Melania Trump
-  - Sean Conley
-  - Mike Pence
-  - Hope Hicks
+- Donald Trump
+- Melania Trump
+- Sean Conley
+- Mike Pence
+- Hope Hicks
 sources:
-  - title: Trump flown to Walter Reed after Covid-19 diagnosis and getting an experimental Regeneron treatment
-    url: https://www.statnews.com/2020/10/02/trump-taken-to-walter-reed-received-experimental-regeneron-covid19-treatment/
-    publisher: STAT News
-    date: '2020-10-02'
-    tier: 1
-  - title: Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment
-    url: https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899
-    publisher: NBC News
-    date: '2020-10-03'
-    tier: 1
-  - title: President Trump taken to Walter Reed Medical Center
-    url: https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448
-    publisher: ABC News
-    date: '2020-10-02'
-    tier: 1
+- title: Trump flown to Walter Reed after Covid-19 diagnosis and getting an experimental Regeneron treatment
+  url: https://www.statnews.com/2020/10/02/trump-taken-to-walter-reed-received-experimental-regeneron-covid19-treatment/
+  date: '2020-10-02'
+  tier: 1
+  outlet: STAT News
+- title: Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment
+  url: https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899
+  date: '2020-10-03'
+  tier: 1
+  outlet: NBC News
+- title: President Trump taken to Walter Reed Medical Center
+  url: https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448
+  date: '2020-10-02'
+  tier: 1
+  outlet: ABC News
 status: confirmed
 ---
 

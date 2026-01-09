@@ -4,29 +4,29 @@ date: 2013-08-01
 title: Chicago Police Launch Strategic Subject List "Heat List" Predictive Policing Program
 importance: 8
 tags:
-  - surveillance
-  - technology
-  - police
-  - ai
-  - civil-rights
+- surveillance
+- technology
+- police
+- ai
+- civil-rights
 actors:
-  - Chicago Police Department
+- Chicago Police Department
 sources:
-  - url: https://teamupturn.gitbooks.io/predictive-policing/content/systems/chicago.html
-    title: "Chicago's Strategic Subject List, a.k.a. Heat List"
-    publisher: Upturn
-    date: 2016-01-01
-    tier: 2
-  - url: https://www.rand.org/blog/2016/09/cpds-heat-list-and-the-dilemma-of-predictive-policing.html
-    title: CPD's 'Heat List' and the Dilemma of Predictive Policing
-    publisher: RAND Corporation
-    date: 2016-09-01
-    tier: 1
-  - url: https://www.chicagomag.com/city-life/August-2017/Chicago-Police-Strategic-Subject-List/
-    title: The Contradictions of Chicago Police's Secretive List
-    publisher: Chicago Magazine
-    date: 2017-08-01
-    tier: 2
+- url: https://teamupturn.gitbooks.io/predictive-policing/content/systems/chicago.html
+  title: Chicago's Strategic Subject List, a.k.a. Heat List
+  date: 2016-01-01
+  tier: 2
+  outlet: Upturn
+- url: https://www.rand.org/blog/2016/09/cpds-heat-list-and-the-dilemma-of-predictive-policing.html
+  title: CPD's 'Heat List' and the Dilemma of Predictive Policing
+  date: 2016-09-01
+  tier: 1
+  outlet: RAND Corporation
+- url: https://www.chicagomag.com/city-life/August-2017/Chicago-Police-Strategic-Subject-List/
+  title: The Contradictions of Chicago Police's Secretive List
+  date: 2017-08-01
+  tier: 2
+  outlet: Chicago Magazine
 ---
 
 The Chicago Police Department launches the Strategic Subject List (SSL), colloquially known as the "heat list," a predictive policing mechanism designed to identify individuals most likely to be involved in gun violence either as perpetrators or victims. The program's public debut occurs in August 2013 when the Chicago Tribune publishes a story describing the new predictive analysis strategy.

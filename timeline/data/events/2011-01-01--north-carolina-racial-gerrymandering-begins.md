@@ -4,38 +4,38 @@ date: '2011-01-01'
 title: North Carolina Republicans Begin Aggressive Racial Gerrymandering
 importance: 8
 tags:
-  - gerrymandering
-  - racial-discrimination
-  - voting-rights
-  - north-carolina
-  - republican-party
-  - REDMAP
+- gerrymandering
+- racial-discrimination
+- voting-rights
+- north-carolina
+- republican-party
+- redmap
 actors:
-  - North Carolina General Assembly
-  - Republican Party
-  - Robert Rucho
-  - David Lewis
+- North Carolina General Assembly
+- Republican Party
+- Robert Rucho
+- David Lewis
 sources:
-  - url: https://www.npr.org/2017/08/30/547065920/under-pressure-north-carolina-draws-new-voting-maps
-    title: Accused Of Racial Gerrymandering, North Carolina's New Maps Also Under Scrutiny
-    publisher: NPR
-    date: 2017-08-30
-    tier: 1
-  - url: https://www.brennancenter.org/our-work/court-cases/north-carolina-v-covington
-    title: North Carolina v. Covington
-    publisher: Brennan Center for Justice
-    date: 2018-01-01
-    tier: 1
-  - url: https://ballotpedia.org/Redistricting_in_North_Carolina_after_the_2010_census
-    title: Redistricting in North Carolina after the 2010 census
-    publisher: Ballotpedia
-    date: 2011-01-01
-    tier: 2
-  - url: https://history.chass.ncsu.edu/2019/07/29/drawing-democracy-north-carolinas-gerrymandering-history/
-    title: "Drawing Democracy: North Carolina's Gerrymandering History"
-    publisher: NC State University Department of History
-    date: 2019-07-29
-    tier: 2
+- url: https://www.npr.org/2017/08/30/547065920/under-pressure-north-carolina-draws-new-voting-maps
+  title: Accused Of Racial Gerrymandering, North Carolina's New Maps Also Under Scrutiny
+  date: 2017-08-30
+  tier: 1
+  outlet: NPR
+- url: https://www.brennancenter.org/our-work/court-cases/north-carolina-v-covington
+  title: North Carolina v. Covington
+  date: 2018-01-01
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://ballotpedia.org/Redistricting_in_North_Carolina_after_the_2010_census
+  title: Redistricting in North Carolina after the 2010 census
+  date: 2011-01-01
+  tier: 2
+  outlet: Ballotpedia
+- url: https://history.chass.ncsu.edu/2019/07/29/drawing-democracy-north-carolinas-gerrymandering-history/
+  title: 'Drawing Democracy: North Carolina''s Gerrymandering History'
+  date: 2019-07-29
+  tier: 2
+  outlet: NC State University Department of History
 ---
 
 Following their historic gains in the 2010 elections, North Carolina Republicans gain control of the General Assembly for the first time in over a century and immediately implement the "Rucho-Lewis plan"—an aggressive redistricting scheme that packs African American voters into concentrated districts to dilute their electoral influence across the state. The redistricting represents one of the most extreme examples of racial gerrymandering in the post-REDMAP era.

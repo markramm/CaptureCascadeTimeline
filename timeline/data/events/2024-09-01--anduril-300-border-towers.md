@@ -9,22 +9,20 @@ actors:
 - Department of Homeland Security
 - Palmer Luckey
 tags:
-- Border Militarization
-- Surveillance
-- AI Surveillance
-- Immigration Enforcement
-- Autonomous Weapons
+- border militarization
+- surveillance
+- ai surveillance
+- immigration enforcement
+- autonomous weapons
 sources:
-- url: https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/
-  title: Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability
-    for Border Security
-  publisher: Anduril Industries
+- title: Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security
+  url: https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/
+  outlet: Anduril Industries
   date: '2024-09-01'
   tier: 2
-- url: https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it
-  title: CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And
-    We're Mapping It
-  publisher: Electronic Frontier Foundation
+- title: CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And We're Mapping It
+  url: https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it
+  outlet: Electronic Frontier Foundation
   date: '2023-03-15'
   tier: 2
 ---

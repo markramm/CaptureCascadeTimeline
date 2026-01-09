@@ -1,0 +1,51 @@
+---
+id: 2019-10-01--meatpacking-big-four-price-fixing-lawsuit-filed
+date: '2019-10-01'
+title: Class Action Lawsuit Alleges Big Four Meatpackers Conspired to Fix Beef Prices and Manipulate Markets
+importance: 9
+actors:
+- Tyson Foods
+- JBS
+- Cargill
+- National Beef
+- U.S. District Court for Minnesota
+tags:
+- antitrust
+- consolidation
+- oligopoly
+- price-fixing
+- meatpacking
+- agriculture
+- market-concentration
+- corporate-crime
+sources:
+- title: Beef Price-Fixing Lawsuit Settled as Trump Administration Signals a Shift in Antitrust Focus
+  url: https://www.agricultureofamerica.com/2025/10/13/beef-price-fixing-lawsuit-settled-as-trump-administration-signals-a-shift-in-antitrust-focus/
+  outlet: Agriculture of America
+  date: '2025-10-13'
+  tier: 3
+- title: How did we get the 'Big Four' meatpackers, anyway?
+  url: https://thecounter.org/big-four-meatpackers-antitrust-consolidation/
+  outlet: The Counter
+  date: '2024'
+  tier: 3
+- title: 'Meatpacking: Four Corporations, Total Control'
+  url: https://farmaction.us/meatpacking-four-corporations-total-control/
+  outlet: Farm Action
+  date: '2024'
+  tier: 3
+---
+
+A class-action lawsuit filed in U.S. District Court for Minnesota accused the four largest U.S. beef processors—Tyson Foods, JBS, Cargill, and National Beef—of conspiring to manipulate cattle supplies and inflate beef prices for consumers, marking a major legal challenge to meatpacking consolidation that has given four companies control over 85% of the U.S. beef market, up from just 36% in 1980.
+
+The lawsuit alleged that the Big Four meatpackers engaged in coordinated conduct to limit beef supply and fix prices starting around 2015, exploiting their oligopoly market position to harm both cattle ranchers (by depressing prices paid for live cattle) and consumers (by inflating prices for beef products). The complaint detailed suspicious pricing patterns, coordinated capacity reductions, and information sharing among competitors that suggested collusion rather than independent competitive behavior.
+
+The concentration of meatpacking into a tight oligopoly has been decades in the making, accelerating after weak antitrust enforcement allowed numerous mergers and acquisitions. By 2019, four foreign-owned or multinational corporations controlled 85% of beef processing: JBS (Brazilian-owned), Cargill (U.S. multinational), Tyson Foods (U.S. public company), and National Beef (Brazilian-controlled). This concentration extended beyond beef—the same companies plus Chinese-owned WH Group control approximately 67% of pork processing.
+
+The extreme market concentration has given the Big Four enormous power to set prices paid to cattle ranchers and charged to consumers, while crushing competition from smaller processors. Ranchers report being forced to accept whatever prices the Big Four offer, with no realistic alternatives for selling their cattle. Meanwhile, consumers face higher beef prices despite ranchers receiving lower payments—a classic oligopoly pattern where concentrated middlemen extract profits from both ends of the market.
+
+The meatpacking consolidation violates the spirit and potentially the letter of the Packers and Stockyards Act of 1921, which explicitly prohibits the kind of consolidation and vertical integration now dominating the industry. However, weak enforcement of this Depression-era law has allowed the exact concentration it was designed to prevent.
+
+Industry documents and investigations revealed suspicious patterns consistent with price coordination, including: unusually synchronized capacity reductions across competitors, information sharing through industry associations that facilitated price signaling, parallel pricing behavior that defied competitive market dynamics, and coordinated responses to market disruptions like the COVID-19 pandemic.
+
+The lawsuit's filing marked growing recognition that meatpacking consolidation represents a failure of antitrust enforcement with severe consequences for farmers, ranchers, rural communities, and consumers. Subsequent settlements and ongoing litigation would extract hundreds of millions in penalties, though critics argue these amounts are trivial compared to years of oligopoly profits and fail to address the underlying market structure problem.

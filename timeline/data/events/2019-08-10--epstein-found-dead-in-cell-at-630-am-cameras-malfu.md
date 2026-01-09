@@ -2,8 +2,7 @@
 id: 2019-08-10--epstein-found-dead-in-cell-at-630-am-cameras-malfu
 date: '2019-08-10'
 importance: 10
-title: Epstein found dead in cell at 6:30 AM - cameras malfunctioned, guards slept,
-  ruled suicide
+title: Epstein found dead in cell at 6:30 AM - cameras malfunctioned, guards slept, ruled suicide
 actors:
 - Jeffrey Epstein
 - MCC prison staff
@@ -21,7 +20,7 @@ status: confirmed
 sources:
 - title: 'Jeffrey Epstein, Accused Sex Trafficker, Dies by Suicide: Officials'
   url: https://www.nytimes.com/2019/08/10/nyregion/jeffrey-epstein-death.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-08-10'
 - title: Jeffrey Epstein found injured in NYC jail cell
   url: https://www.cnn.com/2019/08/10/us/jeffrey-epstein-death/index.html
@@ -29,14 +28,13 @@ sources:
   date: '2019-08-10'
 - title: Cameras outside Jeffrey Epstein's cell malfunctioned night he died
   url: https://www.washingtonpost.com/politics/cameras-outside-jeffrey-epsteins-cell-malfunctioned-night-he-died-according-to-person-familiar-with-investigation/2019/08/14/7b2d52a6-be4e-11e9-b873-63ace636af08_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-08-14'
 - title: Two guards who were supposed to be watching Epstein were sleeping
   url: https://www.cbc.ca/news/world/epstein-guards-sleeping-charges-1.5364108
   outlet: CBC News
   date: '2019-11-19'
-notes: Epstein's death eliminated a key witness who had connections to numerous powerful
-  figures and potential knowledge of money laundering operations.
+notes: Epstein's death eliminated a key witness who had connections to numerous powerful figures and potential knowledge of money laundering operations.
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration

@@ -21,19 +21,19 @@ actors:
 sources:
 - title: SCIPNet PA 9-1-1 Centers Save $1 Million Each by Upgrading to Carbyne APEX
   url: https://www.prnewswire.com/news-releases/scipnet-pa-9-1-1-centers-save-1-million-each-by-upgrading-to-carbyne-apex-next-gen-911-call-handling-system--now-live-across-four-counties-302258491.html
-  publisher: PR Newswire
   date: '2024-09-01'
   tier: 2
+  outlet: PR Newswire
 - title: Four Midstate 911 centers are getting high tech upgrades
   url: https://www.abc27.com/local-news/four-midstate-911-centers-are-high-tech-getting-upgrades/
-  publisher: ABC27
   date: '2024-03-15'
   tier: 2
+  outlet: ABC27
 - title: Cumberland County Pa. Joins Regional Push to Overhaul 911
   url: https://www.govtech.com/public-safety/cumberland-county-pa-joins-regional-push-to-overhaul-911
-  publisher: Government Technology
   date: '2022-11-30'
   tier: 2
+  outlet: Government Technology
 status: confirmed
 ---
 

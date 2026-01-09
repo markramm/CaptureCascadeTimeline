@@ -15,15 +15,14 @@ tags:
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/10/ensuring-continued-accountability-in-federal-hiring/
   title: 'Executive Order: Ensuring Continued Accountability in Federal Hiring'
-  publisher: The White House
   date: '2025-10-15'
   tier: 1
+  outlet: The White House
 - url: https://www.govexec.com/workforce/2025/10/trumps-latest-order-requires-strategic-plans-reflective-presidential-priorities-resume-hiring/408897/
-  title: Trump's latest order requires strategic plans reflective of presidential
-    'priorities' to resume hiring
-  publisher: Government Executive
+  title: Trump's latest order requires strategic plans reflective of presidential 'priorities' to resume hiring
   date: '2025-10-15'
   tier: 2
+  outlet: Government Executive
 ---
 
 President Trump signed an executive order titled 'Ensuring Continued Accountability in Federal Hiring' on October 15, 2025, extending the federal hiring freeze and requiring all federal hiring decisions to be approved by 'Strategic Hiring Committees' consisting of senior agency leadership. The order mandates that no federal civilian position may be filled except as approved by these committees, which must ensure hiring 'focuses on agency needs, the national interest, and Administration priorities.'

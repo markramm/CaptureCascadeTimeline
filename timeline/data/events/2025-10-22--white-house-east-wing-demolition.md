@@ -15,9 +15,9 @@ actors:
 sources:
 - url: https://www.nytimes.com/2025/10/22/us/politics/white-house-east-wing-demolition-ballroom.html
   title: Trump Confirms East Wing Demolition for Personal Ballroom
-  publisher: New York Times
   date: '2025-10-22'
   tier: 1
+  outlet: The New York Times
 status: confirmed
 ---
 

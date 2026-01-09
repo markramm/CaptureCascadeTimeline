@@ -17,22 +17,21 @@ actors:
 - Department of Agriculture
 - Trump Administration
 sources:
-- title: Supreme Court temporarily blocks full SNAP benefits even as they'd started
-    to go out
+- title: Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out
   url: https://www.npr.org/2025/11/07/nx-s1-5602351/full-snap-benefits-go-out-despite-appeal
-  publisher: NPR
   date: '2025-11-07'
   tier: 1
+  outlet: NPR
 - title: Supreme Court pauses order that Trump administration must pay full SNAP benefits
   url: https://www.cnbc.com/2025/11/07/snap-trump-appeals-food-stamps.html
-  publisher: CNBC
   date: '2025-11-07'
   tier: 2
+  outlet: CNBC
 - title: Supreme Court lets Trump pause full SNAP payments for now
   url: https://www.cnn.com/2025/11/07/politics/trump-administration-supreme-court-snap-benefits
-  publisher: CNN
   date: '2025-11-07'
   tier: 1
+  outlet: CNN
 ---
 
 The Supreme Court on Friday evening, November 7, 2025, temporarily blocked a federal court order requiring the Trump administration to provide full SNAP benefits to approximately 42 million Americans for November during the ongoing government shutdown. Justice Ketanji Brown Jackson issued the temporary stay to give the U.S. Court of Appeals for the First Circuit more time to consider the administration's request for longer emergency relief. The ruling came hours after states had begun distributing full benefits following U.S. District Judge John McConnell Jr.'s Thursday order, forcing states to revert to partial payments.

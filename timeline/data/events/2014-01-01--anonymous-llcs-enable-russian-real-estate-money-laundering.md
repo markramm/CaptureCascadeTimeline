@@ -1,7 +1,7 @@
 ---
 id: 2014-01-01--anonymous-llcs-enable-russian-real-estate-money-laundering
 date: '2014-01-01'
-title: 'Anonymous LLCs Enable $300B+ Annual Russian Money Flow into US Real Estate'
+title: Anonymous LLCs Enable $300B+ Annual Russian Money Flow into US Real Estate
 importance: 9
 tags:
 - money-laundering
@@ -18,26 +18,26 @@ actors:
 - Russian Oligarchs
 - US real estate industry
 sources:
-- title: 'NDAA Russia Illicit Finance Report'
+- title: NDAA Russia Illicit Finance Report
   url: https://home.treasury.gov/system/files/136/Treasury-NDAA-Ru-IFR-508.pdf
-  publisher: US Treasury Department
   date: '2023-03-01'
   tier: 1
-- title: 'Defending the United States against Russian dark money'
+  outlet: US Treasury Department
+- title: Defending the United States against Russian dark money
   url: https://www.atlanticcouncil.org/in-depth-research-reports/report/defending-the-united-states-against-russian-dark-money/
-  publisher: Atlantic Council
   date: '2022-01-01'
   tier: 2
-- title: 'How anonymous companies help launder money in US real estate'
+  outlet: Atlantic Council
+- title: How anonymous companies help launder money in US real estate
   url: https://globalwitness.org/en/campaigns/corruption-and-money-laundering/on-the-house/
-  publisher: Global Witness
   date: '2021-01-01'
   tier: 1
-- title: 'Are oligarchs hiding money in US real estate? Ownership information is a missing link'
+  outlet: Global Witness
+- title: Are oligarchs hiding money in US real estate? Ownership information is a missing link
   url: https://www.icij.org/investigations/panama-papers/are-oligarchs-hiding-money-in-us-real-estate-ownership-information-is-a-missing-link-research-says/
-  publisher: ICIJ
   date: '2016-04-03'
   tier: 1
+  outlet: ICIJ
 status: confirmed
 ---
 

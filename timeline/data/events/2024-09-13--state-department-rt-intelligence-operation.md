@@ -19,24 +19,24 @@ actors:
 sources:
 - title: Alerting the World to RT's Global Covert Activities
   url: https://2021-2025.state.gov/alerting-the-world-to-rts-global-covert-activities/
-  publisher: State Department
   date: '2024-09-13'
   tier: 1
+  outlet: State Department
 - title: Biden administration expected to unveil new evidence of RT's key role in Russian intelligence operations globally
   url: https://www.cnn.com/2024/09/13/politics/biden-administration-rt-russian-intelligence/index.html
-  publisher: CNN
   date: '2024-09-13'
   tier: 1
+  outlet: CNN
 - title: US accuses RT of 'covert' intelligence activities, issues fresh sanctions
   url: https://www.aljazeera.com/news/2024/9/13/us-accuses-rt-of-covert-intelligence-activities-issues-fresh-sanctions
-  publisher: Al Jazeera
   date: '2024-09-13'
   tier: 1
+  outlet: Al Jazeera
 - title: RT is now a main unit of Russian intelligence apparatus, US and allies say
   url: https://www.nextgov.com/cybersecurity/2024/09/rt-now-main-unit-russian-intelligence-apparatus-us-and-allies-say/399531/
-  publisher: Nextgov/FCW
   date: '2024-09-13'
   tier: 2
+  outlet: Nextgov/FCW
 status: confirmed
 ---
 

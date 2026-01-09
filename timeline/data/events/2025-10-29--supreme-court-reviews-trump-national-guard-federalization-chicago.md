@@ -9,22 +9,20 @@ id: 2025-10-29--supreme-court-reviews-trump-national-guard-federalization-chicag
 importance: 10
 sources:
 - date: '2025-10-29'
-  publisher: SCOTUSblog
   tier: 1
-  title: Supreme Court requests further information in case concerning Trump's deployment
-    of National Guard
+  title: Supreme Court requests further information in case concerning Trump's deployment of National Guard
   url: https://www.scotusblog.com/2025/10/supreme-court-requests-further-information-in-case-concerning-trumps-deployment-of-national-guard/
+  outlet: SCOTUSblog
 - date: '2025-10-29'
-  publisher: CNN
   tier: 1
-  title: Supreme Court wants more time and information before deciding if Trump can
-    send National Guard to Chicago
+  title: Supreme Court wants more time and information before deciding if Trump can send National Guard to Chicago
   url: https://www.cnn.com/2025/10/29/politics/supreme-court-chicago-national-guard-trump-briefs
+  outlet: CNN
 - date: '2025-10-23'
-  publisher: NPR
   tier: 1
   title: What to know about legal battles over National Guard deployments
   url: https://www.npr.org/2025/10/23/nx-s1-5581553/national-guard-supreme-court-legal-cases
+  outlet: NPR
 status: confirmed
 tags:
 - chicago
@@ -37,8 +35,7 @@ tags:
 - presidential-power
 - separation-of-powers
 - supreme-court
-title: Supreme Court to Review Trump's Federalization of National Guard in Chicago,
-  Nationwide Implications
+title: Supreme Court to Review Trump's Federalization of National Guard in Chicago, Nationwide Implications
 ---
 
 On October 29, 2025, the U.S. Supreme Court took the rare step of requesting additional briefing in a high-profile emergency case challenging President Trump's federalization of the National Guard in Chicago for immigration enforcement, signaling the Court is grappling with fundamental questions about presidential authority over state military forces. The Court's decision will have nationwide implications for National Guard deployments, with similar litigation pending in California, Oregon, and other states.

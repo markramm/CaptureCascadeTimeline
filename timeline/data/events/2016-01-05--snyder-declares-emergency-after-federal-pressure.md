@@ -4,30 +4,30 @@ date: 2016-01-05
 title: Snyder Finally Declares State of Emergency After Federal Investigation and Public Outcry
 importance: 8
 tags:
-  - flint-water-crisis
-  - Rick-Snyder
-  - government-accountability
-  - federal-oversight
+- flint-water-crisis
+- rick-snyder
+- government-accountability
+- federal-oversight
 actors:
-  - Rick Snyder
-  - Barack Obama
-  - EPA
+- Rick Snyder
+- Barack Obama
+- EPA
 sources:
-  - url: https://www.michiganpublic.org/news/2016-01-05/gov-snyder-declares-a-state-of-emergency-after-lead-continues-to-be-a-problem-in-flints-water
-    title: Gov. Snyder declares a state of emergency after lead continues to be a problem in Flint's water
-    publisher: Michigan Public Radio
-    date: 2016-01-05
-    tier: 1
-  - url: https://www.michigan.gov/formergovernors/recent/snyder/press-releases/2016/01/05/gov-snyder-declares-emergency-for-genesee-county
-    title: Gov. Snyder declares emergency for Genesee County
-    publisher: State of Michigan
-    date: 2016-01-05
-    tier: 1
-  - url: https://www.foxnews.com/us/michigan-governor-declares-state-of-emergency-in-flint-over-water-problems
-    title: Michigan governor declares state of emergency in Flint over water problems
-    publisher: Fox News
-    date: 2016-01-05
-    tier: 2
+- url: https://www.michiganpublic.org/news/2016-01-05/gov-snyder-declares-a-state-of-emergency-after-lead-continues-to-be-a-problem-in-flints-water
+  title: Gov. Snyder declares a state of emergency after lead continues to be a problem in Flint's water
+  date: 2016-01-05
+  tier: 1
+  outlet: Michigan Public Radio
+- url: https://www.michigan.gov/formergovernors/recent/snyder/press-releases/2016/01/05/gov-snyder-declares-emergency-for-genesee-county
+  title: Gov. Snyder declares emergency for Genesee County
+  date: 2016-01-05
+  tier: 1
+  outlet: State of Michigan
+- url: https://www.foxnews.com/us/michigan-governor-declares-state-of-emergency-in-flint-over-water-problems
+  title: Michigan governor declares state of emergency in Flint over water problems
+  date: 2016-01-05
+  tier: 2
+  outlet: Fox News
 status: confirmed
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: 2025-11-10--trump-veterans-day-proclamation
 date: '2025-11-10'
-title: Trump Issues Veterans Day 2025 Proclamation Emphasizing Tax Cuts and Homeless
-  Veteran Housing
+title: Trump Issues Veterans Day 2025 Proclamation Emphasizing Tax Cuts and Homeless Veteran Housing
 importance: 5
 tags:
 - veterans
@@ -15,19 +14,19 @@ actors:
 sources:
 - title: Veterans Day, 2025 – The White House
   url: https://www.whitehouse.gov/presidential-actions/2025/11/veterans-day-2025/
-  publisher: White House
   date: '2025-11-10'
   tier: 1
+  outlet: White House
 - title: President Issues Proclamation for Veterans Day
   url: https://www.presidentialprayerteam.org/2025/11/11/president-issues-proclamation-for-veterans-day/
-  publisher: Presidential Prayer Team
   date: '2025-11-11'
   tier: 3
+  outlet: Presidential Prayer Team
 - title: White House Says Trump's Proposal to Rename Veterans Day Has Been Scrapped
   url: https://www.military.com/daily-news/2025/05/05/white-house-retreat-trumps-short-lived-proposal-rename-veterans-day.html
-  publisher: Military.com
   date: '2025-05-05'
   tier: 2
+  outlet: Military.com
 status: confirmed
 ---
 

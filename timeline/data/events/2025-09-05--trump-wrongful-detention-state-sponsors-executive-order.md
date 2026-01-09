@@ -1,8 +1,7 @@
 ---
 id: 2025-09-05--trump-wrongful-detention-state-sponsors-executive-order
 date: '2025-09-05'
-title: Trump Creates 'State Sponsor of Wrongful Detention' Designation via Executive
-  Order
+title: Trump Creates 'State Sponsor of Wrongful Detention' Designation via Executive Order
 importance: 7
 actors:
 - Donald Trump
@@ -15,23 +14,20 @@ tags:
 - foreign-policy
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/09/strengthening-efforts-to-protect-u-s-nationals-from-wrongful-detention-abroad/
-  title: 'Executive Order 14348: Strengthening Efforts to Protect U.S. Nationals from
-    Wrongful Detention Abroad'
-  publisher: The White House
+  title: 'Executive Order 14348: Strengthening Efforts to Protect U.S. Nationals from Wrongful Detention Abroad'
   date: '2025-09-05'
   tier: 1
+  outlet: The White House
 - url: https://www.cnn.com/2025/09/05/politics/state-sponsor-of-wrongful-detention-designation-trump-order
-  title: Trump signs executive order creating 'state sponsor of wrongful detention'
-    designation
-  publisher: CNN
+  title: Trump signs executive order creating 'state sponsor of wrongful detention' designation
   date: '2025-09-05'
   tier: 2
+  outlet: CNN
 - url: https://www.nbcnews.com/politics/white-house/trump-signs-executive-order-blacklist-countries-illegally-detain-ameri-rcna229441
-  title: Trump signs executive order to blacklist countries that illegally detain
-    Americans
-  publisher: NBC News
+  title: Trump signs executive order to blacklist countries that illegally detain Americans
   date: '2025-09-05'
   tier: 2
+  outlet: NBC News
 ---
 
 President Trump signed Executive Order 14348 on September 5, 2025, creating a new 'State Sponsor of Wrongful Detention' designation that empowers the Secretary of State to blacklist foreign countries determined to be involved in or supporting wrongful detentions of U.S. nationals. Countries designated as state sponsors face severe penalties including economic sanctions, visa restrictions, foreign assistance cuts, and travel warnings for U.S. passport holders.

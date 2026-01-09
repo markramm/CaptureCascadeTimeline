@@ -4,28 +4,28 @@ date: 2004-06-01
 title: The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properties and Brand
 importance: 6
 tags:
-  - The Apprentice
-  - Conflicts of Interest
-  - Trump Organization
-  - Mark Burnett
-  - NBC
-  - Product Placement
+- the apprentice
+- conflicts of interest
+- trump organization
+- mark burnett
+- nbc
+- product placement
 sources:
-  - url: https://fortune.com/2016/12/09/donald-trump-celebrity-apprentice-nbc/
-    title: Why Donald Trump on 'Celebrity Apprentice' Raises Conflict of Interest Questions
-    publisher: Fortune
-    date: 2016-12-09
-    tier: 1
-  - url: https://www.lexisantamaria.substack.com/p/exposing-mark-burnett-the-man-who
-    title: Exposing Mark Burnett - The Man Who Sold Us Trump
-    publisher: Substack
-    date: 2024-05-15
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series)
-    title: The Apprentice (American TV series)
-    publisher: Wikipedia
-    date: 2024-11-01
-    tier: 3
+- url: https://fortune.com/2016/12/09/donald-trump-celebrity-apprentice-nbc/
+  title: Why Donald Trump on 'Celebrity Apprentice' Raises Conflict of Interest Questions
+  date: 2016-12-09
+  tier: 1
+  outlet: Fortune
+- url: https://www.lexisantamaria.substack.com/p/exposing-mark-burnett-the-man-who
+  title: Exposing Mark Burnett - The Man Who Sold Us Trump
+  date: 2024-05-15
+  tier: 2
+  outlet: Substack
+- url: https://en.wikipedia.org/wiki/The_Apprentice_(American_TV_series)
+  title: The Apprentice (American TV series)
+  date: 2024-11-01
+  tier: 3
+  outlet: Wikipedia
 ---
 
 Throughout its 14-season run from 2004 to 2015, "The Apprentice" functions as an elaborate promotional platform for Trump's properties, businesses, and brand, with Trump maintaining a 50% ownership stake in the show and earning an estimated $214 million while simultaneously using the program to advertise his hotels, golf courses, and licensing deals. The arrangement creates unprecedented conflicts of interest as contestants complete tasks at Trump-branded properties, generating both direct revenue and invaluable free advertising for Trump's business empire.

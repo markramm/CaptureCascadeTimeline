@@ -4,30 +4,30 @@ date: 2005-05-23
 title: Trump Launches "Trump University" Real Estate Seminars Without Academic License or Accreditation
 importance: 8
 tags:
-  - Trump University
-  - Fraud
-  - Consumer Protection
-  - Education Fraud
-  - Business Ethics
+- trump university
+- fraud
+- consumer protection
+- education fraud
+- business ethics
 actors:
-  - Donald Trump
-  - Michael Sexton
+- Donald Trump
+- Michael Sexton
 sources:
-  - url: https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding
-    title: A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million
-    publisher: New York Attorney General
-    date: 2013-08-24
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Trump_University
-    title: Trump University
-    publisher: Wikipedia
-    date: 2016-11-18
-    tier: 2
-  - url: https://www.npr.org/2016/02/26/468297926/trump-university-lawsuit-alleges-school-for-success-was-a-scam
-    title: Trump University Lawsuit Alleges School For Success Was A Scam
-    publisher: NPR
-    date: 2016-02-26
-    tier: 1
+- url: https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding
+  title: A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million
+  date: 2013-08-24
+  tier: 1
+  outlet: New York Attorney General
+- url: https://en.wikipedia.org/wiki/Trump_University
+  title: Trump University
+  date: 2016-11-18
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.npr.org/2016/02/26/468297926/trump-university-lawsuit-alleges-school-for-success-was-a-scam
+  title: Trump University Lawsuit Alleges School For Success Was A Scam
+  date: 2016-02-26
+  tier: 1
+  outlet: NPR
 ---
 
 Donald Trump formally launched "Trump University" on May 23, 2005, a real estate training program that operated without proper academic licensing or accreditation. The enterprise, incorporated in 2004 with Trump owning 93% of the company, conducted three- and five-day seminars marketed as providing Trump's personal real estate investment secrets. Students paid $1,495 for initial three-day seminars, with aggressive upselling to "elite" mentorship programs costing up to $34,995. Despite its name, Trump University was not an accredited university or college, did not confer college credit or grant degrees, and did not grade its students. Trump appeared in promotional videos promising students they would learn his personal techniques for real estate success.

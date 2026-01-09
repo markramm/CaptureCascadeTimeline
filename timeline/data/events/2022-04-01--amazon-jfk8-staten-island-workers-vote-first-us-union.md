@@ -4,32 +4,32 @@ date: 2022-04-01
 title: Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory
 importance: 10
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Christian Smalls
-  - Amazon Labor Union
+- Jeff Bezos
+- Amazon
+- Christian Smalls
+- Amazon Labor Union
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Labor Rights
-  - Corporate Accountability
+- union organizing
+- worker exploitation
+- amazon
+- labor rights
+- corporate accountability
 sources:
-  - url: https://www.npr.org/2022/04/01/1089318684/amazon-labor-union-staten-island-election-bessemer-alabama-warehouse-workers
-    title: "Amazon workers on Staten Island vote to form company's first U.S. union"
-    publisher: NPR
-    date: 2022-04-01
-    tier: 1
-  - url: https://www.cnbc.com/2022/04/01/amazon-workers-in-staten-island-vote-to-unionize.html
-    title: "Amazon workers on Staten Island vote for company's first unionized warehouse in U.S."
-    publisher: CNBC
-    date: 2022-04-01
-    tier: 1
-  - url: https://www.labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory
-    title: "Amazon Workers on Staten Island Clinch a Historic Victory"
-    publisher: Labor Notes
-    date: 2022-04-01
-    tier: 1
+- url: https://www.npr.org/2022/04/01/1089318684/amazon-labor-union-staten-island-election-bessemer-alabama-warehouse-workers
+  title: Amazon workers on Staten Island vote to form company's first U.S. union
+  date: 2022-04-01
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2022/04/01/amazon-workers-in-staten-island-vote-to-unionize.html
+  title: Amazon workers on Staten Island vote for company's first unionized warehouse in U.S.
+  date: 2022-04-01
+  tier: 1
+  outlet: CNBC
+- url: https://www.labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory
+  title: Amazon Workers on Staten Island Clinch a Historic Victory
+  date: 2022-04-01
+  tier: 1
+  outlet: Labor Notes
 status: confirmed
 ---
 

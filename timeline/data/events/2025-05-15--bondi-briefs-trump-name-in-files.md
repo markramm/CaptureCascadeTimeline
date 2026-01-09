@@ -16,7 +16,7 @@ capture_lanes:
 status: confirmed
 sources:
 - title: AG Bondi briefs Trump on his name appearing in Epstein documents
-  outlet: Wall Street Journal
+  outlet: The Wall Street Journal
   date: '2025-05-15'
   url: https://www.wsj.com/politics/bondi-trump-epstein-files-briefing
 - title: 'Sources: Trump informed of Epstein files contents in critical May briefing'
@@ -24,7 +24,7 @@ sources:
   date: '2025-05-16'
   url: https://www.cnn.com/2025/05/16/politics/trump-bondi-epstein-files-briefing/index.html
 - title: Bondi-Trump meeting marks turning point on Epstein transparency pledge
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-05-17'
   url: https://www.nytimes.com/2025/05/17/us/politics/bondi-trump-epstein-files.html
 notes: This briefing marks the turning point when Trump reversed his position on transparency.

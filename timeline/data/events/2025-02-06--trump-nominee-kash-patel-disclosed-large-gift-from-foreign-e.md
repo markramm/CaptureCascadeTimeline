@@ -1,12 +1,8 @@
 ---
 id: 2025-02-06--trump-nominee-kash-patel-disclosed-large-gift-from-foreign-e
 date: '2025-02-06'
-title: Trump Nominee Kash Patel Discloses Millions in Shares from Chinese Company
-  Accused of Forced Labor
-description: Kash Patel disclosed receiving $1 million to $5 million in shares of
-  a Cayman Islands holding company (Elite Depot Limited) directly tied to Shein, a
-  Chinese corporation accused of 'slave labor' by the Senate and a pro-Trump nonprofit.
-  Patel consulted for the company from April 2024 to January 2025.
+title: Trump Nominee Kash Patel Discloses Millions in Shares from Chinese Company Accused of Forced Labor
+description: Kash Patel disclosed receiving $1 million to $5 million in shares of a Cayman Islands holding company (Elite Depot Limited) directly tied to Shein, a Chinese corporation accused of 'slave labor' by the Senate and a pro-Trump nonprofit. Patel consulted for the company from April 2024 to January 2025.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -37,7 +33,7 @@ sources:
   date: '2025-02-06'
 - title: Trump nominee Kash Patel disclosed large gift from foreign entity
   url: https://www.wired.com/story/kash-patel-elite-depot-shein/
-  outlet: Wired
+  outlet: WIRED
   date: '2025-02-06'
 connections:
 - Potential conflict of interest with foreign corporation
@@ -46,9 +42,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - foreign-corporate-influence
-notes: Detailed financial entanglement demonstrates ongoing patterns of potential
-  foreign influence in government appointments. Patel received stock in Elite Depot
-  Ltd. despite company's documented human rights concerns.
+notes: Detailed financial entanglement demonstrates ongoing patterns of potential foreign influence in government appointments. Patel received stock in Elite Depot Ltd. despite company's documented human rights concerns.
 capture_lanes:
 - Legislative Capture
 - Foreign Investment Influence

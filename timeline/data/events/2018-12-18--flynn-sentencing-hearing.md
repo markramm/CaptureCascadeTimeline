@@ -4,39 +4,39 @@ date: 2018-12-18
 title: Judge Sullivan's Harsh Questioning of Flynn at Sentencing - "Arguably You Sold Your Country Out"
 importance: 7
 tags:
-  - Mueller Investigation
-  - Michael Flynn
-  - Sentencing
-  - Foreign Agent
-  - Turkey Lobbying
-  - Trump Pardons
-  - National Security
+- mueller investigation
+- michael flynn
+- sentencing
+- foreign agent
+- turkey lobbying
+- trump pardons
+- national security
 actors:
-  - Michael Flynn
-  - Judge Emmet Sullivan
-  - Robert Mueller
-  - Donald Trump
+- Michael Flynn
+- Judge Emmet Sullivan
+- Robert Mueller
+- Donald Trump
 sources:
-  - url: https://www.cnbc.com/2018/12/18/judge-tells-michael-flynn-you-sold-your-country-out-at-hearing.html
-    title: Michael Flynn sentencing delayed as judge tells ex-Trump official - 'You sold your country out'
-    publisher: CNBC
-    date: 2018-12-18
-    tier: 2
-  - url: https://rollcall.com/2018/12/18/judge-lights-into-michael-flynn-you-sold-your-country-out/
-    title: Judge Lights Into Michael Flynn - 'You Sold Your Country Out'
-    publisher: Roll Call
-    date: 2018-12-18
-    tier: 2
-  - url: https://abcnews.go.com/beta-story-container/US/michael-flynn-trump-ally-turned-key-mueller-witness/story?id=59873492
-    title: Judge delays sentencing Flynn after rebuke - 'Arguably, you sold your country out!'
-    publisher: ABC News
-    date: 2018-12-18
-    tier: 2
-  - url: https://www.npr.org/2020/02/20/807665099/judge-amy-berman-jackson-to-hand-down-stones-sentence
-    title: Judge Amy Berman Jackson To Hand Down Stone's Sentence
-    publisher: NPR
-    date: 2020-02-20
-    tier: 1
+- url: https://www.cnbc.com/2018/12/18/judge-tells-michael-flynn-you-sold-your-country-out-at-hearing.html
+  title: Michael Flynn sentencing delayed as judge tells ex-Trump official - 'You sold your country out'
+  date: 2018-12-18
+  tier: 2
+  outlet: CNBC
+- url: https://rollcall.com/2018/12/18/judge-lights-into-michael-flynn-you-sold-your-country-out/
+  title: Judge Lights Into Michael Flynn - 'You Sold Your Country Out'
+  date: 2018-12-18
+  tier: 2
+  outlet: Roll Call
+- url: https://abcnews.go.com/beta-story-container/US/michael-flynn-trump-ally-turned-key-mueller-witness/story?id=59873492
+  title: Judge delays sentencing Flynn after rebuke - 'Arguably, you sold your country out!'
+  date: 2018-12-18
+  tier: 2
+  outlet: ABC News
+- url: https://www.npr.org/2020/02/20/807665099/judge-amy-berman-jackson-to-hand-down-stones-sentence
+  title: Judge Amy Berman Jackson To Hand Down Stone's Sentence
+  date: 2020-02-20
+  tier: 1
+  outlet: NPR
 ---
 
 On December 18, 2018, federal Judge Emmet Sullivan delivered a scathing rebuke to Michael Flynn during what was scheduled to be his sentencing hearing, telling Trump's former National Security Advisor "arguably you sold your country out" for working as an unregistered foreign agent while serving in the White House. The hearing, held in the U.S. District Court for the District of Columbia, took a dramatic turn when Sullivan questioned whether Flynn could have been charged with treason and expressed unconcealed disgust at Flynn's crimes. Rather than proceeding with sentencing, Flynn requested a delay to continue cooperating with federal prosecutors, postponing resolution of his case and setting the stage for years of legal maneuvering that ultimately ended with a presidential pardon.

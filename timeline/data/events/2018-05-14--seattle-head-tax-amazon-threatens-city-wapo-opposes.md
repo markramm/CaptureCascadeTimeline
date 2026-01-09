@@ -4,33 +4,33 @@ date: 2018-05-14
 title: Seattle Passes Head Tax on Large Employers—Amazon Threatens Expansion Halt, Washington Post Editorial Aligns with Owner's Interests
 importance: 8
 tags:
-  - media-capture
-  - corporate-welfare
-  - tax-avoidance
-  - local-politics
-  - editorial-capture
+- media-capture
+- corporate-welfare
+- tax-avoidance
+- local-politics
+- editorial-capture
 actors:
-  - Amazon
-  - Jeff Bezos
-  - Washington Post
-  - Seattle City Council
-  - Jenny Durkan
+- Amazon
+- Jeff Bezos
+- Washington Post
+- Seattle City Council
+- Jenny Durkan
 sources:
-  - url: https://www.npr.org/2018/06/13/619444956/seattle-repeals-tax-on-big-business-after-opposition-from-amazon-starbucks
-    title: Seattle Repeals Tax On Big Business After Opposition From Amazon, Starbucks
-    publisher: NPR
-    date: 2018-06-13
-    tier: 1
-  - url: https://www.washingtonpost.com/opinions/tax-bezos-help-workers-but-not-like-this/2018/09/06/9ebd64ae-b20d-11e8-aed9-001309990777_story.html
-    title: "Opinion | Tax Bezos. Help workers. But not like this."
-    publisher: Washington Post
-    date: 2018-09-06
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Seattle_head_tax
-    title: Seattle head tax
-    publisher: Wikipedia
-    date: 2018-06-12
-    tier: 2
+- url: https://www.npr.org/2018/06/13/619444956/seattle-repeals-tax-on-big-business-after-opposition-from-amazon-starbucks
+  title: Seattle Repeals Tax On Big Business After Opposition From Amazon, Starbucks
+  date: 2018-06-13
+  tier: 1
+  outlet: NPR
+- url: https://www.washingtonpost.com/opinions/tax-bezos-help-workers-but-not-like-this/2018/09/06/9ebd64ae-b20d-11e8-aed9-001309990777_story.html
+  title: Opinion | Tax Bezos. Help workers. But not like this.
+  date: 2018-09-06
+  tier: 1
+  outlet: The Washington Post
+- url: https://en.wikipedia.org/wiki/Seattle_head_tax
+  title: Seattle head tax
+  date: 2018-06-12
+  tier: 2
+  outlet: Wikipedia
 ---
 
 Seattle's City Council unanimously passed a "head tax" on large employers on May 14, 2018, taxing companies earning $20 million+ annually at $275 per full-time employee to fund affordable housing and homeless services. Amazon—with 45,000 Seattle employees and facing a $12 million annual tax bill—immediately threatened to halt expansion plans and funded a campaign to repeal the tax. The Washington Post, owned by Amazon founder Jeff Bezos, published editorials opposing the head tax and similar measures, demonstrating how billionaire media ownership aligns editorial positions with owner's financial interests even on local tax issues.

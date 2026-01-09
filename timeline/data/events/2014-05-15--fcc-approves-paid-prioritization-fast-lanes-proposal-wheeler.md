@@ -25,14 +25,14 @@ sources:
   outlet: Tech Times
   date: '2014-05-16'
   tier: 2
-- title: 'Under pressure, FCC Chairman Tom Wheeler revised his fast lane proposal'
+- title: Under pressure, FCC Chairman Tom Wheeler revised his fast lane proposal
   url: https://money.cnn.com/2014/05/12/technology/fcc-fast-lane
   outlet: CNN
   date: '2014-05-12'
   tier: 2
 - title: 'FCC chair: An Internet fast lane would be commercially unreasonable'
   url: https://www.washingtonpost.com/news/the-switch/wp/2014/05/20/fcc-chair-an-internet-fast-lane-would-be-commercially-unreasonable/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2014-05-20'
   tier: 1
 ---

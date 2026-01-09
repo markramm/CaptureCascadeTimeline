@@ -19,24 +19,24 @@ actors:
 sources:
 - title: RT America To Halt Production And Lay Off Most Staff After Being Dropped By Major U.S. Distributors
   url: https://deadline.com/2022/03/rt-america-to-halt-production-and-lay-off-most-staff-after-being-dropped-by-major-u-s-distributors-1234970503/
-  publisher: Deadline
   date: '2022-03-03'
   tier: 2
+  outlet: Deadline
 - title: Russia-backed cable news station RT America shuts down operations immediately amid Ukraine invasion
   url: https://www.cnbc.com/2022/03/03/russia-backed-cable-news-station-rt-america-shuts-down-amid-ukraine-invasion.html
-  publisher: CNBC
   date: '2022-03-03'
   tier: 1
+  outlet: CNBC
 - title: RT America Shuts Down After DirecTV, Roku Drop Channel
   url: https://www.bloomberg.com/news/articles/2022-03-03/rt-america-shuts-down-after-directv-roku-drop-channel
-  publisher: Bloomberg
   date: '2022-03-03'
   tier: 1
+  outlet: Bloomberg
 - title: RT America to cease production
   url: https://www.axios.com/2022/03/03/rt-america-to-cease-production
-  publisher: Axios
   date: '2022-03-02'
   tier: 2
+  outlet: Axios
 status: confirmed
 ---
 

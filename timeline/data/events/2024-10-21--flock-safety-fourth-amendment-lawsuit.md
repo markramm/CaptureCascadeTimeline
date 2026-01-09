@@ -12,8 +12,8 @@ actors:
 - Flock Safety
 tags:
 - surveillance
-- ALPR
-- Fourth-Amendment
+- alpr
+- fourth-amendment
 - civil-liberties
 - warrantless-surveillance
 - constitutional-challenge

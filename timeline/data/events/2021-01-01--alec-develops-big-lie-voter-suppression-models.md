@@ -10,11 +10,11 @@ actors:
 - State Policy Network
 - Republican state legislators
 tags:
-- ALEC
+- alec
 - voter-suppression
 - electoral-manipulation
 - big-lie
-- Trump
+- trump
 - model-legislation
 - state-capture
 - corporate-influence
@@ -25,7 +25,8 @@ sources:
   outlet: Brennan Center for Justice
   date: 2021-06-10
 - title: Conservative groups are writing GOP voter suppression bills
-  url: https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills---and-spending-millions-to-pass-them/
+  url: https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills
+---and-spending-millions-to-pass-them/
   outlet: Salon
   date: 2021-03-27
 - title: ALEC Members Lead Voter Suppression Efforts in 2020 Battleground States

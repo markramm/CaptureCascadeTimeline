@@ -102,7 +102,7 @@ export function HeatmapView({
 
         const colorScale = d3.scaleSequential()
             .interpolator(d3.interpolateInferno)
-            .domain([0, (d3.max(heatmapData.data, (d: any) => d.count) as number) || 1]);
+            .domain([0, (d3.max(heatmapData.data, (d) => d.count) as number) || 1]);
 
         // Axes
         g.append("g")
@@ -140,7 +140,7 @@ export function HeatmapView({
 
         // Cells
         g.selectAll("rect")
-            .data(heatmapData.data, (d: any) => d.date + ':' + d.type)
+            .data(heatmapData.data, (d) => d.date + ':' + d.type)
             .enter()
             .append("rect")
             .attr("x", d => x(d.date) || 0)

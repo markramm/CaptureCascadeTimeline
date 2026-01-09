@@ -4,7 +4,7 @@ date: '1990-01-01'
 title: CNP Membership Includes Reagan Cabinet Officials - Meese and North Join Elite Network
 importance: 8
 tags:
-- CNP
+- cnp
 - conservative-movement
 - coordination
 - elite-networks
@@ -20,7 +20,7 @@ sources:
   publication: Goodreads
   date: '2019-10-01'
   tier: 2
-- title: 'Council for National Policy'
+- title: Council for National Policy
   url: https://en.wikipedia.org/wiki/Council_for_National_Policy
   publication: Wikipedia
   date: '2024-11-10'

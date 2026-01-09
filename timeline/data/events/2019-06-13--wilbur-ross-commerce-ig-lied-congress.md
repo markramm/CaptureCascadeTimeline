@@ -4,32 +4,32 @@ date: 2019-06-13
 title: Commerce Inspector General Finds Wilbur Ross Lied to Congress About Census Citizenship Question
 importance: 8
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Wilbur Ross
-  - Inspector General
-  - Perjury
-  - Census
-  - Conflicts of Interest
+- cabinet corruption
+- ethics violations
+- wilbur ross
+- inspector general
+- perjury
+- census
+- conflicts of interest
 actors:
-  - Wilbur Ross
-  - Department of Justice
+- Wilbur Ross
+- Department of Justice
 sources:
-  - url: https://www.esquire.com/news-politics/politics/a37068059/wilbur-ross-lie-to-congress-justice-department-won-t-charge/
-    title: "Justice Department Won't Charge Wilbur Ross for Lying to Congress"
-    publisher: Esquire
-    date: 2021-06-18
-    tier: 2
-  - url: https://campaignlegal.org/update/wilbur-ross-violated-ethics-rules-multi-year-investigation-clc-complaint-finds
-    title: "Wilbur Ross Violated Ethics Rules, Multi-Year Investigation of CLC Complaint Finds"
-    publisher: Campaign Legal Center
-    date: 2021-06-15
-    tier: 2
-  - url: https://publicintegrity.org/politics/wilbur-ross-stock-holdings-divestment/
-    title: "Wilbur Ross said he divested a stock holding — but he didn't"
-    publisher: Center for Public Integrity
-    date: 2018-06-18
-    tier: 1
+- url: https://www.esquire.com/news-politics/politics/a37068059/wilbur-ross-lie-to-congress-justice-department-won-t-charge/
+  title: Justice Department Won't Charge Wilbur Ross for Lying to Congress
+  date: 2021-06-18
+  tier: 2
+  outlet: Esquire
+- url: https://campaignlegal.org/update/wilbur-ross-violated-ethics-rules-multi-year-investigation-clc-complaint-finds
+  title: Wilbur Ross Violated Ethics Rules, Multi-Year Investigation of CLC Complaint Finds
+  date: 2021-06-15
+  tier: 2
+  outlet: Campaign Legal Center
+- url: https://publicintegrity.org/politics/wilbur-ross-stock-holdings-divestment/
+  title: Wilbur Ross said he divested a stock holding — but he didn't
+  date: 2018-06-18
+  tier: 1
+  outlet: Center for Public Integrity
 ---
 
 The Commerce Department Inspector General found that Secretary Wilbur Ross lied to Congress about multiple issues, including the addition of a citizenship question to the 2020 Census and his divestment of Navigator Holdings stock. Ross twice told Congress the addition of the citizenship question was based solely on a request from the Justice Department, but the IG found Ross "misrepresented the full rationale" behind the decision. The IG presented its findings to the Justice Department's Public Integrity Section of the Criminal Division, but DOJ declined to pursue prosecution despite evidence of false statements to Congress.

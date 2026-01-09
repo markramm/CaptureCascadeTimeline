@@ -29,14 +29,13 @@ sources:
   date: '2025-02-27'
 - title: CFPB drops Capital One lawsuit and other cases launched under Biden
   url: https://www.washingtonpost.com/business/2025/02/27/cfpb-drops-capital-one-lawsuit-other-cases-launched-under-biden/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-02-27'
 - title: Trump Drops or Pauses Cases Against 17 Corporations That Funded His Inauguration
   url: https://truthout.org/articles/trump-drops-or-pauses-cases-against-17-corporations-that-funded-his-inauguration/
   outlet: Truthout
   date: '2025-04-21'
-- title: Trump's Inauguration Donor Pool Includes 0 Million from Corporations Under
-    Investigation
+- title: Trump's Inauguration Donor Pool Includes 0 Million from Corporations Under Investigation
   url: https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/
   outlet: Public Citizen
   date: '2025-03-12'

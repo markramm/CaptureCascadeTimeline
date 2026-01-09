@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.propublica.org/article/carried-interest-reform-is-a-sham
   title: Carried Interest Reform Is a Sham
-  publisher: ProPublica
   date: '2014-02-26'
   tier: 1
+  outlet: ProPublica
 - url: https://www.cnbc.com/2021/03/08/investment-firms-hire-lobbyists-as-lawmakers-target-tax-loopholes.html
   title: Investment firms hire lobbyists as lawmakers target tax loopholes
-  publisher: CNBC
   date: '2021-03-08'
   tier: 1
+  outlet: CNBC
 - url: https://thehill.com/business-a-lobbying/353959-gop-eyes-limits-on-investor-tax-break/
   title: GOP eyes limits on carried interest tax break
-  publisher: The Hill
   date: '2017-11-01'
   tier: 2
+  outlet: The Hill
 actors:
 - Dave Camp
 - House Ways and Means Committee

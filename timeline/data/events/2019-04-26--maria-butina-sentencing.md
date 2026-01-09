@@ -19,19 +19,19 @@ actors:
 sources:
 - title: Russian Agent Maria Butina Sentenced To 18 Months Following Guilty Plea
   url: https://www.npr.org/2019/04/26/716799929/russian-agent-maria-butina-to-be-sentenced-in-federal-court-on-friday
-  publisher: NPR
   date: '2019-04-26'
   tier: 1
+  outlet: NPR
 - title: Russian National Sentenced to 18 Months in Prison for Conspiring to Act As an Agent of the Russian Federation
   url: https://www.justice.gov/archives/opa/pr/russian-national-sentenced-18-months-prison-conspiring-act-agent-russian-federation-within
-  publisher: Department of Justice
   date: '2019-04-26'
   tier: 1
+  outlet: Department of Justice
 - title: Russian operative Maria Butina sentenced to 18 months in prison
   url: https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-sentenced-18-months-prison-n998866
-  publisher: NBC News
   date: '2019-04-26'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

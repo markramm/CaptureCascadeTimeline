@@ -4,10 +4,10 @@ date: '1981-12-01'
 title: CNP Completes "Three-Legged Stool" with Heritage and ALEC - Coordination Infrastructure Operational
 importance: 10
 tags:
-- CNP
+- cnp
 - conservative-movement
 - heritage-foundation
-- ALEC
+- alec
 - coordination
 - powell-memo-implementation
 - institutional-capture
@@ -17,7 +17,7 @@ actors:
 - ALEC
 - Paul Weyrich
 sources:
-- title: 'A Rare Peek Inside the Vast Right-Wing Conspiracy'
+- title: A Rare Peek Inside the Vast Right-Wing Conspiracy
   url: https://newrepublic.com/article/167002/council-national-policy-documents-right-wing-conspiracy
   publication: The New Republic
   date: '2020-12-10'

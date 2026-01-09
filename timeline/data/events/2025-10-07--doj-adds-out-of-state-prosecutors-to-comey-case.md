@@ -11,9 +11,9 @@ actors:
 sources:
 - title: DOJ adds out-of-state attorneys to Comey case ahead of arraignment
   url: https://abcnews.go.com/Politics/doj-adds-state-attorneys-comey-case-ahead-arraignment/story?id=125412983
-  publisher: ABC News
   date: '2025-10-07'
   tier: 1
+  outlet: ABC News
 tags:
 - doj-weaponization
 - political-prosecution

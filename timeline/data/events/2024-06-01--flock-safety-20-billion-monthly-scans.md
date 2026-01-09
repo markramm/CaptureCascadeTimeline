@@ -11,7 +11,7 @@ actors:
 - Electronic Frontier Foundation
 tags:
 - surveillance
-- ALPR
+- alpr
 - mass-surveillance
 - license-plate-readers
 - warrantless-surveillance

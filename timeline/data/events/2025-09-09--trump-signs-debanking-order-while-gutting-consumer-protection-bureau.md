@@ -1,8 +1,7 @@
 ---
 id: 2025-09-09--trump-signs-debanking-order-while-gutting-consumer-protection-bureau
 date: '2025-09-09'
-title: Trump Signs Anti-Debanking Order While Gutting Agency That Could Investigate
-  It
+title: Trump Signs Anti-Debanking Order While Gutting Agency That Could Investigate It
 importance: 8
 tags:
 - regulatory-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.propublica.org/article/trump-debanking-executive-order-cfpb-gutted
   title: Trump Dismantles Consumer Bureau While Promising Debanking Crackdown
-  publisher: ProPublica
   date: '2025-09-09'
   tier: 1
+  outlet: ProPublica
 actors:
 - Donald Trump
 - Consumer Financial Protection Bureau

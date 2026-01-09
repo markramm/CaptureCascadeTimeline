@@ -20,17 +20,17 @@ actors:
 sources:
 - url: https://en.wikipedia.org/wiki/Blackwater_(company)
   title: Blackwater (company)
-  publisher: Wikipedia
   tier: 3
+  outlet: Wikipedia
 - url: https://militarist-monitor.org/profile/blackwater_worldwide/
   title: Academi LLC (formerly Xe and Blackwater Worldwide)
-  publisher: Militarist Monitor
   tier: 3
+  outlet: Militarist Monitor
 - url: https://www.ryanjhite.com/2024/05/25/the-transformation-of-blackwater-a-journey-from-controversy-to-constellis-holdings/
   title: The Evolution of Blackwater - From Controversy to Constellis Holdings
-  publisher: Ryan J. Hite
   date: '2024-05-25'
   tier: 3
+  outlet: Ryan J. Hite
 status: confirmed
 ---
 

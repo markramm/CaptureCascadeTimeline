@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Larry Ellison's Oracle Started As a CIA Project
   url: https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238
-  publisher: Gizmodo
   date: '2014-10-03'
   tier: 2
+  outlet: Gizmodo
 - title: New Oracle center to tackle security, homeland defense
   url: https://www.computerworld.com/article/1352991/new-oracle-center-to-tackle-security-homeland-defense.html
-  publisher: Computerworld
   date: '2001-11-15'
   tier: 2
+  outlet: Computerworld
 - title: Oracle - Wikispooks
   url: https://wikispooks.com/wiki/Oracle
-  publisher: Wikispooks
   date: '2024-01-01'
   tier: 3
+  outlet: Wikispooks
 ---
 
 Oracle Corporation hired David W. Carney as Vice President of Information Assurance on September 4, 2001, just one week before the September 11 terrorist attacks, marking a significant deepening of Oracle's relationship with the U.S. intelligence community. Carney retired after 32 years at the Central Intelligence Agency, where he served as Executive Director—the agency's Chief Operating Officer and third-ranking position—before joining Oracle to head its newly established Information Assurance Center.

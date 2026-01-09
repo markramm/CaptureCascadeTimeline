@@ -4,30 +4,30 @@ date: 2017-01-01
 title: Amazon Pays Zero Federal Income Tax on $5.6 Billion Profit
 importance: 9
 tags:
-  - tax-avoidance
-  - corporate-welfare
-  - wealth-extraction
-  - billionaire-impunity
+- tax-avoidance
+- corporate-welfare
+- wealth-extraction
+- billionaire-impunity
 actors:
-  - Amazon
-  - Jeff Bezos
-  - Institute on Taxation and Economic Policy
+- Amazon
+- Jeff Bezos
+- Institute on Taxation and Economic Policy
 sources:
-  - url: https://itep.org/amazon-inc-paid-zero-in-federal-taxes-in-2017-gets-789-million-windfall-from-new-tax-law/
-    title: Amazon Inc. Paid Zero in Federal Taxes in 2017, Gets $789 Million Windfall from New Tax Law
-    publisher: Institute on Taxation and Economic Policy
-    date: 2018-02-12
-    tier: 1
-  - url: https://www.foxbusiness.com/markets/amazon-earned-5-6b-in-2017-but-paid-no-federal-taxes
-    title: Amazon earned $5.6B in 2017, but paid no federal taxes
-    publisher: Fox Business
-    date: 2019-04-04
-    tier: 2
-  - url: https://www.statista.com/chart/17049/amazons-us-pretax-profit-and-effective-tax-rate/
-    title: "Chart: Amazon Paid $0 In Federal Income Taxes Last Year"
-    publisher: Statista
-    date: 2019-02-15
-    tier: 2
+- url: https://itep.org/amazon-inc-paid-zero-in-federal-taxes-in-2017-gets-789-million-windfall-from-new-tax-law/
+  title: Amazon Inc. Paid Zero in Federal Taxes in 2017, Gets $789 Million Windfall from New Tax Law
+  date: 2018-02-12
+  tier: 1
+  outlet: Institute on Taxation and Economic Policy
+- url: https://www.foxbusiness.com/markets/amazon-earned-5-6b-in-2017-but-paid-no-federal-taxes
+  title: Amazon earned $5.6B in 2017, but paid no federal taxes
+  date: 2019-04-04
+  tier: 2
+  outlet: Fox Business
+- url: https://www.statista.com/chart/17049/amazons-us-pretax-profit-and-effective-tax-rate/
+  title: 'Chart: Amazon Paid $0 In Federal Income Taxes Last Year'
+  date: 2019-02-15
+  tier: 2
+  outlet: Statista
 ---
 
 Amazon reported $5.6 billion in U.S. profits for 2017 yet paid zero federal income tax, according to an analysis by the Institute on Taxation and Economic Policy (ITEP). The company used various tax credits and deductions—particularly tax breaks for executive stock options—to completely eliminate its federal tax liability while ordinary American workers paid effective rates of 10-25% on far smaller incomes. The same year, Amazon also received a $789 million windfall from the Trump tax cuts, further reducing future tax obligations.

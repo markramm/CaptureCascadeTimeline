@@ -4,12 +4,12 @@ date: '2025-11-12'
 title: Rep. Lauren Boebert Summoned to White House Situation Room Over Epstein Files Petition
 importance: 9
 tags:
-- Epstein
-- White House
-- Trump Administration
-- Intimidation
-- Abuse of Power
-- Congress
+- epstein
+- white house
+- trump administration
+- intimidation
+- abuse of power
+- congress
 - discharge-petition
 actors:
 - Lauren Boebert
@@ -21,24 +21,24 @@ actors:
 sources:
 - title: Lauren Boebert met with Trump administration in White House situation room about Epstein files
   url: https://coloradosun.com/2025/11/12/lauren-boebert-white-house-situation-room-meeting/
-  publisher: The Colorado Sun
   date: '2025-11-12'
   tier: 2
-- title: "'The View': Alyssa Farah Griffin Says It's 'Unheard Of' for Lauren Boebert to Be Taken to the Situation Room for Epstein File Meeting"
+  outlet: The Colorado Sun
+- title: '''The View'': Alyssa Farah Griffin Says It''s ''Unheard Of'' for Lauren Boebert to Be Taken to the Situation Room for Epstein File Meeting'
   url: https://www.thewrap.com/the-view-lauren-boebert-situation-room-epstein-files-unheard-of/
-  publisher: The Wrap
   date: '2025-11-14'
   tier: 2
-- title: "'I guess I'm pretty high profile': Lauren Boebert defends Trump's 'weird' decision to hold Epstein crisis talks in Situation Room"
+  outlet: The Wrap
+- title: '''I guess I''m pretty high profile'': Lauren Boebert defends Trump''s ''weird'' decision to hold Epstein crisis talks in Situation Room'
   url: https://www.aol.com/articles/guess-m-pretty-high-profile-173917707.html
-  publisher: AOL News
   date: '2025-11-14'
   tier: 2
-- title: "'Gang of Four' firm on Epstein files amid Trump pressure"
+  outlet: AOL News
+- title: '''Gang of Four'' firm on Epstein files amid Trump pressure'
   url: https://www.rte.ie/news/analysis-and-comment/2025/1115/1544119-us-epstein/
-  publisher: RTE
   date: '2025-11-15'
   tier: 2
+  outlet: RTE
 status: confirmed
 ---
 

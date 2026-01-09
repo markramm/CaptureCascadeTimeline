@@ -1,8 +1,7 @@
 ---
 id: 2017-01-27--trump-muslim-ban-executive-order-13769-chaos-at-airports
 date: '2017-01-27'
-title: Trump Signs Muslim Ban (Executive Order 13769) Causing Airport Chaos and Mass
-  Visa Revocations
+title: Trump Signs Muslim Ban (Executive Order 13769) Causing Airport Chaos and Mass Visa Revocations
 importance: 10
 tags:
 - muslim-ban
@@ -19,20 +18,19 @@ actors:
 sources:
 - url: https://www.federalregister.gov/documents/2017/02/01/2017-02281/protecting-the-nation-from-foreign-terrorist-entry-into-the-united-states
   title: 'Executive Order 13769: Protecting the Nation From Foreign Terrorist Entry'
-  publisher: Federal Register
   date: '2017-02-01'
   tier: 1
+  outlet: Federal Register
 - url: https://www.pbs.org/newshour/politics/acting-attorney-general-tells-doj-staff-not-defend-trump-refugee-order
-  title: Trump replaces acting attorney general Yates after she orders DOJ to stop
-    defending refugee ban
-  publisher: PBS
+  title: Trump replaces acting attorney general Yates after she orders DOJ to stop defending refugee ban
   date: '2017-01-30'
   tier: 1
+  outlet: PBS
 - url: https://www.npr.org/2017/01/30/512534805/justice-department-wont-defend-trumps-immigration-order
   title: Trump Fires Acting Attorney General For Refusing To Defend Immigration Order
-  publisher: NPR
   date: '2017-01-30'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

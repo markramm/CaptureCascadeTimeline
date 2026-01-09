@@ -4,34 +4,34 @@ date: '2021-02-13'
 title: Senate Votes 55-45 to Call Witnesses, Then Reverses After McConnell Threatens Delay
 importance: 8
 tags:
-  - Impeachment
-  - Senate Trial
-  - Kevin McCarthy
-  - January 6 Attack
-  - Witness Testimony
+- impeachment
+- senate trial
+- kevin mccarthy
+- january 6 attack
+- witness testimony
 actors:
-  - Jaime Herrera Beutler
-  - Kevin McCarthy
-  - Donald Trump
-  - Jamie Raskin
-  - Mitch McConnell
-  - Michael van der Veen
+- Jaime Herrera Beutler
+- Kevin McCarthy
+- Donald Trump
+- Jamie Raskin
+- Mitch McConnell
+- Michael van der Veen
 sources:
-  - url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967623840/senate-voting-on-whether-to-call-witnesses-in-impeachment-trial
-    title: Senate Votes To Call Witnesses In Trump's Impeachment Trial
-    publisher: NPR
-    date: '2021-02-13'
-    tier: 1
-  - url: https://www.seattletimes.com/nation-world/nation-politics/herrera-beutler-says-mccarthy-told-her-trump-sided-with-capitol-mob/
-    title: Herrera Beutler says McCarthy told her Trump sided with Capitol mob
-    publisher: Seattle Times
-    date: '2021-02-13'
-    tier: 1
-  - url: https://www.cnbc.com/2021/02/13/senate-votes-in-favor-of-calling-witnesses-in-trump-impeachment-trial.html
-    title: Senate nears verdict in Trump impeachment trial after moving ahead without witnesses
-    publisher: CNBC
-    date: '2021-02-13'
-    tier: 1
+- url: https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/13/967623840/senate-voting-on-whether-to-call-witnesses-in-impeachment-trial
+  title: Senate Votes To Call Witnesses In Trump's Impeachment Trial
+  date: '2021-02-13'
+  tier: 1
+  outlet: NPR
+- url: https://www.seattletimes.com/nation-world/nation-politics/herrera-beutler-says-mccarthy-told-her-trump-sided-with-capitol-mob/
+  title: Herrera Beutler says McCarthy told her Trump sided with Capitol mob
+  date: '2021-02-13'
+  tier: 1
+  outlet: Seattle Times
+- url: https://www.cnbc.com/2021/02/13/senate-votes-in-favor-of-calling-witnesses-in-trump-impeachment-trial.html
+  title: Senate nears verdict in Trump impeachment trial after moving ahead without witnesses
+  date: '2021-02-13'
+  tier: 1
+  outlet: CNBC
 status: confirmed
 ---
 

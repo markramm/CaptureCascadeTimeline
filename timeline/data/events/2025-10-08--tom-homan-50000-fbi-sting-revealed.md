@@ -10,18 +10,16 @@ actors:
 - Emil Bove
 - DOJ
 sources:
-- title: Tom Homan Was Said to Have Received $50,000 From Agents. He May Not Have
-    to Return It.
+- title: Tom Homan Was Said to Have Received $50,000 From Agents. He May Not Have to Return It.
   url: https://www.nytimes.com/2025/10/08/us/politics/tom-homan-fbi-investigation.html
-  publisher: New York Times
   date: '2025-10-08'
   tier: 1
-- title: 'DOJ ended probe of ''border czar'' Tom Homan for allegedly accepting $50K
-    in FBI sting: Sources'
+  outlet: The New York Times
+- title: 'DOJ ended probe of ''border czar'' Tom Homan for allegedly accepting $50K in FBI sting: Sources'
   url: https://abcnews.go.com/Politics/doj-ended-probe-border-czar-tom-homan-allegedly/story?id=125781386
-  publisher: ABC News
   date: '2025-10-08'
   tier: 1
+  outlet: ABC News
 tags:
 - systematic-corruption
 - obstruction-of-justice

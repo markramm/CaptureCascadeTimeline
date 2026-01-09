@@ -16,20 +16,20 @@ actors:
 - Defense Industry
 sources:
 - url: https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/
-  title: "'Battle-tested in Ukraine' — How US drone makers turned Ukraine into a tagline to sell west"
-  publisher: Kyiv Independent
+  title: '''Battle-tested in Ukraine'' — How US drone makers turned Ukraine into a tagline to sell west'
   date: '2024-08-20'
   tier: 2
+  outlet: Kyiv Independent
 - url: https://www.ploughshares.ca/publications/ukraines-battle-tested-tech
   title: Ukraine's battle-tested tech
-  publisher: Project Ploughshares
   date: '2024-09-15'
   tier: 2
+  outlet: Project Ploughshares
 - url: https://www.aspistrategist.org.au/the-underexploited-potential-of-ukrainian-defence-tech/
   title: The underexploited potential of Ukrainian defence tech
-  publisher: The Strategist (ASPI)
   date: '2025-02-10'
   tier: 2
+  outlet: The Strategist (ASPI)
 ---
 
 By mid-2024, U.S. defense contractors and surveillance technology companies began systematically marketing their systems as "battle-tested in Ukraine," transforming the ongoing war into a real-world demonstration and validation platform for AI-powered surveillance, autonomous weapons, and data analytics tools. Companies including Anduril Industries, Palantir Technologies, and Clearview AI explicitly used their Ukraine deployments as proof-of-concept for selling similar systems to Western militaries, law enforcement agencies, and government bodies. The Kyiv Independent reported in August 2024 that "Ukraine's rapid escalation of warfare technology has drawn the keen interest of allied countries and international corporations eager to take advantage of a lucrative opportunity to market their technologies as 'battle-tested.'"

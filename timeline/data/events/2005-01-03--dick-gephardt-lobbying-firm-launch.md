@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://www.gephardtgroup.com/About-Us
   title: About Us - Gephardt Group
-  publisher: Gephardt Group
   date: '2024-01-01'
   tier: 3
+  outlet: Gephardt Group
 - url: https://www.influencewatch.org/person/dick-gephardt/
   title: Dick Gephardt
-  publisher: InfluenceWatch
   date: '2024-01-01'
   tier: 2
+  outlet: InfluenceWatch
 - url: https://www.gephardtdc.com/our-team/the-honorable-richard-a-gephardt/
   title: The Honorable Richard A. Gephardt
-  publisher: Gephardt Government Affairs
   date: '2024-01-01'
   tier: 3
+  outlet: Gephardt Government Affairs
 actors:
 - Dick Gephardt
 - Gephardt Group

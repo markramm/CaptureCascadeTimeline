@@ -8,10 +8,10 @@ id: 2025-10-27--snap-benefits-terminated-shutdown
 importance: 9
 sources:
 - date: '2025-10-27'
-  publisher: CBS News
   tier: 1
   title: Federal Food Aid Ends November 1 Despite Available Contingency Funds
   url: https://www.cbsnews.com/news/snap-benefits-terminated-shutdown-trump/
+  outlet: CBS News
 status: confirmed
 tags:
 - abuse-of-power

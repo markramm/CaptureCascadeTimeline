@@ -23,10 +23,9 @@ sources:
   date: '1992-12-01'
 - title: Clifford, Altman Settle BCCI Case
   url: https://www.washingtonpost.com/archive/politics/1998/02/04/clifford-altman-settle-bcci-case/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '1998-02-04'
-- title: Clark M. Clifford and Robert A. Altman, Appellants, v. United States of America
-    Legal Proceedings
+- title: Clark M. Clifford and Robert A. Altman, Appellants, v. United States of America Legal Proceedings
   url: https://law.justia.com/cases/federal/appellate-courts/F3/136/144/553676/
   outlet: Federal Court of Appeals
   date: '1998-01-01'

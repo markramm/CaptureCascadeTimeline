@@ -4,22 +4,22 @@ date: '2014-01-01'
 title: Tony Perkins Serves as CNP Vice President - Family Research Council Integration
 importance: 8
 tags:
-- CNP
+- cnp
 - conservative-movement
 - religious-right
 - coordination
-- anti-LGBTQ
+- anti-lgbtq
 actors:
 - Tony Perkins
 - Family Research Council
 - Council for National Policy
 sources:
-- title: 'Tony Perkins'
+- title: Tony Perkins
   url: https://www.splcenter.org/fighting-hate/extremist-files/individual/tony-perkins
   publication: Southern Poverty Law Center
   date: '2024-11-10'
   tier: 1
-- title: 'Council for National Policy'
+- title: Council for National Policy
   url: https://persagen.org/docs/council_for_national_policy.html
   publication: Persagen
   date: '2024-11-10'

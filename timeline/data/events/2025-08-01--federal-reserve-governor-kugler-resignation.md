@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--federal-reserve-governor-kugler-resignation
 date: '2025-08-01'
-title: Federal Reserve Governor Adriana Kugler Resigns Early, Opening Seat for Trump
-  Appointee
+title: Federal Reserve Governor Adriana Kugler Resigns Early, Opening Seat for Trump Appointee
 importance: 8
 actors:
 - Adriana Kugler
@@ -15,22 +14,20 @@ tags:
 - political-pressure
 sources:
 - url: https://www.federalreserve.gov/newsevents/pressreleases/other20250801a.htm
-  title: Adriana D. Kugler submits resignation as a member of the Federal Reserve
-    Board
-  publisher: Federal Reserve Board
+  title: Adriana D. Kugler submits resignation as a member of the Federal Reserve Board
   date: '2025-08-01'
   tier: 1
+  outlet: Federal Reserve Board
 - url: https://www.cnn.com/2025/08/01/business/federal-reserve-kugler-trump-powell
   title: A Fed governor is resigning, opening a spot for a Trump appointee
-  publisher: CNN
   date: '2025-08-01'
   tier: 2
+  outlet: CNN
 - url: https://www.cnbc.com/2025/08/01/federal-reserve-governor-kugler-part-of-the-committee-that-sets-interest-rates-is-resigning.html
-  title: Fed Governor Kugler is resigning, giving Trump a nominee on committee that
-    sets interest rates
-  publisher: CNBC
+  title: Fed Governor Kugler is resigning, giving Trump a nominee on committee that sets interest rates
   date: '2025-08-01'
   tier: 2
+  outlet: CNBC
 ---
 
 Federal Reserve Governor Adriana D. Kugler submitted her resignation on August 1, 2025, effective August 8, stepping down months before her term was scheduled to end in January 2026. In her resignation letter addressed to President Trump, Kugler offered no explanation for her early departure, stating only that she would return to Georgetown University as a professor. She had served as a governor since September 13, 2023, after being nominated by President Biden and confirmed by the Senate in an 86-8 bipartisan vote.

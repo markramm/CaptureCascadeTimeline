@@ -4,37 +4,37 @@ date: 2020-02-05
 title: Senate Acquits Trump Despite Proven Abuse of Power; Romney Only Republican to Convict
 importance: 10
 tags:
-  - First Impeachment
-  - Senate Trial
-  - Acquittal
-  - Republican Complicity
-  - Romney
+- first impeachment
+- senate trial
+- acquittal
+- republican complicity
+- romney
 actors:
-  - Mitch McConnell
-  - Mitt Romney
-  - Donald Trump
-  - Senate Republicans
+- Mitch McConnell
+- Mitt Romney
+- Donald Trump
+- Senate Republicans
 sources:
-  - url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00034.htm
-    title: "Senate Vote 34 - Article I: Abuse of Power"
-    publisher: U.S. Senate
-    date: 2020-02-05
-    tier: 1
-  - url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00035.htm
-    title: "Senate Vote 35 - Article II: Obstruction of Congress"
-    publisher: U.S. Senate
-    date: 2020-02-05
-    tier: 1
-  - url: https://www.c-span.org/video/?469080-1/senate-acquits-president-trump-abuse-power-charge
-    title: Senate Acquits President Trump on Abuse of Power Charge
-    publisher: C-SPAN
-    date: 2020-02-05
-    tier: 1
-  - url: https://www.npr.org/2020/02/05/803251156/read-sen-mitt-romneys-full-speech-on-his-vote-to-convict-trump
-    title: "Read Sen. Mitt Romney's Full Speech On His Vote To Convict Trump"
-    publisher: NPR
-    date: 2020-02-05
-    tier: 1
+- url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00034.htm
+  title: 'Senate Vote 34 - Article I: Abuse of Power'
+  date: 2020-02-05
+  tier: 1
+  outlet: U.S. Senate
+- url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00035.htm
+  title: 'Senate Vote 35 - Article II: Obstruction of Congress'
+  date: 2020-02-05
+  tier: 1
+  outlet: U.S. Senate
+- url: https://www.c-span.org/video/?469080-1/senate-acquits-president-trump-abuse-power-charge
+  title: Senate Acquits President Trump on Abuse of Power Charge
+  date: 2020-02-05
+  tier: 1
+  outlet: C-SPAN
+- url: https://www.npr.org/2020/02/05/803251156/read-sen-mitt-romneys-full-speech-on-his-vote-to-convict-trump
+  title: Read Sen. Mitt Romney's Full Speech On His Vote To Convict Trump
+  date: 2020-02-05
+  tier: 1
+  outlet: NPR
 ---
 
 The Senate voted to acquit President Donald Trump on both impeachment articles on February 5, 2020, despite overwhelming evidence that he abused his power by pressuring Ukraine to announce investigations into Joe Biden while withholding military aid. On Article I (Abuse of Power), the vote was 48-52, with Senator Mitt Romney becoming the first senator in U.S. history to vote to convict a president of his own party. On Article II (Obstruction of Congress), the vote was 47-53, with all Republicans voting to acquit. The acquittal came after a trial without witnesses or documents, conducted with the outcome predetermined by Senate Republicans who prioritized partisan loyalty over constitutional duty.

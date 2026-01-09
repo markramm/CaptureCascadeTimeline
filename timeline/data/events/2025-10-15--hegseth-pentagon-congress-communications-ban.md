@@ -1,8 +1,7 @@
 ---
 id: 2025-10-15--hegseth-pentagon-congress-communications-ban
 date: '2025-10-15'
-title: Pentagon Chief Hegseth Blocks Military Officials From Contacting Congress Without
-  Approval
+title: Pentagon Chief Hegseth Blocks Military Officials From Contacting Congress Without Approval
 importance: 9
 tags:
 - congressional-oversight
@@ -11,23 +10,21 @@ tags:
 - obstruction
 - military-accountability
 sources:
-- title: Hegseth restricts military officials from talking to Congress without prior
-    approval
+- title: Hegseth restricts military officials from talking to Congress without prior approval
   url: https://abcnews.go.com/Politics/hegseth-restricts-military-officials-talking-congress-prior-approval/story?id=127148481
-  publisher: ABC News
   date: '2025-10-22'
   tier: 1
-- title: Hegseth orders prior approval for 'all interactions' between military officials
-    and Congress
+  outlet: ABC News
+- title: Hegseth orders prior approval for 'all interactions' between military officials and Congress
   url: https://www.cnn.com/2025/10/22/politics/hegseth-limit-congress-communication
-  publisher: CNN
   date: '2025-10-22'
   tier: 1
+  outlet: CNN
 - title: After leaks, Hegseth limits Pentagon staff's interaction with Congress
   url: https://www.axios.com/2025/10/21/hegseth-pentagon-limits-congress-access-information
-  publisher: Axios
   date: '2025-10-21'
   tier: 2
+  outlet: Axios
 actors:
 - Pete Hegseth
 - Steve Feinberg

@@ -4,30 +4,30 @@ date: 2005-07-13
 title: WorldCom CEO Bernard Ebbers Sentenced to 25 Years in Prison
 importance: 10
 tags:
-  - corporate-fraud
-  - worldcom
-  - criminal-prosecution
-  - securities-fraud
-  - corporate-accountability
+- corporate-fraud
+- worldcom
+- criminal-prosecution
+- securities-fraud
+- corporate-accountability
 actors:
-  - Bernard Ebbers
-  - Department of Justice
+- Bernard Ebbers
+- Department of Justice
 sources:
-  - url: https://www.npr.org/2005/07/13/4752469/ebbers-sentenced-to-25-years-for-fraud
-    title: "Ebbers Sentenced to 25 Years for Fraud"
-    publisher: NPR
-    date: 2005-07-13
-    tier: 1
-  - url: https://www.justice.gov/usao-sdny/united-states-v-bernard-ebbers
-    title: "United States v. Bernard Ebbers"
-    publisher: U.S. Department of Justice
-    date: 2005-07-13
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/Bernard_Ebbers
-    title: "Bernard Ebbers"
-    publisher: Wikipedia
-    date: 2005-07-13
-    tier: 2
+- url: https://www.npr.org/2005/07/13/4752469/ebbers-sentenced-to-25-years-for-fraud
+  title: Ebbers Sentenced to 25 Years for Fraud
+  date: 2005-07-13
+  tier: 1
+  outlet: NPR
+- url: https://www.justice.gov/usao-sdny/united-states-v-bernard-ebbers
+  title: United States v. Bernard Ebbers
+  date: 2005-07-13
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://en.wikipedia.org/wiki/Bernard_Ebbers
+  title: Bernard Ebbers
+  date: 2005-07-13
+  tier: 2
+  outlet: Wikipedia
 ---
 
 On July 13, 2005, former WorldCom CEO Bernard Ebbers was sentenced to 25 years in federal prison for orchestrating the largest corporate accounting fraud in American history. The sentence, handed down by U.S. District Judge Barbara Jones in Manhattan, represented one of the harshest penalties ever imposed on a corporate executive and marked the peak of the post-Enron era of executive accountability.

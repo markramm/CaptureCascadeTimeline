@@ -3,27 +3,25 @@ id: 2005-01-01--in-q-tel-cia-invests-palantir
 date: '2005-01-01'
 title: CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
 importance: 9
+actors:
+- In-Q-Tel
+- Central Intelligence Agency
+- Palantir Technologies
 tags:
 - palantir
 - cia
 - in-q-tel
 - surveillance-infrastructure
 - intelligence-privatization
-actors:
-- In-Q-Tel
-- Central Intelligence Agency
-- Palantir Technologies
 sources:
-- url: https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af
-  title: 'Palantir''s Growth Story: How the Magic of Data Analysis Is Changing the
-    World'
-  publisher: Medium
+- title: 'Palantir''s Growth Story: How the Magic of Data Analysis Is Changing the World'
+  url: https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af
+  outlet: Medium
   date: '2025-03-21'
   tier: 3
-- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
-  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
-    Earth
-  publisher: Fortune
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
   date: '2025-07-29'
   tier: 2
 ---

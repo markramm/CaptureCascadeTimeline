@@ -20,35 +20,35 @@ id: 2025-12-05--npr-court-hearing-first-amendment-trump-executive-order
 importance: 9
 sources:
 - date: '2025-12-05'
-  publisher: NPR
   tier: 1
   title: NPR fights Trump's executive order against public media
   url: https://www.npr.org/2025/12/05/g-s1-100844/npr-battles-trump-executive-order-in-court
+  outlet: NPR
 - date: '2025-05-27'
-  publisher: PBS
   tier: 1
   title: NPR sues Trump administration over executive order to cut funding to public media
   url: https://www.pbs.org/newshour/politics/npr-sues-trump-administration-over-executive-order-to-cut-funding-to-public-media
+  outlet: PBS
 - date: '2025-05-27'
-  publisher: CBS News
   tier: 1
   title: NPR sues Trump over executive order slashing federal funding
   url: https://www.cbsnews.com/news/npr-sues-trump-over-executive-order-slashing-funding/
+  outlet: CBS News
 - date: '2025-05-28'
-  publisher: Knight First Amendment Institute
   tier: 1
   title: NPR Lawsuit Challenging Trump Executive Order Cutting Federal Funding Should Prevail on Free Speech and Press Freedom Grounds
   url: https://knightcolumbia.org/content/npr-lawsuit-challenging-trump-executive-order-cutting-federal-funding-should-prevail-on-free-speech-and-press-freedom-grounds-knight-institute-says
+  outlet: Knight First Amendment Institute
 - date: '2025-05-27'
-  publisher: ACLU
   tier: 1
   title: Trump's Attacks on Press Freedom Escalate - NPR, PBS Funding Cuts Explained
   url: https://www.aclu.org/news/free-speech/trumps-attacks-on-press-freedom-escalate-npr-pbs-funding-cuts-explained
+  outlet: ACLU
 status: confirmed
 tags:
 - press-freedom
-- First-Amendment
-- NPR
+- first-amendment
+- npr
 - media-intimidation
 - political-retaliation
 - public-media

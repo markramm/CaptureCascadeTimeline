@@ -22,7 +22,7 @@ sources:
   date: '2016-07-27'
 - title: Only in Palm Beach—The $95 Million Tear-Down
   url: https://www.nytimes.com/2016/08/28/realestate/donald-trump-palm-beach-mansion-tear-down.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2016-08-27'
 - title: Senator probes Trump's $95 million Palm Beach mansion sale
   url: https://abcnews.go.com/Politics/follow-money-senator-probes-trumps-95-million-palm/story?id=52970095
@@ -38,8 +38,7 @@ sources:
   outlet: Seattle Times
   date: '2018-01-01'
   archive_url: https://web.archive.org/web/20240101000000/https://www.seattletimes.com/nation-world/why-did-a-russian-pay-95m-to-buy-trumps-palm-beach-mansion/
-notes: 'Price and timing confirmed by property reporting. High price drew scrutiny;
-  a
+notes: 'Price and timing confirmed by property reporting. High price drew scrutiny; a
 
   Senate inquiry sought records but found no public allegation of illegality.
 

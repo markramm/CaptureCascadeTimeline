@@ -11,14 +11,14 @@ actors:
 sources:
 - title: Elon Musk's SpaceX and xAI are buying Tesla's unsold Cybertrucks
   url: https://electrek.co/2025/10/13/elon-musks-spacex-and-xai-are-buying-teslas-unsold-cybertrucks/
-  publisher: Electrek
   date: '2025-10-13'
   tier: 2
+  outlet: Electrek
 - title: SpaceX & xAI bail out lagging Cybertruck orders
   url: https://www.electrive.com/2025/10/15/spacex-xai-bail-out-lagging-cybertruck-orders/
-  publisher: Electrive
   date: '2025-10-15'
   tier: 3
+  outlet: Electrive
 tags:
 - tesla
 - spacex

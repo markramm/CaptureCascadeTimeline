@@ -18,24 +18,24 @@ actors:
 sources:
 - url: https://www.scmp.com/news/china/politics/article/2185588/blackwaters-erik-prince-china-and-new-controversy-over-xinjiang
   title: Blackwater's Erik Prince, China and a new controversy over Xinjiang
-  publisher: South China Morning Post
   date: '2019-02-02'
   tier: 1
+  outlet: South China Morning Post
 - url: https://www.washingtonpost.com/news/world/wp/2018/05/04/feature/a-warrior-goes-to-china-did-erik-prince-cross-a-line/
   title: A warrior goes to China - Did Erik Prince cross a line?
-  publisher: Washington Post
   date: '2018-05-04'
   tier: 1
+  outlet: The Washington Post
 - url: https://www.npr.org/2019/02/04/691394262/china-business-ventures-tied-to-blackwater-founder-erik-prince-raise-questions
   title: China Business Ventures Tied To Blackwater Founder Erik Prince Raise Questions
-  publisher: NPR
   date: '2019-02-04'
   tier: 1
+  outlet: NPR
 - url: https://balloon-juice.com/2020/03/07/the-really-important-fact-about-erik-prince-that-everyones-coverage-keeps-missing-his-frontier-services-group-is-funded-by-the-peoples-republic-of-china/
   title: Frontier Services Group is Funded By the People's Republic of China
-  publisher: Balloon Juice
   date: '2020-03-07'
   tier: 3
+  outlet: Balloon Juice
 status: confirmed
 ---
 

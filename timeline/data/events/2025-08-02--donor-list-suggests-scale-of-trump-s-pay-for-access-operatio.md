@@ -2,9 +2,7 @@
 id: 2025-08-02--donor-list-suggests-scale-of-trump-s-pay-for-access-operatio
 date: '2025-08-02'
 title: Donor list suggests scale of Trump’s pay-for-access operation
-description: MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half
-  of this year from donors who have exchanged their patronage for access to the president–and,
-  at times, policy outcomes, pardons, and ambassadorships
+description: MAGA Inc., a pro-Trump super PAC, raised $177 million in the first half of this year from donors who have exchanged their patronage for access to the president–and, at times, policy outcomes, pardons, and ambassadorships
 status: confirmed
 importance: 10
 location: Washington, D.C.
@@ -18,10 +16,9 @@ capture_type: monetizing_position
 sources:
 - title: Donor list suggests scale of Trump’s pay-for-access operation
   url: https://www.nytimes.com/2025/08/02/us/politics/donor-list-suggests-scale-of-trumps-pay-for-access-operation.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-08-02'
-- title: Trump's super PAC raises a massive 177 million, bolstering his political
-    influence
+- title: Trump's super PAC raises a massive 177 million, bolstering his political influence
   url: https://www.nbcnews.com/politics/trump-administration/trumps-super-pac-raises-massive-177-million-bolstering-political-influ-rcna222400
   outlet: NBC News
   date: '2025-08-01'
@@ -29,8 +26,7 @@ sources:
   url: https://www.thedailybeast.com/trump-pac-filing-reveals-pay-for-access-scheme/
   outlet: The Daily Beast
   date: '2025-08-02'
-- title: Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire
-    Influence Buyers
+- title: Trump's MAGA Inc. SuperPAC Donor List is Littered with Corporate and Billionaire Influence Buyers
   url: https://www.citizen.org/news/trumps-maga-inc-superpac-donor-list-is-littered-with-corporate-and-billionaire-influence-buyers/
   outlet: Public Citizen
   date: '2025-08-02'

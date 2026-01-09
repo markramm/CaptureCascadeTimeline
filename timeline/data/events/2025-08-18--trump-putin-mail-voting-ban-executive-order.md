@@ -14,19 +14,19 @@ tags:
 sources:
 - url: https://www.nbcnews.com/politics/donald-trump/trump-reignites-push-ban-mail-voting-meeting-putin-rcna225570
   title: Trump reignites his push to ban mail-in voting after meeting with Putin
-  publisher: NBC News
   date: '2025-08-18'
   tier: 1
+  outlet: NBC News
 - url: https://www.axios.com/2025/08/18/trump-mail-in-voting-putin
   title: Trump floats mail-in voting ban after saying Putin called 2020 election rigged
-  publisher: Axios
   date: '2025-08-18'
   tier: 2
+  outlet: Axios
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-211
   title: 'Trump Tyranny Tracker: Day 211'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-25'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Trump announced plans to sign an executive order ending mail-in voting and targeting voting machines for the 2026 midterms, citing Vladimir Putin's claim that postal ballots 'rigged' the 2020 election. Trump told Fox News that Putin said during their Alaska summit 'Your election was rigged because you have mail-in voting.'

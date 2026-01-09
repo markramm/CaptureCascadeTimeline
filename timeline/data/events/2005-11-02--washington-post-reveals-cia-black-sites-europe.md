@@ -21,24 +21,24 @@ tags:
 sources:
 - title: CIA Holds Terror Suspects in Secret Prisons
   url: https://www.washingtonpost.com/wp-dyn/content/article/2005/11/01/AR2005110101644.html
-  publisher: Washington Post
   date: '2005-11-02'
   tier: 1
+  outlet: The Washington Post
 - title: CIA Black Sites
   url: https://en.wikipedia.org/wiki/CIA_black_sites
-  publisher: Wikipedia (sourced from ECHR rulings)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from ECHR rulings)
 - title: European Complicity in CIA Torture in Black Sites
   url: https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/
-  publisher: Amnesty International
   date: '2020-02-14'
   tier: 1
+  outlet: Amnesty International
 - title: Lithuania and Romania Complicit for Hosting CIA Black Sites
   url: https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/
-  publisher: Verfassungsblog
   date: '2018-06-07'
   tier: 2
+  outlet: Verfassungsblog
 ---
 
 Washington Post journalist Dana Priest publishes a groundbreaking investigation revealing the CIA operates a "hidden global internment network" of secret prisons, including facilities in "several democracies in Eastern Europe." The article exposes the existence of CIA black sites where terrorism suspects are held indefinitely without legal process and subjected to interrogation techniques that amount to torture. The revelation triggers international controversy and forces unprecedented public scrutiny of America's post-9/11 detention practices.

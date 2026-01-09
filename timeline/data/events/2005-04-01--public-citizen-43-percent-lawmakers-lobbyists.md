@@ -11,19 +11,19 @@ tags:
 sources:
 - url: https://www.citizen.org/news/the_dizzying_sp/
   title: The Dizzying Spin of the Revolving Door
-  publisher: Public Citizen
   date: '2005-04-01'
   tier: 1
+  outlet: Public Citizen
 - url: https://www.citizen.org/news/members-of-congress-increasingly-use-revolving-door-to-launch-lucrative-lobbying-careers/
   title: Members of Congress Increasingly Use Revolving Door to Launch Lucrative Lobbying Careers
-  publisher: Public Citizen
   date: '2011-01-01'
   tier: 1
+  outlet: Public Citizen
 - url: https://www.opensecrets.org/revolving-door
   title: Revolving Door - Overview
-  publisher: OpenSecrets
   date: '2024-01-01'
   tier: 1
+  outlet: OpenSecrets
 actors:
 - Public Citizen
 - Congress

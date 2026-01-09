@@ -4,38 +4,38 @@ date: 2017-06-09
 title: Office of Special Counsel Finds White House Social Media Director Dan Scavino Violated Hatch Act with Political Tweet Attacking Congressman
 importance: 7
 tags:
-  - Hatch Act
-  - Ethics Violations
-  - Dan Scavino
-  - Social Media
-  - Trump Administration
-  - Justin Amash
+- hatch act
+- ethics violations
+- dan scavino
+- social media
+- trump administration
+- justin amash
 actors:
-  - Dan Scavino
-  - Donald Trump
-  - Justin Amash
-  - Office of Special Counsel
+- Dan Scavino
+- Donald Trump
+- Justin Amash
+- Office of Special Counsel
 sources:
-  - url: https://www.washingtonpost.com/news/post-politics/wp/2017/06/09/white-house-social-media-director-dan-scavino-violated-hatch-act-with-tweet-targeting-gop-congressman/
-    title: White House social-media director Dan Scavino violated Hatch Act with tweet targeting GOP congressman
-    publisher: The Washington Post
-    date: 2017-06-09
-    tier: 1
-  - url: https://www.nbcnews.com/politics/politics-news/dan-scavino-white-house-social-media-director-violated-hatch-act-n770461
-    title: Dan Scavino, White House Social Media Director, Violated Hatch Act - OSC
-    publisher: NBC News
-    date: 2017-06-09
-    tier: 1
-  - url: https://www.citizensforethics.org/news/press-releases/scavino-reprimanded-hatch-act-violation/
-    title: Scavino reprimanded for Hatch Act violation
-    publisher: Citizens for Responsibility and Ethics in Washington (CREW)
-    date: 2017-06-09
-    tier: 2
-  - url: https://abcnews.go.com/Politics/white-house-social-media-director-reprimanded-political-tweet/story?id=47941037
-    title: White House social media director reprimanded over political tweet
-    publisher: ABC News
-    date: 2017-06-09
-    tier: 1
+- url: https://www.washingtonpost.com/news/post-politics/wp/2017/06/09/white-house-social-media-director-dan-scavino-violated-hatch-act-with-tweet-targeting-gop-congressman/
+  title: White House social-media director Dan Scavino violated Hatch Act with tweet targeting GOP congressman
+  date: 2017-06-09
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.nbcnews.com/politics/politics-news/dan-scavino-white-house-social-media-director-violated-hatch-act-n770461
+  title: Dan Scavino, White House Social Media Director, Violated Hatch Act - OSC
+  date: 2017-06-09
+  tier: 1
+  outlet: NBC News
+- url: https://www.citizensforethics.org/news/press-releases/scavino-reprimanded-hatch-act-violation/
+  title: Scavino reprimanded for Hatch Act violation
+  date: 2017-06-09
+  tier: 2
+  outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+- url: https://abcnews.go.com/Politics/white-house-social-media-director-reprimanded-political-tweet/story?id=47941037
+  title: White House social media director reprimanded over political tweet
+  date: 2017-06-09
+  tier: 1
+  outlet: ABC News
 ---
 
 The U.S. Office of Special Counsel determined that White House Social Media Director Dan Scavino violated the Hatch Act when he used his position to call on Trump supporters to defeat Republican Congressman Justin Amash in a primary election. Although Scavino posted the tweet from his personal Twitter account, his profile identified him as holding an official White House position, making his political advocacy a prohibited use of official authority to influence an election. The OSC issued a warning letter stating that future violations would be considered "willful and knowing" violations of federal law.

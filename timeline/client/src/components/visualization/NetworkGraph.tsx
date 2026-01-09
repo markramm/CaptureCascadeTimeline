@@ -1,4 +1,4 @@
-import { useRef, useState, useMemo, useEffect } from 'react';
+import { useRef, useMemo, useEffect } from 'react';
 import { useUIStore } from '../../stores/uiStore';
 import * as d3 from 'd3';
 import { useLiveQuery } from 'dexie-react-hooks';
@@ -148,7 +148,7 @@ export function NetworkGraph({
                     .on('drag', dragged)
                     .on('end', dragEnded)
                 )
-                .on('click', (event: MouseEvent, d) => { // eslint-disable-line
+                .on('click', (event: MouseEvent, d) => {
                     event.stopPropagation();
                     selectEvent(d.id, event.shiftKey || event.metaKey);
                 });
@@ -329,12 +329,13 @@ export function NetworkGraph({
         });
 
         node.transition().duration(300)
-            .style('opacity', (d: any) => connectedIds.has(d.id) ? 1 : 0.1);
+            .style('opacity', (d: unknown) => connectedIds.has((d as GraphNode).id) ? 1 : 0.1);
 
         link.transition().duration(300)
-            .style('opacity', (l: any) => {
-                const sId = (typeof l.source === 'object') ? (l.source as GraphNode).id : l.source as string;
-                const tId = (typeof l.target === 'object') ? (l.target as GraphNode).id : l.target as string;
+            .style('opacity', (l: unknown) => {
+                const linkData = l as GraphLink;
+                const sId = (typeof linkData.source === 'object') ? (linkData.source as GraphNode).id : linkData.source as string;
+                const tId = (typeof linkData.target === 'object') ? (linkData.target as GraphNode).id : linkData.target as string;
                 return (connectedIds.has(sId) && connectedIds.has(tId)) ? 1 : 0.05;
             });
 

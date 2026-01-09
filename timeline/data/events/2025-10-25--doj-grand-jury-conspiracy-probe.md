@@ -13,10 +13,10 @@ id: 2025-10-25--doj-grand-jury-conspiracy-probe
 importance: 10
 sources:
 - date: '2025-10-25'
-  publisher: ABC News
   tier: 1
   title: Grand Jury Convened to Investigate 'Conspiracy Against Trump'
   url: https://abcnews.go.com/Politics/federal-grand-jury-trump-conspiracy-investigation/story
+  outlet: ABC News
 status: confirmed
 tags:
 - corruption

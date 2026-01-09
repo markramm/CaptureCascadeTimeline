@@ -4,28 +4,28 @@ date: 2022-08-24
 title: Biden Announces $10K-$20K Student Loan Forgiveness Plan - 43 Million Borrowers Eligible
 importance: 9
 tags:
-  - student-debt
-  - debt-relief
-  - joe-biden
+- student-debt
+- debt-relief
+- joe-biden
 actors:
-  - Joe Biden
-  - Miguel Cardona
+- Joe Biden
+- Miguel Cardona
 sources:
-  - url: https://www.npr.org/2022/08/24/1118879917/student-loan-forgiveness-biden
-    title: Biden to cancel up to $10K in student loan debt for borrowers making under $125K
-    publisher: NPR
-    date: 2022-08-24
-    tier: 1
-  - url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/
-    title: FACT SHEET - President Biden Announces Student Loan Relief for Borrowers Who Need It Most
-    publisher: The White House
-    date: 2022-08-24
-    tier: 1
-  - url: https://www.cnbc.com/2022/08/24/biden-cancels-up-to-20000-in-student-loan-debt-extends-payment-pause.html
-    title: Biden cancels up to $20,000 in student loan debt for millions of Americans
-    publisher: CNBC
-    date: 2022-08-24
-    tier: 2
+- url: https://www.npr.org/2022/08/24/1118879917/student-loan-forgiveness-biden
+  title: Biden to cancel up to $10K in student loan debt for borrowers making under $125K
+  date: 2022-08-24
+  tier: 1
+  outlet: NPR
+- url: https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/
+  title: FACT SHEET - President Biden Announces Student Loan Relief for Borrowers Who Need It Most
+  date: 2022-08-24
+  tier: 1
+  outlet: The White House
+- url: https://www.cnbc.com/2022/08/24/biden-cancels-up-to-20000-in-student-loan-debt-extends-payment-pause.html
+  title: Biden cancels up to $20,000 in student loan debt for millions of Americans
+  date: 2022-08-24
+  tier: 2
+  outlet: CNBC
 status: confirmed
 ---
 

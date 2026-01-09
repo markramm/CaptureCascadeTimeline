@@ -1,8 +1,7 @@
 ---
 id: 1988-01-01--maxwell-macmillan-publishers-acquisition-us-expansion
 date: '1988-01-01'
-title: Maxwell Acquires Macmillan Publishers, Expanding US Media Empire at Massive
-  Cost
+title: Maxwell Acquires Macmillan Publishers, Expanding US Media Empire at Massive Cost
 importance: 8
 location: United States
 actors:
@@ -41,7 +40,7 @@ sources:
   - Expanded media empire across multiple continents
 - title: 'Britain: Death of A Tycoon'
   url: https://time.com/archive/6719003/britain-death-of-a-tycoon/
-  outlet: Time Magazine
+  outlet: TIME
   verified: true
   key_facts_confirmed:
   - Maxwell's acquisition was motivated by rivalry with Rupert Murdoch

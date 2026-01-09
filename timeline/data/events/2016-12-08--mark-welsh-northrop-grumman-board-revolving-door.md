@@ -10,29 +10,29 @@ actors:
 - Wes Bush
 - Donald Trump
 tags:
-- Revolving Door
-- Military-Industrial Complex
-- Defense Contractors
-- Corruption
-- Pentagon Contracts
-- B-21 Bomber
-- Conflicts of Interest
+- revolving door
+- military-industrial complex
+- defense contractors
+- corruption
+- pentagon contracts
+- b-21 bomber
+- conflicts of interest
 sources:
 - url: https://news.northropgrumman.com/news/releases/northrop-grumman-elects-mark-a-welsh-iii-to-its-board-of-directors
   title: Northrop Grumman Elects Mark A. Welsh III to its Board of Directors
-  publisher: Northrop Grumman
   date: '2016-12-08'
   tier: 2
+  outlet: Northrop Grumman
 - url: https://www.military.com/dodbuzz/2016/12/09/revolving-door-air-force-chief-northrop
   title: Former Air Force Chief of Staff Joins Northrop
-  publisher: Military.com
   date: '2016-12-09'
   tier: 2
+  outlet: Military.com
 - url: https://www.twz.com/6416/just-retired-usaf-head-honcho-joins-board-of-big-defense-contractor
   title: Just-Retired USAF Head Honcho Joins Board of Big Defense Contractor
-  publisher: The War Zone
   date: '2016-12-09'
   tier: 2
+  outlet: The War Zone
 ---
 
 Retired General Mark Welsh joined Northrop Grumman's board of directors just five months after retiring as Air Force Chief of Staff and barely one year after the company won the $21.4 billion initial contract to build the B-21 Raider next-generation stealth bomber, exemplifying the revolving door between Pentagon leadership and defense contractors that enables corruption and creates conflicts of interest in weapons procurement. The appointment came as President-elect Donald Trump was publicly criticizing the Pentagon's revolving door practices, highlighting how the nation's top Air Force officer transitioned directly into a lucrative board position with a company that had just secured one of the largest defense contracts in history under his watch.

@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.congress.gov/event/116th-congress/house-event/LC64569/text
   title: Examining the Oil Industry's Efforts to Suppress the Truth About Climate Change
-  publisher: Congress.gov
   date: '2019-01-01'
   tier: 1
+  outlet: Congress.gov
 - url: https://www.budget.senate.gov/imo/media/doc/fossil_fuel_report1.pdf
   title: Denial, Disinformation, and Doublespeak - Big Oil's Campaign
-  publisher: U.S. Senate Budget Committee
   date: '2024-04-30'
   tier: 1
+  outlet: U.S. Senate Budget Committee
 - url: https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/
   title: Oil companies discourage climate action, study says
-  publisher: Harvard Gazette
   date: '2021-09-01'
   tier: 1
+  outlet: Harvard Gazette
 actors:
 - House Energy and Commerce Committee
 - Dick Cheney

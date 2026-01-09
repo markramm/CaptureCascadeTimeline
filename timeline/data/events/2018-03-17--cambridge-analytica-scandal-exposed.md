@@ -35,7 +35,7 @@ sources:
   archive_url: https://web.archive.org/web/20180317000000/https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election
 - title: How Cambridge Analytica turned Facebook likes into political tool
   url: https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-03-17'
   archive_url: https://web.archive.org/web/20180317000000/https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html
 - title: 'Cambridge Analytica scandal: Everything you need to know'
@@ -50,9 +50,7 @@ sources:
   url: https://www.amnesty.org/en/latest/news/2019/07/the-great-hack-facebook-cambridge-analytica/
   outlet: Amnesty International
   date: '2019-07-24'
-notes: Data harvested through "This Is Your Digital Life" app. Used for Trump campaign
-  and Brexit. Facebook knew since 2015 but didn't inform users. Zuckerberg lost $9B
-  in days. Led to congressional hearings.
+notes: Data harvested through "This Is Your Digital Life" app. Used for Trump campaign and Brexit. Facebook knew since 2015 but didn't inform users. Zuckerberg lost $9B in days. Led to congressional hearings.
 status: confirmed
 _merge_note: 'Enhanced with information from duplicate event: 2018-03-17--cambridge-analytica-facebook-scandal-systematic-digital-information-warfare-infrastructure-exposed'
 _merge_timestamp: '2025-09-05T23:46:55.899337'

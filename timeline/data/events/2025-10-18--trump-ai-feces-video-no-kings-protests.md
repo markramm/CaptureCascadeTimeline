@@ -24,24 +24,24 @@ actors:
 sources:
 - title: Border Patrol commander admitted he lied about tear gas incident, judge says
   url: https://abcnews.go.com/US/border-patrol-commander-admitted-lied-tear-gas-incident/story?id=127283392
-  publisher: ABC News
   date: '2025-11-06'
   tier: 1
+  outlet: ABC News
 - title: Federal judge says Border Patrol Chief Gregory Bovino admitted he lied
   url: https://www.cnn.com/2025/11/06/us/gregory-bovino-deposition-chicago-immigration
-  publisher: CNN
   date: '2025-11-06'
   tier: 1
+  outlet: CNN
 - title: Judge grants preliminary injunction against Bovino, federal agents over use of force
   url: https://www.cbsnews.com/chicago/news/chicago-immigration-gregory-bovino-preliminary-injunction-judge-sara-ellis/
-  publisher: CBS Chicago
   date: '2025-11-06'
   tier: 1
+  outlet: CBS Chicago
 - title: Federal Judge Imposes Strict Restrictions on Immigration Agents' Use of Force
   url: https://news.wttw.com/2025/11/06/federal-judge-says-border-patrol-chief-greg-bovino-lied-about-being-hit-rock-deploying
-  publisher: WTTW Chicago
   date: '2025-11-06'
   tier: 1
+  outlet: WTTW Chicago
 status: confirmed
 ---
 

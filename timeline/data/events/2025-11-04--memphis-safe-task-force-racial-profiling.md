@@ -1,8 +1,7 @@
 ---
 id: 2025-11-04--memphis-safe-task-force-racial-profiling
 date: '2025-11-04'
-title: Memphis Residents Report Widespread Racial Profiling by Trump's Federal Police
-  Task Force
+title: Memphis Residents Report Widespread Racial Profiling by Trump's Federal Police Task Force
 importance: 8
 tags:
 - racial-profiling
@@ -13,20 +12,19 @@ tags:
 sources:
 - title: Black Residents Report Being Harassed by Memphis Safe Task Force
   url: https://www.propublica.org/article/memphis-safe-task-force-police-harassment
-  publisher: ProPublica
   date: '2025-11-04'
   tier: 1
-- title: 'I don''t feel safe: Black Memphis residents report harassment by Trump''s
-    police task force'
+  outlet: ProPublica
+- title: 'I don''t feel safe: Black Memphis residents report harassment by Trump''s police task force'
   url: https://tennesseelookout.com/2025/11/04/i-dont-feel-safe-black-memphis-residents-report-harassment-by-trumps-police-task-force/
-  publisher: Tennessee Lookout
   date: '2025-11-04'
   tier: 2
+  outlet: Tennessee Lookout
 - title: 'Trump Tyranny Tracker: Day 289'
   url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-289
-  publisher: Trump Tyranny Tracker
   date: '2025-11-04'
   tier: 2
+  outlet: Trump Tyranny Tracker
 actors:
 - U.S. Marshals Service
 - FBI

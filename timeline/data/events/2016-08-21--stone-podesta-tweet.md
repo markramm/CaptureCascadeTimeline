@@ -27,17 +27,13 @@ sources:
   date: '2016-08-21'
 - title: The confusing timeline on Roger Stone's communications with WikiLeaks
   url: https://www.washingtonpost.com/news/politics/wp/2018/03/13/the-confusing-timeline-on-roger-stones-communications-with-wikileaks/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2018-03-13'
 - title: Misrepresenting Stone's Prescience
   url: https://www.factcheck.org/2017/03/misrepresenting-stones-prescience/
   outlet: FactCheck.org
   date: '2017-03-10'
-notes: Direct evidence of campaign coordination with Russian intelligence operations.
-  Rep. Adam Schiff asked - "Is it a coincidence that Roger Stone predicted that John
-  Podesta would be a victim of a Russian hack and have his private emails published,
-  and did so even before Mr. Podesta himself was fully aware that his private emails
-  would be exposed?"
+notes: Direct evidence of campaign coordination with Russian intelligence operations. Rep. Adam Schiff asked - "Is it a coincidence that Roger Stone predicted that John Podesta would be a victim of a Russian hack and have his private emails published, and did so even before Mr. Podesta himself was fully aware that his private emails would be exposed?"
 status: confirmed
 ---
 

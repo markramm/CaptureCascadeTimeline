@@ -4,39 +4,39 @@ date: '2020-10-26'
 title: Senate Confirms Amy Coney Barrett 52-48 Eight Days Before Election, Creating 6-3 Conservative Supermajority
 importance: 10
 tags:
-  - Supreme Court
-  - Judicial Appointments
-  - Hypocrisy
-  - Institutional Corruption
-  - Abortion Rights
+- supreme court
+- judicial appointments
+- hypocrisy
+- institutional corruption
+- abortion rights
 actors:
-  - Amy Coney Barrett
-  - Mitch McConnell
-  - Donald Trump
-  - Susan Collins
-  - Lisa Murkowski
-  - Chuck Schumer
+- Amy Coney Barrett
+- Mitch McConnell
+- Donald Trump
+- Susan Collins
+- Lisa Murkowski
+- Chuck Schumer
 sources:
-  - title: Amy Coney Barrett Confirmed To Supreme Court Takes Constitutional Oath
-    url: https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court
-    publisher: NPR
-    date: '2020-10-26'
-    tier: 1
-  - title: Senate Confirms Amy Coney Barrett Heralding New Conservative Era for Supreme Court
-    url: https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748
-    publisher: NBC News
-    date: '2020-10-26'
-    tier: 1
-  - title: U.S. Senate Roll Call Votes 116th Congress 2nd Session
-    url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00224.htm
-    publisher: U.S. Senate
-    date: '2020-10-26'
-    tier: 1
-  - title: Amy Coney Barrett Confirmation Hearings and Votes
-    url: https://ballotpedia.org/Amy_Coney_Barrett_confirmation_hearings_and_votes
-    publisher: Ballotpedia
-    date: '2020-10-26'
-    tier: 2
+- title: Amy Coney Barrett Confirmed To Supreme Court Takes Constitutional Oath
+  url: https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court
+  date: '2020-10-26'
+  tier: 1
+  outlet: NPR
+- title: Senate Confirms Amy Coney Barrett Heralding New Conservative Era for Supreme Court
+  url: https://www.nbcnews.com/politics/congress/amy-coney-barrett-set-be-confirmed-supreme-court-monday-n1244748
+  date: '2020-10-26'
+  tier: 1
+  outlet: NBC News
+- title: U.S. Senate Roll Call Votes 116th Congress 2nd Session
+  url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00224.htm
+  date: '2020-10-26'
+  tier: 1
+  outlet: U.S. Senate
+- title: Amy Coney Barrett Confirmation Hearings and Votes
+  url: https://ballotpedia.org/Amy_Coney_Barrett_confirmation_hearings_and_votes
+  date: '2020-10-26'
+  tier: 2
+  outlet: Ballotpedia
 ---
 
 On October 26, 2020, the Senate confirmed Amy Coney Barrett to the Supreme Court by a vote of 52-48, installing her on the bench just eight days before the November 3 presidential election and while millions of Americans had already cast their ballots. Barrett's confirmation created a 6-3 conservative supermajority on the Supreme Court—a majority that would overturn Roe v. Wade, grant sweeping presidential immunity, eliminate Chevron deference, and systematically dismantle progressive legal precedents for decades. The rushed 30-day confirmation process, occurring after McConnell had blocked Merrick Garland for 293 days in 2016, represented the completion of the most consequential judicial power grab in American history and exposed the utter hypocrisy underlying Republican claims about democratic legitimacy and Senate precedent.

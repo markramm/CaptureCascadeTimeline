@@ -4,32 +4,32 @@ date: 1992-06-16
 title: Defense Secretary Caspar Weinberger Indicted on Five Iran-Contra Felonies
 importance: 9
 tags:
-  - Iran-Contra
-  - Reagan-administration
-  - obstruction-of-justice
-  - perjury
-  - accountability
+- iran-contra
+- reagan-administration
+- obstruction-of-justice
+- perjury
+- accountability
 actors:
-  - Caspar Weinberger
-  - Lawrence Walsh
-  - Ronald Reagan
-  - George H.W. Bush
+- Caspar Weinberger
+- Lawrence Walsh
+- Ronald Reagan
+- George H.W. Bush
 sources:
-  - url: https://irp.fas.org/offdocs/walsh/part_viii.htm
-    title: Walsh Report Part VIII - Caspar W. Weinberger
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
-  - url: https://www.washingtonpost.com/archive/politics/1992/06/17/weinberger-indicted-on-5-counts/51cbf33a-9846-4555-a1eb-7a9bf7bef3fd/
-    title: Weinberger Indicted on 5 Counts
-    publisher: Washington Post
-    date: 1992-06-17
-    tier: 2
-  - url: https://www.upi.com/Archives/1992/06/16/Reagan-defense-chief-Weinberger-indicted-in-Iran-Contra-probe/3991708667200/
-    title: Reagan Defense Chief Weinberger Indicted in Iran-Contra Probe
-    publisher: UPI
-    date: 1992-06-16
-    tier: 2
+- url: https://irp.fas.org/offdocs/walsh/part_viii.htm
+  title: Walsh Report Part VIII - Caspar W. Weinberger
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
+- url: https://www.washingtonpost.com/archive/politics/1992/06/17/weinberger-indicted-on-5-counts/51cbf33a-9846-4555-a1eb-7a9bf7bef3fd/
+  title: Weinberger Indicted on 5 Counts
+  date: 1992-06-17
+  tier: 2
+  outlet: The Washington Post
+- url: https://www.upi.com/Archives/1992/06/16/Reagan-defense-chief-Weinberger-indicted-in-Iran-Contra-probe/3991708667200/
+  title: Reagan Defense Chief Weinberger Indicted in Iran-Contra Probe
+  date: 1992-06-16
+  tier: 2
+  outlet: UPI
 ---
 
 Former Defense Secretary Caspar Weinberger is indicted by a federal grand jury on five felony counts of lying to Congress and investigators about the Iran-Contra scandal, marking the highest-ranking Reagan administration official charged in the affair. Independent counsel Lawrence Walsh brings the indictment one day before the statute of limitations expires on two counts, charging Weinberger with perjury and concealing more than 1,700 pages of notes from a personal diary documenting discussions with other officials about arms sales to Iran.

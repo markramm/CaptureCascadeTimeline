@@ -9,22 +9,20 @@ actors:
 - Department of Defense
 sources:
 - url: https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense
-  title: President Trump signs order to rename the Defense Department as the Department
-    of War
-  publisher: NPR
+  title: President Trump signs order to rename the Defense Department as the Department of War
   date: '2025-09-04'
   tier: 1
+  outlet: NPR
 - url: https://abcnews.go.com/Politics/trump-sign-order-renaming-pentagon-department-war/story?id=125275019
   title: Trump signs order renaming Pentagon 'Department of War'
-  publisher: ABC News
   date: '2025-09-05'
   tier: 1
+  outlet: ABC News
 - url: https://federalnewsnetwork.com/defense-main/2025/09/trump-executive-order-will-rename-the-department-of-defense-as-the-department-of-war/
-  title: Trump executive order aims to rename the Department of Defense as the Department
-    of War
-  publisher: Federal News Network
+  title: Trump executive order aims to rename the Department of Defense as the Department of War
   date: '2025-09-05'
   tier: 2
+  outlet: Federal News Network
 tags:
 - institutional-capture
 - executive-overreach

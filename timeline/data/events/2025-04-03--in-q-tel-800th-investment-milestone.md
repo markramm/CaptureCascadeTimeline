@@ -1,9 +1,12 @@
 ---
 id: 2025-04-03--in-q-tel-800th-investment-milestone
 date: '2025-04-03'
-title: In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum
-  Computing
+title: In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum Computing
 importance: 7
+actors:
+- In-Q-Tel
+- Central Intelligence Agency
+- Christopher Darby
 tags:
 - in-q-tel
 - cia
@@ -12,25 +15,20 @@ tags:
 - quantum-computing
 - intelligence-privatization
 - surveillance-infrastructure
-actors:
-- In-Q-Tel
-- Central Intelligence Agency
-- Christopher Darby
 sources:
-- url: https://www.washingtontimes.com/news/2025/apr/3/q-tel-cias-venture-capital-arm-reaches-800th-investment/
-  title: In-Q-Tel, the CIA's venture capital arm, reaches 800th investment
-  publisher: Washington Times
+- title: In-Q-Tel, the CIA's venture capital arm, reaches 800th investment
+  url: https://www.washingtontimes.com/news/2025/apr/3/q-tel-cias-venture-capital-arm-reaches-800th-investment/
+  outlet: Washington Times
   date: '2025-04-03'
   tier: 2
-- url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
-  title: Inside the CIA-backed venture fund that helped launch Palantir and Google
-    Earth
-  publisher: Fortune
+- title: Inside the CIA-backed venture fund that helped launch Palantir and Google Earth
+  url: https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/
+  outlet: Fortune
   date: '2025-07-29'
   tier: 2
-- url: https://www.iqt.org/about
-  title: About In-Q-Tel
-  publisher: In-Q-Tel
+- title: About In-Q-Tel
+  url: https://www.iqt.org/about
+  outlet: In-Q-Tel
   date: '2025-11-11'
   tier: 2
 ---

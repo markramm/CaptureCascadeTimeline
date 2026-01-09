@@ -17,29 +17,29 @@ tags:
 sources:
 - title: Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders
   url: https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003
-  publisher: NBC News
   date: '2025-11-20'
   tier: 1
+  outlet: NBC News
 - title: Trump calls for Democrats' execution over sedition claims
   url: https://www.bostonglobe.com/2025/11/20/nation/seditious-behavior-trump-threatens-lawmakers/
-  publisher: Boston Globe
   date: '2025-11-20'
   tier: 2
-- title: "WATCH: Schumer says Trump called for execution of Democratic lawmakers, a 'deadly serious' threat"
+  outlet: Boston Globe
+- title: 'WATCH: Schumer says Trump called for execution of Democratic lawmakers, a ''deadly serious'' threat'
   url: https://www.pbs.org/newshour/politics/watch-schumer-says-trump-called-for-execution-of-democratic-lawmakers-a-deadly-serious-threat
-  publisher: PBS NewsHour
   date: '2025-11-20'
   tier: 1
-- title: "'Punishable by DEATH!' Trump threatens Slotkin, other members of Congress over message to military"
+  outlet: PBS NewsHour
+- title: '''Punishable by DEATH!'' Trump threatens Slotkin, other members of Congress over message to military'
   url: https://www.fox35orlando.com/news/trump-threatens-slotkin-other-members-congress-jail-time-over-video-military
-  publisher: Fox 35 Orlando
   date: '2025-11-20'
   tier: 2
+  outlet: Fox 35 Orlando
 - title: Trump Suggests Sedition Charges and 'DEATH' for Democrats Who Told Troops to Refuse Illegal Orders
   url: https://www.notus.org/trump-white-house/donald-trump-truth-social-posts-democratic-lawmakers-video-illegal-order
-  publisher: Notus
   date: '2025-11-20'
   tier: 2
+  outlet: Notus
 actors:
 - Donald Trump
 - Elissa Slotkin

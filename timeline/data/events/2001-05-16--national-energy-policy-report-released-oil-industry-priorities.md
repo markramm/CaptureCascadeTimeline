@@ -26,8 +26,7 @@ tags:
 - environmental-deregulation
 status: confirmed
 sources:
-- title: National Energy Policy--Report of the National Energy Policy Development
-    Group
+- title: National Energy Policy--Report of the National Energy Policy Development Group
   url: https://commdocs.house.gov/committees/science/hsy73326.000/hsy73326_0.HTM
   outlet: House Science Committee
   date: '2001-05-16'
@@ -37,7 +36,7 @@ sources:
   date: '2001-05-17'
 - title: Process Used to Develop the National Energy Policy
   url: https://www.gao.gov/assets/gao-03-894.pdf
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2003-08-25'
 capture_lanes:
 - Regulatory Capture

@@ -34,7 +34,7 @@ sources:
   date: '2003-09-26'
 - title: Pentagon Auditors Find Halliburton Overcharged on Iraq Contract
   url: https://www.nytimes.com/2003/12/11/world/struggle-for-iraq-reconstruction-pentagon-auditors-find-halliburton.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2003-12-11'
 capture_lanes:
 - Regulatory Capture

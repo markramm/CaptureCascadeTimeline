@@ -4,29 +4,29 @@ date: 2011-09-18
 title: Amazon Lehigh Valley Warehouse Heat Exhaustion Scandal Exposed
 importance: 8
 actors:
-  - Jeff Bezos
-  - Amazon
+- Jeff Bezos
+- Amazon
 tags:
-  - Worker Exploitation
-  - Corporate Accountability
-  - Labor Rights
-  - Amazon
+- worker exploitation
+- corporate accountability
+- labor rights
+- amazon
 sources:
-  - url: https://mcall.com/news/watchdog/mc-allentown-amazon-complaints-20110917-story.html
-    title: "Inside Amazon's Warehouse"
-    publisher: The Morning Call
-    date: 2011-09-18
-    tier: 1
-  - url: https://www.snopes.com/fact-check/amazon-paramedics/
-    title: "Does Amazon Station Paramedics at Hot Warehouses Rather Than Install Air Conditioning?"
-    publisher: Snopes
-    date: 2011-09-18
-    tier: 2
-  - url: https://www.cjr.org/the_audit/the_morning_call_probes_amazon.php
-    title: "The Morning Call's Amazon Sweatshop Probe"
-    publisher: Columbia Journalism Review
-    date: 2011-09-18
-    tier: 1
+- url: https://mcall.com/news/watchdog/mc-allentown-amazon-complaints-20110917-story.html
+  title: Inside Amazon's Warehouse
+  date: 2011-09-18
+  tier: 1
+  outlet: The Morning Call
+- url: https://www.snopes.com/fact-check/amazon-paramedics/
+  title: Does Amazon Station Paramedics at Hot Warehouses Rather Than Install Air Conditioning?
+  date: 2011-09-18
+  tier: 2
+  outlet: Snopes
+- url: https://www.cjr.org/the_audit/the_morning_call_probes_amazon.php
+  title: The Morning Call's Amazon Sweatshop Probe
+  date: 2011-09-18
+  tier: 1
+  outlet: Columbia Journalism Review
 status: confirmed
 ---
 

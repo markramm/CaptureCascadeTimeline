@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Trump Threatens Chicago and Portland Funding Over Opposition
   url: https://www.bloomberg.com/news/articles/2025-10-05/trump-blocks-chicago-transit-funding-targets-portland
-  publisher: Bloomberg
   date: '2025-10-05'
   tier: 1
+  outlet: Bloomberg
 tags:
 - systematic-corruption
 - federal-funding-weaponization

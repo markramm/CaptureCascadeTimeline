@@ -20,24 +20,24 @@ actors:
 sources:
 - url: https://www.nytimes.com/2020/03/07/us/politics/erik-prince-project-veritas.html
   title: Erik Prince Recruits Ex-Spies to Help Infiltrate Liberal Groups
-  publisher: New York Times
   date: '2020-03-07'
   tier: 1
+  outlet: The New York Times
 - url: https://www.cnn.com/2020/03/07/politics/erik-prince-project-veritas-stings
   title: New York Times - Erik Prince recruiting former spies to help with Project Veritas stings
-  publisher: CNN
   date: '2020-03-07'
   tier: 1
+  outlet: CNN
 - url: https://www.democracynow.org/2020/3/9/blackwater_erik_prince_trump_admin
   title: Blackwater Founder Erik Prince Recruited Spies to Infiltrate Progressive Groups with Project Veritas
-  publisher: Democracy Now
   date: '2020-03-09'
   tier: 2
+  outlet: Democracy Now
 - url: https://www.salon.com/2020/03/09/erik-prince-recruited-former-spies-to-infiltrate-democratic-campaigns-and-liberal-groups-report/
   title: Erik Prince recruited former spies to infiltrate Democratic campaigns and liberal groups - report
-  publisher: Salon
   date: '2020-03-09'
   tier: 2
+  outlet: Salon
 status: confirmed
 ---
 

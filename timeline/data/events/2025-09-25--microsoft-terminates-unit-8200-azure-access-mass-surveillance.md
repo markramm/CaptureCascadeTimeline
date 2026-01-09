@@ -4,37 +4,37 @@ date: '2025-09-25'
 title: Microsoft Terminates Israeli Unit 8200's Azure Access for Mass Surveillance of Palestinian Civilians
 importance: 9
 tags:
-- Microsoft
-- Unit 8200
-- Surveillance
-- Mass Surveillance
-- Israeli Intelligence
-- Azure
-- Palestinian Surveillance
-- Corporate Accountability
-- Tech Ethics
-- Carbyne Context
+- microsoft
+- unit 8200
+- surveillance
+- mass surveillance
+- israeli intelligence
+- azure
+- palestinian surveillance
+- corporate accountability
+- tech ethics
+- carbyne context
 sources:
 - title: Update on ongoing Microsoft review
   url: https://blogs.microsoft.com/on-the-issues/2025/09/25/update-on-ongoing-microsoft-review/
-  publisher: Microsoft On the Issues
   date: '2025-09-25'
   tier: 1
+  outlet: Microsoft On the Issues
 - title: Microsoft cuts off Israeli military unit's access to cloud service after mass surveillance claims
   url: https://www.nbcnews.com/tech/tech-news/microsoft-ends-israel-military-units-access-cloud-service-rcna233723
-  publisher: NBC News
   date: '2025-09-25'
   tier: 1
+  outlet: NBC News
 - title: Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance
   url: https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/
-  publisher: TechCrunch
   date: '2025-09-25'
   tier: 2
+  outlet: TechCrunch
 - title: Microsoft storing Israeli intelligence trove used to attack Palestinians
   url: https://www.972mag.com/microsoft-8200-intelligence-surveillance-cloud-azure/
-  publisher: +972 Magazine
   date: '2025-08-06'
   tier: 2
+  outlet: +972 Magazine
 actors:
 - Microsoft
 - Brad Smith

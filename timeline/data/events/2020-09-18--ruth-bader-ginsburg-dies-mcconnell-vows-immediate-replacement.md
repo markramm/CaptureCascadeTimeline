@@ -4,37 +4,37 @@ date: '2020-09-18'
 title: Justice Ruth Bader Ginsburg Dies 46 Days Before Election, McConnell Immediately Vows to Confirm Replacement Despite 2016 Standard
 importance: 9
 tags:
-  - Supreme Court
-  - Judicial Appointments
-  - Hypocrisy
-  - Institutional Corruption
+- supreme court
+- judicial appointments
+- hypocrisy
+- institutional corruption
 actors:
-  - Ruth Bader Ginsburg
-  - Mitch McConnell
-  - Donald Trump
-  - Clara Spera
-  - John Roberts
+- Ruth Bader Ginsburg
+- Mitch McConnell
+- Donald Trump
+- Clara Spera
+- John Roberts
 sources:
-  - title: Justice Ruth Bader Ginsburg Champion Of Gender Equality Dies At 87
-    url: https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87
-    publisher: NPR
-    date: '2020-09-18'
-    tier: 1
-  - title: Ruth Bader Ginsburg's Dying Wish Not to Have Donald Trump Choose Replacement
-    url: https://www.nbcnews.com/politics/supreme-court/ruth-bader-ginsburg-s-dying-wish-not-have-donald-trump-n1240507
-    publisher: NBC News
-    date: '2020-09-18'
-    tier: 1
-  - title: Ginsburg's Death Throws Chaotic Presidential Election Year Into Greater Turmoil
-    url: https://www.nbcnews.com/politics/supreme-court/ginsburg-s-death-throws-chaotic-presidential-year-greater-turmoil-n1240510
-    publisher: NBC News
-    date: '2020-09-18'
-    tier: 1
-  - title: Death and State Funeral of Ruth Bader Ginsburg
-    url: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Ruth_Bader_Ginsburg
-    publisher: Wikipedia
-    date: '2020-09-18'
-    tier: 3
+- title: Justice Ruth Bader Ginsburg Champion Of Gender Equality Dies At 87
+  url: https://www.npr.org/2020/09/18/100306972/justice-ruth-bader-ginsburg-champion-of-gender-equality-dies-at-87
+  date: '2020-09-18'
+  tier: 1
+  outlet: NPR
+- title: Ruth Bader Ginsburg's Dying Wish Not to Have Donald Trump Choose Replacement
+  url: https://www.nbcnews.com/politics/supreme-court/ruth-bader-ginsburg-s-dying-wish-not-have-donald-trump-n1240507
+  date: '2020-09-18'
+  tier: 1
+  outlet: NBC News
+- title: Ginsburg's Death Throws Chaotic Presidential Election Year Into Greater Turmoil
+  url: https://www.nbcnews.com/politics/supreme-court/ginsburg-s-death-throws-chaotic-presidential-year-greater-turmoil-n1240510
+  date: '2020-09-18'
+  tier: 1
+  outlet: NBC News
+- title: Death and State Funeral of Ruth Bader Ginsburg
+  url: https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Ruth_Bader_Ginsburg
+  date: '2020-09-18'
+  tier: 3
+  outlet: Wikipedia
 ---
 
 On September 18, 2020, Supreme Court Justice Ruth Bader Ginsburg died at age 87 from complications of metastatic pancreatic cancer, creating a Supreme Court vacancy just 46 days before the November 3 presidential election and while early voting was already underway in some states. In her final days, Ginsburg dictated a statement to her granddaughter Clara Spera expressing her "most fervent wish" that she "will not be replaced until a new president is installed." Within hours of her death, Senate Majority Leader Mitch McConnell announced that the Senate would vote on Trump's nominee to replace her—a complete reversal from McConnell's 2016 position that voters should decide Supreme Court appointments in an election year. The extraordinary hypocrisy revealed that McConnell's "principle" about election-year appointments applied only when it served Republican power.

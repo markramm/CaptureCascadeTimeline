@@ -4,39 +4,39 @@ date: '2020-04-07'
 title: Trump Removes Glenn Fine from Pentagon IG, Blocking $2 Trillion CARES Act Oversight
 importance: 9
 tags:
-  - Inspector General
-  - Whistleblower Retaliation
-  - Obstruction of Justice
-  - Accountability Crisis
-  - COVID-19
-  - CARES Act
+- inspector general
+- whistleblower retaliation
+- obstruction of justice
+- accountability crisis
+- covid-19
+- cares act
 actors:
-  - Donald Trump
-  - Glenn Fine
-  - Carolyn Maloney
-  - Mitt Romney
-  - Stephen Lynch
+- Donald Trump
+- Glenn Fine
+- Carolyn Maloney
+- Mitt Romney
+- Stephen Lynch
 sources:
-  - title: Trump removes inspector general who was to oversee $2 trillion stimulus spending
-    url: https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html
-    publisher: Washington Post
-    date: '2020-04-07'
-    tier: 1
-  - title: Trump Removes Glenn Fine As Oversight Leader Of Congressional Coronavirus Bill
-    url: https://www.npr.org/2020/04/07/829136780/in-another-pushback-against-oversight-trump-removes-pandemic-inspector-general
-    publisher: NPR
-    date: '2020-04-07'
-    tier: 1
-  - title: Trump removes independent watchdog tasked with overseeing coronavirus emergency funds
-    url: https://www.cnn.com/2020/04/07/politics/trump-sidelines-pentagon-watchdog-coronavirus-funds/index.html
-    publisher: CNN
-    date: '2020-04-07'
-    tier: 1
-  - title: Chairwoman Maloney Issues Statement on President Trump's Removal of IG Glenn Fine
-    url: https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-issues-statement-on-president-trump-s-removal-of-ig-glenn
-    publisher: House Oversight Committee
-    date: '2020-04-07'
-    tier: 1
+- title: Trump removes inspector general who was to oversee $2 trillion stimulus spending
+  url: https://www.washingtonpost.com/national-security/trump-removes-inspector-general-who-was-to-oversee-2-trillion-stimulus-spending/2020/04/07/2f0c6cb8-78ea-11ea-9bee-c5bf9d2e3288_story.html
+  date: '2020-04-07'
+  tier: 1
+  outlet: The Washington Post
+- title: Trump Removes Glenn Fine As Oversight Leader Of Congressional Coronavirus Bill
+  url: https://www.npr.org/2020/04/07/829136780/in-another-pushback-against-oversight-trump-removes-pandemic-inspector-general
+  date: '2020-04-07'
+  tier: 1
+  outlet: NPR
+- title: Trump removes independent watchdog tasked with overseeing coronavirus emergency funds
+  url: https://www.cnn.com/2020/04/07/politics/trump-sidelines-pentagon-watchdog-coronavirus-funds/index.html
+  date: '2020-04-07'
+  tier: 1
+  outlet: CNN
+- title: Chairwoman Maloney Issues Statement on President Trump's Removal of IG Glenn Fine
+  url: https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-issues-statement-on-president-trump-s-removal-of-ig-glenn
+  date: '2020-04-07'
+  tier: 1
+  outlet: House Oversight Committee
 status: confirmed
 ---
 

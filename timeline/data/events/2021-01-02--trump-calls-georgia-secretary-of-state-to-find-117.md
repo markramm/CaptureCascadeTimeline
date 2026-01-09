@@ -19,11 +19,11 @@ status: confirmed
 sources:
 - title: Here's the full transcript and audio of the call between Trump and Raffensperger
   url: https://www.washingtonpost.com/politics/trump-raffensperger-call-transcript-georgia-vote/2021/01/03/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2021-01-03'
 - title: Trump's Call to Georgia Election Officials
   url: https://www.nytimes.com/2021/01/03/us/politics/trump-raffensperger-georgia-call-transcript.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2021-01-03'
 - title: Georgia election racketeering prosecution
   url: https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_Georgia

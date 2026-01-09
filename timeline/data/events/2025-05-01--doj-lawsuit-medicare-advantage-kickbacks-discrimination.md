@@ -4,39 +4,39 @@ title: DOJ Sues Aetna, Humana, Elevance for Paying Illegal Medicare Advantage Ki
 date: '2025-05-01'
 importance: 9
 actors:
-  - Department of Justice
-  - Aetna
-  - CVS Health
-  - Humana
-  - Elevance Health
-  - eHealth
-  - GoHealth
-  - SelectQuote
-  - Andrew Shea (whistleblower)
+- Department of Justice
+- Aetna
+- CVS Health
+- Humana
+- Elevance Health
+- eHealth
+- GoHealth
+- SelectQuote
+- Andrew Shea (whistleblower)
 tags:
-  - healthcare
-  - medicare-advantage
-  - insurance-fraud
-  - systematic-corruption
-  - whistleblower
-  - disability-discrimination
+- healthcare
+- medicare-advantage
+- insurance-fraud
+- systematic-corruption
+- whistleblower
+- disability-discrimination
 status: confirmed
 sources:
-  - title: The United States Files False Claims Act Complaint Against Three National Health Insurance Companies and Three Brokers
-    url: https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-three-national-health-insurance
-    publisher: Department of Justice
-    date: '2025-05-01'
-    tier: 1
-  - title: Justice Department hits Aetna, Humana, Elevance Health with Medicare Advantage kickback complaint
-    url: https://www.fiercehealthcare.com/payers/doj-hits-aetna-humana-elevance-health-medicare-advantage-kickbacks-complaint
-    publisher: Fierce Healthcare
-    date: '2025-05-01'
-    tier: 2
-  - title: DOJ sues Humana, Aetna, Elevance, and brokers over alleged Medicare Advantage kickbacks
-    url: https://www.healthcare-brew.com/stories/2025/05/02/doj-sues-humana-aetna-elevance-brokers-alleged-medicare-advantage-kickbacks
-    publisher: Healthcare Brew
-    date: '2025-05-02'
-    tier: 2
+- title: The United States Files False Claims Act Complaint Against Three National Health Insurance Companies and Three Brokers
+  url: https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-three-national-health-insurance
+  date: '2025-05-01'
+  tier: 1
+  outlet: Department of Justice
+- title: Justice Department hits Aetna, Humana, Elevance Health with Medicare Advantage kickback complaint
+  url: https://www.fiercehealthcare.com/payers/doj-hits-aetna-humana-elevance-health-medicare-advantage-kickbacks-complaint
+  date: '2025-05-01'
+  tier: 2
+  outlet: Fierce Healthcare
+- title: DOJ sues Humana, Aetna, Elevance, and brokers over alleged Medicare Advantage kickbacks
+  url: https://www.healthcare-brew.com/stories/2025/05/02/doj-sues-humana-aetna-elevance-brokers-alleged-medicare-advantage-kickbacks
+  date: '2025-05-02'
+  tier: 2
+  outlet: Healthcare Brew
 ---
 
 On May 1, 2025, the Department of Justice filed a False Claims Act lawsuit against three of the nation's largest health insurance companies—Aetna (CVS Health), Humana, and Elevance Health (formerly Anthem)—along with three major insurance brokers—eHealth, GoHealth, and SelectQuote. The complaint alleges that from 2016 through 2021, these companies paid hundreds of millions of dollars in illegal kickbacks to brokers in exchange for steering Medicare beneficiaries into their Medicare Advantage plans regardless of suitability. Most disturbingly, the DOJ alleges Aetna and Humana conspired with brokers to discriminate against disabled Medicare beneficiaries, using data filters and threatening to withhold payments to pressure brokers to enroll fewer disabled individuals perceived as less profitable.

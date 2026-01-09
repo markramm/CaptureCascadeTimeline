@@ -12,9 +12,9 @@ actors:
 sources:
 - title: Trump Wants to Overhaul Drug Sales; Company Tied to His Son Stands to Benefit
   url: https://www.wsj.com/health/pharma/trump-drug-sales-blinkrx-donald-trump-jr-5e3a8f9c
-  publisher: Wall Street Journal
   date: '2025-10-10'
   tier: 1
+  outlet: The Wall Street Journal
 tags:
 - conflicts-of-interest
 - systematic-corruption

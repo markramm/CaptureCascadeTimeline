@@ -4,35 +4,35 @@ date: '2013-07-01'
 title: North Carolina Passes "Monster" Voter Suppression Law Hours After Shelby County Decision
 importance: 9
 tags:
-  - voter-suppression
-  - north-carolina
-  - republican-party
-  - voting-rights
-  - racial-discrimination
+- voter-suppression
+- north-carolina
+- republican-party
+- voting-rights
+- racial-discrimination
 actors:
-  - North Carolina General Assembly
-  - Republican Party
+- North Carolina General Assembly
+- Republican Party
 sources:
-  - url: https://www.pbs.org/wgbh/frontline/article/court-north-carolina-voter-id-law-targeted-black-voters/
-    title: 'Court: North Carolina Voter ID Law Targeted Black Voters'
-    publisher: PBS Frontline
-    date: 2016-09-07
-    tier: 1
-  - url: https://www.aclu.org/press-releases/federal-appeals-court-strikes-down-north-carolinas-restrictive-voting-law
-    title: Federal Appeals Court Strikes Down North Carolina's Restrictive Voting Law
-    publisher: ACLU
-    date: 2016-07-29
-    tier: 1
-  - url: https://www.democracydocket.com/analysis/battered-by-the-storm-10-years-since-shelby-county-in-north-carolina/
-    title: Battered by the Storm, 10 Years Since Shelby County in North Carolina
-    publisher: Democracy Docket
-    date: 2023-06-22
-    tier: 2
-  - url: https://slate.com/news-and-politics/2017/05/north-carolinas-voter-suppression-law-was-apparently-too-racist-for-the-supreme-court.html
-    title: North Carolina's voter-suppression law was apparently too racist for the Supreme Court
-    publisher: Slate
-    date: 2017-05-15
-    tier: 2
+- url: https://www.pbs.org/wgbh/frontline/article/court-north-carolina-voter-id-law-targeted-black-voters/
+  title: 'Court: North Carolina Voter ID Law Targeted Black Voters'
+  date: 2016-09-07
+  tier: 1
+  outlet: PBS Frontline
+- url: https://www.aclu.org/press-releases/federal-appeals-court-strikes-down-north-carolinas-restrictive-voting-law
+  title: Federal Appeals Court Strikes Down North Carolina's Restrictive Voting Law
+  date: 2016-07-29
+  tier: 1
+  outlet: ACLU
+- url: https://www.democracydocket.com/analysis/battered-by-the-storm-10-years-since-shelby-county-in-north-carolina/
+  title: Battered by the Storm, 10 Years Since Shelby County in North Carolina
+  date: 2023-06-22
+  tier: 2
+  outlet: Democracy Docket
+- url: https://slate.com/news-and-politics/2017/05/north-carolinas-voter-suppression-law-was-apparently-too-racist-for-the-supreme-court.html
+  title: North Carolina's voter-suppression law was apparently too racist for the Supreme Court
+  date: 2017-05-15
+  tier: 2
+  outlet: Slate
 ---
 
 Within hours of the Supreme Court's *Shelby County v. Holder* decision gutting the Voting Rights Act, North Carolina Republicans introduce and rapidly pass House Bill 589, one of the most comprehensive voter suppression laws in the nation. The law imposes strict voter ID requirements, eliminates same-day registration, cuts early voting, ends pre-registration for 16-17 year olds, eliminates "Souls to the Polls" Sunday voting, and expands poll observer challenges—changes specifically designed to suppress Black voter turnout.

@@ -4,33 +4,33 @@ date: 2017-11-05
 title: Paradise Papers Reveal Commerce Secretary Ross Concealed Stake in Russian-Linked Shipping Company
 importance: 8
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Wilbur Ross
-  - Russia
-  - Paradise Papers
-  - Conflicts of Interest
+- cabinet corruption
+- ethics violations
+- wilbur ross
+- russia
+- paradise papers
+- conflicts of interest
 actors:
-  - Wilbur Ross
-  - Kirill Shamalov
-  - Gennady Timchenko
-  - Vladimir Putin
+- Wilbur Ross
+- Kirill Shamalov
+- Gennady Timchenko
+- Vladimir Putin
 sources:
-  - url: https://www.icij.org/investigations/paradise-papers/donald-trumps-commerce-secretary-wilbur-ross-and-his-russian-business-ties/
-    title: "Donald Trump's Commerce Secretary Wilbur Ross and his Russian business ties"
-    publisher: International Consortium of Investigative Journalists
-    date: 2017-11-05
-    tier: 1
-  - url: https://www.nbcnews.com/politics/politics-news/leaked-documents-show-commerce-secretary-concealed-ties-putin-cronies-n817711
-    title: "Paradise Papers: Leaks Show Wilbur Ross Hid Ties to Putin Cronies"
-    publisher: NBC News
-    date: 2017-11-05
-    tier: 1
-  - url: https://www.cbc.ca/news/world/wilbur-ross-paradise-papers-icij-1.4383636
-    title: "U.S. Commerce Secretary Wilbur Ross benefited from ties to Putin's inner circle, offshore tax leak shows"
-    publisher: CBC News
-    date: 2017-11-05
-    tier: 1
+- url: https://www.icij.org/investigations/paradise-papers/donald-trumps-commerce-secretary-wilbur-ross-and-his-russian-business-ties/
+  title: Donald Trump's Commerce Secretary Wilbur Ross and his Russian business ties
+  date: 2017-11-05
+  tier: 1
+  outlet: International Consortium of Investigative Journalists
+- url: https://www.nbcnews.com/politics/politics-news/leaked-documents-show-commerce-secretary-concealed-ties-putin-cronies-n817711
+  title: 'Paradise Papers: Leaks Show Wilbur Ross Hid Ties to Putin Cronies'
+  date: 2017-11-05
+  tier: 1
+  outlet: NBC News
+- url: https://www.cbc.ca/news/world/wilbur-ross-paradise-papers-icij-1.4383636
+  title: U.S. Commerce Secretary Wilbur Ross benefited from ties to Putin's inner circle, offshore tax leak shows
+  date: 2017-11-05
+  tier: 1
+  outlet: CBC News
 ---
 
 The International Consortium of Investigative Journalists (ICIJ) revealed through the Paradise Papers investigation that U.S. Commerce Secretary Wilbur L. Ross Jr. maintained a stake in Navigator Holdings, a shipping firm that received millions of dollars annually from a Russian gas company whose key owners included Vladimir Putin's son-in-law and a sanctioned Russian oligarch. Ross divested most of his business assets before joining Trump's Cabinet in February 2017, but kept his stake in Navigator Holdings Ltd., incorporated in the Marshall Islands, with offshore entities controlling 31.5 percent of the company in 2016.

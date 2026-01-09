@@ -4,30 +4,30 @@ date: 2015-08-01
 title: ShotSpotter Gunshot Detection System Expands to Major U.S. Cities
 importance: 7
 tags:
-  - surveillance
-  - technology
-  - police
-  - ai
+- surveillance
+- technology
+- police
+- ai
 actors:
-  - ShotSpotter
-  - NYPD
-  - Sacramento Police Department
+- ShotSpotter
+- NYPD
+- Sacramento Police Department
 sources:
-  - url: https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-police-departments-oversight-of-its-agreement-with-shotspotter-inc-for-the-gunshot-detection-and-location-system/
-    title: Audit Report on the NYPD's Oversight of Its Agreement with ShotSpotter Inc.
-    publisher: NYC Comptroller
-    date: 2020-01-01
-    tier: 1
-  - url: https://www.atlasofsurveillance.org/a/AOS007259
-    title: Sacramento Police Department - Gunshot Detection
-    publisher: Atlas of Surveillance
-    date: 2023-01-01
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/ShotSpotter
-    title: ShotSpotter
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 2
+- url: https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-police-departments-oversight-of-its-agreement-with-shotspotter-inc-for-the-gunshot-detection-and-location-system/
+  title: Audit Report on the NYPD's Oversight of Its Agreement with ShotSpotter Inc.
+  date: 2020-01-01
+  tier: 1
+  outlet: NYC Comptroller
+- url: https://www.atlasofsurveillance.org/a/AOS007259
+  title: Sacramento Police Department - Gunshot Detection
+  date: 2023-01-01
+  tier: 2
+  outlet: Atlas of Surveillance
+- url: https://en.wikipedia.org/wiki/ShotSpotter
+  title: ShotSpotter
+  date: 2024-01-01
+  tier: 2
+  outlet: Wikipedia
 ---
 
 ShotSpotter's acoustic gunshot detection system undergoes major expansion across the United States during 2015, with significant deployments in New York City and Sacramento representing the technology's growing adoption by major metropolitan police departments.

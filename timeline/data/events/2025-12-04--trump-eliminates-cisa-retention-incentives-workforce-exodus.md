@@ -14,13 +14,13 @@ actors:
 - Angus King
 tags:
 - cybersecurity
-- CISA
+- cisa
 - national-security
 - infrastructure
 - government-collapse
 - workforce-destruction
-- DHS
-- DOGE
+- dhs
+- doge
 - critical-infrastructure
 - retention-crisis
 status: confirmed
@@ -40,7 +40,7 @@ sources:
   outlet: CBS News
   date: '2025-02-14'
   tier: 1
-- title: "'Absolutely outraged': Former cyber official targeted by Trump speaks out after cuts to U.S. digital defense"
+- title: '''Absolutely outraged'': Former cyber official targeted by Trump speaks out after cuts to U.S. digital defense'
   url: https://www.nbcnews.com/politics/national-security/chris-krebs-speaks-cuts-trump-cuts-digital-defense-rcna203427
   outlet: NBC News
   date: '2025-04-30'
@@ -60,7 +60,7 @@ sources:
   outlet: CISA.gov
   date: '2025-12-09'
   tier: 1
-notes: 'The retention incentive elimination was announced December 3-4, 2025. By this point, CISA had already lost approximately 1,000 employees (33% of workforce) since Trump took office through buyouts, early retirements, and layoffs including the February 2025 "Valentine''s Day Massacre." The Cyber Retention Incentive (CRI) program covered nearly half of CISA employees, providing 10-25% salary supplements to compete with private sector. DHS Inspector General found CISA distributed over $138 million in retention incentives between FY2020-2024. Program elimination came as pro-Russia hacktivist groups actively targeted U.S. critical infrastructure (water, energy, food/agriculture sectors) per CISA advisory issued five days later on December 9, 2025.'
+notes: The retention incentive elimination was announced December 3-4, 2025. By this point, CISA had already lost approximately 1,000 employees (33% of workforce) since Trump took office through buyouts, early retirements, and layoffs including the February 2025 "Valentine's Day Massacre." The Cyber Retention Incentive (CRI) program covered nearly half of CISA employees, providing 10-25% salary supplements to compete with private sector. DHS Inspector General found CISA distributed over $138 million in retention incentives between FY2020-2024. Program elimination came as pro-Russia hacktivist groups actively targeted U.S. critical infrastructure (water, energy, food/agriculture sectors) per CISA advisory issued five days later on December 9, 2025.
 capture_lanes:
 - Government Collapse
 - Infrastructure Vulnerability

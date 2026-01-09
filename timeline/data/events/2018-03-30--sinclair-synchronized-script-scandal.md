@@ -2,8 +2,7 @@
 id: 2018-03-30--sinclair-synchronized-script-scandal
 date: '2018-03-30'
 importance: 9
-title: Sinclair Forces Anchors at Dozens of Stations to Read Identical "Fake News"
-  Script
+title: Sinclair Forces Anchors at Dozens of Stations to Read Identical "Fake News" Script
 location: United States
 actors:
 - Sinclair Broadcast Group
@@ -16,8 +15,7 @@ tags:
 - media-manipulation
 - local-news-capture
 sources:
-- title: How America's Largest Local TV Owner Turned Its News Anchors Into Soldiers
-    In Trump's War On The Media
+- title: How America's Largest Local TV Owner Turned Its News Anchors Into Soldiers In Trump's War On The Media
   url: https://deadspin.com/how-americas-largest-local-tv-owner-turned-its-news-anc-1824233490/
   outlet: Deadspin
   date: '2018-03-31'
@@ -31,10 +29,9 @@ sources:
   url: https://www.npr.org/sections/thetwo-way/2018/04/02/598794433/video-reveals-power-of-sinclair-as-local-news-anchors-recite-script-in-unison
   outlet: NPR
   date: '2018-04-02'
-- title: As Sinclair's sound-alike anchors draw criticism for 'fake news' promos,
-    Trump praises broadcaster
+- title: As Sinclair's sound-alike anchors draw criticism for 'fake news' promos, Trump praises broadcaster
   url: https://www.washingtonpost.com/lifestyle/style/as-sinclairs-sound-alike-anchors-draw-criticism-for-fake-news-promos-trump-praises-broadcaster/2018/04/02/a1be67e8-367a-11e8-9c0a-85d477d9a226_story.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2018-04-02'
 - title: TV anchors decrying 'fake' news put spotlight on Sinclair Broadcast Company
   url: https://www.nbcnews.com/politics/donald-trump/tv-anchors-decrying-fake-news-put-spotlight-sinclair-broadcast-company-n862016
@@ -48,9 +45,7 @@ sources:
   url: https://web.archive.org/web/20180402/https://money.cnn.com/2018/04/02/media/john-oliver-sinclair-broadcast-last-week-tonight/index.html
   outlet: CNN Money
   date: '2018-04-02'
-notes: John Oliver called anchors "members of brainwashed cult." Exposed how Sinclair
-  uses trusted local anchors to spread identical political messages. Major public
-  backlash.
+notes: John Oliver called anchors "members of brainwashed cult." Exposed how Sinclair uses trusted local anchors to spread identical political messages. Major public backlash.
 status: confirmed
 capture_lanes:
 - Media Capture & Control

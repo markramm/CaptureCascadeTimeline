@@ -20,19 +20,19 @@ actors:
 sources:
 - title: Wyden Unveils Report on NRA Ties to Russia
   url: https://www.finance.senate.gov/ranking-members-news/wyden-unveils-report-on-nra-ties-to-russia-findings-show-nra-misled-public-about-2015-moscow-trip
-  publisher: Senate Finance Committee
   date: '2019-09-27'
   tier: 1
+  outlet: Senate Finance Committee
 - title: NRA & Russia - Majority Report (PDF)
   url: https://www.finance.senate.gov/imo/media/doc/The%20NRA%20%20Russia%20-%20How%20a%20Tax-Exempt%20Organization%20Became%20a%20Foreign%20Asset.pdf
-  publisher: Senate Finance Committee
   date: '2019-09-27'
   tier: 1
+  outlet: Senate Finance Committee
 - title: Senate Democrats accuse NRA of promising access to U.S. officials in exchange for Russian business
   url: https://www.nbcnews.com/politics/congress/senate-democrats-accuse-nra-promising-access-u-s-officials-exchange-n1059496
-  publisher: NBC News
   date: '2019-09-27'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

@@ -20,7 +20,7 @@ tags:
 - propaganda
 - willful-disregard
 - criminal-contempt
-- DHS
+- dhs
 - trump-administration
 capture_type: judicial_capture
 sources:

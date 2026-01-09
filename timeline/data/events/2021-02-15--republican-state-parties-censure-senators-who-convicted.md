@@ -4,40 +4,40 @@ date: '2021-02-15'
 title: Republican State Parties Censure Senators Who Voted to Convict Trump
 importance: 8
 tags:
-  - Republican Party
-  - Impeachment
-  - Censure
-  - Party Loyalty
-  - Political Retaliation
+- republican party
+- impeachment
+- censure
+- party loyalty
+- political retaliation
 actors:
-  - Bill Cassidy
-  - Richard Burr
-  - Ben Sasse
-  - Pat Toomey
-  - Lisa Murkowski
-  - Louisiana Republican Party
-  - North Carolina Republican Party
+- Bill Cassidy
+- Richard Burr
+- Ben Sasse
+- Pat Toomey
+- Lisa Murkowski
+- Louisiana Republican Party
+- North Carolina Republican Party
 sources:
-  - url: https://www.aljazeera.com/news/2021/2/16/republicans-who-voted-to-convict-trump-face-censure-at-home
-    title: Republicans who voted to convict Trump face censure at home
-    publisher: Al Jazeera
-    date: '2021-02-16'
-    tier: 1
-  - url: https://www.nbcnews.com/politics/congress/north-carolina-gop-censures-sen-burr-impeachment-vote-n1257967
-    title: North Carolina GOP censures Sen. Burr for impeachment vote
-    publisher: NBC News
-    date: '2021-02-15'
-    tier: 1
-  - url: https://www.cnbc.com/2021/02/14/gop-senators-who-voted-to-impeach-trump-facing-heat-at-home.html
-    title: GOP senators who voted to impeach Trump facing heat at home
-    publisher: CNBC
-    date: '2021-02-14'
-    tier: 1
-  - url: https://www.newsweek.com/gop-senators-who-voted-convict-donald-trump-face-local-censures-1569340
-    title: GOP Senators Who Voted to Convict Donald Trump Face Local Censures
-    publisher: Newsweek
-    date: '2021-02-14'
-    tier: 2
+- url: https://www.aljazeera.com/news/2021/2/16/republicans-who-voted-to-convict-trump-face-censure-at-home
+  title: Republicans who voted to convict Trump face censure at home
+  date: '2021-02-16'
+  tier: 1
+  outlet: Al Jazeera
+- url: https://www.nbcnews.com/politics/congress/north-carolina-gop-censures-sen-burr-impeachment-vote-n1257967
+  title: North Carolina GOP censures Sen. Burr for impeachment vote
+  date: '2021-02-15'
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnbc.com/2021/02/14/gop-senators-who-voted-to-impeach-trump-facing-heat-at-home.html
+  title: GOP senators who voted to impeach Trump facing heat at home
+  date: '2021-02-14'
+  tier: 1
+  outlet: CNBC
+- url: https://www.newsweek.com/gop-senators-who-voted-convict-donald-trump-face-local-censures-1569340
+  title: GOP Senators Who Voted to Convict Donald Trump Face Local Censures
+  date: '2021-02-14'
+  tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

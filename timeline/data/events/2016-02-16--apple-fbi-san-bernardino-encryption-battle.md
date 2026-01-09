@@ -18,26 +18,26 @@ actors:
 - James Comey
 - Department of Justice
 sources:
-- title: 'Apple–FBI encryption dispute'
+- title: Apple–FBI encryption dispute
   url: https://en.wikipedia.org/wiki/Apple%E2%80%93FBI_encryption_dispute
-  publisher: Wikipedia
   date: '2016-02-16'
   tier: 2
+  outlet: Wikipedia
 - title: 'Apple, The FBI And iPhone Encryption: A Look At What''s At Stake'
   url: https://www.npr.org/sections/thetwo-way/2016/02/17/467096705/apple-the-fbi-and-iphone-encryption-a-look-at-whats-at-stake
-  publisher: NPR
   date: '2016-02-17'
   tier: 1
+  outlet: NPR
 - title: Customer Letter
   url: https://www.apple.com/customer-letter/
-  publisher: Apple
   date: '2016-02-16'
   tier: 1
+  outlet: Apple
 - title: Apple v. FBI
   url: https://epic.org/documents/apple-v-fbi-2/
-  publisher: Electronic Privacy Information Center
   date: '2016-02-16'
   tier: 1
+  outlet: Electronic Privacy Information Center
 status: confirmed
 ---
 

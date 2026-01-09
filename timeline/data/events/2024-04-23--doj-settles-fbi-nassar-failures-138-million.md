@@ -1,0 +1,56 @@
+---
+id: 2024-04-23--doj-settles-fbi-nassar-failures-138-million
+date: '2024-04-23'
+title: Justice Department Pays $138.7 Million Settlement Over FBI's Failure to Investigate Nassar Allegations
+importance: 9
+actors:
+- U.S. Department of Justice
+- Federal Bureau of Investigation
+- W. Jay Abbott
+- Michael Langeman
+- Christopher Wray
+- McKayla Maroney
+- USA Gymnastics
+- U.S. Olympic Committee
+tags:
+- fbi-failure
+- settlement
+- law-enforcement-failure
+- institutional-abuse
+- accountability
+- cover-up
+- gymnastics
+sources:
+- title: DOJ to pay nearly $138 million over FBI failures in Larry Nassar case
+  url: https://www.npr.org/2024/04/24/1246780923/doj-to-pay-nearly-138-million-over-fbi-failures-in-larry-nassar-case
+  outlet: NPR
+  date: '2024-04-24'
+  tier: 1
+- title: U.S. government to pay $138.7M over FBI's failure to investigate Larry Nassar allegations
+  url: https://www.pbs.org/newshour/amp/nation/u-s-government-to-pay-138-7m-settlement-over-fbis-botched-larry-nassar-assault-allegations
+  outlet: PBS News
+  date: '2024-04-23'
+  tier: 1
+- title: Justice Department settles claims on USA Gymnastics investigation
+  url: https://rollcall.com/2024/04/23/justice-department-settles-claims-on-usa-gymnastics-investigation/
+  outlet: Roll Call
+  date: '2024-04-23'
+  tier: 1
+- title: 'Larry Nassar case: DOJ declines for third time to charge former FBI agents who botched inquiry'
+  url: https://www.cnn.com/2022/05/26/politics/larry-nassar-agents-fbi-justice-department-declines-charges/index.html
+  outlet: CNN
+  date: '2022-05-26'
+  tier: 1
+---
+
+On April 23, 2024, the U.S. Justice Department announced a $138.7 million settlement with more than 100 survivors who accused the FBI of grossly mishandling allegations of sexual assault against Larry Nassar in 2015 and 2016. The settlement acknowledged that the FBI's 14-month delay in investigating credible reports from elite Olympic gymnasts enabled Nassar to sexually assault approximately 70 additional young athletes—abuse that could have been prevented if the FBI had fulfilled basic investigative obligations. The settlement represented a rare admission of federal law enforcement failure, though the Justice Department under both Trump and early Biden administrations had declined to bring criminal charges against the FBI agents who lied to investigators about their handling of the case.
+
+The settlement compensated survivors for the FBI's catastrophic institutional failures spanning from July 2015, when USA Gymnastics first reported allegations to the Indianapolis Field Office, through September 2016, when the Michigan State University Police finally executed a search warrant on Nassar's residence after the Indianapolis Star investigation bypassed the FBI entirely. During this 14-month period, FBI Special Agent in Charge W. Jay Abbott and Supervisory Special Agent Michael Langeman violated numerous FBI policies: they failed to formally document their July 28, 2015 meeting with USA Gymnastics leadership; failed to properly handle and document evidence; failed to document an interview with McKayla Maroney until 17 months after it occurred; and made entirely false claims about what Maroney reported.
+
+The $138.7 million settlement represented acknowledgment that the FBI's failures went beyond mere negligence to deliberate institutional protection of USA Gymnastics and the U.S. Olympic Committee. The Justice Department Inspector General found that Abbott and Langeman made false statements to investigators about their handling of the case—conduct that would constitute criminal obstruction if committed by ordinary citizens but resulted in no criminal charges for the federal agents. Abbott retired in January 2018 before any investigation, escaping all accountability, while Langeman was fired but faced no criminal prosecution despite lying to federal investigators.
+
+The settlement exposed the double standard in federal law enforcement accountability: while the FBI prosecutes ordinary citizens for making false statements to federal agents, the Justice Department declined to prosecute FBI agents for making false statements about their catastrophic failure to investigate child sexual abuse. This institutional protection extended to the highest levels—FBI Director Christopher Wray apologized to survivors in his September 2021 congressional testimony but acknowledged he was 'extremely frustrated' that the FBI was 'left with little disciplinary recourse when people retire before their cases can be adjudicated.'
+
+The $138.7 million settlement combined with the $500 million Michigan State settlement and $380 million USA Gymnastics settlement brought total institutional payouts to over $1 billion for failures that enabled Larry Nassar's decades of abuse. However, monetary settlements could not restore what was taken from survivors: their childhoods, their athletic careers, their trust in institutions, and their sense of safety. More fundamentally, the settlements failed to address the systemic institutional cultures that prioritize reputation management, legal liability, and institutional relationships over the safety of vulnerable children.
+
+The FBI's failures in the Nassar case revealed how federal law enforcement becomes captured by the powerful institutions it is supposed to regulate and investigate. The Indianapolis Field Office's choice to protect USA Gymnastics and the U.S. Olympic Committee rather than investigate credible sexual abuse allegations from elite Olympic athletes demonstrated that the FBI treats powerful sports organizations as partners to be protected rather than potential subjects of investigation. The settlement represented financial accountability for specific failures but failed to address the fundamental institutional corruption that enables such catastrophic betrayals of public trust.

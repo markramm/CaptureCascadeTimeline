@@ -24,11 +24,11 @@ status: confirmed
 sources:
 - title: Hospital Confrontation Over NSA Surveillance
   url: https://www.washingtonpost.com/politics/2007/05/15/hospital-visit-highlights-surveillance-dispute/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-05-15'
 - title: Comey Testifies on Hospital Room Drama
   url: https://www.nytimes.com/2007/05/16/washington/16justice.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2007-05-16'
 - title: The Hospital Confrontation That Shook DOJ
   url: https://www.cnn.com/2007/POLITICS/05/15/gonzales.hospital/
@@ -36,7 +36,7 @@ sources:
   date: '2007-05-15'
 - title: Gonzales Hospital Episode Detailed
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/05/15/AR2007051500864.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-05-15'
 - title: '10 years ago: Comey testifies about confrontation with Bush White House'
   url: https://www.cnn.com/2017/05/15/politics/comey-gonzalez-surveillance-showdown/index.html

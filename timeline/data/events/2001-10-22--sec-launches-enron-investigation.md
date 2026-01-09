@@ -4,31 +4,31 @@ date: 2001-10-22
 title: SEC Launches Investigation Into Enron's Related-Party Transactions
 importance: 9
 tags:
-  - corporate-fraud
-  - enron
-  - sec
-  - investigation
-  - regulatory-enforcement
+- corporate-fraud
+- enron
+- sec
+- investigation
+- regulatory-enforcement
 actors:
-  - SEC
-  - Andrew Fastow
-  - Kenneth Lay
+- SEC
+- Andrew Fastow
+- Kenneth Lay
 sources:
-  - url: https://money.cnn.com/2001/10/22/companies/enron/index.htm
-    title: "Enron faces SEC investigation"
-    publisher: CNN Money
-    date: 2001-10-22
-    tier: 1
-  - url: https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/
-    title: "Congress and the Enron Scandal"
-    publisher: Levin Center for Oversight and Democracy
-    date: 2001-10-22
-    tier: 1
-  - url: https://www.sechistorical.org/museum/galleries/enf/enf06d_911-enron.php
-    title: "The Enforcement Division: A History (9/11 and Enron Bring New Resources)"
-    publisher: SEC Historical Society
-    date: 2001-10-22
-    tier: 1
+- url: https://money.cnn.com/2001/10/22/companies/enron/index.htm
+  title: Enron faces SEC investigation
+  date: 2001-10-22
+  tier: 1
+  outlet: CNN Money
+- url: https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/
+  title: Congress and the Enron Scandal
+  date: 2001-10-22
+  tier: 1
+  outlet: Levin Center for Oversight and Democracy
+- url: https://www.sechistorical.org/museum/galleries/enf/enf06d_911-enron.php
+  title: 'The Enforcement Division: A History (9/11 and Enron Bring New Resources)'
+  date: 2001-10-22
+  tier: 1
+  outlet: SEC Historical Society
 ---
 
 On October 22, 2001, the Securities and Exchange Commission announced it was formally investigating Enron's suspicious dealings with partnerships controlled by CFO Andrew Fastow, characterizing them as "some of the most opaque transactions with insiders ever seen." Enron's share price immediately fell to $20.65, down $5.40 in a single day.

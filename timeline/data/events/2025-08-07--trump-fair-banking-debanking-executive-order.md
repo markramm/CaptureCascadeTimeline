@@ -16,16 +16,15 @@ tags:
 - institutional-capture
 sources:
 - url: https://www.sidley.com/en/insights/newsupdates/2025/08/president-trump-signs-fair-banking-executive-order-directing-financial-regulators-to-remedy
-  title: President Trump Signs 'Fair Banking' Executive Order Directing Financial
-    Regulators to Remedy Past and Present Debanking Practices
-  publisher: Sidley Austin LLP
+  title: President Trump Signs 'Fair Banking' Executive Order Directing Financial Regulators to Remedy Past and Present Debanking Practices
   date: '2025-08-07'
   tier: 2
+  outlet: Sidley Austin LLP
 - url: https://www.mayerbrown.com/en/insights/publications/2025/08/president-trump-signs-debanking-executive-order
   title: President Trump Signs Debanking Executive Order
-  publisher: Mayer Brown
   date: '2025-08-07'
   tier: 2
+  outlet: Mayer Brown
 ---
 
 President Trump signed an executive order titled 'Guaranteeing Fair Banking for All Americans' directing federal financial regulators to combat alleged 'debanking'—the denial or termination of financial services based on political considerations. The order requires agencies to investigate and remedy instances where banks allegedly discriminated against customers based on their political affiliations or viewpoints.

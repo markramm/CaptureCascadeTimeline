@@ -22,14 +22,14 @@ actors:
 sources:
 - title: Justice Department Disrupts Covert Russian Government-Sponsored Foreign Malign Influence Operation
   url: https://www.justice.gov/archives/opa/pr/justice-department-disrupts-covert-russian-government-sponsored-foreign-malign-influence
-  publisher: Department of Justice
   date: '2024-09-04'
   tier: 1
+  outlet: Department of Justice
 - title: Doppelganger - How Russia mimicked real news sites and created fake ones to target US audiences
   url: https://dfrlab.org/2024/09/18/doppelganger-us-election/
-  publisher: DFRLab
   date: '2024-09-18'
   tier: 2
+  outlet: DFRLab
 status: confirmed
 ---
 

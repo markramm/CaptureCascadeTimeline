@@ -28,7 +28,7 @@ sources:
   date: '2007-04-15'
 - title: Gonzales Resigns as Attorney General
   url: https://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082700482.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-08-27'
 capture_lanes:
 - Media Capture & Control

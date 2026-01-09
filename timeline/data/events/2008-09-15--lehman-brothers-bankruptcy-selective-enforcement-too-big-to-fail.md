@@ -20,14 +20,14 @@ actors:
 sources:
 - url: https://www.history.com/this-day-in-history/September-15/lehman-brothers-collapses
   title: Lehman Brothers declares bankruptcy
-  publisher: History
   date: '2008-09-15'
   tier: 1
+  outlet: History
 - url: https://www.britannica.com/event/bankruptcy-of-Lehman-Brothers
   title: Bankruptcy of Lehman Brothers
-  publisher: Britannica
   date: '2008'
   tier: 2
+  outlet: Britannica
 status: confirmed
 ---
 

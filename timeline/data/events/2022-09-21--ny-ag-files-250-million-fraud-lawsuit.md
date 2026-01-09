@@ -4,42 +4,42 @@ date: '2022-09-21'
 title: NY Attorney General Files $250 Million Fraud Lawsuit Against Trump Organization
 importance: 9
 tags:
-  - Financial Fraud
-  - NY Attorney General
-  - Trump Organization
-  - Civil Lawsuit
-  - Letitia James
-  - Bank Fraud
+- financial fraud
+- ny attorney general
+- trump organization
+- civil lawsuit
+- letitia james
+- bank fraud
 actors:
-  - Letitia James
-  - Donald Trump
-  - Ivanka Trump
-  - Donald Trump Jr.
-  - Eric Trump
-  - Allen Weisselberg
-  - Jeffrey McConney
-  - Trump Organization
+- Letitia James
+- Donald Trump
+- Ivanka Trump
+- Donald Trump Jr.
+- Eric Trump
+- Allen Weisselberg
+- Jeffrey McConney
+- Trump Organization
 sources:
-  - url: https://ag.ny.gov/press-release/2022/attorney-general-james-sues-donald-trump-years-financial-fraud
-    title: Attorney General James Sues Donald Trump for Years of Financial Fraud
-    publisher: New York Attorney General's Office
-    date: '2022-09-21'
-    tier: 1
-  - url: https://abcnews.go.com/US/york-ag-letitia-james-files-250m-lawsuit-trump/story?id=90240332
-    title: NY AG Letitia James files $250M lawsuit against Trump
-    publisher: ABC News
-    date: '2022-09-21'
-    tier: 1
-  - url: https://www.cbsnews.com/amp/news/new-york-attorney-general-letitia-james-sues-trump-the-trump-organization-seeking-end-business-state-250-million/
-    title: NY AG sues Trump, seeking end to business in state and $250 million
-    publisher: CBS News
-    date: '2022-09-21'
-    tier: 1
-  - url: https://www.cnbc.com/amp/2022/09/21/new-york-sues-donald-trump-company-and-family-members-over-widespread-fraud-claims-seeks-at-least-250-million-in-penalties.html
-    title: New York sues Trump, company and family over fraud claims
-    publisher: CNBC
-    date: '2022-09-21'
-    tier: 1
+- url: https://ag.ny.gov/press-release/2022/attorney-general-james-sues-donald-trump-years-financial-fraud
+  title: Attorney General James Sues Donald Trump for Years of Financial Fraud
+  date: '2022-09-21'
+  tier: 1
+  outlet: New York Attorney General's Office
+- url: https://abcnews.go.com/US/york-ag-letitia-james-files-250m-lawsuit-trump/story?id=90240332
+  title: NY AG Letitia James files $250M lawsuit against Trump
+  date: '2022-09-21'
+  tier: 1
+  outlet: ABC News
+- url: https://www.cbsnews.com/amp/news/new-york-attorney-general-letitia-james-sues-trump-the-trump-organization-seeking-end-business-state-250-million/
+  title: NY AG sues Trump, seeking end to business in state and $250 million
+  date: '2022-09-21'
+  tier: 1
+  outlet: CBS News
+- url: https://www.cnbc.com/amp/2022/09/21/new-york-sues-donald-trump-company-and-family-members-over-widespread-fraud-claims-seeks-at-least-250-million-in-penalties.html
+  title: New York sues Trump, company and family over fraud claims
+  date: '2022-09-21'
+  tier: 1
+  outlet: CNBC
 status: confirmed
 ---
 

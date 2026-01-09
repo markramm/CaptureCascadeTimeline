@@ -22,19 +22,19 @@ actors:
 sources:
 - url: https://www.policingproject.org/statement-of-resigning-axon-ai-ethics-board-members
   title: Statement of Resigning Axon AI Ethics Board Members
-  publisher: The Policing Project
   date: '2022-06-06'
   tier: 1
+  outlet: The Policing Project
 - url: https://www.npr.org/2022/06/06/1103285030/axon-halts-plans-for-taser-drone-as-9-on-ethics-board-resign
   title: Axon halts its plans for a Taser drone as 9 on ethics board resign over the project
-  publisher: NPR
   date: '2022-06-06'
   tier: 1
+  outlet: NPR
 - url: https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/
   title: Axon's AI Ethics Board resigns over plan to surveil schools with armed drones
-  publisher: TechCrunch
   date: '2022-06-06'
   tier: 1
+  outlet: TechCrunch
 status: confirmed
 ---
 

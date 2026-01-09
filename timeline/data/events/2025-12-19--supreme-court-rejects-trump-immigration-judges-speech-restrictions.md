@@ -14,16 +14,16 @@ actors:
 - D. John Sauer
 - Stephen Vladeck
 tags:
-- Supreme Court
+- supreme court
 - immigration-judges
-- First Amendment
+- first amendment
 - free speech
 - shadow docket
 - judicial independence
-- Trump administration
+- trump administration
 - civil service protections
-- Merit Systems Protection Board
-- Special Counsel
+- merit systems protection board
+- special counsel
 capture_lanes:
 - Judicial Independence Under Attack
 - First Amendment Violations
@@ -31,25 +31,25 @@ capture_lanes:
 - Civil Service Protections Dismantled
 - Checks and Balances
 sources:
-- title: "Supreme Court rejects Trump administration's request in dispute over immigration judges"
+- title: Supreme Court rejects Trump administration's request in dispute over immigration judges
   url: https://www.scotusblog.com/2025/12/supreme-courts-rejects-trump-administrations-request-in-dispute-over-immigration-judges/
   outlet: SCOTUSblog
   date: '2025-12-19'
   archive_url: null
   tier: 1
-- title: "Supreme Court sides with immigration judges in speech case for now, rebuffing Trump administration"
+- title: Supreme Court sides with immigration judges in speech case for now, rebuffing Trump administration
   url: https://abcnews.go.com/US/wireStory/supreme-court-sides-immigration-judges-speech-case-now-128564078
   outlet: ABC News
   date: '2025-12-19'
   archive_url: null
   tier: 2
-- title: "Supreme Court revives free speech lawsuit from immigration judges in loss for Trump"
+- title: Supreme Court revives free speech lawsuit from immigration judges in loss for Trump
   url: https://www.cnn.com/2025/12/19/politics/supreme-court-revives-free-speech-lawsuit-immigration-judges
   outlet: CNN
   date: '2025-12-19'
   archive_url: null
   tier: 2
-- title: "Trump's win streak on Supreme Court emergency docket breaks"
+- title: Trump's win streak on Supreme Court emergency docket breaks
   url: https://thehill.com/regulation/court-battles/5657340-supreme-court-immigration-judges-speech-emergency-docket/
   outlet: The Hill
   date: '2025-12-19'

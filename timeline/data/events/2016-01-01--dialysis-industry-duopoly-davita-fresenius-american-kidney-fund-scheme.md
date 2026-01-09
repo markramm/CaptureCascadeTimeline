@@ -4,47 +4,47 @@ title: Whistleblower Alleges Dialysis Giants DaVita and Fresenius Steer Patients
 date: '2016-01-01'
 importance: 9
 actors:
-  - DaVita
-  - Fresenius Medical Care
-  - American Kidney Fund
-  - Department of Justice
-  - Federal Trade Commission
+- DaVita
+- Fresenius Medical Care
+- American Kidney Fund
+- Department of Justice
+- Federal Trade Commission
 tags:
-  - healthcare
-  - dialysis
-  - systematic-corruption
-  - monopoly
-  - kickbacks
-  - insurance-fraud
-  - lobbying
-  - regulatory-capture
+- healthcare
+- dialysis
+- systematic-corruption
+- monopoly
+- kickbacks
+- insurance-fraud
+- lobbying
+- regulatory-capture
 status: confirmed
 sources:
-  - title: Whistleblower alleges DaVita, Fresenius involved in kickback scheme
-    url: https://www.modernhealthcare.com/legal/whistleblower-alleges-davita-fresenius-involved-kickback-scheme
-    publisher: Modern Healthcare
-    date: '2016-11-02'
-    tier: 2
-  - title: A Dialysis Duopoly - How Public Funding Entrenched Private Power
-    url: https://lpeproject.org/blog/a-dialysis-duopoly-how-public-funding-entrenched-private-power/
-    publisher: LPE Project
-    date: '2023-06-14'
-    tier: 2
-  - title: DaVita steered poor dialysis patients to private insurers to pump up profits, lawsuit says
-    url: https://www.denverpost.com/2017/02/22/davita-dialysis-patients-lawsuit/
-    publisher: Denver Post
-    date: '2017-02-22'
-    tier: 2
-  - title: DaVita is Secretly Trying to Defend its Charity Scheme with a Lobbying Scheme
-    url: https://hindenburgresearch.com/davita-is-secretly-trying-to-defend-its-charity-scheme-with-a-lobbying-scheme/
-    publisher: Hindenburg Research
-    date: '2019-11-20'
-    tier: 2
-  - title: Dialysis Industry Spends Millions, Emerges as Power Player in California Politics
-    url: https://kffhealthnews.org/news/article/dialysis-industry-spends-millions-emerges-as-power-player-in-california-politics/
-    publisher: KFF Health News
-    date: '2018-11-02'
-    tier: 1
+- title: Whistleblower alleges DaVita, Fresenius involved in kickback scheme
+  url: https://www.modernhealthcare.com/legal/whistleblower-alleges-davita-fresenius-involved-kickback-scheme
+  date: '2016-11-02'
+  tier: 2
+  outlet: Modern Healthcare
+- title: A Dialysis Duopoly - How Public Funding Entrenched Private Power
+  url: https://lpeproject.org/blog/a-dialysis-duopoly-how-public-funding-entrenched-private-power/
+  date: '2023-06-14'
+  tier: 2
+  outlet: LPE Project
+- title: DaVita steered poor dialysis patients to private insurers to pump up profits, lawsuit says
+  url: https://www.denverpost.com/2017/02/22/davita-dialysis-patients-lawsuit/
+  date: '2017-02-22'
+  tier: 2
+  outlet: Denver Post
+- title: DaVita is Secretly Trying to Defend its Charity Scheme with a Lobbying Scheme
+  url: https://hindenburgresearch.com/davita-is-secretly-trying-to-defend-its-charity-scheme-with-a-lobbying-scheme/
+  date: '2019-11-20'
+  tier: 2
+  outlet: Hindenburg Research
+- title: Dialysis Industry Spends Millions, Emerges as Power Player in California Politics
+  url: https://kffhealthnews.org/news/article/dialysis-industry-spends-millions-emerges-as-power-player-in-california-politics/
+  date: '2018-11-02'
+  tier: 1
+  outlet: KFF Health News
 ---
 
 In 2016, a whistleblower who had worked for 12 years at the American Kidney Fund filed a lawsuit alleging that dialysis giants DaVita and Fresenius Medical Care—which together control over 80 percent of the $24.7 billion U.S. dialysis market—operated a years-long kickback scheme where they donated hundreds of millions to AKF to subsidize patients' private insurance premiums, steering patients away from Medicare toward commercial insurance that pays 17 times more than government rates. The lawsuit alleged that when AKF became financially stressed, DaVita and Fresenius pressured the charity to restrict grants only to patients whose dialysis providers contributed to the fund, creating a quid pro quo arrangement where donations bought patient referrals in violation of federal anti-kickback laws. By 2017, DaVita and Fresenius donated $247 million annually to AKF, which paid premiums for over 74,000 patients—approximately 20 percent of the nation's dialysis recipients—with analysts estimating the scheme generated 30-45 percent of the dialysis giants' annual pre-tax income through a systematic fraud exploiting America's most vulnerable kidney disease patients.

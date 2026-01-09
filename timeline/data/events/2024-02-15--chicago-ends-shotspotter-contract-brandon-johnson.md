@@ -4,31 +4,31 @@ date: 2024-02-15
 title: Chicago Terminates ShotSpotter Contract After Years of Criticism
 importance: 8
 tags:
-  - surveillance
-  - technology
-  - police
-  - ai
-  - civil-rights
+- surveillance
+- technology
+- police
+- ai
+- civil-rights
 actors:
-  - Brandon Johnson
-  - ShotSpotter
-  - Chicago Police Department
+- Brandon Johnson
+- ShotSpotter
+- Chicago Police Department
 sources:
-  - url: https://www.nbcchicago.com/news/local/chicago-to-end-use-of-shotspotter-later-this-year-wont-renew-contract-with-company/3355151/
-    title: Chicago to end ShotSpotter contract, city says
-    publisher: NBC Chicago
-    date: 2024-02-13
-    tier: 2
-  - url: https://slate.com/business/2024/02/shotspotter-chicago-canceled-contract-racist-high-tech-policing-gun-violence.html
-    title: "Chicago cancels its ShotSpotter contract: When high-tech policing goes wrong"
-    publisher: Slate
-    date: 2024-02-15
-    tier: 2
-  - url: https://www.chicagoappleseed.org/2023/05/10/ending-chicago-contract-with-shotspotter/
-    title: Looking Forward to the End of Chicago's Contract with ShotSpotter
-    publisher: Chicago Appleseed Center for Fair Courts
-    date: 2023-05-10
-    tier: 2
+- url: https://www.nbcchicago.com/news/local/chicago-to-end-use-of-shotspotter-later-this-year-wont-renew-contract-with-company/3355151/
+  title: Chicago to end ShotSpotter contract, city says
+  date: 2024-02-13
+  tier: 2
+  outlet: NBC Chicago
+- url: https://slate.com/business/2024/02/shotspotter-chicago-canceled-contract-racist-high-tech-policing-gun-violence.html
+  title: 'Chicago cancels its ShotSpotter contract: When high-tech policing goes wrong'
+  date: 2024-02-15
+  tier: 2
+  outlet: Slate
+- url: https://www.chicagoappleseed.org/2023/05/10/ending-chicago-contract-with-shotspotter/
+  title: Looking Forward to the End of Chicago's Contract with ShotSpotter
+  date: 2023-05-10
+  tier: 2
+  outlet: Chicago Appleseed Center for Fair Courts
 ---
 
 Chicago Mayor Brandon Johnson announces the city is terminating its contract with ShotSpotter, the controversial gunshot detection technology company, bringing to an end one of the largest and longest-running deployments of acoustic surveillance in American policing. The contract will expire on September 22, 2024, fulfilling Johnson's campaign promise to end the city's relationship with the company.

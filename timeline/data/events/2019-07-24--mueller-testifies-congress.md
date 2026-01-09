@@ -4,34 +4,34 @@ date: 2019-07-24
 title: Mueller Testifies to Congress, Confirms Report Findings and Lack of Exoneration
 importance: 9
 tags:
-  - Mueller Investigation
-  - Congressional Testimony
-  - Presidential Accountability
-  - Obstruction of Justice
-  - Impeachment
+- mueller investigation
+- congressional testimony
+- presidential accountability
+- obstruction of justice
+- impeachment
 actors:
-  - Robert Mueller
-  - Donald Trump
-  - House Judiciary Committee
-  - House Intelligence Committee
-  - Jerry Nadler
-  - Adam Schiff
+- Robert Mueller
+- Donald Trump
+- House Judiciary Committee
+- House Intelligence Committee
+- Jerry Nadler
+- Adam Schiff
 sources:
-  - url: https://www.govinfo.gov/content/pkg/CHRG-116hhrg37542/pdf/CHRG-116hhrg37542.pdf
-    title: Hearing Before the Committee on the Judiciary - Former Special Counsel Robert S. Mueller, III
-    publisher: U.S. House of Representatives
-    date: 2019-07-24
-    tier: 1
-  - url: https://www.govinfo.gov/content/pkg/CHRG-116hhrg37543/pdf/CHRG-116hhrg37543.pdf
-    title: Hearing Before the Permanent Select Committee on Intelligence - Former Special Counsel Robert S. Mueller, III
-    publisher: U.S. House of Representatives
-    date: 2019-07-24
-    tier: 1
-  - url: https://www.c-span.org/video/?462628-1/robert-mueller-testifies-house-judiciary-committee
-    title: Former Special Counsel Robert Mueller Testifies
-    publisher: C-SPAN
-    date: 2019-07-24
-    tier: 1
+- url: https://www.govinfo.gov/content/pkg/CHRG-116hhrg37542/pdf/CHRG-116hhrg37542.pdf
+  title: Hearing Before the Committee on the Judiciary - Former Special Counsel Robert S. Mueller, III
+  date: 2019-07-24
+  tier: 1
+  outlet: U.S. House of Representatives
+- url: https://www.govinfo.gov/content/pkg/CHRG-116hhrg37543/pdf/CHRG-116hhrg37543.pdf
+  title: Hearing Before the Permanent Select Committee on Intelligence - Former Special Counsel Robert S. Mueller, III
+  date: 2019-07-24
+  tier: 1
+  outlet: U.S. House of Representatives
+- url: https://www.c-span.org/video/?462628-1/robert-mueller-testifies-house-judiciary-committee
+  title: Former Special Counsel Robert Mueller Testifies
+  date: 2019-07-24
+  tier: 1
+  outlet: C-SPAN
 ---
 
 Former Special Counsel Robert Mueller testified before Congress in back-to-back hearings of the House Judiciary Committee and the House Permanent Select Committee on Intelligence, marking his first public statements about his 22-month investigation into Russian interference and potential obstruction of justice by President Trump. Despite Mueller's reluctance to go beyond his written report, the testimony produced critical confirmations that contradicted Trump's "total exoneration" narrative and established key facts for the historical record.

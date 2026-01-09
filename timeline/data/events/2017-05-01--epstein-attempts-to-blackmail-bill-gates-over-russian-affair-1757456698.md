@@ -8,7 +8,7 @@ actors:
 - Mila Antonova
 - Anna Chapman
 sources:
-- outlet: Wall Street Journal
+- outlet: The Wall Street Journal
   title: Jeffrey Epstein's Veiled Threat to Bill Gates
   url: https://www.wsj.com/
   date: '2023-05-22'
@@ -32,8 +32,7 @@ capture_lanes:
 - Intelligence Networks
 - Corporate Compromat
 verified: true
-verification_notes: Corroborated by multiple tier-1 sources, including Wall Street
-  Journal report
+verification_notes: Corroborated by multiple tier-1 sources, including Wall Street Journal report
 ---
 
 Jeffrey Epstein attempted to blackmail Bill Gates in 2017 by emailing him about reimbursement for a coding school course for Mila Antonova, a Russian bridge player with alleged intelligence connections. Epstein's email implied knowledge of Gates' extramarital affair with Antonova, who was photographed with Russian spy Anna Chapman in 2010. Gates did not pay and denied any financial dealings with Epstein.

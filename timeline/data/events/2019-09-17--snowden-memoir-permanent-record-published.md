@@ -16,20 +16,20 @@ actors:
 - ACLU
 sources:
 - url: https://www.npr.org/2019/09/17/761600250/justice-department-sues-edward-snowden-seeking-profits-from-his-book
-  title: "Justice Department: Edward Snowden Book Profits Should Go To The U.S. Government"
-  publisher: NPR
+  title: 'Justice Department: Edward Snowden Book Profits Should Go To The U.S. Government'
   date: '2019-09-17'
   tier: 1
+  outlet: NPR
 - url: https://www.npr.org/2020/10/01/919261319/court-rules-edward-snowden-must-pay-more-than-5-million-from-memoir-and-speeches
-  title: "Court Rules Edward Snowden Must Pay More Than $5 Million From Memoir And Speeches"
-  publisher: NPR
+  title: Court Rules Edward Snowden Must Pay More Than $5 Million From Memoir And Speeches
   date: '2020-10-01'
   tier: 1
+  outlet: NPR
 - url: https://firstamendmentwatch.org/department-of-justice-sues-edward-snowden-for-proceeds-of-new-memoir/
-  title: "Department of Justice Sues Edward Snowden for Proceeds of New Memoir"
-  publisher: First Amendment Watch
+  title: Department of Justice Sues Edward Snowden for Proceeds of New Memoir
   date: '2019-09-17'
   tier: 2
+  outlet: First Amendment Watch
 status: confirmed
 ---
 

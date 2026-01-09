@@ -8,28 +8,28 @@ actors:
 - Heather Heyer
 - James Alex Fields Jr.
 tags:
-- White Nationalism
-- Extremism
-- Domestic Terrorism
-- Alt-Right
+- white nationalism
+- extremism
+- domestic terrorism
+- alt-right
 - presidential-misconduct
 status: confirmed
 sources:
 - url: https://www.npr.org/2017/08/15/543769884/transcript-trump-shifts-tone-again-on-white-nationalist-rally-in-charlottesville
-  title: "Transcript: Trump Shifts Tone Again On Charlottesville In Press Conference"
-  publisher: NPR
+  title: 'Transcript: Trump Shifts Tone Again On Charlottesville In Press Conference'
   date: '2017-08-15'
   tier: 1
+  outlet: NPR
 - url: https://www.politifact.com/article/2019/apr/26/context-trumps-very-fine-people-both-sides-remarks/
-  title: "In Context: Donald Trump's 'very fine people on both sides' remarks (transcript)"
-  publisher: PolitiFact
+  title: 'In Context: Donald Trump''s ''very fine people on both sides'' remarks (transcript)'
   date: '2019-04-26'
   tier: 1
+  outlet: PolitiFact
 - url: https://abcnews.go.com/Politics/trump-lashes-alt-left-charlottesville-fine-people-sides/story?id=49235032
-  title: "Trump lashes out at 'alt-left' in Charlottesville, says 'fine people on both sides'"
-  publisher: ABC News
+  title: Trump lashes out at 'alt-left' in Charlottesville, says 'fine people on both sides'
   date: '2017-08-15'
   tier: 2
+  outlet: ABC News
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration

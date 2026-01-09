@@ -31,13 +31,12 @@ sources:
   title: 'Holder: Some banks ''too big to jail'''
   url: https://www.politico.com/story/2013/03/eric-holder-banks-too-big-to-jail-088518
 - date: '2013-03-07'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Holder concerned megabanks too big to jail
   url: https://www.washingtonpost.com/business/economy/holder-concerned-megabanks-too-big-to-jail/2013/03/06/6fa2b07a-869e-11e2-999e-5f8e0410cb9d_story.html
 - date: '2016-07-12'
   outlet: The Intercept
-  title: Eric Holder's Longtime Excuse for Not Prosecuting Banks Just Crashed and
-    Burned
+  title: Eric Holder's Longtime Excuse for Not Prosecuting Banks Just Crashed and Burned
   url: https://theintercept.com/2016/07/12/eric-holders-longtime-excuse-for-not-prosecuting-banks-just-crashed-and-burned/
 - date: '2021'
   outlet: SSRN - Brandon L. Garrett

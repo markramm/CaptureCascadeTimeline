@@ -1,8 +1,7 @@
 ---
 id: 2017-03-04--trump-falsely-accuses-obama-of-wiretapping-trump-tower-based-on-hunch
 date: '2017-03-04'
-title: Trump Falsely Accuses Obama of Wiretapping Trump Tower Based on "A Little Bit
-  of a Hunch"
+title: Trump Falsely Accuses Obama of Wiretapping Trump Tower Based on "A Little Bit of a Hunch"
 importance: 9
 tags:
 - disinformation
@@ -17,16 +16,15 @@ actors:
 - James Comey
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2017/03/04/518478158/president-trump-accuses-obama-of-wire-tapping-provides-no-evidence
-  title: President Donald Trump Tweets Allegations That Obama Wiretapped Trump Tower,
-    Produces No Proof
-  publisher: NPR
+  title: President Donald Trump Tweets Allegations That Obama Wiretapped Trump Tower, Produces No Proof
   date: '2017-03-04'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/trump-accuses-obama-wiretapping-residence-during-campaign-n729056
   title: President accuses Obama of wiretapping Trump Tower during campaign
-  publisher: NBC News
   date: '2017-03-04'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

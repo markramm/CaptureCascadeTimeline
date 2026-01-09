@@ -4,33 +4,33 @@ date: 2023-01-11
 title: Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year
 importance: 9
 actors:
-  - Amazon
-  - Amazon Labor Union
-  - Christian Smalls
-  - National Labor Relations Board
+- Amazon
+- Amazon Labor Union
+- Christian Smalls
+- National Labor Relations Board
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Labor Rights
-  - Corporate Accountability
-  - Legal Obstruction
+- union organizing
+- worker exploitation
+- amazon
+- labor rights
+- corporate accountability
+- legal obstruction
 sources:
-  - url: https://www.cnbc.com/2023/07/12/amazon-hit-with-labor-complaint-over-failing-to-bargain-with-union.html
-    title: "Amazon hit with labor complaint over failing to bargain with Staten Island union"
-    publisher: CNBC
-    date: 2023-07-12
-    tier: 1
-  - url: https://jacobin.com/2023/07/amazon-labor-union-jfk8-chris-smalls-reform-caucus-democracy
-    title: "As Amazon Refuses to Bargain, Divisions Have Emerged in the Amazon Labor Union"
-    publisher: Jacobin
-    date: 2023-07-20
-    tier: 2
-  - url: https://www.business-humanrights.org/en/latest-news/usa-three-years-after-union-vote-amazon-refuses-to-recognise-jfk8-union-and-delays-collective-bargaining-through-legal-challenges-incl-comp-comment/
-    title: "USA: Three years after union vote, Amazon refuses to recognise JFK8 union and delays collective bargaining through legal challenges"
-    publisher: Business & Human Rights Resource Centre
-    date: 2024-09-07
-    tier: 1
+- url: https://www.cnbc.com/2023/07/12/amazon-hit-with-labor-complaint-over-failing-to-bargain-with-union.html
+  title: Amazon hit with labor complaint over failing to bargain with Staten Island union
+  date: 2023-07-12
+  tier: 1
+  outlet: CNBC
+- url: https://jacobin.com/2023/07/amazon-labor-union-jfk8-chris-smalls-reform-caucus-democracy
+  title: As Amazon Refuses to Bargain, Divisions Have Emerged in the Amazon Labor Union
+  date: 2023-07-20
+  tier: 2
+  outlet: Jacobin
+- url: https://www.business-humanrights.org/en/latest-news/usa-three-years-after-union-vote-amazon-refuses-to-recognise-jfk8-union-and-delays-collective-bargaining-through-legal-challenges-incl-comp-comment/
+  title: 'USA: Three years after union vote, Amazon refuses to recognise JFK8 union and delays collective bargaining through legal challenges'
+  date: 2024-09-07
+  tier: 1
+  outlet: Business & Human Rights Resource Centre
 status: confirmed
 ---
 

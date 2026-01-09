@@ -80,7 +80,7 @@ export function TimelineView() {
                 setCurrentTransform(event.transform);
             });
 
-        svg.call(zoom as any)
+        svg.call(zoom as unknown as (selection: d3.Selection<SVGSVGElement, unknown, null, undefined>) => void)
             .on("dblclick.zoom", null);
 
         // 3. Draw Axes & Grid
@@ -133,7 +133,7 @@ export function TimelineView() {
             // Level 0: Histogram (Macro / Dense)
             // Dynamic thresholds based on view width to keep bars looking nice
             const tickCount = Math.min(width / 10, 100); // 1 bar per ~10px max
-            const bucketGenerator = d3.bin<any, Date>()
+            const bucketGenerator = d3.bin<TimelineEvent, Date>()
                 .value(d => new Date(d.date))
                 .domain(newXScale.domain() as [Date, Date])
                 .thresholds(newXScale.ticks(tickCount));

@@ -4,26 +4,26 @@ date: 2022-04-15
 title: Tornado Cash Integrates Chainalysis Tool to Block OFAC-Sanctioned Addresses
 importance: 7
 tags:
-  - surveillance
-  - cryptocurrency
-  - sanctions
-  - privacy
-  - OFAC
+- surveillance
+- cryptocurrency
+- sanctions
+- privacy
+- ofac
 actors:
-  - Tornado Cash
-  - Chainalysis
-  - OFAC
+- Tornado Cash
+- Chainalysis
+- OFAC
 sources:
-  - url: https://www.coindesk.com/tech/2022/04/15/tornado-cash-adds-chainalysis-tool-for-blocking-ofac-sanctioned-wallets-from-dapp
-    title: Tornado Cash Adds Chainalysis Tool for Blocking OFAC-Sanctioned Wallets
-    publisher: CoinDesk
-    date: 2022-04-15
-    tier: 1
-  - url: https://www.cryptotimes.io/2022/04/16/tornado-cash-uses-chainalysis-to-block-ofac-sanctioned-addresses/
-    title: Tornado Cash Uses Chainalysis to Block OFAC Sanctioned Addresses
-    publisher: The Crypto Times
-    date: 2022-04-16
-    tier: 2
+- url: https://www.coindesk.com/tech/2022/04/15/tornado-cash-adds-chainalysis-tool-for-blocking-ofac-sanctioned-wallets-from-dapp
+  title: Tornado Cash Adds Chainalysis Tool for Blocking OFAC-Sanctioned Wallets
+  date: 2022-04-15
+  tier: 1
+  outlet: CoinDesk
+- url: https://www.cryptotimes.io/2022/04/16/tornado-cash-uses-chainalysis-to-block-ofac-sanctioned-addresses/
+  title: Tornado Cash Uses Chainalysis to Block OFAC Sanctioned Addresses
+  date: 2022-04-16
+  tier: 2
+  outlet: The Crypto Times
 ---
 
 Tornado Cash, the decentralized cryptocurrency mixer designed to enhance transaction privacy, integrates Chainalysis's oracle contract to block OFAC-sanctioned addresses from accessing the dapp. This controversial move represents a significant compromise of the privacy tool's core function, as it implements government sanctions screening through blockchain surveillance technology.

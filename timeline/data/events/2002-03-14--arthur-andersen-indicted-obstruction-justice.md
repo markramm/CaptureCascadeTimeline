@@ -4,31 +4,31 @@ date: 2002-03-14
 title: Arthur Andersen Indicted for Obstruction of Justice in Enron Scandal
 importance: 10
 tags:
-  - corporate-fraud
-  - enron
-  - obstruction-of-justice
-  - arthur-andersen
-  - criminal-prosecution
+- corporate-fraud
+- enron
+- obstruction-of-justice
+- arthur-andersen
+- criminal-prosecution
 actors:
-  - Arthur Andersen
-  - Department of Justice
-  - Michael Chertoff
+- Arthur Andersen
+- Department of Justice
+- Michael Chertoff
 sources:
-  - url: https://www.justice.gov/archive/dag/speeches/2002/031402newsconferncearthurandersen.htm
-    title: "Deputy Attorney General Transcript News Conference - Arthur Andersen Indictment"
-    publisher: U.S. Department of Justice
-    date: 2002-03-14
-    tier: 1
-  - url: https://www.pbs.org/newshour/politics/law-jan-june02-andersen_03-14
-    title: "U.S. Indicts Arthur Andersen for Obstruction of Justice"
-    publisher: PBS NewsHour
-    date: 2002-03-14
-    tier: 1
-  - url: https://www.npr.org/2002/03/14/1139892/arthur-andersen-indictment
-    title: "Arthur Andersen Indictment"
-    publisher: NPR
-    date: 2002-03-14
-    tier: 1
+- url: https://www.justice.gov/archive/dag/speeches/2002/031402newsconferncearthurandersen.htm
+  title: Deputy Attorney General Transcript News Conference - Arthur Andersen Indictment
+  date: 2002-03-14
+  tier: 1
+  outlet: U.S. Department of Justice
+- url: https://www.pbs.org/newshour/politics/law-jan-june02-andersen_03-14
+  title: U.S. Indicts Arthur Andersen for Obstruction of Justice
+  date: 2002-03-14
+  tier: 1
+  outlet: PBS NewsHour
+- url: https://www.npr.org/2002/03/14/1139892/arthur-andersen-indictment
+  title: Arthur Andersen Indictment
+  date: 2002-03-14
+  tier: 1
+  outlet: NPR
 ---
 
 On March 14, 2002, the U.S. Department of Justice announced the indictment of Arthur Andersen LLP on one count of obstruction of justice for destroying "literally tons of paper documents and other electronic information" related to the Enron collapse. The indictment, handed down by a federal grand jury in Houston, marked the first time a major accounting firm faced criminal prosecution for complicity in corporate fraud.

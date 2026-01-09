@@ -4,31 +4,31 @@ date: 2019-09-02
 title: Amazon Warehouse Worker Billy Foister Dies on Warehouse Floor After Heart Attack
 importance: 9
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Billy Foister
+- Jeff Bezos
+- Amazon
+- Billy Foister
 tags:
-  - Worker Exploitation
-  - Corporate Accountability
-  - Amazon
-  - Worker Death
-  - Labor Rights
+- worker exploitation
+- corporate accountability
+- amazon
+- worker death
+- labor rights
 sources:
-  - url: https://www.business-humanrights.org/en/latest-news/usa-amazon-warehouse-worker-who-died-of-heart-attack-at-work-reportedly-left-on-the-floor-for-20-minutes-before-receiving-treatment/
-    title: "USA: Amazon warehouse worker who died of heart attack at work reportedly left on the floor for 20 minutes before receiving treatment"
-    publisher: Business & Human Rights Resource Centre
-    date: 2019-10-18
-    tier: 1
-  - url: https://www.dailykos.com/stories/2019/10/21/1894080/-Amazon-worker-complaining-of-chest-pains-was-sent-back-to-work-died-on-the-floor-a-week-later
-    title: "Amazon worker complaining of chest pains was sent back to work, died on the floor a week later"
-    publisher: Daily Kos
-    date: 2019-10-21
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/List_of_Amazon_fatalities
-    title: "List of Amazon fatalities"
-    publisher: Wikipedia
-    date: 2019-10-18
-    tier: 2
+- url: https://www.business-humanrights.org/en/latest-news/usa-amazon-warehouse-worker-who-died-of-heart-attack-at-work-reportedly-left-on-the-floor-for-20-minutes-before-receiving-treatment/
+  title: 'USA: Amazon warehouse worker who died of heart attack at work reportedly left on the floor for 20 minutes before receiving treatment'
+  date: 2019-10-18
+  tier: 1
+  outlet: Business & Human Rights Resource Centre
+- url: https://www.dailykos.com/stories/2019/10/21/1894080/-Amazon-worker-complaining-of-chest-pains-was-sent-back-to-work-died-on-the-floor-a-week-later
+  title: Amazon worker complaining of chest pains was sent back to work, died on the floor a week later
+  date: 2019-10-21
+  tier: 2
+  outlet: Daily Kos
+- url: https://en.wikipedia.org/wiki/List_of_Amazon_fatalities
+  title: List of Amazon fatalities
+  date: 2019-10-18
+  tier: 2
+  outlet: Wikipedia
 status: confirmed
 ---
 

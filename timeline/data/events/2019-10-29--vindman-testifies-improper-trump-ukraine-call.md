@@ -4,32 +4,32 @@ date: 2019-10-29
 title: Lt. Col. Vindman Testifies - "It Was Improper for the President to Demand Investigation of U.S. Citizen"
 importance: 9
 tags:
-  - First Impeachment
-  - Ukraine
-  - NSC
-  - Military
-  - Whistleblower
-  - Congressional Testimony
+- first impeachment
+- ukraine
+- nsc
+- military
+- whistleblower
+- congressional testimony
 actors:
-  - Alexander Vindman
-  - Donald Trump
-  - Fiona Hill
+- Alexander Vindman
+- Donald Trump
+- Fiona Hill
 sources:
-  - url: https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf
-    title: Deposition of Lt. Col. Alexander S. Vindman
-    publisher: House Intelligence Committee
-    date: 2019-10-29
-    tier: 1
-  - url: https://www.npr.org/2019/10/29/774179587/read-lt-col-vindmans-opening-statement-to-house-impeachment-investigators
-    title: "Read Lt. Col. Vindman's Opening Statement To House Impeachment Investigators"
-    publisher: NPR
-    date: 2019-10-29
-    tier: 1
-  - url: https://www.c-span.org/video/?466378-1/impeachment-hearing-lt-col-vindman-vice-president-pences-aide-testify
-    title: Impeachment Hearing - Lt. Col. Vindman Public Testimony
-    publisher: C-SPAN
-    date: 2019-11-19
-    tier: 1
+- url: https://docs.house.gov/meetings/IG/IG00/CPRT-116-IG00-D009.pdf
+  title: Deposition of Lt. Col. Alexander S. Vindman
+  date: 2019-10-29
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://www.npr.org/2019/10/29/774179587/read-lt-col-vindmans-opening-statement-to-house-impeachment-investigators
+  title: Read Lt. Col. Vindman's Opening Statement To House Impeachment Investigators
+  date: 2019-10-29
+  tier: 1
+  outlet: NPR
+- url: https://www.c-span.org/video/?466378-1/impeachment-hearing-lt-col-vindman-vice-president-pences-aide-testify
+  title: Impeachment Hearing - Lt. Col. Vindman Public Testimony
+  date: 2019-11-19
+  tier: 1
+  outlet: C-SPAN
 ---
 
 National Security Council Ukraine expert Lt. Col. Alexander Vindman, an Iraq War veteran and Purple Heart recipient, testified to House impeachment investigators on October 29, 2019 that he listened to President Trump's July 25 call with Ukrainian President Zelensky in real-time and immediately recognized it as improper. In his opening statement, Vindman declared: "It is improper for the President of the United States to demand a foreign government investigate a U.S. citizen and a political opponent." Vindman, who wore his Army dress uniform to emphasize his military service and nonpartisan credentials, testified that he reported his concerns to NSC legal counsel immediately after the call, making him a crucial corroborating witness to the central impeachable act.

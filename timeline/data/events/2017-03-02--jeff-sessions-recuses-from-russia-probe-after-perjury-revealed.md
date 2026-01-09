@@ -1,8 +1,7 @@
 ---
 id: 2017-03-02--jeff-sessions-recuses-from-russia-probe-after-perjury-revealed
 date: '2017-03-02'
-title: Jeff Sessions Forced to Recuse from Russia Investigation After Perjury About
-  Kislyak Meetings Revealed
+title: Jeff Sessions Forced to Recuse from Russia Investigation After Perjury About Kislyak Meetings Revealed
 importance: 10
 tags:
 - perjury
@@ -19,15 +18,14 @@ actors:
 sources:
 - url: https://www.npr.org/2017/03/02/518197125/attorney-general-jeff-sessions-recuses-himself-from-russia-investigations
   title: Attorney General Jeff Sessions Recuses Himself From Russia Investigations
-  publisher: NPR
   date: '2017-03-02'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/news/us-news/attorney-general-sessions-recuses-himself-probe-russian-election-interference-n728366
-  title: Attorney General Sessions Recuses Himself From Probe of Russian Election
-    Interference
-  publisher: NBC News
+  title: Attorney General Sessions Recuses Himself From Probe of Russian Election Interference
   date: '2017-03-02'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

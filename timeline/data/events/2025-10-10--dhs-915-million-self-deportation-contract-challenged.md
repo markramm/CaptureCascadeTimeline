@@ -1,8 +1,7 @@
 ---
 id: 2025-10-10--dhs-915-million-self-deportation-contract-challenged
 date: '2025-10-10'
-title: DHS Awards Secretive $915 Million 'Self-Deportation' Contract to Connected
-  Firm
+title: DHS Awards Secretive $915 Million 'Self-Deportation' Contract to Connected Firm
 importance: 8
 actors:
 - DHS
@@ -11,9 +10,9 @@ actors:
 sources:
 - title: Massive DHS 'Self-Deportation' Contract Challenged as Secretive and 'Unlawful'
   url: https://www.pogo.org/investigation/massive-dhs-self-deportation-contract-challenged
-  publisher: Project on Government Oversight
   date: '2025-10-10'
   tier: 1
+  outlet: Project on Government Oversight
 tags:
 - systematic-corruption
 - no-bid-contracts

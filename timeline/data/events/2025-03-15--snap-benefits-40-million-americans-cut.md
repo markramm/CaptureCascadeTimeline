@@ -2,11 +2,7 @@
 id: 2025-03-15--snap-benefits-40-million-americans-cut
 date: '2025-03-15'
 title: 40 Million Americans Face SNAP Benefits Reduction Under New Work Requirements
-description: Trump administration implements strict new work requirements for SNAP
-  (food stamps) affecting 40 million Americans. Additionally, over 1 million children
-  will lose Head Start early education as program faces elimination, and 4.3 million
-  workers could lose overtime protections under proposed regulatory changes from Project
-  2025 implementation.
+description: Trump administration implements strict new work requirements for SNAP (food stamps) affecting 40 million Americans. Additionally, over 1 million children will lose Head Start early education as program faces elimination, and 4.3 million workers could lose overtime protections under proposed regulatory changes from Project 2025 implementation.
 importance: 8
 tags:
 - snap
@@ -30,7 +26,7 @@ sources:
   date: '2025-03-15'
   url: https://democracyforward.org/press/snap-work-requirements
   title: 40 million Americans face reduced food assistance
-- outlet: Washington Post
+- outlet: The Washington Post
   date: '2025-03-15'
   url: https://www.washingtonpost.com/politics/2025/03/15/snap-benefits-work-requirements
   title: New SNAP work requirements to affect millions of Americans
@@ -45,14 +41,7 @@ patterns:
 - dismantle-safety-net
 - project-2025-implementation
 - attack-working-class
-notes: These changes represent the human cost of Project 2025 implementation. The
-  40 million Americans facing SNAP reductions include families, elderly, and disabled
-  individuals who rely on food assistance. The elimination of Head Start removes early
-  childhood education for over 1 million children, primarily from low-income families,
-  perpetuating cycles of poverty. The removal of overtime protections for 4.3 million
-  workers allows employers to demand longer hours without additional compensation.
-  Together, these policies transfer economic security from working families to corporate
-  interests while claiming to promote "self-sufficiency."
+notes: These changes represent the human cost of Project 2025 implementation. The 40 million Americans facing SNAP reductions include families, elderly, and disabled individuals who rely on food assistance. The elimination of Head Start removes early childhood education for over 1 million children, primarily from low-income families, perpetuating cycles of poverty. The removal of overtime protections for 4.3 million workers allows employers to demand longer hours without additional compensation. Together, these policies transfer economic security from working families to corporate interests while claiming to promote "self-sufficiency."
 capture_lanes:
 - Intelligence Penetration
 ---

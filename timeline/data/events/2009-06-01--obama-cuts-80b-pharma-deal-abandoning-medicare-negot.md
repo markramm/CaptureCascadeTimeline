@@ -20,11 +20,11 @@ status: confirmed
 sources:
 - title: Obama's Deal With Big Pharma Undermines Democracy
   url: https://www.huffpost.com/entry/obamas-deal-with-big-phar_b_270607
-  outlet: Huffington Post
+  outlet: HuffPost
   date: '2009-08-13'
 - title: White House confirms deal with pharma
   url: https://www.nytimes.com/2009/08/06/health/policy/06drug.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2009-08-06'
 - title: The $80 Billion Drug Deal That Haunts Obama's Legacy
   url: https://www.politico.com/story/2016/07/obamacare-prescription-drugs-pharma-225444

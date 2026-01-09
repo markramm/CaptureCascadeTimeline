@@ -4,34 +4,34 @@ date: 2021-03-05
 title: Palantir and AWS Formalize Strategic Partnership for Government Data Analytics
 importance: 8
 actors:
-  - Palantir Technologies
-  - Amazon Web Services
-  - CIA
-  - Department of Defense
+- Palantir Technologies
+- Amazon Web Services
+- CIA
+- Department of Defense
 tags:
-  - surveillance-infrastructure
-  - data-analytics
-  - intelligence-agencies
-  - government-contracts
-  - palantir
-  - aws
-  - corporate-integration
+- surveillance-infrastructure
+- data-analytics
+- intelligence-agencies
+- government-contracts
+- palantir
+- aws
+- corporate-integration
 sources:
-  - url: https://aws.amazon.com/blogs/apn/how-palantir-foundry-helps-customers-build-and-deploy-ai-powered-decision-making-applications/
-    title: "How Palantir Foundry Helps Customers Build and Deploy AI-Powered Decision-Making Applications"
-    publisher: AWS Partner Network Blog
-    date: 2021-03-05
-    tier: 1
-  - url: https://aws.amazon.com/marketplace/pp/prodview-a5m5xespbqyci
-    title: "Palantir Platform on AWS Marketplace"
-    publisher: Amazon Web Services
-    date: 2021-03-05
-    tier: 1
-  - url: https://www.fool.com/investing/2022/01/26/is-palantir-the-aws-of-data-analytics/
-    title: "Is Palantir the AWS of Data Analytics?"
-    publisher: The Motley Fool
-    date: 2022-01-26
-    tier: 2
+- url: https://aws.amazon.com/blogs/apn/how-palantir-foundry-helps-customers-build-and-deploy-ai-powered-decision-making-applications/
+  title: How Palantir Foundry Helps Customers Build and Deploy AI-Powered Decision-Making Applications
+  date: 2021-03-05
+  tier: 1
+  outlet: AWS Partner Network Blog
+- url: https://aws.amazon.com/marketplace/pp/prodview-a5m5xespbqyci
+  title: Palantir Platform on AWS Marketplace
+  date: 2021-03-05
+  tier: 1
+  outlet: Amazon Web Services
+- url: https://www.fool.com/investing/2022/01/26/is-palantir-the-aws-of-data-analytics/
+  title: Is Palantir the AWS of Data Analytics?
+  date: 2022-01-26
+  tier: 2
+  outlet: The Motley Fool
 ---
 
 Palantir Technologies and Amazon Web Services announce a formal strategic partnership to optimize Palantir's Foundry and Gotham platforms for deployment on AWS cloud infrastructure, integrating two of the most powerful surveillance and data analytics systems used by U.S. intelligence and defense agencies. The partnership combines Amazon's cloud infrastructure dominance with Palantir's specialized surveillance analytics capabilities, creating an integrated ecosystem for government data mining and intelligence operations.

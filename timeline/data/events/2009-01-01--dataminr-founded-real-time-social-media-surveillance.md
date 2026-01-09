@@ -19,19 +19,19 @@ actors:
 sources:
 - title: The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos
   url: https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/
-  publisher: The Intercept
   date: '2016-04-14'
   tier: 1
+  outlet: The Intercept
 - title: Dataminr - Wikipedia
   url: https://en.wikipedia.org/wiki/Dataminr
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - title: Why Twitter chose to do battle with the CIA
   url: https://www.cnbc.com/2016/05/13/why-twitter-chose-to-do-battle-with-the-cia.html
-  publisher: CNBC
   date: '2016-05-13'
   tier: 2
+  outlet: CNBC
 status: confirmed
 ---
 

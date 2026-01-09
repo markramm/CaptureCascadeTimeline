@@ -12,29 +12,29 @@ tags:
 sources:
 - url: https://www.cbsnews.com/news/epstein-files-redaction-over-500-pages-entirely-blacked-out/
   title: Over 500 pages in initial Epstein files release were entirely blacked out, CBS News finds
-  publisher: CBS News
   date: '2025-12-19'
   tier: 1
+  outlet: CBS News
 - url: https://www.npr.org/2025/12/19/nx-s1-5615152/epstein-files-release-trump-pam-bondi-democrats
   title: DOJ releases Epstein files and the first batch is short on new information
-  publisher: NPR
   date: '2025-12-19'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/justice-department/live-blog/epstein-files-release-trump-congress-live-updates-rcna245032
   title: Epstein files include redacted records, more photographs as Trump DOJ criticized for handling
-  publisher: NBC News
   date: '2025-12-19'
   tier: 1
+  outlet: NBC News
 - url: https://www.cnn.com/politics/live-news/jeffrey-epstein-files-released
   title: December 19, 2025 — Jeffrey Epstein files released
-  publisher: CNN
   date: '2025-12-19'
   tier: 1
+  outlet: CNN
 - url: https://theramm.substack.com/p/the-epstein-files
   title: The Epstein Files
-  publisher: The RAMM
   date: '2025-12-19'
   tier: 2
+  outlet: The RAMM
 actors:
 - Department of Justice
 - Todd Blanche

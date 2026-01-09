@@ -14,9 +14,9 @@ actors:
 - CAIR-MN
 tags:
 - immigration-enforcement
-- ICE
-- Somali-Americans
-- Minnesota
+- ice
+- somali-americans
+- minnesota
 - ethnic-targeting
 - racial-profiling
 - wrongful-detention
@@ -52,7 +52,7 @@ sources:
   outlet: CNN
   date: '2025-12-02'
   archive_url: null
-- title: "News Wrap: ICE plans operation targeting Somali immigrants in Minnesota"
+- title: 'News Wrap: ICE plans operation targeting Somali immigrants in Minnesota'
   url: https://www.pbs.org/newshour/show/news-wrap-ice-plans-operation-targeting-somali-immigrants-in-minnesota
   outlet: PBS NewsHour
   date: '2025-12-02'

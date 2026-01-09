@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.healthaffairs.org/content/forefront/politics-medicare-and-drug-price-negotiation-updated
   title: The Politics of Medicare and Drug-Price Negotiation
-  publisher: Health Affairs
   date: '2023-01-01'
   tier: 1
+  outlet: Health Affairs
 - url: https://kffhealthnews.org/news/article/column-big-pharma-drug-price-regulation-tactics-medicare-negotiations/
   title: A Peek at Big Pharma's Playbook That Leaves Many Americans Unable to Afford Their Drugs
-  publisher: KFF Health News
   date: '2023-01-01'
   tier: 1
+  outlet: KFF Health News
 - url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12179530/
   title: Negotiating Medicare Drug Prices - A New Attempt to Control Purchase Prices
-  publisher: National Center for Biotechnology Information
   date: '2024-01-01'
   tier: 1
+  outlet: National Center for Biotechnology Information
 actors:
 - Billy Tauzin
 - House Energy and Commerce Committee

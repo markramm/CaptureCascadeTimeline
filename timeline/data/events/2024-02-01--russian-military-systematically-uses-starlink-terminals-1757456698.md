@@ -20,7 +20,7 @@ sources:
   title: Ukrainian Intelligence Confirms Russian Forces Using Starlink Terminals
   url: https://kyivindependent.com/russian-military-reportedly-using-starlink-inside-ukraine/
   access_date: '2025-09-17'
-- outlet: Washington Post
+- outlet: The Washington Post
   title: Russia's Forces Are Illegally Using Starlink Terminals Against Ukraine
   url: https://www.washingtonpost.com/world/2024/10/12/starlink-russia-ukraine-elon-musk/
   access_date: '2025-09-17'

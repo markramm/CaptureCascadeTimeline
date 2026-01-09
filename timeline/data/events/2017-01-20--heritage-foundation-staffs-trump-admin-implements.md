@@ -25,7 +25,7 @@ sources:
   date: '2018-01-23'
 - title: How Heritage Foundation shaped Trump administration
   url: https://www.nytimes.com/2018/06/20/magazine/trump-government-heritage-foundation-think-tank.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-06-20'
 - title: Heritage Foundation's unprecedented influence
   url: https://www.politico.com/story/2018/01/23/heritage-foundation-trump-administration-358756

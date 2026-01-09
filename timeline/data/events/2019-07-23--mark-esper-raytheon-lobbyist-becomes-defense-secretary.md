@@ -14,24 +14,24 @@ tags:
 sources:
 - url: https://www.citizensforethics.org/reports-investigations/crew-investigations/mark-esper-raytheon-weapons-lobbyist/
   title: Mark Esper, former Raytheon weapons lobbyist, is in charge of the Pentagon
-  publisher: Citizens for Responsibility and Ethics in Washington
   date: '2019-07-23'
   tier: 1
+  outlet: Citizens for Responsibility and Ethics in Washington
 - url: https://www.defensenews.com/congress/2019/07/15/pentagon-nominee-esper-a-former-raytheon-lobbyist-must-extend-recusal/
   title: Pentagon nominee Esper, a former Raytheon lobbyist, must extend recusal, says Warren
-  publisher: Defense News
   date: '2019-07-15'
   tier: 2
+  outlet: Defense News
 - url: https://www.opensecrets.org/revolving/rev_summary.php?id=70733
   title: Revolving Door - Mark Esper Employment Summary
-  publisher: OpenSecrets
   date: '2019-07-23'
   tier: 1
+  outlet: OpenSecrets
 - url: https://slate.com/news-and-politics/2019/07/mark-esper-defense-secretary-raytheon-lobbyist.html
   title: Mark Esper is the new defense secretary and a former Raytheon lobbyist
-  publisher: Slate
   date: '2019-07-23'
   tier: 2
+  outlet: Slate
 actors:
 - Mark Esper
 - Raytheon

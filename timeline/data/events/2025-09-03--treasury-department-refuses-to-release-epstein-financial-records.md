@@ -10,17 +10,15 @@ tags:
 - financial-corruption
 sources:
 - url: https://www.finance.senate.gov/ranking-members-news/as-bessent-withholds-epstein-files-wyden-expands-investigation-and-demands-financial-records
-  title: As Bessent Withholds Epstein Files, Wyden Expands Investigation and Demands
-    Financial Records
-  publisher: Senate Finance Committee
+  title: As Bessent Withholds Epstein Files, Wyden Expands Investigation and Demands Financial Records
   date: '2025-09-03'
   tier: 1
+  outlet: Senate Finance Committee
 - url: https://abcnews.go.com/Politics/sen-wyden-pushes-treasury-department-release-epstein-banking/story?id=125220013
-  title: Sen. Wyden pushes Treasury Department release Epstein banking files to finance
-    committee
-  publisher: ABC News
+  title: Sen. Wyden pushes Treasury Department release Epstein banking files to finance committee
   date: '2025-09-03'
   tier: 1
+  outlet: ABC News
 actors:
 - Ron Wyden
 - Scott Bessent

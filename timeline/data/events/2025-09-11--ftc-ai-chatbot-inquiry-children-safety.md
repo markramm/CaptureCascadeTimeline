@@ -15,14 +15,14 @@ actors:
 sources:
 - title: FTC Launches Inquiry into AI Chatbots Acting as Companions
   url: https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions
-  publisher: Federal Trade Commission
   date: '2025-09-11'
   tier: 1
+  outlet: Federal Trade Commission
 - title: FTC launches inquiry into AI 'companion' chatbots from seven tech companies
   url: https://www.cnn.com/2025/09/11/tech/ftc-investigating-ai-companion-chatbots-kids-safety
-  publisher: CNN
   date: '2025-09-11'
   tier: 2
+  outlet: CNN
 tags:
 - ftc
 - ai-chatbots

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-12--trump-threatens-racketeering-investigation-against-george-soros
 date: '2025-09-12'
-title: Trump Threatens Racketeering Investigation Against George Soros for Funding
-  Protests
+title: Trump Threatens Racketeering Investigation Against George Soros for Funding Protests
 importance: 8
 tags:
 - weaponization-of-justice
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-09-12/trump-threatens-soros-racketeering-investigation-protests
   title: Trump Threatens Racketeering Investigation Against Soros
-  publisher: Bloomberg
   date: '2025-09-12'
   tier: 1
+  outlet: Bloomberg
 actors:
 - Donald Trump
 - George Soros

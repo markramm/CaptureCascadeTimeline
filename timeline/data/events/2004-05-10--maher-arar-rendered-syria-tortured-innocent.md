@@ -19,24 +19,24 @@ tags:
 sources:
 - title: Extraordinary Rendition - Maher Arar
   url: https://en.wikipedia.org/wiki/Extraordinary_rendition#Maher_Arar
-  publisher: Wikipedia (sourced from Canadian inquiry)
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia (sourced from Canadian inquiry)
 - title: Commission of Inquiry into the Actions of Canadian Officials in Relation to Maher Arar
   url: https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/smmr-rprt-mqr/index-en.aspx
-  publisher: Government of Canada
   date: '2006-09-18'
   tier: 1
+  outlet: Government of Canada
 - title: 20 Extraordinary Facts About CIA Extraordinary Rendition
   url: https://www.justiceinitiative.org/voices/20-extraordinary-facts-about-cia-extraordinary-rendition-and-secret-detention
-  publisher: Open Society Justice Initiative
   date: '2013-09-09'
   tier: 1
+  outlet: Open Society Justice Initiative
 - title: Maher Arar - ACLU Case
   url: https://www.aclu.org/cases/arar-v-ashcroft
-  publisher: ACLU
   date: '2013-11-02'
   tier: 1
+  outlet: ACLU
 ---
 
 Canadian inquiry conclusively determines that Maher Arar, a Syrian-born Canadian citizen, was wrongly rendered by the United States to Syria where he was tortured for nearly a year based on false intelligence provided by Canadian police. The inquiry finds Arar had no connection to terrorism and that faulty information sharing by the Royal Canadian Mounted Police led to his detention, rendition, and torture. Despite Canada's official exoneration, apology, and $10.5 million settlement, the U.S. refuses to acknowledge wrongdoing or remove Arar from terror watch lists. His case becomes the most documented example of extraordinary rendition destroying an innocent person's life, yet results in zero American accountability.

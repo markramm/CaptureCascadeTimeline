@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: Scott Pruitt Is Carrying Out His E.P.A. Agenda in Secret
   url: https://www.nytimes.com/2017/08/11/us/politics/scott-pruitt-epa.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2017-08-11'
 - title: All of Scott Pruitt scandals — a complete guide
   url: https://www.vox.com/policy-and-politics/2018/7/5/17535910/scott-pruitt-resigns-epa-scandals-list

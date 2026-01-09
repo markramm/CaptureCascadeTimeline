@@ -21,19 +21,19 @@ actors:
 sources:
 - title: Carbyne and Rio Grande Council of Governments Texas Launch Industry-First Cloud-Native i3 911 Contact Center
   url: https://www.prnewswire.com/news-releases/carbyne-and-rio-grande-council-of-governments-texas-launch-industry-first-cloud-native-i3-911-contact-center-301488732.html
-  publisher: PR Newswire
   date: '2022-02-14'
   tier: 2
+  outlet: PR Newswire
 - title: Region adopts new 911 platform with GPS and video feature
   url: https://bigbendsentinel.com/2022/02/16/region-adopts-new-911-platform-with-gps-and-video-feature/
-  publisher: Big Bend Sentinel
   date: '2022-02-16'
   tier: 3
+  outlet: Big Bend Sentinel
 - title: How Carbyne's cloud-native platform helps 911 call centers
   url: https://aws.amazon.com/blogs/publicsector/how-carbynes-cloud-native-platform-helps-911-call-centers-eyes-scene-more/
-  publisher: AWS Public Sector Blog
   date: '2022-06-15'
   tier: 2
+  outlet: AWS Public Sector Blog
 status: confirmed
 ---
 

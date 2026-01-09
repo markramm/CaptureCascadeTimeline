@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Oracle invested millions in government influence before winning a major stake in TikTok
   url: https://www.tucsonsentinel.com/nationworld/report/092925_oracle_tiktok/oracle-invested-millions-government-influence-before-winning-major-stake-tiktok/
-  publisher: Tucson Sentinel
   date: '2025-09-29'
   tier: 2
+  outlet: Tucson Sentinel
 - title: Oracle met with Senate aides about TikTok data storage after House ban passed
   url: https://www.cnbc.com/2024/04/22/oracle-met-with-senate-aides-on-tiktok-data-housing-project.html
-  publisher: CNBC
   date: '2024-04-22'
   tier: 2
+  outlet: CNBC
 - title: Federal lobbying set new record in 2024
   url: https://www.opensecrets.org/news/2025/02/federal-lobbying-set-new-record-in-2024/
-  publisher: OpenSecrets
   date: '2025-02-01'
   tier: 2
+  outlet: OpenSecrets
 ---
 
 Oracle Corporation spent approximately $11 million on federal lobbying during 2024, maintaining its position among an exclusive group of companies that exceeded eight figures in annual lobbying expenditures. This lobbying investment placed Oracle alongside tech giants including Amazon, Google's parent company Alphabet, and traditional corporate lobbying powerhouses like the U.S. Chamber of Commerce and General Motors. Oracle has maintained at least $11 million in annual federal lobbying spending for each of the previous four full years (2021-2024), demonstrating sustained investment in government influence operations.

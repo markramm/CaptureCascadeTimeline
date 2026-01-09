@@ -4,30 +4,30 @@ date: 2017-02-22
 title: Washington Post Launches "Democracy Dies in Darkness" Slogan Under Bezos Ownership
 importance: 7
 tags:
-  - media-capture
-  - billionaire-control
-  - irony
-  - branding
+- media-capture
+- billionaire-control
+- irony
+- branding
 actors:
-  - Jeff Bezos
-  - Washington Post
-  - Bob Woodward
+- Jeff Bezos
+- Washington Post
+- Bob Woodward
 sources:
-  - url: https://en.wikipedia.org/wiki/Democracy_Dies_in_Darkness
-    title: Democracy Dies in Darkness
-    publisher: Wikipedia
-    date: 2017-02-22
-    tier: 2
-  - url: https://thehill.com/homenews/media/320619-the-washington-post-democracy-dies-in-darkness/
-    title: "The Washington Post: 'Democracy dies in darkness'"
-    publisher: The Hill
-    date: 2017-02-22
-    tier: 2
-  - url: https://www.cbsnews.com/news/the-washington-post-introduces-its-new-slogan/
-    title: Washington Post sells itself to readership with new slogan
-    publisher: CBS News
-    date: 2017-02-23
-    tier: 1
+- url: https://en.wikipedia.org/wiki/Democracy_Dies_in_Darkness
+  title: Democracy Dies in Darkness
+  date: 2017-02-22
+  tier: 2
+  outlet: Wikipedia
+- url: https://thehill.com/homenews/media/320619-the-washington-post-democracy-dies-in-darkness/
+  title: 'The Washington Post: ''Democracy dies in darkness'''
+  date: 2017-02-22
+  tier: 2
+  outlet: The Hill
+- url: https://www.cbsnews.com/news/the-washington-post-introduces-its-new-slogan/
+  title: Washington Post sells itself to readership with new slogan
+  date: 2017-02-23
+  tier: 1
+  outlet: CBS News
 ---
 
 The Washington Post introduced "Democracy Dies in Darkness" as its first official slogan in the newspaper's 140-year history, launching it on the website on February 22, 2017 and adding it to print editions a week later. The slogan positioned the Bezos-owned newspaper as a defender of democratic accountability during the Trump era, while eliding the fundamental contradiction of a major democratic institution owned by one of the world's wealthiest billionaires with extensive government contracts and business interests.

@@ -4,33 +4,33 @@ date: 2021-07-27
 title: Daniel Hale Sentenced to 45 Months for Exposing Drone War Crimes
 importance: 8
 actors:
-  - Daniel Hale
-  - NSA
-  - The Intercept
-  - Department of Justice
-  - Biden Administration
+- Daniel Hale
+- NSA
+- The Intercept
+- Department of Justice
+- Biden Administration
 tags:
-  - whistleblower-prosecution
-  - espionage-act
-  - drones
-  - war-crimes
-  - afghanistan
+- whistleblower-prosecution
+- espionage-act
+- drones
+- war-crimes
+- afghanistan
 sources:
-  - url: https://theintercept.com/2021/07/27/daniel-hale-drone-leak-sentencing/
-    title: Daniel Hale Sentenced to 45 Months in Prison for Drone Leak
-    publisher: The Intercept
-    date: 2021-07-27
-    tier: 1
-  - url: https://standwithdanielhale.org/
-    title: Stand with Daniel Hale
-    publisher: Stand With Daniel Hale
-    date: 2021-07-27
-    tier: 2
-  - url: https://www.wsws.org/en/articles/2021/07/28/hale-j28.html
-    title: Drone war whistleblower Daniel Hale sentenced to 45 months
-    publisher: World Socialist Web Site
-    date: 2021-07-28
-    tier: 2
+- url: https://theintercept.com/2021/07/27/daniel-hale-drone-leak-sentencing/
+  title: Daniel Hale Sentenced to 45 Months in Prison for Drone Leak
+  date: 2021-07-27
+  tier: 1
+  outlet: The Intercept
+- url: https://standwithdanielhale.org/
+  title: Stand with Daniel Hale
+  date: 2021-07-27
+  tier: 2
+  outlet: Stand With Daniel Hale
+- url: https://www.wsws.org/en/articles/2021/07/28/hale-j28.html
+  title: Drone war whistleblower Daniel Hale sentenced to 45 months
+  date: 2021-07-28
+  tier: 2
+  outlet: World Socialist Web Site
 ---
 
 Former Air Force intelligence analyst and NSA contractor Daniel Everette Hale was sentenced to 45 months in federal prison for leaking classified documents that exposed the devastating civilian toll of the U.S. drone warfare program. His disclosures revealed that nearly 90 percent of people killed in drone strikes were not the intended targets.

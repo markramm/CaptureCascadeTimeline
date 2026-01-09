@@ -4,34 +4,34 @@ date: 2019-11-21
 title: Fiona Hill Testifies - Giuliani Ran Shadow Ukraine Policy for "Domestic Political Errand"
 importance: 9
 tags:
-  - First Impeachment
-  - Ukraine
-  - Shadow Diplomacy
-  - Russia
-  - NSC
-  - Disinformation
+- first impeachment
+- ukraine
+- shadow diplomacy
+- russia
+- nsc
+- disinformation
 actors:
-  - Fiona Hill
-  - Rudy Giuliani
-  - John Bolton
-  - Gordon Sondland
-  - Donald Trump
+- Fiona Hill
+- Rudy Giuliani
+- John Bolton
+- Gordon Sondland
+- Donald Trump
 sources:
-  - url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=809
-    title: "Impeachment Inquiry: Dr. Fiona Hill Public Testimony Transcript"
-    publisher: House Intelligence Committee
-    date: 2019-11-21
-    tier: 1
-  - url: https://www.npr.org/2019/11/21/781520312/read-opening-statement-from-fiona-hill-ex-nsc-russia-expert
-    title: "Read Opening Statement From Fiona Hill, Ex-NSC Russia Expert"
-    publisher: NPR
-    date: 2019-11-21
-    tier: 1
-  - url: https://www.c-span.org/video/?466380-1/impeachment-inquiry-hearing-fiona-hill-david-holmes
-    title: Impeachment Inquiry Hearing - Fiona Hill and David Holmes Testimony
-    publisher: C-SPAN
-    date: 2019-11-21
-    tier: 1
+- url: https://intelligence.house.gov/news/documentsingle.aspx?DocumentID=809
+  title: 'Impeachment Inquiry: Dr. Fiona Hill Public Testimony Transcript'
+  date: 2019-11-21
+  tier: 1
+  outlet: House Intelligence Committee
+- url: https://www.npr.org/2019/11/21/781520312/read-opening-statement-from-fiona-hill-ex-nsc-russia-expert
+  title: Read Opening Statement From Fiona Hill, Ex-NSC Russia Expert
+  date: 2019-11-21
+  tier: 1
+  outlet: NPR
+- url: https://www.c-span.org/video/?466380-1/impeachment-inquiry-hearing-fiona-hill-david-holmes
+  title: Impeachment Inquiry Hearing - Fiona Hill and David Holmes Testimony
+  date: 2019-11-21
+  tier: 1
+  outlet: C-SPAN
 ---
 
 Former National Security Council Russia expert Dr. Fiona Hill delivered searing testimony on November 21, 2019, exposing how Rudy Giuliani ran a shadow Ukraine policy for Trump's "domestic political errand" that undermined U.S. national security and advanced Russian interests. Hill, a respected foreign policy expert who served in both Republican and Democratic administrations, testified that former National Security Advisor John Bolton called the irregular Ukraine channel a "drug deal" and instructed her to report it to NSC lawyers. In her opening statement, Hill directly confronted Republican conspiracy theories, declaring: "This is what the Russians want—to pit us against each other, to undermine our institutions, to bring down democracies."

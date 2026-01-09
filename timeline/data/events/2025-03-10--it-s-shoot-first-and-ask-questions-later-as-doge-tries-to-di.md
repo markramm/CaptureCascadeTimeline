@@ -1,10 +1,8 @@
 ---
 id: 2025-03-10--it-s-shoot-first-and-ask-questions-later-as-doge-tries-to-di
 date: '2025-03-10'
-title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle CFPB:
-  Official'
-description: DOGE's attempted dismantling of CFPB blocked by federal courts, employees
-  reinstated
+title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle CFPB: Official'
+description: DOGE's attempted dismantling of CFPB blocked by federal courts, employees reinstated
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -21,13 +19,11 @@ tags:
 - worker-rights
 capture_type: regulatory_capture
 sources:
-- title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle
-    CFPB: Official'
+- title: 'It''s ''shoot first and ask questions later'' as DOGE tries to dismantle CFPB: Official'
   url: https://abcnews.go.com/US/cfpb-official-testifies-doges-chaotic-attempts-dismantle-agency/story?id=119651855
   outlet: ABC News
   date: '2025-03-10'
-- title: Judge blocks dismantling of Consumer Financial Protection Bureau, orders
-    reinstatement
+- title: Judge blocks dismantling of Consumer Financial Protection Bureau, orders reinstatement
   url: https://abcnews.go.com/Politics/judge-blocks-dismantling-consumer-financial-protection-bureau-orders/story?id=120277275
   outlet: ABC News
   date: '2025-03-12'
@@ -35,8 +31,7 @@ sources:
   url: https://abcnews.go.com/Politics/judge-orders-halt-mass-firings-consumer-financial-protection/story?id=120951391
   outlet: ABC News
   date: '2025-03-20'
-- title: Trump administration reinstating almost 25,000 fired workers after court
-    order
+- title: Trump administration reinstating almost 25,000 fired workers after court order
   url: https://www.reuters.com/legal/trump-administration-reinstating-24500-fired-workers-after-court-order-2025-03-18/
   outlet: Reuters
   date: '2025-03-18'
@@ -46,7 +41,7 @@ sources:
   date: '2025-03-13'
 - title: Judges order Trump officials to offer jobs back to thousands of fired workers
   url: https://www.washingtonpost.com/dc-md-va/2025/03/13/trump-probationary-federal-worker-firings-judge-ruling/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-03-13'
 - title: Court Orders CFPB to Reinstate Employees and Resume Operations
   url: https://www.consumerfinancialserviceslawmonitor.com/2025/03/court-orders-cfpb-to-reinstate-employees-and-resume-operations-cfpb-promptly-files-appeal/

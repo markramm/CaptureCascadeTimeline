@@ -13,23 +13,19 @@ connections:
 - Three Seas Initiative
 - Counter-China Strategy
 date: '2025-04-28'
-description: Donald Trump Jr. visited Romania as part of the 'Trump Business Vision
-  2025' tour, arriving just before the country's rescheduled presidential election.
-  The visit was strategically timed to counter Chinese influence in Eastern Europe
-  and promote US business interests.
+description: Donald Trump Jr. visited Romania as part of the 'Trump Business Vision 2025' tour, arriving just before the country's rescheduled presidential election. The visit was strategically timed to counter Chinese influence in Eastern Europe and promote US business interests.
 id: 2025-04-08--donald-trump-jr-to-visit-romania-right-before-contentious-el
 importance: 8
 location:
 - Romania
 - Eastern Europe
-notes: Part of a broader Eastern European tour aimed at expanding Trump business interests
-  and political influence
+notes: Part of a broader Eastern European tour aimed at expanding Trump business interests and political influence
 patterns:
 - kleptocratic-capture
 - international-influence-networks
 sources:
 - date: '2025-04-08'
-  outlet: POLITICO
+  outlet: Politico
   title: Donald Trump Jr. to visit Romania right before contentious election
   url: https://www.politico.eu/article/us-donald-trump-jr-visit-romania-right-before-election/
 - date: '2025-04-28'
@@ -39,8 +35,7 @@ sources:
   retrieved: '2025-10-06'
 - date: '2025-04-28'
   outlet: Romania Insider
-  title: Donald Trump Jr. reportedly coming to Romania a week before first round of
-    presidential elections
+  title: Donald Trump Jr. reportedly coming to Romania a week before first round of presidential elections
   url: https://www.romania-insider.com/donald-trump-jr-reportedly-coming-romania-2025
   retrieved: '2025-10-06'
 status: confirmed

@@ -25,10 +25,9 @@ sources:
   url: https://www.amazon.com/Takeover-Imperial-Presidency-Subversion-Democracy/dp/0316118044
   outlet: Charlie Savage
   date: '2007-05-01'
-- title: Presidential Signing Statements Accompanying the Fiscal Year 2006 Appropriations
-    Acts
+- title: Presidential Signing Statements Accompanying the Fiscal Year 2006 Appropriations Acts
   url: https://www.gao.gov/products/gao-07-720
-  outlet: Government Accountability Office
+  outlet: GAO
   date: '2007-06-18'
 capture_lanes:
 - Regulatory Capture

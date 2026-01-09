@@ -4,41 +4,41 @@ title: Rep. Tom Price Purchases Discounted Healthcare Stocks While Drafting Indu
 date: '2016-08-31'
 importance: 9
 actors:
-  - Tom Price
-  - Chris Collins
-  - Innate Immunotherapeutics
-  - Zimmer Biomet
-  - House Energy and Commerce Committee
+- Tom Price
+- Chris Collins
+- Innate Immunotherapeutics
+- Zimmer Biomet
+- House Energy and Commerce Committee
 tags:
-  - insider-trading
-  - congressional-corruption
-  - healthcare
-  - revolving-door
-  - stock-act-violation
-  - regulatory-capture
-  - hhs
+- insider-trading
+- congressional-corruption
+- healthcare
+- revolving-door
+- stock-act-violation
+- regulatory-capture
+- hhs
 status: confirmed
 sources:
-  - title: Democrats Say Cabinet Choice Tom Price 'Misled' The Public. Here's What We Know.
-    url: https://kffhealthnews.org/news/democrats-say-cabinet-choice-tom-price-misled-the-public-heres-what-we-know/
-    publisher: KFF Health News
-    date: '2017-01-18'
-    tier: 1
-  - title: Rep. Tom Price's STOCK Act Scandal
-    url: https://www.americanprogressaction.org/article/rep-tom-prices-stock-act-scandal/
-    publisher: Center for American Progress Action
-    date: '2017-01-16'
-    tier: 2
-  - title: Fired U.S. Attorney Preet Bharara Said to Have Been Investigating HHS Secretary Tom Price
-    url: https://www.propublica.org/article/preet-bharara-fired-investigating-tom-price-hhs-stock-trading
-    publisher: ProPublica
-    date: '2017-03-12'
-    tier: 1
-  - title: Tom Price's stock trading scandal isn't going away
-    url: https://slate.com/business/2017/01/tom-prices-stock-trading-scandal-isnt-going-away.html
-    publisher: Slate
-    date: '2017-01-17'
-    tier: 2
+- title: Democrats Say Cabinet Choice Tom Price 'Misled' The Public. Here's What We Know.
+  url: https://kffhealthnews.org/news/democrats-say-cabinet-choice-tom-price-misled-the-public-heres-what-we-know/
+  date: '2017-01-18'
+  tier: 1
+  outlet: KFF Health News
+- title: Rep. Tom Price's STOCK Act Scandal
+  url: https://www.americanprogressaction.org/article/rep-tom-prices-stock-act-scandal/
+  date: '2017-01-16'
+  tier: 2
+  outlet: Center for American Progress Action
+- title: Fired U.S. Attorney Preet Bharara Said to Have Been Investigating HHS Secretary Tom Price
+  url: https://www.propublica.org/article/preet-bharara-fired-investigating-tom-price-hhs-stock-trading
+  date: '2017-03-12'
+  tier: 1
+  outlet: ProPublica
+- title: Tom Price's stock trading scandal isn't going away
+  url: https://slate.com/business/2017/01/tom-prices-stock-trading-scandal-isnt-going-away.html
+  date: '2017-01-17'
+  tier: 2
+  outlet: Slate
 ---
 
 On August 31, 2016, Rep. Tom Price (R-GA), chairman of the House Budget Committee and member of the Ways and Means Health Subcommittee, purchased between $50,001 and $100,000 in discounted shares of Innate Immunotherapeutics, an Australian biotech company, through a private placement offering available to fewer than 20 U.S. investors. Price received a tip from Rep. Chris Collins (R-NY), who sat on Innate's board and owned 17 percent of the company, allegedly gaining access through a "friends-and-family program" that offered shares at a 12 percent discount unavailable to public investors. This purchase was part of over $300,000 in healthcare stock trades Price made in 2015-2016 while simultaneously drafting healthcare legislation affecting those companies' valuations, raising allegations of STOCK Act violations and insider trading that would later trigger investigations and controversy during his HHS Secretary nomination.

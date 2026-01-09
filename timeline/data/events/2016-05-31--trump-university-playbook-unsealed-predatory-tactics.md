@@ -4,32 +4,32 @@ date: 2016-05-31
 title: Judge Unseals Trump University Documents Revealing Predatory Sales Playbook Targeting Vulnerable Consumers
 importance: 9
 tags:
-  - Trump University
-  - Fraud
-  - Consumer Protection
-  - Court Documents
-  - Sales Tactics
-  - Judicial Transparency
+- trump university
+- fraud
+- consumer protection
+- court documents
+- sales tactics
+- judicial transparency
 actors:
-  - Gonzalo Curiel
-  - Donald Trump
-  - Ronald Schnackenberg
+- Gonzalo Curiel
+- Donald Trump
+- Ronald Schnackenberg
 sources:
-  - url: https://www.npr.org/sections/thetwo-way/2016/05/31/480214102/trump-university-playbooks-released-by-court-advise-being-courteous-to-media
-    title: Trump University Playbooks Released By Court Advise Being Courteous To Media
-    publisher: NPR
-    date: 2016-05-31
-    tier: 1
-  - url: https://abcnews.go.com/Politics/trump-university-lawsuit-documents-released/story?id=39506555
-    title: Inside the Trump University Sales Playbook
-    publisher: ABC News
-    date: 2016-05-31
-    tier: 1
-  - url: https://www.nbcnews.com/politics/2016-election/trump-university-staffers-describe-fraudulent-scheme-new-court-documents-n584071
-    title: Trump University Staffers Describe Fraudulent Scheme In New Court Documents
-    publisher: NBC News
-    date: 2016-06-01
-    tier: 1
+- url: https://www.npr.org/sections/thetwo-way/2016/05/31/480214102/trump-university-playbooks-released-by-court-advise-being-courteous-to-media
+  title: Trump University Playbooks Released By Court Advise Being Courteous To Media
+  date: 2016-05-31
+  tier: 1
+  outlet: NPR
+- url: https://abcnews.go.com/Politics/trump-university-lawsuit-documents-released/story?id=39506555
+  title: Inside the Trump University Sales Playbook
+  date: 2016-05-31
+  tier: 1
+  outlet: ABC News
+- url: https://www.nbcnews.com/politics/2016-election/trump-university-staffers-describe-fraudulent-scheme-new-court-documents-n584071
+  title: Trump University Staffers Describe Fraudulent Scheme In New Court Documents
+  date: 2016-06-01
+  tier: 1
+  outlet: NBC News
 ---
 
 U.S. District Judge Gonzalo Curiel ordered the unsealing of over 400 pages of Trump University documents on May 31, 2016, revealing internal sales "playbooks" that detailed aggressive, predatory tactics designed to extract maximum money from vulnerable consumers. The documents exposed systematic instructions for salespeople to encourage students to max out credit cards, open new credit cards when existing ones were at their limit, and withdraw money from retirement savings to pay for Trump University courses. The sales manuals explicitly stated "Money is never a reason for not enrolling in Trump University" and instructed employees to manipulate prospects emotionally, insisting "if they really believe in you and your product, they will find the money." Former Trump University sales manager Ronald Schnackenberg testified: "Based upon my personal experience and employment, I believe that Trump University was a fraudulent scheme, and that it preyed upon the elderly and uneducated to separate them from their money."

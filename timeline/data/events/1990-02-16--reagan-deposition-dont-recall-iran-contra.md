@@ -4,30 +4,30 @@ date: 1990-02-16
 title: Reagan Testifies "I Don't Recall" Repeatedly in Iran-Contra Deposition
 importance: 8
 tags:
-  - Iran-Contra
-  - Reagan-administration
-  - accountability
-  - perjury
-  - cover-up
+- iran-contra
+- reagan-administration
+- accountability
+- perjury
+- cover-up
 actors:
-  - Ronald Reagan
-  - John Poindexter
+- Ronald Reagan
+- John Poindexter
 sources:
-  - url: https://www.deseret.com/1990/2/22/18847711/knew-nothing-of-diversion-reagan-insists-in-now-public-testimony/
-    title: Knew Nothing of Diversion, Reagan Insists in Now-Public Testimony
-    publisher: Deseret News
-    date: 1990-02-22
-    tier: 2
-  - url: https://www.c-span.org/video/?c4448409/user-clip-reagan-testimony-iran-contra
-    title: Reagan Testimony Iran-Contra
-    publisher: C-SPAN
-    date: 1990-02-16
-    tier: 1
-  - url: https://fas.org/irp/offdocs/walsh/chap_30.htm
-    title: Walsh Report Chapter 30
-    publisher: Federation of American Scientists
-    date: 1993-08-04
-    tier: 1
+- url: https://www.deseret.com/1990/2/22/18847711/knew-nothing-of-diversion-reagan-insists-in-now-public-testimony/
+  title: Knew Nothing of Diversion, Reagan Insists in Now-Public Testimony
+  date: 1990-02-22
+  tier: 2
+  outlet: Deseret News
+- url: https://www.c-span.org/video/?c4448409/user-clip-reagan-testimony-iran-contra
+  title: Reagan Testimony Iran-Contra
+  date: 1990-02-16
+  tier: 1
+  outlet: C-SPAN
+- url: https://fas.org/irp/offdocs/walsh/chap_30.htm
+  title: Walsh Report Chapter 30
+  date: 1993-08-04
+  tier: 1
+  outlet: Federation of American Scientists
 ---
 
 Former President Ronald Reagan is questioned under oath in a videotaped deposition for the trial of former National Security Advisor John Poindexter, providing 293 pages of testimony in which he repeatedly claims he cannot recall virtually any specific details of the Iran-Contra affair. Reagan's extensive use of "I don't recall" and "I don't remember" becomes characteristic of his testimony strategy, allowing him to avoid providing incriminating information while technically not committing perjury.

@@ -4,37 +4,37 @@ date: '2020-12-01'
 title: Trump Pardon Corruption - Systematic Monetization of Presidential Clemency Power
 importance: 9
 actors:
-  - Donald Trump
-  - Rudy Giuliani
-  - Jared Kushner
-  - William Barr
+- Donald Trump
+- Rudy Giuliani
+- Jared Kushner
+- William Barr
 tags:
-  - Pardons
-  - Corruption
-  - Pay-to-Play
-  - Abuse-of-Power
-  - Constitutional-Crisis
+- pardons
+- corruption
+- pay-to-play
+- abuse-of-power
+- constitutional-crisis
 sources:
-  - title: An analysis of Trump's pardons reveals a president who rewards loyalty over justice
-    url: https://www.npr.org/2021/01/21/958532136/an-analysis-of-trumps-pardons-reveals-a-president-who-rewards-loyalty-over-justi
-    publisher: NPR
-    date: '2021-01-21'
-    tier: 1
-  - title: Trump's Pardon of Blackwater Guards Leaves Trail of Pain in Iraq
-    url: https://www.nytimes.com/2020/12/23/us/politics/trump-pardons-blackwater.html
-    publisher: New York Times
-    date: '2020-12-23'
-    tier: 1
-  - title: Trump pardons and commutations analysis
-    url: https://www.reuters.com/article/us-usa-trump-pardons-analysis-idUSKBN29P2AY
-    publisher: Reuters
-    date: '2021-01-21'
-    tier: 1
-  - title: Presidential Pardon Power - Constitutional Analysis
-    url: https://constitution.congress.gov/browse/essay/artII-S2-C1-5-1/ALDE_00013621/
-    publisher: Library of Congress
-    date: '2021-01-15'
-    tier: 1
+- title: An analysis of Trump's pardons reveals a president who rewards loyalty over justice
+  url: https://www.npr.org/2021/01/21/958532136/an-analysis-of-trumps-pardons-reveals-a-president-who-rewards-loyalty-over-justi
+  date: '2021-01-21'
+  tier: 1
+  outlet: NPR
+- title: Trump's Pardon of Blackwater Guards Leaves Trail of Pain in Iraq
+  url: https://www.nytimes.com/2020/12/23/us/politics/trump-pardons-blackwater.html
+  date: '2020-12-23'
+  tier: 1
+  outlet: The New York Times
+- title: Trump pardons and commutations analysis
+  url: https://www.reuters.com/article/us-usa-trump-pardons-analysis-idUSKBN29P2AY
+  date: '2021-01-21'
+  tier: 1
+  outlet: Reuters
+- title: Presidential Pardon Power - Constitutional Analysis
+  url: https://constitution.congress.gov/browse/essay/artII-S2-C1-5-1/ALDE_00013621/
+  date: '2021-01-15'
+  tier: 1
+  outlet: Library of Congress
 status: confirmed
 ---
 

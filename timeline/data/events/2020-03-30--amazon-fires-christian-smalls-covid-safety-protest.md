@@ -4,33 +4,33 @@ date: 2020-03-30
 title: Amazon Fires Christian Smalls for Organizing COVID Safety Protest
 importance: 9
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Christian Smalls
-  - David Zapolsky
+- Jeff Bezos
+- Amazon
+- Christian Smalls
+- David Zapolsky
 tags:
-  - Worker Exploitation
-  - Union Organizing
-  - Amazon
-  - COVID-19
-  - Corporate Accountability
-  - Retaliation
+- worker exploitation
+- union organizing
+- amazon
+- covid-19
+- corporate accountability
+- retaliation
 sources:
-  - url: https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/
-    title: "Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer: 'He's Not Smart or Articulate'"
-    publisher: Vice News
-    date: 2020-04-02
-    tier: 1
-  - url: https://www.cnbc.com/2020/04/02/amazon-lawyer-calls-fired-warehouse-worker-not-smart-or-articulate.html
-    title: "Amazon lawyer calls fired strike organizer 'not smart or articulate' in meeting with top execs"
-    publisher: CNBC
-    date: 2020-04-02
-    tier: 1
-  - url: https://www.commondreams.org/news/2020/04/03/leaked-memo-reveals-amazon-execs-plotted-paint-fired-not-smart-worker-face-entire
-    title: "Leaked Memo Reveals Amazon Execs Plotted to Paint Fired 'Not Smart' Worker as 'Face of Entire Union/Organizing Movement'"
-    publisher: Common Dreams
-    date: 2020-04-03
-    tier: 2
+- url: https://www.vice.com/en/article/leaked-amazon-memo-details-plan-to-smear-fired-warehouse-organizer-hes-not-smart-or-articulate/
+  title: 'Leaked Amazon Memo Details Plan to Smear Fired Warehouse Organizer: ''He''s Not Smart or Articulate'''
+  date: 2020-04-02
+  tier: 1
+  outlet: Vice News
+- url: https://www.cnbc.com/2020/04/02/amazon-lawyer-calls-fired-warehouse-worker-not-smart-or-articulate.html
+  title: Amazon lawyer calls fired strike organizer 'not smart or articulate' in meeting with top execs
+  date: 2020-04-02
+  tier: 1
+  outlet: CNBC
+- url: https://www.commondreams.org/news/2020/04/03/leaked-memo-reveals-amazon-execs-plotted-paint-fired-not-smart-worker-face-entire
+  title: Leaked Memo Reveals Amazon Execs Plotted to Paint Fired 'Not Smart' Worker as 'Face of Entire Union/Organizing Movement'
+  date: 2020-04-03
+  tier: 2
+  outlet: Common Dreams
 status: confirmed
 ---
 

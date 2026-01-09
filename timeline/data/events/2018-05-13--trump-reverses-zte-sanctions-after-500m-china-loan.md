@@ -23,7 +23,7 @@ sources:
   date: '2018-05-14'
 - title: Trump helps ZTE as China provides financing for Indonesia project
   url: https://www.nytimes.com/2018/05/15/world/asia/trump-hotel-china-indonesia.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2018-05-15'
 - title: Trump says he's working with Xi to save ZTE
   url: https://www.cnn.com/2018/05/13/politics/trump-xi-jinping-zte/index.html

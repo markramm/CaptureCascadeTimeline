@@ -1,8 +1,7 @@
 ---
 id: 2025-09-09--dni-gabbard-orders-nsa-to-retract-report-on-trump-officials-venezuela-talks
 date: '2025-09-09'
-title: Director of National Intelligence Gabbard Orders NSA Report Retraction to Shield
-  Trump Officials
+title: Director of National Intelligence Gabbard Orders NSA Report Retraction to Shield Trump Officials
 importance: 8
 tags:
 - intelligence-politicization
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.nytimes.com/2025/09/09/us/politics/tulsi-gabbard-nsa-report-venezuela-grenell.html
   title: Intelligence Director Scrubs Report on Trump Official Negotiations
-  publisher: New York Times
   date: '2025-09-09'
   tier: 1
+  outlet: The New York Times
 actors:
 - Tulsi Gabbard
 - Richard Grenell

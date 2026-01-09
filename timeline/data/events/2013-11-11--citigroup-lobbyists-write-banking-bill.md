@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.npr.org/sections/itsallpolitics/2013/11/11/243973620/when-lobbyists-literally-write-the-bill
   title: When Lobbyists Literally Write The Bill
-  publisher: NPR
   date: '2013-11-11'
   tier: 1
+  outlet: NPR
 - url: https://publicintegrity.org/politics/state-politics/copy-paste-legislate/you-elected-them-to-write-new-laws-theyre-letting-corporations-do-it-instead/
   title: You elected them to write new laws. They're letting corporations do it instead.
-  publisher: Center for Public Integrity
   date: '2019-04-03'
   tier: 1
+  outlet: Center for Public Integrity
 - url: https://represent.us/action/5-facts-lobbyists/
   title: 5 Absurd Ways Lobbyists Are Corrupting Our Country
-  publisher: RepresentUs
   date: '2024-01-01'
   tier: 2
+  outlet: RepresentUs
 actors:
 - Citigroup
 - House Financial Services Committee

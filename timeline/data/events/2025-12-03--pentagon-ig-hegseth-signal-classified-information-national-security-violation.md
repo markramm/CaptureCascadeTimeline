@@ -16,10 +16,10 @@ actors:
 tags:
 - national-security-violation
 - classified-information
-- Pete-Hegseth
-- DoD
-- Signal
-- Yemen-strikes
+- pete-hegseth
+- dod
+- signal
+- yemen-strikes
 - congressional-oversight
 - policy-violations
 - accountability-evasion

@@ -18,25 +18,25 @@ tags:
 status: confirmed
 sources:
 - url: https://www.npr.org/2018/05/10/610113364/transcript-homeland-security-secretary-kirstjen-nielsens-full-interview-with-npr
-  title: "Transcript: Homeland Security Secretary Kirstjen Nielsen's Full Interview With NPR"
-  publisher: NPR
+  title: 'Transcript: Homeland Security Secretary Kirstjen Nielsen''s Full Interview With NPR'
   date: '2018-05-10'
   tier: 1
+  outlet: NPR
 - url: https://abcnews.go.com/Politics/nielsen-defends-family-separation-simply-enforcing-law-apologize/story?id=55978997
-  title: "Nielsen defends family separation as simply enforcing the law: 'We will not apologize'"
-  publisher: ABC News
+  title: 'Nielsen defends family separation as simply enforcing the law: ''We will not apologize'''
   date: '2018-06-18'
   tier: 2
+  outlet: ABC News
 - url: https://www.factcheck.org/2018/06/nielsens-rhetoric-on-family-separations/
   title: Nielsen's Rhetoric on Family Separations
-  publisher: FactCheck.org
   date: '2018-06-18'
   tier: 1
+  outlet: FactCheck.org
 - url: https://www.nbcnews.com/politics/politics-news/former-dhs-chief-nielsen-claims-there-was-no-policy-separate-n1234745
-  title: "Ex-DHS chief Nielsen claims 'there was no policy to separate families,' despite presiding over it"
-  publisher: NBC News
+  title: Ex-DHS chief Nielsen claims 'there was no policy to separate families,' despite presiding over it
   date: '2020-08-05'
   tier: 1
+  outlet: NBC News
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture

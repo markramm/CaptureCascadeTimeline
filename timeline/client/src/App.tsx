@@ -1,24 +1,40 @@
 import { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-import { syncEvents } from './db/loader';
+import { syncEvents, type SyncResult } from './db/loader';
 import { db } from './db';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { TimelineTable } from './components/visualization/TimelineTable';
 import { EventEditor } from './components/editor/EventEditor';
 import { NetworkGraph } from './components/visualization/NetworkGraph';
-import { Database, LayoutDashboard, Bug, Plus, Share2, Settings as SettingsIcon } from 'lucide-react';
+import { Database, LayoutDashboard, Bug, Plus, Share2, Settings as SettingsIcon, AlertTriangle, X } from 'lucide-react';
 import { Settings as SettingsView } from './components/Settings';
 import { TimelineView } from './components/visualization/TimelineView';
+import { getConfig } from './config/timeline';
+
+interface InitState {
+  initialized: boolean;
+  count: number;
+  error?: string;
+  schemaWarning?: string;
+  source?: string;
+}
 
 function App() {
-  const [init, setInit] = useState<{ initialized: boolean; count: number; error?: string }>({
+  const [init, setInit] = useState<InitState>({
     initialized: false,
     count: 0
   });
+  const [dismissedWarning, setDismissedWarning] = useState(false);
 
   useEffect(() => {
+    const config = getConfig();
     syncEvents()
-      .then((res) => setInit({ initialized: true, count: res.count }))
+      .then((res: SyncResult) => setInit({
+        initialized: true,
+        count: res.count,
+        schemaWarning: res.schemaWarning,
+        source: config.dataUrl
+      }))
       .catch((err) => setInit({ initialized: true, count: 0, error: err.message }));
   }, []);
 
@@ -91,8 +107,36 @@ function App() {
         </aside>
 
         {/* Content */}
-        {/* Content */}
         <main style={{ flex: 1, overflowY: 'auto', background: '#f8fafc', position: 'relative' }}>
+          {/* Schema Warning Banner */}
+          {init.schemaWarning && !dismissedWarning && (
+            <div style={{
+              background: '#fef3c7',
+              borderBottom: '1px solid #f59e0b',
+              padding: '12px 20px',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '12px'
+            }}>
+              <AlertTriangle size={20} style={{ color: '#d97706', flexShrink: 0 }} />
+              <div style={{ flex: 1, fontSize: '0.9rem', color: '#92400e' }}>
+                <strong>Schema Version Warning:</strong> {init.schemaWarning}
+              </div>
+              <button
+                onClick={() => setDismissedWarning(true)}
+                style={{
+                  background: 'none',
+                  border: 'none',
+                  cursor: 'pointer',
+                  padding: '4px',
+                  color: '#92400e'
+                }}
+              >
+                <X size={18} />
+              </button>
+            </div>
+          )}
+
           <Routes>
             <Route path="/" element={<DashboardView />} />
             <Route path="/graph" element={<GraphView />} />

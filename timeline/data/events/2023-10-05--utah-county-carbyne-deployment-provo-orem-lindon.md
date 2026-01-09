@@ -19,19 +19,19 @@ actors:
 sources:
 - title: Carbyne's AI-Powered Tech Enhances 9-1-1 Emergency Response in Provo, Orem and Lindon, Utah
   url: https://www.prnewswire.com/news-releases/carbynes-ai-powered-tech-enhances-9-1-1-emergency-response-in-provo-orem-and-lindon-utah-301947444.html
-  publisher: PR Newswire
   date: '2023-10-05'
   tier: 2
+  outlet: PR Newswire
 - title: Metro Emergency Communications dispatch gets technology upgrade
   url: https://www.heraldextra.com/news/local/2023/oct/18/metro-emergency-communications-dispatch-gets-technology-upgrade/
-  publisher: Daily Herald
   date: '2023-10-18'
   tier: 2
+  outlet: Daily Herald
 - title: Utah County using new AI platform for emergency response
   url: https://statescoop.com/utah-county-artificial-intelligence-carbyne/
-  publisher: StateScoop
   date: '2023-10-12'
   tier: 2
+  outlet: StateScoop
 status: confirmed
 ---
 

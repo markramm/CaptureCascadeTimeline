@@ -10,29 +10,29 @@ actors:
 - Department of Defense
 - Boeing
 tags:
-- Military-Industrial Complex
-- Defense Contractors
-- Monopoly Power
-- Mergers and Acquisitions
-- Antitrust
-- Pentagon Contracts
-- Market Consolidation
+- military-industrial complex
+- defense contractors
+- monopoly power
+- mergers and acquisitions
+- antitrust
+- pentagon contracts
+- market consolidation
 sources:
 - url: https://www.ftc.gov/news-events/news/press-releases/2018/06/ftc-imposes-conditions-northrop-grummans-acquisition-solid-rocket-motor-supplier-orbital-atk-inc
   title: FTC Imposes Conditions on Northrop Grumman's Acquisition of Solid Rocket Motor Supplier Orbital ATK
-  publisher: Federal Trade Commission
   date: '2018-06-06'
   tier: 1
+  outlet: Federal Trade Commission
 - url: https://spacenews.com/acquisition-of-orbital-atk-approved-company-renamed-northrop-grumman-innovation-systems/
   title: Acquisition of Orbital ATK approved, company renamed Northrop Grumman Innovation Systems
-  publisher: SpaceNews
   date: '2018-06-06'
   tier: 2
+  outlet: SpaceNews
 - url: https://www.defensenews.com/industry/2018/06/06/whats-next-for-northrop-grumman-and-orbital-atk/
   title: What's next for Northrop Grumman and Orbital ATK?
-  publisher: Defense News
   date: '2018-06-06'
   tier: 2
+  outlet: Defense News
 ---
 
 Northrop Grumman completed its $9.2 billion acquisition of Orbital ATK on June 6, 2018, gaining control of the premier supplier of solid rocket motors essential for missile systems and creating anticompetitive market dominance that the Federal Trade Commission warned would "reduce competition in the market for missile systems purchased by the U.S. government, resulting in less innovation and higher prices for taxpayers." The acquisition, which involved $7.8 billion in cash and assumption of $1.4 billion in debt, gave Northrop vertical integration from missile prime contractor to critical propulsion component supplier, enabling the company to control both the production of complete weapons systems and the essential solid rocket motors that competitors depend on to build their own missile systems.

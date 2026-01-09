@@ -4,41 +4,41 @@ date: '2020-12-22'
 title: Trump Pardons Four Blackwater Contractors for Nisour Square Massacre
 importance: 9
 actors:
-  - Donald Trump
-  - Erik Prince
-  - Betsy DeVos
-  - Nicholas Slatten
-  - Paul Slough
-  - Evan Liberty
-  - Dustin Heard
+- Donald Trump
+- Erik Prince
+- Betsy DeVos
+- Nicholas Slatten
+- Paul Slough
+- Evan Liberty
+- Dustin Heard
 tags:
-  - Pardons
-  - Corruption
-  - War-Crimes
-  - Blackwater
-  - Abuse-of-Power
-  - Iraq-War
+- pardons
+- corruption
+- war-crimes
+- blackwater
+- abuse-of-power
+- iraq-war
 sources:
-  - title: Trump Pardons Blackwater Guards Who Killed 14 Iraqi Civilians
-    url: https://www.nytimes.com/2020/12/22/us/politics/blackwater-pardons-trump.html
-    publisher: New York Times
-    date: '2020-12-22'
-    tier: 1
-  - title: Trump pardons Blackwater contractors jailed for massacre of Iraq civilians
-    url: https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians
-    publisher: The Guardian
-    date: '2020-12-23'
-    tier: 1
-  - title: UN says Trump pardons for Blackwater guards violate international law
-    url: https://www.theguardian.com/world/2020/dec/30/un-human-rights-experts-trump-pardons-blackwater-guards
-    publisher: The Guardian
-    date: '2020-12-30'
-    tier: 1
-  - title: Blackwater guards sentenced to lengthy prison terms for 2007 massacre
-    url: https://www.washingtonpost.com/local/legal-issues/blackwater-guards-sentenced-to-lengthy-prison-terms-for-2007-massacre-of-iraqi-civilians/2015/04/13/5d850266-e1b1-11e4-b510-962fcfabc310_story.html
-    publisher: Washington Post
-    date: '2015-04-13'
-    tier: 1
+- title: Trump Pardons Blackwater Guards Who Killed 14 Iraqi Civilians
+  url: https://www.nytimes.com/2020/12/22/us/politics/blackwater-pardons-trump.html
+  date: '2020-12-22'
+  tier: 1
+  outlet: The New York Times
+- title: Trump pardons Blackwater contractors jailed for massacre of Iraq civilians
+  url: https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians
+  date: '2020-12-23'
+  tier: 1
+  outlet: The Guardian
+- title: UN says Trump pardons for Blackwater guards violate international law
+  url: https://www.theguardian.com/world/2020/dec/30/un-human-rights-experts-trump-pardons-blackwater-guards
+  date: '2020-12-30'
+  tier: 1
+  outlet: The Guardian
+- title: Blackwater guards sentenced to lengthy prison terms for 2007 massacre
+  url: https://www.washingtonpost.com/local/legal-issues/blackwater-guards-sentenced-to-lengthy-prison-terms-for-2007-massacre-of-iraqi-civilians/2015/04/13/5d850266-e1b1-11e4-b510-962fcfabc310_story.html
+  date: '2015-04-13'
+  tier: 1
+  outlet: The Washington Post
 status: confirmed
 ---
 

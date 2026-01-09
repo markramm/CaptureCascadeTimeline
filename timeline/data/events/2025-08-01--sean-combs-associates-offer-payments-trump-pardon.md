@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--sean-combs-associates-offer-payments-trump-pardon
 date: '2025-08-01'
-title: Sean Combs Associates Offer Mid-Six-Figure Payments to Trump Officials for
-  Presidential Pardon
+title: Sean Combs Associates Offer Mid-Six-Figure Payments to Trump Officials for Presidential Pardon
 importance: 8
 actors:
 - Sean Combs
@@ -17,20 +16,19 @@ tags:
 sources:
 - url: https://www.rollingstone.com/music/music-features/sean-diddy-combs-trump-pardon-trial-1235340256/
   title: Sean 'Diddy' Combs Allies Are Actively Working for a Trump Pardon
-  publisher: Rolling Stone
   date: '2025-08-01'
   tier: 2
+  outlet: Rolling Stone
 - url: https://www.cnn.com/2025/08/05/entertainment/nicole-westmoreland-sean-diddy-combs-trump
-  title: Attorney for Sean 'Diddy' Combs confirms they've approached Trump administration
-    about pardon
-  publisher: CNN
+  title: Attorney for Sean 'Diddy' Combs confirms they've approached Trump administration about pardon
   date: '2025-08-05'
   tier: 2
+  outlet: CNN
 - url: https://www.rollingstone.com/music/music-features/sean-diddy-combs-donald-trump-pardon-1235398106/
   title: Sean 'Diddy' Combs' Allies Up Pardon Talks. Survivors Want Them Shut Down
-  publisher: Rolling Stone
   date: '2025-08-01'
   tier: 2
+  outlet: Rolling Stone
 ---
 
 Rolling Stone reported that associates of convicted Sean 'Diddy' Combs offered mid-six-figure payments to Trump administration officials, political operatives, and lobbyists to secure a presidential pardon. The efforts began months before Trump's inauguration and intensified after Combs' conviction on federal prostitution-related charges. On August 5, Combs' attorney Nicole Westmoreland confirmed the defense team had officially approached the Trump administration seeking clemency.

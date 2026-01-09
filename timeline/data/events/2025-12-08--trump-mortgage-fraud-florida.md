@@ -1,33 +1,33 @@
 ---
-id: "2025-12-08--trump-mortgage-fraud-florida"
-date: "2025-12-08"
-title: "ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal"
-summary: "ProPublica investigation reveals that in 1993-1994, Donald Trump signed two mortgages for neighboring Palm Beach properties, falsely claiming each would be his primary residence despite never living in either home and instead using them as rental properties. This directly contradicts Trump's current administration policy, where Federal Housing Finance Agency director Bill Pulte has stated that 'claiming two primary residences' warrants criminal investigation. Trump's administration has used this definition to target political opponents including Federal Reserve member Lisa Cook and New York AG Letitia James, while Trump himself committed the exact conduct he now characterizes as 'deceitful and potentially criminal,' demonstrating corruption through selective enforcement based on political loyalty."
+id: 2025-12-08--trump-mortgage-fraud-florida
+date: '2025-12-08'
+title: ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
+summary: ProPublica investigation reveals that in 1993-1994, Donald Trump signed two mortgages for neighboring Palm Beach properties, falsely claiming each would be his primary residence despite never living in either home and instead using them as rental properties. This directly contradicts Trump's current administration policy, where Federal Housing Finance Agency director Bill Pulte has stated that 'claiming two primary residences' warrants criminal investigation. Trump's administration has used this definition to target political opponents including Federal Reserve member Lisa Cook and New York AG Letitia James, while Trump himself committed the exact conduct he now characterizes as 'deceitful and potentially criminal,' demonstrating corruption through selective enforcement based on political loyalty.
 importance: 8
 actors:
-  - Donald Trump
-  - Bill Pulte
-  - ProPublica
-  - Merrill Lynch
-  - Bank of America
+- Donald Trump
+- Bill Pulte
+- ProPublica
+- Merrill Lynch
+- Bank of America
 tags:
-  - mortgage-fraud
-  - financial-crimes
-  - hypocrisy
-  - selective-enforcement
-  - real-estate
-  - Florida
+- mortgage-fraud
+- financial-crimes
+- hypocrisy
+- selective-enforcement
+- real-estate
+- florida
 sources:
-  - url: "https://www.propublica.org/article/trump-mortgage-fraud-florida-principal-residences"
-    title: "Trump's Own Mortgages Match His Description of Mortgage Fraud, Records Reveal"
-    publisher: "ProPublica"
-    date: "2025-12-08"
-    tier: 1
-  - url: "https://www.democracynow.org/2025/12/9/headlines/propublica_trumps_mortgages_match_his_description_of_mortgage_fraud"
-    title: "ProPublica: Trump's Mortgages Match His Description of Mortgage Fraud"
-    publisher: "Democracy Now!"
-    date: "2025-12-09"
-    tier: 1
+- url: https://www.propublica.org/article/trump-mortgage-fraud-florida-principal-residences
+  title: Trump's Own Mortgages Match His Description of Mortgage Fraud, Records Reveal
+  date: '2025-12-08'
+  tier: 1
+  outlet: ProPublica
+- url: https://www.democracynow.org/2025/12/9/headlines/propublica_trumps_mortgages_match_his_description_of_mortgage_fraud
+  title: 'ProPublica: Trump''s Mortgages Match His Description of Mortgage Fraud'
+  date: '2025-12-09'
+  tier: 1
+  outlet: Democracy Now!
 ---
 
 # ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal

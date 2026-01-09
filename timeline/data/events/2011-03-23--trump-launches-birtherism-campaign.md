@@ -1,33 +1,33 @@
 ---
 id: 2011-03-23--trump-launches-birtherism-campaign
 date: 2011-03-23
-title: "Trump Launches Political Career with Racist Birther Conspiracy"
+title: Trump Launches Political Career with Racist Birther Conspiracy
 importance: 9
 tags:
-  - Racism
-  - Birtherism
-  - Donald Trump
-  - Barack Obama
-  - Conspiracy Theory
+- racism
+- birtherism
+- donald trump
+- barack obama
+- conspiracy theory
 actors:
-  - Donald Trump
-  - Barack Obama
+- Donald Trump
+- Barack Obama
 sources:
-  - url: https://abcnews.go.com/Politics/donald-trump-perpetuated-birther-movement-years/story?id=42138176
-    title: "How Donald Trump Perpetuated the 'Birther' Movement for Years"
-    publisher: ABC News
-    date: 2016-09-16
-    tier: 1
-  - url: https://www.cnn.com/2016/09/09/politics/donald-trump-birther
-    title: "14 of Trump's most outrageous 'birther' claims"
-    publisher: CNN
-    date: 2016-09-09
-    tier: 1
-  - url: https://www.factcheck.org/2016/09/trump-on-birtherism-wrong-and-wrong/
-    title: "Trump on Birtherism: Wrong, and Wrong"
-    publisher: FactCheck.org
-    date: 2016-09-16
-    tier: 1
+- url: https://abcnews.go.com/Politics/donald-trump-perpetuated-birther-movement-years/story?id=42138176
+  title: How Donald Trump Perpetuated the 'Birther' Movement for Years
+  date: 2016-09-16
+  tier: 1
+  outlet: ABC News
+- url: https://www.cnn.com/2016/09/09/politics/donald-trump-birther
+  title: 14 of Trump's most outrageous 'birther' claims
+  date: 2016-09-09
+  tier: 1
+  outlet: CNN
+- url: https://www.factcheck.org/2016/09/trump-on-birtherism-wrong-and-wrong/
+  title: 'Trump on Birtherism: Wrong, and Wrong'
+  date: 2016-09-16
+  tier: 1
+  outlet: FactCheck.org
 ---
 
 Donald Trump launched his political career by promoting the racist "birther" conspiracy theory, publicly questioning whether Barack Obama—the nation's first Black president—was born in the United States and therefore eligible to serve as president. In a March 23, 2011 appearance on Good Morning America, Trump announced he was "seriously considering" running for president while expressing skepticism about Obama's citizenship, beginning a years-long campaign of racist conspiracy theories that would propel Trump to prominence in Republican politics.

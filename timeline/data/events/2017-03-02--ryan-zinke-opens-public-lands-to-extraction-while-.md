@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: Ryan Zinke resigns as interior secretary amid investigations
   url: https://www.washingtonpost.com/national/health-science/ryan-zinke-resigns-as-interior-secretary-amid-investigations/2018/12/15/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2018-12-15'
 - title: Trump shrinks two national monuments in Utah
   url: https://www.cnn.com/2017/12/04/politics/trump-utah-monuments/index.html
@@ -27,7 +27,7 @@ sources:
   date: '2017-12-04'
 - title: David Bernhardt confirmed despite conflicts of interest
   url: https://www.nytimes.com/2019/04/11/climate/david-bernhardt-interior-secretary.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-04-11'
 capture_lanes:
 - Regulatory Capture

@@ -20,24 +20,24 @@ tags:
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
-  publisher: U.S. Senate Select Committee on Intelligence
   date: '2014-12-09'
   tier: 1
+  outlet: U.S. Senate Select Committee on Intelligence
 - title: Senate Report - CIA Misled Public on Torture
   url: https://www.hrw.org/news/2014/12/10/us-senate-report-slams-cia-torture-lies
-  publisher: Human Rights Watch
   date: '2014-12-10'
   tier: 1
+  outlet: Human Rights Watch
 - title: The CIA Torture Report - What You Need to Know
   url: https://www.pbs.org/wgbh/frontline/article/the-cia-torture-report-what-you-need-to-know/
-  publisher: PBS Frontline
   date: '2014-12-09'
   tier: 1
+  outlet: PBS Frontline
 - title: Senate Torture Report
   url: https://www.aclu.org/publications/senate-torture-report
-  publisher: ACLU
   date: '2014-12-09'
   tier: 1
+  outlet: ACLU
 ---
 
 The Senate Select Committee on Intelligence releases a 525-page executive summary of its comprehensive investigation into the CIA's detention and interrogation program, revealing that the program was far more brutal, widespread, and ineffective than the CIA disclosed. The report, based on a five-year investigation of more than 6 million CIA documents, conclusively demonstrates that enhanced interrogation techniques constituted torture under international law, failed to produce actionable intelligence, and were accompanied by systematic lies to Congress, the White House, the Justice Department, and the American public. Senator Dianne Feinstein declares the program a "stain on our values and on our history."

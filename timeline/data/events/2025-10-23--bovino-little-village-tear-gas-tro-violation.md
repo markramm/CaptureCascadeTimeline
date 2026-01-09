@@ -25,24 +25,24 @@ actors:
 sources:
 - title: Federal Judge Orders Border Patrol Chief Greg Bovino, Who Fired Tear Gas at Little Village Crowd, Into Court
   url: https://news.wttw.com/2025/10/24/federal-judge-orders-border-patrol-chief-greg-bovino-who-fired-tear-gas-little-village
-  publisher: WTTW Chicago
   date: '2025-10-24'
   tier: 1
+  outlet: WTTW Chicago
 - title: Border Patrol Cmdr. Gregory Bovino accused of violating judge's order by throwing tear gas at crowd in Little Village Thursday
   url: https://www.chicagotribune.com/2025/10/23/federal-immigration-agents-deploy-tear-gas-discount-mall-little-village/
-  publisher: Chicago Tribune
   date: '2025-10-23'
   tier: 2
+  outlet: Chicago Tribune
 - title: Border Patrol chief Gregory Bovino accused of violating restraining order by throwing tear gas in Little Village
   url: https://www.cbsnews.com/chicago/news/border-patrol-bovino-tear-gas-little-village-chicago/
-  publisher: CBS Chicago
   date: '2025-10-23'
   tier: 1
+  outlet: CBS Chicago
 - title: Border Patrol Commander Gregory Bovino summoned to court after allegedly throwing tear gas at Chicago protesters
   url: https://www.cnn.com/2025/10/28/us/chicago-protestors-tear-gas-gregory-bovino
-  publisher: CNN
   date: '2025-10-28'
   tier: 1
+  outlet: CNN
 status: confirmed
 ---
 

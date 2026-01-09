@@ -2,9 +2,7 @@
 id: 2025-08-07--trump-delayed-a-medicare-change-after-health-company-donatio
 date: '2025-08-07'
 title: Trump delayed a Medicare change after health company donations
-description: Trump reversed his decision to bar Medicare from covering bandages after
-  the biotech company Extremity Care—maker of high-end bandages crafted from dried
-  placenta—donated $5 million to the MAGA Inc. super PAC
+description: Trump reversed his decision to bar Medicare from covering bandages after the biotech company Extremity Care—maker of high-end bandages crafted from dried placenta—donated $5 million to the MAGA Inc. super PAC
 status: confirmed
 importance: 10
 location: Washington, D.C.
@@ -18,10 +16,9 @@ capture_type: monetizing_position
 sources:
 - title: Trump delayed a Medicare change after health company donations
   url: https://www.nytimes.com/2025/08/07/us/politics/trump-medicare-bandages-donors.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-08-07'
-- title: Days after 5 million donation to MAGA Inc., Trump freezes Medicare waste
-    crackdown
+- title: Days after 5 million donation to MAGA Inc., Trump freezes Medicare waste crackdown
   url: https://popular.info/p/days-after-5-million-donation-to
   outlet: Popular Information
   date: '2025-08-07'
@@ -29,8 +26,7 @@ sources:
   url: https://dnyuz.com/2025/08/07/trump-delayed-a-medicare-change-after-health-companies-donations/
   outlet: Dnyuz
   date: '2025-08-07'
-- title: NYT Echoes Public Citizen Findings that Trump Delayed a Medicare Price Change
-    Following Health Company 5 million Donation
+- title: NYT Echoes Public Citizen Findings that Trump Delayed a Medicare Price Change Following Health Company 5 million Donation
   url: https://www.citizen.org/news/icymi-nyt-echoes-public-citizen-findings-that-trump-delayed-a-medicare-price-change-following-health-companys-5-million-donation/
   outlet: Public Citizen
   date: '2025-08-07'

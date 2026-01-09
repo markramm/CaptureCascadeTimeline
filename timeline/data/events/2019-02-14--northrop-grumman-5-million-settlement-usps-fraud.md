@@ -9,28 +9,28 @@ actors:
 - U.S. Postal Service
 - USPS Office of Inspector General
 tags:
-- Defense Contractors
-- Fraud
-- False Claims Act
-- Contractor Abuse
-- Accountability
-- Cost-Plus Contracts
+- defense contractors
+- fraud
+- false claims act
+- contractor abuse
+- accountability
+- cost-plus contracts
 sources:
 - url: https://www.justice.gov/archives/opa/pr/northrop-grumman-systems-corporation-agrees-pay-52-million-settle-allegations-false-labor
   title: Northrop Grumman Systems Corporation Agrees to Pay $5.2 Million to Settle Allegations of False Labor Charges
-  publisher: U.S. Department of Justice
   date: '2019-02-14'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.uspsoig.gov/reports/investigative-news-releases/northrop-grumman-systems-agrees-pay-52-million-settle
   title: Northrop Grumman Systems Agrees to Pay $5.2 Million to Settle Allegations of False Labor Charges
-  publisher: U.S. Postal Service Office of Inspector General
   date: '2019-02-14'
   tier: 1
+  outlet: U.S. Postal Service Office of Inspector General
 - url: https://violationtracker.goodjobsfirst.org/parent/northrop-grumman
   title: Northrop Grumman Violation Tracker
-  publisher: Good Jobs First
   date: '2019-02-14'
   tier: 2
+  outlet: Good Jobs First
 ---
 
 Northrop Grumman Systems Corporation agreed to pay $5.2 million to resolve False Claims Act allegations that it fraudulently billed the United States Postal Service for personnel who lacked the required education and experience qualifications specified in their contract labor categories. The settlement resolved government allegations that NGSC knowingly charged for certain personnel working under the Enterprise Technology Support (ETS) Contract using inflated labor categories for which those workers did not possess the credentials, education, or experience required, systematically overbilling the Postal Service for lower-skilled labor presented as senior technical expertise.

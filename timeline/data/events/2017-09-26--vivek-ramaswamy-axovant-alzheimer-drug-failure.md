@@ -21,14 +21,13 @@ sources:
   url: https://www.newsweek.com/vivek-ramaswamy-fraud-always-has-been-opinion-1823853
   outlet: Newsweek
   date: '2023-08-16'
-- title: Billionaire Vivek Ramaswamy is a Wall Street speculator accused of pump-and-dump
-    schemes
+- title: Billionaire Vivek Ramaswamy is a Wall Street speculator accused of pump-and-dump schemes
   url: https://geopoliticaleconomy.com/2024/12/27/vivek-ramaswamy-wall-street-pump-and-dump/
   outlet: Geopolitical Economy Report
   date: '2024-12-27'
 - title: Vivek Ramaswamy's push for FDA changes could boost his wealth
   url: https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2024-11-25'
 status: confirmed
 capture_lanes:

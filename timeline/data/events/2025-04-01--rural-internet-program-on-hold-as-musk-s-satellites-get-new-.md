@@ -11,13 +11,12 @@ actors:
 - Howard Lutnick
 sources:
 - date: '2025-04-01'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Rural internet program on hold as Musk's satellites get new consideration
   url: https://www.washingtonpost.com/technology/2025/04/01/rural-broadband-satellites-starlink-kuiper/
 - date: '2025-03-28'
   outlet: NPR
-  title: Trump's changes to a $42 billion broadband program could be a win for Musk's
-    Starlink
+  title: Trump's changes to a $42 billion broadband program could be a win for Musk's Starlink
   url: https://www.npr.org/2025/03/28/nx-s1-5338963/musk-starlink-broadband-commerce
 - date: '2025-03-06'
   outlet: CNN

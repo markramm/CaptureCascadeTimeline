@@ -4,39 +4,39 @@ date: '2022-08-18'
 title: Allen Weisselberg Pleads Guilty to 15 Felonies, Agrees to Testify Against Trump Organization
 importance: 8
 tags:
-  - Tax Fraud
-  - Trump Organization
-  - Allen Weisselberg
-  - Guilty Plea
-  - Manhattan DA
-  - Criminal Prosecution
+- tax fraud
+- trump organization
+- allen weisselberg
+- guilty plea
+- manhattan da
+- criminal prosecution
 actors:
-  - Allen Weisselberg
-  - Trump Organization
-  - Alvin Bragg
-  - Manhattan District Attorney
-  - Donald Trump
+- Allen Weisselberg
+- Trump Organization
+- Alvin Bragg
+- Manhattan District Attorney
+- Donald Trump
 sources:
-  - url: https://manhattanda.org/d-a-bragg-trump-organization-cfo-allen-weisselberg-to-serve-5-months-in-jail-testify-in-upcoming-criminal-trial-against-trump-organization/
-    title: Weisselberg to Serve 5 Months in Jail & Testify Against Trump Organization
-    publisher: Manhattan District Attorney's Office
-    date: '2022-08-18'
-    tier: 1
-  - url: https://www.npr.org/2022/08/18/1117948260/allen-weisselberg-trump-employee-pleads-guilty-felony
-    title: Weisselberg pleads guilty to tax fraud
-    publisher: NPR
-    date: '2022-08-18'
-    tier: 1
-  - url: https://www.cbsnews.com/news/allen-weisselberg-pleads-guilty-trump-organization-cfo-testify/
-    title: Weisselberg pleads guilty, agrees to testify against company
-    publisher: CBS News
-    date: '2022-08-18'
-    tier: 1
-  - url: https://www.cnn.com/2022/08/18/politics/allen-weisselberg-pleads-guilty/index.html
-    title: Weisselberg pleads guilty for role in 15-year tax fraud scheme
-    publisher: CNN
-    date: '2022-08-18'
-    tier: 1
+- url: https://manhattanda.org/d-a-bragg-trump-organization-cfo-allen-weisselberg-to-serve-5-months-in-jail-testify-in-upcoming-criminal-trial-against-trump-organization/
+  title: Weisselberg to Serve 5 Months in Jail & Testify Against Trump Organization
+  date: '2022-08-18'
+  tier: 1
+  outlet: Manhattan District Attorney's Office
+- url: https://www.npr.org/2022/08/18/1117948260/allen-weisselberg-trump-employee-pleads-guilty-felony
+  title: Weisselberg pleads guilty to tax fraud
+  date: '2022-08-18'
+  tier: 1
+  outlet: NPR
+- url: https://www.cbsnews.com/news/allen-weisselberg-pleads-guilty-trump-organization-cfo-testify/
+  title: Weisselberg pleads guilty, agrees to testify against company
+  date: '2022-08-18'
+  tier: 1
+  outlet: CBS News
+- url: https://www.cnn.com/2022/08/18/politics/allen-weisselberg-pleads-guilty/index.html
+  title: Weisselberg pleads guilty for role in 15-year tax fraud scheme
+  date: '2022-08-18'
+  tier: 1
+  outlet: CNN
 status: confirmed
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: 2025-09-04--doj-criminal-investigation-lisa-cook-mortgage-fraud
 date: '2025-09-04'
-title: DOJ Opens Criminal Investigation Into Federal Reserve Governor Lisa Cook for
-  Alleged Mortgage Fraud
+title: DOJ Opens Criminal Investigation Into Federal Reserve Governor Lisa Cook for Alleged Mortgage Fraud
 importance: 9
 actors:
 - Department of Justice
@@ -22,21 +21,19 @@ tags:
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-09-04/justice-department-opens-criminal-probe-of-lisa-cook-mortgages
   title: Justice Department Opens Criminal Probe of Lisa Cook Mortgages
-  publisher: Bloomberg
   date: '2025-09-04'
   tier: 1
+  outlet: Bloomberg
 - url: https://www.sandiegouniontribune.com/2025/09/04/federal-reserve-cook-ouster/
-  title: Justice Department probes mortgage fraud claims against Lisa Cook of Federal
-    Reserve, AP source says
-  publisher: Associated Press
+  title: Justice Department probes mortgage fraud claims against Lisa Cook of Federal Reserve, AP source says
   date: '2025-09-04'
   tier: 1
+  outlet: Associated Press
 - url: https://abcnews.go.com/US/justice-department-opens-criminal-investigation-federal-reserve-governor/story?id=125261793
-  title: 'Justice Department opens criminal investigation into Federal Reserve Governor
-    Lisa Cook: Sources'
-  publisher: ABC News
+  title: 'Justice Department opens criminal investigation into Federal Reserve Governor Lisa Cook: Sources'
   date: '2025-09-04'
   tier: 2
+  outlet: ABC News
 ---
 
 The U.S. Department of Justice formally opened a criminal investigation into Federal Reserve Governor Lisa Cook on September 4, 2025, following a criminal referral from Federal Housing Finance Agency Director Bill Pulte. Federal prosecutors issued grand jury subpoenas in Georgia and Michigan to investigate allegations that Cook committed mortgage fraud by claiming two properties—a home in Ann Arbor, Michigan, and a condo in Atlanta—as her primary residence within two weeks of purchasing each property with financing.

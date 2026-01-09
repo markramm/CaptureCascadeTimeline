@@ -1,8 +1,7 @@
 ---
 id: 2025-12-02--rollins-threatens-snap-funding-cuts-democratic-states
 date: '2025-12-02'
-title: USDA Secretary Brooke Rollins Threatens to Cut SNAP Funding to 21 Democratic-Led
-  States Over Refusal to Provide Recipient Data, Defying Court Injunction
+title: USDA Secretary Brooke Rollins Threatens to Cut SNAP Funding to 21 Democratic-Led States Over Refusal to Provide Recipient Data, Defying Court Injunction
 importance: 10
 tags:
 - weaponization-of-government
@@ -22,29 +21,26 @@ actors:
 - New York
 - Minnesota
 sources:
-- title: Trump administration threatens to withhold SNAP benefits from blue states
-    over immigration data
+- title: Trump administration threatens to withhold SNAP benefits from blue states over immigration data
   url: https://www.nbcnews.com/politics/trump-administration/trump-administration-threatens-withhold-snap-benefits-blue-states-immi-rcna247060
-  publisher: NBC News
   tier: 1
   date: '2025-12-02'
-- title: Trump administration says it will withhold SNAP from states led by Democrats
-    if they don't provide recipient data
+  outlet: NBC News
+- title: Trump administration says it will withhold SNAP from states led by Democrats if they don't provide recipient data
   url: https://www.pbs.org/newshour/politics/trump-administration-says-it-will-withhold-snap-from-states-led-by-democrats-if-they-dont-provide-recipient-data
-  publisher: PBS NewsHour
   tier: 1
   date: '2025-12-02'
+  outlet: PBS NewsHour
 - title: Trump's USDA to Pause Funding for Blue States Over SNAP Data
   url: https://www.notus.org/trump-white-house/brooke-rollins-usda-federal-funding-snap-data
-  publisher: NOTUS
   tier: 2
   date: '2025-12-02'
-- title: USDA secretary threatens to cut funding to blue states over alleged SNAP
-    data noncompliance
+  outlet: NOTUS
+- title: USDA secretary threatens to cut funding to blue states over alleged SNAP data noncompliance
   url: https://www.cnbc.com/2025/12/02/trump-usda-snap-funding-rollins.html
-  publisher: CNBC
   tier: 2
   date: '2025-12-02'
+  outlet: CNBC
 ---
 
 Agriculture Secretary Brooke Rollins announced during a White House Cabinet meeting on December 2 that the USDA will begin withholding federal SNAP funding from 21 Democratic-led states and Washington, D.C. starting the following week unless they comply with the administration's demand to provide detailed personal data about food assistance recipients, including names, Social Security numbers, addresses, birth dates, and immigration status. Rollins declared, "As of next week, we have begun and will begin to stop moving federal funds into those states, until they comply," framing the action as necessary to "root out fraud" and claiming that data from the 29 Republican-led states and Guam that complied showed 186,000 deceased individuals and 500,000 duplicates receiving benefits. The threat affects approximately 42 million lower-income Americans who rely on SNAP—roughly 1 in 8 people nationwide—receiving an average monthly benefit of just $190 per person, or approximately $6 daily.

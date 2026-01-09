@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Trump Critic John Bolton to be Charged Soon
   url: https://www.nbcnews.com/politics/justice-department/john-bolton-indictment-expected-rcna235123
-  publisher: NBC News
   date: '2025-10-10'
   tier: 1
+  outlet: NBC News
 tags:
 - political-prosecution
 - doj-weaponization

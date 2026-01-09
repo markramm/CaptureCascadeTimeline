@@ -18,19 +18,19 @@ actors:
 sources:
 - url: https://www.nytimes.com/2011/05/15/world/middleeast/15prince.html
   title: Secret Desert Force Set Up by Blackwater's Founder
-  publisher: New York Times
   date: '2011-05-15'
   tier: 1
+  outlet: The New York Times
 - url: https://www.trtworld.com/magazine/two-american-billionaires-and-their-shady-deals-with-israeli-intelligence-28819
   title: Two American billionaires and their shady deals with Israeli intelligence
-  publisher: TRT World
   date: '2019-08-09'
   tier: 2
+  outlet: TRT World
 - url: https://greydynamics.com/fortune-favors-the-desert-sons-uae-mercenaries-in-yemen-and-libya/
   title: Fortune Favors the Desert Sons - UAE Mercenaries in Yemen and Libya
-  publisher: Grey Dynamics
   date: '2021-06-15'
   tier: 3
+  outlet: Grey Dynamics
 status: confirmed
 ---
 

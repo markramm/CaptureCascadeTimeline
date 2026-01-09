@@ -1,8 +1,7 @@
 ---
 id: 2025-11-08--education-department-autoresponder-first-amendment-ruling
 date: '2025-11-08'
-title: Federal Judge Rules Trump Administration Violated First Amendment by Forcing
-  Partisan Auto-Reply Messages on Federal Employees
+title: Federal Judge Rules Trump Administration Violated First Amendment by Forcing Partisan Auto-Reply Messages on Federal Employees
 importance: 8
 tags:
 - first-amendment
@@ -17,17 +16,16 @@ actors:
 sources:
 - title: 'Judge: Education Department out-of-office emails violated First Amendment'
   url: https://www.npr.org/2025/11/08/nx-s1-5602859/education-department-out-of-office-emails-ruling
-  publisher: NPR
   tier: 1
+  outlet: NPR
 - title: Court rules Trump violated federal employees' First Amendment during shutdown
   url: https://www.axios.com/2025/11/08/government-shutdown-trump-federal-employees
-  publisher: Axios
   tier: 2
-- title: 'Judge: Trump administration''s Education Dept shutdown emails violated First
-    Amendment'
+  outlet: Axios
+- title: 'Judge: Trump administration''s Education Dept shutdown emails violated First Amendment'
   url: https://thehill.com/regulation/court-battles/5596030-trump-administration-first-amendment-ruling/
-  publisher: The Hill
   tier: 2
+  outlet: The Hill
 ---
 
 U.S. District Judge Christopher Cooper ruled that the Trump administration violated the First Amendment by commandeering Education Department employees' email accounts to send partisan messages blaming Democrats for the government shutdown. The automated responses stated that the House passed a continuing resolution on September 19, 2025, but "Democrat Senators are blocking passage," leading to furlough status. Multiple employees told NPR they did not write the message and were not informed it would replace their personalized out-of-office notices, discovering the partisan language only when constituents and colleagues received the politically charged auto-replies from their official government email accounts.

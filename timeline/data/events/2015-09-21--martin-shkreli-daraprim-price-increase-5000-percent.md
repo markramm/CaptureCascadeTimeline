@@ -4,30 +4,30 @@ title: Martin Shkreli Raises Daraprim Price by 5,000%, From $13.50 to $750 Per P
 date: '2015-09-21'
 importance: 9
 actors:
-  - Martin Shkreli
-  - Turing Pharmaceuticals
+- Martin Shkreli
+- Turing Pharmaceuticals
 tags:
-  - healthcare
-  - pharmaceutical-price-gouging
-  - corporate-crime
-  - regulatory-capture
+- healthcare
+- pharmaceutical-price-gouging
+- corporate-crime
+- regulatory-capture
 status: confirmed
 sources:
-  - title: 'Daraprim and Predatory Pricing: Martin Shkreli''s 5000% Hike'
-    url: https://law.stanford.edu/2015/10/05/daraprim-and-drug-pricing/
-    publisher: Stanford Law School
-    date: '2015-10-05'
-    tier: 1
-  - title: '''Pharma Bro'' Martin Shkreli ordered to pay $64 million for hiking cost of lifesaving drug'
-    url: https://abcnews.go.com/US/pharma-bro-martin-shkreli-ordered-pay-64-million/story?id=82272398
-    publisher: ABC News
-    date: '2022-01-14'
-    tier: 2
-  - title: High Drug Prices Sparked Outrage But Little Action
-    url: https://www.npr.org/sections/health-shots/2019/12/31/792617538/a-decade-marked-by-outrage-over-drug-prices
-    publisher: NPR
-    date: '2019-12-31'
-    tier: 1
+- title: 'Daraprim and Predatory Pricing: Martin Shkreli''s 5000% Hike'
+  url: https://law.stanford.edu/2015/10/05/daraprim-and-drug-pricing/
+  date: '2015-10-05'
+  tier: 1
+  outlet: Stanford Law School
+- title: '''Pharma Bro'' Martin Shkreli ordered to pay $64 million for hiking cost of lifesaving drug'
+  url: https://abcnews.go.com/US/pharma-bro-martin-shkreli-ordered-pay-64-million/story?id=82272398
+  date: '2022-01-14'
+  tier: 2
+  outlet: ABC News
+- title: High Drug Prices Sparked Outrage But Little Action
+  url: https://www.npr.org/sections/health-shots/2019/12/31/792617538/a-decade-marked-by-outrage-over-drug-prices
+  date: '2019-12-31'
+  tier: 1
+  outlet: NPR
 ---
 
 In September 2015, Turing Pharmaceuticals under CEO Martin Shkreli purchased the American marketing rights to Daraprim (pyrimethamine) and immediately raised the price from $13.50 to $750 per pill—a price increase of over 5,000%. The move became a symbol of pharmaceutical price gouging and exposed how generic drug manufacturers could exploit monopoly positions on essential medicines without regulatory intervention.

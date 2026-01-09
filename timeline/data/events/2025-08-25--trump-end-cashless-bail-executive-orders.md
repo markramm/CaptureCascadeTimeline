@@ -1,8 +1,7 @@
 ---
 id: 2025-08-25--trump-end-cashless-bail-executive-orders
 date: '2025-08-25'
-title: Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal
-  Funds
+title: Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal Funds
 importance: 7
 actors:
 - Donald Trump
@@ -17,20 +16,19 @@ tags:
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/08/taking-steps-to-end-cashless-bail-to-protect-americans/
   title: Taking Steps to End Cashless Bail to Protect Americans
-  publisher: The White House
   date: '2025-08-25'
   tier: 1
+  outlet: The White House
 - url: https://www.nbcnews.com/politics/white-house/trump-sign-executive-order-end-cashless-bail-dc-rcna226937
-  title: Trump signs executive orders aimed at ending cashless bail in D.C. and across
-    the country
-  publisher: NBC News
+  title: Trump signs executive orders aimed at ending cashless bail in D.C. and across the country
   date: '2025-08-25'
   tier: 2
+  outlet: NBC News
 - url: https://capitalbnews.org/cashless-bail-trump-executive-order/
   title: Trump's Executive Order Could Jail Thousands Too Poor to Pay Bail
-  publisher: Capital B News
   date: '2025-08-25'
   tier: 2
+  outlet: Capital B News
 ---
 
 President Trump signed two executive orders on August 25, 2025, aimed at eliminating cashless bail policies nationwide and specifically in Washington D.C. The nationwide order directs Attorney General Pam Bondi to identify states and jurisdictions with cashless bail policies and authorizes withholding or revoking federal grants to those jurisdictions. The D.C.-specific order directs federal law enforcement to pursue federal charges and pretrial detention for D.C. arrestees whenever possible.

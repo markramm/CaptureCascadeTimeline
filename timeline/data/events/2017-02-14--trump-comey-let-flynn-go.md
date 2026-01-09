@@ -4,34 +4,34 @@ date: 2017-02-14
 title: Trump Asks Comey to "Let Flynn Go" in Private Oval Office Meeting
 importance: 10
 tags:
-  - Obstruction of Justice
-  - Mueller Investigation
-  - Comey Firing
-  - Flynn Investigation
-  - Presidential Abuse of Power
-  - Witness Tampering
+- obstruction of justice
+- mueller investigation
+- comey firing
+- flynn investigation
+- presidential abuse of power
+- witness tampering
 actors:
-  - Donald Trump
-  - James Comey
-  - Michael Flynn
-  - Jared Kushner
-  - Jeff Sessions
+- Donald Trump
+- James Comey
+- Michael Flynn
+- Jared Kushner
+- Jeff Sessions
 sources:
-  - url: https://www.justice.gov/storage/report.pdf
-    title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume II, Pages 39-48
-    publisher: Department of Justice Special Counsel's Office
-    date: 2019-04-18
-    tier: 1
-  - url: https://www.intelligence.senate.gov/sites/default/files/documents/os-jcomey-060817.pdf
-    title: Statement for the Record - James B. Comey, Former Director of the Federal Bureau of Investigation
-    publisher: Senate Select Committee on Intelligence
-    date: 2017-06-08
-    tier: 1
-  - url: https://www.documentcloud.org/documents/3726408-Comey-memos.html
-    title: James Comey's Memos About Donald Trump
-    publisher: FBI Director's Office (via DocumentCloud)
-    date: 2017-02-14
-    tier: 1
+- url: https://www.justice.gov/storage/report.pdf
+  title: Report on the Investigation into Russian Interference in the 2016 Presidential Election (Mueller Report), Volume II, Pages 39-48
+  date: 2019-04-18
+  tier: 1
+  outlet: Department of Justice Special Counsel's Office
+- url: https://www.intelligence.senate.gov/sites/default/files/documents/os-jcomey-060817.pdf
+  title: Statement for the Record - James B. Comey, Former Director of the Federal Bureau of Investigation
+  date: 2017-06-08
+  tier: 1
+  outlet: Senate Select Committee on Intelligence
+- url: https://www.documentcloud.org/documents/3726408-Comey-memos.html
+  title: James Comey's Memos About Donald Trump
+  date: 2017-02-14
+  tier: 1
+  outlet: FBI Director's Office (via DocumentCloud)
 ---
 
 The day after National Security Advisor Michael Flynn resigned for lying about his contacts with Russian Ambassador Sergey Kislyak, President Trump cleared the Oval Office of other officials—including Attorney General Jeff Sessions and senior advisor Jared Kushner—and asked FBI Director James Comey to drop the investigation into Flynn. "I hope you can see your way clear to letting this go, to letting Flynn go," Trump told Comey. "He is a good guy. I hope you can let this go." This private request constituted one of the clearest episodes of obstruction of justice documented in the Mueller Report and set in motion the chain of events that would lead to Trump firing Comey and the appointment of Special Counsel Robert Mueller.

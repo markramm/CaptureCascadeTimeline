@@ -16,20 +16,20 @@ actors:
 - Glenn Greenwald
 sources:
 - url: https://thehill.com/policy/national-security/512209-trump-says-hes-considering-snowden-pardon/
-  title: "Trump says he's considering Snowden pardon"
-  publisher: The Hill
+  title: Trump says he's considering Snowden pardon
   date: '2020-08-15'
   tier: 2
+  outlet: The Hill
 - url: https://www.cnn.com/2020/12/18/politics/gop-divided-edward-snowden-trump-pardon/index.html
-  title: "As Trump weighs pardons, GOP divided on whether Snowden should receive one"
-  publisher: CNN
+  title: As Trump weighs pardons, GOP divided on whether Snowden should receive one
   date: '2020-12-18'
   tier: 2
+  outlet: CNN
 - url: https://www.usnews.com/news/national-news/articles/2020-08-17/potential-trump-pardon-for-edward-snowden-a-serious-mistake-lawmakers-say
-  title: "Potential Trump Pardon for Edward Snowden a 'Serious Mistake,' Lawmakers Say"
-  publisher: U.S. News & World Report
+  title: Potential Trump Pardon for Edward Snowden a 'Serious Mistake,' Lawmakers Say
   date: '2020-08-17'
   tier: 2
+  outlet: U.S. News & World Report
 status: confirmed
 ---
 

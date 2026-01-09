@@ -18,24 +18,24 @@ tags:
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary
-  publisher: U.S. Senate Select Committee on Intelligence
   date: '2014-12-09'
   tier: 1
+  outlet: U.S. Senate Select Committee on Intelligence
 - title: The Death of Gul Rahman
   url: https://www.aclu.org/issues/national-security/torture/death-gul-rahman
-  publisher: ACLU
   date: '2016-06-14'
   tier: 1
+  outlet: ACLU
 - title: CIA Torture Unredacted
   url: https://www.thebureauinvestigates.com/blog/2019-07-10/cia-torture-unredacted-revealing-hidden-us-senate-torture-report
-  publisher: The Bureau of Investigative Journalism
   date: '2019-07-10'
   tier: 1
+  outlet: The Bureau of Investigative Journalism
 - title: No More Excuses - Roadmap to Justice for CIA Torture
   url: https://www.hrw.org/report/2015/12/01/no-more-excuses/roadmap-justice-cia-torture
-  publisher: Human Rights Watch
   date: '2015-12-01'
   tier: 1
+  outlet: Human Rights Watch
 ---
 
 Gul Rahman, an Afghan detainee, dies of hypothermia at a CIA black site in Afghanistan known as the "Salt Pit" after being shackled half-naked to a concrete floor in a freezing cell overnight. Rahman's death is ruled a homicide by the CIA's medical examiner, yet no one is ever prosecuted or held criminally accountable. The CIA officer who ordered Rahman's treatment—which violated even the agency's own guidelines for detention—receives a $2,500 cash award and faces no disciplinary action. Rahman's death on November 20, 2002, becomes emblematic of the complete impunity enjoyed by CIA personnel who committed what amount to war crimes.

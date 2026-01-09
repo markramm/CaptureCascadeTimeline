@@ -10,9 +10,9 @@ actors:
 sources:
 - title: Congress is losing its grip on the power to spend Americans' money
   url: https://www.washingtonpost.com/business/2025/10/13/congress-spending-power-vought-omb/
-  publisher: Washington Post
   date: '2025-10-13'
   tier: 1
+  outlet: The Washington Post
 tags:
 - institutional-capture
 - executive-overreach

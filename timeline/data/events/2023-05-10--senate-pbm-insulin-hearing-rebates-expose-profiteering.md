@@ -1,0 +1,42 @@
+---
+id: 2023-05-10--senate-pbm-insulin-hearing-rebates-expose-profiteering
+date: '2023-05-10'
+title: 'Senate Hearing Exposes PBM Insulin Profiteering: 75% of Sales Go to Rebates and Fees'
+importance: 9
+actors:
+- Bernie Sanders
+- Senate HELP Committee
+- Lars Fruergaard Jorgensen
+- Paul Hudson
+- Heather Cianfrocco
+- CVS Caremark
+- Express Scripts
+- OptumRx
+- Novo Nordisk
+- Sanofi
+- Eli Lilly
+tags:
+- healthcare
+- pbm
+- pharmacy
+- insulin
+- drug-pricing
+- congressional-oversight
+- profiteering
+sources:
+- title: HELP Committee to Bring CEOs of Major Insulin Manufacturers and PBMs Together for Historic Hearing
+  url: https://www.help.senate.gov/dem/newsroom/press/news-help-committee-to-bring-ceos-of-major-insulin-manufacturers-and-pbms-together-for-historic-hearing-to-discuss-the-need-to-lower-insulin-prices-and-the-cost-of-other-prescription-drugs
+  outlet: Senate HELP Committee
+  tier: 1
+- title: US Senate committee questions leading pharmaceutical companies, PBMs on insulin pricing
+  url: https://www.healio.com/news/endocrinology/20230511/us-senate-committee-questions-leading-pharmaceutical-companies-pbms-on-insulin-pricing
+  outlet: Healio
+  tier: 2
+- title: Insulin makers, PBMs echo old finger-pointing in Senate hearing
+  url: https://www.statnews.com/2023/05/10/insulin-makers-pbms-echo-old-finger-pointing-in-senate-hearing/
+  outlet: STAT News
+  tier: 2
+status: confirmed
+---
+
+The Senate Health, Education, Labor, and Pensions (HELP) Committee held a historic hearing bringing together CEOs of major insulin manufacturers (Eli Lilly, Novo Nordisk, Sanofi) and executives from the three largest PBMs (CVS Caremark, Express Scripts, OptumRx) to examine soaring insulin prices. Novo Nordisk CEO Lars Fruergaard Jorgensen testified that approximately 75% of his company's insulin sales go to payers in the form of fees, discounts, and rebates—revealing the massive extraction occurring in the supply chain. Sanofi CEO Paul Hudson testified that drugmakers pay substantial rebates but PBMs and insurers are incentivized to choose drugs with higher list prices because they generate larger rebates, creating a perverse system that drives prices up. A Senate Finance Committee report cited in the hearing found that rebates paid by Sanofi to CVS Caremark for insulin formulary placement rose from around 3% to over 50% in just five years, with one OptumRx deal demanding an 80% rebate on Lantus insulin pens ($339 of the $425 cost). While researchers estimate insulin manufacturing costs just $8 per vial, prices had risen over 1,000% since 1996. Committee Chairman Bernie Sanders pressed both sides on why insulin remained unaffordable when rebates supposedly lowered costs, exposing how PBM market power enables profit extraction while vulnerable diabetics ration life-saving medication.

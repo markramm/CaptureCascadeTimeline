@@ -11,30 +11,30 @@ actors:
 - Robert Ferro
 - The Aerospace Corporation
 tags:
-- Defense Contractors
-- Fraud
-- False Claims Act
-- Whistleblowers
-- Intelligence Agencies
-- Surveillance State
-- Military-Industrial Complex
-- Contractor Abuse
+- defense contractors
+- fraud
+- false claims act
+- whistleblowers
+- intelligence agencies
+- surveillance state
+- military-industrial complex
+- contractor abuse
 sources:
 - url: https://www.justice.gov/archives/opa/pr/northrop-grumman-corp-settles-false-claims-act-case-defective-satellite-parts
   title: Northrop Grumman Corp. Settles False Claims Act Case for Defective Satellite Parts
-  publisher: U.S. Department of Justice
   date: '2009-04-02'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.fraudfighters.net/industry-areas/defense-contractor-fraud/
   title: Defense Contractor Fraud
-  publisher: Fischer Legal Group
   date: '2009-04-02'
   tier: 2
+  outlet: Fischer Legal Group
 - url: https://violationtracker.goodjobsfirst.org/parent/northrop-grumman
   title: Northrop Grumman Violation Tracker
-  publisher: Good Jobs First
   date: '2009-04-02'
   tier: 2
+  outlet: Good Jobs First
 ---
 
 Northrop Grumman Corporation and its predecessor TRW Inc. agreed to pay $325 million to settle False Claims Act allegations that they provided and billed the National Reconnaissance Office for defective microelectronic parts used in classified spy satellites over a decade-long period from 1992 to 2002. The settlement resolved allegations that the defense contractor knowingly supplied defective Heterojunction Bipolar Transistors (HBTs) that were improperly tested, made misrepresentations about the reliability of the components, and concealed material facts about defects in critical satellite equipment used for signals intelligence and reconnaissance operations.

@@ -1,8 +1,7 @@
 ---
 id: 2017-02-07--devos-confirmed-education-secretary-historic-pence-tie-breaking-vote
 date: '2017-02-07'
-title: Betsy DeVos Confirmed as Education Secretary in Historic VP Tie-Breaking Vote
-  - First Ever for Cabinet Nominee
+title: Betsy DeVos Confirmed as Education Secretary in Historic VP Tie-Breaking Vote - First Ever for Cabinet Nominee
 importance: 8
 tags:
 - cabinet-corruption
@@ -18,17 +17,15 @@ actors:
 - Donald Trump
 sources:
 - url: https://www.npr.org/2017/02/07/513836576/pence-becomes-first-vp-to-break-senate-tie-over-cabinet-nomination
-  title: Betsy DeVos Confirmed As Education Secretary With Vice President Mike Pence
-    Breaking Tie
-  publisher: NPR
+  title: Betsy DeVos Confirmed As Education Secretary With Vice President Mike Pence Breaking Tie
   date: '2017-02-07'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/politics/congress/mike-pence-casts-tie-breaking-vote-confirm-betsy-devos-education-n717836
-  title: Betsy DeVos confirmed as education secretary as Pence casts tie-breaking
-    vote
-  publisher: NBC News
+  title: Betsy DeVos confirmed as education secretary as Pence casts tie-breaking vote
   date: '2017-02-07'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

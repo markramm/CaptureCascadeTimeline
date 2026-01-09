@@ -10,9 +10,9 @@ actors:
 sources:
 - title: Trump Froze $88 Million in Human Trafficking Survivor Aid
   url: https://www.theguardian.com/us-news/2025/oct/05/trump-human-trafficking-funding-freeze
-  publisher: The Guardian
   date: '2025-10-05'
   tier: 1
+  outlet: The Guardian
 tags:
 - systematic-corruption
 - vulnerable-population-harm

@@ -11,28 +11,28 @@ actors:
 - Lockheed Martin
 - Government Accountability Office
 tags:
-- Military-Industrial Complex
-- Defense Contractors
-- Pentagon Contracts
-- Stealth Technology
-- Nuclear Weapons
-- B-21 Bomber
+- military-industrial complex
+- defense contractors
+- pentagon contracts
+- stealth technology
+- nuclear weapons
+- b-21 bomber
 sources:
 - url: https://www.airandspaceforces.com/weapons/b-21/
   title: B-21 Raider
-  publisher: Air & Space Forces Magazine
   date: '2015-10-27'
   tier: 2
+  outlet: Air & Space Forces Magazine
 - url: https://sgp.fas.org/crs/weapons/R44463.pdf
   title: Air Force B-21 Raider Long-Range Strike Bomber
-  publisher: Congressional Research Service
   date: '2021-09-22'
   tier: 1
+  outlet: Congressional Research Service
 - url: https://time.com/6238168/b-21-raider-bomber-us-military-exclusive/
   title: Inside the Making of the Military's B-21 Raider
-  publisher: TIME
   date: '2022-12-02'
   tier: 2
+  outlet: TIME
 ---
 
 The U.S. Defense Department awarded Northrop Grumman a development contract for the B-21 Raider Long Range Strike Bomber on October 27, 2015, with an initial value of $21.4 billion that could eventually reach $80 billion over the program's lifetime, representing one of the largest defense contracts in history and cementing Northrop's dominance in strategic stealth bomber development. The Air Force issued the request for proposals in July 2014 and selected Northrop Grumman over a joint bid from Boeing and Lockheed Martin based primarily on cost considerations, with plans to purchase at least 100 of the stealth intercontinental strategic bombers capable of delivering both conventional and thermonuclear weapons.

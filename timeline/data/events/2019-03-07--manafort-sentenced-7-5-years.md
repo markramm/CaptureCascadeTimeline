@@ -4,35 +4,35 @@ date: 2019-03-07
 title: Paul Manafort Sentenced to Combined 7.5 Years in Federal Prison, Longest Mueller Investigation Sentence
 importance: 8
 tags:
-  - Mueller Investigation
-  - Paul Manafort
-  - Sentencing
-  - Judicial Bias
-  - Presidential Pardons
-  - Tax Fraud
-  - Bank Fraud
+- mueller investigation
+- paul manafort
+- sentencing
+- judicial bias
+- presidential pardons
+- tax fraud
+- bank fraud
 actors:
-  - Paul Manafort
-  - Donald Trump
-  - Judge T.S. Ellis III
-  - Judge Amy Berman Jackson
-  - Robert Mueller
+- Paul Manafort
+- Donald Trump
+- Judge T.S. Ellis III
+- Judge Amy Berman Jackson
+- Robert Mueller
 sources:
-  - url: https://www.npr.org/2019/03/13/702743703/paul-manafort-to-serve-total-of-more-than-7-years-following-d-c-guilty-plea
-    title: Paul Manafort Sentenced To 3.5 More Years In Prison; New State Indictment Announced
-    publisher: NPR
-    date: 2019-03-13
-    tier: 1
-  - url: https://www.cbsnews.com/live-news/paul-manafort-sentencing-former-trump-campaign-chairman-in-court-live-updates-2019-03-07/
-    title: Paul Manafort sentencing - 47-month sentence handed down from U.S. District court judge today
-    publisher: CBS News
-    date: 2019-03-07
-    tier: 1
-  - url: https://www.aclu.org/news/smart-justice/how-federal-judge-missed-mark-explaining-paul-manaforts
-    title: How a Federal Judge Missed the Mark in Explaining Paul Manafort's Sentence
-    publisher: American Civil Liberties Union
-    date: 2019-03-11
-    tier: 1
+- url: https://www.npr.org/2019/03/13/702743703/paul-manafort-to-serve-total-of-more-than-7-years-following-d-c-guilty-plea
+  title: Paul Manafort Sentenced To 3.5 More Years In Prison; New State Indictment Announced
+  date: 2019-03-13
+  tier: 1
+  outlet: NPR
+- url: https://www.cbsnews.com/live-news/paul-manafort-sentencing-former-trump-campaign-chairman-in-court-live-updates-2019-03-07/
+  title: Paul Manafort sentencing - 47-month sentence handed down from U.S. District court judge today
+  date: 2019-03-07
+  tier: 1
+  outlet: CBS News
+- url: https://www.aclu.org/news/smart-justice/how-federal-judge-missed-mark-explaining-paul-manaforts
+  title: How a Federal Judge Missed the Mark in Explaining Paul Manafort's Sentence
+  date: 2019-03-11
+  tier: 1
+  outlet: American Civil Liberties Union
 ---
 
 Former Trump campaign chairman Paul Manafort received a combined sentence of 7.5 years (90 months) in federal prison across two separate criminal cases stemming from Special Counsel Robert Mueller's investigation, representing the longest prison term imposed on any defendant in the Mueller probe. The sentencing occurred in two phases: U.S. District Judge T.S. Ellis III imposed 47 months on March 7, 2019, in the Eastern District of Virginia for tax and bank fraud charges, followed by U.S. District Judge Amy Berman Jackson adding 43 months on March 13, 2019, in the District of Columbia for conspiracy charges, with 30 months to run concurrently with the Virginia sentence.

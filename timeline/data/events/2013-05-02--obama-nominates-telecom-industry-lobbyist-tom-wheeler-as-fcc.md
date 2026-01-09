@@ -20,7 +20,7 @@ status: confirmed
 sources:
 - title: Tom Wheeler, Former Lobbyist and Obama Fundraiser, Tapped to Lead FCC
   url: https://business.time.com/2013/05/02/tom-wheeler-former-lobbyist-and-obama-fundraiser-tapped-to-lead-fcc/
-  outlet: Time
+  outlet: TIME
   date: '2013-05-02'
 - title: Tom Wheeler named to head FCC
   url: https://www.nextgov.com/people/2013/04/tom-wheeler-named-to-head-fcc/246775/
@@ -30,8 +30,7 @@ sources:
   url: https://obamawhitehouse.archives.gov/blog/2013/05/01/president-obama-announces-his-nominees-fcc-chair-and-fhfa-director
   outlet: Obama White House Archives
   date: '2013-05-01'
-- title: S.Hrg. 113-665 — Nomination of Thomas E. Wheeler to be Chairman of the Federal
-    Communications Commission
+- title: S.Hrg. 113-665 — Nomination of Thomas E. Wheeler to be Chairman of the Federal Communications Commission
   url: https://www.congress.gov/event/113th-congress/senate-event/LC31163/text
   outlet: U.S. Congress
   date: '2013-06-18'

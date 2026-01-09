@@ -2,9 +2,7 @@
 id: 2025-05-27--donald-trumps-media-conglomerate-is-becoming-a-bit
 date: '2025-05-27'
 title: Donald Trump’s media conglomerate is becoming a bitcoin reserve
-description: Trump Media planned to raise $2.5 billion in equity and debt to build
-  a massive bitcoin reserve, as the president continued to cash in on cryptocurrency
-  while in control of the industry's regulatory landscape
+description: Trump Media planned to raise $2.5 billion in equity and debt to build a massive bitcoin reserve, as the president continued to cash in on cryptocurrency while in control of the industry's regulatory landscape
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -20,7 +18,7 @@ capture_type: regulatory_capture
 sources:
 - title: Donald Trump’s media conglomerate is becoming a bitcoin reserve
   url: https://www.wired.com/story/donald-trumps-media-conglomerate-is-becoming-a-bitcoin-reserve/
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-05-27'
 - title: Trump Media Announces Approximately .5 Billion Bitcoin Treasury Deal
   url: https://www.globenewswire.com/news-release/2025/05/27/3088703/0/en/Trump-Media-Announces-Approximately-2-5-Billion-Bitcoin-Treasury-Deal.html
@@ -34,8 +32,7 @@ sources:
   url: https://fortune.com/crypto/2025/05/27/trump-media-group-raise-money-bitcoin-treasury/
   outlet: Fortune
   date: '2025-05-27'
-- title: Trump Media builds  billion bitcoin hoard, as cryptocurrency swells president's
-    net worth
+- title: Trump Media builds  billion bitcoin hoard, as cryptocurrency swells president's net worth
   url: https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html
   outlet: CNBC
   date: '2025-07-21'

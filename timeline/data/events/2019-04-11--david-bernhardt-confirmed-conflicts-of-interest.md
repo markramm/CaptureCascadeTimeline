@@ -4,32 +4,32 @@ date: 2019-04-11
 title: Interior Secretary David Bernhardt Confirmed Despite Extensive Conflicts from Oil and Gas Lobbying Career
 importance: 8
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - David Bernhardt
-  - Interior Department
-  - Conflicts of Interest
-  - Oil and Gas Industry
-  - Revolving Door
+- cabinet corruption
+- ethics violations
+- david bernhardt
+- interior department
+- conflicts of interest
+- oil and gas industry
+- revolving door
 actors:
-  - David Bernhardt
-  - Donald Trump
+- David Bernhardt
+- Donald Trump
 sources:
-  - url: https://www.washingtonpost.com/climate-environment/2019/04/11/senate-confirms-former-oil-gas-lobbyist-david-bernhardt-secretary-interior/
-    title: "Senate confirms former oil and gas lobbyist David Bernhardt as interior secretary"
-    publisher: Washington Post
-    date: 2019-04-11
-    tier: 1
-  - url: https://www.americanprogress.org/article/david-bernhardt-president-trumps-conflicted-cabinet-nominee/
-    title: "David Bernhardt Is President Trump's Most Conflicted Cabinet Nominee"
-    publisher: Center for American Progress
-    date: 2019-03-27
-    tier: 2
-  - url: https://www.usnews.com/news/politics/articles/2019-04-16/interior-launches-ethics-investigation-into-newly-confirmed-head-david-bernhardt
-    title: "Interior Launches Ethics Investigation Into Newly Confirmed Head David Bernhardt"
-    publisher: U.S. News & World Report
-    date: 2019-04-16
-    tier: 1
+- url: https://www.washingtonpost.com/climate-environment/2019/04/11/senate-confirms-former-oil-gas-lobbyist-david-bernhardt-secretary-interior/
+  title: Senate confirms former oil and gas lobbyist David Bernhardt as interior secretary
+  date: 2019-04-11
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.americanprogress.org/article/david-bernhardt-president-trumps-conflicted-cabinet-nominee/
+  title: David Bernhardt Is President Trump's Most Conflicted Cabinet Nominee
+  date: 2019-03-27
+  tier: 2
+  outlet: Center for American Progress
+- url: https://www.usnews.com/news/politics/articles/2019-04-16/interior-launches-ethics-investigation-into-newly-confirmed-head-david-bernhardt
+  title: Interior Launches Ethics Investigation Into Newly Confirmed Head David Bernhardt
+  date: 2019-04-16
+  tier: 1
+  outlet: U.S. News & World Report
 ---
 
 The Senate confirmed David Bernhardt as Interior Secretary on April 11, 2019, by a vote of 56 to 41 despite extensive conflicts of interest from his career as an oil and gas lobbyist. A Center for American Progress analysis determined Bernhardt had the dubious distinction of being the most conflicted of all 31 of President Trump's Cabinet-level nominees, with 20 direct conflicts when comparing ethics filings with lobbying disclosure data. Bernhardt previously worked as a shareholder at Colorado law firm Brownstein Hyatt Farber Schreck, where he lobbied for oil, gas, and agricultural interests. Analysis by watchdog group Documented showed that Bernhardt's former lobbying clients had at least 70 meetings with the Department of the Interior while he served as Deputy Secretary.

@@ -4,26 +4,26 @@ date: 2013-06-01
 title: Elliptic Founded as First Cryptocurrency Anti-Money Laundering Firm
 importance: 7
 tags:
-  - surveillance
-  - cryptocurrency
-  - private-sector
-  - financial-crime
+- surveillance
+- cryptocurrency
+- private-sector
+- financial-crime
 actors:
-  - Elliptic
-  - Adam Joyce
-  - Tom Robinson
-  - James Smith
+- Elliptic
+- Adam Joyce
+- Tom Robinson
+- James Smith
 sources:
-  - url: https://en.wikipedia.org/wiki/Elliptic_(company)
-    title: Elliptic (company)
-    publisher: Wikipedia
-    date: 2013-06-01
-    tier: 2
-  - url: https://www.cbinsights.com/company/elliptic
-    title: Elliptic Company Profile
-    publisher: CB Insights
-    date: 2013-06-01
-    tier: 2
+- url: https://en.wikipedia.org/wiki/Elliptic_(company)
+  title: Elliptic (company)
+  date: 2013-06-01
+  tier: 2
+  outlet: Wikipedia
+- url: https://www.cbinsights.com/company/elliptic
+  title: Elliptic Company Profile
+  date: 2013-06-01
+  tier: 2
+  outlet: CB Insights
 ---
 
 Elliptic is founded in London by Adam Joyce, Tom Robinson, and James Smith, becoming the first company to develop cryptoasset anti-money laundering and sanctions compliance tools based on blockchain analytics. The company pioneers the application of blockchain forensics to track illicit cryptocurrency transactions.

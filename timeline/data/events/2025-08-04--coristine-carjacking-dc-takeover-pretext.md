@@ -16,30 +16,25 @@ tags:
 - authoritarianism
 status: confirmed
 sources:
-- title: Trump threatens federal control of D.C. following attack on administration
-    staffer
+- title: Trump threatens federal control of D.C. following attack on administration staffer
   url: https://www.nbcnews.com/politics/trump-administration/trump-threatens-federal-control-dc-attack-doge-staffer-coristine-rcna223293
   outlet: NBC News
   date: '2025-08-05'
 - title: Trump threatens federal takeover of D.C. after ex-DOGE worker attacked
   url: https://www.washingtonpost.com/dc-md-va/2025/08/05/trump-doge-worker-washington-dc-crime/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-08-05'
 - title: Ex-DOGE staffer allegedly injured in attempted carjacking
   url: https://www.cbsnews.com/news/ex-doge-staffer-edward-coristine-injured-in-attempted-carjacking-trump-federal-takeover-of-d-c/
   outlet: CBS News
   date: '2025-08-06'
-notes: 'Two 15-year-old suspects from Maryland arrested. Coristine had resigned from
-  government
+notes: 'Two 15-year-old suspects from Maryland arrested. Coristine had resigned from government
 
-  in June 2025. Trump''s response came within hours of incident. Federal takeover
-  threats
+  in June 2025. Trump''s response came within hours of incident. Federal takeover threats
 
-  escalated to actual deployment of Guard troops by August 11. Crime statistics showed
-  DC
+  escalated to actual deployment of Guard troops by August 11. Crime statistics showed DC
 
-  actually safer than in decades, contradicting Trump''s "totally out of control"
-  narrative.'
+  actually safer than in decades, contradicting Trump''s "totally out of control" narrative.'
 capture_lanes:
 - Media Capture & Control
 - Financial Capture

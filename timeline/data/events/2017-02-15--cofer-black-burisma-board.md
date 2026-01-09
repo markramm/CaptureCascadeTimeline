@@ -18,24 +18,24 @@ actors:
 sources:
 - url: https://www.kyivpost.com/post/7849
   title: Joseph Cofer Black - I am excited to join Burisma's Board of Directors
-  publisher: Kyiv Post
   date: '2017-02-15'
   tier: 2
+  outlet: Kyiv Post
 - url: https://www.clintonfoundationtimeline.com/february-15-2017-mitt-romney-adviser-and-former-cia-official-cofer-black-joins-burisma-board-of-directors-in-ukraine/
   title: Mitt Romney adviser and former CIA official Cofer Black joins Burisma board of directors in Ukraine
-  publisher: Clinton Foundation Timeline
   date: '2017-02-15'
   tier: 3
+  outlet: Clinton Foundation Timeline
 - url: https://www.redstate.com/nick-arama/2020/02/06/former-romney-adviser-worked-on-burisma-board-with-hunter-biden/
   title: Former Romney Adviser Worked on Burisma Board With Hunter Biden
-  publisher: RedState
   date: '2020-02-06'
   tier: 3
+  outlet: RedState
 - url: https://thefederalist.com/2019/09/26/top-romney-adviser-worked-with-hunter-biden-on-board-of-ukrainian-energy-company/
   title: Top Romney Adviser Worked With Hunter Biden On Board Of Ukrainian Energy Company
-  publisher: The Federalist
   date: '2019-09-26'
   tier: 3
+  outlet: The Federalist
 status: confirmed
 ---
 

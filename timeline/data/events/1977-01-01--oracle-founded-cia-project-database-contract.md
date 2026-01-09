@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Larry Ellison's Oracle Started As a CIA Project
   url: https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238
-  publisher: Gizmodo
   date: '2014-10-03'
   tier: 2
+  outlet: Gizmodo
 - title: Oracle's coziness with government goes back to its founding
   url: https://www.sfgate.com/bayarea/article/oracle-s-coziness-with-government-goes-back-to-2820370.php
-  publisher: San Francisco Chronicle
   date: '2003-08-17'
   tier: 2
+  outlet: San Francisco Chronicle
 - title: Oracle, the CIA and government's role in picking winners
   url: https://www.nextgov.com/digital-government/2014/09/oracle-the-cia-and-governments-role-in-picking-winners/240320/
-  publisher: Nextgov
   date: '2014-09-19'
   tier: 2
+  outlet: Nextgov
 ---
 
 Computer programmers Larry Ellison and Robert Miner founded the company that would become Oracle Corporation in 1977 after persuading the CIA to let them pick up a lapsed $50,000 contract to build a special database program. The company takes its name from "Project Oracle," a CIA operation that Ellison worked on. This contract to build relational database software for the Central Intelligence Agency became the foundation of what would grow into one of the world's largest enterprise software companies.

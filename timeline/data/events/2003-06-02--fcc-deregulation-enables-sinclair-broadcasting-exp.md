@@ -19,7 +19,7 @@ status: confirmed
 sources:
 - title: FCC Votes to Relax Rules Limiting Media Ownership
   url: https://www.nytimes.com/2003/06/03/business/fcc-votes-to-relax-rules-limiting-media-ownership.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2003-06-03'
 - title: Sinclair Broadcast Group and Tribune Media Merger Review
   url: https://www.fcc.gov/transaction/sinclair-tribune

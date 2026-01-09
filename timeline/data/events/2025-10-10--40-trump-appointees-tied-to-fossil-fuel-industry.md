@@ -1,8 +1,7 @@
 ---
 id: 2025-10-10--40-trump-appointees-tied-to-fossil-fuel-industry
 date: '2025-10-10'
-title: Analysis Finds 40+ Trump Administration Appointees With Fossil Fuel Industry
-  Ties
+title: Analysis Finds 40+ Trump Administration Appointees With Fossil Fuel Industry Ties
 importance: 8
 actors:
 - Chris Wright
@@ -13,9 +12,9 @@ actors:
 sources:
 - title: More than 40 Trump Administration Picks Tied to Oil, Gas, Coal
   url: https://www.theguardian.com/us-news/2025/oct/10/trump-administration-fossil-fuel-industry-ties
-  publisher: The Guardian
   date: '2025-10-10'
   tier: 1
+  outlet: The Guardian
 tags:
 - regulatory-capture
 - systematic-corruption

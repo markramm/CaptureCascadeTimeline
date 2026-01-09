@@ -1,8 +1,7 @@
 ---
 id: 2017-03-20--comey-confirms-fbi-russia-investigation-trump-campaign-house-testimony
 date: '2017-03-20'
-title: FBI Director Comey Publicly Confirms Russia Investigation into Trump Campaign
-  in Historic House Testimony
+title: FBI Director Comey Publicly Confirms Russia Investigation into Trump Campaign in Historic House Testimony
 importance: 10
 tags:
 - russia-investigation
@@ -19,21 +18,19 @@ actors:
 sources:
 - url: https://www.npr.org/2017/03/20/520813036/fbi-director-comey-testifies-before-house-intelligence-committee
   title: FBI Director Comey Testifies Russian Interference Aimed To Help Trump Win
-  publisher: NPR
   date: '2017-03-20'
   tier: 1
+  outlet: NPR
 - url: https://www.pbs.org/newshour/politics/watch-live-fbi-director-james-comey-testifies-russian-interference
-  title: 'Watch: FBI Director James Comey testifies on Russian interference in 2016
-    election'
-  publisher: PBS NewsHour
+  title: 'Watch: FBI Director James Comey testifies on Russian interference in 2016 election'
   date: '2017-03-20'
   tier: 1
+  outlet: PBS NewsHour
 - url: https://www.nbcnews.com/politics/politics-news/fbi-director-comey-confirms-probe-possible-coordination-between-trump-campaign-n735176
-  title: FBI Director Comey Confirms Probe of Possible Coordination Between Trump
-    Campaign, Russia
-  publisher: NBC News
+  title: FBI Director Comey Confirms Probe of Possible Coordination Between Trump Campaign, Russia
   date: '2017-03-20'
   tier: 1
+  outlet: NBC News
 status: confirmed
 ---
 

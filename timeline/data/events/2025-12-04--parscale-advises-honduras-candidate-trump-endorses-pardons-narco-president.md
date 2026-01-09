@@ -16,9 +16,9 @@ tags:
 - corruption
 - pardons
 - drug-trafficking
-- Latin-America
+- latin-america
 - campaign-consultants
-- Honduras
+- honduras
 capture_lanes:
 - Corruption and Self-Dealing
 - Foreign Policy Weaponization

@@ -1,7 +1,7 @@
 ---
 id: 2024-11-13--nlrb-bans-captive-audience-meetings-employer-coercion
 date: '2024-11-13'
-title: 'NLRB Rules Captive Audience Meetings Are Illegal Employer Coercion (Likely Reversed 2025)'
+title: NLRB Rules Captive Audience Meetings Are Illegal Employer Coercion (Likely Reversed 2025)
 importance: 7
 actors:
 - National Labor Relations Board
@@ -10,18 +10,18 @@ actors:
 - Union organizers
 tags:
 - labor-rights
-- NLRB
+- nlrb
 - captive-audience
 - employer-coercion
 - regulatory-action
 sources:
-- title: 'NLRB Rules Anti-Union Captive Audience Meetings Illegal'
+- title: NLRB Rules Anti-Union Captive Audience Meetings Illegal
   url: https://www.epi.org/blog/nlrb-rules-anti-union-captive-audience-meetings-an-illegal-abuse-of-employer-power-states-must-also-continue-to-broaden-protection-of-workers-freedom-from-employer-coercion-on-political-rel/
   outlet: Economic Policy Institute
   date: '2024-11-01'
   verified: true
   tier: 1
-- title: 'Bosses Anti-Union Captive Audience Meetings Are Now Illegal'
+- title: Bosses Anti-Union Captive Audience Meetings Are Now Illegal
   url: https://jacobin.com/2024/11/captive-audience-meetings-nlrb-unions
   outlet: Jacobin
   date: '2024-11-01'

@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--columbia-university-settlement-foreign-student-monitoring
 date: '2025-08-01'
-title: Columbia University Agrees to Monitor Foreign Students for Trump Administration
-  in $221 Million Settlement
+title: Columbia University Agrees to Monitor Foreign Students for Trump Administration in $221 Million Settlement
 importance: 8
 actors:
 - Columbia University
@@ -18,19 +17,19 @@ tags:
 sources:
 - url: https://www.bloomberg.com/news/articles/2025-08-01/columbia-to-aid-trump-policing-of-foreign-students-under-deal
   title: Columbia University to Aid Trump Policing of Foreign Students Under Deal
-  publisher: Bloomberg
   date: '2025-08-01'
   tier: 2
+  outlet: Bloomberg
 - url: https://president.columbia.edu/content/our-resolution-federal-government
   title: Our Resolution With the Federal Government
-  publisher: Columbia University
   date: '2025-07-24'
   tier: 2
+  outlet: Columbia University
 - url: https://www.aljazeera.com/news/2025/7/24/columbia-university-to-pay-200m-to-settle-anti-semitism-claims
   title: Columbia University to pay $200m to settle anti-Semitism claims
-  publisher: Al Jazeera
   date: '2025-07-24'
   tier: 2
+  outlet: Al Jazeera
 ---
 
 Columbia University agreed to pay $221 million ($200 million to the federal government over three years and $21 million for EEOC settlements) to settle Trump administration claims of failing to police antisemitism, while accepting unprecedented requirements for monitoring foreign students. The settlement mandates that Columbia reduce its 'dependence on international student enrollment' and ensure students are 'committed to the longstanding traditions of American universities,' with an oversight monitor receiving specific data on foreign students starting October 2025.

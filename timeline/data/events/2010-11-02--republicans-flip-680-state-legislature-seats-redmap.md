@@ -4,35 +4,35 @@ date: 2010-11-02
 title: Republicans Gain Record 680 State Legislative Seats, Securing REDMAP Objectives
 importance: 9
 tags:
-  - gerrymandering
-  - electoral-manipulation
-  - republican-party
-  - REDMAP
-  - state-legislatures
+- gerrymandering
+- electoral-manipulation
+- republican-party
+- redmap
+- state-legislatures
 actors:
-  - Republican State Leadership Committee
-  - Republican Party
+- Republican State Leadership Committee
+- Republican Party
 sources:
-  - url: https://en.wikipedia.org/wiki/2010_United_States_state_legislative_elections
-    title: 2010 United States state legislative elections
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 3
-  - url: https://www.pbs.org/newshour/politics/gop-gerrymandering-creates-uphill-fight-dems-house
-    title: GOP gerrymandering creates uphill fight for Dems in the House
-    publisher: PBS News
-    date: 2017-07-14
-    tier: 1
-  - url: https://www.rasmussenreports.com/public_content/political_commentary/commentary_by_tim_storey/gop_makes_historic_state_legislative_gains_in_2010
-    title: GOP Makes Historic State Legislative Gains in 2010
-    publisher: Rasmussen Reports
-    date: 2010-11-10
-    tier: 2
-  - url: https://ballotpedia.org/State_legislative_elections_results,_2010
-    title: State legislative elections results, 2010
-    publisher: Ballotpedia
-    date: 2010-11-02
-    tier: 2
+- url: https://en.wikipedia.org/wiki/2010_United_States_state_legislative_elections
+  title: 2010 United States state legislative elections
+  date: 2024-01-01
+  tier: 3
+  outlet: Wikipedia
+- url: https://www.pbs.org/newshour/politics/gop-gerrymandering-creates-uphill-fight-dems-house
+  title: GOP gerrymandering creates uphill fight for Dems in the House
+  date: 2017-07-14
+  tier: 1
+  outlet: PBS News
+- url: https://www.rasmussenreports.com/public_content/political_commentary/commentary_by_tim_storey/gop_makes_historic_state_legislative_gains_in_2010
+  title: GOP Makes Historic State Legislative Gains in 2010
+  date: 2010-11-10
+  tier: 2
+  outlet: Rasmussen Reports
+- url: https://ballotpedia.org/State_legislative_elections_results,_2010
+  title: State legislative elections results, 2010
+  date: 2010-11-02
+  tier: 2
+  outlet: Ballotpedia
 ---
 
 Republicans achieve historic state legislative gains in the 2010 midterm elections, flipping a net 680 state legislative seats—breaking the previous record of 628 seats set by Democrats in the post-Watergate elections of 1974. The gains give Republicans control of redistricting in key states ahead of the 2011 redistricting cycle, fulfilling the strategic objectives of the REDMAP project.

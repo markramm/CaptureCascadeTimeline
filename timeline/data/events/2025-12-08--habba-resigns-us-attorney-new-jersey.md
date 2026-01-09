@@ -5,41 +5,41 @@ title: Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Cou
 summary: Alina Habba resigned as acting U.S. attorney for the District of New Jersey on December 8, 2025, one week after the Third Circuit Court of Appeals unanimously ruled her appointment violated the Federal Vacancies Reform Act. The three-judge panel found that Attorney General Pam Bondi unlawfully attempted to circumvent Senate confirmation requirements through a "delegation theory" that would allow anyone to fill U.S. Attorney roles indefinitely. Habba, who served as Trump's personal attorney before her March 2025 interim appointment, immediately became Senior Advisor to Attorney General Bondi for United States Attorneys despite never receiving Senate consideration for her nomination.
 importance: 8
 actors:
-  - Alina Habba
-  - Pam Bondi
-  - Donald Trump
-  - Desiree Grace
-  - Matthew Brann
+- Alina Habba
+- Pam Bondi
+- Donald Trump
+- Desiree Grace
+- Matthew Brann
 tags:
-  - corruption
-  - DOJ
-  - regulatory-capture
-  - legal-violations
-  - trump-administration
-  - conflicts-of-interest
-  - rule-of-law
-  - executive-overreach
+- corruption
+- doj
+- regulatory-capture
+- legal-violations
+- trump-administration
+- conflicts-of-interest
+- rule-of-law
+- executive-overreach
 sources:
-  - url: https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba
-    title: Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey
-    publisher: NPR
-    date: 2025-12-08
-    tier: 1
-  - url: https://www.nbcnews.com/politics/justice-department/ex-trump-lawyer-alina-habba-announces-stepping-us-attorney-nj-rcna248070
-    title: Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J.
-    publisher: NBC News
-    date: 2025-12-08
-    tier: 1
-  - url: https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/
-    title: Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful
-    publisher: CBS News
-    date: 2025-12-08
-    tier: 1
-  - url: https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/
-    title: Third Circuit Affirms Disqualification of Alina Habba
-    publisher: Reason (Volokh Conspiracy)
-    date: 2025-12-01
-    tier: 2
+- url: https://www.npr.org/2025/12/08/g-s1-101204/trump-attorney-new-jersey-habba
+  title: Former Trump attorney Alina Habba resigns as top federal prosecutor in New Jersey
+  date: 2025-12-08
+  tier: 1
+  outlet: NPR
+- url: https://www.nbcnews.com/politics/justice-department/ex-trump-lawyer-alina-habba-announces-stepping-us-attorney-nj-rcna248070
+  title: Ex-Trump lawyer Alina Habba announces she's stepping down as U.S. attorney for N.J.
+  date: 2025-12-08
+  tier: 1
+  outlet: NBC News
+- url: https://www.cbsnews.com/news/alina-habba-resigns-us-attorney-new-jersey/
+  title: Alina Habba resigns from U.S. attorney's office after court found her appointment unlawful
+  date: 2025-12-08
+  tier: 1
+  outlet: CBS News
+- url: https://reason.com/volokh/2025/12/01/third-circuit-affirms-disqualification-of-alina-habba/
+  title: Third Circuit Affirms Disqualification of Alina Habba
+  date: 2025-12-01
+  tier: 2
+  outlet: Reason (Volokh Conspiracy)
 ---
 
 Alina Habba resigned as acting U.S. attorney for the District of New Jersey on December 8, 2025, one week after the Third Circuit Court of Appeals unanimously ruled her appointment violated the Federal Vacancies Reform Act. The three-judge panel found that Attorney General Pam Bondi unlawfully attempted to circumvent Senate confirmation requirements through a "delegation theory" that would allow anyone to fill U.S. Attorney roles indefinitely. Habba, who served as Trump's personal attorney before her March 2025 interim appointment, immediately became Senior Advisor to Attorney General Bondi for United States Attorneys despite never receiving Senate consideration for her nomination.

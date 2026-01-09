@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.npr.org/2025/09/11/kennedy-center-kevin-struthers-fired-grenell
   title: Jazz Director Fired in Continued Kennedy Center Purges
-  publisher: NPR
   date: '2025-09-11'
   tier: 1
+  outlet: NPR
 actors:
 - Richard Grenell
 - Kevin Struthers

@@ -4,31 +4,31 @@ date: 2017-09-13
 title: Treasury Secretary Mnuchin Requested Military Jet for European Honeymoon, Request Denied After Scrutiny
 importance: 7
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Steve Mnuchin
-  - Louise Linton
-  - Misuse of Funds
-  - Military Aircraft
+- cabinet corruption
+- ethics violations
+- steve mnuchin
+- louise linton
+- misuse of funds
+- military aircraft
 actors:
-  - Steve Mnuchin
-  - Louise Linton
+- Steve Mnuchin
+- Louise Linton
 sources:
-  - url: https://www.washingtonpost.com/news/wonk/wp/2017/09/14/mnuchin-eclipses-past-travel-backlash-with-pricey-request-european-honeymoon-by-military-jet/
-    title: "Steven Mnuchin responds to criticism that he requested government jet for his European honeymoon"
-    publisher: Washington Post
-    date: 2017-09-14
-    tier: 1
-  - url: https://abcnews.go.com/Politics/treasury-secretary-mnuchin-requested-government-jet-european-honeymoon/story?id=49777076
-    title: "Treasury Secretary Mnuchin requested government jet for European honeymoon"
-    publisher: ABC News
-    date: 2017-09-13
-    tier: 1
-  - url: https://www.nbcnews.com/politics/politics-news/honeymoon-over-just-married-mnuchin-cancels-gov-t-jet-n801271
-    title: "Honeymoon phase over. Just-married Mnuchin cancels gov't love jet"
-    publisher: NBC News
-    date: 2017-09-14
-    tier: 1
+- url: https://www.washingtonpost.com/news/wonk/wp/2017/09/14/mnuchin-eclipses-past-travel-backlash-with-pricey-request-european-honeymoon-by-military-jet/
+  title: Steven Mnuchin responds to criticism that he requested government jet for his European honeymoon
+  date: 2017-09-14
+  tier: 1
+  outlet: The Washington Post
+- url: https://abcnews.go.com/Politics/treasury-secretary-mnuchin-requested-government-jet-european-honeymoon/story?id=49777076
+  title: Treasury Secretary Mnuchin requested government jet for European honeymoon
+  date: 2017-09-13
+  tier: 1
+  outlet: ABC News
+- url: https://www.nbcnews.com/politics/politics-news/honeymoon-over-just-married-mnuchin-cancels-gov-t-jet-n801271
+  title: Honeymoon phase over. Just-married Mnuchin cancels gov't love jet
+  date: 2017-09-14
+  tier: 1
+  outlet: NBC News
 ---
 
 Treasury Secretary Steven Mnuchin requested use of a government jet to take him and his wife Louise Linton on their honeymoon to Scotland, France, and Italy in summer 2017, sparking an inquiry by the Treasury Department's Office of Inspector General. The highly unusual request for a U.S. Air Force jet, which could cost approximately $25,000 per hour to operate, was put in writing by Mnuchin's office but was deemed unnecessary after further consideration by Treasury Department officials. A Treasury spokesman claimed Mnuchin requested government travel for his honeymoon out of concern for maintaining secure communications, as "the secretary is a member of the National Security Council and has responsibility for the Office of Terrorism and Financial Intelligence."

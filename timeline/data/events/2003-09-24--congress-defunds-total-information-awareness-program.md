@@ -17,26 +17,26 @@ tags:
 - surveillance
 - privacy
 - legislation
-- TIA
+- tia
 - mass-surveillance
-- NSA
+- nsa
 - classified-programs
 - civil-liberties
 - congressional-oversight
 sources:
-- url: https://sgp.fas.org/congress/2003/tia.html
-  title: Terrorism Information Awareness (TIA) Terminated
-  publisher: Federation of American Scientists
+- title: Terrorism Information Awareness (TIA) Terminated
+  url: https://sgp.fas.org/congress/2003/tia.html
+  outlet: Federation of American Scientists
   date: '2003-09-24'
   tier: 1
-- url: https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/
-  title: Congress funds Defense, kills Terrorism Information Awareness
-  publisher: Government Executive
+- title: Congress funds Defense, kills Terrorism Information Awareness
+  url: https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/
+  outlet: Government Executive
   date: '2003-09-25'
   tier: 2
-- url: https://en.wikipedia.org/wiki/Total_Information_Awareness
-  title: Total Information Awareness
-  publisher: Wikipedia
+- title: Total Information Awareness
+  url: https://en.wikipedia.org/wiki/Total_Information_Awareness
+  outlet: Wikipedia
   date: '2024-01-15'
   tier: 2
 ---

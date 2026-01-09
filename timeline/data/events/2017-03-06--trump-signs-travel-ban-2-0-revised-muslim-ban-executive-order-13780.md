@@ -1,8 +1,7 @@
 ---
 id: 2017-03-06--trump-signs-travel-ban-2-0-revised-muslim-ban-executive-order-13780
 date: '2017-03-06'
-title: Trump Signs Travel Ban 2.0 (Executive Order 13780) - Revised Muslim Ban After
-  Courts Block Original
+title: Trump Signs Travel Ban 2.0 (Executive Order 13780) - Revised Muslim Ban After Courts Block Original
 importance: 9
 tags:
 - muslim-ban
@@ -17,16 +16,15 @@ actors:
 - Rudy Giuliani
 sources:
 - url: https://www.federalregister.gov/documents/2017/03/09/2017-04837/protecting-the-nation-from-foreign-terrorist-entry-into-the-united-states
-  title: 'Executive Order 13780: Protecting the Nation From Foreign Terrorist Entry
-    Into the United States'
-  publisher: Federal Register
+  title: 'Executive Order 13780: Protecting the Nation From Foreign Terrorist Entry Into the United States'
   date: '2017-03-09'
   tier: 1
+  outlet: Federal Register
 - url: https://www.npr.org/2017/03/15/520171478/federal-judge-blocks-president-trumps-new-travel-ban
   title: Federal Judge Blocks President Trump's New Travel Ban
-  publisher: NPR
   date: '2017-03-15'
   tier: 1
+  outlet: NPR
 status: confirmed
 ---
 

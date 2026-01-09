@@ -17,28 +17,23 @@ status: confirmed
 sources:
 - title: National Archives had to retrieve Trump White House records from Mar-a-Lago
   url: https://www.washingtonpost.com/politics/2022/02/07/trump-records-mar-a-lago/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2022-02-07'
-- title: 15 boxes of White House records have been recovered at Trump's Mar-a-Lago
-    resort
+- title: 15 boxes of White House records have been recovered at Trump's Mar-a-Lago resort
   url: https://www.npr.org/2022/02/07/1078940308/trump-boxes-records-mar-a-lago-national-archives
   outlet: NPR
   date: '2022-02-07'
 - title: FBI affidavit for Trump's Mar-a-Lago says 184 classified documents found
   url: https://www.washingtonpost.com/national-security/2022/08/26/trump-affidavit-released/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2022-08-26'
-notes: 'Boxes also contained Trump''s "love letters" with Kim Jong Un and a letter
-  from Barack Obama.
+notes: 'Boxes also contained Trump''s "love letters" with Kim Jong Un and a letter from Barack Obama.
 
-  Federal agents found classified documents in 14 of the 15 boxes. Materials included
-  signals
+  Federal agents found classified documents in 14 of the 15 boxes. Materials included signals
 
-  intelligence and documents governed by special access programs (SAP). Of 337 total
-  classified
+  intelligence and documents governed by special access programs (SAP). Of 337 total classified
 
-  documents eventually recovered: 197 in January 2022, 38 in June 2022, and 102 in
-  August search.'
+  documents eventually recovered: 197 in January 2022, 38 in June 2022, and 102 in August search.'
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

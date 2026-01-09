@@ -4,31 +4,31 @@ date: 2014-11-28
 title: Amazon Workers in Germany Strike During Black Friday for Union Recognition
 importance: 7
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Ver.di Union
+- Jeff Bezos
+- Amazon
+- Ver.di Union
 tags:
-  - Worker Exploitation
-  - Labor Rights
-  - Union Organizing
-  - Amazon
-  - International
+- worker exploitation
+- labor rights
+- union organizing
+- amazon
+- international
 sources:
-  - url: https://www.cnbc.com/2014/04/17/amazon-faces-fresh-wave-of-german-strikes.html
-    title: "Amazon faces fresh wave of German strikes"
-    publisher: CNBC
-    date: 2014-04-17
-    tier: 1
-  - url: https://jacobin.com/2017/06/amazon-germany-union-strikes-works-councils
-    title: "In the Belly of the Beast"
-    publisher: Jacobin
-    date: 2017-06-01
-    tier: 2
-  - url: https://www.eurofound.europa.eu/en/resources/article/2016/germany-union-amazon-conflict-escalates-run-christmas
-    title: "Germany: Union–Amazon conflict escalates in run-up to Christmas"
-    publisher: European Foundation for the Improvement of Living and Working Conditions
-    date: 2016-12-01
-    tier: 1
+- url: https://www.cnbc.com/2014/04/17/amazon-faces-fresh-wave-of-german-strikes.html
+  title: Amazon faces fresh wave of German strikes
+  date: 2014-04-17
+  tier: 1
+  outlet: CNBC
+- url: https://jacobin.com/2017/06/amazon-germany-union-strikes-works-councils
+  title: In the Belly of the Beast
+  date: 2017-06-01
+  tier: 2
+  outlet: Jacobin
+- url: https://www.eurofound.europa.eu/en/resources/article/2016/germany-union-amazon-conflict-escalates-run-christmas
+  title: 'Germany: Union–Amazon conflict escalates in run-up to Christmas'
+  date: 2016-12-01
+  tier: 1
+  outlet: European Foundation for the Improvement of Living and Working Conditions
 status: confirmed
 ---
 

@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Google LLC v. Oracle America, Inc.
   url: https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc.
-  publisher: Wikipedia
   date: '2024-01-01'
   tier: 2
+  outlet: Wikipedia
 - title: Oracle v. Google
   url: https://www.eff.org/cases/oracle-v-google
-  publisher: Electronic Frontier Foundation
   date: '2021-04-05'
   tier: 2
+  outlet: Electronic Frontier Foundation
 - title: Google vs Oracle Copyright Case 2010-2021
   url: https://ambadar.com/insights/copyright/google-vs-oracle-copyright-case/
-  publisher: Am Badar & Associates
   date: '2021-04-06'
   tier: 2
+  outlet: Am Badar & Associates
 ---
 
 Oracle Corporation filed a lawsuit against Google on August 13, 2010, in the U.S. District Court for the Northern District of California, alleging copyright and patent infringement over Google's use of Java application programming interfaces (APIs) and approximately 11,000 lines of Java source code in the Android operating system. The lawsuit came just months after Oracle completed its $7.4 billion acquisition of Sun Microsystems in January 2010, inheriting the Java programming language and immediately weaponizing it against Google's Android platform.

@@ -1,8 +1,7 @@
 ---
 id: 2025-11-10--marine-corps-250th-anniversary-proclamation
 date: '2025-11-10'
-title: Trump Issues Proclamation for Marine Corps 250th Anniversary Emphasizing Military
-  Spending Increase
+title: Trump Issues Proclamation for Marine Corps 250th Anniversary Emphasizing Military Spending Increase
 importance: 4
 tags:
 - military-policy
@@ -14,22 +13,21 @@ actors:
 - Donald Trump
 - JD Vance
 sources:
-- title: 250th Anniversary of the Founding of the United States Marine Corps – The
-    White House
+- title: 250th Anniversary of the Founding of the United States Marine Corps – The White House
   url: https://www.whitehouse.gov/presidential-actions/2025/11/250th-anniversary-of-the-founding-of-the-united-states-marine-corps/
-  publisher: White House
   date: '2025-11-10'
   tier: 1
+  outlet: White House
 - title: JD Vance celebrates Marine Corps 250th birthday as first vice president Marine
   url: https://www.foxnews.com/politics/vance-fires-up-marines-corps-250th-birthday-kick-enemys-come-home-safe
-  publisher: Fox News
   date: '2025-11-10'
   tier: 2
+  outlet: Fox News
 - title: 250th Birthday of the U.S. Marine Corps
   url: https://www.marines.mil/Marines250/
-  publisher: U.S. Marine Corps
   date: '2025-11-10'
   tier: 1
+  outlet: U.S. Marine Corps
 status: confirmed
 ---
 

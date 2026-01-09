@@ -1,8 +1,7 @@
 ---
 id: 2025-09-09--consumer-protection-bureau-faces-workforce-cuts-after-congress-halves-funding
 date: '2025-09-09'
-title: Consumer Financial Protection Bureau Warns of Job Cuts After Congress Halves
-  Funding Cap
+title: Consumer Financial Protection Bureau Warns of Job Cuts After Congress Halves Funding Cap
 importance: 8
 tags:
 - regulatory-capture
@@ -12,9 +11,9 @@ tags:
 sources:
 - url: https://www.reuters.com/legal/cfpb-warns-staff-potential-job-cuts-funding-reduction-2025-09-09/
   title: Consumer Protection Bureau Faces Potential Workforce Cuts
-  publisher: Reuters
   date: '2025-09-09'
   tier: 1
+  outlet: Reuters
 actors:
 - Consumer Financial Protection Bureau
 - Congress

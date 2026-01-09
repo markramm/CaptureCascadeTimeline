@@ -17,20 +17,20 @@ actors:
 - Sarah Harrison
 sources:
 - url: https://www.npr.org/2013/08/01/207987760/nsa-leaker-snowden-granted-one-year-asylum-in-russia
-  title: "NSA Leaker Snowden Granted One-Year Asylum In Russia"
-  publisher: NPR
+  title: NSA Leaker Snowden Granted One-Year Asylum In Russia
   date: '2013-08-01'
   tier: 1
+  outlet: NPR
 - url: https://www.npr.org/2013/08/01/207861882/snowden-leaves-moscow-airport
-  title: "Snowden Leaves Moscow Airport"
-  publisher: NPR
+  title: Snowden Leaves Moscow Airport
   date: '2013-08-01'
   tier: 1
+  outlet: NPR
 - url: https://www.nbcnews.com/feature/edward-snowden-interview/irony-snowdens-russian-asylum-n118756
-  title: "The Irony of Snowden's Russian Asylum"
-  publisher: NBC News
+  title: The Irony of Snowden's Russian Asylum
   date: '2014-05-29'
   tier: 2
+  outlet: NBC News
 status: confirmed
 ---
 

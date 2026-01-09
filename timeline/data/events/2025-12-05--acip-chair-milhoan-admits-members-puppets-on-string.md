@@ -14,9 +14,9 @@ actors:
 - Infectious Diseases Society of America
 tags:
 - public-health
-- RFK-Jr
-- CDC
-- ACIP
+- rfk-jr
+- cdc
+- acip
 - vaccine-policy
 - political-manipulation
 - scientific-integrity
@@ -27,7 +27,7 @@ capture_lanes:
 - Expertise Purge
 - Democratic Norms Erosion
 sources:
-- title: "'Puppets on a string': ACIP chair airs independence concerns"
+- title: '''Puppets on a string'': ACIP chair airs independence concerns'
   url: https://www.yahoo.com/news/articles/puppets-string-acip-chair-airs-204933381.html
   outlet: Yahoo News (POLITICO)
   date: '2025-12-05'

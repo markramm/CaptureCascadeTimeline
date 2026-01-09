@@ -13,19 +13,19 @@ actors:
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2017/08/31/547550804/wells-fargo-admits-to-nearly-twice-as-many-possible-fake-accounts-3-5-million
   title: Wells Fargo Admits To Nearly Twice As Many Possible Fake Accounts — 3.5 Million
-  publisher: NPR
   date: '2017-08-31'
   tier: 1
+  outlet: NPR
 - url: https://www.bloomberg.com/news/articles/2017-08-31/wells-fargo-increases-fake-account-estimate-67-to-3-5-million
   title: Wells Fargo Boosts Fake-Account Estimate 67% to 3.5 Million
-  publisher: Bloomberg
   date: '2017-08-31'
   tier: 2
+  outlet: Bloomberg
 - url: https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/
   title: 'CFPB Enforcement Action: Wells Fargo Bank, N.A.'
-  publisher: Consumer Financial Protection Bureau
   date: '2016-09-08'
   tier: 1
+  outlet: Consumer Financial Protection Bureau
 ---
 
 Wells Fargo announces that its fake accounts scandal affected approximately 3.5 million accounts—a 67% increase from the initial estimate of 2.1 million accounts disclosed during the 2016 settlement. The revised analysis covers January 2009 to September 2016, nearly twice the timeframe of the original review, revealing that the fraud was far more extensive and long-running than initially acknowledged. The admission demonstrates that even Wells Fargo's own internal investigations systematically minimized the scope of wrongdoing.

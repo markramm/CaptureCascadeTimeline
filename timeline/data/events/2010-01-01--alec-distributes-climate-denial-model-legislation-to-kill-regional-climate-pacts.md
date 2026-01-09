@@ -4,45 +4,45 @@ date: '2010-01-01'
 title: ALEC Distributes Climate Denial Model Legislation to Kill Regional Climate Pacts
 importance: 8
 tags:
-  - climate-denial
-  - alec
-  - legislative-capture
-  - fossil-fuels
-  - model-legislation
-  - regulatory-capture
+- climate-denial
+- alec
+- legislative-capture
+- fossil-fuels
+- model-legislation
+- regulatory-capture
 actors:
-  - American Legislative Exchange Council
-  - Koch Industries
-  - ExxonMobil
-  - Clint Woods
-  - Regional Greenhouse Gas Initiative
-  - State Legislatures
+- American Legislative Exchange Council
+- Koch Industries
+- ExxonMobil
+- Clint Woods
+- Regional Greenhouse Gas Initiative
+- State Legislatures
 sources:
-  - url: https://climateinvestigations.org/alec_hates_the_climate/
-    title: ALEC Hates the Climate
-    publisher: Climate Investigations Center
-    date: '2024-01-01'
-    tier: 1
-  - url: https://www.alecexposed.org/wiki/ALEC_&_the_Environment
-    title: ALEC & the Environment
-    publisher: ALEC Exposed
-    date: '2024-01-01'
-    tier: 2
-  - url: https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/
-    title: 'ALEC: 50 Years of Attacking Environmental Protection and Democracy'
-    publisher: Greenpeace USA
-    date: '2023-09-25'
-    tier: 1
-  - url: https://grist.org/energy-policy/alec-says-it-plans-to-craft-legislation-to-take-down-state-renewable-energy-targets/
-    title: ALEC is plotting to take down state renewable energy targets
-    publisher: Grist
-    date: '2013-12-03'
-    tier: 2
+- url: https://climateinvestigations.org/alec_hates_the_climate/
+  title: ALEC Hates the Climate
+  date: '2024-01-01'
+  tier: 1
+  outlet: Climate Investigations Center
+- url: https://www.alecexposed.org/wiki/ALEC_&_the_Environment
+  title: ALEC & the Environment
+  date: '2024-01-01'
+  tier: 2
+  outlet: ALEC Exposed
+- url: https://www.greenpeace.org/usa/alec-50-years-of-attacking-environmental-protection-and-democracy/
+  title: 'ALEC: 50 Years of Attacking Environmental Protection and Democracy'
+  date: '2023-09-25'
+  tier: 1
+  outlet: Greenpeace USA
+- url: https://grist.org/energy-policy/alec-says-it-plans-to-craft-legislation-to-take-down-state-renewable-energy-targets/
+  title: ALEC is plotting to take down state renewable energy targets
+  date: '2013-12-03'
+  tier: 2
+  outlet: Grist
 status: confirmed
 capture_lanes:
-  - Legislative Capture
-  - Regulatory Capture
-  - State Government Capture
+- Legislative Capture
+- Regulatory Capture
+- State Government Capture
 ---
 
 The American Legislative Exchange Council (ALEC) distributed model bills in 2010 designed to kill regional climate pacts like the Regional Greenhouse Gas Initiative (RGGI) in New England and the mid-Atlantic, marking a strategic shift from federal to state-level climate denial efforts. ALEC activist Clint Woods confirmed in September 2010 that RGGI and other regional cap-and-trade regimes had become the "new battlefield" since federal climate legislation had been derailed. While receiving tens of thousands of dollars from Koch Industries and ExxonMobil, ALEC adopted a model resolution stating that "a tremendous amount of economic growth would be sacrificed for a reduction in carbon emissions."

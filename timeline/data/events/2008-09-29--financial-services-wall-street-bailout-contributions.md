@@ -12,19 +12,19 @@ tags:
 sources:
 - url: https://www.opensecrets.org/news/2008/11/essay-winner-campaign-contribu/
   title: Essay Winner - Campaign Contributions Stoked the Fire Behind Wall Street Meltdown
-  publisher: OpenSecrets
   date: '2008-11-01'
   tier: 1
+  outlet: OpenSecrets
 - url: https://www.journals.uchicago.edu/doi/10.1086/663992
   title: A Fistful of Dollars - Lobbying and the Financial Crisis
-  publisher: NBER Macroeconomics Annual
   date: '2011-01-01'
   tier: 1
+  outlet: NBER Macroeconomics Annual
 - url: https://cepr.org/voxeu/columns/lobbying-and-financial-crisis
   title: Lobbying and the financial crisis
-  publisher: Centre for Economic Policy Research
   date: '2011-01-01'
   tier: 1
+  outlet: Centre for Economic Policy Research
 actors:
 - Barney Frank
 - House Financial Services Committee

@@ -1,8 +1,7 @@
 ---
 id: 2025-08-02--jack-smith-investigation-retaliation
 date: '2025-08-02'
-title: Office of Special Counsel Opens Investigation into Jack Smith Following Senator
-  Cotton Request
+title: Office of Special Counsel Opens Investigation into Jack Smith Following Senator Cotton Request
 importance: 9
 actors:
 - Jack Smith
@@ -11,22 +10,20 @@ actors:
 - Trump
 sources:
 - url: https://www.nbcnews.com/politics/trump-administration/office-special-counsel-launches-investigation-ex-trump-prosecutor-jack-rcna222625
-  title: Office of Special Counsel launches investigation into ex-Trump prosecutor
-    Jack Smith
-  publisher: NBC News
+  title: Office of Special Counsel launches investigation into ex-Trump prosecutor Jack Smith
   date: '2025-08-02'
   tier: 1
+  outlet: NBC News
 - url: https://www.cnbc.com/2025/08/02/trump-jack-smith-special-counsel-investigation.html
-  title: Office of Special Counsel launches investigation into ex-Trump prosecutor
-    Jack Smith
-  publisher: CNBC
+  title: Office of Special Counsel launches investigation into ex-Trump prosecutor Jack Smith
   date: '2025-08-02'
   tier: 2
+  outlet: CNBC
 - url: https://www.cbc.ca/news/world/jack-smith-special-counsel-hatch-act-trump-prosecutor-investigation-1.7600525
   title: U.S. watchdog launches investigation into former Trump prosecutor Jack Smith
-  publisher: CBC News
   date: '2025-08-02'
   tier: 1
+  outlet: CBC News
 tags:
 - weaponization-of-government
 - judicial-corruption

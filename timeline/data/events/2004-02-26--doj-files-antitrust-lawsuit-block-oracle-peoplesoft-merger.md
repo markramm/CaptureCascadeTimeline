@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Federal Trade Commission Lessons Learned from United States v. Oracle Corp.
   url: https://www.ftc.gov/sites/default/files/documents/public_statements/lessons-learned-united-states-v.oracle-corp./120131oraclelessons.pdf
-  publisher: Federal Trade Commission
   date: '2012-01-31'
   tier: 1
+  outlet: Federal Trade Commission
 - title: The PeopleSoft vs. Oracle clash
   url: https://www.theregister.com/2004/12/13/oracle_peoplesoft_history/
-  publisher: The Register
   date: '2004-12-13'
   tier: 2
+  outlet: The Register
 - title: 20 years since Oracle bought two software rivals in one
   url: https://www.theregister.com/2025/01/02/twenty_years_since_oracle_bought_peoplesoft/
-  publisher: The Register
   date: '2025-01-02'
   tier: 2
+  outlet: The Register
 ---
 
 The U.S. Department of Justice filed an antitrust lawsuit on February 26, 2004, seeking to block Oracle Corporation's proposed hostile acquisition of PeopleSoft, alleging that the merger would substantially reduce competition in the enterprise software market and result in higher prices, less innovation, and fewer choices for customers. The DOJ's lawsuit represented a rare federal attempt to prevent market consolidation in the technology sector through antitrust enforcement.

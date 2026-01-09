@@ -27,11 +27,11 @@ sources:
   date: '2019-09-25'
 - title: Trump impeached by House for abuse of power
   url: https://www.nytimes.com/2019/12/18/us/politics/trump-impeached.html
-  outlet: New York Times
+  outlet: The New York Times
   date: '2019-12-18'
 - title: Whistleblower complaint about Trump and Ukraine
   url: https://www.washingtonpost.com/context/read-the-whistleblower-complaint-regarding-president-trump-s-communications-with-ukrainian-president-volodymyr-zelensky/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2019-09-26'
 - title: House Intelligence Committee Impeachment Inquiry Report
   url: https://www.govinfo.gov/content/pkg/GOVPUB-Y4_IN8_18-PURL-gpo129303/pdf/GOVPUB-Y4_IN8_18-PURL-gpo129303.pdf

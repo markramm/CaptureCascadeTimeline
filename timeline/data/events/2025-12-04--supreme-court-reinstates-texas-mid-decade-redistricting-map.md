@@ -16,13 +16,13 @@ actors:
 - Justice Elena Kagan
 - U.S. District Judge Jeffrey Brown
 tags:
-- Supreme-Court
+- supreme-court
 - voting-rights
 - gerrymandering
 - racial-discrimination
-- Republican-Party
-- Texas
-- Voting-Rights-Act
+- republican-party
+- texas
+- voting-rights-act
 - mid-decade-redistricting
 - congressional-districts
 capture_lanes:

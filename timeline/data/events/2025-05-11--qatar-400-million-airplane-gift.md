@@ -17,15 +17,13 @@ actors:
 sources:
 - title: Trump administration in talks with Qatar over plane gift
   url: https://www.washingtonpost.com/politics/2025/05/11/trump-air-force-one-qatar/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-05-11'
-- title: Trump administration officially accepts jet from Qatar for use as Air Force
-    One
+- title: Trump administration officially accepts jet from Qatar for use as Air Force One
   url: https://www.npr.org/2025/05/21/nx-s1-5406420/trump-accepts-qatar-plane-air-force-one
   outlet: NPR
   date: '2025-05-21'
-- title: Trump administration will accept a luxury jet from Qatar to use as Air Force
-    One
+- title: Trump administration will accept a luxury jet from Qatar to use as Air Force One
   url: https://www.nbcnews.com/politics/donald-trump/trump-administration-will-accept-luxury-jet-qatar-use-air-force-one-rcna206111
   outlet: NBC News
   date: '2025-05-11'

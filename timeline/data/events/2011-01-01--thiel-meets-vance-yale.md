@@ -11,19 +11,10 @@ connections:
 - 2019-01-01--thiel-funds-narya-capital
 - 2022-04-01--thiel-funds-vance-senate
 date: '2011-01-01'
-description: J.D. Vance first meets Peter Thiel during Thiel's talk at Yale Law School,
-  initiating a transformative relationship that would propel Vance from law student
-  to venture capitalist to U.S. Senator and Vice Presidential candidate. Thiel's talk
-  challenged the traditional career paths of Yale Law students, arguing that technological
-  stagnation was rooted in elite institutional thinking.
+description: J.D. Vance first meets Peter Thiel during Thiel's talk at Yale Law School, initiating a transformative relationship that would propel Vance from law student to venture capitalist to U.S. Senator and Vice Presidential candidate. Thiel's talk challenged the traditional career paths of Yale Law students, arguing that technological stagnation was rooted in elite institutional thinking.
 id: 2011-01-01--thiel-meets-vance-yale
 importance: 7
-notes: This meeting represents the beginning of Thiel's systematic cultivation of
-  political talent aligned with his anti-establishment vision. Vance, then a Yale
-  Law student from a working-class background, becomes Thiel's most successful political
-  investment, demonstrating how tech billionaires build parallel power structures
-  by identifying and funding ambitious individuals willing to advance their ideological
-  agenda.
+notes: This meeting represents the beginning of Thiel's systematic cultivation of political talent aligned with his anti-establishment vision. Vance, then a Yale Law student from a working-class background, becomes Thiel's most successful political investment, demonstrating how tech billionaires build parallel power structures by identifying and funding ambitious individuals willing to advance their ideological agenda.
 patterns:
 - elite-capture
 - political-pipeline
@@ -43,9 +34,9 @@ sources:
   url: https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/
 status: confirmed
 tags:
-- J.D. Vance
-- Peter Thiel
-- Yale Law School
+- j.d. vance
+- peter thiel
+- yale law school
 - political-pipeline
 - tech-politics
 - mentorship

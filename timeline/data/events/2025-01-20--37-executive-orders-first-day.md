@@ -25,7 +25,7 @@ capture_lanes:
 sources:
 - title: The list of executive orders Trump signed on Day 1 in office
   url: https://www.washingtonpost.com/politics/2025/01/20/trump-executive-orders-list/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-01-20'
 - title: Trump signs executive actions on Jan. 6, TikTok, immigration and more
   url: https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1
@@ -37,11 +37,9 @@ sources:
   date: '2025-01-20'
 - title: Trump signs executive orders, actions on Inauguration Day
   url: https://www.washingtonpost.com/politics/2025/01/20/trump-inauguration-live-updates/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-01-20'
-notes: Directly implemented numerous Project 2025 priorities. DOGE given 18-month
-  mandate to overhaul federal software and maximize efficiency. Mass pardons for January
-  6 defendants included commuting sentences for seditious conspiracy convictions.
+notes: Directly implemented numerous Project 2025 priorities. DOGE given 18-month mandate to overhaul federal software and maximize efficiency. Mass pardons for January 6 defendants included commuting sentences for seditious conspiracy convictions.
 status: confirmed
 ---
 

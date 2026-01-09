@@ -4,32 +4,32 @@ date: 2020-01-31
 title: Bolton Book Manuscript Reveals Trump Directly Tied Ukraine Aid to Biden Investigation
 importance: 10
 tags:
-  - First Impeachment
-  - Ukraine
-  - Quid Pro Quo
-  - Bolton
-  - Senate Trial
+- first impeachment
+- ukraine
+- quid pro quo
+- bolton
+- senate trial
 actors:
-  - John Bolton
-  - Donald Trump
-  - Mitch McConnell
-  - Senate Republicans
+- John Bolton
+- Donald Trump
+- Mitch McConnell
+- Senate Republicans
 sources:
-  - url: https://www.nytimes.com/2020/01/26/us/politics/trump-bolton-book-ukraine.html
-    title: "Bolton Book Manuscript: Trump Tied Ukraine Aid to Investigations"
-    publisher: New York Times
-    date: 2020-01-26
-    tier: 1
-  - url: https://www.npr.org/2020/06/17/879375742/read-excerpts-the-trump-ukraine-pressure-campaign-as-described-by-john-bolton
-    title: "Read Excerpts: The Trump-Ukraine Pressure Campaign, As Described By John Bolton"
-    publisher: NPR
-    date: 2020-06-17
-    tier: 1
-  - url: https://www.c-span.org/video/?468886-1/bolton-book-details-trump-ukraine-conduct
-    title: Bolton Book Details Trump Ukraine Conduct
-    publisher: C-SPAN
-    date: 2020-06-23
-    tier: 1
+- url: https://www.nytimes.com/2020/01/26/us/politics/trump-bolton-book-ukraine.html
+  title: 'Bolton Book Manuscript: Trump Tied Ukraine Aid to Investigations'
+  date: 2020-01-26
+  tier: 1
+  outlet: The New York Times
+- url: https://www.npr.org/2020/06/17/879375742/read-excerpts-the-trump-ukraine-pressure-campaign-as-described-by-john-bolton
+  title: 'Read Excerpts: The Trump-Ukraine Pressure Campaign, As Described By John Bolton'
+  date: 2020-06-17
+  tier: 1
+  outlet: NPR
+- url: https://www.c-span.org/video/?468886-1/bolton-book-details-trump-ukraine-conduct
+  title: Bolton Book Details Trump Ukraine Conduct
+  date: 2020-06-23
+  tier: 1
+  outlet: C-SPAN
 ---
 
 The New York Times obtained portions of former National Security Advisor John Bolton's unpublished book manuscript on January 26, 2020, revealing that President Trump explicitly told Bolton in August 2019 that he wanted to continue freezing military aid to Ukraine until Ukrainian officials announced investigations into Joe Biden and his son Hunter. The timing was explosive—the revelation came in the middle of Trump's Senate impeachment trial, just days before senators would vote on whether to call Bolton as a witness. Bolton's account provided direct, first-hand testimony from Trump's longest-serving National Security Advisor that Trump tied official acts to personal political favors—the precise abuse of power at the heart of the impeachment.

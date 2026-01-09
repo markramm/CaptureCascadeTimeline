@@ -2,8 +2,7 @@
 id: 2025-07-01--alligator-alcatraz-everglades-detention
 date: '2025-07-01'
 importance: 9
-title: Florida opens "Alligator Alcatraz" tent detention camp in Everglades at $450
-  million annual cost
+title: Florida opens "Alligator Alcatraz" tent detention camp in Everglades at $450 million annual cost
 location: Dade-Collier Training and Transition Airport, Everglades, Florida
 actors:
 - Florida Division of Emergency Management
@@ -29,7 +28,7 @@ sources:
   date: '2025-06-24'
 - title: Florida builds Alligator Alcatraz for migrant detainees in Everglades
   url: https://www.washingtonpost.com/nation/2025/06/24/florida-desantis-ice-detention-center-everglades/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2025-06-24'
 - title: Florida Alligator Alcatraz detention facility to be empty within a few days
   url: https://www.npr.org/2025/08/28/nx-s1-5520698/alligator-alcatraz-detention-facility-empty
@@ -39,10 +38,7 @@ sources:
   url: https://cbs12.com/news/cbs12-news-i-team/alligator-alcatraz-taking-a-big-bite-out-of-florida-tax-dollars-south-florida-news-everglades-undocumented-migrant-detention-facility-president-donald-trump-governor-ron-desantis-july-30-2025
   outlet: CBS12
   date: '2025-07-30'
-notes: Trump toured facility July 1. Environmental groups filed suit for violating
-  federal environmental review requirements. Sen. Carlos Guillermo Smith calculated
-  the $90,000+ per person annual cost. Facility evacuated after less than two months
-  of operation.
+notes: Trump toured facility July 1. Environmental groups filed suit for violating federal environmental review requirements. Sen. Carlos Guillermo Smith calculated the $90,000+ per person annual cost. Facility evacuated after less than two months of operation.
 status: confirmed
 ---
 

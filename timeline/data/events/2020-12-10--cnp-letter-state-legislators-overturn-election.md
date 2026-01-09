@@ -4,7 +4,7 @@ date: '2020-12-10'
 title: CNP Leadership Releases Letter Urging State Legislators to Reject 25 Million Votes
 importance: 10
 tags:
-- CNP
+- cnp
 - conservative-movement
 - election-denial
 - coordination
@@ -15,12 +15,12 @@ actors:
 - Cleta Mitchell
 - Republican state legislators
 sources:
-- title: 'The Shadow Network (Council for National Policy) Is Not Going Away'
+- title: The Shadow Network (Council for National Policy) Is Not Going Away
   url: https://billmoyers.com/story/the-shadow-network-council-for-national-policy-is-not-going-away/
   publication: Bill Moyers
   date: '2021-01-08'
   tier: 1
-- title: 'Christian-Right Council for National Policy Linked to Violent Breach of Capitol'
+- title: Christian-Right Council for National Policy Linked to Violent Breach of Capitol
   url: https://truthout.org/articles/christian-right-council-for-national-policy-linked-to-violent-breach-of-capitol/
   publication: Truthout
   date: '2021-01-08'

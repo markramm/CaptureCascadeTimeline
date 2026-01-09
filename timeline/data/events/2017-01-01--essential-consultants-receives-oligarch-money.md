@@ -2,8 +2,7 @@
 id: 2017-01-01--essential-consultants-receives-oligarch-money
 date: '2017-01-01'
 importance: 9
-title: Essential Consultants Receives Over $2M from Multiple Corporate Entities and
-  Oligarch-Linked Firms
+title: Essential Consultants Receives Over $2M from Multiple Corporate Entities and Oligarch-Linked Firms
 location: United States
 actors:
 - Essential Consultants LLC
@@ -26,7 +25,7 @@ capture_lanes:
 sources:
 - title: How money flowed through Cohen's shell company
   url: https://www.washingtonpost.com/news/politics/wp/2018/05/08/how-money-flowed-through-michael-cohens-multi-purpose-shell-company/
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2018-05-08'
   archive_url: https://web.archive.org/web/20180508000000/https://www.washingtonpost.com/news/politics/wp/2018/05/08/how-money-flowed-through-michael-cohens-multi-purpose-shell-company/
 - title: AT&T paid Cohen up to $600,000
@@ -36,12 +35,9 @@ sources:
   archive_url: https://web.archive.org/web/20180509000000/https://www.cnbc.com/2018/05/09/att-paid-trump-lawyer-michael-cohen-up-to-600000.html
 - title: Michael Cohen's Essential Consultants Paid by Novartis, AT&T
   url: https://time.com/5271000/michael-cohen-essential-consultants-novartis-vekselberg-att/
-  outlet: TIME Magazine
+  outlet: TIME
   date: '2018-05-08'
-notes: 'Total of $4M flowed through account 2017-2018. Vekselberg questioned by Mueller.
-  Companies claimed seeking "insights" into administration. Shows shell company evolution
-  from hush money to foreign influence vehicle. Companies paid despite minimal services:
-  Novartis terminated contract after one meeting, others continued payments.'
+notes: 'Total of $4M flowed through account 2017-2018. Vekselberg questioned by Mueller. Companies claimed seeking "insights" into administration. Shows shell company evolution from hush money to foreign influence vehicle. Companies paid despite minimal services: Novartis terminated contract after one meeting, others continued payments.'
 status: confirmed
 ---
 

@@ -4,31 +4,31 @@ date: 2021-04-09
 title: Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
 importance: 9
 actors:
-  - Jeff Bezos
-  - Amazon
-  - Retail, Wholesale and Department Store Union
+- Jeff Bezos
+- Amazon
+- Retail, Wholesale and Department Store Union
 tags:
-  - Union Organizing
-  - Worker Exploitation
-  - Amazon
-  - Labor Rights
-  - Corporate Accountability
+- union organizing
+- worker exploitation
+- amazon
+- labor rights
+- corporate accountability
 sources:
-  - url: https://www.cnn.com/2021/04/09/tech/amazon-bessemer-union-election/index.html
-    title: "Amazon workers vote against union at Alabama warehouse"
-    publisher: CNN
-    date: 2021-04-09
-    tier: 1
-  - url: https://www.cbsnews.com/news/amazon-union-alabama-vote-against/
-    title: "Amazon beats back union effort in Bessemer, Alabama, as workers vote 'no'"
-    publisher: CBS News
-    date: 2021-04-09
-    tier: 1
-  - url: https://slate.com/technology/2021/04/amazon-union-bessemer-anti-union-labor-law.html
-    title: "Amazon union vote in Bessemer: Many of its anti-union voters were legal, because labor is broken"
-    publisher: Slate
-    date: 2021-04-09
-    tier: 2
+- url: https://www.cnn.com/2021/04/09/tech/amazon-bessemer-union-election/index.html
+  title: Amazon workers vote against union at Alabama warehouse
+  date: 2021-04-09
+  tier: 1
+  outlet: CNN
+- url: https://www.cbsnews.com/news/amazon-union-alabama-vote-against/
+  title: Amazon beats back union effort in Bessemer, Alabama, as workers vote 'no'
+  date: 2021-04-09
+  tier: 1
+  outlet: CBS News
+- url: https://slate.com/technology/2021/04/amazon-union-bessemer-anti-union-labor-law.html
+  title: 'Amazon union vote in Bessemer: Many of its anti-union voters were legal, because labor is broken'
+  date: 2021-04-09
+  tier: 2
+  outlet: Slate
 status: confirmed
 ---
 

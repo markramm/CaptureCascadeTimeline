@@ -1,7 +1,7 @@
 ---
 id: 2013-11-09--trump-moscow-miss-universe-agalarov-putin-connections
 date: '2013-11-09'
-title: 'Trump Holds Miss Universe in Moscow, Partners with Putin-Connected Agalarovs for Trump Tower Moscow'
+title: Trump Holds Miss Universe in Moscow, Partners with Putin-Connected Agalarovs for Trump Tower Moscow
 importance: 9
 tags:
 - trump
@@ -19,26 +19,26 @@ actors:
 - Vladimir Putin
 - Trump Organization
 sources:
-- title: 'Donald Trump Met Some of Russia''s Rich and Powerful At The 2013 Miss Universe Contest In Moscow'
+- title: Donald Trump Met Some of Russia's Rich and Powerful At The 2013 Miss Universe Contest In Moscow
   url: https://www.npr.org/2017/07/17/537277074/at-the-2013-miss-universe-contest-trump-met-some-of-russias-rich-and-powerful
-  publisher: NPR
   date: '2017-07-17'
   tier: 1
-- title: 'Donald Trump, the 2013 Miss Universe Pageant in Moscow, and the Quest to Meet Vladimir Putin'
+  outlet: NPR
+- title: Donald Trump, the 2013 Miss Universe Pageant in Moscow, and the Quest to Meet Vladimir Putin
   url: https://medium.com/@petergrant_14485/donald-trump-the-2013-miss-universe-pageant-in-moscow-and-the-quest-to-meet-vladimir-putin-8cb21b2aead
-  publisher: Medium
   date: '2018-01-01'
   tier: 2
+  outlet: Medium
 - title: 'The Russia Investigation: Miss Universe Pageant 2013, the Kremlin and Trump Tower Moscow'
   url: https://thenewsblender.com/2018/11/the-russia-investigation-miss-universe-pageant-2013-the-kremlin-and-trump-tower-moscow/
-  publisher: The News Blender
   date: '2018-11-01'
   tier: 2
+  outlet: The News Blender
 - title: 'A Long History: Agalarov, Trump and Vladimir Putin'
   url: https://democrats.org/news/a-long-history-agalarov-trump-and-vladimir-putin/
-  publisher: Democratic National Committee
   date: '2017-07-01'
   tier: 2
+  outlet: Democratic National Committee
 status: confirmed
 ---
 

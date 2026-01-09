@@ -11,9 +11,9 @@ actors:
 sources:
 - title: Former Republican Election Official Buys Dominion Voting
   url: https://apnews.com/article/dominion-voting-systems-sale-republican-leiendecker-9f8e4d3c2a1b4e6f8d9c7b5a3e2d1c0b
-  publisher: Associated Press
   date: '2025-10-10'
   tier: 1
+  outlet: Associated Press
 tags:
 - election-integrity
 - institutional-capture

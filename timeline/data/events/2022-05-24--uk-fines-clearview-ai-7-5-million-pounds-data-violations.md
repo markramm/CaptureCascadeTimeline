@@ -8,23 +8,23 @@ tags:
 - privacy-violations
 - regulatory-action
 - international-law
-- GDPR
+- gdpr
 sources:
 - url: https://www.infosecurity-magazine.com/news/ico-fines-clearview-ai-75m/
   title: ICO Fines Clearview AI £7.5m for Collecting UK Citizens' Data
-  publisher: Infosecurity Magazine
   date: '2022-05-24'
   tier: 2
+  outlet: Infosecurity Magazine
 - url: https://www.computerweekly.com/news/252520622/ICO-orders-facial-recognition-firm-Clearview-AI-to-delete-all-data-about-UK-residents
   title: ICO orders facial recognition firm Clearview AI to delete all data about UK residents
-  publisher: Computer Weekly
   date: '2022-05-24'
   tier: 2
+  outlet: Computer Weekly
 - url: https://www.rpclegal.com/snapshots/data-protection/summer-2022/ico-fines-clearview-ai-for-facial-recognition-database/
   title: ICO fines Clearview AI over £7.5m for facial recognition database
-  publisher: RPC Legal
   date: '2022-06-01'
   tier: 2
+  outlet: RPC Legal
 actors:
 - Information Commissioner's Office
 - Clearview AI

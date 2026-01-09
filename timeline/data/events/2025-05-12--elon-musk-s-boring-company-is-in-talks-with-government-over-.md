@@ -2,9 +2,7 @@
 id: 2025-05-12--elon-musk-s-boring-company-is-in-talks-with-government-over-
 date: '2025-05-12'
 title: Elon Musk's Boring Company Enters Negotiations for $8.5B Amtrak Tunnel Project
-description: The Federal Railroad Administration solicited Elon Musk's Boring Company
-  for help with the multi-billion dollar Frederick Douglass Tunnel project, exploring
-  potential tunneling solutions for a critical infrastructure replacement.
+description: The Federal Railroad Administration solicited Elon Musk's Boring Company for help with the multi-billion dollar Frederick Douglass Tunnel project, exploring potential tunneling solutions for a critical infrastructure replacement.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -29,7 +27,7 @@ sources:
   date: '2025-05-13'
   url: https://techcrunch.com/2025/05/13/elon-musks-the-boring-company-might-be-in-line-for-an-amtrak-contract/
 - title: Elon Musk's Boring Company is in talks with government over Amtrak project
-  outlet: New York Times
+  outlet: The New York Times
   date: '2025-05-12'
   url: https://www.nytimes.com/2025/05/12/technology/elon-musk-boring-company-amtrak.html
 connections:
@@ -38,8 +36,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - regulatory-capture
-notes: Event from comprehensive kleptocracy timeline tracking. Detailed discussions
-  reveal potential conflicts of interest and strategic positioning of Musk's enterprises.
+notes: Event from comprehensive kleptocracy timeline tracking. Detailed discussions reveal potential conflicts of interest and strategic positioning of Musk's enterprises.
 capture_lanes:
 - Financial Capture
 - Government Contracting

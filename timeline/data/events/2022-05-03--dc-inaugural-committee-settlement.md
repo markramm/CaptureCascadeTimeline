@@ -2,10 +2,8 @@
 id: 2022-05-03--dc-inaugural-committee-settlement
 date: '2022-05-03'
 importance: 7
-title: Trump Org and Inaugural Committee pay $750,000 to settle D.C. AG lawsuit over
-  hotel overcharges
-notes: 'Include primary AG release plus multiple mainstream confirmations; this resolves
-  the civil suit
+title: Trump Org and Inaugural Committee pay $750,000 to settle D.C. AG lawsuit over hotel overcharges
+notes: 'Include primary AG release plus multiple mainstream confirmations; this resolves the civil suit
 
   without admissions, but recovers nonprofit funds.
 
@@ -43,7 +41,7 @@ sources:
   - Independent confirmation; context on alleged overpayments
   verified: true
 - date: '2022-05-03'
-  outlet: Washington Post
+  outlet: The Washington Post
   title: Trump entities agree to pay $750,000 to settle D.C. inauguration lawsuit
   url: https://www.washingtonpost.com/dc-md-va/2022/05/03/trump-hotel-nonprofit-settlement/
   archive_url: ''

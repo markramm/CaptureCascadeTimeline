@@ -4,35 +4,35 @@ title: Eli Lilly, Novo Nordisk, and Sanofi Sued for Insulin Price-Fixing Conspir
 date: '2017-01-10'
 importance: 9
 actors:
-  - Eli Lilly
-  - Novo Nordisk
-  - Sanofi
-  - CVS Caremark
-  - Express Scripts
-  - OptumRx
+- Eli Lilly
+- Novo Nordisk
+- Sanofi
+- CVS Caremark
+- Express Scripts
+- OptumRx
 tags:
-  - healthcare
-  - pharmaceutical-price-gouging
-  - antitrust
-  - corporate-crime
-  - regulatory-capture
+- healthcare
+- pharmaceutical-price-gouging
+- antitrust
+- corporate-crime
+- regulatory-capture
 status: confirmed
 sources:
-  - title: Klobuchar Presses Three Pharmaceutical Companies for Action on High Insulin Prices
-    url: https://www.klobuchar.senate.gov/public/index.cfm/2017/7/klobuchar-presses-three-pharmaceutical-companies-for-action-on-high-insulin-prices-urges-vigilance-against-anticompetitive-conduct
-    publisher: U.S. Senator Amy Klobuchar
-    date: '2017-07-01'
-    tier: 1
-  - title: Insulin Price Increases Driven by Collusion Between Major Drug Cos
-    url: https://topclassactions.com/lawsuit-settlements/prescription/insulin-price-increases-driven-by-collusion-between-major-drug-cos-claims-class-action-lawsuit/
-    publisher: Top Class Actions
-    date: '2017-01-30'
-    tier: 2
-  - title: Sanofi, Lilly, Novo and a trio of PBMs face racketeering claims over pricey insulin drugs
-    url: https://www.fiercepharma.com/pharma/sanofi-lilly-and-novo-plus-trio-pbms-face-racketeering-claims-over-pricey-insulin-drugs
-    publisher: Fierce Pharma
-    date: '2017-02-01'
-    tier: 2
+- title: Klobuchar Presses Three Pharmaceutical Companies for Action on High Insulin Prices
+  url: https://www.klobuchar.senate.gov/public/index.cfm/2017/7/klobuchar-presses-three-pharmaceutical-companies-for-action-on-high-insulin-prices-urges-vigilance-against-anticompetitive-conduct
+  date: '2017-07-01'
+  tier: 1
+  outlet: U.S. Senator Amy Klobuchar
+- title: Insulin Price Increases Driven by Collusion Between Major Drug Cos
+  url: https://topclassactions.com/lawsuit-settlements/prescription/insulin-price-increases-driven-by-collusion-between-major-drug-cos-claims-class-action-lawsuit/
+  date: '2017-01-30'
+  tier: 2
+  outlet: Top Class Actions
+- title: Sanofi, Lilly, Novo and a trio of PBMs face racketeering claims over pricey insulin drugs
+  url: https://www.fiercepharma.com/pharma/sanofi-lilly-and-novo-plus-trio-pbms-face-racketeering-claims-over-pricey-insulin-drugs
+  date: '2017-02-01'
+  tier: 2
+  outlet: Fierce Pharma
 ---
 
 In January 2017, diabetes patients filed a federal antitrust class action lawsuit alleging that the three pharmaceutical manufacturers controlling 99% of the U.S. insulin market—Eli Lilly, Novo Nordisk, and Sanofi—conspired to raise insulin prices in near-lockstep coordination, increasing prices by over 300% in some cases between 2010-2017. The lawsuit exposed how pharmaceutical oligopolies use parallel pricing to extract maximum profits from patients dependent on life-sustaining medications, while regulators failed to intervene despite obvious anticompetitive conduct.

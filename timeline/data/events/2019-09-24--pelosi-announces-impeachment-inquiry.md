@@ -4,32 +4,32 @@ date: 2019-09-24
 title: Speaker Pelosi Announces Formal Impeachment Inquiry After Ukraine Revelations
 importance: 10
 tags:
-  - First Impeachment
-  - Congressional Oversight
-  - Ukraine
-  - Abuse of Power
-  - Nancy Pelosi
+- first impeachment
+- congressional oversight
+- ukraine
+- abuse of power
+- nancy pelosi
 actors:
-  - Nancy Pelosi
-  - Donald Trump
-  - Adam Schiff
-  - House Democrats
+- Nancy Pelosi
+- Donald Trump
+- Adam Schiff
+- House Democrats
 sources:
-  - url: https://www.speaker.gov/newsroom/92419-0
-    title: Pelosi Remarks Announcing Impeachment Inquiry
-    publisher: Office of the Speaker of the House
-    date: 2019-09-24
-    tier: 1
-  - url: https://www.congress.gov/bill/116th-congress/house-resolution/660
-    title: "H.Res.660 - Directing certain committees to continue their ongoing investigations"
-    publisher: U.S. Congress
-    date: 2019-10-31
-    tier: 1
-  - url: https://www.c-span.org/video/?464560-1/speaker-pelosi-announces-formal-impeachment-inquiry
-    title: Speaker Pelosi Announces Formal Impeachment Inquiry
-    publisher: C-SPAN
-    date: 2019-09-24
-    tier: 1
+- url: https://www.speaker.gov/newsroom/92419-0
+  title: Pelosi Remarks Announcing Impeachment Inquiry
+  date: 2019-09-24
+  tier: 1
+  outlet: Office of the Speaker of the House
+- url: https://www.congress.gov/bill/116th-congress/house-resolution/660
+  title: H.Res.660 - Directing certain committees to continue their ongoing investigations
+  date: 2019-10-31
+  tier: 1
+  outlet: U.S. Congress
+- url: https://www.c-span.org/video/?464560-1/speaker-pelosi-announces-formal-impeachment-inquiry
+  title: Speaker Pelosi Announces Formal Impeachment Inquiry
+  date: 2019-09-24
+  tier: 1
+  outlet: C-SPAN
 ---
 
 House Speaker Nancy Pelosi announced a formal impeachment inquiry into President Trump on September 24, 2019, marking a historic turning point after revelations that Trump pressured Ukraine to investigate Joe Biden while withholding military aid. In a solemn address from the Speaker's Balcony Hallway, Pelosi declared that "the actions of the Trump presidency revealed the dishonorable fact of the President's betrayal of his oath of office, betrayal of our national security, and betrayal of the integrity of our elections." The announcement came after months of Pelosi resisting calls for impeachment from progressive House Democrats, but the Ukraine scandal—involving solicitation of foreign interference in a U.S. election—crossed a clear constitutional line that unified the Democratic caucus.

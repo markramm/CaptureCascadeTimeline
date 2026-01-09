@@ -16,7 +16,7 @@ tags:
 - corporate-deception
 status: confirmed
 sources:
-- title: 'Associated Press Confirms That Comcast Blocks Some BitTorrent Traffic'
+- title: Associated Press Confirms That Comcast Blocks Some BitTorrent Traffic
   url: https://www.techdirt.com/2007/10/19/associated-press-confirms-that-comcast-blocks-some-bittorrent-traffic-despite-comcast-denials/
   outlet: Techdirt
   date: '2007-10-19'
@@ -26,9 +26,9 @@ sources:
   outlet: Electronic Frontier Foundation
   date: '2007-10-19'
   tier: 1
-- title: 'Comcast Blocks Some Internet Traffic'
+- title: Comcast Blocks Some Internet Traffic
   url: http://www.washingtonpost.com/wp-dyn/content/article/2007/10/19/AR2007101900842.html
-  outlet: Washington Post
+  outlet: The Washington Post
   date: '2007-10-19'
   tier: 1
 ---

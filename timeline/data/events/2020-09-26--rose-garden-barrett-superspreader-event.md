@@ -4,38 +4,38 @@ date: '2020-09-26'
 title: Rose Garden Amy Coney Barrett Ceremony Becomes White House COVID Superspreader Event
 importance: 8
 tags:
-  - COVID-19
-  - Public Health
-  - Superspreader Event
-  - Supreme Court
-  - Accountability Crisis
+- covid-19
+- public health
+- superspreader event
+- supreme court
+- accountability crisis
 actors:
-  - Donald Trump
-  - Amy Coney Barrett
-  - Melania Trump
-  - Mike Lee
-  - Thom Tillis
-  - Kellyanne Conway
-  - Chris Christie
-  - John Jenkins
-  - Hope Hicks
-  - Anthony Fauci
+- Donald Trump
+- Amy Coney Barrett
+- Melania Trump
+- Mike Lee
+- Thom Tillis
+- Kellyanne Conway
+- Chris Christie
+- John Jenkins
+- Hope Hicks
+- Anthony Fauci
 sources:
-  - title: Fauci calls Amy Coney Barrett ceremony in Rose Garden 'superspreader event'
-    url: https://www.nbcnews.com/politics/white-house/fauci-calls-amy-coney-barrett-ceremony-rose-garden-superspreader-event-n1242781
-    publisher: NBC News
-    date: '2020-10-09'
-    tier: 1
-  - title: 11 attendees at SCOTUS nomination Rose Garden event test positive for COVID-19
-    url: https://abcnews.go.com/Politics/attendees-scotus-nomination-rose-garden-event-test-positive/story?id=73391378
-    publisher: ABC News
-    date: '2020-10-05'
-    tier: 1
-  - title: Amy Coney Barrett Rose Garden Event Was a WH COVID Superspreader, New Data Suggests
-    url: https://www.newsweek.com/amy-coney-barrett-rose-garden-event-was-wh-covid-superspreader-new-data-suggests-1537865
-    publisher: Newsweek
-    date: '2020-10-12'
-    tier: 2
+- title: Fauci calls Amy Coney Barrett ceremony in Rose Garden 'superspreader event'
+  url: https://www.nbcnews.com/politics/white-house/fauci-calls-amy-coney-barrett-ceremony-rose-garden-superspreader-event-n1242781
+  date: '2020-10-09'
+  tier: 1
+  outlet: NBC News
+- title: 11 attendees at SCOTUS nomination Rose Garden event test positive for COVID-19
+  url: https://abcnews.go.com/Politics/attendees-scotus-nomination-rose-garden-event-test-positive/story?id=73391378
+  date: '2020-10-05'
+  tier: 1
+  outlet: ABC News
+- title: Amy Coney Barrett Rose Garden Event Was a WH COVID Superspreader, New Data Suggests
+  url: https://www.newsweek.com/amy-coney-barrett-rose-garden-event-was-wh-covid-superspreader-new-data-suggests-1537865
+  date: '2020-10-12'
+  tier: 2
+  outlet: Newsweek
 status: confirmed
 ---
 

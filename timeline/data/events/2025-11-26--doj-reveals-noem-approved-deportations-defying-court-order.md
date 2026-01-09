@@ -24,7 +24,7 @@ tags:
 - human-rights-violations
 - judicial-integrity
 - executive-overreach
-- DHS
+- dhs
 - trump-administration
 capture_type: judicial_capture
 sources:

@@ -17,19 +17,19 @@ actors:
 sources:
 - title: Oracle's Larry Ellison gears up to spend millions to back Tim Scott's 2024 run
   url: https://www.cnbc.com/2023/05/22/larry-ellison-tim-scott-presidential-campaign.html
-  publisher: CNBC
   date: '2023-05-22'
   tier: 2
+  outlet: CNBC
 - title: Tim Scott's biggest financial backer is Larry Ellison
   url: https://www.yahoo.com/news/amphtml/tim-scotts-biggest-financial-backer-171935563.html
-  publisher: Yahoo News
   date: '2023-08-11'
   tier: 2
+  outlet: Yahoo News
 - title: Oracle's Larry Ellison Gears Up to Spend Millions to Back Tim Scott's 2024 Run
   url: https://www.nbcdfw.com/news/business/money-report/oracles-larry-ellison-gears-up-to-spend-millions-to-back-tim-scotts-2024-run/3262773/
-  publisher: NBC DFW
   date: '2023-05-22'
   tier: 2
+  outlet: NBC DFW
 ---
 
 Oracle Chairman Larry Ellison donated $30 million to Opportunity Matters Fund, a super PAC supporting Senator Tim Scott (R-SC), over the course of 2021 and 2022. This massive contribution followed an initial $5 million donation in October 2020, bringing Ellison's total support for Scott to $35 million by 2022, making him by far the single largest donor to Scott's political operation.

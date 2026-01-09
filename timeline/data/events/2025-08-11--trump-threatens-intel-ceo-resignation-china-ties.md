@@ -14,19 +14,19 @@ tags:
 sources:
 - url: https://www.nbcnews.com/business/business-news/trump-demands-intel-ceo-resign-rcna223594
   title: Trump demands resignation of Intel CEO over China ties
-  publisher: NBC News
   date: '2025-08-07'
   tier: 1
+  outlet: NBC News
 - url: https://www.cnbc.com/2025/08/11/intel-ceo-trump-lip-bu-tan.html
   title: Trump flip-flops on Intel CEO, calls him 'success' days after demanding resignation
-  publisher: CNBC
   date: '2025-08-11'
   tier: 2
+  outlet: CNBC
 - url: https://trumptyrannytracker.substack.com/p/trump-tyranny-tracker-day-204
   title: 'Trump Tyranny Tracker: Day 204'
-  publisher: Trump Tyranny Tracker
   date: '2025-08-17'
   tier: 2
+  outlet: Trump Tyranny Tracker
 ---
 
 Trump demanded Intel CEO Lip-Bu Tan resign immediately over alleged China ties, claiming he is 'highly conflicted' due to $200 million in investments in Chinese semiconductor firms. Days later, Trump reversed course after meeting Tan, calling his 'success and rise an amazing story.'

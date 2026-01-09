@@ -9,29 +9,29 @@ actors:
 - Senate Armed Services Committee
 - House Armed Services Committee
 tags:
-- Lobbying
-- Revolving Door
-- Military-Industrial Complex
-- Defense Contractors
-- Corruption
-- Campaign Finance
-- Congressional Capture
+- lobbying
+- revolving door
+- military-industrial complex
+- defense contractors
+- corruption
+- campaign finance
+- congressional capture
 sources:
 - url: https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2023&id=D000000170
   title: Northrop Grumman Lobbying Profile 2023
-  publisher: OpenSecrets
   date: '2023-12-31'
   tier: 1
+  outlet: OpenSecrets
 - url: https://www.taxpayer.net/wp-content/uploads/2024/10/Oct-2024-Political-Footprint-of-the-Military-Industry.pdf
   title: Political Footprint of the Military Industry
-  publisher: National Taxpayers Union Foundation
   date: '2024-10-01'
   tier: 1
+  outlet: National Taxpayers Union Foundation
 - url: https://www.opensecrets.org/orgs/northrop-grumman/summary?id=D000000170
   title: Northrop Grumman Profile Summary
-  publisher: OpenSecrets
   date: '2023-12-31'
   tier: 1
+  outlet: OpenSecrets
 ---
 
 Northrop Grumman spent $10.86 million on federal lobbying in 2023, employing 36 lobbyists of whom 29—a staggering 80.6 percent—had previously worked in government positions, exemplifying the revolving door between the Pentagon, Congress, and defense contractors that enables systematic corruption of military procurement and defense policy. The company's lobbying efforts focused on the annual defense spending bill, export control reform, foreign military sales, and defense trade policy, allowing former government officials to leverage their insider knowledge, relationships, and access to shape billions in taxpayer-funded contracts and regulatory policies in Northrop Grumman's favor.

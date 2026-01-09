@@ -22,7 +22,7 @@ tags:
 - pardons
 - clemency
 - rule-of-law-erosion
-- DOJ
+- doj
 - criminal-justice
 - institutional-capture
 - accountability-evasion
@@ -60,7 +60,7 @@ sources:
   outlet: The Hill
   date: '2025-09-26'
   tier: 2
-- title: "'No MAGA left behind': Trump's pardons get even more political"
+- title: '''No MAGA left behind'': Trump''s pardons get even more political'
   url: https://www.cnn.com/2025/05/28/politics/analysis-trump-pardons-politics
   outlet: CNN
   date: '2025-05-28'

@@ -4,24 +4,24 @@ date: 2012-01-15
 title: PredPol Predictive Policing Company Founded
 importance: 7
 tags:
-  - surveillance
-  - technology
-  - ai
-  - police
+- surveillance
+- technology
+- ai
+- police
 actors:
-  - George Mohler
-  - Jeff Brantingham
+- George Mohler
+- Jeff Brantingham
 sources:
-  - url: https://newsroom.ucla.edu/releases/predictive-policing-substantially-reduces-crime-in-los-angeles-during-months-long-test
-    title: Predictive policing substantially reduces crime in Los Angeles during months-long test
-    publisher: UCLA Newsroom
-    date: 2012-01-15
-    tier: 1
-  - url: https://en.wikipedia.org/wiki/PredPol
-    title: PredPol
-    publisher: Wikipedia
-    date: 2024-01-01
-    tier: 2
+- url: https://newsroom.ucla.edu/releases/predictive-policing-substantially-reduces-crime-in-los-angeles-during-months-long-test
+  title: Predictive policing substantially reduces crime in Los Angeles during months-long test
+  date: 2012-01-15
+  tier: 1
+  outlet: UCLA Newsroom
+- url: https://en.wikipedia.org/wiki/PredPol
+  title: PredPol
+  date: 2024-01-01
+  tier: 2
+  outlet: Wikipedia
 ---
 
 PredPol, a predictive policing software company, is founded in Santa Cruz, California by UCLA Professor of Anthropology Jeff Brantingham and mathematician George Mohler. The company emerges from research begun in 2010 when Brantingham recruited UCLA mathematicians to develop algorithms for predicting crime patterns.

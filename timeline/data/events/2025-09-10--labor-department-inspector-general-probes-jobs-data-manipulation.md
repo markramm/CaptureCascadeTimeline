@@ -11,9 +11,9 @@ tags:
 sources:
 - url: https://www.cbsnews.com/news/labor-department-inspector-general-bls-investigation-jobs-data/
   title: Labor Department Watchdog Probes Jobs Data Manipulation
-  publisher: CBS News
   date: '2025-09-10'
   tier: 1
+  outlet: CBS News
 actors:
 - Labor Department Inspector General
 - Erika McEntarfer

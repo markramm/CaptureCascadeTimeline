@@ -4,30 +4,30 @@ date: 2017-03-31
 title: Judge Curiel Approves $25 Million Trump University Settlement, Victims to Receive 90% Refunds
 importance: 8
 tags:
-  - Trump University
-  - Fraud
-  - Settlement
-  - Consumer Protection
-  - Accountability
+- trump university
+- fraud
+- settlement
+- consumer protection
+- accountability
 actors:
-  - Gonzalo Curiel
-  - Donald Trump
+- Gonzalo Curiel
+- Donald Trump
 sources:
-  - url: https://www.npr.org/sections/thetwo-way/2017/03/31/522199535/judge-approves-25-million-settlement-of-trump-university-lawsuit
-    title: Judge Approves $25 Million Settlement Of Trump University Lawsuit
-    publisher: NPR
-    date: 2017-03-31
-    tier: 1
-  - url: https://www.rgrdlaw.com/news-item-Approval-of-25-million-Settlement-in-Trump-University-Case-033117.html
-    title: Court Approval of $25 million Settlement in Trump University Case
-    publisher: Robbins Geller Rudman & Dowd LLP
-    date: 2017-03-31
-    tier: 2
-  - url: https://en.wikipedia.org/wiki/Trump_University
-    title: Trump University
-    publisher: Wikipedia
-    date: 2017-03-31
-    tier: 2
+- url: https://www.npr.org/sections/thetwo-way/2017/03/31/522199535/judge-approves-25-million-settlement-of-trump-university-lawsuit
+  title: Judge Approves $25 Million Settlement Of Trump University Lawsuit
+  date: 2017-03-31
+  tier: 1
+  outlet: NPR
+- url: https://www.rgrdlaw.com/news-item-Approval-of-25-million-Settlement-in-Trump-University-Case-033117.html
+  title: Court Approval of $25 million Settlement in Trump University Case
+  date: 2017-03-31
+  tier: 2
+  outlet: Robbins Geller Rudman & Dowd LLP
+- url: https://en.wikipedia.org/wiki/Trump_University
+  title: Trump University
+  date: 2017-03-31
+  tier: 2
+  outlet: Wikipedia
 ---
 
 U.S. District Judge Gonzalo Curiel approved the $25 million Trump University settlement on March 31, 2017, clearing the way for approximately 3,730 victims to receive refunds of at least 90 percent of the money they spent on Trump University courses. The approval came four months after Trump agreed to settle the cases just 10 days after winning the presidency. Trump had paid the $25 million in January 2017 and the funds were held in escrow pending final approval. Under the settlement terms, more than 6,000 Trump University students across two class actions would receive restitution, with the largest recovery going to those who paid for the most expensive programs. Judge Curiel—the same judge Trump had attacked as biased due to his "Mexican" heritage during the 2016 campaign—oversaw the settlement approval, demonstrating judicial impartiality despite Trump's racist attacks.

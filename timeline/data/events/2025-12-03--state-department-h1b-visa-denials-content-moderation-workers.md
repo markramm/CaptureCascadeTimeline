@@ -15,12 +15,12 @@ actors:
 - Evelyn Douek
 tags:
 - immigration-enforcement
-- H1-B-visas
+- h1-b-visas
 - content-moderation
 - fact-checking
 - political-retaliation
-- State-Department
-- First-Amendment
+- state-department
+- first-amendment
 - press-freedom
 - visa-weaponization
 - speech-suppression
@@ -29,24 +29,24 @@ tags:
 sources:
 - url: https://www.npr.org/2025/12/04/nx-s1-5633444/trump-content-moderation-visas-censorship
   title: State Department to deny visas to fact checkers and others, citing 'censorship'
-  publisher: NPR
   date: '2025-12-04'
   tier: 1
+  outlet: NPR
 - url: https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-expanded-screening-and-vetting-for-h-1b-and-dependent-h-4-visa-applicants.html
   title: Announcement of Expanded Screening and Vetting for H-1B and Dependent H-4 Visa Applicants
-  publisher: U.S. Department of State
   date: '2025-12-04'
   tier: 1
+  outlet: U.S. Department of State
 - url: https://knightcolumbia.org/content/new-trump-administration-visa-vetting-policy-targeting-online-trust-and-safety-workers-is-unconstitutional-knight-institute-says
   title: New Trump Administration Visa Vetting Policy Targeting Online Trust and Safety Workers is Unconstitutional, Knight Institute Says
-  publisher: Knight First Amendment Institute at Columbia University
   date: '2025-12-04'
   tier: 1
+  outlet: Knight First Amendment Institute at Columbia University
 - url: https://www.aljazeera.com/news/2025/12/4/us-will-expand-social-media-work-history-vetting-for-h-1b-visas
   title: US will expand social media, work history vetting for H-1B visas
-  publisher: Al Jazeera
   date: '2025-12-04'
   tier: 2
+  outlet: Al Jazeera
 ---
 
 The State Department issued an internal directive on December 2, 2025, instructing consular officers worldwide to deny H-1B visas to applicants who have worked in content moderation, fact-checking, trust and safety, or combating misinformation and disinformation—labeling such work as "censorship" of protected American speech. The policy weaponizes immigration law to punish tech workers for their professional roles in platform safety and information integrity, representing an unprecedented fusion of immigration enforcement with political retaliation against speech regulation activities.

@@ -9,21 +9,20 @@ actors:
 - Department of Homeland Security
 - Palmer Luckey
 tags:
-- Border Militarization
-- Surveillance
-- Autonomous Weapons
-- Immigration Enforcement
-- AI Surveillance
+- border militarization
+- surveillance
+- autonomous weapons
+- immigration enforcement
+- ai surveillance
 sources:
-- url: https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014
-  title: Contract to Anduril Industries, Inc.
-  publisher: USASpending.gov
+- title: Contract to Anduril Industries, Inc.
+  url: https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014
+  outlet: USASpending.gov
   date: '2020-07-01'
   tier: 1
-- url: https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border
-  title: Anduril raises $200m, wins contract for autonomous surveillance towers along
-    US-Mexico border
-  publisher: AI Business
+- title: Anduril raises $200m, wins contract for autonomous surveillance towers along US-Mexico border
+  url: https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border
+  outlet: AI Business
   date: '2020-07-15'
   tier: 3
 ---

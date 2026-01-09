@@ -12,14 +12,14 @@ tags:
 sources:
 - url: https://www.justice.gov/archive/usao/nye/pr/2008/2008aug18.html
   title: The United States and General Dynamics Settle Civil Fraud Lawsuit
-  publisher: U.S. Department of Justice
   date: '2008-08-18'
   tier: 1
+  outlet: U.S. Department of Justice
 - url: https://www.corp-research.org/general-dynamics
   title: 'General Dynamics: Corporate Rap Sheet'
-  publisher: Corporate Research Project
   date: '2024-01-01'
   tier: 2
+  outlet: Corporate Research Project
 actors:
 - General Dynamics
 - Benton J. Campbell

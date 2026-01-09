@@ -4,34 +4,34 @@ date: 2019-09-06
 title: Commerce Secretary Ross Threatens to Fire NOAA Scientists Who Contradicted Trump's False Hurricane Claim
 importance: 8
 tags:
-  - Cabinet Corruption
-  - Ethics Violations
-  - Wilbur Ross
-  - Sharpiegate
-  - Scientific Integrity
-  - Political Interference
-  - Hurricane Dorian
+- cabinet corruption
+- ethics violations
+- wilbur ross
+- sharpiegate
+- scientific integrity
+- political interference
+- hurricane dorian
 actors:
-  - Wilbur Ross
-  - Donald Trump
-  - Neil Jacobs
-  - Craig McLean
+- Wilbur Ross
+- Donald Trump
+- Neil Jacobs
+- Craig McLean
 sources:
-  - url: https://www.cnn.com/2019/09/09/politics/wilbur-ross-noaa-employees/index.html
-    title: "NYT: Ross threatened to fire top NOAA employees if they didn't disavow Alabama tweet"
-    publisher: CNN
-    date: 2019-09-09
-    tier: 1
-  - url: https://www.npr.org/2019/09/10/759550641/commerce-secretary-wilbur-ross-weathers-new-scrutiny
-    title: "Wilbur Ross At The Center Of Another Political Storm, This Time About The Weather"
-    publisher: NPR
-    date: 2019-09-10
-    tier: 1
-  - url: https://www.science.org/content/article/noaa-watchdog-chides-agency-how-it-handled-hurricane-dorian-s-sharpiegate
-    title: "NOAA watchdog chides agency for how it handled Hurricane Dorian's 'Sharpiegate'"
-    publisher: Science
-    date: 2020-07-15
-    tier: 1
+- url: https://www.cnn.com/2019/09/09/politics/wilbur-ross-noaa-employees/index.html
+  title: 'NYT: Ross threatened to fire top NOAA employees if they didn''t disavow Alabama tweet'
+  date: 2019-09-09
+  tier: 1
+  outlet: CNN
+- url: https://www.npr.org/2019/09/10/759550641/commerce-secretary-wilbur-ross-weathers-new-scrutiny
+  title: Wilbur Ross At The Center Of Another Political Storm, This Time About The Weather
+  date: 2019-09-10
+  tier: 1
+  outlet: NPR
+- url: https://www.science.org/content/article/noaa-watchdog-chides-agency-how-it-handled-hurricane-dorian-s-sharpiegate
+  title: NOAA watchdog chides agency for how it handled Hurricane Dorian's 'Sharpiegate'
+  date: 2020-07-15
+  tier: 1
+  outlet: Science
 ---
 
 Commerce Secretary Wilbur Ross threatened to fire top officials at the National Oceanic and Atmospheric Administration (NOAA) unless they backed President Donald Trump's false claim that Hurricane Dorian threatened Alabama. Ross called acting NOAA Administrator Neil Jacobs on September 6, 2019, and told him to "fix" the National Weather Service's contradiction of Trump's claim. When Jacobs opposed the demand, Ross told him NOAA's political staff would be fired. This political interference came after Trump showed reporters a weather map on September 4 that had been altered with a black Sharpie marker to falsely show the hurricane on track to hit Alabama.

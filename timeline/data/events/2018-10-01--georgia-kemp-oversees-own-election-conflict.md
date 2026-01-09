@@ -4,36 +4,36 @@ date: 2018-10-01
 title: Georgia Secretary of State Brian Kemp Refuses to Recuse From Overseeing His Own Governor Election
 importance: 8
 tags:
-  - conflict-of-interest
-  - georgia
-  - brian-kemp
-  - electoral-manipulation
-  - voter-suppression
+- conflict-of-interest
+- georgia
+- brian-kemp
+- electoral-manipulation
+- voter-suppression
 actors:
-  - Brian Kemp
-  - Stacey Abrams
-  - Georgia Secretary of State
+- Brian Kemp
+- Stacey Abrams
+- Georgia Secretary of State
 sources:
-  - url: https://www.nbcnews.com/politics/elections/suppression-critics-charge-georgia-gop-gov-candidate-purging-voters-election-n918761
-    title: Critics charge Georgia GOP gov candidate purging voters before election
-    publisher: NBC News
-    date: 2018-10-11
-    tier: 1
-  - url: https://www.governing.com/archive/gov-secretary-state-brian-kemp-georgia-candidate-conflict.html
-    title: Other Secretaries of State Accused of Abusing Elections Power
-    publisher: Governing
-    date: 2018-10-18
-    tier: 2
-  - url: https://georgiademocrat.org/icymi-kemp-took-steps-to-dramatically-lower-voter-turnout-as-secretary-of-state/
-    title: Kemp Took Steps to Dramatically Lower Voter Turnout as Secretary of State
-    publisher: Democratic Party of Georgia
-    date: 2018-10-30
-    tier: 2
-  - url: https://www.snopes.com/fact-check/georgia-black-voter-registration/
-    title: Did Georgia's Secretary of State 'Block' the Registrations of 53,000 Voters?
-    publisher: Snopes
-    date: 2018-10-11
-    tier: 2
+- url: https://www.nbcnews.com/politics/elections/suppression-critics-charge-georgia-gop-gov-candidate-purging-voters-election-n918761
+  title: Critics charge Georgia GOP gov candidate purging voters before election
+  date: 2018-10-11
+  tier: 1
+  outlet: NBC News
+- url: https://www.governing.com/archive/gov-secretary-state-brian-kemp-georgia-candidate-conflict.html
+  title: Other Secretaries of State Accused of Abusing Elections Power
+  date: 2018-10-18
+  tier: 2
+  outlet: Governing
+- url: https://georgiademocrat.org/icymi-kemp-took-steps-to-dramatically-lower-voter-turnout-as-secretary-of-state/
+  title: Kemp Took Steps to Dramatically Lower Voter Turnout as Secretary of State
+  date: 2018-10-30
+  tier: 2
+  outlet: Democratic Party of Georgia
+- url: https://www.snopes.com/fact-check/georgia-black-voter-registration/
+  title: Did Georgia's Secretary of State 'Block' the Registrations of 53,000 Voters?
+  date: 2018-10-11
+  tier: 2
+  outlet: Snopes
 ---
 
 Georgia Secretary of State Brian Kemp refuses to recuse himself from overseeing the 2018 gubernatorial election despite being the Republican candidate, creating an extraordinary conflict of interest. While running against Democrat Stacey Abrams, Kemp maintains control over voter registration, ballot counting, voting machine allocation, and election certification—using his position to implement policies that suppress likely Democratic voters in his own race.
