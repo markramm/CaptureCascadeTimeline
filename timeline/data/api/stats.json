@@ -1,15 +1,15 @@
 {
-  "total_events": 3258,
-  "total_tags": 5460,
-  "total_actors": 5634,
-  "total_sources": 10883,
+  "total_events": 3265,
+  "total_tags": 5473,
+  "total_actors": 5635,
+  "total_sources": 10897,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-01-08"
   },
   "status_counts": {
     "unknown": 954,
-    "confirmed": 2254,
+    "confirmed": 2261,
     "validated": 31,
     "disputed": 2,
     "verified": 1,
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1035
+      "count": 1037
     },
     {
       "name": "Trump Administration",
@@ -98,13 +98,13 @@
       "count": 64
     },
     {
-      "name": "Supreme Court",
-      "count": 61
+      "name": "ICE",
+      "count": 62
     },
     {
-      "name": "ICE",
+      "name": "Supreme Court",
       "count": 61
     }
   ],
-  "generated": "2026-01-09T21:17:37.710476"
+  "generated": "2026-01-09T21:25:17.988751"
 }

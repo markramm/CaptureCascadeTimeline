@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-09 21:17:37
+Generated: 2026-01-09 21:25:18
 
 ## Overview
-- **Total Events**: 3258
+- **Total Events**: 3265
 - **Date Range**: 1142-01-01 to 2026-01-08
-- **Total Sources**: 10883
-- **Unique Tags**: 5460
-- **Unique Actors**: 5634
+- **Total Sources**: 10897
+- **Unique Tags**: 5473
+- **Unique Actors**: 5635
 
 ## Event Status
 - **Unknown**: 954
-- **Confirmed**: 2254
+- **Confirmed**: 2261
 - **Validated**: 31
 - **Disputed**: 2
 - **Verified**: 1
@@ -37,7 +37,7 @@ Generated: 2026-01-09 21:17:37
 - constitutional-crisis: 89 events
 
 ## Top Actors
-- Donald Trump: 1035 events
+- Donald Trump: 1037 events
 - Trump Administration: 328 events
 - Department of Justice: 243 events
 - Elon Musk: 160 events
@@ -45,8 +45,8 @@ Generated: 2026-01-09 21:17:37
 - FBI: 74 events
 - Heritage Foundation: 68 events
 - Jeffrey Epstein: 64 events
+- ICE: 62 events
 - Supreme Court: 61 events
-- ICE: 61 events
 
 ## Events by Year
 - 1142: 1 events
@@ -121,5 +121,5 @@ Generated: 2026-01-09 21:17:37
 - 2022: 86 events
 - 2023: 97 events
 - 2024: 160 events
-- 2025: 1179 events
-- 2026: 22 events
+- 2025: 1185 events
+- 2026: 23 events

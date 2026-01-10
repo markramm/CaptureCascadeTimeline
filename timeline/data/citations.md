@@ -23563,6 +23563,12 @@
 2. [Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say](https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415)
 3. [Trump admin views Netflix and Warner Bros. deal with 'heavy skepticism': Senior official](https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html)
 
+## Stephen Miller Attacks 1965 Civil Rights Immigration Law, Suggests America Better Off with 1920s Racial Quotas
+*Date: 2025-12-11*
+
+1. [The Civil Rights law that Stephen Miller says ruined America](https://www.cnn.com/2025/12/11/politics/stephen-miller-trump-immigration-law-somalia)
+2. [Miller denounces Hart-Celler Act as policy disaster](https://www.washingtonpost.com/immigration/2025/12/11/stephen-miller-1965-immigration-act/)
+
 ## DHS Secretary Noem Confronted Over Veteran Deportations in Contentious Congressional Hearing
 *Date: 2025-12-11*
 
@@ -23584,6 +23590,12 @@
 
 1. [Timeline of US strikes on boats that have killed 115](https://www.cnn.com/2025/11/02/politics/timeline-us-strikes-caribbean-pacific-vis)
 2. [US, Other Countries Should Push Back on Lawless Executions at Sea](https://www.hrw.org/news/2025/12/09/us-other-countries-should-push-back-on-lawless-executions-at-sea)
+
+## Border Patrol Chief Bovino Returns to Chicago, Promises Federal Agents 'For Years'
+*Date: 2025-12-16*
+
+1. [Border Chief: We're Gonna Be In Chicago For Years](https://www.joemygod.com/2025/12/border-chief-well-gonna-be-in-chicago-for-years/)
+2. [Bovino returns to lead Chicago immigration operations](https://www.chicagotribune.com/2025/12/16/bovino-returns-chicago-operations/)
 
 ## House Judiciary Subcommittee Hearing Exposes How Trump Administration Corrupted DOJ Antitrust Enforcement Through Pay-to-Play Schemes and Political Interference
 *Date: 2025-12-16*
@@ -23683,6 +23695,12 @@
 2. [Under President Trump and Secretary Noem, the Department of Homeland Security Has Historic Year](https://www.dhs.gov/news/2025/12/19/under-president-trump-and-secretary-noem-department-homeland-security-has-historic)
 3. [Senate passes defense authorization bill, pushes Hegseth for boat strike video](https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authorization-act-hegseth-boat-strike-video)
 
+## Noem Increases Self-Deportation Incentive to $3,000, Promotes 'Home for the Holidays'
+*Date: 2025-12-19*
+
+1. [Kristi Noem announces $3,000 stipend for self-deportation](https://www.washingtonexaminer.com/policy/immigration/4355557/kristi-noem-3000-stipend-illegal-immigrants-self-deportation/)
+2. [DHS triples self-deportation incentive for holidays](https://www.foxnews.com/politics/noem-self-deportation-stipend-3000-holidays)
+
 ## Supreme Court Rejects Trump Administration Emergency Request to Silence Immigration Judges, First Major Loss on Shadow Docket
 *Date: 2025-12-19*
 
@@ -23721,6 +23739,12 @@
 5. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
 6. [House quickly kills Marjorie Taylor Greene's effort to oust Speaker Johnson](https://abcnews.go.com/Politics/marjorie-taylor-greene-triggers-vote-motion-oust-speaker/story?id=110043228)
 
+## Bannon Declares Conservative Movement Civil War at AmericaFest, Attacks Ben Shapiro as 'Cancer'
+*Date: 2025-12-21*
+
+1. [Steve Bannon Weighs In On Conservative Movement's Future At AmericaFest Amid Ideological Rift](https://dailycaller.com/2025/12/21/steve-bannon-conservative-americafest-tpusa-maga-shapiro-tucker/)
+2. [Bannon attacks Shapiro at Turning Point conference](https://www.mediaite.com/politics/bannon-shapiro-americafest-maga-civil-war/)
+
 ## DOJ Exposes Epstein Victims' Names While Over-Redacting Perpetrator Information
 *Date: 2025-12-21*
 
@@ -23741,6 +23765,18 @@
 *Date: 2025-12-24*
 
 1. [DOJ says it has found over a million additional documents potentially related to Epstein](https://www.cnn.com/2025/12/24/politics/epstein-documents-doj-million)
+
+## Bannon Turns Against Vice President JD Vance Amid Escalating MAGA Civil War
+*Date: 2025-12-29*
+
+1. [Bannon blasts VP Vance amid MAGA civil war](https://politicalwire.com/2025/12/29/bannon-vance-maga-fireworks/)
+2. [Fresh MAGA fireworks as Bannon attacks Vance](https://www.axios.com/2025/12/29/bannon-vance-maga-civil-war)
+
+## Bannon Reveals He Is Organizing 'Irish National Party,' Promises 'Irish Trump'
+*Date: 2025-12-30*
+
+1. [Steve Bannon promises 'Irish Trump' and says he is working to form 'national party' in Ireland](https://www.irishtimes.com/politics/2025/12/30/steve-bannon-promises-irish-trump-and-says-he-is-working-to-form-national-party-in-ireland/)
+2. [Bannon reveals Irish far-right organizing efforts](https://www.theguardian.com/world/2025/dec/30/steve-bannon-irish-national-party)
 
 ## US Military Strikes Three-Vessel Convoy in Pacific, 11 Killed as Survivors Left in Deadly Seas
 *Date: 2025-12-30*
@@ -23856,6 +23892,12 @@
 
 1. [Noem announces 500 miles of border buoys during Rio Grande Valley visit](https://www.texastribune.org/2026/01/07/noem-border-immigration-floating-buoys/)
 2. [DHS Secretary Noem tours southern border, announces buoy expansion](https://www.newsnationnow.com/us-news/immigration/border-coverage/kristi-noem-tour-southern-border/)
+
+## GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired
+*Date: 2026-01-07*
+
+1. [GOP senator's scathing message to Stephen Miller over Greenland](https://www.cnn.com/2026/01/07/politics/greenland-thom-tillis-stephen-miller)
+2. [Tillis calls Miller's Greenland rhetoric 'amateur hour'](https://thehill.com/homenews/senate/5111985-tillis-miller-greenland-fire/)
 
 ## US Navy Seizes Two Venezuelan Oil Tankers Including Russian-Flagged Vessel Near Iceland
 *Date: 2026-01-07*

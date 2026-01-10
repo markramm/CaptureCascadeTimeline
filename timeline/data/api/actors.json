@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1035
+    "count": 1037
   },
   {
     "name": "Trump Administration",
@@ -32,11 +32,11 @@
     "count": 64
   },
   {
-    "name": "Supreme Court",
-    "count": 61
+    "name": "ICE",
+    "count": 62
   },
   {
-    "name": "ICE",
+    "name": "Supreme Court",
     "count": 61
   },
   {
@@ -72,11 +72,11 @@
     "count": 48
   },
   {
-    "name": "Barack Obama",
-    "count": 46
+    "name": "Kristi Noem",
+    "count": 47
   },
   {
-    "name": "Kristi Noem",
+    "name": "Barack Obama",
     "count": 46
   },
   {
@@ -132,6 +132,10 @@
     "count": 37
   },
   {
+    "name": "DHS",
+    "count": 37
+  },
+  {
     "name": "Peter Thiel",
     "count": 36
   },
@@ -140,12 +144,12 @@
     "count": 35
   },
   {
-    "name": "DHS",
-    "count": 35
-  },
-  {
     "name": "Elizabeth Warren",
     "count": 34
+  },
+  {
+    "name": "Stephen Miller",
+    "count": 33
   },
   {
     "name": "Mark Zuckerberg",
@@ -162,10 +166,6 @@
   {
     "name": "Eric Trump",
     "count": 32
-  },
-  {
-    "name": "Stephen Miller",
-    "count": 31
   },
   {
     "name": "Joe Biden",
@@ -264,11 +264,11 @@
     "count": 24
   },
   {
-    "name": "ACLU",
-    "count": 23
+    "name": "JD Vance",
+    "count": 24
   },
   {
-    "name": "JD Vance",
+    "name": "ACLU",
     "count": 23
   },
   {
@@ -341,6 +341,10 @@
   },
   {
     "name": "Roger Stone",
+    "count": 19
+  },
+  {
+    "name": "Steve Bannon",
     "count": 19
   },
   {
@@ -441,10 +445,6 @@
   },
   {
     "name": "Palantir Technologies",
-    "count": 16
-  },
-  {
-    "name": "Steve Bannon",
     "count": 16
   },
   {
@@ -1048,6 +1048,10 @@
     "count": 8
   },
   {
+    "name": "CBP",
+    "count": 8
+  },
+  {
     "name": "Senate Judiciary Committee",
     "count": 8
   },
@@ -1268,10 +1272,6 @@
     "count": 7
   },
   {
-    "name": "CBP",
-    "count": 7
-  },
-  {
     "name": "FTC",
     "count": 7
   },
@@ -1329,6 +1329,10 @@
   },
   {
     "name": "Paramount Global",
+    "count": 7
+  },
+  {
+    "name": "Gregory Bovino",
     "count": 7
   },
   {
@@ -1668,10 +1672,6 @@
     "count": 6
   },
   {
-    "name": "Gregory Bovino",
-    "count": 6
-  },
-  {
     "name": "NPR",
     "count": 6
   },
@@ -1973,6 +1973,10 @@
   },
   {
     "name": "Wilbur Ross",
+    "count": 5
+  },
+  {
+    "name": "Border Patrol",
     "count": 5
   },
   {
@@ -2504,10 +2508,6 @@
     "count": 4
   },
   {
-    "name": "Border Patrol",
-    "count": 4
-  },
-  {
     "name": "Barbara Underwood",
     "count": 4
   },
@@ -2568,6 +2568,10 @@
     "count": 4
   },
   {
+    "name": "Thom Tillis",
+    "count": 4
+  },
+  {
     "name": "American Federation of Government Employees",
     "count": 4
   },
@@ -2581,6 +2585,10 @@
   },
   {
     "name": "Brad Raffensperger",
+    "count": 4
+  },
+  {
+    "name": "Turning Point USA",
     "count": 4
   },
   {
@@ -3680,19 +3688,11 @@
     "count": 3
   },
   {
-    "name": "Thom Tillis",
-    "count": 3
-  },
-  {
     "name": "Project 2025",
     "count": 3
   },
   {
     "name": "Heritage Action",
-    "count": 3
-  },
-  {
-    "name": "Turning Point USA",
     "count": 3
   },
   {
@@ -5553,6 +5553,10 @@
   },
   {
     "name": "Environmental Protection Agency (EPA)",
+    "count": 2
+  },
+  {
+    "name": "Ben Shapiro",
     "count": 2
   },
   {
@@ -12265,10 +12269,6 @@
   },
   {
     "name": "Martin Winterkorn",
-    "count": 1
-  },
-  {
-    "name": "Ben Shapiro",
     "count": 1
   },
   {
@@ -22445,6 +22445,10 @@
   },
   {
     "name": "House Freedom Caucus",
+    "count": 1
+  },
+  {
+    "name": "Mark Levin",
     "count": 1
   },
   {

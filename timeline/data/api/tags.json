@@ -101,7 +101,7 @@
   },
   {
     "name": "conservative-movement",
-    "count": 54
+    "count": 55
   },
   {
     "name": "judicial-capture",
@@ -153,6 +153,10 @@
   },
   {
     "name": "immigration-enforcement",
+    "count": 43
+  },
+  {
+    "name": "immigration",
     "count": 42
   },
   {
@@ -173,10 +177,6 @@
   },
   {
     "name": "russia",
-    "count": 40
-  },
-  {
-    "name": "immigration",
     "count": 40
   },
   {
@@ -316,12 +316,12 @@
     "count": 30
   },
   {
-    "name": "transparency",
+    "name": "foreign-policy",
     "count": 29
   },
   {
-    "name": "foreign-policy",
-    "count": 28
+    "name": "transparency",
+    "count": 29
   },
   {
     "name": "media-consolidation",
@@ -608,6 +608,10 @@
     "count": 19
   },
   {
+    "name": "racism",
+    "count": 18
+  },
+  {
     "name": "investigation",
     "count": 18
   },
@@ -642,10 +646,6 @@
   {
     "name": "workforce-reduction",
     "count": 18
-  },
-  {
-    "name": "racism",
-    "count": 17
   },
   {
     "name": "tax-avoidance",
@@ -776,6 +776,10 @@
     "count": 15
   },
   {
+    "name": "dhs",
+    "count": 15
+  },
+  {
     "name": "financial-crimes",
     "count": 15
   },
@@ -853,10 +857,6 @@
   },
   {
     "name": "surveillance-technology",
-    "count": 14
-  },
-  {
-    "name": "dhs",
     "count": 14
   },
   {
@@ -964,6 +964,10 @@
     "count": 13
   },
   {
+    "name": "jd-vance",
+    "count": 13
+  },
+  {
     "name": "human-rights-violations",
     "count": 13
   },
@@ -1065,10 +1069,6 @@
   },
   {
     "name": "obstruction",
-    "count": 12
-  },
-  {
-    "name": "jd-vance",
     "count": 12
   },
   {
@@ -1217,6 +1217,10 @@
   },
   {
     "name": "judicial-review",
+    "count": 11
+  },
+  {
+    "name": "chicago",
     "count": 11
   },
   {
@@ -1369,10 +1373,6 @@
   },
   {
     "name": "ai-governance",
-    "count": 10
-  },
-  {
-    "name": "chicago",
     "count": 10
   },
   {
@@ -2080,6 +2080,10 @@
     "count": 7
   },
   {
+    "name": "stephen-miller",
+    "count": 7
+  },
+  {
     "name": "appeals-court",
     "count": 7
   },
@@ -2441,6 +2445,10 @@
   },
   {
     "name": "caribbean",
+    "count": 6
+  },
+  {
+    "name": "nato",
     "count": 6
   },
   {
@@ -2996,10 +3004,6 @@
     "count": 5
   },
   {
-    "name": "stephen-miller",
-    "count": 5
-  },
-  {
     "name": "gregory-bovino",
     "count": 5
   },
@@ -3013,6 +3017,10 @@
   },
   {
     "name": "civil-military",
+    "count": 5
+  },
+  {
+    "name": "intimidation",
     "count": 5
   },
   {
@@ -3040,6 +3048,10 @@
     "count": 5
   },
   {
+    "name": "operation-midway-blitz",
+    "count": 5
+  },
+  {
     "name": "crypto-corruption",
     "count": 5
   },
@@ -3052,7 +3064,7 @@
     "count": 5
   },
   {
-    "name": "nato",
+    "name": "greenland",
     "count": 5
   },
   {
@@ -3280,6 +3292,10 @@
     "count": 4
   },
   {
+    "name": "ireland",
+    "count": 4
+  },
+  {
     "name": "energy",
     "count": 4
   },
@@ -3313,6 +3329,10 @@
   },
   {
     "name": "voting-rights-act",
+    "count": 4
+  },
+  {
+    "name": "civil-rights-rollback",
     "count": 4
   },
   {
@@ -3796,10 +3816,6 @@
     "count": 4
   },
   {
-    "name": "intimidation",
-    "count": 4
-  },
-  {
     "name": "media-intimidation",
     "count": 4
   },
@@ -3824,10 +3840,6 @@
     "count": 4
   },
   {
-    "name": "operation-midway-blitz",
-    "count": 4
-  },
-  {
     "name": "institutional-weaponization",
     "count": 4
   },
@@ -3845,10 +3857,6 @@
   },
   {
     "name": "imperialism",
-    "count": 4
-  },
-  {
-    "name": "greenland",
     "count": 4
   },
   {
@@ -4076,6 +4084,10 @@
     "count": 3
   },
   {
+    "name": "foreign-interference",
+    "count": 3
+  },
+  {
     "name": "cost overruns",
     "count": 3
   },
@@ -4228,10 +4240,6 @@
     "count": 3
   },
   {
-    "name": "ireland",
-    "count": 3
-  },
-  {
     "name": "double-irish",
     "count": 3
   },
@@ -4269,10 +4277,6 @@
   },
   {
     "name": "education fraud",
-    "count": 3
-  },
-  {
-    "name": "civil-rights-rollback",
     "count": 3
   },
   {
@@ -4748,6 +4752,10 @@
     "count": 3
   },
   {
+    "name": "america-first",
+    "count": 3
+  },
+  {
     "name": "covid-misinformation",
     "count": 3
   },
@@ -5192,6 +5200,10 @@
     "count": 3
   },
   {
+    "name": "bannon",
+    "count": 3
+  },
+  {
     "name": "denmark",
     "count": 3
   },
@@ -5629,10 +5641,6 @@
   },
   {
     "name": "illegal-donations",
-    "count": 2
-  },
-  {
-    "name": "foreign-interference",
     "count": 2
   },
   {
@@ -7300,10 +7308,6 @@
     "count": 2
   },
   {
-    "name": "america-first",
-    "count": 2
-  },
-  {
     "name": "amnesty-international",
     "count": 2
   },
@@ -7637,6 +7641,10 @@
   },
   {
     "name": "sec-lawsuit",
+    "count": 2
+  },
+  {
+    "name": "white-nationalism",
     "count": 2
   },
   {
@@ -8517,6 +8525,10 @@
   },
   {
     "name": "transparency-act",
+    "count": 2
+  },
+  {
+    "name": "maga-infighting",
     "count": 2
   },
   {
@@ -16972,10 +16984,6 @@
     "count": 1
   },
   {
-    "name": "white-nationalism",
-    "count": 1
-  },
-  {
     "name": "extremist-networks",
     "count": 1
   },
@@ -21560,6 +21568,10 @@
     "count": 1
   },
   {
+    "name": "somali-targeting",
+    "count": 1
+  },
+  {
     "name": "veterans affairs",
     "count": 1
   },
@@ -21577,6 +21589,10 @@
   },
   {
     "name": "death-toll",
+    "count": 1
+  },
+  {
+    "name": "bovino",
     "count": 1
   },
   {
@@ -21704,6 +21720,14 @@
     "count": 1
   },
   {
+    "name": "self-deportation",
+    "count": 1
+  },
+  {
+    "name": "cbp-home-app",
+    "count": 1
+  },
+  {
     "name": "immigration-judges",
     "count": 1
   },
@@ -21756,6 +21780,14 @@
     "count": 1
   },
   {
+    "name": "americafest",
+    "count": 1
+  },
+  {
+    "name": "israel-first",
+    "count": 1
+  },
+  {
     "name": "victim-privacy-violation",
     "count": 1
   },
@@ -21777,6 +21809,22 @@
   },
   {
     "name": "christmas-eve-news-dump",
+    "count": 1
+  },
+  {
+    "name": "2028-succession",
+    "count": 1
+  },
+  {
+    "name": "war-room",
+    "count": 1
+  },
+  {
+    "name": "international-far-right",
+    "count": 1
+  },
+  {
+    "name": "nationalist-movements",
     "count": 1
   },
   {
@@ -21821,6 +21869,10 @@
   },
   {
     "name": "rio grande",
+    "count": 1
+  },
+  {
+    "name": "republican-dissent",
     "count": 1
   },
   {

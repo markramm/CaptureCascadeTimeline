@@ -168333,6 +168333,47 @@
       "_id_hash": "724b766d48f7bff70f1233904e54e09f774d676b03e34c4392b7346a584cadab"
     },
     {
+      "id": "2025-12-11--miller-attacks-1965-immigration-act-somali-targeting",
+      "date": "2025-12-11",
+      "title": "Stephen Miller Attacks 1965 Civil Rights Immigration Law, Suggests America Better Off with 1920s Racial Quotas",
+      "importance": 9,
+      "actors": [
+        "Stephen Miller",
+        "Donald Trump",
+        "ICE"
+      ],
+      "tags": [
+        "immigration",
+        "white-nationalism",
+        "stephen-miller",
+        "somali-targeting",
+        "civil-rights-rollback",
+        "racism"
+      ],
+      "sources": [
+        {
+          "title": "The Civil Rights law that Stephen Miller says ruined America",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2025/12/11/politics/stephen-miller-trump-immigration-law-somalia",
+          "tier": 1
+        },
+        {
+          "title": "Miller denounces Hart-Celler Act as policy disaster",
+          "outlet": "Washington Post",
+          "url": "https://www.washingtonpost.com/immigration/2025/12/11/stephen-miller-1965-immigration-act/",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "White Nationalist Policy",
+        "Civil Rights Rollback"
+      ],
+      "summary": "White House Deputy Chief of Staff Stephen Miller publicly attacked the Hart-Celler Act of 1965, suggesting America was better off under the 1920s national origins quota system that favored Western and Northern European immigrants over those from \"third world countries.\" Miller's comments came as the administration exploited a pandemic relief fraud scandal in Minnesota to disparage the entire Somali immigrant community.\n\nThe Hart-Celler Act eliminated the explicitly racist national origins quota system that had restricted immigration from non-white countries since the 1920s. Miller characterized the civil rights era reform as a policy disaster, echoing white nationalist talking points about demographic change. His attack on the 1965 law represents one of the most explicit statements of the administration's white nationalist immigration philosophy.\n\nThe comments accompanied intensified ICE operations targeting Somali communities in Minneapolis, with agents staging arrests in Target parking lots and Miller and Trump using the fraud scandal to characterize an entire immigrant community as criminal. The targeting reflects the administration's pattern of exploiting individual incidents to justify collective punishment of ethnic communities.",
+      "_file": "2025-12-11--miller-attacks-1965-immigration-act-somali-targeting.md",
+      "_id_hash": "3e9da10995fc23726cc6d00213cf0f1e7b72767aeac7fa00272d19055c8b6fe0"
+    },
+    {
       "id": "2025-12-11--noem-confronted-veteran-deportations-congressional-hearing",
       "date": "2025-12-11",
       "title": "DHS Secretary Noem Confronted Over Veteran Deportations in Contentious Congressional Hearing",
@@ -168484,6 +168525,46 @@
       "summary": "A Pentagon report revealed that US military forces had conducted 21 kinetic strikes killing 82 people as part of Operation Southern Spear targeting suspected drug vessels in the Caribbean and Eastern Pacific. The strikes had expanded from the Caribbean to the Eastern Pacific by October 2025. Only four survivors had been taken into custody across all strikes—two from an October 16 strike were repatriated to Ecuador and Colombia, where both were released due to lack of evidence of criminal activity. The death toll would continue to climb, reaching 115 killed in 35 strikes by year's end. Human Rights Watch characterized the operations as 'lawless executions at sea' and called on other countries to push back.",
       "_file": "2025-12-15--operation-southern-spear-death-toll-82-killed.md",
       "_id_hash": "3c9b0b8a6ec4eb3c4f326077340e3d6f51ffa50316caf9469b2de4c960d67c23"
+    },
+    {
+      "id": "2025-12-16--bovino-returns-chicago-years-announcement",
+      "date": "2025-12-16",
+      "title": "Border Patrol Chief Bovino Returns to Chicago, Promises Federal Agents 'For Years'",
+      "importance": 8,
+      "actors": [
+        "Gregory Bovino",
+        "Border Patrol",
+        "DHS"
+      ],
+      "tags": [
+        "bovino",
+        "chicago",
+        "operation-midway-blitz",
+        "immigration-enforcement",
+        "intimidation"
+      ],
+      "sources": [
+        {
+          "title": "Border Chief: We're Gonna Be In Chicago For Years",
+          "outlet": "Joe.My.God.",
+          "url": "https://www.joemygod.com/2025/12/border-chief-well-gonna-be-in-chicago-for-years/",
+          "tier": 2
+        },
+        {
+          "title": "Bovino returns to lead Chicago immigration operations",
+          "outlet": "Chicago Tribune",
+          "url": "https://www.chicagotribune.com/2025/12/16/bovino-returns-chicago-operations/",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Immigration Enforcement",
+        "Federal Overreach"
+      ],
+      "summary": "After briefly leading immigration enforcement operations in Charlotte, North Carolina in November, Border Patrol Chief Gregory Bovino returned to Chicago in mid-December to resume federal immigration operations. On social media, Bovino declared: \"Don't call it a comeback; we're gonna be here for years.\"\n\nThe announcement made clear that federal immigration enforcement in Chicago would continue indefinitely, despite ongoing legal battles over Bovino's conduct. A federal judge had previously found Bovino \"repeatedly lied\" under oath about his actions during Operation Midway Blitz, including deploying tear gas against protesters in Little Village. The judge had ordered him to wear a body camera and report to court daily.\n\nBovino's return and defiant messaging demonstrated the administration's commitment to maintaining aggressive immigration enforcement in sanctuary cities regardless of legal constraints or community opposition. His promise of \"years\" of federal presence represented an escalation of the administration's confrontation with Chicago city officials.",
+      "_file": "2025-12-16--bovino-returns-chicago-years-announcement.md",
+      "_id_hash": "34e1cae1a9684fe048f0e5476bd3b7fefbca8a3cb10b5894d3421447875420e5"
     },
     {
       "id": "2025-12-16--house-hearing-doj-antitrust-corruption-pay-to-play",
@@ -169255,6 +169336,44 @@
       "_id_hash": "1f7f9016e8f80c483549afd7a2c48274e9ada892a2ea4d39bc51eca463e9d20e"
     },
     {
+      "id": "2025-12-19--noem-increases-self-deportation-stipend-3000",
+      "date": "2025-12-19",
+      "title": "Noem Increases Self-Deportation Incentive to $3,000, Promotes 'Home for the Holidays'",
+      "importance": 7,
+      "actors": [
+        "Kristi Noem",
+        "DHS",
+        "CBP"
+      ],
+      "tags": [
+        "self-deportation",
+        "immigration",
+        "dhs",
+        "cbp-home-app"
+      ],
+      "sources": [
+        {
+          "title": "Kristi Noem announces $3,000 stipend for self-deportation",
+          "outlet": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/policy/immigration/4355557/kristi-noem-3000-stipend-illegal-immigrants-self-deportation/",
+          "tier": 2
+        },
+        {
+          "title": "DHS triples self-deportation incentive for holidays",
+          "outlet": "Fox News",
+          "url": "https://www.foxnews.com/politics/noem-self-deportation-stipend-3000-holidays",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Immigration Enforcement"
+      ],
+      "summary": "DHS Secretary Kristi Noem announced on Fox News that immigrants who voluntarily self-deport through the CBP Home app would receive a $3,000 stipend for the final weeks of 2025, tripling the $1,000 incentive introduced in May. Noem framed the increase as a \"home for the holidays\" message.\n\nThe increased stipend came as the administration struggled to meet Stephen Miller's goal of 3,000 deportations per day, with actual daily arrests averaging fewer than 1,000. The self-deportation program represented an attempt to boost removal numbers through incentives rather than enforcement alone.\n\nCritics noted the program's coercive nature, as immigrants faced the choice between accepting a modest payment to leave or risking violent arrest operations conducted by agents operating with minimal oversight. The holiday framing added a propaganda element to what amounted to paying people to abandon their lives and communities in the United States.",
+      "_file": "2025-12-19--noem-increases-self-deportation-stipend-3000.md",
+      "_id_hash": "70110aa235f6f5d6cc6ec4c74c6dc877c854271bd40fa3d89601c8353f6ce32b"
+    },
+    {
       "id": "2025-12-19--supreme-court-rejects-trump-immigration-judges-speech-restrictions",
       "date": "2025-12-19",
       "importance": 9,
@@ -169535,6 +169654,48 @@
       "_id_hash": "52b9de483d475d9455ee9e8d640aab46f1c7c1c2076f9130268e0d6044bc04af"
     },
     {
+      "id": "2025-12-21--bannon-americafest-maga-civil-war-shapiro-attack",
+      "date": "2025-12-21",
+      "title": "Bannon Declares Conservative Movement Civil War at AmericaFest, Attacks Ben Shapiro as 'Cancer'",
+      "importance": 8,
+      "actors": [
+        "Steve Bannon",
+        "Ben Shapiro",
+        "Mark Levin",
+        "Turning Point USA"
+      ],
+      "tags": [
+        "bannon",
+        "maga-infighting",
+        "americafest",
+        "israel-first",
+        "america-first",
+        "conservative-movement"
+      ],
+      "sources": [
+        {
+          "title": "Steve Bannon Weighs In On Conservative Movement's Future At AmericaFest Amid Ideological Rift",
+          "outlet": "Daily Caller",
+          "url": "https://dailycaller.com/2025/12/21/steve-bannon-conservative-americafest-tpusa-maga-shapiro-tucker/",
+          "tier": 2
+        },
+        {
+          "title": "Bannon attacks Shapiro at Turning Point conference",
+          "outlet": "Mediaite",
+          "url": "https://www.mediaite.com/politics/bannon-shapiro-americafest-maga-civil-war/",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Right-Wing Coalition",
+        "Media Manipulation"
+      ],
+      "summary": "At Turning Point USA's AmericaFest conference in Phoenix, Steve Bannon described escalating conservative infighting as \"a proxy on '28\" for the 2028 presidential election succession battle. Bannon sharply attacked Ben Shapiro, calling him \"a cancer\" and a \"hardcore never-Trumper,\" and accused Shapiro and Mark Levin of prioritizing Israel over American interests.\n\nBannon claimed \"the Israel First crowd\" was undermining the America First agenda, stating \"the Middle East is a sideshow and Israel's a sideshow to a sideshow.\" The attack exposed deepening fissures in the MAGA coalition between nationalist isolationists aligned with Bannon and pro-Israel conservatives represented by Shapiro and the Daily Wire.\n\nThe public rupture at a major conservative gathering signaled that battles over post-Trump succession were already fragmenting the right-wing movement. Bannon positioned himself as the guardian of populist-nationalist orthodoxy against what he characterized as establishment conservative voices who prioritize foreign policy over domestic economic nationalism.",
+      "_file": "2025-12-21--bannon-americafest-maga-civil-war-shapiro-attack.md",
+      "_id_hash": "fe75764e94cf60aef696a0f983540514bd88561bde3627a5ad1ecb315c254b86"
+    },
+    {
       "id": "2025-12-21--doj-exposes-epstein-victims-names-despite-transparency-act",
       "date": "2025-12-21",
       "title": "DOJ Exposes Epstein Victims' Names While Over-Redacting Perpetrator Information",
@@ -169661,6 +169822,83 @@
       "summary": "On Christmas Eve, the Department of Justice announced it had discovered over 1 million additional FBI documents related to Jeffrey Epstein, representing an 'extraordinary about-face' from the Trump administration's July 2025 position when FBI and DOJ indicated in an unsigned memo they had completed an 'exhaustive review' with no additional evidence to release. Representatives Thomas Massie and Ro Khanna, co-authors of the Epstein Files Transparency Act, stated 'there is reasonable suspicion that the DOJ has overstated the scope of responsive materials, thereby portraying compliance as unmanageable and effectively delaying disclosure.' By December 31, the review would expand to 5.2 million pages. All figures were self-reported by DOJ with no independent verification. The timing—Christmas Eve—suggested strategic burial of damaging news about the department's failure to meet the law's 30-day deadline.",
       "_file": "2025-12-24--doj-discovers-over-1-million-additional-epstein-documents.md",
       "_id_hash": "c515be67502273994c0a9e102c5bd50828e2ebbea3e219991050d3b0f0067c7a"
+    },
+    {
+      "id": "2025-12-29--bannon-turns-against-jd-vance",
+      "date": "2025-12-29",
+      "title": "Bannon Turns Against Vice President JD Vance Amid Escalating MAGA Civil War",
+      "importance": 8,
+      "actors": [
+        "Steve Bannon",
+        "JD Vance"
+      ],
+      "tags": [
+        "bannon",
+        "jd-vance",
+        "maga-infighting",
+        "2028-succession",
+        "war-room"
+      ],
+      "sources": [
+        {
+          "title": "Bannon blasts VP Vance amid MAGA civil war",
+          "outlet": "Political Wire",
+          "url": "https://politicalwire.com/2025/12/29/bannon-vance-maga-fireworks/",
+          "tier": 2
+        },
+        {
+          "title": "Fresh MAGA fireworks as Bannon attacks Vance",
+          "outlet": "Axios",
+          "url": "https://www.axios.com/2025/12/29/bannon-vance-maga-civil-war",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Right-Wing Coalition",
+        "Political Instability"
+      ],
+      "summary": "Steve Bannon turned sharply against Vice President JD Vance, igniting what observers described as \"fresh MAGA fireworks\" in the ongoing conservative civil war. The attack represented a dramatic reversal for Bannon, who had previously supported Vance's rise and Senate campaign.\n\nThe fracturing of Trump's coalition saw Bannon, the self-appointed guardian of populist-nationalist ideology, now targeting the sitting Vice President as insufficiently loyal to America First principles. Coming just days after Bannon's attacks on Ben Shapiro at AmericaFest, the Vance attack signaled that no figure in the MAGA movement was immune from purge as various factions positioned themselves for the 2028 succession battle.\n\nThe intra-movement warfare highlighted the instability of a political coalition held together primarily by personal loyalty to Trump rather than coherent ideology. As different factions competed to define the movement's post-Trump future, the resulting chaos threatened to fragment the right-wing coalition that had achieved unified government control.",
+      "_file": "2025-12-29--bannon-turns-against-jd-vance.md",
+      "_id_hash": "796790337ebd5de8558203e84d3e1c83ce08812e054ece61f5b1b49a6ad3ecc8"
+    },
+    {
+      "id": "2025-12-30--bannon-announces-irish-national-party-organizing",
+      "date": "2025-12-30",
+      "title": "Bannon Reveals He Is Organizing 'Irish National Party,' Promises 'Irish Trump'",
+      "importance": 8,
+      "actors": [
+        "Steve Bannon"
+      ],
+      "tags": [
+        "bannon",
+        "international-far-right",
+        "ireland",
+        "nationalist-movements",
+        "foreign-interference"
+      ],
+      "sources": [
+        {
+          "title": "Steve Bannon promises 'Irish Trump' and says he is working to form 'national party' in Ireland",
+          "outlet": "Irish Times",
+          "url": "https://www.irishtimes.com/politics/2025/12/30/steve-bannon-promises-irish-trump-and-says-he-is-working-to-form-national-party-in-ireland/",
+          "tier": 1
+        },
+        {
+          "title": "Bannon reveals Irish far-right organizing efforts",
+          "outlet": "The Guardian",
+          "url": "https://www.theguardian.com/world/2025/dec/30/steve-bannon-irish-national-party",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "International Authoritarianism",
+        "Far-Right Networks"
+      ],
+      "summary": "Steve Bannon revealed he is \"spending a ton of time behind the scenes on the Irish situation to help form an Irish national party.\" He promised an \"Irish Trump\" and stated the MAGA movement was being mirrored by groups in Ireland, Britain, France, and Italy.\n\nBannon endorsed the new U.S. national security strategy's explicit support for \"patriotic European parties\" and warnings about Europe's \"civilisational erasure,\" calling it \"pleasantly shocking that it was so explicit.\" His acknowledgment of organizing foreign political parties represented an open admission of American far-right interference in European democracies.\n\nThe revelation came as the Trump administration's official national security documents were now explicitly endorsing nationalist movements abroad. Bannon's role as international coordinator of far-right movements continued even as he maintained influence over domestic U.S. policy through his War Room podcast and connections to administration officials. His Irish organizing efforts expanded his previous work with European far-right parties including relationships with Marine Le Pen in France and Viktor Orban in Hungary.",
+      "_file": "2025-12-30--bannon-announces-irish-national-party-organizing.md",
+      "_id_hash": "3699b51eebc919eec123804665f0da0e2fa20f6fa295d75b0293d0aec49e9005"
     },
     {
       "id": "2025-12-30--us-strikes-three-vessel-convoy-11-killed",
@@ -170362,6 +170600,46 @@
       "summary": "DHS Secretary Kristi Noem visited the Rio Grande Valley and announced a massive expansion of floating border barriers, with plans to deploy 500 miles of buoy barriers measuring 4-5 feet in diameter and 32 feet long. She stated 130 miles were already under contract and beginning installation. The barrier expansion is part of Trump's 'Smart Wall' initiative funded by the 2025 spending bill. Noem claimed a 95% reduction in daily illegal border apprehensions during her visit. The buoy barriers, first deployed by Texas Governor Greg Abbott in 2023, had faced legal challenges and criticism from Mexico and humanitarian groups who argued they posed drowning risks. The announcement came the same day an ICE agent shot and killed US citizen Renee Nicole Good in Minneapolis during Noem's 'largest immigration operation ever.'",
       "_file": "2026-01-07--noem-announces-500-miles-border-buoys.md",
       "_id_hash": "3704d4c9e9f3a3742185fd3cd28d18459e3f1867420283777105e9c8afeb3f69"
+    },
+    {
+      "id": "2026-01-07--tillis-calls-for-miller-firing-greenland-comments",
+      "date": "2026-01-07",
+      "title": "GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired",
+      "importance": 8,
+      "actors": [
+        "Thom Tillis",
+        "Stephen Miller",
+        "Donald Trump"
+      ],
+      "tags": [
+        "greenland",
+        "stephen-miller",
+        "republican-dissent",
+        "foreign-policy",
+        "nato"
+      ],
+      "sources": [
+        {
+          "title": "GOP senator's scathing message to Stephen Miller over Greenland",
+          "outlet": "CNN",
+          "url": "https://www.cnn.com/2026/01/07/politics/greenland-thom-tillis-stephen-miller",
+          "tier": 1
+        },
+        {
+          "title": "Tillis calls Miller's Greenland rhetoric 'amateur hour'",
+          "outlet": "The Hill",
+          "url": "https://thehill.com/homenews/senate/5111985-tillis-miller-greenland-fire/",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Republican Dissent",
+        "Foreign Policy Crisis"
+      ],
+      "summary": "Republican Senator Thom Tillis of North Carolina issued a scathing public rebuke of White House Deputy Chief of Staff Stephen Miller following Miller's declaration that Greenland should \"obviously\" be part of the United States and that \"nobody is going to fight the United States militarily over the future of Greenland.\"\n\nTillis called Miller's comments \"insane,\" \"amateur hour,\" \"amateurish,\" and \"absurd,\" stating: \"Either Stephen Miller needs to get into a lane where he knows what he's talking about or get out of this job.\" He urged President Trump to fire advisers who provide such advice, representing rare public GOP criticism of a senior administration official.\n\nThe rebuke came as Miller's Greenland statements sparked international alarm, with Denmark's Prime Minister warning that a U.S. attack on Greenland—a NATO ally—could end the alliance. Tillis's criticism highlighted how Miller's aggressive rhetoric was damaging U.S. relationships with key allies while exposing divisions within the Republican Party over the administration's increasingly erratic foreign policy.",
+      "_file": "2026-01-07--tillis-calls-for-miller-firing-greenland-comments.md",
+      "_id_hash": "690688f756819cb39b2ebb434a54920fb0354d06f57255975c033a596dd2f118"
     },
     {
       "id": "2026-01-07--us-seizes-two-venezuelan-oil-tankers",
