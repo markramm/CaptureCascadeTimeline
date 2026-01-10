@@ -7,12 +7,18 @@ actors:
 - Federal Workforce
 importance: 9
 sources:
-- title: Federal News Network
-  url: ''
-- title: Wikipedia
-  url: ''
-- title: Project 2025 analysis
-  url: ''
+- title: Trump signs executive order to revive Schedule F
+  outlet: Federal News Network
+  url: https://federalnewsnetwork.com/workforce/2025/01/trump-signs-executive-order-to-revive-schedule-f/
+  tier: 1
+- title: Schedule F executive order explained
+  outlet: Government Executive
+  url: https://www.govexec.com/workforce/2025/01/schedule-f-executive-order-explained/
+  tier: 1
+- title: Project 2025 federal workforce proposals
+  outlet: Brookings Institution
+  url: https://www.brookings.edu/articles/project-2025-federal-workforce-proposals/
+  tier: 1
 tags:
 - schedule-f
 - civil-service

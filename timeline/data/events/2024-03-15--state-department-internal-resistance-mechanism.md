@@ -19,27 +19,18 @@ capture_lanes:
 - Institutional Memory Preservation
 - Bureaucratic Resilience
 sources:
-- outlet: Foreign Service Journal
-  title: State Department Institutional Resilience Report
-  date: 2024-03
-  url: https://example.com
-- outlet: U.S. Department of State Congressional Budget Justification
+- outlet: U.S. Department of State
   title: 'FY 2025 Budget: Diplomatic Engagement and Institutional Preservation'
-  date: 2024-03
   url: https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf
-  notes: Official document detailing diplomatic preservation strategies
+  tier: 1
 - outlet: Federal Register
-  title: Advisory Committee on Historical Diplomatic Documentation - Meetings Notice
-  date: '2024-02-29'
+  title: Advisory Committee on Historical Diplomatic Documentation
   url: https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for
-  notes: Evidence of ongoing efforts to preserve diplomatic institutional memory
+  tier: 1
 - outlet: Federal News Network
   title: Foreign Service Reorganization and Strategic Cohesion Efforts
-  date: 2024-04
   url: https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/
-  notes: Details emerging executive order proposing Foreign Service restructuring
-- title: 'Dissent Channel: A Mechanism of Diplomatic Criticism and Preservation'
-  url: ''
+  tier: 1
 status: confirmed
 version: '1.2'
 ---

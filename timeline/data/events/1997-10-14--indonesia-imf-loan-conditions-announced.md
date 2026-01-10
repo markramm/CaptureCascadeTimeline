@@ -15,22 +15,18 @@ tags:
 - economic-shock
 - neoliberal-intervention
 sources:
-- title: International Monetary Fund
-  url: International Monetary Fund
-- title: IMF Press Release
-  url: IMF Press Release
-- title: Wikipedia
-  url: Wikipedia
-- title: Science Direct
-  url: Science Direct
-- title: International Monetary Fund
-  url: International Monetary Fund
-- title: IMF Press Release
-  url: IMF Press Release
-- title: Wikipedia
-  url: Wikipedia
-- title: Science Direct
-  url: Science Direct
+- title: 1997 Asian financial crisis
+  outlet: Wikipedia
+  url: https://en.wikipedia.org/wiki/1997_Asian_financial_crisis
+  tier: 2
+- title: Asian Financial Crisis
+  outlet: Federal Reserve History
+  url: https://www.federalreservehistory.org/essays/asian-financial-crisis
+  tier: 1
+- title: IMF Stand-By Arrangement for Indonesia
+  outlet: International Monetary Fund
+  url: https://www.imf.org/en/Countries/IDN
+  tier: 1
 status: confirmed
 capture_lanes:
 - Regulatory Capture

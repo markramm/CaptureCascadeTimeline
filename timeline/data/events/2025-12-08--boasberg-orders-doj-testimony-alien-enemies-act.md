@@ -6,6 +6,20 @@ summary: "U.S. District Judge James Boasberg ordered Deputy Assistant Attorney G
 importance: 9
 tags: ["courts", "contempt", "alien-enemies-act", "deportation", "doj", "judicial-authority", "rule-of-law", "due-process", "el-salvador", "whistleblower"]
 actors: ["James Boasberg", "Drew Ensign", "Erez Reuveni", "Kristi Noem", "Department of Justice", "Department of Homeland Security"]
+sources:
+- title: Judge orders top DOJ attorney to testify about Alien Enemies Act deportations
+  outlet: ABC News
+  url: https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048
+  tier: 1
+- title: Judge orders testimonies in contempt inquiry over deportation flight
+  outlet: UPI
+  url: https://www.upi.com/Top_News/US/2025/12/09/testimonies-DOJ-attorneys-deportation-flight/3591765266554/
+  tier: 1
+- title: Judge expands criminal contempt probe over deportation flights
+  outlet: CNN
+  url: https://www.cnn.com/2025/12/08/politics/kristi-noem-deportation-flights-contempt
+  tier: 1
+status: confirmed
 ---
 
 # Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order

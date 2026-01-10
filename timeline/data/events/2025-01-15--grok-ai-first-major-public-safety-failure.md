@@ -20,27 +20,17 @@ capture_lanes:
 - Systematic Corruption
 sources:
 - outlet: Fortune
-  title: Elon Musk released xAIs Grok 4 without any safety reports—despite calling
-    AI more dangerous than nukes
+  title: Elon Musk released xAIs Grok 4 without any safety reports
   url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
-  date: '2025-07-17'
+  tier: 1
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry reckless safety culture at Elon Musks
-    xAI
+  title: OpenAI and Anthropic researchers decry reckless safety culture at xAI
   url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
-  date: '2025-07-16'
+  tier: 1
 - outlet: AI Magazine
   title: Why xAI Loses US Deal After Grok Sparks Political AI Scandal
   url: https://aimagazine.com/news/revealed-how-groks-antisemitism-lost-xai-a-key-us-contract
-  date: '2025-08-01'
-- title: New York Times
-  url: New York Times
-- title: Reuters
-  url: Reuters
-- title: New York Times
-  url: New York Times
-- title: Reuters
-  url: Reuters
+  tier: 2
 validation_metadata:
   last_corrected: '2025-09-16T19:13:59.724782'
   corrected_by: test-sources-bulk-retry

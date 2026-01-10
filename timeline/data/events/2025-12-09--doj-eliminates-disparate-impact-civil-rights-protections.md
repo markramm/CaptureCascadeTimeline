@@ -6,6 +6,20 @@ summary: "The Department of Justice issued a final rule eliminating disparate im
 importance: 10
 tags: ["civil-rights", "doj", "legal", "discrimination", "regulation", "executive-action", "constitutional-law", "voting-rights", "housing", "education", "environmental-justice"]
 actors: ["Pam Bondi", "Harmeet Dhillon", "Department of Justice"]
+sources:
+- title: Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement
+  outlet: Department of Justice
+  url: https://www.justice.gov/opa/pr/department-justice-rule-restores-equal-protection-all-civil-rights-enforcement
+  tier: 1
+- title: Department of Justice Eliminates Title VI Disparate Impact Regulations
+  outlet: Sullivan & Cromwell LLP
+  url: https://www.sullcrom.com/insights/memo/2025/December/Department-Justice-Eliminates-Title-VI-Disparate-Impact-Regulations
+  tier: 2
+- title: Justice Department Erases Disparate Impact Liability From Title VI Enforcement Regulations
+  outlet: Ogletree Deakins
+  url: https://ogletree.com/insights-resources/blog-posts/justice-department-erases-disparate-impact-liability-from-title-vi-enforcement-regulations/
+  tier: 2
+status: confirmed
 ---
 
 # Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination

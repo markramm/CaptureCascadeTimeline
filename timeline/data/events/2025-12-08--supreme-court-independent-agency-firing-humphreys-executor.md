@@ -6,6 +6,20 @@ summary: "The Supreme Court heard oral arguments in Trump v. Slaughter regarding
 importance: 9
 tags: ["supreme-court", "executive-power", "independent-agencies", "separation-of-powers", "constitutional-law", "ftc", "federal-reserve", "regulatory-agencies", "unitary-executive", "legal"]
 actors: ["Supreme Court", "Donald Trump", "Rebecca Slaughter", "John Roberts", "Elena Kagan", "D. John Sauer", "Amit Agarwal", "Federal Trade Commission"]
+sources:
+- title: "Trump v. Slaughter: an explainer"
+  outlet: SCOTUSblog
+  url: https://www.scotusblog.com/2025/12/trump-v-slaughter-an-explainer/
+  tier: 1
+- title: Supreme Court seems likely to back Trump's power to fire independent agency board members
+  outlet: Las Vegas Sun
+  url: https://lasvegassun.com/news/2025/dec/07/supreme-court-seems-likely-to-back-trumps-power-to/
+  tier: 2
+- title: Supreme Court to reconsider a 90-year-old unanimous ruling that limits presidential power
+  outlet: Fortune
+  url: https://fortune.com/2025/12/07/supreme-court-humphreys-executor-unanimous-ruling-presidential-power-limit-heads-independent-agencies/
+  tier: 1
+status: confirmed
 ---
 
 # Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power

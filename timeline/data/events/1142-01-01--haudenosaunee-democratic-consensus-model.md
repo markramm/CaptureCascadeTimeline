@@ -12,23 +12,18 @@ actors:
 - Donald A. Grinde, Jr.
 - Robert J. Miller
 sources:
+- title: How the Iroquois Great Law of Peace Shaped U.S. Democracy
+  outlet: PBS
+  url: https://www.pbs.org/native-america/blog/how-the-iroquois-great-law-of-peace-shaped-us-democracy
+  tier: 1
+- title: The Haudenosaunee Confederacy and the Constitution
+  outlet: Library of Congress
+  url: https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/
+  tier: 1
 - title: The Native American Roots of the U.S. Constitution
   outlet: JSTOR Daily
   url: https://daily.jstor.org/the-native-american-roots-of-the-u-s-constitution/
-  type: Academic Analysis
-- title: The United States Constitution and the Iroquois League
-  url: ''
-- title: 'Exemplar of Liberty: Native America and the Evolution of Democracy'
-  url: ''
-- title: U.S. Senate Resolution Recognizing Iroquois Confederacy Influence
-  date: '1987-09-16'
-  outlet: U.S. Senate Official Records
-  url: https://www.oneidaindiannation.com/fast-facts-democracy-and-the-haudenosaunee/
-  type: Official Recognition
-- title: American Indian Constitutions and Their Influence on the United States Constitution
-  url: ''
-- title: The Indigenous Influence Theory of American Democracy
-  url: ''
+  tier: 2
 tags:
 - indigenous-democracy
 - consensus-governance

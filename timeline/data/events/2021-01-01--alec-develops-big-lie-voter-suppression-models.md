@@ -25,10 +25,9 @@ sources:
   outlet: Brennan Center for Justice
   date: 2021-06-10
 - title: Conservative groups are writing GOP voter suppression bills
-  url: https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills
----and-spending-millions-to-pass-them/
+  url: https://www.salon.com/2021/03/27/conservative-groups-are-writing-gop-voter-suppression-bills---and-spending-millions-to-pass-them/
   outlet: Salon
-  date: 2021-03-27
+  tier: 1
 - title: ALEC Members Lead Voter Suppression Efforts in 2020 Battleground States
   url: https://www.exposedbycmd.org/2021/04/13/alec-members-lead-voter-suppression-efforts-in-2020-battleground-states/
   outlet: Center for Media and Democracy

@@ -23,17 +23,15 @@ sources:
 - title: SpaceX Might Invest $2 Billion in Musk's xAI
   url: https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/
   outlet: TechCrunch
-  date: '2025-07-13'
-- title: Musk Inner Circle Selling Private Company Access
-  url: ''
+  tier: 1
 - title: Elon Musk's SpaceX Share Sale to Value Company at About $400 Billion
   url: https://www.bloomberg.com/news/articles/2025-07-15/musk-spacex-share-sale-to-value-company-at-about-400-billion
   outlet: Bloomberg
-  date: '2025-07-15'
+  tier: 1
 - title: Most of Elon Musk's fortune now comes from his private companies
   url: https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html
   outlet: CNBC
-  date: '2025-09-11'
+  tier: 1
 connections: []
 patterns:
 - kleptocratic-capture

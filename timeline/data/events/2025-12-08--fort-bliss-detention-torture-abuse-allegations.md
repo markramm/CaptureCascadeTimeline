@@ -6,6 +6,20 @@ summary: "Human rights organizations including the ACLU, Human Rights Watch, and
 importance: 9
 tags: ["immigration", "detention", "human-rights", "torture", "ice", "abuse", "civil-rights", "due-process", "asylum", "dhs"]
 actors: ["ICE", "Department of Homeland Security", "ACLU", "Human Rights Watch", "Las Americas Immigrant Advocacy Center", "Texas Civil Rights Project", "Francisco Gaspar Andres"]
+sources:
+- title: "US: Close Fort Bliss Immigration Detention Site"
+  outlet: Human Rights Watch
+  url: https://www.hrw.org/news/2025/12/08/us-close-fort-bliss-immigration-detention-site
+  tier: 1
+- title: Human Rights Groups Urge ICE to End Immigration Detention at Fort Bliss
+  outlet: ACLU
+  url: https://www.aclu.org/press-releases/human-rights-groups-urge-ice-to-end-immigration-detention-at-fort-bliss-military-base-halt-abusive-third-country-deportations
+  tier: 1
+- title: ACLU reports physical abuse of migrants held at Fort Bliss
+  outlet: Texas Tribune
+  url: https://www.texastribune.org/2025/12/10/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report/
+  tier: 1
+status: confirmed
 ---
 
 # Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations

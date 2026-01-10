@@ -1,5 +1,5 @@
 ---
-id: 1998-2016--deutsche-bank-loans-trump-2-5-billion-russian-laundering
+id: 1998-01-01--deutsche-bank-loans-trump-2-5-billion-russian-laundering
 date: '1998-01-01'
 title: Deutsche Bank Loans Trump $2.5 Billion Despite Russian Money Laundering and Red Flags
 importance: 10

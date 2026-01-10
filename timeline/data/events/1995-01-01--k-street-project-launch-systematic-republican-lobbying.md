@@ -11,16 +11,18 @@ tags:
 - campaign-finance
 - regulatory-capture
 sources:
-- title: en.wikipedia.org
+- title: K Street Project
+  outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/K_Street_Project
-- title: sourcewatch.org
-  url: https://sourcewatch.org/index.php?title=K_Street_Project
-- title: npr.org
+  tier: 2
+- title: The K Street Project and Tom DeLay
+  outlet: NPR
   url: https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay
-- title: NPR investigative report on K Street Project dynamics
-  url: ''
-- title: Academic research on multi-client lobbying transformations
-  url: ''
+  tier: 1
+- title: K Street Project
+  outlet: SourceWatch
+  url: https://sourcewatch.org/index.php?title=K_Street_Project
+  tier: 2
 status: confirmed
 actors: []
 ---

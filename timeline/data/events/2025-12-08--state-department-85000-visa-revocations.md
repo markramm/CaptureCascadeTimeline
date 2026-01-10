@@ -6,6 +6,20 @@ summary: "The State Department announced it has revoked 85,000 visas of all cate
 importance: 9
 tags: ["immigration", "visas", "state-department", "students", "travel", "h1b", "enforcement", "international-relations"]
 actors: ["State Department", "Department of Homeland Security"]
+sources:
+- title: Trump administration has revoked 85000 visas since January
+  outlet: CNN
+  url: https://www.cnn.com/2025/12/08/politics/visa-revocations-state-department
+  tier: 1
+- title: Trump administration revokes record 85000 visas in sweeping immigration crackdown
+  outlet: Fox News
+  url: https://www.foxnews.com/us/trump-administration-revokes-record-85000-visas-sweeping-immigration-crackdown-targeting-safety-threats
+  tier: 1
+- title: United States steps up immigration scrutiny; 85,000 visas revoked in 2025
+  outlet: Sentinel Assam
+  url: https://www.sentinelassam.com/more-news/international/united-states-steps-up-immigration-scrutiny-85000-visas-revoked-in-2025
+  tier: 2
+status: confirmed
 ---
 
 # State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate

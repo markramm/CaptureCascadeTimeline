@@ -6,26 +6,14 @@ actors:
 - Vladimir Putin
 importance: 10
 sources:
-- title: Wall Street Journal
-  url: Wall Street Journal
-- title: PBS NewsHour
-  url: PBS NewsHour
-- title: Newsweek
-  url: Newsweek
-- title: ABC News
-  url: ABC News
-- title: CNBC
-  url: CNBC
-- title: Wall Street Journal
-  url: Wall Street Journal
-- title: PBS NewsHour
-  url: PBS NewsHour
-- title: Newsweek
-  url: Newsweek
-- title: ABC News
-  url: ABC News
-- title: CNBC
-  url: CNBC
+- title: Elon Musk's secret talks with Putin ramped up during his Twitter takeover
+  outlet: CNBC
+  url: https://www.cnbc.com/2024/10/25/elon-musk-and-putin-talks-ramped-up-during-twitter-takeover-wsj.html
+  tier: 1
+- title: Elon Musk and Putin have regular contact
+  outlet: Axios
+  url: https://www.axios.com/2024/10/25/elon-musk-putin-trump-russia-ukraine-war
+  tier: 1
 tags:
 - musk-putin
 - regular-contact

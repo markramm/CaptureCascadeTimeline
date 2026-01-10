@@ -9,19 +9,18 @@ actors:
 - Haudenosaunee Confederacy
 - Puebloan Societies
 sources:
-- outlet: Indigenous Governance Research Center
-  title: Traditional Democratic Innovations for Modern Governance
-  url: academic research compilation
-- outlet: Frontiers in Political Science
-  title: Keystone Institutions of Democratic Governance Across Indigenous North America
+- title: American democracy arrived long before Columbus did
+  outlet: Science News Explores
+  url: https://www.snexplores.org/article/american-democracy-indigenous-native-people-government
+  tier: 2
+- title: Indigenous Americans ruled democratically long before the U.S. did
+  outlet: Science News
+  url: https://www.sciencenews.org/article/democracy-indigenous-americans-people-rule-muscogee
+  tier: 2
+- title: Keystone Institutions of Democratic Governance Across Indigenous North America
+  outlet: Frontiers in Political Science
   url: https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.840049/full
-- outlet: 'Nature: Humanities and Social Sciences Communications'
-  title: Deliberative Democracy and Historical Perspectives on American Indian/Alaska
-    Native Political Decision-Making Practices
-  url: https://www.nature.com/articles/s41599-020-0506-4
-- outlet: National Bureau of Economic Research
-  title: The Indigenous Roots of Representative Democracy
-  url: https://www.nber.org/system/files/working_papers/w21193/w21193.pdf
+  tier: 2
 tags:
 - indigenous-democracy
 - traditional-governance

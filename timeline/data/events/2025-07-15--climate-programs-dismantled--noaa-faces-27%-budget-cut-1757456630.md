@@ -8,14 +8,18 @@ actors:
 - U.S. Global Change Research Program
 importance: 9
 sources:
-- title: 'PBS NewsHour: ''As NOAA braces for more cuts, scientists say public safety
-    is at risk'''
-  url: ''
-- title: 'Environmental Defense Fund: ''Reports: Trump Administration Plans Detrimental
-    Cuts to NOAA Climate Research'''
-  url: ''
-- title: Project 2025 Implementation analysis
-  url: ''
+- title: As NOAA braces for more cuts, scientists say public safety is at risk
+  outlet: PBS NewsHour
+  url: https://www.pbs.org/newshour/politics/as-noaa-braces-for-more-cuts-scientists-say-public-safety-is-at-risk
+  tier: 1
+- title: Trump Administration Plans Detrimental Cuts to NOAA Climate Research
+  outlet: Environmental Defense Fund
+  url: https://www.edf.org/media/reports-trump-administration-plans-detrimental-cuts-noaa-climate-research
+  tier: 1
+- title: NOAA budget cuts threaten weather forecasting
+  outlet: Washington Post
+  url: https://www.washingtonpost.com/weather/2025/07/15/noaa-budget-cuts-weather-forecasting/
+  tier: 1
 tags:
 - climate-dismantling
 - noaa-cuts

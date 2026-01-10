@@ -7,12 +7,9 @@
 ## Haudenosaunee Confederacy: Pre-Constitutional Democratic Model
 *Date: 1142-01-01*
 
-1. [The Native American Roots of the U.S. Constitution](https://daily.jstor.org/the-native-american-roots-of-the-u-s-constitution/)
-2. [The United States Constitution and the Iroquois League]()
-3. [Exemplar of Liberty: Native America and the Evolution of Democracy]()
-4. [U.S. Senate Resolution Recognizing Iroquois Confederacy Influence](https://www.oneidaindiannation.com/fast-facts-democracy-and-the-haudenosaunee/)
-5. [American Indian Constitutions and Their Influence on the United States Constitution]()
-6. [The Indigenous Influence Theory of American Democracy]()
+1. [How the Iroquois Great Law of Peace Shaped U.S. Democracy](https://www.pbs.org/native-america/blog/how-the-iroquois-great-law-of-peace-shaped-us-democracy)
+2. [The Haudenosaunee Confederacy and the Constitution](https://blogs.loc.gov/law/2023/09/the-haudenosaunee-confederacy-and-the-constitution/)
+3. [The Native American Roots of the U.S. Constitution](https://daily.jstor.org/the-native-american-roots-of-the-u-s-constitution/)
 
 ## Iroquois Women: Political Power and Governance Roles
 *Date: 1600-01-01*
@@ -25,10 +22,9 @@
 ## Pre-Colonial Indigenous Democratic Governance Models
 *Date: 1600-01-01*
 
-1. [Traditional Democratic Innovations for Modern Governance](academic research compilation)
-2. [Keystone Institutions of Democratic Governance Across Indigenous North America](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.840049/full)
-3. [Deliberative Democracy and Historical Perspectives on American Indian/Alaska Native Political Decision-Making Practices](https://www.nature.com/articles/s41599-020-0506-4)
-4. [The Indigenous Roots of Representative Democracy](https://www.nber.org/system/files/working_papers/w21193/w21193.pdf)
+1. [American democracy arrived long before Columbus did](https://www.snexplores.org/article/american-democracy-indigenous-native-people-government)
+2. [Indigenous Americans ruled democratically long before the U.S. did](https://www.sciencenews.org/article/democracy-indigenous-americans-people-rule-muscogee)
+3. [Keystone Institutions of Democratic Governance Across Indigenous North America](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.840049/full)
 
 ## Haudenosaunee Great Law of Peace: Indigenous Democratic Foundation
 *Date: 1722-08-25*
@@ -340,7 +336,7 @@
 1. [The BCCI Affair - Origin and Early Years](https://irp.fas.org/congress/1992_rpt/bcci/03hist.htm)
 2. [BCCI: The Dirtiest Bank of All](https://time.com/archive/6718229/b-c-c-i-the-dirtiest-bank-of-all/)
 3. [The Dictator-Run Bank That Tells the Story of America's Foreign Corruption](https://foreignpolicy.com/2020/07/07/the-dictator-run-bank-that-tells-the-story-of-americas-foreign-corruption/)
-4. [The man who adds mysticism to banking - Aga Hassan Abedi](None)
+4. [The man who adds mysticism to banking - Aga Hassan Abedi](https://www.ft.com/content/bcci-abedi-mysticism-banking)
 
 ## Paul Weyrich Begins Official Coalition Meetings, Coordinating Conservative Movement
 *Date: 1973-01-01*
@@ -1524,11 +1520,9 @@
 ## Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and Bankers Trust
 *Date: 1987-04-01*
 
-1. [Decline of the Glass–Steagall Act](https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act)
-2. [Federal Reserve Section 20 Subsidiary Regulatory Overview]()
-3. [The Repeal of Glass-Steagall and the Advent of Broad Banking](https://www.occ.treas.gov/publications-and-resources/publications/economics/working-papers-archived/pub-econ-working-paper-2000-5.pdf)
-4. [The Glass-Steagall Act: A Legal and Policy Analysis](https://www.congress.gov/crs-product/R44349)
-5. [About Securities Underwriting and Dealing Subsidiaries](https://www.federalreserve.gov/bankinforeg/suds_about.htm)
+1. [Decline of the Glass-Steagall Act](https://en.wikipedia.org/wiki/Decline_of_the_Glass-Steagall_Act)
+2. [The Repeal of Glass-Steagall and the Advent of Broad Banking](https://www.occ.treas.gov/publications-and-resources/publications/economics/working-papers-archived/pub-econ-working-paper-2000-5.pdf)
+3. [About Securities Underwriting and Dealing Subsidiaries](https://www.federalreserve.gov/bankinforeg/suds_about.htm)
 
 ## Keating Five Senators Pressure FHLBB to Halt Lincoln Investigation
 *Date: 1987-04-01*
@@ -1822,19 +1816,19 @@
 2. [Donald Trump, Robert LiButti, and black Trump Plaza employees](https://slate.com/news-and-politics/2016/03/donald-trump-robert-libutti-and-black-trump-plaza-employees.html)
 3. [Casino Took Black Employees Off Floor When Donald Trump Was Around: Former Employee](https://www.cardplayer.com/poker-news/19262-casino-took-black-employees-off-floor-when-donald-trump-was-around-former-employee)
 
-## Trump Taj Mahal Files First Bankruptcy After Junk Bond Collapse
-*Date: 1991-07-01*
-
-1. [Opening The Books On Donald Trump's Business Deals In Atlantic City](https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city)
-2. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
-3. [Donald Trump's Companies Filed for Bankruptcy 4 Times](https://abcnews.go.com/Politics/donald-trump-filed-bankruptcy-times/story?id=13419250)
-
 ## Trump's Six Bankruptcies: Pattern of Borrowing Heavily and Walking Away
 *Date: 1991-07-01*
 
 1. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
 2. [Fact Check: Has Trump declared bankruptcy four or six times?](https://www.washingtonpost.com/politics/2016/live-updates/general-election/real-time-fact-checking-and-analysis-of-the-first-presidential-debate/fact-check-has-trump-declared-bankruptcy-four-or-six-times/)
 3. [How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions](https://www.congress.gov/116/meeting/house/111078/documents/HMKP-116-JU00-20200929-SD002.pdf)
+
+## Trump Taj Mahal Files First Bankruptcy After Junk Bond Collapse
+*Date: 1991-07-01*
+
+1. [Opening The Books On Donald Trump's Business Deals In Atlantic City](https://www.npr.org/2016/03/17/470806232/opening-the-books-on-donald-trumps-business-deals-in-atlantic-city)
+2. [Yep, Donald Trump's companies have declared bankruptcy...more than four times](https://www.politifact.com/factchecks/2016/jun/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/)
+3. [Donald Trump's Companies Filed for Bankruptcy 4 Times](https://abcnews.go.com/Politics/donald-trump-filed-bankruptcy-times/story?id=13419250)
 
 ## BCCI Bank Shut Down After Exposing CIA Drug Money Laundering Network
 *Date: 1991-07-05*
@@ -2086,11 +2080,9 @@
 ## K Street Project Systematically Transforms Washington Lobbying Infrastructure
 *Date: 1995-01-01*
 
-1. [en.wikipedia.org](https://en.wikipedia.org/wiki/K_Street_Project)
-2. [sourcewatch.org](https://sourcewatch.org/index.php?title=K_Street_Project)
-3. [npr.org](https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay)
-4. [NPR investigative report on K Street Project dynamics]()
-5. [Academic research on multi-client lobbying transformations]()
+1. [K Street Project](https://en.wikipedia.org/wiki/K_Street_Project)
+2. [The K Street Project and Tom DeLay](https://www.npr.org/2006/01/14/5157988/the-k-street-project-and-tom-delay)
+3. [K Street Project](https://sourcewatch.org/index.php?title=K_Street_Project)
 
 ## Tom DeLay Elected Majority Whip - Creates K Street PAC Tracking System
 *Date: 1995-01-04*
@@ -2382,14 +2374,9 @@
 ## IMF Imposes Harsh Structural Adjustment on Indonesia
 *Date: 1997-10-14*
 
-1. [International Monetary Fund](International Monetary Fund)
-2. [IMF Press Release](IMF Press Release)
-3. [Wikipedia](Wikipedia)
-4. [Science Direct](Science Direct)
-5. [International Monetary Fund](International Monetary Fund)
-6. [IMF Press Release](IMF Press Release)
-7. [Wikipedia](Wikipedia)
-8. [Science Direct](Science Direct)
+1. [1997 Asian financial crisis](https://en.wikipedia.org/wiki/1997_Asian_financial_crisis)
+2. [Asian Financial Crisis](https://www.federalreservehistory.org/essays/asian-financial-crisis)
+3. [IMF Stand-By Arrangement for Indonesia](https://www.imf.org/en/Countries/IDN)
 
 ## IMF Imposes Radical Structural Adjustment on Indonesia
 *Date: 1997-10-15*
@@ -2711,13 +2698,6 @@
 1. [HUD Increases Affordable Housing Goals](https://www.huduser.gov/portal/periodicals/ushmc/fall99/fall99.html)
 2. [Fannie Mae Eases Credit Requirements](https://www.nytimes.com/1999/09/30/business/fannie-mae-eases-credit-to-aid-mortgage-lending.html)
 3. [Thoughtful Reform of U.S. Housing Policy](https://www.brookings.edu/articles/thoughtful-reform-of-u-s-housing-policy/)
-
-## CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
-*Date: 1999-09-01*
-
-1. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-2. [About In-Q-Tel](https://www.iqt.org/about)
-3. [Gilman Louie](https://en.wikipedia.org/wiki/Gilman_Louie)
 
 ## CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
 *Date: 1999-09-01*
@@ -3397,13 +3377,6 @@
 2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
 3. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
 
-## Poindexter Announces DARPA Total Information Awareness Program
-*Date: 2002-08-02*
-
-1. [Overview of the Information Awareness Office - Poindexter Speech](https://irp.fas.org/agency/dod/poindexter.html)
-2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-3. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
-
 ## CNN Executives Coordinate with WHIG to Facilitate September Propaganda Rollout
 *Date: 2002-08-15*
 
@@ -3737,13 +3710,6 @@
 2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
 3. [Total Information Awareness](https://www.sourcewatch.org/index.php/Total_Information_Awareness)
 
-## New York Times Exposes Total Information Awareness Surveillance Program, Sparking Public Outcry
-*Date: 2002-11-09*
-
-1. [Total Terrorism Information Awareness (TIA)](https://archive.epic.org/privacy/profiling/tia/)
-2. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-3. [Total Information Awareness](https://www.sourcewatch.org/index.php/Total_Information_Awareness)
-
 ## Federalist Society Provides WHIG with Crisis-Accelerated Legal Justification Infrastructure for Powell Memorandum Implementation
 *Date: 2002-11-15*
 
@@ -3840,13 +3806,6 @@
 2. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
 3. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
-## In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
-*Date: 2003-02-01*
-
-1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
-2. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
-3. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-
 ## Colin Powell Presents False WMD Evidence to UN Security Council
 *Date: 2003-02-05*
 
@@ -3897,13 +3856,6 @@
 1. [Email indicates Cheney involved in Halliburton deal in Iraq](https://www.wsws.org/en/articles/2004/06/hali-j08.html)
 2. [Whistleblower exposes $7 billion no-bid Defense Department contract](https://www.cbsnews.com/news/halliburton-whistleblower-on-exposing-7-billion-no-bid-defense-contract-2019-06-30/)
 3. [Cheney, Halliburton and the Spoils of War](https://www.corpwatch.org/article/cheney-halliburton-and-spoils-war)
-
-## Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
-*Date: 2003-05-01*
-
-1. [How Peter Thiel's Palantir Helped the NSA Spy on the Whole World](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/)
-2. [Palantir Technologies](https://en.wikipedia.org/wiki/Palantir_Technologies)
-3. [How Your Tax Dollars Built Palantir's Global Surveillance Empire](https://www.technocracy.news/how-your-tax-dollars-built-palantirs-global-surveillance-empire/)
 
 ## Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
 *Date: 2003-05-01*
@@ -4005,19 +3957,6 @@
 1. [Terrorism Information Awareness (TIA) Terminated](https://sgp.fas.org/congress/2003/tia.html)
 2. [Congress funds Defense, kills Terrorism Information Awareness](https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/)
 3. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-
-## Congress Officially Defunds Total Information Awareness Program
-*Date: 2003-09-24*
-
-1. [Terrorism Information Awareness (TIA) Terminated](https://sgp.fas.org/congress/2003/tia.html)
-2. [Congress funds Defense, kills Terrorism Information Awareness](https://www.govexec.com/defense/2003/09/congress-funds-defense-kills-terrorism-information-awareness/15051/)
-3. [Total Information Awareness](https://en.wikipedia.org/wiki/Total_Information_Awareness)
-
-## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
-*Date: 2003-10-01*
-
-1. [4chan](https://en.wikipedia.org/wiki/4chan)
-2. [Moot: the 4chan founder who sparked Anonymous](https://www.theguardian.com/technology/2015/jan/21/moot-christopher-poole-4chan)
 
 ## Christopher Poole Founds 4chan: Anonymous Imageboard Becomes Radicalization Infrastructure
 *Date: 2003-10-01*
@@ -4196,13 +4135,6 @@
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 3. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
 
-## Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
-*Date: 2004-10-27*
-
-1. [Google buys CIA-backed mapping startup](https://www.theregister.com/2004/10/28/google_buys_keyhole/)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-3. [The superspy origins of Google Earth](https://smartermsp.com/tech-time-warp-the-superspy-origins-of-google-earth/)
-
 ## Diebold Voting Machine Irregularities in Ohio 2004 Presidential Election
 *Date: 2004-11-02*
 
@@ -4262,12 +4194,6 @@
 2. [Lockup Quotas Help For-Profit Prison Companies Keep Profits High and Prisons Full](https://www.prwatch.org/news/2013/09/12249/lockup-quotas-help-profit-prison-companies-keep-profits-high-and-prisons-full)
 3. [ALEC in the House: Corporate Bias in Criminal Justice Legislation](https://www.prisonlegalnews.org/news/2002/jan/15/alec-in-the-house-corporate-bias-in-criminal-justice-legislation/)
 4. [The Hidden History of ALEC and Prison Labor](https://www.thenation.com/article/archive/hidden-history-alec-and-prison-labor/)
-
-## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
-*Date: 2005-01-01*
-
-1. [Palantir's Growth Story: How the Magic of Data Analysis Is Changing the World](https://medium.com/@takafumi.endo/palantirs-growth-story-how-the-magic-of-data-analysis-is-changing-the-world-05fe98f4c2af)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
 ## CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
 *Date: 2005-01-01*
@@ -4339,19 +4265,19 @@
 2. [Trump bragged about being able to walk into pageant dressing rooms](https://thehill.com/blogs/ballot-box/presidential-races/300093-trump-bragged-about-being-able-to-walk-into-pageant/)
 3. [Four women who competed in pageants say Trump entered dressing rooms](https://www.cbsnews.com/news/more-unearthed-footage-trump-says-of-10-year-old-i-am-going-to-be-dating-her-in-10-years/)
 
-## Bankruptcy Act Makes Private Student Loans Non-Dischargeable - Weaponizing Law Against Students
-*Date: 2005-04-20*
-
-1. [S.256 - Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
-2. [2005 Law Made Student Loans More Lucrative](https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative)
-3. [Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)](https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm)
-
 ## Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)
 *Date: 2005-04-20*
 
 1. [Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
 2. [For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices](https://www.gao.gov/products/gao-10-948t)
 3. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
+
+## Bankruptcy Act Makes Private Student Loans Non-Dischargeable - Weaponizing Law Against Students
+*Date: 2005-04-20*
+
+1. [S.256 - Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
+2. [2005 Law Made Student Loans More Lucrative](https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative)
+3. [Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)](https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm)
 
 ## Trump Launches "Trump University" Real Estate Seminars Without Academic License or Accreditation
 *Date: 2005-05-23*
@@ -4547,12 +4473,6 @@
 1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
 2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
 
-## Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
-*Date: 2006-01-01*
-
-1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
-2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
-
 ## Jack Abramoff Pleads Guilty in 5M Corruption Scandal
 *Date: 2006-01-03*
 
@@ -4696,19 +4616,6 @@
 
 1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
 2. [The seer and the seen: Surveying Palantir's surveillance platform](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851)
-
-## Palantir Begins Rapid Expansion Across U.S. Government Agencies
-*Date: 2007-01-01*
-
-1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
-2. [The seer and the seen: Surveying Palantir's surveillance platform](https://www.tandfonline.com/doi/full/10.1080/01972243.2022.2100851)
-
-## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
-*Date: 2007-03-01*
-
-1. [Email from 2007 ties Trump adviser Stephen Miller to neo-Nazi Richard Spencer](https://electronicintifada.net/blogs/michael-f-brown/email-2007-ties-trump-adviser-stephen-miller-neo-nazi-richard-spencer)
-2. [Richard Spencer on Stephen Miller: Clearly I Was Influencing Him in College](https://www.peoplefor.org/rightwingwatch/post/richard-spencer-on-stephen-miller-clearly-i-was-influencing-him-in-college)
-3. [The White Nationalist Education of Stephen Miller](https://gen.medium.com/the-white-nationalist-education-of-stephen-miller-3d69f5f19964)
 
 ## Stephen Miller and Richard Spencer Organize White Nationalist Speaker at Duke University
 *Date: 2007-03-01*
@@ -4854,13 +4761,6 @@
 2. [Investigation into the Non-Prosecution Agreement with Jeffrey Epstein (Report)](https://www.justice.gov/opr/page/file/1336471/dl)
 3. [Perversion of Justice: Jeffrey Epstein (topic hub)](https://www.miamiherald.com/topics/jeffrey-epstein)
 4. [Jeffrey Epstein 'Belonged to Intelligence'? (analysis of the claim)](https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/)
-
-## Palantir Gotham Platform Released for Intelligence and Defense Applications
-*Date: 2008-01-01*
-
-1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
-2. [The History of Palantir Technologies: From Visionary Beginnings to a Global Data Powerhouse](https://markets.financialcontent.com/stocks/article/marketminute-2025-3-21-the-history-of-palantir-technologies-from-visionary-beginnings-to-a-global-data-powerhouse)
-3. [Palantir's Relationship With The Intelligence Community Has Been Worse Than You'd Think](https://www.buzzfeednews.com/article/williamalden/palantirs-relationship-with-americas-spies)
 
 ## Palantir Gotham Platform Released for Intelligence and Defense Applications
 *Date: 2008-01-01*
@@ -5151,12 +5051,6 @@
 1. [Enter the Dragnet](https://logicmag.io/commons/enter-the-dragnet/)
 2. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
 
-## LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance
-*Date: 2009-01-01*
-
-1. [Enter the Dragnet](https://logicmag.io/commons/enter-the-dragnet/)
-2. [How the LAPD and Palantir Use Data to Justify Racist Policing](https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/)
-
 ## Harlan Crow Begins Paying Private School Tuition for Thomas's Grandnephew
 *Date: 2009-01-01*
 
@@ -5312,13 +5206,6 @@
 2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
 3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
 
-## In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
-*Date: 2009-07-01*
-
-1. [Recorded Future](https://en.wikipedia.org/wiki/Recorded_Future)
-2. [The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos](https://theintercept.com/2016/04/14/in-undisclosed-cia-investments-social-media-mining-looms-large/)
-3. [Recorded Future bought by MasterCard for $2.65 billion](https://www.bostonglobe.com/2024/09/12/business/mastercard-recorded-future-acquisition-cybersecurity/)
-
 ## ALEC Creates Model Voter ID Legislation Following Obama Election
 *Date: 2009-07-17*
 
@@ -5413,12 +5300,6 @@
 1. [NSO Group - Wikipedia](https://en.wikipedia.org/wiki/NSO_Group)
 2. [The rise and fall of NSO Group](https://forbiddenstories.org/the-rise-and-fall-of-nso-group/)
 3. [Who are NSO Group, the company being sued by Apple?](https://cybermagazine.com/cyber-security/who-are-nso-group-company-being-sued-apple)
-
-## NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
-*Date: 2010-01-01*
-
-1. [Private Donors Supply Spy Gear to Cops](https://www.propublica.org/article/private-donors-supply-spy-gear-to-cops)
-2. [How Palantir Is Taking Over New York City](https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085)
 
 ## NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
 *Date: 2010-01-01*
@@ -5602,11 +5483,6 @@
 
 1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
 
-## Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
-*Date: 2010-06-18*
-
-1. [Palantir Gotham: From 9/11 to AI](https://medium.com/@k3vin.andrews1/palantir-gotham-from-9-11-to-ai-d875d039d55b)
-
 ## DISCLOSE Act Passes House But GOP Blocks Senate Vote on Citizens United Response
 *Date: 2010-06-24*
 
@@ -5734,13 +5610,6 @@
 2. [Could Pam Bondi have prosecuted Jeffrey Epstein?](https://www.yahoo.com/news/could-pam-bondi-prosecuted-jeffrey-120200807.html)
 3. [Julie K. Brown statement on Bondi and Epstein](https://x.com/jkbjournalist/status/1895138335099658275)
 
-## Pam Bondi Serves as Florida AG 2011-2019, Never Prosecutes Epstein Despite Mounting Evidence
-*Date: 2011-01-01*
-
-1. [Bondi Has Been Failing Epstein's Victims for Years](https://www.bloomberg.com/opinion/articles/2025-07-27/bondi-has-been-failing-epstein-s-victims-for-years)
-2. [Could Pam Bondi have prosecuted Jeffrey Epstein?](https://www.yahoo.com/news/could-pam-bondi-prosecuted-jeffrey-120200807.html)
-3. [Julie K. Brown statement on Bondi and Epstein](https://x.com/jkbjournalist/status/1895138335099658275)
-
 ## Maria Butina and Alexander Torshin Begin Systematic NRA Infiltration Operation
 *Date: 2011-01-01*
 
@@ -5842,13 +5711,6 @@
 1. [Deepwater Horizon Oil Spill: Preliminary Assessment of Federal Financial Risks and Claims Processing](https://www.gao.gov/assets/a97170.html)
 2. [Natural Resource Trustees Announce Deepwater Horizon Oil Spill Restoration Agreement](https://www.justice.gov/opa/pr/natural-resource-trustees-deepwater-horizon-oil-spill-announce-1-billion-agreement-fund-early)
 3. [10 Years of NOAA's Work After the Deepwater Horizon Oil Spill: A Timeline](https://www.fisheries.noaa.gov/national/habitat-conservation/10-years-noaas-work-after-deepwater-horizon-oil-spill-timeline)
-
-## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
-*Date: 2011-05-01*
-
-1. [When Pam Bondi Protected Foreclosure Fraudsters](https://prospect.org/justice/2024-11-22-when-pam-bondi-protected-foreclosure-fraudsters/)
-2. [Attorney General Pam Bondi's Motive Questioned in Firing of Mortgage Fraud Investigators](https://flaglerlive.com/pam-bondi-fires-mortgage-attorneys/)
-3. [Report: Trump AG Pick Bondi Frequently Sold Out Her Former Office](https://accountable.us/report-trump-ag-pick-bondi-frequently-sold-out-her-former-office-to-big-corporate-donors-at-publics-expense/)
 
 ## Pam Bondi Fires Foreclosure Fraud Investigators After Campaign Donations from Lender Processing Services
 *Date: 2011-05-01*
@@ -6626,13 +6488,6 @@
 2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
 3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
 
-## Pam Bondi Receives Illegal $25,000 Trump Foundation Donation During Trump University Investigation
-*Date: 2013-09-17*
-
-1. [The Trump Foundation-Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/)
-2. [Donald Trump, Pam Bondi and $25K: Was Trump's donation pay to play?](https://www.politifact.com/article/2016/sep/21/donald-trump-pam-bondi-and-25k-was-it-pay-play/)
-3. [Trump pays IRS a penalty for his foundation violating rules](https://www.washingtonpost.com/news/post-politics/wp/2016/09/01/trump-pays-irs-a-penalty-for-his-foundation-violating-rules-with-gift-to-florida-attorney-general/)
-
 ## Brazil's President Cancels US State Visit Over NSA Spying on Dilma Rousseff
 *Date: 2013-09-17*
 
@@ -7063,13 +6918,6 @@
 2. [Lithuania and Romania Complicit for Hosting CIA Black Sites](https://verfassungsblog.de/lithuania-and-romania-complicit-for-hosting-cia-black-sites/)
 3. [CIA Black Sites](https://en.wikipedia.org/wiki/CIA_black_sites)
 4. [European Complicity in CIA Torture in Black Sites](https://www.amnesty.org/en/latest/news/2020/02/european-complicity-in-cia-torture-in-black-sites/)
-
-## Gamergate Begins: 4chan Harassment Campaign Becomes Political Mobilization Blueprint
-*Date: 2014-08-16*
-
-1. [Here's How Breitbart And Milo Smuggled White Nationalism Into The Mainstream](https://www.buzzfeednews.com/article/josephbernstein/heres-how-breitbart-and-milo-smuggled-white-nationalism)
-2. [How Steve Bannon and Donald Trump Rode a Wave of Rage to the White House](https://www.bloomberg.com/news/articles/2015-10-08/how-steve-bannon-and-donald-trump-rode-a-wave-of-rage-to-the-white-house)
-3. [How Gamergate paved the way for Trump](https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump)
 
 ## Gamergate Begins: 4chan Harassment Campaign Becomes Political Mobilization Blueprint
 *Date: 2014-08-16*
@@ -8268,26 +8116,6 @@
 2. [Enquirer's safe held damaging Trump stories](https://www.cnbc.com/2018/08/23/national-enquirers-safe-held-damaging-trump-stories.html)
 3. [Former National Enquirer publisher testifies about his role in helping Trump in 2016](https://www.npr.org/2024/04/27/1247649199/former-national-enquirer-publisher-testifies-about-his-role-in-helping-trump-in-)
 
-## Russian Oligarch Kerimov Acquires 1% SpaceX Stake Through Heritage Trust
-*Date: 2017-01-01*
-
-1. [The Moscow Times]()
-2. [U.S. Department of Treasury]()
-3. [Bloomberg News]()
-4. [Kyiv Independent]()
-
-## Russian Oligarch Kerimov Acquires 1% SpaceX Stake Through Heritage Trust
-*Date: 2017-01-01*
-
-1. [Bloomberg](Bloomberg)
-2. [U.S. Department of Treasury](U.S. Department of Treasury)
-3. [The Moscow Times](The Moscow Times)
-4. [Kyiv Independent](Kyiv Independent)
-5. [Bloomberg](Bloomberg)
-6. [U.S. Department of Treasury](U.S. Department of Treasury)
-7. [The Moscow Times](The Moscow Times)
-8. [Kyiv Independent](Kyiv Independent)
-
 ## Intelligence Community Assessment Concludes Putin Ordered Campaign to Influence 2016 Election
 *Date: 2017-01-06*
 
@@ -8415,13 +8243,6 @@
 2. [Donald Trump's stock in Dakota Access oil pipeline raises concerns](https://www.cbsnews.com/news/donald-trumps-stock-in-dakota-access-oil-pipeline-raises-concerns/)
 3. [President Trump Signs Executive Order Pushing Energy Transfer Partners' Dakota Pipeline](https://www.dallasobserver.com/news/president-trump-signs-executive-order-pushing-energy-transfer-partners-dakota-pipeline-9116038)
 4. [The Dakota Access Pipeline (DAPL)](https://eelp.law.harvard.edu/tracker/dakota-access-pipeline/)
-
-## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
-*Date: 2017-01-27*
-
-1. [Two Courts Find That, Yes, It Was a Muslim Ban All Along](https://www.aclu.org/news/immigrants-rights/two-courts-find-yes-it-was-muslim-ban-all-along)
-2. [Stephen Miller: A driving force behind the Muslim ban and family separation policy](https://www.splcenter.org/hatewatch/2019/02/25/stephen-miller-driving-force-behind-muslim-ban-and-family-separation-policy)
-3. [Executive Order 13769](https://en.wikipedia.org/wiki/Executive_Order_13769)
 
 ## Stephen Miller's Muslim Ban Creates Chaos at Airports Nationwide, Detains Legal Residents
 *Date: 2017-01-27*
@@ -8664,12 +8485,6 @@
 1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
 2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
 
-## Palmer Luckey Leaves Facebook After Political Donation Controversy
-*Date: 2017-03-30*
-
-1. [Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame](https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html)
-2. [Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey)
-
 ## Judge Curiel Approves $25 Million Trump University Settlement, Victims to Receive 90% Refunds
 *Date: 2017-03-31*
 
@@ -8880,12 +8695,6 @@
 1. [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
 2. [Report: Anduril Industries Business Breakdown & Founding Story](https://research.contrary.com/company/anduril)
 
-## Anduril Industries Founded by Palmer Luckey and Former Palantir Executives
-*Date: 2017-06-16*
-
-1. [Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries)
-2. [Report: Anduril Industries Business Breakdown & Founding Story](https://research.contrary.com/company/anduril)
-
 ## Trump Orders McGahn to Fire Mueller, Triggering Potential "Saturday Night Massacre"
 *Date: 2017-06-17*
 
@@ -8958,12 +8767,6 @@
 1. [Ohio Man Sentenced to Life in Prison for Federal Hate Crimes Related to August 2017 Car Attack at Rally in Charlottesville, Virginia](https://www.justice.gov/archives/opa/pr/ohio-man-sentenced-life-prison-federal-hate-crimes-related-august-2017-car-attack-rally)
 2. [Charlottesville Jury Convicts 'Unite The Right' Protester Who Killed Woman](https://www.npr.org/2018/12/07/674672922/james-alex-fields-unite-the-right-protester-who-killed-heather-heyer-found-guilt)
 3. [Man who drove into Charlottesville protest, killing Heather Heyer, convicted of first-degree murder](https://www.pbs.org/newshour/nation/man-who-drove-into-charlottesville-protest-killing-heather-heyer-convicted-of-first-degree-murder)
-
-## Nick Fuentes Attends Unite the Right Rally in Charlottesville
-*Date: 2017-08-12*
-
-1. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
-2. [White Power Rising: The Making of Nick Fuentes](https://globalextremism.org/post/the-making-of-nick-fuentes/)
 
 ## Nick Fuentes Attends Unite the Right Rally in Charlottesville
 *Date: 2017-08-12*
@@ -10216,13 +10019,6 @@
 2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
 3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
 
-## Pam Bondi Joins Ballard Partners as Lobbyist, Monetizing Government Connections
-*Date: 2019-01-15*
-
-1. [Pam Bondi's Extensive Lobbying Poses Serious Conflict of Interest](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest)
-2. [Pam Bondi Lobbied for Amazon, Uber, and Qatar](https://readsludge.com/2024/11/22/pam-bondi-trumps-attorney-general-pick-lobbied-for-amazon-uber-and-qatar/)
-3. [Former Florida AG Pam Bondi joins D.C. lobbying firm with ties to Trump](https://www.washingtonpost.com/politics/former-florida-attorney-general-pam-bondi-joins-dc-lobbying-firm-with-ties-to-trump/2019/01/22/49bd9e2e-1e5a-11e9-8e21-59a09ff1e2a1_story.html)
-
 ## HHS Inspector General Reveals Thousands More Children Separated Than Disclosed
 *Date: 2019-01-17*
 
@@ -10312,13 +10108,6 @@
 1. [Federal Aviation Administration Grounds Boeing 737 Max 8 And 9 Jets](https://www.npr.org/2019/03/13/703162378/federal-aviation-administration-grounds-boeing-737-max-8-and-9-jets)
 2. [The Grounding of the Boeing 737 MAX](https://www.theregreview.org/2019/03/19/nakahara-grounding-boeing-737-max/)
 3. [US Grounds Boeing 737 Max Planes, Citing Links Between 2 Fatal Crashes](https://www.cnbc.com/2019/03/13/boeing-shares-fall-after-report-says-us-expected-to-ground-737-max-fleet.html)
-
-## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
-*Date: 2019-03-15*
-
-1. [Christchurch shootings: 49 killed in New Zealand mosque attacks](https://www.theguardian.com/world/2019/mar/15/christchurch-shootings-nz-police-several-people-dead)
-2. [New Zealand Mosque Shootings Kill 49](https://www.nytimes.com/2019/03/15/world/asia/new-zealand-shooting.html)
-3. [Platforms struggle with extremist content after shootings](https://www.npr.org/2019/08/05/748420957/facebook-youtube-twitter-say-they-are-removing-content-tied-to-el-paso-shooting)
 
 ## Christchurch Mosque Massacre: 8chan-Radicalized Terrorist Kills 51, Live-Streams Attack
 *Date: 2019-03-15*
@@ -10709,13 +10498,6 @@
 2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
 3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
 
-## Russell Vought Freezes Ukraine Aid on Trump Order, Triggering First Impeachment
-*Date: 2019-07-25*
-
-1. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
-2. [Report sheds light on Ukraine aid freeze at center of Trump's impeachment](https://www.cnbc.com/2019/12/31/report-sheds-light-on-ukraine-aid-freeze-at-center-of-trumps-impeachment.html)
-3. [Freeze on Ukraine aid came from Trump appointee](https://www.cnn.com/2019/10/10/politics/ukraine-aid-omb-political-appointee-congress-impeachment/)
-
 ## Director of National Intelligence Dan Coats Resigns After Repeated Conflicts with Trump Over Russia
 *Date: 2019-07-28*
 
@@ -10723,13 +10505,6 @@
 2. [Intelligence Director Coats to resign next month, Trump says](https://www.washingtonpost.com/world/national-security/intelligence-director-coats-expected-to-resign/2019/07/28/34e361e2-b16b-11e9-8e94-71a35969e4d8_story.html)
 3. [Dan Coats Spoke Truth to Trump. Now He's Out](https://www.govexec.com/defense/2019/07/dan-coats-spoke-truth-trump-now-hes-out/158762/)
 4. [Testimony by intelligence chiefs on global threats highlights differences with president](https://www.washingtonpost.com/world/national-security/intelligence-officials-will-name-biggest-threats-facing-us-during-senate-hearing/2019/01/28/f08dc5cc-2340-11e9-ad53-824486280311_story.html)
-
-## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
-*Date: 2019-08-03*
-
-1. [El Paso Shooting Suspect's Manifesto Echoes Trump's Language](https://www.nytimes.com/2019/08/03/us/patrick-crusius-el-paso-shooter-manifesto.html)
-2. [El Paso shooting suspect said he targeted Mexicans](https://www.washingtonpost.com/national/el-paso-shooting-suspect-told-officers-he-was-targeting-mexicans-police-say/2019/08/09/)
-3. [El Paso Walmart shooting leaves 20 dead](https://www.cnn.com/2019/08/03/us/el-paso-shooting/index.html)
 
 ## El Paso Walmart Massacre: 8chan Terrorist Targets Latinos, "Response to Hispanic Invasion"
 *Date: 2019-08-03*
@@ -11021,20 +10796,6 @@
 2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
 3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
 
-## Groyper War Erupts: Far-Right Activists Disrupt Trump Jr. Event at UCLA
-*Date: 2019-11-10*
-
-1. [Groypers](https://en.wikipedia.org/wiki/Groypers)
-2. [How Donald Trump Jr. Landed Smack in the Middle of a Right-Wing Civil War](https://www.thedailybeast.com/how-donald-trump-jr-landed-smack-in-the-middle-of-a-right-wing-civil-war)
-3. [From Alt-Right To Groyper](https://irehr.org/reports/alt-right-to-groyper/)
-
-## SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites
-*Date: 2019-11-12*
-
-1. [Stephen Miller's Affinity for White Nationalism Revealed in Leaked Emails](https://www.splcenter.org/hatewatch/2019/11/12/stephen-millers-affinity-white-nationalism-revealed-leaked-emails)
-2. [Leaked Stephen Miller emails suggest White House aide promoted white nationalism](https://www.washingtonpost.com/politics/2019/11/12/leaked-stephen-miller-emails-suggest-trumps-point-man-immigration-promoted-white-nationalism/)
-3. [Stephen Miller And White Nationalism](https://www.npr.org/2019/11/14/779208233/stephen-miller-and-white-nationalism)
-
 ## SPLC Exposes Stephen Miller White Nationalist Emails: 900 Messages Promoting Racist Literature and Hate Sites
 *Date: 2019-11-12*
 
@@ -11269,12 +11030,6 @@
 1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
 2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
 
-## YouTube Terminates Nick Fuentes Channel for Hate Speech Violations
-*Date: 2020-02-14*
-
-1. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
-2. [Nick Fuentes](https://www.splcenter.org/fighting-hate/extremist-files/individual/nick-fuentes)
-
 ## Larry Ellison Hosts Trump Fundraiser at California Estate, Raises $7 Million
 *Date: 2020-02-19*
 
@@ -11326,13 +11081,6 @@
 2. [Federal Reserve Vice Chair Richard Clarida Resigns After Trading Scandal](https://www.newsweek.com/federal-reserve-vice-chair-richard-clarida-becomes-third-resign-after-trading-scandal-1667763)
 3. [Fed Watchdog Clears Powell, Clarida in Trading Scandal Probe](https://www.bloomberg.com/news/articles/2022-07-14/fed-watchdog-clears-powell-clarida-in-trading-scandal-probe)
 4. [Fed Vice Chair Clarida Resigns Amid Trading Scandal](https://krdo.com/news/ap-national-news/2022/01/10/fed-vice-chair-richard-clarida-resigns-amid-trading-scandal-2/)
-
-## First AFPAC Conference Launches as White Nationalist Alternative to CPAC
-*Date: 2020-02-28*
-
-1. [America First Political Action Conference](https://en.wikipedia.org/wiki/America_First_Political_Action_Conference)
-2. [Far-Right Extremists Gather in Florida for CPAC Spinoff Alongside Sitting Congressman](https://www.splcenter.org/resources/hatewatch/far-right-extremists-gather-florida-cpac-spinoff-alongside-sitting-congressman)
-3. [AFPAC III: Elected Officials Support White Supremacist Event](https://www.adl.org/resources/article/afpac-iii-elected-officials-support-white-supremacist-event)
 
 ## First AFPAC Conference Launches as White Nationalist Alternative to CPAC
 *Date: 2020-02-28*
@@ -11575,12 +11323,6 @@
 1. [German payments firm Wirecard files for insolvency after revealing $2 billion accounting black hole](https://www.cnbc.com/2020/06/25/german-payments-company-wirecard-files-for-insolvency.html)
 2. [What the Wirecard scandal reveals about the state of German financial supervision](https://blogs.lse.ac.uk/europpblog/2020/11/19/what-the-wirecard-scandal-reveals-about-the-state-of-german-financial-supervision/)
 3. [Credit Suisse collapse probe slams banking regulator](https://www.france24.com/en/live-news/20241220-credit-suisse-collapse-probe-slams-banking-regulator)
-
-## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
-*Date: 2020-07-01*
-
-1. [Contract to Anduril Industries, Inc.](https://www.usaspending.gov/award/CONT_AWD_70B02C21F00000444_7014_70B02C20D00000019_7014)
-2. [Anduril raises $200m, wins contract for autonomous surveillance towers along US-Mexico border](https://aibusiness.com/verticals/anduril-raises-200m-wins-contract-for-autonomous-surveillance-towers-along-us-mexico-border)
 
 ## CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
 *Date: 2020-07-01*
@@ -12185,20 +11927,6 @@
 2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
 3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
 
-## Stephen Miller Writes Trump's January 6 Ellipse Speech, Adds Language About Pence Overturning Election
-*Date: 2021-01-06*
-
-1. [Donald Trump adviser Stephen Miller grilled about rally that preceded Jan. 6 insurrection](https://www.pbs.org/newshour/politics/donald-trump-adviser-stephen-miller-grilled-about-rally-that-preceded-jan-6-insurrection)
-2. [Top Trump adviser Stephen Miller testifies to January 6 federal grand jury](https://www.cnn.com/2022/11/29/politics/stephen-miller-testifies-january-6-federal-grand-jury-trump/index.html)
-3. [Let's not overlook Stephen Miller's Role in Jan. 6](https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/)
-
-## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
-*Date: 2021-01-06*
-
-1. [Nick Fuentes Faces Scrutiny Following Jan. 6 Subpoena](https://www.splcenter.org/resources/hatewatch/nick-fuentes-faces-scrutiny-following-jan-6-subpoena)
-2. [Key January 6th Instigator, Nick Fuentes, Reinstatement on Twitter/X: The Implications](https://www.justsecurity.org/95385/twitter-x-fuentes-role-january-6th-attack/)
-3. [Nicholas J. Fuentes: Five Things to Know](https://www.adl.org/resources/blog/nicholas-j-fuentes-five-things-know)
-
 ## Nick Fuentes Rallies Supporters Outside Capitol During January 6 Insurrection
 *Date: 2021-01-06*
 
@@ -12273,13 +12001,6 @@
 1. [Geolitica](https://en.wikipedia.org/wiki/Geolitica)
 2. [Politicians Move to Limit Predictive Policing After Years of Controversial Failures](https://www.techpolicy.press/politicians-move-to-limit-predictive-policing-after-years-of-controversial-failures/)
 3. [Predictive Policing Software Terrible At Predicting Crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
-
-## Russell Vought Founds Center for Renewing America, Christian Nationalist Policy Shop for Trump Return
-*Date: 2021-01-15*
-
-1. [The Theocratic Blueprint for Trump's Next Term](https://www.thenation.com/article/society/russell-vought-center-renewing-america-christian-nationalism/)
-2. [Russell Vought: The gung-ho Christian nationalist who helps Trump be Trump](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)
-3. [OMB's Russell Vought, the Christian 'nation-ist' driving Project 2025 and DOGE](https://religionnews.com/2025/06/23/ombs-russell-vought-the-christian-nation-ist-driving-project-2025-and-dogeruss-vought/)
 
 ## Russell Vought Founds Center for Renewing America, Christian Nationalist Policy Shop for Trump Return
 *Date: 2021-01-15*
@@ -12466,13 +12187,6 @@
 2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
 3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
 
-## Stephen Miller Founds America First Legal to Challenge Biden Administration and Advance White Nationalist Agenda
-*Date: 2021-04-06*
-
-1. [America First Legal](https://en.wikipedia.org/wiki/America_First_Legal)
-2. [Stephen Miller's America First Legal beats Biden in court](https://www.washingtonpost.com/politics/2022/12/12/stephen-miller-america-first-legal-biden-race-policies/)
-3. [How Stephen Miller Is Using America First Legal To Assail Voting Rights](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/)
-
 ## Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign
 *Date: 2021-04-09*
 
@@ -12564,13 +12278,6 @@
 2. [Prosecutors allege 15-year tax fraud scheme as Trump Organization arraigned](https://www.washingtonpost.com/politics/trump-business-weisselberg-indictments/2021/07/01/e2b774a0-da15-11eb-bb9e-70fda8c37057_story.html)
 3. [Trump Organization indictment charges scheme to dodge taxes](https://www.cnbc.com/amp/2021/07/01/trump-organization-cfo-allen-weisselberg-pleads-not-guilty-to-tax-crimes.html)
 4. [Trump Organization charges](https://www.cnn.com/politics/live-news/trump-organization-charges-07-01-21/index.html)
-
-## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
-*Date: 2021-07-01*
-
-1. [Twitter Deplatforms White Nationalist Nick Fuentes](https://jewishjournal.com/news/338588/twitter-deplatforms-white-nationalist-nick-fuentes/)
-2. [Nick Fuentes](https://en.wikipedia.org/wiki/Nick_Fuentes)
-3. [As Big Tech Deplatforms, Extremists Find New Alt-Tech Ways To Talk Online](https://www.npr.org/2021/03/16/972519460/across-the-internet-a-game-of-whac-a-mole-is-underway-to-root-out-extremism)
 
 ## Twitter Permanently Suspends Nick Fuentes, Completing Major Platform Deplatforming
 *Date: 2021-07-01*
@@ -12805,12 +12512,6 @@
 1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 
-## In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
-*Date: 2021-11-01*
-
-1. [As the SEC Cracks Down on Shady SPACs, CIA Officials Get In on the Action](https://theintercept.com/2022/05/05/cia-venture-capital-inqtel-spac/)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-
 ## Pfizer Reports $22 Billion Profit on COVID-19 Vaccine, One of Most Profitable Drugs in History
 *Date: 2021-11-02*
 
@@ -12927,12 +12628,6 @@
 4. [Scientists, Doctors Call on Spotify to Implement Misinformation Policy Over Claims on Joe Rogan Show](https://www.techpolicy.press/scientists-doctors-call-on-spotify-to-implement-misinformation-policy-over-claims-on-joe-rogan-show/)
 5. [What the Joe Rogan podcast controversy says about the online misinformation ecosystem](https://www.npr.org/2022/01/21/1074442185/joe-rogan-doctor-covid-podcast-spotify-misinformation)
 6. [Fighting Misinformation With Science Journalism](https://www.npr.org/2022/03/09/1085425659/fighting-misinformation-with-science-journalism)
-
-## Anduril AI-Powered Drones Deployed to Ukraine Since 2022
-*Date: 2022-01-01*
-
-1. [Ukraine's Forces Secretly Use American Ghost-X UAVs with Artificial Intelligence Since 2022](https://en.defence-ua.com/analysis/ukraines_forces_secretly_use_american_ghost_x_uavs_with_artificial_intelligence_since_2022-12530.html)
-2. ['Battle-tested in Ukraine' — How US drone makers turned Ukraine into a tagline to sell west](https://kyivindependent.com/battle-tested-in-ukraine-how-us-drone-makers-turned-ukraine-into-a-tagline-to-sell-west/)
 
 ## Anduril AI-Powered Drones Deployed to Ukraine Since 2022
 *Date: 2022-01-01*
@@ -13376,16 +13071,8 @@
 ## Musk Begins Regular Contact with Vladimir Putin
 *Date: 2022-10-01*
 
-1. [Wall Street Journal](Wall Street Journal)
-2. [PBS NewsHour](PBS NewsHour)
-3. [Newsweek](Newsweek)
-4. [ABC News](ABC News)
-5. [CNBC](CNBC)
-6. [Wall Street Journal](Wall Street Journal)
-7. [PBS NewsHour](PBS NewsHour)
-8. [Newsweek](Newsweek)
-9. [ABC News](ABC News)
-10. [CNBC](CNBC)
+1. [Elon Musk's secret talks with Putin ramped up during his Twitter takeover](https://www.cnbc.com/2024/10/25/elon-musk-and-putin-talks-ramped-up-during-twitter-takeover-wsj.html)
+2. [Elon Musk and Putin have regular contact](https://www.axios.com/2024/10/25/elon-musk-putin-trump-russia-ukraine-war)
 
 ## Elon Musk begins regular contact with Vladimir Putin
 *Date: 2022-10-01*
@@ -13466,13 +13153,6 @@
 1. [DOJ names Jack Smith as special counsel to oversee Trump criminal investigations](https://www.npr.org/2022/11/18/1137736663/special-counsel-trump-justice-department-jan-6-mar-a-lago)
 2. [Attorney General Merrick Garland names Jack Smith special counsel in Trump criminal probes](https://www.cnbc.com/2022/11/18/attorney-general-merrick-garland-to-name-special-counsel-in-trump-criminal-probe-report-says.html)
 3. [Merrick Garland names special counsel for Trump, Jan. 6 investigations](https://www.washingtonpost.com/national-security/2022/11/18/justice-trump-garland-special-counsel/)
-
-## Trump Hosts White Nationalist Nick Fuentes and Kanye West at Mar-a-Lago Dinner
-*Date: 2022-11-22*
-
-1. [The inside story of Trump's explosive dinner with Ye and Nick Fuentes](https://www.nbcnews.com/politics/donald-trump/story-trumps-explosive-dinner-ye-nick-fuentes-rcna59010)
-2. [Trump hosted Holocaust denier at Mar-a-Lago estate](https://www.cnn.com/2022/11/25/politics/trump-kanye-west-nick-fuentes-mar-a-lago/index.html)
-3. [Republican leaders denounce Trump's dinner with white nationalist Nick Fuentes](https://www.npr.org/2022/11/29/1139742844/republicans-denounce-trump-dinner-white-supremacist-nick-fuentes)
 
 ## Trump Hosts White Nationalist Nick Fuentes and Kanye West at Mar-a-Lago Dinner
 *Date: 2022-11-22*
@@ -14547,11 +14227,9 @@
 ## State Department Develops Advanced Internal Resistance and Preservation Protocols
 *Date: 2024-03-15*
 
-1. [State Department Institutional Resilience Report](https://example.com)
-2. [FY 2025 Budget: Diplomatic Engagement and Institutional Preservation](https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf)
-3. [Advisory Committee on Historical Diplomatic Documentation - Meetings Notice](https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for)
-4. [Foreign Service Reorganization and Strategic Cohesion Efforts](https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/)
-5. [Dissent Channel: A Mechanism of Diplomatic Criticism and Preservation]()
+1. [FY 2025 Budget: Diplomatic Engagement and Institutional Preservation](https://www.state.gov/wp-content/uploads/2024/03/FY-2025-Congressional-Budget-Justification-Department-of-State-Foreign-Operations-and-Related-Programs.pdf)
+2. [Advisory Committee on Historical Diplomatic Documentation](https://www.federalregister.gov/documents/2024/02/29/2024-04279/advisory-committee-on-historical-diplomatic-documentation-notice-of-closed-and-open-meetings-for)
+3. [Foreign Service Reorganization and Strategic Cohesion Efforts](https://federalnewsnetwork.com/reorganization/2025/04/foreign-service-faces-overhaul-in-vetting-deployment-of-career-diplomats-under-draft-executive-order/)
 
 ## SCOTUS allows Texas SB 4 to take effect temporarily
 *Date: 2024-03-19*
@@ -14648,12 +14326,6 @@
 2. [U.S. government to pay $138.7M over FBI's failure to investigate Larry Nassar allegations](https://www.pbs.org/newshour/amp/nation/u-s-government-to-pay-138-7m-settlement-over-fbis-botched-larry-nassar-assault-allegations)
 3. [Justice Department settles claims on USA Gymnastics investigation](https://rollcall.com/2024/04/23/justice-department-settles-claims-on-usa-gymnastics-investigation/)
 4. [Larry Nassar case: DOJ declines for third time to charge former FBI agents who botched inquiry](https://www.cnn.com/2022/05/26/politics/larry-nassar-agents-fbi-justice-department-declines-charges/index.html)
-
-## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
-*Date: 2024-04-24*
-
-1. [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
-2. [Anduril and General Atomics to Develop New Collaborative Combat Aircraft for Air Force](https://www.airandspaceforces.com/cca-contract-winners-to-be-announced-imminently/)
 
 ## Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
 *Date: 2024-04-24*
@@ -15045,12 +14717,6 @@
 1. [Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
 2. [Anduril chooses Ohio for $1B manufacturing facility](https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/)
 
-## Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio
-*Date: 2024-08-08*
-
-1. [Anduril Building Arsenal-1 Hyperscale Manufacturing Facility in Ohio](https://www.anduril.com/article/anduril-building-arsenal-1-hyperscale-manufacturing-facility-in-ohio/)
-2. [Anduril chooses Ohio for $1B manufacturing facility](https://www.manufacturingdive.com/news/anduril-industries-columbus-ohio-1-billion-arsenal-1-hyperscale-facility/737780/)
-
 ## Oracle Agrees to $115 Million Settlement Over Mass Surveillance Data Brokerage
 *Date: 2024-08-09*
 
@@ -15122,12 +14788,6 @@
 1. [U.S. AI Safety Institute Signs Agreements Regarding AI Safety Research](https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research)
 2. [OpenAI, Anthropic to Collaborate with NIST on AI Safety Testing](https://www.nextgov.com/artificial-intelligence/2024/08/openai-anthropic-collab-nist-ai-safety-testing/399175/)
 3. [OpenAI and Anthropic Agree to Let U.S. AI Safety Institute Test Models](https://www.cnbc.com/2024/08/29/openai-and-anthropic-agree-to-let-us-ai-safety-institute-test-models.html)
-
-## Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
-*Date: 2024-09-01*
-
-1. [Anduril Deploys 300th Autonomous Surveillance Tower (AST), Advancing Capability for Border Security](https://www.anduril.com/article/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security/)
-2. [CBP Is Expanding Its Surveillance Tower Program at the U.S.-Mexico Border–And We're Mapping It](https://www.eff.org/deeplinks/2023/03/cbp-expanding-its-surveillance-tower-program-us-mexico-border-and-were-mapping-it)
 
 ## Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
 *Date: 2024-09-01*
@@ -15438,12 +15098,6 @@
 1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
 2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
 
-## OpenAI Partners with Anduril to Integrate AI into Weapons Systems
-*Date: 2024-12-04*
-
-1. [We saw a demo of the new AI system powering Anduril's vision for war](https://www.technologyreview.com/2024/12/10/1108354/we-saw-a-demo-of-the-new-ai-system-powering-andurils-vision-for-war/)
-2. [Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare](https://www.cbsnews.com/news/palmer-luckey-ai-powered-autonomous-weapons-future-of-warfare-60-minutes-transcript/)
-
 ## UnitedHealthcare CEO Brian Thompson Assassinated in Manhattan, Exposing Public Rage at Health Insurance Industry
 *Date: 2024-12-04*
 
@@ -15562,13 +15216,9 @@
 ## Grok AI Demonstrates Major Safety and Misinformation Vulnerabilities
 *Date: 2025-01-15*
 
-1. [Elon Musk released xAIs Grok 4 without any safety reports—despite calling AI more dangerous than nukes](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
-2. [OpenAI and Anthropic researchers decry reckless safety culture at Elon Musks xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
+1. [Elon Musk released xAIs Grok 4 without any safety reports](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
+2. [OpenAI and Anthropic researchers decry reckless safety culture at xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
 3. [Why xAI Loses US Deal After Grok Sparks Political AI Scandal](https://aimagazine.com/news/revealed-how-groks-antisemitism-lost-xai-a-key-us-contract)
-4. [New York Times](New York Times)
-5. [Reuters](Reuters)
-6. [New York Times](New York Times)
-7. [Reuters](Reuters)
 
 ## Crypto firms pour $18 million into Trump inauguration
 *Date: 2025-01-17*
@@ -15711,10 +15361,9 @@
 ## J.D. Vance Inaugurated as Vice President
 *Date: 2025-01-20*
 
-1. [NBC News: 'WATCH: JD Vance is sworn in as vice president']()
-2. [CBS News: 'Here's who is swearing in Trump and Vance at the 2025 inauguration']()
-3. [The Hill: 'Who was sitting behind JD Vance on Inauguration Day?']()
-4. [California Governor's Office: Official inaugural statement]()
+1. [JD Vance sworn in as vice president](https://www.nbcnews.com/politics/2025-inauguration/live-blog/trump-inauguration-live-updates-rcna185557)
+2. [Who is swearing in Trump and Vance at the 2025 inauguration](https://www.cbsnews.com/news/trump-vance-inauguration-2025-who-swearing-in/)
+3. [JD Vance becomes third-youngest Vice President in US history](https://thehill.com/homenews/administration/5098234-jd-vance-youngest-vice-president/)
 
 ## J.D. Vance Inaugurated as 50th Vice President
 *Date: 2025-01-20*
@@ -15852,14 +15501,6 @@
 1. [Lina Khan](https://en.wikipedia.org/wiki/Lina_Khan)
 2. [Trump's pick to replace Lina Khan as FTC chair pledges to take on 'Big Tech' and 'wokeness'](https://qz.com/trump-ftc-chair-lina-khan-ferguson-big-tech-meta-google-1851718273)
 3. [Changes in the Makeup of the FTC May Impact Antitrust Policy](https://www.mayerbrown.com/en/insights/publications/2025/03/changes-in-the-makeup-of-the-ftc-may-impact-antitrust-policy)
-
-## Coordinated Federal Workforce Purge: Schedule F and DOJ Personnel Removal
-*Date: 2025-01-20*
-
-1. [Trump administration fires DOJ officials who worked on criminal investigations of the president](https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512)
-2. [How Trump and Musk have shaken the federal workforce](https://www.cnn.com/2025/02/07/politics/trump-musk-federal-workforce/index.html)
-3. [Donald Trump's plans to politicize federal workforce raise concerns](https://thehill.com/homenews/administration/4993221-trump-federal-workforce-overhaul-schedule-f/amp/)
-4. [Trump's Schedule F plan, explained](https://protectdemocracy.org/work/trumps-schedule-f-plan-explained/)
 
 ## National emergency declared at U.S. southern border
 *Date: 2025-01-21*
@@ -16262,9 +15903,9 @@
 ## Schedule F Implementation Targets 50,000 Federal Workers
 *Date: 2025-02-01*
 
-1. [Federal News Network]()
-2. [Wikipedia]()
-3. [Project 2025 analysis]()
+1. [Trump signs executive order to revive Schedule F](https://federalnewsnetwork.com/workforce/2025/01/trump-signs-executive-order-to-revive-schedule-f/)
+2. [Schedule F executive order explained](https://www.govexec.com/workforce/2025/01/schedule-f-executive-order-explained/)
+3. [Project 2025 federal workforce proposals](https://www.brookings.edu/articles/project-2025-federal-workforce-proposals/)
 
 ## Schedule F Implementation Targets 50,000 Federal Workers
 *Date: 2025-02-01*
@@ -16458,13 +16099,6 @@
 1. [Zeldin announces 65% EPA workforce reduction, terminates climate funding](https://insideclimatenews.org/news/10022025/zeldin-epa-cuts-climate-grants/)
 2. [EPA chief plans to eliminate scientific research division](https://www.theguardian.com/environment/2025/feb/11/epa-zeldin-workforce-science-cuts)
 3. [EPA Seeks to Reduce Workforce and Budget to Reagan-Era Levels](https://www.npr.org/2025/02/10/nx-s1-5280155/lee-zeldin-epa-workforce-cuts)
-
-## Stephen Miller Emerges as "Prime Minister" with Unprecedented Power Across All Policy
-*Date: 2025-02-10*
-
-1. [Stephen Miller is more powerful in the White House than ever](https://www.cnn.com/2025/02/10/politics/stephen-miller-white-house/index.html)
-2. [Stephen Miller re-emerges as an 'untouchable' force in Trump's White House](https://www.nbcnews.com/politics/trump-administration/stephen-miller-untouchable-force-trump-white-house-rcna206180)
-3. [How White House adviser Stephen Miller is running Trump's D.C. takeover](https://www.washingtonpost.com/politics/2025/09/05/trump-dc-takeover-stephen-miller-white-house/)
 
 ## Stephen Miller Emerges as "Prime Minister" with Unprecedented Power Across All Policy
 *Date: 2025-02-10*
@@ -17117,13 +16751,6 @@
 1. [Trump crypto revenue analysis](https://www.ft.com/content/trump-crypto-revenue)
 2. [Trump's World Liberty Financial crypto project says it sold $550 million in tokens](https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html)
 3. [Trump family's net worth has increased by $2.9 billion thanks to crypto investments, new report says](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/)
-
-## Project 2025 Authors Fill Key Administration Positions
-*Date: 2025-03-01*
-
-1. [The key Project 2025 authors now staffing the Trump administration](https://www.nbcnews.com/politics/trump-administration/key-project-2025-authors-now-staffing-trump-administration-rcna195107)
-2. [Which Donald Trump Appointees Have Project 2025 Links?](https://www.newsweek.com/donald-trump-project-2025-cabinet-picks-1989565)
-3. [Trump names Project 2025 architect Russell Vought to key White House role](https://www.pbs.org/newshour/show/trump-names-project-2025-architect-russell-vought-to-key-white-house-role)
 
 ## Trump Establishes Strategic Crypto Reserve, Expanding U.S. Digital Asset Strategy
 *Date: 2025-03-02*
@@ -18035,13 +17662,6 @@
 2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
 3. [About In-Q-Tel](https://www.iqt.org/about)
 
-## In-Q-Tel Reaches 800th Investment Milestone, Expanding Into AI and Quantum Computing
-*Date: 2025-04-03*
-
-1. [In-Q-Tel, the CIA's venture capital arm, reaches 800th investment](https://www.washingtontimes.com/news/2025/apr/3/q-tel-cias-venture-capital-arm-reaches-800th-investment/)
-2. [Inside the CIA-backed venture fund that helped launch Palantir and Google Earth](https://fortune.com/2025/07/29/in-q-tel-cia-venture-capital-palantir-anduril/)
-3. [About In-Q-Tel](https://www.iqt.org/about)
-
 ## Law firm Kirkland & Ellis in talks with White House to avoid executive order
 *Date: 2025-04-03*
 
@@ -18601,9 +18221,8 @@
 *Date: 2025-04-24*
 
 1. [SpaceX Might Invest $2 Billion in Musk's xAI](https://techcrunch.com/2025/07/13/elon-musks-spacex-might-invest-2-billion-in-musks-xai/)
-2. [Musk Inner Circle Selling Private Company Access]()
-3. [Elon Musk's SpaceX Share Sale to Value Company at About $400 Billion](https://www.bloomberg.com/news/articles/2025-07-15/musk-spacex-share-sale-to-value-company-at-about-400-billion)
-4. [Most of Elon Musk's fortune now comes from his private companies](https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html)
+2. [Elon Musk's SpaceX Share Sale to Value Company at About $400 Billion](https://www.bloomberg.com/news/articles/2025-07-15/musk-spacex-share-sale-to-value-company-at-about-400-billion)
+3. [Most of Elon Musk's fortune now comes from his private companies](https://www.cnbc.com/2025/09/11/elon-musk-fortune-private-companies.html)
 
 ## Indicted 'Bitcoin Jesus' Pays Roger Stone $600,000 to Lobby Against Tax Charges
 *Date: 2025-04-24*
@@ -19536,11 +19155,9 @@
 ## Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan
 *Date: 2025-06-01*
 
-1. [ProPublica: Russell Vought's Project 2025 Policy Statements]()
-2. [AP News: White House Budget Office Federal Workforce Reduction]()
-3. [Official OMB/OPM Guidance on Agency Workforce Reductions]()
-4. [Federal News Network]()
-5. [Project 2025 Implementation analysis]()
+1. [Federal workforce shrinks under Trump DOGE cuts](https://federalnewsnetwork.com/workforce/2025/06/federal-workforce-shrinks-under-trump-doge-cuts/)
+2. [Russell Vought leads Project 2025 implementation](https://www.propublica.org/article/russell-vought-omb-project-2025)
+3. [Trump workforce reduction targets 100,000 jobs](https://www.govexec.com/workforce/2025/06/trump-workforce-reduction-targets/)
 
 ## Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan
 *Date: 2025-06-01*
@@ -19604,12 +19221,6 @@
 2. [US President Donald Trump's Social Media Firm Truth Social to Launch Spot BTC ETF](https://www.coindesk.com/markets/2025/06/03/us-president-donald-trumps-social-media-firm-truth-social-to-launch-spot-bitcoin-etf)
 3. [Trump Media Inches Closer to 'Truth Social Bitcoin ETF' After Filing](https://www.bloomberg.com/news/articles/2025-06-03/trump-tied-truth-social-bitcoin-etf-inches-closer-after-filing)
 4. [Day 5: Crypto Has Made Trump $1.2 BILLION Richer – and Counting](https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413677)
-
-## Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
-*Date: 2025-06-05*
-
-1. [Anduril raises funding at $30.5 billion valuation in round led by Founders Fund, chairman says](https://www.cnbc.com/2025/06/05/anduril-valuation-founders-fund.html)
-2. [Anduril raises $2.5B at $30.5B valuation led by Founders Fund](https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/)
 
 ## Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
 *Date: 2025-06-05*
@@ -20261,9 +19872,9 @@
 ## Climate Programs Dismantled - NOAA Faces 27% Budget Cut, Hundreds of Jobs Eliminated
 *Date: 2025-07-15*
 
-1. [PBS NewsHour: 'As NOAA braces for more cuts, scientists say public safety is at risk']()
-2. [Environmental Defense Fund: 'Reports: Trump Administration Plans Detrimental Cuts to NOAA Climate Research']()
-3. [Project 2025 Implementation analysis]()
+1. [As NOAA braces for more cuts, scientists say public safety is at risk](https://www.pbs.org/newshour/politics/as-noaa-braces-for-more-cuts-scientists-say-public-safety-is-at-risk)
+2. [Trump Administration Plans Detrimental Cuts to NOAA Climate Research](https://www.edf.org/media/reports-trump-administration-plans-detrimental-cuts-noaa-climate-research)
+3. [NOAA budget cuts threaten weather forecasting](https://www.washingtonpost.com/weather/2025/07/15/noaa-budget-cuts-weather-forecasting/)
 
 ## Climate Programs Dismantled - NOAA Faces 27% Budget Cut
 *Date: 2025-07-15*
@@ -20921,13 +20532,6 @@
 2. [DOJ fires sandwich thrower after he's charged with assaulting officer in Washington, DC](https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html)
 3. [Fired DOJ employee could face prison for throwing sandwich at officers](https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/)
 
-## DOJ Employee Sean Dunn Fired After Throwing Sandwich at Federal Agent in Protest
-*Date: 2025-08-10*
-
-1. [Justice Dept. fires, charges staffer who admits throwing sandwich at federal agent deployed in D.C.](https://www.cbsnews.com/news/justice-dept-fires-charges-staffer-threw-sandwich-federal-agent-in-d-c/)
-2. [DOJ fires sandwich thrower after he's charged with assaulting officer in Washington, DC](https://www.cnbc.com/2025/08/14/sandwich-washington-doj-subway-bondi-.html)
-3. [Fired DOJ employee could face prison for throwing sandwich at officers](https://www.washingtonpost.com/dc-md-va/2025/08/14/sandwich-thrown-federal-enforcement-doj/)
-
 ## About 120 FBI agents assigned to patrol Washington, D.C. streets
 *Date: 2025-08-10*
 
@@ -21032,9 +20636,9 @@
 ## Education Department Faces 50% Workforce Reduction
 *Date: 2025-08-15*
 
-1. [Food Research & Action Center]()
-2. [ACLU]()
-3. [NPR]()
+1. [Education Department faces 50% workforce cuts under Trump](https://www.npr.org/2025/08/15/education-department-workforce-cuts)
+2. [Linda McMahon leads Education Department dismantling](https://www.washingtonpost.com/education/2025/08/15/linda-mcmahon-education-department/)
+3. [ACLU challenges Education Department cuts](https://www.aclu.org/press-releases/aclu-challenges-education-department-cuts)
 
 ## Education Department Faces 50% Workforce Reduction
 *Date: 2025-08-15*
@@ -21321,16 +20925,6 @@
 2. [Trump Media Partners With Crypto.com on Crypto Treasury](https://www.bloomberg.com/news/articles/2025-08-26/trump-media-partners-with-crypto-com-on-crypto-treasury-company)
 3. [Trump Media (DJT), Crypto.com to Build $6.4B CRO Treasury Firm, CRO Token Jumps 25%](https://www.coindesk.com/business/2025/08/26/trump-media-crypto-com-to-build-usd6-4b-cro-treasury-firm-cro-jumps-25)
 
-## Whistleblower Reveals DOGE's Alleged Unauthorized Copy of Social Security NUMIDENT Database
-*Date: 2025-08-26*
-
-1. [Whistleblower says DOGE put Social Security numbers at risk](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
-2. [DOGE uploaded live copy of Social Security database to 'vulnerable' cloud server, says whistleblower](https://techcrunch.com/2025/08/26/doge-uploaded-live-copy-of-social-security-database-to-vulnerable-cloud-server-says-whistleblower/)
-3. [DOGE put Social Security data in 'vulnerable cloud environment': Whistleblower](https://thehill.com/homenews/administration/5471062-cloud-environment-security-lapses/)
-4. [DOGE put Social Security numbers and other data on a risky server, whistleblower alleges](https://www.nbcnews.com/politics/doge/doge-put-social-security-numbers-data-risky-server-whistleblower-alleg-rcna227259)
-5. [SSA asked to explain response to DOGE whistleblower](https://www.theregister.com/2025/09/11/ssa_doge_whistleblower_demand)
-6. [DOGE employees uploaded Social Security database to 'vulnerable' cloud, agency whistleblower says](https://fedscoop.com/doge-social-security-database-whistleblower-cloud-environment-data-vulnerabilities/)
-
 ## Trump Convenes Oval Office Meeting on Gaza Development With Jared Kushner's Business Interests Central
 *Date: 2025-08-27*
 
@@ -21451,6 +21045,12 @@
 
 1. [We're Suing ICE for Its $2 Million Spyware Contract](https://www.404media.co/were-suing-ice-for-its-2-million-spyware-contract/)
 2. [ICE reactivates contract with spyware maker Paragon](https://techcrunch.com/2025/09/02/ice-reactivates-contract-with-spyware-maker-paragon/)
+
+## Rep. Thomas Massie Files Discharge Petition to Force House Vote on Epstein Files Transparency Act
+*Date: 2025-09-02*
+
+1. [Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act)
+2. [After a 50-day wait, Arizona Rep. Adelita Grijalva is sworn into Congress](https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in)
 
 ## Republican Political Committees Spend Over $931,000 at Trump Properties Since Inauguration
 *Date: 2025-09-02*
@@ -22107,6 +21707,12 @@
 
 1. [An American Friend: The Trump-Appointed Diplomat Accused of Shielding El Salvador's President From Law Enforcement](https://www.propublica.org/article/ambassador-ronald-johnson-nayib-bukele-trump-el-salvador)
 
+## Trump Notifies Congress of 'Non-International Armed Conflict' with 'Unlawful Combatants' in Caribbean
+*Date: 2025-10-01*
+
+1. [Timeline of Vessel Strikes and Related Actions](https://www.justsecurity.org/124002/timeline-vessel-strikes-related-actions/)
+2. [Operation Southern Spear: US Military Campaign Targeting Venezuela](https://www.cfr.org/article/operation-southern-spear-us-military-campaign-targeting-venezuela)
+
 ## White House Defunds Council of Inspectors General, Disabling Federal Oversight
 *Date: 2025-10-01*
 
@@ -22132,6 +21738,13 @@
 *Date: 2025-10-04*
 
 1. [More turmoil at Virginia US attorney's office following Comey indictment: 2 top prosecutors fired](https://abcnews.go.com/Politics/virginia-us-attorneys-office-turmoil-comey-indictment-prosecutors/story?id=125368942)
+
+## Border Patrol Agent Shoots US Citizen Marimar Martinez Five Times in Chicago During 'Operation Midway Blitz'
+*Date: 2025-10-05*
+
+1. [Chicago Woman Shot by Border Patrol Reacts to Minneapolis ICE Killing](https://theintercept.com/2026/01/07/chicago-shooting-ice-killing-minneapolis/)
+2. [Before Feds Killed Minnesota Mom, They Killed a Man in Chicago and Shot a Woman 5 Times](https://blockclubchicago.org/2026/01/08/before-border-patrol-killed-minnesota-mom-they-killed-a-man-in-chicago-and-shot-a-woman-5-times/)
+3. [Feds Dismiss Charges Against Woman Shot by Border Patrol Agent in Brighton Park](https://news.wttw.com/2025/11/20/feds-dismiss-charges-against-woman-shot-border-patrol-agent-brighton-park)
 
 ## Private Prison Company CoreCivic Secures $300 Million in New ICE Contracts
 *Date: 2025-10-05*
@@ -22448,14 +22061,6 @@
 3. [Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James](https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james)
 4. [Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary](https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary)
 
-## Two Federal Prosecutors Fired After Refusing to Bring Charges Against Letitia James
-*Date: 2025-10-17*
-
-1. [Trump-appointed prosecutor ousts 2 more top attorneys from Virginia office](https://abcnews.go.com/Politics/trump-appointed-prosecutor-ousts-2-top-attorneys-virginia/story?id=126636838)
-2. [Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James](https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/)
-3. [Trump Admin Fires Two Prosecutors Who Opposed Criminal Case Against Letitia James](https://www.democracynow.org/2025/10/21/headlines/trump_admin_fires_two_prosecutors_who_opposed_criminal_case_against_letitia_james)
-4. [Federal Prosecutors Fired After Refusing Trump's Pressure to Charge His Political Adversary](https://www.democracydocket.com/news-alerts/federal-prosecutors-fired-after-refusing-trumps-pressure-to-charge-his-political-adversary)
-
 ## DHS Purchases $172 Million in Luxury Jets for Kristi Noem During Shutdown
 *Date: 2025-10-18*
 
@@ -22545,12 +22150,12 @@
 
 1. [Trump Demands $230M from Justice Department](https://www.nytimes.com/2025/10/21/us/politics/trump-doj-reimbursement-demand.html)
 
-## Russ Vought Emerges as "Shadow President" Running Government During Trump Disengagement
+## UN Human Rights Experts Condemn US Boat Strikes as 'Extrajudicial Executions'
 *Date: 2025-10-21*
 
-1. [Shadow President: Project 2025 Architect Russell Vought Using Shutdown to Gut Agencies](https://www.democracynow.org/2025/10/21/russell_vought_propublica_shadow_president)
-2. [What You Should Know About Russ Vought, Trump's Shadow President](https://www.propublica.org/article/about-russell-vought-trump-shadow-president)
-3. [Trump's Decline and the Rise of a Shadow Government](https://brewminate.com/the-nodfather-trumps-decline-and-the-rise-of-a-shadow-government/)
+1. [UN experts condemn coercive intervention in Venezuela by United States](https://www.ohchr.org/en/press-releases/2025/10/un-experts-condemn-coercive-intervention-venezuela-united-states)
+2. [US strikes breach international law, says UN rights chief](https://news.un.org/en/story/2025/10/1166234)
+3. [UN human rights chief says US must halt boat strikes](https://www.cbsnews.com/news/alleged-drug-boat-strikes-trump-admin-must-stop-un-human-rights-chief-says/)
 
 ## Russ Vought Emerges as "Shadow President" Running Government During Trump Disengagement
 *Date: 2025-10-21*
@@ -22585,13 +22190,6 @@
 *Date: 2025-10-22*
 
 1. [Trump Prioritizes White South Africans in Refugee Admissions](https://www.washingtonpost.com/immigration/2025/10/22/trump-refugee-admissions-afrikaners/)
-
-## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
-*Date: 2025-10-22*
-
-1. [Trump plans to demolish White House East Wing as ballroom cost grows to $300 million](https://www.cbsnews.com/news/demolish-white-house-east-wing-ballroom-trump-cost/)
-2. [Trump defends East Wing demolition and raises ballroom price to $300 million](https://www.washingtonpost.com/politics/2025/10/22/trump-white-house-ballroom/)
-3. [Trump plows ahead with East Wing demolition despite calls for caution](https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump)
 
 ## Trump Obsession with $300M Ballroom: Demolishes Historic East Wing While Miller and Vought Run Government
 *Date: 2025-10-22*
@@ -22702,13 +22300,6 @@
 4. [Laotian American man deported to Laos despite court order blocking his removal, attorneys say](https://gasiantimes.com/nation/2025/10/29/laotian-american-man-deported-to-laos-despite-court-order-blocking-his-removal-attorneys-say/)
 5. [2023 Country Reports on Human Rights Practices - Laos](https://2021-2025.state.gov/reports/2023-country-reports-on-human-rights-practices/laos/)
 6. [Country Report - Laos March 2025](https://www.genocidewatch.com/single-post/country-report-laos-march-2025)
-
-## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
-*Date: 2025-10-25*
-
-1. [Keystone Kash Accused of Using $60M FBI Jet for Date Night](https://www.thedailybeast.com/kash-patel-accused-of-using-gov-jet-for-date-night/)
-2. [Kash Patel once called for ending FBI director's government jet use](https://www.cbsnews.com/news/patel-fbi-director-government-jet/)
-3. [FBI Ousts Leader as Patel Fumes Over Attention to Agency Jet Use](https://news.bloomberglaw.com/us-law-week/fbi-ousts-leader-as-patel-fumes-over-attention-to-agency-jet-use)
 
 ## Kash Patel Uses $60M FBI Jet for Date Night with Girlfriend After Calling Wray "Government Gangster" for Same
 *Date: 2025-10-25*
@@ -22832,20 +22423,16 @@
 1. [Anduril conducts first flight test of Air Force CCA drone prototype](https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/)
 2. [Anduril CEO unveils the Fury unmanned fighter jet](https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/)
 
-## Anduril's Autonomous Fighter Jet Completes First Flight Test
-*Date: 2025-10-31*
-
-1. [Anduril conducts first flight test of Air Force CCA drone prototype](https://defensescoop.com/2025/10/31/anduril-cca-air-force-first-flight/)
-2. [Anduril CEO unveils the Fury unmanned fighter jet](https://www.cbsnews.com/news/anduril-ceo-unveils-the-fury-unmanned-fighter-jet-60-minutes/)
-
 ## Test Markdown Event Creation
 *Date: 2025-10-31*
 
 1. [Test Source](https://example.com/test)
 
-## Final Test of Markdown Event Creation
+## United Kingdom Suspends Intelligence Sharing with US Over Caribbean Boat Strikes
 *Date: 2025-11-01*
 
+1. [UK suspends intelligence sharing with US over Caribbean strikes](https://www.cnn.com/2025/11/11/politics/uk-suspends-caribbean-intelligence-sharing-us)
+2. [Countries Stop Sharing Intelligence With US Amid Boat Strikes](https://time.com/7333231/countries-stop-sharing-intelligence-with-united-states-amid-boat-strikes-caribbean/)
 
 ## Trump Administration Announces 2027 Medicaid Work Requirements Affecting Nearly 5 Million
 *Date: 2025-11-03*
@@ -22901,13 +22488,6 @@
 2. [FBI Agents Association: Kash Patel 'disregarded the law'](https://www.msnbc.com/rachel-maddow-show/maddowblog/fbi-agents-association-kash-patel-disregarded-law-latest-personnel-pur-rcna241928)
 3. [FBI association accuses Director Kash Patel of violating due process](https://www.cnn.com/2025/08/21/politics/fbi-association-warning-patel-firings)
 
-## FBI Agents Association Issues Unprecedented Rebuke: Patel "Disregarded the Law" in Campaign of Retribution
-*Date: 2025-11-04*
-
-1. [FBI agents rip Kash Patel's firings: erratic and arbitrary retribution](https://www.axios.com/2025/11/04/kash-patel-fbi-firings-agents-respond)
-2. [FBI Agents Association: Kash Patel 'disregarded the law'](https://www.msnbc.com/rachel-maddow-show/maddowblog/fbi-agents-association-kash-patel-disregarded-law-latest-personnel-pur-rcna241928)
-3. [FBI association accuses Director Kash Patel of violating due process](https://www.cnn.com/2025/08/21/politics/fbi-association-warning-patel-firings)
-
 ## Memphis Residents Report Widespread Racial Profiling by Trump's Federal Police Task Force
 *Date: 2025-11-04*
 
@@ -22951,26 +22531,12 @@
 2. [Judge accuses prosecutors in James Comey case of taking an 'indict first, investigate later' approach](https://www.nbcnews.com/politics/justice-department/judge-accuses-prosecutors-comey-case-taking-indict-first-investigate-l-rcna242222)
 3. [Judge in Comey case scolds prosecutors as he orders them to produce records from probe](https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence)
 
-## Judge Scolds Comey Prosecutors for "Indict First, Investigate Second" Approach
-*Date: 2025-11-05*
-
-1. [Judge scolds Comey prosecutors for 'indict first and investigate second' approach](https://www.washingtonpost.com/national-security/2025/11/05/justice-department-prosecution-james-comey/)
-2. [Judge accuses prosecutors in James Comey case of taking an 'indict first, investigate later' approach](https://www.nbcnews.com/politics/justice-department/judge-accuses-prosecutors-comey-case-taking-indict-first-investigate-l-rcna242222)
-3. [Judge in Comey case scolds prosecutors as he orders them to produce records from probe](https://www.npr.org/2025/11/06/nx-s1-5600580/judge-comey-probe-evidence)
-
 ## Zohran Mamdani Elected NYC Mayor: First Muslim, Youngest in Century
 *Date: 2025-11-05*
 
 1. [Zohran Mamdani wins NYC mayoral race](https://www.npr.org/2025/11/04/nx-s1-5597788/election-results-zohran-mamdani-new-york-city-mayor)
 2. [Zohran Mamdani wins NYC mayor election over Cuomo](https://www.nbcnews.com/politics/elections/new-york-city-mayor-election-winner-2025-race-rcna238909)
 3. [Zohran Mamdani elected as New York City's first Muslim mayor](https://www.aljazeera.com/news/liveblog/2025/11/5/nyc-mayoral-election-results-live-polls-closing-soon-in-mamdani-cuomo-race)
-
-## Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticism of Trump's Emergency Powers
-*Date: 2025-11-05*
-
-1. [Supreme Court justices appear skeptical that Trump tariffs are legal](https://www.cnbc.com/2025/11/05/supreme-court-trump-trade-tarrifs-vos.html)
-2. [Supreme Court enters the lion's den on Trump tariffs](https://www.npr.org/2025/11/05/nx-s1-5592338/trump-tariffs-supreme-court)
-3. [Supreme Court hears Trump tariffs case, key justices appear skeptical of president's power](https://abcnews.go.com/Politics/supreme-court-hears-trump-tariffs-case-staggering-importance/story?id=126950904)
 
 ## Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticism of Trump's Emergency Powers
 *Date: 2025-11-05*
@@ -23016,13 +22582,6 @@
 2. [Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent](https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142)
 3. [Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor after trial](https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/)
 
-## Jury Acquits DOJ Whistleblower Sean Dunn of Sandwich Assault in Rebuke to Weaponized Prosecution
-*Date: 2025-11-06*
-
-1. [Subway sandwich thrower found not guilty in D.C. jury rebuke](https://www.npr.org/2025/11/06/nx-s1-5600772/trump-justice-federal-surge-subway-sandwich)
-2. [Jury acquits D.C. 'sandwich guy' charged with chucking a sub at a federal agent](https://www.nbcnews.com/politics/justice-department/dc-sandwich-guy-verdict-rcna242142)
-3. [Man who threw sandwich at federal agent in D.C. found not guilty of misdemeanor after trial](https://www.cbsnews.com/news/sean-dunn-dc-sandwich-thrower-trial-verdict/)
-
 ## Supreme Court Issues Emergency Stay Allowing Trump Administration to Withhold $4 Billion in SNAP Food Benefits
 *Date: 2025-11-06*
 
@@ -23052,13 +22611,6 @@
 4. [Clergy say religious rights are under attack inside and outside the Broadview ICE facility](https://www.wbez.org/immigration/2025/10/23/clergy-say-religious-rights-are-under-attack-inside-and-outside-the-broadview-ice-facility)
 5. [Eucharistic procession turned back by feds at Broadview ICE detention facility](https://www.americamagazine.org/dispatches/2025/10/12/eucharistic-procession-broadview-ice-jesuits-catholic-church-immigrant-detention/)
 6. [ICE again prevents Chicago Catholics from bringing Eucharist to immigrant detainees](https://www.ncronline.org/news/ice-again-prevents-chicago-catholics-bringing-eucharist-immigrant-detainees)
-
-## Letitia James Files Vindictive Prosecution Motion to Dismiss Federal Charges
-*Date: 2025-11-07*
-
-1. [Letitia James urges court to toss her case, calling it Trump's revenge](https://www.washingtonpost.com/national-security/2025/11/07/letitia-james-vindictive-prosecution-motion/)
-2. [Prosecution of Letitia James](https://en.wikipedia.org/wiki/Prosecution_of_Letitia_James)
-3. [Letitia James Gets Trial Date in Federal Mortgage Fraud Case](https://www.newsweek.com/letitia-james-trial-date-charges-arrested-donald-trump-10934677)
 
 ## Letitia James Files Vindictive Prosecution Motion to Dismiss Federal Charges
 *Date: 2025-11-07*
@@ -23148,13 +22700,6 @@
 2. [The shutdown deal doesn't extend expiring health subsidies. What happens to them now?](https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now)
 3. [Trump signs funding bill into law, ending record-long government shutdown](https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438)
 
-## Government Shutdown Ends After 43 Days: Longest in U.S. History
-*Date: 2025-11-12*
-
-1. [The longest government shutdown in U.S. history comes to a close](https://www.npr.org/2025/11/12/g-s1-97607/house-vote-shutdown-end)
-2. [The shutdown deal doesn't extend expiring health subsidies. What happens to them now?](https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now)
-3. [Trump signs funding bill into law, ending record-long government shutdown](https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438)
-
 ## House Oversight Democrats Release Epstein Emails Stating Trump "Knew About the Girls" and Spent Hours with Victim
 *Date: 2025-11-12*
 
@@ -23169,6 +22714,12 @@
 1. [House committee releases over 20,000 documents from Epstein estate](https://www.npr.org/2025/11/13/nx-s1-5607057/house-committee-releases-over-20-000-documents-from-epstein-estate)
 2. [Oversight Committee Releases Additional Epstein Estate Documents](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)
 3. [New Epstein emails and files - What do they reveal about Trump?](https://www.aljazeera.com/news/2025/11/13/new-epstein-emails-and-files-what-do-they-reveal-about-trump)
+
+## Defense Secretary Hegseth Formally Unveils 'Operation Southern Spear' Military Campaign
+*Date: 2025-11-13*
+
+1. [Trump's Caribbean Campaign: Data Behind Operation Southern Spear](https://www.csis.org/analysis/trumps-caribbean-campaign-data-behind-developing-conflict)
+2. [Operation Southern Spear: US Military Campaign Targeting Venezuela](https://www.cfr.org/article/operation-southern-spear-us-military-campaign-targeting-venezuela)
 
 ## ProPublica Investigation Exposes Hidden Corruption in Noem's $220M DHS Ad Campaign
 *Date: 2025-11-14*
@@ -23203,6 +22754,12 @@
 3. [Bondi Ties Herself in Knots Explaining Epstein U-Turn](https://www.thedailybeast.com/bondi-ties-herself-in-knots-explaining-epstein-u-turn/)
 4. [Will the Epstein Files Be Released? How Trump May Have Found a Way to Block Them](https://time.com/7334450/epstein-files-released-trump-massie/)
 5. [Epstein files bill includes exceptions that could affect what gets released and when](https://abcnews.go.com/Politics/epstein-files-bill-includes-exceptions-affect-gets-released/story?id=127673876)
+
+## Colombia Suspends Intelligence Sharing After US Claims Fishing Boat Was Rebel Vessel
+*Date: 2025-11-15*
+
+1. [Countries Stop Sharing Intelligence With US Amid Boat Strikes](https://time.com/7333231/countries-stop-sharing-intelligence-with-united-states-amid-boat-strikes-caribbean/)
+2. [How many times has the US struck Venezuelan vessels](https://www.aljazeera.com/news/2025/10/17/how-many-times-has-the-us-struck-venezuelan-vessels)
 
 ## 60 Minutes Investigation: Former DOJ Officials Call Trump's Binance Pardon 'Unprecedented Corruption'
 *Date: 2025-11-16*
@@ -23388,6 +22945,12 @@
 2. [Kristi Noem says she allowed deportation flights to continue, despite court order](https://www.nbcnews.com/meet-the-press/video/kristi-noem-says-she-allowed-deportation-flights-to-continue-despite-court-order-253310021815)
 3. [Judge weighs potential contempt prosecution referral for Kristi Noem in El Salvador deportations](https://abcnews.go.com/Politics/kristi-noem-directed-venezuelans-el-salvador-after-federal/story?id=127884456)
 4. [Kristi Noem made final call on deportation flights after judge ordered planes to turn back, DOJ says](https://www.nbcnews.com/politics/immigration/kristi-noem-deportation-flights-judge-ordered-planes-turn-back-aea-rcna245987)
+
+## SOUTHCOM Commander Admiral Holsey Offers Resignation Over Boat Strike Legality Concerns
+*Date: 2025-12-01*
+
+1. [From Denial to Defiance: Hegseth and the Fallout of Venezuelan Boat Double-Tap](https://www.military.com/feature/2025/12/08/denial-defiance-hegseth-and-fallout-of-venezuelan-boat-double-tap.html)
+2. [Pete Hegseth faces deepening scrutiny from Congress over Caribbean boat strikes](https://www.pbs.org/newshour/politics/pete-hegseth-faces-deepening-scrutiny-from-congress-over-caribbean-boat-strikes)
 
 ## Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment
 *Date: 2025-12-02*
@@ -23893,10 +23456,16 @@
 ## Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order
 *Date: 2025-12-08*
 
+1. [Judge orders top DOJ attorney to testify about Alien Enemies Act deportations](https://abcnews.go.com/US/judge-orders-top-doj-attorney-testify-alien-enemies/story?id=128222048)
+2. [Judge orders testimonies in contempt inquiry over deportation flight](https://www.upi.com/Top_News/US/2025/12/09/testimonies-DOJ-attorneys-deportation-flight/3591765266554/)
+3. [Judge expands criminal contempt probe over deportation flights](https://www.cnn.com/2025/12/08/politics/kristi-noem-deportation-flights-contempt)
 
 ## Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations
 *Date: 2025-12-08*
 
+1. [US: Close Fort Bliss Immigration Detention Site](https://www.hrw.org/news/2025/12/08/us-close-fort-bliss-immigration-detention-site)
+2. [Human Rights Groups Urge ICE to End Immigration Detention at Fort Bliss](https://www.aclu.org/press-releases/human-rights-groups-urge-ice-to-end-immigration-detention-at-fort-bliss-military-base-halt-abusive-third-country-deportations)
+3. [ACLU reports physical abuse of migrants held at Fort Bliss](https://www.texastribune.org/2025/12/10/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report/)
 
 ## Alina Habba Resigns as U.S. Attorney for New Jersey Following Appeals Court Ruling
 *Date: 2025-12-08*
@@ -23909,6 +23478,9 @@
 ## Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases
 *Date: 2025-12-08*
 
+1. [Judges Are Getting Fired as Trump Pursues Immigration 'Purge'](https://www.bloomberg.com/news/features/2025/12/16/judges-are-getting-fired-as-trump-pursues-immigration-purge)
+2. [Meet Tania Nemer, Fired Immigration Judge Suing Trump Admin](https://www.democracynow.org/2025/12/18/immigration_court_judges_fired_tania_nemer)
+3. [A deep dive into the Trump administration's firing of immigration judges](https://www.npr.org/2025/11/05/nx-s1-5584095/a-deep-dive-into-the-trump-administrations-firing-of-immigration-judges)
 
 ## Paramount Skydance Launches $108.4 Billion Hostile Takeover Bid for Warner Bros. Discovery with Saudi, Qatari, and UAE Backing
 *Date: 2025-12-08*
@@ -23922,10 +23494,16 @@
 ## State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate
 *Date: 2025-12-08*
 
+1. [Trump administration has revoked 85000 visas since January](https://www.cnn.com/2025/12/08/politics/visa-revocations-state-department)
+2. [Trump administration revokes record 85000 visas in sweeping immigration crackdown](https://www.foxnews.com/us/trump-administration-revokes-record-85000-visas-sweeping-immigration-crackdown-targeting-safety-threats)
+3. [United States steps up immigration scrutiny; 85,000 visas revoked in 2025](https://www.sentinelassam.com/more-news/international/united-states-steps-up-immigration-scrutiny-85000-visas-revoked-in-2025)
 
 ## Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
 *Date: 2025-12-08*
 
+1. [Trump v. Slaughter: an explainer](https://www.scotusblog.com/2025/12/trump-v-slaughter-an-explainer/)
+2. [Supreme Court seems likely to back Trump's power to fire independent agency board members](https://lasvegassun.com/news/2025/dec/07/supreme-court-seems-likely-to-back-trumps-power-to/)
+3. [Supreme Court to reconsider a 90-year-old unanimous ruling that limits presidential power](https://fortune.com/2025/12/07/supreme-court-humphreys-executor-unanimous-ruling-presidential-power-limit-heads-independent-agencies/)
 
 ## ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal
 *Date: 2025-12-08*
@@ -23944,6 +23522,9 @@
 ## Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
 *Date: 2025-12-09*
 
+1. [Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement](https://www.justice.gov/opa/pr/department-justice-rule-restores-equal-protection-all-civil-rights-enforcement)
+2. [Department of Justice Eliminates Title VI Disparate Impact Regulations](https://www.sullcrom.com/insights/memo/2025/December/Department-Justice-Eliminates-Title-VI-Disparate-Impact-Regulations)
+3. [Justice Department Erases Disparate Impact Liability From Title VI Enforcement Regulations](https://ogletree.com/insights-resources/blog-posts/justice-department-erases-disparate-impact-liability-from-title-vi-enforcement-regulations/)
 
 ## Federal Judge Orders Release of Ghislaine Maxwell Grand Jury Materials Under Epstein Files Transparency Act
 *Date: 2025-12-09*
@@ -23998,6 +23579,12 @@
 4. [Tracker of Justice Department Requests for Voter Information](https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information)
 5. [ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data](https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data)
 
+## Pentagon Reports 82 Killed in 21 Strikes During Operation Southern Spear
+*Date: 2025-12-15*
+
+1. [Timeline of US strikes on boats that have killed 115](https://www.cnn.com/2025/11/02/politics/timeline-us-strikes-caribbean-pacific-vis)
+2. [US, Other Countries Should Push Back on Lawless Executions at Sea](https://www.hrw.org/news/2025/12/09/us-other-countries-should-push-back-on-lawless-executions-at-sea)
+
 ## House Judiciary Subcommittee Hearing Exposes How Trump Administration Corrupted DOJ Antitrust Enforcement Through Pay-to-Play Schemes and Political Interference
 *Date: 2025-12-16*
 
@@ -24038,6 +23625,13 @@
 1. [Senate passes defense authorization bill, pushes Hegseth for boat strike video](https://www.npr.org/2025/12/17/g-s1-102651/senate-national-defense-authorization-act-hegseth-boat-strike-video)
 2. [Senate passes $901 billion defense bill that pushes Hegseth for boat strike video](https://federalnewsnetwork.com/congress/2025/12/senate-voting-on-901-billion-defense-bill-that-pushes-hegseth-for-boat-strike-video/)
 3. [House passes Pentagon bill pressuring Hegseth on boat strike evidence](https://www.washingtonpost.com/national-security/2025/12/10/house-pentagon-bill-ndaa-boat-strikes/)
+
+## Trump Announces Naval 'Blockade' of Venezuelan Oil Tankers, Designates Government as Terrorist Organization
+*Date: 2025-12-17*
+
+1. [Trump orders blockade of sanctioned Venezuelan oil tankers](https://www.cnbc.com/2025/12/17/trump-orders-blockade-of-sanctioned-venezuelan-oil-tankers.html)
+2. [Blockading Venezuela: The International Law Consequences](https://www.justsecurity.org/127396/venezuela-military-blockade-international-law/)
+3. [United States naval quarantine during Operation Southern Spear](https://en.wikipedia.org/wiki/United_States_naval_quarantine_during_Operation_Southern_Spear)
 
 ## Border Patrol Academy Reaches Highest Enrollment Since 2009 With 1,100 Trainees as Trump Administration Militarizes Enforcement Training
 *Date: 2025-12-18*
@@ -24097,6 +23691,11 @@
 3. [Supreme Court revives free speech lawsuit from immigration judges in loss for Trump](https://www.cnn.com/2025/12/19/politics/supreme-court-revives-free-speech-lawsuit-immigration-judges)
 4. [Trump's win streak on Supreme Court emergency docket breaks](https://thehill.com/regulation/court-battles/5657340-supreme-court-immigration-judges-speech-emergency-docket/)
 
+## Epstein Victims' Attorneys Confirm DOJ Released Zero Financial Documents
+*Date: 2025-12-19*
+
+1. [Epstein's alleged victims accuse DOJ of legal violations](https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219)
+
 ## DOJ Removes 15+ Epstein Files After Release, Including Trump-Maxwell Photo
 *Date: 2025-12-20*
 
@@ -24121,3 +23720,197 @@
 4. [Marjorie Taylor Greene reportedly attempting to oust House Speaker Mike Johnson before resignation](https://www.wsbtv.com/news/local/atlanta/marjorie-taylor-greene-reportedly-attempting-oust-house-speaker-mike-johnson-before-resignation/NVQRJQADWFBXLOZBD362LPD57A/)
 5. [Speaker Mike Johnson's grip on the House slips as Republicans defy leadership](https://www.cbsnews.com/news/mike-johnson-control-house-republicans-defy-leadership/)
 6. [House quickly kills Marjorie Taylor Greene's effort to oust Speaker Johnson](https://abcnews.go.com/Politics/marjorie-taylor-greene-triggers-vote-motion-oust-speaker/story?id=110043228)
+
+## DOJ Exposes Epstein Victims' Names While Over-Redacting Perpetrator Information
+*Date: 2025-12-21*
+
+1. [Epstein's alleged victims accuse DOJ of legal violations](https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219)
+
+## Botched DOJ Redactions Allow Public to Copy-Paste Hidden Epstein File Text
+*Date: 2025-12-23*
+
+1. [How internet sleuths are un-redacting some of the Epstein files](https://www.cbc.ca/news/world/epstein-files-unredacting-9.7027723)
+2. [Botched Epstein redactions trace back to Virgin Islands' 2020 civil racketeering case](https://www.cnn.com/2025/12/23/politics/epstein-redactions-glitch-virgin-islands)
+
+## CIA Conducts First Land Strike in Venezuela, Destroying Drug Boat Loading Facility
+*Date: 2025-12-24*
+
+1. [Timeline of U.S. military escalation against Venezuela](https://www.pbs.org/newshour/world/a-timeline-of-u-s-military-escalation-against-venezuela-leading-to-maduros-capture)
+
+## DOJ Announces Discovery of Over 1 Million Additional Epstein Documents on Christmas Eve
+*Date: 2025-12-24*
+
+1. [DOJ says it has found over a million additional documents potentially related to Epstein](https://www.cnn.com/2025/12/24/politics/epstein-documents-doj-million)
+
+## US Military Strikes Three-Vessel Convoy in Pacific, 11 Killed as Survivors Left in Deadly Seas
+*Date: 2025-12-30*
+
+1. [US military strikes 5 more boats, killing 8](https://www.npr.org/2025/12/31/g-s1-104194/us-military-strikes-drug-boats-survivors)
+2. [US Coast Guard suspends search for survivors of Pacific boat strike](https://www.aljazeera.com/news/2026/1/3/us-coast-guard-suspends-search-for-survivors-of-pacific-boat-strike)
+3. [After Undercounting Boat Strike Killings, US Military Updates Death Toll](https://theintercept.com/2026/01/08/us-military-boat-strike-deaths-undercount/)
+
+## DOJ Expands Epstein Document Review to 5.2 Million Pages, Enlisted 400 Attorneys
+*Date: 2025-12-31*
+
+1. [Department of Justice is reviewing over 5.2 million Jeffrey Epstein files](https://www.pbs.org/newshour/nation/department-of-justice-is-reviewing-over-5-2-million-jeffrey-epstein-files)
+
+## Off-Duty ICE Officer Shoots and Kills Keith Porter in Los Angeles on New Year's Eve
+*Date: 2025-12-31*
+
+1. [Off-duty ICE officer shoots and kills man on New Year's Eve](https://abcnews.go.com/US/off-duty-ice-officer-allegedly-shoots-kills-man/story?id=128836392)
+2. [Why No Charges? Friends, Family of Man Killed by Off-Duty ICE Officer Ask After New Year's Eve Shooting](https://capitalandmain.com/why-no-charges-friends-family-of-man-killed-by-off-duty-ice-officer-ask-after-new-years-eve-shooting)
+3. [Keith Porter death: Community demands accountability after father of 2 killed by off-duty ICE agent](https://abc7.com/post/keith-porter-death-community-demands-accountability-vigil-father-2-killed-off-duty-ice-agent-northridge/18353797/)
+
+## Trump Administration Sets Quota to Strip Citizenship from Over 1,000 Naturalized Americans in 2026
+*Date: 2026-01-01*
+
+1. [Trump Administration Sets Goal to Denaturalize Thousands of US Citizens in 2026](https://truthout.org/articles/trump-administration-sets-goal-to-denaturalize-thousands-of-us-citizens-in-2026/)
+2. [Trump ramps up denaturalization push with 2026 quota targeting naturalized citizens](https://www.nationofchange.org/2025/12/19/trump-ramps-up-denaturalization-push-with-2026-quota-targeting-naturalized-citizens/)
+
+## DOJ Misses 15-Day Deadline to Explain Redactions, Provide List of Named Officials
+*Date: 2026-01-03*
+
+1. [Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act)
+
+## US Military Invades Venezuela, Captures President Maduro in Predawn Raid
+*Date: 2026-01-03*
+
+1. [Timeline of U.S. military escalation against Venezuela](https://www.pbs.org/newshour/world/a-timeline-of-u-s-military-escalation-against-venezuela-leading-to-maduros-capture)
+2. [Maduro in US custody after Venezuela operation](https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26)
+3. [How the U.S. captured Maduro in Venezuela](https://www.nbcnews.com/politics/donald-trump/us-venezuela-strike-nicolas-maduro-captured-how-timeline-trump-rcna252041)
+4. [World reacts to US bombing of Venezuela](https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela)
+
+## Trump Declares US Will 'Run' Venezuela After Military Invasion
+*Date: 2026-01-04*
+
+1. [A clearer picture is emerging of what Trump meant when he said the US will 'run' Venezuela](https://www.cnn.com/2026/01/04/politics/us-running-venezuela-trump-administration)
+2. [Trump administration claims it will 'dictate' policy to Venezuela](https://www.aljazeera.com/news/2026/1/7/trump-administration-claims-it-will-dictate-policy-to-venezuela)
+3. [Stephen Miller says US is using military threat to maintain control of Venezuela](https://www.cnn.com/2026/01/05/politics/video/senior-white-house-aide-stephen-miller-says-us-military-threat-to-maintain-control-of-venezuela-digvid)
+
+## Defense Secretary Hegseth Moves to Cut Senator Mark Kelly's Military Rank and Retirement Pay
+*Date: 2026-01-05*
+
+1. [Sen. Mark Kelly fires back after Hegseth threatens his rank and retirement pay](https://www.npr.org/2026/01/05/nx-s1-5667080/mark-kelly-pete-hegseth-pentagon-military-rank-retirement)
+2. [Hegseth's Move Against Sen. Mark Kelly's Retirement Rank Raises Broader Stakes for Military Retirees](https://www.military.com/feature/2026/01/06/hegseths-move-against-sen-mark-kellys-retirement-rank-raises-broader-stakes-military-retirees.html)
+3. [Pentagon to cut Sen. Mark Kelly's military retirement pay over 'seditious' video](https://www.cnbc.com/2026/01/05/pentagon-mark-kelly-video-hegseth.html)
+
+## Denmark Announces $13.8 Billion Defense Spending to Rearm Greenland in Response to US Threats
+*Date: 2026-01-06*
+
+1. [Denmark prime minister calls on Trump to stop the threats about Greenland](https://www.cbsnews.com/news/denmark-trump-aide-stephen-miller-wife-katie-miller-posts-image-us-flag-greenland/)
+2. [White House discussing 'options' to acquire Greenland](https://www.cnn.com/2026/01/06/politics/us-options-greenland-military)
+
+## DHS Deploys 2,000 Federal Agents to Minneapolis in 'Largest Immigration Operation Ever'
+*Date: 2026-01-06*
+
+1. [2,000 federal agents sent to Minneapolis area for 'largest immigration operation ever'](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says)
+2. [ICE Arrests 150 People After DHS Surges 2,000 Agents to Minnesota](https://www.democracynow.org/2026/1/7/headlines/ice_arrests_150_people_after_dhs_surges_2_000_agents_to_minnesota)
+3. [DHS Secretary Kristi Noem Hits the Streets with ICE Agents](https://www.dhs.gov/news/2026/01/06/dhs-secretary-kristi-noem-hits-streets-ice-agents-major-minneapolis-enforcement)
+
+## DOJ Admits Less Than 1% of Epstein Files Released, 48 Days After Law's Deadline
+*Date: 2026-01-06*
+
+1. [Less Than 1% of the Epstein Files Released So Far, DOJ Says](https://time.com/7343702/epstein-files-release-doj/)
+2. [DOJ says it has released less than 1% of its Epstein files](https://www.cnn.com/2026/01/06/politics/epstein-files-justice-department-review)
+
+## Massie and Khanna Ask Federal Judge to Appoint Special Master Over Epstein File Release
+*Date: 2026-01-06*
+
+1. [Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act)
+2. [Lawmakers ask for a judge to step in on Epstein document release](https://www.ms.now/news/lawmakers-judge-massie-khanna-epstein-document-release)
+
+## Seven NATO Allies Issue Joint Statement Defending Greenland's Sovereignty Against US Threats
+*Date: 2026-01-06*
+
+1. [Joint Statement on Greenland - French Presidency](https://www.elysee.fr/en/emmanuel-macron/2026/01/06/joint-statement-on-greenland)
+2. [Joint Statement on Greenland - Italian Government](https://www.governo.it/en/articolo/joint-statement-greenland/30694)
+3. [Joint Statement by Nordic Foreign Ministers on Greenland](https://www.government.se/statements/2026/01/joint-statement-by-the-nordic-foreign-ministers-on-greenland/)
+4. [Europe should prepare for Greenland's annexation and end of NATO: experts](https://www.aljazeera.com/news/2026/1/9/europe-should-prepare-for-greenlands-annexation-and-end-of-nato-experts)
+
+## White House Declares Military Force 'Always an Option' to Acquire Greenland
+*Date: 2026-01-06*
+
+1. [White House says 'all options' are on the table for Greenland](https://www.npr.org/2026/01/07/nx-s1-5670244/trump-greenland)
+2. [Trump Won't Rule Out Military Force to Acquire Greenland](https://www.bloomberg.com/news/articles/2026-01-06/trump-won-t-rule-out-military-force-to-acquire-greenland)
+3. [Denmark prime minister calls on Trump to stop the threats about Greenland](https://www.cbsnews.com/news/denmark-trump-aide-stephen-miller-wife-katie-miller-posts-image-us-flag-greenland/)
+4. [Republican leaders push back on Trump's openness to using military to take Greenland](https://www.nbcnews.com/politics/congress/republican-leaders-push-back-trump-openness-military-greenland-rcna252814)
+
+## ICE Agent Fatally Shoots US Citizen Renee Nicole Good Through Car Windshield in Minneapolis
+*Date: 2026-01-07*
+
+1. [Minneapolis ICE shooting: A minute-by-minute timeline](https://abcnews.go.com/US/minneapolis-ice-shooting-minute-minute-timeline-renee-nicole/story?id=129021809)
+2. [Renee Nicole Good: Mother of 3 killed by ICE in Minneapolis](https://www.cnn.com/2026/01/08/us/renee-nicole-good-minneapolis-ice-shooting-hnk)
+3. [ICE officer fatally shoots driver through car window in Minneapolis](https://minnesotareformer.com/2026/01/07/ice-officer-fatally-shoots-driver-through-car-window-in-minneapolis/)
+4. [Renee Good killed by ICE agent in Minneapolis](https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation)
+
+## Stephen Miller Articulates 'Might Makes Right' Foreign Policy Doctrine on Venezuela and Greenland
+*Date: 2026-01-07*
+
+1. [Greenland, Venezuela, NATO: Stephen Miller sums up a new US mission statement of strength, force, and power](https://www.cnn.com/2026/01/06/politics/trump-greenland-venezuela-colombia-miller-analysis)
+2. [Stephen Miller asserts US right to Greenland as allies push back](https://www.axios.com/2026/01/06/stephen-miller-greenland-europe-nato)
+3. ['Sick of stupid': Tillis unloads on Stephen Miller over Greenland comments](https://www.wral.com/news/state/national-politics-thom-tillis-stephen-miller-greenland-comments-january-2026/)
+4. [Stephen Miller: US 'running Venezuela by definition'](https://thehill.com/homenews/administration/5673959-miller-backs-trump-venezuela/)
+
+## DHS Secretary Noem Announces 500 Miles of Rio Grande Buoy Barriers
+*Date: 2026-01-07*
+
+1. [Noem announces 500 miles of border buoys during Rio Grande Valley visit](https://www.texastribune.org/2026/01/07/noem-border-immigration-floating-buoys/)
+2. [DHS Secretary Noem tours southern border, announces buoy expansion](https://www.newsnationnow.com/us-news/immigration/border-coverage/kristi-noem-tour-southern-border/)
+
+## US Navy Seizes Two Venezuelan Oil Tankers Including Russian-Flagged Vessel Near Iceland
+*Date: 2026-01-07*
+
+1. [U.S. seizes Russian-flagged oil tanker linked to Venezuela after weekslong pursuit](https://www.nbcnews.com/world/venezuela/us-seize-russia-flagged-oil-tanker-bella1-marinera-venezuela-rcna252738)
+2. [U.S. seizes 2 sanctioned oil tankers linked to Venezuela](https://www.pbs.org/newshour/world/u-s-seizes-2-sanctioned-oil-tankers-linked-to-venezuela-in-the-north-atlantic-and-the-caribbean)
+3. [US seizes 2 oil tankers linked to Venezuela](https://www.militarytimes.com/news/your-military/2026/01/07/us-seizes-2-oil-tankers-linked-to-venezuela/)
+
+## Vice President Vance Announces ICE Will Go 'Door to Door' for Mass Deportations
+*Date: 2026-01-07*
+
+1. [Hours After US Citizen Shot Dead by ICE, JD Vance Says 'Door-to-Door' Operations Are Coming](https://www.commondreams.org/news/vance-ice-door-to-door)
+2. [JD Vance Has Chilling Warning About ICE in Wake of Minnesota Shooting](https://newrepublic.com/post/205056/jd-vance-threat-ice-door-to-door-minnesota-shooting)
+3. [Immigration enforcement ramp-up has only just begun, VP Vance promises](https://www.yahoo.com/news/articles/immigration-enforcement-ramp-only-just-232710573.html)
+
+## FBI Revokes State Access to Evidence in Renee Good Shooting, Blocks Minnesota Investigation
+*Date: 2026-01-08*
+
+1. [What we know about ICE's fatal shooting in Minneapolis](https://www.cnn.com/2026/01/08/politics/ice-shooting-minneapolis-dhs)
+2. [Do ICE agents have absolute immunity? No, experts say](https://www.cnn.com/2026/01/08/politics/ice-immunity-jd-vance-minneapolis)
+3. [What we know so far about the ICE shooting in Minneapolis](https://www.pbs.org/newshour/nation/what-we-know-so-far-about-the-ice-shooting-in-minneapolis)
+
+## House Passes ACA Subsidy Extension 230-196 with 17 Republicans Crossing Party Lines
+*Date: 2026-01-08*
+
+1. [House votes to renew ACA subsidies](https://www.npr.org/2026/01/08/nx-s1-5662625/house-vote-affordable-care-act-subsidies)
+2. [17 House Republicans vote with Democrats on ACA subsidies](https://abcnews.go.com/Politics/house-vote-obamacare-subsidies-extension-after-9-republicans/story?id=129026545)
+3. [House passes bill to extend health care subsidies in rebuke of GOP leadership](https://www.pbs.org/newshour/politics/in-a-rebuke-of-gop-leadership-house-heads-toward-vote-to-extend-health-care-subsidies)
+4. [House passes ACA subsidies; fate murky in Senate](https://www.cnbc.com/2026/01/08/obamacare-subsidies-extension-congress.html)
+
+## House Democrats File Impeachment Articles Against DHS Secretary Noem Over ICE Shooting
+*Date: 2026-01-08*
+
+1. [Rep. Kelly Announces Plans to Impeach Secretary Kristi Noem](https://robinkelly.house.gov/media-center/press-releases/rep-kelly-announces-plans-impeach-secretary-kristi-noem)
+2. [Rep. Mullin Calls for Impeachment of DHS Secretary Noem](https://kevinmullin.house.gov/2026/01/08/rep-mullin-calls-for-impeachment-of-dhs-secretary-noem/)
+3. [Robin Kelly files impeachment articles against Kristi Noem](https://www.cbsnews.com/chicago/news/robin-kelly-impeachment-kristi-noem-ice-shooting/)
+
+## Border Patrol Agent Shoots Two People in Portland, Oregon, Over 270 Miles From Border
+*Date: 2026-01-08*
+
+1. [Border patrol agent shoots two in Portland](https://www.nbcnews.com/news/us-news/border-patrol-agent-shoots-two-portland-iran-protests-morning-rundown-rcna252936)
+2. [Portland, Oregon Border Patrol shooting](https://www.cnn.com/2026/01/09/us/portland-oregon-border-patrol-shooting-hnk)
+3. [DHS identifies people shot by Border Patrol in Portland](https://www.opb.org/article/2026/01/08/portland-shooting-federal-agents/)
+
+## Senate Votes 52-47 to Limit Trump's Military Action in Venezuela, Five Republicans Cross Party Lines
+*Date: 2026-01-08*
+
+1. [Senate Republicans deal Trump a rare rebuke with Venezuela war powers vote](https://www.npr.org/2026/01/08/nx-s1-5670473/senate-republicans-deal-trump-a-rare-rebuke-with-venezuela-war-powers-vote)
+2. [Senate advances measure to restrict Trump's power to use military force in Venezuela](https://www.nbcnews.com/politics/congress/senate-advances-measure-restrict-trumps-power-use-military-force-venez-rcna252892)
+3. [S.J.Res.90 Full Text](https://www.congress.gov/bill/119th-congress/senate-joint-resolution/90/text)
+4. [Senate Backs War Powers Measure Intended to Block Trump in Venezuela](https://time.com/7344716/war-powers-act-senate-trump-venezuela/)
+
+## Vance Announces DOJ Anti-Fraud Position to Be 'Run Out of the White House'
+*Date: 2026-01-08*
+
+1. [Vance Announces New Justice Dept. Fraud Post to Be 'Run Out of the White House'](https://dnyuz.com/2026/01/08/vance-announces-new-justice-dept-fraud-post-to-be-run-out-of-the-white-house/)
+2. [JD Vance says a bit too much about White House control over Justice Department](https://www.ms.now/rachel-maddow-show/maddowblog/jd-vance-says-a-bit-too-much-about-white-house-control-over-the-justice-department)
+3. [JD Vance announces anti-fraud task force after Minnesota fraud scandal](https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal)

@@ -6,6 +6,20 @@ summary: "The Trump administration has fired approximately 100 immigration judge
 importance: 9
 tags: ["immigration", "judges", "doj", "due-process", "judicial-independence", "purge", "deportation", "courts", "legal"]
 actors: ["Department of Justice", "Executive Office for Immigration Review", "Tania Nemer", "Kyra Lilien", "Anam Petit", "Amiena Khan"]
+sources:
+- title: "Judges Are Getting Fired as Trump Pursues Immigration 'Purge'"
+  outlet: Bloomberg
+  url: https://www.bloomberg.com/news/features/2025/12/16/judges-are-getting-fired-as-trump-pursues-immigration-purge
+  tier: 1
+- title: Meet Tania Nemer, Fired Immigration Judge Suing Trump Admin
+  outlet: Democracy Now
+  url: https://www.democracynow.org/2025/12/18/immigration_court_judges_fired_tania_nemer
+  tier: 2
+- title: A deep dive into the Trump administration's firing of immigration judges
+  outlet: NPR
+  url: https://www.npr.org/2025/11/05/nx-s1-5584095/a-deep-dive-into-the-trump-administrations-firing-of-immigration-judges
+  tier: 1
+status: confirmed
 ---
 
 # Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases

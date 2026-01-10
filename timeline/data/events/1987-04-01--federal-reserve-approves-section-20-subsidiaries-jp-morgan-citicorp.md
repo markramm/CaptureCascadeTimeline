@@ -23,43 +23,18 @@ capture_lanes:
 - Regulatory Capture
 - Financial Deregulation
 sources:
-- title: Decline of the Glass–Steagall Act
-  url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
+- title: Decline of the Glass-Steagall Act
+  url: https://en.wikipedia.org/wiki/Decline_of_the_Glass-Steagall_Act
   outlet: Wikipedia
-  verified: true
-  key_facts_confirmed:
-  - Fed approved Bankers Trust, Citicorp, and J.P. Morgan Section 20 subsidiaries
-    in April 1987
-  - Allowed underwriting of mortgage-backed securities, municipal revenue bonds, commercial
-    paper
-  - Permitted 5% revenue from bank-ineligible activities with firewalls
-- title: Federal Reserve Section 20 Subsidiary Regulatory Overview
-  url: ''
-- key_facts_confirmed:
-  - First major regulatory relaxation of Glass-Steagall restrictions
-  - Allowed bank holding companies to create separately capitalized investment banking
-    subsidiaries
-  - Initial 5% revenue cap on non-banking securities activities
-  outlet: US Treasury Department
-  title: The Repeal of Glass-Steagall and the Advent of Broad Banking
+  tier: 2
+- title: The Repeal of Glass-Steagall and the Advent of Broad Banking
   url: https://www.occ.treas.gov/publications-and-resources/publications/economics/working-papers-archived/pub-econ-working-paper-2000-5.pdf
-  verified: true
-- key_facts_confirmed:
-  - Congressional analysis of Glass-Steagall erosion
-  - Detailed legal context for Section 20 subsidiary approvals
-  - Tracked regulatory changes in banking sector
-  outlet: Congressional Research Service
-  title: 'The Glass-Steagall Act: A Legal and Policy Analysis'
-  url: https://www.congress.gov/crs-product/R44349
-  verified: true
-- key_facts_confirmed:
-  - Federal Reserve's incremental approach to dismantling Glass-Steagall
-  - Strict regulatory oversight of Section 20 subsidiaries
-  - Gradual expansion of permissible securities activities
-  outlet: Federal Reserve Board
-  title: About Securities Underwriting and Dealing Subsidiaries
+  outlet: US Treasury Department
+  tier: 1
+- title: About Securities Underwriting and Dealing Subsidiaries
   url: https://www.federalreserve.gov/bankinforeg/suds_about.htm
-  verified: true
+  outlet: Federal Reserve Board
+  tier: 1
 status: confirmed
 ---
 

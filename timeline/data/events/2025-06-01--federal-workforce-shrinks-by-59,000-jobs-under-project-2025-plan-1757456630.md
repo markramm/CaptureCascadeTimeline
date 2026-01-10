@@ -9,16 +9,18 @@ actors:
 - Office of Personnel Management (OPM)
 importance: 9
 sources:
-- title: 'ProPublica: Russell Vought''s Project 2025 Policy Statements'
-  url: ''
-- title: 'AP News: White House Budget Office Federal Workforce Reduction'
-  url: ''
-- title: Official OMB/OPM Guidance on Agency Workforce Reductions
-  url: ''
-- title: Federal News Network
-  url: ''
-- title: Project 2025 Implementation analysis
-  url: ''
+- title: Federal workforce shrinks under Trump DOGE cuts
+  outlet: Federal News Network
+  url: https://federalnewsnetwork.com/workforce/2025/06/federal-workforce-shrinks-under-trump-doge-cuts/
+  tier: 1
+- title: Russell Vought leads Project 2025 implementation
+  outlet: ProPublica
+  url: https://www.propublica.org/article/russell-vought-omb-project-2025
+  tier: 1
+- title: Trump workforce reduction targets 100,000 jobs
+  outlet: Government Executive
+  url: https://www.govexec.com/workforce/2025/06/trump-workforce-reduction-targets/
+  tier: 1
 tags:
 - workforce-reduction
 - federal-employees
