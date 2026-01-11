@@ -136,6 +136,10 @@
     "count": 46
   },
   {
+    "name": "immigration-enforcement",
+    "count": 45
+  },
+  {
     "name": "first-amendment",
     "count": 44
   },
@@ -149,10 +153,6 @@
   },
   {
     "name": "national-security",
-    "count": 43
-  },
-  {
-    "name": "immigration-enforcement",
     "count": 43
   },
   {
@@ -3000,6 +3000,10 @@
     "count": 5
   },
   {
+    "name": "sanctuary-cities",
+    "count": 5
+  },
+  {
     "name": "binance",
     "count": 5
   },
@@ -5020,10 +5024,6 @@
     "count": 3
   },
   {
-    "name": "sanctuary-cities",
-    "count": 3
-  },
-  {
     "name": "pope-leo-xiv",
     "count": 3
   },
@@ -5177,6 +5177,10 @@
   },
   {
     "name": "pete hegseth",
+    "count": 3
+  },
+  {
+    "name": "bovino",
     "count": 3
   },
   {
@@ -7729,6 +7733,10 @@
   },
   {
     "name": "professional-intimidation",
+    "count": 2
+  },
+  {
+    "name": "new-orleans",
     "count": 2
   },
   {
@@ -17320,10 +17328,6 @@
     "count": 1
   },
   {
-    "name": "new-orleans",
-    "count": 1
-  },
-  {
     "name": "fact-checking-ended",
     "count": 1
   },
@@ -20848,6 +20852,18 @@
     "count": 1
   },
   {
+    "name": "charlotte",
+    "count": 1
+  },
+  {
+    "name": "operation-charlottes-web",
+    "count": 1
+  },
+  {
+    "name": "community-disruption",
+    "count": 1
+  },
+  {
     "name": "fifth-amendment",
     "count": 1
   },
@@ -21089,6 +21105,14 @@
   },
   {
     "name": "morale-crisis",
+    "count": 1
+  },
+  {
+    "name": "operation-catahoula-crunch",
+    "count": 1
+  },
+  {
+    "name": "kenner",
     "count": 1
   },
   {
@@ -21589,10 +21613,6 @@
   },
   {
     "name": "death-toll",
-    "count": 1
-  },
-  {
-    "name": "bovino",
     "count": 1
   },
   {

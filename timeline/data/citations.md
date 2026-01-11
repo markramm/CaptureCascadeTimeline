@@ -22761,6 +22761,14 @@
 1. [Countries Stop Sharing Intelligence With US Amid Boat Strikes](https://time.com/7333231/countries-stop-sharing-intelligence-with-united-states-amid-boat-strikes-caribbean/)
 2. [How many times has the US struck Venezuelan vessels](https://www.aljazeera.com/news/2025/10/17/how-many-times-has-the-us-struck-venezuelan-vessels)
 
+## Bovino Launches 'Operation Charlotte's Web' in North Carolina, 250+ Arrests as 30,000 Students Stay Home
+*Date: 2025-11-15*
+
+1. [Gregory Bovino and CBP are headed next to Charlotte, North Carolina](https://www.cnn.com/2025/11/13/us/charlotte-gregory-bovino-border-patrol)
+2. [Border Patrol agents arrests 81 people on first day of Charlotte operation](https://www.wcnc.com/article/news/politics/immigration-news/81-immigrants-arrested-cbp-charlotte-operation-on-nov-15-2025/275-32188b56-3f57-4af8-8e68-2fd77a936a60)
+3. [Charlotte's Web: What's happening with North Carolina immigration raids?](https://www.aljazeera.com/news/2025/11/18/charlottes-web-whats-happening-with-north-carolina-immigration-raids)
+4. [Federal agents make 130 arrests in 48 hours as immigration crackdown puts Charlotte on edge](https://abcnews.go.com/US/federal-agents-make-130-arrests-48-hours-immigration/story?id=127591461)
+
 ## 60 Minutes Investigation: Former DOJ Officials Call Trump's Binance Pardon 'Unprecedented Corruption'
 *Date: 2025-11-16*
 
@@ -23035,6 +23043,14 @@
 5. [Survey finds low morale among U.S. diplomats after sweeping job cuts](https://www.npr.org/2025/12/03/nx-s1-5627198/survey-finds-low-morale-among-u-s-diplomats-after-sweeping-job-cuts)
 6. [How layoffs will affect the State Department and American diplomacy](https://www.npr.org/2025/07/17/nx-s1-5470145/how-layoffs-will-affect-the-state-department-and-american-diplomacy)
 7. [At the Breaking Point The State of the U.S. Foreign Service in 2025](https://afsa.org/at-the-breaking-point)
+
+## Bovino Launches 'Operation Catahoula Crunch' in New Orleans, Texts 'We Are a Massive Wrecking Crew'
+*Date: 2025-12-03*
+
+1. [Feds launch 'Catahoula Crunch' immigration operation in New Orleans](https://veritenews.org/2025/12/03/border-patrol-operation-begins-new-orleans/)
+2. [The Stagecraft Behind the New Orleans Immigration Raids](https://www.thenation.com/article/society/new-orleans-immigration-raids-operation-catahouls-crumch/)
+3. [Border Patrol reports nearly 350 arrests in Louisiana immigration operation](https://www.fox8live.com/2025/12/16/border-patrol-reports-nearly-350-arrests-louisiana-immigration-operation/)
+4. [Gregory Bovino returns to Louisiana](https://veritenews.org/2025/12/19/border-patrol-bovino-catahoula-crunch/)
 
 ## Pentagon IG Finds Hegseth Shared SECRET//NOFORN Classified Information on Signal, Violated National Security Protocols
 *Date: 2025-12-03*
