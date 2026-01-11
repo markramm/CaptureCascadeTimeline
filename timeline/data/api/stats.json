@@ -1,16 +1,16 @@
 {
-  "total_events": 3267,
-  "total_tags": 5478,
-  "total_actors": 5636,
-  "total_sources": 10905,
+  "total_events": 4233,
+  "total_tags": 6446,
+  "total_actors": 7884,
+  "total_sources": 14677,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-01-08"
   },
   "status_counts": {
     "unknown": 954,
-    "confirmed": 2263,
-    "validated": 31,
+    "confirmed": 3228,
+    "validated": 32,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
@@ -25,86 +25,86 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 521
-    },
-    {
-      "name": "corruption",
-      "count": 269
+      "count": 596
     },
     {
       "name": "institutional-capture",
-      "count": 257
+      "count": 404
     },
     {
-      "name": "kleptocracy",
-      "count": 136
+      "name": "corruption",
+      "count": 293
     },
     {
       "name": "trump-administration",
-      "count": 133
+      "count": 144
+    },
+    {
+      "name": "systematic-corruption",
+      "count": 142
+    },
+    {
+      "name": "kleptocracy",
+      "count": 142
+    },
+    {
+      "name": "supreme-court",
+      "count": 137
     },
     {
       "name": "government-contracts",
-      "count": 129
+      "count": 135
+    },
+    {
+      "name": "surveillance",
+      "count": 120
     },
     {
       "name": "crypto",
       "count": 118
-    },
-    {
-      "name": "surveillance",
-      "count": 112
-    },
-    {
-      "name": "foreign-influence",
-      "count": 99
-    },
-    {
-      "name": "constitutional-crisis",
-      "count": 89
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1037
+      "count": 1074
     },
     {
       "name": "Trump Administration",
-      "count": 328
+      "count": 340
     },
     {
       "name": "Department of Justice",
-      "count": 243
+      "count": 266
     },
     {
       "name": "Elon Musk",
-      "count": 160
+      "count": 162
     },
     {
-      "name": "Pam Bondi",
-      "count": 81
+      "name": "U.S. Congress",
+      "count": 131
     },
     {
       "name": "FBI",
-      "count": 74
+      "count": 90
     },
     {
-      "name": "Heritage Foundation",
-      "count": 68
-    },
-    {
-      "name": "Jeffrey Epstein",
-      "count": 64
-    },
-    {
-      "name": "ICE",
-      "count": 62
+      "name": "Pam Bondi",
+      "count": 82
     },
     {
       "name": "Supreme Court",
-      "count": 61
+      "count": 77
+    },
+    {
+      "name": "Heritage Foundation",
+      "count": 75
+    },
+    {
+      "name": "Ronald Reagan",
+      "count": 72
     }
   ],
-  "generated": "2026-01-11T13:23:44.564786"
+  "generated": "2026-01-11T17:46:37.522701"
 }

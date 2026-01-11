@@ -1,18 +1,18 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-11 13:23:44
+Generated: 2026-01-11 17:46:37
 
 ## Overview
-- **Total Events**: 3267
+- **Total Events**: 4233
 - **Date Range**: 1142-01-01 to 2026-01-08
-- **Total Sources**: 10905
-- **Unique Tags**: 5478
-- **Unique Actors**: 5636
+- **Total Sources**: 14677
+- **Unique Tags**: 6446
+- **Unique Actors**: 7884
 
 ## Event Status
 - **Unknown**: 954
-- **Confirmed**: 2263
-- **Validated**: 31
+- **Confirmed**: 3228
+- **Validated**: 32
 - **Disputed**: 2
 - **Verified**: 1
 - **Enhanced**: 1
@@ -25,101 +25,265 @@ Generated: 2026-01-11 13:23:44
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 521 events
-- corruption: 269 events
-- institutional-capture: 257 events
-- kleptocracy: 136 events
-- trump-administration: 133 events
-- government-contracts: 129 events
+- regulatory-capture: 596 events
+- institutional-capture: 404 events
+- corruption: 293 events
+- trump-administration: 144 events
+- systematic-corruption: 142 events
+- kleptocracy: 142 events
+- supreme-court: 137 events
+- government-contracts: 135 events
+- surveillance: 120 events
 - crypto: 118 events
-- surveillance: 112 events
-- foreign-influence: 99 events
-- constitutional-crisis: 89 events
 
 ## Top Actors
-- Donald Trump: 1037 events
-- Trump Administration: 328 events
-- Department of Justice: 243 events
-- Elon Musk: 160 events
-- Pam Bondi: 81 events
-- FBI: 74 events
-- Heritage Foundation: 68 events
-- Jeffrey Epstein: 64 events
-- ICE: 62 events
-- Supreme Court: 61 events
+- Donald Trump: 1074 events
+- Trump Administration: 340 events
+- Department of Justice: 266 events
+- Elon Musk: 162 events
+- U.S. Congress: 131 events
+- FBI: 90 events
+- Pam Bondi: 82 events
+- Supreme Court: 77 events
+- Heritage Foundation: 75 events
+- Ronald Reagan: 72 events
 
 ## Events by Year
 - 1142: 1 events
 - 1600: 2 events
-- 1722: 1 events
+- 1619: 1 events
+- 1662: 1 events
+- 1676: 1 events
+- 1705: 1 events
+- 1722: 2 events
 - 1750: 1 events
-- 1754: 1 events
-- 1911: 1 events
-- 1914: 1 events
-- 1935: 1 events
-- 1936: 1 events
-- 1947: 1 events
-- 1950: 1 events
-- 1953: 2 events
-- 1954: 1 events
-- 1955: 1 events
-- 1959: 1 events
-- 1962: 1 events
-- 1968: 1 events
-- 1970: 6 events
-- 1971: 10 events
-- 1972: 8 events
-- 1973: 19 events
-- 1974: 8 events
-- 1975: 9 events
-- 1976: 10 events
-- 1977: 15 events
-- 1978: 11 events
-- 1979: 7 events
-- 1980: 12 events
-- 1981: 18 events
-- 1982: 13 events
-- 1983: 6 events
-- 1984: 9 events
-- 1985: 15 events
-- 1986: 7 events
-- 1987: 13 events
-- 1988: 4 events
-- 1989: 13 events
-- 1990: 11 events
-- 1991: 10 events
-- 1992: 7 events
-- 1993: 8 events
-- 1994: 12 events
-- 1995: 10 events
-- 1996: 19 events
-- 1997: 18 events
-- 1998: 29 events
-- 1999: 17 events
-- 2000: 29 events
-- 2001: 33 events
-- 2002: 72 events
-- 2003: 31 events
-- 2004: 27 events
-- 2005: 39 events
-- 2006: 19 events
-- 2007: 22 events
-- 2008: 34 events
-- 2009: 33 events
-- 2010: 45 events
-- 2011: 37 events
-- 2012: 36 events
-- 2013: 63 events
-- 2014: 58 events
-- 2015: 47 events
-- 2016: 93 events
-- 2017: 136 events
-- 2018: 124 events
-- 2019: 129 events
-- 2020: 128 events
-- 2021: 105 events
-- 2022: 86 events
-- 2023: 97 events
-- 2024: 160 events
-- 2025: 1187 events
-- 2026: 23 events
+- 1754: 2 events
+- 1787: 7 events
+- 1790: 2 events
+- 1791: 1 events
+- 1793: 2 events
+- 1794: 2 events
+- 1795: 1 events
+- 1797: 1 events
+- 1798: 2 events
+- 1800: 2 events
+- 1801: 1 events
+- 1803: 2 events
+- 1804: 1 events
+- 1806: 1 events
+- 1807: 2 events
+- 1808: 1 events
+- 1810: 1 events
+- 1812: 1 events
+- 1813: 1 events
+- 1814: 1 events
+- 1816: 2 events
+- 1817: 3 events
+- 1818: 1 events
+- 1819: 4 events
+- 1820: 1 events
+- 1821: 1 events
+- 1822: 1 events
+- 1823: 1 events
+- 1824: 1 events
+- 1825: 1 events
+- 1826: 1 events
+- 1828: 1 events
+- 1829: 1 events
+- 1830: 1 events
+- 1831: 1 events
+- 1832: 3 events
+- 1833: 2 events
+- 1834: 1 events
+- 1835: 2 events
+- 1836: 3 events
+- 1837: 2 events
+- 1838: 2 events
+- 1839: 1 events
+- 1840: 1 events
+- 1841: 1 events
+- 1842: 1 events
+- 1843: 1 events
+- 1844: 1 events
+- 1845: 2 events
+- 1846: 3 events
+- 1847: 1 events
+- 1848: 4 events
+- 1849: 1 events
+- 1850: 2 events
+- 1851: 2 events
+- 1852: 1 events
+- 1853: 1 events
+- 1854: 1 events
+- 1855: 1 events
+- 1856: 2 events
+- 1857: 2 events
+- 1858: 2 events
+- 1859: 1 events
+- 1860: 2 events
+- 1861: 2 events
+- 1862: 4 events
+- 1863: 4 events
+- 1864: 2 events
+- 1865: 4 events
+- 1866: 2 events
+- 1867: 1 events
+- 1868: 4 events
+- 1869: 3 events
+- 1870: 1 events
+- 1871: 3 events
+- 1872: 3 events
+- 1873: 5 events
+- 1874: 6 events
+- 1875: 2 events
+- 1876: 3 events
+- 1877: 5 events
+- 1878: 2 events
+- 1879: 2 events
+- 1880: 1 events
+- 1881: 2 events
+- 1882: 3 events
+- 1883: 1 events
+- 1884: 2 events
+- 1885: 1 events
+- 1886: 6 events
+- 1887: 4 events
+- 1888: 1 events
+- 1889: 1 events
+- 1890: 4 events
+- 1891: 2 events
+- 1892: 6 events
+- 1893: 4 events
+- 1894: 3 events
+- 1895: 3 events
+- 1896: 2 events
+- 1897: 2 events
+- 1898: 5 events
+- 1899: 3 events
+- 1900: 1 events
+- 1901: 7 events
+- 1902: 6 events
+- 1903: 4 events
+- 1904: 2 events
+- 1905: 3 events
+- 1906: 3 events
+- 1907: 2 events
+- 1908: 3 events
+- 1909: 2 events
+- 1910: 2 events
+- 1911: 6 events
+- 1912: 6 events
+- 1913: 9 events
+- 1914: 4 events
+- 1915: 6 events
+- 1916: 5 events
+- 1917: 11 events
+- 1918: 4 events
+- 1919: 7 events
+- 1920: 7 events
+- 1921: 9 events
+- 1922: 7 events
+- 1923: 6 events
+- 1924: 4 events
+- 1925: 6 events
+- 1926: 3 events
+- 1927: 8 events
+- 1928: 2 events
+- 1929: 4 events
+- 1930: 1 events
+- 1931: 2 events
+- 1932: 2 events
+- 1933: 11 events
+- 1934: 9 events
+- 1935: 10 events
+- 1936: 7 events
+- 1937: 11 events
+- 1938: 6 events
+- 1939: 3 events
+- 1940: 3 events
+- 1941: 3 events
+- 1942: 11 events
+- 1943: 5 events
+- 1944: 7 events
+- 1945: 6 events
+- 1946: 6 events
+- 1947: 11 events
+- 1948: 6 events
+- 1949: 6 events
+- 1950: 11 events
+- 1951: 5 events
+- 1952: 2 events
+- 1953: 9 events
+- 1954: 13 events
+- 1955: 5 events
+- 1956: 8 events
+- 1957: 4 events
+- 1958: 3 events
+- 1959: 4 events
+- 1960: 4 events
+- 1961: 3 events
+- 1962: 7 events
+- 1963: 6 events
+- 1964: 11 events
+- 1965: 11 events
+- 1966: 5 events
+- 1967: 7 events
+- 1968: 9 events
+- 1969: 5 events
+- 1970: 12 events
+- 1971: 17 events
+- 1972: 16 events
+- 1973: 30 events
+- 1974: 19 events
+- 1975: 12 events
+- 1976: 13 events
+- 1977: 17 events
+- 1978: 19 events
+- 1979: 10 events
+- 1980: 19 events
+- 1981: 22 events
+- 1982: 18 events
+- 1983: 11 events
+- 1984: 13 events
+- 1985: 17 events
+- 1986: 11 events
+- 1987: 15 events
+- 1988: 10 events
+- 1989: 17 events
+- 1990: 16 events
+- 1991: 13 events
+- 1992: 14 events
+- 1993: 10 events
+- 1994: 16 events
+- 1995: 14 events
+- 1996: 24 events
+- 1997: 23 events
+- 1998: 32 events
+- 1999: 18 events
+- 2000: 34 events
+- 2001: 39 events
+- 2002: 79 events
+- 2003: 36 events
+- 2004: 33 events
+- 2005: 40 events
+- 2006: 21 events
+- 2007: 24 events
+- 2008: 39 events
+- 2009: 37 events
+- 2010: 51 events
+- 2011: 42 events
+- 2012: 41 events
+- 2013: 66 events
+- 2014: 62 events
+- 2015: 59 events
+- 2016: 105 events
+- 2017: 154 events
+- 2018: 137 events
+- 2019: 138 events
+- 2020: 133 events
+- 2021: 110 events
+- 2022: 95 events
+- 2023: 108 events
+- 2024: 168 events
+- 2025: 1222 events
+- 2026: 26 events
