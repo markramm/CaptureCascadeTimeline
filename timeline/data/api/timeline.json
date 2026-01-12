@@ -35161,69 +35161,6 @@
     "_id_hash": "47c7101ec9774d796f69693457b6dbc5ff4dcd8c6eb64fbd0648389c038f6043"
   },
   {
-    "id": "1971-08-23--lewis-powell-issues-memorandum-outlining-corporate-instituti",
-    "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
-    "date": "1971-08-23",
-    "title": "Lewis Powell Issues Memorandum Outlining Corporate Institutional Capture Strategy",
-    "actors": [
-      "Lewis F. Powell Jr.",
-      "Eugene B. Sydnor Jr.",
-      "U.S. Chamber of Commerce"
-    ],
-    "financial_impact": null,
-    "sources": [
-      {
-        "title": "Powell Memo Archives at Washington and Lee University",
-        "url": "https://scholarlycommons.law.wlu.edu/powellmemo/",
-        "outlet": "Washington and Lee University School of Law",
-        "date": "2023-08-15",
-        "key_details": "Official archival source containing the original Powell memo and its historical context"
-      },
-      {
-        "title": "The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy",
-        "url": "https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/",
-        "outlet": "Greenpeace",
-        "date": "2021-08-23",
-        "key_details": "Comprehensive analysis of the memo's strategic implications for corporate influence in democratic institutions"
-      },
-      {
-        "title": "Powell Memo's Impact on American Political Landscape",
-        "url": "https://www.thenation.com/article/society/powell-memo-project-2025-plutocracy/",
-        "outlet": "The Nation",
-        "date": "2023-06-15",
-        "key_details": "Analysis of how the Powell Memo influenced long-term corporate strategy and institutional capture"
-      }
-    ],
-    "importance": 9,
-    "tags": [
-      "powell-memorandum",
-      "institutional-capture-blueprint",
-      "corporate-coordination",
-      "systematic-planning"
-    ],
-    "status": "confirmed",
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Judicial Capture"
-    ],
-    "sources_added": 3,
-    "sources_removed": 2,
-    "sources_validated": 3,
-    "validation_metadata": {
-      "last_corrected": "2025-09-16T19:13:53.784932",
-      "corrected_by": "source-qa-16-bulk-retry",
-      "validation_log_id": 141,
-      "corrections_applied": [
-        "sources_added: '3' → '3'",
-        "sources_removed: '2' → '2'",
-        "sources_validated: '3' → '3'"
-      ]
-    },
-    "summary": "Lewis Powell, two months before Supreme Court nomination, sends confidential memo to U.S. Chamber of Commerce titled \"Attack On American Free Enterprise System.\" The memo outlines systematic plan for corporate coordination to capture key institutions including courts, media, and universities through \"long-range planning,\" \"joint effort,\" and \"united action through national organizations.\"",
-    "_file": "1971-08-23--lewis-powell-issues-memorandum-outlining-corporate-instituti.md",
-    "_id_hash": "0eb0191729927333185c243822c2fccdacec25edb7e8e1ff11a4d68a1d2a149a"
-  },
-  {
     "id": "1971-08-23--powell-memo-corporate-blueprint",
     "date": "1971-08-23",
     "importance": 9,
@@ -35347,86 +35284,6 @@
     "summary": "Lewis Powell drafts confidential memo to the US Chamber of Commerce outlining a systematic strategy for corporate influence, drawing from psychological manipulation techniques similar to those developed in MKULTRA. The memo provides a blueprint for coordinated institutional capture through media, politics, and academic institutions.",
     "_file": "1971-08-23--powell-memo-economic-manipulation-blueprint.md",
     "_id_hash": "1aaa44712cbee8120e7faabe5e8602ba237cf3b4b22a6eb87e0db3261f34a401"
-  },
-  {
-    "id": "1971-08-23--powell-memo-institutional-capture",
-    "date": "1971-08-23",
-    "title": "Lewis Powell Authors Strategic Memorandum for Corporate Institutional Capture",
-    "actors": [
-      "Lewis Powell",
-      "Eugene B. Sydnor Jr.",
-      "U.S. Chamber of Commerce"
-    ],
-    "financial_impact": null,
-    "sources": [
-      {
-        "outlet": "Washington and Lee University School of Law",
-        "title": "Powell Memorandum: Original Archive Document",
-        "url": "https://scholarlycommons.law.wlu.edu/powellmemo/",
-        "access_date": "2025-10-17"
-      },
-      {
-        "outlet": "Senator Sheldon Whitehouse Official Website",
-        "title": "The Scheme 1: The Powell Memo",
-        "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/",
-        "access_date": "2025-10-17"
-      },
-      {
-        "outlet": "Inside Higher Ed",
-        "title": "Powell Memo: Higher Education Impact Analysis",
-        "url": "https://www.insidehighered.com/opinion/views/2023/05/09/launch-long-game",
-        "access_date": "2025-10-17"
-      },
-      {
-        "outlet": "PBS NewsHour",
-        "title": "5 Advocates and Crusaders Who Helped Define Corporate Rights",
-        "url": "https://www.pbs.org/newshour/arts/5-advocates-and-crusaders-who-helped-define-corporate-rights",
-        "access_date": "2025-10-17"
-      },
-      {
-        "outlet": "ProPublica",
-        "title": "Think Tanks and Supreme Court Connections",
-        "url": "https://projects.propublica.org/supreme-connections/organizations/category/think-tank/",
-        "access_date": "2025-10-17",
-        "description": "Demonstrating the long-term impact of Powell's institutional capture strategy across judicial and policy systems"
-      },
-      {
-        "outlet": "Washington and Lee University School of Law Scholarly Commons",
-        "title": "Powell Memorandum: Original Archival Source Full Text",
-        "url": "https://scholarlycommons.law.wlu.edu/powellmemo/1/",
-        "access_date": "2025-10-17",
-        "description": "Comprehensive archival document providing the original unedited memorandum with its full historical context"
-      }
-    ],
-    "importance": 9,
-    "tags": [
-      "powell-memorandum",
-      "institutional-capture",
-      "strategic-planning",
-      "corporate-power",
-      "supreme-court",
-      "think-tank-formation"
-    ],
-    "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
-    "status": "confirmed",
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Judicial Capture",
-      "Financial Capture"
-    ],
-    "validation_metadata": {
-      "last_corrected": "2025-10-17T15:30:00Z",
-      "corrected_by": "qa-batch-5",
-      "validation_log_id": 1363,
-      "corrections_applied": [
-        "Added Inside Higher Ed academic source",
-        "Updated summary with quantitative impact of Powell Memo strategy",
-        "Verified source diversity and contemporary relevance"
-      ]
-    },
-    "summary": "Lewis Powell mailed a confidential, strategic memorandum titled 'Attack On American Free Enterprise System' to Eugene B. Sydnor Jr. at the U.S. Chamber of Commerce. The document outlined a systematic plan for corporations to defend and expand their power by capturing courts, academia, and media through long-term, coordinated strategies. This memo became a foundational blueprint for conservative institutional capture, directly influencing the creation of organizations like the Heritage Foundation, Business Roundtable, and American Legislative Exchange Council (ALEC). Later investigations revealed how this strategy enabled a comprehensive corporate infiltration of American democratic institutions, creating a revolving door between think tanks, industries, and government regulatory bodies. Political scientists have documented that corporate political engagement dramatically increased in the decade following the memo: corporate public affairs offices in Washington grew from 100 in 1968 to over 500 in 1978, and registered corporate lobbyists increased from 175 in 1971 to nearly 2,500 by 1982.",
-    "_file": "1971-08-23--powell-memo-institutional-capture.md",
-    "_id_hash": "5f112abae0e38064c41caab823c7567636c08adad94528f003982ceea98661b6"
   },
   {
     "id": "1971-08-23--powell-memorandum-business-enterprise-blueprint-think-tank-strategy",
@@ -36439,58 +36296,6 @@
     "summary": "The National Association of Manufacturers (NAM) announces it will relocate its main offices from New York to Washington, D.C., marking a strategic shift in corporate political engagement in direct response to the Powell Memo blueprint. NAM's chief executive explicitly states: \"The thing that affects business most today is government,\" echoing Powell's August 1971 call for business to acquire and use political power aggressively. The move represents the beginning of a massive corporate migration to the nation's capital, transforming Washington from a city of 100 corporations with public affairs offices in 1968 to over 500 by 1978. This relocation occurs just weeks after Jack Anderson's public exposure of the Powell Memo and one month before the establishment of the Business Roundtable, demonstrating the rapid corporate mobilization in response to Powell's strategic blueprint. NAM's move signals that major American corporations are abandoning their traditional distance from direct political engagement and embracing Powell's vision of systematic institutional influence through concentrated Washington presence.",
     "_file": "1972-11-01--national-association-manufacturers-moves-washington-lobbying-expansion.md",
     "_id_hash": "25bae826c855c98a4175f3710b0b32b2a9a5dcf6fcfd3276893572f7eb660783"
-  },
-  {
-    "id": "1972-12-01--business-roundtable-established-as-corporate-policy-coordination-body-1757454606",
-    "date": "1972-12-01",
-    "title": "Business Roundtable Established as Corporate Policy Coordination Body",
-    "importance": 9,
-    "status": "validated",
-    "actors": [
-      "John D. Harper",
-      "Fred Borch",
-      "Roger Blough",
-      "Thomas Murphy",
-      "Irving Shapiro",
-      "Clifford Garvin"
-    ],
-    "sources": [
-      {
-        "outlet": "Reuters",
-        "title": "Business Roundtable: How America's Top CEOs United to Shape Policy",
-        "url": "https://www.reuters.com/business/business-roundtable-corporate-lobbying-history/",
-        "date": "2022-03-15"
-      },
-      {
-        "outlet": "The Wall Street Journal",
-        "title": "The Origins of Corporate Advocacy: Business Roundtable's Founding",
-        "url": "https://www.wsj.com/articles/business-roundtable-corporate-lobbying-origins",
-        "date": "2022-06-22"
-      },
-      {
-        "outlet": "C-SPAN",
-        "title": "Business Roundtable Organizational History",
-        "url": "https://www.c-span.org/organization/business-roundtable/15075/",
-        "date": "2021-11-04"
-      }
-    ],
-    "tags": [
-      "capture-cascade",
-      "blueprint",
-      "business-roundtable",
-      "corporate-coordination",
-      "powell-memo",
-      "lobbying",
-      "systematic-corruption"
-    ],
-    "priority_id": "RP-20250109-capture-cascade-part1",
-    "capture_lanes": [
-      "Systematic Corruption",
-      "Corporate Lobbying"
-    ],
-    "summary": "Formation of the Business Roundtable by CEOs of major corporations like Alcoa and General Electric to coordinate political strategy and policy advocacy. Founded by John D. Harper (Alcoa) and Fred Borch (GE), the organization was created to resist union power, counter growing corporate regulation, and provide a unified voice for large corporations in public policy discussions.",
-    "_file": "1972-12-01--business-roundtable-established-as-corporate-policy-coordination-body-1757454606.md",
-    "_id_hash": "b91273446b323dd3ef54371ad56072d961a495757838fd175bca1a8e41ede7d0"
   },
   {
     "id": "1972-12-01--business-roundtable-established-ceo-coordination-infrastructure",
@@ -37555,64 +37360,6 @@
     "summary": "Comprehensive organizational analysis exposes the American Legislative Exchange Council (ALEC) as a systematic state legislative capture mechanism operating under 501(c)(3) tax-exempt status while functioning as corporate lobbying operation. ALEC's structure enables corporations to directly write state legislation and vote alongside legislators in closed-door meetings, then deploy those bills across all 50 states simultaneously.\n\nFUNDING STRUCTURE: ALEC's revenue model reveals the capture mechanism: 98% of the $8-9 million annual budget comes from corporations, corporate trade groups, and foundations, while only 2% comes from legislators. Corporate members pay $7,000-$25,000 annual dues plus $2,500-$10,000 per task force, while legislators pay just $50-$100 annually. This funding asymmetry—corporations pay 70-500 times more than legislators—determines whose interests ALEC serves. Tax records show only $49,000 in legislative dues (2019), suggesting inflated membership claims. ALEC's 990 forms deliberately redact donor identities, hiding corporate funders from public scrutiny.\n\nVOTING STRUCTURE: ALEC's nine task forces grant corporations equal voting power with elected legislators on model legislation. Corporate lobbyists and executives sit at the table as equals with state lawmakers, voting on bills that will be introduced in state legislatures. This creates the extraordinary situation where corporations directly vote on the laws that will regulate them. Task force meetings operate behind closed doors with no press or public access, allowing corporate authorship of legislation to remain hidden when bills are introduced.\n\nSCALE AND INFLUENCE: ALEC coordinates approximately 2,000 state legislators (representing 24-33% of all state legislative seats) across all 50 states with 300+ corporate members. The organization produces 1,000+ model bills introduced annually in state legislatures, with 200+ (20%) enacted into law. Between 2010-2018, ALEC model legislation was introduced 2,900 times with 600+ bills enacted. This industrial-scale production line converts corporate wish lists into state law with legislators serving as willing intermediaries.\n\nCAPTURE MECHANISM: The ALEC model perfects legislative capture through several innovations: (1) Corporations write legislation directly rather than lobbying for it; (2) Equal voting power eliminates the distinction between lobbyist and legislator; (3) Closed-door meetings hide corporate authorship; (4) Legislators introduce bills as their own without disclosure; (5) Coordinated deployment across states creates appearance of grassroots momentum; (6) Model bill templates enable rapid simultaneous introduction; (7) Success in one state provides precedent for others. This transforms state legislatures from democratic bodies into corporate bill-processing facilities, with elected officials serving as delivery mechanisms for pre-written corporate legislation.",
     "_file": "1973-09-01--alec-organizational-profile-state-legislative-capture.md",
     "_id_hash": "979546a24ba4d0845e5167cf15d591a3e1e5e89faa7fe070d5badc8112a89c21"
-  },
-  {
-    "id": "1973-09-01--american-legislative-exchange-council-alec-established",
-    "date": "1973-09-01",
-    "title": "American Legislative Exchange Council (ALEC) Established",
-    "importance": 8,
-    "status": "confirmed",
-    "actors": [
-      "Mark Rhoads",
-      "Paul Weyrich",
-      "Henry Hyde",
-      "State Legislators",
-      "Corporate Members"
-    ],
-    "sources": [
-      {
-        "outlet": "The American Prospect",
-        "title": "After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever",
-        "url": "https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/",
-        "date_accessed": "2025-09-25"
-      },
-      {
-        "outlet": "InfluenceWatch",
-        "title": "American Legislative Exchange Council (ALEC)",
-        "url": "https://www.influencewatch.org/non-profit/american-legislative-exchange-council/",
-        "date_accessed": "2025-09-25"
-      },
-      {
-        "outlet": "Brookings Institution",
-        "title": "ALEC's Influence over Lawmaking in State Legislatures",
-        "url": "https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/",
-        "date_accessed": "2025-10-15"
-      },
-      {
-        "outlet": "Congressional Record",
-        "title": "Tribute to Paul Weyrich: Founding of ALEC",
-        "url": "https://www.govinfo.gov/content/pkg/CRECB-2008-pt17/html/CRECB-2008-pt17-Pg23449-2.htm",
-        "date_accessed": "2025-10-15"
-      }
-    ],
-    "tags": [
-      "capture-cascade",
-      "blueprint",
-      "alec",
-      "state-legislation",
-      "model-bills",
-      "conservative-movement",
-      "corporate-influence"
-    ],
-    "capture_lanes": [
-      "Legislative Capture",
-      "Political System Capture",
-      "Administrative State Capture"
-    ],
-    "validation_notes": "Comprehensive verification of ALEC's founding through multiple sources, including Congressional Record and Brookings Institution, confirming Paul Weyrich's role in establishing the organization in 1973 as a vehicle for conservative legislative influence.",
-    "summary": "The American Legislative Exchange Council (ALEC) was founded in Chicago as the Conservative Caucus of State Legislators, initiated by Mark Rhoads with key involvement from Paul Weyrich. The organization was designed to create a systematic vehicle for corporate and conservative influence over state-level legislation, establishing a platform for corporations to draft model bills and coordinate with state legislators. By 1975, it moved to Washington, D.C., and became a key mechanism for implementing the Powell Memorandum's blueprint for corporate legislative capture.",
-    "_file": "1973-09-01--american-legislative-exchange-council-alec-established.md",
-    "_id_hash": "afd8d036ba89aabbea25317f39ba3a6c9474093d813f0eb22f6730c849a999df"
   },
   {
     "id": "1973-09-03--bunker-hill-smelter-baghouse-fire-corporate-lead-poisoning",
@@ -41469,67 +41216,6 @@
     "_id_hash": "6ea3334e359f99f06255f824ddbd9e85ad3350802b34ed2b2e030656a10a29e7"
   },
   {
-    "id": "1978-04-26--powell-bellotti-decision-corporate-political-speech-rights",
-    "date": "1978-04-26",
-    "title": "Powell Authors Bellotti Decision Granting Corporations First Amendment Political Rights",
-    "importance": 10,
-    "location": "Washington, D.C.",
-    "actors": [
-      "Lewis F. Powell Jr.",
-      "First National Bank of Boston",
-      "Supreme Court"
-    ],
-    "tags": [
-      "bellotti-decision",
-      "corporate-political-speech",
-      "first-amendment",
-      "political-influence",
-      "citizens-united-foundation"
-    ],
-    "capture_lanes": [
-      "Judicial Capture & Corruption"
-    ],
-    "sources": [
-      {
-        "title": "The Scheme 2: Powell on the Court",
-        "url": "https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/",
-        "outlet": "Senator Sheldon Whitehouse",
-        "verified": true,
-        "key_facts_confirmed": [
-          "Powell authored majority opinion in First National Bank v. Bellotti",
-          "Decision held corporations have First Amendment right to influence ballot initiatives",
-          "5-4 decision granting corporations constitutional right to political activity"
-        ]
-      },
-      {
-        "title": "Official Supreme Court Opinion, First National Bank of Boston v. Bellotti",
-        "url": "https://www.loc.gov/item/usrep435765/",
-        "outlet": "U.S. Library of Congress",
-        "verified": true,
-        "key_facts_confirmed": [
-          "Supreme Court case 435 U.S. 765 (1978)",
-          "Corporations have First Amendment political speech rights",
-          "Original full legal text and reasoning"
-        ]
-      },
-      {
-        "title": "Beyond Bellotti: Corporate Political Rights and Democratic Legitimacy",
-        "url": "https://scholarlycommons.law.wlu.edu/casefiles/111/",
-        "outlet": "Washington and Lee University School of Law",
-        "verified": true,
-        "key_facts_confirmed": [
-          "Academic analysis of corporate political speech rights",
-          "Examines long-term implications of Powell's decision",
-          "Provides scholarly context for the Bellotti ruling"
-        ]
-      }
-    ],
-    "status": "confirmed",
-    "summary": "Justice Lewis Powell authors the majority opinion in First National Bank of Boston v. Bellotti, holding for the first time that corporations have First Amendment rights to influence political ballot questions through unlimited expenditures. Powell's 5-4 decision directly implements his 1971 memo's call for corporate political activism, writing that corporate speech receives the same constitutional protection as individual political speech. This decision becomes the foundation for Citizens United (2010) and establishes the constitutional framework for unlimited corporate influence in elections that Powell had advocated in his secret corporate blueprint.",
-    "_file": "1978-04-26--powell-bellotti-decision-corporate-political-speech-rights.md",
-    "_id_hash": "7df2b54fc5875bc9472566459c0c8fff774d44757c24e0bbe37d7e9fab65da57"
-  },
-  {
     "id": "1978-06-06--proposition-13-california-tax-revolt-template",
     "date": "1978-06-06",
     "title": "Proposition 13 Passes in California - Tax Limitation Movement Template",
@@ -43238,68 +42924,6 @@
     "summary": "Justice Lewis Powell delivers 8-1 majority opinion in Central Hudson Gas & Electric Corp. v. Public Service Commission of New York (447 U.S. 557), striking down New York ban on utility promotional advertising and establishing four-part \"Central Hudson test\" for commercial speech regulation. Powell's decision extends First Amendment protection to corporate advertising and promotional speech, ruling that complete advertising bans violate corporate free speech rights. Creates framework requiring government restrictions on commercial speech to be \"not more extensive than necessary\" to serve substantial interests, significantly expanding corporate speech protections beyond political contexts established in Bellotti.",
     "_file": "1980-06-20--central-hudson-commercial-speech-test.md",
     "_id_hash": "9b07417b64a9aabc11cc3cc2dd3ef841d1bc10bb741c64d50152b1d24fdde723"
-  },
-  {
-    "id": "1980-06-20--powell-central-hudson-commercial-speech-test-expansion",
-    "date": "1980-06-20",
-    "title": "Powell Authors Central Hudson Test Expanding Corporate Commercial Speech Protection",
-    "importance": 9,
-    "location": "Washington, D.C.",
-    "actors": [
-      "Lewis F. Powell Jr.",
-      "Central Hudson Gas & Electric Corp.",
-      "New York Public Service Commission"
-    ],
-    "tags": [
-      "central-hudson-test",
-      "commercial-speech-protection",
-      "corporate-advertising",
-      "first-amendment-expansion",
-      "corporate-rights",
-      "judicial-capture"
-    ],
-    "capture_lanes": [
-      "Judicial Capture & Corruption"
-    ],
-    "sources": [
-      {
-        "outlet": "Justia",
-        "title": "Central Hudson Gas & Elec. v. Public Svc. Comm'n",
-        "url": "https://supreme.justia.com/cases/federal/us/447/557/",
-        "key_facts_confirmed": [
-          "Powell delivered majority opinion",
-          "Established four-part test for commercial speech",
-          "Struck down complete ban on utility advertising"
-        ],
-        "verified": true
-      },
-      {
-        "outlet": "Oyez",
-        "title": "Central Hudson Gas & Electric Corp. v. Public Service Commission",
-        "url": "https://www.oyez.org/cases/1979/79-565",
-        "key_facts_confirmed": [
-          "Case argued March 17, 1980",
-          "Decided June 20, 1980",
-          "8-1 Supreme Court decision"
-        ],
-        "verified": true
-      },
-      {
-        "outlet": "First Amendment Encyclopedia",
-        "title": "Central Hudson Test",
-        "url": "https://firstamendment.mtsu.edu/article/central-hudson-test/",
-        "key_facts_confirmed": [
-          "Established four-part test for evaluating commercial speech regulations",
-          "Continues to be primary legal standard for commercial speech",
-          "Significant expansion of corporate communication rights"
-        ],
-        "verified": true
-      }
-    ],
-    "status": "confirmed",
-    "summary": "Justice Powell delivers the Supreme Court majority opinion in Central Hudson Gas & Electric Corp. v. Public Service Commission, establishing the landmark four-part test for commercial speech protection under the First Amendment. The decision strikes down New York's utility advertising restrictions, creating a constitutional framework that significantly expands corporate communication rights beyond previous legal standards.",
-    "_file": "1980-06-20--powell-central-hudson-commercial-speech-test-expansion.md",
-    "_id_hash": "9e73cf009cc79a8d31bf6c1a7ffdeb5b3a86f5223ea69c911c2299f7b5c0ddfc"
   },
   {
     "id": "1980-06-30--schlafly-falwell-stop-era-rally",
@@ -55324,58 +54948,6 @@
     "_id_hash": "fd91f3585a0779b3f8f206f79fdf203c701b200832efdb4f528f2a5741765114"
   },
   {
-    "date": "1996-02-08",
-    "title": "Telecommunications Act of 1996 Enables Media Consolidation Through Corporate Capture",
-    "importance": 9,
-    "actors": [
-      "Bill Clinton",
-      "Telecommunications Industry Lobbyists",
-      "Clear Channel Communications",
-      "Viacom",
-      "Corporate Media Lobbies",
-      "Ralph Nader"
-    ],
-    "tags": [
-      "regulatory-capture",
-      "telecommunications",
-      "deregulation",
-      "media-consolidation",
-      "corporate-lobbying",
-      "monopolization"
-    ],
-    "status": "confirmed",
-    "sources": [
-      {
-        "title": "Telecommunications Act of 1996",
-        "url": "https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996",
-        "outlet": "Wikipedia",
-        "date": "1996-02-08"
-      },
-      {
-        "title": "Democracy in Peril: Twenty Years of Media Consolidation Under the Telecommunications Act",
-        "url": "https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/",
-        "outlet": "Truthout",
-        "date": "2016-02-08"
-      },
-      {
-        "title": "Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill",
-        "url": "https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest",
-        "outlet": "NPR",
-        "date": "1996-02-15"
-      },
-      {
-        "title": "The Net @ Risk: Big, Bigger, Biggest Media",
-        "url": "http://www.pbs.org/moyers/citizensclass/the_net_risk/big_bigger_biggest_media/",
-        "outlet": "PBS",
-        "date": "2006-09"
-      }
-    ],
-    "id": "1996-02-08--telecommunications-act-corporate-capture-deregulation",
-    "summary": "President Bill Clinton signs the Telecommunications Act of 1996, the first major overhaul of U.S. telecommunications law in over 60 years. While ostensibly designed to promote competition by allowing 'anyone to enter any communications business,' the act was heavily influenced by corporate lobbying and ultimately enabled massive media consolidation. The legislation was 'essentially bought and paid for by corporate media lobbies' according to critics. Rather than increasing competition, it facilitated market concentration, with companies like Clear Channel expanding from 40 radio stations to 1,240 stations. By 2005, just two companies controlled one-third to one-half of the entire radio industry. The act also consolidated television ownership, with five companies controlling three-quarters of prime-time television by 2006. This represented a classic case of regulatory capture where deregulation intended to benefit consumers instead served corporate interests, leading to reduced diversity in programming, loss of local news coverage, and elimination of tens of thousands of jobs in the media industry.",
-    "_file": "1996-02-08--telecommunications-act-corporate-capture-deregulation.md",
-    "_id_hash": "caedd865faf3280a03f429514062d22c00b7aef162253ad676a1d7b29ad2f866"
-  },
-  {
     "id": "1996-02-08--telecommunications-act-eliminates-media-ownership-limits",
     "date": "1996-02-08",
     "title": "Telecommunications Act of 1996 Eliminates Radio Ownership Caps and Raises TV Limits, Triggering Massive Media Consolidation",
@@ -56778,103 +56350,6 @@
     "_id_hash": "fc0d0611bdb901f6d1aea333c5855f730c510413edc20ff4128cb74be439ca65"
   },
   {
-    "id": "1997-07-02--asian-financial-crisis-thai-baht-collapse",
-    "date": "1997-07-02",
-    "title": "Thai Baht Collapse Triggers Systemic Southeast Asian Economic Crisis",
-    "actors": [
-      "Thai Government",
-      "International Monetary Fund (IMF)",
-      "World Bank",
-      "McKinsey & Company",
-      "Asian Development Bank"
-    ],
-    "importance": 9,
-    "sources": [
-      {
-        "outlet": "IMF Finance & Development",
-        "title": "The Asian Crisis: Causes and Cures",
-        "url": "https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm",
-        "date": "1998-06"
-      },
-      {
-        "outlet": "Federal Reserve History",
-        "title": "Asian Financial Crisis Overview",
-        "url": "https://www.federalreservehistory.org/essays/asian-financial-crisis",
-        "date": "2013"
-      },
-      {
-        "outlet": "Bank of Thailand",
-        "title": "Lessons Learned from the Tom Yum Kung Crisis",
-        "url": "https://www.bot.or.th/en/our-roles/special-measures/Tom-Yum-Kung-lesson.html",
-        "date": "2007"
-      }
-    ],
-    "tags": [
-      "asian-financial-crisis",
-      "currency-collapse",
-      "imf-intervention",
-      "structural-adjustment",
-      "economic-vulnerability",
-      "global-financial-systems"
-    ],
-    "capture_lanes": [
-      "Financial Capture",
-      "Intelligence Penetration",
-      "Economic Destabilization",
-      "International Financial Governance"
-    ],
-    "status": "confirmed",
-    "economic_crisis_details": {
-      "pre_crisis_conditions": {
-        "economic_growth_period": {
-          "years": "1985-1996",
-          "average_growth_rate": 9.0,
-          "currency_peg": "25 baht per USD"
-        },
-        "economic_vulnerabilities": [
-          "Widening current account deficit",
-          "Unsustainable fixed exchange rate",
-          "Weak financial system supervision"
-        ]
-      },
-      "crisis_mechanics": {
-        "trigger_date": "1997-07-02",
-        "initial_events": [
-          "Currency speculation attacks",
-          "Exhaustion of foreign exchange reserves",
-          "Forced currency float"
-        ],
-        "currency_depreciation": {
-          "pre_crisis_rate": 25,
-          "january_1998_rate": 56,
-          "total_depreciation_percentage": 124
-        }
-      },
-      "international_response": {
-        "total_financial_support": "$118 billion",
-        "supporting_institutions": [
-          "International Monetary Fund",
-          "World Bank",
-          "Asian Development Bank"
-        ],
-        "aid_conditions": [
-          "Structural economic reforms",
-          "Financial system restructuring",
-          "Improved economic transparency"
-        ]
-      },
-      "long_term_consequences": [
-        "Establishment of Chiang Mai Initiative",
-        "Regional financial system reforms",
-        "Increased economic transparency",
-        "Restructured international financial governance"
-      ]
-    },
-    "summary": "Thailand floats the baht on July 2, 1997, causing a dramatic currency devaluation that triggers the Asian Financial Crisis. After years of rapid economic growth and significant current account deficits, Thailand was forced to abandon its fixed exchange rate, with the baht depreciating from 25 to 56 per U.S. dollar by January 1998. This event marked a critical moment of financial vulnerability, prompting massive IMF intervention and revealing deep structural weaknesses in Southeast Asian economies.",
-    "_file": "1997-07-02--asian-financial-crisis-thai-baht-collapse.md",
-    "_id_hash": "aea1d31044ea8a389bc63d39d2da1d66364c02dd69f156c0a7a63ce48315a69f"
-  },
-  {
     "id": "1997-07-02--imf-asian-financial-crisis-intervention-starts",
     "date": "1997-07-02",
     "title": "IMF Begins Structural Adjustment in Asian Financial Crisis",
@@ -57991,55 +57466,6 @@
     "summary": "The American Petroleum Institute (API) organized and funded a Global Climate Science Communications Plan, revealed in the leaked \"Victory\" memo outlining a multiyear, multimillion-dollar scheme to create uncertainty about established climate science. Created months after the Kyoto Protocol was signed, the plan was developed by representatives from ExxonMobil (Randy Randol), Chevron, Southern Company and conservative organizations. The strategy aimed to achieve \"victory\" when \"average citizens understand uncertainties in climate science\" and \"recognition of uncertainties becomes part of conventional wisdom.\" The plan included recruiting and training scientists to debunk global warming on radio shows, press briefings, and campus workshops while keeping their oil company funding secret. This represented a systematic approach to install \"uncertainty\" in public policy despite internal company knowledge that climate change was actively occurring. The memo was exposed on the front page of the New York Times, revealing the industry's coordinated disinformation campaign.",
     "_file": "1998-04-03--american-petroleum-institute-\"victory\"-memo-outlin.md",
     "_id_hash": "87b1f4c109dd60848b59e3f76b9025d0b90cfe55d5d89c67e3db70511d38773a"
-  },
-  {
-    "id": "1998-04-03--american-petroleum-institute-victory-memo-outlines-climate-d",
-    "date": "1998-04-03",
-    "title": "American Petroleum Institute \"Victory\" Memo Exposes Climate Disinformation Strategy",
-    "importance": 9,
-    "sources": [
-      {
-        "outlet": "Climate Files",
-        "title": "1998 American Petroleum Institute Global Climate Science Communications Team Action Plan",
-        "url": "https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/"
-      },
-      {
-        "outlet": "The New York Times",
-        "title": "Industrial Group Plans to Battle Climate Treaty",
-        "url": "https://www.nytimes.com/1998/04/26/us/industrial-group-plans-to-battle-climate-treaty.html",
-        "date": "1998-04-26"
-      },
-      {
-        "outlet": "Union of Concerned Scientists",
-        "title": "The Climate Deception Dossiers: Internal Fossil Fuel Industry Memos",
-        "url": "https://www.ucs.org/sites/default/files/attach/2015/07/The-Climate-Deception-Dossiers.pdf"
-      }
-    ],
-    "tags": [
-      "climate-denial",
-      "disinformation",
-      "fossil-fuels",
-      "public-manipulation",
-      "media-influence",
-      "corporate-strategy"
-    ],
-    "actors": [
-      "American Petroleum Institute",
-      "Randy Randol",
-      "ExxonMobil",
-      "Chevron",
-      "Southern Company",
-      "Edison Electric Institute",
-      "National Mining Association"
-    ],
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Regulatory Capture",
-      "Information Warfare"
-    ],
-    "summary": "The American Petroleum Institute (API) organized and funded a sophisticated Global Climate Science Communications Plan designed to systematically create doubt about established climate science. Leaked in April 1998, this strategy memo outlined a multimillion-dollar campaign to undermine public understanding of climate change, specifically targeting media, policymakers, and educators. Key participants including ExxonMobil, Chevron, and Southern Company aimed to achieve \"victory\" by making scientific uncertainty a part of \"conventional wisdom\". The plan was developed just months after the Kyoto Protocol, revealing a coordinated effort by fossil fuel companies to obstruct climate action through strategic disinformation.",
-    "_file": "1998-04-03--american-petroleum-institute-victory-memo-outlines-climate-d.md",
-    "_id_hash": "b9b231da7d5a59c7162f3f1ecc1a7f6d9cb947d4da9ef630e2395bdb55099b05"
   },
   {
     "id": "1998-04-06--citicorp-travelers-merger-glass-steagall-violation",
@@ -63333,55 +62759,6 @@
     "_id_hash": "250365c1d45e80c2f2a58dc43b5a7c4ad2267eb5d0fe8d1bfcb138852189010e"
   },
   {
-    "id": "2001-10-04--bush-authorizes-nsa-stellarwind-surveillance-program",
-    "date": "2001-10-04",
-    "importance": 9,
-    "title": "Bush Authorizes NSA STELLARWIND Warrantless Surveillance Program",
-    "actors": [
-      "George W. Bush",
-      "Dick Cheney",
-      "NSA",
-      "Michael Hayden"
-    ],
-    "tags": [
-      "nsa-surveillance",
-      "warrantless-wiretapping",
-      "stellarwind",
-      "fourth-amendment",
-      "fisa"
-    ],
-    "status": "confirmed",
-    "sources": [
-      {
-        "title": "NSA Inspector General Report on President's Surveillance Program",
-        "url": "https://www.aclu.org/files/natsec/nsa/20130816/NSA%20IG%20Report.pdf",
-        "outlet": "NSA Office of Inspector General",
-        "date": "2009-03-24"
-      },
-      {
-        "title": "President's Surveillance Program worked with private sector to collect data after Sept. 11, 2001",
-        "url": "https://www.washingtonpost.com/investigations/presidents-surveillance-program-worked-with-private-sector-to-collect-data-after-sept-11-2001/2013/06/27/2c7a7e74-df57-11e2-b2d4-ea6d8f477a01_story.html",
-        "outlet": "The Washington Post",
-        "date": "2013-06-27"
-      },
-      {
-        "title": "Edward Snowden and the STELLARWIND report",
-        "url": "https://www.electrospaces.net/2020/03/edward-snowden-and-stellarwind-report.html",
-        "outlet": "Electrospaces.net",
-        "date": "2020-03-01"
-      }
-    ],
-    "notes": "The October 4, 2001 date represents the formal presidential authorization of what became known as STELLARWIND. Created by Dick Cheney and classified as 'exceptionally controlled information,' the program collected phone and internet metadata on millions of Americans without warrants. The authorization was renewed every 45 days for over 5 years until exposed by the New York Times in December 2005. The program operated under the code name of the President's Surveillance Program (PSP) and represented mass constitutional violations of the Fourth Amendment.",
-    "capture_lanes": [
-      "Judicial Capture",
-      "Intelligence Penetration",
-      "Executive Power Expansion"
-    ],
-    "summary": "President Bush signed presidential authorization for warrantless surveillance program bypassing FISA courts on October 4, 2001. Created by Dick Cheney, the NSA STELLARWIND program was classified as 'exceptionally controlled information' and collected phone and internet metadata on millions of Americans without warrants. The program operated outside traditional legal frameworks, with NSA officials rather than judges authorizing surveillance of Americans based on 'reasonable basis' rather than 'probable cause.' The authorization was renewed every 45 days for over 5 years until exposed by the New York Times in December 2005. STELLARWIND brought Americans within NSA's surveillance domain for the first time in decades, violating Fourth Amendment protections and representing the largest expansion of domestic surveillance since the Church Committee reforms of the 1970s.",
-    "_file": "2001-10-04--bush-authorizes-nsa-stellarwind-surveillance-program.md",
-    "_id_hash": "9b6a6a73b63580046b783bc65064c61f5a7a4d6c5675a14370ec3adc9c0a1475"
-  },
-  {
     "date": "2001-10-04",
     "title": "Bush Authorizes NSA Warrantless Surveillance Program",
     "importance": 10,
@@ -63870,64 +63247,6 @@
     "summary": "The Argentine government enacts emergency measures known as the 'corralito' (little corral), freezing bank accounts and limiting cash withdrawals to $250 per week, triggering the final stage of a devastating economic collapse driven by IMF-imposed austerity. The freeze comes after four years of failed IMF orthodoxy: despite the Fund's insistence that 'failures in fiscal policy constitute the root cause' and prescribing fiscal and monetary austerity to revive investor confidence, the economy has lost more than 20% of GDP since 1998. In July 2001, the government passed the Zero Deficit Law under IMF pressure, delivering drastic cuts in public spending and slashing state salaries and pensions by 13%. The corralito prevents Argentines from accessing their own money, leading to widespread protests marked by the incessant noise of banging pans (cacerolazos) throughout Buenos Aires. On December 19-20, police brutality reaches its peak: 39 people are killed and hundreds injured in crackdowns on protests. President Fernando de la Rúa resigns and is succeeded by five presidents in less than two weeks. On December 22, President Rodriguez Saá announces Argentina's default on its debt to the IMF—the largest sovereign default in history at that time. When it becomes clear the IMF program is unsustainable, the Fund refuses to disburse a $1.24 billion tranche of its $21.6 billion loan, accelerating the collapse. The economy ultimately shrinks 28% from 1998 to 2002. At the depth of the crisis in 2002, over 50% of Argentines live below the poverty line, 25% are indigent, seven out of ten children are poor, unemployment reaches 23%, and 40,000 companies shut down. Argentina's convertibility plan—pegging the peso one-to-one with the dollar since 1991 to cure hyperinflation—collapses entirely. The crisis provides a textbook case of how IMF structural adjustment creates vicious cycles of decline rather than recovery, with austerity deepening recession and enriching international creditors while devastating local populations.",
     "_file": "2001-12-01--argentina-corralito-bank-freeze-imf-austerity.md",
     "_id_hash": "d238d0842b564725a2e87e9bd878735c8918ba273ede92ed3c0422bd02a12344"
-  },
-  {
-    "date": "2001-12-02",
-    "title": "Enron Files for Bankruptcy After Energy Task Force Influence",
-    "importance": 9,
-    "status": "confirmed",
-    "actors": [
-      "Enron",
-      "Kenneth Lay",
-      "Jeffrey Skilling",
-      "Dick Cheney",
-      "George W. Bush"
-    ],
-    "sources": [
-      {
-        "outlet": "International Banker",
-        "title": "The Enron Scandal (2001)",
-        "url": "https://internationalbanker.com/history-of-financial-crises/the-enron-scandal-2001/",
-        "date": "2021-12-02"
-      },
-      {
-        "outlet": "Britannica",
-        "title": "Enron Scandal: Summary and Key Facts",
-        "url": "https://www.britannica.com/event/Enron-scandal",
-        "date": "2022-08-15"
-      },
-      {
-        "outlet": "TIME",
-        "title": "Top 10 Crooked CEOs: Kenneth Lay & Jeffrey Skilling",
-        "url": "https://content.time.com/time/specials/packages/article/0,28804,1903155_1903156_1903186,00.html",
-        "date": "2009-11-04"
-      },
-      {
-        "outlet": "Levin Center for Oversight and Democracy",
-        "title": "Congress and the Enron Scandal",
-        "url": "https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/",
-        "date": "2023-01-15"
-      }
-    ],
-    "tags": [
-      "enron",
-      "bankruptcy",
-      "corporate-fraud",
-      "corruption",
-      "financial-crime",
-      "bush-administration",
-      "energy-policy"
-    ],
-    "id": "2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence-1757454841",
-    "priority_id": "RT-COMPLETED-004-enron-cheney-connection",
-    "capture_lanes": [
-      "Financial Capture",
-      "Intelligence Penetration",
-      "Executive Power Expansion"
-    ],
-    "summary": "Enron filed for bankruptcy on December 2, 2001, marking the largest corporate bankruptcy in U.S. history at the time, with $63.4 billion in assets. The collapse revealed extensive corporate fraud orchestrated by CEO Kenneth Lay and President Jeffrey Skilling, who manipulated financial statements and enriched themselves while destroying the livelihoods of 20,000 employees. The bankruptcy occurred seven months after the Bush administration's National Energy Policy was released, which incorporated recommendations from Enron executives during Vice President Cheney's Energy Task Force meetings.",
-    "_file": "2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence-1757454841.md",
-    "_id_hash": "82b8caa9cb9b1cf4e37f352d9997a10e3744f604b27419be127648c625c06543"
   },
   {
     "id": "2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence",
@@ -66332,138 +65651,6 @@
     "_id_hash": "737074f1462ad0050cb4be388e648c031739a2b808af3b312095422c6c3088b3"
   },
   {
-    "id": "2002-09-05--whig-mushroom-cloud-fear-campaign",
-    "date": "2002-09-05",
-    "title": "WHIG Develops \"Smoking Gun/Mushroom Cloud\" Systematic Fear Campaign",
-    "actors": [
-      "Michael Gerson",
-      "Karl Rove",
-      "Andrew Card",
-      "Condoleezza Rice",
-      "Karen Hughes",
-      "I. Lewis Libby"
-    ],
-    "financial_impact": null,
-    "sources": [
-      {
-        "outlet": "Wikipedia",
-        "title": "White House Iraq Group",
-        "url": "https://en.wikipedia.org/wiki/White_House_Iraq_Group"
-      },
-      {
-        "outlet": "SourceWatch",
-        "title": "White House Iraq Group: Origins and Tactics",
-        "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group"
-      },
-      {
-        "outlet": "Newsweek",
-        "title": "Karl Rove's Iraq War Role",
-        "url": "https://www.newsweek.com/karl-roves-iraq-war-role-98969"
-      }
-    ],
-    "importance": 8,
-    "tags": [
-      "whig",
-      "fear-propaganda",
-      "systematic-messaging",
-      "crisis-exploitation",
-      "iraq-war",
-      "bush-administration"
-    ],
-    "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
-    "status": "confirmed",
-    "capture_lanes": [
-      "Systematic Corruption",
-      "Media Manipulation",
-      "War Propaganda"
-    ],
-    "summary": "In a pivotal White House Iraq Group (WHIG) meeting, chief Bush speechwriter Michael Gerson proposed the \"smoking gun/mushroom cloud\" metaphor to systematically exploit nuclear fears and generate public support for the Iraq War. This meeting exemplified the group's sophisticated propaganda tactics, designed to escalate rhetoric about Iraq's alleged threats and build momentum for invasion.",
-    "_file": "2002-09-05--whig-mushroom-cloud-fear-campaign.md",
-    "_id_hash": "96b3ca63b5bbe3be028fdd43df4a0f4f6f5559ae40d0cbadc82ced7fe658dbca"
-  },
-  {
-    "id": "2002-09-06--card-marketing-democracy-crisis-timing",
-    "date": "2002-09-06",
-    "title": "Andrew Card Reveals Marketing-Based Approach to Democratic Crisis Exploitation",
-    "actors": [
-      "Andrew Card",
-      "Elisabeth Bumiller",
-      "Dick Cheney",
-      "Condoleezza Rice",
-      "Donald Rumsfeld",
-      "Colin Powell",
-      "New York Times",
-      "White House Iraq Group"
-    ],
-    "importance": 9,
-    "sources": [
-      {
-        "outlet": "Democracy Now!",
-        "title": "Card: 'From a marketing point of view, you don't introduce new products in August'",
-        "url": "https://www.democracynow.org/2002/9/9/headlines/card_from_a_marketing_point_of_view_you_dont_introduce_new_products_in_august",
-        "date": "2002-09-09"
-      },
-      {
-        "outlet": "CNN",
-        "title": "Marketing Iraq: Why now?",
-        "url": "http://edition.cnn.com/2002/ALLPOLITICS/09/12/schneider.iraq/index.html",
-        "date": "2002-09-12"
-      },
-      {
-        "outlet": "Arab News",
-        "title": "Big Guns of August: New PR Offensive for Iraq War",
-        "url": "https://www.arabnews.com/node/301397",
-        "date": "2002-09-15"
-      }
-    ],
-    "tags": [
-      "whig",
-      "marketing-democracy",
-      "powell-memo-acceleration",
-      "crisis-timing",
-      "media-manipulation",
-      "war-propaganda"
-    ],
-    "capture_lanes": [
-      "Legislative Capture",
-      "Executive Power Expansion",
-      "Media Manipulation",
-      "Public Opinion Engineering"
-    ],
-    "status": "confirmed",
-    "strategic_communication_details": {
-      "marketing_approach": {
-        "primary_statement": "From a marketing point of view, you don't introduce new products in August",
-        "strategic_timing_rationale": [
-          "Maximize political impact",
-          "Build congressional support",
-          "Manage public perception"
-        ],
-        "communication_phases": [
-          "Summer: Preparation and messaging development",
-          "September: Initial public rollout",
-          "Winter: Intensive media campaign"
-        ]
-      },
-      "media_strategy": {
-        "key_spokespersons": [
-          "Dick Cheney",
-          "Condoleezza Rice",
-          "Donald Rumsfeld",
-          "Colin Powell"
-        ],
-        "strategic_milestones": [
-          "September 2002: Initial messaging",
-          "February 2003: UN presentation by Powell"
-        ]
-      }
-    },
-    "priority_id": "RT-COMPLETED-025-powell-whig-template-acceleration",
-    "summary": "White House Chief of Staff Andrew Card told The New York Times that \"From a marketing point of view, you don't introduce new products in August,\" openly framing the potential Iraq War as a calculated marketing campaign. This statement exposed the White House Iraq Group's systematic approach to manipulating public perception, treating war as a consumer product to be strategically launched and sold to the American public. Card's quote demonstrated the administration's prioritization of strategic communication over democratic transparency.",
-    "_file": "2002-09-06--card-marketing-democracy-crisis-timing.md",
-    "_id_hash": "64e2c6e9f805506be66a4b39c36cc17fa063393d2657c48399695a1a6d33164e"
-  },
-  {
     "id": "2002-09-06--card-marketing-democracy-crisis",
     "date": "2002-09-06",
     "title": "Andrew Card Reveals Marketing-Based Approach to Iraq War Campaign",
@@ -66675,65 +65862,6 @@
     "summary": "The White House Iraq Group (WHIG) coordinated an unprecedented media manipulation campaign in September 2002 to build public support for the Iraq War. On September 7-8, 2002, top administration officials including Cheney, Rice, and Rumsfeld appeared on all five major Sunday news programs, delivering synchronized talking points about Iraq's alleged nuclear weapons program. Chief of Staff Andrew Card later admitted the timing was deliberate, comparing it to a marketing product launch. The group used a carefully crafted 'mushroom cloud' metaphor, proposed by Michael Gerson, to create fear and justify potential military intervention. Academic studies have since documented this as a systematic propaganda effort that exploited media channels to shape public perception.",
     "_file": "2002-09-07--whig-coordinates-sunday-show-booking-blitz.md",
     "_id_hash": "92c5bb9dca14c8079756cfac532d6af5cd8eac6eeaa2081b3f31ee7efc1f239f"
-  },
-  {
-    "id": "2002-09-07--whig-coordinates-synchronized-sunday-show-booking-blitz",
-    "date": "2002-09-07",
-    "importance": 9,
-    "title": "WHIG Coordinates Synchronized Sunday Show Booking Blitz",
-    "actors": [
-      "White House Iraq Group",
-      "Karen Hughes",
-      "Mary Matalin",
-      "George W. Bush",
-      "Dick Cheney",
-      "Condoleezza Rice",
-      "Andrew Card",
-      "CBS Booking Producers",
-      "NBC Booking Producers",
-      "CNN Booking Producers"
-    ],
-    "tags": [
-      "whig",
-      "media-coordination",
-      "booking-manipulation",
-      "sunday-shows",
-      "synchronized-messaging",
-      "network-executives",
-      "propaganda-infrastructure",
-      "constitutional-crisis"
-    ],
-    "status": "confirmed",
-    "sources": [
-      {
-        "title": "White House Iraq Group",
-        "url": "https://sourcewatch.org/index.php/White_House_Iraq_Group",
-        "outlet": "SourceWatch",
-        "date": "2007-03-06"
-      },
-      {
-        "title": "The Broader Conspiracy: What We Already Know About the White House Iraq Group",
-        "url": "https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/",
-        "outlet": "Think Progress",
-        "date": "2007-03-08"
-      },
-      {
-        "title": "Why War? - In Their Own Words - Who Said What When",
-        "url": "https://www.pbs.org/wgbh/pages/frontline/shows/truth/why/said.html",
-        "outlet": "PBS Frontline",
-        "date": "2004-01-29"
-      }
-    ],
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Regulatory Capture",
-      "Legislative Capture",
-      "Intelligence Penetration",
-      "Executive Power Expansion"
-    ],
-    "summary": "The White House Iraq Group executes an unprecedented coordination of television booking schedules for September 8, 2002, orchestrating simultaneous appearances by senior Bush administration officials across major networks. Communications strategists Karen Hughes and Mary Matalin, both WHIG consultants, coordinate with network booking producers to ensure synchronized messaging delivery. President Bush appears on CBS, Vice President Cheney on NBC's Meet the Press, and National Security Advisor Condoleezza Rice on CNN's Late Edition, all delivering identical nuclear fear talking points about aluminum tubes and mushroom clouds. This systematic booking coordination represents a fundamental transformation of news programming into synchronized propaganda platforms. The coordinated appearances are pre-arranged through advance contacts with network executives and booking producers, ensuring no competing narratives during the crucial post-Labor Day rollout period. Andrew Card's strategy of not 'introducing new products in August' culminates in this sophisticated media manipulation operation, demonstrating how WHIG converted competitive news outlets into cooperative propaganda distribution networks. The booking coordination extends beyond individual appearances to encompass timing, messaging synchronization, and strategic scheduling that eliminates independent journalistic inquiry in favor of orchestrated government messaging.",
-    "_file": "2002-09-07--whig-coordinates-synchronized-sunday-show-booking-blitz.md",
-    "_id_hash": "c7803208d66d01a41be73fb3fc64570f044fe8903e3dfdfeb5f2e489f3f00f1f"
   },
   {
     "id": "2002-09-07--whig-media-blitz-iraq-wmds",
@@ -69270,64 +68398,6 @@
     "summary": "Vanity Fair editor Graydon Carter removes allegations from reporter Vicky Ward's exposé about Jeffrey Epstein's abuse of underage girls after a meeting with Epstein. The original story included detailed accounts from victims, but the published version omitted these crucial allegations, representing a major media cover-up that protected Epstein for years.",
     "_file": "2003-03-01--vanity-fair-editor-removes-epstein-victim-allegati.md",
     "_id_hash": "91b68af26331a8bbb67c1587615eea61b596a25d2d73ef028b61fcf083d21c05"
-  },
-  {
-    "actors": [
-      "Dick Cheney",
-      "Halliburton",
-      "KBR",
-      "Army Corps of Engineers",
-      "Bunnatine Greenhouse"
-    ],
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Financial Capture",
-      "Intelligence Penetration",
-      "Executive Power Expansion"
-    ],
-    "category": "constitutional-crisis",
-    "created_date": "2025-09-06T03:41:26.656456",
-    "created_from": "research-priority-RT-004-enron-cheney-connection",
-    "date": "2003-03-08",
-    "id": "2003-03-08--halliburton-awarded-7-billion-no-bid-iraq-contract",
-    "importance": 9,
-    "sources": [
-      {
-        "date": "2004-10-28",
-        "outlet": "Center for Public Integrity",
-        "title": "Documents Reveal Concern Regarding Halliburton Contracts",
-        "url": "https://publicintegrity.org/national-security/documents-reveal-concern-regarding-halliburton-contracts/"
-      },
-      {
-        "date": "2005-01-15",
-        "outlet": "Senate Democratic Policy Committee",
-        "title": "Oversight Hearings: Waste, Fraud, and Corruption in Iraq Contracting",
-        "url": "https://www.dpc.senate.gov/dpcdoc.cfm?doc_name=sr-110-2-140"
-      },
-      {
-        "date": "2003-11-15",
-        "outlet": "CorpWatch",
-        "title": "Army Agrees to New Investigation of $7 Billion Halliburton Contract",
-        "url": "https://corpwatch.org/article/iraq-army-agrees-new-investigation-7-billion-halliburton-contract"
-      }
-    ],
-    "status": "confirmed",
-    "tags": [
-      "iraq-war",
-      "cheney",
-      "halliburton",
-      "war-profiteering",
-      "corruption",
-      "energy",
-      "corporate-capture",
-      "no-bid-contracts",
-      "military-industrial-complex"
-    ],
-    "title": "Halliburton Awarded $7 Billion No-Bid Iraq Contract",
-    "verification_status": "documented",
-    "summary": "Halliburton subsidiary KBR was secretly awarded a $7 billion no-bid contract to rebuild Iraq's oil infrastructure, just days before the invasion began. The contract was awarded by the Army Corps of Engineers without competitive bidding, citing 'emergency circumstances.' Vice President Dick Cheney, Halliburton's former CEO who still received deferred compensation from the company, denied involvement in the contract award despite emails showing his office coordinated with the Pentagon. Army Corps of Engineers chief procurement officer Bunnatine Greenhouse publicly testified about contract irregularities, alleging improper and potentially illegal contract procedures. A Pentagon audit later found KBR overcharged the government by $61 million for gasoline and $67 million for dining services. The no-bid contract violated federal procurement regulations and represented a massive conflict of interest, enriching the Vice President's former company through a war he advocated for based on false intelligence.",
-    "_file": "2003-03-08--halliburton-awarded-7-billion-no-bid-iraq-contract.md",
-    "_id_hash": "87afb3a0b7627d908fd3ac4a2fb072ff5703d1b43ca3eaaf33d92cec2f31d87e"
   },
   {
     "id": "2003-03-08--halliburton-gets-95b-iraq-contracts-with-cheney-ti",
@@ -75128,57 +74198,6 @@
     "summary": "On October 23, 2006, former Enron CEO Jeffrey Skilling was sentenced to 24 years and four months in federal prison for his role in the Enron fraud, representing one of the harshest sentences ever imposed on a corporate executive. U.S. District Judge Sim Lake also ordered Skilling to forfeit approximately $45 million to be applied toward restitution for victims of Enron's collapse.\n\nSkilling, convicted on May 25, 2006, of 19 counts including securities fraud, wire fraud, insider trading, and conspiracy, served as Enron's CEO from February to August 2001—the critical period when the company's fraudulent accounting schemes unraveled. Prosecutors proved that Skilling knowingly participated in deceiving investors and employees about Enron's true financial condition while using complex off-balance-sheet partnerships to hide billions in debt and inflate profits.\n\nThe 24-year sentence came just three months after Enron founder Kenneth Lay died of a heart attack before his own sentencing hearing. Judge Lake's harsh sentence sent a message that top executives could not escape personal criminal accountability for corporate fraud, even when they claimed ignorance of the details of accounting manipulations they had authorized and profited from.\n\nHowever, Skilling's sentence would mark the end, not the beginning, of aggressive executive prosecution. In 2013, Skilling's sentence was reduced to 14 years as part of a deal with prosecutors, and he was released from prison in August 2018 after serving just 12 years. More significantly, after the 2008 financial crisis—which involved fraud far exceeding Enron's scale—no major Wall Street CEOs went to prison at all. The Skilling prosecution represented the last time federal prosecutors successfully pursued lengthy prison sentences for Fortune 500 executives involved in systematic corporate fraud.",
     "_file": "2006-10-23--jeffrey-skilling-sentenced-24-years-enron-fraud.md",
     "_id_hash": "529e59301ee122fc2158fb03329cdde5cb6a82d485a8f200a5b4943f8ce6e720"
-  },
-  {
-    "id": "2006-12-07--bush-administration-attorney-firings-scandal",
-    "date": "2006-12-07",
-    "title": "Bush Administration Fires Seven U.S. Attorneys in Coordinated Purge",
-    "importance": 8,
-    "tags": [
-      "doj-weaponization",
-      "attorney-firings",
-      "karl-rove",
-      "political-prosecutions",
-      "bush-administration",
-      "prosecutor-targeting",
-      "institutional-corruption"
-    ],
-    "actors": [
-      "Karl Rove",
-      "David Iglesias",
-      "Carol Lam",
-      "Alberto Gonzales",
-      "Bush Administration",
-      "Department of Justice"
-    ],
-    "sources": [
-      {
-        "url": "https://en.wikipedia.org/wiki/2006_dismissal_of_U.S._attorneys",
-        "title": "2006 dismissal of U.S. attorneys",
-        "outlet": "Wikipedia",
-        "date": "2006-12-07"
-      },
-      {
-        "url": "https://oig.justice.gov/sites/default/files/archive/special/s0809a/chapter13.htm",
-        "title": "An Investigation into the Removal of Nine U.S. Attorneys in 2006",
-        "outlet": "DOJ Office of the Inspector General",
-        "date": "2008-09-01"
-      },
-      {
-        "url": "https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys",
-        "title": "Timeline: Behind the Firing of Eight U.S. Attorneys",
-        "outlet": "NPR",
-        "date": "2007-04-15"
-      }
-    ],
-    "status": "confirmed",
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Electoral Manipulation"
-    ],
-    "summary": "Bush administration Justice Department fires seven U.S. attorneys in coordinated operation later determined to be politically motivated retaliation. Fired prosecutors included David Iglesias (New Mexico), Carol Lam (California), Daniel Bogden (Nevada), Paul Charlton (Arizona), Margaret Chiara (Michigan), Todd Graves (Missouri), and John McKay (Washington). Investigation revealed Karl Rove was 'very agitated' over Iglesias's refusal to expedite corruption investigation against Democratic candidate before 2006 election. DOJ Inspector General's 2008 report found firings were 'arbitrary', 'fundamentally flawed', and 'raised doubts about integrity of Department prosecution decisions', establishing systematic template for DOJ weaponization against prosecutors who refuse political demands.",
-    "_file": "2006-12-07--bush-administration-attorney-firings-scandal.md",
-    "_id_hash": "814f633f7715e5f8551fc3491bbac644e70979bd8080acc4e28b77263abf7978"
   },
   {
     "id": "2006-12-07--bush-administration-fires-9-us-attorneys-for-polit",
@@ -81059,112 +80078,6 @@
     "_id_hash": "eb4a230dfc6d618d4d1064522d2d82c70fe431de27ceb42162acef7c0dd9a4c6"
   },
   {
-    "date": "2010-01-21",
-    "title": "Citizens United v. FEC Supreme Court Decision Unleashes Unlimited Corporate Political Spending",
-    "importance": 9,
-    "key_actors": [
-      "Supreme Court of the United States",
-      "Citizens United",
-      "David Bossie",
-      "Chief Justice John Roberts",
-      "Justice Anthony Kennedy",
-      "Justice John Paul Stevens",
-      "Federal Election Commission"
-    ],
-    "tags": [
-      "citizens-united",
-      "campaign-finance",
-      "corporate-influence",
-      "regulatory-capture",
-      "supreme-court",
-      "dark-money"
-    ],
-    "sources": [
-      {
-        "title": "supreme.justia.com",
-        "url": "https://supreme.justia.com/cases/federal/us/558/310/"
-      },
-      {
-        "title": "brennancenter.org",
-        "url": "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained"
-      },
-      {
-        "title": "fec.gov",
-        "url": "https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec/"
-      },
-      {
-        "title": "law.cornell.edu",
-        "url": "https://www.law.cornell.edu/wex/citizens_united_v._federal_election_commission_(2010)"
-      }
-    ],
-    "status": "confirmed",
-    "id": "2010-01-21--citizens-united-v.-fec-supreme-court-decision-unle",
-    "priority_id": "claude-priority-citizens-united-corporate-spending",
-    "summary": "The Supreme Court issues its landmark 5-4 decision in Citizens United v. Federal Election Commission, fundamentally reshaping American campaign finance law by allowing unlimited corporate and union spending in federal elections. The case originated from the conservative organization Citizens United's challenge to Federal Election Commission restrictions on their anti-Hillary Clinton documentary \"Hillary: The Movie\" during the 2008 election season. Chief Justice Roberts' majority opinion overturns century-old restrictions on corporate political expenditures, ruling that corporations have First Amendment free speech rights equivalent to individuals. The decision strikes down key provisions of the McCain-Feingold Act (Bipartisan Campaign Reform Act of 2002), specifically the ban on corporate \"electioneering communications\" within 30 days of primaries or 60 days of general elections. Justice Kennedy's majority opinion argues that independent expenditures do not create corruption or the appearance of corruption, despite the Court's own precedent in Austin v. Michigan Chamber of Commerce (1990). The ruling assumes corporate spending will be transparent and truly independent from candidate campaigns, assumptions that prove problematic. Justice Stevens' 90-page dissent warns that the decision will \"unleash the floodgates\" of corporate money in politics and undermine democratic equality. The decision immediately opens the door for corporations, unions, and wealthy interests to spend unlimited amounts influencing elections through independent expenditure campaigns, setting the stage for the explosion of super PACs and dark money that follows.",
-    "_file": "2010-01-21--citizens-united-v.-fec-supreme-court-decision-unle.md",
-    "_id_hash": "34f6a30ead8762a90b6752bbb1affe5022c0e78d3bf4ba2af45dcfb49a1e7a85"
-  },
-  {
-    "actors": [
-      "Citizens United",
-      "Federal Election Commission",
-      "Anthony Kennedy",
-      "John Roberts",
-      "Antonin Scalia",
-      "Samuel Alito",
-      "Clarence Thomas"
-    ],
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Judicial Capture",
-      "Financial Capture",
-      "Intelligence Penetration",
-      "Electoral Manipulation"
-    ],
-    "date": "2010-01-21",
-    "id": "2010-01-21--supreme-court-issues-citizens-united-v-fec-decision-unleashi",
-    "importance": 9,
-    "sources": [
-      {
-        "date": "2010-01-21",
-        "outlet": "Wikipedia",
-        "title": "Citizens United v. FEC",
-        "url": "https://en.wikipedia.org/wiki/Citizens_United_v._FEC"
-      },
-      {
-        "date": "2010-01-21",
-        "outlet": "Brennan Center for Justice",
-        "title": "Citizens United Explained",
-        "url": "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained"
-      },
-      {
-        "date": "2010-01-21",
-        "outlet": "Legal Information Institute, Cornell Law School",
-        "title": "Citizens United v. Federal Election Commission (2010)",
-        "url": "https://www.law.cornell.edu/wex/citizens_united_v._federal_election_commission_(2010)"
-      },
-      {
-        "date": "2010-01-21",
-        "outlet": "Justia Supreme Court Center",
-        "title": "Citizens United v. FEC | 558 U.S. 310 (2010) Official Court Document",
-        "url": "https://supreme.justia.com/cases/federal/us/558/310/"
-      }
-    ],
-    "status": "confirmed",
-    "tags": [
-      "judicial-capture",
-      "supreme-court",
-      "corporate-influence",
-      "campaign-finance",
-      "citizens-united",
-      "political-corruption"
-    ],
-    "title": "Supreme Court Issues Citizens United v. FEC Decision, Unleashing Corporate Money in Elections",
-    "summary": "The Supreme Court ruled 5-4 in Citizens United v. Federal Election Commission, fundamentally transforming American campaign finance by allowing corporations and unions to spend unlimited amounts on elections. The decision struck down key provisions of the Bipartisan Campaign Reform Act, ruling that restrictions on independent political expenditures by corporations violated the First Amendment. Justice Kennedy's majority opinion established that corporations have the same First Amendment rights as individuals when it comes to political speech, as long as they don't coordinate directly with campaigns. The ruling enabled the creation of Super PACs and dramatically increased dark money in politics, with corporate PACs mushrooming from under 300 in 1976 to over 1,200 by 1980, and corporations employing over 61,000 lobbyists by the 1990s. The decision was widely criticized as promoting corporate personhood and giving disproportionate political power to large corporations, with overwhelming majorities of Americans consistently expressing disapproval and at least 22 states voting to support a constitutional amendment to overturn it.",
-    "_file": "2010-01-21--supreme-court-issues-citizens-united-v-fec-decision-unleashi.md",
-    "_id_hash": "a7ff08238185c78974b6545b0b39b9ea867f11affaa823559b803d1367f8a927"
-  },
-  {
     "id": "2010-01-27--obama-state-of-union-citizens-united-criticism-alito-response",
     "date": "2010-01-27",
     "importance": 8,
@@ -81374,65 +80287,6 @@
     "summary": "President Obama signs the Patient Protection and Affordable Care Act into law, the most significant healthcare legislation since Medicare. While expanding coverage to millions of uninsured Americans, the law's architecture reflects extensive industry lobbying, featuring an individual mandate that requires Americans to purchase private insurance and provisions negotiated with pharmaceutical companies to block cost controls.\n\nThe individual mandate—requiring most Americans to obtain health insurance or pay a penalty—represents the health insurance industry's core demand in exchange for accepting guaranteed issue requirements. America's Health Insurance Plans (AHIP) argues that without a mandate, healthy people will only buy coverage when sick, causing the risk pool to deteriorate. The mandate guarantees insurers millions of new customers, many subsidized by federal tax credits, creating a permanent revenue stream backed by government enforcement.\n\nThe legislation's development involves extensive industry participation. Liz Fowler, a former WellPoint insurance company executive, serves as chief health counsel to Senate Finance Committee Chairman Max Baucus and plays a central role in drafting the bill. After passage, Fowler joins the Obama administration to oversee ACA implementation before departing for a senior position at Johnson & Johnson. Her career arc exemplifies the revolving door between industry and government that shapes healthcare policy.\n\nThe pharmaceutical industry secures its interests through the secret $80 billion deal negotiated with White House officials in 2009, agreeing to support the legislation in exchange for preserving the Medicare Part D noninterference clause and blocking drug reimportation. PhRMA spends over $100 million advertising in support of the ACA, an unprecedented industry investment in passing legislation.\n\nWhile the ACA expands coverage to 20 million previously uninsured Americans and prohibits denial of coverage for pre-existing conditions, its architecture preserves and strengthens private insurance dominance. The law creates a new market of subsidized customers for insurers, channels billions in taxpayer subsidies to industry, and blocks alternatives like a public option that might compete with private plans. The individual mandate controversy eventually reaches the Supreme Court, which upholds it as a tax, validating the industry-friendly structure that requires Americans to purchase private products.",
     "_file": "2010-03-23--aca-passes-with-individual-mandate-insurance-industry-windfall.md",
     "_id_hash": "4c66e00e64ede8471c71d71cf589cc61588190a54868ceff159ac0367d8a54b1"
-  },
-  {
-    "id": "2010-03-26--speechnow-org-decision-creates-super-pacs",
-    "date": "2010-03-26",
-    "importance": 9,
-    "title": "SpeechNow.org v. FEC Decision Creates Super PACs Following Citizens United Logic",
-    "location": "Washington D.C.",
-    "actors": [
-      "SpeechNow.org",
-      "Federal Election Commission",
-      "DC Circuit Court of Appeals",
-      "David Keating",
-      "Club for Growth"
-    ],
-    "tags": [
-      "super-pacs",
-      "campaign-finance",
-      "unlimited-contributions",
-      "independent-expenditures",
-      "appellate-decision",
-      "dark-money",
-      "electoral-influence"
-    ],
-    "capture_lanes": [
-      "Constitutional & Democratic Breakdown",
-      "Corporate Capture & Regulatory Breakdown",
-      "Judicial Capture & Corruption"
-    ],
-    "sources": [
-      {
-        "title": "SpeechNow.org v. Federal Election Commission",
-        "url": "https://www.fec.gov/legal-resources/court-cases/speechnow-org-v-fec/",
-        "outlet": "Federal Election Commission",
-        "date": "2010-03-26"
-      },
-      {
-        "title": "Since Citizens United, a Decade of Super PACs",
-        "url": "https://www.brennancenter.org/our-work/analysis-opinion/citizens-united-decade-super-pacs",
-        "outlet": "Brennan Center for Justice",
-        "date": "2020-01-21"
-      },
-      {
-        "title": "Citizens United Explained",
-        "url": "https://www.brennancenter.org/our-work/research-reports/citizens-united-explained",
-        "outlet": "Brennan Center for Justice",
-        "date": "2019-12-12"
-      },
-      {
-        "title": "More money, less transparency: A decade under Citizens United",
-        "url": "https://www.opensecrets.org/news/reports/a-decade-under-citizens-united",
-        "outlet": "OpenSecrets",
-        "date": "2020-01-21"
-      }
-    ],
-    "notes": "The DC Circuit applied Citizens United logic to rule that groups making only independent expenditures can accept unlimited contributions. The FEC subsequently allowed creation of 'super PACs' - independent expenditure-only committees. This decision transformed Citizens United from theoretical corporate speech rights into practical unlimited spending vehicles that would channel billions into elections.",
-    "status": "confirmed",
-    "summary": "DC Circuit Court of Appeals rules that independent expenditure committees can accept unlimited contributions from individuals and corporations, directly applying Citizens United reasoning to create modern Super PACs",
-    "_file": "2010-03-26--speechnow-org-decision-creates-super-pacs.md",
-    "_id_hash": "879625159f207f7d78ae52ef8be80a49f2a7d8877a21e3e9601c5379e4614315"
   },
   {
     "date": "2010-03-26",
@@ -85409,50 +84263,6 @@
     "_id_hash": "e77f5627dca5e7395be1ad551d52d1579a79400d3e948202451bbfcae625e821"
   },
   {
-    "date": "2012-04-09",
-    "title": "Facebook Acquires Instagram for  Billion to \"Neutralize Potential Competitor\"",
-    "actors": [
-      "Facebook Inc.",
-      "Mark Zuckerberg",
-      "Instagram Inc.",
-      "Kevin Systrom",
-      "Mike Krieger",
-      "Federal Trade Commission"
-    ],
-    "sources": [
-      {
-        "title": "ftc.gov",
-        "url": "https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc"
-      },
-      {
-        "title": "fortune.com",
-        "url": "https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/"
-      },
-      {
-        "title": "FTC Antitrust Case Against Meta's Instagram Acquisition",
-        "url": "https://www.npr.org/2025/04/13/nx-s1-5358434/ftc-meta-antitrust-trial",
-        "outlet": "NPR",
-        "description": "FTC investigation reveals Zuckerberg's strategic intent to 'neutralize a potential competitor' through Instagram acquisition",
-        "accessed_date": "2025-10-14"
-      }
-    ],
-    "importance": 8,
-    "tags": [
-      "regulatory-capture",
-      "tech-industry",
-      "antitrust",
-      "facebook",
-      "meta",
-      "acquisitions"
-    ],
-    "status": "confirmed",
-    "id": "2012-04-09--facebook-acquires-instagram-for-billion-to-\"neutra",
-    "priority_id": "claude-priority-tech-antitrust-regulatory-capture",
-    "summary": "Facebook acquired photo-sharing app Instagram for  billion, implementing what the FTC would later characterize as a \"buy or bury\" strategy to eliminate competitive threats. Internal emails revealed CEO Mark Zuckerberg explicitly stated the acquisition was motivated by a desire to \"neutralize a potential competitor\" rather than enhance services. The FTC approved the acquisition despite its anticompetitive intent, demonstrating regulatory capture as Facebook successfully concealed key information about its monopolistic strategies from regulators. This acquisition established the template for Big Tech companies to systematically purchase and eliminate nascent competitors, fundamentally undermining market competition in social media.",
-    "_file": "2012-04-09--facebook-acquires-instagram-for-billion-to-\"neutra.md",
-    "_id_hash": "bf9b58a10a30261a08048735655376e85f48602dc649033b01cf1fe7ce62b0bb"
-  },
-  {
     "id": "2012-04-09--facebook-acquires-instagram-for-billion-to-neutralize-competitor",
     "date": "2012-04-09",
     "title": "Facebook Acquires Instagram for  Billion to Neutralize Potential Competitor",
@@ -85499,69 +84309,6 @@
     "summary": "Facebook acquired photo-sharing app Instagram for  billion, implementing what the FTC would later characterize as a 'buy or bury' strategy to eliminate competitive threats. Internal emails revealed CEO Mark Zuckerberg explicitly stated the acquisition was motivated by a desire to 'neutralize a potential competitor' rather than enhance services. The FTC approved the acquisition despite its anticompetitive intent, demonstrating regulatory capture as Facebook successfully concealed key information about its monopolistic strategies from regulators.",
     "_file": "2012-04-09--facebook-acquires-instagram-for-billion-to-neutralize-competitor.md",
     "_id_hash": "df6257735a9260289f4f94025c8e190fc214914a4a1156c8b814004673df8b5b"
-  },
-  {
-    "id": "2012-04-09--facebook-acquires-instagram-for-billion-to-neutralize-potent",
-    "date": "2012-04-09",
-    "title": "Facebook Acquires Instagram for $1 Billion to \"Neutralize Potential Competitor\"",
-    "importance": 8,
-    "status": "confirmed",
-    "actors": [
-      "Mark Zuckerberg",
-      "Facebook Inc.",
-      "Instagram Inc.",
-      "Kevin Systrom",
-      "Mike Krieger",
-      "Federal Trade Commission"
-    ],
-    "sources": [
-      {
-        "outlet": "Bloomberg",
-        "title": "Facebook Agrees to Buy Instagram Photo Service for $1 Billion",
-        "url": "https://www.bloomberg.com/news/articles/2012-04-09/facebook-agrees-to-buy-instagram-photo-service-for-1-billion",
-        "date": "2012-04-09",
-        "date_accessed": "2025-10-17"
-      },
-      {
-        "outlet": "CNN Money",
-        "title": "Facebook Buys Instagram for $1 Billion",
-        "url": "https://money.cnn.com/2012/04/09/technology/facebook_acquires_instagram/index.htm",
-        "date": "2012-04-09",
-        "date_accessed": "2025-10-17"
-      },
-      {
-        "outlet": "PBS News",
-        "title": "Historic antitrust trial could force Meta to break off Instagram, WhatsApp",
-        "url": "https://www.pbs.org/newshour/nation/historic-antitrust-trial-could-force-meta-to-break-off-instagram-whatsapp",
-        "date": "2024-09-12",
-        "date_accessed": "2025-10-17"
-      },
-      {
-        "outlet": "CNBC",
-        "title": "Facebook bought Instagram because it was scared of Twitter and Google",
-        "url": "https://www.cnbc.com/2019/09/24/facebook-bought-instagram-because-it-was-scared-of-twitter-and-google.html",
-        "date": "2019-09-24",
-        "date_accessed": "2025-10-17"
-      }
-    ],
-    "tags": [
-      "regulatory-capture",
-      "tech-industry",
-      "antitrust",
-      "facebook",
-      "meta",
-      "acquisitions",
-      "market-monopolization"
-    ],
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Regulatory Capture",
-      "Tech Industry Consolidation"
-    ],
-    "validation_notes": "Enhanced with Bloomberg and CNN sources. Verified acquisition details and strategic context from tier-1 sources. Removed blacklisted Washington Post source.",
-    "summary": "Facebook acquired Instagram for $1 billion in a strategic move explicitly designed to neutralize a potential competitive threat. The acquisition was part of a systematic strategy to prevent emerging social media platforms from challenging Facebook's market dominance. With Instagram having 27 million registered users at the time, the deal represented a significant consolidation of social media market power.",
-    "_file": "2012-04-09--facebook-acquires-instagram-for-billion-to-neutralize-potent.md",
-    "_id_hash": "0e7734dd51ca5ec42b5998eeb2b5d3c21e256370fd0bf631d720a76fc753ef45"
   },
   {
     "id": "2012-04-13--alec-corporate-exodus-coca-cola-pepsi-kraft-mcdonalds",
@@ -87857,54 +86604,6 @@
     "_id_hash": "fbe9e4eed63843ebb2cb165c86d892e9a8390ca96444aadebe43737ee111a6d9"
   },
   {
-    "id": "2013-06-01--aleksandr-kogan-creates-thisisyourdigitallife-facebook-data-harvesting-app",
-    "date": "2013-06-01",
-    "title": "Aleksandr Kogan Creates \"thisisyourdigitallife\" Facebook Data Harvesting App",
-    "importance": 8,
-    "actors": [
-      "Aleksandr Kogan",
-      "Global Science Research",
-      "University of Cambridge",
-      "Facebook",
-      "Cambridge Analytica"
-    ],
-    "tags": [
-      "aleksandr-kogan",
-      "thisisyourdigitallife",
-      "data-harvesting",
-      "facebook-api",
-      "personality-quiz",
-      "systematic-data-collection"
-    ],
-    "sources": [
-      {
-        "date": "2013-06-01",
-        "outlet": "Wikipedia",
-        "title": "Facebook-Cambridge Analytica Data Scandal",
-        "url": "https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal"
-      },
-      {
-        "date": "2018-04-10",
-        "outlet": "CNBC",
-        "title": "Cambridge Analytica Timeline",
-        "url": "https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html"
-      },
-      {
-        "date": "2019-07-24",
-        "outlet": "CBS News",
-        "title": "Aleksandr Kogan: The Link Between Cambridge Analytica and the Facebook Data Breach",
-        "url": "https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/"
-      }
-    ],
-    "capture_lanes": [
-      "Systematic Corruption"
-    ],
-    "status": "confirmed",
-    "summary": "University of Cambridge researcher Aleksandr Kogan develops the \"thisisyourdigitallife\" personality quiz app through his company Global Science Research, designed to exploit Facebook's API permissions to harvest user data. The app is marketed as a psychological research tool offering personality predictions, but is actually designed to collect personal information from both quiz-takers and all their Facebook friends without explicit consent. Kogan's app leverages Facebook's permissive data sharing policies to access profile information, posts, likes, and friend networks. This marks the beginning of systematic data collection that would eventually compromise 87 million Facebook users' personal information for political manipulation purposes by Cambridge Analytica.",
-    "_file": "2013-06-01--aleksandr-kogan-creates-thisisyourdigitallife-facebook-data-harvesting-app.md",
-    "_id_hash": "de61eada8d7872ae2c7c5d3be981b6ce91a0ba46c0220f8dce21208c5d2ee667"
-  },
-  {
     "id": "2013-06-01--elliptic-founded-uk-crypto-surveillance",
     "date": "2013-06-01",
     "title": "Elliptic Founded as First Cryptocurrency Anti-Money Laundering Firm",
@@ -88746,58 +87445,6 @@
     "summary": "The Supreme Court strikes down Section 4(b) of the Voting Rights Act of 1965 in a 5-4 decision, effectively nullifying Section 5's preclearance requirement that prevented jurisdictions with histories of racial discrimination from changing voting laws without federal approval. Chief Justice John Roberts's majority opinion declares that racial voting discrimination is a relic of the past, rendering the Voting Rights Act's core protections inoperable and triggering an immediate wave of voter suppression laws across formerly covered states.\n\n## The Decision\n\nChief Justice Roberts, joined by Justices Scalia, Kennedy, Thomas, and Alito, rules that Section 4(b)'s coverage formula—which determined which jurisdictions required federal preclearance for voting changes—is unconstitutional. Roberts argues that the formula is \"based on 40-year-old facts having no logical relationship to the present day\" and violates principles of federalism and \"equal sovereignty of the states.\"\n\nWhile the majority claims to leave Section 5 (preclearance) itself intact, striking down Section 4(b)'s coverage formula renders Section 5 inoperable—there is no longer a mechanism to determine which jurisdictions require preclearance. The practical effect is the elimination of preclearance, one of the Voting Rights Act's most powerful enforcement mechanisms.\n\nRoberts declares: \"Our country has changed. While any racial discrimination in voting is too much, Congress must ensure that the legislation it passes to remedy that problem speaks to current conditions.\" The majority opinion suggests that pervasive racial discrimination in voting is largely a thing of the past, making the Voting Rights Act's extraordinary measures no longer justified.\n\n## Justice Ginsburg's Dissent\n\nJustice Ruth Bader Ginsburg's dissent, joined by Justices Breyer, Sotomayor, and Kagan, sharply criticizes the majority's logic. Ginsburg famously writes: \"Throwing out preclearance when it has worked and is continuing to work to stop discriminatory changes is like throwing away your umbrella in a rainstorm because you are not getting wet.\"\n\nThe dissent documents extensive evidence of ongoing voting discrimination in covered jurisdictions, noting that between 1982 and 2006, the Department of Justice blocked over 700 proposed voting changes through preclearance. Ginsburg argues that the continued need for preclearance is demonstrated by its continued effectiveness—covered jurisdictions withdrew or altered 800 additional proposed changes after DOJ inquiries, suggesting preclearance deterred far more discrimination than it formally blocked.\n\nGinsburg emphasizes that Congress reauthorized the Voting Rights Act in 2006 by overwhelming bipartisan majorities (390-33 in the House, 98-0 in the Senate) after extensive hearings documenting continued discrimination. The dissent argues the majority substitutes its own judgment for Congress's constitutional authority to enforce the Fourteenth and Fifteenth Amendments.\n\n## Immediate Impact\n\nThe effects are immediate and dramatic. Within hours of the decision, Texas Attorney General Greg Abbott announces Texas will immediately implement its strict voter ID law, previously blocked under preclearance. North Carolina Republicans signal they will move forward with comprehensive voter suppression legislation. Other formerly covered states rush to implement voting restrictions that would have been blocked under Section 5.\n\nThe Brennan Center for Justice documents that within 24 hours of the decision, multiple states move to implement voting restrictions. The decision removes the federal government's ability to prevent discriminatory voting changes before they take effect, shifting the burden to individual voters and civil rights groups to challenge laws after implementation through lengthy litigation.\n\n## Constitutional and Historical Context\n\nThe Voting Rights Act of 1965, passed in response to widespread and systematic disenfranchisement of Black voters in the South, represented one of the most successful civil rights laws in American history. Section 5's preclearance requirement—forcing jurisdictions with histories of discrimination to get federal approval before changing voting procedures—proved remarkably effective at preventing discriminatory changes.\n\nThe majority's \"equal sovereignty of the states\" doctrine represents a controversial and selective reading of federalism. Critics note that the Constitution explicitly grants Congress power to enforce voting rights through the Fourteenth and Fifteenth Amendments, and that the \"equal sovereignty\" principle had not previously been used to invalidate federal legislation.\n\nRoberts's assertion that voting discrimination is largely historical contradicts extensive congressional findings. Congress's 2006 reauthorization included 15,000 pages of testimony and evidence documenting ongoing discrimination, including evidence that jurisdictions continued attempting to implement discriminatory changes that preclearance blocked.\n\n## Broader Significance\n\n*Shelby County* represents a watershed moment in voting rights law, effectively ending the strongest federal protection against racial discrimination in voting. The decision reflects the conservative majority's skepticism toward race-conscious remedies and deference to state autonomy over congressional civil rights enforcement.\n\nThe ruling creates a fundamental shift in voting rights enforcement: from prevention (preclearance stopping discriminatory changes before implementation) to reactive litigation (challenging laws after they take effect and potentially influence elections). This shift imposes enormous burdens on voters and civil rights organizations, requiring expensive litigation to remedy each discriminatory law individually rather than preventing implementation.\n\nThe decision's immediate exploitation by Republican-controlled states demonstrates the continued need for preclearance. The rush to implement previously-blocked voting restrictions suggests that the majority's premise—that racial discrimination in voting is historical—is fundamentally flawed.\n\nCombined with later decisions like *Rucho v. Common Cause* (removing federal court oversight of partisan gerrymandering), *Shelby County* removes key federal safeguards against electoral manipulation. The decision enables a new era of voter suppression, disproportionately affecting Black, Latino, and other minority voters whose access to the ballot the Voting Rights Act was designed to protect.\n\n## Long-Term Impact\n\nIn the decade following *Shelby County*, numerous studies document widespread implementation of voting restrictions in formerly covered jurisdictions. Research shows that minority voters face increased barriers to voting, including strict voter ID requirements, polling place closures in minority communities, voter roll purges, and reductions in early voting—precisely the types of discriminatory changes Section 5 previously prevented.\n\nThe decision validates conservative legal strategies to limit federal enforcement of civil rights protections under the banner of federalism and \"equal sovereignty.\" It demonstrates the profound impact of the conservative legal movement's decades-long project to reshape constitutional law through judicial appointments and strategic litigation, fundamentally altering the federal government's role in protecting voting rights.",
     "_file": "2013-06-25--shelby-county-supreme-court-guts-voting-rights-act.md",
     "_id_hash": "b7698825ef4b562366182447470700abb0457779294bd72c309c0a48b535db88"
-  },
-  {
-    "id": "2013-06-25--supreme-court-shelby-county-decision-guts-voting-rights-act",
-    "date": "2013-06-25",
-    "title": "Supreme Court Shelby County Decision Guts Voting Rights Act",
-    "importance": 9,
-    "actors": [
-      "Chief Justice John Roberts",
-      "Justice Ruth Bader Ginsburg",
-      "Texas Attorney General Greg Abbott",
-      "Shelby County, Alabama",
-      "Attorney General Eric Holder"
-    ],
-    "tags": [
-      "voting-rights",
-      "supreme-court",
-      "voter-suppression",
-      "civil-rights",
-      "electoral-manipulation",
-      "preclearance"
-    ],
-    "status": "confirmed",
-    "sources": [
-      {
-        "title": "Supreme Court Invalidates Key Part of Voting Rights Act",
-        "url": "https://www.nytimes.com/2013/06/26/us/supreme-court-ruling.html",
-        "outlet": "The New York Times",
-        "date": "2013-06-25"
-      },
-      {
-        "title": "Supreme Court strikes down part of Voting Rights Act",
-        "url": "https://www.washingtonpost.com/politics/supreme-court-strikes-down-part-of-voting-rights-act/2013/06/25/8f0d91ae-dd2a-11e2-bd83-e99e43c336ed_story.html",
-        "outlet": "The Washington Post",
-        "date": "2013-06-25"
-      },
-      {
-        "title": "Shelby County v. Holder",
-        "url": "https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf",
-        "outlet": "Supreme Court",
-        "date": "2013-06-25"
-      }
-    ],
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Judicial Capture",
-      "Regulatory Capture",
-      "Financial Capture",
-      "Electoral Manipulation"
-    ],
-    "summary": "The Supreme Court's 5-4 decision in Shelby County v. Holder struck down Section 4 of the Voting Rights Act, which required federal preclearance for voting changes in states with histories of discrimination. Chief Justice Roberts argued the formula was outdated, while Justice Ginsburg warned it was 'like throwing away your umbrella in a rainstorm.' Within hours, Texas and other states began implementing previously blocked voter restrictions. The decision enabled a wave of voter suppression laws across formerly covered states, including strict voter ID requirements, polling place closures, and voter roll purges that disproportionately affected minority communities.",
-    "_file": "2013-06-25--supreme-court-shelby-county-decision-guts-voting-rights-act.md",
-    "_id_hash": "93e700b9bcfd3fbb97b8923e9ad6f5eb3085327cae1c14a2be4fba7fa0e2abcb"
   },
   {
     "id": "2013-07-01--alec-pushes-139-education-privatization-bills-across-states",
@@ -92087,63 +90734,6 @@
     "summary": "Former Utah Attorneys General Mark Shurtleff and John Swallow were arrested by FBI and Utah Department of Public Safety agents on 23 combined felony and misdemeanor charges including bribery, accepting gifts, tampering with evidence, obstruction of justice, and racketeering. Prosecutors alleged both men accepted at least $50,000 in cash and campaign contributions from individuals facing regulatory scrutiny, including use of businessman Jeremy Johnson's private jet, St. George mansions, and Lake Powell houseboat with helipad in exchange for legal opinions enabling online poker transaction processing. Swallow allegedly fabricated documents and systematically destroyed evidence through deleted emails, wiped hard drives, and damaged cellphones and iPads. Despite what investigators called \"the most sweeping political scandal in Utah history,\" no elected officials faced prison: prosecutors dismissed Shurtleff's case in 2016 citing a narrowed Supreme Court bribery ruling, and a jury acquitted Swallow in 2017. Utah taxpayers ultimately paid over $10 million for prosecutions and approved a $1.5 million settlement for Swallow's legal fees after acquittal. The scandal exemplifies systematic pay-to-play corruption in state attorney general offices where elected prosecutors leverage law enforcement authority for personal enrichment, followed by minimal accountability through case dismissals and jury nullification despite overwhelming evidence of misconduct.",
     "_file": "2014-07-15--utah-attorneys-general-shurtleff-swallow-arrested.md",
     "_id_hash": "00f357c5718d12ffea5af0013fc5777f104a36ed2f7ef0f3c716af87058161bc"
-  },
-  {
-    "date": "2014-07-16",
-    "title": "EU and US Impose Comprehensive Sectoral Sanctions on Russia",
-    "actors": [
-      "European Union",
-      "United States",
-      "Sberbank",
-      "VEB",
-      "Gazprombank",
-      "Rosneft",
-      "Barack Obama",
-      "European Council"
-    ],
-    "sources": [
-      {
-        "outlet": "European Council",
-        "title": "EU Imposes Further Sanctions on Russia Following MH17",
-        "url": "https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/",
-        "accessed_date": "2025-09-23"
-      },
-      {
-        "outlet": "US Treasury Department",
-        "title": "Sectoral Sanctions Identifications List (SSI) Release",
-        "url": "https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx",
-        "accessed_date": "2025-09-23"
-      },
-      {
-        "outlet": "ResearchGate",
-        "title": "European Union, Russia and the MH17 Case: Strategic Narratives' Analysis (2014-2019)",
-        "url": "https://www.researchgate.net/publication/337207100_European_Union_Russia_and_the_MH17_case_strategic_narratives'_analysis_2014-2019",
-        "type": "Academic Research",
-        "accessed_date": "2025-09-23"
-      }
-    ],
-    "importance": 8,
-    "tags": [
-      "sanctions",
-      "mh17",
-      "financial-restrictions",
-      "energy-sector",
-      "international-diplomacy",
-      "ukraine-conflict",
-      "geopolitical-tension"
-    ],
-    "status": "confirmed",
-    "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757457007",
-    "priority_id": "constitutional-crisis-8d82f2b5",
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Financial Capture",
-      "Intelligence Penetration",
-      "Diplomatic Pressure"
-    ],
-    "summary": "Following the downing of Malaysia Airlines Flight MH17 over eastern Ukraine, the European Union and United States imposed comprehensive sectoral sanctions targeting Russian financial, energy, and defense sectors. These sanctions represented a significant diplomatic and economic escalation, restricting access to EU and US capital markets for major Russian banks and energy companies while prohibiting export of dual-use technologies. Academic research reveals these sanctions transformed previous ineffective diplomatic pressure into concrete multilateral action, marking a crucial turning point in Western response to Russian actions in Ukraine. The sanctions targeted specific Russian financial institutions including Sberbank, VEB, Gazprombank, and major energy companies like Rosneft, effectively limiting their access to international financial markets.",
-    "_file": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757457007.md",
-    "_id_hash": "7605a0c6c4224b5c13b1607ae98dd7dd58c78ebc68cba8ef16e0afbe0f239853"
   },
   {
     "id": "2014-07-16--eu-and-us-impose-sectoral-sanctions-on-russia-1757457198",
@@ -114363,58 +112953,6 @@
   },
   {
     "date": "2018-08-08",
-    "title": "Rep. Chris Collins Indicted for Insider Trading Scheme at White House Picnic",
-    "actors": [
-      "Chris Collins",
-      "Cameron Collins",
-      "Stephen Zarsky",
-      "Innate Immunotherapeutics",
-      "Geoffrey S. Berman",
-      "U.S. District Judge Vernon S. Broderick"
-    ],
-    "sources": [
-      {
-        "outlet": "U.S. Department of Justice",
-        "title": "Former Congressman Christopher Collins Sentenced for Insider Trading Scheme",
-        "url": "https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying",
-        "date": "2019"
-      },
-      {
-        "outlet": "Securities and Exchange Commission",
-        "title": "SEC Press Release on Collins Insider Trading Case",
-        "url": "https://www.sec.gov/newsroom/press-releases/2018-151",
-        "date": "2018"
-      },
-      {
-        "outlet": "NPR",
-        "title": "New York Congressman Chris Collins Arrested On Insider Trading Charges",
-        "url": "https://www.npr.org/2018/08/08/636666323/new-york-congressman-indicted-on-insider-trading-charges",
-        "date": "2018-08-08"
-      }
-    ],
-    "importance": 8,
-    "tags": [
-      "congressional-corruption",
-      "insider-trading",
-      "prosecutions",
-      "regulatory-capture",
-      "white-collar-crime"
-    ],
-    "status": "confirmed",
-    "id": "2018-08-08--rep-chris-collins-indicted-for-insider-trading",
-    "priority_id": "RT-EE57E913-congressional-insider-trading",
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Legislative Capture",
-      "Financial Capture",
-      "Executive Power Expansion"
-    ],
-    "summary": "Rep. Chris Collins (R-N.Y.), President Trump's first congressional supporter, was indicted for an insider trading scheme involving Innate Immunotherapeutics, an Australian biotechnology company where he served on the board. On June 22, 2017, while attending a Congressional Picnic at the White House, Collins received an email revealing that the company's multiple sclerosis drug MIS416 had failed a critical drug trial. Within seconds of receiving the email, Collins called his son Cameron, sharing material non-public information that allowed his son and associate Stephen Zarsky to sell their stock and avoid over $768,000 in potential losses. The scheme involved complex family and personal relationships, with Collins tipping his son and Zarsky (his son's then-girlfriend's father). Ultimately, Collins was sentenced to 26 months in federal prison, barred from serving as a public company officer or director, and ordered to pay a $200,000 fine. The case represented a significant prosecution under the 2012 STOCK Act, highlighting ongoing issues of congressional insider trading and ethics violations.",
-    "_file": "2018-08-08--rep-chris-collins-indicted-for-insider-trading.md",
-    "_id_hash": "226da47ed2d43790c6c5753816b98496f9670f70406de9100fa37b787eb99e89"
-  },
-  {
-    "date": "2018-08-08",
     "title": "Rep. Chris Collins Indicted for Insider Trading",
     "actors": [
       "Chris Collins",
@@ -120048,54 +118586,6 @@
     "summary": "On June 27, 2019, Axon announced it would not commercialize facial recognition technology for body cameras following recommendations from its AI and Policing Technology Ethics Board. The board's first major report concluded that \"facial recognition simply isn't good enough right now for it to be used ethically\" and warned that deployment of the technology in law enforcement contexts posed unacceptable risks of racial bias, privacy violations, and erosion of civil liberties. Axon agreed to pause development of face-matching capabilities for its body camera systems, marking a rare instance of a major surveillance technology company accepting limitations on profitable AI applications due to ethical concerns.\n\n## Ethics Board's Six Key Findings\n\nThe AI and Policing Technology Ethics Board, chaired by NYU Law Professor Barry Friedman, issued six critical recommendations regarding facial recognition in police body cameras. The board emphasized that companies should report specific false positive and false negative rates rather than misleading general accuracy metrics, warned that overly customizable facial recognition systems could be manipulated to amplify bias, and insisted that any deployment require meaningful consent from affected communities with strong evidence of genuine public safety benefits. The board distinguished between face detection (identifying facial features) and face matching (comparing faces against databases), noting that the latter posed far greater risks to privacy and accuracy. The board further emphasized that facial recognition systems operate within political and social contexts where they could cause disproportionate harm to overpoliced communities, making technical solutions insufficient without addressing systemic justice concerns.\n\n## Company Response and Significance\n\nIn response to the ethics board's findings, Axon committed to not proceeding with development of face-matching products, including adding these capabilities to body-worn cameras. The decision was significant given Axon's dominant market position: an estimated 70-80% of major US police departments used Axon body cameras, meaning the company's choice effectively prevented widespread deployment of facial recognition in police body cameras nationwide. The pause was framed as temporary (\"for now\"), with Axon stating it would reconsider if the technology improved sufficiently to meet the ethics board's standards. Civil liberties advocates praised the decision as an important precedent demonstrating that ethics boards could meaningfully constrain corporate behavior in the surveillance technology sector, though some noted the \"for now\" language suggested commercial considerations might eventually override ethical concerns if the technology became sufficiently profitable.\n\n## Technical and Bias Concerns\n\nThe ethics board highlighted that facial recognition algorithms demonstrated documented patterns of racial and gender bias, with significantly higher error rates for women and people of color—precisely the populations most likely to be subject to intensive police surveillance. The board noted that even \"accurate\" facial recognition systems could enable mass surveillance capabilities incompatible with democratic norms, allowing police to identify and track individuals in real-time as they moved through public spaces. The integration with body cameras was particularly concerning because it would enable retroactive identification of everyone captured in police footage, creating a comprehensive database of public movements without consent or probable cause. Technical experts on the board emphasized that improving algorithmic accuracy would not address the fundamental civil liberties risks posed by pervasive facial surveillance.\n\n## Contrast with Later Ethics Board Collapse\n\nThe 2019 facial recognition decision was later cited as evidence that Axon's ethics board could successfully influence company policy when the company chose to listen. However, this successful collaboration stood in stark contrast to the board's June 2022 collapse, when nine of thirteen members resigned after Axon ignored their recommendations and announced plans to develop Taser-equipped drones without consulting the board. The facial recognition episode demonstrated both the potential and the limitations of corporate ethics boards: they could be effective when companies voluntarily accepted restrictions, but lacked enforcement power if corporate leadership chose to override their recommendations for commercial or strategic reasons.",
     "_file": "2019-06-27--axon-ethics-board-blocks-facial-recognition-in-body-cameras.md",
     "_id_hash": "6fbb1ba01b64d4fc8e608916b8679f3d5a7fac8c9f36fb29cf59adc65d9767e8"
-  },
-  {
-    "date": "2019-06-27",
-    "title": "FDA Commissioner Scott Gottlieb Joins Pfizer Board After Leaving Agency",
-    "importance": 8,
-    "actors": [
-      "Scott Gottlieb",
-      "Elizabeth Warren",
-      "Pfizer Board of Directors",
-      "Food and Drug Administration"
-    ],
-    "sources": [
-      {
-        "outlet": "STAT News",
-        "title": "Scott Gottlieb walks through the revolving door to the Pfizer board",
-        "url": "https://www.statnews.com/pharmalot/2019/06/27/scott-gottlieb-pfizer-board-fda/"
-      },
-      {
-        "outlet": "CNBC",
-        "title": "Former FDA Commissioner Scott Gottlieb joins Pfizer's board of directors",
-        "url": "https://www.cnbc.com/2019/06/27/former-fda-commissioner-scott-gottlieb-joins-pfizers-board.html"
-      },
-      {
-        "outlet": "The Washington Post",
-        "title": "Former FDA head Gottlieb joins Pfizer board",
-        "url": "https://www.washingtonpost.com/health/2019/06/28/former-fda-head-gottlieb-joins-pfizer-board/"
-      }
-    ],
-    "tags": [
-      "regulatory-capture",
-      "pharmaceutical-industry",
-      "revolving-door",
-      "fda",
-      "conflict-of-interest"
-    ],
-    "status": "confirmed",
-    "id": "2019-06-27--fda-commissioner-scott-gottlieb-joins-pfizer-board-after-lea",
-    "priority_id": "claude-priority-regulatory-capture-pharma-fda",
-    "category": "regulatory-capture",
-    "location": "Washington, DC, United States",
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Financial Capture",
-      "Institutional Corruption"
-    ],
-    "summary": "Scott Gottlieb, former FDA Commissioner, joined Pfizer's board of directors on June 27, 2019, just 85 days after leaving the FDA. The move sparked significant criticism about the 'revolving door' between government regulatory agencies and pharmaceutical companies. Gottlieb will serve on the board's regulatory and compliance committee, raising concerns about potential conflicts of interest in drug approval processes.",
-    "_file": "2019-06-27--fda-commissioner-scott-gottlieb-joins-pfizer-board-after-lea.md",
-    "_id_hash": "325de05f7a399231fe2cbc03cee9cdc9fef4b1e23436711743aaa123b122155f"
   },
   {
     "date": "2019-06-27",
@@ -128650,95 +127140,6 @@
     "_id_hash": "b73acf10ce1d4583de9f54413aba53174854aab5ee567afa8da8f6729618f98d"
   },
   {
-    "id": "2020-09-20--fincen-files-banks-sars-and-leaks",
-    "date": "2020-09-20",
-    "importance": 8,
-    "title": "'FinCEN Files' leak reveals banks flagged >$2T in suspicious transactions; U.S. warns SAR disclosures are unlawful",
-    "notes": "Include both investigative findings (scope and examples) and FinCEN's official response on the\nillegality of SAR disclosures; note that SARs reflect suspicions, not proven crimes.\n",
-    "status": "confirmed",
-    "actors": [
-      "Financial Crimes Enforcement Network (FinCEN)",
-      "International Consortium of Investigative Journalists (ICIJ)",
-      "BuzzFeed News (original partner)",
-      "Deutsche Bank",
-      "HSBC",
-      "Standard Chartered",
-      "JPMorgan Chase",
-      "Barclays"
-    ],
-    "tags": [
-      "money-laundering",
-      "banking",
-      "transparency",
-      "financial-crime",
-      "international-corruption"
-    ],
-    "patterns": [
-      "Global Financial Corruption",
-      "Banking Regulatory Capture",
-      "Money Laundering Networks"
-    ],
-    "related_events": [],
-    "capture_lanes": [
-      "Financial Corruption & Kleptocracy"
-    ],
-    "location": "United States",
-    "sources": [
-      {
-        "date": "2020-09-20",
-        "outlet": "ICIJ",
-        "title": "FinCEN Files — investigation overview",
-        "url": "https://www.icij.org/investigations/fincen-files/",
-        "archive_url": "",
-        "key_facts_confirmed": [
-          "~2,100 SARs; >$2T flagged transactions"
-        ],
-        "verified": true
-      },
-      {
-        "date": "2020-09-01",
-        "outlet": "FinCEN (U.S. Treasury)",
-        "title": "Statement regarding unlawfully disclosed Suspicious Activity Reports",
-        "url": "https://www.fincen.gov/news/news-releases/statement-fincen-regarding-unlawfully-disclosed-suspicious-activity-reports",
-        "archive_url": "",
-        "key_facts_confirmed": [
-          "Unauthorized disclosure of SARs is a crime; referrals to DOJ and Treasury OIG"
-        ],
-        "verified": true
-      },
-      {
-        "date": "2020-09-20",
-        "outlet": "BuzzFeed News",
-        "title": "FinCEN Files Explainer: Data and Money Transactions Investigation",
-        "url": "https://www.buzzfeednews.com/article/jsvine/fincen-files-explainer-data-money-transactions",
-        "archive_url": "",
-        "key_facts_confirmed": [
-          "2,657 leaked documents including 2,121 SARs",
-          "Over $2 trillion in suspicious transactions",
-          "Involving over 200 major banks",
-          "Spanned transactions from 1999-2017"
-        ],
-        "verified": true
-      },
-      {
-        "date": "2020-09-20",
-        "outlet": "Axios",
-        "title": "Leaked Treasury Documents: Global Banking Money Laundering Exposed",
-        "url": "https://www.axios.com/2020/09/20/fincen-files-us-banks-money-laundering-buzzfeed",
-        "archive_url": "",
-        "key_facts_confirmed": [
-          "Deutsche Bank responsible for 62% of leaked SARs",
-          "$1.3 trillion in suspicious transactions",
-          "Collaboration with 400+ reporters in 88 countries"
-        ],
-        "verified": true
-      }
-    ],
-    "summary": "The ICIJ/BuzzFeed 'FinCEN Files' exposed a massive global banking corruption investigation, revealing over $2 trillion in suspicious financial transactions across 200+ banks between 1999-2017. The leaked 2,657 documents, including 2,121 Suspicious Activity Reports (SARs), showed systemic money laundering and financial crimes, with Deutsche Bank alone accounting for 62% of the leaked suspicious transactions totaling $1.3 trillion. FinCEN warned that the leak of these confidential documents was itself a criminal act, referring the matter to the Department of Justice and Treasury Office of the Inspector General.",
-    "_file": "2020-09-20--fincen-files-banks-sars-and-leaks.md",
-    "_id_hash": "f4f1a1e66d65a08ef92053126266b21fedfc2815c8f49c220bc384a1b4c2bfb8"
-  },
-  {
     "date": "2020-09-20",
     "title": "FinCEN Files Reveal $2 Trillion in Suspicious Banking Transactions",
     "actors": [
@@ -133878,51 +132279,6 @@
     "summary": "The U.S. Senate confirmed Lina Khan to the Federal Trade Commission by a bipartisan vote of 69-28 on June 15, 2021, and President Biden immediately named her chair of the five-member Commission. At 32, Khan became the youngest commissioner ever confirmed to the agency, let alone to lead it. Khan rose to prominence with her 2017 Yale Law Journal article 'Amazon's Antitrust Paradox,' which challenged the dominant consumer welfare standard in antitrust enforcement and argued that the current framework fails to capture anticompetitive harms from tech platforms. Her confirmation signaled a major shift in antitrust philosophy, moving away from the Reagan-era focus on consumer prices toward a broader concern with market structure, corporate power, and potential competition. Khan's appointment was part of Biden's broader effort to revive aggressive antitrust enforcement after decades of permissive merger policy. The bipartisan support reflected widespread concern about Big Tech monopoly power, though corporate lobbying groups immediately mobilized against her ambitious enforcement agenda. Khan filled the vacancy left by former Chairman Joseph Simons (R), who resigned in January 2021. Her confirmation set the stage for the most aggressive antitrust enforcement regime since the 1970s, though subsequent court losses would reveal the limits of progressive enforcement without updated statutes or supportive judges.",
     "_file": "2021-06-15--lina-khan-confirmed-ftc-chair-youngest-ever.md",
     "_id_hash": "a3a75ab5de1494cdfde44834b6b7d5543f64ab2cab40babda5c9b7c9db5f1156"
-  },
-  {
-    "id": "2021-10-01--stephen-hahn-flagship-pioneering-regulatory-capture",
-    "date": "2021-06-16",
-    "title": "FDA Commissioner Stephen Hahn Joins Flagship Pioneering, Venture Firm Behind Moderna",
-    "importance": 9,
-    "sources": [
-      {
-        "outlet": "Flagship Pioneering",
-        "title": "Dr. Stephen Hahn Joins Flagship Pioneering",
-        "url": "https://www.flagshippioneering.com/news/press-release/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative"
-      },
-      {
-        "outlet": "STAT News",
-        "title": "Former FDA commissioner Hahn defends his jump to Flagship Pioneering",
-        "url": "https://www.statnews.com/2021/06/15/steve-hahn-fda-moderna-flagship-pioneering/"
-      },
-      {
-        "outlet": "Fox Business",
-        "title": "Former FDA Commissioner Stephen Hahn joins venture capital group behind Moderna",
-        "url": "https://www.foxbusiness.com/politics/former-fda-commissioner-stephen-hahn-joins-venture-capital-group-behind-moderna"
-      }
-    ],
-    "tags": [
-      "regulatory-capture",
-      "pharmaceutical-industry",
-      "conflict-of-interest",
-      "covid-pandemic",
-      "fda-oversight"
-    ],
-    "actors": [
-      "Stephen Hahn",
-      "Flagship Pioneering",
-      "Moderna",
-      "FDA"
-    ],
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Financial Capture",
-      "Health Policy"
-    ],
-    "status": "validated",
-    "summary": "Dr. Stephen Hahn, former FDA Commissioner who led the agency during COVID-19 vaccine emergency use authorizations, joined Flagship Pioneering as Chief Medical Officer on June 16, 2021. The move came six months after the FDA granted emergency use authorization to Moderna's COVID-19 vaccine. Flagship Pioneering is the venture capital firm that launched Moderna and holds significant financial stakes in the company. This transition exemplifies the 'revolving door' phenomenon in pharmaceutical regulation, raising systemic concerns about potential conflicts of interest between government regulators and the pharmaceutical industry.",
-    "_file": "2021-10-01--stephen-hahn-flagship-pioneering-regulatory-capture.md",
-    "_id_hash": "345fd19c8c235293d8adbfec49769a0729ab323ddea18759b9c3479746a72068"
   },
   {
     "id": "2021-06-24--chainalysis-series-e-4-billion-valuation",
@@ -139985,53 +138341,6 @@
     "_id_hash": "89eb467b89e185d392d49b8a0eda85d0dfc2ef701067d736186fd100c78e488d"
   },
   {
-    "date": "2022-10-01",
-    "title": "Musk Begins Regular Contact with Vladimir Putin",
-    "actors": [
-      "Elon Musk",
-      "Vladimir Putin"
-    ],
-    "importance": 10,
-    "sources": [
-      {
-        "title": "Elon Musk's secret talks with Putin ramped up during his Twitter takeover",
-        "outlet": "CNBC",
-        "url": "https://www.cnbc.com/2024/10/25/elon-musk-and-putin-talks-ramped-up-during-twitter-takeover-wsj.html",
-        "tier": 1
-      },
-      {
-        "title": "Elon Musk and Putin have regular contact",
-        "outlet": "Axios",
-        "url": "https://www.axios.com/2024/10/25/elon-musk-putin-trump-russia-ukraine-war",
-        "tier": 1
-      }
-    ],
-    "tags": [
-      "musk-putin",
-      "regular-contact",
-      "security-clearance",
-      "operational-influence"
-    ],
-    "status": "confirmed",
-    "id": "2022-10-01--musk-begins-regular-contact-with-vladimir-putin-1757456698",
-    "priority_id": "russian-influence-networks-1757456698",
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Financial Capture"
-    ],
-    "validation_metadata": {
-      "last_corrected": "2025-09-16T19:13:57.137963",
-      "corrected_by": "qa-source-4-bulk-retry",
-      "validation_log_id": 147,
-      "corrections_applied": [
-        "Added sources: ['Wall Street Journal', 'PBS NewsHour', 'Newsweek', 'ABC News', 'CNBC']"
-      ]
-    },
-    "summary": "Wall Street Journal reports Elon Musk has been in regular contact with Vladimir Putin since late 2022, with conversations covering \"personal topics, business and geopolitical tensions,\" while holding top-secret clearance for SpaceX contracts.",
-    "_file": "2022-10-01--musk-begins-regular-contact-with-vladimir-putin-1757456698.md",
-    "_id_hash": "d02e5227339e14800a1377ba72645c5b71a6cdd85c2c65ab6adbe59c851e91f9"
-  },
-  {
     "id": "2022-10-01--musk-putin-regular-contact-begins",
     "date": "2022-10-01",
     "importance": 8,
@@ -143914,61 +142223,6 @@
     "summary": "AT&T announced a strategic partnership with Carbyne enabling the telecommunications giant to resell Carbyne's comprehensive 911 surveillance platform to public safety agencies nationwide, dramatically accelerating deployment of Israeli Unit 8200-developed technology across US emergency communications infrastructure. Under the arrangement, AT&T can resell both Carbyne's data-only Universe offering (supporting real-time video, location tracking, and chat functionalities) and the full APEX product (complete 911 call-taking ecosystem with all surveillance features embedded), with agencies able to deploy systems within one week without extensive upgrades to existing AT&T ESInet platforms.\n\nThe partnership emerged after nearly a year of technical integration work between AT&T and Carbyne to support deployments in New Orleans and five Texas agencies using AT&T's ESInet platform. The relationship provided Carbyne with direct access to AT&T's vast network of public safety agency customers, eliminating procurement barriers and enabling rapid scaling of technology developed by veterans of Israel's signals intelligence unit and funded by Jeffrey Epstein, Ehud Barak, and Peter Thiel's Founders Fund. AT&T's endorsement effectively legitimized Carbyne's surveillance capabilities as standard emergency response infrastructure rather than foreign intelligence-adjacent technology.\n\nThe strategic significance extends beyond commercial partnership to systematic integration of Israeli military intelligence capabilities into America's telecommunications backbone. By certifying Carbyne's cloud-native platform for seamless connection to AT&T ESInet (Emergency Services IP Network), the partnership created a privileged pathway for comprehensive data extraction capabilities—smartphone GPS location, live video streaming, text messages, and device data—to flow through national telecommunications infrastructure during every 911 call placed through participating jurisdictions. AT&T Ventures subsequently invested directly in Carbyne in March 2024, deepening the telecommunications giant's financial stake in the Israeli surveillance technology company while Ehud Barak remained chairman and the company maintained its Unit 8200 veteran leadership.\n\nThe partnership raised fundamental concerns about technology sovereignty and intelligence access to US emergency communications data. Carbyne's documented connections to Israeli military intelligence (Unit 8200 founders), US intelligence contractors (Peter Thiel's Palantir through Founders Fund investment and Trae Stephens' advisory role), and Epstein's intelligence-linked investment network, combined with AT&T's role as a longtime NSA surveillance partner (exposed through Room 641A and subsequent revelations), created unprecedented integration of foreign and domestic intelligence capabilities into the emergency response infrastructure used by over 250 million Americans. The arrangement allowed rapid deployment \"within one week\" of comprehensive surveillance systems across dozens of jurisdictions, bypassing more rigorous procurement scrutiny that might have examined the national security implications of embedding Israeli intelligence-developed technology with AT&T's telecommunications infrastructure.",
     "_file": "2023-06-15--att-carbyne-partnership-ng911-reseller.md",
     "_id_hash": "4f18aa8daa0e4a5f7499d47960562343ab6b06b447ad0b619db5747906d0d21e"
-  },
-  {
-    "id": "2023-06-20--propublica-reveals-alito-singer-trip",
-    "date": "2023-06-20",
-    "importance": 9,
-    "title": "ProPublica Reveals Alito's Undisclosed Alaska Trip with Billionaire Singer",
-    "location": "United States",
-    "actors": [
-      "ProPublica",
-      "Samuel Alito",
-      "Paul Singer",
-      "Wall Street Journal",
-      "Leonard Leo",
-      "PBS News Hour"
-    ],
-    "tags": [
-      "judicial-capture",
-      "supreme-court",
-      "investigative-journalism",
-      "alito-scandal",
-      "undisclosed-gifts",
-      "propublica",
-      "ethics-violation"
-    ],
-    "capture_lanes": [
-      "Judicial Capture & Corruption"
-    ],
-    "sources": [
-      {
-        "title": "Alito Took Unreported Luxury Trip With GOP Donor Paul Singer",
-        "url": "https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court",
-        "outlet": "ProPublica",
-        "date": "2023-06-20",
-        "archive_url": "https://web.archive.org/web/20230620000000/https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court"
-      },
-      {
-        "title": "Alito responds in Wall Street Journal op-ed",
-        "url": "https://www.wsj.com/articles/propublica-misleads-readers-about-justice-alito-and-recusal-all-justices-friends-political-views-supreme-court-ba9049d",
-        "outlet": "The Wall Street Journal",
-        "date": "2023-06-20",
-        "archive_url": "https://web.archive.org/web/20230620000000/https://www.wsj.com/articles/propublica-misleads-readers-about-justice-alito-and-recusal-all-justices-friends-political-views-supreme-court-ba9049d"
-      },
-      {
-        "title": "Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor",
-        "url": "https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor",
-        "outlet": "PBS News Hour",
-        "date": "2023-06-20",
-        "archive_url": "https://web.archive.org/web/20231015000000/https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor"
-      }
-    ],
-    "notes": "Private jet worth $100k+. Singer's hedge fund had 10+ cases before SCOTUS. Alito got WSJ to publish preemptive defense before ProPublica story. Never recused from Singer cases. Voted in Singer's favor for $2.4B Argentina judgment.",
-    "status": "confirmed",
-    "summary": "ProPublica exposes Samuel Alito's 2008 luxury Alaska fishing trip with hedge fund billionaire Paul Singer who later had business before the court, revealing potential judicial ethics violations and conflicts of interest. Alito preemptively disputes in WSJ op-ed, PBS News Hour provides additional scrutiny.",
-    "_file": "2023-06-20--propublica-reveals-alito-singer-trip.md",
-    "_id_hash": "789adb7d0ef05fe61ab47a076a9ad566bb7c6d440afd5b94615eae4a2bc38c6b"
   },
   {
     "date": "2023-06-20",
@@ -148651,49 +146905,6 @@
       "Berman Jerry Nowlin Jr.",
       "HSI",
       "DHS",
-      "U.S. Attorney's Office for the Middle District of Florida"
-    ],
-    "date": "2024-02-23",
-    "id": "2024-02-23--federal-agents-charge-two-with-2-million-nft-'rug",
-    "importance": 8,
-    "sources": [
-      {
-        "outlet": "DHS HSI",
-        "title": "2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains",
-        "url": "https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains"
-      },
-      {
-        "outlet": "U.S. Department of Justice - Middle District of Florida",
-        "title": "Two Individuals Charged With Non-Fungible Token 'Rug Pull' And Laundering Proceeds Through The Solana And Ethereum Blockchains",
-        "url": "https://www.justice.gov/usao-mdfl/pr/two-individuals-charged-non-fungible-token-rug-pull-and-laundering-proceeds-through"
-      },
-      {
-        "outlet": "HS Today",
-        "title": "Jury Finds Cybercurrency Developer of Defrauding Investors, Laundering Proceeds Through Other Blockchains",
-        "url": "https://www.hstoday.us/subject-matter-areas/cybersecurity/jury-finds-cybercurrency-developer-of-defrauding-investors-laundering-proceeds-through-other-blockchains/"
-      }
-    ],
-    "tags": [
-      "nft",
-      "money-laundering",
-      "fraud",
-      "blockchain",
-      "federal-prosecution",
-      "rug-pull",
-      "crypto",
-      "cyber-crime"
-    ],
-    "title": "Federal Agents Charge Two with 2 Million NFT 'Rug Pull' Money Laundering Scheme",
-    "summary": "HSI agents charged Devin Alan Rhoden (24, active-duty Air Force cyber analyst) and Berman Jerry Nowlin Jr. (20) with conspiracy to commit wire fraud and money laundering through NFT schemes. The defendants created two NFT collections ('UndeadApes' and 'Undead Lady Apes') on the Solana blockchain, raising nearly $400,000 from hundreds of international investors through a sophisticated 'rug pull' scheme. They used 'chain-hopping' techniques, transferring fraud proceeds between Solana and Ethereum blockchains to obfuscate illicit funds. The case represents a significant federal prosecution highlighting emerging cryptocurrency fraud and money laundering techniques involving blockchain technologies.",
-    "_file": "2024-02-23--federal-agents-charge-two-with-2-million-nft-'rug.md",
-    "_id_hash": "e3878f07cf08795d54c9fca615f21d55a9126d0782bfab1e258a4452c409a21f"
-  },
-  {
-    "actors": [
-      "Devin Alan Rhoden",
-      "Berman Jerry Nowlin Jr.",
-      "HSI",
-      "DHS",
       "U.S. Air Force Office of Special Investigations",
       "Pasco County Sheriff's Office",
       "Department of Defense Inspector General"
@@ -152867,45 +151078,6 @@
     "summary": "U.S. District Judge Richard Seeborg granted preliminary approval on August 9, 2024, to a class action settlement requiring Oracle Corporation to pay $115 million and implement changes to its data brokerage practices. The settlement resolves the lawsuit filed in August 2022 alleging that Oracle operated a \"worldwide surveillance machine\" that violated the privacy of approximately 5 billion people by collecting and selling their personal information without consent.\n\nUnder the settlement terms, Oracle must establish a $115 million settlement fund to compensate class members whose privacy was violated through Oracle's extensive data collection operations. Additionally, Oracle agreed to modify certain business practices related to how it collects, stores, and sells personal information, though the specific operational changes were not fully disclosed in the preliminary approval. The settlement covers internet users in the United States whose personal information was collected, aggregated, and sold by Oracle's data brokerage operations.\n\nThe settlement represents a rare instance of legal accountability for the commercial surveillance industry, though the $115 million payment is modest compared to Oracle's reported $42 billion in revenue generated from selling personal information. Critics note that the settlement allows Oracle to continue its core data brokerage business model while paying what amounts to a small fraction of the profits generated from unauthorized data collection and sale.\n\nOracle's dual role as a major commercial data broker and a top-secret intelligence community contractor creates profound concerns about the intersection of corporate and state surveillance. The same company that settled this lawsuit for mass commercial surveillance also holds CIA cloud contracts and top-secret security clearances, raising questions about potential data flows between Oracle's commercial surveillance operations and its intelligence community work. The settlement does nothing to address these structural conflicts or prevent Oracle from continuing to build comprehensive dossiers on billions of people.\n\nThis case exemplifies the limitations of private litigation in constraining surveillance capitalism. While the $115 million settlement provides some compensation and modest reforms, it leaves intact the fundamental business model that enables corporations like Oracle to profit from unauthorized mass surveillance of the global population. The settlement coincides with Oracle's expanding role in government surveillance through intelligence contracts, suggesting that privacy violations in the commercial sector may complement rather than conflict with the company's national security work.",
     "_file": "2024-08-09--oracle-privacy-settlement-115-million-surveillance-machine.md",
     "_id_hash": "53313de6c69fca3d79ac5671288cbf25e92118e0c1bcd79d0d93ad1ddc26e804"
-  },
-  {
-    "date": "2024-08-13",
-    "title": "JD Vance Writes Foreword for Project 2025 Architect's Book, Revealing Radical Institutional Transformation Plan",
-    "importance": 9,
-    "status": "confirmed",
-    "actors": [
-      "JD Vance",
-      "Kevin Roberts",
-      "Heritage Foundation"
-    ],
-    "sources": [
-      {
-        "title": "pbs.org",
-        "url": "https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election"
-      },
-      {
-        "title": "poynter.org",
-        "url": "https://www.poynter.org/fact-checking/2024/jd-vance-who-wrote-project-2025/"
-      },
-      {
-        "title": "inquirer.com",
-        "url": "https://www.inquirer.com/politics/election/jd-vance-kevin-roberts-book-foreword-20240808.html"
-      }
-    ],
-    "tags": [
-      "succession-risk",
-      "jd-vance",
-      "project-2025",
-      "authoritarian-consolidation",
-      "government-purge",
-      "heritage-foundation",
-      "election-2024"
-    ],
-    "id": "2024-08-13--jd-vance-writes-foreword-for-project-2025-architect's-book-1757454835",
-    "priority_id": "RP-20250909-vance-succession-risk-analysis",
-    "summary": "Vice President-elect JD Vance wrote the foreword to \"Dawn's Early Light\" by Heritage Foundation President Kevin Roberts, a key architect of Project 2025. Originally scheduled for September 2024 but postponed until after the presidential election, the book describes a vision for a \"peaceful 'Second American Revolution'\". In the foreword, Vance uses metaphorical language about \"circling wagons and loading muskets\", endorsing the project's aggressive plan to transform government institutions. The book identifies conservative targets for institutional overhaul, including Ivy League colleges, the FBI, and the Department of Education, proposing to dismantle and rebuild these agencies. This demonstrates a coordinated strategy for radical governmental restructuring.",
-    "_file": "2024-08-13--jd-vance-writes-foreword-for-project-2025-architect's-book-1757454835.md",
-    "_id_hash": "74201da4db869177d79c122af40d8fadd2f2b60cd3fb010721b064c3aa5098ff"
   },
   {
     "date": "2024-08-13",
@@ -157692,51 +155864,6 @@
     "summary": "President Donald Trump signed Executive Order 14148 on January 20, 2025, his first day in office, rescinding 78 Biden-era executive orders and memoranda. The order targeted climate policies, DEI initiatives, and immigration enforcement, directing agency heads to end \"unlawful and radical DEI ideology\" implementation. The order stated \"Climate extremism has exploded inflation and overburdened businesses\" and mandated a 45-day review to identify additional orders for rescission, followed by a March 14 second wave of rescissions.",
     "_file": "2025-01-20--initial-rescissions.md",
     "_id_hash": "39ea56bd8a3402f6e92e09c34594f228cf7aee803e82bc2416510bbaaa490dd4"
-  },
-  {
-    "date": "2025-01-20",
-    "title": "J.D. Vance Inaugurated as Vice President",
-    "actors": [
-      "J.D. Vance",
-      "Donald Trump",
-      "Peter Thiel",
-      "Brett Kavanaugh",
-      "Han Zheng"
-    ],
-    "importance": 10,
-    "sources": [
-      {
-        "title": "JD Vance sworn in as vice president",
-        "outlet": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2025-inauguration/live-blog/trump-inauguration-live-updates-rcna185557",
-        "tier": 1
-      },
-      {
-        "title": "Who is swearing in Trump and Vance at the 2025 inauguration",
-        "outlet": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-vance-inauguration-2025-who-swearing-in/",
-        "tier": 1
-      },
-      {
-        "title": "JD Vance becomes third-youngest Vice President in US history",
-        "outlet": "The Hill",
-        "url": "https://thehill.com/homenews/administration/5098234-jd-vance-youngest-vice-president/",
-        "tier": 1
-      }
-    ],
-    "tags": [
-      "inauguration",
-      "vice-president",
-      "political-transformation",
-      "thiel-influence",
-      "millennial-leadership"
-    ],
-    "status": "confirmed",
-    "id": "2025-01-20--j.d.-vance-inaugurated-as-vice-president-1757456537",
-    "priority_id": "jd-vance-pdf-analysis-1757456537",
-    "summary": "J.D. Vance sworn in as 50th Vice President at age 40, completing transformation from Hillbilly Elegy author and Trump critic to second-highest office, backed by Peter Thiel network influence. Became the third-youngest vice president in U.S. history, first Millennial and first Marine Corps veteran to hold the office. Sworn in by Supreme Court Justice Brett Kavanaugh during an indoor ceremony in the Capitol Rotunda due to freezing temperatures.",
-    "_file": "2025-01-20--j.d.-vance-inaugurated-as-vice-president-1757456537.md",
-    "_id_hash": "3d2c3af5ed8a79957fe0bb8621a167e134b804d616aad6839c24fd268a4035e6"
   },
   {
     "id": "2025-01-20--jd-vance-inaugurated-as-vice-president",
@@ -165113,52 +163240,6 @@
     "_id_hash": "59105e9a23542780c7c45abd16d2d78431c076b4fed0a6aab2272787bb3410ad"
   },
   {
-    "id": "2025-02-15--emoluments-enforcement-crisis",
-    "date": "2025-02-15",
-    "title": "Federal Courts Struggle with Unprecedented Emoluments Enforcement",
-    "importance": 9,
-    "actors": [
-      "Federal Judiciary",
-      "Trump Administration",
-      "Department of Justice",
-      "Supreme Court"
-    ],
-    "tags": [
-      "constitutional-crisis",
-      "emoluments",
-      "judicial-review",
-      "separation-of-powers"
-    ],
-    "capture_lanes": [
-      "Judicial Capture",
-      "Regulatory Capture",
-      "Financial Capture",
-      "Intelligence Penetration",
-      "Executive Power Expansion"
-    ],
-    "sources": [
-      {
-        "outlet": "Brennan Center for Justice",
-        "title": "Supreme Court Ducks an Opportunity on Trump Emoluments Cases",
-        "url": "https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases"
-      },
-      {
-        "outlet": "Citizens for Responsibility and Ethics in Washington (CREW)",
-        "title": "The Intensifying Threat of Donald Trump's Emoluments",
-        "url": "https://www.citizensforethics.org/reports-investigations/crew-reports/the-intensifying-threat-of-donald-trumps-emoluments/"
-      },
-      {
-        "outlet": "Axios",
-        "title": "The Foreign Emoluments Clause: Qatar's Jet Offer Raises Constitutional Questions",
-        "url": "https://www.axios.com/2025/05/15/trump-qatar-jet-foreign-emoluments-clause"
-      }
-    ],
-    "status": "confirmed",
-    "summary": "In a landmark series of cases, federal courts grappled with complex emoluments clause violations by the Trump administration. Multiple district and appellate courts issued conflicting rulings, exposing deep systemic challenges in holding executive branch officials accountable for foreign financial entanglements.",
-    "_file": "2025-02-15--emoluments-enforcement-crisis.md",
-    "_id_hash": "d2f95f0ba7e4cc14c13fc6aa070f0edb402542edf7b8cdb8d4591c13fa873197"
-  },
-  {
     "id": "2025-02-15--example-trump-doj-weaponization-event",
     "date": "2025-02-15",
     "title": "Trump Administration Systematically Removes DOJ Prosecutors",
@@ -169918,51 +167999,6 @@
     "_id_hash": "4e18fadb7a8a2d4f113e3a85321bb7a813ab385954e25bc6245ad5be3742337f"
   },
   {
-    "date": "2025-03-10",
-    "title": "Expansion of Pro Bono Legal Support Network",
-    "importance": 8,
-    "actors": [
-      "Lawyers for Good Government",
-      "We The Action",
-      "Alliance for Justice",
-      "Pro Bono Litigation Corps"
-    ],
-    "sources": [
-      {
-        "outlet": "Lawyers for Good Government",
-        "title": "Introducing the Pro Bono Litigation Corps: A New Force in the Fight for Justice",
-        "url": "https://www.lawyersforgoodgovernment.org/blog/2025/7/21/introducing-the-pro-bono-litigation-corps-a-new-force-in-the-fight-for-justice"
-      },
-      {
-        "outlet": "Civic Nation",
-        "title": "We The Action Launches Federal Workers Legal Defense Network",
-        "url": "https://civicnation.org/news/we-the-action-launches-federal-workers-legal-defense-network-to-harness-the-power-of-pro-bono-lawyers-to-support-federal-workers/"
-      },
-      {
-        "outlet": "Federal News Network",
-        "title": "Federal employees impacted by Trump administration can turn to new legal support network",
-        "url": "https://federalnewsnetwork.com/workforce-rightsgovernance/2025/04/federal-employees-impacted-by-trump-administration-can-turn-to-new-legal-support-network/"
-      }
-    ],
-    "tags": [
-      "pro-bono-support",
-      "legal-defense",
-      "constitutional-protection",
-      "collaborative-legal-response",
-      "federal-workers-rights"
-    ],
-    "status": "confirmed",
-    "id": "2025-03-10--pro-bono-legal-support-network-expansion",
-    "capture_lanes": [
-      "Systematic Corruption",
-      "Constitutional Defense",
-      "Legal Infrastructure"
-    ],
-    "summary": "Multiple pro bono legal networks emerged in 2025, including the Pro Bono Litigation Corps (PBLC) by Lawyers for Good Government, the Federal Workers Legal Defense Network by We The Action, and the Nonprofit Legal Defense Network. These initiatives aim to provide comprehensive legal support for individuals and organizations facing constitutional challenges, focusing on democracy protection, federal worker rights, and nonprofit sector defense.",
-    "_file": "2025-03-10--pro-bono-legal-support-network-expansion.md",
-    "_id_hash": "f9db028241861551e774e4562db7502c243af2310d293d1fb4921874fb38410f"
-  },
-  {
     "id": "2025-03-10--pro-bono-legal-support-system",
     "date": "2025-03-10",
     "title": "Pro Bono Legal Support Network Expansion",
@@ -170114,55 +168150,6 @@
     "summary": "Education Secretary Linda McMahon announces reduction in force (RIF) impacting nearly 50% of Department's workforce, cutting from 4,133 to 2,183 employees. Almost 600 employees accepted voluntary separation while remaining affected staff placed on administrative leave starting March 21. McMahon described this as first step toward department dismantling and eliminating \"bureaucratic bloat\".",
     "_file": "2025-03-11--education-department-50-percent-reduction.md",
     "_id_hash": "b254a2086f452cde114c1f407bbe47226d0019adeb687536442cdb5b7a88c686"
-  },
-  {
-    "id": "2025-03-11--education-department-faces-50-workforce-reduction",
-    "date": "2025-03-11",
-    "title": "Education Department Faces 50% Workforce Reduction",
-    "importance": 9,
-    "actors": [
-      "Linda McMahon",
-      "Sheria Smith",
-      "Department of Education",
-      "AFGE Local 252"
-    ],
-    "sources": [
-      {
-        "outlet": "NPR",
-        "title": "The Education Department says it will cut nearly 50% of staff",
-        "url": "https://www.npr.org/2025/03/11/nx-s1-5324746/trump-education-department-layoffs-closure-reorganization",
-        "date": "2025-03-11"
-      },
-      {
-        "outlet": "NBC News",
-        "title": "Education Department to cut roughly half its staff",
-        "url": "https://www.nbcnews.com/politics/trump-administration/education-department-lay-off-roughly-half-workforce-linda-mcmahon-rcna195038",
-        "date": "2025-03-11"
-      },
-      {
-        "outlet": "Inside Higher Ed",
-        "title": "Education Department Lays Off Nearly Half of Staff",
-        "url": "https://www.insidehighered.com/news/government/politics-elections/2025/03/11/education-department-reduce-staff-half",
-        "date": "2025-03-11"
-      }
-    ],
-    "tags": [
-      "education-dismantling",
-      "department-elimination",
-      "workforce-cuts",
-      "federal-education",
-      "project-2025",
-      "regulatory-capture"
-    ],
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Legislative Capture",
-      "Institutional Transformation"
-    ],
-    "status": "confirmed",
-    "summary": "Education Secretary Linda McMahon announced massive workforce reduction at the Department of Education, eliminating nearly 1,300 positions across all divisions. The cuts, directly aligned with Project 2025's recommendation to dismantle the department, will impact Federal Student Aid, Institute of Education Sciences, and the Office for Civil Rights. McMahon claimed the reduction ensures 'efficiency and accountability', while unions decry the move as 'draconian'.",
-    "_file": "2025-03-11--education-department-faces-50-workforce-reduction.md",
-    "_id_hash": "0bdbcc748cf076500473011e4236d12425af0641df6cd469aa3ce1decf2ad080"
   },
   {
     "actors": [
@@ -172690,69 +170677,6 @@
     "summary": "President Trump attempted to federalize the California National Guard without Governor Newsom's consent, sparking a major constitutional showdown. A federal court issued a temporary restraining order, blocking the deployment and challenging the president's authority under Title 10, marking a critical test of federal-state military control.",
     "_file": "2025-03-22--national-guard-authority-constitutional-test.md",
     "_id_hash": "50b25d9b6c076a8c16f5f0181e2f7c01227f7cfe5478c11576087f945c12e19f"
-  },
-  {
-    "id": "2025-03-22--national-guard-deployment-legal-challenge",
-    "date": "2025-03-22",
-    "title": "Federal Courts Rule on National Guard Deployment Constitutionality",
-    "importance": 9,
-    "sources": [
-      {
-        "outlet": "CNN",
-        "title": "Federal Judge Temporarily Blocks National Guard Deployment to Portland",
-        "url": "https://www.cnn.com/2025/10/06/us/oregon-national-guard-trump-ruling-portland-hnk"
-      },
-      {
-        "outlet": "California Governor's Office",
-        "title": "Governor's Statement on National Guard Deployment Challenge",
-        "url": "https://www.gov.ca.gov/2025/10/05/governor-newsom-to-sue-urges-americans-to-speak-out-on-trumps-breathtaking-abuse-of-power-with-cross-state-guard-deployment/"
-      },
-      {
-        "outlet": "OPB",
-        "title": "Judge Halts Deployment of Oregon National Guard",
-        "url": "https://www.opb.org/article/2025/10/04/portland-national-guard-deployment-judge-decision/"
-      }
-    ],
-    "actors": [
-      "Federal Judiciary",
-      "National Guard",
-      "State Governors",
-      "Executive Branch",
-      "U.S. District Judge Karin Immergut",
-      "U.S. District Judge Charles Breyer",
-      "Governor Gavin Newsom",
-      "President Trump",
-      "Secretary of Defense Pete Hegseth"
-    ],
-    "capture_lanes": [
-      "Judicial Capture",
-      "Regulatory Capture",
-      "Executive Power Expansion"
-    ],
-    "tags": [
-      "national-guard",
-      "constitutional-crisis",
-      "military-authority",
-      "separation-of-powers",
-      "executive-overreach",
-      "tenth-amendment",
-      "posse-comitatus"
-    ],
-    "status": "confirmed",
-    "legal_context": {
-      "key_laws_cited": [
-        "10 U.S.C. §12406",
-        "Tenth Amendment",
-        "Posse Comitatus Act"
-      ],
-      "judicial_actions": [
-        "Temporary Restraining Order (Oregon)",
-        "Temporary Restraining Order (California)"
-      ]
-    },
-    "summary": "A consolidated panel of federal judges heard critical arguments challenging the president's authority to federalize and deploy National Guard units across multiple states. The hearings revealed profound constitutional tensions surrounding emergency powers, state sovereignty, and executive military deployment. Multiple federal judges, including Judge Karin Immergut in Oregon and Judge Charles Breyer in California, issued temporary restraining orders blocking cross-state National Guard deployments, citing potential violations of the Tenth Amendment and the Posse Comitatus Act.",
-    "_file": "2025-03-22--national-guard-deployment-legal-challenge.md",
-    "_id_hash": "d8f1d22e306c3d25c35b75e8167e6f46b0507a6708a5a48f476ae9a02ca39bb4"
   },
   {
     "actors": [
@@ -185374,63 +183298,6 @@
     "_id_hash": "236aa1e99c3a3bda704505a9ff391302f001ae6d1d3ba63b16275088b7204680"
   },
   {
-    "id": "2025-05-22--hundreds-join-trump-at-exclusive-dinner-with-dreams-of-crypt",
-    "date": "2025-05-22",
-    "title": "Trump Hosts Exclusive Memecoin Investor Dinner at Virginia Golf Club",
-    "description": "President Donald Trump organized a high-profile dinner for the top 220 investors in his memecoin at Trump National Golf Club in Potomac Falls, Virginia. Attendees, who collectively spent $148 million on the $TRUMP token, included crypto influencers, industry executives, and a celebrity, while over 100 protesters demonstrated outside, criticizing the event as a potential conflict of interest.",
-    "status": "confirmed",
-    "importance": 8,
-    "location": "Trump National Golf Club, Potomac Falls, Virginia",
-    "actors": [
-      "Donald Trump",
-      "Trump Administration",
-      "Sandy Carter",
-      "Lamar Odom",
-      "Elizabeth Warren",
-      "Karoline Leavitt"
-    ],
-    "tags": [
-      "crypto",
-      "government-contracts",
-      "political-monetization",
-      "memecoin"
-    ],
-    "capture_type": "monetizing_position",
-    "sources": [
-      {
-        "outlet": "PBS News",
-        "title": "WATCH: White House weighs in on why Trump plans to attend memecoin dinner",
-        "url": "https://www.pbs.org/newshour/economy/watch-white-house-weighs-in-on-why-trump-plans-to-attend-memecoin-dinner",
-        "date": "2025-05-22"
-      },
-      {
-        "outlet": "CBC News",
-        "title": "Trump hosts $148M US crypto dinner slammed by Democrats as 'orgy of corruption'",
-        "url": "https://www.cbc.ca/news/world/trump-crypto-golf-club-dinner-1.7541823",
-        "date": "2025-05-22"
-      },
-      {
-        "outlet": "Fortune Crypto",
-        "title": "Trump is hosting a private dinner for the top 220 buyers of his memecoin tonight—and even the crypto lobby is grumbling",
-        "url": "https://fortune.com/crypto/2025/05/22/trump-private-crypto-memecoin-dinner-lobbyists-stablecoin-legislation/",
-        "date": "2025-05-22"
-      }
-    ],
-    "connections": [],
-    "patterns": [
-      "kleptocratic-capture",
-      "political-grift"
-    ],
-    "notes": "Event from comprehensive kleptocracy timeline tracking.",
-    "capture_lanes": [
-      "Systematic Corruption",
-      "Political Monetization"
-    ],
-    "summary": "President Trump hosted a private dinner for 220 top investors of his $TRUMP memecoin at his Virginia golf club, with attendees having spent a combined $148 million on the digital token. The event drew both high-profile crypto investors and significant public protest, highlighting the controversial intersection of political influence and cryptocurrency speculation.",
-    "_file": "2025-05-22--hundreds-join-trump-at-exclusive-dinner-with-dreams-of-crypt.md",
-    "_id_hash": "4bb67a905af6a53e86e06120b0adfeeab8082edba5dd6c4d23011e0ed76f92e8"
-  },
-  {
     "id": "2025-05-22--more-than-a-dozen-u-s-officials-sold-stocks-before-trump-s-t",
     "date": "2025-05-22",
     "title": "Trump Hosts Private Memecoin Investor Dinner Amid Foreign Investment Controversy",
@@ -186994,51 +184861,6 @@
     "summary": "Department of Labor reported 59,000 federal jobs eliminated by June 2025 under DOGE initiative, with additional 154,000 employees (6% of 2.3 million civilian workforce) participating in deferred resignation program paying full salary and benefits through September 30, 2025 to accelerate exodus of career officials.",
     "_file": "2025-06-01--federal-workforce-reduction.md",
     "_id_hash": "d1236a4152ee7788a4db58ccf39c4b935877a2f36bb7d9a5fd7e55f8054d593c"
-  },
-  {
-    "date": "2025-06-01",
-    "title": "Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan",
-    "actors": [
-      "Donald Trump",
-      "Russell Vought",
-      "Kevin Roberts",
-      "Heritage Foundation"
-    ],
-    "importance": 8,
-    "sources": [
-      {
-        "outlet": "Canadian Broadcasting Corporation (CBC)",
-        "title": "It's barely 2025 and Trump's project to overhaul federal civil service is well underway",
-        "url": "https://www.cbc.ca/news/world/trump-us-government-workforce-1.7444804"
-      },
-      {
-        "outlet": "Bloomberg",
-        "title": "U.S. government faces brain drain as 154,000 federal workers exit this week",
-        "url": "https://www.bnnbloomberg.ca/business/2025/09/30/us-government-faces-brain-drain-as-154000-federal-workers-exit-this-week/"
-      },
-      {
-        "outlet": "Federal News Network",
-        "title": "Competing numbers emerge on federal workforce reductions",
-        "url": "https://federalnewsnetwork.com/federal-report/2025/08/competing-numbers-emerge-on-federal-workforce-reductions/"
-      }
-    ],
-    "tags": [
-      "workforce-reduction",
-      "federal-employees",
-      "government-shrinkage",
-      "administrative-exodus",
-      "project-2025"
-    ],
-    "status": "confirmed",
-    "id": "2025-06-01--federal-workforce-shrinks-by-59000-jobs-under-project-2025-p",
-    "priority_id": "project-2025-implementation-1757456630",
-    "capture_lanes": [
-      "Financial Capture",
-      "Intelligence Penetration"
-    ],
-    "summary": "The federal workforce was reduced by 59,000 employees in the first five months of 2025, with an additional 154,000 federal workers accepting the Deferred Resignation Program (DRP), marking the largest single-year exodus of civil servants in nearly 80 years. This reduction aligns with the Trump administration's Project 2025 goals of 'dismantling the administrative state'.",
-    "_file": "2025-06-01--federal-workforce-shrinks-by-59000-jobs-under-project-2025-p.md",
-    "_id_hash": "fcf332ca4aa50332b5fcbbe946c645c168aacedebed508c068525d85e014746d"
   },
   {
     "id": "2025-06-01--miller-noem-directive-3000-daily-arrests",
@@ -191340,59 +189162,6 @@
     "_id_hash": "93faf3bf3f4c77eba6152d7dba399eb93233258779e4e350f97d511954397ea4"
   },
   {
-    "id": "2025-07-02--paramount-settles-trump-60-minutes-lawsuit-for-16-million",
-    "date": "2025-07-02",
-    "title": "Paramount Settles Trump's 60 Minutes Lawsuit for $16 Million",
-    "actors": [
-      "Donald Trump",
-      "Trump Administration",
-      "Paramount Global",
-      "CBS News",
-      "Kamala Harris"
-    ],
-    "importance": 7,
-    "location": "Washington, D.C.",
-    "capture_lanes": [
-      "Media Capture & Control",
-      "Electoral Manipulation",
-      "Executive Power Expansion"
-    ],
-    "capture_type": "monetizing_position",
-    "patterns": [
-      "kleptocratic-capture"
-    ],
-    "tags": [
-      "media-control",
-      "government-contracts",
-      "justice-weaponization",
-      "corporate-settlement"
-    ],
-    "sources": [
-      {
-        "date": "2025-07-02",
-        "outlet": "NPR",
-        "title": "Paramount agrees to pay $16 million to settle Trump's CBS lawsuit",
-        "url": "https://www.npr.org/2025/07/02/nx-s1-5290171/trump-lawsuit-paramount-cbs-60-minutes-kamala-harris"
-      },
-      {
-        "date": "2025-07-02",
-        "outlet": "CNN Business",
-        "title": "Paramount settles Trump's '60 Minutes' lawsuit with $16 million payout and no apology",
-        "url": "https://www.cnn.com/2025/07/02/media/cbs-trump-60-minutes-paramount-settlement"
-      },
-      {
-        "date": "2025-07-02",
-        "outlet": "Variety",
-        "title": "Paramount to Pay Trump $16 Million to Settle '60 Minutes' Lawsuit",
-        "url": "https://variety.com/2025/tv/news/paramount-trump-settlement-60-minutes-lawsuit-1236404935/"
-      }
-    ],
-    "status": "confirmed",
-    "summary": "Paramount Global agreed to pay $16 million to President Donald Trump's presidential library to settle a lawsuit over a '60 Minutes' pre-election interview with Kamala Harris. The settlement includes no apology and appears to be strategically timed to support Paramount's pending merger with Skydance Media.",
-    "_file": "2025-07-02--paramount-settles-trump-60-minutes-lawsuit-for-16-million.md",
-    "_id_hash": "742b233deb641b708a76d5e4a0ac85e101ade94d644fff0eeac46726b133c2e6"
-  },
-  {
     "id": "2025-07-02--paramount-to-pay-trump-16m-to-settle-60-minutes-lawsuit",
     "date": "2025-07-02",
     "title": "Paramount Pays $16M to Settle Trump's 60 Minutes Lawsuit",
@@ -193039,51 +190808,6 @@
     "summary": "The Supreme Court issued a 6-3 stay allowing the Trump administration to proceed with mass federal workforce reductions at 22 agencies, overturning a preliminary injunction issued by Judge Susan Illston. The decision enabled immediate implementation of layoffs that had been blocked as likely violations of civil service protections.\n\nThe stay allowed reductions in force (RIFs) to proceed while appeals continued, effectively making the cuts permanent even if courts later found them unlawful—fired employees would not be automatically reinstated. The American Federation of Government Employees represented over 100,000 affected workers.\n\nThe three liberal justices dissented, arguing the court was short-circuiting normal judicial processes to allow potentially illegal terminations. They noted the administration had not demonstrated the irreparable harm typically required for emergency relief.\n\nThe decision exemplified the court's asymmetric approach to emergency relief: consistently granting stays that benefit the Trump administration while rarely extending similar treatment to other parties. The ruling enabled the largest reduction in federal workforce since the Reagan era, fundamentally reshaping government capacity.",
     "_file": "2025-07-14--supreme-court-authorizes-federal-workforce-purge.md",
     "_id_hash": "b591ca3c7f1726e695e1eacaca9b7e80710366857e6e4fb7017f78931f0e871b"
-  },
-  {
-    "date": "2025-07-15",
-    "title": "Climate Programs Dismantled - NOAA Faces 27% Budget Cut, Hundreds of Jobs Eliminated",
-    "actors": [
-      "NOAA",
-      "Climate research agencies",
-      "Federal climate programs",
-      "U.S. Global Change Research Program"
-    ],
-    "importance": 9,
-    "sources": [
-      {
-        "title": "As NOAA braces for more cuts, scientists say public safety is at risk",
-        "outlet": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/politics/as-noaa-braces-for-more-cuts-scientists-say-public-safety-is-at-risk",
-        "tier": 1
-      },
-      {
-        "title": "Trump Administration Plans Detrimental Cuts to NOAA Climate Research",
-        "outlet": "Environmental Defense Fund",
-        "url": "https://www.edf.org/media/reports-trump-administration-plans-detrimental-cuts-noaa-climate-research",
-        "tier": 1
-      },
-      {
-        "title": "NOAA budget cuts threaten weather forecasting",
-        "outlet": "Washington Post",
-        "url": "https://www.washingtonpost.com/weather/2025/07/15/noaa-budget-cuts-weather-forecasting/",
-        "tier": 1
-      }
-    ],
-    "tags": [
-      "climate-dismantling",
-      "noaa-cuts",
-      "research-elimination",
-      "environmental-rollback",
-      "project-2025",
-      "federal-science-cuts"
-    ],
-    "status": "confirmed",
-    "id": "2025-07-15--climate-programs-dismantled--noaa-faces-27%-budget-cut-1757456630",
-    "priority_id": "project-2025-implementation-1757456630",
-    "summary": "Major systematic dismantling of climate research infrastructure: NOAA's budget cut by 27%, with Office of Oceanic and Atmospheric Research (OAR) budget slashed from $485 million to $171 million. Approximately 1,029 jobs to be eliminated, disrupting critical weather forecasting, climate monitoring, and marine ecosystem research. Part of Project 2025's comprehensive plan to eliminate federal climate change research capabilities.",
-    "_file": "2025-07-15--climate-programs-dismantled--noaa-faces-27%-budget-cut-1757456630.md",
-    "_id_hash": "ecb7f02f519eed3fa7a8242a55318f9caa7999d8051de6b0f3e250152d003154"
   },
   {
     "date": "2025-07-15",
@@ -197778,57 +195502,6 @@
     "_id_hash": "4cc754c22a240a04b7bb2fc2ae9f33d949a4b5036440c6d19c99b689e9fa3bd8"
   },
   {
-    "date": "2025-08-07",
-    "title": "Trump Signs 186 Executive Orders - Two-Thirds Mirror Project 2025",
-    "actors": [
-      "Donald Trump",
-      "Project 2025 architects",
-      "Heritage Foundation"
-    ],
-    "importance": 10,
-    "sources": [
-      {
-        "outlet": "NPR",
-        "title": "Trump Enacts Project 2025 Policies, Which He Distanced Himself From While Campaigning",
-        "url": "https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning",
-        "date": "2025-01-31",
-        "archive_url": "https://web.archive.org/web/20250131000000/https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning"
-      },
-      {
-        "outlet": "CNN",
-        "title": "Trump's Policy and Project 2025: A Deep Dive into Executive Order Similarities",
-        "url": "https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html",
-        "date": "2025-01-31",
-        "archive_url": "https://web.archive.org/web/20250131000000/https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html"
-      },
-      {
-        "outlet": "The Washington Post",
-        "title": "5 Ways Project 2025 Appeared in Trump's Presidential Directives",
-        "url": "https://www.washingtonpost.com/politics/2025/01/25/5-ways-project-2025-appeared-trumps-presidential-directives/",
-        "date": "2025-01-25",
-        "archive_url": "https://web.archive.org/web/20250125000000/https://www.washingtonpost.com/politics/2025/01/25/5-ways-project-2025-appeared-trumps-presidential-directives/"
-      }
-    ],
-    "tags": [
-      "executive-orders",
-      "project-2025-correlation",
-      "systematic-implementation",
-      "blueprint-adherence",
-      "executive-power-expansion"
-    ],
-    "capture_lanes": [
-      "Executive Power Expansion",
-      "Regulatory Transformation"
-    ],
-    "context": "The Trump administration's aggressive use of executive orders reflects a strategic implementation of Project 2025's policy recommendations, demonstrating a systematic approach to reshaping federal governance without congressional approval. This approach raises significant concerns about democratic processes and the balance of governmental powers.",
-    "quality_score": 8,
-    "validation_status": "validated",
-    "id": "2025-08-07--trump-signs-186-executive-orders--two-thirds-mirror-project-2025-1757456630",
-    "summary": "By August 7, President Trump had signed 186 executive orders, with independent analysis finding approximately two-thirds mirror or partially mirror Project 2025 proposals. This systematic implementation demonstrates a coordinated effort to reshape federal governance through executive action, bypassing traditional legislative processes and dramatically expanding presidential power.",
-    "_file": "2025-08-07--trump-signs-186-executive-orders--two-thirds-mirror-project-2025-1757456630.md",
-    "_id_hash": "f83bec69d5819ccb513845107e06cb8feb8b8a23a077ff269abd103c23a1ea60"
-  },
-  {
     "date": "2025-08-08",
     "importance": 6,
     "title": "White House announces increased federal law-enforcement presence in Washington, D.C.",
@@ -198399,55 +196072,6 @@
     "summary": "Alnur Mussayev, former chief of Kazakhstan's National Security Committee, alleged that Vladimir Putin possesses comprehensive kompromat files on Donald Trump, linking Trump to the Epstein network. Mussayev claims the FSB holds materials documenting financial transactions, sexual crimes, and potential blackmail material. However, these allegations remain unverified, with significant credibility questions surrounding Mussayev's claims.\n\nKey claims include:\n- Alleged detailed financial records of illicit transactions\n- Claimed audio/video evidence of sexual crimes\n- Suggestion of strategic manipulation of Trump's political actions\n- Connections to Epstein's trafficking networks\n\nFact-checking organizations have raised substantial doubts about the veracity of Mussayev's allegations, noting inconsistencies in his career timeline and lack of corroborating evidence.",
     "_file": "2025-08-12--mussayev-alleges-putin-trump-epstein-kompromat.md",
     "_id_hash": "d1777fb279c8bb5b17de01bab57de05922797c0f0b4fed30a8813872cecf06bb"
-  },
-  {
-    "id": "2025-08-12--mussayev-putin-trump-kompromat-allegations",
-    "date": "2025-08-12",
-    "title": "Former Kazakhstan Intelligence Chief Alleges Putin's Kompromat on Trump",
-    "importance": 9,
-    "actors": [
-      "Alnur Mussayev",
-      "Vladimir Putin",
-      "Donald Trump",
-      "Jeffrey Epstein",
-      "Tofik Arifov"
-    ],
-    "tags": [
-      "kompromat",
-      "russian-intelligence",
-      "trump-russia-connection",
-      "epstein-network",
-      "geopolitical-manipulation"
-    ],
-    "capture_lanes": [
-      "Intelligence Penetration",
-      "Foreign Influence"
-    ],
-    "sources": [
-      {
-        "outlet": "Closer to the Edge",
-        "title": "WHAT PUTIN HAS ON TRUMP",
-        "date": "2025-08-12",
-        "url": "https://closertotheedge.substack.com/p/what-putin-has-on-trump"
-      },
-      {
-        "outlet": "The Hill",
-        "title": "Assessing new allegations that Trump was recruited by the KGB",
-        "date": "2025-08-13",
-        "url": "https://thehill.com/opinion/international/5162890-assessing-new-allegations-that-trump-was-recruited-by-the-kgb/"
-      },
-      {
-        "outlet": "Morning Truth",
-        "title": "Ex-KGB Official Claims Putin Has a Secret Blackmail File on Trump",
-        "date": "2025-08-14",
-        "url": "https://morningtruth.substack.com/p/ex-kgb-official-claims-putin-has"
-      }
-    ],
-    "verification_status": "unverified",
-    "notes": "Claims lack concrete public evidence as of September 2025. Multiple publications report the allegations, but no independent verification of kompromat files has been established.",
-    "summary": "Alnur Mussayev, ex-chief of Kazakhstan's National Security Committee, alleged that Vladimir Putin possesses comprehensive kompromat files on Donald Trump, including potential evidence of sexual crimes, financial misconduct, and connections to Jeffrey Epstein's network. Mussayev claims the files are strategically maintained to control Trump's geopolitical alignment rather than to expose him publicly.",
-    "_file": "2025-08-12--mussayev-putin-trump-kompromat-allegations.md",
-    "_id_hash": "d1ec8dcc27b0742215db47098293ac450ea14dfca57333307328e40e49cf9886"
   },
   {
     "id": "2025-08-13--bessent-ethics-violation-farmland-divestment",
@@ -200528,54 +198152,6 @@
     "_id_hash": "ba9e7e61c5092c0e7eb2589115e5b4d1dc3eba7dd422945f70d15b2c613b8f6f"
   },
   {
-    "id": "2025-08-26--ssa-data-breach-whistleblower",
-    "date": "2025-08-26",
-    "title": "Whistleblower Exposes DOGE Social Security Database Vulnerability",
-    "importance": 9,
-    "actors": [
-      "Charles Borges",
-      "Ed Coristine",
-      "John Solly",
-      "Social Security Administration"
-    ],
-    "sources": [
-      {
-        "date": "2025-08-26",
-        "outlet": "NPR",
-        "title": "Whistleblower says DOGE put Social Security numbers at risk",
-        "url": "https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy"
-      },
-      {
-        "date": "2025-08-26",
-        "outlet": "The Washington Post",
-        "title": "Social Security official says DOGE compromised Americans' data",
-        "url": "https://www.washingtonpost.com/politics/2025/08/26/social-security-data-cloud-whistleblower/"
-      },
-      {
-        "date": "2025-08-26",
-        "outlet": "CNN",
-        "title": "DOGE put Americans' Social Security records at risk, whistleblower says",
-        "url": "https://www.cnn.com/2025/08/26/politics/doge-social-security-records-whistleblower"
-      }
-    ],
-    "tags": [
-      "data-breach",
-      "whistleblower",
-      "social-security",
-      "cybersecurity",
-      "national-security",
-      "institutional-vulnerability"
-    ],
-    "capture_lanes": [
-      "Regulatory Capture",
-      "Intelligence Penetration",
-      "Technological Infrastructure"
-    ],
-    "summary": "SSA Chief Data Officer Charles Borges filed a comprehensive whistleblower complaint revealing a critical data security breach. DOGE employees, including Ed Coristine, created an unsecured cloud copy of the NUMIDENT database containing sensitive personal information for over 300 million Americans. SSA cybersecurity officials classified the breach as 'very high risk', with potential consequences including mass Social Security number reissuance.",
-    "_file": "2025-08-26--ssa-data-breach-whistleblower.md",
-    "_id_hash": "03b20067d9126f0be9040f1dac22afe62f0f94a6b10a9553714f56ed8737e41f"
-  },
-  {
     "id": "2025-08-26--trump-media-crypto-partnership",
     "date": "2025-08-26",
     "title": "Trump Media Announces $1 Billion Crypto.com Partnership While Trump Holds Presidential Office",
@@ -201686,44 +199262,6 @@
     "summary": "The U.S. Department of Justice formally opened a criminal investigation into Federal Reserve Governor Lisa Cook on September 4, 2025, following a criminal referral from Federal Housing Finance Agency Director Bill Pulte. Federal prosecutors issued grand jury subpoenas in Georgia and Michigan to investigate allegations that Cook committed mortgage fraud by claiming two properties—a home in Ann Arbor, Michigan, and a condo in Atlanta—as her primary residence within two weeks of purchasing each property with financing.\n\nThe investigation is being led by Ed Martin, director of the DOJ's Weaponization Working Group, who was appointed by Attorney General Pam Bondi as a special assistant U.S. attorney specifically to investigate mortgage fraud allegations involving public officials. Martin is coordinating with U.S. Attorneys' Offices in the Northern District of Georgia and Eastern District of Michigan. The investigation represents an escalation of the Trump administration's campaign against Cook, who is simultaneously fighting President Trump's unprecedented attempt to fire her from the Federal Reserve—the first such firing in the central bank's 111-year history.\n\nCook's attorney, prominent Washington lawyer Abbe Lowell, characterized the investigation as politically motivated, stating that questions about how Cook described her properties \"are not fraud, but it takes nothing for this DOJ to undertake a new politicised investigation.\" Cook has denied the allegations in court filings and noted that even if the allegations were true, the alleged conduct occurred before her Senate confirmation and would not constitute grounds for removal under the Federal Reserve Act. The criminal investigation represents part of a broader pattern of the Trump administration using DOJ resources to pursue perceived political opponents, with Martin's Weaponization Working Group also investigating Democratic Senator Adam Schiff and New York Attorney General Letitia James on similar mortgage fraud allegations.",
     "_file": "2025-09-04--doj-criminal-investigation-lisa-cook-mortgage-fraud.md",
     "_id_hash": "a17e458e7d3f6507f5b9faab07e3d6dfebef8c6a352f262f45cd23958d79f0a6"
-  },
-  {
-    "id": "2025-09-04--doj-launches-criminal-investigation-against-fed-governor-lisa-cook",
-    "date": "2025-09-04",
-    "title": "DOJ Opens Criminal Investigation Against Federal Reserve Governor Following Trump Removal Attempt",
-    "importance": 9,
-    "tags": [
-      "weaponization-of-justice",
-      "selective-prosecution",
-      "federal-reserve-independence",
-      "political-retaliation"
-    ],
-    "sources": [
-      {
-        "url": "https://www.theguardian.com/us-news/2025/sep/04/doj-investigation-lisa-cook-fed-governor",
-        "title": "DOJ Launches Criminal Probe Against Fed Governor Lisa Cook",
-        "date": "2025-09-04",
-        "tier": 1,
-        "outlet": "The Guardian"
-      },
-      {
-        "url": "https://www.propublica.org/article/trump-mortgage-fraud-political-enemies-cabinet-members",
-        "title": "Selective 'Mortgage Fraud' Prosecution",
-        "date": "2025-09-04",
-        "tier": 1,
-        "outlet": "ProPublica"
-      }
-    ],
-    "actors": [
-      "Lisa Cook",
-      "Department of Justice",
-      "Donald Trump",
-      "Bill Pulte",
-      "Federal Reserve"
-    ],
-    "summary": "The Department of Justice opened a criminal investigation into Federal Reserve Governor Lisa Cook over alleged mortgage fraud, stemming from accusations that she listed two properties as primary residences on mortgage applications. The investigation follows Trump's failed attempt to fire Cook from the Fed Board and comes after FHFA Director Bill Pulte publicly accused Cook of fraud. Legal experts note that dual-residence mortgage claims are common and rarely prosecuted criminally, raising suspicions that the investigation is politically motivated retaliation for Cook's resistance to Trump's removal attempts. This represents weaponization of federal law enforcement to target independent agency officials who resist presidential interference, part of a broader pattern of selective prosecution against Trump's perceived political enemies while similar conduct by Trump Cabinet members (Lori Chavez-DeRemer, Sean Duffy, Lee Zeldin) goes unprosecuted.",
-    "_file": "2025-09-04--doj-launches-criminal-investigation-against-fed-governor-lisa-cook.md",
-    "_id_hash": "84db1267da3d98836836fa209de22637a9cffd5e4def93ef21eb446c3b399869"
   },
   {
     "id": "2025-09-04--fed-nominee-stephen-miran-plans-to-keep-white-house-economic-role",
@@ -207895,36 +205433,6 @@
     "_id_hash": "c94699f985cc9f5e9ab6aae0facd2ac3d1ca90fc529af03256e1d17bd690116d"
   },
   {
-    "id": "2025-10-17--santos-sentence-commutation",
-    "date": "2025-10-17",
-    "title": "Trump Commutes George Santos Prison Sentence for Fraud and Identity Theft",
-    "importance": 7,
-    "tags": [
-      "corruption",
-      "patronage",
-      "abuse-of-power",
-      "fraud"
-    ],
-    "actors": [
-      "Donald Trump",
-      "George Santos",
-      "Marjorie Taylor Greene"
-    ],
-    "sources": [
-      {
-        "url": "https://www.cnn.com/2025/10/17/politics/george-santos-trump-commutation",
-        "title": "Trump commutes sentence of convicted fraudster George Santos",
-        "date": "2025-10-17",
-        "tier": 1,
-        "outlet": "CNN"
-      }
-    ],
-    "status": "confirmed",
-    "summary": "President Trump commuted the seven-year prison sentence of former GOP Rep. George Santos after he served only three months, despite Santos pleading guilty to wire fraud and identity theft in a donor scam. The commutation followed lobbying from Trump allies including Rep. Marjorie Taylor Greene. Santos had defrauded donors, stolen credit card information, and lied about his background throughout his congressional campaign and tenure. The action demonstrates Trump's use of clemency power to reward political loyalists regardless of criminal conviction, undermining accountability for corruption within his political coalition. The pardon came as Trump systematically used executive clemency to shield allies and supporters from consequences of financial crimes.",
-    "_file": "2025-10-17--santos-sentence-commutation.md",
-    "_id_hash": "0edeee174fed1497da117860256b0db0f8feaff39cc65d09fd4b893d711cfb21"
-  },
-  {
     "id": "2025-10-17--trump-commutes-george-santos-sentence",
     "date": "2025-10-17",
     "title": "Trump Commutes George Santos Prison Sentence After 3 Months",
@@ -213353,74 +210861,6 @@
     "summary": "On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her \"Marjorie Traitor Greene.\"\n\nIn a four-page resignation statement, Greene defended her position: \"Standing up for American women who were raped at 14, trafficked and used by rich powerful men, should not result in me being called a traitor and threatened by the President of the United States of America, whom I fought for.\"\n\nGreene stated she did not want her northwest Georgia district to \"endure a hurtful and hateful primary against me by the President we all fought for,\" acknowledging that Trump had threatened to support a primary challenger against her.\n\n## The Epstein Files Controversy\n\nThe break between Trump and Greene centered on the Jeffrey Epstein investigation files. Greene had been publicly pressing Trump and top Republicans in Congress for months to release all files from two federal investigations into Epstein and his sex trafficking network.\n\nGreene partnered with Democratic Rep. Ro Khanna to sponsor a discharge petition—a rare procedural move that forces a House vote without leadership approval—to compel the Department of Justice to release complete Epstein investigation files. Greene was part of a small group of Republicans who helped force the vote on the House floor.\n\nTrump had campaigned on releasing the Epstein files but subsequently delayed their release after taking office. This reversal served as what Greene called \"the proverbial straw that broke the camel's back\" in their relationship.\n\n## Trump's \"Traitor\" Attack\n\nOne week before Greene's resignation announcement, Trump launched a public attack against her, calling her \"Marjorie Traitor Greene\" and claiming she had \"gone Far Left.\" In comments to reporters, Trump said: \"Something happened to her over the last period of a month or two where she changed politically.\"\n\nTrump also called Greene \"a ranting Lunatic\" and threatened to support a primary challenger in her heavily Republican district in northwest Georgia.\n\nAfter Greene's resignation announcement, Trump told reporters in a phone interview that her departure is \"great news for the country.\" He claimed he had no advance notice of her decision and expressed no interest in reconciliation. On Truth Social, Trump stated Greene quit \"because of PLUMMETING Poll Numbers\" to avoid losing a primary against a Trump-endorsed challenger.\n\n## Greene's Defense of Abuse Survivors\n\nIn her resignation video and written statement, Greene emphasized her advocacy for sexual assault survivors as the reason for her stance on the Epstein files. She argued that defending victimized women should not be grounds for presidential condemnation or being labeled a traitor.\n\nGreene had referenced specific victims—\"American women who were raped at 14, trafficked and used by rich powerful men\"—suggesting her motivation stemmed from documented accounts of Epstein's youngest victims and the powerful figures allegedly involved in the trafficking network.\n\nHer statement highlighted the tension between political loyalty to Trump and moral obligation to sex trafficking survivors seeking accountability and transparency.\n\n## Political Context: From Loyal Ally to \"Traitor\"\n\nMarjorie Taylor Greene had been one of Trump's most loyal and vocal supporters in Congress. She defended him through both impeachment proceedings, championed his false claims about the 2020 election, and became one of the most prominent MAGA movement figures in the House.\n\nGreene's break with Trump over the Epstein files represents a rare instance where a core Trump ally prioritized a policy position—specifically transparency about sex trafficking by powerful figures—over personal loyalty to the president.\n\nThe discharge petition Greene signed represented a bipartisan effort that crossed traditional partisan lines, as she partnered with Democratic Rep. Ro Khanna. This type of cross-party cooperation on government transparency has become increasingly rare in the polarized political environment.\n\nTrump's characterization of support for Epstein file transparency as \"going Far Left\" and grounds for being labeled a \"traitor\" reveals his view that personal loyalty supersedes all other considerations, including transparency about sexual abuse of minors by powerful figures.\n\n## Congressional Impact\n\nGreene's departure reduces House Speaker Mike Johnson's Republican majority from 219-213 to an even slimmer margin. While Republicans will lose a seat, the heavily Republican nature of Greene's northwest Georgia district makes it likely her replacement will also be a Republican.\n\nGeorgia Governor Brian Kemp will need to call a special election in 2026 for Greene's seat. Her resignation effective January 5, 2026, means she will serve through the end of the current Congress.\n\nGreene referenced concerns about Republicans losing the 2026 midterm elections in her statement, suggesting she did not want to be a distraction that could hurt the party's chances while also expressing unwillingness to endure a Trump-backed primary challenge.\n\n## Implications for Epstein Transparency\n\nGreene's forced resignation after supporting the Epstein files discharge petition sends a clear message to other members of Congress about the political risks of crossing Trump on this issue. Despite bipartisan public interest in full transparency about Epstein's trafficking network and the powerful figures involved, Trump's retaliation against Greene may discourage other Republicans from supporting similar efforts.\n\nThe incident highlights tension between public demands for accountability regarding elite sex trafficking networks and political pressures to maintain loyalty to Trump regardless of the policy issue at stake.\n\nGreene's explicit framing—that supporting rape victims should not result in being called a traitor—underscores the moral dimension of the conflict: whether elected officials can advocate for abuse survivors and government transparency when doing so conflicts with a president's personal or political interests.\n\n## Pattern of Retaliation\n\nTrump's attack on Greene follows a pattern of retaliating against officials who defy him, even when those officials have been loyal supporters. The speed and severity of Trump's response—withdrawing endorsement, threatening a primary challenge, and using the \"traitor\" label—demonstrates his approach to political loyalty as absolute rather than contingent.\n\nThe public nature of Trump's attack, combined with his characterization of her resignation as \"great news for the country,\" suggests a deliberate strategy of making an example of Greene to discourage other potential defections on issues Trump considers personal threats.\n\nGreene's reference to not wanting her district to endure a \"hurtful and hateful primary\" led by Trump acknowledges the political reality that Trump's endorsement power within the Republican Party remains strong enough to end political careers, even for previously loyal MAGA figures.",
     "_file": "2025-11-21--marjorie-taylor-greene-resignation-trump-epstein-retaliation.md",
     "_id_hash": "6ed14d04457224df154c362b3da458e171c31cb5d5b3b311dcccd96970d58398"
-  },
-  {
-    "id": "2025-11-21--mtg-announces-early-retirement",
-    "date": "2025-11-21",
-    "title": "Marjorie Taylor Greene Announces Resignation from Congress After Trump Feud Over Epstein Files",
-    "summary": "Rep. Marjorie Taylor Greene announced on Friday, November 21, 2025, that she would resign from Congress effective January 5, 2026, following a bitter public falling out with President Donald Trump over her advocacy for releasing full Jeffrey Epstein investigation files. The announcement came one week after Trump withdrew his endorsement of Greene and publicly attacked her on Truth Social, calling her \"Marjorie 'Traitor' Greene,\" \"a ranting Lunatic,\" and questioning her loyalty to his agenda. Greene's resignation ends five turbulent years in Congress marked by controversies, conspiracy theories, and increasingly confrontational relationships with party leadership.\n\nIn her announcement, delivered via an 11-minute video statement, Greene cited being \"cast aside\" by Trump and facing his threatened primary challenge as the \"proverbial straw that broke the camel's back.\" She stated: \"I have too much self respect and dignity, love my family way too much, and do not want my sweet district to have to endure a hurtful and hateful primary against me by the President we all fought for.\" The statement reflected deep personal pain at being rejected by a political figure she had defended throughout his first term and various legal challenges.\n\nGreene's break with Trump centered primarily on her advocacy for releasing unredacted Epstein investigation files, including flight logs, client lists, and investigative materials related to the deceased financier and sex trafficker. She had joined a bipartisan discharge petition to force release of the files, which Trump's administration had delayed and heavily redacted. Greene framed her position as defending women and girls who were trafficked and abused, stating: \"Standing up for American women who were raped at 14, trafficked and used by rich powerful men, should not result in me being called a traitor and threatened by the President of the United States, whom I fought for.\"\n\nThe feud escalated rapidly in mid-November 2025 when Greene publicly criticized Trump's handling of Epstein file releases and questioned whether he remained committed to \"America First\" principles. Trump responded with characteristic vehemence on Truth Social, initially calling her \"Wacky Marjorie\" before escalating to accusations of treason and disloyalty. He announced he would support a Republican primary challenger against her in 2026, effectively ending her political viability within the MAGA movement she had championed.\n\nTrump's withdrawal of endorsement represented a stunning reversal for Greene, who had been among his most vocal defenders during his first impeachment, second impeachment, and subsequent criminal prosecutions. She had attended his arraignments, defended him on cable news, and used her position on House committees to investigate what she characterized as political persecution of Trump and his supporters. Her transformation from Trump's fiercest loyalist to persona non grata highlighted the authoritarian nature of Trump's political movement, where deviation on any issue could trigger total excommunication.\n\nGreene also cited disagreements with Trump over Gaza policy and Obamacare subsidies as contributing factors to their falling out. She had expressed concerns about U.S. support for Israel's military operations in Gaza, putting her at odds with Trump's unconditional backing of Israeli Prime Minister Benjamin Netanyahu. Additionally, some sources suggested she had sympathies for extending ACA subsidies, conflicting with hardline conservative opposition, though she never signed the discharge petition on that issue.\n\nIn her video statement, Greene used the metaphor of domestic abuse to describe her relationship with Trump and the Republican Party: \"I refuse to be a 'battered wife,' hoping it all goes away and gets better.\" The language reflected her view that she had endured repeated attacks and betrayals from party leadership while remaining loyal, only to be abandoned when she took a principled stand on protecting abuse victims and government transparency.\n\nGreene condemned what she characterized as the Republican Party's abandonment of \"Make America Great Again\" principles and its transformation into part of the \"political industrial complex\" that perpetuates divisiveness for profit. She suggested that both parties had become more interested in fundraising and partisan warfare than actually governing or serving constituents. Her critique echoed populist themes but also reflected personal bitterness at her political isolation.\n\nThe timing of Greene's resignation announcement—setting her departure date as January 5, 2026—sparked immediate speculation about pension timing. Under the Federal Employees Retirement System (FERS), members of Congress become eligible for pensions after five years of service. Greene was first sworn in on January 3, 2021, meaning January 5, 2026 would give her just over five years of service, qualifying her for a taxpayer-funded congressional pension.\n\nCritics, including government watchdog groups and political opponents, characterized the timing as calculated to maximize personal financial benefit while portraying herself as a principled martyr. Greene's congressional salary of $174,000 annually, combined with five years of service, would entitle her to a pension beginning at age 62 (she was 51 at the time of announcement). The pension amount would be calculated based on her years of service and average highest three years of salary.\n\nWhen asked about Greene's resignation announcement, Trump told ABC News it was \"great news for the country,\" adding he had no plans to speak with her. The dismissive response underscored how completely Greene had fallen from favor within Trump's inner circle. Other Trump allies and prominent Republicans largely remained silent on her resignation, suggesting either satisfaction at her departure or fear of angering Trump by defending her.\n\nGeorgia Governor Brian Kemp will be required to call a special election in 2026 to fill Greene's seat representing Georgia's heavily Republican 14th Congressional District. The district, which Trump won by 29 points in 2024, is virtually certain to remain in Republican hands. However, Greene's departure creates an opening for a more establishment-aligned Republican to potentially win the seat, as Trump would likely endorse a loyalist to replace her.\n\nGreene's resignation significantly weakens the already narrow House Republican majority. At the time of her announcement, Republicans held 219 seats to Democrats' 213 (with three vacancies). Her departure on January 5 would reduce the Republican majority to 218-213, leaving Speaker Mike Johnson with virtually no margin for error on partisan votes. The timing coincides with the opening of the new congressional session, potentially complicating Johnson's re-election as speaker.\n\nThe announcement caps a congressional career defined by controversy, confrontation, and conspiracy theories. Greene had promoted QAnon theories before her election, suggested Jewish space lasers caused California wildfires, harassed school shooting survivors, and been stripped of her committee assignments by Democrats in 2021. Republicans restored her to committees after taking the majority in 2023, including giving her a seat on the Homeland Security Committee.\n\nDespite her controversies, Greene had been effective at fundraising and building a national political brand among the most hardcore Trump supporters. Her resignation suggests limits to that brand's sustainability without Trump's active support. Some political analysts speculated she might pursue a 2028 presidential run, positioning herself as a MAGA candidate willing to stand up to Trump on issues of principle, though such a campaign would face enormous obstacles without Trump movement infrastructure.\n\nGreene's confrontational style and willingness to use procedural tactics like motions to vacate had made her a constant thorn in leadership's side. She filed a motion to vacate against Speaker Mike Johnson in March 2024 and forced a vote in May 2024, which failed 359-43. Her departure removes a source of persistent instability from the Republican caucus, though it also eliminates one of the chamber's most outspoken hardline conservatives.\n\nHouse Minority Leader Hakeem Jeffries and Democratic leaders largely refrained from commenting on Greene's resignation, though some progressive Democrats expressed satisfaction at her departure. Rep. Alexandria Ocasio-Cortez posted on social media: \"Bye,\" capturing the left's view that Greene's exit improved the overall quality of congressional discourse.\n\nThe resignation joins a broader wave of congressional departures for the 2026 cycle. Greene became the 41st House member and 11th senator announced as not seeking reelection, though most others simply chose not to run again rather than resigning mid-term. Her mid-term resignation creates additional complications for Republicans by triggering a special election while the party defends a narrow majority.\n\nGreene's future plans beyond Congress remained uncertain at the time of her announcement. Some speculated she might pursue right-wing media opportunities, launch a political action committee, or attempt a political comeback in a different capacity. Her high name recognition and proven fundraising ability suggested she would remain a presence in conservative politics, even without an official government position.\n\nThe falling out between Trump and Greene illustrates the internal contradictions and personal loyalty demands of MAGA politics, where ideological consistency matters less than absolute fealty to Trump personally. Greene discovered that even years of unwavering support provided no protection once she challenged Trump on an issue he considered important. Her resignation represents both a personal tragedy for someone who sacrificed much to support Trump and a cautionary tale about the authoritarian dynamics of personality-driven political movements.\n\nThe episode also highlighted the Epstein files as a uniquely fraught issue that cut across traditional partisan lines and exposed Trump to criticism from unexpected quarters. Greene's willingness to prioritize protecting alleged abuse victims over maintaining Trump's favor suggested that even the most committed MAGA adherents had lines they wouldn't cross, even at the cost of their political careers.\n",
-    "importance": 8,
-    "actors": [
-      "Marjorie Taylor Greene",
-      "Donald Trump",
-      "Brian Kemp",
-      "Mike Johnson",
-      "House Republicans"
-    ],
-    "tags": [
-      "congress",
-      "retirement",
-      "republican-party",
-      "trump-administration",
-      "epstein-files",
-      "intra-party-conflict"
-    ],
-    "sources": [
-      {
-        "url": "https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump",
-        "title": "After break with Trump, Marjorie Taylor Greene will resign",
-        "date": "2025-11-21",
-        "tier": 1,
-        "outlet": "NPR"
-      },
-      {
-        "url": "https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278",
-        "title": "Rep. Marjorie Taylor Greene to resign in January",
-        "date": "2025-11-21",
-        "tier": 1,
-        "outlet": "NBC News"
-      },
-      {
-        "url": "https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912",
-        "title": "Rep. Marjorie Taylor Greene says she will resign from Congress in January",
-        "date": "2025-11-21",
-        "tier": 1,
-        "outlet": "ABC News"
-      },
-      {
-        "url": "https://www.foxnews.com/politics/marjorie-taylor-greene-announces-resignation-from-congress-after-president-trump-withdraws-endorsement",
-        "title": "Marjorie Taylor Greene announces resignation from Congress after President Trump withdraws endorsement",
-        "date": "2025-11-21",
-        "tier": 2,
-        "outlet": "Fox News"
-      },
-      {
-        "url": "https://www.govexec.com/pay-benefits/2025/11/marjorie-taylor-greene-retirement-launches-speculation-about-congressional-pensions/409762/",
-        "title": "Marjorie Taylor Greene retirement launches speculation about congressional pensions",
-        "date": "2025-11-25",
-        "tier": 2,
-        "outlet": "Government Executive"
-      },
-      {
-        "url": "https://www.newsnationnow.com/politics/marjorie-taylor-greene-resignation-pension/",
-        "title": "Marjorie Taylor Greene resignation timing ensures taxpayer-funded congressional pension",
-        "date": "2025-11-22",
-        "tier": 2,
-        "outlet": "NewsNation"
-      }
-    ],
-    "_file": "2025-11-21--mtg-announces-early-retirement.md",
-    "_id_hash": "55c390b8f0e277a244fe0b2bb770ee4fe5daa48a4c7b9e55566c02cd0b65fe12"
   },
   {
     "id": "2025-11-24--judge-dismisses-james-comey-cases-halligan-unlawful-appointment",

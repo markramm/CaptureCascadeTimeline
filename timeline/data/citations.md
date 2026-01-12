@@ -4844,13 +4844,6 @@
 4. [The Lewis Powell Memo: Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/the-lewis-powell-memo-corporate-blueprint-to-dominate-democracy/)
 5. [Notes to the Chamber of Commerce on America's 'Anti-Business' Climate](https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html)
 
-## Lewis Powell Issues Memorandum Outlining Corporate Institutional Capture Strategy
-*Date: 1971-08-23*
-
-1. [Powell Memo Archives at Washington and Lee University](https://scholarlycommons.law.wlu.edu/powellmemo/)
-2. [The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
-3. [Powell Memo's Impact on American Political Landscape](https://www.thenation.com/article/society/powell-memo-project-2025-plutocracy/)
-
 ## Lewis Powell Writes Landmark Memo Blueprinting Corporate Institutional Capture Strategy
 *Date: 1971-08-23*
 
@@ -4866,16 +4859,6 @@
 1. [The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
 2. [Lewis Powell memo: notes to the Chamber of Commerce on Americas anti-business climate](https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html)
 3. [Lewis Powell Memorandum 1971 OCR](https://archive.org/details/powell-memorandum-1971-ocr)
-
-## Lewis Powell Authors Strategic Memorandum for Corporate Institutional Capture
-*Date: 1971-08-23*
-
-1. [Powell Memorandum: Original Archive Document](https://scholarlycommons.law.wlu.edu/powellmemo/)
-2. [The Scheme 1: The Powell Memo](https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/)
-3. [Powell Memo: Higher Education Impact Analysis](https://www.insidehighered.com/opinion/views/2023/05/09/launch-long-game)
-4. [5 Advocates and Crusaders Who Helped Define Corporate Rights](https://www.pbs.org/newshour/arts/5-advocates-and-crusaders-who-helped-define-corporate-rights)
-5. [Think Tanks and Supreme Court Connections](https://projects.propublica.org/supreme-connections/organizations/category/think-tank/)
-6. [Powell Memorandum: Original Archival Source Full Text](https://scholarlycommons.law.wlu.edu/powellmemo/1/)
 
 ## Powell Memorandum Establishes Blueprint for Conservative Think Tank Strategy
 *Date: 1971-08-23*
@@ -5012,13 +4995,6 @@
 
 1. [The Powell Memo: A Call-to-Arms for Corporations](https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/)
 2. [1970s: A corporate blueprint to dominate democracy](https://interactive.aljazeera.com/aje/2017/the-people-vs-america/1970s.html)
-
-## Business Roundtable Established as Corporate Policy Coordination Body
-*Date: 1972-12-01*
-
-1. [Business Roundtable: How America's Top CEOs United to Shape Policy](https://www.reuters.com/business/business-roundtable-corporate-lobbying-history/)
-2. [The Origins of Corporate Advocacy: Business Roundtable's Founding](https://www.wsj.com/articles/business-roundtable-corporate-lobbying-origins)
-3. [Business Roundtable Organizational History](https://www.c-span.org/organization/business-roundtable/15075/)
 
 ## Business Roundtable Established as CEO Coordination Body for Corporate Political Power
 *Date: 1972-12-01*
@@ -5165,14 +5141,6 @@
 2. [Here's Who Funds the Right-Wing American Legislative Exchange Council](https://www.exposedbycmd.org/2021/09/22/heres-who-funds-the-right-wing-american-legislative-exchange-council/)
 3. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
 4. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
-
-## American Legislative Exchange Council (ALEC) Established
-*Date: 1973-09-01*
-
-1. [After 50 Years, This Right-Wing Law Factory Is Crazier Than Ever](https://prospect.org/power/2023-10-04-alec-50-years-right-wing-law-factory/)
-2. [American Legislative Exchange Council (ALEC)](https://www.influencewatch.org/non-profit/american-legislative-exchange-council/)
-3. [ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/)
-4. [Tribute to Paul Weyrich: Founding of ALEC](https://www.govinfo.gov/content/pkg/CRECB-2008-pt17/html/CRECB-2008-pt17-Pg23449-2.htm)
 
 ## Bunker Hill Smelter Fire Leads to Worst Corporate Lead Poisoning in U.S. History
 *Date: 1973-09-03*
@@ -5708,13 +5676,6 @@
 2. [First National Bank of Boston v. Bellotti (1978)](https://firstamendment.mtsu.edu/article/first-national-bank-of-boston-v-bellotti/)
 3. [First National Bank of Boston v. Bellotti](https://www.oyez.org/cases/1977/76-1172)
 
-## Powell Authors Bellotti Decision Granting Corporations First Amendment Political Rights
-*Date: 1978-04-26*
-
-1. [The Scheme 2: Powell on the Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/)
-2. [Official Supreme Court Opinion, First National Bank of Boston v. Bellotti](https://www.loc.gov/item/usrep435765/)
-3. [Beyond Bellotti: Corporate Political Rights and Democratic Legitimacy](https://scholarlycommons.law.wlu.edu/casefiles/111/)
-
 ## Proposition 13 Passes in California - Tax Limitation Movement Template
 *Date: 1978-06-06*
 
@@ -5949,13 +5910,6 @@
 1. [Central Hudson Gas & Electric Corp. v. Public Service Commission of New York, 447 U.S. 557 (1980)](https://supreme.justia.com/cases/federal/us/447/557/)
 2. [Central Hudson Gas and Electric Corp. v. Public Service Commission (1980)](https://firstamendment.mtsu.edu/article/central-hudson-gas-and-electric-corp-v-public-service-commission/)
 3. [Central Hudson Gas & Electric Corporation v. Public Service Commission](https://www.oyez.org/cases/1979/79-565)
-
-## Powell Authors Central Hudson Test Expanding Corporate Commercial Speech Protection
-*Date: 1980-06-20*
-
-1. [Central Hudson Gas & Elec. v. Public Svc. Comm'n](https://supreme.justia.com/cases/federal/us/447/557/)
-2. [Central Hudson Gas & Electric Corp. v. Public Service Commission](https://www.oyez.org/cases/1979/79-565)
-3. [Central Hudson Test](https://firstamendment.mtsu.edu/article/central-hudson-test/)
 
 ## Schlafly and Falwell Joint Rally Demonstrates Religious Right Coalition Unity
 *Date: 1980-06-30*
@@ -7665,14 +7619,6 @@
 3. [Clinton regrets using term 'superpredator' in 1996 crime speech](https://thehill.com/blogs/blog-briefing-room/news/270811-clinton-i-shouldnt-have-used-the-superpredator-remark/)
 4. [Hillary Clinton on "superpredators" remark - I shouldn't have used those words](https://www.cbsnews.com/news/hillary-clinton-on-superpredators-remark-i-shouldnt-have-used-those-words/)
 
-## Telecommunications Act of 1996 Enables Media Consolidation Through Corporate Capture
-*Date: 1996-02-08*
-
-1. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
-2. [Democracy in Peril: Twenty Years of Media Consolidation Under the Telecommunications Act](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
-3. [Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill](https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest)
-4. [The Net @ Risk: Big, Bigger, Biggest Media](http://www.pbs.org/moyers/citizensclass/the_net_risk/big_bigger_biggest_media/)
-
 ## Telecommunications Act of 1996 Eliminates Radio Ownership Caps and Raises TV Limits, Triggering Massive Media Consolidation
 *Date: 1996-02-08*
 
@@ -7879,13 +7825,6 @@
 2. [Asian Financial Crisis: Origins and Global Impact](https://www.federalreservehistory.org/essays/asian-financial-crisis)
 3. [Lessons from the Asian Financial Crisis](https://www.imf.org/external/pubs/ft/fandd/1999/09/lane.htm)
 
-## Thai Baht Collapse Triggers Systemic Southeast Asian Economic Crisis
-*Date: 1997-07-02*
-
-1. [The Asian Crisis: Causes and Cures](https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm)
-2. [Asian Financial Crisis Overview](https://www.federalreservehistory.org/essays/asian-financial-crisis)
-3. [Lessons Learned from the Tom Yum Kung Crisis](https://www.bot.or.th/en/our-roles/special-measures/Tom-Yum-Kung-lesson.html)
-
 ## IMF Begins Structural Adjustment in Asian Financial Crisis
 *Date: 1997-07-02*
 
@@ -8048,13 +7987,6 @@
 3. [congress.gov](https://www.congress.gov/event/116th-congress/house-event/LC64569/text?s=1&r=4)
 4. [sourcewatch.org](https://www.sourcewatch.org/index.php/Global_Climate_Science_Communications_Plan_(1998))
 5. [govinfo.gov](https://www.govinfo.gov/content/pkg/CHRG-116hhrg38304/html/CHRG-116hhrg38304.htm)
-
-## American Petroleum Institute "Victory" Memo Exposes Climate Disinformation Strategy
-*Date: 1998-04-03*
-
-1. [1998 American Petroleum Institute Global Climate Science Communications Team Action Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/)
-2. [Industrial Group Plans to Battle Climate Treaty](https://www.nytimes.com/1998/04/26/us/industrial-group-plans-to-battle-climate-treaty.html)
-3. [The Climate Deception Dossiers: Internal Fossil Fuel Industry Memos](https://www.ucs.org/sites/default/files/attach/2015/07/The-Climate-Deception-Dossiers.pdf)
 
 ## Citicorp-Travelers $70 Billion Merger Directly Violates Glass-Steagall Act
 *Date: 1998-04-06*
@@ -8800,13 +8732,6 @@
 2. [A Trail of Evidence Leading to AT&T's Partnership with the NSA](https://www.propublica.org/article/a-trail-of-evidence-leading-to-atts-partnership-with-the-nsa)
 3. [NSA Spying and Telecommunications Infrastructure](https://www.eff.org/nsa-spying)
 
-## Bush Authorizes NSA STELLARWIND Warrantless Surveillance Program
-*Date: 2001-10-04*
-
-1. [NSA Inspector General Report on President's Surveillance Program](https://www.aclu.org/files/natsec/nsa/20130816/NSA%20IG%20Report.pdf)
-2. [President's Surveillance Program worked with private sector to collect data after Sept. 11, 2001](https://www.washingtonpost.com/investigations/presidents-surveillance-program-worked-with-private-sector-to-collect-data-after-sept-11-2001/2013/06/27/2c7a7e74-df57-11e2-b2d4-ea6d8f477a01_story.html)
-3. [Edward Snowden and the STELLARWIND report](https://www.electrospaces.net/2020/03/edward-snowden-and-stellarwind-report.html)
-
 ## Bush Authorizes NSA Warrantless Surveillance Program
 *Date: 2001-10-04*
 
@@ -8872,14 +8797,6 @@
 1. [1998–2002 Argentine great depression](https://en.wikipedia.org/wiki/1998–2002_Argentine_great_depression)
 2. [Argentina 20 Years After La Crisis del 2001](https://nacla.org/argentina-20-years-after-la-crisis-del-2001/)
 3. [Argentina Since Default: The IMF and the Depression](https://cepr.net/documents/publications/argentina_2002_09_03.htm)
-
-## Enron Files for Bankruptcy After Energy Task Force Influence
-*Date: 2001-12-02*
-
-1. [The Enron Scandal (2001)](https://internationalbanker.com/history-of-financial-crises/the-enron-scandal-2001/)
-2. [Enron Scandal: Summary and Key Facts](https://www.britannica.com/event/Enron-scandal)
-3. [Top 10 Crooked CEOs: Kenneth Lay & Jeffrey Skilling](https://content.time.com/time/specials/packages/article/0,28804,1903155_1903156_1903186,00.html)
-4. [Congress and the Enron Scandal](https://levin-center.org/what-is-oversight/portraits/congress-and-the-enron-scandal/)
 
 ## Enron Bankruptcy After Energy Task Force Meetings
 *Date: 2001-12-02*
@@ -9195,20 +9112,6 @@
 2. [Context: WHIG Decides to Adopt 'Smoking Gun' and 'Mushroom Cloud' Phrases](http://www.historycommons.org/context.jsp?item=GersonMushroomCloud)
 3. [Condoleezza Rice Interview Transcript](https://transcripts.cnn.com/show/le/date/2002-09-08/segment/00)
 
-## WHIG Develops "Smoking Gun/Mushroom Cloud" Systematic Fear Campaign
-*Date: 2002-09-05*
-
-1. [White House Iraq Group](https://en.wikipedia.org/wiki/White_House_Iraq_Group)
-2. [White House Iraq Group: Origins and Tactics](https://sourcewatch.org/index.php/White_House_Iraq_Group)
-3. [Karl Rove's Iraq War Role](https://www.newsweek.com/karl-roves-iraq-war-role-98969)
-
-## Andrew Card Reveals Marketing-Based Approach to Democratic Crisis Exploitation
-*Date: 2002-09-06*
-
-1. [Card: 'From a marketing point of view, you don't introduce new products in August'](https://www.democracynow.org/2002/9/9/headlines/card_from_a_marketing_point_of_view_you_dont_introduce_new_products_in_august)
-2. [Marketing Iraq: Why now?](http://edition.cnn.com/2002/ALLPOLITICS/09/12/schneider.iraq/index.html)
-3. [Big Guns of August: New PR Offensive for Iraq War](https://www.arabnews.com/node/301397)
-
 ## Andrew Card Reveals Marketing-Based Approach to Iraq War Campaign
 *Date: 2002-09-06*
 
@@ -9235,13 +9138,6 @@
 7. [Reframing the Iraq War: Official Sources, Dramatic Events, and Changes in Media Framing](https://academic.oup.com/joc/article-abstract/67/2/282/4082404)
 8. [Records Could Shed Light on Iraq Group](https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html)
 9. [As We Leave Iraq, Remember How We Got In](https://www.americanprogress.org/article/think-again-as-we-leave-iraq-remember-how-we-got-in/)
-
-## WHIG Coordinates Synchronized Sunday Show Booking Blitz
-*Date: 2002-09-07*
-
-1. [White House Iraq Group](https://sourcewatch.org/index.php/White_House_Iraq_Group)
-2. [The Broader Conspiracy: What We Already Know About the White House Iraq Group](https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/)
-3. [Why War? - In Their Own Words - Who Said What When](https://www.pbs.org/wgbh/pages/frontline/shows/truth/why/said.html)
 
 ## WHIG Executes Coordinated Media Blitz Demonstrating Crisis Template
 *Date: 2002-09-07*
@@ -9557,13 +9453,6 @@
 1. [I Tried to Warn You About Jeffrey Epstein in 2003](https://www.thedailybeast.com/i-tried-to-warn-you-about-jeffrey-epstein-in-2003)
 2. [Jeffrey Epstein's Sick Story Played Out for Years in Plain Sight](https://www.thedailybeast.com/jeffrey-epsteins-sick-story-played-out-for-years-in-plain-sight)
 3. [The Mystery of Jeffrey Epstein's Fortune (censored version)](https://www.vanityfair.com/news/2003/03/jeffrey-epstein-200303)
-
-## Halliburton Awarded $7 Billion No-Bid Iraq Contract
-*Date: 2003-03-08*
-
-1. [Documents Reveal Concern Regarding Halliburton Contracts](https://publicintegrity.org/national-security/documents-reveal-concern-regarding-halliburton-contracts/)
-2. [Oversight Hearings: Waste, Fraud, and Corruption in Iraq Contracting](https://www.dpc.senate.gov/dpcdoc.cfm?doc_name=sr-110-2-140)
-3. [Army Agrees to New Investigation of $7 Billion Halliburton Contract](https://corpwatch.org/article/iraq-army-agrees-new-investigation-7-billion-halliburton-contract)
 
 ## Halliburton Gets 9.5B Iraq Contracts with Cheney Ties
 *Date: 2003-03-08*
@@ -10392,13 +10281,6 @@
 2. [Enron's Skilling Sentenced to 24 Years for Fraud](https://www.npr.org/2006/10/23/6369937/enrons-skilling-sentenced-to-24-years-for-fraud)
 3. [Jeffrey Skilling](https://en.wikipedia.org/wiki/Jeffrey_Skilling)
 
-## Bush Administration Fires Seven U.S. Attorneys in Coordinated Purge
-*Date: 2006-12-07*
-
-1. [2006 dismissal of U.S. attorneys](https://en.wikipedia.org/wiki/2006_dismissal_of_U.S._attorneys)
-2. [An Investigation into the Removal of Nine U.S. Attorneys in 2006](https://oig.justice.gov/sites/default/files/archive/special/s0809a/chapter13.htm)
-3. [Timeline: Behind the Firing of Eight U.S. Attorneys](https://www.npr.org/2007/04/15/8901997/timeline-behind-the-firing-of-eight-u-s-attorneys)
-
 ## Bush Administration Fires 9 U.S. Attorneys for Political Reasons
 *Date: 2006-12-07*
 
@@ -11225,22 +11107,6 @@
 4. [Fifteen Years Later, Citizens United Defined the 2024 Election](https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election)
 5. [Citizens United v. Federal Election Commission](https://www.oyez.org/cases/2008/08-205)
 
-## Citizens United v. FEC Supreme Court Decision Unleashes Unlimited Corporate Political Spending
-*Date: 2010-01-21*
-
-1. [supreme.justia.com](https://supreme.justia.com/cases/federal/us/558/310/)
-2. [brennancenter.org](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained)
-3. [fec.gov](https://www.fec.gov/legal-resources/court-cases/citizens-united-v-fec/)
-4. [law.cornell.edu](https://www.law.cornell.edu/wex/citizens_united_v._federal_election_commission_(2010))
-
-## Supreme Court Issues Citizens United v. FEC Decision, Unleashing Corporate Money in Elections
-*Date: 2010-01-21*
-
-1. [Citizens United v. FEC](https://en.wikipedia.org/wiki/Citizens_United_v._FEC)
-2. [Citizens United Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained)
-3. [Citizens United v. Federal Election Commission (2010)](https://www.law.cornell.edu/wex/citizens_united_v._federal_election_commission_(2010))
-4. [Citizens United v. FEC | 558 U.S. 310 (2010) Official Court Document](https://supreme.justia.com/cases/federal/us/558/310/)
-
 ## Obama Criticizes Citizens United at State of Union, Alito Responds 'Not True'
 *Date: 2010-01-27*
 
@@ -11270,14 +11136,6 @@
 1. [Patient Protection and Affordable Care Act](https://www.congress.gov/bill/111th-congress/house-bill/3590)
 2. [The Influence Industry: How the ACA Was Shaped by Industry Lobbying](https://www.healthaffairs.org)
 3. [Architect of the ACA](https://sunlightfoundation.com)
-
-## SpeechNow.org v. FEC Decision Creates Super PACs Following Citizens United Logic
-*Date: 2010-03-26*
-
-1. [SpeechNow.org v. Federal Election Commission](https://www.fec.gov/legal-resources/court-cases/speechnow-org-v-fec/)
-2. [Since Citizens United, a Decade of Super PACs](https://www.brennancenter.org/our-work/analysis-opinion/citizens-united-decade-super-pacs)
-3. [Citizens United Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained)
-4. [More money, less transparency: A decade under Citizens United](https://www.opensecrets.org/news/reports/a-decade-under-citizens-united)
 
 ## SpeechNow.org v. FEC Appeals Court Decision Creates Super PACs with Unlimited Contribution Authority
 *Date: 2010-03-26*
@@ -11869,13 +11727,6 @@
 2. [U.S. Global Magnitsky Sanctions](https://humanrightsfirst.org/library/u-s-global-magnitsky-sanctions/)
 3. [Magnitsky acts and the future of accountability for human rights violations](https://www.universal-rights.org/magnitsky-acts-the-future-of-accountability-for-violations-of-international-human-rights-law-an-interview-with-bill-browder/)
 
-## Facebook Acquires Instagram for  Billion to "Neutralize Potential Competitor"
-*Date: 2012-04-09*
-
-1. [ftc.gov](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc)
-2. [fortune.com](https://fortune.com/article/mark-zuckerberg-meta-antitrust-trial-ftc-federal-trade-commision-whatsapp-instagram-monopoly/)
-3. [FTC Antitrust Case Against Meta's Instagram Acquisition](https://www.npr.org/2025/04/13/nx-s1-5358434/ftc-meta-antitrust-trial)
-
 ## Facebook Acquires Instagram for  Billion to Neutralize Potential Competitor
 *Date: 2012-04-09*
 
@@ -11884,14 +11735,6 @@
 3. [techcrunch.com](https://techcrunch.com/2012/08/22/ftc-facebook-instagram/)
 4. [thehill.com](https://thehill.com/policy/technology/509635-zuckerberg-pushes-back-on-accusations-that-instagram-acquisition-was/)
 5. [npr.org](https://www.npr.org/2025/04/13/nx-s1-5358434/ftc-meta-antitrust-trial)
-
-## Facebook Acquires Instagram for $1 Billion to "Neutralize Potential Competitor"
-*Date: 2012-04-09*
-
-1. [Facebook Agrees to Buy Instagram Photo Service for $1 Billion](https://www.bloomberg.com/news/articles/2012-04-09/facebook-agrees-to-buy-instagram-photo-service-for-1-billion)
-2. [Facebook Buys Instagram for $1 Billion](https://money.cnn.com/2012/04/09/technology/facebook_acquires_instagram/index.htm)
-3. [Historic antitrust trial could force Meta to break off Instagram, WhatsApp](https://www.pbs.org/newshour/nation/historic-antitrust-trial-could-force-meta-to-break-off-instagram-whatsapp)
-4. [Facebook bought Instagram because it was scared of Twitter and Google](https://www.cnbc.com/2019/09/24/facebook-bought-instagram-because-it-was-scared-of-twitter-and-google.html)
 
 ## Major Corporate Exodus from ALEC: Coca-Cola, Pepsi, Kraft, McDonald's, Wendy's, Mars, and Intuit Drop Membership After Public Pressure Campaign
 *Date: 2012-04-13*
@@ -12212,13 +12055,6 @@
 3. [Criticism of Google - Tax avoidance](https://en.wikipedia.org/wiki/Google_tax_avoidance)
 4. [The Legacy of Carl Levin](https://prospect.org/power/legacy-carl-levin/)
 
-## Aleksandr Kogan Creates "thisisyourdigitallife" Facebook Data Harvesting App
-*Date: 2013-06-01*
-
-1. [Facebook-Cambridge Analytica Data Scandal](https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal)
-2. [Cambridge Analytica Timeline](https://www.cnbc.com/2018/04/10/facebook-cambridge-analytica-a-timeline-of-the-data-hijacking-scandal.html)
-3. [Aleksandr Kogan: The Link Between Cambridge Analytica and the Facebook Data Breach](https://www.cbsnews.com/news/aleksandr-kogan-the-link-between-cambridge-analytica-and-facebook-60-minutes/)
-
 ## Elliptic Founded as First Cryptocurrency Anti-Money Laundering Firm
 *Date: 2013-06-01*
 
@@ -12341,13 +12177,6 @@
 2. [Reflecting On the 10th Anniversary of Shelby County v. Holder](https://www.justice.gov/archives/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder)
 3. [The Effects of Shelby County v. Holder](https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder)
 4. [Shelby County v. Holder](https://www.naacpldf.org/case-issue/shelby-county-v-holder/)
-
-## Supreme Court Shelby County Decision Guts Voting Rights Act
-*Date: 2013-06-25*
-
-1. [Supreme Court Invalidates Key Part of Voting Rights Act](https://www.nytimes.com/2013/06/26/us/supreme-court-ruling.html)
-2. [Supreme Court strikes down part of Voting Rights Act](https://www.washingtonpost.com/politics/supreme-court-strikes-down-part-of-voting-rights-act/2013/06/25/8f0d91ae-dd2a-11e2-bd83-e99e43c336ed_story.html)
-3. [Shelby County v. Holder](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf)
 
 ## ALEC Coordinates 139 Education Privatization Bills Across States - Systematic Public School Defunding Campaign
 *Date: 2013-07-01*
@@ -12830,13 +12659,6 @@
 1. [Criminal charges - Ex-A.G.s Swallow, Shurtleff accepted bribes, destroyed evidence](https://www.deseret.com/2014/7/15/20468774/criminal-charges-ex-a-g-s-swallow-shurtleff-accepted-bribes-destroyed-evidence/)
 2. [Prosecutors 'stand down' and drop criminal case against Mark Shurtleff](https://www.deseret.com/2016/7/18/20592211/prosecutors-stand-down-and-drop-criminal-case-against-mark-shurtleff/)
 3. [Shurtleff, Swallow and now Reyes - Why so much Utah A.G. turmoil?](https://www.sltrib.com/news/2024/01/07/three-row-why-does-utah-have-so/)
-
-## EU and US Impose Comprehensive Sectoral Sanctions on Russia
-*Date: 2014-07-16*
-
-1. [EU Imposes Further Sanctions on Russia Following MH17](https://www.consilium.europa.eu/en/press/press-releases/2014/07/16/ukraine-eu-imposes-further-sanctions-on-russia/)
-2. [Sectoral Sanctions Identifications List (SSI) Release](https://www.treasury.gov/press-center/press-releases/Pages/jl2572.aspx)
-3. [European Union, Russia and the MH17 Case: Strategic Narratives' Analysis (2014-2019)](https://www.researchgate.net/publication/337207100_European_Union_Russia_and_the_MH17_case_strategic_narratives'_analysis_2014-2019)
 
 ## US and EU Impose Coordinated Sectoral Sanctions on Russia Following MH17 Downing
 *Date: 2014-07-16*
@@ -15982,13 +15804,6 @@
 2. [The Kushners' Troubled Tower](https://www.newyorker.com/news/news-desk/jared-kushners-business-dealings-and-the-qatar-blockade)
 3. [Qatar-linked firm bails out Kushner property](https://www.theguardian.com/us-news/2018/aug/03/qatar-linked-company-bails-out-jared-kushner-property)
 
-## Rep. Chris Collins Indicted for Insider Trading Scheme at White House Picnic
-*Date: 2018-08-08*
-
-1. [Former Congressman Christopher Collins Sentenced for Insider Trading Scheme](https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying)
-2. [SEC Press Release on Collins Insider Trading Case](https://www.sec.gov/newsroom/press-releases/2018-151)
-3. [New York Congressman Chris Collins Arrested On Insider Trading Charges](https://www.npr.org/2018/08/08/636666323/new-york-congressman-indicted-on-insider-trading-charges)
-
 ## Rep. Chris Collins Indicted for Insider Trading
 *Date: 2018-08-08*
 
@@ -16782,13 +16597,6 @@
 1. [Police body-cam maker Axon says no to facial recognition, for now](https://techcrunch.com/2019/06/27/police-body-cam-maker-axon-says-no-to-facial-recognition-for-now/)
 2. [Axon Ethics Board Pulls Plug On Facial Recognition Tech Being Added To Its Body Cameras](https://www.techdirt.com/2019/07/03/axon-ethics-board-pulls-plug-facial-recognition-tech-being-added-to-body-cameras/)
 3. [Axon AI Ethics Board](https://www.policingproject.org/axon-ethics-board)
-
-## FDA Commissioner Scott Gottlieb Joins Pfizer Board After Leaving Agency
-*Date: 2019-06-27*
-
-1. [Scott Gottlieb walks through the revolving door to the Pfizer board](https://www.statnews.com/pharmalot/2019/06/27/scott-gottlieb-pfizer-board-fda/)
-2. [Former FDA Commissioner Scott Gottlieb joins Pfizer's board of directors](https://www.cnbc.com/2019/06/27/former-fda-commissioner-scott-gottlieb-joins-pfizers-board.html)
-3. [Former FDA head Gottlieb joins Pfizer board](https://www.washingtonpost.com/health/2019/06/28/former-fda-head-gottlieb-joins-pfizer-board/)
 
 ## Former FDA Commissioner Scott Gottlieb Joins Pfizer Board After 3-Month Gap
 *Date: 2019-06-27*
@@ -18019,14 +17827,6 @@
 3. [Ginsburg's Death Throws Chaotic Presidential Election Year Into Greater Turmoil](https://www.nbcnews.com/politics/supreme-court/ginsburg-s-death-throws-chaotic-presidential-year-greater-turmoil-n1240510)
 4. [Death and State Funeral of Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Ruth_Bader_Ginsburg)
 
-## 'FinCEN Files' leak reveals banks flagged >$2T in suspicious transactions; U.S. warns SAR disclosures are unlawful
-*Date: 2020-09-20*
-
-1. [FinCEN Files — investigation overview](https://www.icij.org/investigations/fincen-files/)
-2. [Statement regarding unlawfully disclosed Suspicious Activity Reports](https://www.fincen.gov/news/news-releases/statement-fincen-regarding-unlawfully-disclosed-suspicious-activity-reports)
-3. [FinCEN Files Explainer: Data and Money Transactions Investigation](https://www.buzzfeednews.com/article/jsvine/fincen-files-explainer-data-money-transactions)
-4. [Leaked Treasury Documents: Global Banking Money Laundering Exposed](https://www.axios.com/2020/09/20/fincen-files-us-banks-money-laundering-buzzfeed)
-
 ## FinCEN Files Reveal $2 Trillion in Suspicious Banking Transactions
 *Date: 2020-09-20*
 
@@ -18755,13 +18555,6 @@
 1. [Lina M. Khan Sworn in as Chair of the FTC](https://www.ftc.gov/news-events/news/press-releases/2021/06/lina-m-khan-sworn-chair-ftc)
 2. [Lina Khan, progressive tech critic, sworn in as FTC chair](https://www.cnbc.com/2021/06/15/senate-confirms-lina-khan-to-become-ftc-commissioner.html)
 3. [Lina Khan](https://en.wikipedia.org/wiki/Lina_Khan)
-
-## FDA Commissioner Stephen Hahn Joins Flagship Pioneering, Venture Firm Behind Moderna
-*Date: 2021-06-16*
-
-1. [Dr. Stephen Hahn Joins Flagship Pioneering](https://www.flagshippioneering.com/news/press-release/dr-stephen-hahn-24th-us-fda-commissioner-and-former-chief-medical-executive-at-md-anderson-joins-flagship-pioneering-as-chief-medical-officer-of-flagships-preemptive-medicine-and-health-security-initiative)
-2. [Former FDA commissioner Hahn defends his jump to Flagship Pioneering](https://www.statnews.com/2021/06/15/steve-hahn-fda-moderna-flagship-pioneering/)
-3. [Former FDA Commissioner Stephen Hahn joins venture capital group behind Moderna](https://www.foxbusiness.com/politics/former-fda-commissioner-stephen-hahn-joins-venture-capital-group-behind-moderna)
 
 ## Chainalysis Raises $100 Million at $4.2 Billion Valuation in Series E
 *Date: 2021-06-24*
@@ -19620,12 +19413,6 @@
 2. [McKinsey consultancy under fire at 2nd Circuit from persecuted Saudi dissident](https://www.courthousenews.com/mckinsey-consultancy-under-fire-at-2nd-circuit-from-persecuted-saudi-dissident/)
 3. [Abdulaziz v. McKinsey & Co.](https://case-law.vlex.com/vid/abdulaziz-v-mckinsey-co-887643275)
 
-## Musk Begins Regular Contact with Vladimir Putin
-*Date: 2022-10-01*
-
-1. [Elon Musk's secret talks with Putin ramped up during his Twitter takeover](https://www.cnbc.com/2024/10/25/elon-musk-and-putin-talks-ramped-up-during-twitter-takeover-wsj.html)
-2. [Elon Musk and Putin have regular contact](https://www.axios.com/2024/10/25/elon-musk-putin-trump-russia-ukraine-war)
-
 ## Elon Musk begins regular contact with Vladimir Putin
 *Date: 2022-10-01*
 
@@ -20157,13 +19944,6 @@
 1. [AT&T and Carbyne Collaborate to Enhance 9-1-1 Performance with NG9-1-1 Emergency Response Solutions](https://www.prnewswire.com/news-releases/att-and-carbyne-collaborate-to-enhance-9-1-1-performance-with-ng9-1-1-emergency-response-solutions-301851099.html)
 2. [Carbyne partners with AT&T on next-generation 911 tools](https://statescoop.com/carbyne-att-next-generation-911/)
 3. [Carbyne announces resell relationship with AT&T for cloud-based 911 offerings](https://urgentcomm.com/2023/06/15/carbyne-announces-resale-relationship-with-att-for-cloud-based-911-offerings/)
-
-## ProPublica Reveals Alito's Undisclosed Alaska Trip with Billionaire Singer
-*Date: 2023-06-20*
-
-1. [Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
-2. [Alito responds in Wall Street Journal op-ed](https://www.wsj.com/articles/propublica-misleads-readers-about-justice-alito-and-recusal-all-justices-friends-political-views-supreme-court-ba9049d)
-3. [Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor](https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor)
 
 ## ProPublica Reveals Samuel Alito's Undisclosed Luxury Trip with Billionaire Paul Singer
 *Date: 2023-06-20*
@@ -20833,13 +20613,6 @@
 2. [Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety for kids](https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html)
 3. [Ireland opens probe into Musk's X over Grok's AI data practices](https://www.theregister.com/2025/04/14/ireland_investigation_into_x/)
 
-## Federal Agents Charge Two with 2 Million NFT 'Rug Pull' Money Laundering Scheme
-*Date: 2024-02-23*
-
-1. [2 Charged With NFT Money Laundering, Rug Pull of Digital Blockchains](https://www.dhs.gov/hsi/news/2024/02/23/2-charged-nft-money-laundering-rug-pull-digital-blockchains)
-2. [Two Individuals Charged With Non-Fungible Token 'Rug Pull' And Laundering Proceeds Through The Solana And Ethereum Blockchains](https://www.justice.gov/usao-mdfl/pr/two-individuals-charged-non-fungible-token-rug-pull-and-laundering-proceeds-through)
-3. [Jury Finds Cybercurrency Developer of Defrauding Investors, Laundering Proceeds Through Other Blockchains](https://www.hstoday.us/subject-matter-areas/cybersecurity/jury-finds-cybercurrency-developer-of-defrauding-investors-laundering-proceeds-through-other-blockchains/)
-
 ## Federal Agents Charge Two with $400,000 NFT 'Rug Pull' Money Laundering Scheme
 *Date: 2024-02-23*
 
@@ -21416,13 +21189,6 @@
 1. [Oracle to pay $115M in data privacy settlement](https://topclassactions.com/lawsuit-settlements/privacy/oracle-class-action-alleges-company-earns-billions-selling-internet-users-personal-information/)
 2. [Oracle/Data Broker Consumer Privacy Violations Class Action](https://www.lieffcabraser.com/privacy/oracle/)
 3. [Oracle's 'surveillance machine' faces privacy class action](https://techcrunch.com/2022/08/22/oracle-us-privacy-class-action/)
-
-## JD Vance Writes Foreword for Project 2025 Architect's Book, Revealing Radical Institutional Transformation Plan
-*Date: 2024-08-13*
-
-1. [pbs.org](https://www.pbs.org/newshour/politics/project-2025-leader-postpones-launch-of-his-book-with-vance-foreword-until-after-the-election)
-2. [poynter.org](https://www.poynter.org/fact-checking/2024/jd-vance-who-wrote-project-2025/)
-3. [inquirer.com](https://www.inquirer.com/politics/election/jd-vance-kevin-roberts-book-foreword-20240808.html)
 
 ## JD Vance Writes Foreword for Project 2025 Architect's Book
 *Date: 2024-08-13*
@@ -22084,13 +21850,6 @@
 1. [Initial Rescissions Of Harmful Executive Orders And Actions](https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions)
 2. [Executive Order Initial Rescissions of Harmful Executive Orders and Actions](https://www.hklaw.com/en/insights/publications/2025/01/executive-order-initial-rescissions-of-harmful-executive-orders)
 3. [Trump Administration Rescinds Batch of Biden-Era Executive Orders](https://climate.law.columbia.edu/content/trump-administration-rescinds-batch-biden-era-executive-orders)
-
-## J.D. Vance Inaugurated as Vice President
-*Date: 2025-01-20*
-
-1. [JD Vance sworn in as vice president](https://www.nbcnews.com/politics/2025-inauguration/live-blog/trump-inauguration-live-updates-rcna185557)
-2. [Who is swearing in Trump and Vance at the 2025 inauguration](https://www.cbsnews.com/news/trump-vance-inauguration-2025-who-swearing-in/)
-3. [JD Vance becomes third-youngest Vice President in US history](https://thehill.com/homenews/administration/5098234-jd-vance-youngest-vice-president/)
 
 ## J.D. Vance Inaugurated as 50th Vice President
 *Date: 2025-01-20*
@@ -23050,13 +22809,6 @@
 2. [Foreign Emoluments Clause Overview](https://constitution.congress.gov/browse/essay/artI-S9-C8-3/ALDE_00013206/)
 3. [Blumenthal, et al. v. Trump](https://www.theusconstitution.org/litigation/trump-and-foreign-emoluments-clause/)
 
-## Federal Courts Struggle with Unprecedented Emoluments Enforcement
-*Date: 2025-02-15*
-
-1. [Supreme Court Ducks an Opportunity on Trump Emoluments Cases](https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases)
-2. [The Intensifying Threat of Donald Trump's Emoluments](https://www.citizensforethics.org/reports-investigations/crew-reports/the-intensifying-threat-of-donald-trumps-emoluments/)
-3. [The Foreign Emoluments Clause: Qatar's Jet Offer Raises Constitutional Questions](https://www.axios.com/2025/05/15/trump-qatar-jet-foreign-emoluments-clause)
-
 ## Trump Administration Systematically Removes DOJ Prosecutors
 *Date: 2025-02-15*
 
@@ -23702,13 +23454,6 @@
 2. [2025 State Attorneys General Predictions](https://www.mofo.com/resources/insights/250107-2025-state-attorneys-general-predictions)
 3. [State Attorneys General May Fill Enforcement Void Left by Shift in Federal Priorities](https://www.skadden.com/insights/publications/2025/03/state-attorneys-general-may-fill)
 
-## Expansion of Pro Bono Legal Support Network
-*Date: 2025-03-10*
-
-1. [Introducing the Pro Bono Litigation Corps: A New Force in the Fight for Justice](https://www.lawyersforgoodgovernment.org/blog/2025/7/21/introducing-the-pro-bono-litigation-corps-a-new-force-in-the-fight-for-justice)
-2. [We The Action Launches Federal Workers Legal Defense Network](https://civicnation.org/news/we-the-action-launches-federal-workers-legal-defense-network-to-harness-the-power-of-pro-bono-lawyers-to-support-federal-workers/)
-3. [Federal employees impacted by Trump administration can turn to new legal support network](https://federalnewsnetwork.com/workforce-rightsgovernance/2025/04/federal-employees-impacted-by-trump-administration-can-turn-to-new-legal-support-network/)
-
 ## Pro Bono Legal Support Network Expansion
 *Date: 2025-03-10*
 
@@ -23731,13 +23476,6 @@
 2. [Dept. of Education plans to slash nearly 50 percent of its staff](https://19thnews.org/2025/03/department-of-education-layoffs/)
 3. ['Let's shake it up': Linda McMahon defends massive cuts at Education Department](https://www.highereddive.com/news/linda-mcmahon-defends-massive-cuts-education-department/744812/)
 4. [With mass layoffs, McMahon and Trump begin mission to end Education Department](https://rollcall.com/2025/03/12/education-department-layoffs-mcmahon-trump/)
-
-## Education Department Faces 50% Workforce Reduction
-*Date: 2025-03-11*
-
-1. [The Education Department says it will cut nearly 50% of staff](https://www.npr.org/2025/03/11/nx-s1-5324746/trump-education-department-layoffs-closure-reorganization)
-2. [Education Department to cut roughly half its staff](https://www.nbcnews.com/politics/trump-administration/education-department-lay-off-roughly-half-workforce-linda-mcmahon-rcna195038)
-3. [Education Department Lays Off Nearly Half of Staff](https://www.insidehighered.com/news/government/politics-elections/2025/03/11/education-department-reduce-staff-half)
 
 ## DHS Awards $200 Million Ad Contract to Republican Firms Without Full Competitive Bidding
 *Date: 2025-03-11*
@@ -24067,13 +23805,6 @@
 1. [Governor Newsom Suing Trump for Illegal CalGuard Takeover](https://www.gov.ca.gov/2025/06/09/governor-newsom-suing-president-trump-and-department-of-defense-for-illegal-takeover-of-calguard-unit/)
 2. [Attorney General James Urges Court to Block Unlawful Federalization](https://ag.ny.gov/press-release/2025/attorney-general-james-urges-court-block-unlawful-federalization-national-guard)
 3. [President's Power to Call Out National Guard Is Not a Blank Check](https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check)
-
-## Federal Courts Rule on National Guard Deployment Constitutionality
-*Date: 2025-03-22*
-
-1. [Federal Judge Temporarily Blocks National Guard Deployment to Portland](https://www.cnn.com/2025/10/06/us/oregon-national-guard-trump-ruling-portland-hnk)
-2. [Governor's Statement on National Guard Deployment Challenge](https://www.gov.ca.gov/2025/10/05/governor-newsom-to-sue-urges-americans-to-speak-out-on-trumps-breathtaking-abuse-of-power-with-cross-state-guard-deployment/)
-3. [Judge Halts Deployment of Oregon National Guard](https://www.opb.org/article/2025/10/04/portland-national-guard-deployment-judge-decision/)
 
 ## First Major Court Battle Over National Guard Deployment Authority
 *Date: 2025-03-22*
@@ -25732,13 +25463,6 @@
 5. [GAO finds DOT funding pause on electric vehicle charging illegal](https://rollcall.com/2025/05/22/gao-finds-dot-funding-pause-on-electric-vehicle-charging-illegal/)
 6. [GAO Ruling on NEVI Impoundment Could Upend Approvals of All USDOT Formula Grant Programs](https://enotrans.org/article/gao-ruling-on-nevi-impoundment-could-upend-approvals-of-all-usdot-formula-grant-programs/)
 
-## Trump Hosts Exclusive Memecoin Investor Dinner at Virginia Golf Club
-*Date: 2025-05-22*
-
-1. [WATCH: White House weighs in on why Trump plans to attend memecoin dinner](https://www.pbs.org/newshour/economy/watch-white-house-weighs-in-on-why-trump-plans-to-attend-memecoin-dinner)
-2. [Trump hosts $148M US crypto dinner slammed by Democrats as 'orgy of corruption'](https://www.cbc.ca/news/world/trump-crypto-golf-club-dinner-1.7541823)
-3. [Trump is hosting a private dinner for the top 220 buyers of his memecoin tonight—and even the crypto lobby is grumbling](https://fortune.com/crypto/2025/05/22/trump-private-crypto-memecoin-dinner-lobbyists-stablecoin-legislation/)
-
 ## Trump Hosts Private Memecoin Investor Dinner Amid Foreign Investment Controversy
 *Date: 2025-05-22*
 
@@ -25944,13 +25668,6 @@
 2. [Federal government paying 154,000 people not to work](https://abcnews.go.com/Politics/federal-government-paying-154000-people-work/story?id=124249462)
 3. [At least 148,000 federal employees have left government under Trump, good government group reports](https://www.govexec.com/workforce/2025/08/least-148000-federal-employees-have-left-government-under-trump-good-government-group-reports/407171/)
 4. [Competing numbers emerge on federal workforce reductions](https://federalnewsnetwork.com/federal-report/2025/08/competing-numbers-emerge-on-federal-workforce-reductions/)
-
-## Federal Workforce Shrinks by 59,000 Jobs Under Project 2025 Plan
-*Date: 2025-06-01*
-
-1. [It's barely 2025 and Trump's project to overhaul federal civil service is well underway](https://www.cbc.ca/news/world/trump-us-government-workforce-1.7444804)
-2. [U.S. government faces brain drain as 154,000 federal workers exit this week](https://www.bnnbloomberg.ca/business/2025/09/30/us-government-faces-brain-drain-as-154000-federal-workers-exit-this-week/)
-3. [Competing numbers emerge on federal workforce reductions](https://federalnewsnetwork.com/federal-report/2025/08/competing-numbers-emerge-on-federal-workforce-reductions/)
 
 ## Stephen Miller and Kristi Noem directive demands 3,000 daily ICE arrests
 *Date: 2025-06-01*
@@ -26525,13 +26242,6 @@
 2. [2025 United States federal mass layoffs - USAID](https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs)
 3. [Sweeping cuts hit recent federal hires as Trump administration slashes workforce](https://www.npr.org/2025/02/13/nx-s1-5296928/layoffs-trump-doge-education-energy)
 
-## Paramount Settles Trump's 60 Minutes Lawsuit for $16 Million
-*Date: 2025-07-02*
-
-1. [Paramount agrees to pay $16 million to settle Trump's CBS lawsuit](https://www.npr.org/2025/07/02/nx-s1-5290171/trump-lawsuit-paramount-cbs-60-minutes-kamala-harris)
-2. [Paramount settles Trump's '60 Minutes' lawsuit with $16 million payout and no apology](https://www.cnn.com/2025/07/02/media/cbs-trump-60-minutes-paramount-settlement)
-3. [Paramount to Pay Trump $16 Million to Settle '60 Minutes' Lawsuit](https://variety.com/2025/tv/news/paramount-trump-settlement-60-minutes-lawsuit-1236404935/)
-
 ## Paramount Pays $16M to Settle Trump's 60 Minutes Lawsuit
 *Date: 2025-07-02*
 
@@ -26750,13 +26460,6 @@
 6. [Elon Musk spent months slashing federal contracts — Now his AI company is celebrating a $200M Pentagon contract](https://fortune.com/2025/07/14/elon-musk-doge-cuts-federal-contracts-xai-grok-for-government-200-million-contract-defense-department/)
 7. [Elon Musk's Controversial Grok AI Lands Contract With Pentagon](https://www.newsweek.com/elon-musks-controversial-grok-ai-lands-contract-pentagon-2098771)
 8. [Elon Musk's xAI bags $200M Pentagon contract for Grok AI rollout](https://interestingengineering.com/culture/elon-musk-xai-grok-pentagon-contract)
-
-## Climate Programs Dismantled - NOAA Faces 27% Budget Cut, Hundreds of Jobs Eliminated
-*Date: 2025-07-15*
-
-1. [As NOAA braces for more cuts, scientists say public safety is at risk](https://www.pbs.org/newshour/politics/as-noaa-braces-for-more-cuts-scientists-say-public-safety-is-at-risk)
-2. [Trump Administration Plans Detrimental Cuts to NOAA Climate Research](https://www.edf.org/media/reports-trump-administration-plans-detrimental-cuts-noaa-climate-research)
-3. [NOAA budget cuts threaten weather forecasting](https://www.washingtonpost.com/weather/2025/07/15/noaa-budget-cuts-weather-forecasting/)
 
 ## Climate Programs Dismantled - NOAA Faces 27% Budget Cut
 *Date: 2025-07-15*
@@ -27416,13 +27119,6 @@
 2. [Trump executive order seeks to centralize control of grantmaking under political appointees](https://www.statnews.com/2025/08/08/trump-executive-order-disrupts-science-lawsuits-expected/)
 3. [Federal grants must 'demonstrably advance' Trump's agenda, president orders](https://www.govexec.com/management/2025/08/federal-grants-must-demonstrably-advance-trumps-agenda-president-orders/407335/)
 
-## Trump Signs 186 Executive Orders - Two-Thirds Mirror Project 2025
-*Date: 2025-08-07*
-
-1. [Trump Enacts Project 2025 Policies, Which He Distanced Himself From While Campaigning](https://www.npr.org/2025/01/31/nx-s1-5280364/trump-enacts-project-2025-policies-which-he-distanced-himself-from-while-campaigning)
-2. [Trump's Policy and Project 2025: A Deep Dive into Executive Order Similarities](https://www.cnn.com/2025/01/31/politics/trump-policy-project-2025-executive-orders-invs/index.html)
-3. [5 Ways Project 2025 Appeared in Trump's Presidential Directives](https://www.washingtonpost.com/politics/2025/01/25/5-ways-project-2025-appeared-trumps-presidential-directives/)
-
 ## White House announces increased federal law-enforcement presence in Washington, D.C.
 *Date: 2025-08-08*
 
@@ -27508,13 +27204,6 @@
 1. [Ex-KGB Official Claims Putin Has a Secret Blackmail File on Trump](https://morningtruth.substack.com/p/ex-kgb-official-claims-putin-has)
 2. [Fact Check: Was Donald Trump Recruited by the KGB?](https://www.euronews.com/my-europe/2025/03/13/fact-checking-online-claims-that-donald-trump-was-recruited-by-the-kgb-as-krasnov)
 3. [WHAT PUTIN HAS ON TRUMP](https://www.closertotheedge.net/p/what-putin-has-on-trump)
-
-## Former Kazakhstan Intelligence Chief Alleges Putin's Kompromat on Trump
-*Date: 2025-08-12*
-
-1. [WHAT PUTIN HAS ON TRUMP](https://closertotheedge.substack.com/p/what-putin-has-on-trump)
-2. [Assessing new allegations that Trump was recruited by the KGB](https://thehill.com/opinion/international/5162890-assessing-new-allegations-that-trump-was-recruited-by-the-kgb/)
-3. [Ex-KGB Official Claims Putin Has a Secret Blackmail File on Trump](https://morningtruth.substack.com/p/ex-kgb-official-claims-putin-has)
 
 ## Treasury Secretary Bessent Violates Ethics Agreement, Retains Millions in Conflicted Assets
 *Date: 2025-08-13*
@@ -27816,13 +27505,6 @@
 4. [DOGE put Social Security numbers and other data on a risky server, whistleblower alleges](https://www.nbcnews.com/politics/doge/doge-put-social-security-numbers-data-risky-server-whistleblower-alleg-rcna227259)
 5. [Whistleblower Warns of Possible Risks to Americans' Social Security Information](https://whistleblower.org/press-release/whistleblower-warns-of-possible-risks-to-americans-social-security-information/)
 
-## Whistleblower Exposes DOGE Social Security Database Vulnerability
-*Date: 2025-08-26*
-
-1. [Whistleblower says DOGE put Social Security numbers at risk](https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy)
-2. [Social Security official says DOGE compromised Americans' data](https://www.washingtonpost.com/politics/2025/08/26/social-security-data-cloud-whistleblower/)
-3. [DOGE put Americans' Social Security records at risk, whistleblower says](https://www.cnn.com/2025/08/26/politics/doge-social-security-records-whistleblower)
-
 ## Trump Media Announces $1 Billion Crypto.com Partnership While Trump Holds Presidential Office
 *Date: 2025-08-26*
 
@@ -27996,12 +27678,6 @@
 1. [Justice Department Opens Criminal Probe of Lisa Cook Mortgages](https://www.bloomberg.com/news/articles/2025-09-04/justice-department-opens-criminal-probe-of-lisa-cook-mortgages)
 2. [Justice Department probes mortgage fraud claims against Lisa Cook of Federal Reserve, AP source says](https://www.sandiegouniontribune.com/2025/09/04/federal-reserve-cook-ouster/)
 3. [Justice Department opens criminal investigation into Federal Reserve Governor Lisa Cook: Sources](https://abcnews.go.com/US/justice-department-opens-criminal-investigation-federal-reserve-governor/story?id=125261793)
-
-## DOJ Opens Criminal Investigation Against Federal Reserve Governor Following Trump Removal Attempt
-*Date: 2025-09-04*
-
-1. [DOJ Launches Criminal Probe Against Fed Governor Lisa Cook](https://www.theguardian.com/us-news/2025/sep/04/doj-investigation-lisa-cook-fed-governor)
-2. [Selective 'Mortgage Fraud' Prosecution](https://www.propublica.org/article/trump-mortgage-fraud-political-enemies-cabinet-members)
 
 ## Federal Reserve Nominee Plans Unprecedented Dual Role With White House
 *Date: 2025-09-04*
@@ -28968,11 +28644,6 @@
 
 1. [Budget Director Russell Vought Consolidates Authoritarian Control Over Federal Government](https://www.propublica.org/article/russell-vought-budget-director-authoritarian-control)
 
-## Trump Commutes George Santos Prison Sentence for Fraud and Identity Theft
-*Date: 2025-10-17*
-
-1. [Trump commutes sentence of convicted fraudster George Santos](https://www.cnn.com/2025/10/17/politics/george-santos-trump-commutation)
-
 ## Trump Commutes George Santos Prison Sentence After 3 Months
 *Date: 2025-10-17*
 
@@ -29772,16 +29443,6 @@
 1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
 2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
 3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
-
-## Marjorie Taylor Greene Announces Resignation from Congress After Trump Feud Over Epstein Files
-*Date: 2025-11-21*
-
-1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
-2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
-3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
-4. [Marjorie Taylor Greene announces resignation from Congress after President Trump withdraws endorsement](https://www.foxnews.com/politics/marjorie-taylor-greene-announces-resignation-from-congress-after-president-trump-withdraws-endorsement)
-5. [Marjorie Taylor Greene retirement launches speculation about congressional pensions](https://www.govexec.com/pay-benefits/2025/11/marjorie-taylor-greene-retirement-launches-speculation-about-congressional-pensions/409762/)
-6. [Marjorie Taylor Greene resignation timing ensures taxpayer-funded congressional pension](https://www.newsnationnow.com/politics/marjorie-taylor-greene-resignation-pension/)
 
 ## Federal Judge Dismisses Indictments Against Letitia James and Comey, Ruling Halligan's Appointment Unlawful
 *Date: 2025-11-24*

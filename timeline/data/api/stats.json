@@ -1,16 +1,16 @@
 {
-  "total_events": 4162,
-  "total_tags": 6430,
-  "total_actors": 7868,
-  "total_sources": 14402,
+  "total_events": 4115,
+  "total_tags": 6380,
+  "total_actors": 7829,
+  "total_sources": 14251,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-01-08"
   },
   "status_counts": {
-    "unknown": 943,
-    "confirmed": 3169,
-    "validated": 31,
+    "unknown": 936,
+    "confirmed": 3131,
+    "validated": 29,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
@@ -25,35 +25,35 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 585
+      "count": 577
     },
     {
       "name": "institutional-capture",
-      "count": 401
+      "count": 400
     },
     {
       "name": "corruption",
-      "count": 288
+      "count": 285
     },
     {
       "name": "trump-administration",
-      "count": 142
+      "count": 141
     },
     {
       "name": "systematic-corruption",
-      "count": 141
+      "count": 140
     },
     {
       "name": "kleptocracy",
       "count": 137
     },
     {
-      "name": "supreme-court",
-      "count": 136
+      "name": "government-contracts",
+      "count": 132
     },
     {
-      "name": "government-contracts",
-      "count": 134
+      "name": "supreme-court",
+      "count": 131
     },
     {
       "name": "surveillance",
@@ -61,25 +61,25 @@
     },
     {
       "name": "crypto",
-      "count": 116
+      "count": 114
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1064
+      "count": 1055
     },
     {
       "name": "Trump Administration",
-      "count": 337
+      "count": 334
     },
     {
       "name": "Department of Justice",
-      "count": 262
+      "count": 259
     },
     {
       "name": "Elon Musk",
-      "count": 161
+      "count": 160
     },
     {
       "name": "U.S. Congress",
@@ -95,16 +95,16 @@
     },
     {
       "name": "Supreme Court",
-      "count": 76
-    },
-    {
-      "name": "Heritage Foundation",
       "count": 74
     },
     {
       "name": "Ronald Reagan",
       "count": 72
+    },
+    {
+      "name": "Congress",
+      "count": 71
     }
   ],
-  "generated": "2026-01-11T17:53:27.802763"
+  "generated": "2026-01-12T15:26:15.976044"
 }
