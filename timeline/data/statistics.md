@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-12 15:26:15
+Generated: 2026-01-12 17:11:31
 
 ## Overview
-- **Total Events**: 4115
-- **Date Range**: 1142-01-01 to 2026-01-08
-- **Total Sources**: 14251
-- **Unique Tags**: 6380
-- **Unique Actors**: 7829
+- **Total Events**: 4138
+- **Date Range**: 1142-01-01 to 2026-01-09
+- **Total Sources**: 14300
+- **Unique Tags**: 6397
+- **Unique Actors**: 7848
 
 ## Event Status
 - **Unknown**: 936
-- **Confirmed**: 3131
+- **Confirmed**: 3154
 - **Validated**: 29
 - **Disputed**: 2
 - **Verified**: 1
@@ -37,7 +37,7 @@ Generated: 2026-01-12 15:26:15
 - crypto: 114 events
 
 ## Top Actors
-- Donald Trump: 1055 events
+- Donald Trump: 1070 events
 - Trump Administration: 334 events
 - Department of Justice: 259 events
 - Elon Musk: 160 events
@@ -284,6 +284,6 @@ Generated: 2026-01-12 15:26:15
 - 2021: 106 events
 - 2022: 92 events
 - 2023: 104 events
-- 2024: 161 events
-- 2025: 1195 events
-- 2026: 26 events
+- 2024: 162 events
+- 2025: 1213 events
+- 2026: 30 events

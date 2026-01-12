@@ -152,6 +152,10 @@
     "count": 55
   },
   {
+    "name": "authoritarianism",
+    "count": 55
+  },
+  {
     "name": "congressional-oversight",
     "count": 54
   },
@@ -176,10 +180,6 @@
     "count": 51
   },
   {
-    "name": "authoritarianism",
-    "count": 51
-  },
-  {
     "name": "public-health",
     "count": 50
   },
@@ -200,6 +200,10 @@
     "count": 45
   },
   {
+    "name": "propaganda",
+    "count": 45
+  },
+  {
     "name": "money-laundering",
     "count": 45
   },
@@ -208,15 +212,15 @@
     "count": 45
   },
   {
-    "name": "propaganda",
-    "count": 44
-  },
-  {
     "name": "institutional-racism",
     "count": 43
   },
   {
     "name": "democratic-erosion",
+    "count": 43
+  },
+  {
+    "name": "foreign-policy",
     "count": 43
   },
   {
@@ -278,10 +282,6 @@
   {
     "name": "self-dealing",
     "count": 38
-  },
-  {
-    "name": "foreign-policy",
-    "count": 36
   },
   {
     "name": "separation-of-powers",
@@ -600,6 +600,10 @@
     "count": 23
   },
   {
+    "name": "sanctions",
+    "count": 23
+  },
+  {
     "name": "raytheon",
     "count": 23
   },
@@ -609,6 +613,10 @@
   },
   {
     "name": "corporate-consolidation",
+    "count": 22
+  },
+  {
+    "name": "imperialism",
     "count": 22
   },
   {
@@ -756,10 +764,6 @@
     "count": 20
   },
   {
-    "name": "sanctions",
-    "count": 20
-  },
-  {
     "name": "pardons",
     "count": 20
   },
@@ -777,6 +781,10 @@
   },
   {
     "name": "international-law",
+    "count": 19
+  },
+  {
+    "name": "china",
     "count": 19
   },
   {
@@ -820,10 +828,6 @@
     "count": 18
   },
   {
-    "name": "china",
-    "count": 18
-  },
-  {
     "name": "emergency-powers",
     "count": 18
   },
@@ -849,6 +853,10 @@
   },
   {
     "name": "boeing",
+    "count": 18
+  },
+  {
+    "name": "iran",
     "count": 18
   },
   {
@@ -936,6 +944,14 @@
     "count": 16
   },
   {
+    "name": "democracy",
+    "count": 16
+  },
+  {
+    "name": "military",
+    "count": 16
+  },
+  {
     "name": "mass-incarceration",
     "count": 16
   },
@@ -945,6 +961,10 @@
   },
   {
     "name": "private-prison",
+    "count": 16
+  },
+  {
+    "name": "elections",
     "count": 16
   },
   {
@@ -988,19 +1008,11 @@
     "count": 15
   },
   {
-    "name": "imperialism",
-    "count": 15
-  },
-  {
     "name": "housing",
     "count": 15
   },
   {
     "name": "wall-street",
-    "count": 15
-  },
-  {
-    "name": "democracy",
     "count": 15
   },
   {
@@ -1033,10 +1045,6 @@
   },
   {
     "name": "enron",
-    "count": 15
-  },
-  {
-    "name": "elections",
     "count": 15
   },
   {
@@ -1073,6 +1081,10 @@
   },
   {
     "name": "tech-regulation",
+    "count": 15
+  },
+  {
+    "name": "greenland",
     "count": 15
   },
   {
@@ -1308,10 +1320,6 @@
     "count": 12
   },
   {
-    "name": "military",
-    "count": 12
-  },
-  {
     "name": "nra",
     "count": 12
   },
@@ -1536,6 +1544,10 @@
     "count": 11
   },
   {
+    "name": "protests",
+    "count": 11
+  },
+  {
     "name": "data-breach",
     "count": 11
   },
@@ -1581,6 +1593,10 @@
   },
   {
     "name": "legal-resistance",
+    "count": 10
+  },
+  {
+    "name": "nato",
     "count": 10
   },
   {
@@ -1864,10 +1880,6 @@
     "count": 9
   },
   {
-    "name": "protests",
-    "count": 9
-  },
-  {
     "name": "facial-recognition",
     "count": 9
   },
@@ -1917,6 +1929,10 @@
   },
   {
     "name": "political-realignment",
+    "count": 8
+  },
+  {
+    "name": "assassination",
     "count": 8
   },
   {
@@ -2152,6 +2168,10 @@
     "count": 8
   },
   {
+    "name": "denmark",
+    "count": 8
+  },
+  {
     "name": "world-liberty-financial",
     "count": 8
   },
@@ -2177,10 +2197,6 @@
   },
   {
     "name": "slavery-expansion",
-    "count": 7
-  },
-  {
-    "name": "assassination",
     "count": 7
   },
   {
@@ -2245,10 +2261,6 @@
   },
   {
     "name": "wage-suppression",
-    "count": 7
-  },
-  {
-    "name": "nato",
     "count": 7
   },
   {
@@ -2341,6 +2353,10 @@
   },
   {
     "name": "influence-peddling",
+    "count": 7
+  },
+  {
+    "name": "israel",
     "count": 7
   },
   {
@@ -3004,6 +3020,10 @@
     "count": 6
   },
   {
+    "name": "nuclear",
+    "count": 6
+  },
+  {
     "name": "border-patrol",
     "count": 6
   },
@@ -3408,10 +3428,6 @@
     "count": 5
   },
   {
-    "name": "iran",
-    "count": 5
-  },
-  {
     "name": "private-sector",
     "count": 5
   },
@@ -3604,6 +3620,10 @@
     "count": 5
   },
   {
+    "name": "military-threat",
+    "count": 5
+  },
+  {
     "name": "political-loyalty",
     "count": 5
   },
@@ -3621,6 +3641,10 @@
   },
   {
     "name": "musk-benefits",
+    "count": 5
+  },
+  {
+    "name": "diplomacy",
     "count": 5
   },
   {
@@ -3681,10 +3705,6 @@
   },
   {
     "name": "transparency-violation",
-    "count": 5
-  },
-  {
-    "name": "greenland",
     "count": 5
   },
   {
@@ -3861,6 +3881,10 @@
   },
   {
     "name": "competition",
+    "count": 4
+  },
+  {
+    "name": "intelligence",
     "count": 4
   },
   {
@@ -4052,10 +4076,6 @@
     "count": 4
   },
   {
-    "name": "israel",
-    "count": 4
-  },
-  {
     "name": "cfma",
     "count": 4
   },
@@ -4237,6 +4257,10 @@
   },
   {
     "name": "pam bondi",
+    "count": 4
+  },
+  {
+    "name": "middle-east",
     "count": 4
   },
   {
@@ -4608,6 +4632,10 @@
     "count": 4
   },
   {
+    "name": "oil",
+    "count": 4
+  },
+  {
     "name": "trump-family-business",
     "count": 4
   },
@@ -4908,10 +4936,6 @@
     "count": 3
   },
   {
-    "name": "intelligence",
-    "count": 3
-  },
-  {
     "name": "fiscal-policy",
     "count": 3
   },
@@ -5144,6 +5168,10 @@
     "count": 3
   },
   {
+    "name": "economic-collapse",
+    "count": 3
+  },
+  {
     "name": "enforcement-escalation",
     "count": 3
   },
@@ -5328,6 +5356,10 @@
     "count": 3
   },
   {
+    "name": "united-nations",
+    "count": 3
+  },
+  {
     "name": "military-occupation",
     "count": 3
   },
@@ -5425,10 +5457,6 @@
   },
   {
     "name": "climate-policy",
-    "count": 3
-  },
-  {
-    "name": "middle-east",
     "count": 3
   },
   {
@@ -6024,6 +6052,10 @@
     "count": 3
   },
   {
+    "name": "trade-war",
+    "count": 3
+  },
+  {
     "name": "pope-leo-xiv",
     "count": 3
   },
@@ -6180,19 +6212,11 @@
     "count": 3
   },
   {
-    "name": "oil",
-    "count": 3
-  },
-  {
     "name": "kristi noem",
     "count": 3
   },
   {
     "name": "bannon",
-    "count": 3
-  },
-  {
-    "name": "denmark",
     "count": 3
   },
   {
@@ -7276,10 +7300,6 @@
     "count": 2
   },
   {
-    "name": "economic-collapse",
-    "count": 2
-  },
-  {
     "name": "grassroots-resistance",
     "count": 2
   },
@@ -7405,6 +7425,10 @@
   },
   {
     "name": "globalization",
+    "count": 2
+  },
+  {
+    "name": "currency-crisis",
     "count": 2
   },
   {
@@ -7741,10 +7765,6 @@
   },
   {
     "name": "geospatial-intelligence",
-    "count": 2
-  },
-  {
-    "name": "united-nations",
     "count": 2
   },
   {
@@ -9700,6 +9720,10 @@
     "count": 2
   },
   {
+    "name": "iaea",
+    "count": 2
+  },
+  {
     "name": "persuasion",
     "count": 2
   },
@@ -9821,10 +9845,6 @@
   },
   {
     "name": "crisis-exploitation",
-    "count": 2
-  },
-  {
-    "name": "trade-war",
     "count": 2
   },
   {
@@ -9981,10 +10001,6 @@
   },
   {
     "name": "recruitment",
-    "count": 2
-  },
-  {
-    "name": "diplomacy",
     "count": 2
   },
   {
@@ -13653,10 +13669,6 @@
   },
   {
     "name": "sovereign-default",
-    "count": 1
-  },
-  {
-    "name": "currency-crisis",
     "count": 1
   },
   {
@@ -21028,6 +21040,10 @@
     "count": 1
   },
   {
+    "name": "paypal-mafia",
+    "count": 1
+  },
+  {
     "name": "power-grab",
     "count": 1
   },
@@ -21081,6 +21097,14 @@
   },
   {
     "name": "defense",
+    "count": 1
+  },
+  {
+    "name": "panama",
+    "count": 1
+  },
+  {
+    "name": "confirmation-hearing",
     "count": 1
   },
   {
@@ -21620,6 +21644,10 @@
     "count": 1
   },
   {
+    "name": "maximum-pressure",
+    "count": 1
+  },
+  {
     "name": "corruption-enabling",
     "count": 1
   },
@@ -21949,6 +21977,10 @@
   },
   {
     "name": "federal-contracts",
+    "count": 1
+  },
+  {
+    "name": "ultimatum",
     "count": 1
   },
   {
@@ -22321,6 +22353,10 @@
   },
   {
     "name": "strategic-appointments",
+    "count": 1
+  },
+  {
+    "name": "negotiations",
     "count": 1
   },
   {
@@ -22768,6 +22804,10 @@
     "count": 1
   },
   {
+    "name": "weapons-grade-uranium",
+    "count": 1
+  },
+  {
     "name": "bono",
     "count": 1
   },
@@ -22868,6 +22908,10 @@
     "count": 1
   },
   {
+    "name": "non-proliferation",
+    "count": 1
+  },
+  {
     "name": "nuclear-proliferation",
     "count": 1
   },
@@ -22877,6 +22921,10 @@
   },
   {
     "name": "middle-east-geopolitics",
+    "count": 1
+  },
+  {
+    "name": "decapitation-strike",
     "count": 1
   },
   {
@@ -22908,6 +22956,10 @@
     "count": 1
   },
   {
+    "name": "northcom",
+    "count": 1
+  },
+  {
     "name": "visa-processing",
     "count": 1
   },
@@ -22932,6 +22984,14 @@
     "count": 1
   },
   {
+    "name": "b-2-bomber",
+    "count": 1
+  },
+  {
+    "name": "operation-midnight-hammer",
+    "count": 1
+  },
+  {
     "name": "institutional-weakening",
     "count": 1
   },
@@ -22945,6 +23005,10 @@
   },
   {
     "name": "trump-authoritarianism",
+    "count": 1
+  },
+  {
+    "name": "ceasefire",
     "count": 1
   },
   {
@@ -25476,7 +25540,15 @@
     "count": 1
   },
   {
+    "name": "intervention",
+    "count": 1
+  },
+  {
     "name": "redaction-deadline",
+    "count": 1
+  },
+  {
+    "name": "operation-iron-strike",
     "count": 1
   },
   {
@@ -25489,10 +25561,6 @@
   },
   {
     "name": "impeachment-threat",
-    "count": 1
-  },
-  {
-    "name": "military-threat",
     "count": 1
   },
   {

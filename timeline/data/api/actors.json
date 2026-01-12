@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1055
+    "count": 1070
   },
   {
     "name": "Trump Administration",
@@ -108,11 +108,11 @@
     "count": 44
   },
   {
-    "name": "U.S. Senate",
-    "count": 42
+    "name": "Treasury Department",
+    "count": 43
   },
   {
-    "name": "Treasury Department",
+    "name": "U.S. Senate",
     "count": 42
   },
   {
@@ -136,6 +136,10 @@
     "count": 38
   },
   {
+    "name": "Donald Trump Jr.",
+    "count": 38
+  },
+  {
     "name": "DHS",
     "count": 38
   },
@@ -149,10 +153,6 @@
   },
   {
     "name": "Vladimir Putin",
-    "count": 37
-  },
-  {
-    "name": "Donald Trump Jr.",
     "count": 37
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "name": "Pete Hegseth",
-    "count": 29
+    "count": 30
   },
   {
     "name": "Boeing",
@@ -304,6 +304,10 @@
     "count": 24
   },
   {
+    "name": "JD Vance",
+    "count": 24
+  },
+  {
     "name": "Koch Industries",
     "count": 23
   },
@@ -320,7 +324,7 @@
     "count": 22
   },
   {
-    "name": "JD Vance",
+    "name": "Marco Rubio",
     "count": 22
   },
   {
@@ -345,10 +349,6 @@
   },
   {
     "name": "J.D. Vance",
-    "count": 21
-  },
-  {
-    "name": "Marco Rubio",
     "count": 21
   },
   {
@@ -484,6 +484,10 @@
     "count": 17
   },
   {
+    "name": "Pentagon",
+    "count": 17
+  },
+  {
     "name": "Lindsey Halligan",
     "count": 17
   },
@@ -501,10 +505,6 @@
   },
   {
     "name": "Federal Communications Commission",
-    "count": 16
-  },
-  {
-    "name": "Pentagon",
     "count": 16
   },
   {
@@ -1072,6 +1072,10 @@
     "count": 9
   },
   {
+    "name": "China",
+    "count": 9
+  },
+  {
     "name": "George Tenet",
     "count": 9
   },
@@ -1261,10 +1265,6 @@
   },
   {
     "name": "Phil Gramm",
-    "count": 8
-  },
-  {
-    "name": "China",
     "count": 8
   },
   {
@@ -1592,6 +1592,10 @@
     "count": 7
   },
   {
+    "name": "Benjamin Netanyahu",
+    "count": 7
+  },
+  {
     "name": "Nick Fuentes",
     "count": 7
   },
@@ -1644,6 +1648,10 @@
     "count": 7
   },
   {
+    "name": "Steve Witkoff",
+    "count": 7
+  },
+  {
     "name": "Erik Siebert",
     "count": 7
   },
@@ -1653,6 +1661,10 @@
   },
   {
     "name": "Slaveholders",
+    "count": 6
+  },
+  {
+    "name": "France",
     "count": 6
   },
   {
@@ -1876,6 +1888,10 @@
     "count": 6
   },
   {
+    "name": "Qatar",
+    "count": 6
+  },
+  {
     "name": "Office of Special Counsel",
     "count": 6
   },
@@ -2016,10 +2032,6 @@
     "count": 6
   },
   {
-    "name": "Steve Witkoff",
-    "count": 6
-  },
-  {
     "name": "NPR",
     "count": 6
   },
@@ -2029,10 +2041,6 @@
   },
   {
     "name": "Southern state delegates",
-    "count": 5
-  },
-  {
-    "name": "France",
     "count": 5
   },
   {
@@ -2344,10 +2352,6 @@
     "count": 5
   },
   {
-    "name": "Qatar",
-    "count": 5
-  },
-  {
     "name": "Andrew Wheeler",
     "count": 5
   },
@@ -2473,6 +2477,10 @@
   },
   {
     "name": "Cantor Fitzgerald",
+    "count": 5
+  },
+  {
+    "name": "Mette Frederiksen",
     "count": 5
   },
   {
@@ -3160,10 +3168,6 @@
     "count": 4
   },
   {
-    "name": "Benjamin Netanyahu",
-    "count": 4
-  },
-  {
     "name": "Equifax",
     "count": 4
   },
@@ -3205,6 +3209,10 @@
   },
   {
     "name": "Volodymyr Zelenskyy",
+    "count": 4
+  },
+  {
+    "name": "Iran",
     "count": 4
   },
   {
@@ -3308,6 +3316,10 @@
     "count": 4
   },
   {
+    "name": "United Kingdom",
+    "count": 4
+  },
+  {
     "name": "Edward Coristine",
     "count": 4
   },
@@ -3372,6 +3384,10 @@
     "count": 4
   },
   {
+    "name": "Chris Wright",
+    "count": 4
+  },
+  {
     "name": "Office of Personnel Management (OPM)",
     "count": 4
   },
@@ -3420,6 +3436,10 @@
     "count": 4
   },
   {
+    "name": "Israeli Defense Forces",
+    "count": 4
+  },
+  {
     "name": "Texas House Democrats",
     "count": 4
   },
@@ -3457,6 +3477,10 @@
   },
   {
     "name": "Joseph Edlow",
+    "count": 4
+  },
+  {
+    "name": "NATO",
     "count": 4
   },
   {
@@ -4292,6 +4316,10 @@
     "count": 3
   },
   {
+    "name": "United Arab Emirates",
+    "count": 3
+  },
+  {
     "name": "Robert Rucho",
     "count": 3
   },
@@ -4724,6 +4752,10 @@
     "count": 3
   },
   {
+    "name": "Mike Lee",
+    "count": 3
+  },
+  {
     "name": "Project 2025",
     "count": 3
   },
@@ -4793,10 +4825,6 @@
   },
   {
     "name": "Paul Engelmayer",
-    "count": 3
-  },
-  {
-    "name": "United Kingdom",
     "count": 3
   },
   {
@@ -4912,10 +4940,6 @@
     "count": 3
   },
   {
-    "name": "Chris Wright",
-    "count": 3
-  },
-  {
     "name": "Gerald Connolly",
     "count": 3
   },
@@ -5008,15 +5032,19 @@
     "count": 3
   },
   {
+    "name": "Rafael Grossi",
+    "count": 3
+  },
+  {
     "name": "protesters",
     "count": 3
   },
   {
-    "name": "Israeli Defense Forces",
+    "name": "U.S. Court of Appeals for the Ninth Circuit",
     "count": 3
   },
   {
-    "name": "U.S. Court of Appeals for the Ninth Circuit",
+    "name": "US Navy",
     "count": 3
   },
   {
@@ -5088,6 +5116,10 @@
     "count": 3
   },
   {
+    "name": "Germany",
+    "count": 3
+  },
+  {
     "name": "Abbe Lowell",
     "count": 3
   },
@@ -5140,10 +5172,6 @@
     "count": 3
   },
   {
-    "name": "NATO",
-    "count": 3
-  },
-  {
     "name": "American Academy of Pediatrics",
     "count": 3
   },
@@ -5157,10 +5185,6 @@
   },
   {
     "name": "Venezuela",
-    "count": 3
-  },
-  {
-    "name": "Mette Frederiksen",
     "count": 3
   },
   {
@@ -6169,6 +6193,10 @@
   },
   {
     "name": "Kroll Associates",
+    "count": 2
+  },
+  {
+    "name": "Mossad",
     "count": 2
   },
   {
@@ -7272,10 +7300,6 @@
     "count": 2
   },
   {
-    "name": "United Arab Emirates",
-    "count": 2
-  },
-  {
     "name": "David Lewis",
     "count": 2
   },
@@ -8200,10 +8224,6 @@
     "count": 2
   },
   {
-    "name": "Iran",
-    "count": 2
-  },
-  {
     "name": "David Sackler",
     "count": 2
   },
@@ -8349,10 +8369,6 @@
   },
   {
     "name": "Bank of New York Mellon",
-    "count": 2
-  },
-  {
-    "name": "Mike Lee",
     "count": 2
   },
   {
@@ -8792,6 +8808,10 @@
     "count": 2
   },
   {
+    "name": "Ken Howery",
+    "count": 2
+  },
+  {
     "name": "Paul Weiss",
     "count": 2
   },
@@ -8829,6 +8849,10 @@
   },
   {
     "name": "CISA",
+    "count": 2
+  },
+  {
+    "name": "Usha Vance",
     "count": 2
   },
   {
@@ -8988,6 +9012,10 @@
     "count": 2
   },
   {
+    "name": "Ali Khamenei",
+    "count": 2
+  },
+  {
     "name": "CIVICUS Monitor",
     "count": 2
   },
@@ -8997,6 +9025,14 @@
   },
   {
     "name": "Constitutional Litigation Experts",
+    "count": 2
+  },
+  {
+    "name": "Jens-Frederik Nielsen",
+    "count": 2
+  },
+  {
+    "name": "Mute Egede",
     "count": 2
   },
   {
@@ -9057,6 +9093,10 @@
   },
   {
     "name": "Kaelan Dorr",
+    "count": 2
+  },
+  {
+    "name": "Mike Waltz",
     "count": 2
   },
   {
@@ -9184,6 +9224,10 @@
     "count": 2
   },
   {
+    "name": "IAEA",
+    "count": 2
+  },
+  {
     "name": "Bono",
     "count": 2
   },
@@ -9213,6 +9257,10 @@
   },
   {
     "name": "US Military",
+    "count": 2
+  },
+  {
+    "name": "Iranian Revolutionary Guard Corps",
     "count": 2
   },
   {
@@ -9464,10 +9512,6 @@
     "count": 2
   },
   {
-    "name": "Germany",
-    "count": 2
-  },
-  {
     "name": "Angus King",
     "count": 2
   },
@@ -9493,10 +9537,6 @@
   },
   {
     "name": "Mike Lawler",
-    "count": 2
-  },
-  {
-    "name": "US Navy",
     "count": 2
   },
   {
@@ -14557,10 +14597,6 @@
   },
   {
     "name": "William H. Rehnquist",
-    "count": 1
-  },
-  {
-    "name": "Mossad",
     "count": 1
   },
   {
@@ -25840,7 +25876,15 @@
     "count": 1
   },
   {
+    "name": "Greenland Government",
+    "count": 1
+  },
+  {
     "name": "New York State Courts",
+    "count": 1
+  },
+  {
+    "name": "Mazie Hirono",
     "count": 1
   },
   {
@@ -25945,10 +25989,6 @@
   },
   {
     "name": "National Economic Council",
-    "count": 1
-  },
-  {
-    "name": "Usha Vance",
     "count": 1
   },
   {
@@ -27348,6 +27388,14 @@
     "count": 1
   },
   {
+    "name": "Abbas Araghchi",
+    "count": 1
+  },
+  {
+    "name": "Oman",
+    "count": 1
+  },
+  {
     "name": "Universal Strategic Advisors",
     "count": 1
   },
@@ -28192,6 +28240,10 @@
     "count": 1
   },
   {
+    "name": "IAEA Board of Governors",
+    "count": 1
+  },
+  {
     "name": "Netanyahu administration",
     "count": 1
   },
@@ -28201,10 +28253,6 @@
   },
   {
     "name": "Natanz nuclear facility personnel",
-    "count": 1
-  },
-  {
-    "name": "IAEA",
     "count": 1
   },
   {
@@ -28293,6 +28341,10 @@
   },
   {
     "name": "Sen. Richard Blumenthal",
+    "count": 1
+  },
+  {
+    "name": "US Air Force",
     "count": 1
   },
   {
@@ -29432,6 +29484,10 @@
     "count": 1
   },
   {
+    "name": "United Nations Security Council",
+    "count": 1
+  },
+  {
     "name": "Allison D. Burroughs",
     "count": 1
   },
@@ -30416,10 +30472,6 @@
     "count": 1
   },
   {
-    "name": "Mike Waltz",
-    "count": 1
-  },
-  {
     "name": "Senator Roger Wicker",
     "count": 1
   },
@@ -31028,6 +31080,10 @@
     "count": 1
   },
   {
+    "name": "Danish Defense Intelligence Service",
+    "count": 1
+  },
+  {
     "name": "Judge William Fitzpatrick",
     "count": 1
   },
@@ -31188,6 +31244,14 @@
     "count": 1
   },
   {
+    "name": "Jeff Landry",
+    "count": 1
+  },
+  {
+    "name": "Lars Lokke Rasmussen",
+    "count": 1
+  },
+  {
     "name": "Richard Indyke",
     "count": 1
   },
@@ -31228,6 +31292,10 @@
     "count": 1
   },
   {
+    "name": "Iranian Bazaari Merchants",
+    "count": 1
+  },
+  {
     "name": "Coast Guard",
     "count": 1
   },
@@ -31248,11 +31316,15 @@
     "count": 1
   },
   {
+    "name": "Iranian Government",
+    "count": 1
+  },
+  {
     "name": "Delta Force",
     "count": 1
   },
   {
-    "name": "Jens-Frederik Nielsen",
+    "name": "Israeli Security Cabinet",
     "count": 1
   },
   {
@@ -31313,6 +31385,10 @@
   },
   {
     "name": "Todd Young",
+    "count": 1
+  },
+  {
+    "name": "Greenland Political Parties",
     "count": 1
   }
 ]

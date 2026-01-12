@@ -21595,6 +21595,12 @@
 2. [Cantor Fitzgerald pays $6.75 mn to settle 'misleading' SPAC disclosures](https://www.business-standard.com/world-news/cantor-fitzgerald-pays-6-75-mn-to-settle-misleading-spac-disclosures-124121300111_1.html)
 3. [Cantor Fitzgerald pays $6.75 million to settle SEC charges over misleading SPAC disclosures](https://www.marketscreener.com/quote/stock/SATELLOGIC-INC-132401546/news/Cantor-Fitzgerald-pays-6-75-million-to-settle-SEC-charges-over-misleading-SPAC-disclosures-48583816/)
 
+## Trump Declares Greenland 'Absolute Necessity' and Names PayPal Co-Founder as Denmark Ambassador
+*Date: 2024-12-22*
+
+1. [Trump revives push to acquire Greenland, nominates Ken Howery as Denmark ambassador](https://www.cnbc.com/2024/12/22/trump-greenland-ken-howery-denmark-ambassador.html)
+2. [Trump says US needs to own Greenland for 'national security'](https://www.bbc.com/news/articles/c8e4p7dknr9o)
+
 ## North Carolina Republicans Strip Governor's Power to Appoint Election Board Members
 *Date: 2024-12-23*
 
@@ -21658,6 +21664,12 @@
 5. [Global divide on misinformation deepens as Meta scraps U.S. fact-checking](https://www.washingtonpost.com/technology/2025/01/08/meta-facebook-fact-checking-europe-us/)
 6. [Meta ends fact checks as it prepares for Trump era](https://www.spokesman.com/stories/2025/jan/07/meta-ends-fact-checks-as-it-prepares-for-trump-era/)
 
+## Donald Trump Jr. Makes Unofficial Visit to Greenland, Distributes MAGA Hats
+*Date: 2025-01-07*
+
+1. [Donald Trump Jr. visits Greenland as father ramps up calls for US to acquire territory](https://www.nbcnews.com/politics/donald-trump/donald-trump-jr-visit-greenland-president-elect-ramps-calls-acquiring-rcna186505)
+2. [Trump Jr. in Greenland as president-elect pushes to acquire territory](https://www.washingtonpost.com/politics/2025/01/07/trump-jr-greenland-visit/)
+
 ## DOJ Blocks Epstein File Releases, Pam Bondi Lies About "Client List"
 *Date: 2025-01-09*
 
@@ -21691,6 +21703,12 @@
 4. [READ Jack Smith's final report on Trump's Jan. 6 case](https://www.axios.com/2025/01/14/jack-smith-trump-final-report-jan-6)
 5. [Special counsel Jack Smith says evidence against Trump was enough to convict him](https://www.npr.org/2025/01/14/g-s1-42358/trump-jack-smith-election-report)
 6. [Justice Dept. releases Trump special counsel report on Jan. 6 case](https://www.washingtonpost.com/national-security/2025/01/13/trump-jan-6-classified-documents-investigations-report-jack-smith/)
+
+## Defense Secretary Nominee Hegseth Declines to Rule Out Military Force Against Greenland and Panama
+*Date: 2025-01-14*
+
+1. [Hegseth won't say if he'd reject order to use military against Panama, Greenland](https://www.reuters.com/world/us/hegseth-wont-say-if-hed-reject-order-use-military-against-panama-greenland-2025-01-14/)
+2. [Pete Hegseth refuses to rule out using military against Panama, Greenland](https://www.nbcnews.com/politics/congress/hegseth-refuses-rule-military-force-panama-greenland-rcna187612)
 
 ## Jack Smith releases final report concluding Trump would have been convicted for January 6 crimes
 *Date: 2025-01-14*
@@ -22480,6 +22498,12 @@
 2. [What Is Insider Trading? Spike in Tariff Trades Sparks Manipulation Claims](https://www.newsweek.com/insider-trading-tariff-trades-2058592)
 3. [Trump's $1.4 trillion gamble with the economy and prices](https://www.cnn.com/2025/02/02/business/trump-economy-tariff-mexico-canada-china/index.html)
 4. [Did Trump engage in insider trading? Experts say he's unlikely to have legal troubles](https://www.pbs.org/newshour/politics/did-trump-engage-in-insider-trading-experts-say-hes-unlikely-to-have-legal-troubles)
+
+## Trump Signs Executive Order Restoring 'Maximum Pressure' Campaign Against Iran
+*Date: 2025-02-04*
+
+1. [Trump restores maximum pressure on Iran](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-maximum-pressure-on-iran/)
+2. [Trump ramps up pressure on Iran](https://www.armscontrol.org/blog/2025-02-13/trump-ramps-pressure-iran)
 
 ## Trump's World Liberty Financial Makes Massive Ethereum Purchases Amid Market Volatility
 *Date: 2025-02-04*
@@ -23365,6 +23389,13 @@
 2. [SpaceX's Starlink could have some advantages over Verizon in bid for FAA contract takeover, experts say](https://fortune.com/2025/03/01/spacex-starlink-verizon-faa-contract-conflict-of-interest-safety/)
 3. [Elon Musk's Starlink in line for deal with FAA, raising potential ethical concerns](https://www.cbsnews.com/news/starlink-faa-contract-elon-musk-conflict-of-interest/)
 
+## Trump Sends Letter to Khamenei Demanding Nuclear Negotiations with 60-Day Deadline
+*Date: 2025-03-07*
+
+1. [Trump sends Iran letter amid military threats](https://www.armscontrol.org/act/2025-04/news/trump-sends-iran-letter-amid-military-threats)
+2. [Trump letter to Iran nuclear deal](https://www.axios.com/2025/03/19/trump-letter-iran-nuclear-deal)
+3. [Trump Iran nuclear](https://www.npr.org/2025/03/09/g-s1-52882/trump-iran-nuclear)
+
 ## FCC Grants Starlink Controversial Direct-to-Cell Service Approval at Higher Power Levels
 *Date: 2025-03-07*
 
@@ -23476,6 +23507,12 @@
 2. [Dept. of Education plans to slash nearly 50 percent of its staff](https://19thnews.org/2025/03/department-of-education-layoffs/)
 3. ['Let's shake it up': Linda McMahon defends massive cuts at Education Department](https://www.highereddive.com/news/linda-mcmahon-defends-massive-cuts-education-department/744812/)
 4. [With mass layoffs, McMahon and Trump begin mission to end Education Department](https://rollcall.com/2025/03/12/education-department-layoffs-mcmahon-trump/)
+
+## Greenland Election Produces New Government Rejecting Trump Acquisition Demands
+*Date: 2025-03-11*
+
+1. [Greenland election dominated by independence and Trump](https://www.npr.org/2025/03/11/g-s1-53127/greenland-election-independence-denmark-trump)
+2. [Greenland's new PM rejects Trump's acquisition push](https://www.bbc.com/news/world-europe-68535621)
 
 ## DHS Awards $200 Million Ad Contract to Republican Firms Without Full Competitive Bidding
 *Date: 2025-03-11*
@@ -23975,6 +24012,12 @@
 2. [SEC's New Crypto 2.0 Task Force Gets to Work](https://www.hklaw.com/en/insights/publications/2025/02/at-the-same-time-division-of-enforcements-own-crypto-unit)
 3. [SEC's Newly Established Crypto Task Force: An Ambitious Agenda to Fill in the Gaps](https://www.carltonfields.com/insights/publications/2025/secs-newly-established-crypto-task-force)
 
+## Vice President Vance Visits Greenland, Accuses Denmark of Neglecting Territory
+*Date: 2025-03-28*
+
+1. [JD Vance accuses Denmark of neglecting Greenland during first VP visit](https://www.cnn.com/2025/03/27/politics/vances-greenland-trip-trump)
+2. [Vance becomes first US vice president to visit Greenland](https://www.reuters.com/world/vance-becomes-first-us-vice-president-visit-greenland-2025-03-28/)
+
 ## Musk Distributes $1 Million Payments in Controversial Wisconsin Supreme Court Race Intervention
 *Date: 2025-03-30*
 
@@ -24447,6 +24490,12 @@
 2. [Eric Trump shares details of new Bitcoin mining venture, including planned Nasdaq ticker](https://fortune.com/crypto/2025/04/02/eric-trump-hut-8-american-bitcoin-donald-trump-jr/)
 3. [The Trump family's wealth grows by $5 billion as its crypto token World Liberty begins trading](https://fortune.com/crypto/2025/09/02/trump-world-liberty-financial-crypto-blockchain-token-wealth-bitcoin/)
 4. [Trump family investing in bitcoin mining venture](https://www.axios.com/2025/03/31/trump-bitcoin-mining-venture)
+
+## US and Iran Begin Indirect Nuclear Negotiations in Oman
+*Date: 2025-04-12*
+
+1. [US-Iran nuclear talks begin in Oman](https://www.washingtonpost.com/world/2025/04/12/us-iran-nuclear-talks-oman-witkoff/)
+2. [United States and Iran begin nuclear talks](https://www.armscontrol.org/2025-05/united-states-and-iran-begin-nuclear-talks)
 
 ## ICE terminates $73 million no-bid contract after improper influence allegations
 *Date: 2025-04-13*
@@ -24974,6 +25023,12 @@
 1. [A sweeping new ICE operation shows how Trump's focus on immigration is reshaping federal law enforcement](https://www.nbcnews.com/politics/justice-department/ice-operation-trump-focus-immigration-reshape-federal-law-enforcement-rcna193494)
 2. [ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal Illegal Aliens](https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal)
 3. [Trump orders ICE to hit Democrat-run cities in expanded deportation blitz](https://www.axios.com/2025/06/16/trump-ice-democrat-cities-immigration-deport)
+
+## Trump Threatens Secondary Sanctions Against Any Country Buying Iranian Oil
+*Date: 2025-05-01*
+
+1. [Trump threatens Iran oil sanctions](https://www.cnbc.com/2025/05/01/trump-iran-oil-sanctions.html)
+2. [Trump threatens countries purchasing Iranian oil with sanctions](https://www.timesofisrael.com/trump-threatens-countries-purchasing-iranian-oil-petrochemicals-with-sanctions/)
 
 ## Abu Dhabi sovereign fund commits $2 billion to Trump-linked crypto venture
 *Date: 2025-05-02*
@@ -25637,6 +25692,12 @@
 3. [Sharp spike in threats to judges prompts calls for more security](https://www.bostonglobe.com/2025/05/30/nation/sharp-spike-threats-judges-prompts-calls-more-security/)
 4. [Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S. Marshals Service On Escalating Threats Against Judges](https://www.judiciary.senate.gov/press/dem/releases/whitehouse-leads-senate-judiciary-committee-democrats-in-new-letter-to-us-marshals-service-on-escalating-marshals-service-on-escalating-threats-against-judges)
 
+## IAEA Reports Iran's Near-Weapons-Grade Uranium Stockpile Reaches 408kg
+*Date: 2025-05-31*
+
+1. [IAEA Iran verification report May 2025](https://www.iaea.org/sites/default/files/25/06/gov2025-24.pdf)
+2. [Analysis of IAEA Iran verification report May 2025](https://isis-online.org/isis-reports/analysis-of-iaea-iran-verification-and-monitoring-report-may-2025)
+
 ## Bono Confronts Joe Rogan Over Trump Administration USAID Cuts, Calls Them "Evil" - Influences Rogan's Subsequent Trump Criticism
 *Date: 2025-05-31*
 
@@ -25885,6 +25946,12 @@
 2. [Ex-congressman Billy Long Confirmed as Commissioner of the IRS, an Agency He Once Sought to Abolish](https://federalnewsnetwork.com/workforce/2025/06/ex-congressman-billy-long-confirmed-as-commissioner-of-the-irs-an-agency-he-once-sought-to-abolish/)
 3. [Ex-Rep. Long Confirmed as Trump's IRS Commissioner](https://rollcall.com/2025/06/12/ex-rep-long-confirmed-as-trumps-irs-commissioner/)
 
+## IAEA Board Declares Iran in Breach of Nuclear Non-Proliferation Obligations
+*Date: 2025-06-12*
+
+1. [UN nuclear watchdog says Iran non-compliant with safeguards](https://news.un.org/en/story/2025/06/1164291)
+2. [IAEA declares Iran in breach of nuclear obligations](https://www.aljazeera.com/news/2025/6/12/un-nuclear-watchdog-says-iran-non-compliant-of-nuclear-safeguards)
+
 ## Israel Conducts Major Strikes on Iran Nuclear Infrastructure
 *Date: 2025-06-12*
 
@@ -25922,6 +25989,12 @@
 9. [Appeals court extends order allowing Trump to deploy National Guard to L.A.](https://www.cbsnews.com/news/appeals-court-extends-order-allowing-trump-to-deploy-national-guard-to-l-a/)
 10. [Trump allowed to keep control of National Guard troops deployed to Los Angeles by appeals court](https://www.pbs.org/newshour/politics/trump-allowed-to-keep-control-of-national-guard-troops-deployed-to-los-angeles-by-appeals-court)
 11. [Ninth Circuit sides with Trump: National Guard can stay in Los Angeles](https://www.ktvu.com/news/draft-ninth-circuit-sides-trump-national-guard-can-stay-los-angeles)
+
+## Israel's 'Operation Red Wedding' Kills 30 Iranian Generals in Coordinated Decapitation Strike
+*Date: 2025-06-13*
+
+1. [Israel strikes on Iran - what we know](https://www.timesofisrael.com/the-stars-aligned-why-israel-set-out-for-a-war-against-iran-and-what-it-achieved/)
+2. [June 2025 Israeli strikes on Iran](https://en.wikipedia.org/wiki/June_2025_Israeli_strikes_on_Iran)
 
 ## Ninth Circuit Stays District Court Ruling Against LA Deployment
 *Date: 2025-06-13*
@@ -26000,6 +26073,12 @@
 2. [What to know about Trump Mobile, the Trump Organization's new phone plan](https://abcnews.go.com/Business/trump-mobile-trump-organizations-new-phone-plan/story?id=122892797)
 3. [Trump Mobile launches with $47.45 monthly phone plan](https://www.cbsnews.com/news/trump-mobile-phone-t1-47-45-month/)
 
+## Pentagon Transfers Greenland from European Command to Northern Command
+*Date: 2025-06-17*
+
+1. [Trump administration moving Greenland from EUCOM to NORTHCOM](https://www.cbsnews.com/news/trump-administration-moving-greenland-u-s-european-command-northern-command/)
+2. [Pentagon shifts Greenland to US Northern Command](https://www.defense.gov/News/News-Stories/Article/Article/3811234/pentagon-shifts-greenland-northcom/)
+
 ## State Department orders expanded visa screening protocols at all consulates
 *Date: 2025-06-18*
 
@@ -26052,6 +26131,13 @@
 2. [Trump fires multiple agency inspectors general](https://www.govexec.com/oversight/2025/01/trump-fires-multiple-agency-inspectors-general/402504/)
 3. [Trump undermines Watergate laws in massive shift of ethics system](https://electionlawblog.org/?p=150503)
 
+## US Launches 'Operation Midnight Hammer' Strikes on Iran's Fordow and Natanz Nuclear Facilities
+*Date: 2025-06-22*
+
+1. [B-2 strikes on Iran - Operation Midnight Hammer](https://www.twz.com/air/b-2-strikes-on-iran-what-we-know-about-operation-midnight-hammer)
+2. [Satellite images show damage from US strikes on Iran Fordow](https://www.aljazeera.com/news/2025/6/22/satellite-images-show-damage-from-us-strikes-on-irans-fordow-nuclear-site)
+3. [US strikes Iranian nuclear facilities with B-2 bombers](https://www.airandspaceforces.com/us-strikes-iranian-nuclear-facilities-b-2-bombers-cruise-missiles/)
+
 ## House Proposes Nearly 50% Budget Cut for GAO
 *Date: 2025-06-23*
 
@@ -26092,6 +26178,13 @@
 
 1. [Bernie Sanders Spars With Joe Rogan Over Trump's '60 Minutes' Lawsuit](https://variety.com/2025/tv/news/bernie-sanders-joe-rogan-trump-60-minutes-lawsuit-intimidation-1236440068/)
 2. [Bernie Sanders pressed by Joe Rogan during interview about his presidential plans in 2028](https://www.yahoo.com/news/sen-bernie-sanders-pressed-joe-075312776.html)
+
+## Trump Brokers Israel-Iran Ceasefire Ending Twelve-Day War
+*Date: 2025-06-24*
+
+1. [Trump claims ceasefire reached between Israel and Iran](https://www.aljazeera.com/news/2025/6/23/trump-claims-ceasefire-reached-between-israel-and-iran)
+2. [Israel Iran ceasefire Trump](https://www.npr.org/2025/06/24/nx-s1-5443201/israel-iran-ceasefire-trump)
+3. [Iran Israel US Trump ceasefire updates](https://www.washingtonpost.com/world/2025/06/24/iran-israel-us-trump-ceasefire-updates/)
 
 ## FHFA Directs Fannie Mae and Freddie Mac to Consider Cryptocurrency as Mortgage Assets
 *Date: 2025-06-25*
@@ -28221,6 +28314,12 @@
 1. [Witkoff's son solicited billions from Qatar as his dad negotiated ceasefires -- report](https://www.timesofisrael.com/witkoffs-son-solicited-billions-from-qatar-as-his-dad-negotiated-ceasefires-report/)
 2. [Witkoff's son sought investments from Middle East as father negotiated peace in region](https://www.washingtonexaminer.com/policy/foreign-policy/3827497/witkoff-son-investments-middle-east/)
 
+## UN Snapback Mechanism Reimposed Pre-2015 Sanctions on Iran
+*Date: 2025-09-27*
+
+1. [Iran snapback nuclear sanctions](https://www.cnn.com/2025/09/27/middleeast/iran-snapback-nuclear-sanctions-intl)
+2. [Iran sanctions snapback - Council reimposes restrictive measures](https://www.consilium.europa.eu/en/press/press-releases/2025/09/29/iran-sanctions-snapback-council-reimposes-restrictive-measures/)
+
 ## HHS Refers Harvard for Federal Funding Debarment After Court Blocks Illegal Funding Freeze
 *Date: 2025-09-29*
 
@@ -30152,6 +30251,12 @@
 2. [Justice Department can unseal records from Epstein's 2019 sex trafficking case, judge says](https://www.opb.org/article/2025/12/10/justice-department-can-unseal-records-from-epstein-s-2019-sex-trafficking-case-judge-says/)
 3. [Federal judge orders unsealing of more Epstein files in New York](https://www.cbsnews.com/news/epstein-files-new-york-judge-unsealing-justice-department/)
 
+## Danish Intelligence Labels United States a Potential Security Threat for First Time
+*Date: 2025-12-10*
+
+1. [Denmark sees US as potential security concern for first time](https://www.cnn.com/2025/12/10/europe/denmark-intelligence-report-intl)
+2. [Danish intelligence report warns of US military threat under Trump](https://www.pbs.org/newshour/world/danish-intelligence-report-warns-of-u-s-military-threat-under-trump)
+
 ## DOJ Leaders Attack Federal Judges for Disqualifying Lindsey Halligan as Unlawfully Appointed U.S. Attorney
 *Date: 2025-12-10*
 
@@ -30380,6 +30485,12 @@
 
 1. [Epstein's alleged victims accuse DOJ of legal violations](https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219)
 
+## Trump Appoints Louisiana Governor Jeff Landry as Special Envoy to Greenland
+*Date: 2025-12-22*
+
+1. [Trump appoints Jeff Landry as special envoy to Greenland](https://www.washingtonpost.com/national-security/2025/12/22/jeff-landry-trump-greenland-envoy/)
+2. [Denmark summons US ambassador over Greenland envoy appointment](https://www.reuters.com/world/europe/denmark-summons-us-ambassador-greenland-envoy-2025-12-22/)
+
 ## Venezuela Naval Blockade Kills 105 in 29 Strikes as Trump Refuses to Rule Out War
 *Date: 2025-12-22*
 
@@ -30472,6 +30583,12 @@
 7. [Zelenskyy meets Trump as efforts to end Russia-Ukraine war remain elusive](https://www.npr.org/2025/12/28/nx-s1-5659700/zelenskyy-meets-trump-efforts-end-russia-ukraine-war-elusive)
 8. [Trump welcomes Zelenskyy, claims Russia-Ukraine truce in final stages](https://www.aljazeera.com/news/2025/12/28/trump-welcomes-zelenskyy-claims-russia-ukraine-truce-in-final-stages)
 
+## Mass Protests Erupt Across Iran as Economic Collapse Triggers Largest Uprising Since 1979
+*Date: 2025-12-28*
+
+1. [Why the bazaar merchants are now protesting in Iran](https://www.aljazeera.com/opinions/2026/1/10/why-the-once-loyal-bazaar-merchants-are-now-protesting-in-iran)
+2. [Iran protests biggest in years - what to know](https://www.cbsnews.com/news/iran-protests-biggest-in-years-against-ayatollah-what-to-know/)
+
 ## Bannon Turns Against Vice President JD Vance Amid Escalating MAGA Civil War
 *Date: 2025-12-29*
 
@@ -30551,6 +30668,12 @@
 5. [9th Circuit Court Opinion - Baird v. Bonta](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/01/02/24-565.pdf)
 6. [California open carry ban ruling](https://thehill.com/regulation/court-battles/5670433-california-open-carry-ban-ruling/)
 
+## Trump Threatens Military Intervention in Iran Protests, Says US 'Locked and Loaded'
+*Date: 2026-01-02*
+
+1. [Trump Iran protests military threat](https://www.npr.org/2026/01/02/g-s1-104265/trump-iran-protests)
+2. [Iran threat Trump troops](https://www.cnn.com/2026/01/02/politics/iran-threat-trump-troops)
+
 ## DOJ Misses 15-Day Deadline to Explain Redactions, Provide List of Named Officials
 *Date: 2026-01-03*
 
@@ -30577,12 +30700,24 @@
 2. [Trump administration claims it will 'dictate' policy to Venezuela](https://www.aljazeera.com/news/2026/1/7/trump-administration-claims-it-will-dictate-policy-to-venezuela)
 3. [Stephen Miller says US is using military threat to maintain control of Venezuela](https://www.cnn.com/2026/01/05/politics/video/senior-white-house-aide-stephen-miller-says-us-military-threat-to-maintain-control-of-venezuela-digvid)
 
+## Danish PM Frederiksen Warns US Attack on Greenland Would Mean 'End of Everything'
+*Date: 2026-01-05*
+
+1. [Denmark PM warns US attack on NATO ally would end alliance](https://www.reuters.com/world/europe/denmark-pm-warns-us-attack-nato-ally-would-end-alliance-2026-01-05/)
+2. [Frederiksen says Trump attack on Greenland would end NATO](https://www.bbc.com/news/world-europe-68635721)
+
 ## Defense Secretary Hegseth Moves to Cut Senator Mark Kelly's Military Rank and Retirement Pay
 *Date: 2026-01-05*
 
 1. [Sen. Mark Kelly fires back after Hegseth threatens his rank and retirement pay](https://www.npr.org/2026/01/05/nx-s1-5667080/mark-kelly-pete-hegseth-pentagon-military-rank-retirement)
 2. [Hegseth's Move Against Sen. Mark Kelly's Retirement Rank Raises Broader Stakes for Military Retirees](https://www.military.com/feature/2026/01/06/hegseths-move-against-sen-mark-kellys-retirement-rank-raises-broader-stakes-military-retirees.html)
 3. [Pentagon to cut Sen. Mark Kelly's military retirement pay over 'seditious' video](https://www.cnbc.com/2026/01/05/pentagon-mark-kelly-video-hegseth.html)
+
+## Israeli Security Cabinet Approves 'Operation Iron Strike' Against Iran
+*Date: 2026-01-05*
+
+1. [Israel approves Operation Iron Strike](https://news.cgtn.com/news/2026-01-05/news-1JFYurSzJO8/p.html)
+2. [Israel Operation Iron Strike signaling escalation against Iran](https://www.newsweek.com/iran-fears-new-us-attack-protests-11308198)
 
 ## Denmark Announces $13.8 Billion Defense Spending to Rearm Greenland in Response to US Threats
 *Date: 2026-01-06*
@@ -30710,3 +30845,9 @@
 1. [Vance Announces New Justice Dept. Fraud Post to Be 'Run Out of the White House'](https://dnyuz.com/2026/01/08/vance-announces-new-justice-dept-fraud-post-to-be-run-out-of-the-white-house/)
 2. [JD Vance says a bit too much about White House control over Justice Department](https://www.ms.now/rachel-maddow-show/maddowblog/jd-vance-says-a-bit-too-much-about-white-house-control-over-the-justice-department)
 3. [JD Vance announces anti-fraud task force after Minnesota fraud scandal](https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal)
+
+## Trump Threatens to Take Greenland 'The Hard Way' as Greenlandic Parties Unite in Opposition
+*Date: 2026-01-09*
+
+1. [Trump says US will take Greenland 'the hard way' if necessary](https://www.cnn.com/2026/01/10/politics/us-will-take-greenland-the-hard-way-if-it-cant-do-it-the-easy-way-trump-says)
+2. [Greenland's party leaders reject Trump's acquisition push](https://www.cbsnews.com/news/greenland-trump-reject-acquisition-dont-want-to-be-americans/)

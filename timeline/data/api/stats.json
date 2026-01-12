@@ -1,15 +1,15 @@
 {
-  "total_events": 4115,
-  "total_tags": 6380,
-  "total_actors": 7829,
-  "total_sources": 14251,
+  "total_events": 4138,
+  "total_tags": 6397,
+  "total_actors": 7848,
+  "total_sources": 14300,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2026-01-08"
+    "end": "2026-01-09"
   },
   "status_counts": {
     "unknown": 936,
-    "confirmed": 3131,
+    "confirmed": 3154,
     "validated": 29,
     "disputed": 2,
     "verified": 1,
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1055
+      "count": 1070
     },
     {
       "name": "Trump Administration",
@@ -106,5 +106,5 @@
       "count": 71
     }
   ],
-  "generated": "2026-01-12T15:26:15.976044"
+  "generated": "2026-01-12T17:11:31.076077"
 }
