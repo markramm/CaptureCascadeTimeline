@@ -1,15 +1,15 @@
 {
-  "total_events": 4138,
-  "total_tags": 6397,
-  "total_actors": 7848,
-  "total_sources": 14300,
+  "total_events": 4144,
+  "total_tags": 6403,
+  "total_actors": 7849,
+  "total_sources": 14311,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2026-01-09"
+    "end": "2026-01-12"
   },
   "status_counts": {
     "unknown": 936,
-    "confirmed": 3154,
+    "confirmed": 3160,
     "validated": 29,
     "disputed": 2,
     "verified": 1,
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1070
+      "count": 1075
     },
     {
       "name": "Trump Administration",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Department of Justice",
-      "count": 259
+      "count": 261
     },
     {
       "name": "Elon Musk",
@@ -106,5 +106,5 @@
       "count": 71
     }
   ],
-  "generated": "2026-01-12T17:11:31.076077"
+  "generated": "2026-01-12T18:08:28.454633"
 }

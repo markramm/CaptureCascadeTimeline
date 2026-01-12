@@ -198195,6 +198195,43 @@
       "_id_hash": "045c1178901f09bffd8e03f8bb61a3449099f3c1cd4a530494b5be9d027779f7"
     },
     {
+      "id": "2025-08-25--trump-attempts-to-fire-fed-governor-lisa-cook",
+      "date": "2025-08-25",
+      "title": "Trump Attempts First-Ever Firing of Federal Reserve Governor, Lisa Cook Sues",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Lisa Cook",
+        "Bill Pulte",
+        "Federal Reserve"
+      ],
+      "tags": [
+        "federal-reserve",
+        "lisa-cook",
+        "fed-independence",
+        "authoritarianism",
+        "humphreys-executor"
+      ],
+      "sources": [
+        {
+          "title": "Trump asks Supreme Court to allow firing Fed member Lisa Cook",
+          "url": "https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-fire-fed-member-lisa-cook-rcna232165",
+          "outlet": "NBC News",
+          "tier": 1
+        },
+        {
+          "title": "Trump Supreme Court fire Lisa Cook Fed",
+          "url": "https://www.cnn.com/2025/09/18/politics/trump-supreme-court-fire-lisa-cook-fed",
+          "outlet": "CNN",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "summary": "Trump announced he was firing Federal Reserve Governor Lisa Cook over allegations of mortgage fraud made by Bill Pulte, marking the first time in the Fed's 112-year history a president attempted to fire a governor. Cook sued Trump, the Board of Governors, and Jerome Powell, arguing Trump lacked authority to fire her under the Federal Reserve Act's \"for cause\" provision. D.C. District Judge Jia Cobb issued a preliminary injunction preventing Cook's removal, finding she made \"a strong showing that her purported removal was done in violation\" of the law. The case, which the Supreme Court agreed to hear with oral arguments in January 2026, could determine whether presidents can fire Fed governors at will, potentially ending Fed independence from political pressure.",
+      "_file": "2025-08-25--trump-attempts-to-fire-fed-governor-lisa-cook.md",
+      "_id_hash": "6b707873823490a1cefe8abfbefb65a6d143dd0d96ce586927781c5fc9de478e"
+    },
+    {
       "id": "2025-08-25--trump-end-cashless-bail-executive-orders",
       "date": "2025-08-25",
       "title": "Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal Funds",
@@ -217108,6 +217145,34 @@
       "_id_hash": "724b766d48f7bff70f1233904e54e09f774d676b03e34c4392b7346a584cadab"
     },
     {
+      "id": "2025-12-11--fed-reappoints-regional-presidents-trump-proofing",
+      "date": "2025-12-11",
+      "title": "Federal Reserve Board Unanimously Reappoints Regional Bank Presidents in 'Trump-Proofing' Move",
+      "importance": 8,
+      "actors": [
+        "Federal Reserve Board",
+        "Jerome Powell",
+        "Stephen Miran"
+      ],
+      "tags": [
+        "federal-reserve",
+        "fed-independence",
+        "trump-proofing"
+      ],
+      "sources": [
+        {
+          "title": "Fed independence presidents reappointment board governors",
+          "url": "https://fortune.com/2025/12/12/fed-independence-presidents-reappointment-board-governors-fomc-votes-rate-cuts/",
+          "outlet": "Fortune",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "summary": "The Federal Reserve Board unanimously reappointed 11 of 12 regional bank presidents to five-year terms beginning March 1, 2026, in what was described as \"Trump-proofing\" the Fed. The move closed a potential loophole that could have allowed political interference with regional bank leadership. Notably, all three Trump-appointed governors voted in favor of the reappointments. The FOMC also has the power to select its own chair, meaning Powell could potentially continue leading monetary policy meetings even after a new board chair is installed, as he holds two separate positions: Chair of the Board of Governors and Chair of the FOMC.",
+      "_file": "2025-12-11--fed-reappoints-regional-presidents-trump-proofing.md",
+      "_id_hash": "247814f77a34b5835e7f4c821a93504db99331e84a86595ce967613afa3ee3c2"
+    },
+    {
       "id": "2025-12-11--miller-attacks-1965-immigration-act-somali-targeting",
       "date": "2025-12-11",
       "title": "Stephen Miller Attacks 1965 Civil Rights Immigration Law, Suggests America Better Off with 1920s Racial Quotas",
@@ -217265,6 +217330,54 @@
       "summary": "The Department of Justice announced on December 12, 2025 that it had sued four additional states—Colorado, Hawaii, Massachusetts, and Nevada—demanding complete, unredacted voter registration lists including driver's license numbers and partial Social Security numbers, bringing the total number of states sued to 18. This represents an unprecedented federal campaign to create a centralized national voter database, with the DOJ having contacted at least 40 states since May 2025 demanding sensitive voter information.\n\nThe 18 states sued are: California, Colorado, Delaware, Hawaii, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Hampshire, New Mexico, New York, Oregon, Pennsylvania, Rhode Island, Vermont, and Washington—all states that Trump lost in the 2020 election and predominantly led by Democratic administrations. The DOJ also sued Fulton County, Georgia for 2020 election records. Assistant Attorney General Harmeet Dhillon claimed the lawsuits enforce federal election laws including the National Voter Registration Act, Help America Vote Act, and Civil Rights Act of 1960, while announcing that DOJ investigations had identified 260,000 deceased individuals and thousands of alleged non-citizens on voter rolls.\n\nState officials mounted fierce resistance, with Massachusetts Secretary of the Commonwealth Bill Galvin condemning the lawsuit as \"simply another example of the Trump Department of Justice's campaign to intimidate states\" and refusing to hand over voter personal data for \"outrageous fishing expeditions.\" Colorado Secretary of State Jena Griswold declared \"We will not hand over Coloradans' sensitive voting information to Donald Trump,\" while Massachusetts Attorney General Andrea Joy Campbell stated \"The privacy of Massachusetts voters is not up for negotiation\" and pledged to defend against misuse of voter information for a \"cruel and harmful agenda.\"\n\nCivil liberties organizations filed motions to intervene in multiple lawsuits to protect voter privacy. The ACLU and Common Cause intervened in Rhode Island's case, with the ACLU of Rhode Island calling the federal probe \"a major threat to the privacy of Rhode Island voters,\" warning that \"Drivers' licenses and social security numbers provided as part of the voter registration process are sensitive pieces of information that deserve to be protected and that the Department of Justice has absolutely no legitimate need for.\" In California, the court granted intervention motions from the NAACP, League of Women Voters, and SIREN, with these organizations arguing that releasing sensitive voter data would \"violate state privacy laws and chill voter participation, particularly among Black and immigrant voters.\"\n\nElection security experts raised alarms about the unprecedented nature of the data collection effort. David Becker, founder of the Center for Election Innovation & Research and former DOJ attorney, stated \"It appears the Justice Department is trying to acquire sensitive information on all Americans for who knows what purpose, with very, very questionable statutory authority.\" Becker warned that \"All of these seem designed not to create a viable election policy, but to lay the groundwork to claim the 2026 and 2028 elections are stolen.\" The Brennan Center for Justice documented the campaign and noted that organizations warned the DOJ effort represents \"a national voter database, which Congress has never authorized,\" with potential for \"large-scale voter purges based on faulty database matching techniques cooked up by election deniers.\"\n\nThe voter data seizure program represents a comprehensive federal surveillance infrastructure targeting American voters, with states raising concerns that the DOJ intends to use the information \"for the enforcement of immigration laws\" or \"in a manner that intimidates a voter.\" Privacy concerns were heightened by the DOJ's refusal to guarantee data protection under the Privacy Act of 1974, with Minnesota reporting it asked DOJ to guarantee data security but received no response before being sued. Only two states—Indiana and Wyoming—voluntarily provided complete voter rolls to the DOJ.\n\nThis escalation follows earlier DOJ voter data demands documented since May 2025, with the department having reviewed 47.5 million voter records across nearly 30 states by December. The creation of an unprecedented centralized federal voter database, combined with the DOJ's parallel gutting of voting rights enforcement, represents what civil liberties advocates characterize as infrastructure for mass voter suppression, intimidation, and potential purges—particularly targeting Democratic-led states and communities of color—while establishing the groundwork to challenge legitimate election results in 2026 and 2028.",
       "_file": "2025-12-12--doj-expands-voter-data-lawsuits-to-18-states.md",
       "_id_hash": "6844c37fde58413612673791363727ea8cc453caf3b3cd8c4d685dc56ef7122a"
+    },
+    {
+      "id": "2025-12-12--house-releases-100000-epstein-photos-trump-bannon-clinton",
+      "date": "2025-12-12",
+      "title": "House Committee Releases 100,000 Epstein Estate Photos Showing Trump, Bannon, Clinton, Gates",
+      "importance": 9,
+      "actors": [
+        "House Oversight Committee",
+        "Donald Trump",
+        "Steve Bannon",
+        "Bill Clinton",
+        "Bill Gates",
+        "Jeffrey Epstein",
+        "Ghislaine Maxwell",
+        "Prince Andrew"
+      ],
+      "tags": [
+        "epstein",
+        "transparency",
+        "photographs",
+        "trump",
+        "bannon",
+        "clinton"
+      ],
+      "sources": [
+        {
+          "title": "New Epstein photos show Trump, Clinton, Bill Gates, Woody Allen, Steve Bannon",
+          "url": "https://www.nbcnews.com/politics/politics-news/new-epstein-photos-show-trump-clinton-bill-gates-woody-allen-steve-ban-rcna248819",
+          "outlet": "NBC News",
+          "tier": 1
+        },
+        {
+          "title": "Photos from Epstein's estate released showing high-profile figures",
+          "url": "https://www.cnn.com/2025/12/12/politics/epstein-photos-trump-clinton-bannon",
+          "outlet": "CNN",
+          "tier": 1
+        },
+        {
+          "title": "House Democrats release Epstein estate photos",
+          "url": "https://www.washingtonpost.com/politics/2025/12/12/epstein-photos-trump-clinton-gates-bannon-andrew/",
+          "outlet": "Washington Post",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "summary": "House Oversight Committee Democrats released nearly 100,000 photos from Jeffrey Epstein's estate showing him with high-profile figures including Donald Trump (multiple photos from 1990s/2000s), Steve Bannon (sitting at desk with Epstein and a selfie in mirror), Bill Clinton (standing with Epstein and Ghislaine Maxwell in a signed photo), Bill Gates (multiple photos including one smiling with Prince Andrew), Alan Dershowitz, Woody Allen, Larry Summers, Richard Branson, Mick Jagger (sitting between Epstein and Clinton), Michael Jackson (next to Clinton), Kevin Spacey, Chris Tucker, and Prince Andrew. Trump dismissed the photos as \"no big deal\" and defended Clinton, saying \"I don't like the pictures of Bill Clinton being shown.\"",
+      "_file": "2025-12-12--house-releases-100000-epstein-photos-trump-bannon-clinton.md",
+      "_id_hash": "e722acc35c61e80705b4fd164f00076bf2566eff42d5ca6ec4c6d7490a6ee887"
     },
     {
       "id": "2025-12-13--va-plans-eliminate-35000-healthcare-positions",
@@ -219039,6 +219152,36 @@
       "summary": "On Christmas Eve, the Department of Justice announced it had discovered over 1 million additional FBI documents related to Jeffrey Epstein, representing an 'extraordinary about-face' from the Trump administration's July 2025 position when FBI and DOJ indicated in an unsigned memo they had completed an 'exhaustive review' with no additional evidence to release. Representatives Thomas Massie and Ro Khanna, co-authors of the Epstein Files Transparency Act, stated 'there is reasonable suspicion that the DOJ has overstated the scope of responsive materials, thereby portraying compliance as unmanageable and effectively delaying disclosure.' By December 31, the review would expand to 5.2 million pages. All figures were self-reported by DOJ with no independent verification. The timing—Christmas Eve—suggested strategic burial of damaging news about the department's failure to meet the law's 30-day deadline.",
       "_file": "2025-12-24--doj-discovers-over-1-million-additional-epstein-documents.md",
       "_id_hash": "c515be67502273994c0a9e102c5bd50828e2ebbea3e219991050d3b0f0067c7a"
+    },
+    {
+      "id": "2025-12-24--trump-demands-fed-loyalty-test-rate-cuts",
+      "date": "2025-12-24",
+      "title": "Trump Declares Support for Rate Cuts 'Litmus Test' for Fed Chair Nominees",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Jerome Powell",
+        "Kevin Hassett",
+        "Kevin Warsh"
+      ],
+      "tags": [
+        "federal-reserve",
+        "fed-independence",
+        "authoritarianism",
+        "interest-rates"
+      ],
+      "sources": [
+        {
+          "title": "Trump says anyone who disagrees with him will never head Federal Reserve",
+          "url": "https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve",
+          "outlet": "Al Jazeera",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "summary": "Trump declared that support for immediately cutting interest rates was a \"litmus test\" for his Federal Reserve chair pick to replace Jerome Powell, stating that \"anyone who disagrees\" with him would never head the Fed. Trump had previously called Powell \"a major loser,\" a \"numbskull,\" a \"stiff,\" and a \"deadhead,\" demanding his resignation. The leading candidates were reported to be \"the two Kevins\" - Kevin Hassett (National Economic Council Director and advocate for aggressive rate cuts) and Kevin Warsh (former Fed Governor). Powell's chair term expires May 15, 2026, though his governor term extends to January 2028.",
+      "_file": "2025-12-24--trump-demands-fed-loyalty-test-rate-cuts.md",
+      "_id_hash": "037762f5aca29992467759c98649559e26b0b6cee6d8aa36907b7906fbfb6d66"
     },
     {
       "id": "2025-12-24--twelve-senators-demand-ig-audit-epstein-files-compliance",
@@ -221023,6 +221166,81 @@
       "summary": "Trump escalated threats against Greenland, stating: \"I would like to make a deal the easy way but if we don't do it the easy way, we're going to do it the hard way. We are going to do something on Greenland whether they like it or not. Because if we don't do it, Russia or China will take over Greenland.\" In response, all major Greenlandic political parties issued an unprecedented joint statement: \"We do not want to be Americans, we do not want to be Danes, we want to be Greenlanders.\" Prime Minister Mute Egede declared: \"Greenland is ours. We are not for sale and will never be for sale.\"",
       "_file": "2026-01-09--trump-threatens-hard-way-greenland-acquisition.md",
       "_id_hash": "2940ecc2408373722902de6363becf640f0eba8d8f378640670ea39cde4c596c"
+    },
+    {
+      "id": "2026-01-10--doj-serves-powell-grand-jury-subpoena-criminal-investigation",
+      "date": "2026-01-10",
+      "title": "DOJ Serves Fed Chair Powell with Grand Jury Subpoena in Unprecedented Criminal Investigation",
+      "importance": 10,
+      "actors": [
+        "Jerome Powell",
+        "Donald Trump",
+        "Department of Justice",
+        "Bill Pulte",
+        "Federal Reserve"
+      ],
+      "tags": [
+        "federal-reserve",
+        "powell",
+        "doj",
+        "criminal-investigation",
+        "fed-independence",
+        "authoritarianism"
+      ],
+      "sources": [
+        {
+          "title": "Fed DOJ subpoena building renovation Powell",
+          "url": "https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation",
+          "outlet": "NPR",
+          "tier": 1
+        },
+        {
+          "title": "Fed Jerome Powell criminal probe",
+          "url": "https://www.cnbc.com/2026/01/12/fed-jerome-powell-criminal-probe-nyt.html",
+          "outlet": "CNBC",
+          "tier": 1
+        },
+        {
+          "title": "Trump administration opens criminal probe into Fed chair Jerome Powell",
+          "url": "https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell",
+          "outlet": "Al Jazeera",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "summary": "The DOJ served the Federal Reserve with grand jury subpoenas related to Chairman Jerome Powell's June 2025 Senate testimony about the Fed headquarters renovation project costs. Powell issued an unprecedented video statement saying he was under criminal investigation and would not bow to intimidation: \"The threat of criminal charges is a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the President.\" Federal Housing Finance Agency Director Bill Pulte was identified as a key instigator behind the investigation, having urged Congress for months to probe Powell over \"political bias.\" Treasury Secretary Bessent reportedly told Trump the investigation \"made a mess\" and could harm financial markets.",
+      "_file": "2026-01-10--doj-serves-powell-grand-jury-subpoena-criminal-investigation.md",
+      "_id_hash": "240f618a11bae07e2b0825397209450b9e96a0f2a6bfd815c9e910e495e3732d"
+    },
+    {
+      "id": "2026-01-12--tillis-opposes-fed-nominees-until-powell-investigation-resolved",
+      "date": "2026-01-12",
+      "title": "Senator Tillis Announces Opposition to All Trump Fed Nominees Over Powell Investigation",
+      "importance": 8,
+      "actors": [
+        "Thom Tillis",
+        "Donald Trump",
+        "Jerome Powell",
+        "Department of Justice"
+      ],
+      "tags": [
+        "federal-reserve",
+        "fed-independence",
+        "republican-opposition",
+        "powell"
+      ],
+      "sources": [
+        {
+          "title": "Tillis statement on Federal Reserve nominations",
+          "url": "https://www.tillis.senate.gov/2026/1/tillis-statement-on-federal-reserve-nominations",
+          "outlet": "Senator Tillis Office",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "summary": "Republican Senator Thom Tillis announced he would oppose any Trump Federal Reserve nominee until the DOJ investigation into Jerome Powell is resolved, stating: \"If there were any remaining doubt whether advisers within the Trump Administration are actively pushing to end the independence of the Federal Reserve, there should now be none. It is now the independence and credibility of the Department of Justice that are in question.\" Tillis's opposition, combined with the narrow Republican Senate majority, could potentially block Trump's Fed chair nominee to replace Powell, whose term expires in May 2026.",
+      "_file": "2026-01-12--tillis-opposes-fed-nominees-until-powell-investigation-resolved.md",
+      "_id_hash": "117fa332acf7a87cd415ea5a8598b6ffaf1f8bf0e1b961d1e467f5eda5bbfad3"
     }
   ]
 }

@@ -27521,6 +27521,12 @@
 2. [Leaving the Door Wide Open Flock Surveillance Systems Expose Data](https://jsis.washington.edu/humanrights/2025/10/21/leaving-the-door-wide-open/)
 3. [Flock Safety defends local control as ICE reportedly uses ALPR data](https://www.securitysystemsnews.com/article/flock-safety-defends-local-control-as-ice-reportedly-uses-alpr-data-without-direct-agreement)
 
+## Trump Attempts First-Ever Firing of Federal Reserve Governor, Lisa Cook Sues
+*Date: 2025-08-25*
+
+1. [Trump asks Supreme Court to allow firing Fed member Lisa Cook](https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-fire-fed-member-lisa-cook-rcna232165)
+2. [Trump Supreme Court fire Lisa Cook Fed](https://www.cnn.com/2025/09/18/politics/trump-supreme-court-fire-lisa-cook-fed)
+
 ## Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal Funds
 *Date: 2025-08-25*
 
@@ -30272,6 +30278,11 @@
 2. [Bids for Warner Bros. Discovery face uncertain Trump approval process, some experts say](https://abcnews.go.com/Business/bids-warner-bros-discovery-face-uncertain-trump-approval/story?id=128204415)
 3. [Trump admin views Netflix and Warner Bros. deal with 'heavy skepticism': Senior official](https://www.cnbc.com/2025/12/05/trump-netflix-wbd-deal.html)
 
+## Federal Reserve Board Unanimously Reappoints Regional Bank Presidents in 'Trump-Proofing' Move
+*Date: 2025-12-11*
+
+1. [Fed independence presidents reappointment board governors](https://fortune.com/2025/12/12/fed-independence-presidents-reappointment-board-governors-fomc-votes-rate-cuts/)
+
 ## Stephen Miller Attacks 1965 Civil Rights Immigration Law, Suggests America Better Off with 1920s Racial Quotas
 *Date: 2025-12-11*
 
@@ -30293,6 +30304,13 @@
 3. [Justice Department sues Mass., 17 other states for access to detailed voter data](https://www.wgbh.org/news/national/2025-12-12/justice-department-sues-mass-17-other-states-for-access-to-detailed-voter-data)
 4. [Tracker of Justice Department Requests for Voter Information](https://www.brennancenter.org/our-work/research-reports/tracker-justice-department-requests-voter-information)
 5. [ACLU, Common Cause Take on Trump Administration in Court to Protect Voters' Data](https://www.aclu.org/press-releases/aclu-common-cause-take-on-trump-administration-in-court-to-protect-voters-data)
+
+## House Committee Releases 100,000 Epstein Estate Photos Showing Trump, Bannon, Clinton, Gates
+*Date: 2025-12-12*
+
+1. [New Epstein photos show Trump, Clinton, Bill Gates, Woody Allen, Steve Bannon](https://www.nbcnews.com/politics/politics-news/new-epstein-photos-show-trump-clinton-bill-gates-woody-allen-steve-ban-rcna248819)
+2. [Photos from Epstein's estate released showing high-profile figures](https://www.cnn.com/2025/12/12/politics/epstein-photos-trump-clinton-bannon)
+3. [House Democrats release Epstein estate photos](https://www.washingtonpost.com/politics/2025/12/12/epstein-photos-trump-clinton-gates-bannon-andrew/)
 
 ## VA Plans to Eliminate 35,000 Healthcare Positions Despite Record Veteran Enrollment
 *Date: 2025-12-13*
@@ -30540,6 +30558,11 @@
 *Date: 2025-12-24*
 
 1. [DOJ says it has found over a million additional documents potentially related to Epstein](https://www.cnn.com/2025/12/24/politics/epstein-documents-doj-million)
+
+## Trump Declares Support for Rate Cuts 'Litmus Test' for Fed Chair Nominees
+*Date: 2025-12-24*
+
+1. [Trump says anyone who disagrees with him will never head Federal Reserve](https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve)
 
 ## 12 Bipartisan Senators Demand Inspector General Audit of DOJ Epstein Files Compliance
 *Date: 2025-12-24*
@@ -30851,3 +30874,15 @@
 
 1. [Trump says US will take Greenland 'the hard way' if necessary](https://www.cnn.com/2026/01/10/politics/us-will-take-greenland-the-hard-way-if-it-cant-do-it-the-easy-way-trump-says)
 2. [Greenland's party leaders reject Trump's acquisition push](https://www.cbsnews.com/news/greenland-trump-reject-acquisition-dont-want-to-be-americans/)
+
+## DOJ Serves Fed Chair Powell with Grand Jury Subpoena in Unprecedented Criminal Investigation
+*Date: 2026-01-10*
+
+1. [Fed DOJ subpoena building renovation Powell](https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation)
+2. [Fed Jerome Powell criminal probe](https://www.cnbc.com/2026/01/12/fed-jerome-powell-criminal-probe-nyt.html)
+3. [Trump administration opens criminal probe into Fed chair Jerome Powell](https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell)
+
+## Senator Tillis Announces Opposition to All Trump Fed Nominees Over Powell Investigation
+*Date: 2026-01-12*
+
+1. [Tillis statement on Federal Reserve nominations](https://www.tillis.senate.gov/2026/1/tillis-statement-on-federal-reserve-nominations)

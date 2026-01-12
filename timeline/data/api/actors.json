@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1070
+    "count": 1075
   },
   {
     "name": "Trump Administration",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Department of Justice",
-    "count": 259
+    "count": 261
   },
   {
     "name": "Elon Musk",
@@ -44,15 +44,15 @@
     "count": 71
   },
   {
+    "name": "Jeffrey Epstein",
+    "count": 62
+  },
+  {
     "name": "ICE",
     "count": 62
   },
   {
     "name": "U.S. Supreme Court",
-    "count": 61
-  },
-  {
-    "name": "Jeffrey Epstein",
     "count": 61
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "name": "Bill Clinton",
-    "count": 52
+    "count": 53
   },
   {
     "name": "Kristi Noem",
@@ -132,6 +132,10 @@
     "count": 38
   },
   {
+    "name": "Federal Reserve",
+    "count": 38
+  },
+  {
     "name": "Karl Rove",
     "count": 38
   },
@@ -154,10 +158,6 @@
   {
     "name": "Vladimir Putin",
     "count": 37
-  },
-  {
-    "name": "Federal Reserve",
-    "count": 36
   },
   {
     "name": "Stephen Miller",
@@ -372,6 +372,10 @@
     "count": 20
   },
   {
+    "name": "Steve Bannon",
+    "count": 20
+  },
+  {
     "name": "Jared Kushner",
     "count": 20
   },
@@ -396,10 +400,6 @@
     "count": 19
   },
   {
-    "name": "Steve Bannon",
-    "count": 19
-  },
-  {
     "name": "SpaceX",
     "count": 19
   },
@@ -421,6 +421,10 @@
   },
   {
     "name": "Joseph Coors",
+    "count": 18
+  },
+  {
+    "name": "Ghislaine Maxwell",
     "count": 18
   },
   {
@@ -469,10 +473,6 @@
   },
   {
     "name": "Larry Ellison",
-    "count": 17
-  },
-  {
-    "name": "Ghislaine Maxwell",
     "count": 17
   },
   {
@@ -668,6 +668,10 @@
     "count": 13
   },
   {
+    "name": "House Oversight Committee",
+    "count": 13
+  },
+  {
     "name": "Apple",
     "count": 13
   },
@@ -760,10 +764,6 @@
     "count": 12
   },
   {
-    "name": "House Oversight Committee",
-    "count": 12
-  },
-  {
     "name": "Nancy Pelosi",
     "count": 12
   },
@@ -801,6 +801,10 @@
   },
   {
     "name": "John D. Rockefeller",
+    "count": 11
+  },
+  {
+    "name": "Federal Reserve Board",
     "count": 11
   },
   {
@@ -885,10 +889,6 @@
   },
   {
     "name": "National Guard",
-    "count": 10
-  },
-  {
-    "name": "Federal Reserve Board",
     "count": 10
   },
   {
@@ -981,6 +981,10 @@
   },
   {
     "name": "Russ Vought",
+    "count": 10
+  },
+  {
+    "name": "Jerome Powell",
     "count": 10
   },
   {
@@ -1500,6 +1504,10 @@
     "count": 7
   },
   {
+    "name": "Bill Gates",
+    "count": 7
+  },
+  {
     "name": "Michael Scanlon",
     "count": 7
   },
@@ -1776,10 +1784,6 @@
     "count": 6
   },
   {
-    "name": "Bill Gates",
-    "count": 6
-  },
-  {
     "name": "Cellebrite",
     "count": 6
   },
@@ -1933,10 +1937,6 @@
   },
   {
     "name": "House Democrats",
-    "count": 6
-  },
-  {
-    "name": "Jerome Powell",
     "count": 6
   },
   {
@@ -2424,6 +2424,10 @@
     "count": 5
   },
   {
+    "name": "Thom Tillis",
+    "count": 5
+  },
+  {
     "name": "American Federation of Government Employees",
     "count": 5
   },
@@ -2497,6 +2501,10 @@
   },
   {
     "name": "DC Metropolitan Police",
+    "count": 5
+  },
+  {
+    "name": "Bill Pulte",
     "count": 5
   },
   {
@@ -3248,10 +3256,6 @@
     "count": 4
   },
   {
-    "name": "Thom Tillis",
-    "count": 4
-  },
-  {
     "name": "Centers for Medicare and Medicaid Services",
     "count": 4
   },
@@ -3417,6 +3421,10 @@
   },
   {
     "name": "Brad Schimel",
+    "count": 4
+  },
+  {
+    "name": "Lisa Cook",
     "count": 4
   },
   {
@@ -4416,6 +4424,10 @@
     "count": 3
   },
   {
+    "name": "Prince Andrew",
+    "count": 3
+  },
+  {
     "name": "Pinchas Buchris",
     "count": 3
   },
@@ -4996,10 +5008,6 @@
     "count": 3
   },
   {
-    "name": "Lisa Cook",
-    "count": 3
-  },
-  {
     "name": "Erez Reuveni",
     "count": 3
   },
@@ -5092,7 +5100,7 @@
     "count": 3
   },
   {
-    "name": "Bill Pulte",
+    "name": "Stephen Miran",
     "count": 3
   },
   {
@@ -7560,10 +7568,6 @@
     "count": 2
   },
   {
-    "name": "Prince Andrew",
-    "count": 2
-  },
-  {
     "name": "Boeing engineers",
     "count": 2
   },
@@ -9292,6 +9296,10 @@
     "count": 2
   },
   {
+    "name": "Kevin Hassett",
+    "count": 2
+  },
+  {
     "name": "Louisiana",
     "count": 2
   },
@@ -9365,10 +9373,6 @@
   },
   {
     "name": "U.S. Court of Appeals for the Federal Circuit",
-    "count": 2
-  },
-  {
-    "name": "Stephen Miran",
     "count": 2
   },
   {
@@ -28724,10 +28728,6 @@
     "count": 1
   },
   {
-    "name": "Kevin Hassett",
-    "count": 1
-  },
-  {
     "name": "MAGA Inc.",
     "count": 1
   },
@@ -31265,6 +31265,10 @@
   },
   {
     "name": "State of Illinois",
+    "count": 1
+  },
+  {
+    "name": "Kevin Warsh",
     "count": 1
   },
   {

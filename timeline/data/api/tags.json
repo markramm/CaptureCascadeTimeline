@@ -113,7 +113,7 @@
   },
   {
     "name": "doj",
-    "count": 68
+    "count": 69
   },
   {
     "name": "executive-power",
@@ -144,15 +144,15 @@
     "count": 58
   },
   {
+    "name": "authoritarianism",
+    "count": 58
+  },
+  {
     "name": "civil-liberties",
     "count": 56
   },
   {
     "name": "corporate-lobbying",
-    "count": 55
-  },
-  {
-    "name": "authoritarianism",
     "count": 55
   },
   {
@@ -372,6 +372,10 @@
     "count": 32
   },
   {
+    "name": "trump",
+    "count": 32
+  },
+  {
     "name": "media-control",
     "count": 32
   },
@@ -392,11 +396,11 @@
     "count": 31
   },
   {
-    "name": "reagan-administration",
+    "name": "transparency",
     "count": 31
   },
   {
-    "name": "trump",
+    "name": "reagan-administration",
     "count": 31
   },
   {
@@ -421,10 +425,6 @@
   },
   {
     "name": "media-consolidation",
-    "count": 30
-  },
-  {
-    "name": "transparency",
     "count": 30
   },
   {
@@ -468,6 +468,10 @@
     "count": 27
   },
   {
+    "name": "federal-reserve",
+    "count": 27
+  },
+  {
     "name": "human-rights",
     "count": 27
   },
@@ -508,6 +512,10 @@
     "count": 26
   },
   {
+    "name": "epstein",
+    "count": 26
+  },
+  {
     "name": "ukraine",
     "count": 26
   },
@@ -537,10 +545,6 @@
   },
   {
     "name": "political-prosecution",
-    "count": 25
-  },
-  {
-    "name": "epstein",
     "count": 25
   },
   {
@@ -617,10 +621,6 @@
   },
   {
     "name": "imperialism",
-    "count": 22
-  },
-  {
-    "name": "federal-reserve",
     "count": 22
   },
   {
@@ -3616,6 +3616,10 @@
     "count": 5
   },
   {
+    "name": "criminal-investigation",
+    "count": 5
+  },
+  {
     "name": "fcpa",
     "count": 5
   },
@@ -3685,6 +3689,10 @@
   },
   {
     "name": "mortgage-fraud",
+    "count": 5
+  },
+  {
+    "name": "fed-independence",
     "count": 5
   },
   {
@@ -4552,10 +4560,6 @@
     "count": 4
   },
   {
-    "name": "criminal-investigation",
-    "count": 4
-  },
-  {
     "name": "political-purge",
     "count": 4
   },
@@ -4685,6 +4689,10 @@
   },
   {
     "name": "extrajudicial-killing",
+    "count": 4
+  },
+  {
+    "name": "bannon",
     "count": 4
   },
   {
@@ -5361,6 +5369,10 @@
   },
   {
     "name": "military-occupation",
+    "count": 3
+  },
+  {
+    "name": "powell",
     "count": 3
   },
   {
@@ -6213,10 +6225,6 @@
   },
   {
     "name": "kristi noem",
-    "count": 3
-  },
-  {
-    "name": "bannon",
     "count": 3
   },
   {
@@ -7317,6 +7325,10 @@
   },
   {
     "name": "voter-registration",
+    "count": 2
+  },
+  {
+    "name": "republican-opposition",
     "count": 2
   },
   {
@@ -9865,6 +9877,10 @@
   },
   {
     "name": "william-pulte",
+    "count": 2
+  },
+  {
+    "name": "lisa-cook",
     "count": 2
   },
   {
@@ -13304,10 +13320,6 @@
     "count": 1
   },
   {
-    "name": "republican-opposition",
-    "count": 1
-  },
-  {
     "name": "labor-opposition",
     "count": 1
   },
@@ -14781,10 +14793,6 @@
   },
   {
     "name": "sinclair",
-    "count": 1
-  },
-  {
-    "name": "powell",
     "count": 1
   },
   {
@@ -23600,10 +23608,6 @@
     "count": 1
   },
   {
-    "name": "lisa-cook",
-    "count": 1
-  },
-  {
     "name": "federal-takeover",
     "count": 1
   },
@@ -23717,6 +23721,10 @@
   },
   {
     "name": "data-sharing",
+    "count": 1
+  },
+  {
+    "name": "humphreys-executor",
     "count": 1
   },
   {
@@ -25204,6 +25212,10 @@
     "count": 1
   },
   {
+    "name": "trump-proofing",
+    "count": 1
+  },
+  {
     "name": "somali-targeting",
     "count": 1
   },
@@ -25221,6 +25233,14 @@
   },
   {
     "name": "congressional hearing",
+    "count": 1
+  },
+  {
+    "name": "photographs",
+    "count": 1
+  },
+  {
+    "name": "clinton",
     "count": 1
   },
   {
@@ -25461,6 +25481,10 @@
   },
   {
     "name": "christmas-eve-news-dump",
+    "count": 1
+  },
+  {
+    "name": "interest-rates",
     "count": 1
   },
   {
