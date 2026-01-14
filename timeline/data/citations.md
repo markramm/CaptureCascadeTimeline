@@ -10159,11 +10159,32 @@
 2. [When Private Equity Firms Acquire Dental Practices, Patients Pay the Price](https://truthout.org/articles/when-private-equity-firms-acquire-dental-practices-patients-pay-the-price/)
 3. [Why Private Equity Firms Like Dentists, Veterinarians, and Ophthalmologists](https://www.groupdentistrynow.com/dso-group-blog/why-private-equity-firms-like-dentists-veterinarians-and-opthamologists/)
 
+## Countrywide Begins Process to Switch to Office of Thrift Supervision for Lighter Regulation
+*Date: 2006-01-01*
+
+1. [Bank regulator played advocate not enforcer](https://www.nbcnews.com/id/wbna27865780)
+2. [Office of Thrift Supervision](https://thismatter.com/money/banking/office-of-thrift-supervision.htm)
+3. [Office of Thrift Supervision](https://en.wikipedia.org/wiki/Office_of_Thrift_Supervision)
+
+## IndyMac and WaMu Drive Option ARM Mortgages to 42% of Adjustable-Rate Market in 2006
+*Date: 2006-01-01*
+
+1. [Washington Mutual failure has biggest impact on consumers](https://money.cnn.com/2009/09/08/news/economy/wamu.fallout.fortune/index.htm)
+2. [ARM-twisting helped sink WaMu](https://www.spokesman.com/stories/2009/nov/08/arm-twisting-helped-sink-wamu/)
+3. [Option ARMs: The Banking Backdrop of 2009](https://seekingalpha.com/article/113063-option-arms-the-banking-backdrop-of-2009)
+
 ## Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan
 *Date: 2006-01-01*
 
 1. [Leaked Palantir Doc Reveals Uses, Specific Functions And Key Clients](https://techcrunch.com/2015/01/11/leaked-palantir-doc-reveals-uses-specific-functions-and-key-clients/)
 2. [Palantir — A Federal Market Lesson For VCs](https://about.crunchbase.com/blog/palantir-a-federal-market-lesson-for-vcs/)
+
+## Synthetic CDO Issuance Explodes to $61 Billion in 2006, Amplifying Housing Market Risk Exponentially
+*Date: 2006-01-01*
+
+1. [Synthetic CDO](https://en.wikipedia.org/wiki/Synthetic_CDO)
+2. [Collateralized debt obligation](https://en.wikipedia.org/wiki/Collateralized_debt_obligation)
+3. [Tracing Wall Street's WMDs](https://www.cjr.org/the_audit/synthetic_junk.php)
 
 ## Jack Abramoff Pleads Guilty in 5M Corruption Scandal
 *Date: 2006-01-03*
@@ -10171,6 +10192,13 @@
 1. [Former Lobbyist Jack Abramoff Pleads Guilty to Charges Involving Corruption](https://www.justice.gov/archive/opa/pr/2006/January/06_crm_002.html)
 2. [The Fast Rise and Steep Fall of Jack Abramoff](https://www.washingtonpost.com/archive/politics/2005/12/29/the-fast-rise-and-steep-fall-of-jack-abramoff/)
 3. [GIMME FIVE Investigation of Tribal Lobbying Matters](https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm)
+
+## Ameriquest Agrees to $325 Million Settlement for Predatory Lending Practices with 49 States
+*Date: 2006-01-23*
+
+1. [Attorney General Lockyer Announces $325 Million Settlement with Ameriquest](https://oag.ca.gov/news/press-releases/attorney-general-lockyer-announces-325-million-settlement-ameriquest-resolve)
+2. [Ameriquest to Pay $325 Million in Nationwide Settlement](https://portal.ct.gov/dob/newsroom/2006/ameriquest-to-pay-$325-million-in-nationwide-settlement)
+3. [Ameriquest Will Pay $325 Million and Reform its Lending Practices](https://news.delaware.gov/2006/01/23/ameriquest-will-pay-325-million-and-reform-its-lending-practices-to-resolve-states-investigations/)
 
 ## Bush Threatens First Presidential Veto Over Dubai Ports Deal
 *Date: 2006-02-22*
@@ -10193,6 +10221,13 @@
 2. [Dubai Firm Abandons US Ports Plan](https://www.aljazeera.com/news/2006/3/10/dubai-firm-abandons-us-ports-plan)
 3. [DP World and U.S. Port Security](https://www.nti.org/analysis/articles/dp-world-and-us-port-security/)
 4. [The Dubai Ports World Controversy: Jingoism or Legitimate Concerns?](https://fpif.org/the_dubai_ports_world_controversy_jingoism_or_legitimate_concerns/)
+
+## Magnetar Capital Launches $30 Billion CDO Strategy, Betting Against Housing While Encouraging Investor Purchases
+*Date: 2006-05-01*
+
+1. [The Magnetar Trade: How One Hedge Fund Helped Keep the Bubble Going](https://www.propublica.org/article/all-the-magnetar-trade-how-one-hedge-fund-helped-keep-the-housing-bubble)
+2. [Hedge funds, CDOs and the financial crisis](https://www.sciencedirect.com/science/article/abs/pii/S0378426612002932)
+3. [Magnetar Capital](https://en.m.wikipedia.org/wiki/Magnetar_Capital)
 
 ## Michael Hayden Nominated as CIA Director Despite NSA Surveillance Controversy
 *Date: 2006-05-08*
@@ -10222,6 +10257,12 @@
 1. [Enron Verdict: Ken Lay Guilty on All Counts, Skilling on 19 Counts](https://abcnews.go.com/Business/LegalCenter/story?id=2003728&page=1)
 2. [Guilty Verdicts Reached at Enron Trial](https://www.npr.org/series/5181660/guilty-verderts-reached-at-enron-trial)
 3. [Lay, Skilling Found Guilty](https://www.industryweek.com/the-economy/regulations/article/21945817/lay-skilling-found-guilty)
+
+## Federal Reserve Raises Interest Rates to 5.25%, Triggering Payment Shock for Subprime Borrowers
+*Date: 2006-06-01*
+
+1. [Subprime Mortgage Crisis: Timeline and Economic Effect](https://www.thebalancemoney.com/subprime-mortgage-crisis-effect-and-timeline-3305745)
+2. [Subprime mortgage crisis](https://en.wikipedia.org/wiki/Subprime_mortgage_crisis)
 
 ## Model Ruslana Korshunova, 18, flies to Epstein's island two years before suspicious death
 *Date: 2006-06-07*
@@ -10274,12 +10315,34 @@
 2. [Bob Ney - Wikipedia](https://en.wikipedia.org/wiki/Bob_Ney)
 3. [Convictions in the Abramoff corruption probe](https://www.foxnews.com/sports/convictions-in-the-abramoff-corruption-probe)
 
+## Bush Signs Credit Rating Agency Reform Act, But Law Fails to Address Core Conflicts of Interest
+*Date: 2006-09-29*
+
+1. [President Signs S. 3850, the Credit Rating Agency Reform Act of 2006](https://georgewbush-whitehouse.archives.gov/news/releases/2006/09/20060929-8.html)
+2. [Credit Rating Agency Reform Act](https://en.wikipedia.org/wiki/Credit_Rating_Agency_Reform_Act)
+3. [S.3850 - 109th Congress: Credit Rating Agency Reform Act of 2006](https://www.congress.gov/bill/109th-congress/senate-bill/3850)
+
+## Federal Regulators Issue Weakened Mortgage Guidance After Year of Industry Lobbying, Ignoring Warnings
+*Date: 2006-09-29*
+
+1. [Interagency Guidance on Nontraditional Mortgage Product Risks](https://www.federalregister.gov/documents/2006/10/04/06-8480/interagency-guidance-on-nontraditional-mortgage-product-risks)
+2. [Federal Reserve Supervisory Letter SR 06-15](https://www.federalreserve.gov/boarddocs/srletters/2006/sr0615.htm)
+3. [Bush administration ignored clear warnings](https://www.nbcnews.com/id/wbna28001417)
+4. [Bush administration ignored clear warnings](https://www.foxnews.com/printer_friendly_wires/2008Dec01/0,4675,MeltdownIgnoredWarnings,00.html)
+
 ## Jeffrey Skilling Sentenced to 24 Years for Enron Fraud
 *Date: 2006-10-23*
 
 1. [Former Enron Chief Executive Officer Jeffrey Skilling Sentenced to More Than 24 Years in Prison](https://www.justice.gov/archive/opa/pr/2006/October/06_crm_723.html)
 2. [Enron's Skilling Sentenced to 24 Years for Fraud](https://www.npr.org/2006/10/23/6369937/enrons-skilling-sentenced-to-24-years-for-fraud)
 3. [Jeffrey Skilling](https://en.wikipedia.org/wiki/Jeffrey_Skilling)
+
+## Subprime Mortgage Delinquencies Surge to 13%, Nearly Double Mid-2005 Rates, as Crisis Accelerates
+*Date: 2006-12-01*
+
+1. [The Subprime Mortgage Market](https://www.federalreserve.gov/newsevents/speech/bernanke20070517a.htm)
+2. [House Prices and Subprime Mortgage Delinquency](https://www.frbsf.org/research-and-insights/publications/economic-letter/2007/06/house-prices-subprime-mortgage-delinquency/)
+3. [Subprime mortgage crisis](https://en.wikipedia.org/wiki/Subprime_mortgage_crisis)
 
 ## Bush Administration Fires 9 U.S. Attorneys for Political Reasons
 *Date: 2006-12-07*
@@ -10294,6 +10357,12 @@
 1. [Regional Bell Operating Company](https://en.wikipedia.org/wiki/Regional_Bell_Operating_Company)
 2. [How AT&T got busted up and pieced back together](https://money.cnn.com/2014/05/20/technology/att-merger-history/index.html)
 3. [BellSouth](https://en.wikipedia.org/wiki/BellSouth)
+
+## New Century Financial Conceals Massive Early Payment Defaults Through Accounting Fraud in 2006
+*Date: 2006-12-31*
+
+1. [SEC Charges Former Officers of Subprime Lender New Century With Fraud](https://www.sec.gov/news/press/2009/2009-258.htm)
+2. [New Century Financial Corporation](https://www.blbglaw.com/cases-investigations/new-century-financial-corporation)
 
 ## ALEC Launches 'Rich States, Poor States' Report with Arthur Laffer - Annual Corporate Tax Competition Manifesto to Drive Interstate Race-to-Bottom
 *Date: 2007-01-01*

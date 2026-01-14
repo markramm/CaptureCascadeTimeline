@@ -73362,6 +73362,111 @@
     "_id_hash": "0d20d101807ebfea4130f48fdf022d2df2494c1ba3f7f5529041853c5d7af064"
   },
   {
+    "id": "2006-01-01--countrywide-applies-for-thrift-status-regulatory-arbitrage",
+    "date": "2006-01-01",
+    "title": "Countrywide Begins Process to Switch to Office of Thrift Supervision for Lighter Regulation",
+    "importance": 7,
+    "actors": [
+      "Countrywide Financial",
+      "Angelo Mozilo",
+      "Office of Thrift Supervision",
+      "Office of the Comptroller of the Currency",
+      "James Gilleran"
+    ],
+    "tags": [
+      "regulatory-capture",
+      "regulatory-arbitrage",
+      "predatory-lending",
+      "subprime-mortgages",
+      "housing-bubble"
+    ],
+    "sources": [
+      {
+        "title": "Bank regulator played advocate not enforcer",
+        "outlet": "NBC News",
+        "url": "https://www.nbcnews.com/id/wbna27865780",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Office of Thrift Supervision",
+        "outlet": "This Matter",
+        "url": "https://thismatter.com/money/banking/office-of-thrift-supervision.htm",
+        "tier": 2,
+        "verified": true
+      },
+      {
+        "title": "Office of Thrift Supervision",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Office_of_Thrift_Supervision",
+        "tier": 3,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "In 2006, Countrywide Financial, the nation's largest mortgage lender, began the process of switching its primary federal regulator from the Office of the Comptroller of the Currency to the Office of Thrift Supervision, completing the transition in early 2007. CEO Angelo Mozilo had approached OTS about the move as early as 2005, seeking what was widely understood as the agency's \"lighter touch\" regulatory approach. The switch exemplified regulatory arbitrage, where financial institutions shop for the most lenient regulator—a practice OTS actively encouraged through its deregulatory philosophy and industry-friendly stance.\n\nOTS Director James Gilleran had made the agency's philosophy explicit in 2004: \"Our goal is to allow thrifts to operate with a wide breadth of freedom from regulatory intrusion.\" The agency's budget depended heavily on fees from the institutions it regulated, creating a fundamental conflict of interest. Washington Mutual alone provided approximately 12 percent of OTS's operating funds. This fee-based funding model meant OTS had every incentive to attract large institutions and avoid aggressive enforcement that might drive them to other regulators.\n\nCountrywide's move to OTS regulation meant that four of the five biggest issuers of option ARMs—risky adjustable-rate mortgages with payment shocks—fell under OTS supervision. The agency imposed reserve requirements for thrifts that declined to just one-third of their 2002 average and did not impose higher lending standards for option ARMs, which would cause massive delinquencies after mortgage rates reset higher. Within two years, the housing downturn forced Countrywide into Bank of America's arms under threat of failure. The other major OTS-regulated mortgage lenders—IndyMac, Downey Financial, and Washington Mutual—all collapsed entirely, with WaMu becoming the largest bank failure in U.S. history. OTS was eventually abolished under the Dodd-Frank Act, but not before its captured regulatory approach helped enable the predatory lending that devastated the economy. The Senate investigation later singled out OTS for its role in the financial crisis, documenting how the agency prioritized industry concerns over consumer protection and systemic stability.",
+    "_file": "2006-01-01--countrywide-applies-for-thrift-status-regulatory-arbitrage.md",
+    "_id_hash": "83e015d2ba46cbac36bc0c220e7cc1d69fe8023d19bc267ecea55b1b9843411a"
+  },
+  {
+    "id": "2006-01-01--indymac-wamu-option-arm-surge-42-percent-of-arm-market",
+    "date": "2006-01-01",
+    "title": "IndyMac and WaMu Drive Option ARM Mortgages to 42% of Adjustable-Rate Market in 2006",
+    "importance": 8,
+    "actors": [
+      "IndyMac Bank",
+      "Washington Mutual",
+      "Countrywide Financial",
+      "Wachovia",
+      "BankUnited Financial",
+      "Downey Savings",
+      "Office of Thrift Supervision"
+    ],
+    "tags": [
+      "predatory-lending",
+      "option-ARMs",
+      "payment-shock",
+      "subprime-mortgages",
+      "housing-bubble",
+      "regulatory-failure"
+    ],
+    "sources": [
+      {
+        "title": "Washington Mutual failure has biggest impact on consumers",
+        "outlet": "CNN Money",
+        "url": "https://money.cnn.com/2009/09/08/news/economy/wamu.fallout.fortune/index.htm",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "ARM-twisting helped sink WaMu",
+        "outlet": "The Spokesman-Review",
+        "url": "https://www.spokesman.com/stories/2009/nov/08/arm-twisting-helped-sink-wamu/",
+        "tier": 2,
+        "verified": true
+      },
+      {
+        "title": "Option ARMs: The Banking Backdrop of 2009",
+        "outlet": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/113063-option-arms-the-banking-backdrop-of-2009",
+        "tier": 2,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "In 2006, option adjustable-rate mortgages (option ARMs) reached 42 percent of all ARM loan volume in non-subprime, non-agency securitizations, up from 32 percent in 2005 and just 12 percent in 2004. Leading issuers included Washington Mutual, IndyMac, Countrywide, Wachovia, BankUnited Financial, Downey Savings, FirstFed Financial, and Guaranty Financial Group. These toxic mortgage products allowed borrowers to make artificially low minimum monthly payments for up to five years, with the difference between the minimum payment and actual interest being added to the loan balance, creating negative amortization.\n\nWashington Mutual had been a traditionally prudent lender but underwent a dramatic transformation from 2003 to 2006, shifting its originations from 64 percent low-risk fixed-rate mortgages to just 25 percent, while high-risk loans jumped from 19 percent to 55 percent of originations. IndyMac pushed aggressively for loan growth, increasing volume by approximately 50 percent in 2006 even as overall industry volume fell slightly. Less than 10 percent of the dollar volume in a $354 million pool of residential mortgages that IndyMac packaged into securities in 2006 involved full documentation loans—the rest were low- or no-documentation \"stated income\" loans. Lenders pursued these risky products because investors were willing to pay premium prices for the higher yields.\n\nThe payment shock built into option ARMs was catastrophic. With more than 65 percent of borrowers electing minimum monthly payments (reaching 85 percent for 2006 and 2007 vintages), loans that hit negative amortization caps—where the balance grew to 110-125 percent of the original amount—had to be recast much earlier than the five-year term. The potential average payment increase on recast loans was 63 percent, adding $1,053 per month on top of the current average payment of $1,672. When Washington Mutual failed in 2008, it held $52.9 billion in option ARMs out of $118.9 billion in single-family loans, with $3.23 billion of its option ARM portfolio already non-performing. By 2009, all the biggest option ARM players—Washington Mutual, Countrywide, IndyMac, and Wachovia—were out of business or had been sold. The Office of Thrift Supervision, which regulated most of these institutions, took no action to curtail option ARM lending despite clear evidence of unsustainable risk.",
+    "_file": "2006-01-01--indymac-wamu-option-arm-surge-42-percent-of-arm-market.md",
+    "_id_hash": "f3e544709ad5348755e5bb073db22bd903715dfe2f16dee65ef57adffda98c00"
+  },
+  {
     "id": "2006-01-01--palantir-first-contract-jieddo-iraq-afghanistan",
     "date": "2006-01-01",
     "title": "Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan",
@@ -73398,6 +73503,60 @@
     "summary": "In 2006, Palantir Technologies secured one of its first major government contracts with the Joint IED Defeat Organization (JIEDDO), marking the company's transition from CIA-backed startup to operational defense contractor. The contract focused on using Palantir's data analysis platform to detect patterns in improvised explosive device (IED) attacks in Iraq and Afghanistan, helping U.S. military forces identify bomb-making networks and predict attack locations.\n\nThe JIEDDO contract was strategically critical for Palantir's growth. It demonstrated that the company's technology, originally developed in collaboration with CIA analysts, could be applied to active military operations in combat zones. Early CIA clients had already been using Palantir to detect roadside bombs, and the JIEDDO contract formalized and expanded this work with dedicated defense funding.\n\nLeveraging the success of this initial contract, Palantir rapidly expanded its presence within the U.S. government. Between 2007 and 2009, Palantir's work in Washington grew from eight pilot programs to more than 50 programs across multiple agencies. The JIEDDO contract provided proof of concept that enabled referrals to other agencies including the FBI, NSA, Department of Homeland Security, SEC, and NYPD during the 2006-2008 period.\n\nThe contract represented a significant milestone in the post-9/11 expansion of private contractors in intelligence and military operations. Rather than building internal data analysis capabilities, the Department of Defense turned to a venture-backed Silicon Valley startup to solve one of the most pressing tactical challenges facing U.S. forces in Iraq and Afghanistan. This established a precedent for outsourcing critical military intelligence functions to private companies.\n\nJIEDDO itself was a well-funded Pentagon organization created specifically to combat the IED threat that was causing the majority of U.S. casualties in Iraq and Afghanistan. Palantir's ability to win this high-profile contract just three years after founding demonstrated both the company's technological capabilities and Peter Thiel's connections within national security circles.",
     "_file": "2006-01-01--palantir-first-contract-jieddo-iraq-afghanistan.md",
     "_id_hash": "910267f6d7762246b70e05613805548e60f9cb7e8c2a44ec012360f2f210f64b"
+  },
+  {
+    "id": "2006-01-01--synthetic-cdo-market-explodes-to-61b-amplifying-housing-risk",
+    "date": "2006-01-01",
+    "title": "Synthetic CDO Issuance Explodes to $61 Billion in 2006, Amplifying Housing Market Risk Exponentially",
+    "importance": 9,
+    "actors": [
+      "Goldman Sachs",
+      "Deutsche Bank",
+      "Morgan Stanley",
+      "JPMorgan Chase",
+      "Tricadia Inc",
+      "Investment banks",
+      "Rating agencies"
+    ],
+    "tags": [
+      "synthetic-CDOs",
+      "derivatives",
+      "mortgage-backed-securities",
+      "Wall-Street",
+      "systemic-risk",
+      "financial-engineering"
+    ],
+    "sources": [
+      {
+        "title": "Synthetic CDO",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Synthetic_CDO",
+        "tier": 3,
+        "verified": true
+      },
+      {
+        "title": "Collateralized debt obligation",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Collateralized_debt_obligation",
+        "tier": 3,
+        "verified": true
+      },
+      {
+        "title": "Tracing Wall Street's WMDs",
+        "outlet": "Columbia Journalism Review",
+        "url": "https://www.cjr.org/the_audit/synthetic_junk.php",
+        "tier": 2,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Wall Street Misconduct"
+    ],
+    "status": "confirmed",
+    "summary": "In 2006, synthetic CDO issuance jumped from $15 billion in 2005 to $61 billion, with synthetics becoming the dominant form of CDOs in the United States. By year end, the synthetic CDO market was valued \"notionally\" at $5 trillion according to industry estimates. This explosive growth represented a dangerous amplification of risk in the housing market, as synthetic CDOs allowed Wall Street to create unlimited bets on the same underlying pool of mortgage debt through credit default swaps—essentially creating phantom exposure far exceeding the actual mortgages in existence.\n\nWhile approximately $1.2 trillion in subprime loans existed in 2006, journalist Gregory Zuckerman estimated that more than $5 trillion of investments in synthetic CDOs were created based on these loans—a 4-to-1 leverage ratio. The structure allowed mortgage bonds to be \"referenced\" by an infinite number of synthetic CDOs, meaning the same pool of failing mortgages could trigger cascading losses across multiple layers of derivatives. Global CDO issuance across all types reached $551.7 billion in 2006, up from $157.4 billion in 2004, with much of the growth driven by synthetic structures.\n\nMajor Wall Street firms—particularly Goldman Sachs, Deutsche Bank, Morgan Stanley, and JPMorgan—were the primary creators of synthetic CDOs while simultaneously taking short positions in the securities. This created severe conflicts of interest, as banks earned fees for creating and selling synthetic CDOs to clients while betting against those same securities for their own accounts. Rating agencies compounded the problem by assigning AAA ratings to synthetic CDO tranches despite their extreme complexity and exposure to subprime mortgages. Internal S&P communications from 2006 acknowledged the agency was creating \"an even bigger monster—the CDO market\" with one analyst writing: \"Let's hope we are all wealthy and retired by the time this house of cards falters.\" The synthetic CDO explosion in 2006 transformed a serious housing crisis into a global financial catastrophe, as losses were magnified exponentially through derivatives layers while regulators remained willfully blind to the systemic risk being manufactured.",
+    "_file": "2006-01-01--synthetic-cdo-market-explodes-to-61b-amplifying-housing-risk.md",
+    "_id_hash": "3da37dcbb16a6ae84c29e9f1268df1d5f62bdff1062a5e7e7e079b4ca6c981fa"
   },
   {
     "id": "2006-01-03--jack-abramoff-pleads-guilty-in-5m-corruption-scand",
@@ -73450,6 +73609,57 @@
     "summary": "Lobbyist Jack Abramoff pleaded guilty to federal corruption charges, exposing one of the largest congressional corruption scandals in modern U.S. history. Abramoff and partner Michael Scanlon defrauded Native American tribes of 5 million through inflated lobbying fees and secret kickbacks. The scheme included bribing members of Congress with luxury trips, expensive meals, and campaign contributions in exchange for legislative favors. Twenty-four people were convicted, including Congressman Bob Ney (R-OH, 2.5 years prison), Tom DeLay aide Tony Rudy, and Deputy Interior Secretary Steven Griles. Abramoff systematically charged tribes like the Coushatta (0 million) and Tigua (.2 million) massive fees while secretly splitting profits with Scanlon. In some cases, they lobbied against their own clients to create problems they could then be paid to solve. The scandal led to significant lobbying reform legislation and demonstrated how money could corrupt the legislative process, with Abramoff serving 43 months in federal prison.",
     "_file": "2006-01-03--jack-abramoff-pleads-guilty-in-5m-corruption-scand.md",
     "_id_hash": "867bd1cdd346475b3ae17846facf55df4e7cae68a81fa380e77f5c51b09c2786"
+  },
+  {
+    "id": "2006-01-23--ameriquest-325m-predatory-lending-settlement-49-states",
+    "date": "2006-01-23",
+    "title": "Ameriquest Agrees to $325 Million Settlement for Predatory Lending Practices with 49 States",
+    "importance": 8,
+    "actors": [
+      "Ameriquest Mortgage Company",
+      "ACC Capital Holdings",
+      "State Attorneys General",
+      "California Attorney General Bill Lockyer",
+      "New York Attorney General Eliot Spitzer"
+    ],
+    "tags": [
+      "predatory-lending",
+      "subprime-mortgages",
+      "regulatory-failure",
+      "consumer-protection",
+      "housing"
+    ],
+    "sources": [
+      {
+        "title": "Attorney General Lockyer Announces $325 Million Settlement with Ameriquest",
+        "outlet": "California Department of Justice",
+        "url": "https://oag.ca.gov/news/press-releases/attorney-general-lockyer-announces-325-million-settlement-ameriquest-resolve",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Ameriquest to Pay $325 Million in Nationwide Settlement",
+        "outlet": "Connecticut Department of Banking",
+        "url": "https://portal.ct.gov/dob/newsroom/2006/ameriquest-to-pay-$325-million-in-nationwide-settlement",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Ameriquest Will Pay $325 Million and Reform its Lending Practices",
+        "outlet": "Delaware State News",
+        "url": "https://news.delaware.gov/2006/01/23/ameriquest-will-pay-325-million-and-reform-its-lending-practices-to-resolve-states-investigations/",
+        "tier": 1,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "On January 23, 2006, Ameriquest Mortgage Company, the nation's largest subprime lender, and its holding company ACC Capital Holdings agreed to pay $325 million to settle allegations of predatory lending practices with 49 states and the District of Columbia. The settlement represents the second-largest state or federal predatory lending settlement in history at the time, after the 2002 $484 million Household Finance Company agreement.\n\nThe settlement allocates $295 million for consumer restitution and $30 million to states for costs, consumer education, and enforcement programs. States alleged that Ameriquest engaged in widespread predatory practices including misleading borrowers about loan terms, falsifying documents, pressuring appraisers to inflate home values, and charging excessive fees. At least 240,000 of Ameriquest's approximately 750,000 customers from 1999 to 2005 are expected to receive restitution. The $175 million portion covers customers who obtained mortgages from January 1, 1999 through April 1, 2003, while another $120 million compensates customers who obtained mortgages between January 1, 1999 and December 31, 2005.\n\nThe settlement, negotiated by attorneys general from New York, Iowa, Illinois, California, and Washington, requires Ameriquest to implement sweeping reforms of its lending practices. However, this settlement represents a pattern of repeated violations—Ameriquest had been the subject of at least four predatory lending settlements since 1996. The company's continued ability to operate as the largest subprime lender despite documented patterns of fraud exemplifies captured regulatory systems that permitted predatory lending to expand unchecked throughout 2006, even as evidence mounted of systemic industry abuse. The settlement took effect March 15, 2006, just months before the housing bubble would peak and the subprime crisis would begin to unfold.",
+    "_file": "2006-01-23--ameriquest-325m-predatory-lending-settlement-49-states.md",
+    "_id_hash": "439bbc2a91f9582e0996dfaf61cde2f846f3e9180daac034e65c7366a72928ce"
   },
   {
     "date": "2006-02-22",
@@ -73611,6 +73821,57 @@
     "summary": "On March 9, 2006, Dubai Ports World (DPW) announced it would abandon its controversial plan to control US port operations, marking a pivotal moment in the Bush presidency's foreign investment strategy. The decision came after the House Appropriations Committee voted 62-2 to block the $6.8 billion deal on March 8, with Republican leaders Dennis Hastert and Bill Frist privately warning President Bush that Congressional opposition was insurmountable. DPW ultimately sold its US port operations to American International Group's Global Investment Group. The controversy transformed the Committee on Foreign Investment in the United States (CFIUS) review process, leading to a 74% increase in reviewed transactions in 2007 and demonstrating the power of bipartisan Congressional and public opposition over national security concerns.",
     "_file": "2006-03-09--dubai-ports-world-abandons-us-port-takeover-under.md",
     "_id_hash": "8da2352687600b5820d64618380166bb8769c4c5107b482c5a0d2e2366c07cce"
+  },
+  {
+    "id": "2006-05-01--magnetar-capital-launches-30b-cdo-bet-against-housing-market",
+    "date": "2006-05-01",
+    "title": "Magnetar Capital Launches $30 Billion CDO Strategy, Betting Against Housing While Encouraging Investor Purchases",
+    "importance": 8,
+    "actors": [
+      "Magnetar Capital",
+      "JPMorgan Chase",
+      "Investment banks",
+      "Institutional investors"
+    ],
+    "tags": [
+      "synthetic-CDOs",
+      "mortgage-backed-securities",
+      "Wall-Street",
+      "financial-fraud",
+      "housing-bubble",
+      "derivatives"
+    ],
+    "sources": [
+      {
+        "title": "The Magnetar Trade: How One Hedge Fund Helped Keep the Bubble Going",
+        "outlet": "ProPublica",
+        "url": "https://www.propublica.org/article/all-the-magnetar-trade-how-one-hedge-fund-helped-keep-the-housing-bubble",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Hedge funds, CDOs and the financial crisis",
+        "outlet": "Journal of Banking & Finance (ScienceDirect)",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378426612002932",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Magnetar Capital",
+        "outlet": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Magnetar_Capital",
+        "tier": 3,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Wall Street Misconduct"
+    ],
+    "status": "confirmed",
+    "summary": "Between May and December 2006, Magnetar Capital executed a massive \"self-funding\" bet against the housing market by sponsoring mezzanine asset-backed CDOs with a total deal balance of $26.1 billion, representing 39.0 percent of the entire mezzanine ABS-CDO market during that period. The hedge fund's strategy, which would later become known as \"the Magnetar Trade,\" involved taking long positions in the highest-risk equity tranches of synthetic CDOs while simultaneously shorting safer mezzanine tranches through credit default swaps—effectively betting against the very securities it encouraged others to buy.\n\nMagnetar's approach was particularly insidious: by agreeing to purchase or finance the toxic equity tranches that no one else wanted, the fund enabled banks to create new CDOs at precisely the moment when the housing market began to decline. The firm invested in approximately 30 CDOs from spring 2006 through summer 2007, with analysis showing these Magnetar-sponsored deals defaulted faster and at higher rates than comparable CDOs. By fall 2006, housing prices had already peaked, but Magnetar's assembly line continued producing CDOs it would bet against. JPMorgan alone brought in half a billion dollars in revenue in 2006 on synthetic CDOs, many involving Magnetar.\n\nInvestigations by NPR, Chicago Public Radio, and ProPublica revealed that Magnetar encouraged the creation of CDOs containing low-quality mortgages specifically so the fund could bet against them using credit default swaps, without disclosing these conflicted positions to investors purchasing the long side. The strategy required selecting the riskiest possible mortgage-backed securities to maximize returns when they failed. Despite SEC investigations into several Magnetar deals, no enforcement action was ever taken against the firm. This represents a clear case of Wall Street engineering systemic risk for private profit while regulators stood by—Magnetar made billions while expanding exposure to losses that devastated pension funds, insurance companies, and institutional investors who took the other side of their bets.",
+    "_file": "2006-05-01--magnetar-capital-launches-30b-cdo-bet-against-housing-market.md",
+    "_id_hash": "674b78129e94a517557aef68772b8cdc8574327d88f8d7bd47856047eaa31b31"
   },
   {
     "id": "2006-05-08--michael-hayden-nominated-cia-director-nsa-militarization",
@@ -73807,6 +74068,49 @@
     "summary": "On May 25, 2006, a federal jury convicted Enron founder Kenneth Lay on all six counts of fraud and conspiracy, and former CEO Jeffrey Skilling on 19 of 28 counts of securities fraud, wire fraud, and conspiracy. The verdicts marked a watershed moment in corporate accountability, holding top executives personally responsible for orchestrating one of the largest corporate frauds in American history.\n\nThe trial, which began on January 30, 2006, exposed the systematic deception at the heart of Enron's operations. Lay was convicted of lying to investors and employees about Enron's financial health while the company used complex off-balance-sheet partnerships to hide billions in debt and inflate profits. Skilling, who served as CEO from February to August 2001, was found guilty of conspiracy to commit securities and wire fraud, insider trading, and making false statements to auditors.\n\nProsecutors presented evidence that both men knew Enron's reported profits were fraudulent and that the company was on the verge of collapse even as they publicly reassured investors and employees. Lay sold millions in Enron stock while telling employees their retirement savings in Enron shares were secure. The fraud wiped out more than $60 billion in shareholder value and destroyed the retirement savings of thousands of employees.\n\nThe convictions represented the culmination of aggressive federal prosecution following passage of the Sarbanes-Oxley Act in 2002. Lay died of a heart attack on July 5, 2006, before sentencing, resulting in his conviction being vacated. Skilling received a 24-year sentence in October 2006—later reduced to 14 years—and was released in 2018. The Enron prosecutions marked the last era when federal prosecutors aggressively pursued criminal convictions of Fortune 500 CEOs; after 2008, similar conduct would be addressed through deferred prosecution agreements and corporate fines.",
     "_file": "2006-05-25--ken-lay-jeffrey-skilling-convicted-enron-fraud.md",
     "_id_hash": "978623594adeac05c3ab991ed378fb1da36d5d3a8c8317b52169a2717dca984b"
+  },
+  {
+    "id": "2006-06-01--fed-raises-rates-525-percent-triggers-subprime-payment-shock",
+    "date": "2006-06-01",
+    "title": "Federal Reserve Raises Interest Rates to 5.25%, Triggering Payment Shock for Subprime Borrowers",
+    "importance": 9,
+    "actors": [
+      "Federal Reserve",
+      "Ben Bernanke",
+      "Subprime borrowers",
+      "Mortgage lenders"
+    ],
+    "tags": [
+      "federal-reserve",
+      "monetary-policy",
+      "subprime-mortgages",
+      "housing-bubble",
+      "systemic-risk"
+    ],
+    "sources": [
+      {
+        "title": "Subprime Mortgage Crisis: Timeline and Economic Effect",
+        "outlet": "The Balance",
+        "url": "https://www.thebalancemoney.com/subprime-mortgage-crisis-effect-and-timeline-3305745",
+        "tier": 2,
+        "verified": true
+      },
+      {
+        "title": "Subprime mortgage crisis",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+        "tier": 3,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "In June 2006, new Federal Reserve Chair Ben Bernanke completed a series of rate increases that brought the federal funds rate to 5.25 percent, up from 1 percent in 2004. This marked the fourth rate increase of 2006 and the culmination of 17 consecutive rate hikes since June 2004. The increases were designed to cool an overheating economy and combat inflation, but they had catastrophic consequences for millions of subprime borrowers whose adjustable-rate mortgages were tied to the federal funds rate.\n\nThe rate increases triggered massive payment shocks for borrowers who had taken out interest-only loans and payment option ARMs during the low-rate environment of 2003-2005. Many subprime borrowers had been sold mortgages with low \"teaser rates\" that reset after two or three years, with lenders assuring them they could refinance before rates adjusted. However, with home prices beginning to decline in many markets and underwriting standards remaining loose, these borrowers found themselves unable to refinance. Monthly payments on adjustable-rate subprime mortgages often doubled or tripled as rates reset at the new higher levels.\n\nBy December 2006, over 13 percent of subprime loans were delinquent, up from about 10 percent during the housing boom. More than 14 percent of subprime ARMs specifically were delinquent in December 2006, double the rate from two years earlier. Foreclosure initiations surged to 310,000 in the fourth quarter of 2006, compared to an average of 230,000 quarterly for the preceding two years, with subprime mortgages accounting for more than half of new foreclosures. The Fed's rate policy, combined with captured regulators who had permitted predatory lending to flourish unchecked, transformed millions of households' \"American Dream\" into foreclosure nightmares.",
+    "_file": "2006-06-01--fed-raises-rates-525-percent-triggers-subprime-payment-shock.md",
+    "_id_hash": "44bb95d9a3e1679aa5c53914d1c538f33939ff49d79aaf4965feb248c06a5631"
   },
   {
     "id": "2006-06-07--ruslana-korshunova-epstein-island-visit",
@@ -74156,6 +74460,126 @@
     "_id_hash": "669b9a6a4b5ef9cbfed8d5f2e40eefb62f0e0bb2de06ce232550cacc2887c4ad"
   },
   {
+    "id": "2006-09-29--credit-rating-agency-reform-act-signed-fails-to-address-conflicts",
+    "date": "2006-09-29",
+    "title": "Bush Signs Credit Rating Agency Reform Act, But Law Fails to Address Core Conflicts of Interest",
+    "importance": 8,
+    "actors": [
+      "President George W. Bush",
+      "Securities and Exchange Commission",
+      "Moody's Investors Service",
+      "Standard & Poor's",
+      "Fitch Ratings",
+      "U.S. Congress"
+    ],
+    "tags": [
+      "regulatory-capture",
+      "rating-agencies",
+      "financial-deregulation",
+      "subprime-mortgages",
+      "CDOs",
+      "systemic-risk"
+    ],
+    "sources": [
+      {
+        "title": "President Signs S. 3850, the Credit Rating Agency Reform Act of 2006",
+        "outlet": "White House Archives",
+        "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2006/09/20060929-8.html",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Credit Rating Agency Reform Act",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Credit_Rating_Agency_Reform_Act",
+        "tier": 3,
+        "verified": true
+      },
+      {
+        "title": "S.3850 - 109th Congress: Credit Rating Agency Reform Act of 2006",
+        "outlet": "Congress.gov",
+        "url": "https://www.congress.gov/bill/109th-congress/senate-bill/3850",
+        "tier": 1,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "On September 29, 2006, President George W. Bush signed the Credit Rating Agency Reform Act (Public Law 109-291) into law, following its passage by unanimous consent in the Senate on September 22 and under suspension of rules in the House on September 27. The Act amended the Securities Exchange Act of 1934 to require nationally recognized statistical rating organizations (NRSROs) to register with the Securities and Exchange Commission and established SEC oversight of credit rating agencies. Proponents claimed it would improve ratings quality and foster accountability, transparency, and competition in the credit rating industry.\n\nHowever, the Act fundamentally failed to address the core conflict of interest at the heart of rating agency failures: the \"issuer-pays\" model where agencies are paid by the very institutions whose securities they rate. The Act was enacted following concerns after the Enron and WorldCom bankruptcies exposed how agencies had rated their debt as investment grade until shortly before collapse. Yet by 2006, the three dominant agencies—Moody's, Standard & Poor's, and Fitch—were already deep into rating trillions of dollars of mortgage-backed securities and collateralized debt obligations with conflicts of interest running rampant.\n\nInternal communications at rating agencies revealed awareness of the problems they were creating. One S&P analyst wrote in 2006: \"Rating agencies continue to create an even bigger monster—the CDO market. Let's hope we are all wealthy and retired by the time this house of cards falters.\" The Justice Department later cited an S&P analyst who wrote in 2006 that the company had loosened its criteria for CDOs to create \"a loophole big enough to drive a Mack truck through.\" Despite this legislation, 2006 saw explosive CDO issuance growth, with global issuance reaching $551.7 billion. By 2010, 73 percent of mortgage-backed securities Moody's had rated triple-A in 2006 were downgraded to junk. The Act's failure to address the fundamental business model that incentivized fraudulent ratings exemplifies captured regulation that provided the appearance of oversight while permitting industry practices that would trigger the 2008 financial crisis.",
+    "_file": "2006-09-29--credit-rating-agency-reform-act-signed-fails-to-address-conflicts.md",
+    "_id_hash": "7433d8237d6603ef81c70a1426ac4492a6a63db323c5a4576248b67f2325b916"
+  },
+  {
+    "id": "2006-09-29--occ-fed-fdic-issue-weak-mortgage-guidance-after-industry-lobbying",
+    "date": "2006-09-29",
+    "title": "Federal Regulators Issue Weakened Mortgage Guidance After Year of Industry Lobbying, Ignoring Warnings",
+    "importance": 9,
+    "actors": [
+      "Office of the Comptroller of the Currency",
+      "Federal Reserve",
+      "Federal Deposit Insurance Corporation",
+      "Office of Thrift Supervision",
+      "National Credit Union Administration",
+      "Countrywide Financial",
+      "Washington Mutual",
+      "IndyMac",
+      "Lehman Brothers",
+      "Downey Savings",
+      "Paris Welch",
+      "California Reinvestment Coalition"
+    ],
+    "tags": [
+      "regulatory-capture",
+      "lobbying",
+      "subprime-mortgages",
+      "predatory-lending",
+      "housing-bubble",
+      "regulatory-failure"
+    ],
+    "sources": [
+      {
+        "title": "Interagency Guidance on Nontraditional Mortgage Product Risks",
+        "outlet": "Federal Register",
+        "url": "https://www.federalregister.gov/documents/2006/10/04/06-8480/interagency-guidance-on-nontraditional-mortgage-product-risks",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Federal Reserve Supervisory Letter SR 06-15",
+        "outlet": "Federal Reserve",
+        "url": "https://www.federalreserve.gov/boarddocs/srletters/2006/sr0615.htm",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Bush administration ignored clear warnings",
+        "outlet": "NBC News",
+        "url": "https://www.nbcnews.com/id/wbna28001417",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Bush administration ignored clear warnings",
+        "outlet": "FOX News (AP)",
+        "url": "https://www.foxnews.com/printer_friendly_wires/2008Dec01/0,4675,MeltdownIgnoredWarnings,00.html",
+        "tier": 1,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure",
+      "Corporate Lobbying"
+    ],
+    "status": "confirmed",
+    "summary": "On September 29, 2006, the Office of the Comptroller of the Currency, Federal Reserve, Federal Deposit Insurance Corporation, Office of Thrift Supervision, and National Credit Union Administration issued final \"Interagency Guidance on Nontraditional Mortgage Product Risks,\" published in the Federal Register on October 4, 2006. The guidance addressed risks from interest-only mortgages and payment-option adjustable-rate mortgages. However, the final rules were significantly weakened from the proposed December 2005 version, and came nearly a year too late to prevent the crisis already underway.\n\nThroughout 2006, industry advocates had submitted extensive comments opposing tougher regulation. In January 2006, California mortgage lender Paris Welch had warned regulators: \"Expect fallout, expect foreclosures, expect horror stories.\" Kevin Stein of the California Reinvestment Coalition wrote: \"We expect to see a huge increase in defaults, delinquencies and foreclosures as a result of the over selling of these products.\" Yet banks that would soon become synonymous with failure lobbied aggressively against the rules. David Schneider, home loan president of Washington Mutual, told regulators in early 2006: \"These mortgages have been considered more safe and sound for portfolio lenders than many fixed rate mortgages.\" WaMu would become the largest bank failure in U.S. history two years later.\n\nThe government's banking agencies spent nearly a year debating the rules, which required unanimous agreement among the OCC, FDIC, Federal Reserve, and OTS. The Fed under Alan Greenspan was reluctant to heavily regulate lending, while the OTS worried that restricting certain mortgages would hurt banks and consumers. Bowing to aggressive lobbying—along with bank assurances that troubled mortgages were acceptable—regulators delayed action for nearly a year. By the time the final rules were released, the toughest proposed provisions were gone and the housing meltdown was under way. The banks that lobbied most aggressively—IndyMac, Countrywide, Washington Mutual, Lehman Brothers, and Downey Savings—would all collapse or require government intervention within two years. This regulatory failure represents a textbook case of industry capture, where the institutions being regulated successfully neutered oversight meant to protect consumers and the financial system.",
+    "_file": "2006-09-29--occ-fed-fdic-issue-weak-mortgage-guidance-after-industry-lobbying.md",
+    "_id_hash": "3bceaad3f0c6c7236fa1c4252979386d3be8ff1621a2cde3fca897e93ae2ee90"
+  },
+  {
     "id": "2006-10-23--jeffrey-skilling-sentenced-24-years-enron-fraud",
     "date": "2006-10-23",
     "title": "Jeffrey Skilling Sentenced to 24 Years for Enron Fraud",
@@ -74198,6 +74622,56 @@
     "summary": "On October 23, 2006, former Enron CEO Jeffrey Skilling was sentenced to 24 years and four months in federal prison for his role in the Enron fraud, representing one of the harshest sentences ever imposed on a corporate executive. U.S. District Judge Sim Lake also ordered Skilling to forfeit approximately $45 million to be applied toward restitution for victims of Enron's collapse.\n\nSkilling, convicted on May 25, 2006, of 19 counts including securities fraud, wire fraud, insider trading, and conspiracy, served as Enron's CEO from February to August 2001—the critical period when the company's fraudulent accounting schemes unraveled. Prosecutors proved that Skilling knowingly participated in deceiving investors and employees about Enron's true financial condition while using complex off-balance-sheet partnerships to hide billions in debt and inflate profits.\n\nThe 24-year sentence came just three months after Enron founder Kenneth Lay died of a heart attack before his own sentencing hearing. Judge Lake's harsh sentence sent a message that top executives could not escape personal criminal accountability for corporate fraud, even when they claimed ignorance of the details of accounting manipulations they had authorized and profited from.\n\nHowever, Skilling's sentence would mark the end, not the beginning, of aggressive executive prosecution. In 2013, Skilling's sentence was reduced to 14 years as part of a deal with prosecutors, and he was released from prison in August 2018 after serving just 12 years. More significantly, after the 2008 financial crisis—which involved fraud far exceeding Enron's scale—no major Wall Street CEOs went to prison at all. The Skilling prosecution represented the last time federal prosecutors successfully pursued lengthy prison sentences for Fortune 500 executives involved in systematic corporate fraud.",
     "_file": "2006-10-23--jeffrey-skilling-sentenced-24-years-enron-fraud.md",
     "_id_hash": "529e59301ee122fc2158fb03329cdde5cb6a82d485a8f200a5b4943f8ce6e720"
+  },
+  {
+    "id": "2006-12-01--subprime-delinquencies-surge-to-13-percent-double-2005-rate",
+    "date": "2006-12-01",
+    "title": "Subprime Mortgage Delinquencies Surge to 13%, Nearly Double Mid-2005 Rates, as Crisis Accelerates",
+    "importance": 8,
+    "actors": [
+      "Subprime borrowers",
+      "Mortgage lenders",
+      "Federal Reserve",
+      "Federal Deposit Insurance Corporation"
+    ],
+    "tags": [
+      "subprime-mortgages",
+      "housing-bubble",
+      "foreclosure-crisis",
+      "systemic-risk",
+      "regulatory-failure"
+    ],
+    "sources": [
+      {
+        "title": "The Subprime Mortgage Market",
+        "outlet": "Federal Reserve",
+        "url": "https://www.federalreserve.gov/newsevents/speech/bernanke20070517a.htm",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "House Prices and Subprime Mortgage Delinquency",
+        "outlet": "Federal Reserve Bank of San Francisco",
+        "url": "https://www.frbsf.org/research-and-insights/publications/economic-letter/2007/06/house-prices-subprime-mortgage-delinquency/",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "Subprime mortgage crisis",
+        "outlet": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+        "tier": 3,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "By December 2006, over 13 percent of subprime mortgage loans in the United States were delinquent, up sharply from about 10 percent during the housing boom just a few years earlier. For subprime adjustable-rate mortgages specifically, the delinquency rate exceeded 14 percent in December 2006, double the approximately 10 percent rate from September 2004. Metropolitan areas where house prices decelerated most sharply in 2006 experienced the largest increases in subprime delinquency rates, as borrowers found themselves unable to refinance out of adjustable-rate mortgages when rates reset higher.\n\nThe surge in delinquencies reflected multiple converging factors. After rising at an annual rate of nearly 9 percent from 2000 through 2005, house prices decelerated in 2006 and even fell in some markets. Simultaneously, interest rates on both fixed- and adjustable-rate mortgages moved upward, reaching multi-year highs by mid-2006 as the Federal Reserve raised rates to 5.25 percent. Subprime borrowers with ARMs who had counted on refinancing before their payments rose found they lacked sufficient home equity to qualify for new loans given stagnant or declining house prices. Many borrowers discovered they were underwater on mortgages from the moment they closed—\"instant defaults\" where people defaulted on their very first payment with no intervening job loss or medical emergency.\n\nThe delinquency surge translated rapidly into foreclosure action. In the fourth quarter of 2006, approximately 310,000 foreclosure proceedings were initiated, compared to a quarterly average of roughly 230,000 for the preceding two years—a 35 percent increase. Subprime mortgages accounted for more than half of the foreclosures started in the fourth quarter. The deterioration was most severe for mortgages originated in 2005 and 2006 at the peak of loose underwriting, when stated income loans, low documentation requirements, and predatory lending practices were most prevalent. Federal regulators had received explicit warnings throughout 2006 about the coming wave of defaults and foreclosures but delayed action due to industry lobbying, allowing the crisis to accelerate. By late 2006, the subprime meltdown was no longer a theoretical risk—it was underway and accelerating.",
+    "_file": "2006-12-01--subprime-delinquencies-surge-to-13-percent-double-2005-rate.md",
+    "_id_hash": "496df731a413aa9c5b9992dd73a10a88a32aa103f2440d688d76dfbbeb9065af"
   },
   {
     "id": "2006-12-07--bush-administration-fires-9-us-attorneys-for-polit",
@@ -74297,6 +74771,51 @@
     "summary": "AT&T Inc. (formerly SBC Communications) completed its $85.8 billion acquisition of BellSouth Corporation with FCC approval, reassembling much of the former Bell System that was broken up in 1984 as an antitrust remedy. The merger consolidated control over telecommunications infrastructure across much of the United States and completed a remarkable reversal of the most famous antitrust case of the 20th century, as one of the Baby Bells grew large enough to acquire its former parent company and multiple siblings.\n\nThe BellSouth acquisition was the capstone of SBC Communications' aggressive consolidation strategy that had already reassembled significant portions of the original Bell System:\n\n- 1997: SBC acquired Pacific Telesis for $16.5 billion\n- 1998: SBC acquired Southern New England Telecommunications for $5.01 billion  \n- 1999: SBC acquired Ameritech for $61 billion, creating the largest U.S. local phone company\n- 2005: SBC acquired AT&T Corporation (the original parent company) for approximately $16 billion and renamed itself AT&T Inc.\n- 2006: The new AT&T acquired BellSouth for $85.8 billion\n\nThis consolidation wave effectively reversed the 1984 Modified Final Judgment that had broken up the Bell System monopoly into AT&T (long distance) and seven Regional Bell Operating Companies (\"Baby Bells\"). By 2006, what started as Southwestern Bell Corporation had consumed Pacific Telesis, Ameritech, Southern New England Telephone, the original AT&T, and BellSouth—reassembling much of the original monopoly under the historic AT&T brand.\n\nMeanwhile, on the East Coast, Bell Atlantic had merged with NYNEX in 1997 ($25.6 billion) and then with GTE in 2000 ($70 billion) to create Verizon Communications, assembling another telecommunications giant from Baby Bell components. By 2006, the seven Baby Bells had consolidated into essentially two dominant players (AT&T and Verizon) plus smaller regional carriers.\n\nThe Telecommunications Act of 1996 enabled this reconsolidation by relaxing restrictions on Baby Bell mergers that had been imposed in the 1984 breakup decree. Lawmakers and regulators claimed that competition from cable companies, wireless carriers, and emerging internet services would prevent monopoly abuses even as local telephone companies reconsolidated. This proved mistaken—the reunified carriers used their control over infrastructure to limit competition, particularly in broadband internet services.\n\nThe BellSouth merger gave AT&T control over Cingular Wireless (which had been a joint venture between SBC and BellSouth) and extended AT&T's wireline territory across the Southeast. The combined company controlled telecommunications infrastructure serving over 70 million local access lines and 58 million wireless subscribers, with dominant market positions across much of the South, Southwest, Midwest, and California.\n\nThe FCC approved the merger with conditions requiring AT&T to offer stand-alone DSL service, expand broadband deployment, and observe net neutrality principles for two years. However, these conditions proved temporary and ineffective at preventing AT&T from leveraging its market power to limit competition, raise prices, and degrade service quality. The net neutrality requirements expired, broadband deployment commitments were not meaningfully enforced, and AT&T subsequently lobbied to eliminate regulations constraining its conduct.\n\nThe AT&T-BellSouth merger exemplified the failure of antitrust enforcement to prevent reconsolidation of previously broken-up monopolies. The 1984 Bell System breakup was hailed as one of antitrust's greatest successes, increasing competition and innovation in telecommunications. Yet within 22 years, regulators and lawmakers had allowed the monopoly to substantially reassemble, demonstrating that even successful antitrust interventions can be reversed by subsequent regulatory capture and permissive merger enforcement.",
     "_file": "2006-12-29--att-bellsouth-merger-bell-system-reassembled.md",
     "_id_hash": "5b93f3557363f53b2154115ee5e07d20cebeaaeb5d44fe28c0c77535db229535"
+  },
+  {
+    "id": "2006-12-31--new-century-accounting-fraud-hides-loan-repurchase-surge",
+    "date": "2006-12-31",
+    "title": "New Century Financial Conceals Massive Early Payment Defaults Through Accounting Fraud in 2006",
+    "importance": 8,
+    "actors": [
+      "New Century Financial Corporation",
+      "Brad Morrice",
+      "David Einhorn",
+      "Securities and Exchange Commission",
+      "Rating agencies"
+    ],
+    "tags": [
+      "securities-fraud",
+      "accounting-fraud",
+      "subprime-mortgages",
+      "predatory-lending",
+      "corporate-crime"
+    ],
+    "sources": [
+      {
+        "title": "SEC Charges Former Officers of Subprime Lender New Century With Fraud",
+        "outlet": "Securities and Exchange Commission",
+        "url": "https://www.sec.gov/news/press/2009/2009-258.htm",
+        "tier": 1,
+        "verified": true
+      },
+      {
+        "title": "New Century Financial Corporation",
+        "outlet": "Bernstein Litowitz Berger & Grossmann LLP",
+        "url": "https://www.blbglaw.com/cases-investigations/new-century-financial-corporation",
+        "tier": 2,
+        "verified": true
+      }
+    ],
+    "capture_lanes": [
+      "Financial Industry Capture",
+      "Corporate Crime",
+      "Regulatory Failure"
+    ],
+    "status": "confirmed",
+    "summary": "Throughout 2006, New Century Financial Corporation, one of the nation's largest subprime mortgage lenders, engaged in systematic accounting fraud to conceal the deteriorating quality of its loan portfolio. The SEC later charged that the company's top officers misled investors as the business collapsed, failing to disclose dramatic increases in early loan defaults, loan repurchases, and pending loan repurchase requests. New Century made undisclosed changes to its accounting for loan repurchases in both the second and third quarters of 2006 that violated generally accepted accounting principles, allowing the company to improperly avoid substantial repurchase expenses and materially overstate its financial results.\n\nAs early payment defaults surged in 2006, New Century faced an enormous undisclosed backlog of loan repurchase demands from investors who discovered the mortgages they purchased were based on false documentation and overstated borrower qualifications. Rather than accurately reporting these mounting losses, executives implemented accounting changes designed to mask the magnitude of the problem. The company's public disclosures generally sought to assure investors that its business was not at risk and was performing better than peers, even as internal data showed the opposite.\n\nWhen New Century finally began disclosing the truth in February 2007, the market reacted with shock. A February 7, 2007 announcement wiped out over $600 million in market value in a single day as the stock dropped 36 percent from $30.16 to $19.24 per share. Following subsequent revelations, over $1.6 billion in market capitalization was eliminated. The SEC, U.S. Attorney's Office, and NYSE all launched investigations. In April 2007, New Century filed for bankruptcy as the slumping housing market caused defaults to spike across its portfolio. The fraud at New Century exemplifies how subprime lenders engaged in predatory origination practices, sold fraudulent loans into securitization markets, then used accounting manipulation to conceal the fraud—all while ratings agencies gave AAA ratings to securities backed by these toxic mortgages and regulators failed to detect or prevent the systematic deception.",
+    "_file": "2006-12-31--new-century-accounting-fraud-hides-loan-repurchase-surge.md",
+    "_id_hash": "17c1646aa0267264125baf2e589d554d06a800a1aa7bfd12ffe8eb0543a8f3cb"
   },
   {
     "id": "2007-01-01--alec-rich-states-poor-states-laffer-tax-competition-manifesto",

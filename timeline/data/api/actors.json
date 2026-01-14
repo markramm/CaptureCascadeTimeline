@@ -17,7 +17,7 @@
   },
   {
     "name": "U.S. Congress",
-    "count": 131
+    "count": 132
   },
   {
     "name": "FBI",
@@ -120,6 +120,10 @@
     "count": 42
   },
   {
+    "name": "Federal Reserve",
+    "count": 41
+  },
+  {
     "name": "McKinsey & Company",
     "count": 41
   },
@@ -133,10 +137,6 @@
   },
   {
     "name": "Republican Party",
-    "count": 38
-  },
-  {
-    "name": "Federal Reserve",
     "count": 38
   },
   {
@@ -256,6 +256,10 @@
     "count": 26
   },
   {
+    "name": "Securities and Exchange Commission",
+    "count": 26
+  },
+  {
     "name": "DOJ",
     "count": 26
   },
@@ -293,10 +297,6 @@
   },
   {
     "name": "Oracle",
-    "count": 24
-  },
-  {
-    "name": "Securities and Exchange Commission",
     "count": 24
   },
   {
@@ -400,6 +400,10 @@
     "count": 20
   },
   {
+    "name": "Goldman Sachs",
+    "count": 19
+  },
+  {
     "name": "International Monetary Fund",
     "count": 19
   },
@@ -417,10 +421,6 @@
   },
   {
     "name": "General Motors",
-    "count": 18
-  },
-  {
-    "name": "Goldman Sachs",
     "count": 18
   },
   {
@@ -760,6 +760,10 @@
     "count": 12
   },
   {
+    "name": "JPMorgan Chase",
+    "count": 12
+  },
+  {
     "name": "House Oversight Committee",
     "count": 12
   },
@@ -965,10 +969,6 @@
   },
   {
     "name": "Michael Gerson",
-    "count": 10
-  },
-  {
-    "name": "JPMorgan Chase",
     "count": 10
   },
   {
@@ -1288,6 +1288,10 @@
     "count": 8
   },
   {
+    "name": "Morgan Stanley",
+    "count": 8
+  },
+  {
     "name": "Sean Combs",
     "count": 8
   },
@@ -1297,6 +1301,10 @@
   },
   {
     "name": "Phil Gramm",
+    "count": 8
+  },
+  {
+    "name": "Deutsche Bank",
     "count": 8
   },
   {
@@ -1496,15 +1504,7 @@
     "count": 7
   },
   {
-    "name": "Morgan Stanley",
-    "count": 7
-  },
-  {
     "name": "Harvard University",
-    "count": 7
-  },
-  {
-    "name": "Deutsche Bank",
     "count": 7
   },
   {
@@ -1768,6 +1768,10 @@
     "count": 6
   },
   {
+    "name": "Federal Deposit Insurance Corporation",
+    "count": 6
+  },
+  {
     "name": "KKR",
     "count": 6
   },
@@ -1840,11 +1844,19 @@
     "count": 6
   },
   {
+    "name": "Office of the Comptroller of the Currency",
+    "count": 6
+  },
+  {
     "name": "Merck",
     "count": 6
   },
   {
     "name": "Hans von Spakovsky",
+    "count": 6
+  },
+  {
+    "name": "Ben Bernanke",
     "count": 6
   },
   {
@@ -2272,7 +2284,15 @@
     "count": 5
   },
   {
+    "name": "Lehman Brothers",
+    "count": 5
+  },
+  {
     "name": "Bain Capital",
+    "count": 5
+  },
+  {
+    "name": "Countrywide Financial",
     "count": 5
   },
   {
@@ -2281,10 +2301,6 @@
   },
   {
     "name": "Associated Press",
-    "count": 5
-  },
-  {
-    "name": "Ben Bernanke",
     "count": 5
   },
   {
@@ -2808,7 +2824,7 @@
     "count": 4
   },
   {
-    "name": "Federal Deposit Insurance Corporation",
+    "name": "Office of Thrift Supervision",
     "count": 4
   },
   {
@@ -2900,6 +2916,10 @@
     "count": 4
   },
   {
+    "name": "President George W. Bush",
+    "count": 4
+  },
+  {
     "name": "Institute for Justice",
     "count": 4
   },
@@ -2936,10 +2956,6 @@
     "count": 4
   },
   {
-    "name": "Office of the Comptroller of the Currency",
-    "count": 4
-  },
-  {
     "name": "Gina Haspel",
     "count": 4
   },
@@ -2969,10 +2985,6 @@
   },
   {
     "name": "House Energy and Commerce Committee",
-    "count": 4
-  },
-  {
-    "name": "Lehman Brothers",
     "count": 4
   },
   {
@@ -3017,6 +3029,10 @@
   },
   {
     "name": "James Risen",
+    "count": 4
+  },
+  {
+    "name": "State Attorneys General",
     "count": 4
   },
   {
@@ -4140,10 +4156,6 @@
     "count": 3
   },
   {
-    "name": "President George W. Bush",
-    "count": 3
-  },
-  {
     "name": "Arthur Andersen",
     "count": 3
   },
@@ -4244,6 +4256,14 @@
     "count": 3
   },
   {
+    "name": "Washington Mutual",
+    "count": 3
+  },
+  {
+    "name": "Rating agencies",
+    "count": 3
+  },
+  {
     "name": "Freddie Mac",
     "count": 3
   },
@@ -4329,10 +4349,6 @@
   },
   {
     "name": "Russian Intelligence",
-    "count": 3
-  },
-  {
-    "name": "State Attorneys General",
     "count": 3
   },
   {
@@ -7076,6 +7092,18 @@
     "count": 2
   },
   {
+    "name": "Angelo Mozilo",
+    "count": 2
+  },
+  {
+    "name": "Downey Savings",
+    "count": 2
+  },
+  {
+    "name": "Investment banks",
+    "count": 2
+  },
+  {
     "name": "Bob Ney",
     "count": 2
   },
@@ -7096,11 +7124,15 @@
     "count": 2
   },
   {
-    "name": "Ruslana Korshunova",
+    "name": "Subprime borrowers",
     "count": 2
   },
   {
-    "name": "Countrywide Financial",
+    "name": "Mortgage lenders",
+    "count": 2
+  },
+  {
+    "name": "Ruslana Korshunova",
     "count": 2
   },
   {
@@ -7112,7 +7144,23 @@
     "count": 2
   },
   {
+    "name": "Moody's Investors Service",
+    "count": 2
+  },
+  {
+    "name": "Standard & Poor's",
+    "count": 2
+  },
+  {
+    "name": "Fitch Ratings",
+    "count": 2
+  },
+  {
     "name": "Sim Lake",
+    "count": 2
+  },
+  {
+    "name": "Brad Morrice",
     "count": 2
   },
   {
@@ -15964,10 +16012,6 @@
     "count": 1
   },
   {
-    "name": "Office of Thrift Supervision",
-    "count": 1
-  },
-  {
     "name": "S&L executives",
     "count": 1
   },
@@ -18484,11 +18528,47 @@
     "count": 1
   },
   {
+    "name": "James Gilleran",
+    "count": 1
+  },
+  {
+    "name": "IndyMac Bank",
+    "count": 1
+  },
+  {
+    "name": "Wachovia",
+    "count": 1
+  },
+  {
+    "name": "BankUnited Financial",
+    "count": 1
+  },
+  {
     "name": "Joint IED Defeat Organization",
     "count": 1
   },
   {
+    "name": "Tricadia Inc",
+    "count": 1
+  },
+  {
     "name": "Steven Griles",
+    "count": 1
+  },
+  {
+    "name": "Ameriquest Mortgage Company",
+    "count": 1
+  },
+  {
+    "name": "ACC Capital Holdings",
+    "count": 1
+  },
+  {
+    "name": "California Attorney General Bill Lockyer",
+    "count": 1
+  },
+  {
+    "name": "New York Attorney General Eliot Spitzer",
     "count": 1
   },
   {
@@ -18497,6 +18577,14 @@
   },
   {
     "name": "Muslim community",
+    "count": 1
+  },
+  {
+    "name": "Magnetar Capital",
+    "count": 1
+  },
+  {
+    "name": "Institutional investors",
     "count": 1
   },
   {
@@ -18516,14 +18604,6 @@
     "count": 1
   },
   {
-    "name": "Washington Mutual",
-    "count": 1
-  },
-  {
-    "name": "Rating agencies",
-    "count": 1
-  },
-  {
     "name": "Khalid Sheikh Mohammed",
     "count": 1
   },
@@ -18533,6 +18613,22 @@
   },
   {
     "name": "William Heaton",
+    "count": 1
+  },
+  {
+    "name": "National Credit Union Administration",
+    "count": 1
+  },
+  {
+    "name": "IndyMac",
+    "count": 1
+  },
+  {
+    "name": "Paris Welch",
+    "count": 1
+  },
+  {
+    "name": "California Reinvestment Coalition",
     "count": 1
   },
   {
@@ -18552,6 +18648,14 @@
     "count": 1
   },
   {
+    "name": "New Century Financial Corporation",
+    "count": 1
+  },
+  {
+    "name": "David Einhorn",
+    "count": 1
+  },
+  {
     "name": "Jonathan Williams",
     "count": 1
   },
@@ -18561,10 +18665,6 @@
   },
   {
     "name": "Roger Vinson",
-    "count": 1
-  },
-  {
-    "name": "Brad Morrice",
     "count": 1
   },
   {
@@ -18709,10 +18809,6 @@
   },
   {
     "name": "Valentina Kutenkova",
-    "count": 1
-  },
-  {
-    "name": "Angelo Mozilo",
     "count": 1
   },
   {
@@ -20273,18 +20369,6 @@
   },
   {
     "name": "Drug Wholesalers",
-    "count": 1
-  },
-  {
-    "name": "Standard & Poor's",
-    "count": 1
-  },
-  {
-    "name": "Moody's Investors Service",
-    "count": 1
-  },
-  {
-    "name": "Fitch Ratings",
     "count": 1
   },
   {

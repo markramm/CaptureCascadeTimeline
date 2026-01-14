@@ -1,15 +1,15 @@
 {
-  "total_events": 4169,
-  "total_tags": 6443,
-  "total_actors": 7879,
-  "total_sources": 14379,
+  "total_events": 4179,
+  "total_tags": 6450,
+  "total_actors": 7900,
+  "total_sources": 14408,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-01-14"
   },
   "status_counts": {
     "unknown": 936,
-    "confirmed": 3185,
+    "confirmed": 3195,
     "validated": 29,
     "disputed": 2,
     "verified": 1,
@@ -25,7 +25,7 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 577
+      "count": 580
     },
     {
       "name": "institutional-capture",
@@ -83,7 +83,7 @@
     },
     {
       "name": "U.S. Congress",
-      "count": 131
+      "count": 132
     },
     {
       "name": "FBI",
@@ -106,5 +106,5 @@
       "count": 72
     }
   ],
-  "generated": "2026-01-13T23:02:15.909274"
+  "generated": "2026-01-13T23:26:33.402106"
 }

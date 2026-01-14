@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-13 23:02:15
+Generated: 2026-01-13 23:26:33
 
 ## Overview
-- **Total Events**: 4169
+- **Total Events**: 4179
 - **Date Range**: 1142-01-01 to 2026-01-14
-- **Total Sources**: 14379
-- **Unique Tags**: 6443
-- **Unique Actors**: 7879
+- **Total Sources**: 14408
+- **Unique Tags**: 6450
+- **Unique Actors**: 7900
 
 ## Event Status
 - **Unknown**: 936
-- **Confirmed**: 3185
+- **Confirmed**: 3195
 - **Validated**: 29
 - **Disputed**: 2
 - **Verified**: 1
@@ -25,7 +25,7 @@ Generated: 2026-01-13 23:02:15
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 577 events
+- regulatory-capture: 580 events
 - institutional-capture: 398 events
 - corruption: 286 events
 - systematic-corruption: 140 events
@@ -41,7 +41,7 @@ Generated: 2026-01-13 23:02:15
 - Trump Administration: 334 events
 - Department of Justice: 261 events
 - Elon Musk: 164 events
-- U.S. Congress: 131 events
+- U.S. Congress: 132 events
 - FBI: 90 events
 - Pam Bondi: 82 events
 - Supreme Court: 74 events
@@ -266,7 +266,7 @@ Generated: 2026-01-13 23:02:15
 - 2003: 34 events
 - 2004: 33 events
 - 2005: 38 events
-- 2006: 20 events
+- 2006: 30 events
 - 2007: 24 events
 - 2008: 39 events
 - 2009: 33 events
