@@ -1,12 +1,12 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-12 18:08:28
+Generated: 2026-01-13 20:02:43
 
 ## Overview
 - **Total Events**: 4144
 - **Date Range**: 1142-01-01 to 2026-01-12
-- **Total Sources**: 14311
-- **Unique Tags**: 6403
+- **Total Sources**: 14314
+- **Unique Tags**: 6415
 - **Unique Actors**: 7849
 
 ## Event Status
@@ -26,10 +26,10 @@ Generated: 2026-01-12 18:08:28
 
 ## Top Tags
 - regulatory-capture: 577 events
-- institutional-capture: 400 events
-- corruption: 285 events
-- trump-administration: 141 events
+- institutional-capture: 398 events
+- corruption: 286 events
 - systematic-corruption: 140 events
+- trump-administration: 140 events
 - kleptocracy: 137 events
 - government-contracts: 132 events
 - supreme-court: 131 events

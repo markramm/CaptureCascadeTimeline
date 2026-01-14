@@ -29361,13 +29361,6 @@
 2. [President Issues Proclamation for Veterans Day](https://www.presidentialprayerteam.org/2025/11/11/president-issues-proclamation-for-veterans-day/)
 3. [White House Says Trump's Proposal to Rename Veterans Day Has Been Scrapped](https://www.military.com/daily-news/2025/05/05/white-house-retreat-trumps-short-lived-proposal-rename-veterans-day.html)
 
-## Rep. Adelita Grijalva Sworn Into House After Historic 50-Day Delay, Becomes 218th Signature on Epstein Files Petition
-*Date: 2025-11-12*
-
-1. [After a 50-day wait, Arizona Rep. Adelita Grijalva is sworn into Congress](https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in)
-2. [Democratic Rep. Grijalva sworn in after 7 weeks, becomes key signature on Epstein files petition](https://abcnews.go.com/Politics/rep-elect-grijalva-sworn-months-after-special-election/story?id=127417242)
-3. [Democratic Rep. Raúl M. Grijalva of Arizona dies at 77](https://www.npr.org/2025/03/13/g-s1-53681/democratic-rep-raul-m-grijalva-of-arizona-dies-at-77)
-
 ## Rep. Lauren Boebert Summoned to White House Situation Room Over Epstein Files Petition
 *Date: 2025-11-12*
 
@@ -29376,13 +29369,6 @@
 3. ['I guess I'm pretty high profile': Lauren Boebert defends Trump's 'weird' decision to hold Epstein crisis talks in Situation Room](https://www.aol.com/articles/guess-m-pretty-high-profile-173917707.html)
 4. ['Gang of Four' firm on Epstein files amid Trump pressure](https://www.rte.ie/news/analysis-and-comment/2025/1115/1544119-us-epstein/)
 
-## Epstein Files Transparency Act Discharge Petition Reaches 218 Signatures, Forcing House Vote
-*Date: 2025-11-12*
-
-1. [Rep. Grijalva signs petition on Epstein files, giving it the 218th signature needed to force House vote](https://www.pbs.org/newshour/politics/rep-grijalva-signs-petition-on-epstein-files-giving-it-the-218th-signature-needed-to-force-house-vote)
-2. [Epstein discharge petition secures final signature needed to force House vote on releasing files](https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/)
-3. [Adelita Grijalva can force a vote on the Epstein files, but she's still not sworn in](https://www.npr.org/2025/10/16/g-s1-93709/adelita-grijalva-mike-johnson-swearing-in)
-
 ## Government Shutdown Ends After 43 Days: Longest in U.S. History
 *Date: 2025-11-12*
 
@@ -29390,13 +29376,22 @@
 2. [The shutdown deal doesn't extend expiring health subsidies. What happens to them now?](https://www.pbs.org/newshour/politics/the-shutdown-deal-doesnt-extend-expiring-health-subsidies-what-happens-to-them-now)
 3. [Trump signs funding bill into law, ending record-long government shutdown](https://www.nbcnews.com/politics/congress/house-vote-bill-end-government-shutdown-longest-ever-snap-flights-rcna243438)
 
-## House Oversight Democrats Release Epstein Emails Stating Trump "Knew About the Girls" and Spent Hours with Victim
+## Rep. Adelita Grijalva Sworn In as 218th Signature on Epstein Files Discharge Petition, Forces Mandatory Vote
 *Date: 2025-11-12*
 
-1. [House Democrats release new Epstein emails referencing Trump](https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983)
-2. [White House downplays new Epstein emails that mention Trump](https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie)
-3. [Read Jeffrey Epstein's newly released emails about Trump](https://www.pbs.org/newshour/politics/read-jeffrey-epsteins-newly-released-emails-about-trump)
-4. [House Oversight Committee Releases Jeffrey Epstein Email Correspondence, Raising Questions About White House Coverup of Epstein Files](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)
+1. [WATCH LIVE: Rep.-Elect Adelita Grijalva is sworn in, 7 weeks after election, teeing up Epstein vote](https://www.pbs.org/newshour/politics/watch-live-rep-elect-adelita-grijalva-is-sworn-in-7-weeks-after-election-teeing-up-epstein-vote)
+2. [Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files](https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in)
+3. [Bipartisan duo expects to secure signatures Wednesday to force a vote to release Epstein files](https://www.nbcnews.com/politics/congress/bipartisan-duo-expects-signatures-wednesday-force-vote-release-epstein-rcna231405)
+4. [The Epstein files petition is getting its 218th signature. What happens next?](https://www.cnn.com/2025/11/12/politics/epstein-files-discharge-petition-next-steps)
+
+## House Democrats Release Epstein Estate Emails Documenting Trump-Victim Contact and Trafficking Knowledge
+*Date: 2025-11-12*
+
+1. [House Oversight Committee Releases Jeffrey Epstein Email Correspondence](https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising)
+2. [Epstein mentioned Trump multiple times in private emails, new release shows](https://www.cnn.com/2025/11/12/politics/epstein-trump-emails-oversight-committee)
+3. [House Democrats release Epstein email that mentions Trump](https://www.washingtonpost.com/politics/2025/11/12/house-democrats-release-epstein-email-that-claimed-trump-spent-hours-with-victim/)
+4. [House Democrats release new Epstein emails referencing Trump](https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983)
+5. [New Epstein emails appear to reveal more Trump ties](https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie)
 
 ## House Republicans Release 20,000+ Epstein Pages in Response to Democrat Emails, Accuse "Cherry-Picking"
 *Date: 2025-11-12*
@@ -29404,6 +29399,15 @@
 1. [House committee releases over 20,000 documents from Epstein estate](https://www.npr.org/2025/11/13/nx-s1-5607057/house-committee-releases-over-20-000-documents-from-epstein-estate)
 2. [Oversight Committee Releases Additional Epstein Estate Documents](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-estate-documents/)
 3. [New Epstein emails and files - What do they reveal about Trump?](https://www.aljazeera.com/news/2025/11/13/new-epstein-emails-and-files-what-do-they-reveal-about-trump)
+
+## Epstein Files Discharge Petition Ripens at 218 Signatures Despite Intense Trump Pressure Campaign
+*Date: 2025-11-13*
+
+1. [Epstein files vote can advance, with House discharge petition success](https://www.washingtonpost.com/politics/2025/11/12/epstein-discharge-petition-house-massie-khanna-grijalva/)
+2. [Trump administration holds Situation Room meeting over House effort to force release of Epstein files](https://www.cnn.com/2025/11/12/politics/trump-administration-meeting-house-effort-epstein-document-release)
+3. [Bipartisan duo secures signatures to force a House vote to release Epstein files](https://www.nbcnews.com/politics/congress/bipartisan-duo-expects-signatures-wednesday-force-vote-release-epstein-rcna231405)
+4. [Epstein discharge petition secures final signature needed to force House vote](https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/)
+5. [Mike Johnson speeds up vote on Epstein files to next week](https://thehill.com/homenews/house/5603299-house-votes-epstein-files-mike-johnson/)
 
 ## Defense Secretary Hegseth Formally Unveils 'Operation Southern Spear' Military Campaign
 *Date: 2025-11-13*
@@ -30783,13 +30787,12 @@
 3. [Denmark prime minister calls on Trump to stop the threats about Greenland](https://www.cbsnews.com/news/denmark-trump-aide-stephen-miller-wife-katie-miller-posts-image-us-flag-greenland/)
 4. [Republican leaders push back on Trump's openness to using military to take Greenland](https://www.nbcnews.com/politics/congress/republican-leaders-push-back-trump-openness-military-greenland-rcna252814)
 
-## ICE Agent Fatally Shoots US Citizen Renee Nicole Good Through Car Windshield in Minneapolis
+## ICE Agent Kills Legal Observer Renee Nicole Good During Minneapolis Raid
 *Date: 2026-01-07*
 
-1. [Minneapolis ICE shooting: A minute-by-minute timeline](https://abcnews.go.com/US/minneapolis-ice-shooting-minute-minute-timeline-renee-nicole/story?id=129021809)
-2. [Renee Nicole Good: Mother of 3 killed by ICE in Minneapolis](https://www.cnn.com/2026/01/08/us/renee-nicole-good-minneapolis-ice-shooting-hnk)
-3. [ICE officer fatally shoots driver through car window in Minneapolis](https://minnesotareformer.com/2026/01/07/ice-officer-fatally-shoots-driver-through-car-window-in-minneapolis/)
-4. [Renee Good killed by ICE agent in Minneapolis](https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation)
+1. [ICE agent kills Minneapolis woman - body camera footage emerges](https://www.theguardian.com/us-news/2026/jan/09/ice-agent-minneapolis-bodycam-footage)
+2. [Minneapolis ICE shooting - A minute-by-minute timeline of how Renee Nicole Good died](https://abcnews.go.com/US/minneapolis-ice-shooting-minute-minute-timeline-renee-nicole/story?id=129021809)
+3. [Made of sunshine - Renee Good's wife speaks out following fatal Minneapolis ICE shooting](https://abcnews.go.com/US/renee-good-37-year-woman-killed-minneapolis-ice/story?id=129018464)
 
 ## Stephen Miller Articulates 'Might Makes Right' Foreign Policy Doctrine on Venezuela and Greenland
 *Date: 2026-01-07*

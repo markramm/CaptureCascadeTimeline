@@ -84,11 +84,11 @@
     "count": 53
   },
   {
-    "name": "Kristi Noem",
-    "count": 50
+    "name": "Barack Obama",
+    "count": 49
   },
   {
-    "name": "Barack Obama",
+    "name": "Kristi Noem",
     "count": 49
   },
   {
@@ -128,6 +128,10 @@
     "count": 39
   },
   {
+    "name": "DHS",
+    "count": 39
+  },
+  {
     "name": "Republican Party",
     "count": 38
   },
@@ -141,10 +145,6 @@
   },
   {
     "name": "Donald Trump Jr.",
-    "count": 38
-  },
-  {
-    "name": "DHS",
     "count": 38
   },
   {
@@ -304,15 +304,15 @@
     "count": 24
   },
   {
-    "name": "JD Vance",
-    "count": 24
-  },
-  {
     "name": "Koch Industries",
     "count": 23
   },
   {
     "name": "Federalist Society",
+    "count": 23
+  },
+  {
+    "name": "JD Vance",
     "count": 23
   },
   {
@@ -576,10 +576,6 @@
     "count": 15
   },
   {
-    "name": "Karoline Leavitt",
-    "count": 15
-  },
-  {
     "name": "Abraham Lincoln",
     "count": 14
   },
@@ -620,15 +616,19 @@
     "count": 14
   },
   {
+    "name": "Karoline Leavitt",
+    "count": 14
+  },
+  {
+    "name": "Thomas Massie",
+    "count": 14
+  },
+  {
     "name": "J. Edgar Hoover",
     "count": 13
   },
   {
     "name": "Dwight D. Eisenhower",
-    "count": 13
-  },
-  {
-    "name": "House of Representatives",
     "count": 13
   },
   {
@@ -668,10 +668,6 @@
     "count": 13
   },
   {
-    "name": "House Oversight Committee",
-    "count": 13
-  },
-  {
     "name": "Apple",
     "count": 13
   },
@@ -693,10 +689,6 @@
   },
   {
     "name": "Department of Government Efficiency (DOGE)",
-    "count": 13
-  },
-  {
-    "name": "Thomas Massie",
     "count": 13
   },
   {
@@ -764,6 +756,10 @@
     "count": 12
   },
   {
+    "name": "House Oversight Committee",
+    "count": 12
+  },
+  {
     "name": "Nancy Pelosi",
     "count": 12
   },
@@ -805,6 +801,10 @@
   },
   {
     "name": "Federal Reserve Board",
+    "count": 11
+  },
+  {
+    "name": "House of Representatives",
     "count": 11
   },
   {
@@ -865,6 +865,10 @@
   },
   {
     "name": "Michael Flynn",
+    "count": 11
+  },
+  {
+    "name": "Ro Khanna",
     "count": 11
   },
   {
@@ -973,10 +977,6 @@
   },
   {
     "name": "Axon",
-    "count": 10
-  },
-  {
-    "name": "Ro Khanna",
     "count": 10
   },
   {
@@ -1616,6 +1616,10 @@
     "count": 7
   },
   {
+    "name": "House Democrats",
+    "count": 7
+  },
+  {
     "name": "FTC",
     "count": 7
   },
@@ -1844,10 +1848,6 @@
     "count": 6
   },
   {
-    "name": "Virginia Giuffre",
-    "count": 6
-  },
-  {
     "name": "Antitrust Division",
     "count": 6
   },
@@ -1933,10 +1933,6 @@
   },
   {
     "name": "John Bolton",
-    "count": 6
-  },
-  {
-    "name": "House Democrats",
     "count": 6
   },
   {
@@ -2285,6 +2281,10 @@
   },
   {
     "name": "Ben Bernanke",
+    "count": 5
+  },
+  {
+    "name": "Virginia Giuffre",
     "count": 5
   },
   {
@@ -5144,10 +5144,6 @@
     "count": 3
   },
   {
-    "name": "Adelita Grijalva",
-    "count": 3
-  },
-  {
     "name": "William Fitzpatrick",
     "count": 3
   },
@@ -5173,10 +5169,6 @@
   },
   {
     "name": "Juan Orlando Hernández",
-    "count": 3
-  },
-  {
-    "name": "Tim Walz",
     "count": 3
   },
   {
@@ -8760,10 +8752,6 @@
     "count": 2
   },
   {
-    "name": "Robert Garcia",
-    "count": 2
-  },
-  {
     "name": "AI Safety Experts",
     "count": 2
   },
@@ -9448,6 +9436,10 @@
     "count": 2
   },
   {
+    "name": "Adelita Grijalva",
+    "count": 2
+  },
+  {
     "name": "Reid Hoffman",
     "count": 2
   },
@@ -9512,6 +9504,10 @@
     "count": 2
   },
   {
+    "name": "Tim Walz",
+    "count": 2
+  },
+  {
     "name": "Department of Veterans Affairs",
     "count": 2
   },
@@ -9561,10 +9557,6 @@
   },
   {
     "name": "Denmark",
-    "count": 2
-  },
-  {
-    "name": "Jacob Frey",
     "count": 2
   },
   {
@@ -25232,6 +25224,10 @@
     "count": 1
   },
   {
+    "name": "Robert Garcia",
+    "count": 1
+  },
+  {
     "name": "Rep. Don Bacon",
     "count": 1
   },
@@ -30140,19 +30136,19 @@
     "count": 1
   },
   {
-    "name": "Raul Grijalva",
-    "count": 1
-  },
-  {
-    "name": "Nancy Mace",
-    "count": 1
-  },
-  {
     "name": "Democrats",
     "count": 1
   },
   {
     "name": "Republicans",
+    "count": 1
+  },
+  {
+    "name": "House Oversight Committee Democrats",
+    "count": 1
+  },
+  {
+    "name": "Nancy Mace",
     "count": 1
   },
   {
@@ -31344,11 +31340,11 @@
     "count": 1
   },
   {
-    "name": "Renee Nicole Good",
+    "name": "Greg Bovino",
     "count": 1
   },
   {
-    "name": "Jonathan Ross",
+    "name": "Renee Nicole Good",
     "count": 1
   },
   {
@@ -31361,6 +31357,10 @@
   },
   {
     "name": "Bob Jacobson",
+    "count": 1
+  },
+  {
+    "name": "Jacob Frey",
     "count": 1
   },
   {

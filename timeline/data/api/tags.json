@@ -5,18 +5,18 @@
   },
   {
     "name": "institutional-capture",
-    "count": 400
+    "count": 398
   },
   {
     "name": "corruption",
-    "count": 285
-  },
-  {
-    "name": "trump-administration",
-    "count": 141
+    "count": 286
   },
   {
     "name": "systematic-corruption",
+    "count": 140
+  },
+  {
+    "name": "trump-administration",
     "count": 140
   },
   {
@@ -69,7 +69,7 @@
   },
   {
     "name": "civil-rights",
-    "count": 90
+    "count": 89
   },
   {
     "name": "judicial-capture",
@@ -85,7 +85,7 @@
   },
   {
     "name": "accountability",
-    "count": 78
+    "count": 76
   },
   {
     "name": "campaign-finance",
@@ -136,16 +136,16 @@
     "count": 60
   },
   {
+    "name": "first-amendment",
+    "count": 59
+  },
+  {
     "name": "deregulation",
     "count": 59
   },
   {
-    "name": "first-amendment",
-    "count": 58
-  },
-  {
     "name": "authoritarianism",
-    "count": 58
+    "count": 57
   },
   {
     "name": "civil-liberties",
@@ -248,15 +248,15 @@
     "count": 41
   },
   {
-    "name": "cover-up",
-    "count": 41
-  },
-  {
     "name": "corporate-accountability",
     "count": 40
   },
   {
     "name": "constitutional-violation",
+    "count": 40
+  },
+  {
+    "name": "cover-up",
     "count": 40
   },
   {
@@ -352,10 +352,6 @@
     "count": 33
   },
   {
-    "name": "ice",
-    "count": 33
-  },
-  {
     "name": "doj-weaponization",
     "count": 33
   },
@@ -384,6 +380,10 @@
     "count": 32
   },
   {
+    "name": "ice",
+    "count": 32
+  },
+  {
     "name": "political-corruption",
     "count": 31
   },
@@ -393,10 +393,6 @@
   },
   {
     "name": "heritage-foundation",
-    "count": 31
-  },
-  {
-    "name": "transparency",
     "count": 31
   },
   {
@@ -425,6 +421,10 @@
   },
   {
     "name": "media-consolidation",
+    "count": 30
+  },
+  {
+    "name": "transparency",
     "count": 30
   },
   {
@@ -509,10 +509,6 @@
   },
   {
     "name": "fossil-fuels",
-    "count": 26
-  },
-  {
-    "name": "epstein",
     "count": 26
   },
   {
@@ -601,6 +597,10 @@
   },
   {
     "name": "social-media",
+    "count": 23
+  },
+  {
+    "name": "epstein",
     "count": 23
   },
   {
@@ -697,10 +697,6 @@
   },
   {
     "name": "political accountability",
-    "count": 21
-  },
-  {
-    "name": "congress",
     "count": 21
   },
   {
@@ -809,6 +805,10 @@
   },
   {
     "name": "military-industrial complex",
+    "count": 19
+  },
+  {
+    "name": "congress",
     "count": 19
   },
   {
@@ -1008,6 +1008,10 @@
     "count": 15
   },
   {
+    "name": "obstruction",
+    "count": 15
+  },
+  {
     "name": "housing",
     "count": 15
   },
@@ -1105,10 +1109,6 @@
   },
   {
     "name": "regulatory-reform",
-    "count": 14
-  },
-  {
-    "name": "obstruction",
     "count": 14
   },
   {
@@ -1300,10 +1300,6 @@
     "count": 12
   },
   {
-    "name": "police-violence",
-    "count": 12
-  },
-  {
     "name": "corporate-violence",
     "count": 12
   },
@@ -1436,6 +1432,10 @@
     "count": 11
   },
   {
+    "name": "police-violence",
+    "count": 11
+  },
+  {
     "name": "deportation",
     "count": 11
   },
@@ -1465,6 +1465,10 @@
   },
   {
     "name": "fbi-abuse",
+    "count": 11
+  },
+  {
+    "name": "kompromat",
     "count": 11
   },
   {
@@ -1621,10 +1625,6 @@
   },
   {
     "name": "inequality",
-    "count": 10
-  },
-  {
-    "name": "kompromat",
     "count": 10
   },
   {
@@ -2560,6 +2560,10 @@
     "count": 7
   },
   {
+    "name": "epstein-connections",
+    "count": 7
+  },
+  {
     "name": "traditional-governance",
     "count": 6
   },
@@ -2721,10 +2725,6 @@
   },
   {
     "name": "leveraged-buyout",
-    "count": 6
-  },
-  {
-    "name": "minnesota",
     "count": 6
   },
   {
@@ -3028,10 +3028,6 @@
     "count": 6
   },
   {
-    "name": "epstein-connections",
-    "count": 6
-  },
-  {
     "name": "caribbean",
     "count": 6
   },
@@ -3288,11 +3284,11 @@
     "count": 5
   },
   {
-    "name": "arizona",
+    "name": "keating-five",
     "count": 5
   },
   {
-    "name": "keating-five",
+    "name": "minnesota",
     "count": 5
   },
   {
@@ -3996,6 +3992,10 @@
     "count": 4
   },
   {
+    "name": "arizona",
+    "count": 4
+  },
+  {
     "name": "transportation",
     "count": 4
   },
@@ -4568,15 +4568,7 @@
     "count": 4
   },
   {
-    "name": "document-release",
-    "count": 4
-  },
-  {
     "name": "media-access",
-    "count": 4
-  },
-  {
-    "name": "sexual-abuse",
     "count": 4
   },
   {
@@ -4688,7 +4680,7 @@
     "count": 4
   },
   {
-    "name": "extrajudicial-killing",
+    "name": "bovino",
     "count": 4
   },
   {
@@ -5936,6 +5928,10 @@
     "count": 3
   },
   {
+    "name": "document-release",
+    "count": 3
+  },
+  {
     "name": "tech-oversight",
     "count": 3
   },
@@ -6144,6 +6140,10 @@
     "count": 3
   },
   {
+    "name": "congressional-procedure",
+    "count": 3
+  },
+  {
     "name": "first-amendment-violations",
     "count": 3
   },
@@ -6153,6 +6153,10 @@
   },
   {
     "name": "institutional-sabotage",
+    "count": 3
+  },
+  {
+    "name": "sexual-trafficking",
     "count": 3
   },
   {
@@ -6208,15 +6212,15 @@
     "count": 3
   },
   {
-    "name": "bovino",
-    "count": 3
-  },
-  {
     "name": "uscis",
     "count": 3
   },
   {
     "name": "refugees",
+    "count": 3
+  },
+  {
+    "name": "extrajudicial-killing",
     "count": 3
   },
   {
@@ -9324,6 +9328,10 @@
     "count": 2
   },
   {
+    "name": "sexual-abuse",
+    "count": 2
+  },
+  {
     "name": "certification",
     "count": 2
   },
@@ -9952,10 +9960,6 @@
     "count": 2
   },
   {
-    "name": "sexual-trafficking",
-    "count": 2
-  },
-  {
     "name": "political-connections",
     "count": 2
   },
@@ -10036,10 +10040,6 @@
     "count": 2
   },
   {
-    "name": "special-election",
-    "count": 2
-  },
-  {
     "name": "broadview",
     "count": 2
   },
@@ -10060,7 +10060,7 @@
     "count": 2
   },
   {
-    "name": "house-oversight",
+    "name": "epstein-transparency",
     "count": 2
   },
   {
@@ -23800,10 +23800,6 @@
     "count": 1
   },
   {
-    "name": "congressional-procedure",
-    "count": 1
-  },
-  {
     "name": "thomas-massie",
     "count": 1
   },
@@ -24364,6 +24360,10 @@
     "count": 1
   },
   {
+    "name": "special-election",
+    "count": 1
+  },
+  {
     "name": "democratic-response",
     "count": 1
   },
@@ -24496,10 +24496,6 @@
     "count": 1
   },
   {
-    "name": "house of representatives",
-    "count": 1
-  },
-  {
     "name": "government",
     "count": 1
   },
@@ -24508,7 +24504,35 @@
     "count": 1
   },
   {
+    "name": "accountability-mechanisms",
+    "count": 1
+  },
+  {
+    "name": "bipartisan-effort",
+    "count": 1
+  },
+  {
+    "name": "trump-cover-up",
+    "count": 1
+  },
+  {
+    "name": "documentary-evidence",
+    "count": 1
+  },
+  {
+    "name": "house-oversight",
+    "count": 1
+  },
+  {
     "name": "partisan-politics",
+    "count": 1
+  },
+  {
+    "name": "trump-obstruction-fails",
+    "count": 1
+  },
+  {
+    "name": "accountability-victory",
     "count": 1
   },
   {
@@ -25585,6 +25609,30 @@
   },
   {
     "name": "impeachment-threat",
+    "count": 1
+  },
+  {
+    "name": "ice-shooting",
+    "count": 1
+  },
+  {
+    "name": "legal-observer",
+    "count": 1
+  },
+  {
+    "name": "minneapolis",
+    "count": 1
+  },
+  {
+    "name": "operation-metro-surge",
+    "count": 1
+  },
+  {
+    "name": "2026-cascade",
+    "count": 1
+  },
+  {
+    "name": "civilian-casualty",
     "count": 1
   },
   {
