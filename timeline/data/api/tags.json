@@ -1612,6 +1612,10 @@
     "count": 10
   },
   {
+    "name": "white-nationalism",
+    "count": 10
+  },
+  {
     "name": "institutional-abuse",
     "count": 10
   },
@@ -1777,10 +1781,6 @@
   },
   {
     "name": "indigenous-genocide",
-    "count": 9
-  },
-  {
-    "name": "white-nationalism",
     "count": 9
   },
   {
@@ -2077,6 +2077,10 @@
   },
   {
     "name": "abramoff",
+    "count": 8
+  },
+  {
+    "name": "influence-peddling",
     "count": 8
   },
   {
@@ -2396,10 +2400,6 @@
     "count": 7
   },
   {
-    "name": "influence-peddling",
-    "count": 7
-  },
-  {
     "name": "israel",
     "count": 7
   },
@@ -2477,6 +2477,10 @@
   },
   {
     "name": "faa",
+    "count": 7
+  },
+  {
+    "name": "alt-right",
     "count": 7
   },
   {
@@ -3489,10 +3493,6 @@
   },
   {
     "name": "corinthian-colleges",
-    "count": 5
-  },
-  {
-    "name": "alt-right",
     "count": 5
   },
   {
@@ -4601,6 +4601,10 @@
   },
   {
     "name": "lina-khan",
+    "count": 4
+  },
+  {
+    "name": "america-first",
     "count": 4
   },
   {
@@ -5929,10 +5933,6 @@
   },
   {
     "name": "trump-endorsement",
-    "count": 3
-  },
-  {
-    "name": "america-first",
     "count": 3
   },
   {
@@ -19636,6 +19636,18 @@
     "count": 1
   },
   {
+    "name": "congressional-staff",
+    "count": 1
+  },
+  {
+    "name": "gamergate-pipeline",
+    "count": 1
+  },
+  {
+    "name": "maga-extremism",
+    "count": 1
+  },
+  {
     "name": "january-6-committee",
     "count": 1
   },
@@ -21109,6 +21121,22 @@
   },
   {
     "name": "compliance",
+    "count": 1
+  },
+  {
+    "name": "trump-transition",
+    "count": 1
+  },
+  {
+    "name": "access-selling",
+    "count": 1
+  },
+  {
+    "name": "crisis-management",
+    "count": 1
+  },
+  {
+    "name": "far-right-rehabilitation",
     "count": 1
   },
   {

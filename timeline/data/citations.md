@@ -19295,6 +19295,14 @@
 2. [Axon halts its plans for a Taser drone as 9 on ethics board resign over the project](https://www.npr.org/2022/06/06/1103285030/axon-halts-plans-for-taser-drone-as-9-on-ethics-board-resign)
 3. [Axon's AI Ethics Board resigns over plan to surveil schools with armed drones](https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/)
 
+## Milo Yiannopoulos Becomes Unpaid Intern for Marjorie Taylor Greene After Connecting Her to White Nationalists
+*Date: 2022-06-06*
+
+1. [Milo Yiannopoulos Is Now Interning for Marjorie Taylor Greene](https://www.thedailybeast.com/milo-yiannopoulos-is-now-interning-for-marjorie-taylor-greene/)
+2. [Milo Yiannopoulos says he is interning for Marjorie Taylor Greene](https://www.washingtonpost.com/politics/2022/06/07/milo-yiannopoulos-intern-marjorie-taylor-greene/)
+3. [Milo Yiannopoulos interning for Marjorie Taylor Greene](https://www.axios.com/2022/06/06/milo-yiannopoulos-intern-marjorie-taylor-greene)
+4. [Marjorie Taylor Greene Employed White Nationalist Collaborator](https://www.splcenter.org/resources/hatewatch/marjorie-taylor-greene-employed-white-nationalist-collaborator/)
+
 ## FTC Launches Bipartisan Investigation into PBM Market Concentration and Drug Pricing
 *Date: 2022-06-07*
 
@@ -21569,6 +21577,12 @@
 1. [fsb.org](https://www.fsb.org/2023/07/fsb-finalises-global-regulatory-framework-for-crypto-asset-activities/)
 2. [financemagnates.com](https://www.financemagnates.com/cryptocurrency/regulatory-winds-of-change-crypto-industry-prepares-for-compliance-in-2024/)
 3. [gov.uk](https://www.gov.uk/government/publications/regulatory-regime-for-cryptoassets-regulated-activities-draft-si-and-policy-note/future-financial-services-regulatory-regime-for-cryptoassets-regulated-activities-policy-note-accessible)
+
+## Milo Yiannopoulos Launches Tarantula Management Firm Offering Trump Administration Access
+*Date: 2024-11-14*
+
+1. [The Milo Yiannopoulos Makeover: The Alt-Right's Fallen Poster Boy Is Back for Trump 2.0](https://www.hollywoodreporter.com/news/politics-news/milo-yiannopoulos-career-new-ventures-1236059885/)
+2. [Tarantula](https://www.peoplefor.org/rightwingwatch/tarantula)
 
 ## Anthropic Secures Comprehensive FedRAMP High Certification for Government AI Deployment
 *Date: 2024-11-15*
