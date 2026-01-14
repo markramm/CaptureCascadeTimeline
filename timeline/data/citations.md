@@ -30904,6 +30904,14 @@
 2. [JD Vance says a bit too much about White House control over Justice Department](https://www.ms.now/rachel-maddow-show/maddowblog/jd-vance-says-a-bit-too-much-about-white-house-control-over-the-justice-department)
 3. [JD Vance announces anti-fraud task force after Minnesota fraud scandal](https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal)
 
+## Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit
+*Date: 2026-01-09*
+
+1. [Exxon CEO calls Venezuela 'uninvestable' without 'significant changes'](https://www.washingtonpost.com/business/2026/01/09/trump-oil-executives-venezuela-exxon/)
+2. [Trump says oil companies will spend $100 billion in Venezuela with U.S. protection](https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html)
+3. [U.S. oil giants tell Trump they're noncommittal on Venezuela](https://www.axios.com/2026/01/09/us-oil-giants-noncommittal-on-venezuela)
+4. [More Than a Dozen Oil Bosses to Attend Trump Venezuela Meeting](https://www.bloomberg.com/news/articles/2026-01-08/more-than-a-dozen-oil-bosses-to-attend-trump-venezuela-meeting)
+
 ## Trump Threatens to Take Greenland 'The Hard Way' as Greenlandic Parties Unite in Opposition
 *Date: 2026-01-09*
 
@@ -30937,10 +30945,16 @@
 
 1. [Tillis statement on Federal Reserve nominations](https://www.tillis.senate.gov/2026/1/tillis-statement-on-federal-reserve-nominations)
 
-## Six Minnesota Federal Prosecutors Resign Over DOJ Push to Investigate Renee Good's Widow
+## Internal Documents Reveal ICE Agents Afraid of Minneapolis Deployment After Good Shooting
+*Date: 2026-01-13*
+
+1. [Immigration Agents Terrified by ICE](https://www.kenklippenstein.com/p/immigration-agents-terrified-by-ice)
+
+## Twelve Federal Prosecutors Resign Over DOJ Handling of Renee Good Shooting
 *Date: 2026-01-13*
 
 1. [Joe Thompson, US attorney who uncovered massive fraud in Minnesota, resigns from office](https://www.startribune.com/joe-thompson-us-attorney-who-uncovered-massive-fraud-in-minnesota-resigns-from-office/601563206)
 2. [Minnesota federal prosecutors resign after DOJ push to investigate Renee Good's widow](https://www.npr.org/2026/01/13/nx-s1-5676123/minnesota-federal-prosecutors-resign-after-doj-push-to-investigate-renee-goods-widow)
 3. [Top prosecutors leave amid turmoil over DOJ civil rights response](https://www.washingtonpost.com/national-security/2026/01/13/justice-department-civil-rights-resignations/)
 4. [Six DOJ Prosecutors Resign Over Renee Good Investigation](https://www.notus.org/courts/doj-prosecutors-joseph-thompson-resign-renee-good-widow-minneapolis-investigation-fbi)
+5. [Mass exodus hits Justice Department's Civil Rights Division amid lack of action in Minneapolis](https://www.cbsnews.com/news/minneapolis-ice-agent-shooting-justice-department-civil-rights-division-resignations/)

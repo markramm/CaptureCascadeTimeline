@@ -221398,6 +221398,69 @@
       "_id_hash": "7bca1c0d631fce503fb0774168f2c0bdcc39ab01c32c95b2df5b1523d3e5e8b5"
     },
     {
+      "id": "2026-01-09--trump-oil-executives-white-house-venezuela-uninvestible",
+      "date": "2026-01-09",
+      "title": "Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Darren Woods",
+        "Marco Rubio",
+        "Chris Wright",
+        "Doug Burgum",
+        "Harold Hamm",
+        "Chevron",
+        "ExxonMobil",
+        "ConocoPhillips",
+        "Shell"
+      ],
+      "tags": [
+        "venezuela",
+        "oil-industry",
+        "white-house",
+        "corporate-access",
+        "foreign-policy"
+      ],
+      "sources": [
+        {
+          "title": "Exxon CEO calls Venezuela 'uninvestable' without 'significant changes'",
+          "url": "https://www.washingtonpost.com/business/2026/01/09/trump-oil-executives-venezuela-exxon/",
+          "outlet": "Washington Post",
+          "date": "2026-01-09",
+          "tier": 1
+        },
+        {
+          "title": "Trump says oil companies will spend $100 billion in Venezuela with U.S. protection",
+          "url": "https://www.cnbc.com/2026/01/09/trump-venezuela-oil-executives-white-house-meeting.html",
+          "outlet": "CNBC",
+          "date": "2026-01-09",
+          "tier": 1
+        },
+        {
+          "title": "U.S. oil giants tell Trump they're noncommittal on Venezuela",
+          "url": "https://www.axios.com/2026/01/09/us-oil-giants-noncommittal-on-venezuela",
+          "outlet": "Axios",
+          "date": "2026-01-09",
+          "tier": 1
+        },
+        {
+          "title": "More Than a Dozen Oil Bosses to Attend Trump Venezuela Meeting",
+          "url": "https://www.bloomberg.com/news/articles/2026-01-08/more-than-a-dozen-oil-bosses-to-attend-trump-venezuela-meeting",
+          "outlet": "Bloomberg",
+          "date": "2026-01-08",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Corporate Capture of Government",
+        "Foreign Policy Privatization"
+      ],
+      "summary": "Trump convened more than a dozen oil and gas executives at the White House East Room to pitch $100 billion in investments to develop Venezuela's oil industry, less than a week after U.S. forces seized Venezuelan President Nicolás Maduro. Attendees included executives from Chevron, ExxonMobil, ConocoPhillips, Continental Resources, Halliburton, Shell, Marathon, Valero, and others, alongside Secretary of State Marco Rubio, Energy Secretary Chris Wright, and Interior Secretary Doug Burgum.\n\nExxonMobil CEO Darren Woods delivered a blunt assessment: \"It's uninvestible.\" Woods explained that \"looking at the legal and commercial constructs—frameworks—in place today in Venezuela, today it's uninvestable,\" adding that \"significant changes have to be made to those commercial frameworks, the legal system, there has to be durable investment protections, and there has to be a change to the hydrocarbon laws in the country.\" Even major Trump donor Harold Hamm signaled he would need far more assurances before backing the administration's reinvestment scheme.\n\nTrump emerged from the meeting without any major investment commitments. Three days later, Trump threatened to sideline Exxon from Venezuela entirely, telling reporters aboard Air Force One: \"I didn't like Exxon's response. I'd probably be inclined to keep Exxon out.\" He accused the company of \"playing too cute.\" The exchange illustrated the tension between Trump's transactional approach to foreign policy and corporate executives' need for stable legal frameworks.",
+      "_file": "2026-01-09--trump-oil-executives-white-house-venezuela-uninvestible.md",
+      "_id_hash": "ac186639d5091f57714328bb30cc953e42a3977f9839136c70c83e70df00164c"
+    },
+    {
       "id": "2026-01-09--trump-threatens-hard-way-greenland-acquisition",
       "date": "2026-01-09",
       "title": "Trump Threatens to Take Greenland 'The Hard Way' as Greenlandic Parties Unite in Opposition",
@@ -221617,15 +221680,49 @@
       "_id_hash": "117fa332acf7a87cd415ea5a8598b6ffaf1f8bf0e1b961d1e467f5eda5bbfad3"
     },
     {
+      "id": "2026-01-13--ice-agents-afraid-minneapolis-deployment-internal-documents",
+      "date": "2026-01-13",
+      "title": "Internal Documents Reveal ICE Agents Afraid of Minneapolis Deployment After Good Shooting",
+      "importance": 7,
+      "actors": [
+        "DHS",
+        "ICE",
+        "CBP"
+      ],
+      "tags": [
+        "operation-metro-surge",
+        "minneapolis",
+        "ice-morale",
+        "2026-cascade"
+      ],
+      "sources": [
+        {
+          "title": "Immigration Agents Terrified by ICE",
+          "url": "https://www.kenklippenstein.com/p/immigration-agents-terrified-by-ice",
+          "outlet": "Ken Klippenstein",
+          "date": "2026-01-13",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Law Enforcement Weaponization"
+      ],
+      "summary": "Internal DHS documents revealed significant hesitation among federal agents about deployment to Minneapolis under Operation Metro Surge following the fatal shooting of Renee Good. A memo from Border Patrol's Acting Assistant Chief Joshua Andrew Post sought 300 volunteer personnel (200 Border Patrol Agents and 100 Processing Coordinators) by January 11, but sources noted: \"We do have personnel but some just don't want to go.\"\n\nA high-level DHS official stated there was \"genuine fear that indeed ICE's heavy handedness and the rhetoric from Washington is more creating a condition where the officers' lives are in danger.\" Border Patrol issued \"legal refresher\" memos on use-of-force policies and operational security guidance, including instructions to remove law enforcement identification near hotels and disable location tracking.\n\nAgents also expressed concerns that inexperienced personnel could escalate situations, with one noting: \"If no experienced senior agents step up, they send the new guys straight out of the academy. Not a good idea.\" The internal resistance revealed tensions between Washington's aggressive enforcement posture and ground-level concerns about community backlash and officer safety.",
+      "_file": "2026-01-13--ice-agents-afraid-minneapolis-deployment-internal-documents.md",
+      "_id_hash": "7aed7b3183cd891c153d8d179c7a67e8be4db1f159fe289c82b52251c15f96cb"
+    },
+    {
       "id": "2026-01-13--six-minnesota-federal-prosecutors-resign-doj-renee-good-investigation",
       "date": "2026-01-13",
-      "title": "Six Minnesota Federal Prosecutors Resign Over DOJ Push to Investigate Renee Good's Widow",
+      "title": "Twelve Federal Prosecutors Resign Over DOJ Handling of Renee Good Shooting",
       "importance": 9,
       "actors": [
         "Joseph Thompson",
         "Thomas Calhoun-Lopez",
         "Melinda Williams",
         "Todd Blanche",
+        "Harmeet Dhillon",
         "DOJ"
       ],
       "tags": [
@@ -221633,6 +221730,7 @@
         "operation-metro-surge",
         "renee-good",
         "prosecutor-resignations",
+        "civil-rights-division",
         "2026-cascade"
       ],
       "sources": [
@@ -221663,6 +221761,13 @@
           "outlet": "Notus",
           "date": "2026-01-13",
           "tier": 2
+        },
+        {
+          "title": "Mass exodus hits Justice Department's Civil Rights Division amid lack of action in Minneapolis",
+          "url": "https://www.cbsnews.com/news/minneapolis-ice-agent-shooting-justice-department-civil-rights-division-resignations/",
+          "outlet": "CBS News",
+          "date": "2026-01-13",
+          "tier": 1
         }
       ],
       "status": "confirmed",
@@ -221670,7 +221775,7 @@
         "DOJ Capture",
         "Constitutional & Democratic Breakdown"
       ],
-      "summary": "At least six federal prosecutors resigned from the Minnesota U.S. Attorney's Office over DOJ leadership's handling of the Renee Good shooting investigation. The three top-ranking prosecutors in the office—Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro)—all resigned.\n\nAccording to the New York Times, the resignations were triggered by DOJ pressure to investigate Renee Good's widow and her ties to activist groups, combined with the department's refusal to open a civil rights investigation into the shooting itself. Deputy Attorney General Todd Blanche had stated \"there is currently no basis for a criminal civil rights investigation\" into the ICE agent who killed Good.\n\nAt least six additional prosecutors from DOJ's Civil Rights Division in Washington, D.C. resigned the same day, most of them supervisors in the Criminal Section. The mass resignations represented an unprecedented break within the Justice Department over the politicization of law enforcement priorities—investigating the victim's family while refusing to investigate the shooter.",
+      "summary": "At least twelve federal prosecutors resigned in protest over the DOJ's handling of the Renee Good shooting investigation. Six prosecutors resigned from the Minnesota U.S. Attorney's Office, including the three top-ranking prosecutors: Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro).\n\nSimultaneously, six prosecutors from DOJ's Civil Rights Division in Washington, D.C. announced their departures, including the criminal section's chief. The Civil Rights Division resignations were triggered by Assistant Attorney General Harmeet Dhillon's decision not to investigate the ICE officer's fatal shooting of Renee Good. Sources told CBS News: \"The lack of an investigation in Minneapolis was a breaking point for some of them.\"\n\nThe Minnesota resignations were triggered by DOJ pressure to investigate Renee Good's widow Becca and her ties to activist groups, combined with the department's refusal to open a civil rights investigation into the shooting itself. Deputy Attorney General Todd Blanche stated \"there is currently no basis for a criminal civil rights investigation\" into the ICE agent who killed Good. The FBI announced it would handle the investigation on its own and blocked Minnesota authorities from their typical role in reviewing evidence. The investigation was being treated as an assault on a federal officer—with ICE agent Jonathan Ross, rather than Good, as the victim.\n\nThe mass resignations represented an unprecedented break within the Justice Department over the politicization of law enforcement priorities. The Civil Rights Division had about 380 attorneys when Trump took office in January 2025 but saw a large exodus after Dhillon took the helm, as she aligned the division with the president's priorities.",
       "_file": "2026-01-13--six-minnesota-federal-prosecutors-resign-doj-renee-good-investigation.md",
       "_id_hash": "4d79d8dcb926054ec11c87b3b09ea44d60931d71fbbe265489c96a0c179426b2"
     }

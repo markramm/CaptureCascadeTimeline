@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1075
+    "count": 1076
   },
   {
     "name": "Trump Administration",
@@ -45,7 +45,7 @@
   },
   {
     "name": "ICE",
-    "count": 67
+    "count": 68
   },
   {
     "name": "Jeffrey Epstein",
@@ -112,11 +112,11 @@
     "count": 43
   },
   {
-    "name": "U.S. Senate",
-    "count": 42
+    "name": "DHS",
+    "count": 43
   },
   {
-    "name": "DHS",
+    "name": "U.S. Senate",
     "count": 42
   },
   {
@@ -184,6 +184,10 @@
     "count": 32
   },
   {
+    "name": "ExxonMobil",
+    "count": 32
+  },
+  {
     "name": "White House Iraq Group",
     "count": 32
   },
@@ -201,10 +205,6 @@
   },
   {
     "name": "Saudi Arabia",
-    "count": 31
-  },
-  {
-    "name": "ExxonMobil",
     "count": 31
   },
   {
@@ -316,15 +316,15 @@
     "count": 23
   },
   {
+    "name": "Marco Rubio",
+    "count": 23
+  },
+  {
     "name": "Kash Patel",
     "count": 23
   },
   {
     "name": "James Comey",
-    "count": 22
-  },
-  {
-    "name": "Marco Rubio",
     "count": 22
   },
   {
@@ -780,6 +780,10 @@
     "count": 12
   },
   {
+    "name": "CBP",
+    "count": 12
+  },
+  {
     "name": "Jamie Raskin",
     "count": 12
   },
@@ -865,10 +869,6 @@
   },
   {
     "name": "Michael Flynn",
-    "count": 11
-  },
-  {
-    "name": "CBP",
     "count": 11
   },
   {
@@ -1260,6 +1260,10 @@
     "count": 8
   },
   {
+    "name": "Chevron",
+    "count": 8
+  },
+  {
     "name": "John McCain",
     "count": 8
   },
@@ -1481,10 +1485,6 @@
   },
   {
     "name": "Heartland Institute",
-    "count": 7
-  },
-  {
-    "name": "Chevron",
     "count": 7
   },
   {
@@ -2456,6 +2456,10 @@
     "count": 5
   },
   {
+    "name": "Harmeet Dhillon",
+    "count": 5
+  },
+  {
     "name": "Justice Ketanji Brown Jackson",
     "count": 5
   },
@@ -2489,6 +2493,10 @@
   },
   {
     "name": "National Lawyers Guild",
+    "count": 5
+  },
+  {
+    "name": "Chris Wright",
     "count": 5
   },
   {
@@ -3340,10 +3348,6 @@
     "count": 4
   },
   {
-    "name": "Harmeet Dhillon",
-    "count": 4
-  },
-  {
     "name": "Josh Hawley",
     "count": 4
   },
@@ -3389,10 +3393,6 @@
   },
   {
     "name": "USAID",
-    "count": 4
-  },
-  {
-    "name": "Chris Wright",
     "count": 4
   },
   {
@@ -3469,6 +3469,10 @@
   },
   {
     "name": "Immigration and Customs Enforcement",
+    "count": 4
+  },
+  {
+    "name": "Doug Burgum",
     "count": 4
   },
   {
@@ -4229,6 +4233,10 @@
   },
   {
     "name": "Blackstone",
+    "count": 3
+  },
+  {
+    "name": "ConocoPhillips",
     "count": 3
   },
   {
@@ -5113,10 +5121,6 @@
   },
   {
     "name": "Open Society Foundations",
-    "count": 3
-  },
-  {
-    "name": "Doug Burgum",
     "count": 3
   },
   {
@@ -6556,6 +6560,10 @@
     "count": 2
   },
   {
+    "name": "Shell",
+    "count": 2
+  },
+  {
     "name": "John Glenn",
     "count": 2
   },
@@ -7045,10 +7053,6 @@
   },
   {
     "name": "Harry Markopolos",
-    "count": 2
-  },
-  {
-    "name": "ConocoPhillips",
     "count": 2
   },
   {
@@ -9365,6 +9369,10 @@
   },
   {
     "name": "JPMorgan",
+    "count": 2
+  },
+  {
+    "name": "Harold Hamm",
     "count": 2
   },
   {
@@ -16069,10 +16077,6 @@
   },
   {
     "name": "American Electric Power",
-    "count": 1
-  },
-  {
-    "name": "Shell",
     "count": 1
   },
   {
@@ -29276,10 +29280,6 @@
     "count": 1
   },
   {
-    "name": "Harold Hamm",
-    "count": 1
-  },
-  {
     "name": "National Science Foundation",
     "count": 1
   },
@@ -31413,6 +31413,10 @@
   },
   {
     "name": "Todd Young",
+    "count": 1
+  },
+  {
+    "name": "Darren Woods",
     "count": 1
   },
   {

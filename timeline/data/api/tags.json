@@ -212,15 +212,15 @@
     "count": 45
   },
   {
+    "name": "foreign-policy",
+    "count": 44
+  },
+  {
     "name": "institutional-racism",
     "count": 43
   },
   {
     "name": "democratic-erosion",
-    "count": 43
-  },
-  {
-    "name": "foreign-policy",
     "count": 43
   },
   {
@@ -1228,6 +1228,10 @@
     "count": 13
   },
   {
+    "name": "white-house",
+    "count": 13
+  },
+  {
     "name": "merger",
     "count": 13
   },
@@ -1276,6 +1280,10 @@
     "count": 13
   },
   {
+    "name": "venezuela",
+    "count": 13
+  },
+  {
     "name": "political-manipulation",
     "count": 12
   },
@@ -1297,6 +1305,10 @@
   },
   {
     "name": "indigenous-rights",
+    "count": 12
+  },
+  {
+    "name": "oil-industry",
     "count": 12
   },
   {
@@ -1329,10 +1341,6 @@
   },
   {
     "name": "consolidation",
-    "count": 12
-  },
-  {
-    "name": "white-house",
     "count": 12
   },
   {
@@ -1400,10 +1408,6 @@
     "count": 12
   },
   {
-    "name": "venezuela",
-    "count": 12
-  },
-  {
     "name": "labor-exploitation",
     "count": 11
   },
@@ -1425,10 +1429,6 @@
   },
   {
     "name": "financial-fraud",
-    "count": 11
-  },
-  {
-    "name": "oil-industry",
     "count": 11
   },
   {
@@ -1748,6 +1748,10 @@
     "count": 10
   },
   {
+    "name": "operation-metro-surge",
+    "count": 10
+  },
+  {
     "name": "indigenous-genocide",
     "count": 9
   },
@@ -1924,7 +1928,11 @@
     "count": 9
   },
   {
-    "name": "operation-metro-surge",
+    "name": "minneapolis",
+    "count": 9
+  },
+  {
+    "name": "2026-cascade",
     "count": 9
   },
   {
@@ -2185,14 +2193,6 @@
   },
   {
     "name": "court-defiance",
-    "count": 8
-  },
-  {
-    "name": "minneapolis",
-    "count": 8
-  },
-  {
-    "name": "2026-cascade",
     "count": 8
   },
   {
@@ -5428,6 +5428,10 @@
     "count": 3
   },
   {
+    "name": "civil-rights-division",
+    "count": 3
+  },
+  {
     "name": "blackwater",
     "count": 3
   },
@@ -7964,10 +7968,6 @@
     "count": 2
   },
   {
-    "name": "civil-rights-division",
-    "count": 2
-  },
-  {
     "name": "contractor-corruption",
     "count": 2
   },
@@ -9665,6 +9665,10 @@
   },
   {
     "name": "military-authority",
+    "count": 2
+  },
+  {
+    "name": "corporate-access",
     "count": 2
   },
   {
@@ -22204,10 +22208,6 @@
     "count": 1
   },
   {
-    "name": "corporate-access",
-    "count": 1
-  },
-  {
     "name": "infrastructure-privatization",
     "count": 1
   },
@@ -25669,6 +25669,10 @@
   },
   {
     "name": "native-americans",
+    "count": 1
+  },
+  {
+    "name": "ice-morale",
     "count": 1
   },
   {
