@@ -21687,6 +21687,13 @@
 4. [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees)
 5. [FTC junk fees rule takes effect](https://www.consumerfinance.gov/about-us/blog/junk-fees-rule-published/)
 
+## Bannon Vows to Destroy 'Truly Evil' Elon Musk, Declares MAGA Civil War
+*Date: 2025-01-13*
+
+1. [Trump ally Steve Bannon blasts Elon Musk as 'truly evil' in MAGA split](https://www.aljazeera.com/economy/2025/1/13/trump-ally-steve-bannon-blasts-elon-musk-as-truly-evil-in-maga-split)
+2. [Steve Bannon vows to have 'evil' Elon Musk 'run out' of the White House](https://www.axios.com/2025/01/13/steve-bannon-elon-musk-trump-maga)
+3. [Steve Bannon says he will 'take down' the 'truly evil' Elon Musk](https://thehill.com/blogs/blog-briefing-room/5081681-steve-bannon-says-he-will-take-down-the-truly-evil-elon-musk/)
+
 ## Trump Inauguration Raises Record $245 Million with $161 Million from Corporations Facing Federal Enforcement
 *Date: 2025-01-13*
 
@@ -23345,6 +23352,13 @@
 1. [Musk's PAC launches $1 million TV ad buy touting Trump's first 6 weeks in office](https://abcnews.go.com/US/musks-pac-launches-1-million-tv-ad-buy/story?id=119480959)
 2. [Musk-backed PAC launches first TV ad after Trump address](https://thehill.com/homenews/campaign/5177639-elons-musk-trump-ad/)
 3. [EXCLUSIVE: Elon Musk PAC thanks Trump for 'saving the American Dream' in new million-dollar ad](https://www.foxnews.com/politics/exclusive-elon-musk-pac-thanks-trump-saving-american-dream-new-million-dollar-ad)
+
+## Cabinet Meeting Explodes as Rubio and Duffy Clash with Musk Over DOGE Cuts
+*Date: 2025-03-06*
+
+1. [Musk, Rubio clashed in front of Trump during Cabinet meeting](https://abcnews.go.com/Politics/musk-rubio-clashed-front-trump-cabinet-meeting-sources/story?id=119572925)
+2. [Haberman: Rubio, Duffy spar with Musk in 'explosive' Cabinet meeting](https://www.cnn.com/2025/03/07/politics/video/the-lead-maggie-haberman-musk-doge-congress-meeting-clash-jake-tapper)
+3. [Marco Rubio Finally Loses It at Elon Musk in Trump Cabinet Meeting](https://newrepublic.com/post/192493/marco-rubio-elon-musk-fight-donald-trump)
 
 ## Federal layoffs surge to 62,530 in first two months as DOGE cuts dominate
 *Date: 2025-03-06*
@@ -25778,6 +25792,13 @@
 5. [Ripple was Trump inauguration's top crypto donor before SEC regulatory shift](https://protos.com/ripple-was-trump-inaugurations-top-crypto-donor-before-sec-regulatory-shift/)
 6. [Million-Dollar Donors Flooded Trump's Second Inauguration](https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration)
 
+## Trump-Musk Feud Erupts Over 'Big Beautiful Bill' as Musk Suggests Impeachment
+*Date: 2025-06-03*
+
+1. [Donald Trump-Elon Musk Feud Escalates Over 'Big, Beautiful Bill'](https://deadline.com/2025/06/trump-elon-musk-big-beautiful-bill-1236424453/)
+2. [From bromance to breakup: How Elon Musk and Donald Trump blew up](https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup)
+3. [Trump-Musk feud escalates - What happened? And what comes next?](https://www.aljazeera.com/news/2025/6/6/trump-musk-feud-escalates-what-happened-and-what-comes-next)
+
 ## Trump's Truth Social Takes Step Toward Launching Bitcoin ETF with NYSE Arca Filing
 *Date: 2025-06-03*
 
@@ -27932,6 +27953,13 @@
 1. [Trump Spending Act Creates $40 Billion in New Fossil Fuel Subsidies](https://www.wired.com/story/trump-spending-fossil-fuel-subsidies-40-billion/)
 2. [Oil Industry Influence on Energy Policy](https://www.wsj.com/business/energy-oil/trump-oil-donors-harold-hamm-kelcy-warren-policy-influence)
 
+## Charlie Kirk Assassinated at Utah Valley University During Turning Point USA Event
+*Date: 2025-09-10*
+
+1. [Manhunt for shooter continues after Charlie Kirk killed in 'political assassination'](https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514)
+2. [Charlie Kirk shooting suspect in custody after manhunt](https://www.cbsnews.com/live-updates/charlie-kirk-shot-utah-turning-point-usa/)
+3. [Plans estimated 600 people would come to the event where Charlie Kirk was shot. Over 3,000 showed up](https://abcnews.go.com/US/plans-estimated-600-people-event-charlie-kirk-shot/story?id=127610821)
+
 ## Commerce Secretary Lutnick Forces Corporations to Provide Government Equity Stakes
 *Date: 2025-09-10*
 
@@ -29045,6 +29073,13 @@
 
 1. [Trump Floats Constitutional Third Term Bypass](https://www.theguardian.com/us-news/2025/oct/27/trump-third-term-vice-president-suggestion)
 
+## Tucker Carlson Interviews Nick Fuentes, Exposing Republican Rift Over Antisemitism
+*Date: 2025-10-27*
+
+1. [Tucker Carlson's interview with antisemite Nick Fuentes exposes rift among Republicans](https://www.pbs.org/newshour/show/tucker-carlsons-interview-with-antisemite-nick-fuentes-exposes-rift-among-republicans)
+2. [Conservatives reckon with how to handle antisemitism after Tucker Carlson controversy](https://www.npr.org/2025/11/09/nx-s1-5599975/nick-fuentes-comments-on-the-tucker-carlson-show-sparks-backlash-from-conservatives)
+3. [Tucker Carlson discusses 'these Zionist Jews' with avowed antisemite Nick Fuentes](https://www.timesofisrael.com/tucker-carlson-discusses-these-zionist-jews-with-avowed-antisemite-nick-fuentes/)
+
 ## Trump Family Crypto Platform Tied to Pardoned Binance Executive Generated $500M
 *Date: 2025-10-27*
 
@@ -29337,6 +29372,13 @@
 2. [Trump administration cannot withhold $4 billion in SNAP benefits, appeals court rules](https://www.nbcnews.com/politics/politics-news/snap-benefits-appeals-court-rules-trump-admin-cannot-withhold-payments-rcna242954)
 3. [Appeals court backs ruling requiring full SNAP benefit payments for November](https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html)
 
+## Heritage Foundation Board Members Resign Over Kevin Roberts Defending Tucker Carlson's Fuentes Interview
+*Date: 2025-11-10*
+
+1. [Robert P. George resigns from Heritage Foundation over Tucker Carlson interview](https://thehill.com/homenews/5608934-heritage-foundation-board-resignation/)
+2. [2 additional Heritage Foundation board members leave amid Carlson-Fuentes fallout](https://thehill.com/homenews/media/5651880-heritage-foundation-board-resignations/)
+3. [The Heritage Foundation is imploding](https://www.newsweek.com/heritage-foundation-project-2025-resignations-11258763)
+
 ## Trump Issues Proclamation for Marine Corps 250th Anniversary Emphasizing Military Spending Increase
 *Date: 2025-11-10*
 
@@ -29552,6 +29594,13 @@
 1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
 2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
 3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
+
+## DOGE Disbanded Eight Months Early After Musk Departure and Trump Feud
+*Date: 2025-11-24*
+
+1. [DOGE quietly disbands 8 months ahead of schedule](https://wtop.com/government/2025/11/doge-quietly-disbands-8-months-ahead-of-schedule/)
+2. [DOGE 'doesn't exist' with eight months left on its charter](https://www.cnbc.com/2025/11/24/doge-doesnt-exist-with-eight-months-left-on-its-charter.html)
+3. [DOGE days are over as Trump disbands Elon Musk's team of federal cost-cutters](https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/)
 
 ## Federal Judge Dismisses Indictments Against Letitia James and Comey, Ruling Halligan's Appointment Unlawful
 *Date: 2025-11-24*

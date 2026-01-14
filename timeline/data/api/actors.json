@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1078
+    "count": 1083
   },
   {
     "name": "Trump Administration",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Elon Musk",
-    "count": 160
+    "count": 164
   },
   {
     "name": "U.S. Congress",
@@ -32,15 +32,15 @@
     "count": 74
   },
   {
+    "name": "Heritage Foundation",
+    "count": 73
+  },
+  {
     "name": "Ronald Reagan",
     "count": 72
   },
   {
     "name": "Congress",
-    "count": 71
-  },
-  {
-    "name": "Heritage Foundation",
     "count": 71
   },
   {
@@ -280,6 +280,10 @@
     "count": 25
   },
   {
+    "name": "Marco Rubio",
+    "count": 25
+  },
+  {
     "name": "Russell Vought",
     "count": 25
   },
@@ -304,7 +308,7 @@
     "count": 24
   },
   {
-    "name": "Marco Rubio",
+    "name": "JD Vance",
     "count": 24
   },
   {
@@ -317,10 +321,6 @@
   },
   {
     "name": "Federalist Society",
-    "count": 23
-  },
-  {
-    "name": "JD Vance",
     "count": 23
   },
   {
@@ -352,6 +352,10 @@
     "count": 21
   },
   {
+    "name": "Steve Bannon",
+    "count": 21
+  },
+  {
     "name": "American Legislative Exchange Council",
     "count": 20
   },
@@ -369,10 +373,6 @@
   },
   {
     "name": "Robert Mueller",
-    "count": 20
-  },
-  {
-    "name": "Steve Bannon",
     "count": 20
   },
   {
@@ -409,6 +409,10 @@
   },
   {
     "name": "SpaceX",
+    "count": 19
+  },
+  {
+    "name": "DOGE",
     "count": 19
   },
   {
@@ -533,10 +537,6 @@
   },
   {
     "name": "Howard Lutnick",
-    "count": 16
-  },
-  {
-    "name": "DOGE",
     "count": 16
   },
   {
@@ -892,6 +892,10 @@
     "count": 11
   },
   {
+    "name": "Sean Duffy",
+    "count": 11
+  },
+  {
     "name": "Marjorie Taylor Greene",
     "count": 11
   },
@@ -1000,10 +1004,6 @@
     "count": 10
   },
   {
-    "name": "Sean Duffy",
-    "count": 10
-  },
-  {
     "name": "Wall Street",
     "count": 9
   },
@@ -1033,6 +1033,10 @@
   },
   {
     "name": "LAPD",
+    "count": 9
+  },
+  {
+    "name": "Kevin Roberts",
     "count": 9
   },
   {
@@ -1125,6 +1129,10 @@
   },
   {
     "name": "Sergey Kislyak",
+    "count": 9
+  },
+  {
+    "name": "Nick Fuentes",
     "count": 9
   },
   {
@@ -1464,10 +1472,6 @@
     "count": 7
   },
   {
-    "name": "Kevin Roberts",
-    "count": 7
-  },
-  {
     "name": "Gerald Ford",
     "count": 7
   },
@@ -1604,10 +1608,6 @@
     "count": 7
   },
   {
-    "name": "Nick Fuentes",
-    "count": 7
-  },
-  {
     "name": "Jamal Khashoggi",
     "count": 7
   },
@@ -1633,6 +1633,10 @@
   },
   {
     "name": "ProPublica",
+    "count": 7
+  },
+  {
+    "name": "Tucker Carlson",
     "count": 7
   },
   {
@@ -2404,11 +2408,11 @@
     "count": 5
   },
   {
-    "name": "Greg Hayes",
+    "name": "Charlie Kirk",
     "count": 5
   },
   {
-    "name": "Tucker Carlson",
+    "name": "Greg Hayes",
     "count": 5
   },
   {
@@ -2429,6 +2433,10 @@
   },
   {
     "name": "American Federation of Government Employees",
+    "count": 5
+  },
+  {
+    "name": "Turning Point USA",
     "count": 5
   },
   {
@@ -3136,6 +3144,10 @@
     "count": 4
   },
   {
+    "name": "Ted Cruz",
+    "count": 4
+  },
+  {
     "name": "Mossack Fonseca",
     "count": 4
   },
@@ -3240,10 +3252,6 @@
     "count": 4
   },
   {
-    "name": "Charlie Kirk",
-    "count": 4
-  },
-  {
     "name": "346 crash victims",
     "count": 4
   },
@@ -3281,10 +3289,6 @@
   },
   {
     "name": "Brad Raffensperger",
-    "count": 4
-  },
-  {
-    "name": "Turning Point USA",
     "count": 4
   },
   {
@@ -4480,6 +4484,10 @@
     "count": 3
   },
   {
+    "name": "Ben Shapiro",
+    "count": 3
+  },
+  {
     "name": "Doctors Without Borders",
     "count": 3
   },
@@ -4493,10 +4501,6 @@
   },
   {
     "name": "The Guardian",
-    "count": 3
-  },
-  {
-    "name": "Ted Cruz",
     "count": 3
   },
   {
@@ -7649,10 +7653,6 @@
   },
   {
     "name": "Columbia University",
-    "count": 2
-  },
-  {
-    "name": "Ben Shapiro",
     "count": 2
   },
   {
@@ -29288,6 +29288,14 @@
     "count": 1
   },
   {
+    "name": "Tyler Robinson",
+    "count": 1
+  },
+  {
+    "name": "Spencer Cox",
+    "count": 1
+  },
+  {
     "name": "National Science Foundation",
     "count": 1
   },
@@ -30120,6 +30128,18 @@
     "count": 1
   },
   {
+    "name": "Robert P. George",
+    "count": 1
+  },
+  {
+    "name": "Shane McCullar",
+    "count": 1
+  },
+  {
+    "name": "Abby Spencer Moffat",
+    "count": 1
+  },
+  {
     "name": "Jenna Ellis",
     "count": 1
   },
@@ -30277,6 +30297,10 @@
   },
   {
     "name": "Georgia Governor Brian Kemp",
+    "count": 1
+  },
+  {
+    "name": "Scott Kupor",
     "count": 1
   },
   {

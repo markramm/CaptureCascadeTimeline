@@ -154599,6 +154599,55 @@
       "_id_hash": "f4fcae4bd055888e70b0a53a22a49ad6f01efbad7cde661bce671972e69efbb7"
     },
     {
+      "id": "2025-01-13--bannon-vows-to-destroy-truly-evil-musk-maga-civil-war",
+      "date": "2025-01-13",
+      "title": "Bannon Vows to Destroy 'Truly Evil' Elon Musk, Declares MAGA Civil War",
+      "importance": 8,
+      "actors": [
+        "Steve Bannon",
+        "Elon Musk",
+        "Donald Trump"
+      ],
+      "tags": [
+        "bannon",
+        "elon-musk",
+        "maga-infighting",
+        "h1b-visa",
+        "populism-vs-tech"
+      ],
+      "sources": [
+        {
+          "title": "Trump ally Steve Bannon blasts Elon Musk as 'truly evil' in MAGA split",
+          "url": "https://www.aljazeera.com/economy/2025/1/13/trump-ally-steve-bannon-blasts-elon-musk-as-truly-evil-in-maga-split",
+          "outlet": "Al Jazeera",
+          "date": "2025-01-13",
+          "tier": 1
+        },
+        {
+          "title": "Steve Bannon vows to have 'evil' Elon Musk 'run out' of the White House",
+          "url": "https://www.axios.com/2025/01/13/steve-bannon-elon-musk-trump-maga",
+          "outlet": "Axios",
+          "date": "2025-01-13",
+          "tier": 1
+        },
+        {
+          "title": "Steve Bannon says he will 'take down' the 'truly evil' Elon Musk",
+          "url": "https://thehill.com/blogs/blog-briefing-room/5081681-steve-bannon-says-he-will-take-down-the-truly-evil-elon-musk/",
+          "outlet": "The Hill",
+          "date": "2025-01-13",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Right-Wing Coalition",
+        "DOGE"
+      ],
+      "summary": "Steve Bannon declared war on Elon Musk in an interview with Italian newspaper Corriere della Sera, calling him \"a truly evil guy, a very bad guy\" and vowing to have him \"run out\" of the White House. Bannon announced \"I made it my personal thing to take this guy down,\" promising to exile Musk from the MAGA movement by Inauguration Day.\n\nThe feud erupted over H-1B visa policy, with Musk and Vivek Ramaswamy supporting the program that brings skilled foreign workers to the US, while Bannon and the populist MAGA base opposed it. Bannon accused Musk of having \"the maturity of a little boy\" and pursuing \"techno-feudalism on a global scale,\" with the \"sole objective\" of \"becoming a trillionaire.\"\n\nBannon cast doubt on Musk's loyalty to MAGA principles: \"He will do anything to make sure that any one of his companies is protected or has a better deal or he makes more money. His aggregation of wealth, and then through wealth power: that's what he's focused on.\" The attack highlighted tensions between MAGA's populist-nationalist base and Silicon Valley billionaires who had attached themselves to Trump.\n\nThe public feud represented the first major fracture in Trump's second term coalition, pitting the movement's original strategist against its wealthiest benefactor. Musk did not publicly respond to Bannon's attacks. The conflict foreshadowed deeper splits that would emerge as Musk's DOGE operations clashed with Cabinet officials and eventually with Trump himself.",
+      "_file": "2025-01-13--bannon-vows-to-destroy-truly-evil-musk-maga-civil-war.md",
+      "_id_hash": "64b150955fe5708143eedc8c251c934935c64cc47cff2ddd7ce2108a517967e2"
+    },
+    {
       "id": "2025-01-13--trump-inauguration-record-245-million-corporate-donations",
       "date": "2025-01-13",
       "title": "Trump Inauguration Raises Record $245 Million with $161 Million from Corporations Facing Federal Enforcement",
@@ -167152,6 +167201,58 @@
       "summary": "Elon Musk's America PAC launched a nationwide $1 million television advertisement praising President Donald Trump's early presidency, aired following Trump's joint address to Congress. The ad attacks the Biden administration, highlights Trump's border and efficiency claims, and positions Trump as restoring American strength.",
       "_file": "2025-03-05--musk-s-pac-launches-1-million-tv-ad-buy-touting-trump-s-firs.md",
       "_id_hash": "12106895c3f1165f6a8c3db7155677a715332cf04846b46cd536318786795b4d"
+    },
+    {
+      "id": "2025-03-06--cabinet-meeting-explosion-rubio-duffy-musk-clash",
+      "date": "2025-03-06",
+      "title": "Cabinet Meeting Explodes as Rubio and Duffy Clash with Musk Over DOGE Cuts",
+      "importance": 8,
+      "actors": [
+        "Elon Musk",
+        "Marco Rubio",
+        "Sean Duffy",
+        "Donald Trump",
+        "DOGE"
+      ],
+      "tags": [
+        "cabinet-meeting",
+        "elon-musk",
+        "marco-rubio",
+        "sean-duffy",
+        "doge",
+        "maga-infighting"
+      ],
+      "sources": [
+        {
+          "title": "Musk, Rubio clashed in front of Trump during Cabinet meeting",
+          "url": "https://abcnews.go.com/Politics/musk-rubio-clashed-front-trump-cabinet-meeting-sources/story?id=119572925",
+          "outlet": "ABC News",
+          "date": "2025-03-07",
+          "tier": 1
+        },
+        {
+          "title": "Haberman: Rubio, Duffy spar with Musk in 'explosive' Cabinet meeting",
+          "url": "https://www.cnn.com/2025/03/07/politics/video/the-lead-maggie-haberman-musk-doge-congress-meeting-clash-jake-tapper",
+          "outlet": "CNN",
+          "date": "2025-03-07",
+          "tier": 1
+        },
+        {
+          "title": "Marco Rubio Finally Loses It at Elon Musk in Trump Cabinet Meeting",
+          "url": "https://newrepublic.com/post/192493/marco-rubio-elon-musk-fight-donald-trump",
+          "outlet": "The New Republic",
+          "date": "2025-03-07",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "DOGE",
+        "Cabinet Dynamics"
+      ],
+      "summary": "A hastily arranged Cabinet meeting at the White House erupted into shouting matches as Secretary of State Marco Rubio and Transportation Secretary Sean Duffy confronted Elon Musk over DOGE's aggressive workforce cuts. The confrontation exposed tensions between Trump's Cabinet and the tech billionaire who had been granted extraordinary power over federal agencies.\n\nMusk accused Rubio of failing to slash State Department staff, telling him he had fired \"nobody\" and scornfully adding he was only \"good on TV.\" Rubio, already furious over DOGE's elimination of USAID (an agency under State Department purview), fired back that Musk was lying, pointing to 1,500 officials who had taken deferred resignation offers. Rubio sarcastically asked if Musk wanted him to rehire them just so he could fire them \"in a more outrageous fashion.\"\n\nDuffy confronted Musk over attempts to lay off air traffic controllers during a national shortage, stating \"I have multiple plane crashes to deal with now, and your people want me to fire air traffic controllers?\" When Musk demanded names of fired controllers, Duffy replied there were none because he had intervened to stop DOGE's team. Musk called Duffy's assertion a \"lie.\"\n\nTrump watched the exchanges in silence with arms crossed before intervening to call Rubio \"fantastic\" and telling everyone to work together. Asked about the meeting the next day, Trump denied any clash occurred, calling the reporter \"a troublemaker.\" The Cabinet meeting revealed the chaos of governance-by-billionaire as Trump's appointees struggled against Musk's unaccountable power.",
+      "_file": "2025-03-06--cabinet-meeting-explosion-rubio-duffy-musk-clash.md",
+      "_id_hash": "839ac4b64ed8ad21ceae409753b04bf5919a0cf81a836f171b1b89d6670425db"
     },
     {
       "id": "2025-03-06--challenger-federal-layoffs-surge",
@@ -185575,6 +185676,55 @@
       "_id_hash": "1ab60d0c88b05ed2124faaddb9c266457e1f118e9096eea0ccb58a30116a2ae3"
     },
     {
+      "id": "2025-06-03--trump-musk-feud-erupts-big-beautiful-bill-impeachment",
+      "date": "2025-06-03",
+      "title": "Trump-Musk Feud Erupts Over 'Big Beautiful Bill' as Musk Suggests Impeachment",
+      "importance": 9,
+      "actors": [
+        "Donald Trump",
+        "Elon Musk",
+        "DOGE"
+      ],
+      "tags": [
+        "trump-musk-feud",
+        "doge",
+        "maga-infighting",
+        "big-beautiful-bill",
+        "elon-musk"
+      ],
+      "sources": [
+        {
+          "title": "Donald Trump-Elon Musk Feud Escalates Over 'Big, Beautiful Bill'",
+          "url": "https://deadline.com/2025/06/trump-elon-musk-big-beautiful-bill-1236424453/",
+          "outlet": "Deadline",
+          "date": "2025-06-03",
+          "tier": 1
+        },
+        {
+          "title": "From bromance to breakup: How Elon Musk and Donald Trump blew up",
+          "url": "https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup",
+          "outlet": "NPR",
+          "date": "2025-06-05",
+          "tier": 1
+        },
+        {
+          "title": "Trump-Musk feud escalates - What happened? And what comes next?",
+          "url": "https://www.aljazeera.com/news/2025/6/6/trump-musk-feud-escalates-what-happened-and-what-comes-next",
+          "outlet": "Al Jazeera",
+          "date": "2025-06-06",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Right-Wing Coalition",
+        "DOGE"
+      ],
+      "summary": "The alliance between President Trump and Elon Musk collapsed publicly when Musk denounced the \"One Big Beautiful Bill\" as \"a disgusting abomination\" that would increase the federal deficit, contradicting DOGE's stated mission. Musk posted \"I'm sorry, but I just can't stand it anymore\" on June 3, days after leaving his White House position.\n\nTrump responded on Truth Social claiming \"Elon was 'wearing thin,' I asked him to leave, I took away his EV Mandate... and he just went CRAZY!\" Musk fired back that \"Without me, Trump would have lost the election, Dems would control the House and the Republicans would be 51-49 in the Senate.\" Most explosively, Musk reposted a call for Trump to be impeached, responding simply \"Yes.\"\n\nTrump escalated by threatening to have DOGE investigate Musk's government contracts and subsidies, stating \"DOGE is the monster that might have to go back and eat Elon.\" At a July rally in Michigan, Trump suggested Musk should \"go back to where he came from\" - invoking nativist rhetoric against the South African-born billionaire. Musk responded by claiming Trump was \"in the Epstein files.\"\n\nThe feud marked the end of MAGA's most consequential partnership. Musk had contributed over $250 million to Trump's 2024 campaign and led DOGE's federal workforce cuts. The public breakup revealed the fragility of the MAGA coalition and the tensions between populist rhetoric and billionaire interests. The two publicly reconciled at Charlie Kirk's memorial service in September 2025.",
+      "_file": "2025-06-03--trump-musk-feud-erupts-big-beautiful-bill-impeachment.md",
+      "_id_hash": "53dc2ed3db9a1384c5349b4c0691829cbde991408756a9d30a152e3e13012831"
+    },
+    {
       "id": "2025-06-03--trump-s-truth-social-takes-step-toward-launching-bitcoin-etf",
       "date": "2025-06-03",
       "title": "Trump's Truth Social Takes Step Toward Launching Bitcoin ETF with NYSE Arca Filing",
@@ -200831,6 +200981,58 @@
       "_id_hash": "b7100d9a21e8ffc2a85c19698df7891899bcd4376b9c7956a91f83b7bde5daf0"
     },
     {
+      "id": "2025-09-10--charlie-kirk-assassinated-utah-valley-university",
+      "date": "2025-09-10",
+      "title": "Charlie Kirk Assassinated at Utah Valley University During Turning Point USA Event",
+      "importance": 9,
+      "actors": [
+        "Charlie Kirk",
+        "Tyler Robinson",
+        "Donald Trump",
+        "JD Vance",
+        "Spencer Cox",
+        "Turning Point USA"
+      ],
+      "tags": [
+        "political-violence",
+        "turning-point-usa",
+        "assassination",
+        "maga-movement",
+        "charlie-kirk"
+      ],
+      "sources": [
+        {
+          "title": "Manhunt for shooter continues after Charlie Kirk killed in 'political assassination'",
+          "url": "https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514",
+          "outlet": "ABC News",
+          "date": "2025-09-10",
+          "tier": 1
+        },
+        {
+          "title": "Charlie Kirk shooting suspect in custody after manhunt",
+          "url": "https://www.cbsnews.com/live-updates/charlie-kirk-shot-utah-turning-point-usa/",
+          "outlet": "CBS News",
+          "date": "2025-09-11",
+          "tier": 1
+        },
+        {
+          "title": "Plans estimated 600 people would come to the event where Charlie Kirk was shot. Over 3,000 showed up",
+          "url": "https://abcnews.go.com/US/plans-estimated-600-people-event-charlie-kirk-shot/story?id=127610821",
+          "outlet": "ABC News",
+          "date": "2025-12-30",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Political Violence",
+        "Right-Wing Coalition"
+      ],
+      "summary": "Charlie Kirk, 31-year-old founder and president of Turning Point USA, was assassinated during a \"American Comeback Tour\" event at Utah Valley University in Orem, Utah. A single shot fired from approximately 175 yards struck Kirk in the neck while he was answering a question about mass shootings, killing him. Over 3,000 people had gathered for what was expected to be a 600-person event.\n\nTyler Robinson, 22, was identified as the shooter after his father recognized him in police photos and convinced him to surrender the following day. Robinson used a Mauser Model 98 bolt-action rifle with scope; bullet casings contained inscriptions with political messaging. Utah Governor Spencer Cox characterized Robinson as having \"leftist ideology\" and becoming radicalized after dropping out of Utah State University.\n\nPresident Trump called the killing \"horrific\" and ordered flags lowered to half-staff. Vice President JD Vance flew on Air Force Two to Salt Lake City to retrieve Kirk's body and transport it to Phoenix, where Kirk's family lived. Kirk had served as a rare bridge between MAGA factions, and his death removed a unifying figure from the movement.\n\nRobinson faces charges of aggravated murder, obstruction of justice, witness tampering, and felony use of a firearm. His preliminary hearing was scheduled for May 18, 2026. The assassination triggered a wave of conspiracy theories blaming various groups including Israel, transgender activists, and Groypers, amplified by Russian, Iranian, and Chinese state media.",
+      "_file": "2025-09-10--charlie-kirk-assassinated-utah-valley-university.md",
+      "_id_hash": "5a26f6de4bf8dd4274e5e49208a4a06a0f4aebe9e785ebafd32d277d633cd61b"
+    },
+    {
       "id": "2025-09-10--commerce-secretary-lutnick-forces-corporations-to-provide-government-equity",
       "date": "2025-09-10",
       "title": "Commerce Secretary Lutnick Forces Corporations to Provide Government Equity Stakes",
@@ -208038,6 +208240,59 @@
       "_id_hash": "170874814328235579315ffc93eef7b21d01d58f7437a8b1550a9c2386fb5200"
     },
     {
+      "id": "2025-10-27--tucker-carlson-interviews-nick-fuentes-antisemitism-rift",
+      "date": "2025-10-27",
+      "title": "Tucker Carlson Interviews Nick Fuentes, Exposing Republican Rift Over Antisemitism",
+      "importance": 8,
+      "actors": [
+        "Tucker Carlson",
+        "Nick Fuentes",
+        "Ben Shapiro",
+        "Ted Cruz",
+        "Kevin Roberts",
+        "Heritage Foundation"
+      ],
+      "tags": [
+        "antisemitism",
+        "tucker-carlson",
+        "nick-fuentes",
+        "maga-infighting",
+        "heritage-foundation",
+        "white-nationalism"
+      ],
+      "sources": [
+        {
+          "title": "Tucker Carlson's interview with antisemite Nick Fuentes exposes rift among Republicans",
+          "url": "https://www.pbs.org/newshour/show/tucker-carlsons-interview-with-antisemite-nick-fuentes-exposes-rift-among-republicans",
+          "outlet": "PBS NewsHour",
+          "date": "2025-11-06",
+          "tier": 1
+        },
+        {
+          "title": "Conservatives reckon with how to handle antisemitism after Tucker Carlson controversy",
+          "url": "https://www.npr.org/2025/11/09/nx-s1-5599975/nick-fuentes-comments-on-the-tucker-carlson-show-sparks-backlash-from-conservatives",
+          "outlet": "NPR",
+          "date": "2025-11-09",
+          "tier": 1
+        },
+        {
+          "title": "Tucker Carlson discusses 'these Zionist Jews' with avowed antisemite Nick Fuentes",
+          "url": "https://www.timesofisrael.com/tucker-carlson-discusses-these-zionist-jews-with-avowed-antisemite-nick-fuentes/",
+          "outlet": "Times of Israel",
+          "date": "2025-10-28",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Right-Wing Coalition",
+        "Media Manipulation"
+      ],
+      "summary": "Tucker Carlson aired a two-hour interview with white nationalist and Holocaust denier Nick Fuentes on \"The Tucker Carlson Show,\" which garnered over 20 million views and exposed deep rifts within the Republican coalition over antisemitism. Carlson did not confront Fuentes about his history of praising Hitler, denying the Holocaust, or claiming Jews are not loyal Americans.\n\nDuring the interview, Fuentes argued \"organized Jewry\" was the main obstacle to national unity and identified \"these Zionist Jews\" as needing to be removed from the conservative movement. Fuentes's platform had grown following the assassination of Charlie Kirk, his longtime conservative rival. Carlson provided Fuentes a friendly, uncritical platform without pushback.\n\nBen Shapiro condemned the interview, stating \"No to the Groypers, no to the cowards like Tucker Carlson who normalized their trash.\" Senator Ted Cruz called Carlson a \"coward\" and \"complicit in evil\" while speaking at the Republican Jewish Coalition Summit. Heritage Foundation President Kevin Roberts defended Carlson as \"a close friend of the Heritage Foundation,\" calling critics \"the globalist class.\"\n\nRoberts' defense triggered resignations from Heritage's antisemitism task force and threats from groups like the Zionist Organization of America to cut ties with the foundation. Trump backed Carlson, putting him at odds with Cruz and other establishment Republicans. The controversy complicated conservative efforts to portray Democrats as tolerant of antisemitism while revealing fundamental divisions within the MAGA coalition.",
+      "_file": "2025-10-27--tucker-carlson-interviews-nick-fuentes-antisemitism-rift.md",
+      "_id_hash": "dd0b32958da59c86f056396b00362d63136a18b350d720fab8639d1b55a70ac2"
+    },
+    {
       "actors": [
         "Binance",
         "Changpeng Zhao",
@@ -209932,6 +210187,60 @@
       "_id_hash": "8636753f19faee20c1296fbdeb605e49201bb32103b215f652ec887e19f5ae34"
     },
     {
+      "id": "2025-11-10--heritage-foundation-board-resignations-carlson-fuentes-fallout",
+      "date": "2025-11-10",
+      "title": "Heritage Foundation Board Members Resign Over Kevin Roberts Defending Tucker Carlson's Fuentes Interview",
+      "importance": 8,
+      "actors": [
+        "Kevin Roberts",
+        "Robert P. George",
+        "Shane McCullar",
+        "Abby Spencer Moffat",
+        "Tucker Carlson",
+        "Nick Fuentes",
+        "Heritage Foundation"
+      ],
+      "tags": [
+        "heritage-foundation",
+        "antisemitism",
+        "tucker-carlson",
+        "kevin-roberts",
+        "maga-infighting",
+        "project-2025"
+      ],
+      "sources": [
+        {
+          "title": "Robert P. George resigns from Heritage Foundation over Tucker Carlson interview",
+          "url": "https://thehill.com/homenews/5608934-heritage-foundation-board-resignation/",
+          "outlet": "The Hill",
+          "date": "2025-11-10",
+          "tier": 1
+        },
+        {
+          "title": "2 additional Heritage Foundation board members leave amid Carlson-Fuentes fallout",
+          "url": "https://thehill.com/homenews/media/5651880-heritage-foundation-board-resignations/",
+          "outlet": "The Hill",
+          "date": "2025-12-16",
+          "tier": 1
+        },
+        {
+          "title": "The Heritage Foundation is imploding",
+          "url": "https://www.newsweek.com/heritage-foundation-project-2025-resignations-11258763",
+          "outlet": "Newsweek",
+          "date": "2025-12-17",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Right-Wing Coalition",
+        "Conservative Infrastructure"
+      ],
+      "summary": "Princeton professor Robert P. George resigned from the Heritage Foundation board of trustees over President Kevin Roberts' defense of Tucker Carlson's interview with Holocaust denier Nick Fuentes. George stated he \"could not remain without a full retraction\" of Roberts' October 30 video calling Carlson \"a close friend of the Heritage Foundation\" and dismissing critics as \"the globalist class.\"\n\nRoberts' defense triggered a cascade of resignations. Trustees Shane McCullar and Abby Spencer Moffat resigned in December, followed by Darryl Owens and Virginia \"Ginger\" Heckman. Heckman's departure was particularly significant as the granddaughter of Ed Noble, one of Heritage's founding donors in the 1970s. The Moffat family had made the largest pledge in Heritage Foundation history.\n\nMore than a dozen staff members also left to join former Vice President Mike Pence's organization, Advancing American Freedom. Departures included leadership of Heritage's Meese Center for Legal and Judicial Studies, leading economic policy scholars, and Josh Blackman, editor of the Heritage Guide to the Constitution. Jewish conservative groups associated with Heritage's antisemitism task force, including the Zionist Organization of America, threatened to cut ties.\n\nRoberts later apologized for \"some of what he said\" but could not offer a full retraction, leading George to conclude \"we reached an impasse.\" The exodus represented the fracturing of the conservative movement's flagship institution, which had provided the intellectual foundation for Project 2025. The implosion demonstrated how the MAGA coalition's tolerance of white nationalism was alienating traditional conservatives.",
+      "_file": "2025-11-10--heritage-foundation-board-resignations-carlson-fuentes-fallout.md",
+      "_id_hash": "e4a7d8d397385a168e3660ae0a6a002519b5a10173782f24cc2c145b95d757b1"
+    },
+    {
       "id": "2025-11-10--marine-corps-250th-anniversary-proclamation",
       "date": "2025-11-10",
       "title": "Trump Issues Proclamation for Marine Corps 250th Anniversary Emphasizing Military Spending Increase",
@@ -211526,6 +211835,56 @@
       "summary": "On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her \"Marjorie Traitor Greene.\"\n\nIn a four-page resignation statement, Greene defended her position: \"Standing up for American women who were raped at 14, trafficked and used by rich powerful men, should not result in me being called a traitor and threatened by the President of the United States of America, whom I fought for.\"\n\nGreene stated she did not want her northwest Georgia district to \"endure a hurtful and hateful primary against me by the President we all fought for,\" acknowledging that Trump had threatened to support a primary challenger against her.\n\n## The Epstein Files Controversy\n\nThe break between Trump and Greene centered on the Jeffrey Epstein investigation files. Greene had been publicly pressing Trump and top Republicans in Congress for months to release all files from two federal investigations into Epstein and his sex trafficking network.\n\nGreene partnered with Democratic Rep. Ro Khanna to sponsor a discharge petition—a rare procedural move that forces a House vote without leadership approval—to compel the Department of Justice to release complete Epstein investigation files. Greene was part of a small group of Republicans who helped force the vote on the House floor.\n\nTrump had campaigned on releasing the Epstein files but subsequently delayed their release after taking office. This reversal served as what Greene called \"the proverbial straw that broke the camel's back\" in their relationship.\n\n## Trump's \"Traitor\" Attack\n\nOne week before Greene's resignation announcement, Trump launched a public attack against her, calling her \"Marjorie Traitor Greene\" and claiming she had \"gone Far Left.\" In comments to reporters, Trump said: \"Something happened to her over the last period of a month or two where she changed politically.\"\n\nTrump also called Greene \"a ranting Lunatic\" and threatened to support a primary challenger in her heavily Republican district in northwest Georgia.\n\nAfter Greene's resignation announcement, Trump told reporters in a phone interview that her departure is \"great news for the country.\" He claimed he had no advance notice of her decision and expressed no interest in reconciliation. On Truth Social, Trump stated Greene quit \"because of PLUMMETING Poll Numbers\" to avoid losing a primary against a Trump-endorsed challenger.\n\n## Greene's Defense of Abuse Survivors\n\nIn her resignation video and written statement, Greene emphasized her advocacy for sexual assault survivors as the reason for her stance on the Epstein files. She argued that defending victimized women should not be grounds for presidential condemnation or being labeled a traitor.\n\nGreene had referenced specific victims—\"American women who were raped at 14, trafficked and used by rich powerful men\"—suggesting her motivation stemmed from documented accounts of Epstein's youngest victims and the powerful figures allegedly involved in the trafficking network.\n\nHer statement highlighted the tension between political loyalty to Trump and moral obligation to sex trafficking survivors seeking accountability and transparency.\n\n## Political Context: From Loyal Ally to \"Traitor\"\n\nMarjorie Taylor Greene had been one of Trump's most loyal and vocal supporters in Congress. She defended him through both impeachment proceedings, championed his false claims about the 2020 election, and became one of the most prominent MAGA movement figures in the House.\n\nGreene's break with Trump over the Epstein files represents a rare instance where a core Trump ally prioritized a policy position—specifically transparency about sex trafficking by powerful figures—over personal loyalty to the president.\n\nThe discharge petition Greene signed represented a bipartisan effort that crossed traditional partisan lines, as she partnered with Democratic Rep. Ro Khanna. This type of cross-party cooperation on government transparency has become increasingly rare in the polarized political environment.\n\nTrump's characterization of support for Epstein file transparency as \"going Far Left\" and grounds for being labeled a \"traitor\" reveals his view that personal loyalty supersedes all other considerations, including transparency about sexual abuse of minors by powerful figures.\n\n## Congressional Impact\n\nGreene's departure reduces House Speaker Mike Johnson's Republican majority from 219-213 to an even slimmer margin. While Republicans will lose a seat, the heavily Republican nature of Greene's northwest Georgia district makes it likely her replacement will also be a Republican.\n\nGeorgia Governor Brian Kemp will need to call a special election in 2026 for Greene's seat. Her resignation effective January 5, 2026, means she will serve through the end of the current Congress.\n\nGreene referenced concerns about Republicans losing the 2026 midterm elections in her statement, suggesting she did not want to be a distraction that could hurt the party's chances while also expressing unwillingness to endure a Trump-backed primary challenge.\n\n## Implications for Epstein Transparency\n\nGreene's forced resignation after supporting the Epstein files discharge petition sends a clear message to other members of Congress about the political risks of crossing Trump on this issue. Despite bipartisan public interest in full transparency about Epstein's trafficking network and the powerful figures involved, Trump's retaliation against Greene may discourage other Republicans from supporting similar efforts.\n\nThe incident highlights tension between public demands for accountability regarding elite sex trafficking networks and political pressures to maintain loyalty to Trump regardless of the policy issue at stake.\n\nGreene's explicit framing—that supporting rape victims should not result in being called a traitor—underscores the moral dimension of the conflict: whether elected officials can advocate for abuse survivors and government transparency when doing so conflicts with a president's personal or political interests.\n\n## Pattern of Retaliation\n\nTrump's attack on Greene follows a pattern of retaliating against officials who defy him, even when those officials have been loyal supporters. The speed and severity of Trump's response—withdrawing endorsement, threatening a primary challenge, and using the \"traitor\" label—demonstrates his approach to political loyalty as absolute rather than contingent.\n\nThe public nature of Trump's attack, combined with his characterization of her resignation as \"great news for the country,\" suggests a deliberate strategy of making an example of Greene to discourage other potential defections on issues Trump considers personal threats.\n\nGreene's reference to not wanting her district to endure a \"hurtful and hateful primary\" led by Trump acknowledges the political reality that Trump's endorsement power within the Republican Party remains strong enough to end political careers, even for previously loyal MAGA figures.",
       "_file": "2025-11-21--marjorie-taylor-greene-resignation-trump-epstein-retaliation.md",
       "_id_hash": "6ed14d04457224df154c362b3da458e171c31cb5d5b3b311dcccd96970d58398"
+    },
+    {
+      "id": "2025-11-24--doge-disbanded-eight-months-early-musk-departure",
+      "date": "2025-11-24",
+      "title": "DOGE Disbanded Eight Months Early After Musk Departure and Trump Feud",
+      "importance": 8,
+      "actors": [
+        "Elon Musk",
+        "Donald Trump",
+        "Scott Kupor",
+        "DOGE"
+      ],
+      "tags": [
+        "doge",
+        "elon-musk",
+        "government-efficiency",
+        "federal-workforce",
+        "maga-infighting"
+      ],
+      "sources": [
+        {
+          "title": "DOGE quietly disbands 8 months ahead of schedule",
+          "url": "https://wtop.com/government/2025/11/doge-quietly-disbands-8-months-ahead-of-schedule/",
+          "outlet": "WTOP",
+          "date": "2025-11-24",
+          "tier": 1
+        },
+        {
+          "title": "DOGE 'doesn't exist' with eight months left on its charter",
+          "url": "https://www.cnbc.com/2025/11/24/doge-doesnt-exist-with-eight-months-left-on-its-charter.html",
+          "outlet": "CNBC",
+          "date": "2025-11-24",
+          "tier": 1
+        },
+        {
+          "title": "DOGE days are over as Trump disbands Elon Musk's team of federal cost-cutters",
+          "url": "https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/",
+          "outlet": "TechCrunch",
+          "date": "2025-11-24",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "DOGE",
+        "Right-Wing Coalition"
+      ],
+      "summary": "The Department of Government Efficiency (DOGE) was quietly disbanded eight months ahead of its scheduled July 2026 end date, following Elon Musk's departure and public feud with President Trump over the \"Big Beautiful Bill.\" Office of Personnel Management Director Scott Kupor confirmed to Reuters that DOGE \"doesn't exist\" as a centralized entity.\n\nDOGE was established by executive order on January 20, 2025, with Musk promising to cut $2 trillion in federal spending. Musk left Washington on May 30, 2025, along with lieutenants Steve Davis, Katie Miller, and general counsel James Burnham. Most DOGE functions were absorbed into the Office of Personnel Management rather than continuing as an independent operation.\n\nDOGE claimed to have saved hundreds of billions of dollars, though independent analyses disputed these figures. One analysis estimated DOGE cuts would actually cost taxpayers $135 billion, while another government estimate put the cost at $21.7 billion. Federal spending in fiscal year 2025 was approximately $7 trillion, roughly equal to fiscal year 2024, with similar deficits.\n\nKupor wrote on X that \"the principles of DOGE remain alive\" despite the entity's dissolution. Some former DOGE staff took other administration roles, including Joe Gebbia, whom Trump tasked with improving government websites. The disbandment represented the quiet end of what had been billed as a revolutionary effort to shrink government, collapsing amid infighting and unfulfilled promises.",
+      "_file": "2025-11-24--doge-disbanded-eight-months-early-musk-departure.md",
+      "_id_hash": "43716b7363bb8fe6801f3ccc7b5271133b0a07cd15450758b2c5b580449cd158"
     },
     {
       "id": "2025-11-24--judge-dismisses-james-comey-cases-halligan-unlawful-appointment",

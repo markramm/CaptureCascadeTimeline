@@ -248,6 +248,10 @@
     "count": 41
   },
   {
+    "name": "project-2025",
+    "count": 41
+  },
+  {
     "name": "corporate-accountability",
     "count": 40
   },
@@ -257,10 +261,6 @@
   },
   {
     "name": "cover-up",
-    "count": 40
-  },
-  {
-    "name": "project-2025",
     "count": 40
   },
   {
@@ -344,6 +344,10 @@
     "count": 33
   },
   {
+    "name": "heritage-foundation",
+    "count": 33
+  },
+  {
     "name": "privatization",
     "count": 33
   },
@@ -389,10 +393,6 @@
   },
   {
     "name": "republican-party",
-    "count": 31
-  },
-  {
-    "name": "heritage-foundation",
     "count": 31
   },
   {
@@ -644,6 +644,10 @@
     "count": 22
   },
   {
+    "name": "elon-musk",
+    "count": 22
+  },
+  {
     "name": "ai-safety",
     "count": 22
   },
@@ -720,6 +724,10 @@
     "count": 20
   },
   {
+    "name": "political-violence",
+    "count": 20
+  },
+  {
     "name": "labor-organizing",
     "count": 20
   },
@@ -762,10 +770,6 @@
   {
     "name": "pardons",
     "count": 20
-  },
-  {
-    "name": "political-violence",
-    "count": 19
   },
   {
     "name": "elite-impunity",
@@ -816,6 +820,10 @@
     "count": 19
   },
   {
+    "name": "federal-workforce",
+    "count": 19
+  },
+  {
     "name": "epstein-files",
     "count": 19
   },
@@ -861,14 +869,6 @@
   },
   {
     "name": "accountability crisis",
-    "count": 18
-  },
-  {
-    "name": "federal-workforce",
-    "count": 18
-  },
-  {
-    "name": "elon-musk",
     "count": 18
   },
   {
@@ -1089,6 +1089,10 @@
   },
   {
     "name": "greenland",
+    "count": 15
+  },
+  {
+    "name": "doge",
     "count": 15
   },
   {
@@ -1405,10 +1409,6 @@
   },
   {
     "name": "artificial-intelligence",
-    "count": 12
-  },
-  {
-    "name": "doge",
     "count": 12
   },
   {
@@ -1760,7 +1760,15 @@
     "count": 9
   },
   {
+    "name": "white-nationalism",
+    "count": 9
+  },
+  {
     "name": "democratic-expansion",
+    "count": 9
+  },
+  {
+    "name": "assassination",
     "count": 9
   },
   {
@@ -1952,15 +1960,7 @@
     "count": 8
   },
   {
-    "name": "white-nationalism",
-    "count": 8
-  },
-  {
     "name": "political-realignment",
-    "count": 8
-  },
-  {
-    "name": "assassination",
     "count": 8
   },
   {
@@ -1993,6 +1993,10 @@
   },
   {
     "name": "iww",
+    "count": 8
+  },
+  {
+    "name": "antisemitism",
     "count": 8
   },
   {
@@ -2185,6 +2189,10 @@
   },
   {
     "name": "denmark",
+    "count": 8
+  },
+  {
+    "name": "maga-infighting",
     "count": 8
   },
   {
@@ -2632,10 +2640,6 @@
     "count": 6
   },
   {
-    "name": "antisemitism",
-    "count": 6
-  },
-  {
     "name": "hypocrisy",
     "count": 6
   },
@@ -3021,6 +3025,10 @@
   },
   {
     "name": "institutional-dismantling",
+    "count": 6
+  },
+  {
+    "name": "government-efficiency",
     "count": 6
   },
   {
@@ -3636,7 +3644,15 @@
     "count": 5
   },
   {
+    "name": "tucker-carlson",
+    "count": 5
+  },
+  {
     "name": "fcpa",
+    "count": 5
+  },
+  {
+    "name": "bannon",
     "count": 5
   },
   {
@@ -3649,10 +3665,6 @@
   },
   {
     "name": "anti-vaccine",
-    "count": 5
-  },
-  {
-    "name": "government-efficiency",
     "count": 5
   },
   {
@@ -4705,10 +4717,6 @@
   },
   {
     "name": "operation-southern-spear",
-    "count": 4
-  },
-  {
-    "name": "bannon",
     "count": 4
   },
   {
@@ -5925,10 +5933,6 @@
   },
   {
     "name": "algorithms",
-    "count": 3
-  },
-  {
-    "name": "tucker-carlson",
     "count": 3
   },
   {
@@ -9400,6 +9404,10 @@
     "count": 2
   },
   {
+    "name": "h1b-visa",
+    "count": 2
+  },
+  {
     "name": "trump-coin",
     "count": 2
   },
@@ -9613,6 +9621,14 @@
   },
   {
     "name": "national-security-pretext",
+    "count": 2
+  },
+  {
+    "name": "marco-rubio",
+    "count": 2
+  },
+  {
+    "name": "sean-duffy",
     "count": 2
   },
   {
@@ -10153,10 +10169,6 @@
   },
   {
     "name": "transparency-act",
-    "count": 2
-  },
-  {
-    "name": "maga-infighting",
     "count": 2
   },
   {
@@ -21128,6 +21140,10 @@
     "count": 1
   },
   {
+    "name": "populism-vs-tech",
+    "count": 1
+  },
+  {
     "name": "cabinet-confirmation",
     "count": 1
   },
@@ -22012,6 +22028,10 @@
     "count": 1
   },
   {
+    "name": "cabinet-meeting",
+    "count": 1
+  },
+  {
     "name": "border-security-pretext",
     "count": 1
   },
@@ -22865,6 +22885,14 @@
   },
   {
     "name": "law-enforcement-restructuring",
+    "count": 1
+  },
+  {
+    "name": "trump-musk-feud",
+    "count": 1
+  },
+  {
+    "name": "big-beautiful-bill",
     "count": 1
   },
   {
@@ -23880,6 +23908,18 @@
     "count": 1
   },
   {
+    "name": "turning-point-usa",
+    "count": 1
+  },
+  {
+    "name": "maga-movement",
+    "count": 1
+  },
+  {
+    "name": "charlie-kirk",
+    "count": 1
+  },
+  {
     "name": "congressional-power-usurpation",
     "count": 1
   },
@@ -24304,6 +24344,10 @@
     "count": 1
   },
   {
+    "name": "nick-fuentes",
+    "count": 1
+  },
+  {
     "name": "grok",
     "count": 1
   },
@@ -24337,10 +24381,6 @@
   },
   {
     "name": "isolation",
-    "count": 1
-  },
-  {
-    "name": "marco-rubio",
     "count": 1
   },
   {
@@ -24489,6 +24529,10 @@
   },
   {
     "name": "appellate-courts",
+    "count": 1
+  },
+  {
+    "name": "kevin-roberts",
     "count": 1
   },
   {
@@ -25140,10 +25184,6 @@
     "count": 1
   },
   {
-    "name": "sean-duffy",
-    "count": 1
-  },
-  {
     "name": "presidential-memo",
     "count": 1
   },
@@ -25557,10 +25597,6 @@
   },
   {
     "name": "war-room",
-    "count": 1
-  },
-  {
-    "name": "h1b-visa",
     "count": 1
   },
   {
