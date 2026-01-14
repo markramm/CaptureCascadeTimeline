@@ -85,7 +85,7 @@
   },
   {
     "name": "accountability",
-    "count": 76
+    "count": 77
   },
   {
     "name": "campaign-finance",
@@ -113,7 +113,7 @@
   },
   {
     "name": "doj",
-    "count": 69
+    "count": 70
   },
   {
     "name": "executive-power",
@@ -181,7 +181,7 @@
   },
   {
     "name": "public-health",
-    "count": 50
+    "count": 51
   },
   {
     "name": "russia",
@@ -216,15 +216,15 @@
     "count": 44
   },
   {
+    "name": "rule-of-law",
+    "count": 44
+  },
+  {
     "name": "institutional-racism",
     "count": 43
   },
   {
     "name": "democratic-erosion",
-    "count": 43
-  },
-  {
-    "name": "rule-of-law",
     "count": 43
   },
   {
@@ -460,15 +460,15 @@
     "count": 28
   },
   {
+    "name": "federal-reserve",
+    "count": 28
+  },
+  {
     "name": "bribery",
     "count": 27
   },
   {
     "name": "legislative-capture",
-    "count": 27
-  },
-  {
-    "name": "federal-reserve",
     "count": 27
   },
   {
@@ -548,6 +548,10 @@
     "count": 25
   },
   {
+    "name": "fbi",
+    "count": 24
+  },
+  {
     "name": "insider-trading",
     "count": 24
   },
@@ -581,10 +585,6 @@
   },
   {
     "name": "prison-industrial-complex",
-    "count": 23
-  },
-  {
-    "name": "fbi",
     "count": 23
   },
   {
@@ -680,6 +680,10 @@
     "count": 21
   },
   {
+    "name": "impeachment",
+    "count": 21
+  },
+  {
     "name": "epstein-network",
     "count": 21
   },
@@ -737,10 +741,6 @@
   },
   {
     "name": "judicial-independence",
-    "count": 20
-  },
-  {
-    "name": "impeachment",
     "count": 20
   },
   {
@@ -976,6 +976,10 @@
     "count": 16
   },
   {
+    "name": "dhs",
+    "count": 16
+  },
+  {
     "name": "corporate accountability",
     "count": 16
   },
@@ -1061,10 +1065,6 @@
   },
   {
     "name": "mass-surveillance",
-    "count": 15
-  },
-  {
-    "name": "dhs",
     "count": 15
   },
   {
@@ -1192,6 +1192,10 @@
     "count": 14
   },
   {
+    "name": "venezuela",
+    "count": 14
+  },
+  {
     "name": "financial-manipulation",
     "count": 13
   },
@@ -1277,10 +1281,6 @@
   },
   {
     "name": "authoritarian-infrastructure",
-    "count": 13
-  },
-  {
-    "name": "venezuela",
     "count": 13
   },
   {
@@ -1409,6 +1409,10 @@
   },
   {
     "name": "doge",
+    "count": 12
+  },
+  {
+    "name": "operation-metro-surge",
     "count": 12
   },
   {
@@ -1577,10 +1581,6 @@
   },
   {
     "name": "military-operations",
-    "count": 11
-  },
-  {
-    "name": "operation-metro-surge",
     "count": 11
   },
   {
@@ -1892,6 +1892,10 @@
     "count": 9
   },
   {
+    "name": "hhs",
+    "count": 9
+  },
+  {
     "name": "cfpb",
     "count": 9
   },
@@ -1917,6 +1921,10 @@
   },
   {
     "name": "election-fraud",
+    "count": 9
+  },
+  {
+    "name": "rfk-jr",
     "count": 9
   },
   {
@@ -2141,10 +2149,6 @@
   },
   {
     "name": "judicial appointments",
-    "count": 8
-  },
-  {
-    "name": "hhs",
     "count": 8
   },
   {
@@ -2536,10 +2540,6 @@
     "count": 7
   },
   {
-    "name": "rfk-jr",
-    "count": 7
-  },
-  {
     "name": "coordinated-litigation",
     "count": 7
   },
@@ -2852,6 +2852,10 @@
     "count": 6
   },
   {
+    "name": "cdc",
+    "count": 6
+  },
+  {
     "name": "redmap",
     "count": 6
   },
@@ -3037,6 +3041,10 @@
   },
   {
     "name": "border-patrol",
+    "count": 6
+  },
+  {
+    "name": "fed-independence",
     "count": 6
   },
   {
@@ -3408,7 +3416,7 @@
     "count": 5
   },
   {
-    "name": "cdc",
+    "name": "vaccines",
     "count": 5
   },
   {
@@ -3640,6 +3648,10 @@
     "count": 5
   },
   {
+    "name": "anti-vaccine",
+    "count": 5
+  },
+  {
     "name": "government-efficiency",
     "count": 5
   },
@@ -3697,10 +3709,6 @@
   },
   {
     "name": "mortgage-fraud",
-    "count": 5
-  },
-  {
-    "name": "fed-independence",
     "count": 5
   },
   {
@@ -4168,6 +4176,10 @@
     "count": 4
   },
   {
+    "name": "powell",
+    "count": 4
+  },
+  {
     "name": "medicare-fraud",
     "count": 4
   },
@@ -4241,10 +4253,6 @@
   },
   {
     "name": "contractor abuse",
-    "count": 4
-  },
-  {
-    "name": "vaccines",
     "count": 4
   },
   {
@@ -4600,10 +4608,6 @@
     "count": 4
   },
   {
-    "name": "anti-vaccine",
-    "count": 4
-  },
-  {
     "name": "administrative-capture",
     "count": 4
   },
@@ -4612,7 +4616,15 @@
     "count": 4
   },
   {
+    "name": "intelligence-community",
+    "count": 4
+  },
+  {
     "name": "etf",
+    "count": 4
+  },
+  {
+    "name": "kash-patel",
     "count": 4
   },
   {
@@ -5376,10 +5388,6 @@
     "count": 3
   },
   {
-    "name": "powell",
-    "count": 3
-  },
-  {
     "name": "anti-competitive",
     "count": 3
   },
@@ -5996,19 +6004,11 @@
     "count": 3
   },
   {
-    "name": "intelligence-community",
-    "count": 3
-  },
-  {
     "name": "watchdogs",
     "count": 3
   },
   {
     "name": "climate-science",
-    "count": 3
-  },
-  {
-    "name": "kash-patel",
     "count": 3
   },
   {
@@ -9536,6 +9536,10 @@
     "count": 2
   },
   {
+    "name": "personnel-changes",
+    "count": 2
+  },
+  {
     "name": "doj-transformation",
     "count": 2
   },
@@ -9765,6 +9769,10 @@
   },
   {
     "name": "legal-violation",
+    "count": 2
+  },
+  {
+    "name": "judicial-pushback",
     "count": 2
   },
   {
@@ -21748,10 +21756,6 @@
     "count": 1
   },
   {
-    "name": "personnel-changes",
-    "count": 1
-  },
-  {
     "name": "doj-dismantling",
     "count": 1
   },
@@ -22821,10 +22825,6 @@
   },
   {
     "name": "investment-policy",
-    "count": 1
-  },
-  {
-    "name": "judicial-pushback",
     "count": 1
   },
   {
@@ -25644,6 +25644,18 @@
     "count": 1
   },
   {
+    "name": "maha",
+    "count": 1
+  },
+  {
+    "name": "nutrition-policy",
+    "count": 1
+  },
+  {
+    "name": "dietary-guidelines",
+    "count": 1
+  },
+  {
     "name": "republican-dissent",
     "count": 1
   },
@@ -25660,7 +25672,27 @@
     "count": 1
   },
   {
+    "name": "gabbard",
+    "count": 1
+  },
+  {
+    "name": "cabinet-dysfunction",
+    "count": 1
+  },
+  {
+    "name": "maduro",
+    "count": 1
+  },
+  {
     "name": "insurance-subsidies",
+    "count": 1
+  },
+  {
+    "name": "bondi",
+    "count": 1
+  },
+  {
+    "name": "unlawful-appointments",
     "count": 1
   },
   {
@@ -25668,7 +25700,19 @@
     "count": 1
   },
   {
+    "name": "bongino",
+    "count": 1
+  },
+  {
     "name": "native-americans",
+    "count": 1
+  },
+  {
+    "name": "bessent",
+    "count": 1
+  },
+  {
+    "name": "cabinet-dissent",
     "count": 1
   },
   {
@@ -25685,6 +25729,10 @@
   },
   {
     "name": "prosecutor-resignations",
+    "count": 1
+  },
+  {
+    "name": "noem",
     "count": 1
   }
 ]

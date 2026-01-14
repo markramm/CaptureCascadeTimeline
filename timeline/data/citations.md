@@ -30827,6 +30827,13 @@
 1. [Noem announces 500 miles of border buoys during Rio Grande Valley visit](https://www.texastribune.org/2026/01/07/noem-border-immigration-floating-buoys/)
 2. [DHS Secretary Noem tours southern border, announces buoy expansion](https://www.newsnationnow.com/us-news/immigration/border-coverage/kristi-noem-tour-southern-border/)
 
+## RFK Jr Releases New Dietary Guidelines: 'Most Significant Reset of Federal Nutrition Policy in History'
+*Date: 2026-01-07*
+
+1. [RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food](https://www.cnbc.com/2026/01/07/rfk-jr-nutrition-guidelines-protein-processed-food.html)
+2. [White House releases new dietary guidelines encouraging Americans to eat more protein](https://abcnews.go.com/Health/white-house-releases-new-dietary-guidelines-encouraging-americans/story?id=128976128)
+3. [Kennedy, Rollins Unveil Historic Reset of U.S. Nutrition Policy](https://www.hhs.gov/press-room/historic-reset-federal-nutrition-policy.html)
+
 ## GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired
 *Date: 2026-01-07*
 
@@ -30860,6 +30867,11 @@
 2. [Do ICE agents have absolute immunity? No, experts say](https://www.cnn.com/2026/01/08/politics/ice-immunity-jd-vance-minneapolis)
 3. [What we know so far about the ICE shooting in Minneapolis](https://www.pbs.org/newshour/nation/what-we-know-so-far-about-the-ice-shooting-in-minneapolis)
 
+## DNI Tulsi Gabbard Excluded from Venezuela Operation Planning - Aides Joke 'Do Not Invite'
+*Date: 2026-01-08*
+
+1. [Tulsi Gabbard Excluded From Venezuela Raid Plans Over Past Views](https://www.bloomberg.com/news/articles/2026-01-08/us-spy-chief-gabbard-excluded-from-maduro-plan-over-past-views)
+
 ## House Passes ACA Subsidy Extension 230-196 with 17 Republicans Crossing Party Lines
 *Date: 2026-01-08*
 
@@ -30867,6 +30879,11 @@
 2. [17 House Republicans vote with Democrats on ACA subsidies](https://abcnews.go.com/Politics/house-vote-obamacare-subsidies-extension-after-9-republicans/story?id=129026545)
 3. [House passes bill to extend health care subsidies in rebuke of GOP leadership](https://www.pbs.org/newshour/politics/in-a-rebuke-of-gop-leadership-house-heads-toward-vote-to-extend-health-care-subsidies)
 4. [House passes ACA subsidies; fate murky in Senate](https://www.cnbc.com/2026/01/08/obamacare-subsidies-extension-congress.html)
+
+## Fifth Federal Prosecutor Appointed by AG Bondi Ruled Serving Unlawfully by Federal Judge
+*Date: 2026-01-08*
+
+1. [Judge rules that a fifth federal prosecutor appointed by Pam Bondi is serving unlawfully](https://www.nbcnews.com/politics/justice-department/judge-rules-5th-federal-prosecutor-appointed-pam-bondi-serving-unlawfu-rcna253032)
 
 ## Minneapolis Public Schools Cancel Classes, Offer Remote Learning Through February Due to ICE Operations
 *Date: 2026-01-08*
@@ -30904,6 +30921,12 @@
 2. [JD Vance says a bit too much about White House control over Justice Department](https://www.ms.now/rachel-maddow-show/maddowblog/jd-vance-says-a-bit-too-much-about-white-house-control-over-the-justice-department)
 3. [JD Vance announces anti-fraud task force after Minnesota fraud scandal](https://www.foxnews.com/politics/jd-vance-announces-multi-state-fraud-task-force-wake-minnesota-scandal)
 
+## Dan Bongino Resigns as FBI Deputy Director After Less Than a Year, Replaced by Career Agent
+*Date: 2026-01-09*
+
+1. [Dan Bongino - FBI picks career agent Christopher Raia to replace the former deputy director](https://www.cnn.com/2026/01/09/politics/fbi-christopher-raia-dan-bongino-deputy-director)
+2. [Kash Patel Names FBI Agent Raia as Deputy After Bongino's Exit](https://www.bloomberg.com/news/articles/2026-01-09/kash-patel-names-fbi-agent-raia-as-deputy-after-bongino-s-exit)
+
 ## Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit
 *Date: 2026-01-09*
 
@@ -30933,6 +30956,12 @@
 3. [ICE Detains and Holds Four Native Americans, Tribal Leader Says](https://www.newsweek.com/ice-detains-native-americans-minnesota-minneapolis-oglala-sioux-11339071)
 4. [Status of Native Americans detained by ICE still unknown](https://www.twincities.com/2026/01/13/status-of-native-americans-detained-by-ice-still-unknown-officials-say/)
 
+## Treasury Secretary Bessent Tells Trump Powell Criminal Investigation 'Made a Mess'
+*Date: 2026-01-12*
+
+1. [Bessent unhappy with criminal investigation of Fed Chair Jerome Powell](https://www.cnn.com/2026/01/12/politics/bessent-unhappy-jerome-powell-investigation)
+2. [Treasury Secretary Bessent not happy about investigation into Powell, conveyed concerns to Trump](https://abcnews.go.com/Politics/treasury-secretary-bessent-happy-investigation-powell-conveyed-concerns/story?id=129161482)
+
 ## Minnesota Attorney General Ellison and Twin Cities Sue DHS Over Operation Metro Surge
 *Date: 2026-01-12*
 
@@ -30957,6 +30986,12 @@
 
 1. [Immigration Agents Terrified by ICE](https://www.kenklippenstein.com/p/immigration-agents-terrified-by-ice)
 
+## RFK Jr Reshapes CDC Vaccine Panel with Anti-Vaccine Appointees: 'I Was Not Anti-Vaccine. I Am Now.'
+*Date: 2026-01-13*
+
+1. [RFK Jr reshapes CDC vaccine panel with new OB-GYN appointments](https://www.foxnews.com/health/rfk-jr-reshapes-cdc-vaccine-panel-new-ob-gyn-appointments)
+2. [New RFK Jr. pick for vaccine panel: 'I was not anti-vaccine. I am now.'](https://dnyuz.com/2026/01/13/new-rfk-jr-pick-for-vaccine-panel-i-was-not-anti-vaccine-i-am-now/)
+
 ## Twelve Federal Prosecutors Resign Over DOJ Handling of Renee Good Shooting
 *Date: 2026-01-13*
 
@@ -30965,3 +31000,8 @@
 3. [Top prosecutors leave amid turmoil over DOJ civil rights response](https://www.washingtonpost.com/national-security/2026/01/13/justice-department-civil-rights-resignations/)
 4. [Six DOJ Prosecutors Resign Over Renee Good Investigation](https://www.notus.org/courts/doj-prosecutors-joseph-thompson-resign-renee-good-widow-minneapolis-investigation-fbi)
 5. [Mass exodus hits Justice Department's Civil Rights Division amid lack of action in Minneapolis](https://www.cbsnews.com/news/minneapolis-ice-agent-shooting-justice-department-civil-rights-division-resignations/)
+
+## House Democrats Introduce Articles of Impeachment Against DHS Secretary Kristi Noem
+*Date: 2026-01-14*
+
+1. [Effort to impeach Kristi Noem backed by Minnesota lawmakers](https://www.fox9.com/news/impeach-kristi-noem-effort-backed-mn-lawmakers-jan-2026)

@@ -1,15 +1,15 @@
 {
-  "total_events": 4155,
-  "total_tags": 6422,
-  "total_actors": 7866,
-  "total_sources": 14346,
+  "total_events": 4162,
+  "total_tags": 6434,
+  "total_actors": 7873,
+  "total_sources": 14358,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2026-01-13"
+    "end": "2026-01-14"
   },
   "status_counts": {
     "unknown": 936,
-    "confirmed": 3171,
+    "confirmed": 3178,
     "validated": 29,
     "disputed": 2,
     "verified": 1,
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1076
+      "count": 1078
     },
     {
       "name": "Trump Administration",
@@ -87,11 +87,11 @@
     },
     {
       "name": "FBI",
-      "count": 89
+      "count": 90
     },
     {
       "name": "Pam Bondi",
-      "count": 81
+      "count": 82
     },
     {
       "name": "Supreme Court",
@@ -106,5 +106,5 @@
       "count": 71
     }
   ],
-  "generated": "2026-01-13T21:21:26.633119"
+  "generated": "2026-01-13T21:29:41.315867"
 }

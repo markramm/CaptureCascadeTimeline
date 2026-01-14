@@ -220912,6 +220912,56 @@
     "_id_hash": "3704d4c9e9f3a3742185fd3cd28d18459e3f1867420283777105e9c8afeb3f69"
   },
   {
+    "id": "2026-01-07--rfk-jr-releases-new-dietary-guidelines-protein-over-carbs",
+    "date": "2026-01-07",
+    "title": "RFK Jr Releases New Dietary Guidelines: 'Most Significant Reset of Federal Nutrition Policy in History'",
+    "importance": 7,
+    "actors": [
+      "Robert F. Kennedy Jr.",
+      "Brooke Rollins",
+      "HHS",
+      "USDA"
+    ],
+    "tags": [
+      "rfk-jr",
+      "maha",
+      "nutrition-policy",
+      "dietary-guidelines",
+      "hhs"
+    ],
+    "sources": [
+      {
+        "title": "RFK Jr. announces new nutrition guidelines, pushing more protein and less processed food",
+        "url": "https://www.cnbc.com/2026/01/07/rfk-jr-nutrition-guidelines-protein-processed-food.html",
+        "outlet": "CNBC",
+        "date": "2026-01-07",
+        "tier": 1
+      },
+      {
+        "title": "White House releases new dietary guidelines encouraging Americans to eat more protein",
+        "url": "https://abcnews.go.com/Health/white-house-releases-new-dietary-guidelines-encouraging-americans/story?id=128976128",
+        "outlet": "ABC News",
+        "date": "2026-01-07",
+        "tier": 1
+      },
+      {
+        "title": "Kennedy, Rollins Unveil Historic Reset of U.S. Nutrition Policy",
+        "url": "https://www.hhs.gov/press-room/historic-reset-federal-nutrition-policy.html",
+        "outlet": "HHS",
+        "date": "2026-01-07",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Regulatory Capture",
+      "Public Health Policy"
+    ],
+    "summary": "HHS Secretary Robert F. Kennedy Jr. and USDA Secretary Brooke Rollins released the Dietary Guidelines for Americans, 2025–2030, which Kennedy called \"the most significant reset of federal nutrition policy in history.\" At a White House briefing, Kennedy declared: \"As secretary of Health and Human Services, my message is clear: Eat real food.\"\n\nThe most significant changes included prioritizing protein over carbohydrates, recommending full-fat dairy instead of low-fat options, and cutting out processed foods like white bread, chips, and candy. The guidelines represented a major departure from decades of federal nutrition advice that emphasized low-fat diets and the food pyramid.\n\nThe \"Make America Healthy Again\" (MAHA) movement driven by Kennedy has gained traction in state legislatures, with food additives among the most common targets. In December 2025, the USDA approved waivers sought by six states, and eighteen states will block SNAP purchases of candy and sugary drinks in 2026.",
+    "_file": "2026-01-07--rfk-jr-releases-new-dietary-guidelines-protein-over-carbs.md",
+    "_id_hash": "e62e99cc8c1a3b00791b5c9528b7da654702e0b1be4b62e51cea42edef250781"
+  },
+  {
     "id": "2026-01-07--tillis-calls-for-miller-firing-greenland-comments",
     "date": "2026-01-07",
     "title": "GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired",
@@ -221124,6 +221174,41 @@
     "_id_hash": "10c1beaf50a297f6ae72b3a19cfdfb19bd173878550c17de86cad59189c08269"
   },
   {
+    "id": "2026-01-08--gabbard-excluded-venezuela-operation-do-not-invite",
+    "date": "2026-01-08",
+    "title": "DNI Tulsi Gabbard Excluded from Venezuela Operation Planning - Aides Joke 'Do Not Invite'",
+    "importance": 8,
+    "actors": [
+      "Tulsi Gabbard",
+      "Donald Trump",
+      "Marco Rubio"
+    ],
+    "tags": [
+      "venezuela",
+      "intelligence-community",
+      "gabbard",
+      "cabinet-dysfunction",
+      "maduro"
+    ],
+    "sources": [
+      {
+        "title": "Tulsi Gabbard Excluded From Venezuela Raid Plans Over Past Views",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-08/us-spy-chief-gabbard-excluded-from-maduro-plan-over-past-views",
+        "outlet": "Bloomberg",
+        "date": "2026-01-08",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Intelligence Community Dysfunction",
+      "Executive Branch Chaos"
+    ],
+    "summary": "The White House excluded Director of National Intelligence Tulsi Gabbard from months of planning to capture Venezuelan President Nicolás Maduro because her previous opposition to military action in Venezuela cast doubt on her willingness to support the operation. The move to cut Gabbard out of meetings was so well-known that some White House aides joked that the acronym of her title, DNI, stood for \"Do Not Invite.\"\n\nGabbard is on record arguing that the United States \"needs to stay out of Venezuela.\" After Trump launched the military operation over the weekend of January 3-4, 2026, Gabbard suddenly vanished from public view. In June 2025, when the president was asked for his reaction to Gabbard's testimony on Iran's nuclear program, Trump explicitly said, more than once, that he didn't care what his own handpicked director of national intelligence said.\n\nThe White House told Bloomberg that Trump still has \"full confidence\" in Gabbard, despite her systematic exclusion from major foreign policy decisions. The incident illustrated the dysfunction within Trump's national security apparatus, where the nation's top intelligence official was sidelined from one of the administration's most significant military operations.",
+    "_file": "2026-01-08--gabbard-excluded-venezuela-operation-do-not-invite.md",
+    "_id_hash": "05dee2f5fec53c3d4d514814621faefcde0e08e79359e7df21d25454edfb1126"
+  },
+  {
     "id": "2026-01-08--house-passes-aca-subsidy-extension-republicans-cross",
     "date": "2026-01-08",
     "title": "House Passes ACA Subsidy Extension 230-196 with 17 Republicans Crossing Party Lines",
@@ -221170,6 +221255,42 @@
     "summary": "The House passed legislation to extend enhanced Affordable Care Act premium tax credits for three years by a vote of 230-196, with 17 Republicans joining all Democrats in a major rebuke of GOP House leadership. The enhanced subsidies, introduced during the pandemic and extended through 2025 by the Inflation Reduction Act, had expired on December 31, 2025. Without the extension, premiums for the 22 million marketplace enrollees receiving subsidies would increase an average of 114%, and the CBO estimated 4 million people would lose coverage. Moderate Republicans including Reps. Mike Lawler (NY), Brian Fitzpatrick (PA), Ryan Mackenzie (PA), and Rob Bresnahan (PA) had signed a Democrat-led discharge petition to force the vote, bypassing Speaker Mike Johnson's opposition. Senate Majority Leader John Thune said there's 'no appetite' for the House bill, though bipartisan negotiations continue on a compromise that could include a 2-year extension with income caps.",
     "_file": "2026-01-08--house-passes-aca-subsidy-extension-republicans-cross.md",
     "_id_hash": "b17cfc08ff216301dc9e6f173db7e598ba3373a6195fa46ed80d8aaa3e45ce15"
+  },
+  {
+    "id": "2026-01-08--judge-rules-fifth-bondi-prosecutor-serving-unlawfully",
+    "date": "2026-01-08",
+    "title": "Fifth Federal Prosecutor Appointed by AG Bondi Ruled Serving Unlawfully by Federal Judge",
+    "importance": 8,
+    "actors": [
+      "Pam Bondi",
+      "John Sarcone III",
+      "Lorna Schofield",
+      "DOJ"
+    ],
+    "tags": [
+      "doj",
+      "bondi",
+      "unlawful-appointments",
+      "judicial-pushback",
+      "rule-of-law"
+    ],
+    "sources": [
+      {
+        "title": "Judge rules that a fifth federal prosecutor appointed by Pam Bondi is serving unlawfully",
+        "url": "https://www.nbcnews.com/politics/justice-department/judge-rules-5th-federal-prosecutor-appointed-pam-bondi-serving-unlawfu-rcna253032",
+        "outlet": "NBC News",
+        "date": "2026-01-08",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "DOJ Capture",
+      "Judicial Resistance"
+    ],
+    "summary": "U.S. District Judge Lorna Schofield ruled that acting U.S. Attorney John Sarcone III for the Northern District of New York was serving unlawfully, marking the fifth such ruling against prosecutors appointed by Attorney General Pam Bondi. The judge found the Justice Department violated federal procedures by circumventing a 120-day limit for unconfirmed U.S. attorneys through personnel moves and shifting titles.\n\nSchofield wrote: \"The Department of Justice did not follow those procedures. Instead, on the same day that the judges declined to extend Mr. Sarcone's appointment, the Department took coordinated steps—through personnel moves and shifting titles—to install Mr. Sarcone as Acting U.S. Attorney. Federal law does not permit such a workaround.\"\n\nThe case involved Sarcone issuing subpoenas to New York's Attorney General targeting civil fraud cases against President Trump and the NRA. Since August 2025, courts in New Jersey, Nevada, California, and Eastern Virginia have similarly found acting U.S. attorneys lacked lawful authority. The pattern of rulings represented significant judicial pushback against the administration's attempts to install loyalist prosecutors through procedural end-runs around Senate confirmation requirements.",
+    "_file": "2026-01-08--judge-rules-fifth-bondi-prosecutor-serving-unlawfully.md",
+    "_id_hash": "b41d3703a3ff32915123cc5ecfa91c127a3f8605bfed04c2450c2b5181a6a58b"
   },
   {
     "id": "2026-01-08--minneapolis-schools-cancel-classes-offer-remote-learning-ice",
@@ -221397,6 +221518,48 @@
     "_id_hash": "7bca1c0d631fce503fb0774168f2c0bdcc39ab01c32c95b2df5b1523d3e5e8b5"
   },
   {
+    "id": "2026-01-09--bongino-resigns-fbi-deputy-patel-names-career-agent-raia",
+    "date": "2026-01-09",
+    "title": "Dan Bongino Resigns as FBI Deputy Director After Less Than a Year, Replaced by Career Agent",
+    "importance": 7,
+    "actors": [
+      "Dan Bongino",
+      "Kash Patel",
+      "Christopher Raia",
+      "FBI"
+    ],
+    "tags": [
+      "fbi",
+      "kash-patel",
+      "bongino",
+      "personnel-changes"
+    ],
+    "sources": [
+      {
+        "title": "Dan Bongino - FBI picks career agent Christopher Raia to replace the former deputy director",
+        "url": "https://www.cnn.com/2026/01/09/politics/fbi-christopher-raia-dan-bongino-deputy-director",
+        "outlet": "CNN",
+        "date": "2026-01-09",
+        "tier": 1
+      },
+      {
+        "title": "Kash Patel Names FBI Agent Raia as Deputy After Bongino's Exit",
+        "url": "https://www.bloomberg.com/news/articles/2026-01-09/kash-patel-names-fbi-agent-raia-as-deputy-after-bongino-s-exit",
+        "outlet": "Bloomberg",
+        "date": "2026-01-09",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "FBI Restructuring",
+      "Personnel Changes"
+    ],
+    "summary": "Dan Bongino resigned as FBI Deputy Director after less than a year on the job, with FBI Director Kash Patel naming career counter-terrorism agent Christopher Raia as his replacement. Bongino, a former Secret Service agent and conservative media personality, gave no public reason for his departure beyond calling it \"the honor of a lifetime\" to serve alongside Patel.\n\nRaia is a career counter-terrorism official who led the investigation into the 2025 New Orleans New Year's attack, and will serve as co-deputy director of the bureau. His appointment represented a pivot toward career law enforcement experience after the politically-connected Bongino's brief tenure.\n\nPatel also announced the FBI would permanently close the J. Edgar Hoover Building, which had served as headquarters since 1975, with the bureau moving to the Reagan Building. Additionally, Patel announced a \"massive overhaul\" of the Strategic Information & Operations Center (SIOC), renaming it the Director's Strategic Information Center (DSIC) with physical upgrades, increased personnel, and changes to information distribution.",
+    "_file": "2026-01-09--bongino-resigns-fbi-deputy-patel-names-career-agent-raia.md",
+    "_id_hash": "45888a7f5ca5ff32c2f0eaa31bbc3cdfdd75dbeeaec090c495d31063d885f339"
+  },
+  {
     "id": "2026-01-09--trump-oil-executives-white-house-venezuela-uninvestible",
     "date": "2026-01-09",
     "title": "Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit",
@@ -221598,6 +221761,48 @@
     "_id_hash": "b16114e8e382597ae7295803814490e85fb7bb936eda14490a7d22f289e4672c"
   },
   {
+    "id": "2026-01-12--bessent-tells-trump-powell-investigation-made-mess",
+    "date": "2026-01-12",
+    "title": "Treasury Secretary Bessent Tells Trump Powell Criminal Investigation 'Made a Mess'",
+    "importance": 8,
+    "actors": [
+      "Scott Bessent",
+      "Donald Trump",
+      "Jerome Powell"
+    ],
+    "tags": [
+      "federal-reserve",
+      "powell",
+      "bessent",
+      "fed-independence",
+      "cabinet-dissent"
+    ],
+    "sources": [
+      {
+        "title": "Bessent unhappy with criminal investigation of Fed Chair Jerome Powell",
+        "url": "https://www.cnn.com/2026/01/12/politics/bessent-unhappy-jerome-powell-investigation",
+        "outlet": "CNN",
+        "date": "2026-01-12",
+        "tier": 1
+      },
+      {
+        "title": "Treasury Secretary Bessent not happy about investigation into Powell, conveyed concerns to Trump",
+        "url": "https://abcnews.go.com/Politics/treasury-secretary-bessent-happy-investigation-powell-conveyed-concerns/story?id=129161482",
+        "outlet": "ABC News",
+        "date": "2026-01-12",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Federal Reserve Independence",
+      "Cabinet Dynamics"
+    ],
+    "summary": "Treasury Secretary Scott Bessent told people he was unhappy with the decision to criminally investigate Federal Reserve Chair Jerome Powell and conveyed those concerns directly to President Trump in a call on Sunday, January 12. Sources indicated Bessent told Trump the investigation \"made a mess\" and could harm financial markets.\n\nThe investigation, announced January 10, related to Powell's June 2025 Senate testimony about the multiyear renovation of the Federal Reserve's buildings in Washington. Powell issued an unprecedented video statement saying the criminal probe was retaliation for the Fed setting interest rates based on economic assessments rather than presidential preferences.\n\nBessent's dissent represented a rare instance of a cabinet member openly opposing a Trump initiative. As Treasury Secretary, Bessent was overseeing the process to select Powell's replacement, with the Fed chair's term expiring in May 2026. The tension highlighted the conflict between Trump's desire to control monetary policy and the concerns of financial officials about market stability and Fed independence.",
+    "_file": "2026-01-12--bessent-tells-trump-powell-investigation-made-mess.md",
+    "_id_hash": "03485bc38bdfa5465e4c17adba989ef6848d127443b1626d936bb30b7df6e043"
+  },
+  {
     "id": "2026-01-12--minnesota-ag-ellison-sues-dhs-operation-metro-surge-unconstitutional",
     "date": "2026-01-12",
     "title": "Minnesota Attorney General Ellison and Twin Cities Sue DHS Over Operation Metro Surge",
@@ -221762,6 +221967,49 @@
     "_id_hash": "7aed7b3183cd891c153d8d179c7a67e8be4db1f159fe289c82b52251c15f96cb"
   },
   {
+    "id": "2026-01-13--rfk-jr-reshapes-cdc-vaccine-panel-anti-vaccine-appointees",
+    "date": "2026-01-13",
+    "title": "RFK Jr Reshapes CDC Vaccine Panel with Anti-Vaccine Appointees: 'I Was Not Anti-Vaccine. I Am Now.'",
+    "importance": 8,
+    "actors": [
+      "Robert F. Kennedy Jr.",
+      "Kimberly Biss",
+      "Adam Urato",
+      "CDC"
+    ],
+    "tags": [
+      "rfk-jr",
+      "vaccines",
+      "cdc",
+      "public-health",
+      "anti-vaccine"
+    ],
+    "sources": [
+      {
+        "title": "RFK Jr reshapes CDC vaccine panel with new OB-GYN appointments",
+        "url": "https://www.foxnews.com/health/rfk-jr-reshapes-cdc-vaccine-panel-new-ob-gyn-appointments",
+        "outlet": "Fox News",
+        "date": "2026-01-13",
+        "tier": 1
+      },
+      {
+        "title": "New RFK Jr. pick for vaccine panel: 'I was not anti-vaccine. I am now.'",
+        "url": "https://dnyuz.com/2026/01/13/new-rfk-jr-pick-for-vaccine-panel-i-was-not-anti-vaccine-i-am-now/",
+        "outlet": "DNYUZ",
+        "date": "2026-01-13",
+        "tier": 2
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Public Health Dismantlement",
+      "Regulatory Capture"
+    ],
+    "summary": "HHS Secretary Robert F. Kennedy Jr. expanded a key federal vaccine advisory panel to include more critics of vaccines who have contradicted mainstream medical guidance. Both new appointments—Kimberly Biss and Adam Urato—are OB-GYNs who were outspoken critics of coronavirus vaccines during pregnancy. One new appointee stated: \"I was not anti-vaccine. I am now.\"\n\nThe appointments came as part of broader changes to the CDC under Kennedy's direction. In January 2026, CDC officials revised the U.S. childhood vaccine schedule, reducing the number of universally recommended vaccines from about 17 to roughly 11. Several vaccines—including flu, rotavirus, hepatitis A and B, some meningococcal vaccines, and RSV—are no longer broadly recommended.\n\nSince taking office in February 2025, Kennedy has overseen a dramatic reshaping of HHS agencies, including eliminating thousands of jobs and freezing or canceling billions of dollars for scientific research. Within two months of taking office, Kennedy announced a sweeping restructuring that would shut down entire agencies, consolidate others into a new one focused on chronic disease, and lay off some 10,000 employees on top of 10,000 others who had already taken buyouts.",
+    "_file": "2026-01-13--rfk-jr-reshapes-cdc-vaccine-panel-anti-vaccine-appointees.md",
+    "_id_hash": "5bd615b96d7de45740694fb398a6b460038bdb7ae6e5151bbaa4392057f1f851"
+  },
+  {
     "id": "2026-01-13--six-minnesota-federal-prosecutors-resign-doj-renee-good-investigation",
     "date": "2026-01-13",
     "title": "Twelve Federal Prosecutors Resign Over DOJ Handling of Renee Good Shooting",
@@ -221827,5 +222075,41 @@
     "summary": "At least twelve federal prosecutors resigned in protest over the DOJ's handling of the Renee Good shooting investigation. Six prosecutors resigned from the Minnesota U.S. Attorney's Office, including the three top-ranking prosecutors: Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro).\n\nSimultaneously, six prosecutors from DOJ's Civil Rights Division in Washington, D.C. announced their departures, including the criminal section's chief. The Civil Rights Division resignations were triggered by Assistant Attorney General Harmeet Dhillon's decision not to investigate the ICE officer's fatal shooting of Renee Good. Sources told CBS News: \"The lack of an investigation in Minneapolis was a breaking point for some of them.\"\n\nThe Minnesota resignations were triggered by DOJ pressure to investigate Renee Good's widow Becca and her ties to activist groups, combined with the department's refusal to open a civil rights investigation into the shooting itself. Deputy Attorney General Todd Blanche stated \"there is currently no basis for a criminal civil rights investigation\" into the ICE agent who killed Good. The FBI announced it would handle the investigation on its own and blocked Minnesota authorities from their typical role in reviewing evidence. The investigation was being treated as an assault on a federal officer—with ICE agent Jonathan Ross, rather than Good, as the victim.\n\nThe mass resignations represented an unprecedented break within the Justice Department over the politicization of law enforcement priorities. The Civil Rights Division had about 380 attorneys when Trump took office in January 2025 but saw a large exodus after Dhillon took the helm, as she aligned the division with the president's priorities.",
     "_file": "2026-01-13--six-minnesota-federal-prosecutors-resign-doj-renee-good-investigation.md",
     "_id_hash": "4d79d8dcb926054ec11c87b3b09ea44d60931d71fbbe265489c96a0c179426b2"
+  },
+  {
+    "id": "2026-01-14--house-democrats-introduce-noem-impeachment-articles",
+    "date": "2026-01-14",
+    "title": "House Democrats Introduce Articles of Impeachment Against DHS Secretary Kristi Noem",
+    "importance": 8,
+    "actors": [
+      "Kristi Noem",
+      "Robin Kelly",
+      "Angie Craig",
+      "Betty McCollum"
+    ],
+    "tags": [
+      "noem",
+      "impeachment",
+      "dhs",
+      "operation-metro-surge",
+      "accountability"
+    ],
+    "sources": [
+      {
+        "title": "Effort to impeach Kristi Noem backed by Minnesota lawmakers",
+        "url": "https://www.fox9.com/news/impeach-kristi-noem-effort-backed-mn-lawmakers-jan-2026",
+        "outlet": "Fox 9",
+        "date": "2026-01-14",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Congressional Oversight",
+      "Accountability Mechanisms"
+    ],
+    "summary": "Rep. Robin Kelly (D-IL) introduced articles of impeachment against DHS Secretary Kristi Noem, with 53 House Democrats co-signing the effort, including Minnesota Representatives Angie Craig and Betty McCollum. Kelly stated: \"Secretary Kristi Noem is an incompetent leader, a disgrace to our democracy, and I am impeaching her for obstruction of justice, violation of public trust, and self-dealing.\"\n\nThe three articles of impeachment alleged: (1) Obstruction of Congress—stemming from denying Congressional members access to DHS facilities and withholding disaster relief funding; (2) Violation of Public Trust—allegedly denying ICE detainees due process and breaching First and Fourth Amendment protections; and (3) Self-Dealing—reports indicating Noem awarded $220 million in contracts to a firm operated by her spokesperson's husband.\n\nThe impeachment push followed Operation Metro Surge in Minnesota, including the fatal shooting of Renee Nicole Good by ICE agent Jonathan Ross. Noem had called the shooting an act of \"domestic terrorism\" by Good, contradicting video evidence showing Good turning away from the agent when shot. While the Republican-controlled House made passage unlikely, the articles represented formal documentation of alleged constitutional violations for the historical record.",
+    "_file": "2026-01-14--house-democrats-introduce-noem-impeachment-articles.md",
+    "_id_hash": "be1ff372655799af85ae368a32a5b00369d44398a5dca84b84cde2c95ad96dfa"
   }
 ]

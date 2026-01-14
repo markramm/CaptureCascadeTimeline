@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1076
+    "count": 1078
   },
   {
     "name": "Trump Administration",
@@ -21,11 +21,11 @@
   },
   {
     "name": "FBI",
-    "count": 89
+    "count": 90
   },
   {
     "name": "Pam Bondi",
-    "count": 81
+    "count": 82
   },
   {
     "name": "Supreme Court",
@@ -72,6 +72,10 @@
     "count": 55
   },
   {
+    "name": "Kristi Noem",
+    "count": 54
+  },
+  {
     "name": "Federal Trade Commission",
     "count": 53
   },
@@ -81,10 +85,6 @@
   },
   {
     "name": "Bill Clinton",
-    "count": 53
-  },
-  {
-    "name": "Kristi Noem",
     "count": 53
   },
   {
@@ -256,6 +256,10 @@
     "count": 26
   },
   {
+    "name": "DOJ",
+    "count": 26
+  },
+  {
     "name": "Mitch McConnell",
     "count": 26
   },
@@ -269,10 +273,6 @@
   },
   {
     "name": "ACLU",
-    "count": 25
-  },
-  {
-    "name": "DOJ",
     "count": 25
   },
   {
@@ -304,6 +304,14 @@
     "count": 24
   },
   {
+    "name": "Marco Rubio",
+    "count": 24
+  },
+  {
+    "name": "Kash Patel",
+    "count": 24
+  },
+  {
     "name": "Koch Industries",
     "count": 23
   },
@@ -313,14 +321,6 @@
   },
   {
     "name": "JD Vance",
-    "count": 23
-  },
-  {
-    "name": "Marco Rubio",
-    "count": 23
-  },
-  {
-    "name": "Kash Patel",
     "count": 23
   },
   {
@@ -396,6 +396,10 @@
     "count": 20
   },
   {
+    "name": "Scott Bessent",
+    "count": 20
+  },
+  {
     "name": "International Monetary Fund",
     "count": 19
   },
@@ -405,10 +409,6 @@
   },
   {
     "name": "SpaceX",
-    "count": 19
-  },
-  {
-    "name": "Scott Bessent",
     "count": 19
   },
   {
@@ -792,6 +792,10 @@
     "count": 12
   },
   {
+    "name": "Robert F. Kennedy Jr.",
+    "count": 12
+  },
+  {
     "name": "Department of Commerce",
     "count": 12
   },
@@ -873,6 +877,10 @@
   },
   {
     "name": "Ro Khanna",
+    "count": 11
+  },
+  {
+    "name": "Jerome Powell",
     "count": 11
   },
   {
@@ -988,15 +996,7 @@
     "count": 10
   },
   {
-    "name": "Jerome Powell",
-    "count": 10
-  },
-  {
     "name": "Mark Meadows",
-    "count": 10
-  },
-  {
-    "name": "Robert F. Kennedy Jr.",
     "count": 10
   },
   {
@@ -1100,6 +1100,10 @@
     "count": 9
   },
   {
+    "name": "CDC",
+    "count": 9
+  },
+  {
     "name": "Alexander Torshin",
     "count": 9
   },
@@ -1109,6 +1113,10 @@
   },
   {
     "name": "Bernie Sanders",
+    "count": 9
+  },
+  {
+    "name": "HHS",
     "count": 9
   },
   {
@@ -1149,6 +1157,10 @@
   },
   {
     "name": "CBS News",
+    "count": 9
+  },
+  {
+    "name": "USDA",
     "count": 9
   },
   {
@@ -1324,10 +1336,6 @@
     "count": 8
   },
   {
-    "name": "CDC",
-    "count": 8
-  },
-  {
     "name": "European Commission",
     "count": 8
   },
@@ -1341,10 +1349,6 @@
   },
   {
     "name": "Cambridge Analytica",
-    "count": 8
-  },
-  {
-    "name": "HHS",
     "count": 8
   },
   {
@@ -1401,10 +1405,6 @@
   },
   {
     "name": "Zach Witkoff",
-    "count": 8
-  },
-  {
-    "name": "USDA",
     "count": 8
   },
   {
@@ -2516,6 +2516,10 @@
     "count": 5
   },
   {
+    "name": "Tulsi Gabbard",
+    "count": 5
+  },
+  {
     "name": "Bill Pulte",
     "count": 5
   },
@@ -3461,10 +3465,6 @@
   },
   {
     "name": "California",
-    "count": 4
-  },
-  {
-    "name": "Tulsi Gabbard",
     "count": 4
   },
   {
@@ -5097,6 +5097,10 @@
   },
   {
     "name": "William Pulte",
+    "count": 3
+  },
+  {
+    "name": "Dan Bongino",
     "count": 3
   },
   {
@@ -9336,10 +9340,6 @@
     "count": 2
   },
   {
-    "name": "Dan Bongino",
-    "count": 2
-  },
-  {
     "name": "Chad Mizelle",
     "count": 2
   },
@@ -9500,6 +9500,10 @@
     "count": 2
   },
   {
+    "name": "Brooke Rollins",
+    "count": 2
+  },
+  {
     "name": "Knight First Amendment Institute",
     "count": 2
   },
@@ -9569,6 +9573,10 @@
   },
   {
     "name": "Minneapolis Public Schools",
+    "count": 2
+  },
+  {
+    "name": "Robin Kelly",
     "count": 2
   },
   {
@@ -30396,10 +30404,6 @@
     "count": 1
   },
   {
-    "name": "Brooke Rollins",
-    "count": 1
-  },
-  {
     "name": "Judge Maxine Chesney",
     "count": 1
   },
@@ -31388,7 +31392,11 @@
     "count": 1
   },
   {
-    "name": "Robin Kelly",
+    "name": "John Sarcone III",
+    "count": 1
+  },
+  {
+    "name": "Lorna Schofield",
     "count": 1
   },
   {
@@ -31413,6 +31421,10 @@
   },
   {
     "name": "Todd Young",
+    "count": 1
+  },
+  {
+    "name": "Christopher Raia",
     "count": 1
   },
   {
@@ -31452,6 +31464,14 @@
     "count": 1
   },
   {
+    "name": "Kimberly Biss",
+    "count": 1
+  },
+  {
+    "name": "Adam Urato",
+    "count": 1
+  },
+  {
     "name": "Joseph Thompson",
     "count": 1
   },
@@ -31461,6 +31481,14 @@
   },
   {
     "name": "Melinda Williams",
+    "count": 1
+  },
+  {
+    "name": "Angie Craig",
+    "count": 1
+  },
+  {
+    "name": "Betty McCollum",
     "count": 1
   }
 ]
