@@ -45,7 +45,7 @@
   },
   {
     "name": "healthcare",
-    "count": 104
+    "count": 105
   },
   {
     "name": "foreign-influence",
@@ -132,12 +132,12 @@
     "count": 61
   },
   {
-    "name": "alec",
+    "name": "first-amendment",
     "count": 60
   },
   {
-    "name": "first-amendment",
-    "count": 59
+    "name": "alec",
+    "count": 60
   },
   {
     "name": "deregulation",
@@ -173,7 +173,7 @@
   },
   {
     "name": "immigration-enforcement",
-    "count": 52
+    "count": 53
   },
   {
     "name": "executive-overreach",
@@ -424,6 +424,10 @@
     "count": 30
   },
   {
+    "name": "education",
+    "count": 30
+  },
+  {
     "name": "transparency",
     "count": 30
   },
@@ -433,10 +437,6 @@
   },
   {
     "name": "consumer-protection",
-    "count": 29
-  },
-  {
-    "name": "education",
     "count": 29
   },
   {
@@ -1604,6 +1604,10 @@
     "count": 10
   },
   {
+    "name": "racial-profiling",
+    "count": 10
+  },
+  {
     "name": "violence",
     "count": 10
   },
@@ -1844,6 +1848,10 @@
     "count": 9
   },
   {
+    "name": "doj-politicization",
+    "count": 9
+  },
+  {
     "name": "prosecutorial-misconduct",
     "count": 9
   },
@@ -1913,6 +1921,10 @@
   },
   {
     "name": "starlink",
+    "count": 9
+  },
+  {
+    "name": "operation-metro-surge",
     "count": 9
   },
   {
@@ -1989,10 +2001,6 @@
   },
   {
     "name": "information-warfare",
-    "count": 8
-  },
-  {
-    "name": "racial-profiling",
     "count": 8
   },
   {
@@ -2088,10 +2096,6 @@
     "count": 8
   },
   {
-    "name": "doj-politicization",
-    "count": 8
-  },
-  {
     "name": "stephen miller",
     "count": 8
   },
@@ -2181,6 +2185,14 @@
   },
   {
     "name": "court-defiance",
+    "count": 8
+  },
+  {
+    "name": "minneapolis",
+    "count": 8
+  },
+  {
+    "name": "2026-cascade",
     "count": 8
   },
   {
@@ -4568,6 +4580,10 @@
     "count": 4
   },
   {
+    "name": "lawsuit",
+    "count": 4
+  },
+  {
     "name": "media-access",
     "count": 4
   },
@@ -4677,10 +4693,6 @@
   },
   {
     "name": "operation-southern-spear",
-    "count": 4
-  },
-  {
-    "name": "bovino",
     "count": 4
   },
   {
@@ -5904,10 +5916,6 @@
     "count": 3
   },
   {
-    "name": "lawsuit",
-    "count": 3
-  },
-  {
     "name": "tucker-carlson",
     "count": 3
   },
@@ -6092,11 +6100,19 @@
     "count": 3
   },
   {
+    "name": "schools",
+    "count": 3
+  },
+  {
     "name": "mid-cycle-redistricting",
     "count": 3
   },
   {
     "name": "quorum-break",
+    "count": 3
+  },
+  {
+    "name": "ice-raids",
     "count": 3
   },
   {
@@ -6209,6 +6225,10 @@
   },
   {
     "name": "pete hegseth",
+    "count": 3
+  },
+  {
+    "name": "bovino",
     "count": 3
   },
   {
@@ -9336,6 +9356,10 @@
     "count": 2
   },
   {
+    "name": "constitutional-challenge",
+    "count": 2
+  },
+  {
     "name": "deportation-infrastructure",
     "count": 2
   },
@@ -9808,7 +9832,11 @@
     "count": 2
   },
   {
-    "name": "ice-raids",
+    "name": "hospitals",
+    "count": 2
+  },
+  {
+    "name": "sensitive-locations",
     "count": 2
   },
   {
@@ -20880,10 +20908,6 @@
     "count": 1
   },
   {
-    "name": "constitutional-challenge",
-    "count": 1
-  },
-  {
     "name": "election-administration",
     "count": 1
   },
@@ -23084,23 +23108,11 @@
     "count": 1
   },
   {
-    "name": "schools",
-    "count": 1
-  },
-  {
     "name": "sanctuary-violations",
     "count": 1
   },
   {
-    "name": "hospitals",
-    "count": 1
-  },
-  {
     "name": "churches",
-    "count": 1
-  },
-  {
-    "name": "sensitive-locations",
     "count": 1
   },
   {
@@ -25612,23 +25624,15 @@
     "count": 1
   },
   {
+    "name": "pepper-spray",
+    "count": 1
+  },
+  {
     "name": "ice-shooting",
     "count": 1
   },
   {
     "name": "legal-observer",
-    "count": 1
-  },
-  {
-    "name": "minneapolis",
-    "count": 1
-  },
-  {
-    "name": "operation-metro-surge",
-    "count": 1
-  },
-  {
-    "name": "2026-cascade",
     "count": 1
   },
   {
@@ -25652,11 +25656,27 @@
     "count": 1
   },
   {
+    "name": "us-citizens-detained",
+    "count": 1
+  },
+  {
     "name": "insurance-subsidies",
     "count": 1
   },
   {
     "name": "oregon",
+    "count": 1
+  },
+  {
+    "name": "native-americans",
+    "count": 1
+  },
+  {
+    "name": "renee-good",
+    "count": 1
+  },
+  {
+    "name": "prosecutor-resignations",
     "count": 1
   }
 ]

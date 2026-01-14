@@ -219429,6 +219429,40 @@
     "_id_hash": "a6e201a618ee492ff53630688ee2ac26707bfe09adcc37dfb18c62a960b61860"
   },
   {
+    "id": "2025-12-28--ice-enters-hennepin-county-hospital-without-warrant-handcuffs-patient",
+    "date": "2025-12-28",
+    "title": "ICE Agents Enter Minneapolis Hospital Without Warrant, Handcuff Patient to Bed for 24 Hours",
+    "importance": 8,
+    "actors": [
+      "ICE",
+      "Hennepin County Medical Center"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "hospitals",
+      "minneapolis",
+      "sensitive-locations",
+      "healthcare"
+    ],
+    "sources": [
+      {
+        "title": "ICE entered Minneapolis hospital without warrant, handcuffed patient to bed",
+        "url": "https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/",
+        "outlet": "CBS Minnesota",
+        "date": "2026-01-08",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Law Enforcement Weaponization",
+      "Healthcare System Capture"
+    ],
+    "summary": "ICE agents entered Hennepin County Medical Center's emergency department without a judicial warrant during the holiday period, remaining at a patient's bedside for over 24 hours and handcuffing the patient to the hospital bed. Agents gained access to staff-only areas including break rooms and parking lots before hospital security confronted them and confirmed no judicial warrant existed, at which point they were told to leave and complied.\n\nRep. Aisha Gomez stated: \"Our Hennepin County commissioners worked with leadership of the hospital, including the leadership of security, established that there was no judicial warrant, and told them that they had to leave and they left.\" Rep. Mohamud Noor noted: \"This is an individual with a high medical risk that if he was detained, he could have lost his life.\"\n\nThe incident triggered a chilling effect on healthcare access throughout the Twin Cities. Dr. Janna Gewirtz O'Brien reported immigrant families canceling medical appointments due to fear, while nurse practitioner Munira Maalimisaq observed: \"My patients are canceling. They're afraid to come out of their home.\" Children missed checkups and vaccines, and patients avoided cancer care and other essential treatment.",
+    "_file": "2025-12-28--ice-enters-hennepin-county-hospital-without-warrant-handcuffs-patient.md",
+    "_id_hash": "7f846a849df7c327bbe0248ef4b631d63eb78c6a671cfc567c3480f73abb6389"
+  },
+  {
     "id": "2025-12-28--ice-tactical-shift-community-arrests-surge",
     "date": "2025-12-28",
     "title": "Washington Post Analysis Reveals ICE Shift from Jail Arrests to Community Raids",
@@ -220423,6 +220457,57 @@
     "_id_hash": "07378ca8da90965f493db6b87d346653640c38522b690073042a4f303d018315"
   },
   {
+    "id": "2026-01-06--dhs-announces-operation-metro-surge-2000-agents-minneapolis",
+    "date": "2026-01-06",
+    "title": "DHS Announces \"Largest Immigration Operation Ever\" Deploying 2,000 Agents to Minneapolis",
+    "importance": 9,
+    "actors": [
+      "Kristi Noem",
+      "Todd Lyons",
+      "DHS",
+      "ICE",
+      "CBP"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "ice-raids",
+      "minneapolis",
+      "immigration-enforcement",
+      "2026-cascade"
+    ],
+    "sources": [
+      {
+        "title": "2,000 federal agents deploying to Minneapolis in immigration crackdown",
+        "url": "https://www.cbsnews.com/news/minneapolis-federal-agents-crackdown/",
+        "outlet": "CBS News",
+        "date": "2026-01-06",
+        "tier": 1
+      },
+      {
+        "title": "2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever'",
+        "url": "https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says",
+        "outlet": "PBS NewsHour",
+        "date": "2026-01-06",
+        "tier": 1
+      },
+      {
+        "title": "ICE launches 'largest immigration operation ever' in Minneapolis",
+        "url": "https://www.foxnews.com/us/ice-launches-largest-immigration-operation-ever-minneapolis-acting-director-says",
+        "outlet": "Fox News",
+        "date": "2026-01-06",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Law Enforcement Weaponization",
+      "Immigration System Weaponization"
+    ],
+    "summary": "DHS Secretary Kristi Noem announced the deployment of 2,000 federal agents to the Minneapolis-St. Paul metropolitan area, calling it the \"largest immigration operation ever.\" ICE Acting Director Todd Lyons stated agents would go \"door to door\" to companies suspected of hiring undocumented immigrants, with the official justification targeting welfare fraud in Minnesota's Somali community and arresting \"criminal illegal aliens.\"\n\nThe operation, dubbed \"Operation Metro Surge,\" had quietly begun in early December 2025 with approximately 700 agents. The January 6 announcement represented a massive escalation, more than doubling the number of local Minneapolis police officers with federal immigration agents. Agent composition included approximately 75% from ICE's Enforcement and Removal Operations, 600 investigators from Homeland Security Investigations, Special Response Teams (tactical units), and U.S. Border Patrol agents.\n\nThe operation would trigger the first recorded homicide of 2026 in Minneapolis the following day when an ICE agent killed legal observer Renee Good, sparking nationwide protests and eventually leading to the resignation of six federal prosecutors who objected to DOJ's handling of the investigation.",
+    "_file": "2026-01-06--dhs-announces-operation-metro-surge-2000-agents-minneapolis.md",
+    "_id_hash": "0d81ff112b7751ed06ea312bf914955c2831ff4547f780152c8ec9428bfcb9a1"
+  },
+  {
     "id": "2026-01-06--dhs-deploys-2000-agents-minneapolis-largest-immigration-operation",
     "date": "2026-01-06",
     "title": "DHS Deploys 2,000 Federal Agents to Minneapolis in 'Largest Immigration Operation Ever'",
@@ -220643,22 +220728,74 @@
     "_id_hash": "e260777725b4212c2709915a5b0d50056931de903e7d14e87db73937d9a719f4"
   },
   {
+    "id": "2026-01-07--cbp-pepper-sprays-students-roosevelt-high-school-minneapolis",
+    "date": "2026-01-07",
+    "title": "Border Patrol Agents Pepper Spray Students at Roosevelt High School During Dismissal",
+    "importance": 9,
+    "actors": [
+      "CBP",
+      "ICE",
+      "Roosevelt High School",
+      "Minneapolis Public Schools"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "schools",
+      "minneapolis",
+      "pepper-spray",
+      "2026-cascade",
+      "first-amendment"
+    ],
+    "sources": [
+      {
+        "title": "Witnesses say agents arrest Minneapolis school staff, tear gas students",
+        "url": "https://www.kare11.com/article/news/local/ice-agents-flood-into-roosevelt-high-school-in-minneapolis/89-e0d004b0-bb3d-41b7-949c-e4867f97f7c9",
+        "outlet": "KARE 11",
+        "date": "2026-01-07",
+        "tier": 1
+      },
+      {
+        "title": "Feds descend on Roosevelt High School, MPS cancels school",
+        "url": "https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/",
+        "outlet": "CBS Minnesota",
+        "date": "2026-01-07",
+        "tier": 1
+      },
+      {
+        "title": "Border Patrol detains Roosevelt High staffer",
+        "url": "https://sahanjournal.com/education/border-patrol-detains-minneapolis-roosevelt-high-staffer/",
+        "outlet": "Sahan Journal",
+        "date": "2026-01-07",
+        "tier": 2
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Law Enforcement Weaponization",
+      "Constitutional & Democratic Breakdown"
+    ],
+    "summary": "Federal agents deployed chemical irritants outside Roosevelt High School in Minneapolis during student dismissal around 3:30 PM. Witnesses reported agents spraying students and staff, with Education Minnesota president Monica Byron stating agents were \"pepper spraying students.\" Video showed an agent spraying a student with a chemical irritant after the student threw a snowball. Multiple staff members were hit with the chemicals, described as feeling like pepper spray in gas form.\n\nA special education assistant (U.S. citizen) was detained during dismissal in front of students, though later released the same day. The Minneapolis Federation of Educators said the staff member was \"abducted\" while assisting with safe dismissal. DHS denied using tear gas but acknowledged \"targeted crowd control\" without specifying the method, claiming they were pursuing a U.S. citizen who had rammed their vehicle after a five-mile chase.\n\nThe incident occurred on the same day as the fatal shooting of Renee Good by an ICE agent in south Minneapolis, leading Minneapolis Public Schools to cancel classes district-wide for January 8-9 \"out of an abundance of caution.\"",
+    "_file": "2026-01-07--cbp-pepper-sprays-students-roosevelt-high-school-minneapolis.md",
+    "_id_hash": "dc1990088f8f5d55651513a296d21273ededf13c13c6231071c9787edf13c3c1"
+  },
+  {
     "id": "2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge",
     "date": "2026-01-07",
     "importance": 9,
     "title": "ICE Agent Kills Legal Observer Renee Nicole Good During Minneapolis Raid",
     "actors": [
-      "Greg Bovino",
+      "Jonathan Ross",
       "Renee Nicole Good",
+      "Greg Bovino",
       "ICE",
-      "DHS"
+      "DHS",
+      "Kristi Noem"
     ],
     "tags": [
       "ice-shooting",
       "legal-observer",
       "minneapolis",
       "operation-metro-surge",
-      "bovino",
       "first-amendment",
       "2026-cascade",
       "immigration-enforcement",
@@ -220689,7 +220826,7 @@
       "Law Enforcement Weaponization",
       "Constitutional & Democratic Breakdown"
     ],
-    "summary": "ICE agent shoots and kills Renee Nicole Good, 37, during Operation Metro Surge immigration enforcement action in Minneapolis. Good, a substitute teacher and poet who graduated from Old Dominion University in 2020, was present as a legal observer—exercising constitutionally protected First Amendment rights to document government enforcement actions. She had dropped her 6-year-old son at school that morning before heading to observe the operation.\n\nGood was in the driver's seat of her Honda Pilot on a residential street when an ICE agent approached. Bodycam footage and video taken by the agent's cellphone show Good turning her steering wheel to the right—away from the agent—in the moments before shots were fired.\n\nHer last words, spoken calmly to the agent: \"It's all good, dude, I'm not mad at you.\"\n\n399 milliseconds after the first gunshot, a second was fired. She was killed.\n\nThe shooting occurred under the national ICE operations command of Greg Bovino, who had been promoted from El Centro Border Patrol Sector chief to commanding national ICE operations in fall 2025. Bovino's units had documented patterns of excessive force—a 3.6:1 ratio of force incidents to assaults faced, compared to 2:1 for Border Patrol overall, according to POGO investigation.\n\nThe White House claimed the officer was \"defending himself\" because Good had \"weaponized\" her SUV. Homeland Security Secretary Kristi Noem called it \"an act of domestic terrorism.\" Minneapolis Mayor Jacob Frey called this narrative \"garbage.\" Video evidence contradicted the administration's claims—showing Good turning away from the agent.\n\nHer wife Becca Good described Renee as \"made of sunshine.\" Her mother Donna Ganger called her \"an amazing human being.\" Becca Good's statement: \"Renee leaves behind three extraordinary children; the youngest is just six years old and already lost his father.\"\n\nHennepin County Attorney Mary Moriarty stated: \"I can say that the ICE officer does not have complete immunity here.\"\n\nThe killing of an unarmed U.S. citizen engaged in legal observation activity represented a dramatic escalation of federal immigration enforcement's impact on American civilians exercising constitutional rights.",
+    "summary": "ICE agent Jonathan Ross shoots and kills Renee Nicole Good, 37, during Operation Metro Surge immigration enforcement action in Minneapolis. Good, a substitute teacher and poet who graduated from Old Dominion University in 2020, was present as a legal observer—exercising constitutionally protected First Amendment rights to document government enforcement actions. She had dropped her 6-year-old son at school that morning before heading to observe the operation.\n\nGood was in the driver's seat of her Honda Pilot on a residential street when an ICE agent approached. Bodycam footage and video taken by the agent's cellphone show Good turning her steering wheel to the right—away from the agent—in the moments before shots were fired.\n\nHer last words, spoken calmly to the agent: \"It's all good, dude, I'm not mad at you.\"\n\nRoss joined ICE in 2015 and works in fugitive operations in the Minneapolis area. Before joining ICE, he served in Iraq with the Indiana National Guard, then became a U.S. Border Patrol agent in 2007. He fired at least three shots, killing Good.\n\nThe shooting occurred under the national ICE operations command of Greg Bovino, who had been promoted from El Centro Border Patrol Sector chief to commanding national ICE operations in fall 2025. Bovino's units had documented patterns of excessive force—a 3.6:1 ratio of force incidents to assaults faced, compared to 2:1 for Border Patrol overall, according to POGO investigation.\n\nThe White House claimed the officer was \"defending himself\" because Good had \"weaponized\" her SUV. Homeland Security Secretary Kristi Noem called it \"an act of domestic terrorism.\" Minneapolis Mayor Jacob Frey called this narrative \"garbage.\" Video evidence contradicted the administration's claims—showing Good turning away from the agent.\n\nHer wife Becca Good described Renee as \"made of sunshine.\" Her mother Donna Ganger called her \"an amazing human being.\" Becca Good's statement: \"Renee leaves behind three extraordinary children; the youngest is just six years old and already lost his father.\"\n\nHennepin County Attorney Mary Moriarty stated: \"I can say that the ICE officer does not have complete immunity here.\"\n\nThe killing of an unarmed U.S. citizen engaged in legal observation activity represented a dramatic escalation of federal immigration enforcement's impact on American civilians exercising constitutional rights.",
     "_file": "2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge.md",
     "_id_hash": "19ea8fae8f3d1072d7aa35abe8bee2c38a61f51356780db2c1f89512622e4f44"
   },
@@ -220901,6 +221038,48 @@
     "_id_hash": "e4fd1c0d11f09184ee44cc816bda5bb5639bd8763a99e439c1331b28ee656141"
   },
   {
+    "id": "2026-01-08--cbp-detains-two-us-citizen-teenagers-target-store-richfield",
+    "date": "2026-01-08",
+    "title": "CBP Agents Tackle and Detain Two U.S. Citizen Teenagers at Richfield Target Store",
+    "importance": 8,
+    "actors": [
+      "CBP",
+      "Jonathan Aguilar Garcia",
+      "Christian Miranda Romano"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "racial-profiling",
+      "minneapolis",
+      "us-citizens-detained",
+      "2026-cascade"
+    ],
+    "sources": [
+      {
+        "title": "Target employees detained by federal officers were U.S. citizens",
+        "url": "https://www.startribune.com/target-employees-federal-arrest-border-patrol-renee-nicole-good-shooting-ice-crackdown-minneapolis/601562858",
+        "outlet": "Star Tribune",
+        "date": "2026-01-08",
+        "tier": 1
+      },
+      {
+        "title": "Federal agents take 2 into custody at Richfield Target",
+        "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/federal-agents-richfield-target/89-074f28c7-c04f-4392-9165-08ca304b0f39",
+        "outlet": "KARE 11",
+        "date": "2026-01-08",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Law Enforcement Weaponization",
+      "Constitutional & Democratic Breakdown"
+    ],
+    "summary": "U.S. Customs and Border Protection agents detained two teenage employees at a Target store in Richfield, Minnesota around 2:00 PM. Jonathan Aguilar Garcia and Christian Miranda Romano, both U.S. citizens, were approached by agents outside the store and asked if they were citizens. When the workers didn't answer and tried to enter the store, agents tackled them to the ground inside the store entrance and handcuffed them.\n\nVideo of the incident showed agents pinning the teenagers to the ground. One had a passport on him. Rep. Michael Howard confirmed both were U.S. citizens who sustained injuries and were later released, stating: \"Both are U.S. Citizens, clearly targeted because of the color of their skin.\"\n\nThe incident exemplified concerns about racial profiling during Operation Metro Surge, with community members and elected officials arguing that ICE and CBP agents were targeting people based on appearance rather than any lawful basis for detention.",
+    "_file": "2026-01-08--cbp-detains-two-us-citizen-teenagers-target-store-richfield.md",
+    "_id_hash": "43ce603f2e64dfec938fe437cbc91e4091c0ced255cf34d7cacb834f25536ea1"
+  },
+  {
     "id": "2026-01-08--fbi-blocks-state-investigation-renee-good-shooting",
     "date": "2026-01-08",
     "title": "FBI Revokes State Access to Evidence in Renee Good Shooting, Blocks Minnesota Investigation",
@@ -220991,6 +221170,55 @@
     "summary": "The House passed legislation to extend enhanced Affordable Care Act premium tax credits for three years by a vote of 230-196, with 17 Republicans joining all Democrats in a major rebuke of GOP House leadership. The enhanced subsidies, introduced during the pandemic and extended through 2025 by the Inflation Reduction Act, had expired on December 31, 2025. Without the extension, premiums for the 22 million marketplace enrollees receiving subsidies would increase an average of 114%, and the CBO estimated 4 million people would lose coverage. Moderate Republicans including Reps. Mike Lawler (NY), Brian Fitzpatrick (PA), Ryan Mackenzie (PA), and Rob Bresnahan (PA) had signed a Democrat-led discharge petition to force the vote, bypassing Speaker Mike Johnson's opposition. Senate Majority Leader John Thune said there's 'no appetite' for the House bill, though bipartisan negotiations continue on a compromise that could include a 2-year extension with income caps.",
     "_file": "2026-01-08--house-passes-aca-subsidy-extension-republicans-cross.md",
     "_id_hash": "b17cfc08ff216301dc9e6f173db7e598ba3373a6195fa46ed80d8aaa3e45ce15"
+  },
+  {
+    "id": "2026-01-08--minneapolis-schools-cancel-classes-offer-remote-learning-ice",
+    "date": "2026-01-08",
+    "title": "Minneapolis Public Schools Cancel Classes, Offer Remote Learning Through February Due to ICE Operations",
+    "importance": 8,
+    "actors": [
+      "Minneapolis Public Schools",
+      "ICE",
+      "DHS"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "schools",
+      "minneapolis",
+      "2026-cascade",
+      "education"
+    ],
+    "sources": [
+      {
+        "title": "Minneapolis Public Schools offering E-learning through Feb. 12 due to ICE shooting",
+        "url": "https://www.fox9.com/news/minneapolis-public-schools-offering-e-learning-through-feb-12-due-ice-shooting",
+        "outlet": "Fox 9",
+        "date": "2026-01-10",
+        "tier": 1
+      },
+      {
+        "title": "Minneapolis families can choose remote learning for next month amid ICE unrest",
+        "url": "https://fortune.com/2026/01/10/minneapolis-remote-learning-next-month-ice-unrest-protests/",
+        "outlet": "Fortune",
+        "date": "2026-01-10",
+        "tier": 1
+      },
+      {
+        "title": "Several school districts switch to remote learning amid ICE activity",
+        "url": "https://kstp.com/kstp-news/top-news/minneapolis-public-schools-closed-thursday-and-friday-out-of-an-abundance-of-caution/",
+        "outlet": "KSTP",
+        "date": "2026-01-08",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Law Enforcement Weaponization",
+      "Constitutional & Democratic Breakdown"
+    ],
+    "summary": "Minneapolis Public Schools canceled classes district-wide for January 8-9 \"out of an abundance of caution\" following the Roosevelt High School incident where Border Patrol agents pepper-sprayed students and detained a staff member, and the fatal ICE shooting of Renee Good. Starting January 13, MPS offered optional remote learning through February 12, 2026.\n\nThe decision affected approximately 100 schools and 30,000 students, with teachers required to deliver simultaneous lessons to in-person and remote students. The teachers union stated: \"The way ICE has escalated in our community has made it so that there are people who feel unsafe coming to and from school.\"\n\nOther school districts followed suit: Fridley Public Schools canceled Friday classes, and St. Paul Public Schools canceled field trips to Minneapolis. Community members stationed themselves at schools to watch students, and parents at St. Paul Central High School lined sidewalks to protect students boarding buses. The school closures represented an unprecedented disruption to education caused by federal immigration enforcement operations.",
+    "_file": "2026-01-08--minneapolis-schools-cancel-classes-offer-remote-learning-ice.md",
+    "_id_hash": "3a7697c53cafc43fb90cd881bbe0f1e405cdb1fd9db782197a359511451ac289"
   },
   {
     "id": "2026-01-08--noem-faces-impeachment-articles-over-ice-shooting",
@@ -221249,6 +221477,115 @@
     "_id_hash": "240f618a11bae07e2b0825397209450b9e96a0f2a6bfd815c9e910e495e3732d"
   },
   {
+    "id": "2026-01-10--ice-detains-five-native-americans-minneapolis-racial-profiling",
+    "date": "2026-01-10",
+    "title": "ICE Detains Five Native Americans in Minneapolis Based on Appearance, Tribal Leaders Condemn Racial Profiling",
+    "importance": 8,
+    "actors": [
+      "ICE",
+      "Oglala Sioux Tribe",
+      "Red Lake Nation",
+      "Frank Star Comes Out",
+      "Peggy Flanagan"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "racial-profiling",
+      "native-americans",
+      "minneapolis",
+      "2026-cascade"
+    ],
+    "sources": [
+      {
+        "title": "Five Native Americans detained by ICE during ongoing raids in Minneapolis",
+        "url": "https://ictnews.org/news/five-native-americans-detained-by-ice-during-ongoing-raids-in-minneapolis/",
+        "outlet": "Indian Country Today",
+        "date": "2026-01-10",
+        "tier": 2
+      },
+      {
+        "title": "Tribal leaders say ICE is detaining American Indians",
+        "url": "https://www.startribune.com/ice-detaining-american-indians-minneapolis-leaders-say/601561760",
+        "outlet": "Star Tribune",
+        "date": "2026-01-10",
+        "tier": 1
+      },
+      {
+        "title": "ICE Detains and Holds Four Native Americans, Tribal Leader Says",
+        "url": "https://www.newsweek.com/ice-detains-native-americans-minnesota-minneapolis-oglala-sioux-11339071",
+        "outlet": "Newsweek",
+        "date": "2026-01-10",
+        "tier": 1
+      },
+      {
+        "title": "Status of Native Americans detained by ICE still unknown",
+        "url": "https://www.twincities.com/2026/01/13/status-of-native-americans-detained-by-ice-still-unknown-officials-say/",
+        "outlet": "Twin Cities Pioneer Press",
+        "date": "2026-01-13",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Law Enforcement Weaponization",
+      "Constitutional & Democratic Breakdown"
+    ],
+    "summary": "ICE agents detained at least five Native Americans in Minneapolis during Operation Metro Surge, with tribal leaders and state officials condemning the detentions as racial profiling. Four citizens of the Oglala Sioux Tribe were detained under a bridge near the Little Earth housing complex on Friday, January 10. Tribal President Frank Star Comes Out confirmed the men were homeless. As of January 13, their whereabouts remained unknown to the community.\n\nJose Roberto \"Beto\" Ramirez, a Red Lake Nation descendant, was detained at a HyVee grocery store in Robbinsdale on January 8 after being followed by a black Ford SUV with four men. His aunt recorded ICE agents striking him during apprehension. He was released Thursday evening after detention at the Whipple Building.\n\nMinnesota Lt. Governor Peggy Flanagan, a member of the White Earth Band of Ojibwe, called ICE's actions \"obvious racial profiling.\" The Minnesota Native American Caucus stated: \"The detention of Native peoples in Minnesota follows a disturbing nationwide pattern by ICE agents: targeting immigrants and civilians, seizing American Indian persons off the street, ignoring their clear identification as Tribal members, and detaining them by ruthless force.\" Community advocates reported ICE appeared to be mistaking Native Americans for Central or South American immigrants based on appearance and surnames.",
+    "_file": "2026-01-10--ice-detains-five-native-americans-minneapolis-racial-profiling.md",
+    "_id_hash": "b16114e8e382597ae7295803814490e85fb7bb936eda14490a7d22f289e4672c"
+  },
+  {
+    "id": "2026-01-12--minnesota-ag-ellison-sues-dhs-operation-metro-surge-unconstitutional",
+    "date": "2026-01-12",
+    "title": "Minnesota Attorney General Ellison and Twin Cities Sue DHS Over Operation Metro Surge",
+    "importance": 9,
+    "actors": [
+      "Keith Ellison",
+      "Kristi Noem",
+      "Minneapolis",
+      "Saint Paul",
+      "DHS"
+    ],
+    "tags": [
+      "operation-metro-surge",
+      "lawsuit",
+      "constitutional-challenge",
+      "minneapolis",
+      "2026-cascade"
+    ],
+    "sources": [
+      {
+        "title": "Attorney General Ellison and cities sue to halt ICE surge",
+        "url": "https://www.ag.state.mn.us/Office/Communications/2026/01/12_ICE.asp",
+        "outlet": "Minnesota Attorney General",
+        "date": "2026-01-12",
+        "tier": 1
+      },
+      {
+        "title": "MN Attorney General, Minneapolis and Saint Paul sue to halt ICE surge",
+        "url": "https://www.minneapolismn.gov/news/2026/january/ag-lawsuit/",
+        "outlet": "City of Minneapolis",
+        "date": "2026-01-12",
+        "tier": 1
+      },
+      {
+        "title": "Minnesota, Twin Cities sue Trump administration over ICE operations",
+        "url": "https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests",
+        "outlet": "CNN",
+        "date": "2026-01-12",
+        "tier": 1
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "Constitutional & Democratic Breakdown",
+      "State vs Federal Conflict"
+    ],
+    "summary": "Minnesota Attorney General Keith Ellison, along with the cities of Minneapolis and Saint Paul, filed a federal lawsuit against DHS Secretary Kristi Noem and other federal officials seeking to halt Operation Metro Surge. The lawsuit alleged violations of the 10th Amendment and constitutional sovereignty, asking the court to declare the ICE surge unconstitutional and grant a temporary restraining order and permanent injunction.\n\nThe lawsuit cited: unlawful racial profiling, targeting of sensitive locations (schools, medical facilities, places of worship, daycares, funeral homes), arresting peaceful bystanders, and detaining U.S. citizens. The filing came five days after ICE agent Jonathan Ross fatally shot Renee Good, a 37-year-old U.S. citizen and legal observer.\n\nThe lawsuit noted that Minneapolis police had worked over 3,000 hours of overtime by January 9, with estimated costs exceeding $2 million in just four days. Customer-facing businesses along immigrant corridors reported 50-80% revenue decreases, with 80% of immigrant-owned businesses temporarily closing—described by business owners as \"worse than COVID.\"",
+    "_file": "2026-01-12--minnesota-ag-ellison-sues-dhs-operation-metro-surge-unconstitutional.md",
+    "_id_hash": "509bbe583b01495c10e08ca60cf27ba5f72741149074cbc1e1f26d5964a7f318"
+  },
+  {
     "id": "2026-01-12--tillis-opposes-fed-nominees-until-powell-investigation-resolved",
     "date": "2026-01-12",
     "title": "Senator Tillis Announces Opposition to All Trump Fed Nominees Over Powell Investigation",
@@ -221277,5 +221614,63 @@
     "summary": "Republican Senator Thom Tillis announced he would oppose any Trump Federal Reserve nominee until the DOJ investigation into Jerome Powell is resolved, stating: \"If there were any remaining doubt whether advisers within the Trump Administration are actively pushing to end the independence of the Federal Reserve, there should now be none. It is now the independence and credibility of the Department of Justice that are in question.\" Tillis's opposition, combined with the narrow Republican Senate majority, could potentially block Trump's Fed chair nominee to replace Powell, whose term expires in May 2026.",
     "_file": "2026-01-12--tillis-opposes-fed-nominees-until-powell-investigation-resolved.md",
     "_id_hash": "117fa332acf7a87cd415ea5a8598b6ffaf1f8bf0e1b961d1e467f5eda5bbfad3"
+  },
+  {
+    "id": "2026-01-13--six-minnesota-federal-prosecutors-resign-doj-renee-good-investigation",
+    "date": "2026-01-13",
+    "title": "Six Minnesota Federal Prosecutors Resign Over DOJ Push to Investigate Renee Good's Widow",
+    "importance": 9,
+    "actors": [
+      "Joseph Thompson",
+      "Thomas Calhoun-Lopez",
+      "Melinda Williams",
+      "Todd Blanche",
+      "DOJ"
+    ],
+    "tags": [
+      "doj-politicization",
+      "operation-metro-surge",
+      "renee-good",
+      "prosecutor-resignations",
+      "2026-cascade"
+    ],
+    "sources": [
+      {
+        "title": "Joe Thompson, US attorney who uncovered massive fraud in Minnesota, resigns from office",
+        "url": "https://www.startribune.com/joe-thompson-us-attorney-who-uncovered-massive-fraud-in-minnesota-resigns-from-office/601563206",
+        "outlet": "Star Tribune",
+        "date": "2026-01-13",
+        "tier": 1
+      },
+      {
+        "title": "Minnesota federal prosecutors resign after DOJ push to investigate Renee Good's widow",
+        "url": "https://www.npr.org/2026/01/13/nx-s1-5676123/minnesota-federal-prosecutors-resign-after-doj-push-to-investigate-renee-goods-widow",
+        "outlet": "NPR",
+        "date": "2026-01-13",
+        "tier": 1
+      },
+      {
+        "title": "Top prosecutors leave amid turmoil over DOJ civil rights response",
+        "url": "https://www.washingtonpost.com/national-security/2026/01/13/justice-department-civil-rights-resignations/",
+        "outlet": "Washington Post",
+        "date": "2026-01-13",
+        "tier": 1
+      },
+      {
+        "title": "Six DOJ Prosecutors Resign Over Renee Good Investigation",
+        "url": "https://www.notus.org/courts/doj-prosecutors-joseph-thompson-resign-renee-good-widow-minneapolis-investigation-fbi",
+        "outlet": "Notus",
+        "date": "2026-01-13",
+        "tier": 2
+      }
+    ],
+    "status": "confirmed",
+    "capture_lanes": [
+      "DOJ Capture",
+      "Constitutional & Democratic Breakdown"
+    ],
+    "summary": "At least six federal prosecutors resigned from the Minnesota U.S. Attorney's Office over DOJ leadership's handling of the Renee Good shooting investigation. The three top-ranking prosecutors in the office—Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro)—all resigned.\n\nAccording to the New York Times, the resignations were triggered by DOJ pressure to investigate Renee Good's widow and her ties to activist groups, combined with the department's refusal to open a civil rights investigation into the shooting itself. Deputy Attorney General Todd Blanche had stated \"there is currently no basis for a criminal civil rights investigation\" into the ICE agent who killed Good.\n\nAt least six additional prosecutors from DOJ's Civil Rights Division in Washington, D.C. resigned the same day, most of them supervisors in the Criminal Section. The mass resignations represented an unprecedented break within the Justice Department over the politicization of law enforcement priorities—investigating the victim's family while refusing to investigate the shooter.",
+    "_file": "2026-01-13--six-minnesota-federal-prosecutors-resign-doj-renee-good-investigation.md",
+    "_id_hash": "4d79d8dcb926054ec11c87b3b09ea44d60931d71fbbe265489c96a0c179426b2"
   }
 ]

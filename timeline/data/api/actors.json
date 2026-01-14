@@ -44,11 +44,11 @@
     "count": 71
   },
   {
-    "name": "Jeffrey Epstein",
-    "count": 62
+    "name": "ICE",
+    "count": 67
   },
   {
-    "name": "ICE",
+    "name": "Jeffrey Epstein",
     "count": 62
   },
   {
@@ -84,11 +84,11 @@
     "count": 53
   },
   {
-    "name": "Barack Obama",
-    "count": 49
+    "name": "Kristi Noem",
+    "count": 52
   },
   {
-    "name": "Kristi Noem",
+    "name": "Barack Obama",
     "count": 49
   },
   {
@@ -116,6 +116,10 @@
     "count": 42
   },
   {
+    "name": "DHS",
+    "count": 42
+  },
+  {
     "name": "McKinsey & Company",
     "count": 41
   },
@@ -125,10 +129,6 @@
   },
   {
     "name": "Trump Organization",
-    "count": 39
-  },
-  {
-    "name": "DHS",
     "count": 39
   },
   {
@@ -272,6 +272,10 @@
     "count": 25
   },
   {
+    "name": "DOJ",
+    "count": 25
+  },
+  {
     "name": "Letitia James",
     "count": 25
   },
@@ -289,10 +293,6 @@
   },
   {
     "name": "Securities and Exchange Commission",
-    "count": 24
-  },
-  {
-    "name": "DOJ",
     "count": 24
   },
   {
@@ -388,6 +388,10 @@
     "count": 20
   },
   {
+    "name": "Todd Blanche",
+    "count": 20
+  },
+  {
     "name": "Justin Sun",
     "count": 20
   },
@@ -401,10 +405,6 @@
   },
   {
     "name": "SpaceX",
-    "count": 19
-  },
-  {
-    "name": "Todd Blanche",
     "count": 19
   },
   {
@@ -865,6 +865,10 @@
   },
   {
     "name": "Michael Flynn",
+    "count": 11
+  },
+  {
+    "name": "CBP",
     "count": 11
   },
   {
@@ -1365,10 +1369,6 @@
   },
   {
     "name": "Flock Safety",
-    "count": 8
-  },
-  {
-    "name": "CBP",
     "count": 8
   },
   {
@@ -2492,6 +2492,10 @@
     "count": 5
   },
   {
+    "name": "Todd Lyons",
+    "count": 5
+  },
+  {
     "name": "Ed Martin",
     "count": 5
   },
@@ -3413,10 +3417,6 @@
   },
   {
     "name": "Doug Collins",
-    "count": 4
-  },
-  {
-    "name": "Todd Lyons",
     "count": 4
   },
   {
@@ -9557,6 +9557,10 @@
   },
   {
     "name": "Denmark",
+    "count": 2
+  },
+  {
+    "name": "Minneapolis Public Schools",
     "count": 2
   },
   {
@@ -31292,6 +31296,10 @@
     "count": 1
   },
   {
+    "name": "Hennepin County Medical Center",
+    "count": 1
+  },
+  {
     "name": "Iranian Bazaari Merchants",
     "count": 1
   },
@@ -31340,7 +31348,11 @@
     "count": 1
   },
   {
-    "name": "Greg Bovino",
+    "name": "Roosevelt High School",
+    "count": 1
+  },
+  {
+    "name": "Jonathan Ross",
     "count": 1
   },
   {
@@ -31348,7 +31360,19 @@
     "count": 1
   },
   {
+    "name": "Greg Bovino",
+    "count": 1
+  },
+  {
     "name": "Navy SEALs",
+    "count": 1
+  },
+  {
+    "name": "Jonathan Aguilar Garcia",
+    "count": 1
+  },
+  {
+    "name": "Christian Miranda Romano",
     "count": 1
   },
   {
@@ -31393,6 +31417,46 @@
   },
   {
     "name": "Greenland Political Parties",
+    "count": 1
+  },
+  {
+    "name": "Oglala Sioux Tribe",
+    "count": 1
+  },
+  {
+    "name": "Red Lake Nation",
+    "count": 1
+  },
+  {
+    "name": "Frank Star Comes Out",
+    "count": 1
+  },
+  {
+    "name": "Peggy Flanagan",
+    "count": 1
+  },
+  {
+    "name": "Keith Ellison",
+    "count": 1
+  },
+  {
+    "name": "Minneapolis",
+    "count": 1
+  },
+  {
+    "name": "Saint Paul",
+    "count": 1
+  },
+  {
+    "name": "Joseph Thompson",
+    "count": 1
+  },
+  {
+    "name": "Thomas Calhoun-Lopez",
+    "count": 1
+  },
+  {
+    "name": "Melinda Williams",
     "count": 1
   }
 ]

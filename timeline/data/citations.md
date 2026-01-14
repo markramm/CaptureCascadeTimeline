@@ -30598,6 +30598,11 @@
 1. [Russia attacks Kyiv ahead of talks](https://www.npr.org/2025/12/27/g-s1-103802/russia-attacks-kyiv-ahead-of-talks)
 2. [Russia hammers Ukraine's capital ahead of Trump-Zelenskyy meeting](https://www.aljazeera.com/news/2025/12/27/russia-hammers-ukraines-capital-ahead-of-trump-zelenskyy-meeting)
 
+## ICE Agents Enter Minneapolis Hospital Without Warrant, Handcuff Patient to Bed for 24 Hours
+*Date: 2025-12-28*
+
+1. [ICE entered Minneapolis hospital without warrant, handcuffed patient to bed](https://www.cbsnews.com/minnesota/news/hcmc-hennepin-healthcare-ice-patient-handcuffed/)
+
 ## Washington Post Analysis Reveals ICE Shift from Jail Arrests to Community Raids
 *Date: 2025-12-28*
 
@@ -30752,6 +30757,13 @@
 1. [Denmark prime minister calls on Trump to stop the threats about Greenland](https://www.cbsnews.com/news/denmark-trump-aide-stephen-miller-wife-katie-miller-posts-image-us-flag-greenland/)
 2. [White House discussing 'options' to acquire Greenland](https://www.cnn.com/2026/01/06/politics/us-options-greenland-military)
 
+## DHS Announces "Largest Immigration Operation Ever" Deploying 2,000 Agents to Minneapolis
+*Date: 2026-01-06*
+
+1. [2,000 federal agents deploying to Minneapolis in immigration crackdown](https://www.cbsnews.com/news/minneapolis-federal-agents-crackdown/)
+2. [2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever'](https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says)
+3. [ICE launches 'largest immigration operation ever' in Minneapolis](https://www.foxnews.com/us/ice-launches-largest-immigration-operation-ever-minneapolis-acting-director-says)
+
 ## DHS Deploys 2,000 Federal Agents to Minneapolis in 'Largest Immigration Operation Ever'
 *Date: 2026-01-06*
 
@@ -30786,6 +30798,13 @@
 2. [Trump Won't Rule Out Military Force to Acquire Greenland](https://www.bloomberg.com/news/articles/2026-01-06/trump-won-t-rule-out-military-force-to-acquire-greenland)
 3. [Denmark prime minister calls on Trump to stop the threats about Greenland](https://www.cbsnews.com/news/denmark-trump-aide-stephen-miller-wife-katie-miller-posts-image-us-flag-greenland/)
 4. [Republican leaders push back on Trump's openness to using military to take Greenland](https://www.nbcnews.com/politics/congress/republican-leaders-push-back-trump-openness-military-greenland-rcna252814)
+
+## Border Patrol Agents Pepper Spray Students at Roosevelt High School During Dismissal
+*Date: 2026-01-07*
+
+1. [Witnesses say agents arrest Minneapolis school staff, tear gas students](https://www.kare11.com/article/news/local/ice-agents-flood-into-roosevelt-high-school-in-minneapolis/89-e0d004b0-bb3d-41b7-949c-e4867f97f7c9)
+2. [Feds descend on Roosevelt High School, MPS cancels school](https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/)
+3. [Border Patrol detains Roosevelt High staffer](https://sahanjournal.com/education/border-patrol-detains-minneapolis-roosevelt-high-staffer/)
 
 ## ICE Agent Kills Legal Observer Renee Nicole Good During Minneapolis Raid
 *Date: 2026-01-07*
@@ -30828,6 +30847,12 @@
 2. [JD Vance Has Chilling Warning About ICE in Wake of Minnesota Shooting](https://newrepublic.com/post/205056/jd-vance-threat-ice-door-to-door-minnesota-shooting)
 3. [Immigration enforcement ramp-up has only just begun, VP Vance promises](https://www.yahoo.com/news/articles/immigration-enforcement-ramp-only-just-232710573.html)
 
+## CBP Agents Tackle and Detain Two U.S. Citizen Teenagers at Richfield Target Store
+*Date: 2026-01-08*
+
+1. [Target employees detained by federal officers were U.S. citizens](https://www.startribune.com/target-employees-federal-arrest-border-patrol-renee-nicole-good-shooting-ice-crackdown-minneapolis/601562858)
+2. [Federal agents take 2 into custody at Richfield Target](https://www.kare11.com/article/news/local/ice-in-minnesota/federal-agents-richfield-target/89-074f28c7-c04f-4392-9165-08ca304b0f39)
+
 ## FBI Revokes State Access to Evidence in Renee Good Shooting, Blocks Minnesota Investigation
 *Date: 2026-01-08*
 
@@ -30842,6 +30867,13 @@
 2. [17 House Republicans vote with Democrats on ACA subsidies](https://abcnews.go.com/Politics/house-vote-obamacare-subsidies-extension-after-9-republicans/story?id=129026545)
 3. [House passes bill to extend health care subsidies in rebuke of GOP leadership](https://www.pbs.org/newshour/politics/in-a-rebuke-of-gop-leadership-house-heads-toward-vote-to-extend-health-care-subsidies)
 4. [House passes ACA subsidies; fate murky in Senate](https://www.cnbc.com/2026/01/08/obamacare-subsidies-extension-congress.html)
+
+## Minneapolis Public Schools Cancel Classes, Offer Remote Learning Through February Due to ICE Operations
+*Date: 2026-01-08*
+
+1. [Minneapolis Public Schools offering E-learning through Feb. 12 due to ICE shooting](https://www.fox9.com/news/minneapolis-public-schools-offering-e-learning-through-feb-12-due-ice-shooting)
+2. [Minneapolis families can choose remote learning for next month amid ICE unrest](https://fortune.com/2026/01/10/minneapolis-remote-learning-next-month-ice-unrest-protests/)
+3. [Several school districts switch to remote learning amid ICE activity](https://kstp.com/kstp-news/top-news/minneapolis-public-schools-closed-thursday-and-friday-out-of-an-abundance-of-caution/)
 
 ## House Democrats File Impeachment Articles Against DHS Secretary Noem Over ICE Shooting
 *Date: 2026-01-08*
@@ -30885,7 +30917,30 @@
 2. [Fed Jerome Powell criminal probe](https://www.cnbc.com/2026/01/12/fed-jerome-powell-criminal-probe-nyt.html)
 3. [Trump administration opens criminal probe into Fed chair Jerome Powell](https://www.aljazeera.com/economy/2026/1/12/trump-administration-opens-criminal-probe-into-fed-chair-jerome-powell)
 
+## ICE Detains Five Native Americans in Minneapolis Based on Appearance, Tribal Leaders Condemn Racial Profiling
+*Date: 2026-01-10*
+
+1. [Five Native Americans detained by ICE during ongoing raids in Minneapolis](https://ictnews.org/news/five-native-americans-detained-by-ice-during-ongoing-raids-in-minneapolis/)
+2. [Tribal leaders say ICE is detaining American Indians](https://www.startribune.com/ice-detaining-american-indians-minneapolis-leaders-say/601561760)
+3. [ICE Detains and Holds Four Native Americans, Tribal Leader Says](https://www.newsweek.com/ice-detains-native-americans-minnesota-minneapolis-oglala-sioux-11339071)
+4. [Status of Native Americans detained by ICE still unknown](https://www.twincities.com/2026/01/13/status-of-native-americans-detained-by-ice-still-unknown-officials-say/)
+
+## Minnesota Attorney General Ellison and Twin Cities Sue DHS Over Operation Metro Surge
+*Date: 2026-01-12*
+
+1. [Attorney General Ellison and cities sue to halt ICE surge](https://www.ag.state.mn.us/Office/Communications/2026/01/12_ICE.asp)
+2. [MN Attorney General, Minneapolis and Saint Paul sue to halt ICE surge](https://www.minneapolismn.gov/news/2026/january/ag-lawsuit/)
+3. [Minnesota, Twin Cities sue Trump administration over ICE operations](https://www.cnn.com/2026/01/12/us/minneapolis-immigration-officers-mobilizing-protests)
+
 ## Senator Tillis Announces Opposition to All Trump Fed Nominees Over Powell Investigation
 *Date: 2026-01-12*
 
 1. [Tillis statement on Federal Reserve nominations](https://www.tillis.senate.gov/2026/1/tillis-statement-on-federal-reserve-nominations)
+
+## Six Minnesota Federal Prosecutors Resign Over DOJ Push to Investigate Renee Good's Widow
+*Date: 2026-01-13*
+
+1. [Joe Thompson, US attorney who uncovered massive fraud in Minnesota, resigns from office](https://www.startribune.com/joe-thompson-us-attorney-who-uncovered-massive-fraud-in-minnesota-resigns-from-office/601563206)
+2. [Minnesota federal prosecutors resign after DOJ push to investigate Renee Good's widow](https://www.npr.org/2026/01/13/nx-s1-5676123/minnesota-federal-prosecutors-resign-after-doj-push-to-investigate-renee-goods-widow)
+3. [Top prosecutors leave amid turmoil over DOJ civil rights response](https://www.washingtonpost.com/national-security/2026/01/13/justice-department-civil-rights-resignations/)
+4. [Six DOJ Prosecutors Resign Over Renee Good Investigation](https://www.notus.org/courts/doj-prosecutors-joseph-thompson-resign-renee-good-widow-minneapolis-investigation-fbi)
