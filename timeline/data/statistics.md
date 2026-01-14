@@ -1,23 +1,21 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-14 02:08:00
+Generated: 2026-01-14 02:13:09
 
 ## Overview
-- **Total Events**: 4179
+- **Total Events**: 4120
 - **Date Range**: 1142-01-01 to 2026-01-14
-- **Total Sources**: 14353
-- **Unique Tags**: 6493
-- **Unique Actors**: 7927
+- **Total Sources**: 14157
+- **Unique Tags**: 6440
+- **Unique Actors**: 7876
 
 ## Event Status
-- **Unknown**: 940
-- **Confirmed**: 3192
-- **Validated**: 28
+- **Unknown**: 930
+- **Confirmed**: 3147
+- **Validated**: 26
 - **Disputed**: 2
 - **Verified**: 1
-- **Enhanced**: 1
 - **Reported**: 7
-- **Investigated**: 1
 - **Contested**: 3
 - **Needs_Work**: 1
 - **Unverified**: 1
@@ -25,28 +23,28 @@ Generated: 2026-01-14 02:08:00
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 571 events
-- institutional-capture: 400 events
-- corruption: 286 events
-- systematic-corruption: 141 events
-- trump-administration: 140 events
-- kleptocracy: 135 events
-- government-contracts: 132 events
-- supreme-court: 126 events
-- surveillance: 120 events
-- crypto: 114 events
+- regulatory-capture: 554 events
+- institutional-capture: 393 events
+- corruption: 279 events
+- systematic-corruption: 139 events
+- trump-administration: 139 events
+- kleptocracy: 134 events
+- government-contracts: 131 events
+- supreme-court: 122 events
+- surveillance: 117 events
+- crypto: 112 events
 
 ## Top Actors
-- Donald Trump: 1086 events
-- Trump Administration: 334 events
-- Department of Justice: 263 events
-- Elon Musk: 163 events
-- U.S. Congress: 132 events
-- FBI: 90 events
-- Pam Bondi: 84 events
+- Donald Trump: 1068 events
+- Trump Administration: 328 events
+- Department of Justice: 259 events
+- Elon Musk: 158 events
+- U.S. Congress: 131 events
+- FBI: 89 events
+- Pam Bondi: 83 events
 - Ronald Reagan: 71 events
-- Supreme Court: 70 events
 - Congress: 69 events
+- ICE: 69 events
 
 ## Events by Year
 - 1142: 1 events
@@ -238,7 +236,7 @@ Generated: 2026-01-14 02:08:00
 - 1975: 12 events
 - 1976: 8 events
 - 1977: 15 events
-- 1978: 18 events
+- 1978: 16 events
 - 1979: 10 events
 - 1980: 18 events
 - 1981: 22 events
@@ -249,41 +247,41 @@ Generated: 2026-01-14 02:08:00
 - 1986: 11 events
 - 1987: 14 events
 - 1988: 10 events
-- 1989: 16 events
+- 1989: 15 events
 - 1990: 14 events
 - 1991: 12 events
 - 1992: 14 events
 - 1993: 10 events
-- 1994: 16 events
+- 1994: 15 events
 - 1995: 13 events
 - 1996: 21 events
-- 1997: 19 events
+- 1997: 16 events
 - 1998: 30 events
 - 1999: 16 events
 - 2000: 32 events
-- 2001: 37 events
+- 2001: 33 events
 - 2002: 71 events
 - 2003: 34 events
-- 2004: 33 events
+- 2004: 32 events
 - 2005: 38 events
 - 2006: 30 events
 - 2007: 24 events
-- 2008: 39 events
+- 2008: 38 events
 - 2009: 33 events
-- 2010: 46 events
-- 2011: 38 events
+- 2010: 45 events
+- 2011: 37 events
 - 2012: 38 events
-- 2013: 62 events
-- 2014: 55 events
-- 2015: 59 events
-- 2016: 94 events
-- 2017: 153 events
-- 2018: 132 events
-- 2019: 135 events
+- 2013: 61 events
+- 2014: 53 events
+- 2015: 57 events
+- 2016: 93 events
+- 2017: 151 events
+- 2018: 129 events
+- 2019: 134 events
 - 2020: 130 events
 - 2021: 105 events
-- 2022: 93 events
-- 2023: 101 events
-- 2024: 169 events
-- 2025: 1254 events
+- 2022: 92 events
+- 2023: 97 events
+- 2024: 165 events
+- 2025: 1231 events
 - 2026: 50 events
