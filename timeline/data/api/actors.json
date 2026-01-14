@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1083
+    "count": 1087
   },
   {
     "name": "Trump Administration",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Department of Justice",
-    "count": 261
+    "count": 263
   },
   {
     "name": "Elon Musk",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Pam Bondi",
-    "count": 82
+    "count": 83
   },
   {
     "name": "Supreme Court",
@@ -61,6 +61,10 @@
   },
   {
     "name": "Department of Homeland Security",
+    "count": 58
+  },
+  {
+    "name": "Kristi Noem",
     "count": 56
   },
   {
@@ -70,10 +74,6 @@
   {
     "name": "White House",
     "count": 55
-  },
-  {
-    "name": "Kristi Noem",
-    "count": 54
   },
   {
     "name": "Federal Trade Commission",
@@ -88,12 +88,12 @@
     "count": 53
   },
   {
-    "name": "Barack Obama",
+    "name": "Department of Defense",
     "count": 49
   },
   {
-    "name": "Department of Defense",
-    "count": 46
+    "name": "Barack Obama",
+    "count": 49
   },
   {
     "name": "Amazon",
@@ -212,15 +212,15 @@
     "count": 31
   },
   {
+    "name": "Pete Hegseth",
+    "count": 31
+  },
+  {
     "name": "Richard Nixon",
     "count": 30
   },
   {
     "name": "Mark Zuckerberg",
-    "count": 30
-  },
-  {
-    "name": "Pete Hegseth",
     "count": 30
   },
   {
@@ -296,6 +296,10 @@
     "count": 24
   },
   {
+    "name": "FDA",
+    "count": 24
+  },
+  {
     "name": "Oracle",
     "count": 24
   },
@@ -328,7 +332,7 @@
     "count": 22
   },
   {
-    "name": "FDA",
+    "name": "Department of Health and Human Services",
     "count": 21
   },
   {
@@ -480,15 +484,15 @@
     "count": 17
   },
   {
-    "name": "Department of Health and Human Services",
-    "count": 17
-  },
-  {
     "name": "Federal Aviation Administration",
     "count": 17
   },
   {
     "name": "Pentagon",
+    "count": 17
+  },
+  {
+    "name": "Immigration and Customs Enforcement (ICE)",
     "count": 17
   },
   {
@@ -520,11 +524,11 @@
     "count": 16
   },
   {
-    "name": "Immigration and Customs Enforcement (ICE)",
+    "name": "Mike Pence",
     "count": 16
   },
   {
-    "name": "Mike Pence",
+    "name": "CDC",
     "count": 16
   },
   {
@@ -533,6 +537,10 @@
   },
   {
     "name": "Mike Pompeo",
+    "count": 16
+  },
+  {
+    "name": "Robert F. Kennedy Jr.",
     "count": 16
   },
   {
@@ -672,6 +680,10 @@
     "count": 13
   },
   {
+    "name": "HHS",
+    "count": 13
+  },
+  {
     "name": "Jeff Sessions",
     "count": 13
   },
@@ -796,7 +808,7 @@
     "count": 12
   },
   {
-    "name": "Robert F. Kennedy Jr.",
+    "name": "USDA",
     "count": 12
   },
   {
@@ -964,6 +976,10 @@
     "count": 10
   },
   {
+    "name": "Texas Legislature",
+    "count": 10
+  },
+  {
     "name": "Justice Clarence Thomas",
     "count": 10
   },
@@ -1092,19 +1108,11 @@
     "count": 9
   },
   {
-    "name": "Texas Legislature",
-    "count": 9
-  },
-  {
     "name": "Douglas Feith",
     "count": 9
   },
   {
     "name": "Senate Intelligence Committee",
-    "count": 9
-  },
-  {
-    "name": "CDC",
     "count": 9
   },
   {
@@ -1117,10 +1125,6 @@
   },
   {
     "name": "Bernie Sanders",
-    "count": 9
-  },
-  {
-    "name": "HHS",
     "count": 9
   },
   {
@@ -1165,10 +1169,6 @@
   },
   {
     "name": "CBS News",
-    "count": 9
-  },
-  {
-    "name": "USDA",
     "count": 9
   },
   {
@@ -1412,6 +1412,10 @@
     "count": 8
   },
   {
+    "name": "Gavin Newsom",
+    "count": 8
+  },
+  {
     "name": "OPM",
     "count": 8
   },
@@ -1536,6 +1540,10 @@
     "count": 7
   },
   {
+    "name": "US Congress",
+    "count": 7
+  },
+  {
     "name": "Kellyanne Conway",
     "count": 7
   },
@@ -1656,11 +1664,11 @@
     "count": 7
   },
   {
-    "name": "Pamela Bondi",
+    "name": "Greg Abbott",
     "count": 7
   },
   {
-    "name": "Gavin Newsom",
+    "name": "Pamela Bondi",
     "count": 7
   },
   {
@@ -2005,10 +2013,6 @@
   },
   {
     "name": "Palantir",
-    "count": 6
-  },
-  {
-    "name": "Greg Abbott",
     "count": 6
   },
   {
@@ -2452,6 +2456,10 @@
     "count": 5
   },
   {
+    "name": "Centers for Medicare and Medicaid Services",
+    "count": 5
+  },
+  {
     "name": "Turning Point USA",
     "count": 5
   },
@@ -2557,6 +2565,10 @@
   },
   {
     "name": "George Soros",
+    "count": 5
+  },
+  {
+    "name": "Doug Burgum",
     "count": 5
   },
   {
@@ -3036,10 +3048,6 @@
     "count": 4
   },
   {
-    "name": "US Congress",
-    "count": 4
-  },
-  {
     "name": "Glenn Fine",
     "count": 4
   },
@@ -3296,10 +3304,6 @@
     "count": 4
   },
   {
-    "name": "Centers for Medicare and Medicaid Services",
-    "count": 4
-  },
-  {
     "name": "Centers for Medicare & Medicaid Services",
     "count": 4
   },
@@ -3404,6 +3408,10 @@
     "count": 4
   },
   {
+    "name": "Government Accountability Office (GAO)",
+    "count": 4
+  },
+  {
     "name": "National Treasury Employees Union",
     "count": 4
   },
@@ -3444,6 +3452,10 @@
     "count": 4
   },
   {
+    "name": "Ken Paxton",
+    "count": 4
+  },
+  {
     "name": "Brad Schimel",
     "count": 4
   },
@@ -3472,6 +3484,10 @@
     "count": 4
   },
   {
+    "name": "US Navy",
+    "count": 4
+  },
+  {
     "name": "Texas House Democrats",
     "count": 4
   },
@@ -3489,10 +3505,6 @@
   },
   {
     "name": "Immigration and Customs Enforcement",
-    "count": 4
-  },
-  {
-    "name": "Doug Burgum",
     "count": 4
   },
   {
@@ -4864,6 +4876,10 @@
     "count": 3
   },
   {
+    "name": "Lloyd Austin",
+    "count": 3
+  },
+  {
     "name": "Paul Engelmayer",
     "count": 3
   },
@@ -4936,6 +4952,10 @@
     "count": 3
   },
   {
+    "name": "Jenniffer González-Colón",
+    "count": 3
+  },
+  {
     "name": "Kirkland & Ellis",
     "count": 3
   },
@@ -4965,6 +4985,10 @@
   },
   {
     "name": "New Civil Liberties Alliance",
+    "count": 3
+  },
+  {
+    "name": "Chad Mizelle",
     "count": 3
   },
   {
@@ -5036,6 +5060,10 @@
     "count": 3
   },
   {
+    "name": "Planned Parenthood",
+    "count": 3
+  },
+  {
     "name": "Erez Reuveni",
     "count": 3
   },
@@ -5077,14 +5105,6 @@
   },
   {
     "name": "U.S. Court of Appeals for the Ninth Circuit",
-    "count": 3
-  },
-  {
-    "name": "US Navy",
-    "count": 3
-  },
-  {
-    "name": "Government Accountability Office (GAO)",
     "count": 3
   },
   {
@@ -8500,6 +8520,10 @@
     "count": 2
   },
   {
+    "name": "Stacey Plaskett",
+    "count": 2
+  },
+  {
     "name": "Ben Sasse",
     "count": 2
   },
@@ -8529,6 +8553,10 @@
   },
   {
     "name": "Simone Biles",
+    "count": 2
+  },
+  {
+    "name": "Moderna",
     "count": 2
   },
   {
@@ -8577,10 +8605,6 @@
   },
   {
     "name": "Antony Blinken",
-    "count": 2
-  },
-  {
-    "name": "Lloyd Austin",
     "count": 2
   },
   {
@@ -9236,6 +9260,10 @@
     "count": 2
   },
   {
+    "name": "Federal Emergency Management Agency (FEMA)",
+    "count": 2
+  },
+  {
     "name": "EchoStar",
     "count": 2
   },
@@ -9265,6 +9293,10 @@
   },
   {
     "name": "Rep. Jamie Raskin",
+    "count": 2
+  },
+  {
+    "name": "Andrew Bailey",
     "count": 2
   },
   {
@@ -9360,10 +9392,6 @@
     "count": 2
   },
   {
-    "name": "Ken Paxton",
-    "count": 2
-  },
-  {
     "name": "Skydance",
     "count": 2
   },
@@ -9385,10 +9413,6 @@
   },
   {
     "name": "fhfa",
-    "count": 2
-  },
-  {
-    "name": "Chad Mizelle",
     "count": 2
   },
   {
@@ -23572,10 +23596,6 @@
     "count": 1
   },
   {
-    "name": "Stacey Plaskett",
-    "count": 1
-  },
-  {
     "name": "Eric Swalwell",
     "count": 1
   },
@@ -23789,10 +23809,6 @@
   },
   {
     "name": "Flagship Pioneering",
-    "count": 1
-  },
-  {
-    "name": "Moderna",
     "count": 1
   },
   {
@@ -25272,6 +25288,10 @@
     "count": 1
   },
   {
+    "name": "Texas Department of Agriculture",
+    "count": 1
+  },
+  {
     "name": "Chief Judge Priscilla Richman",
     "count": 1
   },
@@ -25708,6 +25728,14 @@
     "count": 1
   },
   {
+    "name": "Washington State Department of Health",
+    "count": 1
+  },
+  {
+    "name": "Benton-Franklin Health District",
+    "count": 1
+  },
+  {
     "name": "Peggy Judd",
     "count": 1
   },
@@ -25777,6 +25805,14 @@
   },
   {
     "name": "Anduril",
+    "count": 1
+  },
+  {
+    "name": "Puerto Rico State Commission on Elections",
+    "count": 1
+  },
+  {
+    "name": "Popular Democratic Party",
     "count": 1
   },
   {
@@ -25908,6 +25944,10 @@
     "count": 1
   },
   {
+    "name": "APHIS",
+    "count": 1
+  },
+  {
     "name": "Kroger Company",
     "count": 1
   },
@@ -25921,6 +25961,14 @@
   },
   {
     "name": "Martin Elling",
+    "count": 1
+  },
+  {
+    "name": "California Department of Food and Agriculture",
+    "count": 1
+  },
+  {
+    "name": "California Department of Public Health",
     "count": 1
   },
   {
@@ -25972,6 +26020,10 @@
     "count": 1
   },
   {
+    "name": "Louisiana Department of Health",
+    "count": 1
+  },
+  {
     "name": "Joel Kaplan",
     "count": 1
   },
@@ -26005,6 +26057,22 @@
   },
   {
     "name": "SaferAI",
+    "count": 1
+  },
+  {
+    "name": "Louisiana Grand Jury",
+    "count": 1
+  },
+  {
+    "name": "New York Physician",
+    "count": 1
+  },
+  {
+    "name": "Louisiana Attorney General",
+    "count": 1
+  },
+  {
+    "name": "Commonwealth of Northern Mariana Islands Government",
     "count": 1
   },
   {
@@ -26081,6 +26149,10 @@
   },
   {
     "name": "tether",
+    "count": 1
+  },
+  {
+    "name": "Rebecca González-Ramos",
     "count": 1
   },
   {
@@ -26297,6 +26369,10 @@
   },
   {
     "name": "u-s-office-of-government-ethics",
+    "count": 1
+  },
+  {
+    "name": "National Abortion Federation",
     "count": 1
   },
   {
@@ -26784,6 +26860,18 @@
     "count": 1
   },
   {
+    "name": "Texas Department of Health",
+    "count": 1
+  },
+  {
+    "name": "Johns Hopkins Bloomberg School of Public Health",
+    "count": 1
+  },
+  {
+    "name": "University of Texas",
+    "count": 1
+  },
+  {
     "name": "Interpublic Group",
     "count": 1
   },
@@ -27108,6 +27196,18 @@
     "count": 1
   },
   {
+    "name": "Maria Margarita Rojas",
+    "count": 1
+  },
+  {
+    "name": "Jose Ley",
+    "count": 1
+  },
+  {
+    "name": "Texas Attorney General",
+    "count": 1
+  },
+  {
     "name": "SpaceX DOGE Team",
     "count": 1
   },
@@ -27256,6 +27356,14 @@
     "count": 1
   },
   {
+    "name": "US Virgin Islands Department of Health",
+    "count": 1
+  },
+  {
+    "name": "Justa Encarnacion",
+    "count": 1
+  },
+  {
     "name": "Travis Hill",
     "count": 1
   },
@@ -27281,6 +27389,10 @@
   },
   {
     "name": "Ekaterina Diestler",
+    "count": 1
+  },
+  {
+    "name": "National Family Planning and Reproductive Health Association",
     "count": 1
   },
   {
@@ -27940,6 +28052,10 @@
     "count": 1
   },
   {
+    "name": "Central Office for Recovery Reconstruction and Resiliency (COR3)",
+    "count": 1
+  },
+  {
     "name": "State Department Officials",
     "count": 1
   },
@@ -28184,6 +28300,22 @@
     "count": 1
   },
   {
+    "name": "Missouri Supreme Court",
+    "count": 1
+  },
+  {
+    "name": "Judge Jerri Zhang",
+    "count": 1
+  },
+  {
+    "name": "Campaign Life Missouri",
+    "count": 1
+  },
+  {
+    "name": "BARDA",
+    "count": 1
+  },
+  {
     "name": "Walczak",
     "count": 1
   },
@@ -28193,6 +28325,14 @@
   },
   {
     "name": "Foreign Cryptocurrency Investors",
+    "count": 1
+  },
+  {
+    "name": "HHS Secretary Robert F. Kennedy Jr.",
+    "count": 1
+  },
+  {
+    "name": "22 State Attorneys General",
     "count": 1
   },
   {
@@ -28293,6 +28433,10 @@
   },
   {
     "name": "Deputy Attorney General Todd Blanche",
+    "count": 1
+  },
+  {
+    "name": "Advisory Committee on Immunization Practices",
     "count": 1
   },
   {
@@ -28528,6 +28672,14 @@
     "count": 1
   },
   {
+    "name": "Tennessee Legislature",
+    "count": 1
+  },
+  {
+    "name": "Tennessee Governor",
+    "count": 1
+  },
+  {
     "name": "Greg Abbott (Governor)",
     "count": 1
   },
@@ -28665,6 +28817,18 @@
   },
   {
     "name": "AI Safety Regulators",
+    "count": 1
+  },
+  {
+    "name": "Core Tech-HDCC-Kajima LLC",
+    "count": 1
+  },
+  {
+    "name": "Missile Defense Agency",
+    "count": 1
+  },
+  {
+    "name": "Robert Rasch",
     "count": 1
   },
   {
@@ -29092,10 +29256,6 @@
     "count": 1
   },
   {
-    "name": "Andrew Bailey",
-    "count": 1
-  },
-  {
     "name": "tech-companies",
     "count": 1
   },
@@ -29149,6 +29309,14 @@
   },
   {
     "name": "freddie-mac",
+    "count": 1
+  },
+  {
+    "name": "City of Austin",
+    "count": 1
+  },
+  {
+    "name": "City of San Antonio",
     "count": 1
   },
   {
@@ -29428,10 +29596,6 @@
     "count": 1
   },
   {
-    "name": "Planned Parenthood",
-    "count": 1
-  },
-  {
     "name": "Orsted",
     "count": 1
   },
@@ -29445,6 +29609,14 @@
   },
   {
     "name": "George Mason University",
+    "count": 1
+  },
+  {
+    "name": "Joint Region Marianas",
+    "count": 1
+  },
+  {
+    "name": "Pacific Center for Island Security",
     "count": 1
   },
   {
@@ -30381,6 +30553,22 @@
   },
   {
     "name": "Georgia Governor Brian Kemp",
+    "count": 1
+  },
+  {
+    "name": "North Dakota Supreme Court",
+    "count": 1
+  },
+  {
+    "name": "Justice Jerod E. Tufte",
+    "count": 1
+  },
+  {
+    "name": "Chief Justice Jon J. Jensen",
+    "count": 1
+  },
+  {
+    "name": "Judge Bruce Romanick",
     "count": 1
   },
   {

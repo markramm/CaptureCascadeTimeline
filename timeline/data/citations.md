@@ -20793,6 +20793,13 @@
 3. [British Lawmakers Accuse Google DeepMind of 'Breach of Trust' Over Delayed Gemini 2.5 Pro Safety Report](https://fortune.com/2025/08/29/british-lawmakers-accuse-google-deepmind-of-breach-of-trust-over-delayed-gemini-2-5-pro-safety-report/)
 4. [Google DeepMind Accused of Breaking AI Safety Commitments by UK Lawmakers](https://www.mlex.com/mlex/artificial-intelligence/articles/2382751/google-deepmind-accused-of-breaking-ai-safety-commitments-by-uk-lawmakers)
 
+## H5N1 Bird Flu First Detected in U.S. Dairy Cattle in Texas
+*Date: 2024-03-25*
+
+1. [Avian influenza virus type A (H5N1) in U.S. dairy cattle](https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza/avian-influenza-virus-type-h5n1-us-dairy-cattle)
+2. [Current Situation - Bird Flu in Dairy Cows](https://www.cdc.gov/bird-flu/situation-summary/mammals.html)
+3. [Avian Influenza A(H5N1) Virus among Dairy Cattle, Texas, USA](https://wwwnc.cdc.gov/eid/article/30/7/24-0717_article)
+
 ## Homeland Security Launches Major Sex Trafficking Investigation Against Sean Combs
 *Date: 2024-03-25*
 
@@ -21448,6 +21455,13 @@
 2. [Vance says Trump didn't lose the 2020 election: 'Not by the words I would use'](https://www.nbcnews.com/politics/2024-election/vance-says-trump-not-lose-2020-election-not-words-use-rcna175787)
 3. [Fact-check: Here is how we know Vance's statement that Trump did not lose in 2020 is false](https://www.politifact.com/factchecks/2024/oct/17/jd-vance/fact-check-here-is-how-we-know-vances-statement-th/)
 
+## Eight Washington State Poultry Workers Infected with H5N1 During Depopulation Operations
+*Date: 2024-10-20*
+
+1. [First presumed human infections of avian influenza under investigation in Washington state](https://doh.wa.gov/newsroom/first-presumed-human-infections-avian-influenza-under-investigation-washington-state)
+2. [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024](https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article)
+3. [Washington reports 4 suspected H5 avian flu infections in poultry workers](https://www.cidrap.umn.edu/avian-influenza-bird-flu/washington-reports-4-suspected-h5-avian-flu-infections-poultry-workers)
+
 ## Cochise County supervisor pleads guilty over 2022 certification refusal
 *Date: 2024-10-21*
 
@@ -21520,6 +21534,13 @@
 1. [Meta Opens Llama AI Models to US Defense Agencies, Contractors](https://www.bloomberg.com/news/articles/2024-11-04/meta-opens-llama-ai-models-to-us-defense-agencies-contractors)
 2. [Meta Says It's Making Its Llama Models Available for US National Security Applications](https://techcrunch.com/2024/11/04/meta-says-its-making-its-llama-models-available-for-us-national-security-applications/)
 3. [Meta Expands Military AI Reach with Open-Source Llama Models](https://www.defenseworld.net/2024/11/06/meta-expands-military-ai-reach-with-open-source-llama-models.html)
+
+## Puerto Rico Votes 58.6% for Statehood in Non-Binding Referendum as Congress Ignores Colonial Status
+*Date: 2024-11-05*
+
+1. [2024 Puerto Rican status referendum](https://en.wikipedia.org/wiki/2024_Puerto_Rican_status_referendum)
+2. [Understanding the 2024 Puerto Rico Plebiscite Results](https://puertoricoreport.com/understanding-the-2024-puerto-rico-plebiscite-results/)
+3. [Puerto Rico Statehood Independence or Free Association Referendum 2024](https://ballotpedia.org/Puerto_Rico_Statehood,_Independence,_or_Free_Association_Referendum_(2024))
 
 ## Record $1.9 Billion in Dark Money Floods 2024 Federal Election Cycle
 *Date: 2024-11-05*
@@ -21634,6 +21655,13 @@
 2. [McKinsey & Company makes further voluntary commitment to repay fees](https://www.mckinsey.com/za/our-work/statements/mckinsey-and-company-makes-further-voluntary-commitment-to-repay-fees)
 3. [South Africa: McKinsey tries to mop up 'shocking' state capture mess](https://www.theafricareport.com/56115/in-south-africa-mckinsey-tries-to-mop-up-shocking-state-capture-mess/)
 
+## USDA Issues Federal Order Requiring Mandatory Raw Milk Testing for H5N1
+*Date: 2024-12-06*
+
+1. [USDA Announces New Federal Order, Begins National Milk Testing Strategy to Address H5N1 in Dairy Herds](https://www.usda.gov/about-usda/news/press-releases/2024/12/06/usda-announces-new-federal-order-begins-national-milk-testing-strategy-address-h5n1-dairy-herds)
+2. [USDA orders mandatory raw milk testing for H5N1](https://www.dairyreporter.com/Article/2024/12/09/usda-orders-mandatory-h5n1-raw-milk-testing/)
+3. [US government to begin expanded testing of milk supply to better track the spread of bird flu](https://www.cnn.com/2024/12/06/health/milk-supply-testing-bird-flu-usda/index.html)
+
 ## FTC Blocks Kroger-Albertsons $24.6B Grocery Merger, Citing Labor and Consumer Harm
 *Date: 2024-12-10*
 
@@ -21656,6 +21684,13 @@
 1. [Justice Department Announces Resolution of Criminal and Civil Investigations into McKinsey & Company's Work with Purdue Pharma](https://www.justice.gov/archives/opa/pr/justice-department-announces-resolution-criminal-and-civil-investigations-mckinsey-companys)
 2. [McKinsey & Company to pay $650 million for role in opioid crisis](https://www.npr.org/2024/12/13/nx-s1-5155962/mckinsey-purdue-opioid-prosecution-doj)
 3. [Consulting firm McKinsey to pay $650 million to resolve US criminal opioid probe](https://www.cnn.com/2024/12/13/business/mckinsey-doj-opioid-probe/index.html)
+
+## California Governor Newsom Declares State of Emergency Over H5N1 Bird Flu Outbreak
+*Date: 2024-12-18*
+
+1. [Governor Newsom takes proactive action to strengthen robust state response to Bird Flu](https://www.gov.ca.gov/2024/12/18/governor-newsom-takes-proactive-action-to-strengthen-robust-state-response-to-bird-flu/)
+2. [Bird flu is declared a State of Emergency in California](https://www.npr.org/2024/12/20/nx-s1-5234658/bird-flu-is-declared-a-state-of-emergency-in-california)
+3. [California declared an emergency over bird flu. How serious is the situation?](https://www.pbs.org/newshour/health/california-declared-an-emergency-over-bird-flu-how-serious-is-the-situation)
 
 ## SEC Charges Cantor Fitzgerald $6.75 Million for Misleading SPAC Disclosures
 *Date: 2024-12-19*
@@ -21722,6 +21757,13 @@
 1. [Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion](https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy)
 2. [Businesses Eager to Beat Tariffs Turn to Trump Connected Lobbyists](https://www.bloomberg.com/news/features/2025-10-01/businesses-eager-to-beat-tariffs-turn-to-trump-connected-lobbyists)
 3. [Fact Sheet: Tariff Procedures and Trade Deal Implementation](https://www.whitehouse.gov/fact-sheets/2025/09/fact-sheet-president-donald-j-trump-modifies-the-scope-of-reciprocal-tariffs-and-establishes-procedures-for-implementing-trade-deals/)
+
+## First U.S. H5N1 Bird Flu Death Reported in Louisiana Patient
+*Date: 2025-01-06*
+
+1. [First H5 Bird Flu Death Reported in United States](https://www.cdc.gov/media/releases/2025/m0106-h5-birdflu-death.html)
+2. [LDH reports first U.S. H5N1-related human death](https://ldh.la.gov/news/H5N1-death)
+3. [First U.S. bird flu death reported in Louisiana after severe case of H5N1](https://www.cbsnews.com/news/bird-flu-h5n1-death-first-us-louisiana/)
 
 ## Meta Eliminates Fact-Checking Program Citing "Political Bias" After Trump Pressure
 *Date: 2025-01-07*
@@ -21807,12 +21849,29 @@
 2. [OpenAI and Anthropic researchers decry reckless safety culture at xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
 3. [Why xAI Loses US Deal After Grok Sparks Political AI Scandal](https://aimagazine.com/news/revealed-how-groks-antisemitism-lost-xai-a-key-us-contract)
 
+## Louisiana Grand Jury Indicts New York Physician for Providing Medication Abortion
+*Date: 2025-01-15*
+
+1. [Abortion provider prosecution 2025 criminal charges women](https://www.nbcnews.com/news/us-news/prosecutors-states-abortion-now-illegal-begin-prosecute-abortion-provi-rcna35268)
+
+## Northern Mariana Islands in "Very Dire" Fiscal Crisis as Tourism Collapse and Federal Aid Ends
+*Date: 2025-01-15*
+
+1. [U.S. Territories Public Debt and Economic Outlook 2025 Update](https://www.gao.gov/products/gao-25-107560)
+2. [Commonwealth of Northern Mariana Islands in very dire condition officials](https://www.bondbuyer.com/news/commonwealth-of-northern-mariana-islands-in-very-dire-condition-officials)
+
 ## Crypto firms pour $18 million into Trump inauguration
 *Date: 2025-01-17*
 
 1. [Trump inauguration draws big crypto donations](https://www.foxbusiness.com/politics/trump-inauguration-draws-big-crypto-donations)
 2. [Crypto firms pour millions into Trump inauguration](https://www.politico.com/news/2025/01/17/crypto-money-trump-inauguration-00199088)
 3. [Crypto firms gave $18M to Trump's inauguration. Ripple's $4.9M gift was second biggest overall](https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/)
+
+## RFK Jr. Absent from CDC Bird Flu Pandemic Preparedness Exercise During Transition
+*Date: 2025-01-17*
+
+1. [RFK Jr. Appears to Have Skipped January CDC Planning Exercise on Bird Flu](https://americanoversight.org/rfk-jr-appears-to-have-skipped-january-cdc-planning-exercise-on-bird-flu/)
+2. [Newsletter - Mike Waltz, RFK Jr., and Trump's First 100 Days](https://americanoversight.org/newsletter/newsletter-mike-waltz-rfk-jr-and-trumps-first-100-days/)
 
 ## Trump launches crypto memecoin days before inauguration
 *Date: 2025-01-17*
@@ -21937,6 +21996,14 @@
 3. [Lutnick's Tether Stake Raises Conflict of Interest Concerns in Commerce Department Nomination](https://www.coindesk.com/policy/2025/01/29/as-lutnick-faces-u-s-senate-elizabeth-warren-scrutinizes-his-tether-ties)
 4. [A 5-star rating for conflicts of interest: Commerce Sec. Howard Lutnick's finances raise red flags](https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/)
 5. [Lutnick Could Sit on Crypto Council Despite Conflicts](https://readsludge.com/2025/02/04/lutnick-could-sit-on-crypto-council-despite-conflicts/)
+
+## ICE Launches Aggressive Raids in Puerto Rico's Dominican Community
+*Date: 2025-01-20*
+
+1. [Raids and revenge tips Inside ICE's Puerto Rico deportation operation](https://www.npr.org/2025/06/02/nx-s1-5419588/finding-every-deportable-immigrant-inside-ices-puerto-rico-operation)
+2. [How immigration raids are reshaping daily life in Puerto Rico's Dominican enclave](https://www.npr.org/2025/06/07/nx-s1-5388933/immigration-raids-are-reshaping-daily-life-in-puerto-ricos-dominican-enclave-trump)
+3. [How ICE Raids in Puerto Rico Expose Colonial Inequality](https://time.com/7317412/ice-raid-puerto-rico-immigration/)
+4. [ICE conducts immigration raid in Puerto Rico targeting Dominican community](https://dominicantoday.com/dr/world/2025/01/27/ice-conducts-immigration-raid-in-puerto-rico-targeting-dominican-community/)
 
 ## Trump signs Executive Order 14148 rescinding 78 Biden directives
 *Date: 2025-01-20*
@@ -22164,6 +22231,12 @@
 4. [Hearing Highlights: Doug Burgum Fuels Concern He'll Put Oil & Gas Industry Profits Over America's Public Lands, Taxpayers](https://accountable.us/hearing-highlights-doug-burgum-fuels-concern-hell-put-oil-gas-industry-profits-over-americas-public-lands-taxpayers/)
 5. [Doug Burgum confirmed as interior secretary with support from Senate Democrats](https://www.cbsnews.com/news/doug-burgum-confirmed-by-senate-interior-secretary/)
 
+## DOJ Orders Limits on FACE Act Enforcement, Weakening Abortion Clinic Protection
+*Date: 2025-01-24*
+
+1. [DOJ limits enforcement of FACE Act, fueling concerns among abortion providers](https://www.npr.org/2025/03/09/g-s1-52616/abortion-face-act-access-enforcement)
+2. [How scaling back enforcement of FACE Act affects those on each side of abortion debate](https://www.npr.org/2025/03/07/nx-s1-5312008/how-scaling-back-enforcement-of-face-act-affects-those-on-each-side-of-abortion-debate)
+
 ## Pete Hegseth confirmed as Defense Secretary in historic VP tiebreaker vote
 *Date: 2025-01-24*
 
@@ -22297,6 +22370,13 @@
 1. [DOJ moves to drop charges against former GOP lawmaker in case criticized by Trump](https://www.politico.com/news/2025/01/29/jeff-fortenberry-dismiss-charges-00201274)
 2. [Justice Department Drops Case Against Ex-Rep. Jeff Fortenberry](https://rollcall.com/2025/01/29/justice-department-drops-case-against-ex-rep-jeff-fortenberry/)
 3. [Trump Justice Department Files to Drop Charges Against Former Nebraska U.S. Rep. Jeff Fortenberry](https://nebraskaexaminer.com/2025/01/29/trump-justice-department-files-to-drop-charges-against-former-nebraska-u-s-rep-jeff-fortenberry/)
+
+## Pentagon Ends Travel Reimbursement for Military Members Seeking Abortion Care
+*Date: 2025-01-29*
+
+1. [Defense Secretary Pete Hegseth Ends Military-Funded Abortion Travel](https://www.lifenews.com/2025/02/07/defense-secretary-pete-hegseth-ends-military-funded-abortion-travel/)
+2. [FAQ: Actions by the Department of Defense Regarding Abortion and Reproductive Health Care Access for Military Families](https://nwlc.org/resource/faq-actions-by-the-department-of-defense-regarding-abortion-and-reproductive-health-care-access-for-military-families/)
+3. [Pentagon Reverses Policy of Reimbursement for Abortion Travel—Fighting 'Wokeness' in the Military at the Expense of Service Members](https://msmagazine.com/2025/02/21/pentagon-abortion-travel-ban-military-women-rights/)
 
 ## Meta agrees to pay $25 million to settle Trump lawsuit over suspended accounts
 *Date: 2025-01-29*
@@ -23065,6 +23145,13 @@
 4. [Consensys and SEC reach agreement to dismiss MetaMask securities case](https://cryptobriefing.com/consensys-metasmask-securities-case/)
 5. [SEC Crypto Reversals: Every Case It Dropped in 2025](https://www.ccn.com/news/crypto/sec-crypto-reversals-2025-lawsuits/)
 
+## Study Finds 50% Spike in Pregnancy-Related Sepsis and Deaths in Texas After Abortion Ban
+*Date: 2025-02-20*
+
+1. [Rates of pregnancy-linked sepsis and deaths grow in Texas](https://www.texastribune.org/2025/02/20/texas-abortion-ban-impact-death-hospitalization/)
+2. [Two New Studies Provide Broadest Evidence to Date of Unequal Impacts of Abortion Bans](https://publichealth.jhu.edu/2025/two-new-studies-provide-broadest-evidence-to-date-of-unequal-impacts-of-abortion-bans)
+3. [Abortion Bans Linked to Sharp Rise in Sepsis, Infant Death, and Pregnancy-Associated Death, New Research Shows](https://www.prb.org/articles/abortion-bans-linked-to-sharp-rise-in-sepsis-infant-death-and-maternal-mortality-new-research-shows/)
+
 ## X Threatens Interpublic Group with Potential Government Interference Over Ad Spending
 *Date: 2025-02-20*
 
@@ -23775,6 +23862,11 @@
 4. [Commerce Department Director Leaves Job With a Scathing Warning About Elon Musk](https://www.thedailybeast.com/commerce-department-director-leaves-job-with-a-scathing-warning-about-elon-musk/)
 5. [Trump's changes to a 42 billion broadband program could be a win for Musk's Starlink](https://www.npr.org/2025/03/28/nx-s1-5338963/musk-starlink-broadband-commerce)
 
+## First Criminal Charges Filed Under Texas Abortion Ban: Midwife Faces 20 Years
+*Date: 2025-03-17*
+
+1. [Houston midwife arrested for alleged illegal abortions](https://www.texastribune.org/2025/03/17/texas-abortion-midwife-arrested/)
+
 ## Trump administration accused of ‘quid pro quo’ for fast-tracking controversial fossil fuel proposal in Michigan
 *Date: 2025-03-17*
 
@@ -24057,6 +24149,12 @@
 3. [Musk announces $1 million for Wisconsin voter in Supreme Court race](https://apnews.com/article/wisconsin-supreme-court-elon-musk-lottery-trump-b272e6af6c18ff5b73cd100ecec275b7)
 4. [Musk Defends Wisconsin Supreme Court Election Payments](https://www.nbcnews.com/politics/elections/elon-musk-wisconsin-supreme-court-election-rcna198544)
 
+## US Virgin Islands Loses $3.3 Million in Federal Health Funding Amid National Public Health Cuts
+*Date: 2025-03-27*
+
+1. [V.I. Health Department Braced for Federal Cuts, But Immunization and Prevention Still Face Pressure](https://stthomassource.com/content/2025/03/27/v-i-health-department-braced-for-federal-cuts-but-immunization-and-prevention-still-face-pressure/)
+2. [VI Department of Health Loses $3.3 Million as Federal Government Pulls Funding](http://viconsortium.com/vi-federal/virgin-islands-federal-cuts-withdraw--3-3m-in-health-funds-from-usvi--affecting-12-public-health-positions-and-immunization-division)
+
 ## FDIC says banks can engage in crypto activities without prior approval
 *Date: 2025-03-28*
 
@@ -24124,6 +24222,13 @@
 3. [Elon Musk Wasted 5M on Wisconsin Supreme Court Election Failure](https://www.newsweek.com/elon-musk-wisconsin-supreme-court-election-loss-2053668)
 4. [Elon Musk-funded political group spends big, goes door to door in Wisconsin Supreme Court race](https://madison.com/news/state-regional/government-politics/elections/article_ebc5dd15-2335-4089-aafd-7bfd86c9eaa4.html)
 5. [Wisconsin AG seeks to block Elon Musk's million-dollar giveaways ahead of state Supreme Court race](https://www.nbcnews.com/politics/elections/elon-musk-travel-wisconsin-ahead-critical-state-supreme-court-election-rcna198544)
+
+## Trump Administration Freezes Title X Funding to Planned Parenthood Affiliates
+*Date: 2025-03-31*
+
+1. [Trump administration freezes Title X funding from Planned Parenthood](https://www.washingtonpost.com/nation/2025/03/31/planned-parenthood-title-x-funding/)
+2. [Trump Administration's Withholding of Funds Could Impact 30% of Title X Patients](https://www.guttmacher.org/2025/04/trump-administrations-withholding-funds-could-impact-30-percent-title-x-patients)
+3. [Title X Grantees and Clinics Affected by the Trump Administration's Funding Freeze](https://www.kff.org/womens-health-policy/title-x-grantees-and-clinics-affected-by-the-trump-administrations-funding-freeze/)
 
 ## Trump commutes sentence of convicted fraudster who aided GOP impeachment effort
 *Date: 2025-03-31*
@@ -25252,6 +25357,12 @@
 2. [Supreme Court Shadow Docket Rulings Signal Turbulent 2025-2026 Term](https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-shadow-docket-rulings-signal-turbulent-2025-2026-term-ahead/)
 3. [Supreme Court Shadow Docket Rulings Signal Turbulent Term Ahead](https://govfacts.org/roundup/supreme-court-shadow-docket-rulings-signal-turbulent-2025-2026-term-ahead/)
 
+## Puerto Rico Loses Over $4.7 Million in FEMA Climate Resilience Funding as Federal Recovery Stalls
+*Date: 2025-05-07*
+
+1. [Puerto Rico and FEMA Safeguarding Recovery Amid Federal Policy Shifts](https://ucfglobalperspectives.org/blog/2025/05/07/puerto-rico-and-fema-safeguarding-recovery-amid-federal-policy-shifts/)
+2. [Puerto Rico Loses FEMA Funds for Climate Adaptation](https://periodismoinvestigativo.com/2025/04/puerto-rico-fema-climate-funding-cuts/)
+
 ## Trump Administration Moves to Eliminate Space and Rocket Launch Environmental Research
 *Date: 2025-05-07*
 
@@ -25666,6 +25777,13 @@
 4. [Trump Media group announces plan to establish .5 billion Bitcoin treasury](https://fortune.com/crypto/2025/05/27/trump-media-group-raise-money-bitcoin-treasury/)
 5. [Trump Media builds  billion bitcoin hoard, as cryptocurrency swells president's net worth](https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html)
 
+## Missouri Supreme Court Reinstates Abortion Restrictions Despite Voter-Approved Amendment
+*Date: 2025-05-27*
+
+1. [Missouri Supreme Court order reinstates 'de facto abortion ban' across the state](https://missouriindependent.com/2025/05/27/missouri-supreme-court-reinstates-abortion-restrictions-imposing-de-facto-ban/)
+2. [Missouri Supreme Court puts state abortion ban back into effect](https://www.stlpr.org/health-science-environment/2025-05-27/missouri-supreme-court-overturn-abortion-amendment-3)
+3. [Abortions canceled again in Missouri after ruling from state Supreme Court](https://www.cnn.com/2025/05/27/us/abortions-missouri-ban-ruling)
+
 ## Trump pardons reality stars Todd and Julie Chrisley
 *Date: 2025-05-27*
 
@@ -25689,6 +25807,13 @@
 1. [Trump pardons former GOP Rep. Michael Grimm amid clemency spree](https://thehill.com/homenews/administration/5322533-trump-pardons-former-gop-rep-michael-grimm-amid-clemency-spree/)
 2. [Trump pardons Michael Grimm, former NY congressman who pleaded guilty to tax evasion](https://www.cnn.com/2025/05/28/politics/trump-pardon-grimm-ny-congress)
 3. [Trump pardons former NY Rep. Michael Grimm after tax fraud conviction](https://www.washingtonpost.com/politics/2025/05/28/trump-pardon-michael-grimm-new-york-fraud/626ebe8e-3c09-11f0-912d-d5f4792db3e4_story.html)
+
+## HHS Cancels $766 Million Moderna Contract for H5N1 Pandemic Flu Vaccines
+*Date: 2025-05-28*
+
+1. [HHS cancels $766 million in Moderna contracts for vaccines for flu pandemics](https://www.statnews.com/2025/05/28/moderna-flu-vaccine-development-cancelled-by-hhs-mrna-platform-offers-speedy-pandemic-response/)
+2. [Trump administration cancels plans to develop a bird flu vaccine](https://www.npr.org/2025/05/28/nx-s1-5414642/trump-vaccine-bird-flu-mrna)
+3. [HHS cancels funding for Moderna's candidate H5 avian flu and pandemic vaccines](https://www.cidrap.umn.edu/avian-influenza-bird-flu/hhs-cancels-funding-moderna-s-candidate-h5-avian-flu-and-pandemic-vaccines)
 
 ## Trump Pardons Become Explicitly Political with 'No MAGA Left Behind' Directive
 *Date: 2025-05-28*
@@ -25725,6 +25850,13 @@
 1. [Who won a seat at Trump's crypto dinner?](https://www.nytimes.com/2025/05/23/us/politics/trump-crypto-dinner-attendees.html)
 2. [Top Trump Memecoin Holders Reveal Stunning Foreign Influence in Crypto Dinner Guest List](https://www.bloomberg.com/news/articles/2025/05/28/trump-crypto-dinner-foreign-national-investors)
 3. [50 Trump Crypto Dinner Invitees Hold Tokens Linked to Alt-Right Symbols and Racist Language](https://www.citizensforethics.org/reports-investigations/crew-investigations/50-trump-crypto-dinner-invitees-hold-tokens-linked-to-alt-right-symbols-and-racist-language/)
+
+## CMS Rescinds EMTALA Guidance Requiring Emergency Abortion Care
+*Date: 2025-05-29*
+
+1. [CMS Rescinds EMTALA Guidance on Hospital Obligation to Provide Emergency Abortions](https://www.aamc.org/advocacy-policy/washington-highlights/cms-rescinds-emtala-guidance-hospital-obligation-provide-emergency-abortions)
+2. [Trump Administration Rescinds EMTALA Guidance and Sends Clear Signal - Emergency Abortion Care Remains At Risk](https://www.aclu.org/press-releases/trump-administration-rescinds-emtala-guidance-and-sends-clear-signal-emergency-abortion-care-remains-at-risk)
+3. [CMS Rescinds Post-Dobbs EMTALA Guidance, Raising New Questions for Emergency Departments](https://foleyhoag.com/news-and-insights/publications/alerts-and-updates/2025/june/cms-rescinds-post-dobbs-emtala-guidance-raising-new-questions-for-emergency-departments/)
 
 ## Federal Courts Rule Trump's IEEPA Tariffs Illegal in Multiple Cases
 *Date: 2025-05-29*
@@ -25963,6 +26095,13 @@
 2. [Updated FCPA Enforcement Guidelines](https://www.justice.gov/dag/media/1403031/dl)
 3. [FCPA Enforcement: Back With a Twist? DOJ Issues New FCPA Guidelines Following Trump Executive Order](https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/06/fcpa-enforcement-back-with-a-twist)
 4. [The FCPA Pause Is Over: Trump DOJ Issues Long-Awaited FCPA Investigations and Enforcement Guidelines](https://www.crowell.com/en/insights/client-alerts/the-fcpa-pause-is-over-trump-doj-issues-long-awaited-fcpa-investigations-and-enforcement-guidelines)
+
+## RFK Jr. Fires All 17 Members of CDC Vaccine Advisory Committee
+*Date: 2025-06-09*
+
+1. [Health secretary RFK Jr. abruptly fires CDC vaccine advisory panel](https://www.statnews.com/2025/06/09/rfk-jr-fires-every-member-of-cdc-vaccine-expert-panel-acip/)
+2. [RFK Jr. removes every member of CDC vaccine advisory committee](https://www.cbsnews.com/news/rfk-jr-removes-members-cdc-immunization-advisory-committee-acip/)
+3. [RFK Jr. removes all members of the CDC's vaccine advisory committee](https://www.npr.org/sections/shots-health-news/2025/06/09/nx-s1-5428533/rfk-jr-vaccine-advisory-committee-acip)
 
 ## Trump federalizes California National Guard over governor's objection
 *Date: 2025-06-09*
@@ -26404,6 +26543,11 @@
 2. [The Changing Tides of the SEC Under the Second Trump Administration](https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/)
 3. [SEC Adopts Rules to Enhance Investor Protections Relating to SPACs, Shell Companies, and Projections](https://www.sec.gov/newsroom/press-releases/2024-8)
 
+## Tennessee Enacts Broad Healthcare Refusal Law Allowing Denial of Contraception
+*Date: 2025-07-01*
+
+1. [2025 State Legislation on Birth Control: Attacks Continue but State Advocates Work to Protect and Expand Contraceptive Access](https://nwlc.org/resource/2025-state-legislation-on-birth-control-attacks-continue-but-state-advocates-work-to-protect-and-expand-contraceptive-access/)
+
 ## Texas Democrats Flee State to Block Trump-Requested Mid-Cycle Gerrymandering
 *Date: 2025-07-01*
 
@@ -26424,6 +26568,13 @@
 1. [Federal agencies plan for mass layoffs as Trump's workforce cuts continue](https://www.npr.org/2025/03/15/nx-s1-5328721/reduction-in-force-rif-federal-workers-job-cuts-musk-doge-layoffs)
 2. [2025 United States federal mass layoffs - USAID](https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs)
 3. [Sweeping cuts hit recent federal hires as Trump administration slashes workforce](https://www.npr.org/2025/02/13/nx-s1-5296928/layoffs-trump-doge-education-energy)
+
+## CDC Deactivates H5N1 Emergency Response Despite Ongoing Outbreak
+*Date: 2025-07-02*
+
+1. [CDC ends emergency response to H5N1 bird flu](https://www.cnn.com/2025/07/07/health/cdc-bird-flu-response)
+2. [CDC ends emergency response to H5N1 bird flu](https://www.wlwt.com/article/cdc-ends-h5n1-bird-flu-emergency-response/65330751)
+3. [Bird Flu's Back And This Time Fewer People Are Keeping Tabs On It](https://www.huffpost.com/entry/bird-flu-cases-on-rise-hhs-rfk-jr-testing_n_690e0d21e4b094b50cf9c673)
 
 ## Paramount Pays $16M to Settle Trump's 60 Minutes Lawsuit
 *Date: 2025-07-02*
@@ -26482,6 +26633,13 @@
 1. [Congress eliminates federal funding for public broadcasting](https://www.npr.org/2025/07/04/congress-eliminates-npr-pbs-funding)
 2. [FCC Commissioner warns public broadcasting cuts threaten emergency alerts](https://www.washingtonpost.com/media/2025/07/05/fcc-commissioner-npr-pbs-emergency)
 3. [Republicans fulfill long-sought goal of defunding public media](https://www.nytimes.com/2025/07/04/business/media/npr-pbs-funding-eliminated.html)
+
+## Trump Signs "One Big Beautiful Bill" Slashing $863 Billion from Medicaid, Devastating US Territories
+*Date: 2025-07-04*
+
+1. [Medicaid, SNAP, and the One Big Beautiful Bill Act Explained](https://www.pearsuite.com/post/one-big-beautiful-bill-act/)
+2. [One Big Beautiful Bill Law Summary](https://www.astho.org/advocacy/federal-government-affairs/leg-alerts/2025/one-big-beautiful-bill-law-summary/)
+3. [How the One Big Beautiful Bill will impact the US Virgin Islands and Puerto Rico's rum Industry](https://pasquines.us/2025/09/15/how-the-one-big-beautiful-bill-will-impact-the-us-virgin-islands-and-puerto-ricos-rum-industry/)
 
 ## 2.4 million Americans projected to lose SNAP benefits from expanded work requirements
 *Date: 2025-07-04*
@@ -26658,6 +26816,12 @@
 1. [OpenAI and Anthropic Researchers Decry Reckless Safety Culture at Elon Musk's xAI](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
 2. [Elon Musk Released xAI's Grok 4 Without Any Safety Reports—Despite Calling AI More 'Dangerous Than Nukes'](https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/)
 3. [xAI Loses US Deal After Grok Sparks Political AI Scandal](https://aimagazine.com/news/revealed-how-groks-antisemitism-lost-xai-a-key-us-contract)
+
+## Pentagon Awards $295 Million Guam Defense Contract as Military Buildup Strains Local Housing Market
+*Date: 2025-07-15*
+
+1. [Pentagon Awards $295M Contract for Guam Defense System Command Center](https://news.usni.org/2025/07/15/pentagon-awards-295-million-contract-for-guam-defense-system-command-center)
+2. [Pentagon Contracts Firm to Build Guam Defense System Command Center](https://thedefensepost.com/2025/07/17/pentagon-guam-defense-system/)
 
 ## Trump demands Texas conduct mid-cycle redistricting for 5 new GOP seats
 *Date: 2025-07-15*
@@ -27543,6 +27707,13 @@
 2. [Who is Bill Pulte, the housing director going after Trump's enemies?](https://thehill.com/business/5463982-trump-pulte-fed-pressure-campaign/)
 3. [Ranking Member Waters Demands Answers from Director Pulte](https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=413224)
 
+## Texas Governor Signs Law Banning Local Government Abortion Travel Assistance
+*Date: 2025-08-20*
+
+1. [Abortion Travel Ban - Understanding Recent Legislation](https://tfn.org/abbott-signs-sb33/)
+2. [ACLU of Texas Comments on Passage of S.B. 33 — Bill That Bans Local Government Assistance for Abortion Care Out of State](https://www.aclutx.org/press-releases/aclu-texas-comments-passage-sb-33-bill-bans-local-government-assistance-abortion-care/)
+3. [Austin axes abortion travel fund amid new Texas law](https://www.kvue.com/article/news/local/austin-abortion-travel-fund-ends-texas-senate-bill-33-takes-effect/269-566550fa-d7fb-4008-89a9-c7fb3ed3913b)
+
 ## Trump Purchases Over $100 Million in Bonds from Companies He Regulates
 *Date: 2025-08-20*
 
@@ -28134,6 +28305,13 @@
 2. [Sen. Schiff Leads Senate Democrats in Demanding Answers from Trump Envoy Steve Witkoff on Failure to Divest Ownership of World Liberty Financial Crypto Assets](https://www.schiff.senate.gov/news/press-releases/news-sen-schiff-leads-senate-democrats-in-demanding-answers-from-trump-envoy-steve-witkoff-on-failure-to-divest-ownership-of-world-liberty-financial-crypto-assets/)
 3. [US Envoy Steve Witkoff Still Holds Trump-Linked Crypto, Raising Ethics Concerns](https://finance.yahoo.com/news/us-envoy-steve-witkoff-still-152659251.html)
 
+## FEMA Cancels $11 Billion in Disaster Payments as Kristi Noem Imposes Spending Controls
+*Date: 2025-09-15*
+
+1. [FEMA canceled $11B in disaster payments to states](https://www.eenews.net/articles/fema-canceled-11b-in-disaster-payments-to-states/)
+2. [In Texas flood response, FEMA slowed by Noem's cost controls](https://www.cnn.com/2025/07/09/politics/fema-texas-flood-noem)
+3. [Trump Administration Makes Deep Cuts at FEMA as Climate Crisis Accelerates](https://truthout.org/articles/trump-administration-makes-deep-cuts-at-fema-as-climate-crisis-accelerates/)
+
 ## Wall Street Journal: FEMA Paralyzed by Noem's Approval Requirements as Disaster Victims Wait
 *Date: 2025-09-15*
 
@@ -28163,6 +28341,13 @@
 
 1. [Former special counsel Jack Smith warns that rule of law is 'under attack'](https://www.npr.org/2025/09/25/nx-s1-5552723/former-special-counsel-jack-smith-warns-that-rule-of-law-is-under-attack)
 2. [Takeaways from former special counsel Jack Smith's scathing review of the Trump Justice Department](https://www.cnn.com/2025/10/14/politics/jack-smith-interview-special-counsel-justice-department-trump)
+
+## Navy Seeks 2,400 Housing Units for Guam Military Buildup as Costs Squeeze Local Residents
+*Date: 2025-09-16*
+
+1. [Navy seeks to expand Guam housing to support troop buildup](https://www.navytimes.com/news/your-navy/2025/09/16/navy-seeks-to-expand-guam-housing-to-support-troop-buildup/)
+2. [DoD Unveils Ambitious Plan to Expand Housing for Guam Troop Surge](https://www.commondef.com/2025/09/dod-unveils-ambitious-plan-to-expand-housing-for-guam-troop-surge/)
+3. [Military expansion on Guam sucks up housing resources](https://prismreports.org/2025/05/12/guam-military-marines-housing/)
 
 ## DOJ and FTC Identify 125+ Federal Regulations for Elimination as "Anticompetitive"
 *Date: 2025-09-17*
@@ -29663,6 +29848,13 @@
 1. [After break with Trump, Marjorie Taylor Greene will resign](https://www.npr.org/2025/11/21/nx-s1-5617227/marjorie-taylor-greene-resignation-trump)
 2. [Rep. Marjorie Taylor Greene to resign in January](https://www.nbcnews.com/politics/congress/rep-marjorie-taylor-greene-resign-january-rcna245278)
 3. [Rep. Marjorie Taylor Greene says she will resign from Congress in January](https://abcnews.go.com/Politics/rep-marjorie-taylor-greene-resign-congress-january/story?id=127771912)
+
+## North Dakota Supreme Court Reinstates Near-Total Abortion Ban Despite Unconstitutionality Finding
+*Date: 2025-11-21*
+
+1. [North Dakota Supreme Court ruling reverses judge's decision that overturned the state's abortion ban](https://www.mprnews.org/story/2025/11/21/north-dakota-high-court-overturns-decision-that-had-blocked-state-abortion-ban)
+2. [Abortion Illegal Again In North Dakota After Supreme Court Ruling](https://reproductiverights.org/news/abortion-illegal-again-in-north-dakota-after-supreme-court-ruling/)
+3. [North Dakota abortion ban reinstated by state Supreme Court](https://minnlawyer.com/2025/11/24/north-dakota-abortion-ban-supreme-court-ruling/)
 
 ## DOGE Disbanded Eight Months Early After Musk Departure and Trump Feud
 *Date: 2025-11-24*

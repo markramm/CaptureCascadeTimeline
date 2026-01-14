@@ -1,15 +1,15 @@
 {
-  "total_events": 4179,
-  "total_tags": 6450,
-  "total_actors": 7900,
-  "total_sources": 14408,
+  "total_events": 4208,
+  "total_tags": 6490,
+  "total_actors": 7947,
+  "total_sources": 14484,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-01-14"
   },
   "status_counts": {
-    "unknown": 936,
-    "confirmed": 3195,
+    "unknown": 945,
+    "confirmed": 3215,
     "validated": 29,
     "disputed": 2,
     "verified": 1,
@@ -29,15 +29,15 @@
     },
     {
       "name": "institutional-capture",
-      "count": 398
+      "count": 405
     },
     {
       "name": "corruption",
-      "count": 286
+      "count": 288
     },
     {
       "name": "systematic-corruption",
-      "count": 140
+      "count": 142
     },
     {
       "name": "trump-administration",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1083
+      "count": 1087
     },
     {
       "name": "Trump Administration",
@@ -75,7 +75,7 @@
     },
     {
       "name": "Department of Justice",
-      "count": 261
+      "count": 263
     },
     {
       "name": "Elon Musk",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Pam Bondi",
-      "count": 82
+      "count": 83
     },
     {
       "name": "Supreme Court",
@@ -106,5 +106,5 @@
       "count": 72
     }
   ],
-  "generated": "2026-01-13T23:26:33.402106"
+  "generated": "2026-01-14T00:21:40.661544"
 }

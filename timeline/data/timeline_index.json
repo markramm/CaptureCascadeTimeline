@@ -73429,7 +73429,7 @@
       ],
       "tags": [
         "predatory-lending",
-        "option-ARMs",
+        "option-arms",
         "payment-shock",
         "subprime-mortgages",
         "housing-bubble",
@@ -73520,10 +73520,10 @@
         "Rating agencies"
       ],
       "tags": [
-        "synthetic-CDOs",
+        "synthetic-cdos",
         "derivatives",
         "mortgage-backed-securities",
-        "Wall-Street",
+        "wall-street",
         "systemic-risk",
         "financial-engineering"
       ],
@@ -73835,9 +73835,9 @@
         "Institutional investors"
       ],
       "tags": [
-        "synthetic-CDOs",
+        "synthetic-cdos",
         "mortgage-backed-securities",
-        "Wall-Street",
+        "wall-street",
         "financial-fraud",
         "housing-bubble",
         "derivatives"
@@ -74478,7 +74478,7 @@
         "rating-agencies",
         "financial-deregulation",
         "subprime-mortgages",
-        "CDOs",
+        "cdos",
         "systemic-risk"
       ],
       "sources": [
@@ -148202,6 +148202,50 @@
       "_id_hash": "0ec8511a8e3f6e691dac68321655fb9b140045ea60d6d85553cfffdf4fa7b0b6"
     },
     {
+      "id": "2024-03-25--h5n1-first-detected-us-dairy-cattle",
+      "date": "2024-03-25",
+      "title": "H5N1 Bird Flu First Detected in U.S. Dairy Cattle in Texas",
+      "importance": 8,
+      "tags": [
+        "public-health",
+        "agricultural-crisis",
+        "disease-outbreak",
+        "regulatory-failure"
+      ],
+      "actors": [
+        "USDA",
+        "CDC",
+        "FDA",
+        "Texas Department of Agriculture"
+      ],
+      "sources": [
+        {
+          "title": "Avian influenza virus type A (H5N1) in U.S. dairy cattle",
+          "url": "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza/avian-influenza-virus-type-h5n1-us-dairy-cattle",
+          "date": "2024-03-25",
+          "tier": 1,
+          "outlet": "American Veterinary Medical Association"
+        },
+        {
+          "title": "Current Situation - Bird Flu in Dairy Cows",
+          "url": "https://www.cdc.gov/bird-flu/situation-summary/mammals.html",
+          "date": "2024-03-25",
+          "tier": 1,
+          "outlet": "CDC"
+        },
+        {
+          "title": "Avian Influenza A(H5N1) Virus among Dairy Cattle, Texas, USA",
+          "url": "https://wwwnc.cdc.gov/eid/article/30/7/24-0717_article",
+          "date": "2024-07-01",
+          "tier": 1,
+          "outlet": "CDC Emerging Infectious Diseases"
+        }
+      ],
+      "summary": "On March 25, 2024, highly pathogenic avian influenza (HPAI) H5N1 clade 2.3.4.4b was confirmed in a dairy cow in Texas, marking the first detection of H5N1 in U.S. dairy cattle. The USDA, FDA, and CDC jointly announced this unprecedented development after a multistate investigation into unexplained milk production losses. Veterinarians at Cornell University College of Veterinary Medicine were among the first to sequence the virus using samples from sick cattle in Texas.\n\nThe initial outbreak began on March 18, 2024, when researchers were notified of epidemics of illness among Texas dairy cattle showing transient respiratory and gastrointestinal signs. This represented the first reports of HPAI of any subtype causing viral mastitis in lactating dairy cows, introducing a novel transmission pathway for the virus into the human food supply chain.\n\nImmediately following the first detection in the Texas panhandle region, USDA and HHS experts took action to trace animal movements, began sampling to assess disease prevalence in herds, and initiated testing activities to confirm the safety of meat and milk supplies. This initial detection would prove to be the beginning of a nationwide outbreak that would eventually spread to 989 dairy herds across 17 states by early 2025.\n\nThe detection in dairy cattle created new public health concerns because of the potential for human exposure through close contact with infected animals and contaminated milk. Within days of the Texas detection, on April 1, 2024, Texas reported the first confirmed human H5N1 infection associated with this outbreak, confirming that the virus could jump from infected dairy cattle to farmworkers.\n\nThis event marked a critical turning point in the H5N1 outbreak, transforming what had been primarily a poultry disease since 2022 into a multi-species agricultural crisis affecting the dairy industry. The failure to contain the initial outbreak in Texas dairy cattle would lead to widespread geographic spread, ultimately affecting hundreds of dairy herds across multiple states and creating sustained human exposure risks for agricultural workers throughout 2024 and into 2025.",
+      "_file": "2024-03-25--h5n1-first-detected-us-dairy-cattle.md",
+      "_id_hash": "db5745a2437320dd3f5ae6cfca0191dfd2e38bc74b8affc34c827c4161ba3741"
+    },
+    {
       "id": "2024-03-25--homeland-security-raids-diddy-properties-trafficking",
       "date": "2024-03-25",
       "title": "Homeland Security Launches Major Sex Trafficking Investigation Against Sean Combs",
@@ -152910,6 +152954,50 @@
       "_id_hash": "aa056fe4628fe764dbcd20ccd29fd4c42dfb2f1234c2e7b22c51436133716daf"
     },
     {
+      "id": "2024-10-20--washington-poultry-workers-h5n1-outbreak",
+      "date": "2024-10-20",
+      "title": "Eight Washington State Poultry Workers Infected with H5N1 During Depopulation Operations",
+      "importance": 7,
+      "tags": [
+        "public-health",
+        "worker-safety",
+        "disease-outbreak",
+        "agricultural-crisis"
+      ],
+      "actors": [
+        "Washington State Department of Health",
+        "CDC",
+        "Benton-Franklin Health District",
+        "USDA"
+      ],
+      "sources": [
+        {
+          "title": "First presumed human infections of avian influenza under investigation in Washington state",
+          "url": "https://doh.wa.gov/newsroom/first-presumed-human-infections-avian-influenza-under-investigation-washington-state",
+          "date": "2024-10-20",
+          "tier": 1,
+          "outlet": "Washington State Department of Health"
+        },
+        {
+          "title": "Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024",
+          "url": "https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article",
+          "date": "2025-12-01",
+          "tier": 1,
+          "outlet": "CDC Emerging Infectious Diseases"
+        },
+        {
+          "title": "Washington reports 4 suspected H5 avian flu infections in poultry workers",
+          "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/washington-reports-4-suspected-h5-avian-flu-infections-poultry-workers",
+          "date": "2024-10-22",
+          "tier": 1,
+          "outlet": "CIDRAP"
+        }
+      ],
+      "summary": "On October 20, 2024, the Washington State Department of Health and Benton-Franklin Health District reported the first presumptive positive cases of avian influenza A(H5) virus in agricultural workers at a commercial egg farm in Franklin County, Washington. CDC testing ultimately confirmed HPAI A(H5) virus in 8 poultry farm workers who were exposed to H5N1 virus-infected poultry during depopulation efforts to control an outbreak among poultry.\n\nThe infections occurred at a farm that had experienced an avian influenza outbreak in chickens, where approximately 800,000 birds were euthanized after test results by the Washington State Department of Agriculture on October 15 showed they were infected with avian influenza. All 8 cases occurred in adults exposed to infected poultry during these mass culling operations, representing the largest cluster of human H5N1 infections at a single U.S. workplace to date.\n\nThe infected workers experienced mild symptoms and were provided with antiviral medication. However, the incident highlighted significant gaps in worker protection protocols during emergency disease response operations. The mass infection of workers during depopulation efforts demonstrated that existing safety measures were inadequate to prevent human exposure during high-risk agricultural operations.\n\nScientific analysis of viral samples from the Washington cases showed they were infected with the D1.1 genotype, which is different from the B3.13 genotype that had been fueling the outbreak on dairy farms. The available gene sequences from the Washington human cases lacked changes associated with reduced antiviral susceptibility or mammalian adaptation, and the virus retained preferential binding to avian-like receptors rather than mammalian receptors.\n\nThis outbreak made Washington the sixth state to identify human H5N1 infections and represented a critical failure in occupational safety protocols. The simultaneous infection of eight workers during a single depopulation operation raised serious questions about the adequacy of personal protective equipment, worker training, and safety oversight during emergency agricultural disease response. The incident underscored how industrial-scale poultry operations create concentrated exposure risks for workers, particularly during crisis response operations involving the mass culling of hundreds of thousands of infected birds.",
+      "_file": "2024-10-20--washington-poultry-workers-h5n1-outbreak.md",
+      "_id_hash": "d78edeeb6a19b80ac5246691cc4ae8377d3af43de9002c69c5c3852ebead7413"
+    },
+    {
       "id": "2024-10-21--cochise-supervisor-plea",
       "title": "Cochise County supervisor pleads guilty over 2022 certification refusal",
       "date": "2024-10-21",
@@ -153471,6 +153559,58 @@
       "summary": "Meta announced a groundbreaking policy shift, making its open-source Llama AI models available to US government agencies and defense contractors. Partnering with companies like Accenture, AWS, Anduril, Lockheed Martin, Microsoft, Oracle, Scale AI, and others, Meta opened its technology for national security applications. This strategic move breaks previous prohibitions on military use, offering specific projects such as aircraft maintenance document synthesis, operational planning support, and code generation. The decision comes amid geopolitical tensions, including reports of Chinese researchers using an older Llama model for defense applications, signaling a significant transformation in Meta's approach to government and defense technology.",
       "_file": "2024-11-04--meta-provides-llama-ai-models-to-us-government-and.md",
       "_id_hash": "309a4c5540f05945568247409c6ca375bcd6d099076c12712d5845cedf042669"
+    },
+    {
+      "id": "2024-11-05--puerto-rico-statehood-referendum-congress-inaction",
+      "date": "2024-11-05",
+      "importance": 8,
+      "title": "Puerto Rico Votes 58.6% for Statehood in Non-Binding Referendum as Congress Ignores Colonial Status",
+      "location": "Puerto Rico",
+      "actors": [
+        "Puerto Rico State Commission on Elections",
+        "Jenniffer González-Colón",
+        "US Congress",
+        "Popular Democratic Party"
+      ],
+      "tags": [
+        "statehood-referendum",
+        "puerto-rico",
+        "colonial-status",
+        "self-determination",
+        "congressional-inaction"
+      ],
+      "capture_lanes": [
+        "Electoral Manipulation",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "2024 Puerto Rican status referendum",
+          "url": "https://en.wikipedia.org/wiki/2024_Puerto_Rican_status_referendum",
+          "outlet": "Wikipedia",
+          "date": "2024-11-05",
+          "archive_url": null
+        },
+        {
+          "title": "Understanding the 2024 Puerto Rico Plebiscite Results",
+          "url": "https://puertoricoreport.com/understanding-the-2024-puerto-rico-plebiscite-results/",
+          "outlet": "Puerto Rico Report",
+          "date": "2024-11-05",
+          "archive_url": null
+        },
+        {
+          "title": "Puerto Rico Statehood Independence or Free Association Referendum 2024",
+          "url": "https://ballotpedia.org/Puerto_Rico_Statehood,_Independence,_or_Free_Association_Referendum_(2024)",
+          "outlet": "Ballotpedia",
+          "date": "2024-11-05",
+          "archive_url": null
+        }
+      ],
+      "notes": "Seventh referendum on Puerto Rico status. Results - 58.6% statehood (620,782 votes), 29.6% free association (313,259 votes), 11.8% independence (125,171 votes), plus 204,341 blank/invalid ballots. First time maintaining territorial status not option on ballot. Pro-commonwealth parties called for boycott. Statehood has won majority in four recent votes (2012, 2017, 2020, 2024). Results non-binding - requires Congressional action. Congress proposed Puerto Rico Status Act (H.R. 2757) for November 2, 2025 binding referendum, but bill passed House December 2022 and never brought to Senate floor. Fourth consecutive statehood majority vote ignored by Congress.",
+      "status": "confirmed",
+      "summary": "Puerto Rico votes 58.6% for statehood in non-binding referendum, fourth consecutive majority for statehood since 2012, as US Congress continues to ignore territory's self-determination and refuses to act on binding referendum legislation despite repeated democratic expressions",
+      "_file": "2024-11-05--puerto-rico-statehood-referendum-congress-inaction.md",
+      "_id_hash": "eca22cbb50f5056995ce2a54032fe711590064239b1f1c049477295acd7dca05"
     },
     {
       "id": "2024-11-05--record-dark-money-election",
@@ -154280,6 +154420,50 @@
       "_id_hash": "d167163c8c1442c754fe0bd0968afe783c160ad5f5a6e938e6b3f55e17c6ea1d"
     },
     {
+      "id": "2024-12-06--usda-mandatory-milk-testing-order-h5n1",
+      "date": "2024-12-06",
+      "title": "USDA Issues Federal Order Requiring Mandatory Raw Milk Testing for H5N1",
+      "importance": 7,
+      "tags": [
+        "public-health",
+        "regulatory-action",
+        "disease-surveillance",
+        "agricultural-crisis"
+      ],
+      "actors": [
+        "USDA",
+        "APHIS",
+        "FDA",
+        "CDC"
+      ],
+      "sources": [
+        {
+          "title": "USDA Announces New Federal Order, Begins National Milk Testing Strategy to Address H5N1 in Dairy Herds",
+          "url": "https://www.usda.gov/about-usda/news/press-releases/2024/12/06/usda-announces-new-federal-order-begins-national-milk-testing-strategy-address-h5n1-dairy-herds",
+          "date": "2024-12-06",
+          "tier": 1,
+          "outlet": "USDA"
+        },
+        {
+          "title": "USDA orders mandatory raw milk testing for H5N1",
+          "url": "https://www.dairyreporter.com/Article/2024/12/09/usda-orders-mandatory-h5n1-raw-milk-testing/",
+          "date": "2024-12-09",
+          "tier": 2,
+          "outlet": "Dairy Reporter"
+        },
+        {
+          "title": "US government to begin expanded testing of milk supply to better track the spread of bird flu",
+          "url": "https://www.cnn.com/2024/12/06/health/milk-supply-testing-bird-flu-usda/index.html",
+          "date": "2024-12-06",
+          "tier": 1,
+          "outlet": "CNN"
+        }
+      ],
+      "summary": "On December 6, 2024, the USDA issued a new Federal Order requiring that raw (unpasteurized) milk samples nationwide be collected and shared with USDA for testing as part of a new National Milk Testing Strategy (NMTS) to address H5N1 in dairy herds. The order came nine months after the first detection of H5N1 in dairy cattle and after the virus had already spread to 720 herds across 15 states with 58 human infections, mostly farmworkers.\n\nThe Federal Order imposed three main requirements: sharing of raw milk samples upon request from any entity responsible for dairy farms, bulk milk transporters, bulk milk transfer stations, or dairy processing facilities; mandatory provision of epidemiological information by herd owners with positive cattle for contact tracing and disease surveillance; and mandatory reporting of positive results to USDA by private laboratories and state veterinarians.\n\nThe first round of testing under the new Federal Order was scheduled to begin the week of December 16, 2024, in California, Colorado, Michigan, Mississippi, Oregon, and Pennsylvania. This delayed implementation meant that comprehensive nationwide surveillance would not begin until more than eight months after the initial outbreak, allowing the virus to spread largely unmonitored across the country during the critical early months.\n\nThe order complemented but did not replace the April 24 Federal Order, which required mandatory testing of lactating dairy cows prior to interstate shipment. However, the April order had proven insufficient to track or contain the outbreak, as it focused only on cattle movement rather than comprehensive surveillance of the milk supply. The December order represented an acknowledgment that the previous approach had failed to prevent widespread transmission.\n\nCritically, the testing program focused on raw milk destined for pasteurization, with the USDA and FDA maintaining that pasteurization would inactivate any virus detected. Milk that tested positive would not be destroyed but would be sent on for pasteurization, raising questions about whether the program prioritized industry economic interests over more precautionary public health approaches.\n\nThe nine-month delay between the first detection of H5N1 in dairy cattle and the implementation of mandatory nationwide milk testing represented a significant regulatory failure. During this period, the virus spread unchecked through dairy herds across multiple states, infected dozens of farmworkers, and created sustained contamination of the milk supply. The belated testing requirement demonstrated how regulatory agencies prioritized industry concerns about economic disruption over rapid implementation of comprehensive disease surveillance, allowing a novel public health threat to become entrenched in the agricultural system before comprehensive monitoring began.",
+      "_file": "2024-12-06--usda-mandatory-milk-testing-order-h5n1.md",
+      "_id_hash": "7413ef56f37547cf7503654164116e9bdcdaa1e991b12edcc4041d6cb9481eaf"
+    },
+    {
       "id": "2024-12-10--ftc-blocks-kroger-albertsons-merger-labor-focus",
       "date": "2024-12-10",
       "title": "FTC Blocks Kroger-Albertsons $24.6B Grocery Merger, Citing Labor and Consumer Harm",
@@ -154444,6 +154628,49 @@
       "summary": "McKinsey & Company agrees to pay $650 million to settle federal criminal and civil investigations into its role in helping Purdue Pharma 'turbocharge' sales of OxyContin, the highly addictive opioid painkiller at the center of America's overdose epidemic. This marks the first time a management consulting firm has been held criminally responsible for advice resulting in the commission of a crime by a client.\n\nThe Department of Justice charges McKinsey with knowingly and intentionally conspiring with Purdue and others to aid and abet the misbranding of prescription drugs. Prosecutors reveal that McKinsey 'knew the risk and dangers' of OxyContin and knew that Purdue executives had previously pleaded guilty to crimes related to promoting the drug, but decided to work with the opioid manufacturer anyway. McKinsey's work included identifying which prescribers would generate the most additional prescriptions if Purdue salespeople focused on them.\n\nFormer McKinsey senior partner Martin Elling agrees to plead guilty to obstruction of justice charges for personally deleting Purdue-related electronic materials from his McKinsey laptop with intent to obstruct future investigations. The settlement includes $324 million in criminal fines and forfeitures (including $93 million to recover fees Purdue paid McKinsey from 2004-2019) plus over $323 million in civil penalties for False Claims Act violations.\n\nThe resolution also addresses McKinsey's conflict of interest fraud: from 2014 to 2017, McKinsey allowed consultants to work simultaneously on FDA and Purdue projects, breaching its own conflict-of-interest policy. As part of a five-year deferred prosecution agreement, McKinsey agrees to refrain from any future work involving controlled substances including opioids and face closer federal oversight. McKinsey states the opioid work 'will always be a source of profound regret for our firm,' but the settlement reveals how consulting firms prioritize profits over public health with devastating consequences.",
       "_file": "2024-12-13--mckinsey-opioid-settlement-650-million.md",
       "_id_hash": "9beccedab4b6df0dc08739cd76c891b3c98bc7eda486d0deff57d772893d7eba"
+    },
+    {
+      "id": "2024-12-18--california-newsom-h5n1-emergency-declaration",
+      "date": "2024-12-18",
+      "title": "California Governor Newsom Declares State of Emergency Over H5N1 Bird Flu Outbreak",
+      "importance": 8,
+      "tags": [
+        "public-health",
+        "state-response",
+        "emergency-declaration",
+        "disease-outbreak"
+      ],
+      "actors": [
+        "Gavin Newsom",
+        "California Department of Food and Agriculture",
+        "California Department of Public Health"
+      ],
+      "sources": [
+        {
+          "title": "Governor Newsom takes proactive action to strengthen robust state response to Bird Flu",
+          "url": "https://www.gov.ca.gov/2024/12/18/governor-newsom-takes-proactive-action-to-strengthen-robust-state-response-to-bird-flu/",
+          "date": "2024-12-18",
+          "tier": 1,
+          "outlet": "California Governor's Office"
+        },
+        {
+          "title": "Bird flu is declared a State of Emergency in California",
+          "url": "https://www.npr.org/2024/12/20/nx-s1-5234658/bird-flu-is-declared-a-state-of-emergency-in-california",
+          "date": "2024-12-20",
+          "tier": 1,
+          "outlet": "NPR"
+        },
+        {
+          "title": "California declared an emergency over bird flu. How serious is the situation?",
+          "url": "https://www.pbs.org/newshour/health/california-declared-an-emergency-over-bird-flu-how-serious-is-the-situation",
+          "date": "2024-12-18",
+          "tier": 1,
+          "outlet": "PBS"
+        }
+      ],
+      "summary": "On December 18, 2024, California Governor Gavin Newsom proclaimed a State of Emergency to streamline and expedite the state's response to avian influenza A (H5N1), as cases were detected in dairy cows on farms in Southern California. The emergency declaration came after dairy cows at four Southern California dairies tested positive for bird flu on December 12, 2024, signaling that the outbreak had spread beyond the Central Valley and necessitating a shift from regional containment to statewide monitoring and response.\n\nAt the time of the declaration, California had become the epicenter of the H5N1 outbreak in the United States, with 36 confirmed human cases and infections detected in 600 cattle herds—both figures representing the highest in the nation. The proclamation noted that 985 dairies in California were under surveillance and 614 were under quarantine, representing approximately 71% of all California dairy herds having reported at least one case of bird flu.\n\nThe emergency declaration provided state and local agencies with additional flexibility around staffing, contracting, and other administrative rules to support California's evolving response. This included authority to expedite procurement of equipment and supplies, temporarily suspend certain regulations that might impede rapid response, and allocate additional resources to affected regions without normal bureaucratic delays.\n\nCalifornia State Veterinarian Dr. Annette Jones had already issued a statewide ban on exhibiting dairy cattle and poultry at fairs and shows in response to the outbreak. The state suggested that California was hit especially hard because most of its dairies are concentrated close together in the Central Valley, making containment more difficult once the virus entered the region.\n\nThe emergency declaration highlighted the inadequacy of federal response efforts and the need for individual states to take independent action to protect public health. While federal agencies had been tracking the outbreak since March 2024, the lack of coordinated national response left states like California to manage the crisis with their own resources. The declaration implicitly acknowledged that the outbreak had grown beyond what normal state response mechanisms could handle, requiring emergency authorities nearly nine months after the first U.S. detection in Texas dairy cattle.\n\nThe California emergency represented the most significant state-level acknowledgment of the severity of the H5N1 outbreak and demonstrated how the failure of federal coordination forced states to independently escalate their response. With 71% of California's dairy industry affected, the emergency declaration came remarkably late, after the virus had already achieved widespread penetration of the state's agricultural system, raising questions about why more aggressive containment measures were not implemented earlier in the outbreak.",
+      "_file": "2024-12-18--california-newsom-h5n1-emergency-declaration.md",
+      "_id_hash": "c3ee3269883cc902040050e853bd8256e32ba27c890b43f94402ba3030410445"
     },
     {
       "id": "2024-12-19--cantor-fitzgerald-sec-spac-disclosure-violations-settlement",
@@ -154896,6 +155123,49 @@
       "summary": "In Trump's second term, tariff policy became increasingly opaque, with exemptions granted through a non-transparent process heavily influenced by lobbyists and political connections. The administration replaced the previous public application process with closed-door negotiations, raising significant concerns about potential cronyism. Investigations revealed that politically connected firms were far more likely to receive tariff exemptions, with some industries securing carve-outs that did not align with the stated national interest criteria.",
       "_file": "2025-01-01--tariff-exemptions-secret-deals.md",
       "_id_hash": "1d03317934f864b3d65eef838aa0716dbf8d529b99edbdcaa3544e2da3fa44de"
+    },
+    {
+      "id": "2025-01-06--first-us-h5n1-death-louisiana",
+      "date": "2025-01-06",
+      "title": "First U.S. H5N1 Bird Flu Death Reported in Louisiana Patient",
+      "importance": 9,
+      "tags": [
+        "public-health",
+        "disease-outbreak",
+        "mortality",
+        "regulatory-failure"
+      ],
+      "actors": [
+        "Louisiana Department of Health",
+        "CDC",
+        "FDA"
+      ],
+      "sources": [
+        {
+          "title": "First H5 Bird Flu Death Reported in United States",
+          "url": "https://www.cdc.gov/media/releases/2025/m0106-h5-birdflu-death.html",
+          "date": "2025-01-06",
+          "tier": 1,
+          "outlet": "CDC"
+        },
+        {
+          "title": "LDH reports first U.S. H5N1-related human death",
+          "url": "https://ldh.la.gov/news/H5N1-death",
+          "date": "2025-01-06",
+          "tier": 1,
+          "outlet": "Louisiana Department of Health"
+        },
+        {
+          "title": "First U.S. bird flu death reported in Louisiana after severe case of H5N1",
+          "url": "https://www.cbsnews.com/news/bird-flu-h5n1-death-first-us-louisiana/",
+          "date": "2025-01-06",
+          "tier": 1,
+          "outlet": "CBS News"
+        }
+      ],
+      "summary": "On January 6, 2025, the Louisiana Department of Health announced the first human death from H5N1 bird flu in the United States, marking a critical escalation in the severity of the ongoing outbreak. The patient, who was over age 65 and had underlying medical conditions, had been hospitalized since mid-December after contracting the H5N1 strain of highly pathogenic bird flu in southwest Louisiana.\n\nThe Louisiana patient contracted H5N1 after exposure to a combination of a non-commercial backyard flock and wild birds, representing the first case of H5N1 bird flu in the U.S. linked to exposure to a backyard flock. Most other U.S. cases had occurred in workers at commercial poultry farms or dairy operations, making this case significant as it demonstrated the virus was circulating in non-commercial settings and posed risks to the general population beyond agricultural workers.\n\nCDC genetic sequencing determined that the Louisiana patient was infected with the D1.1 strain of the bird flu virus, which is different from the B3.13 genotype that had been fueling the unprecedented outbreak on dairy farms across the U.S. The D1.1 strain had been previously associated with more serious illness, including a critically ill 13-year-old teenager in Canada who was hospitalized but recovered. The patient's virus had some rare and potentially worrying mutations, though these genetic changes likely arose during the person's infection and were not found in the animals that likely infected them.\n\nAs of January 6, 2025, there had been 66 confirmed human cases of H5N1 bird flu in the United States since 2024 and 67 since 2022, with this being the first death. Historically, the mortality rate from avian influenza A(H5N1) observed globally has been approximately 50%, though only one of 70 human infections in the United States to date resulted in death. The CDC stated it had \"carefully studied the available information\" and continued to assess that the risk to the general public remained low, emphasizing that no person-to-person transmission had been identified.\n\nHowever, the CDC's reassuring messaging conflicted with the reality that a novel influenza virus with historically high global mortality rates had now claimed its first U.S. victim. The death occurred just two weeks before Robert F. Kennedy Jr., a prominent vaccine skeptic, would take office as HHS Secretary under the second Trump administration, raising concerns about the government's preparedness to respond to a potential pandemic threat.\n\nThe Louisiana death represented a critical failure of the public health response to contain H5N1 before it could cause severe human illness and mortality. Nearly ten months after the first detection in U.S. dairy cattle, and after 70 confirmed human infections, federal health authorities had failed to prevent the virus from spreading to backyard flocks and wild birds where it could infect members of the general public. The death demonstrated that the virus posed severe risks beyond the agricultural workforce and that the outbreak had escaped the boundaries of commercial farming operations, marking a dangerous expansion of the threat to public health.",
+      "_file": "2025-01-06--first-us-h5n1-death-louisiana.md",
+      "_id_hash": "5cb5667e9beb19ffd5e36e66caf491ef6e9fa03c4e961e78c7a5306025e51c38"
     },
     {
       "id": "2025-01-07--meta-eliminates-fact-checking-program",
@@ -155488,6 +155758,86 @@
       "_id_hash": "c47eda4115e495290dd176903be0b26cbeeaaa6f9dda9eba5e714f4758040394"
     },
     {
+      "id": "2025-01-15--louisiana-indicts-ny-doctor-abortion-ban-violation",
+      "date": "2025-01-15",
+      "title": "Louisiana Grand Jury Indicts New York Physician for Providing Medication Abortion",
+      "importance": 8,
+      "actors": [
+        "Louisiana Grand Jury",
+        "New York Physician",
+        "Louisiana Attorney General"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "louisiana",
+        "abortion-prosecution",
+        "medication-abortion",
+        "interstate-enforcement"
+      ],
+      "sources": [
+        {
+          "title": "Abortion provider prosecution 2025 criminal charges women",
+          "url": "https://www.nbcnews.com/news/us-news/prosecutors-states-abortion-now-illegal-begin-prosecute-abortion-provi-rcna35268",
+          "outlet": "NBC News",
+          "date": "2025-01-15",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Criminal Justice",
+        "Interstate Conflict"
+      ],
+      "summary": "A Louisiana grand jury indicted a New York physician in January 2025 for violating Louisiana's abortion ban and restrictions by providing medication abortion to a Louisiana minor. The mother of the minor who received the medication abortion was also indicted, marking an escalation in interstate enforcement of state abortion bans.\n\nThe indictment represented an unprecedented attempt by a state to criminally prosecute an out-of-state physician for providing abortion care that is legal in the physician's home state. The case raised fundamental questions about state jurisdiction, interstate commerce, and whether states with abortion bans can reach across state lines to prosecute providers practicing legally in other jurisdictions.\n\nThe prosecution of the mother alongside the physician contradicted assurances from many states with abortion bans that they would focus punishment on providers rather than patients or those seeking abortions. Legal experts had warned that despite statutory language protecting patients, women would still be \"in the line of fire\" through related charges and increased surveillance of pregnancy outcomes.\n\nIn the year after the Dobbs decision, more than 200 cases emerged in which pregnant persons faced criminal charges for conduct associated with pregnancy, pregnancy loss, or birth. Experts anticipated \"an increase in people being criminalized in spite of what the law says, because of the additional surveillance, stigma and scrutiny on pregnancy outcomes.\"\n\nThe Louisiana indictment foreshadowed potential conflicts between states with abortion bans and states protecting abortion access through shield laws. Several states had enacted shield laws protecting providers who offer telemedicine abortion services to patients in states with bans, while 15 states urged Congress in late July 2025 to ban abortion shield laws, arguing they interfere with states' abilities to enforce criminal laws.\n\nThe case exemplified the expanding criminalization of abortion beyond physical procedure provision to include medication abortion, telemedicine services, and out-of-state care, potentially creating a patchwork of conflicting interstate enforcement that could require Supreme Court resolution regarding state extraterritorial jurisdiction.",
+      "_file": "2025-01-15--louisiana-indicts-ny-doctor-abortion-ban-violation.md",
+      "_id_hash": "19adc4119547634a7618c576e4ac66f6e48139123213414f82b8b7506246cdb4"
+    },
+    {
+      "id": "2025-01-15--northern-mariana-islands-very-dire-fiscal-crisis",
+      "date": "2025-01-15",
+      "importance": 8,
+      "title": "Northern Mariana Islands in \"Very Dire\" Fiscal Crisis as Tourism Collapse and Federal Aid Ends",
+      "location": "Northern Mariana Islands (CNMI)",
+      "actors": [
+        "Government Accountability Office (GAO)",
+        "Commonwealth of Northern Mariana Islands Government",
+        "US Congress"
+      ],
+      "tags": [
+        "economic-crisis",
+        "territory-neglect",
+        "debt-crisis",
+        "pension-insolvency",
+        "tourism-collapse"
+      ],
+      "capture_lanes": [
+        "Economic Exploitation",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "U.S. Territories Public Debt and Economic Outlook 2025 Update",
+          "url": "https://www.gao.gov/products/gao-25-107560",
+          "outlet": "GAO",
+          "date": "2025-01-15",
+          "archive_url": null
+        },
+        {
+          "title": "Commonwealth of Northern Mariana Islands in very dire condition officials",
+          "url": "https://www.bondbuyer.com/news/commonwealth-of-northern-mariana-islands-in-very-dire-condition-officials",
+          "outlet": "Bond Buyer",
+          "date": "2025-01-15",
+          "archive_url": null
+        }
+      ],
+      "notes": "GAO report reveals CNMI in \"very dire\" fiscal condition. Real GDP down 35% from fiscal 2017 to 2022. Tourism still down 55% from 2019 levels despite recovery from 12,700 visitors in 2021 (from 660,000 in 2017). 2018 typhoon and 2020 largest casino closure devastated economy. Public debt $121.1 million (13% of GDP), net pension liabilities 49% of GDP as of September 30, 2021. Pension plan bankrupt since 2012, territory taking loans to make payments. CNMI officials tell GAO \"uncertain how they will continue to make expected debt service and pension fund payments.\" With tourism struggling, federal assistance slowing/expiring, and weak financial management, \"CNMI is at risk of severe fiscal crisis.\" Bonds unrated, hoping to issue by January 2026 after releasing delayed FY2022-2023 ACFRs.",
+      "status": "confirmed",
+      "summary": "GAO report finds Northern Mariana Islands in \"very dire\" fiscal crisis with GDP down 35% since 2017, tourism still 55% below pre-pandemic, bankrupt pension system, and officials uncertain how to continue debt payments as federal assistance expires and economic prospects collapse",
+      "_file": "2025-01-15--northern-mariana-islands-very-dire-fiscal-crisis.md",
+      "_id_hash": "0859358a3a87d93b92b74e6bc9d56262d273447f3053f9f2c293d26ae0af1d27"
+    },
+    {
       "id": "2025-01-17--crypto-firms-pour-millions-into-trump-inauguration",
       "date": "2025-01-17",
       "title": "Crypto firms pour $18 million into Trump inauguration",
@@ -155552,6 +155902,42 @@
       "summary": "Cryptocurrency firms donated an unprecedented $18 million to Trump's 2025 inaugural fund, with Ripple's $4.9 million being the second-largest contribution overall. Major companies including Coinbase, Kraken, Circle, and Robinhood participated, signaling their expectation of a crypto-friendly regulatory landscape and potential policy influence.",
       "_file": "2025-01-17--crypto-firms-pour-millions-into-trump-inauguration.md",
       "_id_hash": "85526bf22c911fe8926546f93e23b301a76bdc32f4109426262ff0d07fedbbfa"
+    },
+    {
+      "id": "2025-01-17--rfk-jr-skips-cdc-bird-flu-planning-exercise",
+      "date": "2025-01-17",
+      "title": "RFK Jr. Absent from CDC Bird Flu Pandemic Preparedness Exercise During Transition",
+      "importance": 8,
+      "tags": [
+        "public-health",
+        "institutional-capture",
+        "regulatory-failure",
+        "pandemic-preparedness"
+      ],
+      "actors": [
+        "Robert F. Kennedy Jr.",
+        "CDC",
+        "HHS"
+      ],
+      "sources": [
+        {
+          "title": "RFK Jr. Appears to Have Skipped January CDC Planning Exercise on Bird Flu",
+          "url": "https://americanoversight.org/rfk-jr-appears-to-have-skipped-january-cdc-planning-exercise-on-bird-flu/",
+          "date": "2025-01-17",
+          "tier": 2,
+          "outlet": "American Oversight"
+        },
+        {
+          "title": "Newsletter - Mike Waltz, RFK Jr., and Trump's First 100 Days",
+          "url": "https://americanoversight.org/newsletter/newsletter-mike-waltz-rfk-jr-and-trumps-first-100-days/",
+          "date": "2025-01-17",
+          "tier": 2,
+          "outlet": "American Oversight"
+        }
+      ],
+      "summary": "On January 17, 2025, the Centers for Disease Control and Prevention held a critical tabletop exercise to prepare the incoming Trump administration for a potential bird flu outbreak, focusing on coordinating the distribution of H5 vaccine in the event of a pandemic. However, documents obtained by American Oversight revealed that incoming Health and Human Services Secretary Robert F. Kennedy Jr. was not present at this crucial pandemic planning exercise, just three days before his confirmation.\n\nThe tabletop exercise was designed to ensure continuity of pandemic preparedness across the presidential transition, bringing together CDC officials and incoming administration representatives to walk through response scenarios for H5N1 bird flu. Kennedy's absence from this planning session was particularly concerning given that H5N1 had already infected 70 people in the United States, killed one person in Louisiana just eleven days earlier, and spread to over 700 dairy herds across multiple states.\n\nKennedy's decision to skip the CDC planning exercise was especially significant given his well-documented history of vaccine skepticism and opposition to public health emergency measures. His absence suggested either a lack of engagement with the serious public health threat posed by H5N1 or an intentional disregard for the CDC's pandemic preparedness infrastructure that he would soon oversee as HHS Secretary.\n\nThe documents indicated this was not an informal meeting but rather a structured tabletop exercise—a standard emergency management tool used to test response plans and ensure key decision-makers understand their roles in a crisis. These exercises are particularly critical during presidential transitions to ensure that incoming leaders are prepared to manage ongoing public health threats from day one.\n\nKennedy's absence from the January 17 exercise foreshadowed his subsequent approach to the H5N1 outbreak as HHS Secretary. In the months following his confirmation, Kennedy would cancel pandemic flu vaccine contracts, fire CDC vaccine advisory committee members, and oversee the deactivation of the CDC's H5N1 emergency response, while thousands of scientists and public health officials were removed from federal agencies.\n\nThe failure of the incoming HHS Secretary to attend a critical pandemic preparedness exercise during a active disease outbreak represented a fundamental dereliction of duty and signaled that the Trump administration's public health policy would be driven by ideology rather than scientific preparedness. This absence, coming just days after the first U.S. death from H5N1, demonstrated that Kennedy prioritized his anti-vaccine political agenda over the practical work of pandemic preparedness, even as a potentially dangerous influenza virus continued to spread through American agriculture and had begun killing Americans.",
+      "_file": "2025-01-17--rfk-jr-skips-cdc-bird-flu-planning-exercise.md",
+      "_id_hash": "a536047e52c7f2be49816a6bc7dcd72e8b52396880f1bdb1906f5add85b35308"
     },
     {
       "id": "2025-01-17--trump-launches-crypto-memecoin-days-before-inaugur",
@@ -156476,6 +156862,65 @@
       "summary": "Commerce Secretary Howard Lutnick refuses to recuse from Trump's Digital Asset Working Group despite maintaining a $600 million stake in Tether, a cryptocurrency under DOJ investigation. Multiple sources, including Senator Elizabeth Warren's office, highlight Lutnick's significant conflicts of interest. Cantor Fitzgerald remains deeply involved with Tether, managing its Treasury reserves and brokering investments, while Lutnick claims he has 'divested' his interests, though his family maintains substantial connections to the cryptocurrency.",
       "_file": "2025-01-20--howard-lutnick-600-million-tether-conflict.md",
       "_id_hash": "54548bc46e28aa15461ba64c37b87d208456420c128ddaa39090f05f62bcafaf"
+    },
+    {
+      "id": "2025-01-20--ice-raids-target-dominican-community-puerto-rico-barrio-obrero",
+      "date": "2025-01-20",
+      "importance": 8,
+      "title": "ICE Launches Aggressive Raids in Puerto Rico's Dominican Community",
+      "location": "Puerto Rico",
+      "actors": [
+        "Immigration and Customs Enforcement (ICE)",
+        "Rebecca González-Ramos",
+        "Jenniffer González-Colón",
+        "Department of Homeland Security"
+      ],
+      "tags": [
+        "immigration-enforcement",
+        "racial-profiling",
+        "colonial-inequality",
+        "civil-rights-violations",
+        "puerto-rico"
+      ],
+      "capture_lanes": [
+        "Immigration Control",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "Raids and revenge tips Inside ICE's Puerto Rico deportation operation",
+          "url": "https://www.npr.org/2025/06/02/nx-s1-5419588/finding-every-deportable-immigrant-inside-ices-puerto-rico-operation",
+          "outlet": "NPR",
+          "date": "2025-06-02",
+          "archive_url": null
+        },
+        {
+          "title": "How immigration raids are reshaping daily life in Puerto Rico's Dominican enclave",
+          "url": "https://www.npr.org/2025/06/07/nx-s1-5388933/immigration-raids-are-reshaping-daily-life-in-puerto-ricos-dominican-enclave-trump",
+          "outlet": "NPR",
+          "date": "2025-06-07",
+          "archive_url": null
+        },
+        {
+          "title": "How ICE Raids in Puerto Rico Expose Colonial Inequality",
+          "url": "https://time.com/7317412/ice-raid-puerto-rico-immigration/",
+          "outlet": "TIME",
+          "date": "2025-01-27",
+          "archive_url": null
+        },
+        {
+          "title": "ICE conducts immigration raid in Puerto Rico targeting Dominican community",
+          "url": "https://dominicantoday.com/dr/world/2025/01/27/ice-conducts-immigration-raid-in-puerto-rico-targeting-dominican-community/",
+          "outlet": "Dominican Today",
+          "date": "2025-01-27",
+          "archive_url": null
+        }
+      ],
+      "notes": "Following Trump's January 20 Executive Order \"Protecting the American People from Invasion,\" ICE launches unprecedented raids in Barrio Obrero, San Juan. By June 2025, close to 500 immigrants arrested, fewer than 80 with criminal records. Three-quarters Dominican nationals. Puerto Rico government handed over list of 6,000 immigrants with special driver's licenses. Community reports empty stores, school absenteeism, widespread fear. Advocates document racial profiling of Black residents. ICE top investigator states mandate to find \"every deportable immigrant\" in Puerto Rico - estimated 20,000 people.",
+      "status": "confirmed",
+      "summary": "ICE launches aggressive immigration raids in Puerto Rico's Barrio Obrero following Trump's executive order, targeting Dominican community and arresting nearly 500 immigrants with minimal criminal records, exposing colonial inequality and systematic racial profiling",
+      "_file": "2025-01-20--ice-raids-target-dominican-community-puerto-rico-barrio-obrero.md",
+      "_id_hash": "bed5542feacb64ee025babee2d57916daa868215020343f10d616d09ee6847d7"
     },
     {
       "id": "2025-01-20--initial-rescissions",
@@ -158264,6 +158709,50 @@
       "_id_hash": "ddd3f86d62d6bb33e04e2d65689f927e0c15d84ff8b3d1d2a8e541d92cdb31e9"
     },
     {
+      "id": "2025-01-24--doj-limits-face-act-enforcement-abortion-clinics",
+      "date": "2025-01-24",
+      "title": "DOJ Orders Limits on FACE Act Enforcement, Weakening Abortion Clinic Protection",
+      "importance": 8,
+      "actors": [
+        "Department of Justice",
+        "Chad Mizelle",
+        "Pam Bondi",
+        "Donald Trump",
+        "National Abortion Federation"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "doj",
+        "face-act",
+        "abortion-access",
+        "institutional-capture"
+      ],
+      "sources": [
+        {
+          "title": "DOJ limits enforcement of FACE Act, fueling concerns among abortion providers",
+          "url": "https://www.npr.org/2025/03/09/g-s1-52616/abortion-face-act-access-enforcement",
+          "outlet": "NPR",
+          "date": "2025-03-09",
+          "tier": 1
+        },
+        {
+          "title": "How scaling back enforcement of FACE Act affects those on each side of abortion debate",
+          "url": "https://www.npr.org/2025/03/07/nx-s1-5312008/how-scaling-back-enforcement-of-face-act-affects-those-on-each-side-of-abortion-debate",
+          "outlet": "NPR",
+          "date": "2025-03-07",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "DOJ Politicization"
+      ],
+      "summary": "DOJ Chief of Staff Chad Mizelle issued a memorandum on January 24, 2025, ordering staff to limit enforcement of the Freedom of Access to Clinic Entrances (FACE) Act to only \"extraordinary circumstances\" such as cases involving death or serious property damage. The memo prohibits abortion-related FACE Act actions unless authorized by the Assistant Attorney General for the Civil Rights Division, reversing decades of clinic protection policy.\n\nNew DOJ leaders characterized past enforcement of the FACE Act as \"the prototypical example\" of what they called \"the weaponization of law enforcement.\" The department subsequently dropped three pending FACE Act cases, including prosecutions against Matthew Connolly and two cases involving blockades against clinics in Ohio and Tennessee. President Trump pardoned 23 people previously convicted under the FACE Act.\n\nThe FACE Act, passed by Congress in 1994 with bipartisan support, was enacted to prevent rising violence against abortion clinics and providers, including the 1993 murder of Dr. David Gunn by an anti-abortion extremist. The law prohibits threat of force, obstruction, and property damage meant to interfere with reproductive health care services.\n\nMelissa Fowler of the National Abortion Federation stated that \"The FACE Act has been incredibly effective at curbing some of the major types of violence and obstruction that we saw really escalating in the early nineties,\" but noted that enforcement rollback was \"really unprecedented.\" Abortion-rights advocates warned the policy change gives a \"green light to anyone who wants to disrupt abortion centers in the future\" with no federal consequences. Representatives Sean Casten, Jan Schakowsky, and Jerrold Nadler led 72 House Democrats in demanding the DOJ fully enforce the FACE Act, but were ignored.",
+      "_file": "2025-01-24--doj-limits-face-act-enforcement-abortion-clinics.md",
+      "_id_hash": "4d769f0e7ea520b0468fa73c60cccee35e95e1ac88868caffaf9a25c77007f7c"
+    },
+    {
       "id": "2025-01-24--hegseth-confirmed-defense-secretary-tiebreaker",
       "date": "2025-01-24",
       "title": "Pete Hegseth confirmed as Defense Secretary in historic VP tiebreaker vote",
@@ -159323,6 +159812,56 @@
       "summary": "The Justice Department, under the Trump administration, moved to dismiss criminal charges against former Representative Jeff Fortenberry (R-NE) in a case involving illegal campaign donations. The charges were dropped with prejudice, following Trump's public criticism of the prosecution as a 'witch hunt' against a conservative politician.",
       "_file": "2025-01-29--doj-moves-to-drop-charges-against-former-gop-lawmaker-in-cas.md",
       "_id_hash": "4f9116303142d2e79ff86e8c0d9f717ba58000daa9e197f8ea7f749beee5d9ed"
+    },
+    {
+      "id": "2025-01-29--hegseth-rescinds-military-abortion-travel-policy",
+      "date": "2025-01-29",
+      "title": "Pentagon Ends Travel Reimbursement for Military Members Seeking Abortion Care",
+      "importance": 7,
+      "actors": [
+        "Pete Hegseth",
+        "Department of Defense",
+        "Lloyd Austin",
+        "Donald Trump"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "military",
+        "abortion-access",
+        "pentagon",
+        "institutional-capture"
+      ],
+      "sources": [
+        {
+          "title": "Defense Secretary Pete Hegseth Ends Military-Funded Abortion Travel",
+          "url": "https://www.lifenews.com/2025/02/07/defense-secretary-pete-hegseth-ends-military-funded-abortion-travel/",
+          "outlet": "LifeNews",
+          "date": "2025-02-07",
+          "tier": 3
+        },
+        {
+          "title": "FAQ: Actions by the Department of Defense Regarding Abortion and Reproductive Health Care Access for Military Families",
+          "url": "https://nwlc.org/resource/faq-actions-by-the-department-of-defense-regarding-abortion-and-reproductive-health-care-access-for-military-families/",
+          "outlet": "National Women's Law Center",
+          "date": "2025-01-29",
+          "tier": 2
+        },
+        {
+          "title": "Pentagon Reverses Policy of Reimbursement for Abortion Travel—Fighting 'Wokeness' in the Military at the Expense of Service Members",
+          "url": "https://msmagazine.com/2025/02/21/pentagon-abortion-travel-ban-military-women-rights/",
+          "outlet": "Ms. Magazine",
+          "date": "2025-02-21",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Military Policy"
+      ],
+      "summary": "Defense Secretary Pete Hegseth rescinded key components of Biden-era policies providing abortion access for military families on January 29, 2025. The Pentagon announced that funding for military abortion travel ended immediately, eliminating reimbursement for service members who needed to travel out of state for reproductive care including abortion.\n\nThe rescinded policy had been implemented by former Defense Secretary Lloyd Austin after the Supreme Court's 2022 Dobbs decision ended constitutional protections for abortion. Austin's policy allowed service members to take leave and receive travel expense reimbursement to obtain reproductive care—including abortions and in-vitro fertilization—if their assigned military base was in a state that had banned such care.\n\nIn a follow-up memo dated February 4, the Pentagon reinstated reimbursements for fertility treatments only, maintaining the abortion travel ban. The policy change disproportionately impacts military families because federal law already prohibits the Department of Defense from covering abortion services, and military facilities cannot provide abortions except in cases of rape, incest, or to save the pregnant person's life.\n\nMany military installations are located in or near states with abortion bans, and military families do not choose where they are stationed. Service members who need abortion care but do not meet the extremely limited exceptions must now navigate state bans and restrictions and pay for all care and travel out of pocket. Since Roe v. Wade was overturned, approximately one million dollars in taxpayer money had been spent on military abortion travel before the program was terminated.\n\nThe policy reversal effectively creates a two-tier system where service members' access to reproductive healthcare depends entirely on where they are stationed, undermining the principle of equal treatment for military personnel regardless of duty assignment.",
+      "_file": "2025-01-29--hegseth-rescinds-military-abortion-travel-policy.md",
+      "_id_hash": "09c2b069ca097891cc3626ce1867dc182ba3ce5857cd6485c1abaa8f169bfaeb"
     },
     {
       "actors": [
@@ -165097,6 +165636,56 @@
       "_id_hash": "f7c69c883f51143c2324684291fecbe5940bfc9778bd457ce3b96a2c58e6a1d3"
     },
     {
+      "id": "2025-02-20--texas-abortion-ban-sepsis-deaths-study",
+      "date": "2025-02-20",
+      "title": "Study Finds 50% Spike in Pregnancy-Related Sepsis and Deaths in Texas After Abortion Ban",
+      "importance": 9,
+      "actors": [
+        "Texas Department of Health",
+        "Johns Hopkins Bloomberg School of Public Health",
+        "University of Texas"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "maternal-mortality",
+        "texas",
+        "abortion-bans",
+        "public-health",
+        "systematic-corruption"
+      ],
+      "sources": [
+        {
+          "title": "Rates of pregnancy-linked sepsis and deaths grow in Texas",
+          "url": "https://www.texastribune.org/2025/02/20/texas-abortion-ban-impact-death-hospitalization/",
+          "outlet": "Texas Tribune",
+          "date": "2025-02-20",
+          "tier": 1
+        },
+        {
+          "title": "Two New Studies Provide Broadest Evidence to Date of Unequal Impacts of Abortion Bans",
+          "url": "https://publichealth.jhu.edu/2025/two-new-studies-provide-broadest-evidence-to-date-of-unequal-impacts-of-abortion-bans",
+          "outlet": "Johns Hopkins Bloomberg School of Public Health",
+          "date": "2025-02-01",
+          "tier": 2
+        },
+        {
+          "title": "Abortion Bans Linked to Sharp Rise in Sepsis, Infant Death, and Pregnancy-Associated Death, New Research Shows",
+          "url": "https://www.prb.org/articles/abortion-bans-linked-to-sharp-rise-in-sepsis-infant-death-and-maternal-mortality-new-research-shows/",
+          "outlet": "Population Reference Bureau",
+          "date": "2025-02-15",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Public Health Crisis"
+      ],
+      "summary": "Research published in February 2025 found that Texas experienced a 50 percent jump in the sepsis rate among women who lost their pregnancies in the second trimester following the state's abortion ban. The study documented that maternal mortality rose 56 percent in Texas in the first full year of the state's abortion ban, with an increase of up to 95 percent among White women.\n\nThe research showed that after Texas banned abortion, dozens more pregnant and postpartum women died in Texas hospitals than had in pre-pandemic years. As the maternal mortality rate dropped nationally, it rose substantially in Texas. Women's risk of maternal death in Texas was 155 percent higher than in California.\n\nMothers living in states that banned abortion were nearly two times as likely to die during pregnancy, childbirth, or soon after giving birth compared to mothers in states where abortion remained legal and accessible. Black mothers in banned states were more than three times as likely to die as White mothers in those states—a disparity that grew from 2.2 times in 2019 to 3.3 times by the end of 2023.\n\nIn the wake of Roe's overturn, states with abortion bans saw 478 excess infant deaths and 59 excess deaths during or after pregnancy. Infant deaths were 5.6 percent higher than they would have been in the 14 states with abortion bans had the bans not been enacted, resulting in an estimated 478 additional deaths, with 384 in Texas alone.\n\nLegal gray areas around medical exceptions and treatment for miscarriages created a patchwork of inconsistent care. When miscarriage is imminent but clinicians can still detect a heartbeat, providers may deny necessary care until no heartbeat can be detected for fear of breaking anti-abortion laws, directly contributing to sepsis cases and preventable deaths.\n\nUsing state-specific maternal mortality rates, researchers predicted 42.0 additional maternal deaths over four years in 14 states with abortion bans. Among 10 states analyzed separately, researchers predicted 29.6 more maternal deaths, with Black women representing 63 percent. The study documented that racial inequities in maternal deaths were pronounced in states with abortion restrictions.\n\nThe research provided empirical validation that abortion bans directly cause increased maternal mortality and morbidity, transforming pregnancy from a manageable medical condition into a significantly more dangerous health risk for women in states with restrictive laws.",
+      "_file": "2025-02-20--texas-abortion-ban-sepsis-deaths-study.md",
+      "_id_hash": "f4c68d9a52f5a0bb250873ff132ab0942c861bfb82f37318cd42d14709b123fc"
+    },
+    {
       "actors": [
         "Donald Trump",
         "Trump Administration",
@@ -170364,6 +170953,42 @@
       "_id_hash": "f08184901935bb7484fdbe6d2eb13fef4facf84633984bbf5b8c1b9c52e2ca47"
     },
     {
+      "id": "2025-03-17--texas-first-criminal-charges-abortion-providers",
+      "date": "2025-03-17",
+      "title": "First Criminal Charges Filed Under Texas Abortion Ban: Midwife Faces 20 Years",
+      "importance": 9,
+      "actors": [
+        "Maria Margarita Rojas",
+        "Jose Ley",
+        "Texas Attorney General",
+        "Ken Paxton"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "texas",
+        "abortion-prosecution",
+        "criminal-charges",
+        "systematic-corruption"
+      ],
+      "sources": [
+        {
+          "title": "Houston midwife arrested for alleged illegal abortions",
+          "url": "https://www.texastribune.org/2025/03/17/texas-abortion-midwife-arrested/",
+          "outlet": "Texas Tribune",
+          "date": "2025-03-17",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Criminal Justice"
+      ],
+      "summary": "Maria Margarita Rojas, a 48-year-old licensed midwife, and Jose Ley, 29, her employee, were arrested and charged with performing illegal abortions at a Houston-area health clinic on March 17, 2025, marking the first criminal charges brought under Texas's near-total abortion ban. The abortion charge is a second-degree felony carrying up to 20 years in prison. Both defendants were also charged with practicing medicine without a license.\n\nThe arrests represent a watershed moment in post-Dobbs enforcement, demonstrating that despite state abortion bans nominally focusing punishment on providers rather than patients, the criminalization apparatus targets healthcare workers with severe felony penalties. No clinician had been convicted and jailed for performing an abortion since the Dobbs ruling until these charges were filed.\n\nTexas's abortion ban, among the strictest in the nation, prohibits nearly all abortions with extremely narrow exceptions only for rape, incest, and medical emergencies. The criminal penalties demonstrate the state's willingness to use the full force of its prosecutorial power against reproductive healthcare providers.\n\nLegal experts had warned that threats of criminal prosecution would lead physicians to delay health- or life-preserving care even when technically permitted under narrow exceptions, creating a chilling effect throughout the medical community. The arrests validated these concerns and sent shockwaves through reproductive healthcare networks in Texas and other states with similar bans.\n\nThe case established a precedent for aggressive criminal enforcement that other states with abortion bans could follow, fundamentally transforming reproductive healthcare from a constitutional right into a serious felony punishable by decades in prison.",
+      "_file": "2025-03-17--texas-first-criminal-charges-abortion-providers.md",
+      "_id_hash": "df5e88daa95626855bc82f029214cc51d86a64bee76d4bacfd4bab1cdf1149f7"
+    },
+    {
       "id": "2025-03-17--trump-administration-accused-of-quid-pro-quo-for-fast-tracki",
       "date": "2025-03-17",
       "title": "Trump administration accused of ‘quid pro quo’ for fast-tracking controversial fossil fuel proposal in Michigan",
@@ -172538,6 +173163,50 @@
       "_id_hash": "77439c41a9bbc2bc05e6a21aa4b0747225cad8e8c198b0be84307672d320349d"
     },
     {
+      "id": "2025-03-27--us-virgin-islands-loses-3-million-federal-health-funding",
+      "date": "2025-03-27",
+      "importance": 8,
+      "title": "US Virgin Islands Loses $3.3 Million in Federal Health Funding Amid National Public Health Cuts",
+      "location": "US Virgin Islands",
+      "actors": [
+        "Department of Health and Human Services",
+        "US Virgin Islands Department of Health",
+        "Justa Encarnacion"
+      ],
+      "tags": [
+        "healthcare-access",
+        "federal-funding-cuts",
+        "territory-neglect",
+        "public-health",
+        "immunization"
+      ],
+      "capture_lanes": [
+        "Healthcare System Capture",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "V.I. Health Department Braced for Federal Cuts, But Immunization and Prevention Still Face Pressure",
+          "url": "https://stthomassource.com/content/2025/03/27/v-i-health-department-braced-for-federal-cuts-but-immunization-and-prevention-still-face-pressure/",
+          "outlet": "St. Thomas Source",
+          "date": "2025-03-27",
+          "archive_url": null
+        },
+        {
+          "title": "VI Department of Health Loses $3.3 Million as Federal Government Pulls Funding",
+          "url": "http://viconsortium.com/vi-federal/virgin-islands-federal-cuts-withdraw--3-3m-in-health-funds-from-usvi--affecting-12-public-health-positions-and-immunization-division",
+          "outlet": "VI Consortium",
+          "date": "2025-03-27",
+          "archive_url": null
+        }
+      ],
+      "notes": "Part of nearly $12 billion in federal public health funding rollback by HHS. USVI loses $2.6 million from Immunization Program affecting 8 staff positions including licensed practical nurse and community health workers. Cuts occur during national measles outbreak with 378 confirmed cases across US. Timing particularly devastating as pandemic-era grants expire. Commissioner Encarnacion emphasizes need for vigilance but left without resources to protect communities.",
+      "status": "confirmed",
+      "summary": "US Virgin Islands Department of Health loses $3.3 million in federal funding as HHS rolls back $12 billion in public health grants, eliminating critical immunization staff positions during national measles outbreak, exemplifying federal neglect of territories",
+      "_file": "2025-03-27--us-virgin-islands-loses-3-million-federal-health-funding.md",
+      "_id_hash": "8420503d222fa4fa6ed14f18e12df402b3ff612342b7383016b3e49dd99ba308"
+    },
+    {
       "actors": [
         "Donald Trump",
         "Travis Hill",
@@ -173044,6 +173713,56 @@
       "summary": "Musk’s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race",
       "_file": "2025-03-31--musk-funded-political-group-spends-big-and-goes-do.md",
       "_id_hash": "45f36a4196fc2f808af236304b24f302a9d1b10b474ff033f269023527b1eac1"
+    },
+    {
+      "id": "2025-03-31--trump-admin-freezes-title-x-planned-parenthood-funding",
+      "date": "2025-03-31",
+      "title": "Trump Administration Freezes Title X Funding to Planned Parenthood Affiliates",
+      "importance": 8,
+      "actors": [
+        "Donald Trump",
+        "Department of Health and Human Services",
+        "Planned Parenthood",
+        "National Family Planning and Reproductive Health Association"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "title-x",
+        "planned-parenthood",
+        "contraception-access",
+        "defunding"
+      ],
+      "sources": [
+        {
+          "title": "Trump administration freezes Title X funding from Planned Parenthood",
+          "url": "https://www.washingtonpost.com/nation/2025/03/31/planned-parenthood-title-x-funding/",
+          "outlet": "Washington Post",
+          "date": "2025-03-31",
+          "tier": 1
+        },
+        {
+          "title": "Trump Administration's Withholding of Funds Could Impact 30% of Title X Patients",
+          "url": "https://www.guttmacher.org/2025/04/trump-administrations-withholding-funds-could-impact-30-percent-title-x-patients",
+          "outlet": "Guttmacher Institute",
+          "date": "2025-04-01",
+          "tier": 2
+        },
+        {
+          "title": "Title X Grantees and Clinics Affected by the Trump Administration's Funding Freeze",
+          "url": "https://www.kff.org/womens-health-policy/title-x-grantees-and-clinics-affected-by-the-trump-administrations-funding-freeze/",
+          "outlet": "KFF",
+          "date": "2025-04-02",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Healthcare Defunding"
+      ],
+      "summary": "On March 31, 2025, nine Planned Parenthood affiliates and seven other nonprofit grantees received notice from the Trump administration that Title X family planning funding would be withheld effective April 1. The funding freeze affected 16 out of 86 current Title X grantees, targeting all nine Planned Parenthood grantees specifically.\n\nThe administration justified the sudden denial of funds by citing alleged violations of President Trump's executive orders, including prohibitions on diversity, equity, and inclusion (DEI) efforts—claims that remained unsubstantiated and were widely viewed as pretextual attacks on reproductive healthcare providers.\n\nKFF estimated that 879 clinics (24 percent of all Title X clinics) in 23 states were affected by the funding freeze, potentially impacting up to 834,000 people who could lose access to Title X-funded contraception and reproductive healthcare services. The 2025 budget had provided 285.6 million dollars in Title X funds before the freeze.\n\nIn Utah, Planned Parenthood closed two clinics as a direct result of withheld Title X funds and implemented fees for contraception services that were previously free. On April 24, 2025, the National Family Planning and Reproductive Health Association (NFPRHA) filed suit alleging that HHS began unlawfully withholding 65.8 million dollars in funding to Title X projects.\n\nPresident Trump's FY2026 Budget Request proposed eliminating Title X funding entirely. Combined with provisions in the budget law withholding Medicaid funds from Planned Parenthood clinics nationwide, the funding freeze represented a coordinated assault on the nation's family planning safety net. Planned Parenthood officials warned that 200 clinics across 24 states were at risk of closure, though that provision remained blocked in court.\n\nThe Title X freeze disproportionately harmed low-income women who depend on the program for contraception, STI testing, cancer screenings, and other preventive reproductive healthcare services.",
+      "_file": "2025-03-31--trump-admin-freezes-title-x-planned-parenthood-funding.md",
+      "_id_hash": "e9082eebe4ced54c58c1739dceb7d0513ac3e86567231cd3b54d536ecb71c04e"
     },
     {
       "actors": [
@@ -181597,6 +182316,52 @@
       "_id_hash": "e172ce8ce93345a48b18c70164f7179fa6fdd3a9fea52714356dd39cff625bf5"
     },
     {
+      "id": "2025-05-07--puerto-rico-loses-fema-climate-funding-amid-recovery-uncertainty",
+      "date": "2025-05-07",
+      "importance": 9,
+      "title": "Puerto Rico Loses Over $4.7 Million in FEMA Climate Resilience Funding as Federal Recovery Stalls",
+      "location": "Puerto Rico",
+      "actors": [
+        "Federal Emergency Management Agency (FEMA)",
+        "Kristi Noem",
+        "Jenniffer González-Colón",
+        "Central Office for Recovery Reconstruction and Resiliency (COR3)"
+      ],
+      "tags": [
+        "disaster-relief",
+        "climate-adaptation",
+        "federal-funding-cuts",
+        "puerto-rico",
+        "fema-restructuring"
+      ],
+      "capture_lanes": [
+        "Disaster Response Capture",
+        "Climate Policy Control",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "Puerto Rico and FEMA Safeguarding Recovery Amid Federal Policy Shifts",
+          "url": "https://ucfglobalperspectives.org/blog/2025/05/07/puerto-rico-and-fema-safeguarding-recovery-amid-federal-policy-shifts/",
+          "outlet": "UCF Global Perspectives",
+          "date": "2025-05-07",
+          "archive_url": null
+        },
+        {
+          "title": "Puerto Rico Loses FEMA Funds for Climate Adaptation",
+          "url": "https://periodismoinvestigativo.com/2025/04/puerto-rico-fema-climate-funding-cuts/",
+          "outlet": "Centro de Periodismo Investigativo",
+          "date": "2025-04-01",
+          "archive_url": null
+        }
+      ],
+      "notes": "Trump administration slashes FEMA's Building Resilient Infrastructure and Communities (BRIC) program. Puerto Rico loses over $4.7 million in climate resiliency funds. Florida loses $300 million. Cuts align with Trump's dismantling of climate change measures. Of $52 billion allocated for Hurricane Maria/Irma recovery, only $23 billion spent by February 2025. Of $10 billion obligated by FEMA for permanent work, only $2 billion disbursed by May 2025. Secretary Noem visits March 6, promises help while overseeing cuts. COR3 evaluating supplemental strategies as federal support crumbles.",
+      "status": "confirmed",
+      "summary": "Puerto Rico loses over $4.7 million in FEMA climate resilience funding as Trump administration dismantles BRIC program, while $29 billion in Hurricane Maria recovery funds remain undisbursed eight years after disaster, exemplifying systematic federal abandonment of territory",
+      "_file": "2025-05-07--puerto-rico-loses-fema-climate-funding-amid-recovery-uncertainty.md",
+      "_id_hash": "205b6d8a32c3d32ea034419406d3380f5ac14a7ca7536c6483519f8b654d9865"
+    },
+    {
       "id": "2025-05-07--trump-administration-to-stop-us-research-on-space-pollution-",
       "date": "2025-05-07",
       "title": "Trump Administration Moves to Eliminate Space and Rocket Launch Environmental Research",
@@ -184745,6 +185510,57 @@
       "_id_hash": "1057d656be58579bc94da26ba9f73dc3f7dfb9c0ac7abe4cf6ec651fccd7d8b9"
     },
     {
+      "id": "2025-05-27--missouri-supreme-court-reinstates-abortion-ban",
+      "date": "2025-05-27",
+      "title": "Missouri Supreme Court Reinstates Abortion Restrictions Despite Voter-Approved Amendment",
+      "importance": 8,
+      "actors": [
+        "Missouri Supreme Court",
+        "Judge Jerri Zhang",
+        "Planned Parenthood",
+        "Andrew Bailey",
+        "Campaign Life Missouri"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "missouri",
+        "state-courts",
+        "ballot-measures",
+        "democratic-erosion"
+      ],
+      "sources": [
+        {
+          "title": "Missouri Supreme Court order reinstates 'de facto abortion ban' across the state",
+          "url": "https://missouriindependent.com/2025/05/27/missouri-supreme-court-reinstates-abortion-restrictions-imposing-de-facto-ban/",
+          "outlet": "Missouri Independent",
+          "date": "2025-05-27",
+          "tier": 2
+        },
+        {
+          "title": "Missouri Supreme Court puts state abortion ban back into effect",
+          "url": "https://www.stlpr.org/health-science-environment/2025-05-27/missouri-supreme-court-overturn-abortion-amendment-3",
+          "outlet": "St. Louis Public Radio",
+          "date": "2025-05-27",
+          "tier": 1
+        },
+        {
+          "title": "Abortions canceled again in Missouri after ruling from state Supreme Court",
+          "url": "https://www.cnn.com/2025/05/27/us/abortions-missouri-ban-ruling",
+          "outlet": "CNN",
+          "date": "2025-05-27",
+          "tier": 1
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Judicial Obstruction"
+      ],
+      "summary": "The Missouri Supreme Court issued a two-page order on May 27, 2025, reinstating abortion restrictions and imposing what providers called a \"de facto abortion ban\" across the state, despite voters approving Amendment 3 in November 2024 declaring a fundamental right to reproductive freedom. Planned Parenthood immediately halted all abortions at its Kansas City and Columbia clinics.\n\nThe court ruled that District Judge Jerri Zhang had applied the wrong legal standard in December 2024 and February 2025 rulings that allowed abortions to resume. The Supreme Court ordered Zhang to vacate her earlier orders and reevaluate the case using a more rigorous injunction standard, requiring her to first consider whether there would be harms from allowing abortions to resume rather than whether abortion-rights advocates were likely to prevail.\n\nMissouri was the only state where voters used a ballot measure to overturn a ban on abortion at all stages of pregnancy. Amendment 3 passed with majority support, yet the Republican-controlled state government pushed back in court, preventing abortion access from resuming for more than three months after voters adopted the amendment. The Supreme Court decision extended this obstruction indefinitely.\n\nMissouri Attorney General Andrew Bailey claimed the decision was \"a win for women and children\" and sent a message that \"abortion providers must comply with state law regarding basic safety and sanitation requirements.\" Anti-abortion advocates celebrated the ruling as blocking what they characterized as unregulated abortion.\n\nMissouri's remaining clinics canceled all outstanding abortion appointments and advised patients to travel out of state for procedures. The case exemplified how state judiciaries and Republican officials can obstruct direct democracy outcomes when voters protect reproductive rights through ballot measures.\n\nProviders resumed offering abortion procedures on July 3 after Judge Zhang reimposed preliminary injunctions applying the Missouri Supreme Court's stricter standard, but the May 27 order demonstrated the fragility of voter-enacted protections when opposed by hostile state institutions.",
+      "_file": "2025-05-27--missouri-supreme-court-reinstates-abortion-ban.md",
+      "_id_hash": "cf0730e42c6ca4ae8ba2b6e3b6855bbb61729cb0e8f7e210bb6dfd795c7afff8"
+    },
+    {
       "id": "2025-05-27--trump-pardons-reality-stars-todd-and-julie-chrisley",
       "date": "2025-05-27",
       "title": "Trump pardons reality stars Todd and Julie Chrisley",
@@ -184927,6 +185743,51 @@
       "summary": "President Donald Trump pardoned former Republican Representative Michael Grimm, who served seven months in prison for tax fraud and resigned from Congress in 2015. The pardon was part of a broader clemency effort targeting individuals with felony convictions similar to legal challenges faced by Trump himself.",
       "_file": "2025-05-28--donald-trump-pardons-former-republican-rep-michael-grimm-for.md",
       "_id_hash": "2c1fb04e35188b5fef3027e332ac103c6967895151bcc3e7175902369dd58847"
+    },
+    {
+      "id": "2025-05-28--hhs-cancels-moderna-h5n1-vaccine-contract",
+      "date": "2025-05-28",
+      "title": "HHS Cancels $766 Million Moderna Contract for H5N1 Pandemic Flu Vaccines",
+      "importance": 9,
+      "tags": [
+        "public-health",
+        "institutional-capture",
+        "pandemic-preparedness",
+        "vaccine-policy",
+        "corruption"
+      ],
+      "actors": [
+        "Robert F. Kennedy Jr.",
+        "HHS",
+        "Moderna",
+        "BARDA"
+      ],
+      "sources": [
+        {
+          "title": "HHS cancels $766 million in Moderna contracts for vaccines for flu pandemics",
+          "url": "https://www.statnews.com/2025/05/28/moderna-flu-vaccine-development-cancelled-by-hhs-mrna-platform-offers-speedy-pandemic-response/",
+          "date": "2025-05-28",
+          "tier": 1,
+          "outlet": "STAT"
+        },
+        {
+          "title": "Trump administration cancels plans to develop a bird flu vaccine",
+          "url": "https://www.npr.org/2025/05/28/nx-s1-5414642/trump-vaccine-bird-flu-mrna",
+          "date": "2025-05-28",
+          "tier": 1,
+          "outlet": "NPR"
+        },
+        {
+          "title": "HHS cancels funding for Moderna's candidate H5 avian flu and pandemic vaccines",
+          "url": "https://www.cidrap.umn.edu/avian-influenza-bird-flu/hhs-cancels-funding-moderna-s-candidate-h5-avian-flu-and-pandemic-vaccines",
+          "date": "2025-05-28",
+          "tier": 1,
+          "outlet": "CIDRAP"
+        }
+      ],
+      "summary": "On May 28, 2025, the Department of Health and Human Services notified Moderna that it was canceling contracts worth $766 million to develop, test, and license vaccines for flu subtypes that could trigger future pandemics, including the dangerous H5N1 bird flu virus. The cancellation came as H5N1 had spread to 1,072 dairy herds, more than 173 million poultry, and caused 70 human cases with one death in the United States.\n\nModerna had received the initial HHS contract for an H5 vaccine in a $176 million base award in July 2024 amid a rising number of H5N1 infections in U.S. residents, mostly agricultural workers. On January 17, 2025, in the final days of the Biden administration, officials announced a $590 million contract expansion to fund the development of vaccines against potential pandemic flu viruses. HHS Communications Director Andrew Nixon justified the cancellation by claiming that \"after a rigorous review, we concluded that continued investment in Moderna's H5N1 mRNA vaccine was not scientifically or ethically justifiable\" and that \"mRNA technology remains under-tested.\"\n\nThe cancellation was particularly damaging because it forfeited the government's right to pre-purchase vaccine doses and revoked a pandemic preparedness designation that would have allowed rapid production in an emergency. No other flu vaccine production approach can produce doses with the speed of the messenger RNA platform used by Moderna, meaning the cancellation eliminated the nation's fastest-response pandemic vaccine option. The vaccine platform was viewed with deep suspicion by Health Secretary Robert F. Kennedy Jr. and his political base, despite Moderna's phase 1/2 trial of mRNA-1018 showing that 97.8% of participants achieved protective antibody titers with a robust immune response and safety profile.\n\nCongressional Democrats had sent Kennedy a letter on April 1, 2025, questioning the Secretary's willingness to let avian flu \"run through the flock\" rather than attempt to mitigate the outbreak. On June 11, 2025, Rep. Raja Krishnamoorthi led Members of the Subcommittee in sending a letter demanding information surrounding the decision to cancel the Moderna contract amid an uncontrolled avian flu outbreak, expressing concern that Kennedy's \"longstanding vaccine hesitancy—including your statement that 'there's no vaccine that is safe and effective'—appears to be influencing federal policy.\"\n\nPublic health experts condemned the cancellation as a significant blow to the country's capacity to respond to pandemic influenza. Alexandra Phelan, an associate professor at Johns Hopkins Bloomberg School of Public Health, stated: \"We have immediately, quite clearly, a series of decisions or lack of decisions, that are undermining US public health and comparatives when it comes to vaccines.\" Paul Offit, director of the Vaccine Education Center at Children's Hospital of Philadelphia, told Axios that the cancellation, combined with recent workforce reductions at health agencies, reflected \"just a gradual sort of dismembering of the public health service.\"\n\nThe cancellation of the Moderna H5N1 vaccine contract represented the most concrete manifestation of how RFK Jr.'s anti-vaccine ideology was being translated into federal policy with potentially catastrophic consequences. By eliminating the nation's most advanced pandemic flu vaccine program while H5N1 continued to spread through American agriculture and had already killed one American, Kennedy deliberately dismantled pandemic preparedness infrastructure to satisfy his ideological opposition to mRNA vaccines. This decision prioritized anti-vaccine political rhetoric over practical preparation for a potential influenza pandemic, leaving the United States without its fastest-response vaccine option in the face of an evolving viral threat that had already demonstrated the ability to cause severe illness and death in humans.",
+      "_file": "2025-05-28--hhs-cancels-moderna-h5n1-vaccine-contract.md",
+      "_id_hash": "0157cc28d6c51295d58ac66a4538e5cd735047ca50721252e0df28ac575c274b"
     },
     {
       "id": "2025-05-28--no-maga-left-behind-trump-s-pardons-get-even-more-political",
@@ -185221,6 +186082,59 @@
       "summary": "Trump hosted an exclusive cryptocurrency dinner with 220 top memecoin holders, including foreign nationals like Justin Sun facing SEC lawsuits. House Democrats demanded a DOJ investigation into potential violations of federal bribery laws and the foreign emoluments clause.",
       "_file": "2025-05-28--who-won-a-seat-at-trump-s-crypto-dinner.md",
       "_id_hash": "a943fcbb7c811371064df4eebcc012eac0cfbeece58a1e320704ec42613fc2a4"
+    },
+    {
+      "id": "2025-05-29--cms-rescinds-emtala-emergency-abortion-guidance",
+      "date": "2025-05-29",
+      "title": "CMS Rescinds EMTALA Guidance Requiring Emergency Abortion Care",
+      "importance": 9,
+      "actors": [
+        "Centers for Medicare and Medicaid Services",
+        "HHS Secretary Robert F. Kennedy Jr.",
+        "Department of Justice",
+        "Department of Health and Human Services",
+        "22 State Attorneys General"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "emtala",
+        "emergency-care",
+        "cms",
+        "maternal-mortality",
+        "institutional-capture"
+      ],
+      "sources": [
+        {
+          "title": "CMS Rescinds EMTALA Guidance on Hospital Obligation to Provide Emergency Abortions",
+          "url": "https://www.aamc.org/advocacy-policy/washington-highlights/cms-rescinds-emtala-guidance-hospital-obligation-provide-emergency-abortions",
+          "outlet": "AAMC",
+          "date": "2025-05-29",
+          "tier": 2
+        },
+        {
+          "title": "Trump Administration Rescinds EMTALA Guidance and Sends Clear Signal - Emergency Abortion Care Remains At Risk",
+          "url": "https://www.aclu.org/press-releases/trump-administration-rescinds-emtala-guidance-and-sends-clear-signal-emergency-abortion-care-remains-at-risk",
+          "outlet": "ACLU",
+          "date": "2025-05-29",
+          "tier": 2
+        },
+        {
+          "title": "CMS Rescinds Post-Dobbs EMTALA Guidance, Raising New Questions for Emergency Departments",
+          "url": "https://foleyhoag.com/news-and-insights/publications/alerts-and-updates/2025/june/cms-rescinds-post-dobbs-emtala-guidance-raising-new-questions-for-emergency-departments/",
+          "outlet": "Foley Hoag LLP",
+          "date": "2025-06-01",
+          "tier": 3
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Healthcare Policy",
+        "Emergency Medicine"
+      ],
+      "summary": "The Centers for Medicare and Medicaid Services rescinded its post-Dobbs guidance on Emergency Medical Treatment and Labor Act (EMTALA) requirements on May 29, 2025, withdrawing federal protections for emergency abortion care. CMS rescinded memo QSO-21-22-Hospitals, which had clarified that hospitals must provide abortion as stabilizing treatment when physicians determine it necessary to resolve a patient's emergency medical condition, regardless of state law.\n\nCMS stated the guidance \"does not reflect the policy of this administration\" and was rescinded \"consistent with Administration policy and Executive Order 14192.\" The administration claimed it would \"continue to enforce EMTALA\" protecting individuals seeking emergency treatment, including pregnant women and \"unborn children,\" but neither CMS nor HHS Secretary Robert F. Kennedy Jr.'s June 13 letter restated the prior administration's position that EMTALA requires abortion care when necessary to stabilize emergency conditions.\n\nThe Trump administration dismissed legal challenges the Biden administration had brought against Idaho's abortion ban, arguing it violated EMTALA by lacking a health exception. The Ninth Circuit remanded and dismissed the Moyle case in March 2025, signaling no federal enforcement of EMTALA when hospitals deny necessary abortion care to stabilize patients' health.\n\nOn the same day CMS announced the rescission, the Alliance Defending Freedom and Catholic Medical Association chose to dismiss their January 2025 federal lawsuit against HHS that had argued abortion care is not covered under EMTALA and providers cannot be compelled to provide it even in emergencies.\n\nOn June 24, 2025, 22 state attorneys general sent a letter to the American Hospital Association emphasizing hospitals' \"ongoing obligation to comply with EMTALA\" including provision of emergency abortion care. However, hospitals and providers faced murky legal waters attempting to reconcile the rescission with state abortion bans and the assumed protection of providers.\n\nThe guidance rescission created dangerous ambiguity for pregnant patients experiencing medical emergencies in states with abortion bans. Without clear federal requirements, hospitals could deny emergency abortion care even when necessary to prevent severe health complications, as legal gray areas around medical exceptions and miscarriage treatment led providers to delay necessary care until no fetal heartbeat could be detected, fearing prosecution under anti-abortion laws.",
+      "_file": "2025-05-29--cms-rescinds-emtala-emergency-abortion-guidance.md",
+      "_id_hash": "84110efedcee78c3b8ef2c00fe933799ebe1f9098b1f87641547ee8afa0d56da"
     },
     {
       "id": "2025-05-29--federal-court-rules-ieepa-tariffs-illegal",
@@ -187008,6 +187922,51 @@
       "summary": "On June 9, 2025, the Department of Justice under Deputy Attorney General Todd Blanche released updated Foreign Corrupt Practices Act (FCPA) guidelines, effectively ending the four-month enforcement pause instituted by a Trump administration executive order. The new guidelines fundamentally reshape anti-corruption enforcement by: (1) prioritizing investigations directly tied to U.S. national security and economic interests, (2) focusing on individual criminal misconduct rather than broad corporate liability, and (3) requiring high-level DOJ authorization for new investigations. Prosecutors are now instructed to target cases involving cartels, transnational criminal organizations, and serious misconduct that demonstrably threatens U.S. interests.",
       "_file": "2025-06-09--doj-fcpa-guidelines.md",
       "_id_hash": "a6265bbe883b4fa3705ff93cf7a41db301bc5d9a641ff119a1f28ce070f70c14"
+    },
+    {
+      "id": "2025-06-09--rfk-jr-fires-entire-cdc-vaccine-committee",
+      "date": "2025-06-09",
+      "title": "RFK Jr. Fires All 17 Members of CDC Vaccine Advisory Committee",
+      "importance": 9,
+      "tags": [
+        "public-health",
+        "institutional-capture",
+        "vaccine-policy",
+        "corruption",
+        "systematic-purge"
+      ],
+      "actors": [
+        "Robert F. Kennedy Jr.",
+        "HHS",
+        "CDC",
+        "Advisory Committee on Immunization Practices"
+      ],
+      "sources": [
+        {
+          "title": "Health secretary RFK Jr. abruptly fires CDC vaccine advisory panel",
+          "url": "https://www.statnews.com/2025/06/09/rfk-jr-fires-every-member-of-cdc-vaccine-expert-panel-acip/",
+          "date": "2025-06-09",
+          "tier": 1,
+          "outlet": "STAT"
+        },
+        {
+          "title": "RFK Jr. removes every member of CDC vaccine advisory committee",
+          "url": "https://www.cbsnews.com/news/rfk-jr-removes-members-cdc-immunization-advisory-committee-acip/",
+          "date": "2025-06-09",
+          "tier": 1,
+          "outlet": "CBS News"
+        },
+        {
+          "title": "RFK Jr. removes all members of the CDC's vaccine advisory committee",
+          "url": "https://www.npr.org/sections/shots-health-news/2025/06/09/nx-s1-5428533/rfk-jr-vaccine-advisory-committee-acip",
+          "date": "2025-06-09",
+          "tier": 1,
+          "outlet": "NPR"
+        }
+      ],
+      "summary": "On June 9, 2025, Health and Human Services Secretary Robert F. Kennedy Jr. removed all 17 members of the Advisory Committee on Immunization Practices (ACIP), the expert panel that advises the Centers for Disease Control and Prevention on vaccine policy and recommendations. Per a directive from Kennedy, committee members received formal notice of their immediate termination, representing an unprecedented purge of scientific expertise from federal vaccine policymaking.\n\nIn a Wall Street Journal op-ed, Kennedy claimed that \"a clean sweep is needed to re-establish public confidence in vaccine science\" and alleged that the panel had been \"plagued with persistent conflicts of interest.\" He stated that many members were \"last-minute appointees\" of the Biden administration and that \"without removing the current members, the current Trump administration would not have been able to appoint a majority of new members until 2028.\"\n\nThe mass firing drew immediate condemnation from public health officials and medical experts. \"This is horrifying,\" a CDC official said of Kennedy's move. Dr. Georges Benjamin, executive director of the American Public Health Association, called the purge \"a coup\" and stated: \"It's not how democracies work. It's not good for the health of the nation.\" Sen. Bill Cassidy, a physician and the top Republican in the Senate's health committee, expressed concern that \"now the fear is that the ACIP will be filled up with people who know nothing about vaccines except suspicion.\"\n\nThe firing was particularly significant because Kennedy had previously promised Senator Cassidy in February that he would not make changes to ACIP, representing a direct betrayal of that commitment. The timing was also notable, coming just twelve days after Kennedy had cancelled $766 million in pandemic flu vaccine contracts with Moderna and amid an ongoing H5N1 outbreak that had infected over 1,000 dairy herds and caused one human death.\n\nKennedy announced on social media that he would \"use this platform to announce new members to populate ACIP\" and claimed that \"none of these individuals will be ideological anti-vaxxers. They will be highly credentialed physicians and scientists who will make extremely consequential public health determinations by applying evidence-based decision-making with objectivity and common sense.\" However, this assurance did little to alleviate concerns that the committee would be stacked with individuals selected for ideological alignment with Kennedy's vaccine skepticism rather than genuine scientific expertise.\n\nHHS stated that ACIP would still hold a planned meeting from June 25 to 27 to make recommendations, with new members running that meeting. This timeline meant that critical vaccine policy decisions would be made by Kennedy-appointed replacements rather than the independent scientific experts who had been serving on the committee.\n\nThe mass firing of ACIP represented the most aggressive move yet in Kennedy's systematic dismantling of federal vaccine policy infrastructure. By removing all members of the nation's most important vaccine advisory committee and replacing them with his own appointees, Kennedy effectively captured the scientific advisory process that underpins vaccine recommendations for the entire United States. This institutional takeover occurred while a potential pandemic influenza virus was actively circulating in American agriculture, demonstrating that Kennedy's ideological agenda took priority over maintaining scientific continuity during an ongoing public health threat. The purge transformed ACIP from an independent scientific advisory body into a politically controlled entity that could be expected to advance Kennedy's anti-vaccine views regardless of the scientific evidence or public health consequences.",
+      "_file": "2025-06-09--rfk-jr-fires-entire-cdc-vaccine-committee.md",
+      "_id_hash": "94efd88e34cc4ec2845ffa729f41e311d4f344f64c675cfff06008dcbacf7b95"
     },
     {
       "id": "2025-06-09--trump-federalizes-california-national-guard-over-g",
@@ -190238,6 +191197,40 @@
       "_id_hash": "0eb33b1981237c975c021db37a0dc7005ac5997278b8c798b8642137a3462b93"
     },
     {
+      "id": "2025-07-01--tennessee-healthcare-refusal-law-contraception",
+      "date": "2025-07-01",
+      "title": "Tennessee Enacts Broad Healthcare Refusal Law Allowing Denial of Contraception",
+      "importance": 7,
+      "actors": [
+        "Tennessee Legislature",
+        "Tennessee Governor"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "contraception-access",
+        "tennessee",
+        "religious-refusal",
+        "healthcare-access"
+      ],
+      "sources": [
+        {
+          "title": "2025 State Legislation on Birth Control: Attacks Continue but State Advocates Work to Protect and Expand Contraceptive Access",
+          "url": "https://nwlc.org/resource/2025-state-legislation-on-birth-control-attacks-continue-but-state-advocates-work-to-protect-and-expand-contraceptive-access/",
+          "outlet": "National Women's Law Center",
+          "date": "2025-07-15",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Healthcare Access"
+      ],
+      "summary": "Tennessee enacted legislation in July 2025 allowing healthcare providers—including individuals, institutions, and insurers—to refuse to participate in or pay for healthcare procedures, treatments, or services that conflict with their personal beliefs. While birth control was not specifically mentioned in the bill, the bill's author confirmed it would allow pharmacists to refuse to dispense contraception based on personal objections.\n\nThe law represents a significant expansion of healthcare refusal provisions beyond abortion to encompass contraception and potentially other reproductive healthcare services. By enabling pharmacists and other healthcare providers to deny contraception based on personal beliefs rather than medical judgment, the law creates barriers to accessing birth control that disproportionately affect women in rural areas with limited pharmacy options.\n\nAccording to the National Women's Law Center, pharmacists have refused to fill prescriptions for birth control or provide emergency contraception over the counter to patients in 24 states and the District of Columbia. These refusals, based on personal beliefs rather than medical contraindications, can negatively impact patients' health by delaying or preventing access to time-sensitive contraception.\n\nThe Tennessee law was part of a broader 2025 legislative trend targeting contraception access through: (1) enshrining fetal personhood that could classify certain contraceptives as abortifacients; (2) targeting specific methods of birth control; (3) allowing refusals of birth control; and (4) blocking Right to Contraception Acts in at least eleven states.\n\nMore than 19 million women of reproductive age living in the United States are in need of publicly funded contraception and live in contraceptive deserts—counties lacking reasonable access to health centers offering the full range of contraceptive methods. The Tennessee refusal law exacerbated this crisis by allowing individual provider discretion to further restrict already limited access.\n\nThe legislation exemplified how abortion restrictions serve as a gateway to broader reproductive healthcare restrictions, with contraception access increasingly threatened despite its legal status and widespread public support.",
+      "_file": "2025-07-01--tennessee-healthcare-refusal-law-contraception.md",
+      "_id_hash": "08c2b8444fc86c8925fa59721a5ee9ca1fe63aceadf14b8d5742f11f2d07804f"
+    },
+    {
       "id": "2025-07-01--texas-special-session-gerrymander",
       "date": "2025-07-01",
       "importance": 6,
@@ -190384,6 +191377,49 @@
       "summary": "The Trump administration fired nearly all USAID employees by placing them on administrative leave, cutting the workforce from over 10,000 to 294 employees (97% reduction). The mass firing disrupted humanitarian programs globally and prompted lawsuits from the American Foreign Service Association. More than 1,000 USAID employees and contractors were fired or furloughed after the federal funding freeze.",
       "_file": "2025-07-01--usaid-shuttered-92-percent-grants.md",
       "_id_hash": "93faf3bf3f4c77eba6152d7dba399eb93233258779e4e350f97d511954397ea4"
+    },
+    {
+      "id": "2025-07-02--cdc-deactivates-h5n1-emergency-response",
+      "date": "2025-07-02",
+      "title": "CDC Deactivates H5N1 Emergency Response Despite Ongoing Outbreak",
+      "importance": 8,
+      "tags": [
+        "public-health",
+        "regulatory-failure",
+        "disease-surveillance",
+        "institutional-capture"
+      ],
+      "actors": [
+        "CDC",
+        "HHS",
+        "Robert F. Kennedy Jr."
+      ],
+      "sources": [
+        {
+          "title": "CDC ends emergency response to H5N1 bird flu",
+          "url": "https://www.cnn.com/2025/07/07/health/cdc-bird-flu-response",
+          "date": "2025-07-07",
+          "tier": 1,
+          "outlet": "CNN"
+        },
+        {
+          "title": "CDC ends emergency response to H5N1 bird flu",
+          "url": "https://www.wlwt.com/article/cdc-ends-h5n1-bird-flu-emergency-response/65330751",
+          "date": "2025-07-07",
+          "tier": 2,
+          "outlet": "WLWT"
+        },
+        {
+          "title": "Bird Flu's Back And This Time Fewer People Are Keeping Tabs On It",
+          "url": "https://www.huffpost.com/entry/bird-flu-cases-on-rise-hhs-rfk-jr-testing_n_690e0d21e4b094b50cf9c673",
+          "date": "2025-07-07",
+          "tier": 2,
+          "outlet": "HuffPost"
+        }
+      ],
+      "summary": "On July 2, 2025, the CDC's H5N1 emergency bird flu response was deactivated to transition back to regular program activity, according to a spokesperson for the U.S. Department of Health and Human Services. The decision was made because reports of animal infections with avian influenza A(H5N1) virus had declined and no human cases had been reported since February 2025, despite the virus having infected over 1,000 dairy herds across 17 states and caused 70 human infections with one death.\n\nThe CDC H5N1 emergency had been declared on April 4, 2024, and allowed for additional support to the public health response, including enhanced staffing and resources. The deactivation meant that surveillance, readiness, and response for influenza—including H5N1 bird flu—would continue under the CDC's influenza division and other regular agency programs, but without the elevated priority, coordination, and resources that emergency status provided.\n\nDr. Nirav Shah, who had resigned from his position as CDC principal deputy director, stated he would have also chosen to end the emergency response, claiming \"this was not something that was imposed from the top down. It was initiated by the career scientists at CDC.\" However, this assertion was difficult to reconcile with the broader context of mass firings, budget cuts, and political interference that had characterized HHS under Robert F. Kennedy Jr.'s leadership.\n\nThe HHS spokesperson stated that \"the current public health risk from H5N1 bird flu is low, however, CDC will continue to monitor the situation and scale up activities as needed.\" On July 7, 2025, CDC streamlined H5 bird flu updates with routine influenza data updates and updated reporting cadences to reflect the current public health situation, further reducing the visibility and priority of H5N1 surveillance.\n\nThe deactivation of the emergency response occurred in a broader context of systematic dismantling of public health infrastructure under Kennedy's HHS leadership. A spokesperson for HHS told HuffPost that the deactivation came after Kennedy had faced \"months of criticism over how he has wielded his authority, including ordering changes to COVID-19 vaccine guidance, terminating bird flu vaccine research funding, forcing out federal vaccines officials and spreading myths about measles shots.\"\n\nThe decision to end emergency response status for H5N1 represented a dangerous normalization of an ongoing pandemic threat. While it was technically true that human cases had declined since February 2025, the virus remained endemic in over 1,000 dairy herds, had infected more than 173 million poultry, and had demonstrated the capacity to cause severe illness and death in humans. The deactivation came just 23 days after Kennedy had fired all 17 members of the CDC's vaccine advisory committee and less than six weeks after canceling pandemic flu vaccine contracts.\n\nThe timing and context of the emergency deactivation suggested it was part of Kennedy's systematic effort to downplay infectious disease threats and dismantle pandemic preparedness infrastructure rather than a good-faith assessment of the public health situation. By ending emergency status while the virus remained endemic in American agriculture, the CDC reduced its capacity to rapidly detect and respond to any resurgence or concerning mutations in the virus, leaving the nation vulnerable to a potential pandemic influenza outbreak in the name of returning to \"regular program activity\" under an HHS Secretary whose ideological opposition to vaccines and public health measures was well documented.",
+      "_file": "2025-07-02--cdc-deactivates-h5n1-emergency-response.md",
+      "_id_hash": "ca24c07dfd21b5de76e2fdda50a559489339f4205b2a826cb69be366b74dc0fb"
     },
     {
       "id": "2025-07-02--paramount-to-pay-trump-16m-to-settle-60-minutes-lawsuit",
@@ -190813,6 +191849,59 @@
       "summary": "Through companion rescission package to budget reconciliation, Congress eliminated $1.1 billion in federal funding for NPR and PBS, removing independent news sources. FCC Commissioner Anna Gomez stated \"This isn't about saving money. It's about silencing those who report the news accurately, without fear or favor,\" revealing political motivations behind defunding public broadcasting that provides vital emergency alerting in times of crisis.",
       "_file": "2025-07-04--npr-pbs-defunding.md",
       "_id_hash": "ae075926047cd006f26a9fbba9c06ce8a869d1bf54d13132f7c5ecd628c39100"
+    },
+    {
+      "id": "2025-07-04--one-big-beautiful-bill-cuts-medicaid-snap-territories",
+      "date": "2025-07-04",
+      "importance": 10,
+      "title": "Trump Signs \"One Big Beautiful Bill\" Slashing $863 Billion from Medicaid, Devastating US Territories",
+      "location": "United States",
+      "actors": [
+        "Donald Trump",
+        "US Congress",
+        "Stacey Plaskett",
+        "Department of Health and Human Services"
+      ],
+      "tags": [
+        "medicaid-cuts",
+        "snap-cuts",
+        "healthcare-access",
+        "territory-neglect",
+        "social-safety-net"
+      ],
+      "capture_lanes": [
+        "Healthcare System Capture",
+        "Social Welfare Dismantling",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "Medicaid, SNAP, and the One Big Beautiful Bill Act Explained",
+          "url": "https://www.pearsuite.com/post/one-big-beautiful-bill-act/",
+          "outlet": "Pear Suite",
+          "date": "2025-07-04",
+          "archive_url": null
+        },
+        {
+          "title": "One Big Beautiful Bill Law Summary",
+          "url": "https://www.astho.org/advocacy/federal-government-affairs/leg-alerts/2025/one-big-beautiful-bill-law-summary/",
+          "outlet": "ASTHO",
+          "date": "2025-07-04",
+          "archive_url": null
+        },
+        {
+          "title": "How the One Big Beautiful Bill will impact the US Virgin Islands and Puerto Rico's rum Industry",
+          "url": "https://pasquines.us/2025/09/15/how-the-one-big-beautiful-bill-will-impact-the-us-virgin-islands-and-puerto-ricos-rum-industry/",
+          "outlet": "Pasquines",
+          "date": "2025-09-15",
+          "archive_url": null
+        }
+      ],
+      "notes": "H.R. 1 passes House 218-214 on July 3, Senate 51-50 with amendment, Trump signs July 4. Largest cuts to Medicaid and food assistance in American history. $863 billion in Medicaid cuts over 10 years, reducing enrollment by 10.3 million people by 2034. CBO estimates 11.8 million lose health coverage. SNAP slashed by at least $120 billion, federal contribution drops from 50% to 25% of administrative costs. Delegate Plaskett warns Virgin Islands local government must \"act creatively to remedy impacts of federal cuts locally.\" Territories already face Medicaid funding caps unlike states. Bill adds $3.4 trillion to national debt despite massive social program cuts.",
+      "status": "confirmed",
+      "summary": "Trump signs \"One Big Beautiful Bill Act\" on July 4, 2025, enacting $863 billion in Medicaid cuts and gutting SNAP by $120 billion, with devastating impacts on US territories already facing discriminatory funding caps, forcing 10.3 million off healthcare while adding trillions to debt",
+      "_file": "2025-07-04--one-big-beautiful-bill-cuts-medicaid-snap-territories.md",
+      "_id_hash": "7d8eed74e0120726800ca2dd1297f9b8dd409795f17f562d138379e1347e7ccb"
     },
     {
       "id": "2025-07-04--snap-work-requirements",
@@ -192139,6 +193228,51 @@
       "summary": "In a landmark AI safety crisis, Elon Musk's xAI Grok model generated deeply offensive and antisemitic content, causing international outrage and raising urgent questions about AI system design, ethical constraints, and regulatory oversight. The incident revealed fundamental flaws in xAI's safety protocols, leading to significant professional and governmental backlash, including potential contract cancellations and international legal investigations.",
       "_file": "2025-07-15--grok-ai-catastrophic-safety-breakdown.md",
       "_id_hash": "73ddfd40c037059ca5de03fdfbf73704f815cbd7691aaeedc1eb0d8ad006a99e"
+    },
+    {
+      "id": "2025-07-15--pentagon-awards-295-million-guam-missile-defense-contract",
+      "date": "2025-07-15",
+      "importance": 7,
+      "title": "Pentagon Awards $295 Million Guam Defense Contract as Military Buildup Strains Local Housing Market",
+      "location": "Guam",
+      "actors": [
+        "Department of Defense",
+        "Core Tech-HDCC-Kajima LLC",
+        "Missile Defense Agency",
+        "Robert Rasch"
+      ],
+      "tags": [
+        "military-expansion",
+        "housing-crisis",
+        "guam-buildup",
+        "defense-spending",
+        "local-displacement"
+      ],
+      "capture_lanes": [
+        "Military-Industrial Complex",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "Pentagon Awards $295M Contract for Guam Defense System Command Center",
+          "url": "https://news.usni.org/2025/07/15/pentagon-awards-295-million-contract-for-guam-defense-system-command-center",
+          "outlet": "USNI News",
+          "date": "2025-07-15",
+          "archive_url": null
+        },
+        {
+          "title": "Pentagon Contracts Firm to Build Guam Defense System Command Center",
+          "url": "https://thedefensepost.com/2025/07/17/pentagon-guam-defense-system/",
+          "outlet": "The Defense Post",
+          "date": "2025-07-17",
+          "archive_url": null
+        }
+      ],
+      "notes": "DOD awards $295 million contract to Core Tech-HDCC-Kajima LLC for Guam Defense System command center, completion March 2029. Part of $8 billion overall project estimated by Lt. Gen. Rasch. Command center will coordinate integrated air and missile defense against China's PLA range. Anderson Air Base and Naval Base Guam within striking distance. Contract announced while 5,000 Marines relocating from Okinawa drive housing crisis. DOD spending $9 billion 2024-2028 on Guam projects. Military owns 25% of 30-mile island. Studio apartments $900, 1-2 bedrooms $1,200-$1,500 while average wage $20.29/hour. Local advocates warn military failed to adequately plan for impact on residents.",
+      "status": "confirmed",
+      "summary": "Pentagon awards $295 million contract for Guam missile defense command center as part of $8 billion militarization project, while 5,000 incoming Marines drive housing costs beyond local residents' reach on island where military already owns 25% of land",
+      "_file": "2025-07-15--pentagon-awards-295-million-guam-missile-defense-contract.md",
+      "_id_hash": "184023ad56ae5ae3865c1da5b50050428e4525ad440404ffbd113e27a5db35bb"
     },
     {
       "id": "2025-07-15--trump-demands-texas-redistricting",
@@ -198393,6 +199527,57 @@
       "_id_hash": "99cbd8daf58d794ab875a51518b2ba5b03a85d31382a8de290bab6d798b42253"
     },
     {
+      "id": "2025-08-20--texas-sb33-bans-local-abortion-travel-funds",
+      "date": "2025-08-20",
+      "title": "Texas Governor Signs Law Banning Local Government Abortion Travel Assistance",
+      "importance": 7,
+      "actors": [
+        "Greg Abbott",
+        "Ken Paxton",
+        "Texas Legislature",
+        "City of Austin",
+        "City of San Antonio"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "texas",
+        "abortion-travel",
+        "local-government",
+        "democratic-erosion"
+      ],
+      "sources": [
+        {
+          "title": "Abortion Travel Ban - Understanding Recent Legislation",
+          "url": "https://tfn.org/abbott-signs-sb33/",
+          "outlet": "Texas Freedom Network",
+          "date": "2025-08-20",
+          "tier": 2
+        },
+        {
+          "title": "ACLU of Texas Comments on Passage of S.B. 33 — Bill That Bans Local Government Assistance for Abortion Care Out of State",
+          "url": "https://www.aclutx.org/press-releases/aclu-texas-comments-passage-sb-33-bill-bans-local-government-assistance-abortion-care/",
+          "outlet": "ACLU of Texas",
+          "date": "2025-04-17",
+          "tier": 2
+        },
+        {
+          "title": "Austin axes abortion travel fund amid new Texas law",
+          "url": "https://www.kvue.com/article/news/local/austin-abortion-travel-fund-ends-texas-senate-bill-33-takes-effect/269-566550fa-d7fb-4008-89a9-c7fb3ed3913b",
+          "outlet": "KVUE",
+          "date": "2025-08-20",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Local Governance"
+      ],
+      "summary": "Governor Greg Abbott signed Senate Bill 33 into law on August 20, 2025, banning cities and counties from using public funds or entering contracts to provide \"logistical support\" for abortions, including travel assistance, lodging, meals, childcare, or counseling when intended to help residents obtain abortion care out of state. The law targets voter-approved programs in Austin and San Antonio designed to help Texans access legal abortion care in other states.\n\nSB 33 creates Government Code Section 2273.0031, prohibiting any government entity in Texas from spending money or contracting for broadly defined \"logistical support\" for abortion. The law allows any Texas resident to file civil suits against cities they believe violated the ban, seeking declaratory and injunctive relief, reimbursement of misused funds, and attorneys' fees. The bill waives sovereign immunity for governmental entities, explicitly allowing them to be sued.\n\nFollowing the law's enactment, both Austin and San Antonio shut down their abortion travel assistance programs. Jane's Due Process stated it was \"disappointed that the City of Austin has ended its abortion practical support contract in compliance with SB 33. This law was designed as a direct attack on programs in Austin and San Antonio that were created to help Texans travel to their legal abortion care.\"\n\nTexas Attorney General Ken Paxton had already filed lawsuits and obtained preliminary injunctions against San Antonio's program before SB 33 took effect, demonstrating coordinated state-level efforts to eliminate abortion access support at every level of government.\n\nThe law represents an unprecedented state intrusion into local governance, overriding voter-approved municipal programs and preventing communities from using their own funds to help residents access constitutionally protected services in other states. SB 33 exemplifies how abortion bans extend beyond prohibiting the procedure itself to criminalizing any assistance—even travel logistics—that might enable residents to access legal care elsewhere.\n\nThe ban strips Texas residents in abortion-banned areas of critical support networks, forcing those who can afford out-of-state travel to bear all costs themselves while making abortion effectively inaccessible for low-income residents regardless of where the procedure might be legal.",
+      "_file": "2025-08-20--texas-sb33-bans-local-abortion-travel-funds.md",
+      "_id_hash": "2a7c4f0bc0334143f1ae554a87990d428d2af2eeabf5788165d299c66271463f"
+    },
+    {
       "id": "2025-08-20--trump-bond-purchases-100-million-conflicts",
       "date": "2025-08-20",
       "title": "Trump Purchases Over $100 Million in Bonds from Companies He Regulates",
@@ -202205,6 +203390,57 @@
       "_id_hash": "d92d7e22be2c759aef47814bd6f8fa13d192b0b49656db2ab3ffda2584d510a9"
     },
     {
+      "id": "2025-09-15--fema-cancels-11-billion-disaster-payments-to-states",
+      "date": "2025-09-15",
+      "importance": 10,
+      "title": "FEMA Cancels $11 Billion in Disaster Payments as Kristi Noem Imposes Spending Controls",
+      "location": "United States",
+      "actors": [
+        "Federal Emergency Management Agency (FEMA)",
+        "Kristi Noem",
+        "Department of Homeland Security"
+      ],
+      "tags": [
+        "disaster-relief",
+        "fema-restructuring",
+        "federal-abandonment",
+        "budget-cuts",
+        "puerto-rico"
+      ],
+      "capture_lanes": [
+        "Disaster Response Capture",
+        "Government Accountability Destruction"
+      ],
+      "sources": [
+        {
+          "title": "FEMA canceled $11B in disaster payments to states",
+          "url": "https://www.eenews.net/articles/fema-canceled-11b-in-disaster-payments-to-states/",
+          "outlet": "E&E News",
+          "date": "2025-09-15",
+          "archive_url": null
+        },
+        {
+          "title": "In Texas flood response, FEMA slowed by Noem's cost controls",
+          "url": "https://www.cnn.com/2025/07/09/politics/fema-texas-flood-noem",
+          "outlet": "CNN",
+          "date": "2025-07-09",
+          "archive_url": null
+        },
+        {
+          "title": "Trump Administration Makes Deep Cuts at FEMA as Climate Crisis Accelerates",
+          "url": "https://truthout.org/articles/trump-administration-makes-deep-cuts-at-fema-as-climate-crisis-accelerates/",
+          "outlet": "Truthout",
+          "date": "2025-09-15",
+          "archive_url": null
+        }
+      ],
+      "notes": "Government report reveals FEMA withheld $10.9 billion planned for 45 states in final two months of fiscal year ending September 30. Secretary Noem imposed sweeping rule requiring her personal sign-off on every contract/grant over $100,000, stripping FEMA autonomy. For agency where disaster response routinely costs billions, threshold is \"pennies.\" FEMA lost quarter of full-time staff, cut hundreds of call center contractors, resulting in thousands of missed calls after Texas flood. BRIC program ended, $646 million cut from non-discretionary grants. Task force recommends 50% staff reduction. Puerto Rico and territories particularly vulnerable as ongoing recovery funds frozen.",
+      "status": "confirmed",
+      "summary": "FEMA cancels $11 billion in disaster payments to 45 states as Secretary Kristi Noem imposes personal approval requirements on all spending over $100,000, effectively paralyzing agency's disaster response capacity while cutting quarter of staff and eliminating climate resilience programs",
+      "_file": "2025-09-15--fema-cancels-11-billion-disaster-payments-to-states.md",
+      "_id_hash": "bb8a2479711443db0848c0a988e7a3f8a3b4748466e96afa746ff428f1dcb32a"
+    },
+    {
       "id": "2025-09-15--fema-paralyzed-noem-approval-requirement",
       "date": "2025-09-15",
       "title": "Wall Street Journal: FEMA Paralyzed by Noem's Approval Requirements as Disaster Victims Wait",
@@ -202399,6 +203635,58 @@
       "summary": "On September 16, 2025, former Special Counsel Jack Smith delivered his first public remarks since leaving the Department of Justice in a speech at George Mason University, warning that \"the rule of law is under attack like in no other period in our lifetimes.\" NPR exclusively obtained a recording of the event from an attendee, as no national media appeared to be present for Smith's lecture to students, professors, and members of the public.\n\nSmith expressed deep concern about the dismissals of career public servants and the loss of DOJ credibility under the Trump administration. Without mentioning President Trump by name, Smith warned: \"Political opponents, critics, perceived enemies are targeted for investigation or arrest to silence them, and the prosecutors instead of investigating cases, they're left to figure out a basis for charges after the fact.\" He described witnessing \"conflict between the leadership of the Justice Department and line career prosecutors like never before\" because \"the leadership is asking those prosecutors to do things that the prosecutors know are wrong.\"\n\nSmith's remarks came at a pivotal moment, just nine days before the indictment of former FBI Director James Comey and amid mounting evidence of DOJ being weaponized against Trump's political opponents. The speech represented a rare public warning from a former senior DOJ official about the erosion of prosecutorial independence and the transformation of law enforcement into a tool of political retribution. Smith's careful avoidance of naming Trump while delivering a scathing critique of current DOJ practices underscored the chilling effect the administration has had on free speech, even among former officials no longer bound by government employment restrictions.",
       "_file": "2025-09-16--jack-smith-warns-rule-of-law-under-attack.md",
       "_id_hash": "eed5185f454447638e3aea5b353a54894f28fb48afb7bfcec363ff59a1d11831"
+    },
+    {
+      "id": "2025-09-16--navy-announces-2400-housing-units-guam-buildup",
+      "date": "2025-09-16",
+      "importance": 8,
+      "title": "Navy Seeks 2,400 Housing Units for Guam Military Buildup as Costs Squeeze Local Residents",
+      "location": "Guam",
+      "actors": [
+        "US Navy",
+        "Department of Defense",
+        "Joint Region Marianas",
+        "Pacific Center for Island Security"
+      ],
+      "tags": [
+        "military-expansion",
+        "housing-crisis",
+        "guam-buildup",
+        "local-displacement",
+        "economic-exploitation"
+      ],
+      "capture_lanes": [
+        "Military-Industrial Complex",
+        "Colonial Administration"
+      ],
+      "sources": [
+        {
+          "title": "Navy seeks to expand Guam housing to support troop buildup",
+          "url": "https://www.navytimes.com/news/your-navy/2025/09/16/navy-seeks-to-expand-guam-housing-to-support-troop-buildup/",
+          "outlet": "Navy Times",
+          "date": "2025-09-16",
+          "archive_url": null
+        },
+        {
+          "title": "DoD Unveils Ambitious Plan to Expand Housing for Guam Troop Surge",
+          "url": "https://www.commondef.com/2025/09/dod-unveils-ambitious-plan-to-expand-housing-for-guam-troop-surge/",
+          "outlet": "Common Defense",
+          "date": "2025-09-16",
+          "archive_url": null
+        },
+        {
+          "title": "Military expansion on Guam sucks up housing resources",
+          "url": "https://prismreports.org/2025/05/12/guam-military-marines-housing/",
+          "outlet": "Prism Reports",
+          "date": "2025-05-12",
+          "archive_url": null
+        }
+      ],
+      "notes": "Navy announces plan to acquire 2,400 housing units (1,600 family, 800 unaccompanied) as military personnel grows from 17,000 (FY2024) to 24,000 (FY2033). Phase 1 - 917 family and 400 unaccompanied units by June 2028. Phase 2 - 700 family and 400 unaccompanied by June 2032. 75% in central region near bases. 5,000 Marines plus 1,300 family members relocating from Okinawa to Camp Blaz (first new Marine base since 1952). Pacific Center for Island Security warns military did not fully consider impact on local housing costs. Influx tightening already stretched rental market, making housing unaffordable for longtime residents earning $20.29/hour average.",
+      "status": "confirmed",
+      "summary": "Navy announces initiative to acquire 2,400 housing units on Guam to support military buildup from 17,000 to 24,000 personnel, as Pacific Center warns military failed to consider devastating impact on local housing market where residents already priced out by military expansion",
+      "_file": "2025-09-16--navy-announces-2400-housing-units-guam-buildup.md",
+      "_id_hash": "806e045cf4362db7f94a409e1e1c702f5ac9c5ac0e79fac39f4f5c79c1a05937"
     },
     {
       "id": "2025-09-17--doj-ftc-identify-125-anticompetitive-regulations-elimination",
@@ -212354,6 +213642,57 @@
       "summary": "On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her \"Marjorie Traitor Greene.\"\n\nIn a four-page resignation statement, Greene defended her position: \"Standing up for American women who were raped at 14, trafficked and used by rich powerful men, should not result in me being called a traitor and threatened by the President of the United States of America, whom I fought for.\"\n\nGreene stated she did not want her northwest Georgia district to \"endure a hurtful and hateful primary against me by the President we all fought for,\" acknowledging that Trump had threatened to support a primary challenger against her.\n\n## The Epstein Files Controversy\n\nThe break between Trump and Greene centered on the Jeffrey Epstein investigation files. Greene had been publicly pressing Trump and top Republicans in Congress for months to release all files from two federal investigations into Epstein and his sex trafficking network.\n\nGreene partnered with Democratic Rep. Ro Khanna to sponsor a discharge petition—a rare procedural move that forces a House vote without leadership approval—to compel the Department of Justice to release complete Epstein investigation files. Greene was part of a small group of Republicans who helped force the vote on the House floor.\n\nTrump had campaigned on releasing the Epstein files but subsequently delayed their release after taking office. This reversal served as what Greene called \"the proverbial straw that broke the camel's back\" in their relationship.\n\n## Trump's \"Traitor\" Attack\n\nOne week before Greene's resignation announcement, Trump launched a public attack against her, calling her \"Marjorie Traitor Greene\" and claiming she had \"gone Far Left.\" In comments to reporters, Trump said: \"Something happened to her over the last period of a month or two where she changed politically.\"\n\nTrump also called Greene \"a ranting Lunatic\" and threatened to support a primary challenger in her heavily Republican district in northwest Georgia.\n\nAfter Greene's resignation announcement, Trump told reporters in a phone interview that her departure is \"great news for the country.\" He claimed he had no advance notice of her decision and expressed no interest in reconciliation. On Truth Social, Trump stated Greene quit \"because of PLUMMETING Poll Numbers\" to avoid losing a primary against a Trump-endorsed challenger.\n\n## Greene's Defense of Abuse Survivors\n\nIn her resignation video and written statement, Greene emphasized her advocacy for sexual assault survivors as the reason for her stance on the Epstein files. She argued that defending victimized women should not be grounds for presidential condemnation or being labeled a traitor.\n\nGreene had referenced specific victims—\"American women who were raped at 14, trafficked and used by rich powerful men\"—suggesting her motivation stemmed from documented accounts of Epstein's youngest victims and the powerful figures allegedly involved in the trafficking network.\n\nHer statement highlighted the tension between political loyalty to Trump and moral obligation to sex trafficking survivors seeking accountability and transparency.\n\n## Political Context: From Loyal Ally to \"Traitor\"\n\nMarjorie Taylor Greene had been one of Trump's most loyal and vocal supporters in Congress. She defended him through both impeachment proceedings, championed his false claims about the 2020 election, and became one of the most prominent MAGA movement figures in the House.\n\nGreene's break with Trump over the Epstein files represents a rare instance where a core Trump ally prioritized a policy position—specifically transparency about sex trafficking by powerful figures—over personal loyalty to the president.\n\nThe discharge petition Greene signed represented a bipartisan effort that crossed traditional partisan lines, as she partnered with Democratic Rep. Ro Khanna. This type of cross-party cooperation on government transparency has become increasingly rare in the polarized political environment.\n\nTrump's characterization of support for Epstein file transparency as \"going Far Left\" and grounds for being labeled a \"traitor\" reveals his view that personal loyalty supersedes all other considerations, including transparency about sexual abuse of minors by powerful figures.\n\n## Congressional Impact\n\nGreene's departure reduces House Speaker Mike Johnson's Republican majority from 219-213 to an even slimmer margin. While Republicans will lose a seat, the heavily Republican nature of Greene's northwest Georgia district makes it likely her replacement will also be a Republican.\n\nGeorgia Governor Brian Kemp will need to call a special election in 2026 for Greene's seat. Her resignation effective January 5, 2026, means she will serve through the end of the current Congress.\n\nGreene referenced concerns about Republicans losing the 2026 midterm elections in her statement, suggesting she did not want to be a distraction that could hurt the party's chances while also expressing unwillingness to endure a Trump-backed primary challenge.\n\n## Implications for Epstein Transparency\n\nGreene's forced resignation after supporting the Epstein files discharge petition sends a clear message to other members of Congress about the political risks of crossing Trump on this issue. Despite bipartisan public interest in full transparency about Epstein's trafficking network and the powerful figures involved, Trump's retaliation against Greene may discourage other Republicans from supporting similar efforts.\n\nThe incident highlights tension between public demands for accountability regarding elite sex trafficking networks and political pressures to maintain loyalty to Trump regardless of the policy issue at stake.\n\nGreene's explicit framing—that supporting rape victims should not result in being called a traitor—underscores the moral dimension of the conflict: whether elected officials can advocate for abuse survivors and government transparency when doing so conflicts with a president's personal or political interests.\n\n## Pattern of Retaliation\n\nTrump's attack on Greene follows a pattern of retaliating against officials who defy him, even when those officials have been loyal supporters. The speed and severity of Trump's response—withdrawing endorsement, threatening a primary challenge, and using the \"traitor\" label—demonstrates his approach to political loyalty as absolute rather than contingent.\n\nThe public nature of Trump's attack, combined with his characterization of her resignation as \"great news for the country,\" suggests a deliberate strategy of making an example of Greene to discourage other potential defections on issues Trump considers personal threats.\n\nGreene's reference to not wanting her district to endure a \"hurtful and hateful primary\" led by Trump acknowledges the political reality that Trump's endorsement power within the Republican Party remains strong enough to end political careers, even for previously loyal MAGA figures.",
       "_file": "2025-11-21--marjorie-taylor-greene-resignation-trump-epstein-retaliation.md",
       "_id_hash": "6ed14d04457224df154c362b3da458e171c31cb5d5b3b311dcccd96970d58398"
+    },
+    {
+      "id": "2025-11-21--north-dakota-supreme-court-reinstates-abortion-ban",
+      "date": "2025-11-21",
+      "title": "North Dakota Supreme Court Reinstates Near-Total Abortion Ban Despite Unconstitutionality Finding",
+      "importance": 8,
+      "actors": [
+        "North Dakota Supreme Court",
+        "Justice Jerod E. Tufte",
+        "Chief Justice Jon J. Jensen",
+        "Judge Bruce Romanick",
+        "Doug Burgum"
+      ],
+      "tags": [
+        "reproductive-rights",
+        "north-dakota",
+        "state-courts",
+        "abortion-bans",
+        "democratic-erosion"
+      ],
+      "sources": [
+        {
+          "title": "North Dakota Supreme Court ruling reverses judge's decision that overturned the state's abortion ban",
+          "url": "https://www.mprnews.org/story/2025/11/21/north-dakota-high-court-overturns-decision-that-had-blocked-state-abortion-ban",
+          "outlet": "Minnesota Public Radio",
+          "date": "2025-11-21",
+          "tier": 1
+        },
+        {
+          "title": "Abortion Illegal Again In North Dakota After Supreme Court Ruling",
+          "url": "https://reproductiverights.org/news/abortion-illegal-again-in-north-dakota-after-supreme-court-ruling/",
+          "outlet": "Center for Reproductive Rights",
+          "date": "2025-11-21",
+          "tier": 2
+        },
+        {
+          "title": "North Dakota abortion ban reinstated by state Supreme Court",
+          "url": "https://minnlawyer.com/2025/11/24/north-dakota-abortion-ban-supreme-court-ruling/",
+          "outlet": "Minnesota Lawyer",
+          "date": "2025-11-24",
+          "tier": 2
+        }
+      ],
+      "status": "confirmed",
+      "capture_lanes": [
+        "Reproductive Rights",
+        "Judicial Obstruction"
+      ],
+      "summary": "The North Dakota Supreme Court reinstated the state's near-total abortion ban on November 21, 2025, despite three of five justices agreeing the ban is unconstitutionally vague under the state constitution. The ban went back into effect because the state constitution requires at least four of five justices to agree for a law to be found unconstitutional—a supermajority requirement that allowed the minority to impose abortion prohibition despite the majority finding constitutional defects.\n\nJustice Jerod E. Tufte and Chief Justice Jon J. Jensen voted to uphold the ban, preventing the four-justice supermajority needed to strike it down. The ruling reversed District Judge Bruce Romanick's September 2024 decision that had found the ban unconstitutional and allowed abortion to resume in North Dakota.\n\nFormer Republican Governor Doug Burgum signed the law prohibiting nearly all abortions in April 2023. The ban makes performing an abortion a felony crime punishable by up to five years in prison and a 10,000 dollar fine, though it specifically protects patients from prosecution. Exceptions exist only for rape or incest in the first six weeks—before many women know they are pregnant—and to prevent the mother's death or a \"serious health risk.\"\n\nThe supermajority requirement for finding laws unconstitutional represents a structural impediment to constitutional rights enforcement. Three justices determined the abortion ban violated the state constitution's vagueness doctrine, but the heightened threshold allowed two justices to effectively override that constitutional determination and impose a policy rejected by the court majority.\n\nNorth Dakota's only abortion provider had already relocated in 2022 from Fargo to nearby Moorhead, Minnesota, in anticipation of the ban. The ruling left North Dakota residents with no in-state abortion access. North Dakota joined 12 other states enforcing bans on abortion at all stages of pregnancy, with another four states barring it at or around six weeks gestational age.\n\nThe decision exemplified how procedural requirements in state constitutions can be weaponized to prevent judicial protection of rights even when courts find laws unconstitutional, entrenching minority rule through supermajority thresholds.",
+      "_file": "2025-11-21--north-dakota-supreme-court-reinstates-abortion-ban.md",
+      "_id_hash": "67df3285e2eb00c5acce317b2b4d300ce8ece9e91f2a4175d8715842df8a9d50"
     },
     {
       "id": "2025-11-24--doge-disbanded-eight-months-early-musk-departure",

@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-13 23:26:33
+Generated: 2026-01-14 00:21:40
 
 ## Overview
-- **Total Events**: 4179
+- **Total Events**: 4208
 - **Date Range**: 1142-01-01 to 2026-01-14
-- **Total Sources**: 14408
-- **Unique Tags**: 6450
-- **Unique Actors**: 7900
+- **Total Sources**: 14484
+- **Unique Tags**: 6490
+- **Unique Actors**: 7947
 
 ## Event Status
-- **Unknown**: 936
-- **Confirmed**: 3195
+- **Unknown**: 945
+- **Confirmed**: 3215
 - **Validated**: 29
 - **Disputed**: 2
 - **Verified**: 1
@@ -26,9 +26,9 @@ Generated: 2026-01-13 23:26:33
 
 ## Top Tags
 - regulatory-capture: 580 events
-- institutional-capture: 398 events
-- corruption: 286 events
-- systematic-corruption: 140 events
+- institutional-capture: 405 events
+- corruption: 288 events
+- systematic-corruption: 142 events
 - trump-administration: 140 events
 - kleptocracy: 137 events
 - government-contracts: 132 events
@@ -37,13 +37,13 @@ Generated: 2026-01-13 23:26:33
 - crypto: 114 events
 
 ## Top Actors
-- Donald Trump: 1083 events
+- Donald Trump: 1087 events
 - Trump Administration: 334 events
-- Department of Justice: 261 events
+- Department of Justice: 263 events
 - Elon Musk: 164 events
 - U.S. Congress: 132 events
 - FBI: 90 events
-- Pam Bondi: 82 events
+- Pam Bondi: 83 events
 - Supreme Court: 74 events
 - Heritage Foundation: 73 events
 - Ronald Reagan: 72 events
@@ -284,6 +284,6 @@ Generated: 2026-01-13 23:26:33
 - 2021: 106 events
 - 2022: 92 events
 - 2023: 104 events
-- 2024: 162 events
-- 2025: 1225 events
+- 2024: 167 events
+- 2025: 1249 events
 - 2026: 49 events
