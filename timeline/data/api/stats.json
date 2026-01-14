@@ -1,16 +1,16 @@
 {
-  "total_events": 4210,
-  "total_tags": 6497,
-  "total_actors": 7950,
-  "total_sources": 14490,
+  "total_events": 4179,
+  "total_tags": 6493,
+  "total_actors": 7927,
+  "total_sources": 14353,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-01-14"
   },
   "status_counts": {
-    "unknown": 945,
-    "confirmed": 3217,
-    "validated": 29,
+    "unknown": 940,
+    "confirmed": 3192,
+    "validated": 28,
     "disputed": 2,
     "verified": 1,
     "enhanced": 1,
@@ -25,19 +25,19 @@
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 580
+      "count": 571
     },
     {
       "name": "institutional-capture",
-      "count": 405
+      "count": 400
     },
     {
       "name": "corruption",
-      "count": 288
+      "count": 286
     },
     {
       "name": "systematic-corruption",
-      "count": 142
+      "count": 141
     },
     {
       "name": "trump-administration",
@@ -45,7 +45,7 @@
     },
     {
       "name": "kleptocracy",
-      "count": 137
+      "count": 135
     },
     {
       "name": "government-contracts",
@@ -53,7 +53,7 @@
     },
     {
       "name": "supreme-court",
-      "count": 131
+      "count": 126
     },
     {
       "name": "surveillance",
@@ -67,7 +67,7 @@
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1087
+      "count": 1086
     },
     {
       "name": "Trump Administration",
@@ -79,7 +79,7 @@
     },
     {
       "name": "Elon Musk",
-      "count": 164
+      "count": 163
     },
     {
       "name": "U.S. Congress",
@@ -91,20 +91,20 @@
     },
     {
       "name": "Pam Bondi",
-      "count": 83
-    },
-    {
-      "name": "Supreme Court",
-      "count": 74
-    },
-    {
-      "name": "Heritage Foundation",
-      "count": 73
+      "count": 84
     },
     {
       "name": "Ronald Reagan",
-      "count": 72
+      "count": 71
+    },
+    {
+      "name": "Supreme Court",
+      "count": 70
+    },
+    {
+      "name": "Congress",
+      "count": 69
     }
   ],
-  "generated": "2026-01-14T01:54:44.237396"
+  "generated": "2026-01-14T02:08:00.367305"
 }

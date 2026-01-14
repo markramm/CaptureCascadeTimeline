@@ -1,18 +1,18 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-14 01:54:44
+Generated: 2026-01-14 02:08:00
 
 ## Overview
-- **Total Events**: 4210
+- **Total Events**: 4179
 - **Date Range**: 1142-01-01 to 2026-01-14
-- **Total Sources**: 14490
-- **Unique Tags**: 6497
-- **Unique Actors**: 7950
+- **Total Sources**: 14353
+- **Unique Tags**: 6493
+- **Unique Actors**: 7927
 
 ## Event Status
-- **Unknown**: 945
-- **Confirmed**: 3217
-- **Validated**: 29
+- **Unknown**: 940
+- **Confirmed**: 3192
+- **Validated**: 28
 - **Disputed**: 2
 - **Verified**: 1
 - **Enhanced**: 1
@@ -25,28 +25,28 @@ Generated: 2026-01-14 01:54:44
 - **Developing**: 1
 
 ## Top Tags
-- regulatory-capture: 580 events
-- institutional-capture: 405 events
-- corruption: 288 events
-- systematic-corruption: 142 events
+- regulatory-capture: 571 events
+- institutional-capture: 400 events
+- corruption: 286 events
+- systematic-corruption: 141 events
 - trump-administration: 140 events
-- kleptocracy: 137 events
+- kleptocracy: 135 events
 - government-contracts: 132 events
-- supreme-court: 131 events
+- supreme-court: 126 events
 - surveillance: 120 events
 - crypto: 114 events
 
 ## Top Actors
-- Donald Trump: 1087 events
+- Donald Trump: 1086 events
 - Trump Administration: 334 events
 - Department of Justice: 263 events
-- Elon Musk: 164 events
+- Elon Musk: 163 events
 - U.S. Congress: 132 events
 - FBI: 90 events
-- Pam Bondi: 83 events
-- Supreme Court: 74 events
-- Heritage Foundation: 73 events
-- Ronald Reagan: 72 events
+- Pam Bondi: 84 events
+- Ronald Reagan: 71 events
+- Supreme Court: 70 events
+- Congress: 69 events
 
 ## Events by Year
 - 1142: 1 events
@@ -231,13 +231,13 @@ Generated: 2026-01-14 01:54:44
 - 1968: 9 events
 - 1969: 5 events
 - 1970: 12 events
-- 1971: 15 events
+- 1971: 12 events
 - 1972: 15 events
-- 1973: 28 events
+- 1973: 24 events
 - 1974: 19 events
 - 1975: 12 events
-- 1976: 11 events
-- 1977: 17 events
+- 1976: 8 events
+- 1977: 15 events
 - 1978: 18 events
 - 1979: 10 events
 - 1980: 18 events
@@ -247,22 +247,22 @@ Generated: 2026-01-14 01:54:44
 - 1984: 12 events
 - 1985: 16 events
 - 1986: 11 events
-- 1987: 15 events
+- 1987: 14 events
 - 1988: 10 events
-- 1989: 17 events
+- 1989: 16 events
 - 1990: 14 events
 - 1991: 12 events
 - 1992: 14 events
 - 1993: 10 events
 - 1994: 16 events
-- 1995: 14 events
-- 1996: 22 events
+- 1995: 13 events
+- 1996: 21 events
 - 1997: 19 events
-- 1998: 31 events
-- 1999: 18 events
-- 2000: 33 events
+- 1998: 30 events
+- 1999: 16 events
+- 2000: 32 events
 - 2001: 37 events
-- 2002: 74 events
+- 2002: 71 events
 - 2003: 34 events
 - 2004: 33 events
 - 2005: 38 events
@@ -270,20 +270,20 @@ Generated: 2026-01-14 01:54:44
 - 2007: 24 events
 - 2008: 39 events
 - 2009: 33 events
-- 2010: 47 events
+- 2010: 46 events
 - 2011: 38 events
 - 2012: 38 events
-- 2013: 63 events
-- 2014: 56 events
+- 2013: 62 events
+- 2014: 55 events
 - 2015: 59 events
-- 2016: 100 events
+- 2016: 94 events
 - 2017: 153 events
-- 2018: 133 events
+- 2018: 132 events
 - 2019: 135 events
-- 2020: 131 events
-- 2021: 106 events
+- 2020: 130 events
+- 2021: 105 events
 - 2022: 93 events
-- 2023: 104 events
-- 2024: 168 events
-- 2025: 1249 events
-- 2026: 49 events
+- 2023: 101 events
+- 2024: 169 events
+- 2025: 1254 events
+- 2026: 50 events

@@ -1,6 +1,6 @@
 ---
-id: 2016-06-07--eric-trump-foundation-self-dealing-cancer-charity
-date: 2016-06-07
+id: 2017-06-06--eric-trump-foundation-self-dealing-cancer-charity
+date: '2017-06-06'
 title: Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organization
   Businesses
 importance: 8

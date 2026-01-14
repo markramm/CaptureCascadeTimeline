@@ -4835,15 +4835,6 @@
 2. [Nixon Ends Convertibility of U.S. Dollars to Gold and Announces Wage/Price Controls](https://www.federalreservehistory.org/essays/gold-convertibility-ends)
 3. [How the 'Nixon Shock' Remade the World Economy](https://insights.som.yale.edu/insights/how-the-nixon-shock-remade-the-world-economy)
 
-## Lewis Powell Authors Corporate Blueprint Memo
-*Date: 1971-08-23*
-
-1. [Lewis F. Powell Jr. Papers: Memorandum on American Free Enterprise](https://scholarlycommons.law.wlu.edu/powellmemo/)
-2. [The Legend of the Powell Memo](https://prospect.org/article/legend-powell-memo/)
-3. [The Scheme 1: The Powell Memo](https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/)
-4. [The Lewis Powell Memo: Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/the-lewis-powell-memo-corporate-blueprint-to-dominate-democracy/)
-5. [Notes to the Chamber of Commerce on America's 'Anti-Business' Climate](https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html)
-
 ## Lewis Powell Writes Landmark Memo Blueprinting Corporate Institutional Capture Strategy
 *Date: 1971-08-23*
 
@@ -4852,21 +4843,6 @@
 3. [The Scheme 1: The Powell Memo](https://www.whitehouse.senate.gov/news/speeches/the-scheme-1-the-powell-memo/)
 4. [Institutional Capture and Corporate Strategy: The Powell Memorandum's Long-Term Impact](https://scholarlycommons.law.wlu.edu/powellmemo-analysis/)
 5. [Corporate Power and Democratic Institutions: The Powell Memo as Institutional Transformation Strategy](https://www.tandfonline.com/doi/abs/institutional-capture-powell-memo)
-
-## Powell Memo: Psychological Warfare Tactics Applied to Economic Policy
-*Date: 1971-08-23*
-
-1. [The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
-2. [Lewis Powell memo: notes to the Chamber of Commerce on Americas anti-business climate](https://slate.com/news-and-politics/2021/08/lewis-powell-memo-chamber-commerce.html)
-3. [Lewis Powell Memorandum 1971 OCR](https://archive.org/details/powell-memorandum-1971-ocr)
-
-## Powell Memorandum Establishes Blueprint for Conservative Think Tank Strategy
-*Date: 1971-08-23*
-
-1. [The Powell Memo: A Call-to-Arms for Corporations](https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/)
-2. [Lewis F. Powell Jr. Papers: Attack On American Free Enterprise System](https://scholarlycommons.law.wlu.edu/powellmemo/)
-3. [The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy](https://www.greenpeace.org/usa/democracy/the-lewis-powell-memo-a-corporate-blueprint-to-dominate-democracy/)
-4. [The Powell Memo Helped Create Project 2025](https://www.thenation.com/article/society/powell-memo-project-2025-plutocracy/)
 
 ## White House Plumbers Break Into Daniel Ellsberg Psychiatrist Office Seeking Pentagon Papers Dirt
 *Date: 1971-09-03*
@@ -5038,41 +5014,12 @@
 2. [Watergate Burglars](https://watergate.info/burglary/burglars/)
 3. [John Sirica - Wikipedia](https://en.wikipedia.org/wiki/John_Sirica)
 
-## Heritage Foundation Established as Powell Memo Implementation Vehicle
-*Date: 1973-02-16*
-
-1. [Founding of the Heritage Foundation: A Strategic Conservative Initiative](https://en.wikipedia.org/wiki/The_Heritage_Foundation)
-2. [Profile on the Right: The Heritage Foundation](https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation)
-3. [Origins of the Heritage Foundation: Powell Memo's Institutional Legacy](https://www.influencewatch.org/non-profit/heritage-foundation/)
-
 ## Heritage Foundation Founded by Conservative Activists and Business Leaders
 *Date: 1973-02-16*
 
 1. [Joe Coors Brews Up the Heritage Foundation](https://www.philanthropyroundtable.org/almanac/joe-coors-brews-up-the-heritage-foundation/)
 2. [Profile on the Right: The Heritage Foundation](https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation)
 3. [Heritage Foundation Organizational Profile](https://www.influencewatch.org/non-profit/heritage-foundation/)
-
-## Heritage Foundation Established by Weyrich, Feulner, and Coors
-*Date: 1973-02-16*
-
-1. [Profile on the Right: The Heritage Foundation](https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation)
-2. [Heritage Foundation Background](https://www.sourcewatch.org/index.php/Heritage_Foundation)
-3. [Heritage Foundation Founder Edwin J. Feulner Dead at 83](https://www.newsweek.com/heritage-foundation-founder-edwin-feulner-dead-83-2101101)
-
-## Heritage Foundation Founded as Conservative Think Tank Implementing Powell Strategy
-*Date: 1973-02-16*
-
-1. [The Heritage Foundation - Origins and Early Years](https://en.wikipedia.org/wiki/The_Heritage_Foundation)
-2. [Heritage Foundation - Founding and Mission](https://www.britannica.com/topic/Heritage-Foundation)
-3. [Heritage Foundation Organizational Profile](https://www.influencewatch.org/non-profit/heritage-foundation/)
-
-## Heritage Foundation Founded with Coors Funding
-*Date: 1973-02-16*
-
-1. [Heritage Foundation Organizational Profile](https://www.influencewatch.org/non-profit/heritage-foundation/)
-2. [Profile on the Right: The Heritage Foundation](https://politicalresearch.org/2018/06/22/profile-right-heritage-foundation)
-3. [Heritage Foundation: Early History and Founding](https://www.newworldencyclopedia.org/entry/Heritage_Foundation)
-4. [Heritage Foundation Founding Details](https://encyclopedia.pub/entry/33259)
 
 ## Heritage Foundation Organizational Profile: Conservative Policy Infrastructure and Corporate Capture Mechanism
 *Date: 1973-02-16*
@@ -5451,13 +5398,6 @@
 3. [The Myth of the Welfare Queen](https://newrepublic.com/article/154404/myth-welfare-queen)
 4. [The True Story of Chicago's 'Welfare Queen'](https://www.chicagomag.com/city-life/may-2019/the-true-story-of-chicagos-welfare-queen/)
 
-## Buckley v. Valeo Establishes Framework for Corporate Political Spending
-*Date: 1976-01-30*
-
-1. [Buckley v. Valeo Legal Resources](https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/)
-2. [Citizens United Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained)
-3. [Buckley v. Valeo Supreme Court Case](https://www.law.cornell.edu/supremecourt/text/424/1)
-
 ## Supreme Court Rules Money Is Speech in Buckley v. Valeo
 *Date: 1976-01-30*
 
@@ -5468,22 +5408,6 @@
 5. [Campaign Finance Law After Buckley v. Valeo](https://www.brennancenter.org/our-work/research-reports/campaign-finance-law-after-buckley-v-valeo)
 6. [Buckley v. Valeo: Its Aftermath and Prospects](https://scholarship.law.vanderbilt.edu/vlr/vol29/iss6/1/)
 7. [The Original Sin of Campaign Finance Law: Why Buckley v. Valeo is Wrong](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2241869)
-
-## Powell Helps Implement Corporate Blueprint in Buckley v. Valeo Equating Money with Speech
-*Date: 1976-01-30*
-
-1. [The Scheme 2: Powell on the Court](https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/)
-2. [Buckley v. Valeo Legal Resources](https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/)
-3. [Buckley v. Valeo Supreme Court Case Text](https://www.law.cornell.edu/supremecourt/text/424/1)
-
-## Supreme Court Decides Buckley v. Valeo, Unleashing Corporate Money in Politics
-*Date: 1976-01-30*
-
-1. [Buckley v. Valeo](https://supreme.justia.com/cases/federal/us/424/1/)
-2. [Campaign Finance Law After Buckley v. Valeo](https://www.brennancenter.org/our-work/research-reports/campaign-finance-law-after-buckley-v-valeo)
-3. [Is Campaign Spending a Cause or an Effect? Reexamining the Empirical Foundations of Buckley v. Valeo (1976)](https://www.journals.uchicago.edu/doi/full/10.1086/703801)
-4. [Buckley v. Valeo Comprehensive Legal Analysis](https://scholarship.law.vanderbilt.edu/vlr/vol29/iss6/1/)
-5. [Official FEC Legal Resource on Buckley v. Valeo](https://www.fec.gov/legal-resources/court-cases/buckley-v-valeo/)
 
 ## Supreme Court Allows Metropolitan-Wide Housing Desegregation Remedy
 *Date: 1976-04-20*
@@ -5547,13 +5471,6 @@
 2. [Cato Institute - InfluenceWatch](https://www.influencewatch.org/non-profit/cato-institute/)
 3. [Cato Institute - SourceWatch](https://www.sourcewatch.org/index.php/Cato_Institute)
 
-## Cato Institute Founded by Charles Koch - Libertarian Policy Infrastructure
-*Date: 1977-01-01*
-
-1. [Cato Institute](https://en.wikipedia.org/wiki/Cato_Institute)
-2. [Cato Institute - SourceWatch](https://www.sourcewatch.org/index.php/Cato_Institute)
-3. [Cato Institute - InfluenceWatch](https://www.influencewatch.org/non-profit/cato-institute/)
-
 ## Department of Justice Announces Abandonment of Robinson-Patman Act Enforcement, Adopting Chicago School Critique
 *Date: 1977-01-01*
 
@@ -5561,13 +5478,6 @@
 2. [The Needless Desertion of Robinson-Patman](https://www.promarket.org/2022/10/10/the-needless-desertion-of-robinson-patman/)
 3. [FTC Revives Enforcement of the Robinson-Patman Act](https://www.congress.gov/crs-product/LSB11257)
 4. [Political Economy of US Antitrust Enforcement Decline](https://bfi.uchicago.edu/wp-content/uploads/2022/08/BFI_WP_2022-104.pdf)
-
-## Edwin Feulner Becomes Heritage Foundation President, Launching Rapid Expansion
-*Date: 1977-01-01*
-
-1. [Edwin Feulner - Wikipedia](https://en.wikipedia.org/wiki/Edwin_Feulner)
-2. [Heritage Foundation Founder Edwin J. Feulner Dead at 83](https://www.newsweek.com/heritage-foundation-founder-edwin-feulner-dead-83-2101101)
-3. [Remembering Ed Feulner, Conservative Institution-Builder](https://www.city-journal.org/article/ed-feulner-heritage-foundation-conservative)
 
 ## Edwin Feulner Becomes Heritage Foundation President, Beginning 36-Year Tenure Building Conservative Policy Infrastructure
 *Date: 1977-01-01*
@@ -6728,13 +6638,6 @@
 2. [Former CIA Director William J. Casey Dies](https://www.washingtonpost.com/archive/politics/1987/05/07/former-cia-director-william-j-casey-dies/da60a0b4-79cf-43d3-b370-848c2439e833/)
 3. [William Casey CIA Director Profile](https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/profile-casey.php)
 
-## FCC Abolishes Fairness Doctrine - Partisan Media Ecosystem Enabled
-*Date: 1987-08-04*
-
-1. [Fairness doctrine](https://en.wikipedia.org/wiki/Fairness_doctrine)
-2. [How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media](https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/)
-3. [The Fairness Doctrine: How We Lost It and Why We Need It Back](https://sisyphuslitmag.org/2018/07/the-fairness-doctrine-how-we-lost-it-and-why-we-need-it-back/)
-
 ## Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage Requirements for Broadcasters
 *Date: 1987-08-04*
 
@@ -6850,13 +6753,6 @@
 3. [The Glass-Steagall Act: A Legal and Policy Analysis](https://www.congress.gov/crs_external_products/R/PDF/R44349/R44349.3.pdf)
 4. [Banking Regulation and Interpretation of Section 20](https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1020&context=law_review)
 5. [Nothing But the Facts: The Glass-Steagall Act](https://capmktsreg.org/nothing-but-the-facts-report-the-glass-steagall-act/)
-
-## Global Climate Coalition Formation to Oppose Climate Regulation
-*Date: 1989-01-01*
-
-1. [Global Climate Coalition: Industry Climate Denial Overview](https://climateinvestigations.org/global-climate-coalition-industry-climate-denial/)
-2. [1989 Global Climate Coalition Membership Details](https://www.climatefiles.com/denial-groups/global-climate-coalition-collection/1989-membership/)
-3. [Global Climate Coalition Files: Corporate Climate Science Denial](https://www.desmog.com/global-climate-coalition-files/)
 
 ## Global Climate Coalition Formed to Coordinate Industry Climate Denial Campaign
 *Date: 1989-01-01*
@@ -7504,13 +7400,6 @@
 3. [How Mandatory Minimums Perpetuate Mass Incarceration](https://www.sentencingproject.org/fact-sheet/how-mandatory-minimums-perpetuate-mass-incarceration-and-what-to-do-about-it/)
 4. [The Prison Payoff: The Role of Politics and Private Prisons in the Incarceration Boom](https://www.prisonpolicy.org/scans/Prison_Payoff_Report_WPP_2000.pdf)
 
-## K Street Project Launch - Systematic Republican Lobbying Control
-*Date: 1995-01-01*
-
-1. [The K Street Project and Jack Abramoff](https://www.npr.org/2006/01/11/5148982/the-k-street-project-and-jack-abramoff)
-2. [The State of K Street: Work in the Shadows](https://rollcall.com/2012/06/07/the-state-of-k-street-work-in-the-shadows/)
-3. [Revolving Door: Newt Gingrich Employment Summary](https://www.opensecrets.org/revolving/rev_summary.php?id=8534)
-
 ## K Street Project Systematically Transforms Washington Lobbying Infrastructure
 *Date: 1995-01-01*
 
@@ -7632,14 +7521,6 @@
 8. [Big Media: Its Effect on the Marketplace of Ideas and How to Slow the Urge to Merge](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1759&context=asc_papers)
 9. [Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill](https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest)
 10. [The Net @ Risk: Big, Bigger, Biggest Media](http://www.pbs.org/moyers/citizensclass/the_net_risk/big_bigger_biggest_media/)
-
-## Telecommunications Act Enables Massive Media Consolidation
-*Date: 1996-02-08*
-
-1. [Statement on Signing the Telecommunications Act of 1996](https://www.presidency.ucsb.edu/documents/statement-signing-the-telecommunications-act-1996)
-2. [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996)
-3. [Democracy in Peril - Twenty Years of Media Consolidation Under the Telecommunications Act](https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/)
-4. [Stop the Cap - The Telecom Act of 1996 Sowed the Seeds of a Telecom Oligopoly](https://stopthecap.com/2018/07/19/historical-truths-the-telecom-act-of-1996-sowed-the-seeds-of-a-telecom-oligopoly/)
 
 ## Lincoln Bedroom Fundraising Scandal Reveals White House Donor Access Program
 *Date: 1996-02-26*
@@ -7995,14 +7876,6 @@
 2. [Momentous encounter leads to merger](https://www.citigroup.com/global/about-us/heritage/1998/momentous-encounter-leads-to-merger)
 3. [Federal Reserve Board Meeting Regarding Citicorp and Travelers Group](https://www.federalreserve.gov/supervisionreg/publicmeetings/19980625_thursday.htm)
 
-## Citigroup Merger Violates Glass-Steagall, Forces Deregulation
-*Date: 1998-04-06*
-
-1. [Gramm-Leach-Bliley Act](https://en.wikipedia.org/wiki/Gramm–Leach–Bliley_Act)
-2. [Gramm-Leach-Bliley Act](https://www.sourcewatch.org/index.php/Gramm-Leach-Bliley_Act)
-3. [Sandy Weill: the banker who bought Bill Clinton](https://softpanorama.org/Skeptics/Financial_skeptic/Casino_capitalism/12_Apostols_of_deregulation/Weill/index.shtml)
-4. [Financial Services Modernization Act of 1999 (Gramm-Leach-Bliley)](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
-
 ## ALEC Adopts Paycheck Protection Act to Defund Democratic Party by Restricting Union Political Activity
 *Date: 1998-05-01*
 
@@ -8257,22 +8130,6 @@
 4. [The Financial Services Modernization Act: A Legal and Policy Analysis](https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/)
 5. [Impact of the Gramm-Leach-Bliley Act on Financial Services Industry](https://link.springer.com/article/10.1007/BF02751736)
 6. [The Gramm-Leach-Bliley Act: A Bridge Too Far? Or Not Far Enough?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1836668)
-
-## Clinton Signs Gramm-Leach-Bliley Act Formally Repealing Glass-Steagall
-*Date: 1999-11-12*
-
-1. [Impact of the Gramm-Leach-Bliley Act](https://news.uark.edu/articles/10167/impact-of-the-gramm-leach-bliley-act)
-2. [Owning the Consequences: Clinton and the Repeal of Glass-Steagall](https://www.demos.org/blog/owning-consequences-clinton-and-repeal-glass-steagall)
-3. [Financial Services Modernization Act of 1999](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
-4. [The Financial Services Modernization Act of 1999](https://predatorylending.duke.edu/policy/legislative-memos/the-financial-services-modernization-act-of-1999/)
-
-## Gramm-Leach-Bliley Act Repeals Glass-Steagall, Enables 2008 Crisis
-*Date: 1999-11-12*
-
-1. [PUBLIC LAW 106-102 - Gramm-Leach-Bliley Act](https://www.govinfo.gov/content/pkg/PLAW-106publ102/pdf/PLAW-106publ102.pdf)
-2. [Financial Services Modernization Act of 1999 (Gramm-Leach-Bliley)](https://www.federalreservehistory.org/essays/gramm-leach-bliley-act)
-3. [Gramm-Leach-Bliley Act](https://www.sourcewatch.org/index.php/Gramm-Leach-Bliley_Act)
-4. [Sen. Phil Gramm - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005709&cycle=2002)
 
 ## Club New York shooting involving Diddy creates kompromat opportunity
 *Date: 1999-12-27*
@@ -8529,14 +8386,6 @@
 2. [Enron Loophole](https://en.wikipedia.org/wiki/Enron_Loophole)
 3. [The Enron Loophole and Oil Futures Trading](https://liberalscumbuster.wordpress.com/2008/08/20/the-enron-loophole-and-oil-futures-trading-and-phil-gramm/)
 4. [Consolidated Appropriations Act for FY2001](https://www.congress.gov/bill/106th-congress/house-bill/4577)
-
-## Commodity Futures Modernization Act Deregulates Derivatives, Creates Enron Loophole
-*Date: 2000-12-21*
-
-1. [Commodity Futures Modernization Act of 2000](https://en.wikipedia.org/wiki/Commodity_Futures_Modernization_Act_of_2000)
-2. [Congress Passes Commodity Futures Modernization Act, CFTC Reauthorized](https://www.cftc.gov/sites/default/files/opa/press00/opa4479-00.htm)
-3. [H.R.4541 - Commodity Futures Modernization Act of 2000](https://www.congress.gov/bill/106th-congress/house-bill/4541)
-4. [Commodity Futures Modernization Act of 2000](https://www.sec.gov/about/laws/cfma.pdf)
 
 ## Clinton Signs Commodity Futures Modernization Act, Cementing Derivatives Deregulation
 *Date: 2000-12-21*
@@ -8958,39 +8807,12 @@
 5. [Report of the International Committee of the Red Cross on the Treatment of Fourteen 'High Value Detainees'](https://assets.documentcloud.org/documents/278885/icrc-report-on-the-treatment-of-fourteen-high.pdf)
 6. [Vice President Defends Harsh Interrogations](https://abcnews.go.com/Nightline/story?id=6287413)
 
-## White House Iraq Group Formation Implements Powell Memo Crisis-Acceleration Model
-*Date: 2002-08-01*
-
-1. [Karl Rove Interview: Formation and Purpose of White House Iraq Group](https://www.npr.org/transcripts/124597241?storyId=124597241)
-2. [White House Iraq Group Overview](https://sourcewatch.org/index.php/White_House_Iraq_Group)
-3. [White House Iraq Group Detailed Chronicle](http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group)
-4. [Shadow Agencies Helped Build Case for War in Iraq](https://www.npr.org/2005/12/01/5035046/shadow-agencies-helped-build-case-for-war-in-iraq)
-5. [Rove's Perspective on White House Iraq Group Formation](https://www.npr.org/transcripts/124597241?storyId=124597241)
-
-## White House Iraq Group Established for Crisis-Driven Institutional Coordination
-*Date: 2002-08-01*
-
-1. [National Security Archive - Iraq Project](https://nsarchive.gwu.edu/project/iraq-project)
-2. [The Iraq Intelligence and War Marketing Strategy](https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/)
-3. [White House Iraq Group Historical Overview](https://en.wikipedia.org/wiki/White_House_Iraq_Group)
-4. [Hard Lessons from the Reconstruction of Iraq](https://www.propublica.org/article/hard-lessons-from-the-reconstruction-of-iraq-1213)
-5. [U.S. House Subcommittee Sets Hearing on Missing War Records](https://www.propublica.org/article/us-house-subcommittee-sets-hearing-on-missing-war-records)
-6. [NPR: Shadow Agencies Helped Build Case for War in Iraq](https://www.npr.org/2005/12/01/5035046/shadow-agencies-helped-build-case-for-war-in-iraq)
-7. [White House Iraq Group: Marketing the War](https://www.pbs.org/wgbh/pages/frontline/shows/truth/)
-
 ## White House Iraq Group Formed to Coordinate WMD Propaganda Campaign
 *Date: 2002-08-01*
 
 1. [Records Could Shed Light on Iraq Group](https://www.washingtonpost.com/wp-dyn/content/article/2008/06/08/AR2008060801819.html)
 2. [The Broader Conspiracy: What We Already Know About the White House Iraq Group](https://thinkprogress.org/the-broader-conspiracy-what-we-already-know-about-the-white-house-iraq-group-e3110605506f/)
 3. [White House Iraq Group](https://sourcewatch.org/index.php/White_House_Iraq_Group)
-
-## White House Iraq Group Formed as Systematic Propaganda Coordination Mechanism
-*Date: 2002-08-01*
-
-1. [White House Iraq Group](https://en.wikipedia.org/wiki/White_House_Iraq_Group)
-2. [White House Iraq Group Profile](https://sourcewatch.org/index.php/White_House_Iraq_Group)
-3. [Karl Rove 'In The Fight' Again With New Memoir](https://www.npr.org/transcripts/124597241?storyId=124597241)
 
 ## Poindexter Announces DARPA Total Information Awareness Program
 *Date: 2002-08-02*
@@ -11167,15 +10989,6 @@
 6. [Campaign Contribution Records Lack Transparency](https://www.propublica.org/article/campaign-contribution-records-are-open-but-hardly-transparent)
 7. [Big Sky, Big Money: How Citizens United Changed Campaign Spending](https://www.pbs.org/wgbh/frontline/article/archives-citizens-united-campaign-spending-documentary/)
 
-## Citizens United Ruling Enables Unlimited Corporate Political Spending
-*Date: 2010-01-21*
-
-1. [Citizens United v. Federal Election Commission](https://www.supremecourt.gov/opinions/09pdf/08-205.pdf)
-2. [Citizens United Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained)
-3. [More money, less transparency - A decade under Citizens United](https://www.opensecrets.org/news/reports/a-decade-under-citizens-united)
-4. [Fifteen Years Later, Citizens United Defined the 2024 Election](https://www.brennancenter.org/our-work/research-reports/fifteen-years-later-citizens-united-defined-2024-election)
-5. [Citizens United v. Federal Election Commission](https://www.oyez.org/cases/2008/08-205)
-
 ## Obama Criticizes Citizens United at State of Union, Alito Responds 'Not True'
 *Date: 2010-01-27*
 
@@ -12239,14 +12052,6 @@
 4. [Reflecting On the 10th Anniversary of Shelby County v. Holder](https://www.justice.gov/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder)
 5. [Shelby County v. Holder](https://www.oyez.org/cases/2012/12-96)
 
-## Supreme Court Guts Voting Rights Act in Shelby County v. Holder Decision
-*Date: 2013-06-25*
-
-1. [Shelby County v. Holder, 570 U.S. 529 (2013)](https://supreme.justia.com/cases/federal/us/570/529/)
-2. [Reflecting On the 10th Anniversary of Shelby County v. Holder](https://www.justice.gov/archives/opa/blog/reflecting-10th-anniversary-shelby-county-v-holder)
-3. [The Effects of Shelby County v. Holder](https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder)
-4. [Shelby County v. Holder](https://www.naacpldf.org/case-issue/shelby-county-v-holder/)
-
 ## ALEC Coordinates 139 Education Privatization Bills Across States - Systematic Public School Defunding Campaign
 *Date: 2013-07-01*
 
@@ -12527,13 +12332,6 @@
 2. [Transcript Of President Obama's Speech On NSA Reforms](https://www.npr.org/sections/itsallpolitics/2014/01/17/263480199/transcript-of-president-obamas-speech-on-nsa-reforms)
 3. [Annotated - The Most Important Passage from President Obama's NSA Speech](https://www.aclu.org/news/national-security/annotated-most-important-passage-president-obamas-nsa-speech)
 4. [Statement on US President Obama's surveillance speech](https://www.hrw.org/news/2014/01/17/statement-us-president-obamas-surveillance-speech)
-
-## Former Virginia Governor Bob McDonnell and Wife Indicted on Federal Corruption Charges
-*Date: 2014-01-21*
-
-1. [Ex-Virginia Gov. McDonnell, Wife Charged With Corruption](https://www.npr.org/sections/thetwo-way/2014/01/21/264574395/ex-virginia-gov-mcdonnell-wife-charged-with-corruption)
-2. [Former Virginia Governor Bob McDonnell and Star Scientific](https://ballotpedia.org/Former_Virginia_Governor_Bob_McDonnell_and_Star_Scientific)
-3. [Bob McDonnell](https://en.wikipedia.org/wiki/Bob_McDonnell)
 
 ## Former Virginia Governor Bob McDonnell and Wife Indicted on Federal Corruption Charges
 *Date: 2014-01-21*
@@ -13464,21 +13262,6 @@
 2. [Panama Papers: How the Investigation Began](https://panamapapers.sueddeutsche.de/articles/56f2b7f8a1bb8d3c3495a196/)
 3. [Panama Papers: Months of Investigations Reveal Global Offshore Secrets](https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore)
 
-## Panama Papers Published
-*Date: 2016-04-03*
-
-1. [The Panama Papers: Exposing the Rogue Offshore Finance Industry](https://www.icij.org/investigations/panama-papers/)
-2. [Panama Papers: Inside the Story of the World's Biggest Data Leak](https://www.theguardian.com/news/2016/apr/03/panama-papers-inside-the-story-of-the-worlds-biggest-data-leak)
-3. [Panama Papers: How Journalists Cracked an Offshore Treasure Trove](https://www.sueddeutsche.de/digital/panama-papers-how-journalists-cracked-an-offshore-treasure-trove-1.2936162)
-
-## Panama Papers Released - Massive Global Financial Scandal Exposed
-*Date: 2016-04-03*
-
-1. [Panama Papers: Exposing the Rogue Offshore Finance Industry](https://www.icij.org/investigations/panama-papers/)
-2. [Panama Papers: How the Investigation Began](https://panamapapers.sueddeutsche.de/articles/56f2b7f8a1bb8d3c3495a196/)
-3. [Panama Papers: Months of Investigations Reveal Global Offshore Secrets](https://www.theguardian.com/news/2016/apr/03/panama-papers-money-hidden-offshore)
-4. [Panama Papers: Global Reaction to Massive Offshore Leak](https://www.bbc.com/news/world-35918844)
-
 ## Dennis Hastert Sentenced to 15 Months, Judge Calls Him 'Serial Child Molester'
 *Date: 2016-04-27*
 
@@ -13570,20 +13353,6 @@
 1. [Who Is Judge Gonzalo Curiel, The Man Trump Attacked For His Mexican Ancestry?](https://www.npr.org/2016/06/07/481140881/who-is-judge-gonzalo-curiel-the-man-trump-attacked-for-his-mexican-ancestry)
 2. [Donald Trump's racial comments about Hispanic judge in Trump University case](https://www.politifact.com/article/2016/jun/08/donald-trumps-racial-comments-about-judge-trump-un/)
 3. [Trump's attacks on Judge Curiel are still jarring to read](https://www.cnn.com/2018/02/27/politics/judge-curiel-trump-border-wall/index.html)
-
-## Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organization Businesses
-*Date: 2016-06-07*
-
-1. [How Donald Trump Shifted Kids-Cancer Charity Money Into His Business](https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/)
-2. [The Verbal Gymnastics Of The Eric Trump Foundation](https://www.forbes.com/sites/danalexander/2016/09/29/the-verbal-gymnastics-of-the-eric-trump-foundation/)
-3. [Eric Trump foundation paid Trump businesses at least $1.2 million for charity golf events](https://www.washingtonpost.com/politics/eric-trump-foundation-paid-trump-businesses-at-least-12-million-for-charity-golf-events-new-filing-shows/2017/06/27/0609c968-5b09-11e7-a9f6-7c3296387341_story.html)
-
-## Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organization Businesses
-*Date: 2016-06-07*
-
-1. [How Donald Trump Shifted Kids-Cancer Charity Money Into His Business](https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/)
-2. [The Verbal Gymnastics Of The Eric Trump Foundation](https://www.forbes.com/sites/danalexander/2016/09/29/the-verbal-gymnastics-of-the-eric-trump-foundation/)
-3. [Eric Trump foundation paid Trump businesses at least $1.2 million for charity golf events](https://www.washingtonpost.com/politics/eric-trump-foundation-paid-trump-businesses-at-least-12-million-for-charity-golf-events-new-filing-shows/2017/06/27/0609c968-5b09-11e7-a9f6-7c3296387341_story.html)
 
 ## Trump Jr. Accepts Meeting Explicitly Framed as "Russia and Its Government's Support"
 *Date: 2016-06-09*
@@ -13785,27 +13554,6 @@
 2. [SEC charges executives at for-profit college ITT with fraud](https://www.washingtonpost.com/business/economy/sec-charges-executives-at-for-profit-college-itt-with-fraud/2015/05/12/d3bb5c24-f8c5-11e4-a13c-193b1241d51a_story.html)
 3. [The Closure of ITT Tech and the Crash-Landing of the For-Profit College Industry](https://www.masu.org/news/accountability/10-10-2016/closure-itt-tech-and-crash-landing-profit-college-industry)
 4. [Closure of for-profit tech college leaves students in the lurch, in debt](https://www.bostonglobe.com/metro/2016/10/20/closure-for-profit-tech-college-leaves-students-lurch-debt/ICKwmkrR0fCNBY8ySlAAwK/story.html)
-
-## ITT Technical Institute Shuts Down All 130 Campuses After SEC Fraud Charges and Federal Aid Cutoff, Stranding 35,000 Students
-*Date: 2016-09-06*
-
-1. [What Former Employees Say ITT Tech Did To Scam Its Students](https://www.npr.org/sections/ed/2016/12/07/502601724/what-former-employees-say-itt-tech-did-to-scam-its-students)
-2. [ITT's top executives settle fraud charges with SEC](https://www.chicagotribune.com/business/ct-biz-itt-tech-fraud-charges-settlement-20180709-story.html)
-3. [ITT Technical Institute](https://en.wikipedia.org/wiki/ITT_Technical_Institute)
-4. [ITT Tech Is Shutting Down All Of Its Campuses](https://www.npr.org/sections/thetwo-way/2016/09/06/492819673/large-for-profit-itt-technical-institutes-will-close-its-doors)
-5. [Information for ITT Technical Institute Students](https://studentaid.gov/announcements-events/itt)
-6. [ITT Technical Institutes suddenly closes its doors, leaving thousands of students scrambling](https://www.pbs.org/newshour/education/ITT-technical-institutes-suddenly-closes-doors)
-7. [Another For-Profit College Chain Closes Its Doors](https://www.pbs.org/wgbh/frontline/article/another-for-profit-college-chain-closes-its-doors/)
-8. [SEC charges executives at for-profit college ITT with fraud](https://www.washingtonpost.com/business/economy/sec-charges-executives-at-for-profit-college-itt-with-fraud/2015/05/12/d3bb5c24-f8c5-11e4-a13c-193b1241d51a_story.html)
-9. [The Closure of ITT Tech and the Crash-Landing of the For-Profit College Industry](https://www.masu.org/news/accountability/10-10-2016/closure-itt-tech-and-crash-landing-profit-college-industry)
-10. [Closure of for-profit tech college leaves students in the lurch, in debt](https://www.bostonglobe.com/metro/2016/10/20/closure-for-profit-tech-college-leaves-students-lurch-debt/ICKwmkrR0fCNBY8ySlAAwK/story.html)
-
-## ITT Tech Closes All 130 Campuses - 35,000 Students Stranded With Worthless Degrees and Non-Dischargeable Debt
-*Date: 2016-09-06*
-
-1. [ITT Tech Is Shutting Down All Of Its Campuses](https://www.npr.org/sections/thetwo-way/2016/09/06/492819673/large-for-profit-itt-technical-institutes-will-close-its-doors)
-2. [Information for ITT Technical Institute Students](https://studentaid.gov/announcements-events/itt)
-3. [ITT Technical Institutes suddenly closes its doors, leaving thousands of students scrambling](https://www.pbs.org/newshour/education/ITT-technical-institutes-suddenly-closes-doors)
 
 ## Wells Fargo Fined $185 Million for Creating 2 Million Fake Accounts
 *Date: 2016-09-08*
@@ -14774,6 +14522,13 @@
 2. [NSA Whistleblower Reality Winner Released From Prison](https://theintercept.com/2021/06/14/reality-winner-released-prison/)
 3. [She warned America that Russia hacked our voting rolls](https://www.inquirer.com/philly/columnists/will_bunch/free-reality-winner-whistleblower-american-hero-20180724.html)
 
+## Eric Trump Foundation Funneled Cancer Charity Donations to Trump Organization Businesses
+*Date: 2017-06-06*
+
+1. [How Donald Trump Shifted Kids-Cancer Charity Money Into His Business](https://www.forbes.com/sites/danalexander/2017/06/06/how-donald-trump-shifted-kids-cancer-charity-money-into-his-business/)
+2. [The Verbal Gymnastics Of The Eric Trump Foundation](https://www.forbes.com/sites/danalexander/2016/09/29/the-verbal-gymnastics-of-the-eric-trump-foundation/)
+3. [Eric Trump foundation paid Trump businesses at least $1.2 million for charity golf events](https://www.washingtonpost.com/politics/eric-trump-foundation-paid-trump-businesses-at-least-12-million-for-charity-golf-events-new-filing-shows/2017/06/27/0609c968-5b09-11e7-a9f6-7c3296387341_story.html)
+
 ## Kansas Legislature Overrides Brownback Veto to Repeal Failed Tax Cuts - Republican-Controlled Legislature Rejects Supply-Side Economics After Devastating 5-Year Experiment
 *Date: 2017-06-06*
 
@@ -15073,13 +14828,6 @@
 1. [Paradise Papers: Secrets of the Global Elite](https://www.icij.org/investigations/paradise-papers/)
 2. [Paradise Papers](https://en.wikipedia.org/wiki/Paradise_Papers)
 3. [Paradise Papers reveal offshore accounts of world's wealthy](https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy)
-
-## Paradise Papers Reveal Further Offshore Tax Avoidance
-*Date: 2017-11-05*
-
-1. [Paradise Papers: Secrets of the Global Elite](https://www.icij.org/investigations/paradise-papers/)
-2. [Paradise Papers Investigation](https://offshoreleaks.icij.org/investigations/paradise-papers)
-3. [Paradise Papers Reveal Offshore Accounts of World's Wealthy](https://www.pbs.org/newshour/world/paradise-papers-reveal-offshore-accounts-of-worlds-wealthy)
 
 ## Paradise Papers Reveal Commerce Secretary Ross Concealed Stake in Russian-Linked Shipping Company
 *Date: 2017-11-05*
@@ -16038,14 +15786,6 @@
 2. [Talk of 'invasion' moves from the fringe to the mainstream of GOP immigration message](https://www.npr.org/2022/08/03/1115175247/talk-of-invasion-moves-from-the-fringe-to-the-mainstream-of-gop-immigration-mess)
 3. [How Trump is relying on a racist conspiracy theory to question election results](https://www.npr.org/2024/09/13/g-s1-22583/trump-great-replacement-conspiracy-theory)
 4. [Immigration 'Invasion' Rhetoric Has a Long, Ugly History](https://www.boundless.com/blog/illegal-immigration-is-not-an-invasion)
-
-## Trump Calls Saudi Khashoggi Explanation "Worst Cover-Up Ever" But Signals He Won't Hold MBS Accountable
-*Date: 2018-10-23*
-
-1. [Trump says Saudi operation that killed Khashoggi 'very bad' concept 'carried out poorly'](https://www.pbs.org/newshour/world/trump-saudi-operation-that-killed-khashoggi-very-bad-concept-carried-out-poorly)
-2. [Trump: Saudi handling of Khashoggi killing 'worst cover-up ever'](https://www.aljazeera.com/news/2018/10/24/trump-saudi-handling-of-khashoggi-killing-worst-cover-up-ever)
-3. [Trump calls aftermath of Khashoggi killing 'worst cover-up ever'](https://www.nbcnews.com/politics/politics-news/trump-calls-khashoggi-killing-worst-cover-ever-n923591)
-4. [Trump says Khashoggi killing was one of the worst cover-ups in the history of cover-ups](https://www.businessinsider.nl/trump-khashoggi-killing-worst-cover-up-saudi-arabia-2018-10/)
 
 ## Trump Calls Saudi Khashoggi Explanation "Worst Cover-Up Ever" But Signals He Won't Hold MBS Accountable
 *Date: 2018-10-23*
@@ -17265,13 +17005,6 @@
 1. [Pelosi Statement on Transmission of Articles of Impeachment](https://www.speaker.gov/newsroom/11620)
 2. [Senate Receives Articles of Impeachment](https://www.congress.gov/congressional-record/2020/01/15/senate-section/article/S242-2)
 3. [House Transmits Articles of Impeachment to Senate](https://www.c-span.org/video/?468203-1/house-transmits-articles-impeachment-senate)
-
-## Rep. Chris Collins Sentenced to 26 Months for Insider Trading From White House Lawn
-*Date: 2020-01-17*
-
-1. [Former Congressman Christopher Collins Sentenced For Insider Trading Scheme And Lying To Federal Law Enforcement Agents](https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying)
-2. [Ex-New York congressman Chris Collins sentenced to 26 months for insider-trading tip to son](https://www.cnbc.com/2020/01/17/chris-collins-sentenced-to-26-months-for-insider-trading-tip.html)
-3. [Former Rep. Chris Collins sentenced to just over two years in federal prison](https://rollcall.com/2020/01/17/former-rep-chris-collins-sentenced-to-just-over-two-years-in-federal-prison/)
 
 ## Rep. Chris Collins Sentenced to 26 Months for Insider Trading From White House Lawn
 *Date: 2020-01-17*
@@ -18792,15 +18525,6 @@
 2. [Pandora Papers: Biggest Ever Leak of Offshore Data Exposes Financial Secrets of Rich and Powerful](https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful)
 3. [Pandora Papers: World Leaders' Offshore Secrets Revealed](https://www.bbc.com/news/world-58780561)
 4. [Pandora Papers: Massive Leak Reveals Hidden Wealth of Global Elite](https://www.washingtonpost.com/business/interactive/2021/pandora-papers-global-offshore/)
-
-## Pandora Papers Expose Hidden Wealth of Global Elite and Politicians
-*Date: 2021-10-03*
-
-1. [The Pandora Papers Investigation](https://www.icij.org/investigations/pandora-papers/)
-2. [Pandora Papers: Biggest ever leak of offshore data exposes financial secrets of rich and powerful](https://www.bbc.com/news/world-58780561)
-3. [Pandora papers reveal hidden wealth and tax avoidance of world's rich and powerful](https://www.theguardian.com/news/2021/oct/03/pandora-papers-reveal-hidden-wealth-of-world-leaders)
-4. [The Pandora Papers: How the world of offshore finance is still flourishing](https://www.washingtonpost.com/world/interactive/2021/pandora-papers-offshore-finance/)
-5. [Academic Analysis: The Pandora Papers and Global Financial Transparency](https://www.brookings.edu/research/the-pandora-papers-and-global-efforts-to-curb-illicit-finance/)
 
 ## Frances Haugen Senate Testimony Exposes Facebook Algorithmic Harm to Children and Democracy
 *Date: 2021-10-05*
@@ -20327,30 +20051,6 @@
 2. [Musk's xAI Launches Grok, Challenging Mainstream AI Safety Practices](https://www.nbcnews.com/tech/elon-musk/grok-elon-musks-ai-chatbot-seems-get-right-wing-update-rcna217306)
 3. [Researchers Raise Concerns About Grok's Safety Approach](https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/)
 
-## xAI Launches Grok: Musk's Unfiltered AI Chatbot Competitor
-*Date: 2023-11-04*
-
-1. [Musk's xAI Debuts Grok AI Bot to Rival ChatGPT With Real-Time Twitter/X Data](https://www.bloomberg.com/news/articles/2023-11-06/musk-s-grok-ai-bot-aims-to-rival-chatgpt-with-real-time-x-data)
-2. [Elon Musk launches Grok by xAI to rival OpenAI's ChatGPT](https://www.cbsnews.com/tech/elon-musk-launches-grok-by-xai-to-rival-openai-chatgpt/)
-3. [Elon Musk launches Grok by xAI to rival OpenAI's ChatGPT](https://fortune.com/2023/11/06/grok-elon-musk-artificial-intelligence-bot-xai/)
-4. [Elon Musk launches Grok, a new xAI chatbot to rival ChatGPT](https://www.axios.com/2023/11/06/grok-elon-musk-ai-xai)
-
-## xAI Launches Grok Chatbot with Controversial Design
-*Date: 2023-11-04*
-
-1. [xAI Launches Grok AI Chatbot](https://www.reuters.com/technology/elon-musks-xai-launches-grok-chatbot-challenging-openai-chatgpt-2023-11-04/)
-2. [Elon Musk debuts 'Grok' AI bot to rival ChatGPT, others](https://www.cnbc.com/2023/11/05/elon-musk-debuts-grok-ai-bot-to-rival-chatgpt-others-.html)
-3. [Elon Musk launches Grok by xAI to rival OpenAI's ChatGPT](https://fortune.com/2023/11/06/grok-elon-musk-artificial-intelligence-bot-xai/)
-
-## xAI Launches Grok: Immediate Safety Concerns Emerge
-*Date: 2023-11-04*
-
-1. [Grok: What We Know About Elon Musk's AI Chatbot](https://builtin.com/articles/grok)
-2. [XAI | Elon Musk, Artificial Intelligence, X, Grok, Integrations, & Criticism](https://www.britannica.com/money/xAI)
-3. [Elon Musk debuts 'Grok' AI bot to rival ChatGPT, others](https://www.cnbc.com/2023/11/05/elon-musk-debuts-grok-ai-bot-to-rival-chatgpt-others-.html)
-4. [Musk's xAI releases Grok-3, touting a new rival to OpenAI and DeepSeek](https://www.nbcnews.com/tech/tech-news/musk-xai-releases-grok-3-rcna192670)
-5. [Researchers Say xAI Is Skipping Key AI Safety Protocols](https://autogpt.net/ai-experts-slam-xai-for-ignoring-safety-standards/)
-
 ## Trump Takes Stand in NY Fraud Trial, Delivers Combative Testimony Calling Case "Witch Hunt"
 *Date: 2023-11-06*
 
@@ -20785,6 +20485,12 @@
 1. [Justice Department Sues Apple for Monopolizing Smartphone Markets](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets)
 2. [DOJ sues Apple over iPhone monopoly in landmark antitrust case](https://www.cnbc.com/amp/2024/03/21/doj-sues-apple-over-iphone-monopoly.html)
 3. [A look at the DOJ's lawsuit against Apple for violating antitrust laws](https://www.npr.org/2024/09/20/nx-s1-5119948/a-look-at-the-dojs-lawsuit-against-apple-for-violating-antitrust-laws)
+
+## Candace Owens Fired from Daily Wire After Antisemitism Controversy
+*Date: 2024-03-22*
+
+1. [Candace Owens and Daily Wire Part Ways After Antisemitism Accusations](https://www.nytimes.com/2024/03/22/business/media/candace-owens-daily-wire.html)
+2. [Daily Wire Cuts Ties with Candace Owens](https://www.thewrap.com/candace-owens-daily-wire-part-ways/)
 
 ## Irish Data Protection Commission Launches Grok AI Regulatory Investigation
 *Date: 2024-03-22*
@@ -27081,6 +26787,11 @@
 3. [EPA moves to repeal finding that underpins current limits on greenhouse gas pollution](https://www.nbcnews.com/news/us-news/epa-moves-repeal-finding-underpins-current-limits-greenhouse-gas-pollu-rcna221738)
 4. [Trump EPA proposes revoking pollution limits based in part on document authored by 5 climate contrarians](https://www.cnn.com/2025/07/29/climate/trump-epa-endangerment-finding)
 
+## Marjorie Taylor Greene Calls Gaza "Genocide" - First GOP Lawmaker to Use Term
+*Date: 2025-07-29*
+
+1. [Greene Breaks with GOP on Gaza]()
+
 ## Senate Committee Advances Bill Banning Congressional Stock Trading
 *Date: 2025-07-30*
 
@@ -28423,6 +28134,11 @@
 
 1. [U.S. attorney resigns under pressure from Trump to charge N.Y. AG Letitia James](https://www.npr.org/2025/09/20/nx-s1-5547837/us-attorney-virginia-resigns-letitia-james-probe)
 2. [NY's top federal prosecutor, several DOJ officials resign over Mayor Eric Adams' case](https://abcnews.go.com/Politics/new-yorks-top-federal-prosecutor-steps-amid-tension/story?id=118796725)
+
+## Charlie Kirk Memorial Service - Trump and Musk Publicly Reconcile
+*Date: 2025-09-21*
+
+1. [Trump and Musk Appear Together at Kirk Memorial]()
 
 ## Trump Installs Personal Lawyer Lindsey Halligan as U.S. Attorney After Prosecutor Refuses Political Indictments
 *Date: 2025-09-22*
@@ -29802,6 +29518,12 @@
 1. [Trump calls Democratic lawmakers' message to military 'seditious,' says it's punishable by death](https://www.npr.org/2025/11/20/nx-s1-5615190/trump-democrats-military-video-seditious)
 2. [Trump accuses Democrats of 'seditious behavior, punishable by death,' for urging military to ignore illegal orders](https://www.nbcnews.com/politics/white-house/trump-democrats-death-penalty-sedition-military-orders-rcna245003)
 
+## Epstein Files Transparency Act Passes House 427-1 After Discharge Petition
+*Date: 2025-11-18*
+
+1. [Epstein Files Transparency Act](https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act)
+2. [Ro Khanna explains how he helped engineer the vote that ripped MAGA apart](https://www.cnn.com/2025/11/19/politics/epstein-files-ro-khanna)
+
 ## House Votes 427-1 to Force Release of Epstein Files, Rebuking Trump's Opposition
 *Date: 2025-11-18*
 
@@ -30647,6 +30369,12 @@
 2. [US Veterans Affairs agency plans as many as 35000 health-care job cuts this month](https://www.cnbc.com/2025/12/13/trump-us-veterans-affairs-plans-job-cuts-washington-post.html)
 3. [Blumenthal Senators Demand Answers on Trump VAs Plan to Eliminate Tens of Thousands of Health Care Jobs](https://www.veterans.senate.gov/2025/12/blumenthal-senators-demand-answers-on-trump-va-s-plan-to-eliminate-tens-of-thousands-of-health-care-jobs)
 
+## Federal Workers Collective Bargaining Bill Passes via Discharge Petition 231-195
+*Date: 2025-12-15*
+
+1. [Federal workers collective bargaining bill passes via discharge petition](https://www.govexec.com/workforce/2025/12/federal-workers-collective-bargaining-discharge-petition/)
+2. [Don Bacon says he signed discharge petition for the presidents own good](https://nebraskaexaminer.com/2025/12/bacon-discharge-petition-president/)
+
 ## Seven Die in ICE Custody in December, Four Within Four Days, Deadliest Year Since 2004
 *Date: 2025-12-15*
 
@@ -30887,6 +30615,11 @@
 
 1. [DOJ says it has found over a million additional documents potentially related to Epstein](https://www.cnn.com/2025/12/24/politics/epstein-documents-doj-million)
 
+## H-1B Civil War Peaks - Musk vs Bannon/Loomer on Immigration Policy
+*Date: 2025-12-24*
+
+1. [MAGA Factions Clash Over H-1B Visa Policy]()
+
 ## Trump Declares Support for Rate Cuts 'Litmus Test' for Fed Chair Nominees
 *Date: 2025-12-24*
 
@@ -31042,12 +30775,6 @@
 2. [Maduro in US custody after Venezuela operation](https://www.cnn.com/world/live-news/venezuela-explosions-caracas-intl-hnk-01-03-26)
 3. [How the U.S. captured Maduro in Venezuela](https://www.nbcnews.com/politics/donald-trump/us-venezuela-strike-nicolas-maduro-captured-how-timeline-trump-rcna252041)
 4. [World reacts to US bombing of Venezuela](https://www.aljazeera.com/news/2026/1/3/world-reacts-to-reported-us-bombing-of-venezuela)
-
-## US Military Strikes Venezuela, Captures Maduro in Unprecedented Regime Change Operation
-*Date: 2026-01-03*
-
-1. ['We are going to run the country,' Trump says after strike on Venezuela](https://www.npr.org/2026/01/03/g-s1-104329/explosions-caracas-venezuela)
-2. [US captures Maduro, carries out 'large scale strike' in Venezuela: Trump](https://abcnews.go.com/International/explosions-heard-venezuelas-capital-city-caracas/story?id=128861598)
 
 ## Trump Declares US Will 'Run' Venezuela After Military Invasion
 *Date: 2026-01-04*
@@ -31265,6 +30992,11 @@
 1. [Trump says US will take Greenland 'the hard way' if necessary](https://www.cnn.com/2026/01/10/politics/us-will-take-greenland-the-hard-way-if-it-cant-do-it-the-easy-way-trump-says)
 2. [Greenland's party leaders reject Trump's acquisition push](https://www.cbsnews.com/news/greenland-trump-reject-acquisition-dont-want-to-be-americans/)
 
+## ACA Subsidy Extension Passes House via Discharge Petition 230-196
+*Date: 2026-01-10*
+
+1. [House passes bill to extend ACA subsidies with bipartisan support](https://thehill.com/policy/healthcare/5089543-house-aca-subsidies-discharge-petition/)
+
 ## DOJ Serves Fed Chair Powell with Grand Jury Subpoena in Unprecedented Criminal Investigation
 *Date: 2026-01-10*
 
@@ -31304,6 +31036,13 @@
 1. [Personal information of 4,500 ICE and Border Patrol agents is leaked online](https://ca.news.yahoo.com/personal-information-4-500-ice-235209388.html)
 2. [Personal Details of Thousands of Border Patrol and ICE Agents Allegedly Leaked in Huge Data Breach](https://www.thedailybeast.com/personal-details-of-thousands-of-border-patrol-and-ice-goons-allegedly-leaked-in-huge-data-breach/)
 3. [ICE agents personal information leak doxxed](https://www.the-independent.com/news/world/americas/us-politics/ice-agents-personal-information-leak-doxxed-b2899973.html)
+
+## DOJ Civil Rights Division Leaders Mass Resign Over Refusal to Investigate Renee Good Killing
+*Date: 2026-01-13*
+
+1. [Minnesota federal prosecutors resign after DOJ push to investigate Renee Good's widow](https://www.npr.org/2026/01/13/nx-s1-5676123/minnesota-federal-prosecutors-resign-after-doj-push-to-investigate-renee-goods-widow)
+2. [Trump administration efforts to shift blame for ICE shooting wreak havoc on Minnesota US attorney's office](https://www.cnn.com/2026/01/13/politics/resignations-minnesota-prosecutors-trump-ice-shooting)
+3. [Four Top DOJ Officials Resign over Decision Not to Probe ICE Killing of Renee Good](https://www.democracynow.org/2026/1/13/headlines/four_top_doj_officials_resign_over_decision_not_to_probe_ice_killing_of_renee_good)
 
 ## Internal Documents Reveal ICE Agents Afraid of Minneapolis Deployment After Good Shooting
 *Date: 2026-01-13*
