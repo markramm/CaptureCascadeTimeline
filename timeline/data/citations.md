@@ -30945,6 +30945,13 @@
 
 1. [Tillis statement on Federal Reserve nominations](https://www.tillis.senate.gov/2026/1/tillis-statement-on-federal-reserve-nominations)
 
+## DHS Whistleblower Leaks Personal Data of 4,500 ICE and Border Patrol Agents
+*Date: 2026-01-13*
+
+1. [Personal information of 4,500 ICE and Border Patrol agents is leaked online](https://ca.news.yahoo.com/personal-information-4-500-ice-235209388.html)
+2. [Personal Details of Thousands of Border Patrol and ICE Agents Allegedly Leaked in Huge Data Breach](https://www.thedailybeast.com/personal-details-of-thousands-of-border-patrol-and-ice-goons-allegedly-leaked-in-huge-data-breach/)
+3. [ICE agents personal information leak doxxed](https://www.the-independent.com/news/world/americas/us-politics/ice-agents-personal-information-leak-doxxed-b2899973.html)
+
 ## Internal Documents Reveal ICE Agents Afraid of Minneapolis Deployment After Good Shooting
 *Date: 2026-01-13*
 

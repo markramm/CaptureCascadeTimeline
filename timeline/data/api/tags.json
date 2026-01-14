@@ -308,6 +308,10 @@
     "count": 35
   },
   {
+    "name": "whistleblower",
+    "count": 35
+  },
+  {
     "name": "mckinsey",
     "count": 35
   },
@@ -329,10 +333,6 @@
   },
   {
     "name": "pharmaceutical-industry",
-    "count": 34
-  },
-  {
-    "name": "whistleblower",
     "count": 34
   },
   {
@@ -1384,6 +1384,10 @@
     "count": 12
   },
   {
+    "name": "data-breach",
+    "count": 12
+  },
+  {
     "name": "crony-capitalism",
     "count": 12
   },
@@ -1552,10 +1556,6 @@
     "count": 11
   },
   {
-    "name": "data-breach",
-    "count": 11
-  },
-  {
     "name": "georgia",
     "count": 11
   },
@@ -1577,6 +1577,10 @@
   },
   {
     "name": "military-operations",
+    "count": 11
+  },
+  {
+    "name": "operation-metro-surge",
     "count": 11
   },
   {
@@ -1748,7 +1752,7 @@
     "count": 10
   },
   {
-    "name": "operation-metro-surge",
+    "name": "2026-cascade",
     "count": 10
   },
   {
@@ -1929,10 +1933,6 @@
   },
   {
     "name": "minneapolis",
-    "count": 9
-  },
-  {
-    "name": "2026-cascade",
     "count": 9
   },
   {
@@ -25669,6 +25669,10 @@
   },
   {
     "name": "native-americans",
+    "count": 1
+  },
+  {
+    "name": "ice-accountability",
     "count": 1
   },
   {
