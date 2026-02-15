@@ -3,6 +3,7 @@ id: 2021-07-27--daniel-hale-sentenced-drone-whistleblower
 date: 2021-07-27
 title: Daniel Hale Sentenced to 45 Months for Exposing Drone War Crimes
 importance: 8
+status: confirmed
 actors:
 - Daniel Hale
 - NSA

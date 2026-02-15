@@ -3,6 +3,7 @@ id: 2020-02-20--stone-sentencing-controversy
 date: 2020-02-20
 title: DOJ Overrules Prosecutors' Roger Stone Sentencing Recommendation After Trump Tweet
 importance: 8
+status: confirmed
 tags:
 - doj corruption
 - mueller investigation

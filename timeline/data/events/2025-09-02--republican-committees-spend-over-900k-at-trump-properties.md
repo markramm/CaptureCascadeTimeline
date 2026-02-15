@@ -19,6 +19,7 @@ sources:
   date: '2025-09-02'
   tier: 2
   outlet: NOTUS
+status: confirmed
 actors:
 - Donald Trump
 - Republican National Committee

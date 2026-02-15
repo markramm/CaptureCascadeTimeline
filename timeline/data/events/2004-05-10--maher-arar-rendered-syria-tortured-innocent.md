@@ -3,6 +3,7 @@ id: 2004-05-10--maher-arar-rendered-syria-tortured-innocent
 date: '2004-05-10'
 title: Canada Concludes Maher Arar Wrongly Rendered to Syria for Torture Based on False Intelligence
 importance: 8
+status: confirmed
 actors:
 - Maher Arar
 - CIA

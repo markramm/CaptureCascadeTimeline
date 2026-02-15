@@ -2,6 +2,7 @@
 id: 2018-02-16--mueller-indicts-13-russians-ira
 date: 2018-02-16
 title: Mueller Indicts 13 Russians and Internet Research Agency for Election Interference
+status: confirmed
 importance: 9
 tags:
 - mueller investigation

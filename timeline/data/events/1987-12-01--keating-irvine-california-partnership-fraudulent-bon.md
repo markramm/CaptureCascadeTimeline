@@ -3,6 +3,7 @@ id: 1987-12-01--keating-irvine-california-partnership-fraudulent-bon
 date: '1987-12-01'
 title: Keating Lincoln Savings Irvine Fraudulent Bond Scheme
 importance: 8
+status: confirmed
 tags:
 - financial-fraud
 - savings-and-loan-crisis

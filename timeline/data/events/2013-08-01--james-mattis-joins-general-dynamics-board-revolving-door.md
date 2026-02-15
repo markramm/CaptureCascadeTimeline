@@ -3,6 +3,7 @@ id: 2013-08-01--james-mattis-joins-general-dynamics-board-revolving-door
 date: '2013-08-01'
 title: Retired General James Mattis Joins General Dynamics Board Five Months After Marine Corps Retirement
 importance: 8
+status: confirmed
 tags:
 - revolving-door
 - defense-contractors

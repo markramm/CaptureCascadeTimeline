@@ -2,6 +2,7 @@
 id: 2018-03-01--ben-carson-dining-room-furniture-scandal
 date: 2018-03-01
 title: HUD Secretary Ben Carson Spends $31,000 in Taxpayer Funds on Dining Room Furniture, Violates Federal Law
+status: confirmed
 importance: 7
 tags:
 - cabinet corruption

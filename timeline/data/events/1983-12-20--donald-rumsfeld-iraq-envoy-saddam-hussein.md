@@ -3,6 +3,7 @@ id: 1983-12-20--donald-rumsfeld-iraq-envoy-saddam-hussein
 date: 1983-12-20
 title: Donald Rumsfeld Meets Saddam Hussein as Reagan Special Envoy to Iraq
 importance: 8
+status: confirmed
 tags:
 - foreign-policy
 - iraq

@@ -12,6 +12,7 @@ tags:
 actors:
 - North Carolina General Assembly
 - Republican Party
+status: confirmed
 sources:
 - url: https://www.pbs.org/wgbh/frontline/article/court-north-carolina-voter-id-law-targeted-black-voters/
   title: 'Court: North Carolina Voter ID Law Targeted Black Voters'

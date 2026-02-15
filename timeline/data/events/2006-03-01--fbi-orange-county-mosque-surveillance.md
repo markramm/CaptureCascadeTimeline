@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-03-01--fbi-orange-county-mosque-surveillance
 date: 2006-03-01
 title: FBI Infiltrates Orange County Mosques with Informant in Dragnet Surveillance

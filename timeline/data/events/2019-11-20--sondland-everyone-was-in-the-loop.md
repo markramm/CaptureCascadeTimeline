@@ -3,6 +3,7 @@ id: 2019-11-20--sondland-everyone-was-in-the-loop
 date: 2019-11-20
 title: Sondland Testifies - "Was There a Quid Pro Quo? The Answer Is Yes. Everyone Was in the Loop."
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - ukraine

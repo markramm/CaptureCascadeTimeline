@@ -3,6 +3,7 @@ id: 2021-02-05--robinhood-dtcc-collateral-waiver-undisclosed-regulat
 date: '2021-02-05'
 title: Robinhood DTCC Collateral Waiver Revealed in GameStop Short Squeeze Fallout
 importance: 9
+status: confirmed
 tags:
 - financial-regulation
 - robinhood

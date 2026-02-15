@@ -5,7 +5,7 @@ title: Trump Air Force nominee arranged satellite contract in manner that favore
   Musk's SpaceX
 description: Air Force Secretary nominee allegedly structured NRO satellite contract
   to favor SpaceX
-status: reported
+status: confirmed
 importance: 8
 location: Washington, D.C.
 actors:

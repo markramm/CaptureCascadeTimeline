@@ -3,6 +3,7 @@ id: 2004-07-07--ken-lay-indicted-enron-fraud-conspiracy
 date: 2004-07-07
 title: Enron Founder Ken Lay Indicted on 11 Counts of Fraud and Conspiracy
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - enron

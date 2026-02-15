@@ -1,6 +1,7 @@
 ---
 id: 1981-08-03--reagan-fires-patco-air-traffic-controllers-union-busting
 date: '1981-08-03'
+status: confirmed
 title: 'Reagan Fires PATCO Strikers: Union-Busting Era Begins'
 importance: 9
 location: Washington, DC

@@ -3,6 +3,7 @@ id: 1995-01-01--alec-truth-in-sentencing-act-private-prison-model
 date: '1995-01-01'
 title: ALEC Criminal Justice Task Force Promotes Truth-in-Sentencing Model Legislation Written by Private Prison Industry
 importance: 9
+status: confirmed
 actors:
 - ALEC
 - Corrections Corporation of America (CCA)

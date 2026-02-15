@@ -3,6 +3,7 @@ id: 2021-01-28--raytheon-ceo-hayes-peace-not-breaking-out-middle-east
 date: '2021-01-28'
 title: Raytheon CEO Hayes Tells Investors "Peace Not Going to Break Out" in Middle East, Sees Solid Growth
 importance: 8
+status: confirmed
 tags:
 - raytheon
 - war-profiteering

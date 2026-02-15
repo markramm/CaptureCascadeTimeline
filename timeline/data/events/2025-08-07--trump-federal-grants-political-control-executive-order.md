@@ -3,6 +3,7 @@ id: 2025-08-07--trump-federal-grants-political-control-executive-order
 date: '2025-08-07'
 title: Trump Executive Order Places Federal Grants Under Political Appointee Control
 importance: 8
+status: confirmed
 actors:
 - Donald Trump
 - White House

@@ -12,6 +12,7 @@ actors:
 - Jeff Bezos
 - Donald Graham
 - Washington Post Company
+status: confirmed
 sources:
 - url: https://abcnews.go.com/Business/washington-post-newspaper-sold-amazon-ceo-jeffrey-bezos/story?id=19875877
   title: Amazon CEO, Founder Buys The Washington Post Newspaper for $250 Million

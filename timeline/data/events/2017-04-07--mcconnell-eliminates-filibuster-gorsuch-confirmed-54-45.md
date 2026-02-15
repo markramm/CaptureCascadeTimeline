@@ -3,6 +3,7 @@ id: 2017-04-07--mcconnell-eliminates-filibuster-gorsuch-confirmed-54-45
 date: '2017-04-07'
 title: McConnell Invokes Nuclear Option, Eliminates Filibuster for Supreme Court Nominees, Gorsuch Confirmed 54-45
 importance: 9
+status: confirmed
 tags:
 - supreme court
 - judicial appointments

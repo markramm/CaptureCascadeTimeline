@@ -35,6 +35,7 @@ sources:
   date: '2025-10-01'
   tier: 1
   outlet: CBS News
+status: confirmed
 ---
 
 Pope Leo XIV delivered a powerful critique of American political hypocrisy on October 1, 2025, declaring that support for harsh immigration enforcement is fundamentally incompatible with pro-life values. Speaking in the context of the controversy surrounding Senator Dick Durbin receiving an award from a Catholic university despite his abortion rights stance, the Pope made a broader moral argument: "Someone who says I'm against abortion but is in favor of the death penalty is not really pro-life," and more pointedly, "someone who says I'm against abortion but I'm in agreement with the inhuman treatment of immigrants in the United States, I don't know if that's pro-life."

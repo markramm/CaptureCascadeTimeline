@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-05-25--ken-lay-jeffrey-skilling-convicted-enron-fraud
 date: 2006-05-25
 title: Ken Lay and Jeffrey Skilling Convicted of Enron Fraud and Conspiracy

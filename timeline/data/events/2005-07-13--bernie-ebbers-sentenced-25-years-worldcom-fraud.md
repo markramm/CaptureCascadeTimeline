@@ -3,6 +3,7 @@ id: 2005-07-13--bernie-ebbers-sentenced-25-years-worldcom-fraud
 date: 2005-07-13
 title: WorldCom CEO Bernard Ebbers Sentenced to 25 Years in Prison
 importance: 10
+status: confirmed
 tags:
 - corporate-fraud
 - worldcom

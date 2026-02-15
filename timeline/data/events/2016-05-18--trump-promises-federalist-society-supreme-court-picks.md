@@ -2,6 +2,7 @@
 id: 2016-05-18--trump-promises-federalist-society-supreme-court-picks
 date: '2016-05-18'
 title: Trump Promises All Supreme Court Picks Will Come From Federalist Society
+status: confirmed
 importance: 10
 sources:
 - outlet: Harvard Gazette

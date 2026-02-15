@@ -3,6 +3,7 @@ id: 2022-12-12--sam-bankman-fried-arrested-charged
 date: '2022-12-12'
 title: FTX Founder Sam Bankman-Fried Arrested, Charged with Campaign Finance Violations and $8 Billion Fraud
 importance: 10
+status: confirmed
 actors:
 - Sam Bankman-Fried
 - FTX

@@ -3,6 +3,7 @@ id: 2021-02-04--biden-pauses-raytheon-saudi-paveway-arms-sales
 date: '2021-02-04'
 title: Biden Administration Pauses $760 Million Raytheon and Boeing Arms Sales to Saudi Arabia Over Yemen
 importance: 9
+status: confirmed
 tags:
 - biden
 - raytheon

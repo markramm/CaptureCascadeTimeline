@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-12-18--trent-lott-lobbying-ethics-evasion
 date: '2007-12-18'
 title: Trent Lott Resigns from Senate to Evade New Lobbying Ethics Law

@@ -3,6 +3,7 @@ id: 2013-12-23--wells-fargo-flagged-but-not-sanctioned
 date: '2013-12-23'
 title: Wells Fargo Sales Practices Investigation Begins
 importance: 8
+status: confirmed
 tags:
 - corporate-fraud
 - banking-regulation

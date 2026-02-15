@@ -56,7 +56,7 @@ patterns:
 - systematic-discrimination
 notes: Implementing Project 2025 recommendation despite 14th Amendment's clear language.
   Represents a direct assault on established constitutional citizenship principles.
-status: contested
+status: confirmed
 legal_status:
   initial_order: Signed January 20, 2025
   preliminary_injunctions: Multiple federal judges blocked implementation

@@ -3,6 +3,7 @@ id: 2010-01-01--donorstrust-organizational-profile-dark-money-atm
 date: '2010-01-01'
 title: 'DonorsTrust Organizational Profile: Dark Money ATM Enabling Anonymous Billionaire Political Spending'
 importance: 9
+status: confirmed
 actors:
 - DonorsTrust
 - Donors Capital Fund

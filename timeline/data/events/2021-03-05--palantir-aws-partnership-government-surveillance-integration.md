@@ -3,6 +3,7 @@ id: 2021-03-05--palantir-aws-partnership-government-surveillance-integration
 date: 2021-03-05
 title: Palantir and AWS Formalize Strategic Partnership for Government Data Analytics
 importance: 8
+status: confirmed
 actors:
 - Palantir Technologies
 - Amazon Web Services

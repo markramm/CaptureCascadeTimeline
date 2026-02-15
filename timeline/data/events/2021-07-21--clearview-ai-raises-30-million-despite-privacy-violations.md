@@ -3,6 +3,7 @@ id: 2021-07-21--clearview-ai-raises-30-million-despite-privacy-violations
 date: '2021-07-21'
 title: Clearview AI Raises $30 Million Series B Funding Despite Widespread Privacy Violations
 importance: 7
+status: confirmed
 tags:
 - surveillance-state
 - tech-oligarchy

@@ -3,6 +3,7 @@ id: 2020-11-03--judge-sullivan-orders-usps-ballot-sweeps-dejoy-defies
 date: 2020-11-03
 title: Judge Sullivan Orders Emergency USPS Ballot Sweeps, DeJoy Initially Defies Court Order
 importance: 9
+status: confirmed
 tags:
 - election interference
 - usps

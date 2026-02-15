@@ -3,6 +3,7 @@ id: 2024-03-25--google-violates-ai-safety-commitments-with-gemini
 date: '2024-03-25'
 title: UK Lawmakers Accuse Google of Breaking AI Safety Pledge with Gemini 2.5 Pro Release
 importance: 8
+status: confirmed
 actors:
 - Google DeepMind
 - Baroness Beeban Kidron

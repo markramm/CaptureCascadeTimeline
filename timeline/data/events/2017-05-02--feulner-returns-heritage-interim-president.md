@@ -42,6 +42,7 @@ summary: 'Ed Feulner, who had retired as Heritage Foundation president in 2013 a
 
   '
 importance: 7
+status: confirmed
 actors:
 - Edwin Feulner
 - Jim DeMint

@@ -1,6 +1,7 @@
 ---
 id: 1981-01-01--reagan-environmental-deregulation-agenda-begins
 date: '1981-01-01'
+status: confirmed
 title: 'Reagan Environmental Deregulation: Systematic Dismantling of Protections'
 importance: 8
 location: Washington, DC

@@ -3,6 +3,7 @@ id: 2025-08-05--doj-investigation-adam-schiff-mortgage-fraud
 date: '2025-08-05'
 title: DOJ Launches Mortgage Fraud Investigation Targeting Senator Adam Schiff
 importance: 9
+status: confirmed
 actors:
 - Department of Justice
 - Adam Schiff

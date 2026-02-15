@@ -3,6 +3,7 @@ id: 2021-06-03--fbi-investigates-dejoy-campaign-finance-straw-donor-scheme
 date: 2021-06-03
 title: FBI Investigates DeJoy Over Alleged Straw Donor Campaign Finance Scheme
 importance: 8
+status: confirmed
 tags:
 - campaign finance
 - fbi investigation

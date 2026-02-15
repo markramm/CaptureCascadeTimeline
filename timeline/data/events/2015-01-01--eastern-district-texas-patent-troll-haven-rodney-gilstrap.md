@@ -3,6 +3,7 @@ id: 2015-01-01--eastern-district-texas-patent-troll-haven-rodney-gilstrap
 date: '2015-01-01'
 title: 'Eastern District of Texas Patent Troll Haven: Judge Rodney Gilstrap Handles 25% of All U.S. Patent Cases, Forum Shopping Peak'
 importance: 9
+status: confirmed
 actors:
 - Rodney Gilstrap
 - Eastern District of Texas

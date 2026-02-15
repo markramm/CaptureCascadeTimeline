@@ -14,6 +14,7 @@ tags:
 - market-concentration
 - corporate-power
 - price-gouging
+status: confirmed
 sources:
 - title: What Makes a Market an Oligopoly?
   url: https://www.stlouisfed.org/open-vault/2023/may/what-makes-a-market-an-oligopoly

@@ -3,6 +3,7 @@ id: 2023-01-01--cancer-drug-shortage-crisis-gray-market-profiteering
 date: '2023-01-01'
 title: Cancer Drug Shortage Crisis Enables Gray Market Profiteering - Carboplatin Price Jumps from $50 to $500 Per Vial
 importance: 8
+status: confirmed
 tags:
 - pharmaceutical-industry
 - drug-pricing

@@ -3,6 +3,7 @@ id: 2019-06-20--senate-votes-block-raytheon-saudi-arms-trump-will-veto
 date: '2019-06-20'
 title: Senate Votes to Block Raytheon Paveway Bomb Sales to Saudi Arabia in Bipartisan Rebuke
 importance: 8
+status: confirmed
 tags:
 - raytheon
 - saudi-arabia

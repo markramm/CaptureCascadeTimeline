@@ -1,6 +1,7 @@
 ---
 id: 2002-09-12--tyco-ceo-kozlowski-indicted-600m-fraud
 date: 2002-09-12
+status: confirmed
 title: Tyco CEO Dennis Kozlowski Indicted for $600 Million Fraud
 importance: 9
 tags:

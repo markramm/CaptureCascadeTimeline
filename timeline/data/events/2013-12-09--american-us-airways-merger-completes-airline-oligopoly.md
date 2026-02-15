@@ -16,6 +16,7 @@ tags:
 - regulatory-capture
 - airlines
 - market-concentration
+status: confirmed
 sources:
 - title: 'History: 5 Airline Mergers That Shaped US Aviation As We Know It Today'
   url: https://simpleflying.com/us-major-airline-mergers-history-list/

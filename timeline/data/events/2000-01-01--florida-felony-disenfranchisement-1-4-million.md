@@ -3,6 +3,7 @@ id: 2000-01-01--florida-felony-disenfranchisement-1-4-million
 date: 2000-01-01
 title: Florida Disenfranchises 1.4 Million Citizens Through Felony Voting Bans, Highest Rate in Nation
 importance: 8
+status: confirmed
 tags:
 - felony-disenfranchisement
 - florida

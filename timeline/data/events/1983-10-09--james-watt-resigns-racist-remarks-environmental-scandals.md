@@ -3,6 +3,7 @@ id: 1983-10-09--james-watt-resigns-racist-remarks-environmental-scandals
 date: '1983-10-09'
 title: 'James Watt Resigns After Racist Remarks: Interior Department Corruption Ends'
 importance: 7
+status: confirmed
 location: Washington, DC
 actors:
 - James Watt

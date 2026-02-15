@@ -1,6 +1,7 @@
 ---
 id: 2002-12-19--central-park-five-exonerated-dna-evidence
 date: 2002-12-19
+status: confirmed
 title: 'Central Park Five Exonerated: DNA Proves Innocence After 13 Years'
 importance: 9
 tags:

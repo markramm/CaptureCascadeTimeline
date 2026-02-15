@@ -1,6 +1,7 @@
 ---
 id: 1982-01-01--s-and-l-deregulation-moral-hazard-systematic-fraud
 date: '1982-01-01'
+status: confirmed
 title: 'S&L Deregulation Creates Moral Hazard: Recipe for Systematic Fraud'
 importance: 8
 location: United States

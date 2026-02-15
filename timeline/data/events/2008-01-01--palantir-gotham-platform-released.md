@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-01-01--palantir-gotham-platform-released
 date: '2008-01-01'
 title: Palantir Gotham Platform Released for Intelligence and Defense Applications

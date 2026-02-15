@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2009-01-01--americans-for-prosperity-organizational-profile-astroturf
 date: '2009-01-01'
 title: 'Americans for Prosperity Organizational Profile: Koch Brothers'' Astroturf Empire Manufacturing Fake Grassroots Movements'

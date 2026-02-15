@@ -3,6 +3,7 @@ id: 2022-04-26--armed-services-defense-contractor-revolving-door
 date: '2022-04-26'
 title: Warren Report Reveals 672 Pentagon and Congressional Officials Now Lobby for Defense Contractors
 importance: 9
+status: confirmed
 tags:
 - revolving-door
 - defense-contractors

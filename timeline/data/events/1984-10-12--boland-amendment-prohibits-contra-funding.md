@@ -3,6 +3,7 @@ id: 1984-10-12--boland-amendment-prohibits-contra-funding
 date: 1984-10-12
 title: Boland Amendment Explicitly Prohibits All U.S. Funding for Contras
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - congressional-oversight

@@ -3,6 +3,7 @@ id: 2009-04-02--northrop-grumman-325-million-settlement-defective-satellite-part
 date: '2009-04-02'
 title: Northrop Grumman Pays $325 Million for Decade of Defective Spy Satellite Parts
 importance: 9
+status: confirmed
 actors:
 - Northrop Grumman
 - TRW Inc.

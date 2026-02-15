@@ -3,6 +3,7 @@ id: 1995-01-01--alec-tax-expenditure-limitation-act-model-revenue-restriction
 date: '1995-01-01'
 title: ALEC Develops Tax and Expenditure Limitation Act - Model Bill to Restrict State Revenue and Manufacture Fiscal Crisis
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council
 - Colorado General Assembly

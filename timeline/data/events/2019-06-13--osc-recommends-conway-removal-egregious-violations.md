@@ -3,6 +3,7 @@ id: 2019-06-13--osc-recommends-conway-removal-egregious-violations
 date: 2019-06-13
 title: Office of Special Counsel Issues Unprecedented Recommendation to Remove Kellyanne Conway for "Egregious, Notorious, and Ongoing" Hatch Act Violations
 importance: 9
+status: confirmed
 tags:
 - hatch act
 - ethics violations

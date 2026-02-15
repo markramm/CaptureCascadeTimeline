@@ -3,6 +3,7 @@ id: 2024-10-20--washington-poultry-workers-h5n1-outbreak
 date: '2024-10-20'
 title: Eight Washington State Poultry Workers Infected with H5N1 During Depopulation Operations
 importance: 7
+status: confirmed
 tags:
 - public-health
 - worker-safety

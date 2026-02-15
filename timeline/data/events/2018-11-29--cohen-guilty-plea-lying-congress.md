@@ -3,6 +3,7 @@ id: 2018-11-29--cohen-guilty-plea-lying-congress
 date: 2018-11-29
 title: Michael Cohen Pleads Guilty to Lying to Congress About Trump Tower Moscow Timeline
 importance: 8
+status: confirmed
 tags:
 - mueller investigation
 - trump tower moscow

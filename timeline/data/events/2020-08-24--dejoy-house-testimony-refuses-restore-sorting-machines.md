@@ -3,6 +3,7 @@ id: 2020-08-24--dejoy-house-testimony-refuses-restore-sorting-machines
 date: 2020-08-24
 title: DeJoy House Testimony Refuses to Restore Mail Sorting Machines Despite Court Concerns
 importance: 9
+status: confirmed
 tags:
 - election interference
 - usps

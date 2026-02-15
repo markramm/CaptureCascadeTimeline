@@ -3,6 +3,7 @@ id: 2024-12-18--california-newsom-h5n1-emergency-declaration
 date: '2024-12-18'
 title: California Governor Newsom Declares State of Emergency Over H5N1 Bird Flu Outbreak
 importance: 8
+status: confirmed
 tags:
 - public-health
 - state-response

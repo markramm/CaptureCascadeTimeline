@@ -3,6 +3,7 @@ id: 2017-08-23--ftc-approves-amazon-whole-foods-merger-despite-mon
 date: '2017-08-23'
 title: FTC Approves Amazon-Whole Foods Merger Despite Monopolization Concerns
 importance: 8
+status: confirmed
 actors:
 - Amazon.com Inc.
 - Jeff Bezos

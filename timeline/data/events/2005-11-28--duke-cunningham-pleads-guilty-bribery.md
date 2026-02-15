@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2005-11-28--duke-cunningham-pleads-guilty-bribery
 date: 2005-11-28
 title: Rep. Duke Cunningham Pleads Guilty to $2.4 Million Bribery Scheme

@@ -42,6 +42,7 @@ sources:
   date: '2025-12-05'
   tier: 1
   outlet: CBS News
+status: confirmed
 ---
 
 # RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation

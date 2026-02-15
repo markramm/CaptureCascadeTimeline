@@ -3,6 +3,7 @@ id: 2004-02-26--doj-files-antitrust-lawsuit-block-oracle-peoplesoft-merger
 date: '2004-02-26'
 title: Department of Justice Files Antitrust Lawsuit to Block Oracle-PeopleSoft Merger
 importance: 8
+status: confirmed
 tags:
 - antitrust
 - oracle

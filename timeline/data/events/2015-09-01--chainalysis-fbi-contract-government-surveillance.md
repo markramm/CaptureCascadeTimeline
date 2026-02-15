@@ -3,6 +3,7 @@ id: 2015-09-01--chainalysis-fbi-contract-government-surveillance
 date: 2015-09-01
 title: Chainalysis Secures First Federal Contract with FBI for $9,000
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

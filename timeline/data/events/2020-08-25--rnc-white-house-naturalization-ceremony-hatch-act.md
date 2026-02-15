@@ -3,6 +3,7 @@ id: 2020-08-25--rnc-white-house-naturalization-ceremony-hatch-act
 date: 2020-08-25
 title: Acting DHS Secretary Chad Wolf Violates Hatch Act by Staging White House Naturalization Ceremony as RNC Campaign Content
 importance: 8
+status: confirmed
 tags:
 - hatch act
 - ethics violations

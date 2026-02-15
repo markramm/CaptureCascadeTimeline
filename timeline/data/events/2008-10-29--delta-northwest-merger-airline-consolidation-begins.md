@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-10-29--delta-northwest-merger-airline-consolidation-begins
 date: '2008-10-29'
 title: 'Delta-Northwest Merger Approved: Beginning of Airline Industry Consolidation Wave'

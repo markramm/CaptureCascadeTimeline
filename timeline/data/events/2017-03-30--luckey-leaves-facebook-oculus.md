@@ -3,6 +3,7 @@ id: 2017-03-30--luckey-leaves-facebook-oculus
 date: '2017-03-30'
 title: Palmer Luckey Leaves Facebook After Political Donation Controversy
 importance: 7
+status: confirmed
 actors:
 - Palmer Luckey
 - Mark Zuckerberg

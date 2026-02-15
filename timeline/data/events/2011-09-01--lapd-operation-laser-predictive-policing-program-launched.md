@@ -14,6 +14,7 @@ actors:
 - Palantir Technologies
 - Craig Uchida
 - Peter Thiel
+status: confirmed
 sources:
 - url: https://theintercept.com/2021/01/30/lapd-palantir-data-driven-policing/
   title: How the LAPD and Palantir Use Data to Justify Racist Policing

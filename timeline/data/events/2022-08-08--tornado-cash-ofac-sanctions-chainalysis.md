@@ -3,6 +3,7 @@ id: 2022-08-08--tornado-cash-ofac-sanctions-chainalysis
 date: 2022-08-08
 title: Treasury Sanctions Tornado Cash with Chainalysis Providing Analysis
 importance: 9
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

@@ -3,6 +3,7 @@ id: 2000-01-01--alec-private-correctional-facilities-act-model
 date: '2000-01-01'
 title: ALEC Promotes Private Correctional Facilities Act Written by CCA Executives on Criminal Justice Task Force
 importance: 9
+status: confirmed
 actors:
 - ALEC
 - Corrections Corporation of America (CCA)

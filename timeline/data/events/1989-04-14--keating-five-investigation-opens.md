@@ -3,6 +3,7 @@ id: 1989-04-14--keating-five-investigation-opens
 date: '1989-04-14'
 title: Senate Ethics Committee Opens Keating Five Investigation
 importance: 9
+status: confirmed
 tags:
 - political-corruption
 - banking-scandal

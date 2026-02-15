@@ -3,6 +3,7 @@ id: 2013-01-01--wells-fargo-fires-5300-workers-executives-keep-jobs
 date: '2013-01-01'
 title: Wells Fargo Fires 5,300 Low-Level Workers While Executives Keep Jobs
 importance: 8
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

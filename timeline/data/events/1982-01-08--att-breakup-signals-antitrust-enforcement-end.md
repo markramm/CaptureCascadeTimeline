@@ -1,6 +1,7 @@
 ---
 id: 1982-01-08--att-breakup-signals-antitrust-enforcement-end
 date: '1982-01-08'
+status: confirmed
 title: AT&T Breakup Settlement Finalized, Becoming Last Major Antitrust Action for Decades
 importance: 8
 actors:

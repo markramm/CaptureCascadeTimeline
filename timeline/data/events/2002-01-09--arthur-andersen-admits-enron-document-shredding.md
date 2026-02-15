@@ -1,6 +1,7 @@
 ---
 id: 2002-01-09--arthur-andersen-admits-enron-document-shredding
 date: 2002-01-09
+status: confirmed
 title: Arthur Andersen Admits to Shredding Tons of Enron Documents
 importance: 9
 tags:

@@ -3,6 +3,7 @@ id: 2005-11-08--cheney-lobbies-cia-torture-exemption
 date: '2005-11-08'
 title: Dick Cheney Lobbies Congress for CIA Exemption from McCain Torture Ban
 importance: 9
+status: confirmed
 actors:
 - Dick Cheney
 - John McCain

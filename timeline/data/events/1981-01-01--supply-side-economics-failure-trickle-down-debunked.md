@@ -1,6 +1,7 @@
 ---
 id: 1981-01-01--supply-side-economics-failure-trickle-down-debunked
 date: '1981-01-01'
+status: confirmed
 title: 'Supply-Side Economics Failure: Empirical Evidence Debunks Trickle-Down Theory'
 importance: 8
 location: United States

@@ -3,6 +3,7 @@ id: 2025-08-02--jack-smith-investigation-retaliation
 date: '2025-08-02'
 title: Office of Special Counsel Opens Investigation into Jack Smith Following Senator Cotton Request
 importance: 9
+status: confirmed
 actors:
 - Jack Smith
 - Tom Cotton

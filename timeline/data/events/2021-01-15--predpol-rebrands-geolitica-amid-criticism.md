@@ -3,6 +3,7 @@ id: 2021-01-15--predpol-rebrands-geolitica-amid-criticism
 date: 2021-01-15
 title: PredPol Rebrands as Geolitica Amid Mounting Criticism of Racial Bias
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - technology

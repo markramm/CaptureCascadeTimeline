@@ -3,6 +3,7 @@ id: 2016-10-01--monopoly-power-suppresses-wages-study
 date: '2016-10-01'
 title: 'Council of Economic Advisers: Market Power Suppresses Wages, Contributes to $1+ Trillion in Lost Worker Income'
 importance: 9
+status: confirmed
 actors:
 - Council of Economic Advisers
 - Workers

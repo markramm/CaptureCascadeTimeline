@@ -21,6 +21,7 @@ tags:
 - special-education
 - universal-vouchers
 - state-legislation
+status: confirmed
 sources:
 - title: Arizona's 'universal' education savings account program has become a handout to the wealthy
   url: https://www.brookings.edu/articles/arizonas-universal-education-savings-account-program-has-become-a-handout-to-the-wealthy/

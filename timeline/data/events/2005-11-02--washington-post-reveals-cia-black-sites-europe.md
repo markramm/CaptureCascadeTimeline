@@ -3,6 +3,7 @@ id: 2005-11-02--washington-post-reveals-cia-black-sites-europe
 date: '2005-11-02'
 title: Washington Post Reveals CIA's Secret Prison Network in Eastern Europe
 importance: 9
+status: confirmed
 actors:
 - CIA
 - Dana Priest

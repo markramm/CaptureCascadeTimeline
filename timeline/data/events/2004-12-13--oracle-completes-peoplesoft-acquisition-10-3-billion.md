@@ -3,6 +3,7 @@ id: 2004-12-13--oracle-completes-peoplesoft-acquisition-10-3-billion
 date: '2004-12-13'
 title: Oracle Completes PeopleSoft Acquisition for $10.3 Billion After Defeating Antitrust Challenge
 importance: 8
+status: confirmed
 tags:
 - oracle
 - corporate-consolidation

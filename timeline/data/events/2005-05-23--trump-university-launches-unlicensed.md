@@ -3,6 +3,7 @@ id: 2005-05-23--trump-university-launches-unlicensed
 date: 2005-05-23
 title: Trump Launches "Trump University" Real Estate Seminars Without Academic License or Accreditation
 importance: 8
+status: confirmed
 tags:
 - trump university
 - fraud

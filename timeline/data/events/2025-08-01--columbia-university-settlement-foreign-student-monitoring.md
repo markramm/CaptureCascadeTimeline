@@ -3,6 +3,7 @@ id: 2025-08-01--columbia-university-settlement-foreign-student-monitoring
 date: '2025-08-01'
 title: Columbia University Agrees to Monitor Foreign Students for Trump Administration in $221 Million Settlement
 importance: 8
+status: confirmed
 actors:
 - Columbia University
 - Department of Education

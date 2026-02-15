@@ -3,6 +3,7 @@ id: 2005-01-01--in-q-tel-cia-invests-palantir
 date: '2005-01-01'
 title: CIA's In-Q-Tel Makes Strategic Investment in Palantir Technologies
 importance: 9
+status: confirmed
 actors:
 - In-Q-Tel
 - Central Intelligence Agency

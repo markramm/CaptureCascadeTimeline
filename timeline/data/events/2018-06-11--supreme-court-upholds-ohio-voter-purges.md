@@ -3,6 +3,7 @@ id: 2018-06-11--supreme-court-upholds-ohio-voter-purges
 date: 2018-06-11
 title: Supreme Court Upholds Ohio's Aggressive "Use It Or Lose It" Voter Purge System
 importance: 8
+status: confirmed
 tags:
 - voting-rights
 - supreme-court

@@ -14,6 +14,7 @@ tags:
 - civilian-casualties
 - pakistan
 - signature-strikes
+status: confirmed
 sources:
 - title: Covert Drone War - CIA Tactics in Pakistan Include Targeting Rescuers and Funerals
   url: https://www.thebureauinvestigates.com/stories/2012-02-04/covert-drone-war

@@ -3,6 +3,7 @@ id: 2014-07-21--hrw-report-fbi-terrorism-entrapment
 date: 2014-07-21
 title: Human Rights Watch Report - FBI Terrorism Prosecutions "Often An Illusion"
 importance: 8
+status: confirmed
 actors:
 - FBI
 - Human Rights Watch

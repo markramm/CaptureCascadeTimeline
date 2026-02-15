@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-09-15--honest-leadership-act-revolving-door-failure
 date: '2007-09-15'
 title: Honest Leadership Act Takes Effect But Fails to Slow Congressional Revolving Door

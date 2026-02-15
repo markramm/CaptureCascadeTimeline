@@ -3,6 +3,7 @@ id: 2014-07-24--european-court-poland-hosted-cia-torture-site
 date: '2014-07-24'
 title: European Court Rules Poland Violated Human Rights by Hosting CIA Torture Black Site
 importance: 8
+status: confirmed
 actors:
 - European Court of Human Rights
 - Poland

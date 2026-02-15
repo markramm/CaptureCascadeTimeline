@@ -3,6 +3,7 @@ id: 2010-01-01--nypd-adopts-palantir-counterterrorism
 date: '2010-01-01'
 title: NYPD Counterterrorism Unit Begins Using Palantir for Surveillance Operations
 importance: 8
+status: confirmed
 actors:
 - New York Police Department
 - Palantir Technologies

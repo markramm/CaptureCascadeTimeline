@@ -1,6 +1,7 @@
 ---
 id: 1981-06-05--aids-epidemic-begins-reagan-administration-silence
 date: '1981-06-05'
+status: confirmed
 title: 'AIDS Epidemic Begins: Reagan Administration Maintains Years of Deadly Silence'
 importance: 9
 location: United States

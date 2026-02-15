@@ -3,6 +3,7 @@ id: 2020-01-16--pelosi-transmits-articles-to-senate
 date: 2020-01-16
 title: Pelosi Transmits Impeachment Articles to Senate After 28-Day Strategic Delay
 importance: 9
+status: confirmed
 tags:
 - first impeachment
 - senate trial

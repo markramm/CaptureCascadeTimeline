@@ -3,6 +3,7 @@ id: 2022-11-18--elizabeth-holmes-sentenced-prison
 date: '2022-11-18'
 title: Elizabeth Holmes Sentenced to 11 Years in Prison for Theranos Fraud, Exposing Regulatory Failures
 importance: 8
+status: confirmed
 actors:
 - Elizabeth Holmes
 - Edward Davila

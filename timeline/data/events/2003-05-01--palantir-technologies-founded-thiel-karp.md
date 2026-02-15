@@ -1,6 +1,7 @@
 ---
 id: 2003-05-01--palantir-technologies-founded-thiel-karp
 date: '2003-05-01'
+status: confirmed
 title: Palantir Technologies Founded by Peter Thiel, Alex Karp, and PayPal Engineers
 importance: 8
 actors:

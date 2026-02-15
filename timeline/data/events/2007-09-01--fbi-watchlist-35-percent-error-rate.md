@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-09-01--fbi-watchlist-35-percent-error-rate
 date: 2007-09-01
 title: FBI Inspector General Reports 35% Error Rate on Terror Watchlist

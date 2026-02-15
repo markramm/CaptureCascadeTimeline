@@ -3,6 +3,7 @@ id: 2020-09-18--ruth-bader-ginsburg-dies-mcconnell-vows-immediate-replacement
 date: '2020-09-18'
 title: Justice Ruth Bader Ginsburg Dies 46 Days Before Election, McConnell Immediately Vows to Confirm Replacement Despite 2016 Standard
 importance: 9
+status: confirmed
 tags:
 - supreme court
 - judicial appointments

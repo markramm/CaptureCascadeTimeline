@@ -3,6 +3,7 @@ id: 1991-07-01--trump-taj-mahal-bankruptcy-junk-bonds
 date: 1991-07-01
 title: Trump Taj Mahal Files First Bankruptcy After Junk Bond Collapse
 importance: 7
+status: confirmed
 tags:
 - bankruptcy
 - business failure

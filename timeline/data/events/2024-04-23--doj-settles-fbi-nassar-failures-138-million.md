@@ -3,6 +3,7 @@ id: 2024-04-23--doj-settles-fbi-nassar-failures-138-million
 date: '2024-04-23'
 title: Justice Department Pays $138.7 Million Settlement Over FBI's Failure to Investigate Nassar Allegations
 importance: 9
+status: confirmed
 actors:
 - U.S. Department of Justice
 - Federal Bureau of Investigation

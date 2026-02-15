@@ -1,6 +1,7 @@
 ---
 id: 2002-01-01--insulin-price-tripling-begins-decade-long-crisis
 date: '2002-01-01'
+status: confirmed
 title: Insulin Prices Begin Tripling 2002-2013 as Three Manufacturers Control 99% of Market - From $231 to $762 Annually
 importance: 9
 tags:

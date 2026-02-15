@@ -3,6 +3,7 @@ id: 2020-08-21--dejoy-senate-testimony-denies-sabotage
 date: 2020-08-21
 title: DeJoy Senate Testimony Denies Sabotage as Gary Peters Details Severe Mail Delays
 importance: 8
+status: confirmed
 tags:
 - election interference
 - usps

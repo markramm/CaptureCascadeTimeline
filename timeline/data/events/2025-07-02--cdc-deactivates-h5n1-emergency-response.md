@@ -3,6 +3,7 @@ id: 2025-07-02--cdc-deactivates-h5n1-emergency-response
 date: '2025-07-02'
 title: CDC Deactivates H5N1 Emergency Response Despite Ongoing Outbreak
 importance: 8
+status: confirmed
 tags:
 - public-health
 - regulatory-failure

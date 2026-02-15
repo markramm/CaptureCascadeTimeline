@@ -2,6 +2,7 @@
 id: 2017-12-01--michael-flynn-guilty-plea
 date: 2017-12-01
 title: Michael Flynn Pleads Guilty to Lying to FBI About Russian Contacts
+status: confirmed
 importance: 9
 tags:
 - mueller investigation

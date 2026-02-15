@@ -3,6 +3,7 @@ id: 1998-01-01--alec-economic-impact-statement-act-regulatory-obstruction
 date: '1998-01-01'
 title: ALEC's 'Economic Impact Statement Act' Uses Cost-Benefit Analysis to Kill Environmental Regulations
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council
 - Koch Industries

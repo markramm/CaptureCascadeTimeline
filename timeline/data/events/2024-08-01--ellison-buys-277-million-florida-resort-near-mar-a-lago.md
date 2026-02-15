@@ -3,6 +3,7 @@ id: 2024-08-01--ellison-buys-277-million-florida-resort-near-mar-a-lago
 date: '2024-08-01'
 title: Larry Ellison Buys $277 Million Florida Resort Near Mar-a-Lago, $450M Total Investment
 importance: 7
+status: confirmed
 tags:
 - real-estate
 - oracle

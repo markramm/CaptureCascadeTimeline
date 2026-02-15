@@ -3,6 +3,7 @@ id: 2020-02-05--senate-acquits-trump-romney-breaks-ranks
 date: 2020-02-05
 title: Senate Acquits Trump Despite Proven Abuse of Power; Romney Only Republican to Convict
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - senate trial

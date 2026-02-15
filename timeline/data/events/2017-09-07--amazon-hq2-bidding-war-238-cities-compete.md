@@ -2,6 +2,7 @@
 id: 2017-09-07--amazon-hq2-bidding-war-238-cities-compete
 date: 2017-09-07
 title: Amazon Launches HQ2 Bidding War—238 Cities Compete to Offer Billions in Subsidies
+status: confirmed
 importance: 9
 tags:
 - corporate-welfare

@@ -12,6 +12,7 @@ summary: 'Reports emerged that multiple U.S. Senators sold significant amounts o
 
   '
 importance: 9
+status: confirmed
 tags:
 - congressional corruption
 - insider trading

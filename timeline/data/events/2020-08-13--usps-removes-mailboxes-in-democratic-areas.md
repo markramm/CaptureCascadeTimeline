@@ -3,6 +3,7 @@ id: 2020-08-13--usps-removes-mailboxes-in-democratic-areas
 date: 2020-08-13
 title: USPS Removes Mailboxes in Democratic Areas, Reverses After Public Outcry
 importance: 8
+status: confirmed
 tags:
 - election interference
 - usps

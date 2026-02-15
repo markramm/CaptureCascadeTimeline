@@ -3,6 +3,7 @@ id: 1985-12-04--robert-mcfarlane-john-poindexter-shadow-foreign-policy
 date: 1985-12-04
 title: NSC Running Shadow Foreign Policy Through McFarlane and Poindexter
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

@@ -3,6 +3,7 @@ id: 2025-08-15--grok-ai-ethical-ai-resistance-movement
 date: '2025-08-15'
 title: Tech Workers Launch Coordinated Campaign Against Unregulated AI Development
 importance: 9
+status: confirmed
 sources:
 - outlet: Tech Workers Coalition
   title: 'Tech Workers Unite: Unpopular Policies in 2025 Ignite Major Worker Movements'

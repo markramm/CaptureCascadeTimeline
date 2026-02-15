@@ -3,6 +3,7 @@ id: 2023-01-01--aws-government-contracts-reach-multi-billion-annual-scale
 date: 2023-01-01
 title: Amazon AWS Government Contracts Reach Multi-Billion Dollar Annual Scale
 importance: 8
+status: confirmed
 actors:
 - Amazon Web Services
 - CIA

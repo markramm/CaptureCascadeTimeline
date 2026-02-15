@@ -3,6 +3,7 @@ id: 2020-07-01--anduril-cbp-surveillance-towers
 date: '2020-07-01'
 title: CBP Awards Anduril $25 Million for Autonomous Surveillance Towers at Border
 importance: 8
+status: confirmed
 actors:
 - Anduril Industries
 - U.S. Customs and Border Protection

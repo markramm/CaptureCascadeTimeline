@@ -3,6 +3,7 @@ id: 2018-04-10--trump-university-settlement-finalized-payments-distributed
 date: 2018-04-10
 title: Judge Finalizes Trump University Settlement After Appeal Resolved, Victims Receive Payments
 importance: 8
+status: confirmed
 tags:
 - trump university
 - fraud

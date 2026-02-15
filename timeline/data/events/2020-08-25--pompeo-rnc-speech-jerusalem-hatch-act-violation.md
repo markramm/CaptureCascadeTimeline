@@ -3,6 +3,7 @@ id: 2020-08-25--pompeo-rnc-speech-jerusalem-hatch-act-violation
 date: 2020-08-25
 title: Secretary of State Pompeo Delivers Historic RNC Speech from Jerusalem Rooftop, Violating Hatch Act After Changing State Department Policy
 importance: 9
+status: confirmed
 tags:
 - hatch act
 - ethics violations

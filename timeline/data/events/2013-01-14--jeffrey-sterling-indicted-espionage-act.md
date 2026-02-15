@@ -15,6 +15,7 @@ tags:
 - press-freedom
 - iran
 - accountability
+status: confirmed
 sources:
 - url: https://theintercept.com/2015/06/18/jeffrey-sterling-took-on-the-cia-and-lost-everything/
   title: How Jeffrey Sterling Took on the CIA — and Lost Everything

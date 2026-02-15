@@ -3,6 +3,7 @@ id: 1986-11-21--oliver-north-begins-shredding-documents
 date: 1986-11-21
 title: Oliver North Begins Systematic Destruction of Iran-Contra Evidence
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

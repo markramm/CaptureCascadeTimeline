@@ -3,6 +3,7 @@ id: 2023-07-01--trump-crypto-business-conflicts
 date: '2023-07-01'
 title: Trump Crypto Empire Raises Major Constitutional Conflict of Interest Concerns
 importance: 9
+status: confirmed
 tags:
 - constitutional-crisis
 - financial-conflicts

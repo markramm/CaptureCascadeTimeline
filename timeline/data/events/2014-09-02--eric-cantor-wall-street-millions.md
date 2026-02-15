@@ -3,6 +3,7 @@ id: 2014-09-02--eric-cantor-wall-street-millions
 date: '2014-09-02'
 title: Eric Cantor Joins Wall Street Investment Bank for $3.4M After House Leadership
 importance: 9
+status: confirmed
 tags:
 - revolving-door
 - lobbying

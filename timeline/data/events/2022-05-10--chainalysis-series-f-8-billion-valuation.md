@@ -3,6 +3,7 @@ id: 2022-05-10--chainalysis-series-f-8-billion-valuation
 date: 2022-05-10
 title: Chainalysis Raises $170 Million at $8.6 Billion Valuation in Series F
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

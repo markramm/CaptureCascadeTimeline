@@ -3,6 +3,7 @@ id: 2014-10-01--chainalysis-founded-blockchain-forensics
 date: 2014-10-01
 title: Chainalysis Founded to Provide Blockchain Forensics to Governments and Banks
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

@@ -3,6 +3,7 @@ id: 1995-01-01--alec-environment-task-force-passes-100-anti-regulation-bills
 date: '1995-01-01'
 title: ALEC Environment Task Force Passes 100+ Anti-Regulation Bills Funded by Fossil Fuel Companies
 importance: 9
+status: confirmed
 actors:
 - American Legislative Exchange Council
 - Koch Industries

@@ -3,6 +3,7 @@ id: 2020-08-05--state-dept-report-trump-ignored-civilian-risk-saudi-arms
 date: '2020-08-05'
 title: State Department Report Reveals Trump Administration Ignored Civilian Casualty Risks in Raytheon Saudi Arms Sales
 importance: 9
+status: confirmed
 tags:
 - trump
 - raytheon

@@ -3,6 +3,7 @@ id: 2025-08-01--trump-state-data-centralization-surveillance-order
 date: '2025-08-01'
 title: Trump Orders States to Hand Over Medicaid, Food Assistance, and Voter Roll Data for Federal Surveillance
 importance: 9
+status: confirmed
 actors:
 - Department of Homeland Security
 - USDA

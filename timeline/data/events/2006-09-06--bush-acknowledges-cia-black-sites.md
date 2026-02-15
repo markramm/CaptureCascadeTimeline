@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-09-06--bush-acknowledges-cia-black-sites
 date: '2006-09-06'
 title: Bush Publicly Acknowledges CIA Secret Prisons for First Time, Transfers Detainees to Guantanamo

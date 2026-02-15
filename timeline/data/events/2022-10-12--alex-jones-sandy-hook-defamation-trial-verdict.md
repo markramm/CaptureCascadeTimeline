@@ -3,6 +3,7 @@ id: 2022-10-12--alex-jones-sandy-hook-defamation-trial-verdict
 date: '2022-10-12'
 title: Alex Jones Ordered to Pay $965 Million in Sandy Hook Defamation Trial
 importance: 9
+status: confirmed
 tags:
 - defamation
 - media-accountability

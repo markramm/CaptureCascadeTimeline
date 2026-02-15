@@ -21,6 +21,7 @@ tags:
 - political accountability
 actors:
 - Dennis Hastert
+status: confirmed
 sources:
 - url: https://www.npr.org/2015/05/28/410380251/former-house-speaker-j-dennis-hastert-indicted-by-federal-grand-jury
   title: Former House Speaker J. Dennis Hastert Indicted By Federal Grand Jury

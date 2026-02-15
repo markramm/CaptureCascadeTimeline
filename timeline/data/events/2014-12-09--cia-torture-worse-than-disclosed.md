@@ -16,6 +16,7 @@ tags:
 - enhanced-interrogation
 - black-sites
 - human-rights
+status: confirmed
 sources:
 - title: Senate Intelligence Committee Report on CIA Torture (Executive Summary)
   url: https://www.feinstein.senate.gov/public/index.cfm/2014/12/senate-intelligence-committee-study-on-torture-executive-summary

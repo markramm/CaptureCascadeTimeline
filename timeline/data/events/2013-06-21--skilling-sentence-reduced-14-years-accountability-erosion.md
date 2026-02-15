@@ -3,6 +3,7 @@ id: 2013-06-21--skilling-sentence-reduced-14-years-accountability-erosion
 date: 2013-06-21
 title: Skilling Sentence Reduced to 14 Years, Marking Accountability Erosion
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - enron

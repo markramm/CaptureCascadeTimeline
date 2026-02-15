@@ -3,6 +3,7 @@ id: 2003-07-14--novak-outs-valerie-plame-cia
 date: '2003-07-14'
 title: Robert Novak Exposes CIA Operative Valerie Plame
 importance: 9
+status: confirmed
 actors:
 - Robert Novak
 - Valerie Plame

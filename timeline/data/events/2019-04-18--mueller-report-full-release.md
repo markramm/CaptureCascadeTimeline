@@ -3,6 +3,7 @@ id: 2019-04-18--mueller-report-full-release
 date: 2019-04-18
 title: Mueller Report Released - 448 Pages Documenting Russian Interference and Obstruction Episodes
 importance: 10
+status: confirmed
 tags:
 - mueller investigation
 - obstruction of justice

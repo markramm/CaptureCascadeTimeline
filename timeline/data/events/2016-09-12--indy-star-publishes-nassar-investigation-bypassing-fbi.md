@@ -3,6 +3,7 @@ id: 2016-09-12--indy-star-publishes-nassar-investigation-bypassing-fbi
 date: '2016-09-12'
 title: Indianapolis Star Investigation Exposes Nassar Abuse After FBI Sat on Allegations for 14 Months
 importance: 9
+status: confirmed
 actors:
 - Indianapolis Star
 - Larry Nassar

@@ -3,6 +3,7 @@ id: 2025-08-22--intel-government-equity-stake
 date: '2025-08-22'
 title: U.S. Government Takes 10% Equity Stake in Intel Through CHIPS Act Conversion
 importance: 9
+status: confirmed
 tags:
 - state-capitalism
 - institutional-capture

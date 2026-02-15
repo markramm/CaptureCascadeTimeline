@@ -13,6 +13,7 @@ tags:
 - corporate-power
 - wage-stagnation
 - shareholder-primacy
+status: confirmed
 sources:
 - title: S&P 500 Companies Spend Almost All Profits on Buybacks
   url: https://www.bloomberg.com/news/articles/2014-10-06/s-p-500-companies-spend-almost-all-profits-on-buybacks-payouts

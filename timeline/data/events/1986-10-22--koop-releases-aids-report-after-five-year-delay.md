@@ -3,6 +3,7 @@ id: 1986-10-22--koop-releases-aids-report-after-five-year-delay
 date: '1986-10-22'
 title: 'Koop Releases AIDS Report After Five-Year Delay: Public Health vs Politics'
 importance: 7
+status: confirmed
 location: Washington, DC
 actors:
 - C. Everett Koop

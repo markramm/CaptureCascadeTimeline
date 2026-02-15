@@ -3,6 +3,7 @@ id: 2010-06-01--trump-university-changes-name-avoid-prosecution
 date: 2010-06-01
 title: Trump University Changes Name to "Trump Entrepreneur Initiative" Under Pressure from NY Education Department
 importance: 8
+status: confirmed
 tags:
 - trump university
 - fraud

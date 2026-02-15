@@ -3,6 +3,7 @@ id: 2020-06-19--oracle-bluekai-data-breach-billions-records-exposed
 date: '2020-06-19'
 title: Oracle BlueKai Exposes Billions of Web Tracking Records in Unsecured Database
 importance: 8
+status: confirmed
 tags:
 - oracle
 - data-breach

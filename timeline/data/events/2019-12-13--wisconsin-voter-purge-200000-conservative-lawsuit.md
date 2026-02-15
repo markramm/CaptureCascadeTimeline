@@ -3,6 +3,7 @@ id: 2019-12-13--wisconsin-voter-purge-200000-conservative-lawsuit
 date: 2019-12-13
 title: Conservative Lawsuit Forces Wisconsin to Purge 200,000 Voters Before 2020 Election
 importance: 8
+status: confirmed
 tags:
 - voter-suppression
 - wisconsin

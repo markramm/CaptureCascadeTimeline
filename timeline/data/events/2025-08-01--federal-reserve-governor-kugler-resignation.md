@@ -3,6 +3,7 @@ id: 2025-08-01--federal-reserve-governor-kugler-resignation
 date: '2025-08-01'
 title: Federal Reserve Governor Adriana Kugler Resigns Early, Opening Seat for Trump Appointee
 importance: 8
+status: confirmed
 actors:
 - Adriana Kugler
 - Federal Reserve

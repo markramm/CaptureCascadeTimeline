@@ -20,6 +20,7 @@ tags:
 - legislative-capture
 - climate-denial
 - energy-policy
+status: confirmed
 sources:
 - title: Utility Trade Group Funds ALEC Attack on Americans Using Solar
   url: https://www.prwatch.org/news/2014/07/12553/utility-trade-group-funds-alec-attack-americans-who-use-solar

@@ -3,6 +3,7 @@ id: 2025-08-19--doj-antitrust-hpe-juniper-corruption-alford
 date: '2025-08-19'
 title: Fired DOJ Antitrust Official Accuses Bondi Leadership of Corruption in $14B Merger
 importance: 9
+status: confirmed
 actors:
 - Roger Alford
 - Pam Bondi

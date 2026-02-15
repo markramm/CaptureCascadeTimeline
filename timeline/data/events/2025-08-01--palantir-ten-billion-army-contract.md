@@ -3,6 +3,7 @@ id: 2025-08-01--palantir-ten-billion-army-contract
 date: '2025-08-01'
 title: U.S. Army Awards Palantir $10 Billion AI-Driven Software Contract
 importance: 8
+status: confirmed
 actors:
 - U.S. Army
 - Palantir Technologies

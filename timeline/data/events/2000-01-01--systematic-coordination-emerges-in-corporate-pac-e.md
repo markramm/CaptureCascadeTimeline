@@ -3,6 +3,7 @@ id: 2000-01-01--systematic-coordination-emerges-in-corporate-pac-e
 date: '2000-01-01'
 title: Systematic Coordination Emerges in Corporate PAC Explosion Post-Buckley
 importance: 9
+status: confirmed
 actors:
 - Corporate PAC Strategists
 - Campaign Finance Lawyers

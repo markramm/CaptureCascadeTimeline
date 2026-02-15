@@ -9,6 +9,7 @@ tags:
 - congressional-corruption
 - hollywood
 - financial-sector
+status: confirmed
 sources:
 - url: https://www.opensecrets.org/news/2011/03/chris-dodd-takes-a-spin
   title: Ex-Sen. Chris Dodd Takes a Spin Through the Revolving Door to MPAA

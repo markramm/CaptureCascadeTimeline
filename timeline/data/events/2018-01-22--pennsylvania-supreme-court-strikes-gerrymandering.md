@@ -2,6 +2,7 @@
 id: 2018-01-22--pennsylvania-supreme-court-strikes-gerrymandering
 date: '2018-01-22'
 title: Pennsylvania Supreme Court Strikes Down Congressional Map as Unconstitutional Partisan Gerrymander
+status: confirmed
 importance: 8
 tags:
 - gerrymandering

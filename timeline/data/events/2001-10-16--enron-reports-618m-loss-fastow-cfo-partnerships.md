@@ -3,6 +3,7 @@ id: 2001-10-16--enron-reports-618m-loss-fastow-cfo-partnerships
 date: 2001-10-16
 title: Enron Reports $618 Million Loss and Reveals CFO Partnership Schemes
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - enron

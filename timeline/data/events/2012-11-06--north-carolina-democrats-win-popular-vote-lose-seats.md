@@ -13,6 +13,7 @@ actors:
 - Democratic Party
 - Republican Party
 - North Carolina General Assembly
+status: confirmed
 sources:
 - url: https://www.wunc.org/politics/2014-11-25/duke-mathematicians-investigate-2012-election-results-in-north-carolina
   title: Duke Mathematicians Investigate 2012 Election Results In North Carolina

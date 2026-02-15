@@ -3,6 +3,7 @@ id: 2019-06-07--trump-raytheon-saudi-bomb-technology-transfer-approved
 date: '2019-06-07'
 title: Trump Administration Approves Unprecedented Raytheon Technology Transfer to Let Saudis Build Bombs Domestically
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - saudi-arabia

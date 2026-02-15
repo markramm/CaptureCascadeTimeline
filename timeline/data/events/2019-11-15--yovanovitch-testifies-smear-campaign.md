@@ -3,6 +3,7 @@ id: 2019-11-15--yovanovitch-testifies-smear-campaign
 date: 2019-11-15
 title: Ambassador Yovanovitch Testifies on Giuliani Smear Campaign and Removal from Ukraine Post
 importance: 9
+status: confirmed
 tags:
 - first impeachment
 - ukraine

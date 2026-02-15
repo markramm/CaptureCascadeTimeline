@@ -3,6 +3,7 @@ id: 2025-08-19--trump-unconfirmed-us-attorneys-bypass-senate
 date: '2025-08-19'
 title: Trump Installs Unconfirmed Loyalists as US Attorneys, Bypassing Senate
 importance: 9
+status: confirmed
 actors:
 - Donald Trump
 - Alina Habba

@@ -45,6 +45,7 @@ summary: 'Virginia "Ginni" Thomas, wife of Supreme Court Justice Clarence Thomas
 
   '
 importance: 9
+status: confirmed
 actors:
 - Ginni Thomas
 - Clarence Thomas

@@ -1,6 +1,7 @@
 ---
 id: 1982-04-25--federalist-society-organizational-profile-judicial-capture
 date: '1982-04-25'
+status: confirmed
 title: 'Federalist Society Organizational Profile: Judicial Pipeline and Conservative Legal Movement Infrastructure'
 importance: 9
 actors:

@@ -10,6 +10,7 @@ tags:
 - immigration
 - presidential campaign
 - mark burnett
+status: confirmed
 sources:
 - url: https://www.nbcnews.com/news/amp/ncna409381
   title: NBC Officially Fires Donald Trump From 'Celebrity Apprentice'

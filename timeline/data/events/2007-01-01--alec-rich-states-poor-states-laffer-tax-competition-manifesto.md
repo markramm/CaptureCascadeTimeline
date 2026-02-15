@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-01-01--alec-rich-states-poor-states-laffer-tax-competition-manifesto
 date: '2007-01-01'
 title: ALEC Launches 'Rich States, Poor States' Report with Arthur Laffer - Annual Corporate Tax Competition Manifesto to Drive Interstate Race-to-Bottom

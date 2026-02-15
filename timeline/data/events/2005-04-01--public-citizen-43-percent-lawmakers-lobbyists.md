@@ -3,6 +3,7 @@ id: 2005-04-01--public-citizen-43-percent-lawmakers-lobbyists
 date: '2005-04-01'
 title: Public Citizen Report Shows 43% of Lawmakers Leaving Congress Became Lobbyists
 importance: 9
+status: confirmed
 tags:
 - revolving-door
 - lobbying

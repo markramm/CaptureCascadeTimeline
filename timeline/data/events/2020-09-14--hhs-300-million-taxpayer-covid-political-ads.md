@@ -3,6 +3,7 @@ id: 2020-09-14--hhs-300-million-taxpayer-covid-political-ads
 date: 2020-09-14
 title: HHS Spends $300 Million in Taxpayer Funds on "Defeating Despair" COVID Ad Campaign Timed to Promote Trump Before Election
 importance: 9
+status: confirmed
 tags:
 - hatch act
 - ethics violations

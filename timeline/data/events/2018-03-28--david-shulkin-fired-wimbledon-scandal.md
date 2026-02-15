@@ -3,6 +3,7 @@ id: 2018-03-28--david-shulkin-fired-wimbledon-scandal
 date: 2018-03-28
 title: VA Secretary David Shulkin Fired After Inspector General Finds Ethics Violations on Taxpayer-Funded European Trip
 importance: 7
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

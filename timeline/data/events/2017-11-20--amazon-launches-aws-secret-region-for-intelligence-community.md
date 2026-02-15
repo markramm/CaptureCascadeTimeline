@@ -2,6 +2,7 @@
 id: 2017-11-20--amazon-launches-aws-secret-region-for-intelligence-community
 date: 2017-11-20
 title: Amazon Launches AWS Secret Region for CIA and Intelligence Community
+status: confirmed
 importance: 9
 actors:
 - Amazon Web Services

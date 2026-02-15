@@ -24,6 +24,7 @@ actors:
 - Huma Abedin
 - Barack Obama
 - Nancy Pelosi
+status: confirmed
 sources:
 - url: https://www.cnn.com/2016/08/30/politics/weiner-scandal-timeline/index.html
   title: 'Anthony Weiner scandal: A timeline'

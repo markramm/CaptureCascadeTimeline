@@ -3,6 +3,7 @@ id: 2025-08-13--bessent-ethics-violation-farmland-divestment
 date: '2025-08-13'
 title: Treasury Secretary Bessent Violates Ethics Agreement, Retains Millions in Conflicted Assets
 importance: 8
+status: confirmed
 actors:
 - Scott Bessent
 - Office of Government Ethics

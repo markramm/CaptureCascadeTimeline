@@ -12,6 +12,7 @@ summary: 'Sexual abuse allegations against former House Speaker Dennis Hastert b
 
   '
 importance: 9
+status: confirmed
 tags:
 - congressional corruption
 - sexual abuse

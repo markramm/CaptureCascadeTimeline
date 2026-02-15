@@ -2,6 +2,7 @@
 id: 2017-10-30--manafort-gates-indictment
 date: 2017-10-30
 title: Mueller Indicts Paul Manafort and Rick Gates on 12 Counts Including Conspiracy Against the United States
+status: confirmed
 importance: 9
 tags:
 - mueller investigation

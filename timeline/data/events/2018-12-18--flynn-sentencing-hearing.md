@@ -3,6 +3,7 @@ id: 2018-12-18--flynn-sentencing-hearing
 date: 2018-12-18
 title: Judge Sullivan's Harsh Questioning of Flynn at Sentencing - "Arguably You Sold Your Country Out"
 importance: 7
+status: confirmed
 tags:
 - mueller investigation
 - michael flynn

@@ -15,6 +15,7 @@ actors:
 - Palantir Technologies
 - Mitch Landrieu
 - Peter Thiel
+status: confirmed
 sources:
 - url: https://www.typeinvestigations.org/investigation/2018/02/27/palantir-secretly-use-new-orleans-test-predictive-policing/
   title: Did Palantir Secretly Use New Orleans to Test Predictive Policing?

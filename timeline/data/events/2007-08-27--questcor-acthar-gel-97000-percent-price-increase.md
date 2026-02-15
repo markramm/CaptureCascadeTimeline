@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-08-27--questcor-acthar-gel-97000-percent-price-increase
 date: '2007-08-27'
 title: Questcor Raises Acthar Gel Price from $1,600 to $23,000 Overnight - Eventually Reaching 97,000% Increase Through Bribery Scheme

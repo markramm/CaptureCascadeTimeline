@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-01-01--von-spakovsky-joins-heritage-foundation
 date: 2008-01-01
 title: Hans von Spakovsky Joins Heritage Foundation to Lead Voter Suppression Infrastructure Development

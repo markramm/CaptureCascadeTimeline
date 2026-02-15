@@ -3,6 +3,7 @@ id: 2019-08-13--epstein-letter-to-nassar-sex-offender-network
 date: '2019-08-13'
 title: Jeffrey Epstein Sent Letter to Larry Nassar from Prison Days Before Suicide, Revealing Sex Offender Network
 importance: 9
+status: disputed
 actors:
 - Jeffrey Epstein
 - Larry Nassar

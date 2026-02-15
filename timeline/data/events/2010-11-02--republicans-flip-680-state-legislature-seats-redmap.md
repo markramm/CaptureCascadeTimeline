@@ -12,6 +12,7 @@ tags:
 actors:
 - Republican State Leadership Committee
 - Republican Party
+status: confirmed
 sources:
 - url: https://en.wikipedia.org/wiki/2010_United_States_state_legislative_elections
   title: 2010 United States state legislative elections

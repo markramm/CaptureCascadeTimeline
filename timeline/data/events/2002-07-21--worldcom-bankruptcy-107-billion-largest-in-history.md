@@ -1,6 +1,7 @@
 ---
 id: 2002-07-21--worldcom-bankruptcy-107-billion-largest-in-history
 date: 2002-07-21
+status: confirmed
 title: WorldCom Files for Bankruptcy with $107 Billion in Assets
 importance: 10
 tags:

@@ -3,6 +3,7 @@ id: 2004-02-01--accenture-dhs-no-bid-contract
 date: '2004-02-01'
 title: Accenture Awarded Competitive DHS US-VISIT Contract
 importance: 7
+status: confirmed
 tags:
 - homeland-security
 - government-contract

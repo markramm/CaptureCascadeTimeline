@@ -3,6 +3,7 @@ id: 2019-07-24--trump-vetoes-saudi-arms-blocks-raytheon-protected
 date: '2019-07-24'
 title: Trump Vetoes Congressional Resolutions Blocking Raytheon Saudi Arms Sales, Protecting Defense Contractor Profits
 importance: 9
+status: confirmed
 tags:
 - trump
 - raytheon

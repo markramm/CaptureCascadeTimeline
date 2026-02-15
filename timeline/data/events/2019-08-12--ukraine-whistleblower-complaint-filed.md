@@ -3,6 +3,7 @@ id: 2019-08-12--ukraine-whistleblower-complaint-filed
 date: 2019-08-12
 title: Intelligence Community Whistleblower Files Urgent Complaint About Trump-Zelensky Call
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - whistleblower

@@ -3,6 +3,7 @@ id: 2010-01-15--northrop-b2-bomber-150000-hourly-maintenance-costs
 date: '2010-01-15'
 title: Northrop B-2 Bomber Operating Costs Reach $150,000 Per Flight Hour
 importance: 8
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force

@@ -3,6 +3,7 @@ id: 2013-03-11--federal-court-strikes-texas-redistricting-discrimination
 date: 2013-03-11
 title: Federal Court Rules Texas 2011 Redistricting Intentionally Discriminated Against Latino Voters
 importance: 8
+status: confirmed
 tags:
 - gerrymandering
 - racial-discrimination

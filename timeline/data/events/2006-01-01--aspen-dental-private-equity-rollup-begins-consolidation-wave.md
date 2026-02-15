@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-01-01--aspen-dental-private-equity-rollup-begins-consolidation-wave
 date: '2006-01-01'
 title: 'Ares Management Acquires Aspen Dental: Private Equity Dental Roll-Up Strategy Launches Industry Consolidation'

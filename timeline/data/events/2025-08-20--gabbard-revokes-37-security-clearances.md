@@ -3,6 +3,7 @@ id: 2025-08-20--gabbard-revokes-37-security-clearances
 date: '2025-08-20'
 title: Gabbard Revokes Security Clearances of 37 Intelligence Officials Without Evidence
 importance: 9
+status: confirmed
 actors:
 - Tulsi Gabbard
 - Donald Trump

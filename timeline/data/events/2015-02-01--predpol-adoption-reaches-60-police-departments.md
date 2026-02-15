@@ -3,6 +3,7 @@ id: 2015-02-01--predpol-adoption-reaches-60-police-departments
 date: 2015-02-01
 title: PredPol Predictive Policing Software Adopted by 60 U.S. Police Departments
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - technology

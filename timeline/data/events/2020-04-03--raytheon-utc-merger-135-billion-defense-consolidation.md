@@ -3,6 +3,7 @@ id: 2020-04-03--raytheon-utc-merger-135-billion-defense-consolidation
 date: '2020-04-03'
 title: Raytheon-United Technologies Merge Creates $135 Billion Defense Giant, Consolidating Industry Power
 importance: 8
+status: confirmed
 tags:
 - raytheon
 - defense-contractors

@@ -3,6 +3,7 @@ id: 2021-06-24--chainalysis-series-e-4-billion-valuation
 date: 2021-06-24
 title: Chainalysis Raises $100 Million at $4.2 Billion Valuation in Series E
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

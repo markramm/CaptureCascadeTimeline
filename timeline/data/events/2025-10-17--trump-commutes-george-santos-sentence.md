@@ -19,6 +19,7 @@ sources:
   date: '2025-10-17'
   tier: 1
   outlet: NPR
+status: confirmed
 ---
 
 President Trump commuted the 87-month federal prison sentence of former Rep. George Santos (R-NY) after Santos served only three months of his sentence. Santos pleaded guilty in August 2024 to multiple counts of wire fraud, aggravated identity theft, campaign finance violations, and financial crimes including stealing donor money and lying to the Federal Election Commission.

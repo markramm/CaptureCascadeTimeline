@@ -69,4 +69,5 @@ sources:
   date: 2025-12-10
   tier: 2
   outlet: The Washington Post
+status: confirmed
 ---

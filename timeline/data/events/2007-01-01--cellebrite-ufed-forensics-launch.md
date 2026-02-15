@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-01-01--cellebrite-ufed-forensics-launch
 date: '2007-01-01'
 title: Cellebrite Launches Universal Forensic Extraction Device (UFED) for Law Enforcement

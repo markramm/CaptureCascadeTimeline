@@ -3,6 +3,7 @@ id: 2023-11-02--sam-bankman-fried-convicted
 date: '2023-11-02'
 title: Sam Bankman-Fried Convicted on All Counts in 'One of the Biggest Financial Frauds in American History'
 importance: 10
+status: confirmed
 actors:
 - Sam Bankman-Fried
 - FTX

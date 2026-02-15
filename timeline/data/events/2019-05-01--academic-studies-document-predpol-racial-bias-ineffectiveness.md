@@ -3,6 +3,7 @@ id: 2019-05-01--academic-studies-document-predpol-racial-bias-ineffectiveness
 date: 2019-05-01
 title: Academic Studies Document PredPol's Racial Bias and Ineffectiveness
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - technology

@@ -3,6 +3,7 @@ id: 2024-09-19--general-dynamics-virginia-class-submarine-17-billion-cost-overru
 date: '2024-09-19'
 title: General Dynamics Virginia-Class Submarine Program Revealed to Be $17 Billion Over Budget with 2-3 Year Delays
 importance: 9
+status: confirmed
 tags:
 - defense-contractors
 - cost-overruns

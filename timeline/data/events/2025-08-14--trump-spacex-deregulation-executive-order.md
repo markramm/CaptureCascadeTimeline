@@ -3,6 +3,7 @@ id: 2025-08-14--trump-spacex-deregulation-executive-order
 date: '2025-08-14'
 title: Trump Eliminates SpaceX Environmental Safeguards via Executive Order
 importance: 7
+status: confirmed
 actors:
 - Donald Trump
 - Elon Musk

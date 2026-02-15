@@ -3,6 +3,7 @@ id: 2010-04-08--thomas-drake-indicted-espionage-act
 date: 2010-04-08
 title: Thomas Drake Indicted Under Espionage Act for NSA Whistleblowing
 importance: 8
+status: confirmed
 actors:
 - Thomas Drake
 - NSA

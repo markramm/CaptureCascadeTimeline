@@ -14,6 +14,7 @@ tags:
 - protest-suppression
 - first-amendment
 - domestic-spying
+status: confirmed
 sources:
 - url: https://www.rightsanddissent.org/news/the-fbi-and-occupy-the-surveillance-and-suppression-of-occupy-wall-street/
   title: The FBI and Occupy - Surveillance and Suppression

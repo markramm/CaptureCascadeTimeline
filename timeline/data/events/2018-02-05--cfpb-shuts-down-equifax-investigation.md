@@ -2,6 +2,7 @@
 id: 2018-02-05--cfpb-shuts-down-equifax-investigation
 date: '2018-02-05'
 title: Trump's CFPB Director Mick Mulvaney Shuts Down Equifax Investigation, Exposing Regulatory Capture
+status: confirmed
 importance: 9
 actors:
 - Mick Mulvaney

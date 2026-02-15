@@ -3,6 +3,7 @@ id: 2025-08-20--us-sanctions-icc-judges
 date: '2025-08-20'
 title: US Imposes Unprecedented Sanctions on Four International Criminal Court Officials
 importance: 10
+status: confirmed
 actors:
 - Kimberly Prost
 - Nicolas Guillou

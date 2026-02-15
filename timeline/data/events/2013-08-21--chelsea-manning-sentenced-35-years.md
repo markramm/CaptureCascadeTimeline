@@ -14,6 +14,7 @@ tags:
 - wikileaks
 - military-justice
 - war-crimes
+status: confirmed
 sources:
 - url: https://www.amnesty.org/en/latest/press-release/2017/01/usa-commutation-for-chelsea-manning-long-overdue-positive-step-for-human-rights/
   title: Commutation for Chelsea Manning

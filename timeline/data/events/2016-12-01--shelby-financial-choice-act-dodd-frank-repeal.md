@@ -3,6 +3,7 @@ id: 2016-12-01--shelby-financial-choice-act-dodd-frank-repeal
 date: '2016-12-01'
 title: Banking Committee Chairman Shelby Advocates for Financial CHOICE Act to Gut Dodd-Frank
 importance: 8
+status: confirmed
 tags:
 - regulatory-capture
 - financial-sector

@@ -3,6 +3,7 @@ id: 2018-05-14--seattle-head-tax-amazon-threatens-city-wapo-opposes
 date: 2018-05-14
 title: Seattle Passes Head Tax on Large Employers—Amazon Threatens Expansion Halt, Washington Post Editorial Aligns with Owner's Interests
 importance: 8
+status: confirmed
 tags:
 - media-capture
 - corporate-welfare

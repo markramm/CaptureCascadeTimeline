@@ -3,6 +3,7 @@ id: 2018-07-17--trump-would-wouldnt-helsinki-walkback-fails
 date: 2018-07-17
 title: Trump Claims He Misspoke "Would" Instead of "Wouldn't" in Implausible Helsinki Walkback Attempt
 importance: 8
+status: confirmed
 tags:
 - russia
 - trump

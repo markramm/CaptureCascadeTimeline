@@ -3,6 +3,7 @@ id: 2016-10-08--raytheon-weapons-funeral-hall-massacre-sanaa-155-killed
 date: '2016-10-08'
 title: Saudi Coalition Uses US-Made Bombs to Kill 155 at Yemen Funeral Hall in Sanaa
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - yemen-war

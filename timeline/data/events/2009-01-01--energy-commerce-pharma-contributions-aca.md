@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2009-01-01--energy-commerce-pharma-contributions-aca
 date: '2009-01-01'
 title: Energy and Commerce Committee Members Receive $45M From Pharma During ACA Debate

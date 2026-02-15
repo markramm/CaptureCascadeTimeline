@@ -3,6 +3,7 @@ id: 2023-09-01--ftc-orange-book-patent-gaming-policy-statement
 date: '2023-09-01'
 title: 'FTC Issues Policy Statement on Orange Book Patent Gaming: Pharmaceutical Evergreening as Unfair Competition Under Section 5'
 importance: 9
+status: confirmed
 actors:
 - FTC
 - Andrew N. Ferguson

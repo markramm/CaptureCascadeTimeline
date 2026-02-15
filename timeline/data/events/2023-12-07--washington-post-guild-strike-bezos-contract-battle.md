@@ -3,6 +3,7 @@ id: 2023-12-07--washington-post-guild-strike-bezos-contract-battle
 date: 2023-12-07
 title: Washington Post Workers Strike Against Bezos—First Walkout in Nearly 50 Years Over Job Cuts and Stalled Negotiations
 importance: 8
+status: confirmed
 tags:
 - media-capture
 - labor-suppression

@@ -1,6 +1,7 @@
 ---
 id: 1978-03-06--doj-sues-trump-again-violating-discrimination-settlement
 date: 1978-03-06
+status: confirmed
 title: 'DOJ Returns to Court: Trump Violated 1975 Discrimination Settlement'
 importance: 8
 tags:

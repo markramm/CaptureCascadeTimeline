@@ -3,6 +3,7 @@ id: 2022-07-05--voyager-digital-bankruptcy-crypto-contagion
 date: '2022-07-05'
 title: Voyager Digital Files Bankruptcy After Three Arrows Capital Collapse, Exposing Crypto Lending Contagion and Regulatory Failure
 importance: 8
+status: confirmed
 actors:
 - Voyager Digital
 - Three Arrows Capital

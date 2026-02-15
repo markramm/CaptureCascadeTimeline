@@ -26,6 +26,7 @@ sources:
   url: https://techcrunch.com/2025/04/17/ramp-is-trying-to-get-the-us-government-as-a-customer-after-seeing-a-tweet-from-doge/
 - title: bankingdive.com
   url: https://www.bankingdive.com/news/congressman-connolly-raises-questions-about-ramps-consideration-for-25m-federal-contract/748131/
+status: confirmed
 ---
 
 The Trump administration is fast-tracking a $25 million pilot contract for Ramp, a politically connected FinTech startup backed by Peter Thiel, Elon Musk, and JD Vance allies, to manage the $700 billion SmartPay government expense card program. Ramp, valued at $13 billion, has deep ties to Trump-aligned investors including Founders Fund, Thrive Capital (Joshua Kushner's firm), and 8VC. Rep. Gerald Connolly launched an investigation into potential preferential treatment, questioning Ramp's zero federal contracting experience and its investors' political connections.

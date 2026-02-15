@@ -3,6 +3,7 @@ id: 2020-02-19--ellison-hosts-trump-fundraiser-rancho-mirage-7-million
 date: '2020-02-19'
 title: Larry Ellison Hosts Trump Fundraiser at California Estate, Raises $7 Million
 importance: 8
+status: confirmed
 tags:
 - political-donations
 - corruption

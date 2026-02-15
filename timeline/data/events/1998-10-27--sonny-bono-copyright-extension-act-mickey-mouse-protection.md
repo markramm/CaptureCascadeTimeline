@@ -3,6 +3,7 @@ id: 1998-10-27--sonny-bono-copyright-extension-act-mickey-mouse-protection
 date: '1998-10-27'
 title: 'Sonny Bono Copyright Term Extension Act: Disney Lobbying Creates ''Mickey Mouse Protection Act,'' Extending Corporate Rent Extraction by 20 Years'
 importance: 9
+status: confirmed
 actors:
 - Walt Disney Company
 - Bill Clinton

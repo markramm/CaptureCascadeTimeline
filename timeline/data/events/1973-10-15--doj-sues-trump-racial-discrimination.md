@@ -1,6 +1,7 @@
 ---
 id: 1973-10-15--doj-sues-trump-racial-discrimination
 date: 1973-10-15
+status: confirmed
 title: DOJ Sues Trump and Father for Systemic Housing Discrimination
 importance: 8
 tags:

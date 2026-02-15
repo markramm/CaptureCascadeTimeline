@@ -1,6 +1,7 @@
 ---
 id: 1982-03-23--guatemala-rios-montt-coup-reagan-support-begins
 date: 1982-03-23
+status: confirmed
 title: Guatemala Military Coup Brings Ríos Montt to Power with Reagan Support
 importance: 9
 tags:

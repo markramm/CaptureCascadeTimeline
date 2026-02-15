@@ -3,6 +3,7 @@ id: 2023-06-26--silicon-valley-bank-executive-sells-shares-before-collapse
 date: '2023-06-26'
 title: SVB Executives Sold $84 Million in Stock Before Bank Collapse
 importance: 8
+status: confirmed
 tags:
 - financial-capture
 - silicon-valley

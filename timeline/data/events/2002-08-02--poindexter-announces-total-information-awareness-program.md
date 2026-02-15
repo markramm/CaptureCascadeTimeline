@@ -1,6 +1,7 @@
 ---
 id: 2002-08-02--poindexter-announces-total-information-awareness-program
 date: '2002-08-02'
+status: confirmed
 title: Poindexter Announces DARPA Total Information Awareness Program
 importance: 9
 actors:

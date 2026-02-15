@@ -3,6 +3,7 @@ id: 2020-02-21--doj-declines-prosecution-executives
 date: '2020-02-21'
 title: DOJ Declines Criminal Prosecution of Wells Fargo Executives
 importance: 10
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

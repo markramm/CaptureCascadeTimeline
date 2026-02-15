@@ -3,6 +3,7 @@ id: 2005-06-30--congressional-junkets-lobbyist-funded-travel
 date: '2005-06-30'
 title: Investigation Reveals $15M in Lobbyist-Funded Congressional Travel and Fact-Finding Junkets
 importance: 8
+status: confirmed
 tags:
 - congressional-corruption
 - lobbying

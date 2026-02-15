@@ -3,6 +3,7 @@ id: 2018-11-13--amazon-selects-nyc-arlington-hq2-billions-subsidies
 date: 2018-11-13
 title: Amazon Selects NYC and Arlington for HQ2—Extracting at Least $4.6 Billion in Subsidies
 importance: 9
+status: confirmed
 tags:
 - corporate-welfare
 - economic-extraction

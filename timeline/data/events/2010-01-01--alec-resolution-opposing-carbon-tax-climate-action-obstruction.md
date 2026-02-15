@@ -3,6 +3,7 @@ id: 2010-01-01--alec-resolution-opposing-carbon-tax-climate-action-obstruction
 date: '2010-01-01'
 title: ALEC's 'Resolution in Opposition to a Carbon Tax' Obstructs Market-Based Climate Solutions
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council
 - Koch Industries

@@ -3,6 +3,7 @@ id: 1986-11-25--iran-contra-scandal-publicly-exposed
 date: 1986-11-25
 title: Attorney General Meese Reveals Iran-Contra Scandal to Public
 importance: 10
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

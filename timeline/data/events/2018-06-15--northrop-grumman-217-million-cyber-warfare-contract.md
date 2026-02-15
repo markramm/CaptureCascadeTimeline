@@ -3,6 +3,7 @@ id: 2018-06-15--northrop-grumman-217-million-cyber-warfare-contract
 date: '2018-06-15'
 title: Northrop Grumman Wins $217 Million Cyber Warfare Contract for Unified Platform
 importance: 8
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Cyber Command

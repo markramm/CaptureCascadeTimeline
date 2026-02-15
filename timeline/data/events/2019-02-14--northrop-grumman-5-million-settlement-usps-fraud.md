@@ -3,6 +3,7 @@ id: 2019-02-14--northrop-grumman-5-million-settlement-usps-fraud
 date: '2019-02-14'
 title: Northrop Grumman Pays $5.2 Million for Fraudulent USPS Contract Labor Billing
 importance: 7
+status: confirmed
 actors:
 - Northrop Grumman
 - Department of Justice

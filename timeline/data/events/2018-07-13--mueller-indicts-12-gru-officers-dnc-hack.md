@@ -3,6 +3,7 @@ id: 2018-07-13--mueller-indicts-12-gru-officers-dnc-hack
 date: 2018-07-13
 title: Mueller Indicts 12 GRU Officers for Hacking DNC and Democratic Campaign Infrastructure
 importance: 10
+status: confirmed
 tags:
 - mueller investigation
 - russia interference

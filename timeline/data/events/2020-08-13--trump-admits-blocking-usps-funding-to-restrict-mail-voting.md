@@ -3,6 +3,7 @@ id: 2020-08-13--trump-admits-blocking-usps-funding-to-restrict-mail-voting
 date: 2020-08-13
 title: Trump Explicitly Admits Blocking USPS Funding to Restrict Mail Voting
 importance: 9
+status: confirmed
 tags:
 - election interference
 - usps

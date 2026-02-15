@@ -3,6 +3,7 @@ id: 2021-07-06--pentagon-cancels-jedi-creates-jwcc-multi-vendor-program
 date: 2021-07-06
 title: Pentagon Cancels $10B JEDI Contract, Creates Joint Warfighter Cloud Capability
 importance: 8
+status: confirmed
 actors:
 - Pentagon
 - Microsoft

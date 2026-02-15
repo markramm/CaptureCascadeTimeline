@@ -1,6 +1,7 @@
 ---
 id: 1981-01-01--reagan-era-wage-stagnation-begins-real-wages-decline
 date: '1981-01-01'
+status: confirmed
 title: 'Reagan Era Wage Stagnation: Real Wages Decline as Inequality Accelerates'
 importance: 9
 location: United States

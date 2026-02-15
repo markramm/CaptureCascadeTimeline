@@ -3,6 +3,7 @@ id: 2005-01-01--alec-great-schools-tax-credit-voucher-model-legislation
 date: '2005-01-01'
 title: ALEC Approves 'Great Schools Tax Credit' Model - Launches Systematic Education Privatization Campaign
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council (ALEC)
 - ALEC Education Task Force

@@ -14,6 +14,7 @@ actors:
 - Google
 - Larry Ellison
 - Sun Microsystems
+status: confirmed
 sources:
 - title: Google LLC v. Oracle America, Inc.
   url: https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America,_Inc.

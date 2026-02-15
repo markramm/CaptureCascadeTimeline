@@ -3,6 +3,7 @@ id: 2020-06-15--louis-dejoy-begins-serving-as-postmaster-general
 date: 2020-06-15
 title: Louis DeJoy Begins Serving as Postmaster General Despite Conflicts of Interest
 importance: 9
+status: confirmed
 tags:
 - election interference
 - usps

@@ -3,6 +3,7 @@ id: 1985-08-20--iran-contra-first-arms-shipment-israel
 date: 1985-08-20
 title: First Secret Arms Shipment to Iran Initiates Iran-Contra Scandal
 importance: 10
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

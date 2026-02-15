@@ -3,6 +3,7 @@ id: 2005-07-01--toys-r-us-lbo-begins-death-spiral
 date: '2005-07-01'
 title: Bain, KKR, and Vornado Acquire Toys 'R' Us for $6.6 Billion, Loading Company with $5 Billion Debt
 importance: 9
+status: confirmed
 actors:
 - Bain Capital
 - KKR

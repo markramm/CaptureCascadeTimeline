@@ -12,6 +12,7 @@ summary: 'U.S. Representative Duncan D. Hunter pleaded guilty in federal court i
 
   '
 importance: 8
+status: confirmed
 tags:
 - congressional corruption
 - campaign finance violations

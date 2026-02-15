@@ -2,6 +2,7 @@
 id: 2016-03-16--obama-nominates-merrick-garland-mcconnell-refuses-hearings
 date: '2016-03-16'
 title: Obama Nominates Merrick Garland to Supreme Court, McConnell and Senate Republicans Refuse to Hold Hearings or Vote
+status: confirmed
 importance: 9
 tags:
 - supreme court

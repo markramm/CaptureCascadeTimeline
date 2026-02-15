@@ -39,6 +39,7 @@ actors:
 - Securities and Exchange Commission
 - Senate Special Committee on Aging
 - Big Pharma
+status: confirmed
 ---
 
 Valeant Pharmaceuticals' October 2015 disclosure of its relationship with specialty pharmacy Philidor Rx Services triggered the unraveling of a systematic drug price gouging scheme that had raised prices on dozens of medications by 50-3000% over two years. Under CEO Michael Pearson, Valeant pursued a business model focused on acquiring existing drugs, slashing research and development, and implementing extreme price increases—raising net prices across its drug portfolio by 41.3% between October 2014 and October 2015. The Southern Investigative Reporting Foundation revealed that Philidor appeared to be controlled by Valeant despite never being disclosed to shareholders, and used aggressive tactics including altering prescriptions to push Valeant's high-priced drugs instead of generics. The scandal caused Valeant's stock to plunge 60% in three months, led to congressional hearings on pharmaceutical price gouging, and resulted in SEC charges for misleading financial disclosures.

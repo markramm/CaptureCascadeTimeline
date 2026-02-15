@@ -2,6 +2,7 @@
 id: 2016-05-31--trump-university-playbook-unsealed-predatory-tactics
 date: 2016-05-31
 title: Judge Unseals Trump University Documents Revealing Predatory Sales Playbook Targeting Vulnerable Consumers
+status: confirmed
 importance: 9
 tags:
 - trump university

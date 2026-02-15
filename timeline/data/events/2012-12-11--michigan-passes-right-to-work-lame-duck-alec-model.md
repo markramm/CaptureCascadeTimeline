@@ -21,6 +21,7 @@ tags:
 - lame-duck-session
 - koch-network
 - model-legislation
+status: confirmed
 sources:
 - title: Michigan Passes 'Right to Work' Containing Verbatim Language from ALEC Model Bill
   url: https://www.prwatch.org/news/2012/12/11903/michigan-passes-right-work-containing-verbatim-language-alec-model-bill

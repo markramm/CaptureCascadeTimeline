@@ -3,6 +3,7 @@ id: 2021-07-29--trevor-milton-indicted-nikola-spac-fraud
 date: '2021-07-29'
 title: Nikola Founder Trevor Milton Indicted for Securities Fraud, Exposing How SPAC Loophole Enabled Investor Deception
 importance: 9
+status: confirmed
 actors:
 - Trevor Milton
 - Nikola Corporation

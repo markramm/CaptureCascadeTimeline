@@ -3,6 +3,7 @@ id: 2025-08-19--student-visas-revoked-palestinian-activism
 date: '2025-08-19'
 title: State Department Revokes 6,000+ Student Visas, Targeting Palestinian Activists
 importance: 8
+status: confirmed
 actors:
 - State Department
 - Marco Rubio

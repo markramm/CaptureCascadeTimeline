@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-12-29--att-bellsouth-merger-bell-system-reassembled
 date: '2006-12-29'
 title: 'AT&T Completes $86 Billion BellSouth Acquisition: Bell System Reassembled After 1984 Breakup'

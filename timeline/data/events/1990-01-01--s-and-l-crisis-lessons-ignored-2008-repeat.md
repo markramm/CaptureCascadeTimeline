@@ -3,6 +3,7 @@ id: 1990-01-01--s-and-l-crisis-lessons-ignored-2008-repeat
 date: '1990-01-01'
 title: 'S&L Crisis Lessons Documented But Ignored: Stage Set for 2008 Repeat'
 importance: 8
+status: confirmed
 location: United States
 actors:
 - Financial regulators

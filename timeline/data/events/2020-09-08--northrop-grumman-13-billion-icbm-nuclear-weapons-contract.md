@@ -3,6 +3,7 @@ id: 2020-09-08--northrop-grumman-13-billion-icbm-nuclear-weapons-contract
 date: '2020-09-08'
 title: Northrop Grumman Wins $13.3 Billion Contract for Ground Based Strategic Deterrent Nuclear ICBMs
 importance: 10
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force

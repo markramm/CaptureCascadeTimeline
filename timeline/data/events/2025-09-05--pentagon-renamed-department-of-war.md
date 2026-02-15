@@ -27,6 +27,7 @@ tags:
 - institutional-capture
 - executive-overreach
 - militarism
+status: confirmed
 ---
 
 President Trump signed an executive order rebranding the Department of Defense as the 'Department of War,' which the White House claimed would serve as a 'secondary title.' Trump told reporters the change was 'more appropriate' and criticized the previous name as 'woke,' arguing the U.S. won World War I and II under the Department of War name. Defense Secretary Pete Hegseth said the new name signals a 'more offensive approach' for the U.S. military. Pentagon officials immediately changed signage outside Hegseth's office, and the department's website defense.gov was rerouted to war.gov displaying 'U.S. Department of War.' The executive order bypassed federal law requiring Congressional approval for such changes. The order instructs Hegseth to propose legislative and executive actions to make the name permanently U.S. Department of War. Critics warn this signals authoritarian militarism and erosion of constitutional checks on presidential power.

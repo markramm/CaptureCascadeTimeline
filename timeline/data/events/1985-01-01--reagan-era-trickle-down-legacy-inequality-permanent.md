@@ -3,6 +3,7 @@ id: 1985-01-01--reagan-era-trickle-down-legacy-inequality-permanent
 date: '1985-01-01'
 title: 'Trickle-Down Legacy: Reagan Policies Make Inequality Structural Feature'
 importance: 8
+status: confirmed
 location: United States
 actors:
 - Ronald Reagan

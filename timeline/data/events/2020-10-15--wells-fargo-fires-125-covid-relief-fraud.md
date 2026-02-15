@@ -3,6 +3,7 @@ id: 2020-10-15--wells-fargo-fires-125-covid-relief-fraud
 date: '2020-10-15'
 title: Wells Fargo Fires 125 Employees for COVID Relief Fraud, Culture Unchanged
 importance: 7
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

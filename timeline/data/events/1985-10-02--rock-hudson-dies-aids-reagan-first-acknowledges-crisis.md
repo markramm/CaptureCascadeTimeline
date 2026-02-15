@@ -3,6 +3,7 @@ id: 1985-10-02--rock-hudson-dies-aids-reagan-first-acknowledges-crisis
 date: '1985-10-02'
 title: 'Rock Hudson Dies of AIDS: Reagan Forced to Finally Acknowledge Crisis'
 importance: 8
+status: confirmed
 location: Beverly Hills, California
 actors:
 - Rock Hudson

@@ -3,6 +3,7 @@ id: 2018-11-06--florida-amendment-4-restores-voting-rights
 date: 2018-11-06
 title: Florida Voters Approve Amendment 4 Restoring Voting Rights to 1.4 Million with Felony Convictions
 importance: 8
+status: confirmed
 tags:
 - voting-rights
 - florida

@@ -17,6 +17,7 @@ tags:
 - union-busting
 - model-legislation
 - scott-walker
+status: confirmed
 sources:
 - title: Wisconsin Gov. Scott Walker Signs Right-To-Work Bill
   url: https://www.npr.org/sections/thetwo-way/2015/03/09/391901732/wisconsin-gov-scott-walker-sighs-right-to-work-bill

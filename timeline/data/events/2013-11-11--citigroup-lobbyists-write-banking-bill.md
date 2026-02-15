@@ -29,6 +29,7 @@ actors:
 - Citigroup
 - House Financial Services Committee
 - Wall Street
+status: confirmed
 ---
 
 Investigation revealed that Citigroup lobbyists drafted a House bill aimed at rolling back Dodd-Frank financial regulations, with 70 of the 85 lines in the final House legislation directly reflecting Citigroup's recommendations. Two complete paragraphs were copied almost word-for-word from Citigroup's draft, with House lawmakers only changing two words to make them plural. The bill, introduced by multiple House members including Financial Services Committee members, sought to allow banks to continue trading certain derivatives—precisely the complex financial instruments that contributed to the 2008 financial crisis and that Dodd-Frank sought to regulate.

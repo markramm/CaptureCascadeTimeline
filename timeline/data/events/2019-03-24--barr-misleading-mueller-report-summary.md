@@ -3,6 +3,7 @@ id: 2019-03-24--barr-misleading-mueller-report-summary
 date: 2019-03-24
 title: Attorney General Barr Releases Misleading 4-Page Summary of Mueller Report
 importance: 10
+status: confirmed
 tags:
 - mueller investigation
 - obstruction of justice

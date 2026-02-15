@@ -14,6 +14,7 @@ tags:
 - government-contracts
 - corporate-capture
 - aws
+status: confirmed
 sources:
 - url: https://www.theregister.com/2013/03/19/aws_allegedly_helps_cia_build_spy_cloud/
   title: 'Report: AWS gets $600m contract to build CIA spy cloud'

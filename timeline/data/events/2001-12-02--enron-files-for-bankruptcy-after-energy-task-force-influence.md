@@ -3,6 +3,7 @@ id: 2001-12-02--enron-files-for-bankruptcy-after-energy-task-force-influence
 date: '2001-12-02'
 title: Enron Bankruptcy After Energy Task Force Meetings
 importance: 10
+status: confirmed
 tags:
 - corporate-fraud
 - energy-policy

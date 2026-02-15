@@ -3,6 +3,7 @@ id: 2018-10-16--abbvie-humira-patent-thicket-blocks-biosimilars
 date: '2018-10-16'
 title: AbbVie Humira Patent Thicket Delays US Biosimilars Until 2023 Despite 2016 Patent Expiration and European Competition
 importance: 9
+status: confirmed
 tags:
 - pharmaceutical-industry
 - patent-abuse

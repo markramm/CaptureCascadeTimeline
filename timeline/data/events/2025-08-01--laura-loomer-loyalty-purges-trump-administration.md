@@ -3,6 +3,7 @@ id: 2025-08-01--laura-loomer-loyalty-purges-trump-administration
 date: '2025-08-01'
 title: Far-Right Activist Laura Loomer Orchestrates Mass Loyalty Purges Across Trump Administration
 importance: 9
+status: confirmed
 actors:
 - Laura Loomer
 - Donald Trump

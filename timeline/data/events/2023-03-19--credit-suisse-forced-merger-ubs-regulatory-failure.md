@@ -3,6 +3,7 @@ id: 2023-03-19--credit-suisse-forced-merger-ubs-regulatory-failure
 date: '2023-03-19'
 title: Swiss Government Forces Emergency UBS Acquisition of Credit Suisse After Regulatory Failure, Ending 167 Years of Swiss Banking History
 importance: 9
+status: confirmed
 actors:
 - Credit Suisse
 - UBS

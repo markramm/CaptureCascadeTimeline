@@ -3,6 +3,7 @@ id: 2025-05-22--who-won-a-seat-at-trump-s-crypto-dinner
 date: '2025-05-22'
 title: Trump Hosts Controversial $TRUMP Memecoin Crypto Dinner
 importance: 8
+status: confirmed
 actors:
 - Donald Trump
 - Justin Sun

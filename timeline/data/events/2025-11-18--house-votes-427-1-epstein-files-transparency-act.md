@@ -38,6 +38,7 @@ actors:
 - Ro Khanna
 - Chuck Schumer
 - Pam Bondi
+status: confirmed
 ---
 
 On November 18, 2025, the House of Representatives voted 427-1 to pass the Epstein Files Transparency Act, delivering a stunning bipartisan rebuke to President Trump's months-long opposition to transparency. The only dissenting vote came from Representative Clay Higgins (R-LA), a Trump supporter who argued the bill could expose innocent people mentioned in the investigation. The Senate unanimously approved the measure the same day by unanimous consent, sending it to Trump's desk. Trump indicated through a senior White House official that he would sign the bill "whenever it gets to the White House."

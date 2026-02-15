@@ -3,6 +3,7 @@ id: 2022-08-19--oracle-privacy-class-action-surveillance-5-billion-people
 date: '2022-08-19'
 title: Oracle Faces Class Action Lawsuit Over "Surveillance Machine" Tracking 5 Billion People
 importance: 9
+status: confirmed
 tags:
 - surveillance
 - privacy

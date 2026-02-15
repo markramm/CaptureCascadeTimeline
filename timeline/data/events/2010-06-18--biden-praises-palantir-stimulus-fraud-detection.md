@@ -3,6 +3,7 @@ id: 2010-06-18--biden-praises-palantir-stimulus-fraud-detection
 date: '2010-06-18'
 title: Vice President Biden Credits Palantir Software for Detecting Stimulus Fraud
 importance: 7
+status: confirmed
 actors:
 - Joe Biden
 - Peter Orszag

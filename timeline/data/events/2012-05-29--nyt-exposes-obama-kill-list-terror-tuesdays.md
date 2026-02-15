@@ -17,6 +17,7 @@ tags:
 - cia
 - assassination
 - executive-power
+status: confirmed
 sources:
 - title: Secret Kill List Proves a Test of Obama's Principles and Will
   url: https://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html

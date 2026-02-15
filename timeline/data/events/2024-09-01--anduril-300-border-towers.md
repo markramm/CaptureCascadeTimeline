@@ -3,6 +3,7 @@ id: 2024-09-01--anduril-300-border-towers
 date: '2024-09-01'
 title: Anduril Deploys 300th Autonomous Surveillance Tower at U.S.-Mexico Border
 importance: 7
+status: confirmed
 actors:
 - Anduril Industries
 - U.S. Customs and Border Protection

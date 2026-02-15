@@ -1,6 +1,7 @@
 ---
 id: 2002-01-01--alec-scholarship-program-corporate-funded-legislator-resort-trips
 date: '2002-01-01'
+status: confirmed
 title: ALEC's Corporate 'Scholarship' Program Funds Legislator Trips to Luxury Resort Conferences
 importance: 8
 actors:

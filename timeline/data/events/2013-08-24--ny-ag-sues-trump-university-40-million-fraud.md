@@ -14,6 +14,7 @@ actors:
 - Eric Schneiderman
 - Donald Trump
 - Michael Sexton
+status: confirmed
 sources:
 - url: https://ag.ny.gov/press-release/2013/ag-schneiderman-sues-donald-trump-trump-university-michael-sexton-defrauding
   title: A.G. Schneiderman Sues Donald Trump, Trump University & Michael Sexton For Defrauding Consumers Out Of $40 Million

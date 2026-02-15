@@ -3,6 +3,7 @@ id: 2025-08-14--lutnick-cantor-fitzgerald-tariff-insider-trading
 date: '2025-08-14'
 title: Senate Probes Commerce Secretary Lutnick's Firm for Tariff Insider Trading
 importance: 8
+status: confirmed
 actors:
 - Howard Lutnick
 - Brandon Lutnick

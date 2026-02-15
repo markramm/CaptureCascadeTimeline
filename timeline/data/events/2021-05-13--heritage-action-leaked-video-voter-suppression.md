@@ -51,6 +51,7 @@ summary: 'A leaked video obtained by the watchdog group Documented and shared wi
 
   '
 importance: 9
+status: confirmed
 actors:
 - Heritage Action
 - Jessica Anderson

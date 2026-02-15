@@ -3,6 +3,7 @@ id: 2019-06-28--florida-sb-7066-poll-tax-amendment-4
 date: 2019-06-28
 title: Florida Legislature Enacts "Poll Tax" Requiring Payment of Fines to Undermine Amendment 4
 importance: 9
+status: confirmed
 tags:
 - voter-suppression
 - florida

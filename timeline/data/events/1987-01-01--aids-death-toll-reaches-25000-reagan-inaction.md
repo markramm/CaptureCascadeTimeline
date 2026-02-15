@@ -3,6 +3,7 @@ id: 1987-01-01--aids-death-toll-reaches-25000-reagan-inaction
 date: '1987-01-01'
 title: 'AIDS Death Toll Reaches 25,000: Reagan Administration Inaction Continues'
 importance: 9
+status: confirmed
 location: United States
 actors:
 - Ronald Reagan

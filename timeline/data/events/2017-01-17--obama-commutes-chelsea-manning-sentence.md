@@ -3,6 +3,7 @@ id: 2017-01-17--obama-commutes-chelsea-manning-sentence
 date: 2017-01-17
 title: Obama Commutes Chelsea Manning's Sentence After Brutal Imprisonment
 importance: 8
+status: confirmed
 actors:
 - Barack Obama
 - Chelsea Manning

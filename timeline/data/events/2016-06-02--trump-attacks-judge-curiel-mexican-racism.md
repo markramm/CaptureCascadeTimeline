@@ -2,6 +2,7 @@
 id: 2016-06-02--trump-attacks-judge-curiel-mexican-racism
 date: 2016-06-02
 title: Trump Attacks Federal Judge Curiel as "Mexican" Despite Indiana Birth, Paul Ryan Calls It "Textbook Racism"
+status: confirmed
 importance: 9
 tags:
 - trump university

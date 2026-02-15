@@ -3,6 +3,7 @@ id: 2019-04-11--david-bernhardt-confirmed-conflicts-of-interest
 date: 2019-04-11
 title: Interior Secretary David Bernhardt Confirmed Despite Extensive Conflicts from Oil and Gas Lobbying Career
 importance: 8
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

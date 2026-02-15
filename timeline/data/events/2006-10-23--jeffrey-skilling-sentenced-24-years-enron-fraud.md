@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-10-23--jeffrey-skilling-sentenced-24-years-enron-fraud
 date: 2006-10-23
 title: Jeffrey Skilling Sentenced to 24 Years for Enron Fraud

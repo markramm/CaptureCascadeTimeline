@@ -2,6 +2,7 @@
 id: 2018-01-25--trump-orders-mcgahn-deny-mueller-firing-story
 date: 2018-01-25
 title: New York Times Reveals Trump Ordered McGahn to Fire Mueller; Trump Subsequently Demands McGahn Deny Story and Create False Record
+status: confirmed
 importance: 9
 tags:
 - obstruction of justice

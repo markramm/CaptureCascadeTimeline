@@ -86,6 +86,7 @@ summary: 'The Trump Administration officially accepted a Boeing 747-8 luxury jet
 
   '
 importance: 10
+status: confirmed
 actors:
 - Donald Trump
 - Qatar

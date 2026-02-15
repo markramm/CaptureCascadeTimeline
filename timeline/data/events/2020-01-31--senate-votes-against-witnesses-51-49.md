@@ -3,6 +3,7 @@ id: 2020-01-31--senate-votes-against-witnesses-51-49
 date: 2020-01-31
 title: Senate Votes 51-49 to Block Witnesses in Impeachment Trial, Ensuring Trump Acquittal
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - senate trial

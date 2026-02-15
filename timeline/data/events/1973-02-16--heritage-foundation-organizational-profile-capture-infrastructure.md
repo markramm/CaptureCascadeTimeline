@@ -1,6 +1,7 @@
 ---
 id: 1973-02-16--heritage-foundation-organizational-profile-capture-infrastructure
 date: '1973-02-16'
+status: confirmed
 title: 'Heritage Foundation Organizational Profile: Conservative Policy Infrastructure and Corporate Capture Mechanism'
 importance: 9
 actors:

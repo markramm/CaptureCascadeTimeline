@@ -3,6 +3,7 @@ id: 2025-08-11--trump-dc-police-federal-takeover-national-guard
 date: '2025-08-11'
 title: Trump Federalizes DC Police and Deploys 800 National Guard Troops Despite Declining Crime
 importance: 9
+status: confirmed
 actors:
 - Donald Trump
 - Pam Bondi

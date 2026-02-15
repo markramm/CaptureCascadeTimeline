@@ -3,6 +3,7 @@ id: 2025-08-11--trump-nominates-ej-antoni-bls-commissioner
 date: '2025-08-11'
 title: Trump Nominates Partisan Heritage Foundation Economist to Lead Bureau of Labor Statistics
 importance: 9
+status: confirmed
 actors:
 - E.J. Antoni
 - Donald Trump

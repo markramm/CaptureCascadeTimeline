@@ -3,6 +3,7 @@ id: 2020-01-30--raytheon-profits-surge-iran-tensions-patriot-sales
 date: '2020-01-30'
 title: Raytheon Profits Surge on Iran War Fears, CEO Cites Strong International Patriot Missile Demand
 importance: 8
+status: confirmed
 tags:
 - raytheon
 - war-profiteering

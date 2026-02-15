@@ -3,6 +3,7 @@ id: 2020-11-20--cia-awards-c2e-cloud-contract-oracle-aws-microsoft-google-ibm
 date: '2020-11-20'
 title: CIA Awards Multibillion-Dollar C2E Cloud Contract to Oracle, AWS, Microsoft, Google, IBM
 importance: 9
+status: confirmed
 tags:
 - intelligence-agencies
 - surveillance

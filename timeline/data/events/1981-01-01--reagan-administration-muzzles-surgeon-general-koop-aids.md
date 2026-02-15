@@ -1,6 +1,7 @@
 ---
 id: 1981-01-01--reagan-administration-muzzles-surgeon-general-koop-aids
 date: '1981-01-01'
+status: confirmed
 title: 'Reagan Administration Muzzles Surgeon General Koop on AIDS for Five Years'
 importance: 8
 location: Washington, DC

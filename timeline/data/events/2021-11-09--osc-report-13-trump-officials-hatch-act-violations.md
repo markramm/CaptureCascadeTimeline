@@ -3,6 +3,7 @@ id: 2021-11-09--osc-report-13-trump-officials-hatch-act-violations
 date: 2021-11-09
 title: Office of Special Counsel Report Documents Hatch Act Violations by 13 Senior Trump Officials, Finding "Willful Disregard" for Federal Law
 importance: 9
+status: confirmed
 tags:
 - hatch act
 - ethics violations

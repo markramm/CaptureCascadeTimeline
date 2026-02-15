@@ -3,6 +3,7 @@ id: 2024-09-20--fda-commissioner-robert-califf-revolving-door-patter
 date: '2024-09-20'
 title: FDA Commissioner Califf's Pharmaceutical Industry Revolving Door Scrutinized
 importance: 8
+status: confirmed
 tags:
 - regulatory-capture
 - pharmaceutical-industry

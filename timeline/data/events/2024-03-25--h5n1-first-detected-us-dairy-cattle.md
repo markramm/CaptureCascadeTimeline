@@ -3,6 +3,7 @@ id: 2024-03-25--h5n1-first-detected-us-dairy-cattle
 date: '2024-03-25'
 title: H5N1 Bird Flu First Detected in U.S. Dairy Cattle in Texas
 importance: 8
+status: confirmed
 tags:
 - public-health
 - agricultural-crisis

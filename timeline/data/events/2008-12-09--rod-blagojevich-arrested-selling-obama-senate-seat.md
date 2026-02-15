@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-12-09--rod-blagojevich-arrested-selling-obama-senate-seat
 date: 2008-12-09
 title: Illinois Governor Rod Blagojevich Arrested for Attempting to Sell Obama's Senate Seat

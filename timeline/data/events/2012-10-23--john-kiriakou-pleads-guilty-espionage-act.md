@@ -14,6 +14,7 @@ tags:
 - espionage-act
 - accountability
 - war-crimes
+status: confirmed
 sources:
 - url: https://whistleblower.org/bio-john-kiriakou/
   title: Bio - John Kiriakou

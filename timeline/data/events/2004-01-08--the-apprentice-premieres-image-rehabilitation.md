@@ -3,6 +3,7 @@ id: 2004-01-08--the-apprentice-premieres-image-rehabilitation
 date: 2004-01-08
 title: The Apprentice Premieres on NBC, Rehabilitating Trump's Image After Bankruptcies
 importance: 7
+status: confirmed
 tags:
 - the apprentice
 - media

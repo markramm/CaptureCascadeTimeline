@@ -31,7 +31,7 @@ sources:
     him in the office
   url: https://fortune.com/2024/07/26/jd-vance-peter-thiel-venture-capital-mithril/
   access_date: '2025-10-06'
-status: validated
+status: confirmed
 ---
 
 Peter Thiel brings J.D. Vance into his global investment firm Mithril Capital as an investor, marking a significant moment in Vance's early professional career. This relationship positioned Vance within Thiel's influential tech and venture capital network, setting the stage for Vance's future political trajectory.

@@ -1,6 +1,7 @@
 ---
 id: 2002-06-15--arthur-andersen-convicted-85000-jobs-lost
 date: 2002-06-15
+status: confirmed
 title: Arthur Andersen Convicted, Destroying 85,000 Jobs Worldwide
 importance: 10
 tags:

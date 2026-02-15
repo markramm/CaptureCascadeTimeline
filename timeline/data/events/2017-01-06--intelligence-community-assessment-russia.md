@@ -3,6 +3,7 @@ id: 2017-01-06--intelligence-community-assessment-russia
 date: 2017-01-06
 title: Intelligence Community Assessment Concludes Putin Ordered Campaign to Influence 2016 Election
 importance: 9
+status: confirmed
 tags:
 - russia interference
 - intelligence community

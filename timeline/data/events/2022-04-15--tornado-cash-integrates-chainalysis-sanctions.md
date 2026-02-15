@@ -3,6 +3,7 @@ id: 2022-04-15--tornado-cash-integrates-chainalysis-sanctions
 date: 2022-04-15
 title: Tornado Cash Integrates Chainalysis Tool to Block OFAC-Sanctioned Addresses
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

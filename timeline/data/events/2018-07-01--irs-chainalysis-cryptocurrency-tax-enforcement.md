@@ -3,6 +3,7 @@ id: 2018-07-01--irs-chainalysis-cryptocurrency-tax-enforcement
 date: 2018-07-01
 title: IRS Launches Virtual Currency Compliance Campaign Using Chainalysis
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

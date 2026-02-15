@@ -3,6 +3,7 @@ id: 2019-10-30--bernhardt-california-water-decision-ig-investigation
 date: 2019-10-30
 title: Interior IG Investigates Bernhardt for California Water Decision Benefiting Former Client Westlands
 importance: 8
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

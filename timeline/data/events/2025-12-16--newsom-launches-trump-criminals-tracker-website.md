@@ -119,4 +119,5 @@ sources:
   date: 2025-12-16
   tier: 2
   outlet: 8 News Now
+status: confirmed
 ---

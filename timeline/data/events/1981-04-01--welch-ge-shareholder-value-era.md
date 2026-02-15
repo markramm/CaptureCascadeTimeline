@@ -1,6 +1,7 @@
 ---
 id: 1981-04-01--welch-ge-shareholder-value-era
 date: '1981-04-01'
+status: confirmed
 title: Jack Welch Becomes GE CEO, Launches 'Shareholder Value' Era and Mass Layoffs
 importance: 9
 actors:

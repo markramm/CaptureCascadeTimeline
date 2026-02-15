@@ -2,6 +2,7 @@
 id: 2018-01-01--agriculture-committee-agribusiness-farm-bill-lobbying
 date: '2018-01-01'
 title: Agriculture Committee Captured by Agribusiness - $523M Lobbying Shapes Farm Bill
+status: confirmed
 importance: 8
 tags:
 - regulatory-capture

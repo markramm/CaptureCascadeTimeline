@@ -3,6 +3,7 @@ id: 2024-10-16--raytheon-settles-950-million-fraud-bribery-patriot-overcharges
 date: '2024-10-16'
 title: Raytheon Pays $950 Million to Settle Charges of Defrauding Pentagon, Bribing Qatar, and Patriot Contract Fraud
 importance: 9
+status: confirmed
 tags:
 - raytheon
 - fraud

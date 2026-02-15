@@ -3,6 +3,7 @@ id: 2021-11-01--in-q-tel-leaders-launch-spac-revolving-door
 date: '2021-11-01'
 title: In-Q-Tel Leaders Launch Chain Bridge SPAC, Criticized as 'Revolving Door on Steroids'
 importance: 8
+status: confirmed
 actors:
 - Christopher Darby
 - Stephen Bowsher

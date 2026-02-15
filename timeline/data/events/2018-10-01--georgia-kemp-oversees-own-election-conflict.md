@@ -3,6 +3,7 @@ id: 2018-10-01--georgia-kemp-oversees-own-election-conflict
 date: 2018-10-01
 title: Georgia Secretary of State Brian Kemp Refuses to Recuse From Overseeing His Own Governor Election
 importance: 8
+status: confirmed
 tags:
 - conflict-of-interest
 - georgia

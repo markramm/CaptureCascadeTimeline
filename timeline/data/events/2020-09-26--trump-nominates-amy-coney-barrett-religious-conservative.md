@@ -3,6 +3,7 @@ id: 2020-09-26--trump-nominates-amy-coney-barrett-religious-conservative
 date: '2020-09-26'
 title: Trump Nominates Amy Coney Barrett to Supreme Court, Religious Conservative to Replace Liberal Icon Ginsburg
 importance: 9
+status: confirmed
 tags:
 - supreme court
 - judicial appointments

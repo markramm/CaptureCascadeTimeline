@@ -9,6 +9,7 @@ tags:
 - corporate-corruption
 - legislative-capture
 - alec
+status: confirmed
 sources:
 - url: https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/
   title: ALEC's Influence over Lawmaking in State Legislatures

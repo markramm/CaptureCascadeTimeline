@@ -3,6 +3,7 @@ id: 2021-10-20--steve-bannon-indicted-contempt-of-congress
 date: '2021-10-20'
 title: Steve Bannon Indicted for Contempt of Congress in January 6 Investigation
 importance: 9
+status: confirmed
 tags:
 - january-6
 - congressional-investigation

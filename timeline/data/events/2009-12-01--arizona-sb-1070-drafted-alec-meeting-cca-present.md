@@ -3,6 +3,7 @@ id: 2009-12-01--arizona-sb-1070-drafted-alec-meeting-cca-present
 date: '2009-12-01'
 title: Arizona SB 1070 Immigration Law Drafted at ALEC Meeting with CCA Executives - Direct Quid Pro Quo for Immigrant Detention Profits
 importance: 10
+status: confirmed
 actors:
 - ALEC
 - Corrections Corporation of America (CCA)

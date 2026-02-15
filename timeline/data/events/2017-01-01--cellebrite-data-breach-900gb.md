@@ -3,6 +3,7 @@ id: 2017-01-01--cellebrite-data-breach-900gb
 date: '2017-01-01'
 title: Hacker Steals 900 GB of Data from Cellebrite, Exposing Customer Information and Technical Details
 importance: 8
+status: confirmed
 actors:
 - Cellebrite
 tags:

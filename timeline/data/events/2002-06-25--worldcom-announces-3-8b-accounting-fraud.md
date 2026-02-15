@@ -1,6 +1,7 @@
 ---
 id: 2002-06-25--worldcom-announces-3-8b-accounting-fraud
 date: 2002-06-25
+status: confirmed
 title: WorldCom Announces $3.8 Billion Accounting Fraud Discovery
 importance: 10
 tags:

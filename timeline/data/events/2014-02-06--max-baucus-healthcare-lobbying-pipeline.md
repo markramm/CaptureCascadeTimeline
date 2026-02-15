@@ -3,6 +3,7 @@ id: 2014-02-06--max-baucus-healthcare-lobbying-pipeline
 date: '2014-02-06'
 title: Max Baucus Confirmed as Ambassador After Healthcare Industry Staffers Become Lobbyists
 importance: 8
+status: confirmed
 tags:
 - revolving-door
 - lobbying

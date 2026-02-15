@@ -3,6 +3,7 @@ id: 2024-07-18--davita-pays-34-million-kickback-settlement-pattern
 date: '2024-07-18'
 title: DaVita Pays $34 Million to Settle Third Kickback Case in Decade, Revealing Systematic Fraud Business Model
 importance: 8
+status: confirmed
 actors:
 - DaVita
 - Dennis Kogod

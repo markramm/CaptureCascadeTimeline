@@ -3,6 +3,7 @@ id: 2019-10-29--vindman-testifies-improper-trump-ukraine-call
 date: 2019-10-29
 title: Lt. Col. Vindman Testifies - "It Was Improper for the President to Demand Investigation of U.S. Citizen"
 importance: 9
+status: confirmed
 tags:
 - first impeachment
 - ukraine

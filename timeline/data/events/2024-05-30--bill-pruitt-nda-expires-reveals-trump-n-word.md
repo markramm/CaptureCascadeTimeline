@@ -3,6 +3,7 @@ id: 2024-05-30--bill-pruitt-nda-expires-reveals-trump-n-word
 date: 2024-05-30
 title: Apprentice Producer Bill Pruitt's NDA Expires, Reveals Trump Used N-Word on Camera
 importance: 7
+status: confirmed
 tags:
 - the apprentice
 - racism

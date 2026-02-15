@@ -3,6 +3,7 @@ id: 2016-10-10--ab-inbev-sabmiller-merger-beer-duopoly
 date: '2016-10-10'
 title: 'Anheuser-Busch InBev Completes $107 Billion SABMiller Acquisition: Beer Industry Consolidates Into Duopoly'
 importance: 9
+status: confirmed
 actors:
 - Anheuser-Busch InBev
 - SABMiller

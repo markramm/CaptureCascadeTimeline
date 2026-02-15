@@ -4,6 +4,7 @@ date: '2017-05-15'
 title: FCC Begins Investigation into Massive Fake Comments Campaign on Net Neutrality
   Repeal
 importance: 9
+status: confirmed
 tags:
 - digital-democracy
 - regulatory-capture

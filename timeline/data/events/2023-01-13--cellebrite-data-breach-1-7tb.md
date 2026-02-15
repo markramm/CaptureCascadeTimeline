@@ -3,6 +3,7 @@ id: 2023-01-13--cellebrite-data-breach-1-7tb
 date: '2023-01-13'
 title: Anonymous Whistleblower Leaks 1.7 TB of Cellebrite Data Including Full Software Suite
 importance: 8
+status: confirmed
 actors:
 - Cellebrite
 - Anonymous

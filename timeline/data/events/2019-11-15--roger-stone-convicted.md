@@ -3,6 +3,7 @@ id: 2019-11-15--roger-stone-convicted
 date: 2019-11-15
 title: Roger Stone Convicted on All Counts - Obstruction, Witness Tampering, and Lying to Congress
 importance: 8
+status: confirmed
 tags:
 - mueller investigation
 - wikileaks

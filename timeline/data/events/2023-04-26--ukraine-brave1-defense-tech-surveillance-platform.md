@@ -3,6 +3,7 @@ id: 2023-04-26--ukraine-brave1-defense-tech-surveillance-platform
 date: '2023-04-26'
 title: Ukraine Launches Brave1 State-Backed Defense and Surveillance Technology Platform
 importance: 7
+status: confirmed
 tags:
 - surveillance-state
 - military-technology

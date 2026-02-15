@@ -3,6 +3,7 @@ id: 2017-07-01--georgia-kemp-purges-560000-voters-exact-match
 date: '2017-07-01'
 title: Georgia Secretary of State Brian Kemp Purges 560,000 Voters in Single Day Using "Exact Match" System
 importance: 9
+status: confirmed
 tags:
 - voter-suppression
 - georgia

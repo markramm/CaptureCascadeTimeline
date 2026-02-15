@@ -1,6 +1,7 @@
 ---
 id: 2002-01-01--alec-living-wage-mandate-preemption-act-blocks-local-minimum-wage
 date: '2002-01-01'
+status: confirmed
 title: ALEC Adopts Living Wage Mandate Preemption Act to Block Local Minimum Wage Increases
 importance: 8
 actors:

@@ -18,22 +18,22 @@ actors:
 sources:
 - url: https://www.pbs.org/newshour/politics/watch-live-rep-elect-adelita-grijalva-is-sworn-in-7-weeks-after-election-teeing-up-epstein-vote
   title: 'WATCH LIVE: Rep.-Elect Adelita Grijalva is sworn in, 7 weeks after election, teeing up Epstein vote'
-  publisher: PBS NewsHour
+  outlet: PBS NewsHour
   date: '2025-11-12'
   tier: 1
 - url: https://www.npr.org/2025/11/12/nx-s1-5606350/adelita-grijalva-swearing-in
   title: Adelita Grijalva is set to be sworn in, teeing up a potential vote on Epstein files
-  publisher: NPR
+  outlet: NPR
   date: '2025-11-12'
   tier: 1
 - url: https://www.nbcnews.com/politics/congress/bipartisan-duo-expects-signatures-wednesday-force-vote-release-epstein-rcna231405
   title: Bipartisan duo expects to secure signatures Wednesday to force a vote to release Epstein files
-  publisher: NBC News
+  outlet: NBC News
   date: '2025-11-12'
   tier: 1
 - url: https://www.cnn.com/2025/11/12/politics/epstein-files-discharge-petition-next-steps
   title: The Epstein files petition is getting its 218th signature. What happens next?
-  publisher: CNN
+  outlet: CNN
   date: '2025-11-12'
   tier: 1
 status: confirmed

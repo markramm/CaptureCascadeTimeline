@@ -1,6 +1,7 @@
 ---
 id: 2002-12-01--cia-begins-enhanced-interrogation-techniques
 date: '2002-12-01'
+status: confirmed
 title: CIA Begins Systematic Use of Enhanced Interrogation Techniques on Detainees
 importance: 9
 actors:

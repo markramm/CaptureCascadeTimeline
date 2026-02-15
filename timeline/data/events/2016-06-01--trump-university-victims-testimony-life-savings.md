@@ -2,6 +2,7 @@
 id: 2016-06-01--trump-university-victims-testimony-life-savings
 date: 2016-06-01
 title: Trump University Victims Testify to Losing Retirement Savings, Disability Income to Fraudulent Scheme
+status: confirmed
 importance: 8
 tags:
 - trump university

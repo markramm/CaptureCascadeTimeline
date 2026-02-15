@@ -2,6 +2,7 @@
 id: 2018-03-06--osc-recommends-conway-discipline-hatch-act-violations
 date: 2018-03-06
 title: Office of Special Counsel Recommends Disciplining Kellyanne Conway for Hatch Act Violations
+status: confirmed
 importance: 8
 tags:
 - hatch act

@@ -3,6 +3,7 @@ id: 2019-11-15--bristol-myers-celgene-merger-pharma-consolidation
 date: '2019-11-15'
 title: Bristol-Myers Squibb Completes $74 Billion Celgene Acquisition Despite FTC Concerns
 importance: 9
+status: confirmed
 actors:
 - Bristol-Myers Squibb
 - Celgene

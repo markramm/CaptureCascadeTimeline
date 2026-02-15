@@ -3,6 +3,7 @@ id: 2021-02-03--canada-declares-clearview-ai-mass-surveillance-violation
 date: '2021-02-03'
 title: Canadian Privacy Commissioners Declare Clearview AI Represents "Mass Surveillance" of Citizens
 importance: 8
+status: confirmed
 tags:
 - surveillance-state
 - privacy-violations

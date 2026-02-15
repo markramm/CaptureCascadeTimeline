@@ -12,6 +12,7 @@ actors:
 - Wells Fargo
 - John Stumpf
 - Carrie Tolstedt
+status: confirmed
 sources:
 - url: https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/
   title: 'CFPB Enforcement Action: Wells Fargo Bank, N.A.'

@@ -2,6 +2,7 @@
 id: 2016-06-12--walgreens-terminates-theranos-partnership
 date: '2016-06-12'
 title: Walgreens Terminates Theranos Partnership After 31,000 Customers Receive Voided Test Results
+status: confirmed
 importance: 8
 actors:
 - Walgreens

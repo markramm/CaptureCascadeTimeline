@@ -3,6 +3,7 @@ id: 2018-03-15--toys-r-us-bankruptcy-pe-extracts-470-million
 date: '2018-03-15'
 title: 'Toys ''R'' Us Liquidation: PE Firms Extract $470 Million, 33,000 Workers Get Nothing'
 importance: 10
+status: confirmed
 actors:
 - Bain Capital
 - KKR

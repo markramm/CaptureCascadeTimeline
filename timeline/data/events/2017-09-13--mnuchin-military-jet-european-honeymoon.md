@@ -2,6 +2,7 @@
 id: 2017-09-13--mnuchin-military-jet-european-honeymoon
 date: 2017-09-13
 title: Treasury Secretary Mnuchin Requested Military Jet for European Honeymoon, Request Denied After Scrutiny
+status: confirmed
 importance: 7
 tags:
 - cabinet corruption

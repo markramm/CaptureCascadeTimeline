@@ -3,6 +3,7 @@ id: 2024-12-04--anduril-openai-partnership
 date: '2024-12-04'
 title: OpenAI Partners with Anduril to Integrate AI into Weapons Systems
 importance: 9
+status: confirmed
 actors:
 - OpenAI
 - Anduril Industries

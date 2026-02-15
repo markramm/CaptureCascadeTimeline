@@ -3,6 +3,7 @@ id: 2017-01-14--28-states-have-right-to-work-alec-systematic-success
 date: '2017-01-14'
 title: 28 States Adopt Right-to-Work Laws, Documenting ALEC's Systematic Labor Suppression Success
 importance: 10
+status: confirmed
 actors:
 - American Legislative Exchange Council (ALEC)
 - Koch brothers

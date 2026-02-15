@@ -3,6 +3,7 @@ id: 1997-01-01--usa-gymnastics-first-nassar-complaints-ignored
 date: '1997-01-01'
 title: First Complaints Against Larry Nassar Dismissed by Michigan State Coach Kathie Klages
 importance: 9
+status: confirmed
 actors:
 - Larry Nassar
 - Kathie Klages

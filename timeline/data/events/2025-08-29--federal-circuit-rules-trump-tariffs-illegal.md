@@ -3,6 +3,7 @@ id: 2025-08-29--federal-circuit-rules-trump-tariffs-illegal
 date: '2025-08-29'
 title: Federal Circuit Court Rules Trump Tariffs Violated IEEPA, Exceeded Presidential Authority
 importance: 9
+status: confirmed
 actors:
 - U.S. Court of Appeals for the Federal Circuit
 - Donald Trump

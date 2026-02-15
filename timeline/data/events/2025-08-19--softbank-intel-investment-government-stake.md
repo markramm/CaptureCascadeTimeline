@@ -3,6 +3,7 @@ id: 2025-08-19--softbank-intel-investment-government-stake
 date: '2025-08-19'
 title: Trump Converts CHIPS Act Grants to Government Equity Stake in Intel
 importance: 8
+status: confirmed
 actors:
 - Howard Lutnick
 - Intel Corporation

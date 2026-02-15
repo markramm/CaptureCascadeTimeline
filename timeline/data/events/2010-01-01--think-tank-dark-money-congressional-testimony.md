@@ -3,6 +3,7 @@ id: 2010-01-01--think-tank-dark-money-congressional-testimony
 date: '2010-01-01'
 title: Corporate-Funded Think Tanks Testify to Congress While Hiding Donor Conflicts of Interest
 importance: 8
+status: confirmed
 tags:
 - regulatory-capture
 - lobbying

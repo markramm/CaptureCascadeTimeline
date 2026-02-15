@@ -3,6 +3,7 @@ id: 2009-02-17--trump-entertainment-resorts-bankruptcy-resigns
 date: 2009-02-17
 title: Trump Entertainment Resorts Files Bankruptcy, Trump Resigns from Board
 importance: 7
+status: confirmed
 tags:
 - bankruptcy
 - business failure

@@ -3,6 +3,7 @@ id: 2025-05-29--federal-court-rules-ieepa-tariffs-illegal
 date: '2025-05-29'
 title: Federal Courts Rule Trump's IEEPA Tariffs Illegal in Multiple Cases
 importance: 9
+status: confirmed
 tags:
 - judicial-pushback
 - emergency-powers

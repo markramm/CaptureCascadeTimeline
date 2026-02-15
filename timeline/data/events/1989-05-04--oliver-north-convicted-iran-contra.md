@@ -3,6 +3,7 @@ id: 1989-05-04--oliver-north-convicted-iran-contra
 date: 1989-05-04
 title: Oliver North Convicted of Iran-Contra Felonies, Later Overturned on Immunity
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

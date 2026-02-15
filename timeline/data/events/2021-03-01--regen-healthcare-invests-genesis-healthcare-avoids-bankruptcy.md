@@ -3,6 +3,7 @@ id: 2021-03-01--regen-healthcare-invests-genesis-healthcare-avoids-bankruptcy
 date: '2021-03-01'
 title: Private Equity Firm ReGen Healthcare Invests $100M in Failing Genesis Healthcare, Beginning Four-Year Collapse to Bankruptcy
 importance: 8
+status: confirmed
 actors:
 - Genesis Healthcare
 - ReGen Healthcare

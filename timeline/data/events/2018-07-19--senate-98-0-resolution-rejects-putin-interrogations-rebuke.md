@@ -3,6 +3,7 @@ id: 2018-07-19--senate-98-0-resolution-rejects-putin-interrogations-rebuke
 date: 2018-07-19
 title: Senate Votes 98-0 to Reject Putin's Request to Interrogate U.S. Officials in Bipartisan Rebuke of Trump
 importance: 8
+status: confirmed
 tags:
 - russia
 - trump

@@ -3,6 +3,7 @@ id: 2021-05-28--frank-kendall-northrop-consulting-air-force-secretary
 date: '2021-05-28'
 title: Biden Nominates Frank Kendall for Air Force Secretary After $702,000 in Northrop Grumman Consulting Fees
 importance: 9
+status: confirmed
 actors:
 - Frank Kendall
 - Northrop Grumman

@@ -51,6 +51,7 @@ summary: 'The United States Senate rejected President Reagan''s nomination of Ro
 
   '
 importance: 9
+status: confirmed
 actors:
 - Robert Bork
 - Ronald Reagan

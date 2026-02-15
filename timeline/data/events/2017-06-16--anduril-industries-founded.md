@@ -3,6 +3,7 @@ id: 2017-06-16--anduril-industries-founded
 date: '2017-06-16'
 title: Anduril Industries Founded by Palmer Luckey and Former Palantir Executives
 importance: 8
+status: confirmed
 actors:
 - Palmer Luckey
 - Peter Thiel

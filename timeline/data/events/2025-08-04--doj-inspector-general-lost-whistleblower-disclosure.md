@@ -3,6 +3,7 @@ id: 2025-08-04--doj-inspector-general-lost-whistleblower-disclosure
 date: '2025-08-04'
 title: DOJ Inspector General 'Lost' Whistleblower Complaint Against Trump Judicial Nominee for Three Months
 importance: 9
+status: confirmed
 actors:
 - DOJ Office of Inspector General
 - Whistleblower Aid

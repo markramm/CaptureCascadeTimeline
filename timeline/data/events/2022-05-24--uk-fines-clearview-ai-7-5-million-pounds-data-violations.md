@@ -3,6 +3,7 @@ id: 2022-05-24--uk-fines-clearview-ai-7-5-million-pounds-data-violations
 date: '2022-05-24'
 title: UK Fines Clearview AI £7.5 Million for Breaching Data Protection Laws
 importance: 7
+status: confirmed
 tags:
 - surveillance-state
 - privacy-violations

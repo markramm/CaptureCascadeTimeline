@@ -1,6 +1,7 @@
 ---
 id: 1977-01-01--feulner-becomes-heritage-president
 date: 1977-01-01
+status: confirmed
 title: Edwin Feulner Becomes Heritage Foundation President, Beginning 36-Year Tenure Building Conservative Policy Infrastructure
 summary: 'Edwin J. Feulner Jr., co-founder of the Heritage Foundation in 1973, assumed the presidency of the conservative think tank in 1977, beginning what would become a transformative 36-year tenure that built Heritage from a modest Capitol Hill operation with 9 staff members into the preeminent conservative policy organization in Washington. Feulner''s appointment marked a critical inflection point in the conservative movement''s institutional development, as he would prove instrumental in translating the vision of the Powell Memorandum into concrete policy infrastructure that could directly influence government decision-making.
 

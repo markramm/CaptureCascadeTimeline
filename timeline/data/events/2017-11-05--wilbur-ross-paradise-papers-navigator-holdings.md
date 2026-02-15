@@ -2,6 +2,7 @@
 id: 2017-11-05--wilbur-ross-paradise-papers-navigator-holdings
 date: 2017-11-05
 title: Paradise Papers Reveal Commerce Secretary Ross Concealed Stake in Russian-Linked Shipping Company
+status: confirmed
 importance: 8
 tags:
 - cabinet corruption

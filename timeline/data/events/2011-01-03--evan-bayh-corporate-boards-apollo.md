@@ -9,6 +9,7 @@ tags:
 - congressional-corruption
 - private-equity
 - corporate-boards
+status: confirmed
 sources:
 - url: https://www.huffingtonpost.com/entry/evan-bayh-corporate-boards_us_578fe868e4b0fc06ec5b85d6
   title: Evan Bayh Has Made Millions Off Corporate Boards Since Leaving The Senate

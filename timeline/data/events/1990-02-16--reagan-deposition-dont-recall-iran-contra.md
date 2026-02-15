@@ -3,6 +3,7 @@ id: 1990-02-16--reagan-deposition-dont-recall-iran-contra
 date: 1990-02-16
 title: Reagan Testifies "I Don't Recall" Repeatedly in Iran-Contra Deposition
 importance: 8
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

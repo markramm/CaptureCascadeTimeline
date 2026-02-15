@@ -22,6 +22,7 @@ actors:
 - Scott Brown
 - Kirsten Gillibrand
 - Brian Baird
+status: confirmed
 sources:
 - url: https://www.cbsnews.com/news/congress-trading-stock-on-inside-information/
   title: 'Congress: Trading stock on inside information?'

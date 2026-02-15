@@ -21,6 +21,7 @@ tags:
 - bipartisan corruption
 actors:
 - Barack Obama
+status: confirmed
 sources:
 - url: https://www.npr.org/sections/itsallpolitics/2013/04/16/177496734/how-congress-quietly-overhauled-its-insider-trading-law
   title: How Congress Quietly Overhauled Its Insider-Trading Law

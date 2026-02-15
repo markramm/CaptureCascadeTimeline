@@ -3,6 +3,7 @@ id: 2004-10-27--google-acquires-keyhole-earth
 date: '2004-10-27'
 title: Google Acquires CIA-Backed Keyhole, Foundation for Google Earth
 importance: 8
+status: confirmed
 actors:
 - Google
 - Keyhole Inc.

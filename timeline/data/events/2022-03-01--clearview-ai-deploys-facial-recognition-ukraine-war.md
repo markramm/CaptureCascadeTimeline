@@ -3,6 +3,7 @@ id: 2022-03-01--clearview-ai-deploys-facial-recognition-ukraine-war
 date: '2022-03-01'
 title: Clearview AI Deploys Mass Facial Recognition Technology in Ukraine War
 importance: 8
+status: confirmed
 tags:
 - surveillance-state
 - military-technology

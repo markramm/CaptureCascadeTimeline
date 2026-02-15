@@ -3,6 +3,7 @@ id: 1982-11-17--sec-rule-10b18-legalizes-stock-buybacks
 date: '1982-11-17'
 title: SEC Adopts Rule 10b-18, Legalizing Stock Buybacks and Creating Major Wealth Extraction Mechanism
 importance: 9
+status: confirmed
 actors:
 - SEC
 - John Shad

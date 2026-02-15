@@ -3,6 +3,7 @@ id: 2005-01-03--dick-gephardt-lobbying-firm-launch
 date: '2005-01-03'
 title: Dick Gephardt Founds Lobbying Firm After 28 Years as House Democratic Leader
 importance: 8
+status: confirmed
 tags:
 - revolving-door
 - lobbying

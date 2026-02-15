@@ -3,6 +3,7 @@ id: 2019-06-27--rucho-common-cause-partisan-gerrymandering-nonjusticiable
 date: 2019-06-27
 title: Supreme Court Rules Partisan Gerrymandering Beyond Federal Court Jurisdiction
 importance: 9
+status: confirmed
 tags:
 - gerrymandering
 - supreme-court

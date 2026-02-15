@@ -3,6 +3,7 @@ id: 2017-06-03--reality-winner-arrested-nsa-leak
 date: 2017-06-03
 title: Reality Winner Arrested for Leaking Russian Election Interference Report
 importance: 8
+status: confirmed
 actors:
 - Reality Winner
 - NSA

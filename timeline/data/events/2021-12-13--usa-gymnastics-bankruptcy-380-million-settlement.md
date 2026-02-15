@@ -3,6 +3,7 @@ id: 2021-12-13--usa-gymnastics-bankruptcy-380-million-settlement
 date: '2021-12-13'
 title: USA Gymnastics Emerges from Bankruptcy with $380 Million Settlement for 500+ Nassar Survivors
 importance: 9
+status: confirmed
 actors:
 - USA Gymnastics
 - Robyn Moberly

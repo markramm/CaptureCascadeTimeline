@@ -9,6 +9,7 @@ tags:
 - congressional-corruption
 - wall-street
 - goldman-sachs
+status: confirmed
 sources:
 - url: https://www.familywealthreport.com/article.php/Goldman-Appoints-Former-Senator,-Governor-As-International-Advisor
   title: Goldman Appoints Former Senator, Governor As International Advisor

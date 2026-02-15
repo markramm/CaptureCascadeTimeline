@@ -17,11 +17,18 @@ tags:
 - foreign-policy-divide
 - populist-right
 sources:
-- title: Greene Breaks with GOP on Gaza
-  url: ''
-  outlet: ''
+- title: "Trump ally Marjorie Taylor Greene decries 'genocide' in Gaza"
+  url: https://www.aljazeera.com/news/2025/7/29/trump-ally-marjorie-taylor-greene-decries-genocide-in-gaza
+  outlet: Al Jazeera
   date: '2025-07-29'
-  archive_url: ''
+- title: "GOP Split on Gaza Grows, as MTG Calls Crisis a 'Genocide'"
+  url: https://time.com/7306578/gaza-republicans-marjorie-taylor-greene-genocide/
+  outlet: TIME
+  date: '2025-07-29'
+- title: "Marjorie Taylor Greene calls Gaza crisis a 'genocide,' hits back at Randy Fine"
+  url: https://thehill.com/homenews/house/5426025-greene-gaza-genocide/
+  outlet: The Hill
+  date: '2025-07-29'
 notes: MTG becomes first Republican lawmaker to publicly use genocide terminology for Gaza. Represents significant break from bipartisan Israel support consensus. Aligns with populist-nationalist MAGA faction skeptical of foreign interventionism. Creates major tension with pro-Israel conservative establishment including Shapiro wing. Would contribute to her eventual break with Trump.
 status: confirmed
 capture_lanes:

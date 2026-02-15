@@ -3,6 +3,7 @@ id: 2018-07-16--trump-putin-helsinki-summit-sides-with-russia
 date: 2018-07-16
 title: Trump Sides with Putin Over U.S. Intelligence at Helsinki Summit, Attacks Own Agencies
 importance: 10
+status: confirmed
 tags:
 - russia
 - trump

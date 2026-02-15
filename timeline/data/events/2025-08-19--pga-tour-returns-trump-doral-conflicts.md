@@ -3,6 +3,7 @@ id: 2025-08-19--pga-tour-returns-trump-doral-conflicts
 date: '2025-08-19'
 title: PGA Tour Returns to Trump's Doral Golf Course for $20 Million Signature Event
 importance: 7
+status: confirmed
 actors:
 - PGA Tour
 - Trump National Doral

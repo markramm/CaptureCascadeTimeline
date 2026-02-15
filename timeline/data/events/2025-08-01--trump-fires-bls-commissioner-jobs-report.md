@@ -3,6 +3,7 @@ id: 2025-08-01--trump-fires-bls-commissioner-jobs-report
 date: '2025-08-01'
 title: Trump Fires Bureau of Labor Statistics Commissioner Hours After Unfavorable Jobs Report
 importance: 9
+status: confirmed
 actors:
 - Donald Trump
 - Erika McEntarfer

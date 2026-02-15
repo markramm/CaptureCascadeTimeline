@@ -1,6 +1,7 @@
 ---
 id: 2003-01-01--state-policy-network-organizational-profile-state-coordination
 date: '2003-01-01'
+status: confirmed
 title: 'State Policy Network Organizational Profile: Coordinating 66 State Think Tanks for Synchronized Corporate Capture'
 importance: 8
 actors:

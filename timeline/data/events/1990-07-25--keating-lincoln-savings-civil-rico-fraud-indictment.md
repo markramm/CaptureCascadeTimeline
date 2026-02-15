@@ -3,6 +3,7 @@ id: 1990-07-25--keating-lincoln-savings-civil-rico-fraud-indictment
 date: '1990-07-25'
 title: Keating Lincoln Savings Civil RICO Fraud Indictment
 importance: 9
+status: confirmed
 tags:
 - financial-fraud
 - savings-and-loan-crisis

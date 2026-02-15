@@ -3,6 +3,7 @@ id: 1987-05-05--iran-contra-congressional-hearings-begin
 date: 1987-05-05
 title: Televised Iran-Contra Congressional Hearings Begin, Riveting Nation
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - congressional-oversight

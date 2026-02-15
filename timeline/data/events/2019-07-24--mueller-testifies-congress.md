@@ -3,6 +3,7 @@ id: 2019-07-24--mueller-testifies-congress
 date: 2019-07-24
 title: Mueller Testifies to Congress, Confirms Report Findings and Lack of Exoneration
 importance: 9
+status: confirmed
 tags:
 - mueller investigation
 - congressional testimony

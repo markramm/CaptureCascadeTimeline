@@ -3,6 +3,7 @@ id: 1992-06-16--caspar-weinberger-indicted-iran-contra
 date: 1992-06-16
 title: Defense Secretary Caspar Weinberger Indicted on Five Iran-Contra Felonies
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

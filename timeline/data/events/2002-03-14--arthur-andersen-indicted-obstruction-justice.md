@@ -1,6 +1,7 @@
 ---
 id: 2002-03-14--arthur-andersen-indicted-obstruction-justice
 date: 2002-03-14
+status: confirmed
 title: Arthur Andersen Indicted for Obstruction of Justice in Enron Scandal
 importance: 10
 tags:

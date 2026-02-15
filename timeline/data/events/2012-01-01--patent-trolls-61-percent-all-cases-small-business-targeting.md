@@ -15,6 +15,7 @@ tags:
 - small-business
 - rent-extraction
 - institutional-capture
+status: confirmed
 sources:
 - title: Patent troll
   url: https://en.wikipedia.org/wiki/Patent_troll

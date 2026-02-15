@@ -3,6 +3,7 @@ id: 2019-05-24--trump-emergency-declaration-raytheon-saudi-8-billion
 date: '2019-05-24'
 title: Trump Declares Fake Emergency to Ram Through $8.1 Billion Raytheon Arms Sale to Saudi Arabia
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - saudi-arabia

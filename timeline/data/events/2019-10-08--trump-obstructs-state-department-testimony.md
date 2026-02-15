@@ -3,6 +3,7 @@ id: 2019-10-08--trump-obstructs-state-department-testimony
 date: 2019-10-08
 title: Trump Blocks Ambassador Sondland Testimony, Declares Total Obstruction of Congress
 importance: 9
+status: confirmed
 tags:
 - first impeachment
 - obstruction of congress

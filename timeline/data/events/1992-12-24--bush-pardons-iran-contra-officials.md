@@ -3,6 +3,7 @@ id: 1992-12-24--bush-pardons-iran-contra-officials
 date: 1992-12-24
 title: Bush Pardons Six Iran-Contra Officials on Christmas Eve, Completing Cover-Up
 importance: 10
+status: confirmed
 tags:
 - iran-contra
 - presidential-pardons

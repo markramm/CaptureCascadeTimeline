@@ -3,6 +3,7 @@ id: 2020-01-31--bolton-manuscript-reveals-trump-confession
 date: 2020-01-31
 title: Bolton Book Manuscript Reveals Trump Directly Tied Ukraine Aid to Biden Investigation
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - ukraine

@@ -3,6 +3,7 @@ id: 2015-08-01--shotspotter-expansion-nypd-sacramento-acoustic-surveillance
 date: 2015-08-01
 title: ShotSpotter Gunshot Detection System Expands to Major U.S. Cities
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - technology

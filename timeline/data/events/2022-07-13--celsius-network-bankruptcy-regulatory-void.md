@@ -3,6 +3,7 @@ id: 2022-07-13--celsius-network-bankruptcy-regulatory-void
 date: '2022-07-13'
 title: Celsius Network Files Bankruptcy After Freezing $4.7 Billion in Customer Deposits, Exposing Crypto Regulatory Void
 importance: 8
+status: confirmed
 actors:
 - Celsius Network
 - SEC

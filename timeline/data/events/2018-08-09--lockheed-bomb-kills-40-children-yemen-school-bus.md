@@ -3,6 +3,7 @@ id: 2018-08-09--lockheed-bomb-kills-40-children-yemen-school-bus
 date: '2018-08-09'
 title: US-Made Bomb Kills 40 Children on School Bus in Yemen, Triggering International Outrage
 importance: 10
+status: confirmed
 tags:
 - lockheed-martin
 - raytheon

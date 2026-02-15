@@ -3,6 +3,7 @@ id: 2025-06-09--rfk-jr-fires-entire-cdc-vaccine-committee
 date: '2025-06-09'
 title: RFK Jr. Fires All 17 Members of CDC Vaccine Advisory Committee
 importance: 9
+status: confirmed
 tags:
 - public-health
 - institutional-capture

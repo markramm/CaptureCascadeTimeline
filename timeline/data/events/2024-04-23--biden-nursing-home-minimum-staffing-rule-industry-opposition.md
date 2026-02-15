@@ -3,6 +3,7 @@ id: 2024-04-23--biden-nursing-home-minimum-staffing-rule-industry-opposition
 date: '2024-04-23'
 title: Biden Administration Finalizes Nursing Home Minimum Staffing Rule Despite Fierce Industry Opposition and Republican Backlash
 importance: 9
+status: confirmed
 actors:
 - Centers for Medicare and Medicaid Services
 - American Health Care Association

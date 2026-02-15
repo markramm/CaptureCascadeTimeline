@@ -3,6 +3,7 @@ id: 2020-08-27--trump-white-house-rnc-acceptance-speech-mass-violations
 date: 2020-08-27
 title: Trump Delivers RNC Acceptance Speech from White House South Lawn in Unprecedented Mass Hatch Act Violation Event
 importance: 9
+status: confirmed
 tags:
 - hatch act
 - ethics violations

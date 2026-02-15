@@ -3,6 +3,7 @@ id: 2025-08-01--scotus-expands-louisiana-case-to-challenge-section-2-vra
 date: '2025-08-01'
 title: Supreme Court Expands Louisiana Redistricting Case to Challenge Section 2 of Voting Rights Act
 importance: 10
+status: confirmed
 actors:
 - Supreme Court
 - Department of Justice

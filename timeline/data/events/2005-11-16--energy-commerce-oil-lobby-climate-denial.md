@@ -3,6 +3,7 @@ id: 2005-11-16--energy-commerce-oil-lobby-climate-denial
 date: '2005-11-16'
 title: Energy Committee Hearings Expose Oil Industry Climate Denial Campaign and Regulatory Capture
 importance: 8
+status: confirmed
 tags:
 - regulatory-capture
 - climate-change

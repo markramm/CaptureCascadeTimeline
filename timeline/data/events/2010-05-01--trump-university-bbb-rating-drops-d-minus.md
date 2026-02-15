@@ -3,6 +3,7 @@ id: 2010-05-01--trump-university-bbb-rating-drops-d-minus
 date: 2010-05-01
 title: Better Business Bureau Drops Trump University Rating to D- After Flood of Consumer Complaints
 importance: 8
+status: confirmed
 tags:
 - trump university
 - fraud

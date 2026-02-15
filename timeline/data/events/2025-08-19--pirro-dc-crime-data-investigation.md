@@ -3,6 +3,7 @@ id: 2025-08-19--pirro-dc-crime-data-investigation
 date: '2025-08-19'
 title: Trump-Appointed US Attorney Investigates DC Police for 'Fake' Crime Data
 importance: 8
+status: confirmed
 actors:
 - Jeanine Pirro
 - Donald Trump

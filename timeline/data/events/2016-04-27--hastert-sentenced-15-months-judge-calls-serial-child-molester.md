@@ -2,6 +2,7 @@
 id: 2016-04-27--hastert-sentenced-15-months-judge-calls-serial-child-molester
 date: 2016-04-27
 title: Dennis Hastert Sentenced to 15 Months, Judge Calls Him 'Serial Child Molester'
+status: confirmed
 summary: 'Former House Speaker Dennis Hastert was sentenced to 15 months in prison, two years of supervised release, and a $250,000 fine by U.S. District Judge Thomas Durkin, who described him as a "serial child molester" during an emotional sentencing hearing. Though Hastert was only charged with illegally structuring bank withdrawals, the judge noted that "some conduct is unforgivable no matter how old it is" while referencing the underlying sexual abuse crimes that were beyond the statute of limitations.
 
 

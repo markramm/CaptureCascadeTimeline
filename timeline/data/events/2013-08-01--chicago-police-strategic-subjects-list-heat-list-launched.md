@@ -3,6 +3,7 @@ id: 2013-08-01--chicago-police-strategic-subjects-list-heat-list-launched
 date: 2013-08-01
 title: Chicago Police Launch Strategic Subject List "Heat List" Predictive Policing Program
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - technology

@@ -2,6 +2,7 @@
 id: 2018-01-24--nassar-sentenced-175-years-denhollander-testimony
 date: '2018-01-24'
 title: Larry Nassar Sentenced to 40-175 Years After 156 Victim Impact Statements; Rachael Denhollander's Powerful Testimony
+status: confirmed
 importance: 10
 actors:
 - Larry Nassar

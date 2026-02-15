@@ -3,6 +3,7 @@ id: 2013-06-01--elliptic-founded-uk-crypto-surveillance
 date: 2013-06-01
 title: Elliptic Founded as First Cryptocurrency Anti-Money Laundering Firm
 importance: 7
+status: confirmed
 tags:
 - surveillance
 - cryptocurrency

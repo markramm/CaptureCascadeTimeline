@@ -3,6 +3,7 @@ id: 2005-01-01--alec-mandatory-minimum-sentencing-models-spread
 date: '2005-01-01'
 title: ALEC Mandatory Minimum Sentencing Models Achieve Nationwide Adoption, Guaranteeing Private Prison Profits
 importance: 8
+status: confirmed
 actors:
 - ALEC
 - Corrections Corporation of America (CCA)

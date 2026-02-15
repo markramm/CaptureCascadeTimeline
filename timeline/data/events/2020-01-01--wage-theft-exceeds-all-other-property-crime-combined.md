@@ -21,6 +21,18 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 2
+- title: 'Wage Theft is a Much Bigger Problem Than Other Forms of Theft—But Workers Remain Mostly Unprotected'
+  url: https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/
+  outlet: Economic Policy Institute
+  date: '2014-09-11'
+  verified: true
+  tier: 1
+- title: 'Employers steal billions from workers paychecks each year'
+  url: https://www.epi.org/publication/employers-steal-billions-from-workers-paychecks-each-year/
+  outlet: Economic Policy Institute
+  date: '2017-05-10'
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

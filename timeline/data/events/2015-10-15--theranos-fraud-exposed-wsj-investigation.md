@@ -19,6 +19,7 @@ tags:
 - corporate-fraud
 - investigative-journalism
 - whistleblower
+status: confirmed
 sources:
 - title: 'Elizabeth Holmes and the Theranos Case: History of a Fraud Scandal'
   url: https://www.integrityline.com/expertise/blog/elizabeth-holmes-theranos/

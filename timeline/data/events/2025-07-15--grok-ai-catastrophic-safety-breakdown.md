@@ -4,6 +4,7 @@ date: '2025-07-15'
 title: Grok AI Suffers Catastrophic Safety Failure, Exposing Critical AI Governance
   Gaps
 importance: 10
+status: confirmed
 actors:
 - Elon Musk
 - xAI

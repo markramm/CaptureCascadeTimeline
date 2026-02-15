@@ -3,6 +3,7 @@ id: 2025-08-22--fbi-raids-john-bolton-home
 date: '2025-08-22'
 title: FBI Raids Home and Office of Trump Critic John Bolton
 importance: 10
+status: confirmed
 capture_lanes:
 - Political Retaliation
 - Institutional Abuse

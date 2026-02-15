@@ -32,6 +32,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 importance: 10
+status: confirmed
 notes: This case represents a landmark federal prosecution of a high-profile music industry figure, alleging systemic criminal behavior spanning over a decade.
 ---
 

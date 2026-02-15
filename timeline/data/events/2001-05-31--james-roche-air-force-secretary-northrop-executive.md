@@ -3,6 +3,7 @@ id: 2001-05-31--james-roche-air-force-secretary-northrop-executive
 date: '2001-05-31'
 title: Air Force Secretary James Roche Appointed After 17 Years as Northrop Grumman Executive
 importance: 9
+status: confirmed
 actors:
 - James G. Roche
 - Northrop Grumman

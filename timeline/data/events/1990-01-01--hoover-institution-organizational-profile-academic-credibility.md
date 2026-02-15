@@ -3,6 +3,7 @@ id: 1990-01-01--hoover-institution-organizational-profile-academic-credibility
 date: '1990-01-01'
 title: 'Hoover Institution Organizational Profile: Leveraging Stanford Prestige for Conservative Policy Legitimacy'
 importance: 7
+status: confirmed
 actors:
 - Hoover Institution
 - Herbert Hoover

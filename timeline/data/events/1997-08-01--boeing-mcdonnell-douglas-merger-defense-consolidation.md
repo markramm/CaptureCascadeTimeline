@@ -3,6 +3,7 @@ id: 1997-08-01--boeing-mcdonnell-douglas-merger-defense-consolidation
 date: '1997-08-01'
 title: 'Boeing-McDonnell Douglas Merger Approved: Defense Contractor Consolidation Creates Oligopoly'
 importance: 10
+status: confirmed
 actors:
 - Boeing
 - McDonnell Douglas

@@ -3,6 +3,7 @@ id: 2024-08-08--anduril-arsenal-1-facility
 date: '2024-08-08'
 title: 'Anduril Announces Arsenal-1: $1 Billion Weapons Manufacturing Facility in Ohio'
 importance: 8
+status: confirmed
 actors:
 - Anduril Industries
 - Palmer Luckey

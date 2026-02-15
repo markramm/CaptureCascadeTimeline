@@ -1,6 +1,7 @@
 ---
 id: 1973-09-01--alec-organizational-profile-state-legislative-capture
 date: '1973-09-01'
+status: confirmed
 title: 'ALEC Organizational Profile: Corporate Vote-Buying Mechanism Disguised as Legislative Council'
 importance: 9
 actors:

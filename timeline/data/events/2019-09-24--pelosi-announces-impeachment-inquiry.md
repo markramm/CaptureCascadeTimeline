@@ -3,6 +3,7 @@ id: 2019-09-24--pelosi-announces-impeachment-inquiry
 date: 2019-09-24
 title: Speaker Pelosi Announces Formal Impeachment Inquiry After Ukraine Revelations
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - congressional oversight

@@ -3,6 +3,7 @@ id: 2025-06-05--anduril-30-billion-valuation
 date: '2025-06-05'
 title: Anduril Raises $2.5 Billion at $30.5 Billion Valuation, Led by Founders Fund
 importance: 9
+status: confirmed
 actors:
 - Anduril Industries
 - Peter Thiel

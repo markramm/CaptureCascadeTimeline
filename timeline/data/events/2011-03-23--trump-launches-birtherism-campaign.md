@@ -12,6 +12,7 @@ tags:
 actors:
 - Donald Trump
 - Barack Obama
+status: confirmed
 sources:
 - url: https://abcnews.go.com/Politics/donald-trump-perpetuated-birther-movement-years/story?id=42138176
   title: How Donald Trump Perpetuated the 'Birther' Movement for Years

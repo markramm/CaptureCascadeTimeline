@@ -3,6 +3,7 @@ id: 2019-05-23--assange-charged-espionage-act
 date: 2019-05-23
 title: Julian Assange Charged Under Espionage Act - Unprecedented Attack on Press Freedom
 importance: 9
+status: confirmed
 actors:
 - Julian Assange
 - WikiLeaks

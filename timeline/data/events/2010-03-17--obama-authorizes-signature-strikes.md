@@ -3,6 +3,7 @@ id: 2010-03-17--obama-authorizes-signature-strikes
 date: '2010-03-17'
 title: Obama Authorizes CIA Signature Strikes - Killing Based on Behavior Patterns, Not Identity
 importance: 9
+status: confirmed
 actors:
 - Barack Obama
 - John Brennan

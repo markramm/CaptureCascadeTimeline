@@ -3,6 +3,7 @@ id: 2017-03-31--trump-university-settlement-approved
 date: 2017-03-31
 title: Judge Curiel Approves $25 Million Trump University Settlement, Victims to Receive 90% Refunds
 importance: 8
+status: confirmed
 tags:
 - trump university
 - fraud

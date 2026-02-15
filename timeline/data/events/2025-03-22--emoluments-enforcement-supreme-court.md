@@ -34,7 +34,7 @@ tags:
 - emoluments
 - constitutional-accountability
 - legal-ambiguity
-status: needs_work
+status: confirmed
 capture_lanes:
 - Judicial Oversight
 - Constitutional Accountability

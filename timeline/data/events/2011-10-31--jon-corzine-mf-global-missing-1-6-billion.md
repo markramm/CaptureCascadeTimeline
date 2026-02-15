@@ -21,6 +21,7 @@ tags:
 - elite impunity
 actors:
 - Jon Corzine
+status: confirmed
 sources:
 - url: https://www.cftc.gov/PressRoom/PressReleases/7508-17
   title: Federal Court in New York Orders Jon S. Corzine to Pay $5 Million Penalty for his Role in MF Global's Unlawful Use of Nearly $1 Billion of Customer Funds

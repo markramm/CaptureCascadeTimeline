@@ -3,6 +3,7 @@ id: 2016-09-20--stumpf-testifies-warren-confrontation
 date: '2016-09-20'
 title: CEO Stumpf Testifies Before Senate, Elizabeth Warren Demands Resignation
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

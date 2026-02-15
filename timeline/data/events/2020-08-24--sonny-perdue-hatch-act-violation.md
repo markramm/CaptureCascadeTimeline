@@ -3,6 +3,7 @@ id: 2020-08-24--sonny-perdue-hatch-act-violation
 date: 2020-08-24
 title: Agriculture Secretary Sonny Perdue Violates Hatch Act by Campaigning for Trump at Official USDA Event
 importance: 7
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

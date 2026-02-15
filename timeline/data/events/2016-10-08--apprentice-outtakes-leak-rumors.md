@@ -3,6 +3,7 @@ id: 2016-10-08--apprentice-outtakes-leak-rumors
 date: 2016-10-08
 title: Rumors Surface of Apprentice Outtakes Showing Trump Using N-Word, Burnett Refuses Release
 importance: 7
+status: confirmed
 tags:
 - the apprentice
 - mark burnett

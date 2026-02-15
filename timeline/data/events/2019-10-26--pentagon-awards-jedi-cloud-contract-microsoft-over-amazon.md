@@ -3,6 +3,7 @@ id: 2019-10-26--pentagon-awards-jedi-cloud-contract-microsoft-over-amazon
 date: 2019-10-26
 title: Pentagon Awards $10 Billion JEDI Cloud Contract to Microsoft Over Amazon
 importance: 8
+status: confirmed
 actors:
 - Pentagon
 - Microsoft

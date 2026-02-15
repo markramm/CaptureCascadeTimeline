@@ -3,6 +3,7 @@ id: 2025-08-11--trump-401k-cryptocurrency-executive-order
 date: '2025-08-11'
 title: Trump Opens $12.5 Trillion in Retirement Savings to Cryptocurrency and Private Equity Risk
 importance: 8
+status: confirmed
 actors:
 - Donald Trump
 - Department of Labor

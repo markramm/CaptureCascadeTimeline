@@ -12,6 +12,7 @@ summary: 'FBI agents raided the home of Rep. William J. Jefferson (D-LA) in Nort
 
   '
 importance: 9
+status: confirmed
 tags:
 - congressional corruption
 - bribery

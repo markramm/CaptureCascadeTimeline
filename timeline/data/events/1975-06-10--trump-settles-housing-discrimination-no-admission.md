@@ -1,6 +1,7 @@
 ---
 id: 1975-06-10--trump-settles-housing-discrimination-no-admission
 date: 1975-06-10
+status: confirmed
 title: Trump Settles Housing Discrimination Case Without Admitting Guilt
 importance: 7
 tags:

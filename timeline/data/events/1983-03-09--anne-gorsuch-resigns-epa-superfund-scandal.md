@@ -3,6 +3,7 @@ id: 1983-03-09--anne-gorsuch-resigns-epa-superfund-scandal
 date: '1983-03-09'
 title: 'Anne Gorsuch Resigns EPA After Contempt of Congress: Regulatory Capture Exposed'
 importance: 8
+status: confirmed
 location: Washington, DC
 actors:
 - Anne Gorsuch Burford

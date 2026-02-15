@@ -3,6 +3,7 @@ id: 1989-08-09--firrea-signed-160-billion-taxpayer-bailout-s-and-l
 date: '1989-08-09'
 title: 'FIRREA Signed: $160 Billion Taxpayer Bailout of S&L Industry Fraud'
 importance: 9
+status: confirmed
 location: Washington, DC
 actors:
 - George H.W. Bush

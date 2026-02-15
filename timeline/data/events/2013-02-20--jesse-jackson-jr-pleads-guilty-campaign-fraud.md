@@ -12,6 +12,7 @@ summary: 'Former U.S. Representative Jesse Jackson Jr. (D-IL) pleaded guilty in 
 
   '
 importance: 8
+status: confirmed
 tags:
 - congressional corruption
 - campaign finance violations

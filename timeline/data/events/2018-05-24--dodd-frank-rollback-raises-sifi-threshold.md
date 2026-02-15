@@ -3,6 +3,7 @@ id: 2018-05-24--dodd-frank-rollback-raises-sifi-threshold
 date: '2018-05-24'
 title: Trump Signs Dodd-Frank Rollback Raising 'Systemically Important' Bank Threshold from $50B to $250B After Industry Lobbying Blitz
 importance: 9
+status: confirmed
 actors:
 - Donald Trump
 - Greg Becker

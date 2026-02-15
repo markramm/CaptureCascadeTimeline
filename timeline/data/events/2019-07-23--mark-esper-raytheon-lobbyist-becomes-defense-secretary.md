@@ -3,6 +3,7 @@ id: 2019-07-23--mark-esper-raytheon-lobbyist-becomes-defense-secretary
 date: '2019-07-23'
 title: Mark Esper Confirmed as Defense Secretary Despite Raytheon Lobbying Career and Refusal to Recuse
 importance: 10
+status: confirmed
 tags:
 - revolving-door
 - raytheon

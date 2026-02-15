@@ -3,6 +3,7 @@ id: 2025-08-07--trump-fair-banking-debanking-executive-order
 date: '2025-08-07'
 title: Trump Signs Executive Order Prohibiting 'Debanking' Based on Political Views
 importance: 7
+status: confirmed
 actors:
 - Donald Trump
 - White House

@@ -3,6 +3,7 @@ id: 1998-05-01--alec-paycheck-protection-act-restricts-union-political-activity
 date: '1998-05-01'
 title: ALEC Adopts Paycheck Protection Act to Defund Democratic Party by Restricting Union Political Activity
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council (ALEC)
 - corporate donors

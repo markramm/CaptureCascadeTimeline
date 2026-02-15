@@ -3,6 +3,7 @@ id: 1987-05-06--cia-director-william-casey-dies
 date: 1987-05-06
 title: CIA Director William Casey Dies Before Testifying on Iran-Contra Role
 importance: 9
+status: confirmed
 tags:
 - iran-contra
 - cia

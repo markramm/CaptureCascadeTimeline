@@ -1,6 +1,7 @@
 ---
 id: 2002-11-09--new-york-times-exposes-tia-surveillance-program
 date: '2002-11-09'
+status: confirmed
 title: New York Times Exposes Total Information Awareness Surveillance Program, Sparking Public Outcry
 importance: 9
 actors:

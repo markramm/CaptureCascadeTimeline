@@ -3,6 +3,7 @@ id: 2003-09-24--congress-defunds-total-information-awareness-program
 date: '2003-09-24'
 title: Congress Officially Defunds Total Information Awareness Program
 importance: 9
+status: confirmed
 actors:
 - U.S. Congress
 - Senate

@@ -3,6 +3,7 @@ id: 2024-06-15--grok-ai-safety-protocol-revision
 date: '2024-06-15'
 title: xAI Implements Controversial AI Safety Framework Amid Industry Scrutiny
 importance: 8
+status: confirmed
 actors:
 - Elon Musk
 - xAI

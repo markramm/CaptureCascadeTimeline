@@ -3,6 +3,7 @@ id: 2021-01-01--ellison-donates-30-million-tim-scott-super-pac
 date: '2021-01-01'
 title: Larry Ellison Donates $30 Million to Tim Scott's Super PAC Over 2021-2022
 importance: 7
+status: confirmed
 tags:
 - political-donations
 - oracle

@@ -3,6 +3,7 @@ id: 2018-06-07--bayer-monsanto-merger-agricultural-oligopoly
 date: '2018-06-07'
 title: 'Bayer Completes $63 Billion Monsanto Acquisition: Agricultural Seeds and Chemicals Consolidate Into Big Four Oligopoly'
 importance: 10
+status: confirmed
 actors:
 - Bayer AG
 - Monsanto

@@ -3,6 +3,7 @@ id: 2020-12-31--wells-fargo-scandal-scorecard
 date: '2020-12-31'
 title: 'Wells Fargo Scandal Scorecard: 5,300 Workers Fired, Zero Execs Prosecuted'
 importance: 10
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

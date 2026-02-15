@@ -3,6 +3,7 @@ id: 2023-03-10--silicon-valley-bank-collapse-regulatory-failure
 date: '2023-03-10'
 title: Silicon Valley Bank Collapses in $212 Billion Bank Run, Third-Largest U.S. Bank Failure Caused by Regulatory Rollback
 importance: 9
+status: confirmed
 actors:
 - Silicon Valley Bank
 - Greg Becker

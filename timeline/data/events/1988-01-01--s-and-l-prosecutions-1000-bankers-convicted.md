@@ -3,6 +3,7 @@ id: 1988-01-01--s-and-l-prosecutions-1000-bankers-convicted
 date: '1988-01-01'
 title: 'S&L Crisis Prosecutions: 1,000+ Bankers Convicted, Contrasts Sharply with 2008'
 importance: 8
+status: confirmed
 location: United States
 actors:
 - Department of Justice

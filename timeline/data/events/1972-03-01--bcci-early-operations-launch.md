@@ -1,6 +1,7 @@
 ---
 id: 1972-03-01--bcci-early-operations-launch
 date: '1972-03-01'
+status: confirmed
 title: Bank of Credit and Commerce International (BCCI) Founded
 importance: 8
 tags:

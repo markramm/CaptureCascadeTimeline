@@ -1,6 +1,7 @@
 ---
 id: 2003-06-06--oracle-launches-hostile-takeover-peoplesoft-5-billion
 date: '2003-06-06'
+status: confirmed
 title: Oracle Launches Hostile Takeover Bid for PeopleSoft Worth $5.1 Billion
 importance: 8
 tags:

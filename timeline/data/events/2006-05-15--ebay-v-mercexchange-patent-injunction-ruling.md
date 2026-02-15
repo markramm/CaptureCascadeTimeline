@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-05-15--ebay-v-mercexchange-patent-injunction-ruling
 date: '2006-05-15'
 title: 'eBay v. MercExchange: Supreme Court Limits Automatic Patent Injunctions, Enabling Patent Troll Business Model to Flourish'

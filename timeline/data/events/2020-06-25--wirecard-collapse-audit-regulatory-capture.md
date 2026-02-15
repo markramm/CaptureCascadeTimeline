@@ -3,6 +3,7 @@ id: 2020-06-25--wirecard-collapse-audit-regulatory-capture
 date: '2020-06-25'
 title: Wirecard Files for Insolvency After €1.9 Billion Goes Missing, Exposing Decade of EY Audit Failure and German Regulatory Capture
 importance: 9
+status: confirmed
 actors:
 - Wirecard
 - Markus Braun

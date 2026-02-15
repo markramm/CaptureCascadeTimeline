@@ -3,6 +3,7 @@ id: 2025-08-24--national-guard-armed-dc-deployment
 date: '2025-08-24'
 title: 2,300 Armed National Guard Troops Deploy in Washington DC Carrying M17 Pistols and M4 Rifles
 importance: 9
+status: confirmed
 tags:
 - militarization
 - posse-comitatus

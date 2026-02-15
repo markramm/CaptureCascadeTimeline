@@ -39,6 +39,7 @@ connections: []
 patterns:
 - kleptocratic-capture
 notes: Musk donated to lawmakers challenging judicial rulings blocking his government efficiency initiatives.
+status: confirmed
 capture_lanes:
 - Judicial Capture
 ---

@@ -3,6 +3,7 @@ id: 2025-08-25--trump-flag-burning-prosecution-executive-order
 date: '2025-08-25'
 title: Trump Orders Prosecution of Flag Burning Despite Supreme Court Ruling
 importance: 8
+status: confirmed
 actors:
 - Donald Trump
 - White House

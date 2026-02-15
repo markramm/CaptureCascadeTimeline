@@ -3,6 +3,7 @@ id: 2010-05-27--chelsea-manning-arrested-wikileaks
 date: 2010-05-27
 title: Chelsea Manning Arrested for Leaking Classified Documents to WikiLeaks
 importance: 9
+status: confirmed
 actors:
 - Chelsea Manning
 - WikiLeaks

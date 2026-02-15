@@ -3,6 +3,7 @@ id: 2019-09-14--raytheon-patriot-missiles-fail-protect-saudi-oil-facilities
 date: '2019-09-14'
 title: Raytheon's $15 Billion Patriot Missile System Fails Spectacularly, Allowing Drone Swarm to Cripple Saudi Oil Production
 importance: 9
+status: confirmed
 tags:
 - raytheon
 - patriot-missiles

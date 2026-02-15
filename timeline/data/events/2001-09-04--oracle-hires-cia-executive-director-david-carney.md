@@ -3,6 +3,7 @@ id: 2001-09-04--oracle-hires-cia-executive-director-david-carney
 date: '2001-09-04'
 title: Oracle Hires CIA Executive Director David Carney, Establishes Information Assurance Center
 importance: 8
+status: confirmed
 tags:
 - oracle
 - cia

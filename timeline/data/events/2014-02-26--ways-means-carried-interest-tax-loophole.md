@@ -3,6 +3,7 @@ id: 2014-02-26--ways-means-carried-interest-tax-loophole
 date: '2014-02-26'
 title: Ways and Means Chairman Proposes Carried Interest Reform That Private Equity Lobbying Defeats
 importance: 8
+status: confirmed
 tags:
 - regulatory-capture
 - tax-policy

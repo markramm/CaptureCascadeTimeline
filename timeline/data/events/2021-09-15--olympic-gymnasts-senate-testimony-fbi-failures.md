@@ -3,6 +3,7 @@ id: 2021-09-15--olympic-gymnasts-senate-testimony-fbi-failures
 date: '2021-09-15'
 title: Simone Biles, McKayla Maroney, Aly Raisman, and Maggie Nichols Testify Before Senate on FBI's Betrayal in Nassar Case
 importance: 10
+status: confirmed
 actors:
 - Simone Biles
 - McKayla Maroney

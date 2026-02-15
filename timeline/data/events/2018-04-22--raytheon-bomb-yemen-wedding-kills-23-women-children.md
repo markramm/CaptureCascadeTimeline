@@ -3,6 +3,7 @@ id: 2018-04-22--raytheon-bomb-yemen-wedding-kills-23-women-children
 date: '2018-04-22'
 title: Raytheon-Manufactured Bomb Kills 23 at Yemen Wedding, Majority Women and Children
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - yemen-war

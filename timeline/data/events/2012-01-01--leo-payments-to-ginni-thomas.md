@@ -61,6 +61,7 @@ tags:
 - ethics-violations
 - cnp
 - conservative-movement
+status: confirmed
 sources:
 - url: https://www.washingtonpost.com/investigations/2023/05/04/clarence-thomas-ginni-payments-leonard-leo/
   title: Conservative activist urged 'no mention of Ginni' in arranged payment to Clarence Thomas's wife

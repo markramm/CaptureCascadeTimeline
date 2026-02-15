@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2009-01-01--lapd-jric-fusion-center-adopts-palantir
 date: '2009-01-01'
 title: LAPD's Joint Regional Intelligence Center Begins Using Palantir for Surveillance

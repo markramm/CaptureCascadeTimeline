@@ -3,6 +3,7 @@ id: 2015-07-28--fbi-indianapolis-receives-nassar-allegations-fails-to-investigat
 date: '2015-07-28'
 title: FBI Indianapolis Field Office Receives Nassar Allegations from USA Gymnastics, Fails to Open Investigation for 14 Months
 importance: 10
+status: confirmed
 actors:
 - Federal Bureau of Investigation
 - W. Jay Abbott

@@ -3,6 +3,7 @@ id: 2018-12-06--nypd-begins-secret-clearview-ai-facial-recognition-trial
 date: '2018-12-06'
 title: NYPD Begins Secret Trial of Clearview AI Facial Recognition Technology
 importance: 7
+status: confirmed
 tags:
 - surveillance-state
 - privacy-violations

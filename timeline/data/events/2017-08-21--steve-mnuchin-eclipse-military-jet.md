@@ -3,6 +3,7 @@ id: 2017-08-21--steve-mnuchin-eclipse-military-jet
 date: 2017-08-21
 title: Treasury Secretary Mnuchin Uses Military Jet for Solar Eclipse Viewing Trip to Kentucky
 importance: 7
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

@@ -3,6 +3,7 @@ id: 2000-01-01--stock-options-executive-compensation-dominance
 date: '2000-01-01'
 title: Stock Options Become Primary Executive Compensation, Aligning CEO Interests with Short-Term Stock Price Manipulation
 importance: 8
+status: confirmed
 actors:
 - Corporate boards
 - Compensation consultants

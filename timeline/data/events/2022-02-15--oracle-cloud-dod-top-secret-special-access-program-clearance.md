@@ -3,6 +3,7 @@ id: 2022-02-15--oracle-cloud-dod-top-secret-special-access-program-clearance
 date: '2022-02-15'
 title: Pentagon Authorizes Oracle Cloud for Top Secret and Special Access Program Missions
 importance: 9
+status: confirmed
 tags:
 - intelligence-agencies
 - surveillance

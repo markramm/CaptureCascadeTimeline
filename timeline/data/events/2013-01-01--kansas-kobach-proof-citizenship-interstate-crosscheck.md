@@ -12,6 +12,7 @@ tags:
 actors:
 - Kris Kobach
 - Kansas Secretary of State
+status: confirmed
 sources:
 - url: https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba
   title: Judge Tosses Kansas' Proof-Of-Citizenship Voter Law And Rebukes Sec. Of State Kobach

@@ -3,6 +3,7 @@ id: 2018-08-21--cohen-guilty-plea-campaign-finance
 date: 2018-08-21
 title: Michael Cohen Pleads Guilty to Campaign Finance Violations, Implicates Trump as "Individual-1"
 importance: 9
+status: confirmed
 tags:
 - mueller investigation
 - campaign finance violations

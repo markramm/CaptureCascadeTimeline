@@ -3,6 +3,7 @@ id: 2025-08-20--trump-bond-purchases-100-million-conflicts
 date: '2025-08-20'
 title: Trump Purchases Over $100 Million in Bonds from Companies He Regulates
 importance: 8
+status: confirmed
 actors:
 - Donald Trump
 - Wells Fargo

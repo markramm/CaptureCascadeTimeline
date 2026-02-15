@@ -3,6 +3,7 @@ id: 2019-04-16--trump-vetoes-yemen-war-resolution-protecting-saudis
 date: 2019-04-16
 title: Trump Vetoes Bipartisan Resolution to End U.S. Support for Saudi War in Yemen, Protecting MBS After Khashoggi Murder
 importance: 8
+status: confirmed
 tags:
 - donald-trump
 - saudi-arabia

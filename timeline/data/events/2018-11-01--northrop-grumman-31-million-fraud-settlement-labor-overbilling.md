@@ -3,6 +3,7 @@ id: 2018-11-01--northrop-grumman-31-million-fraud-settlement-labor-overbilling
 date: '2018-11-01'
 title: Northrop Grumman Pays $31.65 Million for Fraudulent Overbilling of Air Force Contracts
 importance: 8
+status: confirmed
 actors:
 - Northrop Grumman
 - Department of Justice

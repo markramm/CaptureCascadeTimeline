@@ -3,6 +3,7 @@ id: 2022-11-11--ftx-bankruptcy-crypto-fraud
 date: '2022-11-11'
 title: FTX Cryptocurrency Exchange Collapses in $32 Billion Fraud, Exposing Crypto Regulation Failure
 importance: 10
+status: confirmed
 actors:
 - Sam Bankman-Fried
 - FTX

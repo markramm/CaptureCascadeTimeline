@@ -3,6 +3,7 @@ id: 1991-06-05--trump-plaza-casino-racial-discrimination
 date: 1991-06-05
 title: Trump Plaza Fined $200,000 for Removing Black Employees from Gaming Floor
 importance: 7
+status: confirmed
 tags:
 - racism
 - trump business

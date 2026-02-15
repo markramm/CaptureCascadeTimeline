@@ -3,6 +3,7 @@ id: 2019-10-01--meatpacking-big-four-price-fixing-lawsuit-filed
 date: '2019-10-01'
 title: Class Action Lawsuit Alleges Big Four Meatpackers Conspired to Fix Beef Prices and Manipulate Markets
 importance: 9
+status: confirmed
 actors:
 - Tyson Foods
 - JBS

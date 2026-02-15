@@ -17,6 +17,7 @@ tags:
 - npe
 - rent-extraction
 - intellectual-ventures
+status: confirmed
 sources:
 - title: 'Patent Trolls: Evidence from Targeted Firms'
   url: https://www.nber.org/papers/w20322

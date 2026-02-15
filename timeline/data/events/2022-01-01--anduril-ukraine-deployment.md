@@ -3,6 +3,7 @@ id: 2022-01-01--anduril-ukraine-deployment
 date: '2022-01-01'
 title: Anduril AI-Powered Drones Deployed to Ukraine Since 2022
 importance: 8
+status: confirmed
 actors:
 - Anduril Industries
 - Ukraine

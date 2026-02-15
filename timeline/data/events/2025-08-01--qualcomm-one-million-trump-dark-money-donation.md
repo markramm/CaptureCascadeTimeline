@@ -3,6 +3,7 @@ id: 2025-08-01--qualcomm-one-million-trump-dark-money-donation
 date: '2025-08-01'
 title: Qualcomm Donates $1 Million to Trump-Aligned Dark Money Group
 importance: 7
+status: confirmed
 actors:
 - Qualcomm
 - Securing American Greatness

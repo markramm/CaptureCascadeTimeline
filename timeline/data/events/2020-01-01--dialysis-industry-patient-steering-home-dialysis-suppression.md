@@ -3,6 +3,7 @@ id: 2020-01-01--dialysis-industry-patient-steering-home-dialysis-suppression
 date: '2020-01-01'
 title: Dialysis Industry Systematically Steers Patients Away from Home Dialysis and Toward High-Profit Commercial Insurance
 importance: 9
+status: confirmed
 actors:
 - DaVita
 - Fresenius

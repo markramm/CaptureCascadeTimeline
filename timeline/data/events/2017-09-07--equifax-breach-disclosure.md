@@ -2,6 +2,7 @@
 id: 2017-09-07--equifax-breach-disclosure
 date: '2017-09-07'
 title: Equifax Finally Discloses Breach 40 Days After Discovery, Exposing Regulatory Capture
+status: confirmed
 importance: 10
 actors:
 - Richard Smith

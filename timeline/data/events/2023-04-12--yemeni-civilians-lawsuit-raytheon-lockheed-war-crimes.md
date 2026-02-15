@@ -3,6 +3,7 @@ id: 2023-04-12--yemeni-civilians-lawsuit-raytheon-lockheed-war-crimes
 date: '2023-04-12'
 title: Yemeni Civilians File Lawsuit Against Raytheon, Lockheed Martin, and General Dynamics for Enabling War Crimes
 importance: 8
+status: confirmed
 tags:
 - raytheon
 - lockheed-martin

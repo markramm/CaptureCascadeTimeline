@@ -18,6 +18,7 @@ tags:
 - model-legislation
 - corporate-lobbying
 - koch-network
+status: confirmed
 sources:
 - title: Wisconsin Introduces Word-for-Word ALEC Right to Work Bill
   url: https://www.prwatch.org/news/2015/02/12743/wisconsin-introduces-verbatim-alec-right-work-bill

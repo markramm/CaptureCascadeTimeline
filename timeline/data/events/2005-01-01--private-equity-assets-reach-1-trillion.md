@@ -3,6 +3,7 @@ id: 2005-01-01--private-equity-assets-reach-1-trillion
 date: '2005-01-01'
 title: Private Equity Assets Under Management Reach $1 Trillion, Enabling Systematic Extraction Across Economy
 importance: 8
+status: confirmed
 actors:
 - Blackstone
 - KKR

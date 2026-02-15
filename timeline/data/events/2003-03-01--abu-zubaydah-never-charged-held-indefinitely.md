@@ -1,6 +1,7 @@
 ---
 id: 2003-03-01--abu-zubaydah-never-charged-held-indefinitely
 date: '2003-03-01'
+status: confirmed
 title: Abu Zubaydah - Waterboarded 83 Times, Tortured for Years, Never Charged with Any Crime
 importance: 9
 actors:

@@ -3,6 +3,7 @@ id: 1983-12-01--rita-lavelle-convicted-perjury-epa-superfund
 date: '1983-12-01'
 title: 'Rita Lavelle Convicted of Perjury: EPA Superfund Corruption Confirmed'
 importance: 7
+status: confirmed
 location: Washington, DC
 actors:
 - Rita Lavelle

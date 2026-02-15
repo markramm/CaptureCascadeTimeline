@@ -3,6 +3,7 @@ id: 2021-08-15--shotspotter-chicago-accuracy-problems-williams-case
 date: 2021-08-15
 title: ShotSpotter Accuracy Crisis - Chicago Inspector General Report and Williams Case
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - technology

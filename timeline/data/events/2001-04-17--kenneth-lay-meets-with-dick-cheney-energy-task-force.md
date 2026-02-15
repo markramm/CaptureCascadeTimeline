@@ -6,6 +6,7 @@ description: A comprehensive demonstration of corporate influence on executive b
   policy formation, with energy industry executives directly shaping national energy
   strategy.
 importance: 9
+status: confirmed
 tags:
 - enron
 - energy-policy

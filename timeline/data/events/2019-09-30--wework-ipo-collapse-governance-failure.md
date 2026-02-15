@@ -3,6 +3,7 @@ id: 2019-09-30--wework-ipo-collapse-governance-failure
 date: '2019-09-30'
 title: WeWork Withdraws IPO After Valuation Collapses from $47 Billion to $10 Billion, Exposing Massive Corporate Governance Failure
 importance: 8
+status: confirmed
 actors:
 - Adam Neumann
 - WeWork

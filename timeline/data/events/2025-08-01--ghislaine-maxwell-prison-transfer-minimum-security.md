@@ -3,6 +3,7 @@ id: 2025-08-01--ghislaine-maxwell-prison-transfer-minimum-security
 date: '2025-08-01'
 title: Ghislaine Maxwell Transferred to Minimum-Security Texas Prison Camp After Meeting with DOJ Officials
 importance: 9
+status: confirmed
 actors:
 - Ghislaine Maxwell
 - Todd Blanche

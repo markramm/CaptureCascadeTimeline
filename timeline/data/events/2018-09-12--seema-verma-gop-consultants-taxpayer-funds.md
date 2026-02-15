@@ -3,6 +3,7 @@ id: 2018-09-12--seema-verma-gop-consultants-taxpayer-funds
 date: 2018-09-12
 title: CMS Administrator Seema Verma Spent $5 Million in Taxpayer Funds on GOP Consultants to Boost Personal Profile
 importance: 8
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

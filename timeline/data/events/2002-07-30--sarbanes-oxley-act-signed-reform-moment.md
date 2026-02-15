@@ -1,6 +1,7 @@
 ---
 id: 2002-07-30--sarbanes-oxley-act-signed-reform-moment
 date: 2002-07-30
+status: confirmed
 title: Sarbanes-Oxley Act Signed Into Law as Brief Reform Moment
 importance: 10
 tags:

@@ -16,6 +16,7 @@ tags:
 - supreme-court
 - business-methods
 - patent-trolls
+status: confirmed
 sources:
 - title: Alice Corp. v. CLS Bank Int'l, 573 U.S. 208 (2014)
   url: https://supreme.justia.com/cases/federal/us/573/208/

@@ -3,6 +3,7 @@ id: 1989-12-20--us-invades-panama-operation-just-cause
 date: 1989-12-20
 title: U.S. Invades Panama to Capture Former CIA Asset Manuel Noriega
 importance: 9
+status: confirmed
 tags:
 - foreign-policy
 - cia

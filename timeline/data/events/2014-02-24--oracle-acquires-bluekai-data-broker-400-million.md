@@ -3,6 +3,7 @@ id: 2014-02-24--oracle-acquires-bluekai-data-broker-400-million
 date: '2014-02-24'
 title: Oracle Acquires BlueKai Data Broker for $400 Million, Expands Surveillance Operations
 importance: 8
+status: confirmed
 tags:
 - oracle
 - surveillance

@@ -3,6 +3,7 @@ id: 2015-10-27--northrop-grumman-b21-raider-80-billion-bomber-contract
 date: '2015-10-27'
 title: Northrop Grumman Wins $80 Billion B-21 Raider Stealth Bomber Contract
 importance: 10
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force

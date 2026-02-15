@@ -3,6 +3,7 @@ id: 1994-01-01--alec-three-strikes-model-legislation-cca-co-sponsor
 date: '1994-01-01'
 title: ALEC Passes Three Strikes Model Legislation Co-Sponsored by Private Prison Industry and NRA
 importance: 9
+status: confirmed
 actors:
 - ALEC
 - Corrections Corporation of America (CCA)

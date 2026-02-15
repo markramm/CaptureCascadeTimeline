@@ -3,6 +3,7 @@ id: 2013-03-15--northrop-grumman-global-hawk-222-million-cost-overrun
 date: '2013-03-15'
 title: Northrop Grumman Global Hawk Drone Costs Surge to $222 Million Per Aircraft
 importance: 8
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force

@@ -3,6 +3,7 @@ id: 2022-06-14--ftc-blocks-jab-veterinary-consolidation-private-equity-rollup
 date: '2022-06-14'
 title: 'FTC Blocks JAB Consumer Partners Veterinary Clinic Roll-Up: Private Equity Monopolization Strategy'
 importance: 9
+status: confirmed
 actors:
 - Federal Trade Commission
 - JAB Consumer Partners

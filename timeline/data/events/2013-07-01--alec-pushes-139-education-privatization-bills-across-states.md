@@ -3,6 +3,7 @@ id: 2013-07-01--alec-pushes-139-education-privatization-bills-across-states
 date: '2013-07-01'
 title: ALEC Coordinates 139 Education Privatization Bills Across States - Systematic Public School Defunding Campaign
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council (ALEC)
 - ALEC Education and Workforce Development Task Force

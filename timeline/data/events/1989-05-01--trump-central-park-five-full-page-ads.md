@@ -3,6 +3,7 @@ id: 1989-05-01--trump-central-park-five-full-page-ads
 date: 1989-05-01
 title: Trump Demands Death Penalty in $85,000 Ads Against Central Park Five
 importance: 9
+status: confirmed
 tags:
 - racism
 - central park five

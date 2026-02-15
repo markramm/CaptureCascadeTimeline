@@ -3,6 +3,7 @@ id: 2022-01-21--raytheon-bomb-kills-80-yemen-detention-facility-saada
 date: '2022-01-21'
 title: Raytheon-Manufactured Bomb Kills 80 at Yemen Detention Center in Worst Attack in Three Years
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - yemen-war

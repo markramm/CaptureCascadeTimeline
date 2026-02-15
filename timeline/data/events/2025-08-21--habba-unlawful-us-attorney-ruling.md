@@ -3,6 +3,7 @@ id: 2025-08-21--habba-unlawful-us-attorney-ruling
 date: '2025-08-21'
 title: Federal Judge Rules Alina Habba Unlawfully Serving as U.S. Attorney for New Jersey
 importance: 8
+status: confirmed
 tags:
 - institutional-capture
 - rule-of-law

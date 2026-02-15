@@ -3,6 +3,7 @@ id: 2019-04-09--ben-carson-son-hud-ethics-violations
 date: 2019-04-09
 title: HUD Inspector General Finds Ben Carson Violated Ethics Rules by Involving Son in Official Business
 importance: 7
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

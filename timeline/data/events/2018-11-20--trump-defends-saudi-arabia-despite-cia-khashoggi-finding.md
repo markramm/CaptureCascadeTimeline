@@ -3,6 +3,7 @@ id: 2018-11-20--trump-defends-saudi-arabia-despite-cia-khashoggi-finding
 date: 2018-11-20
 title: Trump Defends Saudi Arabia Despite CIA High-Confidence Finding MBS Ordered Khashoggi Murder - "Maybe He Did, Maybe He Didn't"
 importance: 10
+status: confirmed
 tags:
 - donald-trump
 - saudi-arabia

@@ -3,6 +3,7 @@ id: 2016-12-08--mark-welsh-northrop-grumman-board-revolving-door
 date: '2016-12-08'
 title: Former Air Force Chief of Staff Mark Welsh Joins Northrop Grumman Board After B-21 Bomber Contract Award
 importance: 9
+status: confirmed
 actors:
 - Mark Welsh
 - Northrop Grumman

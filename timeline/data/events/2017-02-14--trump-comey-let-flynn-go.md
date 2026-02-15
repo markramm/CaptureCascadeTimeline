@@ -3,6 +3,7 @@ id: 2017-02-14--trump-comey-let-flynn-go
 date: 2017-02-14
 title: Trump Asks Comey to "Let Flynn Go" in Private Oval Office Meeting
 importance: 10
+status: confirmed
 tags:
 - obstruction of justice
 - mueller investigation

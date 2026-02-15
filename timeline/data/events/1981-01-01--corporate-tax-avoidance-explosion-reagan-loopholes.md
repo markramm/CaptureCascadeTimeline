@@ -1,6 +1,7 @@
 ---
 id: 1981-01-01--corporate-tax-avoidance-explosion-reagan-loopholes
 date: '1981-01-01'
+status: confirmed
 title: 'Corporate Tax Avoidance Explosion: Reagan Loopholes Slash Corporate Revenue'
 importance: 8
 location: United States

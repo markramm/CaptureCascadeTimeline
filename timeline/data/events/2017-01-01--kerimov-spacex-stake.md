@@ -45,7 +45,7 @@ notes: Heritage Trust acquired SpaceX stake 2017 ($210M when SpaceX valued $21B)
   sanctions. SpaceX stake disposed before 2022 blocking. Kerimov has $9.84B net worth,
   17th richest Russian, Federation Council member, EU sanctioned 2022 as Putin inner
   circle.
-status: reported
+status: confirmed
 ---
 
 Bloomberg and other outlets reported Russian oligarch Suleyman Kerimov held approximately 1% of SpaceX through Delaware's Heritage Trust, managed by Citigroup, from 2017 until disposal before Treasury blocked the trust in 2022. The stake was acquired pre-sanctions but retained for years after 2018 U.S. sanctions.

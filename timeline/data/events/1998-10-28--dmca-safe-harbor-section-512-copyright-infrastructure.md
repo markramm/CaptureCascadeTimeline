@@ -3,6 +3,7 @@ id: 1998-10-28--dmca-safe-harbor-section-512-copyright-infrastructure
 date: '1998-10-28'
 title: 'Digital Millennium Copyright Act Section 512: Safe Harbor Provisions Create Dual System of Corporate Protection and Individual Vulnerability'
 importance: 9
+status: confirmed
 actors:
 - Bill Clinton
 - U.S. Copyright Office

@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-01-01--palantir-rapid-expansion-government-agencies
 date: '2007-01-01'
 title: Palantir Begins Rapid Expansion Across U.S. Government Agencies

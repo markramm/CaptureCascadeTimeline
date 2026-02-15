@@ -3,6 +3,7 @@ id: 2017-07-21--mark-esper-raytheon-lobbyist-nominated-army-secretary
 date: '2017-07-21'
 title: Mark Esper, Former Raytheon Weapons Lobbyist, Becomes Army Secretary in Revolving Door Appointment
 importance: 9
+status: confirmed
 tags:
 - revolving-door
 - raytheon

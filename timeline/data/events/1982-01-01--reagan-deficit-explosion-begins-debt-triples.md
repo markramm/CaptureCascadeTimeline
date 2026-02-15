@@ -1,6 +1,7 @@
 ---
 id: 1982-01-01--reagan-deficit-explosion-begins-debt-triples
 date: '1982-01-01'
+status: confirmed
 title: 'Reagan Deficit Explosion: National Debt Triples From $1T to $3T in Eight Years'
 importance: 9
 location: United States

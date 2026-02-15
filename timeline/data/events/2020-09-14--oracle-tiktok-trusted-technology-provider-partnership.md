@@ -3,6 +3,7 @@ id: 2020-09-14--oracle-tiktok-trusted-technology-provider-partnership
 date: '2020-09-14'
 title: Oracle Becomes TikTok's "Trusted Technology Provider" Under Trump Administration Pressure
 importance: 8
+status: confirmed
 tags:
 - oracle
 - tiktok

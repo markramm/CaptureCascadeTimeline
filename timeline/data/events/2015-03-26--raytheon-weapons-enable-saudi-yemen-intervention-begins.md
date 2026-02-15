@@ -3,6 +3,7 @@ id: 2015-03-26--raytheon-weapons-enable-saudi-yemen-intervention-begins
 date: '2015-03-26'
 title: Saudi Arabia Launches Yemen Intervention Armed with Billions in Raytheon Weapons, Beginning Eight-Year Atrocity
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - yemen-war

@@ -3,6 +3,7 @@ id: 2025-08-19--vought-blocks-congressional-spending-authority
 date: '2025-08-19'
 title: OMB Director Vought Blocks Billions in Congressional Appropriations, Claims Unilateral Spending Power
 importance: 9
+status: confirmed
 actors:
 - Russell Vought
 - Office of Management and Budget

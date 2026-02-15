@@ -6,6 +6,7 @@ actors:
 date: '2024-08-29'
 id: 2024-08-29--kylian-mbapp\u00e9-twitter-account-hacked-to-promote-00
 importance: 8
+status: confirmed
 sources:
 - outlet: Cointelegraph
   title: 'Fame and failure: 7 celebrity-endorsed crypto scams that went wrong'

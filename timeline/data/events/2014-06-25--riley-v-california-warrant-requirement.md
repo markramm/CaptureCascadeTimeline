@@ -12,6 +12,7 @@ tags:
 - surveillance
 - mobile-forensics
 - civil-liberties
+status: confirmed
 sources:
 - url: https://supreme.justia.com/cases/federal/us/573/373/
   title: Riley v. California | 573 U.S. 373 (2014)

@@ -3,6 +3,7 @@ id: 2020-02-21--wells-fargo-pays-3-billion-admits-fraud
 date: '2020-02-21'
 title: Wells Fargo Pays $3 Billion, Admits Fraud, No Executives Charged
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

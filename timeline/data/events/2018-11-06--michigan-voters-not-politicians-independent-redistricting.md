@@ -3,6 +3,7 @@ id: 2018-11-06--michigan-voters-not-politicians-independent-redistricting
 date: 2018-11-06
 title: Michigan Voters Approve Independent Redistricting Commission, Ending Partisan Gerrymandering
 importance: 8
+status: confirmed
 tags:
 - gerrymandering
 - michigan

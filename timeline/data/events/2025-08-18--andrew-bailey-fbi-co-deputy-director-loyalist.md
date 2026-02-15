@@ -3,6 +3,7 @@ id: 2025-08-18--andrew-bailey-fbi-co-deputy-director-loyalist
 date: '2025-08-18'
 title: Trump Appoints Missouri AG to Unprecedented FBI Co-Deputy Director Role
 importance: 9
+status: confirmed
 actors:
 - Andrew Bailey
 - Donald Trump

@@ -3,6 +3,7 @@ id: 2019-06-28--raytheon-bomb-kills-six-civilians-yemen-village
 date: '2019-06-28'
 title: Raytheon GBU-12 Bomb Kills Six Civilians Including Three Children in Yemen Village Attack
 importance: 9
+status: confirmed
 tags:
 - raytheon
 - yemen-war

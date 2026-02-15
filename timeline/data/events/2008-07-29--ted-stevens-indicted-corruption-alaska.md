@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-07-29--ted-stevens-indicted-corruption-alaska
 date: 2008-07-29
 title: Senator Ted Stevens Indicted on Seven Felony Corruption Charges

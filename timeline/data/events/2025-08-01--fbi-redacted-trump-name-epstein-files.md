@@ -3,6 +3,7 @@ id: 2025-08-01--fbi-redacted-trump-name-epstein-files
 date: '2025-08-01'
 title: FBI Redacted Trump's Name from Jeffrey Epstein Files Under Privacy Protections
 importance: 9
+status: confirmed
 actors:
 - FBI
 - Department of Justice

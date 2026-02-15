@@ -3,6 +3,7 @@ id: 2010-01-01--republican-state-leadership-committee-redmap-strategy
 date: 2010-01-01
 title: Republican State Leadership Committee Launches REDMAP Gerrymandering Project
 importance: 9
+status: confirmed
 tags:
 - gerrymandering
 - electoral-manipulation

@@ -19,6 +19,7 @@ tags:
 - civil-rights
 - legislative-capture
 - public-pressure
+status: confirmed
 sources:
 - title: As Pressure Mounts, Companies Flee Coalition
   url: https://www.npr.org/2012/04/13/150528572/as-pressure-mounts-companies-flee-coalition

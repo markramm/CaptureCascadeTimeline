@@ -3,6 +3,7 @@ id: 2024-04-24--anduril-air-force-cca-contract
 date: '2024-04-24'
 title: Anduril Wins Air Force Contract for Autonomous Fighter Jet Program
 importance: 9
+status: confirmed
 actors:
 - Anduril Industries
 - U.S. Air Force

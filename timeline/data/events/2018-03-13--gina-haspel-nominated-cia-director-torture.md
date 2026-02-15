@@ -3,6 +3,7 @@ id: 2018-03-13--gina-haspel-nominated-cia-director-torture
 date: '2018-03-13'
 title: Trump Nominates Gina Haspel as CIA Director Despite Role in Torture Program and Evidence Destruction
 importance: 9
+status: confirmed
 actors:
 - Gina Haspel
 - Donald Trump

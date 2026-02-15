@@ -3,6 +3,7 @@ id: 2024-01-01--oracle-spends-11-million-federal-lobbying-tiktok
 date: '2024-01-01'
 title: Oracle Spends $11 Million on Federal Lobbying, Focuses on TikTok Data Storage Deal
 importance: 7
+status: confirmed
 tags:
 - lobbying
 - oracle

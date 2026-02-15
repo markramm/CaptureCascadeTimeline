@@ -1,6 +1,7 @@
 ---
 id: 1981-08-13--reagan-signs-erta-tax-cuts-for-wealthy
 date: '1981-08-13'
+status: confirmed
 title: 'Reagan Signs ERTA: Massive Tax Cuts for Wealthy Begin Inequality Explosion'
 importance: 9
 location: Washington, DC

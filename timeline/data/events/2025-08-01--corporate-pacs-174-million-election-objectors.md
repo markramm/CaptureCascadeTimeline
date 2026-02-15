@@ -3,6 +3,7 @@ id: 2025-08-01--corporate-pacs-174-million-election-objectors
 date: '2025-08-01'
 title: Corporate PACs Donated $174 Million to Lawmakers Who Attempted to Overturn 2020 Election
 importance: 8
+status: confirmed
 actors:
 - Koch Industries
 - American Crystal Sugar

@@ -3,6 +3,7 @@ id: 2025-08-11--vietnam-farmers-displaced-trump-golf-resort
 date: '2025-08-11'
 title: Vietnamese Farmers Displaced for Trump Golf Resort, Compensated $3,200 and Rice
 importance: 7
+status: confirmed
 actors:
 - Trump Organization
 - Kinhbac City

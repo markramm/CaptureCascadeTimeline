@@ -3,6 +3,7 @@ id: 2024-12-06--usda-mandatory-milk-testing-order-h5n1
 date: '2024-12-06'
 title: USDA Issues Federal Order Requiring Mandatory Raw Milk Testing for H5N1
 importance: 7
+status: confirmed
 tags:
 - public-health
 - regulatory-action

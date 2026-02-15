@@ -1,6 +1,7 @@
 ---
 id: 2003-02-01--in-q-tel-invests-keyhole-iraq-war
 date: '2003-02-01'
+status: confirmed
 title: In-Q-Tel Invests in Keyhole's EarthViewer During Iraq War Buildup
 importance: 8
 actors:

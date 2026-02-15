@@ -3,6 +3,7 @@ id: 2018-10-02--jamal-khashoggi-murdered-saudi-consulate-istanbul
 date: 2018-10-02
 title: Jamal Khashoggi Murdered Inside Saudi Consulate in Istanbul by 15-Member Hit Squad Sent by Crown Prince MBS
 importance: 10
+status: confirmed
 tags:
 - saudi-arabia
 - jamal-khashoggi

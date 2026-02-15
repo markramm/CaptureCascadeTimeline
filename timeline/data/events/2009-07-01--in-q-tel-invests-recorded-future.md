@@ -3,6 +3,7 @@ id: 2009-07-01--in-q-tel-invests-recorded-future
 date: '2009-07-01'
 title: In-Q-Tel and Google Ventures Co-Invest in Social Media Surveillance Firm Recorded Future
 importance: 8
+status: confirmed
 actors:
 - In-Q-Tel
 - Google Ventures

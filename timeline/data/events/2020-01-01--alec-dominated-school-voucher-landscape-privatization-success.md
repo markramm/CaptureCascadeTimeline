@@ -3,6 +3,7 @@ id: 2020-01-01--alec-dominated-school-voucher-landscape-privatization-success
 date: '2020-01-01'
 title: ALEC's Education Privatization Campaign Achieves Dominance - Model Legislation Controls Voucher Landscape Nationwide
 importance: 9
+status: confirmed
 actors:
 - American Legislative Exchange Council (ALEC)
 - ALEC Education and Workforce Development Task Force

@@ -3,6 +3,7 @@ id: 2020-05-08--abbvie-allergan-merger-pharmaceutical-oligopoly
 date: '2020-05-08'
 title: 'AbbVie Completes $63 Billion Allergan Acquisition: Pharmaceutical Industry Consolidates Into Oligopoly'
 importance: 9
+status: confirmed
 actors:
 - AbbVie
 - Allergan

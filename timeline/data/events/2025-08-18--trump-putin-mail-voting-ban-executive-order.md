@@ -3,6 +3,7 @@ id: 2025-08-18--trump-putin-mail-voting-ban-executive-order
 date: '2025-08-18'
 title: Trump Pledges Executive Order to Ban Mail-In Voting After Putin Meeting
 importance: 9
+status: confirmed
 actors:
 - Donald Trump
 - Vladimir Putin

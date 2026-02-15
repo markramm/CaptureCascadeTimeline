@@ -3,6 +3,7 @@ id: 1987-02-26--tower-commission-report-released
 date: 1987-02-26
 title: Tower Commission Report Released, Criticized as Whitewash of Iran-Contra
 importance: 8
+status: confirmed
 tags:
 - iran-contra
 - reagan-administration

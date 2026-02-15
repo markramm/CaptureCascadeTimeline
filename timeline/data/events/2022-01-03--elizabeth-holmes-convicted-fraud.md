@@ -3,6 +3,7 @@ id: 2022-01-03--elizabeth-holmes-convicted-fraud
 date: '2022-01-03'
 title: Theranos Founder Elizabeth Holmes Convicted of Defrauding Investors in $9 Billion Fraud Scheme
 importance: 9
+status: confirmed
 actors:
 - Elizabeth Holmes
 - Theranos

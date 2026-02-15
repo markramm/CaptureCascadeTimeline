@@ -3,6 +3,7 @@ id: 2020-10-26--senate-confirms-barrett-52-48-week-before-election
 date: '2020-10-26'
 title: Senate Confirms Amy Coney Barrett 52-48 Eight Days Before Election, Creating 6-3 Conservative Supermajority
 importance: 10
+status: confirmed
 tags:
 - supreme court
 - judicial appointments

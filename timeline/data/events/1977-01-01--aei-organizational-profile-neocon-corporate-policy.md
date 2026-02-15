@@ -1,6 +1,7 @@
 ---
 id: 1977-01-01--aei-organizational-profile-neocon-corporate-policy
 date: '1977-01-01'
+status: confirmed
 title: 'American Enterprise Institute Organizational Profile: Transforming Industry Lobby into ''Scholarly'' Think Tank'
 importance: 8
 actors:

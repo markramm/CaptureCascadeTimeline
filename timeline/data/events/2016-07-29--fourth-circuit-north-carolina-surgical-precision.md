@@ -2,6 +2,7 @@
 id: 2016-07-29--fourth-circuit-north-carolina-surgical-precision
 date: '2016-07-29'
 title: Appeals Court Strikes Down North Carolina Voter ID Law With "Surgical Precision" Ruling
+status: confirmed
 importance: 9
 tags:
 - voting-rights

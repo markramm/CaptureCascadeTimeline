@@ -42,6 +42,7 @@ summary: 'The Heritage Foundation reached over 100 staff members and a $10 milli
 
   '
 importance: 8
+status: confirmed
 actors:
 - Heritage Foundation
 - Edwin Feulner

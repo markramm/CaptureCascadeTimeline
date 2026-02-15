@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-07-05--ken-lay-dies-before-sentencing-conviction-vacated
 date: 2006-07-05
 title: Ken Lay Dies Before Sentencing, Conviction Later Vacated

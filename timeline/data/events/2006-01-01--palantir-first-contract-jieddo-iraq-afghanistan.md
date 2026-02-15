@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2006-01-01--palantir-first-contract-jieddo-iraq-afghanistan
 date: '2006-01-01'
 title: Palantir Wins First Major Contract with Joint IED Defeat Organization for Iraq and Afghanistan

@@ -3,6 +3,7 @@ id: 1989-01-01--s-and-l-industry-collapse-1000-institutions-fail
 date: '1989-01-01'
 title: 'S&L Industry Collapse: Over 1,000 Institutions Failed by 1989'
 importance: 9
+status: confirmed
 location: United States
 actors:
 - Savings and Loan institutions

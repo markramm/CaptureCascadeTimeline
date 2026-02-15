@@ -3,6 +3,7 @@ id: 2022-10-19--france-fines-clearview-ai-20-million-euros-gdpr-violations
 date: '2022-10-19'
 title: France Fines Clearview AI €20 Million for GDPR Violations and Unlawful Biometric Surveillance
 importance: 8
+status: confirmed
 tags:
 - surveillance-state
 - privacy-violations

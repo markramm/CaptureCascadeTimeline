@@ -3,6 +3,7 @@ id: 2025-05-08--pope-leo-xiv-election
 date: '2025-05-08'
 title: Cardinal Robert Prevost Elected Pope Leo XIV - First American Pope
 importance: 9
+status: confirmed
 tags:
 - vatican
 - pope-leo-xiv

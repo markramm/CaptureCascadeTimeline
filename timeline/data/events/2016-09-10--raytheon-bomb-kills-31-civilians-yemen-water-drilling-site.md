@@ -3,6 +3,7 @@ id: 2016-09-10--raytheon-bomb-kills-31-civilians-yemen-water-drilling-site
 date: '2016-09-10'
 title: Raytheon-Manufactured Bomb Kills 31 Civilians at Yemen Water Drilling Site in Apparent War Crime
 importance: 10
+status: confirmed
 tags:
 - raytheon
 - yemen-war

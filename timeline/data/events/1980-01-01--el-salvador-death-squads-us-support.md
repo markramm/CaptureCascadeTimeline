@@ -1,6 +1,7 @@
 ---
 id: 1980-01-01--el-salvador-death-squads-us-support
 date: 1980-03-24
+status: confirmed
 title: U.S. Backs El Salvador Death Squad Government Through 12-Year Civil War
 importance: 9
 tags:

@@ -3,6 +3,7 @@ id: 2017-08-01--north-carolina-redistricting-racial-gerrymander-unconstitutional
 date: 2017-08-01
 title: Courts Strike Down North Carolina Racial Gerrymandering, Legislature Redraws With Explicit Partisan Intent
 importance: 8
+status: confirmed
 tags:
 - gerrymandering
 - racial-discrimination

@@ -3,6 +3,7 @@ id: 2023-04-22--palantir-ukraine-war-crimes-prosecution-partnership
 date: '2023-04-22'
 title: Palantir Partners with Ukraine Prosecutor to Process War Crimes Evidence Using AI
 importance: 8
+status: confirmed
 tags:
 - surveillance-state
 - authoritarian-infrastructure

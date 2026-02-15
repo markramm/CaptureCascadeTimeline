@@ -3,6 +3,7 @@ id: 1989-02-09--kkr-rjr-nabisco-lbo-pe-extraction-template
 date: '1989-02-09'
 title: KKR's $31 Billion RJR Nabisco Leveraged Buyout Establishes Private Equity Wealth Extraction Model
 importance: 8
+status: confirmed
 actors:
 - KKR
 - Henry Kravis

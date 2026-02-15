@@ -3,6 +3,7 @@ id: 2017-02-22--washington-post-launches-democracy-dies-darkness-slogan
 date: 2017-02-22
 title: Washington Post Launches "Democracy Dies in Darkness" Slogan Under Bezos Ownership
 importance: 7
+status: confirmed
 tags:
 - media-capture
 - billionaire-control

@@ -14,6 +14,7 @@ actors:
 - Wisconsin Legislature
 - Republican Party
 - Michael Best & Friedrich
+status: confirmed
 sources:
 - url: https://www.prwatch.org/news/2016/05/13111/high-tech-gerrymandering-trial-wisconsin
   title: Hi-Tech Hyper-Partisan Gerrymandering on Trial in Wisconsin

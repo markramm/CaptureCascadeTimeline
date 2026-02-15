@@ -1,6 +1,7 @@
 ---
 id: 2002-09-07--whig-media-blitz-iraq-wmds
 date: '2002-09-07'
+status: confirmed
 title: WHIG Executes Coordinated Media Blitz Demonstrating Crisis Template
 importance: 9
 sources:

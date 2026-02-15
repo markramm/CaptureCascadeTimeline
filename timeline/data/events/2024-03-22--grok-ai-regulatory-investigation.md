@@ -3,6 +3,7 @@ id: 2024-03-22--grok-ai-regulatory-investigation
 date: '2024-03-22'
 title: Irish Data Protection Commission Launches Grok AI Regulatory Investigation
 importance: 8
+status: confirmed
 tags:
 - ai-regulation
 - data-privacy

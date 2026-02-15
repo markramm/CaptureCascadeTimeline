@@ -3,6 +3,7 @@ id: 2016-09-27--wells-fargo-claws-back-stumpf-compensation
 date: '2016-09-27'
 title: Wells Fargo Claws Back $41 Million from Stumpf's Compensation
 importance: 7
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

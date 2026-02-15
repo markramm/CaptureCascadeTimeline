@@ -1,6 +1,7 @@
 ---
 id: 1971-03-08--cointelpro-exposed-media-burglary
 date: 1971-03-08
+status: confirmed
 title: COINTELPRO Exposed - FBI's Secret War on Civil Rights and Dissent Revealed
 importance: 9
 actors:

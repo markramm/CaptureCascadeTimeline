@@ -12,6 +12,7 @@ summary: 'Former House Speaker Dennis Hastert pleaded guilty in federal court to
 
   '
 importance: 9
+status: confirmed
 tags:
 - congressional corruption
 - sexual abuse

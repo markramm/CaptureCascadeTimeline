@@ -3,6 +3,7 @@ id: 2016-11-18--trump-university-25-million-settlement
 date: 2016-11-18
 title: Trump Settles Trump University Fraud Cases for $25 Million, 10 Days After Election Victory
 importance: 9
+status: confirmed
 tags:
 - trump university
 - fraud

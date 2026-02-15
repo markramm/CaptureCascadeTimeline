@@ -28,6 +28,7 @@ notes: Unprecedented mid-decade redistricting that bypasses traditional legislat
   procedures. Highlights growing tensions in state-level electoral manipulation.
 validation_priority: 10
 importance: 10
+status: confirmed
 actors:
 - Texas Legislature
 - Texas Republicans

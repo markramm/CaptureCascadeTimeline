@@ -3,6 +3,7 @@ id: 2019-05-21--ftc-v-qualcomm-district-court-sep-frand-violations
 date: '2019-05-21'
 title: 'FTC v. Qualcomm: Judge Lucy Koh Finds Antitrust Violations in Standard Essential Patent Licensing, Later Reversed on Appeal'
 importance: 8
+status: confirmed
 actors:
 - FTC
 - Lucy Koh

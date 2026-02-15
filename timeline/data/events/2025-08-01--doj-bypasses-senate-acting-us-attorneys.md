@@ -3,6 +3,7 @@ id: 2025-08-01--doj-bypasses-senate-acting-us-attorneys
 date: '2025-08-01'
 title: DOJ Uses Legal Loopholes to Install Trump Loyalists as Acting U.S. Attorneys Without Senate Confirmation
 importance: 9
+status: confirmed
 actors:
 - Department of Justice
 - Pam Bondi

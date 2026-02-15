@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-09-29--financial-services-wall-street-bailout-contributions
 date: '2008-09-29'
 title: Financial Services Committee Members Who Supported Bailout Received 39% More Wall Street Money

@@ -3,6 +3,7 @@ id: 2017-05-13--equifax-data-breach-begins
 date: '2017-05-13'
 title: Equifax Data Breach Exposes 147 Million Americans Due to Unpatched Apache Struts Vulnerability
 importance: 10
+status: confirmed
 actors:
 - Equifax
 - Richard Smith

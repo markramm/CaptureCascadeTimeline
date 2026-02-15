@@ -3,6 +3,7 @@ id: 2017-01-01--amazon-pays-zero-federal-income-tax-56-billion-profit
 date: 2017-01-01
 title: Amazon Pays Zero Federal Income Tax on $5.6 Billion Profit
 importance: 9
+status: confirmed
 tags:
 - tax-avoidance
 - corporate-welfare

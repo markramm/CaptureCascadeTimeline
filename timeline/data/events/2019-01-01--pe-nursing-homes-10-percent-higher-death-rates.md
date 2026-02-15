@@ -3,6 +3,7 @@ id: 2019-01-01--pe-nursing-homes-10-percent-higher-death-rates
 date: '2019-01-01'
 title: 'NBER Study: Private Equity-Owned Nursing Homes Have 10% Higher Death Rates Due to Cost-Cutting'
 importance: 10
+status: confirmed
 actors:
 - Private equity firms
 - Nursing home residents

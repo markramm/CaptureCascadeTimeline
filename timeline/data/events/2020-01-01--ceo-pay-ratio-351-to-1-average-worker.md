@@ -3,6 +3,7 @@ id: 2020-01-01--ceo-pay-ratio-351-to-1-average-worker
 date: '2020-01-01'
 title: CEO Pay Ratio Reaches 351-to-1 Versus Average Worker, Up from 21-to-1 in 1965
 importance: 8
+status: confirmed
 actors:
 - CEOs
 - Corporate boards

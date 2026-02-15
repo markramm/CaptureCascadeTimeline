@@ -3,6 +3,7 @@ id: 2017-01-01--clearview-ai-founded-facial-recognition-surveillance
 date: '2017-01-01'
 title: Clearview AI Founded to Build Mass Facial Recognition Database
 importance: 8
+status: confirmed
 tags:
 - surveillance-state
 - privacy-violations

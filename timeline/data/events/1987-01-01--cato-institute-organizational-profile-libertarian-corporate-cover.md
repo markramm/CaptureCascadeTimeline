@@ -3,6 +3,7 @@ id: 1987-01-01--cato-institute-organizational-profile-libertarian-corporate-cove
 date: '1987-01-01'
 title: 'Cato Institute Organizational Profile: ''Libertarian'' Cover for Corporate Deregulation Agenda'
 importance: 8
+status: confirmed
 actors:
 - Cato Institute
 - Charles Koch

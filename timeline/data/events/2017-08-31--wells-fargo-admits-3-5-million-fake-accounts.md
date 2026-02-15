@@ -3,6 +3,7 @@ id: 2017-08-31--wells-fargo-admits-3-5-million-fake-accounts
 date: '2017-08-31'
 title: Wells Fargo Revises Fake Account Count to 3.5 Million, Up 67%
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

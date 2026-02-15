@@ -3,6 +3,7 @@ id: 2014-10-22--davita-pays-350-million-doctor-kickback-settlement
 date: '2014-10-22'
 title: DaVita Pays $350 Million to Settle Doctor Kickback Allegations, Exposing Systematic Dialysis Profiteering Scheme
 importance: 8
+status: confirmed
 actors:
 - DaVita
 - Kent Thiry

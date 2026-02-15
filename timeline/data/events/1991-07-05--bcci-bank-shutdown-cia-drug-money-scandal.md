@@ -3,6 +3,7 @@ id: 1991-07-05--bcci-bank-shutdown-cia-drug-money-scandal
 date: 1991-07-05
 title: BCCI Bank Shut Down After Exposing CIA Drug Money Laundering Network
 importance: 10
+status: confirmed
 tags:
 - corruption
 - money-laundering

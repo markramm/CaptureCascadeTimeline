@@ -3,6 +3,7 @@ id: 2019-10-22--bill-taylor-damning-testimony-quid-pro-quo
 date: 2019-10-22
 title: Acting Ukraine Ambassador Bill Taylor Testifies - Clear Quid Pro Quo for Biden Investigation
 importance: 9
+status: confirmed
 tags:
 - first impeachment
 - ukraine

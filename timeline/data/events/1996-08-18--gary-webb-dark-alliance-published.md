@@ -3,6 +3,7 @@ id: 1996-08-18--gary-webb-dark-alliance-published
 date: 1996-08-18
 title: Gary Webb's "Dark Alliance" Exposes CIA-Contra-Crack Cocaine Connection
 importance: 10
+status: confirmed
 tags:
 - journalism
 - cia

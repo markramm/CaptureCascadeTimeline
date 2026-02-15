@@ -3,6 +3,7 @@ id: 2025-08-01--smithsonian-removes-trump-impeachment-exhibit
 date: '2025-08-01'
 title: Smithsonian Removes Trump Impeachment References from National Museum of American History
 importance: 8
+status: confirmed
 actors:
 - Smithsonian Institution
 - National Museum of American History

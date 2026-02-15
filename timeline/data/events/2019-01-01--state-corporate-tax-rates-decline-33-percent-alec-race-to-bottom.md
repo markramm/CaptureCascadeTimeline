@@ -3,6 +3,7 @@ id: 2019-01-01--state-corporate-tax-rates-decline-33-percent-alec-race-to-bottom
 date: '2019-01-01'
 title: State Corporate Tax Rates Decline 33% Over Three Decades - ALEC's Interstate Race-to-Bottom Costs States $43-57 Billion Annually in Lost Revenue
 importance: 8
+status: confirmed
 actors:
 - American Legislative Exchange Council
 - State Legislatures

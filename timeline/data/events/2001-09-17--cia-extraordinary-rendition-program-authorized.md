@@ -3,6 +3,7 @@ id: 2001-09-17--cia-extraordinary-rendition-program-authorized
 date: '2001-09-17'
 title: CIA Authorized to Conduct Extraordinary Rendition - Kidnapping Suspects for Torture Abroad
 importance: 9
+status: confirmed
 actors:
 - CIA
 - George W. Bush

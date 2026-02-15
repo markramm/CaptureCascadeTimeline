@@ -3,6 +3,7 @@ id: 2025-08-11--trump-threatens-intel-ceo-resignation-china-ties
 date: '2025-08-11'
 title: Trump Demands Intel CEO Resignation, Then Reverses After Meeting
 importance: 7
+status: confirmed
 actors:
 - Donald Trump
 - Lip-Bu Tan

@@ -3,6 +3,7 @@ id: 2004-11-21--trump-hotels-casino-resorts-bankruptcy
 date: 2004-11-21
 title: Trump Hotels & Casino Resorts Files Bankruptcy, Trump Removed as CEO
 importance: 7
+status: confirmed
 tags:
 - bankruptcy
 - business failure

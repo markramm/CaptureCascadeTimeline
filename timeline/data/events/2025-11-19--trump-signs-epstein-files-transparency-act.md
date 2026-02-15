@@ -41,6 +41,7 @@ actors:
 - Marjorie Taylor Greene
 - Adam Schiff
 - Thom Tillis
+status: confirmed
 ---
 
 On November 19, 2025, President Donald Trump signed the Epstein Files Transparency Act into law, announcing on Truth Social: "I HAVE JUST SIGNED THE BILL TO RELEASE THE EPSTEIN FILES!" The announcement came one day after the House passed the bill 427-1 and the Senate approved it unanimously, forcing Trump to reverse his months-long opposition to releasing files about Jeffrey Epstein's criminal network. The law requires Attorney General Pam Bondi to release all unclassified Department of Justice records related to Epstein and Ghislaine Maxwell within 30 days in "a searchable and downloadable format," with files now due by December 19, 2025.

@@ -3,6 +3,7 @@ id: 1986-09-26--reagan-vetoes-south-africa-apartheid-sanctions
 date: 1986-09-26
 title: Reagan Vetoes Apartheid Sanctions, Congress Overrides in Historic Rebuke
 importance: 8
+status: confirmed
 tags:
 - foreign-policy
 - human-rights

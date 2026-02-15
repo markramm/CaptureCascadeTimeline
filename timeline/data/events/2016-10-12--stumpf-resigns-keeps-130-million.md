@@ -3,6 +3,7 @@ id: 2016-10-12--stumpf-resigns-keeps-130-million
 date: '2016-10-12'
 title: Stumpf Resigns as CEO, Retains Over $130 Million in Compensation
 importance: 8
+status: confirmed
 tags:
 - corporate-fraud
 - wells-fargo

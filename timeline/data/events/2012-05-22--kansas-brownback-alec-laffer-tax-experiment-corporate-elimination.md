@@ -20,6 +20,7 @@ tags:
 - austerity
 - wealth-transfer
 - economic-inequality
+status: confirmed
 sources:
 - title: Kansas experiment
   url: https://en.wikipedia.org/wiki/Kansas_experiment

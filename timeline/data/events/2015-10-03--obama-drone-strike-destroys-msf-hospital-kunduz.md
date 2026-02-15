@@ -16,6 +16,7 @@ tags:
 - civilian-casualties
 - msf
 - hospital-bombing
+status: confirmed
 sources:
 - title: Kunduz Hospital Attack - Initial MSF Statement
   url: https://www.msf.org/afghanistan-msf-demands-explanations-after-deadly-airstrikes-hit-kunduz-hospital

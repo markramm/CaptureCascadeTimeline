@@ -3,6 +3,7 @@ id: 2019-11-21--fiona-hill-giuliani-shadow-diplomacy
 date: 2019-11-21
 title: Fiona Hill Testifies - Giuliani Ran Shadow Ukraine Policy for "Domestic Political Errand"
 importance: 9
+status: confirmed
 tags:
 - first impeachment
 - ukraine

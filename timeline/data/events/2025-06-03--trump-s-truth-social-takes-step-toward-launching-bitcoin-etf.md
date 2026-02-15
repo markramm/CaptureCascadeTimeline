@@ -8,6 +8,7 @@ description: NYSE Arca filed a 19b-4 form with the SEC to list a spot Bitcoin ET
   if approved, would track Bitcoin's price and be part of Trump's growing digital
   asset strategy.
 importance: 9
+status: confirmed
 location: Washington, D.C.
 actors:
 - Donald Trump

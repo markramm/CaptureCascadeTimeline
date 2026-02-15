@@ -3,6 +3,7 @@ id: 2001-10-22--sec-launches-enron-investigation
 date: 2001-10-22
 title: SEC Launches Investigation Into Enron's Related-Party Transactions
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - enron

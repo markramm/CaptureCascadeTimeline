@@ -3,6 +3,7 @@ id: 2017-04-11--texas-voter-id-law-discriminatory-intent
 date: '2017-04-11'
 title: Federal Court Rules Texas Voter ID Law Intentionally Discriminatory Against Minorities
 importance: 8
+status: confirmed
 tags:
 - voter-suppression
 - texas

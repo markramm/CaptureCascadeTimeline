@@ -12,6 +12,7 @@ summary: 'House Majority Leader Tom DeLay (R-TX) was indicted by a Texas grand j
 
   '
 importance: 8
+status: confirmed
 tags:
 - congressional corruption
 - campaign finance violations

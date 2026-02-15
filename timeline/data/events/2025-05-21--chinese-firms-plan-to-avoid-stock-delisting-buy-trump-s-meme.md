@@ -3,6 +3,7 @@ id: 2025-05-21--chinese-firms-plan-to-avoid-stock-delisting-buy-trump-s-meme
 date: '2025-05-21'
 title: Chinese Firms Use Trump's Memecoin to Avoid Nasdaq Delisting
 importance: 7
+status: confirmed
 location: Washington, D.C.
 actors:
 - Donald Trump

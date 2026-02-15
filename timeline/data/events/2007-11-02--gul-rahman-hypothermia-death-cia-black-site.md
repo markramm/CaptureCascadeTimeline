@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2007-11-02--gul-rahman-hypothermia-death-cia-black-site
 date: '2007-11-02'
 title: CIA Detainee Gul Rahman Froze to Death at Black Site - No One Prosecuted for Homicide

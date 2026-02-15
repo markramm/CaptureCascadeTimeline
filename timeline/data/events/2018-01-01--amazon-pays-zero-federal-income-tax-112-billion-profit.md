@@ -2,6 +2,7 @@
 id: 2018-01-01--amazon-pays-zero-federal-income-tax-112-billion-profit
 date: 2018-01-01
 title: Amazon Pays Zero Federal Income Tax Again on $11.2 Billion Profit—Receives $129 Million Tax Rebate
+status: confirmed
 importance: 9
 tags:
 - tax-avoidance

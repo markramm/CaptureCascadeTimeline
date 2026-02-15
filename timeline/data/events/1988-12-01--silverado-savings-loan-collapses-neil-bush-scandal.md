@@ -3,6 +3,7 @@ id: 1988-12-01--silverado-savings-loan-collapses-neil-bush-scandal
 date: '1988-12-01'
 title: 'Silverado S&L Collapses: Neil Bush Conflict of Interest Costs Taxpayers $1 Billion'
 importance: 8
+status: confirmed
 location: Denver, Colorado
 actors:
 - Neil Bush

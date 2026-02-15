@@ -3,6 +3,7 @@ id: 2018-05-31--european-court-lithuania-romania-torture-sites
 date: '2018-05-31'
 title: European Court Finds Romania and Lithuania Hosted CIA Torture Sites, Orders Damages
 importance: 8
+status: confirmed
 actors:
 - European Court of Human Rights
 - Romania

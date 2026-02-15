@@ -2,6 +2,7 @@
 id: 2018-02-02--federal-reserve-caps-wells-fargo-assets
 date: '2018-02-02'
 title: Federal Reserve Imposes Unprecedented Asset Cap on Wells Fargo
+status: confirmed
 importance: 9
 tags:
 - banking-regulation

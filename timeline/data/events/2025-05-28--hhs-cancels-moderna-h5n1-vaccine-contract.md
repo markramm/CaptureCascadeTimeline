@@ -3,6 +3,7 @@ id: 2025-05-28--hhs-cancels-moderna-h5n1-vaccine-contract
 date: '2025-05-28'
 title: HHS Cancels $766 Million Moderna Contract for H5N1 Pandemic Flu Vaccines
 importance: 9
+status: confirmed
 tags:
 - public-health
 - institutional-capture

@@ -3,6 +3,7 @@ id: 2019-12-18--house-impeaches-trump-first-time
 date: 2019-12-18
 title: House Votes to Impeach Trump on Abuse of Power and Obstruction of Congress
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - abuse of power

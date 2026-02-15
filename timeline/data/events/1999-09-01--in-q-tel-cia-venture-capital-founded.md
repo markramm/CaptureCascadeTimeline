@@ -3,6 +3,7 @@ id: 1999-09-01--in-q-tel-cia-venture-capital-founded
 date: '1999-09-01'
 title: CIA Establishes In-Q-Tel as Revolutionary Venture Capital Arm
 importance: 9
+status: confirmed
 actors:
 - Central Intelligence Agency
 - George Tenet

@@ -2,6 +2,7 @@
 id: 2018-01-01--grayshift-ice-dea-fbi-contracts
 date: '2018-01-01'
 title: Grayshift Secures Major Contracts with ICE, DEA, and FBI for GrayKey Technology
+status: confirmed
 importance: 7
 actors:
 - Grayshift

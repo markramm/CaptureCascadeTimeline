@@ -3,6 +3,7 @@ id: 2024-08-20--battle-tested-ukraine-surveillance-marketing
 date: '2024-08-20'
 title: Defense Contractors Market Ukraine War as "Battle-Tested" Surveillance Technology Proving Ground
 importance: 8
+status: confirmed
 tags:
 - surveillance-state
 - military-technology

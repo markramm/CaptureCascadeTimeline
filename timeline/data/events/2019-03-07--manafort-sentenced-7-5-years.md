@@ -3,6 +3,7 @@ id: 2019-03-07--manafort-sentenced-7-5-years
 date: 2019-03-07
 title: Paul Manafort Sentenced to Combined 7.5 Years in Federal Prison, Longest Mueller Investigation Sentence
 importance: 8
+status: confirmed
 tags:
 - mueller investigation
 - paul manafort

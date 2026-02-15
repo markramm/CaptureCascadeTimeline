@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2009-01-23--obama-expands-drone-warfare-program
 date: '2009-01-23'
 title: Obama Dramatically Expands CIA Drone Strike Program - Ten Times More Strikes Than Bush

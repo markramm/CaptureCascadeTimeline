@@ -3,6 +3,7 @@ id: 2009-04-16--obama-releases-torture-memos-no-prosecutions
 date: '2009-04-16'
 title: Obama Releases CIA Torture Memos But Promises No Prosecutions for Torturers
 importance: 9
+status: confirmed
 actors:
 - Barack Obama
 - Eric Holder

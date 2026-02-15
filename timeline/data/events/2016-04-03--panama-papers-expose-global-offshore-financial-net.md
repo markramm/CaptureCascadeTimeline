@@ -2,6 +2,7 @@
 id: 2016-04-03--panama-papers-expose-global-offshore-financial-net
 date: '2016-04-03'
 title: Panama Papers Expose Global Offshore Financial Networks
+status: confirmed
 importance: 10
 actors:
 - Mossack Fonseca

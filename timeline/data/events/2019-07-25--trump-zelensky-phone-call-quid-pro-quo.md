@@ -3,6 +3,7 @@ id: 2019-07-25--trump-zelensky-phone-call-quid-pro-quo
 date: 2019-07-25
 title: Trump Pressures Zelensky in Phone Call - "I Would Like You to Do Us a Favor Though"
 importance: 10
+status: confirmed
 tags:
 - first impeachment
 - ukraine

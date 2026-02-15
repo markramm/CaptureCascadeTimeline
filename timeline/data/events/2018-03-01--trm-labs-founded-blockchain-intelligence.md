@@ -2,6 +2,7 @@
 id: 2018-03-01--trm-labs-founded-blockchain-intelligence
 date: 2018-03-01
 title: TRM Labs Founded to Provide Blockchain Intelligence to Governments and Financial Institutions
+status: confirmed
 importance: 7
 tags:
 - surveillance

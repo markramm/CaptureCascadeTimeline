@@ -3,6 +3,7 @@ id: 2016-09-08--wells-fargo-fined-185-million-fake-accounts
 date: '2016-09-08'
 title: Wells Fargo Fined $185 Million for Creating 2 Million Fake Accounts
 importance: 9
+status: confirmed
 tags:
 - corporate-fraud
 - banking-regulation

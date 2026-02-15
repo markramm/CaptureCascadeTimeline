@@ -3,6 +3,7 @@ id: 2022-07-01--oracle-tiktok-project-texas-1-billion-data-migration
 date: '2022-07-01'
 title: Oracle Launches "Project Texas" with TikTok, $1 Billion Data Storage Partnership
 importance: 8
+status: confirmed
 tags:
 - oracle
 - tiktok

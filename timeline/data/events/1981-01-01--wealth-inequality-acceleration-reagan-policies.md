@@ -1,6 +1,7 @@
 ---
 id: 1981-01-01--wealth-inequality-acceleration-reagan-policies
 date: '1981-01-01'
+status: confirmed
 title: 'Wealth Inequality Explodes: Reagan Policies Accelerate Income Gap'
 importance: 9
 location: United States

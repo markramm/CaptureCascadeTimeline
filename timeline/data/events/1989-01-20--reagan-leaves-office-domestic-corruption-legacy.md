@@ -3,6 +3,7 @@ id: 1989-01-20--reagan-leaves-office-domestic-corruption-legacy
 date: '1989-01-20'
 title: 'Reagan Leaves Office: Domestic Corruption and Policy Failure Legacy'
 importance: 9
+status: confirmed
 location: Washington, DC
 actors:
 - Ronald Reagan

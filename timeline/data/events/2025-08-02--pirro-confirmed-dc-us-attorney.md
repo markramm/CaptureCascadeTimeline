@@ -3,6 +3,7 @@ id: 2025-08-02--pirro-confirmed-dc-us-attorney
 date: '2025-08-02'
 title: Senate Confirms Jeanine Pirro as U.S. Attorney for Washington D.C.
 importance: 9
+status: confirmed
 actors:
 - Jeanine Pirro
 - Trump

@@ -15,6 +15,7 @@ actors:
 - Republican Party
 - Robert Rucho
 - David Lewis
+status: confirmed
 sources:
 - url: https://www.npr.org/2017/08/30/547065920/under-pressure-north-carolina-draws-new-voting-maps
   title: Accused Of Racial Gerrymandering, North Carolina's New Maps Also Under Scrutiny

@@ -3,6 +3,7 @@ id: 2009-05-20--newburgh-four-fbi-entrapment
 date: 2009-05-20
 title: Newburgh Four Arrested in FBI Entrapment Sting - "Buffoonery" Made Into Terrorism
 importance: 8
+status: confirmed
 actors:
 - FBI
 - Shahed Hussain

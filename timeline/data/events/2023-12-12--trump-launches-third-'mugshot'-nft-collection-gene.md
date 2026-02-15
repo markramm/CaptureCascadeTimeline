@@ -2,6 +2,7 @@
 date: '2023-12-12'
 title: Trump Launches Third 'Mugshot' NFT Collection Generating $9.9 Million Revenue
 importance: 7
+status: confirmed
 actors:
 - Donald Trump
 - NFT INT LLC

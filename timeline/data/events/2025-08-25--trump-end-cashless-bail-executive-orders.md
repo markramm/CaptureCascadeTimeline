@@ -3,6 +3,7 @@ id: 2025-08-25--trump-end-cashless-bail-executive-orders
 date: '2025-08-25'
 title: Trump Signs Executive Orders Eliminating Cashless Bail, Threatening Federal Funds
 importance: 7
+status: confirmed
 actors:
 - Donald Trump
 - White House

@@ -3,6 +3,7 @@ id: 2005-11-09--cia-destroyed-torture-interrogation-tapes
 date: '2005-11-09'
 title: CIA Destroys 92 Torture Interrogation Videotapes to Conceal Evidence
 importance: 10
+status: confirmed
 actors:
 - Jose Rodriguez
 - CIA

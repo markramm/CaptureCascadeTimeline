@@ -2,6 +2,7 @@
 id: 2016-08-15--raytheon-paveway-bomb-destroys-msf-hospital-abs-yemen
 date: '2016-08-15'
 title: Raytheon Paveway Bomb Strikes MSF Hospital in Yemen, Killing 11 Including Healthcare Workers
+status: confirmed
 importance: 10
 tags:
 - raytheon

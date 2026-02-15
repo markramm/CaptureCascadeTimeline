@@ -3,6 +3,7 @@ id: 2019-09-06--wilbur-ross-sharpiegate-noaa-scientists
 date: 2019-09-06
 title: Commerce Secretary Ross Threatens to Fire NOAA Scientists Who Contradicted Trump's False Hurricane Claim
 importance: 8
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

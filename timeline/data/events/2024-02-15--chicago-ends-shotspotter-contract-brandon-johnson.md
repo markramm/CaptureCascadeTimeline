@@ -3,6 +3,7 @@ id: 2024-02-15--chicago-ends-shotspotter-contract-brandon-johnson
 date: 2024-02-15
 title: Chicago Terminates ShotSpotter Contract After Years of Criticism
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - technology

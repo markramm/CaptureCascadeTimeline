@@ -3,6 +3,7 @@ id: 2010-01-27--oracle-completes-sun-microsystems-acquisition-7-4-billion
 date: '2010-01-27'
 title: Oracle Completes Sun Microsystems Acquisition for $7.4 Billion, Gains Java and MySQL
 importance: 8
+status: confirmed
 tags:
 - oracle
 - corporate-consolidation

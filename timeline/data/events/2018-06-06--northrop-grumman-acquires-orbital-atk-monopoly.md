@@ -3,6 +3,7 @@ id: 2018-06-06--northrop-grumman-acquires-orbital-atk-monopoly
 date: '2018-06-06'
 title: Northrop Grumman Acquires Orbital ATK for $9.2 Billion, Creating Solid Rocket Motor Monopoly
 importance: 9
+status: confirmed
 actors:
 - Northrop Grumman
 - Orbital ATK

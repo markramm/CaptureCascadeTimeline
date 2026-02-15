@@ -3,6 +3,7 @@ id: 2014-06-21--trump-central-park-five-still-guilty-despite-exoneration
 date: 2014-06-21
 title: 'Trump: Central Park Five Still Guilty Despite DNA Exoneration'
 importance: 8
+status: confirmed
 tags:
 - racism
 - central park five

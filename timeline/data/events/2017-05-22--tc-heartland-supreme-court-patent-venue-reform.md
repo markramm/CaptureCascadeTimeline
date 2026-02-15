@@ -3,6 +3,7 @@ id: 2017-05-22--tc-heartland-supreme-court-patent-venue-reform
 date: '2017-05-22'
 title: 'TC Heartland v. Kraft: Supreme Court Limits Patent Forum Shopping, Curbing Eastern District of Texas Troll Haven'
 importance: 8
+status: confirmed
 actors:
 - Supreme Court
 - Clarence Thomas

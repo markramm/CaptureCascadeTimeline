@@ -3,6 +3,7 @@ id: 2021-03-18--cellebrite-stops-belarus-russia-sales
 date: '2021-03-18'
 title: Cellebrite Halts Sales to Russia and Belarus After Human Rights Abuse Revelations
 importance: 8
+status: confirmed
 actors:
 - Cellebrite
 - Eitay Mack

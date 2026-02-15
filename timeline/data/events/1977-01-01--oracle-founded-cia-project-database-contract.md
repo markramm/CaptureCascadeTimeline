@@ -1,6 +1,7 @@
 ---
 id: 1977-01-01--oracle-founded-cia-project-database-contract
 date: '1977-01-01'
+status: confirmed
 title: Oracle Corporation Founded to Build CIA Database, Named After CIA Project
 importance: 9
 tags:

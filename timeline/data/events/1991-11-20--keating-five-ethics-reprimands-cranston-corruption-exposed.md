@@ -3,6 +3,7 @@ id: 1991-11-20--keating-five-ethics-reprimands-cranston-corruption-exposed
 date: '1991-11-20'
 title: 'Keating Five Ethics Findings: Cranston Reprimanded, Systemic Corruption Exposed'
 importance: 8
+status: confirmed
 location: Washington, DC
 actors:
 - Alan Cranston

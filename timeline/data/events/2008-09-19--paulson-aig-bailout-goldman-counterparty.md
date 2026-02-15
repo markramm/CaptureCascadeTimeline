@@ -1,4 +1,5 @@
 ---
+status: confirmed
 id: 2008-09-19--paulson-aig-bailout-goldman-counterparty
 date: '2008-09-19'
 title: Paulson Authorizes AIG Bailout Benefiting Goldman Sachs

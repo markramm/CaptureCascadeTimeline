@@ -3,6 +3,7 @@ id: 2004-12-15--billy-tauzin-pharma-revolving-door
 date: '2004-12-15'
 title: Billy Tauzin Joins PhRMA as CEO After Shepherding $200B Medicare Drug Bill
 importance: 9
+status: confirmed
 tags:
 - revolving-door
 - regulatory-capture

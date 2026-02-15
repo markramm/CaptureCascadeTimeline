@@ -3,6 +3,7 @@ id: 2017-08-01--equifax-executives-insider-trading
 date: '2017-08-01'
 title: Equifax Executives Sell $1.8 Million in Stock Days After Discovering Massive Data Breach
 importance: 8
+status: confirmed
 actors:
 - John Gamble
 - Joseph Loughran

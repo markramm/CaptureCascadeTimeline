@@ -2,6 +2,7 @@
 id: 2017-10-05--papadopoulos-guilty-plea
 date: 2017-10-05
 title: George Papadopoulos Becomes First Trump Campaign Official to Plead Guilty in Mueller Probe
+status: confirmed
 importance: 8
 tags:
 - mueller investigation

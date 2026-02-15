@@ -14,6 +14,7 @@ tags:
 - protest-suppression
 - first-amendment
 - political-repression
+status: confirmed
 sources:
 - url: https://theintercept.com/2019/10/22/terrorism-fbi-political-dissent/
   title: The FBI's Long History of Treating Political Dissent as Terrorism

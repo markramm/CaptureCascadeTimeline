@@ -1,6 +1,7 @@
 ---
 id: 1970-09-13--friedman-shareholder-primacy-doctrine
 date: '1970-09-13'
+status: confirmed
 title: Milton Friedman's 'The Social Responsibility of Business Is to Increase Its Profits' Establishes Shareholder Primacy Doctrine
 importance: 9
 actors:

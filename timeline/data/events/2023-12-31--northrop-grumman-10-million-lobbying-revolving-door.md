@@ -3,6 +3,7 @@ id: 2023-12-31--northrop-grumman-10-million-lobbying-revolving-door
 date: '2023-12-31'
 title: Northrop Grumman Spends $10.86 Million on Lobbying with 29 Revolving Door Officials
 importance: 8
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Congress

@@ -3,6 +3,7 @@ id: 2017-06-09--dan-scavino-hatch-act-violation-twitter-amash
 date: 2017-06-09
 title: Office of Special Counsel Finds White House Social Media Director Dan Scavino Violated Hatch Act with Political Tweet Attacking Congressman
 importance: 7
+status: confirmed
 tags:
 - hatch act
 - ethics violations

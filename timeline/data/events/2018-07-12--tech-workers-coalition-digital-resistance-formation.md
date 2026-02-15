@@ -3,6 +3,7 @@ id: 2018-07-12--tech-workers-coalition-digital-resistance-formation
 date: '2018-07-12'
 title: 'Tech Workers Coalition: Establishing Digital Resistance Infrastructure'
 importance: 9
+status: confirmed
 sources:
 - outlet: Institute of Network Cultures
   title: The State of the Tech Workers Global Movement

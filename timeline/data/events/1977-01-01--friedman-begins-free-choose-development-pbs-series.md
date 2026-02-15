@@ -29,6 +29,16 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+- title: Robert Chitester on Milton Friedman and Free to Choose
+  url: https://www.econtalk.org/robert-chitester-on-milton-friedman-and-free-to-choose/
+  outlet: EconTalk
+  date: '2020-10-12'
+  verified: true
+- title: Free To Choose founder moves on after career of promoting 'winning ideas of freedom'
+  url: https://current.org/2017/05/free-to-choose-founder-moves-on-after-career-of-promoting-winning-ideas-of-freedom/
+  outlet: Current
+  date: '2017-05-15'
+  verified: true
 notes: The series was approached by Bob Chitester in 1977, with Milton and Rose Friedman working on it for three years. It aired on PBS in January 1980 as a ten-part series. The companion book became the bestselling nonfiction book of 1980. This brought Chicago School free market ideology to millions of American homes via public television.
 status: confirmed
 ---

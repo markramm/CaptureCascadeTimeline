@@ -3,6 +3,7 @@ id: 2019-06-13--wilbur-ross-commerce-ig-lied-congress
 date: 2019-06-13
 title: Commerce Inspector General Finds Wilbur Ross Lied to Congress About Census Citizenship Question
 importance: 8
+status: confirmed
 tags:
 - cabinet corruption
 - ethics violations

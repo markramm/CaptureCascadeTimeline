@@ -3,6 +3,7 @@ id: 2025-08-01--sean-combs-associates-offer-payments-trump-pardon
 date: '2025-08-01'
 title: Sean Combs Associates Offer Mid-Six-Figure Payments to Trump Officials for Presidential Pardon
 importance: 8
+status: confirmed
 actors:
 - Sean Combs
 - Donald Trump

@@ -3,6 +3,7 @@ id: 2015-10-28--davita-pays-450-million-drug-wastage-fraud-settlement
 date: '2015-10-28'
 title: DaVita Pays $450 Million for Drug Wastage Fraud, Largest Unjoined Whistleblower Settlement in History
 importance: 9
+status: confirmed
 actors:
 - DaVita
 - Kent Thiry

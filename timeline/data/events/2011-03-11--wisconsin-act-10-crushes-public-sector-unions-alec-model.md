@@ -19,6 +19,7 @@ tags:
 - state-capture
 - koch-network
 - public-sector-unions
+status: confirmed
 sources:
 - title: Koch-Funded Mackinac Center Brings Wisconsin Act 10 Provisions to ALEC
   url: https://www.prwatch.org/news/2012/05/11490/koch-funded-mackinac-center-brings-wisconsin-act-10-provisions-alec

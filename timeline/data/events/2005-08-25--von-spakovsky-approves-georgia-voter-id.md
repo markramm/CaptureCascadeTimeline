@@ -45,6 +45,7 @@ summary: 'Hans von Spakovsky, serving as Counsel to the Assistant Attorney Gener
 
   '
 importance: 8
+status: confirmed
 actors:
 - Hans von Spakovsky
 - Department of Justice Civil Rights Division

@@ -3,6 +3,7 @@ id: 2020-01-18--new-york-times-exposes-clearview-ai-3-billion-photo-database
 date: '2020-01-18'
 title: New York Times Exposé Reveals Clearview AI's 3 Billion Photo Surveillance Database
 importance: 9
+status: confirmed
 tags:
 - surveillance-state
 - privacy-violations

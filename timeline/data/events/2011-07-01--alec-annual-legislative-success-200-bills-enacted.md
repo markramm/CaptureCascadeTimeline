@@ -15,6 +15,7 @@ tags:
 - regulatory-capture
 - corporate-corruption
 - lobbying
+status: confirmed
 sources:
 - title: ALEC's Influence over Lawmaking in State Legislatures
   url: https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/

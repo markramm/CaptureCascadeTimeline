@@ -3,6 +3,7 @@ id: 2003-11-25--medicare-part-d-pharma-captures-vote
 date: '2003-11-25'
 title: Medicare Part D Passes After Pharmaceutical Industry Writes Price Negotiation Ban
 importance: 9
+status: confirmed
 tags:
 - regulatory-capture
 - healthcare

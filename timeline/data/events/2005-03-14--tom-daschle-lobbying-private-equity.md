@@ -3,6 +3,7 @@ id: 2005-03-14--tom-daschle-lobbying-private-equity
 date: '2005-03-14'
 title: Tom Daschle Joins Private Equity Firm and Lobbying After Senate Majority Leadership
 importance: 8
+status: confirmed
 tags:
 - revolving-door
 - lobbying

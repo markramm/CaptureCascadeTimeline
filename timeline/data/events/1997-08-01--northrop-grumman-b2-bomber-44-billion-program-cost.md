@@ -3,6 +3,7 @@ id: 1997-08-01--northrop-grumman-b2-bomber-44-billion-program-cost
 date: '1997-08-01'
 title: Northrop Grumman B-2 Bomber Program Reaches $44 Billion Total Cost
 importance: 9
+status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force

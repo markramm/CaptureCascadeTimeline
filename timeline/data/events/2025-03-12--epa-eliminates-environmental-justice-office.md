@@ -40,6 +40,7 @@ sources:
   date: '2025-03-12'
   tier: 1
   outlet: Harvard Law School Environmental & Energy Law Program
+status: confirmed
 actors:
 - Lee Zeldin
 - EPA

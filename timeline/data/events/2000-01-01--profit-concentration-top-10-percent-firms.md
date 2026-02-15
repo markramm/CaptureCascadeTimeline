@@ -3,6 +3,7 @@ id: 2000-01-01--profit-concentration-top-10-percent-firms
 date: '2000-01-01'
 title: Top 10% of Firms Capture 90% of Profit Growth Between 1980-2000, Documenting Monopolization
 importance: 9
+status: confirmed
 actors:
 - Dominant firms
 - Smaller competitors

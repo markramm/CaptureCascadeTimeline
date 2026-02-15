@@ -23,6 +23,18 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 2
+- title: Epic Systems Corp. v. Lewis - Supreme Court Opinion
+  url: https://www.supremecourt.gov/opinions/17pdf/16-285_q8l1.pdf
+  outlet: Supreme Court of the United States
+  date: '2018-05-21'
+  verified: true
+  tier: 1
+- title: Epic Systems Corp. v. Lewis - Case Text
+  url: https://www.law.cornell.edu/supremecourt/text/16-285
+  outlet: Legal Information Institute (Cornell Law School)
+  date: '2018-05-21'
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

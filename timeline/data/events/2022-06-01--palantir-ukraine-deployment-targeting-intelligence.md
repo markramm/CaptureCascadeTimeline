@@ -3,6 +3,7 @@ id: 2022-06-01--palantir-ukraine-deployment-targeting-intelligence
 date: '2022-06-01'
 title: Palantir Deploys AI Targeting and Intelligence Systems in Ukraine
 importance: 9
+status: confirmed
 tags:
 - surveillance-state
 - military-technology

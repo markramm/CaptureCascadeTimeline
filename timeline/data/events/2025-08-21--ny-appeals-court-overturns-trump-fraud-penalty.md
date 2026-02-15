@@ -3,6 +3,7 @@ id: 2025-08-21--ny-appeals-court-overturns-trump-fraud-penalty
 date: '2025-08-21'
 title: NY Appeals Court Throws Out $527 Million Trump Fraud Judgment as "Excessive"
 importance: 8
+status: confirmed
 actors:
 - New York State Appellate Division
 - Donald Trump

@@ -11,6 +11,7 @@ tags:
 actors:
 - George Mohler
 - Jeff Brantingham
+status: confirmed
 sources:
 - url: https://newsroom.ucla.edu/releases/predictive-policing-substantially-reduces-crime-in-los-angeles-during-months-long-test
   title: Predictive policing substantially reduces crime in Los Angeles during months-long test

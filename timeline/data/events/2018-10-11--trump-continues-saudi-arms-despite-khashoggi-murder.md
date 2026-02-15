@@ -3,6 +3,7 @@ id: 2018-10-11--trump-continues-saudi-arms-despite-khashoggi-murder
 date: '2018-10-11'
 title: Trump Vows to Continue Raytheon, Lockheed Arms Sales Despite Khashoggi Murder and Yemen Atrocities
 importance: 9
+status: confirmed
 tags:
 - raytheon
 - lockheed-martin

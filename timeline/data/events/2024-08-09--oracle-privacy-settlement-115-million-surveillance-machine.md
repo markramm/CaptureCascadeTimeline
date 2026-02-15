@@ -3,6 +3,7 @@ id: 2024-08-09--oracle-privacy-settlement-115-million-surveillance-machine
 date: '2024-08-09'
 title: Oracle Agrees to $115 Million Settlement Over Mass Surveillance Data Brokerage
 importance: 8
+status: confirmed
 tags:
 - surveillance
 - privacy

@@ -39,6 +39,7 @@ summary: 'Edwin J. Feulner Jr. retired as president of the Heritage Foundation o
 
   '
 importance: 9
+status: confirmed
 actors:
 - Edwin Feulner
 - Heritage Foundation
