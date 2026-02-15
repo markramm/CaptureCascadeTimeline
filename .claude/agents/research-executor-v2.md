@@ -79,7 +79,7 @@ tags:
 sources:
 - url: https://...
   title: Article Title
-  publisher: Publisher
+  outlet: Publisher Name
   date: YYYY-MM-DD
   tier: 1
 ---
