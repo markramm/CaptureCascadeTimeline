@@ -1,5 +1,5 @@
 ---
-id: federal-workers-collective-bargaining-2025
+id: 2025-12-15--federal-workers-collective-bargaining-discharge-petition-passes
 date: '2025-12-15'
 title: Federal Workers Collective Bargaining Bill Passes via Discharge Petition 231-195
 importance: 8

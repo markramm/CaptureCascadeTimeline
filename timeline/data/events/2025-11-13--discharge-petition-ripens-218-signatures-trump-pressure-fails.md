@@ -21,27 +21,27 @@ actors:
 sources:
 - url: https://www.washingtonpost.com/politics/2025/11/12/epstein-discharge-petition-house-massie-khanna-grijalva/
   title: 'Epstein files vote can advance, with House discharge petition success'
-  publisher: Washington Post
+  outlet: Washington Post
   date: '2025-11-13'
   tier: 1
 - url: https://www.cnn.com/2025/11/12/politics/trump-administration-meeting-house-effort-epstein-document-release
   title: 'Trump administration holds Situation Room meeting over House effort to force release of Epstein files'
-  publisher: CNN
+  outlet: CNN
   date: '2025-11-13'
   tier: 1
 - url: https://www.nbcnews.com/politics/congress/bipartisan-duo-expects-signatures-wednesday-force-vote-release-epstein-rcna231405
   title: Bipartisan duo secures signatures to force a House vote to release Epstein files
-  publisher: NBC News
+  outlet: NBC News
   date: '2025-11-13'
   tier: 1
 - url: https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/
   title: Epstein discharge petition secures final signature needed to force House vote
-  publisher: CBS News
+  outlet: CBS News
   date: '2025-11-13'
   tier: 1
 - url: https://thehill.com/homenews/house/5603299-house-votes-epstein-files-mike-johnson/
   title: Mike Johnson speeds up vote on Epstein files to next week
-  publisher: The Hill
+  outlet: The Hill
   date: '2025-11-13'
   tier: 1
 status: confirmed

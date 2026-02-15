@@ -1,5 +1,5 @@
 ---
-id: aca-subsidy-discharge-petition-2026
+id: 2026-01-10--aca-subsidy-extension-discharge-petition-passes
 date: '2026-01-10'
 title: ACA Subsidy Extension Passes House via Discharge Petition 230-196
 importance: 8

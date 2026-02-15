@@ -18,7 +18,7 @@ sources:
 - title: 'Finance & Development: The Asian Crisis: Causes and Cures'
   url: https://www.imf.org/external/pubs/ft/fandd/1998/06/imfstaff.htm
   outlet: IMF Publications
-  date: June 1998
+  date: '1998-06-01'
   type: Official Report
 - title: 'Contesting Reform: Indonesia''s New Order and the IMF'
   url: https://www.sciencedirect.com/science/article/abs/pii/S0305750X98000564

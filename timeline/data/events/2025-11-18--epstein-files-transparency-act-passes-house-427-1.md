@@ -1,5 +1,5 @@
 ---
-id: epstein-files-discharge-petition-2025
+id: 2025-11-18--epstein-files-transparency-act-passes-house-427-1
 date: '2025-11-18'
 title: Epstein Files Transparency Act Passes House 427-1 After Discharge Petition
 importance: 9

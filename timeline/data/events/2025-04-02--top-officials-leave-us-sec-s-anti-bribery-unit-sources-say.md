@@ -10,7 +10,7 @@ capture_lanes:
 - Anti-Corruption Enforcement Suppression
 capture_type: regulatory_capture
 connections:
-- 2025-02-xx--trump-pauses-fcpa-enforcement
+- 2025-02-10--trump-pauses-fcpa-enforcement
 date: '2025-04-02'
 description: Charles Cain and Tracy Price, the longtime heads of the SEC's Foreign
   Corrupt Practices Act unit, are departing amid a broader exodus of officials following
@@ -31,7 +31,7 @@ sources:
   outlet: US News
   title: Top Officials to Leave US SEC's Anti-Bribery Unit, Sources Say
   url: https://www.usnews.com/news/politics/articles/2025-04-02/top-officials-to-leave-us-secs-anti-bribery-unit-sources-say
-- date: 2025-02-xx
+- date: '2025-02-10'
   outlet: The White House
   title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic
     and National Security

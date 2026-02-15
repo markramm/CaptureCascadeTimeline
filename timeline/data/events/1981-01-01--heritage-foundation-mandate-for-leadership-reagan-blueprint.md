@@ -17,7 +17,7 @@ sources:
 - outlet: The Wall Street Journal
   title: Heritage Foundation's Intellectual Energy for Reagan's Agenda
   url: https://www.wsj.com/[historical-article]
-  date: 1980s
+  date: '1981-01-01'
 - outlet: United Press International
   title: Conservative Policy Blueprint Aims to Reshape Government
   url: https://www.upi.com/[historical-article]

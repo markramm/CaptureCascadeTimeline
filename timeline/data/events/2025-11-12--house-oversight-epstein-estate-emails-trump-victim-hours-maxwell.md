@@ -20,27 +20,27 @@ actors:
 sources:
 - url: https://oversightdemocrats.house.gov/news/press-releases/house-oversight-committee-releases-jeffrey-epstein-email-correspondence-raising
   title: House Oversight Committee Releases Jeffrey Epstein Email Correspondence
-  publisher: House Committee on Oversight and Accountability Democrats
+  outlet: House Committee on Oversight and Accountability Democrats
   date: '2025-11-12'
   tier: 1
 - url: https://www.cnn.com/2025/11/12/politics/epstein-trump-emails-oversight-committee
   title: Epstein mentioned Trump multiple times in private emails, new release shows
-  publisher: CNN
+  outlet: CNN
   date: '2025-11-12'
   tier: 1
 - url: https://www.washingtonpost.com/politics/2025/11/12/house-democrats-release-epstein-email-that-claimed-trump-spent-hours-with-victim/
   title: House Democrats release Epstein email that mentions Trump
-  publisher: Washington Post
+  outlet: Washington Post
   date: '2025-11-12'
   tier: 1
 - url: https://abcnews.go.com/Politics/house-democrats-release-new-epstein-emails-referencing-trump/story?id=127435983
   title: House Democrats release new Epstein emails referencing Trump
-  publisher: ABC News
+  outlet: ABC News
   date: '2025-11-12'
   tier: 1
 - url: https://www.npr.org/2025/11/12/nx-s1-5605582/epstein-files-release-trump-email-grijalva-massie
   title: New Epstein emails appear to reveal more Trump ties
-  publisher: NPR
+  outlet: NPR
   date: '2025-11-12'
   tier: 1
 status: confirmed

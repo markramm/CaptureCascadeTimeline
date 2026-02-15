@@ -1,5 +1,5 @@
 ---
-id: doj-civil-rights-resignations-2026
+id: 2026-01-13--doj-civil-rights-division-mass-resignations-renee-good
 date: '2026-01-13'
 title: DOJ Civil Rights Division Leaders Mass Resign Over Refusal to Investigate Renee Good Killing
 importance: 9
