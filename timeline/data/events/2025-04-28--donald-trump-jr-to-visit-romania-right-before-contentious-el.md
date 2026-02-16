@@ -14,7 +14,7 @@ connections:
 - Counter-China Strategy
 date: '2025-04-28'
 description: Donald Trump Jr. visited Romania as part of the 'Trump Business Vision 2025' tour, arriving just before the country's rescheduled presidential election. The visit was strategically timed to counter Chinese influence in Eastern Europe and promote US business interests.
-id: 2025-04-08--donald-trump-jr-to-visit-romania-right-before-contentious-el
+id: 2025-04-28--donald-trump-jr-to-visit-romania-right-before-contentious-el
 importance: 8
 location:
 - Romania

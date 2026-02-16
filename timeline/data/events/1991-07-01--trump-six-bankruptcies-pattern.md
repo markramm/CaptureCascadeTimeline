@@ -1,5 +1,5 @@
 ---
-id: 1991-01-01--trump-six-bankruptcies-pattern
+id: 1991-07-01--trump-six-bankruptcies-pattern
 date: 1991-07-01
 title: 'Trump''s Six Bankruptcies: Pattern of Borrowing Heavily and Walking Away'
 importance: 7

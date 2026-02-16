@@ -1,5 +1,5 @@
 ---
-id: 2018-11-07--trump-foundation-admits-misuse-agrees-to-dissolve
+id: 2018-12-18--trump-foundation-admits-misuse-agrees-to-dissolve
 date: 2018-12-18
 title: Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
 importance: 9

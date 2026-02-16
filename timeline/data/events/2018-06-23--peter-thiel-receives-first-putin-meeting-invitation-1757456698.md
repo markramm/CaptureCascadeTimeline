@@ -1,5 +1,5 @@
 ---
-id: 2018-01-01--peter-thiel-receives-first-putin-meeting-invitation-1757456698
+id: 2018-06-23--peter-thiel-receives-first-putin-meeting-invitation-1757456698
 date: '2018-06-23'
 title: Peter Thiel Receives First Putin Meeting Invitation Through Russian Diplomat
 importance: 9

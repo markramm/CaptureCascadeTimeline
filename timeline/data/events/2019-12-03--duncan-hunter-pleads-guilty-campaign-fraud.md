@@ -1,5 +1,5 @@
 ---
-id: 2019-12-02--duncan-hunter-pleads-guilty-campaign-fraud
+id: 2019-12-03--duncan-hunter-pleads-guilty-campaign-fraud
 date: 2019-12-03
 title: Rep. Duncan Hunter Pleads Guilty to Stealing Campaign Funds After Blaming Wife
 summary: 'U.S. Representative Duncan D. Hunter pleaded guilty in federal court in San Diego to one count of conspiracy to misuse campaign funds, admitting that he and his wife knowingly and willfully stole hundreds of thousands of dollars in campaign contributions to maintain their lifestyle. The guilty plea came after Hunter had spent over a year denying wrongdoing, claiming the prosecution was a political "witch hunt," and publicly attempting to shift blame onto his wife Margaret, who had already pleaded guilty in June 2019.

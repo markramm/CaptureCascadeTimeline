@@ -1,5 +1,5 @@
 ---
-id: 1982-01-01--reagan-marcos-kleptocracy-support
+id: 1982-09-16--reagan-marcos-kleptocracy-support
 date: 1982-09-16
 status: confirmed
 title: Reagan Supports Philippine Dictator Marcos Despite Massive Kleptocracy

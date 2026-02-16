@@ -18,7 +18,7 @@ date: '2025-03-15'
 description: The U.S. State Department, under the Trump administration, conducted
   a systematic 'maximum pressure' campaign to help Starlink secure a business license
   in Gambia, subtly suggesting potential aid cuts if the company was not approved.
-id: 2025-05-15--the-trump-administration-leaned-on-african-countries-the-goa
+id: 2025-03-15--the-trump-administration-leaned-on-african-countries-the-goa
 importance: 7
 location:
 - Washington, D.C.

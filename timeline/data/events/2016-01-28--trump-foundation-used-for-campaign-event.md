@@ -1,5 +1,5 @@
 ---
-id: 2016-09-01--trump-foundation-used-for-campaign-event
+id: 2016-01-28--trump-foundation-used-for-campaign-event
 date: 2016-01-28
 title: Trump Uses Charity Foundation for Iowa Campaign Event, Violating Tax Law
 importance: 8

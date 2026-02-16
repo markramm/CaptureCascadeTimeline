@@ -1,5 +1,5 @@
 ---
-id: 2004-01-01--apprentice-conflicts-of-interest-trump-properties
+id: 2004-06-01--apprentice-conflicts-of-interest-trump-properties
 date: 2004-06-01
 title: The Apprentice Serves as 14-Season Promotional Vehicle for Trump Properties and Brand
 importance: 6

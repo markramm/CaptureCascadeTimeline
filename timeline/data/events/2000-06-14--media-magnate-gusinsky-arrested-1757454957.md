@@ -1,5 +1,5 @@
 ---
-id: 2000-07-28--media-magnate-gusinsky-arrested-1757454957
+id: 2000-06-14--media-magnate-gusinsky-arrested-1757454957
 date: '2000-06-14'
 title: Media Magnate Gusinsky Arrested, Marking Putin's Media Crackdown
 importance: 9

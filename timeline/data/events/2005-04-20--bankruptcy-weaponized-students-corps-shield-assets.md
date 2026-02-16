@@ -1,5 +1,5 @@
 ---
-id: 2005-01-01--bankruptcy-weaponized-students-corps-shield-assets
+id: 2005-04-20--bankruptcy-weaponized-students-corps-shield-assets
 date: 2005-04-20
 title: 'Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)'
 importance: 9

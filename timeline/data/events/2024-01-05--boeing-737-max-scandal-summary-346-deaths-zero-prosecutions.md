@@ -1,5 +1,5 @@
 ---
-id: 2011-01-01--boeing-737-max-scandal-summary-346-deaths-zero-prosecutions
+id: 2024-01-05--boeing-737-max-scandal-summary-346-deaths-zero-prosecutions
 date: '2024-01-05'
 title: Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
 actors:
