@@ -8,7 +8,7 @@ actors:
 - Harry Truman
 - National Association of Manufacturers
 - U.S. Chamber of Commerce
-- Congress
+- U.S. Congress
 - Chester Bowles
 tags:
 - deregulation

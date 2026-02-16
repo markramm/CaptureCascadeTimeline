@@ -12,7 +12,7 @@ tags:
 actors:
 - Department of Justice
 - Trump
-- Military
+- U.S. Military
 sources:
 - url: https://www.nytimes.com/2025/08/29/us/politics/military-lawyers-immigration-judges-trump.html
   title: DOJ Loosens Requirements Allowing Military Lawyers to Serve as Immigration Judges

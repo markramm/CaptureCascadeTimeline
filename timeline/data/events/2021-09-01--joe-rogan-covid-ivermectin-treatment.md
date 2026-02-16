@@ -1,14 +1,13 @@
 ---
 id: 2021-09-01--joe-rogan-covid-ivermectin-treatment
-title: Joe Rogan Announces He Treated COVID with Unproven Ivermectin, Sparking Medical
-  Misinformation Controversy
+title: Joe Rogan Announces He Treated COVID with Unproven Ivermectin, Sparking Medical Misinformation Controversy
 date: '2021-09-01'
 importance: 8
 actors:
 - Joe Rogan
 - Spotify
 - The Joe Rogan Experience
-- FDA
+- Food and Drug Administration
 - Dr. Anthony Fauci
 - Neil Young
 - Joni Mitchell
@@ -45,10 +44,7 @@ sources:
   url: https://www.newsweek.com/joe-rogan-ivermectin-what-hes-said-1693591
   date: '2021-09-01'
   context_source: true
-notes: Event highlights the dangerous intersection of celebrity influence and medical
-  misinformation during the COVID-19 pandemic. Over 270 medical professionals signed
-  an open letter to Spotify criticizing Rogan's platform for spreading unverified
-  medical claims.
+notes: Event highlights the dangerous intersection of celebrity influence and medical misinformation during the COVID-19 pandemic. Over 270 medical professionals signed an open letter to Spotify criticizing Rogan's platform for spreading unverified medical claims.
 status: confirmed
 ---
 

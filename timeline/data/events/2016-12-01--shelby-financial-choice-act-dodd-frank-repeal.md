@@ -28,7 +28,7 @@ sources:
   outlet: Roll Call
 actors:
 - Richard Shelby
-- Senate Banking Committee
+- U.S. Senate Banking Committee
 - Wall Street
 - Dodd-Frank Act
 ---

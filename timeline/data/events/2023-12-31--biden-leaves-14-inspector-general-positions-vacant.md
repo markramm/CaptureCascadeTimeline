@@ -6,7 +6,7 @@ title: Biden Leaves 14 Inspector General Positions Vacant, Some for Over 2,000 D
 actors:
 - Joe Biden
 - Joseph Cuffari
-- Project On Government Oversight
+- Project on Government Oversight
 - Inspectors General
 tags:
 - oversight

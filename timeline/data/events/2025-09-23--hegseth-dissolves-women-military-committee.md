@@ -12,7 +12,7 @@ tags:
 actors:
 - Pete Hegseth
 - DACOWITS
-- Department of Defense
+- U.S. Department of Defense
 sources:
 - title: Hegseth terminates women's advisory group, slams 'divisive agenda'
   url: https://www.militarytimes.com/news/pentagon-congress/2025/09/23/hegseth-terminates-womens-advisory-group-slams-divisive-agenda/

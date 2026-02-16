@@ -13,7 +13,7 @@ tags:
 actors:
 - Robinhood Financial
 - DTCC
-- Dan Gallagher (Robinhood Chief Legal Officer)
+- Dan Gallagher
 - U.S. House Committee on Financial Services
 sources:
 - url: https://qz.com/2184431/robinhood-nearly-defaulted-during-the-gamestop-short-squeeze

@@ -6,9 +6,9 @@ importance: 9
 actors:
 - Kristi Noem
 - Todd Lyons
-- DHS
-- ICE
-- CBP
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 tags:
 - operation-metro-surge
 - ice-raids

@@ -10,7 +10,7 @@ tags:
 - authoritarianism
 - retaliation
 actors:
-- HHS
+- U.S. Department of Health and Human Services
 - Harvard University
 - Donald Trump
 - Allison D. Burroughs

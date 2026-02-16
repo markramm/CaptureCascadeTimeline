@@ -12,7 +12,7 @@ actors:
 - Rahmanullah Lakanwal
 - Afghan interpreters and allies
 - Taliban
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - asylum
 - afghan-allies

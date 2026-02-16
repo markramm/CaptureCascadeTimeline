@@ -2,14 +2,13 @@
 id: 2025-03-09--madison-sheahan-illegal-appointment
 date: '2025-03-09'
 importance: 9
-title: 28-year-old political operative appointed ICE Deputy Director despite lacking
-  required experience
+title: 28-year-old political operative appointed ICE Deputy Director despite lacking required experience
 location: Washington, D.C.
 actors:
 - Madison Sheahan
 - Kristi Noem
-- ICE
-- Department of Homeland Security
+- Immigration and Customs Enforcement (ICE)
+- U.S. Department of Homeland Security
 tags:
 - illegal-appointments
 - qualifications-violation
@@ -31,10 +30,7 @@ sources:
   url: https://www.wafb.com/2025/03/09/ldwf-secretary-madison-sheahan-take-new-role-ice/
   outlet: WAFB
   date: '2025-03-09'
-notes: Sheahan served as Political Director for Noem in South Dakota from 2021-2024
-  and Executive Director of the South Dakota Republican Party from 2023-2024. She
-  was sworn in March 26, 2025. Advocates expressed concern about her promotion given
-  her role in homeless sweeps.
+notes: Sheahan served as Political Director for Noem in South Dakota from 2021-2024 and Executive Director of the South Dakota Republican Party from 2023-2024. She was sworn in March 26, 2025. Advocates expressed concern about her promotion given her role in homeless sweeps.
 status: confirmed
 ---
 

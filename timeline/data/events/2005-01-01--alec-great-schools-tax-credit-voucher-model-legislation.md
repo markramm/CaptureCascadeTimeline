@@ -5,7 +5,7 @@ title: ALEC Approves 'Great Schools Tax Credit' Model - Launches Systematic Educ
 importance: 8
 status: confirmed
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - ALEC Education Task Force
 - K12 Inc.
 - Koch Industries

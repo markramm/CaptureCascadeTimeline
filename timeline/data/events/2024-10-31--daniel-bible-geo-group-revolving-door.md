@@ -7,7 +7,7 @@ location: United States
 actors:
 - Daniel Bible
 - GEO Group
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Trump PACs
 tags:
 - revolving-door
@@ -23,8 +23,7 @@ sources:
   url: https://www.pogo.org/investigations/private-prison-giant-hired-ice-detention-chief
   outlet: Project on Government Oversight
   date: '2024-11-15'
-- title: Revolving door between ICE and private prison companies is boosting Trump
-    deportation plans
+- title: Revolving door between ICE and private prison companies is boosting Trump deportation plans
   url: https://www.yahoo.com/news/articles/revolving-door-between-ice-private-232739971.html
   outlet: Yahoo News
   date: '2024-11-20'
@@ -36,9 +35,7 @@ sources:
   url: https://www.ice.gov/doclib/leadership/bio/danielBible.pdf
   outlet: ICE Leadership Biographies
   date: '2024-10-17'
-notes: As of 2023, funding from ICE makes up nearly half of GEO Group's total revenue.
-  The revolving door pattern includes 2017 Deputy Director Daniel Ragsdale and 2022
-  hire Matthew Albence, who led ICE during Trump's first term.
+notes: As of 2023, funding from ICE makes up nearly half of GEO Group's total revenue. The revolving door pattern includes 2017 Deputy Director Daniel Ragsdale and 2022 hire Matthew Albence, who led ICE during Trump's first term.
 status: confirmed
 ---
 

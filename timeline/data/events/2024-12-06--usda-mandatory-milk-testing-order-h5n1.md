@@ -12,8 +12,8 @@ tags:
 actors:
 - USDA
 - APHIS
-- FDA
-- CDC
+- Food and Drug Administration
+- Centers for Disease Control and Prevention
 sources:
 - title: USDA Announces New Federal Order, Begins National Milk Testing Strategy to Address H5N1 in Dairy Herds
   url: https://www.usda.gov/about-usda/news/press-releases/2024/12/06/usda-announces-new-federal-order-begins-national-milk-testing-strategy-address-h5n1-dairy-herds

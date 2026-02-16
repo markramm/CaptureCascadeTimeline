@@ -4,7 +4,7 @@ title: Treasury Reveals $1.1 Billion in Epstein Wire Transfers to Russian Banks
 actors:
 - Jeffrey Epstein
 - Ron Wyden
-- Treasury Department
+- U.S. Treasury Department
 - Russian banks
 importance: 10
 sources:

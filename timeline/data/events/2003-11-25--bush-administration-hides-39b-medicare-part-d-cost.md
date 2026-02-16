@@ -8,7 +8,7 @@ actors:
 - Richard Foster
 - George W. Bush
 - Charles Rangel
-- Congress
+- U.S. Congress
 tags:
 - medicare-part-d
 - cost-deception

@@ -59,7 +59,7 @@ actors:
 - Hans von Spakovsky
 - Brian Kemp
 - Kim Reynolds
-- Republican State Legislators
+- Republican state legislators
 - Documented
 - Mother Jones
 tags:

@@ -15,8 +15,8 @@ actors:
 - J.D. Vance
 - Peter Thiel
 - narya-capital
-- marc-andreessen
-- eric-schmidt
+- Marc Andreessen
+- Eric Schmidt
 capture_lane: economic
 status: confirmed
 sources:
@@ -44,12 +44,7 @@ patterns:
 - oligarch-networks
 - political-finance
 - elite-patronage
-notes: 'Narya Capital, named after Tolkien mythology like many Thiel ventures, serves
-  dual purpose: enriching Vance through management fees and carried interest while
-  building political brand as champion of "forgotten" Midwest. Other investors include
-  Marc Andreessen and Eric Schmidt, showing how tech elite coordinate political investments.
-  Fund''s Midwest focus provides populist cover for elite financial operation preparing
-  Vance''s political launch.'
+notes: 'Narya Capital, named after Tolkien mythology like many Thiel ventures, serves dual purpose: enriching Vance through management fees and carried interest while building political brand as champion of "forgotten" Midwest. Other investors include Marc Andreessen and Eric Schmidt, showing how tech elite coordinate political investments. Fund''s Midwest focus provides populist cover for elite financial operation preparing Vance''s political launch.'
 capture_lanes:
 - Systematic Corruption
 ---

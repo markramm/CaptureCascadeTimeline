@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Jeffrey Bryan
 - Garrison Gibson
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Tricia McLaughlin
 tags:
 - fourth-amendment

@@ -14,7 +14,7 @@ actors:
 - Donald Trump
 - Javier Milei
 - Rob Citrone
-- Treasury Department
+- U.S. Treasury Department
 sources:
 - title: The Argentina bailout is all about propping up a Trump ally
   url: https://www.cnn.com/2025/09/25/business/argentina-bailout-trump-milei

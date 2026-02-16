@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Trump Administration
 - Federal Courts
-- Supreme Court
+- U.S. Supreme Court
 sources:
 - outlet: NPR
   title: Federal judge temporarily halts Trump's sweeping government overhaul
@@ -17,8 +17,7 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/what-courts-can-do-if-trump-administration-defies-court-orders
   accessed_date: '2025-10-14'
 - outlet: CNN Politics
-  title: '''The courts are helpless'': Inside the Trump administration''s steady erosion
-    of judicial power'
+  title: '''The courts are helpless'': Inside the Trump administration''s steady erosion of judicial power'
   url: https://www.cnn.com/2025/08/10/politics/trump-administration-judicial-power
   accessed_date: '2025-10-14'
 tags:

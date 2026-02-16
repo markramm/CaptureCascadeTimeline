@@ -1,12 +1,12 @@
 ---
 id: 2010-12-31--donors-trust-climate-denial-dark-money-peak
 date: '2010-12-31'
-title: 'Donors Trust Becomes Primary Climate Denial Dark Money Conduit'
+title: Donors Trust Becomes Primary Climate Denial Dark Money Conduit
 importance: 8
 actors:
 - Donors Trust
 - Donors Capital Fund
-- Koch Brothers
+- Koch brothers
 - Knowledge and Progress Fund
 - Americans for Prosperity
 - Heartland Institute

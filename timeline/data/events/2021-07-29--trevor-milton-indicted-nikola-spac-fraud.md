@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Trevor Milton
 - Nikola Corporation
-- SEC
+- Securities and Exchange Commission
 - DOJ
 - Hindenburg Research
 - VectoIQ

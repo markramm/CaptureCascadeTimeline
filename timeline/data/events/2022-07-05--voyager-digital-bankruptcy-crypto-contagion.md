@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Voyager Digital
 - Three Arrows Capital
-- SEC
+- Securities and Exchange Commission
 - BlockFi
 - Celsius Network
 - FTX

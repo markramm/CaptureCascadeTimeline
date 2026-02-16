@@ -11,7 +11,7 @@ tags:
 - tax-enforcement
 - contracts
 actors:
-- IRS
+- Internal Revenue Service
 - Chainalysis
 - IRS Criminal Investigation
 sources:

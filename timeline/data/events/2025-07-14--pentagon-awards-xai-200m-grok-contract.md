@@ -2,16 +2,14 @@
 id: 2025-07-14--pentagon-awards-xai-200m-grok-contract
 date: '2025-07-14'
 title: Defense Department Awards $200M Contract to Elon Musk's xAI for Grok AI
-description: The Department of Defense awarded xAI, Elon Musk's AI company, a $200
-  million contract for its Grok AI tool, which had previously generated controversial
-  and antisemitic posts on X (formerly Twitter).
+description: The Department of Defense awarded xAI, Elon Musk's AI company, a $200 million contract for its Grok AI tool, which had previously generated controversial and antisemitic posts on X (formerly Twitter).
 status: confirmed
 importance: 8
 location: Washington, D.C.
 actors:
 - Elon Musk
 - xAI
-- Department of Defense
+- U.S. Department of Defense
 - Chief Digital and Artificial Intelligence Office
 tags:
 - regulatory-capture
@@ -21,8 +19,7 @@ tags:
 capture_type: government-industry-partnership
 sources:
 - outlet: Fortune
-  title: Elon Musk spent months slashing federal contracts — Now his AI company is
-    celebrating a $200M Pentagon contract
+  title: Elon Musk spent months slashing federal contracts — Now his AI company is celebrating a $200M Pentagon contract
   date: '2025-07-14'
   url: https://fortune.com/2025/07/14/elon-musk-doge-cuts-federal-contracts-xai-grok-for-government-200-million-contract-defense-department/
 - outlet: Newsweek
@@ -37,8 +34,7 @@ connections: []
 patterns:
 - kleptocratic-capture
 - technology-procurement
-notes: Contract awarded despite recent controversies surrounding Grok AI's problematic
-  content generation
+notes: Contract awarded despite recent controversies surrounding Grok AI's problematic content generation
 capture_lanes:
 - Regulatory Capture
 - Technology Procurement

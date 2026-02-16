@@ -1,20 +1,15 @@
 ---
 id: 2025-01-20--susie-wiles-42-corporate-clients-chief-of-staff
 date: '2025-01-20'
-title: Chief of Staff Susie Wiles Brings 42 Corporate Lobbying Clients into White
-  House
-description: Trump Chief of Staff Susie Wiles previously lobbied for 42 controversial
-  clients including Republic Services (fighting radioactive waste removal), Swisher
-  International (blocking youth tobacco restrictions), and Northern Dynasty Minerals
-  (seeking Bristol Bay mine permits). Her lobbying clients spanned waste management,
-  tobacco, mining, and international media companies.
+title: Chief of Staff Susie Wiles Brings 42 Corporate Lobbying Clients into White House
+description: Trump Chief of Staff Susie Wiles previously lobbied for 42 controversial clients including Republic Services (fighting radioactive waste removal), Swisher International (blocking youth tobacco restrictions), and Northern Dynasty Minerals (seeking Bristol Bay mine permits). Her lobbying clients spanned waste management, tobacco, mining, and international media companies.
 importance: 9
 actors:
-- susie-wiles
+- Susie Wiles
 - republic-services
 - swisher-international
 - northern-dynasty-minerals
-- mercury-public-affairs
+- Mercury Public Affairs
 - Trump Administration
 sources:
 - date: '2025-01-20'
@@ -52,10 +47,7 @@ connections:
 - 2025-01-20--trump-schedule-f-revival
 - 2025-01-20--rfk-jr-hhs-confirmation
 - 2025-01-20--project-2025-implementation
-notes: Comprehensive documentation of Susie Wiles' lobbying history shows extensive
-  corporate entanglements that directly contradict administration's stated priorities.
-  Her representation of companies fighting environmental regulations, public health
-  measures, and waste management cleanup raises significant conflict of interest concerns.
+notes: Comprehensive documentation of Susie Wiles' lobbying history shows extensive corporate entanglements that directly contradict administration's stated priorities. Her representation of companies fighting environmental regulations, public health measures, and waste management cleanup raises significant conflict of interest concerns.
 ---
 
 Trump Chief of Staff Susie Wiles brings unprecedented corporate lobbying influence into the White House, with a documented history of representing 42 controversial clients across tobacco, mining, waste management, and media industries. Her appointment represents a direct conflict of interest between stated administration priorities and her previous corporate lobbying activities.

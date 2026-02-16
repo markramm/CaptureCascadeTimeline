@@ -4,8 +4,8 @@ date: '1970-07-10'
 title: IRS Adopts Non-Discrimination Policy for Private Schools After Court Order Targeting Segregation Academies
 importance: 8
 actors:
-- Internal Revenue Service (IRS)
-- Federal courts
+- Internal Revenue Service
+- Federal Courts
 - Civil rights organizations
 - Bob Jones University
 tags:

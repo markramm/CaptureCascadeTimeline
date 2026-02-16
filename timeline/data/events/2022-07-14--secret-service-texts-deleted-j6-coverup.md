@@ -2,15 +2,14 @@
 id: 2022-07-14--secret-service-texts-deleted-j6-coverup
 date: '2022-07-14'
 importance: 5
-title: DHS Inspector General Reveals Secret Service Deleted January 6th Texts After
-  Oversight Request
+title: DHS Inspector General Reveals Secret Service Deleted January 6th Texts After Oversight Request
 location: Washington DC
 actors:
 - U.S. Secret Service
-- Joseph Cuffari (DHS Inspector General)
+- Joseph Cuffari
 - James Murray (Secret Service Director)
-- Bennie Thompson (J6 Committee Chair)
-- Liz Cheney (J6 Committee Vice Chair)
+- Bennie Thompson
+- Liz Cheney
 tags:
 - obstruction-of-justice
 - federal-records-act
@@ -25,8 +24,7 @@ sources:
   url: https://www.washingtonpost.com/nation/2022/07/14/secret-service-texts/
   outlet: The Washington Post
   date: '2022-07-14'
-- title: Secret Service deleted texts from around January 6, DHS inspector general
-    says
+- title: Secret Service deleted texts from around January 6, DHS inspector general says
   url: https://www.cnn.com/2022/07/14/politics/secret-service-text-messages-january-6/index.html
   outlet: CNN
   date: '2022-07-14'
@@ -34,9 +32,7 @@ sources:
   url: https://www.nbcnews.com/politics/congress/secret-service-deleted-texts-jan-6-attack-dhs-watchdog-says-rcna38431
   outlet: NBC News
   date: '2022-07-14'
-notes: Secret Service claimed messages were lost during pre-planned phone migration,
-  but timing after oversight request raised serious concerns about evidence destruction
-  and obstruction of congressional investigation.
+notes: Secret Service claimed messages were lost during pre-planned phone migration, but timing after oversight request raised serious concerns about evidence destruction and obstruction of congressional investigation.
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

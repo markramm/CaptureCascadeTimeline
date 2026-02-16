@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Donald Trump
 - Eric Hargan
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - opioid-crisis
 - hollow-gestures

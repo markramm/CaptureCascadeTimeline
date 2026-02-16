@@ -8,7 +8,7 @@ location: Washington, DC
 actors:
 - C. Everett Koop
 - Ronald Reagan
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - aids
 - c-everett-koop
@@ -16,12 +16,12 @@ tags:
 - surgeon-general
 - sex-education
 sources:
-- title: 'C. Everett Koop and First Surgeon General Report on AIDS'
+- title: C. Everett Koop and First Surgeon General Report on AIDS
   url: https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/
   outlet: UNT Libraries
   date: '2022-12-01'
   verified: true
-- title: 'AIDS, the Surgeon General, and Politics of Public Health'
+- title: AIDS, the Surgeon General, and Politics of Public Health
   url: https://profiles.nlm.nih.gov/spotlight/qq/feature/aids
   outlet: National Library of Medicine
   date: '2024-01-01'

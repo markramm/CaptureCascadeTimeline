@@ -2,13 +2,12 @@
 id: 2025-07-04--npr-pbs-defunding
 date: '2025-07-04'
 importance: 6
-title: Congress Eliminates $1.1 Billion in NPR and PBS Funding to "Silence Accurate
-  Reporting"
+title: Congress Eliminates $1.1 Billion in NPR and PBS Funding to "Silence Accurate Reporting"
 location: Washington DC
 actors:
 - Republican Congress
 - Donald Trump
-- Anna Gomez (FCC Commissioner)
+- Anna Gomez
 - NPR
 - PBS
 tags:
@@ -34,9 +33,7 @@ sources:
   url: https://www.nytimes.com/2025/07/04/business/media/npr-pbs-funding-eliminated.html
   outlet: The New York Times
   date: '2025-07-04'
-notes: Defunding accomplished through rescission package attached to reconciliation
-  bill, bypassing normal appropriations process. Removes critical source of independent
-  journalism and emergency communications infrastructure.
+notes: Defunding accomplished through rescission package attached to reconciliation bill, bypassing normal appropriations process. Removes critical source of independent journalism and emergency communications infrastructure.
 ---
 
 Through companion rescission package to budget reconciliation, Congress eliminated $1.1 billion in federal funding for NPR and PBS, removing independent news sources. FCC Commissioner Anna Gomez stated "This isn't about saving money. It's about silencing those who report the news accurately, without fear or favor," revealing political motivations behind defunding public broadcasting that provides vital emergency alerting in times of crisis.

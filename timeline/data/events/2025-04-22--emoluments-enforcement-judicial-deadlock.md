@@ -22,7 +22,7 @@ actors:
 - D.C. Circuit Court
 - 4th Circuit Court
 - Department of Justice
-- Congress
+- U.S. Congress
 capture_lanes:
 - Judicial Capture
 - Financial Capture

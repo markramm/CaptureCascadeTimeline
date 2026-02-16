@@ -7,7 +7,7 @@ actors:
 - Chief Justice John Roberts
 - Chief Judge James Boasberg
 - Federal Judiciary
-- Supreme Court
+- U.S. Supreme Court
 - U.S. Marshals Service
 tags:
 - judicial-independence
@@ -22,13 +22,11 @@ sources:
   url: https://www.cnn.com/2025/05/07/politics/john-roberts-event-judicial-independence
 - date: '2025-01-01'
   outlet: ABC News
-  title: Chief Justice John Roberts sounds alarm over potential defiance of court
-    rulings
+  title: Chief Justice John Roberts sounds alarm over potential defiance of court rulings
   url: https://abcnews.go.com/Politics/chief-justice-john-roberts-sounds-alarm-potential-defiance/story?id=117240395
 - date: '2025-01-02'
   outlet: NPR
-  title: Chief Justice John Roberts issues his annual year-end report on judicial
-    independence
+  title: Chief Justice John Roberts issues his annual year-end report on judicial independence
   url: https://www.npr.org/2025/01/02/nx-s1-5244997/chief-justice-john-roberts-issues-his-annual-year-end-report
 capture_lanes:
 - Judicial Capture

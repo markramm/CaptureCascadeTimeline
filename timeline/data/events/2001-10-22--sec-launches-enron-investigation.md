@@ -11,7 +11,7 @@ tags:
 - investigation
 - regulatory-enforcement
 actors:
-- SEC
+- Securities and Exchange Commission
 - Andrew Fastow
 - Kenneth Lay
 sources:

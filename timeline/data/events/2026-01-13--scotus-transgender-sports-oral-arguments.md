@@ -5,7 +5,7 @@ status: confirmed
 title: Supreme Court Hears Transgender Sports Ban Cases, Signals Support for Restrictions
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - John Roberts
 - Brett Kavanaugh
 - Samuel Alito

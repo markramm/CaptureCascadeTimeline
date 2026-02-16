@@ -1,8 +1,7 @@
 ---
 id: 1986-10-22--reagan-tax-reform-act-50-to-28
 date: '1986-10-22'
-title: Reagan Signs Tax Reform Act of 1986 - Top Individual Rate Cut from 50% to 28%,
-  Corporate Rate Slashed from 46% to 34%, Tax Brackets Reduced from 16 to 2
+title: Reagan Signs Tax Reform Act of 1986 - Top Individual Rate Cut from 50% to 28%, Corporate Rate Slashed from 46% to 34%, Tax Brackets Reduced from 16 to 2
 importance: 9
 actors:
 - Ronald Reagan
@@ -10,7 +9,7 @@ actors:
 - Bob Packwood
 - Bill Bradley
 - Jack Kemp
-- Treasury Department
+- U.S. Treasury Department
 - Joint Committee on Taxation
 tags:
 - tax-policy
@@ -50,8 +49,7 @@ sources:
   publication: Center for Public Integrity
   date: '2024-09-15'
   tier: 1
-- title: Reagan's Tax Reform Was A Bipartisan Effort of Surrender to America's Deepest
-    Pockets
+- title: Reagan's Tax Reform Was A Bipartisan Effort of Surrender to America's Deepest Pockets
   url: https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/
   publication: Institute for Policy Studies
   date: '2024-08-20'

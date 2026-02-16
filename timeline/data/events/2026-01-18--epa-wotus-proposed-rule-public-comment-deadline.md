@@ -5,7 +5,7 @@ status: confirmed
 title: EPA WOTUS Rollback Moves Forward After Public Comment Period
 importance: 7
 actors:
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Lee Zeldin
 - U.S. Army Corps of Engineers
 tags:

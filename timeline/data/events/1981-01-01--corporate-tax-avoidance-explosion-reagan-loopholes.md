@@ -9,7 +9,7 @@ actors:
 - Ronald Reagan
 - Corporate America
 - Internal Revenue Service
-- Congress
+- U.S. Congress
 tags:
 - corporate-taxes
 - tax-avoidance

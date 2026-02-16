@@ -2,11 +2,7 @@
 id: 2025-05-29--trump-federal-employee-loyalty-tests
 date: '2025-05-29'
 title: Trump Administration Implements Loyalty Tests for Federal Hiring
-description: OPM's Merit Hiring Plan requires applicants at GS-05 level and above
-  to write four 200-word essays including how they would advance Trump's policy priorities
-  and identify favorite Trump executive orders. White House screening teams check
-  for "MAGA bona fides" and parse applicants' social media posts, asking about their
-  "moment of MAGA revelation."
+description: OPM's Merit Hiring Plan requires applicants at GS-05 level and above to write four 200-word essays including how they would advance Trump's policy priorities and identify favorite Trump executive orders. White House screening teams check for "MAGA bona fides" and parse applicants' social media posts, asking about their "moment of MAGA revelation."
 importance: 8
 tags:
 - federal-workforce
@@ -19,8 +15,8 @@ tags:
 - ideological-screening
 actors:
 - Donald Trump
-- white-house
-- office-of-personnel-management
+- White House
+- Office of Personnel Management
 capture_lane: political
 status: confirmed
 sources:
@@ -35,8 +31,7 @@ sources:
 - outlet: U.S. News
   date: '2025-01-25'
   url: https://www.usnews.com/news/politics/articles/2025-01-25/loyalty-tests-and-maga-checks-inside-the-trump-white-houses-intense-screening-of-job-seekers
-  title: Loyalty Tests and MAGA Checks - Inside the Trump White House's Intense Screening
-    of Job-Seekers
+  title: Loyalty Tests and MAGA Checks - Inside the Trump White House's Intense Screening of Job-Seekers
 - outlet: FEDweek
   date: '2025-06-03'
   url: https://www.fedweek.com/fedweek/upcoming-questions-on-federal-job-applications-decried-as-trump-loyalty-test/
@@ -49,16 +44,7 @@ patterns:
 - re-wire-personnel
 - ideological-capture
 - authoritarian-consolidation
-notes: The implementation of explicit political loyalty tests for federal employment
-  represents a fundamental breach of civil service principles established after the
-  spoils system era. The merit-based civil service system was created specifically
-  to prevent political patronage and ensure government competence. These loyalty tests
-  transform federal employment into a political reward system, ensuring only ideologically
-  aligned individuals can serve in government. The requirement to write essays about
-  Trump priorities and identify favorite executive orders creates a documented political
-  litmus test that violates civil service laws. The social media screening and "MAGA
-  revelation" questioning adds surveillance and ideological conformity requirements
-  unprecedented in American federal hiring.
+notes: The implementation of explicit political loyalty tests for federal employment represents a fundamental breach of civil service principles established after the spoils system era. The merit-based civil service system was created specifically to prevent political patronage and ensure government competence. These loyalty tests transform federal employment into a political reward system, ensuring only ideologically aligned individuals can serve in government. The requirement to write essays about Trump priorities and identify favorite executive orders creates a documented political litmus test that violates civil service laws. The social media screening and "MAGA revelation" questioning adds surveillance and ideological conformity requirements unprecedented in American federal hiring.
 capture_lanes:
 - Financial Capture
 ---

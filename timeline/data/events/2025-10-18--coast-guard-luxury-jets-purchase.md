@@ -10,7 +10,7 @@ tags:
 - abuse-of-power
 actors:
 - Kristi Noem
-- DHS
+- DHS (Department of Homeland Security)
 - Trump Administration
 sources:
 - url: https://www.nytimes.com/2025/10/18/us/politics/dhs-luxury-jets-noem-shutdown.html

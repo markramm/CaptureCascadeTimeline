@@ -4,7 +4,7 @@ date: '2025-02-15'
 title: Supreme Court Confronts Unprecedented National Guard Federalization Crisis
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Trump Administration
 - State Governors
 - Brian Schwalb
@@ -26,8 +26,7 @@ sources:
   title: Supreme Court Docket Analysis
   url: https://www.supremecourt.gov/docket/2025
 - outlet: PBS NewsHour
-  title: Lawsuit against Trump's Washington National Guard Deployment Exposes Country's
-    Deep Partisan Divide
+  title: Lawsuit against Trump's Washington National Guard Deployment Exposes Country's Deep Partisan Divide
   url: https://www.pbs.org/newshour/politics/lawsuit-against-trumps-washington-national-guard-deployment-exposes-countrys-deep-partisan-divide
 - outlet: NPR
   title: 'Up First Newsletter: Oregon National Guard, Gaza, Supreme Court'

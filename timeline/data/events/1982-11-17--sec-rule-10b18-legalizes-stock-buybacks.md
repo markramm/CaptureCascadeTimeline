@@ -5,7 +5,7 @@ title: SEC Adopts Rule 10b-18, Legalizing Stock Buybacks and Creating Major Weal
 importance: 9
 status: confirmed
 actors:
-- SEC
+- Securities and Exchange Commission
 - John Shad
 - Ronald Reagan
 tags:

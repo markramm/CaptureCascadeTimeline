@@ -11,7 +11,7 @@ actors:
 - Chief Judge Shelly D. Dick
 - ICE (Immigration and Customs Enforcement)
 - ACLU of Louisiana
-- Trump administration
+- Trump Administration
 - Laos government
 tags:
 - ice

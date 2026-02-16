@@ -6,7 +6,7 @@ title: Varsity Blues mastermind Rick Singer sentenced to 3.5 years, $19M forfeit
 location: Boston, Massachusetts
 actors:
 - Rick Singer
-- Federal prosecutors
+- Federal Prosecutors
 tags:
 - fraud
 - corruption

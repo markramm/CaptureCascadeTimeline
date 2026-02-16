@@ -4,37 +4,37 @@ date: '1967-12-15'
 title: Age Discrimination in Employment Act Protects Workers Over 40 from Job Discrimination
 importance: 7
 actors:
-  - President Lyndon B. Johnson
-  - U.S. Congress
-  - Secretary of Labor W. Willard Wirtz
-  - Chamber of Commerce
+- President Lyndon B. Johnson
+- U.S. Congress
+- Secretary of Labor W. Willard Wirtz
+- U.S. Chamber of Commerce
 tags:
-  - worker-rights
-  - discrimination
-  - regulatory-reform
-  - employment
+- worker-rights
+- discrimination
+- regulatory-reform
+- employment
 sources:
-  - title: "Age Discrimination in Employment Act of 1967"
-    url: "https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967"
-    outlet: "Equal Employment Opportunity Commission"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Age Discrimination in Employment Act"
-    url: "https://www.dol.gov/agencies/oasam/civil-rights-center/statutes/age-discrimination"
-    outlet: "Department of Labor"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "History of the ADEA"
-    url: "https://www.law.cornell.edu/wex/age_discrimination_in_employment_act"
-    outlet: "Cornell Law School Legal Information Institute"
-    date: 2024-01-15
-    verified: true
-    tier: 2
+- title: Age Discrimination in Employment Act of 1967
+  url: https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967
+  outlet: Equal Employment Opportunity Commission
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Age Discrimination in Employment Act
+  url: https://www.dol.gov/agencies/oasam/civil-rights-center/statutes/age-discrimination
+  outlet: Department of Labor
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: History of the ADEA
+  url: https://www.law.cornell.edu/wex/age_discrimination_in_employment_act
+  outlet: Cornell Law School Legal Information Institute
+  date: 2024-01-15
+  verified: true
+  tier: 2
 capture_lanes:
-  - Worker Protection
-  - Regulatory Reform
+- Worker Protection
+- Regulatory Reform
 status: confirmed
 ---
 

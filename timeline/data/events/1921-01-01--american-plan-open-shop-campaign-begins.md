@@ -13,7 +13,7 @@ capture_lanes:
 - Labor Suppression
 actors:
 - National Association of Manufacturers
-- Chamber of Commerce
+- U.S. Chamber of Commerce
 - U.S. Steel
 - Henry Clay Frick
 - Elbert Gary

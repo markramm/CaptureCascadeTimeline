@@ -23,8 +23,8 @@ status: confirmed
 type: political
 actors:
 - Keith Porter
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - LAPD
 ---
 

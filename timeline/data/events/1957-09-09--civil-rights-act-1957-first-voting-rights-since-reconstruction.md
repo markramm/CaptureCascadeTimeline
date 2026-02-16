@@ -9,7 +9,7 @@ actors:
 - Strom Thurmond
 - Richard Russell
 - Attorney General Herbert Brownell
-- Congress
+- U.S. Congress
 tags:
 - voting-rights
 - civil-rights
@@ -22,11 +22,11 @@ sources:
   url: https://www.archives.gov/milestone-documents/civil-rights-act-of-1957
   outlet: National Archives
   tier: 1
-- title: 'The Civil Rights Act of 1957'
+- title: The Civil Rights Act of 1957
   url: https://www.eisenhowerlibrary.gov/research/online-documents/civil-rights-act-1957
   outlet: Eisenhower Presidential Library
   tier: 1
-- title: "Strom Thurmond's 24-Hour Filibuster"
+- title: Strom Thurmond's 24-Hour Filibuster
   url: https://www.senate.gov/about/powers-procedures/filibusters-cloture/thurmond-filibuster-1957.htm
   outlet: U.S. Senate Historical Office
   tier: 1

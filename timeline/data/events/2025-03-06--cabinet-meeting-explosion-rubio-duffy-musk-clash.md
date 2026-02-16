@@ -8,7 +8,7 @@ actors:
 - Marco Rubio
 - Sean Duffy
 - Donald Trump
-- DOGE
+- Department of Government Efficiency
 tags:
 - cabinet-meeting
 - elon-musk
@@ -22,7 +22,7 @@ sources:
   outlet: ABC News
   date: '2025-03-07'
   tier: 1
-- title: "Haberman: Rubio, Duffy spar with Musk in 'explosive' Cabinet meeting"
+- title: 'Haberman: Rubio, Duffy spar with Musk in ''explosive'' Cabinet meeting'
   url: https://www.cnn.com/2025/03/07/politics/video/the-lead-maggie-haberman-musk-doge-congress-meeting-clash-jake-tapper
   outlet: CNN
   date: '2025-03-07'

@@ -13,7 +13,7 @@ tags:
 actors:
 - Barbara Underwood
 - Donald Trump
-- Donald Trump Jr
+- Donald Trump Jr.
 - Eric Trump
 - Ivanka Trump
 - Trump Foundation

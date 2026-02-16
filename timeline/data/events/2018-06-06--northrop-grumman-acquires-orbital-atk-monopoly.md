@@ -8,7 +8,7 @@ actors:
 - Northrop Grumman
 - Orbital ATK
 - Federal Trade Commission
-- Department of Defense
+- U.S. Department of Defense
 - Boeing
 tags:
 - military-industrial complex

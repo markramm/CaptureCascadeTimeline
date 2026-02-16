@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Trump Administration
 - Trafficking Survivor Organizations
-- Congress
+- U.S. Congress
 sources:
 - title: Trump Froze $88 Million in Human Trafficking Survivor Aid
   url: https://www.theguardian.com/us-news/2025/oct/05/trump-human-trafficking-funding-freeze

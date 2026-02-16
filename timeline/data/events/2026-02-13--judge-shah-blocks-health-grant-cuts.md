@@ -10,7 +10,7 @@ actors:
 - Phil Weiser
 - Keith Ellison
 - Centers for Disease Control and Prevention
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - rule-of-law
 - institutional-capture

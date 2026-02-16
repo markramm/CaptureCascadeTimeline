@@ -11,8 +11,8 @@ tags:
 - trump-administration
 - criminal-deportation
 actors:
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Kristi Noem
 - Donald Trump
 - Todd Lyons

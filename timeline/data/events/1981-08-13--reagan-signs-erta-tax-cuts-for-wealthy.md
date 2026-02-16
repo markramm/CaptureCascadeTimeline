@@ -7,7 +7,7 @@ importance: 9
 location: Washington, DC
 actors:
 - Ronald Reagan
-- Congress
+- U.S. Congress
 - Jack Kemp
 - William Roth
 tags:
@@ -18,17 +18,17 @@ tags:
 - trickle-down
 - erta
 sources:
-- title: 'Economic Recovery Tax Act of 1981'
+- title: Economic Recovery Tax Act of 1981
   url: https://en.wikipedia.org/wiki/Economic_Recovery_Tax_Act_of_1981
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Reagan signs Economic Recovery Tax Act'
+- title: Reagan signs Economic Recovery Tax Act
   url: https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta
   outlet: History.com
   date: '2024-01-01'
   verified: true
-- title: 'Retrospective on the 1981 Reagan Tax Cut'
+- title: Retrospective on the 1981 Reagan Tax Cut
   url: https://taxfoundation.org/research/all/federal/retrospective-1981-reagan-tax-cut/
   outlet: Tax Foundation
   date: '2024-01-01'

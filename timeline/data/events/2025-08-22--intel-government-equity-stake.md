@@ -12,7 +12,7 @@ tags:
 actors:
 - Howard Lutnick
 - Trump
-- Department of Commerce
+- U.S. Department of Commerce
 - Intel
 sources:
 - url: https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html

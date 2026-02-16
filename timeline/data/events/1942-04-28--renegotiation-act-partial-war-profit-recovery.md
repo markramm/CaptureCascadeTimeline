@@ -4,8 +4,8 @@ date: '1942-04-28'
 title: Renegotiation Act Enables Limited War Profit Recovery After Corporate Resistance
 importance: 7
 actors:
-- Congress
-- War Department
+- U.S. Congress
+- U.S. War Department
 - Navy Department
 - Defense contractors
 - Truman Committee

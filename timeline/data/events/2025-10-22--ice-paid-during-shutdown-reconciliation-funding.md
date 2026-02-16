@@ -12,10 +12,10 @@ tags:
 - conflicts-of-interest
 actors:
 - Kristi Noem
-- Department of Homeland Security
-- Immigration and Customs Enforcement
-- Customs and Border Protection
-- Secret Service
+- U.S. Department of Homeland Security
+- U.S. Immigration and Customs Enforcement
+- U.S. Customs and Border Protection
+- U.S. Secret Service
 - Transportation Security Administration
 - National Treasury Employees Union
 sources:

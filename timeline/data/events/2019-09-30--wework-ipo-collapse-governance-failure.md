@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Adam Neumann
 - WeWork
-- SEC
+- Securities and Exchange Commission
 - SoftBank
 - John White
 - New York Attorney General

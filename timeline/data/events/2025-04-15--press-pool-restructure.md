@@ -6,7 +6,7 @@ importance: 5
 location: Washington, DC
 actors:
 - White House
-- WHCA
+- White House Correspondents' Association (WHCA)
 - Wire services
 tags:
 - press-freedom
@@ -22,10 +22,7 @@ citations:
 - https://www.politico.com/news/2025/04/15/white-house-changes-press-pool-00292526
 - https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions
 - https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents
-notes: This restructuring came immediately after losing a court case over AP access,
-  demonstrating the administration's determination to control media coverage despite
-  judicial orders. First time in modern history the White House seized control of
-  press pool composition from journalists.
+notes: This restructuring came immediately after losing a court case over AP access, demonstrating the administration's determination to control media coverage despite judicial orders. First time in modern history the White House seized control of press pool composition from journalists.
 status: confirmed
 sources:
 - title: White House changes press pool structure, removes wire position

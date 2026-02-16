@@ -4,7 +4,7 @@ date: '2024-07-23'
 title: 'House Oversight Releases Damning PBM Report After 32-Month Investigation: Anticompetitive Policies Exposed'
 importance: 9
 actors:
-- House Oversight Committee
+- U.S. House Oversight Committee
 - James Comer
 - Adam Kautzner
 - David Joyner

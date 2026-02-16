@@ -4,7 +4,7 @@ date: 2021-01-01
 title: ALEC Develops New Model Election Bills to Implement Trump's "Big Lie"
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Heritage Foundation
 - Heritage Action
 - State Policy Network

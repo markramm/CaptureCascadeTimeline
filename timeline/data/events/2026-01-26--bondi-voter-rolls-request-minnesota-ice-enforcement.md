@@ -8,7 +8,7 @@ actors:
 - Pam Bondi
 - Department of Justice
 - Minnesota
-- Immigration and Customs Enforcement
+- U.S. Immigration and Customs Enforcement
 tags:
 - doj-weaponization
 - voter-suppression

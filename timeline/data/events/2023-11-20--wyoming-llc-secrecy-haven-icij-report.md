@@ -5,7 +5,7 @@ title: ICIJ Cyprus Confidential Investigation Exposes Wyoming as Premier U.S. Ta
 importance: 8
 location: Cheyenne, Wyoming
 actors:
-- International Consortium of Investigative Journalists (ICIJ)
+- International Consortium of Investigative Journalists
 - ConnectedSky
 - Wyoming Legislature
 - OpenCorporates

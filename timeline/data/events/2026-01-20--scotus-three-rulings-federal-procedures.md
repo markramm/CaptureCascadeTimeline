@@ -5,7 +5,7 @@ status: confirmed
 title: Supreme Court Issues Three Unanimous Rulings on Federal Procedures
 importance: 5
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Amy Coney Barrett
 - Samuel Alito
 tags:

@@ -8,7 +8,7 @@ actors:
 - National Labor Relations Board
 - Fansteel Metallurgical Corporation
 - organized labor
-- corporate employers
+- Corporate employers
 tags:
 - labor-rights
 - supreme-court

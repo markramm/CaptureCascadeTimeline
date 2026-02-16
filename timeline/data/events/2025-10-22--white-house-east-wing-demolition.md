@@ -10,7 +10,7 @@ tags:
 - institutional-capture
 actors:
 - Donald Trump
-- Treasury Department
+- U.S. Treasury Department
 - White House Staff
 sources:
 - url: https://www.nytimes.com/2025/10/22/us/politics/white-house-east-wing-demolition-ballroom.html

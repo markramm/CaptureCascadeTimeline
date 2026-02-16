@@ -5,23 +5,20 @@ importance: 6
 title: Federal layoffs surge to 62,530 in first two months as DOGE cuts dominate
 location: Washington, DC
 actors:
-- DOGE
+- Department of Government Efficiency
 - Elon Musk
 - Federal Agencies
 - Challenger Gray & Christmas
 sources:
-- title: February 2025 Job Cuts Surge on DOGE Actions, Retail Woes; Highest Monthly
-    Total Since July 2020
+- title: February 2025 Job Cuts Surge on DOGE Actions, Retail Woes; Highest Monthly Total Since July 2020
   url: https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/
   outlet: Challenger, Gray & Christmas
   date: '2025-03-06'
-- title: Layoff announcements soar to the highest since 2020 as DOGE slashes federal
-    staff
+- title: Layoff announcements soar to the highest since 2020 as DOGE slashes federal staff
   url: https://www.cnbc.com/2025/03/06/layoff-announcements-soar-to-the-highest-since-2020-as-doge-slashes-federal-staff-.html
   outlet: CNBC
   date: '2025-03-06'
-- title: DOGE layoffs may 'overwhelm' unemployment system for federal workers, report
-    finds
+- title: DOGE layoffs may 'overwhelm' unemployment system for federal workers, report finds
   url: https://www.cnbc.com/2025/03/07/doge-layoffs-may-overwhelm-unemployment-system-for-federal-workers.html
   outlet: CNBC
   date: '2025-03-07'
@@ -29,8 +26,7 @@ sources:
   url: https://www.newsweek.com/doge-layoffs-federal-government-tracker-2025-dod-cuts-2042525
   outlet: Newsweek
   date: '2025-03-06'
-notes: DOGE targeting 75% federal workforce reduction impacting Education (50% cuts),
-  VA (80K positions), HHS (25% cuts), and USAID shutdown
+notes: DOGE targeting 75% federal workforce reduction impacting Education (50% cuts), VA (80K positions), HHS (25% cuts), and USAID shutdown
 status: confirmed
 tags:
 - federal-workforce

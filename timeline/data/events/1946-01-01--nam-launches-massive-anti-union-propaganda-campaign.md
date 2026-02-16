@@ -2,8 +2,7 @@
 id: 1946-01-01--nam-launches-massive-anti-union-propaganda-campaign
 date: '1946-01-01'
 importance: 8
-title: National Association of Manufacturers Launches Massive Anti-Union Propaganda
-  Campaign After Strike Wave
+title: National Association of Manufacturers Launches Massive Anti-Union Propaganda Campaign After Strike Wave
 location: United States
 actors:
 - National Association of Manufacturers
@@ -12,7 +11,7 @@ actors:
 - U.S. Steel
 - General Electric
 - United Auto Workers
-- United Steel Workers
+- United Steelworkers
 - United Electrical Workers
 tags:
 - propaganda
@@ -30,8 +29,7 @@ sources:
   outlet: Hagley Museum
   date: '2024-01-01'
   verified: true
-- title: Our Country's Most Rapacious Capitalists Are Weighing in on How to Defend
-    Democracy
+- title: Our Country's Most Rapacious Capitalists Are Weighing in on How to Defend Democracy
   url: https://jacobin.com/2021/01/national-association-of-manufacturers-history-democracy
   outlet: Jacobin
   date: '2024-01-01'

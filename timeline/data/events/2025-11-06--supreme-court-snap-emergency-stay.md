@@ -10,7 +10,7 @@ tags:
 - food-insecurity
 - judicial-capture
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Ketanji Brown Jackson
 - John McConnell
 - USDA

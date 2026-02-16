@@ -1,8 +1,7 @@
 ---
 id: 2025-07-23--senate-reveals-epstein-billion-russian-transfers
 date: '2025-07-23'
-title: Senate Investigation Reveals Epstein's Billion-Dollar Russian Bank Transfers
-  Linked to Trafficking
+title: Senate Investigation Reveals Epstein's Billion-Dollar Russian Bank Transfers Linked to Trafficking
 importance: 10
 tags:
 - jeffrey-epstein
@@ -15,17 +14,16 @@ tags:
 - financial-crime
 - international-banking
 actors:
-- Senate Finance Committee
+- U.S. Senate Finance Committee
 - Ron Wyden
-- Treasury Department
+- U.S. Treasury Department
 - Jeffrey Epstein
 - Russian banks
 - Bank of America
 - JP Morgan
 - Deutsche Bank
 sources:
-- title: As Trump Sits on Key Epstein Files, Wyden Lays Out 'Follow the Money' Investigation
-    for DOJ
+- title: As Trump Sits on Key Epstein Files, Wyden Lays Out 'Follow the Money' Investigation for DOJ
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
   outlet: Senate Finance Committee
   date: '2025-07-23'
@@ -33,8 +31,7 @@ sources:
   url: https://www.oregonbusiness.com/article/politics/item/20145-in-conversation-sen-ron-wyden-on-following-the-epstein-money
   outlet: Oregon Business
   date: '2025-07-25'
-- title: Treasury's Undisclosed Epstein File Reveals Massive International Financial
-    Network
+- title: Treasury's Undisclosed Epstein File Reveals Massive International Financial Network
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: Senate Finance Committee
   date: '2025-07-17'

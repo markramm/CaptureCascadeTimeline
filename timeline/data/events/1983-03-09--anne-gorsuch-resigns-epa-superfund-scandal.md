@@ -8,8 +8,8 @@ location: Washington, DC
 actors:
 - Anne Gorsuch Burford
 - Ronald Reagan
-- Congress
-- Environmental Protection Agency
+- U.S. Congress
+- U.S. Environmental Protection Agency
 - Neil Gorsuch
 tags:
 - epa

@@ -6,7 +6,7 @@ title: Trump eliminates CISA retention incentives, agency loses 33% of cybersecu
 actors:
 - Donald Trump
 - CISA
-- DHS
+- DHS (Department of Homeland Security)
 - Chris Krebs
 - Jen Easterly
 - Rob Joyce

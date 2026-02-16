@@ -10,7 +10,7 @@ actors:
 - Iraqi Government
 - U.S. Military
 - Private Military Contractors
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - systematic-corporate-capture
 - systematic-constitutional-violation

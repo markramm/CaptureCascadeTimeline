@@ -2,10 +2,9 @@
 id: 2023-06-30--303-creative-religious-exemptions-anti-discrimination
 date: '2023-06-30'
 importance: 8
-title: Supreme Court Allows Religious Exemptions from Anti-Discrimination Laws in
-  303 Creative v. Elenis
+title: Supreme Court Allows Religious Exemptions from Anti-Discrimination Laws in 303 Creative v. Elenis
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Justice Neil Gorsuch
 - Chief Justice John Roberts
 - Justice Clarence Thomas
@@ -34,8 +33,7 @@ sources:
   url: https://www.supremecourt.gov/opinions/22pdf/21-476_c185.pdf
   outlet: Supreme Court
   date: '2023-06-30'
-- title: 303 Creative v. Elenis - Supreme Court Recognizes Free Speech Exception to
-    Nondiscrimination Law
+- title: 303 Creative v. Elenis - Supreme Court Recognizes Free Speech Exception to Nondiscrimination Law
   url: https://www.congress.gov/crs-product/LSB11000
   outlet: Congressional Research Service
   date_accessed: '2025-12-23'
@@ -47,8 +45,7 @@ sources:
   url: https://www.theusconstitution.org/litigation/303-creative-llc-v-elenis/
   outlet: Constitutional Accountability Center
   date_accessed: '2025-12-23'
-- title: Supreme Court Decides Important First Amendment Case Creating Exception to
-    Anti-Discrimination Laws
+- title: Supreme Court Decides Important First Amendment Case Creating Exception to Anti-Discrimination Laws
   url: https://imla.org/2023/07/303-creative-v-elenis/
   outlet: International Municipal Lawyers Association
   date: '2023-07-01'

@@ -6,7 +6,7 @@ title: Education Department announces 50% workforce reduction
 location: Washington, DC
 actors:
 - Linda McMahon
-- Department of Education
+- U.S. Department of Education
 - Trump Administration
 tags:
 - education-department
@@ -25,8 +25,7 @@ sources:
   url: https://19thnews.org/2025/03/department-of-education-layoffs/
   outlet: The 19th
   date: '2025-03-11'
-- title: '''Let''s shake it up'': Linda McMahon defends massive cuts at Education
-    Department'
+- title: '''Let''s shake it up'': Linda McMahon defends massive cuts at Education Department'
   url: https://www.highereddive.com/news/linda-mcmahon-defends-massive-cuts-education-department/744812/
   outlet: Higher Ed Dive
   date: '2025-03-12'
@@ -34,8 +33,7 @@ sources:
   url: https://rollcall.com/2025/03/12/education-department-layoffs-mcmahon-trump/
   outlet: Roll Call
   date: '2025-03-12'
-notes: McMahon stated Trump's directive was "to shut down the Department of Education"
-  requiring Congressional action
+notes: McMahon stated Trump's directive was "to shut down the Department of Education" requiring Congressional action
 status: confirmed
 ---
 

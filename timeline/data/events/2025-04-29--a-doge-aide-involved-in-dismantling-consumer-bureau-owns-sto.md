@@ -3,7 +3,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Gavin Kliger
-- DOGE
+- Department of Government Efficiency
 capture_lanes:
 - Regulatory Capture
 - Institutional Capture
@@ -12,14 +12,11 @@ connections:
 - CFPB Transformation
 - Financial Regulatory Oversight
 date: '2025-04-29'
-description: A Department of Government Efficiency aide with significant stock holdings
-  in regulated companies orchestrates mass layoffs at the CFPB, raising serious conflict
-  of interest concerns
+description: A Department of Government Efficiency aide with significant stock holdings in regulated companies orchestrates mass layoffs at the CFPB, raising serious conflict of interest concerns
 id: 2025-04-29--a-doge-aide-involved-in-dismantling-consumer-bureau-owns-sto
 importance: 8
 location: Washington, D.C.
-notes: Detailed documentation of potential ethics violations in regulatory capture
-  process
+notes: Detailed documentation of potential ethics violations in regulatory capture process
 patterns:
 - kleptocratic-capture
 - institutional-regulatory-capture
@@ -46,8 +43,7 @@ tags:
 - cfpb
 - trump-administration
 - conflict-of-interest
-title: DOGE Aide Dismantling CFPB Owns Substantial Stock in Regulated Companies During
-  Mass Layoffs
+title: DOGE Aide Dismantling CFPB Owns Substantial Stock in Regulated Companies During Mass Layoffs
 ---
 
 Gavin Kliger, a Trump Administration Department of Government Efficiency aide, helped orchestrate massive layoffs at the Consumer Financial Protection Bureau (CFPB) while holding significant stock in companies the agency regulates. Kliger managed approximately 90% of over 1,400 employee terminations, and owned stock worth up to $715,000 in companies including Apple, Tesla, Alphabet, and cryptocurrencies - many of which are on the CFPB's prohibited holdings list.

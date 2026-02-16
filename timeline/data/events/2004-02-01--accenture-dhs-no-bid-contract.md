@@ -12,7 +12,7 @@ tags:
 - dhs-acquisition
 actors:
 - Accenture
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Asa Hutchinson
 - Smart Border Alliance
 sources:

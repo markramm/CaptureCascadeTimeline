@@ -3,15 +3,13 @@ actors:
 - Donald Trump
 - Trump Administration
 - Elon Musk
-- Department of Government Efficiency (DOGE)
+- Department of Government Efficiency
 capture_lanes:
 - Financial Capture
 - Regulatory Capture
 capture_type: systematically_eliminating_regulations
 date: '2025-07-26'
-description: DOGE developed an AI tool designed to systematically review and potentially
-  eliminate 50% of federal regulations, targeting approximately 100,000 rules across
-  various government agencies
+description: DOGE developed an AI tool designed to systematically review and potentially eliminate 50% of federal regulations, targeting approximately 100,000 rules across various government agencies
 id: 2025-07-26--doge-reportedly-using-ai-tool-to-create-delete-list-of-feder
 importance: 8
 location: Washington, D.C.
@@ -31,8 +29,7 @@ sources:
   url: https://techcrunch.com/2025/07/27/doge-has-built-an-ai-tool-to-slash-federal-regulations/
 - date: '2025-07-26'
   outlet: Anadolu Agency
-  title: 'Trump Administration Deploys AI Tool to Slash Half of Federal Regulations
-    by 2026: Report'
+  title: 'Trump Administration Deploys AI Tool to Slash Half of Federal Regulations by 2026: Report'
   url: https://www.aa.com.tr/en/americas/trump-administration-deploys-ai-tool-to-slash-half-of-federal-regulations-by-2026-report/3643579
 status: confirmed
 tags:

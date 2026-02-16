@@ -5,8 +5,8 @@ status: confirmed
 title: GAO Report Reveals Education Department Paid $38M to Idled Civil Rights Staff
 importance: 8
 actors:
-- Government Accountability Office
-- Department of Education
+- U.S. Government Accountability Office
+- U.S. Department of Education
 - Linda McMahon
 - Bernie Sanders
 - Office for Civil Rights

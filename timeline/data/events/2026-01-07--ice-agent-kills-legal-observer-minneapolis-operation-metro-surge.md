@@ -7,8 +7,8 @@ actors:
 - Jonathan Ross
 - Renee Nicole Good
 - Greg Bovino
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Kristi Noem
 tags:
 - ice-shooting

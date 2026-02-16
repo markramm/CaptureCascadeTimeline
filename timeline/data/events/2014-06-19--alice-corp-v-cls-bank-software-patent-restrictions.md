@@ -4,7 +4,7 @@ date: '2014-06-19'
 title: 'Alice Corp. v. CLS Bank: Supreme Court Restricts Software Patents, Reducing Patent Troll Leverage Over Abstract Business Methods'
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Clarence Thomas
 - Alice Corp
 - CLS Bank International

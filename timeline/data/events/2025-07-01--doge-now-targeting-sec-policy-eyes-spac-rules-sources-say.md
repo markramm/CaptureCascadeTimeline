@@ -2,8 +2,8 @@
 actors:
 - Donald Trump
 - Trump Administration
-- Department of Government Efficiency (DOGE)
-- SEC
+- Department of Government Efficiency
+- Securities and Exchange Commission
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
@@ -12,14 +12,11 @@ connections:
 - Trump Administration deregulation efforts
 - SPAC market manipulation
 date: '2025-07-01'
-description: DOGE (Department of Government Efficiency) is pushing the SEC to loosen
-  Wall Street regulations around shell companies, confidential reporting requirements,
-  and SPAC rules, representing a significant deregulatory effort by the Trump administration.
+description: DOGE (Department of Government Efficiency) is pushing the SEC to loosen Wall Street regulations around shell companies, confidential reporting requirements, and SPAC rules, representing a significant deregulatory effort by the Trump administration.
 id: 2025-07-01--doge-now-targeting-sec-policy-eyes-spac-rules-sources-say
 importance: 7
 location: Washington, D.C.
-notes: Part of broader Trump administration effort to reduce financial regulatory
-  oversight
+notes: Part of broader Trump administration effort to reduce financial regulatory oversight
 patterns:
 - kleptocratic-capture
 - regulatory-rollback
@@ -34,8 +31,7 @@ sources:
   url: https://corpgov.law.harvard.edu/2025/03/03/the-changing-tides-of-the-sec-under-the-second-trump-administration/
 - date: '2025-01-10'
   outlet: SEC.gov
-  title: SEC Adopts Rules to Enhance Investor Protections Relating to SPACs, Shell
-    Companies, and Projections
+  title: SEC Adopts Rules to Enhance Investor Protections Relating to SPACs, Shell Companies, and Projections
   url: https://www.sec.gov/newsroom/press-releases/2024-8
 status: confirmed
 tags:

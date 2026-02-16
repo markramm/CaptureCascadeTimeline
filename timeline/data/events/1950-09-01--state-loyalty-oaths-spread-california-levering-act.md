@@ -5,39 +5,39 @@ title: State Loyalty Oaths Spread as California Passes Levering Act, Requires Pu
 importance: 7
 location: Sacramento, California
 actors:
-  - California Legislature
-  - Earl Warren
-  - University of California Board of Regents
-  - American Civil Liberties Union (ACLU)
+- California Legislature
+- Earl Warren
+- University of California Board of Regents
+- American Civil Liberties Union
 tags:
-  - mccarthyism
-  - civil-liberties
-  - academic-freedom
-  - red-scare
-  - political-persecution
-  - state-action
+- mccarthyism
+- civil-liberties
+- academic-freedom
+- red-scare
+- political-persecution
+- state-action
 capture_lanes:
-  - Policy Capture
-  - Structural Repression
+- Policy Capture
+- Structural Repression
 sources:
-  - title: "The Loyalty Oath Controversy at the University of California"
-    url: "https://oac.cdlib.org/findaid/ark:/13030/kt896nc8sv/"
-    outlet: "California Digital Library"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Loyalty Oaths"
-    url: "https://firstamendment.mtsu.edu/article/loyalty-oaths/"
-    outlet: "First Amendment Encyclopedia"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "The Great Fear: Anti-Communist Purge Under Truman and Eisenhower"
-    url: "https://www.simonandschuster.com/books/The-Great-Fear/David-Caute/9780671251765"
-    outlet: "Simon & Schuster"
-    date: 1978-01-01
-    verified: true
-    tier: 2
+- title: The Loyalty Oath Controversy at the University of California
+  url: https://oac.cdlib.org/findaid/ark:/13030/kt896nc8sv/
+  outlet: California Digital Library
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Loyalty Oaths
+  url: https://firstamendment.mtsu.edu/article/loyalty-oaths/
+  outlet: First Amendment Encyclopedia
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: 'The Great Fear: Anti-Communist Purge Under Truman and Eisenhower'
+  url: https://www.simonandschuster.com/books/The-Great-Fear/David-Caute/9780671251765
+  outlet: Simon & Schuster
+  date: 1978-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

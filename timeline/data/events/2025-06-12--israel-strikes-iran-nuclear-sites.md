@@ -5,7 +5,7 @@ title: Israel Conducts Major Strikes on Iran Nuclear Infrastructure
 importance: 9
 actors:
 - Israeli Defense Forces
-- Iranian Revolutionary Guard
+- Iranian Revolutionary Guard Corps
 - Netanyahu administration
 - Iranian nuclear scientists
 - Iranian military leadership

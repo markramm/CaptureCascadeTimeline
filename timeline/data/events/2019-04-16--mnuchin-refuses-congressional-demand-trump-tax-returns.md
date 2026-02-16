@@ -1,7 +1,7 @@
 ---
 actors:
 - Steven Mnuchin
-- Treasury Department
+- U.S. Treasury Department
 - Richard Neal
 - House Ways and Means Committee
 - Donald Trump
@@ -15,8 +15,7 @@ id: 2019-04-16--mnuchin-refuses-congressional-demand-trump-tax-returns
 importance: 8
 sources:
 - outlet: Citizens for Responsibility and Ethics in Washington (CREW)
-  title: Mnuchin Blocking Trump Tax Returns from Congress Was Unprecedented, Treasury
-    Response Reveals
+  title: Mnuchin Blocking Trump Tax Returns from Congress Was Unprecedented, Treasury Response Reveals
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/mnuchin-blocking-trump-tax-returns-from-congress-was-unprecedented-treasury-response-reveals/
 - outlet: NPR
   title: House Democrats Subpoena Trump Tax Returns

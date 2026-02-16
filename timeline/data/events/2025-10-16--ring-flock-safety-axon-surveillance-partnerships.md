@@ -4,7 +4,7 @@ actors:
 - Amazon
 - Flock Safety
 - Axon
-- ICE
+- Immigration and Customs Enforcement (ICE)
 capture_lanes:
 - Surveillance Infrastructure
 - Law Enforcement Collaboration

@@ -4,9 +4,9 @@ date: '2025-10-01'
 title: DHS and CMS Share Personal Data of 79 Million Medicaid Patients With ICE
 importance: 8
 actors:
-- Department of Homeland Security
-- Centers for Medicare and Medicaid Services
-- ICE
+- U.S. Department of Homeland Security
+- Centers for Medicare & Medicaid Services
+- Immigration and Customs Enforcement (ICE)
 - State Attorneys General Coalition
 sources:
 - title: Trump administration hands over Medicaid recipients' personal data, including addresses, to ICE

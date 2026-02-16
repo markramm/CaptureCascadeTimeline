@@ -8,7 +8,7 @@ importance: 9
 location: Washington, D.C.
 actors:
 - Elon Musk
-- Department of Government Efficiency (DOGE)
+- Department of Government Efficiency
 - David Lebryk
 - Chuck Schumer
 - Patty Murray

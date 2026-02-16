@@ -8,7 +8,7 @@ actors:
 - Joint Regional Intelligence Center
 - Los Angeles Police Department
 - Palantir Technologies
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - palantir
 - lapd

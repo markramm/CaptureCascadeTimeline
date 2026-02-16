@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - U.S. Army
 - Palantir Technologies
-- Department of Defense
+- U.S. Department of Defense
 - Donald Trump
 tags:
 - institutional-capture

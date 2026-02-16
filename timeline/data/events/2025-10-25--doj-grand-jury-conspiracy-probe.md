@@ -1,7 +1,7 @@
 ---
 actors:
 - Chris Wray
-- federal grand jury
+- Federal grand jury
 - Jack Smith
 - Lisa Monaco
 - Merrick Garland

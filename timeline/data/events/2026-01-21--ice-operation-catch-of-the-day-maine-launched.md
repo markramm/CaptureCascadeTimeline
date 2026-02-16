@@ -5,8 +5,8 @@ status: confirmed
 title: ICE Launches Operation Catch of the Day in Maine
 importance: 6
 actors:
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Janet Mills
 tags:
 - immigration-enforcement

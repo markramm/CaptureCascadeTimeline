@@ -5,7 +5,7 @@ title: SSA Reveals DOGE Staffers Misused Social Security Data, Signed Secret Vot
 importance: 9
 status: confirmed
 actors:
-- DOGE
+- Department of Government Efficiency
 - Elon Musk
 - Steve Davis
 - Social Security Administration

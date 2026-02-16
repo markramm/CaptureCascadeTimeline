@@ -8,7 +8,7 @@ actors:
 - Jim O'Neill
 - Mike Stuart
 - Robert F. Kennedy Jr.
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Centers for Disease Control and Prevention
 tags:
 - healthcare

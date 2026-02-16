@@ -7,7 +7,7 @@ importance: 9
 actors:
 - Donald Trump
 - Netflix
-- Warner Bros Discovery
+- Warner Bros. Discovery
 - Paramount
 - Larry Ellison
 - DOJ

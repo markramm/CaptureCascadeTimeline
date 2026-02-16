@@ -19,8 +19,8 @@ actors:
 - Dr. Richard Pazdur
 - Marty Makary
 - Robert F. Kennedy Jr.
-- FDA
-- HHS
+- Food and Drug Administration
+- U.S. Department of Health and Human Services
 - Peter Marks
 - Vinay Prasad
 - John Crowley

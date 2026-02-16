@@ -7,7 +7,7 @@ importance: 6
 actors:
 - Donald Trump
 - White House
-- Department of Commerce
+- U.S. Department of Commerce
 - Department of State
 - Department of the Treasury
 tags:
@@ -17,12 +17,12 @@ tags:
 - foreign-policy
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/02/modifying-duties-to-address-threats-to-the-united-states-by-the-government-of-the-russian-federation-04b2/
-  title: 'Modifying Duties to Address Threats to the United States by the Government of the Russian Federation'
+  title: Modifying Duties to Address Threats to the United States by the Government of the Russian Federation
   outlet: White House
   date: '2026-02-06'
   tier: 1
 - url: https://www.bloomberg.com/news/articles/2026-02-06/trump-removes-india-s-25-russia-related-tariff-after-deal
-  title: "Trump Removes India's 25% Russia-Related Tariff After Deal"
+  title: Trump Removes India's 25% Russia-Related Tariff After Deal
   outlet: Bloomberg
   date: '2026-02-06'
   tier: 2

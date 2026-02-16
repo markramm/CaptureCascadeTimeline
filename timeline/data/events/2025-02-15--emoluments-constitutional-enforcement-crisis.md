@@ -4,7 +4,7 @@ date: '2025-02-15'
 title: Federal Courts Grapple with Unprecedented Emoluments Enforcement Challenge
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Federal District Courts
 - Trump Administration
 sources:
@@ -12,20 +12,17 @@ sources:
   title: Supreme Court Ducks an Opportunity on Trump Emoluments Cases
   url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-ducks-opportunity-trump-emoluments-cases
   access_date: '2025-09-17'
-  description: Comprehensive analysis of Supreme Court's avoidance of substantive
-    emoluments clause rulings
+  description: Comprehensive analysis of Supreme Court's avoidance of substantive emoluments clause rulings
 - outlet: Constitution Annotated, Library of Congress
   title: Foreign Emoluments Clause Overview
   url: https://constitution.congress.gov/browse/essay/artI-S9-C8-3/ALDE_00013206/
   access_date: '2025-09-17'
-  description: Authoritative constitutional reference explaining the historical context
-    and interpretation of the Emoluments Clauses
+  description: Authoritative constitutional reference explaining the historical context and interpretation of the Emoluments Clauses
 - outlet: Constitutional Accountability Center
   title: Blumenthal, et al. v. Trump
   url: https://www.theusconstitution.org/litigation/trump-and-foreign-emoluments-clause/
   access_date: '2025-09-17'
-  description: Legal analysis of previous emoluments clause litigation and its implications
-    for constitutional enforcement
+  description: Legal analysis of previous emoluments clause litigation and its implications for constitutional enforcement
 tags:
 - constitutional-crisis
 - emoluments

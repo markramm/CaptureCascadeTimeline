@@ -1,19 +1,19 @@
 ---
 id: 1873-11-19--boss-tweed-convicted-corruption
 date: '1873-11-19'
-title: 'Boss Tweed Convicted After Second Trial'
+title: Boss Tweed Convicted After Second Trial
 importance: 7
 actors:
 - William "Boss" Tweed
 - New York Court System
 - David Dudley Field II (Defense)
-- Elihu Root (Defense)
+- Elihu Root
 sources:
-- title: 'William M. Tweed'
+- title: William M. Tweed
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/William_M._Tweed
   year: 2024
-- title: 'Boss Tweed'
+- title: Boss Tweed
   outlet: Britannica
   url: https://www.britannica.com/biography/Boss-Tweed
   year: 2024

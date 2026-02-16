@@ -1,12 +1,8 @@
 ---
 id: 2025-02-18--opm-privacy-officials-terminated
 date: '2025-02-18'
-title: Trump Administration Terminates Critical Privacy Officials at OPM, Blocking
-  Public Information Access
-description: The Trump administration systematically terminated multiple members of
-  the Office of Personnel Management's (OPM) privacy and communications teams—those
-  tasked with handling FOIA requests and safeguarding public records—effectively cutting
-  off external access to information and potentially compromising federal data security.
+title: Trump Administration Terminates Critical Privacy Officials at OPM, Blocking Public Information Access
+description: The Trump administration systematically terminated multiple members of the Office of Personnel Management's (OPM) privacy and communications teams—those tasked with handling FOIA requests and safeguarding public records—effectively cutting off external access to information and potentially compromising federal data security.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -14,7 +10,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Elon Musk
-- Department of Government Efficiency (DOGE)
+- Department of Government Efficiency
 tags:
 - regulatory-capture
 - government-transparency
@@ -23,8 +19,7 @@ tags:
 - information-control
 capture_type: regulatory_capture
 sources:
-- title: '''Good luck with that.'' Trump administration terminates privacy officials
-    at agency overseeing government hiring and firing'
+- title: '''Good luck with that.'' Trump administration terminates privacy officials at agency overseeing government hiring and firing'
   url: https://www.cnn.com/2025/02/18/politics/opm-privacy-team-fired/index.html
   outlet: CNN
   date: '2025-02-18'
@@ -32,8 +27,7 @@ sources:
   url: https://newrepublic.com/post/191663/elon-musk-opm-privacy-team
   outlet: New Republic
   date: '2025-02-18'
-- title: 'Privacy Tip 433: Privacy and Security Personnel Throughout Federal Government
-    Fired'
+- title: 'Privacy Tip 433: Privacy and Security Personnel Throughout Federal Government Fired'
   url: https://natlawreview.com/article/privacy-tip-433-privacy-and-security-personnel-throughout-federal-government-fired
   outlet: National Law Review
   date: '2025-02-18'
@@ -44,8 +38,7 @@ patterns:
 - kleptocratic-capture
 - institutional-disruption
 - information-control
-notes: Part of a broader pattern of removing transparency mechanisms and privacy protections
-  in federal agencies
+notes: Part of a broader pattern of removing transparency mechanisms and privacy protections in federal agencies
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

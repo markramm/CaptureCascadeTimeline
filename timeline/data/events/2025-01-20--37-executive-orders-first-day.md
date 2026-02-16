@@ -6,7 +6,7 @@ title: Trump signs 37 executive orders on first day, implementing Project 2025 p
 location: Washington, DC
 actors:
 - Donald Trump
-- Elon Musk (DOGE leader)
+- Elon Musk
 - White House
 - United Nations
 - World Health Organization

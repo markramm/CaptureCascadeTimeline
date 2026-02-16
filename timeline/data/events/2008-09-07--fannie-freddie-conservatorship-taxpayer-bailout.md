@@ -4,7 +4,7 @@ date: '2008-09-07'
 title: Fannie Mae and Freddie Mac Placed in Federal Conservatorship, $187 Billion Taxpayer Bailout
 importance: 9
 actors:
-- Treasury Department
+- U.S. Treasury Department
 - Henry Paulson
 - Federal Housing Finance Agency
 - Fannie Mae
@@ -18,17 +18,17 @@ tags:
 - taxpayer-cost
 - housing
 sources:
-- title: 'Fannie Mae and Freddie Mac Timeline'
+- title: Fannie Mae and Freddie Mac Timeline
   outlet: Federal Reserve History
   url: https://www.federalreservehistory.org/essays/fannie-mae-freddie-mac-crisis
   tier: 1
   verified: true
-- title: 'Statement by Secretary Henry M. Paulson, Jr. on Treasury and FHFA Action'
+- title: Statement by Secretary Henry M. Paulson, Jr. on Treasury and FHFA Action
   outlet: U.S. Treasury
   url: https://home.treasury.gov/press-release/press-releases-hp1128
   tier: 1
   verified: true
-- title: 'The Rise and Fall of Fannie Mae and Freddie Mac'
+- title: The Rise and Fall of Fannie Mae and Freddie Mac
   outlet: Congressional Research Service
   url: https://crsreports.congress.gov/product/pdf/RL/RL34661
   tier: 1

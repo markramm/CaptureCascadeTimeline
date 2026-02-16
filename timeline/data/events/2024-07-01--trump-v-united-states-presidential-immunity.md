@@ -2,10 +2,9 @@
 id: 2024-07-01--trump-v-united-states-presidential-immunity
 date: '2024-07-01'
 importance: 10
-title: Supreme Court Grants Broad Presidential Immunity in Trump v. United States,
-  Creating King-Like Powers
+title: Supreme Court Grants Broad Presidential Immunity in Trump v. United States, Creating King-Like Powers
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Chief Justice John Roberts
 - Justice Clarence Thomas
 - Justice Samuel Alito
@@ -44,8 +43,7 @@ sources:
   url: https://www.congress.gov/crs-product/LSB11194
   outlet: Congressional Research Service
   date_accessed: '2025-12-23'
-- title: Trump v. United States - Revisiting the Presidential Immunity Ruling 1 Year
-    Later
+- title: Trump v. United States - Revisiting the Presidential Immunity Ruling 1 Year Later
   url: https://www.americanprogress.org/article/trump-v-united-states-revisiting-the-presidential-immunity-ruling-1-year-later/
   outlet: Center for American Progress
   date: '2024-06-29'
@@ -53,8 +51,7 @@ sources:
   url: https://constitutioncenter.org/blog/breaking-down-the-trump-immunity-decision
   outlet: Constitution Center
   date: '2024-07-01'
-- title: Supreme Court Grants Trump Broad Immunity for Official Acts, Placing Presidents
-    Above the Law
+- title: Supreme Court Grants Trump Broad Immunity for Official Acts, Placing Presidents Above the Law
   url: https://www.aclu.org/press-releases/supreme-court-grants-trump-broad-immunity-for-official-acts-placing-presidents-above-the-law
   outlet: American Civil Liberties Union
   date: '2024-07-01'
@@ -66,12 +63,10 @@ sources:
   title: Nancy Pelosi's husband sold more than $500k in Visa stock ahead of DOJ action
   url: https://www.foxbusiness.com/politics/nancy-pelosis-husband-sold-more-than-500k-visa-stock-ahead-doj-action
 - outlet: Benzinga
-  title: Trump Wants Nancy Pelosi Prosecuted Over Husband Paul's Visa Stock Sale Before
-    DOJ Lawsuit
+  title: Trump Wants Nancy Pelosi Prosecuted Over Husband Paul's Visa Stock Sale Before DOJ Lawsuit
   url: https://www.benzinga.com/markets/equities/24/09/41060712/trump-wants-nancy-pelosi-prosecuted-over-husband-pauls-visa-stock-sale-before-doj-lawsuit-you-th
 - outlet: Yahoo Finance
-  title: Nancy Pelosi's husband sold Visa shares 2 months before a DOJ lawsuit — some
-    say the trade shouldn't have been allowed
+  title: Nancy Pelosi's husband sold Visa shares 2 months before a DOJ lawsuit — some say the trade shouldn't have been allowed
   url: https://finance.yahoo.com/news/nancy-pelosi-husband-sold-visa-104400425.html
 - outlet: U.S. Department of Justice
   title: Justice Department Sues Visa for Monopolizing Debit Markets

@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Dorothy Gautreaux
 - Chicago Housing Authority
-- American Civil Liberties Union (ACLU)
+- American Civil Liberties Union
 - U.S. Department of Housing and Urban Development
 tags:
 - institutional-capture

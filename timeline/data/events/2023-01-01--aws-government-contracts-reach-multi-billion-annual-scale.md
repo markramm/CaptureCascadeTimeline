@@ -9,7 +9,7 @@ actors:
 - CIA
 - NSA
 - Pentagon
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - government-contracts
 - surveillance-infrastructure

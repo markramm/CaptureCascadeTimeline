@@ -12,7 +12,7 @@ actors:
 - CIA
 - FBI
 - NSA
-- IRS
+- Internal Revenue Service
 tags:
 - intelligence-privatization
 - church-committee
@@ -51,11 +51,7 @@ sources:
   outlet: Constitution Center
   date: '2024-01-01'
   verified: true
-notes: Church famously warned about intelligence technology capacity for tyranny -
-  "the abyss from which there is no return." While successfully exposing abuses, reforms
-  inadvertently pushed operations into private sector. Public hearings September-October
-  1975 were nationally televised. Final report called "most extensive review of intelligence
-  activities ever made available to the public."
+notes: Church famously warned about intelligence technology capacity for tyranny - "the abyss from which there is no return." While successfully exposing abuses, reforms inadvertently pushed operations into private sector. Public hearings September-October 1975 were nationally televised. Final report called "most extensive review of intelligence activities ever made available to the public."
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

@@ -9,7 +9,7 @@ actors:
 - WellPoint
 - Max Baucus
 - Barack Obama
-- Senate Finance Committee
+- U.S. Senate Finance Committee
 tags:
 - revolving-door
 - regulatory-capture

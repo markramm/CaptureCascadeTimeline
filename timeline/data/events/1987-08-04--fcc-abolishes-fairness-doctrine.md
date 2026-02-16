@@ -1,12 +1,11 @@
 ---
 id: 1987-08-04--fcc-abolishes-fairness-doctrine
 date: '1987-08-04'
-title: Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage
-  Requirements for Broadcasters
+title: Reagan FCC Abolishes Fairness Doctrine in 4-0 Vote, Eliminating Balanced Coverage Requirements for Broadcasters
 importance: 10
 actors:
 - Dennis R. Patrick
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 - Ronald Reagan
 - Mark S. Fowler
 - Mimi Weyforth Dawson
@@ -47,8 +46,7 @@ sources:
   date: '2025-01-01'
   verified: true
   tier: 2
-- title: How Rush Limbaugh's rise after the gutting of the fairness doctrine led to
-    today's highly partisan media
+- title: How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media
   url: https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/
   publication: Poynter Institute
   date: '2024-09-15'

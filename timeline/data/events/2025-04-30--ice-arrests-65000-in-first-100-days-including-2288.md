@@ -12,9 +12,9 @@ tags:
 - immigration-enforcement
 - gang-enforcement
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Donald Trump
-- DHS
+- DHS (Department of Homeland Security)
 - Kristi Noem
 sources:
 - title: 100 days of record-breaking immigration enforcement in the US interior
@@ -26,8 +26,7 @@ sources:
   outlet: DHS
   date: '2025-04-29'
   type: official
-- title: Trump's first 100 days - President focuses on mass deportations, questions
-    on numbers
+- title: Trump's first 100 days - President focuses on mass deportations, questions on numbers
   url: https://abc7.com/post/trumps-first-100-days-president-focuses-mass-deportations/16281388/
   outlet: ABC7 Los Angeles
   date: '2025-04-30'

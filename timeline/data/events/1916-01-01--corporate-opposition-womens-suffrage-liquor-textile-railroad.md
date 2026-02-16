@@ -4,35 +4,35 @@ date: '1916-01-01'
 title: Corporate Interests Mobilize Systematic Opposition to Women's Suffrage to Protect Profits
 importance: 8
 actors:
-  - Liquor Industry
-  - Textile Manufacturers
-  - Railroad Companies
-  - National Association Opposed to Woman Suffrage
+- Liquor Industry
+- Textile Manufacturers
+- Railroad companies
+- National Association Opposed to Woman Suffrage
 tags:
-  - womens-suffrage
-  - corporate-opposition
-  - institutional-resistance
-  - economic-interests
-  - anti-democratic-forces
+- womens-suffrage
+- corporate-opposition
+- institutional-resistance
+- economic-interests
+- anti-democratic-forces
 sources:
-  - title: "The Final Desperate Battle for Suffrage in Tennessee"
-    url: "https://www.nps.gov/articles/000/the-final-desperate-battle-for-suffrage-in-tennesse.htm"
-    outlet: "National Park Service"
-    date: 2025
-    verified: true
-    tier: 1
-  - title: "Anti-Suffragism in the United States"
-    url: "https://www.nps.gov/articles/anti-suffragism-in-the-united-states.htm"
-    outlet: "National Park Service"
-    date: 2025
-    verified: true
-    tier: 1
-  - title: "Women's Suffrage in North Carolina"
-    url: "https://www.ncpedia.org/women-suffrage"
-    outlet: "NCpedia"
-    date: 2025
-    verified: true
-    tier: 2
+- title: The Final Desperate Battle for Suffrage in Tennessee
+  url: https://www.nps.gov/articles/000/the-final-desperate-battle-for-suffrage-in-tennesse.htm
+  outlet: National Park Service
+  date: 2025
+  verified: true
+  tier: 1
+- title: Anti-Suffragism in the United States
+  url: https://www.nps.gov/articles/anti-suffragism-in-the-united-states.htm
+  outlet: National Park Service
+  date: 2025
+  verified: true
+  tier: 1
+- title: Women's Suffrage in North Carolina
+  url: https://www.ncpedia.org/women-suffrage
+  outlet: NCpedia
+  date: 2025
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

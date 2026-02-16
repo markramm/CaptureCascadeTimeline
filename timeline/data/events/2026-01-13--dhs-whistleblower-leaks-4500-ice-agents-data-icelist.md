@@ -4,9 +4,9 @@ date: '2026-01-13'
 title: DHS Whistleblower Leaks Personal Data of 4,500 ICE and Border Patrol Agents
 importance: 8
 actors:
-- DHS
-- ICE
-- CBP
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 - Kristi Noem
 tags:
 - operation-metro-surge

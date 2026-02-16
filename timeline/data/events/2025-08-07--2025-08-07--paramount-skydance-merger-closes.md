@@ -2,7 +2,7 @@
 actors:
 - Skydance
 - Paramount Global
-- FCC
+- Federal Communications Commission
 capture_lanes:
 - Information & Media Control
 citations:
@@ -13,9 +13,7 @@ citations:
 date: '2025-08-07'
 id: 2025-08-07--2025-08-07--paramount-skydance-merger-closes
 importance: 7
-notes: FCC approval came with significant political and media policy conditions. Merger
-  highlights complex regulatory landscape involving media ownership, political influence,
-  and ideological representation.
+notes: FCC approval came with significant political and media policy conditions. Merger highlights complex regulatory landscape involving media ownership, political influence, and ideological representation.
 sources:
 - date: '2025-07-24'
   outlet: Reuters
@@ -27,8 +25,7 @@ sources:
   url: https://www.reuters.com/markets/us/skydance-closes-8-billion-paramount-deal-2025-08-07
 - date: '2025-07-24'
   outlet: Variety
-  title: FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI
-    Pledges
+  title: FCC Approves Paramount-Skydance Deal After Skydance's CBS Ombudsman, Anti-DEI Pledges
   url: https://www.variety.com/2025/tv/news/fcc-approves-paramount-skydance-merger-deal-conditions-1236459974/
 - date: '2025-07-24'
   outlet: CNBC

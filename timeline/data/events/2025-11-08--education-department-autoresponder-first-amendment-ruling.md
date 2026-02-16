@@ -11,7 +11,7 @@ tags:
 - partisan-abuse
 actors:
 - Christopher Cooper
-- Department of Education
+- U.S. Department of Education
 - American Federation of Government Employees
 sources:
 - title: 'Judge: Education Department out-of-office emails violated First Amendment'

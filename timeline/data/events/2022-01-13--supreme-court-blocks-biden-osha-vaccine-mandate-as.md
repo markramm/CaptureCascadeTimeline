@@ -4,10 +4,10 @@ date: '2022-01-13'
 importance: 7
 title: Supreme Court Blocks Biden OSHA Vaccine Mandate as Executive Overreach
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Joe Biden
 - OSHA
-- Department of Labor
+- U.S. Department of Labor
 tags:
 - executive-overreach
 - emergency-powers

@@ -14,7 +14,7 @@ actors:
 - Nancy Pelosi
 - Liz Cheney
 - Adam Kinzinger
-- House of Representatives
+- U.S. House of Representatives
 sources:
 - url: https://www.npr.org/sections/trump-impeachment-effort-live-updates/2021/01/13/956449072/house-impeaches-trump-a-2nd-time-citing-insurrection-at-u-s-capitol
   title: House Impeaches Trump A 2nd Time, Citing Insurrection At U.S. Capitol

@@ -4,9 +4,9 @@ date: '1940-10-08'
 title: Excess Profits Tax Passed with Corporate Lobbying Loopholes
 importance: 7
 actors:
-- Congress
+- U.S. Congress
 - Franklin D. Roosevelt
-- Treasury Department
+- U.S. Treasury Department
 - National Association of Manufacturers
 - U.S. Chamber of Commerce
 tags:

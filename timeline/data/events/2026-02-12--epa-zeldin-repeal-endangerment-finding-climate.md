@@ -5,7 +5,7 @@ status: confirmed
 title: EPA Repeals 2009 Endangerment Finding on Greenhouse Gases
 importance: 10
 actors:
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Lee Zeldin
 - Donald Trump
 tags:

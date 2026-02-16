@@ -7,7 +7,7 @@ location: National
 actors:
 - Trump Administration
 - USDA
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - snap
 - food-assistance

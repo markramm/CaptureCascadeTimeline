@@ -23,7 +23,7 @@ status: confirmed
 type: political
 actors:
 - US Military
-- Coast Guard
+- US Coast Guard
 - SOUTHCOM
 ---
 

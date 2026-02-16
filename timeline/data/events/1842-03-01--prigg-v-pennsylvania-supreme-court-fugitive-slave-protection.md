@@ -4,7 +4,7 @@ date: '1842-03-01'
 title: Prigg v Pennsylvania Supreme Court Ruling Protects Slave Catchers and Enables Kidnapping
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Justice Joseph Story
 - Justice John McLean
 - Edward Prigg

@@ -22,8 +22,8 @@ sources:
 status: confirmed
 type: political
 actors:
-- Border Patrol
-- DHS
+- U.S. Border Patrol
+- DHS (Department of Homeland Security)
 - Luis David Nico Moncada
 - Yorlenys Betzabeth Zambrano-Contreras
 ---

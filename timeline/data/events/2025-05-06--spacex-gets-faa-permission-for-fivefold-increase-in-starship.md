@@ -4,7 +4,7 @@ actors:
 - Trump Administration
 - Elon Musk
 - SpaceX
-- FAA
+- Federal Aviation Administration
 capture_lanes:
 - Systematic Corruption
 - Technological Infrastructure
@@ -13,22 +13,18 @@ connections:
 - SpaceX regulatory capture
 - FAA permissive licensing
 date: '2025-05-06'
-description: The FAA increased SpaceX's allotted starship launches out of Boca Chica,
-  Texas from 5 to 25 annually, with a Finding of No Significant Impact (FONSI) after
-  completing a Tiered Environmental Assessment.
+description: The FAA increased SpaceX's allotted starship launches out of Boca Chica, Texas from 5 to 25 annually, with a Finding of No Significant Impact (FONSI) after completing a Tiered Environmental Assessment.
 id: 2025-05-06--spacex-gets-faa-permission-for-fivefold-increase-in-starship
 importance: 7
 location: Boca Chica, Texas
-notes: Significant expansion of launch permissions with potential regulatory capture
-  implications
+notes: Significant expansion of launch permissions with potential regulatory capture implications
 patterns:
 - kleptocratic-capture
 - regulatory-influence
 sources:
 - date: '2025-05-06'
   outlet: CNBC
-  title: SpaceX gets FAA permission for fivefold increase in Starship launches from
-    Texas
+  title: SpaceX gets FAA permission for fivefold increase in Starship launches from Texas
   url: https://www.cnbc.com/2025/05/06/spacex-gets-faa-permission-for-fivefold-increase-in-launches-in-texas.html?utm_source=substack&utm_medium=email
 - date: '2025-05-07'
   outlet: MyRGV.com
@@ -44,8 +40,7 @@ tags:
 - spacex
 - regulatory-capture
 - technological-infrastructure
-title: SpaceX gets FAA permission for fivefold increase in Starship launches from
-  Texas
+title: SpaceX gets FAA permission for fivefold increase in Starship launches from Texas
 ---
 
 The Federal Aviation Administration granted SpaceX a significant expansion of launch permissions, increasing Starship launch capacity from 5 to 25 annually at the Boca Chica, Texas site. The FAA issued a Finding of No Significant Impact (FONSI) after a Tiered Environmental Assessment, allowing up to 25 launches and 50 landings per year, including nighttime launches and static fire tests.

@@ -5,7 +5,7 @@ title: Truman 21-Point Program Defeated, Corporate Backlash Against New Deal Beg
 importance: 8
 actors:
 - Harry Truman
-- Congress
+- U.S. Congress
 - National Association of Manufacturers
 - U.S. Chamber of Commerce
 - Conservative Coalition

@@ -5,7 +5,7 @@ status: confirmed
 title: Supreme Court Hears Arguments on Presidential Removal Power in Trump v Cook
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - D. John Sauer
 - Brett Kavanaugh

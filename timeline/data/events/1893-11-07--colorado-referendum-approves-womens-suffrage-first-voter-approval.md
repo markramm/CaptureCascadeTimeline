@@ -4,35 +4,35 @@ date: '1893-11-07'
 title: Colorado Voters Approve Women's Suffrage Through Referendum in Historic First
 importance: 7
 actors:
-  - Colorado Voters
-  - Populist Party
-  - Carrie Chapman Catt
-  - Ellis Meredith
+- Colorado voters
+- Populist Party
+- Carrie Chapman Catt
+- Ellis Meredith
 tags:
-  - womens-suffrage
-  - western-suffrage
-  - referendum-victory
-  - populist-movement
-  - democratic-expansion
+- womens-suffrage
+- western-suffrage
+- referendum-victory
+- populist-movement
+- democratic-expansion
 sources:
-  - title: "Which State Had Women's Suffrage First?"
-    url: "https://www.historycolorado.org/story/womens-history/2019/07/25/which-state-had-womens-suffrage-first"
-    outlet: "History Colorado"
-    date: 2025
-    verified: true
-    tier: 2
-  - title: "Woman Suffrage in the West"
-    url: "https://www.nps.gov/articles/woman-suffrage-in-the-west.htm"
-    outlet: "National Park Service"
-    date: 2025
-    verified: true
-    tier: 1
-  - title: "Women's suffrage in the United States"
-    url: "https://en.wikipedia.org/wiki/Women's_suffrage_in_the_United_States"
-    outlet: "Wikipedia"
-    date: 2025
-    verified: true
-    tier: 3
+- title: Which State Had Women's Suffrage First?
+  url: https://www.historycolorado.org/story/womens-history/2019/07/25/which-state-had-womens-suffrage-first
+  outlet: History Colorado
+  date: 2025
+  verified: true
+  tier: 2
+- title: Woman Suffrage in the West
+  url: https://www.nps.gov/articles/woman-suffrage-in-the-west.htm
+  outlet: National Park Service
+  date: 2025
+  verified: true
+  tier: 1
+- title: Women's suffrage in the United States
+  url: https://en.wikipedia.org/wiki/Women's_suffrage_in_the_United_States
+  outlet: Wikipedia
+  date: 2025
+  verified: true
+  tier: 3
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

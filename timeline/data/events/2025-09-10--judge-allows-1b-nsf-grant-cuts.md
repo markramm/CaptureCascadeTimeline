@@ -16,7 +16,7 @@ sources:
   outlet: The Guardian
 actors:
 - Donald Trump
-- DOGE
+- Department of Government Efficiency
 - National Science Foundation
 - Federal Judiciary
 ---

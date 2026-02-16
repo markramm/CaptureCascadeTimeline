@@ -1,13 +1,13 @@
 ---
 id: 2026-01-13--rfk-jr-reshapes-cdc-vaccine-panel-anti-vaccine-appointees
 date: '2026-01-13'
-title: "RFK Jr Reshapes CDC Vaccine Panel with Anti-Vaccine Appointees: 'I Was Not Anti-Vaccine. I Am Now.'"
+title: 'RFK Jr Reshapes CDC Vaccine Panel with Anti-Vaccine Appointees: ''I Was Not Anti-Vaccine. I Am Now.'''
 importance: 8
 actors:
 - Robert F. Kennedy Jr.
 - Kimberly Biss
 - Adam Urato
-- CDC
+- Centers for Disease Control and Prevention
 tags:
 - rfk-jr
 - vaccines
@@ -20,7 +20,7 @@ sources:
   outlet: Fox News
   date: '2026-01-13'
   tier: 1
-- title: "New RFK Jr. pick for vaccine panel: 'I was not anti-vaccine. I am now.'"
+- title: 'New RFK Jr. pick for vaccine panel: ''I was not anti-vaccine. I am now.'''
   url: https://dnyuz.com/2026/01/13/new-rfk-jr-pick-for-vaccine-panel-i-was-not-anti-vaccine-i-am-now/
   outlet: DNYUZ
   date: '2026-01-13'

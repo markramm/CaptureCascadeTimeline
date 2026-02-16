@@ -1,12 +1,8 @@
 ---
 id: 2025-06-03--trump-s-truth-social-takes-step-toward-launching-bitcoin-etf
 date: '2025-06-03'
-title: Trump's Truth Social Takes Step Toward Launching Bitcoin ETF with NYSE Arca
-  Filing
-description: NYSE Arca filed a 19b-4 form with the SEC to list a spot Bitcoin ETF
-  associated with Trump Media & Technology Group's Truth Social platform. The ETF,
-  if approved, would track Bitcoin's price and be part of Trump's growing digital
-  asset strategy.
+title: Trump's Truth Social Takes Step Toward Launching Bitcoin ETF with NYSE Arca Filing
+description: NYSE Arca filed a 19b-4 form with the SEC to list a spot Bitcoin ETF associated with Trump Media & Technology Group's Truth Social platform. The ETF, if approved, would track Bitcoin's price and be part of Trump's growing digital asset strategy.
 importance: 9
 status: confirmed
 location: Washington, D.C.
@@ -16,7 +12,7 @@ actors:
 - Yorkville America Digital
 - Foris DAX Trust Company
 - NYSE Arca
-- SEC
+- Securities and Exchange Commission
 tags:
 - crypto
 - media-control
@@ -32,13 +28,11 @@ capture_lanes:
 sources:
 - date: '2025-06-03'
   outlet: CNBC
-  title: Trump's Truth Social takes step toward launching bitcoin ETF with NYSE Arca
-    filing
+  title: Trump's Truth Social takes step toward launching bitcoin ETF with NYSE Arca filing
   url: https://www.cnbc.com/2025/06/03/trump-truth-social-step-toward-bitcoin-etf-launch-with-new-nyse-filing.html
 - date: '2025-06-03'
   outlet: CoinDesk
-  title: US President Donald Trump's Social Media Firm Truth Social to Launch Spot
-    BTC ETF
+  title: US President Donald Trump's Social Media Firm Truth Social to Launch Spot BTC ETF
   url: https://www.coindesk.com/markets/2025/06/03/us-president-donald-trumps-social-media-firm-truth-social-to-launch-spot-bitcoin-etf
 - date: '2025-06-03'
   outlet: Bloomberg
@@ -56,8 +50,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - media-financial-integration
-notes: ETF filing represents a strategic expansion of Trump's media and financial
-  ventures
+notes: ETF filing represents a strategic expansion of Trump's media and financial ventures
 validation_metadata:
   last_corrected: '2025-10-07T05:15:00.000Z'
   corrected_by: qa-agent-156

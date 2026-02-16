@@ -1,11 +1,10 @@
 ---
 id: 2025-12-30--dhs-year-end-enforcement-statistics-record-arrests
 date: '2025-12-30'
-title: DHS Announces Record Immigration Enforcement Numbers, Promotes Self-Deportation
-  Incentive
+title: DHS Announces Record Immigration Enforcement Numbers, Promotes Self-Deportation Incentive
 importance: 7
 actors:
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - U.S. Immigration and Customs Enforcement
 - Kristi Noem
 tags:

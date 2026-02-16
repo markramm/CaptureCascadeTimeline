@@ -16,7 +16,7 @@ sources:
   outlet: Reuters
 actors:
 - Consumer Financial Protection Bureau
-- Congress
+- U.S. Congress
 - Donald Trump
 - Rohit Chopra
 ---

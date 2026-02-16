@@ -4,10 +4,10 @@ date: '2000-03-10'
 title: Dot-Com Bubble Peaks, Exposes IPO Fraud and Analyst Conflicts
 importance: 9
 actors:
-- Investment Banks
+- Investment banks
 - Securities Analysts
-- SEC
-- NASDAQ
+- Securities and Exchange Commission
+- Nasdaq
 - Venture Capitalists
 - Tech Startups
 sources:

@@ -6,7 +6,7 @@ importance: 10
 actors:
 - Do Kwon
 - Terraform Labs
-- SEC
+- Securities and Exchange Commission
 - CFTC
 - Paul Engelmayer
 - Montenegro

@@ -9,7 +9,7 @@ actors:
 - David Iglesias
 - Carol Lam
 - George W. Bush
-- Congress
+- U.S. Congress
 tags:
 - obstruction-of-justice
 - political-prosecution

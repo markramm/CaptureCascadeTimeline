@@ -5,7 +5,7 @@ title: 'Voting Rights Act Extension of 1975: Expands Protection to Language Mino
 importance: 7
 actors:
 - Gerald Ford
-- Congress
+- U.S. Congress
 - Barbara Jordan
 - Edward Roybal
 - Mexican American Legal Defense and Educational Fund
@@ -17,7 +17,7 @@ tags:
 - native-american-rights
 - asian-american-rights
 sources:
-- title: 'Voting Rights Act Amendments of 1975'
+- title: Voting Rights Act Amendments of 1975
   url: https://www.justice.gov/crt/history-federal-voting-rights-laws
   outlet: U.S. Department of Justice
   tier: 1
@@ -25,7 +25,7 @@ sources:
   url: https://crsreports.congress.gov/product/pdf/R/R43626
   outlet: Congressional Research Service
   tier: 1
-- title: 'Section 203 of the Voting Rights Act'
+- title: Section 203 of the Voting Rights Act
   url: https://www.brennancenter.org/our-work/research-reports/section-203-voting-rights-act
   outlet: Brennan Center for Justice
   tier: 2

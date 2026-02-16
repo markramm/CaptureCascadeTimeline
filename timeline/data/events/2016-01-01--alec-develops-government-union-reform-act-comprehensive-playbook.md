@@ -4,7 +4,7 @@ date: '2016-01-01'
 title: ALEC Develops Comprehensive Government Union Reform Act as All-in-One Union Elimination Playbook
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Bob Onder
 - Missouri GOP
 - corporate ALEC members

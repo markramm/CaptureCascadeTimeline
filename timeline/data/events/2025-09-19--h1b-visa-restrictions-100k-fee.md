@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Donald Trump
 - White House
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - executive-power
 - presidential-authority

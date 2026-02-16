@@ -4,9 +4,9 @@ date: '2025-10-15'
 title: Supreme Court Reargues Louisiana v. Callais, Threatens Voting Rights Act
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Louisiana
-- ACLU
+- American Civil Liberties Union
 - NAACP Legal Defense Fund
 - Cleo Fields
 tags:

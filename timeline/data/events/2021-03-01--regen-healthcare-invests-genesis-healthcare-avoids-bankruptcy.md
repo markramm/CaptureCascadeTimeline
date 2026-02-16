@@ -9,7 +9,7 @@ actors:
 - ReGen Healthcare
 - Joel Landau
 - David Gefner
-- Centers for Medicare and Medicaid Services
+- Centers for Medicare & Medicaid Services
 tags:
 - healthcare
 - nursing-home

@@ -6,8 +6,8 @@ importance: 8
 status: confirmed
 actors:
 - Celsius Network
-- SEC
-- FTC
+- Securities and Exchange Commission
+- Federal Trade Commission
 - Three Arrows Capital
 - Voyager Digital
 - Alex Mashinsky

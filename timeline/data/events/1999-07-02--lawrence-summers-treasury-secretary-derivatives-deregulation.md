@@ -8,7 +8,7 @@ actors:
 - Bill Clinton
 - Robert Rubin
 - U.S. Senate
-- Wall Street Derivatives Dealers
+- Wall Street derivatives dealers
 tags:
 - treasury
 - derivatives
@@ -22,12 +22,12 @@ capture_lanes:
 - Financial Capture
 location: Washington, D.C.
 sources:
-- title: 'Lawrence Summers (1999-2001)'
+- title: Lawrence Summers (1999-2001)
   url: https://home.treasury.gov/about/history/prior-secretaries/lawrence-summers-1999-2001
   outlet: U.S. Department of the Treasury
   date: '1999-07-02'
   tier: 1
-- title: 'Lawrence Summers'
+- title: Lawrence Summers
   url: https://en.wikipedia.org/wiki/Lawrence_Summers
   outlet: Wikipedia
   date: '2024'
@@ -37,7 +37,7 @@ sources:
   outlet: The American Prospect
   date: '2013-09-13'
   tier: 2
-- title: 'Regulators Back Derivatives Deregulation'
+- title: Regulators Back Derivatives Deregulation
   url: https://www.chicagotribune.com/news/ct-xpm-2000-02-11-0002110380-story.html
   outlet: Chicago Tribune
   date: '2000-02-11'

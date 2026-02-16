@@ -14,8 +14,8 @@ tags:
 - illinois
 - catholic-church
 actors:
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Michael Pfleger
 - Thomas Mills
 - Tricia McGlaughlin

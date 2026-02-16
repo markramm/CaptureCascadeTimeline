@@ -9,7 +9,7 @@ location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- SEC
+- Securities and Exchange Commission
 - SEC Division of Corporation Finance
 tags:
 - crypto

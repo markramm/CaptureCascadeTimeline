@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - The New York Times
 - Pete Hegseth
-- Department of Defense
+- U.S. Department of Defense
 - NPR
 - PBS
 - Theodore J. Boutrous Jr.

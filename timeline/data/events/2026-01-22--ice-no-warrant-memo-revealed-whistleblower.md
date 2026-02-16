@@ -6,7 +6,7 @@ importance: 10
 status: confirmed
 actors:
 - Todd Lyons
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Kristi Noem
 - Richard Blumenthal
 - JD Vance

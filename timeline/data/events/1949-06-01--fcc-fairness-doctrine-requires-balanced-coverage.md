@@ -1,11 +1,10 @@
 ---
 id: 1949-06-01--fcc-fairness-doctrine-requires-balanced-coverage
 date: '1949-06-01'
-title: FCC Establishes Fairness Doctrine Requiring Broadcasters to Present Balanced
-  Coverage of Controversial Issues
+title: FCC Establishes Fairness Doctrine Requiring Broadcasters to Present Balanced Coverage of Controversial Issues
 importance: 9
 actors:
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 - U.S. Congress
 tags:
 - media-regulation

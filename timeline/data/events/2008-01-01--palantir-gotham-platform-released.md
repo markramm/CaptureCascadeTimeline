@@ -7,7 +7,7 @@ importance: 9
 actors:
 - Palantir Technologies
 - Central Intelligence Agency
-- intelligence community
+- Intelligence Community
 tags:
 - palantir
 - palantir-gotham

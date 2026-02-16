@@ -6,7 +6,7 @@ title: Brendan Carr chairs FCC after writing Project 2025 FCC chapter
 location: Washington, DC
 actors:
 - Brendan Carr
-- FCC
+- Federal Communications Commission
 - Trump Administration
 - Heritage Foundation
 tags:
@@ -25,13 +25,11 @@ sources:
   url: https://www.nbcnews.com/politics/donald-trump/trump-brendan-carr-federal-communications-commission-rcna180567
   outlet: NBC News
   date: '2024-11-17'
-- title: Trump's FCC pick, Brendan Carr, wrote Project 2025's chapter on the agency.
-    Here's what he wants.
+- title: Trump's FCC pick, Brendan Carr, wrote Project 2025's chapter on the agency. Here's what he wants.
   url: https://www.cbsnews.com/news/trump-fcc-brendan-carr-project-2025-what-to-know/
   outlet: CBS News
   date: '2024-11-18'
-- title: Brendan Carr wrote the FCC chapter in 'Project 2025.' Now he's Trump's pick
-    to lead the agency
+- title: Brendan Carr wrote the FCC chapter in 'Project 2025.' Now he's Trump's pick to lead the agency
   url: https://www.cnn.com/2024/11/18/media/brendan-carr-trump-fcc-nominee-project-2025/index.html
   outlet: CNN
   date: '2024-11-18'

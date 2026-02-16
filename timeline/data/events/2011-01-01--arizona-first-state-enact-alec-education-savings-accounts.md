@@ -5,7 +5,7 @@ title: Arizona Becomes First State to Enact ALEC-Inspired Education Savings Acco
 importance: 8
 actors:
 - Jan Brewer
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - ALEC Education Task Force
 - Goldwater Institute
 - K12 Inc.

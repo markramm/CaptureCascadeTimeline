@@ -5,7 +5,7 @@ title: 'Help America Vote Act Signed: Provisional Ballots, Voter ID, and Electro
 importance: 7
 actors:
 - George W. Bush
-- Election Assistance Commission
+- U.S. Election Assistance Commission
 tags:
 - election manipulation
 - voter suppression

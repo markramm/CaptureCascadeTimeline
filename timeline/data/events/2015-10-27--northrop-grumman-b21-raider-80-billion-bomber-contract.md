@@ -7,10 +7,10 @@ status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force
-- Department of Defense
+- U.S. Department of Defense
 - Boeing
 - Lockheed Martin
-- Government Accountability Office
+- U.S. Government Accountability Office
 tags:
 - military-industrial complex
 - defense contractors

@@ -7,7 +7,7 @@ importance: 7
 actors:
 - Robert F. Kennedy Jr.
 - Centers for Disease Control and Prevention
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - healthcare
 - public-health

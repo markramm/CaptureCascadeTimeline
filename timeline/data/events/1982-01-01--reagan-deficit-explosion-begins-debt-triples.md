@@ -7,9 +7,9 @@ importance: 9
 location: United States
 actors:
 - Ronald Reagan
-- Congress
+- U.S. Congress
 - Office of Management and Budget
-- Department of Treasury
+- Department of the Treasury
 tags:
 - deficit
 - national-debt
@@ -17,17 +17,17 @@ tags:
 - fiscal-policy
 - supply-side-economics
 sources:
-- title: 'This Republican President Nearly Tripled U.S. Debt'
+- title: This Republican President Nearly Tripled U.S. Debt
   url: https://247wallst.com/economy/2025/03/12/this-republican-president-nearly-tripled-the-u-s-debt-during-his-time-in-office/
   outlet: 24/7 Wall St
   date: '2025-03-12'
   verified: true
-- title: 'Reaganomics'
+- title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'U.S. Presidents and the Federal Deficit'
+- title: U.S. Presidents and the Federal Deficit
   url: https://amarkfoundation.org/reports/u-s-presidents-and-the-federal-deficit/
   outlet: A-Mark Foundation
   date: '2024-01-01'

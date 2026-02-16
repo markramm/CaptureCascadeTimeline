@@ -1,12 +1,11 @@
 ---
 id: 2025-12-26--mandatory-biometric-collection-noncitizens-begins
 date: '2025-12-26'
-title: DHS Implements Mandatory Biometric Collection for All Non-Citizens at U.S.
-  Borders
+title: DHS Implements Mandatory Biometric Collection for All Non-Citizens at U.S. Borders
 importance: 7
 actors:
-- Department of Homeland Security
-- Customs and Border Protection (CBP)
+- U.S. Department of Homeland Security
+- U.S. Customs and Border Protection
 - Kristi Noem
 tags:
 - immigration

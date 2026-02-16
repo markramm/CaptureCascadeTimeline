@@ -6,7 +6,7 @@ importance: 8
 actors:
 - James Forrestal
 - Harry Truman
-- Department of Defense
+- U.S. Department of Defense
 - Dillon, Read & Co.
 tags:
 - military-industrial-complex

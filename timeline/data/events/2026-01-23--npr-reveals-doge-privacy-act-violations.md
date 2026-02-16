@@ -5,7 +5,7 @@ status: confirmed
 title: NPR Report Reveals Trump Administration Admits DOGE Accessed Personal Social Security Data Beyond Legal Authority
 importance: 8
 actors:
-- DOGE
+- Department of Government Efficiency
 - Social Security Administration
 - Chuck Borges
 - NPR

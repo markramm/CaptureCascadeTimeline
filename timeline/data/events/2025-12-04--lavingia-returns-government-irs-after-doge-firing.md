@@ -8,10 +8,10 @@ actors:
 - Sahil Lavingia
 - Sam Corcos
 - Elon Musk
-- Department of Government Efficiency (DOGE)
-- Internal Revenue Service (IRS)
+- Department of Government Efficiency
+- Internal Revenue Service
 - Department of Veterans Affairs
-- Department of Treasury
+- Department of the Treasury
 tags:
 - doge
 - irs

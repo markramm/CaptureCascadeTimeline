@@ -6,8 +6,8 @@ title: CFPB offices ordered closed, staff told cannot perform work tasks
 location: Washington, DC
 actors:
 - Russell Vought
-- CFPB
-- Rohit Chopra (fired director)
+- Consumer Financial Protection Bureau
+- Rohit Chopra
 tags:
 - consumer-protection
 - agency-shutdown
@@ -16,8 +16,7 @@ tags:
 capture_lanes:
 - Executive Power & Emergency Authority
 sources:
-- title: The Trump administration has stopped work at the CFPB. Here's what the agency
-    does
+- title: The Trump administration has stopped work at the CFPB. Here's what the agency does
   url: https://www.npr.org/2025/02/10/nx-s1-5292123/the-trump-administration-has-stopped-work-at-the-cfpb-heres-what-the-agency-does
   outlet: NPR
   date: '2025-02-10'
@@ -34,10 +33,7 @@ sources:
   outlet: Federal News Network
   date: '2025-08-01'
   archive_url: https://web.archive.org/web/20240101000000/https://federalnewsnetwork.com/workforce/2025/08/cfpb-can-proceed-with-mass-layoffs-federal-appeals-court-rules/
-notes: CFPB workforce faces 95% reduction targets. Feb 14 federal judge temporarily
-  blocked layoffs. August appeals court allowed Trump to proceed with dismantling.
-  Plans to delete entire CFPB databases, return funding to Federal Reserve. Created
-  2011 after 2008 financial crisis, returned $21B+ to consumers through enforcement.
+notes: CFPB workforce faces 95% reduction targets. Feb 14 federal judge temporarily blocked layoffs. August appeals court allowed Trump to proceed with dismantling. Plans to delete entire CFPB databases, return funding to Federal Reserve. Created 2011 after 2008 financial crisis, returned $21B+ to consumers through enforcement.
 status: confirmed
 ---
 

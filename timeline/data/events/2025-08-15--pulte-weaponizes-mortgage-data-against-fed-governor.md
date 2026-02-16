@@ -2,14 +2,7 @@
 id: 2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor
 date: '2025-08-15'
 title: FHFA Director Pulte Uses Mortgage Data to Target Fed Governor Lisa Cook
-description: Federal Housing Finance Agency Director William Pulte sends criminal
-  referral to DOJ accusing Federal Reserve Governor Lisa Cook of mortgage fraud based
-  on her 2021 mortgage applications. Pulte, who oversees Fannie Mae and Freddie Mac,
-  accessed Cook's private mortgage documents showing she listed properties in Michigan
-  and Georgia as primary residences two weeks apart. This represents unprecedented
-  weaponization of government mortgage databases against political opponents, with
-  Pulte having made similar accusations against Senator Adam Schiff and NY AG Letitia
-  James. Cook is the first Black woman to serve on the Federal Reserve Board.
+description: Federal Housing Finance Agency Director William Pulte sends criminal referral to DOJ accusing Federal Reserve Governor Lisa Cook of mortgage fraud based on her 2021 mortgage applications. Pulte, who oversees Fannie Mae and Freddie Mac, accessed Cook's private mortgage documents showing she listed properties in Michigan and Georgia as primary residences two weeks apart. This represents unprecedented weaponization of government mortgage databases against political opponents, with Pulte having made similar accusations against Senator Adam Schiff and NY AG Letitia James. Cook is the first Black woman to serve on the Federal Reserve Board.
 importance: 9
 tags:
 - william-pulte
@@ -24,10 +17,10 @@ tags:
 - racial-targeting
 actors:
 - William Pulte
-- lisa-cook
-- federal-reserve
+- Lisa Cook
+- Federal Reserve
 - fhfa
-- department-of-justice
+- Department of Justice
 capture_lane: economic
 status: confirmed
 sources:
@@ -42,8 +35,7 @@ sources:
 - outlet: Yahoo News
   date: '2025-08-20'
   url: https://www.yahoo.com/news/articles/trump-donor-now-regulator-leads-202937719.html
-  title: A Trump donor, now a regulator, leads effort to accuse president's foes of
-    mortgage fraud
+  title: A Trump donor, now a regulator, leads effort to accuse president's foes of mortgage fraud
 connections:
 - 2025-08-25--trump-fires-lisa-cook-fed
 - 2025-03-14--william-pulte-sworn-fhfa
@@ -53,13 +45,7 @@ patterns:
 - financial-surveillance
 - political-persecution
 - regulatory-capture
-notes: This marks unprecedented use of government mortgage databases for political
-  targeting. Pulte accessed private financial records through FHFA's oversight of
-  Fannie Mae and Freddie Mac, which process most US mortgages. The targeting of Cook,
-  the first Black woman on the Fed Board, occurs amid Fed's refusal to cut interest
-  rates as Trump demands. Pattern shows systematic use of mortgage application technicalities
-  (primary residence declarations) to manufacture criminal referrals against political
-  opponents.
+notes: This marks unprecedented use of government mortgage databases for political targeting. Pulte accessed private financial records through FHFA's oversight of Fannie Mae and Freddie Mac, which process most US mortgages. The targeting of Cook, the first Black woman on the Fed Board, occurs amid Fed's refusal to cut interest rates as Trump demands. Pattern shows systematic use of mortgage application technicalities (primary residence declarations) to manufacture criminal referrals against political opponents.
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

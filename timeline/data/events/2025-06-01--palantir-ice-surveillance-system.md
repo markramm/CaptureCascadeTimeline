@@ -2,12 +2,11 @@
 id: 2025-06-01--palantir-ice-surveillance-system
 date: '2025-06-01'
 importance: 9
-title: Palantir builds $30M AI surveillance system linking IRS, Social Security, and
-  immigration data for ICE
+title: Palantir builds $30M AI surveillance system linking IRS, Social Security, and immigration data for ICE
 location: United States
 actors:
 - Palantir Technologies
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Peter Thiel
 - Sen. Ron Wyden
 - Rep. Alexandria Ocasio-Cortez
@@ -21,13 +20,11 @@ capture_lanes:
 - Information & Media Control
 - Corporate Capture & Regulatory Breakdown
 sources:
-- title: ICE to Use ImmigrationOS by Palantir, a New AI System, to Track Immigrants'
-    Movements
+- title: ICE to Use ImmigrationOS by Palantir, a New AI System, to Track Immigrants' Movements
   url: https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/
   outlet: American Immigration Council
   date: '2025-06-13'
-- title: Democrats demand details from Palantir on federal contracts after Social
-    Security, IRS report
+- title: Democrats demand details from Palantir on federal contracts after Social Security, IRS report
   url: https://thehill.com/policy/technology/5355388-democrats-request-data-from-palantir/
   outlet: The Hill
   date: '2025-06-14'
@@ -35,10 +32,7 @@ sources:
   url: https://fedscoop.com/palantir-irs-mega-database-democrats-letter/
   outlet: FedScoop
   date: '2025-06-15'
-notes: The Trump administration spent $113 million on Palantir contracts with DHS
-  and Pentagon by May 2025, plus $795 million with DOD. Between 2020-2024, Palantir
-  received $228-542 million annually in government contracts. The data integration
-  violates privacy laws designed to keep tax and immigration records separate.
+notes: The Trump administration spent $113 million on Palantir contracts with DHS and Pentagon by May 2025, plus $795 million with DOD. Between 2020-2024, Palantir received $228-542 million annually in government contracts. The data integration violates privacy laws designed to keep tax and immigration records separate.
 status: confirmed
 ---
 

@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Donald Trump
 - White House
-- Department of Commerce
+- U.S. Department of Commerce
 - Department of State
 tags:
 - executive-overreach
@@ -21,7 +21,7 @@ sources:
   date: '2026-02-06'
   tier: 1
 - url: https://www.thompsonhinesmartrade.com/2026/02/president-trump-issues-executive-order-to-address-continuing-threats-by-iran/
-  title: 'President Trump Issues Executive Order to Address Continuing Threats by Iran'
+  title: President Trump Issues Executive Order to Address Continuing Threats by Iran
   outlet: Thompson Hine
   date: '2026-02-06'
   tier: 2

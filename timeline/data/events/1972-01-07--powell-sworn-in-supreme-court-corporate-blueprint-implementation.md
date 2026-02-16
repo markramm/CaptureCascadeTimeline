@@ -1,14 +1,13 @@
 ---
 id: 1972-01-07--powell-sworn-in-supreme-court-corporate-blueprint-implementation
 date: '1972-01-07'
-title: Lewis Powell Sworn in as Supreme Court Justice, Begins Implementing Corporate
-  Blueprint
+title: Lewis Powell Sworn in as Supreme Court Justice, Begins Implementing Corporate Blueprint
 importance: 9
 location: Washington, D.C.
 actors:
 - Lewis F. Powell Jr.
 - Richard Nixon
-- Supreme Court
+- U.S. Supreme Court
 - U.S. Senate
 tags:
 - powell-supreme-court

@@ -2,11 +2,7 @@
 id: 2025-01-26--kristi-noem-80k-dark-money-homeland
 date: '2025-01-26'
 title: DHS Secretary Kristi Noem Secretly Received $80,000 Dark Money Cut While Governor
-description: Homeland Security Secretary Kristi Noem secretly received $80,000 from
-  dark money fund - a 10% cut of funds she raised - which she failed to disclose on
-  federal ethics forms. Previously used governor's office to intervene in daughter's
-  denied real estate appraiser license and used state funds for personal trips. Pattern
-  of monetizing public office continues at DHS overseeing $90 billion budget.
+description: Homeland Security Secretary Kristi Noem secretly received $80,000 from dark money fund - a 10% cut of funds she raised - which she failed to disclose on federal ethics forms. Previously used governor's office to intervene in daughter's denied real estate appraiser license and used state funds for personal trips. Pattern of monetizing public office continues at DHS overseeing $90 billion budget.
 importance: 7
 tags:
 - kristi-noem
@@ -18,8 +14,8 @@ tags:
 - financial-disclosure
 - corruption
 actors:
-- kristi-noem
-- Department of Homeland Security
+- Kristi Noem
+- U.S. Department of Homeland Security
 - Dark money groups
 capture_lane: political
 status: confirmed
@@ -48,12 +44,7 @@ patterns:
 - dark-money
 - ethics-violations
 - monetizing-office
-notes: Noem's secret $80,000 dark money payments reveal pattern of treating public
-  office as personal ATM. Taking 10% cut of funds raised echoes mob protection rackets.
-  Previous abuse includes forcing state officials to approve daughter's denied appraiser
-  license and using state plane for personal trips. Failure to disclose on federal
-  forms suggests consciousness of guilt. Now oversees $90 billion DHS budget with
-  massive contracting opportunities for enrichment.
+notes: Noem's secret $80,000 dark money payments reveal pattern of treating public office as personal ATM. Taking 10% cut of funds raised echoes mob protection rackets. Previous abuse includes forcing state officials to approve daughter's denied appraiser license and using state plane for personal trips. Failure to disclose on federal forms suggests consciousness of guilt. Now oversees $90 billion DHS budget with massive contracting opportunities for enrichment.
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

@@ -8,19 +8,14 @@ actors:
 - Paramount Global
 - Skydance Media
 - David Ellison
-- FCC
+- Federal Communications Commission
 tags:
 - media-consolidation
 - merger-completion
 - paramount-skydance
 - media-ownership
 - fcc-approval-outcome
-notes: 'Merger followed controversial FCC approval conditions: DEI elimination, CBS
-  News ombudsman for bias, $16M Trump library payment. David Ellison now controls
-  CBS, Paramount+, MTV, Comedy Central, Nickelodeon. Timing linked to CBS ''60 Minutes''
-  lawsuit settlement. Larry Ellison (Oracle founder, Trump ally) is David''s father.
-  Major media consolidation under Trump ally ownership. New ticker PSKY represents
-  concentrated media control.'
+notes: 'Merger followed controversial FCC approval conditions: DEI elimination, CBS News ombudsman for bias, $16M Trump library payment. David Ellison now controls CBS, Paramount+, MTV, Comedy Central, Nickelodeon. Timing linked to CBS ''60 Minutes'' lawsuit settlement. Larry Ellison (Oracle founder, Trump ally) is David''s father. Major media consolidation under Trump ally ownership. New ticker PSKY represents concentrated media control.'
 status: confirmed
 sources:
 - title: Paramount closes $8B merger with Skydance after settling '60 Minutes' lawsuit

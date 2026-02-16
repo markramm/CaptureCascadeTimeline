@@ -11,9 +11,9 @@ tags:
 - corporate-negligence
 actors:
 - Ryan Maseth
-- KBR
+- Kellogg Brown & Root (KBR)
 - Halliburton
-- Department of Defense
+- U.S. Department of Defense
 - Defense Contract Management Agency
 - Army Criminal Investigations
 - Pentagon Inspector General

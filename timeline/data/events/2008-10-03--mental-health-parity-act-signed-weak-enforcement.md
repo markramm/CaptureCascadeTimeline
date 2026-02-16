@@ -7,7 +7,7 @@ actors:
 - George W. Bush
 - Paul Wellstone
 - Pete Domenici
-- Department of Labor
+- U.S. Department of Labor
 - Employee Benefits Security Administration
 - Health insurance industry
 tags:

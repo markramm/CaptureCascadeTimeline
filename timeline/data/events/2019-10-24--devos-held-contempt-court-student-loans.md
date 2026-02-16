@@ -12,7 +12,7 @@ tags:
 actors:
 - Betsy DeVos
 - Sallie Kim
-- Department of Education
+- U.S. Department of Education
 sources:
 - url: https://www.npr.org/2019/10/25/773334681/devos-held-in-contempt-of-court-ed-department-fined-100-000-in-student-loan-case
   title: DeVos Held In Contempt Of Court For Enforcing Loans On Defrauded College Students

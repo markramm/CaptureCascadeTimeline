@@ -1,12 +1,11 @@
 ---
 id: 2014-06-01--fda-buenconsejo-revolving-door-astrazeneca
 date: '2014-06-01'
-title: FDA Statistician Joan Buenconsejo Joins AstraZeneca After Overseeing Company
-  Drug Reviews
+title: FDA Statistician Joan Buenconsejo Joins AstraZeneca After Overseeing Company Drug Reviews
 importance: 7
 actors:
 - Joan Buenconsejo
-- FDA
+- Food and Drug Administration
 - AstraZeneca
 - Center for Drug Evaluation and Research
 tags:
@@ -20,8 +19,7 @@ capture_lanes:
 - Intelligence Penetration
 sources:
 - outlet: Science Magazine
-  title: 'FDA''s revolving door: Companies often hire agency staffers who managed
-    their successful drug reviews'
+  title: 'FDA''s revolving door: Companies often hire agency staffers who managed their successful drug reviews'
   url: https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful
 - outlet: Anti-Empire
   title: For Big Pharma, the Revolving Door Keeps Spinning

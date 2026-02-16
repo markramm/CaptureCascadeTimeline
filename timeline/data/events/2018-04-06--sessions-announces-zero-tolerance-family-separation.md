@@ -7,8 +7,8 @@ actors:
 - Jeff Sessions
 - Donald Trump
 - Stephen Miller
-- DHS
-- ICE
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
 tags:
 - family-separation
 - human-rights

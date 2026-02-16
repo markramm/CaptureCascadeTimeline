@@ -5,10 +5,10 @@ status: confirmed
 title: ACLU Files Class Action Against ICE for Racial Profiling in Minnesota
 importance: 7
 actors:
-- ACLU
-- ICE
-- DHS
-- CBP
+- American Civil Liberties Union
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
+- U.S. Customs and Border Protection
 tags:
 - immigration-enforcement
 - civil-rights

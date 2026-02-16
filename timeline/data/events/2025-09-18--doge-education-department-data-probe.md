@@ -11,7 +11,7 @@ tags:
 - conflicts-of-interest
 actors:
 - Elon Musk
-- DOGE
+- Department of Government Efficiency
 - Education Department
 - Inspector General
 sources:

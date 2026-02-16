@@ -12,7 +12,7 @@ tags:
 - maria-butina
 - alexander-torshin
 actors:
-- Senate Finance Committee
+- U.S. Senate Finance Committee
 - Ron Wyden
 - National Rifle Association
 - Maria Butina

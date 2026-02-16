@@ -21,7 +21,7 @@ status: confirmed
 type: political
 actors:
 - Stephen Miller
-- USCIS
+- U.S. Citizenship and Immigration Services
 - Ilhan Omar
 - Zohran Mamdani
 ---

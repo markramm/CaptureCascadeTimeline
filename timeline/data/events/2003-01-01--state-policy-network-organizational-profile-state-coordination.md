@@ -13,7 +13,7 @@ actors:
 - Texas Public Policy Foundation
 - Illinois Policy Institute
 - Heritage Foundation
-- ALEC
+- American Legislative Exchange Council
 tags:
 - organizational-profile
 - state-policy-coordination

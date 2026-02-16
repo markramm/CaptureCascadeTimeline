@@ -6,9 +6,9 @@ title: Halliburton Gets 9.5B Iraq Contracts with Cheney Ties
 actors:
 - Dick Cheney
 - Halliburton
-- KBR
+- Kellogg Brown & Root (KBR)
 - Bunnatine Greenhouse
-- Army Corps of Engineers
+- U.S. Army Corps of Engineers
 - George W. Bush
 tags:
 - iraq-war

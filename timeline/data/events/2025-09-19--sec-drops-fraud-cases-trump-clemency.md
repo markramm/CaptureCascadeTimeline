@@ -15,7 +15,7 @@ actors:
 - Devon Archer
 - Trevor Milton
 - Carlos Watson
-- SEC
+- Securities and Exchange Commission
 - Donald Trump
 sources:
 - title: SEC Drops Cases Against Businessmen Granted Clemency by Trump

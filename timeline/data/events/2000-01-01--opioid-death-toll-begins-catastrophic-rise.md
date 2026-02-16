@@ -6,7 +6,7 @@ importance: 10
 actors:
 - Purdue Pharma
 - Sackler Family
-- FDA
+- Food and Drug Administration
 - DEA
 - Pharmaceutical Industry
 tags:

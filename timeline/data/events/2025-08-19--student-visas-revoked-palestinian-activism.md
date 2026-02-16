@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - State Department
 - Marco Rubio
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - weaponization
 - institutional-capture

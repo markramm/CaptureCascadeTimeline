@@ -16,10 +16,10 @@ tags:
 - institutional-capture
 actors:
 - Trump Administration
-- OPM
+- Office of Personnel Management
 - Department of Interior
 - forest-service
-- CFPB
+- Consumer Financial Protection Bureau
 - sba
 capture_lane: political
 status: confirmed

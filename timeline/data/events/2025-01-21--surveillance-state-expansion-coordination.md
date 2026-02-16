@@ -8,10 +8,10 @@ actors:
 - NSA
 - FBI
 - White House
-- Tech Companies
-- Congress
+- Tech companies
+- U.S. Congress
 - Brennan Center for Justice
-- ACLU
+- American Civil Liberties Union
 sources:
 - title: Surveillance Oversight Analysis
   url: https://surveillancetracker.org

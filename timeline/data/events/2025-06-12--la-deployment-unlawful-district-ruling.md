@@ -8,7 +8,7 @@ actors:
 - U.S. District Court (N.D. Cal.)
 - State of California
 - Governor Gavin Newsom
-- Department of Defense
+- U.S. Department of Defense
 - 2nd Battalion, 7th Marines
 - California National Guard
 - Trump Administration
@@ -28,11 +28,7 @@ citations:
 - https://www.courthousenews.com/california-gets-a-win-in-challenge-to-national-guard-deployment
 - https://www.npr.org/2025/09/02/nx-s1-5525647/a-california-judge-rules-that-trumps-deployment-of-the-guard-to-la-was-illegal
 - https://www.nbcnews.com/news/us-news/judge-rules-trump-illegally-deployed-national-guard-l-rcna224779
-notes: This ruling came after the June 7 military deployment to LA and preceded the
-  June 19 Ninth Circuit stay. The deployment included 700 Marines from 2/7 and federalized
-  CA National Guard over Governor Newsom's objections. Part of broader pattern of
-  using military for domestic law enforcement. Final September ruling definitively
-  blocked military involvement in domestic law enforcement.
+notes: This ruling came after the June 7 military deployment to LA and preceded the June 19 Ninth Circuit stay. The deployment included 700 Marines from 2/7 and federalized CA National Guard over Governor Newsom's objections. Part of broader pattern of using military for domestic law enforcement. Final September ruling definitively blocked military involvement in domestic law enforcement.
 status: confirmed
 sources:
 - title: Judge casts doubt on military deployment to California

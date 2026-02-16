@@ -7,7 +7,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Elon Musk
-- Department of Commerce
+- U.S. Department of Commerce
 - Howard Lutnick
 sources:
 - date: '2025-04-01'

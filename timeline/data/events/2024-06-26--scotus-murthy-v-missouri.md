@@ -1,18 +1,17 @@
 ---
 id: 2024-06-26--scotus-murthy-v-missouri
-title: 'SCOTUS: Plaintiffs lack standing in social-media coercion case (Murthy v.
-  Missouri)'
+title: 'SCOTUS: Plaintiffs lack standing in social-media coercion case (Murthy v. Missouri)'
 date: '2024-06-26'
 importance: 6
 location: Washington, DC
 actors:
 - Supreme Court of the United States
-- Justice Amy Coney Barrett (majority opinion)
-- Justice Samuel Alito (dissent)
+- Justice Amy Coney Barrett
+- Justice Samuel Alito
 - Justice Clarence Thomas (dissent)
 - Justice Neil Gorsuch (dissent)
 - Missouri (plaintiff state)
-- Louisiana (plaintiff state)
+- Louisiana
 tags:
 - courts
 - social-media
@@ -29,9 +28,7 @@ citations:
 - 23-411 Murthy v. Missouri (2024)
 - https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf
 - https://firstamendment.mtsu.edu/article/murthy-v-missouri-2024
-notes: Originally filed as Missouri v. Biden. Case involved allegations of government
-  pressure on platforms to censor COVID-19 content. Court required proof that government
-  coercion, not platform independence, caused content moderation decisions.
+notes: Originally filed as Missouri v. Biden. Case involved allegations of government pressure on platforms to censor COVID-19 content. Court required proof that government coercion, not platform independence, caused content moderation decisions.
 status: confirmed
 sources:
 - title: Murthy v. Missouri Opinion

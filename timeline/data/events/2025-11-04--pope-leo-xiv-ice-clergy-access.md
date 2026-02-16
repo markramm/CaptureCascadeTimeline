@@ -17,7 +17,7 @@ tags:
 - pastoral-care
 actors:
 - Pope Leo XIV
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Cardinal Blase Cupich
 - Broadview ICE Processing Center
 - Chicago Archdiocese

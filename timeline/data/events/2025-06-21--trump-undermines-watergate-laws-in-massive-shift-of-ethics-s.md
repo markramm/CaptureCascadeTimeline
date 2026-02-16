@@ -2,8 +2,8 @@
 actors:
 - Donald Trump
 - Trump Administration
-- Supreme Court
-- Congress
+- U.S. Supreme Court
+- U.S. Congress
 - Merit Systems Protection Board
 capture_lanes:
 - Regulatory Capture
@@ -16,16 +16,11 @@ connections:
 - Civil service protections
 - Government oversight mechanisms
 date: '2025-06-21'
-description: 'Trump has been systematically dismantling the post-Watergate legal framework
-  of the US presidency through multiple strategic actions: impounding Congressional
-  appropriations, politicizing the Justice Department, firing ethics watchdogs, unilaterally
-  gutting federal agencies, and stripping civil servants of their legally entitled
-  protections.'
+description: 'Trump has been systematically dismantling the post-Watergate legal framework of the US presidency through multiple strategic actions: impounding Congressional appropriations, politicizing the Justice Department, firing ethics watchdogs, unilaterally gutting federal agencies, and stripping civil servants of their legally entitled protections.'
 id: 2025-06-21--trump-undermines-watergate-laws-in-massive-shift-of-ethics-s
 importance: 8
 location: Washington, D.C.
-notes: Comprehensive documentation of institutional capture and erosion of post-Watergate
-  governance safeguards
+notes: Comprehensive documentation of institutional capture and erosion of post-Watergate governance safeguards
 patterns:
 - kleptocratic-capture
 - institutional-dismantling

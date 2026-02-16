@@ -4,7 +4,7 @@ date: '2025-10-06'
 title: Supreme Court Begins 2025-2026 Term with Focus on Executive Power and Voting Rights
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - John Roberts
 - Conservative Majority
 tags:

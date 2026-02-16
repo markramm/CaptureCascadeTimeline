@@ -9,7 +9,7 @@ actors:
 - ZTE Corporation
 - Jessica Rosenworcel
 - Brendan Carr
-- Congress
+- U.S. Congress
 - Carbyne
 tags:
 - fcc
@@ -42,7 +42,7 @@ sources:
   url: https://www.prnewswire.com/news-releases/carbyne-and-rio-grande-council-of-governments-texas-launch-industry-first-cloud-native-i3-911-contact-center-301488732.html
   outlet: PR Newswire
   date: '2022-02-22'
-notes: 'FCC Commissioner Brendan Carr stated this marked "the first time in FCC history that we have voted to prohibit the authorization of new equipment based on national security concerns." The $1.9 billion rip-and-replace program was underfunded by over $3 billion, with FCC reporting 24,000 pieces of Huawei/ZTE equipment across 8,400 locations in U.S. networks. Same month, Carbyne—founded by Israeli Unit 8200 veterans—was operational across multiple U.S. states with no documented federal security review despite comparable surveillance capabilities and foreign intelligence origins.'
+notes: FCC Commissioner Brendan Carr stated this marked "the first time in FCC history that we have voted to prohibit the authorization of new equipment based on national security concerns." The $1.9 billion rip-and-replace program was underfunded by over $3 billion, with FCC reporting 24,000 pieces of Huawei/ZTE equipment across 8,400 locations in U.S. networks. Same month, Carbyne—founded by Israeli Unit 8200 veterans—was operational across multiple U.S. states with no documented federal security review despite comparable surveillance capabilities and foreign intelligence origins.
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

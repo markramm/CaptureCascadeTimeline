@@ -5,8 +5,8 @@ title: ALEC Promotes Private Correctional Facilities Act Written by CCA Executiv
 importance: 9
 status: confirmed
 actors:
-- ALEC
-- Corrections Corporation of America (CCA)
+- American Legislative Exchange Council
+- Corrections Corporation of America
 - Brad Wiggins
 - John Rees
 - GEO Group

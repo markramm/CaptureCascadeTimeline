@@ -7,17 +7,17 @@ actors:
 - Robert Patton (Alabama Governor)
 - Alabama State Legislature
 - Coal Mining Companies
-- Railroad Companies
+- Railroad companies
 sources:
-- title: 'Convict-Lease System'
+- title: Convict-Lease System
   outlet: Encyclopedia of Alabama
   url: https://encyclopediaofalabama.org/article/convict-lease-system/
   year: 2024
-- title: 'Convict Leasing in Alabama Coal Mines'
+- title: Convict Leasing in Alabama Coal Mines
   outlet: Equal Justice Initiative
   url: https://eji.org/news/convict-leasing-alabama-coal-mines/
   year: 2024
-- title: 'Convict leasing'
+- title: Convict leasing
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Convict_leasing
   year: 2024

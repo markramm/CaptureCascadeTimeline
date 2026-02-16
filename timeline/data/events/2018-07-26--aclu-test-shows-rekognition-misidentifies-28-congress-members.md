@@ -4,7 +4,7 @@ date: 2018-07-26
 title: ACLU test reveals Amazon Rekognition misidentified 28 Congress members as criminals, showing racial bias
 importance: 8
 actors:
-- ACLU
+- American Civil Liberties Union
 - Amazon
 - AWS
 - John Lewis

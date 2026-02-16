@@ -5,8 +5,8 @@ status: confirmed
 title: ICE Announces 3,000 Arrests in Operation Metro Surge
 importance: 7
 actors:
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Kristi Noem
 tags:
 - immigration-enforcement

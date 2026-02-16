@@ -4,7 +4,7 @@ date: 2009-07-17
 title: ALEC Creates Model Voter ID Legislation Following Obama Election
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Hans von Spakovsky
 - Heritage Foundation
 - ALEC Public Safety and Elections Task Force

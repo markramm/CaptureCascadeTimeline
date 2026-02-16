@@ -1,8 +1,7 @@
 ---
 id: 2025-05-01--operation-at-large-ice-national-guard-deployment
 date: '2025-05-01'
-title: Operation At Large launches with 5,000 federal agents and 21,000 National Guard
-  proposed deployment
+title: Operation At Large launches with 5,000 federal agents and 21,000 National Guard proposed deployment
 importance: 9
 tags:
 - immigration-enforcement
@@ -15,22 +14,20 @@ tags:
 - sanctuary-cities
 - trump-administration
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - National Guard
-- DHS
+- DHS (Department of Homeland Security)
 - Kristi Noem
 - Stephen Miller
 - Donald Trump
 sources:
-- title: A sweeping new ICE operation shows how Trump's focus on immigration is reshaping
-    federal law enforcement
+- title: A sweeping new ICE operation shows how Trump's focus on immigration is reshaping federal law enforcement
   url: https://www.nbcnews.com/politics/justice-department/ice-operation-trump-focus-immigration-reshape-federal-law-enforcement-rcna193494
   outlet: NBC News
   date: '2025-05-01'
 - date: '2025-05-08'
   outlet: Department of Homeland Security
-  title: ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal
-    Illegal Aliens
+  title: ICE Launches Operation Midway Blitz in Honor of Katie Abraham to Target Criminal Illegal Aliens
   url: https://www.dhs.gov/news/2025/09/08/ice-launches-operation-midway-blitz-honor-katie-abraham-target-criminal-illegal
 - date: '2025-06-16'
   outlet: Axios

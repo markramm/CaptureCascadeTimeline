@@ -1,11 +1,11 @@
 ---
 id: 1912-04-18--paint-creek-cabin-creek-mine-war-martial-law-west-virginia
 date: '1912-04-18'
-title: "Paint Creek-Cabin Creek Mine War: West Virginia Declares Martial Law, Mother Jones Imprisoned"
+title: 'Paint Creek-Cabin Creek Mine War: West Virginia Declares Martial Law, Mother Jones Imprisoned'
 importance: 7
 actors:
 - United Mine Workers of America
-- Mother Jones (Mary Harris Jones)
+- Mary Harris Jones
 - Governor William Glasscock
 - Baldwin-Felts Detective Agency
 - West Virginia coal operators
@@ -20,11 +20,11 @@ sources:
   url: https://en.wikipedia.org/wiki/Paint_Creek%E2%80%93Cabin_Creek_strike_of_1912
   outlet: Wikipedia
   tier: 2
-- title: "The West Virginia Mine Wars"
+- title: The West Virginia Mine Wars
   url: https://www.wvencyclopedia.org/articles/1614
   outlet: West Virginia Encyclopedia
   tier: 1
-- title: "Mother Jones and the Paint Creek Strike"
+- title: Mother Jones and the Paint Creek Strike
   url: https://www.zinnedproject.org/news/tdih/paint-creek-mine-war/
   outlet: Zinn Education Project
   tier: 2

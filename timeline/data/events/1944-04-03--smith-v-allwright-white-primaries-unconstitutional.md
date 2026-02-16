@@ -4,7 +4,7 @@ date: '1944-04-03'
 title: 'Smith v. Allwright: Supreme Court Strikes Down White Primaries, Opening Democratic Party to Black Voters'
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Stanley Reed
 - Thurgood Marshall
 - NAACP Legal Defense Fund
@@ -22,11 +22,11 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/321/649/
   outlet: Justia
   tier: 1
-- title: 'Smith v. Allwright and the Defeat of the Texas White Primary'
+- title: Smith v. Allwright and the Defeat of the Texas White Primary
   url: https://www.tshaonline.org/handbook/entries/smith-v-allwright
   outlet: Texas State Historical Association
   tier: 2
-- title: 'The White Primary'
+- title: The White Primary
   url: https://www.crmvet.org/info/whitepr.htm
   outlet: Civil Rights Movement Archive
   tier: 2

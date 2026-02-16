@@ -20,22 +20,19 @@ id: 2017-01-30--eo-13771-reducing-regulation
 location: Washington, DC
 actors:
 - Donald Trump
-- Office of Information and Regulatory Affairs (OIRA)
-- Public Citizen (plaintiff)
+- Office of Information and Regulatory Affairs
+- Public Citizen
 - Natural Resources Defense Council (plaintiff)
 - Judge Randolph D. Moss
-- Joe Biden (rescinded order)
-notes: Order required any new incremental costs be offset by eliminating costs from
-  at least two prior regulations. Legal challenges argued it violated separation of
-  powers and the Take Care Clause. Part of broader Trump deregulation agenda.
+- Joe Biden
+notes: Order required any new incremental costs be offset by eliminating costs from at least two prior regulations. Legal challenges argued it violated separation of powers and the Take Care Clause. Part of broader Trump deregulation agenda.
 status: confirmed
 sources:
 - title: 'Executive Order 13771: Reducing Regulation and Controlling Regulatory Costs'
   url: https://www.federalregister.gov/documents/2017/02/03/2017-02451/reducing-regulation-and-controlling-regulatory-costs
   outlet: Federal Register
   date: '2017-02-03'
-- title: Presidential Executive Order on Reducing Regulation and Controlling Regulatory
-    Costs
+- title: Presidential Executive Order on Reducing Regulation and Controlling Regulatory Costs
   url: https://trumpwhitehouse.archives.gov/presidential-actions/presidential-executive-order-reducing-regulation-controlling-regulatory-costs/
   outlet: Trump White House Archives
   date: '2017-01-30'

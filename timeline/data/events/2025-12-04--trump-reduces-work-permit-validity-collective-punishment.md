@@ -9,7 +9,7 @@ location: Washington, D.C.
 actors:
 - U.S. Citizenship and Immigration Services
 - Joseph Edlow
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Rahmanullah Lakanwal
 - Sarah Beckstrom
 - Andrew Wolfe

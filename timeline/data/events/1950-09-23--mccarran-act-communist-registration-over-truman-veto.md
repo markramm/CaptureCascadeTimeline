@@ -12,7 +12,7 @@ actors:
 - U.S. Congress
 - House Un-American Activities Committee
 - Department of Justice
-- Department of Defense
+- U.S. Department of Defense
 - Central Intelligence Agency
 tags:
 - mccarthyism
@@ -25,17 +25,17 @@ capture_lanes:
 - Policy Capture
 - Structural Repression
 sources:
-- title: 'McCarran Internal Security Act - Wikipedia'
+- title: McCarran Internal Security Act - Wikipedia
   url: https://en.wikipedia.org/wiki/McCarran_Internal_Security_Act
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'McCarran Internal Security Act of 1950'
+- title: McCarran Internal Security Act of 1950
   url: https://firstamendment.mtsu.edu/article/mccarran-internal-security-act-of-1950/
   outlet: First Amendment Encyclopedia
   date: '2024-01-01'
   verified: true
-- title: 'Veto of the Internal Security Bill'
+- title: Veto of the Internal Security Bill
   url: https://www.presidency.ucsb.edu/documents/veto-the-internal-security-bill
   outlet: The American Presidency Project
   date: '2024-01-01'

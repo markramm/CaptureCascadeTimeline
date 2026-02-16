@@ -4,7 +4,7 @@ date: '2010-12-03'
 title: ALEC Coordinates Right-to-Work Push After 2010 GOP Midterm Wave
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Scott Fitzgerald
 - Koch brothers
 - Americans for Prosperity

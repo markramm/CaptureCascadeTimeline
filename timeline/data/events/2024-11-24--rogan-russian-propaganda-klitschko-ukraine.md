@@ -14,7 +14,7 @@ tags:
 actors:
 - Joe Rogan
 - Vitali Klitschko
-- Volodymyr Zelensky
+- Volodymyr Zelenskyy
 - RT (Russia Today)
 sources:
 - title: Vitali Klitschko hits out at podcaster Joe Rogan for repeating 'Russian propaganda'

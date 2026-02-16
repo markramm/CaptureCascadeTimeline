@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Palantir Technologies
 - Joint IED Defeat Organization
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - palantir
 - defense-contracts

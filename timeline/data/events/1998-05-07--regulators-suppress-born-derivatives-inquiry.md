@@ -10,8 +10,8 @@ actors:
 - Arthur Levitt
 - CFTC
 - Federal Reserve
-- Treasury Department
-- SEC
+- U.S. Treasury Department
+- Securities and Exchange Commission
 tags:
 - derivatives-regulation
 - regulatory-suppression

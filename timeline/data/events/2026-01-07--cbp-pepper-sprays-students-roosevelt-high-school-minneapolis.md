@@ -4,8 +4,8 @@ date: '2026-01-07'
 title: Border Patrol Agents Pepper Spray Students at Roosevelt High School During Dismissal
 importance: 9
 actors:
-- CBP
-- ICE
+- U.S. Customs and Border Protection
+- Immigration and Customs Enforcement (ICE)
 - Roosevelt High School
 - Minneapolis Public Schools
 tags:

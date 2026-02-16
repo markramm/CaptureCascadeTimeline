@@ -7,7 +7,7 @@ location: Los Angeles, California
 actors:
 - Donald Trump
 - California National Guard
-- US Marines (2/7)
+- US Marines
 - Governor of California
 - Pentagon
 tags:
@@ -28,10 +28,8 @@ capture_lanes:
 citations:
 - 'USNI News — 700 Marines Deploying to Downtown Los Angeles (Jun 9, 2025): https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles'
 - 'Military.com — The Marines Are in Los Angeles (Jun 13, 2025): https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html'
-- 'Reuters — Trump says more National Guard troops would be deployed in California
-  if needed (Jun 9, 2025): https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/'
-notes: Establishes platform conditions for Stage-5 coercion through domestic military
-  deployment over state objection.
+- 'Reuters — Trump says more National Guard troops would be deployed in California if needed (Jun 9, 2025): https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/'
+notes: Establishes platform conditions for Stage-5 coercion through domestic military deployment over state objection.
 sources:
 - title: 700 Marines Deploying to Downtown Los Angeles
   url: https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles
@@ -41,13 +39,11 @@ sources:
   url: https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html
   outlet: Military.com
   date: '2025-06-13'
-- title: Trump says more National Guard troops would be deployed in California if
-    needed
+- title: Trump says more National Guard troops would be deployed in California if needed
   url: https://www.reuters.com/world/us/trump-says-more-national-guard-troops-would-be-deployed-california-if-needed-2025-06-09/
   outlet: Reuters
   date: '2025-06-09'
-- title: Department of Defense Security for the Protection of Department of Homeland
-    Security Functions
+- title: Department of Defense Security for the Protection of Department of Homeland Security Functions
   url: https://www.whitehouse.gov/presidential-actions/2025/06/department-of-defense-security-for-the-protection-of-department-of-homeland-security-functions
   outlet: White House
   date: '2025-06-07'

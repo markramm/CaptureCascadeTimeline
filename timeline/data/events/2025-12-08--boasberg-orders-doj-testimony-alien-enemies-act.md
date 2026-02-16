@@ -1,11 +1,28 @@
 ---
-id: "2025-12-08--boasberg-orders-doj-testimony-alien-enemies-act"
-date: "2025-12-08"
-title: "Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order"
-summary: "U.S. District Judge James Boasberg ordered Deputy Assistant Attorney General Drew Ensign and former DOJ attorney turned whistleblower Erez Reuveni to testify on December 15-16 regarding the Trump administration's March 2025 decision to proceed with Alien Enemies Act deportations to El Salvador despite the judge's explicit order to turn the planes around. The testimony is part of Boasberg's ongoing criminal contempt inquiry to determine whether administration officials, including DHS Secretary Kristi Noem, should face contempt charges for deliberately defying court orders. Ensign, a top DOJ lawyer in the Office of Immigration Litigation, was directly involved in the March decisions, while Reuveni filed a whistleblower complaint alleging that a senior DOJ official told colleagues the administration intended to ignore court orders as part of Trump's aggressive deportation efforts. The case involves over 100 alleged Tren de Aragua gang members deported to El Salvador's CECOT mega-prison under the 1798 Alien Enemies Act wartime authority, with DOJ attorneys claiming Boasberg's oral instructions were 'defective' and proceeding with deportations anyway."
+id: 2025-12-08--boasberg-orders-doj-testimony-alien-enemies-act
+date: '2025-12-08'
+title: Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order
+summary: U.S. District Judge James Boasberg ordered Deputy Assistant Attorney General Drew Ensign and former DOJ attorney turned whistleblower Erez Reuveni to testify on December 15-16 regarding the Trump administration's March 2025 decision to proceed with Alien Enemies Act deportations to El Salvador despite the judge's explicit order to turn the planes around. The testimony is part of Boasberg's ongoing criminal contempt inquiry to determine whether administration officials, including DHS Secretary Kristi Noem, should face contempt charges for deliberately defying court orders. Ensign, a top DOJ lawyer in the Office of Immigration Litigation, was directly involved in the March decisions, while Reuveni filed a whistleblower complaint alleging that a senior DOJ official told colleagues the administration intended to ignore court orders as part of Trump's aggressive deportation efforts. The case involves over 100 alleged Tren de Aragua gang members deported to El Salvador's CECOT mega-prison
+  under the 1798 Alien Enemies Act wartime authority, with DOJ attorneys claiming Boasberg's oral instructions were 'defective' and proceeding with deportations anyway.
 importance: 9
-tags: ["courts", "contempt", "alien-enemies-act", "deportation", "doj", "judicial-authority", "rule-of-law", "due-process", "el-salvador", "whistleblower"]
-actors: ["James Boasberg", "Drew Ensign", "Erez Reuveni", "Kristi Noem", "Department of Justice", "Department of Homeland Security"]
+tags:
+- courts
+- contempt
+- alien-enemies-act
+- deportation
+- doj
+- judicial-authority
+- rule-of-law
+- due-process
+- el-salvador
+- whistleblower
+actors:
+- James Boasberg
+- Drew Ensign
+- Erez Reuveni
+- Kristi Noem
+- Department of Justice
+- U.S. Department of Homeland Security
 sources:
 - title: Judge orders top DOJ attorney to testify about Alien Enemies Act deportations
   outlet: ABC News

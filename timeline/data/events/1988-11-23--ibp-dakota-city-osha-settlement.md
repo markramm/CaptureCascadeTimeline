@@ -8,7 +8,7 @@ actors:
 - IBP Inc.
 - Occupational Safety and Health Administration
 - United Food and Commercial Workers
-- Congressional investigators
+- Congressional Investigators
 tags:
 - labor-exploitation
 - regulatory-capture

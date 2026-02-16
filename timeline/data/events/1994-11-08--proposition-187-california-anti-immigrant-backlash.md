@@ -7,7 +7,7 @@ actors:
 - Pete Wilson
 - California voters
 - Latino civil rights organizations
-- ACLU
+- American Civil Liberties Union
 tags:
 - immigration-policy
 - racial-politics
@@ -25,8 +25,7 @@ sources:
   outlet: History.com
   tier: 2
   verified: true
-- title: How Pete Wilson And The Wildly Anti-Immigrant Prop. 187 Helped Turn California
-    From A GOP Bastion To A Democratic Stronghold
+- title: How Pete Wilson And The Wildly Anti-Immigrant Prop. 187 Helped Turn California From A GOP Bastion To A Democratic Stronghold
   url: https://americasvoice.org/blog/how-pete-wilson-and-the-wildly-anti-immigrant-prop-187-helped-turn-california-from-a-gop-bastion-to-a-democratic-stronghold/
   outlet: America's Voice
   tier: 2

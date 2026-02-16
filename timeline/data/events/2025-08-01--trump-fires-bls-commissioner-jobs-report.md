@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - Erika McEntarfer
 - Bureau of Labor Statistics
-- Department of Labor
+- U.S. Department of Labor
 tags:
 - institutional-capture
 - data-manipulation

@@ -7,7 +7,7 @@ location: United States
 actors:
 - Donald Trump
 - Robert F. Kennedy Jr.
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Centers for Disease Control and Prevention
 - American Academy of Pediatrics
 - American College of Physicians

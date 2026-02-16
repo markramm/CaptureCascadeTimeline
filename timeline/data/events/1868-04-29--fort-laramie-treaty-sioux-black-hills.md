@@ -5,7 +5,7 @@ title: Fort Laramie Treaty Guarantees Black Hills to Sioux in Perpetuity - Later
 importance: 9
 actors:
 - Sioux Nation
-- U.S. Government
+- U.S. government
 - Lakota people
 - Red Cloud
 sources:
@@ -14,7 +14,7 @@ sources:
   url: https://www.archives.gov/milestone-documents/fort-laramie-treaty
   tier: 1
   verified: true
-- title: 'In 1868, Two Nations Made a Treaty. The U.S. Broke It, and Plains Indian Tribes Are Still Seeking Justice'
+- title: In 1868, Two Nations Made a Treaty. The U.S. Broke It, and Plains Indian Tribes Are Still Seeking Justice
   outlet: Smithsonian Magazine
   url: https://www.smithsonianmag.com/smithsonian-institution/1868-two-nations-made-treaty-us-broke-it-and-plains-indian-tribes-are-still-seeking-justice-180970741/
   tier: 2

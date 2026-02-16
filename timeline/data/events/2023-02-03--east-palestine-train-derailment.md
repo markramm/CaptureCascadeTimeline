@@ -5,7 +5,7 @@ title: 'East Palestine Train Derailment: Norfolk Southern Hazardous Chemical Dis
 importance: 9
 actors:
 - Norfolk Southern Railway
-- National Transportation Safety Board (NTSB)
+- National Transportation Safety Board
 - Environmental Protection Agency (EPA)
 - Trump Administration
 - American Association of Railroads

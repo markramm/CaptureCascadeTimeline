@@ -6,7 +6,7 @@ title: Commerce Department changes broadband policies benefiting Starlink up to 
 location: Washington, DC
 actors:
 - Howard Lutnick
-- Department of Commerce
+- U.S. Department of Commerce
 - Elon Musk
 - Starlink
 tags:
@@ -23,8 +23,7 @@ sources:
   url: https://www.commerce.gov/news/press-releases/2025/03/statement-us-secretary-commerce-howard-lutnick-bead-program
   outlet: U.S. Department of Commerce
   date: '2025-03-01'
-- title: Commerce to Overhaul 'Internet for All' Plan, Expanding Starlink Funding
-    Prospects
+- title: Commerce to Overhaul 'Internet for All' Plan, Expanding Starlink Funding Prospects
   url: https://www.benton.org/headlines/commerce-overhaul-'internet-all'-plan-expanding-starlink-funding-prospects
   outlet: Benton Institute for Broadband & Society
   date: '2025-03-01'
@@ -32,13 +31,11 @@ sources:
   url: https://gizmodo.com/u-s-commerce-secretary-tells-rural-broadband-leaders-to-prioritize-starlink-2000580037
   outlet: Gizmodo
   date: '2025-03-01'
-- title: Commerce Secretary's Proposal to Prioritize Satellite Over Fiber Internet
-    Would 'Strand' Rural Communities, Experts Say
+- title: Commerce Secretary's Proposal to Prioritize Satellite Over Fiber Internet Would 'Strand' Rural Communities, Experts Say
   url: https://dailyyonder.com/commerce-secretarys-proposal-to-prioritize-satellite-over-fiber-internet-would-strand-rural-communities-experts-say/2025/03/26/
   outlet: The Daily Yonder
   date: '2025-03-26'
-notes: BEAD director Evan Feinman resigned in protest, condemning efforts to "strand
-  rural America with worse internet to make the world's richest man even richer"
+notes: BEAD director Evan Feinman resigned in protest, condemning efforts to "strand rural America with worse internet to make the world's richest man even richer"
 status: confirmed
 ---
 

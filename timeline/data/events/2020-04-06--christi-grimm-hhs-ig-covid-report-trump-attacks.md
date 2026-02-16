@@ -14,7 +14,7 @@ actors:
 - Christi Grimm
 - Donald Trump
 - Jason Weida
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 sources:
 - title: Watchdog report finds severe shortages and significant challenges to hospitals' coronavirus responses
   url: https://www.cnn.com/2020/04/06/politics/department-of-health-and-human-services-shortages/index.html

@@ -1,13 +1,13 @@
 ---
 id: 2017-01-24--trump-executive-order-dakota-access-pipeline
 date: '2017-01-24'
-title: 'Trump Reverses Dakota Access Pipeline Denial, Orders Expedited Approval'
+title: Trump Reverses Dakota Access Pipeline Denial, Orders Expedited Approval
 importance: 9
 actors:
 - Donald Trump
 - Energy Transfer Partners
 - Kelcy Warren
-- Army Corps of Engineers
+- U.S. Army Corps of Engineers
 - Standing Rock Sioux Tribe
 tags:
 - environmental

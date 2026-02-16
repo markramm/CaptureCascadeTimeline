@@ -5,7 +5,7 @@ title: FDA Commissioner Confirmed Amid Pharmaceutical Industry Ties Controversy
 importance: 8
 actors:
 - Robert Califf
-- Senate
+- United States Senate
 - FDA Leadership
 - Pharmaceutical Industry Executives
 sources:

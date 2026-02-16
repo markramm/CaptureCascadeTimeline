@@ -11,7 +11,7 @@ tags:
 actors:
 - Rick Snyder
 - Barack Obama
-- EPA
+- Environmental Protection Agency (EPA)
 sources:
 - url: https://www.michiganpublic.org/news/2016-01-05/gov-snyder-declares-a-state-of-emergency-after-lead-continues-to-be-a-problem-in-flints-water
   title: Gov. Snyder declares a state of emergency after lead continues to be a problem in Flint's water

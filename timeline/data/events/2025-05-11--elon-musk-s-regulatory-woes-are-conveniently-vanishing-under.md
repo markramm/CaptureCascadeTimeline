@@ -2,9 +2,7 @@
 id: 2025-05-11--elon-musk-s-regulatory-woes-are-conveniently-vanishing-under
 date: '2025-05-11'
 title: Trump Administration Systematically Drops Regulatory Cases Against Elon Musk
-description: Over 40 regulatory cases involving Elon Musk's companies have stalled
-  or been dropped since the beginning of Trump's second term, highlighting potential
-  systemic regulatory capture in multiple federal agencies.
+description: Over 40 regulatory cases involving Elon Musk's companies have stalled or been dropped since the beginning of Trump's second term, highlighting potential systemic regulatory capture in multiple federal agencies.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -12,7 +10,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Elon Musk
-- SEC
+- Securities and Exchange Commission
 tags:
 - regulatory-capture
 - government-contracts

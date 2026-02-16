@@ -17,7 +17,7 @@ actors:
 - Jena Griswold
 - Bill Galvin
 - Andrea Joy Campbell
-- ACLU
+- American Civil Liberties Union
 - League of Women Voters
 - NAACP
 - Common Cause

@@ -7,7 +7,7 @@ actors:
 - Russ Vought
 - Office of Management and Budget
 - Trump Administration
-- Congress
+- U.S. Congress
 sources:
 - title: 'Trump''s shutdown architect: Russ Vought''s plan to deconstruct the government was years in the making'
   url: https://www.cnn.com/2025/10/03/politics/russ-vought-shutdown-project-2025

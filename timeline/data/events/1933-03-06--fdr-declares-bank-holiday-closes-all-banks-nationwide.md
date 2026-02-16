@@ -5,7 +5,7 @@ title: FDR Declares National Bank Holiday, Closing All Banks to Stop Collapse of
 importance: 9
 actors:
 - Franklin D. Roosevelt
-- banking industry
+- Banking industry
 - Federal Reserve
 - American depositors
 tags:

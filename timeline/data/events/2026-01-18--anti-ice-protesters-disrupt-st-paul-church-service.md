@@ -6,9 +6,9 @@ title: Anti-ICE Protesters Disrupt St. Paul Church Service, Triggering Federal C
 importance: 8
 actors:
 - Cities Church
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - David Easterwood
-- DHS
+- DHS (Department of Homeland Security)
 - Kristi Noem
 tags:
 - civil-liberties

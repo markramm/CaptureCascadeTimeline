@@ -11,8 +11,8 @@ tags:
 - disaster-response
 actors:
 - Kristi Noem
-- FEMA
-- DHS
+- Federal Emergency Management Agency (FEMA)
+- DHS (Department of Homeland Security)
 - Trump
 sources:
 - url: https://www.reuters.com/world/us/fema-it-breach-employee-firings-noem-2025-08-29/

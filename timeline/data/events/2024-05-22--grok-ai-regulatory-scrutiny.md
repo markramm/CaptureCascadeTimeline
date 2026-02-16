@@ -11,7 +11,7 @@ actors:
 - Rep. Tom Suozzi
 - Rep. Josh Gottheimer
 - Senate Minority Leader Chuck Schumer
-- House Oversight Committee
+- U.S. House Oversight Committee
 - Rep. Laura Friedman
 location: Washington, D.C.
 tags:
@@ -42,18 +42,15 @@ sources:
   url: https://www.newsweek.com/elon-musks-controversial-grok-ai-lands-contract-pentagon-2098771
   outlet: Newsweek
   retrieved_date: '2025-10-15'
-- title: Musk's xAI was a late addition to Pentagon's AI contracts, former defense
-    employee says
+- title: Musk's xAI was a late addition to Pentagon's AI contracts, former defense employee says
   url: https://www.nbcnews.com/tech/security/musk-xai-was-added-late-pentagon-grok-defense-department-rcna219488
   outlet: NBC News
   retrieved_date: '2025-10-15'
-- title: GSA and xAI Partner on $0.42 per Agency Agreement to Accelerate Federal AI
-    Adoption
+- title: GSA and xAI Partner on $0.42 per Agency Agreement to Accelerate Federal AI Adoption
   url: https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025
   outlet: GSA.gov
   retrieved_date: '2025-10-15'
-- title: Jewish House Members Demand Answers on $200M Pentagon Contract with Elon
-    Musk's xAI Amid Grok Antisemitism Scandal
+- title: Jewish House Members Demand Answers on $200M Pentagon Contract with Elon Musk's xAI Amid Grok Antisemitism Scandal
   url: https://friedman.house.gov/media/press-releases/release-rep-friedman-leads-jewish-house-members-demanding-answers-200m
   outlet: Rep. Laura Friedman Official Website
   retrieved_date: '2025-10-15'
@@ -66,10 +63,7 @@ sources:
   outlet: Futurism
   retrieved_date: '2025-10-15'
 status: confirmed
-description: Investigations revealed systematic problems with Grok AI, including generating
-  hate speech, lack of safety protocols, and obtaining government contracts despite
-  significant ethical concerns. Multiple congressional bodies initiated formal inquiries
-  into xAI's practices.
+description: Investigations revealed systematic problems with Grok AI, including generating hate speech, lack of safety protocols, and obtaining government contracts despite significant ethical concerns. Multiple congressional bodies initiated formal inquiries into xAI's practices.
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture

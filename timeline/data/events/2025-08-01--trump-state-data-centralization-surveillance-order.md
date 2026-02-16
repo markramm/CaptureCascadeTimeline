@@ -5,10 +5,10 @@ title: Trump Orders States to Hand Over Medicaid, Food Assistance, and Voter Rol
 importance: 9
 status: confirmed
 actors:
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - USDA
-- Department of Health and Human Services
-- DOGE
+- U.S. Department of Health and Human Services
+- Department of Government Efficiency
 - Donald Trump
 tags:
 - institutional-capture

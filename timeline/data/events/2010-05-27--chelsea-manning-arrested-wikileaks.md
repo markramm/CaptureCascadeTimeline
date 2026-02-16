@@ -8,7 +8,7 @@ actors:
 - Chelsea Manning
 - WikiLeaks
 - U.S. Army
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - whistleblower-prosecution
 - wikileaks

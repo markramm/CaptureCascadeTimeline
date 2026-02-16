@@ -1,11 +1,10 @@
 ---
 id: 2024-03-25--homeland-security-raids-diddy-properties-trafficking
 date: '2024-03-25'
-title: Homeland Security Launches Major Sex Trafficking Investigation Against Sean
-  Combs
+title: Homeland Security Launches Major Sex Trafficking Investigation Against Sean Combs
 importance: 10
 actors:
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Sean Combs
 - Federal Prosecutors
 - U.S. Attorney's Office for the Southern District of New York
@@ -18,8 +17,7 @@ tags:
 - recording-equipment
 - kompromat
 sources:
-- title: Sean Combs Charged in Manhattan Federal Court With Sex Trafficking and Other
-    Federal Offenses
+- title: Sean Combs Charged in Manhattan Federal Court With Sex Trafficking and Other Federal Offenses
   url: https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses
   outlet: U.S. Department of Justice
   date: '2024-09-17'
@@ -31,8 +29,7 @@ sources:
   url: https://www.bbc.com/news/world-us-canada-68663151
   outlet: BBC
   date: '2024-03-26'
-- title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein
-    Network'
+- title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
   outlet: Unlimited Hangout
   date: '2025-04-01'

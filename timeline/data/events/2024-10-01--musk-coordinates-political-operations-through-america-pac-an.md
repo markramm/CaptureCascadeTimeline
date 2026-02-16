@@ -1,14 +1,13 @@
 ---
 id: 2024-10-01--musk-coordinates-political-operations-through-america-pac-an
 date: '2024-10-01'
-title: Musk Coordinates Political Operations Through America PAC and X Platform Information
-  Warfare
+title: Musk Coordinates Political Operations Through America PAC and X Platform Information Warfare
 importance: 9
 actors:
 - Elon Musk
 - Donald Trump
 - America PAC
-- X Platform (Twitter)
+- Twitter
 location: Austin, TX, United States
 tags:
 - election-interference

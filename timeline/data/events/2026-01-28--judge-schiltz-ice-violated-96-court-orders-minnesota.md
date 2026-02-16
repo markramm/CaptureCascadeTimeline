@@ -6,9 +6,9 @@ title: Federal Judge Finds ICE Violated 96 Court Orders in Minnesota
 importance: 8
 actors:
 - Patrick Schiltz
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Todd Lyons
-- DHS
+- DHS (Department of Homeland Security)
 tags:
 - immigration-enforcement
 - ice

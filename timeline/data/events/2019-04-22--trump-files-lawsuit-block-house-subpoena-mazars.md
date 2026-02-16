@@ -1,19 +1,17 @@
 ---
 id: 2019-04-22--trump-files-lawsuit-block-house-subpoena-mazars
 date: '2019-04-22'
-title: Trump Files Lawsuit to Block House Subpoena of Financial Records from Mazars
-  USA
+title: Trump Files Lawsuit to Block House Subpoena of Financial Records from Mazars USA
 actors:
 - Donald Trump
 - Mazars USA
-- House Oversight Committee
+- U.S. House Oversight Committee
 - Elijah Cummings
 - Michael Cohen
 - Trump Legal Team
 sources:
 - outlet: NPR
-  title: Court Hears Trump's Appeal To Block House Subpoena, Shield Finances From
-    Public
+  title: Court Hears Trump's Appeal To Block House Subpoena, Shield Finances From Public
   url: https://www.npr.org/2019/07/12/741216793/court-hears-trumps-appeal-to-block-house-subpoena-shield-finances
   date: '2019-07-12'
 - outlet: Library of Congress Research

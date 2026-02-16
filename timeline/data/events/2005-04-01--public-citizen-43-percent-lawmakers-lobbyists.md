@@ -27,7 +27,7 @@ sources:
   outlet: OpenSecrets
 actors:
 - Public Citizen
-- Congress
+- U.S. Congress
 - K Street
 ---
 

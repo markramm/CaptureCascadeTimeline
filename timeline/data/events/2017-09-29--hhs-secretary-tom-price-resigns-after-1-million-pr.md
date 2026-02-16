@@ -8,7 +8,7 @@ location: Washington, D.C.
 actors:
 - Tom Price
 - Donald Trump
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - corruption
 - resignation

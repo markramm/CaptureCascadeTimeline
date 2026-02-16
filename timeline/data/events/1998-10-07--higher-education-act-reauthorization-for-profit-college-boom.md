@@ -5,8 +5,8 @@ title: Higher Education Act Reauthorization Loosens Regulations, Enables For-Pro
 importance: 7
 actors:
 - President Bill Clinton
-- Congress
-- Apollo Group (University of Phoenix)
+- U.S. Congress
+- University of Phoenix
 - Career Education Corporation
 - Higher education lobbyists
 tags:
@@ -16,17 +16,17 @@ tags:
 - regulatory-capture
 - deregulation
 sources:
-- title: "Higher Education Amendments of 1998"
+- title: Higher Education Amendments of 1998
   url: https://www.congress.gov/bill/105th-congress/house-bill/6
   outlet: Congress.gov
   date: '1998-10-07'
   tier: 1
-- title: "For-Profit Higher Education: The Failure to Safeguard the Federal Investment and Ensure Student Success"
+- title: 'For-Profit Higher Education: The Failure to Safeguard the Federal Investment and Ensure Student Success'
   url: https://www.help.senate.gov/imo/media/for_profit_report/PartI.pdf
   outlet: Senate HELP Committee (Harkin Report)
   date: '2012-07-30'
   tier: 1
-- title: "Subprime Opportunity: The Unfulfilled Promise of For-Profit Colleges and Universities"
+- title: 'Subprime Opportunity: The Unfulfilled Promise of For-Profit Colleges and Universities'
   url: https://www.epi.org/publication/subprime-opportunity-unfulfilled-promise-for-profit/
   outlet: Economic Policy Institute
   date: '2010-11-01'

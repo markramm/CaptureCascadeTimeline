@@ -4,7 +4,7 @@ date: '1997-01-01'
 title: Financial Industry Spends $300 Million on Deregulation Lobbying and Campaign Contributions
 importance: 8
 actors:
-- Banking Industry
+- Banking industry
 - Insurance Industry
 - Securities Industry
 - Democratic Party
@@ -24,22 +24,22 @@ capture_lanes:
 - Corruption
 location: Washington, D.C.
 sources:
-- title: 'Financial Deregulation, U.S. Party Politics, and Rising Income Inequality'
+- title: Financial Deregulation, U.S. Party Politics, and Rising Income Inequality
   url: https://scholars.org/contribution/financial-deregulation-us-party-politics-and
   outlet: Scholars Strategy Network
   date: '2013-11-01'
   tier: 1
-- title: 'Clinton, Republicans agree to deregulation of US financial system'
+- title: Clinton, Republicans agree to deregulation of US financial system
   url: https://www.wsws.org/en/articles/1999/11/bank-n01.html
   outlet: World Socialist Web Site
   date: '1999-11-01'
   tier: 2
-- title: 'Finance/Insurance/Real Estate Sector Summary'
+- title: Finance/Insurance/Real Estate Sector Summary
   url: https://www.opensecrets.org/industries//indus?Ind=F
   outlet: OpenSecrets
   date: '2024'
   tier: 1
-- title: 'On financial deregulation, GOP repeating history'
+- title: On financial deregulation, GOP repeating history
   url: https://thehill.com/blogs/congress-blog/economy-budget/287784-on-financial-deregulation-republicans-repeating-history/
   outlet: The Hill
   date: '2016-04-20'

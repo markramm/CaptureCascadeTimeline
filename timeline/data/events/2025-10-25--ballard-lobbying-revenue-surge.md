@@ -1,7 +1,7 @@
 ---
 actors:
 - Brian Ballard
-- corporate clients
+- Corporate clients
 - Pam Bondi
 - Susie Wiles
 - Trump Administration

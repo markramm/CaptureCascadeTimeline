@@ -10,7 +10,7 @@ actors:
 - Heritage Foundation
 - Heartland Institute
 - Americans for Prosperity
-- ALEC
+- American Legislative Exchange Council
 importance: 9
 tags:
 - climate-denial

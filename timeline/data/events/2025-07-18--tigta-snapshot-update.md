@@ -12,8 +12,7 @@ sources:
   url: https://www.cpapracticeadvisor.com/2025/07/22/irs-workforce-has-shrunk-25-since-trump-took-office/165368/
   outlet: CPA Practice Advisor
   date: '2025-07-22'
-- title: IRS workforce losses pose growing risk to businesses amid tariff-driven tax
-    complexity
+- title: IRS workforce losses pose growing risk to businesses amid tariff-driven tax complexity
   url: https://www.wiley.law/article-IRS-workforce-losses-pose-growing-risk-to-businesses-amid-tariff-driven-tax-complexity
   outlet: Wiley Law
   date: '2025-07-20'
@@ -24,19 +23,16 @@ sources:
 status: confirmed
 location: United States
 actors:
-- TIGTA
-- IRS
-- Treasury Department
+- Treasury Inspector General for Tax Administration (TIGTA)
+- Internal Revenue Service
+- U.S. Treasury Department
 tags:
 - taxation
 - irs
 - workforce-reduction
 capture_lanes:
 - Federal Workforce Capture
-notes: DRP allows resignation with pay through Sept 30, 2025. VERA lowers retirement
-  age/service requirements. VSIP offers $25K buyouts. 23% contact reps lost, impacting
-  taxpayer assistance. Treasury RIF plans project 50% enforcement cuts, 20% other
-  components. From 103K employees in Jan to 77K by May.
+notes: DRP allows resignation with pay through Sept 30, 2025. VERA lowers retirement age/service requirements. VSIP offers $25K buyouts. 23% contact reps lost, impacting taxpayer assistance. Treasury RIF plans project 50% enforcement cuts, 20% other components. From 103K employees in Jan to 77K by May.
 ---
 
 TIGTA reports IRS workforce cut 25% to 77,428 employees by May 2025. 17,847 approved for TDRP/VSIP programs. 27% of tax examiners and 26% of revenue agents separated. Enforcement function faces up to 50% cuts through 2026. Critical revenue collection capacity compromised.

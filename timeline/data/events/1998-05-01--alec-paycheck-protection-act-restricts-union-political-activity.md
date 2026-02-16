@@ -5,8 +5,8 @@ title: ALEC Adopts Paycheck Protection Act to Defund Democratic Party by Restric
 importance: 8
 status: confirmed
 actors:
-- American Legislative Exchange Council (ALEC)
-- corporate donors
+- American Legislative Exchange Council
+- Corporate donors
 - state Republican legislators
 - Scott Walker
 tags:

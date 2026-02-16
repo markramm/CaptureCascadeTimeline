@@ -2,17 +2,14 @@
 id: 2025-03-27--fossil-fuel-companies-get-direct-email-line-to-trump-for-exe
 date: '2025-03-27'
 title: Trump EPA Creates Email Portal for Clean Air Act Exemption Requests
-description: The EPA created an email portal allowing fossil fuel companies to request
-  Presidential Exemptions from Clean Air Act regulations. This mechanism enables industrial
-  facilities to apply for two-year waivers from pollution control standards covering
-  nearly 200 toxic pollutants, including mercury, arsenic, benzene, and formaldehyde.
+description: The EPA created an email portal allowing fossil fuel companies to request Presidential Exemptions from Clean Air Act regulations. This mechanism enables industrial facilities to apply for two-year waivers from pollution control standards covering nearly 200 toxic pollutants, including mercury, arsenic, benzene, and formaldehyde.
 status: confirmed
 importance: 7
 location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 tags:
 - regulatory-capture
 - environmental-policy
@@ -23,8 +20,7 @@ sources:
   url: https://www.theguardian.com/us-news/2025/mar/27/epa-trump-email-fossil-fuel-exemptions
   outlet: The Guardian
   date: '2025-03-27'
-- title: Trump administration sets up portal for polluters to request exemptions to
-    clean air rules
+- title: Trump administration sets up portal for polluters to request exemptions to clean air rules
   url: https://thehill.com/policy/energy-environment/5217667-epa-polluters-exemptions-clean-air/
   outlet: The Hill
   date: '2025-03-27'
@@ -42,8 +38,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - regulatory-rollback
-notes: Event from comprehensive kleptocracy timeline tracking, showing significant
-  regulatory capture via email exemption portal.
+notes: Event from comprehensive kleptocracy timeline tracking, showing significant regulatory capture via email exemption portal.
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion

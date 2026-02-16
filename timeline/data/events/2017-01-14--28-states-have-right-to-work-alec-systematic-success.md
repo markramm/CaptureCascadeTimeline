@@ -5,7 +5,7 @@ title: 28 States Adopt Right-to-Work Laws, Documenting ALEC's Systematic Labor S
 importance: 10
 status: confirmed
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Koch brothers
 - Americans for Prosperity
 - U.S. Chamber of Commerce

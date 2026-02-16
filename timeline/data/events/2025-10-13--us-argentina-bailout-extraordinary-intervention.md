@@ -5,7 +5,7 @@ title: U.S. Executes Extraordinary $20 Billion Argentina Bailout for Political A
 importance: 10
 actors:
 - Scott Bessent
-- Treasury Department
+- U.S. Treasury Department
 - Javier Milei
 - Hedge Funds
 sources:

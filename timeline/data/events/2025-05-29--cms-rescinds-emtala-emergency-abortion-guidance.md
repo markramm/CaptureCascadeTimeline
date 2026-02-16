@@ -1,13 +1,13 @@
 ---
 id: 2025-05-29--cms-rescinds-emtala-emergency-abortion-guidance
 date: '2025-05-29'
-title: "CMS Rescinds EMTALA Guidance Requiring Emergency Abortion Care"
+title: CMS Rescinds EMTALA Guidance Requiring Emergency Abortion Care
 importance: 9
 actors:
-- Centers for Medicare and Medicaid Services
+- Centers for Medicare & Medicaid Services
 - HHS Secretary Robert F. Kennedy Jr.
 - Department of Justice
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - 22 State Attorneys General
 tags:
 - reproductive-rights

@@ -2,12 +2,12 @@
 date: '2025-01-30'
 title: CBP Journalist Watchlist and Border Surveillance Program Documented
 actors:
-- CBP
+- U.S. Customs and Border Protection
 - Targeted Journalists
 - Immigration Advocates
-- DHS
-- Committee to Protect Journalists (CPJ)
-- Electronic Frontier Foundation (EFF)
+- DHS (Department of Homeland Security)
+- Committee to Protect Journalists
+- Electronic Frontier Foundation
 sources:
 - title: How Trump's first administration threatened press freedom at the border
   url: https://www.rcfp.org/trump-press-freedom-border/
@@ -15,8 +15,7 @@ sources:
 - title: CPJ issues safety advisory for journalists traveling to the United States
   url: https://cpj.org/2025/04/cpj-issues-safety-advisory-for-journalists-traveling-to-the-united-states/
   outlet: Committee to Protect Journalists
-- title: 'A Journalist Security Checklist: Preparing Devices for Travel Through a
-    US Border'
+- title: 'A Journalist Security Checklist: Preparing Devices for Travel Through a US Border'
   url: https://www.eff.org/deeplinks/2025/06/journalist-security-checklist-preparing-devices-travel-through-us-border
   outlet: Electronic Frontier Foundation
 importance: 8

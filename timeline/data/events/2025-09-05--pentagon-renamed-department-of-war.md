@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Trump
 - Pete Hegseth
-- Department of Defense
+- U.S. Department of Defense
 sources:
 - url: https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense
   title: President Trump signs order to rename the Defense Department as the Department of War

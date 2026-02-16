@@ -6,8 +6,8 @@ importance: 10
 actors:
 - Donald Trump
 - Joseph Edlow
-- Department of Homeland Security
-- USCIS
+- U.S. Department of Homeland Security
+- U.S. Citizenship and Immigration Services
 - Council on American-Islamic Relations
 - Jeremy Laurence
 - United Nations

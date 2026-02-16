@@ -11,8 +11,8 @@ tags:
 - electoral-manipulation
 actors:
 - George Cook
-- Census Bureau
-- Department of Commerce
+- U.S. Census Bureau
+- U.S. Department of Commerce
 - Donald Trump
 sources:
 - title: George Cook is the Census Bureau's new acting director

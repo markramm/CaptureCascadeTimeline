@@ -5,7 +5,7 @@ title: Federal Judges Establish Precedent for Presidential Accountability
 importance: 9
 actors:
 - Federal Judiciary
-- Supreme Court
+- U.S. Supreme Court
 - Department of Justice
 - Rebecca Slaughter
 - Lisa Cook
@@ -20,8 +20,7 @@ tags:
 - supreme-court
 sources:
 - outlet: CNN Politics
-  title: Supreme Court Agrees to Reconsider Precedent Limiting Presidential Removal
-    Powers
+  title: Supreme Court Agrees to Reconsider Precedent Limiting Presidential Removal Powers
   url: https://www.cnn.com/2025/09/22/politics/supreme-court-precedent-trump-fire
   date: '2025-09-22'
 - outlet: CNBC

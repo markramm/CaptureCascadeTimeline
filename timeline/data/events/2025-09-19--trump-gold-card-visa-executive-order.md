@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Donald Trump
 - White House
-- Department of Commerce
+- U.S. Department of Commerce
 tags:
 - executive-power
 - executive-orders

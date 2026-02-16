@@ -4,7 +4,7 @@ date: '2025-10-03'
 title: Supreme Court Uses Emergency Docket to Expand Presidential Power
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Trump Administration
 - Conservative Supreme Court Majority
 sources:

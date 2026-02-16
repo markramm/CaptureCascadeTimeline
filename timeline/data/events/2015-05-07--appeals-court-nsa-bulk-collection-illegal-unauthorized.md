@@ -14,7 +14,7 @@ actors:
 - Second Circuit Court of Appeals
 - Gerard Lynch
 - NSA
-- ACLU
+- American Civil Liberties Union
 sources:
 - url: https://www.npr.org/sections/thetwo-way/2015/05/07/404898259/federal-court-bulk-collection-of-phone-metadata-is-illegal
   title: NSA's Bulk Collection Of Americans' Phone Data Is Illegal, Appeals Court Rules

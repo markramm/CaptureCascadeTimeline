@@ -21,7 +21,7 @@ status: confirmed
 type: political
 actors:
 - Donald Trump
-- Congress
+- U.S. Congress
 - Jack Reed
 ---
 

@@ -13,8 +13,7 @@ capture_lanes:
 - Corporate Capture & Regulatory Breakdown
 status: confirmed
 sources:
-- title: Senate Democrats ask SEC to probe Trump and others for potential market manipulation
-    in tariff pause
+- title: Senate Democrats ask SEC to probe Trump and others for potential market manipulation in tariff pause
   url: https://www.cnbc.com/2025/04/11/trump-tariffs-democrats-sec-stock-market-manipulation.html
   outlet: CNBC
   date: '2025-04-11'
@@ -26,8 +25,7 @@ sources:
   url: https://www.cnn.com/2025/02/02/business/trump-economy-tariff-mexico-canada-china/index.html
   outlet: CNN Business
   date: '2025-02-02'
-- title: Did Trump engage in insider trading? Experts say he's unlikely to have legal
-    troubles
+- title: Did Trump engage in insider trading? Experts say he's unlikely to have legal troubles
   url: https://www.pbs.org/newshour/politics/did-trump-engage-in-insider-trading-experts-say-hes-unlikely-to-have-legal-troubles
   outlet: PBS NewsHour
   date: '2025-04-15'
@@ -38,10 +36,9 @@ actors:
 - Chuck Schumer
 - Elizabeth Warren
 - Adam Schiff
-- SEC
+- Securities and Exchange Commission
 location: Washington, DC
-notes: Average US tariff rate rose from 2.5% to 27% from January to April 2025 - highest
-  in over a century
+notes: Average US tariff rate rose from 2.5% to 27% from January to April 2025 - highest in over a century
 ---
 
 Trump implements 25% tariffs on Canada and Mexico, 10% on China effective February 4, 2025, with plans for universal 10% tariffs. Senate Democrats later call for SEC investigation after Trump posts "GREAT TIME TO BUY" before announcing tariff pause in April, raising his net worth by $415 million in one day as markets surge 9.5%. Legal experts cite potential market manipulation.

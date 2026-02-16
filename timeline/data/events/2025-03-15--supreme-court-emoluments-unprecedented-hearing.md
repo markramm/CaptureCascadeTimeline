@@ -4,7 +4,7 @@ date: '2025-03-15'
 title: Supreme Court Conducts Unprecedented Hearing on Presidential Emoluments
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Trump Administration
 - Constitutional Scholars
 tags:

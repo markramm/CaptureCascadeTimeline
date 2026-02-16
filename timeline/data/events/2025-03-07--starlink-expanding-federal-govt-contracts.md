@@ -7,7 +7,7 @@ actors:
 - Trump Administration
 - Federal Aviation Administration
 - General Services Administration
-- Customs and Border Protection
+- U.S. Customs and Border Protection
 capture_lanes:
 - Financial Capture
 - Technology Capture
@@ -16,15 +16,11 @@ connections:
 - Trump-Musk collaboration
 - Federal agency technology adoption
 date: '2025-03-07'
-description: Elon Musk's Starlink has been rapidly adopted across multiple federal
-  agencies, including the General Services Administration, Federal Aviation Administration,
-  and Customs and Border Protection—often bypassing standard review processes and
-  raising conflict of interest concerns.
+description: Elon Musk's Starlink has been rapidly adopted across multiple federal agencies, including the General Services Administration, Federal Aviation Administration, and Customs and Border Protection—often bypassing standard review processes and raising conflict of interest concerns.
 id: 2025-03-07--starlink-expanding-federal-govt-contracts
 importance: 7
 location: Washington, D.C.
-notes: Significant expansion of Starlink into federal infrastructure with potential
-  conflicts of interest
+notes: Significant expansion of Starlink into federal infrastructure with potential conflicts of interest
 patterns:
 - kleptocratic-capture
 - regulatory-bypass

@@ -8,7 +8,7 @@ actors:
 - Howard Lutnick
 - Intel Corporation
 - SoftBank
-- Department of Commerce
+- U.S. Department of Commerce
 tags:
 - institutional-capture
 - systematic-corruption

@@ -9,7 +9,7 @@ actors:
 - Bob Ney
 - Tom DeLay
 - Steven Griles
-- Congress
+- U.S. Congress
 - Native American Tribes
 tags:
 - corruption

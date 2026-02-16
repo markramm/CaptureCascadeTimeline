@@ -2,15 +2,7 @@
 id: 2025-08-20--pulte-mortgage-fraud-campaign-against-democrats
 date: '2025-08-20'
 title: FHFA's Pulte Expands Mortgage Fraud Accusations to Schiff and Letitia James
-description: Federal Housing Finance Agency Director William Pulte expands his mortgage
-  fraud campaign beyond Fed Governor Lisa Cook to include Democratic Senator Adam
-  Schiff and New York Attorney General Letitia James. Using FHFA's access to Fannie
-  Mae and Freddie Mac mortgage data covering most US home loans, Pulte searches political
-  opponents' mortgage applications for technical violations around primary residence
-  declarations. All three targets are prominent Trump critics - James prosecuted Trump
-  for fraud, Schiff led impeachment efforts, Cook opposed Trump's Fed policies. Critics
-  call this "incredibly dangerous abuse of office" using GSE control for political
-  enemies list.
+description: Federal Housing Finance Agency Director William Pulte expands his mortgage fraud campaign beyond Fed Governor Lisa Cook to include Democratic Senator Adam Schiff and New York Attorney General Letitia James. Using FHFA's access to Fannie Mae and Freddie Mac mortgage data covering most US home loans, Pulte searches political opponents' mortgage applications for technical violations around primary residence declarations. All three targets are prominent Trump critics - James prosecuted Trump for fraud, Schiff led impeachment efforts, Cook opposed Trump's Fed policies. Critics call this "incredibly dangerous abuse of office" using GSE control for political enemies list.
 importance: 8
 tags:
 - william-pulte
@@ -25,11 +17,11 @@ tags:
 - weaponized-government
 actors:
 - William Pulte
-- adam-schiff
-- letitia-james
+- Adam Schiff
+- Letitia James
 - fhfa
-- fannie-mae
-- freddie-mac
+- Fannie Mae
+- Freddie Mac
 capture_lane: political
 status: confirmed
 sources:
@@ -54,13 +46,7 @@ patterns:
 - financial-surveillance
 - weaponized-government
 - political-persecution
-notes: Pulte's systematic campaign represents unprecedented abuse of government mortgage
-  databases for political targeting. FHFA oversees Fannie Mae and Freddie Mac which
-  process majority of US mortgages, giving Pulte access to private financial data
-  of millions. His focus on primary residence technicalities in mortgage applications
-  creates pretext for criminal referrals. Rep. Maxine Waters calls this "alarming
-  actions" raising "serious concerns about conflicts of interest, legal violations."
-  Pattern resembles Nixon's enemies list but with modern financial surveillance capabilities.
+notes: Pulte's systematic campaign represents unprecedented abuse of government mortgage databases for political targeting. FHFA oversees Fannie Mae and Freddie Mac which process majority of US mortgages, giving Pulte access to private financial data of millions. His focus on primary residence technicalities in mortgage applications creates pretext for criminal referrals. Rep. Maxine Waters calls this "alarming actions" raising "serious concerns about conflicts of interest, legal violations." Pattern resembles Nixon's enemies list but with modern financial surveillance capabilities.
 capture_lanes:
 - Legislative Capture
 - Financial Capture

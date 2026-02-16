@@ -6,8 +6,8 @@ importance: 9
 status: confirmed
 actors:
 - U.S. Congress
-- Senate
-- House of Representatives
+- United States Senate
+- U.S. House of Representatives
 - George W. Bush
 - DARPA
 - Information Awareness Office

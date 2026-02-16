@@ -2,13 +2,13 @@
 actors:
 - NPR
 - Donald Trump
-- Trump administration
+- Trump Administration
 - U.S. District Judge Randolph D. Moss
 - Katherine Maher (NPR CEO)
 - Theodore J. Boutrous (NPR attorney)
 - Alexander Resar (DOJ attorney)
 - Knight First Amendment Institute
-- ACLU
+- American Civil Liberties Union
 - Reporters Committee for Freedom of the Press
 - Committee to Protect Journalists
 - PEN America

@@ -10,7 +10,7 @@ actors:
 - CITIC Group
 - Lital Leshem
 - Carbyne
-- Commerce Department
+- US Commerce Department
 - People's Liberation Army
 tags:
 - frontier-services-group

@@ -6,7 +6,7 @@ title: Congressman Bob Ney Pleads Guilty in Abramoff Corruption Scandal
 actors:
 - Bob Ney
 - Jack Abramoff
-- House of Representatives
+- U.S. House of Representatives
 - Department of Justice
 - Neil Volz
 - William Heaton

@@ -10,7 +10,7 @@ actors:
 - Judge Steven Friedman
 - Joseph Luzinski (bankruptcy trustee)
 - Abraham Gosman (former owner)
-- Dmitry Rybolovlev (2008 purchaser)
+- Dmitry Rybolovlev
 tags:
 - money-laundering
 - russian-money
@@ -24,20 +24,15 @@ sources:
   url: https://www.pbs.org/newshour/politics/the-facts-and-timeline-of-trump-and-epsteins-falling-out
   outlet: PBS NewsHour
   date: '2024-07-22'
-- title: Jeffrey Epstein Battled Donald Trump for Palm Beach Mansion He Sold to Russian
-    Oligarch
+- title: Jeffrey Epstein Battled Donald Trump for Palm Beach Mansion He Sold to Russian Oligarch
   url: https://www.esquire.com/news-politics/politics/a28580523/jeffrey-epstein-donald-trump-palm-beach-mansion-russian-oligarch/
   outlet: Esquire
   date: '2019-07-29'
-- title: Remembering the auction that pitted Trump against Jeffrey Epstein for a Palm
-    Beach estate
+- title: Remembering the auction that pitted Trump against Jeffrey Epstein for a Palm Beach estate
   url: https://www.yahoo.com/news/remembering-auction-pitted-trump-against-193353746.html
   outlet: Yahoo News
   date: '2019-08-01'
-notes: The property was formerly owned by Leslie Wexner, Epstein's only publicly identified
-  client. Trump's $41.35 million purchase and 2008 sale for $95 million to Russian
-  oligarch Rybolovlev (then the most expensive U.S. residential sale) raises separate
-  money laundering concerns. This auction definitively ended the Trump-Epstein relationship.
+notes: The property was formerly owned by Leslie Wexner, Epstein's only publicly identified client. Trump's $41.35 million purchase and 2008 sale for $95 million to Russian oligarch Rybolovlev (then the most expensive U.S. residential sale) raises separate money laundering concerns. This auction definitively ended the Trump-Epstein relationship.
 status: confirmed
 ---
 

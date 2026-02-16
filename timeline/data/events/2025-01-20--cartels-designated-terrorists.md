@@ -7,9 +7,9 @@ location: Washington, DC
 actors:
 - Donald Trump
 - Secretary of State
-- Department of Treasury
+- Department of the Treasury
 - Department of Justice
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Director of National Intelligence
 - Claudia Sheinbaum (Mexican President)
 tags:

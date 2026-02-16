@@ -5,7 +5,7 @@ status: confirmed
 title: ALEC Adopts Living Wage Mandate Preemption Act to Block Local Minimum Wage Increases
 importance: 8
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - National Restaurant Association
 - McDonald's
 - Walmart

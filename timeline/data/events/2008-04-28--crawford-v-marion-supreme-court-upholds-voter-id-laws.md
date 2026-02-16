@@ -4,10 +4,10 @@ date: '2008-04-28'
 title: 'Crawford v. Marion County: Supreme Court Upholds Strict Voter ID Laws Despite No Evidence of In-Person Fraud'
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - John Paul Stevens
 - Indiana Legislature
-- ACLU
+- American Civil Liberties Union
 - Republican National Committee
 tags:
 - voting-rights
@@ -20,11 +20,11 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/553/181/
   outlet: Justia
   tier: 1
-- title: 'Crawford v. Marion County Election Board'
+- title: Crawford v. Marion County Election Board
   url: https://www.oyez.org/cases/2007/07-21
   outlet: Oyez
   tier: 1
-- title: 'The Impact of Voter ID Laws on Voter Turnout'
+- title: The Impact of Voter ID Laws on Voter Turnout
   url: https://www.brennancenter.org/our-work/research-reports/research-voter-id
   outlet: Brennan Center for Justice
   tier: 2

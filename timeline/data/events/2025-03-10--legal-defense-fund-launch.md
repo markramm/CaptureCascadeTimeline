@@ -12,7 +12,7 @@ actors:
 - Washington Litigation Group
 - Alliance for Justice
 - Democracy 2025 Coalition
-- CREW
+- Citizens for Responsibility and Ethics in Washington
 - Public Citizen
 - National Immigration Law Center
 - Interfaith Alliance
@@ -20,8 +20,7 @@ actors:
 - American Oversight
 sources:
 - outlet: Democracy Forward
-  title: 280-Organization Coalition Launches Multimillion-Dollar Legal Effort To Combat
-    Threats
+  title: 280-Organization Coalition Launches Multimillion-Dollar Legal Effort To Combat Threats
   url: https://democracyforward.org/updates/280-organization-coalition-launches-multimillion-dollar-legal-effort-to-combat-threats-to-people-democracy-expected-in-trump-vance-administration/
   date: '2025-03-10'
 - outlet: Nonprofit Quarterly

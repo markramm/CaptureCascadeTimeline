@@ -5,7 +5,7 @@ importance: 5
 title: X reverses 2019 ban, allows U.S. political ads; verified accounts prioritized in recommendations
 location: Online
 actors:
-- X (Twitter)
+- X/Twitter
 - Elon Musk
 tags:
 - platform-policy

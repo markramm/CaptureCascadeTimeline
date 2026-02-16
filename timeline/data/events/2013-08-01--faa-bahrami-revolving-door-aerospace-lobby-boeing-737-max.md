@@ -1,33 +1,28 @@
 ---
 date: '2013-08-01'
-title: FAA Safety Official Ali Bahrami Leaves for Aerospace Industries Association
-  During Boeing 737 MAX Development
+title: FAA Safety Official Ali Bahrami Leaves for Aerospace Industries Association During Boeing 737 MAX Development
 actors:
 - Ali Bahrami
-- FAA
+- Federal Aviation Administration
 - Boeing
 - Aerospace Industries Association
 - 737 MAX
 sources:
 - outlet: The Seattle Times
-  title: With Close Industry Ties, FAA Safety Chief Pushed More Delegation of Oversight
-    to Boeing
+  title: With Close Industry Ties, FAA Safety Chief Pushed More Delegation of Oversight to Boeing
   url: https://www.seattletimes.com/business/boeing-aerospace/with-close-industry-ties-faa-safety-chief-pushed-more-delegation-of-oversight-to-boeing/
   access_date: '2025-09-17'
-  description: Detailed investigation of Ali Bahrami's role in FAA's increasing delegation
-    of safety oversight to Boeing
+  description: Detailed investigation of Ali Bahrami's role in FAA's increasing delegation of safety oversight to Boeing
 - outlet: Project On Government Oversight (POGO)
   title: How the FAA Ceded Aviation Safety Oversight to Boeing
   url: https://www.pogo.org/analysis/how-the-faa-ceded-aviation-safety-oversight-to-boeing
   access_date: '2025-09-17'
-  description: Critical analysis of the systemic regulatory capture within the FAA's
-    aircraft certification process
+  description: Critical analysis of the systemic regulatory capture within the FAA's aircraft certification process
 - outlet: Corporate Jet Investor
   title: FAA's Ali Bahrami to Step Down
   url: https://www.corporatejetinvestor.com/news/faas-ali-bahrami-to-step-down-338/
   access_date: '2025-09-17'
-  description: Industry perspective on Bahrami's career transition from FAA to aerospace
-    industry lobby
+  description: Industry perspective on Bahrami's career transition from FAA to aerospace industry lobby
 importance: 9
 tags:
 - regulatory-capture

@@ -2,13 +2,12 @@
 id: 2001-01-29--bush-creates-faith-based-initiatives-directing-bil
 date: '2001-01-29'
 importance: 8
-title: Bush Administration Establishes Faith-Based Initiative Infrastructure for Systematic
-  Constitutional Transformation
+title: Bush Administration Establishes Faith-Based Initiative Infrastructure for Systematic Constitutional Transformation
 actors:
 - George W. Bush
 - Pat Robertson
 - Faith-Based Organizations
-- Supreme Court
+- U.S. Supreme Court
 tags:
 - faith-based-initiatives
 - church-state

@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Pfizer
 - BioNTech
-- U.S. Government
+- U.S. government
 tags:
 - healthcare
 - covid-19

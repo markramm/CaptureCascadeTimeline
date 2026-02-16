@@ -5,8 +5,8 @@ title: Minneapolis Public Schools Cancel Classes, Offer Remote Learning Through 
 importance: 8
 actors:
 - Minneapolis Public Schools
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 tags:
 - operation-metro-surge
 - schools

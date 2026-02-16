@@ -9,7 +9,7 @@ actors:
 - Chris Van Hollen
 - Mitch McConnell
 - Barack Obama
-- House of Representatives
+- U.S. House of Representatives
 - U.S. Senate
 tags:
 - legislative-response
@@ -24,8 +24,7 @@ capture_lanes:
 - Corporate Capture & Regulatory Breakdown
 - Legislative Branch Institutional Breakdown
 sources:
-- title: 'Weekly Address: President Obama Castigates GOP Leadership for Blocking Fixes
-    for the Citizens United Decision'
+- title: 'Weekly Address: President Obama Castigates GOP Leadership for Blocking Fixes for the Citizens United Decision'
   url: https://obamawhitehouse.archives.gov/the-press-office/2010/09/18/weekly-address-president-obama-castigates-gop-leadership-blocking-fixes-
   outlet: Obama White House Archives
   date: '2010-09-18'
@@ -41,11 +40,7 @@ sources:
   url: https://campaignlegal.org/update/how-does-citizens-united-decision-still-affect-us-2025
   outlet: Campaign Legal Center
   date: '2025-01-15'
-notes: The DISCLOSE Act would have required corporate political advertisers to reveal
-  funding sources and required whoever funds ads to appear and claim responsibility.
-  Obama criticized Republican leadership for hoping 'special interests will reward
-  them by funding attack ads against their opponents.' This legislative failure ensured
-  dark money groups could operate without transparency.
+notes: The DISCLOSE Act would have required corporate political advertisers to reveal funding sources and required whoever funds ads to appear and claim responsibility. Obama criticized Republican leadership for hoping 'special interests will reward them by funding attack ads against their opponents.' This legislative failure ensured dark money groups could operate without transparency.
 status: confirmed
 ---
 

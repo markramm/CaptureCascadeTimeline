@@ -28,7 +28,7 @@ sources:
   outlet: Physicians for a National Health Program
 actors:
 - Max Baucus
-- Senate Finance Committee
+- U.S. Senate Finance Committee
 - Merck
 - UnitedHealth Group
 - Jeffrey Forbes

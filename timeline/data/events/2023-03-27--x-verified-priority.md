@@ -1,7 +1,7 @@
 ---
 actors:
 - Elon Musk
-- X (Twitter)
+- X/Twitter
 capture_lanes:
 - Information & Media Control
 citations:
@@ -34,8 +34,7 @@ sources:
   url: https://www.cnbc.com/2023/03/28/elon-musk-says-only-verified-twitter-users-to-show-up-in-for-you-tab.html
   outlet: CNBC
   date: '2023-03-28'
-- title: Elon Musk Says Only Verified Twitter Accounts Will Appear in For You Timeline
-    Starting in April
+- title: Elon Musk Says Only Verified Twitter Accounts Will Appear in For You Timeline Starting in April
   url: https://variety.com/2023/digital/news/elon-musk-twitter-verified-accounts-for-you-recommendations-1235566031/
   outlet: Variety
   date: '2023-03-28'

@@ -16,7 +16,7 @@ sources:
   outlet: The Wall Street Journal
 actors:
 - Brendan Carr
-- FCC
+- Federal Communications Commission
 - Donald Trump
 - Comcast
 - NBC

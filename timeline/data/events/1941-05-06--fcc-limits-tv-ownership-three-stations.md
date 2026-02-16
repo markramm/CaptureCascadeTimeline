@@ -4,7 +4,7 @@ date: '1941-05-06'
 title: FCC Establishes Television Ownership Limit of Three Stations to Prevent Media Monopoly Concentration
 importance: 8
 actors:
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 tags:
 - media-regulation
 - ownership-limits
@@ -13,7 +13,7 @@ tags:
 - antitrust
 - media-concentration
 sources:
-- title: 'Review of the Commission''s Broadcast Ownership Rules'
+- title: Review of the Commission's Broadcast Ownership Rules
   url: https://docs.fcc.gov/public/attachments/DOC-347796A2.pdf
   outlet: Federal Communications Commission
   date: '2024-01-01'

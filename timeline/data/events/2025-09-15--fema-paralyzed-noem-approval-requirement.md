@@ -11,9 +11,9 @@ tags:
 - government-dysfunction
 actors:
 - Kristi Noem
-- FEMA
+- Federal Emergency Management Agency (FEMA)
 - Elon Musk
-- DOGE
+- Department of Government Efficiency
 sources:
 - title: 'Editorial: FEMA is failing its ''test case'' in St. Louis. Where are Missouri''s leaders?'
   url: https://www.stltoday.com/opinion/editorial/article_eb2db987-aed7-463c-8cca-8f8ff64b85b3.html

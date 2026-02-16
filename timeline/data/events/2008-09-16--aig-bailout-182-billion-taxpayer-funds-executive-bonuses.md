@@ -16,7 +16,7 @@ actors:
 - Ben Bernanke
 - Timothy Geithner
 - Henry Paulson
-- Treasury Department
+- U.S. Treasury Department
 - Edward Liddy
 sources:
 - url: https://www.newyorkfed.org/aboutthefed/aig

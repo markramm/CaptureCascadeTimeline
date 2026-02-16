@@ -7,7 +7,7 @@ actors:
 - U.S. Supreme Court
 - Justice David Josiah Brewer
 - Eugene V. Debs
-- Federal judiciary
+- Federal Judiciary
 - Corporate interests
 tags:
 - labor-suppression

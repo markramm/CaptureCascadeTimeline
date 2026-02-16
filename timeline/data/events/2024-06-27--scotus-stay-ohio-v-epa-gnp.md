@@ -6,10 +6,10 @@ importance: 6
 location: Washington, DC
 actors:
 - Supreme Court of the United States
-- EPA
-- Justice Neil Gorsuch (majority opinion)
+- Environmental Protection Agency (EPA)
+- Justice Neil Gorsuch
 - Justice Amy Coney Barrett (dissent)
-- State of Ohio (applicant)
+- State of Ohio
 - State of Indiana (applicant)
 - State of West Virginia (applicant)
 tags:
@@ -27,9 +27,7 @@ citations:
 - Ohio v. EPA, No. 23A349 (2024)
 - https://www.supremecourt.gov/opinions/23pdf/23a349_0813.pdf
 - https://www.brennancenter.org/our-work/analysis-opinion/what-supreme-courts-epa-stay-means
-notes: EPA's plan covered 23 upwind states to prevent ozone drift to downwind states.
-  The 2023 rule followed EPA rejecting 21 state plans. Case continues in D.C. Circuit
-  with oral arguments expected fall 2024.
+notes: EPA's plan covered 23 upwind states to prevent ozone drift to downwind states. The 2023 rule followed EPA rejecting 21 state plans. Case continues in D.C. Circuit with oral arguments expected fall 2024.
 status: confirmed
 sources:
 - title: Ohio v. EPA Opinion

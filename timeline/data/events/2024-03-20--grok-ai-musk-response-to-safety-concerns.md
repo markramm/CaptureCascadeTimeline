@@ -8,7 +8,7 @@ actors:
 - xAI
 - AI Safety Researchers
 - GSA AI Safety Team
-- Department of Defense
+- U.S. Department of Defense
 - Pentagon AI Procurement Office
 tags:
 - ai-safety

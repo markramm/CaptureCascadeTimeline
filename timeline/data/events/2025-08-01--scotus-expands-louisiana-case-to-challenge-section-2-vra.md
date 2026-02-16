@@ -5,12 +5,12 @@ title: Supreme Court Expands Louisiana Redistricting Case to Challenge Section 2
 importance: 10
 status: confirmed
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Department of Justice
 - Louisiana
 - NAACP Legal Defense Fund
 - Brennan Center for Justice
-- ACLU
+- American Civil Liberties Union
 - Civil Rights Division
 tags:
 - voting-rights-act

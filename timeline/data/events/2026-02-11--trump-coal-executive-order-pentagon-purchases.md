@@ -6,7 +6,7 @@ title: Trump Orders Pentagon to Purchase Coal-Fired Electricity
 importance: 7
 actors:
 - Donald Trump
-- Department of Defense
+- U.S. Department of Defense
 - Department of Energy
 - Peabody Energy
 tags:

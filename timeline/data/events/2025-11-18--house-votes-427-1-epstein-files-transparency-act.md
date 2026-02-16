@@ -28,8 +28,8 @@ sources:
   tier: 1
   outlet: ABC News
 actors:
-- House of Representatives
-- Senate
+- U.S. House of Representatives
+- United States Senate
 - Mike Johnson
 - Donald Trump
 - Clay Higgins

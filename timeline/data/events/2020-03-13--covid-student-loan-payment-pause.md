@@ -10,7 +10,7 @@ tags:
 actors:
 - Donald Trump
 - Joe Biden
-- Department of Education
+- U.S. Department of Education
 sources:
 - url: https://studentaid.gov/announcements-events/covid-19/payment-pause-zero-interest
   title: COVID-19 Emergency Relief and Federal Student Aid

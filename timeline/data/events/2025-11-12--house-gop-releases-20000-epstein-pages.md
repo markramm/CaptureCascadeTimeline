@@ -11,7 +11,7 @@ tags:
 - partisan-politics
 - transparency
 actors:
-- House Oversight Committee
+- U.S. House Oversight Committee
 - James Comer
 - Jeffrey Epstein
 - Donald Trump

@@ -38,7 +38,7 @@ actors:
 - Mallinckrodt
 - Federal Trade Commission
 - Humana
-- Congress
+- U.S. Congress
 - Big Pharma
 ---
 

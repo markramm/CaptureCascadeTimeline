@@ -1,7 +1,7 @@
 ---
 actors:
 - Federal District Court
-- Department of Defense
+- U.S. Department of Defense
 - State Governors
 - Donald Trump
 - 9th U.S. Circuit Court of Appeals
@@ -21,23 +21,19 @@ importance: 9
 sources:
 - date: '2025-06-20'
   outlet: PBS News
-  title: Trump allowed to keep control of National Guard troops deployed to Los Angeles
-    by appeals court
+  title: Trump allowed to keep control of National Guard troops deployed to Los Angeles by appeals court
   url: https://www.pbs.org/newshour/politics/trump-allowed-to-keep-control-of-national-guard-troops-deployed-to-los-angeles-by-appeals-court
 - date: '2025-06-19'
   outlet: NPR
-  title: Appeals court backs Trump's control of the California National Guard for
-    now
+  title: Appeals court backs Trump's control of the California National Guard for now
   url: https://www.npr.org/2025/06/19/g-s1-73050/trump-national-guard-immigration
 - date: '2025-06-20'
   outlet: Reason
-  title: The 9th Circuit rejects Trump's audacious claim that he can use the National
-    Guard however he likes
+  title: The 9th Circuit rejects Trump's audacious claim that he can use the National Guard however he likes
   url: https://reason.com/2025/06/20/the-9th-circuit-rejects-trumps-audacious-claim-that-he-can-use-the-national-guard-however-he-likes/
 - date: '2025-10-09'
   outlet: OPB
-  title: 9th Circuit Court skeptical of order blocking Trump's troop deployment to
-    Portland
+  title: 9th Circuit Court skeptical of order blocking Trump's troop deployment to Portland
   url: https://www.opb.org/article/2025/10/09/ninth-circuit-court-trump-national-guards-oregon/
 - date: '2025-09-01'
   outlet: CalMatters

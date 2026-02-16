@@ -3,7 +3,7 @@ date: '2001-12-13'
 title: Office of Information and Regulatory Affairs Systematically Subordinated to Corporate Input
 importance: 9
 actors:
-- OIRA
+- Office of Information and Regulatory Affairs
 - John Graham
 - Corporate Stakeholder Panels
 - Federal Agencies

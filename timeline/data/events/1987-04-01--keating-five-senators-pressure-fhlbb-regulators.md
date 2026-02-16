@@ -5,11 +5,11 @@ title: Keating Five Senators Pressure FHLBB to Halt Lincoln Investigation
 importance: 9
 location: Washington DC
 actors:
-- Alan Cranston (D-CA)
-- Dennis DeConcini (D-AZ)
-- John Glenn (D-OH)
-- John McCain (R-AZ)
-- Donald Riegle (D-MI)
+- Alan Cranston
+- Dennis DeConcini
+- John Glenn
+- John McCain
+- Donald Riegle
 - Charles Keating
 - Edwin Gray
 - Federal Home Loan Bank Board

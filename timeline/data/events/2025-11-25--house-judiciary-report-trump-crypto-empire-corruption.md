@@ -96,7 +96,7 @@ actors:
 - Kraken
 - Securities and Exchange Commission
 - Department of Justice
-- Treasury Department
+- U.S. Treasury Department
 - Federal Trade Commission
 - Internal Revenue Service
 - FinCEN

@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - White House
 - Department of the Treasury
-- Department of Housing and Urban Development
+- U.S. Department of Housing and Urban Development
 - Department of Justice
 - Federal Trade Commission
 tags:
@@ -18,7 +18,7 @@ tags:
 - regulatory-intervention
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/
-  title: 'Stopping Wall Street from Competing with Main Street Homebuyers'
+  title: Stopping Wall Street from Competing with Main Street Homebuyers
   outlet: White House
   date: '2026-01-20'
   tier: 1
@@ -28,7 +28,7 @@ sources:
   date: '2026-01-20'
   tier: 1
 - url: https://www.cnbc.com/2026/01/21/trump-says-he-wants-people-to-be-able-to-a-buy-a-home.html
-  title: 'Trump targets Wall Street homebuyers, but affordability doubts remain'
+  title: Trump targets Wall Street homebuyers, but affordability doubts remain
   outlet: CNBC
   date: '2026-01-21'
   tier: 2

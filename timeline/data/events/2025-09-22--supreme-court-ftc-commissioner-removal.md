@@ -11,11 +11,11 @@ tags:
 - authoritarianism
 - constitutional-crisis
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - Rebecca Slaughter
 - Alvaro Bedoya
-- FTC
+- Federal Trade Commission
 sources:
 - title: Supreme Court allows Trump to fire -- for now -- remaining Democrat on FTC
   url: https://www.npr.org/2025/09/22/nx-s1-5550307/supreme-court-ftc-firing

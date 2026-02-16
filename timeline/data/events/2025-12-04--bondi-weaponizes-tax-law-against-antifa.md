@@ -9,12 +9,12 @@ actors:
 - Pam Bondi
 - DOJ
 - FBI
-- IRS
-- Treasury Department
+- Internal Revenue Service
+- U.S. Treasury Department
 - Ron Wyden
 - Chuck Schumer
 - Elizabeth Warren
-- ACLU
+- American Civil Liberties Union
 - Hina Shamsi
 tags:
 - doj-weaponization

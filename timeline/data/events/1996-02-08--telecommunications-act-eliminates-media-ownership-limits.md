@@ -1,13 +1,12 @@
 ---
 id: 1996-02-08--telecommunications-act-eliminates-media-ownership-limits
 date: '1996-02-08'
-title: Telecommunications Act of 1996 Eliminates Radio Ownership Caps and Raises TV
-  Limits, Triggering Massive Media Consolidation
+title: Telecommunications Act of 1996 Eliminates Radio Ownership Caps and Raises TV Limits, Triggering Massive Media Consolidation
 importance: 10
 actors:
 - Bill Clinton
 - U.S. Congress
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 - Clear Channel Communications
 - Viacom
 - Infinity Broadcasting
@@ -32,8 +31,7 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: Democracy in Peril - Twenty Years of Media Consolidation Under the Telecommunications
-    Act
+- title: Democracy in Peril - Twenty Years of Media Consolidation Under the Telecommunications Act
   url: https://truthout.org/articles/democracy-in-peril-twenty-years-of-media-consolidation-under-the-telecommunications-act/
   outlet: Truthout
   date: '2024-01-01'
@@ -59,8 +57,7 @@ sources:
   url: https://repository.law.indiana.edu/cgi/viewcontent.cgi?article=1447&context=fclj
 - date: '2002-01-01'
   outlet: John Marshall Journal of Computer and Information Law
-  title: 'Big Media: Its Effect on the Marketplace of Ideas and How to Slow the Urge
-    to Merge'
+  title: 'Big Media: Its Effect on the Marketplace of Ideas and How to Slow the Urge to Merge'
   url: https://repository.upenn.edu/cgi/viewcontent.cgi?article=1759&context=asc_papers
 - title: Two Weeks Ago Congress Passed a Sweeping New Telecommunications Bill
   url: https://www.npr.org/1996/02/15/1108847/two-weeks-ago-congress-passed-a-sweeping-new-telecommunications-bill-the-biggest

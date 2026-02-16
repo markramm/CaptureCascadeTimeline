@@ -1,14 +1,13 @@
 ---
 id: 2018-08-01--trump-expands-short-term-junk-insurance-plans
 date: '2018-08-01'
-title: Trump Administration Expands 'Junk Insurance' Short-Term Plans to Undermine
-  ACA
+title: Trump Administration Expands 'Junk Insurance' Short-Term Plans to Undermine ACA
 importance: 7
 actors:
 - Trump Administration
-- Department of Health and Human Services
-- Department of Labor
-- Department of Treasury
+- U.S. Department of Health and Human Services
+- U.S. Department of Labor
+- Department of the Treasury
 - America's Health Insurance Plans
 - American Medical Association
 - American Hospital Association
@@ -21,8 +20,7 @@ tags:
 - consumer-protection
 - administrative-sabotage
 sources:
-- title: Trump era rule that expanded duration of short-term health plans in Democrats'
-    crosshairs
+- title: Trump era rule that expanded duration of short-term health plans in Democrats' crosshairs
   url: https://www.fiercehealthcare.com/payers/trump-era-rule-expanded-duration-short-term-health-plans-democrats-crosshairs
   outlet: Fierce Healthcare
   tier: 2
@@ -30,8 +28,7 @@ sources:
   url: https://thehill.com/policy/healthcare/4561849-biden-trump-short-term-junk-insurance-plans-obamacare/
   outlet: The Hill
   tier: 2
-- title: Trump has brought back the type of junk health insurance that Obamacare was
-    meant to ban
+- title: Trump has brought back the type of junk health insurance that Obamacare was meant to ban
   url: https://slate.com/business/2018/08/trump-has-brought-back-the-type-of-junk-health-insurance-that-obamacare-was-meant-to-ban.html
   outlet: Slate
   tier: 3

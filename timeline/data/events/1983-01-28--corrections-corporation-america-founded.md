@@ -7,7 +7,7 @@ actors:
 - Thomas W. Beasley
 - Robert Crants
 - T. Don Hutto
-- Corrections Corporation of America (CCA)
+- Corrections Corporation of America
 - Massey Burch Investment Group
 - Jack C. Massey
 tags:

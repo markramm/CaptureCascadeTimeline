@@ -2,8 +2,7 @@
 id: 2019-07-01--devos-repeals-gainful-employment-rule
 date: '2019-07-01'
 importance: 9
-title: Betsy DeVos Repeals Gainful Employment Rule, Eliminating All Accountability
-  for For-Profit College Job Outcomes Despite $1.3 Billion Projected Cost to Taxpayers
+title: Betsy DeVos Repeals Gainful Employment Rule, Eliminating All Accountability for For-Profit College Job Outcomes Despite $1.3 Billion Projected Cost to Taxpayers
 location: Washington, D.C.
 actors:
 - Betsy DeVos
@@ -11,7 +10,7 @@ actors:
 - Robert Eitel
 - Julian Schmoke Jr.
 - For-Profit College Industry
-- Association of Private Sector Colleges and Universities (APSCU)
+- Association of Private Sector Colleges and Universities
 tags:
 - for-profit-education
 - deregulation
@@ -47,8 +46,7 @@ sources:
   outlet: ProPublica
   date: '2024-08-28'
   archive_url: https://web.archive.org/web/20240828000000/https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
-- title: Justice Clarence Thomas formally reports trip to Bali paid for by conservative
-    donor
+- title: Justice Clarence Thomas formally reports trip to Bali paid for by conservative donor
   url: https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html
   outlet: CNN
   date: '2024-06-07'
@@ -63,12 +61,7 @@ sources:
   outlet: The Washington Post
   date: '2024-06-07'
   archive_url: https://web.archive.org/web/20240607000000/https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/
-notes: Congressional Budget Office estimated repeal would cost taxpayers $1.3 billion
-  over 10 years in increased loan defaults. 800+ programs had failed gainful employment
-  tests, 98% at for-profit colleges. DeVos hired former for-profit college executives
-  including Robert Eitel (Bridgepoint Education) and Julian Schmoke Jr. (DeVry University)
-  to senior Education Dept positions overseeing the industry. 21 state attorneys general
-  sued over repeal. Repeal came despite Education Dept Inspector General warnings.
+notes: Congressional Budget Office estimated repeal would cost taxpayers $1.3 billion over 10 years in increased loan defaults. 800+ programs had failed gainful employment tests, 98% at for-profit colleges. DeVos hired former for-profit college executives including Robert Eitel (Bridgepoint Education) and Julian Schmoke Jr. (DeVry University) to senior Education Dept positions overseeing the industry. 21 state attorneys general sued over repeal. Repeal came despite Education Dept Inspector General warnings.
 status: confirmed
 ---
 

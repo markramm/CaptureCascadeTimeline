@@ -5,7 +5,7 @@ status: confirmed
 title: House Passes Final FY2026 Appropriations Bills in Split Vote
 importance: 7
 actors:
-- House of Representatives
+- U.S. House of Representatives
 - Mike Johnson
 - House Committee on Appropriations
 tags:

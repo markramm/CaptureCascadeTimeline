@@ -5,7 +5,7 @@ date: '2025-07-29'
 importance: 6
 location: Washington DC
 actors:
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Lee Zeldin (EPA Administrator)
 tags:
 - environmental-deregulation
@@ -13,23 +13,17 @@ tags:
 - greenhouse-gas
 - endangerment-finding
 - vehicle-standards
-notes: 'Proposal advances 3 arguments: 1) CAA Section 202(a) doesn''t authorize climate
-  standards 2) 2009 Finding unreasonably analyzed science 3) No vehicle tech can meaningfully
-  address climate without greater harm. D.C. Circuit upheld finding in 2023, SCOTUS
-  refused to hear case. Would eliminate legal basis for all EPA GHG regulations if
-  finalized. Major environmental deregulation targeting foundational climate rule.'
+notes: 'Proposal advances 3 arguments: 1) CAA Section 202(a) doesn''t authorize climate standards 2) 2009 Finding unreasonably analyzed science 3) No vehicle tech can meaningfully address climate without greater harm. D.C. Circuit upheld finding in 2023, SCOTUS refused to hear case. Would eliminate legal basis for all EPA GHG regulations if finalized. Major environmental deregulation targeting foundational climate rule.'
 sources:
 - title: EPA Releases Proposal to Rescind Obama-Era Endangerment Finding
   url: https://www.epa.gov/newsreleases/epa-releases-proposal-rescind-obama-era-endangerment-finding-regulations-paved-way
   outlet: EPA
   date: '2025-07-29'
-- title: The EPA proposes gutting its greenhouse gas rules. Here's what it means for
-    cars and pollution
+- title: The EPA proposes gutting its greenhouse gas rules. Here's what it means for cars and pollution
   url: https://www.npr.org/2025/07/29/nx-s1-5463771/epa-greenhouse-gas-regulations-cars-pollution
   outlet: NPR
   date: '2025-07-29'
-- title: EPA to revoke 'endangerment finding,' landmark basis for regulating greenhouse
-    gases
+- title: EPA to revoke 'endangerment finding,' landmark basis for regulating greenhouse gases
   url: https://www.cbsnews.com/news/epa-revoke-endangerment-finding-regulating-greenhouse-gases/
   outlet: CBS News
   date: '2025-07-29'

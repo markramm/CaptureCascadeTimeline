@@ -5,11 +5,11 @@ importance: 8
 title: Trump Environmental Rollbacks Cause 80,000 Excess Deaths Per Decade
 actors:
 - Donald Trump
-- EPA
+- Environmental Protection Agency (EPA)
 - Scott Pruitt
 - Andrew Wheeler
 - David Bernhardt
-- Harvard Researchers
+- Harvard researchers
 tags:
 - environmental-destruction
 - public-health

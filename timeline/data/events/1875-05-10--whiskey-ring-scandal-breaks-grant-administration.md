@@ -7,7 +7,7 @@ actors:
 - Benjamin H. Bristow
 - Orville Babcock
 - Ulysses S. Grant
-- Treasury Department
+- U.S. Treasury Department
 - Whiskey Distillers
 sources:
 - title: Grant, Babcock, and the Whiskey Ring

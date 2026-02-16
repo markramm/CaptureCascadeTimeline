@@ -14,7 +14,7 @@ actors:
 - Jeffrey Epstein
 - Department of Justice
 - Donald Trump
-- House Oversight Committee
+- U.S. House Oversight Committee
 sources:
 - url: https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files
   title: Attorney General Pamela Bondi Releases First Phase of Declassified Epstein Files

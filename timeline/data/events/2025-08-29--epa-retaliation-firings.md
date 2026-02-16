@@ -10,7 +10,7 @@ tags:
 - political-purge
 - free-speech
 actors:
-- EPA
+- Environmental Protection Agency (EPA)
 - Lee Zeldin
 - Trump
 sources:

@@ -1,11 +1,10 @@
 ---
 id: 2025-02-01--alec-essential-policy-solutions-2025
 date: '2025-02-01'
-title: ALEC Publishes 'Essential Policy Solutions 2025' Playbook - State-Level Corporate
-  and Income Tax Elimination Agenda, Coordination with Federal Project 2025
+title: ALEC Publishes 'Essential Policy Solutions 2025' Playbook - State-Level Corporate and Income Tax Elimination Agenda, Coordination with Federal Project 2025
 importance: 8
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Lisa Nelson
 - Arthur Laffer
 - State Policy Network
@@ -35,14 +34,12 @@ sources:
   outlet: Center for Media and Democracy
   date: '2025-02-10'
   tier: 1
-- title: ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize
-    Economic Growth
+- title: ALEC Tax and Budget Proposals Would Slash Public Services and Jeopardize Economic Growth
   url: https://www.cbpp.org/research/alec-tax-and-budget-proposals-would-slash-public-services-and-jeopardize-economic-growth
   outlet: Center on Budget and Policy Priorities
   date: '2024-01-01'
   tier: 1
-- title: ALEC's Economic Agenda Will Weaken State Economies and Harm Working Families,
-    Leading Experts Find
+- title: ALEC's Economic Agenda Will Weaken State Economies and Harm Working Families, Leading Experts Find
   url: https://www.epi.org/press/alecs-economic-agenda-weaken-state-economies/
   outlet: Economic Policy Institute
   date: '2024-01-01'
@@ -65,8 +62,7 @@ sources:
   url: https://www.nbcnews.com/politics/justice-department/fbi-folds-public-corruption-squad-aided-jack-smiths-trump-investigatio-rcna207029
   outlet: NBC News
   date: '2025-05-15'
-- title: Firings, pardons and policy changes have gutted DOJ anti-corruption efforts,
-    experts say
+- title: Firings, pardons and policy changes have gutted DOJ anti-corruption efforts, experts say
   url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
   outlet: NBC News
   date: '2025-06-03'
@@ -74,8 +70,7 @@ sources:
   url: https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928
   outlet: NBC News
   date: '2025-03-12'
-- title: 'From Pardons to Purges: Pressing Questions that Bondi and Patel Must Answer
-    Now'
+- title: 'From Pardons to Purges: Pressing Questions that Bondi and Patel Must Answer Now'
   url: https://www.justsecurity.org/107278/bondi-patel-fbi-purges/
   outlet: Just Security
   date: '2025-02-15'
@@ -93,22 +88,18 @@ sources:
   url: https://www.propublica.org/article/veterans-affairs-doug-collins-democrats-transparency-job-cuts-healthcare
 - date: '2025-05-01'
   outlet: PBS News Hour
-  title: VA Secretary Doug Collins on Widespread Cuts to His Department and the Impact
-    on Veterans
+  title: VA Secretary Doug Collins on Widespread Cuts to His Department and the Impact on Veterans
   url: https://www.pbs.org/newshour/show/va-secretary-doug-collins-on-widespread-cuts-to-his-department-and-the-impact-on-veterans
 - date: '2025-05-05'
   outlet: Federal News Network
-  title: '''Money and people do not solve the problems'': Collins defends upcoming
-    VA workforce cuts'
+  title: '''Money and people do not solve the problems'': Collins defends upcoming VA workforce cuts'
   url: https://www.federalnewsnetwork.com/workforce/2025/05/money-and-people-do-not-solve-the-problems-collins-defends-upcoming-va-workforce-cuts/
-- title: Trump administration estimates 50,000 federal employees will lose civil service
-    protections
+- title: Trump administration estimates 50,000 federal employees will lose civil service protections
   url: https://federalnewsnetwork.com/workforce/2025/04/trump-administration-estimates-50000-federal-employees-will-lose-civil-service-protections/
   outlet: Federal News Network
   date: '2025-04-18'
   tier: 1
-- title: Trump revives executive order aiming to strip some federal employees of civil
-    service protections
+- title: Trump revives executive order aiming to strip some federal employees of civil service protections
   url: https://federalnewsnetwork.com/workforce/2025/01/trump-revives-executive-order-aiming-to-strip-some-federal-employees-of-civil-service-protections/
   outlet: Federal News Network
   date: '2025-01-20'
@@ -118,8 +109,7 @@ sources:
   outlet: NPR
   date: '2025-04-18'
   tier: 1
-- title: What to know about Schedule F, Trump's plan to replace federal workers with
-    loyalists
+- title: What to know about Schedule F, Trump's plan to replace federal workers with loyalists
   url: https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers
   outlet: Axios
   date: '2025-04-18'
@@ -133,8 +123,7 @@ sources:
   title: Trump moves to reclassify federal workers, making it easier to fire them
   url: https://www.pbs.org/newshour/show/trump-moves-to-reclassify-federal-workers-making-it-easier-to-fire-them
 - outlet: The White House
-  title: 'Fact Sheet: President Donald J. Trump Creates New Federal Employee Category
-    to Enhance Accountability'
+  title: 'Fact Sheet: President Donald J. Trump Creates New Federal Employee Category to Enhance Accountability'
   url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/
 - title: MAGA commissars in federal agencies
   url: https://www.usnews.com/news/politics/maga-commissars-agencies
@@ -149,8 +138,7 @@ sources:
   url: https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/
   outlet: Government Executive
   date: '2025-01-25'
-- title: 'Loyalty Tests and MAGA Checks: Inside the Trump White House''s Intense Screening
-    of Job-Seekers'
+- title: 'Loyalty Tests and MAGA Checks: Inside the Trump White House''s Intense Screening of Job-Seekers'
   url: https://www.usnews.com/news/politics/articles/2025-01-25/loyalty-tests-and-maga-checks-inside-the-trump-white-houses-intense-screening-of-job-seekers
   outlet: U.S. News & World Report
   date: '2025-01-25'
@@ -166,8 +154,7 @@ sources:
   url: https://www.cbsnews.com/news/noaa-budget-cut-climate-research-draft-proposal/
   outlet: CBS News
   date: '2025-04-11'
-- title: Trump's budget plan eviscerates weather and climate research, and it could
-    be enacted immediately
+- title: Trump's budget plan eviscerates weather and climate research, and it could be enacted immediately
   url: https://www.cnn.com/2025/04/11/climate/trump-noaa-budget-cuts/index.html
   outlet: CNN
   date: '2025-04-11'
@@ -200,13 +187,11 @@ sources:
   url: https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/
   outlet: The Washington Post
   date: '2025-02-26'
-- title: World's wealthiest man Elon Musk has been entrusted with federal cost-cutting
-    while his businesses have collected a reported $38 billion in government funds
+- title: World's wealthiest man Elon Musk has been entrusted with federal cost-cutting while his businesses have collected a reported $38 billion in government funds
   url: https://fortune.com/2025/02/26/elon-musk-companies-billion-government-funding-tesla-spacex-doge/
   outlet: Fortune
   date: '2025-02-26'
-- title: As Musk works to slash federal spending, his own firms have received billions
-    in government contracts
+- title: As Musk works to slash federal spending, his own firms have received billions in government contracts
   url: https://abcnews.go.com/US/musk-works-slash-federal-spending-firms-received-billions/story?id=118589121
   outlet: ABC News
   date: '2025-02-26'
@@ -231,8 +216,7 @@ sources:
   outlet: CNN
   date: '2025-02-01'
   archive_url: https://web.archive.org/web/20250814194913/https://www.cnn.com/
-- title: 'A 5-star rating for conflicts of interest: Commerce Sec. Howard Lutnick''s
-    finances raise red flags'
+- title: 'A 5-star rating for conflicts of interest: Commerce Sec. Howard Lutnick''s finances raise red flags'
   url: https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/
   outlet: Salon
   date: '2025-04-24'
@@ -254,8 +238,7 @@ sources:
   url: https://campaignlegal.org/update/trumps-nominees-and-conflicts-they-carry
   outlet: Campaign Legal Center
   date: '2025-02-01'
-- title: Campaign Legal Center Partners With The New York Times for Exclusive on Trump
-    Cabinet Conflicts of Interest
+- title: Campaign Legal Center Partners With The New York Times for Exclusive on Trump Cabinet Conflicts of Interest
   url: https://campaignlegal.org/update/campaign-legal-center-partners-new-york-times-exclusive-trump-cabinet-conflicts-interest
   outlet: Campaign Legal Center
   date: '2025-02-01'
@@ -267,8 +250,7 @@ sources:
   url: https://www.washingtonpost.com/politics/interactive/2025/trump-officials-cryptocurrency-holdings-bitcoin/
   outlet: The Washington Post
   date: '2025-02-01'
-- title: Half a dozen members of Trump's cabinet hold Bitcoin assets, disclosures
-    reveal
+- title: Half a dozen members of Trump's cabinet hold Bitcoin assets, disclosures reveal
   url: https://fortune.com/2025/03/13/bitcoin-trump-cabinet-finance-disclosures-digital-crypto-bessent-rfk-gabbard/
   outlet: Fortune
   date: '2025-03-13'

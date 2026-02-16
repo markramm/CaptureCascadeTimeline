@@ -2,14 +2,13 @@
 id: 2002-02-14--bush-valentine-day-massacre-fires-two-inspector-ge
 date: '2002-02-14'
 importance: 8
-title: Bush Administration's Systematic Destruction of Oversight Infrastructure Enables
-  WHIG Constitutional Crisis Operations
+title: Bush Administration's Systematic Destruction of Oversight Infrastructure Enables WHIG Constitutional Crisis Operations
 actors:
 - George W. Bush
 - Louise Jordan
 - Roberta Gross
 - Sean O'Keefe
-- Congress
+- U.S. Congress
 tags:
 - inspector-general
 - oversight-destruction

@@ -12,7 +12,7 @@ tags:
 - trump-administration
 actors:
 - Andrew Wheeler
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Donald Trump
 - Coal Industry
 - Scott Pruitt

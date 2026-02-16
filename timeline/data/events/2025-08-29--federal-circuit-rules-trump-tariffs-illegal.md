@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - U.S. Court of Appeals for the Federal Circuit
 - Donald Trump
-- Supreme Court
+- U.S. Supreme Court
 tags:
 - judiciary
 - courts

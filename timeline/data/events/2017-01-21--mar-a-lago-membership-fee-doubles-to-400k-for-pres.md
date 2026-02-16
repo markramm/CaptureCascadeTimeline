@@ -8,7 +8,7 @@ actors:
 - Mar-a-Lago
 - Chris Ruddy
 - Yujing Zhang
-- Secret Service
+- U.S. Secret Service
 tags:
 - pay-for-access
 - emoluments-clause

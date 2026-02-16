@@ -24,7 +24,7 @@ actors:
 - Thomas Massie
 - Ro Khanna
 - Mike Johnson
-- House of Representatives
+- U.S. House of Representatives
 ---
 
 Representative Thomas Massie (R-KY) filed a discharge petition on the first day the House was back in session after August recess to force a floor vote on H.R. 4405, the Epstein Files Transparency Act he had introduced with Rep. Ro Khanna (D-CA) in July 2025. A discharge petition bypasses the Speaker and committee chairs to bring legislation to a vote if it reaches 218 signatures—a simple majority. Speaker Mike Johnson had refused to schedule a vote on the bill, characterizing it as a 'political exercise' with 'serious deficiencies.' The bipartisan petition would ultimately take over two months to reach the required 218 signatures, delayed in part by Speaker Johnson's refusal to seat a newly-elected Democratic representative.

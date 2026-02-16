@@ -6,7 +6,7 @@ title: Border Patrol Academy Reaches Highest Enrollment Since 2009 With 1,100 Tr
 location: Artesia, New Mexico
 actors:
 - U.S. Border Patrol
-- U.S. Customs and Border Protection (CBP)
+- U.S. Customs and Border Protection
 - Donald Trump
 - Department of Homeland Security (DHS)
 tags:

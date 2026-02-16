@@ -4,7 +4,7 @@ date: 2011-01-01
 title: 34 States Introduce ALEC Voter ID Bills in Coordinated Suppression Campaign
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Republican state legislators
 - Heritage Foundation
 - State Policy Network

@@ -2,16 +2,12 @@
 id: 2025-03-10--coordinated-litigation-strategy-summit
 date: '2025-03-10'
 title: 'Strategic Litigation Coordination Summit: Multi-State Legal Resistance'
-description: The summit represented a strategic response to the evolving legal landscape,
-  with participants developing comprehensive, cross-jurisdictional litigation approaches
-  to protect constitutional rights and challenge systemic institutional overreach.
-  Participants focused on leveraging state-level legal mechanisms to counteract federal
-  policy challenges and protect civil liberties.
+description: The summit represented a strategic response to the evolving legal landscape, with participants developing comprehensive, cross-jurisdictional litigation approaches to protect constitutional rights and challenge systemic institutional overreach. Participants focused on leveraging state-level legal mechanisms to counteract federal policy challenges and protect civil liberties.
 importance: 9
 actors:
 - State Attorney General Networks
-- American Civil Liberties Union (ACLU)
-- Civil Liberties Defense Center (CLDC)
+- American Civil Liberties Union
+- Civil Liberties Defense Center
 - New Civil Liberties Alliance
 - Constitutional Litigation Experts
 location: Washington, D.C.
@@ -47,9 +43,7 @@ patterns:
 - legal-resistance-network
 - multi-state-litigation
 - institutional-challenge
-notes: A sophisticated legal coordination effort designed to create a robust, adaptable
-  framework for challenging institutional capture and protecting constitutional rights
-  through strategic, synchronized legal actions.
+notes: A sophisticated legal coordination effort designed to create a robust, adaptable framework for challenging institutional capture and protecting constitutional rights through strategic, synchronized legal actions.
 strategic_focus:
   primary_objectives:
   - Develop coordinated multi-state litigation strategies

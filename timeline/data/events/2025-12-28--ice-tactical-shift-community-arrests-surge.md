@@ -5,7 +5,7 @@ title: Washington Post Analysis Reveals ICE Shift from Jail Arrests to Community
 importance: 8
 actors:
 - U.S. Immigration and Customs Enforcement
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Kristi Noem
 tags:
 - immigration
@@ -18,8 +18,7 @@ sources:
   url: https://www.washingtonpost.com/immigration/2025/12/28/ice-deportations-data-trump-arrests/
   outlet: Washington Post
   tier: 1
-- title: About a third of people arrested by ICE had no criminal record, new data
-    shows
+- title: About a third of people arrested by ICE had no criminal record, new data shows
   url: https://www.npr.org/2025/12/10/nx-s1-5637397/about-a-third-of-people-arrested-by-ice-had-no-criminal-record-new-data-shows
   outlet: NPR
   tier: 1

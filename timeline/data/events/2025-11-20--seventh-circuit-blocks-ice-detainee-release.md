@@ -7,9 +7,9 @@ location: Chicago, Illinois
 actors:
 - 7th Circuit Court of Appeals
 - Judge Jeffrey Cummings
-- Trump administration
-- Department of Homeland Security
-- ICE
+- Trump Administration
+- U.S. Department of Homeland Security
+- Immigration and Customs Enforcement (ICE)
 - National Immigrant Justice Center
 - ACLU of Illinois
 tags:

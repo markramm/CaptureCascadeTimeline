@@ -11,8 +11,8 @@ tags:
 - regulatory-failure
 actors:
 - USDA
-- CDC
-- FDA
+- Centers for Disease Control and Prevention
+- Food and Drug Administration
 - Texas Department of Agriculture
 sources:
 - title: Avian influenza virus type A (H5N1) in U.S. dairy cattle

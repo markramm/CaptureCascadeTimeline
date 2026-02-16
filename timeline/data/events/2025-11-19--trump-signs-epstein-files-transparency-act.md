@@ -36,7 +36,7 @@ actors:
 - Donald Trump
 - Pam Bondi
 - Department of Justice
-- Congress
+- U.S. Congress
 - Thomas Massie
 - Marjorie Taylor Greene
 - Adam Schiff

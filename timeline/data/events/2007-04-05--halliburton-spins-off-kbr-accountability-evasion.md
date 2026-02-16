@@ -11,7 +11,7 @@ tags:
 - conflicts-of-interest
 actors:
 - Halliburton
-- KBR
+- Kellogg Brown & Root (KBR)
 - David Lesar
 - Dick Cheney
 - Senate Armed Services Committee

@@ -5,8 +5,8 @@ title: 'Government Shutdown Ends After 43 Days: Longest in U.S. History'
 importance: 10
 actors:
 - Donald Trump
-- House of Representatives
-- Senate
+- U.S. House of Representatives
+- United States Senate
 - Democrats
 - Republicans
 tags:

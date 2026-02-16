@@ -2,17 +2,15 @@
 id: 2025-03-11--cooper-doge-foia-ruling
 date: '2025-03-11'
 importance: 6
-title: Judge Cooper rules DOGE subject to FOIA due to "unusual secrecy" and "substantial
-  authority"
+title: Judge Cooper rules DOGE subject to FOIA due to "unusual secrecy" and "substantial authority"
 location: Washington, DC
 actors:
 - Judge Christopher Cooper
-- DOGE
-- Citizens for Responsibility and Ethics in Washington (CREW)
+- Department of Government Efficiency
+- Citizens for Responsibility and Ethics in Washington
 - Elon Musk
 sources:
-- title: Judge rules DOGE likely subject to public records requests, says department
-    had been run in 'unusual secrecy'
+- title: Judge rules DOGE likely subject to public records requests, says department had been run in 'unusual secrecy'
   url: https://www.foxnews.com/politics/judge-rules-doge-likely-subject-public-records-requests-says-department-operating-unusual-secrecy
   outlet: Fox News
   date: '2025-03-11'
@@ -24,14 +22,11 @@ sources:
   url: https://lawandcrime.com/high-profile/remarkably-swiftly-judge-calls-out-unusual-secrecy-of-doge-in-order-to-hand-over-foia-documents-requested-by-watchdog-group/
   outlet: Law & Crime
   date: '2025-03-11'
-- title: DOGE could be forced to release its records under a new court ruling that
-    highlights the group's 'unusual secrecy'
+- title: DOGE could be forced to release its records under a new court ruling that highlights the group's 'unusual secrecy'
   url: https://www.yahoo.com/news/doge-could-forced-release-records-065436701.html
   outlet: Yahoo News
   date: '2025-03-11'
-notes: Cooper found DOGE exercises "substantial authority over vast swaths of the
-  federal government" including causing 3% federal workforce resignations, shuttering
-  agencies, and canceling contracts
+notes: Cooper found DOGE exercises "substantial authority over vast swaths of the federal government" including causing 3% federal workforce resignations, shuttering agencies, and canceling contracts
 status: confirmed
 tags:
 - doge

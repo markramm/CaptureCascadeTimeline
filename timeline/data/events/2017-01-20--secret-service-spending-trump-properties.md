@@ -2,15 +2,13 @@
 id: 2017-01-20--secret-service-spending-trump-properties
 date: '2017-01-20'
 importance: 8
-title: Records show at least ~$1.75–$2.0M in Secret Service spending at Trump properties
-  during presidency
-notes: 'Present both: (1) CREW''s aggregated FOIA totals; (2) DHS OIG''s partial accounting
-  and data-limitations caveat. Emphasize that official records may be incomplete.'
+title: Records show at least ~$1.75–$2.0M in Secret Service spending at Trump properties during presidency
+notes: 'Present both: (1) CREW''s aggregated FOIA totals; (2) DHS OIG''s partial accounting and data-limitations caveat. Emphasize that official records may be incomplete.'
 status: confirmed
 actors:
 - U.S. Secret Service
 - DHS Office of Inspector General
-- Citizens for Responsibility and Ethics in Washington (CREW)
+- Citizens for Responsibility and Ethics in Washington
 - Donald Trump
 - Carolyn Maloney
 tags:

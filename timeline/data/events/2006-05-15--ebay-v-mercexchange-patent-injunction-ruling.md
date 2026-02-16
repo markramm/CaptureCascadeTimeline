@@ -5,7 +5,7 @@ date: '2006-05-15'
 title: 'eBay v. MercExchange: Supreme Court Limits Automatic Patent Injunctions, Enabling Patent Troll Business Model to Flourish'
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Clarence Thomas
 - Anthony Kennedy
 - eBay

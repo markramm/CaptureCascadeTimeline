@@ -2,13 +2,12 @@
 id: 2023-01-01--90-10-rule-loophole-closure-gi-bill-protection
 date: '2023-01-01'
 importance: 8
-title: 90/10 Rule Loophole Closes, Ending For-Profit Colleges' Predatory Targeting
-  of Veterans by Counting GI Bill and Military Tuition Assistance as Federal Aid
+title: 90/10 Rule Loophole Closes, Ending For-Profit Colleges' Predatory Targeting of Veterans by Counting GI Bill and Military Tuition Assistance as Federal Aid
 location: United States
 actors:
 - U.S. Department of Education
 - Veterans Education Success
-- Consumer Financial Protection Bureau (CFPB)
+- Consumer Financial Protection Bureau
 - Holly Petraeus
 - For-Profit College Industry
 - U.S. Congress
@@ -53,8 +52,7 @@ sources:
   tier: 2
   outlet: Cancer Therapy Advisor
 - url: https://ascopubs.org/doi/10.1200/OP-25-00381
-  title: Crisis of Cancer Drug Shortages - Understanding the Causes and Proposing
-    Sustainable Solutions
+  title: Crisis of Cancer Drug Shortages - Understanding the Causes and Proposing Sustainable Solutions
   date: '2025-01-01'
   tier: 1
   outlet: Journal of Clinical Oncology - Oncology Practice
@@ -104,13 +102,11 @@ sources:
   url: https://www.allsides.com/story/campaign-finance-kristi-noem-accused-failing-disclose-80k-dark-money-payment
   outlet: AllSides
   date: '2023-11-15'
-- title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation
-    for DOJ
+- title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation for DOJ
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
   outlet: Senate Finance Committee
   date: '2025-07-23'
-- title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed
-    Epstein File
+- title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed Epstein File
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: Senate Finance Committee
   date: '2025-07-17'
@@ -118,13 +114,7 @@ sources:
   url: https://www.npr.org/2025/07/25/nx-s1-5479159/a-democratic-senator-was-already-investigating-jeffrey-epsteins-finances
   outlet: NPR
   date: '2025-07-25'
-notes: Rule change enacted through American Rescue Plan 2021, implemented January
-  1, 2023. Previously GI Bill and DOD Tuition Assistance didn't count toward 90% federal
-  aid cap, creating incentive to target veterans. Holly Petraeus (CFPB) documented
-  predatory targeting. Many for-profit colleges received 80-90%+ revenue from federal
-  sources when military benefits included. Closure reduces incentive to recruit veterans
-  specifically for regulatory arbitrage. Some for-profit colleges operated recruiting
-  offices on military bases.
+notes: Rule change enacted through American Rescue Plan 2021, implemented January 1, 2023. Previously GI Bill and DOD Tuition Assistance didn't count toward 90% federal aid cap, creating incentive to target veterans. Holly Petraeus (CFPB) documented predatory targeting. Many for-profit colleges received 80-90%+ revenue from federal sources when military benefits included. Closure reduces incentive to recruit veterans specifically for regulatory arbitrage. Some for-profit colleges operated recruiting offices on military bases.
 status: confirmed
 ---
 

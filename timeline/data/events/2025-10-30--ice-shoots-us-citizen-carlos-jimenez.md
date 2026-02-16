@@ -26,7 +26,7 @@ sources:
   tier: 2
   outlet: CAIR California
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Carlos Jimenez
 ---
 

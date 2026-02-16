@@ -1,13 +1,31 @@
 ---
-id: "2025-12-08--supreme-court-independent-agency-firing-humphreys-executor"
-date: "2025-12-08"
-title: "Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power"
-summary: "The Supreme Court heard oral arguments in Trump v. Slaughter regarding President Trump's firing of Federal Trade Commission Commissioner Rebecca Slaughter, with the conservative majority signaling strong support for overturning Humphrey's Executor v. United States, the 1935 unanimous decision that has limited presidential power to fire independent agency leaders for 90 years. Chief Justice John Roberts referred to the precedent as 'a dry husk,' while Justice Elena Kagan warned the ruling would give the president 'massive unchecked, uncontrolled power.' The anticipated decision would allow presidents to fire at will the leaders of independent agencies including the Federal Reserve, SEC, FTC, NLRB, and numerous other regulatory bodies, fundamentally transforming the balance of power in American governance and eliminating protections designed to insulate expert decision-making from political interference."
+id: 2025-12-08--supreme-court-independent-agency-firing-humphreys-executor
+date: '2025-12-08'
+title: Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power
+summary: The Supreme Court heard oral arguments in Trump v. Slaughter regarding President Trump's firing of Federal Trade Commission Commissioner Rebecca Slaughter, with the conservative majority signaling strong support for overturning Humphrey's Executor v. United States, the 1935 unanimous decision that has limited presidential power to fire independent agency leaders for 90 years. Chief Justice John Roberts referred to the precedent as 'a dry husk,' while Justice Elena Kagan warned the ruling would give the president 'massive unchecked, uncontrolled power.' The anticipated decision would allow presidents to fire at will the leaders of independent agencies including the Federal Reserve, SEC, FTC, NLRB, and numerous other regulatory bodies, fundamentally transforming the balance of power in American governance and eliminating protections designed to insulate expert decision-making from political interference.
 importance: 9
-tags: ["supreme-court", "executive-power", "independent-agencies", "separation-of-powers", "constitutional-law", "ftc", "federal-reserve", "regulatory-agencies", "unitary-executive", "legal"]
-actors: ["Supreme Court", "Donald Trump", "Rebecca Slaughter", "John Roberts", "Elena Kagan", "D. John Sauer", "Amit Agarwal", "Federal Trade Commission"]
+tags:
+- supreme-court
+- executive-power
+- independent-agencies
+- separation-of-powers
+- constitutional-law
+- ftc
+- federal-reserve
+- regulatory-agencies
+- unitary-executive
+- legal
+actors:
+- U.S. Supreme Court
+- Donald Trump
+- Rebecca Slaughter
+- John Roberts
+- Elena Kagan
+- D. John Sauer
+- Amit Agarwal
+- Federal Trade Commission
 sources:
-- title: "Trump v. Slaughter: an explainer"
+- title: 'Trump v. Slaughter: an explainer'
   outlet: SCOTUSblog
   url: https://www.scotusblog.com/2025/12/trump-v-slaughter-an-explainer/
   tier: 1

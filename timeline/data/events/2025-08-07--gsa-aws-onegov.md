@@ -5,7 +5,7 @@ date: '2025-08-07'
 importance: 7
 location: Washington, D.C.
 actors:
-- GSA
+- General Services Administration
 - AWS
 tags:
 - cloud
@@ -21,10 +21,7 @@ citations:
 - https://www.reuters.com/technology/amazon-inks-1-billion-cloud-deal-us-government-2025-07-18
 - https://fedscoop.com/aws-gsa-onegov-deal-1-billion-savings/
 - https://www.nextgov.com/acquisition/2025/08/gsa-amazon-sign-new-centralized-cloud-pact/407277/
-notes: 'This massive single-vendor contract raises antitrust concerns and creates
-  critical dependency on Amazon for federal operations. The deal follows GSA''s mass
-  layoffs and restructuring under the Trump administration. Note: Agreement officially
-  announced in August 2025, with initial date references to July 2025.'
+notes: 'This massive single-vendor contract raises antitrust concerns and creates critical dependency on Amazon for federal operations. The deal follows GSA''s mass layoffs and restructuring under the Trump administration. Note: Agreement officially announced in August 2025, with initial date references to July 2025.'
 status: confirmed
 sources:
 - title: GSA enters into $1B OneGov cloud agreement with AWS
@@ -55,13 +52,11 @@ sources:
   url: https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/
   outlet: CBS News
   date: '2025-07-18'
-- title: GENIUS Act for Stablecoins Passes House on Way to be First Major U.S. Crypto
-    Law
+- title: GENIUS Act for Stablecoins Passes House on Way to be First Major U.S. Crypto Law
   url: https://www.coindesk.com/policy/2025/07/17/genius-act-for-stablecoins-passes-house-on-way-to-be-first-major-u-s-crypto-law
   outlet: CoinDesk
   date: '2025-07-17'
-- title: 'A ''Crypto Week'' win: Congress passes 1st major crypto legislation in the
-    U.S.'
+- title: 'A ''Crypto Week'' win: Congress passes 1st major crypto legislation in the U.S.'
   url: https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump
   outlet: NPR
   date: '2025-07-17'
@@ -85,8 +80,7 @@ sources:
   url: https://www.cpapracticeadvisor.com/2025/07/22/irs-workforce-has-shrunk-25-since-trump-took-office/165368/
   outlet: CPA Practice Advisor
   date: '2025-07-22'
-- title: IRS workforce losses pose growing risk to businesses amid tariff-driven tax
-    complexity
+- title: IRS workforce losses pose growing risk to businesses amid tariff-driven tax complexity
   url: https://www.wiley.law/article-IRS-workforce-losses-pose-growing-risk-to-businesses-amid-tariff-driven-tax-complexity
   outlet: Wiley Law
   date: '2025-07-20'

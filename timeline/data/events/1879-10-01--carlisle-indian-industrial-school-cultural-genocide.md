@@ -5,8 +5,8 @@ title: Carlisle Indian Industrial School Opens With "Kill the Indian, Save the M
 importance: 9
 actors:
 - Lieutenant Richard Henry Pratt
-- U.S. Government
-- War Department
+- U.S. government
+- U.S. War Department
 - Bureau of Indian Affairs
 sources:
 - title: The Carlisle Indian Industrial School - Assimilation with Education after the Indian Wars

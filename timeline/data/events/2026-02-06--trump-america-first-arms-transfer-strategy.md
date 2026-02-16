@@ -7,9 +7,9 @@ importance: 7
 actors:
 - Donald Trump
 - White House
-- Department of Defense
+- U.S. Department of Defense
 - Department of State
-- Department of Commerce
+- U.S. Department of Commerce
 tags:
 - military-industrial-complex
 - executive-action
@@ -17,7 +17,7 @@ tags:
 - arms-exports
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/02/establishing-an-america-first-arms-transfer-strategy/
-  title: 'Establishing an America First Arms Transfer Strategy'
+  title: Establishing an America First Arms Transfer Strategy
   outlet: White House
   date: '2026-02-06'
   tier: 1
@@ -27,7 +27,7 @@ sources:
   date: '2026-02-06'
   tier: 1
 - url: https://www.stimson.org/2026/the-america-first-arms-transfer-strategy-reorders-us-arms-transfer-priorities/
-  title: 'The "America First Arms Transfer Strategy" Reorders US Arms Transfer Priorities'
+  title: The "America First Arms Transfer Strategy" Reorders US Arms Transfer Priorities
   outlet: Stimson Center
   date: '2026-02-06'
   tier: 2

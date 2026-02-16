@@ -11,8 +11,8 @@ tags:
 actors:
 - Douglas Troutman
 - American Cleaning Institute
-- Senate
-- EPA
+- United States Senate
+- Environmental Protection Agency (EPA)
 sources:
 - url: https://www.theguardian.com/environment/2025/oct/18/epa-chemical-industry-lobbyist-confirmed
   title: Industry Lobbyist Confirmed to EPA Leadership

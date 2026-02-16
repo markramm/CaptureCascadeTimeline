@@ -3,7 +3,7 @@ date: '1979-01-01'
 title: ALEC Begins Tobacco Industry Partnership for Legislative Influence
 importance: 7
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Tobacco Institute
 - ALEC Executive Director
 sources:

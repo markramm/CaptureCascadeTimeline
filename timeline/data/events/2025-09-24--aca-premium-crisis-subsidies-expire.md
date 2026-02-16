@@ -11,7 +11,7 @@ tags:
 - institutional-sabotage
 actors:
 - Donald Trump
-- Congress
+- U.S. Congress
 - Kaiser Family Foundation
 sources:
 - title: ACA Marketplace Premium Payments Would More than Double on Average Next Year if Enhanced Premium Tax Credits Expire

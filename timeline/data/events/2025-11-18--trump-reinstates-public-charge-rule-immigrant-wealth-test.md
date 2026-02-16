@@ -31,8 +31,8 @@ sources:
   tier: 2
   outlet: Protecting Immigrant Families Coalition
 actors:
-- Department of Homeland Security
-- USCIS
+- U.S. Department of Homeland Security
+- U.S. Citizenship and Immigration Services
 - Joseph Edlow
 - Stephen Miller
 - Donald Trump

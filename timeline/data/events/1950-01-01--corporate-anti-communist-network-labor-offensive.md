@@ -1,12 +1,11 @@
 ---
 id: 1950-01-01--corporate-anti-communist-network-labor-offensive
 date: '1950-01-01'
-title: Corporate Anti-Communist Network Coordinates Labor Suppression Through NAM,
-  Chamber of Commerce Infrastructure
+title: Corporate Anti-Communist Network Coordinates Labor Suppression Through NAM, Chamber of Commerce Infrastructure
 importance: 8
 actors:
 - National Association of Manufacturers
-- Chamber of Commerce
+- U.S. Chamber of Commerce
 - American Legion
 - J.B. Matthews
 - Hearst Corporation
@@ -61,8 +60,7 @@ sources:
   date: 1950-01-01
   verified: true
   tier: 3
-- title: Not Since Joe McCarthy Has the State Department Suffered Such a Devastating
-    Blow
+- title: Not Since Joe McCarthy Has the State Department Suffered Such a Devastating Blow
   url: https://www.foreignaffairs.com/united-states/demolition-us-diplomacy
   outlet: Foreign Affairs
   date: 2017-11-01

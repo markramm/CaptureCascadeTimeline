@@ -6,7 +6,7 @@ title: China Approves 16 Trademarks for Ivanka Trump During Trade War
 location: Beijing, China / Washington DC
 actors:
 - Ivanka Trump
-- Chinese government
+- Chinese Government
 - China National Intellectual Property Administration
 - White House
 - Xi Jinping
@@ -31,9 +31,7 @@ sources:
   url: https://www.reuters.com/article/us-china-usa-ivanka-idUSKCN1NB0TL
   outlet: Reuters
   date: '2018-11-06'
-notes: Pattern of trademark approvals coinciding with policy decisions raised serious
-  questions about quid pro quo arrangements benefiting president's family during sensitive
-  negotiations.
+notes: Pattern of trademark approvals coinciding with policy decisions raised serious questions about quid pro quo arrangements benefiting president's family during sensitive negotiations.
 capture_lanes:
 - Legislative Capture
 - Electoral Manipulation

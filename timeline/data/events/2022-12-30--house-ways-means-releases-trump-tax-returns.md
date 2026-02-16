@@ -13,8 +13,8 @@ actors:
 - House Ways and Means Committee
 - Richard Neal
 - Donald Trump
-- IRS
-- Treasury Department
+- Internal Revenue Service
+- U.S. Treasury Department
 sources:
 - url: https://abcnews.go.com/US/6-years-trump-tax-documents-released-democratic-ways/story?id=95707006
   title: 6 years of Trump tax documents released by House Ways and Means Committee

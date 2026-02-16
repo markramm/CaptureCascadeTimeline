@@ -3,7 +3,7 @@ date: '2018-07-20'
 title: Former Malaysian PM Najib Razak Charged in 1MDB Scandal
 actors:
 - Najib Razak
-- Jho Low (Low Taek Jho)
+- Jho Low
 - Rosmah Mansor
 - Tim Leissner
 - Roger Ng

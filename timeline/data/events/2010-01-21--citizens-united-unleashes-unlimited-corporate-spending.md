@@ -4,7 +4,7 @@ date: '2010-01-21'
 importance: 10
 title: Supreme Court Citizens United Decision Unleashes Unlimited Corporate Spending
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Citizens United
 - Federal Election Commission
 - Justice Anthony Kennedy
@@ -46,9 +46,7 @@ sources:
   url: https://www.pbs.org/wgbh/frontline/article/archives-citizens-united-campaign-spending-documentary/
   outlet: PBS Frontline
   date_accessed: '2025-10-17'
-  description: Comprehensive documentary exploring the transformation of campaign
-    finance after the Supreme Court decision, revealing the rise of dark money and
-    outside political spending
+  description: Comprehensive documentary exploring the transformation of campaign finance after the Supreme Court decision, revealing the rise of dark money and outside political spending
 status: confirmed
 capture_lanes:
 - Judicial Capture

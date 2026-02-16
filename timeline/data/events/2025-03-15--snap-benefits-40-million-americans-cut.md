@@ -18,7 +18,7 @@ actors:
 - Trump Administration
 - USDA
 - department-of-health-human-services
-- Department of Labor
+- U.S. Department of Labor
 capture_lane: economic
 status: confirmed
 sources:

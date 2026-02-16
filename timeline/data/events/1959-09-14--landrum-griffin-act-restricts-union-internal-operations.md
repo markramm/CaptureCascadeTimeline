@@ -5,7 +5,7 @@ title: Landrum-Griffin Act Imposes Federal Restrictions on Union Internal Operat
 importance: 7
 actors:
 - U.S. Congress
-- Department of Labor
+- U.S. Department of Labor
 - Labor unions
 - Phil Landrum
 - Leo Griffin

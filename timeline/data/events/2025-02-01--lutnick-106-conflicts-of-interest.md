@@ -6,7 +6,7 @@ title: Commerce Secretary Lutnick faces 106 conflicts of interest requiring recu
 location: Washington, DC
 actors:
 - Howard Lutnick
-- Department of Commerce
+- U.S. Department of Commerce
 - Cantor Fitzgerald
 tags:
 - conflict-of-interest
@@ -26,8 +26,7 @@ sources:
   outlet: CNN
   date: '2025-02-01'
   archive_url: https://web.archive.org/web/20250814194913/https://www.cnn.com/
-- title: 'A 5-star rating for conflicts of interest: Commerce Sec. Howard Lutnick''s
-    finances raise red flags'
+- title: 'A 5-star rating for conflicts of interest: Commerce Sec. Howard Lutnick''s finances raise red flags'
   url: https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/
   outlet: Salon
   date: '2025-04-24'

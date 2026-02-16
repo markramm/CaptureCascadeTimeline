@@ -1,7 +1,6 @@
 ---
 date: '2025-01-20'
-title: JD Vance Sworn In as 50th Vice President, Positioned for Potential Constitutional
-  Crisis Management
+title: JD Vance Sworn In as 50th Vice President, Positioned for Potential Constitutional Crisis Management
 importance: 9
 status: confirmed
 actors:
@@ -9,7 +8,7 @@ actors:
 - Brett Kavanaugh
 - Donald Trump
 - Usha Vance
-- Supreme Court
+- U.S. Supreme Court
 - U.S. Senate
 sources:
 - outlet: Reuters

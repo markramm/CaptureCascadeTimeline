@@ -14,7 +14,7 @@ actors:
 - Michael Dell
 - Susan Dell
 - Donald Trump
-- Treasury Department
+- U.S. Treasury Department
 sources:
 - url: https://www.npr.org/2025/12/02/nx-s1-5628412/michael-susan-dell-trump-account-children-investment-saving
   title: Michael and Susan Dell commit $6.25 billion for investment accounts for kids

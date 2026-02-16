@@ -1,11 +1,11 @@
 ---
 id: 2025-01-29--hegseth-rescinds-military-abortion-travel-policy
 date: '2025-01-29'
-title: "Pentagon Ends Travel Reimbursement for Military Members Seeking Abortion Care"
+title: Pentagon Ends Travel Reimbursement for Military Members Seeking Abortion Care
 importance: 7
 actors:
 - Pete Hegseth
-- Department of Defense
+- U.S. Department of Defense
 - Lloyd Austin
 - Donald Trump
 tags:
@@ -20,12 +20,12 @@ sources:
   outlet: LifeNews
   date: '2025-02-07'
   tier: 3
-- title: "FAQ: Actions by the Department of Defense Regarding Abortion and Reproductive Health Care Access for Military Families"
+- title: 'FAQ: Actions by the Department of Defense Regarding Abortion and Reproductive Health Care Access for Military Families'
   url: https://nwlc.org/resource/faq-actions-by-the-department-of-defense-regarding-abortion-and-reproductive-health-care-access-for-military-families/
   outlet: National Women's Law Center
   date: '2025-01-29'
   tier: 2
-- title: "Pentagon Reverses Policy of Reimbursement for Abortion Travel—Fighting 'Wokeness' in the Military at the Expense of Service Members"
+- title: Pentagon Reverses Policy of Reimbursement for Abortion Travel—Fighting 'Wokeness' in the Military at the Expense of Service Members
   url: https://msmagazine.com/2025/02/21/pentagon-abortion-travel-ban-military-women-rights/
   outlet: Ms. Magazine
   date: '2025-02-21'

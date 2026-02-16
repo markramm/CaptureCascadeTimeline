@@ -24,7 +24,7 @@ status: confirmed
 type: political
 actors:
 - JD Vance
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Fox News
 ---
 

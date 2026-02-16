@@ -6,7 +6,7 @@ importance: 8
 status: confirmed
 actors:
 - Columbia University
-- Department of Education
+- U.S. Department of Education
 - White House
 - Bart Schwartz
 - Donald Trump

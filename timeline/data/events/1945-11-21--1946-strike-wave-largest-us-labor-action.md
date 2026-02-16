@@ -1,43 +1,43 @@
 ---
 id: 1945-11-21--1946-strike-wave-largest-us-labor-action
-date: "1945-11-21"
-title: "Largest Strike Wave in U.S. History Begins as 5 Million Workers Walk Out"
-summary: "Over five million American workers engage in strikes in the year after V-J Day - the largest strike wave in U.S. history and the closest thing to a national general strike of the 20th century. Workers demand wages to match 16% inflation while their pay rises only 7%. Major strikes include 750,000 steel workers, 320,000 auto workers, 350,000 coal miners, and 174,000 electrical workers. Corporate backlash and media opposition fuel the 1946 Republican congressional victory and passage of the anti-union Taft-Hartley Act in 1947."
+date: '1945-11-21'
+title: Largest Strike Wave in U.S. History Begins as 5 Million Workers Walk Out
+summary: Over five million American workers engage in strikes in the year after V-J Day - the largest strike wave in U.S. history and the closest thing to a national general strike of the 20th century. Workers demand wages to match 16% inflation while their pay rises only 7%. Major strikes include 750,000 steel workers, 320,000 auto workers, 350,000 coal miners, and 174,000 electrical workers. Corporate backlash and media opposition fuel the 1946 Republican congressional victory and passage of the anti-union Taft-Hartley Act in 1947.
 importance: 8
 actors:
-  - "United Auto Workers"
-  - "United Mine Workers"
-  - "United Steel Workers"
-  - "Walter Reuther"
-  - "John L. Lewis"
-  - "U.S. corporations"
+- United Auto Workers
+- United Mine Workers
+- United Steelworkers
+- Walter Reuther
+- John L. Lewis
+- U.S. corporations
 sources:
-  - title: "Work Stoppages: 1940-1949"
-    url: "https://www.bls.gov/wsp/factsheets/work-stoppages-decade-1940-to-1949.htm"
-    outlet: Bureau of Labor Statistics
-    tier: 1
-    verified: true
-  - title: "Episode 5 – Strike Wave"
-    url: "https://www.nationalww2museum.org/war/podcasts/best-my-ability-podcast/season-2-archive/episode-5-strike-wave"
-    outlet: The National WWII Museum
-    tier: 1
-    verified: true
-  - title: "United States strike wave of 1945–1946"
-    url: "https://en.wikipedia.org/wiki/United_States_strike_wave_of_1945–1946"
-    outlet: Wikipedia
-    tier: 2
-    verified: true
-  - title: "The World War II and post-war strike wave"
-    url: "https://libcom.org/article/world-war-ii-and-post-war-strike-wave-jeremy-brecher"
-    outlet: Libcom
-    tier: 2
-    verified: true
+- title: 'Work Stoppages: 1940-1949'
+  url: https://www.bls.gov/wsp/factsheets/work-stoppages-decade-1940-to-1949.htm
+  outlet: Bureau of Labor Statistics
+  tier: 1
+  verified: true
+- title: Episode 5 – Strike Wave
+  url: https://www.nationalww2museum.org/war/podcasts/best-my-ability-podcast/season-2-archive/episode-5-strike-wave
+  outlet: The National WWII Museum
+  tier: 1
+  verified: true
+- title: United States strike wave of 1945–1946
+  url: https://en.wikipedia.org/wiki/United_States_strike_wave_of_1945–1946
+  outlet: Wikipedia
+  tier: 2
+  verified: true
+- title: The World War II and post-war strike wave
+  url: https://libcom.org/article/world-war-ii-and-post-war-strike-wave-jeremy-brecher
+  outlet: Libcom
+  tier: 2
+  verified: true
 tags:
-  - "labor-organizing"
-  - "strikes"
-  - "corporate-power"
-  - "postwar-economy"
-  - "union-rights"
+- labor-organizing
+- strikes
+- corporate-power
+- postwar-economy
+- union-rights
 status: confirmed
 capture_lanes:
 - Labor Suppression

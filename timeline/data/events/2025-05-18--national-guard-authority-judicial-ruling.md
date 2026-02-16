@@ -1,13 +1,12 @@
 ---
 id: 2025-05-18--national-guard-authority-judicial-ruling
 date: '2025-05-18'
-title: Supreme Court Hearing Challenges Presidential National Guard Federalization
-  Powers
+title: Supreme Court Hearing Challenges Presidential National Guard Federalization Powers
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - State Governors
-- Department of Defense
+- U.S. Department of Defense
 - California Governor
 - New York Attorney General Letitia James
 - Ninth Circuit Court of Appeals
@@ -18,15 +17,13 @@ tags:
 - federal-state-relations
 sources:
 - outlet: NPR
-  title: Appeals court blocks earlier ruling, allows Trump to command California Guard
-    for now
+  title: Appeals court blocks earlier ruling, allows Trump to command California Guard for now
   url: https://www.npr.org/2025/06/12/nx-s1-5429752/trump-newsom-california-national-guard-ice-immigration
 - outlet: Brennan Center for Justice
   title: The President's Power to Call Out the National Guard Is Not a Blank Check
   url: https://www.brennancenter.org/our-work/analysis-opinion/presidents-power-call-out-national-guard-not-blank-check
 - outlet: New York Attorney General Press Release
-  title: Attorney General James Urges Court to Block Unlawful Federalization of National
-    Guard
+  title: Attorney General James Urges Court to Block Unlawful Federalization of National Guard
   url: https://ag.ny.gov/press-release/2025/attorney-general-james-urges-court-block-unlawful-federalization-national-guard
 status: confirmed
 capture_lanes:

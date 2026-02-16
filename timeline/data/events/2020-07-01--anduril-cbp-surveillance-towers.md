@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Anduril Industries
 - U.S. Customs and Border Protection
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Palmer Luckey
 tags:
 - border militarization

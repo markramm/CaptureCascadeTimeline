@@ -6,8 +6,8 @@ importance: 10
 actors:
 - Texas Attorney General Greg Abbott
 - North Carolina Legislature
-- American Legislative Exchange Council (ALEC)
-- Supreme Court
+- American Legislative Exchange Council
+- U.S. Supreme Court
 tags:
 - alec
 - voter-suppression

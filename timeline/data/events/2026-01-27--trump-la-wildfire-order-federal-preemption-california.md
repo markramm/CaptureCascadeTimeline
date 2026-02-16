@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Donald Trump
 - White House
-- FEMA
+- Federal Emergency Management Agency (FEMA)
 - Small Business Administration
 tags:
 - executive-overreach
@@ -16,7 +16,7 @@ tags:
 - regulatory-capture
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/
-  title: 'Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters'
+  title: Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters
   outlet: White House
   date: '2026-01-27'
   tier: 1
@@ -26,7 +26,7 @@ sources:
   date: '2026-01-27'
   tier: 1
 - url: https://www.bloomberg.com/news/articles/2026-01-27/trump-orders-federal-takeover-of-la-wildfire-rebuiding-efforts
-  title: 'Trump Orders Federal Takeover of LA Wildfire Rebuilding Efforts'
+  title: Trump Orders Federal Takeover of LA Wildfire Rebuilding Efforts
   outlet: Bloomberg
   date: '2026-01-27'
   tier: 2

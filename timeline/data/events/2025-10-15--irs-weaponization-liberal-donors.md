@@ -13,7 +13,7 @@ actors:
 - Donald Trump
 - Scott Bessent
 - Gary Shapley
-- IRS
+- Internal Revenue Service
 - George Soros
 sources:
 - url: https://www.wsj.com/articles/trump-irs-liberal-donors-investigation

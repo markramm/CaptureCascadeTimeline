@@ -4,7 +4,7 @@ date: '2025-03-18'
 title: 'DOGE Audit Controversy: Inflated Savings Claims and Potential Conflicts of Interest'
 actors:
 - Elon Musk
-- Treasury Department
+- U.S. Treasury Department
 - Democratic Senators
 importance: 7
 tags:

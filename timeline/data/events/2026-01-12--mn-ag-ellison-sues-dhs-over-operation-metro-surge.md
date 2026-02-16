@@ -8,7 +8,7 @@ actors:
 - Kristi Noem
 - Minneapolis
 - Saint Paul
-- DHS
+- DHS (Department of Homeland Security)
 tags:
 - operation-metro-surge
 - lawsuit

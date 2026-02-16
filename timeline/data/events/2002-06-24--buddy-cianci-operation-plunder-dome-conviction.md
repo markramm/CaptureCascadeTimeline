@@ -7,7 +7,7 @@ importance: 7
 actors:
 - Vincent "Buddy" Cianci Jr.
 - Federal Bureau of Investigation
-- U.S. Attorney's Office
+- U.S. Attorney's Office (Maryland)
 - U.S. District Judge Ernest Torres
 - Providence City Government
 tags:

@@ -12,7 +12,7 @@ tags:
 - conflicts-of-interest
 actors:
 - Jamie Leigh Jones
-- KBR
+- Kellogg Brown & Root (KBR)
 - Halliburton
 - Ted Poe
 - State Department

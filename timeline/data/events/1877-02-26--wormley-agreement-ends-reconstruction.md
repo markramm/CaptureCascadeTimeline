@@ -4,16 +4,16 @@ date: '1877-02-26'
 title: 'Compromise of 1877: Wormley Agreement Abandons Black Americans'
 importance: 10
 actors:
-- Rutherford B. Hayes (President-elect)
+- Rutherford B. Hayes
 - Southern Democrats
 - Northern Republicans
 - Disenfranchised Black Americans
 sources:
-- title: 'Compromise of 1877'
+- title: Compromise of 1877
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Compromise_of_1877
   year: 2024
-- title: 'Compromise of 1877 - Definition, Results & Significance'
+- title: Compromise of 1877 - Definition, Results & Significance
   outlet: History
   url: https://www.history.com/articles/compromise-of-1877
   year: 2024

@@ -13,7 +13,7 @@ actors:
 - Donald Trump
 - Eli Lilly
 - Novo Nordisk
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 sources:
 - title: Trump Announces Deals With Lilly, Novo to Cut Weight Loss Drug Prices
   url: https://www.ajmc.com/view/trump-announces-deals-with-eli-lilly-novo-nordisk-for-lower-weight-loss-drug-prices

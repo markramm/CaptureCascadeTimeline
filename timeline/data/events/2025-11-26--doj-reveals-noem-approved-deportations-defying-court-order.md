@@ -10,7 +10,7 @@ actors:
 - Kristi Noem
 - U.S. District Judge James Boasberg
 - Department of Justice
-- Todd Blanche (Deputy Attorney General)
+- Todd Blanche
 - Emil Bove (former Principal Associate Deputy Attorney General)
 - Joseph Mazzara (DHS acting General Counsel)
 - Venezuelan deportees

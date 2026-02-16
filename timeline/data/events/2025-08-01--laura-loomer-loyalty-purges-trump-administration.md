@@ -10,7 +10,7 @@ actors:
 - National Security Agency
 - Department of Justice
 - National Security Council
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - institutional-capture
 - loyalty-purges

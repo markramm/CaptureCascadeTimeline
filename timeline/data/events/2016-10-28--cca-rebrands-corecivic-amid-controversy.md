@@ -4,7 +4,7 @@ date: '2016-10-28'
 title: Corrections Corporation of America Rebrands as CoreCivic After DOJ Phase-Out Announcement and Undercover Exposé
 importance: 7
 actors:
-- Corrections Corporation of America (CCA)
+- Corrections Corporation of America
 - CoreCivic
 - Damon T. Hininger
 - Board of Directors

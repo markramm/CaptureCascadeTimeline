@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Franklin D. Roosevelt
 - John D. Rockefeller
-- Business Community
+- Business community
 - Democratic Party
 sources:
 - title: Revenue Act of 1935

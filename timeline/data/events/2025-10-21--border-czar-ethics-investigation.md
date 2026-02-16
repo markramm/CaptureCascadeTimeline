@@ -12,7 +12,7 @@ actors:
 - Tom Homan
 - Mark Hall
 - Campaign Legal Center
-- DHS
+- DHS (Department of Homeland Security)
 - private detention contractors
 sources:
 - url: https://www.propublica.org/article/border-czar-ethics-investigation-detention-contracts

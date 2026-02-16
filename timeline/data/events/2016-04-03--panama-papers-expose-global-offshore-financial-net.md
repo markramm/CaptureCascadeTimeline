@@ -10,7 +10,7 @@ actors:
 - Petro Poroshenko
 - Nawaz Sharif
 - King Salman
-- ICIJ
+- International Consortium of Investigative Journalists
 - Süddeutsche Zeitung
 - John Doe (Anonymous Whistleblower)
 sources:

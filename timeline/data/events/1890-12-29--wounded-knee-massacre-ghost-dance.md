@@ -8,7 +8,7 @@ actors:
 - Big Foot (Lakota Chief)
 - Sitting Bull
 - Lakota Sioux
-- War Department
+- U.S. War Department
 sources:
 - title: Disaster at Wounded Knee
   outlet: Library of Congress

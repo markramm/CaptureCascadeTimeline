@@ -9,9 +9,9 @@ actors:
 - Mitch Behm
 - Christi Grimm
 - Intelligence Community Inspector General
-- Department of Defense
+- U.S. Department of Defense
 - Department of Transportation
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - inspector-general-purge
 - whig-template-implementation

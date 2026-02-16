@@ -1,12 +1,12 @@
 ---
 id: 2025-12-03--operation-catahoula-crunch-bovino-new-orleans
 date: '2025-12-03'
-title: "Bovino Launches 'Operation Catahoula Crunch' in New Orleans, Texts 'We Are a Massive Wrecking Crew'"
+title: Bovino Launches 'Operation Catahoula Crunch' in New Orleans, Texts 'We Are a Massive Wrecking Crew'
 importance: 9
 actors:
 - Gregory Bovino
-- Border Patrol
-- DHS
+- U.S. Border Patrol
+- DHS (Department of Homeland Security)
 tags:
 - bovino
 - new-orleans
@@ -15,7 +15,7 @@ tags:
 - sanctuary-cities
 - kenner
 sources:
-- title: "Feds launch 'Catahoula Crunch' immigration operation in New Orleans"
+- title: Feds launch 'Catahoula Crunch' immigration operation in New Orleans
   outlet: Verite News
   url: https://veritenews.org/2025/12/03/border-patrol-operation-begins-new-orleans/
   tier: 2

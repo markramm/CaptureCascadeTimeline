@@ -15,7 +15,7 @@ capture_lanes:
 - state-violence-apparatus-expansion
 actors:
 - Immigration and Customs Enforcement (ICE)
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Agriprocessors Inc.
 - Sholom Rubashkin
 - U.S. Attorney's Office Northern District of Iowa

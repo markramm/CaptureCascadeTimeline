@@ -5,7 +5,7 @@ title: Biden Administration Finalizes Nursing Home Minimum Staffing Rule Despite
 importance: 9
 status: confirmed
 actors:
-- Centers for Medicare and Medicaid Services
+- Centers for Medicare & Medicaid Services
 - American Health Care Association
 - LeadingAge
 - Kim Reynolds

@@ -11,7 +11,7 @@ tags:
 - ohio
 - voter-suppression
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Samuel Alito
 - Sonia Sotomayor
 - Jon Husted

@@ -13,7 +13,7 @@ actors:
 - Trump
 - White House
 - Elon Musk
-- GSA
+- General Services Administration
 sources:
 - url: https://www.wired.com/story/trump-white-house-orders-gsa-add-grok-ai-federal-systems/
   title: Federal Workers Ordered to Deploy Grok AI Despite Antisemitic Content

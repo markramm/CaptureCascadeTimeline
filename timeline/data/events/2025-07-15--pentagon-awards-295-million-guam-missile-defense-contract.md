@@ -5,7 +5,7 @@ importance: 7
 title: Pentagon Awards $295 Million Guam Defense Contract as Military Buildup Strains Local Housing Market
 location: Guam
 actors:
-- Department of Defense
+- U.S. Department of Defense
 - Core Tech-HDCC-Kajima LLC
 - Missile Defense Agency
 - Robert Rasch

@@ -8,10 +8,10 @@ importance: 9
 location: Washington, D.C.
 actors:
 - Donald Trump
-- FTC
-- SEC
-- FCC
-- CFPB
+- Federal Trade Commission
+- Securities and Exchange Commission
+- Federal Communications Commission
+- Consumer Financial Protection Bureau
 - Federal Election Commission
 tags:
 - independent-agencies

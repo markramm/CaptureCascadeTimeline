@@ -5,7 +5,7 @@ title: FBI Surveils Occupy Wall Street as "Terrorist Threat" Before First Protes
 importance: 8
 actors:
 - FBI
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Occupy Wall Street
 - Joint Terrorism Task Force
 tags:

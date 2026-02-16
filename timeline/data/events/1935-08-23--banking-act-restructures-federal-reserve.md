@@ -9,7 +9,7 @@ actors:
 - Carter Glass
 - U.S. Congress
 - Federal Reserve Board
-- Wall Street banks
+- Wall Street Banks
 tags:
 - financial-regulation
 - new-deal

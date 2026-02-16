@@ -13,7 +13,7 @@ capture_lanes:
 - Immigration Control
 actors:
 - Donald Trump
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 sources:
 - title: Weighted Selection Process for H-1B Petitions
   url: https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b

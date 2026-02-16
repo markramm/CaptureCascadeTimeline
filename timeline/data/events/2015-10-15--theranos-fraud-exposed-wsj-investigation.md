@@ -9,7 +9,7 @@ actors:
 - Theranos
 - Wall Street Journal
 - Walgreens
-- FDA
+- Food and Drug Administration
 tags:
 - corruption
 - fraud

@@ -5,7 +5,7 @@ date: '2023-01-03'
 importance: 5
 location: Online
 actors:
-- X (Twitter)
+- X/Twitter
 - Elon Musk
 tags:
 - platform-policy

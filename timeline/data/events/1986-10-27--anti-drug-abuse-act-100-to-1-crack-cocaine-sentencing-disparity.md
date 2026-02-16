@@ -4,7 +4,7 @@ title: Anti-Drug Abuse Act Establishes 100-to-1 Crack-Cocaine Sentencing Dispari
 importance: 9
 actors:
 - Ronald Reagan
-- Congress
+- U.S. Congress
 tags:
 - mass-incarceration
 - racial-justice

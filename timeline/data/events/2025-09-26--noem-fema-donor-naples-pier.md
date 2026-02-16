@@ -13,8 +13,8 @@ actors:
 - Kristi Noem
 - Sinan Gursoy
 - Teresa Heitmann
-- FEMA
-- DHS
+- Federal Emergency Management Agency (FEMA)
+- DHS (Department of Homeland Security)
 sources:
 - title: Kristi Noem Fast-Tracked FEMA Funds for Naples After Donor Intervened
   url: https://www.propublica.org/article/kristi-noem-fema-florida-naples-sinan-gursoy

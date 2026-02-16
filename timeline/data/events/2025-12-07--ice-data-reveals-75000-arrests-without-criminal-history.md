@@ -14,11 +14,11 @@ tags:
 - arrest-quotas
 - data-transparency
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Stephen Miller
-- DHS
+- DHS (Department of Homeland Security)
 - Deportation Data Project
-- immigration advocates
+- Immigration Advocates
 - arrested individuals
 - Kristi Noem
 sources:

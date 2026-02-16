@@ -15,20 +15,20 @@ actors:
 - Heritage Foundation
 - Federalist Society
 - American Enterprise Institute
-- ALEC
+- American Legislative Exchange Council
 - Rockwell International
 sources:
-- title: 'Bradley Foundation'
+- title: Bradley Foundation
   url: https://en.wikipedia.org/wiki/Bradley_Foundation
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Lynde and Harry Bradley Foundation - SourceWatch'
+- title: Lynde and Harry Bradley Foundation - SourceWatch
   url: https://www.sourcewatch.org/index.php/Lynde_and_Harry_Bradley_Foundation
   publication: SourceWatch
   date: '2024-09-15'
   tier: 2
-- title: 'Michael S. Joyce'
+- title: Michael S. Joyce
   url: https://en.wikipedia.org/wiki/Michael_S._Joyce
   publication: Wikipedia
   date: '2024-11-08'

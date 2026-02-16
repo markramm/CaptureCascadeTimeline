@@ -6,7 +6,7 @@ importance: 6
 actors:
 - Donald Trump
 - White House
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - MAHA Commission
 tags:
 - executive-power

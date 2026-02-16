@@ -8,7 +8,7 @@ actors:
 - Alberto Gonzales
 - Regent University
 - DOJ
-- Congress
+- U.S. Congress
 tags:
 - doj-politicization
 - regent-university

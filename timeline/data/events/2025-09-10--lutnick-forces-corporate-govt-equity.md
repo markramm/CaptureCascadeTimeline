@@ -21,7 +21,7 @@ sources:
   outlet: Benzinga
 actors:
 - Howard Lutnick
-- Department of Commerce
+- U.S. Department of Commerce
 - Intel
 - Lockheed Martin
 - Trump Administration

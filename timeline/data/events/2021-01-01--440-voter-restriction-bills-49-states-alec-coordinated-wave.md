@@ -4,7 +4,7 @@ date: 2021-01-01
 title: 440 Voter Restriction Bills Introduced in 49 States - ALEC's Largest Suppression Wave
 importance: 10
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Heritage Foundation
 - Heritage Action
 - Republican state legislators

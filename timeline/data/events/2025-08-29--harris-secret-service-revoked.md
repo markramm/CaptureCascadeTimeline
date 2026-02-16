@@ -11,7 +11,7 @@ tags:
 actors:
 - Trump
 - Kamala Harris
-- Secret Service
+- U.S. Secret Service
 sources:
 - url: https://www.nbcnews.com/politics/white-house/trump-revokes-secret-service-protection-former-president-kamala-harris-rcna227959
   title: Trump revokes Secret Service protection for former Vice President Kamala Harris

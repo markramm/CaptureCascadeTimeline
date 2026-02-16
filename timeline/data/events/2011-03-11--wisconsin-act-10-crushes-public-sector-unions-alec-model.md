@@ -5,7 +5,7 @@ title: Wisconsin Act 10 Crushes Public Sector Unions Using ALEC Model Legislatio
 importance: 10
 actors:
 - Scott Walker
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Wisconsin GOP
 - Koch brothers
 - Americans for Prosperity

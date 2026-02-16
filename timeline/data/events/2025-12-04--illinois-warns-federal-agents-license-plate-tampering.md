@@ -6,7 +6,7 @@ title: Illinois Secretary of State Warns Federal Immigration Agents and Rental C
 location: Chicago, Illinois
 actors:
 - Alexi Giannoulias
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Immigration and Customs Enforcement (ICE)
 - Gov. JB Pritzker
 - Enterprise Rent-A-Car

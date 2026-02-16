@@ -8,7 +8,7 @@ actors:
 - GEO Group
 - Jeff Sessions
 - Donald Trump
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Department of Justice
 tags:
 - private-prisons

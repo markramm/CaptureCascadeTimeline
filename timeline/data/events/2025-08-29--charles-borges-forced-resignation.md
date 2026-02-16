@@ -6,7 +6,7 @@ title: SSA whistleblower Charles Borges forced to resign after exposing data bre
 actors:
 - Charles Borges
 - Social Security Administration
-- DOGE
+- Department of Government Efficiency
 - Aram Moghaddassi
 tags:
 - whistleblower-retaliation
@@ -16,8 +16,7 @@ tags:
 - personnel-purge
 status: confirmed
 sources:
-- title: Social Security whistleblower submits 'involuntary resignation,' citing 'intolerable'
-    work conditions
+- title: Social Security whistleblower submits 'involuntary resignation,' citing 'intolerable' work conditions
   url: https://www.nbcnews.com/politics/doge/social-security-whistleblower-submits-involuntary-resignation-citing-i-rcna228095
   outlet: NBC News
   date: '2025-08-30'
@@ -29,14 +28,11 @@ sources:
   url: https://www.thehandbasket.co/p/charles-borges-ssa-chief-data-officer-whistleblower-resigns-email
   outlet: The Handbasket
   date: '2025-08-30'
-notes: 'Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating
-  policies to
+notes: 'Borges accused SSA CIO Aram Moghaddassi (longtime Musk ally) of violating policies to
 
-  create unsecured cloud copy of Social Security data. His resignation letter stated
-  SSA''s
+  create unsecured cloud copy of Social Security data. His resignation letter stated SSA''s
 
-  actions made his duties "impossible to perform legally and ethically." Posted on
-  LinkedIn:
+  actions made his duties "impossible to perform legally and ethically." Posted on LinkedIn:
 
   "It is never wrong to be morally and ethically right with yourself."'
 capture_lanes:

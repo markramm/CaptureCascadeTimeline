@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Robert F. Kennedy Jr.
 - Aaron Siri
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 sources:
 - title: Kennedy's Ties to Ally Leading Vaccine Lawsuits Raise Ethical Concerns
   url: https://www.nytimes.com/2025/10/05/health/rfk-jr-aaron-siri-vaccines.html

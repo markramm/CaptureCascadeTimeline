@@ -4,7 +4,7 @@ date: '2014-04-02'
 importance: 9
 title: Supreme Court Strikes Down Aggregate Campaign Contribution Limits in McCutcheon v. FEC
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Chief Justice John Roberts
 - Shaun McCutcheon
 - Republican National Committee

@@ -16,7 +16,7 @@ actors:
 - Stephen Moore
 - Heritage Foundation
 - FreedomWorks
-- ALEC
+- American Legislative Exchange Council
 - Ed Meese
 - Lisa Nelson
 sources:

@@ -4,8 +4,8 @@ date: '2025-06-23'
 title: Supreme Court 6-3 Allows Third-Country Deportations Without Due Process
 importance: 9
 actors:
-- Supreme Court
-- Department of Homeland Security
+- U.S. Supreme Court
+- U.S. Department of Homeland Security
 - Sonia Sotomayor
 tags:
 - supreme-court
@@ -14,8 +14,7 @@ tags:
 - immigration
 - civil-rights
 sources:
-- title: Supreme Court pauses district court order preventing third-party country
-    deportations
+- title: Supreme Court pauses district court order preventing third-party country deportations
   url: https://www.scotusblog.com/2025/06/supreme-court-pauses-district-court-order-preventing-immigrants-from-being-deported-to-third-party-countries/
   outlet: SCOTUSblog
   tier: 1
@@ -35,8 +34,7 @@ sources:
   url: https://www.cnn.com/2025/06/23/politics/supreme-court-deportation-third-countries/
   outlet: CNN
   tier: 1
-- title: GAO faces nearly 50% budget cut, less oversight of withheld funds in budget
-    plan
+- title: GAO faces nearly 50% budget cut, less oversight of withheld funds in budget plan
   url: https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/
   outlet: Federal News Network
   date: '2025-06-23'

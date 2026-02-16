@@ -11,7 +11,7 @@ tags:
 - civil-liberties
 - immigration-enforcement
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Paragon
 - Homeland Security
 - WhatsApp

@@ -8,7 +8,7 @@ actors:
 - Energy Transfer Partners
 - Private Security Contractors
 - Morton County Sheriff's Department
-- Army Corps of Engineers
+- U.S. Army Corps of Engineers
 tags:
 - environmental
 - environmental-justice

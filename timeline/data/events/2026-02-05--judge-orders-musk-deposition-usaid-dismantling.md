@@ -10,7 +10,7 @@ actors:
 - USAID
 - Peter Marocco
 - Jeremy Lewin
-- DOGE
+- Department of Government Efficiency
 - Marco Rubio
 - Amy Gleason
 tags:

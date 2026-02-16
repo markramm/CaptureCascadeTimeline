@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Federal Appeals Court
 - Gavin Newsom
-- Department of Defense
+- U.S. Department of Defense
 - Charles Breyer
 - Donald Trump
 - California National Guard Adjutant General

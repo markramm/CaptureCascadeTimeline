@@ -7,7 +7,7 @@ actors:
 - Department of Justice
 - FBI
 - U.S. Secret Service
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - IRS Criminal Investigation
 sources:
 - outlet: U.S. Department of Justice
@@ -19,8 +19,7 @@ sources:
   url: https://www.investing.com/news/world-news/us-launches-kleptocapture-task-force-aimed-at-russian-oligarchs-2776288
   date: '2022-03-02'
 - outlet: PBS NewsHour (AP)
-  title: Biden administration launches KleptoCapture task force to pursue Russian
-    oligarchs
+  title: Biden administration launches KleptoCapture task force to pursue Russian oligarchs
   url: https://www.pbs.org/newshour/politics/trump-administration-ends-biden-era-task-force-aimed-at-seizing-russian-oligarchs-assets
   date: '2022-03-02'
 importance: 8

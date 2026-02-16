@@ -14,7 +14,7 @@ tags:
 actors:
 - Mark Calabria
 - Office of Management and Budget
-- Census Bureau
+- U.S. Census Bureau
 - Leadership Conference on Civil and Human Rights
 - Arab American Institute
 - Donald Trump

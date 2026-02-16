@@ -8,8 +8,8 @@ actors:
 - Elizabeth Holmes
 - Theranos
 - U.S. Department of Justice
-- SEC
-- FDA
+- Securities and Exchange Commission
+- Food and Drug Administration
 tags:
 - corruption
 - fraud

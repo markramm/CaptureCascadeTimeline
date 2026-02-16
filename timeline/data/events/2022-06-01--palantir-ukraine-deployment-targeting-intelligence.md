@@ -14,7 +14,7 @@ actors:
 - Palantir Technologies
 - Alex Karp
 - Ukraine Ministry of Defence
-- Volodymyr Zelensky
+- Volodymyr Zelenskyy
 sources:
 - url: https://time.com/6691662/ai-ukraine-war-palantir/
   title: Tech Companies Turned Ukraine Into an AI War Lab

@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Elon Musk
 - xAI
-- FTC
+- Federal Trade Commission
 - Irish Data Protection Commission
 - AI Regulatory Bodies
 sources:
@@ -14,8 +14,7 @@ sources:
   title: 'Data Sheet: FTC''s Broader AI Regulatory Landscape'
   url: https://fortune.com/2024/11/29/ftc-antitrust-investigation-microsoft-computing-software-licensing-practices/
 - outlet: CNBC
-  title: Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety
-    for kids
+  title: Alphabet, Meta, OpenAI, xAI and Snap face FTC probe over AI chatbot safety for kids
   url: https://www.cnbc.com/2025/09/11/alphabet-meta-openai-x-ai-chatbot-ftc.html
 - outlet: The Register
   title: Ireland opens probe into Musk's X over Grok's AI data practices

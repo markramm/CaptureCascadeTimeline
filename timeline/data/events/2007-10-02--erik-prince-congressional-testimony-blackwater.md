@@ -12,7 +12,7 @@ tags:
 actors:
 - Erik Prince
 - Blackwater
-- House Oversight Committee
+- U.S. House Oversight Committee
 - Henry Waxman
 sources:
 - url: https://www.govinfo.gov/content/pkg/CHRG-110hhrg45219/html/CHRG-110hhrg45219.htm

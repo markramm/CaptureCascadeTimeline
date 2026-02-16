@@ -4,7 +4,7 @@ date: '2025-09-22'
 title: Supreme Court Agrees to Reconsider Humphrey's Executor, Review Trump's Power to Fire Agency Heads
 importance: 10
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - Rebecca Slaughter
 - Federal Trade Commission

@@ -3,7 +3,7 @@ date: '1995-12-20'
 title: FDA Approves OxyContin with Unsubstantiated Safety Claims
 importance: 9
 actors:
-- FDA
+- Food and Drug Administration
 - Purdue Pharma
 - Dr. Curtis Wright
 - Sackler Family
@@ -20,8 +20,7 @@ sources:
   url: https://journalofethics.ama-assn.org/article/how-fda-failures-contributed-opioid-crisis/2020-08
   outlet: Journal of Ethics - American Medical Association
   date: '2020-08-01'
-- title: 'How the FDA Approved OxyContin: The 1995 Decision That Started America''s
-    Opioid Crisis'
+- title: 'How the FDA Approved OxyContin: The 1995 Decision That Started America''s Opioid Crisis'
   url: https://govfacts.org/history/how-the-fda-approved-oxycontin-the-1995-decision-that-started-americas-opioid-crisis/
   outlet: GovFacts
   date: '2024-03-15'
@@ -29,8 +28,7 @@ sources:
   url: https://www.gao.gov/products/gao-04-110
   outlet: U.S. Government Accountability Office
   date: '2004-01-01'
-- title: An FDA Official Who Led the Approval of OxyContin Got a $400,000 Job at Purdue
-    Pharma a Year Later
+- title: An FDA Official Who Led the Approval of OxyContin Got a $400,000 Job at Purdue Pharma a Year Later
   url: https://www.yahoo.com/video/fda-official-led-approval-oxycontin-113000876.html
   outlet: Yahoo News
   date: '2022-07-15'

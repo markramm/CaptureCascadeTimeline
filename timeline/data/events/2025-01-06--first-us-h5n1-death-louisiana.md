@@ -10,8 +10,8 @@ tags:
 - regulatory-failure
 actors:
 - Louisiana Department of Health
-- CDC
-- FDA
+- Centers for Disease Control and Prevention
+- Food and Drug Administration
 sources:
 - title: First H5 Bird Flu Death Reported in United States
   url: https://www.cdc.gov/media/releases/2025/m0106-h5-birdflu-death.html

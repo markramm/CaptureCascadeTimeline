@@ -5,8 +5,8 @@ title: FDA Modernization Act Accelerates Drug Approvals and Expands Direct-to-Co
 importance: 7
 actors:
 - Bill Clinton
-- Pharmaceutical Research and Manufacturers of America
-- Food and Drug Administration (FDA)
+- PhRMA
+- Food and Drug Administration
 - James Jeffords
 tags:
 - healthcare
@@ -15,7 +15,7 @@ tags:
 - fda
 - drug-safety
 sources:
-- title: 'Food and Drug Administration Modernization Act of 1997'
+- title: Food and Drug Administration Modernization Act of 1997
   outlet: Congress.gov
   url: https://www.congress.gov/bill/105th-congress/senate-bill/830
   date: '1997-11-21'

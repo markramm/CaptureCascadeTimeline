@@ -5,9 +5,9 @@ status: confirmed
 title: DHS Shutdown Begins But Immigration Enforcement Continues
 importance: 8
 actors:
-- DHS
-- ICE
-- CBP
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 - Chuck Schumer
 tags:
 - immigration-enforcement

@@ -4,36 +4,36 @@ date: '1859-10-16'
 title: John Brown's Harpers Ferry Raid Exposes Slave Power's Armed Defense of Institutional Capture
 importance: 8
 actors:
-  - John Brown
-  - Robert E. Lee
-  - James Buchanan
-  - U.S. Marines
-  - Virginia Militia
+- John Brown
+- Robert E. Lee
+- James Buchanan
+- U.S. Marines
+- Virginia militia
 sources:
-  - title: John Brown's raid on Harpers Ferry
-    url: https://www.britannica.com/event/John-Browns-Raid-on-Harpers-Ferry
-    outlet: Britannica
-    date: 2025
-    verified: true
-    tier: 2
-  - title: Harpers Ferry
-    url: https://www.nps.gov/hafe/learn/historyculture/john-brown.htm
-    outlet: National Park Service
-    date: 2025
-    verified: true
-    tier: 1
-  - title: John Brown and Harpers Ferry
-    url: https://www.battlefields.org/learn/biographies/john-brown
-    outlet: American Battlefield Trust
-    date: 2025
-    verified: true
-    tier: 2
+- title: John Brown's raid on Harpers Ferry
+  url: https://www.britannica.com/event/John-Browns-Raid-on-Harpers-Ferry
+  outlet: Britannica
+  date: 2025
+  verified: true
+  tier: 2
+- title: Harpers Ferry
+  url: https://www.nps.gov/hafe/learn/historyculture/john-brown.htm
+  outlet: National Park Service
+  date: 2025
+  verified: true
+  tier: 1
+- title: John Brown and Harpers Ferry
+  url: https://www.battlefields.org/learn/biographies/john-brown
+  outlet: American Battlefield Trust
+  date: 2025
+  verified: true
+  tier: 2
 tags:
-  - slave-power
-  - institutional-capture
-  - political-violence
-  - democratic-erosion
-  - federal-military
+- slave-power
+- institutional-capture
+- political-violence
+- democratic-erosion
+- federal-military
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex

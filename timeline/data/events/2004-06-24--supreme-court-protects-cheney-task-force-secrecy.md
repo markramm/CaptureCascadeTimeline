@@ -5,7 +5,7 @@ importance: 9
 title: Supreme Court Protects Cheney Energy Task Force Secrecy
 actors:
 - Dick Cheney
-- Supreme Court
+- U.S. Supreme Court
 - Anthony Kennedy
 - Antonin Scalia
 - Ruth Bader Ginsburg

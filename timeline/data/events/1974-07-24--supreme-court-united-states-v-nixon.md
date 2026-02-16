@@ -1,41 +1,41 @@
 ---
-id: '1974-07-24--supreme-court-united-states-v-nixon'
+id: 1974-07-24--supreme-court-united-states-v-nixon
 date: '1974-07-24'
 title: 'Supreme Court Rules 8-0 in United States v. Nixon: President Must Surrender Tapes'
 importance: 10
 actors:
-  - Supreme Court
-  - Warren Burger
-  - Richard Nixon
-  - Leon Jaworski
-  - Harry Blackmun
-  - Lewis Powell
-  - William Rehnquist
+- U.S. Supreme Court
+- Warren Burger
+- Richard Nixon
+- Leon Jaworski
+- Harry Blackmun
+- Lewis Powell
+- William Rehnquist
 tags:
-  - watergate
-  - judicial-oversight
-  - rule-of-law
-  - executive-power
-  - constitutional-law
+- watergate
+- judicial-oversight
+- rule-of-law
+- executive-power
+- constitutional-law
 sources:
-  - title: 'United States v. Nixon - Wikipedia'
-    url: 'https://en.wikipedia.org/wiki/United_States_v._Nixon'
-    outlet: 'Wikipedia'
-    date: '2024'
-    verified: true
-    tier: 3
-  - title: 'Looking back: The Supreme Court decision that ended Nixon''s presidency'
-    url: 'https://constitutioncenter.org/blog/anniversary-of-united-states-v-nixon'
-    outlet: 'National Constitution Center'
-    date: '2024'
-    verified: true
-    tier: 1
-  - title: 'Supreme Court Orders Nixon To Hand Over Tapes'
-    url: 'https://watergate.info/1974/07/24/supreme-court-orders-nixon-release-white-house-tapes.html/'
-    outlet: 'Watergate.info'
-    date: '2024'
-    verified: true
-    tier: 2
+- title: United States v. Nixon - Wikipedia
+  url: https://en.wikipedia.org/wiki/United_States_v._Nixon
+  outlet: Wikipedia
+  date: '2024'
+  verified: true
+  tier: 3
+- title: 'Looking back: The Supreme Court decision that ended Nixon''s presidency'
+  url: https://constitutioncenter.org/blog/anniversary-of-united-states-v-nixon
+  outlet: National Constitution Center
+  date: '2024'
+  verified: true
+  tier: 1
+- title: Supreme Court Orders Nixon To Hand Over Tapes
+  url: https://watergate.info/1974/07/24/supreme-court-orders-nixon-release-white-house-tapes.html/
+  outlet: Watergate.info
+  date: '2024'
+  verified: true
+  tier: 2
 status: confirmed
 capture_lanes:
 - Judicial Capture

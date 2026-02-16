@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Martin Dies Jr.
 - John Garner
-- House of Representatives
+- U.S. House of Representatives
 - Franklin D. Roosevelt
 tags:
 - anti-communism

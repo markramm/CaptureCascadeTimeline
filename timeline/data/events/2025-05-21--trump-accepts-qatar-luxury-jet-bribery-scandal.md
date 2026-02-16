@@ -99,7 +99,7 @@ actors:
 - Lindsey Graham
 - Mitt Romney
 - U.S. Air Force
-- Department of Defense
+- U.S. Department of Defense
 - White House
 - Boeing
 tags:

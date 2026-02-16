@@ -13,7 +13,7 @@ actors:
 - Donald Trump
 - Heather Honey
 - Marci McCarthy
-- DHS
+- DHS (Department of Homeland Security)
 sources:
 - url: https://www.nytimes.com/2025/10/22/us/politics/trump-election-deniers-dhs.html
   title: Trump Installs Election Deniers in Homeland Security Positions

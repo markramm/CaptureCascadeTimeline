@@ -4,8 +4,8 @@ title: 'Corporate PAC Explosion: 433 New Corporate PACs Formed in Post-Buckley E
 actors:
 - Corporate America
 - Business Roundtable
-- Chamber of Commerce
-- FEC
+- U.S. Chamber of Commerce
+- Federal Election Commission
 sources:
 - title: The Rise of Corporate PACs
   url: https://www.opensecrets.org/news/2010/09/corporate-pac-contributions/

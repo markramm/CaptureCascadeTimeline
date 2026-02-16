@@ -7,7 +7,7 @@ actors:
 - Pinkerton National Detective Agency
 - Allan Pinkerton
 - Corporate employers
-- State governments
+- State Governments
 - Labor unions
 tags:
 - gilded-age

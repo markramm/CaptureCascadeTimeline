@@ -4,7 +4,7 @@ date: '1945-01-03'
 title: HUAC Made Permanent Standing Committee, Institutionalizes Political Persecution
 importance: 8
 actors:
-- House of Representatives
+- U.S. House of Representatives
 - John Rankin
 - Martin Dies
 - House Un-American Activities Committee

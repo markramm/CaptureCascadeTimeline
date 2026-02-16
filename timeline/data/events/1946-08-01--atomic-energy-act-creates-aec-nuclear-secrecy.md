@@ -4,7 +4,7 @@ date: '1946-08-01'
 title: Atomic Energy Act Creates AEC, Establishes Unprecedented Peacetime Secrecy Regime
 importance: 9
 actors:
-- Congress
+- U.S. Congress
 - Harry Truman
 - Brien McMahon
 - Atomic Energy Commission

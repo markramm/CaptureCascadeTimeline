@@ -5,7 +5,7 @@ importance: 8
 title: Scott Pruitt Dismantles EPA While Taking Industry Money
 actors:
 - Scott Pruitt
-- EPA
+- Environmental Protection Agency (EPA)
 - Andrew Wheeler
 - Donald Trump
 - Fossil Fuel Industry

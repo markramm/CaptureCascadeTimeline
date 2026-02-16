@@ -8,7 +8,7 @@ actors:
 - Franklin D. Roosevelt
 - U.S. Congress
 - Works Progress Administration
-- federal employees
+- Federal employees
 tags:
 - political-activity
 - new-deal

@@ -2,7 +2,7 @@
 date: '2021-10-03'
 title: Pandora Papers Expose Global Elite's Offshore Financial Networks
 actors:
-- International Consortium of Investigative Journalists (ICIJ)
+- International Consortium of Investigative Journalists
 - King Abdullah II of Jordan
 - Andrej Babiš
 - Volodymyr Zelenskyy
@@ -15,27 +15,22 @@ sources:
   url: https://www.icij.org/investigations/pandora-papers/
   outlet: International Consortium of Investigative Journalists
   publication_date: '2021-10-03'
-  description: Official investigation page with comprehensive details of the Pandora
-    Papers leak, including scope, methodology, and key findings.
-- title: 'Pandora Papers: Biggest Ever Leak of Offshore Data Exposes Financial Secrets
-    of Rich and Powerful'
+  description: Official investigation page with comprehensive details of the Pandora Papers leak, including scope, methodology, and key findings.
+- title: 'Pandora Papers: Biggest Ever Leak of Offshore Data Exposes Financial Secrets of Rich and Powerful'
   url: https://www.theguardian.com/news/2021/oct/03/pandora-papers-biggest-ever-leak-of-offshore-data-exposes-financial-secrets-of-rich-and-powerful
   outlet: The Guardian
   publication_date: '2021-10-03'
-  description: In-depth reporting on the global investigation revealing offshore financial
-    networks of world leaders and billionaires.
+  description: In-depth reporting on the global investigation revealing offshore financial networks of world leaders and billionaires.
 - title: 'Pandora Papers: World Leaders'' Offshore Secrets Revealed'
   url: https://www.bbc.com/news/world-58780561
   outlet: BBC News
   publication_date: '2021-10-03'
-  description: Comprehensive coverage of the Pandora Papers investigation, highlighting
-    key revelations and global implications.
+  description: Comprehensive coverage of the Pandora Papers investigation, highlighting key revelations and global implications.
 - title: 'Pandora Papers: Massive Leak Reveals Hidden Wealth of Global Elite'
   url: https://www.washingtonpost.com/business/interactive/2021/pandora-papers-global-offshore/
   outlet: The Washington Post
   publication_date: '2021-10-03'
-  description: Interactive investigation detailing the offshore financial strategies
-    of world leaders and prominent figures.
+  description: Interactive investigation detailing the offshore financial strategies of world leaders and prominent figures.
 importance: 10
 tags:
 - offshore

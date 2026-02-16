@@ -4,7 +4,7 @@ title: Former CDC Director Julie Gerberding Joins Merck as Vaccine Division Pres
 importance: 8
 actors:
 - Dr. Julie Gerberding
-- CDC
+- Centers for Disease Control and Prevention
 - Merck
 - Gardasil vaccine
 tags:

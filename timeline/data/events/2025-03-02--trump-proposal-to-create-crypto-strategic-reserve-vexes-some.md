@@ -2,17 +2,14 @@
 id: 2025-03-02--trump-proposal-to-create-crypto-strategic-reserve-vexes-some
 date: '2025-03-02'
 title: Trump Establishes Strategic Crypto Reserve, Expanding U.S. Digital Asset Strategy
-description: The Strategic Crypto Reserve will hold approximately $17 billion in Bitcoin
-  and $400 million in other digital assets, sourced primarily from government asset
-  forfeitures. The initiative prohibits selling deposited Bitcoin, treating it as
-  a strategic reserve asset analogous to gold.
+description: The Strategic Crypto Reserve will hold approximately $17 billion in Bitcoin and $400 million in other digital assets, sourced primarily from government asset forfeitures. The initiative prohibits selling deposited Bitcoin, treating it as a strategic reserve asset analogous to gold.
 status: confirmed
 importance: 8
 location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- Treasury Department
+- U.S. Treasury Department
 - U.S. Department of Commerce
 tags:
 - crypto
@@ -40,8 +37,7 @@ sources:
 connections: []
 patterns:
 - kleptocratic-capture
-notes: Comprehensive event tracking the monetization of governmental cryptocurrency
-  strategy under the Trump administration.
+notes: Comprehensive event tracking the monetization of governmental cryptocurrency strategy under the Trump administration.
 capture_lanes:
 - Systematic Corruption
 - Financial Infrastructure

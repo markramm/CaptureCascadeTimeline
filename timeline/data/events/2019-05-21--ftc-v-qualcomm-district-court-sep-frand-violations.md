@@ -5,7 +5,7 @@ title: 'FTC v. Qualcomm: Judge Lucy Koh Finds Antitrust Violations in Standard E
 importance: 8
 status: confirmed
 actors:
-- FTC
+- Federal Trade Commission
 - Lucy Koh
 - Qualcomm
 - Ninth Circuit Court of Appeals

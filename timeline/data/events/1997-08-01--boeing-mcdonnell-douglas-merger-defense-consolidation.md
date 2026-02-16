@@ -8,7 +8,7 @@ actors:
 - Boeing
 - McDonnell Douglas
 - Federal Trade Commission
-- Department of Defense
+- U.S. Department of Defense
 - Les Aspin
 - William Perry
 tags:

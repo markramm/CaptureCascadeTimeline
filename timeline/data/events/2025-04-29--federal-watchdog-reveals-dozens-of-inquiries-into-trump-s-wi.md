@@ -10,7 +10,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Russ Vought
-- Government Accountability Office
+- U.S. Government Accountability Office
 - Rosa DeLauro
 - Patty Murray
 tags:

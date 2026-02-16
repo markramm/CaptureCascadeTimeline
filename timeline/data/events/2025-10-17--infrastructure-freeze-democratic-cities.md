@@ -10,7 +10,7 @@ tags:
 - political-retaliation
 actors:
 - Donald Trump
-- Army Corps of Engineers
+- U.S. Army Corps of Engineers
 - Democratic city governments
 sources:
 - url: https://www.usatoday.com/story/news/politics/2025/10/17/trump-infrastructure-freeze-democratic-cities/

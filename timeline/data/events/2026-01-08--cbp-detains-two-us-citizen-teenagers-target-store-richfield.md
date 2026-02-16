@@ -4,7 +4,7 @@ date: '2026-01-08'
 title: CBP Agents Tackle and Detain Two U.S. Citizen Teenagers at Richfield Target Store
 importance: 8
 actors:
-- CBP
+- U.S. Customs and Border Protection
 - Jonathan Aguilar Garcia
 - Christian Miranda Romano
 tags:

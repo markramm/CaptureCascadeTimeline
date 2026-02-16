@@ -7,7 +7,7 @@ actors:
 - Governor Brian Kemp
 - Georgia Republican Legislature
 - Secretary of State Brad Raffensperger
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 tags:
 - alec
 - voter-suppression

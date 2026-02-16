@@ -8,7 +8,7 @@ actors:
 - CFTC
 - Dawn Stump
 - Bitfinex
-- SEC
+- Securities and Exchange Commission
 tags:
 - crypto
 - regulatory-capture

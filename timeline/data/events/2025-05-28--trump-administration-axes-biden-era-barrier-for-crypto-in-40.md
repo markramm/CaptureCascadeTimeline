@@ -2,15 +2,11 @@
 id: 2025-05-28--trump-administration-axes-biden-era-barrier-for-crypto-in-40
 date: '2025-05-28'
 title: Trump Administration Axes Biden-Era Barrier for Crypto in 401(k) Plans
-description: On May 28, 2025, the Trump administration rescinded Biden-era Compliance
-  Assistance Release No. 2025-01, which had urged employers to exercise extreme caution
-  before adding cryptocurrency and digital assets to 401(k) plans. This was followed
-  by a broader executive order on August 7, 2025, directing the Department of Labor
-  to re-examine and clarify guidance on alternative assets in retirement accounts.
+description: On May 28, 2025, the Trump administration rescinded Biden-era Compliance Assistance Release No. 2025-01, which had urged employers to exercise extreme caution before adding cryptocurrency and digital assets to 401(k) plans. This was followed by a broader executive order on August 7, 2025, directing the Department of Labor to re-examine and clarify guidance on alternative assets in retirement accounts.
 actors:
 - Donald Trump
 - Trump Administration
-- Department of Labor
+- U.S. Department of Labor
 location: Washington, D.C.
 importance: 8
 tags:
@@ -32,8 +28,7 @@ sources:
   url: https://www.cnbc.com/2025/05/28/crypto-in-401k-plans-trump-administration-eases-rules.html
 - date: '2025-08-07'
   outlet: White House
-  title: 'Fact Sheet: President Donald J. Trump Democratizes Access to Alternative
-    Assets for 401(k) Investors'
+  title: 'Fact Sheet: President Donald J. Trump Democratizes Access to Alternative Assets for 401(k) Investors'
   url: https://www.whitehouse.gov/fact-sheets/2025/08/fact-sheet-president-donald-j-trump-democratizes-access-to-alternative-assets-for-401k-investors/
 - date: '2025-06-19'
   outlet: Harvard Corporate Governance
@@ -44,8 +39,7 @@ sources:
   title: Donald Trump Signs Order Letting Crypto Into 401(k) Retirement Plans
   url: https://www.coindesk.com/policy/2025/08/07/donald-trump-signs-order-letting-crypto-into-401-k-retirement-plans
 status: confirmed
-notes: Comprehensive documentation of Trump administration's regulatory changes to
-  401(k) investment guidelines, highlighting systematic approach to financial deregulation.
+notes: Comprehensive documentation of Trump administration's regulatory changes to 401(k) investment guidelines, highlighting systematic approach to financial deregulation.
 ---
 
 The Trump administration rescinded Biden-era guidance warning employers about adding cryptocurrency to employee 401(k) plans, with a subsequent executive order on August 7, 2025, further expanding alternative asset investment options. This action allows for more cryptocurrency and digital asset investments in retirement accounts, marking a significant shift in retirement investment policy.

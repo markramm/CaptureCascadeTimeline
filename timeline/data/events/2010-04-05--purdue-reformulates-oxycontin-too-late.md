@@ -5,7 +5,7 @@ date: '2010-04-05'
 importance: 8
 actors:
 - Purdue Pharma
-- FDA
+- Food and Drug Administration
 - Sackler Family
 tags:
 - opioid-crisis

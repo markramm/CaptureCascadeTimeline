@@ -16,7 +16,7 @@ capture_lanes:
 actors:
 - Iowa Legislature
 - Governor Terry Branstad
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Agriculture Industry
 sources:
 - url: https://www.foodsafetynews.com/2012/03/iowa-approves-nations-first-ag-gag-law/

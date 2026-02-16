@@ -4,7 +4,7 @@ date: '1863-01-15'
 title: Treasury Department Cotton Permit System Enables Massive Corruption as Officials Trade with Enemy for Personal Profit
 importance: 8
 actors:
-- Treasury Department
+- U.S. Treasury Department
 - Charles Dana
 - Abraham Lincoln
 - Salmon P. Chase

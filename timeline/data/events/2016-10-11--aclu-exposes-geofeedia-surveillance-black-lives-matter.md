@@ -13,7 +13,7 @@ tags:
 - law-enforcement
 - privacy
 actors:
-- ACLU
+- American Civil Liberties Union
 - Geofeedia
 - Twitter
 - Facebook

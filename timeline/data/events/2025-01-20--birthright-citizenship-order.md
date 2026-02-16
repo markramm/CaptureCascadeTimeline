@@ -3,19 +3,14 @@ id: 2025-01-20--birthright-citizenship-order
 date: '2025-01-20'
 importance: 10
 title: Trump Signs Unconstitutional Executive Order Challenging Birthright Citizenship
-description: The executive order, titled 'Protecting the Meaning and Value of American
-  Citizenship,' attempts to deny citizenship to children born in the United States
-  whose parents are not U.S. citizens or lawful permanent residents. The order targets
-  specific categories of births, including children of temporary visa holders and
-  undocumented immigrants. Within days, multiple federal judges issued preliminary
-  injunctions blocking the order's implementation, citing clear constitutional violations.
+description: The executive order, titled 'Protecting the Meaning and Value of American Citizenship,' attempts to deny citizenship to children born in the United States whose parents are not U.S. citizens or lawful permanent residents. The order targets specific categories of births, including children of temporary visa holders and undocumented immigrants. Within days, multiple federal judges issued preliminary injunctions blocking the order's implementation, citing clear constitutional violations.
 location: Washington, DC
 actors:
 - Donald Trump
 - Department of Justice
-- Supreme Court
+- U.S. Supreme Court
 - Asian Law Caucus
-- ACLU
+- American Civil Liberties Union
 - State Democracy Defenders Fund
 tags:
 - birthright-citizenship
@@ -41,8 +36,7 @@ sources:
   url: https://www.americanimmigrationcouncil.org/blog/in-birthright-citizenship-decision-the-supreme-court-expanded-trumps-power
   outlet: American Immigration Council
   date: '2025-06-27'
-- title: 'Barbara v. Trump: Nationwide Class-Action Challenge to Birthright Citizenship
-    Order'
+- title: 'Barbara v. Trump: Nationwide Class-Action Challenge to Birthright Citizenship Order'
   url: https://www.asianlawcaucus.org/news-resources/barbara-v-trump-challenge
   outlet: Asian Law Caucus
   date: '2025-07-10'
@@ -54,8 +48,7 @@ patterns:
 - executive-overreach
 - constitutional-reinterpretation
 - systematic-discrimination
-notes: Implementing Project 2025 recommendation despite 14th Amendment's clear language.
-  Represents a direct assault on established constitutional citizenship principles.
+notes: Implementing Project 2025 recommendation despite 14th Amendment's clear language. Represents a direct assault on established constitutional citizenship principles.
 status: confirmed
 legal_status:
   initial_order: Signed January 20, 2025

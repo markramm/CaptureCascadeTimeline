@@ -23,7 +23,7 @@ actors:
 - Chief Justice John Roberts
 - Donald Trump
 - Rebecca Slaughter
-- Supreme Court
+- U.S. Supreme Court
 - Federal Trade Commission
 ---
 

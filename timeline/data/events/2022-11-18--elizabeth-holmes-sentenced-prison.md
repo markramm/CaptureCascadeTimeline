@@ -9,8 +9,8 @@ actors:
 - Edward Davila
 - U.S. Department of Justice
 - Theranos
-- FDA
-- SEC
+- Food and Drug Administration
+- Securities and Exchange Commission
 tags:
 - corruption
 - fraud

@@ -4,7 +4,7 @@ date: '1861-01-01'
 title: Civil War Contractors Defraud Government with Defective Weapons and Shoddy Goods Costing Lives and Millions
 importance: 8
 actors:
-- War Department
+- U.S. War Department
 - Union Army
 - War contractors
 - Shoddy millionaires

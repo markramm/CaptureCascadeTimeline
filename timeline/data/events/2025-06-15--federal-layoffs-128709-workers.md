@@ -6,8 +6,8 @@ title: 128,709 federal workers laid off or targeted for layoffs
 location: Washington, DC
 actors:
 - Trump Administration
-- Office of Personnel Management (OPM)
-- Department of Government Efficiency (DOGE)
+- Office of Personnel Management
+- Department of Government Efficiency
 - Elon Musk
 - Vivek Ramaswamy
 - Federal Workforce
@@ -29,8 +29,7 @@ sources:
   url: https://en.wikipedia.org/wiki/2025_United_States_federal_mass_layoffs
   outlet: Wikipedia
   date: '2025-06-26'
-- title: Trump says 'a lot' of federal workers are being laid off during government
-    shutdown
+- title: Trump says 'a lot' of federal workers are being laid off during government shutdown
   url: https://www.cnbc.com/2025/10/10/trump-russ-vought-layoffs-government-shutdown.html
   outlet: CNBC
   date: '2025-10-10'
@@ -38,9 +37,7 @@ sources:
   url: https://www.nextgov.com/people/2025/10/substantial-layoffs-begin-federal-agencies-white-house-says/408766/
   outlet: Nextgov/FCW
   date: '2025-10-10'
-notes: The 2025 federal mass layoffs exceed 275,000 civil service positions announced,
-  not including federal contractors. Multiple agencies saw cuts exceeding 50% of workforce,
-  with some like USAID and GSA regions experiencing 90%+ reductions.
+notes: The 2025 federal mass layoffs exceed 275,000 civil service positions announced, not including federal contractors. Multiple agencies saw cuts exceeding 50% of workforce, with some like USAID and GSA regions experiencing 90%+ reductions.
 status: confirmed
 ---
 

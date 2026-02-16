@@ -1,10 +1,10 @@
 ---
 id: 2009-06-26--koch-network-launches-campaign-defeat-cap-and-trade
 date: '2009-06-26'
-title: 'Koch Network Mobilizes to Kill Waxman-Markey Cap-and-Trade Climate Bill'
+title: Koch Network Mobilizes to Kill Waxman-Markey Cap-and-Trade Climate Bill
 importance: 9
 actors:
-- Koch Brothers
+- Koch brothers
 - Charles Koch
 - David Koch
 - Americans for Prosperity

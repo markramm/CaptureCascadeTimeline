@@ -1,15 +1,15 @@
 {
-  "total_events": 4238,
+  "total_events": 4237,
   "total_tags": 6468,
-  "total_actors": 7954,
-  "total_sources": 14523,
+  "total_actors": 7667,
+  "total_sources": 14520,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-02-15"
   },
   "status_counts": {
     "unknown": 247,
-    "confirmed": 3953,
+    "confirmed": 3952,
     "validated": 24,
     "disputed": 3,
     "verified": 1,
@@ -68,40 +68,40 @@
     },
     {
       "name": "Trump Administration",
-      "count": 328
+      "count": 332
     },
     {
       "name": "Department of Justice",
-      "count": 279
-    },
-    {
-      "name": "Elon Musk",
-      "count": 166
+      "count": 280
     },
     {
       "name": "U.S. Congress",
-      "count": 131
+      "count": 202
+    },
+    {
+      "name": "Elon Musk",
+      "count": 167
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "count": 136
+    },
+    {
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "count": 100
     },
     {
       "name": "Pam Bondi",
-      "count": 98
+      "count": 99
     },
     {
       "name": "FBI",
       "count": 92
     },
     {
-      "name": "ICE",
-      "count": 83
-    },
-    {
-      "name": "Supreme Court",
-      "count": 75
-    },
-    {
-      "name": "Congress",
+      "name": "Ronald Reagan",
       "count": 71
     }
   ],
-  "generated": "2026-02-15T19:24:20.345576"
+  "generated": "2026-02-15T20:17:49.775711"
 }

@@ -2,10 +2,9 @@
 id: 2023-06-29--students-fair-admissions-ends-affirmative-action
 date: '2023-06-29'
 importance: 9
-title: Supreme Court Ends Affirmative Action in College Admissions in Students for
-  Fair Admissions Decisions
+title: Supreme Court Ends Affirmative Action in College Admissions in Students for Fair Admissions Decisions
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Chief Justice John Roberts
 - Justice Clarence Thomas
 - Justice Samuel Alito
@@ -49,13 +48,11 @@ sources:
   url: https://www.thecrimson.com/article/2023/6/30/scotus-affirmative-action-analysis/
   outlet: Harvard Crimson
   date: '2023-06-30'
-- title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against
-    10 Individuals
+- title: U.S. Attorney Announces Charges In Four Separate Insider Trading Cases Against 10 Individuals
   url: https://www.justice.gov/usao-sdny/pr/us-attorney-announces-charges-four-separate-insider-trading-cases-against-10
   outlet: U.S. Attorney Southern District of New York
   tier: 1
-- title: SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC
-    Securities
+- title: SEC Charges Former DWAC Board Member and Others for Insider Trading in DWAC Securities
   url: https://www.sec.gov/newsroom/press-releases/2023-121
   outlet: U.S. Securities and Exchange Commission
   tier: 1
@@ -63,8 +60,7 @@ sources:
   url: https://www.cnbc.com/2023/06/29/three-charged-with-illegal-trading-ahead-of-trump-media-merger.html
   outlet: CNBC
   tier: 1
-- title: US Government Continues to Crack Down on Insider Trading with Four Coordinated
-    Actions
+- title: US Government Continues to Crack Down on Insider Trading with Four Coordinated Actions
   url: https://www.morganlewis.com/pubs/2023/07/us-government-continues-to-crack-down-on-insider-trading-with-four-coordinated-actions
   outlet: Morgan Lewis
   tier: 3
@@ -74,13 +70,11 @@ sources:
   tier: 2
 - date: '2024-04-15'
   outlet: ABC7 Los Angeles
-  title: 'Trump insider trading: Michael Shvartsman and brother Gerald Shvartsman
-    plead guilty to insider trading linked to Trump Social'
+  title: 'Trump insider trading: Michael Shvartsman and brother Gerald Shvartsman plead guilty to insider trading linked to Trump Social'
   url: https://abc7.com/trump-insider-trading-michael-shvartsman-and-brother-gerald-plead-guilty-to-trading-linked-social/14611272/
 - date: '2023-06-29'
   outlet: ABC News
-  title: 3 men who funded Trump-acquired social media company charged with insider
-    trading
+  title: 3 men who funded Trump-acquired social media company charged with insider trading
   url: https://abcnews.go.com/Politics/3-men-funded-trump-social-media-company-charged/story?id=100486153
 status: confirmed
 capture_lanes:

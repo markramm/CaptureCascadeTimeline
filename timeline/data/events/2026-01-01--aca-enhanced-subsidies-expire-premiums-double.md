@@ -6,7 +6,7 @@ title: ACA Enhanced Subsidies Expire, Premiums Double for 22 Million Americans
 importance: 8
 actors:
 - Centers for Medicare & Medicaid Services
-- Congress
+- U.S. Congress
 - Donald Trump
 tags:
 - healthcare

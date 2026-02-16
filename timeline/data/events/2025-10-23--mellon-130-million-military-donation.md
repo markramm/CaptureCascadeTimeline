@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Timothy Mellon
 - Trump
-- Department of Defense
+- U.S. Department of Defense
 - Pentagon
 sources:
 - url: https://www.cnbc.com/2025/10/25/trump-timothy-mellon-military-donor-government-shutdown.html

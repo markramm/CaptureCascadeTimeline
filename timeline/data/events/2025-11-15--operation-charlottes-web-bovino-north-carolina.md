@@ -1,12 +1,12 @@
 ---
 id: 2025-11-15--operation-charlottes-web-bovino-north-carolina
 date: '2025-11-15'
-title: "Bovino Launches 'Operation Charlotte's Web' in North Carolina, 250+ Arrests as 30,000 Students Stay Home"
+title: Bovino Launches 'Operation Charlotte's Web' in North Carolina, 250+ Arrests as 30,000 Students Stay Home
 importance: 9
 actors:
 - Gregory Bovino
-- Border Patrol
-- DHS
+- U.S. Border Patrol
+- DHS (Department of Homeland Security)
 - Garry McFadden
 tags:
 - bovino
@@ -24,7 +24,7 @@ sources:
   outlet: WCNC
   url: https://www.wcnc.com/article/news/politics/immigration-news/81-immigrants-arrested-cbp-charlotte-operation-on-nov-15-2025/275-32188b56-3f57-4af8-8e68-2fd77a936a60
   tier: 1
-- title: "Charlotte's Web: What's happening with North Carolina immigration raids?"
+- title: 'Charlotte''s Web: What''s happening with North Carolina immigration raids?'
   outlet: Al Jazeera
   url: https://www.aljazeera.com/news/2025/11/18/charlottes-web-whats-happening-with-north-carolina-immigration-raids
   tier: 1

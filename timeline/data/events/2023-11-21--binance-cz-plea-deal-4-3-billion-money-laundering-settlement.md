@@ -12,7 +12,7 @@ actors:
 - Janet Yellen
 - FinCEN
 - OFAC
-- SEC
+- Securities and Exchange Commission
 - CFTC
 tags:
 - crypto

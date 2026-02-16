@@ -6,7 +6,7 @@ title: Armstrong Williams Paid 40K for Illegal Government Propaganda
 actors:
 - Armstrong Williams
 - Rod Paige
-- Department of Education
+- U.S. Department of Education
 - Ketchum Inc
 - Maggie Gallagher
 tags:

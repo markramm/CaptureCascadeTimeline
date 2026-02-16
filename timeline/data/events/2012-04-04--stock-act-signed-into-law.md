@@ -3,7 +3,7 @@ date: '2012-04-04'
 title: STOCK Act Signed into Law
 actors:
 - Barack Obama
-- Congress
+- U.S. Congress
 - Scott Brown
 - Kirsten Gillibrand
 - Joe Lieberman

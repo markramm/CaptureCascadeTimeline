@@ -1,20 +1,13 @@
 ---
 id: 1947-07-26--national-security-act-creates-permanent-warfare-state
 date: '1947-07-26'
-title: National Security Act Establishes Permanent Warfare State and Military-Industrial
-  Framework
-summary: President Truman signs the National Security Act, merging military departments
-  into the National Military Establishment (later Department of Defense), creating
-  the CIA and National Security Council, and establishing the National Security Resources
-  Board to coordinate military, industrial, and civilian mobilization. This legislation
-  creates the institutional framework for what President Eisenhower will later call
-  the 'military-industrial complex' - a permanent fusion of military and corporate
-  interests.
+title: National Security Act Establishes Permanent Warfare State and Military-Industrial Framework
+summary: President Truman signs the National Security Act, merging military departments into the National Military Establishment (later Department of Defense), creating the CIA and National Security Council, and establishing the National Security Resources Board to coordinate military, industrial, and civilian mobilization. This legislation creates the institutional framework for what President Eisenhower will later call the 'military-industrial complex' - a permanent fusion of military and corporate interests.
 importance: 9
 actors:
 - Harry S. Truman
 - U.S. Congress
-- Department of Defense
+- U.S. Department of Defense
 - Central Intelligence Agency
 - National Security Council
 sources:

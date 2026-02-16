@@ -3,22 +3,15 @@ actors:
 - Russell Vought
 - Mark Paoletta
 - Gavin Kliger
-- DOGE
-- CFPB
+- Department of Government Efficiency
+- Consumer Financial Protection Bureau
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 capture_type: regulatory_capture
 connections: []
 date: '2025-02-09'
-description: The work stoppage order came as part of broader effort to dismantle CFPB.
-  Staff were locked out of headquarters while leadership prepared mass layoffs. This
-  was followed by termination of 73 probationary employees on February 11, and RIF
-  notices to 1,400+ employees in April, intending to reduce staff from 1,690 to just
-  207. DOGE official Gavin Kliger reportedly kept staff up 36 hours straight to ensure
-  layoff notices went out, "screaming at people he did not believe were working fast
-  enough." Federal judge temporarily blocked the mass layoffs but appeals court later
-  allowed them to proceed.
+description: The work stoppage order came as part of broader effort to dismantle CFPB. Staff were locked out of headquarters while leadership prepared mass layoffs. This was followed by termination of 73 probationary employees on February 11, and RIF notices to 1,400+ employees in April, intending to reduce staff from 1,690 to just 207. DOGE official Gavin Kliger reportedly kept staff up 36 hours straight to ensure layoff notices went out, "screaming at people he did not believe were working fast enough." Federal judge temporarily blocked the mass layoffs but appeals court later allowed them to proceed.
 id: 2025-02-09--cfpb-headquarters-shuttered-as-staff-ordered-to-stop-all-wor
 importance: 9
 location: Washington, D.C.

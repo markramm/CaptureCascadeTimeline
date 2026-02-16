@@ -21,13 +21,11 @@ sources:
   url: https://www.newsweek.com/trump-military-directive-cartels-mexico-venezuela-2110960
   outlet: Newsweek
   date: '2025-01-21'
-- title: Trump orders military to devise a security plan for US-Mexico border that
-    could include more troops
+- title: Trump orders military to devise a security plan for US-Mexico border that could include more troops
   url: https://www.stripes.com/theaters/us/2025-01-20/mexico-border-security-pentagon-troops-16549919.html
   outlet: Stars and Stripes
   date: '2025-01-20'
-- title: Trump Orders 1,500 Active-Duty Troops to Border Ahead of Pentagon Security
-    Plan Deadline
+- title: Trump Orders 1,500 Active-Duty Troops to Border Ahead of Pentagon Security Plan Deadline
   url: https://www.military.com/daily-news/2025/01/22/1500-active-duty-troops-being-deployed-border-under-orders-trump.html
   outlet: Military.com
   date: '2025-01-22'
@@ -48,22 +46,18 @@ sources:
   url: https://www.opb.org/article/2025/01/21/trumps-energy-emergency-plans-what-we-know/
   outlet: Oregon Public Broadcasting
   date: '2025-01-21'
-- title: Demystifying President Trumps National Energy Emergency and the Scope of
-    Emergency Authority
+- title: Demystifying President Trumps National Energy Emergency and the Scope of Emergency Authority
   url: https://blogs.law.columbia.edu/climatechange/2025/02/14/demystifying-president-trumps-national-energy-emergency-and-the-scope-of-emergency-authority/
   outlet: Columbia Law School Climate Law Blog
   date: '2025-02-14'
 actors:
 - Donald Trump
-- Department of Defense
-- Department of Homeland Security
+- U.S. Department of Defense
+- U.S. Department of Homeland Security
 - Pentagon
 - Mexican President Claudia Sheinbaum
 location: U.S.-Mexico Border
-notes: Mexican President Sheinbaum criticized FTO designation as infringing on Mexican
-  sovereignty. Order opens door to American troops potentially crossing into Mexico.
-  National emergency allows deployment of armed forces, erection of physical barriers,
-  and counter-UAS capabilities.
+notes: Mexican President Sheinbaum criticized FTO designation as infringing on Mexican sovereignty. Order opens door to American troops potentially crossing into Mexico. National emergency allows deployment of armed forces, erection of physical barriers, and counter-UAS capabilities.
 monitoring_status: active
 followup_schedule: daily
 search_keywords:

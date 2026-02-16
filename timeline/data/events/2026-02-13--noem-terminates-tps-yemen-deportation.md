@@ -6,7 +6,7 @@ title: Noem Terminates Temporary Protected Status for Yemen
 importance: 7
 actors:
 - Kristi Noem
-- DHS
+- DHS (Department of Homeland Security)
 tags:
 - immigration-enforcement
 - abuse-of-power

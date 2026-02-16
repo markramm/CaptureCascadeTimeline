@@ -5,7 +5,7 @@ date: '2025-08-08'
 importance: 5
 location: Washington DC
 actors:
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - AFGE Council 238 (8,000+ EPA workers)
 - Justin Chen (AFGE Council 238 President)
 - Ninth Circuit Court of Appeals
@@ -20,12 +20,8 @@ tags:
 - national-security-pretext
 - worker-rights
 citations:
-- 'Note: Specific citation referenced in document regarding EPA union contract terminations
-  and appellate stays'
-notes: The Ninth Circuit's August 1 stay enabled immediate termination of contracts
-  on August 8. Trump's March EO claimed EPA has "national security" functions despite
-  its environmental mission. This affected grievance procedures, workplace rights,
-  and collective bargaining for thousands of federal environmental workers.
+- 'Note: Specific citation referenced in document regarding EPA union contract terminations and appellate stays'
+notes: The Ninth Circuit's August 1 stay enabled immediate termination of contracts on August 8. Trump's March EO claimed EPA has "national security" functions despite its environmental mission. This affected grievance procedures, workplace rights, and collective bargaining for thousands of federal environmental workers.
 status: confirmed
 sources:
 - title: EPA terminates federal union contracts, effective immediately

@@ -8,7 +8,7 @@ actors:
 - Donald Trump
 - US Congress
 - Stacey Plaskett
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - medicaid-cuts
 - snap-cuts

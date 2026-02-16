@@ -10,8 +10,8 @@ tags:
 - pandemic-preparedness
 actors:
 - Robert F. Kennedy Jr.
-- CDC
-- HHS
+- Centers for Disease Control and Prevention
+- U.S. Department of Health and Human Services
 sources:
 - title: RFK Jr. Appears to Have Skipped January CDC Planning Exercise on Bird Flu
   url: https://americanoversight.org/rfk-jr-appears-to-have-skipped-january-cdc-planning-exercise-on-bird-flu/

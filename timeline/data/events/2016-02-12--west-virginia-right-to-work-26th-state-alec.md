@@ -6,8 +6,8 @@ importance: 8
 actors:
 - West Virginia Legislature
 - Earl Ray Tomblin
-- American Legislative Exchange Council (ALEC)
-- Koch network
+- American Legislative Exchange Council
+- Koch Network
 - State Policy Network
 - Americans for Prosperity
 tags:

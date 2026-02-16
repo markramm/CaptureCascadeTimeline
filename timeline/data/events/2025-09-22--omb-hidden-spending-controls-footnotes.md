@@ -12,7 +12,7 @@ tags:
 actors:
 - Russell Vought
 - OMB
-- CREW
+- Citizens for Responsibility and Ethics in Washington
 sources:
 - title: OMB's latest effort to conceal spending data
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/ombs-latest-effort-to-conceal-spending-data/

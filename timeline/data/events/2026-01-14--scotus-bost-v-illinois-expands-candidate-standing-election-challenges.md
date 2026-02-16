@@ -5,7 +5,7 @@ title: Supreme Court Rules 7-2 in Bost v. Illinois That Candidates Have Standing
 importance: 8
 status: confirmed
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - John Roberts
 - Ketanji Brown Jackson
 - Sonia Sotomayor

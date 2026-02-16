@@ -16,7 +16,7 @@ sources:
   outlet: Reuters
 actors:
 - Scott Bessent
-- Treasury Department
+- U.S. Treasury Department
 - Financial Stability Oversight Council
 ---
 

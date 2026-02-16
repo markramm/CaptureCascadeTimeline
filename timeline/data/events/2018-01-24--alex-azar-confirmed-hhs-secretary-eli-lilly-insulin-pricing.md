@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Alex Azar
 - Eli Lilly
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Ron Wyden
 - Donald Trump
 tags:

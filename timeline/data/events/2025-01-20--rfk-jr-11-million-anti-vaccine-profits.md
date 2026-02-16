@@ -1,14 +1,14 @@
 ---
 actors:
-- robert-f-kennedy-jr
+- Robert F. Kennedy Jr.
 - childrens-health-defense
-- HHS
-- NIH
+- U.S. Department of Health and Human Services
+- National Institutes of Health (NIH)
 - Merck
 - crispr-therapeutics
 - dragonfly-therapeutics
 - wisner-baum-law-firm
-- senator-elizabeth-warren
+- Senator Elizabeth Warren
 capture_lane: political
 capture_lanes:
 - Regulatory Capture
@@ -18,17 +18,10 @@ connections:
 - 2019-01-01--childrens-health-defense-anti-vaccine
 - 2025-02-01--nih-workforce-reduction
 date: '2025-01-20'
-description: HHS Secretary Robert F. Kennedy Jr. confirmed with significant conflicts
-  of interest, continuing to earn vaccine litigation referral fees while controlling
-  federal health policy. Despite claiming to support science, he earned $856,559 in
-  referral fees from Wisner Baum law firm suing Merck over HPV vaccine Gardasil, and
-  previously chaired an anti-vaccine organization. His ethics agreement allows continued
-  fee collection, raising serious regulatory capture concerns.
+description: HHS Secretary Robert F. Kennedy Jr. confirmed with significant conflicts of interest, continuing to earn vaccine litigation referral fees while controlling federal health policy. Despite claiming to support science, he earned $856,559 in referral fees from Wisner Baum law firm suing Merck over HPV vaccine Gardasil, and previously chaired an anti-vaccine organization. His ethics agreement allows continued fee collection, raising serious regulatory capture concerns.
 id: 2025-01-20--rfk-jr-11-million-anti-vaccine-profits
 importance: 9
-notes: Multiple sources document Kennedy's ongoing financial interests in vaccine
-  litigation while serving as HHS Secretary. Senator Warren highlighted potential
-  for Kennedy to manipulate vaccine policies for personal financial gain.
+notes: Multiple sources document Kennedy's ongoing financial interests in vaccine litigation while serving as HHS Secretary. Senator Warren highlighted potential for Kennedy to manipulate vaccine policies for personal financial gain.
 patterns:
 - anti-science
 - regulatory-capture
@@ -53,13 +46,11 @@ sources:
   url: https://www.warren.senate.gov/newsroom/press-releases/at-hearing-warren-slams-rfk-jr-for-dangerous-conflicts-of-interest-profiting-from-anti-vaccine-conspiracies
 - date: '2025-01-30'
   outlet: CBS News
-  title: RFK Jr.'s Complex Financial Ties with Personal Injury Law Firm Raise Ethics
-    Questions
+  title: RFK Jr.'s Complex Financial Ties with Personal Injury Law Firm Raise Ethics Questions
   url: https://www.cbsnews.com/news/rfk-jr-confirmation-robert-f-kennedy-merck/
 - date: '2025-03-10'
   outlet: CREW - Citizens for Responsibility and Ethics in Washington
-  title: RFK Jr. Systematically Cuts Federal Health Workforce While Maintaining Personal
-    Financial Interests
+  title: RFK Jr. Systematically Cuts Federal Health Workforce While Maintaining Personal Financial Interests
   url: https://www.citizensforethics.org/reports-investigations/rfk-jr-federal-health-workforce-cuts/
 status: confirmed
 tags:

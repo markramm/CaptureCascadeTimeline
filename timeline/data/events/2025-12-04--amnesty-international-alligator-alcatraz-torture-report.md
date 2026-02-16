@@ -9,9 +9,9 @@ actors:
 - Amy Fischer
 - Ana Piquer
 - Ron DeSantis
-- ICE
-- DHS
-- ACLU
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
+- American Civil Liberties Union
 - Center for Biological Diversity
 - Detained immigrants
 tags:

@@ -5,7 +5,7 @@ title: Wisconsin Becomes 25th Right-to-Work State, Completing ALEC's Union Destr
 importance: 9
 actors:
 - Scott Walker
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Scott Fitzgerald
 - Robin Vos
 - Wisconsin GOP

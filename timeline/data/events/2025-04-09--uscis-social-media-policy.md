@@ -22,8 +22,8 @@ citations:
 id: 2025-04-09--uscis-social-media-policy
 location: Washington, DC
 actors:
-- U.S. Citizenship and Immigration Services (USCIS)
-- Department of Homeland Security
+- U.S. Citizenship and Immigration Services
+- U.S. Department of Homeland Security
 - Trump Administration
 - Civil liberties groups
 notes: This policy expands ideological screening of immigrants based on protected political speech. Critics note the vague definition of antisemitism could encompass legitimate criticism of Israeli government policies.

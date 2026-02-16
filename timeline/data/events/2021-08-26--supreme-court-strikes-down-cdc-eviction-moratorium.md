@@ -4,8 +4,8 @@ date: '2021-08-26'
 importance: 6
 title: Supreme Court Strikes Down CDC Eviction Moratorium as Unauthorized Executive Action
 actors:
-- Supreme Court
-- CDC
+- U.S. Supreme Court
+- Centers for Disease Control and Prevention
 - Joe Biden
 - Alabama Association of Realtors
 tags:

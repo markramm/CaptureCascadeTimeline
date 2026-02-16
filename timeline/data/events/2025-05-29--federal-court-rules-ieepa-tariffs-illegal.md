@@ -15,7 +15,7 @@ actors:
 - Donald Trump
 - Rudolph Contreras
 - U.S. Court of International Trade
-- Supreme Court
+- U.S. Supreme Court
 sources:
 - url: https://en.wikipedia.org/wiki/Learning_Resources_v._Trump
   title: Learning Resources v. Trump

@@ -13,7 +13,7 @@ tags:
 actors:
 - Brian Kemp
 - Stacey Abrams
-- Georgia Secretary of State
+- Brad Raffensperger
 sources:
 - url: https://www.nbcnews.com/politics/elections/suppression-critics-charge-georgia-gop-gov-candidate-purging-voters-election-n918761
   title: Critics charge Georgia GOP gov candidate purging voters before election

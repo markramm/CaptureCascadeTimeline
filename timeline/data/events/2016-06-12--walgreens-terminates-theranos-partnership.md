@@ -8,7 +8,7 @@ actors:
 - Walgreens
 - Theranos
 - Elizabeth Holmes
-- FDA
+- Food and Drug Administration
 - CMS
 tags:
 - corruption

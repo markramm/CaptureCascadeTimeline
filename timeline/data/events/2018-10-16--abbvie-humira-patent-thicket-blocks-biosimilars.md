@@ -40,7 +40,7 @@ actors:
 - Mylan
 - Boehringer Ingelheim
 - Sandoz
-- FDA
+- Food and Drug Administration
 - USPTO
 ---
 

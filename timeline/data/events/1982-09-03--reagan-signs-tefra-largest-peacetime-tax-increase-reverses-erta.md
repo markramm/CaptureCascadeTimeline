@@ -8,7 +8,7 @@ actors:
 - Robert Dole
 - Jack Kemp
 - Bruce Bartlett
-- Senate Finance Committee
+- U.S. Senate Finance Committee
 tags:
 - tax-policy
 - reagan-administration

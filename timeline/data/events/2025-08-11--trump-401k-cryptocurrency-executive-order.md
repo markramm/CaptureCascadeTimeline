@@ -6,9 +6,9 @@ importance: 8
 status: confirmed
 actors:
 - Donald Trump
-- Department of Labor
+- U.S. Department of Labor
 - Cryptocurrency industry
-- Private equity industry
+- Private Equity Industry
 tags:
 - regulatory-capture
 - systematic-corruption

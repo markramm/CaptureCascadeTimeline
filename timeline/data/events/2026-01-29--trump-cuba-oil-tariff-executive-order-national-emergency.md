@@ -7,7 +7,7 @@ importance: 7
 actors:
 - Donald Trump
 - White House
-- Department of Commerce
+- U.S. Department of Commerce
 - Department of State
 tags:
 - executive-overreach
@@ -21,12 +21,12 @@ sources:
   date: '2026-01-29'
   tier: 1
 - url: https://sanctionsnews.bakermckenzie.com/u-s-declares-national-emergency-with-respect-to-cuba-and-threatens-new-tariffs-on-countries-supplying-oil-to-the-country/
-  title: 'U.S. Declares National Emergency With Respect to Cuba and Threatens New Tariffs on Countries Supplying Oil to the Country'
+  title: U.S. Declares National Emergency With Respect to Cuba and Threatens New Tariffs on Countries Supplying Oil to the Country
   outlet: Baker McKenzie
   date: '2026-01-29'
   tier: 2
 - url: https://www.pbs.org/newshour/politics/trump-threatens-tariffs-on-any-country-that-sells-oil-to-cuba-putting-pressure-on-mexico
-  title: 'Trump threatens tariffs on any country that sells oil to Cuba, putting pressure on Mexico'
+  title: Trump threatens tariffs on any country that sells oil to Cuba, putting pressure on Mexico
   outlet: PBS NewsHour
   date: '2026-01-29'
   tier: 1

@@ -9,7 +9,7 @@ actors:
 - American Enterprise Institute
 - Barry Goldwater
 - Wright Patman
-- Internal Revenue Service (IRS)
+- Internal Revenue Service
 - Karl Hess
 - Dean Burch
 tags:
@@ -24,12 +24,12 @@ capture_lanes:
 - Tax Evasion
 - Regulatory Capture
 sources:
-- title: 'American Enterprise Institute - Wikipedia'
+- title: American Enterprise Institute - Wikipedia
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Barry Goldwater''s Curious Campaign'
+- title: Barry Goldwater's Curious Campaign
   url: https://aliciapatterson.org/john-judis/barry-goldwaters-curious-campaign/
   outlet: Alicia Patterson Foundation
   date: '2024-01-01'

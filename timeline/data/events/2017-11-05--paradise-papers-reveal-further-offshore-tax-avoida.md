@@ -11,7 +11,7 @@ actors:
 - Leonid Mikhelson
 - Gennady Timchenko
 - Kirill Shamalov
-- International Consortium of Investigative Journalists (ICIJ)
+- International Consortium of Investigative Journalists
 importance: 9
 sources:
 - outlet: ICIJ

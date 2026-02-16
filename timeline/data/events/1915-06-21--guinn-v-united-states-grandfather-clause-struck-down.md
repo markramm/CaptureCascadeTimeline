@@ -4,7 +4,7 @@ date: '1915-06-21'
 title: 'Guinn v. United States: Supreme Court Strikes Down Grandfather Clauses as Fifteenth Amendment Violation'
 importance: 7
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Chief Justice Edward White
 - Oklahoma Legislature
 - NAACP
@@ -19,11 +19,11 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/238/347/
   outlet: Justia
   tier: 1
-- title: 'The Grandfather Clause'
+- title: The Grandfather Clause
   url: https://www.nps.gov/articles/the-grandfather-clause.htm
   outlet: National Park Service
   tier: 1
-- title: 'Grandfather Clause - Constitutional Rights Foundation'
+- title: Grandfather Clause - Constitutional Rights Foundation
   url: https://www.crf-usa.org/black-history-month/grandfather-clauses
   outlet: Constitutional Rights Foundation
   tier: 2

@@ -5,7 +5,7 @@ title: 'National Voter Registration Act (Motor Voter): Expands Registration Acce
 importance: 7
 actors:
 - Bill Clinton
-- Congress
+- U.S. Congress
 - Republican Governors
 - ACORN
 - League of Women Voters
@@ -16,15 +16,15 @@ tags:
 - motor-voter
 - republican-opposition
 sources:
-- title: 'National Voter Registration Act of 1993'
+- title: National Voter Registration Act of 1993
   url: https://www.justice.gov/crt/national-voter-registration-act-1993-nvra
   outlet: U.S. Department of Justice
   tier: 1
-- title: 'The National Voter Registration Act of 1993 (NVRA)'
+- title: The National Voter Registration Act of 1993 (NVRA)
   url: https://crsreports.congress.gov/product/pdf/R/R40609
   outlet: Congressional Research Service
   tier: 1
-- title: 'Motor Voter Law Overview'
+- title: Motor Voter Law Overview
   url: https://www.brennancenter.org/issues/ensure-every-american-can-vote/voting-reform/automatic-voter-registration
   outlet: Brennan Center for Justice
   tier: 2

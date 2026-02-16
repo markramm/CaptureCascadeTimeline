@@ -3,7 +3,7 @@ date: '1975-01-01'
 title: ALEC Registers as Federal Nonprofit and Moves to Washington D.C.
 importance: 6
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Paul Weyrich
 - American Conservative Union
 sources:

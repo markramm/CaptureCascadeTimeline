@@ -12,7 +12,7 @@ tags:
 actors:
 - Trump
 - Harvard University
-- Department of Education
+- U.S. Department of Education
 - Alan Garber
 sources:
 - url: https://www.thecrimson.com/article/2025/8/27/trump-500-million-mcmahon/

@@ -7,7 +7,7 @@ actors:
 - Donald Trump
 - White House
 - U.S. Coast Guard
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - executive-power
 - presidential-authority

@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Nancy Beck
 - Lynn Dekleva
-- EPA
+- Environmental Protection Agency (EPA)
 - American Chemistry Council
 tags:
 - regulatory-capture
@@ -22,8 +22,7 @@ sources:
   outlet: The Washington Post
   date: '2025-04-01'
   archive_url: https://web.archive.org/web/20250814194913/https://www.washingtonpost.com/
-- title: TCE Is Linked to Heart Defects in Babies, Cancer and Parkinson's. Republicans
-    in Congress Want to Reverse a Ban on It.
+- title: TCE Is Linked to Heart Defects in Babies, Cancer and Parkinson's. Republicans in Congress Want to Reverse a Ban on It.
   url: https://www.propublica.org/article/tce-ban-cancer-parkinsons-trump-republicans
   outlet: ProPublica
   date: '2025-01-25'
@@ -31,8 +30,7 @@ sources:
   url: https://www.washingtonpost.com/climate-environment/2025/01/23/trump-epa-toxic-chemicals-regulation/
   outlet: The Washington Post
   date: '2025-01-23'
-notes: Beck previously worked to reverse these same chemical safety rules as industry
-  lobbyist
+notes: Beck previously worked to reverse these same chemical safety rules as industry lobbyist
 status: confirmed
 ---
 

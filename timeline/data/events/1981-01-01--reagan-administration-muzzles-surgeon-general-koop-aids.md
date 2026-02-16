@@ -2,13 +2,13 @@
 id: 1981-01-01--reagan-administration-muzzles-surgeon-general-koop-aids
 date: '1981-01-01'
 status: confirmed
-title: 'Reagan Administration Muzzles Surgeon General Koop on AIDS for Five Years'
+title: Reagan Administration Muzzles Surgeon General Koop on AIDS for Five Years
 importance: 8
 location: Washington, DC
 actors:
 - C. Everett Koop
 - Ronald Reagan
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - aids
 - c-everett-koop
@@ -17,7 +17,7 @@ tags:
 - reagan
 - surgeon-general
 sources:
-- title: 'AIDS, the Surgeon General, and the Politics of Public Health'
+- title: AIDS, the Surgeon General, and the Politics of Public Health
   url: https://profiles.nlm.nih.gov/spotlight/qq/feature/aids
   outlet: National Library of Medicine
   date: '2024-01-01'
@@ -27,7 +27,7 @@ sources:
   outlet: The Daily Beast
   date: '2013-02-26'
   verified: true
-- title: 'C. Everett Koop and the First Surgeon General Report on AIDS'
+- title: C. Everett Koop and the First Surgeon General Report on AIDS
   url: https://blogs.library.unt.edu/sycamore-stacks/2022/12/01/c-everett-koop-and-the-first-surgeon-generals-report-on-aids/
   outlet: UNT Libraries
   date: '2022-12-01'

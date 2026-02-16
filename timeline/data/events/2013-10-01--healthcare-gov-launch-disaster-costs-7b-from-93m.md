@@ -6,7 +6,7 @@ title: Healthcare.gov Launch Disaster Costs $1.7B from $93M Contract
 actors:
 - CGI Federal
 - Healthcare.gov
-- HHS
+- U.S. Department of Health and Human Services
 - CMS
 - Accenture
 - Oregon

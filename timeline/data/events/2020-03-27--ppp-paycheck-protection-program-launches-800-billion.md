@@ -6,8 +6,8 @@ title: PPP launches $800B COVID relief with minimal oversight; $200B+ fraud esti
 location: United States
 actors:
 - Small Business Administration
-- Treasury Department
-- Congress
+- U.S. Treasury Department
+- U.S. Congress
 tags:
 - fraud
 - corruption

@@ -15,7 +15,7 @@ sources:
   tier: 2
   outlet: 404 Media
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Clearview AI
 - Trump Administration
 status: confirmed

@@ -12,7 +12,7 @@ tags:
 - corruption
 actors:
 - Robert F. Kennedy Jr.
-- HHS
+- U.S. Department of Health and Human Services
 - Moderna
 - BARDA
 sources:

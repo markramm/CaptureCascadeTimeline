@@ -4,11 +4,11 @@ date: '2011-07-13'
 title: 'ALEC Exposed: Leaked Documents Reveal 800 Corporate-Written Model Bills'
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Center for Media and Democracy
 - The Nation
 - Corporate members
-- State legislators
+- State Legislators
 tags:
 - alec
 - state-capture

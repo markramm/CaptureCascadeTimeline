@@ -7,7 +7,7 @@ actors:
 - U.S. Congress
 - President Jimmy Carter
 - Bureau of Indian Affairs
-- Native American tribes
+- Native American Tribes
 sources:
 - title: American Indian Religious Freedom Act of 1978
   outlet: First Amendment Encyclopedia

@@ -5,7 +5,7 @@ title: Indiana Becomes 23rd Right-to-Work State Using ALEC Model Legislation
 importance: 8
 actors:
 - Mitch Daniels
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Indiana Republican Party
 - National Right to Work Committee
 - Koch brothers

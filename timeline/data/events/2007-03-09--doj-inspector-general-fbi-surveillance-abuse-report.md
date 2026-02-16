@@ -6,7 +6,7 @@ actors:
 - Glenn Fine
 - FBI
 - Department of Justice
-- Congress
+- U.S. Congress
 - National Security Division
 - Robert Mueller
 tags:

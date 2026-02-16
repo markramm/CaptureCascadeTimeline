@@ -4,10 +4,10 @@ date: '2025-12-05'
 title: Supreme Court Grants Review of Trump's Birthright Citizenship Challenge, Setting Stage for Constitutional Crisis
 importance: 10
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - D. John Sauer
-- ACLU
+- American Civil Liberties Union
 - Cecillia Wang
 - Asian Law Caucus
 - American Immigration Council

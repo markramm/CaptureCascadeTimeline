@@ -8,7 +8,7 @@ actors:
 - Jeff Sessions
 - Stephen Miller
 - Donald Trump
-- DHS
+- DHS (Department of Homeland Security)
 tags:
 - family-separation
 - human-rights

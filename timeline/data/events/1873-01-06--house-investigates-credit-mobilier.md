@@ -1,11 +1,11 @@
 ---
 id: 1873-01-06--house-investigates-credit-mobilier
 date: '1873-01-06'
-title: 'House Launches Credit Mobilier Investigation'
+title: House Launches Credit Mobilier Investigation
 importance: 7
 actors:
 - U.S. House of Representatives
-- Oakes Ames (Congressman)
+- Oakes Ames
 - James Brooks (Congressman)
 - Poland Committee
 sources:
@@ -13,11 +13,11 @@ sources:
   outlet: MoneyWeek
   url: https://moneyweek.com/371410/6-january-1873-credit-mobilier-of-america-scandal-investigated
   year: 2024
-- title: 'Crédit Mobilier scandal'
+- title: Crédit Mobilier scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Cr%C3%A9dit_Mobilier_scandal
   year: 2024
-- title: 'Credit Mobilier Scandal'
+- title: Credit Mobilier Scandal
   outlet: Britannica Money
   url: https://www.britannica.com/money/Credit-Mobilier-Scandal
   year: 2024

@@ -38,7 +38,7 @@ actors:
 - Raytheon
 - Department of Justice
 - Qatar
-- Department of Defense
+- U.S. Department of Defense
 - Greg Hayes
 ---
 

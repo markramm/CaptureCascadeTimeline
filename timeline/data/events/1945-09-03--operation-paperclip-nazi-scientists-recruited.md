@@ -5,7 +5,7 @@ title: Operation Paperclip Secretly Recruits Nazi Scientists, Whitewashes War Cr
 importance: 9
 actors:
 - Joint Intelligence Objectives Agency
-- War Department
+- U.S. War Department
 - Wernher von Braun
 - State Department
 - Office of Strategic Services

@@ -5,7 +5,7 @@ title: Justice O'Connor Expresses Regret Over Bush v. Gore Damage to Court Reput
 importance: 7
 actors:
 - Sandra Day O'Connor
-- Supreme Court
+- U.S. Supreme Court
 - Bush v. Gore majority
 tags:
 - sandra-day-oconnor
@@ -27,8 +27,7 @@ sources:
   url: https://www.washingtonpost.com/news/post-politics/wp/2013/04/29/oconnor-maybe-supreme-court-shouldnt-have-taken-bush-v-gore/
   outlet: The Washington Post
   date: '2013-04-29'
-- title: 'Supreme Court: New documents show how Sandra Day O''Connor helped George
-    W. Bush win the 2000 election'
+- title: 'Supreme Court: New documents show how Sandra Day O''Connor helped George W. Bush win the 2000 election'
   url: https://www.cnn.com/2023/05/02/politics/bush-gore-oconnor-supreme-court-2000/index.html
   outlet: CNN
   date: '2023-05-02'

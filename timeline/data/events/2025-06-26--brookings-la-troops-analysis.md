@@ -7,8 +7,8 @@ location: Washington, DC
 actors:
 - Brookings Institution
 - Legal scholars
-- Department of Defense
-- Department of Homeland Security
+- U.S. Department of Defense
+- U.S. Department of Homeland Security
 - Trump Administration
 tags:
 - analysis
@@ -20,13 +20,7 @@ tags:
 - constitutional-law
 citations:
 - https://www.brookings.edu/articles/how-can-the-president-put-soldiers-on-the-streets-of-los-angeles
-notes: 'OLC claims Posse Comitatus doesn''t apply when protecting federal property,
-  but courts say PCA triggered when troops subject civilians to "regulatory, prescriptive,
-  or compulsory" military power. No court has addressed if §12406 allows Guard law
-  enforcement. Ninth Circuit applied "extremely deferential standard" in Trump''s
-  favor. Newsom sued alleging PCA violations. Brennan Center: deployment "legally
-  dubious." Rolling Stone: "Absolutely unprecedented." Key legal questions remain
-  unanswered.'
+notes: 'OLC claims Posse Comitatus doesn''t apply when protecting federal property, but courts say PCA triggered when troops subject civilians to "regulatory, prescriptive, or compulsory" military power. No court has addressed if §12406 allows Guard law enforcement. Ninth Circuit applied "extremely deferential standard" in Trump''s favor. Newsom sued alleging PCA violations. Brennan Center: deployment "legally dubious." Rolling Stone: "Absolutely unprecedented." Key legal questions remain unanswered.'
 status: confirmed
 sources:
 - title: How can the president put soldiers on the streets of Los Angeles?
@@ -41,8 +35,7 @@ sources:
   url: https://www.rollingstone.com/politics/politics-features/trump-troop-deployment-los-angeles-is-it-legal-1235364017/
   outlet: Rolling Stone
   date: '2025-06-10'
-- title: 5 things to know as Newsom and Trump go back to court over the National Guard
-    in LA
+- title: 5 things to know as Newsom and Trump go back to court over the National Guard in LA
   url: https://calmatters.org/justice/2025/08/newsom-vs-trump-national-guard/
   outlet: CalMatters
   date: '2025-08-11'

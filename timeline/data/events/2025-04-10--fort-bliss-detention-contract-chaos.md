@@ -2,14 +2,13 @@
 id: 2025-04-10--fort-bliss-detention-contract-chaos
 date: '2025-04-10'
 importance: 8
-title: ICE cancels $3.8B Fort Bliss contract amid corruption concerns, awards to inexperienced
-  firm
+title: ICE cancels $3.8B Fort Bliss contract amid corruption concerns, awards to inexperienced firm
 location: Fort Bliss, El Paso, Texas
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Deployed Resources
 - Acquisition Logistics LLC
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - no-bid-contracts
 - corruption
@@ -20,13 +19,11 @@ capture_lanes:
 - Financial Corruption & Kleptocracy
 - Immigration & Border Militarization
 sources:
-- title: ICE Cancels $3.8 Billion Contract for Immigrant Tent Detention Camp at Fort
-    Bliss
+- title: ICE Cancels $3.8 Billion Contract for Immigrant Tent Detention Camp at Fort Bliss
   url: https://www.propublica.org/article/ice-cancels-contract-immigrant-detention-camp-fort-bliss
   outlet: ProPublica
   date: '2025-04-13'
-- title: Mystery surrounds $1.2 billion Army contract to build huge detention tent
-    camp in Texas desert
+- title: Mystery surrounds $1.2 billion Army contract to build huge detention tent camp in Texas desert
   url: https://www.readingeagle.com/2025/08/28/trump-immigration-fort-bliss/
   outlet: Reading Eagle
   date: '2025-08-28'
@@ -34,9 +31,7 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-07-22/trump-awards-immigration-detention-center-contract-for-fort-bliss-in-texas
   outlet: Bloomberg
   date: '2025-07-22'
-notes: Deployed Resources executives had hired dozens of former government insiders
-  including high-ranking ICE officials. Built behind military walls to reduce transparency
-  and fast-track deportations with minimal accountability.
+notes: Deployed Resources executives had hired dozens of former government insiders including high-ranking ICE officials. Built behind military walls to reduce transparency and fast-track deportations with minimal accountability.
 status: confirmed
 ---
 

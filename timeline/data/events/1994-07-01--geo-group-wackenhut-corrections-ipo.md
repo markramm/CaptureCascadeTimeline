@@ -8,7 +8,7 @@ actors:
 - GEO Group
 - George C. Zoley
 - The Wackenhut Corporation
-- NASDAQ
+- Nasdaq
 tags:
 - private-prison
 - prison-industrial-complex

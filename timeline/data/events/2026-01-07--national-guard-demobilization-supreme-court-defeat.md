@@ -9,7 +9,7 @@ actors:
 - Gavin Newsom
 - Brandon Johnson
 - U.S. Northern Command
-- Supreme Court
+- U.S. Supreme Court
 tags:
 - national-guard
 - supreme-court

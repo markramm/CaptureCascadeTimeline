@@ -1,9 +1,9 @@
 ---
 actors:
 - Food and Drug Administration
-- Pharmaceutical Research and Manufacturers of America (PhRMA)
+- PhRMA
 - U.S. Congress
-- Pharmaceutical Companies
+- Pharmaceutical companies
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
@@ -31,8 +31,7 @@ tags:
 - fda
 - government-funding
 - institutional-transformation
-title: FDA Prescription Drug User Fee Act Creates Financial Dependence on Pharmaceutical
-  Industry
+title: FDA Prescription Drug User Fee Act Creates Financial Dependence on Pharmaceutical Industry
 ---
 
 The Prescription Drug User Fee Act (PDUFA) of 1992 fundamentally restructured FDA drug approval financing by creating a direct financial relationship between pharmaceutical companies and regulators. The Act mandated drug companies pay fees to fund FDA drug reviews, which eventually comprised up to 65% of the FDA's drug review budget. By 2025, these user fees reached $3.3 billion of the FDA's $6.9 billion total budget, raising significant concerns about regulatory independence.

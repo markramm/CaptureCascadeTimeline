@@ -12,8 +12,8 @@ tags:
 - systematic-purge
 actors:
 - Robert F. Kennedy Jr.
-- HHS
-- CDC
+- U.S. Department of Health and Human Services
+- Centers for Disease Control and Prevention
 - Advisory Committee on Immunization Practices
 sources:
 - title: Health secretary RFK Jr. abruptly fires CDC vaccine advisory panel

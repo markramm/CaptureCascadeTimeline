@@ -18,21 +18,15 @@ citations:
 id: 2025-06-09--cpj-la-journalists-injured
 location: Los Angeles, California
 actors:
-- Committee to Protect Journalists (CPJ)
+- Committee to Protect Journalists
 - LAPD
 - Federal Law Enforcement
 - Journalists and reporters
 - National Guard
-notes: Nick Stern (British freelancer) needed emergency surgery from 3-inch plastic
-  bullet to leg; Lauren Tomasi (9News Australia) shot on live TV; Toby Canham hit
-  in forehead by CHP; Ryanne Mena (LA Daily News) & Sean Beckner-Carmitchel pepper-balled.
-  Adam Rose (LA Press Club) documented 20+ incidents. AP reported 24+ journalists
-  arrested/roughed up by June 10. LA Press Club & Status Coup filed federal lawsuit.
-  Led to July 11 court TRO against LAPD.
+notes: Nick Stern (British freelancer) needed emergency surgery from 3-inch plastic bullet to leg; Lauren Tomasi (9News Australia) shot on live TV; Toby Canham hit in forehead by CHP; Ryanne Mena (LA Daily News) & Sean Beckner-Carmitchel pepper-balled. Adam Rose (LA Press Club) documented 20+ incidents. AP reported 24+ journalists arrested/roughed up by June 10. LA Press Club & Status Coup filed federal lawsuit. Led to July 11 court TRO against LAPD.
 status: confirmed
 sources:
-- title: Law enforcement injure multiple journalists, others assaulted while covering
-    Los Angeles protests
+- title: Law enforcement injure multiple journalists, others assaulted while covering Los Angeles protests
   url: https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests
   outlet: Committee to Protect Journalists
   date: '2025-06-09'
@@ -44,8 +38,7 @@ sources:
   url: https://www.washingtonpost.com/style/media/2025/06/09/journalists-injured-la-protests/
   outlet: The Washington Post
   date: '2025-06-09'
-- title: Journalists were injured — and maybe even targeted — while covering immigration
-    protests in Los Angeles
+- title: Journalists were injured — and maybe even targeted — while covering immigration protests in Los Angeles
   url: https://www.poynter.org/commentary/2025/journalists-shot-injured-los-angeles-protests-press-freedom/
   outlet: Poynter
   date: '2025-06-10'

@@ -5,7 +5,7 @@ title: ALEC's Education Privatization Campaign Achieves Dominance - Model Legisl
 importance: 9
 status: confirmed
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - ALEC Education and Workforce Development Task Force
 - K12 Inc.
 - Koch Industries

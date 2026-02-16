@@ -4,7 +4,7 @@ date: '1981-01-01'
 title: ALEC Establishes Cabinet Task Forces and Partners with Reagan's Task Force on Federalism
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Ronald Reagan
 - Paul Laxalt
 - Tom Stivers

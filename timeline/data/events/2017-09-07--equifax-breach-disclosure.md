@@ -9,7 +9,7 @@ actors:
 - Equifax
 - Consumer Financial Protection Bureau
 - Mick Mulvaney
-- SEC
+- Securities and Exchange Commission
 tags:
 - corruption
 - regulatory-capture

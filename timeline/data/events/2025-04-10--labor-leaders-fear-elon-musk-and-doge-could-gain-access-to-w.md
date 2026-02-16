@@ -4,7 +4,7 @@ actors:
 - Trump Administration
 - Elon Musk
 - AFL-CIO
-- Department of Labor
+- U.S. Department of Labor
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

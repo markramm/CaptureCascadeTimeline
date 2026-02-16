@@ -7,7 +7,7 @@ actors:
 - Elon Musk
 - Donald Trump
 - Scott Kupor
-- DOGE
+- Department of Government Efficiency
 tags:
 - doge
 - elon-musk
@@ -20,12 +20,12 @@ sources:
   outlet: WTOP
   date: '2025-11-24'
   tier: 1
-- title: "DOGE 'doesn't exist' with eight months left on its charter"
+- title: DOGE 'doesn't exist' with eight months left on its charter
   url: https://www.cnbc.com/2025/11/24/doge-doesnt-exist-with-eight-months-left-on-its-charter.html
   outlet: CNBC
   date: '2025-11-24'
   tier: 1
-- title: "DOGE days are over as Trump disbands Elon Musk's team of federal cost-cutters"
+- title: DOGE days are over as Trump disbands Elon Musk's team of federal cost-cutters
   url: https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/
   outlet: TechCrunch
   date: '2025-11-24'

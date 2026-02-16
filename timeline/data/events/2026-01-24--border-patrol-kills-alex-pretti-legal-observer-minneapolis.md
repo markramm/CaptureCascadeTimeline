@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Alex Pretti
 - U.S. Border Patrol
-- DHS
+- DHS (Department of Homeland Security)
 - Todd Blanche
 - Gregory Bovino
 - Tim Walz

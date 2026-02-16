@@ -6,7 +6,7 @@ title: 4.3 million workers could lose overtime protections
 location: National
 actors:
 - Trump Administration
-- Department of Labor
+- U.S. Department of Labor
 tags:
 - overtime-protections
 - labor-rights
@@ -16,8 +16,7 @@ tags:
 capture_lanes:
 - Executive Power & Emergency Authority
 sources:
-- title: Project 2025 would strip federal overtime protections from at least 8 million
-    workers
+- title: Project 2025 would strip federal overtime protections from at least 8 million workers
   url: https://epiaction.org/2024/09/09/project-2025-would-strip-federal-overtime-protections-from-at-least-8-million-workers/
   outlet: Economic Policy Institute Action
   date: '2024-09-09'
@@ -25,8 +24,7 @@ sources:
   url: https://www.americanprogress.org/article/project-2025-would-cut-access-to-overtime-pay/
   outlet: Center for American Progress
   date: '2025-05-15'
-- title: On Overtime Pay, Trump Left Millions Behind as President. Project 2025 Would
-    Weaken it More
+- title: On Overtime Pay, Trump Left Millions Behind as President. Project 2025 Would Weaken it More
   url: https://capitalandmain.com/trump-cut-overtime-pay-for-millions-as-president-project-2025-would-slash-it-even-more
   outlet: Capital & Main
   date: '2025-05-15'
@@ -34,11 +32,7 @@ sources:
   url: https://maineaflcio.org/news/what-trump-project-2025-agenda-means-wages-worker-rights
   outlet: Maine AFL-CIO
   date: '2025-05-15'
-notes: EPI calculated 4.3M workers lose protections reverting from Biden's $58,656
-  threshold (effective Jan 2025) to Trump's $35,568. Project 2025 proposes allowing
-  overtime calculation over 80 hours/2 weeks or 160 hours/4 weeks instead of 40 hours/week,
-  and letting employers substitute comp time for overtime pay. Changes can happen
-  without Congressional approval.
+notes: EPI calculated 4.3M workers lose protections reverting from Biden's $58,656 threshold (effective Jan 2025) to Trump's $35,568. Project 2025 proposes allowing overtime calculation over 80 hours/2 weeks or 160 hours/4 weeks instead of 40 hours/week, and letting employers substitute comp time for overtime pay. Changes can happen without Congressional approval.
 status: confirmed
 ---
 

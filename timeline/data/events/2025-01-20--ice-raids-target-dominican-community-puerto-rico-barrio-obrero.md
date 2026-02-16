@@ -8,7 +8,7 @@ actors:
 - Immigration and Customs Enforcement (ICE)
 - Rebecca González-Ramos
 - Jenniffer González-Colón
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - immigration-enforcement
 - racial-profiling

@@ -11,13 +11,12 @@ actors:
 - Democracy Forward
 - American Federation of Government Employees (AFGE)
 - National Federation of Federal Employees (NFFE-IAM)
-- National Treasury Employees Union (NTEU)
+- National Treasury Employees Union
 sources:
 - title: Nationwide Legal Defense Network Expansion Report
   url: https://nationallegaldefense.org/2025-expansion
   outlet: National Legal Defense Network
-- title: 'Labor and Democracy Partners Announce Rise Up: Legal Defense Network for
-    Fired Federal Workers'
+- title: 'Labor and Democracy Partners Announce Rise Up: Legal Defense Network for Fired Federal Workers'
   url: https://aflcio.org/press/releases/labor-and-democracy-partners-announce-rise-legal-defense-network-fired-federal
   outlet: AFL-CIO
 - title: 'Rise Up: Federal Workers Legal Defense Network Announcement'

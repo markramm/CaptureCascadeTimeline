@@ -12,7 +12,7 @@ actors:
 - LeeAnne Walters
 - Marc Edwards
 - City of Flint
-- EPA
+- Environmental Protection Agency (EPA)
 sources:
 - url: https://flintwaterstudy.org/2015/08/hazardous-waste-levels-of-lead-found-in-a-flint-households-water/
   title: Hazardous Waste-levels of Lead found in a Flint household's water

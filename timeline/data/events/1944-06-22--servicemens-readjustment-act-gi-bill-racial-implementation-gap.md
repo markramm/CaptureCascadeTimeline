@@ -1,12 +1,11 @@
 ---
 id: 1944-06-22--servicemens-readjustment-act-gi-bill-racial-implementation-gap
 date: '1944-06-22'
-title: GI Bill Passed with Discriminatory State Implementation Enabling Racial Wealth
-  Gap
+title: GI Bill Passed with Discriminatory State Implementation Enabling Racial Wealth Gap
 importance: 9
 actors:
 - Franklin D. Roosevelt
-- Congress
+- U.S. Congress
 - John Rankin
 - Veterans Administration
 - American Legion
@@ -35,8 +34,7 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'When Affirmative Action Was White: The GI Bill and the Exclusion of Black
-    Veterans'
+- title: 'When Affirmative Action Was White: The GI Bill and the Exclusion of Black Veterans'
   outlet: Journal of Blacks in Higher Education
   url: https://www.jbhe.com/news_views/49_gilaw_whitevets.html
   tier: 2

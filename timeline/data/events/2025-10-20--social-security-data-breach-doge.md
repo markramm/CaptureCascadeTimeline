@@ -11,7 +11,7 @@ tags:
 - negligence
 actors:
 - Elon Musk
-- DOGE
+- Department of Government Efficiency
 - Charles Borges
 - Social Security Administration
 sources:

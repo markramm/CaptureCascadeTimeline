@@ -13,7 +13,7 @@ tags:
 actors:
 - Trump
 - National Guard
-- Department of Defense
+- U.S. Department of Defense
 sources:
 - url: https://www.nbcnews.com/politics/politics-news/national-guard-troops-dc-begin-carrying-firearms-rcna226890
   title: National Guard troops in D.C. begin carrying firearms

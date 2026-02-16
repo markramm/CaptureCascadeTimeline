@@ -5,10 +5,10 @@ title: Charles Wilson Confirmed Defense Secretary After "Good for General Motors
 importance: 9
 actors:
 - Charles Erwin Wilson
-- Dwight Eisenhower
+- Dwight D. Eisenhower
 - General Motors
 - Senate Armed Services Committee
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - military-industrial-complex
 - revolving-door

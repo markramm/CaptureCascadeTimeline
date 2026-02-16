@@ -7,8 +7,8 @@ status: confirmed
 importance: 8
 location: Washington, D.C.
 actors:
-- Department of Government Efficiency (DOGE)
-- CFPB
+- Department of Government Efficiency
+- Consumer Financial Protection Bureau
 - Donald Trump
 - Trump Administration
 - Federal judges

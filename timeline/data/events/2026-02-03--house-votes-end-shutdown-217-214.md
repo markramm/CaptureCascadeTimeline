@@ -5,7 +5,7 @@ status: confirmed
 title: House Votes 217-214 to End Four-Day Partial Government Shutdown
 importance: 8
 actors:
-- House of Representatives
+- U.S. House of Representatives
 - Mike Johnson
 - Nancy Mace
 - Hakeem Jeffries

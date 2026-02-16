@@ -5,8 +5,8 @@ title: ALEC Criminal Justice Task Force Promotes Truth-in-Sentencing Model Legis
 importance: 9
 status: confirmed
 actors:
-- ALEC
-- Corrections Corporation of America (CCA)
+- American Legislative Exchange Council
+- Corrections Corporation of America
 - GEO Group
 - State Legislators
 tags:

@@ -5,7 +5,7 @@ date: '2020-06-09'
 importance: 9
 actors:
 - Trump Administration
-- FEMA
+- Federal Emergency Management Agency (FEMA)
 - U.S. Department of Justice
 - Congressional Oversight
 tags:

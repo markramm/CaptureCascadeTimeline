@@ -8,7 +8,7 @@ actors:
 - Citigroup
 - Sandy Weill
 - Goldman Sachs
-- Treasury Department
+- U.S. Treasury Department
 tags:
 - revolving-door
 - citigroup
@@ -23,22 +23,22 @@ capture_lanes:
 - Corruption
 location: New York, NY
 sources:
-- title: 'The Revolving Door, Robert Rubin, and Citigroup'
+- title: The Revolving Door, Robert Rubin, and Citigroup
   url: https://sunlightfoundation.com/2008/11/24/the-revolving-door-robert-rubin-and-citigroup/
   outlet: Sunlight Foundation
   date: '2008-11-24'
   tier: 1
-- title: 'Robert Rubin'
+- title: Robert Rubin
   url: https://en.wikipedia.org/wiki/Robert_Rubin
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'The Long Shadow of Robert Rubin'
+- title: The Long Shadow of Robert Rubin
   url: https://www.americanbanker.com/law-regulation/the-long-shadow-of-robert-rubin-1071601-1.html
   outlet: American Banker
   date: '2015-12-16'
   tier: 2
-- title: 'Robert E. Rubin'
+- title: Robert E. Rubin
   url: https://www.cfr.org/expert/robert-e-rubin
   outlet: Council on Foreign Relations
   date: '2024'

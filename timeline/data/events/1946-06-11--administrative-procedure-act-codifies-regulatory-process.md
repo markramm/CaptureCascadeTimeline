@@ -4,11 +4,11 @@ date: '1946-06-11'
 title: Administrative Procedure Act Codifies Regulatory Process, Creates Industry Capture Opportunities
 importance: 8
 actors:
-- Congress
+- U.S. Congress
 - Harry Truman
 - American Bar Association
 - Business interests
-- Federal agencies
+- Federal Agencies
 tags:
 - regulatory-capture
 - administrative-law

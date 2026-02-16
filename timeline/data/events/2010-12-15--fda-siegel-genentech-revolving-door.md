@@ -1,10 +1,9 @@
 ---
 date: '2010-12-15'
-title: FDA Arthritis Drug Reviewer Jeffrey Siegel Joins Genentech After Approving
-  Company Tocilizumab
+title: FDA Arthritis Drug Reviewer Jeffrey Siegel Joins Genentech After Approving Company Tocilizumab
 actors:
 - Jeffrey Siegel
-- FDA
+- Food and Drug Administration
 - Genentech
 - Roche
 - Actemra
@@ -13,8 +12,7 @@ sources:
   title: A Look At How The Revolving Door Spins From FDA To Industry
   url: https://www.npr.org/sections/health-shots/2016/09/28/495694559/a-look-at-how-the-revolving-door-spins-from-fda-to-industry
 - outlet: Science
-  title: 'FDA''s revolving door: Companies often hire agency staffers who managed
-    their successful drug reviews'
+  title: 'FDA''s revolving door: Companies often hire agency staffers who managed their successful drug reviews'
   url: https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful
 - outlet: STAT News
   title: 'FDA''s Revolving Door: A Pattern of Potential Bias in Drug Regulation'

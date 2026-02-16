@@ -8,7 +8,7 @@ actors:
 - Palantir Technologies
 - Amazon Web Services
 - CIA
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - surveillance-infrastructure
 - data-analytics

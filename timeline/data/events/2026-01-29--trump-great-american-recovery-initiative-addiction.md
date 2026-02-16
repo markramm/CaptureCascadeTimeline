@@ -9,14 +9,14 @@ actors:
 - White House
 - Robert F. Kennedy Jr.
 - Kathryn Burgum
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - executive-action
 - public-health
 - institutional-duplication
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/01/addressing-addiction-through-the-great-american-recovery-initiative/
-  title: 'Addressing Addiction through the Great American Recovery Initiative'
+  title: Addressing Addiction through the Great American Recovery Initiative
   outlet: White House
   date: '2026-01-29'
   tier: 1
@@ -26,7 +26,7 @@ sources:
   date: '2026-01-29'
   tier: 1
 - url: https://www.statnews.com/2026/01/29/new-trump-addiction-initiative-light-on-details/
-  title: "Trump's addiction initiative brings bold rhetoric but few details"
+  title: Trump's addiction initiative brings bold rhetoric but few details
   outlet: STAT News
   date: '2026-01-29'
   tier: 2

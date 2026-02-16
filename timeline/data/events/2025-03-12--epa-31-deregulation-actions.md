@@ -6,8 +6,8 @@ title: EPA Administrator Lee Zeldin Announces Historic Rollback of 31 Pollution 
 location: Washington, DC
 actors:
 - Lee Zeldin
-- EPA
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
+- U.S. Environmental Protection Agency
 - Donald Trump
 - Nancy Beck
 - Lynn Dekleva

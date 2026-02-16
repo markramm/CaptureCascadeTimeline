@@ -10,7 +10,7 @@ actors:
 - U.S. Air Force
 - Defense Criminal Investigative Service
 - FBI
-- Air Force Office of Special Investigations
+- U.S. Air Force Office of Special Investigations
 tags:
 - defense contractors
 - fraud

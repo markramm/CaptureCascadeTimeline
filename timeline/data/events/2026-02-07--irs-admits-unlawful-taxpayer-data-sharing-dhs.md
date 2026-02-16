@@ -5,9 +5,9 @@ status: confirmed
 title: IRS Admits Unlawfully Sharing Thousands of Taxpayer Records with DHS for Immigration Enforcement
 importance: 8
 actors:
-- IRS
-- DHS
-- ICE
+- Internal Revenue Service
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
 - Scott Bessent
 - Kristi Noem
 tags:

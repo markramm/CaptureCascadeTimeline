@@ -7,10 +7,10 @@ status: confirmed
 location: Washington, DC
 actors:
 - Rita Lavelle
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Aerojet-General Corporation
 - Ronald Reagan
-- Congress
+- U.S. Congress
 tags:
 - epa
 - perjury

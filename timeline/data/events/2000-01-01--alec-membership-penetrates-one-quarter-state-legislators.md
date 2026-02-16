@@ -4,7 +4,7 @@ date: '2000-01-01'
 title: ALEC Membership Reaches 2,000+ State Legislators - Represents One-Quarter to One-Third of All State Legislators Nationwide
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - State Legislators (2,000+ members)
 tags:
 - corporate-capture

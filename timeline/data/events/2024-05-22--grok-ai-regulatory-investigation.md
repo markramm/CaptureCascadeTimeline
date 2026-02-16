@@ -1,15 +1,14 @@
 ---
 id: 2024-05-22--grok-ai-regulatory-investigation
 date: '2024-05-22'
-title: House Oversight Launches Comprehensive Investigation into Grok AI's Safety
-  and Government Deployment
+title: House Oversight Launches Comprehensive Investigation into Grok AI's Safety and Government Deployment
 importance: 8
 actors:
 - Robert Garcia
 - Stephen Lynch
 - Elon Musk
 - xAI
-- House Oversight Committee
+- U.S. House Oversight Committee
 - General Services Administration
 - Public Citizen
 - Color of Change

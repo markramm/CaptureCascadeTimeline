@@ -7,7 +7,7 @@ actors:
 - Sam Brownback
 - Kansas Legislature
 - Arthur Laffer
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Kansas Republican Party
 - Center on Budget and Policy Priorities
 tags:

@@ -5,7 +5,7 @@ importance: 8
 title: SEC pauses Justin Sun investigation after $75M Trump investment
 location: Washington, DC
 actors:
-- SEC
+- Securities and Exchange Commission
 - Justin Sun
 - World Liberty Financial
 tags:
@@ -17,8 +17,7 @@ capture_lanes:
 - Financial Corruption & Kleptocracy
 - Foreign Influence Operations
 sources:
-- title: A crypto mogul who invested millions into Trump coins is getting a reprieve
-    on civil fraud charges
+- title: A crypto mogul who invested millions into Trump coins is getting a reprieve on civil fraud charges
   url: https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html
   outlet: CNN Business
   date: '2025-02-28'
@@ -30,13 +29,11 @@ sources:
   url: https://fortune.com/crypto/2024/11/25/trump-world-liberty-financial-crypto-project-30-million-justin-sun-tron/
   outlet: Fortune
   date: '2024-11-25'
-- title: Meet the man — once sued by the SEC — who won the crypto contest to have
-    dinner with the president
+- title: Meet the man — once sued by the SEC — who won the crypto contest to have dinner with the president
   url: https://www.nbcnews.com/business/business-news/trump-coin-crypto-dinner-who-is-top-holder-justin-sun-rcna207983
   outlet: NBC News
   date: '2025-01-21'
-notes: Sun became World Liberty Financial's largest investor and was named as an adviser;
-  SEC case involved Tron, BitTorrent and Rainberry companies
+notes: Sun became World Liberty Financial's largest investor and was named as an adviser; SEC case involved Tron, BitTorrent and Rainberry companies
 status: confirmed
 ---
 

@@ -6,7 +6,7 @@ importance: 8
 actors:
 - 1789 Capital
 - Scott Bessent
-- Treasury Department
+- U.S. Treasury Department
 - Corporate Sponsors
 sources:
 - title: Trump Allies Sold Sponsorships to What Appeared to Be a Treasury Event. It Wasn't.

@@ -8,7 +8,7 @@ actors:
 - U.S. Congress
 - Federal Reserve
 - Wall Street
-- banking industry
+- Banking industry
 - gold hoarders
 tags:
 - new-deal

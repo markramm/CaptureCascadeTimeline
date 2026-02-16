@@ -1,11 +1,21 @@
 ---
-id: "2025-12-08--state-department-85000-visa-revocations"
-date: "2025-12-08"
-title: "State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate"
-summary: "The State Department announced it has revoked 85,000 visas of all categories since January 2025—more than double the number revoked in 2024—including over 8,000 student visas under the Trump administration's intensified immigration enforcement. Officials cited safety threats including DUIs, assaults, and theft as justifying nearly half the revocations, while remaining cancellations were attributed to visa expirations and allegations of terrorism support. The unprecedented scale of revocations affects tourists, students, workers, and other visa holders, with H-1B visa applicants facing heightened scrutiny and denials for involvement in content moderation or fact-checking. Additionally, immigration from 19 countries under partial or full travel bans was paused, and six Mexican airline executives had visas revoked for alleged collaboration with migrant smuggling networks."
+id: 2025-12-08--state-department-85000-visa-revocations
+date: '2025-12-08'
+title: State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate
+summary: The State Department announced it has revoked 85,000 visas of all categories since January 2025—more than double the number revoked in 2024—including over 8,000 student visas under the Trump administration's intensified immigration enforcement. Officials cited safety threats including DUIs, assaults, and theft as justifying nearly half the revocations, while remaining cancellations were attributed to visa expirations and allegations of terrorism support. The unprecedented scale of revocations affects tourists, students, workers, and other visa holders, with H-1B visa applicants facing heightened scrutiny and denials for involvement in content moderation or fact-checking. Additionally, immigration from 19 countries under partial or full travel bans was paused, and six Mexican airline executives had visas revoked for alleged collaboration with migrant smuggling networks.
 importance: 9
-tags: ["immigration", "visas", "state-department", "students", "travel", "h1b", "enforcement", "international-relations"]
-actors: ["State Department", "Department of Homeland Security"]
+tags:
+- immigration
+- visas
+- state-department
+- students
+- travel
+- h1b
+- enforcement
+- international-relations
+actors:
+- State Department
+- U.S. Department of Homeland Security
 sources:
 - title: Trump administration has revoked 85000 visas since January
   outlet: CNN

@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - military-industrial complex
 - defense contractors

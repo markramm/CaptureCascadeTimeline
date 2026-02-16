@@ -13,8 +13,8 @@ tags:
 actors:
 - State Department
 - Antony Blinken
-- RT
-- Treasury Department
+- RT (Russia Today)
+- U.S. Treasury Department
 - Russian Intelligence Services
 sources:
 - title: Alerting the World to RT's Global Covert Activities

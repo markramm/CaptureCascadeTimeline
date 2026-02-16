@@ -5,9 +5,9 @@ importance: 9
 title: CDC Panel Ends Universal Hepatitis B Vaccination for Newborns After RFK Jr. Reconstitutes Committee
 location: United States
 actors:
-- CDC
+- Centers for Disease Control and Prevention
 - Robert F. Kennedy Jr.
-- Advisory Committee on Immunization Practices (ACIP)
+- Advisory Committee on Immunization Practices
 - American Academy of Pediatrics
 - Jim O'Neill
 - Dr. Susan Kressly

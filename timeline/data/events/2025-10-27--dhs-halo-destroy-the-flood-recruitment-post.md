@@ -13,10 +13,10 @@ tags:
 - video-games
 - 4chan-culture
 actors:
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Kaelan Dorr
 - Marcus Lehto
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - White House
 sources:
 - title: Federal judge says Border Patrol Chief Gregory Bovino admitted he lied

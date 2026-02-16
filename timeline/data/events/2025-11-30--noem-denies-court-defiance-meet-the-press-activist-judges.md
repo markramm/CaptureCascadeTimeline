@@ -8,7 +8,7 @@ importance: 10
 location: Washington, D.C.
 actors:
 - Kristi Noem
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - U.S. District Judge James Boasberg
 - Kristen Welker
 - NBC News

@@ -5,10 +5,10 @@ importance: 6
 title: FAA approves 4,000 Starlink terminals, considers canceling $2.4B Verizon contract
 location: Washington, DC
 actors:
-- FAA
+- Federal Aviation Administration
 - Elon Musk
 - SpaceX/Starlink
-- DOGE
+- Department of Government Efficiency
 - Verizon
 tags:
 - conflict-of-interest
@@ -34,8 +34,7 @@ sources:
   url: https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies
   outlet: Congresswoman Mikie Sherrill
   date: '2025-02-01'
-notes: FAA officials avoiding paper trail by delivering orders verbally - "someone
-  does not want a paper trail"
+notes: FAA officials avoiding paper trail by delivering orders verbally - "someone does not want a paper trail"
 status: confirmed
 ---
 

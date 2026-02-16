@@ -4,7 +4,7 @@ date: '1996-01-01'
 title: ALEC Adopts Business Plan to "Function More Like a Business" - Formalizes Pay-to-Play Corporate Legislative Model
 importance: 9
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 tags:
 - corporate-capture
 - legislative-capture

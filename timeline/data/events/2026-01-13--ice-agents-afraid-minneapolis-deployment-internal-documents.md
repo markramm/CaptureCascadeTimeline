@@ -4,9 +4,9 @@ date: '2026-01-13'
 title: Internal Documents Reveal ICE Agents Afraid of Minneapolis Deployment After Good Shooting
 importance: 7
 actors:
-- DHS
-- ICE
-- CBP
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 tags:
 - operation-metro-surge
 - minneapolis

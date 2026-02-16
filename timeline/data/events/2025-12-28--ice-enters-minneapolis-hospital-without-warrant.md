@@ -4,7 +4,7 @@ date: '2025-12-28'
 title: ICE Agents Enter Minneapolis Hospital Without Warrant, Handcuff Patient to Bed for 24 Hours
 importance: 8
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Hennepin County Medical Center
 tags:
 - operation-metro-surge

@@ -4,7 +4,7 @@ date: '1944-12-18'
 title: Korematsu v. United States - Supreme Court Upholds Japanese Internment
 importance: 10
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Fred Korematsu
 - Hugo Black
 - Robert Jackson

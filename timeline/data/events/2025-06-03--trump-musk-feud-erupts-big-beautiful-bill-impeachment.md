@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Donald Trump
 - Elon Musk
-- DOGE
+- Department of Government Efficiency
 tags:
 - trump-musk-feud
 - doge
@@ -14,12 +14,12 @@ tags:
 - big-beautiful-bill
 - elon-musk
 sources:
-- title: "Donald Trump-Elon Musk Feud Escalates Over 'Big, Beautiful Bill'"
+- title: Donald Trump-Elon Musk Feud Escalates Over 'Big, Beautiful Bill'
   url: https://deadline.com/2025/06/trump-elon-musk-big-beautiful-bill-1236424453/
   outlet: Deadline
   date: '2025-06-03'
   tier: 1
-- title: "From bromance to breakup: How Elon Musk and Donald Trump blew up"
+- title: 'From bromance to breakup: How Elon Musk and Donald Trump blew up'
   url: https://www.npr.org/2025/06/05/nx-s1-5424686/donald-trump-elon-musk-bromance-breakup
   outlet: NPR
   date: '2025-06-05'

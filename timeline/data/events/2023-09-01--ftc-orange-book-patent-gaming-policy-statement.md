@@ -5,9 +5,9 @@ title: 'FTC Issues Policy Statement on Orange Book Patent Gaming: Pharmaceutical
 importance: 9
 status: confirmed
 actors:
-- FTC
+- Federal Trade Commission
 - Andrew N. Ferguson
-- FDA
+- Food and Drug Administration
 - Amphastar
 - Mylan
 - Covis Pharma

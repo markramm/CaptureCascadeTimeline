@@ -8,7 +8,7 @@ actors:
 - U.S. Congress
 - Federal Reserve
 - William Woodin
-- banking industry
+- Banking industry
 tags:
 - new-deal
 - banking-crisis

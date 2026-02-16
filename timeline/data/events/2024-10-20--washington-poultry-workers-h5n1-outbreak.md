@@ -11,7 +11,7 @@ tags:
 - agricultural-crisis
 actors:
 - Washington State Department of Health
-- CDC
+- Centers for Disease Control and Prevention
 - Benton-Franklin Health District
 - USDA
 sources:

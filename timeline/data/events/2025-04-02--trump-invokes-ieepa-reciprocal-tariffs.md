@@ -11,7 +11,7 @@ tags:
 - institutional-capture
 actors:
 - Donald Trump
-- Supreme Court
+- U.S. Supreme Court
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2025/04/regulating-imports-with-a-reciprocal-tariff-to-rectify-trade-practices-that-contribute-to-large-and-persistent-annual-united-states-goods-trade-deficits/
   title: Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices

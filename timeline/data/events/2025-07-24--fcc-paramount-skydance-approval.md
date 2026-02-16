@@ -5,7 +5,7 @@ date: '2025-07-24'
 importance: 6
 location: Washington DC
 actors:
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 - Skydance Media
 - Paramount Global
 - Commissioner Anna Gomez (dissented)

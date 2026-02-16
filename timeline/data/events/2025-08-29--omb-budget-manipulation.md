@@ -13,7 +13,7 @@ actors:
 - Russell Vought
 - Office of Management and Budget
 - Trump
-- Congress
+- U.S. Congress
 sources:
 - url: https://www.nytimes.com/2025/08/29/us/politics/omb-vought-budget-conditions-trump.html
   title: OMB Inserts Political Conditions Into 100+ Budget Accounts, Blocking Funds

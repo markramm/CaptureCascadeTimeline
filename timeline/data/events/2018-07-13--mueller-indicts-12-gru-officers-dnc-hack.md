@@ -15,7 +15,7 @@ tags:
 - wikileaks
 actors:
 - Robert Mueller
-- GRU
+- Russian Intelligence (GRU)
 - Russian Military Intelligence
 - Democratic National Committee
 - WikiLeaks

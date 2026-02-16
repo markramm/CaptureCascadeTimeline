@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Northrop Grumman
 - U.S. Air Force
-- Department of Defense
+- U.S. Department of Defense
 - Boeing
 - Orbital ATK
 tags:

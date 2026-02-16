@@ -22,8 +22,8 @@ sources:
 actors:
 - Ron Wyden
 - Scott Bessent
-- Treasury Department
-- Senate Finance Committee
+- U.S. Treasury Department
+- U.S. Senate Finance Committee
 - Jeffrey Epstein
 ---
 

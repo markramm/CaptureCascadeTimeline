@@ -5,7 +5,7 @@ importance: 9
 title: Trump Freezes Ukraine Military Aid Demanding Biden Investigation
 actors:
 - Donald Trump
-- Volodymyr Zelensky
+- Volodymyr Zelenskyy
 - Rudy Giuliani
 - William Barr
 - Joe Biden

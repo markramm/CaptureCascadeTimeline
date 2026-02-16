@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2026-02-15 19:24:20
+Generated: 2026-02-15 20:17:49
 
 ## Overview
-- **Total Events**: 4238
+- **Total Events**: 4237
 - **Date Range**: 1142-01-01 to 2026-02-15
-- **Total Sources**: 14523
+- **Total Sources**: 14520
 - **Unique Tags**: 6468
-- **Unique Actors**: 7954
+- **Unique Actors**: 7667
 
 ## Event Status
 - **Unknown**: 247
-- **Confirmed**: 3953
+- **Confirmed**: 3952
 - **Validated**: 24
 - **Disputed**: 3
 - **Verified**: 1
@@ -35,15 +35,15 @@ Generated: 2026-02-15 19:24:20
 
 ## Top Actors
 - Donald Trump: 1108 events
-- Trump Administration: 328 events
-- Department of Justice: 279 events
-- Elon Musk: 166 events
-- U.S. Congress: 131 events
-- Pam Bondi: 98 events
+- Trump Administration: 332 events
+- Department of Justice: 280 events
+- U.S. Congress: 202 events
+- Elon Musk: 167 events
+- U.S. Supreme Court: 136 events
+- Immigration and Customs Enforcement (ICE): 100 events
+- Pam Bondi: 99 events
 - FBI: 92 events
-- ICE: 83 events
-- Supreme Court: 75 events
-- Congress: 71 events
+- Ronald Reagan: 71 events
 
 ## Events by Year
 - 1142: 1 events
@@ -278,7 +278,7 @@ Generated: 2026-02-15 19:24:20
 - 2018: 129 events
 - 2019: 134 events
 - 2020: 130 events
-- 2021: 105 events
+- 2021: 104 events
 - 2022: 92 events
 - 2023: 97 events
 - 2024: 166 events

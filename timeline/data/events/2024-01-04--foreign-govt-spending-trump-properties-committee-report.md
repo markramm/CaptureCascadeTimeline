@@ -2,13 +2,10 @@
 id: 2024-01-04--foreign-govt-spending-trump-properties-committee-report
 date: '2024-01-04'
 importance: 9
-title: 'House Oversight minority report: at least $7.8M from 20 foreign governments
-  to Trump businesses (partial records)'
-notes: 'Show both: (1) the official congressional minority report and executive summary;
-  (2) independent
+title: 'House Oversight minority report: at least $7.8M from 20 foreign governments to Trump businesses (partial records)'
+notes: 'Show both: (1) the official congressional minority report and executive summary; (2) independent
 
-  watchdog tallies (CREW). Note that the committee had incomplete records after production
-  was
+  watchdog tallies (CREW). Note that the committee had incomplete records after production was
 
   curtailed, so figures are minimums, not totals.
 
@@ -17,7 +14,7 @@ status: confirmed
 actors:
 - U.S. House Committee on Oversight (Minority Staff)
 - Donald J. Trump / Trump Organization
-- CREW
+- Citizens for Responsibility and Ethics in Washington
 tags:
 - emoluments
 - foreign-influence
@@ -47,8 +44,7 @@ sources:
   verified: true
 - date: '2024-09-17'
   outlet: CREW
-  title: Trump likely benefited from $13.6M in foreign government payments (expanded
-    tally)
+  title: Trump likely benefited from $13.6M in foreign government payments (expanded tally)
   url: https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/
   archive_url: ''
   key_facts_confirmed:

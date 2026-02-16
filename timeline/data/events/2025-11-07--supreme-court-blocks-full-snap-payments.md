@@ -11,10 +11,10 @@ tags:
 - poverty
 - political-weaponization
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Ketanji Brown Jackson
 - John McConnell Jr.
-- Department of Agriculture
+- U.S. Department of Agriculture
 - Trump Administration
 sources:
 - title: Supreme Court temporarily blocks full SNAP benefits even as they'd started to go out

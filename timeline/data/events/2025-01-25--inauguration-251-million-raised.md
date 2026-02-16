@@ -8,7 +8,7 @@ actors:
 - Trump Inaugural Committee
 - Pilgrim's Pride Corp. ($5 million)
 - Ripple Labs ($4.9 million)
-- Warren Stephens ($4 million, appointed UK Ambassador)
+- Warren Stephens
 - Corporate donors (104 at $1M+)
 tags:
 - campaign-finance
@@ -29,14 +29,11 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration
   outlet: Brennan Center for Justice
   date: '2025-01-25'
-- title: Major corporate interests and megadonors gave $239 million to fund Trump's
-    inauguration
+- title: Major corporate interests and megadonors gave $239 million to fund Trump's inauguration
   url: https://www.nbcnews.com/politics/trump-administration/major-corporate-interests-megadonors-gave-239-million-fund-trumps-inau-rcna202074
   outlet: NBC News
   date: '2025-04-16'
-notes: Clear donor-to-appointee pipeline. Donors received VIP tickets and access.
-  Most corporate donors only gave after Trump won, not during campaign, suggesting
-  transactional nature.
+notes: Clear donor-to-appointee pipeline. Donors received VIP tickets and access. Most corporate donors only gave after Trump won, not during campaign, suggesting transactional nature.
 status: confirmed
 ---
 

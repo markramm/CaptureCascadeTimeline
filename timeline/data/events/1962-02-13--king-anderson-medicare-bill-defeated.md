@@ -13,7 +13,7 @@ actors:
 - American Medical Association
 - Ronald Reagan
 - Ways and Means Committee
-- Senate Finance Committee
+- U.S. Senate Finance Committee
 tags:
 - medicare
 - healthcare
@@ -26,17 +26,17 @@ capture_lanes:
 - Healthcare Capture
 - Legislative Capture
 sources:
-- title: 'Social Security Amendments of 1965 - Wikipedia'
+- title: Social Security Amendments of 1965 - Wikipedia
   url: https://en.wikipedia.org/wiki/Social_Security_Amendments_of_1965
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Prescription for success'
+- title: Prescription for success
   url: https://millercenter.org/issues-policy/us-domestic-policy/prescription-for-success
   outlet: Miller Center
   date: '2024-01-01'
   verified: true
-- title: 'Medicare Signed into Law'
+- title: Medicare Signed into Law
   url: https://www.senate.gov/artandhistory/history/minute/Medicare_Signed_Into_Law.htm
   outlet: U.S. Senate
   date: '2024-01-01'

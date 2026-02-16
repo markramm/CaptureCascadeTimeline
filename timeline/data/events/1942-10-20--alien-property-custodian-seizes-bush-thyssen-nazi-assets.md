@@ -9,7 +9,7 @@ actors:
 - Union Banking Corporation
 - Fritz Thyssen
 - Brown Brothers Harriman
-- Treasury Department
+- U.S. Treasury Department
 tags:
 - nazi-collaboration
 - elite-impunity

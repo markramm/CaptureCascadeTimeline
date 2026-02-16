@@ -4,7 +4,7 @@ date: '2022-06-30'
 importance: 9
 title: Supreme Court Establishes Major Questions Doctrine in West Virginia v. EPA, Limiting Regulatory Power
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Chief Justice John Roberts
 - Justice Clarence Thomas
 - Justice Samuel Alito

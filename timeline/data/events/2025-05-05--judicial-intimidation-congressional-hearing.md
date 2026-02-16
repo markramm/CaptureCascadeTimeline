@@ -12,7 +12,7 @@ actors:
 - Sheldon Whitehouse
 - Stephen Vladeck
 - Federal Judiciary
-- Congress
+- U.S. Congress
 - Department of Justice
 sources:
 - outlet: NPR
@@ -24,13 +24,11 @@ sources:
   url: https://fixthecourt.com/2025/04/an-attack-on-all-of-us-judges-condemn-threats-to-judicial-independence/
   date: 2025-04
 - outlet: Senate Judiciary Committee Press Release
-  title: Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S.
-    Marshals Service On Escalating Threats Against Judges
+  title: Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S. Marshals Service On Escalating Threats Against Judges
   url: https://www.judiciary.senate.gov/press/dem/releases/whitehouse-leads-senate-judiciary-committee-democrats-in-new-letter-to-us-marshals-service-on-escalating-marshals-service-on-escalating-threats-against-judges
   date: '2025-04-11'
 - outlet: Senate Judiciary Democrats
-  title: Durbin Demands DOJ, FBI Investigation Into Spiking Threats Against Federal
-    Judges
+  title: Durbin Demands DOJ, FBI Investigation Into Spiking Threats Against Federal Judges
   url: https://www.judiciary.senate.gov/press/dem/releases/durbin-demands-doj-fbi-investigation-into-spiking-threats-against-federal-judges
   date: 2025-05
 tags:

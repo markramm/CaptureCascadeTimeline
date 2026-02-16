@@ -10,8 +10,8 @@ tags:
 - disease-surveillance
 - institutional-capture
 actors:
-- CDC
-- HHS
+- Centers for Disease Control and Prevention
+- U.S. Department of Health and Human Services
 - Robert F. Kennedy Jr.
 sources:
 - title: CDC ends emergency response to H5N1 bird flu

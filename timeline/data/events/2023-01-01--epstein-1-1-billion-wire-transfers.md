@@ -2,13 +2,12 @@
 id: 2023-01-01--epstein-1-1-billion-wire-transfers
 date: '2023-01-01'
 importance: 8
-title: Treasury records reveal $1.1 billion in Epstein wire transfers through Russian
-  banks
+title: Treasury records reveal $1.1 billion in Epstein wire transfers through Russian banks
 location: United States
 actors:
 - Jeffrey Epstein
 - Senator Ron Wyden
-- Treasury Department
+- U.S. Treasury Department
 - Russian banks
 tags:
 - money-laundering
@@ -19,13 +18,11 @@ capture_lanes:
 - Epstein Network & Kompromat
 - Financial Corruption & Kleptocracy
 sources:
-- title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation
-    for DOJ
+- title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation for DOJ
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj
   outlet: Senate Finance Committee
   date: '2025-07-23'
-- title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed
-    Epstein File
+- title: As Trump Downplays Epstein, Wyden Unveils Details of Treasury's Undisclosed Epstein File
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-downplays-epstein-wyden-unveils-details-of-treasurys-undisclosed-epstein-file
   outlet: Senate Finance Committee
   date: '2025-07-17'

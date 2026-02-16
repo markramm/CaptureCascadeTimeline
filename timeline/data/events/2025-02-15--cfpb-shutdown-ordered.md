@@ -6,7 +6,7 @@ title: CFPB ordered to close offices and cease all work
 location: Washington, DC
 actors:
 - Russell Vought
-- CFPB
+- Consumer Financial Protection Bureau
 - Trump Administration
 tags:
 - cfpb
@@ -22,13 +22,11 @@ sources:
   url: https://www.npr.org/2025/02/08/nx-s1-5290914/russell-vought-cfpb-doge-access-musk
   outlet: NPR
   date: '2025-02-08'
-- title: Vought orders CFPB to stop investigations and suspend new rules from taking
-    effect
+- title: Vought orders CFPB to stop investigations and suspend new rules from taking effect
   url: https://www.pbs.org/newshour/politics/vought-orders-cfpb-to-stop-investigations-and-suspend-new-rules-from-taking-effect
   outlet: PBS NewsHour
   date: '2025-02-08'
-- title: Consumer watchdog ordered to stop fighting financial abuse and to work from
-    home as HQ temporarily shuts down
+- title: Consumer watchdog ordered to stop fighting financial abuse and to work from home as HQ temporarily shuts down
   url: https://www.cnn.com/2025/02/09/business/cfpb-vought-stop-activity/index.html
   outlet: CNN
   date: '2025-02-09'

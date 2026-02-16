@@ -4,7 +4,7 @@ date: '2025-03-22'
 title: Supreme Court Continues to Sidestep Definitive Ruling on Presidential Emoluments
 importance: 6
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Trump Administration
 - Ethics Watchdogs
 sources:

@@ -9,7 +9,7 @@ tags:
 - authoritarianism
 - abuse-of-power
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Trump Administration
 sources:
 - url: https://popular.info/p/ice-weapons-spending-militarization

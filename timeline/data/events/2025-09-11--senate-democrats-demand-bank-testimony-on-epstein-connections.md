@@ -19,7 +19,7 @@ actors:
 - Jamie Dimon
 - JPMorgan
 - Deutsche Bank
-- Senate Banking Committee
+- U.S. Senate Banking Committee
 - Jeffrey Epstein
 ---
 

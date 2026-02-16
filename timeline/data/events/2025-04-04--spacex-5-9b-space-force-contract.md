@@ -2,8 +2,7 @@
 id: 2025-04-04--spacex-5-9b-space-force-contract
 date: '2025-04-04'
 importance: 6
-title: SpaceX wins $5.9 billion Space Force contract amid congressional conflict-of-interest
-  investigation
+title: SpaceX wins $5.9 billion Space Force contract amid congressional conflict-of-interest investigation
 location: Washington, DC
 actors:
 - SpaceX
@@ -11,7 +10,7 @@ actors:
 - Elon Musk
 - Rep. Stephen Lynch
 - Rep. Gerry Connolly
-- Department of Defense
+- U.S. Department of Defense
 tags:
 - spacex
 - government-contracts
@@ -26,13 +25,11 @@ sources:
   url: https://www.cnbc.com/2025/04/04/spacex-ula-blue-origin-clinch-13point5-billion-dollar-pentagon-launch-contracts.html
   outlet: CNBC
   date: '2025-04-04'
-- title: Space Force awards $13.7 billion in contracts to SpaceX and two others for
-    national security missions
+- title: Space Force awards $13.7 billion in contracts to SpaceX and two others for national security missions
   url: https://www.techspot.com/news/107434-space-force-awards-137-billion-contracts-spacex-two.html
   outlet: TechSpot
   date: '2025-04-04'
-- title: Reps. Lynch and Connolly Lead Oversight Investigation into Elon Musk's Conflicts
-    of Interest at DoD, Citing Whopping $9.5 Billion in Defense Contracts
+- title: Reps. Lynch and Connolly Lead Oversight Investigation into Elon Musk's Conflicts of Interest at DoD, Citing Whopping $9.5 Billion in Defense Contracts
   url: https://lynch.house.gov/2025/4/reps-lynch-and-connolly-lead-oversight-investigation-into-elon-musk-s-conflicts-of-interest-at-dod-citing-whopping-9-5-billion-in-defense-contracts
   outlet: Rep. Stephen Lynch
   date: '2025-04-04'
@@ -40,8 +37,7 @@ sources:
   url: https://finance.yahoo.com/news/exclusive-spacex-ula-expected-clinch-194317461.html
   outlet: Yahoo Finance
   date: '2025-04-04'
-notes: SpaceX received largest share of three-company contract; congressional investigation
-  highlights $9.5B total DoD contracts while Musk serves as government advisor
+notes: SpaceX received largest share of three-company contract; congressional investigation highlights $9.5B total DoD contracts while Musk serves as government advisor
 status: confirmed
 ---
 

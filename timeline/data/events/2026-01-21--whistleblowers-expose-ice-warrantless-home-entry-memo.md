@@ -5,9 +5,9 @@ status: confirmed
 title: Whistleblowers Expose ICE Policy Authorizing Warrantless Home Entries
 importance: 9
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Todd Lyons
-- DHS
+- DHS (Department of Homeland Security)
 - Richard Blumenthal
 tags:
 - civil-rights

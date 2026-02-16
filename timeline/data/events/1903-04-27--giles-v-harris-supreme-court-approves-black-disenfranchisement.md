@@ -4,7 +4,7 @@ date: '1903-04-27'
 title: 'Giles v. Harris: Supreme Court Refuses to Enforce Black Voting Rights Against Alabama Constitution'
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Oliver Wendell Holmes Jr.
 - Jackson Giles
 - Alabama Legislature
@@ -20,11 +20,11 @@ sources:
   url: https://supreme.justia.com/cases/federal/us/189/475/
   outlet: Justia
   tier: 1
-- title: 'Giles v. Harris and the Foundation of Modern Voter Suppression'
+- title: Giles v. Harris and the Foundation of Modern Voter Suppression
   url: https://www.brennancenter.org/our-work/analysis-opinion/giles-v-harris-foundation-modern-voter-suppression
   outlet: Brennan Center for Justice
   tier: 2
-- title: 'The Strange Career of the Voting Rights Act'
+- title: The Strange Career of the Voting Rights Act
   url: https://www.jstor.org/stable/4135627
   outlet: Law and History Review
   tier: 2

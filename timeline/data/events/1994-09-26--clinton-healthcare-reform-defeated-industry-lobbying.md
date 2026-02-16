@@ -5,7 +5,7 @@ importance: 9
 actors:
 - Bill Clinton
 - Hillary Clinton
-- Health Insurance Industry
+- Health insurance industry
 - Health Insurance Association of America
 - Pharmaceutical Industry
 tags:

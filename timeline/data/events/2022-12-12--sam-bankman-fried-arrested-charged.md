@@ -8,7 +8,7 @@ actors:
 - Sam Bankman-Fried
 - FTX
 - U.S. Department of Justice
-- SEC
+- Securities and Exchange Commission
 - CFTC
 - Bahamas Police
 tags:

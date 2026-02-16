@@ -5,7 +5,7 @@ status: confirmed
 title: Ten Tech Vendors Offer $600 Million in Discounts to Implement Medicaid Work Requirements
 importance: 7
 actors:
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Donald Trump
 - Centers for Medicare & Medicaid Services
 tags:

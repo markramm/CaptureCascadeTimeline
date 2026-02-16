@@ -5,7 +5,7 @@ importance: 8
 title: US Virgin Islands Loses $3.3 Million in Federal Health Funding Amid National Public Health Cuts
 location: US Virgin Islands
 actors:
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - US Virgin Islands Department of Health
 - Justa Encarnacion
 tags:

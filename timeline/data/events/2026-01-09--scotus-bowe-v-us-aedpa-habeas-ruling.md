@@ -5,7 +5,7 @@ status: confirmed
 title: Supreme Court Narrows AEDPA Bar on Federal Habeas Claims
 importance: 6
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Sonia Sotomayor
 - Neil Gorsuch
 - John Roberts

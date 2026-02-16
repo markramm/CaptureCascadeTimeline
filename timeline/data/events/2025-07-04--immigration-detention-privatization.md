@@ -2,12 +2,11 @@
 id: 2025-07-04--immigration-detention-privatization
 date: '2025-07-04'
 importance: 6
-title: Budget Bill Allocates $45 Billion for Private Immigration Detention Centers,
-  308% Increase
+title: Budget Bill Allocates $45 Billion for Private Immigration Detention Centers, 308% Increase
 location: National
 actors:
 - Donald Trump
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - ICE (Immigration and Customs Enforcement)
 - Private prison contractors
 tags:
@@ -33,9 +32,7 @@ sources:
   url: https://www.brennancenter.org/analysis/reconciliation-immigration-privatization
   outlet: Brennan Center for Justice
   date: '2025-07-06'
-notes: Funding structured to flow primarily through private contractors rather than
-  expanding federal capacity, ensuring public funds generate private profits while
-  reducing public control over detention operations.
+notes: Funding structured to flow primarily through private contractors rather than expanding federal capacity, ensuring public funds generate private profits while reducing public control over detention operations.
 ---
 
 One Big Beautiful Bill provides $45 billion for building new immigration detention centers, with overwhelming majority going to private companies contracted to build and run facilities. Represents 308% increase over ICE's FY2024 detention budget, creating capacity for 125,000 beds operated by private contractors rather than federal employees. Part of $170 billion immigration enforcement funding channeled through reconciliation to avoid congressional oversight.

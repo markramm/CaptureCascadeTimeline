@@ -8,7 +8,7 @@ actors:
 - U.S. Department of Education
 - Barack Obama
 - Arne Duncan
-- Association of Private Sector Colleges and Universities (APSCU)
+- Association of Private Sector Colleges and Universities
 - For-Profit College Industry
 tags:
 - for-profit-education
@@ -24,17 +24,17 @@ capture_lanes:
 - Industry Regulatory Capture
 - Federal Student Aid Accountability
 sources:
-- title: "The Tortured Path of the Gainful Employment Rule"
+- title: The Tortured Path of the Gainful Employment Rule
   url: https://www.americanprogress.org/article/the-tortured-path-of-the-gainful-employment-rule/
   outlet: Center for American Progress
   date: '2019-07-09'
   tier: 2
-- title: "Final Gainful Employment Rule Offers Students Necessary Protections"
+- title: Final Gainful Employment Rule Offers Students Necessary Protections
   url: https://www.newamerica.org/education-policy/edcentral/final-gainful-employment-rule/
   outlet: New America
   date: '2014-10-30'
   tier: 2
-- title: "Gainful Employment Take One: Motivation, History, and the Reality of the New Rules"
+- title: 'Gainful Employment Take One: Motivation, History, and the Reality of the New Rules'
   url: https://www.richmondfed.org/region_communities/regional_data_analysis/surveys/community_college/community_college_insights/2024/gainful_employment_20240322
   outlet: Federal Reserve Bank of Richmond
   date: '2024-03-22'

@@ -6,7 +6,7 @@ importance: 7
 actors:
 - Kat Abughazaleh
 - Department of Justice
-- Immigration and Customs Enforcement
+- U.S. Immigration and Customs Enforcement
 - Catherine Sharp
 - Michael Rabbitt
 - Trump Administration

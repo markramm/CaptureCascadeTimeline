@@ -10,7 +10,7 @@ actors:
 - Rodolfo Ploder
 - Equifax
 - U.S. Department of Justice
-- SEC
+- Securities and Exchange Commission
 tags:
 - corruption
 - regulatory-capture

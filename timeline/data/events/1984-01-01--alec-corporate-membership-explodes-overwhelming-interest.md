@@ -4,14 +4,14 @@ date: '1984-01-01'
 title: ALEC Corporate Membership Explodes as Major Corporations Overwhelm Organization with Requests for Legislative Access
 importance: 8
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Kathleen Teague
 - Edison Electric Institute
 - Procter & Gamble
 - Eli Lilly
 - Hoffmann-LaRoche
 - Adolph Coors Company
-- ARCO
+- Atlantic Richfield Company (ARCO)
 - Donald Rumsfeld
 - Mary Kay Cosmetics
 tags:

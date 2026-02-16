@@ -6,7 +6,7 @@ title: DOGE Claims $881M in Education Research Contract Cancellations
 importance: 8
 actors:
 - Department of Government Efficiency
-- Department of Education
+- U.S. Department of Education
 - Institute of Education Sciences
 - Linda McMahon
 tags:

@@ -14,7 +14,7 @@ actors:
 - Ballard Partners
 - Pam Bondi
 - Susie Wiles
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - BI² Technologies
 - SNA International
 sources:

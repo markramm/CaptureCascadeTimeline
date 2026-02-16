@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Donald Trump
 - Marco Rubio
-- Treasury Department
+- U.S. Treasury Department
 tags:
 - iran
 - sanctions

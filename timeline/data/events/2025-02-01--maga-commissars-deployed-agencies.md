@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - White House Personnel Office
 - Federal Agencies
-- Office of Personnel Management (OPM)
+- Office of Personnel Management
 tags:
 - political-control
 - federal-workforce
@@ -31,13 +31,11 @@ sources:
   url: https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/
   outlet: Government Executive
   date: '2025-01-25'
-- title: 'Loyalty Tests and MAGA Checks: Inside the Trump White House''s Intense Screening
-    of Job-Seekers'
+- title: 'Loyalty Tests and MAGA Checks: Inside the Trump White House''s Intense Screening of Job-Seekers'
   url: https://www.usnews.com/news/politics/articles/2025-01-25/loyalty-tests-and-maga-checks-inside-the-trump-white-houses-intense-screening-of-job-seekers
   outlet: U.S. News & World Report
   date: '2025-01-25'
-notes: Pattern mirrors political commissar systems in authoritarian regimes. Increased
-  focus on political loyalty over professional competence in federal agencies.
+notes: Pattern mirrors political commissar systems in authoritarian regimes. Increased focus on political loyalty over professional competence in federal agencies.
 status: confirmed
 ---
 

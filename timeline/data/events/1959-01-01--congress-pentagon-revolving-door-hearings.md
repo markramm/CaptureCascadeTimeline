@@ -6,8 +6,8 @@ importance: 7
 actors:
 - U.S. Congress
 - General Omar Bradley
-- Department of Defense
-- Defense Contractors
+- U.S. Department of Defense
+- Defense contractors
 tags:
 - revolving-door
 - military-industrial-complex

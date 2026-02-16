@@ -6,7 +6,7 @@ importance: 5
 location: Los Angeles, California
 actors:
 - David Huerta
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - SEIU
 - Federal Law Enforcement
 tags:
@@ -16,16 +16,12 @@ tags:
 - union-leader
 - felony-charges
 citations:
-- 'CBS News — California union leader charged with felony conspiracy after being arrested
-  during protest (Jun 2025): https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/'
+- 'CBS News — California union leader charged with felony conspiracy after being arrested during protest (Jun 2025): https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/'
 - 'LAist — SEIU president charged (Jun 2025): https://laist.com/brief/news/la-immigration-raids-protests-huerta-charged'
-- 'ABC News — Who is David Huerta, the union leader arrested while protesting in Los
-  Angeles? (Jun 10, 2025): https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679'
-notes: Part of broader crackdown on labor organizing and protest activity during immigration
-  enforcement operations.
+- 'ABC News — Who is David Huerta, the union leader arrested while protesting in Los Angeles? (Jun 10, 2025): https://abcnews.go.com/Business/david-huerta-union-leader-arrested-protesting-los-angeles/story?id=122687679'
+notes: Part of broader crackdown on labor organizing and protest activity during immigration enforcement operations.
 sources:
-- title: California union leader charged with felony conspiracy after being arrested
-    during protest
+- title: California union leader charged with felony conspiracy after being arrested during protest
   url: https://www.cbsnews.com/news/david-huerta-seiu-charged-los-angeles-ice-protest-trump/
   outlet: CBS News
   date: '2025-06-06'

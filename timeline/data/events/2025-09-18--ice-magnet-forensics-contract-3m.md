@@ -4,7 +4,7 @@ date: '2025-09-18'
 title: ICE Homeland Security Investigations Signs $3 Million Contract with Magnet Forensics for GrayKey Technology
 importance: 7
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Homeland Security Investigations
 - Magnet Forensics
 - Grayshift

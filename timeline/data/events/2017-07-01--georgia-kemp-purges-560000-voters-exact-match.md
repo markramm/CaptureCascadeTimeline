@@ -12,7 +12,7 @@ tags:
 - racial-discrimination
 actors:
 - Brian Kemp
-- Georgia Secretary of State
+- Brad Raffensperger
 sources:
 - url: https://www.apmreports.org/story/2019/10/29/georgia-voting-registration-records-removed
   title: How a massive voter purge in Georgia affected the 2018 election

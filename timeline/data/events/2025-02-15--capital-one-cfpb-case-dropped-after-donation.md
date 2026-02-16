@@ -13,7 +13,7 @@ tags:
 actors:
 - Capital One
 - Donald Trump
-- CFPB
+- Consumer Financial Protection Bureau
 sources:
 - title: 100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest
   url: https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest

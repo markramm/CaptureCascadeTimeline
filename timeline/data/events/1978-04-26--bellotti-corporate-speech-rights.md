@@ -8,8 +8,8 @@ actors:
 - Lewis F. Powell Jr.
 - Supreme Court of the United States
 - First National Bank of Boston
-- Francis X. Bellotti (Massachusetts Attorney General)
-- Corporate Interests
+- Francis X. Bellotti
+- Corporate interests
 tags:
 - corporate-speech-rights
 - first-amendment
@@ -40,14 +40,7 @@ sources:
   outlet: Oyez
   date: '2024-01-01'
   verified: true
-notes: Powell's majority opinion stated "The proper question therefore is not whether
-  corporations 'have' First Amendment rights... Instead, the question must be whether
-  [the law] abridges expression that the First Amendment was meant to protect." Decision
-  directly implements Powell's 1971 memo recommendation to use judiciary as "most
-  important instrument for social, economic and political change." Laid groundwork
-  for Citizens United v. FEC (2010) which quoted Bellotti extensively. Only Justices
-  White, Brennan, Marshall dissented with Rehnquist. Case involved Massachusetts referendum
-  on graduated income tax that corporations wanted to oppose.
+notes: Powell's majority opinion stated "The proper question therefore is not whether corporations 'have' First Amendment rights... Instead, the question must be whether [the law] abridges expression that the First Amendment was meant to protect." Decision directly implements Powell's 1971 memo recommendation to use judiciary as "most important instrument for social, economic and political change." Laid groundwork for Citizens United v. FEC (2010) which quoted Bellotti extensively. Only Justices White, Brennan, Marshall dissented with Rehnquist. Case involved Massachusetts referendum on graduated income tax that corporations wanted to oppose.
 status: confirmed
 capture_lanes:
 - Judicial Capture

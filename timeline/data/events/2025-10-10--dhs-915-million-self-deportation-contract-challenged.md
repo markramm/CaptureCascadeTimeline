@@ -4,7 +4,7 @@ date: '2025-10-10'
 title: DHS Awards Secretive $915 Million 'Self-Deportation' Contract to Connected Firm
 importance: 8
 actors:
-- DHS
+- DHS (Department of Homeland Security)
 - Salus Worldwide Solutions
 - Project on Government Oversight
 sources:

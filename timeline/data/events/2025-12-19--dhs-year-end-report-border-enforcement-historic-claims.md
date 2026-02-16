@@ -8,7 +8,7 @@ actors:
 - Department of Homeland Security (DHS)
 - Kristi Noem
 - Donald Trump
-- U.S. Customs and Border Protection (CBP)
+- U.S. Customs and Border Protection
 - Immigration and Customs Enforcement (ICE)
 - U.S. Coast Guard
 - U.S. Border Patrol

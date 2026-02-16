@@ -3,7 +3,7 @@ actors:
 - Donald Trump
 - Trump Administration
 - Justin Sun
-- SEC
+- Securities and Exchange Commission
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
@@ -11,8 +11,7 @@ capture_lanes:
 capture_type: regulatory_capture
 connections: []
 date: '2025-02-27'
-description: The SEC moved to drop a civil fraud case against Justin Sun, a key adviser
-  to Trump's World Liberty Financial, who spent at least $75 million on its coin
+description: The SEC moved to drop a civil fraud case against Justin Sun, a key adviser to Trump's World Liberty Financial, who spent at least $75 million on its coin
 id: 2025-02-27--sec-justin-sun-fraud-case-paused
 importance: 8
 location: Washington, D.C.
@@ -27,8 +26,7 @@ sources:
   url: https://www.reuters.com/legal/us-sec-tron-founder-justin-sun-explore-resolution-civil-fraud-case-2025-02-26/
 - date: '2025-02-28'
   outlet: CNN Business
-  title: A crypto mogul who invested millions into Trump coins is getting a reprieve
-    on civil fraud charges
+  title: A crypto mogul who invested millions into Trump coins is getting a reprieve on civil fraud charges
   url: https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html
 - date: '2025-02-26'
   outlet: CNBC

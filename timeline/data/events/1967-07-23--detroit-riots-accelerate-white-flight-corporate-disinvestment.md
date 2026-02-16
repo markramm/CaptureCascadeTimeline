@@ -6,11 +6,11 @@ importance: 8
 actors:
 - Detroit Police Department
 - Michigan National Guard
-- Insurance industry
+- Insurance Industry
 - Corporate interests
 - Detroit residents
 sources:
-- title: '1967 Detroit riot'
+- title: 1967 Detroit riot
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/1967_Detroit_riot
   year: 2024
@@ -18,11 +18,11 @@ sources:
   outlet: History.com
   url: https://www.history.com/articles/1967-summer-riots-detroit-newark-kerner-commission
   year: 2024
-- title: 'Detroit Riot of 1967'
+- title: Detroit Riot of 1967
   outlet: Britannica
   url: https://www.britannica.com/event/Detroit-Riot-of-1967
   year: 2024
-- title: 'White flight did not begin in 1967'
+- title: White flight did not begin in 1967
   outlet: Metro Times
   url: https://www.metrotimes.com/news/white-flight-did-not-begin-in-1967-4618876/
   year: 2017

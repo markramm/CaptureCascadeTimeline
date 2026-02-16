@@ -5,9 +5,9 @@ importance: 7
 title: Scott Bloch Dismisses 1,000+ Whistleblower Cases at OSC
 actors:
 - Scott Bloch
-- OSC
+- Office of Special Counsel
 - Whistleblower Groups
-- Congress
+- U.S. Congress
 - FBI
 tags:
 - whistleblower-suppression

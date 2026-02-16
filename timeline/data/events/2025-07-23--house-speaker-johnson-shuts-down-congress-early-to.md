@@ -7,7 +7,7 @@ actors:
 - Mike Johnson
 - Thomas Massie
 - Ro Khanna
-- House of Representatives
+- U.S. House of Representatives
 tags:
 - obstruction-of-justice
 - epstein

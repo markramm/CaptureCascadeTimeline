@@ -4,7 +4,7 @@ date: '2025-05-05'
 title: Supreme Court Attempts to Mitigate Constitutional Emergency Powers Dispute
 importance: 10
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Executive Branch
 - Legislative Branch
 sources:

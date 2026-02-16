@@ -8,7 +8,7 @@ location: Washington, D.C.
 actors:
 - Scott Pruitt
 - Donald Trump
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Andrew Wheeler
 tags:
 - corruption

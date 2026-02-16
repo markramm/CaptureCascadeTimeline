@@ -4,7 +4,7 @@ date: '2026-01-10'
 title: ICE Detains Five Native Americans in Minneapolis Based on Appearance, Tribal Leaders Condemn Racial Profiling
 importance: 8
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Oglala Sioux Tribe
 - Red Lake Nation
 - Frank Star Comes Out

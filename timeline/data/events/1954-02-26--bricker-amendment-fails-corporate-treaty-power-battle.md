@@ -5,39 +5,39 @@ title: Bricker Amendment Fails by One Vote, Conservative Attempt to Limit Treaty
 importance: 6
 location: Washington, D.C.
 actors:
-  - John Bricker
-  - Dwight D. Eisenhower
-  - American Bar Association
-  - U.S. Senate
-  - American Medical Association
-  - Chamber of Commerce
+- John Bricker
+- Dwight D. Eisenhower
+- American Bar Association
+- U.S. Senate
+- American Medical Association
+- U.S. Chamber of Commerce
 tags:
-  - isolationism
-  - congressional-action
-  - constitutional-amendment
-  - cold-war
-  - corporate-interests
+- isolationism
+- congressional-action
+- constitutional-amendment
+- cold-war
+- corporate-interests
 capture_lanes:
-  - Policy Capture
+- Policy Capture
 sources:
-  - title: "Bricker Amendment"
-    url: "https://www.britannica.com/topic/Bricker-Amendment"
-    outlet: "Britannica"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "The Bricker Amendment Controversy"
-    url: "https://history.state.gov/milestones/1953-1960/bricker"
-    outlet: "Office of the Historian, U.S. Department of State"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Bricker Amendment and the Treaty Power"
-    url: "https://scholarship.law.columbia.edu/faculty_scholarship/889/"
-    outlet: "Columbia Law School"
-    date: 1953-01-01
-    verified: true
-    tier: 2
+- title: Bricker Amendment
+  url: https://www.britannica.com/topic/Bricker-Amendment
+  outlet: Britannica
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: The Bricker Amendment Controversy
+  url: https://history.state.gov/milestones/1953-1960/bricker
+  outlet: Office of the Historian, U.S. Department of State
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Bricker Amendment and the Treaty Power
+  url: https://scholarship.law.columbia.edu/faculty_scholarship/889/
+  outlet: Columbia Law School
+  date: 1953-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

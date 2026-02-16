@@ -1,10 +1,9 @@
 ---
 date: '2024-05-29'
-title: Treasury Releases First NFT Illicit Finance Risk Assessment Warning of Money
-  Laundering Vulnerabilities
+title: Treasury Releases First NFT Illicit Finance Risk Assessment Warning of Money Laundering Vulnerabilities
 importance: 9
 actors:
-- Treasury Department
+- U.S. Treasury Department
 - FinCEN
 sources:
 - title: Treasury Releases First Ever Non-fungible Token Illicit Finance Risk Assessment

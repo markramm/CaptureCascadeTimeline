@@ -19,8 +19,8 @@ tags:
 actors:
 - Gregory Bovino
 - Karen Bass
-- CBP
-- DHS
+- U.S. Customs and Border Protection
+- DHS (Department of Homeland Security)
 - children
 - summer camp attendees
 sources:

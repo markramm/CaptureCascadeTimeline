@@ -13,7 +13,7 @@ actors:
 - Trump
 - State Department
 - USAID
-- Congress
+- U.S. Congress
 sources:
 - url: https://www.cbsnews.com/news/trump-pocket-rescission-foreign-aid-4-9-billion/
   title: Trump Uses Pocket Rescission to Claw Back $4.9 Billion in Foreign Aid

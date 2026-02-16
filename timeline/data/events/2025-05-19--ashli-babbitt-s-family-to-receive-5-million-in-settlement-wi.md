@@ -1,18 +1,15 @@
 ---
 id: 2025-05-19--ashli-babbitt-s-family-to-receive-5-million-in-settlement-wi
 date: '2025-05-19'
-title: DOJ Settles Ashli Babbitt Lawsuit for $5 Million, Sparking Law Enforcement
-  Controversy
-description: The DOJ agreed to pay January 6 insurrectionist Ashli Babbitt's family
-  $5 million to settle their lawsuit, signaling potential systemic legal manipulation
-  and political influence in law enforcement accountability.
+title: DOJ Settles Ashli Babbitt Lawsuit for $5 Million, Sparking Law Enforcement Controversy
+description: The DOJ agreed to pay January 6 insurrectionist Ashli Babbitt's family $5 million to settle their lawsuit, signaling potential systemic legal manipulation and political influence in law enforcement accountability.
 status: confirmed
 importance: 8
 location: Washington, D.C.
 actors:
 - Donald Trump
 - Trump Administration
-- Capitol Police
+- U.S. Capitol Police
 - Tom Manger
 tags:
 - government-contracts
@@ -27,8 +24,7 @@ sources:
   url: https://www.usnews.com/news/top-news/articles/2025-05-02/us-to-settle-with-family-of-woman-killed-during-capitol-riot-reports-say
 - date: '2025-05-19'
   outlet: ABC News
-  title: 'Ashli Babbitt''s family to receive $5 million in settlement with Trump administration:
-    Sources'
+  title: 'Ashli Babbitt''s family to receive $5 million in settlement with Trump administration: Sources'
   url: https://abcnews.go.com/Politics/trump-administration-pay-5-million-settle-lawsuit-ashli/story?id=121959389
 - date: '2025-05-19'
   outlet: The Washington Post
@@ -40,8 +36,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - legal-manipulation
-notes: Event highlights complex legal and political dynamics surrounding the January
-  6 Capitol riot.
+notes: Event highlights complex legal and political dynamics surrounding the January 6 Capitol riot.
 capture_lanes:
 - Executive Power Expansion
 - Judicial Manipulation

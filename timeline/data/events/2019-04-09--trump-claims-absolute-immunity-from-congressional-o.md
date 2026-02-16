@@ -9,7 +9,7 @@ actors:
 - Don McGahn
 - John Bolton
 - Mike Pompeo
-- Congress
+- U.S. Congress
 tags:
 - obstruction
 - absolute-immunity

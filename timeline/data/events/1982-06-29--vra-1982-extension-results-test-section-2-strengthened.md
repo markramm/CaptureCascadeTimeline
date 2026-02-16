@@ -5,7 +5,7 @@ title: 'Voting Rights Act Extension of 1982: Results Test Adopted, Section 2 Str
 importance: 8
 actors:
 - Ronald Reagan
-- Congress
+- U.S. Congress
 - Bob Dole
 - Edward Kennedy
 - Coretta Scott King
@@ -18,7 +18,7 @@ tags:
 - reagan-administration
 - bipartisan
 sources:
-- title: 'Voting Rights Act Amendments of 1982'
+- title: Voting Rights Act Amendments of 1982
   url: https://www.justice.gov/crt/history-federal-voting-rights-laws
   outlet: U.S. Department of Justice
   tier: 1
@@ -26,7 +26,7 @@ sources:
   url: https://crsreports.congress.gov/product/pdf/R/R43626
   outlet: Congressional Research Service
   tier: 1
-- title: 'Mobile v. Bolden and the Voting Rights Act'
+- title: Mobile v. Bolden and the Voting Rights Act
   url: https://www.oyez.org/cases/1979/77-1844
   outlet: Oyez
   tier: 2

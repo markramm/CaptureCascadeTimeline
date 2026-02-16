@@ -16,7 +16,7 @@ actors:
 - Ben Bernanke
 - Nancy Pelosi
 - 110th Congress
-- Treasury Department
+- U.S. Treasury Department
 - Goldman Sachs
 - Citigroup
 - Bank of America

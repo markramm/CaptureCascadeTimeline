@@ -5,7 +5,7 @@ title: 'Civil Rights Act of 1960: Voting Referees and Criminal Penalties Still P
 importance: 6
 actors:
 - Dwight D. Eisenhower
-- Congress
+- U.S. Congress
 - Lyndon B. Johnson
 - Southern Democrats
 - Department of Justice
@@ -16,15 +16,15 @@ tags:
 - voting-referees
 - obstruction
 sources:
-- title: 'Civil Rights Act of 1960'
+- title: Civil Rights Act of 1960
   url: https://www.archives.gov/legislative/features/civil-rights-1964/toc.html
   outlet: National Archives
   tier: 1
-- title: 'History of Federal Voting Rights Laws'
+- title: History of Federal Voting Rights Laws
   url: https://www.justice.gov/crt/history-federal-voting-rights-laws
   outlet: U.S. Department of Justice
   tier: 1
-- title: 'The Civil Rights Act of 1960'
+- title: The Civil Rights Act of 1960
   url: https://crsreports.congress.gov/product/pdf/R/R42359
   outlet: Congressional Research Service
   tier: 1

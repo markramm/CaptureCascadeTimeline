@@ -5,7 +5,7 @@ status: confirmed
 title: Senate Passes Spending Package with Two-Week DHS Continuing Resolution
 importance: 7
 actors:
-- Senate
+- United States Senate
 - Chuck Schumer
 - John Thune
 - Mike Johnson

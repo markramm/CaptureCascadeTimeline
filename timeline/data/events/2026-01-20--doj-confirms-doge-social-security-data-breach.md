@@ -5,7 +5,7 @@ status: confirmed
 title: DOJ Court Filing Confirms DOGE Shared Social Security Data to Unauthorized Server
 importance: 9
 actors:
-- DOGE
+- Department of Government Efficiency
 - Department of Justice
 - Social Security Administration
 - Elon Musk

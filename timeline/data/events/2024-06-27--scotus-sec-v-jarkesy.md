@@ -7,12 +7,12 @@ location: Washington, DC
 actors:
 - Supreme Court of the United States
 - Securities and Exchange Commission
-- Chief Justice John Roberts (majority opinion)
+- Chief Justice John Roberts
 - Justice Neil Gorsuch (concurring)
-- Justice Clarence Thomas (concurring)
-- Justice Sonia Sotomayor (dissent)
-- Justice Elena Kagan (dissent)
-- Justice Ketanji Brown Jackson (dissent)
+- Justice Clarence Thomas
+- Justice Sonia Sotomayor
+- Justice Elena Kagan
+- Justice Ketanji Brown Jackson
 - George Jarkesy (respondent)
 tags:
 - administrative-law
@@ -30,9 +30,7 @@ citations:
 - SEC v. Jarkesy, No. 22-859 (2024)
 - https://www.supremecourt.gov/opinions/23pdf/22-859_1924.pdf
 - https://www.scotusblog.com/case-files/cases/securities-and-exchange-commission-v-jarkesy
-notes: Case involved $24 million hedge funds and alleged fraud from 2007-2009. ALJ
-  had ordered $300,000 in civil penalties. Decision affects SEC's ability to use ~150
-  ALJ proceedings annually and impacts enforcement strategies across federal agencies.
+notes: Case involved $24 million hedge funds and alleged fraud from 2007-2009. ALJ had ordered $300,000 in civil penalties. Decision affects SEC's ability to use ~150 ALJ proceedings annually and impacts enforcement strategies across federal agencies.
 status: confirmed
 sources:
 - title: SEC v. Jarkesy Opinion

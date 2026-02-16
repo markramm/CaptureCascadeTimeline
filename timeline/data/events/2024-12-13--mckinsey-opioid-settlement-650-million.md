@@ -8,7 +8,7 @@ actors:
 - U.S. Department of Justice
 - Purdue Pharma
 - Martin Elling
-- Food and Drug Administration (FDA)
+- Food and Drug Administration
 tags:
 - mckinsey
 - opioid-crisis

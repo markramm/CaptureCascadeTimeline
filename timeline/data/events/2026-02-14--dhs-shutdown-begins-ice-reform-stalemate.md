@@ -5,8 +5,8 @@ status: confirmed
 title: DHS Shutdown Begins as Congress Fails to Reach Immigration Reform Deal
 importance: 8
 actors:
-- Senate
-- House of Representatives
+- United States Senate
+- U.S. House of Representatives
 - John Thune
 - Chris Murphy
 - Katie Britt

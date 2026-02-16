@@ -7,7 +7,7 @@ actors:
 - Wells Fargo Bank
 - Bank of Mexico
 - Banco de Credito Agricola
-- Mexican government
+- Mexican Government
 - U.S. agricultural employers
 tags:
 - wage-theft

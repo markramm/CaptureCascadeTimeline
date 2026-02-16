@@ -6,17 +6,17 @@ importance: 9
 actors:
 - Mississippi State Legislature
 - Governor William L. Sharkey
-- Southern Planters
+- Southern planters
 sources:
-- title: 'Mississippi Black Codes (1865-1866)'
+- title: Mississippi Black Codes (1865-1866)
   outlet: BlackPast
   url: https://blackpast.org/african-american-history/mississippi-black-codes-1865-1866/
   year: 2024
-- title: 'Black Codes'
+- title: Black Codes
   outlet: Mississippi Encyclopedia
   url: https://mississippiencyclopedia.org/entries/black-codes/
   year: 2024
-- title: 'Black Codes (United States)'
+- title: Black Codes (United States)
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Black_Codes_(United_States)
   year: 2024

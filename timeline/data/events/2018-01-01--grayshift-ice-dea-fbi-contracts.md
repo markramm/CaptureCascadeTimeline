@@ -6,11 +6,11 @@ status: confirmed
 importance: 7
 actors:
 - Grayshift
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - DEA
 - FBI
-- CBP
-- Secret Service
+- U.S. Customs and Border Protection
+- U.S. Secret Service
 tags:
 - surveillance
 - mobile-forensics

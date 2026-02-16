@@ -6,7 +6,7 @@ title: Federal job applicants required to write MAGA loyalty essays
 location: Washington, DC
 actors:
 - Trump Administration
-- OPM
+- Office of Personnel Management
 - Federal Agencies
 tags:
 - loyalty-tests
@@ -22,8 +22,7 @@ sources:
   url: https://www.afge.org/news/federal-loyalty-tests
   outlet: AFGE
   date: '2025-03-01'
-- title: Trump Administration Makes New Federal Employees Write Essays to Prove MAGA
-    Loyalty
+- title: Trump Administration Makes New Federal Employees Write Essays to Prove MAGA Loyalty
   url: https://www.yahoo.com/news/trump-administration-makes-federal-employees-155935637.html
   outlet: Yahoo News
   date: '2025-06-02'
@@ -35,30 +34,15 @@ sources:
   url: https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/
   outlet: Government Executive
   date: '2025-06-02'
-notes: Initial implementation faced significant criticism from labor unions and civil
-  service experts. OPM later clarified that essay answers would not be formally scored,
-  but the requirement remains controversial.
+notes: Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.
 status: confirmed
 validation_metadata:
   last_corrected: '2025-09-16T19:13:42.377856'
   corrected_by: concurrent-qa-2-bulk-retry
   validation_log_id: 119
   corrections_applied:
-  - 'notes: ''Initial implementation faced significant criticism from labor unions
-    and civil service experts. OPM later clarified that essay answers would not be
-    formally scored, but the requirement remains controversial.'' → ''Initial implementation
-    faced significant criticism from labor unions and civil service experts. OPM later
-    clarified that essay answers would not be formally scored, but the requirement
-    remains controversial.'''
-  - 'summary: ''In May 2025, the Trump administration implemented a controversial
-    ‘Merit Hiring Plan’ requiring federal job applicants at GS-5 and above to write
-    essays about Trump’s policies. Applicants must describe how they would advance
-    specific executive orders, effectively creating an ideological screening process
-    for civil service positions.'' → ''In May 2025, the Trump administration implemented
-    a controversial ‘Merit Hiring Plan’ requiring federal job applicants at GS-5 and
-    above to write essays about Trump’s policies. Applicants must describe how they
-    would advance specific executive orders, effectively creating an ideological screening
-    process for civil service positions.'''
+  - 'notes: ''Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.'' → ''Initial implementation faced significant criticism from labor unions and civil service experts. OPM later clarified that essay answers would not be formally scored, but the requirement remains controversial.'''
+  - 'summary: ''In May 2025, the Trump administration implemented a controversial ‘Merit Hiring Plan’ requiring federal job applicants at GS-5 and above to write essays about Trump’s policies. Applicants must describe how they would advance specific executive orders, effectively creating an ideological screening process for civil service positions.'' → ''In May 2025, the Trump administration implemented a controversial ‘Merit Hiring Plan’ requiring federal job applicants at GS-5 and above to write essays about Trump’s policies. Applicants must describe how they would advance specific executive orders, effectively creating an ideological screening process for civil service positions.'''
 ---
 
 In May 2025, the Trump administration implemented a controversial ‘Merit Hiring Plan’ requiring federal job applicants at GS-5 and above to write essays about Trump’s policies. Applicants must describe how they would advance specific executive orders, effectively creating an ideological screening process for civil service positions.

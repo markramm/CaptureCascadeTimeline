@@ -13,20 +13,20 @@ tags:
 actors:
 - Ronald Reagan
 - Corporate lobbyists
-- Senate Finance Committee
-- Congress
+- U.S. Senate Finance Committee
+- U.S. Congress
 sources:
-- title: 'Tax Reform Act of 1986'
+- title: Tax Reform Act of 1986
   url: https://en.wikipedia.org/wiki/Tax_Reform_Act_of_1986
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'How four decades of tax cuts fueled inequality'
+- title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   publication: Center for Public Integrity
   date: '2024-09-15'
   tier: 1
-- title: "Reagan's Tax Reform Was A Bipartisan Effort of Surrender to America's Deepest Pockets"
+- title: Reagan's Tax Reform Was A Bipartisan Effort of Surrender to America's Deepest Pockets
   url: https://ips-dc.org/reagans-tax-reform-was-a-bipartisan-effort-of-surrender-to-americas-deepest-pockets/
   publication: Institute for Policy Studies
   date: '2024-08-20'

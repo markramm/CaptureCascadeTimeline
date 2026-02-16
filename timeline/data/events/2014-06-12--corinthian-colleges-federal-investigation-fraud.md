@@ -9,7 +9,7 @@ tags:
 - fraud
 - corinthian-colleges
 actors:
-- Department of Education
+- U.S. Department of Education
 - Corinthian Colleges
 - Arne Duncan
 sources:

@@ -1,7 +1,7 @@
 ---
 id: 2025-09-25--nspm-7-domestic-terrorism-targets-anti-capitalist-beliefs
 date: '2025-09-25'
-title: "Trump Signs NSPM-7 Labeling Anti-Capitalism, Anti-Christianity, and 'Anti-Americanism' as Domestic Terrorism Indicators"
+title: Trump Signs NSPM-7 Labeling Anti-Capitalism, Anti-Christianity, and 'Anti-Americanism' as Domestic Terrorism Indicators
 importance: 10
 status: confirmed
 actors:
@@ -9,7 +9,7 @@ actors:
 - Pam Bondi
 - FBI
 - JTTF
-- ACLU
+- American Civil Liberties Union
 - Ro Khanna
 tags:
 - nspm-7
@@ -30,17 +30,17 @@ sources:
   outlet: ACLU
   date: '2025-09-25'
   tier: 1
-- title: "Trump's NSPM-7 Labels Common Beliefs As Terrorism Indicators"
+- title: Trump's NSPM-7 Labels Common Beliefs As Terrorism Indicators
   url: https://www.kenklippenstein.com/p/trumps-nspm-7-labels-common-beliefs
   outlet: Ken Klippenstein
   date: '2025-09-26'
   tier: 2
-- title: "National Security Directive Declares War on Those Who Don't Support Trump Agenda"
+- title: National Security Directive Declares War on Those Who Don't Support Trump Agenda
   url: https://truthout.org/articles/national-security-directive-declares-war-on-those-who-dont-support-trump-agenda/
   outlet: Truthout
   date: '2025-09-26'
   tier: 2
-- title: "White House Anti-Terror Order Targets 'Anti-American' Views"
+- title: White House Anti-Terror Order Targets 'Anti-American' Views
   url: https://time.com/7322106/trump-nspm-7-domestic-terrorism/
   outlet: TIME
   date: '2025-09-25'

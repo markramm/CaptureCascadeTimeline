@@ -11,7 +11,7 @@ actors:
 - Joseph Coors
 - Richard Mellon Scaife
 - Bradley Foundation
-- Koch network
+- Koch Network
 - Kevin Roberts
 tags:
 - organizational-profile

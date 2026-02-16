@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Barack Obama
 - America's Health Insurance Plans
-- Pharmaceutical Research and Manufacturers of America
+- PhRMA
 - Max Baucus
 - Liz Fowler
 - Nancy Pelosi
@@ -17,7 +17,7 @@ tags:
 - individual-mandate
 - lobbying
 sources:
-- title: 'Patient Protection and Affordable Care Act'
+- title: Patient Protection and Affordable Care Act
   outlet: Congress.gov
   url: https://www.congress.gov/bill/111th-congress/house-bill/3590
   date: '2010-03-23'
@@ -25,7 +25,7 @@ sources:
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2012-01-01'
-- title: 'Architect of the ACA'
+- title: Architect of the ACA
   outlet: Sunlight Foundation
   url: https://sunlightfoundation.com
   date: '2012-12-05'

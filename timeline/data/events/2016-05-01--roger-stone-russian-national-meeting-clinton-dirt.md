@@ -16,7 +16,7 @@ tags:
 - congressional-testimony
 actors:
 - Roger Stone
-- michael-caputo
+- Michael Caputo
 - henry-greenberg
 - Russian Intelligence
 capture_lane: political

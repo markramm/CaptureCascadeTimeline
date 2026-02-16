@@ -14,7 +14,7 @@ tags:
 actors:
 - Council for National Policy
 - Heritage Foundation
-- ALEC
+- American Legislative Exchange Council
 - Paul Weyrich
 sources:
 - title: A Rare Peek Inside the Vast Right-Wing Conspiracy

@@ -5,7 +5,7 @@ title: 'Voting Rights Act Extension of 1970: Nationwide Literacy Test Ban and Vo
 importance: 7
 actors:
 - Richard Nixon
-- Congress
+- U.S. Congress
 - Emanuel Celler
 - Attorney General John Mitchell
 tags:
@@ -15,7 +15,7 @@ tags:
 - youth-voting
 - vra-extension
 sources:
-- title: 'Voting Rights Act Amendments of 1970'
+- title: Voting Rights Act Amendments of 1970
   url: https://www.justice.gov/crt/history-federal-voting-rights-laws
   outlet: U.S. Department of Justice
   tier: 1
@@ -23,7 +23,7 @@ sources:
   url: https://crsreports.congress.gov/product/pdf/R/R43626
   outlet: Congressional Research Service
   tier: 1
-- title: 'Oregon v. Mitchell'
+- title: Oregon v. Mitchell
   url: https://supreme.justia.com/cases/federal/us/400/112/
   outlet: Justia
   tier: 1

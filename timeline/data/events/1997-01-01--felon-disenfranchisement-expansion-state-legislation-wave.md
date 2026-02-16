@@ -1,12 +1,11 @@
 ---
 id: 1997-01-01--felon-disenfranchisement-expansion-state-legislation-wave
 date: '1997-01-01'
-title: 'Felon Disenfranchisement Expansion: States Tighten Voting Bans as Prison Population
-  Explodes'
+title: 'Felon Disenfranchisement Expansion: States Tighten Voting Bans as Prison Population Explodes'
 importance: 7
 actors:
 - State Legislatures
-- ALEC
+- American Legislative Exchange Council
 - The Sentencing Project
 - Republican Governors
 tags:
@@ -72,18 +71,15 @@ sources:
 - outlet: Scientific American
   title: Who Funds Contrariness on Climate Change?
   url: https://www.scientificamerican.com/article/who-funds-contrariness-on/
-- title: Investigation of the SEC's Response to Concerns Regarding Robert Allen Stanford's
-    Alleged Ponzi Scheme
+- title: Investigation of the SEC's Response to Concerns Regarding Robert Allen Stanford's Alleged Ponzi Scheme
   url: https://www.ojp.gov/ncjrs/virtual-library/abstracts/investigation-secs-response-concerns-regarding-robert-allen
   outlet: Office of Justice Programs
   tier: 1
-- title: 'The Stanford Ponzi Scheme: Lessons for Protecting Investors from the Next
-    Securities Fraud'
+- title: 'The Stanford Ponzi Scheme: Lessons for Protecting Investors from the Next Securities Fraud'
   url: https://www.govinfo.gov/content/pkg/CHRG-112hhrg66868/html/CHRG-112hhrg66868.htm
   outlet: U.S. Government Publishing Office
   tier: 1
-- title: 'The Stanford Ponzi Scheme: Lessons for Protecting Investors (Testimony by
-    Robert Khuzami and Carlo di Florio)'
+- title: 'The Stanford Ponzi Scheme: Lessons for Protecting Investors (Testimony by Robert Khuzami and Carlo di Florio)'
   url: https://www.sec.gov/news/testimony/2011/ts051311rk-cvd.htm
   outlet: SEC
   date: '2011-05-13'

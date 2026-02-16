@@ -8,7 +8,7 @@ actors:
 - ProPublica
 - Clarence Thomas
 - Harlan Crow
-- Supreme Court
+- U.S. Supreme Court
 tags:
 - judicial-capture
 - supreme-court

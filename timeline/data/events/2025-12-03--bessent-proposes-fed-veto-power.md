@@ -8,7 +8,7 @@ importance: 9
 location: New York, New York
 actors:
 - Scott Bessent
-- Department of Treasury
+- Department of the Treasury
 - Federal Reserve
 - Jerome Powell
 - Donald Trump
@@ -22,7 +22,7 @@ tags:
 - trump-administration
 capture_type: regulatory_capture
 sources:
-- title: "'We're going to veto them': Bessent backs new rules to give White House more power over Federal Reserve"
+- title: '''We''re going to veto them'': Bessent backs new rules to give White House more power over Federal Reserve'
   url: https://fortune.com/2025/12/03/scott-bessent-federal-reserve-veto-regional-bank-presidents/
   outlet: Fortune
   date: '2025-12-03'

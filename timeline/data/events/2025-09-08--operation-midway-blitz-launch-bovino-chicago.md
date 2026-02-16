@@ -17,8 +17,8 @@ tags:
 actors:
 - Gregory Bovino
 - Kristi Noem
-- ICE
-- CBP
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 - Tom Homan
 - Todd Lyons
 - Katie Abraham

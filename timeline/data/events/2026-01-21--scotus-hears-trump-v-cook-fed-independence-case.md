@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Donald Trump
 - Lisa Cook
-- Supreme Court
+- U.S. Supreme Court
 - Brett Kavanaugh
 - John Roberts
 - Federal Reserve

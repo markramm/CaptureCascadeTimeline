@@ -1,12 +1,12 @@
 ---
 id: 2020-01-01--wage-theft-exceeds-all-other-property-crime-combined
 date: '2020-01-01'
-title: 'Wage Theft Steals More from Workers Than All Other Property Crime Combined'
+title: Wage Theft Steals More from Workers Than All Other Property Crime Combined
 importance: 8
 actors:
 - Corporate employers
 - Low-wage workers
-- Department of Labor
+- U.S. Department of Labor
 - State labor agencies
 tags:
 - wage-theft
@@ -15,19 +15,19 @@ tags:
 - minimum-wage
 - overtime
 sources:
-- title: 'Wage Theft Wikipedia'
+- title: Wage Theft Wikipedia
   url: https://en.wikipedia.org/wiki/Wage_theft
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Wage Theft is a Much Bigger Problem Than Other Forms of Theft—But Workers Remain Mostly Unprotected'
+- title: Wage Theft is a Much Bigger Problem Than Other Forms of Theft—But Workers Remain Mostly Unprotected
   url: https://www.epi.org/publication/wage-theft-bigger-problem-forms-theft-workers/
   outlet: Economic Policy Institute
   date: '2014-09-11'
   verified: true
   tier: 1
-- title: 'Employers steal billions from workers paychecks each year'
+- title: Employers steal billions from workers paychecks each year
   url: https://www.epi.org/publication/employers-steal-billions-from-workers-paychecks-each-year/
   outlet: Economic Policy Institute
   date: '2017-05-10'

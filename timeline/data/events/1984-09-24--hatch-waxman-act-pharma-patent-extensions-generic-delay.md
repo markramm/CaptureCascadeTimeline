@@ -7,7 +7,7 @@ actors:
 - Orrin Hatch
 - Henry Waxman
 - Ronald Reagan
-- Pharmaceutical Research and Manufacturers of America
+- PhRMA
 tags:
 - healthcare
 - pharmaceutical-industry
@@ -15,7 +15,7 @@ tags:
 - patent-abuse
 - lobbying
 sources:
-- title: 'Drug Price Competition and Patent Term Restoration Act of 1984'
+- title: Drug Price Competition and Patent Term Restoration Act of 1984
   outlet: Congress.gov
   url: https://www.congress.gov/bill/98th-congress/senate-bill/1538
   date: '1984-09-24'
@@ -23,7 +23,7 @@ sources:
   outlet: Food and Drug Law Journal
   url: https://www.fdli.org/pubs/journal
   date: '2009-01-01'
-- title: 'How Big Pharma Uses Patent Tricks to Extend Profits'
+- title: How Big Pharma Uses Patent Tricks to Extend Profits
   outlet: Harvard Law Review
   url: https://harvardlawreview.org
   date: '2018-01-01'

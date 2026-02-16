@@ -27,7 +27,7 @@ sources:
   tier: 1
   outlet: SSRN
 actors:
-- Congress
+- U.S. Congress
 - K Street
 - Public Citizen
 ---

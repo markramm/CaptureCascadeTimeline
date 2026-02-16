@@ -1,12 +1,11 @@
 ---
 id: 1914-04-20--ludlow-massacre-colorado-coal-strike
 date: '1914-04-20'
-title: Ludlow Massacre - National Guard Attacks Striking Miners, Kills 21 Including
-  Women and Children
+title: Ludlow Massacre - National Guard Attacks Striking Miners, Kills 21 Including Women and Children
 importance: 10
 actors:
 - Colorado National Guard
-- Colorado Fuel and Iron Company (CF&I)
+- Colorado Fuel and Iron Company
 - United Mine Workers of America
 - John D. Rockefeller Jr.
 - Governor Elias M. Ammons

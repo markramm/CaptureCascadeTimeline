@@ -1,14 +1,8 @@
 ---
 id: 2025-01-25--tulsi-gabbard-assad-meeting-dni
 date: '2025-01-25'
-title: DNI Tulsi Gabbard's Secret Assad Meeting and Russian Ties Alarm Intelligence
-  Allies
-description: Director of National Intelligence Tulsi Gabbard, who secretly met Syrian
-  dictator Bashar al-Assad in 2017 trip financed by Lebanese party with Assad ties,
-  consistently echoes Russian talking points on Ukraine. With only two years junior
-  intelligence committee experience, allies express concerns about intelligence sharing.
-  Her controversial Syria trip and pro-Russia statements have raised significant questions
-  about her suitability for the role.
+title: DNI Tulsi Gabbard's Secret Assad Meeting and Russian Ties Alarm Intelligence Allies
+description: Director of National Intelligence Tulsi Gabbard, who secretly met Syrian dictator Bashar al-Assad in 2017 trip financed by Lebanese party with Assad ties, consistently echoes Russian talking points on Ukraine. With only two years junior intelligence committee experience, allies express concerns about intelligence sharing. Her controversial Syria trip and pro-Russia statements have raised significant questions about her suitability for the role.
 importance: 9
 tags:
 - tulsi-gabbard
@@ -21,12 +15,12 @@ tags:
 - syria
 - senate-confirmation
 actors:
-- tulsi-gabbard
-- bashar-al-assad
+- Tulsi Gabbard
+- Bashar al-Assad
 - Russian Intelligence
 - DNI
 - intelligence-allies
-- senate-republicans
+- Senate Republicans
 capture_lane: political
 status: confirmed
 sources:
@@ -41,13 +35,11 @@ sources:
 - outlet: NPR
   date: '2025-02-12'
   url: https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate
-  title: Tulsi Gabbard confirmed as director of national intelligence, overcoming
-    skepticism
+  title: Tulsi Gabbard confirmed as director of national intelligence, overcoming skepticism
 - outlet: U.S. News
   date: '2025-01-30'
   url: https://www.usnews.com/news/national-news/articles/2025-01-30/questions-over-edward-snowden-bashar-assad-dominate-tulsi-gabbards-confirmation-hearing
-  title: Questions over Edward Snowden, Bashar Assad Dominate Tulsi Gabbard's Confirmation
-    Hearing
+  title: Questions over Edward Snowden, Bashar Assad Dominate Tulsi Gabbard's Confirmation Hearing
 - outlet: Roll Call
   date: '2025-02-10'
   url: https://rollcall.com/2025/02/10/senate-advances-gabbards-nomination-to-become-dni/
@@ -61,14 +53,7 @@ patterns:
 - security-compromise
 - russian-alignment
 - institutional-transformation
-notes: Gabbard's appointment as DNI despite secret meetings with Assad and consistent
-  pro-Russia positioning represents an unprecedented security risk. Her 2017 Assad
-  trip, financed by groups with Syrian regime ties, violated congressional notification
-  requirements. She regularly appears on Russian state media, blamed NATO for Ukraine
-  invasion, and called Zelensky a "dictator." Intelligence allies now questioning
-  whether to share sensitive information with U.S., potentially blind America to threats.
-  Her minimal intelligence experience compounds concerns about protecting sources
-  and methods.
+notes: Gabbard's appointment as DNI despite secret meetings with Assad and consistent pro-Russia positioning represents an unprecedented security risk. Her 2017 Assad trip, financed by groups with Syrian regime ties, violated congressional notification requirements. She regularly appears on Russian state media, blamed NATO for Ukraine invasion, and called Zelensky a "dictator." Intelligence allies now questioning whether to share sensitive information with U.S., potentially blind America to threats. Her minimal intelligence experience compounds concerns about protecting sources and methods.
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

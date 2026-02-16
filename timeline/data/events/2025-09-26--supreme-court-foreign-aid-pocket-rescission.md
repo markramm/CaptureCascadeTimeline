@@ -11,11 +11,11 @@ tags:
 - foreign-aid
 - separation-of-powers
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - Elena Kagan
 - Mike Johnson
-- GAO
+- Government Accountability Office (GAO)
 sources:
 - title: Supreme Court allows Trump to withhold $4 billion in foreign aid
   url: https://www.npr.org/2025/09/26/nx-s1-5554825/supreme-court-trump-foreign-aid-pocket-rescission

@@ -12,7 +12,7 @@ tags:
 actors:
 - RFK Jr.
 - Susan Monarez
-- CDC
+- Centers for Disease Control and Prevention
 - Trump
 sources:
 - url: https://www.nbcnews.com/health/health-news/cdc-director-monarez-out-confirmed-rfk-jr-rcna227620

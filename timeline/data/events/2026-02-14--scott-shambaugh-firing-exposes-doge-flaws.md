@@ -6,7 +6,7 @@ title: Scott Shambaugh Firing Exposes DOGE's Indiscriminate Purge of Technical E
 importance: 7
 actors:
 - Scott Shambaugh
-- DOGE
+- Department of Government Efficiency
 - National Institute of Standards and Technology
 - Elon Musk
 tags:

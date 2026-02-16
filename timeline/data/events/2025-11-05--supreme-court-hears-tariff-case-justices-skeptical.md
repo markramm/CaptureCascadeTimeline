@@ -5,7 +5,7 @@ title: Supreme Court Hears Landmark Tariff Case, Justices Express Deep Skepticis
 importance: 10
 actors:
 - Donald Trump
-- Supreme Court
+- U.S. Supreme Court
 tags:
 - supreme court
 - tariffs

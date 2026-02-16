@@ -7,7 +7,7 @@ location: Washington DC
 actors:
 - US House of Representatives
 - Government Accountability Office (GAO)
-- Congress
+- U.S. Congress
 tags:
 - oversight-capture
 - budget-cuts
@@ -16,13 +16,9 @@ tags:
 - institutional-weakening
 citations:
 - 'Federal News Network — GAO faces nearly 50% budget cut… (Jun 23, 2025): https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/'
-notes: 'Full committee advanced bill 34-28 party-line vote June 27. Rep Lynch: Decimating
-  GAO makes government less efficient/accountable. Senate approved $812M (current
-  level) instead. Bill redirects GAO to Congressional priorities vs self-directed
-  work. Nearly $400M cut from current spending.'
+notes: 'Full committee advanced bill 34-28 party-line vote June 27. Rep Lynch: Decimating GAO makes government less efficient/accountable. Senate approved $812M (current level) instead. Bill redirects GAO to Congressional priorities vs self-directed work. Nearly $400M cut from current spending.'
 sources:
-- title: GAO faces nearly 50% budget cut, less oversight of withheld funds in budget
-    plan
+- title: GAO faces nearly 50% budget cut, less oversight of withheld funds in budget plan
   url: https://federalnewsnetwork.com/agency-oversight/2025/06/gao-faces-nearly-50-budget-cut-less-oversight-of-withheld-funds-in-budget-plan/
   outlet: Federal News Network
   date: '2025-06-23'

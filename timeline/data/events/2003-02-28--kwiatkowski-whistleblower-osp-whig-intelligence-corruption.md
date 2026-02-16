@@ -13,7 +13,7 @@ actors:
 - Karl Rove
 - Dick Cheney
 - NSA
-- Congress
+- U.S. Congress
 tags:
 - whistleblower
 - osp

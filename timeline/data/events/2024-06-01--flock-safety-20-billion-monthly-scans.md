@@ -7,7 +7,7 @@ location: United States
 actors:
 - Flock Safety
 - Garrett Langley
-- ACLU
+- American Civil Liberties Union
 - Electronic Frontier Foundation
 tags:
 - surveillance

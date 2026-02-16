@@ -5,7 +5,7 @@ title: NIST Suspends All Facial Recognition Testing During Government Shutdown
 importance: 7
 actors:
 - National Institute of Standards and Technology
-- Department of Commerce
+- U.S. Department of Commerce
 sources:
 - title: Partial Shutdown of NIST Biometric Services
   url: https://securedocumentnews.com/news/2025/oct/07/partial-shutdown-of-nist-biometric-services/

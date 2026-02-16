@@ -6,8 +6,8 @@ title: Homan Announces End to Operation Metro Surge in Minnesota
 importance: 7
 actors:
 - Tom Homan
-- DHS
-- ICE
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
 - Tim Walz
 - Jacob Frey
 tags:

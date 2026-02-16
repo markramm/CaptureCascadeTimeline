@@ -12,7 +12,7 @@ tags:
 - legislative-reform
 actors:
 - NSA
-- Congress
+- U.S. Congress
 - Barack Obama
 - Edward Snowden
 - FISA Court

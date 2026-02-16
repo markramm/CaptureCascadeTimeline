@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Bernard Baruch
 - President Woodrow Wilson
-- War Department
+- U.S. War Department
 - Navy Department
 sources:
 - title: War Industries Board

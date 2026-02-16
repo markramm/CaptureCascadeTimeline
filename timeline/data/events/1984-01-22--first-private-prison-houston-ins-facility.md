@@ -4,8 +4,8 @@ date: '1984-01-22'
 title: First Fully Privatized Prison Opens in Houston Under CCA Contract with Immigration and Naturalization Service
 importance: 9
 actors:
-- Corrections Corporation of America (CCA)
-- Immigration and Naturalization Service (INS)
+- Corrections Corporation of America
+- Immigration and Naturalization Service
 - T. Don Hutto
 - Thomas W. Beasley
 tags:

@@ -2,13 +2,12 @@
 id: 2023-09-08--fifth-circuit-biden-first-amendment-ruling
 date: '2023-09-08'
 importance: 8
-title: Fifth Circuit Finds Biden Administration Violated First Amendment Through Social
-  Media Coercion
+title: Fifth Circuit Finds Biden Administration Violated First Amendment Through Social Media Coercion
 actors:
 - Fifth Circuit Court of Appeals
 - White House
 - FBI
-- CDC
+- Centers for Disease Control and Prevention
 - Surgeon General
 - Social media platforms
 tags:

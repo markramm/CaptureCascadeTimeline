@@ -13,7 +13,7 @@ tags:
 actors:
 - Edward Snowden
 - Department of Justice
-- ACLU
+- American Civil Liberties Union
 sources:
 - url: https://www.npr.org/2019/09/17/761600250/justice-department-sues-edward-snowden-seeking-profits-from-his-book
   title: 'Justice Department: Edward Snowden Book Profits Should Go To The U.S. Government'

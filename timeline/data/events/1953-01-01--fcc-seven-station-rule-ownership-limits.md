@@ -1,11 +1,10 @@
 ---
 id: 1953-01-01--fcc-seven-station-rule-ownership-limits
 date: '1953-01-01'
-title: FCC Adopts Seven-Station Rule Limiting Broadcast Ownership to Prevent Media
-  Monopoly and Ensure Viewpoint Diversity
+title: FCC Adopts Seven-Station Rule Limiting Broadcast Ownership to Prevent Media Monopoly and Ensure Viewpoint Diversity
 importance: 8
 actors:
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 tags:
 - media-regulation
 - ownership-limits

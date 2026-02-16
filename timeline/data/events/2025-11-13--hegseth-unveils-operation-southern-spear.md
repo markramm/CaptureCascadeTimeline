@@ -21,7 +21,7 @@ status: confirmed
 type: political
 actors:
 - Pete Hegseth
-- Department of Defense
+- U.S. Department of Defense
 ---
 
 Defense Secretary Pete Hegseth formally unveiled 'Operation Southern Spear,' the name for the ongoing US military campaign of strikes on suspected drug vessels in the Caribbean and Eastern Pacific. By this date, US forces had conducted over 20 strikes killing more than 80 people. The operation expanded beyond initial Caribbean strikes to the Eastern Pacific Ocean. Hegseth defended the campaign as targeting 'narcoterrorists' despite intelligence reports contradicting claims that targets were major drug traffickers. The UN High Commissioner for Human Rights had already condemned the strikes as 'extrajudicial killings' violating international law. The UK had suspended intelligence sharing over concerns the operations were illegal.

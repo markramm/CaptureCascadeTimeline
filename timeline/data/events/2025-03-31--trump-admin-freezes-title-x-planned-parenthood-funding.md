@@ -1,11 +1,11 @@
 ---
 id: 2025-03-31--trump-admin-freezes-title-x-planned-parenthood-funding
 date: '2025-03-31'
-title: "Trump Administration Freezes Title X Funding to Planned Parenthood Affiliates"
+title: Trump Administration Freezes Title X Funding to Planned Parenthood Affiliates
 importance: 8
 actors:
 - Donald Trump
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Planned Parenthood
 - National Family Planning and Reproductive Health Association
 tags:

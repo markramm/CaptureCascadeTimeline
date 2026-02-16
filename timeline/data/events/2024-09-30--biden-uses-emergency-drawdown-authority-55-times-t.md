@@ -6,7 +6,7 @@ title: Biden Uses Emergency Drawdown Authority 55 Times to Send $31.7B in Weapon
 actors:
 - Joe Biden
 - Pentagon
-- Congress
+- U.S. Congress
 - Ukraine
 - Mike Lee
 tags:

@@ -4,7 +4,7 @@ date: '1978-08-22'
 title: IRS Tightens Private School Tax Exemption Rules Catalyzing Religious Right Political Mobilization
 importance: 9
 actors:
-- Internal Revenue Service (IRS)
+- Internal Revenue Service
 - Paul Weyrich
 - Richard Viguerie
 - Bob Jones University

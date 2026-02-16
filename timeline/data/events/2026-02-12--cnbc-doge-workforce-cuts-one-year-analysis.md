@@ -5,7 +5,7 @@ status: confirmed
 title: One Year After DOGE Cuts, 322,000 Federal Workers Displaced in Largest Peacetime Workforce Reduction
 importance: 8
 actors:
-- DOGE
+- Department of Government Efficiency
 - Elon Musk
 - Russell Vought
 - Office of Personnel Management

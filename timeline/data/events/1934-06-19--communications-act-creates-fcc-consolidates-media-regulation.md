@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Franklin D. Roosevelt
 - U.S. Congress
-- Federal Communications Commission (FCC)
+- Federal Communications Commission
 - Federal Radio Commission
 tags:
 - media-regulation

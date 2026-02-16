@@ -7,7 +7,7 @@ location: Salt Lake City, Utah
 actors:
 - Ryan Wilcox
 - Daniel McCay
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Utah State Legislature
 tags:
 - institutional-capture

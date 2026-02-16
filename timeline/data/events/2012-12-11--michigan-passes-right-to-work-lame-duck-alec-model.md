@@ -5,7 +5,7 @@ title: Michigan Passes Right-to-Work in Lame Duck Surprise Using Verbatim ALEC L
 importance: 9
 actors:
 - Rick Snyder
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Mackinac Center
 - Michigan GOP
 - Koch brothers

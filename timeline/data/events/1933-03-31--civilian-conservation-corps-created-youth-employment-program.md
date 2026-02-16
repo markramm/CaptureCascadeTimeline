@@ -8,7 +8,7 @@ actors:
 - U.S. Congress
 - Robert Fechner
 - U.S. Army
-- Department of Labor
+- U.S. Department of Labor
 tags:
 - new-deal
 - employment

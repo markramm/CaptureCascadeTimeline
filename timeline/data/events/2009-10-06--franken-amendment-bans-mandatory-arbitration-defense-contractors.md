@@ -13,9 +13,9 @@ tags:
 actors:
 - Al Franken
 - Jamie Leigh Jones
-- KBR
+- Kellogg Brown & Root (KBR)
 - Halliburton
-- Senate
+- United States Senate
 - Barack Obama
 sources:
 - url: https://www.governmentcontractslawblog.com/2009/12/articles/government-contracts-law/the-franken-amendment-a-blow-to-arbitration-and-increased-litigation-and-compliance-for-government-contractors/

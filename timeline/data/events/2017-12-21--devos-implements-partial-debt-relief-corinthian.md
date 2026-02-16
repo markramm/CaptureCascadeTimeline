@@ -10,7 +10,7 @@ tags:
 - corinthian-colleges
 actors:
 - Betsy DeVos
-- Department of Education
+- U.S. Department of Education
 sources:
 - url: https://www.consumerfinancialserviceslawmonitor.com/2018/03/in-departure-from-obama-administration-doe-to-grant-only-partial-student-debt-relief-for-corinthian-alumni/
   title: In Departure from Obama Administration, DOE to Grant Only Partial Student Debt Relief for Corinthian Alumni

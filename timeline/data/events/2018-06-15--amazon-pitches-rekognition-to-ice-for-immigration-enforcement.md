@@ -6,8 +6,8 @@ importance: 9
 actors:
 - Amazon
 - AWS
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Jeff Bezos
 tags:
 - surveillance

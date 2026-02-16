@@ -2,11 +2,7 @@
 id: 2018-10-29--lion-air-flight-610-crash-mcas-system-failure
 title: Lion Air Flight 610 Crashes Due to Boeing 737 MAX MCAS System Malfunction
 date: '2018-10-29'
-description: Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea 13
-  minutes after takeoff from Jakarta, killing all 189 people aboard. The crash was
-  caused by a malfunctioning MCAS (Maneuvering Characteristics Augmentation System)
-  that repeatedly pushed the aircraft's nose down due to faulty angle-of-attack sensor
-  data, a system that pilots were not informed about during training.
+description: Lion Air Flight 610, a Boeing 737 MAX 8, crashed into the Java Sea 13 minutes after takeoff from Jakarta, killing all 189 people aboard. The crash was caused by a malfunctioning MCAS (Maneuvering Characteristics Augmentation System) that repeatedly pushed the aircraft's nose down due to faulty angle-of-attack sensor data, a system that pilots were not informed about during training.
 category: aviation_safety
 tags:
 - boeing
@@ -22,13 +18,11 @@ sources:
   url: https://en.wikipedia.org/wiki/Lion_Air_Flight_610
   date: '2018-10-29'
   outlet: Wikipedia
-- title: Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude
-    of Contributing Factors
+- title: Lion Air 737 MAX Final Accident Report Cites AOA Sensor, MCAS Among Multitude of Contributing Factors
   url: https://www.aviationtoday.com/2019/10/28/lion-air-737-max-final-accident-report-cites-aoa-sensor-mcas-as-contributing-factors/
   date: '2019-10-28'
   outlet: Aviation Today
-- title: Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators
-    Say
+- title: Lion Air Jet Was 'Un-Airworthy' In Lead-Up To Fatal Crash, Investigators Say
   url: https://www.npr.org/2018/11/28/671421822/lion-air-jet-was-not-airworthy-in-lead-up-to-fatal-crash-investigators-say
   date: '2018-11-28'
   outlet: NPR
@@ -44,7 +38,7 @@ actors:
 - MCAS system
 - 189 victims
 - National Transportation Safety Committee (NTSC)
-- Federal Aviation Administration (FAA)
+- Federal Aviation Administration
 status: confirmed
 capture_lanes:
 - Regulatory Capture

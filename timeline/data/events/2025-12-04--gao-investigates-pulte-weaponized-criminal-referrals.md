@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - Government Accountability Office (GAO)
 - Bill Pulte
-- Federal Housing Finance Agency (FHFA)
+- Federal Housing Finance Agency
 - Letitia James
 - Sen. Adam Schiff
 - Federal Reserve Gov. Lisa Cook

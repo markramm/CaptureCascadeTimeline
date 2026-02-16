@@ -5,7 +5,7 @@ status: confirmed
 title: EPA Advances Rollback of Four PFAS Drinking Water Standards
 importance: 7
 actors:
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 - Lee Zeldin
 tags:
 - regulatory-capture

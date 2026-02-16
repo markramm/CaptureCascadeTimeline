@@ -5,18 +5,14 @@ date: '2025-08-07'
 importance: 6
 location: Washington DC
 actors:
-- Environmental Protection Agency
+- U.S. Environmental Protection Agency
 tags:
 - environmental-deregulation
 - epa
 - solar-energy
 - grant-cancellation
 - clean-energy
-notes: Program awarded grants August 2024 to 49 state agencies, 6 tribes, 5 multi-state
-  recipients. Estimated $350M annual savings for low-income households. Funded by
-  Greenhouse Gas Reduction Fund from 2022 IRA ($20B green bank + $7B solar). Judge
-  ruled April EPA cannot freeze contracts. Former adviser Zealan Hoover anticipates
-  grantee lawsuits for unlawful termination. Major clean energy program elimination.
+notes: Program awarded grants August 2024 to 49 state agencies, 6 tribes, 5 multi-state recipients. Estimated $350M annual savings for low-income households. Funded by Greenhouse Gas Reduction Fund from 2022 IRA ($20B green bank + $7B solar). Judge ruled April EPA cannot freeze contracts. Former adviser Zealan Hoover anticipates grantee lawsuits for unlawful termination. Major clean energy program elimination.
 status: confirmed
 sources:
 - title: EPA terminates $7 billion Solar for All program

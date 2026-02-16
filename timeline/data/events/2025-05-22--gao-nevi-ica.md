@@ -1,6 +1,6 @@
 ---
 actors:
-- GAO
+- Government Accountability Office (GAO)
 - DOT
 - FHWA
 - OMB

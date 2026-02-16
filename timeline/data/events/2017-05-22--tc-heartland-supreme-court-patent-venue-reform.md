@@ -5,7 +5,7 @@ title: 'TC Heartland v. Kraft: Supreme Court Limits Patent Forum Shopping, Curbi
 importance: 8
 status: confirmed
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Clarence Thomas
 - TC Heartland
 - Kraft Foods

@@ -2,19 +2,13 @@
 id: 2025-01-20--justin-sun-75-million-investment
 date: '2025-01-20'
 importance: 10
-title: Justin Sun's $75 Million Crypto Investment Signals Complex Trump Financial
-  Network
-description: 'Justin Sun, founder of blockchain platform TRON, made a strategic $75
-  million investment in Trump''s World Liberty Financial cryptocurrency platform.
-  The investment occurred in two major stages: $30 million in November 2024 and an
-  additional $45 million in January 2025. Simultaneously, Sun was under SEC investigation
-  for market manipulation, which was mysteriously paused in February 2025, shortly
-  after his substantial investment.'
+title: Justin Sun's $75 Million Crypto Investment Signals Complex Trump Financial Network
+description: 'Justin Sun, founder of blockchain platform TRON, made a strategic $75 million investment in Trump''s World Liberty Financial cryptocurrency platform. The investment occurred in two major stages: $30 million in November 2024 and an additional $45 million in January 2025. Simultaneously, Sun was under SEC investigation for market manipulation, which was mysteriously paused in February 2025, shortly after his substantial investment.'
 location: Washington, DC
 actors:
 - Justin Sun
 - World Liberty Financial
-- SEC
+- Securities and Exchange Commission
 - Donald Trump
 - Senator Richard Blumenthal
 - TRON DAO
@@ -31,8 +25,7 @@ capture_lanes:
 - Foreign Influence Operations
 - Regulatory Manipulation
 sources:
-- title: 'Fortune Crypto: Billionaire Justin Sun''s Investment in Trump''s World Liberty
-    Financial'
+- title: 'Fortune Crypto: Billionaire Justin Sun''s Investment in Trump''s World Liberty Financial'
   url: https://fortune.com/crypto/2024/11/25/trump-world-liberty-financial-crypto-project-30-million-justin-sun-tron/
   outlet: Fortune
   date: '2024-11-25'
@@ -56,9 +49,7 @@ patterns:
 - investment-for-influence
 - regulatory-capture
 - cross-border-financial-manipulation
-notes: Complex financial arrangement involving potential political leverage. SEC investigation
-  pause raises significant conflict of interest questions. Demonstrates intricate
-  financial networks surrounding Trump's cryptocurrency initiatives.
+notes: Complex financial arrangement involving potential political leverage. SEC investigation pause raises significant conflict of interest questions. Demonstrates intricate financial networks surrounding Trump's cryptocurrency initiatives.
 status: confirmed
 financial_details:
   total_investment: $75 million

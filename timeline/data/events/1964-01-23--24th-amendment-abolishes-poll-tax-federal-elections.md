@@ -5,7 +5,7 @@ title: 24th Amendment Ratified Abolishing Poll Tax in Federal Elections After De
 importance: 7
 actors:
 - U.S. Congress
-- State legislatures
+- State Legislatures
 - Civil rights movement
 tags:
 - voting-rights

@@ -5,7 +5,7 @@ date: '2025-04-30'
 importance: 8
 location: Washington DC
 actors:
-- Federal Election Commission (FEC)
+- Federal Election Commission
 - Commissioner Allen Dickerson (resigned)
 - Commissioner Ellen Weintraub (fired by Trump)
 - Commissioner Sean Cooksey (resigned)
@@ -22,16 +22,11 @@ tags:
 capture_lanes:
 - Corporate Capture & Regulatory Breakdown
 citations:
-- 'Federal News Network — FEC loses quorum after Dickerson resigns (Apr 30, 2025):
-  [Referenced in document]'
+- 'Federal News Network — FEC loses quorum after Dickerson resigns (Apr 30, 2025): [Referenced in document]'
 - Multiple outlets and law firms note enforcement shutdown following quorum loss
-notes: Issue One noted "Without a quorum, the FEC is a watchdog without a bark or
-  bite." Trump had not announced any appointments as of April 30, leaving campaign
-  finance enforcement completely paralyzed. The FEC's last action before shutdown
-  was fining Rep. Maxine Waters.
+notes: Issue One noted "Without a quorum, the FEC is a watchdog without a bark or bite." Trump had not announced any appointments as of April 30, leaving campaign finance enforcement completely paralyzed. The FEC's last action before shutdown was fining Rep. Maxine Waters.
 sources:
-- title: Election watchdog loses its enforcement powers as Trump seeks to exert more
-    control
+- title: Election watchdog loses its enforcement powers as Trump seeks to exert more control
   url: https://www.cnn.com/2025/04/30/politics/federal-election-commissions-resignations-quorum/index.html
   outlet: CNN Politics
   date: '2025-04-30'

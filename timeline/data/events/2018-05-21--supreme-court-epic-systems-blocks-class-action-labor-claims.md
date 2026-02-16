@@ -4,7 +4,7 @@ date: '2018-05-21'
 title: 'Epic Systems v. Lewis: Supreme Court Allows Mandatory Arbitration Blocking Class Action Labor Claims'
 importance: 8
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Neil Gorsuch
 - Federalist Society
 - Corporate employers

@@ -2,17 +2,14 @@
 id: 2019-03-05--t-mobile-spending-trump-hotel-merger-review
 date: '2019-03-05'
 importance: 8
-title: During Sprint merger review, T-Mobile executives spent ~$195,000 at Trump's
-  D.C. hotel
-notes: Use company letter figures reported by Reuters and the Washington Post; note
-  that the FCC/DOJ approvals proceeded separately, but the patronage raised conflict-of-interest
-  concerns.
+title: During Sprint merger review, T-Mobile executives spent ~$195,000 at Trump's D.C. hotel
+notes: Use company letter figures reported by Reuters and the Washington Post; note that the FCC/DOJ approvals proceeded separately, but the patronage raised conflict-of-interest concerns.
 status: confirmed
 actors:
 - T-Mobile US
 - Sprint
 - Trump International Hotel Washington
-- FCC
+- Federal Communications Commission
 - DOJ Antitrust Division
 - Senator Elizabeth Warren
 - Representative Pramila Jayapal
@@ -49,8 +46,7 @@ sources:
   url: https://journals.library.columbia.edu/index.php/CBLR/announcement/view/286
   outlet: Columbia Business Law Review
   date: '2020-02-01'
-  description: Academic analysis of regulatory review process and antitrust considerations
-    for the T-Mobile Sprint merger
+  description: Academic analysis of regulatory review process and antitrust considerations for the T-Mobile Sprint merger
 ---
 
 While seeking federal approval of the T-Mobile–Sprint merger, T-Mobile executives sharply increased spending at Trump International Hotel in Washington—about $195,000 on rooms, meeting space, and services—according to company letters and reporting. The company said the stays did not affect the merger's review. T-Mobile executives began extensively patronizing the Trump Hotel immediately after announcing their merger with Sprint, raising significant conflicts of interest concerns that prompted congressional investigation and oversight.

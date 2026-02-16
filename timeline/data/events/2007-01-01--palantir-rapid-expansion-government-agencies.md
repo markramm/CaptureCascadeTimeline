@@ -8,7 +8,7 @@ actors:
 - Palantir Technologies
 - Federal Bureau of Investigation
 - National Security Agency
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Securities and Exchange Commission
 tags:
 - palantir

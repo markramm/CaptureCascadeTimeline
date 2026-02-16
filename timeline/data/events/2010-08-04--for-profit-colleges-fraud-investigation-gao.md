@@ -9,7 +9,7 @@ tags:
 - fraud
 - regulatory-capture
 actors:
-- Government Accountability Office
+- U.S. Government Accountability Office
 - Tom Harkin
 sources:
 - url: https://www.gao.gov/products/gao-10-948t

@@ -9,10 +9,10 @@ tags:
 - regulatory-capture
 - consumer-harm
 actors:
-- FTC
+- Federal Trade Commission
 - Lina Khan
 - Trump Appointees
-- tech companies
+- Tech companies
 sources:
 - url: https://www.wired.com/story/ftc-deletes-consumer-protection-ai-guidance/
   title: FTC Erases Consumer Protection Guidance on AI

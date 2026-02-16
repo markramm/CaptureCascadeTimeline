@@ -7,7 +7,7 @@ importance: 8
 actors:
 - Russell Vought
 - Office of Management and Budget
-- DOGE
+- Department of Government Efficiency
 - Elon Musk
 tags:
 - doge

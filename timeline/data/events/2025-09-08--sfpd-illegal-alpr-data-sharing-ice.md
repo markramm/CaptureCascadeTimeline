@@ -5,10 +5,10 @@ title: San Francisco Police Allowed 1.6 Million Illegal License Plate Searches b
 importance: 8
 actors:
 - San Francisco Police Department
-- Immigration and Customs Enforcement
+- U.S. Immigration and Customs Enforcement
 - Flock Safety
 - Electronic Frontier Foundation
-- ACLU
+- American Civil Liberties Union
 sources:
 - title: SFPD let Georgia, Texas cops illegally search city surveillance data on behalf of ICE
   url: https://sfstandard.com/2025/09/08/sfpd-flock-alpr-ice-data-sharing/

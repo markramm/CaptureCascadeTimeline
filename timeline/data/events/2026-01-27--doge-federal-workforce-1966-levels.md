@@ -5,7 +5,7 @@ status: confirmed
 title: Federal Employment Hits Lowest Level Since 1966 as DOGE Reductions Take Hold
 importance: 7
 actors:
-- DOGE
+- Department of Government Efficiency
 - Office of Personnel Management
 - Elon Musk
 - Scott Kupor

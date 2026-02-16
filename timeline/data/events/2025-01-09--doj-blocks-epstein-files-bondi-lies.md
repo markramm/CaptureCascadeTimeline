@@ -8,7 +8,7 @@ actors:
 - Department of Justice
 - Pam Bondi
 - Jeffrey Epstein Estate
-- US Intelligence (unnamed)
+- US Intelligence
 tags:
 - epstein-network
 - doj-obstruction

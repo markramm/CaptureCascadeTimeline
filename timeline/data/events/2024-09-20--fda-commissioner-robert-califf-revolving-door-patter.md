@@ -12,7 +12,7 @@ tags:
 - government-ethics
 actors:
 - Robert Califf
-- FDA
+- Food and Drug Administration
 - Verily Life Sciences
 - Joe Manchin
 - Bernie Sanders

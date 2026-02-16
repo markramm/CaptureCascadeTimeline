@@ -2,15 +2,14 @@
 id: 2025-01-20--coristine-appointed-doge-despite-security-risks
 date: '2025-01-20'
 importance: 9
-title: Ed Coristine, 19, given access to critical government systems despite cybercrime
-  links
+title: Ed Coristine, 19, given access to critical government systems despite cybercrime links
 actors:
 - Edward Coristine
 - Elon Musk
-- DOGE
+- Department of Government Efficiency
 - State Department
 - CISA
-- OPM
+- Office of Personnel Management
 tags:
 - security-clearance
 - cybersecurity
@@ -31,8 +30,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Edward_Coristine
   outlet: Wikipedia
   date: '2025-08-01'
-notes: 'Coristine reported directly to Amanda Scales, former xAI employee appointed
-  as OPM chief
+notes: 'Coristine reported directly to Amanda Scales, former xAI employee appointed as OPM chief
 
   of staff. Was among youngest DOGE members without prior government experience. Given
 

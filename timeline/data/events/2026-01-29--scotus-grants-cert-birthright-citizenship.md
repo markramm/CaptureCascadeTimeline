@@ -5,7 +5,7 @@ status: confirmed
 title: Supreme Court to Hear Birthright Citizenship Challenge in April
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Donald Trump
 - American Civil Liberties Union
 - D. John Sauer

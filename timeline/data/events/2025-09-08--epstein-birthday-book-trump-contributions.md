@@ -16,7 +16,7 @@ actors:
 - Ghislaine Maxwell
 - Joel Pashcow
 - James Comer
-- House Oversight Committee
+- U.S. House Oversight Committee
 - Bill Clinton
 - Alan Dershowitz
 - Leslie Wexner

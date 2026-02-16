@@ -6,7 +6,7 @@ title: MVM Inc. detains mother and infant at O'Hare Sonesta hotel for five days
 location: Chicago IL, Atlanta GA, Los Angeles CA
 actors:
 - MVM Inc.
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Sonesta Hotels
 - Valentina Galvis
 - JoAnna Granado (MVM employee)

@@ -15,7 +15,7 @@ actors:
 - Jimmy Kimmel
 - ABC
 - Disney
-- FCC
+- Federal Communications Commission
 - Donald Trump
 sources:
 - title: ABC yanks Jimmy Kimmel's show 'indefinitely' after threat from Trump's FCC chair Brendan Carr

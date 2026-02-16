@@ -5,10 +5,10 @@ status: confirmed
 title: Congress Passes Bipartisan HHS Funding Bill Blocking RFK Jr.'s Proposed 25% Budget Cuts
 importance: 7
 actors:
-- Congress
+- U.S. Congress
 - Donald Trump
 - Robert F. Kennedy Jr.
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - healthcare
 - legislative-process

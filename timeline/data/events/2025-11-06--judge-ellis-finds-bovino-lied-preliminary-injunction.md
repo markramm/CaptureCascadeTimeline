@@ -19,11 +19,11 @@ tags:
 actors:
 - Judge Sara Ellis
 - Gregory Bovino
-- Department of Homeland Security
-- CBP
-- ICE
+- U.S. Department of Homeland Security
+- U.S. Customs and Border Protection
+- Immigration and Customs Enforcement (ICE)
 - Chicago Headline Club
-- journalists
+- Journalists
 - protesters
 sources:
 - title: Federal judge says Border Patrol Chief Gregory Bovino admitted he lied, in ruling limiting federal agents' use of force in Chicago

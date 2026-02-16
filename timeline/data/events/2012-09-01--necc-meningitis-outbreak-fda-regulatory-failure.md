@@ -34,10 +34,10 @@ sources:
 actors:
 - New England Compounding Center
 - Barry Cadden
-- FDA
+- Food and Drug Administration
 - Massachusetts Board of Pharmacy
-- CDC
-- Congress
+- Centers for Disease Control and Prevention
+- U.S. Congress
 status: confirmed
 ---
 

@@ -5,7 +5,7 @@ title: Pro Bono Legal Support Coordination Mechanism Launched
 importance: 8
 actors:
 - Democracy 2025
-- ACLU
+- American Civil Liberties Union
 - Institute for Justice
 - New Civil Liberties Alliance
 - Lawyers for Good Government

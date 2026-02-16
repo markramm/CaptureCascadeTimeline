@@ -6,8 +6,8 @@ importance: 9
 status: confirmed
 actors:
 - National Bureau of Economic Research
-- Private Equity Firms
-- Centers for Medicare and Medicaid Services
+- Private equity firms
+- Centers for Medicare & Medicaid Services
 tags:
 - healthcare
 - nursing-home

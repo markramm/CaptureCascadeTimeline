@@ -9,7 +9,7 @@ actors:
 - SpaceX
 - Tesla
 - Starlink
-- DOGE
+- Department of Government Efficiency
 tags:
 - self-dealing
 - government-contracts

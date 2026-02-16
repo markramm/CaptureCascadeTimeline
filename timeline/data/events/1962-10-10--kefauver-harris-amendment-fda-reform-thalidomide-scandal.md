@@ -4,40 +4,40 @@ date: '1962-10-10'
 title: Thalidomide Scandal Drives Kefauver-Harris Amendment Strengthening FDA Drug Safety Requirements
 importance: 8
 actors:
-  - Senator Estes Kefauver
-  - Representative Oren Harris
-  - President John F. Kennedy
-  - Frances Kelsey
-  - Richardson-Merrell
-  - FDA
+- Senator Estes Kefauver
+- Representative Oren Harris
+- President John F. Kennedy
+- Frances Kelsey
+- Richardson-Merrell
+- Food and Drug Administration
 tags:
-  - regulatory-reform
-  - pharmaceutical-industry
-  - public-health
-  - corporate-lobbying
-  - fda
+- regulatory-reform
+- pharmaceutical-industry
+- public-health
+- corporate-lobbying
+- fda
 sources:
-  - title: "Kefauver-Harris Amendment Revolutionized Drug Development"
-    url: "https://www.fda.gov/about-fda/fda-history-exhibits/kefauver-harris-amendment-revolutionized-drug-development"
-    outlet: "Food and Drug Administration"
-    date: 2020-09-10
-    verified: true
-    tier: 1
-  - title: "Frances Oldham Kelsey: FDA Medical Reviewer Leaves Her Mark on History"
-    url: "https://www.fda.gov/about-fda/virtual-exhibits-fda-history/frances-oldham-kelsey-fda-medical-reviewer-leaves-her-mark-history"
-    outlet: "Food and Drug Administration"
-    date: 2021-02-01
-    verified: true
-    tier: 1
-  - title: "The Thalidomide Tragedy: Lessons for Drug Safety and Regulation"
-    url: "https://helix.northwestern.edu/article/thalidomide-tragedy-lessons-drug-safety-and-regulation"
-    outlet: "Northwestern University Helix Magazine"
-    date: 2009-07-28
-    verified: true
-    tier: 2
+- title: Kefauver-Harris Amendment Revolutionized Drug Development
+  url: https://www.fda.gov/about-fda/fda-history-exhibits/kefauver-harris-amendment-revolutionized-drug-development
+  outlet: Food and Drug Administration
+  date: 2020-09-10
+  verified: true
+  tier: 1
+- title: 'Frances Oldham Kelsey: FDA Medical Reviewer Leaves Her Mark on History'
+  url: https://www.fda.gov/about-fda/virtual-exhibits-fda-history/frances-oldham-kelsey-fda-medical-reviewer-leaves-her-mark-history
+  outlet: Food and Drug Administration
+  date: 2021-02-01
+  verified: true
+  tier: 1
+- title: 'The Thalidomide Tragedy: Lessons for Drug Safety and Regulation'
+  url: https://helix.northwestern.edu/article/thalidomide-tragedy-lessons-drug-safety-and-regulation
+  outlet: Northwestern University Helix Magazine
+  date: 2009-07-28
+  verified: true
+  tier: 2
 capture_lanes:
-  - Regulatory Reform
-  - Public Health Protection
+- Regulatory Reform
+- Public Health Protection
 status: confirmed
 ---
 

@@ -1,11 +1,10 @@
 ---
 id: 2025-06-30--senate-passes-4-5-trillion-tax-cuts-medicaid-gutted
 date: '2025-06-30'
-title: Senate Passes $4.5 Trillion Tax Cuts with $1 Trillion Medicaid Cuts, 12 Million
-  to Lose Insurance
+title: Senate Passes $4.5 Trillion Tax Cuts with $1 Trillion Medicaid Cuts, 12 Million to Lose Insurance
 importance: 9
 actors:
-- Senate
+- United States Senate
 - J.D. Vance
 - Ron Wyden
 - Congressional Budget Office
@@ -20,8 +19,7 @@ sources:
   url: https://www.npr.org/2025/07/01/nx-s1-5450367/senate-republicans-trump-tax-bill-medicaid
   outlet: NPR
   tier: 1
-- title: Senate Reconciliation Amendment Would Cut Hundreds of Billions More From
-    Medicaid
+- title: Senate Reconciliation Amendment Would Cut Hundreds of Billions More From Medicaid
   url: https://www.cbpp.org/research/medicaid-and-chip/senate-reconciliation-amendment-would-cut-hundreds-of-billions-more-from
   outlet: Center on Budget and Policy Priorities
   tier: 2
@@ -33,13 +31,11 @@ sources:
   url: https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics
   outlet: ProPublica
   date: '2025-06-30'
-- title: ProPublica Investigation Finds Kristi Noem Secretly Took a Cut of Political
-    Donations
+- title: ProPublica Investigation Finds Kristi Noem Secretly Took a Cut of Political Donations
   url: https://www.democracynow.org/2025/7/1/headlines/propublica_investigation_finds_kristi_noem_secretly_took_a_cut_of_political_donations
   outlet: Democracy Now!
   date: '2025-07-01'
-- title: 'Kristi Noem secretly accepted huge sum of money from mystery donor - then
-    failed to declare it: report'
+- title: 'Kristi Noem secretly accepted huge sum of money from mystery donor - then failed to declare it: report'
   url: https://www.yahoo.com/news/kristi-noem-secretly-accepted-huge-152942068.html
   outlet: Yahoo News
   date: '2025-07-01'
@@ -47,8 +43,7 @@ sources:
   url: https://www.thedailybeast.com/kristi-noem-accused-of-secretly-taking-a-cut-of-political-donations/
   outlet: The Daily Beast
   date: '2025-07-02'
-- title: 'Federal Courts in Crisis: Accountability and Oversight in the 2025 Constitutional
-    Debate'
+- title: 'Federal Courts in Crisis: Accountability and Oversight in the 2025 Constitutional Debate'
   outlet: Brandeis University Heller School
   url: https://www.brandeis.edu/stories/2025/june/anita-hill-judiciary.html
   date: '2025-06-15'
@@ -72,8 +67,7 @@ sources:
   title: Judicial Conference of the United States 2025 Index
   url: https://www.federalregister.gov/index/2025/judicial-conference-of-the-united-states
   date_accessed: '2025-10-06'
-- title: U.S. Election Assistance Commission Releases 2024 Election Administration
-    and Voting Survey (EAVS) Report
+- title: U.S. Election Assistance Commission Releases 2024 Election Administration and Voting Survey (EAVS) Report
   url: https://www.eac.gov/news/2025/06/30/us-election-assistance-commission-releases-2024-election-administration-and-voting
   outlet: U.S. Election Assistance Commission
   date: '2025-06-30'
@@ -85,8 +79,7 @@ sources:
   url: https://www.eac.gov/june-2025-eac-monthly-updates-and-events
   outlet: U.S. Election Assistance Commission
   date: '2025-06-01'
-- title: 'Agency Information Collection Activities: 2024 Election Administration and
-    Voting Survey'
+- title: 'Agency Information Collection Activities: 2024 Election Administration and Voting Survey'
   url: https://www.federalregister.gov/documents/2024/03/04/2024-04401/agency-information-collection-activities-2024-election-administration-and-voting-survey
   outlet: Federal Register
   date: '2024-03-04'

@@ -9,7 +9,7 @@ actors:
 - J.P. Morgan Jr.
 - Pierre du Pont
 - munitions manufacturers
-- banking interests
+- Banking interests
 tags:
 - war-profiteering
 - corporate-corruption

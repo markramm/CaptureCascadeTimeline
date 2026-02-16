@@ -7,7 +7,7 @@ location: United States
 actors:
 - Federal Emergency Management Agency (FEMA)
 - Kristi Noem
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - disaster-relief
 - fema-restructuring

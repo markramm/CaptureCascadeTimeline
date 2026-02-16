@@ -7,7 +7,7 @@ actors:
 - Ford Motor Company
 - Henry Ford
 - Charles Sorensen
-- War Department
+- U.S. War Department
 - Defense Plant Corporation
 tags:
 - war-profiteering

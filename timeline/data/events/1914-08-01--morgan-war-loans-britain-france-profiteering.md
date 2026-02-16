@@ -6,7 +6,7 @@ importance: 8
 actors:
 - JP Morgan & Co.
 - British Government
-- French Government
+- French government
 - Thomas Lamont
 - President Woodrow Wilson
 - Secretary of State William Jennings Bryan

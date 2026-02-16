@@ -9,7 +9,7 @@ actors:
 - U.S. Army Western Defense Command
 - John L. DeWitt
 - Milton Eisenhower
-- War Department
+- U.S. War Department
 tags:
 - civil-liberties
 - racial-discrimination

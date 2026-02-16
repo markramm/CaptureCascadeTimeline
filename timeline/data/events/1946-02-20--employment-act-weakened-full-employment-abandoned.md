@@ -4,7 +4,7 @@ date: '1946-02-20'
 title: Employment Act of 1946 Gutted, Full Employment Guarantee Abandoned
 importance: 8
 actors:
-- Congress
+- U.S. Congress
 - Harry Truman
 - National Association of Manufacturers
 - U.S. Chamber of Commerce

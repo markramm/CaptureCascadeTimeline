@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Matt Bevin
 - Kentucky Legislature
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - Kentucky House Committee
 tags:
 - labor-suppression

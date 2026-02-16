@@ -5,7 +5,7 @@ importance: 8
 actors:
 - Bill Clinton
 - Joe Biden
-- Congress
+- U.S. Congress
 tags:
 - mass-incarceration
 - criminal-justice

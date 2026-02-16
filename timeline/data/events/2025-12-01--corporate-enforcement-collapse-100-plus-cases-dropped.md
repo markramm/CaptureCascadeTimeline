@@ -1,14 +1,13 @@
 ---
 id: 2025-12-01--corporate-enforcement-collapse-100-plus-cases-dropped
 date: '2025-12-01'
-title: Trump Administration Drops 100+ Corporate Enforcement Actions, Penalties Fall
-  97 Percent
+title: Trump Administration Drops 100+ Corporate Enforcement Actions, Penalties Fall 97 Percent
 importance: 9
 actors:
 - Trump Administration
 - Department of Justice
 - Securities and Exchange Commission (SEC)
-- Federal Trade Commission (FTC)
+- Federal Trade Commission
 tags:
 - corporate-impunity
 - regulatory-capture
@@ -32,8 +31,7 @@ sources:
   url: https://www.cnn.com/2025/12/02/politics/juan-orlando-hernandez-pardon
   outlet: CNN
   tier: 1
-- title: Examining Trumps Pardon of Former Honduran President Convicted of Trafficking
-    Drugs to US
+- title: Examining Trumps Pardon of Former Honduran President Convicted of Trafficking Drugs to US
   url: https://www.factcheck.org/2025/12/examining-trumps-pardon-of-former-honduran-president-convicted-of-trafficking-drugs-to-u-s/
   outlet: FactCheck.org
   tier: 1

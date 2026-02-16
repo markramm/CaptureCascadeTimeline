@@ -4,7 +4,7 @@ date: '2025-05-07'
 title: Supreme Court Confronts Systemic Emoluments Violations
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Department of Justice
 - Executive Branch
 sources:

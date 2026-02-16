@@ -5,7 +5,7 @@ importance: 8
 actors:
 - Bill Clinton
 - U.S. Forest Service
-- Timber Industry
+- Timber industry
 - Mining Industry
 tags:
 - environment

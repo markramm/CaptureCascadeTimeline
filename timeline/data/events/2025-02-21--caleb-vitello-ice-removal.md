@@ -6,9 +6,9 @@ title: Acting ICE Director Vitello removed for failing to meet impossible deport
 location: Washington, D.C.
 actors:
 - Caleb Vitello
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Donald Trump
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - personnel-purges
 - impossible-quotas

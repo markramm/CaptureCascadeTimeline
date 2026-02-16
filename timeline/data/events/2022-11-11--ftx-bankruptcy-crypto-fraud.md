@@ -10,7 +10,7 @@ actors:
 - Alameda Research
 - Changpeng Zhao
 - Binance
-- SEC
+- Securities and Exchange Commission
 - CFTC
 tags:
 - corruption

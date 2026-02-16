@@ -4,14 +4,13 @@ date: '2025-01-20'
 title: Emergence of Coordinated Legal Resistance Networks
 importance: 8
 actors:
-- ACLU
+- American Civil Liberties Union
 - Lawyers' Committee for Civil Rights
 - Pro Bono Litigation Corps
 - Chicago Lawyers' Committee for Civil Rights
 - New Civil Liberties Alliance
 sources:
-- title: 'Introducing the Pro Bono Litigation Corps: A New Force in the Fight for
-    Justice'
+- title: 'Introducing the Pro Bono Litigation Corps: A New Force in the Fight for Justice'
   url: https://www.lawyersforgoodgovernment.org/blog/2025/7/21/introducing-the-pro-bono-litigation-corps-a-new-force-in-the-fight-for-justice
   outlet: Lawyers for Good Government
 - title: Pro Bono | Civil Rights Litigation in 2025

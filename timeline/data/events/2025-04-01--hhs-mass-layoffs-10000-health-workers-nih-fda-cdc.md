@@ -4,11 +4,11 @@ date: '2025-04-01'
 title: HHS Lays Off 10,000 Federal Health Workers at NIH, FDA, and CDC in RFK Jr. Restructuring
 importance: 9
 actors:
-- Department of Health and Human Services (HHS)
+- U.S. Department of Health and Human Services
 - Robert F. Kennedy Jr.
 - National Institutes of Health (NIH)
-- Food and Drug Administration (FDA)
-- Centers for Disease Control and Prevention (CDC)
+- Food and Drug Administration
+- Centers for Disease Control and Prevention
 tags:
 - public-health
 - institutional-dismantling

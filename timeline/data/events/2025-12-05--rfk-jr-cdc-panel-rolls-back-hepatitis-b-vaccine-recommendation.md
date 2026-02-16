@@ -12,8 +12,8 @@ tags:
 - regulatory-capture
 actors:
 - Robert F. Kennedy Jr.
-- CDC
-- ACIP
+- Centers for Disease Control and Prevention
+- Advisory Committee on Immunization Practices
 - Donald Trump
 - Bill Cassidy
 sources:

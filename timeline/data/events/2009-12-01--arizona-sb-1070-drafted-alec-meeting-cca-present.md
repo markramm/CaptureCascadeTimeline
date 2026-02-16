@@ -5,8 +5,8 @@ title: Arizona SB 1070 Immigration Law Drafted at ALEC Meeting with CCA Executiv
 importance: 10
 status: confirmed
 actors:
-- ALEC
-- Corrections Corporation of America (CCA)
+- American Legislative Exchange Council
+- Corrections Corporation of America
 - Russell Pearce
 - Jan Brewer
 - GEO Group

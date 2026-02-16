@@ -4,7 +4,7 @@ date: '2014-06-25'
 title: Supreme Court Rules Warrantless Cell Phone Searches Unconstitutional in Riley v. California
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - John Roberts
 tags:
 - fourth-amendment

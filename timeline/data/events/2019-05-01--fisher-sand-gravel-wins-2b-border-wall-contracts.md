@@ -9,7 +9,7 @@ actors:
 - Donald Trump
 - Kevin Cramer
 - Fox News
-- Army Corps of Engineers
+- U.S. Army Corps of Engineers
 tags:
 - border-wall
 - no-bid-contracts

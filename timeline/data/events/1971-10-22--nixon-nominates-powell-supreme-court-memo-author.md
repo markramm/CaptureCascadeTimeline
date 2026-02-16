@@ -1,8 +1,7 @@
 ---
 id: 1971-10-22--nixon-nominates-powell-supreme-court-memo-author
 date: '1971-10-22'
-title: Nixon Nominates Lewis Powell to Supreme Court Two Months After Corporate Blueprint
-  Memo
+title: Nixon Nominates Lewis Powell to Supreme Court Two Months After Corporate Blueprint Memo
 importance: 10
 location: Washington, D.C.
 actors:
@@ -10,7 +9,7 @@ actors:
 - Lewis F. Powell Jr.
 - John Mitchell
 - U.S. Chamber of Commerce
-- Supreme Court
+- U.S. Supreme Court
 tags:
 - powell-memo
 - supreme-court-nomination
@@ -30,8 +29,7 @@ sources:
   - Nixon nominated Powell on October 22, 1971
   - Nomination came two months after Powell memo dated August 23, 1971
   - Memo remained confidential during confirmation hearings
-- title: Address to the Nation Announcing Intention To Nominate Lewis F. Powell, Jr.,
-    and William H. Rehnquist To Be Associate Justices
+- title: Address to the Nation Announcing Intention To Nominate Lewis F. Powell, Jr., and William H. Rehnquist To Be Associate Justices
   url: https://www.presidency.ucsb.edu/documents/address-the-nation-announcing-intention-nominate-lewis-f-powell-jr-and-william-h-rehnquist
   outlet: The American Presidency Project, University of California Santa Barbara
   verified: true
@@ -39,8 +37,7 @@ sources:
   - Precise nomination details from primary source
   - Context of Nixon's Supreme Court nominations
   - Historical documentation of nomination process
-- title: 'On This Day: William Rehnquist and Lewis Powell Confirmed as Associate Justices
-    of the Supreme Court'
+- title: 'On This Day: William Rehnquist and Lewis Powell Confirmed as Associate Justices of the Supreme Court'
   url: https://blog.nixonfoundation.org/2014/12/day-william-reihnquist-lewis-powell-confirmed-associate-justices-supreme-court/
   outlet: Nixon Foundation
   verified: true

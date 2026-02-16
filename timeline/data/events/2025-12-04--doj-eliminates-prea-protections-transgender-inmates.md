@@ -3,10 +3,10 @@ actors:
 - Department of Justice
 - Bureau of Justice Assistance
 - Bureau of Prisons
-- ACLU
+- American Civil Liberties Union
 - Just Detention International
 - PREA auditors
-- Trump administration
+- Trump Administration
 date: '2025-12-04'
 id: 2025-12-04--doj-eliminates-prea-protections-transgender-inmates
 importance: 9

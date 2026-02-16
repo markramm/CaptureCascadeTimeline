@@ -4,7 +4,7 @@ date: '1976-01-30'
 title: Supreme Court Rules Money Is Speech in Buckley v. Valeo
 importance: 10
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Lewis F. Powell Jr.
 - James Buckley
 - Eugene McCarthy

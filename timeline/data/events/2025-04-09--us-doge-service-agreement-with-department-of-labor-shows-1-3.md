@@ -9,7 +9,7 @@ location: Washington, D.C.
 actors:
 - Elon Musk
 - Donald Trump
-- Department of Labor
+- U.S. Department of Labor
 - US Digital Service (USDS)
 tags:
 - regulatory-capture

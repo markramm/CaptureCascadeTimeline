@@ -34,14 +34,14 @@ sources:
   outlet: Fierce Pharma
 actors:
 - Johns Hopkins University
-- FDA
+- Food and Drug Administration
 - AbbVie
 - Roche
 - Johnson & Johnson
 - Celgene
 - AstraZeneca
 - Big Pharma
-- Congress
+- U.S. Congress
 status: confirmed
 ---
 

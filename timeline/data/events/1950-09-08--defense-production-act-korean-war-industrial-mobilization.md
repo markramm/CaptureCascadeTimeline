@@ -9,7 +9,7 @@ actors:
 - Boeing
 - Lockheed
 - General Electric
-- Congress
+- U.S. Congress
 tags:
 - military-industrial-complex
 - defense-spending

@@ -29,7 +29,7 @@ sources:
 actors:
 - Heritage Foundation
 - American Enterprise Institute
-- Koch Brothers
+- Koch brothers
 - General Electric
 - Facebook
 - Google

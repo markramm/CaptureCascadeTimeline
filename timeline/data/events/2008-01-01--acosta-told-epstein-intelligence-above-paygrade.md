@@ -2,13 +2,12 @@
 id: 2008-01-01--acosta-told-epstein-intelligence-above-paygrade
 date: '2008-01-01'
 importance: 10
-title: 'Report: Acosta told Trump transition Epstein ''belonged to intelligence''
-  (unconfirmed)'
+title: 'Report: Acosta told Trump transition Epstein ''belonged to intelligence'' (unconfirmed)'
 location: Florida
 actors:
 - Alexander Acosta
 - Jeffrey Epstein
-- US Intelligence (unnamed)
+- US Intelligence
 - Department of Justice
 tags:
 - epstein-intelligence
@@ -34,11 +33,7 @@ sources:
   url: https://whowhatwhy.org/politics/government-integrity/jeffrey-epstein-belonged-to-intelligence/
   outlet: WhoWhatWhy
   date: '2019-10-04'
-notes: Treat this as a reported claim, not established fact. The quotation originates
-  with Vicky Ward's Daily Beast reporting; it has been widely re-circulated but not
-  officially corroborated. For context on the 2007 NPA and subsequent scrutiny of
-  Acosta's decisions, see DOJ OPR's 2020 report and the Miami Herald's 'Perversion
-  of Justice' series.
+notes: Treat this as a reported claim, not established fact. The quotation originates with Vicky Ward's Daily Beast reporting; it has been widely re-circulated but not officially corroborated. For context on the 2007 NPA and subsequent scrutiny of Acosta's decisions, see DOJ OPR's 2020 report and the Miami Herald's 'Perversion of Justice' series.
 status: reported
 capture_lanes:
 - Regulatory Capture

@@ -7,7 +7,7 @@ location: Washington, DC
 actors:
 - David Sacks
 - White House
-- David Warrington (White House Counsel)
+- David Warrington
 - Sen. Elizabeth Warren
 - Craft Ventures
 - Office of Government Ethics
@@ -28,20 +28,15 @@ sources:
   url: https://jacobin.com/2025/03/crypto-ai-czar-ethics-trump
   outlet: Jacobin
   date: '2025-03-07'
-- title: David Sacks sold $200 million in crypto-related holdings before taking White
-    House job, ethics memo says
+- title: David Sacks sold $200 million in crypto-related holdings before taking White House job, ethics memo says
   url: https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html
   outlet: CNBC
   date: '2025-03-14'
-- title: Ahead of Trump Crypto Fundraiser, Warren Questions Government Ethics Agency
-    on Crypto Czar David Sacks Conflicts of Interest
+- title: Ahead of Trump Crypto Fundraiser, Warren Questions Government Ethics Agency on Crypto Czar David Sacks Conflicts of Interest
   url: https://www.banking.senate.gov/newsroom/minority/ahead-of-trump-crypto-fundraiser-warren-questions-government-ethics-agency-on-crypto-czar-david-sacks-conflicts-of-interest
   outlet: U.S. Senate Banking Committee
   date: '2025-03-06'
-notes: White House counsel memo dated March 5 waived conflicts "regarding particular
-  matters of general applicability concerning the digital asset industry"; Warren
-  noted Sacks "simultaneously leads a firm invested in crypto while guiding the nation's
-  crypto policy"
+notes: White House counsel memo dated March 5 waived conflicts "regarding particular matters of general applicability concerning the digital asset industry"; Warren noted Sacks "simultaneously leads a firm invested in crypto while guiding the nation's crypto policy"
 status: confirmed
 validation_metadata:
   last_corrected: '2025-09-16T19:13:55.585318'

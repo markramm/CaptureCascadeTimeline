@@ -4,7 +4,7 @@ date: '2025-07-14'
 title: Supreme Court 6-3 Stay Authorizes Mass Federal Workforce Reductions at 22 Agencies
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Trump Administration
 - American Federation of Government Employees
 tags:
@@ -34,8 +34,7 @@ sources:
   title: Pam Bondi ousts ethics watchdog amid DOJ purge
   url: https://www.axios.com/2025/07/14/pam-bondi-fires-ethics-chief-doj-purge
 - outlet: Fortune
-  title: Elon Musk spent months slashing federal contracts — Now his AI company is
-    celebrating a $200M Pentagon contract
+  title: Elon Musk spent months slashing federal contracts — Now his AI company is celebrating a $200M Pentagon contract
   date: '2025-07-14'
   url: https://fortune.com/2025/07/14/elon-musk-doge-cuts-federal-contracts-xai-grok-for-government-200-million-contract-defense-department/
 - outlet: Newsweek

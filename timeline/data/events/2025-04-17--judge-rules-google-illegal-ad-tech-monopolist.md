@@ -8,7 +8,7 @@ actors:
 - Department of Justice
 - Google
 - Sundar Pichai
-- 8 State Attorneys General
+- 8 state Attorneys General
 sources:
 - title: Department of Justice Prevails in Landmark Antitrust Case Against Google
   url: https://www.justice.gov/opa/pr/department-justice-prevails-landmark-antitrust-case-against-google

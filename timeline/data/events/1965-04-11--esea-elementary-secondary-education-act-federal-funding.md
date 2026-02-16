@@ -5,7 +5,7 @@ title: Elementary and Secondary Education Act Establishes Federal Role in Educat
 importance: 8
 actors:
 - President Lyndon B. Johnson
-- Congress
+- U.S. Congress
 - National Education Association
 tags:
 - education
@@ -14,17 +14,17 @@ tags:
 - federal-funding
 - poverty
 sources:
-- title: "Elementary and Secondary Education Act of 1965"
+- title: Elementary and Secondary Education Act of 1965
   url: https://www.congress.gov/bill/89th-congress/house-bill/2362
   outlet: Congress.gov
   date: '1965-04-11'
   tier: 1
-- title: "ESEA at 50: A History of the Elementary and Secondary Education Act"
+- title: 'ESEA at 50: A History of the Elementary and Secondary Education Act'
   url: https://www.aei.org/research-products/report/esea-at-50/
   outlet: American Enterprise Institute
   date: '2015-04-01'
   tier: 2
-- title: "The History of ESEA"
+- title: The History of ESEA
   url: https://www.nassp.org/top-issues-in-education/position-statements/the-history-of-esea/
   outlet: National Association of Secondary School Principals
   tier: 2

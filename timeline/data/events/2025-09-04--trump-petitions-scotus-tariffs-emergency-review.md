@@ -5,7 +5,7 @@ title: Trump Administration Petitions Supreme Court for Emergency Review of Tari
 importance: 9
 actors:
 - Donald Trump
-- Supreme Court
+- U.S. Supreme Court
 - U.S. Court of Appeals for the Federal Circuit
 - Department of Justice
 tags:

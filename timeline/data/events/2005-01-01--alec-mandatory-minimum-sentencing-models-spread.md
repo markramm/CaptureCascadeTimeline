@@ -5,8 +5,8 @@ title: ALEC Mandatory Minimum Sentencing Models Achieve Nationwide Adoption, Gua
 importance: 8
 status: confirmed
 actors:
-- ALEC
-- Corrections Corporation of America (CCA)
+- American Legislative Exchange Council
+- Corrections Corporation of America
 - GEO Group
 - State Legislators
 - State Prosecutors

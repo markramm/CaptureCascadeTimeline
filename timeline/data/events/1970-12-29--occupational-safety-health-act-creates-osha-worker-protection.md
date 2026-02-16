@@ -4,39 +4,39 @@ date: '1970-12-29'
 title: Occupational Safety and Health Act Creates OSHA After Decades of Industry Opposition to Workplace Safety
 importance: 8
 actors:
-  - President Richard Nixon
-  - U.S. Congress
-  - AFL-CIO
-  - National Association of Manufacturers
-  - Chamber of Commerce
+- President Richard Nixon
+- U.S. Congress
+- AFL-CIO
+- National Association of Manufacturers
+- U.S. Chamber of Commerce
 tags:
-  - worker-rights
-  - regulatory-reform
-  - corporate-lobbying
-  - labor-movement
-  - public-health
+- worker-rights
+- regulatory-reform
+- corporate-lobbying
+- labor-movement
+- public-health
 sources:
-  - title: "OSH Act of 1970"
-    url: "https://www.osha.gov/laws-regs/oshact/completeoshact"
-    outlet: "Occupational Safety and Health Administration"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "OSHA at 50"
-    url: "https://www.osha.gov/osha50"
-    outlet: "Occupational Safety and Health Administration"
-    date: 2021-04-28
-    verified: true
-    tier: 1
-  - title: "The History of OSHA"
-    url: "https://www.dol.gov/general/aboutdol/history/mono-regosha"
-    outlet: "Department of Labor"
-    date: 2024-01-15
-    verified: true
-    tier: 1
+- title: OSH Act of 1970
+  url: https://www.osha.gov/laws-regs/oshact/completeoshact
+  outlet: Occupational Safety and Health Administration
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: OSHA at 50
+  url: https://www.osha.gov/osha50
+  outlet: Occupational Safety and Health Administration
+  date: 2021-04-28
+  verified: true
+  tier: 1
+- title: The History of OSHA
+  url: https://www.dol.gov/general/aboutdol/history/mono-regosha
+  outlet: Department of Labor
+  date: 2024-01-15
+  verified: true
+  tier: 1
 capture_lanes:
-  - Regulatory Reform
-  - Worker Protection
+- Regulatory Reform
+- Worker Protection
 status: confirmed
 ---
 

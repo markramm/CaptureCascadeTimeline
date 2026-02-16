@@ -6,7 +6,7 @@ importance: 10
 location: Natanz Nuclear Facility, Iran
 actors:
 - Israeli Defense Forces
-- Iranian Revolutionary Guard
+- Iranian Revolutionary Guard Corps
 - Benjamin Netanyahu
 - Rafael Mariano Grossi
 - Iranian nuclear scientists
@@ -27,8 +27,7 @@ sources:
   url: https://fortune.com/crypto/2025/06/15/trump-crypto-earnings-world-liberty-financial-meme-coin-nft/
   outlet: Fortune
   date: '2025-06-15'
-- title: Trump's financial disclosures reveal tens of millions in income from guitars,
-    Bibles and watches with his name on them
+- title: Trump's financial disclosures reveal tens of millions in income from guitars, Bibles and watches with his name on them
   url: https://www.nbcnews.com/business/business-news/trumps-financial-disclosures-reveal-millions-income-guitars-bibles-wat-rcna212981
   outlet: NBC News
   date: '2025-06-15'
@@ -48,8 +47,7 @@ sources:
   url: https://www.cbsnews.com/news/appeals-court-extends-order-allowing-trump-to-deploy-national-guard-to-l-a/
   outlet: CBS News
   date: '2025-06-13'
-- title: Trump allowed to keep control of National Guard troops deployed to Los Angeles
-    by appeals court
+- title: Trump allowed to keep control of National Guard troops deployed to Los Angeles by appeals court
   url: https://www.pbs.org/newshour/politics/trump-allowed-to-keep-control-of-national-guard-troops-deployed-to-los-angeles-by-appeals-court
   outlet: PBS NewsHour
   date: '2025-06-13'

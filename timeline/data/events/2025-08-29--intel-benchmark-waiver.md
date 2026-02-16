@@ -12,7 +12,7 @@ tags:
 actors:
 - Trump
 - Intel
-- Department of Commerce
+- U.S. Department of Commerce
 sources:
 - url: https://www.cbsnews.com/news/intel-government-stake-benchmark-waiver-chips-act/
   title: Intel Stock Purchase & Waived Benchmarks Despite $11 Billion Federal Support

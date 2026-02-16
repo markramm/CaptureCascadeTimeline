@@ -13,7 +13,7 @@ actors:
 - Minneapolis Federation of Educators
 - Saint Paul Federation of Educators
 - Sunrise Movement
-- ICE
+- Immigration and Customs Enforcement (ICE)
 tags:
 - labor
 - general-strike

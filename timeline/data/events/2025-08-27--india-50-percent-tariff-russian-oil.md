@@ -2,11 +2,7 @@
 id: 2025-08-27--india-50-percent-tariff-russian-oil
 date: '2025-08-27'
 title: US Imposes 50% Tariff on India for Buying Russian Oil, Exempts Apple
-description: Trump adds additional 25% tariff on India (total 50%) explicitly for
-  "directly or indirectly importing Russian Federation oil." Executive order establishes
-  framework to monitor and punish other countries buying Russian energy. Apple products
-  specifically exempted despite being manufactured in India, showing selective corporate
-  favoritism.
+description: Trump adds additional 25% tariff on India (total 50%) explicitly for "directly or indirectly importing Russian Federation oil." Executive order establishes framework to monitor and punish other countries buying Russian energy. Apple products specifically exempted despite being manufactured in India, showing selective corporate favoritism.
 importance: 8
 tags:
 - trade-war
@@ -22,8 +18,8 @@ tags:
 actors:
 - Donald Trump
 - india-government
-- apple-inc
-- russia
+- Apple Inc.
+- Russia
 capture_lane: economic
 status: predicted
 sources:
@@ -47,14 +43,7 @@ patterns:
 - weaponize-rules
 - reward-allies
 - economic-coercion
-notes: 'This tariff weaponizes trade policy to enforce US foreign policy preferences
-  on sovereign nations. India, like many countries, continues buying discounted Russian
-  oil for energy security and economic reasons. The specific exemption for Apple products
-  reveals the corrupt bargain: punishment for nations that defy US geopolitical demands,
-  but protection for US corporations profiting from those same nations. This establishes
-  a framework to economically punish any country maintaining normal trade with Russia,
-  effectively trying to impose US sanctions policy globally through tariffs rather
-  than diplomacy.'
+notes: 'This tariff weaponizes trade policy to enforce US foreign policy preferences on sovereign nations. India, like many countries, continues buying discounted Russian oil for energy security and economic reasons. The specific exemption for Apple products reveals the corrupt bargain: punishment for nations that defy US geopolitical demands, but protection for US corporations profiting from those same nations. This establishes a framework to economically punish any country maintaining normal trade with Russia, effectively trying to impose US sanctions policy globally through tariffs rather than diplomacy.'
 capture_lanes:
 - Financial Capture
 - Executive Power Expansion

@@ -4,7 +4,7 @@ title: Former FDA Commissioner Scott Gottlieb Joins Pfizer Board After 3-Month G
 importance: 8
 actors:
 - Dr. Scott Gottlieb
-- FDA
+- Food and Drug Administration
 - Pfizer
 - Senator Elizabeth Warren
 tags:

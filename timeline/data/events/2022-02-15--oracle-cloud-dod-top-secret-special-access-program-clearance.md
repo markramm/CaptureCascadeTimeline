@@ -13,7 +13,7 @@ tags:
 - classified-information
 actors:
 - Oracle
-- Department of Defense
+- U.S. Department of Defense
 - U.S. Air Force
 - Defense Information Systems Agency
 sources:

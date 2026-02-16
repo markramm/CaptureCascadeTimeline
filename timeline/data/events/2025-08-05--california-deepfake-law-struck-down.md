@@ -6,7 +6,7 @@ importance: 6
 location: California
 actors:
 - Federal Judge
-- X (Twitter)
+- X/Twitter
 - California
 tags:
 - deepfake-regulation
@@ -15,12 +15,8 @@ tags:
 - court-ruling
 - political-content
 citations:
-- 'Referenced in document: Federal judge strikes down key parts of California''s deepfake
-  laws (X/others backed challenge) (Aug 5, 2025)'
-notes: AB 2655 (Defending Democracy from Deepfake Deception Act) and AB 2839 (Elections
-  Deceptive Media) signed Sept 2024 by Newsom. Challenged by Christopher Kohls ('Mr.
-  Reagan'), X Corp, Babylon Bee, Rumble. Court found Section 230 preemption, First
-  Amendment violations. Laws aimed to combat election deepfakes.
+- 'Referenced in document: Federal judge strikes down key parts of California''s deepfake laws (X/others backed challenge) (Aug 5, 2025)'
+notes: AB 2655 (Defending Democracy from Deepfake Deception Act) and AB 2839 (Elections Deceptive Media) signed Sept 2024 by Newsom. Challenged by Christopher Kohls ('Mr. Reagan'), X Corp, Babylon Bee, Rumble. Court found Section 230 preemption, First Amendment violations. Laws aimed to combat election deepfakes.
 status: confirmed
 sources:
 - title: Federal judge strikes down California deepfake law

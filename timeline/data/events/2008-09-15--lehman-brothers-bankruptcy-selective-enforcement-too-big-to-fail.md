@@ -15,7 +15,7 @@ actors:
 - Henry Paulson
 - Ben Bernanke
 - Timothy Geithner
-- Treasury Department
+- U.S. Treasury Department
 - Federal Reserve
 sources:
 - url: https://www.history.com/this-day-in-history/September-15/lehman-brothers-collapses

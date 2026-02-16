@@ -6,8 +6,8 @@ title: FISA Amendments Act of 2008 Passes, Granting Telecom Immunity
 actors:
 - U.S. Congress
 - George W. Bush
-- Senate
-- House of Representatives
+- United States Senate
+- U.S. House of Representatives
 - Telecommunications Companies
 - AT&T
 - Verizon
@@ -33,12 +33,7 @@ sources:
   url: https://oig.justice.gov/reports/2015/PSP-09-18-15-full.pdf
   outlet: DOJ Office of Inspector General
   date: '2015-09-01'
-notes: The FISA Amendments Act represented Congress's response to the legal crisis
-  created by the revelation of warrantless surveillance programs. The law directed
-  the inspectors general of multiple intelligence agencies to conduct comprehensive
-  reviews of the President's Surveillance Program and its constitutional violations.
-  The telecom immunity provisions effectively ended dozens of lawsuits that could
-  have revealed the full scope of the surveillance programs.
+notes: The FISA Amendments Act represented Congress's response to the legal crisis created by the revelation of warrantless surveillance programs. The law directed the inspectors general of multiple intelligence agencies to conduct comprehensive reviews of the President's Surveillance Program and its constitutional violations. The telecom immunity provisions effectively ended dozens of lawsuits that could have revealed the full scope of the surveillance programs.
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture

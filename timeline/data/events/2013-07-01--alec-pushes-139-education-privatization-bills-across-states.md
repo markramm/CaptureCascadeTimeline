@@ -5,7 +5,7 @@ title: ALEC Coordinates 139 Education Privatization Bills Across States - System
 importance: 8
 status: confirmed
 actors:
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - ALEC Education and Workforce Development Task Force
 - Center for Media and Democracy
 - K12 Inc.

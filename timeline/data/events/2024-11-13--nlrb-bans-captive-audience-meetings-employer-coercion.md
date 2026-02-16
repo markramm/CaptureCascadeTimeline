@@ -5,7 +5,7 @@ title: NLRB Rules Captive Audience Meetings Are Illegal Employer Coercion (Likel
 importance: 7
 actors:
 - National Labor Relations Board
-- Biden administration
+- Biden Administration
 - Workers
 - Union organizers
 tags:

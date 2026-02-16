@@ -4,36 +4,36 @@ date: '1957-09-24'
 title: Eisenhower Sends Federal Troops to Little Rock After Governor Uses National Guard Against Integration
 importance: 9
 actors:
-  - Orval Faubus
-  - Dwight Eisenhower
-  - Little Rock Nine
-  - 101st Airborne Division
-  - Arkansas National Guard
+- Orval Faubus
+- Dwight D. Eisenhower
+- Little Rock Nine
+- 101st Airborne Division
+- Arkansas National Guard
 tags:
-  - civil-rights
-  - institutional-racism
-  - segregation
-  - federal-intervention
-  - democratic-erosion
+- civil-rights
+- institutional-racism
+- segregation
+- federal-intervention
+- democratic-erosion
 sources:
-  - title: "Executive Order 10730: Desegregation of Central High School (1957)"
-    url: "https://www.archives.gov/milestone-documents/executive-order-10730"
-    outlet: "National Archives"
-    date: 2024-09-24
-    verified: true
-    tier: 1
-  - title: "Why Eisenhower Sent Federal Troops to Little Rock"
-    url: "https://www.history.com/articles/little-rock-nine-brown-v-board-eisenhower-101-airborne"
-    outlet: "History Channel"
-    date: 2024-09-23
-    verified: true
-    tier: 2
-  - title: "Civil Rights: The Little Rock School Integration Crisis"
-    url: "https://www.eisenhowerlibrary.gov/research/online-documents/civil-rights-little-rock-school-integration-crisis"
-    outlet: "Eisenhower Presidential Library"
-    date: 2024-01-10
-    verified: true
-    tier: 1
+- title: 'Executive Order 10730: Desegregation of Central High School (1957)'
+  url: https://www.archives.gov/milestone-documents/executive-order-10730
+  outlet: National Archives
+  date: 2024-09-24
+  verified: true
+  tier: 1
+- title: Why Eisenhower Sent Federal Troops to Little Rock
+  url: https://www.history.com/articles/little-rock-nine-brown-v-board-eisenhower-101-airborne
+  outlet: History Channel
+  date: 2024-09-23
+  verified: true
+  tier: 2
+- title: 'Civil Rights: The Little Rock School Integration Crisis'
+  url: https://www.eisenhowerlibrary.gov/research/online-documents/civil-rights-little-rock-school-integration-crisis
+  outlet: Eisenhower Presidential Library
+  date: 2024-01-10
+  verified: true
+  tier: 1
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

@@ -10,7 +10,7 @@ actors:
 - Corinthian Colleges
 - ITT Tech
 - DeVry University
-- EDMC
+- Education Management Corporation (EDMC)
 - Kaplan University
 tags:
 - education
@@ -20,17 +20,17 @@ tags:
 - regulatory-failure
 - predatory-lending
 sources:
-- title: "For-Profit Higher Education: The Failure to Safeguard the Federal Investment and Ensure Student Success"
+- title: 'For-Profit Higher Education: The Failure to Safeguard the Federal Investment and Ensure Student Success'
   url: https://www.help.senate.gov/imo/media/for_profit_report/PartI.pdf
   outlet: Senate HELP Committee
   date: '2012-07-30'
   tier: 1
-- title: "For Profit Higher Education: Full Report"
+- title: 'For Profit Higher Education: Full Report'
   url: https://www.help.senate.gov/imo/media/for_profit_report/Contents.pdf
   outlet: Senate HELP Committee
   date: '2012-07-30'
   tier: 1
-- title: "Senate Report Paints a Damning Portrait of For-Profit Colleges"
+- title: Senate Report Paints a Damning Portrait of For-Profit Colleges
   url: https://www.nytimes.com/2012/07/30/education/senate-report-paints-a-damning-portrait-of-for-profit-colleges.html
   outlet: New York Times
   date: '2012-07-30'

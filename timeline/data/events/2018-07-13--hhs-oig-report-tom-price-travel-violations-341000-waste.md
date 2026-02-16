@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Department of Health and Human Services Office of Inspector General
 - Tom Price
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 tags:
 - inspector-general
 - corruption

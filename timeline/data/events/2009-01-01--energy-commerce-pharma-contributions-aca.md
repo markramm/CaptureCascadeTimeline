@@ -29,7 +29,7 @@ sources:
 actors:
 - House Energy and Commerce Committee
 - Fred Upton
-- Pharmaceutical Research and Manufacturers of America
+- PhRMA
 - Pfizer
 - Merck
 ---

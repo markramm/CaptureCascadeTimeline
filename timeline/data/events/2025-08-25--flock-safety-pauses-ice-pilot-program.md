@@ -6,8 +6,8 @@ title: Flock Safety Admits Federal Immigration Agents Have Direct Access to Trac
 location: United States
 actors:
 - Flock Safety
-- ICE
-- Customs and Border Protection
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 - U.S. Department of Homeland Security
 tags:
 - surveillance

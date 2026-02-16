@@ -1,12 +1,12 @@
 ---
 id: 2026-01-07--rfk-jr-releases-new-dietary-guidelines-protein-over-carbs
 date: '2026-01-07'
-title: "RFK Jr Releases New Dietary Guidelines: 'Most Significant Reset of Federal Nutrition Policy in History'"
+title: 'RFK Jr Releases New Dietary Guidelines: ''Most Significant Reset of Federal Nutrition Policy in History'''
 importance: 7
 actors:
 - Robert F. Kennedy Jr.
 - Brooke Rollins
-- HHS
+- U.S. Department of Health and Human Services
 - USDA
 tags:
 - rfk-jr

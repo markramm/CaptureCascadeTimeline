@@ -8,7 +8,7 @@ actors:
 - Peter Navarro
 - Kodak
 - Donald Trump
-- HHS
+- U.S. Department of Health and Human Services
 tags:
 - covid-19
 - no-bid-contracts

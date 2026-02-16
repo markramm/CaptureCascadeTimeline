@@ -1,14 +1,13 @@
 ---
 id: 2017-02-01--mckinsey-ice-detention-cost-cutting
 date: '2017-02-01'
-title: McKinsey Redirected from Obama-Era ICE Reform to Trump Immigration Crackdown
-  Consulting
+title: McKinsey Redirected from Obama-Era ICE Reform to Trump Immigration Crackdown Consulting
 importance: 8
 actors:
 - McKinsey & Company
 - Immigration and Customs Enforcement (ICE)
 - Donald Trump
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 tags:
 - mckinsey
 - ice
@@ -22,13 +21,11 @@ sources:
   url: https://www.propublica.org/article/how-mckinsey-helped-the-trump-administration-implement-its-immigration-policies
   outlet: ProPublica
   tier: 1
-- title: 'Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding
-    for Detainees: Report'
+- title: 'Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding for Detainees: Report'
   url: https://www.thedailybeast.com/consulting-firm-mckinsey-and-company-told-ice-to-cut-food-medical-funding-for-detainees-report/
   outlet: The Daily Beast
   tier: 1
-- title: McKinsey proposed ICE cut spending on food and medical care for detained
-    migrants to reduce costs
+- title: McKinsey proposed ICE cut spending on food and medical care for detained migrants to reduce costs
   url: https://slate.com/news-and-politics/2019/12/mckinsey-suggested-ice-cut-food-medical-spending-detained-illegal-migrants.html
   outlet: Slate
   tier: 1

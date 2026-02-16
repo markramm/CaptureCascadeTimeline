@@ -2,11 +2,7 @@
 id: 2022-07-01--roger-stone-drake-ventures-tax-fraud-settlement
 date: '2022-07-01'
 title: Roger Stone Settles $2.1 Million Tax Fraud Case Over Drake Ventures Shell Company
-description: Department of Justice settles civil lawsuit with Roger Stone for $2.1
-  million over fraudulent transfers through Drake Ventures LLC, a Delaware shell company
-  federal investigators called his "alter ego." Company had no legitimate business
-  but processed payments for Stone personally, funding everything from groceries to
-  dental bills while evading nearly $2 million in unpaid taxes.
+description: Department of Justice settles civil lawsuit with Roger Stone for $2.1 million over fraudulent transfers through Drake Ventures LLC, a Delaware shell company federal investigators called his "alter ego." Company had no legitimate business but processed payments for Stone personally, funding everything from groceries to dental bills while evading nearly $2 million in unpaid taxes.
 importance: 7
 tags:
 - roger-stone
@@ -20,7 +16,7 @@ tags:
 actors:
 - Roger Stone
 - Department of Justice
-- IRS
+- Internal Revenue Service
 - drake-ventures-llc
 capture_lane: judicial
 status: confirmed
@@ -45,16 +41,7 @@ patterns:
 - financial-crimes
 - shell-companies
 - tax-evasion
-notes: Drake Ventures LLC exemplifies the sophisticated financial structures Stone
-  used for concealment. Despite having no legitimate business operations, website,
-  or independent phone number, the company processed hundreds of thousands in payments
-  while Stone owed the IRS nearly $2 million. When facing collection, Stone transferred
-  assets to the Bertran Family Revocable Trust, including a Fort Lauderdale property
-  purchased with a $400,000 mortgage obtained while owing millions in taxes. The DOJ
-  documented these as "fraudulent transfers" designed to evade tax collection. While
-  not directly involving Russian money, these structures demonstrate Stone's comfort
-  with complex schemes to conceal assets and avoid oversight—capabilities useful for
-  his intelligence-related activities.
+notes: Drake Ventures LLC exemplifies the sophisticated financial structures Stone used for concealment. Despite having no legitimate business operations, website, or independent phone number, the company processed hundreds of thousands in payments while Stone owed the IRS nearly $2 million. When facing collection, Stone transferred assets to the Bertran Family Revocable Trust, including a Fort Lauderdale property purchased with a $400,000 mortgage obtained while owing millions in taxes. The DOJ documented these as "fraudulent transfers" designed to evade tax collection. While not directly involving Russian money, these structures demonstrate Stone's comfort with complex schemes to conceal assets and avoid oversight—capabilities useful for his intelligence-related activities.
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

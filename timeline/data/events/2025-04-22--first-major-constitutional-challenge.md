@@ -4,7 +4,7 @@ date: '2025-04-22'
 title: Coordinated Constitutional Challenge Filed
 importance: 9
 actors:
-- ACLU
+- American Civil Liberties Union
 - Protect Democracy
 - State Attorney Generals
 - League of Women Voters

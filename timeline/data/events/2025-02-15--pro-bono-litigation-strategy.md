@@ -6,7 +6,7 @@ actors:
 - Lawyers for Civil Rights
 - Brennan Center
 - EarthJustice
-- ACLU
+- American Civil Liberties Union
 - The Leadership Conference on Civil and Human Rights
 - Legal Defense Fund
 - Asian Americans Advancing Justice
@@ -17,8 +17,7 @@ sources:
   url: https://www.aclu.org/project-2025-explained
   accessed_date: '2025-10-06'
 - outlet: The Leadership Conference on Civil and Human Rights
-  title: Civil Rights Organizations Demand Department of Justice and Civil Rights
-    Division Uphold and Protect Civil Rights for All
+  title: Civil Rights Organizations Demand Department of Justice and Civil Rights Division Uphold and Protect Civil Rights for All
   url: https://civilrights.org/2025/04/01/civil-rights-organizations-demand-doj-civil-rights-division-protect-civil-rights/
   accessed_date: '2025-10-06'
 - outlet: Brennan Center for Justice
@@ -26,8 +25,7 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/project-2025-would-fuel-assault-election-officials
   accessed_date: '2025-10-14'
 - outlet: ACLU
-  title: Project 2025 Promises to Harm Our Communities and Turn Presidents Into Kings.
-    We Won't Stand for It.
+  title: Project 2025 Promises to Harm Our Communities and Turn Presidents Into Kings. We Won't Stand for It.
   url: https://www.aclu.org/news/civil-liberties/project-2025-offers-dystopian-view-of-america
   accessed_date: '2025-10-14'
 tags:

@@ -1,11 +1,10 @@
 ---
 id: 2025-06-27--supreme-court-restricts-nationwide-injunctions-trump-v-casa
 date: '2025-06-27'
-title: Supreme Court Restricts Nationwide Injunctions in Trump v. CASA, Expanding
-  Executive Power
+title: Supreme Court Restricts Nationwide Injunctions in Trump v. CASA, Expanding Executive Power
 importance: 9
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - Trump Administration
 - CASA de Maryland
 tags:

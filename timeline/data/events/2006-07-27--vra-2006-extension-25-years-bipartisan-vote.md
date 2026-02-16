@@ -5,7 +5,7 @@ title: 'Voting Rights Act Reauthorization of 2006: 25-Year Extension Passes with
 importance: 7
 actors:
 - George W. Bush
-- Congress
+- U.S. Congress
 - James Sensenbrenner
 - John Lewis
 - John Conyers
@@ -16,15 +16,15 @@ tags:
 - bipartisan
 - section-5
 sources:
-- title: 'Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006'
+- title: Fannie Lou Hamer, Rosa Parks, and Coretta Scott King Voting Rights Act Reauthorization and Amendments Act of 2006
   url: https://www.congress.gov/bill/109th-congress/house-bill/9
   outlet: Congress.gov
   tier: 1
-- title: 'Voting Rights Act Reauthorization of 2006'
+- title: Voting Rights Act Reauthorization of 2006
   url: https://www.justice.gov/crt/voting-rights-act-reauthorization-2006
   outlet: U.S. Department of Justice
   tier: 1
-- title: 'The Future of the Voting Rights Act After Shelby County'
+- title: The Future of the Voting Rights Act After Shelby County
   url: https://www.brennancenter.org/our-work/research-reports/future-voting-rights-act
   outlet: Brennan Center for Justice
   tier: 2

@@ -5,7 +5,7 @@ status: confirmed
 title: Analysis Shows DOGE Savings Claims Fall Short of $1 Trillion Target, Cost Taxpayers Billions
 importance: 7
 actors:
-- DOGE
+- Department of Government Efficiency
 - Elon Musk
 - Russell Vought
 tags:

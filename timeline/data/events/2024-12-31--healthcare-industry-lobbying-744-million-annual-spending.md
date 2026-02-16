@@ -4,12 +4,12 @@ title: Healthcare Industry Spends Record $744 Million on Federal Lobbying in 202
 date: '2024-12-31'
 importance: 8
 actors:
-- Pharmaceutical Research and Manufacturers of America
+- PhRMA
 - American Medical Association
 - American Hospital Association
 - Pharmaceutical Care Management Association
 - Health insurance industry
-- Pharmaceutical industry
+- Pharmaceutical Industry
 tags:
 - lobbying
 - healthcare

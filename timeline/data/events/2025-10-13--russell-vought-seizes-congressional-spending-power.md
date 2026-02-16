@@ -6,7 +6,7 @@ importance: 10
 actors:
 - Russell Vought
 - Office of Management and Budget
-- Congress
+- U.S. Congress
 sources:
 - title: Congress is losing its grip on the power to spend Americans' money
   url: https://www.washingtonpost.com/business/2025/10/13/congress-spending-power-vought-omb/

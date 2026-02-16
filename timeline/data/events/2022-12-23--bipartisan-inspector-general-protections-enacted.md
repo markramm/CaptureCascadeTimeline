@@ -5,7 +5,7 @@ importance: 6
 title: Bipartisan Inspector General protections enacted
 location: Washington, DC
 actors:
-- Congress
+- U.S. Congress
 - Inspectors General
 tags:
 - oversight-protection
@@ -22,8 +22,7 @@ sources:
   url: https://www.grassley.senate.gov/news/news-releases/grassley-leads-bipartisan-bill-bolster-inspector-general-protections
   outlet: U.S. Senator Chuck Grassley
   date: '2022-06-15'
-- title: Bipartisan Legislation Led By Peters & Portman to Strengthen Inspector General
-    Protections Advances in Senate
+- title: Bipartisan Legislation Led By Peters & Portman to Strengthen Inspector General Protections Advances in Senate
   url: https://www.hsgac.senate.gov/media/dems/bipartisan-legislation-led-by-peters-and-portman-to-strengthen-inspector-general-protections-advances-in-senate/
   outlet: Senate Homeland Security Committee
   date: '2022-07-20'

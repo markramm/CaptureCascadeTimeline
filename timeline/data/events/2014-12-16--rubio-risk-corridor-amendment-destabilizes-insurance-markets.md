@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Senator Marco Rubio
 - U.S. Congress
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Insurance Companies
 tags:
 - healthcare

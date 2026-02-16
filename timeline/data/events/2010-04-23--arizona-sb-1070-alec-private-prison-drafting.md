@@ -7,7 +7,7 @@ actors:
 - Russell Pearce
 - Jan Brewer
 - Corrections Corporation of America
-- American Legislative Exchange Council (ALEC)
+- American Legislative Exchange Council
 - GEO Group
 - Management and Training Corporation
 tags:

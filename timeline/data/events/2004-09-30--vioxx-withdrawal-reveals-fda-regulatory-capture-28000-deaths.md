@@ -5,7 +5,7 @@ title: Merck Withdraws Vioxx After Concealing Heart Attack Risk, FDA Failure Cau
 importance: 9
 actors:
 - Merck
-- Food and Drug Administration (FDA)
+- Food and Drug Administration
 - David Graham
 - Raymond Gilmartin
 tags:
@@ -16,15 +16,15 @@ tags:
 - drug-safety
 - whistleblower
 sources:
-- title: 'FDA Scientist Accuses Agency of Suppressing Vioxx Findings'
+- title: FDA Scientist Accuses Agency of Suppressing Vioxx Findings
   outlet: The Lancet
   url: https://www.thelancet.com
   date: '2004-11-01'
-- title: 'Risk of Cardiovascular Events Associated With Selective COX-2 Inhibitors'
+- title: Risk of Cardiovascular Events Associated With Selective COX-2 Inhibitors
   outlet: Journal of the American Medical Association
   url: https://jamanetwork.com/journals/jama
   date: '2005-01-01'
-- title: 'The Withdrawal of Rofecoxib'
+- title: The Withdrawal of Rofecoxib
   outlet: New England Journal of Medicine
   url: https://www.nejm.org
   date: '2004-11-01'

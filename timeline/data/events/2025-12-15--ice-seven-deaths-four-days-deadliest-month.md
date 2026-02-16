@@ -1,12 +1,11 @@
 ---
 id: 2025-12-15--ice-seven-deaths-four-days-deadliest-month
 date: '2025-12-15'
-title: Seven Die in ICE Custody in December, Four Within Four Days, Deadliest Year
-  Since 2004
+title: Seven Die in ICE Custody in December, Four Within Four Days, Deadliest Year Since 2004
 importance: 9
 actors:
 - Immigration and Customs Enforcement (ICE)
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - Jean Wilson Brutus
 - Fouad Saeed Abdulkadir
 - Nenko Stanev Gantchev
@@ -33,8 +32,7 @@ sources:
   url: https://www.cbp.gov/newsroom/national-media-release/thanks-president-trump-cbp-announces-record-breaking-200-billion
   outlet: U.S. Customs and Border Protection
   tier: 1
-- title: Trump tariffs Small businesses take on high-interest rate loans to cover
-    new costs
+- title: Trump tariffs Small businesses take on high-interest rate loans to cover new costs
   url: https://www.cnbc.com/2025/12/17/trump-trade-tariffs-business-loans.html
   outlet: CNBC
   tier: 1

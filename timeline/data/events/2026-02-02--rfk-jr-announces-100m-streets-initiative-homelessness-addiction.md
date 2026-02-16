@@ -6,7 +6,7 @@ title: RFK Jr. Announces $100 Million STREETS Initiative for Homelessness and Ad
 importance: 6
 actors:
 - Robert F. Kennedy Jr.
-- Department of Health and Human Services
+- U.S. Department of Health and Human Services
 - Substance Abuse and Mental Health Services Administration
 - Administration for Children and Families
 tags:

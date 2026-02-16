@@ -1,12 +1,12 @@
 ---
 id: 2025-12-16--bovino-returns-chicago-years-announcement
 date: '2025-12-16'
-title: "Border Patrol Chief Bovino Returns to Chicago, Promises Federal Agents 'For Years'"
+title: Border Patrol Chief Bovino Returns to Chicago, Promises Federal Agents 'For Years'
 importance: 8
 actors:
 - Gregory Bovino
-- Border Patrol
-- DHS
+- U.S. Border Patrol
+- DHS (Department of Homeland Security)
 tags:
 - bovino
 - chicago
@@ -14,7 +14,7 @@ tags:
 - immigration-enforcement
 - intimidation
 sources:
-- title: "Border Chief: We're Gonna Be In Chicago For Years"
+- title: 'Border Chief: We''re Gonna Be In Chicago For Years'
   outlet: Joe.My.God.
   url: https://www.joemygod.com/2025/12/border-chief-well-gonna-be-in-chicago-for-years/
   tier: 2

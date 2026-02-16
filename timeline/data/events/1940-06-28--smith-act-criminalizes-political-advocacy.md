@@ -5,7 +5,7 @@ title: Smith Act Criminalizes Advocacy of Government Overthrow, Enables Politica
 importance: 9
 actors:
 - Howard W. Smith
-- Congress
+- U.S. Congress
 - Department of Justice
 - Franklin D. Roosevelt
 tags:

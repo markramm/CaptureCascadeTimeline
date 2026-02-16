@@ -7,7 +7,7 @@ importance: 7
 actors:
 - Donald Trump
 - White House
-- Department of Commerce
+- U.S. Department of Commerce
 tags:
 - trade-policy
 - executive-overreach
@@ -15,12 +15,12 @@ tags:
 - industrial-policy
 sources:
 - url: https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/
-  title: "Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America's Economic and National Security"
+  title: 'Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America''s Economic and National Security'
   outlet: White House
   date: '2026-01-14'
   tier: 1
 - url: https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/
-  title: 'Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products into the United States'
+  title: Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products into the United States
   outlet: White House
   date: '2026-01-14'
   tier: 1

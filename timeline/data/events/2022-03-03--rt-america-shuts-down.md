@@ -12,7 +12,7 @@ tags:
 - kremlin-media
 actors:
 - RT America
-- RT
+- RT (Russia Today)
 - DirecTV
 - Roku
 - Dish Network

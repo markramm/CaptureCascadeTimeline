@@ -35,7 +35,7 @@ sources:
 actors:
 - Big Pharma
 - Teva Pharmaceuticals
-- FDA
+- Food and Drug Administration
 - Gray Market Vendors
 - Cancer Treatment Centers
 ---

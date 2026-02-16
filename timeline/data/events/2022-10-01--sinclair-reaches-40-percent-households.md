@@ -8,7 +8,7 @@ actors:
 - Sinclair Broadcast Group
 - David Smith
 - Chris Ripley
-- Local news stations
+- Local News Stations
 tags:
 - sinclair-broadcasting
 - local-news-capture
@@ -31,9 +31,7 @@ sources:
   outlet: NPR
   date: '2018-04-02'
   archive_url: null
-notes: Largest owner of local TV stations. Forces local anchors to read identical
-  scripts. Must-run segments from Boris Epshteyn. Uses trusted local news format for
-  political propaganda. Scale enables information control.
+notes: Largest owner of local TV stations. Forces local anchors to read identical scripts. Must-run segments from Boris Epshteyn. Uses trusted local news format for political propaganda. Scale enables information control.
 status: confirmed
 capture_lanes:
 - Media Capture & Control

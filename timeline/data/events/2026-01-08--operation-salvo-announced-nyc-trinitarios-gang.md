@@ -6,9 +6,9 @@ title: DHS Announces Operation Salvo Results in New York City
 importance: 6
 actors:
 - Kristi Noem
-- DHS
-- ICE
-- CBP
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
+- U.S. Customs and Border Protection
 - HSI
 tags:
 - immigration-enforcement

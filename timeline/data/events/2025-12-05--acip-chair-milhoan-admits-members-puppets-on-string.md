@@ -6,7 +6,7 @@ title: ACIP Chair Admits Vaccine Panel Members Feel Like "Puppets on a String," 
 location: Atlanta, Georgia
 actors:
 - Dr. Kirk Milhoan
-- Advisory Committee on Immunization Practices (ACIP)
+- Advisory Committee on Immunization Practices
 - Robert F. Kennedy Jr.
 - Dr. Cody Meissner
 - American Academy of Pediatrics

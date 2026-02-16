@@ -43,8 +43,8 @@ sources:
 status: confirmed
 actors:
 - Lee Zeldin
-- EPA
-- Environmental Protection Agency
+- Environmental Protection Agency (EPA)
+- U.S. Environmental Protection Agency
 - Donald Trump
 - Matthew Tejada
 ---

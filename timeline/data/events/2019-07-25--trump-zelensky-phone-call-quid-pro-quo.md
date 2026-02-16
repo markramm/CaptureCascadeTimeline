@@ -13,7 +13,7 @@ tags:
 - abuse of power
 actors:
 - Donald Trump
-- Volodymyr Zelensky
+- Volodymyr Zelenskyy
 - Rudy Giuliani
 sources:
 - url: https://www.whitehouse.gov/wp-content/uploads/2019/09/Unclassified09.2019.pdf

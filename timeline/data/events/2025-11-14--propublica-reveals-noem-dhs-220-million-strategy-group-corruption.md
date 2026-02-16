@@ -8,7 +8,7 @@ importance: 9
 location: Washington, D.C.
 actors:
 - Kristi Noem
-- Department of Homeland Security
+- U.S. Department of Homeland Security
 - The Strategy Group
 - Ben Yoho
 - Tricia McLaughlin

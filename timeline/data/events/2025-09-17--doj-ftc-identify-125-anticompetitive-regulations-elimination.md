@@ -5,7 +5,7 @@ title: DOJ and FTC Identify 125+ Federal Regulations for Elimination as "Anticom
 importance: 8
 actors:
 - Department of Justice
-- Federal Trade Commission (FTC)
+- Federal Trade Commission
 - Trump Administration
 tags:
 - deregulation
@@ -21,14 +21,12 @@ sources:
   url: https://dailycaller.com/2025/09/17/exclusive-agencies-put-over-125-anti-competitive-regulations-on-chopping-block-to-advance-trumps-economic-agenda/
   outlet: Daily Caller
   tier: 2
-- title: ABC yanks Jimmy Kimmel's show 'indefinitely' after threat from Trump's FCC
-    chair Brendan Carr
+- title: ABC yanks Jimmy Kimmel's show 'indefinitely' after threat from Trump's FCC chair Brendan Carr
   url: https://www.cnn.com/2025/09/17/media/jimmy-kimmel-charlie-kirk-trump-fcc-brendan-carr
   date: '2025-09-17'
   tier: 2
   outlet: CNN
-- title: How Brendan Carr, the attack-dog FCC chair, helped take down Jimmy Kimmel
-    with words, not actions
+- title: How Brendan Carr, the attack-dog FCC chair, helped take down Jimmy Kimmel with words, not actions
   url: https://www.cnn.com/2025/09/18/media/brendan-carr-jimmy-kimmel-fcc-first-amendment
   date: '2025-09-18'
   tier: 2

@@ -5,7 +5,7 @@ importance: 7
 title: Treasury lifts Tornado Cash sanctions benefiting crypto money laundering
 location: Washington, DC
 actors:
-- Treasury Department
+- U.S. Treasury Department
 - OFAC
 tags:
 - crypto
@@ -23,8 +23,7 @@ sources:
   url: https://www.coindesk.com/policy/2025/03/21/u-s-government-removes-tornado-cash-sanctions
   outlet: CoinDesk
   date: '2025-03-21'
-- title: U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering
-    Probe
+- title: U.S. Treasury Lifts Tornado Cash Sanctions Amid North Korea Money Laundering Probe
   url: https://thehackernews.com/2025/03/us-treasury-lifts-tornado-cash.html
   outlet: The Hacker News
   date: '2025-03-21'

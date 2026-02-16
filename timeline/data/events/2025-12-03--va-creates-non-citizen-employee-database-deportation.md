@@ -14,7 +14,7 @@ actors:
 - Doug Collins
 - Veterans Affairs
 - Kristi Noem
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Democratic Congressional Members
 sources:
 - url: https://www.stripes.com/veterans/2025-12-05/va-employees-not-us-citizens-19993467.html

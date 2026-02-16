@@ -11,7 +11,7 @@ tags:
 - electoral-manipulation
 - john-roberts
 actors:
-- Supreme Court
+- U.S. Supreme Court
 - John Roberts
 - Robert Rucho
 - Common Cause

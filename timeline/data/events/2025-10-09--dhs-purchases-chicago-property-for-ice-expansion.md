@@ -5,8 +5,8 @@ title: DHS Secretary Announces Additional Chicago Property Purchase for ICE Oper
 importance: 7
 actors:
 - Kristi Noem
-- DHS
-- ICE
+- DHS (Department of Homeland Security)
+- Immigration and Customs Enforcement (ICE)
 - JB Pritzker
 - City of Chicago
 sources:

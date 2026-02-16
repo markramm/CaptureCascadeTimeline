@@ -5,7 +5,7 @@ status: confirmed
 title: Senate Fails to Advance DHS Funding Bill in 52-47 Vote
 importance: 7
 actors:
-- Senate
+- United States Senate
 - John Thune
 - Chuck Schumer
 - John Fetterman

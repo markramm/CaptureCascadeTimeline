@@ -4,9 +4,9 @@ date: '1986-10-01'
 title: Corrections Corporation of America Goes Public on NASDAQ at $9 Per Share, Wall Street Bets on Mass Incarceration
 importance: 8
 actors:
-- Corrections Corporation of America (CCA)
+- Corrections Corporation of America
 - Thomas W. Beasley
-- NASDAQ
+- Nasdaq
 - Vanderbilt University Law School
 - Jack C. Massey
 tags:

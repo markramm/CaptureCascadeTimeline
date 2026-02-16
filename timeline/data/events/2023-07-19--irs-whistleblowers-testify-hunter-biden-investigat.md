@@ -8,7 +8,7 @@ actors:
 - Joseph Ziegler
 - Hunter Biden
 - David Weiss
-- House Oversight Committee
+- U.S. House Oversight Committee
 tags:
 - oversight
 - obstruction-of-justice
@@ -20,18 +20,15 @@ sources:
   url: https://oversight.house.gov/release/hearing-wrap-up-irs-whistleblowers-expose-how-bidens-were-treated-differently/
   outlet: House Committee on Oversight and Accountability
   date: '2023-07-19'
-- title: Second IRS whistleblower goes public at House Oversight hearing about Hunter
-    Biden probe
+- title: Second IRS whistleblower goes public at House Oversight hearing about Hunter Biden probe
   url: https://www.cnn.com/2023/07/19/politics/oversight-committee-hearing-irs-whistleblowers/index.html
   outlet: CNN
   date: '2023-07-19'
-- title: IRS whistleblowers testify before House Oversight Committee about Hunter
-    Biden probe
+- title: IRS whistleblowers testify before House Oversight Committee about Hunter Biden probe
   url: https://www.nbcnews.com/politics/congress/irs-whistleblowers-testify-house-oversight-committee-hunter-biden-prob-rcna95078
   outlet: NBC News
   date: '2023-07-19'
-- title: Who are the Hunter Biden IRS whistleblowers? Joseph Ziegler, Gary Shapley
-    testify
+- title: Who are the Hunter Biden IRS whistleblowers? Joseph Ziegler, Gary Shapley testify
   url: https://www.cbsnews.com/news/hunter-biden-irs-whistleblowers-joseph-ziegler-gary-shapley/
   outlet: CBS News
   date: '2023-07-19'

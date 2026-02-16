@@ -4,7 +4,7 @@ date: '2025-05-15'
 title: Comprehensive Legal Resistance Training Program
 importance: 8
 actors:
-- National Association of Criminal Defense Lawyers (NACDL)
+- National Association of Criminal Defense Lawyers
 - U.S. Department of Justice - Access to Justice Office
 - Defender Services Office Training Division
 sources:

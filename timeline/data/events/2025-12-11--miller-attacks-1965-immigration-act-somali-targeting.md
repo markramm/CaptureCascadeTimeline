@@ -6,7 +6,7 @@ importance: 9
 actors:
 - Stephen Miller
 - Donald Trump
-- ICE
+- Immigration and Customs Enforcement (ICE)
 tags:
 - immigration
 - white-nationalism

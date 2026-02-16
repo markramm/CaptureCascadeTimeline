@@ -5,7 +5,7 @@ importance: 6
 title: FCC Deregulation Enables Sinclair Broadcasting Expansion
 actors:
 - Michael Powell
-- FCC
+- Federal Communications Commission
 - Sinclair Broadcasting
 - David Smith
 - George W. Bush

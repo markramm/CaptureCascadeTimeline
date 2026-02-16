@@ -13,7 +13,7 @@ actors:
 - Donald Trump
 - Javier Milei
 - Scott Bessent
-- Treasury Department
+- U.S. Treasury Department
 sources:
 - url: https://thehill.com/policy/international/trump-argentina-bailout-milei/
   title: Trump Pledges $40B to Argentina with Electoral Conditions

@@ -11,7 +11,7 @@ tags:
 - maria-butina
 actors:
 - Maria Butina
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Federal Bureau of Prisons
 - Russian Government
 sources:

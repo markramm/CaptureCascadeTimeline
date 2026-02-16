@@ -14,7 +14,7 @@ tags:
 actors:
 - Consensys
 - Donald Trump
-- SEC
+- Securities and Exchange Commission
 sources:
 - title: 100 Days of Corruption - Oversight Democrats Highlight 100 Conflicts of Interest
   url: https://oversightdemocrats.house.gov/news/press-releases/100-days-corruption-oversight-democrats-highlight-100-conflicts-interest
@@ -24,8 +24,7 @@ sources:
   url: https://cointelegraph.com/news/consensys-solana-uniswap-donald-trump-inauguration-donation
   outlet: Cointelegraph
   date: '2025-04-21'
-- title: 'Analysis: Crypto Industry Donated 13M+ To Trump Inauguration, Then Administration
-    Dropped SEC Lawsuits'
+- title: 'Analysis: Crypto Industry Donated 13M+ To Trump Inauguration, Then Administration Dropped SEC Lawsuits'
   url: https://accountable.us/analysis-crypto-industry-donated-13m-to-trumps-inauguration-then-administration-dropped-sec-lawsuits-probes-against-five-donors-among-other-industry-gifts/
   outlet: Accountable US
   date: '2025-02-20'

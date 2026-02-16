@@ -7,19 +7,19 @@ actors:
 - Secretary of Defense Robert McNamara
 - President Lyndon B. Johnson
 - Senator J. William Fulbright
-- Department of Defense
+- U.S. Department of Defense
 sources:
-- title: 'Credibility Gap & the Vietnam War'
+- title: Credibility Gap & the Vietnam War
   outlet: Study.com
   url: https://study.com/academy/lesson/definition-of-the-credibility-gap-in-vietnam.html
   verified: true
   tier: 2
-- title: 'The Credibility Gap of Government During Vietnam War'
+- title: The Credibility Gap of Government During Vietnam War
   outlet: LeadFuze
   url: https://www.leadfuze.com/credibility-gap/
   verified: true
   tier: 2
-- title: 'Credibility gap'
+- title: Credibility gap
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Credibility_gap
   verified: true

@@ -7,7 +7,7 @@ actors:
 - National Weather Service
 - NOAA
 - Elon Musk
-- Department of Government Efficiency (DOGE)
+- Department of Government Efficiency
 - Trump Administration
 - Meteorologists
 - Former NOAA Administrators

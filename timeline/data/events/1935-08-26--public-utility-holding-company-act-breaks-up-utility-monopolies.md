@@ -6,7 +6,7 @@ importance: 8
 actors:
 - Franklin D. Roosevelt
 - Federal Trade Commission
-- Electric Utility Industry
+- Electric utility industry
 - Securities and Exchange Commission (SEC)
 sources:
 - title: Public Utility Holding Company Act of 1935

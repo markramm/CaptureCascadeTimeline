@@ -18,8 +18,8 @@ tags:
 actors:
 - Gregory Bovino
 - Judge Sara Ellis
-- Department of Homeland Security
-- CBP
+- U.S. Department of Homeland Security
+- U.S. Customs and Border Protection
 - Chicago Headline Club
 - First Amendment advocates
 sources:

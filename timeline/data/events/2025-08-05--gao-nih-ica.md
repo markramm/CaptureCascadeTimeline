@@ -4,9 +4,9 @@ title: GAO says NIH grant delays violated the Impoundment Control Act
 date: '2025-08-05'
 importance: 6
 actors:
-- GAO
-- HHS
-- NIH
+- Government Accountability Office (GAO)
+- U.S. Department of Health and Human Services
+- National Institutes of Health (NIH)
 tags:
 - budget
 - impoundment

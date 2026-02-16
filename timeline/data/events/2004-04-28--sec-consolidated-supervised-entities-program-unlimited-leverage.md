@@ -1,11 +1,10 @@
 ---
 id: 2004-04-28--sec-consolidated-supervised-entities-program-unlimited-leverage
 date: '2004-04-28'
-title: SEC Creates Consolidated Supervised Entities Program Allowing Unlimited Investment
-  Bank Leverage
+title: SEC Creates Consolidated Supervised Entities Program Allowing Unlimited Investment Bank Leverage
 importance: 9
 actors:
-- SEC
+- Securities and Exchange Commission
 - William Donaldson
 - Bear Stearns
 - Lehman Brothers
@@ -29,8 +28,7 @@ sources:
   url: https://www.propublica.org/article/flawed-sec-program-failed-to-rein-in-investment-banks-101
   outlet: ProPublica
   date: '2008-10-01'
-- title: 'Press Release: Chairman Cox Announces End of Consolidated Supervised Entities
-    Program'
+- title: 'Press Release: Chairman Cox Announces End of Consolidated Supervised Entities Program'
   url: https://www.sec.gov/news/press/2008/2008-230.htm
   outlet: SEC
   date: '2008-09-26'

@@ -6,7 +6,7 @@ title: Operation Guardian Support deploys 4,000 National Guard to border
 location: US-Mexico Border
 actors:
 - National Guard
-- Border Patrol
+- U.S. Border Patrol
 - Pentagon
 tags:
 - military-deployment

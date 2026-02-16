@@ -3,7 +3,7 @@ actors:
 - April Perry
 - Donald Trump
 - JB Pritzker
-- Supreme Court
+- U.S. Supreme Court
 date: '2025-10-29'
 id: 2025-10-29--supreme-court-reviews-trump-national-guard-federalization-chicago
 importance: 10

@@ -11,7 +11,7 @@ actors:
 - Abu Dhabi L'imad Holding
 - Jared Kushner
 - Affinity Partners
-- Warner Bros Discovery
+- Warner Bros. Discovery
 - Netflix
 - Sam Liccardo
 - Ayanna Pressley

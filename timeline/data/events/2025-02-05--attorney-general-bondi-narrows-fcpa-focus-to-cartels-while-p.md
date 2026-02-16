@@ -1,15 +1,8 @@
 ---
 id: 2025-02-05--attorney-general-bondi-narrows-fcpa-focus-to-cartels-while-p
 date: '2025-02-05'
-title: Attorney General Bondi Narrows FCPA Focus to Cartels While Pausing Corporate
-  Bribery Cases
-description: The memorandum came five days before Trump's executive order suspending
-  FCPA enforcement for 180 days. The order stated FCPA has been "abused in a manner
-  that harms the interests of the United States" and that enforcement against American
-  companies for "routine business practices" actively harms American economic competitiveness.
-  The pause allows U.S. companies to engage in foreign bribery without consequences,
-  particularly in strategic sectors, while DOJ reviews all existing FCPA investigations
-  with mandate to "restore proper bounds" on enforcement.
+title: Attorney General Bondi Narrows FCPA Focus to Cartels While Pausing Corporate Bribery Cases
+description: The memorandum came five days before Trump's executive order suspending FCPA enforcement for 180 days. The order stated FCPA has been "abused in a manner that harms the interests of the United States" and that enforcement against American companies for "routine business practices" actively harms American economic competitiveness. The pause allows U.S. companies to engage in foreign bribery without consequences, particularly in strategic sectors, while DOJ reviews all existing FCPA investigations with mandate to "restore proper bounds" on enforcement.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -17,7 +10,7 @@ actors:
 - Pamela Bondi
 - Donald Trump
 - Department of Justice
-- U.S. Corporations
+- U.S. corporations
 tags:
 - fcpa
 - foreign-bribery
@@ -33,8 +26,7 @@ sources:
   url: https://cnn.com/source
   outlet: CNN
   date: '2025-02-05'
-- title: U.S. DOJ Hits the Brakes on FCPA Enforcement and Announces Other Key Policies
-    at the Beginning of Attorney General Bondi's Tenure
+- title: U.S. DOJ Hits the Brakes on FCPA Enforcement and Announces Other Key Policies at the Beginning of Attorney General Bondi's Tenure
   url: https://www.sidley.com/en/insights/newsupdates/2025/02/us-doj-hits-the-brakes-on-fcpa-enforcement-and-announces-other-key-policies
   outlet: Sidley Austin LLP
   date: '2025-02-15'

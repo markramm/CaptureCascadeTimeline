@@ -8,7 +8,7 @@ actors:
 - James G. Roche
 - Northrop Grumman
 - U.S. Air Force
-- Department of Defense
+- U.S. Department of Defense
 - George W. Bush
 tags:
 - revolving door

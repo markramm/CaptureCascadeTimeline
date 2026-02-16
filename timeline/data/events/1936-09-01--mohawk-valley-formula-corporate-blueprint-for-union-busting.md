@@ -8,7 +8,7 @@ actors:
 - James Rand Jr.
 - National Association of Manufacturers
 - La Follette Committee
-- corporate management
+- Corporate management
 tags:
 - union-busting
 - corporate-resistance

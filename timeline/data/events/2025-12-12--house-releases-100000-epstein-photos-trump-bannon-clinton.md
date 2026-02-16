@@ -4,7 +4,7 @@ date: '2025-12-12'
 title: House Committee Releases 100,000 Epstein Estate Photos Showing Trump, Bannon, Clinton, Gates
 importance: 9
 actors:
-- House Oversight Committee
+- U.S. House Oversight Committee
 - Donald Trump
 - Steve Bannon
 - Bill Clinton

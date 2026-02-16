@@ -10,8 +10,8 @@ actors:
 - Bank of America
 - Citigroup
 - Wells Fargo
-- Congress
-- Treasury Department
+- U.S. Congress
+- U.S. Treasury Department
 tags:
 - institutional-capture
 - corruption

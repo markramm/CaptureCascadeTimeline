@@ -5,7 +5,7 @@ title: Communist Control Act Bans Party Members from Union Leadership, Weaponizi
 importance: 8
 actors:
 - U.S. Congress
-- Dwight Eisenhower
+- Dwight D. Eisenhower
 - House Un-American Activities Committee
 - American Federation of Labor
 - Congress of Industrial Organizations

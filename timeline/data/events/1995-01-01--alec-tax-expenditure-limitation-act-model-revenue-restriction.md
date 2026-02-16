@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - American Legislative Exchange Council
 - Colorado General Assembly
-- Corporate Funders
+- Corporate funders
 tags:
 - alec
 - legislative-capture

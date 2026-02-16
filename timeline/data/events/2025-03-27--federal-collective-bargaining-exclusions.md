@@ -7,7 +7,7 @@ location: Washington DC
 actors:
 - Donald Trump
 - White House
-- Office of Personnel Management (OPM)
+- Office of Personnel Management
 tags:
 - executive-order
 - collective-bargaining
@@ -18,10 +18,8 @@ capture_lanes:
 - Executive Power & Emergency Authority
 - Federal Workforce Capture
 citations:
-- 'White House — Fact Sheet: Exempts Agencies with National Security Missions from
-  Federal Collective Bargaining Requirements (Mar 27, 2025): https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/'
-notes: Significant reduction in federal worker collective bargaining rights under
-  national security justification.
+- 'White House — Fact Sheet: Exempts Agencies with National Security Missions from Federal Collective Bargaining Requirements (Mar 27, 2025): https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/'
+notes: Significant reduction in federal worker collective bargaining rights under national security justification.
 sources:
 - title: Executive Actions Archive
   url: https://www.whitehouse.gov/presidential-actions/
@@ -32,8 +30,7 @@ sources:
   url: https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/
   outlet: White House
   date: '2025-03-27'
-- title: Trump signs executive order ending collective bargaining rights for many
-    federal workers
+- title: Trump signs executive order ending collective bargaining rights for many federal workers
   url: https://www.cnn.com/2025/03/28/politics/executive-order-collective-bargaining-national-security/index.html
   outlet: CNN Politics
   date: '2025-03-28'

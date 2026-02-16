@@ -7,7 +7,7 @@ status: confirmed
 actors:
 - Women's March
 - Donald Trump
-- ICE
+- Immigration and Customs Enforcement (ICE)
 tags:
 - protest
 - civil-resistance
@@ -16,7 +16,7 @@ tags:
 - womens-march
 - national-mobilization
 sources:
-- title: 'Nationwide ''Free America'' Walkout Held in Protest of Trump'
+- title: Nationwide 'Free America' Walkout Held in Protest of Trump
   url: https://time.com/7353699/trump-free-america-walkout-protest/
   outlet: TIME
   date: '2026-01-20'

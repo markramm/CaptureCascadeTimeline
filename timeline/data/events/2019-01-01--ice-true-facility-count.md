@@ -2,11 +2,10 @@
 id: 2019-01-01--ice-true-facility-count
 date: '2019-01-01'
 importance: 5
-title: ICE uses 230+ contracted detention facilities (2019); public lists undercount
-  due to varied custody arrangements
+title: ICE uses 230+ contracted detention facilities (2019); public lists undercount due to varied custody arrangements
 location: United States
 actors:
-- ICE
+- Immigration and Customs Enforcement (ICE)
 - Vera Institute
 - Government investigators
 tags:
@@ -27,8 +26,7 @@ sources:
   url: https://www.ice.gov/foia/odo-facility-inspections
   outlet: ICE
   date: '2024-05-21'
-notes: Vera Institute's dashboards are useful but not official counts; prefer GAO/ICE
-  and TRAC for facility totals and capacity.
+notes: Vera Institute's dashboards are useful but not official counts; prefer GAO/ICE and TRAC for facility totals and capacity.
 status: confirmed
 capture_lanes:
 - Systematic Corruption

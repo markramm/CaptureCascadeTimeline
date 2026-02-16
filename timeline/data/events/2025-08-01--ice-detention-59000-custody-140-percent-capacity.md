@@ -1,8 +1,7 @@
 ---
 id: 2025-08-01--ice-detention-59000-custody-140-percent-capacity
 date: '2025-08-01'
-title: ICE detention reaches 59,000 people at 140% capacity with 70% having no criminal
-  record
+title: ICE detention reaches 59,000 people at 140% capacity with 70% having no criminal record
 importance: 8
 tags:
 - immigration-enforcement
@@ -14,13 +13,12 @@ tags:
 - trump-administration
 - civil-rights
 actors:
-- ICE
-- DHS
+- Immigration and Customs Enforcement (ICE)
+- DHS (Department of Homeland Security)
 - Kristi Noem
 - Donald Trump
 sources:
-- title: Experts explain your rights – as an immigrant or a bystander – if you're
-    caught up in an ICE raid
+- title: Experts explain your rights – as an immigrant or a bystander – if you're caught up in an ICE raid
   url: https://www.cnn.com/2025/08/23/us/immigrant-bystander-rights-ice-raid
   outlet: CNN
   date: '2025-08-23'
@@ -28,8 +26,7 @@ sources:
   url: https://hias.org/news/ice-raids-what-you-need-know/
   outlet: HIAS
   date: '2025-08-01'
-- title: Immigrants with no criminal convictions represent sharpest growth in ICE
-    detention population
+- title: Immigrants with no criminal convictions represent sharpest growth in ICE detention population
   url: https://www.npr.org/2025/07/03/nx-s1-5456246/immigrants-no-criminal-convictions-growth-ice-detention-population
   outlet: NPR
   date: '2025-07-03'
@@ -37,8 +34,7 @@ sources:
   url: https://www.aclu.org/press-releases/aclu-foia-litigation-reveals-information-about-ice-capacity-contracts-in-facilities-nationwide
   outlet: ACLU
   date: '2025-08-15'
-- title: 'ICE Detention 59,000: Record Levels, Horrible Overcrowding, Dwindling Due
-    Process'
+- title: 'ICE Detention 59,000: Record Levels, Horrible Overcrowding, Dwindling Due Process'
   url: https://www.americanimmigrationcouncil.org/event/ice-detention-59000-record-levels-horrible-overcrowding-dwindling-due-process
   outlet: American Immigration Council
   date: '2025-08-24'
