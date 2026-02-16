@@ -1,41 +1,40 @@
 {
-  "total_events": 4120,
-  "total_tags": 6440,
-  "total_actors": 7876,
-  "total_sources": 14157,
+  "total_events": 4238,
+  "total_tags": 6468,
+  "total_actors": 7954,
+  "total_sources": 14523,
   "date_range": {
     "start": "1142-01-01",
-    "end": "2026-01-14"
+    "end": "2026-02-15"
   },
   "status_counts": {
-    "unknown": 930,
-    "confirmed": 3147,
-    "validated": 26,
-    "disputed": 2,
+    "unknown": 247,
+    "confirmed": 3953,
+    "validated": 24,
+    "disputed": 3,
     "verified": 1,
-    "reported": 7,
-    "contested": 3,
-    "needs_work": 1,
+    "reported": 5,
     "unverified": 1,
     "predicted": 1,
-    "developing": 1
+    "developing": 1,
+    "contested": 2
   },
   "top_tags": [
     {
       "name": "regulatory-capture",
-      "count": 554
+      "count": 573
     },
     {
       "name": "institutional-capture",
-      "count": 393
+      "count": 427
     },
     {
       "name": "corruption",
-      "count": 279
+      "count": 289
     },
     {
       "name": "systematic-corruption",
-      "count": 139
+      "count": 141
     },
     {
       "name": "trump-administration",
@@ -50,22 +49,22 @@
       "count": 131
     },
     {
-      "name": "supreme-court",
-      "count": 122
-    },
-    {
       "name": "surveillance",
-      "count": 117
+      "count": 127
     },
     {
-      "name": "crypto",
-      "count": 112
+      "name": "supreme-court",
+      "count": 125
+    },
+    {
+      "name": "healthcare",
+      "count": 114
     }
   ],
   "top_actors": [
     {
       "name": "Donald Trump",
-      "count": 1068
+      "count": 1108
     },
     {
       "name": "Trump Administration",
@@ -73,36 +72,36 @@
     },
     {
       "name": "Department of Justice",
-      "count": 259
+      "count": 279
     },
     {
       "name": "Elon Musk",
-      "count": 158
+      "count": 166
     },
     {
       "name": "U.S. Congress",
       "count": 131
     },
     {
-      "name": "FBI",
-      "count": 89
-    },
-    {
       "name": "Pam Bondi",
-      "count": 83
+      "count": 98
     },
     {
-      "name": "Ronald Reagan",
-      "count": 71
-    },
-    {
-      "name": "Congress",
-      "count": 69
+      "name": "FBI",
+      "count": 92
     },
     {
       "name": "ICE",
-      "count": 69
+      "count": 83
+    },
+    {
+      "name": "Supreme Court",
+      "count": 75
+    },
+    {
+      "name": "Congress",
+      "count": 71
     }
   ],
-  "generated": "2026-01-14T02:13:09.081159"
+  "generated": "2026-02-15T19:24:20.345576"
 }

@@ -9693,19 +9693,19 @@
 2. [Trump bragged about being able to walk into pageant dressing rooms](https://thehill.com/blogs/ballot-box/presidential-races/300093-trump-bragged-about-being-able-to-walk-into-pageant/)
 3. [Four women who competed in pageants say Trump entered dressing rooms](https://www.cbsnews.com/news/more-unearthed-footage-trump-says-of-10-year-old-i-am-going-to-be-dating-her-in-10-years/)
 
-## Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)
-*Date: 2005-04-20*
-
-1. [Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
-2. [For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices](https://www.gao.gov/products/gao-10-948t)
-3. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
-
 ## Bankruptcy Act Makes Private Student Loans Non-Dischargeable - Weaponizing Law Against Students
 *Date: 2005-04-20*
 
 1. [S.256 - Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
 2. [2005 Law Made Student Loans More Lucrative](https://www.npr.org/2007/04/24/9803213/2005-law-made-student-loans-more-lucrative)
 3. [Bankruptcy Abuse Prevention and Consumer Protection Act (Public Law 109-8)](https://www.govinfo.gov/content/pkg/PLAW-109publ8/html/PLAW-109publ8.htm)
+
+## Two Decades of Bankruptcy Weaponization: Students Crushed While Corporations Shield Billions (2005-2024)
+*Date: 2005-04-20*
+
+1. [Bankruptcy Abuse Prevention and Consumer Protection Act of 2005](https://www.congress.gov/bill/109th-congress/senate-bill/256)
+2. [For-Profit Colleges - Undercover Testing Finds Fraud and Deceptive Practices](https://www.gao.gov/products/gao-10-948t)
+3. [Supreme Court strikes down student loan program](https://www.npr.org/2023/06/30/1182216970/supreme-court-student-loan-forgiveness-decision-biden)
 
 ## Trump Launches "Trump University" Real Estate Seminars Without Academic License or Accreditation
 *Date: 2005-05-23*
@@ -15728,13 +15728,6 @@
 2. [Interior Secretary Ryan Zinke resigns amid ethics investigations](https://www.washingtonpost.com/politics/interior-secretary-ryan-zinke-resigns-amid-ethics-investigations/2018/12/15/)
 3. [Ryan Zinke's Corruption Has Finally Caught Up With Him](https://www.motherjones.com/politics/2018/12/ryan-zinke-resigns-interior-secretary-trump/)
 
-## Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
-*Date: 2018-12-18*
-
-1. [AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision](https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial)
-2. [Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'](https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html)
-3. [Trump Foundation To Dissolve Amid New York AG's Investigation](https://www.npr.org/2018/12/18/677778958/trump-foundation-to-dissolve-amid-new-york-ags-investigation)
-
 ## Judge Sullivan's Harsh Questioning of Flynn at Sentencing - "Arguably You Sold Your Country Out"
 *Date: 2018-12-18*
 
@@ -15749,6 +15742,13 @@
 1. [New York v. Trump Foundation - Order of Dissolution](https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=vIexA1b0v_PLUS_EKSuJs36C2A==&system=prod)
 2. [AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision](https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial)
 3. [Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'](https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html)
+
+## Trump Foundation Admits to Misusing Charity Funds, Agrees to Dissolve Under Court Supervision
+*Date: 2018-12-18*
+
+1. [AG Underwood Announces Stipulation Dissolving Trump Foundation Under Judicial Supervision](https://ag.ny.gov/press-release/2018/ag-underwood-announces-stipulation-dissolving-trump-foundation-under-judicial)
+2. [Trump Foundation Will Dissolve, Accused of 'Shocking Pattern of Illegality'](https://www.nytimes.com/2018/12/18/nyregion/ny-ag-underwood-trump-foundation.html)
+3. [Trump Foundation To Dissolve Amid New York AG's Investigation](https://www.npr.org/2018/12/18/677778958/trump-foundation-to-dissolve-amid-new-york-ags-investigation)
 
 ## Ginni Thomas Joins CNP Action Board - Supreme Court Spouse in Conservative Coordination Hub
 *Date: 2019-01-01*
@@ -20002,14 +20002,6 @@
 3. [Trump likely benefited from $13.6M in foreign government payments (expanded tally)](https://www.citizensforethics.org/reports-investigations/crew-reports/trump-likely-benefited-from-13-6-million-in-payments-from-foreign-governments-during-his-presidency/)
 4. [Trump says foreign payments were for services at his properties](https://www.businessinsider.com/donald-trump-says-his-businesses-did-services-for-foreign-governments-2024-1)
 
-## Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
-*Date: 2024-01-05*
-
-1. [The Design, Development & Certification of the Boeing 737 MAX - Final Report](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
-2. [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
-3. [Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
-4. [Boeing Whistleblower John Barnett Found Dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
-
 ## Alaska Airlines 737 MAX 9 Door Plug Blows Out at 16,000 Feet, Exposing Continued Boeing Safety Failures
 *Date: 2024-01-05*
 
@@ -20017,6 +20009,14 @@
 2. [DCA24MA063 Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
 3. [NTSB Chair Says Systemic Failures Led to Door Plug Flying Off Alaska Airlines' Boeing 737 Max](https://www.pbs.org/newshour/nation/watch-live-ntsb-holds-hearing-on-cause-of-alaska-airlines-boeing-737-max-9-mid-air-cabin-blowout)
 4. [NTSB Blames Boeing, FAA for Cause of Alaska Airlines Door Plug Blowout](https://abcnews.go.com/US/boeing-door-plug-blowout-probable-cause-ntsb-vote/story?id=123124256)
+
+## Boeing 737 MAX Scandal Summary - 346 Deaths, $2.5B Fine, Zero Executive Prosecutions
+*Date: 2024-01-05*
+
+1. [The Design, Development & Certification of the Boeing 737 MAX - Final Report](https://www.govinfo.gov/content/pkg/GOVPUB-Y4_T68_2-PURL-gpo144993/pdf/GOVPUB-Y4_T68_2-PURL-gpo144993.pdf)
+2. [Boeing Charged with 737 Max Fraud Conspiracy and Agrees to Pay Over $2.5 Billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion)
+3. [Alaska Airlines Flight 1282 Investigation](https://www.ntsb.gov/investigations/Pages/DCA24MA063.aspx)
+4. [Boeing Whistleblower John Barnett Found Dead](https://www.npr.org/2024/03/12/1238033573/boeing-whistleblower-john-barnett-dead)
 
 ## Independent AI Safety Researchers Publish Initial Grok AI Safety Assessment
 *Date: 2024-01-15*
@@ -22355,6 +22355,13 @@
 4. [DOJ files motion to dismiss charges in Mayor Eric Adams' case after several prosecutors resign](https://abcnews.go.com/US/doj-files-motion-dismiss-charges-mayor-eric-adams/story?id=118847473)
 5. [Whitehouse Demands Answers from Justice Department on Dismantling of Public Integrity Section](https://www.whitehouse.senate.gov/news/release/whitehouse-demands-answers-from-justice-department-on-dismantling-of-public-integrity-section/)
 
+## DOJ Public Integrity Section Gutted After Mass Resignations Over Adams Case
+*Date: 2025-02-14*
+
+1. [Justice Department office that prosecutes public corruption slashed in size](https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928)
+2. [Federal prosecutor resigns after refusing DOJ order to drop NYC Mayor Adams' corruption case](https://www.pbs.org/newshour/politics/federal-prosecutor-resigns-after-refusing-doj-order-to-drop-nyc-mayor-adams-corruption-case)
+3. [Fallout from Eric Adams case continues at the Justice Department](https://www.npr.org/2025/02/14/nx-s1-5298040/justice-department-eric-adams-fallout)
+
 ## How Trump's Justice Department has Gutted the Government's Ability to Chase Public Corruption
 *Date: 2025-02-14*
 
@@ -24427,19 +24434,19 @@
 3. [Trump-aligned club for the ultra rich launches in Washington](https://www.politico.com/news/2025/04/26/donald-trump-washington-club-00311720)
 4. [Don Jr.'s $500,000 Club's Location Revealed](https://www.thedailybeast.com/found-don-jrs-500000-clubs-dingy-location-under-a-gym/)
 
-## Donald Trump Jr. Visits Romania Ahead of Contentious Presidential Election
-*Date: 2025-04-28*
-
-1. [Donald Trump Jr. to visit Romania right before contentious election](https://www.politico.eu/article/us-donald-trump-jr-visit-romania-right-before-election/)
-2. [Trump Jr. Sails To Eastern Europe to Woo American Deals over Chinese Influence](https://visegradinsight.eu/trump-jr-sails-to-eastern-europe-to-woo-american-deals-over-chinese-influence/)
-3. [Donald Trump Jr. reportedly coming to Romania a week before first round of presidential elections](https://www.romania-insider.com/donald-trump-jr-reportedly-coming-romania-2025)
-
 ## Nexo Capital Announces U.S. Market Re-entry at Conference with Donald Trump Jr.
 *Date: 2025-04-28*
 
 1. [At event with Donald Trump Jr., Bulgaria crypto firm Nexo announces US return](https://www.reuters.com/sustainability/boards-policy-regulation/event-with-donald-trump-jr-bulgaria-crypto-firm-nexo-announces-us-return-2025-04-28/)
 2. [At event with Donald Trump Jr in Bulgaria, crypto firm Nexo announces US return](https://www.usnews.com/news/top-news/articles/2025-04-28/at-event-with-donald-trump-jr-in-bulgaria-crypto-firm-nexo-announces-us-return)
 3. [Digital Asset Platform Nexo to Return to U.S., Cites Crypto Optimism Under Donald Trump](https://www.coindesk.com/policy/2025/04/28/nexo-to-return-to-us-after-2022-exit-citing-renewed-crypto-optimism-under-trump)
+
+## Donald Trump Jr. Visits Romania Ahead of Contentious Presidential Election
+*Date: 2025-04-28*
+
+1. [Donald Trump Jr. to visit Romania right before contentious election](https://www.politico.eu/article/us-donald-trump-jr-visit-romania-right-before-election/)
+2. [Trump Jr. Sails To Eastern Europe to Woo American Deals over Chinese Influence](https://visegradinsight.eu/trump-jr-sails-to-eastern-europe-to-woo-american-deals-over-chinese-influence/)
+3. [Donald Trump Jr. reportedly coming to Romania a week before first round of presidential elections](https://www.romania-insider.com/donald-trump-jr-reportedly-coming-romania-2025)
 
 ## Tesla May Dodge Over $1 Billion in Regulatory Fines Due to Trump Administration Influence
 *Date: 2025-04-28*
@@ -30315,6 +30322,13 @@
 2. [Why No Charges? Friends, Family of Man Killed by Off-Duty ICE Officer Ask After New Year's Eve Shooting](https://capitalandmain.com/why-no-charges-friends-family-of-man-killed-by-off-duty-ice-officer-ask-after-new-years-eve-shooting)
 3. [Keith Porter death: Community demands accountability after father of 2 killed by off-duty ICE agent](https://abc7.com/post/keith-porter-death-community-demands-accountability-vigil-father-2-killed-off-duty-ice-agent-northridge/18353797/)
 
+## ACA Enhanced Subsidies Expire, Premiums Double for 22 Million Americans
+*Date: 2026-01-01*
+
+1. [Health subsidies expire, launching millions of Americans into 2026 with steep insurance hikes](https://www.pbs.org/newshour/health/health-subsidies-expire-launching-millions-of-americans-into-2026-with-steep-insurance-hikes)
+2. [Affordable Care Act subsidies have expired. What that means for millions of Americans](https://www.npr.org/2026/01/01/nx-s1-5661666/affordable-care-act-subsidies-have-expired-what-that-means-for-millions-of-americans)
+3. [ACA Marketplace Premium Payments Would More than Double on Average Next Year if Enhanced Premium Tax Credits Expire](https://www.kff.org/affordable-care-act/aca-marketplace-premium-payments-would-more-than-double-on-average-next-year-if-enhanced-premium-tax-credits-expire/)
+
 ## Medicaid Expansion Funding Cuts Take Effect, Threatening 1.3 Million
 *Date: 2026-01-01*
 
@@ -30374,6 +30388,13 @@
 
 1. [Protests against the second Trump administration](https://en.wikipedia.org/wiki/Protests_against_the_second_Trump_administration)
 2. [January 14, 2026 - Trump administration news](https://www.cnn.com/politics/live-news/trump-presidency-administration-greenland-venezuela-01-14-26)
+
+## CDC Slashes Childhood Vaccine Schedule from 17 to 11 Diseases, Bypassing Advisory Committee
+*Date: 2026-01-05*
+
+1. [CDC slashes vaccines recommended for all kids](https://www.npr.org/sections/shots-health-news/2026/01/05/nx-s1-5667199/cdc-vaccine-schedule-children)
+2. [CDC Acts on Presidential Memorandum to Update Childhood Immunization Schedule](https://www.cdc.gov/media/releases/2026/2026-cdc-acts-on-presidential-memorandum-to-update-childhood-immunization-schedule.html)
+3. [In a tumultuous year, U.S. health policy transforms under RFK Jr.](https://www.pbs.org/newshour/health/in-a-tumultuous-year-u-s-health-policy-transforms-under-rfk-jr)
 
 ## Danish PM Frederiksen Warns US Attack on Greenland Would Mean 'End of Everything'
 *Date: 2026-01-05*
@@ -30449,6 +30470,13 @@
 2. [Feds descend on Roosevelt High School, MPS cancels school](https://www.cbsnews.com/minnesota/news/roosevelt-high-school-federal-clash-mps-cancels-classes/)
 3. [Border Patrol detains Roosevelt High staffer](https://sahanjournal.com/education/border-patrol-detains-minneapolis-roosevelt-high-staffer/)
 
+## House Oversight Committee Holds Minnesota Social Services Fraud Hearing
+*Date: 2026-01-07*
+
+1. [Oversight of Fraud and Misuse of Federal Funds in Minnesota - Part I](https://oversight.house.gov/hearing/oversight-of-fraud-and-misuse-of-federal-funds-in-minnesota-part-i/)
+2. [Minnesota lawmakers highlight fraud schemes at hearing before House committee](https://www.cbsnews.com/news/minnesota-fraud-schemes-house-oversight-hearing/)
+3. [House Oversight hearing over fraud allegations in Minnesota drew shouting and partisan fury](https://www.cnn.com/2026/01/07/us/takeaways-minnesota-fraud-hearing)
+
 ## ICE Agent Kills Legal Observer Renee Nicole Good During Minneapolis Raid
 *Date: 2026-01-07*
 
@@ -30504,6 +30532,13 @@
 2. [JD Vance Has Chilling Warning About ICE in Wake of Minnesota Shooting](https://newrepublic.com/post/205056/jd-vance-threat-ice-door-to-door-minnesota-shooting)
 3. [Immigration enforcement ramp-up has only just begun, VP Vance promises](https://www.yahoo.com/news/articles/immigration-enforcement-ramp-only-just-232710573.html)
 
+## World Liberty Financial Applies for OCC Bank Charter
+*Date: 2026-01-07*
+
+1. [Trump-linked World Liberty Financial applies for federal bank charter](https://www.coindesk.com/policy/2026/01/07/trump-linked-world-liberty-financial-applies-for-federal-bank-charter)
+2. [World Liberty Financial Announces that WLTC Holdings LLC has Submitted an Application for a National Trust Bank Charter](https://www.businesswire.com/news/home/20260107876750/en/World-Liberty-Financial-Announces-that-WLTC-Holdings-LLC-has-Submitted-an-Application-for-a-National-Trust-Bank-Charter-to-Issue-and-Custody-USD1-Stablecoins)
+3. [World Liberty Financial's bid for a U.S. bank charter raises new questions about Trump's crypto conflicts](https://fortune.com/2026/01/12/trump-world-liberty-financial-crypto-fintech-occ-bank-charter-license-memecoin/)
+
 ## CBP Agents Tackle and Detain Two U.S. Citizen Teenagers at Richfield Target Store
 *Date: 2026-01-08*
 
@@ -30558,6 +30593,12 @@
 2. [Rep. Mullin Calls for Impeachment of DHS Secretary Noem](https://kevinmullin.house.gov/2026/01/08/rep-mullin-calls-for-impeachment-of-dhs-secretary-noem/)
 3. [Robin Kelly files impeachment articles against Kristi Noem](https://www.cbsnews.com/chicago/news/robin-kelly-impeachment-kristi-noem-ice-shooting/)
 
+## DHS Announces Operation Salvo Results in New York City
+*Date: 2026-01-08*
+
+1. [Secretary Noem Announces Success in Operation Salvo in New York City Following Shooting of CBP Officer](https://www.dhs.gov/news/2026/01/09/secretary-noem-announces-success-operation-salvo-new-york-city-following-shooting)
+2. [Kristi Noem touts Operation Salvo in New York, targeting alleged Trinitarios gang members, a day after deadly Minneapolis ICE shooting](https://www.cbsnews.com/newyork/news/ny-operation-salvo-kristi-noem/)
+
 ## Border Patrol Agent Shoots Two People in Portland, Oregon, Over 270 Miles From Border
 *Date: 2026-01-08*
 
@@ -30585,6 +30626,13 @@
 
 1. [Dan Bongino - FBI picks career agent Christopher Raia to replace the former deputy director](https://www.cnn.com/2026/01/09/politics/fbi-christopher-raia-dan-bongino-deputy-director)
 2. [Kash Patel Names FBI Agent Raia as Deputy After Bongino's Exit](https://www.bloomberg.com/news/articles/2026-01-09/kash-patel-names-fbi-agent-raia-as-deputy-after-bongino-s-exit)
+
+## Supreme Court Narrows AEDPA Bar on Federal Habeas Claims
+*Date: 2026-01-09*
+
+1. [Bowe v. United States](https://supreme.justia.com/cases/federal/us/607/24-5438/)
+2. [Supreme Court Resolves Split Over Federal Inmates' Habeas Rights](https://news.bloomberglaw.com/litigation/supreme-court-resolves-split-over-federal-inmates-habeas-rights)
+3. [SCOTUS Decision in Bowe v. United States Is First of the 2026 Term](https://constitutionallawreporter.com/2026/02/05/scotus-decision-in-bowe-v-united-states-is-first-of-the-2026-term)
 
 ## Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit
 *Date: 2026-01-09*
@@ -30663,6 +30711,13 @@
 1. [RFK Jr reshapes CDC vaccine panel with new OB-GYN appointments](https://www.foxnews.com/health/rfk-jr-reshapes-cdc-vaccine-panel-new-ob-gyn-appointments)
 2. [New RFK Jr. pick for vaccine panel: 'I was not anti-vaccine. I am now.'](https://dnyuz.com/2026/01/13/new-rfk-jr-pick-for-vaccine-panel-i-was-not-anti-vaccine-i-am-now/)
 
+## Supreme Court Hears Transgender Sports Ban Cases, Signals Support for Restrictions
+*Date: 2026-01-13*
+
+1. [Supreme Court leans toward backing state restrictions on transgender student-athletes](https://www.nbcnews.com/politics/supreme-court/supreme-court-transgender-athletes-girls-sports-state-bans-argument-rcna252377)
+2. [Little v. Hecox (Transgender Athletes)](https://www.scotusblog.com/cases/case-files/little-v-hecox/)
+3. [Unpacking the transgender athletes' case at the Supreme Court](https://constitutioncenter.org/blog/unpacking-the-transgender-athletes-case-at-the-supreme-court)
+
 ## Twelve Federal Prosecutors Resign Over DOJ Handling of Renee Good Shooting
 *Date: 2026-01-13*
 
@@ -30671,6 +30726,13 @@
 3. [Top prosecutors leave amid turmoil over DOJ civil rights response](https://www.washingtonpost.com/national-security/2026/01/13/justice-department-civil-rights-resignations/)
 4. [Six DOJ Prosecutors Resign Over Renee Good Investigation](https://www.notus.org/courts/doj-prosecutors-joseph-thompson-resign-renee-good-widow-minneapolis-investigation-fbi)
 5. [Mass exodus hits Justice Department's Civil Rights Division amid lack of action in Minneapolis](https://www.cbsnews.com/news/minneapolis-ice-agent-shooting-justice-department-civil-rights-division-resignations/)
+
+## FBI Raids Washington Post Reporter's Home, Seizes Devices in Unprecedented Press Freedom Violation
+*Date: 2026-01-14*
+
+1. [FBI agents search Washington Post reporter's home](https://www.washingtonpost.com/national-security/2026/01/14/washington-post-reporter-search/)
+2. [FBI searches Washington Post reporter's home as part of an investigation into government contractor](https://www.nbcnews.com/news/us-news/fbi-searched-washington-post-reporters-home-part-investigation-governm-rcna254008)
+3. [In highly unusual move, FBI searches Washington Post reporter Hannah Natanson's home, seizes devices](https://cpj.org/2026/01/in-highly-unusual-move-fbi-searches-washington-post-reporter-hannah-natansons-home-seizes-devices/)
 
 ## House Democrats Introduce Articles of Impeachment Against DHS Secretary Kristi Noem
 *Date: 2026-01-14*
@@ -30684,6 +30746,19 @@
 2. [Supreme Court Bost decision on candidate standing](https://www.npr.org/2026/01/14/nx-s1-5677318/supreme-court-bost-decision-candidate-standing)
 3. [Bost v. Illinois State Board of Elections Opinion](https://www.supremecourt.gov/opinions/25pdf/24-568_gfbh.pdf)
 
+## Trump Imposes 25% Tariff on Advanced AI Semiconductors Under Section 232
+*Date: 2026-01-14*
+
+1. [Fact Sheet: President Donald J. Trump Takes Action on Certain Advanced Computing Chips to Protect America's Economic and National Security](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/)
+2. [Adjusting Imports of Semiconductors, Semiconductor Manufacturing Equipment, and Their Derivative Products into the United States](https://www.whitehouse.gov/presidential-actions/2026/01/adjusting-imports-of-semiconductors-semiconductor-manufacturing-equipment-and-their-derivative-products-into-the-united-states/)
+
+## ACLU Files Class Action Against ICE for Racial Profiling in Minnesota
+*Date: 2026-01-15*
+
+1. [ACLU, ACLU of Minnesota Sue Federal Government to End ICE, CBP's Practice of Suspicionless Stops, Warrantless Arrests, and Racial Profiling of Minnesotans](https://www.aclu-mn.org/press-releases/ice-lawsuit2/)
+2. [Minnesota ICE Enforcement - Alleged Constitutional Violations](https://www.justsecurity.org/130745/minnesota-ice-racial-profiling/)
+3. [Lawsuit accuses federal agents of racial profiling in Minneapolis immigration operation](https://www.nbcnews.com/news/us-news/lawsuit-accuses-federal-agents-racial-profiling-minneapolis-immigratio-rcna254245)
+
 ## Federal Judge Rules ICE Violated Fourth Amendment by Breaking Into Minneapolis Home Without Judicial Warrant
 *Date: 2026-01-15*
 
@@ -30691,6 +30766,19 @@
 2. [Judge: ICE violated Liberian man's rights by bursting through front door during arrest](https://www.fox9.com/news/judge-ice-violated-liberian-mans-rights-bursting-through-front-door-during-arrest)
 3. [Judge orders release of Liberian man from ICE custody after Minneapolis arrest](https://thehill.com/homenews/state-watch/5693339-liberian-man-ice-arrest-released/)
 4. [Judge orders release of Liberian man arrested in Minneapolis by agents with a battering ram](https://abcnews.go.com/US/wireStory/judge-orders-release-liberian-man-arrested-minneapolis-agents-129268651)
+
+## Public Citizen Report Documents 159 Cancelled Corporate Enforcement Actions Worth $3.1 Billion
+*Date: 2026-01-15*
+
+1. [Canceled Corporate Enforcement](https://www.citizen.org/wp-content/uploads/canceled-corporate-enforcement-trump-2026.pdf)
+2. [Trump Loves Tariffs, Just Not for the Rich and Well-Connected](https://www.citizen.org/article/trump-loves-tariffs-just-not-for-the-rich-and-well-connected/)
+
+## Senate Armed Services Committee Holds NSA Nominee Confirmation Hearing
+*Date: 2026-01-15*
+
+1. [Hearing to Consider Nominations of Lt. Gen. Donovan and Lt. Gen. Rudd](https://www.armed-services.senate.gov/hearings/to-consider-the-nominations-of-lieutenant-general-francis-l-donovan-usmc-to-be-general-and-commander-united-states-southern-command-and-lieutenant-general-joshua-m-rudd-usa-to-be-general-and-director-national-security-agency/chief-central-security-service/commander-united-states-cyber-command)
+2. [Army General Tapped to Lead NSA Said He Doesn't Know Much About the Biggest NSA Controversy](https://theintercept.com/2026/01/26/nsa-joshua-rudd-confirmation-hearings-senate-pick/)
+3. [Trump's cyber chief pick tells lawmakers he'll assess efficacy of Cybercom-NSA dual-hat role](https://defensescoop.com/2026/01/15/gen-rudd-cybercom-nsa-dual-hat-cyber-force/)
 
 ## Trump Threatens to Invoke Insurrection Act in Minneapolis, Calls Protesters 'Highly Paid Professionals'
 *Date: 2026-01-15*
@@ -30721,6 +30809,61 @@
 3. [Gaza plan phase two - US to discuss Hamas disarmament, Israeli withdrawal](https://www.aljazeera.com/news/2026/1/15/gaza-plan-phase-two-us-to-discuss-hamas-disarmament-israeli-withdrawal)
 4. [Netanyahu in rare rebuke of Trump - Gaza board makeup 'runs contrary' to Israeli policy](https://www.ynetnews.com/article/bjj684fs11x)
 
+## DOGE Claims $881M in Education Research Contract Cancellations
+*Date: 2026-01-17*
+
+1. [Which Organizations' Contracts at the Education Department Have Been Terminated by DOGE?](https://marketbrief.edweek.org/regulation-policy/which-organizations-contracts-at-the-education-department-have-been-terminated-by-doge/2025/04)
+2. [Institute of Education Sciences cuts imperil high-quality research, lawsuits allege](https://www.k12dive.com/news/education-research-in-peril-lawsuits-Trump-IES-NAEP/745513/)
+3. [Department of Education contract cuts spur 'chaos and confusion'](https://thehill.com/homenews/education/5151673-department-of-education-cuts-trump-musk-doge-research-funding/)
+
+## Trump Announces 10% Tariffs on Eight NATO Allies Over Greenland
+*Date: 2026-01-17*
+
+1. [Trump says 8 EU countries to be charged 10% tariff for opposing US control of Greenland](https://www.npr.org/2026/01/17/nx-s1-5680839/trump-eu-greenland-tariffs)
+2. [Trump pledges to slap tariffs on European allies over Greenland](https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland)
+3. [Trump hits 8 U.S. allies with tariffs in push for Greenland deal](https://www.nbcnews.com/business/economy/trump-denmark-european-tariffs-greenland-deal-rcna254551)
+
+## Trump Financial Disclosure Reveals Netflix and Warner Bros. Bond Purchases After Merger Announcement
+*Date: 2026-01-17*
+
+1. [Trump purchased up to $51 million in bonds at the end of 2025, including Netflix and Warner Bros. investments](https://www.cnn.com/2026/01/17/business/trump-financial-disclosure-netflix-warner-bros)
+2. [Donald Trump Bought at Least $1 Million in Netflix, Warner Bros. Discovery Bonds Following Their Deal Announcement](https://variety.com/2026/tv/news/trump-bought-netflix-warner-bros-discovery-bonds-1236633738/)
+3. [Trump Bought Netflix and Warner Bros. Discovery Bonds In Days After Megadeal Was Announced](https://www.hollywoodreporter.com/business/business-news/trump-bought-netflix-warner-bros-discovery-bonds-after-deal-1236476189/)
+
+## Anti-ICE Protesters Disrupt St. Paul Church Service, Triggering Federal Crackdown on Journalists
+*Date: 2026-01-18*
+
+1. [Cities Church in Minnesota is considering legal options after anti-ICE protest](https://religionnews.com/2026/01/20/cities-church-in-minnesota-is-considering-legal-options-after-anti-ice-protest/)
+2. [Don Lemon pleads not guilty to civil rights charges in anti-ICE Minnesota church protest](https://www.pbs.org/newshour/politics/don-lemon-pleads-not-guilty-to-civil-rights-charges-in-anti-ice-minnesota-church-protest)
+3. [Journalist Don Lemon charged after arrest over Minnesota church protest](https://globalnews.ca/news/11644814/don-lemon-arrested-by-federal-agents/)
+
+## EPA WOTUS Rollback Moves Forward After Public Comment Period
+*Date: 2026-01-18*
+
+1. [EPA & Army Corps Unveil Clear, Durable WOTUS Proposal](https://www.epa.gov/newsreleases/epa-army-corps-unveil-clear-durable-wotus-proposal)
+2. [Updated Definition of Waters of the United States](https://www.federalregister.gov/documents/2025/11/20/2025-20402/updated-definition-of-waters-of-the-united-states)
+3. [EPA's Narrowed Definition of WOTUS Threatens Water Quality](https://waterkeeper.org/news/epas-narrowed-definition-of-wotus-threatens-water-quality/)
+
+## EU Convenes Emergency Meeting on Trump Greenland Tariff Threats
+*Date: 2026-01-18*
+
+1. [Trump has tariffs. Europe has a 'trade bazooka.' This Greenland standoff could get ugly, fast](https://www.cnn.com/2026/01/18/business/europe-greenland-trump-tariffs-trade)
+2. [Trump's Greenland tariffs: What's Europe's 'bazooka' option to hit back?](https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back)
+
+## ICE Announces 3,000 Arrests in Operation Metro Surge
+*Date: 2026-01-19*
+
+1. [ICE Continues to Remove the Worst of the Worst from Minneapolis Streets as DHS Law Enforcement Marks 3,000 Arrests During Operation Metro Surge](https://www.dhs.gov/news/2026/01/19/ice-continues-remove-worst-worst-minneapolis-streets-dhs-law-enforcement-marks-3000)
+2. [Homeland Security officials say 3,000 arrests have been made in Minnesota over the past 6 weeks](https://www.kare11.com/article/news/local/ice-in-minnesota/border-patrol-ice-officials-press-conference-update-minneapolis-immigration-operation/89-41d6c505-10eb-4e84-85b2-095530cceeec)
+3. [Minnesota corrections commissioner disputes ICE arrest numbers](https://www.npr.org/2026/01/30/nx-s1-5691838/minnesota-corrections-commissioner-disputes-ice-arrest-numbers)
+
+## DOJ Court Filing Confirms DOGE Shared Social Security Data to Unauthorized Server
+*Date: 2026-01-20*
+
+1. [DOGE shared Social Security data to unauthorized server, according to court filing](https://www.cnn.com/2026/01/20/politics/doge-social-security-data-unauthorized-server)
+2. [Whistleblower responds after DOJ confirms DOGE mishandled Social Security data](https://www.pbs.org/newshour/show/whistleblower-responds-after-doj-confirms-doge-mishandled-social-security-data)
+3. [DOJ Issues Corrections Validating Whistleblower's Claim of DOGE Mismanagement at Social Security Administration](https://whistleblower.org/press/doj-issues-corrections-validating-whistleblowers-claim-of-doge-mismanagement-at-social-security-administration/)
+
 ## DOJ Serves Grand Jury Subpoenas to Governor Walz, Mayor Frey, and AG Ellison Over Immigration Enforcement
 *Date: 2026-01-20*
 
@@ -30736,6 +30879,40 @@
 2. [Thousands flood streets during nationwide 'Free America Walkout' demonstration](https://www.foxnews.com/politics/nationwide-walkout-draws-thousands-streets-anniversary-trumps-inauguration)
 3. [Coalition of Activist Groups Calls for a Nationwide Walkout to Protest Trump Admin](https://www.democracynow.org/2026/1/20/headlines/coalition_of_activist_groups_calls_for_a_nationwide_walkout_to_protest_trump_admin)
 
+## Supreme Court Issues Three Unanimous Rulings on Federal Procedures
+*Date: 2026-01-20*
+
+1. [The Supreme Court Update - January 20, 2026](https://www.dorsey.com/newsresources/publications/client-alerts/2026/1/january-20-supreme-court-update)
+2. [The Supreme Court Update - January 20, 2026](https://www.jdsupra.com/legalnews/the-supreme-court-update-january-20-2026-5690518/)
+
+## Trump Executive Order Directs Restrictions on Institutional Investor Home Purchases
+*Date: 2026-01-20*
+
+1. [Stopping Wall Street from Competing with Main Street Homebuyers](https://www.whitehouse.gov/presidential-actions/2026/01/stopping-wall-street-from-competing-with-main-street-homebuyers/)
+2. [Fact Sheet: President Donald J. Trump Stops Wall Street from Competing with Main Street Homebuyers](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-stops-wall-street-from-competing-with-main-street-homebuyers/)
+3. [Trump targets Wall Street homebuyers, but affordability doubts remain](https://www.cnbc.com/2026/01/21/trump-says-he-wants-people-to-be-able-to-a-buy-a-home.html)
+
+## Lindsey Halligan Forced Out of DOJ After Unlawful Appointment Ruling
+*Date: 2026-01-21*
+
+1. [Lindsey Halligan, Trump's former personal attorney, exits federal prosecutor post](https://www.npr.org/2026/01/21/nx-s1-5684189/lindsey-halligan-trump-justice-us-attorney)
+2. [U.S. attorney pretender Lindsey Halligan leaves office after federal judges force her out](https://www.democracydocket.com/news-alerts/trump-prosecutor-lindsey-halligan-leaves-office-federal-judges/)
+3. [Trump loyalist Lindsey Halligan leaves her post as a top federal prosecutor](https://www.nbcnews.com/politics/justice-department/judge-posts-job-opening-top-prosecutor-spot-doj-claims-lindsey-halliga-rcna254982)
+
+## ICE Launches Operation Catch of the Day in Maine
+*Date: 2026-01-21*
+
+1. [ICE Launches Operation Catch of the Day Targeting the Worst of Worst Criminal Illegal Aliens Across Maine](https://www.dhs.gov/news/2026/01/21/ice-launches-operation-catch-day-targeting-worst-worst-criminal-illegal-aliens)
+2. [ICE confirms immigration surge in Maine, claims nearly 50 arrests so far](https://www.wbur.org/news/2026/01/21/maine-ice-enforcement-surge-confirmed-immigration-portland-lewiston)
+3. [Immigrants advised to shelter in place as feds confirm launch of Maine operation](https://mainemorningstar.com/2026/01/21/immigrants-advised-to-shelter-in-place-as-feds-confirm-launch-of-maine-operation/)
+
+## Federal Judge Rejects Special Master Request for Epstein Files
+*Date: 2026-01-21*
+
+1. [Judge denies lawmaker request for compliance on Epstein files law](https://rollcall.com/2026/01/21/judge-denies-lawmaker-request-for-compliance-on-epstein-files-law/)
+2. [Judge says lawmakers can sue to ensure release of Epstein files, but not as part of Maxwell case](https://www.washingtontimes.com/news/2026/jan/21/judge-says-lawmakers-sue-ensure-release-epstein-files-part-maxwell/)
+3. [Reps. Khanna and Massie Call for the Appointment of a Special Master](https://khanna.house.gov/media/press-releases/reps-khanna-and-massie-call-appointment-special-master-compel-department)
+
 ## Supreme Court Hears Trump v. Cook, Justices Skeptical of Presidential Power to Fire Federal Reserve Governors
 *Date: 2026-01-21*
 
@@ -30744,6 +30921,19 @@
 3. [Supreme Court weighs Trump's bid to fire Fed governor](https://abcnews.go.com/Politics/trump-pressures-fed-supreme-court-weighs-bid-fire/story?id=129293559)
 4. [Takeaways from Supreme Court Federal Reserve Lisa Cook arguments](https://www.cnn.com/2026/01/21/politics/takeaways-supreme-court-federal-reserve-lisa-cook-trump-power)
 
+## Supreme Court Hears Arguments on Presidential Removal Power in Trump v Cook
+*Date: 2026-01-21*
+
+1. [Trump, President of the United States v. Cook](https://www.oyez.org/cases/2025/25A312)
+2. [Trump v Slaughter - The Supreme Court Wants You to Believe Congress Does Not Exist](https://ballsandstrikes.org/scotus/trump-v-slaughter-oral-argument-recap/)
+
+## Trump Announces Greenland "Framework," Backs Off Tariffs at Davos
+*Date: 2026-01-21*
+
+1. [Trump says he reached Greenland deal 'framework' with NATO, backs off Europe tariffs](https://www.cnbc.com/2026/01/21/trump-tariffs-nato-greenland-davos.html)
+2. [Trump backs off tariff threats and hails 'framework of a future deal' on Greenland](https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland)
+3. [Trump announces 'framework' for a future deal on Greenland, drops NATO tariff threat](https://abcnews.go.com/Politics/trump-stands-nato-tariff-threat-citing-framework-deal/story?id=129430043)
+
 ## Trump Threatens Tariffs on Eight NATO Allies at Davos Over Greenland, Blasts Europe as 'Not Recognizable'
 *Date: 2026-01-21*
 
@@ -30751,6 +30941,27 @@
 2. [I was in the room when Trump addressed leaders in Davos. Here are my top takeaways](https://www.cnbc.com/2026/01/21/donald-trump-davos-speech-greenland-tariffs-europe.html)
 3. [Trump says 'I won't use force' to obtain Greenland, in Davos speech](https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland)
 4. [Trump rules out using military force to acquire Greenland in Davos speech](https://abcnews.go.com/Politics/trump-nation-secure-greenland-us-davos-speech/story?id=129417816)
+
+## Whistleblowers Expose ICE Policy Authorizing Warrantless Home Entries
+*Date: 2026-01-21*
+
+1. [WhistleblowerAid.org Clients Disclose Hidden DHS Policy That Encourages ICE Agents to Break into Homes without Warrants](https://whistlebloweraid.org/whistleblower-aid-clients-disclose-hidden-dhs-policy-that-encourages-ice-agents-to-break-into-homes-without-warrants/)
+2. [Internal DHS memo says ICE agents can enter homes without a judicial warrant](https://www.npr.org/2026/01/25/nx-s1-5685400/internal-dhs-memo-says-ice-agents-can-enter-homes-without-a-judicial-warrant)
+3. [Senator Blumenthal Letter to DHS and ICE](https://www.hsgac.senate.gov/wp-content/uploads/2026-01-21-Letter-from-Blumenthal-to-DHS-ICE.pdf)
+
+## Maryland Man Arrested on Attempted Murder Charges After Appearing at OMB Director Vought's Home
+*Date: 2026-01-22*
+
+1. [Maryland man facing attempted murder charges after showing up at OMB Director Russell Vought's home](https://www.cbsnews.com/news/maryland-man-russell-vought-attempted-murder-charges/)
+2. [Maryland man faces attempted murder charges after allegedly showing up at OMB Director Russell Vought's home last year](https://www.nbcnews.com/politics/trump-administration/maryland-man-facing-attempted-murder-charges-showing-omb-director-russ-rcna257693)
+3. [Maryland man charged with attempted murder after showing up at White House OMB Director Russell Vought's home](https://abcnews.com/US/maryland-man-charged-attempted-murder-after-showing-white/story?id=129903711)
+
+## House Passes Final FY2026 Appropriations Bills in Split Vote
+*Date: 2026-01-22*
+
+1. [Final fiscal 2026 spending bills pass House; Senate up next](https://rollcall.com/2026/01/22/final-fiscal-2026-spending-bills-pass-house-senate-up-next/)
+2. [House Passes H.R. 7148 and H.R. 7147, Completing FY26 Appropriations](https://appropriations.house.gov/news/press-releases/house-passes-hr-7148-and-hr-7147-completing-fy26-appropriations-america-first-0)
+3. [House passes final government funding bills for 2026](https://thehill.com/homenews/house/5701980-house-government-funding-bills/)
 
 ## Whistleblowers Reveal Secret ICE Memo Authorizing Agents to Enter Homes Without Judicial Warrants
 *Date: 2026-01-22*
@@ -30768,6 +30979,13 @@
 3. [The Citywide General Strike Has a Rich History in America](https://jacobin.com/2026/01/ice-minneapolis-general-strike-history)
 4. [2026 Minnesota general strike](https://en.wikipedia.org/wiki/2026_Minnesota_general_strike)
 
+## NPR Report Reveals Trump Administration Admits DOGE Accessed Personal Social Security Data Beyond Legal Authority
+*Date: 2026-01-23*
+
+1. [The Trump administration admits even more ways DOGE accessed sensitive personal data](https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy)
+2. [Senators demand details on DOGE's data access following revelations of improperly shared SSA data](https://www.nextgov.com/digital-government/2026/01/senators-demand-details-doges-data-access-following-revelations-improperly-shared-ssa-data/410991/)
+3. [Statement from Debra Katz, Attorney for Charles Borges, on Social Security Data Misuse](https://katzbanks.com/news/borges-doj-filing/)
+
 ## Border Patrol Agents Kill Alex Pretti, Second Legal Observer Shot in Minneapolis in Three Weeks
 *Date: 2026-01-24*
 
@@ -30776,3 +30994,483 @@
 3. [Federal agent fatally shoots man Saturday in Minneapolis](https://www.mprnews.org/story/2026/01/24/minneapolis-looking-into-possible-shooting-by-ice-agent)
 4. [Killing of Alex Pretti](https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti)
 5. [Labor Leaders Mourn Alex Pretti as General Strike Calls Build](https://paydayreport.com/labor-leaders-mourn-alex-prettii-as-general-strike-calls-build/)
+
+## Denmark Deploys Combat-Ready Troops to Greenland in Operation Arctic Endurance
+*Date: 2026-01-25*
+
+1. [Denmark sends more troops to Greenland amid tensions with Trump](https://www.aljazeera.com/news/2026/1/20/denmark-sends-more-troops-to-greenland-amid-tensions-with-trump)
+2. [Denmark bolsters Greenland forces 'in close collaboration with NATO allies'](https://breakingdefense.com/2026/01/denmark-bolsters-greenland-forces-in-close-collaboration-with-nato-allies/)
+
+## Bondi Requests Minnesota Voter Rolls Including Public Assistance Data for ICE Enforcement
+*Date: 2026-01-26*
+
+1. [Follow-Up Letter to DOJ re Voter Rolls Requests](https://www.padilla.senate.gov/wp-content/uploads/26.01.29-Follow-Up-Letter-to-DOJ-re-Voter-Rolls-Requests-FINAL.pdf)
+2. [Letter to Bondi DOJ re Good and Pretti investigations](https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-01-26-raskin-et-al-to-bondi-doj-re-good-and-pretti-investigations_0.pdf)
+
+## DOJ Delegates Ethics Authority to Political Aides Sidelining Career Officials
+*Date: 2026-01-27*
+
+1. [SJC Dems Letter to DOJ re Ethics](https://www.judiciary.senate.gov/imo/media/doc/2025-02-20%20SJC%20Dems%20Letter%20to%20DOJ%20re%20Ethics.pdf)
+2. [Tracking retaliatory use of arrests, prosecutions, and investigations by the Trump administration](https://protectdemocracy.org/work/retaliatory-action-tracker/)
+
+## Federal Employment Hits Lowest Level Since 1966 as DOGE Reductions Take Hold
+*Date: 2026-01-27*
+
+1. [Federal Employment at Lowest Point Since LBJ Era As DOGE Reductions Take Hold](https://redstate.com/ben-smith/2026/02/11/federal-employment-hits-lowest-level-since-1966-as-trump-doge-cut-government-workforce-n2199059)
+2. [DOGE Produced the Largest Peacetime Workforce Cut on Record, but Spending Kept Rising](https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0)
+3. [DOGE cuts wiped out years of growth in Virginia's federal civilian jobs](https://www.vpm.org/news/2026-01-20/trump-doge-federal-civilian-job-cuts-layoffs-danville-goodyear)
+
+## Trump Executive Order Authorizes Federal Preemption of California Rebuilding Regulations
+*Date: 2026-01-27*
+
+1. [Addressing State and Local Failures to Rebuild Los Angeles After Wildfire Disasters](https://www.whitehouse.gov/presidential-actions/2026/01/addressing-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/)
+2. [Fact Sheet: President Donald J. Trump Addresses State and Local Failures to Rebuild Los Angeles After Wildfire Disasters](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-state-and-local-failures-to-rebuild-los-angeles-after-wildfire-disasters/)
+3. [Trump Orders Federal Takeover of LA Wildfire Rebuilding Efforts](https://www.bloomberg.com/news/articles/2026-01-27/trump-orders-federal-takeover-of-la-wildfire-rebuiding-efforts)
+
+## Federal Judge Finds ICE Violated 96 Court Orders in Minnesota
+*Date: 2026-01-28*
+
+1. [ICE violated at least 96 court orders in January](https://www.fox9.com/news/ice-violated-least-96-court-orders-january)
+2. [ICE is not a law unto itself, Minnesota judge says after immigrant released following contempt threat](https://www.cnbc.com/2026/01/28/ice-immigrant-minnesota-contempt-released.html)
+3. [Federal judge blasts ICE noncompliance, highlights nearly 100 cases in January](https://kstp.com/kstp-news/top-news/federal-judge-blasts-ice-noncompliance-highlights-nearly-100-cases-in-january/)
+
+## Ninth Circuit Rules DHS Exceeded Authority Terminating Venezuelan TPS
+*Date: 2026-01-28*
+
+1. [National TPS Alliance v. Noem, No. 25-5724](https://law.justia.com/cases/federal/appellate-courts/ca9/25-5724/25-5724-2026-01-28.html)
+2. [Ninth Circuit Court Upholds Federal Court's Authority in TPS Lawsuit](https://www.nationaltpsalliance.org/breaking-ninth-circuit-court-upholds-federal-courts-authority-in-lawsuit-challenging-the-trump-administrations-attempt-to-strip-tps-from-venezuelans/)
+3. [9th Circuit Finds DHS Overstepped in Terminating TPS](https://www.littler.com/news-analysis/asap/9th-circuit-finds-dhs-overstepped-terminating-tps)
+
+## Federal Reserve Refuses to Comply with DOJ Grand Jury Subpoenas Against Powell
+*Date: 2026-01-28*
+
+1. [Fed has not yet complied with subpoenas in Jerome Powell probe](https://www.cnbc.com/2026/01/28/fed-powell-criminal-subpoenas-pirro.html)
+2. [Federal Reserve receives DOJ subpoena in escalating pressure campaign](https://www.npr.org/2026/01/11/nx-s1-5674034/fed-powell-subpoena-doj-building-renovation)
+3. [Chair Powell's Press Conference](https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20260128.pdf)
+
+## Rubio Testifies to Senate on Venezuela Policy, Pledges No Further Military Action
+*Date: 2026-01-28*
+
+1. [Marco Rubio tells senators Venezuela transition won't be fast or easy](https://www.npr.org/2026/01/28/nx-s1-5690365/rubio-senate-venezuela)
+2. [Secretary of State Marco Rubio Before the Senate Committee on Foreign Relations on U.S. Policy Towards Venezuela](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/secretary-of-state-marco-rubio-before-the-senate-committee-on-foreign-relations-on-u-s-policy-towards-venezuela)
+3. [Rubio says U.S. doesn't expect to take further military action in Venezuela "at any time"](https://www.cbsnews.com/live-updates/marco-rubio-senate-hearing-venezuela/)
+4. [WATCH - Rubio defends Trump policy on Venezuela, downplays fears about Greenland and NATO](https://www.pbs.org/newshour/politics/watch-live-rubio-testifies-at-senate-hearing-on-u-s-policy-toward-venezuela)
+
+## Vought Allocates $15 Million in USAID Funds for Personal Security Detail Through 2026
+*Date: 2026-01-28*
+
+1. [Russ Vought helped gut USAID — then reportedly used its money for his security](https://www.ms.now/opinion/russell-vought-security-usaid-doge-musk-trump-omb)
+2. [DOGE Lives On Through Russell Vought](https://prospect.org/2026/02/05/doge-russell-vought-elon-musk-office-management-budget/)
+3. [DOGE Lives On Through Russell Vought](https://therevolvingdoorproject.org/doge-lives-on-through-russell-vought/)
+
+## Dhillon Refocuses Civil Rights Division on Voter Fraud as 70% of Staff Exit
+*Date: 2026-01-29*
+
+1. [Dismantling of DOJ's Civil Rights Division](https://www.thejusticeconnection.org/press-dismantling-doj-civil-rights-division/)
+2. [Judge deals blow to the Trump Justice Department's use of the Civil Rights Act to 'clean' voter rolls](https://www.cnn.com/2026/01/14/politics/voter-rolls-lawsuits-civil-rights-act)
+3. [LDF Opposes Confirmation of Harmeet Dhillon as Civil Rights Division Head](https://www.naacpldf.org/press-release/ldf-opposes-confirmation-of-harmeet-dhillon-as-civil-rights-division-head/)
+
+## Supreme Court to Hear Birthright Citizenship Challenge in April
+*Date: 2026-01-29*
+
+1. [Supreme Court will hear birthright citizenship case on April 1](https://www.scotusblog.com/2026/01/supreme-court-will-hear-birthright-citizenship-case-on-april-1/)
+2. [SCOTUS Agrees to Consider Merits of Birthright Citizenship Case](https://constitutionallawreporter.com/2026/01/29/scotus-agrees-to-consider-merits-of-birthright-citizenship-case)
+3. [Supreme Court to Hear High-Stakes Birthright Citizenship Challenge](https://www.asianlawcaucus.org/news-resources/news/scotus-cert-barbaravtrump-birthright-citizenship)
+
+## Senate Intelligence Committee Holds Confirmation Hearing for NSA Nominee Rudd
+*Date: 2026-01-29*
+
+1. [Open Hearing - Nomination of Lieutenant General Joshua M. Rudd to be Director of the National Security Agency](https://www.intelligence.senate.gov/2026/01/20/open-hearing-nomination-of-lieutenant-general-joshua-m-rudd-to-be-director-of-the-national-security-agency/)
+2. [Army general tapped to lead NSA vows to follow the law if confirmed](https://www.airforcetimes.com/news/pentagon-congress/2026/01/29/army-general-tapped-to-lead-nsa-vows-to-follow-the-law-if-confirmed/)
+3. [Senate Dems to Questions NSA Pick About Spying on Americans](https://theintercept.com/2026/01/26/nsa-joshua-rudd-confirmation-hearings-senate-pick/)
+
+## Ten Tech Vendors Offer $600 Million in Discounts to Implement Medicaid Work Requirements
+*Date: 2026-01-29*
+
+1. [Trump's latest deal $600 million of tech company discounts to help implement Medicaid work requirements](https://www.statnews.com/2026/01/29/medicaid-work-requirements-tech-firms-offer-discounted-help/)
+2. [A Closer Look at the Work Requirement Provisions in the 2025 Federal Budget Reconciliation Law](https://www.kff.org/medicaid/a-closer-look-at-the-work-requirement-provisions-in-the-2025-federal-budget-reconciliation-law/)
+
+## Trump Declares Cuba National Emergency, Threatens Tariffs on Oil Trading Partners
+*Date: 2026-01-29*
+
+1. [Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Cuba](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-cuba/)
+2. [U.S. Declares National Emergency With Respect to Cuba and Threatens New Tariffs on Countries Supplying Oil to the Country](https://sanctionsnews.bakermckenzie.com/u-s-declares-national-emergency-with-respect-to-cuba-and-threatens-new-tariffs-on-countries-supplying-oil-to-the-country/)
+3. [Trump threatens tariffs on any country that sells oil to Cuba, putting pressure on Mexico](https://www.pbs.org/newshour/politics/trump-threatens-tariffs-on-any-country-that-sells-oil-to-cuba-putting-pressure-on-mexico)
+
+## Trump Creates Great American Recovery Initiative for Addiction Crisis
+*Date: 2026-01-29*
+
+1. [Addressing Addiction through the Great American Recovery Initiative](https://www.whitehouse.gov/presidential-actions/2026/01/addressing-addiction-through-the-great-american-recovery-initiative/)
+2. [Fact Sheet: President Donald J. Trump Launches the Great American Recovery Initiative to Address the Addiction Crisis](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-launches-the-great-american-recovery-initiative-to-address-the-addiction-crisis/)
+3. [Trump's addiction initiative brings bold rhetoric but few details](https://www.statnews.com/2026/01/29/new-trump-addiction-initiative-light-on-details/)
+
+## Trump Proclaims 2026 Year of Celebration and Rededication at National Prayer Breakfast
+*Date: 2026-01-29*
+
+1. [Year of Celebration and Rededication, 2026](https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/)
+2. [Year of Celebration and Rededication, 2026](https://www.federalregister.gov/documents/2026/02/03/2026-02248/year-of-celebration-and-rededication-2026)
+
+## Comer Announces Walz and Ellison Will Testify on Minnesota Fraud March 4
+*Date: 2026-01-30*
+
+1. [Chairman Comer Announces Walz, Ellison to Testify at March 4 Hearing on Fraud in Minnesota's Social Services Programs](https://oversight.house.gov/release/chairman-comer-announces-walz-ellison-to-testify-at-march-4-hearing-on-fraud-in-minnesotas-social-services-programs/)
+2. [U.S. House committee taps Minnesota legislators to testify on alleged fraud](https://www.minnpost.com/national/washington/2026/01/u-s-house-committee-james-comer-minnesota-gop-legislators-testify-alleged-fraud/)
+3. [Hearing Wrap Up - Minnesota Governor Walz and Attorney General Ellison Ignored Rampant Taxpayer Fraud and Silenced State Whistleblowers](https://oversight.house.gov/release/hearing-wrap-up-minnesota-governor-walz-and-attorney-general-ellison-ignored-rampant-taxpayer-fraud-and-silenced-state-whistleblowers/)
+
+## Analysis Shows DOGE Savings Claims Fall Short of $1 Trillion Target, Cost Taxpayers Billions
+*Date: 2026-01-30*
+
+1. [DOGE didn't save taxpayers $1 trillion, after all](https://www.wbur.org/onpoint/2026/01/20/doge-taxpayers-government-musk-agency)
+2. [DOGE at one year - Efficiency department sparks lasting changes in federal spending habits](https://www.washingtontimes.com/news/2026/jan/1/year-doge-cuts-keep-coming/)
+3. [DOGE Produced the Largest Peacetime Workforce Cut on Record, but Spending Kept Rising](https://www.cato.org/blog/doge-produced-largest-peacetime-workforce-cut-record-spending-kept-rising-0)
+
+## DOJ Arrests Journalists Don Lemon and Georgia Fort Over Church Protest Coverage
+*Date: 2026-01-30*
+
+1. [Feds arrest Don Lemon, Minnesota journalist and 2 others over church protest](https://www.npr.org/2026/01/30/nx-s1-5693756/don-lemon-arrest-cnn-minneapolis)
+2. [Independent journalist arrested, charged over Minnesota protest coverage](https://pressfreedomtracker.us/all-incidents/independent-journalist-arrested-charged-over-minnesota-protest-coverage/)
+3. [Unconstitutional Arrest of Independent Journalists, Including Don Lemon and Georgia Fort, Fits Lawless Pattern of Escalation by Trump Administration](https://www.freepress.net/news/unconstitutional-arrest-independent-journalists-including-don-lemon-and-georgia-fort-fits)
+
+## DOJ Epstein Files Release Exposes 43+ Survivor Names in Historic Privacy Violation
+*Date: 2026-01-30*
+
+1. [Latest release of Epstein files includes some survivors' names, despite DOJ assurances](https://abcnews.com/US/latest-release-epstein-files-includes-survivors-names-despite/story?id=129713987)
+2. [Some Epstein survivors' identities appear unredacted in files released by DOJ](https://www.nbcnews.com/news/us-news/epstein-survivors-identities-appear-unredacted-files-released-doj-rcna257057)
+3. [DOJ admits redaction errors in Epstein docs while names in files face scrutiny](https://www.npr.org/2026/02/06/nx-s1-5702692/epstein-files-doj-trump-clinton-oversight)
+
+## DOJ Releases 3.5 Million Pages of Epstein Files, Claims Full Compliance
+*Date: 2026-01-30*
+
+1. [Department of Justice Publishes 3.5 Million Responsive Pages in Compliance with the Epstein Files Transparency Act](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files)
+2. [Massive trove of Epstein files released by DOJ, including 3 million documents and photos](https://www.cbsnews.com/live-updates/epstein-files-released-doj-2026/)
+3. [DOJ releases tranche of Epstein files, says it has met its legal obligations](https://www.npr.org/2026/01/30/nx-s1-5693904/epstein-files-doj-trump)
+4. [Representative Ro Khanna's Statement on DOJ's Release of Additional Epstein Files](https://khanna.house.gov/media/press-releases/representative-ro-khannas-statement-dojs-release-additional-epstein-files)
+
+## Senate Passes Spending Package with Two-Week DHS Continuing Resolution
+*Date: 2026-01-30*
+
+1. [Senate passes spending package with Homeland Security punt](https://rollcall.com/2026/01/30/senate-passes-spending-package-with-homeland-security-punt/)
+2. [Senate Passes Five Funding Bills, Strips Out DHS Bill to Ensure Negotiations Proceed to Rein in ICE and CBP](https://www.appropriations.senate.gov/news/minority/senate-passes-five-funding-bills-strips-out-dhs-bill-to-ensure-negotiations-proceed-to-rein-in-ice-and-cbp)
+3. [Senate to move ahead with spending deal but shutdown appears inevitable](https://www.npr.org/2026/01/29/g-s1-107762/senate-shutdown-vote-fails)
+
+## Trump Orders INDYCAR Race on National Mall via Executive Action
+*Date: 2026-01-30*
+
+1. [Celebrating American Greatness with American Motor Racing](https://www.whitehouse.gov/presidential-actions/2026/01/celebrating-american-greatness-with-american-motor-racing/)
+2. [Fact Sheet: President Donald J. Trump Celebrates American Greatness with the Freedom 250 Grand Prix of Washington, D.C.](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-celebrates-american-greatness-with-the-freedom-250-grand-prix-of-washington-d-c/)
+3. [Trump orders IndyCar race on streets of DC as part of nation's 250th celebration](https://abcnews.com/Politics/trump-orders-indycar-race-streets-dc-part-nations/story?id=129715111)
+
+## SEC Chair Atkins Appoints Trump Loyalists to PCAOB Accounting Oversight Board
+*Date: 2026-01-31*
+
+1. [Warren Statement on SEC Chair Atkins Installing a New PCAOB Board of Trump Loyalists](https://www.banking.senate.gov/newsroom/minority/warren-statement-on-sec-chair-atkins-installing-a-new-pcaob-board-of-trump-loyalists)
+2. [Donald Trump Is Kneecapping Corporate Oversight](https://jacobin.com/2026/02/trump-finance-regulation-sec-accounting)
+3. [New US Audit Board Leaders Have a Track Record Gutting Agencies](https://news.bloombergtax.com/financial-accounting/new-us-audit-board-leaders-have-a-track-record-gutting-agencies)
+
+## NATO Tariff Deadline Passes After Trump Greenland Framework Agreement
+*Date: 2026-02-01*
+
+1. [Trump pauses Greenland-linked tariffs on 8 European countries](https://www.nbcnews.com/business/economy/trump-pauses-greenland-tariffs-rcna255270)
+2. [Trump's fight with NATO over Greenland 'crossed a line that cannot be uncrossed' and weakens the alliance long term, expert says](https://fortune.com/2026/02/01/trumps-nato-fight-greenland-control-tariffs-alliance-long-term-damage/)
+
+## SEC Cuts PCAOB Budget 9.4%, Slashes Board Compensation by Half
+*Date: 2026-02-01*
+
+1. [SEC cuts PCAOB budget 9.4%, slashes compensation, accounting fees](https://www.cfodive.com/news/sec-cuts-pcaob-budget-slashes-compensation-accounting-fees-atkins-trump/810302/)
+2. [Donald Trump Is Kneecapping Corporate Oversight](https://jacobin.com/2026/02/trump-finance-regulation-sec-accounting)
+
+## Deputy AG Blanche Announces No Further Epstein Prosecutions
+*Date: 2026-02-02*
+
+1. [Deputy attorney general signals no new Epstein charges, defends Gabbard role in Georgia election search](https://www.cnn.com/2026/02/01/politics/blanche-epstein-gabbard-lemon)
+2. [Deputy Attorney General Blanche announces latest Epstein release of more than 3 million pages](https://www.pbs.org/newshour/politics/watch-live-deputy-attorney-general-todd-blanche-announces-release-of-more-epstein-files)
+3. [Deputy AG Todd Blanche: 'It's not a crime to party' with Jeffrey Epstein](https://thehill.com/homenews/administration/5719992-doj-todd-blanche-epstein-files-parties/)
+4. [Rep. Khanna Slams DOJ for Not Launching New Probes of Jeffrey Epstein's "Co-Conspirators"](https://www.democracynow.org/2026/2/5/ro_khanna_epstein_congress_investigation_survivors)
+
+## GAO Report Reveals Education Department Paid $38M to Idled Civil Rights Staff
+*Date: 2026-02-02*
+
+1. [Department of Education Full Costs and Savings Estimate Needed for Reduction-in-Force and Restructuring of the Office for Civil Rights](https://www.gao.gov/products/gao-26-108320)
+2. [The Education Department's efforts to fire staff cost over $28 million, watchdog says](https://www.npr.org/2026/02/02/nx-s1-5690188/cost-trump-layoffs-civil-rights-complaints-department-education-gao)
+3. [Education Department spent up to $38M paying employees not to work before reinstating them, watchdog reports](https://www.govexec.com/oversight/2026/02/education-department-spent-38m-paying-employees-not-work-reinstating-them-watchdog-reports/411138/)
+
+## RFK Jr. Announces $100 Million STREETS Initiative for Homelessness and Addiction Treatment
+*Date: 2026-02-02*
+
+1. [Secretary Kennedy Announces $100 Million Investment in Great American Recovery](https://www.hhs.gov/press-room/secretary-kennedy-announces-100-million-investment-great-american-recovery.html)
+2. [With an ACA fix uncertain in the Senate, Republicans replay old health care fights](https://www.npr.org/2026/02/02/nx-s1-5695766/aca-enhanced-premium-subsidies-republicans-democrats)
+
+## Clintons Agree to Epstein Investigation Depositions Under Contempt Threat
+*Date: 2026-02-03*
+
+1. [Chairman Comer Announces the Clintons Caved, Will Appear for Depositions](https://oversight.house.gov/release/chairman-comer-announces-the-clintons-caved-will-appear-for-depositions/)
+2. [Clintons will appear for depositions in Epstein probe, staving off contempt vote](https://www.cnn.com/2026/02/03/politics/clintons-depositions-epstein-contempt)
+3. [Clintons agree to testify in House Epstein investigation ahead of contempt of Congress vote](https://www.npr.org/2026/02/03/nx-s1-5697831/clintons-agree-testify-house-epstein-investigation-contempt-congress-vote)
+
+## Congress Passes Bipartisan HHS Funding Bill Blocking RFK Jr.'s Proposed 25% Budget Cuts
+*Date: 2026-02-03*
+
+1. [Summary of FY26 LHHS Bill January 2026](https://www.astho.org/advocacy/federal-government-affairs/leg-alerts/2026/summary-fy26-lhhs-bill-january-2026/)
+2. [Unpacking the 25% HHS budget cut proposed by the Trump administration](https://www.fiercehealthcare.com/regulatory/unpacking-25-hhs-budget-cut-proposed-trump-administration)
+
+## House Votes 217-214 to End Four-Day Partial Government Shutdown
+*Date: 2026-02-03*
+
+1. [House votes to end partial government shutdown, setting up contentious talks on ICE](https://www.npr.org/2026/02/03/g-s1-108506/house-vote-end-government-shutdown)
+2. [House passes funding package to end partial government shutdown](https://abcnews.com/Politics/house-hold-votes-funding-end-partial-government-shutdown/story?id=129813498)
+3. [Trump signs funding bill to end shutdown after package clears House](https://www.cbsnews.com/live-updates/government-shutdown-latest-house-vote-funding-package/)
+
+## Senate Confirms Peterson to Alaska Federal Bench Despite Election Denial
+*Date: 2026-02-04*
+
+1. [US Senate confirms Aaron Peterson as Alaska's newest federal judge](https://www.adn.com/alaska-news/crime-courts/2026/02/04/us-senate-confirms-aaron-peterson-as-alaskas-newest-federal-judge/)
+2. [Peterson Confirmed as New Alaska Federal Judge](https://www.sullivan.senate.gov/newsroom/press-releases/peterson-confirmed-as-new-alaska-federal-judge)
+3. [Alaska's newest federal judge refuses to admit that Trump lost 2020 election](https://www.dermotcole.com/reportingfromalaska/2026/2/11/akxzqp6uukizqf9lcpcc0npjtrbgmc)
+
+## Trump Reverses Position on Netflix-Warner Bros. Merger Involvement After Ethics Criticism
+*Date: 2026-02-04*
+
+1. [Trump says he'll stay out of the Netflix-Paramount fight over Warner Bros.](https://www.nbcnews.com/business/media/trump-netflix-paramount-fight-warner-bros-rcna257476)
+2. [Trump says he'll stay out of Netflix, Paramount Skydance fight to take over WBD](https://www.cnbc.com/2026/02/04/trump-wbd-netflix-paramount-skydance.html)
+
+## Federal Judge Orders Elon Musk Deposition Over USAID Dismantling, Rejects Apex Doctrine Claims
+*Date: 2026-02-05*
+
+1. [Judge orders Musk to sit for deposition over DOGE, USAID shutdown](https://www.axios.com/2026/02/05/state-department-elon-musk-doge)
+2. [Elon Musk Can Be Questioned Under Oath in DOGE Case, Judge Rules](https://www.bloomberg.com/news/articles/2026-02-05/elon-musk-can-be-questioned-under-oath-in-doge-case-judge-rules)
+3. [Who is Amy Gleason, the acting administrator of DOGE?](https://www.pbs.org/newshour/politics/who-is-amy-gleason-the-acting-administrator-of-doge)
+
+## Russell Vought Tells Congress DOGE Affiliates Are "Institutionalized" as OMB In-House Consultants
+*Date: 2026-02-05*
+
+1. [DOGE Lives On Through Russell Vought](https://prospect.org/2026/02/05/doge-russell-vought-elon-musk-office-management-budget/)
+2. [DOGE Lives On Through Russell Vought](https://therevolvingdoorproject.org/doge-lives-on-through-russell-vought/)
+3. [OMB's Vought takes heat from lawmakers over Donald Trump's DOGE cuts](https://thehill.com/homenews/administration/5333536-russell-vought-omb-budget-doge-cuts/)
+
+## DOJ Admits Epstein Redaction Errors as Victim Advocates Demand Website Shutdown
+*Date: 2026-02-06*
+
+1. [DOJ admits redaction errors in Epstein docs while names in files face scrutiny](https://www.npr.org/2026/02/06/nx-s1-5702692/epstein-files-doj-trump-clinton-oversight)
+2. [Garcia et al to DOJ Bondi re Victim Disclosure](https://oversightdemocrats.house.gov/imo/media/doc/2026-02-06_garcia_et_al_to_doj_bondi_revictimdisclosure.pdf)
+
+## Trump Executive Order Reorients Arms Sales as Domestic Industrial Policy
+*Date: 2026-02-06*
+
+1. [Establishing an America First Arms Transfer Strategy](https://www.whitehouse.gov/presidential-actions/2026/02/establishing-an-america-first-arms-transfer-strategy/)
+2. [Fact Sheet: President Donald J. Trump Establishes the America First Arms Transfer Strategy](https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-establishes-the-america-first-arms-transfer-strategy/)
+3. [The "America First Arms Transfer Strategy" Reorders US Arms Transfer Priorities](https://www.stimson.org/2026/the-america-first-arms-transfer-strategy-reorders-us-arms-transfer-priorities/)
+
+## Trump Executive Order Authorizes Tariffs on All Iranian Trading Partners
+*Date: 2026-02-06*
+
+1. [Fact Sheet: President Donald J. Trump Addresses Threats to the United States by the Government of Iran](https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-addresses-threats-to-the-united-states-by-the-government-of-iran/)
+2. [President Trump Issues Executive Order to Address Continuing Threats by Iran](https://www.thompsonhinesmartrade.com/2026/02/president-trump-issues-executive-order-to-address-continuing-threats-by-iran/)
+
+## Trump Lifts Russia-Related Tariff on India After Oil Purchase Pledge
+*Date: 2026-02-06*
+
+1. [Modifying Duties to Address Threats to the United States by the Government of the Russian Federation](https://www.whitehouse.gov/presidential-actions/2026/02/modifying-duties-to-address-threats-to-the-united-states-by-the-government-of-the-russian-federation-04b2/)
+2. [Trump Removes India's 25% Russia-Related Tariff After Deal](https://www.bloomberg.com/news/articles/2026-02-06/trump-removes-india-s-25-russia-related-tariff-after-deal)
+
+## IRS Admits Unlawfully Sharing Thousands of Taxpayer Records with DHS for Immigration Enforcement
+*Date: 2026-02-07*
+
+1. [IRS Shared Thousands Of Taxpayers' Confidential Data With DHS Before Court Blocked Agreement](https://afrotech.com/irs-ice-data-sharing-news)
+2. [A privacy breach at the IRS - Taxpayer data wrongly shared with DHS, court filing says](https://www.columbian.com/news/2026/feb/12/a-privacy-breach-at-the-irs-taxpayer-data-wrongly-shared-with-dhs-court-filing-says/)
+3. [Mission Creep - AI Surveillance at DHS Crosses Dangerous Line Into Tracking Americans](https://www.americanimmigrationcouncil.org/blog/ice-ai-surveillance-tracking-americans)
+
+## NATO Launches Arctic Sentry Multi-Domain Mission in High North
+*Date: 2026-02-07*
+
+1. [NATO Secretary General outlines new activity - Arctic Sentry - ahead of Defence Ministers meeting](https://www.nato.int/en/news-and-events/articles/news/2026/02/11/nato-secretary-general-outlines-new-activity-arctic-sentry-ahead-of-defence-ministers-meeting)
+2. [NATO members have launched a new Arctic initiative](https://www.npr.org/2026/02/12/nx-s1-5707509/nato-members-have-launched-a-new-arctic-initiative)
+3. [NATO kicks off 'Arctic Sentry' operation following Greenland brouhaha](https://www.defensenews.com/global/europe/2026/02/11/nato-kicks-off-arctic-sentry-operation-following-greenland-brouhaha/)
+
+## SEC Denies All Whistleblower Award Claims in First Quarter of FY2026
+*Date: 2026-02-07*
+
+1. [SEC Denies All Whistleblower Awards in First Quarter of 2026](https://www.securitiesdocket.com/2026/02/12/sec-denies-all-whistleblower-awards-in-first-quarter-of-2026/)
+2. [Trump's SEC Is Moving to Silence Investor Whistleblowers](https://jacobin.com/2026/02/trump-sec-investors-whistleblowers-regulation)
+3. [Trump's Silent Whistleblowers](https://www.levernews.com/trumps-silent-whistleblowers/)
+
+## EPA Advances Rollback of Four PFAS Drinking Water Standards
+*Date: 2026-02-08*
+
+1. [EPA Announces It Will Keep Maximum Contaminant Levels for PFOA, PFOS](https://www.epa.gov/newsreleases/epa-announces-it-will-keep-maximum-contaminant-levels-pfoa-pfos)
+2. [PFAS in Drinking Water](https://eelp.law.harvard.edu/tracker/pfas-in-drinking-water/)
+3. [EPA Maintains Current Drinking Water Standards for PFOA and PFOS but Plans To Reconsider Other PFAS Compounds](https://www.crowell.com/en/insights/client-alerts/epa-maintains-current-drinking-water-standards-for-pfoa-and-pfos-but-plans-to-reconsider-other-pfas-compounds)
+
+## Hegseth Skips NATO Defense Ministers Meeting in Brussels
+*Date: 2026-02-08*
+
+1. [NATO allies focus on Europe as Hegseth, Rubio skip meetings](https://www.pbs.org/newshour/world/nato-allies-focus-on-europe-as-hegseth-rubio-skip-meetings)
+2. [NATO allies say Hegseth "missing a good party" as they meet, adjust to slimmed down U.S. role under Trump](https://www.cbsnews.com/news/nato-allies-meet-hegseth-trump-europe-canada/)
+3. [After Hegseth snubs NATO, Europe makes the best of it - 'Sadly for him, he is missing a good party'](https://fortune.com/2026/02/12/pete-hegseth-snubs-nato-europe-insists-its-fine/)
+
+## DOJ Appeals Comey and James Case Dismissals Despite Halligan Unlawful Appointment Ruling
+*Date: 2026-02-09*
+
+1. [DOJ again defends Lindsey Halligan's appointment in appeal of James Comey and Letitia James case dismissals](https://www.nbcnews.com/politics/justice-department/doj-defends-lindsey-halligans-appointment-appeal-james-comey-letitia-j-rcna258316)
+2. [Prosecution of James Comey](https://en.wikipedia.org/wiki/Prosecution_of_James_Comey)
+
+## DOJ Opens Epstein Files Reading Room to Congress Under Restrictive Conditions
+*Date: 2026-02-09*
+
+1. [Members of Congress will have access to unredacted Epstein files](https://www.axios.com/2026/02/06/epstein-files-congress-unredacted-doj-raskin)
+2. [Thomas Massie, Ro Khanna suggest powerful men are being protected by over-redactions in Epstein files](https://www.cnn.com/2026/02/09/politics/unredacted-epstein-files-doj-congress)
+3. [Even inside the DOJ's secure room, some Epstein files remain redacted](https://www.ms.now/news/lawmakers-say-some-epstein-files-remain-redacted-despite-dojs-pledge)
+4. [Epstein file review yields 6 new "likely incriminated" men, lawmakers say](https://www.axios.com/2026/02/09/epstein-files-unredacted-doj-massie-khanna)
+
+## Grand Jury Rejects DOJ Attempt to Indict Six Democratic Lawmakers Over Military Oath Video
+*Date: 2026-02-10*
+
+1. [How Trump failed in his latest bid to weaponize justice](https://www.cnn.com/2026/02/12/politics/trump-pam-bondi-mark-kelly-justice-department-analysis)
+2. [Bondi Spars With Lawmakers on Epstein, Targeting Trump Foes](https://news.bloomberglaw.com/us-law-week/bondi-pressed-by-lawmakers-on-epstein-bid-to-indict-democrats)
+3. [Pam Bondi clashes with House Democrats at DOJ oversight hearing](https://www.npr.org/2026/02/12/nx-s1-5711513/pam-bondi-clashes-with-house-democrats-at-doj-oversight-hearing)
+
+## White House Convenes High-Level Meeting on FISA Section 702 Surveillance Authority Renewal
+*Date: 2026-02-10*
+
+1. [White House will hold meeting to discuss renewal of controversial spying power](https://www.nextgov.com/policy/2026/02/white-house-will-hold-meeting-discuss-renewal-controversial-spying-power/411329/)
+2. [White House to meet with GOP lawmakers on FISA Section 702 renewal](https://therecord.media/white-house-to-meet-gop-lawmakers-702-renewal-path)
+3. [Domestic surveillance fears loom over Congress debate to renew spying power](https://www.nextgov.com/cybersecurity/2026/02/domestic-surveillance-fears-loom-over-congress-debate-renew-spying-power/411214/)
+
+## SEC Chair Atkins Grilled by Congress Over 60% Crypto Enforcement Decline
+*Date: 2026-02-11*
+
+1. [SEC's Paul Atkins grilled on crypto enforcement pull-back, including with Justin Sun, Tron](https://www.coindesk.com/policy/2026/02/11/sec-s-paul-atkins-grilled-on-crypto-enforcement-pull-back-including-with-justin-sun-tron)
+2. [Democrats hammer Atkins over SEC enforcement gaps](https://punchbowl.news/article/finance/economy/democrats-hammer-atkins-sec/)
+
+## AG Bondi Photographed with Rep. Jayapal's Epstein Files Search History
+*Date: 2026-02-11*
+
+1. [Bondi had list of a Democratic lawmaker's Epstein files "search history" during Capitol Hill hearing](https://www.cbsnews.com/news/bondi-epstein-files-search-history-hearing-pramila-jayapal/)
+2. [Epstein files: AG Pam Bondi seemed to have Rep. Jayapal's DOJ database search history at hearing](https://www.cnbc.com/2026/02/11/epstein-files-pam-bondi-jayapal-search-history-doj.html)
+3. [DOJ Accused of Surveilling Lawmakers' Epstein Files Searches](https://time.com/7378099/epstein-files-bondi-jayapal-unredacted-search-history-spying/)
+4. [House speaker condemns Trump Justice Department monitoring of lawmakers' Epstein document review](https://www.cnn.com/2026/02/12/politics/doj-monitoring-lawmaker-epstein-files-searches)
+
+## Bondi House Testimony Devolves Into Personal Attacks Over Epstein Files and Political Prosecutions
+*Date: 2026-02-11*
+
+1. [Pam Bondi clashes with House Democrats over Epstein files at DOJ oversight hearing](https://www.npr.org/2026/02/11/nx-s1-5707280/pam-bondi-oversight-hearing-department-of-justice)
+2. [5 takeaways from Pam Bondi's fiery testimony](https://www.cnn.com/2026/02/11/politics/5-takeaways-pam-bondi-house-testimony)
+3. [You washed-up, loser lawyer! Pam Bondi hearing erupts into angry outbursts](https://www.axios.com/2026/02/11/pam-bondi-hearing-congress-democrats-epstein)
+
+## Senators Durbin and Lee Reintroduce Bipartisan SAFE Act to Reform FISA Surveillance
+*Date: 2026-02-11*
+
+1. [Durbin, Lee Introduce Bipartisan SAFE Act to Reform FISA Section 702](https://www.durbin.senate.gov/newsroom/press-releases/durbin-lee-introduce-bipartisan-safe-act-to-reform-fisa-section-702)
+2. [Senators to revive reform effort for controversial spying law](https://www.nextgov.com/policy/2026/02/senators-revive-reform-effort-controversial-spying-law/411368/)
+3. [Durbin, Lee Introduce Bipartisan SAFE Act to Reform FISA Section 702](https://www.judiciary.senate.gov/press/releases/durbin-lee-introduce-bipartisan-safe-act-to-reform-fisa-section-702)
+
+## Trump Orders Pentagon to Purchase Coal-Fired Electricity
+*Date: 2026-02-11*
+
+1. [Strengthening United States National Defense with America's Beautiful Clean Coal Power Generation Fleet](https://www.whitehouse.gov/presidential-actions/2026/02/strengthening-united-states-national-defense-with-americas-beautiful-clean-coal-power-generation-fleet/)
+2. [Trump orders Pentagon to buy power from coal plants](https://www.cnbc.com/2026/02/11/trump-orders-pentagon-to-buy-power-from-coal-plants.html)
+3. [Trump orders Pentagon to invest in 'beautiful, clean' coal power](https://abcnews.com/Politics/trump-orders-pentagon-invest-beautiful-clean-coal-power/story?id=130071474)
+4. [Trump orders Pentagon to buy electricity from coal plants](https://www.axios.com/2026/02/12/coal-power-buy-trump-us-military-order)
+
+## Bondi Admits Secret Domestic Terrorist List Exists During House Testimony
+*Date: 2026-02-12*
+
+1. [Pam Bondi Admits DOJ Has a Secret Domestic Terrorist List](https://theintercept.com/2026/02/12/pam-bondi-domestic-terror-list-nspm-7/)
+2. [5 takeaways from Pam Bondi's fiery testimony](https://www.cnn.com/2026/02/11/politics/5-takeaways-pam-bondi-house-testimony)
+
+## One Year After DOGE Cuts, 322,000 Federal Workers Displaced in Largest Peacetime Workforce Reduction
+*Date: 2026-02-12*
+
+1. [One year after DOGE cuts, former federal workers find new roles](https://www.cnbc.com/2026/02/12/after-doge-cuts-federal-workers-new-roles.html)
+2. [New careers, relocations and medical problems - How ex-federal workers' lives have been upended since DOGE](https://us.cnn.com/2026/02/14/politics/former-federal-workers-doge-cuts)
+3. [These federal employees were purged by DOGE - Months later, the Trump administration is asking if they want to return](https://www.pbs.org/newshour/politics/these-federal-employees-were-purged-by-doge-months-later-the-trump-administration-is-asking-if-they-want-to-return)
+
+## EPA Repeals 2009 Endangerment Finding on Greenhouse Gases
+*Date: 2026-02-12*
+
+1. [President Trump and Administrator Zeldin Deliver Single Largest Deregulatory Action in U.S. History](https://www.epa.gov/newsreleases/president-trump-and-administrator-zeldin-deliver-single-largest-deregulatory-action-us)
+2. [Trump's EPA will stop regulating greenhouse gases, setting up a legal fight](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment)
+3. [Trump revokes EPA finding on greenhouse gas threat in huge blow to climate change regulations](https://www.cnbc.com/2026/02/12/trump-epa-endangerment-finding-climate-change-greenhouse-gas.html)
+4. [EPA rescinds landmark 2009 'endangerment finding' on greenhouse gases' harmful effect on climate](https://abcnews.com/US/epa-rescind-landmark-2009-endangerment-finding-greenhouse-gases/story?id=130060744)
+
+## Homan Announces End to Operation Metro Surge in Minnesota
+*Date: 2026-02-12*
+
+1. [Homan announces end to Operation Metro Surge - MN now less of a sanctuary state](https://www.kare11.com/article/news/local/ice-in-minnesota/homan-announces-end-to-operation-metro-surge/89-12276bb4-a329-450e-a06b-8da67430105e)
+2. [Trump border czar Tom Homan announces Minnesota immigration surge is ending](https://www.npr.org/2026/02/12/nx-s1-5712280/minnesota-ice-surge-ends)
+3. [ICE surge in Minnesota is over, border czar Homan says](https://www.axios.com/local/twin-cities/2026/02/12/trump-ice-metro-surge-ends-minneapolis)
+
+## Trust in Federal Health Agencies Plummets Under RFK Jr. Despite Restoration Promises
+*Date: 2026-02-12*
+
+1. [RFK Jr. promised to restore trust in US health agencies. A year later, it's eroding](https://www.washingtonpost.com/health/2026/02/12/rfk-jr-kennedy-cdc-covid-health-trust/1e7c2f1c-0824-11f1-b196-5e1986b3575c_story.html)
+2. [Trump promised RFK Jr. would 'restore faith in American health care.' A year in, trust has plummeted](https://edition.cnn.com/2026/02/13/health/rfk-jr-american-healthcare-public-trust)
+
+## House Democrats Launch Investigation into DOJ Congressional Surveillance
+*Date: 2026-02-13*
+
+1. [Judiciary and Oversight Committee Democrats Demand DOJ End Its Outrageous Secret Surveillance of Members Reviewing Epstein Files](https://democrats-judiciary.house.gov/media-center/press-releases/judiciary-and-oversight-committee-democrats-demand-doj-end-its-outrageous-secret-surveillance-of-members-reviewing-epstein-files)
+2. [Jayapal, Raskin, Garcia Demand DOJ End Its Outrageous Secret Surveillance of Members Reviewing Epstein Files](https://jayapal.house.gov/2026/02/13/jayapal-raskin-garcia-demand-doj-end-its-outrageous-secret-surveillance-of-members-reviewing-epstein-files/)
+3. [Democrats launch investigation into DOJ tracking of lawmakers' Epstein files searches](https://thehill.com/homenews/house/5738162-epstein-files-doj-bondi-house-democrats/)
+4. [Democrats demand DOJ stop tracking lawmakers' Epstein file searches after Bondi hearing bombshell](https://www.courthousenews.com/democrats-demand-doj-stop-tracking-lawmakers-epstein-file-searches-after-bondi-hearing-bombshell/)
+
+## Federal Judge Blocks $600M Health Grant Cuts to Democratic States
+*Date: 2026-02-13*
+
+1. [Judge blocks Trump admin from rescinding health grants to Democratic-led states](https://www.npr.org/2026/02/13/nx-s1-5713305/federal-funding-democratic-states-lawsuit)
+2. [Judge temporarily blocks HHS from rescinding public health grants in 4 Democratic-led states](https://www.pbs.org/newshour/politics/judge-temporarily-blocks-hhs-from-rescinding-public-health-grants-in-4-democratic-led-states)
+3. [Federal judge temporarily blocks Trump's $600M cuts to public health grants](https://www.courthousenews.com/federal-judge-temporarily-blocks-trumps-600m-cuts-to-public-health-grants/)
+
+## Noem Terminates Temporary Protected Status for Yemen
+*Date: 2026-02-13*
+
+1. [DHS Terminates Temporary Protected Status for Yemen](https://www.uscis.gov/newsroom/news-releases/dhs-terminates-temporary-protected-status-for-yemen)
+2. [US ends temporary protected status for Yemeni refugees, asylum seekers](https://www.aljazeera.com/news/2026/2/14/us-ends-temporary-protected-status-for-yemeni-refugees-asylum-seekers)
+
+## Jim O'Neill and Mike Stuart Depart HHS in Leadership Shakeup Ahead of Midterms
+*Date: 2026-02-13*
+
+1. [Kennedy overhauls HHS staff ahead of 2026 elections](https://www.axios.com/2026/02/13/kennedy-rfk-hhs-staff-cuts-2026-elections)
+2. [What we know about top RFK Jr. aides leaving HHS](https://edition.cnn.com/2026/02/13/health/video/top-aides-leaving-hhs-after-leadership-shakeup-digvid)
+3. [RFK Jr. made promises to get his job as health secretary. He's broken many of them](https://www.npr.org/2026/02/13/nx-s1-5712721/rfk-jr-children-vaccines-cdc-funding-autism-immunizations)
+
+## Senate Fails to Advance DHS Funding Bill in 52-47 Vote
+*Date: 2026-02-13*
+
+1. [Senate fails to advance DHS funding, teeing up partial shutdown as deal remains out of reach](https://www.cbsnews.com/news/homeland-security-funding-immigration-reforms-senate-democrats-vote/)
+2. [DHS expected to shut down as talks over immigration enforcement reform falter](https://www.npr.org/2026/02/13/nx-s1-5712312/dhs-expected-to-shut-down-as-talks-over-immigration-enforcement-reform-falter)
+3. [DHS shutdown imminent after Senate Democrats block Homeland Security bill](https://thehill.com/homenews/senate/5735798-shutdown-senate-democrats-homeland-security-bill/)
+
+## DHS Shutdown Begins But Immigration Enforcement Continues
+*Date: 2026-02-14*
+
+1. [How the Homeland Security shutdown is impacting travel in the U.S.](https://www.pbs.org/newshour/nation/how-the-homeland-security-shutdown-is-impacting-travel-in-the-u-s)
+2. [5 things to know about the shutdown at the Department of Homeland Security](https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown)
+3. [DHS Shutdown Begins - What Immigration Enforcement Looks Like Without Funding](https://govfacts.org/immigration/immigration-enforcement/dhs-shutdown-begins-what-immigration-enforcement-looks-like-without-funding/)
+
+## DHS Shutdown Begins as Congress Fails to Reach Immigration Reform Deal
+*Date: 2026-02-14*
+
+1. [5 things to know about the shutdown at the Department of Homeland Security](https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown)
+2. [What to know on the DHS government shutdown - Why it's happening, what it impacts](https://www.nbcnews.com/politics/congress/know-dhs-government-shutdown-happening-impacts-rcna259001)
+3. [How the Homeland Security shutdown is impacting travel in the U.S.](https://www.pbs.org/newshour/nation/how-the-homeland-security-shutdown-is-impacting-travel-in-the-u-s)
+
+## Scott Shambaugh Firing Exposes DOGE's Indiscriminate Purge of Technical Expertise
+*Date: 2026-02-14*
+
+1. [The Scott Shambaugh Affair - How One Federal Employee's Firing Exposed The Absurdity Of DOGE's Government Purge](https://www.webanditnews.com/2026/02/14/the-scott-shambaugh-affair-how-one-federal-employees-firing-exposed-the-absurdity-of-doges-government-purge/)
+2. [The Scott Shambaugh Affair - How One Federal Employee's Firing Exposed the Absurdity of DOGE's Government Purge](https://www.webpronews.com/the-scott-shambaugh-affair-how-one-federal-employees-firing-exposed-the-absurdity-of-doges-government-purge/)
+3. [The tail wagging the dog - Snapshots of the public service a year into the second Trump administration](https://www.govexec.com/workforce/2026/02/tail-wagging-dog-snapshots-public-service-year-second-trump-administration/411224/)
+
+## Trump Threatens Executive Order on Voter ID Despite Prior Court Defeats
+*Date: 2026-02-14*
+
+1. [Trump says he will issue executive order to get voter-ID requirements before midterms](https://www.cnbc.com/2026/02/13/trump-congress-voter-id-midterms.html)
+2. [Trump says he will issue executive order on voter ID if legislation fails](https://abcnews.com/Politics/trump-issue-executive-order-voter-id-legislation-fails/story?id=130157607)
+3. [Trump vows to require voter ID in midterms "whether approved by Congress or not"](https://www.cbsnews.com/amp/news/trump-vows-to-require-voter-id-in-midterms-whether-approved-by-congress-or-not/)
+
+## Pentagon Extends Defense Contractor "Naughty List" Review Period
+*Date: 2026-02-15*
+
+1. [Pentagon needs more time to finalize defense firms on naughty list](https://breakingdefense.com/2026/02/pentagon-needs-more-time-to-finalize-defense-firms-on-naughty-list-after-initial-review/)
+2. [Pentagon holds off on naming and shaming defense contractors](https://thehill.com/policy/defense/5730240-pentagon-reviews-defense-contractors/)
+3. [Hegseth admits Pentagon has been 'bad customer'](https://www.washingtonexaminer.com/policy/defense/4452329/pete-hegseth-pentagon-bad-customer-revitalize-manufacturing/)

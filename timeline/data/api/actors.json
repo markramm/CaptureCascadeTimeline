@@ -1,7 +1,7 @@
 [
   {
     "name": "Donald Trump",
-    "count": 1068
+    "count": 1108
   },
   {
     "name": "Trump Administration",
@@ -9,43 +9,51 @@
   },
   {
     "name": "Department of Justice",
-    "count": 259
+    "count": 279
   },
   {
     "name": "Elon Musk",
-    "count": 158
+    "count": 166
   },
   {
     "name": "U.S. Congress",
     "count": 131
   },
   {
-    "name": "FBI",
-    "count": 89
+    "name": "Pam Bondi",
+    "count": 98
   },
   {
-    "name": "Pam Bondi",
+    "name": "FBI",
+    "count": 92
+  },
+  {
+    "name": "ICE",
     "count": 83
+  },
+  {
+    "name": "Supreme Court",
+    "count": 75
+  },
+  {
+    "name": "Congress",
+    "count": 71
   },
   {
     "name": "Ronald Reagan",
     "count": 71
   },
   {
-    "name": "Congress",
-    "count": 69
-  },
-  {
-    "name": "ICE",
-    "count": 69
-  },
-  {
-    "name": "Supreme Court",
-    "count": 67
-  },
-  {
     "name": "Heritage Foundation",
     "count": 67
+  },
+  {
+    "name": "White House",
+    "count": 65
+  },
+  {
+    "name": "Kristi Noem",
+    "count": 64
   },
   {
     "name": "Jeffrey Epstein",
@@ -64,7 +72,7 @@
     "count": 58
   },
   {
-    "name": "Kristi Noem",
+    "name": "DHS",
     "count": 56
   },
   {
@@ -72,12 +80,8 @@
     "count": 55
   },
   {
-    "name": "White House",
-    "count": 54
-  },
-  {
     "name": "Federal Trade Commission",
-    "count": 53
+    "count": 54
   },
   {
     "name": "Dick Cheney",
@@ -85,11 +89,11 @@
   },
   {
     "name": "Department of Defense",
-    "count": 49
+    "count": 51
   },
   {
     "name": "Bill Clinton",
-    "count": 49
+    "count": 50
   },
   {
     "name": "Barack Obama",
@@ -104,10 +108,6 @@
     "count": 44
   },
   {
-    "name": "DHS",
-    "count": 44
-  },
-  {
     "name": "U.S. Senate",
     "count": 42
   },
@@ -116,16 +116,16 @@
     "count": 42
   },
   {
+    "name": "Federal Reserve",
+    "count": 41
+  },
+  {
     "name": "NSA",
     "count": 41
   },
   {
     "name": "McKinsey & Company",
     "count": 40
-  },
-  {
-    "name": "Federal Reserve",
-    "count": 39
   },
   {
     "name": "Google",
@@ -145,6 +145,10 @@
   },
   {
     "name": "Trump Organization",
+    "count": 37
+  },
+  {
+    "name": "Stephen Miller",
     "count": 36
   },
   {
@@ -157,10 +161,6 @@
   },
   {
     "name": "Karl Rove",
-    "count": 35
-  },
-  {
-    "name": "Stephen Miller",
     "count": 35
   },
   {
@@ -184,19 +184,23 @@
     "count": 32
   },
   {
+    "name": "Elizabeth Warren",
+    "count": 32
+  },
+  {
+    "name": "Pete Hegseth",
+    "count": 32
+  },
+  {
+    "name": "State Department",
+    "count": 31
+  },
+  {
     "name": "ExxonMobil",
     "count": 31
   },
   {
-    "name": "Elizabeth Warren",
-    "count": 31
-  },
-  {
     "name": "U.S. Chamber of Commerce",
-    "count": 30
-  },
-  {
-    "name": "State Department",
     "count": 30
   },
   {
@@ -216,7 +220,7 @@
     "count": 30
   },
   {
-    "name": "Pete Hegseth",
+    "name": "Russell Vought",
     "count": 30
   },
   {
@@ -224,7 +228,19 @@
     "count": 29
   },
   {
+    "name": "Securities and Exchange Commission",
+    "count": 29
+  },
+  {
     "name": "Boeing",
+    "count": 28
+  },
+  {
+    "name": "Department of Health and Human Services",
+    "count": 28
+  },
+  {
+    "name": "DOJ",
     "count": 28
   },
   {
@@ -232,11 +248,23 @@
     "count": 27
   },
   {
-    "name": "DOJ",
-    "count": 26
+    "name": "Marco Rubio",
+    "count": 27
+  },
+  {
+    "name": "DOGE",
+    "count": 27
   },
   {
     "name": "Mitch McConnell",
+    "count": 26
+  },
+  {
+    "name": "Letitia James",
+    "count": 26
+  },
+  {
+    "name": "World Liberty Financial",
     "count": 26
   },
   {
@@ -248,19 +276,19 @@
     "count": 25
   },
   {
-    "name": "Securities and Exchange Commission",
+    "name": "Chuck Schumer",
     "count": 25
   },
   {
-    "name": "Letitia James",
+    "name": "ACLU",
     "count": 25
   },
   {
-    "name": "World Liberty Financial",
+    "name": "Kash Patel",
     "count": 25
   },
   {
-    "name": "Russell Vought",
+    "name": "Mike Johnson",
     "count": 25
   },
   {
@@ -284,11 +312,11 @@
     "count": 24
   },
   {
-    "name": "Marco Rubio",
+    "name": "JD Vance",
     "count": 24
   },
   {
-    "name": "Kash Patel",
+    "name": "Todd Blanche",
     "count": 24
   },
   {
@@ -296,15 +324,11 @@
     "count": 23
   },
   {
-    "name": "ACLU",
+    "name": "James Comey",
     "count": 23
   },
   {
     "name": "Mohammed bin Salman",
-    "count": 23
-  },
-  {
-    "name": "JD Vance",
     "count": 23
   },
   {
@@ -320,11 +344,11 @@
     "count": 22
   },
   {
-    "name": "James Comey",
+    "name": "Steve Bannon",
     "count": 22
   },
   {
-    "name": "Steve Bannon",
+    "name": "Robert F. Kennedy Jr.",
     "count": 22
   },
   {
@@ -336,19 +360,19 @@
     "count": 21
   },
   {
-    "name": "Department of Health and Human Services",
-    "count": 21
-  },
-  {
-    "name": "Chuck Schumer",
-    "count": 21
-  },
-  {
     "name": "J.D. Vance",
     "count": 21
   },
   {
-    "name": "Mike Johnson",
+    "name": "Jared Kushner",
+    "count": 21
+  },
+  {
+    "name": "Justin Sun",
+    "count": 21
+  },
+  {
+    "name": "Scott Bessent",
     "count": 21
   },
   {
@@ -368,23 +392,11 @@
     "count": 20
   },
   {
-    "name": "Jared Kushner",
-    "count": 20
-  },
-  {
     "name": "Adam Schiff",
     "count": 20
   },
   {
-    "name": "Todd Blanche",
-    "count": 20
-  },
-  {
-    "name": "Justin Sun",
-    "count": 20
-  },
-  {
-    "name": "Scott Bessent",
+    "name": "Thomas Massie",
     "count": 20
   },
   {
@@ -404,6 +416,10 @@
     "count": 19
   },
   {
+    "name": "Lindsey Halligan",
+    "count": 19
+  },
+  {
     "name": "General Motors",
     "count": 18
   },
@@ -413,6 +429,10 @@
   },
   {
     "name": "Ghislaine Maxwell",
+    "count": 18
+  },
+  {
+    "name": "John Roberts",
     "count": 18
   },
   {
@@ -428,15 +448,15 @@
     "count": 18
   },
   {
+    "name": "Pentagon",
+    "count": 18
+  },
+  {
     "name": "Erik Prince",
     "count": 18
   },
   {
     "name": "SpaceX",
-    "count": 18
-  },
-  {
-    "name": "DOGE",
     "count": 18
   },
   {
@@ -476,11 +496,15 @@
     "count": 17
   },
   {
+    "name": "Ro Khanna",
+    "count": 17
+  },
+  {
     "name": "Jack Smith",
     "count": 17
   },
   {
-    "name": "Lindsey Halligan",
+    "name": "Department of Commerce",
     "count": 17
   },
   {
@@ -496,7 +520,15 @@
     "count": 16
   },
   {
-    "name": "Pentagon",
+    "name": "Environmental Protection Agency",
+    "count": 16
+  },
+  {
+    "name": "Office of Management and Budget",
+    "count": 16
+  },
+  {
+    "name": "Northrop Grumman",
     "count": 16
   },
   {
@@ -520,7 +552,7 @@
     "count": 16
   },
   {
-    "name": "Robert F. Kennedy Jr.",
+    "name": "CBP",
     "count": 16
   },
   {
@@ -544,7 +576,7 @@
     "count": 15
   },
   {
-    "name": "Northrop Grumman",
+    "name": "Ron Wyden",
     "count": 15
   },
   {
@@ -560,19 +592,15 @@
     "count": 15
   },
   {
-    "name": "Thomas Massie",
-    "count": 15
-  },
-  {
     "name": "Abraham Lincoln",
     "count": 14
   },
   {
-    "name": "Edwin Feulner",
+    "name": "House of Representatives",
     "count": 14
   },
   {
-    "name": "John Roberts",
+    "name": "Edwin Feulner",
     "count": 14
   },
   {
@@ -584,11 +612,11 @@
     "count": 14
   },
   {
-    "name": "Ron Wyden",
+    "name": "NSO Group",
     "count": 14
   },
   {
-    "name": "NSO Group",
+    "name": "Jamie Raskin",
     "count": 14
   },
   {
@@ -605,14 +633,6 @@
   },
   {
     "name": "Harry Truman",
-    "count": 13
-  },
-  {
-    "name": "Environmental Protection Agency",
-    "count": 13
-  },
-  {
-    "name": "Office of Management and Budget",
     "count": 13
   },
   {
@@ -641,10 +661,6 @@
   },
   {
     "name": "Jeff Sessions",
-    "count": 13
-  },
-  {
-    "name": "CBP",
     "count": 13
   },
   {
@@ -684,6 +700,10 @@
     "count": 12
   },
   {
+    "name": "Senate Judiciary Committee",
+    "count": 12
+  },
+  {
     "name": "Central Intelligence Agency",
     "count": 12
   },
@@ -704,7 +724,15 @@
     "count": 12
   },
   {
+    "name": "House Judiciary Committee",
+    "count": 12
+  },
+  {
     "name": "Charles Koch",
+    "count": 12
+  },
+  {
+    "name": "Brett Kavanaugh",
     "count": 12
   },
   {
@@ -740,6 +768,10 @@
     "count": 12
   },
   {
+    "name": "Department of Education",
+    "count": 12
+  },
+  {
     "name": "JPMorgan Chase",
     "count": 12
   },
@@ -772,7 +804,7 @@
     "count": 12
   },
   {
-    "name": "Ro Khanna",
+    "name": "Jerome Powell",
     "count": 12
   },
   {
@@ -781,10 +813,6 @@
   },
   {
     "name": "USDA",
-    "count": 12
-  },
-  {
-    "name": "Department of Commerce",
     "count": 12
   },
   {
@@ -800,7 +828,7 @@
     "count": 11
   },
   {
-    "name": "House of Representatives",
+    "name": "General Dynamics",
     "count": 11
   },
   {
@@ -809,6 +837,10 @@
   },
   {
     "name": "National Rifle Association",
+    "count": 11
+  },
+  {
+    "name": "Washington Post",
     "count": 11
   },
   {
@@ -824,6 +856,10 @@
     "count": 11
   },
   {
+    "name": "Samuel Alito",
+    "count": 11
+  },
+  {
     "name": "Grover Norquist",
     "count": 11
   },
@@ -833,6 +869,10 @@
   },
   {
     "name": "Federal Agencies",
+    "count": 11
+  },
+  {
+    "name": "Senate",
     "count": 11
   },
   {
@@ -860,11 +900,11 @@
     "count": 11
   },
   {
-    "name": "Jerome Powell",
+    "name": "Richard Blumenthal",
     "count": 11
   },
   {
-    "name": "Jamie Raskin",
+    "name": "Tom Homan",
     "count": 11
   },
   {
@@ -873,6 +913,10 @@
   },
   {
     "name": "Department of Government Efficiency (DOGE)",
+    "count": 11
+  },
+  {
+    "name": "NATO",
     "count": 11
   },
   {
@@ -892,10 +936,6 @@
     "count": 10
   },
   {
-    "name": "Senate Judiciary Committee",
-    "count": 10
-  },
-  {
     "name": "NAACP Legal Defense Fund",
     "count": 10
   },
@@ -904,19 +944,7 @@
     "count": 10
   },
   {
-    "name": "General Dynamics",
-    "count": 10
-  },
-  {
-    "name": "Washington Post",
-    "count": 10
-  },
-  {
     "name": "Lewis F. Powell Jr.",
-    "count": 10
-  },
-  {
-    "name": "House Judiciary Committee",
     "count": 10
   },
   {
@@ -924,7 +952,15 @@
     "count": 10
   },
   {
+    "name": "Department of State",
+    "count": 10
+  },
+  {
     "name": "Russian Government",
+    "count": 10
+  },
+  {
+    "name": "Hillary Clinton",
     "count": 10
   },
   {
@@ -944,15 +980,15 @@
     "count": 10
   },
   {
-    "name": "Department of Education",
-    "count": 10
-  },
-  {
     "name": "Eric Holder",
     "count": 10
   },
   {
     "name": "WikiLeaks",
+    "count": 10
+  },
+  {
+    "name": "Bernie Sanders",
     "count": 10
   },
   {
@@ -976,11 +1012,23 @@
     "count": 10
   },
   {
+    "name": "Susie Wiles",
+    "count": 10
+  },
+  {
     "name": "Russ Vought",
     "count": 10
   },
   {
     "name": "Mark Meadows",
+    "count": 10
+  },
+  {
+    "name": "Paul Atkins",
+    "count": 10
+  },
+  {
+    "name": "Gregory Bovino",
     "count": 10
   },
   {
@@ -1020,6 +1068,10 @@
     "count": 9
   },
   {
+    "name": "IRS",
+    "count": 9
+  },
+  {
     "name": "Intelligence Community",
     "count": 9
   },
@@ -1028,11 +1080,11 @@
     "count": 9
   },
   {
-    "name": "Samuel Alito",
+    "name": "Neil Gorsuch",
     "count": 9
   },
   {
-    "name": "Brett Kavanaugh",
+    "name": "Amy Coney Barrett",
     "count": 9
   },
   {
@@ -1049,10 +1101,6 @@
   },
   {
     "name": "Robert Rubin",
-    "count": 9
-  },
-  {
-    "name": "Hillary Clinton",
     "count": 9
   },
   {
@@ -1088,6 +1136,10 @@
     "count": 9
   },
   {
+    "name": "Public Citizen",
+    "count": 9
+  },
+  {
     "name": "U.S. Department of Education",
     "count": 9
   },
@@ -1100,10 +1152,6 @@
     "count": 9
   },
   {
-    "name": "Bernie Sanders",
-    "count": 9
-  },
-  {
     "name": "Carbyne",
     "count": 9
   },
@@ -1112,19 +1160,23 @@
     "count": 9
   },
   {
+    "name": "U.S. Marshals Service",
+    "count": 9
+  },
+  {
+    "name": "Lee Zeldin",
+    "count": 9
+  },
+  {
     "name": "Ring",
     "count": 9
   },
   {
-    "name": "Susie Wiles",
-    "count": 9
-  },
-  {
-    "name": "Richard Blumenthal",
-    "count": 9
-  },
-  {
     "name": "Anduril Industries",
+    "count": 9
+  },
+  {
+    "name": "Office of Personnel Management",
     "count": 9
   },
   {
@@ -1140,15 +1192,11 @@
     "count": 9
   },
   {
-    "name": "Tom Homan",
+    "name": "Gavin Newsom",
     "count": 9
   },
   {
     "name": "CBS News",
-    "count": 9
-  },
-  {
-    "name": "Gregory Bovino",
     "count": 9
   },
   {
@@ -1240,19 +1288,7 @@
     "count": 8
   },
   {
-    "name": "IRS",
-    "count": 8
-  },
-  {
     "name": "Department of Interior",
-    "count": 8
-  },
-  {
-    "name": "Neil Gorsuch",
-    "count": 8
-  },
-  {
-    "name": "Amy Coney Barrett",
     "count": 8
   },
   {
@@ -1293,14 +1329,6 @@
   },
   {
     "name": "FCC",
-    "count": 8
-  },
-  {
-    "name": "Senate",
-    "count": 8
-  },
-  {
-    "name": "Public Citizen",
     "count": 8
   },
   {
@@ -1348,10 +1376,6 @@
     "count": 8
   },
   {
-    "name": "U.S. Marshals Service",
-    "count": 8
-  },
-  {
     "name": "Susan Collins",
     "count": 8
   },
@@ -1360,11 +1384,23 @@
     "count": 8
   },
   {
+    "name": "Benjamin Netanyahu",
+    "count": 8
+  },
+  {
     "name": "Sundar Pichai",
     "count": 8
   },
   {
     "name": "Flock Safety",
+    "count": 8
+  },
+  {
+    "name": "Ketanji Brown Jackson",
+    "count": 8
+  },
+  {
+    "name": "Department of Transportation",
     "count": 8
   },
   {
@@ -1384,7 +1420,7 @@
     "count": 8
   },
   {
-    "name": "Gavin Newsom",
+    "name": "James Comer",
     "count": 8
   },
   {
@@ -1400,11 +1436,27 @@
     "count": 8
   },
   {
+    "name": "Todd Lyons",
+    "count": 8
+  },
+  {
+    "name": "Steve Witkoff",
+    "count": 8
+  },
+  {
+    "name": "Denmark",
+    "count": 8
+  },
+  {
     "name": "Haudenosaunee Confederacy",
     "count": 7
   },
   {
     "name": "George Washington",
+    "count": 7
+  },
+  {
+    "name": "France",
     "count": 7
   },
   {
@@ -1484,6 +1536,10 @@
     "count": 7
   },
   {
+    "name": "Government Accountability Office",
+    "count": 7
+  },
+  {
     "name": "Michael Scanlon",
     "count": 7
   },
@@ -1496,7 +1552,15 @@
     "count": 7
   },
   {
+    "name": "Office of the Comptroller of the Currency",
+    "count": 7
+  },
+  {
     "name": "US Congress",
+    "count": 7
+  },
+  {
+    "name": "Sonia Sotomayor",
     "count": 7
   },
   {
@@ -1517,6 +1581,10 @@
   },
   {
     "name": "Chainalysis",
+    "count": 7
+  },
+  {
+    "name": "Centers for Disease Control and Prevention",
     "count": 7
   },
   {
@@ -1552,11 +1620,11 @@
     "count": 7
   },
   {
-    "name": "Benjamin Netanyahu",
+    "name": "Jamal Khashoggi",
     "count": 7
   },
   {
-    "name": "Jamal Khashoggi",
+    "name": "Dick Durbin",
     "count": 7
   },
   {
@@ -1572,19 +1640,11 @@
     "count": 7
   },
   {
-    "name": "Department of Transportation",
-    "count": 7
-  },
-  {
     "name": "Ron DeSantis",
     "count": 7
   },
   {
     "name": "Tucker Carlson",
-    "count": 7
-  },
-  {
-    "name": "Office of Personnel Management",
     "count": 7
   },
   {
@@ -1600,6 +1660,10 @@
     "count": 7
   },
   {
+    "name": "Harmeet Dhillon",
+    "count": 7
+  },
+  {
     "name": "Greg Abbott",
     "count": 7
   },
@@ -1608,15 +1672,27 @@
     "count": 7
   },
   {
+    "name": "Tim Kaine",
+    "count": 7
+  },
+  {
     "name": "Pamela Bondi",
     "count": 7
   },
   {
-    "name": "Steve Witkoff",
+    "name": "NPR",
     "count": 7
   },
   {
     "name": "Erik Siebert",
+    "count": 7
+  },
+  {
+    "name": "Hakeem Jeffries",
+    "count": 7
+  },
+  {
+    "name": "Tim Walz",
     "count": 7
   },
   {
@@ -1625,10 +1701,6 @@
   },
   {
     "name": "Slaveholders",
-    "count": 6
-  },
-  {
-    "name": "France",
     "count": 6
   },
   {
@@ -1696,10 +1768,6 @@
     "count": 6
   },
   {
-    "name": "Department of State",
-    "count": 6
-  },
-  {
     "name": "Antonin Scalia",
     "count": 6
   },
@@ -1721,10 +1789,6 @@
   },
   {
     "name": "Larry Nassar",
-    "count": 6
-  },
-  {
-    "name": "Government Accountability Office",
     "count": 6
   },
   {
@@ -1769,10 +1833,6 @@
   },
   {
     "name": "Abu Zubaydah",
-    "count": 6
-  },
-  {
-    "name": "Office of the Comptroller of the Currency",
     "count": 6
   },
   {
@@ -1828,6 +1888,10 @@
     "count": 6
   },
   {
+    "name": "Rand Paul",
+    "count": 6
+  },
+  {
     "name": "Bureau of Prisons",
     "count": 6
   },
@@ -1852,19 +1916,11 @@
     "count": 6
   },
   {
-    "name": "Lee Zeldin",
-    "count": 6
-  },
-  {
     "name": "Federal Courts",
     "count": 6
   },
   {
     "name": "United Nations",
-    "count": 6
-  },
-  {
-    "name": "Dick Durbin",
     "count": 6
   },
   {
@@ -1880,11 +1936,23 @@
     "count": 6
   },
   {
+    "name": "Ninth Circuit Court of Appeals",
+    "count": 6
+  },
+  {
+    "name": "John Ratcliffe",
+    "count": 6
+  },
+  {
     "name": "Charlie Kirk",
     "count": 6
   },
   {
     "name": "ProPublica",
+    "count": 6
+  },
+  {
+    "name": "FEMA",
     "count": 6
   },
   {
@@ -1900,6 +1968,10 @@
     "count": 6
   },
   {
+    "name": "Centers for Medicare & Medicaid Services",
+    "count": 6
+  },
+  {
     "name": "Jeffrey Clark",
     "count": 6
   },
@@ -1912,15 +1984,15 @@
     "count": 6
   },
   {
+    "name": "United Kingdom",
+    "count": 6
+  },
+  {
     "name": "Justice Elena Kagan",
     "count": 6
   },
   {
     "name": "Justice Sonia Sotomayor",
-    "count": 6
-  },
-  {
-    "name": "Harmeet Dhillon",
     "count": 6
   },
   {
@@ -1944,15 +2016,15 @@
     "count": 6
   },
   {
+    "name": "Linda McMahon",
+    "count": 6
+  },
+  {
     "name": "Palantir",
     "count": 6
   },
   {
     "name": "Coinbase",
-    "count": 6
-  },
-  {
-    "name": "Tim Kaine",
     "count": 6
   },
   {
@@ -1964,7 +2036,7 @@
     "count": 6
   },
   {
-    "name": "Paul Atkins",
+    "name": "Emil Bove",
     "count": 6
   },
   {
@@ -1972,11 +2044,19 @@
     "count": 6
   },
   {
-    "name": "NPR",
+    "name": "Jeanine Pirro",
     "count": 6
   },
   {
-    "name": "Hakeem Jeffries",
+    "name": "Tulsi Gabbard",
+    "count": 6
+  },
+  {
+    "name": "Social Security Administration",
+    "count": 6
+  },
+  {
+    "name": "Mark Rutte",
     "count": 6
   },
   {
@@ -2216,6 +2296,10 @@
     "count": 5
   },
   {
+    "name": "Department of Energy",
+    "count": 5
+  },
+  {
     "name": "Abd al-Rahim al-Nashiri",
     "count": 5
   },
@@ -2296,11 +2380,11 @@
     "count": 5
   },
   {
-    "name": "DaVita",
+    "name": "Netflix",
     "count": 5
   },
   {
-    "name": "Rand Paul",
+    "name": "DaVita",
     "count": 5
   },
   {
@@ -2360,14 +2444,6 @@
     "count": 5
   },
   {
-    "name": "Ninth Circuit Court of Appeals",
-    "count": 5
-  },
-  {
-    "name": "Ketanji Brown Jackson",
-    "count": 5
-  },
-  {
     "name": "E. Jean Carroll",
     "count": 5
   },
@@ -2377,10 +2453,6 @@
   },
   {
     "name": "Rohit Chopra",
-    "count": 5
-  },
-  {
-    "name": "John Ratcliffe",
     "count": 5
   },
   {
@@ -2397,10 +2469,6 @@
   },
   {
     "name": "The Joe Rogan Experience",
-    "count": 5
-  },
-  {
-    "name": "FEMA",
     "count": 5
   },
   {
@@ -2432,6 +2500,10 @@
     "count": 5
   },
   {
+    "name": "Emmanuel Macron",
+    "count": 5
+  },
+  {
     "name": "Justice Brett Kavanaugh",
     "count": 5
   },
@@ -2448,10 +2520,6 @@
     "count": 5
   },
   {
-    "name": "James Comer",
-    "count": 5
-  },
-  {
     "name": "Kamala Harris",
     "count": 5
   },
@@ -2464,11 +2532,15 @@
     "count": 5
   },
   {
+    "name": "USAID",
+    "count": 5
+  },
+  {
     "name": "Chris Wright",
     "count": 5
   },
   {
-    "name": "Todd Lyons",
+    "name": "Lisa Cook",
     "count": 5
   },
   {
@@ -2484,15 +2556,35 @@
     "count": 5
   },
   {
-    "name": "Tulsi Gabbard",
-    "count": 5
-  },
-  {
     "name": "Bill Pulte",
     "count": 5
   },
   {
+    "name": "Immigration and Customs Enforcement",
+    "count": 5
+  },
+  {
+    "name": "John Thune",
+    "count": 5
+  },
+  {
     "name": "Doug Burgum",
+    "count": 5
+  },
+  {
+    "name": "Germany",
+    "count": 5
+  },
+  {
+    "name": "Mark Kelly",
+    "count": 5
+  },
+  {
+    "name": "D. John Sauer",
+    "count": 5
+  },
+  {
+    "name": "Keith Ellison",
     "count": 5
   },
   {
@@ -2788,6 +2880,10 @@
     "count": 4
   },
   {
+    "name": "U.S. Border Patrol",
+    "count": 4
+  },
+  {
     "name": "FCC Federal Communications Commission",
     "count": 4
   },
@@ -2853,10 +2949,6 @@
   },
   {
     "name": "Colin Powell",
-    "count": 4
-  },
-  {
-    "name": "Department of Energy",
     "count": 4
   },
   {
@@ -2976,10 +3068,6 @@
     "count": 4
   },
   {
-    "name": "Sonia Sotomayor",
-    "count": 4
-  },
-  {
     "name": "European Central Bank",
     "count": 4
   },
@@ -3000,6 +3088,10 @@
     "count": 4
   },
   {
+    "name": "Jim Jordan",
+    "count": 4
+  },
+  {
     "name": "Johnson & Johnson",
     "count": 4
   },
@@ -3013,6 +3105,10 @@
   },
   {
     "name": "Julian Assange",
+    "count": 4
+  },
+  {
+    "name": "CMS",
     "count": 4
   },
   {
@@ -3144,6 +3240,10 @@
     "count": 4
   },
   {
+    "name": "Chris Murphy",
+    "count": 4
+  },
+  {
     "name": "Volodymyr Zelensky",
     "count": 4
   },
@@ -3157,6 +3257,10 @@
   },
   {
     "name": "346 crash victims",
+    "count": 4
+  },
+  {
+    "name": "Pramila Jayapal",
     "count": 4
   },
   {
@@ -3180,7 +3284,7 @@
     "count": 4
   },
   {
-    "name": "Centers for Medicare & Medicaid Services",
+    "name": "Mike Lee",
     "count": 4
   },
   {
@@ -3212,7 +3316,7 @@
     "count": 4
   },
   {
-    "name": "Emmanuel Macron",
+    "name": "Office of Government Ethics",
     "count": 4
   },
   {
@@ -3236,7 +3340,7 @@
     "count": 4
   },
   {
-    "name": "United Kingdom",
+    "name": "Paul Engelmayer",
     "count": 4
   },
   {
@@ -3292,10 +3396,6 @@
     "count": 4
   },
   {
-    "name": "Linda McMahon",
-    "count": 4
-  },
-  {
     "name": "Government Accountability Office (GAO)",
     "count": 4
   },
@@ -3328,6 +3428,10 @@
     "count": 4
   },
   {
+    "name": "American Civil Liberties Union",
+    "count": 4
+  },
+  {
     "name": "Lawyers for Good Government",
     "count": 4
   },
@@ -3341,14 +3445,6 @@
   },
   {
     "name": "Brad Schimel",
-    "count": 4
-  },
-  {
-    "name": "Lisa Cook",
-    "count": 4
-  },
-  {
-    "name": "Emil Bove",
     "count": 4
   },
   {
@@ -3384,15 +3480,7 @@
     "count": 4
   },
   {
-    "name": "Jeanine Pirro",
-    "count": 4
-  },
-  {
     "name": "California",
-    "count": 4
-  },
-  {
-    "name": "Immigration and Customs Enforcement",
     "count": 4
   },
   {
@@ -3408,7 +3496,7 @@
     "count": 4
   },
   {
-    "name": "Mark Kelly",
+    "name": "Jason Crow",
     "count": 4
   },
   {
@@ -3416,7 +3504,11 @@
     "count": 4
   },
   {
-    "name": "NATO",
+    "name": "Venezuela",
+    "count": 4
+  },
+  {
+    "name": "Jacob Frey",
     "count": 4
   },
   {
@@ -3944,7 +4036,7 @@
     "count": 3
   },
   {
-    "name": "U.S. Border Patrol",
+    "name": "Peabody Energy",
     "count": 3
   },
   {
@@ -4057,6 +4149,10 @@
   },
   {
     "name": "Arthur Andersen",
+    "count": 3
+  },
+  {
+    "name": "U.S. Army Corps of Engineers",
     "count": 3
   },
   {
@@ -4188,6 +4284,10 @@
     "count": 3
   },
   {
+    "name": "House Financial Services Committee",
+    "count": 3
+  },
+  {
     "name": "Covington & Burling",
     "count": 3
   },
@@ -4296,10 +4396,6 @@
     "count": 3
   },
   {
-    "name": "Jim Jordan",
-    "count": 3
-  },
-  {
     "name": "Senate HELP Committee",
     "count": 3
   },
@@ -4328,10 +4424,6 @@
     "count": 3
   },
   {
-    "name": "CMS",
-    "count": 3
-  },
-  {
     "name": "CITIC Group",
     "count": 3
   },
@@ -4341,10 +4433,6 @@
   },
   {
     "name": "House Ways and Means Committee",
-    "count": 3
-  },
-  {
-    "name": "Netflix",
     "count": 3
   },
   {
@@ -4361,6 +4449,10 @@
   },
   {
     "name": "Milo Yiannopoulos",
+    "count": 3
+  },
+  {
+    "name": "Senate Select Committee on Intelligence",
     "count": 3
   },
   {
@@ -4429,10 +4521,6 @@
   },
   {
     "name": "Christopher Wylie",
-    "count": 3
-  },
-  {
-    "name": "Centers for Disease Control and Prevention",
     "count": 3
   },
   {
@@ -4525,6 +4613,10 @@
   },
   {
     "name": "Huawei",
+    "count": 3
+  },
+  {
+    "name": "Cynthia Lummis",
     "count": 3
   },
   {
@@ -4692,10 +4784,6 @@
     "count": 3
   },
   {
-    "name": "Mike Lee",
-    "count": 3
-  },
-  {
     "name": "Project 2025",
     "count": 3
   },
@@ -4756,19 +4844,11 @@
     "count": 3
   },
   {
-    "name": "Office of Government Ethics",
-    "count": 3
-  },
-  {
     "name": "Political Appointees",
     "count": 3
   },
   {
     "name": "Lloyd Austin",
-    "count": 3
-  },
-  {
-    "name": "Paul Engelmayer",
     "count": 3
   },
   {
@@ -4793,6 +4873,10 @@
   },
   {
     "name": "CIC Digital LLC",
+    "count": 3
+  },
+  {
+    "name": "HSI",
     "count": 3
   },
   {
@@ -4872,10 +4956,6 @@
     "count": 3
   },
   {
-    "name": "USAID",
-    "count": 3
-  },
-  {
     "name": "White House Personnel Office",
     "count": 3
   },
@@ -4892,6 +4972,10 @@
     "count": 3
   },
   {
+    "name": "Eric Adams",
+    "count": 3
+  },
+  {
     "name": "Constitutional Defense Network",
     "count": 3
   },
@@ -4905,6 +4989,10 @@
   },
   {
     "name": "Customs and Border Protection",
+    "count": 3
+  },
+  {
+    "name": "Ali Khamenei",
     "count": 3
   },
   {
@@ -4996,11 +5084,19 @@
     "count": 3
   },
   {
+    "name": "Civil Rights Division",
+    "count": 3
+  },
+  {
     "name": "Erika McEntarfer",
     "count": 3
   },
   {
     "name": "David Ellison",
+    "count": 3
+  },
+  {
+    "name": "Department of the Treasury",
     "count": 3
   },
   {
@@ -5020,10 +5116,6 @@
     "count": 3
   },
   {
-    "name": "Social Security Administration",
-    "count": 3
-  },
-  {
     "name": "Stephen Miran",
     "count": 3
   },
@@ -5040,7 +5132,7 @@
     "count": 3
   },
   {
-    "name": "Germany",
+    "name": "Minnesota",
     "count": 3
   },
   {
@@ -5060,11 +5152,15 @@
     "count": 3
   },
   {
+    "name": "Nancy Mace",
+    "count": 3
+  },
+  {
     "name": "William Fitzpatrick",
     "count": 3
   },
   {
-    "name": "Jason Crow",
+    "name": "Elissa Slotkin",
     "count": 3
   },
   {
@@ -5084,7 +5180,15 @@
     "count": 3
   },
   {
+    "name": "Roger Wicker",
+    "count": 3
+  },
+  {
     "name": "Juan Orlando Hernández",
+    "count": 3
+  },
+  {
+    "name": "Angus King",
     "count": 3
   },
   {
@@ -5092,7 +5196,7 @@
     "count": 3
   },
   {
-    "name": "D. John Sauer",
+    "name": "Jim O'Neill",
     "count": 3
   },
   {
@@ -5108,11 +5212,23 @@
     "count": 3
   },
   {
-    "name": "Venezuela",
+    "name": "Brad Edwards",
+    "count": 3
+  },
+  {
+    "name": "Brittany Henderson",
     "count": 3
   },
   {
     "name": "Nicolas Maduro",
+    "count": 3
+  },
+  {
+    "name": "Greenland",
+    "count": 3
+  },
+  {
+    "name": "House Committee on Oversight and Government Reform",
     "count": 3
   },
   {
@@ -6548,10 +6664,6 @@
     "count": 2
   },
   {
-    "name": "Peabody Energy",
-    "count": 2
-  },
-  {
     "name": "American Gas Association",
     "count": 2
   },
@@ -6712,10 +6824,6 @@
     "count": 2
   },
   {
-    "name": "U.S. Army Corps of Engineers",
-    "count": 2
-  },
-  {
     "name": "Coal Industry",
     "count": 2
   },
@@ -6781,6 +6889,10 @@
   },
   {
     "name": "Carl Levin",
+    "count": 2
+  },
+  {
+    "name": "Senate Foreign Relations Committee",
     "count": 2
   },
   {
@@ -6852,15 +6964,15 @@
     "count": 2
   },
   {
+    "name": "Sallie Mae",
+    "count": 2
+  },
+  {
     "name": "ITT Tech",
     "count": 2
   },
   {
     "name": "Navient",
-    "count": 2
-  },
-  {
-    "name": "Sallie Mae",
     "count": 2
   },
   {
@@ -7073,10 +7185,6 @@
   },
   {
     "name": "Lloyd Blankfein",
-    "count": 2
-  },
-  {
-    "name": "House Financial Services Committee",
     "count": 2
   },
   {
@@ -7400,6 +7508,10 @@
     "count": 2
   },
   {
+    "name": "European Union",
+    "count": 2
+  },
+  {
     "name": "European Court of Human Rights",
     "count": 2
   },
@@ -7409,10 +7521,6 @@
   },
   {
     "name": "HHS Office of Inspector General",
-    "count": 2
-  },
-  {
-    "name": "Senate Select Committee on Intelligence",
     "count": 2
   },
   {
@@ -7752,10 +7860,6 @@
     "count": 2
   },
   {
-    "name": "Cynthia Lummis",
-    "count": 2
-  },
-  {
     "name": "Founders Fund",
     "count": 2
   },
@@ -8016,10 +8120,6 @@
     "count": 2
   },
   {
-    "name": "Chris Murphy",
-    "count": 2
-  },
-  {
     "name": "Barry Friedman",
     "count": 2
   },
@@ -8113,6 +8213,10 @@
   },
   {
     "name": "American Federation of Teachers",
+    "count": 2
+  },
+  {
+    "name": "Small Business Administration",
     "count": 2
   },
   {
@@ -8304,6 +8408,10 @@
     "count": 2
   },
   {
+    "name": "Tony Blair",
+    "count": 2
+  },
+  {
     "name": "Hedge Funds",
     "count": 2
   },
@@ -8456,10 +8564,6 @@
     "count": 2
   },
   {
-    "name": "HSI",
-    "count": 2
-  },
-  {
     "name": "U.S. Attorney's Office for the Southern District of New York",
     "count": 2
   },
@@ -8512,11 +8616,11 @@
     "count": 2
   },
   {
-    "name": "Joshua Dean",
+    "name": "Spirit AeroSystems",
     "count": 2
   },
   {
-    "name": "Spirit AeroSystems",
+    "name": "Joshua Dean",
     "count": 2
   },
   {
@@ -8533,6 +8637,10 @@
   },
   {
     "name": "SpaceX/Starlink",
+    "count": 2
+  },
+  {
+    "name": "Brandon Johnson",
     "count": 2
   },
   {
@@ -8560,11 +8668,19 @@
     "count": 2
   },
   {
+    "name": "Robert Garcia",
+    "count": 2
+  },
+  {
     "name": "AI Safety Experts",
     "count": 2
   },
   {
     "name": "Chris LaCivita",
+    "count": 2
+  },
+  {
+    "name": "True the Vote",
     "count": 2
   },
   {
@@ -8652,6 +8768,10 @@
     "count": 2
   },
   {
+    "name": "Everett Kelley",
+    "count": 2
+  },
+  {
     "name": "Andrew Ferguson",
     "count": 2
   },
@@ -8708,6 +8828,10 @@
     "count": 2
   },
   {
+    "name": "Office for Civil Rights",
+    "count": 2
+  },
+  {
     "name": "David Lebryk",
     "count": 2
   },
@@ -8717,6 +8841,10 @@
   },
   {
     "name": "Gerald Connolly",
+    "count": 2
+  },
+  {
+    "name": "Steve Davis",
     "count": 2
   },
   {
@@ -8760,10 +8888,6 @@
     "count": 2
   },
   {
-    "name": "American Civil Liberties Union",
-    "count": 2
-  },
-  {
     "name": "Brian Schwalb",
     "count": 2
   },
@@ -8804,10 +8928,6 @@
     "count": 2
   },
   {
-    "name": "Ali Khamenei",
-    "count": 2
-  },
-  {
     "name": "CIVICUS Monitor",
     "count": 2
   },
@@ -8841,10 +8961,6 @@
   },
   {
     "name": "Lynn Dekleva",
-    "count": 2
-  },
-  {
-    "name": "Eric Adams",
     "count": 2
   },
   {
@@ -8913,6 +9029,10 @@
   },
   {
     "name": "David Zaslav",
+    "count": 2
+  },
+  {
+    "name": "Kyle Hauptman",
     "count": 2
   },
   {
@@ -9036,6 +9156,10 @@
     "count": 2
   },
   {
+    "name": "U.S. Northern Command",
+    "count": 2
+  },
+  {
     "name": "DHS Secretary Kristi Noem",
     "count": 2
   },
@@ -9096,10 +9220,6 @@
     "count": 2
   },
   {
-    "name": "Civil Rights Division",
-    "count": 2
-  },
-  {
     "name": "Venezuelan deportees",
     "count": 2
   },
@@ -9152,15 +9272,11 @@
     "count": 2
   },
   {
-    "name": "JPMorgan",
-    "count": 2
-  },
-  {
     "name": "Harold Hamm",
     "count": 2
   },
   {
-    "name": "John Thune",
+    "name": "JPMorgan",
     "count": 2
   },
   {
@@ -9180,10 +9296,6 @@
     "count": 2
   },
   {
-    "name": "Minnesota",
-    "count": 2
-  },
-  {
     "name": "New York",
     "count": 2
   },
@@ -9196,7 +9308,15 @@
     "count": 2
   },
   {
+    "name": "Eastern District of Virginia",
+    "count": 2
+  },
+  {
     "name": "City of Chicago",
+    "count": 2
+  },
+  {
+    "name": "National Institute of Standards and Technology",
     "count": 2
   },
   {
@@ -9232,7 +9352,7 @@
     "count": 2
   },
   {
-    "name": "Nancy Mace",
+    "name": "Tricia McLaughlin",
     "count": 2
   },
   {
@@ -9245,10 +9365,6 @@
   },
   {
     "name": "Daniel Richman",
-    "count": 2
-  },
-  {
-    "name": "Elissa Slotkin",
     "count": 2
   },
   {
@@ -9269,6 +9385,10 @@
   },
   {
     "name": "Pete Aguilar",
+    "count": 2
+  },
+  {
+    "name": "Scott Kupor",
     "count": 2
   },
   {
@@ -9312,15 +9432,7 @@
     "count": 2
   },
   {
-    "name": "Tim Walz",
-    "count": 2
-  },
-  {
     "name": "Department of Veterans Affairs",
-    "count": 2
-  },
-  {
-    "name": "Angus King",
     "count": 2
   },
   {
@@ -9336,6 +9448,10 @@
     "count": 2
   },
   {
+    "name": "Mark Calabria",
+    "count": 2
+  },
+  {
     "name": "Warner Bros Discovery",
     "count": 2
   },
@@ -9344,19 +9460,7 @@
     "count": 2
   },
   {
-    "name": "Brad Edwards",
-    "count": 2
-  },
-  {
-    "name": "Brittany Henderson",
-    "count": 2
-  },
-  {
     "name": "U.S. Immigration and Customs Enforcement",
-    "count": 2
-  },
-  {
-    "name": "Denmark",
     "count": 2
   },
   {
@@ -9364,7 +9468,35 @@
     "count": 2
   },
   {
+    "name": "Minnesota Bureau of Criminal Apprehension",
+    "count": 2
+  },
+  {
     "name": "Robin Kelly",
+    "count": 2
+  },
+  {
+    "name": "Jared Moskowitz",
+    "count": 2
+  },
+  {
+    "name": "Joshua Rudd",
+    "count": 2
+  },
+  {
+    "name": "Norway",
+    "count": 2
+  },
+  {
+    "name": "Warner Bros. Discovery",
+    "count": 2
+  },
+  {
+    "name": "Public Company Accounting Oversight Board",
+    "count": 2
+  },
+  {
+    "name": "Katie Britt",
     "count": 2
   },
   {
@@ -17468,10 +17600,6 @@
     "count": 1
   },
   {
-    "name": "Senate Foreign Relations Committee",
-    "count": 1
-  },
-  {
     "name": "Defense Intelligence Agency",
     "count": 1
   },
@@ -17624,15 +17752,15 @@
     "count": 1
   },
   {
-    "name": "Bunnatine Greenhouse",
-    "count": 1
-  },
-  {
     "name": "Halliburton Corporation",
     "count": 1
   },
   {
     "name": "Kellogg Brown & Root (KBR)",
+    "count": 1
+  },
+  {
+    "name": "Bunnatine Greenhouse",
     "count": 1
   },
   {
@@ -20028,10 +20156,6 @@
     "count": 1
   },
   {
-    "name": "European Union",
-    "count": 1
-  },
-  {
     "name": "Sberbank",
     "count": 1
   },
@@ -20372,15 +20496,15 @@
     "count": 1
   },
   {
+    "name": "Fresenius Medical Care",
+    "count": 1
+  },
+  {
     "name": "Russian money launderers",
     "count": 1
   },
   {
     "name": "David Enrich",
-    "count": 1
-  },
-  {
-    "name": "Fresenius Medical Care",
     "count": 1
   },
   {
@@ -22704,10 +22828,6 @@
     "count": 1
   },
   {
-    "name": "Pramila Jayapal",
-    "count": 1
-  },
-  {
     "name": "Boeing employees",
     "count": 1
   },
@@ -22785,10 +22905,6 @@
   },
   {
     "name": "Abigail Spanberger",
-    "count": 1
-  },
-  {
-    "name": "Small Business Administration",
     "count": 1
   },
   {
@@ -22876,10 +22992,6 @@
     "count": 1
   },
   {
-    "name": "Eliot Engel",
-    "count": 1
-  },
-  {
     "name": "Quanta Services",
     "count": 1
   },
@@ -22889,6 +23001,10 @@
   },
   {
     "name": "Puerto Rico Public-Private Partnership Authority",
+    "count": 1
+  },
+  {
+    "name": "Eliot Engel",
     "count": 1
   },
   {
@@ -23545,10 +23661,6 @@
   },
   {
     "name": "Andrej Babiš",
-    "count": 1
-  },
-  {
-    "name": "Tony Blair",
     "count": 1
   },
   {
@@ -24856,10 +24968,6 @@
     "count": 1
   },
   {
-    "name": "Brandon Johnson",
-    "count": 1
-  },
-  {
     "name": "Stanford HAI Researchers",
     "count": 1
   },
@@ -25072,10 +25180,6 @@
     "count": 1
   },
   {
-    "name": "Robert Garcia",
-    "count": 1
-  },
-  {
     "name": "Rep. Don Bacon",
     "count": 1
   },
@@ -25217,10 +25321,6 @@
   },
   {
     "name": "Melissa Holyoak",
-    "count": 1
-  },
-  {
-    "name": "True the Vote",
     "count": 1
   },
   {
@@ -26008,15 +26108,11 @@
     "count": 1
   },
   {
-    "name": "Everett Kelley",
+    "name": "Project 2025 authors",
     "count": 1
   },
   {
     "name": "Elizabeth Goitein",
-    "count": 1
-  },
-  {
-    "name": "Project 2025 authors",
     "count": 1
   },
   {
@@ -26140,15 +26236,15 @@
     "count": 1
   },
   {
-    "name": "Financial criminals",
-    "count": 1
-  },
-  {
     "name": "Corporate Leaders",
     "count": 1
   },
   {
     "name": "Foreign Business Partners",
+    "count": 1
+  },
+  {
+    "name": "Financial criminals",
     "count": 1
   },
   {
@@ -26284,10 +26380,6 @@
     "count": 1
   },
   {
-    "name": "Office for Civil Rights",
-    "count": 1
-  },
-  {
     "name": "Russell Pekala",
     "count": 1
   },
@@ -26368,10 +26460,6 @@
     "count": 1
   },
   {
-    "name": "Steve Davis",
-    "count": 1
-  },
-  {
     "name": "Michelle Fiore",
     "count": 1
   },
@@ -26429,6 +26517,18 @@
   },
   {
     "name": "Dale Ho (Federal Judge)",
+    "count": 1
+  },
+  {
+    "name": "Danielle Sassoon",
+    "count": 1
+  },
+  {
+    "name": "John Keller",
+    "count": 1
+  },
+  {
+    "name": "Kevin Driscoll",
     "count": 1
   },
   {
@@ -27324,15 +27424,15 @@
     "count": 1
   },
   {
-    "name": "Steven Cheung",
-    "count": 1
-  },
-  {
     "name": "Matthew Galeotti",
     "count": 1
   },
   {
     "name": "James McHenry III",
+    "count": 1
+  },
+  {
+    "name": "Steven Cheung",
     "count": 1
   },
   {
@@ -27393,10 +27493,6 @@
   },
   {
     "name": "Tanya Otsuka",
-    "count": 1
-  },
-  {
-    "name": "Kyle Hauptman",
     "count": 1
   },
   {
@@ -28136,10 +28232,6 @@
     "count": 1
   },
   {
-    "name": "U.S. Northern Command",
-    "count": 1
-  },
-  {
     "name": "Task Force 51",
     "count": 1
   },
@@ -28392,19 +28484,19 @@
     "count": 1
   },
   {
-    "name": "SpaceX Lobbyists",
-    "count": 1
-  },
-  {
-    "name": "Tesla Lobbyists",
-    "count": 1
-  },
-  {
     "name": "Partnership for Public Service",
     "count": 1
   },
   {
     "name": "Private prison contractors",
+    "count": 1
+  },
+  {
+    "name": "SpaceX Lobbyists",
+    "count": 1
+  },
+  {
+    "name": "Tesla Lobbyists",
     "count": 1
   },
   {
@@ -28484,11 +28576,11 @@
     "count": 1
   },
   {
-    "name": "Chief Digital and Artificial Intelligence Office",
+    "name": "Joseph Tirrell",
     "count": 1
   },
   {
-    "name": "Joseph Tirrell",
+    "name": "Chief Digital and Artificial Intelligence Office",
     "count": 1
   },
   {
@@ -28909,10 +29001,6 @@
   },
   {
     "name": "Kazakhstan intelligence",
-    "count": 1
-  },
-  {
-    "name": "Department of the Treasury",
     "count": 1
   },
   {
@@ -29420,6 +29508,10 @@
     "count": 1
   },
   {
+    "name": "JTTF",
+    "count": 1
+  },
+  {
     "name": "Sinan Gursoy",
     "count": 1
   },
@@ -29504,10 +29596,6 @@
     "count": 1
   },
   {
-    "name": "Eastern District of Virginia",
-    "count": 1
-  },
-  {
     "name": "Marimar Martinez",
     "count": 1
   },
@@ -29589,10 +29677,6 @@
   },
   {
     "name": "Dr. Marvin Dunn",
-    "count": 1
-  },
-  {
-    "name": "National Institute of Standards and Technology",
     "count": 1
   },
   {
@@ -29964,10 +30048,6 @@
     "count": 1
   },
   {
-    "name": "Test Actor",
-    "count": 1
-  },
-  {
     "name": "Five Eyes",
     "count": 1
   },
@@ -30136,10 +30216,6 @@
     "count": 1
   },
   {
-    "name": "Tricia McLaughlin",
-    "count": 1
-  },
-  {
     "name": "Safe America Media",
     "count": 1
   },
@@ -30256,10 +30332,6 @@
     "count": 1
   },
   {
-    "name": "Scott Kupor",
-    "count": 1
-  },
-  {
     "name": "Gemini",
     "count": 1
   },
@@ -30281,10 +30353,6 @@
   },
   {
     "name": "Joseph Mazzara (DHS acting General Counsel)",
-    "count": 1
-  },
-  {
-    "name": "Roger Wicker",
     "count": 1
   },
   {
@@ -30652,10 +30720,6 @@
     "count": 1
   },
   {
-    "name": "Mark Rutte",
-    "count": 1
-  },
-  {
     "name": "Alexander Stubb",
     "count": 1
   },
@@ -30828,10 +30892,6 @@
     "count": 1
   },
   {
-    "name": "Jim O'Neill",
-    "count": 1
-  },
-  {
     "name": "Dr. Susan Kressly",
     "count": 1
   },
@@ -30889,10 +30949,6 @@
   },
   {
     "name": "American Immigration Council",
-    "count": 1
-  },
-  {
-    "name": "Mark Calabria",
     "count": 1
   },
   {
@@ -31328,10 +31384,6 @@
     "count": 1
   },
   {
-    "name": "Greenland",
-    "count": 1
-  },
-  {
     "name": "Olaf Scholz",
     "count": 1
   },
@@ -31341,6 +31393,18 @@
   },
   {
     "name": "Roosevelt High School",
+    "count": 1
+  },
+  {
+    "name": "Kristin Robbins",
+    "count": 1
+  },
+  {
+    "name": "Walter Hudson",
+    "count": 1
+  },
+  {
+    "name": "Marion Rarick",
     "count": 1
   },
   {
@@ -31368,15 +31432,11 @@
     "count": 1
   },
   {
-    "name": "Minnesota Bureau of Criminal Apprehension",
-    "count": 1
-  },
-  {
     "name": "Bob Jacobson",
     "count": 1
   },
   {
-    "name": "Jacob Frey",
+    "name": "Ali Larijani",
     "count": 1
   },
   {
@@ -31393,10 +31453,6 @@
   },
   {
     "name": "Brad Schneider",
-    "count": 1
-  },
-  {
-    "name": "Jared Moskowitz",
     "count": 1
   },
   {
@@ -31456,10 +31512,6 @@
     "count": 1
   },
   {
-    "name": "Keith Ellison",
-    "count": 1
-  },
-  {
     "name": "Minneapolis",
     "count": 1
   },
@@ -31496,11 +31548,271 @@
     "count": 1
   },
   {
+    "name": "Hannah Natanson",
+    "count": 1
+  },
+  {
     "name": "Angie Craig",
     "count": 1
   },
   {
     "name": "Betty McCollum",
+    "count": 1
+  },
+  {
+    "name": "Michael Bost",
+    "count": 1
+  },
+  {
+    "name": "Jeffrey Bryan",
+    "count": 1
+  },
+  {
+    "name": "Garrison Gibson",
+    "count": 1
+  },
+  {
+    "name": "Senate Committee on Armed Services",
+    "count": 1
+  },
+  {
+    "name": "Mehmet Oz",
+    "count": 1
+  },
+  {
+    "name": "Ali Shaath",
+    "count": 1
+  },
+  {
+    "name": "Department of Government Efficiency",
+    "count": 1
+  },
+  {
+    "name": "Institute of Education Sciences",
+    "count": 1
+  },
+  {
+    "name": "Sweden",
+    "count": 1
+  },
+  {
+    "name": "Netherlands",
+    "count": 1
+  },
+  {
+    "name": "Finland",
+    "count": 1
+  },
+  {
+    "name": "Cities Church",
+    "count": 1
+  },
+  {
+    "name": "David Easterwood",
+    "count": 1
+  },
+  {
+    "name": "Women's March",
+    "count": 1
+  },
+  {
+    "name": "Department of Housing and Urban Development",
+    "count": 1
+  },
+  {
+    "name": "Janet Mills",
+    "count": 1
+  },
+  {
+    "name": "Mark Carney",
+    "count": 1
+  },
+  {
+    "name": "Colin Demarco",
+    "count": 1
+  },
+  {
+    "name": "House Committee on Appropriations",
+    "count": 1
+  },
+  {
+    "name": "Minnesota AFL-CIO",
+    "count": 1
+  },
+  {
+    "name": "Amalgamated Transit Union Local 1005",
+    "count": 1
+  },
+  {
+    "name": "SEIU Local 26",
+    "count": 1
+  },
+  {
+    "name": "UNITE HERE Local 17",
+    "count": 1
+  },
+  {
+    "name": "Communications Workers of America Local 7250",
+    "count": 1
+  },
+  {
+    "name": "Minneapolis Federation of Educators",
+    "count": 1
+  },
+  {
+    "name": "Saint Paul Federation of Educators",
+    "count": 1
+  },
+  {
+    "name": "Sunrise Movement",
+    "count": 1
+  },
+  {
+    "name": "Chuck Borges",
+    "count": 1
+  },
+  {
+    "name": "Alex Pretti",
+    "count": 1
+  },
+  {
+    "name": "AFGE Local 3669",
+    "count": 1
+  },
+  {
+    "name": "Kieran Knutson",
+    "count": 1
+  },
+  {
+    "name": "Danish Armed Forces",
+    "count": 1
+  },
+  {
+    "name": "Peter Harling Boysen",
+    "count": 1
+  },
+  {
+    "name": "Patrick Schiltz",
+    "count": 1
+  },
+  {
+    "name": "National TPS Alliance",
+    "count": 1
+  },
+  {
+    "name": "Delcy Rodríguez",
+    "count": 1
+  },
+  {
+    "name": "Kathryn Burgum",
+    "count": 1
+  },
+  {
+    "name": "Don Lemon",
+    "count": 1
+  },
+  {
+    "name": "Georgia Fort",
+    "count": 1
+  },
+  {
+    "name": "Department of the Interior",
+    "count": 1
+  },
+  {
+    "name": "Roger Penske",
+    "count": 1
+  },
+  {
+    "name": "Demetrios Logothetis",
+    "count": 1
+  },
+  {
+    "name": "Substance Abuse and Mental Health Services Administration",
+    "count": 1
+  },
+  {
+    "name": "Administration for Children and Families",
+    "count": 1
+  },
+  {
+    "name": "Aaron Christian Peterson",
+    "count": 1
+  },
+  {
+    "name": "Dan Sullivan",
+    "count": 1
+  },
+  {
+    "name": "Theodore Chuang",
+    "count": 1
+  },
+  {
+    "name": "Peter Marocco",
+    "count": 1
+  },
+  {
+    "name": "Jeremy Lewin",
+    "count": 1
+  },
+  {
+    "name": "Amy Gleason",
+    "count": 1
+  },
+  {
+    "name": "Joint Force Command Norfolk",
+    "count": 1
+  },
+  {
+    "name": "Elbridge Colby",
+    "count": 1
+  },
+  {
+    "name": "Patrick Davis",
+    "count": 1
+  },
+  {
+    "name": "Rick Crawford",
+    "count": 1
+  },
+  {
+    "name": "Maxine Waters",
+    "count": 1
+  },
+  {
+    "name": "Tron Foundation",
+    "count": 1
+  },
+  {
+    "name": "Manish Shah",
+    "count": 1
+  },
+  {
+    "name": "Kwame Raoul",
+    "count": 1
+  },
+  {
+    "name": "Phil Weiser",
+    "count": 1
+  },
+  {
+    "name": "Mike Stuart",
+    "count": 1
+  },
+  {
+    "name": "John Fetterman",
+    "count": 1
+  },
+  {
+    "name": "Scott Shambaugh",
+    "count": 1
+  },
+  {
+    "name": "RTX",
+    "count": 1
+  },
+  {
+    "name": "L3Harris",
     "count": 1
   }
 ]

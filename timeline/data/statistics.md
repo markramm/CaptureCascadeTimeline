@@ -1,50 +1,49 @@
 # Timeline Statistics Report
 
-Generated: 2026-01-14 02:13:09
+Generated: 2026-02-15 19:24:20
 
 ## Overview
-- **Total Events**: 4120
-- **Date Range**: 1142-01-01 to 2026-01-14
-- **Total Sources**: 14157
-- **Unique Tags**: 6440
-- **Unique Actors**: 7876
+- **Total Events**: 4238
+- **Date Range**: 1142-01-01 to 2026-02-15
+- **Total Sources**: 14523
+- **Unique Tags**: 6468
+- **Unique Actors**: 7954
 
 ## Event Status
-- **Unknown**: 930
-- **Confirmed**: 3147
-- **Validated**: 26
-- **Disputed**: 2
+- **Unknown**: 247
+- **Confirmed**: 3953
+- **Validated**: 24
+- **Disputed**: 3
 - **Verified**: 1
-- **Reported**: 7
-- **Contested**: 3
-- **Needs_Work**: 1
+- **Reported**: 5
 - **Unverified**: 1
 - **Predicted**: 1
 - **Developing**: 1
+- **Contested**: 2
 
 ## Top Tags
-- regulatory-capture: 554 events
-- institutional-capture: 393 events
-- corruption: 279 events
-- systematic-corruption: 139 events
+- regulatory-capture: 573 events
+- institutional-capture: 427 events
+- corruption: 289 events
+- systematic-corruption: 141 events
 - trump-administration: 139 events
 - kleptocracy: 134 events
 - government-contracts: 131 events
-- supreme-court: 122 events
-- surveillance: 117 events
-- crypto: 112 events
+- surveillance: 127 events
+- supreme-court: 125 events
+- healthcare: 114 events
 
 ## Top Actors
-- Donald Trump: 1068 events
+- Donald Trump: 1108 events
 - Trump Administration: 328 events
-- Department of Justice: 259 events
-- Elon Musk: 158 events
+- Department of Justice: 279 events
+- Elon Musk: 166 events
 - U.S. Congress: 131 events
-- FBI: 89 events
-- Pam Bondi: 83 events
-- Ronald Reagan: 71 events
-- Congress: 69 events
-- ICE: 69 events
+- Pam Bondi: 98 events
+- FBI: 92 events
+- ICE: 83 events
+- Supreme Court: 75 events
+- Congress: 71 events
 
 ## Events by Year
 - 1142: 1 events
@@ -282,6 +281,6 @@ Generated: 2026-01-14 02:13:09
 - 2021: 105 events
 - 2022: 92 events
 - 2023: 97 events
-- 2024: 165 events
+- 2024: 166 events
 - 2025: 1231 events
-- 2026: 50 events
+- 2026: 167 events

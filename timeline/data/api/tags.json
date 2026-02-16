@@ -1,19 +1,19 @@
 [
   {
     "name": "regulatory-capture",
-    "count": 554
+    "count": 573
   },
   {
     "name": "institutional-capture",
-    "count": 393
+    "count": 427
   },
   {
     "name": "corruption",
-    "count": 279
+    "count": 289
   },
   {
     "name": "systematic-corruption",
-    "count": 139
+    "count": 141
   },
   {
     "name": "trump-administration",
@@ -28,12 +28,16 @@
     "count": 131
   },
   {
-    "name": "supreme-court",
-    "count": 122
+    "name": "surveillance",
+    "count": 127
   },
   {
-    "name": "surveillance",
-    "count": 117
+    "name": "supreme-court",
+    "count": 125
+  },
+  {
+    "name": "healthcare",
+    "count": 114
   },
   {
     "name": "crypto",
@@ -41,11 +45,7 @@
   },
   {
     "name": "antitrust",
-    "count": 107
-  },
-  {
-    "name": "healthcare",
-    "count": 106
+    "count": 108
   },
   {
     "name": "foreign-influence",
@@ -57,43 +57,43 @@
   },
   {
     "name": "constitutional-crisis",
-    "count": 94
+    "count": 98
+  },
+  {
+    "name": "civil-rights",
+    "count": 93
+  },
+  {
+    "name": "corporate-power",
+    "count": 90
+  },
+  {
+    "name": "judicial-capture",
+    "count": 89
   },
   {
     "name": "labor-suppression",
     "count": 89
   },
   {
-    "name": "corporate-power",
+    "name": "conflicts-of-interest",
     "count": 89
-  },
-  {
-    "name": "civil-rights",
-    "count": 88
-  },
-  {
-    "name": "judicial-capture",
-    "count": 83
   },
   {
     "name": "conflict-of-interest",
     "count": 83
   },
   {
-    "name": "conflicts-of-interest",
-    "count": 81
+    "name": "accountability",
+    "count": 77
   },
   {
-    "name": "accountability",
-    "count": 75
+    "name": "immigration",
+    "count": 76
   },
   {
     "name": "obstruction-of-justice",
     "count": 72
-  },
-  {
-    "name": "immigration",
-    "count": 71
   },
   {
     "name": "lobbying",
@@ -108,7 +108,15 @@
     "count": 70
   },
   {
+    "name": "authoritarianism",
+    "count": 70
+  },
+  {
     "name": "campaign-finance",
+    "count": 69
+  },
+  {
+    "name": "congressional-oversight",
     "count": 69
   },
   {
@@ -117,15 +125,27 @@
   },
   {
     "name": "executive-power",
-    "count": 66
+    "count": 68
   },
   {
     "name": "public-health",
-    "count": 62
+    "count": 68
+  },
+  {
+    "name": "civil-liberties",
+    "count": 65
   },
   {
     "name": "abuse-of-power",
-    "count": 61
+    "count": 64
+  },
+  {
+    "name": "immigration-enforcement",
+    "count": 64
+  },
+  {
+    "name": "first-amendment",
+    "count": 63
   },
   {
     "name": "conservative-movement",
@@ -136,16 +156,12 @@
     "count": 59
   },
   {
-    "name": "first-amendment",
-    "count": 58
-  },
-  {
-    "name": "authoritarianism",
+    "name": "executive-overreach",
     "count": 56
   },
   {
-    "name": "civil-liberties",
-    "count": 55
+    "name": "deregulation",
+    "count": 56
   },
   {
     "name": "corporate-lobbying",
@@ -156,16 +172,16 @@
     "count": 54
   },
   {
-    "name": "congressional-oversight",
-    "count": 54
-  },
-  {
     "name": "progressive-era",
     "count": 54
   },
   {
-    "name": "immigration-enforcement",
-    "count": 54
+    "name": "foreign-policy",
+    "count": 53
+  },
+  {
+    "name": "rule-of-law",
+    "count": 53
   },
   {
     "name": "war-crimes",
@@ -173,19 +189,11 @@
   },
   {
     "name": "voting-rights",
-    "count": 52
-  },
-  {
-    "name": "deregulation",
-    "count": 52
+    "count": 53
   },
   {
     "name": "russia",
     "count": 50
-  },
-  {
-    "name": "executive-overreach",
-    "count": 49
   },
   {
     "name": "gilded-age",
@@ -208,11 +216,15 @@
     "count": 44
   },
   {
+    "name": "doj-weaponization",
+    "count": 44
+  },
+  {
     "name": "institutional-racism",
     "count": 43
   },
   {
-    "name": "rule-of-law",
+    "name": "voter-suppression",
     "count": 43
   },
   {
@@ -220,8 +232,8 @@
     "count": 43
   },
   {
-    "name": "foreign-policy",
-    "count": 42
+    "name": "ice",
+    "count": 43
   },
   {
     "name": "money-laundering",
@@ -229,6 +241,10 @@
   },
   {
     "name": "national-security",
+    "count": 42
+  },
+  {
+    "name": "project-2025",
     "count": 42
   },
   {
@@ -244,11 +260,11 @@
     "count": 41
   },
   {
-    "name": "voter-suppression",
+    "name": "corporate-accountability",
     "count": 40
   },
   {
-    "name": "corporate-accountability",
+    "name": "constitutional-violation",
     "count": 40
   },
   {
@@ -256,11 +272,7 @@
     "count": 40
   },
   {
-    "name": "project-2025",
-    "count": 40
-  },
-  {
-    "name": "constitutional-violation",
+    "name": "separation-of-powers",
     "count": 38
   },
   {
@@ -280,11 +292,11 @@
     "count": 37
   },
   {
-    "name": "regulatory-failure",
-    "count": 36
+    "name": "financial-capture",
+    "count": 37
   },
   {
-    "name": "separation-of-powers",
+    "name": "regulatory-failure",
     "count": 36
   },
   {
@@ -292,7 +304,15 @@
     "count": 35
   },
   {
+    "name": "press-freedom",
+    "count": 35
+  },
+  {
     "name": "new-deal",
+    "count": 35
+  },
+  {
+    "name": "whistleblower",
     "count": 35
   },
   {
@@ -316,7 +336,11 @@
     "count": 34
   },
   {
-    "name": "whistleblower",
+    "name": "transparency",
+    "count": 34
+  },
+  {
+    "name": "privacy",
     "count": 34
   },
   {
@@ -348,23 +372,11 @@
     "count": 33
   },
   {
-    "name": "privacy",
+    "name": "privatization",
     "count": 33
-  },
-  {
-    "name": "ice",
-    "count": 33
-  },
-  {
-    "name": "press-freedom",
-    "count": 32
   },
   {
     "name": "red-scare",
-    "count": 32
-  },
-  {
-    "name": "privatization",
     "count": 32
   },
   {
@@ -372,15 +384,19 @@
     "count": 32
   },
   {
+    "name": "political-corruption",
+    "count": 31
+  },
+  {
+    "name": "military-industrial-complex",
+    "count": 31
+  },
+  {
     "name": "republican-party",
     "count": 31
   },
   {
-    "name": "financial-capture",
-    "count": 31
-  },
-  {
-    "name": "transparency",
+    "name": "education",
     "count": 31
   },
   {
@@ -392,11 +408,11 @@
     "count": 31
   },
   {
-    "name": "ftc",
+    "name": "political-prosecution",
     "count": 31
   },
   {
-    "name": "doj-weaponization",
+    "name": "ftc",
     "count": 31
   },
   {
@@ -404,15 +420,11 @@
     "count": 30
   },
   {
-    "name": "political-corruption",
-    "count": 30
-  },
-  {
-    "name": "military-industrial-complex",
-    "count": 30
-  },
-  {
     "name": "consumer-protection",
+    "count": 30
+  },
+  {
+    "name": "federal-reserve",
     "count": 30
   },
   {
@@ -428,19 +440,15 @@
     "count": 30
   },
   {
-    "name": "federal-reserve",
-    "count": 29
-  },
-  {
-    "name": "education",
-    "count": 29
-  },
-  {
     "name": "law-enforcement",
     "count": 29
   },
   {
     "name": "heritage-foundation",
+    "count": 29
+  },
+  {
+    "name": "epstein",
     "count": 29
   },
   {
@@ -452,6 +460,14 @@
     "count": 28
   },
   {
+    "name": "human-rights",
+    "count": 28
+  },
+  {
+    "name": "disinformation",
+    "count": 28
+  },
+  {
     "name": "media-manipulation",
     "count": 27
   },
@@ -460,19 +476,15 @@
     "count": 27
   },
   {
-    "name": "human-rights",
-    "count": 27
-  },
-  {
-    "name": "disinformation",
-    "count": 27
-  },
-  {
     "name": "covid-19",
     "count": 27
   },
   {
     "name": "bribery",
+    "count": 26
+  },
+  {
+    "name": "political-persecution",
     "count": 26
   },
   {
@@ -500,15 +512,15 @@
     "count": 25
   },
   {
-    "name": "political-persecution",
-    "count": 25
-  },
-  {
     "name": "accountability-failure",
     "count": 25
   },
   {
     "name": "torture",
+    "count": 25
+  },
+  {
+    "name": "defense-contractors",
     "count": 25
   },
   {
@@ -524,12 +536,16 @@
     "count": 25
   },
   {
-    "name": "political-prosecution",
+    "name": "courts",
     "count": 25
   },
   {
-    "name": "courts",
+    "name": "doge",
     "count": 25
+  },
+  {
+    "name": "trade-policy",
+    "count": 24
   },
   {
     "name": "fbi",
@@ -541,10 +557,6 @@
   },
   {
     "name": "structural-adjustment",
-    "count": 24
-  },
-  {
-    "name": "defense-contractors",
     "count": 24
   },
   {
@@ -572,6 +584,10 @@
     "count": 23
   },
   {
+    "name": "imperialism",
+    "count": 23
+  },
+  {
     "name": "insider-trading",
     "count": 23
   },
@@ -588,12 +604,20 @@
     "count": 23
   },
   {
-    "name": "epstein",
+    "name": "cryptocurrency",
     "count": 23
   },
   {
     "name": "raytheon",
     "count": 23
+  },
+  {
+    "name": "2026-cascade",
+    "count": 23
+  },
+  {
+    "name": "international-law",
+    "count": 22
   },
   {
     "name": "constitutional-law",
@@ -604,11 +628,19 @@
     "count": 22
   },
   {
-    "name": "imperialism",
+    "name": "housing-policy",
     "count": 22
   },
   {
     "name": "sec",
+    "count": 22
+  },
+  {
+    "name": "military",
+    "count": 22
+  },
+  {
+    "name": "surveillance-state",
     "count": 22
   },
   {
@@ -628,15 +660,19 @@
     "count": 22
   },
   {
+    "name": "greenland",
+    "count": 22
+  },
+  {
+    "name": "political-violence",
+    "count": 21
+  },
+  {
     "name": "corporate-resistance",
     "count": 21
   },
   {
     "name": "racial-discrimination",
-    "count": 21
-  },
-  {
-    "name": "housing-policy",
     "count": 21
   },
   {
@@ -649,10 +685,6 @@
   },
   {
     "name": "cold-war",
-    "count": 21
-  },
-  {
-    "name": "surveillance-state",
     "count": 21
   },
   {
@@ -676,11 +708,11 @@
     "count": 21
   },
   {
-    "name": "cryptocurrency",
+    "name": "trump administration",
     "count": 21
   },
   {
-    "name": "trump administration",
+    "name": "tariffs",
     "count": 21
   },
   {
@@ -692,19 +724,15 @@
     "count": 20
   },
   {
-    "name": "political-violence",
-    "count": 20
-  },
-  {
     "name": "labor-organizing",
     "count": 20
   },
   {
-    "name": "corporate-impunity",
+    "name": "impunity",
     "count": 20
   },
   {
-    "name": "trade-policy",
+    "name": "corporate-impunity",
     "count": 20
   },
   {
@@ -713,6 +741,10 @@
   },
   {
     "name": "judicial-independence",
+    "count": 20
+  },
+  {
+    "name": "labor",
     "count": 20
   },
   {
@@ -748,11 +780,11 @@
     "count": 19
   },
   {
-    "name": "impunity",
+    "name": "market-manipulation",
     "count": 19
   },
   {
-    "name": "market-manipulation",
+    "name": "corporate-welfare",
     "count": 19
   },
   {
@@ -777,10 +809,6 @@
   },
   {
     "name": "neoliberalism",
-    "count": 19
-  },
-  {
-    "name": "labor",
     "count": 19
   },
   {
@@ -812,15 +840,15 @@
     "count": 19
   },
   {
+    "name": "iran",
+    "count": 19
+  },
+  {
     "name": "federal-workforce",
     "count": 19
   },
   {
-    "name": "international-law",
-    "count": 18
-  },
-  {
-    "name": "corporate-welfare",
+    "name": "democratic-resistance",
     "count": 18
   },
   {
@@ -829,6 +857,18 @@
   },
   {
     "name": "intelligence-agencies",
+    "count": 18
+  },
+  {
+    "name": "nato",
+    "count": 18
+  },
+  {
+    "name": "pentagon",
+    "count": 18
+  },
+  {
+    "name": "environmental-destruction",
     "count": 18
   },
   {
@@ -844,6 +884,10 @@
     "count": 18
   },
   {
+    "name": "criminal-justice",
+    "count": 18
+  },
+  {
     "name": "systemic-risk",
     "count": 18
   },
@@ -856,10 +900,6 @@
     "count": 18
   },
   {
-    "name": "iran",
-    "count": 18
-  },
-  {
     "name": "accountability crisis",
     "count": 18
   },
@@ -868,8 +908,8 @@
     "count": 18
   },
   {
-    "name": "democratic-resistance",
-    "count": 17
+    "name": "workforce-reduction",
+    "count": 18
   },
   {
     "name": "financial-corruption",
@@ -896,10 +936,6 @@
     "count": 17
   },
   {
-    "name": "military",
-    "count": 17
-  },
-  {
     "name": "fda",
     "count": 17
   },
@@ -908,11 +944,11 @@
     "count": 17
   },
   {
-    "name": "criminal-justice",
+    "name": "market-concentration",
     "count": 17
   },
   {
-    "name": "market-concentration",
+    "name": "fourth-amendment",
     "count": 17
   },
   {
@@ -940,8 +976,16 @@
     "count": 17
   },
   {
-    "name": "tariffs",
+    "name": "national-guard",
     "count": 17
+  },
+  {
+    "name": "operation-metro-surge",
+    "count": 17
+  },
+  {
+    "name": "obstruction",
+    "count": 16
   },
   {
     "name": "emergency-powers",
@@ -956,7 +1000,7 @@
     "count": 16
   },
   {
-    "name": "pentagon",
+    "name": "wealth-extraction",
     "count": 16
   },
   {
@@ -969,6 +1013,10 @@
   },
   {
     "name": "private-prison",
+    "count": 16
+  },
+  {
+    "name": "legislation",
     "count": 16
   },
   {
@@ -992,10 +1040,6 @@
     "count": 16
   },
   {
-    "name": "national-guard",
-    "count": 16
-  },
-  {
     "name": "retaliation",
     "count": 16
   },
@@ -1016,11 +1060,11 @@
     "count": 15
   },
   {
-    "name": "immigration-policy",
+    "name": "whistleblower-retaliation",
     "count": 15
   },
   {
-    "name": "obstruction",
+    "name": "immigration-policy",
     "count": 15
   },
   {
@@ -1029,10 +1073,6 @@
   },
   {
     "name": "intelligence-manipulation",
-    "count": 15
-  },
-  {
-    "name": "wealth-extraction",
     "count": 15
   },
   {
@@ -1048,11 +1088,7 @@
     "count": 15
   },
   {
-    "name": "greenland",
-    "count": 15
-  },
-  {
-    "name": "workforce-reduction",
+    "name": "venezuela",
     "count": 15
   },
   {
@@ -1073,10 +1109,6 @@
   },
   {
     "name": "human-rights-violations",
-    "count": 14
-  },
-  {
-    "name": "environmental-destruction",
     "count": 14
   },
   {
@@ -1144,7 +1176,7 @@
     "count": 14
   },
   {
-    "name": "doge",
+    "name": "government-restructuring",
     "count": 14
   },
   {
@@ -1160,11 +1192,11 @@
     "count": 13
   },
   {
-    "name": "election-manipulation",
+    "name": "financial-fraud",
     "count": 13
   },
   {
-    "name": "whistleblower-retaliation",
+    "name": "election-manipulation",
     "count": 13
   },
   {
@@ -1248,11 +1280,11 @@
     "count": 13
   },
   {
-    "name": "reproductive-rights",
+    "name": "crony-capitalism",
     "count": 13
   },
   {
-    "name": "venezuela",
+    "name": "reproductive-rights",
     "count": 13
   },
   {
@@ -1269,10 +1301,6 @@
   },
   {
     "name": "judicial-corruption",
-    "count": 12
-  },
-  {
-    "name": "financial-fraud",
     "count": 12
   },
   {
@@ -1312,6 +1340,10 @@
     "count": 12
   },
   {
+    "name": "racial-profiling",
+    "count": 12
+  },
+  {
     "name": "nra",
     "count": 12
   },
@@ -1337,10 +1369,6 @@
   },
   {
     "name": "monopolization",
-    "count": 12
-  },
-  {
-    "name": "fourth-amendment",
     "count": 12
   },
   {
@@ -1380,7 +1408,7 @@
     "count": 12
   },
   {
-    "name": "crony-capitalism",
+    "name": "protests",
     "count": 12
   },
   {
@@ -1404,7 +1432,11 @@
     "count": 12
   },
   {
-    "name": "operation-metro-surge",
+    "name": "chicago",
+    "count": 12
+  },
+  {
+    "name": "minneapolis",
     "count": 12
   },
   {
@@ -1460,15 +1492,15 @@
     "count": 11
   },
   {
-    "name": "racial-profiling",
-    "count": 11
-  },
-  {
     "name": "fbi-abuse",
     "count": 11
   },
   {
     "name": "powell-memo-implementation",
+    "count": 11
+  },
+  {
+    "name": "judicial-oversight",
     "count": 11
   },
   {
@@ -1501,6 +1533,10 @@
   },
   {
     "name": "black-sites",
+    "count": 11
+  },
+  {
+    "name": "drug-pricing",
     "count": 11
   },
   {
@@ -1540,10 +1576,6 @@
     "count": 11
   },
   {
-    "name": "protests",
-    "count": 11
-  },
-  {
     "name": "cybersecurity",
     "count": 11
   },
@@ -1572,11 +1604,11 @@
     "count": 11
   },
   {
-    "name": "chicago",
+    "name": "military-operations",
     "count": 11
   },
   {
-    "name": "military-operations",
+    "name": "government-shutdown",
     "count": 11
   },
   {
@@ -1600,10 +1632,6 @@
     "count": 10
   },
   {
-    "name": "nato",
-    "count": 10
-  },
-  {
     "name": "violence",
     "count": 10
   },
@@ -1613,10 +1641,6 @@
   },
   {
     "name": "organizational-profile",
-    "count": 10
-  },
-  {
-    "name": "judicial-oversight",
     "count": 10
   },
   {
@@ -1632,15 +1656,15 @@
     "count": 10
   },
   {
+    "name": "federalist-society",
+    "count": 10
+  },
+  {
     "name": "s&l-crisis",
     "count": 10
   },
   {
     "name": "patent-abuse",
-    "count": 10
-  },
-  {
-    "name": "legislation",
     "count": 10
   },
   {
@@ -1653,6 +1677,10 @@
   },
   {
     "name": "journalism",
+    "count": 10
+  },
+  {
+    "name": "data-privacy",
     "count": 10
   },
   {
@@ -1669,10 +1697,6 @@
   },
   {
     "name": "schedule-f",
-    "count": 10
-  },
-  {
-    "name": "drug-pricing",
     "count": 10
   },
   {
@@ -1728,6 +1752,10 @@
     "count": 10
   },
   {
+    "name": "cronyism",
+    "count": 10
+  },
+  {
     "name": "senate trial",
     "count": 10
   },
@@ -1756,12 +1784,8 @@
     "count": 10
   },
   {
-    "name": "government-shutdown",
-    "count": 10
-  },
-  {
-    "name": "2026-cascade",
-    "count": 10
+    "name": "accountability-evasion",
+    "count": 9
   },
   {
     "name": "indigenous-genocide",
@@ -1777,6 +1801,10 @@
   },
   {
     "name": "monopoly-power",
+    "count": 9
+  },
+  {
+    "name": "domestic-terrorism",
     "count": 9
   },
   {
@@ -1828,10 +1856,6 @@
     "count": 9
   },
   {
-    "name": "federalist-society",
-    "count": 9
-  },
-  {
     "name": "gymnastics",
     "count": 9
   },
@@ -1845,6 +1869,10 @@
   },
   {
     "name": "palantir",
+    "count": 9
+  },
+  {
+    "name": "ethics-violations",
     "count": 9
   },
   {
@@ -1900,10 +1928,6 @@
     "count": 9
   },
   {
-    "name": "cronyism",
-    "count": 9
-  },
-  {
     "name": "election-fraud",
     "count": 9
   },
@@ -1916,6 +1940,10 @@
     "count": 9
   },
   {
+    "name": "denmark",
+    "count": 9
+  },
+  {
     "name": "musk",
     "count": 9
   },
@@ -1924,15 +1952,11 @@
     "count": 9
   },
   {
-    "name": "minneapolis",
-    "count": 9
-  },
-  {
     "name": "federal-legislation",
     "count": 8
   },
   {
-    "name": "accountability-evasion",
+    "name": "states-rights",
     "count": 8
   },
   {
@@ -1945,6 +1969,10 @@
   },
   {
     "name": "federal-intervention",
+    "count": 8
+  },
+  {
+    "name": "economic-coercion",
     "count": 8
   },
   {
@@ -1973,10 +2001,6 @@
   },
   {
     "name": "antisemitism",
-    "count": 8
-  },
-  {
-    "name": "domestic-terrorism",
     "count": 8
   },
   {
@@ -2025,6 +2049,10 @@
   },
   {
     "name": "asylum",
+    "count": 8
+  },
+  {
+    "name": "federalism",
     "count": 8
   },
   {
@@ -2100,6 +2128,10 @@
     "count": 8
   },
   {
+    "name": "election-integrity",
+    "count": 8
+  },
+  {
     "name": "russian-money",
     "count": 8
   },
@@ -2109,10 +2141,6 @@
   },
   {
     "name": "consumer protection",
-    "count": 8
-  },
-  {
-    "name": "ethics-violations",
     "count": 8
   },
   {
@@ -2180,15 +2208,15 @@
     "count": 8
   },
   {
+    "name": "election-denial",
+    "count": 8
+  },
+  {
     "name": "biden-administration",
     "count": 8
   },
   {
     "name": "truth-social",
-    "count": 8
-  },
-  {
-    "name": "denmark",
     "count": 8
   },
   {
@@ -2212,15 +2240,15 @@
     "count": 7
   },
   {
+    "name": "legislative-corruption",
+    "count": 7
+  },
+  {
     "name": "defense-spending",
     "count": 7
   },
   {
     "name": "family-separation",
-    "count": 7
-  },
-  {
-    "name": "states-rights",
     "count": 7
   },
   {
@@ -2348,10 +2376,6 @@
     "count": 7
   },
   {
-    "name": "federalism",
-    "count": 7
-  },
-  {
     "name": "systematic-capture",
     "count": 7
   },
@@ -2365,10 +2389,6 @@
   },
   {
     "name": "trump-connections",
-    "count": 7
-  },
-  {
-    "name": "data-privacy",
     "count": 7
   },
   {
@@ -2388,15 +2408,15 @@
     "count": 7
   },
   {
-    "name": "election-integrity",
-    "count": 7
-  },
-  {
     "name": "gao",
     "count": 7
   },
   {
     "name": "aviation-safety",
+    "count": 7
+  },
+  {
+    "name": "climate-change",
     "count": 7
   },
   {
@@ -2512,10 +2532,6 @@
     "count": 7
   },
   {
-    "name": "election-denial",
-    "count": 7
-  },
-  {
     "name": "insurrection",
     "count": 7
   },
@@ -2548,6 +2564,10 @@
     "count": 7
   },
   {
+    "name": "government-efficiency",
+    "count": 7
+  },
+  {
     "name": "legal-strategy",
     "count": 7
   },
@@ -2556,11 +2576,23 @@
     "count": 7
   },
   {
+    "name": "border-patrol",
+    "count": 7
+  },
+  {
     "name": "appeals-court",
     "count": 7
   },
   {
+    "name": "fed-independence",
+    "count": 7
+  },
+  {
     "name": "epstein-connections",
+    "count": 7
+  },
+  {
+    "name": "executive-action",
     "count": 7
   },
   {
@@ -2569,10 +2601,6 @@
   },
   {
     "name": "constitutional-design",
-    "count": 6
-  },
-  {
-    "name": "legislative-corruption",
     "count": 6
   },
   {
@@ -2668,6 +2696,10 @@
     "count": 6
   },
   {
+    "name": "government-waste",
+    "count": 6
+  },
+  {
     "name": "poverty",
     "count": 6
   },
@@ -2717,6 +2749,10 @@
   },
   {
     "name": "leveraged-buyout",
+    "count": 6
+  },
+  {
+    "name": "minnesota",
     "count": 6
   },
   {
@@ -2856,6 +2892,10 @@
     "count": 6
   },
   {
+    "name": "aca",
+    "count": 6
+  },
+  {
     "name": "tech-resistance",
     "count": 6
   },
@@ -2881,6 +2921,10 @@
   },
   {
     "name": "promesa",
+    "count": 6
+  },
+  {
+    "name": "fossil-fuel-industry",
     "count": 6
   },
   {
@@ -2980,10 +3024,6 @@
     "count": 6
   },
   {
-    "name": "government-efficiency",
-    "count": 6
-  },
-  {
     "name": "tesla",
     "count": 6
   },
@@ -2993,14 +3033,6 @@
   },
   {
     "name": "nuclear",
-    "count": 6
-  },
-  {
-    "name": "border-patrol",
-    "count": 6
-  },
-  {
-    "name": "fed-independence",
     "count": 6
   },
   {
@@ -3077,10 +3109,6 @@
   },
   {
     "name": "corporate-opposition",
-    "count": 5
-  },
-  {
-    "name": "economic-coercion",
     "count": 5
   },
   {
@@ -3168,10 +3196,6 @@
     "count": 5
   },
   {
-    "name": "government-waste",
-    "count": 5
-  },
-  {
     "name": "media-influence",
     "count": 5
   },
@@ -3236,7 +3260,7 @@
     "count": 5
   },
   {
-    "name": "minnesota",
+    "name": "international",
     "count": 5
   },
   {
@@ -3288,6 +3312,10 @@
     "count": 5
   },
   {
+    "name": "state-federal-conflict",
+    "count": 5
+  },
+  {
     "name": "intelligence-politicization",
     "count": 5
   },
@@ -3320,7 +3348,7 @@
     "count": 5
   },
   {
-    "name": "climate-change",
+    "name": "civil-rights-rollback",
     "count": 5
   },
   {
@@ -3385,10 +3413,6 @@
   },
   {
     "name": "legal-accountability",
-    "count": 5
-  },
-  {
-    "name": "aca",
     "count": 5
   },
   {
@@ -3461,10 +3485,6 @@
   },
   {
     "name": "foreign interference",
-    "count": 5
-  },
-  {
-    "name": "fossil-fuel-industry",
     "count": 5
   },
   {
@@ -3648,6 +3668,10 @@
     "count": 5
   },
   {
+    "name": "los-angeles",
+    "count": 5
+  },
+  {
     "name": "ice-enforcement",
     "count": 5
   },
@@ -3689,6 +3713,10 @@
   },
   {
     "name": "transparency-violation",
+    "count": 5
+  },
+  {
+    "name": "scotus",
     "count": 5
   },
   {
@@ -3765,6 +3793,10 @@
   },
   {
     "name": "treaty-violations",
+    "count": 4
+  },
+  {
+    "name": "civil-disobedience",
     "count": 4
   },
   {
@@ -3992,10 +4024,6 @@
     "count": 4
   },
   {
-    "name": "international",
-    "count": 4
-  },
-  {
     "name": "media-ownership",
     "count": 4
   },
@@ -4108,10 +4136,6 @@
     "count": 4
   },
   {
-    "name": "state-federal-conflict",
-    "count": 4
-  },
-  {
     "name": "tia",
     "count": 4
   },
@@ -4177,10 +4201,6 @@
   },
   {
     "name": "voting-rights-act",
-    "count": 4
-  },
-  {
-    "name": "civil-rights-rollback",
     "count": 4
   },
   {
@@ -4396,6 +4416,10 @@
     "count": 4
   },
   {
+    "name": "hatch-act",
+    "count": 4
+  },
+  {
     "name": "national-security-risk",
     "count": 4
   },
@@ -4536,6 +4560,10 @@
     "count": 4
   },
   {
+    "name": "victim-rights",
+    "count": 4
+  },
+  {
     "name": "international-conflict",
     "count": 4
   },
@@ -4596,10 +4624,6 @@
     "count": 4
   },
   {
-    "name": "government-restructuring",
-    "count": 4
-  },
-  {
     "name": "pro-bono-support",
     "count": 4
   },
@@ -4652,15 +4676,15 @@
     "count": 4
   },
   {
-    "name": "los-angeles",
-    "count": 4
-  },
-  {
     "name": "domestic-deployment",
     "count": 4
   },
   {
     "name": "media-intimidation",
+    "count": 4
+  },
+  {
+    "name": "insurrection-act",
     "count": 4
   },
   {
@@ -4673,6 +4697,10 @@
   },
   {
     "name": "foreign-policy-corruption",
+    "count": 4
+  },
+  {
+    "name": "scientific-integrity",
     "count": 4
   },
   {
@@ -4784,7 +4812,7 @@
     "count": 3
   },
   {
-    "name": "civil-disobedience",
+    "name": "reconstruction",
     "count": 3
   },
   {
@@ -4972,6 +5000,10 @@
     "count": 3
   },
   {
+    "name": "selective-enforcement",
+    "count": 3
+  },
+  {
     "name": "urban-policy",
     "count": 3
   },
@@ -5148,11 +5180,11 @@
     "count": 3
   },
   {
-    "name": "think-tank-funding",
+    "name": "leonard-leo",
     "count": 3
   },
   {
-    "name": "leonard-leo",
+    "name": "think-tank-funding",
     "count": 3
   },
   {
@@ -5588,10 +5620,6 @@
     "count": 3
   },
   {
-    "name": "hatch-act",
-    "count": 3
-  },
-  {
     "name": "emoluments-violations",
     "count": 3
   },
@@ -5872,6 +5900,10 @@
     "count": 3
   },
   {
+    "name": "personnel",
+    "count": 3
+  },
+  {
     "name": "government-transformation",
     "count": 3
   },
@@ -5889,6 +5921,10 @@
   },
   {
     "name": "algorithms",
+    "count": 3
+  },
+  {
+    "name": "lgbtq-rights",
     "count": 3
   },
   {
@@ -5936,7 +5972,15 @@
     "count": 3
   },
   {
+    "name": "standing",
+    "count": 3
+  },
+  {
     "name": "election-board",
+    "count": 3
+  },
+  {
+    "name": "laura-loomer",
     "count": 3
   },
   {
@@ -6009,6 +6053,10 @@
   },
   {
     "name": "federal-employment",
+    "count": 3
+  },
+  {
+    "name": "national-security-pretext",
     "count": 3
   },
   {
@@ -6088,10 +6136,6 @@
     "count": 3
   },
   {
-    "name": "laura-loomer",
-    "count": 3
-  },
-  {
     "name": "mike-johnson",
     "count": 3
   },
@@ -6124,19 +6168,15 @@
     "count": 3
   },
   {
-    "name": "scientific-integrity",
-    "count": 3
-  },
-  {
     "name": "congressional-procedure",
     "count": 3
   },
   {
-    "name": "first-amendment-violations",
+    "name": "obstruction-of-oversight",
     "count": 3
   },
   {
-    "name": "obstruction-of-oversight",
+    "name": "first-amendment-violations",
     "count": 3
   },
   {
@@ -6177,6 +6217,10 @@
   },
   {
     "name": "judicial-appointments",
+    "count": 3
+  },
+  {
+    "name": "appointments-clause",
     "count": 3
   },
   {
@@ -6224,7 +6268,15 @@
     "count": 3
   },
   {
+    "name": "federal-courts",
+    "count": 3
+  },
+  {
     "name": "kristi noem",
+    "count": 3
+  },
+  {
+    "name": "renee-good",
     "count": 3
   },
   {
@@ -6336,6 +6388,10 @@
     "count": 2
   },
   {
+    "name": "general-strike",
+    "count": 2
+  },
+  {
     "name": "panic-1837",
     "count": 2
   },
@@ -6397,10 +6453,6 @@
   },
   {
     "name": "legal-system-weaponization",
-    "count": 2
-  },
-  {
-    "name": "reconstruction",
     "count": 2
   },
   {
@@ -6621,6 +6673,10 @@
   },
   {
     "name": "economic-strategy",
+    "count": 2
+  },
+  {
+    "name": "industrial-policy",
     "count": 2
   },
   {
@@ -6917,10 +6973,6 @@
   },
   {
     "name": "economic-abandonment",
-    "count": 2
-  },
-  {
-    "name": "selective-enforcement",
     "count": 2
   },
   {
@@ -7380,6 +7432,10 @@
     "count": 2
   },
   {
+    "name": "solidarity",
+    "count": 2
+  },
+  {
     "name": "south-korea",
     "count": 2
   },
@@ -7660,6 +7716,10 @@
     "count": 2
   },
   {
+    "name": "congressional-intimidation",
+    "count": 2
+  },
+  {
     "name": "separation-of-powers-violation",
     "count": 2
   },
@@ -7873,6 +7933,10 @@
   },
   {
     "name": "fisa-court",
+    "count": 2
+  },
+  {
+    "name": "massacre",
     "count": 2
   },
   {
@@ -8928,10 +8992,6 @@
     "count": 2
   },
   {
-    "name": "victim-rights",
-    "count": 2
-  },
-  {
     "name": "lauren-chen",
     "count": 2
   },
@@ -8941,10 +9001,6 @@
   },
   {
     "name": "new-hampshire",
-    "count": 2
-  },
-  {
-    "name": "personnel",
     "count": 2
   },
   {
@@ -9040,7 +9096,7 @@
     "count": 2
   },
   {
-    "name": "lgbtq-rights",
+    "name": "election-law",
     "count": 2
   },
   {
@@ -9057,6 +9113,10 @@
   },
   {
     "name": "influencer-payments",
+    "count": 2
+  },
+  {
+    "name": "gaza",
     "count": 2
   },
   {
@@ -9129,10 +9189,6 @@
   },
   {
     "name": "technology-regulation",
-    "count": 2
-  },
-  {
-    "name": "standing",
     "count": 2
   },
   {
@@ -9356,6 +9412,10 @@
     "count": 2
   },
   {
+    "name": "corruption-enabling",
+    "count": 2
+  },
+  {
     "name": "technological-infrastructure",
     "count": 2
   },
@@ -9457,10 +9517,6 @@
   },
   {
     "name": "far-right",
-    "count": 2
-  },
-  {
-    "name": "national-security-pretext",
     "count": 2
   },
   {
@@ -9700,7 +9756,7 @@
     "count": 2
   },
   {
-    "name": "insurrection-act",
+    "name": "civil-resistance",
     "count": 2
   },
   {
@@ -9764,6 +9820,10 @@
     "count": 2
   },
   {
+    "name": "judicial-deference",
+    "count": 2
+  },
+  {
     "name": "mtg",
     "count": 2
   },
@@ -9824,6 +9884,10 @@
     "count": 2
   },
   {
+    "name": "israel-palestine",
+    "count": 2
+  },
+  {
     "name": "fbi-weaponization",
     "count": 2
   },
@@ -9857,6 +9921,10 @@
   },
   {
     "name": "international-law-violations",
+    "count": 2
+  },
+  {
+    "name": "federal-reserve-independence",
     "count": 2
   },
   {
@@ -9924,7 +9992,11 @@
     "count": 2
   },
   {
-    "name": "appointments-clause",
+    "name": "portland",
+    "count": 2
+  },
+  {
+    "name": "judicial-defiance",
     "count": 2
   },
   {
@@ -9961,6 +10033,10 @@
   },
   {
     "name": "proclamations",
+    "count": 2
+  },
+  {
+    "name": "homelessness",
     "count": 2
   },
   {
@@ -10028,11 +10104,35 @@
     "count": 2
   },
   {
+    "name": "judicial-resistance",
+    "count": 2
+  },
+  {
+    "name": "christian-nationalism",
+    "count": 2
+  },
+  {
+    "name": "voter-data",
+    "count": 2
+  },
+  {
+    "name": "protest",
+    "count": 2
+  },
+  {
     "name": "sovereignty",
     "count": 2
   },
   {
-    "name": "renee-good",
+    "name": "legal-observer",
+    "count": 2
+  },
+  {
+    "name": "warrant",
+    "count": 2
+  },
+  {
+    "name": "administrative-incompetence",
     "count": 2
   },
   {
@@ -10337,10 +10437,6 @@
   },
   {
     "name": "ten-hour-day",
-    "count": 1
-  },
-  {
-    "name": "general-strike",
     "count": 1
   },
   {
@@ -11077,10 +11173,6 @@
   },
   {
     "name": "disclosure-requirements",
-    "count": 1
-  },
-  {
-    "name": "industrial-policy",
     "count": 1
   },
   {
@@ -13028,19 +13120,19 @@
     "count": 1
   },
   {
-    "name": "scientific-disinformation",
-    "count": 1
-  },
-  {
-    "name": "fred-singer",
-    "count": 1
-  },
-  {
     "name": "judicial-selection",
     "count": 1
   },
   {
     "name": "constitutional-originalism",
+    "count": 1
+  },
+  {
+    "name": "scientific-disinformation",
+    "count": 1
+  },
+  {
+    "name": "fred-singer",
     "count": 1
   },
   {
@@ -13425,10 +13517,6 @@
   },
   {
     "name": "labor-victory",
-    "count": 1
-  },
-  {
-    "name": "solidarity",
     "count": 1
   },
   {
@@ -14320,10 +14408,6 @@
     "count": 1
   },
   {
-    "name": "congressional-intimidation",
-    "count": 1
-  },
-  {
     "name": "media-infrastructure-coordination",
     "count": 1
   },
@@ -14584,10 +14668,6 @@
     "count": 1
   },
   {
-    "name": "halliburton",
-    "count": 1
-  },
-  {
     "name": "crisis-accelerated-corporate-integration",
     "count": 1
   },
@@ -14601,6 +14681,10 @@
   },
   {
     "name": "whig-template-expansion",
+    "count": 1
+  },
+  {
+    "name": "halliburton",
     "count": 1
   },
   {
@@ -15193,10 +15277,6 @@
   },
   {
     "name": "government-power-privatization",
-    "count": 1
-  },
-  {
-    "name": "massacre",
     "count": 1
   },
   {
@@ -17824,10 +17904,6 @@
     "count": 1
   },
   {
-    "name": "legal settlement",
-    "count": 1
-  },
-  {
     "name": "michael flynn",
     "count": 1
   },
@@ -17841,6 +17917,10 @@
   },
   {
     "name": "court order",
+    "count": 1
+  },
+  {
+    "name": "legal settlement",
     "count": 1
   },
   {
@@ -19860,10 +19940,6 @@
     "count": 1
   },
   {
-    "name": "election-law",
-    "count": 1
-  },
-  {
     "name": "checks-and-balances",
     "count": 1
   },
@@ -19980,10 +20056,6 @@
     "count": 1
   },
   {
-    "name": "gaza",
-    "count": 1
-  },
-  {
     "name": "palestine",
     "count": 1
   },
@@ -20096,19 +20168,19 @@
     "count": 1
   },
   {
-    "name": "whistleblower-deaths",
-    "count": 1
-  },
-  {
-    "name": "summary",
-    "count": 1
-  },
-  {
     "name": "manufacturing-defect",
     "count": 1
   },
   {
     "name": "ntsb",
+    "count": 1
+  },
+  {
+    "name": "whistleblower-deaths",
+    "count": 1
+  },
+  {
+    "name": "summary",
     "count": 1
   },
   {
@@ -21000,6 +21072,18 @@
     "count": 1
   },
   {
+    "name": "h1b-visa-debate",
+    "count": 1
+  },
+  {
+    "name": "musk-bannon-feud",
+    "count": 1
+  },
+  {
+    "name": "tech-vs-populist",
+    "count": 1
+  },
+  {
     "name": "legal victory",
     "count": 1
   },
@@ -21584,10 +21668,6 @@
     "count": 1
   },
   {
-    "name": "corruption-enabling",
-    "count": 1
-  },
-  {
     "name": "blueprint-implementation",
     "count": 1
   },
@@ -22012,6 +22092,10 @@
     "count": 1
   },
   {
+    "name": "federal-procurement",
+    "count": 1
+  },
+  {
     "name": "election-financing",
     "count": 1
   },
@@ -22025,10 +22109,6 @@
   },
   {
     "name": "executive-branch",
-    "count": 1
-  },
-  {
-    "name": "federal-procurement",
     "count": 1
   },
   {
@@ -22172,6 +22252,10 @@
     "count": 1
   },
   {
+    "name": "federal-grants",
+    "count": 1
+  },
+  {
     "name": "health-safety",
     "count": 1
   },
@@ -22189,10 +22273,6 @@
   },
   {
     "name": "musk-putin",
-    "count": 1
-  },
-  {
-    "name": "federal-grants",
     "count": 1
   },
   {
@@ -22320,11 +22400,11 @@
     "count": 1
   },
   {
-    "name": "corporate-appeasement",
+    "name": "doj-reform",
     "count": 1
   },
   {
-    "name": "doj-reform",
+    "name": "corporate-appeasement",
     "count": 1
   },
   {
@@ -22892,10 +22972,6 @@
     "count": 1
   },
   {
-    "name": "civil-resistance",
-    "count": 1
-  },
-  {
     "name": "popular-opposition",
     "count": 1
   },
@@ -23192,11 +23268,11 @@
     "count": 1
   },
   {
-    "name": "ai-technology",
+    "name": "doj-purge",
     "count": 1
   },
   {
-    "name": "doj-purge",
+    "name": "ai-technology",
     "count": 1
   },
   {
@@ -23276,10 +23352,6 @@
     "count": 1
   },
   {
-    "name": "judicial-deference",
-    "count": 1
-  },
-  {
     "name": "fcc-approval",
     "count": 1
   },
@@ -23344,15 +23416,15 @@
     "count": 1
   },
   {
-    "name": "stock-trading-ban",
-    "count": 1
-  },
-  {
     "name": "ai-transparency",
     "count": 1
   },
   {
     "name": "judicial-technology",
+    "count": 1
+  },
+  {
+    "name": "stock-trading-ban",
     "count": 1
   },
   {
@@ -23636,10 +23708,6 @@
     "count": 1
   },
   {
-    "name": "israel-palestine",
-    "count": 1
-  },
-  {
     "name": "accountability-obstruction",
     "count": 1
   },
@@ -23792,10 +23860,6 @@
     "count": 1
   },
   {
-    "name": "federal-reserve-independence",
-    "count": 1
-  },
-  {
     "name": "consumer-protection-rollback",
     "count": 1
   },
@@ -23840,15 +23904,15 @@
     "count": 1
   },
   {
-    "name": "performative-governance",
-    "count": 1
-  },
-  {
     "name": "fossil-fuel-subsidies",
     "count": 1
   },
   {
     "name": "climate-corruption",
+    "count": 1
+  },
+  {
+    "name": "performative-governance",
     "count": 1
   },
   {
@@ -24068,6 +24132,14 @@
     "count": 1
   },
   {
+    "name": "nspm-7",
+    "count": 1
+  },
+  {
+    "name": "dissent-criminalization",
+    "count": 1
+  },
+  {
     "name": "self-driving",
     "count": 1
   },
@@ -24244,10 +24316,6 @@
     "count": 1
   },
   {
-    "name": "portland",
-    "count": 1
-  },
-  {
     "name": "negligence",
     "count": 1
   },
@@ -24273,10 +24341,6 @@
   },
   {
     "name": "cognitive decline",
-    "count": 1
-  },
-  {
-    "name": "judicial-defiance",
     "count": 1
   },
   {
@@ -24349,10 +24413,6 @@
   },
   {
     "name": "military-bases",
-    "count": 1
-  },
-  {
-    "name": "test",
     "count": 1
   },
   {
@@ -24508,10 +24568,6 @@
     "count": 1
   },
   {
-    "name": "homelessness",
-    "count": 1
-  },
-  {
     "name": "government",
     "count": 1
   },
@@ -24528,19 +24584,19 @@
     "count": 1
   },
   {
-    "name": "trump-cover-up",
-    "count": 1
-  },
-  {
-    "name": "documentary-evidence",
-    "count": 1
-  },
-  {
     "name": "house-oversight",
     "count": 1
   },
   {
     "name": "partisan-politics",
+    "count": 1
+  },
+  {
+    "name": "trump-cover-up",
+    "count": 1
+  },
+  {
+    "name": "documentary-evidence",
     "count": 1
   },
   {
@@ -25100,10 +25156,6 @@
     "count": 1
   },
   {
-    "name": "federal-courts",
-    "count": 1
-  },
-  {
     "name": "npr",
     "count": 1
   },
@@ -25217,10 +25269,6 @@
   },
   {
     "name": "regulatory-agencies",
-    "count": 1
-  },
-  {
-    "name": "executive-action",
     "count": 1
   },
   {
@@ -25512,10 +25560,6 @@
     "count": 1
   },
   {
-    "name": "judicial-resistance",
-    "count": 1
-  },
-  {
     "name": "drone-strike",
     "count": 1
   },
@@ -25528,27 +25572,11 @@
     "count": 1
   },
   {
-    "name": "h1b-visa-debate",
-    "count": 1
-  },
-  {
-    "name": "musk-bannon-feud",
-    "count": 1
-  },
-  {
-    "name": "tech-vs-populist",
-    "count": 1
-  },
-  {
     "name": "interest-rates",
     "count": 1
   },
   {
     "name": "nigeria",
-    "count": 1
-  },
-  {
-    "name": "christian-nationalism",
     "count": 1
   },
   {
@@ -25608,10 +25636,6 @@
     "count": 1
   },
   {
-    "name": "voter-data",
-    "count": 1
-  },
-  {
     "name": "same-day-registration",
     "count": 1
   },
@@ -25621,6 +25645,14 @@
   },
   {
     "name": "redaction-deadline",
+    "count": 1
+  },
+  {
+    "name": "invasion",
+    "count": 1
+  },
+  {
+    "name": "anti-war",
     "count": 1
   },
   {
@@ -25645,10 +25677,6 @@
   },
   {
     "name": "ice-shooting",
-    "count": 1
-  },
-  {
-    "name": "legal-observer",
     "count": 1
   },
   {
@@ -25757,6 +25785,90 @@
   },
   {
     "name": "noem",
+    "count": 1
+  },
+  {
+    "name": "empty-promise",
+    "count": 1
+  },
+  {
+    "name": "court-violation",
+    "count": 1
+  },
+  {
+    "name": "board-of-peace",
+    "count": 1
+  },
+  {
+    "name": "water-pollution",
+    "count": 1
+  },
+  {
+    "name": "womens-march",
+    "count": 1
+  },
+  {
+    "name": "national-mobilization",
+    "count": 1
+  },
+  {
+    "name": "regulatory-intervention",
+    "count": 1
+  },
+  {
+    "name": "trump-v-cook",
+    "count": 1
+  },
+  {
+    "name": "davos",
+    "count": 1
+  },
+  {
+    "name": "ice-resistance",
+    "count": 1
+  },
+  {
+    "name": "privacy-act",
+    "count": 1
+  },
+  {
+    "name": "ice-violence",
+    "count": 1
+  },
+  {
+    "name": "police-killing",
+    "count": 1
+  },
+  {
+    "name": "misappropriation",
+    "count": 1
+  },
+  {
+    "name": "institutional-duplication",
+    "count": 1
+  },
+  {
+    "name": "religious-nationalism",
+    "count": 1
+  },
+  {
+    "name": "legislative-process",
+    "count": 1
+  },
+  {
+    "name": "arms-exports",
+    "count": 1
+  },
+  {
+    "name": "arctic",
+    "count": 1
+  },
+  {
+    "name": "grand-jury-resistance",
+    "count": 1
+  },
+  {
+    "name": "technical-expertise",
     "count": 1
   }
 ]
