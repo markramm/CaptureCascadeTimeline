@@ -39,8 +39,8 @@ sources:
   url: https://www.axios.com/2025/07/17/trump-epstein-hoax-truth-social-base
 status: confirmed
 capture_lanes:
-- institutional-dismantling
-- public-health
+- Federal Workforce Capture
+- Regulatory Capture
 ---
 
 

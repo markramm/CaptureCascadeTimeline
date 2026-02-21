@@ -36,13 +36,10 @@ tags:
 - pentagon-manipulation
 capture_lanes:
 - Intelligence Penetration
-- Propaganda Infrastructure
-- Administrative State Capture
+- Federal Workforce Capture
 location: Washington, D.C., United States
 category: intelligence-fabrication
-validation_notes: Comprehensive verification of OSP intelligence fabrication from
-  multiple sources, including declassified Pentagon inspector general report. Enhanced
-  summary to reflect systematic intelligence manipulation.
+validation_notes: Comprehensive verification of OSP intelligence fabrication from multiple sources, including declassified Pentagon inspector general report. Enhanced summary to reflect systematic intelligence manipulation.
 ---
 
 The Office of Special Plans (OSP), under Douglas Feith's leadership, systematically fabricated intelligence reports claiming non-existent operational connections between Iraq and Al-Qaeda. These fabricated assessments, contradicting CIA and FBI intelligence, were intentionally distributed to the White House Iraq Group (WHIG) to manipulate public and political support for the Iraq War. A 2007 Pentagon Inspector General report later confirmed these assessments were 'inappropriate' and inconsistent with established intelligence community consensus, revealing a deliberate strategy of intelligence manipulation to justify military intervention.

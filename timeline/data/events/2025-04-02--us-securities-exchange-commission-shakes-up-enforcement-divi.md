@@ -2,9 +2,7 @@
 id: 2025-04-02--us-securities-exchange-commission-shakes-up-enforcement-divi
 date: '2025-04-02'
 title: SEC Restructures Enforcement Division Under Trump Administration
-description: The SEC undergoes a significant restructuring of its enforcement and
-  examination divisions, consolidating regional offices and reducing senior leadership
-  positions, with potential long-term implications for regulatory oversight
+description: The SEC undergoes a significant restructuring of its enforcement and examination divisions, consolidating regional offices and reducing senior leadership positions, with potential long-term implications for regulatory oversight
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -41,11 +39,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - institutional-transformation
-notes: Comprehensive restructuring of SEC enforcement with potential long-term implications
-  for regulatory oversight
+notes: Comprehensive restructuring of SEC enforcement with potential long-term implications for regulatory oversight
 capture_lanes:
 - Regulatory Capture
-- Institutional Reorganization
+- Federal Workforce Capture
 ---
 
 The SEC restructures its enforcement and examination divisions under the Trump administration, consolidating regional offices from 10 to 4, reducing senior leadership positions, and implementing a more focused approach to regulatory enforcement

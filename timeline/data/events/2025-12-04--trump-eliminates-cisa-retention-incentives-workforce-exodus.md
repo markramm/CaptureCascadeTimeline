@@ -62,9 +62,7 @@ sources:
   tier: 1
 notes: The retention incentive elimination was announced December 3-4, 2025. By this point, CISA had already lost approximately 1,000 employees (33% of workforce) since Trump took office through buyouts, early retirements, and layoffs including the February 2025 "Valentine's Day Massacre." The Cyber Retention Incentive (CRI) program covered nearly half of CISA employees, providing 10-25% salary supplements to compete with private sector. DHS Inspector General found CISA distributed over $138 million in retention incentives between FY2020-2024. Program elimination came as pro-Russia hacktivist groups actively targeted U.S. critical infrastructure (water, energy, food/agriculture sectors) per CISA advisory issued five days later on December 9, 2025.
 capture_lanes:
-- Government Collapse
-- Infrastructure Vulnerability
-- National Security Sabotage
+- Federal Workforce Capture
 ---
 
 The Trump administration eliminated CISA's Cyber Retention Incentive (CRI) program on December 4, 2025, dealing a devastating blow to the nation's primary civilian cybersecurity agency already reeling from massive workforce losses. The decision terminated retention payments providing 10-25% salary supplements to nearly half of CISA's employees—payments specifically designed to prevent cybersecurity experts from leaving government for higher-paying private sector positions. The elimination came as CISA had already lost approximately 1,000 employees since Trump took office in January 2025, representing one-third of the agency's total workforce of roughly 3,300 employees.

@@ -40,8 +40,7 @@ capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
 - Financial Capture
-- Institutional Penetration
-- Healthcare Policy Manipulation
+- Federal Workforce Capture
 capture_type: personnel_rewiring
 patterns:
 - revolving-door-phenomenon

@@ -9,12 +9,12 @@ actors:
 - National Security Agency
 - U.S. Congress
 sources:
-- title: 'The Truth About Tonkin'
+- title: The Truth About Tonkin
   author: Naval History Magazine
   outlet: U.S. Naval Institute
   url: https://www.usni.org/magazines/naval-history-magazine/2008/february/truth-about-tonkin
   year: 2008
-- title: 'Gulf of Tonkin'
+- title: Gulf of Tonkin
   outlet: National Security Agency
   url: https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Gulf-of-Tonkin/
   year: 2005
@@ -22,7 +22,7 @@ sources:
   outlet: Historic Mysteries
   url: https://www.historicmysteries.net/p/the-gulf-of-tonkin-incident-the-false
   year: 2024
-- title: 'LBJ Tapes on the Gulf of Tonkin Incident'
+- title: LBJ Tapes on the Gulf of Tonkin Incident
   outlet: National Security Archive
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB132/tapes.htm
   year: 2005
@@ -34,8 +34,8 @@ tags:
 - intelligence-manipulation
 capture_lanes:
 - Military-Industrial Complex
-- Intelligence Agency Capture
-- Congressional Manipulation
+- Federal Workforce Capture
+- Legislative Capture
 status: confirmed
 ---
 

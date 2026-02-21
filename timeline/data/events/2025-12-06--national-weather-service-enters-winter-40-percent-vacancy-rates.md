@@ -52,8 +52,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Public Safety Infrastructure Collapse
-- Government Efficiency Scam
+- Federal Workforce Capture
 ---
 
 As winter weather begins in December 2025, the National Weather Service faces a severe staffing crisis with approximately 40% of forecast offices experiencing critical vacancy rates above 20%, following the purge of more than 550 meteorologists earlier in the year. Multiple states including Kansas, South Dakota, Wyoming, Iowa, and Maine lack adequate forecasting capacity during severe weather season, with some offices unable to operate 24/7 or conduct standard twice-daily weather balloon launches. The crisis stems directly from Elon Musk's Department of Government Efficiency (DOGE) cuts that eliminated approximately 800 NOAA employees in February 2025, followed by another 1,000 employees who accepted early retirement on May 1, 2025, resulting in the loss of 27,000 years of institutional expertise in a single day.

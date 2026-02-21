@@ -16,8 +16,7 @@ tags:
 - state-department-reform
 capture_lanes:
 - Regulatory Capture
-- Institutional Memory Preservation
-- Bureaucratic Resilience
+- Federal Workforce Capture
 sources:
 - outlet: U.S. Department of State
   title: 'FY 2025 Budget: Diplomatic Engagement and Institutional Preservation'

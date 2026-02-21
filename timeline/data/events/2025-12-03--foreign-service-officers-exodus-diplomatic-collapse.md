@@ -22,7 +22,7 @@ tags:
 - morale-crisis
 capture_type: institutional_destruction
 sources:
-- title: "'A workplace crisis' Nearly all Foreign Service employees report lower morale in union-led survey"
+- title: '''A workplace crisis'' Nearly all Foreign Service employees report lower morale in union-led survey'
   url: https://federalnewsnetwork.com/workforce/2025/12/a-workplace-crisis-nearly-all-foreign-service-employees-report-lower-morale-in-union-led-survey/
   outlet: Federal News Network
   date: '2025-12-03'
@@ -34,7 +34,7 @@ sources:
   url: https://afsa.org/new-report-finds-us-foreign-service-breaking-point-after-historic-loss-capacity
   outlet: American Foreign Service Association
   date: '2025-12-03'
-- title: "'Dangerously low' Morale in the U.S. Foreign Service craters under Trump"
+- title: '''Dangerously low'' Morale in the U.S. Foreign Service craters under Trump'
   url: https://www.axios.com/2025/12/04/trump-foreign-service-low-morale-survey
   outlet: Axios
   date: '2025-12-04'
@@ -60,9 +60,9 @@ patterns:
 - workforce-demoralization
 notes: This represents the most catastrophic collapse of U.S. diplomatic capacity in modern history. A 25% workforce loss in less than one year—combining forced layoffs, resignations in protest, and early retirements—has gutted institutional expertise precisely when global challenges demand experienced diplomacy. The 98% morale decline figure is extraordinary and suggests a workforce in crisis. AFSA's warning that recovery will take "years, if not decades" indicates damage to diplomatic capacity that will long outlast the current administration. The timing—amid Ukraine crisis, Middle East tensions, and China competition—is particularly dangerous.
 capture_lanes:
-- Institutional Destruction
+- Federal Workforce Capture
 - Executive Power Expansion
-- Diplomatic Capacity Collapse
+- Democratic Erosion
 ---
 
 On December 3, 2025, the American Foreign Service Association (AFSA) released a comprehensive report revealing that nearly 25% of the U.S. Foreign Service workforce—approximately 4,250 career diplomats—have left the State Department since January 2025 through resignations, retirements, layoffs, and forced departures.

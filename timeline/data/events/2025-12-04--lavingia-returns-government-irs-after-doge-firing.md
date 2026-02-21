@@ -21,10 +21,8 @@ tags:
 - treasury-department
 - veterans-affairs
 capture_lanes:
-- Agency Capture
-- Whistleblower Retaliation
-- DOGE Infiltration
-- IRS Politicization
+- Federal Workforce Capture
+- Systematic Corruption
 sources:
 - title: Former DOGE Engineer Is Now Back in Government
   url: https://dnyuz.com/2025/12/05/former-doge-engineer-is-now-back-in-government/

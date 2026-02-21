@@ -1,8 +1,7 @@
 ---
 id: 1956-08-28--fbi-cointelpro-program-founding-hoover-domestic-surveillance
 date: '1956-08-28'
-title: FBI Director Hoover Launches COINTELPRO to Target Communist Party and Domestic
-  Dissent
+title: FBI Director Hoover Launches COINTELPRO to Target Communist Party and Domestic Dissent
 importance: 9
 actors:
 - J. Edgar Hoover
@@ -27,15 +26,13 @@ sources:
   date: 2019-10-22
   verified: true
   tier: 2
-- title: 'Church Committee Report - Book III: Supplementary Detailed Staff Reports
-    on Intelligence Activities and the Rights of Americans'
+- title: 'Church Committee Report - Book III: Supplementary Detailed Staff Reports on Intelligence Activities and the Rights of Americans'
   url: https://www.intelligence.senate.gov/sites/default/files/94755_III.pdf
   outlet: U.S. Senate Select Committee to Study Governmental Operations
   date: 1976-04-23
   verified: true
   tier: 1
-- title: 'J. Edgar Hoover and the FBI: A History of Surveillance, Political Control,
-    & COINTELPRO'
+- title: 'J. Edgar Hoover and the FBI: A History of Surveillance, Political Control, & COINTELPRO'
   url: https://historyrise.com/j-edgar-hoover-and-the-fbi/
   outlet: History Rise
   date: 1956-08-28
@@ -54,7 +51,7 @@ sources:
   verified: true
   tier: 3
 capture_lanes:
-- Intelligence Agency Capture
+- Federal Workforce Capture
 - Democratic Erosion
 status: confirmed
 ---

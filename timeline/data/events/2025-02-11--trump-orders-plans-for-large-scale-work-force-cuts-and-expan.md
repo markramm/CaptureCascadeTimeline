@@ -6,20 +6,17 @@ actors:
 capture_lanes:
 - Financial Capture
 - Executive Power Expansion
-- Institutional Reorganization
+- Federal Workforce Capture
 capture_type: monetizing_position
 connections:
 - Project 2025
 - Heritage Foundation workforce reduction strategy
 date: '2025-02-11'
-description: Trump signed an executive order establishing the Department of Government
-  Efficiency (DOGE), led by Elon Musk, to dramatically reduce the federal workforce
-  through strategic layoffs and hiring restrictions.
+description: Trump signed an executive order establishing the Department of Government Efficiency (DOGE), led by Elon Musk, to dramatically reduce the federal workforce through strategic layoffs and hiring restrictions.
 id: 2025-02-11--trump-orders-plans-for-large-scale-work-force-cuts-and-expan
 importance: 8
 location: Washington, D.C.
-notes: Part of systematic effort to transform federal bureaucracy through workforce
-  reduction and centralized hiring control.
+notes: Part of systematic effort to transform federal bureaucracy through workforce reduction and centralized hiring control.
 patterns:
 - kleptocratic-capture
 - institutional-reorganization
@@ -30,13 +27,11 @@ sources:
   url: https://www.govexec.com/workforce/2025/02/trump-orders-agencies-plan-widespread-layoffs-and-attrition-based-hiring/402938/
 - date: '2025-02-11'
   outlet: PBS News
-  title: 'Watch: Trump Makes Appearance with Musk, Signs Executive Order Downsizing
-    Federal Workforce'
+  title: 'Watch: Trump Makes Appearance with Musk, Signs Executive Order Downsizing Federal Workforce'
   url: https://www.pbs.org/newshour/politics/watch-trump-makes-appearance-with-musk-signs-executive-order-downsizing-federal-workforce
 - date: '2025-02-12'
   outlet: Axios
-  title: Trump Orders 'Large-Scale' Cuts to Federal Workforce and Gives DOGE More
-    Power
+  title: Trump Orders 'Large-Scale' Cuts to Federal Workforce and Gives DOGE More Power
   url: https://www.axios.com/2025/02/12/trump-doge-executive-order-musk-federal-staff-cuts
 status: confirmed
 tags:

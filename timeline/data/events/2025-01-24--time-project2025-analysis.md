@@ -25,8 +25,7 @@ sources:
 - title: https://www.cbsnews.com/news/trump-project-2025-first-100-days/
   url: https://www.cbsnews.com/news/trump-project-2025-first-100-days/
 details:
-  executive_actions_alignment: Approximately 65% of early executive actions matched
-    Project 2025 recommendations
+  executive_actions_alignment: Approximately 65% of early executive actions matched Project 2025 recommendations
   key_policy_areas:
   - Diversity, Equity and Inclusion Dismantling
   - Federal Workforce Reclassification via Schedule F
@@ -39,13 +38,11 @@ details:
     role: Project 2025 Author, Returning Budget Director
   - name: Paul Dans
     role: Project 2025 Contributor
-context: Trump publicly distanced himself from Project 2025 during the campaign, but
-  early administration actions reveal extensive implementation of the conservative
-  policy blueprint.
-implications: Demonstrates a coordinated, strategic conservative approach to comprehensive
-  institutional transformation across multiple government sectors, suggesting a pre-planned
-  systematic deconstruction of existing federal infrastructure.
+context: Trump publicly distanced himself from Project 2025 during the campaign, but early administration actions reveal extensive implementation of the conservative policy blueprint.
+implications: Demonstrates a coordinated, strategic conservative approach to comprehensive institutional transformation across multiple government sectors, suggesting a pre-planned systematic deconstruction of existing federal infrastructure.
 status: confirmed
+capture_lanes:
+- Federal Workforce Capture
 ---
 
 Analysis of Trump's first week in office reveals approximately 65% of his executive actions closely align with Project 2025 recommendations, despite previously claiming no association. Key areas of implementation include dismantling DEI programs, reviving Schedule F to reclassify federal employees, restricting transgender rights, and reducing refugee admissions.

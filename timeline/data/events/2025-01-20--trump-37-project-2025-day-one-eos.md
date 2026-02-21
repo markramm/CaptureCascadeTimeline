@@ -1,13 +1,7 @@
 ---
 date: '2025-01-20'
 title: Trump Implements Unprecedented Wave of Project 2025 Executive Orders
-description: In a coordinated effort matching the Heritage Foundation's Project 2025
-  blueprint, President Trump signed 37 executive orders on January 20, 2025, representing
-  a radical restructuring of federal governance. Key actions included withdrawing
-  from international agreements, establishing the Department of Government Efficiency
-  (DOGE), stripping civil service protections via Schedule F reclassification, and
-  systematically dismantling diversity, equity, and inclusion (DEI) programs across
-  federal agencies.
+description: In a coordinated effort matching the Heritage Foundation's Project 2025 blueprint, President Trump signed 37 executive orders on January 20, 2025, representing a radical restructuring of federal governance. Key actions included withdrawing from international agreements, establishing the Department of Government Efficiency (DOGE), stripping civil service protections via Schedule F reclassification, and systematically dismantling diversity, equity, and inclusion (DEI) programs across federal agencies.
 actors:
 - Donald Trump
 - Russell Vought
@@ -44,7 +38,7 @@ capture_lanes:
 - Financial Capture
 - Executive Power Expansion
 - Regulatory Capture
-- Personnel Rewiring
+- Federal Workforce Capture
 connections:
 - Heritage Foundation strategy
 - Authoritarian governance model

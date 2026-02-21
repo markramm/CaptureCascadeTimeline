@@ -1,8 +1,7 @@
 ---
 id: 1971-06-13--pentagon-papers-published-reveals-government-deception-vietnam
 date: '1971-06-13'
-title: Pentagon Papers Published Revealing Systematic Government Deception About Vietnam
-  War
+title: Pentagon Papers Published Revealing Systematic Government Deception About Vietnam War
 importance: 10
 actors:
 - Daniel Ellsberg
@@ -53,9 +52,8 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Government Deception
 - Military-Industrial Complex
-- Intelligence Agency Capture
+- Federal Workforce Capture
 status: confirmed
 ---
 

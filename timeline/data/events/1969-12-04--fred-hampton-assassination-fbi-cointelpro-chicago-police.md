@@ -4,43 +4,43 @@ date: '1969-12-04'
 title: FBI and Chicago Police Assassinate Black Panther Leader Fred Hampton in Pre-Dawn Raid
 importance: 9
 actors:
-  - Fred Hampton
-  - J. Edgar Hoover
-  - FBI
-  - Chicago Police Department
-  - Cook County State's Attorney Edward Hanrahan
-  - William O'Neal
-  - Black Panther Party
+- Fred Hampton
+- J. Edgar Hoover
+- FBI
+- Chicago Police Department
+- Cook County State's Attorney Edward Hanrahan
+- William O'Neal
+- Black Panther Party
 tags:
-  - fbi-abuse
-  - cointelpro
-  - civil-rights
-  - police-brutality
-  - institutional-corruption
-  - assassination
+- fbi-abuse
+- cointelpro
+- civil-rights
+- police-brutality
+- institutional-corruption
+- assassination
 sources:
-  - title: "Fred Hampton"
-    url: "https://kinginstitute.stanford.edu/fred-hampton"
-    outlet: "Martin Luther King Jr. Research and Education Institute"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "The Assassination of Fred Hampton"
-    url: "https://www.jacobinmag.com/2019/12/fred-hampton-black-panther-party-assassination"
-    outlet: "Jacobin Magazine"
-    date: 2019-12-04
-    verified: true
-    tier: 3
-  - title: "FBI Files on COINTELPRO"
-    url: "https://vault.fbi.gov/cointel-pro/cointel-pro-black-extremists"
-    outlet: "FBI Vault"
-    date: 2024-01-01
-    verified: true
-    tier: 1
+- title: Fred Hampton
+  url: https://kinginstitute.stanford.edu/fred-hampton
+  outlet: Martin Luther King Jr. Research and Education Institute
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: The Assassination of Fred Hampton
+  url: https://www.jacobinmag.com/2019/12/fred-hampton-black-panther-party-assassination
+  outlet: Jacobin Magazine
+  date: 2019-12-04
+  verified: true
+  tier: 3
+- title: FBI Files on COINTELPRO
+  url: https://vault.fbi.gov/cointel-pro/cointel-pro-black-extremists
+  outlet: FBI Vault
+  date: 2024-01-01
+  verified: true
+  tier: 1
 capture_lanes:
-  - Intelligence Agency Capture
-  - Law Enforcement Capture
-  - Democratic Erosion
+- Federal Workforce Capture
+- Civil Rights Suppression
+- Democratic Erosion
 status: confirmed
 ---
 

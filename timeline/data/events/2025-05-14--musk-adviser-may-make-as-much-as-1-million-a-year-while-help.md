@@ -1,13 +1,8 @@
 ---
 id: 2025-05-14--musk-adviser-may-make-as-much-as-1-million-a-year-while-help
 date: '2025-05-14'
-title: Musk adviser may make as much as $1 million a year while helping to dismantle
-  agency that regulates Tesla and X
-description: Chris Young, a political adviser to Elon Musk, was appointed as a special
-  governmental employee in the U.S. Office of Personnel Management and dispatched
-  to work in the CFPB in early February 2025. His dual role involves advising Musk's
-  political spending and working within an agency that regulates Musk's companies,
-  creating a potential ethical and regulatory conflict.
+title: Musk adviser may make as much as $1 million a year while helping to dismantle agency that regulates Tesla and X
+description: Chris Young, a political adviser to Elon Musk, was appointed as a special governmental employee in the U.S. Office of Personnel Management and dispatched to work in the CFPB in early February 2025. His dual role involves advising Musk's political spending and working within an agency that regulates Musk's companies, creating a potential ethical and regulatory conflict.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -24,13 +19,11 @@ tags:
 - department-of-government-efficiency
 capture_type: regulatory_capture
 sources:
-- title: DOGE Aide Chris Young May Get Up to $1M a Year From Elon Musk While Helping
-    to Gut CFPB
+- title: DOGE Aide Chris Young May Get Up to $1M a Year From Elon Musk While Helping to Gut CFPB
   url: https://www.propublica.org/article/doge-elon-musk-chris-young-cfpb-tesla-x
   outlet: ProPublica
   date: '2025-05-14'
-- title: Musk's team takes control of key systems at Consumer Financial Protection
-    Bureau
+- title: Musk's team takes control of key systems at Consumer Financial Protection Bureau
   url: https://www.npr.org/2025/02/07/g-s1-47322/musks-team-takes-control-of-key-systems-at-consumer-financial-protection-bureau
   outlet: NPR
   date: '2025-02-07'
@@ -51,11 +44,10 @@ patterns:
 - kleptocratic-capture
 - regulatory-subversion
 - conflict-of-interest
-notes: Comprehensive documentation tracking regulatory capture mechanisms within the
-  CFPB under the Trump administration's Department of Government Efficiency (DOGE).
+notes: Comprehensive documentation tracking regulatory capture mechanisms within the CFPB under the Trump administration's Department of Government Efficiency (DOGE).
 capture_lanes:
 - Regulatory Capture
-- Government Agency Infiltration
+- Federal Workforce Capture
 ---
 
 DOGE operative Chris Young worked to undermine the CFPB, which has jurisdiction over Tesla and X, while simultaneously earning between $100,001 and $1 million annually as a political adviser to Elon Musk, raising significant conflict of interest concerns

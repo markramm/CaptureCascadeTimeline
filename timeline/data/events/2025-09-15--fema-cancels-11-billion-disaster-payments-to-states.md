@@ -15,8 +15,7 @@ tags:
 - budget-cuts
 - puerto-rico
 capture_lanes:
-- Disaster Response Capture
-- Government Accountability Destruction
+- Federal Workforce Capture
 sources:
 - title: FEMA canceled $11B in disaster payments to states
   url: https://www.eenews.net/articles/fema-canceled-11b-in-disaster-payments-to-states/

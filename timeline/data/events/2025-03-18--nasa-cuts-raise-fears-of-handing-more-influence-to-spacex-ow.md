@@ -2,9 +2,7 @@
 id: 2025-03-18--nasa-cuts-raise-fears-of-handing-more-influence-to-spacex-ow
 date: '2025-03-18'
 title: Trump Administration Eliminates Key NASA Scientific and Policy Offices
-description: Trump administration ordered NASA to eliminate critical policy, science,
-  and diversity offices, affecting 23 employees and potentially reshaping the agency's
-  strategic capabilities
+description: Trump administration ordered NASA to eliminate critical policy, science, and diversity offices, affecting 23 employees and potentially reshaping the agency's strategic capabilities
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -41,7 +39,7 @@ patterns:
 notes: Part of systematic reduction of federal scientific infrastructure
 capture_lanes:
 - Systematic Corruption
-- Federal Workforce Reduction
+- Federal Workforce Capture
 ---
 
 The Trump administration eliminated NASA's Office of Technology, Policy, and Strategy, the Office of the Chief Scientist, and its Diversity office, affecting 23 employees and raising concerns about potential SpaceX influence and reduced climate research capabilities

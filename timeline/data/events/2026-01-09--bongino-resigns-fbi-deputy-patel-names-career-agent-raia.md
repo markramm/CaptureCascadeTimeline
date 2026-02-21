@@ -26,8 +26,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- FBI Restructuring
-- Personnel Changes
+- Federal Workforce Capture
 ---
 
 Dan Bongino resigned as FBI Deputy Director after less than a year on the job, with FBI Director Kash Patel naming career counter-terrorism agent Christopher Raia as his replacement. Bongino, a former Secret Service agent and conservative media personality, gave no public reason for his departure beyond calling it "the honor of a lifetime" to serve alongside Patel.

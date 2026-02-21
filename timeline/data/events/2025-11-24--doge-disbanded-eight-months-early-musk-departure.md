@@ -32,8 +32,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- DOGE
-- Right-Wing Coalition
+- Federal Workforce Capture
+- Democratic Erosion
 ---
 
 The Department of Government Efficiency (DOGE) was quietly disbanded eight months ahead of its scheduled July 2026 end date, following Elon Musk's departure and public feud with President Trump over the "Big Beautiful Bill." Office of Personnel Management Director Scott Kupor confirmed to Reuters that DOGE "doesn't exist" as a centralized entity.

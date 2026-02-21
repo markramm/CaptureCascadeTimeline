@@ -26,8 +26,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- institutional-dismantling
-- veterans-healthcare
+- Federal Workforce Capture
+- Regulatory Capture
 ---
 
 The Department of Veterans Affairs plans to eliminate as many as 35,000 healthcare positions, mostly unfilled jobs including doctors, nurses, and support staff, according to internal memos obtained by the Washington Post. The cuts would reduce VA healthcare workforce to as few as 372,000 employees—a 10% reduction from 2024 levels.

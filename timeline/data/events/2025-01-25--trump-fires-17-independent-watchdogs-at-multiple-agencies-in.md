@@ -2,9 +2,7 @@
 id: 2025-01-25--trump-fires-17-independent-watchdogs-at-multiple-agencies-in
 date: '2025-01-25'
 title: Trump Fires 17 Independent Watchdogs Across Multiple Federal Agencies
-description: Trump fired at least 17 Inspectors General across multiple federal agencies
-  through a coordinated personnel action that sent emails late Friday, terminating
-  their positions effective immediately.
+description: Trump fired at least 17 Inspectors General across multiple federal agencies through a coordinated personnel action that sent emails late Friday, terminating their positions effective immediately.
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -18,8 +16,7 @@ tags:
 - executive-overreach
 capture_lanes:
 - Financial Capture
-- Personnel Rewiring
-- Oversight Destruction
+- Federal Workforce Capture
 capture_type: personnel_rewiring
 sources:
 - title: Trump uses mass firing to remove inspectors general at a series of agencies
@@ -48,8 +45,7 @@ patterns:
 - institutional-capture
 - executive-power-expansion
 - oversight-elimination
-notes: Event documents unprecedented mass dismissal of government oversight personnel,
-  revealing systematic approach to undermining institutional checks.
+notes: Event documents unprecedented mass dismissal of government oversight personnel, revealing systematic approach to undermining institutional checks.
 _merge_note: 'Enhanced with information from duplicate event: 2025-01-25--trump-fires-17-independent-watchdogs-at-multiple-a'
 _merge_timestamp: '2025-09-05T23:46:55.900599'
 ---

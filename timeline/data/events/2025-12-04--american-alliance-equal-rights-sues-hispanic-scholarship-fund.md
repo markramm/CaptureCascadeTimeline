@@ -19,10 +19,8 @@ tags:
 - hispanic-students
 - discrimination-claims
 capture_lanes:
-- DEI Dismantling
-- Civil Rights Rollback
-- Educational Equity Erosion
-- Litigation Warfare
+- Federal Workforce Capture
+- Civil Rights Suppression
 sources:
 - title: American Alliance for Equal Rights Sues Hispanic Scholarship Fund for Excluding Non-Hispanic Students from Flagship Scholarship Program
   url: https://www.prnewswire.com/news-releases/american-alliance-for-equal-rights-sues-hispanic-scholarship-fund-for-excluding-non-hispanic-students-from-flagship-scholarship-program-302632129.html

@@ -7,19 +7,15 @@ actors:
 - Mark Paoletta
 capture_lanes:
 - Regulatory Capture
-- Institutional Disassembly
-- Agency Deconstruction
+- Federal Workforce Capture
 capture_type: regulatory_capture
 connections: []
 date: '2025-06-10'
-description: The acting head of enforcement at the Consumer Financial Protection Bureau
-  (CFPB), Cara Petersen, resigned, denouncing the Trump administration's systematic
-  dismantling of the agency's core regulatory mission.
+description: The acting head of enforcement at the Consumer Financial Protection Bureau (CFPB), Cara Petersen, resigned, denouncing the Trump administration's systematic dismantling of the agency's core regulatory mission.
 id: 2025-06-10--consumer-bureau-official-quits-citing-attack-on-agency-s-mis
 importance: 8
 location: Washington, D.C.
-notes: Detailed documentation of regulatory capture mechanisms in the Trump administration's
-  second term.
+notes: Detailed documentation of regulatory capture mechanisms in the Trump administration's second term.
 patterns:
 - kleptocratic-capture
 - institutional-deconstruction
@@ -34,8 +30,7 @@ sources:
   url: https://www.aljazeera.com/economy/2025/6/10/top-cfpb-enforcement-official-to-resign-amid-policy-shifts-under-trump
 - date: '2025-06-10'
   outlet: U.S. News & World Report
-  title: Top CFPB Enforcement Official to Resign, Citing 'Devastating' Shifts Under
-    Trump
+  title: Top CFPB Enforcement Official to Resign, Citing 'Devastating' Shifts Under Trump
   url: https://www.usnews.com/news/politics/articles/2025-06-10/top-cfpb-enforcement-official-to-resign-citing-devastating-shifts-under-trump
 status: confirmed
 tags:

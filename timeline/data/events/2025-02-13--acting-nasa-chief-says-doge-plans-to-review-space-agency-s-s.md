@@ -2,8 +2,7 @@
 id: 2025-02-13--acting-nasa-chief-says-doge-plans-to-review-space-agency-s-s
 date: '2025-02-13'
 title: Acting NASA Chief Confirms DOGE Audit of Space Agency Spending
-description: Elon Musk's Department of Government Efficiency (DOGE) begins detailed
-  audit of NASA spending, implementing widespread review of contracts and staffing
+description: Elon Musk's Department of Government Efficiency (DOGE) begins detailed audit of NASA spending, implementing widespread review of contracts and staffing
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -37,11 +36,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - conflict-of-interest
-notes: DOGE audit raises significant conflict of interest concerns given Musk's SpaceX
-  contracts
+notes: DOGE audit raises significant conflict of interest concerns given Musk's SpaceX contracts
 capture_lanes:
 - Systematic Corruption
-- Government Efficiency
+- Federal Workforce Capture
 ---
 
 DOGE personnel arrive at NASA to conduct comprehensive spending review, initiating mass personnel evaluation and potential budget cuts

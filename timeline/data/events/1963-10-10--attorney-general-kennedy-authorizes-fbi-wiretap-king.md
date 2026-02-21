@@ -4,39 +4,39 @@ date: '1963-10-10'
 title: Attorney General Robert Kennedy Authorizes FBI Wiretapping of Martin Luther King Jr.
 importance: 9
 actors:
-  - J. Edgar Hoover
-  - Robert F. Kennedy
-  - Martin Luther King Jr.
-  - FBI
-  - Stanley Levison
+- J. Edgar Hoover
+- Robert F. Kennedy
+- Martin Luther King Jr.
+- FBI
+- Stanley Levison
 tags:
-  - surveillance
-  - civil-rights
-  - fbi-abuse
-  - institutional-corruption
-  - democratic-erosion
+- surveillance
+- civil-rights
+- fbi-abuse
+- institutional-corruption
+- democratic-erosion
 sources:
-  - title: "Federal Bureau of Investigation (FBI)"
-    url: "https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi"
-    outlet: "Martin Luther King Jr. Research and Education Institute"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "Kennedy, the FBI and Civil Rights"
-    url: "https://www.archives.gov/publications/prologue/2012/summer/rfk-mlk"
-    outlet: "National Archives"
-    date: 2012-06-01
-    verified: true
-    tier: 1
-  - title: "The FBI and Martin Luther King"
-    url: "https://www.politico.com/magazine/story/2017/01/the-fbi-and-martin-luther-king-214615/"
-    outlet: "Politico Magazine"
-    date: 2017-01-16
-    verified: true
-    tier: 2
+- title: Federal Bureau of Investigation (FBI)
+  url: https://kinginstitute.stanford.edu/federal-bureau-investigation-fbi
+  outlet: Martin Luther King Jr. Research and Education Institute
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: Kennedy, the FBI and Civil Rights
+  url: https://www.archives.gov/publications/prologue/2012/summer/rfk-mlk
+  outlet: National Archives
+  date: 2012-06-01
+  verified: true
+  tier: 1
+- title: The FBI and Martin Luther King
+  url: https://www.politico.com/magazine/story/2017/01/the-fbi-and-martin-luther-king-214615/
+  outlet: Politico Magazine
+  date: 2017-01-16
+  verified: true
+  tier: 2
 capture_lanes:
-  - Intelligence Agency Capture
-  - Democratic Erosion
+- Federal Workforce Capture
+- Democratic Erosion
 status: confirmed
 ---
 
