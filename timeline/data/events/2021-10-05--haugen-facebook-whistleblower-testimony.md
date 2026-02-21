@@ -1,7 +1,7 @@
 ---
 id: 2021-10-05--haugen-facebook-whistleblower-testimony
 date: '2021-10-05'
-title: 'Frances Haugen Senate Testimony Exposes Facebook Algorithmic Harm to Children and Democracy'
+title: Frances Haugen Senate Testimony Exposes Facebook Algorithmic Harm to Children and Democracy
 importance: 10
 actors:
 - Frances Haugen
@@ -21,32 +21,32 @@ tags:
 - children-safety
 - democracy
 sources:
-- title: 'Whistleblower tells Congress Facebook products harm kids and democracy'
+- title: Whistleblower tells Congress Facebook products harm kids and democracy
   url: https://www.npr.org/2021/10/05/1043207218/whistleblower-to-congress-facebook-products-harm-children-and-weaken-democracy
   outlet: NPR
   date: '2021-10-05'
   tier: 1
-- title: '4 takeaways from Facebook whistleblower Frances Haugens testimony'
+- title: 4 takeaways from Facebook whistleblower Frances Haugens testimony
   url: https://www.npr.org/2021/10/05/1043377310/facebook-whistleblower-frances-haugen-congress
   outlet: NPR
   date: '2021-10-05'
   tier: 1
-- title: 'Facebook Whistleblower Frances Haugen Testifies - Full Transcript'
+- title: Facebook Whistleblower Frances Haugen Testifies - Full Transcript
   url: https://www.rev.com/transcripts/facebook-whistleblower-frances-haugen-testifies-on-children-social-media-use-full-senate-hearing-transcript
   outlet: Rev.com
   date: '2021-10-05'
   tier: 2
-- title: 'Frances Haugen says Facebooks algorithms are dangerous'
+- title: Frances Haugen says Facebooks algorithms are dangerous
   url: https://www.technologyreview.com/2021/10/05/1036519/facebook-whistleblower-frances-haugen-algorithms/
   outlet: MIT Technology Review
   date: '2021-10-05'
   tier: 1
 status: confirmed
 capture_lanes:
-- Whistleblower Accountability
-- Congressional Oversight
-- Algorithm Transparency
-- Corporate Malfeasance Exposure
+- Systematic Corruption
+- Legislative Capture
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 Former Facebook product manager Frances Haugen testifies before the U.S. Senate that Facebook's products harm children, stoke division, and weaken democracy, backed by tens of thousands of internal company documents showing Facebook executives knew about Instagram's severe mental health impacts on teens but prioritized profit over safety. The testimony catalyzes global regulatory momentum and exposes Facebook's systematic prioritization of engagement over user wellbeing.

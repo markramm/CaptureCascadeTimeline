@@ -1,8 +1,7 @@
 ---
 id: 2020-08-21--tennessee-felony-camping-law-protest-suppression
 date: 2020-08-21
-title: Tennessee Enacts Felony Camping Law to Suppress Black Lives Matter Protests
-  and Strip Voting Rights
+title: Tennessee Enacts Felony Camping Law to Suppress Black Lives Matter Protests and Strip Voting Rights
 importance: 7
 status: confirmed
 actors:
@@ -20,24 +19,21 @@ tags:
 - authoritarian-tactics
 - black-lives-matter
 capture_lanes:
-- institutional-erosion
-- authoritarian-tactics
+- Systematic Corruption
+- Democratic Erosion
 sources:
 - url: https://time.com/5882735/tennesee-law-protest-voting-rights-felony/
-  title: New Tennessee Law Severely Sharpens Punishments for Some Protesters, Potentially
-    Endangering Their Voting Rights
+  title: New Tennessee Law Severely Sharpens Punishments for Some Protesters, Potentially Endangering Their Voting Rights
   date: 2020-08-25
   tier: 1
   outlet: Time
 - url: https://tennesseelookout.com/2020/08/13/special-session-bill-criminalizes-camping-on-state-property-and-threatens-voter-rights/
-  title: Special session bill criminalizes camping on state property and threatens
-    voter rights
+  title: Special session bill criminalizes camping on state property and threatens voter rights
   date: 2020-08-13
   tier: 2
   outlet: Tennessee Lookout
 - url: https://www.cnn.com/2020/08/22/politics/tennessee-felony-camping-law-right-to-vote/index.html
-  title: New Tennessee law penalizes protesters who camp on state property with felony
-    and loss of voting rights
+  title: New Tennessee law penalizes protesters who camp on state property with felony and loss of voting rights
   date: 2020-08-22
   tier: 1
   outlet: CNN
@@ -65,14 +61,12 @@ sources:
   outlet: NPR
   verified: true
 - url: https://edition.cnn.com/politics/live-news/postmaster-general-dejoy-senate-testimony/h_105ed639f3a7c5e02715c1d67eaa66a5
-  title: 'Democratic senator to DeJoy: You owe Americans "an apology for the harm
-    you have caused"'
+  title: 'Democratic senator to DeJoy: You owe Americans "an apology for the harm you have caused"'
   date: 2020-08-21
   tier: 1
   outlet: CNN
   verified: true
-- title: 'Donald Trump Speech Transcript August 21: 2020 Council for National Policy
-    Meeting'
+- title: 'Donald Trump Speech Transcript August 21: 2020 Council for National Policy Meeting'
   url: https://www.rev.com/transcripts/donald-trump-speech-transcript-august-21-2020-council-for-national-policy-meeting
   publication: Rev
   date: '2020-08-21'

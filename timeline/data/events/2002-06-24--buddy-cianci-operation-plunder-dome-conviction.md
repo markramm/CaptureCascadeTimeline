@@ -20,9 +20,7 @@ tags:
 - pay-to-play
 - fbi-investigation
 capture_lanes:
-- Municipal Corruption
-- Criminal Enterprise
-- Institutional Corruption
+- Systematic Corruption
 sources:
 - title: Operation Plunder Dome - Wikipedia
   url: https://en.wikipedia.org/wiki/Operation_Plunder_Dome

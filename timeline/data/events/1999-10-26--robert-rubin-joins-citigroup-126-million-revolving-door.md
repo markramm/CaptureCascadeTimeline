@@ -20,7 +20,7 @@ tags:
 capture_lanes:
 - Financial Capture
 - Regulatory Capture
-- Corruption
+- Systematic Corruption
 location: New York, NY
 sources:
 - title: The Revolving Door, Robert Rubin, and Citigroup

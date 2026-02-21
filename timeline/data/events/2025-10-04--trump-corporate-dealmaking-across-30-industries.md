@@ -20,6 +20,10 @@ tags:
 - state-corporate-fusion
 - crony-capitalism
 - institutional-capture
+capture_lanes:
+- Systematic Corruption
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 Trump administration systematically cut deals across more than 30 industries, trading tariff relief and federal financing for corporate concessions in a pattern resembling state-driven capitalism. Companies including Pfizer, Eli Lilly, and AstraZeneca faced pressure on production location and drug pricing, with White House announcements staged for political effect before the 2026 midterms. This represents the fusion of state power and corporate decision-making, with the federal government picking winners and losers based on political loyalty rather than market principles. The dealmaking mirrors Russian-style state-corporate fusion models where government authority becomes a lever for extracting political and economic benefits from private enterprises.

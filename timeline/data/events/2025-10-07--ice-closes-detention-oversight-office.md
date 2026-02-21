@@ -18,6 +18,8 @@ tags:
 - systematic-corruption
 - immigration-enforcement
 - human-rights-violations
+capture_lanes:
+- Systematic Corruption
 ---
 
 ICE furloughed its entire Office of Detention Oversight despite detention capacity surpassing 100,000 beds, eliminating monitoring of facility conditions while detainee numbers reach historic highs. The shutdown of oversight occurred simultaneously with the largest expansion of immigration detention infrastructure, creating a deliberate accountability vacuum. This systematic elimination of oversight mechanisms while expanding detention operations demonstrates intentional creation of conditions for abuse, with the administration removing the watchdogs while massively increasing the population subject to unmonitored detention.

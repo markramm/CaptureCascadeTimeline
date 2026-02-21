@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: CBS News
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Regulatory Capture
+- Labor Suppression
 ---
 
 Corinthian Colleges abruptly shut down all 28 of its remaining campuses on April 26, 2015, stranding 16,000 students mid-semester, and filed for Chapter 11 bankruptcy protection on May 4, 2015, after months of federal and state investigations exposed systematic fraud affecting over 72,000 students. The bankruptcy filing demonstrated the two-tiered bankruptcy system created by the 2005 Bankruptcy Act: Corinthian executives used Chapter 11 to shield assets and restructure liabilities, while the students they defrauded remained trapped in non-dischargeable debt.

@@ -19,6 +19,10 @@ tags:
 - cruelty
 - weaponization-of-government
 title: Trump Terminates SNAP Benefits for 42 Million Americans Despite Available Funds
+capture_lanes:
+- Systematic Corruption
+- Electoral Manipulation
+- Financial Capture
 ---
 
 President Trump announced termination of SNAP food assistance benefits for 42 million Americans starting November 1 during the second month of his government shutdown, despite $5 billion in available contingency funds that could maintain the program. The administration's refusal to deploy contingency funding weaponizes hunger as political leverage in Trump's standoff with Congress. Speaker Mike Johnson endorsed the decision to withhold food aid, choosing political loyalty to Trump over preventing widespread food insecurity. The move affects millions of low-income Americans including Trump voters in rural areas who depend on SNAP for basic nutrition. Food banks warned they cannot meet the surge in demand created by the benefit termination. The decision exemplifies Trump's willingness to inflict mass suffering on vulnerable populations to advance his political objectives.

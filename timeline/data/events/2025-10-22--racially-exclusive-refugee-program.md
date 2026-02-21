@@ -20,6 +20,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Civil Rights Suppression
+- Military-Industrial Complex
 ---
 
 The Trump administration capped refugee admissions at 7,500 with nearly all slots reserved for Afrikaners (white South Africans), bypassing UN refugee processes and standard persecution criteria. The fast-tracking of white refugees while excluding people of color from war-torn regions demonstrates ethnonationalist redefinition of who qualifies as a 'legitimate' refugee. State Department officials redesigned refugee admissions to favor a specific racial group based on pro-Afrikaner advocacy rather than humanitarian need or persecution severity. The policy reveals how Trump's immigration enforcement prioritizes racial composition over humanitarian principles, welcoming white refugees while deporting people of color. The racially exclusive approach violates the non-discriminatory intent of refugee protection while advancing white nationalist ideology through official policy.

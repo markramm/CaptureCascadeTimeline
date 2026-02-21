@@ -21,6 +21,9 @@ sources:
   tier: 1
   outlet: The Wall Street Journal
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- International Kleptocracy
 ---
 
 Trump officials negotiated with quantum computing firms (IonQ, Rigetti, D-Wave) to trade federal funding for government ownership stakes, mirroring state control models used by authoritarian regimes. Commerce official Paul Dabbar and Commerce Secretary Howard Lutnick led negotiations to embed executive branch leverage in key technology sectors through equity ownership rather than traditional grants or contracts. The arrangement represents a fundamental shift toward state capitalism where the government becomes a direct investor and owner in private companies, creating conflicts of interest and enabling political control over strategic industries. The equity stake model allows Trump officials to benefit personally from government investments while giving the administration leverage over technology development and deployment. The approach follows China's model of state-directed capitalism rather than free market principles, concentrating economic power in executive hands.

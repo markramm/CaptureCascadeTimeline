@@ -61,7 +61,7 @@ notes: This represents an extraordinary threat to Federal Reserve independence. 
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
-- Institutional Degradation
+- Systematic Corruption
 ---
 
 On December 3, 2025, Treasury Secretary Scott Bessent publicly announced that the Trump administration plans to impose a three-year residency requirement for regional Federal Reserve bank presidents and veto any candidates who fail to meet it—an unprecedented assertion of White House control over appointments to the nation's independent central bank.

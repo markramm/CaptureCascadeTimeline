@@ -19,25 +19,25 @@ tags:
 - procedural-abuse
 capture_lanes:
 - Legislative Capture
-- Corruption
+- Systematic Corruption
 location: Washington, D.C.
 sources:
-- title: 'Phil Gramm'
+- title: Phil Gramm
   url: https://en.wikipedia.org/wiki/Phil_Gramm
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'Enron Loophole'
+- title: Enron Loophole
   url: https://en.wikipedia.org/wiki/Enron_Loophole
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'The Enron Loophole and Oil Futures Trading'
+- title: The Enron Loophole and Oil Futures Trading
   url: https://liberalscumbuster.wordpress.com/2008/08/20/the-enron-loophole-and-oil-futures-trading-and-phil-gramm/
   outlet: Liberal Scum Buster
   date: '2008-08-20'
   tier: 3
-- title: 'Consolidated Appropriations Act for FY2001'
+- title: Consolidated Appropriations Act for FY2001
   url: https://www.congress.gov/bill/106th-congress/house-bill/4577
   outlet: U.S. Congress
   date: '2000-12-21'

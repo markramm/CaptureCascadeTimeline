@@ -21,6 +21,9 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Digital & Tech Capture
 ---
 
 Former Social Security Administration chief data officer Charles Borges revealed that Elon Musk's DOGE operatives uploaded hundreds of millions of Americans' personal data from SSA systems to an unsecured cloud server, creating a massive security breach. Borges resigned after facing retaliation for exposing the unauthorized data transfer, which violated federal security protocols and put sensitive Social Security information at risk of theft or exploitation. The incident demonstrates how Trump's informal advisory structures—operating outside normal government oversight—endanger national security and citizen privacy. DOGE's reckless handling of protected data reflects the broader pattern of unaccountable billionaire influence over critical government functions. The breach went unreported until Borges's whistleblowing, suggesting systematic efforts to conceal security failures within Trump's chaotic governance structure.

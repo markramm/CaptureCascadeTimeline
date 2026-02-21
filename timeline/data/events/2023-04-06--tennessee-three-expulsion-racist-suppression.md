@@ -1,8 +1,7 @@
 ---
 id: 2023-04-06--tennessee-three-expulsion-racist-suppression
 date: 2023-04-06
-title: Tennessee House Expels Two Black Lawmakers in Racist Suppression of Gun Control
-  Protest
+title: Tennessee House Expels Two Black Lawmakers in Racist Suppression of Gun Control Protest
 importance: 8
 status: confirmed
 actors:
@@ -21,26 +20,23 @@ tags:
 - institutional-capture
 - democratic-backsliding
 capture_lanes:
-- institutional-erosion
-- authoritarian-tactics
+- Systematic Corruption
+- Democratic Erosion
 sources:
 - url: https://www.npr.org/2023/04/07/1168725026/what-the-expulsion-of-black-lawmakers-in-tennessee-reveals-about-race-and-democr
-  title: What the expulsion of Black lawmakers in Tennessee reveals about race and
-    democracy
+  title: What the expulsion of Black lawmakers in Tennessee reveals about race and democracy
   date: 2023-04-07
   tier: 1
   verified: true
   outlet: NPR
 - url: https://www.npr.org/2023/04/12/1169444850/justin-pearson-vote-memphis-tennessee-house
-  title: Both Black Tennessee lawmakers have been reinstated after being expelled
-    by GOP
+  title: Both Black Tennessee lawmakers have been reinstated after being expelled by GOP
   date: 2023-04-12
   tier: 1
   verified: true
   outlet: NPR
 - url: https://tennesseelookout.com/2023/04/06/live-tennessee-house-republicans-expel-nashville-democratic-rep-justin-jones/
-  title: Tennessee House Republicans expel two Democrats, keep one, over gun floor
-    protests
+  title: Tennessee House Republicans expel two Democrats, keep one, over gun floor protests
   date: 2023-04-06
   tier: 2
   verified: true
@@ -55,8 +51,7 @@ sources:
   url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow
   outlet: ProPublica
   date: '2023-04-06'
-- title: Clarence Thomas's decisions have been benefiting wealthy donors like Harlan
-    Crow — for decades
+- title: Clarence Thomas's decisions have been benefiting wealthy donors like Harlan Crow — for decades
   url: https://www.citizensforethics.org/news/analysis/clarence-thomass-decisions-have-been-benefiting-wealthy-donors-like-harlan-crow-for-decades/
   outlet: Citizens for Responsibility and Ethics in Washington
   date: '2023-04-06'
@@ -82,8 +77,7 @@ sources:
   verified: true
 - date: '2025-01-03'
   outlet: SCOTUSblog
-  title: Federal courts won't refer Justice Thomas for DOJ investigation; discussion
-    of prior guidance
+  title: Federal courts won't refer Justice Thomas for DOJ investigation; discussion of prior guidance
   url: https://www.scotusblog.com/2025/01/federal-courts-wont-refer-clarence-thomas-for-doj-investigation/
   archive_url: ''
   key_facts_confirmed:
@@ -93,8 +87,7 @@ sources:
   url: https://www.cnn.com/2023/04/07/politics/clarence-thomas-crow-trips/index.html
   outlet: CNN
   date: '2023-04-07'
-- title: Justice Clarence Thomas discloses trips paid for by GOP megadonor Harlan
-    Crow
+- title: Justice Clarence Thomas discloses trips paid for by GOP megadonor Harlan Crow
   url: https://www.washingtonpost.com/politics/2023/04/06/clarence-thomas-harlan-crow-propublica/
   outlet: The Washington Post
   date: '2023-04-06'

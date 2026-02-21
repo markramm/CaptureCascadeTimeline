@@ -27,6 +27,8 @@ sources:
   title: Albania's for Sale, and Jared Kushner's Buying
   tier: 2
   outlet: Jacobin
+capture_lanes:
+- Systematic Corruption
 ---
 
 Trump convened an Oval Office meeting on Gaza's future with Jared Kushner, real estate developer Steve Witkoff, Secretary of State Marco Rubio, and former UK Prime Minister Tony Blair. During discussions, Trump floated expelling Palestinian residents and redeveloping Gaza into a luxury resort, echoing Kushner's February 2024 remarks calling Gaza's waterfront property 'very valuable' and suggesting Israel 'move the people out and then clean it up.' Kushner's Saudi-backed fund Affinity Partners had recently doubled its stake in Phoenix Financial, an Israeli company profiting from illegal settlements in occupied Palestinian territory, and separately closed a $1.4 billion deal to develop Albania's Sazan island into a luxury resort. The meeting's focus on Gaza development while Kushner maintains active business interests in Middle Eastern real estate creates severe conflicts of interest, as U.S. policy toward Palestinian displacement and Gaza's reconstruction could directly benefit Kushner's investment portfolio. The proposal to forcibly expel civilians and redevelop occupied territory would violate international law while enriching the president's family.

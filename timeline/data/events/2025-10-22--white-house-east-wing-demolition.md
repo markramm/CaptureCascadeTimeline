@@ -19,6 +19,10 @@ sources:
   tier: 1
   outlet: The New York Times
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+- Media Capture & Control
 ---
 
 President Trump approved demolition of the 123-year-old White House East Wing to construct a 90,000-square-foot personal ballroom, with project costs escalating from $250 million to $300 million. The East Wing houses the First Lady's offices, the Office of Social Secretary, and the historic Jacqueline Kennedy Garden. Treasury Department employees received orders not to share images of the demolition, suppressing documentation of the controversial project. The demolition proceeded while 1.4 million federal workers faced unpaid wages during Trump's government shutdown, with many resorting to food banks. Historians and preservationists condemned the destruction of a significant piece of White House history for what critics characterized as a personal vanity project funded by corporate donors seeking government favors. The action exemplifies Trump's willingness to reshape federal institutions for personal benefit regardless of historical significance or public cost.

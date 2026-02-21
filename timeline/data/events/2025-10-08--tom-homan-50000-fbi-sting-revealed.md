@@ -25,6 +25,9 @@ tags:
 - obstruction-of-justice
 - bribery
 - doj-weaponization
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
 ---
 
 Reports revealed that border czar Tom Homan was recorded by undercover FBI agents accepting $50,000 in cash on September 20, 2024, after indicating he could help win government contracts in a second Trump administration. The federal investigation launched in western Texas was abruptly terminated in late January or February 2025 when Trump's acting Deputy Attorney General Emil Bove told Justice officials he did not support the investigation. Attorney General Pam Bondi declined to address whether Homan would return the money. This represents obstruction of a federal corruption investigation by Trump administration officials, with DOJ leadership shutting down a documented bribery case against a senior White House official.

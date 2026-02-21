@@ -34,9 +34,8 @@ tags:
 - 737-max
 status: confirmed
 capture_lanes:
-- Whistleblower Retaliation
-- Corporate Intimidation
-- Suspicious Deaths
+- Systematic Corruption
+- Corporate Capture
 ---
 
 Joshua Dean, a 45-year-old former quality auditor at Boeing supplier Spirit AeroSystems who had raised safety concerns about 737 MAX manufacturing defects, died suddenly after contracting a severe MRSA infection. Dean had been in good health and was known for maintaining a healthy lifestyle, making his rapid deterioration from a common respiratory virus to death in two weeks highly unusual. His death came less than two months after Boeing whistleblower John Barnett was found dead from a gunshot wound during his deposition.

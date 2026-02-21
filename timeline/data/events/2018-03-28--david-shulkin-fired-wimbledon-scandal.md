@@ -32,6 +32,10 @@ sources:
   date: 2018-03-29
   tier: 1
   outlet: NPR
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+- Military-Industrial Complex
 ---
 
 President Trump fired Veterans Affairs Secretary David Shulkin on March 28, 2018, after an Inspector General report found he improperly accepted tickets to Wimbledon tennis matches and allowed taxpayers to pay for his wife's travel on an 11-day European trip in July 2017 costing at least $122,334. The IG investigation revealed Shulkin's chief of staff, Vivieca Wright Simpson, made false representations to a VA ethics official and altered an official email record, resulting in VA improperly paying $4,312 in airfare for Shulkin's wife, Merle Bari. The report documented that a VA employee "effectively acted as a personal travel concierge" for Shulkin and his wife during the trip to Denmark and England.

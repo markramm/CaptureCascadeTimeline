@@ -21,6 +21,10 @@ sources:
   tier: 1
   outlet: ProPublica
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Financial Capture
+- Legislative Capture
 ---
 
 ProPublica investigation revealed that Trump's budget director Russell Vought controls federal funding and employment decisions to systematically dismantle agencies and purge staff deemed insufficiently loyal. Vought, a self-described Christian nationalist, wields unchecked power over the federal budget, agency shutdowns, and DOGE cuts, functioning as Trump's 'shadow president' by using financial levers to enforce ideological conformity. The investigation documented how Vought converted budgetary authority into a political weapon for institutional takeover, bypassing normal congressional oversight and civil service protections. His unprecedented concentration of power enables the systematic destruction of government capacity through strategic budget manipulation and politically motivated staffing decisions. The consolidation represents a fundamental transformation of budget management from neutral administrative function to tool of authoritarian control.

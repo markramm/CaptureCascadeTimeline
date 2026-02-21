@@ -27,6 +27,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+- Intelligence Penetration
 ---
 
 President Trump used his official presidential Twitter account on February 8, 2017, to attack Nordstrom department store for dropping daughter Ivanka Trump's clothing and shoe line, writing: "My daughter Ivanka has been treated so unfairly by @Nordstrom. She is a great person — always pushing me to do the right thing! Terrible!" Trump posted the message on both his personal account and the official @POTUS government account.

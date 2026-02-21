@@ -28,6 +28,10 @@ sources:
   date: '2025-08-17'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 Vietnamese farmers in Hung Yen province were forced to surrender land for a $1.5 billion Trump-branded golf resort, receiving compensation as low as $3,200 and rice provisions. Thousands of villagers were offered $12-$30 per square meter for farmland, drastically reduced from initial estimates exceeding $500 million.

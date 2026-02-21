@@ -30,6 +30,10 @@ sources:
   outlet: CNN
   date: '2026-01-07'
   tier: 2
+capture_lanes:
+- Systematic Corruption
+- Legislative Capture
+- Surveillance Infrastructure
 ---
 
 The House Committee on Oversight and Government Reform held a hearing titled "Oversight of Fraud and Misuse of Federal Funds in Minnesota: Part I," featuring Minnesota Republican state representatives Kristin Robbins, Walter Hudson, and Marion Rarick, along with former DOJ special counsel Brendan Ballou as the minority witness. Chairman James Comer emphasized that criminals in Minnesota have stolen an estimated $9 billion in taxpayer funds intended for child nutrition, autism services, housing assistance, and Medicaid, with funds allegedly used to purchase luxury homes, flashy cars, extravagant vacations, and reportedly funneled to terrorist networks overseas.

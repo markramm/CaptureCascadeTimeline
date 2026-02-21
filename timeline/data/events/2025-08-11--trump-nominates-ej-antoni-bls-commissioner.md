@@ -30,6 +30,9 @@ sources:
   date: '2025-08-17'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
+- Labor Suppression
 ---
 
 Trump nominated E.J. Antoni, Heritage Foundation chief economist and Project 2025 contributor, to lead the Bureau of Labor Statistics after firing the previous commissioner over a disappointing jobs report. Antoni has publicly claimed BLS data is 'rigged' and lacks relevant expertise for the role.

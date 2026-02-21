@@ -26,6 +26,10 @@ actors:
 - Benton J. Campbell
 - Defense Criminal Investigative Service
 - U.S. Navy
+capture_lanes:
+- Systematic Corruption
+- Environmental Capture
+- Military-Industrial Complex
 ---
 
 General Dynamics Armament and Technical Products agreed to pay $4,058,750 to settle federal fraud charges that it defectively manufactured or failed to properly test components for Navy aircraft and submarines, then fraudulently billed the government despite knowing the equipment did not meet military specifications. The settlement resolved allegations that during September 2001 through August 2003, the General Dynamics subsidiary delivered substandard parts for critical military systems including C-141 transport planes and Los Angeles-class and Trident-class submarines—equipment failures that could have compromised mission effectiveness or endangered service members' lives. U.S. Attorney Benton J. Campbell stated that "fraudulent practices that could compromise the integrity and reliability of equipment used by our nation's armed services is inexcusable," while the case demonstrated General Dynamics' willingness to prioritize profit over safety by billing for defective components it knew failed specifications.

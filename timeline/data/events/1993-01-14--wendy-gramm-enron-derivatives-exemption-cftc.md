@@ -20,21 +20,21 @@ tags:
 - cftc
 capture_lanes:
 - Regulatory Capture
-- Corruption
+- Systematic Corruption
 - Financial Capture
 location: Washington, D.C.
 sources:
-- title: 'Wendy Lee Gramm'
+- title: Wendy Lee Gramm
   url: https://en.wikipedia.org/wiki/Wendy_Lee_Gramm
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'Gramms Regulated Enron, Benefited from Ties'
+- title: Gramms Regulated Enron, Benefited from Ties
   url: http://articles.chicagotribune.com/2002-01-18/news/0201180272_1_enron-wendy-gramm-energy-contracts
   outlet: Chicago Tribune
   date: '2002-01-18'
   tier: 2
-- title: 'Foxes Guarding the Chicken Coop'
+- title: Foxes Guarding the Chicken Coop
   url: https://www.salon.com/2002/06/26/cftc/
   outlet: Salon
   date: '2002-06-26'

@@ -33,8 +33,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- pay-to-play
-- corporate-capture
+- Systematic Corruption
+- Corporate Capture
 ---
 
 Trump's 2025 inauguration raised a record-shattering $245 million, with at least $161 million coming from corporations—many facing active federal antitrust investigations or regulatory scrutiny. The donations represent a nearly 2.5x increase over Trump's 2017 inauguration ($107 million) and more than double Biden's 2021 total.

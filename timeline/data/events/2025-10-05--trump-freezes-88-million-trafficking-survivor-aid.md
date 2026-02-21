@@ -18,6 +18,9 @@ tags:
 - vulnerable-population-harm
 - congressional-authority-subversion
 - budget-cuts
+capture_lanes:
+- Systematic Corruption
+- Legislative Capture
 ---
 
 The Trump administration blocked $88 million in congressionally approved funding for more than 100 organizations serving human trafficking survivors, eliminating housing, counseling, and legal support services. The funding freeze affected critical services for some of society's most vulnerable individuals, demonstrating the administration's willingness to abandon trafficking survivors despite public claims of prioritizing human trafficking prevention. This represents systematic defunding of congressionally authorized programs that serve vulnerable populations, using budget authority to override legislative intent and inflict harm on marginalized communities.

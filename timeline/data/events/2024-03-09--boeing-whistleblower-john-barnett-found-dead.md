@@ -36,8 +36,8 @@ tags:
 - retaliation
 status: confirmed
 capture_lanes:
-- Whistleblower Retaliation
-- Corporate Intimidation
+- Systematic Corruption
+- Corporate Capture
 ---
 
 John Barnett, a 32-year Boeing quality control manager and prominent whistleblower who had raised numerous safety concerns about the 787 Dreamliner, was found dead from a gunshot wound to the head in his truck in a hotel parking lot in Charleston, South Carolina. He was in Charleston for deposition in his ongoing whistleblower retaliation lawsuit against Boeing. His death occurred on March 9, 2024, during a break in the deposition proceedings, and was ruled a suicide by the Charleston County Coroner.

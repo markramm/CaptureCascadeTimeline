@@ -21,7 +21,7 @@ tags:
 capture_lanes:
 - Legislative Capture
 - Financial Capture
-- Corruption
+- Systematic Corruption
 location: Washington, D.C.
 sources:
 - title: Financial Deregulation, U.S. Party Politics, and Rising Income Inequality

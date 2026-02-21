@@ -19,6 +19,9 @@ tags:
 - systematic-corruption
 - executive-overreach
 - project-2025-implementation
+capture_lanes:
+- Systematic Corruption
+- Legislative Capture
 ---
 
 OMB Director Russ Vought systematically used government shutdown planning to execute mass federal purges, cancel funding, block oversight, and reclassify workers across agencies according to the Project 2025 framework. This represents a deliberate conversion of the Office of Management and Budget into a power lever to undermine Congressional spending authority and reshape the federal workforce. Vought's actions demonstrate the operationalization of Project 2025's blueprint for centralizing executive power and weakening Congressional oversight of federal operations. The shutdown mechanism became a tool for implementing ideological restructuring of the federal government while bypassing normal legislative processes.

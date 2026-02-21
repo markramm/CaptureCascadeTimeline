@@ -12,7 +12,7 @@ actors:
 capture_lane: political
 capture_lanes:
 - Regulatory Capture
-- Institutional Conflict of Interest
+- Systematic Corruption
 connections:
 - 2025-01-20--rfk-jr-hhs-confirmation
 - 2019-01-01--childrens-health-defense-anti-vaccine

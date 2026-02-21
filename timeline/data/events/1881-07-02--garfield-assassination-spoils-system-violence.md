@@ -1,7 +1,7 @@
 ---
 id: 1881-07-02--garfield-assassination-spoils-system-violence
 date: '1881-07-02'
-title: 'Charles Guiteau Shoots President Garfield Over Patronage Denial'
+title: Charles Guiteau Shoots President Garfield Over Patronage Denial
 importance: 9
 actors:
 - James A. Garfield
@@ -9,15 +9,15 @@ actors:
 - Chester A. Arthur
 - James Blaine
 sources:
-- title: 'The Federal Civil Service and the Death of President James A. Garfield'
+- title: The Federal Civil Service and the Death of President James A. Garfield
   outlet: National Park Service
   url: https://www.nps.gov/articles/000/the-federal-civil-service-and-the-death-of-president-james-a-garfield.htm
   year: 2024
-- title: 'How James Garfield''s Assassination Ended the Spoils System'
+- title: How James Garfield's Assassination Ended the Spoils System
   outlet: History Channel
   url: https://www.history.com/articles/garfield-assassination-spoils-system-reforms-federal-employees
   year: 2024
-- title: 'The Garfield Assassination Altered American History, But Is Woefully Forgotten Today'
+- title: The Garfield Assassination Altered American History, But Is Woefully Forgotten Today
   outlet: Smithsonian Magazine
   url: https://www.smithsonianmag.com/history/garfield-assassination-altered-american-history-woefully-forgotten-today-180968319/
   year: 2024
@@ -27,9 +27,8 @@ tags:
 - political-violence
 - institutional-capture
 capture_lanes:
-- Spoils System Pathology
-- Patronage Violence
-- Civil Service Crisis
+- Systematic Corruption
+- Federal Workforce Capture
 status: confirmed
 ---
 

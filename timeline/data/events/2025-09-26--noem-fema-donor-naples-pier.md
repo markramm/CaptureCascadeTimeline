@@ -26,6 +26,8 @@ sources:
   date: '2025-09-28'
   tier: 1
   outlet: WGCU PBS
+capture_lanes:
+- Systematic Corruption
 ---
 
 ProPublica exposed that Homeland Security Secretary Kristi Noem expedited over $11 million in federal disaster funds to rebuild Naples, Florida's tourist pier within 24 hours after major donor Dr. Sinan Gursoy texted her on behalf of the city's mayor. After Gursoy told the mayor 'I will get on it' on August 11, Noem's 'FEMA fixer' contacted Naples officials, and by August 27 FEMA announced it would 'expedite the funding.' Noem then flew to Naples on August 29 for a 30-minute pier walk-through followed by a nail salon appointment, dinner at an upscale restaurant, and a weekend stay at a four-star resort. This occurred while Texas and North Carolina disaster victims waited months for relief, and while Noem's new policy requiring her personal sign-off on expenses over $100,000 created FEMA gridlock nationwide. The episode exemplifies disaster aid weaponized as a patronage tool for wealthy donors.

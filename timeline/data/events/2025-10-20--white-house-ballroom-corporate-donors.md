@@ -24,6 +24,10 @@ sources:
   tier: 1
   outlet: CBS News
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+- Regulatory Capture
 ---
 
 President Trump hosted defense and technology executives at a White House ballroom fundraiser for his $250 million renovation project, with major donors including Lockheed Martin, Amazon, Meta, Google, and Palantir. Google's $22 million settlement with Trump for social media suspension reinstatement—nearly 10% of the project cost—raised severe quid pro quo concerns as the company faced active antitrust litigation. The fundraiser created a pay-to-play environment where corporations with major regulatory and contracting interests could purchase direct access to the President through 'donations' for a personal vanity project. CBS News investigation found dozens of donor corporations simultaneously seeking federal contracts, regulatory relief, and policy favors while contributing millions to the ballroom. Trump later confirmed accepting anonymous donations with no disclosure requirements, eliminating transparency about foreign or corporate influence.

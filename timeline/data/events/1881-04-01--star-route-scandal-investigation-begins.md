@@ -1,7 +1,7 @@
 ---
 id: 1881-04-01--star-route-scandal-investigation-begins
 date: '1881-04-01'
-title: 'Garfield Launches Investigation of Star Route Postal Fraud Scheme'
+title: Garfield Launches Investigation of Star Route Postal Fraud Scheme
 importance: 8
 actors:
 - James A. Garfield
@@ -10,7 +10,7 @@ actors:
 - Chester A. Arthur
 - Bradley Barlow
 sources:
-- title: 'Star Route scandal'
+- title: Star Route scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Star_Route_scandal
   year: 2024
@@ -28,9 +28,8 @@ tags:
 - postal-fraud
 - elite-impunity
 capture_lanes:
-- Federal Contract Fraud
-- Republican Party Corruption
-- Procurement Capture
+- Systematic Corruption
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -27,6 +27,10 @@ sources:
   outlet: Center for Public Integrity
   date: '2008-01-28'
 id: 1996-02-26--lincoln-bedroom-fundraising-scandal
+capture_lanes:
+- Systematic Corruption
+- Digital & Tech Capture
+- Legislative Capture
 ---
 
 Documents revealed in February 1997 show that President Bill Clinton and top aides orchestrated a broad fundraising operation during his first term, explicitly using overnight stays in the White House Lincoln Bedroom and other perks to woo and reward major donors. President Clinton personally endorsed the strategy, writing in a handwritten note: "Ready to start overnights right away." The Clinton administration's released records showed that 938 guests stayed at the White House during Clinton's first term, dwarfing the 284 who stayed during the previous Bush administration.

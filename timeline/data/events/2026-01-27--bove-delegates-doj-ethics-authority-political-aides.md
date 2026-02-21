@@ -24,6 +24,10 @@ sources:
   outlet: Protect Democracy
   date: '2026-01-27'
   tier: 2
+capture_lanes:
+- Systematic Corruption
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 Acting Deputy Attorney General Emil Bove issued a memo on January 27, 2026, sidelining a qualified career ethics official and reassigning ethics responsibilities to Bove's chief of staff—who graduated from law school in 2021—and a former criminal defense attorney who served on President Trump's defense team. These two individuals, neither of whom had worked at the Department before, were granted final decision-making authority over "adverse personnel actions and bar referral matters," as well as ethics recusals, waivers, and nominee financial matters.

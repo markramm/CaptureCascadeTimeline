@@ -7,8 +7,8 @@ actors:
 - Transparency International
 capture_lanes:
 - Media Capture & Control
-- Institutional Corruption
-- Legal System Capture
+- Systematic Corruption
+- Judicial Capture
 date: '2025-02-15'
 id: 2025-02-15--doj-kleptocracy-initiative-shuttered-major-setback-for-anti
 importance: 9
@@ -21,8 +21,7 @@ sources:
   title: US Justice Department Disbands Teams Investigating Corruption, Election Interference
   url: https://www.voanews.com/a/us-justice-department-disbands-teams-investigating-corruption-election-interference/7967503.html
 - outlet: Transparency International
-  title: Attorney General Memorandum Redirects U.S. Anti-Corruption Efforts Raising
-    Questions and Concerns
+  title: Attorney General Memorandum Redirects U.S. Anti-Corruption Efforts Raising Questions and Concerns
   url: https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/
 status: confirmed
 tags:

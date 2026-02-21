@@ -26,6 +26,10 @@ sources:
   url: https://tennesseelookout.com/briefs/former-tennessee-speaker-casada-ex-chief-of-staff-reportedly-pardoned/
   tier: 2
   outlet: Tennessee Lookout
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+- Financial Capture
 ---
 
 President Trump pardoned former Tennessee House Speaker Glen Casada and his chief of staff Cade Cothren just weeks after they were sentenced to federal prison for public corruption charges. Casada received a three-year sentence in September 2025 for orchestrating a 2020 scheme to receive over $50,000 in taxpayer money through a fraudulent mailer program, while Cothren was sentenced to 2.5 years. The two had set up a secret company that exploited the state's postage and printing program, which provides House members $3,000 annually for constituent mailers, billing the state while operating the vendor themselves.

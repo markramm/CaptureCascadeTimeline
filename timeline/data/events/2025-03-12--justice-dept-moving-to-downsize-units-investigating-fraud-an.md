@@ -1,8 +1,7 @@
 ---
 id: 2025-03-12--justice-dept-moving-to-downsize-units-investigating-fraud-an
 date: '2025-03-12'
-title: Justice Department Significantly Downsizes Public Corruption Investigation
-  Unit
+title: Justice Department Significantly Downsizes Public Corruption Investigation Unit
 importance: 8
 actors:
 - Donald Trump
@@ -19,11 +18,10 @@ tags:
 - foreign-influence
 capture_lanes:
 - Regulatory Capture
-- Institutional Erosion
+- Systematic Corruption
 capture_type: dismantling_oversight
 sources:
-- title: Justice Department Office That Prosecutes Public Corruption Slashed in Size,
-    Sources Say
+- title: Justice Department Office That Prosecutes Public Corruption Slashed in Size, Sources Say
   outlet: NBC News
   date: '2025-03-12'
   url: https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928
@@ -31,8 +29,7 @@ sources:
   outlet: Voice of America News
   date: '2025-03-12'
   url: https://www.voanews.com/a/us-justice-department-disbands-teams-investigating-corruption-election-interference/7967503.html
-- title: Whitehouse Demands Answers from Justice Department on Dismantling of Public
-    Integrity Section
+- title: Whitehouse Demands Answers from Justice Department on Dismantling of Public Integrity Section
   outlet: Office of Senator Sheldon Whitehouse
   date: '2025-03-20'
   url: https://www.whitehouse.senate.gov/news/release/whitehouse-demands-answers-from-justice-department-on-dismantling-of-public-integrity-section/
@@ -42,8 +39,7 @@ connections:
 patterns:
 - kleptocratic-capture
 - institutional-erosion
-notes: Unit created in 1976 after Watergate, now dramatically reduced under Trump
-  administration. Raises significant concerns about government accountability.
+notes: Unit created in 1976 after Watergate, now dramatically reduced under Trump administration. Raises significant concerns about government accountability.
 status: confirmed
 ---
 

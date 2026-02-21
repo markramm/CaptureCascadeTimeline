@@ -24,6 +24,9 @@ sources:
   outlet: Bloomberg Law
   tier: 1
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Financial Capture
 ---
 
 FBI Director Kash Patel used the FBI's $60 million government jet to fly to State College, Pennsylvania on October 25, 2025, to attend a Real American Freestyle wrestling event where his 27-year-old girlfriend, country singer Alexis Wilkins, was scheduled to perform. Public flight logs for Patel's plane (N708JH) show it landing at Pennsylvania's State College Airport at 5:40 PM EST on the day of the event. This marked Patel's sixth government-funded flight to his girlfriend's hometown, in addition to ten flights to Las Vegas where he maintains a residence. The revelation exposed stunning hypocrisy: in a 2023 Truth Social post, Patel had dubbed former FBI Director Christopher Wray a "#GovernmentGangster" and accused him of "jetting off out on tax payer dollars," calling for the FBI director's plane to be sold. While FBI directors are designated "required use" travelers who must fly government aircraft for security reasons and reimburse the equivalent coach fare for personal travel, taxpayers cover the actual operating costs, maintenance, and fuel—expenses far exceeding commercial ticket prices. After reporting on his extensive personal jet use surfaced, Patel grew outraged and the FBI forced out a senior official overseeing aviation shortly thereafter, demonstrating his willingness to retaliate against those whose transparency exposed his abuse of government resources. The incident exemplifies the Trump administration pattern of officials exploiting government resources for personal benefit while projecting accusations of corruption onto their predecessors.

@@ -32,9 +32,8 @@ tags:
 - boarding-schools
 status: confirmed
 capture_lanes:
-- Institutional Corruption
-- Indigenous Suppression
-- Cultural Destruction
+- Systematic Corruption
+- Civil Rights Suppression
 ---
 
 Lieutenant Richard Henry Pratt opens the Carlisle Indian Industrial School in Pennsylvania under U.S. government authorization, establishing the blueprint for more than 400 federal Indian boarding schools nationwide designed to forcibly assimilate Native American children through cultural destruction. Pratt's explicit motto captures the institution's genocidal purpose: "Kill the Indian, save the man." The school's mission is to eradicate Indigenous identities, beliefs, languages, and traditional knowledge by removing children from their families and communities—often by force or coercion—and subjecting them to a regime designed to strip away every aspect of their cultural identity. Administrators force students to speak English exclusively, cut their hair (a deeply significant cultural violation for many tribes), wear Anglo-American clothing, adopt Christian religious practices, and abandon all Indigenous cultural expressions. Students receive English names replacing their Indigenous names, cannot practice traditional religions, and face severe punishment for speaking their native languages or maintaining any connection to their cultures. Carlisle becomes the model that the federal government replicates across the country, creating a vast institutional infrastructure for what scholars and Indigenous communities recognize as cultural genocide.

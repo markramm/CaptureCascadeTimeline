@@ -30,6 +30,10 @@ sources:
   date: 2016-11-19
   tier: 2
   outlet: Medium
+capture_lanes:
+- Systematic Corruption
+- Intelligence Penetration
+- Judicial Capture
 ---
 
 Court documents and victim testimony released in June 2016 revealed the devastating human cost of Trump University's fraudulent scheme, with students testifying they lost retirement savings, disability income, and home equity after being pressured into purchasing courses costing up to $35,000. Former Trump University sales manager Ronald Schnackenberg provided damning testimony about a couple who attended a Spring 2007 seminar in New York City and would have had to use the husband's disability income and take out a loan against their apartment to pay for the elite program. When Schnackenberg refused to complete the sale due to ethical concerns, he "was reprimanded for not trying harder" and another salesman successfully pressured the couple into the nearly $35,000 purchase. George Hanus testified he drained his retirement savings based on advice received at Trump University. Multiple victims described being promised "apprenticeship" with Trump himself and personal attention from Trump-selected experts—promises that never materialized.

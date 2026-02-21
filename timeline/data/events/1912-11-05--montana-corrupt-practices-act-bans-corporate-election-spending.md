@@ -1,7 +1,7 @@
 ---
 id: 1912-11-05--montana-corrupt-practices-act-bans-corporate-election-spending
 date: '1912-11-05'
-title: 'Montana Voters Pass Corrupt Practices Act Banning Corporate Political Spending'
+title: Montana Voters Pass Corrupt Practices Act Banning Corporate Political Spending
 importance: 7
 location: Helena, Montana
 actors:
@@ -13,9 +13,8 @@ actors:
 - Montana Legislature
 status: confirmed
 capture_lanes:
-- anti-corruption-reform
-- direct-democracy
-- corporate-money-regulation
+- Systematic Corruption
+- Corporate Capture
 tags:
 - campaign-finance
 - ballot-initiative

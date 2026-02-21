@@ -27,6 +27,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Corporate Capture
+- Regulatory Capture
 ---
 
 Vice President Mike Pence cast a historic tie-breaking vote on February 7, 2017, to confirm Betsy DeVos as Education Secretary—the first time in American history that a vice president's tie-breaking power was used to confirm a Cabinet nominee. The Senate vote split exactly 50-50, with two Republican senators—Susan Collins of Maine and Lisa Murkowski of Alaska—joining all 46 Democrats and both Independents in opposing DeVos.

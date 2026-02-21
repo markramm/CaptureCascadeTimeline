@@ -37,8 +37,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Institutional Corruption
-- Monetary Policy Manipulation
+- Systematic Corruption
 additional_context:
   total_emergency_lending: $16.1 trillion
   peak_lending_period: Late 2008
@@ -49,8 +48,7 @@ additional_context:
     Merrill Lynch: $1.9 trillion
     Bank of America: $1.3 trillion
   key_conflicts_of_interest:
-  - JPMorgan Chase CEO Jamie Dimon on NY Fed board while receiving $390 billion in
-    loans
+  - JPMorgan Chase CEO Jamie Dimon on NY Fed board while receiving $390 billion in loans
   - Two-thirds of emergency lending program contracts were no-bid
   - Bank executives serving on Fed board while their institutions received bailouts
 ---

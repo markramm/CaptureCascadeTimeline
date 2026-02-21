@@ -37,8 +37,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- elite-impunity
-- nazi-collaboration
+- Systematic Corruption
+- International Kleptocracy
 ---
 
 The Office of Alien Property Custodian seizes the assets of Union Banking Corporation (UBC) in New York on October 20, 1942, under the Trading with the Enemy Act. Among the bank's directors is Prescott Bush, father and grandfather of two future presidents, whose firm Brown Brothers Harriman manages assets for Fritz Thyssen, a German steel magnate who helped finance Hitler's rise to power.

@@ -35,8 +35,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- elite-impunity
-- rule-of-law-erosion
+- Systematic Corruption
+- Democratic Erosion
 ---
 
 

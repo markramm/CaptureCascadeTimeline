@@ -23,23 +23,22 @@ tags:
 - institutional-collapse
 - regulatory-failure
 capture_lanes:
-- For-Profit to Nonprofit Conversion Fraud
-- Institutional Collapse
-- Student Aid Misappropriation
+- Systematic Corruption
+- Federal Workforce Capture
+- Financial Capture
 - Regulatory Capture
-- Students Stranded
 sources:
-- title: "How buying the Art Institutes brought Dream Center to the brink of collapse"
+- title: How buying the Art Institutes brought Dream Center to the brink of collapse
   url: https://www.highereddive.com/news/how-buying-the-art-institutes-brought-dream-center-to-the-brink-of-collapse/546627/
   outlet: Higher Ed Dive
   date: '2019-01-18'
   tier: 2
-- title: "Timeline: How Dream Center's higher ed bid went off the rails"
+- title: 'Timeline: How Dream Center''s higher ed bid went off the rails'
   url: https://www.highereddive.com/news/timeline-how-dream-centers-higher-ed-bid-went-off-the-rails/550339/
   outlet: Higher Ed Dive
   date: '2019-03-20'
   tier: 2
-- title: "Congress investigates Education Department in wake of abrupt Art Institute closures"
+- title: Congress investigates Education Department in wake of abrupt Art Institute closures
   url: https://democrats-edworkforce.house.gov/media/news/congress-investigates-education-department-in-wake-of-abrupt-art-institute-closures
   outlet: House Education and Workforce Committee
   date: '2019-01-15'

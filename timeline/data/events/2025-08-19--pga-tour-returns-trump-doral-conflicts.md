@@ -27,6 +27,8 @@ sources:
   date: '2025-08-26'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
 ---
 
 The PGA Tour announced Trump National Doral will host the Miami Championship signature event April 30-May 3, 2026, with a $20 million purse. This marks the first PGA Tour event at a Trump property in a decade, directly enriching the president's business while serving in office.

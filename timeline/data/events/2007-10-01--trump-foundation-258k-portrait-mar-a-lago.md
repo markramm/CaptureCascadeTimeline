@@ -29,6 +29,10 @@ sources:
   date: 2018-06-14
   tier: 1
   outlet: New York Attorney General
+capture_lanes:
+- Systematic Corruption
+- Financial Capture
+- Judicial Capture
 ---
 
 The Donald J. Trump Foundation paid $258,000 in charitable funds to purchase a six-foot portrait of Donald Trump at a charity auction in Palm Beach, Florida. The portrait, painted by artist William Quigley, was supposed to be sold to benefit charity, but instead the Foundation used tax-exempt charitable donations to acquire an item of purely personal benefit to Trump. The massive portrait was later discovered hanging at Trump's Doral golf resort in Miami, confirming it provided no charitable purpose and instead decorated Trump's for-profit business property.

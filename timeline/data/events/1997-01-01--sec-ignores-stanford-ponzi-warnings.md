@@ -32,6 +32,10 @@ sources:
   date: '2011-05-13'
   tier: 1
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 In 1997, SEC examiners in the Fort Worth District Office concluded that R. Allen Stanford's Caribbean banking operation was likely operating a Ponzi scheme, finding that his certificates of deposit (CDs) and reported returns could not be legitimate. This marked the first of four examinations (1997, 1998, 2002, and 2004) that reached identical conclusions about Stanford's fraud. Despite examiner warnings that Stanford Financial Group was running a Ponzi scheme—made just two years after the company registered with the SEC in 1995—the Fort Worth Enforcement Division repeatedly refused to investigate. According to the 2010 SEC Inspector General report, enforcement staff perceived Stanford as a 'difficult, novel' case that 'wouldn't give you a number very quickly,' conflicting with their focus on bringing numerous simple cases to boost statistics rather than complex investigations. The enforcement division 'continually turned a blind eye for nearly a decade' while examiners repeatedly warned that Stanford's $7 billion CD fraud was illegitimate. Former Fort Worth Enforcement head Spencer Barasch, who played a significant role in quashing Stanford investigations, later sought to represent Stanford on three occasions after leaving the SEC, actually representing him briefly in 2006 until the SEC Ethics Office deemed it improper. This regulatory capture allowed Stanford's Ponzi scheme to grow unchecked for 12 years until the SEC finally brought charges in February 2009—only months after the Madoff scandal—by which time Stanford had defrauded investors of $8 billion through his Antigua-based operation.

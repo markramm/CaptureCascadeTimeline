@@ -29,6 +29,8 @@ sources:
   date: '2025-10-23'
   tier: 2
   outlet: CNBC
+capture_lanes:
+- Systematic Corruption
 ---
 
 Trump announced construction of a $200-250 million White House ballroom funded entirely by private donors including Lockheed Martin, Google, Palantir, Microsoft, Amazon, Meta, and Blackstone. Nearly 40 corporations with billions in federal contracts pledged $5-10 million each, with donors' names to be etched into the building. The arrangement allows companies with pending regulatory matters and government contracts to buy influence through tax-deductible contributions funneled via a nonprofit. Trump hosted a 'Legacy Dinner' in September for ballroom donors including representatives from Palantir and Lockheed Martin, both of which hold massive Defense Department contracts. This represents the conversion of a public institution—the White House—into a pay-to-play monument where corporations literally inscribe their names into the seat of government.

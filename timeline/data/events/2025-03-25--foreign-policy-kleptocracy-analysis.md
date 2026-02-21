@@ -13,12 +13,10 @@ sources:
   title: Is America a Kleptocracy?
   url: https://foreignpolicy.com/2025/03/25/america-kleptocracy-trump-musk-corruption/
 - outlet: Center for American Progress
-  title: '100 Days of the Trump Administration''s Foreign Policy: Global Chaos, American
-    Weakness, and Human Suffering'
+  title: '100 Days of the Trump Administration''s Foreign Policy: Global Chaos, American Weakness, and Human Suffering'
   url: https://www.americanprogress.org/article/100-days-of-the-trump-administrations-foreign-policy-global-chaos-american-weakness-and-human-suffering/
 - outlet: Transparency International
-  title: Attorney General Memorandum Redirects U.S. Anti-Corruption Efforts Raising
-    Questions and Concerns
+  title: Attorney General Memorandum Redirects U.S. Anti-Corruption Efforts Raising Questions and Concerns
   url: https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/
 tags:
 - kleptocracy
@@ -34,7 +32,7 @@ priority_id: RT-COMPLETED-PATTERN-20250906-14
 capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
-- Corruption Networks
+- Systematic Corruption
 ---
 
 Foreign Policy and other analysts published comprehensive assessments highlighting the systematic dismantling of anti-corruption infrastructure during the Trump administration. Key concerns include the closure of the Kleptocracy Asset Recovery Initiative, a six-month pause on Foreign Corrupt Practices Act investigations, and the firing of multiple inspectors general, suggesting a deliberate strategy to weaken democratic accountability mechanisms.

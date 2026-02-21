@@ -19,6 +19,8 @@ tags:
 - conflicts-of-interest
 - public-asset-giveaway
 - transparency-violation
+capture_lanes:
+- Systematic Corruption
 ---
 
 Miami Dade College's board voted to gift $67 million in downtown Miami land to the Donald J. Trump Presidential Library Foundation with minimal public notice before gubernatorial transfer to Trump's control. Historian Dr. Marvin Dunn filed suit alleging the board violated Florida's Sunshine Law by conducting the transaction without proper public disclosure. The land transfer represents a massive public asset giveaway to benefit Trump personally, with public educational institution resources diverted to glorify a sitting president in a transaction that avoided transparency requirements and public oversight.

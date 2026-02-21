@@ -1,8 +1,7 @@
 ---
 id: 2025-06-10--starlink-installed-white-house-roof-security-concerns
 date: '2025-06-10'
-title: Musk's Starlink Installed on White House Roof Raises Cybersecurity and Conflict
-  of Interest Concerns
+title: Musk's Starlink Installed on White House Roof Raises Cybersecurity and Conflict of Interest Concerns
 importance: 8
 actors:
 - Elon Musk
@@ -33,15 +32,13 @@ sources:
   url: https://www.aljazeera.com/economy/2025/6/10/top-cfpb-enforcement-official-to-resign-amid-policy-shifts-under-trump
 - date: '2025-06-10'
   outlet: U.S. News & World Report
-  title: Top CFPB Enforcement Official to Resign, Citing 'Devastating' Shifts Under
-    Trump
+  title: Top CFPB Enforcement Official to Resign, Citing 'Devastating' Shifts Under Trump
   url: https://www.usnews.com/news/politics/articles/2025-06-10/top-cfpb-enforcement-official-to-resign-citing-devastating-shifts-under-trump
 - title: DOJ Resumes FCPA Enforcement with New Guidelines
   url: https://corpgov.law.harvard.edu/2025/06/25/doj-resumes-fcpa-enforcement-with-new-guidelines/
   outlet: Harvard Corporate Governance
   date: '2025-06-09'
-- title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic
-    and National Security
+- title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic and National Security
   url: https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
   outlet: The White House
   date: '2025-02-10'
@@ -51,8 +48,7 @@ sources:
   date: '2025-06-09'
 status: confirmed
 capture_lanes:
-- conflicts-of-interest
-- cybersecurity
+- Systematic Corruption
 ---
 
 

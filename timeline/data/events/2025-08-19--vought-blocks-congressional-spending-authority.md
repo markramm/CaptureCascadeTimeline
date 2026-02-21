@@ -28,6 +28,10 @@ sources:
   date: '2025-08-26'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
+- Digital & Tech Capture
+- Legislative Capture
 ---
 
 OMB Director Russell Vought blocked billions in congressionally-approved public funding, including over $5 billion in SNAP benefits for hungry families, claiming unilateral power to withhold spending despite the Impoundment Control Act prohibiting such actions. Vought confirmed considering 'pocket rescissions'—allowing spending to expire before agencies can allocate funds.

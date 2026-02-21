@@ -30,6 +30,8 @@ sources:
   date: '2025-08-20'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
 ---
 
 Senate Democrats flagged Commerce Secretary Howard Lutnick's firm Cantor Fitzgerald for creating financial products allowing clients to bet on Supreme Court tariff rulings, raising insider dealing concerns. Lutnick, a top tariff negotiator, is father of Cantor Fitzgerald CEO Brandon Lutnick.

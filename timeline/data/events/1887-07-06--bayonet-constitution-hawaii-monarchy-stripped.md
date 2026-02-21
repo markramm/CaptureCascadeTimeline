@@ -22,11 +22,11 @@ tags:
 - colonial-exploitation
 - sovereignty-theft
 capture_lanes:
-- Constitutional Corruption
-- Indigenous Land Theft
-- Voter Disenfranchisement
-- Economic Elite Capture
-- Military Coercion
+- Systematic Corruption
+- Civil Rights Suppression
+- Electoral Manipulation
+- Financial Capture
+- Military-Industrial Complex
 sources:
 - title: 1887 Constitution of the Hawaiian Kingdom
   url: https://en.wikipedia.org/wiki/1887_Constitution_of_the_Hawaiian_Kingdom

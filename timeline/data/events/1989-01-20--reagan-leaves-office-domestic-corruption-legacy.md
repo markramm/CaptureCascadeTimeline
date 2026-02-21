@@ -21,7 +21,7 @@ sources:
   outlet: Miller Center (University of Virginia)
   date: '2024-01-01'
   verified: true
-- title: 'Reaganomics'
+- title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
@@ -31,6 +31,10 @@ sources:
   outlet: San Francisco Chronicle
   date: '2004-06-08'
   verified: true
+capture_lanes:
+- Systematic Corruption
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 Ronald Reagan leaves office with a domestic legacy of systematic corruption, regulatory capture, and policy failures that define American political economy for decades. The S&L crisis triggered by his deregulation will ultimately cost taxpayers $160 billion and require prosecuting 1,000+ bankers for fraud. His EPA and Interior Department faced unprecedented scandals, with Anne Gorsuch becoming the first cabinet official held in contempt of Congress and Rita Lavelle convicted of perjury. His AIDS policy consisted of eight years of deadly silence while over 100,000 Americans died, with the epidemic exploding due to deliberate federal inaction. His union-busting beginning with PATCO destroyed labor's bargaining power, initiating four decades of wage stagnation despite productivity growth.

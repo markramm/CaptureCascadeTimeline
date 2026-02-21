@@ -30,6 +30,9 @@ sources:
   date: '2025-08-27'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 Ethics disclosures revealed Trump purchased at least $103 million in corporate and municipal bonds since January 20, making over 600 transactions including bonds from Wells Fargo, Citigroup, Morgan Stanley, Meta, UnitedHealth, T-Mobile, and Home Depot—all companies subject to federal regulation and policy decisions.

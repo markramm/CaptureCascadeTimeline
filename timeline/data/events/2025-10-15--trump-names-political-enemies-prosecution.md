@@ -23,6 +23,9 @@ sources:
   tier: 1
   outlet: The New York Times
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Military-Industrial Complex
 ---
 
 President Trump publicly named Jack Smith, Andrew Weissmann, and Lisa Monaco as targets for federal prosecution while Attorney General Pam Bondi and FBI Director Kash Patel stood silently beside him, signaling their complicity. The public targeting of former prosecutors and Justice Department officials who investigated Trump represents the complete transformation of DOJ into a partisan weapon for personal vendettas. Trump's unprecedented public directive to prosecute named individuals—delivered with senior law enforcement officials present—demonstrates the erosion of DOJ independence and the institutionalization of political persecution. The event follows a pattern where Trump's former personal defense attorneys now occupy top DOJ positions (Bondi as AG, Todd Blanche as Deputy AG, Lindsey Halligan as acting U.S. Attorney), eliminating any separation between Trump's personal interests and federal law enforcement.

@@ -17,12 +17,12 @@ tags:
 - white-collar-crime
 - justice-department
 sources:
-- title: 'Were Bankers Jailed In Past Financial Crises?'
+- title: Were Bankers Jailed In Past Financial Crises?
   url: https://www.pbs.org/wgbh/frontline/article/were-bankers-jailed-in-past-financial-crises/
   outlet: PBS Frontline
   date: '2024-01-01'
   verified: true
-- title: 'Hundreds of Wall Street Execs Went to Prison During Last Fraud-Fueled Crisis'
+- title: Hundreds of Wall Street Execs Went to Prison During Last Fraud-Fueled Crisis
   url: https://billmoyers.com/2013/09/17/hundreds-of-wall-street-execs-went-to-prison-during-the-last-fraud-fueled-bank-crisis/
   outlet: Bill Moyers
   date: '2013-09-17'
@@ -32,6 +32,10 @@ sources:
   outlet: AllGov
   date: '2013-09-13'
   verified: true
+capture_lanes:
+- Systematic Corruption
+- Regulatory Capture
+- Financial Capture
 ---
 
 Between 1988 and 1992, the Department of Justice prosecutes over 1,000 savings and loan bankers for fraud and related crimes during the S&L crisis, with regulators making over 30,000 criminal referrals that produce felony convictions in cases designated as "major" by DOJ. Federal prosecutors achieve a 90% conviction rate in prosecutions of the top 100 worst fraud schemes, sending 1,706 bankers to prison and securing 2,603 guilty verdicts. The aggressive prosecution effort demonstrates that systematic white-collar financial fraud can be successfully investigated and punished when prosecutors prioritize accountability over protecting industry relationships.

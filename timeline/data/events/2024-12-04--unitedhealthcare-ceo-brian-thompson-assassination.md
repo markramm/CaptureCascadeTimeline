@@ -30,6 +30,8 @@ sources:
   date: '2024-12-17'
   tier: 1
   outlet: Department of Justice
+capture_lanes:
+- Systematic Corruption
 ---
 
 On December 4, 2024, Brian Thompson, CEO of UnitedHealthcare, was shot and killed outside the New York Hilton Midtown in Manhattan. The assassination, allegedly carried out by 26-year-old Luigi Mangione, exposed widespread public anger at the American health insurance industry's systematic denial of medical care for profit. The public reaction—celebrating the killing and lionizing the suspect—revealed the depth of rage at insurance companies' business models that prioritize denying claims over providing healthcare, making this a watershed moment in American healthcare politics.

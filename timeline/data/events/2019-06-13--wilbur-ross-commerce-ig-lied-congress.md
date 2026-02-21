@@ -31,6 +31,10 @@ sources:
   date: 2018-06-18
   tier: 1
   outlet: Center for Public Integrity
+capture_lanes:
+- Systematic Corruption
+- International Kleptocracy
+- Financial Capture
 ---
 
 The Commerce Department Inspector General found that Secretary Wilbur Ross lied to Congress about multiple issues, including the addition of a citizenship question to the 2020 Census and his divestment of Navigator Holdings stock. Ross twice told Congress the addition of the citizenship question was based solely on a request from the Justice Department, but the IG found Ross "misrepresented the full rationale" behind the decision. The IG presented its findings to the Justice Department's Public Integrity Section of the Criminal Division, but DOJ declined to pursue prosecution despite evidence of false statements to Congress.

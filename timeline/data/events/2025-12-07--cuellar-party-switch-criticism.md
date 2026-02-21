@@ -31,6 +31,10 @@ sources:
   date: '2025-12-07'
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Systematic Corruption
+- Legislative Capture
+- Electoral Manipulation
 ---
 
 # Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon

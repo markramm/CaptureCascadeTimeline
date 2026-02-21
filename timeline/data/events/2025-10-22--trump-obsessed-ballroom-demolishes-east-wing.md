@@ -26,6 +26,10 @@ sources:
   outlet: NPR
   tier: 1
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Executive Power Expansion
+- Military-Industrial Complex
 ---
 
 President Trump demolished the entire historic White House East Wing in October 2025 to build a 90,000-square-foot $300 million ballroom, funded by corporate donors including Amazon, Google, Meta, and Lockheed Martin, while spending hours obsessing over marble choices and column styles as Stephen Miller and Russ Vought effectively run the government. White House aides reported Trump "fidgeting with 3D-printed models of the ballroom during tense moments" and fixating on design details even as the administration faced crises. The demolition proceeded despite Trump's earlier promise the project "won't interfere with the current building" and over objections from the National Trust for Historic Preservation, which demanded legally required public review processes be followed. Trump increased the project cost estimate from $200-250 million to "around $300 million" while 57% of Americans disapproved of the demolition and 61% opposed the ballroom plans. The East Wing was reduced to "a pile of rubble" as Trump bypassed historic preservation requirements to pursue his personal vanity project. Polling showed Trump discussing the ballroom renovation constantly, including at inappropriate times, demonstrating his disengagement from governance as Miller and Vought implement their white nationalist and Christian nationalist agendas. The ballroom project exemplifies kleptocratic corruption, with corporations funding a presidential vanity project in exchange for access and favorable treatment, while Trump obsesses over luxury details instead of governing. The demolition occurred during the October government shutdown Vought orchestrated to freeze $26 billion in blue state funding, creating stark contrast between Trump's $300 million ballroom and Americans facing furloughs and frozen infrastructure projects.

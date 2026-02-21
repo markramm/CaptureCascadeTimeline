@@ -29,6 +29,10 @@ sources:
   date: 2018-02-06
   tier: 1
   outlet: NBC News
+capture_lanes:
+- Systematic Corruption
+- Judicial Capture
+- Media Capture & Control
 ---
 
 U.S. District Judge Gonzalo Curiel issued a final order on April 10, 2018 concluding the Trump University litigation and authorizing distribution of the $25 million settlement to approximately 3,730 victims who would receive at least 90 percent of their money back. The finalization came more than a year after the initial settlement approval in March 2017, delayed by an appeal from one class member who sought to opt out of the settlement. With the appeal resolved, victims of what court documents described as Trump's "fraudulent scheme" finally received restitution for money lost to Trump University's predatory sales tactics. The settlement closure occurred while Trump was serving as president, marking one of the few instances of accountability for his business fraud while in office.

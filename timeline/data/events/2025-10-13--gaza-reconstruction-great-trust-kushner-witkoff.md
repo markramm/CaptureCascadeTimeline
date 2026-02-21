@@ -29,6 +29,9 @@ tags:
 - self-dealing
 - international-corruption
 - war-profiteering
+capture_lanes:
+- Systematic Corruption
+- Financial Capture
 ---
 
 At an international summit in Sharm El Sheikh, Egypt on October 13, 2025, the Trump administration formally presented the Gaza Reconstitution, Economic Acceleration and Transformation (GREAT) Trust plan, with Trump Special Envoy Steve Witkoff and adviser Jared Kushner leading negotiations. The plan proposes 'voluntary' relocation of Gaza's population, a ten-year period of U.S. governance, and construction of six to eight new cities across the Strip. Central to the plan are 10 'megaprojects' including an 'Elon Musk Smart Manufacturing Zone' and luxury resorts. Kushner and Witkoff pitched the reconstruction as a roughly $50 billion real estate development opportunity in a '60 Minutes' interview. Trump would personally chair the 'Board of Peace' for the GREAT Trust. The plan eliminates Palestinian agency over reconstruction while incentivizing displacement. Critics characterize it as a blueprint for dispossession disguised as peace-building, with the Trump family positioned to control lucrative reconstruction contracts. This represents personal financial enrichment schemes wrapped in diplomatic language, transforming humanitarian reconstruction into a kleptocratic real estate opportunity for Trump allies.

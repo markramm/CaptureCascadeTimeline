@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Regulatory Capture
+- Labor Suppression
 ---
 
 The U.S. Department of Education imposed a 21-day hold on all federal aid flowing to Corinthian Colleges on June 12, 2014, after the for-profit chain—operating as Everest College, WyoTech, and Heald College—refused to provide documentation substantiating falsified job placement rates. The action came after 20 states, the Securities and Exchange Commission, the Consumer Financial Protection Bureau, and the Justice Department launched concurrent investigations into systemic fraud affecting 72,000 students and 12,000 employees across more than 100 campuses.

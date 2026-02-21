@@ -38,4 +38,8 @@ sources:
   date: 2015-10-28
   tier: 2
   outlet: ABC News
+capture_lanes:
+- Systematic Corruption
+- Legislative Capture
+- Financial Capture
 ---

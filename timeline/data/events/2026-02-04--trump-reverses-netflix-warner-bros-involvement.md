@@ -23,6 +23,10 @@ sources:
   outlet: CNBC
   date: '2026-02-04'
   tier: 2
+capture_lanes:
+- Systematic Corruption
+- Military-Industrial Complex
+- Corporate Capture
 ---
 
 President Donald Trump told NBC News he plans to stay out of Netflix and Paramount Skydance's battle over Warner Bros. Discovery—a reversal from comments he made in December suggesting he could personally weigh in on the deal. "I shouldn't be involved," Trump told NBC Nightly News anchor Tom Llamas in an Oval Office interview. "It's the two sides, but I've decided I shouldn't be involved. The Justice Department will handle it."

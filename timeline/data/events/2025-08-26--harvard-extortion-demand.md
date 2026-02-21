@@ -27,6 +27,8 @@ sources:
   title: Trump Seeks $500 Million From Harvard Amid Funding Freeze, Campus Dispute
   tier: 1
   outlet: Bloomberg
+capture_lanes:
+- Systematic Corruption
 ---
 
 During a Cabinet meeting, Trump demanded Harvard University pay 'nothing less than $500 million' to restore billions of dollars in frozen federal research funding, calling the university 'very bad.' The demand came after Harvard and the Trump administration restarted negotiations in June following settlements with peer institutions including Columbia University, which paid over $200 million for funding access. Trump stated the payment would fund 'a giant trade school, a series of trade schools that would be run by Harvard,' though critics characterized the scheme as extortion and creation of patronage slush funds. Harvard President Alan Garber initially drew praise from civil society groups for urging the university to 'stand firm' against what they called Trump's 'brazen extortion scheme.' The weaponization of federal research funding—totaling over $2.6 billion annually for Harvard—represents systematic use of government appropriations as political leverage to extract payments from institutions that refuse to capitulate to administration demands, fundamentally undermining academic independence and the integrity of merit-based research funding.

@@ -20,10 +20,9 @@ tags:
 - campaign-consultants
 - honduras
 capture_lanes:
-- Corruption and Self-Dealing
-- Foreign Policy Weaponization
-- Pardon Abuse
-- Democratic Norms Erosion
+- Systematic Corruption
+- Executive Power Expansion
+- Democratic Erosion
 sources:
 - title: Former Trump Campaign Chief Involved in Honduras Politics
   url: https://ticotimes.net/2025/12/04/former-trump-campaign-chief-involved-in-honduras-politics

@@ -23,6 +23,10 @@ sources:
   date: '2025-08-19'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Systematic Corruption
+- Financial Capture
+- Digital & Tech Capture
 ---
 
 Treasury Secretary Scott Bessent missed the 90-day ethics deadline for divesting conflicted assets, retaining up to $25 million in North Dakota farmland generating up to $1 million annually in rental income. Bessent owns soybean and corn farmland while shaping agricultural trade policy and farm subsidy decisions.

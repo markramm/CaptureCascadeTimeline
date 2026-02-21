@@ -31,6 +31,10 @@ sources:
   date: '2020-02-19'
   tier: 2
   outlet: Los Angeles Magazine
+capture_lanes:
+- Systematic Corruption
+- Intelligence Penetration
+- Electoral Manipulation
 ---
 
 Oracle Chairman Larry Ellison hosted President Donald Trump at his Rancho Mirage, California estate on February 19, 2020, for a high-dollar campaign fundraiser that raised approximately $7 million for Trump's reelection campaign. Attendees paid $100,000 for a golf outing and photo opportunity with the president, while those contributing an additional $150,000 gained access to a private round-table discussion. The event took place at Ellison's Porcupine Creek estate, less than two weeks before California's Super Tuesday primary election.

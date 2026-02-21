@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Systematic Corruption
+- Legislative Capture
+- Surveillance Infrastructure
 ---
 
 The House Oversight Committee released Jeffrey Epstein's 238-page birthday book "The First Fifty Years," compiled by Ghislaine Maxwell for Epstein's 50th birthday in 2003. The album contains two deeply disturbing contributions connected to Donald Trump that reveal the culture at Mar-a-Lago and Trump's relationship with Epstein.
