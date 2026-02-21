@@ -10,7 +10,7 @@ tags:
 - corruption
 - oligarchs
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Trump's Tariff Exemptions and Russian Oligarchs

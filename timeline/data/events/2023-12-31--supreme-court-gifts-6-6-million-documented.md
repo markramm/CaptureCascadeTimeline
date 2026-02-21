@@ -18,7 +18,7 @@ tags:
 - systematic-corruption
 - investigation-findings
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Fix the Court Gift Database
   url: https://fixthecourt.com/supreme-court-gifts/
@@ -33,9 +33,7 @@ sources:
   url: https://www.rawstory.com/supreme-court-gifts-database/
   outlet: Raw Story
   date: '2023-12-31'
-notes: Database shows systematic pattern of undisclosed gifts. Thomas received largest
-  share. Pattern shows correlation between gifts and favorable rulings for donors.
-  Scale proves institutional corruption not isolated incidents.
+notes: Database shows systematic pattern of undisclosed gifts. Thomas received largest share. Pattern shows correlation between gifts and favorable rulings for donors. Scale proves institutional corruption not isolated incidents.
 status: confirmed
 ---
 

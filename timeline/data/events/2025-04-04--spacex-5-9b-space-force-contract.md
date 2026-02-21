@@ -19,7 +19,7 @@ tags:
 - elon-musk
 - space-force
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: SpaceX, ULA, Blue Origin clinch $13.5 billion-dollar Pentagon launch contracts
   url: https://www.cnbc.com/2025/04/04/spacex-ula-blue-origin-clinch-13point5-billion-dollar-pentagon-launch-contracts.html

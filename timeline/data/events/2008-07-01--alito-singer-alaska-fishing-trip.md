@@ -17,22 +17,20 @@ tags:
 - luxury-travel
 - conflict-of-interest
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Judicial Capture & Corruption
+- International Kleptocracy
+- Judicial Capture
 sources:
 - title: Alito Took Unreported Luxury Trip With GOP Donor Paul Singer
   url: https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
   outlet: ProPublica
   date: '2023-06-20'
   archive_url: https://web.archive.org/web/20230620000000/https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court
-- title: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from
-    GOP donor
+- title: Supreme Court Justice Alito faces scrutiny over undisclosed luxury trip from GOP donor
   url: https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor
   outlet: PBS NewsHour
   date: '2023-06-21'
   archive_url: https://web.archive.org/web/20230621000000/https://www.pbs.org/newshour/show/supreme-court-justice-alito-faces-scrutiny-over-undisclosed-luxury-trip-from-gop-donor
-- title: New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny
-    of Supreme Court ethics
+- title: New report on Justice Samuel Alito's travel with GOP donor draws more scrutiny of Supreme Court ethics
   url: https://www.cbsnews.com/news/samuel-alito-propublica-supreme-court-ethics-paul-singer/
   outlet: CBS News
   date: '2023-06-21'
@@ -42,9 +40,7 @@ sources:
   outlet: NPR
   date: '2023-06-22'
   archive_url: https://web.archive.org/web/20230622000000/https://www.npr.org/2023/06/22/1183653522/samuel-alito-is-the-latest-supreme-court-justice-to-face-ethics-questions
-notes: Trip organized by Leonard Leo of Federalist Society. Singer's hedge fund had
-  business before SCOTUS at least 10 times after trip. In 2014, Alito voted in Singer's
-  favor in case against Argentina worth $2.4 billion.
+notes: Trip organized by Leonard Leo of Federalist Society. Singer's hedge fund had business before SCOTUS at least 10 times after trip. In 2014, Alito voted in Singer's favor in case against Argentina worth $2.4 billion.
 status: confirmed
 ---
 

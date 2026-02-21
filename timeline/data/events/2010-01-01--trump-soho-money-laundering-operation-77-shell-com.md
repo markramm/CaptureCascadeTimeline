@@ -20,7 +20,7 @@ tags:
 - bayrock-group
 - tax-evasion
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: 'Trump SoHo: A Shiny Hotel Wrapped In Glass, But Hiding Mysteries'
   url: https://www.npr.org/2017/11/07/560849787/trump-soho-a-shiny-hotel-wrapped-in-glass-but-hiding-mysteries

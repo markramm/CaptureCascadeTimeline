@@ -13,7 +13,7 @@ tags:
 - money-laundering
 - regulatory-rollback
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Tornado Cash Delisting
   url: https://home.treasury.gov/news/press-releases/sb0057

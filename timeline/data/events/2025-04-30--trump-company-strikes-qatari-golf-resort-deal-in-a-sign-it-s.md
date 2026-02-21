@@ -2,11 +2,7 @@
 id: 2025-04-30--trump-company-strikes-qatari-golf-resort-deal-in-a-sign-it-s
 date: '2025-04-30'
 title: Trump Company Strikes $5.5 Billion Qatar Golf Resort Deal During Active Presidency
-description: A $5.5 billion golf resort development in Qatar, featuring a Trump International
-  Golf Course and branded villas, marks the Trump Organization's first major Middle
-  Eastern real estate project. The deal involves Qatari Diar (a Qatari government-owned
-  company) and Dar Global (the international arm of Saudi developer Dar Al Arkan),
-  highlighting complex geopolitical business relationships.
+description: A $5.5 billion golf resort development in Qatar, featuring a Trump International Golf Course and branded villas, marks the Trump Organization's first major Middle Eastern real estate project. The deal involves Qatari Diar (a Qatari government-owned company) and Dar Global (the international arm of Saudi developer Dar Al Arkan), highlighting complex geopolitical business relationships.
 location: Simaisma, Qatar
 importance: 8
 actors:
@@ -23,13 +19,11 @@ sources:
   url: https://www.newsweek.com/new-trump-golf-course-55-billion-beachside-project-announced-qatar-2066482
 - date: '2025-05-12'
   outlet: Axios
-  title: What to know about Trump's history with Qatar, which wants to gift him a
-    plane
+  title: What to know about Trump's history with Qatar, which wants to gift him a plane
   url: https://www.axios.com/2025/05/12/trump-qatar-plane-history-golf-club
 - date: '2025-05-13'
   outlet: Ground News
-  title: Trump Organization to Build Golf Course in Qatar Amid White House Regional
-    Visit
+  title: Trump Organization to Build Golf Course in Qatar Amid White House Regional Visit
   url: https://ground.news/article/trump-org-to-build-golf-course-in-qatar-as-white-house-announces-official-visit-to-region
 tags:
 - foreign-influence
@@ -43,15 +37,13 @@ patterns:
 - monetizing-presidential-power
 capture_lanes:
 - Systematic Corruption
-- Foreign Business Influence
-- Presidential Ethics Violations
+- International Kleptocracy
 connections:
 - Middle East Business Expansion
 - Presidential Conflicts of Interest
 - International Real Estate Development
 capture_type: monetizing_position
-notes: Controversial deal involving government-linked entities during active presidency,
-  raising significant ethical and policy conflict concerns.
+notes: Controversial deal involving government-linked entities during active presidency, raising significant ethical and policy conflict concerns.
 status: confirmed
 ---
 

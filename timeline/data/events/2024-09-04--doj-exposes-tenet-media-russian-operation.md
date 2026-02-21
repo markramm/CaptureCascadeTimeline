@@ -2,8 +2,7 @@
 id: 2024-09-04--doj-exposes-tenet-media-russian-operation
 date: '2024-09-04'
 importance: 10
-title: DOJ Unseals Indictment Revealing $10 Million Russian Funding of Tenet Media
-  Influencers
+title: DOJ Unseals Indictment Revealing $10 Million Russian Funding of Tenet Media Influencers
 location: United States
 actors:
 - Department of Justice
@@ -23,7 +22,7 @@ tags:
 - information-warfare
 - podcast-ecosystem
 capture_lanes:
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: DOJ alleges Russia funded company linked to Tim Pool
   url: https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html
@@ -44,11 +43,7 @@ sources:
   url: https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube
   outlet: NPR
   date: '2024-09-05'
-notes: RT funneled $9.7 million to Tenet Media (90% of company's bank deposits). Influencers
-  like Tim Pool received up to $100,000 per video. Two RT employees (Kostya and Lena)
-  indicted for covert funding. Scheme used shell companies in Turkey, UAE, and Mauritius.
-  Over 2,000 videos produced with 16 million YouTube views. Demonstrates sophisticated
-  foreign influence operation targeting 2024 election.
+notes: RT funneled $9.7 million to Tenet Media (90% of company's bank deposits). Influencers like Tim Pool received up to $100,000 per video. Two RT employees (Kostya and Lena) indicted for covert funding. Scheme used shell companies in Turkey, UAE, and Mauritius. Over 2,000 videos produced with 16 million YouTube views. Demonstrates sophisticated foreign influence operation targeting 2024 election.
 status: confirmed
 ---
 

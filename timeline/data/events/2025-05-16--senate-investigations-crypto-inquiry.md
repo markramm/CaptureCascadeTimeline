@@ -16,11 +16,9 @@ tags:
 - foreign-influence
 - investigation
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
-- title: Permanent Subcommittee on Investigations Opens Inquiry into Trump Crypto
-    Corruption
+- title: Permanent Subcommittee on Investigations Opens Inquiry into Trump Crypto Corruption
   url: https://www.blumenthal.senate.gov/newsroom/press/release/permanent-subcommittee-on-investigations-opens-inquiry-into-trump-crypto-corruption
   outlet: U.S. Senator Richard Blumenthal
   date: '2025-05-16'
@@ -36,8 +34,7 @@ sources:
   url: https://www.cnbc.com/2025/05/07/democrats-push-back-against-trumps-growing-crypto-empire.html
   outlet: CNBC
   date: '2025-05-07'
-notes: Blumenthal focused on $TRUMP meme coin and World Liberty Financial dealings
-  with foreign entities; Trump's legal team pushed back against corruption claims
+notes: Blumenthal focused on $TRUMP meme coin and World Liberty Financial dealings with foreign entities; Trump's legal team pushed back against corruption claims
 status: confirmed
 ---
 

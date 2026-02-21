@@ -12,17 +12,15 @@ actors:
 capture_lanes:
 - Systematic Corruption
 - Financial Capture
-- Foreign Influence
+- International Kleptocracy
 capture_type: monetizing_position
 connections: []
 date: '2025-04-23'
-description: Trump offered a private dinner to the top 220 investors in his memecoin,
-  causing it to surge in price from market manipulation
+description: Trump offered a private dinner to the top 220 investors in his memecoin, causing it to surge in price from market manipulation
 id: 2025-04-23--trump-offers-private-dinner-to-top-220-investors-in-his-meme
 importance: 8
 location: Washington, D.C.
-notes: Event demonstrates potential market manipulation using presidential access
-  and foreign investment influence
+notes: Event demonstrates potential market manipulation using presidential access and foreign investment influence
 patterns:
 - kleptocratic-capture
 - financial-speculation
@@ -30,8 +28,7 @@ patterns:
 sources:
 - date: '2025-04-23'
   outlet: Fortune Crypto
-  title: Trump memecoin spikes 58% in value after top holders are promised a private
-    dinner with the president
+  title: Trump memecoin spikes 58% in value after top holders are promised a private dinner with the president
   url: https://fortune.com/crypto/2025/04/23/trump-memecoin-spikes-private-dinner-president/
 - date: '2025-04-25'
   outlet: U.S. House of Representatives

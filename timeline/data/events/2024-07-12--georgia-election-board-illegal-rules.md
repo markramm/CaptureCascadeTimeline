@@ -20,7 +20,7 @@ tags:
 - certification-delay
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Georgia Supreme Court strikes down election board rules
@@ -35,9 +35,7 @@ sources:
   url: https://www.ajc.com/politics/georgia-supreme-court-election-rules/
   outlet: Atlanta Journal-Constitution
   date: '2024-10-15'
-notes: Board attempted to create chaos through hand-counting requirements and certification
-  delays. Rules coordinated with national Republican strategy to contest elections.
-  Court intervention prevented disruption of 2024 election.
+notes: Board attempted to create chaos through hand-counting requirements and certification delays. Rules coordinated with national Republican strategy to contest elections. Court intervention prevented disruption of 2024 election.
 ---
 
 Georgia State Election Board with Republican majority including Janelle King, Janice Johnston, and Rick Jeffares passed multiple illegal rules between July and September 2024 coordinated with Republican National Committee. Rules included hand-count ballot requirements, "reasonable inquiry" provisions before certification, and expanded poll watcher access designed to create confusion and delays. Georgia Supreme Court invalidated four rules after finding board violated procedural requirements, including holding rushed July 12, 2024 meeting without proper notice. Attempt to sabotage election administration through regulatory capture.

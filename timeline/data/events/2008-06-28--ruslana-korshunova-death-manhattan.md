@@ -1,8 +1,7 @@
 ---
 id: 2008-06-28--ruslana-korshunova-death-manhattan
 date: '2008-06-28'
-title: Model Ruslana Korshunova dies in suspicious fall two years after Epstein island
-  visit
+title: Model Ruslana Korshunova dies in suspicious fall two years after Epstein island visit
 importance: 9
 status: confirmed
 actors:
@@ -20,7 +19,7 @@ tags:
 - trafficking-network
 capture_lanes:
 - Intelligence Penetration
-- Trafficking Networks
+- International Kleptocracy
 sources:
 - date: '2008-06-30'
   outlet: NY Daily News

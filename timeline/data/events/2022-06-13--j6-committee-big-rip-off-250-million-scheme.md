@@ -2,8 +2,7 @@
 id: 2022-06-13--j6-committee-big-rip-off-250-million-scheme
 date: '2022-06-13'
 importance: 8
-title: January 6th Committee Exposes "Big Rip-Off" - $250 Million Fraudulent Fundraising
-  Scheme
+title: January 6th Committee Exposes "Big Rip-Off" - $250 Million Fraudulent Fundraising Scheme
 location: Washington DC
 actors:
 - Donald Trump
@@ -21,28 +20,22 @@ tags:
 - donor-deception
 - political-corruption
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
-- title: Jan. 6 panel finds Trump campaign knew election fraud claims were false but
-    raised $250 million from it anyway
+- title: Jan. 6 panel finds Trump campaign knew election fraud claims were false but raised $250 million from it anyway
   url: https://www.washingtonpost.com/national-security/2022/06/13/jan6-hearing-trump-fundraising/
   outlet: The Washington Post
   date: '2022-06-13'
-- title: Trump raised $250 million to fight election fraud claims. Here's where that
-    money went
+- title: Trump raised $250 million to fight election fraud claims. Here's where that money went
   url: https://www.cnn.com/2022/06/13/politics/january-6-hearing-donald-trump-fundraising/index.html
   outlet: CNN
   date: '2022-06-13'
-- title: Jan. 6 committee says Trump engaged in "Big Rip-Off" by fundraising off election
-    lies
+- title: Jan. 6 committee says Trump engaged in "Big Rip-Off" by fundraising off election lies
   url: https://www.cbsnews.com/news/january-6-committee-hearing-trump-big-rip-off-fundraising/
   outlet: CBS News
   date: '2022-06-13'
-notes: Committee investigator Amanda Wick testified that despite claims, the "Official
-  Election Defense Fund" was a marketing tactic that never existed as a formal fund.
-  Money went to Trump's Save America PAC and affiliated entities instead of election
-  challenges.
+notes: Committee investigator Amanda Wick testified that despite claims, the "Official Election Defense Fund" was a marketing tactic that never existed as a formal fund. Money went to Trump's Save America PAC and affiliated entities instead of election challenges.
 ---
 
 House January 6th Committee's second hearing revealed Trump raised $250 million post-election through fraudulent "Official Election Defense Fund" that never existed. Committee found Trump's team sent up to 25 fraudulent fundraising emails daily, raising $100 million in first week after election loss. Only small fraction went to election challenges; most funded Trump's Save America PAC, paid campaign debts, and enriched Trump properties. Committee member Zoe Lofgren stated "The Big Lie was also a big rip-off."

@@ -2,9 +2,7 @@
 id: 2025-05-06--top-trump-crypto-buyers-vying-for-dinner-seats-are-likely-fo
 date: '2025-05-06'
 title: Trump's Cryptocurrency Dinner Reveals Majority Foreign Buyers
-description: Analysis reveals that most top cryptocurrency token holders invited to
-  Trump's exclusive dinner are foreign nationals, highlighting potential conflicts
-  of interest and foreign influence in presidential access.
+description: Analysis reveals that most top cryptocurrency token holders invited to Trump's exclusive dinner are foreign nationals, highlighting potential conflicts of interest and foreign influence in presidential access.
 status: confirmed
 importance: 8
 location: Virginia Golf Club
@@ -20,8 +18,7 @@ tags:
 capture_type: monetizing_position
 sources:
 - outlet: Fortune Crypto
-  title: Trump is hosting a dinner for the biggest buyers of his memecoin. The guest
-    list is now set—and many of the winners are foreign nationals
+  title: Trump is hosting a dinner for the biggest buyers of his memecoin. The guest list is now set—and many of the winners are foreign nationals
   date: '2025-05-12'
   url: https://fortune.com/crypto/2025/05/12/trump-memecoin-dinner-justin-sun-memecore-kain-warwick/
 - outlet: CNBC
@@ -29,19 +26,17 @@ sources:
   date: '2025-05-18'
   url: https://www.cnbc.com/2025/05/18/trump-coin-dinner-to-include-mostly-non-americans-based-on-top-holders.html
 - outlet: House Judiciary Committee Democrats
-  title: Ranking Member Raskin Demands White House Disclose Trump's Crypto Dinner
-    Guest List
+  title: Ranking Member Raskin Demands White House Disclose Trump's Crypto Dinner Guest List
   date: '2025-05-16'
   url: https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-demands-white-house-disclose-trump-s-crypto-dinner-guest-list
 connections: []
 patterns:
 - kleptocratic-capture
 - monetizing-political-position
-notes: Event highlights potential foreign influence through cryptocurrency market
-  manipulation and presidential access sale.
+notes: Event highlights potential foreign influence through cryptocurrency market manipulation and presidential access sale.
 capture_lanes:
 - Systematic Corruption
-- Foreign Influence
+- International Kleptocracy
 ---
 
 Over 56% of Trump's memecoin top buyers invited to a 220-person dinner were foreign nationals, raising significant ethical concerns about presidential access being sold to international investors. The top cryptocurrency holders spent $394 million to attend the event, with billionaire Justin Sun prominently featured.

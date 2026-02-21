@@ -41,6 +41,10 @@ actors:
 - Mohammed bin Salman
 - Human Rights Watch
 - Save the Children
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Intelligence Penetration
 ---
 
 On August 9, 2018, shortly before 8:30 AM, a Saudi-led coalition airstrike hit a school bus traveling through a crowded market in Dahyan, Saada governorate, Yemen, killing 40 children and 11 adults and wounding 79 others, including 56 children. The boys, aged 6 to 15, were on a summer school excursion organized by a local mosque, traveling in a bus clearly marked as transporting children. The weapon used was identified as a 500-pound laser-guided MK 82 bomb manufactured by Lockheed Martin, converted to a precision-guided munition using technology from US defense contractors. CNN investigators examining bomb fragments at the scene identified manufacturer codes linking the weapon to Lockheed Martin facilities in Pennsylvania and Texas. Human Rights Watch characterized the attack as an apparent war crime, noting that even if coalition forces believed a legitimate military target was present (which no evidence suggested), the attack's civilian casualties were clearly disproportionate to any conceivable military advantage.

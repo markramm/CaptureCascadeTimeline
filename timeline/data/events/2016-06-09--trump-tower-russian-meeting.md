@@ -2,8 +2,7 @@
 id: 2016-06-09--trump-tower-russian-meeting
 date: '2016-06-09'
 importance: 6
-title: Trump Jr. Accepts Meeting Explicitly Framed as "Russia and Its Government's
-  Support"
+title: Trump Jr. Accepts Meeting Explicitly Framed as "Russia and Its Government's Support"
 location: Trump Tower, New York City
 actors:
 - Donald Trump Jr.
@@ -21,7 +20,7 @@ tags:
 - disinformation
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: 'Mueller Report Volume I: June 9, 2016 Meeting at Trump Tower'
@@ -36,9 +35,7 @@ sources:
   url: https://www.washingtonpost.com/politics/trump-dictated-sons-misleading-statement-on-meeting-with-russian-lawyer/2017/07/31/04c94f96-73ae-11e7-8f39-eeb7d3a2d304_story.html
   outlet: The Washington Post
   date: '2017-07-31'
-notes: Mueller Report pages 110-123 detail meeting setup and cover-up. Email explicitly
-  stated Russian government support, establishing precedent for accepting foreign
-  assistance as electoral currency.
+notes: Mueller Report pages 110-123 detail meeting setup and cover-up. Email explicitly stated Russian government support, establishing precedent for accepting foreign assistance as electoral currency.
 ---
 
 Donald Trump Jr. accepted meeting at Trump Tower after being promised "official documents and information that would incriminate Hillary" as "part of Russia and its government's support for Mr. Trump." Meeting included Russian lawyer Natalia Veselnitskaya, Rinat Akhmetshin (former Soviet counterintelligence officer), and others. Mueller team analyzed as potential campaign finance violation involving "thing of value" from foreign nationals. Trump personally dictated false statement claiming meeting was about Russian adoptions, deleting acknowledgment of political dirt.

@@ -42,6 +42,10 @@ actors:
 - Boeing
 - Saudi Arabia
 - Mohammed bin Salman
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 On May 24, 2019, the Trump administration invoked a rarely-used emergency provision of the Arms Export Control Act to bypass congressional review and ram through 22 separate arms sales worth $8.1 billion to Saudi Arabia, the UAE, and Jordan. Secretary of State Mike Pompeo declared an "emergency" based on alleged Iranian threats, claiming the sales were necessary to "deter further the malign influence of the Government of Iran throughout the Middle East region." The emergency declaration circumvented Congress's standard 30-day review period for major arms sales, preventing lawmakers from blocking weapons transfers despite bipartisan opposition driven by Saudi war crimes in Yemen and the Khashoggi murder. The deals included sophisticated weapons systems from Raytheon, Lockheed Martin, and Boeing, with Raytheon benefiting from contracts for precision-guided Paveway munitions and an unprecedented technology transfer agreement allowing Saudi Arabia to manufacture bomb components domestically.

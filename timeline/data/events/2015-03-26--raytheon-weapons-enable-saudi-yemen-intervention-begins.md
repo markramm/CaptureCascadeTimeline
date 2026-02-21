@@ -39,6 +39,10 @@ actors:
 - Lockheed Martin
 - Barack Obama
 - Houthi forces
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Labor Suppression
 ---
 
 On March 26, 2015, Saudi Arabia launched military intervention in Yemen's civil war, beginning an eight-year bombing campaign that would kill over 19,000 civilians and create what the UN characterized as the world's worst humanitarian crisis. The Saudi-led coalition initiated operations armed with billions of dollars in US weapons systems, with Raytheon serving as a primary supplier of the precision-guided munitions, Patriot missile defenses, and radar systems that would enable thousands of airstrikes. The Obama administration provided extensive support including intelligence sharing, aerial refueling, and expedited weapons transfers, with US defense contractors including Raytheon, Lockheed Martin, and Boeing collectively earning tens of billions from Saudi contracts during the war. Over the following eight years, human rights organizations would document at least 21 apparently unlawful coalition attacks involving US-manufactured weapons, with Raytheon Paveway bombs specifically identified in attacks on funerals, weddings, hospitals, school buses, and civilian infrastructure that killed thousands.

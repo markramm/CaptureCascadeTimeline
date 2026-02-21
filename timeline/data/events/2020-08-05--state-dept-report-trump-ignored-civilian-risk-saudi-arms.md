@@ -35,6 +35,10 @@ actors:
 - Saudi Arabia
 - State Department Inspector General
 - Steve Linick
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Regulatory Capture
 ---
 
 On August 5, 2020, the State Department released a report revealing that the Trump administration failed to properly assess risks of civilian casualties when approving the May 2019 $8.1 billion emergency arms sale to Saudi Arabia, including major Raytheon weapons contracts. The report—prepared by the State Department Inspector General's office—found that despite laws requiring assessment of civilian casualty risks before approving arms transfers, the Trump administration prioritized speed in approving Saudi sales over compliance with legal safeguards designed to prevent US weapons from enabling war crimes. Investigators found evidence that Secretary of State Mike Pompeo "reverse-engineered" justifications for the emergency declaration after deciding to proceed with sales, manufacturing an Iranian threat rationale to bypass congressional oversight rather than responding to genuine emergency conditions. The report vindicated congressional critics who had argued the emergency declaration was a pretext to avoid democratic accountability for controversial Raytheon weapons sales to a regime committing documented Yemen atrocities.

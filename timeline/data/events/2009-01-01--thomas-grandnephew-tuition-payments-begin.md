@@ -18,8 +18,8 @@ tags:
 - education-payments
 - ethics-violation
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Judicial Capture & Corruption
+- International Kleptocracy
+- Judicial Capture
 sources:
 - title: Clarence Thomas Had a Child in Private School. Harlan Crow Paid the Tuition
   url: https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus
@@ -36,15 +36,12 @@ sources:
   outlet: The Washington Post
   date: '2023-05-04'
   archive_url: https://web.archive.org/web/20230504000000/https://www.washingtonpost.com/politics/2023/05/04/clarence-thomas-tuition-harlan-crow/
-- title: ProPublica - GOP megadonor paid private school tuition for grandnephew of
-    Justice Clarence Thomas
+- title: ProPublica - GOP megadonor paid private school tuition for grandnephew of Justice Clarence Thomas
   url: https://www.cnn.com/2023/05/04/politics/clarence-thomas-harlan-crow-tuition
   outlet: CNN
   date: '2023-05-04'
   archive_url: https://web.archive.org/web/20230504000000/https://www.cnn.com/2023/05/04/politics/clarence-thomas-harlan-crow-tuition
-notes: Bank records show Crow Holdings LLC wired monthly payments marked "Mark Martin".
-  Tuition at Hidden Lake Academy was $73,000/year. Payments covered two years at two
-  schools.
+notes: Bank records show Crow Holdings LLC wired monthly payments marked "Mark Martin". Tuition at Hidden Lake Academy was $73,000/year. Payments covered two years at two schools.
 status: confirmed
 ---
 

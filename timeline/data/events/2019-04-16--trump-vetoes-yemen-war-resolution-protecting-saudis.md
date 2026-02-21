@@ -39,6 +39,10 @@ sources:
   date: 2019-04-16
   tier: 1
   outlet: White House Archives
+capture_lanes:
+- International Kleptocracy
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 On April 16, 2019, President Trump vetoes S.J. Res. 7, a bipartisan congressional resolution invoking the War Powers Resolution to end U.S. military support for the Saudi-led war in Yemen. The veto protects Crown Prince Mohammed bin Salman six months after the CIA concluded with high confidence that MBS ordered the murder of journalist Jamal Khashoggi. Trump's action ensures continued U.S. complicity in what the United Nations calls "the worst humanitarian crisis in the world."

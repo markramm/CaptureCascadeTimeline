@@ -13,7 +13,7 @@ tags:
 - conflict-of-interest
 - self-dealing
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Trump signs landmark GENIUS Act, hailing 'exciting new frontier' for crypto
   url: https://www.cbsnews.com/news/trump-signs-genius-act-crypto-bill/

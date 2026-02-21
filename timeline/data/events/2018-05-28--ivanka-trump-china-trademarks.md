@@ -4,13 +4,12 @@ actors:
 - Ivanka Trump Marks LLC
 - China National Intellectual Property Administration
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 date: '2018-05-28'
 id: 2018-05-28--ivanka-trump-china-trademarks
 importance: 6
 location: China
-notes: 'Use AP''s counts and dates; present both the company''s explanation and watchdog
-  concerns.
+notes: 'Use AP''s counts and dates; present both the company''s explanation and watchdog concerns.
 
   '
 patterns: []
@@ -38,8 +37,7 @@ sources:
   - Trademark approvals raised conflict of interest concerns
   - Trademarks included diverse product categories
   outlet: CNBC
-  title: Ivanka Trump's Chinese trademarks raise questions about potential conflicts
-    of interest
+  title: Ivanka Trump's Chinese trademarks raise questions about potential conflicts of interest
   url: https://www.cnbc.com/2018/05/29/ivanka-trump-chinese-trademarks-raise-conflict-of-interest-questions.html
   verified: true
 - archive_url: ''
@@ -56,8 +54,7 @@ tags:
 - trademarks
 - conflicts
 - foreign-influence
-title: China grants waves of Ivanka Trump trademarks as she serves in White House;
-  ethics watchdogs flag conflicts
+title: China grants waves of Ivanka Trump trademarks as she serves in White House; ethics watchdogs flag conflicts
 ---
 
 China's trademark office granted final approval for 13 Ivanka Trump trademarks over three

@@ -40,6 +40,10 @@ actors:
 - Donald Trump
 - Raytheon
 - Saudi Arabia
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 On June 20, 2019, the Senate voted 53-45 to pass resolutions blocking major components of the Trump administration's $8.1 billion emergency arms sale to Saudi Arabia and the UAE, including specifically prohibiting the transfer of 64,000 Raytheon-manufactured Paveway precision-guided munitions. The votes represented a rare bipartisan rebuke of executive branch arms transfer policy, with Republican Senators Susan Collins, Lindsey Graham, Mike Lee, Jerry Moran, Lisa Murkowski, and Rand Paul joining Democrats to oppose the sales. Senate Joint Resolution 36 specifically targeted the Raytheon Paveway co-production agreement that would have allowed Saudi Arabia to manufacture bomb components domestically—technology transfer critics warned would enable long-term Saudi military independence and undermine US leverage to prevent civilian casualties. The Senate action directly challenged Trump's May 24 emergency declaration, with lawmakers arguing that no genuine emergency justified bypassing congressional review for weapons sales to a regime committing war crimes in Yemen.

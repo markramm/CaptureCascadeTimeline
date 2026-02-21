@@ -26,6 +26,8 @@ sources:
   outlet: Bloomberg
   date: '2026-02-06'
   tier: 2
+capture_lanes:
+- International Kleptocracy
 ---
 
 President Trump issued an executive order eliminating the 25% secondary tariff imposed on Indian goods over the country's purchases of Russian oil, effective February 7, 2026, describing it as "the first step to cement the terms of a trade deal" announced earlier that week. The order states: "India has committed to stop directly or indirectly importing Russian Federation oil, has represented that it will purchase United States energy products from the United States, and has recently committed to a framework with the United States to expand defense cooperation over the next 10 years." The original tariff had been imposed on August 6, 2025, through an executive order titled "Addressing Threats to the United States by the Government of the Russian Federation," with the 25% additional duty taking effect August 27, 2025, to penalize India for purchasing Russian oil.

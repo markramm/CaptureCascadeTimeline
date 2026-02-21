@@ -13,10 +13,9 @@ tags:
 - cover-up
 - arrest
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
-- title: Jeffrey Epstein Charged In Manhattan Federal Court With Sex Trafficking Of
-    Minors
+- title: Jeffrey Epstein Charged In Manhattan Federal Court With Sex Trafficking Of Minors
   url: https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors
   outlet: U.S. Department of Justice
   date: '2019-07-08'

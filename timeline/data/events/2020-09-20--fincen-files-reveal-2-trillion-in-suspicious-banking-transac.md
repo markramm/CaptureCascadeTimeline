@@ -19,20 +19,17 @@ sources:
   title: FinCEN Files Investigation
   url: https://www.icij.org/investigations/fincen-files/
   access_date: '2025-09-17'
-  description: Comprehensive global investigation revealing systemic banking transparency
-    failures
+  description: Comprehensive global investigation revealing systemic banking transparency failures
 - outlet: BuzzFeed News
   title: FinCEN Files Show Criminals Moved Billions As Banks Watched
   url: https://www.buzzfeednews.com/article/jasonleopold/fincen-files-financial-scandal-criminal-networks
   access_date: '2025-09-17'
-  description: Detailed investigation of global financial institutions' involvement
-    in suspicious transactions
+  description: Detailed investigation of global financial institutions' involvement in suspicious transactions
 - outlet: ProMarket, Stigler Center
   title: ICIJ's FinCEN Files Expose How Banks Turn a Blind Eye to Suspicious Transactions
   url: https://www.promarket.org/2020/10/11/icij-fincen-files-banks-ignore-suspicious-transactions/
   access_date: '2025-09-17'
-  description: Academic and policy analysis of the broader systemic implications of
-    the FinCEN Files
+  description: Academic and policy analysis of the broader systemic implications of the FinCEN Files
 importance: 9
 tags:
 - money-laundering
@@ -52,7 +49,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration
-- Global Financial Networks
+- International Kleptocracy
 ---
 
 On September 20, 2020, BuzzFeed News and the International Consortium of Investigative Journalists (ICIJ) published the FinCEN Files, exposing over $2 trillion in suspicious financial transactions between 1999 and 2017. The investigation, involving 2,657 leaked documents and 2,121 suspicious activity reports (SARs), revealed systematic failures in global anti-money laundering systems. Major banks like JPMorgan Chase, Deutsche Bank, and HSBC consistently moved money for suspected criminals, corrupt officials, and fraudulent networks, treating these transactions as mere compliance paperwork rather than genuine financial crime prevention.

@@ -43,7 +43,7 @@ patterns:
 notes: Event represents a significant example of potential intelligence compromise and kleptocratic capture through financial entanglement with foreign actors.
 capture_lanes:
 - Intelligence Penetration
-- Foreign Influence Networks
+- International Kleptocracy
 ---
 
 Trump's FBI director nominee Kash Patel received a $25,000 payment from Igor Lopatonok's Global Tree Pictures for a documentary project, raising serious concerns about foreign influence and conflicts of interest. Lopatonok, a Russian national with documented Kremlin connections, has produced pro-Russian media and anti-Western content. The payment occurred while Patel was being considered for the FBI director position, potentially compromising national security.

@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Legislative Capture
+- Executive Power Expansion
 ---
 
 FBI Director James Comey confirmed for the first time in public testimony before the House Intelligence Committee that the FBI was investigating Russian interference in the 2016 election and possible coordination between Trump's campaign and Russia. This unprecedented disclosure of an ongoing investigation into a sitting president represented a watershed moment. Comey stated the investigation began in July 2016 and was examining "the nature of any links between individuals associated with the Trump campaign and the Russian government and whether there was any coordination between the campaign and Russia's efforts." Comey also directly contradicted Trump's wiretapping accusations, testifying that the Department of Justice and FBI had "no information" supporting Trump's claims that Obama had wiretapped Trump Tower. The 5.5-hour hearing made clear that Trump was under criminal investigation while simultaneously using presidential power to attack the investigation's legitimacy.

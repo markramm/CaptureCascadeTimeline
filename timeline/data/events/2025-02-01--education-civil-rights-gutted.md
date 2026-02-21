@@ -17,7 +17,7 @@ tags:
 - traumatic-strategy
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Education Department civil rights office cut by more than half

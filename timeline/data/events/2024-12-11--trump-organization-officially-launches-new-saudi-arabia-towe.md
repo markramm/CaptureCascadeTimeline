@@ -2,8 +2,7 @@
 id: 2024-12-11--trump-organization-officially-launches-new-saudi-arabia-towe
 date: '2024-12-11'
 title: Trump Organization launches $530M Saudi Arabia tower weeks before inauguration
-description: Trump Organization announced luxury tower project in Saudi Arabia weeks
-  before presidential inauguration
+description: Trump Organization announced luxury tower project in Saudi Arabia weeks before presidential inauguration
 status: confirmed
 importance: 8
 location: Jeddah, Saudi Arabia
@@ -19,7 +18,7 @@ tags:
 - emoluments
 capture_type: monetizing_position
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Trump organization officially launches new Saudi Arabia tower
   url: https://thehill.com/policy/international/5035089-trump-organization-officially-launches-new-saudi-arabia-tower/
@@ -29,8 +28,7 @@ sources:
   url: https://www.cnn.com/2024/07/01/business/trump-tower-saudi-arabia/index.html
   outlet: CNN Business
   date: '2024-07-01'
-- title: Dar Global and The Trump Organization Expand Collaboration with SAR 2 Billion
-    Trump Tower
+- title: Dar Global and The Trump Organization Expand Collaboration with SAR 2 Billion Trump Tower
   url: https://darglobal.co.uk/press/Dar-Global-and-The-Trump-Organization-Expand-Collaboration-with-the-Launch-of-SAR-2-Billion-Trump-Tower-to-Tranform-Jeddah-Skyline
   outlet: Dar Global
   date: '2024-12-15'

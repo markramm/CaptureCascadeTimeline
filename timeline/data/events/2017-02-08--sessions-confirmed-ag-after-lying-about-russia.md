@@ -26,6 +26,10 @@ sources:
   tier: 1
   outlet: ABC News
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Intelligence Penetration
+- Media Capture & Control
 ---
 
 The Senate confirmed Jeff Sessions as Attorney General on February 8, 2017, despite Sessions lying under oath during his confirmation hearing about contacts with Russian officials during the 2016 presidential campaign. When asked by Senator Al Franken whether he had communications with Russians, Sessions stated under oath: "I did not have communications with the Russians."

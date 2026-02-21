@@ -19,8 +19,8 @@ tags:
 - hotel-development
 capture_type: monetizing_position
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Corporate Capture & Regulatory Breakdown
+- International Kleptocracy
+- Regulatory Capture
 sources:
 - title: Donald Trump Jr. mixes business and politics in Serbia, as protests there rage
   url: https://www.nytimes.com/2025/03/19/us/politics/donald-trump-jr-serbia.html

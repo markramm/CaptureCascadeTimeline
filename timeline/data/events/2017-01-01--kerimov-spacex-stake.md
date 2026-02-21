@@ -18,7 +18,7 @@ tags:
 - sanctions-evasion
 - critical-infrastructure
 capture_lanes:
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: Russian Senator Held Stake in SpaceX While He Was Sanctioned – Bloomberg
   url: https://www.themoscowtimes.com/2025/01/30/russian-senator-held-stake-in-spacex-while-he-was-sanctioned-bloomberg-a87798

@@ -29,6 +29,8 @@ actors:
 - Stephen Miller
 - Thom Tillis
 - CNN
+capture_lanes:
+- International Kleptocracy
 ---
 
 White House Deputy Chief of Staff Stephen Miller articulated a new US foreign policy doctrine centered on raw power in a CNN interview. On Greenland, Miller declared it Washington's 'formal position' that 'Greenland should be part of the US,' adding 'nobody is going to fight the United States militarily over the future of Greenland' and questioning Denmark's 'basis for their territorial claim.' On Venezuela, Miller defended Trump's assertion that the US is 'running Venezuela,' stating 'By definition, that's true' and 'We live in a world that is governed by strength, that is governed by force, that is governed by power.' He dismissed 'international niceties' in favor of this force-based approach. Republican Senator Thom Tillis (NC) called Miller's comments 'insane,' 'amateurish,' 'absurd,' and urged Trump to fire him, saying Miller 'needs to know what he's talking about or get out of this job.'

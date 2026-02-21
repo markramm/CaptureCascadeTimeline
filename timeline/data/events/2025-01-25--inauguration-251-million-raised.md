@@ -19,7 +19,7 @@ tags:
 - inauguration
 - record-fundraising
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Trump Administrations 2025 Inauguration Donors
   url: https://www.opensecrets.org/trump/2025-inauguration-donors

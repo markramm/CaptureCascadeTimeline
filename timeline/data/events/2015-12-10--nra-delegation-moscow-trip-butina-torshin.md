@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Intelligence Penetration
+- Electoral Manipulation
 ---
 
 Maria Butina and Alexander Torshin arranged and hosted a delegation of National Rifle Association members in Moscow from December 10-15, 2015. The delegation included NRA leaders such as Milwaukee County Sheriff David Clarke and David Keene, a former NRA president. During the trip, the gun rights organization members met with high-level Russian government officials as arranged by Torshin.

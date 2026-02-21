@@ -19,6 +19,10 @@ sources:
   title: India Hires Trump-Linked Lobbying Firm Amid Tariff Threats
   tier: 1
   outlet: Bloomberg
+capture_lanes:
+- International Kleptocracy
+- Systematic Corruption
+- Legislative Capture
 ---
 
 India's embassy hired Mercury Public Affairs for $75,000 per month to lobby the Trump administration amid threats of 50% tariffs on Indian goods. Mercury Public Affairs is closely tied to Trump insiders including Susie Wiles, Trump's chief of staff and Mercury's former executive. The timing and firm selection reveal a pay-to-play foreign relations model where access to Trump's administration requires hiring lobbying firms connected to his inner circle. Foreign governments have learned that navigating Trump's personalized and transactional foreign policy demands payments to gatekeepers with direct administration access. This commodification of foreign policy creates incentives for Trump associates to profit from their proximity to power while foreign nations effectively purchase policy influence through well-connected intermediaries. The arrangement exemplifies how Trump's governance model monetizes government functions, with lobbying firms serving as tollbooths for foreign governments seeking to avoid punitive policies or secure favorable treatment.

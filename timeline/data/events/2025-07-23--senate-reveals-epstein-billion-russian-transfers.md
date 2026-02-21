@@ -45,7 +45,7 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 - Intelligence Penetration
-- Human Trafficking Networks
+- International Kleptocracy
 ---
 
 A comprehensive Senate Finance Committee investigation led by Senator Ron Wyden uncovered massive financial evidence demonstrating Jeffrey Epstein's complex international money laundering and trafficking operations. The Treasury Department's analysis revealed over 4,725 wire transfers totaling approximately $1.1 billion through sanctioned Russian banks, with transactions strongly correlated to the movement of women and girls from Russia, Belarus, Turkey, and Turkmenistan.

@@ -23,7 +23,7 @@ patterns: []
 related_events:
 - 2017-01-20--secret-service-spending-trump-properties
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 location: United States
 sources:
 - date: '2024-01-04'

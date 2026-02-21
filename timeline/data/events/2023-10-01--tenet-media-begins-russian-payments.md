@@ -19,7 +19,7 @@ tags:
 - influencer-payments
 - information-warfare
 capture_lanes:
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: DOJ alleges Russia funded company linked to Tim Pool
   url: https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html
@@ -38,9 +38,7 @@ sources:
   url: https://www.npr.org/2024/09/05/nx-s1-5099003/russia-tenet-media-rt-propaganda-doj
   outlet: NPR
   date: '2024-09-05'
-notes: $8.7 million to top 3 creators over 10 months. Pool received $100,000 per video.
-  Influencers claim ignorance of Russian source. 90% of company deposits from Russia.
-  Precursor to September 2024 DOJ indictment.
+notes: $8.7 million to top 3 creators over 10 months. Pool received $100,000 per video. Influencers claim ignorance of Russian source. 90% of company deposits from Russia. Precursor to September 2024 DOJ indictment.
 status: confirmed
 ---
 

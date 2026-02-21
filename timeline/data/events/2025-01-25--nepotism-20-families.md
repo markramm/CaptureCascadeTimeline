@@ -16,7 +16,7 @@ tags:
 - corruption
 - ethics-violation
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Trump family nepotism appointments
   url: https://www.cbsnews.com/news/trump-nepotism-appointments
@@ -26,8 +26,7 @@ sources:
   url: https://www.thedailybeast.com/meet-the-trump-officials-making-government-a-family-business/
   outlet: The Daily Beast
   date: '2025-01-20'
-- title: Trump names two of his in-laws, one Jewish and one Arab, to key diplomatic
-    roles
+- title: Trump names two of his in-laws, one Jewish and one Arab, to key diplomatic roles
   url: https://forward.com/fast-forward/678664/trump-charles-kushner-massad-boulos/
   outlet: The Forward
   date: '2024-12-01'
@@ -35,8 +34,7 @@ sources:
   url: https://www.yahoo.com/news/family-members-trump-tapping-key-202928015.html
   outlet: Yahoo News
   date: '2025-01-15'
-notes: Creative legal interpretations distinguish between departments and White House
-  positions
+notes: Creative legal interpretations distinguish between departments and White House positions
 status: confirmed
 ---
 

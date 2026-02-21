@@ -10,7 +10,7 @@ tags:
 - quid-pro-quo
 - ethics-violation
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Trump's Tariffs and Crony Capitalism
@@ -21,8 +21,7 @@ sources:
   url: https://abcnews.go.com/Politics/july-4th-fireworks-donor-lobbied-president-trump-tariffs/story?id=64108794
   outlet: ABC News
   date: '2019-07-08'
-- title: Company that donated fireworks to Trump's event also successfully lobbied
-    against tariffs
+- title: Company that donated fireworks to Trump's event also successfully lobbied against tariffs
   url: https://thehill.com/homenews/administration/451685-company-that-donated-fireworks-to-trumps-event-also-successfully/
   outlet: The Hill
   date: '2019-07-08'
@@ -35,8 +34,7 @@ actors:
 - Bruce Zoldan
 - Phantom Fireworks
 location: Washington, DC
-notes: Private firm buying goodwill and policy favors by stroking the president's
-  ego with extravagant donation
+notes: Private firm buying goodwill and policy favors by stroking the president's ego with extravagant donation
 ---
 
 Phantom Fireworks CEO Bruce Zoldan met with Trump in May 2019 to lobby against tariffs on Chinese fireworks. Shortly after, Zoldan's company provided an estimated $750,000-$1,000,000 in fireworks and services for Trump's "Salute to America" July 4th event. The administration delayed imposing planned tariffs on fireworks around this period. Ethics watchdogs identified this as a glaring case of pay-to-play.

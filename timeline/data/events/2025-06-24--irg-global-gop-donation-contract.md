@@ -2,8 +2,7 @@
 id: 2025-06-24--irg-global-gop-donation-contract
 date: '2025-06-24'
 importance: 9
-title: Emergency contractor donates $10,000 to Florida GOP, receives $6.2 million
-  in contracts hours later
+title: Emergency contractor donates $10,000 to Florida GOP, receives $6.2 million in contracts hours later
 location: Florida
 actors:
 - IRG Global Emergency Management
@@ -18,11 +17,10 @@ tags:
 - campaign-finance
 - contractor-corruption
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Corporate Capture & Regulatory Breakdown
+- International Kleptocracy
+- Regulatory Capture
 sources:
-- title: Governor DeSantis is building 'Alligator Alcatraz' with little oversight
-    – big campaign donor is set to reap millions
+- title: Governor DeSantis is building 'Alligator Alcatraz' with little oversight – big campaign donor is set to reap millions
   url: https://www.wgcu.org/section/immigration/2025-07-02/governor-desantis-is-building-alligator-alcatraz-with-little-oversight-big-campaign-donor-is-set-to-reap-millions-from-it
   outlet: WGCU PBS & NPR
   date: '2025-07-02'
@@ -30,15 +28,11 @@ sources:
   url: https://www.tampabay.com/news/florida-politics/2025/07/12/alligator-alcatraz-florida-immigration-detention-desantis-uthmeier-irg/
   outlet: Tampa Bay Times
   date: '2025-07-12'
-- title: Texas company donated to Florida GOP days before landing millions in state
-    contracts
+- title: Texas company donated to Florida GOP days before landing millions in state contracts
   url: https://www.gulfcoastnewsnow.com/article/texas-donation-florida-gop-millions-state-contracts/65416552
   outlet: Gulf Coast News
   date: '2025-07-15'
-notes: IRG executives linked to companies sued for inflating hurricane insurance claims.
-  Employees alleged they were used as "pawns in a plan to file inflated insurance
-  claims in federally-declared disaster areas." Emergency declarations allow bypassing
-  procurement rules and competitive bidding.
+notes: IRG executives linked to companies sued for inflating hurricane insurance claims. Employees alleged they were used as "pawns in a plan to file inflated insurance claims in federally-declared disaster areas." Emergency declarations allow bypassing procurement rules and competitive bidding.
 status: confirmed
 ---
 

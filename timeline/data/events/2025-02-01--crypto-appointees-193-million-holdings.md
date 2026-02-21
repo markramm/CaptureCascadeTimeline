@@ -13,7 +13,7 @@ tags:
 - financial-holdings
 - bitcoin
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: 1 in 5 top Trump picks held crypto, some worth millions, Post finds
   url: https://www.washingtonpost.com/politics/interactive/2025/trump-officials-cryptocurrency-holdings-bitcoin/

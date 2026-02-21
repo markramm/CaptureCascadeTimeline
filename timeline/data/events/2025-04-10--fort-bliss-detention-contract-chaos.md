@@ -16,8 +16,8 @@ tags:
 - military-integration
 - contractor-fraud
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Immigration & Border Militarization
+- International Kleptocracy
+- Military-Industrial Complex
 sources:
 - title: ICE Cancels $3.8 Billion Contract for Immigrant Tent Detention Camp at Fort Bliss
   url: https://www.propublica.org/article/ice-cancels-contract-immigrant-detention-camp-fort-bliss

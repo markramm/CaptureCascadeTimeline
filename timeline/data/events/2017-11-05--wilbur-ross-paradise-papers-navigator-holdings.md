@@ -32,6 +32,10 @@ sources:
   date: 2017-11-05
   tier: 1
   outlet: CBC News
+capture_lanes:
+- International Kleptocracy
+- Systematic Corruption
+- Intelligence Penetration
 ---
 
 The International Consortium of Investigative Journalists (ICIJ) revealed through the Paradise Papers investigation that U.S. Commerce Secretary Wilbur L. Ross Jr. maintained a stake in Navigator Holdings, a shipping firm that received millions of dollars annually from a Russian gas company whose key owners included Vladimir Putin's son-in-law and a sanctioned Russian oligarch. Ross divested most of his business assets before joining Trump's Cabinet in February 2017, but kept his stake in Navigator Holdings Ltd., incorporated in the Marshall Islands, with offshore entities controlling 31.5 percent of the company in 2016.

@@ -17,7 +17,7 @@ tags:
 - government-contract
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Budget bill massively expands private immigration detention

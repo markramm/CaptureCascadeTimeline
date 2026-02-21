@@ -13,16 +13,14 @@ tags:
 - political-donations
 - election-2024
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
-- title: Trump campaign starts taking cryptocurrency donations, vows to build a 'crypto
-    army'
+- title: Trump campaign starts taking cryptocurrency donations, vows to build a 'crypto army'
   url: https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html
   outlet: CNBC
   date: '2024-05-21'
   archive_url: https://web.archive.org/web/20240815000000/https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html
-- title: Crypto industry surpasses traditional giants with at least $238M in election
-    spending
+- title: Crypto industry surpasses traditional giants with at least $238M in election spending
   url: https://www.foxbusiness.com/politics/crypto-industry-election-spending-tallies-least-238m-surpassing-traditional-giants
   outlet: Fox Business
   date: '2024-05-01'
@@ -37,8 +35,7 @@ sources:
   outlet: Marketplace
   date: '2024-05-27'
   archive_url: null
-notes: Strategic timing to capture crypto industry political spending. First major
-  party candidate to fully embrace cryptocurrency donations.
+notes: Strategic timing to capture crypto industry political spending. First major party candidate to fully embrace cryptocurrency donations.
 status: confirmed
 ---
 

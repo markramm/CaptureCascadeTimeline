@@ -14,7 +14,7 @@ tags:
 - crypto-evolution
 - dollar-hegemony
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Donald Trump - Bitcoin a 'Scam,' But 'Competes Against the Dollar'
   url: https://www.newsweek.com/donald-trump-bitcoin-scam-competes-against-dollar-shrinkflation-raises-retail-costs-1598720
@@ -36,14 +36,12 @@ sources:
   outlet: RT News
   date: '2021-06-07'
   archive_url: null
-- title: 'Trump: Bitcoin ''seems like a scam'' and should be regulated ''very very
-    high'''
+- title: 'Trump: Bitcoin ''seems like a scam'' and should be regulated ''very very high'''
   url: https://www.foxnews.com/media/donald-trump-bitcoin-scam-regulated-cryptocurrency
   outlet: Fox News
   date: '2021-06-07'
   archive_url: null
-notes: Major reversal from this position to launching $2.9 billion crypto empire by
-  2025. Initial skepticism transformed into enthusiastic crypto advocacy.
+notes: Major reversal from this position to launching $2.9 billion crypto empire by 2025. Initial skepticism transformed into enthusiastic crypto advocacy.
 status: confirmed
 ---
 

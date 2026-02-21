@@ -15,14 +15,13 @@ tags:
 - watchdog-analysis
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Trump's Nominees and the Conflicts They Carry
   url: https://campaignlegal.org/update/trumps-nominees-and-conflicts-they-carry
   outlet: Campaign Legal Center
   date: '2025-02-01'
-- title: Campaign Legal Center Partners With The New York Times for Exclusive on Trump
-    Cabinet Conflicts of Interest
+- title: Campaign Legal Center Partners With The New York Times for Exclusive on Trump Cabinet Conflicts of Interest
   url: https://campaignlegal.org/update/campaign-legal-center-partners-new-york-times-exclusive-trump-cabinet-conflicts-interest
   outlet: Campaign Legal Center
   date: '2025-02-01'

@@ -20,7 +20,7 @@ tags:
 - institutional-capture
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: 2025 Pulitzer Prizes recognize corruption reporting

@@ -18,7 +18,7 @@ tags:
 - defunding
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Congress eliminates federal funding for public broadcasting

@@ -8,28 +8,24 @@ actors:
 - Rosatom
 capture_lanes:
 - Systematic Corruption
-- Foreign Influence
+- International Kleptocracy
 capture_type: monetizing_position
 connections:
 - U.S.-Russia Space Cooperation
 - Tech Billionaire Diplomacy
 date: '2025-03-18'
-description: Russia's envoy for international cooperation, Kirill Dmitriev, announced
-  plans to discuss Mars exploration with Elon Musk, offering nuclear technology and
-  expertise from Roscosmos and Rosatom
+description: Russia's envoy for international cooperation, Kirill Dmitriev, announced plans to discuss Mars exploration with Elon Musk, offering nuclear technology and expertise from Roscosmos and Rosatom
 id: 2025-03-18--russia-will-undoubtedly-discuss-future-mars-flights-with-mus
 importance: 7
 location: Washington, D.C.
-notes: First high-level U.S.-Russia space cooperation discussion since 2022 diplomatic
-  thaw
+notes: First high-level U.S.-Russia space cooperation discussion since 2022 diplomatic thaw
 patterns:
 - kleptocratic-capture
 - foreign-influence-networks
 sources:
 - date: '2025-03-18'
   outlet: The Guardian
-  title: Russia will 'undoubtedly' discuss future Mars flights with Musk, Putin envoy
-    says
+  title: Russia will 'undoubtedly' discuss future Mars flights with Musk, Putin envoy says
   url: https://www.theguardian.com/world/2025/mar/18/russia-mars-elon-musk
 - date: '2025-03-18'
   outlet: The Moscow Times

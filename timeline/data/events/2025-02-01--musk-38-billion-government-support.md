@@ -17,7 +17,7 @@ tags:
 - musk
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Elon Musk's business empire is built on $38 billion in government funding
   url: https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/

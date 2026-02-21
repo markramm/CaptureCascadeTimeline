@@ -18,8 +18,8 @@ tags:
 - revolving-door
 - contract-fraud
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Corporate Capture & Regulatory Breakdown
+- International Kleptocracy
+- Regulatory Capture
 sources:
 - title: No-Bid ICE Contract Went to Former ICE Agents Sued for Fabricating Criminal Evidence on the Job
   url: https://theintercept.com/2025/04/17/ice-deportation-contracts-us-advisors/

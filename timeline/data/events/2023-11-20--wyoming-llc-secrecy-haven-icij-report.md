@@ -24,7 +24,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Kleptocratic Networks
+- International Kleptocracy
 sources:
 - title: With sharp rise in incorporations, Wyoming cements reputation as US secrecy haven
   url: https://www.icij.org/investigations/cyprus-confidential/with-sharp-rise-in-incorporations-wyoming-cements-reputation-as-us-secrecy-haven/

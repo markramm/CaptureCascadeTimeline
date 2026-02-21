@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Intelligence Penetration
+- Systematic Corruption
 ---
 
 President Trump announced via Twitter on July 28, 2019, that Director of National Intelligence Dan Coats would resign effective August 15, ending a tumultuous two-year tenure marked by fundamental conflicts over Russia's interference in the 2016 election and ongoing threats to American democracy. Coats, a former Republican senator from Indiana, repeatedly stood by intelligence community assessments that contradicted Trump's public statements—most notably affirming Russia's "ongoing" and "pervasive" efforts to undermine democratic processes even as Trump touted Vladimir Putin's "extremely strong and powerful" denials. Trump nominated Representative John Ratcliffe, a Texas Republican who had aggressively defended Trump during Robert Mueller's congressional testimony about Russian interference, to replace Coats.

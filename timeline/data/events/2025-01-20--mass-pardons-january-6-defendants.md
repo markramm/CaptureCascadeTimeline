@@ -19,7 +19,7 @@ tags:
 - impunity
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Trump pardons all January 6 defendants in Day 1 executive action
@@ -34,9 +34,7 @@ sources:
   url: https://www.washingtonpost.com/national-security/2025/02/15/january-6-pardons-rearrested/
   outlet: The Washington Post
   date: '2025-02-15'
-notes: Represents unprecedented normalization of political violence by highest office.
-  Immediate re-offending by pardoned defendants proved critics' fears about consequences
-  of removing accountability for attacking democratic institutions.
+notes: Represents unprecedented normalization of political violence by highest office. Immediate re-offending by pardoned defendants proved critics' fears about consequences of removing accountability for attacking democratic institutions.
 ---
 
 President Trump pardoned approximately 1,500 January 6 defendants on his first day in office, including violent offenders who assaulted police officers. Pardoned Proud Boys leaders like Enrique Tarrio returned to public activism, with Joe Biggs describing their CPAC reception as "we're like Gods." Multiple pardoned defendants re-arrested within weeks for new crimes including domestic violence and burglary. Others filed $100 million lawsuits against DOJ claiming wrongful prosecution. Mass pardons sent unprecedented signal that political violence carries no consequences if aligned with right cause, marking watershed moment in normalization of violence.

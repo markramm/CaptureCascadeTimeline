@@ -11,12 +11,11 @@ tags:
 - crony-capitalism
 - trade-policy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 - Executive Power Expansion
 status: confirmed
 sources:
-- title: Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy,
-    Confusion
+- title: Politically Connected Firms Benefit From Trump Tariff Exemptions Amid Secrecy, Confusion
   url: https://www.propublica.org/article/trump-tariffs-exemptions-pet-lobbyists-asbestos-confusion-secrecy
   outlet: ProPublica
   date: '2025-10-01'
@@ -35,9 +34,7 @@ actors:
 - Reyes Holdings
 - Ballard Partners
 location: Washington, DC
-notes: Pattern of tariff exemptions strongly suggests tariffs wielded as tool of crony
-  capitalism. Academic studies showed politically connected firms had significantly
-  higher chances of receiving exemptions compared to firms without political donations.
+notes: Pattern of tariff exemptions strongly suggests tariffs wielded as tool of crony capitalism. Academic studies showed politically connected firms had significantly higher chances of receiving exemptions compared to firms without political donations.
 ---
 
 In Trump's second term, tariff policy became increasingly opaque, with exemptions granted through a non-transparent process heavily influenced by lobbyists and political connections. The administration replaced the previous public application process with closed-door negotiations, raising significant concerns about potential cronyism. Investigations revealed that politically connected firms were far more likely to receive tariff exemptions, with some industries securing carve-outs that did not align with the stated national interest criteria.

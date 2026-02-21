@@ -31,6 +31,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Intelligence Penetration
+- Media Capture & Control
 ---
 
 Maria Butina was released from the Tallahassee Federal Correction Institution on October 25, 2019 after serving more than 15 months in federal custody. She was immediately taken into custody by U.S. Immigration and Customs Enforcement (ICE) and deported to Russia the same day, departing on a direct flight from Miami International Airport to Moscow at approximately 6 p.m.

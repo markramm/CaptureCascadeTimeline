@@ -38,6 +38,10 @@ sources:
   date: 2018-07-26
   tier: 1
   outlet: U.S. Congress
+capture_lanes:
+- International Kleptocracy
+- Executive Power Expansion
+- Intelligence Penetration
 ---
 
 In a rare moment of unanimous Senate action, lawmakers voted 98-0 to approve a resolution rejecting Vladimir Putin's proposal to interrogate U.S. officials—a direct and powerful rebuke of President Trump's consideration of the Russian offer during the Helsinki summit. The vote demonstrated extraordinary bipartisan unity against Trump's approach to Russia just days after his controversial press conference with Putin.

@@ -18,8 +18,8 @@ tags:
 - argentina-debt
 - quid-pro-quo
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Judicial Capture & Corruption
+- International Kleptocracy
+- Judicial Capture
 sources:
 - title: Republic of Argentina v. NML Capital, Ltd., 573 U.S. 134 (2014) (opinion PDF)
   url: https://supreme.justia.com/cases/federal/us/573/12-842/case.pdf

@@ -13,8 +13,7 @@ actors:
 importance: 10
 sources:
 - outlet: PBS News
-  title: In signing treaty, Putin declares Crimea has always been 'inseparable' part
-    of Russia
+  title: In signing treaty, Putin declares Crimea has always been 'inseparable' part of Russia
   url: https://www.pbs.org/newshour/show/in-signing-treaty-putin-declares-crimea-has-always-been-inseparable-part-of-russia
   date: '2014-03-18'
 - outlet: Britannica
@@ -36,7 +35,7 @@ capture_lanes:
 - Financial Capture
 - Intelligence Penetration
 - Executive Power Expansion
-- Territorial Annexation
+- International Kleptocracy
 status: confirmed
 international_response:
   sanctions:

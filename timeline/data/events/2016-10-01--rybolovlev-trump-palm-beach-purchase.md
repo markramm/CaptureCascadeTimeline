@@ -2,8 +2,7 @@
 id: 2016-10-01--rybolovlev-trump-palm-beach-purchase
 date: '2016-10-01'
 importance: 8
-title: Rybolovlev demolishes Trump's former Palm Beach mansion; property later subdivided
-  and sold
+title: Rybolovlev demolishes Trump's former Palm Beach mansion; property later subdivided and sold
 location: Palm Beach, Florida
 actors:
 - Dmitry Rybolovlev
@@ -14,7 +13,7 @@ tags:
 - money-laundering
 - oligarchs
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Russian fertiliser tycoon buys Florida mansion
   url: https://www.reuters.com/article/russia-florida-property/russian-fertiliser-tycoon-buys-florida-mansion-idUKL2125594120080621/
@@ -28,8 +27,7 @@ sources:
   url: https://www.afr.com/property/donald-trumps-us95-million-palm-beach-megamansion-faces-the-wrecking-ball-20160407-go0aq9
   outlet: Australian Financial Review
   date: '2016-04-07'
-notes: Use neutral language; multiple outlets reported the demolition and subsequent
-  lot sales. Avoid implying money‑laundering absent evidentiary sourcing.
+notes: Use neutral language; multiple outlets reported the demolition and subsequent lot sales. Avoid implying money‑laundering absent evidentiary sourcing.
 status: confirmed
 ---
 

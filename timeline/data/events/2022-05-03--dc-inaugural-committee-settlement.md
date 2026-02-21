@@ -21,7 +21,7 @@ patterns: []
 related_events:
 - 2017-03-23--gsa-says-trump-old-post-office-lease-compliant
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 location: Washington, D.C.
 sources:
 - date: '2022-05-03'

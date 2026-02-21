@@ -11,7 +11,7 @@ tags:
 - quid-pro-quo
 - corruption
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: US held off on tariffs while Argentina reviewed Trump trademarks
@@ -26,8 +26,7 @@ sources:
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/trump-tower-argentina-trademarks/
   outlet: CREW
   date: '2018-12-15'
-- title: Coincidence or corruption? Trump lawyer responds to accusation White House
-    held off Argentina tariffs for trademark reasons
+- title: Coincidence or corruption? Trump lawyer responds to accusation White House held off Argentina tariffs for trademark reasons
   url: https://www.worldtrademarkreview.com/article/coincidence-or-corruption-trump-lawyer-responds-accusation-white-house-held-argentina-tariffs-trademark-reasons
   outlet: World Trademark Review
   date: '2019-11-15'
@@ -36,8 +35,7 @@ actors:
 - Trump Organization
 - Argentina
 location: Washington, DC
-notes: Timeline shows tariffs held off until Trump's personal business interests were
-  secured, then reinstated
+notes: Timeline shows tariffs held off until Trump's personal business interests were secured, then reinstated
 ---
 
 Trump administration exempted Argentina from steel and aluminum tariffs in May 2018 while Trump Organization was seeking trademark approvals in Argentina. After securing two trademarks in November 2019, the administration abruptly reinstated tariffs on Argentina weeks later, citing dubious "currency manipulation" claims. Ethics experts concluded this showed "President Trump is for sale."

@@ -4,9 +4,9 @@ actors:
 - Deputy Attorney General Todd Blanche
 - Trump Administration
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 - Regulatory Capture
-- Foreign Policy Manipulation
+- Democratic Erosion
 citations:
 - https://www.justice.gov/dag/media/1403031/dl
 - https://www.paulweiss.com/insights/client-memos/doj-fcpa-guidelines-end-the-enforcement-pause-and-shift-focus-to-us-interests
@@ -15,8 +15,7 @@ citations:
 date: '2025-06-09'
 id: 2025-06-09--doj-fcpa-guidelines
 importance: 9
-notes: New DOJ FCPA guidelines dramatically reshape anti-corruption enforcement, prioritizing
-  U.S. national interests and individual accountability over broad corporate investigations.
+notes: New DOJ FCPA guidelines dramatically reshape anti-corruption enforcement, prioritizing U.S. national interests and individual accountability over broad corporate investigations.
 sources:
 - date: '2025-06-09'
   outlet: Paul Weiss
@@ -28,13 +27,11 @@ sources:
   url: https://www.justice.gov/dag/media/1403031/dl
 - date: '2025-06-09'
   outlet: Arnold & Porter
-  title: 'FCPA Enforcement: Back With a Twist? DOJ Issues New FCPA Guidelines Following
-    Trump Executive Order'
+  title: 'FCPA Enforcement: Back With a Twist? DOJ Issues New FCPA Guidelines Following Trump Executive Order'
   url: https://www.arnoldporter.com/en/perspectives/blogs/enforcement-edge/2025/06/fcpa-enforcement-back-with-a-twist
 - date: '2025-06-09'
   outlet: Crowell & Moring LLP
-  title: 'The FCPA Pause Is Over: Trump DOJ Issues Long-Awaited FCPA Investigations
-    and Enforcement Guidelines'
+  title: 'The FCPA Pause Is Over: Trump DOJ Issues Long-Awaited FCPA Investigations and Enforcement Guidelines'
   url: https://www.crowell.com/en/insights/client-alerts/the-fcpa-pause-is-over-trump-doj-issues-long-awaited-fcpa-investigations-and-enforcement-guidelines
 status: confirmed
 tags:

@@ -18,7 +18,7 @@ tags:
 - platform-weaponization
 - congressional-investigation
 capture_lanes:
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: Facebook says Russian-backed accounts bought $100,000 in ads
   url: https://www.washingtonpost.com/politics/facebook-says-it-sold-political-ads-to-russian-company-during-2016-election/2017/09/06/32f01fd2-931e-11e7-89fa-bb822a46da5b_story.html

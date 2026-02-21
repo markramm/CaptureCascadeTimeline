@@ -34,6 +34,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Legislative Capture
+- Regulatory Capture
 ---
 
 Senate Finance Committee Ranking Member Ron Wyden released findings on September 27, 2019 from an 18-month investigation into the National Rifle Association's relationship with Russia and potential violations of U.S. tax and sanctions laws. The report revealed new evidence that the 2015 NRA delegation trip to Moscow was an official NRA trip meant to demonstrate Alexander Torshin's American connections to the Kremlin, contrary to NRA public statements that it was an unofficial personal trip.

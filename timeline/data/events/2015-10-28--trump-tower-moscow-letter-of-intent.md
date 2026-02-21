@@ -2,8 +2,7 @@
 id: 2015-10-28--trump-tower-moscow-letter-of-intent
 date: '2015-10-28'
 importance: 6
-title: Trump Signs Letter of Intent for $1 Billion Moscow Tower While Running for
-  President
+title: Trump Signs Letter of Intent for $1 Billion Moscow Tower While Running for President
 location: New York City
 actors:
 - Donald Trump
@@ -20,7 +19,7 @@ tags:
 - russian-connections
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: 'Mueller Report Volume I: Trump Tower Moscow Project'
@@ -35,9 +34,7 @@ sources:
   url: https://www.washingtonpost.com/politics/2019/01/21/timeline-trump-tower-moscow-talks/
   outlet: The Washington Post
   date: '2019-01-21'
-notes: Mueller Report pages 67-80 detail how negotiations continued through June 2016,
-  with Cohen briefing Trump multiple times. Project explicitly linked campaign success
-  to business opportunities in Russia.
+notes: Mueller Report pages 67-80 detail how negotiations continued through June 2016, with Cohen briefing Trump multiple times. Project explicitly linked campaign success to business opportunities in Russia.
 ---
 
 Trump personally signed Letter of Intent for Trump Tower Moscow project valued at over $1 billion while publicly denying Russian business dealings during campaign. Michael Cohen told Mueller investigators that Trump viewed his campaign as a significant "infomercial" for Trump-branded properties. Financing involved attempts through VTB Group (state-owned Russian bank) and Genbank (owned by convicted fraudster Yevgeny Dvoskin operating in Russian-annexed Crimea). Felix Sater promised "I can get Putin to praise Trump's business acumen" and "We can own this election."

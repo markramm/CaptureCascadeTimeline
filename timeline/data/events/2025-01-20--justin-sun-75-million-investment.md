@@ -21,9 +21,8 @@ tags:
 - campaign-finance
 - regulatory-capture
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Foreign Influence Operations
-- Regulatory Manipulation
+- International Kleptocracy
+- Regulatory Capture
 sources:
 - title: 'Fortune Crypto: Billionaire Justin Sun''s Investment in Trump''s World Liberty Financial'
   url: https://fortune.com/crypto/2024/11/25/trump-world-liberty-financial-crypto-project-30-million-justin-sun-tron/

@@ -10,7 +10,7 @@ tags:
 - military-attack
 - infrastructure-attacks
 capture_lanes:
-- Foreign Influence
+- International Kleptocracy
 actors:
 - Vladimir Putin
 - Volodymyr Zelenskyy

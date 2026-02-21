@@ -18,7 +18,7 @@ patterns: []
 related_events:
 - 2017-03-23--gsa-says-trump-old-post-office-lease-compliant
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 location: Scotland, UK
 sources:
 - date: '2019-09-13'

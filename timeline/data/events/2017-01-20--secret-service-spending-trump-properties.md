@@ -20,7 +20,7 @@ patterns: []
 related_events:
 - 2019-09-13--air-force-turnberry-stays-prestwick-review
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 location: United States
 sources:
 - date: '2022-05-23'

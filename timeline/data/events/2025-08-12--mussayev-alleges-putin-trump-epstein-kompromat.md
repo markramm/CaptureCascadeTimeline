@@ -1,8 +1,7 @@
 ---
 id: 2025-08-12--mussayev-alleges-putin-trump-epstein-kompromat
 date: '2025-08-12'
-title: Former Kazakhstan intelligence chief alleges Putin holds Trump-Epstein kompromat
-  files
+title: Former Kazakhstan intelligence chief alleges Putin holds Trump-Epstein kompromat files
 importance: 9
 tags:
 - vladimir-putin
@@ -24,8 +23,7 @@ actors:
 - Kazakhstan intelligence
 capture_lanes:
 - Intelligence Penetration
-- Geopolitical Manipulation
-- Kompromat Network
+- International Kleptocracy
 sources:
 - title: Ex-KGB Official Claims Putin Has a Secret Blackmail File on Trump
   outlet: Morning Truth

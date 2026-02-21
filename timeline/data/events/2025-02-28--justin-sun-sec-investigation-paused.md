@@ -14,8 +14,7 @@ tags:
 - foreign-influence
 - quid-pro-quo
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: A crypto mogul who invested millions into Trump coins is getting a reprieve on civil fraud charges
   url: https://www.cnn.com/2025/02/28/business/crypto-mogul-trump-coins-civil-fraud-charges/index.html

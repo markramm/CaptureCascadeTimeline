@@ -2,8 +2,7 @@
 id: 2024-10-30--virginia-voter-purge-supreme-court
 date: '2024-10-30'
 importance: 6
-title: Supreme Court Allows Virginia to Purge 1,600 Voters Days Before Election Despite
-  Federal Law
+title: Supreme Court Allows Virginia to Purge 1,600 Voters Days Before Election Despite Federal Law
 location: Virginia
 actors:
 - US Supreme Court
@@ -18,7 +17,7 @@ tags:
 - emergency-ruling
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Supreme Court allows Virginia to purge voter rolls ahead of election
@@ -33,9 +32,7 @@ sources:
   url: https://www.virginiamercury.com/2024/10/30/supreme-court-voter-purge/
   outlet: Virginia Mercury
   date: '2024-10-30'
-notes: Purge violated clear federal law protecting voters from systematic removal
-  within 90 days of election. Targeted naturalized citizens based on outdated DMV
-  records. Set dangerous precedent for ignoring NVRA protections.
+notes: Purge violated clear federal law protecting voters from systematic removal within 90 days of election. Targeted naturalized citizens based on outdated DMV records. Set dangerous precedent for ignoring NVRA protections.
 ---
 
 U.S. Supreme Court allowed Virginia to purge over 1,600 voters within federally protected 90-day "quiet period" before 2024 election in 6-3 emergency decision, overturning lower court rulings in Beals v. Virginia Coalition for Immigrant Rights. Governor Glenn Youngkin's Executive Order 35, issued exactly 90 days before election, targeted naturalized citizens who previously held noncitizen identification numbers. Clear violation of National Voter Registration Act (NVRA) that prohibits systematic purges within 90 days of federal election. Decision enabled disenfranchisement of eligible citizens.

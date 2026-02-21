@@ -1,10 +1,8 @@
 ---
 id: 2025-01-31--switzerland-s-publicly-owned-central-bank-bought-1-8-million
 date: '2025-01-31'
-title: Swiss National Bank purchased 111,300 shares of Trump Media worth $1.78M, stake
-  grows to $5.37M by February
-description: Swiss central bank's purchase of Trump Media stock creates foreign emoluments
-  concerns
+title: Swiss National Bank purchased 111,300 shares of Trump Media worth $1.78M, stake grows to $5.37M by February
+description: Swiss central bank's purchase of Trump Media stock creates foreign emoluments concerns
 status: confirmed
 importance: 9
 location: Switzerland
@@ -22,10 +20,9 @@ tags:
 - constitutional-crisis
 capture_type: monetizing_position
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
-- title: Switzerland's publicly-owned central bank bought $1.8 million in Trump Media
-    shares
+- title: Switzerland's publicly-owned central bank bought $1.8 million in Trump Media shares
   url: https://www.citizensforethics.org/reports-investigations/crew-investigations/swiss-national-bank-bought-trump-media-shares/
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
   date: '2025-01-31'
@@ -40,8 +37,7 @@ sources:
 connections: []
 patterns:
 - kleptocratic-capture
-notes: High-priority kleptocratic event from comprehensive timeline with growing foreign
-  investment.
+notes: High-priority kleptocratic event from comprehensive timeline with growing foreign investment.
 ---
 
 The Swiss National Bank, Switzerland's central bank majority owned by public entities,

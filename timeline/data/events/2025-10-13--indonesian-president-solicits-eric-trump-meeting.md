@@ -19,6 +19,9 @@ tags:
 - foreign-influence
 - trump-family-enrichment
 - emoluments-violations
+capture_lanes:
+- International Kleptocracy
+- Systematic Corruption
 ---
 
 Indonesian President Prabowo Subianto was caught on microphone asking Trump to arrange a meeting with Eric Trump, a Trump Organization executive, following a Gaza summit in Egypt. Trump agreed to have Eric contact him directly. This hot-mic moment documents how foreign leaders leverage Trump family business interests to gain policy access, demonstrating the systematic blending of private commercial interests with U.S. foreign policy. The exchange shows foreign leaders understand that access to Trump administration policy-making flows through Trump family business relationships, creating obvious corruption and national security risks.

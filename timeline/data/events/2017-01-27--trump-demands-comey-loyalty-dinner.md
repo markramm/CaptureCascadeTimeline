@@ -27,6 +27,10 @@ sources:
   tier: 1
   outlet: PBS
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Executive Power Expansion
+- Media Capture & Control
 ---
 
 President Trump invited FBI Director James Comey to a one-on-one dinner at the White House on January 27, 2017, where he directly demanded: "I need loyalty, I expect loyalty." Comey had expected others to attend but found himself alone with Trump in what he later described as an attempt to create a patronage relationship fundamentally at odds with FBI independence.

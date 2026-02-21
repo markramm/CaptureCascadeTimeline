@@ -13,7 +13,7 @@ tags:
 - campaign-finance
 - digital-assets
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Donald Trump Announces $99 Digital Trading Card NFTs
   url: https://www.coindesk.com/web3/2022/12/15/trump-announces-99-digital-trading-card-nfts
@@ -35,8 +35,7 @@ sources:
   outlet: Rolling Stone
   date: '2022-12-15'
   archive_url: https://web.archive.org/web/20251015000002/https://www.rollingstone.com/politics/politics-news/trump-announces-nft-trading-card-collection-1234648014/
-notes: Suspicious patterns with 115 collectors buying exactly 45 NFTs for Mar-a-Lago
-  dinner
+notes: Suspicious patterns with 115 collectors buying exactly 45 NFTs for Mar-a-Lago dinner
 status: confirmed
 ---
 

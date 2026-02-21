@@ -19,7 +19,7 @@ tags:
 - deficit-explosion
 - oversight-evasion
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: 'The One Big Beautiful Bill: Trump signs massive reconciliation package'

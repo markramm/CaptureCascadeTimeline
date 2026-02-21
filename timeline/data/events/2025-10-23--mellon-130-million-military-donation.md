@@ -29,6 +29,10 @@ tags:
 - privatization
 - conflicts-of-interest
 - institutional-capture
+capture_lanes:
+- International Kleptocracy
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 The Department of War accepted a $130 million anonymous donation from billionaire Timothy Mellon on October 23, 2025, to help pay U.S. service members during the government shutdown. Trump announced the donation at the White House, describing Mellon as a 'great patriot' and 'friend of mine' without initially identifying him. The Pentagon accepted the donation under general gift acceptance authority, with funds designated for service members' salaries and benefits. However, the donation amounts to only about $100 per service member, while biweekly troop pay costs nearly $6.4 billion. Legal experts warned the arrangement may violate the Antideficiency Act, which bars federal agencies from spending funds not appropriated by Congress. Mellon, grandson of former Treasury Secretary Andrew W. Mellon and heir to a banking fortune, contributed $50 million to Trump's super PAC during the 2024 cycle. The donation represents oligarchic power substituting for democratic accountability, with military funding now dependent on wealthy donor loyalty rather than Congressional appropriation. This establishes dangerous precedent for privatization of government functions and wealthy individuals purchasing influence over national defense.

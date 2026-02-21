@@ -16,7 +16,7 @@ tags:
 - billionaires
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Cabinet wealth concentration analysis
   url: https://www.usnews.com/news/trump-cabinet-wealth
@@ -34,11 +34,7 @@ sources:
   url: https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/
   outlet: Public Citizen
   date: '2025-01-21'
-notes: Elon Musk alone worth $448 billion, cabinet excluding Musk worth $13.8 billion.
-  Combined wealth more than GDP of 175 countries. Includes wrestling magnate Linda
-  McMahon, Howard Lutnick ($1.5B), Scott Bessent. Trump's first cabinet was $6.2 billion,
-  Biden's was $118 million. Fortune called it "stacking his Cabinet with billionaires
-  who will put Wall Street over Main Street."
+notes: Elon Musk alone worth $448 billion, cabinet excluding Musk worth $13.8 billion. Combined wealth more than GDP of 175 countries. Includes wrestling magnate Linda McMahon, Howard Lutnick ($1.5B), Scott Bessent. Trump's first cabinet was $6.2 billion, Biden's was $118 million. Fortune called it "stacking his Cabinet with billionaires who will put Wall Street over Main Street."
 status: confirmed
 ---
 

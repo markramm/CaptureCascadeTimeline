@@ -21,7 +21,7 @@ tags:
 - corruption
 - intelligence-gathering
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: How money flowed through Cohen's shell company
   url: https://www.washingtonpost.com/news/politics/wp/2018/05/08/how-money-flowed-through-michael-cohens-multi-purpose-shell-company/

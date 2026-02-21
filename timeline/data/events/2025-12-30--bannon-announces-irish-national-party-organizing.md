@@ -1,7 +1,7 @@
 ---
 id: 2025-12-30--bannon-announces-irish-national-party-organizing
 date: '2025-12-30'
-title: "Bannon Reveals He Is Organizing 'Irish National Party,' Promises 'Irish Trump'"
+title: Bannon Reveals He Is Organizing 'Irish National Party,' Promises 'Irish Trump'
 importance: 8
 actors:
 - Steve Bannon
@@ -12,7 +12,7 @@ tags:
 - nationalist-movements
 - foreign-interference
 sources:
-- title: "Steve Bannon promises 'Irish Trump' and says he is working to form 'national party' in Ireland"
+- title: Steve Bannon promises 'Irish Trump' and says he is working to form 'national party' in Ireland
   outlet: Irish Times
   url: https://www.irishtimes.com/politics/2025/12/30/steve-bannon-promises-irish-trump-and-says-he-is-working-to-form-national-party-in-ireland/
   tier: 1
@@ -22,8 +22,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- International Authoritarianism
-- Far-Right Networks
+- International Kleptocracy
+- Democratic Erosion
 ---
 
 Steve Bannon revealed he is "spending a ton of time behind the scenes on the Irish situation to help form an Irish national party." He promised an "Irish Trump" and stated the MAGA movement was being mirrored by groups in Ireland, Britain, France, and Italy.

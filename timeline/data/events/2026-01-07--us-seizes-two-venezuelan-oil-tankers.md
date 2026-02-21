@@ -30,6 +30,9 @@ actors:
 - Russia
 - China
 - Venezuela
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
 ---
 
 US forces seized two oil tankers linked to Venezuela: the Marinera (formerly Bella 1), a Russian-flagged vessel captured 190 miles off Iceland's coast after a weekslong pursuit, and the M/T Sophia in the Caribbean near Venezuela's main oil export hub. Navy SEALs and Army 160th Special Operations Aviation Regiment ('Night Stalkers') conducted the Marinera seizure; a Russian submarine and navy vessel had been escorting the tanker before US forces intervened. The M Sophia carried approximately 1.8-2 million barrels worth an estimated $108 million. The seizures came four days after US forces captured President Maduro. Russia condemned the Marinera seizure as a 'grave violation of sovereignty' while China called it a 'serious violation of international law.' Trump announced Venezuela would 'turn over' 30-50 million barrels of oil to the US.

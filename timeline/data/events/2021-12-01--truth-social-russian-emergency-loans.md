@@ -17,8 +17,7 @@ tags:
 - money-laundering
 - federal-investigation
 capture_lanes:
-- Financial Corruption & Kleptocracy
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: Truth Social Wikipedia - Russian Financial Connections
   url: https://en.wikipedia.org/wiki/Truth_Social

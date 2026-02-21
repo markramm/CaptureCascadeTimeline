@@ -11,33 +11,28 @@ actors:
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
-- International Diplomatic Manipulation
+- International Kleptocracy
 capture_type: monetizing_position
 connections: []
 date: '2025-03-15'
-description: The U.S. State Department, under the Trump administration, conducted
-  a systematic 'maximum pressure' campaign to help Starlink secure a business license
-  in Gambia, subtly suggesting potential aid cuts if the company was not approved.
+description: The U.S. State Department, under the Trump administration, conducted a systematic 'maximum pressure' campaign to help Starlink secure a business license in Gambia, subtly suggesting potential aid cuts if the company was not approved.
 id: 2025-03-15--the-trump-administration-leaned-on-african-countries-the-goa
 importance: 7
 location:
 - Washington, D.C.
 - Gambia
-notes: Detailed investigation revealing systemic diplomatic manipulation for corporate
-  interests
+notes: Detailed investigation revealing systemic diplomatic manipulation for corporate interests
 patterns:
 - kleptocratic-capture
 - state-corporate-collaboration
 sources:
 - date: '2025-05-15'
   outlet: ProPublica
-  title: 'The Trump administration leaned on African countries. The goal: get business
-    for Elon Musk'
+  title: 'The Trump administration leaned on African countries. The goal: get business for Elon Musk'
   url: https://www.propublica.org/article/trump-musk-starlink-state-department-gambia-africa-pressure
 - date: '2025-05-22'
   outlet: Techdirt
-  title: Trump Admin Forcing African Countries To Embrace Elon Musk's Starlink If
-    They Want To Continue Receiving Lifesaving Aid
+  title: Trump Admin Forcing African Countries To Embrace Elon Musk's Starlink If They Want To Continue Receiving Lifesaving Aid
   url: https://www.techdirt.com/2025/05/22/trump-admin-forcing-african-countries-to-embrace-elon-musks-starlink-if-they-want-to-continue-receiving-lifesaving-aid/
 - date: '2025-05-25'
   outlet: The New Republic

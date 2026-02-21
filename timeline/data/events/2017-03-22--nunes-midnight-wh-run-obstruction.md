@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- International Kleptocracy
+- Systematic Corruption
+- Legislative Capture
 ---
 
 House Intelligence Committee Chairman Devin Nunes made a secret visit to the White House grounds on March 21, 2017—the night before he dramatically announced he had seen intelligence suggesting Trump associates were "incidentally collected" in surveillance. Nunes viewed classified documents provided by White House officials, then returned to the White House the next day to brief President Trump on the very materials the White House had shown him, creating a bizarre circular spectacle designed to validate Trump's false wiretapping claims. Nunes presented this "evidence" to the president before sharing it with his own committee, including ranking member Adam Schiff, completely undermining the independence of the congressional investigation. The White House sources were later revealed to be National Security Council officials Ezra Cohen-Watnick and Michael Ellis, who helped Nunes access the materials. Nunes's actions represented a blatant attempt to manufacture a diversion from Comey's testimony confirming the FBI's Trump-Russia investigation just two days earlier. Democrats immediately called for Nunes's recusal, and he eventually stepped aside from the Russia investigation in April 2017 after the House Ethics Committee opened an investigation into whether he disclosed classified information.

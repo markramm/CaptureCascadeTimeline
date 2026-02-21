@@ -19,7 +19,7 @@ tags:
 - donor-advised-funds
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Dark money spending in 2024 federal elections reaches record $1.9 billion
@@ -34,9 +34,7 @@ sources:
   url: https://www.washingtonpost.com/politics/2024/11/08/dark-money-super-pacs-record/
   outlet: The Washington Post
   date: '2024-11-08'
-notes: Nearly double previous record. Shell companies used extensively to hide ultimate
-  funding sources. Donor-advised funds provide complete anonymity while claiming tax
-  benefits.
+notes: Nearly double previous record. Shell companies used extensively to hide ultimate funding sources. Donor-advised funds provide complete anonymity while claiming tax benefits.
 ---
 
 Brennan Center for Justice documented record-breaking dark money spending of $1.9 billion in 2024 federal election cycle, nearly doubling previous record. Dark money groups contributed $1.3 billion to super PACs, more than prior two election cycles combined, often routed through shell companies to hide ultimate sources. DeSmog investigation revealed major financial services companies—Fidelity, Charles Schwab, and Vanguard—funneled at least $171 million to Project 2025 groups through donor-advised funds providing complete anonymity. Represents systematic corruption of electoral process.

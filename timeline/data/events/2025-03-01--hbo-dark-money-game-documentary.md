@@ -18,7 +18,7 @@ tags:
 - media-investigation
 - kleptocracy
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 status: confirmed
 sources:
 - title: HBO's 'The Dark Money Game' reveals FBI wiretaps of corrupt officials
@@ -33,9 +33,7 @@ sources:
   url: https://www.hollywoodreporter.com/tv/tv-reviews/dark-money-game-hbo-documentary-1234567890
   outlet: The Hollywood Reporter
   date: '2025-03-02'
-notes: Officials caught on FBI wiretaps explicitly stating Citizens United decision
-  enabled their corruption. Documentary reveals coordinated astroturfing networks
-  and algorithmic manipulation systems.
+notes: Officials caught on FBI wiretaps explicitly stating Citizens United decision enabled their corruption. Documentary reveals coordinated astroturfing networks and algorithmic manipulation systems.
 ---
 
 HBO's "The Dark Money Game" by Academy Award-winning filmmaker Alex Gibney exposed systematic corruption through FBI wiretaps of officials saying "it's good now because of Citizens United." Documentary series revealed how untraceable funding enables institutional capture at state and federal levels through coordinated astroturfing networks and algorithmic manipulation. Film provides unprecedented inside look at how dark money corrupts democratic institutions, featuring recordings of officials explicitly acknowledging Citizens United enabled their corruption schemes.

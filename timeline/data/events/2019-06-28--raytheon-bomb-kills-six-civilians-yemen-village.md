@@ -33,6 +33,10 @@ actors:
 - Mohammed bin Salman
 - Amnesty International
 - Donald Trump
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Intelligence Penetration
 ---
 
 On June 28, 2019, a Saudi-led coalition airstrike struck a village in Yemen's Dhamar governorate, killing six civilians including three children, using a weapon identified by Amnesty International as a Raytheon-manufactured GBU-12 Paveway II laser-guided bomb. The attack occurred just eight days after the Senate voted to block Raytheon Paveway sales to Saudi Arabia (June 20) and one month before President Trump would veto those congressional resolutions (July 24), demonstrating that Saudi forces continued using previously-delivered Raytheon weapons to kill civilians even as Congress debated restricting future sales. Amnesty International weapons experts examined remnants at the strike site and positively identified the Raytheon GBU-12 based on manufacturer markings and components. The six civilian deaths represented another entry in the growing ledger of Yemeni casualties killed by Raytheon precision-guided munitions, with the attack occurring during the peak of congressional scrutiny over Yemen war crimes yet producing no interruption to Raytheon's Saudi contracts or political influence.

@@ -7,13 +7,11 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
-- Foreign Business Influence
-- Potential Conflict of Interest
+- International Kleptocracy
+- Systematic Corruption
 capture_type: foreign_business_influence
 date: '2025-06-02'
-description: The Trump Organization has dramatically expanded its global real estate
-  portfolio during Trump's second presidential term, launching 21 international projects
-  across 10 countries with significant government connections
+description: The Trump Organization has dramatically expanded its global real estate portfolio during Trump's second presidential term, launching 21 international projects across 10 countries with significant government connections
 id: 2025-06-02--trump-org-21-intl-projects-during-presidency
 importance: 8
 location: Multiple Countries
@@ -40,8 +38,7 @@ tags:
 - government-contracts
 - international-business
 - conflict-of-interest
-title: Trump Organization Launches 21 International Projects During Second Presidential
-  Term
+title: Trump Organization Launches 21 International Projects During Second Presidential Term
 notes: Expanded event documentation tracking global business entanglements
 connections:
 - 2025-05-20--trump-middle-east-diplomatic-trip

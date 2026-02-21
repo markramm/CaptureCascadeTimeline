@@ -13,7 +13,7 @@ tags:
 - spacex
 - national-security
 capture_lanes:
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: NASA Chief Calls for Investigation into Musk-Putin Communications
   url: https://www.reuters.com/technology/nasa-chief-calls-investigation-into-musk-putin-communications-2024-10-25/

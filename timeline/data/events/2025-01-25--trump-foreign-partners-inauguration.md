@@ -2,11 +2,7 @@
 id: 2025-01-25--trump-foreign-partners-inauguration
 date: '2025-01-25'
 title: Trump's Foreign Business Partners and Corporate Leaders Converge at 2025 Inauguration
-description: Several foreign business partners of the Trump Organization attended
-  inauguration-related events, posed for photos with Trump, and referenced their connections
-  to his presidency in promotional materials. Corporate leaders from tech and various
-  industries were also present, highlighting the extensive business networks surrounding
-  the Trump administration.
+description: Several foreign business partners of the Trump Organization attended inauguration-related events, posed for photos with Trump, and referenced their connections to his presidency in promotional materials. Corporate leaders from tech and various industries were also present, highlighting the extensive business networks surrounding the Trump administration.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -40,11 +36,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - foreign-business-networking
-notes: Comprehensive tracking of kleptocratic networking and foreign business influence
-  during Trump's second inauguration.
+notes: Comprehensive tracking of kleptocratic networking and foreign business influence during Trump's second inauguration.
 capture_lanes:
 - Systematic Corruption
-- Kleptocratic Networking
+- International Kleptocracy
 ---
 
 At the 2025 inauguration, foreign business partners and corporate leaders from tech, media, and international companies converged, highlighting the extensive business networks surrounding Trump's presidency. Major companies like Coca-Cola and CoreCivic made significant donations, while tech CEOs like Zuckerberg, Bezos, and Musk were in attendance.

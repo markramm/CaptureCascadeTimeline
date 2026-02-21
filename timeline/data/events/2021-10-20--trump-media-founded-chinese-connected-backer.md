@@ -17,7 +17,7 @@ tags:
 - media-control
 - financial-conflicts
 capture_lanes:
-- Foreign Influence Operations
+- International Kleptocracy
 sources:
 - title: Trump's new social media backer tied to China lifestyle venture
   url: https://www.aljazeera.com/news/2021/10/22/trumps-new-social-media-backer-tied-to-china-lifestyle-venture
@@ -34,15 +34,12 @@ sources:
   outlet: Bloomberg
   date: '2021-10-21'
   archive_url: https://web.archive.org/web/20211021000000/https://www.bloomberg.com/news/articles/2021-10-21/the-moneyman-behind-trump-s-media-company-runs-a-firm-in-wuhan
-- title: Trump's media business is working with Arc Capital, a Chinese firm with history
-    of SEC investigations
+- title: Trump's media business is working with Arc Capital, a Chinese firm with history of SEC investigations
   url: https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/
   outlet: The Washington Post
   date: '2021-12-23'
   archive_url: https://web.archive.org/web/20211223000000/https://www.washingtonpost.com/business/2021/12/23/trump-spac-deal-sec/
-notes: Orlando's dual role as DWAC CEO and head of Wuhan-based company raises foreign
-  influence concerns. TMTG founded specifically to create Trump-controlled social
-  media platform.
+notes: Orlando's dual role as DWAC CEO and head of Wuhan-based company raises foreign influence concerns. TMTG founded specifically to create Trump-controlled social media platform.
 status: confirmed
 ---
 

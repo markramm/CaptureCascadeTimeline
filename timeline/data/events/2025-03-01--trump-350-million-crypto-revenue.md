@@ -14,19 +14,17 @@ tags:
 - foreign-investment
 - financial-disclosure
 capture_lanes:
-- Financial Corruption & Kleptocracy
+- International Kleptocracy
 sources:
 - title: Trump crypto revenue analysis
   url: https://www.ft.com/content/trump-crypto-revenue
   outlet: Financial Times
   date: '2025-03-01'
-- title: Trump's World Liberty Financial crypto project says it sold $550 million
-    in tokens
+- title: Trump's World Liberty Financial crypto project says it sold $550 million in tokens
   url: https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html
   outlet: CNBC
   date: '2025-03-17'
-- title: Trump family's net worth has increased by $2.9 billion thanks to crypto investments,
-    new report says
+- title: Trump family's net worth has increased by $2.9 billion thanks to crypto investments, new report says
   url: https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/
   outlet: CBS News
   date: '2025-03-15'

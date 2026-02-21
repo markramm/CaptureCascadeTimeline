@@ -42,6 +42,10 @@ actors:
 - Mohammed bin Salman
 - Bob Menendez
 - Chris Murphy
+capture_lanes:
+- International Kleptocracy
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 On July 24, 2019, President Trump vetoed three congressional joint resolutions that would have blocked major components of his $8.1 billion emergency arms sale to Saudi Arabia and the UAE, including transfers of Raytheon Paveway precision-guided munitions. The vetoes overrode bipartisan Senate majorities that had voted to disapprove the sales, protecting defense contractor revenues despite documented use of US weapons in Yemen war crimes. The blocked resolutions specifically targeted Paveway bombs (manufactured by Raytheon) and fuzing systems to detonate them—the same weapon types identified in attacks killing Yemeni civilians including the August 2018 school bus massacre and multiple funeral and wedding bombings. Trump's veto message claimed the sales were "critical to US national security and foreign policy interests" and necessary to counter Iranian threats, ignoring extensive congressional testimony about Saudi war crimes and the fabricated nature of the "emergency" justification. The vetoes marked Trump's fifth, sixth, and seventh uses of presidential veto power, demonstrating his willingness to spend political capital protecting defense contractor profits.
