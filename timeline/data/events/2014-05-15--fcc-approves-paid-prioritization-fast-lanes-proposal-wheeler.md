@@ -35,6 +35,10 @@ sources:
   outlet: The Washington Post
   date: '2014-05-20'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+- Judicial Capture
 ---
 
 The Federal Communications Commission votes 3-2 to advance Chairman Tom Wheeler's controversial proposal that would permit internet service providers to charge content companies for priority "fast lane" access to consumers, fundamentally threatening net neutrality principles. The proposal, which emerged after the January 2014 Verizon court decision struck down previous net neutrality rules, would allow ISPs to negotiate paid prioritization deals as long as the terms were deemed "commercially reasonable"—a vague standard that critics argued would inevitably favor deep-pocketed corporations over startups and individual creators.

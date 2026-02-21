@@ -29,6 +29,10 @@ sources:
   date: '2025-08-17'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 Trump signed an executive order directing the Labor Department to allow cryptocurrencies, private equity, and other alternative assets in 401(k) retirement plans, exposing the $12.5 trillion in retirement savings to high-risk, illiquid investments with elevated fees.

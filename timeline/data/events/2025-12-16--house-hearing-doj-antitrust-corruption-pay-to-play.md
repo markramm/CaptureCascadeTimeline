@@ -134,4 +134,8 @@ sources:
   date: 2025-12-16
   tier: 1
   outlet: House Judiciary Committee Democrats
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---

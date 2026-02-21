@@ -43,6 +43,10 @@ sources:
   tier: 1
   outlet: CBS News
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
+- Military-Industrial Complex
 ---
 
 # RFK Jr.'s Reconstituted CDC Panel Votes to Roll Back Newborn Hepatitis B Vaccine Recommendation

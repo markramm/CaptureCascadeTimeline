@@ -29,6 +29,10 @@ sources:
   date: 2015-07-10
   tier: 1
   outlet: Card Player
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
+- Civil Rights Suppression
 ---
 
 New Jersey casino regulators fined Trump Plaza Hotel and Casino $200,000—at the time one of the largest civil rights penalties ever imposed on an Atlantic City casino—for systematically removing Black employees and women from craps tables to accommodate the racist demands of Robert LiButti, a mob-linked high roller. The New Jersey Casino Control Commission doubled the gaming division's recommended fine after determining the discrimination was "gravely serious."

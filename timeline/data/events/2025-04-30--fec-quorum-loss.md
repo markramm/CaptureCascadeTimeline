@@ -20,7 +20,7 @@ tags:
 - regulatory-capture
 - campaign-finance
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 citations:
 - 'Federal News Network — FEC loses quorum after Dickerson resigns (Apr 30, 2025): [Referenced in document]'
 - Multiple outlets and law firms note enforcement shutdown following quorum loss

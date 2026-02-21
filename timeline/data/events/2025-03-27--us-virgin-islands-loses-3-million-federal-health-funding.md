@@ -15,8 +15,7 @@ tags:
 - public-health
 - immunization
 capture_lanes:
-- Healthcare System Capture
-- Colonial Administration
+- Regulatory Capture
 sources:
 - title: V.I. Health Department Braced for Federal Cuts, But Immunization and Prevention Still Face Pressure
   url: https://stthomassource.com/content/2025/03/27/v-i-health-department-braced-for-federal-cuts-but-immunization-and-prevention-still-face-pressure/

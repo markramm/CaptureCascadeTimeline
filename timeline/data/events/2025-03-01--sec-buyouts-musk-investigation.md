@@ -13,8 +13,8 @@ tags:
 - musk-benefits
 - enforcement-interference
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 sources:
 - title: Sherrill Calls for Investigations Into Elon Musk's Vast Conflicts of Interest
   url: https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies

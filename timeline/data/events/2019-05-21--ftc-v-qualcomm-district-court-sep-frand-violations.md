@@ -37,6 +37,10 @@ sources:
   url: https://ipwatchdog.com/2020/08/11/qualcomm-vindicated-ninth-circuit-reversal-california-court/id=124046/
   outlet: IPWatchdog
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Judicial Capture
 ---
 
 Federal Judge Lucy Koh issues a 233-page decision finding Qualcomm violated antitrust laws (Sherman Act Sections 1 and 2) through its 'no license, no chips' policy for standard essential patents (SEPs) covering cellular modem technology, which Qualcomm had committed to license on Fair, Reasonable, and Non-Discriminatory (FRAND) terms through standards-setting organizations. The FTC, filing suit in January 2017 by a 2-1 vote under Chairwoman Edith Ramirez, alleged Qualcomm monopolized the chip market by refusing to license SEPs to rival chipmakers and extracting supracompetitive royalty rates from device manufacturers (OEMs) by conditioning chip sales on patent licensing agreements. Judge Koh's injunction prohibits Qualcomm from conditioning chip supply on licensing status and requires FRAND licensing to competitors. However, in August 2020, a unanimous Ninth Circuit panel reverses Koh's decision, holding that 'no license, no chips' is 'chip supplier neutral' and thus doesn't violate antitrust law—residual FRAND issues belong under contract law, not antitrust. The reversal receives support from Departments of Justice, Defense, and Energy citing concerns that the injunction would 'undermine United States leadership in the race to 5G technology' and impact national security. The case exemplifies tensions in IP/antitrust intersection: standard essential patents create monopolies by definition, enabling systematic extraction, yet national security/industrial policy concerns override competitive markets. Qualcomm's victory entrenches incumbent patent holder advantages in standards-based industries.

@@ -30,6 +30,10 @@ sources:
   date: '2020-03-03'
   tier: 2
   outlet: DCReport
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Corporate Capture
 ---
 
 The Department of Justice announces it will not bring criminal charges against any Wells Fargo executives for their roles in the fake accounts scandal, instead accepting a deferred prosecution agreement with the corporation. Despite Wells Fargo's admission that "top Community Bank leaders" were aware of unlawful conduct as early as 2002, despite 3.5 million fake accounts affecting millions of customers, despite admitted fraud involving forged signatures and stolen identities, the Trump DOJ concludes that no individual executives merit prosecution. The decision becomes definitive proof that senior banking executives operate above criminal law.

@@ -39,6 +39,10 @@ sources:
   outlet: KRDO
   date: '2025-12-07'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Media Capture & Control
 ---
 
 U.S. District Judge Colleen Kollar-Kotelly issued a temporary restraining order on December 7, 2025, blocking the Justice Department from accessing, using, or disseminating evidence seized from Daniel Richman, a Columbia Law professor and former attorney for James Comey. The judge found that Richman was "likely to succeed" in proving the government violated his Fourth Amendment rights "by retaining a complete copy of all files on his personal computer" and searching that image without a warrant. The ruling potentially blocks DOJ from re-indicting Comey following the November 24 dismissal of his case due to prosecutor Lindsey Halligan's unlawful appointment.

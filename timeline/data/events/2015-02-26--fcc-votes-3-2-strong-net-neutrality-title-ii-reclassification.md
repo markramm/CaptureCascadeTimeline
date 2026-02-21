@@ -20,21 +20,25 @@ tags:
 - regulatory-capture
 status: confirmed
 sources:
-- title: 'FCC Approves Net Neutrality Rules For Open Internet'
+- title: FCC Approves Net Neutrality Rules For Open Internet
   url: https://www.npr.org/sections/thetwo-way/2015/02/26/389259382/net-neutrality-up-for-vote-today-by-fcc-board
   outlet: NPR
   date: '2015-02-26'
   tier: 1
-- title: 'FCC Enacts Title II Net Neutrality Rules With Partisan Vote'
+- title: FCC Enacts Title II Net Neutrality Rules With Partisan Vote
   url: https://www.usnews.com/news/articles/2015/02/26/fcc-enacts-title-ii-net-neutrality-rules-with-partisan-vote
   outlet: U.S. News
   date: '2015-02-26'
   tier: 2
-- title: 'FCC Votes to Adopt Tom Wheeler Net Neutrality Rules'
+- title: FCC Votes to Adopt Tom Wheeler Net Neutrality Rules
   url: https://www.usnews.com/opinion/articles/2015/02/26/fcc-votes-to-adopt-tom-wheelers-net-neutrality-rules
   outlet: U.S. News
   date: '2015-02-26'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Media Capture & Control
 ---
 
 The Federal Communications Commission approves landmark net neutrality protections by a 3-2 party-line vote, reclassifying broadband internet service as a "telecommunications service" under Title II of the Communications Act of 1934 to establish legally enforceable rules prohibiting blocking, throttling, and paid prioritization. Democratic Commissioners Jessica Rosenworcel and Mignon Clyburn joined Chairman Tom Wheeler in supporting the measure, while Republican Commissioners Ajit Pai and Michael O'Rielly dissented, with Pai accusing the majority of acting "because President Obama told us to."

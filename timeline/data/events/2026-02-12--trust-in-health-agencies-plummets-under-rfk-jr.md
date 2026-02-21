@@ -24,6 +24,8 @@ sources:
   outlet: CNN
   date: '2026-02-13'
   tier: 2
+capture_lanes:
+- Regulatory Capture
 ---
 
 Polling data from Kaiser Family Foundation reveals that public trust in federal health agencies has declined significantly during Robert F. Kennedy Jr.'s first year as HHS Secretary, contradicting his central promise to restore confidence in America's public health institutions. The decline in trust occurs across the political spectrum despite Kennedy's repeated claims that his dramatic policy upheavals and dismissal of scientists and advisers would boost transparency and empower Americans to make their own health choices. The erosion represents an acceleration of trust decline that began during the COVID-19 pandemic, when CDC approval ratings fell from over 60 percent (two decades ago) to 40 percent in 2020 following agency mistakes and controversial guidance.

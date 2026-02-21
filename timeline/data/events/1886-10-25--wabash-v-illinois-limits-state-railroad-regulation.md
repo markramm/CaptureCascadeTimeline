@@ -9,15 +9,15 @@ actors:
 - Illinois Legislature
 - Interstate Commerce
 sources:
-- title: 'Wabash, St. Louis & Pacific Railway Co. v. Illinois'
+- title: Wabash, St. Louis & Pacific Railway Co. v. Illinois
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Wabash,_St._Louis_&_Pacific_Railway_Co._v._Illinois
   year: 2025
-- title: 'The Supreme Court Strikes Down Railroad Regulation'
+- title: The Supreme Court Strikes Down Railroad Regulation
   outlet: History Matters
   url: https://historymatters.gmu.edu/d/5746/
   year: 2025
-- title: 'Wabash v Illinois'
+- title: Wabash v Illinois
   outlet: Fiveable
   url: https://fiveable.me/key-terms/apush/wabash-v-illinois
   year: 2025
@@ -29,8 +29,8 @@ tags:
 - states-rights
 capture_lanes:
 - Judicial Capture
-- Regulatory Framework Erosion
-- Corporate Legal Strategy
+- Regulatory Capture
+- Corporate Capture
 status: confirmed
 ---
 

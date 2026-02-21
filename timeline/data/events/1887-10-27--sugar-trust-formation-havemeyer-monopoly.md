@@ -12,11 +12,11 @@ sources:
   outlet: Origins - Ohio State University
   url: https://origins.osu.edu/milestones/january-2019-us-sugar-monopoly-E.C.Knight-Sherman-Act-Spreckels-court
   year: 2019
-- title: 'American Sugar Refining Company'
+- title: American Sugar Refining Company
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/American_Sugar_Refining_Company
   year: 2025
-- title: 'Henry Osborne Havemeyer'
+- title: Henry Osborne Havemeyer
   outlet: Encyclopedia.com
   url: https://www.encyclopedia.com/people/social-sciences-and-law/business-leaders/henry-osborne-havemeyer
   year: 2025
@@ -27,9 +27,9 @@ tags:
 - price-fixing
 - market-manipulation
 capture_lanes:
-- Industry Consolidation
-- Price Control Systems
-- Market Manipulation
+- Regulatory Capture
+- Civil Rights Suppression
+- Financial Capture
 status: confirmed
 ---
 

@@ -20,6 +20,10 @@ sources:
   tier: 2
   outlet: WIRED
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Surveillance Infrastructure
 ---
 
 The Federal Trade Commission deleted blog posts warning consumers about AI fraud, algorithmic bias, and corporate surveillance published under former Chair Lina Khan. The purge potentially violates federal record-keeping laws and shields tech companies from regulatory accountability. FTC's removal of consumer protection materials eliminates critical public education about emerging technology harms while the agency faces industry pressure to relax enforcement. The deletion follows Trump's pattern of installing corporate-friendly leadership to dismantle consumer protections and eliminate guidance that enables informed decision-making. WIRED investigation revealed the systematic erasure of consumer advocacy materials created under Khan's pro-enforcement tenure. The purge demonstrates regulatory capture where the FTC shifts from protecting consumers to protecting corporations from accountability.

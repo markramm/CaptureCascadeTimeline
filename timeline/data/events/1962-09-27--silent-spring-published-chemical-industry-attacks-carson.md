@@ -4,39 +4,39 @@ date: '1962-09-27'
 title: Rachel Carson Publishes Silent Spring, Chemical Industry Launches Coordinated Attack Campaign
 importance: 9
 actors:
-  - Rachel Carson
-  - Monsanto
-  - American Cyanamid
-  - Velsicol Chemical Corporation
-  - National Agricultural Chemicals Association
+- Rachel Carson
+- Monsanto
+- American Cyanamid
+- Velsicol Chemical Corporation
+- National Agricultural Chemicals Association
 tags:
-  - environmental-regulation
-  - corporate-disinformation
-  - regulatory-capture
-  - chemical-industry
-  - public-health
+- environmental-regulation
+- corporate-disinformation
+- regulatory-capture
+- chemical-industry
+- public-health
 sources:
-  - title: "How 'Silent Spring' Ignited the Environmental Movement"
-    url: "https://www.nytimes.com/2012/09/23/magazine/how-silent-spring-ignited-the-environmental-movement.html"
-    outlet: "New York Times Magazine"
-    date: 2012-09-23
-    verified: true
-    tier: 1
-  - title: "Rachel Carson and Silent Spring"
-    url: "https://www.nrdc.org/stories/story-silent-spring"
-    outlet: "Natural Resources Defense Council"
-    date: 2015-08-13
-    verified: true
-    tier: 2
-  - title: "The Chemical Industry's Reaction to Silent Spring"
-    url: "https://www.sciencehistory.org/stories/magazine/rachel-carsons-critics-kept-attacking-her-even-after-she-died/"
-    outlet: "Science History Institute"
-    date: 2017-06-13
-    verified: true
-    tier: 2
+- title: How 'Silent Spring' Ignited the Environmental Movement
+  url: https://www.nytimes.com/2012/09/23/magazine/how-silent-spring-ignited-the-environmental-movement.html
+  outlet: New York Times Magazine
+  date: 2012-09-23
+  verified: true
+  tier: 1
+- title: Rachel Carson and Silent Spring
+  url: https://www.nrdc.org/stories/story-silent-spring
+  outlet: Natural Resources Defense Council
+  date: 2015-08-13
+  verified: true
+  tier: 2
+- title: The Chemical Industry's Reaction to Silent Spring
+  url: https://www.sciencehistory.org/stories/magazine/rachel-carsons-critics-kept-attacking-her-even-after-she-died/
+  outlet: Science History Institute
+  date: 2017-06-13
+  verified: true
+  tier: 2
 capture_lanes:
-  - Regulatory Capture
-  - Corporate Disinformation
+- Regulatory Capture
+- Media Capture & Control
 status: confirmed
 ---
 

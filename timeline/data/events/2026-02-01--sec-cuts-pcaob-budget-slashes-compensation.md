@@ -23,6 +23,10 @@ sources:
   outlet: Jacobin
   date: '2026-02-01'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 The SEC approved a $362 million 2026 budget for the Public Company Accounting Oversight Board (PCAOB)—9.4% less than the previous year. The SEC also cut the board's accounting support fee by 18.4% to $306 million, and slashed compensation for the auditor watchdog's chair and other board members by 52% and 42%, respectively.

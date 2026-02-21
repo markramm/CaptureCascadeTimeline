@@ -22,7 +22,7 @@ tags:
 - rule-of-law
 - immigration-enforcement
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: Maryland members of Congress denied tour of Baltimore ICE detention site
   url: https://www.thebanner.com/politics-power/national-politics/maryland-congress-denied-ice-tour-4TNTNBZERBCIZPIHLSXEIWFXCI/

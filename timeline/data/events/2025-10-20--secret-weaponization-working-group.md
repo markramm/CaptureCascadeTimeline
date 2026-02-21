@@ -24,6 +24,10 @@ sources:
   tier: 1
   outlet: Reuters
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Executive Power Expansion
 ---
 
 Reuters revealed that 39 officials spanning the White House, DOJ, CIA, FBI, and intelligence agencies coordinate Trump's systematic retaliation against perceived enemies from the Russia probe and January 6 investigations through a secret 'Interagency Weaponization Working Group.' The group, led by Attorney General Pam Bondi and Director of National Intelligence Tulsi Gabbard, institutionalizes political persecution by coordinating prosecutions, investigations, and punishments across the federal government. The working group operates in secrecy to identify and target former prosecutors, investigators, and officials who held Trump accountable, converting the entire national security apparatus into a revenge operation. Over 300 former intelligence and law enforcement officials called for congressional investigation, warning the group represents the complete weaponization of federal law enforcement for authoritarian purposes. The structure demonstrates systematic planning to use government power against political opponents rather than isolated retaliatory acts.

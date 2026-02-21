@@ -10,19 +10,19 @@ actors:
 - National Association of Realtors
 - House Rules Committee
 sources:
-- title: 'The Legacy of the 1968 Fair Housing Act'
+- title: The Legacy of the 1968 Fair Housing Act
   outlet: National Center for Biotechnology Information
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4808815/
   year: 2016
-- title: 'Civil Rights Act of 1968'
+- title: Civil Rights Act of 1968
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1968
   year: 2024
-- title: 'A Brief History Lesson on REALTORS and Race'
+- title: A Brief History Lesson on REALTORS and Race
   outlet: NotoriousROB
   url: https://notoriousrob.com/2020/07/a-brief-history-lesson-on-realtors-and-race/
   year: 2020
-- title: 'Fair Housing Act'
+- title: Fair Housing Act
   outlet: History.com
   url: https://www.history.com/articles/fair-housing-act
   year: 2024
@@ -33,9 +33,9 @@ tags:
 - real-estate-industry
 - corporate-opposition
 capture_lanes:
-- Real Estate Industry Capture
-- Congressional Obstruction
-- Institutional Racism
+- Regulatory Capture
+- Legislative Capture
+- Civil Rights Suppression
 status: confirmed
 ---
 

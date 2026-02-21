@@ -30,6 +30,9 @@ sources:
   outlet: Bloomberg
   date: '2026-01-27'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Executive Power Expansion
 ---
 
 President Trump signed an executive order directing aggressive federal intervention to accelerate rebuilding in Los Angeles neighborhoods devastated by the 2025 Pacific Palisades and Eaton Canyon wildfires, explicitly asserting that California and local officials failed to manage the fires or enable reconstruction. The order instructs FEMA and the SBA to issue regulations within 30 days that preempt state and local procedural permitting requirements, replacing them with federally supervised self-certification by builders. It also requires agencies to fast-track environmental and historic preservation reviews, propose legislation to handle future cases where states "impede disaster recovery," and conduct audits of California's nearly $3 billion in unspent Hazard Mitigation Grant Program funds.

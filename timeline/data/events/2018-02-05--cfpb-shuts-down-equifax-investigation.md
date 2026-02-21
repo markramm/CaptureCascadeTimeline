@@ -34,6 +34,10 @@ sources:
   outlet: Senator Mark Warner
   date: '2018-02-05'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 Trump-appointed Acting CFPB Director Mick Mulvaney effectively shuts down the Consumer Financial Protection Bureau's investigation into the Equifax data breach that exposed 147 million Americans to identity theft. After former Director Richard Cordray authorized a full-scale investigation in September 2017, Mulvaney—who took over in November 2017—neither orders subpoenas against Equifax nor seeks sworn testimony from executives. The CFPB shelves plans for on-the-ground tests of Equifax's data protection systems and rebuffs offers from the Federal Reserve, FDIC, and OCC when they volunteer to help with on-site examinations of credit bureaus.

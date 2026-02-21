@@ -17,11 +17,11 @@ tags:
 - ama
 - national-health-insurance
 sources:
-- title: 'Harry S. Truman and National Health Insurance'
+- title: Harry S. Truman and National Health Insurance
   outlet: Truman Library Institute
   url: https://www.trumanlibraryinstitute.org/truman-health-care/
   date: '2024-01-01'
-- title: 'The American Medical Association and the Politics of American Health Care Reform'
+- title: The American Medical Association and the Politics of American Health Care Reform
   outlet: Journal of Health Politics, Policy and Law
   url: https://academic.oup.com/jhppl
   date: '2004-01-01'
@@ -30,9 +30,9 @@ sources:
   url: https://www.pbs.org/newshour/health/november-19-1945-truman-asks-congress-for-national-health-insurance
   date: '2019-01-01'
 capture_lanes:
-- Healthcare Industry Capture
-- Corporate Political Strategy
-- Media Manipulation
+- Regulatory Capture
+- Corporate Capture
+- Media Capture & Control
 status: confirmed
 ---
 

@@ -18,7 +18,7 @@ tags:
 - hotel-jails
 - human-rights-violations
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: Shadow Immigration System - Migrant Children Detained In Hotels By Private Contractors
   url: https://www.npr.org/2020/08/20/904027735/shadow-immigration-system-migrant-children-detained-in-hotels-by-private-contrac

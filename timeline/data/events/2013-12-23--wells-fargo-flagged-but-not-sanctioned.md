@@ -23,10 +23,13 @@ sources:
   outlet: NPR
   date: '2015-05-08'
 - url: https://www.cjr.org/q_and_a/wells_fargo_la_times_accounts.php
-  title: 'Q&A: Former LA Times reporter on story that led to $185 million Wells Fargo
-    fine'
+  title: 'Q&A: Former LA Times reporter on story that led to $185 million Wells Fargo fine'
   outlet: Columbia Journalism Review
   date: '2016-09-14'
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 The Los Angeles Times investigates Wells Fargo's aggressive sales practices, revealing systematic pressures on employees to create unauthorized accounts. The investigation exposes a corporate culture that incentivized fraud, with employees opening fake accounts to meet impossible sales quotas. While initially flagged, Wells Fargo was not immediately sanctioned, allowing problematic practices to continue for several more years.

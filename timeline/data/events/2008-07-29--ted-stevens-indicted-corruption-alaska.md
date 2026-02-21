@@ -40,4 +40,8 @@ sources:
   date: 2012-03-15
   tier: 1
   outlet: NPR
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---

@@ -28,6 +28,10 @@ sources:
   date: '2025-09-19'
   tier: 2
   outlet: WMAL
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Digital & Tech Capture
 ---
 
 The Securities and Exchange Commission under Trump-appointed chairman Paul Atkins abandoned civil enforcement cases seeking tens of millions in restitution from Devon Archer, Trevor Milton, and Carlos Watson—all convicted fraudsters pardoned or given clemency by Trump. The SEC filed joint stipulations of dismissal, meaning victims will not recover: $60 million from Archer (pension fund fraud), $660 million from Milton (Nikola investor fraud), and $97 million from Watson (Ozy Media fraud). This represents the weaponization of federal enforcement into a loyalty-reward system where Trump's friends escape accountability and defrauded investors are left without recourse. The move transforms the SEC from a watchdog into an instrument protecting connected criminals.

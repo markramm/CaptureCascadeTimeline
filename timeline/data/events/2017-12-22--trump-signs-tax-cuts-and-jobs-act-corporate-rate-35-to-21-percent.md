@@ -1,9 +1,7 @@
 ---
 id: 2017-12-22--trump-signs-tax-cuts-and-jobs-act-corporate-rate-35-to-21-percent
 date: '2017-12-22'
-title: Trump Signs Tax Cuts and Jobs Act - Corporate Rate Permanently Slashed from
-  35% to 21%, Pass-Through Deduction, Estate Tax Exemption Doubled, $1.9 Trillion
-  Added to Deficit
+title: Trump Signs Tax Cuts and Jobs Act - Corporate Rate Permanently Slashed from 35% to 21%, Pass-Through Deduction, Estate Tax Exemption Doubled, $1.9 Trillion Added to Deficit
 importance: 10
 actors:
 - Donald Trump
@@ -29,7 +27,7 @@ tags:
 - republican-party
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 sources:
 - title: Tax Cuts and Jobs Act
   url: https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act
@@ -68,13 +66,11 @@ sources:
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8886708/
   outlet: National Institutes of Health
   tier: 1
-- title: 'The Tax Bill And The Individual Mandate: What Happened, And What Does It
-    Mean?'
+- title: 'The Tax Bill And The Individual Mandate: What Happened, And What Does It Mean?'
   url: https://www.healthaffairs.org/do/10.1377/forefront.20171220.323429/
   outlet: Health Affairs
   tier: 1
-- title: CBO Report Shows Repeal of Individual Mandate Results in 13 Million More
-    Americans Uninsured, Higher Premiums
+- title: CBO Report Shows Repeal of Individual Mandate Results in 13 Million More Americans Uninsured, Higher Premiums
   url: https://www.lung.org/media/press-releases/repeal-of-individual-mandate-results
   outlet: American Lung Association
   tier: 2

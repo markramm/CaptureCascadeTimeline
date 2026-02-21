@@ -33,6 +33,10 @@ sources:
   outlet: The American Prospect
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Corporate Capture
 ---
 
 Corinthian Colleges, one of the nation's largest for-profit college chains with over 100 campuses, filed for bankruptcy after federal and state regulators exposed systematic fraud against students. The company aggressively recruited low-income students with false promises of high job placement rates and career success, then trapped them in predatory loans with costs up to ten times that of comparable community college degrees. Investigations revealed Corinthian fabricated job placement statistics, employed disbarred lawyers as instructors, and gave students college credit for "externships" at fast-food restaurants. The for-profit college industry received $30 billion annually in federal financial aid at its peak around 2010, with many schools obtaining the maximum 90% of revenue from taxpayer-funded student grants and loans. Corinthian's business model depended on federal student aid flowing to students who would never be able to repay their loans. The company spent millions lobbying Congress through the Association of Private Sector Colleges and Universities (APSCU), which spent over $40 million on lobbying from 2007-2012. A leaked 2011 APSCU memo revealed the industry's strategy was "directed by House Republican leadership" to keep taxpayer money flowing to poorly-performing schools. Corinthian's collapse left over 350,000 students with $3.9 billion in federal loans and worthless degrees. The Obama administration's aggressive enforcement against for-profit colleges demonstrated the scale of the fraud, but the DeVos Education Department would later block debt relief for these defrauded students, protecting the industry over victims.

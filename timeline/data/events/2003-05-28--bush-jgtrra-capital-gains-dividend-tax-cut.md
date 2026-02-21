@@ -24,7 +24,7 @@ tags:
 - corporate-corruption
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 sources:
 - title: Jobs and Growth Tax Relief Reconciliation Act of 2003
   url: https://en.wikipedia.org/wiki/Jobs_and_Growth_Tax_Relief_Reconciliation_Act_of_2003

@@ -35,7 +35,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 ---
 
 Arizona Governor Jan Brewer signs Senate Bill 1070, the broadest and strictest anti-illegal immigration law in the United States, making it a state misdemeanor for immigrants to be in Arizona without carrying required documents and requiring law enforcement officers to determine immigration status during lawful stops when there is reasonable suspicion of illegal presence. NPR investigation reveals that the legislation was drafted at a December 2009 meeting of the American Legislative Exchange Council (ALEC) attended by Arizona State Senator Russell Pearce, representatives from Corrections Corporation of America (the country's largest private prison company), and several dozen others—a full month and a half before Pearce introduced SB 1070 to the Arizona Senate. The final bill introduced in the legislature follows the ALEC model legislation "almost word for word."

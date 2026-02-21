@@ -19,6 +19,10 @@ sources:
   date: '2025-10-09'
   tier: 1
   outlet: The White House
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
+- International Kleptocracy
 ---
 
 President Trump signed a Presidential Memorandum on October 9, 2025, authorizing the construction of up to four Arctic Security Cutters (ASCs) abroad to address 'urgent national security needs' in the Arctic region. The memorandum invokes presidential authority under 14 U.S.C. 1151(b) and 10 U.S.C. 8679(b) to permit foreign construction, bypassing traditional U.S. shipbuilding requirements and potentially undermining domestic manufacturing capabilities.

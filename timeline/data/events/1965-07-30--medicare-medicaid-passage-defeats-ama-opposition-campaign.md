@@ -10,20 +10,20 @@ actors:
 - Ronald Reagan
 - Wilbur Mills
 sources:
-- title: 'Social Security Amendments of 1965'
+- title: Social Security Amendments of 1965
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Social_Security_Amendments_of_1965
   year: 2024
-- title: 'The Health-Care Legacy of the Great Society'
+- title: The Health-Care Legacy of the Great Society
   author: Paul Starr
   outlet: Princeton University
   url: https://www.princeton.edu/~starr/articles/articles14/Starr_LBJ_HC_Legacy_1-2014.pdf
   year: 2014
-- title: 'Public Opinion and the Passage of the Medicare Bill'
+- title: Public Opinion and the Passage of the Medicare Bill
   outlet: Roper Center for Public Opinion Research
   url: https://ropercenter.cornell.edu/public-opinion-and-passage-medicare-bill
   year: 2024
-- title: 'Reflections on the enactment of Medicare and Medicaid'
+- title: Reflections on the enactment of Medicare and Medicaid
   outlet: National Center for Biotechnology Information
   url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4195078/
   year: 2015
@@ -34,9 +34,9 @@ tags:
 - lobbying
 - propaganda
 capture_lanes:
-- Healthcare Industry Capture
-- Corporate Political Strategy
-- Media Manipulation
+- Regulatory Capture
+- Corporate Capture
+- Media Capture & Control
 status: confirmed
 ---
 

@@ -20,6 +20,9 @@ tags:
 - doj-weaponization
 - rule-of-law-erosion
 - political-prosecution
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 Two senior prosecutors in the Eastern District of Virginia were purged after Trump allies targeted their past work and they resisted pressure to charge political enemies. One national security attorney was removed within hours after right-wing activists flagged his résumé; another resisted pressure to charge James Comey and Letitia James on politically motivated cases. The purges followed Trump-appointee Lindsey Halligan's push to indict Comey over career prosecutors' objections. This represents the systematic transformation of career prosecutors into loyalty tests, with the Justice Department being weaponized to punish legal professionals who maintain prosecutorial independence and resist politically motivated charges.

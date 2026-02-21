@@ -29,6 +29,10 @@ sources:
   date: 2016-10-03
   tier: 1
   outlet: The Washington Post
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Intelligence Penetration
 ---
 
 New York Attorney General Eric Schneiderman issued a cease-and-desist order requiring the Donald J. Trump Foundation to immediately stop soliciting contributions in New York State because it had been operating for nearly 30 years without proper registration. The order revealed that the Trump Foundation had never obtained the required registration under Article 7-A of New York's Executive Law, which mandates that charities soliciting contributions submit to annual audits and oversight. The Foundation's failure to register meant it had operated outside legal oversight throughout its existence, allowing the systematic fraud and self-dealing that would later be documented in detail.

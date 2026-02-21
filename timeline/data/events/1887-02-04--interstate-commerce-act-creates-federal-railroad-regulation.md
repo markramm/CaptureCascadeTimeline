@@ -28,9 +28,9 @@ tags:
 - institutional-accountability
 - corporate-regulation
 capture_lanes:
-- Federal Regulatory Creation
-- Democratic Resistance Victory
-- Corporate Accountability
+- Regulatory Capture
+- Democratic Erosion
+- Corporate Capture
 status: confirmed
 ---
 

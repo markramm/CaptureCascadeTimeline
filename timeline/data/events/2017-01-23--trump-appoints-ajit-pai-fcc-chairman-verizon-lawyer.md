@@ -19,21 +19,25 @@ tags:
 - telecommunications
 status: confirmed
 sources:
-- title: 'Biography of Former Chairman Ajit Pai'
+- title: Biography of Former Chairman Ajit Pai
   url: https://www.fcc.gov/biography-former-chairman-ajit-pai
   outlet: Federal Communications Commission
   date: '2017-01-23'
   tier: 1
-- title: 'FCC Chairman Under Trump Is Ajit Pai, Critic Of Net Neutrality Rules'
+- title: FCC Chairman Under Trump Is Ajit Pai, Critic Of Net Neutrality Rules
   url: https://www.npr.org/sections/thetwo-way/2017/01/23/510844936/trumps-telecom-chief-is-ajit-pai-critic-of-net-neutrality-rules
   outlet: NPR
   date: '2017-01-23'
   tier: 1
-- title: 'Ajit Pai named as new FCC chairman'
+- title: Ajit Pai named as new FCC chairman
   url: https://money.cnn.com/2017/01/23/technology/trump-fcc-chairman/
   outlet: CNN
   date: '2017-01-23'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Intelligence Penetration
 ---
 
 President Donald Trump designates Ajit Pai as Chairman of the Federal Communications Commission, elevating the sitting Republican commissioner and former Verizon Communications associate general counsel to lead the agency responsible for regulating his former employer and the broader telecommunications industry. Pai, who had served as an FCC commissioner since 2012 (appointed by President Obama in a traditional minority party slot), worked as Associate General Counsel at Verizon from 2001 to 2003, handling competition matters, regulatory issues, and counseling business units on broadband initiatives—the very areas he would now regulate as FCC Chairman.

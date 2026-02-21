@@ -33,6 +33,10 @@ sources:
   outlet: Apache Software Foundation
   date: '2017-09-15'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 Hackers begin systematically exfiltrating personal data of 147.9 million Americans from Equifax systems through an unpatched Apache Struts vulnerability (CVE-2017-5638). The breach, which Equifax would not disclose until September 7, 2017, represents one of the largest cybercrimes related to identity theft in history. Stolen data includes names, Social Security numbers, birth dates, addresses, driver's license numbers, and 209,000 payment card numbers. Additionally, 15.2 million British citizens and 19,000 Canadian citizens were compromised.

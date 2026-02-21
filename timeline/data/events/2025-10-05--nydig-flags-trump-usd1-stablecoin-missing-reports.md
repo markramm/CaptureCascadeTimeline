@@ -1,8 +1,7 @@
 ---
 id: 2025-10-05--nydig-flags-trump-usd1-stablecoin-missing-reports
 date: '2025-10-05'
-title: Trump Family's USD1 Stablecoin Fails to Publish Attestation Reports, Raising
-  Transparency Concerns
+title: Trump Family's USD1 Stablecoin Fails to Publish Attestation Reports, Raising Transparency Concerns
 importance: 8
 tags:
 - world-liberty-financial
@@ -24,8 +23,7 @@ actors:
 - BitGo Technologies
 - Trump Family
 sources:
-- title: Trump-Linked World Liberty Financial's Stablecoin Needs Better Attestation
-    Reports, NYDIG Says
+- title: Trump-Linked World Liberty Financial's Stablecoin Needs Better Attestation Reports, NYDIG Says
   url: https://www.coindesk.com/business/2025/10/05/trump-linked-world-liberty-financial-s-stablecoin-needs-better-attestation-reports-nydig-says
   outlet: CoinDesk
   date: '2025-10-05'
@@ -35,8 +33,7 @@ sources:
   outlet: Coin Central
   date: '2025-10-05'
   tier: 3
-- title: Trump-Linked Stablecoin USD1 Faces Scrutiny Over Delayed Transparency Reports
-    And Reserve Concerns
+- title: Trump-Linked Stablecoin USD1 Faces Scrutiny Over Delayed Transparency Reports And Reserve Concerns
   url: https://financefeeds.com/trump-stablecoin-usd1-face-scrutiny-over-openness/
   outlet: FinanceFeeds
   date: '2025-10-05'
@@ -47,10 +44,9 @@ sources:
   date: '2025-10-05'
   tier: 3
 capture_lanes:
-- Regulatory Failure
-- Financial Opacity
-- Conflicts of Interest
-- Institutional Credibility Erosion
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 status: confirmed
 ---
 

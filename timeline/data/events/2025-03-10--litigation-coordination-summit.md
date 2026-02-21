@@ -15,8 +15,7 @@ sources:
   title: 2025 State Attorneys General Predictions
   url: https://www.mofo.com/resources/insights/250107-2025-state-attorneys-general-predictions
 - outlet: Skadden, Arps, Slate, Meagher & Flom LLP
-  title: State Attorneys General May Fill Enforcement Void Left by Shift in Federal
-    Priorities
+  title: State Attorneys General May Fill Enforcement Void Left by Shift in Federal Priorities
   url: https://www.skadden.com/insights/publications/2025/03/state-attorneys-general-may-fill
 tags:
 - coordinated-litigation
@@ -28,8 +27,8 @@ status: confirmed
 id: 2025-03-10--litigation-coordination-summit
 capture_lanes:
 - Financial Capture
-- Regulatory Enforcement
-- Constitutional Defense
+- Regulatory Capture
+- Democratic Erosion
 ---
 
 State attorneys general convened a national summit to develop coordinated multi-state litigation strategies in response to shifting federal enforcement priorities. The summit focused on strategic coordination in areas like financial services, technology regulation, consumer protection, and privacy enforcement, with 126 attorneys from 37 states discussing synchronized legal actions across federal and state jurisdictions.

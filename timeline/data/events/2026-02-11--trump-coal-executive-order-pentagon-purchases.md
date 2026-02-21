@@ -35,6 +35,10 @@ sources:
   outlet: Axios
   date: '2026-02-12'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
+- Military-Industrial Complex
 ---
 
 President Trump signed an executive order directing the Department of Defense to prioritize long-term Power Purchase Agreements with coal-fired power plants to supply military installations and critical defense facilities. The order instructs the Secretary of Defense, coordinating with the Secretary of Energy, to approve contracts with coal generation facilities, with priority given to projects enhancing grid reliability, on-site fuel security, and mission assurance for defense and intelligence capabilities. Trump signed the order at a White House ceremony attended by Peabody Energy CEO James Grech, and was presented with a trophy inscribed "Undisputed Champion of Beautiful Clean Coal" by the Washington Coal Club lobby group.

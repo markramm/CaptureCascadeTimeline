@@ -39,6 +39,10 @@ sources:
   date: '2025-02-13'
   tier: 2
   outlet: Tucson Sentinel
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 In 2024, the healthcare sector spent $743.9 million on federal lobbying—$10 million less than 2023's $745 million but maintaining its position as the largest lobbying sector in the United States for the 26th consecutive year. Pharmaceutical and health products companies led healthcare spending with $384.5 million, followed by the insurance industry at $157 million and hospitals/nursing homes at substantial additional amounts. The pharmaceutical industry alone has spent over $6.1 billion on federal lobbying from 1999 through 2024, demonstrating sustained investment in political influence. Major trade groups increased spending in 2024: PhRMA spent $31 million (up from $27 million in 2023), the Pharmaceutical Care Management Association spent $18 million (up from $15 million), and the American Medical Association spent $24 million (up from $21 million). This $744 million in annual healthcare lobbying—combined with hundreds of millions in campaign contributions—systematically captures federal health policy, ensuring legislation protects industry profits rather than patient welfare through a sustained influence operation that dwarfs patient advocacy spending by ratios exceeding 100-to-1.

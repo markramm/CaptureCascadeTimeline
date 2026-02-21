@@ -36,10 +36,9 @@ tags:
 - ecosystem-lock-in
 importance: 9
 capture_lanes:
-- Antitrust Enforcement
-- Platform Monopoly
-- Developer Exploitation
-- Market Manipulation
+- Regulatory Capture
+- Digital & Tech Capture
+- Financial Capture
 ---
 
 The Department of Justice, joined by 16 state attorneys general, filed a comprehensive antitrust lawsuit against Apple alleging the company illegally monopolizes smartphone markets through a systematic strategy of ecosystem lock-in, developer restrictions, and suppression of "super apps" that might reduce iPhone dependence. The complaint documents how Apple maintains 65-70% U.S. smartphone market share (and near-total dominance in high-value demographics) by deliberately degrading cross-platform functionality, restricting smartwatch and digital wallet competition, blocking cloud gaming services, and imposing App Store restrictions that prevent developers from offering alternatives—extracting billions in monopoly rents while foreclosing competition that might threaten Apple's integrated ecosystem control.

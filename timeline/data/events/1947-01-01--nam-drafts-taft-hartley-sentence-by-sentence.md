@@ -21,19 +21,19 @@ tags:
 - congressional-action
 capture_lanes:
 - Legislative Capture
-- Policy Capture
+- Regulatory Capture
 sources:
-- title: 'Our Country''s Most Rapacious Capitalists Are Weighing in on How to Defend Democracy'
+- title: Our Country's Most Rapacious Capitalists Are Weighing in on How to Defend Democracy
   url: https://jacobin.com/2021/01/national-association-of-manufacturers-history-democracy
   outlet: Jacobin
   date: '2024-01-01'
   verified: true
-- title: 'Taft-Hartley Act - Wikipedia'
+- title: Taft-Hartley Act - Wikipedia
   url: https://en.wikipedia.org/wiki/Taft–Hartley_Act
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'How Manufacturing''s Lobby Won and Lost its Political Influence'
+- title: How Manufacturing's Lobby Won and Lost its Political Influence
   url: https://www.promarket.org/2022/01/16/manufacturing-lobby-political-influence-nam/
   outlet: ProMarket
   date: '2024-01-01'

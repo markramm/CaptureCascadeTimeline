@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: The Hill
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 Director of National Intelligence James Clapper sent a letter to Senate Intelligence Committee Chair Dianne Feinstein apologizing for his March 12, 2013 testimony to Congress, in which he denied that the NSA collected data on millions of Americans. In response to a direct question from Senator Ron Wyden asking "Does the NSA collect any type of data at all on millions or hundreds of millions of Americans?", Clapper had answered "No, sir" and "Not wittingly."

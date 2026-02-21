@@ -28,6 +28,10 @@ sources:
   tier: 1
   outlet: Federal Reserve Bank of Boston
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Judicial Capture
 ---
 
 On March 13, 2020, in response to the COVID-19 pandemic's economic devastation, the Trump administration announced an unprecedented pause on federal student loan payments and interest accrual, suspending monthly payments for approximately 44 million borrowers holding roughly 90% of all outstanding student loans. The CARES Act, enacted March 27, 2020, codified the pause through September 30, 2020, marking the first time in modern history that the federal government acknowledged student debt as a systemic economic threat requiring emergency relief.

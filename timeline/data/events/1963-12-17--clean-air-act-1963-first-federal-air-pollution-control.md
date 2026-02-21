@@ -1,8 +1,7 @@
 ---
 id: 1963-12-17--clean-air-act-1963-first-federal-air-pollution-control
 date: '1963-12-17'
-title: Clean Air Act of 1963 Establishes First Federal Air Pollution Control Despite
-  Industry Opposition
+title: Clean Air Act of 1963 Establishes First Federal Air Pollution Control Despite Industry Opposition
 importance: 7
 actors:
 - President John F. Kennedy
@@ -45,8 +44,8 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Regulatory Reform
-- Environmental Protection
+- Regulatory Capture
+- Environmental Capture
 status: confirmed
 ---
 

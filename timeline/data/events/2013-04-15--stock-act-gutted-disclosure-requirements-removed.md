@@ -38,4 +38,8 @@ sources:
   date: 2013-04-17
   tier: 2
   outlet: Common Dreams
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---

@@ -28,6 +28,10 @@ sources:
   outlet: Punchbowl News
   date: '2026-02-11'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 SEC Chairman Paul Atkins defended a dramatic shift in the agency's crypto enforcement strategy during a House Financial Services Committee oversight hearing, addressing a reported 60% decline in new lawsuits since he took office in April 2025. Democratic lawmakers demanded explanations for the agency's withdrawal from or pause of more than a dozen high-profile crypto cases, including actions involving Coinbase, Binance, Kraken, and Justin Sun's Tron Foundation.

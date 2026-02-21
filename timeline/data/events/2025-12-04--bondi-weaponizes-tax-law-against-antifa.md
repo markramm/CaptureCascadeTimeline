@@ -53,6 +53,10 @@ sources:
   date: 2025-10-22
   tier: 1
   outlet: Senate Finance Committee
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Surveillance Infrastructure
 ---
 
 On December 4, 2025, Attorney General Pam Bondi issued a memorandum implementing National Security Presidential Memorandum-7 (NSPM-7) that explicitly weaponizes tax enforcement against political opponents labeled as "Antifa." The directive instructs federal prosecutors to pursue "tax crimes where extremist groups are suspected of defrauding the Internal Revenue Service" and orders all federal law enforcement agencies to conduct five-year retroactive reviews of their files, "focusing on files and holdings for Antifa and Antifa-related intelligence," with all findings to be transmitted to the FBI within 14 days. The memorandum directs FBI Joint Terrorism Task Forces to "prioritize the investigation of such conduct" and requires the FBI to compile within 60 days an intelligence bulletin describing targeted organizations' "structures, funding sources, and tactics."

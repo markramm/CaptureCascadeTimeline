@@ -34,6 +34,9 @@ sources:
   outlet: ABC News
   date: '2026-02-12'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
 ---
 
 President Trump and EPA Administrator Lee Zeldin announced the repeal of the landmark 2009 Endangerment Finding, which determined that greenhouse gases endanger public health and welfare under the Clean Air Act. Zeldin characterized the action as "the single largest act of deregulation in the history of the United States of America." The finding, originally issued during the Obama administration in response to the 2007 Supreme Court decision Massachusetts v. EPA, provided the legal foundation for federal regulation of carbon dioxide, methane, and other greenhouse gases from vehicles, power plants, and industrial facilities.

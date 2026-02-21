@@ -33,6 +33,10 @@ sources:
   outlet: Airways Magazine
   date: '2024'
   tier: 3
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 The Department of Justice approved American Airlines' merger with US Airways after initially suing to block the deal, completing a five-year consolidation wave that reduced major U.S. airlines from seven to four dominant carriers controlling three-quarters of the commercial air travel market. The settlement requiring minor slot divestitures at Reagan National and other airports was cosmetic compared to the massive increase in market concentration.

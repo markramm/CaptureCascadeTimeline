@@ -32,6 +32,10 @@ actors:
 - Merck
 - UnitedHealth Group
 - Jeffrey Forbes
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 The Senate confirmed former Finance Committee Chairman Max Baucus (D-MT) as U.S. Ambassador to China by a vote of 96-0, ending his 36-year congressional career. Baucus had served as chairman and ranking member of the powerful Senate Finance Committee, where he was the chief architect of the Affordable Care Act. His departure came amid revelations that numerous former Baucus staffers had transitioned to lucrative lobbying positions with the very healthcare companies affected by legislation he crafted, exposing a systematic pipeline from his office to the industry he regulated.

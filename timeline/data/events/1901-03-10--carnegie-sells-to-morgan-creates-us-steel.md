@@ -9,7 +9,7 @@ actors:
 - U.S. Steel Corporation
 - Carnegie Steel Corporation
 sources:
-- title: 'Andrew Carnegie and the Creation of U.S. Steel'
+- title: Andrew Carnegie and the Creation of U.S. Steel
   outlet: Bill of Rights Institute
   url: https://billofrightsinstitute.org/essays/andrew-carnegie-and-the-creation-of-us-steel
   year: 2025
@@ -17,7 +17,7 @@ sources:
   outlet: USHistory.org
   url: https://www.ushistory.org/us/36c.asp
   year: 2025
-- title: 'Andrew Carnegie'
+- title: Andrew Carnegie
   outlet: Washington State University Digital Exhibits
   url: http://digitalexhibits.libraries.wsu.edu/exhibits/show/2016sphist417/anton-grose-supreme-court-juri/andrew-carnegie
   year: 2025
@@ -28,9 +28,8 @@ tags:
 - market-dominance
 - financial-empire
 capture_lanes:
-- Industry Consolidation
-- Financial Control
-- Market Monopolization
+- Regulatory Capture
+- Financial Capture
 status: confirmed
 ---
 

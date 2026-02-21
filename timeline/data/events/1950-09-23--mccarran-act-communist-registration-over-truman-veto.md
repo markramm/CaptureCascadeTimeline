@@ -22,8 +22,8 @@ tags:
 - huac
 - first-amendment
 capture_lanes:
-- Policy Capture
-- Structural Repression
+- Regulatory Capture
+- Civil Rights Suppression
 sources:
 - title: McCarran Internal Security Act - Wikipedia
   url: https://en.wikipedia.org/wiki/McCarran_Internal_Security_Act

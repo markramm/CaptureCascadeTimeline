@@ -37,8 +37,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- deregulation
-- corporate-influence
+- Regulatory Capture
+- Corporate Capture
 ---
 
 The Office of Price Administration effectively ends on November 9, 1946, when President Truman removes controls on most consumer goods following intense corporate lobbying and deliberate business disruption. The premature decontrol triggers an immediate inflationary spike that harms consumers while enriching corporations that had campaigned to end controls.

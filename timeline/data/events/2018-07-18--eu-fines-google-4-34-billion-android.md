@@ -40,9 +40,9 @@ sources:
 status: confirmed
 id: 2018-07-18--eu-fines-google-4-34-billion-android
 capture_lanes:
-- Monopolization
-- Market Manipulation
-- Mobile Platform Control
+- Regulatory Capture
+- Financial Capture
+- Digital & Tech Capture
 capture_type: monopoly_abuse
 patterns:
 - mobile-monopolization

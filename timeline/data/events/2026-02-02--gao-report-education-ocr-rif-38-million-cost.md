@@ -31,6 +31,10 @@ sources:
   outlet: Government Executive
   date: '2026-02-02'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Civil Rights Suppression
+- Environmental Capture
 ---
 
 The Government Accountability Office released a scathing report documenting that the Department of Education spent between $28.5 million and $38 million compensating Office for Civil Rights staff placed on administrative leave between March and December 2025, costing nearly $1 million per week. The GAO report (GAO-26-108320) was published on January 29, 2026 and publicly released on February 2, 2026, in response to a request from Senator Bernie Sanders. The report found that in March 2025, the Trump administration attempted to fire more than half of OCR's civil rights attorneys and staff as part of a broader reduction-in-force, issuing RIF notices to 299 of 575 OCR employees and closing seven of twelve regional offices.

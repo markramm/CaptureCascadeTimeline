@@ -34,6 +34,10 @@ sources:
   date: 2019-03-01
   tier: 1
   outlet: Department of Justice
+capture_lanes:
+- Regulatory Capture
+- International Kleptocracy
+- Executive Power Expansion
 ---
 
 Former National Security Advisor Michael Flynn pleaded guilty to making false statements to the FBI regarding his conversations with Russian Ambassador Sergey Kislyak during the presidential transition. Flynn became the first White House official and the highest-ranking Trump administration member to plead guilty in Special Counsel Robert Mueller's investigation. The plea represented a watershed moment, signaling that Mueller had secured cooperation from someone at the highest levels of Trump's inner circle.

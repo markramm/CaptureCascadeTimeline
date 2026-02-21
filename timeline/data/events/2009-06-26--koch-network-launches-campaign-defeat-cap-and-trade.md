@@ -34,6 +34,10 @@ sources:
   outlet: U.S. Senate - Senator Sheldon Whitehouse
   url: https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-dark-money-and-climate-denial/
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Corporate Capture
 ---
 
 After the U.S. House of Representatives passed the Waxman-Markey American Clean Energy and Security Act (cap-and-trade climate bill) on June 26, 2009, the Koch brothers' network immediately launched a massive campaign to kill the legislation in the Senate. Americans for Prosperity, whose top initial funding came from David Koch, deployed its "No Climate Tax" pledge to pressure senators into opposing the bill, ultimately securing enough commitments to prevent passage.

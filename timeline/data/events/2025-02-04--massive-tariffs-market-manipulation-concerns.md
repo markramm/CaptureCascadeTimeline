@@ -10,7 +10,7 @@ tags:
 - second-administration
 - regulatory-capture
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 status: confirmed
 sources:
 - title: Senate Democrats ask SEC to probe Trump and others for potential market manipulation in tariff pause

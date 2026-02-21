@@ -17,21 +17,25 @@ tags:
 - deregulation
 status: confirmed
 sources:
-- title: 'FCC Releases Open Internet Order'
+- title: FCC Releases Open Internet Order
   url: https://www.fcc.gov/document/fcc-releases-open-internet-order
   outlet: Federal Communications Commission
   date: '2010-12-21'
   tier: 1
-- title: 'Federal Communications Commission Open Internet Order (2010)'
+- title: Federal Communications Commission Open Internet Order (2010)
   url: https://en.wikipedia.org/wiki/Federal_Communications_Commission_Open_Internet_Order_(2010)
   outlet: Wikipedia
   date: '2010-12-21'
   tier: 2
-- title: 'How the FCC Open Internet Rules Are Evolving'
+- title: How the FCC Open Internet Rules Are Evolving
   url: https://rollcall.com/2014/09/30/how-the-fcc-open-internet-rules-are-evolving/
   outlet: Roll Call
   date: '2014-09-30'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Legislative Capture
 ---
 
 The Federal Communications Commission approves the Open Internet Order by a 3-2 party-line vote, establishing the first formal net neutrality regulations but with significant weaknesses that would prove legally vulnerable. FCC Chairman Julius Genachowski's order established three core rules: transparency in network management, no blocking of lawful content for fixed broadband, and no unreasonable discrimination for fixed providers. However, the rules created a controversial two-tier system that applied much weaker protections to wireless broadband than to fixed-line internet service.

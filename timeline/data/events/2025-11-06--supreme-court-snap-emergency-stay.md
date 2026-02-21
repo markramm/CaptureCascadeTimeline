@@ -27,6 +27,10 @@ sources:
   url: https://www.pbs.org/newshour/nation/supreme-court-issues-emergency-order-to-block-full-snap-food-aid-payments
   tier: 1
   outlet: PBS News
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Intelligence Penetration
 ---
 
 The Supreme Court issued an administrative stay at least temporarily allowing the Trump administration to withhold approximately $4 billion in SNAP (Supplemental Nutrition Assistance Program) payments affecting 42 million Americans, blocking a federal district court order that had required full November payments by Friday. The order came via Justice Ketanji Brown Jackson and gave a lower appeals court additional time to consider the administration's request to only partially fund food stamps for November, citing insufficient funds due to the government shutdown.

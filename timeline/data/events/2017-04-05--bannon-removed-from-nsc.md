@@ -33,6 +33,10 @@ sources:
   tier: 1
   outlet: PBS NewsHour
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Executive Power Expansion
+- Intelligence Penetration
 ---
 
 President Trump removed chief strategist Steve Bannon from the National Security Council Principals Committee on April 5, 2017, ending an unprecedented three-month period during which a political operative with no national security experience—and a background running Breitbart News, the platform for the alt-right movement—held voting authority over the most sensitive national security decisions. Trump's January 28 executive order elevating Bannon to the NSC while downgrading the Director of National Intelligence and Chairman of the Joint Chiefs of Staff had sparked bipartisan condemnation from former national security officials who warned against politicizing national security policymaking. Bannon attended only one NSC meeting during his three-month tenure. The removal came as National Security Advisor H.R. McMaster asserted control and restructured the council, restoring the Director of National Intelligence Dan Coats and Joint Chiefs Chairman Joseph Dunford to their traditional positions. White House officials claimed Bannon was initially appointed only as a check against Michael Flynn and was no longer needed after Flynn's February resignation, though this explanation contradicted the timing and scope of the original appointment. The episode revealed Trump's willingness to subordinate national security institutions to political operatives and demonstrated the administration's chaotic internal power struggles. Bannon's removal was widely praised across party lines, with former NSC officials calling it a welcome if belated first step in restoring proper national security expertise to the council.

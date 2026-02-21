@@ -16,8 +16,8 @@ tags:
 - campaign-strategy
 - political-distancing
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Executive Power & Emergency Authority
+- Regulatory Capture
+- Executive Power Expansion
 sources:
 - title: Project 2025 director leaves Heritage Foundation
   url: https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation
@@ -26,8 +26,7 @@ sources:
   verified: true
   verified_date: '2025-08-18'
   archive_url: https://web.archive.org/web/20240731000000*/https://www.pbs.org/newshour/politics/project-2025-director-leaves-heritage-foundation
-- title: Heritage Foundation Says Project 2025 Director Was Fired for Professional
-    Misconduct
+- title: Heritage Foundation Says Project 2025 Director Was Fired for Professional Misconduct
   url: https://www.nationalreview.com/news/heritage-foundation-says-project-2025-director-was-fired-for-professional-misconduct-not-trump-fallout
   outlet: National Review
   date: '2024-08-03'
@@ -39,17 +38,13 @@ sources:
   date: '2024-07-30'
   verified: false
   archive_url: https://web.archive.org/web/20240731213456/https://abcnews.go.com/Politics/director-heritage-foundations-project-2025-stepping/story?id=112415277
-- title: Heritage flips script on fired director of Project 2025 after 'disconcerting'
-    revelations surface
+- title: Heritage flips script on fired director of Project 2025 after 'disconcerting' revelations surface
   url: https://www.foxnews.com/politics/heritage-flips-script-fired-director-project-2025-after-disconcerting-revelations-surface
   outlet: Fox News
   date: '2024-09-27'
   verified: false
   archive_url: https://web.archive.org/web/20240927213457/https://www.foxnews.com/politics/heritage-flips-script-fired-director-project-2025-after-disconcerting-revelations-surface
-notes: Departure coincided with Trump campaign's public distancing from Project 2025
-  despite private support. Dans had been with Heritage Foundation since 2021 and led
-  the policy development phase which was nearly complete by July 2024. In September
-  2024, additional details about his termination emerged.
+notes: Departure coincided with Trump campaign's public distancing from Project 2025 despite private support. Dans had been with Heritage Foundation since 2021 and led the policy development phase which was nearly complete by July 2024. In September 2024, additional details about his termination emerged.
 status: confirmed
 ---
 

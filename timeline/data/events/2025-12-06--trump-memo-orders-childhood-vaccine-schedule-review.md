@@ -24,9 +24,9 @@ tags:
 - presidential-memo
 - science-denialism
 capture_lanes:
-- Public Health Degradation
+- Regulatory Capture
 - Democratic Erosion
-- Expertise Purge
+- Federal Workforce Capture
 sources:
 - title: Fact Sheet - President Donald J. Trump Begins Process to Align U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries
   url: https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-begins-process-to-align-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/

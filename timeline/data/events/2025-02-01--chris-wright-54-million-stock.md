@@ -15,8 +15,8 @@ tags:
 - regulatory-capture
 - self-dealing
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 sources:
 - title: Wright Liberty Energy conflicts
   url: https://www.cnn.com/2025/02/chris-wright-energy
@@ -32,8 +32,7 @@ sources:
   url: https://www.usnews.com/news/politics/articles/energy-secretary-conflicts
   outlet: U.S. News & World Report
   date: '2025-02-02'
-notes: Multiple Liberty colleagues followed him to DOE, policies directly benefit
-  fracking industry
+notes: Multiple Liberty colleagues followed him to DOE, policies directly benefit fracking industry
 status: confirmed
 ---
 

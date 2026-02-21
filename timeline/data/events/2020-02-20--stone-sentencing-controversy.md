@@ -42,6 +42,10 @@ sources:
   date: 2020-02-11
   tier: 2
   outlet: CNN
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Intelligence Penetration
 ---
 
 On February 20, 2020, federal Judge Amy Berman Jackson sentenced Roger Stone, longtime Trump adviser and political operative, to 40 months in prison for lying to Congress, witness tampering, and obstruction of justice. The sentencing came at the conclusion of an unprecedented political controversy that exposed deep corruption within the Department of Justice under Attorney General William Barr. Just days before sentencing, DOJ leadership overruled career prosecutors' sentencing recommendation hours after President Trump tweeted his displeasure, prompting all four prosecutors on the case to withdraw in protest—an extraordinary rebuke of political interference in criminal justice.

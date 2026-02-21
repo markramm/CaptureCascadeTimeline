@@ -38,9 +38,8 @@ sources:
 status: confirmed
 id: 2023-01-24--doj-sues-google-ad-tech-breakup
 capture_lanes:
-- Monopolization
-- Antitrust Enforcement
-- Corporate Accountability
+- Regulatory Capture
+- Corporate Capture
 capture_type: antitrust_enforcement
 patterns:
 - monopoly-prosecution

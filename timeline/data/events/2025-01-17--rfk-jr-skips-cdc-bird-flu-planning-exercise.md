@@ -24,6 +24,10 @@ sources:
   tier: 2
   outlet: American Oversight
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
+- Digital & Tech Capture
 ---
 
 On January 17, 2025, the Centers for Disease Control and Prevention held a critical tabletop exercise to prepare the incoming Trump administration for a potential bird flu outbreak, focusing on coordinating the distribution of H5 vaccine in the event of a pandemic. However, documents obtained by American Oversight revealed that incoming Health and Human Services Secretary Robert F. Kennedy Jr. was not present at this crucial pandemic planning exercise, just three days before his confirmation.

@@ -29,6 +29,10 @@ sources:
   date: '2025-09-23'
   tier: 1
   outlet: SCOTUSblog
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Environmental Capture
 ---
 
 The Supreme Court agreed to hear a rush appeal deciding whether President Trump acted lawfully in firing board members leading independent federal agencies, setting up oral arguments for December 2025. The case will reconsider the landmark 1935 precedent Humphrey's Executor v. United States, which established that Congress can require presidents to show cause before dismissing board members overseeing independent agencies.

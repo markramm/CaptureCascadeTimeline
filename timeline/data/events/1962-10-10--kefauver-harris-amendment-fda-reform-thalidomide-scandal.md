@@ -36,8 +36,7 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Regulatory Reform
-- Public Health Protection
+- Regulatory Capture
 status: confirmed
 ---
 

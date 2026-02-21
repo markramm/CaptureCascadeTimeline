@@ -18,7 +18,7 @@ tags:
 - cold-war
 - corporate-interests
 capture_lanes:
-- Policy Capture
+- Regulatory Capture
 sources:
 - title: Bricker Amendment
   url: https://www.britannica.com/topic/Bricker-Amendment

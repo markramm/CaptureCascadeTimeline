@@ -39,6 +39,10 @@ sources:
   tier: 1
   outlet: CNN
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Military-Industrial Complex
 ---
 
 Former FBI Director James Comey and New York Attorney General Letitia James filed coordinated motions challenging the constitutional authority of interim U.S. Attorney Lindsey Halligan to prosecute their cases, with both challenges consolidated before Judge Cameron McGowan Currie of the District of South Carolina. The core legal argument centers on the Federal Vacancies Reform Act's 120-day rule: after Erik Siebert's 120-day interim appointment expired in May 2025, the federal district court—not the Attorney General—had exclusive constitutional authority to appoint the next interim U.S. Attorney for the Eastern District of Virginia.

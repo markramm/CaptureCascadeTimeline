@@ -17,7 +17,7 @@ tags:
 - family-detention
 - oversight-evasion
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: ICE Contractor Locked a Mother and Her Baby in a Hotel Room for Five Days
   url: https://theintercept.com/2025/08/07/ice-immigrant-detention-airport-hotel-chicago-mvm/

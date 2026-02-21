@@ -16,8 +16,8 @@ tags:
 - detention-profiteering
 - corruption
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 sources:
 - title: Private Prison Giant Hired ICE Detention Chief
   url: https://www.pogo.org/investigations/private-prison-giant-hired-ice-detention-chief

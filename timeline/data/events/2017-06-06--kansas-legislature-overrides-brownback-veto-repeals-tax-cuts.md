@@ -25,7 +25,7 @@ tags:
 - failed-policy
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 sources:
 - title: Kansas experiment
   url: https://en.wikipedia.org/wiki/Kansas_experiment

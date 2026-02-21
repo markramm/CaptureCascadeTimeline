@@ -5,39 +5,39 @@ title: Housing Act of 1954 Expands Urban Renewal, Intensifies Destruction of Bla
 importance: 7
 location: Washington, D.C.
 actors:
-  - Dwight D. Eisenhower
-  - U.S. Congress
-  - Urban Renewal Administration
-  - Real estate industry
-  - Robert Moses
+- Dwight D. Eisenhower
+- U.S. Congress
+- Urban Renewal Administration
+- Real estate industry
+- Robert Moses
 tags:
-  - institutional-racism
-  - urban-renewal
-  - housing-policy
-  - displacement
-  - corporate-interests
+- institutional-racism
+- urban-renewal
+- housing-policy
+- displacement
+- corporate-interests
 capture_lanes:
-  - Policy Capture
-  - Corporate Capture
+- Regulatory Capture
+- Corporate Capture
 sources:
-  - title: "Housing Act of 1954"
-    url: "https://www.hud.gov/sites/documents/LEGS_HISTORY_1954.PDF"
-    outlet: "Department of Housing and Urban Development"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Urban Renewal and American Cities"
-    url: "https://www.jstor.org/stable/j.ctt1d2dq0k"
-    outlet: "JSTOR"
-    date: 1966-01-01
-    verified: true
-    tier: 2
-  - title: "Urban Renewal: The Record and the Controversy"
-    url: "https://mitpress.mit.edu/9780262690012/"
-    outlet: "MIT Press"
-    date: 1966-01-01
-    verified: true
-    tier: 2
+- title: Housing Act of 1954
+  url: https://www.hud.gov/sites/documents/LEGS_HISTORY_1954.PDF
+  outlet: Department of Housing and Urban Development
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Urban Renewal and American Cities
+  url: https://www.jstor.org/stable/j.ctt1d2dq0k
+  outlet: JSTOR
+  date: 1966-01-01
+  verified: true
+  tier: 2
+- title: 'Urban Renewal: The Record and the Controversy'
+  url: https://mitpress.mit.edu/9780262690012/
+  outlet: MIT Press
+  date: 1966-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

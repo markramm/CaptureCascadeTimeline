@@ -35,6 +35,10 @@ sources:
   outlet: BreachSense
   date: '2023-05-15'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 Equifax publicly announces the massive cybersecurity breach affecting 143 million Americans (later revised to 147.9 million), more than 40 days after discovering the breach on July 29, 2017. CEO Richard Smith issues a perfunctory apology stating 'I apologize to consumers and our business customers for the concern and frustration this causes,' while emphasizing the company's review of security operations. The delayed disclosure came only after executives had sold stock and the company had prepared legal defenses, demonstrating corporate prioritization of liability management over consumer protection.

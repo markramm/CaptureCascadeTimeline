@@ -36,6 +36,10 @@ sources:
   outlet: DeSmog
   url: https://www.desmog.com/2015/05/12/exclusive-major-climate-science-denial-funders-donors-trust-and-donors-capital-fund-handled-479-million-untraceable/
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Corporate Capture
 ---
 
 By 2010, Donors Trust and Donors Capital Fund had emerged as the primary "dark money ATM" for climate denial funding, fundamentally transforming how fossil fuel interests concealed their opposition to climate regulation. From 2002 to 2011, these two donor-advised fund organizations provided $146 million to climate denial groups, serving as what Senator Sheldon Whitehouse called "the biggest identity-laundering shops" in the climate denial network.

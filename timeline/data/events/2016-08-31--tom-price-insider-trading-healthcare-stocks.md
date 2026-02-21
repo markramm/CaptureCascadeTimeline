@@ -39,6 +39,10 @@ sources:
   date: '2017-01-17'
   tier: 2
   outlet: Slate
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 On August 31, 2016, Rep. Tom Price (R-GA), chairman of the House Budget Committee and member of the Ways and Means Health Subcommittee, purchased between $50,001 and $100,000 in discounted shares of Innate Immunotherapeutics, an Australian biotech company, through a private placement offering available to fewer than 20 U.S. investors. Price received a tip from Rep. Chris Collins (R-NY), who sat on Innate's board and owned 17 percent of the company, allegedly gaining access through a "friends-and-family program" that offered shares at a 12 percent discount unavailable to public investors. This purchase was part of over $300,000 in healthcare stock trades Price made in 2015-2016 while simultaneously drafting healthcare legislation affecting those companies' valuations, raising allegations of STOCK Act violations and insider trading that would later trigger investigations and controversy during his HHS Secretary nomination.

@@ -38,6 +38,10 @@ sources:
   url: https://fortune.com/2025/12/07/supreme-court-humphreys-executor-unanimous-ruling-presidential-power-limit-heads-independent-agencies/
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Environmental Capture
 ---
 
 # Supreme Court Signals Intent to Overturn 90-Year Precedent Protecting Independent Agency Leaders from Presidential Firing, Expanding Executive Power

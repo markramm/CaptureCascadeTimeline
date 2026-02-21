@@ -31,6 +31,10 @@ actors:
 - John Breaux
 - Breaux Lott Leadership Group
 - Patton Boggs
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Senator Trent Lott (R-MS), former Senate Majority Leader, abruptly resigned from the Senate effective 11:30 PM on December 18, 2007, explicitly timing his departure to avoid the Honest Leadership and Open Government Act. The new ethics law, taking effect January 1, 2008, would have required a two-year cooling-off period before former senators could lobby Congress. By resigning three weeks earlier, Lott remained subject to the previous law requiring only a one-year wait, allowing him to begin lobbying by December 2008 instead of December 2009—saving him a full year of non-lobbying income.

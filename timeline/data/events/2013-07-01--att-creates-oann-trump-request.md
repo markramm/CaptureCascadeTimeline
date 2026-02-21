@@ -2,8 +2,7 @@
 id: 2013-07-01--att-creates-oann-trump-request
 date: '2013-07-01'
 importance: 9
-title: 'Reuters: AT&T nurtured and bankrolled OANN; founder says AT&T asked for a
-  conservative network'
+title: 'Reuters: AT&T nurtured and bankrolled OANN; founder says AT&T asked for a conservative network'
 location: United States
 actors:
 - AT&T
@@ -19,7 +18,7 @@ tags:
 - conservative-media
 - corporate-capture
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: How AT&T helped build far‑right One America News
   url: https://www.reuters.com/investigates/special-report/usa-oneamerica-att/
@@ -37,8 +36,7 @@ sources:
   url: https://www.reuters.com/investigates/special-report/usa-oneamerica-founder/
   outlet: Reuters
   date: '2021-10-07'
-notes: Reframe away from "created at Trump's request." Keep to what's in court records
-  and Reuters.
+notes: Reframe away from "created at Trump's request." Keep to what's in court records and Reuters.
 status: confirmed
 ---
 

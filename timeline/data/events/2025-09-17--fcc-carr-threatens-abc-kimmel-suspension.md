@@ -28,6 +28,10 @@ sources:
   date: '2025-09-18'
   tier: 2
   outlet: CNN
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- Digital & Tech Capture
 ---
 
 FCC Chairman Brendan Carr publicly threatened to revoke ABC affiliate licenses over Jimmy Kimmel's comments about the Charlie Kirk shooting, stating 'We can do this the easy way or the hard way' and warning companies could 'change conduct and take actions on Kimmel, or there's going to be additional work for the FCC ahead.' Hours later, Disney suspended 'Jimmy Kimmel Live' indefinitely. Republican Senators Ted Cruz and Rand Paul condemned Carr's threats as 'dangerous' and 'absolutely inappropriate,' with Cruz comparing them to Mafia tactics. The ACLU stated Trump officials were 'abusing their power to stop ideas they don't like,' calling it 'a grave threat to our First Amendment freedoms.' This represents government censorship through regulatory threats, with FCC's Democratic commissioner noting 'the threats are the point'—forcing media companies into submission through intimidation rather than formal action.

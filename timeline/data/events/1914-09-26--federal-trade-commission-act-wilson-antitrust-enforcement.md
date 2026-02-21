@@ -30,6 +30,9 @@ sources:
   outlet: Britannica
   tier: 2
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
 ---
 
 President Woodrow Wilson signed the Federal Trade Commission Act into law, establishing the FTC as an independent federal agency to prevent 'unfair methods of competition' and protect consumers from deceptive business practices. The Act fulfilled Wilson's 'New Freedom' campaign promise to tame corporate power and restore fair competition after the monopolistic trust abuses of the Gilded Age. The FTC was created with five presidential-appointed commissioners and given authority to investigate corporations, hold hearings, and issue cease-and-desist orders without requiring lengthy court proceedings or proof of criminal intent. The agency absorbed the staff and duties of Theodore Roosevelt's Bureau of Corporations and opened its doors on March 16, 1915. The FTC Act passed alongside the Clayton Antitrust Act to provide 'a full complement of legal tools' for antitrust enforcement. The agency's original mission—to 'protect the process of competition for the benefit of consumers' by keeping 'prices down and quality up'—represented Progressive Era consensus that concentrated economic power threatened democracy itself. This administrative approach to antitrust enforcement, designed for proactive intervention against anticompetitive practices, would later be systematically weakened through budget cuts, regulatory capture, and the elevation of Chicago School economics that redefined the agency's mission away from protecting competition toward protecting only 'consumer welfare.'

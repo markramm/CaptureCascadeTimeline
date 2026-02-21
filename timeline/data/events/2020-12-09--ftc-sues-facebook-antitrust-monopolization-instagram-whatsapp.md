@@ -1,7 +1,7 @@
 ---
 id: 2020-12-09--ftc-sues-facebook-antitrust-monopolization-instagram-whatsapp
 date: '2020-12-09'
-title: 'FTC Sues Facebook for Illegal Monopolization Through Instagram and WhatsApp Acquisitions, Seeks Breakup'
+title: FTC Sues Facebook for Illegal Monopolization Through Instagram and WhatsApp Acquisitions, Seeks Breakup
 importance: 10
 actors:
 - Federal Trade Commission
@@ -21,32 +21,30 @@ tags:
 - regulatory-action
 - kill-zone
 sources:
-- title: 'FTC Sues Facebook for Illegal Monopolization'
+- title: FTC Sues Facebook for Illegal Monopolization
   url: https://www.ftc.gov/news-events/news/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization
   outlet: Federal Trade Commission
   date: '2020-12-09'
   tier: 1
-- title: 'FTC seeks to break up Facebook, alleging illegal monopoly'
+- title: FTC seeks to break up Facebook, alleging illegal monopoly
   url: https://techcrunch.com/2020/12/09/ftc-seeks-to-break-up-facebook-alleging-illegal-monopoly/
   outlet: TechCrunch
   date: '2020-12-09'
   tier: 2
-- title: 'FTC and states sue Facebook, could force it to divest Instagram and WhatsApp'
+- title: FTC and states sue Facebook, could force it to divest Instagram and WhatsApp
   url: https://www.cnbc.com/2020/12/09/ftc-and-several-states-launch-antitrust-lawsuits-against-facebook.html
   outlet: CNBC
   date: '2020-12-09'
   tier: 2
-- title: 'FTC v. Meta case status'
+- title: FTC v. Meta case status
   url: https://en.wikipedia.org/wiki/FTC_v._Meta
   outlet: Wikipedia
   date: '2024-11-25'
   tier: 2
 status: confirmed
 capture_lanes:
-- Antitrust Enforcement
-- Monopoly Prosecution
-- Regulatory Accountability
-- Corporate Power Challenge
+- Regulatory Capture
+- Corporate Capture
 ---
 
 The Federal Trade Commission, joined by 46 states, the District of Columbia, and Guam, files major antitrust lawsuit against Facebook alleging illegal monopolization through systematic acquisition of competitors Instagram and WhatsApp. The FTC seeks structural breakup of Facebook through forced divestiture, documenting the company's "buy or bury" strategy to eliminate competitive threats through acquisition rather than competition.

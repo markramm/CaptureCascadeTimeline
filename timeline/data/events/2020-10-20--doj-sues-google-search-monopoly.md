@@ -41,9 +41,8 @@ sources:
 status: confirmed
 id: 2020-10-20--doj-sues-google-search-monopoly
 capture_lanes:
-- Monopolization
-- Market Manipulation
-- Antitrust Evasion
+- Regulatory Capture
+- Financial Capture
 capture_type: monopoly_abuse
 patterns:
 - exclusionary-contracts

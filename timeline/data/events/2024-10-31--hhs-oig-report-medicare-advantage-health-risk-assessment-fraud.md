@@ -25,6 +25,9 @@ sources:
   date: '2024-10-31'
   tier: 2
   outlet: Medicare Rights Center
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On October 31, 2024, the Department of Health and Human Services Office of Inspector General (OIG) released a report estimating that Medicare Advantage insurers received at least $7.5 billion in improper payments in 2023 from Health Risk Assessments (HRAs) that added diagnoses to inflate risk scores without resulting in any additional medical care or spending for patients. The report exposed a systematic fraud scheme where insurers send representatives to beneficiaries' homes to conduct "assessments" that generate diagnoses increasing federal payments, but these diagnoses never lead to treatment—revealing they were added solely for billing purposes rather than legitimate medical findings. This represents one of the largest documented Medicare fraud schemes in history, with the Medicare Payment Advisory Commission estimating industry-wide overpayments could reach $43 billion annually.

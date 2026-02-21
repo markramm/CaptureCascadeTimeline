@@ -58,4 +58,8 @@ sources:
   date: 2025-12-20
   tier: 2
   outlet: CBS News
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
+- Military-Industrial Complex
 ---

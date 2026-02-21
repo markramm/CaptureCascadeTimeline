@@ -22,11 +22,8 @@ tags:
 - scientific-integrity
 - regulatory-capture
 capture_lanes:
-- Public Health Degradation
-- Expertise Purge
-- Scientific Integrity Collapse
-- FDA Capture
-- Vaccine Policy Politicization
+- Regulatory Capture
+- Federal Workforce Capture
 sources:
 - title: FDA claims Covid vaccine caused kids' deaths. Experts are skeptical
   url: https://www.statnews.com/2025/11/29/covid-vaccine-deaths-fda-memo-vinay-prasad/

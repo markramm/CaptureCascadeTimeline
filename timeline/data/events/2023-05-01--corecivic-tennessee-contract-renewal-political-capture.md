@@ -17,8 +17,8 @@ tags:
 - corporate-corruption
 - prison-industrial-complex
 capture_lanes:
-- regulatory-capture
-- institutional-corruption
+- Regulatory Capture
+- Systematic Corruption
 sources:
 - url: https://tennesseelookout.com/2023/05/31/state-set-to-extend-corecivic-contract-despite-prison-deaths/
   title: State set to extend CoreCivic contract despite prison deaths

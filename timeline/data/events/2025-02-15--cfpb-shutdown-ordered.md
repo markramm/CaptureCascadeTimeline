@@ -15,8 +15,8 @@ tags:
 - regulatory-capture
 - project-2025
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Executive Power & Emergency Authority
+- Regulatory Capture
+- Executive Power Expansion
 sources:
 - title: Russell Vought closes CFPB HQ, tells staff to stop work
   url: https://www.npr.org/2025/02/08/nx-s1-5290914/russell-vought-cfpb-doge-access-musk

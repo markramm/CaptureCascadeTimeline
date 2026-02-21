@@ -40,6 +40,10 @@ sources:
   date: '2017-11-17'
   tier: 2
   outlet: Common Dreams
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Systematic Corruption
 ---
 
 On January 24, 2018, the Senate confirmed Alex Azar as Secretary of Health and Human Services by a vote of 55-43, installing as the nation's top healthcare regulator a pharmaceutical executive who had overseen dramatic insulin price increases during his decade at Eli Lilly. As President of Lilly USA from 2012 to 2017, Azar presided over a doubling of insulin prices—Humalog rose from $123 per vial in January 2012 to $255 in early 2017, with annual price increases of 20.8 percent (2014), 16.9 percent (2015), and 7.5 percent (2016). Senator Ron Wyden noted during confirmation hearings that Azar "never, not one time, signed off on a decrease in the price of a drug" during his Eli Lilly tenure. Azar's confirmation exemplified the pharmaceutical industry's regulatory capture of HHS, installing a former drug company executive to oversee the very industry he had enriched through aggressive pricing strategies.

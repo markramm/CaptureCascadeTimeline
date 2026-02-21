@@ -31,6 +31,9 @@ sources:
   outlet: Federal Reserve
   date: '2026-01-28'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
 ---
 
 The Federal Reserve continued to refuse compliance with grand jury subpoenas served by the Department of Justice on January 9, 2026, as Federal Reserve Chair Jerome Powell declined to provide details at his January 28 press conference following the FOMC meeting. When questioned by reporters about whether the Federal Reserve had responded to the subpoenas, Powell stated only, "I have nothing for you on that today," referring media back to his earlier statement characterizing the investigation as political intimidation.

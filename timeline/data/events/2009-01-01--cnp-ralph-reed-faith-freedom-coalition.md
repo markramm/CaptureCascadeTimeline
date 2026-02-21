@@ -25,6 +25,10 @@ sources:
   date: '2024-11-10'
   tier: 2
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- Legislative Capture
 ---
 
 In 2009, Ralph Reed - a prominent Council for National Policy member - founded the Faith and Freedom Coalition, officially incorporated on May 14, 2009, describing it as "a 21st century version of the Christian Coalition." This expanded CNP's religious right coordination capacity as the conservative movement prepared for the Tea Party era.

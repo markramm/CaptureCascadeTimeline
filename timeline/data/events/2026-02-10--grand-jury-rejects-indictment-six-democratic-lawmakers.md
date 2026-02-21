@@ -32,6 +32,9 @@ sources:
   outlet: NPR
   date: '2026-02-12'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
 ---
 
 A federal grand jury in Washington, D.C., rejected the Department of Justice's attempt to indict six Democratic lawmakers who appeared in a November 2025 video urging military and intelligence officials to refuse illegal orders from the Trump administration. None of the grand jurors who heard the prosecution's case believed DOJ had met even the low threshold of probable cause required for indictment, dealing a significant blow to the administration's retribution campaign against political opponents.

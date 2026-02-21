@@ -4,39 +4,38 @@ date: '1966-09-09'
 title: National Traffic and Motor Vehicle Safety Act Passes After GM Harassment of Ralph Nader Backfires
 importance: 8
 actors:
-  - President Lyndon B. Johnson
-  - Ralph Nader
-  - General Motors
-  - James Roche
-  - Senator Abraham Ribicoff
+- President Lyndon B. Johnson
+- Ralph Nader
+- General Motors
+- James Roche
+- Senator Abraham Ribicoff
 tags:
-  - consumer-protection
-  - corporate-lobbying
-  - regulatory-reform
-  - automotive-industry
-  - whistleblower
+- consumer-protection
+- corporate-lobbying
+- regulatory-reform
+- automotive-industry
+- whistleblower
 sources:
-  - title: "National Traffic and Motor Vehicle Safety Act of 1966"
-    url: "https://www.nhtsa.gov/laws-regulations/national-traffic-and-motor-vehicle-safety-act"
-    outlet: "National Highway Traffic Safety Administration"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Unsafe at Any Speed: The Designed-In Dangers of the American Automobile"
-    url: "https://www.britannica.com/topic/Unsafe-at-Any-Speed"
-    outlet: "Encyclopaedia Britannica"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "50 Years Ago: A Senate Hearing Launched the Modern Era of Auto Safety"
-    url: "https://www.npr.org/2016/03/09/469645724/50-years-ago-a-senate-hearing-launched-the-modern-era-of-auto-safety"
-    outlet: "NPR"
-    date: 2016-03-09
-    verified: true
-    tier: 2
+- title: National Traffic and Motor Vehicle Safety Act of 1966
+  url: https://www.nhtsa.gov/laws-regulations/national-traffic-and-motor-vehicle-safety-act
+  outlet: National Highway Traffic Safety Administration
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: 'Unsafe at Any Speed: The Designed-In Dangers of the American Automobile'
+  url: https://www.britannica.com/topic/Unsafe-at-Any-Speed
+  outlet: Encyclopaedia Britannica
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: '50 Years Ago: A Senate Hearing Launched the Modern Era of Auto Safety'
+  url: https://www.npr.org/2016/03/09/469645724/50-years-ago-a-senate-hearing-launched-the-modern-era-of-auto-safety
+  outlet: NPR
+  date: 2016-03-09
+  verified: true
+  tier: 2
 capture_lanes:
-  - Regulatory Reform
-  - Consumer Protection
+- Regulatory Capture
 status: confirmed
 ---
 

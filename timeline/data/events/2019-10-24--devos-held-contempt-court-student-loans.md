@@ -30,6 +30,10 @@ sources:
   tier: 1
   outlet: CBS News
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Judicial Capture
 ---
 
 U.S. Magistrate Judge Sallie Kim held Education Secretary Betsy DeVos in civil contempt of court on October 24, 2019, for violating a preliminary injunction barring the Department of Education from collecting on loans from 16,000 former Corinthian Colleges students and fined the Department $100,000. The extraordinary contempt finding against a sitting Cabinet secretary documented that DeVos's Education Department had illegally seized wages and tax refunds from defrauded students in direct violation of a court order—a stunning example of kleptocratic governance where powerful officials ignore judicial orders that protect fraud victims.

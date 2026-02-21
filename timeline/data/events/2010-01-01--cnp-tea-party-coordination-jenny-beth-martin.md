@@ -28,6 +28,10 @@ sources:
   date: '2019-10-29'
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
+- Environmental Capture
 ---
 
 By 2010, the Council for National Policy had integrated Tea Party movement leaders into its coordination network, with Tea Party Patriots co-founder Jenny Beth Martin serving on CNP's executive committee and coordinating grassroots mobilization with the broader conservative infrastructure.

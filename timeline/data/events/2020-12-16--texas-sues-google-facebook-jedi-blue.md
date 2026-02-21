@@ -1,7 +1,7 @@
 ---
 date: '2020-12-16'
 title: 'Texas Leads 10-State Lawsuit: Google-Facebook "Jedi Blue" Collusion'
-description: 'Texas Attorney General Ken Paxton led a 10-state antitrust lawsuit exposing "Jedi Blue"—a secret 2018 agreement between Google and Facebook to eliminate header bidding competition and maintain Google''s ad exchange monopoly. The complaint revealed that when Facebook threatened to support header bidding (which would have reduced Google''s market power), Google offered Facebook preferential treatment in its "Open Bidding" system including non-public data, faster processing, and guaranteed win rates. In exchange, Facebook abandoned header bidding and agreed not to compete with Google''s exchange. Internal documents showed executives including Mark Zuckerberg and Sundar Pichai personally approved the agreement. The collusion allowed Google to maintain its ad tech monopoly while Facebook received advantages over other advertisers—a textbook example of monopolist coordination to eliminate emerging competition.'
+description: Texas Attorney General Ken Paxton led a 10-state antitrust lawsuit exposing "Jedi Blue"—a secret 2018 agreement between Google and Facebook to eliminate header bidding competition and maintain Google's ad exchange monopoly. The complaint revealed that when Facebook threatened to support header bidding (which would have reduced Google's market power), Google offered Facebook preferential treatment in its "Open Bidding" system including non-public data, faster processing, and guaranteed win rates. In exchange, Facebook abandoned header bidding and agreed not to compete with Google's exchange. Internal documents showed executives including Mark Zuckerberg and Sundar Pichai personally approved the agreement. The collusion allowed Google to maintain its ad tech monopoly while Facebook received advantages over other advertisers—a textbook example of monopolist coordination to eliminate emerging competition.
 actors:
 - Texas Attorney General Ken Paxton
 - Google
@@ -40,10 +40,9 @@ sources:
 status: confirmed
 id: 2020-12-16--texas-sues-google-facebook-jedi-blue
 capture_lanes:
-- Monopolization
-- Corporate Collusion
-- Market Manipulation
-- Antitrust Evasion
+- Regulatory Capture
+- Corporate Capture
+- Financial Capture
 capture_type: monopolist_collusion
 patterns:
 - monopolist-coordination

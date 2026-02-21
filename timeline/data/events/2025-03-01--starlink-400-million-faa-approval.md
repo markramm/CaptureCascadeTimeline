@@ -17,7 +17,7 @@ tags:
 - musk
 - regulatory-capture
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: Starlink contract approvals
   url: https://www.congresswoman-sherrill.com/starlink-contracts

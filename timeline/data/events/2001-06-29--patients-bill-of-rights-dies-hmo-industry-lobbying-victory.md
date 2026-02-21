@@ -18,7 +18,7 @@ tags:
 - insurance-industry
 - hmo
 sources:
-- title: 'The Rise and Fall of the Patients Bill of Rights'
+- title: The Rise and Fall of the Patients Bill of Rights
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2004-01-01'
@@ -31,9 +31,8 @@ sources:
   url: https://www.kff.org
   date: '2001-01-01'
 capture_lanes:
-- Healthcare Industry Capture
+- Regulatory Capture
 - Legislative Capture
-- Lobbying
 status: confirmed
 ---
 

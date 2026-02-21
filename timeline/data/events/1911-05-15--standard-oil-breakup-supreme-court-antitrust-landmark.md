@@ -31,6 +31,10 @@ sources:
   outlet: Georgia State University
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Judicial Capture
 ---
 
 The U.S. Supreme Court, in a unanimous decision written by Chief Justice Edward White, ruled that John D. Rockefeller's Standard Oil Company violated the Sherman Antitrust Act and ordered the petroleum monopoly dissolved into 34 separate independent companies within six months. At the time of the ruling, Standard Oil controlled 91% of oil refinement and 85% of final sales in the United States. The Court established the 'rule of reason' doctrine, holding that only 'unreasonable' restraints of trade were illegal under the Sherman Act. The breakup created companies that would later become ExxonMobil, Chevron, BP America, and others. Ironically, the dissolution made Rockefeller even wealthier—his 25% ownership stake in the original company became 25% stakes in each of the 34 successor companies, and the combined value of these shares more than tripled his wealth from $300 million to $900 million, making him the richest person in the world. This case represents the high-water mark of American antitrust enforcement—a standard that would be systematically dismantled over the following century as corporate power reconsolidated through mergers and regulatory capture. The aggressive trust-busting represented by Standard Oil's breakup would never be replicated at this scale again.

@@ -38,6 +38,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- International Kleptocracy
 ---
 
 Brazilian President Dilma Rousseff canceled a scheduled state visit to Washington in response to revelations that the NSA had intercepted her personal phone calls, text messages, and emails, as well as conducting extensive surveillance of Brazil's state-owned oil company Petrobras. The cancellation marked the first major diplomatic consequence of Edward Snowden's surveillance revelations and represented an unprecedented rebuke of a U.S. president.

@@ -18,7 +18,7 @@ tags:
 - consumer-protection
 - antitrust-elimination
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: Trump revokes Biden antitrust EO targeting monopolies
   url: https://www.upi.com/Top_News/US/2025/08/14/Trump-revokes-Biden-executive-order/9451755141651
@@ -39,15 +39,10 @@ sources:
 - outlet: Hogan Lovells
   date: '2025-08-13'
   url: https://www.hoganlovells.com/en/publications/president-trump-revokes-executive-order-on-competition-rejects-biden-administrations
-  title: President Trump revokes Executive Order on competition, rejects Biden administration's
-    whole-of-government approach
-notes: Removes barriers to corporate mergers and acquisitions, enables unchecked market
-  concentration
+  title: President Trump revokes Executive Order on competition, rejects Biden administration's whole-of-government approach
+notes: Removes barriers to corporate mergers and acquisitions, enables unchecked market concentration
 status: confirmed
-description: Trump revokes Biden's 2021 executive order promoting competition in the
-  economy, with DOJ welcoming move toward "America First Antitrust" focused on "free
-  markets" instead of enforcement against monopolies. Critics say this undercuts promises
-  to protect Americans and favors the rich and powerful.
+description: Trump revokes Biden's 2021 executive order promoting competition in the economy, with DOJ welcoming move toward "America First Antitrust" focused on "free markets" instead of enforcement against monopolies. Critics say this undercuts promises to protect Americans and favors the rich and powerful.
 _merge_note: 'Enhanced with information from duplicate event: 2025-08-13--trump-revokes-competition-order'
 _merge_timestamp: '2025-09-05T23:46:55.902399'
 ---

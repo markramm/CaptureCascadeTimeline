@@ -32,6 +32,10 @@ actors:
 - Carlyle Group
 - Cerberus Capital Management
 - Managed Funds Association
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 House Ways and Means Committee Chairman Dave Camp (R-MI) released comprehensive tax reform draft legislation proposing to raise the tax on carried interest from 23.8% to 35%, effectively closing one of the most notorious tax loopholes benefiting private equity and hedge fund managers. Carried interest allows fund managers to classify their management fees as capital gains rather than ordinary income, saving the industry billions annually. Camp's proposal represented the most serious congressional attempt to eliminate this preferential treatment, but private equity lobbying—combined with resistance from committee members with industry ties—ensured the reform never advanced.

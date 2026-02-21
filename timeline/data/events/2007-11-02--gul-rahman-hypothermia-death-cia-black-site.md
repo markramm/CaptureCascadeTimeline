@@ -37,6 +37,10 @@ sources:
   date: '2015-12-01'
   tier: 1
   outlet: Human Rights Watch
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
+- Digital & Tech Capture
 ---
 
 Gul Rahman, an Afghan detainee, dies of hypothermia at a CIA black site in Afghanistan known as the "Salt Pit" after being shackled half-naked to a concrete floor in a freezing cell overnight. Rahman's death is ruled a homicide by the CIA's medical examiner, yet no one is ever prosecuted or held criminally accountable. The CIA officer who ordered Rahman's treatment—which violated even the agency's own guidelines for detention—receives a $2,500 cash award and faces no disciplinary action. Rahman's death on November 20, 2002, becomes emblematic of the complete impunity enjoyed by CIA personnel who committed what amount to war crimes.

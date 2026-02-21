@@ -18,8 +18,8 @@ tags:
 - extractive-industries
 - deregulation
 capture_lanes:
-- regulatory-capture
-- environmental-destruction
+- Regulatory Capture
+- Environmental Capture
 status: confirmed
 sources:
 - title: The Coal Mine Next Door - How the US Government's Deregulation of Mountaintop Removal Threatens Public Health

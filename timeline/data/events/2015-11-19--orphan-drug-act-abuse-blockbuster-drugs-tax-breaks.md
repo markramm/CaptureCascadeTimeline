@@ -43,6 +43,10 @@ actors:
 - Big Pharma
 - U.S. Congress
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 Johns Hopkins researchers published findings demonstrating that pharmaceutical companies were systematically gaming the 1983 Orphan Drug Act by obtaining orphan drug designations—intended for treatments of rare diseases affecting fewer than 200,000 Americans—for blockbuster drugs generating billions in annual revenue. Seven of the top 10 best-selling drugs in the United States for 2014 came to market with orphan designations: AbbVie's Humira, Roche's Rituxan, Avastin and Herceptin, Johnson & Johnson's Remicade, Celgene's Revlimid, and AstraZeneca's Crestor. More than 70 orphan-designated drugs were first approved by the FDA for mass-market use, with manufacturers later obtaining orphan approval by subdividing diseases into smaller populations, receiving millions in taxpayer subsidies and seven years of marketing exclusivity for each narrow indication while marketing the drugs broadly for off-label use.

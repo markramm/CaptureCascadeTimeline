@@ -41,6 +41,10 @@ sources:
   tier: 1
   outlet: ABC News
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Corporate Capture
 ---
 
 On September 26, 2025, Grover Norquist's Americans for Tax Reform led a coalition of 35 conservative organizations—including Club for Growth and Americans for Prosperity—in sending a letter to President Trump urging him to let enhanced Affordable Care Act (ACA) tax credits expire in December 2025. The letter characterized the subsidies as 'Biden COVID credits' and urged Trump to 'continue fighting the radical Left's agenda' by allowing them to lapse.

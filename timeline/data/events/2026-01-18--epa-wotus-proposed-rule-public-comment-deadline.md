@@ -29,6 +29,10 @@ sources:
   outlet: Waterkeeper Alliance
   date: '2026-01-10'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
+- Military-Industrial Complex
 ---
 
 Following the January 5, 2026 deadline for public comments, the EPA and U.S. Army Corps of Engineers advanced their proposed redefinition of "Waters of the United States" under the Clean Water Act, significantly narrowing federal water protections. The proposed rule, announced November 17, 2025 by EPA Administrator Lee Zeldin and Assistant Secretary of the Army for Civil Works Adam Telle, would establish a dramatically reduced scope of waters subject to federal regulation. The agencies characterize the rule as implementing the Supreme Court's decision in Sackett v. EPA while eliminating red tape and cutting permitting costs, claiming it will lower the cost of doing business while maintaining protections for the nation's waters.

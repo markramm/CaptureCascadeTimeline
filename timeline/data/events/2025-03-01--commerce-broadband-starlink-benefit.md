@@ -16,8 +16,8 @@ tags:
 - broadband
 - musk-benefits
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 sources:
 - title: Statement from U.S. Secretary of Commerce Howard Lutnick on the BEAD Program
   url: https://www.commerce.gov/news/press-releases/2025/03/statement-us-secretary-commerce-howard-lutnick-bead-program

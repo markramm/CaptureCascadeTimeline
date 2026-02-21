@@ -45,6 +45,10 @@ sources:
   date: '2018-11-02'
   tier: 1
   outlet: KFF Health News
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 In 2016, a whistleblower who had worked for 12 years at the American Kidney Fund filed a lawsuit alleging that dialysis giants DaVita and Fresenius Medical Care—which together control over 80 percent of the $24.7 billion U.S. dialysis market—operated a years-long kickback scheme where they donated hundreds of millions to AKF to subsidize patients' private insurance premiums, steering patients away from Medicare toward commercial insurance that pays 17 times more than government rates. The lawsuit alleged that when AKF became financially stressed, DaVita and Fresenius pressured the charity to restrict grants only to patients whose dialysis providers contributed to the fund, creating a quid pro quo arrangement where donations bought patient referrals in violation of federal anti-kickback laws. By 2017, DaVita and Fresenius donated $247 million annually to AKF, which paid premiums for over 74,000 patients—approximately 20 percent of the nation's dialysis recipients—with analysts estimating the scheme generated 30-45 percent of the dialysis giants' annual pre-tax income through a systematic fraud exploiting America's most vulnerable kidney disease patients.

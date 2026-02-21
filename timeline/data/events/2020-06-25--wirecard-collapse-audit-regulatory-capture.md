@@ -37,6 +37,10 @@ sources:
   outlet: France 24
   date: '2024-12-20'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 German payments processor Wirecard files for insolvency after admitting €1.9 billion in cash—roughly 25% of its assets—probably never existed, marking the largest accounting fraud in German post-war history. The collapse exposes catastrophic failures by auditor Ernst & Young (EY), which signed off on Wirecard's fraudulent financial statements for over a decade without verifying the existence of cash reserves that turned out to be fabricated bank statements. German financial regulator BaFin, rather than investigating Wirecard's fraud, instead filed criminal complaints against Financial Times journalists who exposed the scheme and temporarily banned short-selling of Wirecard stock—a textbook case of regulatory capture driven by 'economic nationalism' to protect a German corporate champion. BaFin President Felix Hufeld admitted the situation was a 'total disaster,' yet the regulator lacked authority to investigate Wirecard's core accounting practices, only its subsidiary bank. A 2024 parliamentary inquiry found BaFin 'partially ineffective' and noted the regulator's warnings to Wirecard management were met with 'reticence.' Five EY auditors were fined between €23,000 and €300,000, but the systemic failure reveals how cozy ties between auditors, business, and political elites enable massive fraud. CEO Markus Braun was arrested; COO Jan Marsalek fled and remains at large.

@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- Intelligence Penetration
 ---
 
 Edward Snowden publicly revealed himself as the source behind the explosive NSA surveillance leaks in a 12-minute video interview filmed at the Mira Hotel in Kowloon, Hong Kong, and published by The Guardian. The 29-year-old former NSA contractor and CIA technical assistant had flown to Hong Kong on May 20, 2013, before the first stories based on his leaks were published.

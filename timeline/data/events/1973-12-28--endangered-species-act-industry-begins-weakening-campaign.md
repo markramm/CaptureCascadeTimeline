@@ -5,38 +5,38 @@ title: Endangered Species Act Signed, Industry Groups Immediately Begin Weakenin
 importance: 8
 location: Washington, D.C.
 actors:
-  - Richard Nixon
-  - American Mining Congress
-  - National Forest Products Association
-  - American Farm Bureau Federation
-  - Western States Petroleum Association
-  - Pacific Legal Foundation
+- Richard Nixon
+- American Mining Congress
+- National Forest Products Association
+- American Farm Bureau Federation
+- Western States Petroleum Association
+- Pacific Legal Foundation
 tags:
-  - environmental
-  - endangered-species-act
-  - regulatory-capture
-  - corporate-lobbying
-  - wildlife
+- environmental
+- endangered-species-act
+- regulatory-capture
+- corporate-lobbying
+- wildlife
 capture_lanes:
-  - Regulatory Capture
-  - Legal Capture
+- Regulatory Capture
+- Judicial Capture
 sources:
-  - title: "The Endangered Species Act at 50"
-    url: "https://www.smithsonianmag.com/science-nature/endangered-species-act-50-years-180983407/"
-    outlet: "Smithsonian Magazine"
-    date: 2023-12-28
-    verified: true
-    tier: 1
-  - title: "A History of the Endangered Species Act"
-    url: "https://www.fws.gov/law/endangered-species-act"
-    outlet: "U.S. Fish and Wildlife Service"
-    verified: true
-    tier: 1
-  - title: "The War on the Endangered Species Act"
-    url: "https://www.nrdc.org/stories/war-endangered-species-act"
-    outlet: "Natural Resources Defense Council"
-    verified: true
-    tier: 2
+- title: The Endangered Species Act at 50
+  url: https://www.smithsonianmag.com/science-nature/endangered-species-act-50-years-180983407/
+  outlet: Smithsonian Magazine
+  date: 2023-12-28
+  verified: true
+  tier: 1
+- title: A History of the Endangered Species Act
+  url: https://www.fws.gov/law/endangered-species-act
+  outlet: U.S. Fish and Wildlife Service
+  verified: true
+  tier: 1
+- title: The War on the Endangered Species Act
+  url: https://www.nrdc.org/stories/war-endangered-species-act
+  outlet: Natural Resources Defense Council
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

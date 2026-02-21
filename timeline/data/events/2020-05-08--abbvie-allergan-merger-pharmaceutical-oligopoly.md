@@ -33,6 +33,10 @@ sources:
   outlet: Norton Rose Fulbright
   date: '2023'
   tier: 3
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Military-Industrial Complex
 ---
 
 AbbVie completed its $63 billion acquisition of Allergan after FTC approval requiring divestiture of digestive drug brazikumab to resolve antitrust concerns. The merger created a pharmaceutical giant with combined 2019 revenues of $48 billion and a diversified portfolio spanning immunology, oncology, neuroscience, eye care, and aesthetics—further consolidating the pharmaceutical industry into a small oligopoly of mega-corporations with enormous pricing power.

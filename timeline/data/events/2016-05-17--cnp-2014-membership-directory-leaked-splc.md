@@ -26,6 +26,9 @@ sources:
   date: '2016-08-31'
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 The Southern Poverty Law Center obtained and released a leaked copy of the Council for National Policy's 2014 Membership Directory, exposing 413 members of what it described as a "Who's Who of the Right" - the first comprehensive membership list made public since 1998.

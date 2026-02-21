@@ -31,6 +31,10 @@ actors:
 - Dick Cheney
 - ExxonMobil
 - American Petroleum Institute
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Documents revealed that Vice President Dick Cheney's Energy Task Force had met extensively with executives from major oil companies, though chief executives denied involvement when testifying before the Senate Energy and Commerce committees. The revelation exposed how the Energy and Commerce Committee—responsible for regulating the oil industry and energy policy—had been captured by the very industry it oversaw. Oil company executives provided misleading testimony about climate science and their companies' internal knowledge of climate change, continuing a decades-long disinformation campaign designed to prevent regulatory action.

@@ -17,8 +17,8 @@ tags:
 - conflict-of-interest
 - regulatory-capture
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 sources:
 - title: Trump Issues Ethics Waiver For His AI/Crypto Czar
   url: https://www.levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar/

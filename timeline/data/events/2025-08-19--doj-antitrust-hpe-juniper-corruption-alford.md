@@ -32,6 +32,10 @@ sources:
   date: '2025-08-25'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Surveillance Infrastructure
 ---
 
 Former DOJ antitrust official Roger Alford publicly accused Attorney General Pam Bondi's chief of staff Chad Mizelle of 'perverting justice' by overruling career officials to approve the Hewlett Packard Enterprise-Juniper Networks $14 billion merger. Alford and another senior official were fired for opposing the settlement influenced by MAGA-aligned lobbyists.

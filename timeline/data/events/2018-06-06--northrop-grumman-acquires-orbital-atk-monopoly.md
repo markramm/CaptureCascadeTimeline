@@ -34,6 +34,10 @@ sources:
   date: '2018-06-06'
   tier: 2
   outlet: Defense News
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
+- Corporate Capture
 ---
 
 Northrop Grumman completed its $9.2 billion acquisition of Orbital ATK on June 6, 2018, gaining control of the premier supplier of solid rocket motors essential for missile systems and creating anticompetitive market dominance that the Federal Trade Commission warned would "reduce competition in the market for missile systems purchased by the U.S. government, resulting in less innovation and higher prices for taxpayers." The acquisition, which involved $7.8 billion in cash and assumption of $1.4 billion in debt, gave Northrop vertical integration from missile prime contractor to critical propulsion component supplier, enabling the company to control both the production of complete weapons systems and the essential solid rocket motors that competitors depend on to build their own missile systems.

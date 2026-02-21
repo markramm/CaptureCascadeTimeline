@@ -5,40 +5,40 @@ title: Bush Administration Begins Systematic EPA Rollbacks with Withdrawal from 
 importance: 8
 location: Washington, D.C.
 actors:
-  - George W. Bush
-  - Christine Todd Whitman
-  - Dick Cheney
-  - American Petroleum Institute
-  - ExxonMobil
-  - National Mining Association
-  - Electric utility industry
+- George W. Bush
+- Christine Todd Whitman
+- Dick Cheney
+- American Petroleum Institute
+- ExxonMobil
+- National Mining Association
+- Electric utility industry
 tags:
-  - environmental
-  - epa
-  - regulatory-capture
-  - climate-denial
-  - bush-administration
-  - kyoto-protocol
+- environmental
+- epa
+- regulatory-capture
+- climate-denial
+- bush-administration
+- kyoto-protocol
 capture_lanes:
-  - Regulatory Capture
-  - Executive Branch Capture
+- Regulatory Capture
+- Executive Power Expansion
 sources:
-  - title: "Bush Pulls Out of Kyoto Protocol"
-    url: "https://www.theguardian.com/environment/2001/mar/29/climatechange.kyotoprotocol"
-    outlet: "The Guardian"
-    date: 2001-03-29
-    verified: true
-    tier: 1
-  - title: "The Bush Record on the Environment"
-    url: "https://www.nrdc.org/resources/bush-record-rewriting-rules-way-polluters-want"
-    outlet: "Natural Resources Defense Council"
-    verified: true
-    tier: 2
-  - title: "Cheney Energy Task Force and Industry Influence"
-    url: "https://www.washingtonpost.com/politics/cheney-energy-task-force-documents-reveal-focus-on-middle-east-oil/2007/07/17/gIQA8x9m3H_story.html"
-    outlet: "Washington Post"
-    verified: true
-    tier: 1
+- title: Bush Pulls Out of Kyoto Protocol
+  url: https://www.theguardian.com/environment/2001/mar/29/climatechange.kyotoprotocol
+  outlet: The Guardian
+  date: 2001-03-29
+  verified: true
+  tier: 1
+- title: The Bush Record on the Environment
+  url: https://www.nrdc.org/resources/bush-record-rewriting-rules-way-polluters-want
+  outlet: Natural Resources Defense Council
+  verified: true
+  tier: 2
+- title: Cheney Energy Task Force and Industry Influence
+  url: https://www.washingtonpost.com/politics/cheney-energy-task-force-documents-reveal-focus-on-middle-east-oil/2007/07/17/gIQA8x9m3H_story.html
+  outlet: Washington Post
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

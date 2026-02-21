@@ -47,9 +47,7 @@ sources:
   url: https://www.npr.org/2023/03/15/1163676898/chinese-business-tycoon-guo-wengui-fraud-arrest
 status: confirmed
 capture_lanes:
-- administrative-sabotage
-- healthcare-sabotage
-- regulatory-capture
+- Regulatory Capture
 ---
 
 

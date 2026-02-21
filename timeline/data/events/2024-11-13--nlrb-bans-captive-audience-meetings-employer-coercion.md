@@ -28,6 +28,9 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Labor Suppression
 ---
 
 The National Labor Relations Board rules that mandatory captive audience meetings—where employers force workers to attend anti-union presentations under threat of termination—violate the National Labor Relations Act as illegal employer coercion. The Biden-era NLRB finds that compelling workers to listen to employer anti-union messaging interferes with employees' Section 7 rights to freely choose whether to support union organizing, overturning decades of precedent allowing such meetings.

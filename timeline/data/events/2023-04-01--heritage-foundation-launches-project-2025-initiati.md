@@ -20,8 +20,8 @@ tags:
 - conservative-blueprint
 - government-transformation
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Executive Power & Emergency Authority
+- Regulatory Capture
+- Executive Power Expansion
 sources:
 - title: Project 2025 Implementation Analysis
   url: https://www.heritage.org/project2025
@@ -32,8 +32,7 @@ sources:
   url: https://www.aclu.org/project-2025-explained
   outlet: ACLU
   date: '2024-07-01'
-- title: What is Project 2025? What to know about the conservative blueprint for a
-    second Trump administration
+- title: What is Project 2025? What to know about the conservative blueprint for a second Trump administration
   url: https://www.cbsnews.com/news/what-is-project-2025-trump-conservative-blueprint-heritage-foundation/
   outlet: CBS News
   date: '2024-07-09'
@@ -41,12 +40,7 @@ sources:
   url: https://www.afge.org/article/new-trump-administration-packed-with-project-2025-architects/
   outlet: AFGE
   date: '2025-01-21'
-notes: Most comprehensive conservative governing blueprint in modern history. Despite
-  Trump distancing himself during campaign, after winning 2024 election he nominated
-  several Project 2025 architects to positions. Four days into second term, Time found
-  nearly two-thirds of Trump's executive actions "mirror or partially mirror" Project
-  2025 proposals. CNN found 36 of 53 first-week orders matched Heritage Foundation's
-  brief.
+notes: Most comprehensive conservative governing blueprint in modern history. Despite Trump distancing himself during campaign, after winning 2024 election he nominated several Project 2025 architects to positions. Four days into second term, Time found nearly two-thirds of Trump's executive actions "mirror or partially mirror" Project 2025 proposals. CNN found 36 of 53 first-week orders matched Heritage Foundation's brief.
 monitoring_status: active
 followup_schedule: monthly
 search_keywords:

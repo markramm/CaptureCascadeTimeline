@@ -5,38 +5,38 @@ title: Bhopal Disaster Kills Thousands, Exposes Union Carbide Safety Negligence 
 importance: 9
 location: Bhopal, India
 actors:
-  - Union Carbide Corporation
-  - Warren Anderson
-  - Indian government
-  - U.S. chemical industry
-  - Chemical Manufacturers Association
+- Union Carbide Corporation
+- Warren Anderson
+- Indian government
+- U.S. chemical industry
+- Chemical Manufacturers Association
 tags:
-  - environmental
-  - corporate-negligence
-  - pollution
-  - public-health
-  - international
-  - chemical-industry
+- environmental
+- corporate-negligence
+- pollution
+- public-health
+- international
+- chemical-industry
 capture_lanes:
-  - Regulatory Failure
-  - Corporate Disinformation
+- Regulatory Capture
+- Media Capture & Control
 sources:
-  - title: "Bhopal Gas Tragedy"
-    url: "https://www.britannica.com/event/Bhopal-disaster"
-    outlet: "Encyclopedia Britannica"
-    verified: true
-    tier: 1
-  - title: "The Bhopal Disaster and Its Aftermath"
-    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1142333/"
-    outlet: "Environmental Health Perspectives"
-    verified: true
-    tier: 1
-  - title: "30 Years After Bhopal"
-    url: "https://www.theatlantic.com/photo/2014/12/bhopal-the-worlds-worst-industrial-disaster-30-years-later/100864/"
-    outlet: "The Atlantic"
-    date: 2014-12-03
-    verified: true
-    tier: 1
+- title: Bhopal Gas Tragedy
+  url: https://www.britannica.com/event/Bhopal-disaster
+  outlet: Encyclopedia Britannica
+  verified: true
+  tier: 1
+- title: The Bhopal Disaster and Its Aftermath
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1142333/
+  outlet: Environmental Health Perspectives
+  verified: true
+  tier: 1
+- title: 30 Years After Bhopal
+  url: https://www.theatlantic.com/photo/2014/12/bhopal-the-worlds-worst-industrial-disaster-30-years-later/100864/
+  outlet: The Atlantic
+  date: 2014-12-03
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

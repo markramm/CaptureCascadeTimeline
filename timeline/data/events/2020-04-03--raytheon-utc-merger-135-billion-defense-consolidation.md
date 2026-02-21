@@ -38,6 +38,10 @@ actors:
 - Greg Hayes
 - Department of Justice
 - BAE Systems
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
+- Corporate Capture
 ---
 
 On April 3, 2020, Raytheon Company and United Technologies Corporation (UTC) completed a $135 billion merger creating Raytheon Technologies, the world's second-largest aerospace and defense company behind only Boeing. The merger combined Raytheon's weapons systems—including the Patriot missiles used in Saudi Arabia and Paveway bombs documented in Yemen civilian casualties—with UTC's Collins Aerospace and Pratt & Whitney divisions. The deal represented the largest defense industry consolidation in decades, further concentrating market power among a shrinking number of dominant contractors. The Justice Department approved the merger after requiring limited divestitures, including Raytheon's military airborne radios business ($275 million to BAE Systems) and UTC's military GPS business ($1.93 billion to BAE Systems). However, these divestitures addressed only narrow competitive overlaps while leaving intact the broader consolidation that gave the combined entity increased leverage over Pentagon procurement and pricing.

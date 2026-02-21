@@ -27,6 +27,10 @@ sources:
   url: https://www.cnbc.com/2025/11/10/snap-benefits-appeals-trump-food-stamps-supreme-court.html
   tier: 2
   outlet: CNBC
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Intelligence Penetration
 ---
 
 A three-judge panel of the U.S. Court of Appeals for the First Circuit unanimously ruled that the Trump administration must be forced to pay full SNAP food benefits for November, declining to block U.S. District Judge John McConnell's order requiring the administration to use available federal funds to cover the $4 billion shortfall. Judge Julie Rikelman's opinion stated that allowing partial SNAP payments would cause "immense harm nationwide for the more than 40 million people in the program," directly rebuking the administration's claim that complying with the lower court order would harm the government more than food insecurity would harm tens of millions of Americans.

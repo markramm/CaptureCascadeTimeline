@@ -27,7 +27,7 @@ tags:
 - economic-inequality
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 sources:
 - title: ALEC Publishes Its Own Project 2025 — for the States
   url: https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/

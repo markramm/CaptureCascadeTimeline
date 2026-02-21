@@ -24,6 +24,10 @@ sources:
   date: '2025-10-20'
   tier: 2
   outlet: Foreign Policy
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- Environmental Capture
 ---
 
 Director of National Intelligence Tulsi Gabbard killed the forthcoming Global Trends 2025 report and dismantled the intelligence unit that produced it, ending a practice dating to 1997 of publishing quadrennial unclassified assessments of future threats to U.S. national security. Gabbard's office claimed the draft 'violated professional analytic tradecraft standards' to 'propagate a political agenda,' but former officials told The New York Times the report's climate change threat analysis—included in every Global Trends since 2000—conflicted with Trump's fossil fuel agenda. Former National Security Adviser Jake Sullivan denied any political agenda and warned that without the assessment, the U.S. may be unprepared for threats like climate change. This represents intelligence politicization where scientific consensus on existential threats is censored to serve administration ideology.

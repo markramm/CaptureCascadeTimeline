@@ -22,8 +22,8 @@ tags:
 - healthcare
 - vaccine-policy
 capture_lanes:
-- Public Health Degradation
-- Expertise Purge
+- Regulatory Capture
+- Federal Workforce Capture
 sources:
 - title: CDC's ACIP changes recommendations for hepatitis B vaccination for infants
   url: https://www.npr.org/sections/shots-health-news/2025/12/05/nx-s1-5634004/cdc-hepatitis-b-vaccine-acip-meeting

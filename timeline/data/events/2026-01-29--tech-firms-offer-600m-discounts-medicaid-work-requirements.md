@@ -24,6 +24,10 @@ sources:
   outlet: Kaiser Family Foundation
   date: '2025-12-15'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Digital & Tech Capture
 ---
 
 The Trump administration announces that ten technology vendors are offering $600 million worth of discounts to states implementing Medicaid work requirements under the "One Big Beautiful Bill Act" signed July 4, 2025. The unprecedented discount offer signals vendor expectations that the sweeping healthcare policy change will generate lucrative long-term contracts despite the substantial upfront price reductions. The technology systems are required to track and verify that 18.5 million Medicaid enrollees aged 19-64 work, volunteer, or engage in educational activities for at least 80 hours monthly beginning January 1, 2027.

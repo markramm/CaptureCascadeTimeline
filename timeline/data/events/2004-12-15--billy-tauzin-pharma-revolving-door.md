@@ -30,6 +30,10 @@ actors:
 - Billy Tauzin
 - PhRMA
 - Medicare
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Pharmaceutical Research and Manufacturers of America (PhRMA) announced that former House Energy and Commerce Committee Chairman Billy Tauzin (R-LA) would become its president and CEO, effective January 2005. The announcement came shortly after Tauzin's retirement from Congress, where from 2001 to 2004 he had chaired the powerful committee that oversees the Food and Drug Administration. Tauzin would earn an estimated $2 million annually, making him one of the highest-paid lobbyists in Washington.

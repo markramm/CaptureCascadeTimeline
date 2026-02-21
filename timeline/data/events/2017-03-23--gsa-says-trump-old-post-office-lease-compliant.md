@@ -2,10 +2,8 @@
 id: 2017-03-23--gsa-says-trump-old-post-office-lease-compliant
 date: '2017-03-23'
 importance: 8
-title: GSA deemed Trump Old Post Office lease 'compliant'; agency watchdog later faulted
-  failure to consider Emoluments Clause
-notes: 'Show both sides: (1) GSA''s official compliance letter; (2) GSA OIG''s finding
-  that GSA failed to
+title: GSA deemed Trump Old Post Office lease 'compliant'; agency watchdog later faulted failure to consider Emoluments Clause
+notes: 'Show both sides: (1) GSA''s official compliance letter; (2) GSA OIG''s finding that GSA failed to
 
   assess constitutional issues. Include the hearing record for additional context.
 
@@ -24,7 +22,7 @@ tags:
 patterns: []
 related_events: []
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 location: Washington, D.C.
 sources:
 - date: '2017-03-23'
@@ -37,8 +35,7 @@ sources:
   verified: true
 - date: '2019-01-16'
   outlet: GSA OIG
-  title: Evaluation of GSA's Management and Administration of the Old Post Office
-    Building Lease (JE19-002)
+  title: Evaluation of GSA's Management and Administration of the Old Post Office Building Lease (JE19-002)
   url: https://www.gsaig.gov/sites/default/files/ipa-reports/JE19-002%20OIG%20EVALUATION%20REPORT-GSA%27s%20Management%20%26%20Administration%20of%20OPO%20Building%20Lease_January%2016%202019_Redacted.pdf
   archive_url: ''
   key_facts_confirmed:
@@ -46,8 +43,7 @@ sources:
   verified: true
 - date: '2019-09-25'
   outlet: U.S. House (hearing record)
-  title: Administration's Oversight of the Trump International Hotel Lease (hearing
-    transcript)
+  title: Administration's Oversight of the Trump International Hotel Lease (hearing transcript)
   url: https://www.congress.gov/116/meeting/house/110002/documents/CHRG-116hhrg41130.pdf
   archive_url: ''
   key_facts_confirmed:

@@ -24,7 +24,7 @@ tags:
 - corporate-corruption
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 sources:
 - title: Economic Growth and Tax Relief Reconciliation Act of 2001
   url: https://en.wikipedia.org/wiki/Economic_Growth_and_Tax_Relief_Reconciliation_Act_of_2001

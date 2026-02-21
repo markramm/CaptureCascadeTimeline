@@ -33,8 +33,7 @@ sources:
   outlet: CNN
 status: confirmed
 capture_lanes:
-- regulatory-capture
-- deregulation
+- Regulatory Capture
 ---
 
 

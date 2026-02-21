@@ -142,4 +142,8 @@ sources:
   date: 2025-10-29
   tier: 2
   outlet: Democracy Now
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Digital & Tech Capture
 ---

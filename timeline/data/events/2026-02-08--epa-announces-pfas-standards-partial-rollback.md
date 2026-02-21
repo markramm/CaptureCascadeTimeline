@@ -28,6 +28,9 @@ sources:
   outlet: Crowell & Moring
   date: '2026-02-08'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
 ---
 
 The Environmental Protection Agency moved forward with plans to rescind drinking water standards for four PFAS chemicals while extending compliance deadlines for two others, continuing a rollback of Biden-era public health protections. The EPA announced it will maintain Maximum Contaminant Levels for PFOA and PFOS established in April 2024, but extend compliance deadlines from 2029 to 2031, giving drinking water systems additional time to develop treatment plans. However, the agency announced its intent to rescind national drinking water standards for HFPO-DA (GenX), PFNA, PFHxS, and the hazard index used to evaluate combined risk of those compounds plus PFBS, stating it will reconsider the regulatory determinations to ensure they follow proper legal processes under the Safe Drinking Water Act.

@@ -14,8 +14,8 @@ tags:
 - ethics-violation
 - regulatory-capture
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 sources:
 - title: Lutnick conflicts of interest analysis
   url: https://www.bloomberg.com/news/articles/lutnick-conflicts

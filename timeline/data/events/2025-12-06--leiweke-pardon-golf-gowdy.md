@@ -33,6 +33,10 @@ sources:
   date: '2025-12-06'
   tier: 3
   outlet: The Inquisitr
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Surveillance Infrastructure
 ---
 
 # Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy

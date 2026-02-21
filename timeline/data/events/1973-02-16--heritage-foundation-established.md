@@ -25,9 +25,8 @@ actors:
 - Joseph Coors
 - Heritage Foundation
 capture_lanes:
-- Intellectual Infrastructure
-- Policy Development
-- Political Network Formation
+- Regulatory Capture
+- Democratic Erosion
 status: validated
 ---
 

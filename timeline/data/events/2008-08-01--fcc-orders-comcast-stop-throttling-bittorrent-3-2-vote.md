@@ -16,21 +16,25 @@ tags:
 - comcast
 status: confirmed
 sources:
-- title: 'FCC Rules Against Comcast for BitTorrent Blocking'
+- title: FCC Rules Against Comcast for BitTorrent Blocking
   url: https://www.eff.org/deeplinks/2008/08/fcc-rules-against-comcast-bit-torrent-blocking
   outlet: Electronic Frontier Foundation
   date: '2008-08-01'
   tier: 1
-- title: 'FCC formally rules Comcast throttling of BitTorrent was illegal'
+- title: FCC formally rules Comcast throttling of BitTorrent was illegal
   url: https://cyberlaw.org.uk/2008/08/01/fcc-formally-rules-comcasts-throttling-of-bittorrent-was-illegal/
   outlet: CyberLaw
   date: '2008-08-01'
   tier: 2
-- title: 'Order Against Comcast Issued, FCC Credits EFF'
+- title: Order Against Comcast Issued, FCC Credits EFF
   url: https://www.eff.org/deeplinks/2008/08/order-against-comcast-issued-fcc-credits-eff
   outlet: Electronic Frontier Foundation
   date: '2008-08-01'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Media Capture & Control
 ---
 
 The Federal Communications Commission votes 3-2 to punish Comcast for its "surreptitious interference" with BitTorrent uploads, marking the first time any U.S. broadband provider has been found to violate net neutrality principles. The Commission formally adopted an order finding that Comcast violated the neutrality principles established in the FCC's 2005 Internet Policy Statement by secretly throttling peer-to-peer traffic without disclosure to customers.

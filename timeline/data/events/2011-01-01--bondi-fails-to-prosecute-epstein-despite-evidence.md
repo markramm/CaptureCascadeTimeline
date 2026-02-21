@@ -25,6 +25,9 @@ sources:
   outlet: Twitter/X
   tier: 2
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Environmental Capture
 ---
 
 Throughout Pam Bondi's eight-year tenure as Florida Attorney General (2011-2019), mounting evidence against Jeffrey Epstein became public—including plane flight logs, victim lawsuits, and challenges to the controversial 2008 plea deal—yet Bondi never initiated state prosecution or opened a formal investigation. Legal experts confirmed Bondi had full authority to prosecute Epstein under Florida law, as state and federal governments are separate entities with concurrent jurisdiction. During Bondi's tenure, victims were actively filing lawsuits challenging the secret 2008 plea deal where Epstein served only 13 months for soliciting prostitution from a minor, despite evidence of trafficking dozens of underage girls. Miami Herald investigative reporter Julie K. Brown noted: "It's interesting to note that Pam Bondi was Florida's attorney general 2011-2019 — a period of time when Jeffrey Epstein's plane records became public, victims' lawsuits were filed and a lot of new evidence against Epstein surfaced." Epstein was finally arrested on federal sex trafficking charges in July 2019, just six months after Bondi left office. Bloomberg Opinion described Bondi as "failing Epstein's victims for years" during her AG tenure. Her inaction allowed Epstein to continue operating freely in Florida throughout the 2010s while his crimes were becoming increasingly documented. This pattern of protecting powerful predators while serving as Florida AG would continue into her role as U.S. Attorney General, where she claimed to possess an Epstein "client list" that subsequently disappeared, demonstrating decades of cover-up rather than accountability.

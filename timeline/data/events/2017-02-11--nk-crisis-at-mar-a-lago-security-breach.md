@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: CBS News
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Executive Power Expansion
 ---
 
 When North Korea test-fired a ballistic missile on February 11, 2017, President Trump and Japanese Prime Minister Shinzo Abe conducted national security deliberations in full view of Mar-a-Lago club members and guests at Trump's private resort. As wealthy club members looked on from their tables during a birthday party, Trump took the call about the missile launch on a mobile phone at his table in the middle of the dining area, then turned the dinner into an open-air situation room. Aides used their phone flashlights to illuminate classified documents on the patio table so Trump and Abe could read them in the candlelight, while fellow diners photographed the scene and posted images to Facebook. One club member posted photos showing documents visible on the table, with aides standing behind Trump holding papers. The incident represented an unprecedented breach of national security protocols, with sensitive crisis deliberations conducted in front of civilians who had paid $200,000 Mar-a-Lago membership fees for access to the president. White House Press Secretary Sean Spicer lamely claimed they were only "reviewing logistics for the press conference," though photos clearly showed classified briefing materials. The episode demonstrated how Trump's refusal to divest from his businesses created systematic national security risks, as paying customers at his private club gained access to sensitive government deliberations. Democratic leaders called for investigations, and the GAO later found Trump's four February-March 2017 Mar-a-Lago trips cost taxpayers $13.6 million while enriching his personal business.

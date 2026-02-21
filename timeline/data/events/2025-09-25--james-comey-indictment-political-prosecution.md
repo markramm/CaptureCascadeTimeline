@@ -28,6 +28,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- International Kleptocracy
+- Legislative Capture
 ---
 
 Former FBI Director James Comey was indicted by a federal grand jury on charges of false statements and obstruction of a congressional proceeding, just days after President Trump publicly demanded his DOJ move 'now' to prosecute enemies. The indictment—brought by Lindsey Halligan, Trump's former personal lawyer with only four days on the job as U.S. Attorney—came despite career prosecutors documenting in a memo that probable cause did not exist. The charges relate to Comey's September 30, 2020 testimony to the Senate Judiciary Committee about the 2016 Russia investigation. Trump's predecessor as U.S. Attorney, Erik Siebert, had refused to bring the case and was forced out just days earlier. Comey is the first senior government official charged in Trump's campaign of prosecuting political enemies, marking the complete weaponization of federal law enforcement against dissent.

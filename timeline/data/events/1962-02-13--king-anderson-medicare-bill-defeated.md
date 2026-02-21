@@ -23,7 +23,7 @@ tags:
 - great-society
 - social-programs
 capture_lanes:
-- Healthcare Capture
+- Regulatory Capture
 - Legislative Capture
 sources:
 - title: Social Security Amendments of 1965 - Wikipedia

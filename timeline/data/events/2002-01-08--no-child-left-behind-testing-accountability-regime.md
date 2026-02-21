@@ -18,17 +18,17 @@ tags:
 - bipartisan-consensus
 - accountability
 sources:
-- title: "No Child Left Behind Act of 2001"
+- title: No Child Left Behind Act of 2001
   url: https://www.congress.gov/bill/107th-congress/house-bill/1
   outlet: Congress.gov
   date: '2002-01-08'
   tier: 1
-- title: "The Testing Charade: Pretending to Make Schools Better"
+- title: 'The Testing Charade: Pretending to Make Schools Better'
   url: https://www.press.uchicago.edu/ucp/books/book/chicago/T/bo25877699.html
   outlet: University of Chicago Press (Daniel Koretz)
   date: '2017-10-01'
   tier: 1
-- title: "No Child Left Behind: What Standardized Test Scores Reveal About Its Legacy"
+- title: 'No Child Left Behind: What Standardized Test Scores Reveal About Its Legacy'
   url: https://www.brookings.edu/articles/no-child-left-behind-what-standardized-test-scores-reveal-about-its-legacy/
   outlet: Brookings Institution
   date: '2015-03-01'
@@ -36,8 +36,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Corporate Capture
-- Testing Industrial Complex
-- Education Privatization
+- Regulatory Capture
+- Financial Capture
 ---
 
 On January 8, 2002, President George W. Bush signed the No Child Left Behind Act (NCLB) into law at Hamilton High School in Hamilton, Ohio, with bipartisan fanfare that masked the legislation's deeply destructive effects on public education. Co-sponsored by Senator Ted Kennedy and Representative John Boehner, NCLB created a punitive testing-and-accountability regime that would generate billions for testing companies while labeling thousands of public schools as "failing" and paving the way for privatization.

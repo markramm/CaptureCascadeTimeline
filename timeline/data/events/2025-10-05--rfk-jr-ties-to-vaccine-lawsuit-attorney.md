@@ -18,6 +18,10 @@ tags:
 - regulatory-capture
 - systematic-corruption
 - public-health-undermining
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Financial Capture
 ---
 
 RFK Jr.'s legal associate Aaron Siri is simultaneously advancing lawsuits aligned with Kennedy's anti-vaccine agenda while wielding influence inside the Department of Health and Human Services, raising serious ethical concerns about personal financial gain from policy decisions. Siri's dual role as both private litigator against vaccine policies and informal HHS adviser creates obvious conflicts of interest, where policy changes he influences could directly benefit his legal practice and clients. This arrangement exemplifies the blurring of public health policy with private financial interests, where ideological allies are positioned to profit from regulatory decisions they help shape.

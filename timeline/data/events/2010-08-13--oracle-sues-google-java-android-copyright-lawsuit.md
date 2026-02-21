@@ -31,6 +31,10 @@ sources:
   date: '2021-04-06'
   tier: 2
   outlet: Am Badar & Associates
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Media Capture & Control
 ---
 
 Oracle Corporation filed a lawsuit against Google on August 13, 2010, in the U.S. District Court for the Northern District of California, alleging copyright and patent infringement over Google's use of Java application programming interfaces (APIs) and approximately 11,000 lines of Java source code in the Android operating system. The lawsuit came just months after Oracle completed its $7.4 billion acquisition of Sun Microsystems in January 2010, inheriting the Java programming language and immediately weaponizing it against Google's Android platform.

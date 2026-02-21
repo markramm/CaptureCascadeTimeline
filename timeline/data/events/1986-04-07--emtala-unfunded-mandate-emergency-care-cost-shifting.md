@@ -15,7 +15,7 @@ tags:
 - cost-shifting
 - regulatory-capture
 sources:
-- title: 'Emergency Medical Treatment and Active Labor Act (EMTALA)'
+- title: Emergency Medical Treatment and Active Labor Act (EMTALA)
   outlet: CMS.gov
   url: https://www.cms.gov/regulations-and-guidance/legislation/emtala
   date: '2024-01-01'
@@ -23,13 +23,13 @@ sources:
   outlet: Annals of Emergency Medicine
   url: https://www.annemergmed.com
   date: '2011-01-01'
-- title: 'Uncompensated Care and the American Health Care System'
+- title: Uncompensated Care and the American Health Care System
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2003-01-01'
 capture_lanes:
-- Healthcare Industry Capture
-- Cost Externalization
+- Regulatory Capture
+- Corporate Capture
 status: confirmed
 ---
 

@@ -35,6 +35,10 @@ sources:
   date: 2024-01-01
   tier: 3
   outlet: Wikipedia
+capture_lanes:
+- Regulatory Capture
+- Electoral Manipulation
+- Financial Capture
 ---
 
 The Republican State Leadership Committee (RSLC) launches REDMAP (Redistricting Majority Project), a strategic initiative to gain control of state legislatures before the 2011 redistricting cycle following the 2010 Census. The project represents an unprecedented systematic approach to gerrymandering designed to secure Republican congressional majorities for the next decade.

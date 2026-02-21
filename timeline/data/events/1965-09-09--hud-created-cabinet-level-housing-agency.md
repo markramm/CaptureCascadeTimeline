@@ -14,7 +14,7 @@ tags:
 - civil-rights
 - housing
 sources:
-- title: 'History of HUD'
+- title: History of HUD
   outlet: HUD.gov
   url: https://www.hud.gov/about/hud_history
   tier: 1
@@ -30,8 +30,7 @@ sources:
   tier: 2
   verified: true
 capture_lanes:
-- Institutional Continuity
-- Industry Influence
+- Regulatory Capture
 status: confirmed
 ---
 

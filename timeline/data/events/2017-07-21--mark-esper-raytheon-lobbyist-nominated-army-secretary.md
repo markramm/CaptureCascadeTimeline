@@ -37,6 +37,10 @@ actors:
 - Raytheon
 - Donald Trump
 - Elizabeth Warren
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 On July 21, 2017, the Senate confirmed Mark Esper as Secretary of the Army, installing a former Raytheon weapons lobbyist in a senior Pentagon position overseeing billions of dollars in defense contracts. Esper had served as Raytheon's vice president of government relations from July 2010 until joining the Trump administration in 2017, spending seven years lobbying for one of the world's largest defense contractors. The Hill recognized Esper as one of Washington's top corporate lobbyists in both 2015 and 2016 for his success advancing Raytheon's interests. His appointment represented a textbook example of the defense industry revolving door, where individuals move seamlessly between roles regulating military contractors and roles profiting from those same contractors. Esper's transition from lobbying for weapons sales to overseeing Army weapons procurement raised fundamental questions about whether Pentagon officials could objectively evaluate contractor proposals when their own recent employment and potential future career prospects depended on maintaining good relationships with defense industry giants.

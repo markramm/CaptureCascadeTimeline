@@ -24,6 +24,10 @@ sources:
   date: '2020-09-01'
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Electoral Manipulation
+- Judicial Capture
 ---
 
 A September 2020 Council for National Policy membership directory was obtained and shared by a member, later obtained by Documented in January 2022, exposing the current coordination network two months before the presidential election and three months before January 6, 2021.

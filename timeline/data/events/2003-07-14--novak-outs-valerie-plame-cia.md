@@ -35,6 +35,9 @@ legal_context:
   - Scooter Libby convicted of perjury and obstruction
   - Sentence commuted by President Bush
   - Libby later pardoned by President Trump
+capture_lanes:
+- Regulatory Capture
+- Intelligence Penetration
 ---
 
 Syndicated columnist Robert Novak publicly identified Valerie Plame as a covert CIA operative in his column, revealing her classified status after her husband, Joseph Wilson, criticized the Bush administration's claims about Iraqi uranium procurement. The leak, attributed to senior administration officials Richard Armitage, Karl Rove, and Scooter Libby, triggered a federal investigation that ultimately resulted in Libby's conviction for obstruction of justice and perjury.

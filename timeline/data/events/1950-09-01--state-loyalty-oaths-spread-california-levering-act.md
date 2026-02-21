@@ -17,8 +17,8 @@ tags:
 - political-persecution
 - state-action
 capture_lanes:
-- Policy Capture
-- Structural Repression
+- Regulatory Capture
+- Civil Rights Suppression
 sources:
 - title: The Loyalty Oath Controversy at the University of California
   url: https://oac.cdlib.org/findaid/ark:/13030/kt896nc8sv/

@@ -42,6 +42,10 @@ actors:
 - Sandoz
 - Food and Drug Administration
 - USPTO
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Judicial Capture
 ---
 
 AbbVie reached settlement agreements with eight biosimilar manufacturers that allowed immediate biosimilar competition in Europe starting October 16, 2018, but delayed all US market entry until 2023—seven years after Humira's original patent expired in December 2016. The settlements ended patent litigation over AbbVie's "patent thicket" of more than 130 patents covering the world's best-selling drug, which generated $20 billion in global sales in 2018 and 60% of AbbVie's revenue. While biosimilars entered European markets in 2018 and drove prices down, American patients and taxpayers continued paying monopoly prices for an additional five years due to AbbVie's strategic exploitation of US patent system weaknesses that allowed the company to obtain 250 patents related to a single antibody discovered decades earlier.

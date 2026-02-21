@@ -29,6 +29,10 @@ actors:
 - Public Citizen
 - U.S. Congress
 - K Street
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Public Citizen released "Congressional Revolving Doors: The Journey from Congress To K Street," documenting that 43% of U.S. House and Senate lawmakers (86 out of 198) who left office between 1998 and 2004 became registered lobbyists. The report found that 50% of eligible departing senators (18 of 36) and 42% of eligible House members (68 of 162) registered to lobby their former colleagues, representing a dramatic acceleration of the revolving door compared to previous decades. The analysis revealed stark partisan differences, with 52% of departing Republicans (58 of 112) becoming lobbyists compared to 33% of Democrats (28 of 86), reflecting Republican control of Congress and the premium lobbying firms paid for access to the majority party.

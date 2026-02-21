@@ -45,9 +45,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Regulatory Capture by Industry
-- Delayed Response to Public Health Crisis
-- Industry Profits Over Public Safety
+- Regulatory Capture
+- Corporate Capture
 ---
 
 In April 2015, after years of earthquake increases that scientists conclusively linked to wastewater injection from oil and gas operations, the Oklahoma Corporation Commission finally issued directives requiring 92 operators of 347 Arbuckle formation disposal wells to prove their wells were not in contact with granite basement rock. The directive represented the commission's most aggressive response to date, but came only after Oklahoma's seismicity had increased from 41 earthquakes exceeding magnitude 3.0 in 2010 to 903 such earthquakes in 2015—a more than 20-fold increase that transformed Oklahoma into the most seismically active state in the continental United States.

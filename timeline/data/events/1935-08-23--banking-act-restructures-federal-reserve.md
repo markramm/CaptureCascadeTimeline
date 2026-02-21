@@ -31,8 +31,8 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- regulatory
-- financial
+- Regulatory Capture
+- Financial Capture
 status: confirmed
 ---
 

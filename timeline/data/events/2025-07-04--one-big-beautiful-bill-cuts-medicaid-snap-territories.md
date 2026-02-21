@@ -16,9 +16,7 @@ tags:
 - territory-neglect
 - social-safety-net
 capture_lanes:
-- Healthcare System Capture
-- Social Welfare Dismantling
-- Colonial Administration
+- Regulatory Capture
 sources:
 - title: Medicaid, SNAP, and the One Big Beautiful Bill Act Explained
   url: https://www.pearsuite.com/post/one-big-beautiful-bill-act/

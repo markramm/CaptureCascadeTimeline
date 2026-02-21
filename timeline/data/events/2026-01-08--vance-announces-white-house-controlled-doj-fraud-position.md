@@ -27,6 +27,9 @@ actors:
 - Donald Trump
 - Department of Justice
 - Tim Walz
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Vice President JD Vance announced creation of a new Assistant Attorney General position focused on fraud investigations that would have 'nationwide jurisdiction' with initial focus on Minnesota. In a stunning admission, Vance stated the position would be 'run out of the White House' and answer directly to himself and President Trump—not operate from the Justice Department. Legal observers described this as the 'most brazen effort' to eliminate traditional boundaries between the White House and DOJ, which have been maintained since post-Watergate reforms to protect prosecutorial independence. The announcement came amid DHS's deployment of 2,000 agents to Minnesota targeting alleged welfare fraud in Somali communities. Vance also attacked Minnesota Governor Tim Walz, calling him 'a joke' who 'enabled fraud and maybe participated in fraud.' HHS had frozen payments to 14 Medicaid programs in the state and SBA suspended 6,900 borrowers.

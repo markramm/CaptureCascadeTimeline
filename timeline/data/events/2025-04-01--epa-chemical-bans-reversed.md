@@ -15,7 +15,7 @@ tags:
 - chemical-industry
 - health-safety
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: EPA chemical safety rollbacks
   url: https://www.washingtonpost.com/climate-environment/2025/04/01/epa-chemical-bans

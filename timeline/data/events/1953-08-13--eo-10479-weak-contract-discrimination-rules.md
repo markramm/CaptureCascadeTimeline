@@ -5,36 +5,36 @@ title: Eisenhower Executive Order 10479 Creates Committee on Government Contract
 importance: 6
 location: Washington, D.C.
 actors:
-  - Dwight D. Eisenhower
-  - Richard Nixon
-  - Government Contract Committee
-  - NAACP
+- Dwight D. Eisenhower
+- Richard Nixon
+- Government Contract Committee
+- NAACP
 tags:
-  - civil-rights
-  - executive-order
-  - employment-discrimination
-  - federal-contracting
+- civil-rights
+- executive-order
+- employment-discrimination
+- federal-contracting
 capture_lanes:
-  - Policy Capture
+- Regulatory Capture
 sources:
-  - title: "Executive Order 10479"
-    url: "https://www.presidency.ucsb.edu/documents/executive-order-10479-establishing-the-government-contract-committee"
-    outlet: "The American Presidency Project"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Fair Employment Practices Committee"
-    url: "https://www.archives.gov/research/african-americans/wwii/fepc"
-    outlet: "National Archives"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The President's Committee on Government Contracts"
-    url: "https://www.dol.gov/agencies/ofccp/about/history"
-    outlet: "Department of Labor"
-    date: 2024-01-01
-    verified: true
-    tier: 2
+- title: Executive Order 10479
+  url: https://www.presidency.ucsb.edu/documents/executive-order-10479-establishing-the-government-contract-committee
+  outlet: The American Presidency Project
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Fair Employment Practices Committee
+  url: https://www.archives.gov/research/african-americans/wwii/fepc
+  outlet: National Archives
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The President's Committee on Government Contracts
+  url: https://www.dol.gov/agencies/ofccp/about/history
+  outlet: Department of Labor
+  date: 2024-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

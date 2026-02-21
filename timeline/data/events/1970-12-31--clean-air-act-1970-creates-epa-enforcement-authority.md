@@ -4,39 +4,39 @@ date: '1970-12-31'
 title: Clean Air Act of 1970 Creates EPA and National Air Quality Standards Despite Industry Opposition
 importance: 9
 actors:
-  - President Richard Nixon
-  - Senator Edmund Muskie
-  - American Petroleum Institute
-  - National Coal Association
-  - Automotive Industry
-  - Environmental Protection Agency (EPA)
+- President Richard Nixon
+- Senator Edmund Muskie
+- American Petroleum Institute
+- National Coal Association
+- Automotive Industry
+- Environmental Protection Agency (EPA)
 tags:
-  - environmental-regulation
-  - public-health
-  - corporate-lobbying
-  - regulatory-reform
+- environmental-regulation
+- public-health
+- corporate-lobbying
+- regulatory-reform
 sources:
-  - title: "Summary of the Clean Air Act"
-    url: "https://www.epa.gov/laws-regulations/summary-clean-air-act"
-    outlet: "Environmental Protection Agency"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Evolution of the Clean Air Act"
-    url: "https://www.epa.gov/clean-air-act-overview/evolution-clean-air-act"
-    outlet: "Environmental Protection Agency"
-    date: 2023-06-01
-    verified: true
-    tier: 1
-  - title: "The Clean Air Act at 50"
-    url: "https://www.lung.org/clean-air/clean-air-act/clean-air-act-50-years"
-    outlet: "American Lung Association"
-    date: 2020-12-31
-    verified: true
-    tier: 2
+- title: Summary of the Clean Air Act
+  url: https://www.epa.gov/laws-regulations/summary-clean-air-act
+  outlet: Environmental Protection Agency
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Evolution of the Clean Air Act
+  url: https://www.epa.gov/clean-air-act-overview/evolution-clean-air-act
+  outlet: Environmental Protection Agency
+  date: 2023-06-01
+  verified: true
+  tier: 1
+- title: The Clean Air Act at 50
+  url: https://www.lung.org/clean-air/clean-air-act/clean-air-act-50-years
+  outlet: American Lung Association
+  date: 2020-12-31
+  verified: true
+  tier: 2
 capture_lanes:
-  - Regulatory Reform
-  - Environmental Protection
+- Regulatory Capture
+- Environmental Capture
 status: confirmed
 ---
 

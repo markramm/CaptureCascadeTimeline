@@ -21,6 +21,10 @@ tags:
 - systematic-corruption
 - doj-weaponization
 - retaliatory-prosecution
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Financial Capture
 ---
 
 The Trump administration established a pattern of targeting political adversaries through the Federal Housing Finance Agency with mortgage fraud investigations. Beyond Letitia James's indictment, the pattern includes investigations against Fed Governor Lisa Cook and Senator Adam Schiff, all Trump critics who suddenly face mortgage-related scrutiny. Reporting revealed this represents systematic weaponization of a previously obscure regulatory mechanism to harass and prosecute political enemies, with conservative activist William Pulte coordinating the campaign. This demonstrates institutionalized political persecution using financial regulatory authority as a weapon.

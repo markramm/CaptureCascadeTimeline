@@ -34,8 +34,7 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- regulatory
-- revolving-door
+- Regulatory Capture
 status: confirmed
 ---
 

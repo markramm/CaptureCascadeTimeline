@@ -35,8 +35,7 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- antitrust
-- regulatory
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -33,6 +33,10 @@ sources:
   tier: 1
   outlet: U.S. Department of Justice
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- International Kleptocracy
+- Systematic Corruption
 ---
 
 On March 7, 2017, Michael Flynn belatedly filed Foreign Agents Registration Act (FARA) paperwork with the Department of Justice, revealing his consulting firm received $530,000 from August through November 2016 for work that could be construed to have principally benefited the Republic of Turkey. Flynn performed this foreign agent work while serving as a top Trump campaign advisor and continued receiving payments after being named national security advisor-designate—the most sensitive national security position in government. Flynn's firm worked on behalf of Inovo BV, a Dutch company owned by Turkish businessman Ekim Alptekin with close ties to President Erdogan, conducting research on exiled cleric Fethullah Gulen whom Turkey sought to extradite. On Election Day, Flynn published an op-ed in The Hill calling Gulen shady and demanding his extradition—an article he had shared with his Turkish client before publication. The DOJ contacted Flynn on November 30, 2016 about his Turkey work, yet Trump appointed him National Security Advisor anyway on January 20, 2017. Flynn's attorney notified the White House transition team before the inauguration that foreign agent registration was likely required, meaning Trump knowingly installed a foreign agent—who had also lied to the FBI about Russia—as National Security Advisor. Flynn would later admit in December 2017 that his March FARA filings contained lies, including falsely stating that Flynn Intel Group did not know the extent of Turkish government involvement. The retroactive registration exposed systematic corruption: a sitting National Security Advisor secretly working for a foreign government.

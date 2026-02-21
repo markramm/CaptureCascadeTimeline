@@ -30,6 +30,10 @@ sources:
   date: 2016-11-22
   tier: 2
   outlet: Centre for Global Higher Education
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- Intelligence Penetration
 ---
 
 In June 2010, Trump University changed its name to "The Trump Entrepreneur Initiative" following sustained pressure from the New York State Education Department, which had repeatedly warned since 2005 that the organization was illegally using the term "university" without proper authorization. A March 2010 letter from Deputy Commissioner for Higher Education Joseph Frey explicitly stated that "Use of the word 'university' by your corporation is misleading and violates New York Education Law and the Rules of the Board of Regents." The name change represented an attempt to avoid prosecution for operating an unlicensed educational institution rather than any substantive reform of the enterprise's fraudulent business practices. Despite the cosmetic rebranding, the organization continued the same high-pressure sales tactics and deceptive marketing practices under its new name.

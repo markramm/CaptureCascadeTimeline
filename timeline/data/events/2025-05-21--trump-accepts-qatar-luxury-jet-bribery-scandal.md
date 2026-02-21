@@ -143,4 +143,8 @@ sources:
   date: 2025-05-22
   tier: 2
   outlet: Common Cause
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Digital & Tech Capture
 ---

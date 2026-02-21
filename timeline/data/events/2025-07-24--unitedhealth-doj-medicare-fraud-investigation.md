@@ -31,6 +31,9 @@ sources:
   date: '2025-07-24'
   tier: 2
   outlet: Star Tribune
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On July 24, 2025, UnitedHealth Group confirmed in an SEC filing that the Department of Justice has launched both criminal and civil investigations into the company's Medicare Advantage billing practices, focusing on systematic upcoding fraud that may have generated billions in government overpayments. This represents the largest Medicare Advantage fraud investigation in history, targeting the nation's largest health insurer for allegedly manipulating diagnosis codes to inflate patient risk scores and extract higher federal reimbursements.

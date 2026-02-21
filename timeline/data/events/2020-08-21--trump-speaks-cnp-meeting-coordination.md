@@ -29,6 +29,9 @@ sources:
   date: '2020-08-21'
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Electoral Manipulation
 ---
 
 On August 21, 2020, President Donald Trump attended and spoke at a Council for National Policy meeting, becoming the first sitting president to publicly address the secretive conservative coordination organization that had operated largely in the shadows since its 1981 founding.

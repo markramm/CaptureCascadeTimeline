@@ -61,4 +61,8 @@ sources:
   date: 2025-12-17
   tier: 1
   outlet: NPR
+capture_lanes:
+- Regulatory Capture
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---

@@ -35,6 +35,10 @@ sources:
   outlet: Wall Street on Parade
   date: '2023-11-01'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Corporate Capture
 ---
 
 WeWork formally withdraws its S-1 filing and postpones its IPO after investor scrutiny reveals catastrophic governance failures and self-dealing by CEO Adam Neumann. The company's valuation collapses from $47 billion (January 2019) to under $10 billion in months. The SEC investigation reveals Neumann purchased properties to lease back to WeWork, charged the company $6 million for trademark rights to the word 'We,' and cashed out over $700 million before the IPO. Critically, WeWork exploited regulatory gaps by hiring former SEC Division of Corporation Finance Director John White to navigate IPO review while using misleading 'community adjusted EBITDA' metrics that the SEC questioned but failed to halt. The collapse exposes how the revolving door between Wall Street and regulators enables self-dealing: two progressive organizations petition Congress to investigate WeWork's hiring of former SEC officials. Despite clear evidence of self-dealing and accounting manipulation, Neumann receives a $1 billion payout to resign while facing no criminal prosecution—what former Labor Secretary Robert Reich calls the blueprint for 'becoming a fabulously rich con artist.' The WeWork debacle reveals how SPAC-era governance allowed charismatic founders with super-voting rights to operate without meaningful board oversight, presaging the Nikola and other frauds that followed.

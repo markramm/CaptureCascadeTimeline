@@ -24,8 +24,7 @@ sources:
 - date: '2025-10-30'
   outlet: Bitcoin Ethereum News
   tier: 3
-  title: Binance.US Defends USD1 Listing Amid Claims of Trump Influence and Pardon
-    Ties
+  title: Binance.US Defends USD1 Listing Amid Claims of Trump Influence and Pardon Ties
   url: https://bitcoinethereumnews.com/tech/binance-us-defends-usd1-listing-amid-claims-of-trump-influence-and-pardon-ties/
 - date: '2025-10-29'
   outlet: Bitcoin Ethereum News
@@ -46,8 +45,11 @@ tags:
 - regulatory-capture
 - usd1-stablecoin
 - world-liberty-financial
-title: Binance.US Lists Trump's USD1 Stablecoin Days After Presidential Pardon of
-  Binance Founder
+title: Binance.US Lists Trump's USD1 Stablecoin Days After Presidential Pardon of Binance Founder
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 Binance.US added support for World Liberty Financial's USD1 stablecoin on October 29, 2025, just six days after President Trump pardoned Binance founder Changpeng Zhao (CZ). The timing triggered immediate accusations of corruption from Senator Chris Murphy, who alleged the listing represented 'payback' for the presidential pardon. The USD1 stablecoin, issued by the Trump family's crypto venture World Liberty Financial, had a market capitalization of $2.97 billion and ranked as the sixth-largest stablecoin globally at the time of listing.

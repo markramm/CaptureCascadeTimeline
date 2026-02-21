@@ -30,6 +30,9 @@ sources:
   outlet: NBC News
   date: '2026-01-21'
   tier: 1
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
 ---
 
 Lindsey Halligan, Trump's former personal attorney with no prosecutorial experience, departed the Justice Department on January 21, 2026, after federal judges ruled her appointment as interim U.S. Attorney for the Eastern District of Virginia was unlawful. Attorney General Pam Bondi announced Halligan's departure, blaming it on Senate Democrats and "multiple, unnecessary legal obstacles," though Halligan's 120-day statutory appointment limit had expired.

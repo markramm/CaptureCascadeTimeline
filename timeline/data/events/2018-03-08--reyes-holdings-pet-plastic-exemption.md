@@ -10,8 +10,8 @@ tags:
 - lobbying
 - crony-capitalism
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Financial Corruption & Kleptocracy
+- Regulatory Capture
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Trump Tariff Exemptions Benefit Politically Connected Firms
@@ -35,8 +35,7 @@ actors:
 - Trump Administration
 - Republican donors
 location: Washington, DC
-notes: Example of politically connected corporations getting special breaks from tariffs
-  with no transparency
+notes: Example of politically connected corporations getting special breaks from tariffs with no transparency
 ---
 
 Reyes Holdings, a Coca-Cola bottling giant owned by two major Republican donors, secured a tariff exemption for PET plastic resin with no public explanation, leaving industry insiders baffled. Records show the company had recently hired lobbyists with close White House ties, heightening suspicions about how the carve-out was won.

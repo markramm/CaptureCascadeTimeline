@@ -23,8 +23,8 @@ tags:
 - regulatory-capture
 - chemical-safety
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
-- Climate Crisis & Corporate Obstruction
+- Regulatory Capture
+- Environmental Capture
 sources:
 - title: EPA Launches Biggest Deregulatory Action in U.S. History
   url: https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history

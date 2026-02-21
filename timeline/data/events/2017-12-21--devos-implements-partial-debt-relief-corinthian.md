@@ -28,6 +28,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Judicial Capture
 ---
 
 On December 21, 2017, Secretary Betsy DeVos announced a radical departure from Obama administration policy by implementing an earnings-based formula for Corinthian Colleges debt relief that denied full forgiveness to fraud victims and calculated partial relief based on post-graduation earnings. Under DeVos's formula, students whose earnings were less than 50% of peers in similar programs received full relief, those earning 50-59% of peers received only half relief, and those earning 90% or more received just 10% relief—blaming victims for the fraud perpetrated against them.

@@ -24,6 +24,10 @@ sources:
 - title: verifiedvoting.org
   url: https://verifiedvoting.org/publication/summary-of-the-problem-with-electronic-voting/
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Electoral Manipulation
+- Legislative Capture
 ---
 
 In the 2004 Presidential Election, significant irregularities were discovered in Ohio's voting infrastructure, primarily involving Diebold voting machines. Key issues included potential vote switching, software vulnerabilities, and conflicts of interest. Diebold CEO Walden O'Dell had previously committed to 'delivering Ohio' to President Bush. Multiple academic studies, including research from Johns Hopkins and UC Berkeley, documented serious security flaws in Diebold's electronic voting systems. Congressional investigations by John Conyers revealed 'numerous serious election irregularities' that potentially influenced the election outcome.

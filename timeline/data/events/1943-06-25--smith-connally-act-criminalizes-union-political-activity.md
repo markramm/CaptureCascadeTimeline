@@ -19,20 +19,20 @@ tags:
 - congressional-action
 - roosevelt
 capture_lanes:
-- Policy Capture
+- Regulatory Capture
 - Legislative Capture
 sources:
-- title: 'Smith-Connally Act - Wikipedia'
+- title: Smith-Connally Act - Wikipedia
   url: https://en.wikipedia.org/wiki/Smith–Connally_Act
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'The Smith-Connally Act and Labor Battles on the Home Front'
+- title: The Smith-Connally Act and Labor Battles on the Home Front
   url: https://www.nationalww2museum.org/war/articles/smith-connally-act-and-labor-battles-home-front
   outlet: National WWII Museum
   date: '2024-01-01'
   verified: true
-- title: 'Smith-Connally Anti-Strike Act'
+- title: Smith-Connally Anti-Strike Act
   url: https://www.britannica.com/topic/Smith-Connally-Anti-Strike-Act
   outlet: Britannica
   date: '2024-01-01'

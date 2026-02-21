@@ -21,6 +21,10 @@ tags:
 - crypto-corruption
 - billionaire-influence
 - institutional-capture
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Digital & Tech Capture
 ---
 
 The White House withdrew Brian Quintenz's nomination to lead the Commodity Futures Trading Commission after conflicts with crypto billionaires Tyler and Cameron Winklevoss, leaving the critical financial regulatory agency with only an acting chair and effectively leaderless. The withdrawal demonstrates how crypto billionaires exercise veto power over regulatory appointments, ensuring only industry-friendly officials oversee cryptocurrency markets. This represents regulatory capture at the appointment stage, where industry moguls can block nominees who might enforce consumer protections or market integrity standards.

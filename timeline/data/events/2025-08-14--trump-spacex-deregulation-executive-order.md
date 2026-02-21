@@ -30,6 +30,10 @@ sources:
   date: '2025-08-20'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Executive Power Expansion
 ---
 
 Trump signed an executive order directing the Transportation Department to slash FAA regulations on rocket launches, eliminating or expediting environmental reviews for commercial spaceflight. The order directly benefits SpaceX, whose owner Elon Musk repeatedly complained about FAA environmental impact studies and licensing reviews.

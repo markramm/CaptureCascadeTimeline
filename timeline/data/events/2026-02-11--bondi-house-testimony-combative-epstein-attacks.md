@@ -31,6 +31,9 @@ sources:
   outlet: Axios
   date: '2026-02-11'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Legislative Capture
 ---
 
 Attorney General Pam Bondi's February 11, 2026, testimony before the House Judiciary Committee devolved into what observers called "some of the tensest and most combative testimony seen to date from a Trump Cabinet official," marked by personal attacks against lawmakers and refusal to answer substantive questions. Bondi called Rep. Jamie Raskin—the top Democrat and former constitutional law professor—a "washed-up loser lawyer" and called Republican Rep. Thomas Massie a "failed politician" with "Trump derangement syndrome" after Massie confronted her over DOJ's over-redaction of the Epstein files and withholding of crucial documents.

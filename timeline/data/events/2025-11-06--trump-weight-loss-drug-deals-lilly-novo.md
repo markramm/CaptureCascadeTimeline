@@ -25,6 +25,9 @@ sources:
   date: '2025-11-06'
   tier: 1
   outlet: The White House
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
 ---
 
 President Trump announced on November 6, 2025, that his administration had reached agreements with pharmaceutical manufacturers Eli Lilly and Novo Nordisk to dramatically reduce prices for popular weight loss and diabetes medications, including Ozempic, Wegovy, Mounjaro, Zepbound, and Orforglipron. Under the "TrumpRx" program, the prices of Ozempic and Wegovy would fall from $1,000 and $1,350 per month to $350, while Zepbound and Orforglipron would drop from $1,086 per month to an average of $346. Medicare prices for these drugs would be set at $245—less than half the prices proposed by the Biden administration—with Medicare beneficiaries paying a co-pay of just $50 per month.

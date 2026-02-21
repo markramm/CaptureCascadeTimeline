@@ -26,6 +26,8 @@ sources:
   outlet: Wikipedia
   date: '2026-02-09'
   tier: 3
+capture_lanes:
+- Regulatory Capture
 ---
 
 The Department of Justice filed appeals with the Fourth Circuit Court of Appeals on February 9, 2026, seeking to revive criminal charges against former FBI Director James Comey and New York Attorney General Letitia James, arguing that U.S. District Judge Cameron Currie was wrong to dismiss the indictments based on Lindsey Halligan's unlawful appointment as interim U.S. Attorney. The appeals came 19 days after Halligan's forced departure from DOJ on January 21, raising questions about whether the department had standing to continue the cases.

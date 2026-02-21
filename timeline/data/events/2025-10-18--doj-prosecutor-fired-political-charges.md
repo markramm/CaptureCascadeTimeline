@@ -21,6 +21,10 @@ sources:
   tier: 1
   outlet: The New York Times
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Media Capture & Control
 ---
 
 Federal prosecutor Elizabeth Yusi was purged from her position after refusing President Trump's demand to indict New York Attorney General Letitia James without evidence of criminal conduct. Trump loyalist Lindsey Halligan—a former Trump personal attorney with no prosecutorial experience—replaced Yusi to proceed with fabricated mortgage fraud charges against James. Internal DOJ memos revealed that evidence undermined key allegations, with supposed benefits totaling around $800, yet Halligan pushed forward anyway under direct political pressure. The purge demonstrates systematic DOJ weaponization where career prosecutors who maintain ethical standards are removed and replaced with Trump loyalists willing to bring politically motivated charges. Yusi's firing exemplifies the complete transformation of federal law enforcement from independent institution to tool for punishing Trump's perceived enemies.

@@ -39,6 +39,10 @@ actors:
 - Donald Trump
 - Elizabeth Warren
 - Lindsey Graham
+capture_lanes:
+- Regulatory Capture
+- Military-Industrial Complex
+- Intelligence Penetration
 ---
 
 On July 23, 2019, the Senate voted 90-8 to confirm Mark Esper as Secretary of Defense, installing a former Raytheon weapons lobbyist as head of the Pentagon with authority over approximately $700 billion in annual defense spending including contracts worth tens of billions to his former employer. Esper had served as Raytheon's vice president of government relations from July 2010 to 2017, spending seven years as the company's chief Washington lobbyist during a period when Raytheon secured massive Saudi Arabian weapons contracts that would later be documented in Yemen civilian-casualty incidents. His confirmation occurred just one month after the Senate voted to block Raytheon Paveway bomb sales to Saudi Arabia and days before Trump would veto those congressional resolutions—giving Esper authority to oversee the very weapons transfers his former employer sought to protect. The appointment represented the ultimate revolving door capture: a defense contractor lobbyist obtaining supreme authority over Pentagon spending, contractor oversight, and the regulatory environment his former employer navigated.

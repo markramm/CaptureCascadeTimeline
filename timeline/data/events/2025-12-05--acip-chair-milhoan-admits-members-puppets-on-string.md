@@ -23,9 +23,9 @@ tags:
 - expertise-purge
 - healthcare
 capture_lanes:
-- Public Health Degradation
-- Expertise Purge
-- Democratic Norms Erosion
+- Regulatory Capture
+- Federal Workforce Capture
+- Democratic Erosion
 sources:
 - title: '''Puppets on a string'': ACIP chair airs independence concerns'
   url: https://www.yahoo.com/news/articles/puppets-string-acip-chair-airs-204933381.html

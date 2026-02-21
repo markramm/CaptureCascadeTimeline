@@ -29,6 +29,10 @@ sources:
   outlet: North Carolina State Treasurer
   tier: 1
 status: confirmed
+capture_lanes:
+- Regulatory Capture
+- Financial Capture
+- Surveillance Infrastructure
 ---
 
 Between 2012 and 2019, CEO compensation at nonprofit hospitals and medical systems grew by 30%, from just under $1 million to $1.3 million on average, with the top decile experiencing a 42.5% increase from $3.95 million to $5.62 million—while typical hospital worker wages increased by only 8%. By 2018, Kaiser Permanente CEO Bernard Tyson received nearly $18 million, making him the highest-paid nonprofit CEO in the nation. Ascension's CEO received more than $10 million in bonuses in a single year, with no disclosure of how incentive pay was structured. One hospital system CEO received $30.4 million in total compensation. Research found that CEO compensation was associated with technology spending and patient satisfaction scores but not with processes of care, patient outcomes, or community benefit—the charitable work that justifies tax-exempt status. In North Carolina, nine largest hospital systems paid highly compensated executives more than $1.75 billion from 2010 to 2021, with hospital CEOs capturing $308.8 million. In Pennsylvania, Tower Health had four hospitals lose their tax-exempt status because executive salaries were deemed excessively large while none spent even 1% of expenses on charity care. As nonprofit hospitals consolidated and amassed significant cash reserves, the share of expenses going to community benefit did not increase, revealing that tax-exempt status was being exploited to enrich executives rather than serve communities. Federal laws require nonprofit hospitals to provide charity care and community benefits to preserve tax exemption, but enforcement has been virtually nonexistent.

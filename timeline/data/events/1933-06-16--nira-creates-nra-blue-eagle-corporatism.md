@@ -1,8 +1,7 @@
 ---
 id: 1933-06-16--nira-creates-nra-blue-eagle-corporatism
 date: '1933-06-16'
-title: National Industrial Recovery Act Creates NRA Blue Eagle Program, Enabling Corporate
-  Self-Regulation
+title: National Industrial Recovery Act Creates NRA Blue Eagle Program, Enabling Corporate Self-Regulation
 importance: 8
 actors:
 - Franklin D. Roosevelt
@@ -61,8 +60,8 @@ sources:
   url: https://en.wikipedia.org/wiki/Pecora_Commission
   tier: 2
 capture_lanes:
-- regulatory
-- corporate
+- Regulatory Capture
+- Corporate Capture
 status: confirmed
 ---
 

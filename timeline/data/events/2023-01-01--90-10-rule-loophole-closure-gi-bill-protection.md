@@ -20,11 +20,8 @@ tags:
 - military-education
 - student-aid-reform
 capture_lanes:
-- Veterans Exploitation
-- 90/10 Rule Reform
-- For-Profit College Accountability
-- Military Benefits Protection
-- Regulatory Loophole Closure
+- Regulatory Capture
+- Financial Capture
 sources:
 - title: 90/10 Loophole
   url: https://vetsedsuccess.org/what-we-do/policy-advocacy/our-work-with-the-executive-branch/education/90-10-loophole/

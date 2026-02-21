@@ -1,8 +1,7 @@
 ---
 id: 1981-08-13--reagan-erta-tax-cuts-70-to-50
 date: '1981-08-13'
-title: Reagan Signs Economic Recovery Tax Act (ERTA) - Top Rate Slashed from 70% to
-  50%, Corporate Tax Cuts Total $150 Billion Over Five Years
+title: Reagan Signs Economic Recovery Tax Act (ERTA) - Top Rate Slashed from 70% to 50%, Corporate Tax Cuts Total $150 Billion Over Five Years
 importance: 9
 actors:
 - Ronald Reagan
@@ -25,7 +24,7 @@ tags:
 - systematic-capture
 status: confirmed
 capture_lanes:
-- Think Tank Capture
+- Regulatory Capture
 sources:
 - title: Economic Recovery Tax Act of 1981
   url: https://en.wikipedia.org/wiki/Economic_Recovery_Tax_Act_of_1981

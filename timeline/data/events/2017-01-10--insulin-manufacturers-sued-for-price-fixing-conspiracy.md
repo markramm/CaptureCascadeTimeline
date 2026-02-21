@@ -33,6 +33,10 @@ sources:
   date: '2017-02-01'
   tier: 2
   outlet: Fierce Pharma
+capture_lanes:
+- Regulatory Capture
+- Corporate Capture
+- Surveillance Infrastructure
 ---
 
 In January 2017, diabetes patients filed a federal antitrust class action lawsuit alleging that the three pharmaceutical manufacturers controlling 99% of the U.S. insulin market—Eli Lilly, Novo Nordisk, and Sanofi—conspired to raise insulin prices in near-lockstep coordination, increasing prices by over 300% in some cases between 2010-2017. The lawsuit exposed how pharmaceutical oligopolies use parallel pricing to extract maximum profits from patients dependent on life-sustaining medications, while regulators failed to intervene despite obvious anticompetitive conduct.

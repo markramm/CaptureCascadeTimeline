@@ -23,16 +23,20 @@ sources:
   outlet: CNN
   date: '2018-06-11'
   tier: 2
-- title: 'Net Neutrality Has Been Rolled Back — But It Not Dead Yet'
+- title: Net Neutrality Has Been Rolled Back — But It Not Dead Yet
   url: https://www.npr.org/2018/06/11/618928905/net-neutrality-has-been-rolled-back-but-its-not-dead-yet
   outlet: NPR
   date: '2018-06-11'
   tier: 1
-- title: 'Repeal Of Net Neutrality Protections Officially Takes Effect'
+- title: Repeal Of Net Neutrality Protections Officially Takes Effect
   url: https://miami.cbslocal.com/2018/06/11/repeal-net-neutrality-takes-effect/
   outlet: CBS
   date: '2018-06-11'
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 The FCC's "Restoring Internet Freedom" order officially takes effect, eliminating the Title II net neutrality protections that had prohibited internet service providers from blocking, throttling, or creating paid "fast lanes" for content delivery. Nearly six months after the Republican-led FCC's 3-2 party-line vote in December 2017, ISPs gained legal authority to discriminate against internet traffic, prioritize their own content and services, and charge content companies for preferential treatment—as long as they disclose these practices in their terms of service.

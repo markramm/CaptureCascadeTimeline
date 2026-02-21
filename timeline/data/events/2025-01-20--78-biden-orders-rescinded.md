@@ -12,7 +12,7 @@ tags:
 - deregulation
 - biden-reversal
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 sources:
 - title: Initial Rescissions Of Harmful Executive Orders And Actions
   url: https://www.whitehouse.gov/presidential-actions/2025/01/initial-rescissions-of-harmful-executive-orders-and-actions
@@ -31,10 +31,7 @@ sources:
   url: https://www.affirmativeactionlawadvisor.com/2025/01/breaking-news-president-trump-revokes-a-long-list-of-biden-executive-orders/
   outlet: Affirmative Action Law Advisor
   date: '2025-01-20'
-notes: Comprehensive reversal of Biden-era policies across all federal agencies. March
-  14, 2025 additional rescissions followed. Orders directed agency heads to immediately
-  end DEI programs. Rescinded climate crisis response, racial equity advancement,
-  LGBTQ protections, ethics commitments, and COVID response coordination.
+notes: Comprehensive reversal of Biden-era policies across all federal agencies. March 14, 2025 additional rescissions followed. Orders directed agency heads to immediately end DEI programs. Rescinded climate crisis response, racial equity advancement, LGBTQ protections, ethics commitments, and COVID response coordination.
 status: confirmed
 ---
 

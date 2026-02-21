@@ -22,7 +22,7 @@ tags:
 patterns: []
 related_events: []
 capture_lanes:
-- Corporate Capture & Regulatory Breakdown
+- Regulatory Capture
 location: Washington, D.C.
 sources:
 - date: '2019-03-05'

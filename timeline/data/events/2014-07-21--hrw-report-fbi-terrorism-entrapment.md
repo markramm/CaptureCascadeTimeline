@@ -30,6 +30,10 @@ sources:
   date: 2014-01-01
   tier: 1
   outlet: Northwestern Journal of Criminal Law and Criminology
+capture_lanes:
+- Regulatory Capture
+- Civil Rights Suppression
+- Labor Suppression
 ---
 
 Human Rights Watch released a comprehensive 214-page report documenting that many high-profile FBI terrorism prosecutions were "an illusion" based on aggressive sting operations that entrapped vulnerable individuals who posed no genuine threat. The report analyzed decades of terrorism cases and found systematic targeting of mentally ill, intellectually disabled, and economically desperate people.

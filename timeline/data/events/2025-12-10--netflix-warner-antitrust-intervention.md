@@ -35,6 +35,10 @@ sources:
   date: '2025-12-05'
   tier: 2
   outlet: CNBC
+capture_lanes:
+- Regulatory Capture
+- Media Capture & Control
+- Systematic Corruption
 ---
 
 # Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount

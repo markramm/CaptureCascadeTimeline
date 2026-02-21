@@ -29,6 +29,10 @@ sources:
   date: '2020-02-21'
   tier: 1
   outlet: Securities and Exchange Commission
+capture_lanes:
+- Regulatory Capture
+- Systematic Corruption
+- Corporate Capture
 ---
 
 Wells Fargo agrees to pay $3 billion to resolve criminal and civil investigations by the Department of Justice and Securities and Exchange Commission into sales practices that created millions of unauthorized accounts between 2002 and 2016. In a deferred prosecution agreement, Wells Fargo formally admits to creating false bank records and committing identity theft—federal crimes—while also admitting it collected millions in unearned fees, harmed customer credit ratings, and misled investors about sales quality. Despite these admissions of systematic criminal conduct affecting 3.5 million accounts, no individuals are charged, and Wells Fargo avoids conviction.

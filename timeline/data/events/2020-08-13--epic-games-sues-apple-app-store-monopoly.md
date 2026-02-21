@@ -24,6 +24,10 @@ sources:
   date: '2024-11-01'
   outlet: Wikipedia
   tier: 2
+capture_lanes:
+- Regulatory Capture
+- Judicial Capture
+- Media Capture & Control
 tags:
 - antitrust
 - apple
@@ -35,11 +39,6 @@ tags:
 - developer-restrictions
 - platform-power
 importance: 8
-capture_lanes:
-- Platform Monopoly
-- Developer Exploitation
-- Antitrust Evasion
-- Market Manipulation
 ---
 
 Epic Games filed a landmark antitrust lawsuit against Apple in the U.S. District Court for the Northern District of California, challenging Apple's App Store monopoly and mandatory 30% commission on in-app purchases. The suit was filed hours after Apple removed Fortnite from the App Store for implementing direct payments that bypassed Apple's payment system, revealing Epic's coordinated "Project Liberty" campaign to challenge Apple's anti-competitive control over iOS app distribution and expose how the company extracts billions in monopoly rents from developers while blocking all alternative payment methods and app stores.

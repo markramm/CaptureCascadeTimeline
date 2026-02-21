@@ -37,7 +37,7 @@ tags:
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
-- Lobbying Influence
+- Regulatory Capture
 patterns:
 - revolving-door
 - corporate-capture

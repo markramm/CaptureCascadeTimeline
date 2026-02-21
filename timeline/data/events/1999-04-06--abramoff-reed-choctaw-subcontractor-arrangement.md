@@ -14,8 +14,7 @@ sources:
 - title: Senate Report 109-325 - GIMME FIVE Investigation
   url: https://www.govinfo.gov/content/pkg/CRPT-109srpt325/html/CRPT-109srpt325.htm
   outlet: Senate Indian Affairs Committee
-- title: Senate Tribal Lobbying Investigation - Full Report Details Abramoff-Reed
-    Scheme
+- title: Senate Tribal Lobbying Investigation - Full Report Details Abramoff-Reed Scheme
   url: https://www.indian.senate.gov/wp-content/uploads/upload/files/Report.pdf
   outlet: U.S. Government Publishing Office
 - title: 'Abramoff: Lobbying Congress Case Study'
@@ -33,7 +32,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Lobbying Manipulation
+- Regulatory Capture
 ---
 
 On April 6, 1999, Jack Abramoff formalized a subcontractor arrangement with Ralph Reed and Preston Gates, involving the Mississippi Band of Choctaw Indians. The scheme involved routing $1.3 million through intermediary organizations like Americans for Tax Reform to conceal payments to Reed's Century Strategies for conducting anti-gaming grassroots campaigns. Reed used his Christian conservative network, including over 3,000 pastors and 90,000 religious conservative households, to conduct targeted political activities that benefited Abramoff's tribal casino clients by preventing competitive gaming legislation.
