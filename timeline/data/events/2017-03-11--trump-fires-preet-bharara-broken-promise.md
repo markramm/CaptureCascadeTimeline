@@ -33,6 +33,10 @@ sources:
   tier: 1
   outlet: ProPublica
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Systematic Corruption
+- Intelligence Penetration
 ---
 
 President Trump fired U.S. Attorney Preet Bharara on March 11, 2017, after Bharara refused to resign when ordered to do so—breaking Trump's direct promise made just months earlier at Trump Tower to allow Bharara to keep his position. Bharara, the highly respected U.S. Attorney for the Southern District of New York known for prosecuting Wall Street corruption and public officials, had declined to return inappropriate phone calls from Trump in the weeks before his firing, fearing the president would ask him "to do something inappropriate." At the time of his firing, Bharara's office was conducting multiple investigations with direct Trump connections: a probe into Fox News' concealment of sexual harassment settlements involving Trump's close friend Roger Ailes, an investigation of HHS Secretary Tom Price (a Trump cabinet member), and inquiries into Russian money-laundering at Deutsche Bank—Trump's principal private lender. Trump's personal attorney Marc Kasowitz later boasted that he convinced Trump to fire Bharara, reportedly telling Trump "This guy is going to get you." The firing represented textbook obstruction of justice: a president breaking his promise to protect a prosecutor investigating matters that threatened the president's personal and political interests. Bharara was replaced by a successor whose selection process included Ailes' personal attorney Marc Mukasey on Trump's shortlist—illustrating Trump's intent to install loyalists who would protect his allies from prosecution.

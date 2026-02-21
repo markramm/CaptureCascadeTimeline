@@ -47,6 +47,10 @@ sources:
   date: '2025-12-04'
   tier: 2
   outlet: Al Jazeera
+capture_lanes:
+- Media Capture & Control
+- Environmental Capture
+- Labor Suppression
 ---
 
 The State Department issued an internal directive on December 2, 2025, instructing consular officers worldwide to deny H-1B visas to applicants who have worked in content moderation, fact-checking, trust and safety, or combating misinformation and disinformation—labeling such work as "censorship" of protected American speech. The policy weaponizes immigration law to punish tech workers for their professional roles in platform safety and information integrity, representing an unprecedented fusion of immigration enforcement with political retaliation against speech regulation activities.

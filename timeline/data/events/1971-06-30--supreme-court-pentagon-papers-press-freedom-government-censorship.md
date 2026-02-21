@@ -11,17 +11,17 @@ actors:
 - Nixon Administration
 - Assistant Attorney General William Rehnquist
 sources:
-- title: 'New York Times Co. v. United States'
+- title: New York Times Co. v. United States
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/New_York_Times_Co._v._United_States
   verified: true
   tier: 1
-- title: 'New York Times Co. v. United States (The Pentagon Papers Case)'
+- title: New York Times Co. v. United States (The Pentagon Papers Case)
   outlet: National Constitution Center
   url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/new-york-times-co-v-united-states-the-pentagon-papers-case
   verified: true
   tier: 1
-- title: 'New York Times Co. v. United States (1971)'
+- title: New York Times Co. v. United States (1971)
   outlet: First Amendment Encyclopedia
   url: https://firstamendment.mtsu.edu/article/new-york-times-co-v-united-states/
   verified: true
@@ -33,9 +33,8 @@ tags:
 - whistleblowing
 - institutional-corruption
 capture_lanes:
-- Press Freedom Defense
-- Executive Overreach Rejection
-- First Amendment Protection
+- Media Capture & Control
+- Executive Power Expansion
 status: confirmed
 ---
 

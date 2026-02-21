@@ -18,11 +18,11 @@ tags:
 - guillaume-chaslot
 - whistleblower
 sources:
-- title: 'How YouTube''s algorithms might radicalise people'
+- title: How YouTube's algorithms might radicalise people
   url: https://theconversation.com/youtubes-algorithms-might-radicalise-people-but-the-real-problem-is-weve-no-idea-how-they-work-129955
   outlet: The Conversation
   date: '2020-01-27'
-- title: 'The YouTube ''radicalization engine'' debate continues'
+- title: The YouTube 'radicalization engine' debate continues
   url: https://www.cjr.org/the_media_today/youtube-radicalization.php
   outlet: Columbia Journalism Review
   date: '2020-02-10'
@@ -37,9 +37,9 @@ sources:
 status: confirmed
 id: 2016-01-01--youtube-algorithm-radicalizes-for-watch-time
 capture_lanes:
-- Algorithm Harm
-- Radicalization Infrastructure
-- Corporate Negligence
+- Media Capture & Control
+- Democratic Erosion
+- Corporate Capture
 capture_type: systematic_radicalization
 patterns:
 - algorithm-optimization-harm

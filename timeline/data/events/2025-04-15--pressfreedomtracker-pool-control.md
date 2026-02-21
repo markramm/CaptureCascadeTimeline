@@ -7,7 +7,7 @@ tags:
 - press-freedom
 - white-house
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 citations:
 - https://pressfreedomtracker.us/all-incidents/white-house-wrests-control-of-presidential-press-pool-from-correspondents
 - https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions
@@ -19,10 +19,7 @@ actors:
 - White House Correspondents' Association (WHCA)
 - Associated Press
 - Trump Administration
-notes: This restructuring came immediately after losing the April 8 court case over
-  AP access, demonstrating the administration's determination to control media coverage
-  despite judicial orders. First time in modern history the executive branch seized
-  control of press pool composition.
+notes: This restructuring came immediately after losing the April 8 court case over AP access, demonstrating the administration's determination to control media coverage despite judicial orders. First time in modern history the executive branch seized control of press pool composition.
 status: confirmed
 sources:
 - title: White House wrests control of presidential press pool from correspondents
@@ -33,8 +30,7 @@ sources:
   url: https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions
   outlet: White House Correspondents' Association
   date: '2025-04-15'
-- title: White House says it's changing the pool of journalists who travel with the
-    president
+- title: White House says it's changing the pool of journalists who travel with the president
   url: https://www.npr.org/2025/02/25/nx-s1-5308234/white-house-says-its-changing-the-pool-of-journalists-who-travel-with-the-president
   outlet: NPR
   date: '2025-02-25'

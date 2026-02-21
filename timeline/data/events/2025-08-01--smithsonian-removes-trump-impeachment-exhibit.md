@@ -29,6 +29,8 @@ sources:
   date: '2025-08-01'
   tier: 1
   outlet: PBS
+capture_lanes:
+- Media Capture & Control
 ---
 
 The Smithsonian's National Museum of American History removed references to President Donald Trump's two impeachments from its presidential power exhibit following White House pressure. The museum claimed the removal was part of a content review undertaken after pressure to remove an art museum director, stating they would restore the exhibit to its 2008 appearance since other topics in the section had not been updated since then.

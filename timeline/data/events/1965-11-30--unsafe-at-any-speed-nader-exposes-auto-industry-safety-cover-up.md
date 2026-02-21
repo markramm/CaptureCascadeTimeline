@@ -4,38 +4,38 @@ date: '1965-11-30'
 title: Ralph Nader Publishes Unsafe at Any Speed Exposing Auto Industry's Deadly Design Choices
 importance: 8
 actors:
-  - Ralph Nader
-  - General Motors
-  - Ford Motor Company
-  - Chrysler Corporation
-  - American Automobile Manufacturers Association
+- Ralph Nader
+- General Motors
+- Ford Motor Company
+- Chrysler Corporation
+- American Automobile Manufacturers Association
 tags:
-  - consumer-protection
-  - corporate-disinformation
-  - automotive-industry
-  - regulatory-capture
+- consumer-protection
+- corporate-disinformation
+- automotive-industry
+- regulatory-capture
 sources:
-  - title: "Unsafe at Any Speed: The Designed-In Dangers of the American Automobile"
-    url: "https://www.britannica.com/topic/Unsafe-at-Any-Speed"
-    outlet: "Encyclopaedia Britannica"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "50 Years Later: 'Unsafe at Any Speed' and Auto Safety"
-    url: "https://www.npr.org/2015/11/30/457685723/50-years-later-unsafe-at-any-speed-and-auto-safety"
-    outlet: "NPR"
-    date: 2015-11-30
-    verified: true
-    tier: 2
-  - title: "How Ralph Nader Changed America"
-    url: "https://www.theatlantic.com/politics/archive/2016/11/ralph-nader-consumer-protection/509011/"
-    outlet: "The Atlantic"
-    date: 2016-11-30
-    verified: true
-    tier: 2
+- title: 'Unsafe at Any Speed: The Designed-In Dangers of the American Automobile'
+  url: https://www.britannica.com/topic/Unsafe-at-Any-Speed
+  outlet: Encyclopaedia Britannica
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: '50 Years Later: ''Unsafe at Any Speed'' and Auto Safety'
+  url: https://www.npr.org/2015/11/30/457685723/50-years-later-unsafe-at-any-speed-and-auto-safety
+  outlet: NPR
+  date: 2015-11-30
+  verified: true
+  tier: 2
+- title: How Ralph Nader Changed America
+  url: https://www.theatlantic.com/politics/archive/2016/11/ralph-nader-consumer-protection/509011/
+  outlet: The Atlantic
+  date: 2016-11-30
+  verified: true
+  tier: 2
 capture_lanes:
-  - Corporate Disinformation
-  - Regulatory Capture
+- Media Capture & Control
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -8,7 +8,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Media Capture
+- Media Capture & Control
 date: '2025-03-10'
 id: 2025-03-10--amazon-pays-40-million-melania-documentary-bribe
 importance: 8
@@ -19,8 +19,7 @@ sources:
   url: https://www.mercurynews.com/2025/01/07/jeff-bezos-amazon-pays-40-million-for-melania-trump-documentary/
 - date: '2025-01-10'
   outlet: Common Dreams
-  title: $40 Million Amazon Documentary Deal for Melania Trump Slammed as Corporate
-    'Pandering'
+  title: $40 Million Amazon Documentary Deal for Melania Trump Slammed as Corporate 'Pandering'
   url: https://www.commondreams.org/news/melanie-amazon-film-trump
 - date: '2025-04-29'
   outlet: Senator Warren's Office

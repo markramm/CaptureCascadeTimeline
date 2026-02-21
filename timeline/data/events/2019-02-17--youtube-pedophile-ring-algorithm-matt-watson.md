@@ -1,7 +1,8 @@
 ---
 date: '2019-02-17'
 title: YouTube Pedophile Ring Enabled by Recommendation Algorithm Exposed by Matt Watson
-description: YouTuber Matt Watson exposed a "wormhole into a soft-core pedophile ring" facilitated by YouTube's recommendation algorithm. Watson demonstrated that starting from innocuous videos of children in normal activities (gymnastics, swimming, playing), YouTube's algorithm within "about five clicks" would recommend thousands of videos featuring minors that pedophiles were exploiting. Comments sections contained time-stamps to moments where children were in "sexually suggestive positions," links to child pornography sites, and networks of predators sharing content—all monetized with ads from major brands including Disney, McDonald's, and Reese's. The algorithm effectively created a child exploitation network by clustering content attractive to pedophiles and serving them ads. Disney, Nestle, and Epic Games immediately pulled advertising. YouTube terminated 400+ channels and disabled comments on tens of millions of videos, but only after massive media attention—demonstrating years of negligence despite obvious algorithmic amplification of child exploitation.
+description: YouTuber Matt Watson exposed a "wormhole into a soft-core pedophile ring" facilitated by YouTube's recommendation algorithm. Watson demonstrated that starting from innocuous videos of children in normal activities (gymnastics, swimming, playing), YouTube's algorithm within "about five clicks" would recommend thousands of videos featuring minors that pedophiles were exploiting. Comments sections contained time-stamps to moments where children were in "sexually suggestive positions," links to child pornography sites, and networks of predators sharing content—all monetized with ads from major brands including Disney, McDonald's, and Reese's. The algorithm effectively created a child exploitation network by clustering content attractive to pedophiles and serving them ads. Disney, Nestle, and Epic Games immediately pulled advertising. YouTube terminated 400+ channels and disabled comments on tens of millions of videos, but only after massive media attention—demonstrating years of
+  negligence despite obvious algorithmic amplification of child exploitation.
 actors:
 - YouTube
 - Google
@@ -40,10 +41,8 @@ sources:
 status: confirmed
 id: 2019-02-17--youtube-pedophile-ring-algorithm-matt-watson
 capture_lanes:
-- Child Exploitation
-- Algorithm Harm
-- Corporate Negligence
-- Criminal Facilitation
+- Media Capture & Control
+- Corporate Capture
 capture_type: child_exploitation_infrastructure
 patterns:
 - algorithm-enables-exploitation

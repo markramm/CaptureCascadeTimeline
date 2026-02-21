@@ -21,9 +21,8 @@ tags:
 - regulatory-capture
 - international
 capture_lanes:
-- Corporate Disinformation
+- Media Capture & Control
 - Legislative Capture
-- International Capture
 sources:
 - title: The Global Climate Coalition
   url: https://www.sourcewatch.org/index.php/Global_Climate_Coalition
@@ -66,8 +65,7 @@ sources:
   outlet: Peterson Institute for International Economics
   date: '2024-01-01'
   tier: 1
-- title: How have the Washington Consensus reforms affected economic performance in
-    sub-Saharan Africa?
+- title: How have the Washington Consensus reforms affected economic performance in sub-Saharan Africa?
   url: https://www.brookings.edu/articles/how-have-the-washington-consensus-reforms-affected-economic-performance-in-sub-saharan-africa/
   outlet: Brookings Institution
   date: '2024-01-01'
@@ -89,12 +87,9 @@ sources:
   url: https://www.frbsf.org/research-and-insights/publications/economic-letter/1997/03/cracking-the-glass-steagall-barriers/
   verified: true
 - key_facts_confirmed:
-  - Congressional Research Service confirmed gradual erosion of Glass-Steagall via
-    Section 20 subsidiary rules
-  - Federal Reserve progressively expanded bank holding company securities underwriting
-    powers
-  - Bank holding companies allowed to establish Section 20 subsidiaries for securities
-    activities
+  - Congressional Research Service confirmed gradual erosion of Glass-Steagall via Section 20 subsidiary rules
+  - Federal Reserve progressively expanded bank holding company securities underwriting powers
+  - Bank holding companies allowed to establish Section 20 subsidiaries for securities activities
   outlet: Congressional Research Service
   title: 'The Glass-Steagall Act: A Legal and Policy Analysis'
   url: https://www.congress.gov/crs_external_products/R/PDF/R44349/R44349.3.pdf
@@ -102,8 +97,7 @@ sources:
 - key_facts_confirmed:
   - Limited securities activities allowed through bank holding company subsidiaries
   - Fed set initial 5-10% revenue limit for bank-ineligible securities
-  - Regulatory interpretation allowed gradual expansion of commercial bank securities
-    powers
+  - Regulatory interpretation allowed gradual expansion of commercial bank securities powers
   outlet: University of Connecticut Law Review
   title: Banking Regulation and Interpretation of Section 20
   url: https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=1020&context=law_review

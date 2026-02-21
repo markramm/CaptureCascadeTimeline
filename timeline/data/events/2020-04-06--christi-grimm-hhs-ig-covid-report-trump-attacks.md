@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: FactCheck.org
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 Principal Deputy Inspector General Christi Grimm of the Department of Health and Human Services released a report on April 6, 2020, documenting "severe shortages" of COVID-19 testing supplies and "widespread shortages" of personal protective equipment at hospitals nationwide. Based on a random phone survey of 323 hospitals across 46 states, Washington D.C., and Puerto Rico conducted March 23-27, the report detailed hospitals' intense frustration with government authorities who were unequipped to address critical scarcity. President Trump immediately attacked Grimm's credibility, calling the report "just wrong" and suggesting its conclusions were politically motivated because she had served during the Obama administration.

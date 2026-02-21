@@ -34,22 +34,18 @@ sources:
   url: https://www.cbsnews.com/news/ap-national-enquirer-kept-damaging-trump-stories-hush-money-papers-in-safe/
   outlet: CBS News
   date: '2018-08-24'
-  notes: Associated Press reporting on National Enquirer's document retention practices
-    during 2016 election
+  notes: Associated Press reporting on National Enquirer's document retention practices during 2016 election
 - title: Ronan Farrow Book Reveals National Enquirer's Trump Document Destruction
   url: https://www.npr.org/2024/06/06/g-s1-3170/ronan-farrow-me-too-trump-weinstein-catch-and-kill
   outlet: NPR
   date: '2024-06-06'
   notes: In-depth coverage of Farrow's book and National Enquirer's document handling
-notes: Larger than customary volume of refuse collected. Panic destruction after media
-  inquiry. First wave of document destruction. Evidence of consciousness of guilt.
-  Criminal obstruction of justice. Associated Press confirmed the existence of a 'safe'
-  containing damaging Trump stories.
+notes: Larger than customary volume of refuse collected. Panic destruction after media inquiry. First wave of document destruction. Evidence of consciousness of guilt. Criminal obstruction of justice. Associated Press confirmed the existence of a 'safe' containing damaging Trump stories.
 status: confirmed
 capture_lanes:
 - Financial Capture
 - Electoral Manipulation
-- Media Manipulation
+- Media Capture & Control
 ---
 
 After Wall Street Journal calls about McDougal payment, Dylan Howard orders staff to "get everything out of the safe" and shred documents, destroying evidence days before election. The Enquirer's leadership, including CEO David Pecker, maintained a 'catch and kill' safe containing damaging stories about Trump during the 2016 campaign.

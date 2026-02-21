@@ -65,9 +65,9 @@ patterns:
 - authoritarian-data-collection
 notes: This represents an unprecedented federal campaign to obtain complete voter registration databases from all 50 states, including highly sensitive personal information like Social Security numbers and driver's license numbers. The DOJ has now sued at least 18 states and demanded data from at least 27 states total. Only two states—Indiana and Wyoming—have complied with demands for complete unredacted voter files. States refusing to comply cite state privacy laws, constitutional concerns about federalizing elections, and fears of political targeting and voter intimidation. The timing—less than a year before the 2026 midterm elections—has raised particular alarm among election security experts.
 capture_lanes:
-- Information Control
+- Media Capture & Control
 - Executive Power Expansion
-- Democratic Process Subversion
+- Democratic Erosion
 ---
 
 On December 3, 2025, the Department of Justice filed federal lawsuits against six states—Delaware, Maryland, New Mexico, Rhode Island, Vermont, and Washington—for refusing to provide complete, unredacted voter registration databases containing sensitive personal information including driver's license numbers and partial Social Security numbers.

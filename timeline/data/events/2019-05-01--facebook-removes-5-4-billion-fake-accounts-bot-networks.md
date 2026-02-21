@@ -1,7 +1,7 @@
 ---
 id: 2019-05-01--facebook-removes-5-4-billion-fake-accounts-bot-networks
 date: '2019-05-01'
-title: 'Facebook Removes 5.4 Billion Fake Accounts in 2019, Exposing Massive Bot Network Infrastructure'
+title: Facebook Removes 5.4 Billion Fake Accounts in 2019, Exposing Massive Bot Network Infrastructure
 importance: 9
 actors:
 - Facebook
@@ -15,32 +15,29 @@ tags:
 - platform-manipulation
 - automated-accounts
 sources:
-- title: 'Facebook has shut down 5.4 billion fake accounts this year'
+- title: Facebook has shut down 5.4 billion fake accounts this year
   url: https://www.cnn.com/2019/11/13/tech/facebook-fake-accounts/index.html
   outlet: CNN
   date: '2019-11-13'
   tier: 2
-- title: 'Billions of Facebook accounts were fake'
+- title: Billions of Facebook accounts were fake
   url: https://www.aljazeera.com/economy/2019/5/24/billions-of-facebook-accounts-were-fake
   outlet: Al Jazeera
   date: '2019-05-24'
   tier: 1
-- title: 'Coordinated Inauthentic Behavior - Transparency Center'
+- title: Coordinated Inauthentic Behavior - Transparency Center
   url: https://transparency.meta.com/policies/community-standards/inauthentic-behavior/
   outlet: Meta Transparency Center
   date: '2019-11-13'
   tier: 1
-- title: 'Facebook fake account deletion per quarter 2023'
+- title: Facebook fake account deletion per quarter 2023
   url: https://www.statista.com/statistics/1013474/facebook-fake-account-removal-quarter/
   outlet: Statista
   date: '2023-12-31'
   tier: 2
 status: confirmed
 capture_lanes:
-- Platform Manipulation
-- Bot Infrastructure
-- Misinformation Ecosystem
-- Engagement Fraud
+- Media Capture & Control
 ---
 
 Facebook removes a staggering 5.4 billion fake accounts during 2019, revealing that automated bot networks spreading misinformation and fake engagement vastly outnumber real users. The massive bot infrastructure demonstrates how Facebook's platform design incentivizes coordinated inauthentic behavior that the company profits from before eventual detection and removal.

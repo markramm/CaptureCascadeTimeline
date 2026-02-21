@@ -1,7 +1,7 @@
 ---
 id: 2020-11-03--facebook-rollback-election-safeguards-stop-the-steal
 date: '2020-11-03'
-title: 'Facebook Rolls Back Election Safety Measures Immediately After 2020 Vote, Enabling "Stop the Steal" Misinformation'
+title: Facebook Rolls Back Election Safety Measures Immediately After 2020 Vote, Enabling "Stop the Steal" Misinformation
 importance: 10
 actors:
 - Facebook
@@ -21,32 +21,31 @@ tags:
 - whistleblower
 - civic-integrity
 sources:
-- title: 'Ex-Facebook manager alleges social network fed Capitol riot'
+- title: Ex-Facebook manager alleges social network fed Capitol riot
   url: https://www.npr.org/2021/10/03/1042908136/facebook-whistleblower-frances-haugen-social-network-capitol-riot
   outlet: NPR
   date: '2021-10-03'
   tier: 1
-- title: "How 'Stop the Steal' outwitted Facebook ahead of Jan. 6"
+- title: How 'Stop the Steal' outwitted Facebook ahead of Jan. 6
   url: https://www.npr.org/2021/10/22/1048543513/facebook-groups-jan-6-insurrection
   outlet: NPR
   date: '2021-10-22'
   tier: 1
-- title: 'How Facebook is Misleading Public About Its Role in January 6'
+- title: How Facebook is Misleading Public About Its Role in January 6
   url: https://www.justsecurity.org/78494/how-facebook-is-misleading-the-public-about-its-role-in-january-6/
   outlet: Just Security
   date: '2021-10-14'
   tier: 1
-- title: "Facebook Papers paint damning picture of company's role in insurrection"
+- title: Facebook Papers paint damning picture of company's role in insurrection
   url: https://www.cnn.com/2021/10/22/business/january-6-insurrection-facebook-papers/index.html
   outlet: CNN
   date: '2021-10-22'
   tier: 2
 status: confirmed
 capture_lanes:
-- Algorithmic Violence
-- Election Manipulation
-- Insurrection Facilitation
-- Corporate Negligence
+- Media Capture & Control
+- Electoral Manipulation
+- Corporate Capture
 ---
 
 Facebook dismantles election safety measures immediately after the 2020 vote, prematurely rolling back safeguards designed to combat misinformation despite internal warnings. The decision enables "Stop the Steal" conspiracy theories to spread virally through the platform's algorithmic amplification, directly contributing to the January 6 Capitol insurrection.

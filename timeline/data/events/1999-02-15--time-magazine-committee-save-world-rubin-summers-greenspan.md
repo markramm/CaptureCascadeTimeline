@@ -1,7 +1,7 @@
 ---
 id: 1999-02-15--time-magazine-committee-save-world-rubin-summers-greenspan
 date: '1999-02-15'
-title: 'Time Magazine Celebrates "Committee to Save the World" While They Block Derivatives Regulation'
+title: Time Magazine Celebrates "Committee to Save the World" While They Block Derivatives Regulation
 importance: 8
 actors:
 - Robert Rubin
@@ -19,11 +19,11 @@ tags:
 - cftc
 capture_lanes:
 - Regulatory Capture
-- Media Manipulation
+- Media Capture & Control
 - Financial Capture
 location: Washington, D.C.
 sources:
-- title: 'Committee to Save World Abetted Hubris, Repudiated by Successors'
+- title: Committee to Save World Abetted Hubris, Repudiated by Successors
   url: https://www.bloomberg.com/news/articles/2012-03-23/committee-to-save-world-abetted-hubris-repudiated-by-successors
   outlet: Bloomberg
   date: '2012-03-23'
@@ -38,7 +38,7 @@ sources:
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: "Who Would Sit on Today's Committee to Save the World"
+- title: Who Would Sit on Today's Committee to Save the World
   url: https://www.cfr.org/blog/who-would-sit-todays-committee-save-world
   outlet: Council on Foreign Relations
   date: '2020-03-23'

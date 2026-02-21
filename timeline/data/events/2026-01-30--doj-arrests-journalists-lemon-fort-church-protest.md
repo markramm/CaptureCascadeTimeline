@@ -32,6 +32,9 @@ sources:
   outlet: Free Press
   date: '2026-01-30'
   tier: 2
+capture_lanes:
+- Media Capture & Control
+- Systematic Corruption
 ---
 
 On January 30, 2026, the FBI arrested journalists Don Lemon and Georgia Fort on federal civil rights conspiracy charges related to their coverage of a January 18 protest at Cities Church in St. Paul, Minnesota. Attorney General Pam Bondi publicly announced she personally directed the arrests, marking an unprecedented assault on press freedom in the United States.

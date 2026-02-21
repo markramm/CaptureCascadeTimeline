@@ -42,7 +42,7 @@ notes: Part of a broader pattern of removing transparency mechanisms and privacy
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Information Control
+- Media Capture & Control
 ---
 
 In a systematic move to dismantle transparency mechanisms, the Trump administration fired multiple members of the Office of Personnel Management's privacy and communications teams, including those handling FOIA requests. This action effectively cut off external access to government information and raised significant concerns about data security and public oversight.

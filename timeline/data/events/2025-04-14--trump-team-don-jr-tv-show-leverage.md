@@ -6,30 +6,26 @@ actors:
 - David Zaslav
 - Steven Cheung
 capture_lanes:
-- Media Capture
+- Media Capture & Control
 - Executive Power Expansion
-- Regulatory Influence
+- Regulatory Capture
 capture_type: media_coordination
 connections:
 - Trump Administration Media Strategy
 - Corporate Media Appeasement
 date: '2025-04-14'
-description: Michael Wolff reports on an alleged attempt by the Trump team to negotiate
-  a TV show for Donald Trump Jr. with Warner Bros. Discovery as a method of currying
-  favor with the White House
+description: Michael Wolff reports on an alleged attempt by the Trump team to negotiate a TV show for Donald Trump Jr. with Warner Bros. Discovery as a method of currying favor with the White House
 id: 2025-04-14--trump-team-don-jr-tv-show-leverage
 importance: 7
 location: Washington, D.C.
-notes: Detailed account of media companies seeking to appease the Trump administration
-  through strategic programming
+notes: Detailed account of media companies seeking to appease the Trump administration through strategic programming
 patterns:
 - kleptocratic-capture
 - media-manipulation
 sources:
 - date: '2025-04-14'
   outlet: Hollywood Reporter
-  title: Michael Wolff suggests Trump team floated a Don Jr. outdoors show as a way
-    for warners to curry favor with the White House
+  title: Michael Wolff suggests Trump team floated a Don Jr. outdoors show as a way for warners to curry favor with the White House
   url: https://www.hollywoodreporter.com/tv/tv-news/donald-trump-jr-hunting-fishing-show-discovery-channel-1236190207/
 - date: '2025-04-14'
   outlet: New York Magazine

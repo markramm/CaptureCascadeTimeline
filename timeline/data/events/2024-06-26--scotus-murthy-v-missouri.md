@@ -22,8 +22,8 @@ tags:
 - covid-19
 - misinformation
 capture_lanes:
-- Information & Media Control
-- Judicial Capture & Corruption
+- Media Capture & Control
+- Judicial Capture
 citations:
 - 23-411 Murthy v. Missouri (2024)
 - https://www.supremecourt.gov/opinions/23pdf/23-411_3dq3.pdf

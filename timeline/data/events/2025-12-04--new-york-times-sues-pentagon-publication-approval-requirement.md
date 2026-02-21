@@ -22,10 +22,9 @@ tags:
 - hegseth
 - journalism
 capture_lanes:
-- Press Freedom Erosion
-- First Amendment Violations
-- Pentagon Politicization
-- Democratic Norms Erosion
+- Media Capture & Control
+- Federal Workforce Capture
+- Democratic Erosion
 sources:
 - title: New York Times sues Defense Sec. Pete Hegseth over restrictive Pentagon media rules
   url: https://www.cnbc.com/2025/12/04/new-york-times-pentagon-pete-hegseth-lawsuit-media.html

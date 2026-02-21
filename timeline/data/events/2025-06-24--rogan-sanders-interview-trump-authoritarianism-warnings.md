@@ -27,6 +27,9 @@ sources:
   tier: 2
   outlet: Yahoo News
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Military-Industrial Complex
 ---
 
 Bernie Sanders returned to The Joe Rogan Experience (Episode #2341) on June 24, 2025, six years after his first appearance that led to Rogan's 2020 endorsement. During the nearly 2-hour interview, Sanders warned Rogan about **"this movement toward authoritarianism"** under Trump's second administration, specifically citing Trump's $20 billion lawsuit against CBS over "60 Minutes" as media intimidation. Sanders stated **"suing media has the impact of intimidating media."** While Rogan defended Elon Musk during the conversation, the authoritarianism warnings—combined with Bono's May 31 humanitarian critique—contributed to Rogan's public break with Trump over ICE raids eight days later, demonstrating that repeated principled engagement can influence even after electoral endorsement.

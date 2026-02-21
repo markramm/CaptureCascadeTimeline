@@ -39,6 +39,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Legislative Capture
+- Labor Suppression
 ---
 
 Indiana Governor Mitch Daniels signs right-to-work legislation making Indiana the 23rd state and the first in the Rust Belt manufacturing region to prohibit mandatory union membership or fees as a condition of employment. The bill is sponsored by multiple ALEC members and follows ALEC's model Right to Work Act that the organization had been promoting since 1979, demonstrating the coordinated corporate strategy behind state-level labor suppression.

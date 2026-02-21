@@ -32,6 +32,9 @@ sources:
   tier: 1
   outlet: CBS Chicago
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Digital & Tech Capture
 ---
 
 On February 18, 2025, the official @WhiteHouse social media account posted a video titled **"ASMR: Illegal Alien Deportation Flight"** showing immigrants in shackles being transported on a deportation flight, with audio prominently featuring the sound of jingling chains being laid out on airport tarmac. The video marked an unprecedented packaging of state violence as internet entertainment genre, using ASMR (Autonomous Sensory Meridian Response) aesthetics—typically associated with relaxation and comfort—to frame human suffering and loss of liberty as soothing content. Critics called it "disgusting and dehumanizing." White House Communications staff called it content strategy.

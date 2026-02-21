@@ -33,6 +33,10 @@ sources:
   tier: 2
   outlet: Media Matters for America
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Digital & Tech Capture
+- International Kleptocracy
 ---
 
 Vitali Klitschko, Mayor of Kyiv and former world heavyweight boxing champion, publicly confronted Joe Rogan on November 24, 2024, accusing him of **"repeating Russian propaganda"** after Rogan promoted Kremlin narratives about Ukraine's 2014 Maidan Revolution and declined an interview with President Volodymyr Zelensky. Rogan had characterized the Maidan Revolution as a **"coup orchestrated by the United States"**—a narrative directly from Russian state media—and suggested Ukraine's government lacks democratic legitimacy.

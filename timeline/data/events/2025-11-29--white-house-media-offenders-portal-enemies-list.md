@@ -72,6 +72,10 @@ sources:
   outlet: PR Week
   date: '2025-12-02'
   tier: 2
+capture_lanes:
+- Media Capture & Control
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 On November 29, 2025, the Trump White House launched an official government webpage titled 'Media Offenders' (whitehouse.gov/mediabias)—a public enemies list for journalists and news organizations that criticize the administration. Announced the previous day by Press Secretary Karoline Leavitt, the portal features an 'Offender Hall of Shame' database that categorizes articles, outlets, and individual reporters with labels including 'bias,' 'false claim,' 'lie,' 'left-wing lunacy,' and 'misrepresentation.' The page includes a weekly 'Media Offender of the Week' designation and maintains a ranked 'leaderboard' of outlets deemed most problematic, with The Washington Post listed at the top, followed by MSNBC, CBS News, CNN, The New York Times, Politico, and The Wall Street Journal.

@@ -1,10 +1,8 @@
 ---
 id: 2025-05-27--trump-fort-knox-gold-conspiracy-allies-profit
 date: '2025-05-27'
-title: Trump questioned whether U.S. gold is missing. His allies are trying to cash
-  in
-description: Trump pushed a conspiracy theory about US gold missing from Fort Knox,
-  which his allies used to sell gold investment, raising concerns about economic manipulation
+title: Trump questioned whether U.S. gold is missing. His allies are trying to cash in
+description: Trump pushed a conspiracy theory about US gold missing from Fort Knox, which his allies used to sell gold investment, raising concerns about economic manipulation
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -37,11 +35,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - institutional-doubt-generation
-notes: Comprehensive analysis reveals systematic attempt to generate economic uncertainty
-  and potentially manipulate gold markets
+notes: Comprehensive analysis reveals systematic attempt to generate economic uncertainty and potentially manipulate gold markets
 capture_lanes:
 - Systematic Corruption
-- Economic Misinformation
+- Media Capture & Control
 ---
 
 President Trump and allies propagated a baseless conspiracy theory about Fort Knox gold reserves, potentially manipulating gold markets and investor sentiment

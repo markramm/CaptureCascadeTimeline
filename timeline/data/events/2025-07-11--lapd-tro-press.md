@@ -17,14 +17,12 @@ tags:
 - journalist-protection
 - lapd
 capture_lanes:
-- Information & Media Control
-- Judicial Capture & Corruption
+- Media Capture & Control
+- Judicial Capture
 citations:
 - https://www.latimes.com/california/story/2025-07-11/federal-judge-lapd-journalists-order
 - https://www.politico.com/news/2025/07/11/lapd-weapons-journalists-00448476
-notes: This TRO came after journalists were injured covering the June LA protests
-  during military deployment to the city. Part of broader pattern of press suppression
-  during 2025 protests.
+notes: This TRO came after journalists were injured covering the June LA protests during military deployment to the city. Part of broader pattern of press suppression during 2025 protests.
 status: confirmed
 sources:
 - title: Federal Court Decisions

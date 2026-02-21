@@ -36,6 +36,10 @@ sources:
   date: '2025-12-03'
   tier: 1
   outlet: PBS
+capture_lanes:
+- Media Capture & Control
+- Judicial Capture
+- Environmental Capture
 ---
 
 # U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover

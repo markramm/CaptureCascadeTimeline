@@ -12,7 +12,7 @@ tags:
 - platform-policy
 - media-control
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 citations:
 - https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads
 - https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
@@ -21,8 +21,7 @@ citations:
 notes: 'Timing notable: Just before first 2024 presidential debate'
 status: confirmed
 sources:
-- title: Just in time for the debates, Meta fixes bug impacting users' political content
-    settings on Instagram and Threads
+- title: Just in time for the debates, Meta fixes bug impacting users' political content settings on Instagram and Threads
   url: https://techcrunch.com/2024/06/27/meta-fixes-bug-that-seemed-to-reset-users-political-content-settings-on-instagram-and-threads
   outlet: TechCrunch
   date: '2024-06-27'
@@ -32,14 +31,12 @@ sources:
   outlet: Engadget
   date: '2024-06-26'
   archive_url: https://web.archive.org/web/20240627000000*/https://www.engadget.com/a-meta-error-broke-the-political-content-filter-on-threads-and-instagram-173020269.html
-- title: Instagram and Threads are now filtering political content out of your feed.
-    Change this setting to see more of it
+- title: Instagram and Threads are now filtering political content out of your feed. Change this setting to see more of it
   url: https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings
   outlet: Fast Company
   date: '2024-06-26'
   archive_url: https://web.archive.org/web/20240627000000*/https://www.fastcompany.com/91069546/instagram-threads-meta-filter-political-content-change-settings
-- title: Some creators say they're frustrated after Instagram starts limiting political
-    content recommendations
+- title: Some creators say they're frustrated after Instagram starts limiting political content recommendations
   url: https://www.nbcnews.com/tech/creators-reaction-meta-instagram-limiting-political-content-rcna144969
   outlet: NBC News
   date: '2024-06-26'

@@ -2,8 +2,7 @@
 id: 2025-05-29--trump-rejects-15m-offer-to-settle-60-minutes-lawsuit-report
 date: '2025-05-29'
 title: Paramount Settles Trump's $20 Billion '60 Minutes' Lawsuit for $16 Million
-description: Detailed chronicle of Trump's lawsuit against Paramount over 60 Minutes
-  interview editing, revealing complex media-political interactions
+description: Detailed chronicle of Trump's lawsuit against Paramount over 60 Minutes interview editing, revealing complex media-political interactions
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -43,7 +42,7 @@ patterns:
 notes: Settlement reflects broader patterns of media-political power dynamics
 capture_lanes:
 - Systematic Corruption
-- Media Manipulation
+- Media Capture & Control
 ---
 
 Paramount Global settled Trump's $20 billion lawsuit over a 2023 '60 Minutes' interview for $16 million, with no direct payment to Trump and an agreement to release future candidate interview transcripts. The settlement comes amid Paramount's pending merger with Skydance Media, raising questions about regulatory leverage.

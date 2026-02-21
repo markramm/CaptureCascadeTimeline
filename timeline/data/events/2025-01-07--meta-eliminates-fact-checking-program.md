@@ -16,7 +16,7 @@ tags:
 - misinformation-enabled
 - democracy-threat
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 sources:
 - title: Meta ends fact-checking program
   url: https://www.npr.org/2025/01/07/nx-s1-5251151/meta-fact-checking-mark-zuckerberg-trump

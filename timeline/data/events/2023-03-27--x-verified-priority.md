@@ -3,7 +3,7 @@ actors:
 - Elon Musk
 - X/Twitter
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 citations:
 - url: https://x.com/elonmusk/status/1640490130543771650
   archived: https://nitter.net/elonmusk/status/1640490130543771650

@@ -5,40 +5,39 @@ title: American Petroleum Institute Drafts Secret Climate Denial Strategy Docume
 importance: 9
 location: Washington, D.C.
 actors:
-  - American Petroleum Institute
-  - ExxonMobil
-  - Chevron
-  - Southern Company
-  - Global Climate Coalition
-  - George C. Marshall Institute
+- American Petroleum Institute
+- ExxonMobil
+- Chevron
+- Southern Company
+- Global Climate Coalition
+- George C. Marshall Institute
 tags:
-  - environmental
-  - climate-denial
-  - corporate-disinformation
-  - fossil-fuels
-  - regulatory-capture
+- environmental
+- climate-denial
+- corporate-disinformation
+- fossil-fuels
+- regulatory-capture
 capture_lanes:
-  - Corporate Disinformation
-  - Media Capture
-  - Academic Capture
+- Media Capture & Control
+- Democratic Erosion
 sources:
-  - title: "The Global Climate Science Communications Plan"
-    url: "https://www.climatefiles.com/denial-groups/american-petroleum-institute/1998-global-climate-science-communications-plan/"
-    outlet: "Climate Files"
-    verified: true
-    tier: 1
-  - title: "Exxon Knew About Climate Change Almost 40 Years Ago"
-    url: "https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/"
-    outlet: "Scientific American"
-    date: 2015-10-26
-    verified: true
-    tier: 1
-  - title: "Industry Knew About Climate Change for Decades"
-    url: "https://www.nytimes.com/2018/08/01/magazine/global-warming-oil-companies-knew.html"
-    outlet: "New York Times Magazine"
-    date: 2018-08-01
-    verified: true
-    tier: 1
+- title: The Global Climate Science Communications Plan
+  url: https://www.climatefiles.com/denial-groups/american-petroleum-institute/1998-global-climate-science-communications-plan/
+  outlet: Climate Files
+  verified: true
+  tier: 1
+- title: Exxon Knew About Climate Change Almost 40 Years Ago
+  url: https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/
+  outlet: Scientific American
+  date: 2015-10-26
+  verified: true
+  tier: 1
+- title: Industry Knew About Climate Change for Decades
+  url: https://www.nytimes.com/2018/08/01/magazine/global-warming-oil-companies-knew.html
+  outlet: New York Times Magazine
+  date: 2018-08-01
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

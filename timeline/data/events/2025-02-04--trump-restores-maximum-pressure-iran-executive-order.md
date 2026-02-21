@@ -22,6 +22,10 @@ sources:
   outlet: Arms Control Association
   tier: 2
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Executive Power Expansion
+- Digital & Tech Capture
 ---
 
 Trump signed National Security Presidential Memorandum (NSPM-2) restoring "maximum pressure" on Iran. The order directed Treasury to impose maximum economic pressure including sanctions enforcement on violators, instructed the State Department to rescind existing sanctions waivers and drive Iran's oil exports to zero, and directed the Attorney General to prosecute Iranian financial networks in the US. The memorandum represented a return to Trump's first-term approach of unilateral economic warfare against Iran following his withdrawal from the JCPOA nuclear deal.

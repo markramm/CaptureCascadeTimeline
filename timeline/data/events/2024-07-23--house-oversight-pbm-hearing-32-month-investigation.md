@@ -30,6 +30,10 @@ sources:
   outlet: Pharmacy Times
   tier: 2
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 The House Committee on Oversight and Accountability held a hearing with executives from the three largest PBMs—Adam Kautzner (Express Scripts), David Joyner (CVS Caremark), and Patrick Conway (OptumRx)—presenting findings from a comprehensive 32-month investigation. Chairman James Comer released a report based on over 140,000 documents and communications revealing that PBMs have used their position as middlemen to 'cement anticompetitive policies which have increased prescription drug costs, hurt independent pharmacies, and harmed patient care.' The investigation documented how the three companies controlling 80% of the U.S. prescription market engage in spread pricing (extracting billions by charging health plans more than they pay pharmacies), steer patients to PBM-owned pharmacies despite denials under oath, demand ever-larger rebates that incentivize high list prices, and reimburse independent pharmacies below medication acquisition costs to drive them out of business. The report detailed state-level findings: Ohio PBMs pocketed $224.8 million through spread pricing in one year; Kentucky PBMs kept $123.5 million annually; and across Ohio, Kentucky, Illinois, and Arkansas, PBMs overcharged Medicaid programs over $415 million. The hearing revealed systematic extraction from the healthcare system while 448 independent pharmacies closed between June 2023-2024—more than one per day—leaving 45 million Americans in pharmacy deserts.

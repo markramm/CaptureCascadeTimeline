@@ -5,39 +5,39 @@ title: Love Canal Disaster Exposes Decades of Corporate Toxic Dumping Cover-Up
 importance: 9
 location: Niagara Falls, NY
 actors:
-  - Hooker Chemical Company
-  - Occidental Petroleum
-  - Niagara Falls Board of Education
-  - Lois Gibbs
-  - Jimmy Carter
-  - New York State Health Department
+- Hooker Chemical Company
+- Occidental Petroleum
+- Niagara Falls Board of Education
+- Lois Gibbs
+- Jimmy Carter
+- New York State Health Department
 tags:
-  - environmental
-  - pollution
-  - corporate-coverup
-  - toxic-waste
-  - public-health
-  - superfund
+- environmental
+- pollution
+- corporate-coverup
+- toxic-waste
+- public-health
+- superfund
 capture_lanes:
-  - Corporate Disinformation
-  - Regulatory Failure
+- Media Capture & Control
+- Regulatory Capture
 sources:
-  - title: "Love Canal: A Special Report"
-    url: "https://www.epa.gov/superfund/love-canal-site"
-    outlet: "Environmental Protection Agency"
-    verified: true
-    tier: 1
-  - title: "Love Canal and the Birth of the Environmental Health Movement"
-    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1240561/"
-    outlet: "National Institutes of Health"
-    verified: true
-    tier: 1
-  - title: "The Story of Love Canal"
-    url: "https://www.scientificamerican.com/article/love-canal-and-the-poisoning-of-america/"
-    outlet: "Scientific American"
-    date: 2013-01-15
-    verified: true
-    tier: 1
+- title: 'Love Canal: A Special Report'
+  url: https://www.epa.gov/superfund/love-canal-site
+  outlet: Environmental Protection Agency
+  verified: true
+  tier: 1
+- title: Love Canal and the Birth of the Environmental Health Movement
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1240561/
+  outlet: National Institutes of Health
+  verified: true
+  tier: 1
+- title: The Story of Love Canal
+  url: https://www.scientificamerican.com/article/love-canal-and-the-poisoning-of-america/
+  outlet: Scientific American
+  date: 2013-01-15
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

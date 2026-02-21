@@ -17,8 +17,8 @@ tags:
 - associated-press
 - viewpoint-discrimination
 capture_lanes:
-- Information & Media Control
-- Judicial Capture & Corruption
+- Media Capture & Control
+- Judicial Capture
 citations:
 - https://www.ap.org/media-center/ap-in-the-news/2025/ap-wins-reinstatement-to-white-house-events-after-judge-rules-government-cant-bar-its-journalists
 - https://www.theguardian.com/us-news/2025/apr/08/judge-orders-white-house-restore-associated-press-access

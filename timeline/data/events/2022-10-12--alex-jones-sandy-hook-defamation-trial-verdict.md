@@ -24,12 +24,13 @@ sources:
   date_accessed: '2025-10-17'
   type: legal_analysis
 - url: https://www.npr.org/2025/10/15/nx-s1-5574929/supreme-court-alex-jones-defamation-judgment
-  title: 'NPR: Supreme Court Rejects Alex Jones'' Appeal of Sandy Hook Defamation
-    Judgment'
+  title: 'NPR: Supreme Court Rejects Alex Jones'' Appeal of Sandy Hook Defamation Judgment'
   date_accessed: '2025-10-17'
   type: legal_follow_up
-  description: Details Supreme Court's rejection of Jones' appeal and context of the
-    defamation ruling
+  description: Details Supreme Court's rejection of Jones' appeal and context of the defamation ruling
+capture_lanes:
+- Media Capture & Control
+- Military-Industrial Complex
 ---
 
 A Connecticut jury awarded $965 million in damages to families of Sandy Hook victims, representing the largest defamation verdict against conspiracy theorist Alex Jones. The landmark decision stemmed from Jones' repeated false claims that the 2012 school shooting was a 'hoax', causing significant emotional distress to victims' families who endured years of harassment and threats. This verdict marked a critical moment in holding media personalities accountable for spreading harmful misinformation.

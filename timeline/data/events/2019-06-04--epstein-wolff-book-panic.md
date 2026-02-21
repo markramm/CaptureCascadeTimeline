@@ -2,8 +2,7 @@
 id: 2019-06-04--epstein-wolff-book-panic
 date: '2019-06-04'
 importance: 4
-title: Claims from Michael Wolff ('Siege') and later commentary; no public evidence
-  of 'Trump money laundering' via Epstein
+title: Claims from Michael Wolff ('Siege') and later commentary; no public evidence of 'Trump money laundering' via Epstein
 location: United States
 actors:
 - Jeffrey Epstein
@@ -15,8 +14,7 @@ tags:
 - trump-epstein-connection
 status: disputed
 sources:
-- title: Guardian—Mueller obstruction indictment claim in 'Siege' denied by Mueller
-    spokesperson
+- title: Guardian—Mueller obstruction indictment claim in 'Siege' denied by Mueller spokesperson
   url: https://www.theguardian.com/us-news/2019/may/28/mueller-trump-obstruction-charge-michael-wolff-book-siege-under-fire-news
   outlet: The Guardian
   date: '2019-05-28'
@@ -24,8 +22,7 @@ sources:
   url: https://yalereview.org/article/michael-wolff-donald-trump-epstein-files
   outlet: The Yale Review
   date: '2025-07-24'
-- title: Trump team condemns Michael Wolff's book, calls new Jeffrey Epstein allegations
-    'fiction'
+- title: Trump team condemns Michael Wolff's book, calls new Jeffrey Epstein allegations 'fiction'
   url: https://www.washingtontimes.com/news/2024/nov/20/trump-team-condemns-michael-wolff-book-calls-new-j/
   outlet: Washington Times
   date: '2024-11-20'
@@ -33,13 +30,11 @@ sources:
   url: https://www.newsweek.com/donald-trump-jeffrey-epstein-allegations-michael-wolff-podcast-1978434
   outlet: Newsweek
   date: '2024-06-15'
-notes: Downgraded to "disputed" due to lack of corroboration by official sources or
-  court records. Keep as media claim unless further evidence emerges. Wolff's claims
-  remain unsubstantiated and have been strongly contested by the Trump team.
+notes: Downgraded to "disputed" due to lack of corroboration by official sources or court records. Keep as media claim unless further evidence emerges. Wolff's claims remain unsubstantiated and have been strongly contested by the Trump team.
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
-- Media Manipulation
+- Media Capture & Control
 ---
 
 Michael Wolff's 2019 book 'Siege' and later interviews/podcast episodes raised various allegations and speculations around Trump and Jeffrey Epstein. These claims have been disputed and are not substantiated by official investigations or court records; treat as disputed commentary rather than established fact. Wolff claimed to have recorded around 100 hours of interviews with Epstein, but his allegations have been strongly denied by the Trump team and lack official corroboration.

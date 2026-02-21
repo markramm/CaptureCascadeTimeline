@@ -32,6 +32,10 @@ sources:
   date: 2019-04-18
   tier: 1
   outlet: U.S. Department of Justice, Special Counsel's Office
+capture_lanes:
+- Media Capture & Control
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 The New York Times reported on January 25, 2018, that President Donald Trump had ordered White House Counsel Don McGahn in June 2017 to direct Deputy Attorney General Rod Rosenstein to remove Special Counsel Robert Mueller, and that McGahn had refused and threatened to resign rather than carry out what he viewed as a potentially catastrophic and legally problematic directive. The revelation, later confirmed in extensive detail in the Mueller Report, exposed Trump's direct attempt to terminate the investigation into Russian interference in the 2016 election and possible coordination with his campaign. More significantly, the Mueller Report documented that after the Times story broke, Trump pressured McGahn to publicly deny the account and to create a false written record contradicting the truthful reporting—conduct that Mueller's team identified as among the most serious episodes of potential obstruction of justice.

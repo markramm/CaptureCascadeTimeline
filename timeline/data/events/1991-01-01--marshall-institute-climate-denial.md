@@ -40,9 +40,8 @@ sources:
   outlet: Climate Investigations Center
 status: confirmed
 capture_lanes:
-- Think Tank Capture
-- Scientific Disinformation
 - Regulatory Capture
+- Media Capture & Control
 ---
 
 By 1991, the George C. Marshall Institute (GMI) had evolved into a central node in the fossil fuel industry's climate denial infrastructure, receiving funding from ExxonMobil and other energy companies to attack climate science. Founded in 1984 by physicists Frederick Seitz (former President of the National Academy of Sciences), Robert Jastrow (founder of NASA's Goddard Institute for Space Studies), and William Nierenberg (former director of Scripps Institution of Oceanography), the institute pivoted from Cold War defense advocacy to climate denial in the late 1980s. Historians of climate change politics identify GMI's 1989 publications as marking the commencement of organized disinformation about global warming.

@@ -44,8 +44,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- media-capture
-- institutional-capture
+- Media Capture & Control
+- Democratic Erosion
 ---
 
 CBS News editor-in-chief Bari Weiss pulls a 60 Minutes investigative segment about deportee abuse at El Salvador's CECOT prison approximately three hours before its scheduled Sunday night broadcast. The segment, reported by veteran correspondent Sharyn Alfonsi, featured interviews with Venezuelan deportees who described beatings, sexual assault, and torture at the facility where the Trump administration has been sending migrants.

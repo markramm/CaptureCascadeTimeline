@@ -1,7 +1,7 @@
 ---
 id: 2020-06-01--facebook-employee-revolt-trump-looting-shooting-post
 date: '2020-06-01'
-title: 'Facebook Employees Stage Virtual Walkout After Zuckerberg Refuses to Remove Trump Incitement to Violence'
+title: Facebook Employees Stage Virtual Walkout After Zuckerberg Refuses to Remove Trump Incitement to Violence
 importance: 9
 actors:
 - Mark Zuckerberg
@@ -19,32 +19,31 @@ tags:
 - racial-justice
 - corporate-capture
 sources:
-- title: 'Facebook Employees Revolt Over Zuckerbergs Hands-Off Approach To Trump'
+- title: Facebook Employees Revolt Over Zuckerbergs Hands-Off Approach To Trump
   url: https://www.npr.org/2020/06/01/867215427/facebook-employees-revolt-over-zuckerbergs-hands-off-approach-to-trump
   outlet: NPR
   date: '2020-06-01'
   tier: 1
-- title: 'Facebook employees stage virtual walkout after Zuckerberg fails to take action'
+- title: Facebook employees stage virtual walkout after Zuckerberg fails to take action
   url: https://www.cbsnews.com/news/facebook-employees-stage-virtual-walkout-trump-posts-mark-zuckerberg-action/
   outlet: CBS News
   date: '2020-06-01'
   tier: 2
-- title: 'Mark Zuckerberg stands by decision on Trump posts amid employee frustration'
+- title: Mark Zuckerberg stands by decision on Trump posts amid employee frustration
   url: https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-stands-decision-trump-posts-amid-mounting-employee-frustration-n1222586
   outlet: NBC News
   date: '2020-06-02'
   tier: 1
-- title: 'Facebook staff angry with Zuckerberg for leaving up Trump looting shooting post'
+- title: Facebook staff angry with Zuckerberg for leaving up Trump looting shooting post
   url: https://www.cnbc.com/2020/06/01/facebook-staff-angry--zuckerberg.html
   outlet: CNBC
   date: '2020-06-01'
   tier: 2
 status: confirmed
 capture_lanes:
-- Platform Political Capture
-- Corporate Authoritarianism
-- Employee Resistance
-- Special Treatment for Power
+- Media Capture & Control
+- Corporate Capture
+- Systematic Corruption
 ---
 
 Facebook employees stage an unprecedented virtual walkout protesting Mark Zuckerberg's refusal to take action against Trump's post threatening violence against protesters, stating "when the looting starts, the shooting starts." The employee revolt exposes Facebook's special treatment for Trump despite clear Terms of Service violations, contrasting sharply with Twitter's decision to flag the same content as glorifying violence.

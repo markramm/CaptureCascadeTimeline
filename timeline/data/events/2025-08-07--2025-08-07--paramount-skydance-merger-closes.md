@@ -4,7 +4,7 @@ actors:
 - Paramount Global
 - Federal Communications Commission
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 citations:
 - https://www.reuters.com/markets/us/paramount-skydance-ombudsman-deal-2025-07-24
 - https://www.reuters.com/markets/us/skydance-closes-8-billion-paramount-deal-2025-08-07

@@ -2,8 +2,7 @@
 id: 2024-11-04--joe-rogan-endorses-trump-election-eve
 date: '2024-11-04'
 importance: 10
-title: Joe Rogan Endorses Trump on Election Eve, Marking Major Podcast Influence on
-  Political Discourse
+title: Joe Rogan Endorses Trump on Election Eve, Marking Major Podcast Influence on Political Discourse
 location: United States
 actors:
 - Joe Rogan
@@ -20,8 +19,7 @@ tags:
 - media-capture
 - alternative-media
 capture_lanes:
-- Information & Media Control
-- Political Communication
+- Media Capture & Control
 sources:
 - title: Joe Rogan endorses Trump after Elon Musk interview
   url: https://www.cnn.com/2024/11/05/politics/joe-rogan-endorses-donald-trump-2024-election/index.html
@@ -33,8 +31,7 @@ sources:
   outlet: Politico
   date: '2024-11-04'
   archive_url: https://web.archive.org/web/20241104000000/https://www.politico.com/news/2024/11/04/joe-rogan-trump-endorsement-00187456
-- title: US election shows how podcasts are shaping politics – and what the risks
-    are
+- title: US election shows how podcasts are shaping politics – and what the risks are
   url: https://theconversation.com/us-election-shows-how-podcasts-are-shaping-politics-and-what-the-risks-are-243325
   outlet: The Conversation
   date: '2024-11-05'
@@ -44,10 +41,7 @@ sources:
   outlet: PBS News
   date: '2024-12-15'
   type: Post-Election Follow-up
-notes: Rogan endorsed Bernie Sanders in 2020. After $450M in Spotify deals and growing
-  conservative alignment, he shifted right. With 14.5M listeners per episode, his
-  endorsement became a key component of Trump's young male voter strategy. Podcasts
-  emerge as a critical political communication platform in 2024.
+notes: Rogan endorsed Bernie Sanders in 2020. After $450M in Spotify deals and growing conservative alignment, he shifted right. With 14.5M listeners per episode, his endorsement became a key component of Trump's young male voter strategy. Podcasts emerge as a critical political communication platform in 2024.
 status: confirmed
 audience_metrics:
   podcast_reach: 14500000

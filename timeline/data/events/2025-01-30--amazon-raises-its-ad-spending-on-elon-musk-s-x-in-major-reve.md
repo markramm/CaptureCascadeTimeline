@@ -2,9 +2,7 @@
 id: 2025-01-30--amazon-raises-its-ad-spending-on-elon-musk-s-x-in-major-reve
 date: '2025-01-30'
 title: Amazon Raises Ad Spending on Elon Musk's X Platform
-description: Amazon reversed course and significantly increased its advertising spending
-  on Elon Musk's X after largely boycotting the platform over concerns about hate
-  speech and content moderation
+description: Amazon reversed course and significantly increased its advertising spending on Elon Musk's X after largely boycotting the platform over concerns about hate speech and content moderation
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -25,8 +23,7 @@ sources:
   url: https://www.foxbusiness.com/technology/amazon-increases-ad-spending-x-major-reversal-report
   outlet: Fox Business
   date: '2025-01-30'
-- title: Jeff Bezos and Elon Musk are 'best friends,' and now Amazon plans to buy
-    ads on X
+- title: Jeff Bezos and Elon Musk are 'best friends,' and now Amazon plans to buy ads on X
   url: https://fortune.com/2025/02/01/jeff-bezos-elon-musk-friends-x-amazon-advertisements/
   outlet: Fortune
   date: '2025-02-01'
@@ -40,8 +37,8 @@ patterns:
 - corporate-media-coordination
 notes: Event from comprehensive kleptocracy timeline tracking with updated sources.
 capture_lanes:
-- Media Manipulation
-- Corporate Power Dynamics
+- Media Capture & Control
+- Corporate Capture
 - Systematic Corruption
 ---
 

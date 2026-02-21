@@ -10,8 +10,7 @@ actors:
 importance: 8
 sources:
 - outlet: ABC News
-  title: Vance kept up false claims about Haitian migrants after aide was told they
-    were baseless
+  title: Vance kept up false claims about Haitian migrants after aide was told they were baseless
   url: https://abcnews.go.com/Politics/vance-false-claims-haitian-migrants-after-aide-told/story?id=113821189
 - outlet: PolitiFact
   title: 4 Fact Checks From JD Vance's CNN Interview with Dana Bash
@@ -30,8 +29,8 @@ id: 2024-09-09--vance-spreads-anti-haitian-immigrant-hoax-1757456537
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Systematic Corruption
-- Media Disinformation
-- Political Propaganda
+- Media Capture & Control
+- Intelligence Penetration
 geographical_focus:
   city: Springfield
   state: Ohio

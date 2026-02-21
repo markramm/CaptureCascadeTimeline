@@ -1,8 +1,7 @@
 ---
 id: 1988-08-01--wise-use-movement-founded
 date: '1988-08-01'
-title: Wise Use Movement Founded as Industry-Funded Anti-Environmental Grassroots
-  Campaign
+title: Wise Use Movement Founded as Industry-Funded Anti-Environmental Grassroots Campaign
 importance: 8
 location: Reno, Nevada
 actors:
@@ -21,8 +20,7 @@ tags:
 - regulatory-capture
 - climate-denial
 capture_lanes:
-- Astroturf Organizing
-- Corporate Disinformation
+- Media Capture & Control
 sources:
 - title: The Wise Use Movement
   url: https://www.sourcewatch.org/index.php/Wise_Use_Movement
@@ -45,8 +43,7 @@ sources:
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: How Rush Limbaugh's rise after the gutting of the fairness doctrine led to
-    today's highly partisan media
+- title: How Rush Limbaugh's rise after the gutting of the fairness doctrine led to today's highly partisan media
   url: https://www.poynter.org/reporting-editing/2021/how-rush-limbaughs-rise-after-the-gutting-of-the-fairness-doctrine-led-to-todays-highly-partisan-media/
   publication: Poynter Institute
   date: '2024-09-15'

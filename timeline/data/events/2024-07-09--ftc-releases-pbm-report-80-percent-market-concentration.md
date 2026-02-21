@@ -33,6 +33,10 @@ sources:
   outlet: The Hill
   tier: 2
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 The Federal Trade Commission released its interim staff report titled 'Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies,' revealing alarming market concentration and anticompetitive practices. The report found that three PBMs—CVS Caremark, Express Scripts, and OptumRx—processed nearly 80% of the approximately 6.6 billion prescriptions dispensed in 2023, with the top six handling over 90%. All top six are vertically integrated, operating their own mail-order or specialty pharmacies, and five are owned by health insurance companies. The FTC documented that these PBMs generated over $7.3 billion in excess revenue between 2017 and 2022 by dramatically marking up specialty generic drugs, plus an additional $1.4 billion through spread pricing (billing insurers more than they reimburse pharmacies). On just two cancer drugs, PBM-affiliated pharmacies retained nearly $1.6 billion in excess revenue in under three years. FTC Chair Lina Khan stated the report 'lays out how dominant pharmacy benefit managers can hike the cost of drugs—including overcharging patients for cancer drugs' and 'squeeze independent pharmacies that many Americans—especially those in rural communities—depend on for essential care.' The report found PBMs impose unfair contractual terms that threaten independent pharmacies' ability to survive, contributing to pharmacy deserts affecting 45 million Americans. The vote was 4-1, with Commissioner Melissa Holyoak dissenting.

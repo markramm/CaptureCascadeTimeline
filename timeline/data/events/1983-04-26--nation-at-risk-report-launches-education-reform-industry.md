@@ -1,7 +1,7 @@
 ---
 id: 1983-04-26--nation-at-risk-report-launches-education-reform-industry
 date: '1983-04-26'
-title: "A Nation at Risk Report Launches Education Reform Industry, Lays Groundwork for Privatization"
+title: A Nation at Risk Report Launches Education Reform Industry, Lays Groundwork for Privatization
 importance: 8
 actors:
 - National Commission on Excellence in Education
@@ -16,25 +16,25 @@ tags:
 - school-choice
 - neoliberalism
 sources:
-- title: "A Nation At Risk: The Imperative for Educational Reform"
+- title: 'A Nation At Risk: The Imperative for Educational Reform'
   url: https://www2.ed.gov/pubs/NatAtRisk/risk.html
   outlet: US Department of Education
   date: '1983-04-26'
   tier: 1
-- title: "The Manufactured Crisis: Myths, Fraud, and the Attack on America's Public Schools"
+- title: 'The Manufactured Crisis: Myths, Fraud, and the Attack on America''s Public Schools'
   url: https://www.amazon.com/Manufactured-Crisis-Fraud-Attack-Americas/dp/0201441969
   outlet: Perseus Books (Berliner and Biddle)
   date: '1995-01-01'
   tier: 1
-- title: "Lessons Learned: A Nation at Risk at 40"
+- title: 'Lessons Learned: A Nation at Risk at 40'
   url: https://www.brookings.edu/articles/lessons-learned-a-nation-at-risk-at-40/
   outlet: Brookings Institution
   date: '2023-04-26'
   tier: 1
 status: confirmed
 capture_lanes:
-- Manufactured Consensus
-- Education Privatization
+- Media Capture & Control
+- Financial Capture
 - Corporate Capture
 ---
 

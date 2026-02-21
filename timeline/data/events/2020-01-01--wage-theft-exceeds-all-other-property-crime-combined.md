@@ -34,6 +34,10 @@ sources:
   verified: true
   tier: 1
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Labor Suppression
+- Digital & Tech Capture
 ---
 
 Research documents that wage theft—employers illegally withholding earned wages through minimum wage violations, unpaid overtime, off-the-clock work, illegal payroll deductions, and tip theft—steals more money from workers annually than all robberies, burglaries, larcenies, and motor vehicle thefts combined. Economic Policy Institute estimates wage theft affects millions of workers, particularly in low-wage industries including restaurants, retail, construction, domestic work, and agriculture, disproportionately harming immigrants, women, and workers of color.

@@ -22,6 +22,10 @@ sources:
   outlet: Washington Post
   tier: 1
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 Donald Trump Jr. arrived in Nuuk, Greenland on "Trump Force One" for a 4-5 hour "private" visit, distributing MAGA hats and shooting video content. The Greenland government refused official meetings, stating the visit was "as a private individual." President-elect Trump claimed Greenlanders were "MAGA" and supportive of US acquisition. That same day at Mar-a-Lago, Trump refused to rule out military or economic coercion to take Greenland and the Panama Canal, stating "I cannot assure you on either one" when asked about ruling out force, and threatened "very high" tariffs against Denmark if it resisted.

@@ -1,7 +1,7 @@
 ---
 id: 2019-10-17--zuckerberg-georgetown-speech-licenses-political-disinformation
 date: '2019-10-17'
-title: 'Zuckerberg Georgetown Speech Announces Facebook Will Not Fact-Check Political Ads, Licensing Trump Campaign Lies'
+title: Zuckerberg Georgetown Speech Announces Facebook Will Not Fact-Check Political Ads, Licensing Trump Campaign Lies
 importance: 9
 actors:
 - Mark Zuckerberg
@@ -24,27 +24,26 @@ sources:
   outlet: CNBC
   date: '2019-10-18'
   tier: 2
-- title: 'Mark Zuckerberg gives speech depicting Facebook at center of free expression struggle'
+- title: Mark Zuckerberg gives speech depicting Facebook at center of free expression struggle
   url: https://www.cnn.com/2019/10/17/tech/mark-zuckerberg-free-expression-speech-georgetown/index.html
   outlet: CNN
   date: '2019-10-17'
   tier: 2
-- title: 'Kara Swishers Take On Mark Zuckerbergs Free Speech Speech'
+- title: Kara Swishers Take On Mark Zuckerbergs Free Speech Speech
   url: https://www.npr.org/2019/10/20/771755317/kara-swisher-s-take-on-mark-zuckerberg-s-free-speech-speech
   outlet: NPR
   date: '2019-10-20'
   tier: 1
-- title: 'Zuckerberg Defends Facebook Policies at Georgetown University'
+- title: Zuckerberg Defends Facebook Policies at Georgetown University
   url: https://firstamendmentwatch.org/zuckerberg-defends-facebooks-policies-during-speech-at-georgetown-university/
   outlet: First Amendment Watch
   date: '2019-10-17'
   tier: 2
 status: confirmed
 capture_lanes:
-- Platform Political Capture
-- Disinformation Infrastructure
+- Media Capture & Control
 - Electoral Manipulation
-- Corporate Authoritarianism
+- Corporate Capture
 ---
 
 Mark Zuckerberg delivers major policy speech at Georgetown University announcing that Facebook will not fact-check political advertisements, effectively licensing the Trump campaign and other political actors to spread unlimited disinformation through paid advertising on the platform. The policy disproportionately benefits Trump's campaign and follows weeks after secret White House dinners with Trump, Kushner, and Peter Thiel.

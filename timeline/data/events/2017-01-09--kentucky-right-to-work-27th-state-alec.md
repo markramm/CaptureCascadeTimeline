@@ -36,6 +36,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Media Capture & Control
+- Labor Suppression
+- Legislative Capture
 ---
 
 The Kentucky Legislature passes House Bill 1, an ALEC-inspired right-to-work measure, making Kentucky the 27th right-to-work state just one week into the 2017 legislative session. Governor Matt Bevin signs the legislation swiftly, fulfilling what ALEC describes as "one of the most repeated campaign promises of the election." The Kentucky House Committee passes HB 1 amid mass protests by labor activists opposing the measure.

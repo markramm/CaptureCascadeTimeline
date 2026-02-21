@@ -12,7 +12,7 @@ tags:
 - first-amendment
 - immigration-protests
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 citations:
 - https://cpj.org/2025/06/law-enforcement-injure-multiple-journalists-others-assaulted-while-covering-los-angeles-protests
 id: 2025-06-09--cpj-la-journalists-injured

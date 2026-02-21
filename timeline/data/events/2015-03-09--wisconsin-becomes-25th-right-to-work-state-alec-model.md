@@ -34,6 +34,10 @@ sources:
   outlet: NPR
   date: '2015-02-26'
   tier: 1
+capture_lanes:
+- Media Capture & Control
+- Labor Suppression
+- Legislative Capture
 ---
 
 Governor Scott Walker signs private sector right-to-work legislation at an invitation-only ceremony at Badger Meter in Brown Deer, making Wisconsin the 25th right-to-work state and completing the systematic destruction of union power in the state. After Act 10 (2011) eliminated collective bargaining for public sector workers, this legislation extends union-busting to private sector unions, with the bill text "taken word-for-word from American Legislative Exchange Council (ALEC) model legislation." Wisconsin Republicans call a special session in February 2015 to ram through the measure in less than two weeks, despite Walker having previously called right-to-work a "distraction." Senate Majority Leader Scott Fitzgerald (ALEC state chairman) and Assembly Speaker Robin Vos (ALEC member) champion the legislation. Walker, an ALEC alumnus who introduced a right-to-work bill as a freshman legislator in 1993, had privately told billionaire donor Diane Hendricks in January 2011 about his "divide and conquer" strategy for unions. The law passes over objections from thousands of workers and 450 Wisconsin construction firms. Combined with Act 10, the legislation devastates Wisconsin's labor movement, with private sector union membership falling from 16% (2009) to 8.1% (2016)—an 11.4 percentage point decline, the steepest of any state. Labor economists estimate right-to-work laws lower wages approximately 3% for both union and non-union workers while reducing access to health insurance and pensions.

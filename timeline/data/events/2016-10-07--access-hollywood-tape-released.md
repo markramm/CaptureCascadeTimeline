@@ -37,9 +37,8 @@ tags:
 - political-crisis
 status: confirmed
 capture_lanes:
-- Media Manipulation
-- Political Crisis
-- Sexual Misconduct
+- Media Capture & Control
+- Democratic Erosion
 ---
 
 On October 7, 2016, exactly one month before the presidential election, Washington Post reporter David Fahrenthold published a 2005 video recording of Donald Trump making sexually aggressive comments about women. The recording was made on an Access Hollywood bus as Trump and television host Billy Bush traveled to tape a cameo appearance on Days of Our Lives. Trump was wearing a microphone, and the cameras were not rolling, but the conversation was recorded.

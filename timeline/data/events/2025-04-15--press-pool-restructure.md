@@ -17,7 +17,7 @@ tags:
 - press-pool
 - media-control
 capture_lanes:
-- Information & Media Control
+- Media Capture & Control
 citations:
 - https://www.politico.com/news/2025/04/15/white-house-changes-press-pool-00292526
 - https://whca.press/2025/04/15/statement-on-wh-changes-to-wire-pool-positions

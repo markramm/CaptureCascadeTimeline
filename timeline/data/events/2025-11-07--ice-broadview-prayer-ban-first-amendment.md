@@ -52,6 +52,8 @@ sources:
   tier: 2
   outlet: National Catholic Reporter
 status: confirmed
+capture_lanes:
+- Media Capture & Control
 ---
 
 Federal officials told faith leaders gathered outside the Broadview ICE detention center in Illinois that 'there is no more prayer in front of building or inside the building because this is the state and it's not [of a] religious background.' The directive marked the third time clergy were denied entry to the facility to provide religious services to detainees. An anonymous federal representative's explicit ban on prayer raised immediate First Amendment concerns, with Broadview Police Chief Thomas Mills stating he was 'dumbfounded' and that federal rules 'keep changing.' The following day, DHS Assistant Secretary Tricia McGlaughlin clarified that restrictions applied only to federal property, but the damage to religious freedom was already done. The ban came after weeks of federal officials preventing Catholic clergy from administering Communion to detainees inside the facility, including denials on October 11 and November 1, 2025, despite clergy providing required one-week advance notice. More than 2,000 faithful attended the November 1 prayer vigil. Father Michael Pfleger of St. Sabina Church and representatives from Indigenous American, Catholic, Jewish, Muslim, and Unitarian groups participated in the 'Faith over Fear' rally that was shut down.

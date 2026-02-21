@@ -39,6 +39,10 @@ sources:
   date: '2025-12-03'
   tier: 1
   outlet: White House
+capture_lanes:
+- Media Capture & Control
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 # White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets

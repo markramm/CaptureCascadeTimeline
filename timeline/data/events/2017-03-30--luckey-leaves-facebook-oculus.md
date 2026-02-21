@@ -25,6 +25,10 @@ sources:
   outlet: Wikipedia
   date: '2024-11-01'
   tier: 3
+capture_lanes:
+- Media Capture & Control
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 Palmer Luckey, founder of Oculus VR (acquired by Facebook for $2 billion in 2014), departed Facebook in March 2017 following controversy over his $10,000 donation to Nimble America, a pro-Trump political group. Internal Facebook emails later revealed that executives, including Mark Zuckerberg, pressured Luckey to publicly support libertarian candidate Gary Johnson instead of Trump. Luckey stated he was fired for his political views, later negotiating a $100 million settlement with Facebook for violating California law protecting employees' political activities. This settlement covered stock awards through July 2019. The firing eliminated a key Silicon Valley innovator from Facebook's VR division, while creating the conditions for Luckey's pivot to defense technology with Peter Thiel's backing.

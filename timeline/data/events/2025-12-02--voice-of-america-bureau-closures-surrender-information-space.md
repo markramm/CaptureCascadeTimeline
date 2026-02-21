@@ -38,6 +38,10 @@ sources:
   date: '2025-03-15'
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Media Capture & Control
+- International Kleptocracy
+- Surveillance Infrastructure
 ---
 
 # Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China
