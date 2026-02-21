@@ -7,6 +7,7 @@ location: Washington, D.C.
 actors:
 - Stephen Miller
 - Kristi Noem
+- Corey Lewandowski
 - Kenneth Genalo
 - Robert Hammer
 - ICE
@@ -39,4 +40,4 @@ notes: Meeting attendees left feeling their jobs were in jeopardy. The 3,000 dai
 status: confirmed
 ---
 
-Stephen Miller and DHS Secretary Kristi Noem held a tense meeting at ICE headquarters demanding field offices achieve 3,000 daily arrests—triple the early administration numbers. Miller threatened to fire the bottom 10% of directors monthly if quotas weren't met. A week later, Kenneth Genalo (33-year ICE veteran) was forced to retire and Robert Hammer (20-year HSI veteran) was reassigned for failing to meet the impossible quotas. The day before the purge, agents achieved only 1,600 arrests, well short of Miller's demands.
+Stephen Miller and DHS Secretary Kristi Noem held a tense meeting at ICE headquarters demanding field offices achieve 3,000 daily arrests—triple the early administration numbers. Corey Lewandowski, Noem's de facto chief of staff operating as a "special government employee," was also present. Miller threatened to fire the bottom 10% of directors monthly if quotas weren't met. A week later, Kenneth Genalo (33-year ICE veteran) was forced to retire and Robert Hammer (20-year HSI veteran) was reassigned for failing to meet the impossible quotas. The day before the purge, agents achieved only 1,600 arrests, well short of Miller's demands.

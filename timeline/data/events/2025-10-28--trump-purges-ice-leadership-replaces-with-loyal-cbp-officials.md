@@ -4,6 +4,7 @@ actors:
 - Gregory Bovino
 - Kristi Noem
 - Stephen Miller
+- Corey Lewandowski
 - Todd Lyons
 - Tom Homan
 date: '2025-10-28'
@@ -58,9 +59,9 @@ Sources revealed deep conflicts within DHS over arrest priorities:
 
 Internal ICE officials expressed frustration that Border Patrol operations focused on "Home Depots and car washes" rather than targeting individuals with criminal backgrounds, suggesting the administration prioritized visible spectacle over legitimate law enforcement objectives.
 
-**CBP Leadership Selection:**
+**Purge List Compiled by Lewandowski and Bovino:**
 
-Notably, the replacements are being vetted and selected by Border Patrol Commander Gregory Bovino—the same official who was caught on video personally throwing tear gas canisters at protesters in violation of federal court orders and who is currently required to report daily to a federal judge. Bovino's involvement in selecting new ICE leadership signals the administration's preference for officials willing to defy court orders and constitutional constraints.
+Per NBC News, "the list was compiled by Corey Lewandowski and Greg Bovino." Lewandowski, Noem's de facto chief of staff operating as a "special government employee," worked with Bovino—the same official caught on video personally throwing tear gas canisters at protesters in violation of federal court orders—to identify which ICE directors would be removed. Bovino then vetted and selected the replacements. This Lewandowski-Bovino axis ensures that officials unwilling to hit Miller's quotas are replaced by those willing to defy court orders and constitutional constraints.
 
 **Strategic Timing:**
 

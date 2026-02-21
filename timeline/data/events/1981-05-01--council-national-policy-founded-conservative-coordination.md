@@ -9,6 +9,8 @@ tags:
 - religious-right
 - powell-memo-implementation
 - elite-networks
+- john-birch-society-successor
+- jbs-continuity
 actors:
 - Tim LaHaye
 - Paul Weyrich
@@ -36,6 +38,10 @@ status: confirmed
 ---
 
 In May 1981, during the Reagan administration, Tim LaHaye (then head of the Moral Majority), Paul Weyrich, Nelson Bunker Hunt, T. Cullen Davis, Howard Phillips, and William Cies founded the Council for National Policy (CNP) as an umbrella organization and networking group for conservative and Republican Party initiatives.
+
+Critically, two of the three primary founders had direct ties to the John Birch Society: Tim LaHaye had "regularly lectured and ran training seminars for the John Birch Society in the 1960s and 70s" according to the Southern Poverty Law Center, while Nelson Bunker Hunt was "a one-time member of the John Birch Society's ruling council" who served on the JBS National Council from 1976-1985 and again from 2007 until his death in 2014. Hunt, along with his brother William Herbert, provided the CNP's start-up funding.
+
+This JBS connection reveals the organizational continuity between mid-century anti-communist conspiracy networks and the modern conservative coordination infrastructure. The CNP represented an evolution of JBS methods - secretive coordination, elite networking, movement unification - applied to a new era of post-Reagan coalition building.
 
 Paul Weyrich, who had co-founded Heritage Foundation and ALEC, took responsibility for bringing together what he called "the best minds of conservatism." His imprint on the group's mission was clear: it provided a secretive forum for religiously engaged conservative Christians to influence American political power while coordinating with corporate and wealthy donors.
 
