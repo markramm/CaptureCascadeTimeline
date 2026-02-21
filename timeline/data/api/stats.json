@@ -1,15 +1,15 @@
 {
-  "total_events": 4237,
+  "total_events": 4238,
   "total_tags": 6468,
   "total_actors": 7667,
-  "total_sources": 14520,
+  "total_sources": 14523,
   "date_range": {
     "start": "1142-01-01",
     "end": "2026-02-15"
   },
   "status_counts": {
     "unknown": 247,
-    "confirmed": 3952,
+    "confirmed": 3953,
     "validated": 24,
     "disputed": 3,
     "verified": 1,
@@ -103,5 +103,5 @@
       "count": 71
     }
   ],
-  "generated": "2026-02-15T20:17:49.775711"
+  "generated": "2026-02-21T17:49:11.232556"
 }

@@ -1,17 +1,17 @@
 # Timeline Statistics Report
 
-Generated: 2026-02-15 20:17:49
+Generated: 2026-02-21 17:49:11
 
 ## Overview
-- **Total Events**: 4237
+- **Total Events**: 4238
 - **Date Range**: 1142-01-01 to 2026-02-15
-- **Total Sources**: 14520
+- **Total Sources**: 14523
 - **Unique Tags**: 6468
 - **Unique Actors**: 7667
 
 ## Event Status
 - **Unknown**: 247
-- **Confirmed**: 3952
+- **Confirmed**: 3953
 - **Validated**: 24
 - **Disputed**: 3
 - **Verified**: 1
@@ -278,7 +278,7 @@ Generated: 2026-02-15 20:17:49
 - 2018: 129 events
 - 2019: 134 events
 - 2020: 130 events
-- 2021: 104 events
+- 2021: 105 events
 - 2022: 92 events
 - 2023: 97 events
 - 2024: 166 events
