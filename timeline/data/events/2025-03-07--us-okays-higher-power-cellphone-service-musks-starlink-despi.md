@@ -7,7 +7,7 @@ actors:
 - T-Mobile
 capture_lanes:
 - Systematic Corruption
-- Technological Capture
+- Digital & Tech Capture
 capture_type:
 - monetizing_position
 - regulatory_manipulation

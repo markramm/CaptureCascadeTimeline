@@ -40,6 +40,10 @@ sources:
   date: 2020-11-20
   tier: 1
   outlet: The Hill
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 The Department of Health and Human Services launched a $300 million advertising campaign called "Defeating Despair" to promote the Trump administration's COVID-19 response, with the effort conceived by political appointee Michael Caputo and timed to air before the November election. Caputo abruptly requisitioned the funds from the Centers for Disease Control budget and pursued celebrities including actor Dennis Quaid and singer CeCe Winans, with contractors vetting at least 274 potential celebrity contributors for their political views on issues including the 2016 election before allowing participation.

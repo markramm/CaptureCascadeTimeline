@@ -49,6 +49,10 @@ sources:
   outlet: NBC News
   date: '2021-09-15'
   tier: 1
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On September 15, 2021, Olympic gymnasts Simone Biles, McKayla Maroney, Aly Raisman, and Maggie Nichols delivered powerful testimony before the Senate Judiciary Committee about the FBI's catastrophic mishandling of sexual abuse allegations against Larry Nassar. The athletes' testimony exposed how the FBI not only failed to investigate credible allegations but actively enabled continued abuse through deliberate inaction and false documentation. FBI Director Christopher Wray also testified, apologizing to the gymnasts: 'I'm sorry for what you and your families have been through. I'm sorry that so many different people let you down over and over again. And I'm especially sorry that there were people at the FBI who had their own chance to stop this monster back in 2015 and failed.'

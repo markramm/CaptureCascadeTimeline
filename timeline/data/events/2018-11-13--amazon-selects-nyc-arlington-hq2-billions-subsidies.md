@@ -31,6 +31,10 @@ sources:
   date: 2018-11-15
   tier: 1
   outlet: Good Jobs First
+capture_lanes:
+- Digital & Tech Capture
+- Corporate Capture
+- Intelligence Penetration
 ---
 
 Amazon announced on November 13, 2018 that it would split its HQ2 project between Long Island City in Queens, New York and Crystal City in Arlington, Virginia (rebranded as "National Landing"). While Amazon claimed the combined subsidies totaled approximately $2.8 billion, analysis by Good Jobs First—the nation's leading corporate subsidy tracker—found the actual cost to taxpayers would be at least $4.6 billion, more than twice Amazon's figure. The deal transferred billions in public wealth to the world's richest person while demonstrating how corporations manipulate subsidy calculations to obscure the true cost of corporate welfare.

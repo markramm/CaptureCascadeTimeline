@@ -34,6 +34,10 @@ sources:
   date: 2018-06-14
   tier: 1
   outlet: The New York Times
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
+- Executive Power Expansion
 ---
 
 New York Attorney General Barbara Underwood filed a comprehensive lawsuit against the Donald J. Trump Foundation, Donald Trump, and his three eldest children (Donald Jr., Eric, and Ivanka) alleging "persistently illegal conduct" spanning more than a decade. The lawsuit documented a shocking pattern of Trump using the charitable foundation as a personal checkbook to advance business interests, settle legal disputes, and coordinate with his 2016 presidential campaign in violation of federal and state law. The AG sought $2.8 million in restitution, dissolution of the Foundation under court supervision, a 10-year ban on Trump serving as a director of any New York charity, and one-year bans for his children.

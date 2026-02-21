@@ -33,6 +33,10 @@ sources:
   date: '2023-12-31'
   tier: 1
   outlet: OpenSecrets
+capture_lanes:
+- Digital & Tech Capture
+- Electoral Manipulation
+- Regulatory Capture
 ---
 
 Northrop Grumman spent $10.86 million on federal lobbying in 2023, employing 36 lobbyists of whom 29—a staggering 80.6 percent—had previously worked in government positions, exemplifying the revolving door between the Pentagon, Congress, and defense contractors that enables systematic corruption of military procurement and defense policy. The company's lobbying efforts focused on the annual defense spending bill, export control reform, foreign military sales, and defense trade policy, allowing former government officials to leverage their insider knowledge, relationships, and access to shape billions in taxpayer-funded contracts and regulatory policies in Northrop Grumman's favor.

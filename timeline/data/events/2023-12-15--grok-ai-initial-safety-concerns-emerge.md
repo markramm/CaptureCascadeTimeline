@@ -27,7 +27,7 @@ tags:
 - ai-governance
 capture_lanes:
 - Regulatory Capture
-- Technological Capture
+- Digital & Tech Capture
 status: confirmed
 ---
 

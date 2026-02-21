@@ -16,20 +16,18 @@ tags:
 - ai-powered-platforms
 capture_lanes:
 - Regulatory Capture
-- Technology Infrastructure
+- Digital & Tech Capture
 sources:
 - title: Digital Transformation in Law and Technology Revolution
   outlet: Leaders in Law
   url: https://www.leaders-in-law.com/digital-transformation-in-law-and-how-technology-is-revolutionizing-legal-practices/
   date_accessed: '2025-10-07'
-  description: Explores emerging legal technology platforms, collaboration initiatives,
-    and cybersecurity trends in 2025
+  description: Explores emerging legal technology platforms, collaboration initiatives, and cybersecurity trends in 2025
 - title: Cross-Border Digital Regulation Collaboration Report
   outlet: International Network of Digital Regulation Cooperation
   url: https://www.lexology.com/library/detail.aspx?g=85d61d18-04ca-478c-a07b-906af9c16464
   date_accessed: '2025-10-07'
-  description: Highlights emerging cross-network digital collaboration platforms and
-    regulatory technologies
+  description: Highlights emerging cross-network digital collaboration platforms and regulatory technologies
 - title: Cybersecurity 2025 Legislation Overview
   outlet: National Conference of State Legislatures
   url: https://www.ncsl.org/technology-and-communication/cybersecurity-2025-legislation

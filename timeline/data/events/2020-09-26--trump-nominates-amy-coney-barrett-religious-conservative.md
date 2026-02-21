@@ -36,6 +36,10 @@ sources:
   date: '2020-10-09'
   tier: 1
   outlet: NBC News
+capture_lanes:
+- Digital & Tech Capture
+- Electoral Manipulation
+- Systematic Corruption
 ---
 
 On September 26, 2020—just eight days after Justice Ruth Bader Ginsburg's death—President Donald Trump nominated Amy Coney Barrett, a religious conservative from the 7th Circuit Court of Appeals, to fill Ginsburg's seat on the Supreme Court. Barrett's judicial record showed consistent opposition to abortion rights and the Affordable Care Act, making her nomination a stark ideological replacement of the liberal feminist icon Ginsburg with a conservative judge whose confirmation would create a 6-3 conservative supermajority. The nomination came 38 days before the November 3 election with early voting already underway across the country, yet Senate Majority Leader Mitch McConnell vowed to rush through the confirmation—abandoning the "let voters decide" principle he had invoked to block Merrick Garland 293 days before the 2016 election.

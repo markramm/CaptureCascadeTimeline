@@ -38,6 +38,10 @@ sources:
   date: 2020-11-02
   tier: 1
   outlet: The Washington Post
+capture_lanes:
+- Digital & Tech Capture
+- Electoral Manipulation
+- Surveillance Infrastructure
 ---
 
 U.S. District Judge Emmet G. Sullivan issued an emergency order on Election Day directing the United States Postal Service to immediately sweep its processing facilities between 12:30 p.m. and 3:00 p.m. to ensure that delivery of mail-in ballots was not delayed, particularly in crucial battleground states. The order specifically targeted facilities where on-time delivery rates had fallen dramatically, mandating that postal inspectors immediately send any discovered ballots out for delivery. The Postal Service initially refused to comply with the court's deadline, conducting sweeps hours later than ordered, prompting Judge Sullivan to demand explanations for "apparent lack of compliance."

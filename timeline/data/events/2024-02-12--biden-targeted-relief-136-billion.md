@@ -27,6 +27,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Labor Suppression
+- Systematic Corruption
 ---
 
 Despite the Supreme Court striking down Biden's broad student loan forgiveness plan in June 2023, the administration reported on February 12, 2024, that it had approved $136.6 billion in targeted student debt relief for 3.7 million borrowers through existing programs—demonstrating that systematic debt relief was possible within current legal authority even without the blocked $10,000-$20,000 cancellation plan. The relief came through Public Service Loan Forgiveness fixes ($56 billion for 790,000 public servants), Borrower Defense to Repayment discharges ($22.5 billion for 1.3 million defrauded borrowers), Total and Permanent Disability discharges ($11.7 billion for 510,000 disabled borrowers), and income-driven repayment corrections.

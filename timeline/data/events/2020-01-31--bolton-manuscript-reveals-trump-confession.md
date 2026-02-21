@@ -31,6 +31,10 @@ sources:
   date: 2020-06-23
   tier: 1
   outlet: C-SPAN
+capture_lanes:
+- Digital & Tech Capture
+- Executive Power Expansion
+- Media Capture & Control
 ---
 
 The New York Times obtained portions of former National Security Advisor John Bolton's unpublished book manuscript on January 26, 2020, revealing that President Trump explicitly told Bolton in August 2019 that he wanted to continue freezing military aid to Ukraine until Ukrainian officials announced investigations into Joe Biden and his son Hunter. The timing was explosive—the revelation came in the middle of Trump's Senate impeachment trial, just days before senators would vote on whether to call Bolton as a witness. Bolton's account provided direct, first-hand testimony from Trump's longest-serving National Security Advisor that Trump tied official acts to personal political favors—the precise abuse of power at the heart of the impeachment.

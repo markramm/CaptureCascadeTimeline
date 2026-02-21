@@ -32,6 +32,10 @@ sources:
   date: '2019-02-14'
   tier: 2
   outlet: Good Jobs First
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
+- Military-Industrial Complex
 ---
 
 Northrop Grumman Systems Corporation agreed to pay $5.2 million to resolve False Claims Act allegations that it fraudulently billed the United States Postal Service for personnel who lacked the required education and experience qualifications specified in their contract labor categories. The settlement resolved government allegations that NGSC knowingly charged for certain personnel working under the Enterprise Technology Support (ETS) Contract using inflated labor categories for which those workers did not possess the credentials, education, or experience required, systematically overbilling the Postal Service for lower-skilled labor presented as senior technical expertise.

@@ -27,7 +27,7 @@ tags:
 - counterintelligence
 capture_lanes:
 - Intelligence Penetration
-- Tech Sector Influence
+- Digital & Tech Capture
 status: confirmed
 ---
 

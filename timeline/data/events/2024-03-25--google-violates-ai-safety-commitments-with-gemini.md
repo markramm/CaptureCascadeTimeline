@@ -35,7 +35,7 @@ sources:
   date: '2024-03-25'
 capture_lanes:
 - Regulatory Capture
-- Tech Governance
+- Digital & Tech Capture
 ---
 
 Sixty U.K. lawmakers accused Google DeepMind of violating international AI safety commitments by releasing Gemini 2.5 Pro without comprehensive public safety disclosures. The allegations center on Google's failure to 'publicly report' system capabilities and risk assessments as pledged at a February 2024 international AI summit co-hosted by the U.K. and South Korea.

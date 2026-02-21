@@ -26,6 +26,9 @@ sources:
   outlet: Electronic Frontier Foundation
   date: '2023-03-15'
   tier: 2
+capture_lanes:
+- Digital & Tech Capture
+- Surveillance Infrastructure
 ---
 
 Anduril Industries announced deployment of its 300th Autonomous Surveillance Tower (AST) along the southern U.S. border, significantly expanding its AI-powered surveillance infrastructure for Customs and Border Protection. The deployment includes the Extended Range Sentry Tower, featuring an 80-foot structure with sensors capable of tracking objects up to 7.5 miles away. CBP's 2023-2024 budgets earmarked $204 million for 174 additional towers through FY 2025, creating an effective exclusive arrangement with Anduril worth hundreds of millions. The Electronic Frontier Foundation documented CBP's expanding surveillance tower program, raising concerns about mass surveillance infrastructure at the border. The 300-tower milestone represents operational deployment of autonomous AI systems for immigration enforcement at scale, normalizing algorithmic surveillance and tracking of human movement across vast border regions. Homeland Security documents cite plans for hundreds more towers, positioning Anduril's technology as permanent border surveillance infrastructure.

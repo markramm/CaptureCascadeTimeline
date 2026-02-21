@@ -43,6 +43,10 @@ sources:
   tier: 1
   outlet: WTTW Chicago
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Civil Rights Suppression
+- Executive Power Expansion
 ---
 
 On the evening of October 18, 2025—the same day approximately **seven million people** participated in "No Kings" protests across 2,700 events in all 50 states—President Donald Trump posted a 19-second AI-generated video to Truth Social showing himself wearing a crown, piloting a fighter jet labeled "KING TRUMP," flying over Times Square and dropping brown substance widely identified as feces on protesters below. When questioned, Vice President JD Vance told reporters: "The president is joking, and we're having a good time." House Speaker Mike Johnson defended it explicitly: **"Is he trolling the Democrats? Yes. Because that is what President Trump does."**

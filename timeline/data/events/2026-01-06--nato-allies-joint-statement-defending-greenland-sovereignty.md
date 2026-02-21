@@ -34,6 +34,8 @@ actors:
 - Germany
 - Denmark
 - United Kingdom
+capture_lanes:
+- Digital & Tech Capture
 ---
 
 Seven NATO allies—France, Germany, Italy, Poland, Spain, the United Kingdom, and Denmark—issued an unprecedented joint statement defending Greenland's sovereignty in response to Trump administration threats of military force to acquire the territory. The statement declared: 'Greenland belongs to its people. It is for Denmark and Greenland, and them only, to decide on matters concerning Denmark and Greenland. Security in the Arctic must be achieved collectively, in conjunction with NATO allies including the United States, by upholding the principles of the UN Charter, including sovereignty, territorial integrity and the inviolability of borders.' Separately, Nordic foreign ministers from Denmark, Finland, Iceland, Norway, and Sweden issued their own joint statement reaffirming Arctic security principles. Danish Prime Minister Mette Frederiksen warned that a US attack on a NATO ally would mean 'everything stops, including NATO and thus the security that has been established since the end of the Second World War.'

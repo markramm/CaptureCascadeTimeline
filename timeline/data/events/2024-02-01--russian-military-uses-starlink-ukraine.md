@@ -8,8 +8,8 @@ actors:
 - John Plumb
 capture_lanes:
 - Intelligence Penetration
-- Technology Weaponization
-- Military Supply Chain Manipulation
+- Digital & Tech Capture
+- Military-Industrial Complex
 date: '2024-02-01'
 id: 2024-02-01--russian-military-uses-starlink-ukraine
 importance: 9

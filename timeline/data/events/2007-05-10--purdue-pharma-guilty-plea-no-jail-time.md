@@ -33,6 +33,10 @@ sources:
   date: '2021-01-01'
   tier: 2
   outlet: Judge for Yourselves
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Corporate Capture
 ---
 
 On May 10, 2007, Purdue Pharma pleaded guilty to a felony charge of illegally misbranding OxyContin in an effort to mislead and defraud physicians and agreed to pay $600 million—representing approximately 90 percent of OxyContin profits during the offense period. The company admitted to misleading the public about OxyContin's risk of addiction in what was then one of the largest pharmaceutical settlements in U.S. history.

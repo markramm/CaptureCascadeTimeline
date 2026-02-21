@@ -13,15 +13,17 @@ tags:
 - christian-nationalism
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/01/year-of-celebration-and-rededication-2026/
-  title: 'Year of Celebration and Rededication, 2026'
+  title: Year of Celebration and Rededication, 2026
   outlet: White House
   date: '2026-01-29'
   tier: 1
 - url: https://www.federalregister.gov/documents/2026/02/03/2026-02248/year-of-celebration-and-rededication-2026
-  title: 'Year of Celebration and Rededication, 2026'
+  title: Year of Celebration and Rededication, 2026
   outlet: Federal Register
   date: '2026-02-03'
   tier: 1
+capture_lanes:
+- Digital & Tech Capture
 ---
 
 President Trump issued Proclamation 11007 at the 74th annual National Prayer Breakfast declaring 2026 a "Year of Celebration and Rededication" to commemorate 250 years of American independence, calling on every American "to celebrate this triumph of the American spirit, and to rededicate themselves to the sacred cause of liberty and justice for all." The proclamation honors "the generations of pioneers, warriors, statesmen, preachers, inventors, risk-takers, workers, and heroes whose unwavering commitment to the promise of freedom gave rise to the greatest Republic ever created," and encourages "all Americans — including businesses, churches, families, and the military — to observe this year, reflecting on the blessings our Nation has received, with appropriate programs, ceremonies, concerts, celebrations, and activities in their homes, schools, work, communities, military bases, and houses of worship."

@@ -26,6 +26,9 @@ sources:
   outlet: CBS News
   date: '2024-12-08'
   tier: 2
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
 ---
 
 OpenAI announced a partnership with Anduril Industries to integrate ChatGPT maker's AI technology into drone-defense systems sold to the Pentagon, marking OpenAI's formal entry into military AI applications. The three-year contract embeds OpenAI's language models and AI capabilities into Anduril's autonomous weapons platforms, potentially including the Roadrunner drone interceptor and Lattice battlefield management software. This partnership represents convergence of frontier AI labs with autonomous weapons manufacturers, normalizing deployment of large language models in lethal military systems. The deal follows OpenAI's quiet removal of its 'military and warfare' use ban from its policies in January 2024, enabling defense contracts. Critics warn this partnership could accelerate development of AI-powered autonomous weapons with increasingly sophisticated decision-making capabilities, while proponents argue it ensures American AI leadership in defense applications. The collaboration demonstrates Silicon Valley's deepening integration with the military-industrial complex.

@@ -29,6 +29,10 @@ sources:
   tier: 2
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Media Capture & Control
+- Surveillance Infrastructure
 ---
 
 Former Michigan Governor Rick Snyder is indicted on two misdemeanor charges of willful neglect of duty in connection to the Flint water crisis, becoming the first governor or former governor in Michigan's 184-year history to be charged with crimes related to their time in office. Eight other officials face a total of 34 felony counts and seven misdemeanors—41 counts in all—but Snyder, who presided over the catastrophe, receives only misdemeanors carrying a maximum sentence of one year in prison and $1,000 fine per count.

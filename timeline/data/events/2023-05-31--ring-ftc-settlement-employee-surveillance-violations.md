@@ -4,9 +4,9 @@ actors:
 - Amazon
 - Federal Trade Commission
 capture_lanes:
-- Privacy Violations
-- Corporate Misconduct
-- Regulatory Enforcement
+- Digital & Tech Capture
+- Corporate Capture
+- Regulatory Capture
 date: '2023-05-31'
 id: 2023-05-31--ring-ftc-settlement-employee-surveillance-violations
 importance: 8

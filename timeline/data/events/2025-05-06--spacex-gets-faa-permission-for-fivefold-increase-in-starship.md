@@ -7,7 +7,7 @@ actors:
 - Federal Aviation Administration
 capture_lanes:
 - Systematic Corruption
-- Technological Infrastructure
+- Digital & Tech Capture
 capture_type: monetizing_position
 connections:
 - SpaceX regulatory capture

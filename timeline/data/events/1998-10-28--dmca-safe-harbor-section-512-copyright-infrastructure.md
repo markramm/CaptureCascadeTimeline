@@ -35,6 +35,10 @@ sources:
   url: https://www.copyright.gov/policy/section512/
   outlet: U.S. Copyright Office
   tier: 1
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 President Clinton signs the Digital Millennium Copyright Act (DMCA), with Section 512 creating 'safe harbor' liability protections for online service providers (OSPs) that comply with 'notice and takedown' procedures. While presented as balancing copyright protection with internet innovation, Section 512 establishes a systematically asymmetric system: large platforms (YouTube, Google, Facebook) gain liability shields while individual creators face automated takedown systems without due process. The law requires OSPs to designate DMCA agents and expeditiously remove allegedly infringing content, but imposes no penalty for false claims beyond rarely-enforced Section 512(f) provisions. This creates structural incentives for over-removal: platforms implement automated systems (like YouTube's Content ID) that flag legitimate fair use as infringement, freezing revenue streams immediately. Major music labels and publishers openly acknowledge using Content ID to censor videos without DMCA penalties. Studies show 15-20% of DMCA claims are questionable or false, creating a 'chilling effect' on small creators who lack legal resources to challenge bogus takedowns. The 2020 Copyright Office study concluded Section 512 is 'unbalanced' and 'out of sync with Congress' original intent.' This represents regulatory capture creating a two-tier system: corporate platforms protected, individual speech vulnerable to corporate censorship via copyright claims.

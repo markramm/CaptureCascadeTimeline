@@ -40,6 +40,10 @@ actors:
 - Qatar
 - U.S. Department of Defense
 - Greg Hayes
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On October 16, 2024, defense contractor RTX (formerly Raytheon) agreed to pay over $950 million to resolve Justice Department investigations into fraudulent billing schemes, foreign bribery, and export control violations spanning more than a decade. The settlement addressed three major criminal schemes: (1) providing false and fraudulent pricing information to the Pentagon on Patriot missile system contracts, causing the DOD to overpay by over $111 million; (2) bribing a high-level Qatari Air Force official through sham subcontracts to secure air defense contracts; and (3) willfully violating arms export control laws by failing to disclose fees and commissions paid in connection with those bribes. DOJ investigators uncovered a 2013 email in which Raytheon told the Pentagon the company's expected costs had increased when they had actually decreased, deliberately misleading the government to inflate contract prices. The settlement included criminal monetary penalties, victim compensation to the Pentagon, and appointment of an independent compliance monitor for three years—yet permitted Raytheon to continue receiving billions in federal contracts without debarment.

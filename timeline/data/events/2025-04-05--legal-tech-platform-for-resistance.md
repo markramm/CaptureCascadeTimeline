@@ -29,7 +29,7 @@ tags:
 - legal-innovation
 capture_lanes:
 - Regulatory Capture
-- Technology Coordination
+- Digital & Tech Capture
 status: confirmed
 ---
 

@@ -29,7 +29,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Digital Rights
+- Digital & Tech Capture
 ---
 
 Introduction of a secure, encrypted digital platform enabling distributed legal resistance groups to share research, coordinate strategies, and maintain secure communication channels. Building on the Electronic Frontier Foundation's (EFF) ongoing work in digital rights and secure communication technologies, this platform represents a collaborative effort to enhance digital defense capabilities for legal advocacy groups. The launch reflects growing trends in legal technology for 2025, emphasizing secure, cross-functional collaboration with enterprise-grade encryption and integrated communication workflows.

@@ -36,6 +36,10 @@ sources:
   outlet: Wikipedia
   date: '2024-11-20'
   tier: 2
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 A federal jury convicts Sam Bankman-Fried on all seven criminal counts including wire fraud, conspiracy to commit fraud, and conspiracy to commit money laundering in what federal prosecutors describe as 'one of the biggest financial frauds in American history.' The conviction follows a month-long trial where prosecutors demonstrated Bankman-Fried systematically stole over $8 billion in FTX customer funds to finance Alameda Research trading losses, make political donations, purchase luxury real estate, and fund venture investments. The jury deliberated for just over four hours before reaching unanimous guilty verdicts. The charges carry a maximum sentence of 110 years in prison.

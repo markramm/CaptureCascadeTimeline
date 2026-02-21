@@ -36,8 +36,8 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Technological Ethics
-- Media Manipulation
+- Digital & Tech Capture
+- Media Capture & Control
 ---
 
 Following Grok's launch by Elon Musk's xAI in December 2023, AI ethics researchers and David Rozado's political compass analysis reveal significant safety and bias vulnerabilities. The chatbot demonstrated potential for generating controversial and politically skewed content, with responses leaning distinctly left-wing and libertarian. Research exposed inconsistent content filtering, potential bias amplification, and risks of generating misleading information. The findings prompted Musk to commit to shifting Grok's responses closer to political neutrality, highlighting broader concerns about AI model training and ethical considerations in large language models.

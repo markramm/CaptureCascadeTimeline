@@ -38,6 +38,10 @@ actors:
 - Iran
 - Mohammed bin Salman
 - Houthi forces
+capture_lanes:
+- Digital & Tech Capture
+- International Kleptocracy
+- Military-Industrial Complex
 ---
 
 On September 14, 2019, swarms of drones and cruise missiles evaded six battalions of Raytheon-manufactured Patriot missile defense systems to strike Saudi Arabia's Abqaiq and Khurais oil facilities, temporarily disrupting 5.7 million barrels of daily oil production—approximately 5% of global supply. The attack inflicted billions of dollars in damage despite Saudi Arabia having spent approximately $15 billion purchasing Raytheon's Patriot systems specifically to defend critical infrastructure. Saudi radars detected the 18 drones and 7 cruise missiles but too late to intercept them, as the low-flying, slow-moving attackers exploited known vulnerabilities in the high-altitude missile defense systems Raytheon had sold as comprehensive protection. The spectacular failure exposed how defense contractors marketed expensive weapons systems with capabilities insufficient for real-world threats, collecting billions in sales while leaving customers vulnerable to attacks the systems were purportedly designed to defeat.

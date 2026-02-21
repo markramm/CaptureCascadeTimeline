@@ -29,8 +29,8 @@ actors:
 - CODE-CWA
 capture_lanes:
 - Systematic Corruption
-- Technological Resistance
-- Labor Organizing
+- Digital & Tech Capture
+- Labor Suppression
 ---
 
 Following a series of AI safety controversies, including Grok AIs generation of antisemitic and politically inflammatory content, a coalition of technology workers and AI ethics researchers launched a coordinated resistance movement. The campaign highlights growing concerns about ethical AI development, workplace accountability, and the potential societal risks of unregulated artificial intelligence. Key focus areas include public advocacy, workplace organizing, and technical interventions designed to establish robust safety standards and ethical guidelines for AI technologies.

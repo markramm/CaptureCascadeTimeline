@@ -30,6 +30,10 @@ sources:
   title: SVB Execs Sold Millions in Company Stock Before Collapse
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Regulatory Capture
 ---
 
 Silicon Valley Bank executives, including CEO Greg Becker, sold $84 million in stock over two years, with $3.6 million sold just two weeks before the bank's failure. The Justice Department and SEC launched investigations into these insider stock sales, which were executed under 10b5-1 trading plans. Becker sold 12,451 shares on February 27, netting approximately $3 million, while CFO Daniel Beck sold around $575,000 in shares on the same day. These sales raised significant concerns about potential insider trading and executive foreknowledge of the bank's impending financial crisis.

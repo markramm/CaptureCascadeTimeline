@@ -32,6 +32,10 @@ actors:
 - PhRMA
 - Pfizer
 - Merck
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Analysis of pharmaceutical industry campaign contributions from 1999-2018 revealed that the top 40 congressional recipients jointly received $45 million, with 39 serving on committees with health-related legislative jurisdiction—24 in senior positions. Of the top 20 House recipients, 17 served on the Energy and Commerce Committee or Ways and Means Committee, demonstrating the industry's surgical precision in targeting lawmakers who controlled healthcare legislation. During the 2008-2010 Affordable Care Act debate, Democrats captured slightly over 50% of pharmaceutical contributions, with Energy and Commerce Committee Chairman Fred Upton (R-MI) receiving $173,865 during this period.

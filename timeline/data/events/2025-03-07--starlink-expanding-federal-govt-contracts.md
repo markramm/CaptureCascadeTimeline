@@ -10,7 +10,7 @@ actors:
 - U.S. Customs and Border Protection
 capture_lanes:
 - Financial Capture
-- Technology Capture
+- Digital & Tech Capture
 capture_type: monetizing_position
 connections:
 - Trump-Musk collaboration

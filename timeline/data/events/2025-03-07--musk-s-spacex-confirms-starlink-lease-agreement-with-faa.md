@@ -13,7 +13,7 @@ importance: 6
 location: Washington, D.C.
 capture_lanes:
 - Systematic Corruption
-- Technological Infrastructure
+- Digital & Tech Capture
 capture_type: infrastructure_capture
 patterns:
 - kleptocratic-capture

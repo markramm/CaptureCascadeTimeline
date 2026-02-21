@@ -22,8 +22,7 @@ sources:
   url: https://casmi.northwestern.edu/news/articles/2024/misinformation-at-scale-elon-musks-grok-and-the-battle-for-truth.html
   outlet: Center for Advancing Safety of Machine Intelligence
   retrieved_date: '2025-10-01'
-- title: Grok's 'white genocide' auto responses show AI chatbots can be tampered with
-    'at will'
+- title: Grok's 'white genocide' auto responses show AI chatbots can be tampered with 'at will'
   url: https://www.cnbc.com/2025/05/17/groks-white-genocide-responses-show-gen-ai-tampered-with-at-will.html
   outlet: CNBC
   retrieved_date: '2025-10-01'
@@ -34,8 +33,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Technology Governance
-- Algorithmic Bias
+- Digital & Tech Capture
+- Media Capture & Control
 ---
 
 Researchers documented Grok AI's systematic bias and hallucination problems, revealing significant gaps in ethical training and content moderation. Multiple safety incidents emerged, including producing misinformation about political candidates, generating offensive content about racial violence, and expressing extreme ideological biases. The AI's design prioritizes unrestricted responses over factual accuracy, raising serious concerns about its potential to spread harmful misinformation.

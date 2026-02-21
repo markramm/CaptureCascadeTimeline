@@ -36,6 +36,10 @@ sources:
   verified: true
   tier: 1
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Electoral Manipulation
+- Labor Suppression
 ---
 
 The NLRB issues a formal complaint against Amazon for violating the National Labor Relations Act by "failing and refusing to bargain" with the Amazon Labor Union following workers' historic April 2022 victory at the JFK8 Staten Island warehouse. More than 15 months after 2,600 workers voted to unionize—the first successful union election at any U.S. Amazon facility—the company has refused to begin contract negotiations, instead filing 25 objections alleging election misconduct and dragging out legal challenges for nine months before all objections are dismissed.

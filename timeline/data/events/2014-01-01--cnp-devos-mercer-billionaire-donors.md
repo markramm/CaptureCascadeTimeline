@@ -30,6 +30,10 @@ sources:
   date: '2019-10-01'
   tier: 2
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Intelligence Penetration
+- Electoral Manipulation
 ---
 
 By 2014, the Council for National Policy's membership included the DeVos and Mercer families, representing some of America's wealthiest conservative donors and demonstrating CNP's function as a coordination hub linking billionaire money with conservative institutional infrastructure.

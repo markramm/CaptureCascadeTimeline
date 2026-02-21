@@ -40,4 +40,8 @@ sources:
   date: 2020-01-07
   tier: 2
   outlet: ABC News
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
+- Legislative Capture
 ---

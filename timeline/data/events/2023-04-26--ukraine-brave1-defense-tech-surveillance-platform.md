@@ -30,6 +30,10 @@ sources:
   date: '2024-01-15'
   tier: 1
   outlet: Center for Strategic and International Studies
+capture_lanes:
+- Digital & Tech Capture
+- Labor Suppression
+- Regulatory Capture
 ---
 
 On April 26, 2023, the Ukrainian government launched Brave1, a state-backed coordination platform designed to accelerate development of dual-use military and surveillance technologies. Founded by a coalition including the Ministry of Digital Transformation, Ministry of Defence, General Staff of the Armed Forces, National Security and Defense Council, Ministry of Strategic Industries, and Ministry of Economy, Brave1 received initial funding of 100 million hryvnias (approximately $2.7 million). The platform explicitly prioritized "scalable, interoperable tools, including AI-driven surveillance systems, cyber defense technologies, and semi-autonomous drones designed for contested environments."

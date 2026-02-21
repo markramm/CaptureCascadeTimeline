@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: CNBC
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 The House Ways and Means Committee released six years of former President Donald Trump's tax returns (2015-2020), ending a four-year legal battle and providing unprecedented public access to a sitting president's financial records. The release followed the committee's December 20, 2022 vote to make the returns public after redacting sensitive personal information. The thousands of pages of tax documents revealed Trump paid $750 in federal income taxes in 2017 (his first year as president) and $0 in 2020, despite reporting millions in income from foreign countries. More significantly, the accompanying committee report documented that the IRS failed to conduct mandatory presidential audits during Trump's first two years in office, violating longstanding policy requiring automatic examination of sitting presidents' returns—representing a complete breakdown of institutional safeguards designed to ensure presidential financial accountability.

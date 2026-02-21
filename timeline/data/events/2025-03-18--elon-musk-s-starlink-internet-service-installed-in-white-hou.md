@@ -10,29 +10,25 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion
-- Technological Infrastructure Capture
+- Digital & Tech Capture
 capture_type: regulatory_capture
 connections:
 - SpaceX federal contracts
 - White House technology infrastructure
 - Federal cybersecurity vulnerabilities
 date: '2025-03-18'
-description: Elon Musk's Starlink was installed at the White House, raising significant
-  national security concerns due to potential cybersecurity vulnerabilities and conflicts
-  of interest.
+description: Elon Musk's Starlink was installed at the White House, raising significant national security concerns due to potential cybersecurity vulnerabilities and conflicts of interest.
 id: 2025-03-18--elon-musk-s-starlink-internet-service-installed-in-white-hou
 importance: 8
 location: Washington, D.C.
-notes: Installation bypassed standard White House communication security protocols.
-  Congressional oversight initiated to investigate potential risks.
+notes: Installation bypassed standard White House communication security protocols. Congressional oversight initiated to investigate potential risks.
 patterns:
 - kleptocratic-capture
 - technological-infrastructure-manipulation
 sources:
 - date: '2025-06-10'
   outlet: Fortune
-  title: Elon Musk's Starlink Terminal Installed on White House Roof—Security Risks
-    Flagged
+  title: Elon Musk's Starlink Terminal Installed on White House Roof—Security Risks Flagged
   url: https://fortune.com/2025/06/10/elon-musk-starlink-terminal-white-house-roof-security-risk/
 - date: '2025-03-28'
   outlet: FedScoop

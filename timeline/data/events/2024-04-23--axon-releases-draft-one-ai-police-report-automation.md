@@ -49,6 +49,10 @@ sources:
   tier: 2
   outlet: Axon
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Surveillance Infrastructure
 ---
 
 On April 23, 2024, Axon released Draft One, an AI-powered system that automatically generates police report narratives from body-worn camera audio using OpenAI's GPT-4 Turbo model built on Microsoft Azure infrastructure. The system transcribes audio from Axon Body 3 and 4 cameras uploaded over LTE and produces complete report drafts within five minutes of an incident ending, addressing the fact that officers spend up to 40% of their time (15 hours per week) on report writing. By February 2025, Draft One had generated over 100,000 incident reports, saving 2.2 million minutes of officer time, with some agencies reporting up to 82% reduction in report-writing time. Draft One rapidly became Axon's fastest-growing product, demonstrating strong demand for AI automation of police documentation despite significant concerns about accuracy, bias, and the potential for AI-generated reports to legitimize false police narratives. Combined with Axon's November 2025 acquisition of Carbyne (an AI-powered 911 call platform), Draft One creates a complete end-to-end AI pipeline from emergency call intake through police encounter recording to automated report generation.

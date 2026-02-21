@@ -39,6 +39,9 @@ sources:
   outlet: Rolling Stone
   date: '2023-06-02'
   tier: 1
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
 ---
 
 On August 13, 2019, just days before his death, Jeffrey Epstein sent a letter to Larry Nassar from the Metropolitan Correctional Center in New York—a communication discovered returned to sender in the jail's mail room weeks after Epstein's suicide. The letter, which was submitted to the FBI for handwriting analysis, revealed an apparent connection between two of the most notorious sex offenders in recent American history. According to documents released in December 2025 as part of the Justice Department's Epstein files disclosure, the handwritten letter purportedly stated: 'our president also shares our love of young, nubile girls'—a shocking claim whose authenticity remains unverified as no public findings from the FBI's handwriting analysis have been released.

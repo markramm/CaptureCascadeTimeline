@@ -7,33 +7,28 @@ actors:
 - Congressman Adam Smith
 capture_lanes:
 - Executive Power Expansion
-- Cryptocurrency Influence
+- Digital & Tech Capture
 capture_type: monetizing_position
 connections:
 - Trump Family Crypto Ventures
 - World Liberty Financial
 date: '2025-05-23'
-description: Trump hosts memecoin dinner where top investors, including foreign nationals,
-  explicitly acknowledged their attempts to influence the president through cryptocurrency
-  investments
+description: Trump hosts memecoin dinner where top investors, including foreign nationals, explicitly acknowledged their attempts to influence the president through cryptocurrency investments
 id: 2025-05-23--trump-s-crypto-dinner-guests-admit-they-re-trying-to-buy-him
 importance: 8
 location: Trump National Golf Club, Sterling, Virginia
-notes: Significant ethical concerns raised about foreign influence and potential corruption
-  through cryptocurrency investment
+notes: Significant ethical concerns raised about foreign influence and potential corruption through cryptocurrency investment
 patterns:
 - kleptocratic-capture
 - foreign-influence
 sources:
 - date: '2025-05-23'
   outlet: MSNBC
-  title: Pro-Trump crypto bro Justin Sun embodied MAGA palm-greasing at Trump's crypto
-    soiree
+  title: Pro-Trump crypto bro Justin Sun embodied MAGA palm-greasing at Trump's crypto soiree
   url: https://www.msnbc.com/top-stories/latest/justin-sun-white-house-crypto-trump-meme-coin-rcna208769
 - date: '2025-05-22'
   outlet: CNN Business
-  title: At Trump's memecoin dinner, the guests — who paid for the invite — can count
-    on anonymity
+  title: At Trump's memecoin dinner, the guests — who paid for the invite — can count on anonymity
   url: https://www.cnn.com/2025/05/22/business/trump-memecoin-dinner-nightcap
 - date: '2025-05-23'
   outlet: Bloomberg

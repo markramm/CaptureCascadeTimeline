@@ -33,6 +33,10 @@ sources:
   date: 2019-11-21
   tier: 1
   outlet: C-SPAN
+capture_lanes:
+- Digital & Tech Capture
+- International Kleptocracy
+- Executive Power Expansion
 ---
 
 Former National Security Council Russia expert Dr. Fiona Hill delivered searing testimony on November 21, 2019, exposing how Rudy Giuliani ran a shadow Ukraine policy for Trump's "domestic political errand" that undermined U.S. national security and advanced Russian interests. Hill, a respected foreign policy expert who served in both Republican and Democratic administrations, testified that former National Security Advisor John Bolton called the irregular Ukraine channel a "drug deal" and instructed her to report it to NSC lawyers. In her opening statement, Hill directly confronted Republican conspiracy theories, declaring: "This is what the Russians want—to pit us against each other, to undermine our institutions, to bring down democracies."

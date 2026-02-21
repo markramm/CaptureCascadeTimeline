@@ -30,6 +30,10 @@ sources:
   date: '2024-10-22'
   tier: 1
   outlet: CIDRAP
+capture_lanes:
+- Digital & Tech Capture
+- Labor Suppression
+- Surveillance Infrastructure
 ---
 
 On October 20, 2024, the Washington State Department of Health and Benton-Franklin Health District reported the first presumptive positive cases of avian influenza A(H5) virus in agricultural workers at a commercial egg farm in Franklin County, Washington. CDC testing ultimately confirmed HPAI A(H5) virus in 8 poultry farm workers who were exposed to H5N1 virus-infected poultry during depopulation efforts to control an outbreak among poultry.

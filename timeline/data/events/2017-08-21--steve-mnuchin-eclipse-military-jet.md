@@ -30,6 +30,10 @@ sources:
   date: 2017-08-31
   tier: 1
   outlet: TIME
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Systematic Corruption
 ---
 
 Treasury Secretary Steven Mnuchin and his wife Louise Linton took a government plane to Louisville and Fort Knox, Kentucky on August 21, 2017, ostensibly for official business but coinciding with viewing the total solar eclipse. Mnuchin viewed the eclipse from the lawn of Fort Knox alongside Senate Majority Leader Mitch McConnell. The group used an Air Force C-37B at a cost of $26,900.25, approximately $9,400 more than a commercial FAA plane would have cost. Between spring and fall 2017, Mnuchin took seven separate trips on military aircraft at a total cost of nearly $1 million, with the Fort Knox eclipse trip costing $33,046 in total.

@@ -31,6 +31,10 @@ sources:
   date: 2020-08-01
   tier: 2
   outlet: BuzzFeed News
+capture_lanes:
+- Digital & Tech Capture
+- Civil Rights Suppression
+- Surveillance Infrastructure
 ---
 
 The Los Angeles Police Department launches Operation LASER (Los Angeles Strategic Extraction and Restoration), a controversial predictive policing program that runs from 2011 to 2019. The program is designed to identify and target individuals deemed at high risk of committing violent crimes using a points-based scoring system called the LASER score.

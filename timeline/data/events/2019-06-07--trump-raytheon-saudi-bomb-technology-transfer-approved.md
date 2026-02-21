@@ -40,6 +40,10 @@ actors:
 - Mohammed bin Salman
 - Mike Pompeo
 - William Hartung
+capture_lanes:
+- Digital & Tech Capture
+- International Kleptocracy
+- Military-Industrial Complex
 ---
 
 On June 7, 2019, reports revealed that the Trump administration's $8.1 billion emergency arms sale to Saudi Arabia included an unprecedented provision allowing Raytheon to transfer sensitive precision-guided munitions technology to Saudi Arabia for domestic bomb production. The deal authorized Raytheon to "team up" with Saudi partners to manufacture control systems, guidance electronics, and circuit cards essential to Paveway smart bombs inside the kingdom—technology the United States had closely guarded for national security reasons. The technology transfer would enable Saudi Arabia to develop indigenous capabilities to produce the same precision-guided weapons documented killing thousands of Yemeni civilians, ensuring the bombing campaign could continue even if future US administrations attempted to restrict weapons sales. Arms control expert William Hartung warned that "if Saudi Arabia is able to develop an indigenous bomb-making capability as a result of this deal, it will undermine US leverage to prevent them from engaging in indiscriminate strikes of the kind it has carried out in Yemen."

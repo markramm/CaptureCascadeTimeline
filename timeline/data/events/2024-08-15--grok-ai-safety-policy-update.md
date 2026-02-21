@@ -17,26 +17,23 @@ tags:
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
-- Tech Policy
+- Digital & Tech Capture
 status: confirmed
 sources:
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon
-    Musk's xAI
+  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI
   url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
 - outlet: NIST
   title: US AI Safety Institute Signs Agreements Regarding AI Safety Research
   url: https://www.nist.gov/news-events/news/2024/08/us-ai-safety-institute-signs-agreements-regarding-ai-safety-research
 - outlet: Fortune
-  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling
-    AI more 'dangerous than nukes'
+  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'
   url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
 - outlet: Bloomberg
   title: Musk's Grok AI Cleared for Use Across US Government Agencies
   url: https://www.bloomberg.com/news/articles/2025-09-25/musk-s-grok-ai-cleared-for-use-across-us-government-agencies
 - outlet: GSA.gov
-  title: GSA and xAI Partner on $0.42 per Agency Agreement to Accelerate Federal AI
-    Adoption
+  title: GSA and xAI Partner on $0.42 per Agency Agreement to Accelerate Federal AI Adoption
   url: https://www.gsa.gov/about-us/newsroom/news-releases/gsa-xai-partner-to-accelerate-federal-ai-adoption-09252025
 ---
 

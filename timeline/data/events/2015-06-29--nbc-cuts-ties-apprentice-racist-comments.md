@@ -27,6 +27,10 @@ sources:
   date: 2015-06-29
   tier: 1
   outlet: Variety
+capture_lanes:
+- Digital & Tech Capture
+- Civil Rights Suppression
+- Intelligence Penetration
 ---
 
 NBCUniversal announces on June 29, 2015, that it is ending its business relationship with Donald Trump, firing him from "The Apprentice" and cancelling the Trump-produced Miss USA and Miss Universe pageants in response to Trump's racist comments about Mexican immigrants during his presidential campaign announcement two weeks earlier. The decision follows a petition signed by over 200,000 people and comes despite Trump's highly profitable 11-year relationship with the network.

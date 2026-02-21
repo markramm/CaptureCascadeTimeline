@@ -34,6 +34,10 @@ sources:
   date: '2022-12-02'
   tier: 2
   outlet: TIME
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Regulatory Capture
 ---
 
 The U.S. Defense Department awarded Northrop Grumman a development contract for the B-21 Raider Long Range Strike Bomber on October 27, 2015, with an initial value of $21.4 billion that could eventually reach $80 billion over the program's lifetime, representing one of the largest defense contracts in history and cementing Northrop's dominance in strategic stealth bomber development. The Air Force issued the request for proposals in July 2014 and selected Northrop Grumman over a joint bid from Boeing and Lockheed Martin based primarily on cost considerations, with plans to purchase at least 100 of the stealth intercontinental strategic bombers capable of delivering both conventional and thermonuclear weapons.

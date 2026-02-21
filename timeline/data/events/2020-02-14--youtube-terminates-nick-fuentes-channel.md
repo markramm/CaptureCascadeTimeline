@@ -19,6 +19,10 @@ sources:
   outlet: Southern Poverty Law Center
   tier: 1
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Media Capture & Control
+- Financial Capture
 ---
 
 YouTube permanently terminated white nationalist Nick Fuentes' channel for violating its hate speech policies, marking the beginning of widespread deplatforming across major tech platforms. Fuentes had built a significant following through his "America First" livestream show, which promoted white nationalist, antisemitic, and homophobic content. The ban represented YouTube's response to growing pressure to address extremist content, particularly following Fuentes' role in organizing the Groyper Wars campaign against mainstream conservative organizations. This deplatforming would be followed by bans from nearly every major social media platform over the next 18 months, including Twitter, Facebook, Instagram, DLive, and even financial services. By March 2021, Fuentes had been suspended from "almost all" mainstream social media sites, forcing him to rely on alternative platforms and encrypted messaging apps like Telegram to communicate with his followers. The YouTube ban was particularly significant as it removed Fuentes' primary platform for broadcasting his daily show to a national audience.

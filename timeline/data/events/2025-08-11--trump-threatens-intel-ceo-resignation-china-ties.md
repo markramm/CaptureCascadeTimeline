@@ -28,6 +28,9 @@ sources:
   date: '2025-08-17'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 Trump demanded Intel CEO Lip-Bu Tan resign immediately over alleged China ties, claiming he is 'highly conflicted' due to $200 million in investments in Chinese semiconductor firms. Days later, Trump reversed course after meeting Tan, calling his 'success and rise an amazing story.'

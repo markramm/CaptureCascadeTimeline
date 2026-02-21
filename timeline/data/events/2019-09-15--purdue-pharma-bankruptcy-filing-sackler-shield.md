@@ -34,6 +34,10 @@ sources:
   date: '2019-11-06'
   tier: 2
   outlet: The Washington Post
+capture_lanes:
+- Digital & Tech Capture
+- Corporate Capture
+- Judicial Capture
 ---
 
 On September 15, 2019, Purdue Pharma filed for Chapter 11 bankruptcy protection after facing thousands of lawsuits from states, local governments, Native American tribes, and victims related to the opioid crisis. The bankruptcy filing was a strategic maneuver designed to shield the billionaire Sackler family from civil liability while allowing them to retain billions extracted from the company in previous years.

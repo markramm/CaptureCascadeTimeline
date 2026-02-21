@@ -107,4 +107,8 @@ sources:
   date: 2025-12-19
   tier: 2
   outlet: Roll Call
+capture_lanes:
+- Digital & Tech Capture
+- Legislative Capture
+- Surveillance Infrastructure
 ---

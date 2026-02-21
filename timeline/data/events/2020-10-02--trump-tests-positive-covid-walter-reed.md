@@ -31,6 +31,10 @@ sources:
   tier: 1
   outlet: ABC News
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Electoral Manipulation
+- Executive Power Expansion
 ---
 
 President Trump tested positive for COVID-19 on October 2, 2020, and was flown by Marine One helicopter to Walter Reed National Military Medical Center that evening, where he received an experimental monoclonal antibody cocktail developed by Regeneron Pharmaceuticals under "compassionate use" authorization—a treatment not yet approved by the FDA and available to only "a small handful" of patients based on "exceptional circumstances." The 74-year-old president, who was clinically overweight and therefore at elevated risk for severe COVID complications, also received the antiviral drug remdesivir, along with zinc, vitamin D, famotidine, melatonin, and daily aspirin. Trump's infection came just days after the September 26 Rose Garden superspreader event where he had announced Amy Coney Barrett's Supreme Court nomination, and his hospitalization represented the most serious presidential health crisis in decades—one that was entirely preventable and directly resulted from the administration's deliberate disregard for basic pandemic safety measures.

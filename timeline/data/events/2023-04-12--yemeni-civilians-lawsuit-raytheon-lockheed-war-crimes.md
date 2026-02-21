@@ -29,6 +29,10 @@ actors:
 - General Dynamics
 - Yemeni civilians
 - Saudi Arabia
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Labor Suppression
 ---
 
 On April 12, 2023, Yemeni civilians filed a lawsuit against Lockheed Martin, Raytheon, and General Dynamics—three of the five largest US defense contractors—alleging that the companies supported war crimes by selling weapons to the Saudi Arabia and UAE-led coalition forces during the Yemen civil war. The lawsuit represented one of the first attempts by conflict victims to hold US defense contractors legally accountable for their weapons' documented use in systematic violations of international humanitarian law. Plaintiffs included survivors and families of victims from attacks including the August 2018 school bus bombing that killed 40 children, multiple funeral and wedding attacks, hospital strikes, and attacks on civilian infrastructure. The lawsuit alleged that the contractors knew or should have known that their weapons were being used to commit war crimes, yet continued sales driven by profit motives while making minimal efforts to prevent civilian casualties or demand coalition accountability. The legal action highlighted the accountability gap where contractors profited from weapons documented in atrocities yet faced no criminal or civil liability under existing legal frameworks.

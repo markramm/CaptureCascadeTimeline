@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Surveillance Infrastructure
 ---
 
 A nine-person federal jury in Manhattan found Donald Trump liable for sexually abusing and defaming E. Jean Carroll, awarding her $5 million in damages after deliberating for less than three hours in a civil trial presided over by U.S. District Judge Lewis A. Kaplan. The verdict, reached on May 9, 2023, marked the first time Trump had been found legally responsible for sexual assault and represented a historic moment in American jurisprudence—a jury determining that a former U.S. president committed sexual violence. The jury awarded Carroll $2 million in compensatory damages for battery, along with $20,000 in punitive damages, and $2.7 million in compensatory damages plus $280,000 in punitive damages for defamation based on Trump's October 2022 statements on Truth Social calling Carroll's allegations "a complete con job" and "a Hoax and a lie." Significantly, the jury concluded that Carroll had proven Trump sexually abused her but did not find sufficient evidence to meet New York Penal Law's narrow technical definition of rape, which requires penile penetration specifically.

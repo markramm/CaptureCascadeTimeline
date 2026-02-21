@@ -8,12 +8,10 @@ sources:
   title: Elon Musk released xAI's Grok 4 without any safety reports
   url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon
-    Musk's xAI
+  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI
   url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
 - outlet: CBS News
-  title: Pentagon to start using Grok as part of a $200 million contract with Elon
-    Musk's xAI
+  title: Pentagon to start using Grok as part of a $200 million contract with Elon Musk's xAI
   url: https://www.cbsnews.com/news/grok-elon-musk-xai-pentagon-contract/
 tags:
 - ai-safety
@@ -28,7 +26,7 @@ actors:
 - Boaz Barak
 - Dan Hendrycks
 capture_lanes:
-- Technological Infrastructure
+- Digital & Tech Capture
 - Media Capture & Control
 - Regulatory Capture
 status: validated

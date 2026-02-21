@@ -31,6 +31,10 @@ sources:
   date: 2022-01-01
   tier: 1
   outlet: MacArthur Justice Center
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Surveillance Infrastructure
 ---
 
 The reliability and accuracy of ShotSpotter's gunshot detection technology face a major crisis in August 2021 as the Chicago Office of Inspector General releases a damning report on the system's effectiveness, while the Michael Williams case exposes evidence that ShotSpotter analysts modified forensic reports at police request.

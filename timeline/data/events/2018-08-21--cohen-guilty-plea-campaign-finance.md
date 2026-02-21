@@ -32,6 +32,10 @@ sources:
   date: 2018-08-21
   tier: 1
   outlet: PBS NewsHour
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 Michael Cohen, President Donald Trump's longtime personal attorney and fixer, pleaded guilty in Manhattan federal court to eight felony counts, including campaign finance violations that he stated were committed "in coordination with and at the direction of a candidate for federal office"—a clear reference to Trump. In his sworn allocution before U.S. District Judge William H. Pauley III, Cohen admitted to orchestrating illegal hush money payments to two women who alleged affairs with Trump, specifically to influence the outcome of the 2016 presidential election.

@@ -27,6 +27,10 @@ sources:
   outlet: Air & Space Forces Magazine
   date: '2024-04-24'
   tier: 3
+capture_lanes:
+- Digital & Tech Capture
+- Labor Suppression
+- Military-Industrial Complex
 ---
 
 The U.S. Air Force selected Anduril Industries and General Atomics to develop Collaborative Combat Aircraft (CCA) autonomous fighter jets, beating defense giants Lockheed Martin, Northrop Grumman, and Boeing. The CCA program aims to deliver at least 1,000 unmanned combat aircraft equipped with advanced sensors and weapons to fly alongside manned platforms like the F-35. Anduril's YFQ-44 'Fury' autonomous fighter jet, acquired through the purchase of Blue Force Technologies, became the centerpiece of the company's bid. The Air Force requested $577.1 million for CCA in fiscal 2025 and plans $8.9 billion spending through FY29. This contract represents a paradigm shift in Pentagon procurement, with a seven-year-old Silicon Valley startup defeating century-old defense contractors to build the next generation of autonomous combat aircraft. The program explicitly frames AI-powered drones as 'force multipliers' and 'low-cost, modular' weapons platforms, industrializing autonomous warfare at unprecedented scale.

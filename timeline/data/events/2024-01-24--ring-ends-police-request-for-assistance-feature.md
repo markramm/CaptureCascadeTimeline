@@ -3,8 +3,7 @@ actors:
 - Ring
 - Amazon
 capture_lanes:
-- Policy Reversal
-- Privacy Protection
+- Digital & Tech Capture
 - Surveillance Infrastructure
 date: '2024-01-24'
 id: 2024-01-24--ring-ends-police-request-for-assistance-feature

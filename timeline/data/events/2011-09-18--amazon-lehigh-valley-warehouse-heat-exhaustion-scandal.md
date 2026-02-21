@@ -28,6 +28,10 @@ sources:
   tier: 1
   outlet: Columbia Journalism Review
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Corporate Capture
+- Labor Suppression
 ---
 
 # Amazon Lehigh Valley Warehouse Heat Exhaustion Scandal Exposed

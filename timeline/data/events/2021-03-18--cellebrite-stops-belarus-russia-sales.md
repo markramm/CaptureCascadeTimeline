@@ -30,6 +30,10 @@ sources:
   date: '2021-04-01'
   tier: 2
   outlet: Business & Human Rights Resource Centre
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Surveillance Infrastructure
 ---
 
 Cellebrite announces it will immediately halt all sales of its digital intelligence solutions and services to customers in the Russian Federation and Belarus, following revelations that its technologies were used by state officials to persecute opposition activists, minority groups, and LGBTQI+ rights defenders. Human rights lawyer Eitay Mack and dozens of activists in Israel and Hong Kong expose documents linking Cellebrite's UFED software to state persecution of political opposition and ethnic minorities in Russia, Belarus, Hong Kong, and Bangladesh. Evidence shows that between 2013 and 2019, Belarus's Investigative Committee and Forensic Analysis Committee purchased UFED software, renewed licenses, and secured technical support from Cellebrite, with the Belarusian regime using these tools to hack phones of detained protest participants. The decision comes as Cellebrite prepares to go public, submitting documents to the U.S. Securities and Exchange Commission that acknowledge "key risks" that its products are used to violate human rights and could damage the company's reputation. Cellebrite also pledges to cease business with repressive regimes in Bangladesh and Venezuela and to form an ethics advisory committee. However, critics note the company has not addressed reported transactions with governments in Bahrain, Vietnam, Botswana, and continues sales to China even after claiming withdrawal. Human rights organization Access Now criticizes Cellebrite's "disastrous human rights record" and argues a company that openly acknowledges dangers its technology poses yet continues providing it to authoritarian regimes cannot be trusted to sufficiently mitigate abuses without external oversight.

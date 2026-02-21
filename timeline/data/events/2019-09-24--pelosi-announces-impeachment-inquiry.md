@@ -31,6 +31,10 @@ sources:
   date: 2019-09-24
   tier: 1
   outlet: C-SPAN
+capture_lanes:
+- Digital & Tech Capture
+- Legislative Capture
+- Executive Power Expansion
 ---
 
 House Speaker Nancy Pelosi announced a formal impeachment inquiry into President Trump on September 24, 2019, marking a historic turning point after revelations that Trump pressured Ukraine to investigate Joe Biden while withholding military aid. In a solemn address from the Speaker's Balcony Hallway, Pelosi declared that "the actions of the Trump presidency revealed the dishonorable fact of the President's betrayal of his oath of office, betrayal of our national security, and betrayal of the integrity of our elections." The announcement came after months of Pelosi resisting calls for impeachment from progressive House Democrats, but the Ukraine scandal—involving solicitation of foreign interference in a U.S. election—crossed a clear constitutional line that unified the Democratic caucus.

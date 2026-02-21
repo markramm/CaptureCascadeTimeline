@@ -48,6 +48,10 @@ sources:
   outlet: ABC News
   date: '2021-09-14'
   tier: 1
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Surveillance Infrastructure
 ---
 
 On December 13, 2021, U.S. Bankruptcy Judge Robyn Moberly confirmed a joint Plan of Reorganization providing a $380 million settlement for sexual abuse survivors and enabling USA Gymnastics to emerge from bankruptcy after three years of proceedings. Over 90% of the more than 500 victims voted in favor of the settlement, which included $34 million from the U.S. Olympic & Paralympic Committee (USOPC) and $73 million from insurers. The settlement marked the culmination of USA Gymnastics' December 5, 2018 bankruptcy filing—a strategic legal maneuver that limited liability while the organization faced hundreds of lawsuits from survivors of Larry Nassar and other coaches affiliated with USA Gymnastics.

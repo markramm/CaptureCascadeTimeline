@@ -37,7 +37,7 @@ patterns:
 - financial-transformation
 capture_lanes:
 - Financial Capture
-- Cryptocurrency Regulation
+- Digital & Tech Capture
 notes: Event demonstrates significant regulatory innovation in financial asset recognition, aligned with Trump administration's cryptocurrency policy goals.
 additional_context:
   policy_objective: Establish U.S. as global cryptocurrency financial hub

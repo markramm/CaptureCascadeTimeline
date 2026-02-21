@@ -30,6 +30,10 @@ actors:
 - U.S. Congress
 - K Street
 - Public Citizen
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 The Honest Leadership and Open Government Act took full effect after President Bush signed it into law, implementing new ethics rules designed to slow the revolving door between Congress and lobbying firms. The law extended cooling-off periods from one to two years for senators and established a one-year restriction for House members and senior staff before they could lobby their former colleagues. However, research analyzing the law's impact found it largely failed to slow the revolving door—lobbyists simply found alternative roles as "strategic advisors" during cooling-off periods, while the percentage of former lawmakers becoming lobbyists continued its decades-long increase.

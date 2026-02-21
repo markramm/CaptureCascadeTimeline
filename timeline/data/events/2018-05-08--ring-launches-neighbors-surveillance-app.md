@@ -4,8 +4,7 @@ actors:
 - Amazon
 capture_lanes:
 - Surveillance Infrastructure
-- Community Monitoring
-- Privacy Erosion
+- Digital & Tech Capture
 date: '2018-05-08'
 id: 2018-05-08--ring-launches-neighbors-surveillance-app
 importance: 7

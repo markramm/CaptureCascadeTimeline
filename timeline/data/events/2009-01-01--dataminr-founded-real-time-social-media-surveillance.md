@@ -33,6 +33,10 @@ sources:
   tier: 2
   outlet: CNBC
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Media Capture & Control
+- Surveillance Infrastructure
 ---
 
 Dataminr was founded in New York City by Yale University graduates Ted Bailey, Sam Hendel, and Jeff Kinsey to provide real-time monitoring and analysis of social media data streams. The company secured a direct licensing agreement with Twitter to purchase the platform's complete "firehose" of public tweets, positioning itself as a critical intermediary between social media platforms and government, corporate, and financial sector clients seeking instant alerts about emerging events, trends, and potential threats. Unlike traditional social media analytics firms, Dataminr specialized in algorithmic detection of breaking news and significant events from billions of social media posts, providing what it marketed as unparalleled "situational awareness" capabilities.

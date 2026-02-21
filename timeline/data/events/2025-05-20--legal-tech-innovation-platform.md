@@ -1,8 +1,7 @@
 ---
 id: 2025-05-20--legal-tech-innovation-platform
 date: '2025-05-20'
-title: Advanced Legal Resistance Technology Platform Launched with AI-Powered Research
-  Tools
+title: Advanced Legal Resistance Technology Platform Launched with AI-Powered Research Tools
 importance: 7
 actors:
 - Legal Tech Innovators
@@ -29,7 +28,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Technological Innovation
+- Digital & Tech Capture
 ---
 
 Advanced legal technology platform launched, integrating AI-powered research tools to enhance legal resistance networks. Developed by interdisciplinary teams from Harvard and MIT, the platform offers automated document analysis, real-time constitutional threat monitoring, and AI-assisted legal research. Aims to democratize access to sophisticated legal technology while addressing potential technological disparities in legal service delivery.

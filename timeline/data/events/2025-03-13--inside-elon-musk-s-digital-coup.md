@@ -2,9 +2,7 @@
 id: 2025-03-13--inside-elon-musk-s-digital-coup
 date: '2025-03-13'
 title: Inside Elon Musk's 'Digital Coup' in Trump Administration
-description: Elon Musk's operatives have rewritten federal systems, slashed budgets,
-  and centralized power across government through strategic infiltration and massive
-  personnel changes.
+description: Elon Musk's operatives have rewritten federal systems, slashed budgets, and centralized power across government through strategic infiltration and massive personnel changes.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -36,11 +34,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - institutional-transformation
-notes: Musk appointed as a 'special government employee' with significant yet nebulous
-  authority, raising concerns about conflict of interest and democratic oversight.
+notes: Musk appointed as a 'special government employee' with significant yet nebulous authority, raising concerns about conflict of interest and democratic oversight.
 capture_lanes:
 - Financial Capture
-- Technological Capture
+- Digital & Tech Capture
 ---
 
 Elon Musk, operating through the Department of Government Efficiency (DOGE), gained unprecedented access to federal systems, including Treasury and Personnel Management databases, enabling radical restructuring and potential conflicts of interest.

@@ -33,7 +33,7 @@ id: 2019-01-01--vance-returns-to-ohio-launches-narya-capital
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Regulatory Capture
-- Silicon Valley Power Networks
+- Digital & Tech Capture
 ---
 
 J.D. Vance returns to Ohio and co-founds Narya Capital venture firm with $93 million in capital, backed by Peter Thiel, Eric Schmidt, Marc Andreessen, and Scott Dorsey. The firm focuses on investing in startups in under-served cities across fields of science and advanced technology.

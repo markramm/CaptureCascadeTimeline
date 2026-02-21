@@ -30,8 +30,8 @@ actors:
 - Simone Robutti
 capture_lanes:
 - Regulatory Capture
-- Technological Resistance
-- Labor Organizing
+- Digital & Tech Capture
+- Labor Suppression
 ---
 
 In 2018, the Tech Workers Coalition (TWC) dramatically expanded its global presence, establishing 21 international chapters to create a systematic framework for technological resistance. This expansion built upon key organizing efforts from previous years, including the influential Google Walkouts and Project Maven resistance. TWC developed comprehensive protocols for ethical technology development, employee organizing, and collective action against corporate projects that compromise democratic values. By creating a networked resistance model, they established precedents for institutional resistance within technology sectors, focusing on workers rights, social justice, and economic inclusion.

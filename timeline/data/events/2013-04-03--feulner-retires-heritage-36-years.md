@@ -80,4 +80,6 @@ sources:
   date: 2025-07-20
   tier: 2
   outlet: City Journal
+capture_lanes:
+- Digital & Tech Capture
 ---

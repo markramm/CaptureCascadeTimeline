@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 Mark Sandy, a career Office of Management and Budget (OMB) official serving as deputy associate director for national security programs, testified to House impeachment investigators on November 16, 2019, revealing that two of his OMB colleagues resigned in protest over concerns that Trump's freeze of Ukraine military aid violated the Impoundment Control Act of 1974. Sandy's testimony provided critical insider evidence that career officials within the White House budget office recognized the aid freeze as potentially illegal and that the normal budget process was hijacked by political appointees to execute Trump's scheme to pressure Ukraine. His account documented how political appointee Michael Duffey took over approval of the aid hold on July 30—just five days after Trump's July 25 call with Ukrainian President Volodymyr Zelensky—in an unusual substitution that sidelined career budget professionals.

@@ -15,7 +15,7 @@ tags:
 - transportation-safety
 capture_lanes:
 - Systematic Corruption
-- Technological Infrastructure
+- Digital & Tech Capture
 capture_type: technological_intervention
 sources:
 - outlet: The Hill
@@ -27,8 +27,7 @@ sources:
   date: '2025-02-27'
   url: https://www.cnn.com/2025/02/27/business/elon-musk-faa-air-traffic-control-failing-spacex
 - outlet: CNBC
-  title: Musk says he's sending Starlink tech to FAA while claiming air safety is
-    'at risk'
+  title: Musk says he's sending Starlink tech to FAA while claiming air safety is 'at risk'
   date: '2025-02-27'
   url: https://www.cnbc.com/2025/02/27/elon-musk-starlink-faa-safety-claims.html
 - outlet: Axios

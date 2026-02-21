@@ -46,6 +46,10 @@ sources:
   date: 2021-11-09
   tier: 1
   outlet: House Committee on Oversight and Accountability
+capture_lanes:
+- Digital & Tech Capture
+- Electoral Manipulation
+- Systematic Corruption
 ---
 
 The U.S. Office of Special Counsel released a comprehensive investigative report documenting that 13 senior Trump administration officials violated the Hatch Act prior to the 2020 election, with the violations characterized as demonstrating "willful disregard for the law" and occurring "without consequence and with the administration's approval." The report detailed systematic ethical violations across two main categories: eleven officials committed violations during official media appearances, and two officials violated the law in connection with the Republican National Convention's unprecedented use of federal property and resources.

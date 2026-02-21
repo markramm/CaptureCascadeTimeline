@@ -23,6 +23,10 @@ sources:
   date: 2021-03-26
   tier: 2
   outlet: TechCrunch
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Regulatory Capture
 ---
 
 Chainalysis announces a $100 million Series E financing led by Coatue, bringing its valuation to $4.2 billion and establishing the company as the dominant player in the cryptocurrency surveillance industry. The funding round comes just three months after a $100 million Series D round in March 2021 that valued the company at $2 billion, demonstrating explosive investor confidence in the blockchain analytics market.

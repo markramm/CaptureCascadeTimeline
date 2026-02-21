@@ -1,11 +1,7 @@
 ---
 date: '2013-01-03'
 title: Google's Political Influence Derails FTC Antitrust Investigation
-description: In a landmark moment of regulatory capture, the FTC closed its investigation
-  into Google's potentially anticompetitive practices, ignoring recommendations from
-  its own staff attorneys who believed Google was causing "real and substantial harm"
-  to competitors. The investigation revealed the extensive political infrastructure
-  Google had built, including 230 White House meetings and significant lobbying expenditures.
+description: In a landmark moment of regulatory capture, the FTC closed its investigation into Google's potentially anticompetitive practices, ignoring recommendations from its own staff attorneys who believed Google was causing "real and substantial harm" to competitors. The investigation revealed the extensive political infrastructure Google had built, including 230 White House meetings and significant lobbying expenditures.
 actors:
 - Federal Trade Commission
 - Google Inc.
@@ -45,7 +41,7 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 - Executive Power Expansion
-- Tech Industry Political Influence
+- Digital & Tech Capture
 capture_type: institutional_manipulation
 patterns:
 - corporate-political-infrastructure
@@ -53,8 +49,7 @@ patterns:
 connections:
 - Tech industry lobbying strategies
 - White House political access networks
-notes: Exemplary case study of how extensive political networking can neutralize potential
-  antitrust enforcement.
+notes: Exemplary case study of how extensive political networking can neutralize potential antitrust enforcement.
 ---
 
 The Federal Trade Commission closed its 19-month antitrust investigation of Google without bringing charges, despite internal staff recommendations for legal action. With 230 White House meetings in 2012-2013, Google demonstrated unprecedented political access, ultimately avoiding significant regulatory consequences.

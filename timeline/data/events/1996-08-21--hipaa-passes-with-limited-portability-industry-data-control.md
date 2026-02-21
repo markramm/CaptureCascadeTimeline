@@ -16,7 +16,7 @@ tags:
 - data-privacy
 - portability
 sources:
-- title: 'Health Insurance Portability and Accountability Act of 1996'
+- title: Health Insurance Portability and Accountability Act of 1996
   outlet: Congress.gov
   url: https://www.congress.gov/bill/104th-congress/house-bill/3103
   date: '1996-08-21'
@@ -29,9 +29,8 @@ sources:
   url: https://jamanetwork.com/journals/jama
   date: '2013-01-01'
 capture_lanes:
-- Healthcare Industry Capture
 - Regulatory Capture
-- Data Control
+- Digital & Tech Capture
 status: confirmed
 ---
 

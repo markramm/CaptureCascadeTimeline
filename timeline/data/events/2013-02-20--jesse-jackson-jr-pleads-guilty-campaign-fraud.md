@@ -39,4 +39,8 @@ sources:
   date: 2013-02-20
   tier: 1
   outlet: FBI
+capture_lanes:
+- Digital & Tech Capture
+- Systematic Corruption
+- Legislative Capture
 ---

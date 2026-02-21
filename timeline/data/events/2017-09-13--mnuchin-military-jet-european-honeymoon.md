@@ -30,6 +30,10 @@ sources:
   date: 2017-09-14
   tier: 1
   outlet: NBC News
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Systematic Corruption
 ---
 
 Treasury Secretary Steven Mnuchin requested use of a government jet to take him and his wife Louise Linton on their honeymoon to Scotland, France, and Italy in summer 2017, sparking an inquiry by the Treasury Department's Office of Inspector General. The highly unusual request for a U.S. Air Force jet, which could cost approximately $25,000 per hour to operate, was put in writing by Mnuchin's office but was deemed unnecessary after further consideration by Treasury Department officials. A Treasury spokesman claimed Mnuchin requested government travel for his honeymoon out of concern for maintaining secure communications, as "the secretary is a member of the National Security Council and has responsibility for the Office of Terrorism and Financial Intelligence."

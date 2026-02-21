@@ -73,4 +73,8 @@ sources:
   date: 2025-12-11
   tier: 1
   outlet: U.S. House of Representatives
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Legislative Capture
 ---

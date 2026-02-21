@@ -28,6 +28,10 @@ sources:
   date: 2016-06-21
   tier: 1
   outlet: PolitiFact
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Intelligence Penetration
 ---
 
 Trump Entertainment Resorts filed for Chapter 11 bankruptcy protection on February 17, 2009, after missing a $53.1 million bond payment, marking the sixth bankruptcy of a Trump casino company in 18 years. Just four days before the filing, on February 13, Donald Trump resigned as chairman of the company's board, and his daughter Ivanka Trump also quit the board, as Trump distanced himself from the failing enterprise. The company faced $1.2 billion in debt amid the 2008 financial crisis and the collapse of the Atlantic City gaming market. Trump's ownership stake was reduced to just 10 percent, and he later fought to remove his name from the casinos entirely.

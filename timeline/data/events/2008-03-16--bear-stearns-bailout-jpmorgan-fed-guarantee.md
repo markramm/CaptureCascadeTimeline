@@ -34,6 +34,10 @@ sources:
   tier: 2
   outlet: Institute for New Economic Thinking
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Financial Capture
 ---
 
 Bear Stearns, the fifth-largest investment bank in the United States with $400 billion in reported consolidated assets, collapsed in March 2008 after its liquidity pool plummeted from $18.1 billion on March 10 to just $2 billion on March 13. The firm had leveraged its capital up to 35 times—maintaining only a 3% risk-absorption cushion during a period of extreme market volatility driven by mortgage-backed securities losses. On March 14, 2008, the Federal Reserve Board authorized the Federal Reserve Bank of New York to extend a $12.9 billion emergency bridge loan to Bear Stearns through JPMorgan Chase to prevent immediate bankruptcy. The intervention represented an unprecedented use of Federal Reserve emergency powers, with former Fed Chairman Paul Volcker stating on April 8, 2008, that the Fed had taken actions that "extend to the very edge of its lawful and implied powers." The collapse was directly caused by Bear Stearns' reckless trading in subprime mortgage-backed securities and collateralized debt obligations, the same instruments that would trigger the global financial crisis months later.

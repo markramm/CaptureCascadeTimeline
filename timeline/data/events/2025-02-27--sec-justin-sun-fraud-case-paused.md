@@ -7,7 +7,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Cryptocurrency Regulation
+- Digital & Tech Capture
 capture_type: regulatory_capture
 connections: []
 date: '2025-02-27'

@@ -59,4 +59,7 @@ sources:
   date: 2025-12-22
   tier: 2
   outlet: SourceWatch
+capture_lanes:
+- Digital & Tech Capture
+- Media Capture & Control
 ---

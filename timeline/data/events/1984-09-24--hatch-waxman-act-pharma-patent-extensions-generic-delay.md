@@ -28,9 +28,8 @@ sources:
   url: https://harvardlawreview.org
   date: '2018-01-01'
 capture_lanes:
-- Healthcare Industry Capture
 - Regulatory Capture
-- Patent System Abuse
+- Digital & Tech Capture
 status: confirmed
 ---
 

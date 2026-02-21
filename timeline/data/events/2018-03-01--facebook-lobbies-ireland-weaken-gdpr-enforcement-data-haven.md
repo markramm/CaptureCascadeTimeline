@@ -1,7 +1,7 @@
 ---
 id: 2018-03-01--facebook-lobbies-ireland-weaken-gdpr-enforcement-data-haven
 date: '2018-03-01'
-title: 'Facebook Lobbies Irish Government to Weaken GDPR Enforcement, Creates EU Data Protection Haven'
+title: Facebook Lobbies Irish Government to Weaken GDPR Enforcement, Creates EU Data Protection Haven
 importance: 8
 actors:
 - Facebook
@@ -19,22 +19,22 @@ tags:
 - eu
 - data-protection
 sources:
-- title: 'Irish DPC greenlights Facebooks GDPR bypass'
+- title: Irish DPC greenlights Facebooks GDPR bypass
   url: https://noyb.eu/en/irish-dpc-greenlights-facebooks-gdpr-bypass
   outlet: noyb (None of Your Business)
   date: '2018-05-25'
   tier: 2
-- title: 'Facebooks lobbying practices on data privacy called into question'
+- title: Facebooks lobbying practices on data privacy called into question
   url: https://siliconrepublic.com/companies/facebook-lobbying-ireland
   outlet: Silicon Republic
   date: '2018-04-17'
   tier: 2
-- title: 'Irelands DPC responds to baseless Facebook lobbying accusations'
+- title: Irelands DPC responds to baseless Facebook lobbying accusations
   url: https://www.siliconrepublic.com/enterprise/irelands-dpc-facebook-privacy-gdpr
   outlet: Silicon Republic
   date: '2018-05-25'
   tier: 2
-- title: 'Meta fined record €1.2bn by Irish regulator for violating European privacy rules'
+- title: Meta fined record €1.2bn by Irish regulator for violating European privacy rules
   url: https://www.irishtimes.com/technology/big-tech/2023/05/22/facebook-owner-meta-fined-record-12bn-by-irish-regulator-for-violating-european-privacy-rules/
   outlet: Irish Times
   date: '2023-05-22'
@@ -42,9 +42,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Privacy Evasion
-- Lobbying Infrastructure
-- EU Regulation Undermining
+- Digital & Tech Capture
 ---
 
 Facebook intensively lobbies the Irish government and Data Protection Commission in advance of GDPR implementation, successfully negotiating weaker enforcement and regulatory interpretation that allows continued surveillance practices. The lobbying campaign creates Ireland as a data protection "haven" within the EU where Facebook faces minimal GDPR enforcement despite processing data for hundreds of millions of European users.

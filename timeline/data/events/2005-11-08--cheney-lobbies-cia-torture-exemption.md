@@ -39,6 +39,10 @@ sources:
   date: '2014-12-14'
   tier: 1
   outlet: ACLU
+capture_lanes:
+- Digital & Tech Capture
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 Vice President Dick Cheney and CIA Director Porter Goss personally lobby Senator John McCain in an extraordinary attempt to exempt CIA officers from proposed legislation banning "cruel, inhuman or degrading treatment" of any detainee held by the U.S. government. Despite the Senate voting 90-9 to approve McCain's anti-torture amendment, Cheney aggressively pushes for a carve-out allowing the CIA to continue using enhanced interrogation techniques at black site prisons. The lobbying effort exposes the administration's commitment to preserving its torture program despite overwhelming congressional opposition and growing international condemnation.

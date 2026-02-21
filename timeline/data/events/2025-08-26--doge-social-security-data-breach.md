@@ -39,9 +39,8 @@ sources:
   type: professional organization report
   url: https://www.narfe.org/blog/2025/09/02/doge-compromised-social-security-data/
 capture_lanes:
-- Data Privacy Breach
-- Institutional Inefficiency
-- Systemic Risk
+- Digital & Tech Capture
+- Systematic Corruption
 tags:
 - data-breach
 - whistleblower

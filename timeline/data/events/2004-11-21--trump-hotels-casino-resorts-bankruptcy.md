@@ -28,6 +28,10 @@ sources:
   date: 2017
   tier: 1
   outlet: University of Tennessee College of Law
+capture_lanes:
+- Digital & Tech Capture
+- Corporate Capture
+- Financial Capture
 ---
 
 Trump Hotels and Casino Resorts, the publicly traded company that operated Trump's Atlantic City casino empire, filed for Chapter 11 bankruptcy protection on November 21, 2004, unable to make a $73 million interest payment due November 1. The company was drowning in approximately $1.8 billion of debt accumulated from years of overleveraged casino operations and unsuccessful expansion attempts. The bankruptcy forced Trump to relinquish his CEO title and drastically reduce his ownership stake from 47 percent to 27 percent, though he remained the largest individual shareholder and maintained his role as chairman.

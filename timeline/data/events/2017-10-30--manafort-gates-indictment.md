@@ -31,6 +31,10 @@ sources:
   date: 2017-10-30
   tier: 1
   outlet: PBS NewsHour
+capture_lanes:
+- Digital & Tech Capture
+- Legislative Capture
+- Labor Suppression
 ---
 
 Special Counsel Robert Mueller unsealed the first indictments in his Russia investigation, charging former Trump campaign chairman Paul Manafort and his longtime business associate Rick Gates with 12 criminal counts. The charges include conspiracy against the United States, conspiracy to launder money, serving as unregistered agents of a foreign principal, making false and misleading statements under the Foreign Agents Registration Act (FARA), and seven counts of failure to file reports of foreign bank and financial accounts.

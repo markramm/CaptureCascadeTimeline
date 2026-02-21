@@ -37,6 +37,10 @@ sources:
   outlet: ProPublica
   date: '2023-03-13'
   tier: 2
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Regulatory Capture
 ---
 
 California regulators close Silicon Valley Bank and appoint the FDIC as receiver after a catastrophic bank run, marking the third-largest bank failure in U.S. history and the largest since the 2008 financial crisis. SVB, the 16th largest U.S. bank with $212 billion in assets, collapses due to massive unrealized losses on long-term securities as Federal Reserve interest rate hikes decimated the market value of bonds purchased during the low-rate environment of 2021. The failure is directly linked to the 2018 Dodd-Frank rollback (S.2155) that CEO Greg Becker lobbied for: SVB was exempted from stress tests, enhanced liquidity standards, and capital requirements that would have forced the bank to account for interest rate risk. The Federal Reserve's own April 2023 review confirms 'regulatory standards for SVB were too low' and that 'the Board's tailoring approach in response to EGRRCPA impeded effective supervision by reducing standards and promoting a less assertive supervisory approach.' SVB served nearly half of all U.S. venture capital-backed tech and healthcare companies, creating concentration risk, and 94% of deposits exceeded the $250,000 FDIC insurance limit. Senator Elizabeth Warren argues 'Had Congress and the Federal Reserve not rolled back stricter oversight, SVB would have been subject to stronger liquidity and capital requirements to withstand financial shocks.' The collapse triggers a broader regional banking crisis, forcing emergency FDIC interventions including guaranteeing all deposits to prevent systemic contagion.

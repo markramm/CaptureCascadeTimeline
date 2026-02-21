@@ -40,7 +40,7 @@ patterns:
 notes: Event demonstrates systematic infiltration of federal financial systems by private actors
 capture_lanes:
 - Financial Capture
-- Technological Capture
+- Digital & Tech Capture
 ---
 
 In an unprecedented move, Elon Musk's Department of Government Efficiency (DOGE) secured access to the U.S. Treasury's federal payment system, sparking intense controversy among Democratic senators who view this as a potential risk to national financial infrastructure and personal data privacy.

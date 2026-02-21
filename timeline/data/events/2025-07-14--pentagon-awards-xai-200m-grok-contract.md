@@ -37,7 +37,7 @@ patterns:
 notes: Contract awarded despite recent controversies surrounding Grok AI's problematic content generation
 capture_lanes:
 - Regulatory Capture
-- Technology Procurement
+- Digital & Tech Capture
 ---
 
 The Department of Defense awarded xAI, Elon Musk's AI company, a $200 million contract for its Grok AI tool, despite recent controversies involving antisemitic and problematic AI-generated content. The contract is part of a broader DoD AI modernization push, allowing federal agencies to access advanced AI capabilities for national security applications.

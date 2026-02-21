@@ -17,21 +17,25 @@ tags:
 - systemic-collapse
 - regulatory-failure
 sources:
-- title: 'Savings and Loan Crisis'
+- title: Savings and Loan Crisis
   url: https://www.federalreservehistory.org/essays/savings-and-loan-crisis
   outlet: Federal Reserve History
   date: '2024-01-01'
   verified: true
-- title: 'The Savings and Loan Crisis (1989)'
+- title: The Savings and Loan Crisis (1989)
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2024-01-01'
   verified: true
-- title: 'Savings and loan crisis'
+- title: Savings and loan crisis
   url: https://en.wikipedia.org/wiki/Savings_and_loan_crisis
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Financial Capture
 ---
 
 By 1989, over 1,000 savings and loan institutions have failed, representing approximately one-third of the entire S&L industry and marking one of the worst financial industry collapses in American history. The systemic failure stems directly from 1980s deregulation that eliminated prudential lending standards while maintaining federal deposit insurance, creating massive moral hazard that incentivized fraud and reckless speculation. The Federal Savings and Loan Insurance Corporation (FSLIC) becomes insolvent trying to cover losses, ultimately requiring a $160 billion taxpayer bailout when the Resolution Trust Corporation is created to liquidate failed institutions.

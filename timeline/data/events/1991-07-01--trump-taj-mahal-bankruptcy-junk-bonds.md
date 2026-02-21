@@ -27,6 +27,10 @@ sources:
   date: 2011-04-21
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Intelligence Penetration
 ---
 
 Donald Trump's Trump Taj Mahal casino in Atlantic City filed for Chapter 11 bankruptcy protection in July 1991, just over one year after its lavish April 1990 opening. The casino, which Trump had called "the eighth wonder of the world," was buried under nearly $3 billion in debt, much of it raised through junk bonds carrying interest rates as high as 14 percent. Trump had personally guaranteed $833 million of the debt despite having a reported net worth of only $206 million according to the Casino Control Commission.

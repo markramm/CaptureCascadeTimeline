@@ -36,6 +36,10 @@ sources:
   tier: 2
   outlet: ABC12
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Judicial Capture
+- Surveillance Infrastructure
 ---
 
 Judges dismiss all remaining criminal charges against officials responsible for the Flint water crisis based on a procedural technicality, ensuring that no one is ever held criminally accountable for poisoning thousands of children. In October 2022, Judge Elizabeth Kelly throws out felony charges against seven people, including former state health officials blamed for Legionnaires' deaths. In December 2022, Judge F. Kay Behm dismisses charges against former Governor Rick Snyder. The dismissals are based on a June 2022 Michigan Supreme Court ruling that "a judge acting as a one-person grand jury had no authority to issue indictments."

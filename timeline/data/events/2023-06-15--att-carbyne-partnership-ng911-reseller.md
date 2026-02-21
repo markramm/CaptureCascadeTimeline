@@ -34,6 +34,10 @@ sources:
   tier: 2
   outlet: Urgent Communications
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Surveillance Infrastructure
 ---
 
 AT&T announced a strategic partnership with Carbyne enabling the telecommunications giant to resell Carbyne's comprehensive 911 surveillance platform to public safety agencies nationwide, dramatically accelerating deployment of Israeli Unit 8200-developed technology across US emergency communications infrastructure. Under the arrangement, AT&T can resell both Carbyne's data-only Universe offering (supporting real-time video, location tracking, and chat functionalities) and the full APEX product (complete 911 call-taking ecosystem with all surveillance features embedded), with agencies able to deploy systems within one week without extensive upgrades to existing AT&T ESInet platforms.

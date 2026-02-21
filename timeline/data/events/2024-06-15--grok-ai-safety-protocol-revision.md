@@ -19,9 +19,8 @@ tags:
 - technological-governance
 capture_lanes:
 - Regulatory Capture
-- Tech Governance
-- Media Manipulation
-- Technological Risk Management
+- Digital & Tech Capture
+- Media Capture & Control
 sources:
 - outlet: TechCrunch
   title: xAI's promised safety report is MIA
@@ -29,14 +28,12 @@ sources:
   retrieved: '2025-10-06'
   date: '2025-05-13'
 - outlet: Fortune
-  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling
-    AI more 'dangerous than nukes'
+  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'
   url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
   retrieved: '2025-10-06'
   date: '2025-07-17'
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon
-    Musk's xAI
+  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI
   url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
   retrieved: '2025-10-14'
   date: '2025-07-16'

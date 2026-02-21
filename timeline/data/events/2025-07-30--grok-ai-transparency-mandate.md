@@ -1,8 +1,7 @@
 ---
 id: 2025-07-30--grok-ai-transparency-mandate
 date: '2025-07-30'
-title: California Judicial Council Establishes First Comprehensive AI Transparency
-  Regulations
+title: California Judicial Council Establishes First Comprehensive AI Transparency Regulations
 importance: 9
 actors:
 - California Judicial Council
@@ -17,8 +16,8 @@ tags:
 - tech-regulation
 capture_lanes:
 - Judicial Capture
-- Technological Governance
-- Regulatory Oversight
+- Digital & Tech Capture
+- Regulatory Capture
 sources:
 - outlet: National Law Review
   title: California Courts Announce New AI Regulations

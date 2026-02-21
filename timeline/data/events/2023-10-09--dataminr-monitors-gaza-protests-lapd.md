@@ -28,6 +28,10 @@ sources:
   tier: 2
   outlet: San Antonio Current
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Military-Industrial Complex
+- Surveillance Infrastructure
 ---
 
 Dataminr began providing the Los Angeles Police Department with real-time surveillance alerts about Gaza war protests just two days after Hamas's October 7, 2023 attack on Israel, demonstrating the company's ongoing role in monitoring constitutionally protected political speech despite years of controversy over First Amendment violations. Internal LAPD emails revealed that Dataminr tracked more than 50 different pro-Palestine demonstrations between October 2023 and April 2024, with at least a dozen protests flagged before they occurred, enabling preemptive police deployment and monitoring of activists organizing peaceful demonstrations. The surveillance extended beyond Los Angeles to include protests in Chicago, Philadelphia, Boston, and Oregon, with Dataminr providing alerts categorized under feeds titled "Domestic Demonstrations Awareness," "LA demonstrations," and "LA unrest."

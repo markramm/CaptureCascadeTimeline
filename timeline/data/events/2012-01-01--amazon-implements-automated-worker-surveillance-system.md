@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: UC Berkeley School of Information
 status: confirmed
+capture_lanes:
+- Digital & Tech Capture
+- Corporate Capture
+- Surveillance Infrastructure
 ---
 
 # Amazon Implements Automated Worker Surveillance and Tracking System

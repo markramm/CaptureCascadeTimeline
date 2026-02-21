@@ -34,6 +34,10 @@ sources:
   date: '2022-01-01'
   tier: 1
   outlet: Project on Government Oversight
+capture_lanes:
+- Digital & Tech Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 President Joe Biden nominated Frank Kendall for Air Force Secretary in May 2021 despite Kendall having received $702,319 in consulting fees from Northrop Grumman as part of a $300,000 per year consulting contract after serving as Under Secretary of Defense for Acquisition, Technology and Logistics under President Obama. The nomination exemplified the Biden administration's embrace of the Pentagon revolving door, placing a recent Northrop Grumman consultant in charge of the Air Force at the exact moment the service was overseeing Northrop's $80 billion B-21 Raider bomber program, multibillion-dollar ICBM contracts, and numerous other major weapons systems that would generate enormous revenue for Kendall's recent employer.

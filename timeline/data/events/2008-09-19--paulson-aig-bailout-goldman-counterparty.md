@@ -16,8 +16,7 @@ actors:
 - Don Jester
 sources:
 - url: https://www.propublica.org/article/treasurys-point-man-on-aig-bailout-that-benefited-goldman-owned-goldman-sto
-  title: Treasury's Point Man on AIG Bailout That Benefited Goldman Owned Goldman
-    Stock
+  title: Treasury's Point Man on AIG Bailout That Benefited Goldman Owned Goldman Stock
   outlet: ProPublica
   date: '2009-06-22'
 - url: https://bettermarkets.org/newsroom/goldman-sachs-failed-10-years-ago-today/
@@ -36,6 +35,10 @@ sources:
   title: The Causes and Effects of the AIG Bailout
   outlet: U.S. Government Publishing Office
   date: '2008-09-19'
+capture_lanes:
+- Digital & Tech Capture
+- Regulatory Capture
+- Financial Capture
 ---
 
 The U.S. government authorized an $85 billion bailout of American International Group (AIG), with Goldman Sachs receiving $12.9 billion—the largest individual payout. Treasury Secretary Henry Paulson, a former Goldman Sachs CEO, played a central role in the decision, despite significant conflicts of interest. Paulson spoke with Goldman Sachs CEO Lloyd Blankfein approximately two dozen times during the bailout week, obtaining an ethics waiver beforehand. The bailout effectively paid out AIG's credit-default swaps at full face value, with Goldman being the primary beneficiary. This event highlighted the systemic regulatory capture and interconnectedness between government financial regulators and Wall Street investment banks.

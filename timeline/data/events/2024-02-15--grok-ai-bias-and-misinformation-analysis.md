@@ -29,8 +29,8 @@ tags:
 - misinformation-risks
 - technological-capture
 capture_lanes:
-- Technological Capture
-- Information Manipulation
+- Digital & Tech Capture
+- Media Capture & Control
 status: confirmed
 ---
 
