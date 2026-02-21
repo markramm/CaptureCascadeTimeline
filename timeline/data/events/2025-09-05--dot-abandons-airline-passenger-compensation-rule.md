@@ -14,6 +14,16 @@ sources:
   date: '2025-09-05'
   tier: 1
   outlet: CBS News
+- url: https://thehill.com/policy/transportation/5488173-dot-withdraws-airline-disruption-rule/
+  title: Trump administration reversing Biden-era plan to compensate airline passengers for disruptions
+  date: '2025-09-05'
+  tier: 2
+  outlet: The Hill
+- url: https://www.cnn.com/2025/11/15/us/trump-administration-compensation-flight-disruptions-hnk
+  title: Trump administration drops plan to require passenger compensation for delayed flights
+  date: '2025-11-15'
+  tier: 1
+  outlet: CNN
 actors:
 - Sean Duffy
 - Department of Transportation

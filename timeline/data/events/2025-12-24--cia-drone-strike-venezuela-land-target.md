@@ -14,6 +14,13 @@ sources:
 - title: Timeline of U.S. military escalation against Venezuela
   url: https://www.pbs.org/newshour/world/a-timeline-of-u-s-military-escalation-against-venezuela-leading-to-maduros-capture
   tier: 1
+  outlet: PBS NewsHour
+  date: '2026-01-01'
+- title: Exclusive - CIA carried out drone strike on port facility on Venezuelan coast
+  url: https://www.cnn.com/2025/12/29/politics/cia-drone-strike-venezuela
+  tier: 1
+  outlet: CNN
+  date: '2025-12-29'
 status: confirmed
 type: political
 actors:

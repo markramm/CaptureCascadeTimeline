@@ -14,6 +14,11 @@ sources:
   date: '2025-09-09'
   tier: 1
   outlet: ProPublica
+- url: https://www.americanbanker.com/news/cfpb-warns-staff-of-upcoming-layoffs-due-to-gop-funding-cuts
+  title: CFPB warns staff of upcoming layoffs due to GOP funding cuts
+  date: '2025-09-09'
+  tier: 2
+  outlet: American Banker
 actors:
 - Donald Trump
 - Consumer Financial Protection Bureau

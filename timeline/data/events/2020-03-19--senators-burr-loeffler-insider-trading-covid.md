@@ -46,3 +46,9 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
+
+In early 2020, multiple U.S. senators sold significant amounts of stock after receiving classified briefings about the COVID-19 pandemic, but before the public understood the crisis's severity and before markets crashed. Senator Richard Burr (R-NC), chair of the Senate Intelligence Committee, sold between $600,000 and $1.7 million in stocks on February 13, 2020 — his largest single-day trade in 14 months. Senator Kelly Loeffler (R-GA) began selling stocks worth up to $3.1 million on January 24, 2020, the very day senators received a classified briefing on COVID-19's potential impact.
+
+The pattern of well-timed trades appeared to violate the Stop Trading on Congressional Knowledge (STOCK) Act of 2012, which prohibited members of Congress from trading on material non-public information obtained through their official duties. While privately warning wealthy constituents at a private club luncheon that COVID-19 would be "much more aggressive in its transmission than anything we have seen in recent history," Burr was publicly downplaying the threat. The FBI seized Burr's phone on May 13, 2020, and he temporarily stepped down as Intelligence Committee chair.
+
+Despite the apparent evidence of insider trading, the Department of Justice closed all related investigations by May 26, 2020, without charges. The episode illustrated the persistent failure to enforce the STOCK Act against sitting members of Congress. Loeffler subsequently faced a Georgia Senate runoff election, where she and fellow Republican Kelly Perdue both lost to Democratic challengers Jon Ossoff and Raphael Warnock in January 2021, flipping control of the Senate.

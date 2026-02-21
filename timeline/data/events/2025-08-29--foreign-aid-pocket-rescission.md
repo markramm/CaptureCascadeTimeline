@@ -19,6 +19,16 @@ sources:
   title: Trump Uses Pocket Rescission to Claw Back $4.9 Billion in Foreign Aid
   tier: 1
   outlet: CBS News
+- url: https://www.pbs.org/newshour/politics/trump-blocks-4-9b-in-foreign-aid-congress-okd-using-maneuver-last-seen-nearly-50-years-ago
+  title: Trump Blocks $4.9 Billion in Foreign Aid Congress OK'd, Using Maneuver Last Seen Nearly 50 Years Ago
+  date: '2025-08-29'
+  tier: 1
+  outlet: PBS News
+- url: https://www.cnn.com/2025/08/29/politics/trump-pocket-rescission-foreign-aid-congress
+  title: Trump Bypasses Congress to Cancel Nearly $5 Billion in Foreign Aid
+  date: '2025-08-29'
+  tier: 1
+  outlet: CNN
 capture_lanes:
 - Environmental Capture
 - Digital & Tech Capture

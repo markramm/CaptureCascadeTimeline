@@ -18,6 +18,16 @@ sources:
   title: EPA fires critical employees who signed letter opposing Trump policies
   tier: 1
   outlet: Associated Press
+- url: https://www.washingtonpost.com/climate-environment/2025/08/29/epa-dissent-letter-employees-fired/
+  title: Trump Officials Fire EPA Employees for Signing Dissent Letter
+  date: '2025-08-29'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.cnn.com/2025/08/30/politics/epa-fires-employees-who-publicly-criticized-agency-policies-under-trump
+  title: EPA Fires Employees Who Publicly Criticized Agency Policies Under Trump
+  date: '2025-08-30'
+  tier: 1
+  outlet: CNN
 capture_lanes:
 - Environmental Capture
 status: reported

@@ -23,6 +23,16 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 2
+- title: The Powell Memo - A Call-to-Arms for Corporations
+  url: https://billmoyers.com/content/the-powell-memo-a-call-to-arms-for-corporations/2/
+  outlet: BillMoyers.com
+  date: '2012-09-14'
+  tier: 2
+- title: Remembering the Moment Our CEOs Dug In--For Good
+  url: https://inequality.org/article/remembering-moment-ceos-dug/
+  outlet: Inequality.org
+  date: '2014-08-01'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression

@@ -43,3 +43,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+House Majority Leader Tom DeLay (R-TX) was indicted by a Texas grand jury on September 28, 2005, on one count of criminal conspiracy related to an alleged illegal campaign finance scheme. On October 3, a third grand jury charged DeLay with the more serious offense of money laundering. The charges alleged that DeLay and associates illegally funneled $190,000 in corporate money into Texas state legislative races in 2002 — a direct violation of Texas law prohibiting corporate campaign contributions.
+
+Prosecutors alleged that DeLay's political action committee, Texans for a Republican Majority (TRMPAC), sent corporate funds to the Republican National Committee, which then transmitted the same amount back to Texas candidates, effectively laundering the prohibited corporate money. DeLay, then the second-ranking Republican in the House and one of the most powerful figures in Congress, was forced to temporarily step down from his leadership position following the indictment, in accordance with House Republican Conference rules.
+
+DeLay's fall was part of the broader Jack Abramoff lobbying scandal and mid-2000s wave of Republican congressional corruption. He was convicted in 2010 on money laundering and conspiracy charges, but a Texas appeals court overturned the conviction in 2013, ruling the evidence was legally insufficient. DeLay had already resigned from Congress in June 2006. The case illustrated the systemic use of corporate money to capture state legislatures through redistricting, enabling the "Texas Miracle" of Republican congressional seat gains that tightened DeLay's grip on the House majority.

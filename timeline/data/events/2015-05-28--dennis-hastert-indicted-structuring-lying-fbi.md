@@ -43,3 +43,9 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
+
+A seven-page federal indictment was unsealed on May 28, 2015, charging former House Speaker Dennis Hastert with structuring bank withdrawals to evade reporting requirements and making false statements to the FBI. Hastert, who served as the longest-serving Republican House Speaker in history (1999-2007) and was third in line to the presidency, faced charges for illegally withdrawing approximately $1.7 million from bank accounts in amounts under $10,000 to avoid triggering mandatory bank reporting requirements — a federal crime known as "structuring."
+
+The indictment revealed that Hastert had agreed to pay $3.5 million to an unnamed individual referred to as "Individual A" from his hometown of Yorkville, Illinois, to "compensate for and conceal his prior misconduct" against that person. When questioned by the FBI about the cash withdrawals, Hastert falsely claimed he was keeping the money because he distrusted banks. The indictment noted that Hastert had known Individual A "for most of that individual's life" and referenced his prior work as a high school teacher and wrestling coach at Yorkville High School, though it did not explicitly describe the nature of the misconduct.
+
+Media reports quickly connected the payments to sexual abuse allegations from Hastert's time as a wrestling coach. Former Illinois Republican Governor Jim Edgar expressed shock: "Denny Hastert would be the last person I would think that would be indicted." The case would ultimately reveal that one of America's most powerful politicians — a man who had served as Speaker during the Clinton impeachment proceedings and shaped congressional policy for nearly a decade — had spent years paying hush money to conceal his history as a serial child molester.

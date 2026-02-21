@@ -14,6 +14,16 @@ sources:
   date: '2025-10-10'
   tier: 1
   outlet: NBC News
+- title: Former Trump adviser John Bolton indicted on classified documents charges
+  url: https://abcnews.go.com/US/prosecutors-expected-seek-grand-jury-indictment-former-trump/story?id=126472878
+  date: '2025-10-16'
+  tier: 1
+  outlet: ABC News
+- title: What to know about the federal charges against John Bolton
+  url: https://www.pbs.org/newshour/politics/what-to-know-about-the-federal-charges-against-john-bolton
+  date: '2025-10-16'
+  tier: 1
+  outlet: PBS NewsHour
 tags:
 - political-prosecution
 - doj-weaponization

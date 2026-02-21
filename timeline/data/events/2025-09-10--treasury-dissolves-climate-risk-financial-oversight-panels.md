@@ -14,6 +14,16 @@ sources:
   date: '2025-09-10'
   tier: 1
   outlet: Reuters
+- url: https://home.treasury.gov/system/files/261/FSOC-20250910-Readout.pdf
+  title: Financial Stability Oversight Council Meeting Readout - September 10, 2025
+  date: '2025-09-10'
+  tier: 1
+  outlet: U.S. Department of the Treasury
+- url: https://www.insurancejournal.com/news/national/2025/09/11/838859.htm
+  title: US Treasury-Led Watchdog Dismantles Climate Advisory Panels
+  date: '2025-09-11'
+  tier: 2
+  outlet: Insurance Journal
 actors:
 - Scott Bessent
 - U.S. Treasury Department

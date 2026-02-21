@@ -43,3 +43,9 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
+
+MF Global Holdings, the brokerage firm led by former U.S. Senator and New Jersey Governor Jon Corzine, filed for Chapter 11 bankruptcy on October 31, 2011, becoming the eighth-largest bankruptcy in U.S. history at that time. The firm had invested more than $6.3 billion in sovereign bonds from struggling European countries; when it reported a $191.6 million quarterly loss on October 25, Moody's and Fitch cut its credit rating to junk status, triggering the collapse. As the firm unraveled, investigators discovered that up to $1.6 billion in customer segregated funds were missing.
+
+Federal investigators found that in MF Global's final week, the firm unlawfully transferred nearly one billion dollars in customer segregated funds to support its own proprietary operations — a direct violation of U.S. commodity laws. Bloomberg News reported that such transfers occurred, on at least one occasion, "Per JC's [Jon Corzine's] direct instruction," according to an internal memo. Corzine stepped down as CEO on November 4, 2011. Customers eventually received full restitution after years of litigation, but no criminal charges were ever filed against Corzine.
+
+In 2017, the Commodity Futures Trading Commission ordered Corzine to pay a $5 million civil penalty for his role in the unlawful use of nearly $1 billion in customer funds and failure to diligently supervise. The outcome drew sharp contrast to the aggressive criminal prosecution of more than 1,000 bankers during the Savings and Loan crisis of the 1980s and 1990s, and illustrated the two-tier justice system that emerged after the 2008 financial crisis in which politically connected Wall Street executives faced no criminal consequences for financial misconduct.

@@ -14,6 +14,11 @@ sources:
   title: MAGA Lobbying Firms Revenue Surge
   url: https://www.washingtonpost.com/politics/2025/10/25/trump-lobbying-ballard-partners-revenue/
   outlet: The Washington Post
+- date: '2025-11-01'
+  tier: 1
+  title: As lobbying revenue grows at record pace, Trump-aligned firms reap the biggest rewards
+  url: https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards
+  outlet: OpenSecrets
 status: confirmed
 tags:
 - conflicts-of-interest

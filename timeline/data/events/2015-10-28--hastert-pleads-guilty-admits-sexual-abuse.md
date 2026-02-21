@@ -43,3 +43,9 @@ capture_lanes:
 - Legislative Capture
 - Financial Capture
 ---
+
+Former House Speaker Dennis Hastert — the longest-serving Republican Speaker in history and once third in line for the presidency — pleaded guilty on October 28, 2015, to one count of structuring bank withdrawals to evade federal reporting requirements. Hastert admitted he illegally withdrew approximately $1.7 million in cash in amounts under $10,000 to avoid triggering mandatory bank reporting. A charge of making false statements to the FBI was dropped under the plea agreement.
+
+Hastert acknowledged the payments were made to an unnamed individual from his hometown of Yorkville, Illinois, to conceal past sexual misconduct when he served as a high school wrestling coach decades earlier. At age 73, he faced a maximum of five years in prison, though prosecutors recommended up to six months. Sentencing was scheduled for February 2016. Though the statute of limitations had expired on the underlying sexual abuse, the plea effectively confirmed that Hastert had paid millions in hush money to cover up molesting teenagers under his care.
+
+The case represented one of the most dramatic falls from power in American political history. Hastert had served as House Speaker from 1999 to 2007, presiding over major legislation including the Bush tax cuts and the Iraq War authorization. His prosecution revealed that one of America's most powerful politicians had for decades concealed his past as a sexual predator, exploiting the cash structuring scheme to silence at least one victim.

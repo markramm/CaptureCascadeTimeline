@@ -19,6 +19,11 @@ sources:
   outlet: Bloomberg
   date: '2026-01-08'
   tier: 1
+- title: Tulsi Gabbard MIA on Venezuela operation amid tensions over Trump policy
+  url: https://www.washingtonpost.com/national-security/2026/01/07/gabbard-trump-venezuela-intervention-intelligence/
+  outlet: The Washington Post
+  date: '2026-01-07'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Intelligence Penetration

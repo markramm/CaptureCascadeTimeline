@@ -14,6 +14,13 @@ sources:
 - title: Epstein's alleged victims accuse DOJ of legal violations
   url: https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219
   tier: 1
+  outlet: ABC News
+  date: '2025-12-19'
+- title: Epstein Files Transparency Act - Department of Justice
+  url: https://www.justice.gov/opa/media/1426091/dl
+  tier: 1
+  outlet: U.S. Department of Justice
+  date: '2025-11-19'
 status: confirmed
 type: political
 actors:

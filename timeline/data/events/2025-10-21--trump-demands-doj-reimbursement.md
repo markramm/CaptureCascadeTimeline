@@ -19,6 +19,11 @@ sources:
   date: '2025-10-21'
   tier: 1
   outlet: The New York Times
+- url: https://abcnews.com/US/trump-doj-pay-230-million-previous-investigations-sources/story?id=126731700
+  title: Trump wants DOJ to pay him $230 million for previous investigations
+  date: '2025-10-21'
+  tier: 1
+  outlet: ABC News
 status: confirmed
 capture_lanes:
 - Systematic Corruption

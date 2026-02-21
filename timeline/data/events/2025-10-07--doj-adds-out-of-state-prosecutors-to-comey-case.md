@@ -14,6 +14,11 @@ sources:
   date: '2025-10-07'
   tier: 1
   outlet: ABC News
+- title: "More turmoil at Virginia US attorney's office following Comey indictment"
+  url: https://abcnews.go.com/Politics/virginia-us-attorneys-office-turmoil-comey-indictment-prosecutors/story?id=125368942
+  date: '2025-10-04'
+  tier: 1
+  outlet: ABC News
 tags:
 - doj-weaponization
 - political-prosecution

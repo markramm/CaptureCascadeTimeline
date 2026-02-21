@@ -14,6 +14,11 @@ sources:
   date: '2025-09-10'
   tier: 1
   outlet: The Guardian
+- url: https://www.highereddive.com/news/federal-judge-declines-to-restore-1b-in-grants-cut-by-nsf/759958/
+  title: Federal judge declines to restore $1B in grants cut by NSF
+  date: '2025-09-10'
+  tier: 2
+  outlet: Higher Ed Dive
 actors:
 - Donald Trump
 - Department of Government Efficiency

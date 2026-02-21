@@ -18,6 +18,16 @@ sources:
   title: DOJ Loosens Requirements Allowing Military Lawyers to Serve as Immigration Judges
   tier: 1
   outlet: The New York Times
+- url: https://www.cbsnews.com/news/defense-dept-600-military-attorneys-temporary-immigration-judges/
+  title: Defense Dept. to Send Up to 600 Military Attorneys to Serve as Temporary Immigration Judges
+  date: '2025-09-02'
+  tier: 1
+  outlet: CBS News
+- url: https://www.brennancenter.org/our-work/analysis-opinion/using-military-lawyers-immigration-judges-ill-advised-and-potentially
+  title: Using Military Lawyers as Immigration Judges Is Ill-Advised and Potentially Illegal
+  date: '2025-09-01'
+  tier: 1
+  outlet: Brennan Center for Justice
 capture_lanes:
 - Judicial Capture
 - Military-Industrial Complex

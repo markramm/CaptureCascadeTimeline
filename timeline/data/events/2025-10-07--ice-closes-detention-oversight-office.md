@@ -8,11 +8,16 @@ actors:
 - Office of Detention Oversight
 - DHS (Department of Homeland Security)
 sources:
-- title: ICE closes detention oversight group in shutdown despite surge in detainees
-  url: https://www.washingtonpost.com/immigration/2025/10/07/ice-detention-oversight-shutdown/
+- title: ICE closes Office of Detention Oversight, citing government shutdown
+  url: https://www.washingtonpost.com/business/2025/10/07/ice-detention-centers-oversight-shutdown/
   date: '2025-10-07'
   tier: 1
   outlet: The Washington Post
+- title: ICE kept most offices open in shutdown — but not the one inspecting detention centers
+  url: https://www.bostonglobe.com/2025/10/07/nation/ice-detention-centers-oversight-closed/
+  date: '2025-10-07'
+  tier: 1
+  outlet: The Boston Globe
 tags:
 - accountability-dismantling
 - systematic-corruption

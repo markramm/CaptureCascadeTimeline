@@ -15,6 +15,16 @@ sources:
   date: '2025-10-09'
   tier: 2
   outlet: Chicago Sun-Times
+- title: Noem says Trump admin buying Chicago property for ICE
+  url: https://thehill.com/homenews/state-watch/5550485-noem-chicago-buildings-ice-dhs/
+  date: '2025-10-09'
+  tier: 2
+  outlet: The Hill
+- title: Kristi Noem says Homeland Security 'purchasing more buildings in Chicago'
+  url: https://www.chicagotribune.com/2025/10/09/kristi-noem-homeland-security-purchasing-buildings-chicago/
+  date: '2025-10-09'
+  tier: 2
+  outlet: Chicago Tribune
 tags:
 - immigration-enforcement
 - federal-overreach

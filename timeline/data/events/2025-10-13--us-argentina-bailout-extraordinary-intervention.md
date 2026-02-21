@@ -14,6 +14,11 @@ sources:
   date: '2025-10-13'
   tier: 1
   outlet: CNBC
+- title: What to know about the Trump administration's $20B bailout for Argentina
+  url: https://abcnews.com/Politics/trump-administrations-20b-bailout-argentina/story?id=126513232
+  date: '2025-10-13'
+  tier: 1
+  outlet: ABC News
 tags:
 - systematic-corruption
 - treasury-corruption

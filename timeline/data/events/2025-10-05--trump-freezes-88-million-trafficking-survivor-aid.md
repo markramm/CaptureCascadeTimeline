@@ -13,6 +13,11 @@ sources:
   date: '2025-10-05'
   tier: 1
   outlet: The Guardian
+- title: How the Trump Administration Rolled Back Efforts to Fight Human Trafficking
+  url: https://www.typeinvestigations.org/news/2026/02/12/how-the-trump-administration-rolled-back-efforts-to-fight-human-trafficking/
+  date: '2026-02-12'
+  tier: 2
+  outlet: Type Investigations
 tags:
 - systematic-corruption
 - vulnerable-population-harm

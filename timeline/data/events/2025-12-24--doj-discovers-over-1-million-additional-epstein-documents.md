@@ -13,6 +13,13 @@ sources:
 - title: DOJ says it has found over a million additional documents potentially related to Epstein
   url: https://www.cnn.com/2025/12/24/politics/epstein-documents-doj-million
   tier: 1
+  outlet: CNN
+  date: '2025-12-24'
+- title: DOJ says it could take 'a few more weeks' to process Epstein files after receiving more than 1 million additional docs
+  url: https://www.nbcnews.com/politics/justice-department/doj-weeks-process-epstein-files-1-million-additional-documents-fbi-rcna250847
+  tier: 1
+  outlet: NBC News
+  date: '2025-12-24'
 status: confirmed
 type: political
 actors:

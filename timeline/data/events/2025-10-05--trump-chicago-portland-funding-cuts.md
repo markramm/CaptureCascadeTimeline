@@ -14,6 +14,16 @@ sources:
   date: '2025-10-05'
   tier: 1
   outlet: Bloomberg
+- title: "Trump Threatens Funding for Chicago, Portland in Shutdown Fight"
+  url: https://www.bloomberg.com/news/articles/2025-10-03/vought-suspends-2-billion-for-chicago-trains-in-shutdown-gambit
+  date: '2025-10-03'
+  tier: 1
+  outlet: Bloomberg
+- title: "Trump freezes $2.1B for Chicago transit projects in latest 'punishment' of blue states"
+  url: https://www.nprillinois.org/economy-business/2025-10-03/trump-freezes-2-1b-for-chicago-transit-projects-in-latest-punishment-of-blue-states
+  date: '2025-10-03'
+  tier: 1
+  outlet: NPR Illinois
 tags:
 - systematic-corruption
 - federal-funding-weaponization

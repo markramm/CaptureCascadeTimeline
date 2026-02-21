@@ -20,6 +20,11 @@ sources:
   date: '2025-10-20'
   tier: 1
   outlet: The Washington Post
+- url: https://time.com/7312556/doge-social-security-data-whistleblower-complaint/
+  title: Whistleblower - DOGE Put Millions of Americans' Data at Risk
+  date: '2025-10-20'
+  tier: 2
+  outlet: TIME
 status: confirmed
 capture_lanes:
 - Systematic Corruption

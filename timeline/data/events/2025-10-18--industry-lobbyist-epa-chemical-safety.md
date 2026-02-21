@@ -19,6 +19,11 @@ sources:
   date: '2025-10-18'
   tier: 1
   outlet: The Guardian
+- url: https://www.epa.gov/newsreleases/senate-confirms-douglas-troutman-assistant-administrator-epas-office-chemical-safety
+  title: Senate Confirms Douglas Troutman as Assistant Administrator for EPA's Office of Chemical Safety and Pollution Prevention
+  date: '2025-12-18'
+  tier: 1
+  outlet: U.S. EPA
 status: confirmed
 capture_lanes:
 - Regulatory Capture

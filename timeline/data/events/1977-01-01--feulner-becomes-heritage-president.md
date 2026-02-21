@@ -77,3 +77,9 @@ sources:
 capture_lanes:
 - Regulatory Capture
 ---
+
+Edwin J. Feulner Jr. assumed the presidency of the Heritage Foundation in 1977, beginning what would become a transformative 36-year tenure that built Heritage from a modest operation with 9 staff members and a $1 million budget into the preeminent conservative policy organization in Washington. Feulner had co-founded Heritage in 1973 alongside Paul Weyrich and secured initial funding from Colorado brewer Joseph Coors. Within 18 months of assuming the presidency, Heritage's budget grew to $2.5 million with a donor pool of approximately 120,000 people.
+
+Feulner's strategic approach distinguished Heritage from traditional think tanks by emphasizing rapid-response policy analysis rather than long-term academic research. He instituted a practice of delivering concise policy briefs directly to congressional offices and executive agencies within 24-48 hours of emerging issues, ensuring Heritage's perspective reached decision-makers at critical moments. This "briefing book" model made Heritage indispensable to conservative legislators and positioned the organization as a "government-in-waiting" ready to supply policy blueprints and trained personnel for Republican administrations.
+
+Under Feulner's direction, Heritage developed policy expertise across domestic, economic, foreign, and constitutional issues, while cultivating a talent pipeline that moved analysts into and out of government. Major donor Richard Mellon Scaife, who contributed more than $23 million to Heritage between 1975 and 1998, provided the financial foundation for this expansion. Feulner's 36-year tenure, which ended with Heritage employing over 240 staff and operating with an $80 million budget, built the central institution of the conservative policy infrastructure and set the template for dozens of state-level think tanks coordinated through the State Policy Network.

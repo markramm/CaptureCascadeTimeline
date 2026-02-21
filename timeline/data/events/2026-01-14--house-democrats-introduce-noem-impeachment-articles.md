@@ -20,6 +20,11 @@ sources:
   outlet: Fox 9
   date: '2026-01-14'
   tier: 1
+- title: Rep. Robin Kelly leads Democratic impeachment effort against Kristi Noem
+  url: https://thehill.com/homenews/house/5688896-articles-of-impeachment-kristi-noem/
+  outlet: The Hill
+  date: '2026-01-14'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Legislative Capture

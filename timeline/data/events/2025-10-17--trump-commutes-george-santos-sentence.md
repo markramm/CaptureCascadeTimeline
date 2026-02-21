@@ -19,6 +19,11 @@ sources:
   date: '2025-10-17'
   tier: 1
   outlet: NPR
+- url: https://www.pbs.org/newshour/politics/trump-commutes-7-year-prison-sentence-of-former-rep-george-santos-in-federal-fraud-case
+  title: Trump commutes 7-year prison sentence of former Rep. George Santos in federal fraud case
+  date: '2025-10-17'
+  tier: 1
+  outlet: PBS NewsHour
 status: confirmed
 capture_lanes:
 - Systematic Corruption

@@ -13,6 +13,11 @@ sources:
   date: '2025-10-10'
   tier: 1
   outlet: The New York Times
+- title: Trump wants to use the RICO act against liberal groups and donors
+  url: https://www.cnn.com/2025/09/17/politics/trump-rico-liberal-groups
+  date: '2025-09-17'
+  tier: 1
+  outlet: CNN
 tags:
 - doj-weaponization
 - political-persecution

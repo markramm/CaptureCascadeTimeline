@@ -20,6 +20,11 @@ sources:
   date: '2025-10-18'
   tier: 1
   outlet: The New York Times
+- url: https://www.cbsnews.com/news/trump-admin-fires-2-prosecutors-opposed-letitia-james-charges/
+  title: Trump admin. fires 2 prosecutors who opposed charges against N.Y. Attorney General Letitia James
+  date: '2025-10-18'
+  tier: 1
+  outlet: CBS News
 status: confirmed
 capture_lanes:
 - Regulatory Capture

@@ -20,6 +20,11 @@ sources:
   outlet: NBC News
   date: '2026-01-08'
   tier: 1
+- title: Acting US Attorney John Sarcone Disqualified by Judge for Unlawfully Investigating Letitia James
+  url: https://www.ibtimes.com/acting-us-attorney-john-sarcone-disqualified-judge-unlawfully-investigating-letitia-james-3794920
+  outlet: International Business Times
+  date: '2026-01-08'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Judicial Capture

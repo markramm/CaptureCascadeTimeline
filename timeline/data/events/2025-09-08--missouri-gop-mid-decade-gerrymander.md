@@ -14,6 +14,16 @@ sources:
   date: '2025-09-12'
   tier: 1
   outlet: CBS News
+- url: https://www.cnn.com/2025/09/12/politics/missouri-redistricting-us-house-republicans
+  title: Missouri lawmakers give final approval to map targeting Democratic House seat
+  date: '2025-09-12'
+  tier: 1
+  outlet: CNN
+- url: https://missouriindependent.com/2025/09/04/legislative-push-to-gerrymander-missouri-congressional-map-advances/
+  title: Legislative push to gerrymander Missouri congressional map advances
+  date: '2025-09-04'
+  tier: 2
+  outlet: Missouri Independent
 actors:
 - Missouri GOP legislature
 - Representative Emmanuel Cleaver

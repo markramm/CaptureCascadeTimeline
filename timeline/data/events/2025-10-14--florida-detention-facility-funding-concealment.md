@@ -19,6 +19,11 @@ sources:
   date: '2025-10-14'
   tier: 1
   outlet: Associated Press
+- url: https://www.wusf.org/courts-law/2025-10-14/florida-officials-didnt-disclose-funding-request-alligator-alcatraz-facility-lawsuit-says
+  title: Florida officials didn't disclose funding request for 'Alligator Alcatraz' facility, lawsuit says
+  date: '2025-10-14'
+  tier: 1
+  outlet: NPR/WUSF
 status: confirmed
 capture_lanes:
 - Regulatory Capture

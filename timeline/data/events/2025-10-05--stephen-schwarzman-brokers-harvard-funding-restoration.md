@@ -15,6 +15,16 @@ sources:
   date: '2025-10-05'
   tier: 1
   outlet: The New York Times
+- title: Who is Stephen Schwarzman? The man crucial to Harvard-Trump talks
+  url: https://www.bostonglobe.com/2025/10/14/metro/stephen-schwarzman-harvard-trump/
+  date: '2025-10-14'
+  tier: 1
+  outlet: The Boston Globe
+- title: A deal with Harvard University is close, Trump says
+  url: https://www.pbs.org/newshour/politics/a-deal-with-harvard-university-is-close-trump-says
+  date: '2025-10-01'
+  tier: 1
+  outlet: PBS NewsHour
 tags:
 - institutional-capture
 - academic-freedom-erosion

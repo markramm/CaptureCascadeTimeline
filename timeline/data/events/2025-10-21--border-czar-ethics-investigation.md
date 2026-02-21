@@ -20,6 +20,11 @@ sources:
   date: '2025-10-21'
   tier: 1
   outlet: ProPublica
+- url: https://campaignlegal.org/update/clc-calls-investigation-senior-dhs-official-tom-homans-financial-disclosures
+  title: CLC Calls for Investigation Into Senior DHS Official Tom Homan's Financial Disclosures
+  date: '2025-10-21'
+  tier: 1
+  outlet: Campaign Legal Center
 status: confirmed
 capture_lanes:
 - Systematic Corruption

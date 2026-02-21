@@ -21,6 +21,16 @@ sources:
   outlet: Medium
   date: '2024-01-01'
   tier: 3
+- title: Transforming Government Through Innovative Tools and Technology
+  url: https://www.govinfo.gov/content/pkg/CHRG-111shrg63827/html/CHRG-111shrg63827.htm
+  outlet: GovInfo (U.S. Senate Hearing)
+  date: '2010-06-18'
+  tier: 1
+- title: Recovery Board Opens Next Frontier in Financial Accountability
+  url: https://federalnewsnetwork.com/technology-main/2013/04/recovery-board-opens-next-frontier-in-financial-accountability/
+  outlet: Federal News Network
+  date: '2013-04-01'
+  tier: 2
 capture_lanes:
 - Financial Capture
 - Media Capture & Control

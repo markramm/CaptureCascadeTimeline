@@ -14,6 +14,16 @@ sources:
   date: '2025-09-04'
   tier: 1
   outlet: The Washington Post
+- url: https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board
+  title: Senate confirms Stephen Miran to Fed Board. Who is he and why's he so controversial?
+  date: '2025-09-15'
+  tier: 1
+  outlet: NPR
+- url: https://www.cnbc.com/2026/02/03/feds-stephen-miran-resigns-from-white-house-post.html
+  title: "Fed's Stephen Miran resigns from White House post"
+  date: '2026-02-03'
+  tier: 2
+  outlet: CNBC
 actors:
 - Stephen Miran
 - Donald Trump

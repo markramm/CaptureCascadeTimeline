@@ -18,6 +18,16 @@ sources:
   date: '2025-09-19'
   tier: 2
   outlet: 'NAFSA: Association of International Educators'
+- url: https://www.uscis.gov/newsroom/alerts/presidential-proclamation-on-restriction-on-entry-of-certain-nonimmigrant-workers
+  title: Presidential Proclamation on Restriction on Entry of Certain Nonimmigrant Workers
+  date: '2025-09-19'
+  tier: 1
+  outlet: U.S. Citizenship and Immigration Services
+- url: https://www.americanimmigrationcouncil.org/blog/uscis-implements-h1b-100000-fee/
+  title: USCIS Implements the H-1B Proclamation $100,000 Fee
+  date: '2025-09-21'
+  tier: 2
+  outlet: American Immigration Council
 capture_lanes:
 - Systematic Corruption
 status: reported

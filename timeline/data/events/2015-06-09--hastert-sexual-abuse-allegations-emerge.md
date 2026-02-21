@@ -44,3 +44,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+Sexual abuse allegations against former House Speaker Dennis Hastert became public on June 9, 2015, when Jolene Reinboldt Burdge appeared on ABC News' Good Morning America to reveal that her deceased brother, Steve Reinboldt, had told her in 1979 that Hastert had sexually abused him throughout his four years at Yorkville High School in the early 1970s. Burdge stated that her brother — who died of AIDS in 1995 — confided the abuse eight years after his 1971 graduation, saying Hastert had molested him while serving as the school's wrestling coach. Her disclosure marked the first time a victim had been publicly identified in connection with Hastert's May 2015 indictment for bank fraud.
+
+The Los Angeles Times reported that federal investigators had spoken with another former student making similar allegations. Two people briefed on the evidence confirmed that Hastert had paid $1.7 million out of a promised $3.5 million to one victim, referred to in court documents as "Individual A." Federal prosecutors would later allege that Hastert had molested at least four boys as young as 14 years old during his time as a high school wrestling coach from the late 1960s through the 1970s.
+
+The revelations transformed public understanding of the case from a banking crime into a cover-up of decades-long child sexual abuse by one of America's most powerful politicians. Hastert had been third in line to the presidency and presided over the House during the Clinton impeachment proceedings — which themselves centered on sexual misconduct and presidential lying. The exposure of Hastert's conduct illustrated how positions of institutional authority, combined with the threat of social stigma victims feared, could enable abuse and concealment to persist for decades while the abuser rose to the highest levels of political power.

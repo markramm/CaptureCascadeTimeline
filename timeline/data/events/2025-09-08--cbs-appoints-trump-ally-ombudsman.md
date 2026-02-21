@@ -14,6 +14,16 @@ sources:
   date: '2025-09-08'
   tier: 1
   outlet: Reuters
+- url: https://www.washingtonpost.com/business/2025/09/08/paramount-cbs-news-ombudsman/
+  title: Paramount picks ombudsman to review complaints of bias at CBS News
+  date: '2025-09-08'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.npr.org/2025/09/12/nx-s1-5537152/cbs-news-ellison-steps-appease-trump
+  title: New CBS owner Ellison takes steps to appease Trump
+  date: '2025-09-12'
+  tier: 1
+  outlet: NPR
 actors:
 - Kenneth Weinstein
 - Donald Trump

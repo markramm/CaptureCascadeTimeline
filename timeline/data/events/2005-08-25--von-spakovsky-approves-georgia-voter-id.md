@@ -81,3 +81,9 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 ---
+
+In August 2005, Hans von Spakovsky, serving as Counsel to the Assistant Attorney General for Civil Rights at the U.S. Department of Justice, led the department's approval of Georgia's photo voter ID law (HB 244) despite unanimous objections from career Justice Department attorneys. The career staff's months-long analysis concluded the law would disproportionately burden Black voters — who were significantly less likely to possess the six required forms of photo identification — and recommended that DOJ object under the Voting Rights Act's Section 5 preclearance requirement. Von Spakovsky overruled the career staff and approved the law for implementation.
+
+The controversy was compounded by the revelation that, while Georgia's law was under review in his office, von Spakovsky had anonymously published an article endorsing voter ID laws like Georgia's — a clear conflict of interest. The career staff exodus was severe: more than half the attorneys in the Voting Rights Section left their positions in protest during his tenure (2002-2005). A federal judge subsequently struck down the original law in October 2005, ruling it constituted an unconstitutional poll tax because it charged $20-$35 for state-issued photo IDs.
+
+Von Spakovsky's approval of a modified, free-ID version of the law remained controversial. When President Bush nominated him to the Federal Election Commission in 2006, career DOJ attorneys took the extraordinary step of writing a letter to the Senate opposing his confirmation, stating he "played a major role in the implementation of practices which injected partisan political factors into decision-making." The Senate never confirmed him; he served only as a recess appointment. He would later join the Heritage Foundation in 2008 to build the intellectual infrastructure for voter suppression laws nationally.

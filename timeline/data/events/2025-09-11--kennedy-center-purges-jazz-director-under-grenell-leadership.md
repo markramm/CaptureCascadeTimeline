@@ -9,11 +9,16 @@ tags:
 - arts-censorship
 - racial-targeting
 sources:
-- url: https://www.npr.org/2025/09/11/kennedy-center-kevin-struthers-fired-grenell
-  title: Jazz Director Fired in Continued Kennedy Center Purges
+- url: https://www.npr.org/2025/09/11/nx-s1-5538440/jazz-director-kennedy-center-trump
+  title: Jazz head at Kennedy Center is the latest firing at the beleaguered arts institution
   date: '2025-09-11'
   tier: 1
   outlet: NPR
+- url: https://www.washingtonpost.com/entertainment/music/2025/09/11/kennedy-center-fires-jazz-director/
+  title: Kennedy Center fires head of jazz programming Kevin Struthers
+  date: '2025-09-11'
+  tier: 1
+  outlet: The Washington Post
 actors:
 - Richard Grenell
 - Kevin Struthers

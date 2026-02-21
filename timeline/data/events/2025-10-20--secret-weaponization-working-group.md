@@ -23,6 +23,11 @@ sources:
   date: '2025-10-20'
   tier: 1
   outlet: Reuters
+- url: https://www.authoritarianplaybook2025.org/
+  title: The Authoritarian Playbook for 2025
+  date: '2025-01-01'
+  tier: 2
+  outlet: Authoritarian Playbook Project
 status: confirmed
 capture_lanes:
 - Regulatory Capture

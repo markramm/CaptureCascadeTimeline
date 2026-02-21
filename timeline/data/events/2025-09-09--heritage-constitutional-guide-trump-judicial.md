@@ -14,6 +14,16 @@ sources:
   date: '2025-09-09'
   tier: 1
   outlet: The New York Times
+- url: https://www.heritage.org/press/heritage-unveils-new-guide-the-constitution-featuring-justice-samuel-alito
+  title: Heritage Unveils New Guide to the Constitution Featuring Justice Samuel Alito
+  date: '2025-09-09'
+  tier: 2
+  outlet: The Heritage Foundation
+- url: https://www.pbs.org/newshour/show/heritage-foundations-john-malcolm-on-its-new-originalist-analysis-of-the-constitution
+  title: Heritage Foundation's John Malcolm on its new originalist analysis of the Constitution
+  date: '2025-09-09'
+  tier: 1
+  outlet: PBS NewsHour
 actors:
 - Heritage Foundation
 - Justice Samuel Alito

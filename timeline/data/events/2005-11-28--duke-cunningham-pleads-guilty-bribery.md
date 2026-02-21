@@ -47,3 +47,9 @@ capture_lanes:
 - Legislative Capture
 - Military-Industrial Complex
 ---
+
+Rep. Randy "Duke" Cunningham (R-CA), a decorated Vietnam War fighter ace, pleaded guilty on November 28, 2005, in federal court in San Diego to conspiracy to commit bribery, mail fraud, wire fraud, and tax evasion. Cunningham admitted accepting at least $2.4 million in bribes from defense contractors in exchange for steering tens of millions of dollars in federal contracts to his co-conspirators through his seat on the House Appropriations Defense Subcommittee. U.S. Attorney Carol Lam called it "a crime of unprecedented magnitude and extraordinary audacity."
+
+The bribes included a 42-foot yacht named the "Duke-Stir," payments toward a Rolls-Royce, antique furniture, Persian rugs, and cash. Cunningham had maintained a literal "bribe menu" detailing how much contractors needed to pay per dollar amount in government contracts. Defense contractor Mitchell Wade of MZM Inc. alone paid over $1 million in bribes over four years in exchange for more than $150 million in government contracts. Cunningham resigned from Congress immediately after his guilty plea.
+
+Cunningham was sentenced to 8 years and 4 months in federal prison — the longest term for congressional corruption at the time — and ordered to pay $1.8 million in restitution. He served his sentence until President Donald Trump pardoned him in January 2021, along with a wave of other convicted Republican officials. The Cunningham scandal, alongside the DeLay and Abramoff cases, exposed the systemic corruption embedded in the defense contracting and congressional earmark system that flourished under unified Republican government in the early 2000s.

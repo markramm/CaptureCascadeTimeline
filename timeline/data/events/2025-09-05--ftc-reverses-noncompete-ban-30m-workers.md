@@ -9,11 +9,16 @@ tags:
 - corporate-power
 - labor-exploitation
 sources:
-- url: https://www.npr.org/2025/09/05/ftc-noncompete-ban-eliminated-andrew-ferguson
-  title: Federal Trade Commission Reverses Worker Protection on Job Mobility
+- url: https://www.npr.org/2025/09/05/nx-s1-5528937/ftc-noncompete-ban-trump
+  title: Noncompete ban abandoned by Trump's FTC
   date: '2025-09-05'
   tier: 1
   outlet: NPR
+- url: https://www.ftc.gov/system/files/ftc_gov/pdf/ferguson-holyoak-statement-re-noncompete-acceding-vacatur.pdf
+  title: "FTC Commissioner Statement on Noncompete Acceding Vacatur"
+  date: '2025-09-05'
+  tier: 1
+  outlet: Federal Trade Commission
 actors:
 - Andrew Ferguson
 - Federal Trade Commission

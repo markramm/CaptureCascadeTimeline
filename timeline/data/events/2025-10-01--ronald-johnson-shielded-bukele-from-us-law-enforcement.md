@@ -14,6 +14,11 @@ sources:
   date: '2025-10-01'
   tier: 1
   outlet: ProPublica
+- title: A Trump-appointed diplomat is accused of protecting El Salvador's President from law enforcement
+  url: https://www.bostonglobe.com/2025/10/01/nation/trump-ambassador-johnson-shields-bukele/
+  outlet: The Boston Globe
+  date: '2025-10-01'
+  tier: 1
 tags:
 - institutional-capture
 - diplomatic-corruption

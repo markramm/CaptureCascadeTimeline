@@ -18,6 +18,11 @@ sources:
   date: '2025-10-22'
   tier: 1
   outlet: The New York Times
+- url: https://www.npr.org/2025/10/23/nx-s1-5583959/white-house-east-wing-demolition-ballroom-trump
+  title: Trump plows ahead with East Wing demolition despite calls for caution
+  date: '2025-10-23'
+  tier: 1
+  outlet: NPR
 status: confirmed
 capture_lanes:
 - Systematic Corruption

@@ -14,6 +14,16 @@ sources:
   date: '2025-09-09'
   tier: 1
   outlet: The New York Times
+- url: https://www.brennancenter.org/our-work/analysis-opinion/justice-department-has-demanded-voter-files-least-21-states
+  title: Justice Department Has Demanded Voter Files from at Least 27 States
+  date: '2025-09-09'
+  tier: 1
+  outlet: Brennan Center for Justice
+- url: https://www.npr.org/2025/12/12/nx-s1-5642610/doj-voter-data-lawsuits-colorado-hawaii-massachusetts-nevada
+  title: "Trump's DOJ has sued 18 states to try to access voter data"
+  date: '2025-12-12'
+  tier: 1
+  outlet: NPR
 actors:
 - Department of Justice
 - Donald Trump

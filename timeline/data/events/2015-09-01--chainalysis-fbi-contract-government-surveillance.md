@@ -20,6 +20,11 @@ sources:
   date: 2020-02-10
   tier: 1
   outlet: CoinDesk
+- url: https://yellow.com/research/crypto-surveillance-in-2025-how-chainalysis-the-fbi-and-ai-track-your-wallet
+  title: 'Crypto Surveillance in 2025: How Chainalysis, the FBI, and AI Track Your Wallet'
+  date: '2025-01-01'
+  tier: 2
+  outlet: Yellow.com Research
 capture_lanes:
 - Surveillance Infrastructure
 - Financial Capture

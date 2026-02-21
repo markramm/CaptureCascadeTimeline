@@ -19,6 +19,11 @@ sources:
   title: OMB Inserts Political Conditions Into 100+ Budget Accounts, Blocking Funds
   tier: 1
   outlet: The New York Times
+- url: https://democrats-appropriations.house.gov/news/press-releases/delauro-statement-weaponization-federal-funding-budget-director-russ-vought
+  title: DeLauro Statement on Weaponization of Federal Funding by Budget Director Russ Vought
+  date: '2025-08-29'
+  tier: 1
+  outlet: House Committee on Appropriations
 capture_lanes:
 - Environmental Capture
 - Legislative Capture

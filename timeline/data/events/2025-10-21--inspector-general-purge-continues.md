@@ -18,6 +18,11 @@ sources:
   date: '2025-10-21'
   tier: 1
   outlet: The New York Times
+- url: https://www.govexec.com/oversight/2025/10/trump-fires-another-inspector-general-raising-fears-about-oversight-independence/408950/
+  title: Trump fires another inspector general, raising fears about oversight independence
+  date: '2025-10-21'
+  tier: 2
+  outlet: Government Executive
 status: confirmed
 capture_lanes:
 - Systematic Corruption

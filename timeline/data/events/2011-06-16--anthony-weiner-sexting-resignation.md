@@ -45,3 +45,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+U.S. Representative Anthony Weiner (D-NY) announced his resignation from Congress effective June 23, 2011, after admitting he had sent sexually explicit photos and messages to at least six women over three years through Twitter, Facebook, email, and phone — and then lied about it publicly for more than a week. The scandal erupted on May 27, 2011, when a lewd photo briefly appeared on Weiner's Twitter account before being deleted. Weiner initially claimed a hacker had gained access to his account, maintaining the lie even as additional evidence emerged.
+
+On June 6, 2011, at a contentious press conference, Weiner admitted the photo was of him and confessed to conducting "inappropriate" online conversations with six women over the prior three years, though he insisted he had never met any of them in person. The scandal was particularly damaging because Weiner's wife, Huma Abedin — a longtime top aide to Hillary Clinton and close confidant — was pregnant with their first child when the story broke. The couple had married in July 2010 in a ceremony officiated by President Bill Clinton.
+
+Pressure from Democratic Party leaders including President Obama and House Minority Leader Nancy Pelosi led to Weiner's resignation. He subsequently attempted political comebacks, including a 2013 New York City mayoral run that collapsed when additional sexting revelations emerged. In 2017, Weiner was sentenced to 21 months in federal prison after pleading guilty to sending obscene material to a minor, with federal investigators discovering the communications while examining Abedin's email device during the Clinton email investigation — an intersection that would carry significant political consequences in the final days of the 2016 presidential election.

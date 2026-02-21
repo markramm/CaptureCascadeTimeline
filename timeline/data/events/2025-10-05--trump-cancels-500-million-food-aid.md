@@ -9,10 +9,15 @@ actors:
 - Food Banks
 sources:
 - title: Trump Canceled 94 Million Pounds of Food Aid
-  url: https://www.propublica.org/article/trump-canceled-food-aid-emergency-assistance-program
+  url: https://projects.propublica.org/trump-food-cuts/
   date: '2025-10-05'
   tier: 1
   outlet: ProPublica
+- title: USDA cancels $500M in food deliveries, leaving food banks scrambling
+  url: https://www.washingtonpost.com/nation/2025/03/21/food-banks-funding-cuts-usda-trump/
+  date: '2025-03-21'
+  tier: 1
+  outlet: The Washington Post
 tags:
 - systematic-corruption
 - social-safety-net-dismantling

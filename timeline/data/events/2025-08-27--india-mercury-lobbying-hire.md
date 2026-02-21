@@ -19,6 +19,11 @@ sources:
   title: India Hires Trump-Linked Lobbying Firm Amid Tariff Threats
   tier: 1
   outlet: Bloomberg
+- url: https://www.business-standard.com/india-news/india-engages-second-us-lobbying-firm-ahead-of-50-export-tariff-hike-125082500573_1.html
+  title: India Engages Second US Lobbying Firm Ahead of 50% Export Tariff Hike
+  date: '2025-08-25'
+  tier: 2
+  outlet: Business Standard
 capture_lanes:
 - International Kleptocracy
 - Systematic Corruption

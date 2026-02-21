@@ -15,6 +15,11 @@ sources:
   date: '2025-10-10'
   tier: 1
   outlet: The Guardian
+- title: New Report Examines Fossil Fuel Ties of Dozens of Trump Administration Hires
+  url: https://insideclimatenews.org/news/06102025/trump-administration-fossil-fuel-ties/
+  date: '2025-10-06'
+  tier: 2
+  outlet: Inside Climate News
 tags:
 - regulatory-capture
 - systematic-corruption

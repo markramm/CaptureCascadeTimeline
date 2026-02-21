@@ -14,6 +14,11 @@ sources:
   date: '2025-09-11'
   tier: 1
   outlet: The New York Times
+- url: https://www.banking.senate.gov/newsroom/minority/banking-committee-democrats-call-on-chairman-scott-to-immediately-hold-hearing-on-how-us-financial-system-enabled-jeffrey-epsteins-crimes
+  title: Banking Committee Democrats Call on Chairman Scott to Immediately Hold Hearing on How U.S. Financial System Enabled Jeffrey Epstein's Crimes
+  date: '2025-09-11'
+  tier: 1
+  outlet: U.S. Senate Committee on Banking, Housing, and Urban Affairs
 actors:
 - Elizabeth Warren
 - Jamie Dimon

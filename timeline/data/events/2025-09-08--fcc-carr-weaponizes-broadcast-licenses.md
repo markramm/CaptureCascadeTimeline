@@ -14,6 +14,16 @@ sources:
   date: '2025-09-08'
   tier: 1
   outlet: The Wall Street Journal
+- url: https://www.cnbc.com/2025/09/19/trump-threatening-broadcast-station-licenses-explained.html
+  title: "Trump is threatening broadcast station licenses — what that means, and how it all works"
+  date: '2025-09-19'
+  tier: 2
+  outlet: CNBC
+- url: https://pressfreedomtracker.us/all-incidents/brendan-carr-targets-news-outlets-as-chair-of-the-fcc/
+  title: Brendan Carr targets news outlets as chair of the FCC
+  date: '2025-09-08'
+  tier: 2
+  outlet: U.S. Press Freedom Tracker
 actors:
 - Brendan Carr
 - Federal Communications Commission

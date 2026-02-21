@@ -20,6 +20,11 @@ sources:
   date: '2025-10-22'
   tier: 1
   outlet: The New York Times
+- url: https://www.npr.org/2025/12/03/nx-s1-5630076/the-press-corps-at-the-defense-department-has-been-replaced-by-far-right-outlets
+  title: The press corps at the Defense Department has been replaced by far-right outlets
+  date: '2025-12-03'
+  tier: 1
+  outlet: NPR
 status: confirmed
 capture_lanes:
 - Media Capture & Control

@@ -20,6 +20,16 @@ sources:
   date: '2017-05-11'
   tier: 1
   outlet: NBC News
+- url: https://www.washingtonpost.com/world/national-security/trump-says-fbi-director-comey-told-him-three-times-he-wasnt-under-investigation-once-in-a-phone-call-initiated-by-the-president/2017/05/11/2b384c9a-3669-11e7-b4ee-434b6d506b37_story.html
+  title: Trump Said He Was Thinking of Russia Controversy When He Decided to Fire Comey
+  date: '2017-05-11'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.cnn.com/2017/05/12/politics/trump-comey-russia-thing/index.html
+  title: Trump Says He Considered 'This Russia Thing' When Firing FBI Director Comey
+  date: '2017-05-12'
+  tier: 1
+  outlet: CNN
 status: confirmed
 capture_lanes:
 - Executive Power Expansion

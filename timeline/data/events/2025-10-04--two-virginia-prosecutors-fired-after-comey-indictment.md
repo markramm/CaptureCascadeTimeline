@@ -15,6 +15,16 @@ sources:
   date: '2025-10-04'
   tier: 1
   outlet: ABC News
+- title: DOJ fires 2 key prosecutors in eastern Virginia amid turmoil in office that charged Comey
+  url: https://www.cbsnews.com/news/doj-fires-prosecutors-virginia-office-that-charged-comey-maya-song-michael-benari/
+  outlet: CBS News
+  date: '2025-10-04'
+  tier: 1
+- title: Firings and resignations roil U.S. attorney's office prosecuting Comey
+  url: https://www.washingtonpost.com/national-security/2025/10/02/edva-firings-resignations-comey/
+  outlet: The Washington Post
+  date: '2025-10-02'
+  tier: 1
 tags:
 - institutional-capture
 - doj-weaponization

@@ -15,6 +15,11 @@ sources:
   date: '2025-10-04'
   tier: 1
   outlet: Reuters
+- title: Pharma companies scramble to make deals with Trump after Pfizer scored White House praise
+  url: https://www.statnews.com/2025/10/07/trump-drug-pricing-deals-with-pharma-companies-after-pfizer/
+  date: '2025-10-07'
+  tier: 2
+  outlet: STAT News
 tags:
 - systematic-corruption
 - state-corporate-fusion

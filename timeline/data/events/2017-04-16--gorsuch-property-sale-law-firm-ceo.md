@@ -44,3 +44,9 @@ status: confirmed
 ---
 
 Gorsuch sells Colorado property for up to $500,000 to Brian Duffy, CEO of Greenberg Traurig, nine days after confirmation without disclosing buyer's identity, raising conflict concerns
+
+Nine days after his confirmation to the Supreme Court on April 7, 2017, Justice Neil Gorsuch entered into a real estate transaction to sell a vacation property he co-owned near Granby, Colorado, to Brian Duffy — the CEO of Greenberg Traurig, one of the nation's largest and most politically connected law firms. The property sold for $1.825 million in total; Gorsuch held approximately a 20% stake, realizing around $365,000. On his mandatory financial disclosures, Gorsuch listed only that he sold "land in Grand County, Colorado," omitting the buyer's identity.
+
+Greenberg Traurig has had more than 22 cases before the Supreme Court since Gorsuch joined the bench, and court records show Gorsuch ruled in favor of the firm's clients eight of 12 times in non-unanimous decisions. The proximity of the transaction to Gorsuch's confirmation — with the property under contract just days after he was sworn in — raised concerns that the deal may have been structured to benefit from his new status on the court. Gorsuch's non-disclosure of the buyer's name compounded ethics concerns.
+
+The transaction was publicly revealed in April 2023 by investigative reporting, during the broader Supreme Court ethics crisis triggered by ProPublica's investigation of Justice Clarence Thomas's undisclosed gifts. Unlike Thomas's situation, the Gorsuch property sale involved what appeared to be a standard real estate transaction, though the timing, the buyer's identity, and incomplete disclosure created significant conflict-of-interest concerns that ethics scholars said warranted investigation.

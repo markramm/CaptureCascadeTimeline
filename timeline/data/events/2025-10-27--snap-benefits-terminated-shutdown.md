@@ -12,6 +12,11 @@ sources:
   title: Federal Food Aid Ends November 1 Despite Available Contingency Funds
   url: https://www.cbsnews.com/news/snap-benefits-terminated-shutdown-trump/
   outlet: CBS News
+- date: '2025-10-28'
+  tier: 1
+  title: SNAP runs out of money Nov. 1. States are now figuring out how to feed millions of people
+  url: https://www.npr.org/2025/10/28/g-s1-95189/snap-food-stamps-government-shutdown-november
+  outlet: NPR
 status: confirmed
 tags:
 - abuse-of-power

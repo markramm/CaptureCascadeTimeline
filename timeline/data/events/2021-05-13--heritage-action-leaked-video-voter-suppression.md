@@ -98,3 +98,9 @@ capture_lanes:
 - Legislative Capture
 - Media Capture & Control
 ---
+
+On May 13, 2021, the watchdog group Documented and Mother Jones published a leaked video in which Heritage Action for America Executive Director Jessica Anderson bragged to conservative donors about the organization's $24 million campaign to draft and advance voter restriction legislation across eight key swing states: Arizona, Michigan, Florida, Georgia, Iowa, Nevada, Texas, and Wisconsin. Anderson stated the campaign's goal was to "right the wrongs of November" 2020, making explicit the partisan motivation behind legislation publicly framed as election integrity reform.
+
+Anderson's admissions were strikingly candid. Regarding Iowa — where the Republican-controlled legislature had already passed a restrictive voting bill — she stated: "Iowa is the first state that we got to work in, and we did it quickly and we did it quietly. We helped draft the bills....Honestly, nobody even noticed." On Georgia's omnibus voting law, signed by Governor Brian Kemp in March 2021, Anderson told donors it contained "eight key provisions that Heritage recommended." She described Heritage Action meeting with Kemp just days before he signed the legislation. For Texas bills, she cited 19 Heritage-recommended provisions.
+
+The video exposed a coordinated conservative infrastructure in which Heritage Foundation research and Heritage Action's direct legislative drafting worked in tandem with Republican governors and state legislatures to enact restrictions on early voting, absentee ballot access, drop boxes, and voter ID requirements — targeting methods that had increased turnout among Democratic-leaning communities in 2020. By the end of 2021, 19 states had enacted 34 such laws despite the public outcry following the video's release. Voting rights organizations cited Anderson's admissions in multiple federal lawsuits challenging the legislation.

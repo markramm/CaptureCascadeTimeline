@@ -14,6 +14,11 @@ sources:
   date: '2025-10-13'
   tier: 1
   outlet: The Wall Street Journal
+- title: Trump Jr.-linked firm advertised 'Treasury' conference on AI, prompting disassociation
+  url: https://www.nbcnews.com/politics/trump-jr-1789-capital-treasury-artificial-intelligence-rcna237890
+  date: '2025-10-13'
+  tier: 1
+  outlet: NBC News
 tags:
 - systematic-corruption
 - influence-peddling

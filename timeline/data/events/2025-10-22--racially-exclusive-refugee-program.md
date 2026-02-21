@@ -19,6 +19,11 @@ sources:
   date: '2025-10-22'
   tier: 1
   outlet: The Washington Post
+- url: https://abcnews.go.com/Politics/trump-administration-cuts-refugee-admissions-record-low-priority/story?id=127035342
+  title: Trump administration cuts refugee admissions to record low, gives priority to white South Africans
+  date: '2025-10-30'
+  tier: 1
+  outlet: ABC News
 status: confirmed
 capture_lanes:
 - Systematic Corruption

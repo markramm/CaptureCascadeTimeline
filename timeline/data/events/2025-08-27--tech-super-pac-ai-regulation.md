@@ -19,6 +19,16 @@ sources:
   title: Silicon Valley Tech Pledges $200 Million to Pro-AI Super PACs
   tier: 1
   outlet: The Wall Street Journal
+- url: https://techcrunch.com/2025/08/25/silicon-valley-is-pouring-millions-into-pro-ai-pacs-to-sway-midterms/
+  title: Silicon Valley Is Pouring Millions Into Pro-AI PACs to Sway Midterms
+  date: '2025-08-25'
+  tier: 2
+  outlet: TechCrunch
+- url: https://www.washingtonpost.com/technology/2025/08/26/silicon-valley-ai-super-pac/
+  title: Pro-AI Super PAC Leading the Future Has $100M and Targets Midterms
+  date: '2025-08-26'
+  tier: 1
+  outlet: The Washington Post
 capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture

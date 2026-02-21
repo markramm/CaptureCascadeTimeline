@@ -8,11 +8,16 @@ actors:
 - Salus Worldwide Solutions
 - Project on Government Oversight
 sources:
-- title: Massive DHS 'Self-Deportation' Contract Challenged as Secretive and 'Unlawful'
-  url: https://www.pogo.org/investigation/massive-dhs-self-deportation-contract-challenged
+- title: "Massive DHS 'Self-Deportation' Contract Challenged as Secretive and 'Unlawful'"
+  url: https://www.pogo.org/investigations/massive-dhs-self-deportation-contract-challenged-as-secretive-and-unlawful
   date: '2025-10-10'
   tier: 1
   outlet: Project on Government Oversight
+- title: DHS Rushed $915 Million Deportation Contract, Lawsuit Says
+  url: https://news.bloomberglaw.com/federal-contracting/dhs-rushed-salus-915-million-deportation-contract-suit-says
+  date: '2025-10-10'
+  tier: 1
+  outlet: Bloomberg Law
 tags:
 - systematic-corruption
 - no-bid-contracts

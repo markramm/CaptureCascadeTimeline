@@ -14,6 +14,11 @@ sources:
   date: '2025-10-13'
   tier: 1
   outlet: The Wall Street Journal
+- title: One Year of Project 2025 - 53 Percent of Authoritarian Agenda's Domestic Policy Recommendations Completed or Underway
+  url: https://progressivereform.org/publications/one-year-of-project-2025-pr/
+  date: '2026-01-01'
+  tier: 2
+  outlet: Center for Progressive Reform
 tags:
 - institutional-capture
 - systematic-corruption

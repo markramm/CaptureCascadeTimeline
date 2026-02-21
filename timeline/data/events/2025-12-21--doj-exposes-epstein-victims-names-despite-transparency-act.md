@@ -13,6 +13,13 @@ sources:
 - title: Epstein's alleged victims accuse DOJ of legal violations
   url: https://abcnews.go.com/US/epsteins-alleged-victims-accuse-doj-legal-violations-state/story?id=128612219
   tier: 1
+  outlet: ABC News
+  date: '2025-12-21'
+- title: Some Epstein survivors' identities appear unredacted in files released by DOJ
+  url: https://www.nbcnews.com/news/us-news/epstein-survivors-identities-appear-unredacted-files-released-doj-rcna257057
+  tier: 1
+  outlet: NBC News
+  date: '2025-12-21'
 status: confirmed
 type: political
 actors:

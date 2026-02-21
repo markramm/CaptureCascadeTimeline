@@ -19,6 +19,16 @@ sources:
   title: Federal Workers Ordered to Deploy Grok AI Despite Antisemitic Content
   tier: 2
   outlet: WIRED
+- url: https://fedscoop.com/advocacy-groups-escalate-fight-over-grok-in-government-after-onegov-deal/
+  title: Advocacy Groups Escalate Fight Over Grok in Government After OneGov Deal
+  date: '2025-10-01'
+  tier: 2
+  outlet: FedScoop
+- url: https://www.citizen.org/article/omb-urged-again-to-suspend-federal-use-of-grok-ai-over-accuracy-and-bias-violations/
+  title: OMB Urged (Again) to Suspend Federal Use of Grok AI Over Accuracy and Bias Violations
+  date: '2025-10-01'
+  tier: 2
+  outlet: Public Citizen
 capture_lanes:
 - Digital & Tech Capture
 status: reported

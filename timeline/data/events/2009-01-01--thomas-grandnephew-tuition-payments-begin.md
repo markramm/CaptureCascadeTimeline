@@ -45,4 +45,8 @@ notes: Bank records show Crow Holdings LLC wired monthly payments marked "Mark M
 status: confirmed
 ---
 
-Crow starts paying roughly $6,200 monthly tuition for Mark Martin, whom Thomas was raising as a son, at elite boarding schools totaling approximately $100,000 in undisclosed gifts
+Beginning in 2009, Republican megadonor Harlan Crow began paying approximately $6,200 per month in tuition for Mark Martin — Clarence Thomas's grandnephew, whom Thomas was raising as a son — at elite private boarding schools. Bank records show Crow Holdings LLC wired monthly payments marked "Mark Martin." The payments covered tuition at Hidden Lake Academy in Georgia (approximately $73,000 per year) and subsequently at Randolph-Macon Academy in Virginia, totaling approximately $100,000 in educational benefits over two years.
+
+ProPublica reported the payments in May 2023, part of its broader investigation into undisclosed financial relationships between Crow and Justice Thomas. Thomas did not disclose the tuition payments on his financial disclosure forms, which are required to report gifts of more than $415. Thomas's defenders argued that gifts for family members not living in the justice's household need not be disclosed, but ethics experts disputed this interpretation given Thomas's role as Martin's guardian.
+
+The tuition payments were part of a pattern of financial benefits flowing from Crow to Thomas and his family that stretched across more than two decades. Crow also purchased Thomas's mother's Savannah, Georgia home in 2014, provided luxury travel, funded private school scholarships, and reportedly paid for other family members' expenses — none of which Thomas disclosed. The relationship raised fundamental questions about judicial ethics and conflicts of interest, as Crow had interests before the Supreme Court and Thomas participated in cases touching on issues central to Crow's business and political activities.

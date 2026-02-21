@@ -18,6 +18,11 @@ sources:
   date: '2025-10-18'
   tier: 1
   outlet: The New York Times
+- url: https://www.washingtonpost.com/politics/2025/10/18/noem-jets-dhs-purchase/
+  title: DHS to spend $200 million on private jets for Noem, other officials
+  date: '2025-10-18'
+  tier: 1
+  outlet: The Washington Post
 status: confirmed
 capture_lanes:
 - Systematic Corruption

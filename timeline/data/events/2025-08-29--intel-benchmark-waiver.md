@@ -18,6 +18,16 @@ sources:
   title: Intel Stock Purchase & Waived Benchmarks Despite $11 Billion Federal Support
   tier: 1
   outlet: CBS News
+- url: https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html
+  title: U.S. Government Takes 10% Stake in Intel, as Trump Expands Control Over Private Sector
+  date: '2025-08-22'
+  tier: 1
+  outlet: CNBC
+- url: https://www.cnn.com/2025/08/22/tech/trump-intel-10-percent-stake
+  title: The US Takes a 10% Stake in Intel as Part of Trump's Big Tech Push
+  date: '2025-08-22'
+  tier: 1
+  outlet: CNN
 capture_lanes:
 - Corporate Capture
 - Digital & Tech Capture

@@ -13,6 +13,13 @@ sources:
 - title: Department of Justice is reviewing over 5.2 million Jeffrey Epstein files
   url: https://www.pbs.org/newshour/nation/department-of-justice-is-reviewing-over-5-2-million-jeffrey-epstein-files
   tier: 1
+  outlet: PBS NewsHour
+  date: '2025-12-31'
+- title: DOJ has 5.2 million pages of Epstein files left to review
+  url: https://www.cnbc.com/2025/12/31/epstein-files-trump-doj-fbi.html
+  tier: 1
+  outlet: CNBC
+  date: '2025-12-31'
 status: confirmed
 type: political
 actors:

@@ -9,11 +9,21 @@ tags:
 - appointment-accountability
 - separation-of-powers
 sources:
-- url: https://www.npr.org/2025/09/11/senate-republicans-nuclear-option-trump-confirmations
-  title: Republicans Invoke 'Nuclear Option' for Mass Confirmations
+- url: https://www.npr.org/2025/09/11/nx-s1-5538448/senate-republicans-nuclear-option-confirmations
+  title: Senate Republicans turn to 'nuclear option' to speed confirmation of Trump nominees
   date: '2025-09-11'
   tier: 1
   outlet: NPR
+- url: https://www.nbcnews.com/politics/congress/senate-republicans-nuclear-option-change-rules-trump-nominees-rcna230565
+  title: Senate Republicans Trigger 'Nuclear Option,' Changing Rules to Speed Up Trump Nominees
+  date: '2025-09-11'
+  tier: 1
+  outlet: NBC News
+- url: https://www.cnn.com/2025/09/11/politics/nuclear-option-senate-trump-nominees
+  title: GOP Goes Nuclear in Senate, Changing Rules to Speed Confirmation of Trump Nominees
+  date: '2025-09-11'
+  tier: 1
+  outlet: CNN
 actors:
 - John Thune
 - Senate Republicans

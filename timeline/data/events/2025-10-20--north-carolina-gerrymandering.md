@@ -19,6 +19,11 @@ sources:
   date: '2025-10-20'
   tier: 1
   outlet: Associated Press
+- url: https://www.democracydocket.com/news-alerts/blatant-discrimination-north-carolina-advances-gop-gerrymander-at-the-expense-of-black-voters/
+  title: "'Blatant Discrimination': North Carolina Advances GOP Gerrymander at the Expense of Black Voters"
+  date: '2025-10-20'
+  tier: 1
+  outlet: Democracy Docket
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

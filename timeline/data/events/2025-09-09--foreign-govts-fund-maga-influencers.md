@@ -14,6 +14,11 @@ sources:
   date: '2025-09-09'
   tier: 2
   outlet: WIRED
+- url: https://responsiblestatecraft.org/israel-paid-influencers/
+  title: DOJ asked to reveal names of Israeli influencers in US
+  date: '2025-09-09'
+  tier: 2
+  outlet: Responsible Statecraft
 actors:
 - Israel
 - Hungary

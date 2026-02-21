@@ -46,3 +46,9 @@ capture_lanes:
 - Judicial Capture
 - Systematic Corruption
 ---
+
+Former House Speaker Dennis Hastert was sentenced on April 27, 2016, to 15 months in federal prison, two years of supervised release, and a $250,000 fine by U.S. District Judge Thomas Durkin, who described Hastert as a "serial child molester" during an emotional hearing. Though charged only with illegal bank structuring, Durkin stated that "some conduct is unforgivable no matter how old it is," directly addressing the underlying sexual abuse crimes that were beyond the statute of limitations.
+
+Federal prosecutors detailed that Hastert had molested at least five teenage boys, some as young as 14, while serving as a wrestling coach at Yorkville High School in Illinois during the late 1960s and 1970s. Scott Cross — brother of former Illinois House Minority Leader Tom Cross — publicly identified himself and testified that Hastert assaulted him in a locker room when he was 17 and the team captain. Cross stated the violation of trust continued to scar him decades later.
+
+When confronted about the abuse in 2008, Hastert agreed to pay $3.5 million for the victim's silence, but when his suspicious cash withdrawals triggered an FBI investigation, he falsely claimed he was being extorted — victimizing his accuser a second time. Hastert became the highest-ranking elected official in U.S. history to face criminal consequences for such conduct, revealing that the man who was third in line to the presidency had spent decades concealing his past as a predator.

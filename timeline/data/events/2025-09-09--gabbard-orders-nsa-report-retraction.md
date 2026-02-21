@@ -14,6 +14,11 @@ sources:
   date: '2025-09-09'
   tier: 1
   outlet: The New York Times
+- url: https://www.washingtonpost.com/national-security/2025/09/09/gabbard-nsa-intelligence-report-retraction-grenell-venezuela/
+  title: Gabbard orders intelligence report retracted that described Grenell's Venezuela talks
+  date: '2025-09-09'
+  tier: 1
+  outlet: The Washington Post
 actors:
 - Tulsi Gabbard
 - Richard Grenell

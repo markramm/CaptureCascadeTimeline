@@ -18,6 +18,11 @@ sources:
   date: '2025-10-17'
   tier: 2
   outlet: USA Today
+- url: https://www.cbsnews.com/news/government-shutdown-army-corps-of-engineers-projects-pause-11-billion/
+  title: Army Corps of Engineers pauses $11 billion in projects, including in 4 Democratic cities, budget chief says
+  date: '2025-10-17'
+  tier: 1
+  outlet: CBS News
 status: confirmed
 capture_lanes:
 - Systematic Corruption

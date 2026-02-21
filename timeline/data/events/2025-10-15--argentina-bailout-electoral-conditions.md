@@ -20,6 +20,21 @@ sources:
   date: '2025-10-15'
   tier: 2
   outlet: The Hill
+- url: https://www.washingtonpost.com/world/2025/10/26/argentina-midterm-election-milei-trump-bailout/
+  title: Argentina's Milei wins friendlier Congress in midterms after U.S. bailout
+  date: '2025-10-26'
+  tier: 1
+  outlet: The Washington Post
+- title: 'WATCH: Trump meets with Argentina''s Milei as U.S. prepares $20 billion bailout'
+  url: https://www.pbs.org/newshour/politics/watch-live-trump-meets-with-argentinas-milei-as-u-s-prepares-20-billion-bailout
+  outlet: PBS NewsHour
+  date: '2025-10-15'
+  tier: 1
+- title: The Argentina bailout is all about propping up a Trump ally
+  url: https://www.cnn.com/2025/09/25/business/argentina-bailout-trump-milei
+  outlet: CNN
+  date: '2025-09-25'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

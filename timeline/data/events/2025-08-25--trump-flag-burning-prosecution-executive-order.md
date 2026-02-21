@@ -19,6 +19,16 @@ sources:
   date: '2025-08-25'
   tier: 1
   outlet: Federal Register
+- url: https://www.washingtonpost.com/politics/2025/08/26/trump-flag-burning-supreme-court-texas-johnson/
+  title: Trump's Flag-Burning Order Challenges a SCOTUS Case. Here's What It Means.
+  date: '2025-08-26'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.npr.org/2025/08/27/nx-s1-5518151/flag-burning-executive-order
+  title: Flag Burning, Targeted by Trump, Has Supreme Court Protection
+  date: '2025-08-27'
+  tier: 1
+  outlet: NPR
 capture_lanes:
 - Executive Power Expansion
 - Judicial Capture

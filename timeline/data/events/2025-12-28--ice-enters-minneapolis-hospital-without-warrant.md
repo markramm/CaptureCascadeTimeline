@@ -18,6 +18,11 @@ sources:
   outlet: CBS Minnesota
   date: '2026-01-08'
   tier: 1
+- title: The surge in immigration enforcement is impacting health care across the nation, doctors warn
+  url: https://edition.cnn.com/2026/02/19/us/immigration-doctors-ice-health-care
+  outlet: CNN
+  date: '2026-02-19'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

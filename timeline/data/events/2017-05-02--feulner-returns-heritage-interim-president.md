@@ -81,3 +81,9 @@ sources:
 capture_lanes:
 - Democratic Erosion
 ---
+
+On May 2, 2017, the Heritage Foundation's Board of Trustees unanimously voted to oust president Jim DeMint, citing "significant and worsening management issues" that had created internal turmoil and damaged the organization's effectiveness. DeMint, who had resigned from the U.S. Senate in 2012 to lead Heritage, had centralized decision-making among a small group of advisers, alienating long-time staff and triggering significant turnover among experienced policy analysts and researchers. The board immediately called on founder Edwin Feulner — retired since 2013 after 36 years as president — to return as interim leader.
+
+Feulner's return at age 75 demonstrated Heritage's reliance on his foundational institutional knowledge and donor relationships. As interim president, he stabilized operations and maintained Heritage's critical role in staffing and advising the Trump administration, which had been inaugurated just three months earlier. Feulner had already been serving on Trump's transition team, providing continuity in Heritage's traditional "government-in-waiting" function for Republican administrations.
+
+Feulner served as interim president until January 2018, when Kay Coles James — a veteran of three Republican administrations — assumed the permanent role. James would go on to oversee the development of Project 2025, the comprehensive policy blueprint for a second Trump administration. The DeMint ouster and Feulner's return illustrated challenges facing conservative institutions in transitioning from their founding generation to new leadership while maintaining institutional effectiveness and donor confidence.

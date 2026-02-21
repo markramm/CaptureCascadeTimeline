@@ -18,6 +18,11 @@ sources:
   outlet: Ken Klippenstein
   date: '2026-01-13'
   tier: 2
+- title: 2,000 federal agents sent to Minneapolis area to carry out 'largest immigration operation ever,' ICE says
+  url: https://www.pbs.org/newshour/politics/2000-federal-agents-sent-to-minneapolis-area-to-carry-out-largest-immigration-operation-ever-ice-says
+  outlet: PBS NewsHour
+  date: '2026-01-06'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

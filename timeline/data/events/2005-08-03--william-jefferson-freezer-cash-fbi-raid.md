@@ -45,3 +45,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+On August 3, 2005, FBI agents raiding the home of Rep. William J. Jefferson (D-LA) discovered $90,000 in cash hidden in his freezer, wrapped in aluminum foil in $10,000 increments and concealed inside frozen-food containers. The serial numbers matched funds the FBI had provided to informant Lori Mody, a Virginia businesswoman who had delivered the marked cash to Jefferson at the Ritz-Carlton in Arlington on July 30, 2005. Mody was cooperating with investigators after alleging Jefferson was defrauding her in African telecommunications deals; the exchange was captured on camera.
+
+Jefferson told Mody the funds were intended as "a motivating factor" for Nigeria's Vice President Atiku Abubakar to secure telecommunications contracts for American companies. Jefferson was indicted on June 4, 2007, on 16 counts of bribery, racketeering, money laundering, obstruction of justice, and related charges. On August 5, 2009, a jury found him guilty of 11 counts.
+
+On November 13, 2009, Jefferson was sentenced to 13 years in federal prison — the longest sentence ever imposed on a member of Congress for bribery at the time. He was released in 2017 after serving six and a half years. The case, which crossed party lines and involved an African foreign government, became one of the most memorable images of congressional corruption from the mid-2000s.

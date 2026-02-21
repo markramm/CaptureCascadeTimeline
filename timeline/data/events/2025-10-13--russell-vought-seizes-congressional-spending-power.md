@@ -13,6 +13,11 @@ sources:
   date: '2025-10-13'
   tier: 1
   outlet: The Washington Post
+- title: Trump budget officials claim sweeping spending power from Congress, records show
+  url: https://www.washingtonpost.com/business/2025/08/19/trump-budget-congress-impoundment/
+  date: '2025-08-19'
+  tier: 1
+  outlet: The Washington Post
 tags:
 - institutional-capture
 - executive-overreach

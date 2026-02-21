@@ -17,6 +17,11 @@ sources:
   date: '2025-10-20'
   tier: 2
   outlet: Popular Information
+- url: https://www.commondreams.org/news/ice-weapons
+  title: Trump's ICE Jacks Up Weapons Spending by 700%
+  date: '2025-10-20'
+  tier: 2
+  outlet: Common Dreams
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex

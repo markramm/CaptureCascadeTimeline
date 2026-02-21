@@ -15,6 +15,16 @@ sources:
   date: '2025-10-10'
   tier: 1
   outlet: The Wall Street Journal
+- title: TrumpRx push brings big pharma to the table
+  url: https://www.washingtonpost.com/wp-intelligence/health-brief/2025/10/08/trumprx-big-pharma-ama-billing-codes/
+  date: '2025-10-08'
+  tier: 1
+  outlet: The Washington Post
+- title: 'Pharmalittle: Reading about Trump and BlinkRx conflicts of interest'
+  url: https://www.statnews.com/pharmalot/2025/10/08/trump-medicines-pharma-lilly-sarepta-fda-antitrust-medicaid/
+  outlet: STAT News
+  date: '2025-10-08'
+  tier: 1
 tags:
 - conflicts-of-interest
 - systematic-corruption

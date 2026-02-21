@@ -21,6 +21,16 @@ sources:
   date: '2025-10-15'
   tier: 1
   outlet: The Wall Street Journal
+- url: https://www.democracynow.org/2025/10/17/headlines/wsj_trump_admin_to_overhaul_irs_to_pursue_left_leaning_groups_and_major_democratic_donors
+  title: Trump Admin to Overhaul IRS to Pursue Left-Leaning Groups and Major Democratic Donors
+  date: '2025-10-17'
+  tier: 1
+  outlet: Democracy Now
+- title: Trump Plots to Use IRS to Go After His Enemies and All Liberal Groups
+  url: https://newrepublic.com/post/201853/trump-irs-enemies-liberal-groups
+  outlet: The New Republic
+  date: '2025-10-15'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Regulatory Capture

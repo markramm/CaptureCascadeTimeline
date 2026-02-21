@@ -16,6 +16,16 @@ sources:
   date: '2025-10-10'
   tier: 1
   outlet: The New York Times
+- title: Congressional watchdog probes Trump FHFA chief Bill Pulte
+  url: https://www.cnbc.com/2025/12/04/congressional-watchdog-probes-trump-fhfa-chief-bill-pulte.html
+  date: '2025-12-04'
+  tier: 2
+  outlet: CNBC
+- title: Government Accountability Office launches probe into Bill Pulte over mortgage-fraud referrals
+  url: https://www.cnn.com/2025/12/04/business/government-accountability-office-investigation-bill-pulte-mortgage-referrals
+  date: '2025-12-04'
+  tier: 1
+  outlet: CNN
 tags:
 - political-prosecution
 - systematic-corruption

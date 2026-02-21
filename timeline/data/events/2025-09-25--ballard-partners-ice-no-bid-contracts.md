@@ -23,6 +23,16 @@ sources:
   date: '2025-09-25'
   tier: 1
   outlet: Project on Government Oversight
+- title: Conflicted Justice - Ballard Partners Lobbying DOJ Run by Former Ballard Lobbyist Pam Bondi
+  url: https://www.citizen.org/news/d-c-firm-ballard-partners-lobbying-department-of-justice-run-by-former-ballard-lobbyist-pam-bondi-new-filings-show/
+  date: '2025-09-25'
+  tier: 2
+  outlet: Public Citizen
+- title: "No-Bid ICE Contract Went to Former ICE Agents Sued for Fabricating Criminal Evidence on the Job"
+  url: https://theintercept.com/2025/04/17/ice-deportation-contracts-us-advisors/
+  date: '2025-04-17'
+  tier: 1
+  outlet: The Intercept
 capture_lanes:
 - Surveillance Infrastructure
 - Systematic Corruption

@@ -15,6 +15,11 @@ sources:
   title: Crypto Executive Pardon via Lobbying
   url: https://www.politico.com/news/2025/10/25/binance-zhao-pardon-lobbying-trump
   outlet: Politico
+- date: '2025-10-23'
+  tier: 1
+  title: Trump pardons convicted Binance founder Changpeng Zhao
+  url: https://www.cnbc.com/2025/10/23/trump-pardons-binance-founder-cz-zhao.html
+  outlet: CNBC
 status: confirmed
 tags:
 - conflicts-of-interest

@@ -45,3 +45,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+On December 3, 2019, U.S. Representative Duncan Hunter pleaded guilty in federal court in San Diego to one count of conspiracy to misuse campaign funds, admitting that he and his wife Margaret knowingly stole hundreds of thousands of dollars in campaign contributions to maintain their personal lifestyle. The plea came after more than a year of Hunter denying wrongdoing, claiming the prosecution was a politically motivated "witch hunt," and publicly attempting to shift blame onto Margaret, who had already pleaded guilty in June 2019.
+
+Hunter admitted that he and Margaret illegally converted more than $150,000 in campaign funds between 2010 and 2016 in "30 or more illegal transactions." The stolen funds went toward items "as inconsequential as fast food, movie tickets and sneakers; as trivial as video games, Lego sets and Playdoh; as mundane as groceries, dog food, and utilities; and as self-indulgent as luxury hotels and overseas vacations," including a 2015 Italy trip costing over $14,000. Hunter simultaneously submitted his resignation from Congress.
+
+Hunter was sentenced to 11 months in federal prison and a fine of $50 terms. The case gained additional political significance because Hunter had been the second House member to endorse Donald Trump in 2016 — after Chris Collins, who also pleaded guilty to criminal charges. Trump pardoned Hunter in December 2020, part of a broader pattern of using the pardon power to reward loyal allies facing criminal accountability. The case demonstrated how the culture of impunity within Trump's orbit extended to congressional allies who treated public resources as personal property.

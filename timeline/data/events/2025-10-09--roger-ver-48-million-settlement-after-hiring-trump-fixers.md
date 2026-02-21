@@ -15,6 +15,11 @@ sources:
   date: '2025-10-09'
   tier: 1
   outlet: The New York Times
+- title: "Roger Ver 'Bitcoin Jesus' reaches $48 million settlement with DOJ"
+  url: https://www.bloomberg.com/news/articles/2025-10-09/bitcoin-jesus-roger-ver-reaches-deal-doj-prosecutors
+  date: '2025-10-09'
+  tier: 1
+  outlet: Bloomberg
 tags:
 - systematic-corruption
 - crypto-corruption

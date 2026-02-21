@@ -13,6 +13,11 @@ sources:
   title: NPR Sues Over $36M Contract Pulled After Trump Attacks
   url: https://www.npr.org/2025/10/27/npr-lawsuit-cpb-contract-cancellation
   outlet: NPR
+- date: '2025-10-27'
+  tier: 1
+  title: NPR lawsuit alleges Corporation for Public Broadcasting gave in to political pressure
+  url: https://www.npr.org/2025/10/27/nx-s1-5586147/npr-cpb-lawsuit-political-pressure
+  outlet: NPR
 status: confirmed
 tags:
 - corruption

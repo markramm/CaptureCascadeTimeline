@@ -14,6 +14,16 @@ sources:
   date: '2025-09-11'
   tier: 1
   outlet: The Guardian
+- url: https://www.aljazeera.com/news/2025/10/15/us-revokes-six-visas-over-charlie-kirk-death-amid-social-media-crackdown
+  title: US Revokes Six Visas Over Charlie Kirk Death Amid Social Media Crackdown
+  date: '2025-10-15'
+  tier: 2
+  outlet: Al Jazeera
+- url: https://www.cnn.com/2025/10/14/politics/state-department-revoke-visas-charlie-kirk-murder
+  title: State Department Says It Has Revoked Visas from People Who Allegedly 'Celebrated' Charlie Kirk's Murder
+  date: '2025-10-14'
+  tier: 1
+  outlet: CNN
 actors:
 - Christopher Landau
 - State Department

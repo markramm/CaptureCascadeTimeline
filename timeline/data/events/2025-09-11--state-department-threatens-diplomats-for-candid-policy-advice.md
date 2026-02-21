@@ -14,6 +14,16 @@ sources:
   date: '2025-09-11'
   tier: 1
   outlet: NBC News
+- url: https://federalnewsnetwork.com/workforce/2025/07/fidelity-to-trump-policies-now-part-of-criteria-for-foreign-service-promotions/
+  title: "'Fidelity' to Trump Policies Now Part of Criteria for Foreign Service Promotions"
+  date: '2025-07-01'
+  tier: 2
+  outlet: Federal News Network
+- url: https://www.nbcnews.com/politics/national-security/us-diplomats-say-are-reluctant-share-inconvenient-truths-trump-adminis-rcna229991
+  title: "U.S. Diplomats Say They're Reluctant to Share Inconvenient Truths With the Trump Administration"
+  date: '2025-09-08'
+  tier: 1
+  outlet: NBC News
 actors:
 - State Department
 - American Foreign Service Association

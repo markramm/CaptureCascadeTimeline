@@ -44,3 +44,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+On August 21, 2018, a federal grand jury in San Diego indicted U.S. Representative Duncan D. Hunter (R-CA) and his wife Margaret on 60 counts including wire fraud, campaign finance violations, and conspiracy. The indictment alleged they converted more than $250,000 in campaign funds for personal use over several years, filing false records with the Federal Election Commission to conceal the thefts. Hunter was the second House member to endorse Donald Trump in 2016 and initially denied wrongdoing, claiming the prosecution was a politically motivated "witch hunt."
+
+The Hunters' illegal expenditures were documented in extraordinary detail: family vacations to Italy costing over $14,000, airline tickets for their pet rabbits Eggburt and Cadbury, school tuition, dental work, theater tickets, and tens of thousands on fast food, video games, and coffee. Their bank account was overdrawn more than 1,100 times over seven years, generating over $37,000 in overdraft fees. Hunter attempted to shift blame entirely onto his wife Margaret, who had already cooperated with prosecutors.
+
+Margaret Hunter pleaded guilty in June 2019. Duncan Hunter held out until December 2019, when he pleaded guilty to one count of conspiracy to misuse campaign funds. He was sentenced to 11 months in prison but was pardoned by President Trump in December 2020 — part of a wave of pardons benefiting Trump allies and supporters. The case exemplified a pattern of congressional corruption in which campaign committees were treated as personal slush funds, with accountability only arriving through federal prosecution rather than political accountability.

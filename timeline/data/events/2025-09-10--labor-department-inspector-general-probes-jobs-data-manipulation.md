@@ -14,6 +14,16 @@ sources:
   date: '2025-09-10'
   tier: 1
   outlet: CBS News
+- url: https://www.cnbc.com/2025/09/10/trump-bls-jobs-data-labor.html
+  title: Labor Department watchdog opens probe of BLS jobs, inflation data collection
+  date: '2025-09-10'
+  tier: 2
+  outlet: CNBC
+- url: https://www.bloomberg.com/news/articles/2025-09-10/labor-inspector-general-initiates-review-of-bls-challenges
+  title: Labor Inspector General Initiates Review of BLS 'Challenges' Over Economic Data
+  date: '2025-09-10'
+  tier: 1
+  outlet: Bloomberg
 actors:
 - Labor Department Inspector General
 - Erika McEntarfer

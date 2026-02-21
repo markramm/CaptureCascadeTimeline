@@ -20,6 +20,11 @@ sources:
   date: '2025-10-17'
   tier: 1
   outlet: ProPublica
+- url: https://foreignpolicy.com/2025/11/03/russell-vought-office-management-budget-powers/
+  title: How Russell Vought's Office of Management and Budget Became So Powerful
+  date: '2025-11-03'
+  tier: 2
+  outlet: Foreign Policy
 status: confirmed
 capture_lanes:
 - Systematic Corruption

@@ -18,6 +18,12 @@ sources:
   url: https://www.tillis.senate.gov/2026/1/tillis-statement-on-federal-reserve-nominations
   outlet: Senator Tillis Office
   tier: 1
+  date: '2026-01-12'
+- title: Republican Sen. Thom Tillis vows to block Trump's Fed nominees following Powell probe
+  url: https://www.cnbc.com/2026/01/12/republican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html
+  outlet: CNBC
+  tier: 1
+  date: '2026-01-12'
 status: confirmed
 capture_lanes:
 - Democratic Erosion

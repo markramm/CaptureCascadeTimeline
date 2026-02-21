@@ -21,6 +21,11 @@ sources:
   date: '2025-07-31'
   tier: 2
   outlet: Citizens for Responsibility and Ethics in Washington
+- url: https://www.opensecrets.org/news/2025/08/corporate-pac-donations-election-deniers/
+  title: Corporate PAC Money Flows to Election Objectors Despite Public Pledges
+  date: '2025-08-01'
+  tier: 2
+  outlet: OpenSecrets
 capture_lanes:
 - Electoral Manipulation
 - Systematic Corruption

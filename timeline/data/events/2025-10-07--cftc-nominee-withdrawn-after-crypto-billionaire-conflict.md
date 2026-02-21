@@ -16,6 +16,11 @@ sources:
   date: '2025-10-07'
   tier: 2
   outlet: The Hill
+- title: White House Withdraws Pro-Crypto Brian Quintenz's Name From CFTC Chair Nomination
+  url: https://www.coindesk.com/policy/2025/09/30/white-house-withdraws-brian-quintenz-s-name-from-cftc-chair-nomination
+  date: '2025-09-30'
+  tier: 2
+  outlet: CoinDesk
 tags:
 - regulatory-capture
 - crypto-corruption

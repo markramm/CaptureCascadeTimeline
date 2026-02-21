@@ -14,6 +14,11 @@ sources:
   title: Trump Family Crypto Platform Tied to Pardoned Binance Executive
   url: https://www.bloomberg.com/news/articles/2025-10-27/trump-family-crypto-binance-zhao-pardon-connections
   outlet: Bloomberg
+- date: '2025-11-04'
+  tier: 1
+  title: Trump family's cryptocurrency ties raise concerns as administration loosens regulations
+  url: https://www.pbs.org/newshour/show/trump-familys-cryptocurrency-ties-raise-concerns-as-administration-loosens-regulations
+  outlet: PBS NewsHour
 status: confirmed
 tags:
 - bribery

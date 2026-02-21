@@ -14,6 +14,16 @@ sources:
   date: '2025-09-12'
   tier: 1
   outlet: Bloomberg
+- url: https://www.washingtonpost.com/politics/2025/08/27/trump-calls-racketeering-charges-against-top-democratic-donor-son/
+  title: Trump Calls for Racketeering Charges Against George Soros and His Son Alex
+  date: '2025-08-27'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.cnn.com/2025/09/17/politics/trump-rico-liberal-groups
+  title: Trump Wants to Use the RICO Act Against Liberal Groups and Donors
+  date: '2025-09-17'
+  tier: 1
+  outlet: CNN
 actors:
 - Donald Trump
 - George Soros

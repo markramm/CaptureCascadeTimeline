@@ -43,3 +43,9 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 ---
+
+Rep. Aaron Schock (R-IL), at 33 one of the Republican Party's most prominent rising stars, announced his resignation from Congress effective March 31, 2015, amid mounting allegations of misusing federal funds and campaign finance violations. The scandal ignited when Schock's Washington office — renovated in a "Downton Abbey" style at a reported cost of over $100,000 in taxpayer funds — became public. Decorator Annie Brahler was paid $35,000, and the renovation spanned Schock's Washington and district offices from January 2009 to 2014.
+
+More damaging was the mileage fraud: investigators discovered Schock billed the federal government and his campaign for 170,000 miles on his personal car, but when he sold the vehicle it had only 80,000 miles on the odometer — meaning he fraudulently claimed reimbursement for approximately 90,000 miles the car never traveled. Schock was also among the top travel spenders in the House, repeatedly using taxpayer and campaign funds to rent private aircraft in apparent violation of House rules and campaign finance law.
+
+In November 2016, Schock was indicted on 24 federal counts including wire fraud, theft of government funds, false statements, and filing false tax returns. In March 2019, federal prosecutors dropped all charges after Schock agreed to repay the IRS and his campaign committee and pay a fine — an outcome critics characterized as two-tier justice that shielded a well-connected former congressman from the criminal penalties ordinary defendants would have faced. Schock had in his resignation statement referred only to "constant questions" that had "proven a great distraction," without acknowledging wrongdoing.

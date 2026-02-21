@@ -19,6 +19,11 @@ sources:
   date: '2025-10-20'
   tier: 2
   outlet: WIRED
+- url: https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/
+  title: FTC removes Lina Khan-era posts about AI risks and open source
+  date: '2025-10-20'
+  tier: 2
+  outlet: TechCrunch
 status: confirmed
 capture_lanes:
 - Regulatory Capture

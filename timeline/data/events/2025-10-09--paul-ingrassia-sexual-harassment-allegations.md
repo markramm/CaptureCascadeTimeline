@@ -13,6 +13,11 @@ sources:
   date: '2025-10-09'
   tier: 1
   outlet: Politico
+- title: Trump nominee Paul Ingrassia reportedly accused of sexual harassment
+  url: https://www.cnbc.com/2025/10/10/trump-ingrassia-accused-sexual-harassment.html
+  date: '2025-10-10'
+  tier: 2
+  outlet: CNBC
 tags:
 - institutional-capture
 - workplace-harassment

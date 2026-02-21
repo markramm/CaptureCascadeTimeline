@@ -14,6 +14,11 @@ sources:
   date: '2025-10-09'
   tier: 2
   outlet: The Hill
+- title: FBI fires special agents who worked on Jack Smith's probe into Trump
+  url: https://www.nbcnews.com/politics/justice-department/fbi-fires-special-agents-worked-jack-smiths-probe-trump-rcna236415
+  date: '2025-10-09'
+  tier: 1
+  outlet: NBC News
 tags:
 - institutional-capture
 - fbi-weaponization

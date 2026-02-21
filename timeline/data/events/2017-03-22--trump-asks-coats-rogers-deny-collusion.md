@@ -21,6 +21,16 @@ sources:
   date: '2017-05-23'
   tier: 1
   outlet: NBC News
+- url: https://www.washingtonpost.com/world/national-security/trump-asked-intelligence-chiefs-to-push-back-against-fbi-collusion-probe-after-comey-revealed-its-existence/2017/05/22/394933bc-3f10-11e7-9869-bac8b446820a_story.html
+  title: Trump Asked Intelligence Chiefs to Push Back Against FBI Collusion Probe After Comey Revealed Its Existence
+  date: '2017-05-22'
+  tier: 1
+  outlet: The Washington Post
+- url: https://www.cnn.com/2017/05/22/politics/donald-trump-intelligence-community/index.html
+  title: Trump Asked DNI, NSA to Deny Evidence of Russia Collusion
+  date: '2017-05-22'
+  tier: 1
+  outlet: CNN
 status: confirmed
 capture_lanes:
 - International Kleptocracy

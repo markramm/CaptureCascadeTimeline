@@ -23,6 +23,11 @@ sources:
   date: '2025-10-25'
   tier: 1
   outlet: CBS News
+- url: https://time.com/7327752/trump-white-house-ballroom-funding-donors/
+  title: Who Is Paying for Trump's $250 Million Ballroom—and What They Might Get in Return
+  date: '2025-10-23'
+  tier: 2
+  outlet: TIME
 status: confirmed
 capture_lanes:
 - Systematic Corruption

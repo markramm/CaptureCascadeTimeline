@@ -8,11 +8,16 @@ actors:
 - Boring Company
 - Nevada Regulators
 sources:
-- title: Elon Musk's Boring Co. Accused of Nearly 800 Environmental Violations
-  url: https://www.propublica.org/article/boring-company-elon-musk-environmental-violations-las-vegas
+- title: "Elon Musk's Boring Co. Accused of Nearly 800 Environmental Violations on Las Vegas Project"
+  url: https://www.propublica.org/article/elon-musk-boring-company-violations-fines-vegas-loop
   date: '2025-10-10'
   tier: 1
   outlet: ProPublica
+- title: "Musk's Boring Co. violated environmental regulations nearly 800 times, Nevada alleges"
+  url: https://techcrunch.com/2025/10/10/musks-boring-co-violated-environmental-regulations-nearly-800-times-nevada-alleges/
+  date: '2025-10-10'
+  tier: 2
+  outlet: TechCrunch
 tags:
 - regulatory-capture
 - environmental-violations

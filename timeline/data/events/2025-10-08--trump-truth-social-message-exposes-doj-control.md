@@ -13,6 +13,16 @@ sources:
   date: '2025-10-08'
   tier: 1
   outlet: The Wall Street Journal
+- title: Trump accidentally posted message pressuring Pam Bondi to charge his enemies, source says
+  url: https://www.nbcnews.com/politics/justice-department/trump-accidentally-posted-message-pressuring-pam-bondi-charge-enemies-rcna236830
+  date: '2025-10-08'
+  tier: 1
+  outlet: NBC News
+- title: Trump accidentally posted message to Bondi on prosecuting Comey, adversaries
+  url: https://thehill.com/homenews/administration/5550406-trump-bondi-prosecution-truth-social-post/
+  date: '2025-10-08'
+  tier: 2
+  outlet: The Hill
 tags:
 - doj-weaponization
 - institutional-capture

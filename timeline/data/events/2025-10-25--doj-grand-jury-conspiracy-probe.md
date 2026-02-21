@@ -17,6 +17,11 @@ sources:
   title: Grand Jury Convened to Investigate 'Conspiracy Against Trump'
   url: https://abcnews.go.com/Politics/federal-grand-jury-trump-conspiracy-investigation/story
   outlet: ABC News
+- date: '2025-10-25'
+  tier: 1
+  title: DOJ Organizing Vast Conspiracy Investigation Against Trump Enemies, Bondi Says
+  url: https://www.democracydocket.com/news-alerts/attorney-general-pam-bondi-conspiracy-investigation-trump-enemies/
+  outlet: Democracy Docket
 status: confirmed
 tags:
 - corruption

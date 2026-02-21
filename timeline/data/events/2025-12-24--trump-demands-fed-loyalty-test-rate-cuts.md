@@ -18,6 +18,12 @@ sources:
   url: https://www.aljazeera.com/news/2025/12/24/trump-says-anyone-who-disagrees-with-him-will-never-head-federal-reserve
   outlet: Al Jazeera
   tier: 1
+  date: '2025-12-24'
+- title: Trump reveals litmus test for next Fed pick
+  url: https://www.cnbc.com/2025/12/10/trump-fed-interest-rates-powell.html
+  outlet: CNBC
+  tier: 1
+  date: '2025-12-10'
 status: confirmed
 capture_lanes:
 - Digital & Tech Capture

@@ -2,9 +2,7 @@
 id: 2025-04-02--trump-just-pardoned-a-corporation
 date: '2025-04-02'
 title: Trump just pardoned...a corporation?
-description: Trump issued a full pardon to HDR Global Trading, the parent company
-  of crypto exchange BitMEX, which had pleaded guilty to violating anti-money laundering
-  laws and was fined $100 million
+description: Trump issued a full pardon to HDR Global Trading, the parent company of crypto exchange BitMEX, which had pleaded guilty to violating anti-money laundering laws and was fined $100 million
 status: confirmed
 importance: 9
 location: Washington, D.C.
@@ -33,8 +31,7 @@ sources:
   url: https://www.coindesk.com/policy/2025/03/28/president-trump-pardons-arthur-hayes-2-other-bitmex-co-founders-cnbc
   outlet: CoinDesk
   date: '2025-03-28'
-- title: Trump reportedly pardons BitMEX co-founders convicted of money laundering
-    violations
+- title: Trump reportedly pardons BitMEX co-founders convicted of money laundering violations
   url: https://www.thestreet.com/crypto/policy/trump-reportedly-pardons-bitmex-co-founders-in-surprise-move
   outlet: TheStreet
   date: '2025-03-28'
@@ -45,5 +42,8 @@ notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Systematic Corruption
 ---
+President Trump issued a full pardon to HDR Global Trading Limited, the parent company of cryptocurrency exchange BitMEX, which had pleaded guilty in 2022 to violating the Bank Secrecy Act by failing to implement anti-money laundering programs, allowing criminals to use the platform. The company had been fined $100 million as part of its guilty plea. Trump also simultaneously pardoned BitMEX's four individual co-founders and a senior employee, who had separately pleaded guilty or been convicted of related charges. The Intercept noted this was "unprecedented" — no previous president had issued a formal pardon to a corporation.
 
-Trump issued a full pardon to HDR Global Trading, the parent company of crypto exchange BitMEX, which had pleaded guilty to violating anti-money laundering laws and was fined $100 million
+The constitutional authority for pardoning corporations was itself contested. The pardon power under Article II applies to "offenses against the United States," and legal scholars debated whether it extended to corporate entities that had pleaded guilty in federal court. The episode highlighted the Trump administration's sweeping approach to pardoning cryptocurrency industry figures as part of its broader crypto-friendly regulatory posture. The administration had already pardoned the founders of the Silk Road dark web marketplace and others convicted of cryptocurrency-related crimes, signaling that crypto industry actors who had committed federal offenses could seek presidential clemency as part of the administration's ideological alignment with the industry.
+
+CNBC and CoinDesk reported on the pardon on March 28, 2025, prior to the formal corporate pardon announcement. Critics noted that the crypto industry had contributed more than $238 million to political campaigns in the 2024 election cycle, primarily to candidates who favored crypto-friendly regulation. The pattern of pardons for convicted crypto executives — combined with the SEC dropping enforcement cases and Treasury lifting cryptocurrency-related sanctions — documented a systematic use of presidential power to benefit an industry that had made substantial political investments in the Trump campaign and inaugural fund.

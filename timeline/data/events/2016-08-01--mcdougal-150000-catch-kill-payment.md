@@ -47,3 +47,9 @@ status: confirmed
 ---
 
 National Enquirer pays former Playboy model Karen McDougal $150,000 for exclusive rights to story about year-long affair with Trump, largest catch-and-kill payment of campaign
+
+American Media Inc. (AMI), publisher of the National Enquirer, paid former Playboy model Karen McDougal $150,000 in August 2016 for the exclusive rights to her account of a year-long romantic affair with Donald Trump. Rather than publishing the story, AMI suppressed it entirely — the largest single catch-and-kill payment of the campaign. The deal was coordinated with Michael Cohen and the Trump campaign under the agreement reached at Trump Tower in August 2015.
+
+As part of the arrangement, McDougal also agreed to write fitness and health columns for AMI publications, a provision used to obscure the true purpose of the payment. She was contractually barred from discussing the alleged relationship with any other media outlet through the 2016 election. AMI later admitted to a non-prosecution agreement with federal prosecutors that the payment constituted an illegal corporate contribution to the Trump campaign.
+
+In June 2021, AMI was fined $187,500 by the Federal Election Commission for the illegal contribution. McDougal later filed suit to be released from the contract, eventually speaking publicly about the alleged relationship in 2018. Her story became part of the broader prosecution narrative in the 2024 Manhattan criminal trial, where Trump was convicted of falsifying business records related to the Daniels hush-money payment and its reimbursement scheme.

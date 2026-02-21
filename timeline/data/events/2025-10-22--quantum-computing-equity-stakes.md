@@ -20,6 +20,11 @@ sources:
   date: '2025-10-22'
   tier: 1
   outlet: The Wall Street Journal
+- url: https://www.cnbc.com/2025/10/23/first-rare-earths-and-chips-now-quantum-computers-trump-reportedly-eyes-new-us-stakes.html
+  title: First rare earths and chips, now quantum computers - Trump reportedly eyes new U.S. stakes
+  date: '2025-10-23'
+  tier: 1
+  outlet: CNBC
 status: confirmed
 capture_lanes:
 - Systematic Corruption

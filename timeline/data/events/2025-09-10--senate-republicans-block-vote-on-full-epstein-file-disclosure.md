@@ -14,6 +14,16 @@ sources:
   date: '2025-09-10'
   tier: 1
   outlet: The New York Times
+- url: https://www.nbcnews.com/politics/congress/schumer-epstein-senate-vote-rcna230389
+  title: Senate Republicans defeat Chuck Schumer push to force release of Epstein files
+  date: '2025-09-10'
+  tier: 1
+  outlet: NBC News
+- url: https://www.axios.com/2025/09/10/senate-republicans-schumer-epstein-files
+  title: Senate GOP blocks amendment to release Epstein files
+  date: '2025-09-10'
+  tier: 2
+  outlet: Axios
 actors:
 - Senate Republicans
 - Chuck Schumer

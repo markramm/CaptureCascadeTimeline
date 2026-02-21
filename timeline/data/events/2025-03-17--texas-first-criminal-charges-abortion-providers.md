@@ -20,6 +20,16 @@ sources:
   outlet: Texas Tribune
   date: '2025-03-17'
   tier: 1
+- title: 8 People Arrested in Case of Texas Midwife Charged With Performing Illegal Abortions
+  url: https://www.nbcnews.com/news/us-news/8-people-arrested-case-texas-midwife-charged-performing-illegal-aborti-rcna236608
+  outlet: NBC News
+  date: '2025-10-08'
+  tier: 1
+- title: Texas Midwife Arrested for Allegedly Providing Illegal Abortions
+  url: https://19thnews.org/2025/03/texas-midwife-arrested-illegal-abortions/
+  outlet: 19th News
+  date: '2025-03-17'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

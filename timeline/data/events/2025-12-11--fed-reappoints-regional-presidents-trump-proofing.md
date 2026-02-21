@@ -16,6 +16,11 @@ sources:
   url: https://fortune.com/2025/12/12/fed-independence-presidents-reappointment-board-governors-fomc-votes-rate-cuts/
   outlet: Fortune
   tier: 1
+- title: Federal Reserve Board announces reappointment of Reserve Bank presidents and first vice presidents
+  url: https://www.federalreserve.gov/newsevents/pressreleases/other20251211a.htm
+  outlet: Federal Reserve
+  date: '2025-12-11'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Financial Capture

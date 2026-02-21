@@ -14,6 +14,11 @@ sources:
   date: '2025-09-09'
   tier: 2
   outlet: 404 Media
+- url: https://www.wbez.org/immigration/2025/11/02/ice-trump-facial-recognition-clearview-police-oversight
+  title: ICE has powerful facial recognition app Illinois cops are barred from using — with little apparent oversight
+  date: '2025-11-02'
+  tier: 1
+  outlet: WBEZ Chicago (NPR)
 actors:
 - Immigration and Customs Enforcement (ICE)
 - Clearview AI

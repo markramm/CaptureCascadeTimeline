@@ -14,6 +14,11 @@ sources:
   date: '2025-10-13'
   tier: 1
   outlet: Reuters
+- title: Trump overheard on 'hot mic' apparently talking business with Indonesian leader
+  url: https://abcnews.go.com/US/trump-overheard-hot-mic-apparently-talking-business-indonesian/story?id=126525454
+  date: '2025-10-13'
+  tier: 1
+  outlet: ABC News
 tags:
 - conflicts-of-interest
 - foreign-influence

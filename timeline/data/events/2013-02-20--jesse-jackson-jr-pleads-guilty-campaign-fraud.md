@@ -44,3 +44,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+Former U.S. Representative Jesse Jackson Jr. (D-IL), son of civil rights leader Rev. Jesse Jackson, pleaded guilty in federal court on February 20, 2013, to one count of conspiracy to commit wire fraud, mail fraud, and false statements. Jackson admitted misusing approximately $750,000 in campaign funds for personal expenses over several years, telling Judge Robert L. Wilkins: "I used monies that should have been used for campaign purposes." Jackson had resigned from Congress in November 2012 after nearly 18 years in office, citing mental health issues and acknowledging he was under federal investigation.
+
+The lavish personal purchases made with campaign funds included a $43,350 gold-plated men's Rolex watch, $9,588 in children's furniture, Michael Jackson and Malcolm X memorabilia, mounted elk heads, fur capes, trips, dry cleaning, health club dues, and private-school tuition. On the same day, Jackson's wife Sandra Stevens Jackson — a former Chicago alderman — also pleaded guilty to one count of filing false tax returns for failing to declare more than $600,000 in income from 2005 to 2011.
+
+Jackson was sentenced to 30 months in federal prison, while his wife received 12 months. The coordinated guilty pleas represented a stunning fall for a political family that had been considered among the Democratic Party's most prominent dynasties. Jackson had been discussed as a potential candidate for Chicago mayor and had sought to be appointed to President Obama's vacant Senate seat before Blagojevich's corruption scheme intervened. The case, alongside contemporaneous scandals involving Republican members, demonstrated that campaign finance fraud crossed party lines throughout this era of congressional misconduct.

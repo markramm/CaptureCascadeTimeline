@@ -18,6 +18,16 @@ sources:
   date: '2025-10-15'
   tier: 1
   outlet: The New York Times
+- url: https://www.govexec.com/workforce/2025/06/lynch-opms-hiring-plan-includes-blatant-loyalty-test/405740/
+  title: Lynch - OPM's hiring plan includes 'blatant loyalty test'
+  date: '2025-06-01'
+  tier: 2
+  outlet: Government Executive
+- title: Critics warn of loyalty test in new White House hiring guidelines
+  url: https://www.axios.com/2025/06/02/white-house-loyalty-trump
+  outlet: Axios
+  date: '2025-06-02'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Systematic Corruption

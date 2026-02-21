@@ -10,10 +10,20 @@ actors:
 - U.S. Congress
 sources:
 - title: 'Trump''s shutdown architect: Russ Vought''s plan to deconstruct the government was years in the making'
-  url: https://www.cnn.com/2025/10/03/politics/russ-vought-shutdown-project-2025
-  date: '2025-10-03'
+  url: https://www.cnn.com/2025/10/02/politics/russ-vought-shutdown-architect
+  date: '2025-10-02'
   tier: 1
   outlet: CNN
+- title: Why Russ Vought is central to the government shutdown fight
+  url: https://www.npr.org/2025/10/02/nx-s1-5560994/trump-vought-shutdown-democrats
+  date: '2025-10-02'
+  tier: 1
+  outlet: NPR
+- title: "What You Should Know About Russ Vought, Trump's Shadow President"
+  url: https://www.propublica.org/article/about-russell-vought-trump-shadow-president
+  date: '2025-10-01'
+  tier: 1
+  outlet: ProPublica
 tags:
 - institutional-capture
 - systematic-corruption

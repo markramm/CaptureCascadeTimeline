@@ -14,6 +14,16 @@ sources:
   date: '2025-09-09'
   tier: 1
   outlet: Reuters
+- url: https://www.cnbc.com/2025/07/09/trump-big-beautiful-bill-slashes-cfpb-funding-what-it-means.html
+  title: "Trump's 'big beautiful bill' slashes CFPB funding: What it means for you"
+  date: '2025-07-09'
+  tier: 2
+  outlet: CNBC
+- url: https://news.bloomberglaw.com/banking-law/cfpb-eyeing-more-job-cuts-as-republican-funding-cap-takes-hold
+  title: CFPB Eyeing More Job Cuts as Republican Funding Cap Hits
+  date: '2025-09-09'
+  tier: 1
+  outlet: Bloomberg Law
 actors:
 - Consumer Financial Protection Bureau
 - U.S. Congress

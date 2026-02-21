@@ -18,6 +18,16 @@ sources:
   title: White House Fires Surface Transportation Board Member in Email
   tier: 1
   outlet: The New York Times
+- url: https://www.pbs.org/newshour/politics/trump-fires-democratic-surface-transportation-board-member-before-huge-rail-merger-decision
+  title: Trump Fires Democratic Surface Transportation Board Member Before Huge Rail Merger Decision
+  date: '2025-08-28'
+  tier: 1
+  outlet: PBS News
+- url: https://www.cnbc.com/2025/08/28/trump-robert-primus-stb-amtrak-train.html
+  title: Trump Railroad Regulator Robert Primus Was Fired After Amtrak Acela Unveiling
+  date: '2025-08-28'
+  tier: 1
+  outlet: CNBC
 capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture

@@ -19,6 +19,16 @@ sources:
   outlet: NBC News
   date: '2025-01-15'
   tier: 1
+- title: New York Doctor Margaret Carpenter Indicted in Louisiana Abortion Case
+  url: https://www.cnn.com/2025/02/23/us/abortion-margaret-carpenter-new-york/index.html
+  outlet: CNN
+  date: '2025-02-23'
+  tier: 1
+- title: N.Y. Doctor Charged With Prescribing Abortion Pills to Louisiana Girl
+  url: https://www.washingtonpost.com/politics/2025/01/31/abortion-doctor-indictment-criminal-louisiana-new-york/
+  outlet: The Washington Post
+  date: '2025-01-31'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression

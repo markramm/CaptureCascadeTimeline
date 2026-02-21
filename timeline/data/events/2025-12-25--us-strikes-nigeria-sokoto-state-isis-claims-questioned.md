@@ -23,6 +23,12 @@ sources:
   url: https://www.ft.com/content/99d23e21-1ca4-4dbc-819d-90449d0040ba
   outlet: Financial Times
   tier: 1
+  date: '2025-12-26'
+- title: President Trump announces strike on ISIS targets in Nigeria
+  url: https://www.npr.org/2025/12/25/g-s1-103704/nigeria-isis-islamic-state
+  outlet: NPR
+  tier: 1
+  date: '2025-12-25'
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex

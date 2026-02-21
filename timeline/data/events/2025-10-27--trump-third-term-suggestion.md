@@ -11,6 +11,11 @@ sources:
   title: Trump Floats Constitutional Third Term Bypass
   url: https://www.theguardian.com/us-news/2025/oct/27/trump-third-term-vice-president-suggestion
   outlet: The Guardian
+- date: '2025-10-27'
+  tier: 2
+  title: Donald Trump, Steve Bannon keep talking about a 3rd term. Can Trump do it?
+  url: https://www.politifact.com/article/2025/oct/27/trump-bannon-third-term-constitution/
+  outlet: PolitiFact
 status: confirmed
 tags:
 - authoritarianism

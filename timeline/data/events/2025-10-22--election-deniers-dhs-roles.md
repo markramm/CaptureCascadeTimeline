@@ -20,6 +20,11 @@ sources:
   date: '2025-10-22'
   tier: 1
   outlet: The New York Times
+- url: https://www.democracydocket.com/analysis/a-little-known-federal-agency-helps-secure-elections-trump-wants-to-gut-it/
+  title: A Little-Known Federal Agency Helps Secure Elections. Trump Wants to Gut It.
+  date: '2025-10-22'
+  tier: 1
+  outlet: Democracy Docket
 status: confirmed
 capture_lanes:
 - Electoral Manipulation

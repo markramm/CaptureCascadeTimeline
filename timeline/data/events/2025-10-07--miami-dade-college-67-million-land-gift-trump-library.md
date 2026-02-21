@@ -14,6 +14,16 @@ sources:
   date: '2025-10-07'
   tier: 2
   outlet: The Hill
+- title: Miami Dade College sued over Trump library land deal
+  url: https://thehill.com/homenews/state-watch/5543581-miami-dade-college-lawsuit-trump-library/
+  date: '2025-09-25'
+  tier: 2
+  outlet: The Hill
+- title: Former Miami Dade College president calls Trump library land giveaway 'unimaginable'
+  url: https://www.wlrn.org/government-politics/2025-09-25/trump-presidential-library-miami-dade-college
+  date: '2025-09-25'
+  tier: 1
+  outlet: WLRN (NPR)
 tags:
 - systematic-corruption
 - conflicts-of-interest

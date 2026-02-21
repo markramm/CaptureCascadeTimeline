@@ -13,6 +13,16 @@ sources:
   date: '2025-10-03'
   tier: 1
   outlet: Reuters
+- title: Supreme Court Shadow Docket Tracker — Challenges to Trump Administration Actions
+  url: https://www.brennancenter.org/our-work/research-reports/supreme-court-shadow-docket-tracker-challenges-trump-administration
+  date: '2025-10-03'
+  tier: 1
+  outlet: Brennan Center for Justice
+- title: Supreme Court Must Explain Why It Keeps Ruling in Trump's Favor
+  url: https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-must-explain-why-it-keeps-ruling-trumps-favor
+  date: '2025-10-03'
+  tier: 1
+  outlet: Brennan Center for Justice
 tags:
 - institutional-capture
 - judicial-capture

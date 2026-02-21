@@ -14,6 +14,11 @@ sources:
   title: Silicon Valley Influence Halts San Francisco Troop Deployment
   url: https://www.wsj.com/articles/tech-billionaires-trump-san-francisco-troops
   outlet: The Wall Street Journal
+- date: '2025-10-23'
+  tier: 1
+  title: Trump backs off federal deployment in San Francisco after Huang, Benioff phone calls
+  url: https://www.cnbc.com/2025/10/23/trump-san-francisco-national-guard-huang-benioff.html
+  outlet: CNBC
 status: confirmed
 tags:
 - abuse-of-power

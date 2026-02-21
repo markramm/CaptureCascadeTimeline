@@ -19,6 +19,16 @@ sources:
   title: Rubio Denies Palestinian Officials UN Visas, Breaching Headquarters Agreement
   tier: 1
   outlet: The New York Times
+- url: https://www.pbs.org/newshour/world/u-s-revokes-visas-of-palestinian-president-other-officials-ahead-of-un-general-assembly
+  title: U.S. Revokes Visas of Palestinian President, Other Officials Ahead of UN General Assembly
+  date: '2025-08-29'
+  tier: 1
+  outlet: PBS News
+- url: https://www.state.gov/releases/office-of-the-spokesperson/2025/08/trump-administration-reaffirms-commitment-to-not-reward-terrorism-and-revokes-visas-of-palestinian-officials-ahead-of-unga
+  title: Trump Administration Reaffirms Commitment to Not Reward Terrorism and Revokes Visas of Palestinian Officials Ahead of UNGA
+  date: '2025-08-29'
+  tier: 1
+  outlet: U.S. Department of State
 capture_lanes:
 - Systematic Corruption
 - Surveillance Infrastructure

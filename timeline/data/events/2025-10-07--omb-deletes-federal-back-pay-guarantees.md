@@ -15,6 +15,11 @@ sources:
   date: '2025-10-07'
   tier: 2
   outlet: Defense One
+- title: Furloughed workers not guaranteed back pay after shutdown, OMB claims
+  url: https://www.washingtonpost.com/business/2025/10/07/federal-workers-not-entitled-back-pay-after-shutdown-budget-office-says/
+  date: '2025-10-07'
+  tier: 1
+  outlet: The Washington Post
 tags:
 - systematic-corruption
 - congressional-authority-subversion

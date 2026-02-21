@@ -45,3 +45,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+U.S. Senator Ted Stevens (R-AK), the longest-serving Republican senator in history and former President Pro Tempore, was indicted on July 29, 2008, on seven felony counts of making false statements on his financial disclosure forms. The indictment alleged that Stevens knowingly failed to report more than $250,000 worth of gifts and home renovations from Bill Allen, CEO of the Alaska oil services company VECO Corporation, received between 2001 and 2006. VECO employees renovated Stevens's Girdwood, Alaska home, adding a new first floor, garage, wraparound deck, and plumbing and electrical work, among other gifts including furniture and a massage chair.
+
+On October 27, 2008 — just eight days before the election — Stevens was convicted on all seven counts, making him only the fifth sitting senator convicted by a jury in U.S. history. He lost his reelection bid on November 4, 2008, by fewer than 4,000 votes. In a stunning reversal, however, Attorney General Eric Holder moved to dismiss the case in April 2009 after discovering that Justice Department prosecutors had intentionally withheld exculpatory evidence from the defense. A special investigation found two federal prosecutors concealed documents that would have aided Stevens's defense.
+
+The Stevens case became a cautionary tale about prosecutorial misconduct, raising questions about whether Stevens was wrongly convicted or whether politically connected figures can escape accountability through legal technicalities. Stevens died in a plane crash in Alaska in August 2010. The case illustrated the complex entanglement of Alaska's oil industry, congressional appropriations power, and the gifts and construction work that flowed between the two — a pattern of quid pro quo relationships that VECO's Allen would implicate in multiple Alaska corruption prosecutions.

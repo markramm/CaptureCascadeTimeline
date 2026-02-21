@@ -22,6 +22,16 @@ sources:
   date: '2025-10-15'
   tier: 1
   outlet: The New York Times
+- url: https://www.democracydocket.com/news-alerts/trump-jack-smith-criminal-attorney-general-pam-bondi/
+  title: With AG Bondi Next To Him, Trump Says 'Deranged' Jack Smith Must be Investigated
+  date: '2025-10-15'
+  tier: 1
+  outlet: Democracy Docket
+- title: Takeaways from former special counsel Jack Smith's scathing review of the Trump Justice Department
+  url: https://www.cnn.com/2025/10/14/politics/jack-smith-interview-special-counsel-justice-department-trump
+  outlet: CNN
+  date: '2025-10-14'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Systematic Corruption

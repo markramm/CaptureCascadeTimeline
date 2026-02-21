@@ -9,11 +9,16 @@ actors:
 - Liberty Vote
 - Trump Administration
 sources:
-- title: Former Republican Election Official Buys Dominion Voting
-  url: https://apnews.com/article/dominion-voting-systems-sale-republican-leiendecker-9f8e4d3c2a1b4e6f8d9c7b5a3e2d1c0b
-  date: '2025-10-10'
+- title: Dominion Voting Systems is sold and is now Liberty Vote
+  url: https://www.npr.org/2025/10/09/nx-s1-5569817/dominion-voting-liberty-vote-false-claims
+  date: '2025-10-09'
   tier: 1
-  outlet: Associated Press
+  outlet: NPR
+- title: Former GOP election official buys Dominion Voting Systems, says he'll push for paper ballots
+  url: https://www.cnn.com/2025/10/09/politics/dominion-voting-systems-bought-election-ballots
+  date: '2025-10-09'
+  tier: 1
+  outlet: CNN
 tags:
 - election-integrity
 - institutional-capture

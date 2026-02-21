@@ -19,6 +19,11 @@ sources:
   date: '2025-10-09'
   tier: 1
   outlet: The White House
+- url: https://www.dhs.gov/news/2025/10/10/dhs-celebrates-purchase-new-coast-guard-icebreakers-president-trump-signs-deal
+  title: DHS Celebrates Purchase of New Coast Guard Icebreakers as President Trump Signs Deal with Finland
+  date: '2025-10-10'
+  tier: 1
+  outlet: U.S. Department of Homeland Security
 capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex

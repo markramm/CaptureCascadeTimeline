@@ -29,7 +29,13 @@ sources:
 - outlet: The Hill
   title: House passes bill to extend ACA subsidies with bipartisan support
   url: https://thehill.com/policy/healthcare/5089543-house-aca-subsidies-discharge-petition/
-  date: 2026-01
+  date: '2026-01-10'
+  tier: 2
+- outlet: PBS NewsHour
+  title: House passes bill to extend ACA subsidies after GOP members help force vote
+  url: https://www.pbs.org/newshour/politics/watch-live-house-considers-extending-aca-subsidies-after-gop-members-help-force-vote
+  date: '2026-01-08'
+  tier: 1
 status: confirmed
 ---
 

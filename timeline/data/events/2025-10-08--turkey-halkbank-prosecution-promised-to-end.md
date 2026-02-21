@@ -9,11 +9,16 @@ actors:
 - Halkbank
 - DOJ
 sources:
-- title: Turkey's Erdogan Says Halkbank U.S. Case to End After Trump Talks
-  url: https://www.bloomberg.com/news/articles/2025-10-08/turkey-erdogan-says-halkbank-us-case-to-end-after-trump-talks
+- title: "Turkey's Erdogan Says Halkbank US Case to End After Trump Talks"
+  url: https://www.bloomberg.com/news/articles/2025-10-08/turkey-s-erdogan-says-halkbank-us-case-to-end-after-trump-talks
   date: '2025-10-08'
   tier: 1
   outlet: Bloomberg
+- title: "Sanctions and Corruption: The Halkbank Case as a Test of Justice in US-Turkiye Relations"
+  url: https://www.hstoday.us/subject-matter-areas/counterterrorism/column-sanctions-and-corruption-the-halkbank-case-as-a-test-of-justice-in-us-turkiye-relations/
+  date: '2025-10-08'
+  tier: 2
+  outlet: HSToday
 tags:
 - doj-weaponization
 - foreign-influence

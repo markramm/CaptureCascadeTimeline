@@ -44,3 +44,9 @@ title: Cohen Creates Essential Consultants LLC for Stormy Daniels Payment
 ---
 
 Michael Cohen establishes Essential Consultants LLC in Delaware, shell company used to pay Stormy Daniels $130,000 and later receive $4 million from corporations and oligarch-linked firms
+
+Michael Cohen registered Essential Consultants LLC in Delaware on October 17, 2016 — just 11 days before he would use it to wire $130,000 to Stormy Daniels' attorney. Delaware's permissive LLC laws allowed Cohen to establish the entity with minimal disclosure requirements, creating a financial vehicle designed to obscure the true nature and purpose of transactions. The company had no legitimate business operations and functioned as a personal slush fund.
+
+After the election, Essential Consultants became what prosecutors described as a multi-purpose influence vehicle. AT&T paid approximately $200,000 into the account while it sought regulatory approval for its Time Warner merger. Pharmaceutical giant Novartis deposited $1.2 million for vaguely described "healthcare consulting." Most notoriously, a company linked to Russian oligarch Viktor Vekselberg's Columbus Nova deposited approximately $500,000 — payments that triggered a federal money laundering investigation. In total, Essential Consultants received roughly $4 million from corporations and foreign-connected entities.
+
+Cohen pleaded guilty to campaign finance violations and other crimes in August 2018, admitting that the Daniels payment was made at Trump's direction to influence the election. The Essential Consultants arrangement illustrated how Delaware shell company secrecy enables dark money flows, influence peddling, and potential foreign interference in American politics. Both Delaware-registered Cohen LLCs were dissolved in October 2020.

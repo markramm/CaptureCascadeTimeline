@@ -43,3 +43,9 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 ---
+
+President Obama signed legislation on April 15, 2013, that gutted key provisions of the Stop Trading on Congressional Knowledge (STOCK) Act, just one year after the law passed with great fanfare. The amendment eliminated the requirement for a searchable, sortable online database of financial disclosure information and removed the mandate that reports be filed electronically rather than on paper. The changes drastically reduced transparency by limiting mandatory public online reporting to only Members of Congress, congressional candidates, the President, Vice President, and top executive branch officials — excluding approximately 28,000 high-level federal employees previously covered.
+
+The bill passed through both chambers using unanimous consent procedures in largely empty chambers, with minimal debate or public notice. Congressional proponents cited vague national security concerns about posting financial data online, though critics noted the more plausible concern was avoiding public scrutiny of potential conflicts of interest. The White House announcement was a single sentence — a stark contrast to the April 2012 STOCK Act signing ceremony, held in the East Room with extensive media coverage and presidential fanfare.
+
+NPR described the rollback in its headline: "How Congress Quietly Overhauled Its Insider-Trading Law." The changes severely limited the public's ability to monitor potential insider trading and conflicts of interest among federal officials and their staff, effectively neutering one of the Obama era's signature ethics reforms while maintaining the appearance that restrictions remained in place. The episode exemplified a recurring pattern: popular anti-corruption legislation passes under public pressure, then enforcement mechanisms are quietly dismantled once media attention fades.

@@ -18,6 +18,11 @@ sources:
   date: '2025-08-28'
   tier: 1
   outlet: The White House
+- url: https://www.whitehouse.gov/presidential-actions/2025/08/making-federal-architecture-beautiful-again/
+  title: Making Federal Architecture Beautiful Again
+  date: '2025-08-28'
+  tier: 1
+  outlet: The White House (Executive Order Text)
 capture_lanes:
 - Executive Power Expansion
 status: reported

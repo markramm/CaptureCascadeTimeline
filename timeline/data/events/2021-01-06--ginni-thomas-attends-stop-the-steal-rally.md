@@ -90,3 +90,9 @@ sources:
 capture_lanes:
 - Judicial Capture
 ---
+
+Virginia "Ginni" Thomas — wife of Supreme Court Justice Clarence Thomas and a board member of CNP Action, the lobbying arm of the Council for National Policy — attended the "Stop the Steal" rally in Washington, D.C., on January 6, 2021, before the violent assault on the U.S. Capitol. Thomas acknowledged her attendance in March 2022 only after lawmakers obtained evidence of her presence. She stated she left before Trump took the stage at noon, but her participation placed the spouse of a sitting Supreme Court justice at the center of efforts to pressure Congress to reject the certified 2020 election results.
+
+Thomas's rally attendance was the culmination of a two-month campaign to overturn Biden's election victory. Between November 2020 and January 2021, she sent numerous text messages to White House Chief of Staff Mark Meadows urging increasingly extreme measures to keep Trump in power, including pressuring state legislators to replace Biden electors with Trump electors. Following the Capitol attack, with the building under siege, Thomas texted Meadows: "LOVE MAGA people!!!!" The January 6 Committee obtained these messages and interviewed Thomas about her activities.
+
+Justice Clarence Thomas subsequently refused to recuse himself from cases related to January 6 and the 2020 election. In January 2022, he cast the sole dissenting vote when the Supreme Court rejected Trump's effort to block the January 6 Committee from obtaining White House records — without providing any explanation. His wife's documented involvement in efforts to overturn the election made his participation in election-related Supreme Court cases a profound conflict of interest, fueling calls from Democratic lawmakers for recusal or impeachment inquiry.

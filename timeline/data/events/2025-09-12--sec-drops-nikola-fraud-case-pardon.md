@@ -15,6 +15,11 @@ sources:
   date: '2025-09-12'
   tier: 1
   outlet: Reuters
+- url: https://www.cnbc.com/2025/03/28/trump-pardons-nikola-trevor-milton-ceo-securities-fraud-electric-vehicle.html
+  title: Trump Pardons Nikola Founder Trevor Milton in Securities Fraud Case
+  date: '2025-03-28'
+  tier: 1
+  outlet: CNBC
 actors:
 - Trevor Milton
 - Securities and Exchange Commission

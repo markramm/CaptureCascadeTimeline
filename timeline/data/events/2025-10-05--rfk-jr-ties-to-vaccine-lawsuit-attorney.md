@@ -13,6 +13,11 @@ sources:
   date: '2025-10-05'
   tier: 1
   outlet: The New York Times
+- title: What to know about Aaron Siri, an RFK ally and anti-vaccine lawyer
+  url: https://www.axios.com/2025/12/04/rfk-jr-ally-anti-vaccine-cdc-testimony
+  outlet: Axios
+  date: '2025-12-04'
+  tier: 2
 tags:
 - conflicts-of-interest
 - regulatory-capture
