@@ -24,9 +24,8 @@ tags:
 - policy-violations
 - accountability-evasion
 capture_lanes:
-- Executive Power & Emergency Authority
-- Accountability Evasion
-- Intelligence & Military Manipulation
+- Executive Power Expansion
+- Systematic Corruption
 sources:
 - title: Pentagon watchdog finds Hegseth risked the safety of U.S. forces with use of Signal
   url: https://www.npr.org/2025/12/03/nx-s1-5630519/signalgate-pete-hegseth-inspector-general-report

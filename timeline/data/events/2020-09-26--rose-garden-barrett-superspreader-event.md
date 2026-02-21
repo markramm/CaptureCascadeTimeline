@@ -37,6 +37,10 @@ sources:
   tier: 2
   outlet: Newsweek
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Electoral Manipulation
+- Judicial Capture
 ---
 
 On September 26, 2020, President Trump held a Rose Garden ceremony announcing Amy Coney Barrett's nomination to the Supreme Court that became what Dr. Anthony Fauci would later call a "superspreader event," with more than 150 attendees packed together without masks for both an outdoor ceremony and crowded indoor receptions. At least eleven people who attended subsequently tested positive for COVID-19, including President Trump and First Lady Melania Trump, Senators Mike Lee and Thom Tillis, former White House counselor Kellyanne Conway, former New Jersey Governor Chris Christie, University of Notre Dame President John Jenkins, White House staff, and journalists. The event directly led to Trump's October 2 hospitalization at Walter Reed Medical Center and became the most visible and consequential superspreader event of Trump's presidency—a spectacular demonstration of the administration's contempt for basic public health precautions even at the highest levels of government.

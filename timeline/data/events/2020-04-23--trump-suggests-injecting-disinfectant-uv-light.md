@@ -28,6 +28,10 @@ sources:
   tier: 1
   outlet: PolitiFact
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Media Capture & Control
+- Military-Industrial Complex
 ---
 
 During a White House coronavirus briefing on April 23, 2020, President Trump publicly speculated about treating COVID-19 by injecting disinfectant into the human body or inserting ultraviolet light internally, asking "is there a way we can do something like that by injection inside or almost a cleaning?" The dangerous, scientifically absurd suggestions—made in front of the nation during a pandemic that had already killed tens of thousands of Americans—prompted immediate warnings from medical experts, the U.S. Surgeon General, and even Lysol manufacturer Reckitt Benckiser, which issued an urgent statement warning against any internal use of disinfectant products. When confronted the next day, Trump implausibly claimed his remarks had been "sarcastic," though no indication of sarcasm appeared in the briefing footage and he had specifically asked medical officials to research the proposals.

@@ -31,9 +31,9 @@ tags:
 - propaganda
 - systematic-corruption
 capture_lanes:
-- Executive Branch Deception
-- Military Intelligence Manipulation
-- Public Trust Erosion
+- Executive Power Expansion
+- Intelligence Penetration
+- Systematic Corruption
 status: confirmed
 ---
 

@@ -37,6 +37,10 @@ sources:
   date: 2019-06-13
   tier: 1
   outlet: NBC News
+capture_lanes:
+- Executive Power Expansion
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 The U.S. Office of Special Counsel issued an extraordinary recommendation that White House Counselor Kellyanne Conway be removed from federal service for repeated Hatch Act violations, calling her conduct "egregious, notorious, and ongoing." Special Counsel Henry Kerner, himself a Trump appointee, stated the recommendation was "unprecedented" for a political appointee of Conway's stature, documenting dozens of violations where Conway used her official position to disparage Democratic presidential candidates during television interviews and on social media despite previous warnings.

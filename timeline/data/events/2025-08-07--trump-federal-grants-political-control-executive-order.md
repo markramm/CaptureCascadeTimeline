@@ -29,6 +29,9 @@ sources:
   date: '2025-08-08'
   tier: 2
   outlet: Government Executive
+capture_lanes:
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 President Trump signed Executive Order 14332 titled 'Improving Oversight of Federal Grantmaking,' transforming the federal grantmaking process by giving presidential political appointees unprecedented power over billions of dollars in research and discretionary grants. The order requires each agency head to designate a senior appointee to review all funding opportunity announcements and discretionary grants to ensure they align with 'agency priorities and the national interest'—effectively meaning Trump's policy agenda.

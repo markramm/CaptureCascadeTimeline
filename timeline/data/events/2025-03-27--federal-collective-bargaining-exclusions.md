@@ -15,7 +15,7 @@ tags:
 - national-security
 - labor-rights
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 - Federal Workforce Capture
 citations:
 - 'White House — Fact Sheet: Exempts Agencies with National Security Missions from Federal Collective Bargaining Requirements (Mar 27, 2025): https://www.whitehouse.gov/briefing-room/statements-releases/2025/03/27/fact-sheet-exempts-agencies-with-national-security-missions-from-federal-collective-bargaining-requirements/'

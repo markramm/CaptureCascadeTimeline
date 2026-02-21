@@ -26,6 +26,9 @@ sources:
   date: '2025-08-07'
   tier: 2
   outlet: Mayer Brown
+capture_lanes:
+- Executive Power Expansion
+- Financial Capture
 ---
 
 President Trump signed an executive order titled 'Guaranteeing Fair Banking for All Americans' directing federal financial regulators to combat alleged 'debanking'—the denial or termination of financial services based on political considerations. The order requires agencies to investigate and remedy instances where banks allegedly discriminated against customers based on their political affiliations or viewpoints.

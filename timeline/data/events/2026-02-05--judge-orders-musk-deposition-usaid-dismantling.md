@@ -35,6 +35,10 @@ sources:
   outlet: PBS
   date: '2026-02-05'
   tier: 1
+capture_lanes:
+- Executive Power Expansion
+- Judicial Capture
+- Digital & Tech Capture
 ---
 
 U.S. District Judge Theodore Chuang ruled that Elon Musk and State Department officials must sit for depositions over their role in dismantling the U.S. Agency for International Development (USAID), rejecting arguments that Musk should be shielded under the "apex doctrine" that can protect high-ranking government officials from depositions. The eight-page order found that "extraordinary circumstances justify" making Musk, former acting USAID director Peter Marocco, and State Department official Jeremy Lewin available for depositions despite Trump administration objections.

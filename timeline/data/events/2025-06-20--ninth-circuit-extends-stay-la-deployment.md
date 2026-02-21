@@ -11,8 +11,8 @@ tags:
 - courts
 - emergency-powers
 capture_lanes:
-- Executive Power & Emergency Authority
-- Judicial Capture & Corruption
+- Executive Power Expansion
+- Judicial Capture
 citations:
 - https://www.pbs.org/newshour/politics/appeals-court-temporarily-blocks-judges-ruling-to-return-control-of-national-guard-to-california
 notes: ''

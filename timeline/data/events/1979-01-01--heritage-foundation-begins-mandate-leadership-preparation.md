@@ -17,7 +17,7 @@ tags:
 - policy-infrastructure
 capture_lanes:
 - Corporate Capture
-- Executive Capture
+- Executive Power Expansion
 sources:
 - title: Mandate for Leadership - Wikipedia
   url: https://en.wikipedia.org/wiki/Mandate_for_Leadership

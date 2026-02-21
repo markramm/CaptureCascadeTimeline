@@ -33,8 +33,7 @@ sources:
   date: '2025-06-04'
 status: confirmed
 capture_lanes:
-- executive-overreach
-- institutional-intimidation
+- Executive Power Expansion
 ---
 
 

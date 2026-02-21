@@ -20,8 +20,8 @@ tags:
 - classified-information
 - bush-administration
 capture_lanes:
-- Executive Branch Corruption
-- Intelligence Agencies Weaponization
+- Executive Power Expansion
+- Intelligence Penetration
 sources:
 - title: Libby Guilty of Lying in C.I.A. Leak Case
   url: https://www.nytimes.com/2007/03/07/washington/07libby.html

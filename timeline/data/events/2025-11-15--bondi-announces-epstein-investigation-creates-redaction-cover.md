@@ -47,6 +47,10 @@ actors:
 - Larry Summers
 - Reid Hoffman
 - Department of Justice
+capture_lanes:
+- Executive Power Expansion
+- Media Capture & Control
+- Legislative Capture
 ---
 
 On Friday, November 15, 2025, Attorney General Pam Bondi announced via X (formerly Twitter) that she had ordered a new federal investigation into Jeffrey Epstein's ties to Trump political opponents, assigning Manhattan U.S. Attorney Jay Clayton to lead the probe. The announcement came just three days before the House was scheduled to vote on the Epstein Files Transparency Act on November 18, and hours after Trump publicly demanded the investigation on Truth Social. Bondi's directive targeted Democratic figures including Bill Clinton, Larry Summers, and Reid Hoffman, despite the FBI concluding in July 2025 that it "did not uncover evidence that could predicate an investigation against uncharged third parties."

@@ -19,8 +19,8 @@ tags:
 - trump-administration
 - democratic-resistance
 capture_lanes:
-- Executive Power & Emergency Authority
-- Popular Resistance
+- Executive Power Expansion
+- Democratic Erosion
 sources:
 - title: No Kings protest coverage
   url: https://www.npr.org/2025/06/14/no-kings-protests-nationwide
@@ -47,9 +47,7 @@ sources:
   outlet: Truthout
   date: '2025-06-20'
   archive_url: https://web.archive.org/web/20250820000000/https://truthout.org/articles/5-million-people-attended-no-kings-protests-how-can-we-build-on-this/
-notes: Largest coordinated protest against presidential power in US history. Protests
-  occurred across all 50 states and Washington, D.C., with participation estimated
-  between 4.8-5.3 million people in over 2,100 locations.
+notes: Largest coordinated protest against presidential power in US history. Protests occurred across all 50 states and Washington, D.C., with participation estimated between 4.8-5.3 million people in over 2,100 locations.
 status: confirmed
 ---
 

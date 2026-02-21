@@ -35,8 +35,8 @@ tags:
 - regulatory-capture
 status: confirmed
 capture_lanes:
-- Executive Impunity
-- Corporate Crime Without Punishment
+- Executive Power Expansion
+- Corporate Capture
 ---
 
 Boeing's Board of Directors fired CEO Dennis Muilenburg on December 23, 2019, over his handling of the 737 MAX crisis that killed 346 people in two crashes. Despite presiding over the deadliest corporate safety scandal in aviation history, Muilenburg departed with approximately $62 million in compensation and pension benefits, rising to $80 million when including stock options and other assets.

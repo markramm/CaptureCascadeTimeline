@@ -6,8 +6,8 @@ actors:
 - Ed Markey
 capture_lanes:
 - Surveillance Infrastructure
-- Constitutional Violations
-- Privacy Erosion
+- Executive Power Expansion
+- Digital & Tech Capture
 date: '2022-07-13'
 id: 2022-07-13--ring-admits-warrantless-police-data-sharing
 importance: 9

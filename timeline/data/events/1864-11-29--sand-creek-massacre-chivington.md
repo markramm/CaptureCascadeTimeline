@@ -35,8 +35,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex
-- Executive Capture
-- Accountability Crisis
+- Executive Power Expansion
 ---
 
 A 675-man force of the Third Colorado Cavalry under the command of U.S. Volunteers Colonel John Chivington attacks and destroys a peaceful village of approximately 500 Cheyenne and Arapaho people camped at Sand Creek in southeastern Colorado Territory. The village, consisting of around 100 lodges under the leadership of Cheyenne Chief Black Kettle, believed they were not only at peace with the U.S. government but also under its protection—Black Kettle flew both an American flag and a white flag of truce over his lodge as the attack began. Chivington's forces ignore these symbols of peace and protection, surrounding the village at dawn and opening fire indiscriminately on men, women, and children. Most sources estimate approximately 150 people were killed, with about two-thirds being women and children. Survivors report systematic atrocities including scalping, mutilation of bodies, killing of children and pregnant women, and desecration of corpses. The massacre represents one of the most brutal episodes of state-sanctioned violence against Indigenous peoples, shocking even by the standards of 19th-century frontier warfare.

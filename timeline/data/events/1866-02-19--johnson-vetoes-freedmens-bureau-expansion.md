@@ -1,7 +1,7 @@
 ---
 id: 1866-02-19--johnson-vetoes-freedmens-bureau-expansion
 date: '1866-02-19'
-title: "Johnson Vetoes Freedmen's Bureau Expansion, Sabotaging Reconstruction"
+title: Johnson Vetoes Freedmen's Bureau Expansion, Sabotaging Reconstruction
 importance: 9
 actors:
 - Andrew Johnson
@@ -9,19 +9,19 @@ actors:
 - Republican Congress
 - Freedmen's Bureau
 sources:
-- title: "Freedmen's Bureau bills"
+- title: Freedmen's Bureau bills
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Freedmen's_Bureau_bills
   year: 2024
-- title: "U.S. Senate: Freedmen's Bureau Acts of 1865 and 1866"
+- title: 'U.S. Senate: Freedmen''s Bureau Acts of 1865 and 1866'
   outlet: U.S. Senate
   url: https://www.senate.gov/artandhistory/history/common/generic/FreedmensBureau.htm
   year: 2024
-- title: "The Freedmen's Bureau Bill"
+- title: The Freedmen's Bureau Bill
   outlet: National Park Service
   url: https://www.nps.gov/anjo/learn/historyculture/freedmens-bureau.htm
   year: 2024
-- title: "Freedmen's Bureau"
+- title: Freedmen's Bureau
   outlet: History.com
   url: https://www.history.com/topics/black-history/freedmens-bureau
   year: 2024
@@ -31,9 +31,8 @@ tags:
 - institutional-capture
 - racial-injustice
 capture_lanes:
-- Executive Branch Obstruction
-- Reconstruction Sabotage
-- Social Program Destruction
+- Executive Power Expansion
+- Regulatory Capture
 status: confirmed
 ---
 

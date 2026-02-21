@@ -1,7 +1,7 @@
 ---
 id: 1873-04-14--slaughterhouse-cases-gut-fourteenth-amendment
 date: '1873-04-14'
-title: 'Slaughterhouse Cases Gut Fourteenth Amendment Protections'
+title: Slaughterhouse Cases Gut Fourteenth Amendment Protections
 importance: 9
 actors:
 - U.S. Supreme Court
@@ -9,11 +9,11 @@ actors:
 - Crescent City Livestock Company
 - New Orleans Butchers
 sources:
-- title: 'Slaughter-House Cases'
+- title: Slaughter-House Cases
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Slaughter-House_Cases
   year: 2024
-- title: 'Slaughterhouse Cases'
+- title: Slaughterhouse Cases
   outlet: Britannica
   url: https://www.britannica.com/event/Slaughterhouse-Cases
   year: 2024
@@ -27,9 +27,8 @@ tags:
 - corporate-influence
 - democratic-erosion
 capture_lanes:
-- Legal System Weaponization
-- Constitutional Subversion
 - Judicial Capture
+- Executive Power Expansion
 status: confirmed
 ---
 

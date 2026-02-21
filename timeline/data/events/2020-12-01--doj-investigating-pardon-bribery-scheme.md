@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: Associated Press
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Financial Capture
+- Systematic Corruption
 ---
 
 Heavily redacted federal court documents unsealed in December 2020 revealed the Department of Justice was investigating a "bribery-for-pardon" scheme in which individuals allegedly offered substantial political contributions in exchange for presidential pardons. The court filings, made public by Chief Judge Beryl Howell of the U.S. District Court in Washington D.C., showed federal investigators believed there was probable cause that crimes had been committed.

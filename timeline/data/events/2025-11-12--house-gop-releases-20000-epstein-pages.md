@@ -36,6 +36,10 @@ sources:
   tier: 2
   outlet: Al Jazeera
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Judicial Capture
+- Media Capture & Control
 ---
 
 On the afternoon of November 12, 2025, House Oversight Committee Republicans released over 20,000 pages of documents from Jeffrey Epstein's estate in direct response to House Democrats' morning release of three damning emails linking President Trump to knowledge of Epstein's sexual abuse. The massive document dump, made available via Google Drive and Dropbox, represented the full cache of materials the committee had recently received from the Epstein estate pursuant to Chairman James Comer's August 25, 2025 subpoena. Republicans framed the release as providing "the full truth" to counter what they characterized as Democrats' selective "cherry-picking" of documents to generate politically damaging headlines. A House Oversight Majority spokesperson stated: "Democrats continue to carelessly cherry-pick documents to generate click-bait that is not grounded in the facts," adding that "Democrats are once again intentionally withholding records that name Democrat officials."

@@ -14,7 +14,7 @@ tags:
 - national-guard
 - immigration-enforcement
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Pentagon deployment announcement
   url: https://www.defense.gov/News/operation-guardian-support

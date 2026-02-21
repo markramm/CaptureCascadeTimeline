@@ -11,8 +11,8 @@ tags:
 - posse-comitatus
 - executive-overreach
 capture_lanes:
-- Executive Overreach
-- Judicial Independence
+- Executive Power Expansion
+- Judicial Capture
 actors:
 - Donald Trump
 - Gavin Newsom

@@ -19,7 +19,7 @@ tags:
 - civil-service-destruction
 capture_lanes:
 - Federal Workforce Capture
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: 'Scoop: Stephen Miller, Noem tell ICE to supercharge immigrant arrests'
   url: https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller

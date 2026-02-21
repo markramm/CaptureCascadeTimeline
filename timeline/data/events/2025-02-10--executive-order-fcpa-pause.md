@@ -6,8 +6,8 @@ actors:
 - Securities and Exchange Commission
 - U.S. corporations
 capture_lanes:
-- Executive Power & Emergency Authority
-- Financial Corruption & Kleptocracy
+- Executive Power Expansion
+- International Kleptocracy
 citations:
 - https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security
 - https://www.reuters.com/world/us/trump-loosen-enforcement-us-law-banning-bribery-foreign-officials-2025-02-10
@@ -16,11 +16,7 @@ citations:
 date: '2025-02-10'
 id: 2025-02-10--executive-order-fcpa-pause
 importance: 9
-notes: This unprecedented pause in FCPA enforcement allows a comprehensive review
-  of existing guidelines, with potential long-term implications for U.S. anti-corruption
-  law. While the DOJ investigations are paused, SEC civil enforcement and international
-  anti-corruption laws remain in effect. As of 2024, 26 FCPA-related enforcement actions
-  were active, with 31 companies under investigation.
+notes: This unprecedented pause in FCPA enforcement allows a comprehensive review of existing guidelines, with potential long-term implications for U.S. anti-corruption law. While the DOJ investigations are paused, SEC civil enforcement and international anti-corruption laws remain in effect. As of 2024, 26 FCPA-related enforcement actions were active, with 31 companies under investigation.
 sources:
 - date: '2025-02-10'
   outlet: Reuters
@@ -36,8 +32,7 @@ sources:
   url: https://www.hklaw.com/en/insights/publications/2025/02/president-trump-issues-executive-order-to-halt-fcpa-enforcement
 - date: '2025-02-10'
   outlet: White House
-  title: 'Fact Sheet: President Donald J. Trump Restores American Competitiveness
-    and Security in FCPA Enforcement'
+  title: 'Fact Sheet: President Donald J. Trump Restores American Competitiveness and Security in FCPA Enforcement'
   url: https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-restores-american-competitiveness-and-security-in-fcpa-enforcement/
 status: confirmed
 tags:

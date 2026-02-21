@@ -17,7 +17,7 @@ tags:
 - conservative-coordination
 - campaign-policy-coordination
 capture_lanes:
-- Executive Capture
+- Executive Power Expansion
 - Corporate Capture
 sources:
 - title: Mandate for Leadership - Wikipedia

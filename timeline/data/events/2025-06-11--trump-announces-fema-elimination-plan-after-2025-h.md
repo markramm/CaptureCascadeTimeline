@@ -17,7 +17,7 @@ tags:
 - project-2025
 - emergency-management
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Trump says he plans to phase out FEMA after 2025 hurricane season
   url: https://www.cnn.com/2025/06/11/politics/fema-hurricane-season-phase-out-trump

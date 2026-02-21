@@ -23,6 +23,10 @@ sources:
   outlet: NPR
   tier: 1
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Media Capture & Control
+- Civil Rights Suppression
 ---
 
 The Southern Poverty Law Center published a devastating exposé revealing over 900 emails Stephen Miller sent to Breitbart News editors between March 2015 and June 2016, showing Miller systematically promoted white nationalist literature, racist conspiracy theories, and content from hate sites to shape Breitbart's coverage. The emails were leaked by Katie McHugh, a former Breitbart editor who renounced the far-right and cooperated with SPLC Hatewatch. The emails show Miller recommended the racist French novel "The Camp of the Saints"—popular among white nationalists and neo-Nazis—and regularly directed McHugh to content from white nationalist sites like American Renaissance and VDARE. Miller used his position as communications director for Senator Jeff Sessions to feed white nationalist talking points and source material directly into Breitbart's editorial process, shaping coverage to align with explicit white nationalist ideology. The emails reveal Miller's deep engagement with white nationalist thought leaders and his deliberate strategy to mainstream racist ideas through seemingly mainstream conservative media. More than 80 members of Congress demanded Miller's resignation, with Representative Alexandria Ocasio-Cortez stating: "Stephen Miller is a white nationalist. This is perhaps the most important story in America right now." The Trump White House refused to address the content of the emails, with press secretary Stephanie Grisham dismissing them as "an attempt to smear him." The exposure confirmed what critics had long suspected: the architect of family separation, the Muslim ban, and mass deportation policies was operating from an explicitly white nationalist worldview, using government power to implement a racial agenda.

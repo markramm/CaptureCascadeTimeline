@@ -20,8 +20,8 @@ tags:
 - electoral-victory
 - infrastructure-triumph
 capture_lanes:
-- Executive Capture
-- Electoral Capture
+- Executive Power Expansion
+- Electoral Manipulation
 sources:
 - title: Reagan era - Wikipedia
   url: https://en.wikipedia.org/wiki/Reagan_era

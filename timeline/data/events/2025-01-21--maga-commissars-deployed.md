@@ -15,7 +15,7 @@ tags:
 - project-2025
 - political-control
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Loyalty tests and MAGA checks Inside the Trump White House's intense screening of job-seekers
   url: https://www.washingtonpost.com/politics/2025/01/25/trump-loyalty-white-house-maga-vetting-jobs/05fd8390-db44-11ef-85a9-331436ec61e9_story.html

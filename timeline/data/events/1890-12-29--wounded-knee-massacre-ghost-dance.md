@@ -34,8 +34,8 @@ tags:
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex
-- Executive Capture
-- Indigenous Suppression
+- Executive Power Expansion
+- Civil Rights Suppression
 ---
 
 The U.S. Army's 7th Cavalry surrounds a band of Lakota Sioux Ghost Dancers under Chief Big Foot near Wounded Knee Creek on the Pine Ridge Indian Reservation in South Dakota and massacres over 250 Lakota people, primarily unarmed women, children, and elders. The 7th Cavalry—the same unit decimated at Little Bighorn in 1876—demands that the Lakota surrender their weapons during a period of heightened military tension over the Ghost Dance religious movement. As soldiers attempt to disarm the Lakota, a scuffle breaks out and a shot is fired (the origin remaining unclear), triggering the Cavalry to open fire with rifles and Hotchkiss guns on the largely unarmed Lakota camp. Artillery rakes the encampment, cutting down men, women, and children indiscriminately. Many Lakota flee but are pursued and killed up to two miles from the camp. The massacre occurs in freezing winter conditions, with bodies of victims later found frozen in the snow. The U.S. government awards 20 Medals of Honor to soldiers for their actions at Wounded Knee—the most ever awarded for a single engagement—despite the "battle" consisting primarily of killing unarmed civilians, illustrating how military honors can be perverted to celebrate atrocities.

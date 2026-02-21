@@ -19,19 +19,19 @@ tags:
 - state-corporate-coordination
 capture_lanes:
 - Corporate Capture
-- Executive Capture
+- Executive Power Expansion
 sources:
 - title: Business Roundtable - Wikipedia
   url: https://en.wikipedia.org/wiki/Business_Roundtable
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'The Business Roundtable and the politics of U.S. manufacturing decline'
+- title: The Business Roundtable and the politics of U.S. manufacturing decline
   url: https://www.tandfonline.com/doi/abs/10.1080/00076791.2020.1863949
   outlet: Business History Journal
   date: '2021-01-01'
   verified: true
-- title: 'The State Organizes the Capitalist Class'
+- title: The State Organizes the Capitalist Class
   url: https://jacobin.com/2022/05/capitalism-neoliberalism-state-ge-business-roundtable
   outlet: Jacobin
   date: '2022-05-01'

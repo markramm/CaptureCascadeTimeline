@@ -63,6 +63,10 @@ sources:
   tier: 2
   outlet: Georgia Recorder
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Electoral Manipulation
+- Systematic Corruption
 ---
 
 President Trump issued comprehensive federal pardons to 77 individuals involved in efforts to overturn the 2020 presidential election, including his former attorney Rudy Giuliani, White House Chief of Staff Mark Meadows, attorneys Sidney Powell, John Eastman, Kenneth Chesebro, Jenna Ellis, Jeffrey Clark, and 67 so-called 'fake electors' from seven battleground states who fraudulently certified Trump as winner despite Biden's legitimate victory. The proclamation, dated November 7 but announced November 10 by U.S. Pardon Attorney Ed Martin, grants 'full, complete, and unconditional' pardons for 'conduct relating to the advice, creation, organization, execution, submission, support, voting activities, participation in, or advocacy for or of any slate or proposed slate of Presidential electors' in connection with the 2020 election.

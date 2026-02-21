@@ -14,7 +14,7 @@ tags:
 - project-2025
 - financial-regulation
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: The Trump administration has stopped work at the CFPB. Here's what the agency does
   url: https://www.npr.org/2025/02/10/nx-s1-5292123/the-trump-administration-has-stopped-work-at-the-cfpb-heres-what-the-agency-does

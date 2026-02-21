@@ -31,6 +31,10 @@ sources:
   outlet: Government Accountability Project
   date: '2026-01-20'
   tier: 2
+capture_lanes:
+- Executive Power Expansion
+- Digital & Tech Capture
+- Surveillance Infrastructure
 ---
 
 The Department of Justice filed a court document confirming that DOGE employees at the Social Security Administration improperly shared sensitive personal data of more than 300 million Americans to an unauthorized Cloudflare server, validating whistleblower Chuck Borges' August 2025 complaint. The filing marked the Trump administration's first official acknowledgment that DOGE inappropriately handled highly sensitive data containing Social Security numbers, dates of birth, addresses, citizenship status, and parents' names.

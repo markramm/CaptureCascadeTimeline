@@ -15,7 +15,7 @@ tags:
 - project-2025
 - ideological-control
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 - Federal Workforce Capture
 sources:
 - title: Federal applicants face loyalty testing

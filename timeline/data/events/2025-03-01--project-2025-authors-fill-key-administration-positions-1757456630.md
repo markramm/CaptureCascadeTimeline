@@ -32,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Executive Branch Capture
+- Executive Power Expansion
 priority_id: project-2025-implementation-1757456630
 ---
 

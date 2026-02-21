@@ -1,14 +1,14 @@
 ---
 id: 1865-05-29--johnson-begins-mass-pardons-confederate-leaders
 date: '1865-05-29'
-title: 'Andrew Johnson Begins Mass Pardons of Confederate Leaders'
+title: Andrew Johnson Begins Mass Pardons of Confederate Leaders
 importance: 9
 actors:
 - Andrew Johnson
 - Confederate Leaders
 - Republican Congress
 sources:
-- title: 'Pardons for ex-Confederates'
+- title: Pardons for ex-Confederates
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Pardons_for_ex-Confederates
   year: 2024
@@ -16,11 +16,11 @@ sources:
   outlet: Miller Center
   url: https://millercenter.org/the-presidency/presidential-speeches/may-29-1865-proclamation-pardoning-persons-who-participated
   year: 2024
-- title: 'Andrew Johnson and Reconstruction'
+- title: Andrew Johnson and Reconstruction
   outlet: National Park Service
   url: https://www.nps.gov/anjo/andrew-johnson-and-reconstruction.htm
   year: 2024
-- title: 'Andrew Johnson Issues "Christmas Amnesty" Pardoning Former Confederates for Treason'
+- title: Andrew Johnson Issues "Christmas Amnesty" Pardoning Former Confederates for Treason
   outlet: The Reconstruction Era
   url: https://thereconstructionera.com/andrew-johnson-issues-christmas-amnesty-pardoning-former-confederates-for-treason-on-dec-25-1868/
   year: 2024
@@ -30,9 +30,8 @@ tags:
 - presidential-corruption
 - racial-injustice
 capture_lanes:
-- Executive Branch Corruption
-- Reconstruction Sabotage
-- Elite Accountability Evasion
+- Executive Power Expansion
+- Systematic Corruption
 status: confirmed
 ---
 

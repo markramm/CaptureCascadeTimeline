@@ -1,7 +1,7 @@
 ---
 id: 1868-02-24--andrew-johnson-impeached-reconstruction-obstruction
 date: '1868-02-24'
-title: 'Andrew Johnson Impeached for Obstructing Reconstruction'
+title: Andrew Johnson Impeached for Obstructing Reconstruction
 importance: 10
 actors:
 - Andrew Johnson
@@ -15,15 +15,15 @@ sources:
   outlet: U.S. Senate
   url: https://www.senate.gov/about/powers-procedures/impeachment/impeachment-johnson.htm
   year: 2024
-- title: 'The Impeachment of Andrew Johnson'
+- title: The Impeachment of Andrew Johnson
   outlet: PBS American Experience
   url: https://www.pbs.org/wgbh/americanexperience/features/grant-impeachment/
   year: 2024
-- title: 'The Impeachment of President Andrew Johnson'
+- title: The Impeachment of President Andrew Johnson
   outlet: U.S. House of Representatives
   url: https://history.house.gov/Historical-Highlights/1851-1900/The-impeachment-of-President-Andrew-Johnson/
   year: 2024
-- title: 'Why Was Andrew Johnson Impeached?'
+- title: Why Was Andrew Johnson Impeached?
   outlet: National Park Service
   url: https://www.nps.gov/articles/why-was-andrew-johnson-impeached.htm
   year: 2024
@@ -33,9 +33,8 @@ tags:
 - institutional-capture
 - democratic-erosion
 capture_lanes:
-- Executive Branch Corruption
-- Congressional Accountability
-- Reconstruction Sabotage
+- Executive Power Expansion
+- Legislative Capture
 status: confirmed
 ---
 

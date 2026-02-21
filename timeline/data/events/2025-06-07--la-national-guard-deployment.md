@@ -24,7 +24,7 @@ tags:
 - military
 - marines
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 citations:
 - 'USNI News — 700 Marines Deploying to Downtown Los Angeles (Jun 9, 2025): https://news.usni.org/2025/06/09/700-marines-deploying-to-downtown-los-angeles'
 - 'Military.com — The Marines Are in Los Angeles (Jun 13, 2025): https://www.military.com/daily-news/2025/06/13/marines-are-los-angeles.html'

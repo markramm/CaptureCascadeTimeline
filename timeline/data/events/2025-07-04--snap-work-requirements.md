@@ -15,7 +15,7 @@ tags:
 - head-start
 - project-2025
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Who will be affected by Trump administration's Medicaid, SNAP work requirements
   url: https://www.pbs.org/newshour/show/who-will-be-affected-by-trump-administrations-medicaid-snap-work-requirements

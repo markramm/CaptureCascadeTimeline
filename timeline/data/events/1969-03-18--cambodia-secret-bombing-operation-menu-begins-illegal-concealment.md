@@ -11,12 +11,12 @@ actors:
 - General Earle Wheeler
 - Colonel Ray Sitton
 sources:
-- title: 'Operation Menu'
+- title: Operation Menu
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Operation_Menu
   verified: true
   tier: 1
-- title: 'Operation Menu and Secret Carpet Bombing in Cambodia'
+- title: Operation Menu and Secret Carpet Bombing in Cambodia
   outlet: Vietnam The Art of War
   url: https://vietnamtheartofwar.com/1969/03/18/18th-march-1969-operation-menu-and-secret-carpet-bombing-in-cambodia/
   verified: true
@@ -33,9 +33,9 @@ tags:
 - illegal-surveillance
 - constitutional-violations
 capture_lanes:
-- Executive Branch Lawlessness
-- Congressional Deception
-- War Crime Concealment
+- Executive Power Expansion
+- Legislative Capture
+- Military-Industrial Complex
 status: confirmed
 ---
 

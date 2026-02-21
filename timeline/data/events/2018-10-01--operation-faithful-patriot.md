@@ -8,9 +8,9 @@ actors:
 - Gen. Joseph Dunford
 - Defense Secretary Jim Mattis
 capture_lanes:
-- Executive Power & Emergency Authority
-- Border Militarization
-- Presidential Election Influence
+- Executive Power Expansion
+- Military-Industrial Complex
+- Electoral Manipulation
 date: '2018-10-01'
 id: 2018-10-01--operation-faithful-patriot
 importance: 6

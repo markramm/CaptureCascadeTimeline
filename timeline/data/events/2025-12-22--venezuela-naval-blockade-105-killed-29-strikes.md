@@ -1,8 +1,7 @@
 ---
 id: 2025-12-22--venezuela-naval-blockade-105-killed-29-strikes
 date: '2025-12-22'
-title: Venezuela Naval Blockade Kills 105 in 29 Strikes as Trump Refuses to Rule Out
-  War
+title: Venezuela Naval Blockade Kills 105 in 29 Strikes as Trump Refuses to Rule Out War
 importance: 9
 actors:
 - Donald Trump
@@ -70,8 +69,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- executive-overreach
-- war-powers
+- Executive Power Expansion
 ---
 
 

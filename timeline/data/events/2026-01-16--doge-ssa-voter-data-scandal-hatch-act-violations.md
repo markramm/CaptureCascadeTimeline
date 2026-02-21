@@ -35,8 +35,8 @@ sources:
   date: '2026-01-25'
   tier: 3
 capture_lanes:
-- Authoritarian Escalation
-- Constitutional & Democratic Breakdown
+- Executive Power Expansion
+- Democratic Erosion
 ---
 
 The Social Security Administration filed a notice of corrections admitting that DOGE staffers had improperly accessed sensitive personal data and traded it among themselves, including transferring it to a non-SSA Cloudflare server outside agency security protocols. The admissions came after previous declarations under oath proved incomplete.

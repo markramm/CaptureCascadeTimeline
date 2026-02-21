@@ -15,26 +15,20 @@ tags:
 - extended-stay
 - federal-control
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 citations:
-- 'Reuters — U.S. court lets Trump retain control of California National Guard for
-  now (Jun 20, 2025): https://www.reuters.com/world/us/us-court-lets-trump-retain-control-california-national-guard-now-2025-06-20/'
-notes: 'Court rejected government claim compliance with Section 12406 is political
-  question. Panel cited rebellion/danger of rebellion provision of Title 10. Newsom:
-  President is not a king. Bonta: case far from over. Deployment in response to immigration
-  raid protests. Supreme Court appeal expected.'
+- 'Reuters — U.S. court lets Trump retain control of California National Guard for now (Jun 20, 2025): https://www.reuters.com/world/us/us-court-lets-trump-retain-control-california-national-guard-now-2025-06-20/'
+notes: 'Court rejected government claim compliance with Section 12406 is political question. Panel cited rebellion/danger of rebellion provision of Title 10. Newsom: President is not a king. Bonta: case far from over. Deployment in response to immigration raid protests. Supreme Court appeal expected.'
 sources:
 - title: U.S. court lets Trump retain control of California National Guard for now
   url: https://www.reuters.com/world/us/us-court-lets-trump-retain-control-california-national-guard-now-2025-06-20/
   outlet: Reuters
   date: '2025-06-20'
-- title: An appeals court backs Trump's control of the California National Guard for
-    now
+- title: An appeals court backs Trump's control of the California National Guard for now
   url: https://www.npr.org/2025/06/19/g-s1-73050/trump-national-guard-california-immigration
   outlet: NPR
   date: '2025-06-19'
-- title: The 9th Circuit rejects Trump's audacious claim that he can use the National
-    Guard however he likes
+- title: The 9th Circuit rejects Trump's audacious claim that he can use the National Guard however he likes
   url: https://reason.com/2025/06/20/the-9th-circuit-rejects-trumps-audacious-claim-that-he-can-use-the-national-guard-however-he-likes/
   outlet: Reason
   date: '2025-06-20'

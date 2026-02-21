@@ -2,11 +2,8 @@
 id: 2002-09-18--whig-coordinates-misleading-congress-briefings
 date: '2002-09-18'
 title: 'WHIG Intelligence Briefing Coordination with Congress: Systematic Misrepresentation'
-description: Investigation reveals a systematic approach to presenting intelligence
-  that significantly exaggerated potential threats from Iraq, creating a misleading
-  narrative for congressional decision-making.
-significance: Demonstrates how institutional communication mechanisms can distort
-  intelligence assessment, potentially influencing critical national security decisions.
+description: Investigation reveals a systematic approach to presenting intelligence that significantly exaggerated potential threats from Iraq, creating a misleading narrative for congressional decision-making.
+significance: Demonstrates how institutional communication mechanisms can distort intelligence assessment, potentially influencing critical national security decisions.
 actors:
 - Karl Rove
 - Dick Cheney
@@ -19,8 +16,7 @@ sources:
 - outlet: Senate Select Committee on Intelligence
   title: Report on Prewar Intelligence Assessments about Iraq
   url: https://www.intelligence.senate.gov/reports/iraq-intelligence
-  description: Comprehensive investigation into intelligence misrepresentations leading
-    to Iraq War
+  description: Comprehensive investigation into intelligence misrepresentations leading to Iraq War
   date_accessed: '2025-10-17'
 - outlet: Wikipedia
   title: Senate Report on Iraqi WMD Intelligence
@@ -46,7 +42,7 @@ tags:
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
-- Executive Power Manipulation
+- Executive Power Expansion
 status: confirmed
 category: institutional-manipulation
 intelligence_assessment_details:

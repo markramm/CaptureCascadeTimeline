@@ -35,6 +35,9 @@ sources:
   tier: 2
   outlet: Newsweek
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Digital & Tech Capture
 ---
 
 Bono, U2 frontman and longtime humanitarian advocate, appeared on The Joe Rogan Experience on May 31, 2025 for a 3-hour interview where he directly confronted Rogan about the Trump administration's dismantling of USAID (United States Agency for International Development) funding through Elon Musk's Department of Government Efficiency (DOGE). Bono characterized the cuts as **"evil"** and cited research suggesting **300,000 deaths** would result from eliminating AIDS relief and other critical programs. The conversation influenced Rogan's subsequent positions, contributing to his public criticism of Trump's ICE raids one month later—demonstrating that principled engagement can still persuade even after Trump endorsement.

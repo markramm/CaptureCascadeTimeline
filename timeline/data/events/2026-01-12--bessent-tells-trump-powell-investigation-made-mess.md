@@ -26,8 +26,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Federal Reserve Independence
-- Cabinet Dynamics
+- Executive Power Expansion
 ---
 
 Treasury Secretary Scott Bessent told people he was unhappy with the decision to criminally investigate Federal Reserve Chair Jerome Powell and conveyed those concerns directly to President Trump in a call on Sunday, January 12. Sources indicated Bessent told Trump the investigation "made a mess" and could harm financial markets.

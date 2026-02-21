@@ -38,6 +38,10 @@ sources:
   date: 2020-08-27
   tier: 2
   outlet: Citizens for Responsibility and Ethics in Washington (CREW)
+capture_lanes:
+- Executive Power Expansion
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 Acting Homeland Security Secretary Chad Wolf presided over a naturalization ceremony in the White House Cross Hall that was orchestrated specifically to create content for the Republican National Convention, with the footage broadcast that evening as part of the RNC programming. The U.S. Office of Special Counsel later concluded that Wolf violated the Hatch Act by using his official authority for a partisan political event, with evidence showing the ceremony was "scheduled and conducted for the purpose of producing content to be used at the RNC."

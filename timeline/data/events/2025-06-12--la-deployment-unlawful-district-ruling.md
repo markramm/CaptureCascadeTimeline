@@ -21,8 +21,8 @@ tags:
 - domestic-deployment
 - constitutional-violation
 capture_lanes:
-- Executive Power & Emergency Authority
-- Judicial Capture & Corruption
+- Executive Power Expansion
+- Judicial Capture
 citations:
 - https://www.politico.com/news/2025/06/12/judge-casts-doubt-military-deployment-california-00174746
 - https://www.courthousenews.com/california-gets-a-win-in-challenge-to-national-guard-deployment

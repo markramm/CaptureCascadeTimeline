@@ -14,7 +14,7 @@ tags:
 - agency-elimination
 - project-2025
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 - Federal Workforce Capture
 sources:
 - title: U.S. Department of Education Initiates Reduction in Force

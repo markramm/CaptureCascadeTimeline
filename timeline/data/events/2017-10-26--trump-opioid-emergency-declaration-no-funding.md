@@ -30,6 +30,10 @@ sources:
   date: '2017-10-26'
   tier: 2
   outlet: Modern Healthcare
+capture_lanes:
+- Executive Power Expansion
+- Intelligence Penetration
+- Media Capture & Control
 ---
 
 On October 26, 2017, President Trump declared the opioid crisis a public health emergency—but the declaration provided no new funding and stopped short of the national emergency designation Trump had promised in August. The move was widely criticized as a hollow gesture that failed to match the scale of a crisis killing tens of thousands of Americans annually.

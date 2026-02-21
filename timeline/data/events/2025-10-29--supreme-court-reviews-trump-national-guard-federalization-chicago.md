@@ -36,6 +36,10 @@ tags:
 - separation-of-powers
 - supreme-court
 title: Supreme Court to Review Trump's Federalization of National Guard in Chicago, Nationwide Implications
+capture_lanes:
+- Executive Power Expansion
+- Judicial Capture
+- Environmental Capture
 ---
 
 On October 29, 2025, the U.S. Supreme Court took the rare step of requesting additional briefing in a high-profile emergency case challenging President Trump's federalization of the National Guard in Chicago for immigration enforcement, signaling the Court is grappling with fundamental questions about presidential authority over state military forces. The Court's decision will have nationwide implications for National Guard deployments, with similar litigation pending in California, Oregon, and other states.

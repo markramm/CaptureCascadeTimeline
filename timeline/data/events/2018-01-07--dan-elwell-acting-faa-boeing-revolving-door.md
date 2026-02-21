@@ -50,6 +50,9 @@ tags:
 status: confirmed
 id: 2018-01-07--dan-elwell-acting-faa-boeing-revolving-door
 priority_id: indigenous-democracy-60dde4fe
+capture_lanes:
+- Executive Power Expansion
+- Regulatory Capture
 ---
 
 Dan Elwell becomes acting FAA Administrator on January 7, 2018, when Michael Huerta's five-year term ends, exemplifying the revolving door between aviation regulators and the industry they oversee. Elwell, who had served as Deputy Administrator since June 2017, brought extensive aviation industry connections including his role as Vice President of the Aerospace Industries Association (2008-2013), which represents major manufacturers like Boeing, and Senior Vice President at Airlines for America (2013-2015). His appointment occurred during the critical 737 MAX certification period, when Boeing's aircraft was facing scrutiny over its MCAS software system. The FAA under Elwell's leadership maintained the industry-friendly regulatory approach established through the ODA program, allowing Boeing to self-certify critical safety systems. This personnel pattern represents systematic regulatory capture, where former industry executives and officials rotate between regulatory agencies and private companies, creating institutional biases that prioritize industry interests over public safety. The timing of Elwell's leadership during the 737 MAX certification process demonstrates how revolving door appointments can directly impact regulatory outcomes, with catastrophic consequences becoming evident in the subsequent aircraft crashes.

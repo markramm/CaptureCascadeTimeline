@@ -38,7 +38,7 @@ connections:
 patterns:
 - kleptocratic-capture
 capture_lanes:
-- Executive Branch Capture
+- Executive Power Expansion
 notes: Detailed examination reveals complex constitutional and ethical implications of Qatar's jet gift to the Trump administration.
 ---
 

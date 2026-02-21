@@ -32,6 +32,10 @@ sources:
   date: 2019-06-13
   tier: 1
   outlet: NPR
+capture_lanes:
+- Executive Power Expansion
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 The U.S. Office of Special Counsel sent a report to President Trump recommending disciplinary action against White House Counselor Kellyanne Conway for violating the Hatch Act during television interviews where she promoted Republican Senate candidate Roy Moore and attacked Democratic candidate Doug Jones in Alabama's 2017 special election. The federal watchdog found that Conway "impermissibly mixed official government business with political views about candidates," appearing on Fox News and CNN in her official White House capacity to engage in partisan political advocacy prohibited by federal law.

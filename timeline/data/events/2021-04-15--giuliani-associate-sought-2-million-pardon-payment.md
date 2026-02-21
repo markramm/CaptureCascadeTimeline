@@ -38,6 +38,10 @@ sources:
   tier: 1
   outlet: U.S. Department of Justice
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Financial Capture
+- Systematic Corruption
 ---
 
 Florida businessman Harry Sargeant III told federal prosecutors that associates of Rudy Giuliani approached him seeking a $2 million payment to secure presidential pardons for individuals under investigation, according to court filings unsealed in April 2021. The revelation provided direct evidence of a systematic pay-to-play pardon scheme operating through Trump's personal attorney during the final months of his presidency.

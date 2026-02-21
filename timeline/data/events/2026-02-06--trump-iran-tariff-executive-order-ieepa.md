@@ -25,6 +25,8 @@ sources:
   outlet: Thompson Hine
   date: '2026-02-06'
   tier: 2
+capture_lanes:
+- Executive Power Expansion
 ---
 
 President Trump signed an executive order titled "Addressing Threats to the United States by the Government of Iran," authorizing the imposition of tariffs on goods imported from any country that "directly or indirectly purchases, imports, or otherwise acquires goods or services from Iran." The order, issued pursuant to the International Emergency Economic Powers Act (IEEPA) and effective February 7, 2026, establishes a framework where the Secretary of Commerce identifies countries trading with Iran, the Secretary of State recommends tariff levels in consultation with Treasury, Homeland Security, and USTR, and the president then decides whether and to what extent to impose duties—referencing a 25% tariff as an example.

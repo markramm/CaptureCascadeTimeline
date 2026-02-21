@@ -31,6 +31,10 @@ sources:
   outlet: Katz Banks Kumin LLP
   date: '2026-01-23'
   tier: 3
+capture_lanes:
+- Executive Power Expansion
+- Digital & Tech Capture
+- Surveillance Infrastructure
 ---
 
 NPR reported that the Trump administration admitted DOGE employees accessed and shared Americans' sensitive personal Social Security data in multiple ways beyond their legal authority, expanding on earlier DOJ court filing revelations. The report detailed that DOGE team members circumvented IT rules to improperly share data on outside servers, violated a temporary restraining order by restoring data access within 24 hours of court-ordered revocation, and even expanded access beyond what existed before the court order.

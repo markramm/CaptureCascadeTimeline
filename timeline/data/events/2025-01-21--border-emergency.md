@@ -10,8 +10,8 @@ tags:
 - capture-patterns
 - energy
 capture_lanes:
-- Executive Power & Emergency Authority
-- Immigration & Border Militarization
+- Executive Power Expansion
+- Military-Industrial Complex
 sources:
 - title: Declaring A National Emergency At The Southern Border Of The United States
   url: https://www.whitehouse.gov/presidential-actions/2025/01/declaring-a-national-emergency-at-the-southern-border-of-the-united-states/

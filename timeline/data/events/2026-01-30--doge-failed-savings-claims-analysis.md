@@ -29,6 +29,10 @@ sources:
   outlet: Cato Institute
   date: '2026-02-11'
   tier: 3
+capture_lanes:
+- Executive Power Expansion
+- Financial Capture
+- Digital & Tech Capture
 ---
 
 Analysis revealed DOGE failed to achieve its promised $1 trillion in savings, with DOGE.gov/savings listing only $215 billion in estimated savings as of January 20, 2026—far short of the $1 trillion pledged at launch and the $2 trillion initially targeted by Elon Musk. House DOGE caucus leader Blake Moore stated on June 5, 2025 that Republican members "always knew it was a massive exaggeration" when Musk claimed in April 2025 that $150 billion had been cut, a figure disputed by fact-checkers. At the first cabinet meeting in February 2025, Musk remained optimistic that $1 trillion—15% of the budget—could be cut, but this target proved unrealistic.

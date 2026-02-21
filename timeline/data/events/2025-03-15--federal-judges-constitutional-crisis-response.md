@@ -32,9 +32,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Constitutional Threat Management
-- Judicial Independence Preservation
-- Executive Power Resistance
+- Executive Power Expansion
 location: Washington, D.C.
 ---
 

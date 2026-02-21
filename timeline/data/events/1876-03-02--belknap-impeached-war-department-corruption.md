@@ -1,7 +1,7 @@
 ---
 id: 1876-03-02--belknap-impeached-war-department-corruption
 date: '1876-03-02'
-title: 'War Secretary Belknap Impeached for Selling Military Post Traderships'
+title: War Secretary Belknap Impeached for Selling Military Post Traderships
 importance: 8
 actors:
 - William W. Belknap
@@ -14,15 +14,15 @@ sources:
   outlet: U.S. Senate
   url: https://www.senate.gov/about/powers-procedures/impeachment/impeachment-belknap.htm
   year: 2024
-- title: 'The Impeachment of Secretary William Belknap'
+- title: The Impeachment of Secretary William Belknap
   outlet: U.S. House of Representatives
   url: https://history.house.gov/Historical-Highlights/1851-1900/The-Impeachment-of-Secretary-William-Belknap/
   year: 2024
-- title: 'First Cabinet Member Impeached Accused of "Prostituting" Office'
+- title: First Cabinet Member Impeached Accused of "Prostituting" Office
   outlet: TIME
   url: https://time.com/6691749/impeachment-mayorkas-cabinet-member-history/
   year: 2024
-- title: 'Trader post scandal'
+- title: Trader post scandal
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Trader_post_scandal
   year: 2024
@@ -32,9 +32,8 @@ tags:
 - institutional-capture
 - elite-impunity
 capture_lanes:
-- Cabinet Corruption
-- Military Contracting Fraud
-- Elite Accountability Evasion
+- Executive Power Expansion
+- Systematic Corruption
 status: confirmed
 ---
 

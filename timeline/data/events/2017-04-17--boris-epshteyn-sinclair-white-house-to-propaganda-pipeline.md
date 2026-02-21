@@ -20,27 +20,27 @@ tags:
 - democracy
 location: Hunt Valley, MD
 sources:
-- title: 'Ex-Trump spokesperson joins Sinclair Broadcasting'
+- title: Ex-Trump spokesperson joins Sinclair Broadcasting
   url: https://money.cnn.com/2017/04/17/media/boris-epshteyn-sinclair/index.html
   outlet: CNN
   date: '2017-04-17'
   tier: 1
-- title: 'Boris Epshteyn, a former Trump surrogate, now defends him as a Sinclair TV pundit'
+- title: Boris Epshteyn, a former Trump surrogate, now defends him as a Sinclair TV pundit
   url: https://www.washingtonpost.com/lifestyle/style/boris-epshteyn-a-former-trump-surrogate-now-defends-him-as-a-sinclair-tv-pundit/2017/06/19/b230b2e8-512e-11e7-be25-3a519335381c_story.html
   outlet: The Washington Post
   date: '2017-06-19'
   tier: 1
-- title: 'How Boris Epshteyn and Sinclair bring Trump propaganda to local news'
+- title: How Boris Epshteyn and Sinclair bring Trump propaganda to local news
   url: https://slate.com/news-and-politics/2017/07/how-boris-epshteyn-and-sinclair-bring-trump-propaganda-to-local-news.html
   outlet: Slate
   date: '2017-07-01'
   tier: 2
-- title: 'Trump aide Epshteyn joining Trump-friendly TV network'
+- title: Trump aide Epshteyn joining Trump-friendly TV network
   url: https://edition.cnn.com/2017/04/17/politics/boris-epshteyn-administration-sinclair/index.html
   outlet: CNN
   date: '2017-04-17'
   tier: 1
-- title: 'Sinclair to require more must run pieces for former Trump official Epshteyn'
+- title: Sinclair to require more must run pieces for former Trump official Epshteyn
   url: https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/
   outlet: The Hill
   date: '2017-07-11'
@@ -48,7 +48,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Executive Power Abuse
+- Executive Power Expansion
 ---
 
 In mid-April 2017, just weeks after quietly departing the Trump White House in March, Boris Epshteyn was hired by Sinclair Broadcast Group as "chief political analyst," creating a direct propaganda pipeline from the Trump administration to 173 local television stations in 81 markets reaching approximately 40% of American households. Epshteyn's seamless transition from White House official to mandatory local news commentator exemplified the coordination between the Trump administration and Sinclair's media empire to circumvent traditional journalism and inject partisan messaging directly into trusted local news broadcasts.

@@ -32,6 +32,8 @@ sources:
   tier: 1
   outlet: PBS
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
 ---
 
 Trump administration officials invoked the unitary executive theory to assert direct presidential control over Department of Justice prosecutorial decisions, reversing decades of DOJ independence norms. The administration cited the Supreme Court's Trump v. United States immunity ruling, which held that presidential conversations with DOJ fall within core executive powers immune from judicial scrutiny. Cornell Law Professor Michael C. Dorf compared the actions to Nixon's 'Saturday Night Massacre,' noting the resignations of principled conservative prosecutors who refused to comply with political interference in federal corruption cases. The unitary executive theory, advanced by Project 2025 and conservative legal scholars, argues that all executive branch personnel are 'subject to the ongoing supervision and control of the elected President,' requiring the president to have direct or indirect power to fire anyone in the executive branch. This interpretation contradicts traditional separation of powers doctrine and the post-Watergate reforms that established DOJ independence from political interference. The assertion of unitary executive authority enables Trump to weaponize federal law enforcement against political opponents while shielding allies from prosecution, fundamentally transforming the DOJ from an independent law enforcement agency into a tool of presidential power. Legal scholars warned this represents a constitutional crisis where Article II executive power claims override statutory frameworks designed to prevent authoritarian governance.

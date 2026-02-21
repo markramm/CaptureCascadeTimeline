@@ -20,9 +20,9 @@ tags:
 - immigration
 - 14th-amendment
 capture_lanes:
-- Executive Power & Emergency Authority
-- Immigration & Border Militarization
-- Judicial Manipulation
+- Executive Power Expansion
+- Military-Industrial Complex
+- Judicial Capture
 sources:
 - title: Protecting The Meaning And Value Of American Citizenship
   url: https://www.whitehouse.gov/presidential-actions/2025/01/protecting-the-meaning-and-value-of-american-citizenship/

@@ -15,7 +15,7 @@ tags:
 - research-elimination
 - project-2025
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: NOAA research office eliminated
   url: https://www.msnbc.com/news/noaa-budget-cuts-climate-research
@@ -29,8 +29,7 @@ sources:
   url: https://www.cbsnews.com/news/noaa-budget-cut-climate-research-draft-proposal/
   outlet: CBS News
   date: '2025-04-11'
-- title: Trump's budget plan eviscerates weather and climate research, and it could
-    be enacted immediately
+- title: Trump's budget plan eviscerates weather and climate research, and it could be enacted immediately
   url: https://www.cnn.com/2025/04/11/climate/trump-noaa-budget-cuts/index.html
   outlet: CNN
   date: '2025-04-11'

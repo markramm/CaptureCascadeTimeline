@@ -36,6 +36,10 @@ sources:
   date: 2020-02-05
   tier: 1
   outlet: NPR
+capture_lanes:
+- Executive Power Expansion
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 The Senate voted to acquit President Donald Trump on both impeachment articles on February 5, 2020, despite overwhelming evidence that he abused his power by pressuring Ukraine to announce investigations into Joe Biden while withholding military aid. On Article I (Abuse of Power), the vote was 48-52, with Senator Mitt Romney becoming the first senator in U.S. history to vote to convict a president of his own party. On Article II (Obstruction of Congress), the vote was 47-53, with all Republicans voting to acquit. The acquittal came after a trial without witnesses or documents, conducted with the outcome predetermined by Senate Republicans who prioritized partisan loyalty over constitutional duty.

@@ -14,7 +14,7 @@ tags:
 - project-2025
 - worker-protections
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Project 2025 would strip federal overtime protections from at least 8 million workers
   url: https://epiaction.org/2024/09/09/project-2025-would-strip-federal-overtime-protections-from-at-least-8-million-workers/

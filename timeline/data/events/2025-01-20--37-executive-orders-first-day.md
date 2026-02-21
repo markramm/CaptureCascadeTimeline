@@ -20,7 +20,7 @@ tags:
 - doge
 - january-6-pardons
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 - Federal Workforce Capture
 sources:
 - title: The list of executive orders Trump signed on Day 1 in office

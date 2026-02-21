@@ -17,7 +17,7 @@ tags:
 - civil-service
 - project-2025
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 - Federal Workforce Capture
 sources:
 - title: Officially, 59,000 federal jobs are gone under Trump. There's more to the picture

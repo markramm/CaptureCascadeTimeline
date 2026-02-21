@@ -26,6 +26,10 @@ sources:
   outlet: Wikipedia
   tier: 2
 status: confirmed
+capture_lanes:
+- Executive Power Expansion
+- Judicial Capture
+- Media Capture & Control
 ---
 
 Stephen Miller, the primary architect of Executive Order 13769, implemented Trump's campaign promise of a "Muslim ban" just seven days into the administration, creating immediate chaos at airports across the United States as customs agents detained travelers, separated families, and denied entry to legal permanent residents. The executive order, developed primarily by Miller and Steve Bannon without standard input from the Department of Justice's Office of Legal Counsel, suspended entry of all Syrian refugees indefinitely, banned entry from seven Muslim-majority countries for 90 days, and reduced refugee admissions by more than half. Airports erupted in protests as lawyers rushed to assist detainees, immigration agents received no advance guidance on implementation, and even green card holders were turned away mid-flight. Federal judges across the country issued emergency stays, with Judge Ann Donnelly ruling the government's actions violated due process. Miller defended the ban in media appearances, famously telling reporters: "our opponents, the media and the whole world will soon see as we begin to take further actions, that the powers of the president to protect our country are very substantial and will not be questioned." When courts blocked the order and the administration prepared a revised version, Miller stated changes would be "mostly minor, technical differences... Fundamentally, you are still going to have the same, basic policy outcome." The ban represented Miller's first major policy achievement implementing his white nationalist ideology at a national scale, disguising religious discrimination as national security policy despite no terrorist attacks being perpetrated by nationals from the banned countries.

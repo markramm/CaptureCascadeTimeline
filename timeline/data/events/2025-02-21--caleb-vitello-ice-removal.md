@@ -16,7 +16,7 @@ tags:
 - deportation-quotas
 capture_lanes:
 - Federal Workforce Capture
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Acting ICE director removed amid White House pressure to boost arrests
   url: https://www.washingtonpost.com/immigration/2025/02/21/ice-director-removed-caleb-vitello/

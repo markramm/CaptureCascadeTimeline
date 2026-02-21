@@ -10,7 +10,7 @@ actors:
 - Horatio Ross (prospector)
 - President Ulysses S. Grant
 sources:
-- title: 'In 1868, Two Nations Made a Treaty. The U.S. Broke It'
+- title: In 1868, Two Nations Made a Treaty. The U.S. Broke It
   outlet: Smithsonian Magazine
   url: https://www.smithsonianmag.com/smithsonian-institution/1868-two-nations-made-treaty-us-broke-it-and-plains-indian-tribes-are-still-seeking-justice-180970741/
   tier: 2
@@ -35,8 +35,8 @@ tags:
 status: confirmed
 capture_lanes:
 - Military-Industrial Complex
-- Executive Capture
-- Indigenous Suppression
+- Executive Power Expansion
+- Civil Rights Suppression
 ---
 
 Lieutenant Colonel George Armstrong Custer leads a 1,000-man military expedition into the Black Hills of South Dakota in direct violation of the 1868 Fort Laramie Treaty, which guaranteed the Sioux Nation "absolute and undisturbed use and occupancy" of all land west of the Missouri River including the sacred Black Hills (Paha Sapa). Operating under U.S. government orders ostensibly to find a location for a military post, Custer's expedition is accompanied by miners and prospectors—revealing the true purpose of violating Sioux treaty rights to explore for mineral wealth. The Black Hills hold profound spiritual significance for the Lakota, Nakota, and Dakota peoples as the sacred center of their world and the birthplace of their nation, making the military intrusion not merely a legal violation but a desecration of the Sioux's most holy lands. The expedition represents a deliberate choice by the federal government to ignore its treaty obligations when economic interests (gold speculation) and military expansion goals override legal commitments to Indigenous sovereignty, demonstrating the pattern where U.S. treaties with Native nations remain in force only as long as they serve white interests.

@@ -15,7 +15,7 @@ tags:
 - personnel-appointments
 - blueprint-implementation
 capture_lanes:
-- Executive Power & Emergency Authority
+- Executive Power Expansion
 sources:
 - title: Vought implements own Project 2025 recommendations
   url: https://www.afge.org/news/omb-director-project-2025
@@ -29,8 +29,7 @@ sources:
   url: https://civilrights.org/2025/02/06/civil-rights-coalition-denounces-confirmation-of-russell-vought-as-omb-director/
   outlet: The Leadership Conference on Civil and Human Rights
   date: '2025-02-06'
-- title: 'Russell Vought: The Project 2025 Architect and OMB Nominee Coming for Our
-    Democracy'
+- title: 'Russell Vought: The Project 2025 Architect and OMB Nominee Coming for Our Democracy'
   url: https://nwlc.org/russell-vought-the-project-2025-architect-and-omb-nominee-coming-for-our-democracy/
   outlet: National Women's Law Center
   date: '2025-01-29'
