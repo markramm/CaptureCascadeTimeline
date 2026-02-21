@@ -10,15 +10,15 @@ actors:
 - E.C. Knight Company
 - Grover Cleveland Administration
 sources:
-- title: 'United States v. E.C. Knight Company'
+- title: United States v. E.C. Knight Company
   outlet: Britannica
   url: https://www.britannica.com/event/United-States-v-E-C-Knight-Company
   year: 2025
-- title: 'United States v. E. C. Knight Co.'
+- title: United States v. E. C. Knight Co.
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_v._E._C._Knight_Co.
   year: 2025
-- title: 'Sherman Antitrust Act of 1890 and Sugar Trust Case'
+- title: Sherman Antitrust Act of 1890 and Sugar Trust Case
   outlet: Library of Congress - Constitution Annotated
   url: https://constitution.congress.gov/browse/essay/artI-S8-C3-5-1/ALDE_00013407/
   year: 2025
@@ -29,9 +29,9 @@ tags:
 - corporate-impunity
 - supreme-court
 capture_lanes:
-- Judicial Nullification of Regulation
-- Corporate Legal Victory
-- Antitrust Enforcement Collapse
+- Judicial Capture
+- Corporate Capture
+- Regulatory Capture
 status: confirmed
 ---
 

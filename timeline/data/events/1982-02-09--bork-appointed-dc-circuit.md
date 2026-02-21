@@ -78,4 +78,8 @@ sources:
   date: 2025-12-22
   tier: 2
   outlet: Britannica
+capture_lanes:
+- Judicial Capture
+- Regulatory Capture
+- Intelligence Penetration
 ---

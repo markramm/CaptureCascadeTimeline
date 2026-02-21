@@ -17,9 +17,9 @@ tags:
 - judicial-ideology
 - institutional-capture
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Corporate Capture
-- Ideological Capture
+- Democratic Erosion
 sources:
 - title: The Antitrust Paradox - Wikipedia
   url: https://en.wikipedia.org/wiki/The_Antitrust_Paradox

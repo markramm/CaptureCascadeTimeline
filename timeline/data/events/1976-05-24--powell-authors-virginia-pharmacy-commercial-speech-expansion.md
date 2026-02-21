@@ -1,8 +1,7 @@
 ---
 id: 1976-05-24--powell-authors-virginia-pharmacy-commercial-speech-expansion
 date: '1976-05-24'
-title: Powell Expands Corporate Speech Rights in Virginia State Board of Pharmacy
-  Decision
+title: Powell Expands Corporate Speech Rights in Virginia State Board of Pharmacy Decision
 importance: 8
 actors:
 - Lewis F. Powell Jr.
@@ -19,8 +18,7 @@ tags:
 - judicial-capture
 - constitutional-expansion
 capture_lanes:
-- Judicial Capture & Corruption
-- Constitutional Rights Expansion
+- Judicial Capture
 sources:
 - title: Va. Pharmacy Bd. v. Va. Consumer Council | Supreme Court Details
   outlet: Cornell Legal Information Institute
@@ -31,8 +29,7 @@ sources:
   - Struck down Virginia law prohibiting prescription drug price advertising
   - Recognized consumers' right to receive commercial information
   verified: true
-- title: Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council Case
-    Brief
+- title: Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council Case Brief
   outlet: Oyez Supreme Court Database
   url: https://www.oyez.org/cases/1975/74-895
   date: '1976-05-24'

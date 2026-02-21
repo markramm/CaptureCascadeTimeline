@@ -19,8 +19,8 @@ tags:
 - political-influence
 - corporate-malfeasance
 capture_lanes:
-- judicial-capture
-- political-corruption
+- Judicial Capture
+- Systematic Corruption
 status: confirmed
 sources:
 - title: Caperton v. A. T. Massey Coal Co.
@@ -55,8 +55,7 @@ sources:
   url: https://en.wikipedia.org/wiki/2004_United_States_election_voting_controversies
   outlet: Wikipedia
   tier: 3
-- title: New Ohio voter transcripts feed floodtide of doubt about Republican election
-    manipulation
+- title: New Ohio voter transcripts feed floodtide of doubt about Republican election manipulation
   url: https://www.freepress.org/departments/display/19/2004/930
   outlet: Free Press
   tier: 3

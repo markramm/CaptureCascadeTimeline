@@ -4,42 +4,41 @@ date: '2024-11-22'
 title: Judge Merchan Grants Indefinite Postponement of Trump Sentencing After Election Victory
 importance: 8
 actors:
-  - Juan Merchan
-  - Donald Trump
-  - Alvin Bragg
+- Juan Merchan
+- Donald Trump
+- Alvin Bragg
 tags:
-  - sentencing
-  - accountability-failure
-  - presidential-immunity
-  - constitutional-crisis
+- sentencing
+- accountability-failure
+- presidential-immunity
+- constitutional-crisis
 status: confirmed
 sources:
-  - title: Judge indefinitely postpones Trump's hush money case sentencing
-    url: https://www.npr.org/2024/11/22/g-s1-35393/donald-trump-sentencing-hush-money-case
-    outlet: NPR
-    date: '2024-11-22'
-    tier: 1
-  - title: Trump's hush money sentencing is postponed indefinitely, judge says
-    url: https://www.cnn.com/2024/11/22/politics/trumps-hush-money-sentencing-is-postponed-indefinitely-judge-says/index.html
-    outlet: CNN
-    date: '2024-11-22'
-    tier: 2
-  - title: New York judge indefinitely delays president-elect Trump sentencing
-    url: https://www.jurist.org/news/2024/11/new-york-judge-indefinitely-delays-president-elect-trump-sentencing/
-    outlet: JURIST
-    date: '2024-11-22'
-    tier: 2
-  - title: Manhattan DA suggests pausing Trump's hush money sentencing until 2029
-    url: https://abc7ny.com/donald-trump-hush-money-stormy-daniels-court-case/15559057/
-    outlet: ABC7 New York
-    date: '2024-12-10'
-    tier: 2
-notes: 'Judge Merchan indefinitely postponed Trump''s sentencing after his 2024 election victory, with Manhattan DA suggesting the delay should extend until 2029 after Trump''s presidency ends. The conviction stands but may never result in sentencing, demonstrating accountability failure for a convicted felon elected president.'
+- title: Judge indefinitely postpones Trump's hush money case sentencing
+  url: https://www.npr.org/2024/11/22/g-s1-35393/donald-trump-sentencing-hush-money-case
+  outlet: NPR
+  date: '2024-11-22'
+  tier: 1
+- title: Trump's hush money sentencing is postponed indefinitely, judge says
+  url: https://www.cnn.com/2024/11/22/politics/trumps-hush-money-sentencing-is-postponed-indefinitely-judge-says/index.html
+  outlet: CNN
+  date: '2024-11-22'
+  tier: 2
+- title: New York judge indefinitely delays president-elect Trump sentencing
+  url: https://www.jurist.org/news/2024/11/new-york-judge-indefinitely-delays-president-elect-trump-sentencing/
+  outlet: JURIST
+  date: '2024-11-22'
+  tier: 2
+- title: Manhattan DA suggests pausing Trump's hush money sentencing until 2029
+  url: https://abc7ny.com/donald-trump-hush-money-stormy-daniels-court-case/15559057/
+  outlet: ABC7 New York
+  date: '2024-12-10'
+  tier: 2
+notes: Judge Merchan indefinitely postponed Trump's sentencing after his 2024 election victory, with Manhattan DA suggesting the delay should extend until 2029 after Trump's presidency ends. The conviction stands but may never result in sentencing, demonstrating accountability failure for a convicted felon elected president.
 capture_lanes:
-  - Judiciary Capture
-  - Executive Power Expansion
-  - Accountability Evasion
-  - Constitutional Crisis
+- Judicial Capture
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 Judge Juan Merchan granted an indefinite postponement of Donald Trump's sentencing on 34 felony convictions, effectively acknowledging that Trump's election victory had made it impossible to sentence him in the foreseeable future. The postponement - from a scheduled November 26 sentencing date to an undefined future time, possibly not until after Trump's presidency ends in 2029 - represented the practical collapse of accountability efforts and demonstrated how electoral victory could nullify a criminal conviction.

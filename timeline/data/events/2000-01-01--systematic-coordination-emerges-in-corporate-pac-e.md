@@ -18,7 +18,7 @@ tags:
 - corporate-influence
 capture_lanes:
 - Regulatory Capture
-- Legal System Manipulation
+- Judicial Capture
 sources:
 - outlet: Brennan Center for Justice
   title: Citizens United Explained

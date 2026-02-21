@@ -76,7 +76,7 @@ patterns:
 notes: Event comprehensively documents the systematic breakdown of clemency standards and the public safety consequences of bypassing DOJ review processes.
 capture_lanes:
 - Executive Power Expansion
-- Judicial System Capture
+- Judicial Capture
 ---
 
 By December 2025, Trump had granted executive clemency to over 1,600 individuals since returning to office—a pace far exceeding any previous administration. This clemency spree systematically bypassed the traditional Department of Justice review process managed by the Office of the Pardon Attorney, eliminating safeguards designed to ensure public safety, victim restitution, and demonstration of rehabilitation.

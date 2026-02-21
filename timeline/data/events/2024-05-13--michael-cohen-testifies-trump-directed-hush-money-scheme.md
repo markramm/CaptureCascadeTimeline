@@ -4,42 +4,42 @@ date: '2024-05-13'
 title: Michael Cohen Testifies Trump Personally Directed Hush Money Scheme and Reimbursement Cover-Up
 importance: 9
 actors:
-  - Michael Cohen
-  - Donald Trump
-  - Allen Weisselberg
-  - Juan Merchan
+- Michael Cohen
+- Donald Trump
+- Allen Weisselberg
+- Juan Merchan
 tags:
-  - criminal-trial
-  - testimony
-  - hush-money
-  - accountability
+- criminal-trial
+- testimony
+- hush-money
+- accountability
 status: confirmed
 sources:
-  - title: 'Michael Cohen, Trump''s ex-fixer, testifies about hush money payment to Stormy Daniels'
-    url: https://www.npr.org/2024/05/13/1250844236/trump-trial-michael-cohen
-    outlet: NPR
-    date: '2024-05-13'
-    tier: 1
-  - title: Michael Cohen Testifies Trump Directed Him to Pay Hush Money
-    url: https://www.usnews.com/news/national-news/articles/2024-05-13/michael-cohen-testifies-trump-directed-him-to-pay-hush-money
-    outlet: U.S. News & World Report
-    date: '2024-05-13'
-    tier: 2
-  - title: 'Michael Cohen, key witness against Trump, testifies at trial about "hush money" payments'
-    url: https://www.cbsnews.com/live-updates/michael-cohen-trump-trial-testimony/
-    outlet: CBS News
-    date: '2024-05-13'
-    tier: 2
-  - title: 'Michael Cohen: Trump hush-money scheme was ''all about the campaign'''
-    url: https://www.courthousenews.com/michael-cohen-trump-hush-money-scheme-was-all-about-the-campaign/
-    outlet: Courthouse News Service
-    date: '2024-05-13'
-    tier: 2
-notes: 'Cohen was the prosecution''s star witness, directly implicating Trump in the hush money scheme and cover-up. His testimony was corroborated by documentary evidence including checks, invoices, and recordings. Defense attacked his credibility due to his criminal history and admitted lying.'
+- title: Michael Cohen, Trump's ex-fixer, testifies about hush money payment to Stormy Daniels
+  url: https://www.npr.org/2024/05/13/1250844236/trump-trial-michael-cohen
+  outlet: NPR
+  date: '2024-05-13'
+  tier: 1
+- title: Michael Cohen Testifies Trump Directed Him to Pay Hush Money
+  url: https://www.usnews.com/news/national-news/articles/2024-05-13/michael-cohen-testifies-trump-directed-him-to-pay-hush-money
+  outlet: U.S. News & World Report
+  date: '2024-05-13'
+  tier: 2
+- title: Michael Cohen, key witness against Trump, testifies at trial about "hush money" payments
+  url: https://www.cbsnews.com/live-updates/michael-cohen-trump-trial-testimony/
+  outlet: CBS News
+  date: '2024-05-13'
+  tier: 2
+- title: 'Michael Cohen: Trump hush-money scheme was ''all about the campaign'''
+  url: https://www.courthousenews.com/michael-cohen-trump-hush-money-scheme-was-all-about-the-campaign/
+  outlet: Courthouse News Service
+  date: '2024-05-13'
+  tier: 2
+notes: Cohen was the prosecution's star witness, directly implicating Trump in the hush money scheme and cover-up. His testimony was corroborated by documentary evidence including checks, invoices, and recordings. Defense attacked his credibility due to his criminal history and admitted lying.
 capture_lanes:
-  - Judiciary Capture
-  - Financial Capture
-  - Accountability Evasion
+- Judicial Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 Michael Cohen, Donald Trump's former personal lawyer and self-described "fixer," took the witness stand and delivered devastating testimony that Trump personally directed the $130,000 hush money payment to Stormy Daniels and approved the scheme to disguise Cohen's reimbursement as legal expenses. Cohen's testimony provided the direct link between Trump and the alleged crimes, transforming documentary evidence of falsified business records into proof of a deliberate criminal conspiracy orchestrated by Trump himself.

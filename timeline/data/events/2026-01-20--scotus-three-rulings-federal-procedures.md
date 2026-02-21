@@ -23,6 +23,8 @@ sources:
   outlet: JD Supra
   date: '2026-01-20'
   tier: 2
+capture_lanes:
+- Judicial Capture
 ---
 
 The Supreme Court issued three unanimous decisions addressing federal civil procedure and criminal sentencing. In Berk v. Choy (No. 24-440), Justice Barrett's 9-0 opinion held that Delaware's affidavit of merit requirement for medical malpractice cases does not apply in federal court, finding the state law conflicts with Federal Rules of Civil Procedure 8 and 12, which do not require plaintiffs to provide evidence at the pleadings stage.

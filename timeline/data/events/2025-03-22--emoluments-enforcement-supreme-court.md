@@ -36,8 +36,8 @@ tags:
 - legal-ambiguity
 status: confirmed
 capture_lanes:
-- Judicial Oversight
-- Constitutional Accountability
+- Judicial Capture
+- Democratic Erosion
 ---
 
 Despite ongoing concerns about potential Emoluments Clauses violations, the Supreme Court has continued to avoid definitively ruling on the constitutional questions surrounding presidential financial conflicts. Previous cases from 2021 were dismissed as moot, leaving unclear legal standards about what constitutes an improper emolument. The Court's refusal to review these cases means the anti-corruption provision remains weakened, potentially setting a concerning precedent for future presidential financial accountability.

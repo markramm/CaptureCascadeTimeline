@@ -34,6 +34,10 @@ sources:
   date: '2024-11-08'
   tier: 2
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- International Kleptocracy
 ---
 
 In 1985, the Bradley Foundation underwent a dramatic transformation when Rockwell International Corporation acquired the Allen-Bradley Company, expanding the foundation's assets from $14 million to over $290 million - a more than 20-fold increase. This windfall enabled systematic, coordinated funding of conservative infrastructure on an unprecedented scale.

@@ -15,11 +15,10 @@ tags:
 - judicial-pipeline
 - constitutional-originalism
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - outlet: ProPublica
-  title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court
-    Supermajority'
+  title: 'We Don''t Talk About Leonard: The Man Behind the Right''s Supreme Court Supermajority'
   url: https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority
   key_facts_confirmed:
   - Leo was building conservative legal movement's 'pipeline' strategy

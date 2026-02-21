@@ -1,7 +1,7 @@
 ---
 id: 1917-12-10--hitchman-coal-supreme-court-upholds-yellow-dog-injunction
 date: '1917-12-10'
-title: "Hitchman Coal v. Mitchell: Supreme Court Authorizes Injunctions to Enforce Yellow-Dog Contracts"
+title: 'Hitchman Coal v. Mitchell: Supreme Court Authorizes Injunctions to Enforce Yellow-Dog Contracts'
 importance: 7
 actors:
 - Supreme Court of the United States
@@ -23,13 +23,13 @@ sources:
   url: https://www.oyez.org/cases/1900-1940/245us229
   outlet: Oyez
   tier: 1
-- title: "Labor Injunctions and the Courts"
+- title: Labor Injunctions and the Courts
   url: https://www.law.cornell.edu/wex/labor_law
   outlet: Cornell Law School
   tier: 1
 status: confirmed
 capture_lanes:
-- Legal Capture
+- Judicial Capture
 - Labor Suppression
 ---
 

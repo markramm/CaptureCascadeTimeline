@@ -44,6 +44,10 @@ sources:
   tier: 1
   outlet: CNN
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+- Media Capture & Control
 ---
 
 On October 23, 2025, Border Patrol Commander Gregory Bovino was caught on video personally throwing at least one tear gas canister into a crowd of protesters in Chicago's Little Village neighborhood, directly violating a federal court restraining order issued just two weeks earlier by U.S. District Judge Sara Ellis. The incident occurred during an immigration enforcement operation near the Discount Mall at 26th Street and Whipple Avenue on the city's Southwest Side.

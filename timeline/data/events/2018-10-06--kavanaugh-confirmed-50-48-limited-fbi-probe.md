@@ -38,6 +38,10 @@ sources:
   date: '2018-10-05'
   tier: 2
   outlet: CNN
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+- Executive Power Expansion
 ---
 
 On October 6, 2018, the Senate confirmed Brett Kavanaugh to the Supreme Court by a vote of 50-48, making him the first justice in modern history confirmed with credible sexual assault allegations pending and despite obvious temperament problems that raised serious questions about his fitness for the bench. Senator Susan Collins of Maine provided the decisive vote after delivering a 45-minute floor speech claiming the FBI's investigation had exonerated Kavanaugh—even though that investigation was severely limited to just one week, excluded interviews with Ford and Kavanaugh themselves, and involved a restricted witness list controlled by the White House. The confirmation created a 5-4 conservative majority that would expand to 6-3 with Amy Coney Barrett's appointment, enabling the Court to overturn Roe v. Wade, grant sweeping presidential immunity, and systematically dismantle progressive precedents.

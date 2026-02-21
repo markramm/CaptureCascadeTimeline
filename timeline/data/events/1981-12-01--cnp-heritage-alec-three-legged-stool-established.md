@@ -28,6 +28,10 @@ sources:
   date: '2019-10-29'
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Corporate Capture
 ---
 
 By the end of 1981, Paul Weyrich had established the three core institutions that would serve as the infrastructure for conservative movement coordination for the next four decades: Heritage Foundation (policy research), ALEC (state legislation), and CNP (coordination hub).

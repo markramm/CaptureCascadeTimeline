@@ -10,20 +10,18 @@ tags:
 - courts
 - watchdogs
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 citations:
 - https://federalnewsnetwork.com/litigation/2025/02/the-supreme-court-wont-allow-trump-to-immediately-fire-head-of-whistleblower-office
 - https://www.reuters.com/world/us/trump-administration-turns-us-supreme-court-bid-fire-agency-head-2025-02-17
 notes: ''
 status: confirmed
 sources:
-- title: The Supreme Court won't allow Trump to immediately fire head of whistleblower
-    office
+- title: The Supreme Court won't allow Trump to immediately fire head of whistleblower office
   url: https://federalnewsnetwork.com/litigation/2025/02/the-supreme-court-wont-allow-trump-to-immediately-fire-head-of-whistleblower-office/
   outlet: Federal News Network
   date: '2025-02-21'
-- title: Supreme Court rules that government watchdog fired by Trump may temporarily
-    remain on the job
+- title: Supreme Court rules that government watchdog fired by Trump may temporarily remain on the job
   url: https://www.cnn.com/2025/02/21/politics/supreme-court-trump-dellinger/index.html
   outlet: CNN
   date: '2025-02-21'

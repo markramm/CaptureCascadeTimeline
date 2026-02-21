@@ -4,8 +4,7 @@ actors:
 - Chief Justice John Roberts
 - National Marine Fisheries Service
 capture_lanes:
-- Judicial Capture & Corruption
-- Administrative Law Reform
+- Judicial Capture
 citations:
 - https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
 - https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf
@@ -13,8 +12,7 @@ date: '2024-06-28'
 id: 2024-06-28--scotus-loper-bright-overrules-chevron
 importance: 8
 location: Washington, DC
-notes: Landmark decision fundamentally reshaping administrative law by eliminating
-  Chevron deference
+notes: Landmark decision fundamentally reshaping administrative law by eliminating Chevron deference
 sources:
 - archive_url: https://web.archive.org/web/20240629000000*/https://www.scotusblog.com/case-files/cases/loper-bright-enterprises-v-raimondo/
   date: '2024-06-28'

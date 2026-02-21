@@ -43,10 +43,10 @@ sources:
   tier: 2
 notes: This was the most sweeping criminal case against Trump, charging him and 18 co-defendants under Georgia's RICO statute. The indictment included the infamous "find 11,780 votes" call to Brad Raffensperger and the fake electors scheme in Georgia.
 capture_lanes:
-- Judiciary Capture
-- Election Subversion
+- Judicial Capture
+- Electoral Manipulation
 - Executive Power Expansion
-- Accountability Evasion
+- Systematic Corruption
 ---
 
 Fulton County District Attorney Fani Willis announced a sweeping 98-page indictment charging former President Donald Trump and 18 co-defendants with violating Georgia's Racketeer Influenced and Corrupt Organizations (RICO) Act in a conspiracy to overturn the 2020 presidential election results in Georgia. The indictment represented the most comprehensive criminal case against Trump, charging him with 41 counts and detailing 161 criminal acts in what prosecutors described as a "criminal enterprise" to subvert democracy.

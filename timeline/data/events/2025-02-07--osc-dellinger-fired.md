@@ -18,7 +18,7 @@ tags:
 - hatch-act
 - inspector-general-purge
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 citations:
 - https://www.supremecourt.gov/DocketPDF/24/24A790/343020/20250218140003661_Dellinger%20-%20SCOTUS%20Opposition.pdf
 - https://www.scotusblog.com/2025/02/trump-asks-court-to-allow-firing-of-watchdog-agency-official

@@ -4,42 +4,42 @@ date: '2024-05-30'
 title: Trump Convicted on All 34 Felony Counts - First Former President Convicted of Crimes in U.S. History
 importance: 10
 actors:
-  - Donald Trump
-  - Juan Merchan
-  - Alvin Bragg
+- Donald Trump
+- Juan Merchan
+- Alvin Bragg
 tags:
-  - criminal-conviction
-  - guilty-verdict
-  - hush-money
-  - accountability
-  - historic
+- criminal-conviction
+- guilty-verdict
+- hush-money
+- accountability
+- historic
 status: confirmed
 sources:
-  - title: What was Trump convicted of? Details on the 34 counts and his guilty verdict
-    url: https://www.cbsnews.com/news/trump-charges-conviction-guilty-verdict/
-    outlet: CBS News
-    date: '2024-05-30'
-    tier: 2
-  - title: 'Here''s what all 34 felony counts in Trump''s hush money trial mean'
-    url: https://www.npr.org/2024/05/30/g-s1-1848/trump-hush-money-trial-34-counts
-    outlet: NPR
-    date: '2024-05-30'
-    tier: 1
-  - title: Trump found guilty in hush money trial
-    url: https://www.cnn.com/2024/05/30/politics/donald-trump-hush-money-trial-verdict/index.html
-    outlet: CNN
-    date: '2024-05-30'
-    tier: 2
-  - title: Jury finds Trump guilty on all 34 felony counts
-    url: https://www.voanews.com/a/jury-finds-trump-guilty-on-all-34-felony-counts/7634861.html
-    outlet: Voice of America
-    date: '2024-05-30'
-    tier: 1
-notes: 'This was the first criminal conviction of a former or sitting U.S. president in American history. The jury deliberated less than two days before reaching a unanimous guilty verdict on all 34 counts of falsifying business records in the first degree.'
+- title: What was Trump convicted of? Details on the 34 counts and his guilty verdict
+  url: https://www.cbsnews.com/news/trump-charges-conviction-guilty-verdict/
+  outlet: CBS News
+  date: '2024-05-30'
+  tier: 2
+- title: Here's what all 34 felony counts in Trump's hush money trial mean
+  url: https://www.npr.org/2024/05/30/g-s1-1848/trump-hush-money-trial-34-counts
+  outlet: NPR
+  date: '2024-05-30'
+  tier: 1
+- title: Trump found guilty in hush money trial
+  url: https://www.cnn.com/2024/05/30/politics/donald-trump-hush-money-trial-verdict/index.html
+  outlet: CNN
+  date: '2024-05-30'
+  tier: 2
+- title: Jury finds Trump guilty on all 34 felony counts
+  url: https://www.voanews.com/a/jury-finds-trump-guilty-on-all-34-felony-counts/7634861.html
+  outlet: Voice of America
+  date: '2024-05-30'
+  tier: 1
+notes: This was the first criminal conviction of a former or sitting U.S. president in American history. The jury deliberated less than two days before reaching a unanimous guilty verdict on all 34 counts of falsifying business records in the first degree.
 capture_lanes:
-  - Judiciary Capture
-  - Accountability Evasion
-  - Executive Power Expansion
+- Judicial Capture
+- Systematic Corruption
+- Executive Power Expansion
 ---
 
 A Manhattan jury found former President Donald Trump guilty on all 34 felony counts of falsifying business records, making him the first former or sitting U.S. president to be convicted of crimes in American history. The unanimous verdict, delivered after less than two days of deliberation, convicted Trump of systematically falsifying business records to conceal hush money payments that were designed to influence the 2016 presidential election. The historic conviction occurred as Trump was actively campaigning as the presumptive Republican nominee for president in 2024, creating an unprecedented situation of a major party's presidential candidate running as a convicted felon.

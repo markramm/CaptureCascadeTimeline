@@ -1,7 +1,7 @@
 ---
 id: 1883-10-15--civil-rights-cases-legitimize-segregation
 date: '1883-10-15'
-title: 'Civil Rights Cases Strike Down 1875 Act, Legitimizing Jim Crow'
+title: Civil Rights Cases Strike Down 1875 Act, Legitimizing Jim Crow
 importance: 10
 actors:
 - U.S. Supreme Court
@@ -16,11 +16,11 @@ sources:
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/civil-rights-act-declared-unconstitutional/
   year: 2024
-- title: 'The Civil Rights Cases (1883)'
+- title: The Civil Rights Cases (1883)
   outlet: Constitution Center
   url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/the-civil-rights-cases
   year: 2024
-- title: 'Civil Rights Cases'
+- title: Civil Rights Cases
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Civil_Rights_Cases
   year: 2024
@@ -31,9 +31,8 @@ tags:
 - institutional-racism
 - white-supremacy
 capture_lanes:
-- Supreme Court Sabotage
-- Civil Rights Destruction
-- Jim Crow Legitimization
+- Judicial Capture
+- Civil Rights Suppression
 status: confirmed
 ---
 

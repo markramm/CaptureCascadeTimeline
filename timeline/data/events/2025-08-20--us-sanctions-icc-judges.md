@@ -46,9 +46,8 @@ tags:
 - judicial-capture
 - accountability-obstruction
 capture_lanes:
-- Judicial Interference
-- International Legal Obstruction
-- Diplomatic Pressure Tactics
+- Judicial Capture
+- Democratic Erosion
 validation_status: pending
 ---
 

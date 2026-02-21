@@ -28,7 +28,7 @@ tags:
 - institutional-resistance
 capture_lanes:
 - Systematic Corruption
-- Legal Infrastructure
+- Judicial Capture
 status: confirmed
 ---
 

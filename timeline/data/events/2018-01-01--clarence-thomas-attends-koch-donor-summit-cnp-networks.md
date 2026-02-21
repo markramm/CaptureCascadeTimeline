@@ -26,6 +26,10 @@ sources:
   date: '2023-09-22'
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Systematic Corruption
+- Intelligence Penetration
 ---
 
 In January 2018, Supreme Court Justice Clarence Thomas flew on a private jet to Palm Springs, California to speak at the annual winter donor summit of the Koch network, attending a private dinner for donors in what ProPublica later revealed was an extraordinary ethics violation.

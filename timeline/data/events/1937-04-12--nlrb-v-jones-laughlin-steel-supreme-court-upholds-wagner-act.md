@@ -37,8 +37,8 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- judicial
-- regulatory
+- Judicial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

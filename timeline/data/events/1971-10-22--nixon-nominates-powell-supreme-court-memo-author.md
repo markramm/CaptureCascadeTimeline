@@ -18,8 +18,8 @@ tags:
 - nixon-administration
 - judicial-system
 capture_lanes:
-- Judicial Capture & Corruption
-- Corporate Power Expansion
+- Judicial Capture
+- Corporate Capture
 sources:
 - title: 'The Scheme 2: Powell on the Court'
   url: https://www.whitehouse.senate.gov/news/speeches/the-scheme-2-powell-on-the-court/

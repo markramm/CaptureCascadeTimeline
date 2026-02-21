@@ -22,7 +22,7 @@ tags:
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
-- Justice System Transformation
+- Judicial Capture
 sources:
 - outlet: Rolling Stone
   title: Pam Bondi Disbands Anti-Corruption Task Forces
@@ -33,8 +33,7 @@ sources:
   url: https://thehill.com/policy/national-security/5132604-pam-bondi-doj-russia-oligarch-task-force/
   date: '2025-02-05'
 - outlet: Transparency International
-  title: Attorney General Memorandum Raises Questions Around Enforcement of Transnational
-    Anti-Corruption Laws
+  title: Attorney General Memorandum Raises Questions Around Enforcement of Transnational Anti-Corruption Laws
   url: https://us.transparency.org/news/attorney-general-memorandum-raises-questions-around-enforcement-of-transnational-anti-corruption-laws/
   date: '2025-02-06'
 - outlet: AML Intelligence

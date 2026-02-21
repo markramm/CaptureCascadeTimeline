@@ -23,9 +23,9 @@ tags:
 - judicial-manipulation
 - executive-overreach
 capture_lanes:
-- Judicial Manipulation
-- Executive Power & Emergency Authority
-- Immigration & Border Militarization
+- Judicial Capture
+- Executive Power Expansion
+- Military-Industrial Complex
 sources:
 - title: Supreme Court agrees to hear arguments in birthright citizenship challenge
   url: https://www.npr.org/2025/12/05/nx-s1-5619186/supreme-court-agrees-to-hear-arguments-in-birthright-citizenship-case

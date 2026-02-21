@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: ABC 7 Chicago
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Military-Industrial Complex
+- Surveillance Infrastructure
 ---
 
 New York's Adult Survivors Act (ASA), signed into law by Governor Kathy Hochul in May 2022, opened a one-year window beginning November 24, 2022, allowing victims of sexual assault to file civil lawsuits regardless of when the abuse occurred, effectively suspending statutes of limitations that would otherwise bar such claims. The legislation, sponsored by State Senator Brad Hoylman and Assemblymember Linda Rosenthal, passed the New York State Senate unanimously in April 2022 and cleared the Assembly with a 140-3 vote in May 2022 before Governor Hochul signed it into law. The ASA was modeled after New York's Child Victims Act, which had created a similar lookback window for childhood sexual abuse survivors and resulted in thousands of lawsuits against institutions like the Catholic Church, the Boy Scouts, and public schools. The Adult Survivors Act extended this principle to adult victims, recognizing that trauma, shame, fear of retaliation, and power imbalances often prevent survivors from coming forward within traditional statute of limitations periods, which in New York required civil sexual assault claims to be filed within three years of the incident.

@@ -29,8 +29,8 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- judicial
-- labor
+- Judicial Capture
+- Labor Suppression
 status: confirmed
 ---
 

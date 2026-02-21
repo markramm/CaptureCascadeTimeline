@@ -26,6 +26,10 @@ sources:
   date: '2024-11-10'
   tier: 2
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Systematic Corruption
 ---
 
 By 1990, the Council for National Policy's membership roster had expanded to include prominent Reagan administration officials, with former Attorney General Edwin Meese and Colonel Oliver North representing the integration of government power into CNP's coordination network.

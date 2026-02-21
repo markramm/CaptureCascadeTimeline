@@ -31,6 +31,10 @@ sources:
   date: 1992-06-16
   tier: 2
   outlet: UPI
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Systematic Corruption
 ---
 
 Former Defense Secretary Caspar Weinberger is indicted by a federal grand jury on five felony counts of lying to Congress and investigators about the Iran-Contra scandal, marking the highest-ranking Reagan administration official charged in the affair. Independent counsel Lawrence Walsh brings the indictment one day before the statute of limitations expires on two counts, charging Weinberger with perjury and concealing more than 1,700 pages of notes from a personal diary documenting discussions with other officials about arms sales to Iran.

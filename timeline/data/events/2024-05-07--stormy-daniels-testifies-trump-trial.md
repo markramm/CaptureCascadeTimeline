@@ -4,41 +4,41 @@ date: '2024-05-07'
 title: Stormy Daniels Testifies in Graphic Detail About Sexual Encounter, Trump Visibly Angry
 importance: 9
 actors:
-  - Stormy Daniels
-  - Donald Trump
-  - Juan Merchan
+- Stormy Daniels
+- Donald Trump
+- Juan Merchan
 tags:
-  - criminal-trial
-  - testimony
-  - hush-money
-  - accountability
+- criminal-trial
+- testimony
+- hush-money
+- accountability
 status: confirmed
 sources:
-  - title: 'Trump N.Y. criminal case: Stormy Daniels testifies in hush money trial'
-    url: https://www.axios.com/2024/05/07/stormy-daniels-testify-trump-trial-new-york
-    outlet: Axios
-    date: '2024-05-07'
-    tier: 2
-  - title: Stormy Daniels testifies in graphic detail at Trump hush money trial
-    url: https://www.ajc.com/news/nation-world/stormy-daniels-testifies-in-graphic-detail-at-trump-hush-money-trial/W5O5EBUGPZBZDFVREHSP5XRX2Y/
-    outlet: The Atlanta Journal-Constitution
-    date: '2024-05-07'
-    tier: 2
-  - title: 'Silk pajamas, spanking and questions about STDs: Stormy Daniels details sexual encounter with Trump'
-    url: https://www.nbcnews.com/politics/donald-trump/trump-trial-resumes-prosecutors-indicate-hush-money-testimony-halfway-rcna150950
-    outlet: NBC News
-    date: '2024-05-07'
-    tier: 2
-  - title: 6 takeaways from Stormy Daniels' testimony on what happened between her and Trump
-    url: https://www.pbs.org/newshour/amp/politics/6-takeaways-from-stormy-daniels-testimony-on-what-happened-between-her-and-trump
-    outlet: PBS
-    date: '2024-05-07'
-    tier: 1
-notes: 'Daniels provided graphic, detailed testimony about a 2006 sexual encounter with Trump that established the motive for the $130,000 hush money payment. Trump''s defense moved for mistrial due to the explicit nature of testimony, but Judge Merchan denied the motion.'
+- title: 'Trump N.Y. criminal case: Stormy Daniels testifies in hush money trial'
+  url: https://www.axios.com/2024/05/07/stormy-daniels-testify-trump-trial-new-york
+  outlet: Axios
+  date: '2024-05-07'
+  tier: 2
+- title: Stormy Daniels testifies in graphic detail at Trump hush money trial
+  url: https://www.ajc.com/news/nation-world/stormy-daniels-testifies-in-graphic-detail-at-trump-hush-money-trial/W5O5EBUGPZBZDFVREHSP5XRX2Y/
+  outlet: The Atlanta Journal-Constitution
+  date: '2024-05-07'
+  tier: 2
+- title: 'Silk pajamas, spanking and questions about STDs: Stormy Daniels details sexual encounter with Trump'
+  url: https://www.nbcnews.com/politics/donald-trump/trump-trial-resumes-prosecutors-indicate-hush-money-testimony-halfway-rcna150950
+  outlet: NBC News
+  date: '2024-05-07'
+  tier: 2
+- title: 6 takeaways from Stormy Daniels' testimony on what happened between her and Trump
+  url: https://www.pbs.org/newshour/amp/politics/6-takeaways-from-stormy-daniels-testimony-on-what-happened-between-her-and-trump
+  outlet: PBS
+  date: '2024-05-07'
+  tier: 1
+notes: Daniels provided graphic, detailed testimony about a 2006 sexual encounter with Trump that established the motive for the $130,000 hush money payment. Trump's defense moved for mistrial due to the explicit nature of testimony, but Judge Merchan denied the motion.
 capture_lanes:
-  - Judiciary Capture
-  - Accountability Evasion
-  - Media Manipulation
+- Judicial Capture
+- Systematic Corruption
+- Media Capture & Control
 ---
 
 Adult film actress Stormy Daniels took the witness stand in Donald Trump's criminal trial and delivered graphic, detailed testimony about a 2006 sexual encounter with Trump that she said led to the $130,000 hush money payment at the center of the case. Her testimony offered jurors a vivid account of the events that Trump allegedly paid to conceal from voters, while Trump sat at the defense table visibly angry, shaking his head and conferring heatedly with his lawyers.

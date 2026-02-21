@@ -51,8 +51,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- judicial-enablement
-- executive-power-expansion
+- Judicial Capture
+- Executive Power Expansion
 ---
 
 

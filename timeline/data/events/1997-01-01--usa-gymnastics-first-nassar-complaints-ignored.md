@@ -32,6 +32,10 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   tier: 2
+capture_lanes:
+- Judicial Capture
+- Systematic Corruption
+- Digital & Tech Capture
 ---
 
 In 1997, Michigan State University gymnastics coach Kathie Klages was reportedly aware of the first known allegations against team doctor Larry Nassar when MSU gymnasts told her that Nassar was molesting them during treatment sessions. According to court documents, Klages dismissed the complaints and pressured gymnasts to stay silent about the abuse. This marked the beginning of a pattern of institutional cover-up that would enable Nassar to sexually abuse hundreds of young athletes over the next two decades without accountability.

@@ -40,6 +40,9 @@ sources:
   date: '2025-12-09'
   tier: 2
   outlet: Daily Press
+capture_lanes:
+- Judicial Capture
+- Environmental Capture
 ---
 
 Department of Justice leaders Attorney General Pam Bondi and Deputy Attorney General Todd Blanche launched an unprecedented public attack on federal judges who ruled that Lindsey Halligan was unlawfully appointed as U.S. Attorney for the Eastern District of Virginia. By December 10, three separate federal judges had ruled against or questioned Halligan's authority: Judge Cameron McGowan Currie dismissed criminal cases on November 24 finding Halligan's appointment violated federal law, Judge Colleen Kollar-Kotelly blocked DOJ from using evidence on December 7, and Judge Leonie Brinkema suggested Halligan resign on December 9 after DOJ called her colleagues "rogue" jurists. Rather than comply with judicial rulings or appeal through proper channels, DOJ doubled down—issuing a statement accusing judges of an "unconscionable campaign of bias and hostility" and warning of "no tolerance for undemocratic judicial activism."

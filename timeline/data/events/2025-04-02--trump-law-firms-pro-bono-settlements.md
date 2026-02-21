@@ -10,20 +10,18 @@ location: Washington, D.C.
 importance: 7
 capture_lanes:
 - Executive Power Expansion
-- Legal System Manipulation
+- Judicial Capture
 tags:
 - government-contracts
 - executive-orders
 - legal-system
 sources:
 - outlet: NPR
-  title: Trump's deals with law firms are like deals 'made with a gun to the head,'
-    lawyers say
+  title: Trump's deals with law firms are like deals 'made with a gun to the head,' lawyers say
   url: https://www.npr.org/2025/05/31/nx-s1-5406173/trump-deals-law-firms
   date: '2025-05-31'
 - outlet: Just Security
-  title: How Trump's Law Firm Settlements Circumvent Congress and Violate Federal
-    Spending Laws
+  title: How Trump's Law Firm Settlements Circumvent Congress and Violate Federal Spending Laws
   url: https://www.justsecurity.org/112943/trumps-law-firm-settlements-congress-federal-laws/
   date: '2025-04-15'
 - outlet: First Amendment Encyclopedia

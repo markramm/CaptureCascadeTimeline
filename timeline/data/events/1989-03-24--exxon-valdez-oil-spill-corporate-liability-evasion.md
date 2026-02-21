@@ -5,38 +5,38 @@ title: Exxon Valdez Oil Spill Triggers Corporate Campaign to Limit Pollution Lia
 importance: 8
 location: Prince William Sound, Alaska
 actors:
-  - Exxon Corporation
-  - American Petroleum Institute
-  - U.S. Supreme Court
-  - Alaska Native communities
-  - Commercial fishing industry
+- Exxon Corporation
+- American Petroleum Institute
+- U.S. Supreme Court
+- Alaska Native communities
+- Commercial fishing industry
 tags:
-  - environmental
-  - pollution
-  - corporate-lobbying
-  - oil-industry
-  - litigation
-  - regulatory-capture
+- environmental
+- pollution
+- corporate-lobbying
+- oil-industry
+- litigation
+- regulatory-capture
 capture_lanes:
-  - Legal Capture
-  - Corporate Disinformation
+- Judicial Capture
+- Media Capture & Control
 sources:
-  - title: "The Exxon Valdez Oil Spill"
-    url: "https://www.noaa.gov/education/resource-collections/ocean-coasts/exxon-valdez-oil-spill"
-    outlet: "NOAA"
-    verified: true
-    tier: 1
-  - title: "Exxon Valdez Punitive Damages Reduced"
-    url: "https://www.nytimes.com/2008/06/26/washington/26punitive.html"
-    outlet: "New York Times"
-    date: 2008-06-26
-    verified: true
-    tier: 1
-  - title: "20 Years After the Exxon Valdez"
-    url: "https://www.smithsonianmag.com/science-nature/the-exxon-valdez-oil-spill-is-still-having-an-impact-20-years-later-180973007/"
-    outlet: "Smithsonian Magazine"
-    verified: true
-    tier: 1
+- title: The Exxon Valdez Oil Spill
+  url: https://www.noaa.gov/education/resource-collections/ocean-coasts/exxon-valdez-oil-spill
+  outlet: NOAA
+  verified: true
+  tier: 1
+- title: Exxon Valdez Punitive Damages Reduced
+  url: https://www.nytimes.com/2008/06/26/washington/26punitive.html
+  outlet: New York Times
+  date: 2008-06-26
+  verified: true
+  tier: 1
+- title: 20 Years After the Exxon Valdez
+  url: https://www.smithsonianmag.com/science-nature/the-exxon-valdez-oil-spill-is-still-having-an-impact-20-years-later-180973007/
+  outlet: Smithsonian Magazine
+  verified: true
+  tier: 1
 status: confirmed
 ---
 

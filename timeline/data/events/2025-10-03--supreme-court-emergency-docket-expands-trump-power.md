@@ -18,6 +18,10 @@ tags:
 - judicial-capture
 - executive-overreach
 - constitutional-crisis
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+- Executive Power Expansion
 ---
 
 The Supreme Court ruled on 23 Trump administration policies via its emergency 'shadow docket' since Trump's return to office, backing the administration in 21 cases without full arguments or normal deliberative processes. The Court allowed mass federal purges, foreign aid cuts, racial profiling programs, and mass deportations to proceed before legal review by lower courts. This systematic use of emergency procedures to reshape presidential authority represents institutional capture of the judiciary, weakening Congressional and lower court oversight while consolidating executive power. The pattern demonstrates how the conservative Supreme Court majority has abandoned traditional judicial restraint to accelerate authoritarian policy implementation.

@@ -37,6 +37,10 @@ sources:
   url: https://www.cnn.com/2025/12/08/politics/kristi-noem-deportation-flights-contempt
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 # Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order

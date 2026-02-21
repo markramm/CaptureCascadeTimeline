@@ -48,6 +48,9 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   tier: 2
+capture_lanes:
+- Judicial Capture
+- Media Capture & Control
 ---
 
 On January 24, 2018, Judge Rosemarie Aquilina of Ingham County sentenced Larry Nassar to a minimum of 40 to a maximum of 175 years in prison for sexual assault of minors after a remarkable seven-day sentencing hearing where more than 156 women and girls confronted their abuser in court. 'I just signed your death warrant,' Judge Aquilina told Nassar, ensuring he would spend the rest of his life in prison. The sentencing followed Nassar's December 7, 2017 federal sentence of 60 years for child pornography possession, and would be followed by an additional 40-125 years on February 5, 2018, for sexual assault in Eaton County, Michigan—creating consecutive sentences that guaranteed life imprisonment without parole.

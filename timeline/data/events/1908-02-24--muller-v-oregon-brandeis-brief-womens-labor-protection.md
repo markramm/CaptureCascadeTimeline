@@ -1,7 +1,7 @@
 ---
 id: 1908-02-24--muller-v-oregon-brandeis-brief-womens-labor-protection
 date: '1908-02-24'
-title: "Muller v. Oregon: Brandeis Brief Upholds Women's Labor Protections Using Paternalistic Reasoning"
+title: 'Muller v. Oregon: Brandeis Brief Upholds Women''s Labor Protections Using Paternalistic Reasoning'
 importance: 7
 actors:
 - Supreme Court of the United States
@@ -24,13 +24,13 @@ sources:
   url: https://www.oyez.org/cases/1900-1940/208us412
   outlet: Oyez
   tier: 1
-- title: "The Brandeis Brief"
+- title: The Brandeis Brief
   url: https://www.law.cornell.edu/constitution-conan/amendment-14/section-1/the-brandeis-brief
   outlet: Cornell Law School
   tier: 1
 status: confirmed
 capture_lanes:
-- Legal Capture
+- Judicial Capture
 ---
 
 The Supreme Court unanimously upheld an Oregon law limiting women's workdays to ten hours in Muller v. Oregon, creating a narrow exception to the anti-labor Lochner doctrine. Attorney Louis Brandeis filed a revolutionary 113-page brief containing only two pages of legal argument and over 100 pages of sociological data, medical evidence, and expert testimony on the harmful effects of long working hours on women's health. This "Brandeis Brief" technique introduced social science evidence into constitutional adjudication.

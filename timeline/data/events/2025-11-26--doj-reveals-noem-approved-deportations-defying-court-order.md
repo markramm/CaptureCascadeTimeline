@@ -65,9 +65,9 @@ patterns:
 - accountability-evasion
 notes: This marks the first time the Trump administration identified who made the decision to defy a federal court order, coming 255 days after the March 15 incident. Judge Boasberg has set a December 5 deadline for declarations from all officials involved. The case represents a critical test of whether Cabinet-level officials can face criminal prosecution for willfully defying court orders. Human Rights Watch documented that Venezuelan deportees sent to CECOT faced systematic torture, sexual abuse, and indefinite solitary confinement in completely dark cells with no mattresses.
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Executive Power Expansion
-- Human Rights Violations
+- Civil Rights Suppression
 ---
 
 On November 26, 2025, the Department of Justice disclosed in a court filing that Homeland Security Secretary Kristi Noem made the final decision to proceed with deportation flights to El Salvador despite U.S. District Judge James Boasberg's explicit order on March 15 to turn the planes around. This revelation came after the Trump administration refused for 255 days to identify who authorized defying the federal court order.

@@ -5,40 +5,40 @@ title: Dennis v. United States Supreme Court Upholds Smith Act Convictions, Crim
 importance: 8
 location: Washington, D.C.
 actors:
-  - Fred Vinson
-  - U.S. Supreme Court
-  - Eugene Dennis
-  - Communist Party USA
-  - Department of Justice
+- Fred Vinson
+- U.S. Supreme Court
+- Eugene Dennis
+- Communist Party USA
+- Department of Justice
 tags:
-  - mccarthyism
-  - civil-liberties
-  - judicial
-  - first-amendment
-  - red-scare
-  - political-persecution
+- mccarthyism
+- civil-liberties
+- judicial
+- first-amendment
+- red-scare
+- political-persecution
 capture_lanes:
-  - Judicial Capture
-  - Structural Repression
+- Judicial Capture
+- Civil Rights Suppression
 sources:
-  - title: "Dennis v. United States"
-    url: "https://supreme.justia.com/cases/federal/us/341/494/"
-    outlet: "Justia"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Dennis v. United States (1951)"
-    url: "https://www.oyez.org/cases/1940-1955/341us494"
-    outlet: "Oyez"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Dennis v. United States and the First Amendment"
-    url: "https://firstamendment.mtsu.edu/article/dennis-v-united-states/"
-    outlet: "First Amendment Encyclopedia"
-    date: 2024-01-01
-    verified: true
-    tier: 2
+- title: Dennis v. United States
+  url: https://supreme.justia.com/cases/federal/us/341/494/
+  outlet: Justia
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Dennis v. United States (1951)
+  url: https://www.oyez.org/cases/1940-1955/341us494
+  outlet: Oyez
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Dennis v. United States and the First Amendment
+  url: https://firstamendment.mtsu.edu/article/dennis-v-united-states/
+  outlet: First Amendment Encyclopedia
+  date: 2024-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

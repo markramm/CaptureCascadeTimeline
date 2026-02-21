@@ -32,6 +32,9 @@ sources:
   date: '2025-10-20'
   tier: 1
   outlet: SCOTUSblog
+capture_lanes:
+- Judicial Capture
+- Environmental Capture
 ---
 
 Federal judges across multiple courts ruled that President Trump's use of the International Emergency Economic Powers Act (IEEPA) to impose unilateral tariffs was illegal and exceeded presidential authority. On May 29, 2025, U.S. District Judge Rudolph Contreras granted a preliminary injunction in Learning Resources v. Trump, ruling that IEEPA does not authorize the president to unilaterally impose tariffs. On May 28, a three-judge panel at the U.S. Court of International Trade unanimously ruled the IEEPA tariffs were illegal, permanently enjoining the government from enforcing them. The Court of International Trade emphasized that no president had used IEEPA to impose tariffs in the statute's 48-year history from 1977-2025, noting the complete absence of historical precedent for this executive action. Courts found Trump's claim that routine trade deficits constituted a 'national emergency' was a pretextual misuse of emergency powers designed for genuine crises like wars, terrorism, or catastrophic events. The rulings held that tariff authority belongs to Congress under Article I, Section 8 of the Constitution, and that IEEPA's narrow emergency provisions cannot override this fundamental separation of powers. Despite the rulings, the tariffs remained in effect during appeals, continuing to impose economic costs on American businesses and consumers. The cases were consolidated and accepted for Supreme Court review, with oral arguments scheduled for November 5, 2025. The judicial rebuke represented a rare check on Trump's aggressive expansion of executive power, though the practical effect was limited by the slow appellate process that allowed illegal tariffs to remain operational.

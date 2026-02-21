@@ -87,4 +87,6 @@ sources:
   date: 2022-12-21
   tier: 2
   outlet: Political Junkie (Substack)
+capture_lanes:
+- Judicial Capture
 ---

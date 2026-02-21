@@ -2,8 +2,7 @@
 id: 1971-10-21--powell-supreme-court-nomination
 date: '1971-10-21'
 importance: 6
-title: Nixon nominates Lewis Powell to Supreme Court two months after corporate blueprint
-  memo
+title: Nixon nominates Lewis Powell to Supreme Court two months after corporate blueprint memo
 location: Washington, DC
 actors:
 - Richard Nixon
@@ -16,10 +15,9 @@ tags:
 - powell-memo-implementation
 - corporate-judicial-strategy
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
-- title: Address to the Nation Announcing Intention To Nominate Lewis F. Powell, Jr.,
-    and William H. Rehnquist
+- title: Address to the Nation Announcing Intention To Nominate Lewis F. Powell, Jr., and William H. Rehnquist
   url: https://www.presidency.ucsb.edu/documents/address-the-nation-announcing-intention-nominate-lewis-f-powell-jr-and-william-h-rehnquist
   outlet: The American Presidency Project
   date: '1971-10-21'
@@ -39,13 +37,7 @@ sources:
   outlet: U.S. Senate
   date: '2024-01-01'
   verified: true
-notes: Only Senator Fred R. Harris (D-OK) voted against confirmation, calling Powell
-  an "elitist" who lacked compassion for "little people." Powell took oath of office
-  January 7, 1972, with $60,000 salary. Nomination came just 59 days after Powell's
-  August 23, 1971 memo advising Chamber of Commerce that "political power is necessary"
-  and courts are "most important instrument for social, economic and political change."
-  Powell's corporate law background at Hunton & Williams included representing Tobacco
-  Institute.
+notes: Only Senator Fred R. Harris (D-OK) voted against confirmation, calling Powell an "elitist" who lacked compassion for "little people." Powell took oath of office January 7, 1972, with $60,000 salary. Nomination came just 59 days after Powell's August 23, 1971 memo advising Chamber of Commerce that "political power is necessary" and courts are "most important instrument for social, economic and political change." Powell's corporate law background at Hunton & Williams included representing Tobacco Institute.
 status: confirmed
 ---
 

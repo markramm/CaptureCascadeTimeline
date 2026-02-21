@@ -1,26 +1,26 @@
 ---
 id: 1876-03-27--cruikshank-supreme-court-guts-enforcement-acts
 date: '1876-03-27'
-title: 'United States v. Cruikshank Guts Federal Civil Rights Enforcement'
+title: United States v. Cruikshank Guts Federal Civil Rights Enforcement
 importance: 10
 actors:
 - U.S. Supreme Court
 - Joseph P. Bradley
 - Colfax Massacre Perpetrators
 sources:
-- title: 'United States v. Cruikshank'
+- title: United States v. Cruikshank
   outlet: History of the Supreme Court
   url: https://civics.supremecourthistory.org/article/united-states-v-cruikshank/
   year: 2024
-- title: 'U.S. v. Cruikshank'
+- title: U.S. v. Cruikshank
   outlet: Federal Judicial Center
   url: https://www.fjc.gov/history/timeline/us-v-cruikshank
   year: 2024
-- title: 'United States v. Cruikshank'
+- title: United States v. Cruikshank
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/United_States_v._Cruikshank
   year: 2024
-- title: 'United States v. Cruikshank (1876)'
+- title: United States v. Cruikshank (1876)
   outlet: First Amendment Encyclopedia
   url: https://firstamendment.mtsu.edu/article/united-states-v-cruikshank/
   year: 2024
@@ -31,9 +31,7 @@ tags:
 - white-supremacy
 - institutional-capture
 capture_lanes:
-- Judicial Sabotage of Civil Rights
-- Supreme Court Capture
-- Federal Enforcement Destruction
+- Judicial Capture
 status: confirmed
 ---
 

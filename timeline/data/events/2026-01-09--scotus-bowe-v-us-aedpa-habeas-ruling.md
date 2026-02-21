@@ -30,6 +30,9 @@ sources:
   outlet: Constitutional Law Reporter
   date: '2026-02-05'
   tier: 2
+capture_lanes:
+- Judicial Capture
+- Digital & Tech Capture
 ---
 
 The Supreme Court ruled 5-4 in Bowe v. United States that the Antiterrorism and Effective Death Penalty Act's (AEDPA) bar on successive habeas claims does not apply to federal prisoners filing Section 2255 motions. Justice Sotomayor wrote for a majority including Chief Justice Roberts and Justices Kagan, Kavanaugh, and Jackson, holding that Section 2244(b)(1)'s "old-claim bar" applies only to state prisoners by its plain terms.

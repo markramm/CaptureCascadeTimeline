@@ -16,7 +16,7 @@ tags:
 - cpsc
 - judicial-deference
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 citations:
 - 'U.S. Supreme Court — Trump v. Boyle (order, Jul 23, 2025) (PDF): https://www.supremecourt.gov/opinions/24pdf/25a11_2cp3.pdf'
 - 'SCOTUSblog — Trump v. Boyle case page (Jul 23, 2025): https://www.scotusblog.com/cases/case-files/trump-v-boyle/'

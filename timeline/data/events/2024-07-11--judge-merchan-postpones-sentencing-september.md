@@ -4,41 +4,41 @@ date: '2024-07-11'
 title: Judge Merchan Postpones Trump Sentencing to September After Supreme Court Immunity Ruling
 importance: 8
 actors:
-  - Juan Merchan
-  - Donald Trump
-  - Alvin Bragg
+- Juan Merchan
+- Donald Trump
+- Alvin Bragg
 tags:
-  - sentencing
-  - presidential-immunity
-  - supreme-court
-  - accountability-delay
+- sentencing
+- presidential-immunity
+- supreme-court
+- accountability-delay
 status: confirmed
 sources:
-  - title: Trump sentencing delayed as judge in "hush money" case weighs Supreme Court immunity ruling
-    url: https://www.cbsnews.com/news/trump-sentencing-delayed-hush-money-case-supreme-court-immunity/
-    outlet: CBS News
-    date: '2024-07-11'
-    tier: 2
-  - title: Judge in Trump's hush money trial delays sentencing following Supreme Court immunity ruling
-    url: https://www.nbcnews.com/politics/donald-trump/judge-trumps-hush-money-trial-delays-sentencing-supreme-court-immunity-rcna160028
-    outlet: NBC News
-    date: '2024-07-11'
-    tier: 2
-  - title: Judge delays Trump's sentencing until after the election
-    url: https://www.cnn.com/2024/09/06/politics/judge-delays-trumps-sentencing/index.html
-    outlet: CNN
-    date: '2024-09-06'
-    tier: 2
-  - title: Judge Merchan delays sentencing in Trump's hush money case until after election
-    url: https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-sentence-date-delay-judge-merchan-ruling-rcna167215
-    outlet: MSNBC
-    date: '2024-09-06'
-    tier: 2
-notes: 'Trump''s sentencing was originally scheduled for July 11, 2024, but was postponed after the Supreme Court''s July 1 immunity ruling. Judge Merchan delayed sentencing to September 18 to allow time to brief immunity issues, then later postponed again until after the November election.'
+- title: Trump sentencing delayed as judge in "hush money" case weighs Supreme Court immunity ruling
+  url: https://www.cbsnews.com/news/trump-sentencing-delayed-hush-money-case-supreme-court-immunity/
+  outlet: CBS News
+  date: '2024-07-11'
+  tier: 2
+- title: Judge in Trump's hush money trial delays sentencing following Supreme Court immunity ruling
+  url: https://www.nbcnews.com/politics/donald-trump/judge-trumps-hush-money-trial-delays-sentencing-supreme-court-immunity-rcna160028
+  outlet: NBC News
+  date: '2024-07-11'
+  tier: 2
+- title: Judge delays Trump's sentencing until after the election
+  url: https://www.cnn.com/2024/09/06/politics/judge-delays-trumps-sentencing/index.html
+  outlet: CNN
+  date: '2024-09-06'
+  tier: 2
+- title: Judge Merchan delays sentencing in Trump's hush money case until after election
+  url: https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-sentence-date-delay-judge-merchan-ruling-rcna167215
+  outlet: MSNBC
+  date: '2024-09-06'
+  tier: 2
+notes: Trump's sentencing was originally scheduled for July 11, 2024, but was postponed after the Supreme Court's July 1 immunity ruling. Judge Merchan delayed sentencing to September 18 to allow time to brief immunity issues, then later postponed again until after the November election.
 capture_lanes:
-  - Judiciary Capture
-  - Executive Power Expansion
-  - Accountability Evasion
+- Judicial Capture
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 Judge Juan Merchan postponed Donald Trump's sentencing from July 11 to September 18, 2024, to allow time to consider how the Supreme Court's recent presidential immunity ruling might affect the case. The delay represented the first of what would become multiple postponements that ultimately prevented Trump from being sentenced before the 2024 presidential election, demonstrating how legal delays can effectively nullify criminal convictions when defendants possess sufficient resources and political power.

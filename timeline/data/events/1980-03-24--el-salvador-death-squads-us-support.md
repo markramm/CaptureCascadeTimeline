@@ -30,6 +30,10 @@ sources:
   date: 2024-01-01
   tier: 1
   outlet: Center for Justice and Accountability
+capture_lanes:
+- Judicial Capture
+- Military-Industrial Complex
+- International Kleptocracy
 ---
 
 Archbishop Oscar Romero is assassinated on March 24, 1980, while celebrating Mass in San Salvador, marking a symbolic beginning of U.S. support for El Salvador's death squad government during a brutal 12-year civil war. A single gunman fires directly into Romero's heart from the chapel doorway, acting under orders from Major Roberto D'Aubuisson, a graduate of the U.S. Army's School of the Americas and notorious founder of El Salvador's death squads. A 1993 UN investigation confirms D'Aubuisson ordered the assassination.

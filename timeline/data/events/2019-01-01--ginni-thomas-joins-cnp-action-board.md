@@ -27,6 +27,10 @@ sources:
   date: '2021-01-15'
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Systematic Corruption
+- Electoral Manipulation
 ---
 
 Virginia "Ginni" Thomas, wife of Supreme Court Justice Clarence Thomas, joined the nine-member board of directors of CNP Action in 2019, placing the spouse of a sitting Supreme Court justice at the heart of the conservative movement's primary coordination network.

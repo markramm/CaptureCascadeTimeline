@@ -5,43 +5,43 @@ title: Julius and Ethel Rosenberg Executed at Sing Sing, Cold War's Most Controv
 importance: 8
 location: Ossining, NY
 actors:
-  - Julius Rosenberg
-  - Ethel Rosenberg
-  - Roy Cohn
-  - Irving Saypol
-  - Irving Kaufman
-  - J. Edgar Hoover
-  - FBI
-  - Dwight D. Eisenhower
+- Julius Rosenberg
+- Ethel Rosenberg
+- Roy Cohn
+- Irving Saypol
+- Irving Kaufman
+- J. Edgar Hoover
+- FBI
+- Dwight D. Eisenhower
 tags:
-  - mccarthyism
-  - red-scare
-  - capital-punishment
-  - civil-liberties
-  - political-persecution
-  - cold-war
+- mccarthyism
+- red-scare
+- capital-punishment
+- civil-liberties
+- political-persecution
+- cold-war
 capture_lanes:
-  - Judicial Capture
-  - Structural Repression
+- Judicial Capture
+- Civil Rights Suppression
 sources:
-  - title: "The Rosenberg Trial"
-    url: "https://www.archives.gov/education/lessons/rosenbergs"
-    outlet: "National Archives"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Rosenberg File: A Search for the Truth"
-    url: "https://www.jstor.org/stable/1885949"
-    outlet: "JSTOR"
-    date: 1983-01-01
-    verified: true
-    tier: 2
-  - title: "Rosenberg Case"
-    url: "https://www.britannica.com/event/Rosenberg-case"
-    outlet: "Britannica"
-    date: 2024-01-01
-    verified: true
-    tier: 2
+- title: The Rosenberg Trial
+  url: https://www.archives.gov/education/lessons/rosenbergs
+  outlet: National Archives
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: 'The Rosenberg File: A Search for the Truth'
+  url: https://www.jstor.org/stable/1885949
+  outlet: JSTOR
+  date: 1983-01-01
+  verified: true
+  tier: 2
+- title: Rosenberg Case
+  url: https://www.britannica.com/event/Rosenberg-case
+  outlet: Britannica
+  date: 2024-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

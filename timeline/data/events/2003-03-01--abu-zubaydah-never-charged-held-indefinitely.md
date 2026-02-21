@@ -39,6 +39,10 @@ sources:
   date: '2016-08-24'
   tier: 1
   outlet: Human Rights First
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Digital & Tech Capture
 ---
 
 Abu Zubaydah remains held in U.S. custody more than two decades after his capture in Pakistan in March 2002, despite never being charged with any crime. Zubaydah was the CIA's first "high-value detainee" and the primary test subject for the torture program, waterboarded 83 times and subjected to the full range of enhanced interrogation techniques including stress positions, sleep deprivation exceeding 180 hours, confinement in coffin-sized boxes, and beatings. The torture was so severe he lost an eye and suffered permanent brain damage. Yet after 4.5 years in CIA black sites and more than 15 years at Guantanamo Bay, the U.S. has never brought charges, effectively holding him in indefinite detention based on suspicion alone—a practice that violates both U.S. and international law.

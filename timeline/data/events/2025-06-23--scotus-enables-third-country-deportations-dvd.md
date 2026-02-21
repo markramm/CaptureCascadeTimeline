@@ -52,9 +52,8 @@ sources:
   date: '2025-06-23'
 status: confirmed
 capture_lanes:
-- due-process-erosion
-- supreme-court-capture
-- human-rights-violations
+- Judicial Capture
+- Civil Rights Suppression
 ---
 
 

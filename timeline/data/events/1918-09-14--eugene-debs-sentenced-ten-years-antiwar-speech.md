@@ -1,7 +1,7 @@
 ---
 id: 1918-09-14--eugene-debs-sentenced-ten-years-antiwar-speech
 date: '1918-09-14'
-title: "Eugene V. Debs Sentenced to Ten Years for Antiwar Speech, Runs for President from Prison"
+title: Eugene V. Debs Sentenced to Ten Years for Antiwar Speech, Runs for President from Prison
 importance: 8
 actors:
 - Eugene V. Debs
@@ -19,18 +19,18 @@ sources:
   url: https://en.wikipedia.org/wiki/Eugene_V._Debs
   outlet: Wikipedia
   tier: 2
-- title: "The Trial of Eugene V. Debs"
+- title: The Trial of Eugene V. Debs
   url: https://famous-trials.com/debs/
   outlet: Famous Trials
   tier: 1
-- title: "Eugene Debs Speaks Against World War I"
+- title: Eugene Debs Speaks Against World War I
   url: https://www.zinnedproject.org/news/tdih/eugene-debs-speaks-against-world-war-i/
   outlet: Zinn Education Project
   tier: 2
 status: confirmed
 capture_lanes:
-- Legal Capture
-- Political Capture
+- Judicial Capture
+- Democratic Erosion
 ---
 
 Federal Judge David C. Westenhaver sentenced five-time Socialist Party presidential candidate Eugene V. Debs to ten years in federal prison for violating the Espionage Act by delivering an antiwar speech in Canton, Ohio on June 16, 1918. Before sentencing, Debs delivered his famous statement: "While there is a lower class, I am in it; while there is a criminal element, I am of it; while there is a soul in prison, I am not free."

@@ -14,15 +14,15 @@ tags:
 - religious-right
 - social-issues
 capture_lanes:
-- Judicial Capture & Corruption
-- Ideological Capture
+- Judicial Capture
+- Democratic Erosion
 sources:
 - title: Roe v. Wade - Wikipedia
   url: https://en.wikipedia.org/wiki/Roe_v._Wade
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'The undoing of Roe v. Wade'
+- title: The undoing of Roe v. Wade
   url: https://pursuit.unimelb.edu.au/articles/the-undoing-of-roe-v-wade
   outlet: University of Melbourne
   date: '2022-07-01'

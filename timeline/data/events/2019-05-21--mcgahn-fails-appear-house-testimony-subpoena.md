@@ -15,8 +15,7 @@ sources:
 - title: White House Directed Ex-Counsel McGahn Not To Comply With Congressional Subpoena
   url: https://www.npr.org/2019/05/07/721053127/white-house-directed-ex-counsel-mcgahn-not-to-comply-with-congressional-subpoena
   outlet: NPR
-- title: Federal Judge Rules Don McGahn Must Testify Before House, Delivering Blow
-    to White House
+- title: Federal Judge Rules Don McGahn Must Testify Before House, Delivering Blow to White House
   url: https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house
   outlet: NPR
 importance: 8
@@ -35,7 +34,7 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 - Executive Power Expansion
-- Judicial Resistance
+- Judicial Capture
 ---
 
 Donald McGahn failed to appear for scheduled May 21 House Judiciary Committee testimony despite a congressional subpoena, following explicit White House direction to not comply. The incident represents a significant escalation of executive privilege claims, with the White House asserting 'absolute immunity' for senior officials. McGahn's attorney William Burck cited 'contradictory demands' from different government branches as justification for non-compliance. This action was part of a broader strategy to obstruct congressional oversight related to the Mueller investigation, specifically blocking testimony about potential obstruction of justice. In November 2019, a federal court would ultimately rule that McGahn must testify, with Judge Ketanji Brown Jackson explicitly stating that 'presidents are not kings' and 'no one is above the law'.

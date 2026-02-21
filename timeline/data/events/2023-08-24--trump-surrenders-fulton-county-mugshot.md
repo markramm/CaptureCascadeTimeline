@@ -4,40 +4,40 @@ date: '2023-08-24'
 title: Trump Surrenders at Fulton County Jail, Mugshot Taken - First Presidential Mugshot in History
 importance: 9
 actors:
-  - Donald Trump
-  - Fani Willis
+- Donald Trump
+- Fani Willis
 tags:
-  - criminal-indictment
-  - mugshot
-  - georgia
-  - accountability
+- criminal-indictment
+- mugshot
+- georgia
+- accountability
 status: confirmed
 sources:
-  - title: Trump's mug shot in Fulton County released
-    url: https://www.cbsnews.com/news/trump-mug-shot-fulton-county-jail-arrest-inmate-p01135809-booking-photo/
-    outlet: CBS News
-    date: '2023-08-24'
-    tier: 2
-  - title: Trump mug shot released by Fulton County Sheriff's Office
-    url: https://abcnews.go.com/US/trump-mug-shot-released-georgia-sheriffs-office/story?id=102544727
-    outlet: ABC News
-    date: '2023-08-24'
-    tier: 2
-  - title: Trump's mug shot made public by Fulton County Jail after arrest
-    url: https://www.nbcnews.com/politics/donald-trump/donald-trump-mugshot-georgia-jail-fulton-county-arrest-rcna101664
-    outlet: NBC News
-    date: '2023-08-24'
-    tier: 2
-  - title: 'Presidential mug shot of inmate No. P01135809 is stark in its simplicity'
-    url: https://www.cnn.com/2023/08/24/politics/trump-mug-shot-analysis/index.html
-    outlet: CNN
-    date: '2023-08-24'
-    tier: 2
-notes: 'This was the first and only police booking photograph of a U.S. president in history. Trump was assigned inmate number P01135809. The image became instantly iconic and was used for fundraising by Trump''s campaign.'
+- title: Trump's mug shot in Fulton County released
+  url: https://www.cbsnews.com/news/trump-mug-shot-fulton-county-jail-arrest-inmate-p01135809-booking-photo/
+  outlet: CBS News
+  date: '2023-08-24'
+  tier: 2
+- title: Trump mug shot released by Fulton County Sheriff's Office
+  url: https://abcnews.go.com/US/trump-mug-shot-released-georgia-sheriffs-office/story?id=102544727
+  outlet: ABC News
+  date: '2023-08-24'
+  tier: 2
+- title: Trump's mug shot made public by Fulton County Jail after arrest
+  url: https://www.nbcnews.com/politics/donald-trump/donald-trump-mugshot-georgia-jail-fulton-county-arrest-rcna101664
+  outlet: NBC News
+  date: '2023-08-24'
+  tier: 2
+- title: Presidential mug shot of inmate No. P01135809 is stark in its simplicity
+  url: https://www.cnn.com/2023/08/24/politics/trump-mug-shot-analysis/index.html
+  outlet: CNN
+  date: '2023-08-24'
+  tier: 2
+notes: This was the first and only police booking photograph of a U.S. president in history. Trump was assigned inmate number P01135809. The image became instantly iconic and was used for fundraising by Trump's campaign.
 capture_lanes:
-  - Judiciary Capture
-  - Accountability Evasion
-  - Media Manipulation
+- Judicial Capture
+- Systematic Corruption
+- Media Capture & Control
 ---
 
 Former President Donald Trump voluntarily surrendered to authorities at the Fulton County Jail in Atlanta, Georgia, where he was booked, fingerprinted, and photographed in what became the first police mugshot of a U.S. president in American history. The booking photograph, showing Trump glowering at the camera with prisoner identification number P01135809, was released publicly and instantly became one of the most iconic political images of the modern era.

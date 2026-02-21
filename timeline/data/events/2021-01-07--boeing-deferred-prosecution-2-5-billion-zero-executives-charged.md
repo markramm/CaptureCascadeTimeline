@@ -36,9 +36,8 @@ tags:
 - doj
 status: confirmed
 capture_lanes:
-- Deferred Prosecution Abuse
-- Executive Impunity
-- Two-Tier Justice System
+- Judicial Capture
+- Executive Power Expansion
 ---
 
 The Department of Justice charged Boeing with one count of conspiracy to defraud the United States in connection with the 737 MAX evaluation and entered a deferred prosecution agreement requiring Boeing to pay $2.5 billion in penalties. Despite evidence that Boeing executives knowingly deceived the FAA about MCAS capabilities, concealed safety-critical information from pilots and regulators, and prioritized profits over 346 human lives, zero individual executives were criminally charged.

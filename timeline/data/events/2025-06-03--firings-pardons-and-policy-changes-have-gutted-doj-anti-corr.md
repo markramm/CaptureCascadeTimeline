@@ -17,27 +17,21 @@ tags:
 - law-enforcement-restructuring
 capture_lanes:
 - Intelligence Penetration
-- Judicial System Capture
+- Judicial Capture
 sources:
 - outlet: ABC News
-  title: DOJ seeks list of potentially thousands of FBI employees who worked on Jan.
-    6 cases
+  title: DOJ seeks list of potentially thousands of FBI employees who worked on Jan. 6 cases
   url: https://abcnews.go.com/Politics/trump-administration-compiling-list-fbi-agents-potentially-fire/story?id=118324713
   date: '2025-01-31'
 - outlet: NBC News
-  title: Several top FBI officials are told to resign or be fired as Trump continues
-    federal purge
+  title: Several top FBI officials are told to resign or be fired as Trump continues federal purge
   url: https://www.nbcnews.com/politics/justice-department/several-top-fbi-officials-are-told-resign-face-demotion-trump-continue-rcna190095
   date: '2025-01-31'
 - outlet: The Hill
   title: FBI, DOJ purges under Donald Trump trigger 'battle' for career staff
   url: https://thehill.com/homenews/administration/5124328-trump-administration-purge-fbi/
   date: '2025-02-01'
-description: The Trump administration systematically dismantled anti-corruption mechanisms
-  within the Department of Justice, focusing on removing personnel involved in investigations
-  perceived as politically unfavorable. Key actions included terminating senior FBI
-  executives, targeting field office leadership, and pausing enforcement of anti-corruption
-  statutes.
+description: The Trump administration systematically dismantled anti-corruption mechanisms within the Department of Justice, focusing on removing personnel involved in investigations perceived as politically unfavorable. Key actions included terminating senior FBI executives, targeting field office leadership, and pausing enforcement of anti-corruption statutes.
 patterns:
 - kleptocratic-capture
 - institutional-restructuring

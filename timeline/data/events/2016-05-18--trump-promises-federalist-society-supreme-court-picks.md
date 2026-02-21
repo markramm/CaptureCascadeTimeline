@@ -47,8 +47,8 @@ actors:
 - Federalist Society
 - Heritage Foundation
 capture_lanes:
-- Judicial Capture & Corruption
-- Electoral Strategy
+- Judicial Capture
+- Electoral Manipulation
 historical_context:
   broader_implications: Unprecedented privatization of judicial selection process through ideological screening
   campaign_strategy: Using judicial nominations to secure conservative voter support and reshape federal judiciary

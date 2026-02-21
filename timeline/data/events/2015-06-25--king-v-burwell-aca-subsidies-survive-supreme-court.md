@@ -35,9 +35,9 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- judicial-warfare
-- healthcare-sabotage
-- conservative-legal-movement
+- Judicial Capture
+- Regulatory Capture
+- Democratic Erosion
 ---
 
 The U.S. Supreme Court ruled 6-3 in King v. Burwell that premium tax credits are available to qualifying individuals in all states, rejecting a challenge that would have eliminated subsidies for millions in the 34 states using the federal healthcare exchange (HealthCare.gov). The lawsuit, filed by conservative challengers, hinged on six words in the ACA—'an Exchange established by the State'—arguing that subsidies should only apply in states operating their own exchanges. Chief Justice John Roberts authored the majority opinion, joined by Justices Kennedy, Ginsburg, Breyer, Sotomayor, and Kagan, finding that while the plaintiffs' literal reading was 'the most natural,' the statute as a whole was ambiguous and must be read consistently with Congress's intent. Roberts wrote that accepting the challengers' interpretation 'would destabilize the individual insurance market in any State with a Federal Exchange, and likely create the very death spirals that Congress designed the Act to avoid.' The decision prevented 6.4 million people from losing healthcare coverage and protected the fundamental architecture of the ACA. Justice Scalia's dissent, joined by Thomas and Alito, argued the majority was rewriting the statute to save it. The case represented the second major Supreme Court survival of the ACA (after NFIB v. Sebelius in 2012) and demonstrated the relentless legal warfare aimed at dismantling healthcare reform through technical statutory interpretation rather than direct political confrontation.

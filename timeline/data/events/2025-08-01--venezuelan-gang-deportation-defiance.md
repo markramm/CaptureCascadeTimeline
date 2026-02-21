@@ -16,14 +16,13 @@ tags:
 - willful-disregard
 - deportation-abuse
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - title: How Trump's White House defied a judge's order halting deportations
   url: https://www.axios.com/2025/03/16/trump-white-house-defy-judge-deport-venezuelans
   outlet: Axios
   date: '2025-03-16'
-- title: What happens if a president and the federal government fail to follow a judge's
-    orders?
+- title: What happens if a president and the federal government fail to follow a judge's orders?
   url: https://www.nbcnews.com/politics/politics-news/president-defies-judges-orders-contempt-rcna201455
   outlet: NBC News
   date: '2025-08-01'
@@ -31,9 +30,7 @@ sources:
   url: https://www.rollingstone.com/politics/politics-features/inside-team-trump-attack-judges-defiance-court-orders-1235298463/
   outlet: Rolling Stone
   date: '2025-08-01'
-notes: First instance where a judge explicitly found probable cause of contempt for
-  the Trump administration's deliberate defiance of a court order. The administration
-  attempted to remove Judge Boasberg from the case after defying his order.
+notes: First instance where a judge explicitly found probable cause of contempt for the Trump administration's deliberate defiance of a court order. The administration attempted to remove Judge Boasberg from the case after defying his order.
 status: confirmed
 ---
 

@@ -47,8 +47,8 @@ sources:
   url: https://interestingengineering.com/culture/elon-musk-xai-grok-pentagon-contract
 status: confirmed
 capture_lanes:
-- judicial-enablement
-- institutional-dismantling
+- Judicial Capture
+- Federal Workforce Capture
 ---
 
 

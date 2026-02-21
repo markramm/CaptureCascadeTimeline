@@ -16,8 +16,8 @@ tags:
 - constitutional-interpretation
 - nixon-administration
 capture_lanes:
-- Judicial Capture & Corruption
-- Corporate Influence
+- Judicial Capture
+- Corporate Capture
 sources:
 - outlet: The American Presidency Project
   title: Statement About Senate Confirmation of Supreme Court Justices

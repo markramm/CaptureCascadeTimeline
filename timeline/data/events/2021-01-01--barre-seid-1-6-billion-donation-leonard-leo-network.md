@@ -4,9 +4,9 @@ actors:
 - Leonard Leo
 - Marble Freedom Trust
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Media Capture & Control
-- Dark Money Networks
+- Electoral Manipulation
 date: '2021-01-01'
 id: 2021-01-01--barre-seid-1-6-billion-donation-leonard-leo-network
 importance: 10
@@ -33,8 +33,7 @@ sources:
   - Tax minimization strategy saved estimated $400 million
   - Unprecedented scale of dark money donation
   outlet: CNN Politics
-  title: 'Massive dark money donation: New conservative group got $1.6 billion from
-    single donor'
+  title: 'Massive dark money donation: New conservative group got $1.6 billion from single donor'
   url: https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs/index.html
   verified: true
 - key_facts_confirmed:

@@ -21,7 +21,7 @@ tags:
 - government-restructuring
 capture_lanes:
 - Federal Workforce Capture
-- Judicial Capture & Corruption
+- Judicial Capture
 - Executive Power Expansion
 sources:
 - title: Some agencies are walking back planned layoffs, Trump administration says

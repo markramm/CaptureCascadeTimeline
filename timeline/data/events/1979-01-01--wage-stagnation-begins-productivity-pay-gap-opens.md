@@ -16,25 +16,29 @@ tags:
 - inequality
 - economic-policy
 sources:
-- title: 'The Productivity-Pay Gap'
+- title: The Productivity-Pay Gap
   url: https://www.epi.org/productivity-pay-gap/
   outlet: Economic Policy Institute
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'Wage Stagnation in Nine Charts'
+- title: Wage Stagnation in Nine Charts
   url: https://www.epi.org/publication/charting-wage-stagnation/
   outlet: Economic Policy Institute
   date: '2018-01-01'
   verified: true
   tier: 1
-- title: 'Identifying Policy Levers Generating Wage Suppression and Inequality'
+- title: Identifying Policy Levers Generating Wage Suppression and Inequality
   url: https://www.epi.org/unequalpower/publications/wage-suppression-inequality/
   outlet: Economic Policy Institute
   date: '2019-01-01'
   verified: true
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Labor Suppression
+- Corporate Capture
 ---
 
 After three decades of wages rising in tandem with productivity (1948-1979), the fundamental relationship between worker productivity and compensation breaks down completely beginning in 1979, marking the start of 45+ years of wage stagnation despite continued productivity growth. Between 1948-1979, productivity grew 108% while wages grew 93%—nearly parallel tracks. But from 1979-2024, productivity increases 80% while median wages grow only 29%, less than 0.6% annually, capturing just one-third of productivity gains.

@@ -27,6 +27,10 @@ sources:
   outlet: FactCheck.org
   date: '2016-04-12'
 id: 1994-09-13--three-strikes-mandatory-life-sentencing
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Labor Suppression
 ---
 
 The Violent Crime Control and Law Enforcement Act of 1994 includes a federal "three strikes" provision mandating life imprisonment without possibility of parole for individuals convicted of a third violent felony or serious drug offense. Specifically, the law requires mandatory life imprisonment for those who commit federal violent felonies if they had two or more previous convictions for violent felonies or drug trafficking crimes.

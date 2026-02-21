@@ -14,7 +14,7 @@ tags:
 - chicago-school
 - corporate-power
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Corporate Capture
 sources:
 - title: Consumer Welfare and the Legacy of Robert Bork

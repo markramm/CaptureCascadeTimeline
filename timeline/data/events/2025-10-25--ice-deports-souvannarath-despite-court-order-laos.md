@@ -68,9 +68,9 @@ patterns:
 - accountability-evasion
 notes: This deportation occurred despite DHS acknowledging receipt of the court order, though they claimed it arrived after the deportation had already occurred. The ACLU of Louisiana called it a "stunning violation of a federal court order." Souvannarath was born in a Thai refugee camp, entered the U.S. before age one with lawful permanent residence, and his naturalized U.S. citizen father could have sponsored his derivative citizenship claim. Laos is classified by Genocide Watch as Stage 8 (Persecution) for ongoing forced displacements, arbitrary arrests, enforced disappearances, and military attacks targeting minorities. U.S. State Department reports document credible reports of torture, arbitrary detention, and serious problems with judicial independence in Laos.
 capture_lanes:
-- Judicial Capture & Corruption
-- Human Rights Violations
-- Rule of Law Erosion
+- Judicial Capture
+- Civil Rights Suppression
+- Democratic Erosion
 ---
 
 On October 25, 2025, Immigration and Customs Enforcement deported Chanthila "Shawn" Souvannarath, 44, to Laos in direct violation of a federal court order issued just one day earlier. Chief Judge Shelly D. Dick of the U.S. District Court for the Middle District of Louisiana had issued a temporary restraining order on October 23 explicitly prohibiting ICE from removing Souvannarath from the United States, finding that he had a "substantial claim of U.S. citizenship" and that immediate deportation would cause "irreparable harm." Despite this clear judicial command, ICE proceeded with the deportation on Friday, October 25.

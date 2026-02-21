@@ -1,7 +1,7 @@
 ---
 id: 1917-11-05--buchanan-v-warley-supreme-court-strikes-racial-zoning
 date: '1917-11-05'
-title: "Buchanan v. Warley: Supreme Court Strikes Down Racial Zoning, Property Rights Trump Civil Rights"
+title: 'Buchanan v. Warley: Supreme Court Strikes Down Racial Zoning, Property Rights Trump Civil Rights'
 importance: 7
 actors:
 - Supreme Court of the United States
@@ -23,14 +23,14 @@ sources:
   url: https://www.oyez.org/cases/1900-1940/245us60
   outlet: Oyez
   tier: 1
-- title: "The NAACP's Legal Campaign Against Segregation"
+- title: The NAACP's Legal Campaign Against Segregation
   url: https://www.naacpldf.org/about-us/history/
   outlet: NAACP Legal Defense Fund
   tier: 1
 status: confirmed
 capture_lanes:
-- Legal Capture
-- Housing Capture
+- Judicial Capture
+- Regulatory Capture
 ---
 
 The Supreme Court unanimously struck down a Louisville, Kentucky ordinance prohibiting Black residents from moving onto blocks where the majority of residents were white, and vice versa. While appearing to be a civil rights victory, the Court's reasoning in Buchanan v. Warley rested entirely on property rights rather than racial equality. Justice William Day wrote that the ordinance violated the Fourteenth Amendment by depriving property owners of their right to dispose of property to willing buyers, not because racial segregation was unconstitutional.

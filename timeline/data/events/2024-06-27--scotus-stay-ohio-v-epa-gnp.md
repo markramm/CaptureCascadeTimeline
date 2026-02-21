@@ -22,7 +22,7 @@ tags:
 - interstate-pollution
 - shadow-docket
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 citations:
 - Ohio v. EPA, No. 23A349 (2024)
 - https://www.supremecourt.gov/opinions/23pdf/23a349_0813.pdf

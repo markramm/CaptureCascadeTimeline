@@ -57,6 +57,10 @@ sources:
   tier: 2
   outlet: Chicago Sun-Times
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+- Electoral Manipulation
 ---
 
 On November 6, 2025, U.S. District Judge Sara Ellis issued a devastating preliminary injunction against Border Patrol Commander Gregory Bovino and federal immigration enforcement agents in Chicago, explicitly finding that Bovino "admitted that he lied" about the October 23, 2025 tear gas incident in Little Village. The judge's 39-page ruling found that federal agents repeatedly used force that "shocks the conscience" and then systematically lied about their actions, imposing sweeping restrictions on immigration enforcement tactics in the Chicago area.

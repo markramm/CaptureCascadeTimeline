@@ -19,8 +19,8 @@ tags:
 - legal-education
 - judicial-capture
 capture_lanes:
-- Judicial Capture & Corruption
-- Academic Capture
+- Judicial Capture
+- Democratic Erosion
 sources:
 - outlet: Yale Daily News
   title: How the Federalist Society shaped America's judiciary
@@ -29,15 +29,13 @@ sources:
   key_facts_confirmed:
   - Founded by Steven Calabresi, David McIntosh, Lee Liberman Otis in 1982
   - First event held in April 1982 at Yale Law School
-  - Initial funding of $24,000 from John M. Olin Foundation and Institute for Educational
-    Affairs
+  - Initial funding of $24,000 from John M. Olin Foundation and Institute for Educational Affairs
 - outlet: Yale University News
   title: Federalist Society Annual Symposium Details
   url: https://news.yale.edu/2002/02/13/federalist-society-hold-annual-symposium-law-and-truth
   verified: true
   key_facts_confirmed:
-  - Founded by five individuals including Calabresi, McIntosh, Liberman Otis, Abraham,
-    Keisler
+  - Founded by five individuals including Calabresi, McIntosh, Liberman Otis, Abraham, Keisler
   - 'Purpose: Create forum for conservatives and libertarians to reform legal order'
   - Grew to 5,000+ student members across 145 law schools
 - title: Federalist Society - Wikipedia

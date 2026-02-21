@@ -17,22 +17,26 @@ actors:
 - Yale Law School
 - University of Chicago Law School
 sources:
-- title: 'John M. Olin Foundation'
+- title: John M. Olin Foundation
   url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Linking Law and Economics'
+- title: Linking Law and Economics
   url: https://www.philanthropyroundtable.org/almanac/linking-law-and-economics/
   publication: Philanthropy Roundtable
   date: '2024-09-15'
   tier: 2
-- title: 'John M. Olin Foundation (1953–2005)'
+- title: John M. Olin Foundation (1953–2005)
   url: https://cspcs.sanford.duke.edu/cspcs-publication/john-m-olin-foundation-1953-2005/
   publication: Duke Center for Strategic Philanthropy
   date: '2024-08-20'
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Labor Suppression
+- Corporate Capture
 ---
 
 In 1987, the John M. Olin Foundation expanded its systematic funding of Law and Economics programs at elite law schools, with Stanford Law School initiating its John M. Olin Program in Law and Economics through a generous foundation gift. This represented the maturation of a decades-long effort to reshape American legal education and jurisprudence to favor corporate interests.

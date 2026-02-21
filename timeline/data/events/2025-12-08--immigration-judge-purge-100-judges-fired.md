@@ -1,13 +1,29 @@
 ---
-id: "2025-12-08--immigration-judge-purge-100-judges-fired"
-date: "2025-12-08"
-title: "Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases"
-summary: "The Trump administration has fired approximately 100 immigration judges from a bench that began 2025 with around 700 judges, with recent reports indicating 139 judges have been fired, taken early retirement offers, or been involuntarily transferred since Trump took office. NPR identified 70 fired judges through independent analysis, finding that those with prior experience in immigrant defense constituted the largest share of terminated judges, while newly hired judges predominantly have backgrounds in immigration enforcement, military service, and federal agencies. Most fired judges were in liberal areas including New York, San Francisco, and Boston, though judges in red states like Texas and Louisiana were also terminated. Dozens of judges confirmed receiving no explanation for their firings. The purge occurs as the immigration court system maintains a backlog of 3.4 million cases, and critics argue the firings undermine due process and judicial independence while being counterproductive to stated deportation goals."
+id: 2025-12-08--immigration-judge-purge-100-judges-fired
+date: '2025-12-08'
+title: Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases
+summary: The Trump administration has fired approximately 100 immigration judges from a bench that began 2025 with around 700 judges, with recent reports indicating 139 judges have been fired, taken early retirement offers, or been involuntarily transferred since Trump took office. NPR identified 70 fired judges through independent analysis, finding that those with prior experience in immigrant defense constituted the largest share of terminated judges, while newly hired judges predominantly have backgrounds in immigration enforcement, military service, and federal agencies. Most fired judges were in liberal areas including New York, San Francisco, and Boston, though judges in red states like Texas and Louisiana were also terminated. Dozens of judges confirmed receiving no explanation for their firings. The purge occurs as the immigration court system maintains a backlog of 3.4 million cases, and critics argue the firings undermine due process and judicial independence while being counterproductive
+  to stated deportation goals.
 importance: 9
-tags: ["immigration", "judges", "doj", "due-process", "judicial-independence", "purge", "deportation", "courts", "legal"]
-actors: ["Department of Justice", "Executive Office for Immigration Review", "Tania Nemer", "Kyra Lilien", "Anam Petit", "Amiena Khan"]
+tags:
+- immigration
+- judges
+- doj
+- due-process
+- judicial-independence
+- purge
+- deportation
+- courts
+- legal
+actors:
+- Department of Justice
+- Executive Office for Immigration Review
+- Tania Nemer
+- Kyra Lilien
+- Anam Petit
+- Amiena Khan
 sources:
-- title: "Judges Are Getting Fired as Trump Pursues Immigration 'Purge'"
+- title: Judges Are Getting Fired as Trump Pursues Immigration 'Purge'
   outlet: Bloomberg
   url: https://www.bloomberg.com/news/features/2025/12/16/judges-are-getting-fired-as-trump-pursues-immigration-purge
   tier: 1
@@ -20,6 +36,10 @@ sources:
   url: https://www.npr.org/2025/11/05/nx-s1-5584095/a-deep-dive-into-the-trump-administrations-firing-of-immigration-judges
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 # Trump Administration Fires Nearly 100 Immigration Judges in Ideological Purge Targeting Immigrant Defense Backgrounds While Court Backlog Exceeds 3.4 Million Cases

@@ -35,6 +35,8 @@ actors:
 - Ghislaine Maxwell
 - Donald Trump
 - U.S. Congress
+capture_lanes:
+- Judicial Capture
 ---
 
 On December 10, 2025, U.S. District Judge Richard M. Berman of the Southern District of New York granted the Department of Justice's request to unseal grand jury materials from Jeffrey Epstein's 2019 sex trafficking case, marking a dramatic reversal of his earlier decision to keep these records under wraps. In a four-page ruling, Judge Berman stated: "The Court hereby grants the Government's motion in accordance with the Epstein Files Transparency Act." This order came one day after a separate Manhattan federal judge ordered the release of grand jury records from Ghislaine Maxwell's 2021 sex trafficking case, making Berman the third federal judge in one week to authorize disclosure of Epstein-related grand jury materials in response to the DOJ's coordinated push for transparency before the December 19 statutory deadline.

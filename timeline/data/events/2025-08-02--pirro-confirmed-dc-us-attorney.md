@@ -29,6 +29,9 @@ tags:
 - institutional-capture
 - judicial-corruption
 - weaponization-of-government
+capture_lanes:
+- Judicial Capture
+- Systematic Corruption
 ---
 
 The Senate confirmed former Fox News host and Trump loyalist Jeanine Pirro as U.S. Attorney for the District of Columbia in a 50-45 party-line vote. Pirro, who co-hosted 'The Five' on Fox News before her appointment, had been serving as interim U.S. attorney since May 2025 after Trump's first pick faced Republican opposition. The 74-year-old is entangled in a $2.7 billion election defamation lawsuit against Fox News. Her confirmation gives Trump direct control over federal prosecutions in the nation's capital through a devoted political ally with no separation from his administration. Critics warn this represents weaponization of the Justice Department, installing a partisan prosecutor in one of the country's most sensitive judicial positions overseeing cases involving federal officials and January 6 defendants.

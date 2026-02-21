@@ -1,8 +1,7 @@
 ---
 id: 1965-08-06--voting-rights-act-passage-after-selma-bloody-sunday
 date: '1965-08-06'
-title: Voting Rights Act Signed After Selma Bloody Sunday Defeats Southern Legislative
-  Resistance
+title: Voting Rights Act Signed After Selma Bloody Sunday Defeats Southern Legislative Resistance
 importance: 9
 actors:
 - President Lyndon B. Johnson
@@ -46,8 +45,8 @@ tags:
 - institutional-resistance
 - voter-suppression
 capture_lanes:
-- Legal System Manipulation
-- State Government Capture
+- Judicial Capture
+- Legislative Capture
 status: confirmed
 ---
 

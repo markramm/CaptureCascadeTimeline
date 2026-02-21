@@ -11,8 +11,8 @@ tags:
 - regulatory-failure
 - workplace-safety
 capture_lanes:
-- two-tiered-justice-system-operational
-- regulatory-capture-advancing
+- Judicial Capture
+- Regulatory Capture
 actors:
 - Agriprocessors Inc.
 - Abraham Aaron Rubashkin

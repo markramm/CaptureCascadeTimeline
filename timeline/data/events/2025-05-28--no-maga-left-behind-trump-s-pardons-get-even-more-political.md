@@ -2,10 +2,7 @@
 id: 2025-05-28--no-maga-left-behind-trump-s-pardons-get-even-more-political
 date: '2025-05-28'
 title: Trump Pardons Become Explicitly Political with 'No MAGA Left Behind' Directive
-description: Ed Martin, Trump's pardon attorney, openly stated the administration's
-  pardon strategy as 'No MAGA left behind,' demonstrating an unprecedented politicization
-  of the presidential clemency power. The pardons focused on Trump supporters facing
-  legal consequences, including convicted former officials and allies.
+description: Ed Martin, Trump's pardon attorney, openly stated the administration's pardon strategy as 'No MAGA left behind,' demonstrating an unprecedented politicization of the presidential clemency power. The pardons focused on Trump supporters facing legal consequences, including convicted former officials and allies.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -39,7 +36,7 @@ patterns:
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Executive Power Expansion
-- Judicial System Capture
+- Judicial Capture
 ---
 
 Trump's pardon attorney Ed Martin explicitly politicized the presidential pardon power, announcing a strategy of pardoning political allies and supporters. This included pardoning Scott Jenkins, a former sheriff convicted of taking over $75,000 in bribes, signaling a dramatic shift in how clemency is applied.

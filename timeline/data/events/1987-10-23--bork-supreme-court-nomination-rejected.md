@@ -92,4 +92,8 @@ sources:
   date: 2012-12-19
   tier: 1
   outlet: NPR
+capture_lanes:
+- Judicial Capture
+- Regulatory Capture
+- Intelligence Penetration
 ---

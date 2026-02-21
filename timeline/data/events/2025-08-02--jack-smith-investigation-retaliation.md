@@ -29,6 +29,10 @@ tags:
 - weaponization-of-government
 - judicial-corruption
 - political-retaliation
+capture_lanes:
+- Judicial Capture
+- Systematic Corruption
+- Surveillance Infrastructure
 ---
 
 The U.S. Office of Special Counsel launched an investigation into former special counsel Jack Smith for alleged Hatch Act violations at the request of Senator Tom Cotton (R-Ark.). Cotton claimed Smith 'interfered' with the 2024 election by filing court briefs within 60 days of Election Day as part of his prosecution of Trump for election interference and classified documents retention. Legal experts condemned the investigation as political retaliation, with Richard Painter, ethics lawyer under George W. Bush, stating he had 'never seen a prosecutor found to violate the Hatch Act for pleading with a court.' Smith's attorneys called the investigation 'premised on a partisan complaint that suggests the ordinary operation of the criminal justice system should be disrupted by the whims of a political contest.' The probe represents weaponization of ethics enforcement to punish prosecutors who investigated Trump, chilling future accountability for presidential crimes.

@@ -35,9 +35,9 @@ tags:
 - democratic-resistance
 - public-interest
 capture_lanes:
-- Judicial Interpretation
-- Democratic Resistance
-- Regulatory Framework
+- Judicial Capture
+- Democratic Erosion
+- Regulatory Capture
 status: confirmed
 ---
 

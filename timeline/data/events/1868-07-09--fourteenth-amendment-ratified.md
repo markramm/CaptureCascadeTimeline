@@ -17,7 +17,7 @@ sources:
   outlet: U.S. Senate
   url: https://www.senate.gov/about/origins-foundations/senate-and-constitution/14th-amendment.htm
   year: 2024
-- title: 'Fourteenth Amendment to the United States Constitution'
+- title: Fourteenth Amendment to the United States Constitution
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution
   year: 2024
@@ -27,8 +27,8 @@ tags:
 - corporate-influence
 - democratic-erosion
 capture_lanes:
-- Legal System Weaponization
-- Constitutional Subversion
+- Judicial Capture
+- Executive Power Expansion
 status: confirmed
 ---
 

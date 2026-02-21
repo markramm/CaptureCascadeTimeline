@@ -15,15 +15,15 @@ tags:
 - corporate-power
 - aaron-director
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Corporate Capture
 sources:
-- title: 'The Chicago School and the Forgotten Political Dimension of Antitrust Law'
+- title: The Chicago School and the Forgotten Political Dimension of Antitrust Law
   url: https://lawreview.uchicago.edu/print-archive/chicago-school-and-forgotten-political-dimension-antitrust-law
   outlet: University of Chicago Law Review
   date: '2020-01-01'
   verified: true
-- title: 'Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust'
+- title: Aaron Director and the Empirical Foundation for the Chicago Attitude on Antitrust
   url: https://www.promarket.org/2019/10/07/aaron-director-and-the-empirical-foundation-for-the-chicago-attitude-on-antitrust/
   outlet: ProMarket
   date: '2019-10-07'

@@ -11,8 +11,8 @@ tags:
 - corporate-impunity
 - institutional-capture
 capture_lanes:
-- two-tiered-justice-system-operational
-- state-violence-apparatus-expansion
+- Judicial Capture
+- Surveillance Infrastructure
 actors:
 - Immigration and Customs Enforcement (ICE)
 - U.S. Department of Homeland Security

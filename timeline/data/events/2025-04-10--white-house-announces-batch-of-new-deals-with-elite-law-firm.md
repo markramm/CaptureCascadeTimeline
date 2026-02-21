@@ -24,7 +24,7 @@ capture_type: monetizing_position
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
-- Legal System Manipulation
+- Judicial Capture
 patterns:
 - kleptocratic-capture
 - institutional-leverage

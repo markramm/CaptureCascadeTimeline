@@ -30,6 +30,10 @@ sources:
   outlet: Rep. Khanna Press Release
   date: '2026-01-09'
   tier: 1
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Surveillance Infrastructure
 ---
 
 U.S. District Judge Paul Engelmayer ruled that Representatives Thomas Massie and Ro Khanna cannot append their demand for a court-appointed special master to the Ghislaine Maxwell criminal case to force DOJ compliance with the Epstein Files Transparency Act. The judge largely agreed with the Justice Department's argument that he lacked authority to grant the request as the congressmen were not parties to Maxwell's criminal case.

@@ -11,22 +11,19 @@ actors:
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
-- Legal System Weaponization
-- Corporate Negotiation Strategies
+- Judicial Capture
+- Corporate Capture
 capture_type: regulatory_capture
 connections:
 - 2025 Trump lawsuit settlements
 - Social media platform litigation
 - Media platform content control
 date: '2025-02-13'
-description: Comprehensive analysis of Trump's strategic media platform lawsuit settlements
-  in 2025, demonstrating a sophisticated approach to converting legal challenges into
-  financial opportunities.
+description: Comprehensive analysis of Trump's strategic media platform lawsuit settlements in 2025, demonstrating a sophisticated approach to converting legal challenges into financial opportunities.
 id: 2025-02-13--how-the-trumps-turned-an-election-victory-into-a-cash-bonanz
 importance: 8
 location: Washington, D.C.
-notes: Detailed tracking of Trump's multi-platform legal settlement strategy following
-  social media account suspensions
+notes: Detailed tracking of Trump's multi-platform legal settlement strategy following social media account suspensions
 patterns:
 - kleptocratic-capture
 - media-manipulation
@@ -47,8 +44,7 @@ sources:
       other_plaintiffs: $2.5 million
 - date: '2025-09-29'
   outlet: CNBC
-  title: YouTube agrees to pay Trump $24.5 million to settle lawsuit over suspended
-    account
+  title: YouTube agrees to pay Trump $24.5 million to settle lawsuit over suspended account
   url: https://www.cnbc.com/2025/09/29/youtube-to-pay-trump-24point5-million-to-settle-lawsuit-over-suspension.html
 status: confirmed
 tags:

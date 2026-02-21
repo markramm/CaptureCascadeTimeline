@@ -4,41 +4,41 @@ date: '2023-04-04'
 title: Trump Arraigned in Manhattan Criminal Court, Pleads Not Guilty to 34 Felony Counts
 importance: 10
 actors:
-  - Donald Trump
-  - Juan Merchan
-  - Alvin Bragg
+- Donald Trump
+- Juan Merchan
+- Alvin Bragg
 tags:
-  - criminal-indictment
-  - arraignment
-  - hush-money
-  - accountability
+- criminal-indictment
+- arraignment
+- hush-money
+- accountability
 status: confirmed
 sources:
-  - title: Trump arraigned on 34 counts, pleads not guilty in New York courtroom
-    url: https://www.washingtonpost.com/national-security/2023/04/04/trump-indictment-charges-new-york-arraignment/
-    outlet: The Washington Post
-    date: '2023-04-04'
-    tier: 2
-  - title: Donald Trump pleads not guilty to 34 felony counts of falsifying business records
-    url: https://www.cnn.com/2023/04/04/politics/donald-trump-arraignment-new-york/index.html
-    outlet: CNN
-    date: '2023-04-04'
-    tier: 2
-  - title: 'Trump arraigned: Former president pleads not guilty to 34 felony counts'
-    url: https://www.fox5ny.com/news/trump-arraignment-mug-shot-charges-indictment-tuesday-nyc.amp
-    outlet: FOX 5 New York
-    date: '2023-04-04'
-    tier: 2
-  - title: Trump embraced at Mar-a-Lago after pleading not guilty to 34 felony counts
-    url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-indictment-live-updates-former-presidents-arraignment-expected-t-rcna77705
-    outlet: NBC News
-    date: '2023-04-04'
-    tier: 2
-notes: 'This marked the first time a former or sitting U.S. president appeared in criminal court as a defendant. Trump was fingerprinted but no mugshot was publicly released. He was released without bail.'
+- title: Trump arraigned on 34 counts, pleads not guilty in New York courtroom
+  url: https://www.washingtonpost.com/national-security/2023/04/04/trump-indictment-charges-new-york-arraignment/
+  outlet: The Washington Post
+  date: '2023-04-04'
+  tier: 2
+- title: Donald Trump pleads not guilty to 34 felony counts of falsifying business records
+  url: https://www.cnn.com/2023/04/04/politics/donald-trump-arraignment-new-york/index.html
+  outlet: CNN
+  date: '2023-04-04'
+  tier: 2
+- title: 'Trump arraigned: Former president pleads not guilty to 34 felony counts'
+  url: https://www.fox5ny.com/news/trump-arraignment-mug-shot-charges-indictment-tuesday-nyc.amp
+  outlet: FOX 5 New York
+  date: '2023-04-04'
+  tier: 2
+- title: Trump embraced at Mar-a-Lago after pleading not guilty to 34 felony counts
+  url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-indictment-live-updates-former-presidents-arraignment-expected-t-rcna77705
+  outlet: NBC News
+  date: '2023-04-04'
+  tier: 2
+notes: This marked the first time a former or sitting U.S. president appeared in criminal court as a defendant. Trump was fingerprinted but no mugshot was publicly released. He was released without bail.
 capture_lanes:
-  - Judiciary Capture
-  - Executive Power Expansion
-  - Accountability Evasion
+- Judicial Capture
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 Former President Donald Trump surrendered to Manhattan authorities and appeared in criminal court for arraignment on 34 felony counts, marking the first time in American history that a former or sitting president faced criminal charges in court. Trump pleaded not guilty to all counts and was released without bail following the 58-minute proceeding before Judge Juan Merchan.

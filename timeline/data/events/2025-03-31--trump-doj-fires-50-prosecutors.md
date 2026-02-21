@@ -22,8 +22,7 @@ sources:
   date: '2025-03-31'
 - date: '2025-03-14'
   outlet: PBS NewsHour
-  title: Justice Department says it has fired employees who worked on Trump criminal
-    cases
+  title: Justice Department says it has fired employees who worked on Trump criminal cases
   url: https://www.pbs.org/newshour/politics/justice-department-says-it-has-fired-employees-who-worked-on-trump-criminal-cases
 - date: '2025-03-15'
   outlet: NPR
@@ -33,7 +32,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Judicial Interference
+- Judicial Capture
 ---
 
 Trump administration continued systematic purge of Department of Justice personnel in March 2025, firing and demoting multiple prosecutors who previously investigated Trump or participated in high-profile cases. While initial reports suggested 50 total prosecutors were fired, verified sources indicate a more gradual process of removals targeting officials involved in Jan. 6 and Trump-related criminal investigations. Acting Attorney General James McHenry justified the actions by claiming these officials could not 'faithfully implement the President's agenda,' breaking decades of tradition protecting career prosecutors from political interference. The firings represent an unprecedented effort to reshape the Justice Department's leadership and potentially deter future investigations.

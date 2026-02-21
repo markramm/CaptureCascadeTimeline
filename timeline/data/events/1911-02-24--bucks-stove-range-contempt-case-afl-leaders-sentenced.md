@@ -1,7 +1,7 @@
 ---
 id: 1911-02-24--bucks-stove-range-contempt-case-afl-leaders-sentenced
 date: '1911-02-24'
-title: "Buck's Stove Case: Gompers, Mitchell, Morrison Sentenced for Contempt, Boycotts Criminalized"
+title: 'Buck''s Stove Case: Gompers, Mitchell, Morrison Sentenced for Contempt, Boycotts Criminalized'
 importance: 7
 actors:
 - Samuel Gompers
@@ -21,17 +21,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Buck%27s_Stove_and_Range_Co._v._American_Federation_of_Labor
   outlet: Wikipedia
   tier: 2
-- title: "Labor and the Law: The Danbury Hatters and Buck's Stove Cases"
+- title: 'Labor and the Law: The Danbury Hatters and Buck''s Stove Cases'
   url: https://www.law.cornell.edu/wex/labor
   outlet: Cornell Law School
   tier: 1
-- title: "Samuel Gompers and the Courts"
+- title: Samuel Gompers and the Courts
   url: https://aflcio.org/about/history/labor-history-people/samuel-gompers
   outlet: AFL-CIO
   tier: 2
 status: confirmed
 capture_lanes:
-- Legal Capture
+- Judicial Capture
 - Labor Suppression
 ---
 

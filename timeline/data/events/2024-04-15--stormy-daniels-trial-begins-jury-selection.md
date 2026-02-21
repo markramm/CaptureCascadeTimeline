@@ -4,43 +4,43 @@ date: '2024-04-15'
 title: First Criminal Trial of Former U.S. President Begins - Trump Faces 34 Felony Counts in Manhattan
 importance: 9
 actors:
-  - Donald Trump
-  - Juan Merchan
-  - Alvin Bragg
-  - Todd Blanche
-  - Susan Necheles
+- Donald Trump
+- Juan Merchan
+- Alvin Bragg
+- Todd Blanche
+- Susan Necheles
 tags:
-  - criminal-trial
-  - jury-selection
-  - hush-money
-  - accountability
+- criminal-trial
+- jury-selection
+- hush-money
+- accountability
 status: confirmed
 sources:
-  - title: Trump trial gets underway in New York with jury selection in historic case
-    url: https://www.cbsnews.com/news/trump-trial-begins-today-jury-selection/
-    outlet: CBS News
-    date: '2024-04-15'
-    tier: 2
-  - title: 'Day 1 of Trump New York hush money trial'
-    url: https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/index.html
-    outlet: CNN
-    date: '2024-04-15'
-    tier: 2
-  - title: The Latest | Trump arrives at court in New York for the start of jury selection in hush money trial
-    url: https://abcnews.go.com/Politics/wireStory/latest-trump-arrives-court-new-york-start-jury-109244603
-    outlet: ABC News
-    date: '2024-04-15'
-    tier: 2
-  - title: Takeaways from the final day of jury selection in Trump's historic hush money trial
-    url: https://www.cnn.com/2024/04/19/politics/takeaways-final-day-jury-selection-trump-hush-money-trial/index.html
-    outlet: CNN
-    date: '2024-04-19'
-    tier: 2
-notes: 'This was the first criminal trial of a former U.S. president in history. The trial began with jury selection and Trump was required to attend daily. A 12-person jury plus 6 alternates was seated by April 19.'
+- title: Trump trial gets underway in New York with jury selection in historic case
+  url: https://www.cbsnews.com/news/trump-trial-begins-today-jury-selection/
+  outlet: CBS News
+  date: '2024-04-15'
+  tier: 2
+- title: Day 1 of Trump New York hush money trial
+  url: https://www.cnn.com/politics/live-news/trump-hush-money-trial-04-15-24/index.html
+  outlet: CNN
+  date: '2024-04-15'
+  tier: 2
+- title: The Latest | Trump arrives at court in New York for the start of jury selection in hush money trial
+  url: https://abcnews.go.com/Politics/wireStory/latest-trump-arrives-court-new-york-start-jury-109244603
+  outlet: ABC News
+  date: '2024-04-15'
+  tier: 2
+- title: Takeaways from the final day of jury selection in Trump's historic hush money trial
+  url: https://www.cnn.com/2024/04/19/politics/takeaways-final-day-jury-selection-trump-hush-money-trial/index.html
+  outlet: CNN
+  date: '2024-04-19'
+  tier: 2
+notes: This was the first criminal trial of a former U.S. president in history. The trial began with jury selection and Trump was required to attend daily. A 12-person jury plus 6 alternates was seated by April 19.
 capture_lanes:
-  - Judiciary Capture
-  - Executive Power Expansion
-  - Accountability Evasion
+- Judicial Capture
+- Executive Power Expansion
+- Systematic Corruption
 ---
 
 The first criminal trial of a former U.S. president in American history began in Manhattan Criminal Court as jury selection commenced in the prosecution of Donald Trump on 34 felony counts of falsifying business records. Judge Juan Merchan presided over the historic proceedings as prosecutors from Manhattan District Attorney Alvin Bragg's office and Trump's defense team led by attorneys Todd Blanche and Susan Necheles began the process of selecting 12 jurors and six alternates who would decide Trump's fate.

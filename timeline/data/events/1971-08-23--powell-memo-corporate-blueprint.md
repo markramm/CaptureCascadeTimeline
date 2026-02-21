@@ -2,13 +2,8 @@
 id: 1971-08-23--powell-memo-corporate-blueprint
 date: '1971-08-23'
 importance: 9
-title: Lewis Powell Writes Landmark Memo Blueprinting Corporate Institutional Capture
-  Strategy
-academic_significance: The Powell Memo is considered a foundational text in political
-  science and organizational studies, exemplifying systematic institutional capture
-  strategy. Scholars have extensively analyzed its role in transforming corporate
-  political engagement, viewing it as a critical case study in how private interests
-  strategically reshape democratic institutions through long-term, coordinated efforts.
+title: Lewis Powell Writes Landmark Memo Blueprinting Corporate Institutional Capture Strategy
+academic_significance: The Powell Memo is considered a foundational text in political science and organizational studies, exemplifying systematic institutional capture strategy. Scholars have extensively analyzed its role in transforming corporate political engagement, viewing it as a critical case study in how private interests strategically reshape democratic institutions through long-term, coordinated efforts.
 location: Richmond, Virginia
 actors:
 - Lewis F. Powell Jr.
@@ -22,7 +17,7 @@ tags:
 - business-blueprint
 - democracy-capture
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - title: 'Memorandum: Attack On American Free Enterprise System'
   url: https://scholarlycommons.law.wlu.edu/powellmemo/
@@ -33,8 +28,7 @@ sources:
   archive_url: https://web.archive.org/web/20240101000000/https://scholarlycommons.law.wlu.edu/powellmemo/
   key_facts_confirmed:
   - Memo dated August 23, 1971
-  - Addressed to Eugene B. Sydnor Jr., Chair of Education Committee, U.S. Chamber
-    of Commerce
+  - Addressed to Eugene B. Sydnor Jr., Chair of Education Committee, U.S. Chamber of Commerce
   - Titled "Attack On American Free Enterprise System"
   - Written before Powell's Supreme Court nomination
 - title: 'The Lewis Powell Memo: A Corporate Blueprint to Dominate Democracy'
@@ -47,34 +41,21 @@ sources:
   outlet: Senator Sheldon Whitehouse
   date: '2022-01-01'
   verified: true
-- title: 'Institutional Capture and Corporate Strategy: The Powell Memorandum''s Long-Term
-    Impact'
+- title: 'Institutional Capture and Corporate Strategy: The Powell Memorandum''s Long-Term Impact'
   url: https://scholarlycommons.law.wlu.edu/powellmemo-analysis/
   outlet: Washington and Lee University Law Review
   date: '2022-06-15'
   type: Academic Publication
   verified: true
-  academic_context: Comprehensive scholarly analysis of the Powell Memo's systematic
-    approach to corporate political strategy, examining its role in reshaping institutional
-    power dynamics.
-- title: 'Corporate Power and Democratic Institutions: The Powell Memo as Institutional
-    Transformation Strategy'
+  academic_context: Comprehensive scholarly analysis of the Powell Memo's systematic approach to corporate political strategy, examining its role in reshaping institutional power dynamics.
+- title: 'Corporate Power and Democratic Institutions: The Powell Memo as Institutional Transformation Strategy'
   url: https://www.tandfonline.com/doi/abs/institutional-capture-powell-memo
   outlet: Journal of Political Science
   date: '2023-02-01'
   type: Peer-Reviewed Research
   verified: true
-  academic_context: Detailed political science research tracing the Powell Memo's
-    influence on conservative movement building and corporate political mobilization
-    strategies.
-notes: Memo remained confidential until leaked in 1972. Became blueprint for Heritage
-  Foundation, Cato Institute, American Enterprise Institute, ALEC, and modern conservative
-  movement. Powell's opening line- "No thoughtful person can question that the American
-  system is under broad attack." Key quote- "Political power is necessary; that such
-  power must be assiduously cultivated; and that when necessary, it must be used aggressively
-  and with determination." On courts- "The judiciary may be the most important instrument
-  for social, economic and political change." Two months after memo, Nixon nominated
-  Powell to implement his own vision from Supreme Court.
+  academic_context: Detailed political science research tracing the Powell Memo's influence on conservative movement building and corporate political mobilization strategies.
+notes: Memo remained confidential until leaked in 1972. Became blueprint for Heritage Foundation, Cato Institute, American Enterprise Institute, ALEC, and modern conservative movement. Powell's opening line- "No thoughtful person can question that the American system is under broad attack." Key quote- "Political power is necessary; that such power must be assiduously cultivated; and that when necessary, it must be used aggressively and with determination." On courts- "The judiciary may be the most important instrument for social, economic and political change." Two months after memo, Nixon nominated Powell to implement his own vision from Supreme Court.
 status: confirmed
 ---
 

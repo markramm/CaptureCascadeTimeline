@@ -32,6 +32,10 @@ connections: []
 contradictions: []
 verification_status: verified
 id: 1976-12-31--corporate-pac-explosion:-433-new-corporate-pacs-fo
+capture_lanes:
+- Judicial Capture
+- Corporate Capture
+- Systematic Corruption
 ---
 
 Following the Buckley v. Valeo decision, corporations rapidly established Political Action Committees to influence elections. The number of corporate PACs grew from 89 in 1974 to 1,206 by 1980 - a 1,254% increase. This represented a systematic corporate mobilization to capture political influence, transforming American electoral politics and laying groundwork for modern corporate capture of democratic institutions. The Supreme Court's ruling effectively protected political spending as free speech while allowing contribution limits, creating a legal framework that enabled unprecedented corporate political engagement.

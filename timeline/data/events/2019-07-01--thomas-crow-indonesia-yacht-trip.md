@@ -16,15 +16,14 @@ tags:
 - yacht-trips
 - international-travel
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - title: Clarence Thomas Acknowledges He Should Have Disclosed Free Trips
   url: https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
   outlet: ProPublica
   date: '2024-08-28'
   archive_url: https://web.archive.org/web/20240828000000/https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow
-- title: Justice Clarence Thomas formally reports trip to Bali paid for by conservative
-    donor
+- title: Justice Clarence Thomas formally reports trip to Bali paid for by conservative donor
   url: https://www.cnn.com/2024/06/07/politics/clarence-thomas-harlan-crow-bali/index.html
   outlet: CNN
   date: '2024-06-07'
@@ -39,8 +38,7 @@ sources:
   outlet: The Washington Post
   date: '2024-06-07'
   archive_url: https://web.archive.org/web/20240607000000/https://www.washingtonpost.com/politics/2024/06/07/supreme-court-financial-disclosures-gifts-thomas/
-notes: Trip included private jet travel and luxury yacht excursion. Thomas only acknowledged
-  after ProPublica reporting in 2024, claiming "inadvertent omission".
+notes: Trip included private jet travel and luxury yacht excursion. Thomas only acknowledged after ProPublica reporting in 2024, claiming "inadvertent omission".
 status: confirmed
 ---
 

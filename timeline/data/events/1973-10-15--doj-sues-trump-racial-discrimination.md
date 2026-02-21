@@ -30,6 +30,10 @@ sources:
   date: 2016-09-27
   tier: 1
   outlet: PolitiFact
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Civil Rights Suppression
 ---
 
 The U.S. Department of Justice filed a major civil rights lawsuit against Donald Trump, his father Fred Trump, and their real estate company, Trump Management Inc., for systematic racial discrimination in housing. The lawsuit, filed in U.S. District Court for the Eastern District of New York, accused the Trumps of violating the Fair Housing Act of 1968 across 39 apartment buildings in Brooklyn, Queens, and Staten Island.

@@ -4,48 +4,48 @@ date: '2023-08-01'
 title: Jack Smith Indicts Trump on 4 Federal Counts for January 6 Conspiracy to Overturn Election
 importance: 10
 actors:
-  - Donald Trump
-  - Jack Smith
-  - Mike Pence
-  - Rudy Giuliani
-  - John Eastman
-  - Sidney Powell
-  - Jeffrey Clark
+- Donald Trump
+- Jack Smith
+- Mike Pence
+- Rudy Giuliani
+- John Eastman
+- Sidney Powell
+- Jeffrey Clark
 tags:
-  - criminal-indictment
-  - january-6
-  - election-fraud
-  - fake-electors
-  - conspiracy
-  - accountability
+- criminal-indictment
+- january-6
+- election-fraud
+- fake-electors
+- conspiracy
+- accountability
 status: confirmed
 sources:
-  - title: 'Trump indicted by grand jury in special counsel Jack Smith''s Jan. 6 investigation'
-    url: https://www.cbsnews.com/news/trump-indicted-grand-jury-jan-6/
-    outlet: CBS News
-    date: '2023-08-01'
-    tier: 2
-  - title: 'Special counsel Jack Smith announces new Trump charges, calling Jan. 6 an "unprecedented assault"'
-    url: https://www.cbsnews.com/news/trump-indictment-jack-smith-statement-watch-live-stream-today-2023-08-01/
-    outlet: CBS News
-    date: '2023-08-01'
-    tier: 2
-  - title: Federal prosecution of Donald Trump (election obstruction case)
-    url: https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(election_obstruction_case)
-    outlet: Wikipedia
-    date: '2023-08-01'
-    tier: 3
-  - title: 'August 1, 2023 Trump indicted in special counsel''s 2020 election interference probe'
-    url: https://www.cnn.com/politics/live-news/trump-2020-election-probe-08-01-23/index.html
-    outlet: CNN
-    date: '2023-08-01'
-    tier: 2
-notes: 'This was Trump''s third criminal indictment in 2023, but the first federal indictment related to January 6 and attempts to overturn the 2020 election. The indictment detailed the fake electors scheme and pressure campaign on state officials and Mike Pence.'
+- title: Trump indicted by grand jury in special counsel Jack Smith's Jan. 6 investigation
+  url: https://www.cbsnews.com/news/trump-indicted-grand-jury-jan-6/
+  outlet: CBS News
+  date: '2023-08-01'
+  tier: 2
+- title: Special counsel Jack Smith announces new Trump charges, calling Jan. 6 an "unprecedented assault"
+  url: https://www.cbsnews.com/news/trump-indictment-jack-smith-statement-watch-live-stream-today-2023-08-01/
+  outlet: CBS News
+  date: '2023-08-01'
+  tier: 2
+- title: Federal prosecution of Donald Trump (election obstruction case)
+  url: https://en.wikipedia.org/wiki/Federal_prosecution_of_Donald_Trump_(election_obstruction_case)
+  outlet: Wikipedia
+  date: '2023-08-01'
+  tier: 3
+- title: August 1, 2023 Trump indicted in special counsel's 2020 election interference probe
+  url: https://www.cnn.com/politics/live-news/trump-2020-election-probe-08-01-23/index.html
+  outlet: CNN
+  date: '2023-08-01'
+  tier: 2
+notes: This was Trump's third criminal indictment in 2023, but the first federal indictment related to January 6 and attempts to overturn the 2020 election. The indictment detailed the fake electors scheme and pressure campaign on state officials and Mike Pence.
 capture_lanes:
-  - Judiciary Capture
-  - Executive Power Expansion
-  - Election Subversion
-  - Accountability Evasion
+- Judicial Capture
+- Executive Power Expansion
+- Electoral Manipulation
+- Systematic Corruption
 ---
 
 Special Counsel Jack Smith announced a federal grand jury indictment of former President Donald Trump on four criminal counts related to his efforts to overturn the 2020 election and his role in the January 6, 2021 attack on the U.S. Capitol. The indictment marked the most serious criminal charges ever filed against a former president, charging him with conspiracy to defraud the United States and conspiracy against the rights of citizens to have their votes counted.

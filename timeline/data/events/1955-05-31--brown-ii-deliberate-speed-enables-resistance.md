@@ -5,39 +5,39 @@ title: Brown II Orders Desegregation with "All Deliberate Speed," Enabling Decad
 importance: 8
 location: Washington, D.C.
 actors:
-  - Earl Warren
-  - U.S. Supreme Court
-  - NAACP Legal Defense Fund
-  - Thurgood Marshall
-  - Southern state governments
+- Earl Warren
+- U.S. Supreme Court
+- NAACP Legal Defense Fund
+- Thurgood Marshall
+- Southern state governments
 tags:
-  - civil-rights
-  - segregation
-  - judicial
-  - democratic-erosion
-  - massive-resistance
+- civil-rights
+- segregation
+- judicial
+- democratic-erosion
+- massive-resistance
 capture_lanes:
-  - Judicial Capture
-  - Policy Capture
+- Judicial Capture
+- Regulatory Capture
 sources:
-  - title: "Brown v. Board of Education II (1955)"
-    url: "https://www.oyez.org/cases/1940-1955/349us294"
-    outlet: "Oyez"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Brown II Implementation Decision"
-    url: "https://supreme.justia.com/cases/federal/us/349/294/"
-    outlet: "Justia"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Brown v. Board of Education and the Civil Rights Movement"
-    url: "https://www.archives.gov/education/lessons/brown-v-board"
-    outlet: "National Archives"
-    date: 2024-01-01
-    verified: true
-    tier: 2
+- title: Brown v. Board of Education II (1955)
+  url: https://www.oyez.org/cases/1940-1955/349us294
+  outlet: Oyez
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Brown II Implementation Decision
+  url: https://supreme.justia.com/cases/federal/us/349/294/
+  outlet: Justia
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Brown v. Board of Education and the Civil Rights Movement
+  url: https://www.archives.gov/education/lessons/brown-v-board
+  outlet: National Archives
+  date: 2024-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

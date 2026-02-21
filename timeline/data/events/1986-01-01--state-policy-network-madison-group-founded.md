@@ -16,22 +16,26 @@ actors:
 - South Carolina Policy Council
 - Heartland Institute
 sources:
-- title: 'State Policy Network'
+- title: State Policy Network
   url: https://en.wikipedia.org/wiki/State_Policy_Network
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Records Show State Policy Network Was Created by ALEC'
+- title: Records Show State Policy Network Was Created by ALEC
   url: https://progressive.org/latest/records-show-state-policy-network-created-alec/
   publication: The Progressive
   date: '2024-09-15'
   tier: 1
-- title: 'State Policy Network - SourceWatch'
+- title: State Policy Network - SourceWatch
   url: https://www.sourcewatch.org/index.php/State_Policy_Network
   publication: SourceWatch
   date: '2024-08-20'
   tier: 2
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Corporate Capture
 ---
 
 In 1986, the Madison Group was established as an informal confederation of state-level think tanks and their supporters, named after the Madison Hotel in Washington, DC where they first met. This network, which would be formalized as the State Policy Network (SPN) in 1992, represented the extension of Powell Memo infrastructure from federal to state level.

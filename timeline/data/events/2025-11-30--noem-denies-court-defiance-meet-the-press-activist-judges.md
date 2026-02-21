@@ -51,9 +51,9 @@ patterns:
 - authoritarian-propaganda
 notes: This represents an extraordinary escalation - a Cabinet secretary publicly denying established facts about court defiance on national television while facing criminal contempt proceedings. The DOJ had admitted in court filings just four days earlier (November 26) that Noem personally made the decision to continue deportation flights to El Salvador's CECOT prison after Judge Boasberg ordered the planes returned. Judge Boasberg is investigating whether to refer Noem and other officials for criminal prosecution. Noem's "activist judges" framing mirrors authoritarian rhetoric used to delegitimize judicial independence.
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Executive Power Expansion
-- Information Control
+- Media Capture & Control
 ---
 
 On November 30, 2025, Homeland Security Secretary Kristi Noem appeared on NBC's "Meet the Press" with Kristen Welker and publicly denied defying a federal court order—despite the Justice Department having admitted in court filings just four days earlier that she personally made the decision to continue deportation flights in defiance of Judge James Boasberg's order.

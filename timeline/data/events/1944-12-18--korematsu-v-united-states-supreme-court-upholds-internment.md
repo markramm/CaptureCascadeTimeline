@@ -39,8 +39,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- judicial-capture
-- civil-liberties
+- Judicial Capture
+- Civil Rights Suppression
 ---
 
 The Supreme Court rules 6-3 in Korematsu v. United States on December 18, 1944, upholding the constitutionality of Executive Order 9066 and the exclusion of Japanese Americans from the West Coast. Justice Hugo Black writes for the majority that military necessity during wartime justifies the mass incarceration of an entire ethnic group, including American citizens, without individual determinations of disloyalty.

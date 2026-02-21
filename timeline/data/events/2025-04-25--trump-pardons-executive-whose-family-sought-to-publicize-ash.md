@@ -39,7 +39,7 @@ patterns:
 notes: 'Additional context: Pardon demonstrates potential pay-to-play dynamics in Trump administration, with political donors receiving favorable treatment.'
 capture_lanes:
 - Executive Power Expansion
-- Judicial Influence
+- Judicial Capture
 ---
 
 President Trump pardoned Paul Walczak, a Florida healthcare executive convicted of $10.9 million in tax fraud, less than three weeks after his mother Elizabeth Fago attended a $1 million-per-plate Mar-a-Lago fundraiser. Fago was previously involved in efforts to publicize Ashley Biden's stolen diary during the 2020 campaign.

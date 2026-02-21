@@ -21,7 +21,7 @@ patterns: []
 related_events:
 - 2014-06-16--alito-votes-award-singer-2-4-billion
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 location: United States
 sources:
 - date: '2023-04-06'

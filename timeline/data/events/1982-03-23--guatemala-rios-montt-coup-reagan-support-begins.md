@@ -29,6 +29,10 @@ sources:
   date: 2013-05-13
   tier: 2
   outlet: ABC News
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 General Efraín Ríos Montt seizes power in Guatemala through a military coup, beginning what would become the bloodiest period in the nation's history. The Reagan administration, seeking regional allies for its covert war against Nicaragua's Sandinista government, immediately embraces the new military dictator despite clear evidence of massive human rights violations.

@@ -26,8 +26,8 @@ tags:
 - constitutional-crisis
 - transparency-failure
 capture_lanes:
-- Judicial Capture & Corruption
-- Corporate Capture & Regulatory Breakdown
+- Judicial Capture
+- Regulatory Capture
 sources:
 - title: Democratic lawmakers sue over ICE's new policy limiting access to detention centers
   url: https://www.cnn.com/2025/07/30/politics/democrats-sue-ice-detention-center-access

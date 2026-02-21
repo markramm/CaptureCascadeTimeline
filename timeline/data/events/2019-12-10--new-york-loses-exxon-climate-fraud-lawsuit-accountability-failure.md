@@ -38,9 +38,8 @@ sources:
   outlet: Wikipedia
 status: confirmed
 capture_lanes:
-- Legal System Capture
-- Corporate Accountability Failure
-- Judicial Outcomes
+- Judicial Capture
+- Corporate Capture
 ---
 
 On December 10, 2019, Justice Barry Ostrager of the New York State Supreme Court ruled that New York Attorney General Letitia James "failed to prove by a preponderance of the evidence that ExxonMobil made any material misrepresentations" regarding climate change risks to investors. The decision dismissed New York's landmark lawsuit filed in October 2018, which accused ExxonMobil of defrauding investors by misleading them about financial risks the company faced from climate change regulations. The verdict represented a major accountability failure despite documentary evidence from the #ExxonKnew investigations showing the company's decades of climate science knowledge and subsequent denial funding.

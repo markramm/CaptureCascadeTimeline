@@ -26,10 +26,10 @@ tags:
 - mid-decade-redistricting
 - congressional-districts
 capture_lanes:
-- Supreme Court Capture
-- Voting Rights Erosion
-- Democratic Norms Erosion
-- Racial Justice Rollback
+- Judicial Capture
+- Electoral Manipulation
+- Democratic Erosion
+- Civil Rights Suppression
 sources:
 - title: Supreme Court allows Texas to use redistricting map challenged as racially discriminatory
   url: https://www.scotusblog.com/2025/12/supreme-court-allows-texas-to-use-redistricting-map-challenged-as-racially-discriminatory/

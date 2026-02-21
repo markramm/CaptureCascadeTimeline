@@ -17,7 +17,7 @@ tags:
 - undisclosed-gifts
 - propublica
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - title: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor
   url: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow

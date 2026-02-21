@@ -27,6 +27,10 @@ sources:
   date: '2023-12-20'
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Electoral Manipulation
 ---
 
 By 2000, the Council for National Policy had established deep coordination with the Federalist Society through overlapping membership and shared strategy sessions, with Leonard Leo serving as a member of both organizations and coordinating judicial selection strategy across the conservative network.

@@ -31,6 +31,8 @@ sources:
   outlet: Asian Law Caucus
   date: '2026-01-29'
   tier: 2
+capture_lanes:
+- Judicial Capture
 ---
 
 The Supreme Court announced it will hear oral arguments on April 1, 2026, in Trump v. Barbara, the constitutional challenge to President Trump's executive order ending birthright citizenship for children born in the United States to parents present temporarily or without lawful status. The case, granted certiorari before judgment on December 5, 2025, represents one of the most consequential constitutional questions of the term, potentially affecting an estimated 150,000 children born annually.

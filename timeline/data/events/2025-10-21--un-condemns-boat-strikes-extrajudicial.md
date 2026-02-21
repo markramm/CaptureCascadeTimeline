@@ -26,6 +26,10 @@ actors:
 - United Nations
 - Volker Türk
 - UN Human Rights Council
+capture_lanes:
+- Judicial Capture
+- Intelligence Penetration
+- Military-Industrial Complex
 ---
 
 United Nations human rights experts issued a statement condemning US military strikes on vessels in the Caribbean as extrajudicial executions violating international law. The experts stated: 'Use of lethal force in international waters without proper legal basis violates the international law of the sea and amounts to extrajudicial executions.' They noted that 'International law does not allow governments to simply murder alleged drug traffickers.' UN High Commissioner for Human Rights Volker Türk called the strikes 'unacceptable' and demanded they stop, warning they 'violate international human rights law' regardless of criminal conduct alleged against victims. The UN emphasized that intentional lethal force is only permissible as a last resort against imminent threats to life.

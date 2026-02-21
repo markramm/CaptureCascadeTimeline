@@ -52,6 +52,10 @@ actors:
 - Representative Adam Smith
 - Senator Tom Cotton
 - Donald Trump
+capture_lanes:
+- Judicial Capture
+- Legislative Capture
+- Labor Suppression
 ---
 
 On December 4, 2025, Admiral Frank "Mitch" Bradley, commander of U.S. Special Operations Command, provided classified congressional testimony that fundamentally contradicted the Trump administration's justification for the September 2 Caribbean boat strikes that killed 11 people, including two shipwrecked survivors executed in a follow-up attack. Bradley revealed that the targeted vessel was heading to Suriname—where drug routes lead to Europe, not the United States—and that video evidence shows survivors waving their arms and looking skyward before being killed in a second strike. Defense Secretary Pete Hegseth has refused to release the full video evidence despite bipartisan congressional demands, triggering legislative action to withhold portions of his travel budget until the footage is disclosed.

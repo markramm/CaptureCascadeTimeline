@@ -1,7 +1,7 @@
 ---
 id: 1908-01-27--adair-v-united-states-yellow-dog-contracts-upheld
 date: '1908-01-27'
-title: "Adair v. United States: Supreme Court Strikes Down Federal Ban on Yellow-Dog Contracts"
+title: 'Adair v. United States: Supreme Court Strikes Down Federal Ban on Yellow-Dog Contracts'
 importance: 7
 actors:
 - Supreme Court of the United States
@@ -23,13 +23,13 @@ sources:
   url: https://www.oyez.org/cases/1900-1940/208us161
   outlet: Oyez
   tier: 1
-- title: "Yellow Dog Contracts and Labor Injunctions"
+- title: Yellow Dog Contracts and Labor Injunctions
   url: https://www.law.cornell.edu/wex/yellow_dog_contract
   outlet: Cornell Law School
   tier: 1
 status: confirmed
 capture_lanes:
-- Legal Capture
+- Judicial Capture
 - Labor Suppression
 ---
 

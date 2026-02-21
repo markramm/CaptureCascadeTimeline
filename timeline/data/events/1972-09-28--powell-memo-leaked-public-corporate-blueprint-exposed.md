@@ -14,7 +14,7 @@ tags:
 - institutional-capture
 - media-exposure
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 - Corporate Capture
 sources:
 - title: 'The Powell Memo: A Call-to-Arms for Corporations'

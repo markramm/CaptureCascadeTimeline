@@ -29,6 +29,10 @@ sources:
   date: 2002-06-15
   tier: 1
   outlet: Britannica
+capture_lanes:
+- Judicial Capture
+- Corporate Capture
+- Systematic Corruption
 ---
 
 On June 15, 2002, a federal jury convicted Arthur Andersen LLP of obstruction of justice for shredding thousands of Enron-related documents. The verdict effectively destroyed one of the world's most prestigious accounting firms, eliminating 85,000 jobs globally and marking the last time a major corporation faced existential consequences for complicity in fraud.

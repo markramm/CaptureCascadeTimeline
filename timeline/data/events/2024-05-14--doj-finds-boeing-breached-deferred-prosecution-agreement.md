@@ -32,9 +32,8 @@ tags:
 - breach
 status: confirmed
 capture_lanes:
-- Deferred Prosecution Failure
-- DOJ Ineffectiveness
-- Corporate Recidivism
+- Judicial Capture
+- Corporate Capture
 ---
 
 The Department of Justice notified Boeing and the federal court that Boeing breached its January 2021 deferred prosecution agreement by failing to maintain the required compliance and ethics program. The finding came after the January 5, 2024 Alaska Airlines door plug blowout revealed that Boeing had not implemented the safety and quality control reforms required by the DPA. The DOJ determined that Boeing violated multiple provisions of the agreement "by failing to design, implement, and enforce a compliance and ethics program to prevent and detect violations of the U.S. fraud laws throughout its operations."

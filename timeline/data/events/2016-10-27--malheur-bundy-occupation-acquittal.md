@@ -1,8 +1,7 @@
 ---
 id: 2016-10-27--malheur-bundy-occupation-acquittal
 date: '2016-10-27'
-title: Federal Jury Acquits Bundy Brothers and Five Others for Armed Occupation of
-  Malheur Wildlife Refuge
+title: Federal Jury Acquits Bundy Brothers and Five Others for Armed Occupation of Malheur Wildlife Refuge
 importance: 8
 location: Portland, Oregon
 actors:
@@ -35,8 +34,7 @@ sources:
   date: '2016-10-27'
   verified: true
   tier: 1
-- title: Final Defendant Sentenced for Armed Takeover of Malheur National Wildlife
-    Refuge
+- title: Final Defendant Sentenced for Armed Takeover of Malheur National Wildlife Refuge
   url: https://www.justice.gov/usao-or/pr/final-defendant-sentenced-armed-takeover-malheur-national-wildlife-refuge
   outlet: U.S. Department of Justice
   date: '2017-05-01'
@@ -63,16 +61,15 @@ sources:
   outlet: Washington Times
   date: '2024-04-26'
   archive_url: https://web.archive.org/web/20240426000000/https://www.washingtontimes.com/news/2024/apr/26/banker-gary-farro-testifies-about-urgent-request-m/
-- title: Trump hush money trial highlights - Michael Cohen testifies about directed
-    payment
+- title: Trump hush money trial highlights - Michael Cohen testifies about directed payment
   url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
   outlet: NBC News
   date: '2024-05-13'
   archive_url: https://web.archive.org/web/20240513000000/https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
 status: confirmed
 capture_lanes:
-- Selective Prosecution
-- Institutional Failure
+- Judicial Capture
+- Systematic Corruption
 ---
 
 

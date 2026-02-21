@@ -25,6 +25,10 @@ actors:
 - US Military
 - US Coast Guard
 - SOUTHCOM
+capture_lanes:
+- Judicial Capture
+- Military-Industrial Complex
+- Labor Suppression
 ---
 
 US military forces struck a three-vessel convoy in the Eastern Pacific Ocean approximately 400 nautical miles southwest of the Mexico-Guatemala border, killing at least 11 people. An unknown number of people jumped overboard from two vessels before they were sunk. The Coast Guard launched a search and rescue operation covering over 1,000 nautical miles in 9-foot seas and 40-knot winds. After 65+ hours, the search was suspended on January 2, 2026 with no survivors found—all were presumed dead. Critics noted the pattern of strikes leaving survivors to drown in deadly conditions, following the controversy over the September 2 'double tap' strike. The Intercept reported the death toll was initially undercounted by the military.

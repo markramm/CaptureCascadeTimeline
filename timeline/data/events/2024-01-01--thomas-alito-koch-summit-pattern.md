@@ -17,7 +17,7 @@ tags:
 - donor-summits
 - systematic-corruption
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - title: Durbin calls for Thomas recusal from Loper Bright
   url: https://www.judiciary.senate.gov/press/dem/releases/durbin-statement-on-supreme-court-ruling-in-chevron-deference-cases-failure-of-justice-thomas-to-recuse

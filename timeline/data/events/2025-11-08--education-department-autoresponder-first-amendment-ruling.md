@@ -26,6 +26,10 @@ sources:
   url: https://thehill.com/regulation/court-battles/5596030-trump-administration-first-amendment-ruling/
   tier: 2
   outlet: The Hill
+capture_lanes:
+- Judicial Capture
+- Federal Workforce Capture
+- Intelligence Penetration
 ---
 
 U.S. District Judge Christopher Cooper ruled that the Trump administration violated the First Amendment by commandeering Education Department employees' email accounts to send partisan messages blaming Democrats for the government shutdown. The automated responses stated that the House passed a continuing resolution on September 19, 2025, but "Democrat Senators are blocking passage," leading to furlough status. Multiple employees told NPR they did not write the message and were not informed it would replace their personalized out-of-office notices, discovering the partisan language only when constituents and colleagues received the politically charged auto-replies from their official government email accounts.

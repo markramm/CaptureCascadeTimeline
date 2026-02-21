@@ -25,11 +25,10 @@ tags:
 - merit systems protection board
 - special counsel
 capture_lanes:
-- Judicial Independence Under Attack
-- First Amendment Violations
-- Executive Overreach
-- Civil Service Protections Dismantled
-- Checks and Balances
+- Judicial Capture
+- Executive Power Expansion
+- Federal Workforce Capture
+- Democratic Erosion
 sources:
 - title: Supreme Court rejects Trump administration's request in dispute over immigration judges
   url: https://www.scotusblog.com/2025/12/supreme-courts-rejects-trump-administrations-request-in-dispute-over-immigration-judges/

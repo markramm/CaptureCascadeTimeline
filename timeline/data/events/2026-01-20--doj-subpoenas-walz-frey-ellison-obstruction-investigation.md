@@ -41,8 +41,8 @@ sources:
   date: '2026-01-25'
   tier: 2
 capture_lanes:
-- DOJ Capture
-- Constitutional & Democratic Breakdown
+- Judicial Capture
+- Democratic Erosion
 ---
 
 The Department of Justice served grand jury subpoenas to Minnesota Governor Tim Walz, Minneapolis Mayor Jacob Frey, Attorney General Keith Ellison, St. Paul Mayor Kaohly Her, and officials from Hennepin and Ramsey Counties, escalating a criminal investigation into whether their public criticism of ICE operations constituted obstruction of federal law enforcement.

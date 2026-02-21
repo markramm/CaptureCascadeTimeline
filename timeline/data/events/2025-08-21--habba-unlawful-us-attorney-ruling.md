@@ -27,6 +27,8 @@ sources:
   title: Judge rules Alina Habba unlawfully serving as US attorney for New Jersey
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Judicial Capture
 ---
 
 Federal Judge Matthew Brann ruled that Trump lawyer Alina Habba has been exercising the functions and duties of U.S. Attorney for the District of New Jersey without lawful authority since July 1, 2025. After the Senate failed to confirm Habba before her 120-day interim appointment expired, a panel of federal judges appointed Assistant U.S. Attorney Desiree Leigh Grace as temporary U.S. attorney per federal law. However, the Justice Department fired Grace within hours, and the White House withdrew Habba's nomination to allow her to continue serving as acting U.S. attorney. The court found that the Trump administration violated the Federal Vacancies Reform Act through a 'novel series of legal and personnel moves' designed to circumvent Senate confirmation requirements. The ruling represents a significant check on executive power to bypass constitutional appointment procedures, though the DOJ has appealed the decision.

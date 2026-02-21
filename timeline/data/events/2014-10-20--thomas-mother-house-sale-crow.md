@@ -17,16 +17,14 @@ tags:
 - financial-corruption
 - family-benefits
 capture_lanes:
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
-- title: Harlan Crow Bought Property from Clarence Thomas. The Justice Didn't Disclose
-    the Deal
+- title: Harlan Crow Bought Property from Clarence Thomas. The Justice Didn't Disclose the Deal
   url: https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus
   outlet: ProPublica
   date: '2023-04-13'
   archive_url: https://web.archive.org/web/20230413000000/https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus
-- title: Justice Clarence Thomas failed to disclose 2014 real estate deal with GOP
-    megadonor
+- title: Justice Clarence Thomas failed to disclose 2014 real estate deal with GOP megadonor
   url: https://www.cnn.com/2023/04/13/politics/clarence-thomas-harlan-crow-real-estate-deal/index.html
   outlet: CNN
   date: '2023-04-13'
@@ -41,9 +39,7 @@ sources:
   outlet: The Daily Beast
   date: '2023-04-13'
   archive_url: https://web.archive.org/web/20230413000000/https://www.thedailybeast.com/supreme-court-justice-clarence-thomas-secretly-sold-property-to-harlan-crow-report-says
-notes: Crow continues to own the house where Thomas's 94-year-old mother lives. Crow
-  Holdings pays $1,500 annual property taxes. Transaction never disclosed on financial
-  forms.
+notes: Crow continues to own the house where Thomas's 94-year-old mother lives. Crow Holdings pays $1,500 annual property taxes. Transaction never disclosed on financial forms.
 status: confirmed
 ---
 

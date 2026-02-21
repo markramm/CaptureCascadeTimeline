@@ -45,9 +45,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- judicial-warfare
-- healthcare-sabotage
-- republican-litigation-strategy
+- Judicial Capture
+- Regulatory Capture
 ---
 
 Twenty Republican state attorneys general and governors, led by Texas, filed Texas v. Azar (later California v. Texas) in federal district court, arguing that the Tax Cuts and Jobs Act's zeroing of the individual mandate penalty rendered the entire Affordable Care Act unconstitutional. The states included Alabama, Arizona, Arkansas, Florida, Georgia, Indiana, Kansas, Louisiana, Mississippi, Missouri, Nebraska, North Dakota, South Carolina, South Dakota, Tennessee, Texas, Utah, West Virginia, Wisconsin, and Maine Governor Paul LePage. Their legal theory: since the Supreme Court's 2012 NFIB v. Sebelius decision upheld the mandate only under Congress's taxing power, eliminating the tax made the requirement unconstitutional, and the mandate was not severable from the rest of the law. On December 14, 2018—the last day of 2019 open enrollment—Judge Reed O'Connor (Northern District of Texas) sided with the states, striking down the entire ACA. California led 20 states defending the law and appealed to the Fifth Circuit, which upheld the mandate's unconstitutionality but questioned severability. The Supreme Court consolidated the case and heard oral arguments November 10, 2020. On June 17, 2021, the Court ruled 7-2 that Texas and the challenging states lacked standing because they showed no injury from the unenforceable mandate, dismissing the case without addressing constitutionality. This marked the third Supreme Court survival of the ACA (2012, 2015, 2021). The lawsuit threatened healthcare coverage for tens of millions, protections for pre-existing conditions, Medicaid expansion, dependent coverage to age 26, and essential health benefits—demonstrating how Republican officials weaponized litigation to accomplish through courts what they failed to achieve legislatively.

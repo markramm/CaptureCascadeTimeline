@@ -2,9 +2,7 @@
 id: 2025-06-10--justice-dept-to-take-narrow-approach-to-prosecuting-corporat
 date: '2025-06-10'
 title: Justice Dept. Issues Narrow Guidelines for Prosecuting Corporate Bribery Abroad
-description: On June 9, 2025, the DOJ issued new FCPA enforcement guidelines that
-  systematically reduce prosecutorial scope, prioritizing cases with identifiable
-  harm to US companies and national security sectors.
+description: On June 9, 2025, the DOJ issued new FCPA enforcement guidelines that systematically reduce prosecutorial scope, prioritizing cases with identifiable harm to US companies and national security sectors.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -26,8 +24,7 @@ sources:
   url: https://corpgov.law.harvard.edu/2025/06/25/doj-resumes-fcpa-enforcement-with-new-guidelines/
   outlet: Harvard Corporate Governance
   date: '2025-06-09'
-- title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic
-    and National Security
+- title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic and National Security
   url: https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
   outlet: The White House
   date: '2025-02-10'
@@ -41,11 +38,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - institutional-transformation
-notes: Represents a substantial shift in DOJ's approach to investigating and prosecuting
-  foreign corporate bribery under the Trump administration.
+notes: Represents a substantial shift in DOJ's approach to investigating and prosecuting foreign corporate bribery under the Trump administration.
 capture_lanes:
 - Regulatory Capture
-- Justice System Capture
+- Judicial Capture
 ---
 
 DOJ under the Trump administration has significantly reduced foreign corporate bribery investigations, closing about half of open cases and focusing narrowly on misconduct that directly harms US economic and national security interests.

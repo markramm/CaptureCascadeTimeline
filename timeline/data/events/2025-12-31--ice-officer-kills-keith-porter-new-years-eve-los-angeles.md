@@ -26,6 +26,9 @@ actors:
 - Immigration and Customs Enforcement (ICE)
 - DHS (Department of Homeland Security)
 - LAPD
+capture_lanes:
+- Judicial Capture
+- Civil Rights Suppression
 ---
 
 Keith Porter, a 43-year-old father of two, was shot and killed by an off-duty ICE Enforcement and Removal Operations officer in Northridge, Los Angeles on New Year's Eve. Porter was reportedly firing a rifle into the air to celebrate the holiday around 10:45 PM when the off-duty agent, who lived in a nearby apartment, confronted him. DHS claimed Porter 'refused to comply' and fired at the officer, who then retrieved his ICE-issued body armor before returning to shoot Porter with his service weapon. The family's attorney disputed this account, stating neighbors did not hear the agent identify himself as law enforcement. Advocates argued the off-duty agent should have called police rather than engaging directly. The shooting occurred approximately 130-150 miles from the US-Mexico border, raising questions about ICE's expanding geographic footprint in American communities. LAPD's Robbery-Homicide Division, the FBI, and Homeland Security Investigations are investigating, while the LA County District Attorney reviews whether the agent acted lawfully.

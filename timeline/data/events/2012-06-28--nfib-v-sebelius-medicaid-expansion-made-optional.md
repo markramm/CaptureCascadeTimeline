@@ -40,9 +40,9 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- judicial-capture
-- institutional-capture
-- healthcare-sabotage
+- Judicial Capture
+- Democratic Erosion
+- Regulatory Capture
 ---
 
 The U.S. Supreme Court ruled 7-2 in National Federation of Independent Business v. Sebelius that the Affordable Care Act's mandatory Medicaid expansion was unconstitutionally coercive, making it optional for states. While Chief Justice John Roberts upheld the individual mandate as a valid exercise of taxing power (5-4), the Court found that conditioning all existing Medicaid funding on states accepting the expansion amounted to coercion that left states with no genuine choice. The ruling allowed states to reject federal funding covering 100% of expansion costs (2014-2016) declining to 90% permanently—free money to cover low-income residents up to 138% of the federal poverty level. Twenty-one states immediately opted out, 17 led by Republican governors, creating a 'coverage gap' where millions of Americans earned too much for traditional Medicaid but too little for ACA subsidies. This partisan rejection of expansion left 1.4 million people uninsured in the 10 remaining non-expansion states as of 2024 (Alabama, Florida, Georgia, Kansas, Mississippi, South Carolina, Tennessee, Texas, Wisconsin, Wyoming), with 60% being people of color. The decision transformed the ACA from universal coverage legislation into a two-tier system where healthcare access depends on state politics, demonstrating how judicial decisions enable systematic obstruction of federal programs designed to serve the poor.

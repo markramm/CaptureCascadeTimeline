@@ -23,6 +23,10 @@ sources:
   date: '2021-10-25'
   tier: 1
 status: confirmed
+capture_lanes:
+- Judicial Capture
+- Labor Suppression
+- Legislative Capture
 ---
 
 By 1985, the Council for National Policy had established its operational model of meeting three times yearly behind closed doors at undisclosed locations for confidential conferences, creating a regular rhythm for conservative movement coordination that would persist for four decades.

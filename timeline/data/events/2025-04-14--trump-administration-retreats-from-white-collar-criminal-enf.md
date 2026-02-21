@@ -2,11 +2,7 @@
 id: 2025-04-14--trump-administration-retreats-from-white-collar-criminal-enf
 date: '2025-04-14'
 title: Trump Administration Restructures White-Collar Crime Enforcement Strategy
-description: The Department of Justice initiated a comprehensive restructuring of
-  white-collar crime enforcement, implementing a new strategy that focuses on 10 high-impact
-  priority areas while simultaneously reducing overall investigative resources. The
-  DOJ Criminal Division issued nuanced guidance emphasizing targeted, efficient prosecutions
-  with a focus on specific high-impact white-collar crime domains.
+description: The Department of Justice initiated a comprehensive restructuring of white-collar crime enforcement, implementing a new strategy that focuses on 10 high-impact priority areas while simultaneously reducing overall investigative resources. The DOJ Criminal Division issued nuanced guidance emphasizing targeted, efficient prosecutions with a focus on specific high-impact white-collar crime domains.
 actors:
 - Donald Trump
 - Trump Administration
@@ -38,8 +34,7 @@ sources:
   outlet: DLA Piper
   title: DOJ Guidance on White-Collar Enforcement Priorities and Policies
   url: https://www.dlapiper.com/en/insights/publications/2025/05/doj-guidance-on-white-collar-enforcement-priorities-and-policies
-  description: Detailed analysis of DOJ's 10 high-impact enforcement areas and policy
-    shifts in white-collar crime investigations
+  description: Detailed analysis of DOJ's 10 high-impact enforcement areas and policy shifts in white-collar crime investigations
 connections:
 - Systematic reduction of federal law enforcement oversight
 - Shift in DOJ priorities towards targeted, efficient enforcement
@@ -47,12 +42,10 @@ patterns:
 - kleptocratic-capture
 - institutional-transformation
 status: confirmed
-notes: Comprehensive DOJ policy changes represent a nuanced shift in white-collar
-  crime enforcement approach, focusing on targeted high-impact areas with reduced
-  overall investigative resources.
+notes: Comprehensive DOJ policy changes represent a nuanced shift in white-collar crime enforcement approach, focusing on targeted high-impact areas with reduced overall investigative resources.
 capture_lanes:
 - Systematic Corruption
-- Legal System Manipulation
+- Judicial Capture
 ---
 
 The Department of Justice announced a strategic realignment of white-collar crime enforcement, introducing a new framework with 10 targeted priority areas. While not a complete reduction, the policy involves resource constraints, shifting investigative focus, and implementing more efficient prosecution strategies. Key changes include a narrower enforcement scope, potential for reduced corporate penalties, and an 'America First' economic approach.
