@@ -28,7 +28,7 @@ sources:
   type: historical source
 capture_lanes:
 - Systematic Corruption
-- Financial Engineering
+- Financial Capture
 status: confirmed
 ---
 

@@ -28,6 +28,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Labor Suppression
+- Regulatory Capture
 ---
 
 A Government Accountability Office investigation released on August 4, 2010, exposed systemic fraud and deceptive practices across the for-profit college industry, revealing that while these institutions enrolled only 10-12% of all higher education students, they received 25% of all federal financial aid—approximately $32 billion annually in taxpayer funds. The GAO's undercover testing of 15 for-profit colleges found that all 15 engaged in deceptive practices and four engaged in outright fraud.

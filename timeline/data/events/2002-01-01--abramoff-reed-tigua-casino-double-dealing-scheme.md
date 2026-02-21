@@ -31,7 +31,7 @@ priority_id: RT-EXP-95366B7D-jack-abramoff-indian-casino-network
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture
-- Financial Exploitation
+- Financial Capture
 ---
 
 Jack Abramoff and Ralph Reed executed a sophisticated multi-stage scam against the Tigua Tribal Nation, first coordinating to close their El Paso casino through targeted religious opposition, then charging the tribe $4.2 million to lobby for its reopening. Century Strategies, Reed's firm, led Christian conservative groups to oppose gambling, while Abramoff simultaneously manipulated both the religious groups and the tribe for maximum financial gain. The scheme demonstrates a cynical exploitation of political and religious networks for personal profit.

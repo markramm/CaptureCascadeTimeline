@@ -17,24 +17,24 @@ tags:
 - regulatory-capture
 - housing
 sources:
-- title: 'Riegle-Neal Interstate Banking and Branching Efficiency Act'
+- title: Riegle-Neal Interstate Banking and Branching Efficiency Act
   outlet: Federal Reserve History
   url: https://www.federalreservehistory.org/essays/riegle-neal-act
   tier: 1
   verified: true
-- title: 'Interstate Banking After Riegle-Neal'
+- title: Interstate Banking After Riegle-Neal
   outlet: Federal Reserve Bank of St. Louis
   url: https://www.stlouisfed.org/publications/regional-economist/january-1995/interstate-banking-after-riegleal
   tier: 1
   verified: true
-- title: 'The Effects of Bank Mergers and Acquisitions on Small Business Lending'
+- title: The Effects of Bank Mergers and Acquisitions on Small Business Lending
   outlet: Journal of Financial Economics
   url: https://www.sciencedirect.com/science/article/abs/pii/S0304405X98000470
   tier: 1
   verified: true
 capture_lanes:
-- Financial Regulatory Capture
-- Industry Consolidation
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

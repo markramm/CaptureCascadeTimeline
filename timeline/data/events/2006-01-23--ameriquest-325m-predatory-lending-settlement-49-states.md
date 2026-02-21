@@ -16,24 +16,24 @@ tags:
 - consumer-protection
 - housing
 sources:
-- title: 'Attorney General Lockyer Announces $325 Million Settlement with Ameriquest'
+- title: Attorney General Lockyer Announces $325 Million Settlement with Ameriquest
   outlet: California Department of Justice
   url: https://oag.ca.gov/news/press-releases/attorney-general-lockyer-announces-325-million-settlement-ameriquest-resolve
   tier: 1
   verified: true
-- title: 'Ameriquest to Pay $325 Million in Nationwide Settlement'
+- title: Ameriquest to Pay $325 Million in Nationwide Settlement
   outlet: Connecticut Department of Banking
   url: https://portal.ct.gov/dob/newsroom/2006/ameriquest-to-pay-$325-million-in-nationwide-settlement
   tier: 1
   verified: true
-- title: 'Ameriquest Will Pay $325 Million and Reform its Lending Practices'
+- title: Ameriquest Will Pay $325 Million and Reform its Lending Practices
   outlet: Delaware State News
   url: https://news.delaware.gov/2006/01/23/ameriquest-will-pay-325-million-and-reform-its-lending-practices-to-resolve-states-investigations/
   tier: 1
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

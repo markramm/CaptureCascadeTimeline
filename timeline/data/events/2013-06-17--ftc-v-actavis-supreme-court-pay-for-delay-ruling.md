@@ -40,6 +40,10 @@ actors:
 - Watson Pharmaceuticals
 - Big Pharma
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Judicial Capture
 ---
 
 The Supreme Court ruled 5-3 in FTC v. Actavis that the Federal Trade Commission could bring antitrust challenges against "pay-for-delay" agreements where brand-name drug manufacturers pay generic competitors to delay bringing cheaper alternatives to market. The decision reversed lower court rulings that had granted these anticompetitive settlements immunity from antitrust scrutiny as long as they fell within the "scope of the patent." FTC analysis estimated these collusive settlements cost American consumers and taxpayers $3.5 billion annually in higher drug costs—$35 billion over ten years—making this one of the most financially significant antitrust decisions in modern history.

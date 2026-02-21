@@ -2,10 +2,7 @@
 id: 2025-03-31--trump-family-to-launch-us-bitcoin-mining-venture-with-hut-8
 date: '2025-03-31'
 title: Trump Family Launches American Bitcoin Corp. with Hut 8
-description: Trump-affiliated investors, including Eric Trump and Donald Trump Jr.,
-  launch American Bitcoin Corp. in partnership with Hut 8, a Canadian Bitcoin mining
-  firm. The venture aims to build a substantial Bitcoin mining operation, with Hut
-  8 holding 80% ownership and the Trump family holding a significant minority stake.
+description: Trump-affiliated investors, including Eric Trump and Donald Trump Jr., launch American Bitcoin Corp. in partnership with Hut 8, a Canadian Bitcoin mining firm. The venture aims to build a substantial Bitcoin mining operation, with Hut 8 holding 80% ownership and the Trump family holding a significant minority stake.
 status: confirmed
 importance: 8
 location: Miami, Florida
@@ -43,9 +40,8 @@ patterns:
 - crypto-infrastructure
 capture_lanes:
 - Systematic Corruption
-- Financial Networks
-notes: Event tracked as part of comprehensive kleptocracy timeline. Represents potential
-  conflict of interest and monetization of political position.
+- Financial Capture
+notes: Event tracked as part of comprehensive kleptocracy timeline. Represents potential conflict of interest and monetization of political position.
 ---
 
 The Trump family partners with Hut 8 Corp. to launch American Bitcoin Corp., a new Bitcoin mining venture aimed at becoming a leading strategic Bitcoin mining and reserve company. Eric Trump serves as co-founder and chief strategy officer, with the company targeting a Nasdaq listing and expansive mining infrastructure.

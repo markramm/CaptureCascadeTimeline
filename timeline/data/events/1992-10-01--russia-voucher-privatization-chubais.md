@@ -1,8 +1,7 @@
 ---
 id: 1992-10-01--russia-voucher-privatization-chubais
 date: '1992-10-01'
-title: 'Russia Begins Mass Voucher Privatization: 148 Million Citizens Given Certificates
-  Worth ''Two Volga Cars'' That Become Worthless'
+title: 'Russia Begins Mass Voucher Privatization: 148 Million Citizens Given Certificates Worth ''Two Volga Cars'' That Become Worthless'
 importance: 9
 actors:
 - Anatoly Chubais
@@ -24,8 +23,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Privatization_in_Russia
   outlet: Wikipedia
   tier: 2
-- title: How privatization changed the Soviet economy 30 years ago and created the
-    first oligarchs
+- title: How privatization changed the Soviet economy 30 years ago and created the first oligarchs
   url: https://www.gw2ru.com/business/3614-how-privatization-changed-soviet-economy
   outlet: GW2
   tier: 2
@@ -54,7 +52,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

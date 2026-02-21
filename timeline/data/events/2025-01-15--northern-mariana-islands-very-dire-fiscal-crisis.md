@@ -15,8 +15,7 @@ tags:
 - pension-insolvency
 - tourism-collapse
 capture_lanes:
-- Economic Exploitation
-- Colonial Administration
+- Financial Capture
 sources:
 - title: U.S. Territories Public Debt and Economic Outlook 2025 Update
   url: https://www.gao.gov/products/gao-25-107560

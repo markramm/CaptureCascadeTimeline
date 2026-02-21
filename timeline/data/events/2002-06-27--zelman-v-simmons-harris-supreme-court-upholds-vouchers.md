@@ -18,16 +18,16 @@ tags:
 - establishment-clause
 - privatization
 sources:
-- title: "Zelman v. Simmons-Harris, 536 U.S. 639 (2002)"
+- title: Zelman v. Simmons-Harris, 536 U.S. 639 (2002)
   url: https://supreme.justia.com/cases/federal/us/536/639/
   outlet: Justia
   date: '2002-06-27'
   tier: 1
-- title: "Zelman v. Simmons-Harris: School Vouchers"
+- title: 'Zelman v. Simmons-Harris: School Vouchers'
   url: https://www.law.cornell.edu/supct/html/00-1751.ZS.html
   outlet: Cornell Law School
   tier: 1
-- title: "After Zelman: The Future of School Vouchers"
+- title: 'After Zelman: The Future of School Vouchers'
   url: https://www.brookings.edu/articles/after-zelman-the-future-of-school-vouchers/
   outlet: Brookings Institution
   date: '2002-09-01'
@@ -35,8 +35,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Education Privatization
-- Religious School Funding
+- Financial Capture
+- Democratic Erosion
 ---
 
 On June 27, 2002, the Supreme Court ruled 5-4 in Zelman v. Simmons-Harris that Cleveland's school voucher program did not violate the Establishment Clause, even though 96% of voucher students attended religious schools. The decision, authored by Chief Justice William Rehnquist, removed the primary constitutional barrier to publicly funded private school vouchers and provided legal foundation for nationwide voucher expansion.

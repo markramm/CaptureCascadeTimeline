@@ -21,7 +21,7 @@ sources:
   url: https://www.responsiblelending.org/mortgage-lending/research-analysis/Net-Drain-in-Home-Ownership.pdf
   tier: 2
   verified: true
-- title: 'The Growth of Subprime Mortgage Lending'
+- title: The Growth of Subprime Mortgage Lending
   outlet: Federal Reserve Bank of Chicago
   url: https://www.chicagofed.org/publications/chicago-fed-letter/2000/november-159
   tier: 1
@@ -32,9 +32,8 @@ sources:
   tier: 1
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Predatory Practices
-- Racial Targeting
+- Financial Capture
+- Civil Rights Suppression
 status: confirmed
 ---
 

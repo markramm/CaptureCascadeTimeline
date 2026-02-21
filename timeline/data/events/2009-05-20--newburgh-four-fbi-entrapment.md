@@ -31,6 +31,10 @@ sources:
   date: 2012-08-28
   tier: 1
   outlet: PBS Frontline
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Judicial Capture
 ---
 
 Four men from Newburgh, New York—James Cromitie, David Williams, Onta Williams, and Laguerre Payen—were arrested in an FBI sting operation in which a paid government informant conceived the plot, provided all the means, and coerced economically desperate men into participating. A federal judge condemned the operation, stating the government "came up with the crime, provided the means, and removed all relevant obstacles," creating terrorists out of men "whose buffoonery is positively Shakespearean in scope."

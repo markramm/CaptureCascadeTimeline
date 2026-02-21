@@ -2,9 +2,7 @@
 id: 2025-05-15--political-committees-have-spent-675k-at-trump-properties-sin
 date: '2025-05-15'
 title: Political committees have spent $675K at Trump properties since Trump's reelection
-description: Analysis of FEC filings reveals extensive political spending at Trump
-  properties, demonstrating a systemic pattern of financial self-dealing through Republican
-  political committees.
+description: Analysis of FEC filings reveals extensive political spending at Trump properties, demonstrating a systemic pattern of financial self-dealing through Republican political committees.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -36,12 +34,11 @@ connections: []
 patterns:
 - kleptocratic-capture
 - financial-self-dealing
-notes: Comprehensive tracking of kleptocratic financial patterns through political
-  committee spending
+notes: Comprehensive tracking of kleptocratic financial patterns through political committee spending
 capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
-- Financial Self-Dealing
+- Financial Capture
 ---
 
 Republican-linked political committees have spent $676,457 at Trump properties in the six months following the 2024 election. The Republican National Committee led with $372,215, while House campaigns and Trump's political machine contributed an additional $250,000. This spending pattern demonstrates ongoing financial self-dealing through political infrastructure.

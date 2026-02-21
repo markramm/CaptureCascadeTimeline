@@ -1,13 +1,8 @@
 ---
 id: 2025-07-30--trump-privately-discussing-plans-to-host-g20-at-his-doral-re
 date: '2025-07-30'
-title: Trump to Host 2026 G20 Summit at Doral Resort, Reviving Controversial Hosting
-  Attempt
-description: Trump is making plans to host the 2026 G20 Summit at his Doral golf club
-  in Miami, echoing his first term tactic of using the presidency to drive revenue
-  at his properties. The summit is scheduled for December 14-15, 2026, with the White
-  House asserting the event will be hosted without direct financial gain to Trump's
-  business.
+title: Trump to Host 2026 G20 Summit at Doral Resort, Reviving Controversial Hosting Attempt
+description: Trump is making plans to host the 2026 G20 Summit at his Doral golf club in Miami, echoing his first term tactic of using the presidency to drive revenue at his properties. The summit is scheduled for December 14-15, 2026, with the White House asserting the event will be hosted without direct financial gain to Trump's business.
 status: confirmed
 importance: 8
 location: Trump Doral Resort, Miami, Florida
@@ -22,8 +17,7 @@ tags:
 - presidential-conflicts
 capture_type: monetizing_position
 sources:
-- title: Trump privately discussing plans to host G20 at his Doral resort, White House
-    official says
+- title: Trump privately discussing plans to host G20 at his Doral resort, White House official says
   url: https://www.cnn.com/2025/07/30/politics/g20-doral-resort-trump
   outlet: CNN
   date: '2025-07-30'
@@ -42,14 +36,12 @@ patterns:
 - kleptocratic-capture
 - self-dealing
 - emoluments-violation
-notes: Summit scheduled for December 14-15, 2026. White House claims event will be
-  'at-cost' with no profit to Trump. National Economic Council Director Kevin Hassett
-  is point person, Treasury Secretary Scott Bessent organizing agenda.
+notes: Summit scheduled for December 14-15, 2026. White House claims event will be 'at-cost' with no profit to Trump. National Economic Council Director Kevin Hassett is point person, Treasury Secretary Scott Bessent organizing agenda.
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 - Executive Power Expansion
-- Financial Self-Dealing
+- Financial Capture
 ---
 
 President Trump plans to host the 2026 G20 Summit at his Doral resort in Miami from December 14-15, 2026. The White House claims the event will be hosted 'at-cost' with no profit to Trump, but the move raises significant conflict of interest concerns, echoing his previously abandoned attempt to host the G7 at the same venue in 2020.

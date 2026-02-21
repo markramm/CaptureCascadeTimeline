@@ -27,6 +27,10 @@ sources:
   tier: 2
   outlet: Newsweek
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Digital & Tech Capture
 ---
 
 Bloomberg News published a trove of over 18,000 emails from Jeffrey Epstein's personal Yahoo account spanning 2002-2022, three years after his death in custody. The authenticated emails, concentrated between 2005-2008 during Epstein's first criminal investigation, directly contradict Ghislaine Maxwell's public claims that she distanced herself from Epstein after the early 2000s.

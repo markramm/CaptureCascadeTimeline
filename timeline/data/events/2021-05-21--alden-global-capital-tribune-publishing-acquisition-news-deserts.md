@@ -22,27 +22,27 @@ tags:
 - regulatory-capture
 location: New York, NY
 sources:
-- title: 'Vulture Fund Alden Global, Known For Slashing Newsrooms, Buys Tribune Papers'
+- title: Vulture Fund Alden Global, Known For Slashing Newsrooms, Buys Tribune Papers
   url: https://www.npr.org/2021/05/21/998730863/vulture-fund-alden-global-known-for-slashing-newsrooms-buys-tribune-papers
   outlet: NPR
   date: '2021-05-21'
   tier: 1
-- title: 'Tribune shareholders vote to sell legendary chain of newspapers to Alden hedge fund'
+- title: Tribune shareholders vote to sell legendary chain of newspapers to Alden hedge fund
   url: https://www.washingtonpost.com/media/2021/05/21/tribune-sale-alden-hedge-fund/
   outlet: The Washington Post
   date: '2021-05-21'
   tier: 1
-- title: 'Alden Global Capital'
+- title: Alden Global Capital
   url: https://en.wikipedia.org/wiki/Alden_Global_Capital
   outlet: Wikipedia
   date: '2024-12-01'
   tier: 2
-- title: 'Alden Global Capital is buying and gutting local newspapers'
+- title: Alden Global Capital is buying and gutting local newspapers
   url: https://www.npr.org/2021/10/18/1046952430/the-consequences-of-when-a-hedge-fund-buys-newspapers
   outlet: NPR
   date: '2021-10-18'
   tier: 1
-- title: "How this vulture hedge fund's gutting of local newsrooms could hurt Americans"
+- title: How this vulture hedge fund's gutting of local newsrooms could hurt Americans
   url: https://www.pbs.org/newshour/show/how-this-vulture-hedge-funds-gutting-of-local-newsrooms-could-hurt-americans
   outlet: PBS NewsHour
   date: '2021-05-25'
@@ -50,7 +50,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Financial Engineering
+- Financial Capture
 ---
 
 On May 21, 2021, Tribune Publishing shareholders approved hedge fund Alden Global Capital's $633 million acquisition of the newspaper chain, making Alden the second-largest newspaper publisher in the United States. The transaction gave Alden control over nine major metropolitan dailies including the Chicago Tribune, Baltimore Sun, New York Daily News, Hartford Courant, and Orlando Sentinel—newspapers with combined circulations reaching millions of Americans. Alden's acquisition represented the culmination of a "vulture capitalism" business model that systematically destroys local journalism to extract short-term profits, creating news deserts that undermine democratic accountability.

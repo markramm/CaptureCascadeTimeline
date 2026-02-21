@@ -34,6 +34,10 @@ sources:
   date: 2019-03-11
   tier: 1
   outlet: American Civil Liberties Union
+capture_lanes:
+- Financial Capture
+- Judicial Capture
+- Systematic Corruption
 ---
 
 Former Trump campaign chairman Paul Manafort received a combined sentence of 7.5 years (90 months) in federal prison across two separate criminal cases stemming from Special Counsel Robert Mueller's investigation, representing the longest prison term imposed on any defendant in the Mueller probe. The sentencing occurred in two phases: U.S. District Judge T.S. Ellis III imposed 47 months on March 7, 2019, in the Eastern District of Virginia for tax and bank fraud charges, followed by U.S. District Judge Amy Berman Jackson adding 43 months on March 13, 2019, in the District of Columbia for conspiracy charges, with 30 months to run concurrently with the Virginia sentence.

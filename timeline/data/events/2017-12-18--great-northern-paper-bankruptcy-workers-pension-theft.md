@@ -17,8 +17,8 @@ tags:
 - private-equity
 - economic-abandonment
 capture_lanes:
-- economic
-- corporate
+- Financial Capture
+- Corporate Capture
 sources:
 - title: Workers from dead Maine paper mills call bankruptcy payouts 'a total ripoff'
   url: https://www.bangordailynews.com/2017/12/18/business/workers-from-dead-maine-paper-mills-call-bankruptcy-payouts-a-total-ripoff/

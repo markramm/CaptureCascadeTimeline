@@ -29,6 +29,10 @@ sources:
   tier: 2
   outlet: BuzzFeed News
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 On Sunday evening, October 4, 2020, President Trump—still infected with COVID-19 and hospitalized at Walter Reed National Military Medical Center—left his hospital suite to drive past supporters gathered outside in a black Chevrolet Suburban SUV, forcing at least two Secret Service agents to accompany him in the hermetically sealed vehicle while he remained contagious. Dr. James Phillips, an attending physician at Walter Reed and chief of disaster medicine at George Washington University, characterized the move as "insanity" and "political theater," noting that "the presidential SUV is not only bulletproof, but hermetically sealed against chemical attack" and that "the risk of COVID-19 transmission inside is as high as it gets outside of medical procedures." The reckless stunt—which medical experts condemned as unnecessarily endangering Secret Service personnel for a photo opportunity—epitomized Trump's narcissistic disregard for the safety of those sworn to protect him and his compulsion to prioritize political optics over basic public health responsibility.

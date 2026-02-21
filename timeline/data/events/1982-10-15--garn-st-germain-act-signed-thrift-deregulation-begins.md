@@ -20,7 +20,7 @@ tags:
 - s&l-crisis
 - garn-st-germain
 capture_lanes:
-- Financial Regulatory Capture
+- Financial Capture
 sources:
 - title: Remarks on Signing the Garn-St Germain Depository Institutions Act of 1982
   url: https://www.reaganlibrary.gov/archives/speech/remarks-signing-garn-st-germain-depository-institutions-act-1982
@@ -37,16 +37,13 @@ sources:
   outlet: Federal Reserve Bank of Chicago
   date: 1983-03
   verified: true
-  key_details: Comprehensive academic analysis of the Act's provisions and financial
-    implications
-- title: Legislative History and Economic Impact of the Garn-St Germain Depository
-    Institutions Act
+  key_details: Comprehensive academic analysis of the Act's provisions and financial implications
+- title: Legislative History and Economic Impact of the Garn-St Germain Depository Institutions Act
   url: https://www.congress.gov/bill/97th-congress/house-bill/6267
   outlet: Congressional Research Service Archive
   date: '2024-10-15'
   verified: true
-  key_details: Official congressional record tracking the bill's passage and legislative
-    context
+  key_details: Official congressional record tracking the bill's passage and legislative context
 status: confirmed
 ---
 

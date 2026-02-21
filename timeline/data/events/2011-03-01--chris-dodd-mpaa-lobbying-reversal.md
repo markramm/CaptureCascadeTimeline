@@ -30,6 +30,10 @@ actors:
 - Chris Dodd
 - MPAA
 - Motion Picture Association
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Legislative Capture
 ---
 
 Former Senator Chris Dodd (D-CT) was named chairman and CEO of the Motion Picture Association of America (MPAA), becoming Hollywood's chief lobbyist in Washington despite having "repeatedly and categorically" promised he would not work as a lobbyist after leaving the Senate. Dodd had served as chairman of the powerful Senate Banking Committee from 2007 to 2011, giving him extensive connections to financial regulation and corporate governance that would prove valuable to the entertainment industry.

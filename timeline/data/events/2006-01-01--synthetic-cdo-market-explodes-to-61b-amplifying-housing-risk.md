@@ -19,24 +19,23 @@ tags:
 - systemic-risk
 - financial-engineering
 sources:
-- title: 'Synthetic CDO'
+- title: Synthetic CDO
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Synthetic_CDO
   tier: 3
   verified: true
-- title: 'Collateralized debt obligation'
+- title: Collateralized debt obligation
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Collateralized_debt_obligation
   tier: 3
   verified: true
-- title: "Tracing Wall Street's WMDs"
+- title: Tracing Wall Street's WMDs
   outlet: Columbia Journalism Review
   url: https://www.cjr.org/the_audit/synthetic_junk.php
   tier: 2
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Wall Street Misconduct
+- Financial Capture
 status: confirmed
 ---
 

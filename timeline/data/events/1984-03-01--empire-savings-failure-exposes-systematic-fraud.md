@@ -7,7 +7,7 @@ actors:
 - Reagan administration
 - Spencer Blain Jr.
 capture_lanes:
-- Financial Regulatory Capture
+- Financial Capture
 date: '1984-03-01'
 id: 1984-03-01--empire-savings-failure-exposes-systematic-fraud
 importance: 7

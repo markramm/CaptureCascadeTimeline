@@ -22,7 +22,7 @@ sources:
   url: https://www.nbcnews.com/tech/tech-news/google-pays-france-over-1-billion-settle-tax-case-n1053106
   outlet: NBC News
   date: '2019-09-12'
-- title: 'Google To Pay France $1 Billion To Settle Tax Dispute'
+- title: Google To Pay France $1 Billion To Settle Tax Dispute
   url: https://www.silicon.co.uk/e-marketing/ecommerce/google-pay-france-1-billion-tax-dispute-286621
   outlet: Silicon UK
   date: '2019-09-12'
@@ -37,9 +37,9 @@ sources:
 status: confirmed
 id: 2019-09-12--france-google-1-billion-tax-settlement
 capture_lanes:
-- Tax Evasion
-- Corporate Impunity
-- Two-Tier Justice
+- Financial Capture
+- Corporate Capture
+- Judicial Capture
 capture_type: negotiated_impunity
 patterns:
 - tax-fraud-settlement-without-prosecution

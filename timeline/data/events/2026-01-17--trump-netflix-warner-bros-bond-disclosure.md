@@ -29,6 +29,10 @@ sources:
   outlet: Hollywood Reporter
   date: '2026-01-17'
   tier: 2
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Surveillance Infrastructure
 ---
 
 President Donald Trump purchased up to $2 million in Netflix and Warner Bros. Discovery investments days after the announcement of a $72 billion megadeal between the two media companies, according to a financial disclosure released by the White House. The disclosure, required by the Office of Government Ethics and dated January 14, showed 191 financial transactions totaling between $1.25 million and $51 million in corporate and municipal bonds.

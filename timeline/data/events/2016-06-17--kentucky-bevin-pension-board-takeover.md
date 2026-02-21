@@ -44,8 +44,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- institutional
-- financial
+- Financial Capture
 ---
 
 Kentucky Governor Matt Bevin, a former hedge fund partner at Waycross Partners, issues an executive order abolishing the existing Kentucky Retirement Systems board of trustees and creating a new board that gives him authority to appoint 10 of 17 board members. The restructuring comes two months after Bevin removed KRS chairman Thomas K. Elliott through a separate executive order, with state troopers threatening Elliott with arrest when he attempted to participate in a board meeting.

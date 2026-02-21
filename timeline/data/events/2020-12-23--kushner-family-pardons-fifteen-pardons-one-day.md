@@ -38,6 +38,10 @@ sources:
   tier: 1
   outlet: Reuters
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Military-Industrial Complex
+- Systematic Corruption
 ---
 
 President Trump pardoned his son-in-law Jared Kushner's father, real estate developer Charles Kushner, along with 14 other allies in a single day, demonstrating brazen nepotism and abuse of presidential clemency power. Charles Kushner had pleaded guilty in 2004 to 18 counts of illegal campaign contributions, tax evasion, and witness tampering in one of the most disturbing federal cases in recent history.

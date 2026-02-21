@@ -40,6 +40,10 @@ actors:
 - Changpeng Zhao
 - Michael Gerhardt
 - Austin Campbell
+capture_lanes:
+- Financial Capture
+- Media Capture & Control
+- Systematic Corruption
 ---
 
 On November 16, 2025, CBS News' 60 Minutes aired a major investigative report examining President Trump's October 23, 2025 pardon of Binance founder Changpeng Zhao, revealing extensive financial ties between Zhao's cryptocurrency empire and the Trump family's crypto venture. The investigation, reported by Scott Pelley and Maria Gavrilovic, featured damning assessments from former Justice Department officials who characterized the pardon as "unprecedented corruption."

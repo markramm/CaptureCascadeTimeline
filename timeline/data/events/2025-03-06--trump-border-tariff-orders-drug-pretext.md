@@ -2,26 +2,19 @@
 id: 2025-03-06--trump-border-tariff-orders-drug-pretext
 date: 2025-03-06
 title: Trump Issues Border Tariff Executive Orders Using Drug Enforcement Pretext
-summary: President Trump signs Executive Orders 14231 and 14232 amending earlier tariffs
-  on Canadian and Mexican imports, citing illicit drug flows across northern and southern
-  borders as justification. The orders expand February 1 tariff regime, using border
-  security and drug enforcement rhetoric to justify protectionist trade policies that
-  concentrate executive power over economic policy. The use of border security pretexts
-  enables bypass of normal trade agreement procedures and congressional oversight.
+summary: President Trump signs Executive Orders 14231 and 14232 amending earlier tariffs on Canadian and Mexican imports, citing illicit drug flows across northern and southern borders as justification. The orders expand February 1 tariff regime, using border security and drug enforcement rhetoric to justify protectionist trade policies that concentrate executive power over economic policy. The use of border security pretexts enables bypass of normal trade agreement procedures and congressional oversight.
 importance: 7
 status: confirmed
 actors:
 - Donald Trump
 - Trump Administration
 sources:
-- title: 'Executive Order 14231: Amendment to Duties To Address the Flow of Illicit
-    Drugs Across Our Northern Border'
+- title: 'Executive Order 14231: Amendment to Duties To Address the Flow of Illicit Drugs Across Our Northern Border'
   url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
   outlet: Federal Register
   tier: 1
   verified: true
-- title: 'The Northern Border Hoax: Executive Order 14231 and the New Face of Racialized
-    Policy'
+- title: 'The Northern Border Hoax: Executive Order 14231 and the New Face of Racialized Policy'
   url: https://racism.org/trump-admin/12672-executive-order-14231
   outlet: Racism.org
   tier: 2
@@ -36,18 +29,15 @@ sources:
   outlet: Bloomberg
   tier: 2
   verified: true
-- title: February 2025 Job Cuts Surge on DOGE Actions, Retail Woes; Highest Monthly
-    Total Since July 2020
+- title: February 2025 Job Cuts Surge on DOGE Actions, Retail Woes; Highest Monthly Total Since July 2020
   url: https://www.challengergray.com/blog/job-cuts-surge-on-doge-actions-retail-woes-highest-monthly-total-since-july-2020/
   outlet: Challenger, Gray & Christmas
   date: '2025-03-06'
-- title: Layoff announcements soar to the highest since 2020 as DOGE slashes federal
-    staff
+- title: Layoff announcements soar to the highest since 2020 as DOGE slashes federal staff
   url: https://www.cnbc.com/2025/03/06/layoff-announcements-soar-to-the-highest-since-2020-as-doge-slashes-federal-staff-.html
   outlet: CNBC
   date: '2025-03-06'
-- title: DOGE layoffs may 'overwhelm' unemployment system for federal workers, report
-    finds
+- title: DOGE layoffs may 'overwhelm' unemployment system for federal workers, report finds
   url: https://www.cnbc.com/2025/03/07/doge-layoffs-may-overwhelm-unemployment-system-for-federal-workers.html
   outlet: CNBC
   date: '2025-03-07'
@@ -61,7 +51,7 @@ tags:
 - border-security-pretext
 - economic-manipulation
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

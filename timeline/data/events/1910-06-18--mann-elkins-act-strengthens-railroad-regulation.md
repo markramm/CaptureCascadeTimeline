@@ -28,7 +28,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- Economic Capture
+- Financial Capture
 - Regulatory Capture
 ---
 

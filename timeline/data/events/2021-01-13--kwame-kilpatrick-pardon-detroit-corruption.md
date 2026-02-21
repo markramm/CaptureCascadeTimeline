@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: Associated Press
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 President Trump commuted the sentence of former Detroit Mayor Kwame Kilpatrick, who was serving a 28-year sentence for orchestrating a massive corruption scheme that looted the city of Detroit while it spiraled toward bankruptcy. Kilpatrick had served only 7 years of his sentence for racketeering, extortion, bribery, and tax crimes that federal prosecutors called "a pattern of extortion, bribery and fraud" during his time as mayor from 2002 to 2008.

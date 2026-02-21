@@ -2,9 +2,7 @@
 id: 2025-03-28--us-securities-exchange-commission-beginning-onboard-doge-sta
 date: '2025-03-28'
 title: SEC Launches Crypto Task Force with Significant Staffing Changes
-description: The SEC began a significant restructuring of its cryptocurrency regulatory
-  team, reducing the staff size from 50 to 30 and reorienting the unit's focus from
-  enforcement to creating a comprehensive regulatory framework for digital assets.
+description: The SEC began a significant restructuring of its cryptocurrency regulatory team, reducing the staff size from 50 to 30 and reorienting the unit's focus from enforcement to creating a comprehensive regulatory framework for digital assets.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -20,7 +18,7 @@ tags:
 - regulatory-framework
 capture_lanes:
 - Regulatory Capture
-- Financial Regulation
+- Financial Capture
 capture_type: regulatory_capture
 sources:
 - title: SEC Announces Launch of 'Project Crypto'
@@ -31,8 +29,7 @@ sources:
   url: https://www.hklaw.com/en/insights/publications/2025/02/at-the-same-time-division-of-enforcements-own-crypto-unit
   outlet: Holland & Knight
   date: '2025-02-01'
-- title: 'SEC''s Newly Established Crypto Task Force: An Ambitious Agenda to Fill
-    in the Gaps'
+- title: 'SEC''s Newly Established Crypto Task Force: An Ambitious Agenda to Fill in the Gaps'
   url: https://www.carltonfields.com/insights/publications/2025/secs-newly-established-crypto-task-force
   outlet: Carlton Fields
   date: '2025-03-28'
@@ -40,10 +37,8 @@ connections: []
 patterns:
 - kleptocratic-capture
 - regulatory-transformation
-notes: Significant restructuring of SEC's cryptocurrency regulatory approach, moving
-  from enforcement to framework development.
-additional_context: Part of broader 2025 shift in U.S. digital asset regulation, focusing
-  on creating clear guidelines rather than punitive enforcement.
+notes: Significant restructuring of SEC's cryptocurrency regulatory approach, moving from enforcement to framework development.
+additional_context: Part of broader 2025 shift in U.S. digital asset regulation, focusing on creating clear guidelines rather than punitive enforcement.
 ---
 
 The Securities and Exchange Commission (SEC) restructured its cryptocurrency regulatory approach by dissolving its previous Crypto Asset and Cyber Unit and launching a new Cyber and Emerging Technologies Unit, signaling a shift from enforcement to regulatory framework development.

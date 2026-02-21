@@ -16,25 +16,25 @@ tags:
 - milwaukee
 - bradley-foundation
 sources:
-- title: "Milwaukee Parental Choice Program"
+- title: Milwaukee Parental Choice Program
   url: https://dpi.wi.gov/parental-education-options/choice-programs/milwaukee-background
   outlet: Wisconsin Department of Public Instruction
   tier: 1
-- title: "The Market for Education: The Milwauikee Voucher Experiment"
+- title: 'The Market for Education: The Milwauikee Voucher Experiment'
   url: https://www.jstor.org/stable/2117755
   outlet: Journal of Policy Analysis and Management
   date: '1998-01-01'
   tier: 1
-- title: "School Vouchers: Examining the Evidence"
+- title: 'School Vouchers: Examining the Evidence'
   url: https://www.epi.org/publication/school-vouchers-examining-the-evidence/
   outlet: Economic Policy Institute
   date: '2017-07-01'
   tier: 1
 status: confirmed
 capture_lanes:
-- Education Privatization
-- Bradley Foundation Network
-- Model Legislation
+- Financial Capture
+- Democratic Erosion
+- Legislative Capture
 ---
 
 On March 27, 1990, Wisconsin Governor Tommy Thompson signed legislation creating the Milwaukee Parental Choice Program (MPCP), the nation's first publicly-funded voucher program allowing public tax dollars to pay private school tuition. The program, initially limited to 1,000 low-income students attending secular private schools, established a template for voucher expansion that would spread nationwide over the following three decades.

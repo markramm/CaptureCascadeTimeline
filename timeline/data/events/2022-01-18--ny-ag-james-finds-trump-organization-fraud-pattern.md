@@ -39,6 +39,10 @@ sources:
   tier: 2
   outlet: WPTV
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Surveillance Infrastructure
+- Systematic Corruption
 ---
 
 New York Attorney General Letitia James filed a motion to compel Donald Trump and his two eldest children (Ivanka and Donald Jr.) to appear for depositions and provide documents, publicly revealing for the first time that her three-year investigation had "uncovered significant evidence that suggests Donald J. Trump and the Trump Organization falsely and fraudulently valued multiple assets and misrepresented those values to financial institutions for economic benefit." This court filing marked a critical escalation in the investigation that began in March 2019, transforming it from a confidential probe into a public legal battle with clear findings of systematic fraud. The motion detailed specific examples of asset valuation manipulation that would become central to the eventual $250 million lawsuit filed eight months later.

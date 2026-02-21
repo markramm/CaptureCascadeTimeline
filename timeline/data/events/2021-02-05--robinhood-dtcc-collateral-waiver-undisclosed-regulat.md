@@ -28,6 +28,10 @@ sources:
   title: Robinhood Faced Deeper Liquidity Woes Following GameStop's Rally
   outlet: Finance Magnates
   date: '2021-02-05'
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 In January 2021, the Depository Trust & Clearing Corporation (DTCC) granted Robinhood an unprecedented $9.7 billion collateral waiver during the GameStop short squeeze. This extraordinary measure prevented Robinhood from defaulting on its regulatory obligations, revealing significant gaps in financial regulatory oversight. The waiver allowed Robinhood to continue trading despite massive market volatility, raising questions about the transparency and discretionary power of clearing institutions.

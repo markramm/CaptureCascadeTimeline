@@ -17,24 +17,24 @@ tags:
 - systemic-risk
 - housing
 sources:
-- title: 'S&P/Case-Shiller U.S. National Home Price Index'
+- title: S&P/Case-Shiller U.S. National Home Price Index
   outlet: Federal Reserve Bank of St. Louis
   url: https://fred.stlouisfed.org/series/CSUSHPINSA
   tier: 1
   verified: true
-- title: 'The Rise and Fall of Subprime Mortgages'
+- title: The Rise and Fall of Subprime Mortgages
   outlet: Federal Reserve Bank of Cleveland
   url: https://www.clevelandfed.org/newsroom-and-events/publications/economic-commentary/2007-economic-commentaries/ec-20071101-the-rise-and-fall-of-subprime-mortgages
   tier: 1
   verified: true
-- title: 'Subprime Lending Peaked in 2006'
+- title: Subprime Lending Peaked in 2006
   outlet: Center for Responsible Lending
   url: https://www.responsiblelending.org/research-publication/subprime-lending-peak
   tier: 2
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

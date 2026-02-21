@@ -31,6 +31,10 @@ actors:
 - Clearview AI
 - European Data Protection Board
 - France
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 France's data protection authority (CNIL) imposed a €20 million fine on Clearview AI - the maximum penalty allowed under GDPR Article 83 - for unlawful processing of biometric data through its facial recognition technology. The CNIL found that Clearview had collected over 20 billion images worldwide and violated multiple GDPR provisions by processing personal data without a legal basis, failing to respect individuals' rights to access and erasure of their data, and refusing to cooperate with the CNIL investigation.

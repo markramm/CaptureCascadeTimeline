@@ -17,24 +17,24 @@ tags:
 - regulatory-failure
 - housing
 sources:
-- title: 'New Century Files for Bankruptcy'
+- title: New Century Files for Bankruptcy
   outlet: The New York Times
   url: https://www.nytimes.com/2007/04/03/business/03lender.html
   tier: 2
   verified: true
-- title: 'The Rise and Fall of New Century Financial'
+- title: The Rise and Fall of New Century Financial
   outlet: Investopedia
   url: https://www.investopedia.com/articles/07/new-century.asp
   tier: 2
   verified: true
-- title: 'Final Report of Michael J. Missal, Bankruptcy Examiner'
+- title: Final Report of Michael J. Missal, Bankruptcy Examiner
   outlet: U.S. Bankruptcy Court, District of Delaware
   url: https://www.sec.gov/Archives/edgar/data/1287286/000119312508077366/dex991.htm
   tier: 1
   verified: true
 capture_lanes:
-- Financial Industry Collapse
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

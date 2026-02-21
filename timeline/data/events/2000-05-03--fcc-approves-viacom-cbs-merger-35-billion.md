@@ -19,10 +19,10 @@ tags:
 - monopolization
 capture_lanes:
 - Regulatory Capture
-- Market Concentration
+- Financial Capture
 location: Washington, D.C.
 sources:
-- title: 'Viacom Announces Plans to Buy CBS'
+- title: Viacom Announces Plans to Buy CBS
   url: https://www.ebsco.com/research-starters/history/viacom-announces-plans-buy-cbs
   outlet: EBSCO Research Starters
   date: '2000'
@@ -32,12 +32,12 @@ sources:
   outlet: U.S. Senate Committee Hearing
   date: '2000-03-01'
   tier: 1
-- title: 'CBS and Viacom Merger'
+- title: CBS and Viacom Merger
   url: https://www.c-span.org/video/?153190-1/cbs-viacom-merger
   outlet: C-SPAN
   date: '1999-09-07'
   tier: 1
-- title: 'Viacom (1952-2005)'
+- title: Viacom (1952-2005)
   url: https://en.wikipedia.org/wiki/Viacom_(1952–2005)
   outlet: Wikipedia
   date: '2024'

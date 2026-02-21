@@ -37,6 +37,10 @@ sources:
   outlet: STAT News
   tier: 2
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Labor Suppression
+- Media Capture & Control
 ---
 
 The Senate Health, Education, Labor, and Pensions (HELP) Committee held a historic hearing bringing together CEOs of major insulin manufacturers (Eli Lilly, Novo Nordisk, Sanofi) and executives from the three largest PBMs (CVS Caremark, Express Scripts, OptumRx) to examine soaring insulin prices. Novo Nordisk CEO Lars Fruergaard Jorgensen testified that approximately 75% of his company's insulin sales go to payers in the form of fees, discounts, and rebates—revealing the massive extraction occurring in the supply chain. Sanofi CEO Paul Hudson testified that drugmakers pay substantial rebates but PBMs and insurers are incentivized to choose drugs with higher list prices because they generate larger rebates, creating a perverse system that drives prices up. A Senate Finance Committee report cited in the hearing found that rebates paid by Sanofi to CVS Caremark for insulin formulary placement rose from around 3% to over 50% in just five years, with one OptumRx deal demanding an 80% rebate on Lantus insulin pens ($339 of the $425 cost). While researchers estimate insulin manufacturing costs just $8 per vial, prices had risen over 1,000% since 1996. Committee Chairman Bernie Sanders pressed both sides on why insulin remained unaffordable when rebates supposedly lowered costs, exposing how PBM market power enables profit extraction while vulnerable diabetics ration life-saving medication.

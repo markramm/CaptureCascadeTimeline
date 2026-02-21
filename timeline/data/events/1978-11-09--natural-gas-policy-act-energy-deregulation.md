@@ -28,7 +28,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 - Regulatory Capture
 ---
 

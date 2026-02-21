@@ -21,19 +21,18 @@ sources:
   url: https://www.propublica.org/article/all-the-magnetar-trade-how-one-hedge-fund-helped-keep-the-housing-bubble
   tier: 1
   verified: true
-- title: 'Hedge funds, CDOs and the financial crisis'
+- title: Hedge funds, CDOs and the financial crisis
   outlet: Journal of Banking & Finance (ScienceDirect)
   url: https://www.sciencedirect.com/science/article/abs/pii/S0378426612002932
   tier: 1
   verified: true
-- title: 'Magnetar Capital'
+- title: Magnetar Capital
   outlet: Wikipedia
   url: https://en.m.wikipedia.org/wiki/Magnetar_Capital
   tier: 3
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Wall Street Misconduct
+- Financial Capture
 status: confirmed
 ---
 

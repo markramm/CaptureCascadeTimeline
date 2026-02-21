@@ -36,6 +36,10 @@ sources:
   tier: 1
   outlet: Library of Congress
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Surveillance Infrastructure
+- Systematic Corruption
 ---
 
 President Trump's systematic abuse of pardon power between 2017-2021 established a pattern of corruption that transformed constitutional clemency authority into a criminal enterprise. Analysis of Trump's 237 pardons and commutations reveals a president who monetized executive power, rewarded those who protected him from investigation, and granted immunity to political allies, family associates, and wealthy donors while completely bypassing the Department of Justice's traditional pardon review process.

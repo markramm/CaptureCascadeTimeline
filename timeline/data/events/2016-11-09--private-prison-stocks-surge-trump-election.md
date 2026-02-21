@@ -34,9 +34,9 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- financial-capture
-- institutional-capture
-- systematic-corruption
+- Financial Capture
+- Democratic Erosion
+- Systematic Corruption
 ---
 
 The day after Donald Trump is declared winner of the 2016 presidential election, private prison stocks experience massive gains. CoreCivic (formerly CCA) jumps from $14.19 to $20.31 per share (43% increase) and GEO Group rises from $23.88 to $28.96 per share (21% increase). According to Bianca Tylek, executive director of Worth Rises, "the private prison stocks were actually the biggest single day gainers after Trump's election" in November 2016.

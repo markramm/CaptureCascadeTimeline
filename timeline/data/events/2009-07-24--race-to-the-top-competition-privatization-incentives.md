@@ -18,26 +18,25 @@ tags:
 - neoliberal-reform
 - privatization
 sources:
-- title: "Race to the Top Program Executive Summary"
+- title: Race to the Top Program Executive Summary
   url: https://www2.ed.gov/programs/racetothetop/executive-summary.pdf
   outlet: US Department of Education
   date: '2009-11-01'
   tier: 1
-- title: "The Failure of Race to the Top"
+- title: The Failure of Race to the Top
   url: https://www.washingtonpost.com/news/answer-sheet/wp/2015/05/07/the-failure-of-race-to-the-top/
   outlet: Washington Post
   date: '2015-05-07'
   tier: 1
-- title: "Race to the Top: What Have We Learned?"
+- title: 'Race to the Top: What Have We Learned?'
   url: https://www.brookings.edu/articles/race-to-the-top-what-have-we-learned/
   outlet: Brookings Institution
   date: '2016-03-01'
   tier: 1
 status: confirmed
 capture_lanes:
-- Education Privatization
-- Philanthropic Capture
-- Neoliberal Consensus
+- Financial Capture
+- Regulatory Capture
 ---
 
 On July 24, 2009, the Obama administration announced Race to the Top (RttT), a $4.35 billion competitive grant program that would profoundly reshape American education policy by requiring states to adopt charter school expansion, test-based teacher evaluations, and Common Core standards as conditions for receiving federal funds. The program represented the culmination of a bipartisan neoliberal consensus on education reform that prioritized market mechanisms and accountability metrics over investment and equity.

@@ -16,14 +16,14 @@ tags:
 - congressional-legislation
 capture_lanes:
 - Legislative Capture
-- Economic Capture
+- Financial Capture
 sources:
 - title: Jack Kemp - Wikipedia
   url: https://en.wikipedia.org/wiki/Jack_Kemp
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Supply-Side Economics and the Kemp-Roth Bill'
+- title: Supply-Side Economics and the Kemp-Roth Bill
   url: https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1265&context=sbr
   outlet: Georgia Southern University
   date: '2024-01-01'

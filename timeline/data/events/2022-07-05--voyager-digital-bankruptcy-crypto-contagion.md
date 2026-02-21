@@ -37,6 +37,9 @@ sources:
   outlet: PYMNTS
   date: '2022-07-19'
   tier: 2
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
 ---
 
 Voyager Digital Holdings and affiliates file Chapter 11 bankruptcy in the Southern District of New York after the collapse of crypto hedge fund Three Arrows Capital (3AC), which triggered a domino effect through the interconnected and unregulated crypto lending market. Voyager, like Celsius, operated as a de facto bank without bank regulations—allowing customers to deposit crypto and earn high yields while Voyager lent those assets to risky counterparties including 3AC. The bankruptcy exposes how the SEC's failure to establish clear regulatory classification for crypto assets created a shadow banking system operating entirely outside prudential oversight. Legal scholars note that 'Voyager's ability to restructure through Chapter 11 rather than be forced to liquidate is a result of the lack of regulatory clarity surrounding cryptocurrencies'—specifically, the absence of any determination whether crypto platforms are broker-dealers, which would subject them to SEC oversight and investor protection rules. The crypto market fell approximately two-thirds in the first half of 2022, exposing that Voyager and other platforms (Celsius, BlockFi, FTX, Genesis) all had 'significant lending exposure to each other,' creating systemic contagion risk that no regulator monitored. Voyager had been under SEC scrutiny regarding its yield products prior to bankruptcy. The collapse reveals how regulatory arbitrage allowed crypto firms to promise bank-like services and returns while avoiding capital requirements, stress tests, reserve standards, and consumer protections that would have limited their risk-taking and interconnectedness.

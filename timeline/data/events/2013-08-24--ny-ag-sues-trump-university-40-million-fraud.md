@@ -31,6 +31,10 @@ sources:
   date: 2013-08-24
   tier: 1
   outlet: NBC News
+capture_lanes:
+- Financial Capture
+- Media Capture & Control
+- Intelligence Penetration
 ---
 
 New York Attorney General Eric Schneiderman filed a $40 million civil lawsuit against Donald Trump, The Trump Entrepreneur Initiative (formerly Trump University LLC), and Michael Sexton on August 24, 2013, alleging "persistent fraudulent, illegal and deceptive conduct." Schneiderman characterized the case as "straight up fraud," alleging that more than 5,000 consumers nationwide were defrauded of over $40 million between 2005 and 2011. The lawsuit documented that Trump University operated as an unlicensed educational institute that promised to teach Trump's personal real estate investing techniques but instead misled consumers into paying for expensive courses that failed to deliver on promises. The investigation revealed that Trump did not hand-pick even a single instructor at the seminars and had little or no role in developing the Trump University curriculum or seminar content, contradicting core marketing promises made to students.

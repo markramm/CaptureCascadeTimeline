@@ -33,9 +33,9 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- financial-capture
-- institutional-capture
-- systematic-corruption
+- Financial Capture
+- Democratic Erosion
+- Systematic Corruption
 ---
 
 Wackenhut Corrections Corporation (WCC) launches its initial public offering on NASDAQ, selling 2.2 million shares and becoming the second major private prison company to go public. Founded in 1984 by George C. Zoley as a division of The Wackenhut Corporation security firm, WCC establishes itself as CCA's primary competitor in the for-profit incarceration market. The company later rebrands as The GEO Group in 2004, becoming one of the two dominant private prison operators.

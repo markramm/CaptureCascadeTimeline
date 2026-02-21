@@ -39,6 +39,10 @@ actors:
 - Boeing
 - Saudi Arabia
 - Greg Hayes
+capture_lanes:
+- Financial Capture
+- Military-Industrial Complex
+- Surveillance Infrastructure
 ---
 
 On February 4, 2021, the Biden administration announced it was pausing indefinitely two major precision-guided munitions sales to Saudi Arabia worth approximately $760 million—a $478 million Raytheon contract for 7,500 Paveway "smart" bombs and a $290 million Boeing contract for 3,000 Small Diameter Bomb I munitions. National Security Advisor Jake Sullivan stated the pause was part of a broader policy shift to end US support for Saudi "offensive operations" in Yemen, with President Biden declaring "We are ending all American support for offensive operations in the war in Yemen, including relevant arms sales." The Raytheon Paveway contract had been approved by the Trump administration in December 2020 during its final weeks, representing the same weapon type documented in multiple Yemen civilian-casualty incidents including the 2016 funeral hall massacre and the 2018 school bus attack. The pause represented the most significant US action restricting Saudi arms access due to Yemen war crimes, though critics noted it addressed only specific offensive weapons while leaving billions in other arms sales intact.

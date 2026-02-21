@@ -38,4 +38,8 @@ sources:
   date: 2015-03-17
   tier: 2
   outlet: U.S. News & World Report
+capture_lanes:
+- Financial Capture
+- Digital & Tech Capture
+- Systematic Corruption
 ---

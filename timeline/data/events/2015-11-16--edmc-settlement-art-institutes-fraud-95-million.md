@@ -22,22 +22,19 @@ tags:
 - institutional-capture
 - systematic-corruption
 capture_lanes:
-- For-Profit Education Fraud
-- Federal Student Aid Exploitation
-- Predatory Recruitment Practices
-- Boiler Room Sales Tactics
+- Financial Capture
 sources:
-- title: "For-Profit College Company to Pay $95.5 Million to Settle Claims of Illegal Recruiting, Consumer Fraud and Other Violations"
+- title: For-Profit College Company to Pay $95.5 Million to Settle Claims of Illegal Recruiting, Consumer Fraud and Other Violations
   url: https://www.justice.gov/archives/opa/pr/profit-college-company-pay-955-million-settle-claims-illegal-recruiting-consumer-fraud-and
   outlet: U.S. Department of Justice
   date: '2015-11-16'
   tier: 1
-- title: "Obama administration, states reach major settlements with Education Management Corporation"
+- title: Obama administration, states reach major settlements with Education Management Corporation
   url: https://www.insidehighered.com/news/2015/11/17/obama-administration-states-reach-major-settlements-education-management-corporation
   outlet: Inside Higher Ed
   date: '2015-11-17'
   tier: 2
-- title: "A.G. Schneiderman Announces $102.8 Million Settlement with EDMC to Forgive Student Loans and Reform Recruiting and Enrollment Practices"
+- title: A.G. Schneiderman Announces $102.8 Million Settlement with EDMC to Forgive Student Loans and Reform Recruiting and Enrollment Practices
   url: https://ag.ny.gov/press-release/2015/ag-schneiderman-announces-1028-million-settlement-edmc-forgive-student-loans-and
   outlet: New York Attorney General
   date: '2015-11-16'

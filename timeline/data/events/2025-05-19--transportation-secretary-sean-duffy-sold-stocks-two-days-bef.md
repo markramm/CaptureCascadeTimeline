@@ -1,11 +1,8 @@
 ---
 id: 2025-05-19--transportation-secretary-sean-duffy-sold-stocks-two-days-bef
 date: '2025-05-19'
-title: Sean Duffy Sold Stocks Before Trump's Tariff Announcement, Revealing Potential
-  Insider Trading
-description: Transportation Secretary Sean Duffy sold stocks in 34 companies worth
-  between $90,000 and $650,000 two days before Trump's reciprocal tariff announcement,
-  revealing potential insider trading patterns within the Trump administration.
+title: Sean Duffy Sold Stocks Before Trump's Tariff Announcement, Revealing Potential Insider Trading
+description: Transportation Secretary Sean Duffy sold stocks in 34 companies worth between $90,000 and $650,000 two days before Trump's reciprocal tariff announcement, revealing potential insider trading patterns within the Trump administration.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -21,8 +18,7 @@ tags:
 - financial-exploitation
 capture_type: regulatory_capture
 sources:
-- title: Transportation Secretary Sean Duffy Sold Stocks Two Days Before Trump's Tariff
-    Announcement
+- title: Transportation Secretary Sean Duffy Sold Stocks Two Days Before Trump's Tariff Announcement
   url: https://www.propublica.org/article/sean-duffy-stock-sales-trump-tariffs
   outlet: ProPublica
   date: '2025-05-19'
@@ -30,13 +26,11 @@ sources:
   url: https://newrepublic.com/post/195454/donald-trump-transportation-secretary-sean-duffy-sell-stock-tariffs
   outlet: The New Republic
   date: '2025-05-19'
-- title: Transportation secretary sold stocks two days before Trump announced reciprocal
-    tariffs plan
+- title: Transportation secretary sold stocks two days before Trump announced reciprocal tariffs plan
   url: https://lailluminator.com/2025/05/20/duffy-stocks/
   outlet: Louisiana Illuminator
   date: '2025-05-20'
-- title: Tariff mastermind unloaded stocks 2 days before Trump announcement tanked
-    market
+- title: Tariff mastermind unloaded stocks 2 days before Trump announcement tanked market
   url: https://www.rawstory.com/trump-duffy-tariff/
   outlet: Raw Story
   date: '2025-05-19'
@@ -51,7 +45,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion
-- Financial Exploitation
+- Financial Capture
 ---
 
 Transportation Secretary Sean Duffy sold stocks in 34 companies worth up to $650,000 just before Trump's market-moving tariff announcement, representing a pattern of potential insider trading among Trump administration officials. The sales occurred on February 11, two days before the tariff announcement, near the stock market's historic peak.

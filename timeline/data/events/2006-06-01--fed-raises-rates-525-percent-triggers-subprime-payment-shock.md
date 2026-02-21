@@ -20,14 +20,14 @@ sources:
   url: https://www.thebalancemoney.com/subprime-mortgage-crisis-effect-and-timeline-3305745
   tier: 2
   verified: true
-- title: 'Subprime mortgage crisis'
+- title: Subprime mortgage crisis
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Subprime_mortgage_crisis
   tier: 3
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -18,15 +18,15 @@ tags:
 - monopolization
 capture_lanes:
 - Regulatory Capture
-- Market Concentration
+- Financial Capture
 location: San Antonio, TX
 sources:
-- title: 'Clear Channel Communications, Inc.'
+- title: Clear Channel Communications, Inc.
   url: https://www.encyclopedia.com/books/politics-and-business-magazines/clear-channel-communications-inc
   outlet: Encyclopedia.com
   date: '2024'
   tier: 2
-- title: 'The Telecommunications Act of 1996 Killed Local Radio'
+- title: The Telecommunications Act of 1996 Killed Local Radio
   url: https://www.35000watts.com/the-telecommunications-act-of-1996-killed-local-radio/
   outlet: 35000 Watts
   date: '2020'
@@ -36,7 +36,7 @@ sources:
   outlet: Truthout
   date: '2016-02-08'
   tier: 2
-- title: 'What Loosening Restrictions On Radio Consolidation Could Do'
+- title: What Loosening Restrictions On Radio Consolidation Could Do
   url: https://www.npr.org/2019/06/07/730323196/one-more-scoop-of-vanilla-a-new-proposal-looks-to-loosen-radio-ownership-rules
   outlet: NPR
   date: '2019-06-07'

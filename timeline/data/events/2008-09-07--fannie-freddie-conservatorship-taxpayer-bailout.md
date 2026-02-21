@@ -34,9 +34,8 @@ sources:
   tier: 1
   verified: true
 capture_lanes:
-- GSE Capture
-- Taxpayer Exploitation
-- Executive Impunity
+- Financial Capture
+- Executive Power Expansion
 status: confirmed
 ---
 

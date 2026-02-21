@@ -18,7 +18,7 @@ tags:
 - banking-deregulation
 capture_lanes:
 - Regulatory Capture
-- Financial Sector
+- Financial Capture
 sources:
 - title: Decline of the Glass–Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act

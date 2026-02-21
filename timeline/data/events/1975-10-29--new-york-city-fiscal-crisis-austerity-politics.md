@@ -34,7 +34,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Economic Policy Capture
+- Financial Capture
 ---
 
 At the National Press Club on October 29, 1975, President Gerald Ford gave a speech refusing to provide federal assistance to New York City, which was on the verge of bankruptcy after losing nearly 600,000 jobs and hundreds of thousands of residents fleeing to the suburbs or Sunbelt. The New York Daily News captured Ford's position with its famous headline: "FORD TO CITY: DROP DEAD." In his speech, Ford warned: "Other cities, other states as well as the federal government are not immune to the insidious disease from which New York is suffering.... If we go on spending more than we have, providing more benefits and services than we can pay for, then a day of reckoning will come to Washington and the whole country just as it has to New York." Ford administration officials including Treasury Secretary William Simon, chief economic advisor Alan Greenspan, and Chief of Staff Donald Rumsfeld were all influenced by the free-market economics of Milton Friedman and Ayn Rand, viewing the crisis as an opportunity to impose fiscal discipline.

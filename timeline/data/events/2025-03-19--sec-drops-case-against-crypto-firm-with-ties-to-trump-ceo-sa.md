@@ -8,20 +8,18 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture
-- Financial Regulation
+- Financial Capture
 capture_type: regulatory_capture
 connections:
 - Trump Administration Political Donations
 - Crypto Regulatory Landscape 2025
 - SEC Leadership Changes
 date: '2025-03-19'
-description: SEC dropped its landmark lawsuit against Ripple Labs after a complex
-  legal battle and significant political shifts in regulatory leadership
+description: SEC dropped its landmark lawsuit against Ripple Labs after a complex legal battle and significant political shifts in regulatory leadership
 id: 2025-03-19--sec-drops-case-against-crypto-firm-with-ties-to-trump-ceo-sa
 importance: 9
 location: Washington, D.C.
-notes: Settlement represents a turning point in crypto regulatory enforcement, highlighting
-  potential political influence in regulatory decisions
+notes: Settlement represents a turning point in crypto regulatory enforcement, highlighting potential political influence in regulatory decisions
 patterns:
 - kleptocratic-capture
 - regulatory-influence

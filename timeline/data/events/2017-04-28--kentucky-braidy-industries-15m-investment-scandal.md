@@ -46,9 +46,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- institutional
-- financial
-- political
+- Financial Capture
 ---
 
 Kentucky Governor Matt Bevin announces that Braidy Industries, a new venture led by metals industry veteran Craig Bouchard, will build what is described as "the most sophisticated aluminum mill in the world" in Greenup County near Ashland, promising 600 well-paying jobs. One week later, Bevin's administration uses $15 million in borrowed money to purchase stock in the company, making Kentucky taxpayers the owner of at least 20 percent of Braidy Industries. The investment was awarded at Bevin's behest on the final day of the 2017 legislative session without prior disclosure of the project to lawmakers or the public.

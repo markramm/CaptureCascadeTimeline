@@ -19,10 +19,8 @@ tags:
 - regulatory-capture
 - lobbying
 capture_lanes:
-- For-Profit Education Regulation
-- Student Debt Crisis
-- Industry Regulatory Capture
-- Federal Student Aid Accountability
+- Financial Capture
+- Regulatory Capture
 sources:
 - title: The Tortured Path of the Gainful Employment Rule
   url: https://www.americanprogress.org/article/the-tortured-path-of-the-gainful-employment-rule/

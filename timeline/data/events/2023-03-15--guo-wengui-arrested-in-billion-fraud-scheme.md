@@ -25,18 +25,17 @@ sources:
   url: https://www.cnbc.com/2023/03/15/doj-charges-guo-wengui-steve-bannon-associate-in-1-billion-fraud.html
   access_date: '2025-09-17'
 - outlet: Courthouse News Service
-  title: Chinese Dissident Guo Wengui Guilty of Racketeering, Fraud in $1 Billion
-    Scheme
+  title: Chinese Dissident Guo Wengui Guilty of Racketeering, Fraud in $1 Billion Scheme
   url: https://www.courthousenews.com/chinese-dissident-guo-wengui-guilty-of-racketeering-fraud-in-1-billion-scheme/
   access_date: '2025-09-17'
 status: confirmed
 id: 2023-03-15--guo-wengui-arrested-in-billion-fraud-scheme
 priority_id: RT-EXP-2E557553-gettr-jason-miller-chinese-funding
 capture_lanes:
-- Financial Crime
-- Media Manipulation
-- Influence Operations
-- International Financial Networks
+- Financial Capture
+- Media Capture & Control
+- Systematic Corruption
+- International Kleptocracy
 location: Manhattan, New York
 ---
 

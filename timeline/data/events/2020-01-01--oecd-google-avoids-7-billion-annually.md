@@ -1,7 +1,8 @@
 ---
 date: '2020-01-01'
 title: OECD Estimates Google Avoids $7B+ Annually Through Tax Havens
-description: OECD reports on corporate tax avoidance by digital companies identified Google among the worst offenders, with analysis suggesting the company avoided approximately $7+ billion annually in taxes through profit shifting to tax havens, maintaining an effective global tax rate under 10% despite massive profitability. The OECD's Base Erosion and Profit Shifting (BEPS) project documented that large digital companies like Google systematically exploited gaps in international tax rules to shift profits away from where value was created to low-tax jurisdictions. Tax Justice Network analysis corroborated findings that Google's effective tax rate was dramatically below statutory rates in countries where it operated. The scale of avoidance—$7 billion per year—exceeded the entire GDP of some countries and represented tax revenue that could have funded education, healthcare, and infrastructure. The OECD findings contributed to development of "Pillar One" and "Pillar Two" proposals for global minimum corporate tax rates.
+description: OECD reports on corporate tax avoidance by digital companies identified Google among the worst offenders, with analysis suggesting the company avoided approximately $7+ billion annually in taxes through profit shifting to tax havens, maintaining an effective global tax rate under 10% despite massive profitability. The OECD's Base Erosion and Profit Shifting (BEPS) project documented that large digital companies like Google systematically exploited gaps in international tax rules to shift profits away from where value was created to low-tax jurisdictions. Tax Justice Network analysis corroborated findings that Google's effective tax rate was dramatically below statutory rates in countries where it operated. The scale of avoidance—$7 billion per year—exceeded the entire GDP of some countries and represented tax revenue that could have funded education, healthcare, and infrastructure. The OECD findings contributed to development of "Pillar One" and "Pillar Two" proposals for global
+  minimum corporate tax rates.
 actors:
 - OECD
 - Google
@@ -37,9 +38,8 @@ sources:
 status: confirmed
 id: 2020-01-01--oecd-google-avoids-7-billion-annually
 capture_lanes:
-- Tax Evasion
-- International Finance
-- Policy Failure
+- Financial Capture
+- Regulatory Capture
 capture_type: systematic_global_tax_avoidance
 patterns:
 - international-profit-shifting

@@ -1,8 +1,7 @@
 ---
 id: 2024-03-01--wyoming-coal-tax-cuts-revenue-loss
 date: '2024-03-01'
-title: Wyoming Legislature Passes Second Coal Tax Cut in Two Years, Sacrificing $20
-  Million Annually to Subsidize Declining Industry
+title: Wyoming Legislature Passes Second Coal Tax Cut in Two Years, Sacrificing $20 Million Annually to Subsidize Declining Industry
 importance: 6
 location: Cheyenne, Wyoming
 actors:
@@ -20,15 +19,14 @@ tags:
 - extractive-industry
 capture_lanes:
 - Regulatory Capture
-- Economic Capture
+- Financial Capture
 sources:
 - title: Wyoming slashes taxes for coal, sets up a CO2 fund to boost oil and gas
   url: https://wyofile.com/wyoming-slashes-taxes-for-coal-sets-up-a-co2-fund-to-boost-oil-and-gas/
   outlet: WyoFile
   date: '2024-03-15'
   tier: 2
-- title: Wyoming's Energy Transformation - Insights from Federal Engagement with Coal
-    Communities
+- title: Wyoming's Energy Transformation - Insights from Federal Engagement with Coal Communities
   url: https://www.rff.org/publications/reports/wyomings-energy-transformation/
   outlet: Resources for the Future
   date: '2024-08-01'
@@ -54,15 +52,13 @@ sources:
   date: '2024-08-15'
   verified: true
 - outlet: Wilson Center
-  title: 'Blueprint for Consolidation: Tunisia''s 2024 Election, Authoritarian Shift,
-    and Broader Implications'
+  title: 'Blueprint for Consolidation: Tunisia''s 2024 Election, Authoritarian Shift, and Broader Implications'
   url: https://www.wilsoncenter.org/article/blueprint-consolidation-tunisias-2024-election-authoritarian-shift-and-broader-implications
 - outlet: France24
   title: Tunisian president to dissolve municipal councils ahead of local elections
   url: https://www.france24.com/en/africa/20230309-tunisian-president-to-dissolve-municipal-councils-ahead-of-local-elections
 - outlet: Brookings
-  title: Tunisia is sliding back into authoritarianism. Here's what the US should
-    do.
+  title: Tunisia is sliding back into authoritarianism. Here's what the US should do.
   url: https://www.brookings.edu/articles/tunisia-is-sliding-back-into-authoritarianism-heres-what-the-us-should-do/
   tier: 2
   verified: true

@@ -2,21 +2,14 @@
 id: 2025-03-03--trump-china-tariffs-20pct-opioid-pretext
 date: 2025-03-03
 title: Trump Raises China Tariffs to 20 Percent Using Synthetic Opioid Justification
-summary: President Trump issues executive order doubling tariffs on Chinese imports
-  from 10 to 20 percent, citing synthetic opioid supply chain concerns. The tariff
-  increase follows pattern of using national security and public health rhetoric to
-  justify protectionist economic measures that benefit specific domestic industries
-  while imposing costs on American consumers. Implementation coincides with broader
-  tariff offensive against Canada and Mexico, demonstrating coordinated use of executive
-  power to reshape trade policy without congressional approval.
+summary: President Trump issues executive order doubling tariffs on Chinese imports from 10 to 20 percent, citing synthetic opioid supply chain concerns. The tariff increase follows pattern of using national security and public health rhetoric to justify protectionist economic measures that benefit specific domestic industries while imposing costs on American consumers. Implementation coincides with broader tariff offensive against Canada and Mexico, demonstrating coordinated use of executive power to reshape trade policy without congressional approval.
 importance: 7
 status: confirmed
 actors:
 - Donald Trump
 - Trump Administration
 sources:
-- title: 'Executive Order: Further Amendment to Duties Addressing the Synthetic Opioid
-    Supply Chain'
+- title: 'Executive Order: Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain'
   url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025
   outlet: Federal Register
   tier: 1
@@ -35,13 +28,11 @@ sources:
   url: https://www.reuters.com/world/us/consumer-watchdog-payouts-limbo-agency-defanged-by-trump-administration-2025-03-03/
   outlet: Reuters
   date: '2025-03-03'
-- title: If the Trump administration guts the CFPB, it could have 'devastating effects,'
-    says consumer advocate—what it means for your money
+- title: If the Trump administration guts the CFPB, it could have 'devastating effects,' says consumer advocate—what it means for your money
   url: https://www.cnbc.com/2025/03/05/trump-administration-plans-to-wind-down-the-cfpb.html
   outlet: CNBC
   date: '2025-03-05'
-- title: The Trump administration has stopped work at the CFPB. Here's what the agency
-    does
+- title: The Trump administration has stopped work at the CFPB. Here's what the agency does
   url: https://www.npr.org/2025/02/10/nx-s1-5292123/the-trump-administration-has-stopped-work-at-the-cfpb-heres-what-the-agency-does
   outlet: NPR
   date: '2025-02-10'
@@ -57,13 +48,11 @@ sources:
   url: https://www.washingtonpost.com/health/2025/03/03/hhs-richardson-waiver-public-comment/
   outlet: Washington Post
   tier: 1
-- title: DOGE wants to charge one federal agency millions of dollars for its work
-    to make government more efficient
+- title: DOGE wants to charge one federal agency millions of dollars for its work to make government more efficient
   url: https://www.cnn.com/2025/03/03/politics/doge-wants-to-charge-opm-millions/index.html
   outlet: CNN
   date: '2025-03-03'
-- title: Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done
-    That, and More
+- title: Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done That, and More
   url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
   outlet: Government Executive
   date: '2025-04-01'
@@ -77,7 +66,7 @@ tags:
 - economic-manipulation
 - national-security-pretext
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

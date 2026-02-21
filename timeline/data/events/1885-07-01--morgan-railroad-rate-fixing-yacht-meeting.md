@@ -9,7 +9,7 @@ actors:
 - Pennsylvania Railroad
 - Railroad Executives
 sources:
-- title: 'J. P. Morgan'
+- title: J. P. Morgan
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/J._P._Morgan
   year: 2025
@@ -17,7 +17,7 @@ sources:
   outlet: USHistory.org
   url: https://www.ushistory.org/us/36d.asp
   year: 2025
-- title: 'J.P. Morgan'
+- title: J.P. Morgan
   outlet: Britannica
   url: https://www.britannica.com/money/J-P-Morgan
   year: 2025
@@ -28,9 +28,8 @@ tags:
 - corporate-consolidation
 - anti-competitive-practices
 capture_lanes:
-- Financial Industry Control
-- Market Manipulation
-- Corporate Cartel Formation
+- Financial Capture
+- Corporate Capture
 status: confirmed
 ---
 

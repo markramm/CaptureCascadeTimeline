@@ -1,7 +1,7 @@
 ---
 id: 1878-02-28--bland-allison-act-silver-monetary-conflict
 date: '1878-02-28'
-title: 'Bland-Allison Act Overrides Presidential Veto, Restores Silver Coinage'
+title: Bland-Allison Act Overrides Presidential Veto, Restores Silver Coinage
 importance: 7
 actors:
 - Richard P. Bland
@@ -9,15 +9,15 @@ actors:
 - Rutherford B. Hayes
 - U.S. Congress
 sources:
-- title: 'Bland–Allison Act'
+- title: Bland–Allison Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Bland%E2%80%93Allison_Act
   year: 2024
-- title: 'The Bland-Allison Act of 1878 Explained'
+- title: The Bland-Allison Act of 1878 Explained
   outlet: JM Bullion
   url: https://www.jmbullion.com/investing-guide/facts/bland-allison-act-of-1878/
   year: 2024
-- title: 'Money-in-Politics Timeline'
+- title: Money-in-Politics Timeline
   outlet: OpenSecrets
   url: https://www.opensecrets.org/resources/learn/timeline
   year: 2024
@@ -27,9 +27,7 @@ tags:
 - financial-system-capture
 - gilded-age
 capture_lanes:
-- Banking Sector Control
-- Monetary Policy Warfare
-- Debtor-Creditor Conflict
+- Financial Capture
 status: confirmed
 ---
 

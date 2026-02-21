@@ -42,6 +42,10 @@ sources:
   tier: 1
   outlet: Senate Finance Committee
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Electoral Manipulation
+- Digital & Tech Capture
 ---
 
 During the 2016 election cycle, the National Rifle Association spent a record $30-55 million supporting Donald Trump's presidential campaign—triple its 2012 spending for Mitt Romney. The unprecedented spending occurred during and after Maria Butina and Alexander Torshin's systematic infiltration of the NRA, leading to FBI and Congressional investigations into whether Russian money was illegally laundered through the NRA to support Trump. The Senate Finance Committee later concluded the Kremlin used the NRA as a vehicle to help Trump's campaign.

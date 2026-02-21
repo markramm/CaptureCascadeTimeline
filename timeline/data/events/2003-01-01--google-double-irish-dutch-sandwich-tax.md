@@ -1,6 +1,6 @@
 ---
 date: '2003-01-01'
-title: 'Google Establishes "Double Irish, Dutch Sandwich" Tax Avoidance Structure'
+title: Google Establishes "Double Irish, Dutch Sandwich" Tax Avoidance Structure
 description: Google established the "Double Irish with a Dutch Sandwich" tax avoidance scheme, routing profits through Ireland, Netherlands, and Bermuda to avoid billions in US and European taxes. The structure used two Irish subsidiaries (one tax-resident in Bermuda), a Dutch intermediary, and intellectual property licensing to shift profits to zero-tax Bermuda while avoiding withholding taxes. Google routed foreign ad revenues through Irish operations, paid inflated royalties to a Dutch shell company, which then paid the Bermudan entity—resulting in effective tax rates under 3% on non-US profits. The scheme became the template for tech industry tax avoidance, with Google shifting $23 billion annually through the structure by 2017. Ireland and Netherlands enabled the scheme through deliberate tax policy designed to attract multinationals, while Google paid minimal taxes despite generating hundreds of billions in global revenues.
 actors:
 - Google
@@ -25,7 +25,7 @@ sources:
   url: https://en.wikipedia.org/wiki/Double_Irish_arrangement
   outlet: Wikipedia
   date: '2024-10-15'
-- title: 'Doubling Down on Double Sandwich Tax Schemes'
+- title: Doubling Down on Double Sandwich Tax Schemes
   url: https://cmr.berkeley.edu/2020/03/doubling-down/
   outlet: California Management Review
   date: '2020-03-15'
@@ -40,10 +40,9 @@ sources:
 status: confirmed
 id: 2003-01-01--google-double-irish-dutch-sandwich-tax
 capture_lanes:
-- Tax Evasion
-- Offshore Finance
-- Corporate Crime
-- Wealth Extraction
+- Financial Capture
+- International Kleptocracy
+- Corporate Capture
 capture_type: systematic_tax_avoidance
 patterns:
 - offshore-profit-shifting

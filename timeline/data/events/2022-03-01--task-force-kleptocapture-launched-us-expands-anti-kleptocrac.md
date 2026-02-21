@@ -37,7 +37,7 @@ id: 2022-03-01--task-force-kleptocapture-launched-us-expands-anti-kleptocrac
 priority_id: RP-20250909-resistance-movement-documentation
 capture_lanes:
 - Systematic Corruption
-- Financial Warfare
+- Financial Capture
 ---
 
 Attorney General Merrick Garland established Task Force KleptoCapture, an unprecedented interagency law enforcement unit dedicated to enforcing sanctions and seizing assets of Russian kleptocrats following the Ukraine invasion. The initiative represents a major expansion of US anti-corruption enforcement capabilities, leveraging cutting-edge investigative techniques to track and disrupt financial misconduct by Russian officials and oligarchs, with a focus on sanctions violations, cryptocurrency evasion, and strategic asset seizures.

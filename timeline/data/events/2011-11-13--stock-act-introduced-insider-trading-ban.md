@@ -39,4 +39,8 @@ sources:
   date: 2024-01-01
   tier: 3
   outlet: Wikipedia
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Legislative Capture
 ---

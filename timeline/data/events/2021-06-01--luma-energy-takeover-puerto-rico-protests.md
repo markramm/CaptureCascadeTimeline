@@ -1,8 +1,7 @@
 ---
 id: 2021-06-01--luma-energy-takeover-puerto-rico-protests
 date: '2021-06-01'
-title: LUMA Energy Assumes Control of Puerto Rico's Grid Amid Massive 'Fuera LUMA'
-  Protests Against McKinsey-Designed Privatization
+title: LUMA Energy Assumes Control of Puerto Rico's Grid Amid Massive 'Fuera LUMA' Protests Against McKinsey-Designed Privatization
 importance: 9
 actors:
 - LUMA Energy
@@ -59,15 +58,14 @@ sources:
   outlet: RT News
   date: '2021-06-07'
   archive_url: null
-- title: 'Trump: Bitcoin ''seems like a scam'' and should be regulated ''very very
-    high'''
+- title: 'Trump: Bitcoin ''seems like a scam'' and should be regulated ''very very high'''
   url: https://www.foxnews.com/media/donald-trump-bitcoin-scam-regulated-cryptocurrency
   outlet: Fox News
   date: '2021-06-07'
   archive_url: null
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

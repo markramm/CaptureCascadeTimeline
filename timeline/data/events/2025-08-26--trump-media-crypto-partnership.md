@@ -27,6 +27,10 @@ sources:
   title: Trump Media (DJT), Crypto.com to Build $6.4B CRO Treasury Firm, CRO Token Jumps 25%
   tier: 2
   outlet: CoinDesk
+capture_lanes:
+- Financial Capture
+- International Kleptocracy
+- Systematic Corruption
 ---
 
 Trump Media and Technology Group, owner of Truth Social, announced a $1 billion partnership with Crypto.com and Yorkville Advisors to create Trump Media Group CRO Strategy Inc., which will hold cryptocurrency assets and merge with Yorkville Acquisition Corp under the ticker 'MCGA' (Make CRO Great Again). The deal involves Trump Media purchasing $105 million in CRO tokens (approximately 2% of total supply) while Crypto.com acquires $50 million in DJT shares. Yorkville committed $1 billion worth of CRO tokens plus $420 million in cash and a $5 billion line of credit. Truth Social will integrate Crypto.com's digital wallet infrastructure and adopt Cronos (CRO) as a utility token for platform rewards. The partnership, involving foreign investors including UAE-based entities, raises profound conflicts of interest as Trump simultaneously holds presidential power while building a family crypto empire intertwined with his social media platform, creating direct financial incentives that could influence cryptocurrency regulation and foreign policy.

@@ -18,12 +18,12 @@ tags:
 - cdos
 - systemic-risk
 sources:
-- title: 'President Signs S. 3850, the Credit Rating Agency Reform Act of 2006'
+- title: President Signs S. 3850, the Credit Rating Agency Reform Act of 2006
   outlet: White House Archives
   url: https://georgewbush-whitehouse.archives.gov/news/releases/2006/09/20060929-8.html
   tier: 1
   verified: true
-- title: 'Credit Rating Agency Reform Act'
+- title: Credit Rating Agency Reform Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Credit_Rating_Agency_Reform_Act
   tier: 3
@@ -34,8 +34,8 @@ sources:
   tier: 1
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

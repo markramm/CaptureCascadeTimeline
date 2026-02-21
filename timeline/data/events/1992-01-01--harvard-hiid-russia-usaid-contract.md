@@ -1,8 +1,7 @@
 ---
 id: 1992-01-01--harvard-hiid-russia-usaid-contract
 date: '1992-01-01'
-title: 'Harvard Receives $40 Million USAID Contract to Advise Russia''s Economic Transition:
-  ''Harvard''s Blank Check from Uncle Sam'''
+title: 'Harvard Receives $40 Million USAID Contract to Advise Russia''s Economic Transition: ''Harvard''s Blank Check from Uncle Sam'''
 importance: 9
 actors:
 - Harvard Institute for International Development
@@ -50,14 +49,12 @@ sources:
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '2016-01-01'
-- title: Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme
-    - Executive Summary
+- title: Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Executive Summary
   url: https://www.sec.gov/files/oig-509-exec-summary.pdf
   outlet: SEC Office of Inspector General
   date: '2009-08-31'
   tier: 1
-- title: Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme
-    - Full Report
+- title: Investigation of Failure of the SEC to Uncover Bernard Madoff's Ponzi Scheme - Full Report
   url: https://www.sec.gov/news/studies/2009/oig-509.pdf
   outlet: SEC Office of Inspector General
   tier: 1
@@ -68,7 +65,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

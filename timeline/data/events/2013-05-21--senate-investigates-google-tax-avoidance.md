@@ -39,9 +39,9 @@ sources:
 status: confirmed
 id: 2013-05-21--senate-investigates-google-tax-avoidance
 capture_lanes:
-- Tax Evasion
-- Political Capture
-- Corporate Impunity
+- Financial Capture
+- Democratic Erosion
+- Corporate Capture
 capture_type: failed_oversight
 patterns:
 - congressional-investigation-without-action

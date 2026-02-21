@@ -31,8 +31,8 @@ sources:
   tier: 2
   verified: true
 capture_lanes:
-- Financial Regulatory Capture
-- Institutional Racism
+- Financial Capture
+- Civil Rights Suppression
 status: confirmed
 ---
 

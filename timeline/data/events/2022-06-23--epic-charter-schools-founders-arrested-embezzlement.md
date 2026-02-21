@@ -46,9 +46,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Education Privatization Enabling Fraud
-- Charter School Accountability Gaps
-- Political Influence Through Campaign Donations
+- Financial Capture
 ---
 
 On June 23, 2022, the Oklahoma State Bureau of Investigation arrested Epic Charter Schools co-founders Ben Harris, 46, and David Chaney, 43, along with former CFO Josh Brock, 40, on racketeering, embezzlement, and conspiracy charges related to what State Auditor Cindy Byrd called "the largest abuse of taxpayer funds in the history of the state." The arrests culminated years of investigation into a complex criminal enterprise that prosecutors alleged defrauded Oklahoma taxpayers of more than $22 million through their management company, Epic Youth Services.

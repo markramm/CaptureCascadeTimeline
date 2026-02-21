@@ -48,9 +48,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- political
-- financial
-- foreign-influence
+- Financial Capture
+- International Kleptocracy
 ---
 
 Russian aluminum giant Rusal announces a $200 million investment in Kentucky's Braidy Industries aluminum mill project, taking a 40 percent equity stake just three months after the Trump administration lifts sanctions on the company. Rusal was sanctioned in April 2018 because its major controller, Russian oligarch Oleg Deripaska with close ties to Vladimir Putin, faced Treasury Department accusations of "a range of malign activity around the globe" including interference in the 2016 U.S. presidential election and meddling in Ukraine. The sanctions lifting in January 2019 followed months of negotiations where Deripaska reduced his formal stake in Rusal's parent company En+ Group, though questions about actual control persist.

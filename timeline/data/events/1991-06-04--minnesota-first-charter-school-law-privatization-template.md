@@ -16,26 +16,26 @@ tags:
 - school-choice
 - model-legislation
 sources:
-- title: "Charter Schools in the United States: The Question of Autonomy"
+- title: 'Charter Schools in the United States: The Question of Autonomy'
   url: https://eric.ed.gov/?id=ED437736
   outlet: ERIC
   date: '1999-01-01'
   tier: 2
-- title: "The Charter School Dust-Up: Examining the Evidence on Enrollment and Achievement"
+- title: 'The Charter School Dust-Up: Examining the Evidence on Enrollment and Achievement'
   url: https://www.epi.org/publication/books_charter_schooldustup/
   outlet: Economic Policy Institute
   date: '2005-01-01'
   tier: 1
-- title: "First U.S. Charter School Law Signed in Minnesota"
+- title: First U.S. Charter School Law Signed in Minnesota
   url: https://www.edweek.org/policy-politics/minn-oks-first-charter-school-law-in-nation/1991/06
   outlet: Education Week
   date: '1991-06-12'
   tier: 1
 status: confirmed
 capture_lanes:
-- Education Privatization
-- Model Legislation
-- Neoliberal Reform
+- Financial Capture
+- Legislative Capture
+- Regulatory Capture
 ---
 
 On June 4, 1991, Minnesota Governor Arne Carlson signed the nation's first charter school law, creating a new category of publicly funded but independently operated schools that would transform American education over the following three decades. The legislation, championed by the Citizens League think tank and progressive educators like Ted Kolderie and Joe Nathan, established a template that would spread to 45 states and enable massive growth in education privatization.

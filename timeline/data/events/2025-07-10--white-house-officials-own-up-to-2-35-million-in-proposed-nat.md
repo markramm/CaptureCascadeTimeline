@@ -1,14 +1,8 @@
 ---
 id: 2025-07-10--white-house-officials-own-up-to-2-35-million-in-proposed-nat
 date: '2025-07-10'
-title: White House Officials Own Cryptocurrency Assets in Proposed National Crypto
-  Reserve
-description: Comprehensive investigation reveals potential conflicts of interest in
-  the Trump administration's proposed national cryptocurrency reserve. 19 White House
-  officials own crypto assets totaling between $875,000 and $2.35 million, with holdings
-  in Bitcoin, Ethereum, Solana, XRP, and Cardano. The strategic reserve plan, established
-  via executive order in March 2025, could directly benefit these officials by potentially
-  increasing the value of their holdings.
+title: White House Officials Own Cryptocurrency Assets in Proposed National Crypto Reserve
+description: Comprehensive investigation reveals potential conflicts of interest in the Trump administration's proposed national cryptocurrency reserve. 19 White House officials own crypto assets totaling between $875,000 and $2.35 million, with holdings in Bitcoin, Ethereum, Solana, XRP, and Cardano. The strategic reserve plan, established via executive order in March 2025, could directly benefit these officials by potentially increasing the value of their holdings.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -45,9 +39,8 @@ capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
 - Executive Power Expansion
-- Financial Manipulation
-notes: Comprehensive analysis of potential conflicts of interest in cryptocurrency
-  asset holdings by White House officials
+- Financial Capture
+notes: Comprehensive analysis of potential conflicts of interest in cryptocurrency asset holdings by White House officials
 ---
 
 A comprehensive analysis by Citizens for Responsibility and Ethics in Washington (CREW) revealed that 19 White House officials own between $875,000 and $2.35 million in cryptocurrency assets, directly aligning with President Trump's proposed national crypto reserve strategy. The officials hold assets including Bitcoin, Ethereum, Solana, XRP, and Cardano, potentially benefiting from the strategic reserve's market impact.

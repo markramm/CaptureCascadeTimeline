@@ -33,6 +33,10 @@ actors:
 - Lockheed Martin
 - House Armed Services Committee
 - Lloyd Austin
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Senator Elizabeth Warren released a comprehensive report analyzing the defense contractor revolving door, identifying 672 cases where the top 20 defense contractors employed former government officials, military officers, members of Congress, and senior legislative staff. The analysis found that 91% of these individuals—over 600 people—became registered lobbyists for defense contractors, creating a systematic pipeline between congressional Armed Services Committees, the Pentagon, and the weapons manufacturers they are meant to oversee. The report documented how this revolving door allows defense contractors to purchase insider knowledge and congressional access while creating implicit incentives for current officials to maintain industry-friendly positions.

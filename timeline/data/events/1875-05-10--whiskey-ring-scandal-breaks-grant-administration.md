@@ -32,9 +32,8 @@ tags:
 - institutional-capture
 - executive-branch-corruption
 capture_lanes:
-- Treasury Department Capture
-- Executive Branch Corruption
-- Corporate Tax Evasion
+- Financial Capture
+- Executive Power Expansion
 status: confirmed
 ---
 

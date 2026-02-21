@@ -21,22 +21,20 @@ tags:
 - systematic-corruption
 - higher-education
 capture_lanes:
-- For-Profit Education Fraud
-- Federal Student Aid Exploitation
-- Predatory Recruitment Practices
-- Whistleblower Retaliation
+- Financial Capture
+- Systematic Corruption
 sources:
-- title: "$78.5M Settles U. of Phoenix Case"
+- title: $78.5M Settles U. of Phoenix Case
   url: https://www.insidehighered.com/news/2009/12/15/785m-settles-u-phoenix-case
   outlet: Inside Higher Ed
   date: '2009-12-15'
   tier: 2
-- title: "University of Phoenix Settles False Claims Act Lawsuit for $67.5 Million"
+- title: University of Phoenix Settles False Claims Act Lawsuit for $67.5 Million
   url: https://www.justice.gov/archives/opa/pr/university-phoenix-settles-false-claims-act-lawsuit-675-million
   outlet: U.S. Department of Justice
   date: '2009-12-14'
   tier: 1
-- title: "University of Phoenix settles qui tam suit for $78.5 million"
+- title: University of Phoenix settles qui tam suit for $78.5 million
   url: https://www.phillipsandcohen.com/university-of-phoenix-settles-qui-tam-suit-for-78-5-million/
   outlet: Phillips & Cohen
   date: '2009-12-14'

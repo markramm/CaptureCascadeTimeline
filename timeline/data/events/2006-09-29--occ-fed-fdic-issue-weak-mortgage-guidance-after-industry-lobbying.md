@@ -24,30 +24,29 @@ tags:
 - housing-bubble
 - regulatory-failure
 sources:
-- title: 'Interagency Guidance on Nontraditional Mortgage Product Risks'
+- title: Interagency Guidance on Nontraditional Mortgage Product Risks
   outlet: Federal Register
   url: https://www.federalregister.gov/documents/2006/10/04/06-8480/interagency-guidance-on-nontraditional-mortgage-product-risks
   tier: 1
   verified: true
-- title: 'Federal Reserve Supervisory Letter SR 06-15'
+- title: Federal Reserve Supervisory Letter SR 06-15
   outlet: Federal Reserve
   url: https://www.federalreserve.gov/boarddocs/srletters/2006/sr0615.htm
   tier: 1
   verified: true
-- title: 'Bush administration ignored clear warnings'
+- title: Bush administration ignored clear warnings
   outlet: NBC News
   url: https://www.nbcnews.com/id/wbna28001417
   tier: 1
   verified: true
-- title: 'Bush administration ignored clear warnings'
+- title: Bush administration ignored clear warnings
   outlet: FOX News (AP)
   url: https://www.foxnews.com/printer_friendly_wires/2008Dec01/0,4675,MeltdownIgnoredWarnings,00.html
   tier: 1
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
-- Corporate Lobbying
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -16,24 +16,24 @@ tags:
 - subprime-mortgages
 - housing-bubble
 sources:
-- title: 'Bank regulator played advocate not enforcer'
+- title: Bank regulator played advocate not enforcer
   outlet: NBC News
   url: https://www.nbcnews.com/id/wbna27865780
   tier: 1
   verified: true
-- title: 'Office of Thrift Supervision'
+- title: Office of Thrift Supervision
   outlet: This Matter
   url: https://thismatter.com/money/banking/office-of-thrift-supervision.htm
   tier: 2
   verified: true
-- title: 'Office of Thrift Supervision'
+- title: Office of Thrift Supervision
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Office_of_Thrift_Supervision
   tier: 3
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

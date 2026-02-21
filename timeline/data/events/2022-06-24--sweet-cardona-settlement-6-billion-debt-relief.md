@@ -2,9 +2,7 @@
 id: 2022-06-24--sweet-cardona-settlement-6-billion-debt-relief
 date: '2022-06-24'
 importance: 10
-title: Sweet v. Cardona Settlement Approves $6 Billion in Automatic Debt Cancellation
-  for 200,000 Students Defrauded by For-Profit Colleges, Ending Years of Trump-Era
-  Delays
+title: Sweet v. Cardona Settlement Approves $6 Billion in Automatic Debt Cancellation for 200,000 Students Defrauded by For-Profit Colleges, Ending Years of Trump-Era Delays
 location: San Francisco, California
 actors:
 - U.S. District Court for Northern California
@@ -21,11 +19,7 @@ tags:
 - fraud-relief
 - regulatory-capture
 capture_lanes:
-- Student Debt Relief
-- For-Profit Education Fraud Accountability
-- Borrower Defense to Repayment
-- Trump-Era Obstruction Reversed
-- Mass Debt Cancellation
+- Financial Capture
 sources:
 - title: Here's a list of the colleges in the Sweet v. Cardona settlement agreement
   url: https://www.highereddive.com/news/heres-a-list-of-the-colleges-in-the-sweet-v-cardona-settlement-agreement/629283/
@@ -54,8 +48,7 @@ sources:
   url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/dobbs-v-jackson-womens-health-organization
   outlet: Constitution Center
   date_accessed: '2025-12-23'
-- title: Explaining SCOTUS's Abortion Decision in Dobbs v. Jackson Women's Health
-    Organization
+- title: Explaining SCOTUS's Abortion Decision in Dobbs v. Jackson Women's Health Organization
   url: https://www.lwv.org/blog/explaining-scotuss-abortion-decision-dobbs-v-jackson-womens-health-organization
   outlet: League of Women Voters
   date: '2022-06-24'
@@ -63,14 +56,7 @@ sources:
   url: https://fedsoc.org/case/dobbs-v-jackson-womens-health-organization
   outlet: Federalist Society
   date_accessed: '2025-12-23'
-notes: Settlement covered 200,000 borrowers who attended 151 for-profit colleges including
-  ITT Tech, Corinthian, Art Institutes, Everest, Heald, WyoTech, and many others.
-  Lawsuit originally filed as Sweet v. DeVos in 2019 challenging Trump admin blocking
-  of borrower defense claims. Biden admin agreed to settlement providing automatic
-  discharge rather than individual application review. Federal judge approved November
-  2022. Three for-profit colleges (Lincoln Educational Services, American National
-  University, Everglades College) intervened to challenge but appeals court rejected
-  challenge. Total relief approximately $6 billion.
+notes: Settlement covered 200,000 borrowers who attended 151 for-profit colleges including ITT Tech, Corinthian, Art Institutes, Everest, Heald, WyoTech, and many others. Lawsuit originally filed as Sweet v. DeVos in 2019 challenging Trump admin blocking of borrower defense claims. Biden admin agreed to settlement providing automatic discharge rather than individual application review. Federal judge approved November 2022. Three for-profit colleges (Lincoln Educational Services, American National University, Everglades College) intervened to challenge but appeals court rejected challenge. Total relief approximately $6 billion.
 status: confirmed
 ---
 

@@ -1,8 +1,7 @@
 ---
 id: 2016-05-01--puerto-rico-defaults-debt-crisis
 date: '2016-05-01'
-title: Puerto Rico Defaults on $422 Million Bond Payment, Triggering Largest Municipal
-  Debt Crisis in U.S. History
+title: Puerto Rico Defaults on $422 Million Bond Payment, Triggering Largest Municipal Debt Crisis in U.S. History
 importance: 9
 actors:
 - Alejandro García Padilla
@@ -31,8 +30,7 @@ sources:
   url: https://www.democracynow.org/2016/4/7/headlines/puerto_rico_gov_signs_bill_authorizing_halt_of_debt_payments
   outlet: Democracy Now!
   tier: 2
-- title: Wall Street's Solution to Puerto Rico Debt Crisis? Shutter Schools, Fire
-    Workers
+- title: Wall Street's Solution to Puerto Rico Debt Crisis? Shutter Schools, Fire Workers
   url: https://www.commondreams.org/news/2015/07/28/wall-streets-solution-puerto-rico-debt-crisis-shutter-schools-fire-workers
   outlet: Common Dreams
   tier: 2
@@ -50,14 +48,12 @@ sources:
   outlet: Senate Intelligence Committee
   date: '2020-08-18'
   archive_url: https://web.archive.org/web/20200818000000/https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf
-- title: 'U.S. Treasury Provides Missing Link: Manafort''s Partner Gave Campaign Polling
-    Data to Kremlin'
+- title: 'U.S. Treasury Provides Missing Link: Manafort''s Partner Gave Campaign Polling Data to Kremlin'
   url: https://www.justsecurity.org/75766/us-treasury-provides-missing-link-manaforts-partner-gave-campaign-polling-data-to-kremlin-in-2016/
   outlet: Just Security
   date: '2021-04-15'
   archive_url: null
-- title: Paul Manafort Briefed Russian Intelligence Member on 'Battleground States'
-    That Nearly All Voted for Trump
+- title: Paul Manafort Briefed Russian Intelligence Member on 'Battleground States' That Nearly All Voted for Trump
   url: https://www.newsweek.com/paul-manafort-russian-intelligence-kilimnik-collusion-trump-campaign-1400826
   outlet: Newsweek
   date: '2019-03-01'
@@ -76,7 +72,7 @@ sources:
   title: Roger Stone's meeting with Russian offering Clinton dirt
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

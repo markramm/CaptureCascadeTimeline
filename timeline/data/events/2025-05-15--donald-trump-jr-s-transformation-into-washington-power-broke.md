@@ -2,9 +2,7 @@
 id: 2025-05-15--donald-trump-jr-s-transformation-into-washington-power-broke
 title: Donald Trump Jr.'s transformation into Washington power broker
 date: '2025-05-15'
-description: From joining multiple corporate boards to launching global cryptocurrency
-  and hospitality ventures, Donald Trump Jr. has significantly expanded his financial
-  and political influence, leveraging his family's White House connections.
+description: From joining multiple corporate boards to launching global cryptocurrency and hospitality ventures, Donald Trump Jr. has significantly expanded his financial and political influence, leveraging his family's White House connections.
 status: validated
 importance: 8
 location: Washington, D.C.
@@ -25,8 +23,7 @@ sources:
   url: https://www.cnbc.com/2025/10/01/trump-crypto-firm-expansion-with-tokenized-commodities-debit-cards.html
   date: '2025-10-01'
 - outlet: Fortune Crypto
-  title: Trump-backed crypto firm American Bitcoin notches $5 billion valuation in
-    Nasdaq debut
+  title: Trump-backed crypto firm American Bitcoin notches $5 billion valuation in Nasdaq debut
   url: https://fortune.com/crypto/2025/09/03/american-bitcoin-nasdaq-trading-eric-donald-trump-jr-hut-8/
   date: '2025-09-03'
 - outlet: CBS News
@@ -41,12 +38,11 @@ connections: []
 patterns:
 - kleptocratic-capture
 - family-influence
-notes: Comprehensive documentation of Trump Jr.'s cryptocurrency and corporate board
-  ventures in 2025, demonstrating systematic monetization of political connections
+notes: Comprehensive documentation of Trump Jr.'s cryptocurrency and corporate board ventures in 2025, demonstrating systematic monetization of political connections
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
-- Financial Influence
+- Financial Capture
 ---
 
 Donald Trump Jr. has amassed significant wealth and power through cryptocurrency ventures like World Liberty Financial and American Bitcoin, establishing himself as a major Washington power broker. His ventures include a World Liberty Financial stablecoin USD1 that became the fifth-largest globally, and a Bitcoin mining company that raised $220 million.

@@ -29,6 +29,10 @@ sources:
   date: '2018-02-02'
   tier: 1
   outlet: NPR
+capture_lanes:
+- Financial Capture
+- Corporate Capture
+- Regulatory Capture
 ---
 
 The Federal Reserve Board imposes an unprecedented enforcement action against Wells Fargo, restricting the bank from growing beyond its total asset size as of December 31, 2017—approximately $1.95 trillion. The asset cap represents the most severe punishment the Fed has imposed on a major bank in modern times, effectively freezing Wells Fargo's ability to expand until it demonstrates substantial improvements in governance, risk management, and compliance. The Fed also requires Wells Fargo to replace four board members and subjects all directors to unprecedented supervisory letters noting they "did not meet supervisory expectations."

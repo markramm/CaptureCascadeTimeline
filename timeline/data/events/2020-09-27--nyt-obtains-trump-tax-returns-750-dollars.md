@@ -36,6 +36,10 @@ sources:
   tier: 1
   outlet: CNBC
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Labor Suppression
+- Systematic Corruption
 ---
 
 The New York Times obtained and published a comprehensive investigation into President Donald Trump's tax returns covering more than 20 years, revealing that Trump paid just $750 in federal income taxes in both 2016 (the year he won the presidency) and 2017 (his first year in office). The investigation found Trump paid zero federal income taxes in 10 of the previous 15 years, largely because he reported losing significantly more money than he made. The timing of this revelation, coming just before the first presidential debate, represented one of the most significant exposures of Trump's actual financial situation versus his cultivated image as a successful businessman.

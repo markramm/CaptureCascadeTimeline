@@ -28,6 +28,10 @@ tags:
 - conflicts-of-interest
 - self-dealing
 - crypto-corruption
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Digital & Tech Capture
 ---
 
 Trump's Special Envoy to the Middle East Steve Witkoff sold his stake in the Witkoff Group for $120 million, according to financial disclosures released publicly in mid-September 2025. The sale was described as addressing conflict of interest concerns between his government role and business activities. However, Witkoff's disclosed assets still exceed $350 million, including stakes in SpaceX, Cisco Systems, Reddit, Uber Technologies, hedge funds, airplanes, motorboats, and digital assets. Most controversially, Witkoff has not divested his holdings in World Liberty Financial, a cryptocurrency company he co-founded with members of the Trump family. Senate Democrats led by Adam Schiff demanded answers about Witkoff's failure to divest these Trump-linked crypto assets while serving as a key diplomatic envoy. The partial divestiture demonstrates how Trump administration officials monetize government positions while maintaining entanglements with Trump-linked financial schemes, blurring the lines between public service and personal enrichment.

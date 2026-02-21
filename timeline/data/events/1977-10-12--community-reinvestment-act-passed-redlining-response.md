@@ -17,7 +17,7 @@ tags:
 - civil-rights
 - housing
 sources:
-- title: 'Community Reinvestment Act'
+- title: Community Reinvestment Act
   outlet: Federal Reserve History
   url: https://www.federalreservehistory.org/essays/community-reinvestment-act
   tier: 1
@@ -27,14 +27,14 @@ sources:
   url: https://www.frbsf.org/community-development/publications/community-development-investment-review/2009/february/cra-origins-evolution-future/
   tier: 1
   verified: true
-- title: 'History of the Community Reinvestment Act'
+- title: History of the Community Reinvestment Act
   outlet: National Community Reinvestment Coalition
   url: https://ncrc.org/cra-history/
   tier: 2
   verified: true
 capture_lanes:
-- Financial Regulatory Response
-- Industry Opposition
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

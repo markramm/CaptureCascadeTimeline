@@ -11,7 +11,7 @@ tags:
 - budget-cuts
 capture_lanes:
 - Regulatory Capture
-- Wealth Transfer
+- Financial Capture
 actors:
 - Donald Trump
 - Congressional Republicans

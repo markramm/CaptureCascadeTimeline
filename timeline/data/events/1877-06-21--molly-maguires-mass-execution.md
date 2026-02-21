@@ -30,7 +30,7 @@ tags:
 - institutional-capture
 status: confirmed
 capture_lanes:
-- Economic Capture
+- Financial Capture
 - Judicial Capture
 ---
 

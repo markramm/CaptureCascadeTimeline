@@ -17,25 +17,24 @@ tags:
 - regulatory-failure
 - housing
 sources:
-- title: 'Bank of America Halts Foreclosures Nationwide'
+- title: Bank of America Halts Foreclosures Nationwide
   outlet: The New York Times
   url: https://www.nytimes.com/2010/10/09/business/09mortgage.html
   tier: 2
   verified: true
-- title: 'Robo-Signing and the Foreclosure Crisis'
+- title: Robo-Signing and the Foreclosure Crisis
   outlet: Congressional Research Service
   url: https://crsreports.congress.gov/product/pdf/R/R41491
   tier: 1
   verified: true
-- title: 'Affidavit of Foreclosure Fraud'
+- title: Affidavit of Foreclosure Fraud
   outlet: Reuters
   url: https://www.reuters.com/article/us-usa-housing-foreclosures-idUSTRE69C3TU20101013
   tier: 2
   verified: true
 capture_lanes:
-- Financial Industry Fraud
+- Financial Capture
 - Regulatory Capture
-- Prosecutorial Failure
 status: confirmed
 ---
 

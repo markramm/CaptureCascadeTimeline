@@ -20,27 +20,27 @@ tags:
 - democracy
 location: San Antonio, TX
 sources:
-- title: 'Clear Channel acquires AMFM Inc. creating radio monopoly'
+- title: Clear Channel acquires AMFM Inc. creating radio monopoly
   url: https://www.encyclopedia.com/books/politics-and-business-magazines/clear-channel-communications-inc
   outlet: Encyclopedia.com
   date: '2024-01-01'
   tier: 2
-- title: 'Why do right-wing voices dominate the AM dial? Decades of change cemented shift'
+- title: Why do right-wing voices dominate the AM dial? Decades of change cemented shift
   url: https://kansasreflector.com/2023/01/21/why-do-right-wing-voices-dominate-the-am-dial-decades-of-change-cemented-shift/
   outlet: Kansas Reflector
   date: '2023-01-21'
   tier: 2
-- title: 'Conservative talk radio'
+- title: Conservative talk radio
   url: https://en.wikipedia.org/wiki/Conservative_talk_radio
   outlet: Wikipedia
   date: '2024-12-01'
   tier: 2
-- title: 'Rush Limbaugh to Switch Stations in Los Angeles and San Francisco'
+- title: Rush Limbaugh to Switch Stations in Los Angeles and San Francisco
   url: https://www.hollywoodreporter.com/news/politics-news/rush-limbaugh-switch-stations-los-662588/
   outlet: Hollywood Reporter
   date: '2014-01-31'
   tier: 2
-- title: 'US Fascism Has Arrived Thanks to 30 Years of Right-Wing Talk Radio Dominance'
+- title: US Fascism Has Arrived Thanks to 30 Years of Right-Wing Talk Radio Dominance
   url: https://www.commondreams.org/opinion/right-wing-talk-radio
   outlet: Common Dreams
   date: '2021-01-11'
@@ -48,7 +48,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Market Concentration
+- Financial Capture
 ---
 
 By August 30, 2000, Clear Channel Communications completed its acquisition of AMFM Inc., creating a radio empire of 1,240 stations nationwide—representing a 30-fold increase from the 40 stations Clear Channel owned before the 1996 Telecommunications Act eliminated ownership caps. This unprecedented consolidation gave Clear Channel control over conservative talk radio infrastructure across America, with Rush Limbaugh's $400 million 8-year contract as the company's largest deal, enabling coordinated right-wing messaging to dominate the AM dial and fundamentally reshape American political discourse.

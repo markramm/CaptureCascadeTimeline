@@ -17,26 +17,25 @@ tags:
 - federal-policy
 - washington-dc
 sources:
-- title: "DC School Choice Incentive Act of 2003"
+- title: DC School Choice Incentive Act of 2003
   url: https://www.congress.gov/bill/108th-congress/house-bill/2556
   outlet: Congress.gov
   date: '2004-01-22'
   tier: 1
-- title: "Evaluation of the DC Opportunity Scholarship Program"
+- title: Evaluation of the DC Opportunity Scholarship Program
   url: https://ies.ed.gov/ncee/pubs/20104018/
   outlet: Institute of Education Sciences
   date: '2010-06-01'
   tier: 1
-- title: "The DC Voucher Program: A Failed Experiment"
+- title: 'The DC Voucher Program: A Failed Experiment'
   url: https://www.epi.org/publication/dc-voucher-program-failed-experiment/
   outlet: Economic Policy Institute
   date: '2017-05-01'
   tier: 1
 status: confirmed
 capture_lanes:
-- Education Privatization
-- Federal Voucher Expansion
-- Conservative Policy Experimentation
+- Financial Capture
+- Democratic Erosion
 ---
 
 On January 22, 2004, President George W. Bush signed the DC School Choice Incentive Act, creating the DC Opportunity Scholarship Program (OSP)—the first federally-funded private school voucher program in American history. Congress used its constitutional authority over the District of Columbia to implement a voucher experiment that would have faced fierce opposition in any state legislature with elected local representation.

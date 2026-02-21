@@ -31,7 +31,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 President Richard Nixon signed the Health Maintenance Organization Act of 1973 into law on December 29, 1973, following Senate sponsorship by Edward Kennedy. The Act provided grants and loans to start or expand Health Maintenance Organizations (HMOs), removed certain state restrictions for federally qualified HMOs, and required employers with 25 or more employees to offer federally certified HMO options alongside traditional health insurance. While the legislation was ostensibly designed to control healthcare costs and improve patient care, the Nixon administration viewed it as an opportunity to develop a profit-driven alternative to Senator Kennedy's national health insurance proposal.

@@ -1,8 +1,7 @@
 ---
 id: 1987-04-01--fed-approves-section-20-subsidiaries
 date: '1987-04-01'
-title: Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and
-  Bankers Trust
+title: Federal Reserve Approves Section 20 Subsidiaries for JP Morgan, Citicorp, and Bankers Trust
 importance: 9
 location: Washington, D.C.
 actors:
@@ -21,7 +20,7 @@ tags:
 - financial-deregulation
 capture_lanes:
 - Regulatory Capture
-- Financial Deregulation
+- Financial Capture
 sources:
 - title: Decline of the Glass-Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass-Steagall_Act

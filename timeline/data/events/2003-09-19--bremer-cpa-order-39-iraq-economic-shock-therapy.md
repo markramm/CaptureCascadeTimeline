@@ -1,8 +1,7 @@
 ---
 id: 2003-09-19--bremer-cpa-order-39-iraq-economic-shock-therapy
 date: '2003-09-19'
-title: Paul Bremer Issues CPA Order 39 Imposing Radical Free Market Restructuring
-  on Occupied Iraq
+title: Paul Bremer Issues CPA Order 39 Imposing Radical Free Market Restructuring on Occupied Iraq
 importance: 9
 actors:
 - Paul Bremer
@@ -48,7 +47,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Financial Engineering
+- Financial Capture
 ---
 
 

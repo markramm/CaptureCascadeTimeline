@@ -1,8 +1,7 @@
 ---
 id: 2003-05-06--bremer-cpa-begins-100-orders-iraq-neoliberal-transformation
 date: '2003-05-06'
-title: Paul Bremer Begins Issuing 'CPA 100 Orders' to Restructure Iraq's Economy Under
-  Military Occupation
+title: Paul Bremer Begins Issuing 'CPA 100 Orders' to Restructure Iraq's Economy Under Military Occupation
 importance: 10
 actors:
 - Paul Bremer
@@ -39,8 +38,7 @@ sources:
   url: https://www.govinfo.gov/content/pkg/CHRG-110hhrg36545/html/CHRG-110hhrg36545.htm
   outlet: House Committee on Oversight
   date: '2007-02-06'
-- title: 'Major Findings: DPC Oversight Hearings on Waste, Fraud, and Corruption in
-    Iraq'
+- title: 'Major Findings: DPC Oversight Hearings on Waste, Fraud, and Corruption in Iraq'
   url: https://www.dpc.senate.gov/documents/dpc-iraq-report.pdf
   outlet: Senate Democratic Policy Committee
   date: '2007-09-25'
@@ -51,7 +49,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Financial Engineering
+- Financial Capture
 - Military-Industrial Complex
 ---
 

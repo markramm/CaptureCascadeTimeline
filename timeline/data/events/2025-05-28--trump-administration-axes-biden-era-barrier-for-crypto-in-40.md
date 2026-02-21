@@ -17,7 +17,7 @@ tags:
 capture_type: monetizing_position
 capture_lanes:
 - Systematic Corruption
-- Financial Deregulation
+- Financial Capture
 patterns:
 - kleptocratic-capture
 - regulatory-rollback

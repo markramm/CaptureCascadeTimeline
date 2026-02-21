@@ -21,7 +21,7 @@ tags:
 - goldwater
 - think-tanks
 capture_lanes:
-- Tax Evasion
+- Financial Capture
 - Regulatory Capture
 sources:
 - title: American Enterprise Institute - Wikipedia

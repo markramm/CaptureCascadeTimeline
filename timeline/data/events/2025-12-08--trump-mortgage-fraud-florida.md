@@ -28,6 +28,10 @@ sources:
   date: '2025-12-09'
   tier: 1
   outlet: Democracy Now!
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Military-Industrial Complex
 ---
 
 # ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal

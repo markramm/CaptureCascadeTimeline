@@ -21,12 +21,12 @@ tags:
 - financial-engineering
 location: San Antonio, TX
 sources:
-- title: 'iHeartMedia Turns The Dial To Bankruptcy'
+- title: iHeartMedia Turns The Dial To Bankruptcy
   url: https://www.npr.org/sections/thetwo-way/2018/03/15/593868390/iheartmedia-turns-the-dial-to-bankruptcy
   outlet: NPR
   date: '2018-03-15'
   tier: 1
-- title: 'iHeartMedia Files for Chapter 11 Bankruptcy Protection'
+- title: iHeartMedia Files for Chapter 11 Bankruptcy Protection
   url: https://variety.com/2018/biz/news/iheartmedia-chapter-11-bankruptcy-1202715566/
   outlet: Variety
   date: '2018-03-15'
@@ -36,7 +36,7 @@ sources:
   outlet: Wolf Street
   date: '2018-03-15'
   tier: 2
-- title: 'Bain Capital back under microscope with iHeartMedia, Toys R Us exits'
+- title: Bain Capital back under microscope with iHeartMedia, Toys R Us exits
   url: https://pitchbook.com/news/articles/bain-capital-back-under-the-microscope-with-iheartmedia-toys-r-us-bankruptcies
   outlet: PitchBook
   date: '2018-03-15'
@@ -44,7 +44,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Financial Engineering
+- Financial Capture
 ---
 
 On March 15, 2018, iHeartMedia (formerly Clear Channel Communications) filed for Chapter 11 bankruptcy protection, seeking to restructure more than $20 billion in outstanding debt accumulated from the disastrous 2008 leveraged buyout by Bain Capital and Thomas H. Lee Partners. The bankruptcy filing came after iHeartMedia missed a $106 million interest payment on February 1, 2018, and represented one of the largest private equity-driven bankruptcies in years—demonstrating how financial engineering had destroyed the nation's largest radio broadcaster with approximately 850 stations while conservative talk radio infrastructure remained intact under creditor control.

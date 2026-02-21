@@ -25,6 +25,10 @@ sources:
   outlet: Accountable US
   tier: 1
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Judicial Capture
 ---
 
 Florida Attorney General Pam Bondi pressured two senior prosecutors, June Clarkson and Theresa Edwards, to resign from their positions leading the state's investigation into foreclosure fraud and robo-signing by major banks and mortgage servicers. The attorneys had uncovered massive fraud involving documents literally signed "Bogus Assignee," notarization dates of 9/9/9999, and systematic fabrication of chain-of-title records by Florida's "foreclosure mills." Their investigation centered on Lender Processing Services (now Black Knight), which produced fraudulent foreclosure documents enabling banks to dispossess homeowners without proper legal standing. Bondi's campaign had received $31,972 from Lender Processing Services and related companies while they were under active investigation by her office. After an attorney for Lender Processing Services complained that Clarkson and Edwards made "irresponsible" statements during a presentation to court clerks, Bondi froze them out of the 50-state AG foreclosure fraud settlement, removed their cases, prohibited them from sharing documents or taking depositions, and ultimately forced their resignations. Most of their cases against foreclosure mills were reassigned without transition notes. The firings effectively neutered Florida's aggressive enforcement against the massive foreclosure fraud scheme at the height of the housing crisis, protecting banks and mortgage servicers that had illegally dispossessed thousands of Florida homeowners. This established Bondi's pattern of protecting corporate donors at the expense of fraud victims, a template she would replicate throughout her career and into her role as U.S. Attorney General.

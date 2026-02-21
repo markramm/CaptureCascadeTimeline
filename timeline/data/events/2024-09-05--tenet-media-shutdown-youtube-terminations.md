@@ -48,6 +48,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Intelligence Penetration
+- Labor Suppression
 ---
 
 Tenet Media abruptly shut down on September 5, 2024, one day after the Department of Justice unsealed an indictment revealing the company had received nearly $10 million in covert Russian funding. The shutdown triggered cascading actions: YouTube terminated Tenet Media and all Lauren Chen channels, Blaze Media fired Chen, and Turning Point USA removed her author page—all within hours of the DOJ revelation.

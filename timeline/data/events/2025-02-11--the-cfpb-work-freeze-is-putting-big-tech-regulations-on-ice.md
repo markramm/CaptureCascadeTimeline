@@ -2,10 +2,7 @@
 id: 2025-02-11--the-cfpb-work-freeze-is-putting-big-tech-regulations-on-ice
 date: '2025-02-11'
 title: Trump Administration Halts CFPB Operations, Freezing Consumer Protection Investigations
-description: Russell Vought, as new CFPB leadership, ordered a complete halt to all
-  agency operations, including investigations, rule-making, and consumer protection
-  activities. This action effectively neutralized the CFPB's regulatory oversight
-  capabilities.
+description: Russell Vought, as new CFPB leadership, ordered a complete halt to all agency operations, including investigations, rule-making, and consumer protection activities. This action effectively neutralized the CFPB's regulatory oversight capabilities.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -20,17 +17,15 @@ tags:
 - consumer-protection
 capture_lanes:
 - Regulatory Capture
-- Financial Oversight
+- Financial Capture
 sources:
 - date: '2025-02-10'
   outlet: PBS News
-  title: Vought orders CFPB to stop investigations and suspend new rules from taking
-    effect
+  title: Vought orders CFPB to stop investigations and suspend new rules from taking effect
   url: https://www.pbs.org/newshour/politics/vought-orders-cfpb-to-stop-investigations-and-suspend-new-rules-from-taking-effect
 - date: '2025-02-10'
   outlet: NPR
-  title: The Trump administration has stopped work at the CFPB. Here's what the agency
-    does
+  title: The Trump administration has stopped work at the CFPB. Here's what the agency does
   url: https://www.npr.org/2025/02/10/nx-s1-5292123/the-trump-administration-has-stopped-work-at-the-cfpb-heres-what-the-agency-does
 - date: '2025-02-14'
   outlet: Government Executive

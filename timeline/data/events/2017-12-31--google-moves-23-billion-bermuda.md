@@ -37,9 +37,8 @@ sources:
 status: confirmed
 id: 2017-12-31--google-moves-23-billion-bermuda
 capture_lanes:
-- Tax Evasion
-- Offshore Finance
-- Wealth Extraction
+- Financial Capture
+- International Kleptocracy
 capture_type: massive_profit_shifting
 patterns:
 - accelerated-tax-avoidance

@@ -38,9 +38,8 @@ sources:
 status: confirmed
 id: 2017-06-27--eu-fines-google-2-42-billion-shopping
 capture_lanes:
-- Market Manipulation
-- Monopolization
-- Antitrust Evasion
+- Financial Capture
+- Regulatory Capture
 capture_type: monopoly_abuse
 patterns:
 - search-manipulation

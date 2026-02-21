@@ -24,8 +24,8 @@ tags:
 - neoliberalism
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
-- Immigration Enforcement
+- Financial Capture
+- Civil Rights Suppression
 sources:
 - title: American Taxpayer Relief Act of 2012
   url: https://en.wikipedia.org/wiki/American_Taxpayer_Relief_Act_of_2012

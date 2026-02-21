@@ -19,11 +19,11 @@ tags:
 - cable
 - monopolization
 capture_lanes:
-- Market Concentration
+- Financial Capture
 - Regulatory Capture
 location: New York, NY
 sources:
-- title: 'AOL-Time Warner Merger'
+- title: AOL-Time Warner Merger
   url: https://global.oup.com/us/companion.websites/fdscontent/uscompanion/us/pdf/kwoka/9780195322972_18.pdf
   outlet: Oxford University Press (Case Study)
   date: '2000'
@@ -33,12 +33,12 @@ sources:
   outlet: Truthout
   date: '2016-02-08'
   tier: 2
-- title: 'Telecommunications Act of 1996'
+- title: Telecommunications Act of 1996
   url: https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'Media Mergers and the Public Interest'
+- title: Media Mergers and the Public Interest
   url: https://www.crf-usa.org/bill-of-rights-in-action/bria-23-1-d-media-mergers-and-the-public-interest.html
   outlet: Constitutional Rights Foundation
   date: '2007'

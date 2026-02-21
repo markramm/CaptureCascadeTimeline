@@ -19,8 +19,8 @@ tags:
 - systematic-corruption
 - elderly-victims
 capture_lanes:
-- Financial Regulatory Capture
-- Congressional Capture
+- Financial Capture
+- Legislative Capture
 sources:
 - title: Lincoln Savings and Loan Association
   url: https://en.wikipedia.org/wiki/Lincoln_Savings_and_Loan_Association

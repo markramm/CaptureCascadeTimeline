@@ -1,8 +1,7 @@
 ---
 id: 2024-01-01--new-hampshire-llc-secrecy-tax-avoidance
 date: '2024-01-01'
-title: New Hampshire LLC Structure Enables Corporate Tax Avoidance While 81% of Businesses
-  Pay No State Business Tax
+title: New Hampshire LLC Structure Enables Corporate Tax Avoidance While 81% of Businesses Pay No State Business Tax
 location: Concord, New Hampshire
 importance: 6
 actors:
@@ -19,7 +18,7 @@ tags:
 - shell-companies
 capture_lanes:
 - Regulatory Capture
-- Tax System Corruption
+- Financial Capture
 sources:
 - title: Business Taxes - NH Issue Brief
   url: https://www.citizenscount.org/issues/business-taxes
@@ -36,8 +35,7 @@ sources:
   outlet: McLane Middleton Law
   tier: 2
   verified: true
-- title: Oracle invested millions in government influence before winning a major stake
-    in TikTok
+- title: Oracle invested millions in government influence before winning a major stake in TikTok
   url: https://www.tucsonsentinel.com/nationworld/report/092925_oracle_tiktok/oracle-invested-millions-government-influence-before-winning-major-stake-tiktok/
   date: '2025-09-29'
   tier: 2

@@ -7,19 +7,17 @@ actors:
 - Mark Uyeda
 capture_lanes:
 - Regulatory Capture
-- Financial Regulatory Capture
+- Financial Capture
 capture_type: regulatory_capture
 connections:
 - Trump Administration Crypto Policy
 - SEC Leadership Change
 date: '2025-04-22'
-description: Trump-appointed crypto ally Paul Atkins sworn in as SEC chairman, replacing
-  Gary Gensler and signaling a significant shift in cryptocurrency regulatory policy.
+description: Trump-appointed crypto ally Paul Atkins sworn in as SEC chairman, replacing Gary Gensler and signaling a significant shift in cryptocurrency regulatory policy.
 id: 2025-04-22--crypto-ally-paul-atkins-sworn-in-to-replace-gary-gensler-ato
 importance: 8
 location: Washington, D.C.
-notes: Represents a strategic shift in cryptocurrency and financial regulatory policy
-  under Trump's second administration.
+notes: Represents a strategic shift in cryptocurrency and financial regulatory policy under Trump's second administration.
 patterns:
 - kleptocratic-capture
 - regulatory-transformation
@@ -38,8 +36,7 @@ sources:
   type: professional_publication
 - date: '2025-04-25'
   outlet: CoinDesk
-  title: New U.S. SEC Chief Paul Atkins Says Agency Doesn't Have to Wait to Impose
-    Crypto Policy
+  title: New U.S. SEC Chief Paul Atkins Says Agency Doesn't Have to Wait to Impose Crypto Policy
   url: https://www.coindesk.com/policy/2025/04/25/new-sec-chief-atkins-says-agency-doesn-t-have-to-wait-to-impose-crypto-policy
   accessed_date: '2025-10-07'
   type: crypto_news

@@ -19,12 +19,12 @@ tags:
 - housing-bubble
 - regulatory-failure
 sources:
-- title: 'Washington Mutual failure has biggest impact on consumers'
+- title: Washington Mutual failure has biggest impact on consumers
   outlet: CNN Money
   url: https://money.cnn.com/2009/09/08/news/economy/wamu.fallout.fortune/index.htm
   tier: 1
   verified: true
-- title: 'ARM-twisting helped sink WaMu'
+- title: ARM-twisting helped sink WaMu
   outlet: The Spokesman-Review
   url: https://www.spokesman.com/stories/2009/nov/08/arm-twisting-helped-sink-wamu/
   tier: 2
@@ -35,8 +35,8 @@ sources:
   tier: 2
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

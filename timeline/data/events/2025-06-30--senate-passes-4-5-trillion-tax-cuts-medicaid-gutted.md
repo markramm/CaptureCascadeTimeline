@@ -97,9 +97,9 @@ sources:
   date: '2025-07-02'
 status: confirmed
 capture_lanes:
-- wealth-transfer
-- safety-net-destruction
-- legislative-capture
+- Financial Capture
+- Regulatory Capture
+- Legislative Capture
 ---
 
 

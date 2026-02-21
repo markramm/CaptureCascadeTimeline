@@ -35,6 +35,10 @@ actors:
 - Doctors Without Borders
 - United Nations
 - Joe Biden
+capture_lanes:
+- Financial Capture
+- Labor Suppression
+- Surveillance Infrastructure
 ---
 
 On January 21, 2022, a Saudi-led coalition airstrike hit a detention facility in Sa'adah, northwestern Yemen, killing at least 80 people and wounding over 200 in what the United Nations described as the "worst civilian-casualty incident in the last three years in Yemen." Amnesty International weapons experts identified the munition as a US-made GBU-12 Paveway II 500-pound laser-guided bomb manufactured by Raytheon—the same weapon type documented in the 2016 funeral hall massacre, 2018 wedding bombing, and numerous other civilian-casualty incidents. The attack occurred just over one year after President Biden announced ending US support for Saudi "offensive operations" in Yemen and pausing Raytheon Paveway bomb sales, demonstrating that despite policy rhetoric, US-manufactured weapons continued killing Yemeni civilians under the Biden administration. Doctors Without Borders reported treating massive casualties in overwhelmed facilities, with survivors describing repeated strikes on rescuers attempting to evacuate the wounded—the characteristic "double-tap" pattern documented in previous Raytheon weapon attacks.

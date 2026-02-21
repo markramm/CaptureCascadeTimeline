@@ -1,7 +1,7 @@
 ---
 id: 1913-10-03--underwood-tariff-establishes-income-tax
 date: '1913-10-03'
-title: 'Underwood Tariff Slashes Corporate Protection, Establishes Modern Income Tax After 16th Amendment'
+title: Underwood Tariff Slashes Corporate Protection, Establishes Modern Income Tax After 16th Amendment
 importance: 9
 actors:
 - President Woodrow Wilson
@@ -31,8 +31,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Economic Capture
-- Democratic Resistance
+- Financial Capture
+- Democratic Erosion
 ---
 
 President Woodrow Wilson signed the Revenue Act of 1913, also known as the Underwood Tariff or Underwood-Simmons Act, slashing average tariff rates from 40 percent to 27 percent and establishing the modern federal income tax for the first time since 1872. Wilson made tariff reduction his first priority upon taking office, viewing high tariffs as unfair taxes on consumers that protected corporate monopolies. In an unprecedented move not seen since John Adams, Wilson personally appeared before both the House and Senate to press for tariff reform. The legislation put raw wool, cattle, sheep, wheat, eggs, meat products, iron ore, pig iron, coal, and lumber on the "free list" exempt from tariffs. The duty on woolens plummeted from 56 percent to 18.5 percent. Steel rails, agricultural implements, and other goods received zero rates, directly attacking the protective tariffs that had enriched industrial monopolies for decades.

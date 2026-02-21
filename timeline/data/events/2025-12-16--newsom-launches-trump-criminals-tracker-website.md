@@ -120,4 +120,8 @@ sources:
   tier: 2
   outlet: 8 News Now
 status: confirmed
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
+- Regulatory Capture
 ---

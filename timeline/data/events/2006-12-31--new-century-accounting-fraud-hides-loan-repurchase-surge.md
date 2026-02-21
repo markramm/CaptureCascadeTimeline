@@ -16,20 +16,20 @@ tags:
 - predatory-lending
 - corporate-crime
 sources:
-- title: 'SEC Charges Former Officers of Subprime Lender New Century With Fraud'
+- title: SEC Charges Former Officers of Subprime Lender New Century With Fraud
   outlet: Securities and Exchange Commission
   url: https://www.sec.gov/news/press/2009/2009-258.htm
   tier: 1
   verified: true
-- title: 'New Century Financial Corporation'
+- title: New Century Financial Corporation
   outlet: Bernstein Litowitz Berger & Grossmann LLP
   url: https://www.blbglaw.com/cases-investigations/new-century-financial-corporation
   tier: 2
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Corporate Crime
-- Regulatory Failure
+- Financial Capture
+- Corporate Capture
+- Regulatory Capture
 status: confirmed
 ---
 

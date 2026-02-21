@@ -39,7 +39,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 

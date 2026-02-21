@@ -36,6 +36,10 @@ sources:
   date: '2025-12-02'
   tier: 2
   outlet: Bloomberg
+capture_lanes:
+- Financial Capture
+- Electoral Manipulation
+- Digital & Tech Capture
 ---
 
 # Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment

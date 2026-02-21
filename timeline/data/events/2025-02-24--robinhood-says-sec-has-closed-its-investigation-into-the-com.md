@@ -1,12 +1,8 @@
 ---
 id: 2025-02-24--robinhood-says-sec-has-closed-its-investigation-into-the-com
 date: '2025-02-24'
-title: SEC Closes Investigation into Robinhood Crypto Division Without Enforcement
-  Action
-description: Robinhood announced that the SEC has closed its investigation into its
-  crypto division over alleged failures to register certain crypto assets as securities,
-  with no enforcement action forthcoming. The decision reflects the Trump administration's
-  deregulatory stance toward the cryptocurrency industry.
+title: SEC Closes Investigation into Robinhood Crypto Division Without Enforcement Action
+description: Robinhood announced that the SEC has closed its investigation into its crypto division over alleged failures to register certain crypto assets as securities, with no enforcement action forthcoming. The decision reflects the Trump administration's deregulatory stance toward the cryptocurrency industry.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -27,8 +23,7 @@ sources:
   url: https://www.bloomberg.com/news/articles/2025-02-24/robinhood-says-sec-closes-crypto-probe-without-any-enforcement
   outlet: Bloomberg
   date: '2025-02-24'
-- title: Robinhood says SEC dismissed crypto unit investigation in latest sign of
-    easier regulation for industry
+- title: Robinhood says SEC dismissed crypto unit investigation in latest sign of easier regulation for industry
   url: https://www.cnbc.com/2025/02/24/robinhood-says-sec-dismissed-crypto-unit-investigation-in-latest-sign-of-easier-regulation-for-industry.html
   outlet: CNBC
   date: '2025-02-24'
@@ -41,11 +36,10 @@ connections:
 - SEC Enforcement Shift
 patterns:
 - kleptocratic-capture
-notes: Part of broader Trump administration crypto deregulation strategy and institutional
-  capture of financial regulatory systems
+notes: Part of broader Trump administration crypto deregulation strategy and institutional capture of financial regulatory systems
 capture_lanes:
 - Regulatory Capture
-- Financial Technology Regulation
+- Financial Capture
 ---
 
 The SEC closed its investigation into Robinhood's crypto division on February 24, 2025, without taking any enforcement action. Robinhood Chief Legal Officer Dan Gallagher claimed the investigation 'never should have been opened,' marking a significant moment in the Trump administration's approach to cryptocurrency regulation.

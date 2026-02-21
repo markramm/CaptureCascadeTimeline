@@ -42,9 +42,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Consulting Capture
 - Labor Suppression
-- Economic Policy Capture
+- Financial Capture
 ---
 
 The Financial Oversight and Management Board unanimously approved a brutal 10-year fiscal austerity plan (2017-2026) developed with McKinsey's strategic consulting, imposing severe cuts to pensions, education, and healthcare to prioritize debt repayment to bondholders. The plan's key measures included: eliminating all employer pension contributions and implementing 'pay-as-you-go' pension systems effective July 1, 2017 under Act 106-2017; means-tested cuts of up to 25% for high-income retirees with overall benefit reductions of 10%; mandatory furloughs of four days monthly for government workers and two days for teachers (saving $40 million monthly); capping Medicaid benefits affecting half of Puerto Rico's population; freezing salaries until 2020; increasing traffic and vehicle license fees by 10%; canceling infrastructure projects; and privatizing ferries, ports, parking lots, and power generation. McKinsey's expanded scope of services specifically included 'development, recommendations and writing the Territory's fiscal plan,' making the consulting firm the primary architect of austerity measures affecting 3.4 million people. The plan allocated $1.5 billion over six years for restructuring costs—over $1 billion going to lawyers, bankers, and consultants including McKinsey, which would ultimately bill $150 million through January 2021. Dentist Rafael Torregrosa testified that he 'lobbied in vain to persuade McKinsey to consider health options less reliant on private insurers,' stating 'We're paying good money to them as consultants of la junta to push only one model, which happens to be the worst model in health care.' The plan sparked massive protests blocking San Juan's main roads, with critics warning it would accelerate the exodus of 500,000 Puerto Ricans since 2005—including one doctor daily in 2016—worsening the island's demographic and economic crisis while enriching Wall Street creditors and consultants.

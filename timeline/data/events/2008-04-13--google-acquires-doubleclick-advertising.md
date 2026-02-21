@@ -27,7 +27,7 @@ sources:
   url: https://www.informationweek.com/it-sectors/google-finalizes-3-1-billion-doubleclick-acquisition
   outlet: InformationWeek
   date: '2008-04-13'
-- title: 'FTC OKs Google''s $3.1 billion DoubleClick buy'
+- title: FTC OKs Google's $3.1 billion DoubleClick buy
   url: https://www.nbcnews.com/id/wbna22341749
   outlet: NBC News
   date: '2007-12-20'
@@ -38,9 +38,8 @@ sources:
 status: confirmed
 id: 2008-04-13--google-acquires-doubleclick-advertising
 capture_lanes:
-- Monopolization
 - Regulatory Capture
-- Market Manipulation
+- Financial Capture
 capture_type: monopoly_creation
 patterns:
 - vertical-integration

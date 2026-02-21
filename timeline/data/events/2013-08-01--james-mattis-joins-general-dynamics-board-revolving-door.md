@@ -30,6 +30,10 @@ actors:
 - James Mattis
 - General Dynamics
 - Marine Corps
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 General James Mattis joined the General Dynamics board of directors in August 2013, just five months after retiring from the Marine Corps in March 2013 as commander of U.S. Central Command. Mattis would earn over $900,000 in total compensation during his 2013-2017 board tenure, including $594,369 in direct payments and equity awards exceeding $140,000 in 2015 alone—demonstrating how defense contractors reward retired generals with lucrative positions to maintain relationships with Pentagon leadership and gain insider knowledge of military procurement priorities. The appointment exemplified the revolving door between military leadership and defense contractor boards that creates implicit incentives for serving officers to maintain industry-friendly positions in anticipation of post-retirement employment, while allowing contractors like General Dynamics to purchase access to strategic intelligence and Pentagon relationships from recently retired flag officers.

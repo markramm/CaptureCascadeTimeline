@@ -24,6 +24,9 @@ actors:
 - Richard Indyke
 - Virgin Islands
 - Jeffrey Epstein
+capture_lanes:
+- Financial Capture
+- Digital & Tech Capture
 ---
 
 Internet researchers discovered that redactions in DOJ-released Epstein documents were purely visual—black boxes covered text without removing the underlying data, allowing anyone to simply copy-paste supposedly redacted text into plain text editors to reveal hidden information. No hacking or forensic expertise was required. The botched redactions revealed information about Epstein's attorney Richard Indyke, who allegedly ran Epstein's tax-exempt charitable foundation and 'signed Foundation account checks for over $400,000 made payable to young female models and actresses' between 2015-2019. CNN traced the faulty redactions to the Virgin Islands attorney general's 2020 civil racketeering case against Epstein's estate, when documents were first posted with defective redactions in 2021. The failure exposed how Epstein 'carried out abuse and concealed money through financial and corporate structures' and contained 'significant findings as to the members and techniques of Epstein's trafficking ring.'

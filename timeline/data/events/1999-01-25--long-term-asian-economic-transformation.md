@@ -29,8 +29,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Economic Globalization
-- Financial Policy Transformation
+- Financial Capture
 ---
 
 IMF completes its systematic economic restructuring of Southeast Asian economies, fundamentally transforming corporate landscapes. The intervention results in unprecedented foreign corporate access, weakened local economic sovereignty, and a permanent shift in regional economic power dynamics.

@@ -32,8 +32,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Economic Capture
-- Political Capture
+- Financial Capture
+- Democratic Erosion
 ---
 
 President William Howard Taft signed the Payne-Aldrich Tariff Act and infamously praised it as "the best tariff bill the Republican party ever passed," betraying his 1908 campaign promises for meaningful tariff reform and triggering a permanent split within the Republican Party. Taft had campaigned as a progressive Republican promising to lower tariffs, which reformers viewed as unfair taxes on consumers that protected corporate monopolies. In his inaugural address, he declared he would veto any tariff bill that did not lower rates. However, Senator Nelson Aldrich of Rhode Island, head of the Finance Committee and dedicated protectionist aligned with business interests, made hundreds of changes to the House bill, raising rates to favor corporations within legislators' districts. The legislation passed without support from the vast majority of Democrats or progressive Republicans.

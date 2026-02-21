@@ -34,7 +34,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 J.P. Morgan Jr., head of the most powerful banking house in America, testified before the Pecora Commission in hearings that riveted the nation. The New York Times headline on May 24, 1933 blared: "Morgan Paid No Income Tax for 1931 or 1932." Morgan admitted under oath that he and his twenty partners had paid no federal income taxes in 1930, 1931, or 1932, claiming losses following the 1929 crash. Pecora's investigators uncovered J.P. Morgan and Company's "preferred list" of highly placed Americans—including former President Calvin Coolidge and Supreme Court Justice Owen J. Roberts—who were allowed to purchase stock offerings at steeply discounted rates with insider information, effectively allowing them to "buy low and sell high" through the bank's beneficence. The revelations exposed how Morgan's influential friends participated in exclusive deals unavailable to ordinary investors, with the clear implication that these financial favors were traded for political influence. Morgan visibly wilted under public scrutiny during more than a week of badgering by Pecora. The hearings coined the term "banksters" for the finance "gangsters" who had imperiled the nation's economy. Just two days after these revelations, the Senate passed the Glass-Steagall banking bill without a dissenting vote. In June 1933, Pecora's image appeared on the cover of Time magazine. The Morgan testimony represented the apex of Wall Street accountability.

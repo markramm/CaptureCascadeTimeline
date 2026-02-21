@@ -29,6 +29,10 @@ actors:
 - Dick Gephardt
 - Gephardt Group
 - DLA Piper
+capture_lanes:
+- Financial Capture
+- Labor Suppression
+- Media Capture & Control
 ---
 
 Former House Majority Leader Dick Gephardt (D-MO) founded Gephardt Group, a consulting and lobbying firm, immediately after his three-decade political career ended with the expiration of his 14th congressional term on January 3, 2005. Gephardt established the Atlanta-based firm with his children, Matthew and Christine, positioning it as a labor relations consulting and government affairs operation. Simultaneously, Gephardt joined international law firm DLA Piper as a strategic advisor in its government affairs practice group, a position he held from June 2005 to December 2009, creating dual revenue streams from his congressional expertise.

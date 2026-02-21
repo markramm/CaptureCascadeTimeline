@@ -19,16 +19,16 @@ tags:
 - chiapas
 - ejido-system
 capture_lanes:
-- Economic Coercion
+- Financial Capture
 - Legislative Capture
 location: Chiapas, Mexico
 sources:
-- title: 'Zapatista Uprising'
+- title: Zapatista Uprising
   url: https://en.wikipedia.org/wiki/Zapatista_uprising
   outlet: Wikipedia
   date: '1994-01-01'
   tier: 2
-- title: 'NAFTA comes into effect'
+- title: NAFTA comes into effect
   url: https://www.history.com/this-day-in-history/January-1/nafta-comes-into-effect-us-mexico-canada-trade
   outlet: History.com
   date: '1994-01-01'

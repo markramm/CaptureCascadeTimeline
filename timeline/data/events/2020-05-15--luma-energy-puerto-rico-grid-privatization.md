@@ -1,8 +1,7 @@
 ---
 id: 2020-05-15--luma-energy-puerto-rico-grid-privatization
 date: '2020-05-15'
-title: Puerto Rico Selects LUMA Energy for $1.5 Billion Grid Privatization Following
-  McKinsey's Recommendations, Quanta Services Connection Raises Questions
+title: Puerto Rico Selects LUMA Energy for $1.5 Billion Grid Privatization Following McKinsey's Recommendations, Quanta Services Connection Raises Questions
 importance: 9
 actors:
 - LUMA Energy
@@ -75,9 +74,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Consulting Capture
-- Economic Policy Capture
-- Immigration Enforcement
+- Financial Capture
+- Civil Rights Suppression
 ---
 
 

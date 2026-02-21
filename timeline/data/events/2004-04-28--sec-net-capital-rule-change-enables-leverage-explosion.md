@@ -1,8 +1,7 @@
 ---
 id: 2004-04-28--sec-net-capital-rule-change-enables-leverage-explosion
 date: '2004-04-28'
-title: SEC Net Capital Rule Change Enables Investment Bank Leverage Explosion Fueling
-  Housing Bubble
+title: SEC Net Capital Rule Change Enables Investment Bank Leverage Explosion Fueling Housing Bubble
 importance: 8
 actors:
 - Securities and Exchange Commission (SEC)
@@ -42,8 +41,7 @@ sources:
   url: https://www.propublica.org/article/flawed-sec-program-failed-to-rein-in-investment-banks-101
   outlet: ProPublica
   date: '2008-10-01'
-- title: 'Press Release: Chairman Cox Announces End of Consolidated Supervised Entities
-    Program'
+- title: 'Press Release: Chairman Cox Announces End of Consolidated Supervised Entities Program'
   url: https://www.sec.gov/news/press/2008/2008-230.htm
   outlet: SEC
   date: '2008-09-26'
@@ -62,7 +60,7 @@ sources:
   notes: In-depth analysis of the SEC's alternative net capital rule change
 capture_lanes:
 - Regulatory Capture
-- Financial Industry Control
+- Financial Capture
 status: confirmed
 ---
 

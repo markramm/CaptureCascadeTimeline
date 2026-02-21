@@ -34,7 +34,7 @@ tags:
 - economic-policy
 status: confirmed
 capture_lanes:
-- Economic Capture
+- Financial Capture
 - Legislative Capture
 ---
 

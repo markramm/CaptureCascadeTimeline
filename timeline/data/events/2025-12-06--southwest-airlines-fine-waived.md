@@ -22,8 +22,8 @@ tags:
 - airline-industry
 - sean-duffy
 capture_lanes:
-- Corporate & Financial Capture
-- Regulatory Capture & Enforcement Collapse
+- Financial Capture
+- Regulatory Capture
 sources:
 - title: Southwest Airlines - Trump administration lets company off the hook with a multimillion dollar waiver for 2022 holiday travel meltdown
   url: https://www.cnn.com/2025/12/06/us/southwest-airlines-meltdown-last-fine-waived

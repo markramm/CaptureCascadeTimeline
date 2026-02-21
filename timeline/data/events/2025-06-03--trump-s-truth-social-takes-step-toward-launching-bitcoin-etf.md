@@ -23,8 +23,8 @@ tags:
 capture_type: monetizing_position
 capture_lanes:
 - Media Capture & Control
-- Financial Services Capture
-- Crypto Regulatory Influence
+- Financial Capture
+- Digital & Tech Capture
 sources:
 - date: '2025-06-03'
   outlet: CNBC

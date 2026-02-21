@@ -25,16 +25,14 @@ sources:
   url: https://www.thenation.com/article/world/chicago-boys-chile-neoliberalism/
   access_date: '2025-09-17'
 - outlet: Journal of the History of Economic Thought
-  title: 'Milton Friedman in Chile: Shock Therapy, Economic Freedom, and Exchange
-    Rates'
+  title: 'Milton Friedman in Chile: Shock Therapy, Economic Freedom, and Exchange Rates'
   url: https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/milton-friedman-in-chile-shock-therapy-economic-freedom-and-exchange-rates/D58D1A94977A748FA9A9F154EB002E37
   access_date: '2025-09-17'
 status: confirmed
 capture_lanes:
-- Economic Manipulation
+- Financial Capture
 - Systematic Corruption
-- International Economic Policy
-- Psychological Warfare
+- Intelligence Penetration
 location: Chile
 ---
 

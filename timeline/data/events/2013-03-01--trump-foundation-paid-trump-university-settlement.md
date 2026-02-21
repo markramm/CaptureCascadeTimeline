@@ -30,6 +30,10 @@ sources:
   date: 2016-09-01
   tier: 1
   outlet: NPR
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Intelligence Penetration
 ---
 
 The Donald J. Trump Foundation illegally paid a $25,000 settlement related to Trump University litigation using tax-exempt charitable funds rather than Trump's personal or business accounts. This payment represented another instance of Trump using his charitable foundation as a personal checkbook to settle legal obligations arising from his for-profit business ventures. The payment was later revealed to have gone to Florida Attorney General Pam Bondi's political committee "And Justice for All" in September 2013, just as her office was reviewing whether to join New York's fraud investigation into Trump University.

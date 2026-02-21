@@ -21,10 +21,8 @@ tags:
 - systematic-corruption
 capture_lanes:
 - Regulatory Capture
-- For-Profit Education Deregulation
-- Conflicts of Interest
-- Student Protection Rollback
-- Taxpayer Cost
+- Financial Capture
+- Systematic Corruption
 sources:
 - title: Betsy DeVos's Shameful Repeal of the Gainful Employment Rule
   url: https://tcf.org/content/commentary/betsy-devoss-shameful-repeal-gainful-employment-rule/

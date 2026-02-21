@@ -36,6 +36,10 @@ sources:
   date: '2012-09-25'
   tier: 1
   outlet: Stanford Law School / NYU School of Law
+capture_lanes:
+- Financial Capture
+- Labor Suppression
+- Judicial Capture
 ---
 
 A CIA drone strike on a tribal jirga (council meeting) in Datta Khel, North Waziristan kills at least 42 people, the vast majority of them civilians including tribal elders gathered to resolve a local mining dispute. The massacre represents one of the deadliest single drone strikes of Obama's presidency and epitomizes the horrific consequences of signature strikes—CIA targeting based on behavioral patterns rather than confirmed identification of terrorists. Witnesses and Pakistani officials report the strike hit a gathering of tribal leaders and community members conducting traditional conflict resolution, not a meeting of militants as the CIA claimed.

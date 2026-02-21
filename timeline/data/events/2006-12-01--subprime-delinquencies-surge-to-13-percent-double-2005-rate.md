@@ -15,24 +15,24 @@ tags:
 - systemic-risk
 - regulatory-failure
 sources:
-- title: 'The Subprime Mortgage Market'
+- title: The Subprime Mortgage Market
   outlet: Federal Reserve
   url: https://www.federalreserve.gov/newsevents/speech/bernanke20070517a.htm
   tier: 1
   verified: true
-- title: 'House Prices and Subprime Mortgage Delinquency'
+- title: House Prices and Subprime Mortgage Delinquency
   outlet: Federal Reserve Bank of San Francisco
   url: https://www.frbsf.org/research-and-insights/publications/economic-letter/2007/06/house-prices-subprime-mortgage-delinquency/
   tier: 1
   verified: true
-- title: 'Subprime mortgage crisis'
+- title: Subprime mortgage crisis
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Subprime_mortgage_crisis
   tier: 3
   verified: true
 capture_lanes:
-- Financial Industry Capture
-- Regulatory Failure
+- Financial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

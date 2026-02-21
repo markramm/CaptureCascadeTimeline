@@ -45,7 +45,7 @@ capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
 - Executive Power Expansion
-- Financial Market Manipulation
+- Financial Capture
 ---
 
 Trump Media begins trading under ticker DJT at $8.4 billion valuation, with Trump holding 69-78.75% of shares, creating unprecedented presidential conflict of interest through media and financial entanglement. Trading was volatile, with stock price jumping over 50% and trading briefly halted.

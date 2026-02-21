@@ -37,7 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
 - Executive Power Expansion
-- Financial Network Mapping
+- Financial Capture
 status: confirmed
 priority_id: capture-cascade-part4-thiel-international-oligarchic-network-operations--20250909-182540
 investigation_details:

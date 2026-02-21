@@ -11,7 +11,7 @@ actors:
 - Great Northern Railroad
 - Northern Pacific Railroad
 sources:
-- title: 'J. P. Morgan'
+- title: J. P. Morgan
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/J._P._Morgan
   year: 2025
@@ -19,7 +19,7 @@ sources:
   outlet: USHistory.org
   url: https://www.ushistory.org/us/36d.asp
   year: 2025
-- title: 'J.P. Morgan'
+- title: J.P. Morgan
   outlet: National Railroad Hall of Fame
   url: https://www.nrrhof.org/jp-morgan
   year: 2025
@@ -30,9 +30,8 @@ tags:
 - railroad-control
 - market-manipulation
 capture_lanes:
-- Financial Industry Control
-- Transportation Monopoly
-- Market Consolidation
+- Financial Capture
+- Corporate Capture
 status: confirmed
 ---
 

@@ -30,6 +30,10 @@ sources:
   date: 2019-11-07
   tier: 1
   outlet: NPR
+capture_lanes:
+- Financial Capture
+- Electoral Manipulation
+- Digital & Tech Capture
 ---
 
 Donald Trump staged a campaign fundraiser in Des Moines, Iowa disguised as a charitable event, using the Trump Foundation in direct violation of federal tax law prohibiting 501(c)(3) charitable organizations from participating in political campaigns. The January 28, 2016 event occurred just days before the Iowa caucuses after Trump boycotted a Republican primary debate. Trump raised approximately $5.6 million in pledged donations, presented oversized novelty checks to veterans organizations on camera for political benefit, and allowed his campaign - led by manager Corey Lewandowski - to control the event and direct foundation activities for campaign purposes.

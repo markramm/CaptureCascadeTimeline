@@ -30,6 +30,10 @@ sources:
   date: 2020-09-11
   tier: 1
   outlet: ACLU
+capture_lanes:
+- Financial Capture
+- Regulatory Capture
+- Judicial Capture
 ---
 
 A Department of Justice Inspector General audit revealed that the FBI's terrorist watchlist contained approximately 35% errors, with large portions of the list governed by no formal processes for updating or removing records. The report exposed systematic failures in a watchlist system that had grown to include hundreds of thousands of names, with devastating consequences for innocent people wrongly flagged as terrorism suspects.

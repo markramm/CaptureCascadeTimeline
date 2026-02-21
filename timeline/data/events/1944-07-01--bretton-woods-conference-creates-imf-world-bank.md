@@ -1,45 +1,45 @@
 ---
 id: 1944-07-01--bretton-woods-conference-creates-imf-world-bank
-date: "1944-07-01"
-title: "Bretton Woods Conference Establishes Dollar Hegemony Through IMF and World Bank"
-summary: "Delegates from 44 allied nations convene at Bretton Woods, New Hampshire to design the postwar international monetary system. The conference establishes the International Monetary Fund and World Bank, fixing global currencies to the dollar and the dollar to gold at $35/ounce. This institutionalizes U.S. economic dominance and creates mechanisms for imposing market liberalization on debtor nations - structural adjustment policies that will benefit multinational corporations for decades."
+date: '1944-07-01'
+title: Bretton Woods Conference Establishes Dollar Hegemony Through IMF and World Bank
+summary: Delegates from 44 allied nations convene at Bretton Woods, New Hampshire to design the postwar international monetary system. The conference establishes the International Monetary Fund and World Bank, fixing global currencies to the dollar and the dollar to gold at $35/ounce. This institutionalizes U.S. economic dominance and creates mechanisms for imposing market liberalization on debtor nations - structural adjustment policies that will benefit multinational corporations for decades.
 importance: 9
 actors:
-  - "U.S. Treasury"
-  - "Harry Dexter White"
-  - "John Maynard Keynes"
-  - "International Monetary Fund"
-  - "World Bank"
+- U.S. Treasury
+- Harry Dexter White
+- John Maynard Keynes
+- International Monetary Fund
+- World Bank
 sources:
-  - title: "Bretton Woods Conference - Library of Congress"
-    url: "https://guides.loc.gov/this-month-in-business-history/july/bretton-woods-conference"
-    outlet: Library of Congress
-    tier: 1
-    verified: true
-  - title: "Creation of the Bretton Woods System"
-    url: "https://www.federalreservehistory.org/essays/bretton-woods-created"
-    outlet: Federal Reserve History
-    tier: 1
-    verified: true
-  - title: "Bretton Woods and the Birth of the World Bank"
-    url: "https://www.worldbank.org/en/archive/history/exhibits/Bretton-Woods-and-the-Birth-of-the-World-Bank"
-    outlet: World Bank
-    tier: 1
-    verified: true
-  - title: "The 1944 Bretton Woods Conference"
-    url: "https://www.nationalww2museum.org/war/articles/1944-bretton-woods-conference"
-    outlet: The National WWII Museum
-    tier: 1
-    verified: true
+- title: Bretton Woods Conference - Library of Congress
+  url: https://guides.loc.gov/this-month-in-business-history/july/bretton-woods-conference
+  outlet: Library of Congress
+  tier: 1
+  verified: true
+- title: Creation of the Bretton Woods System
+  url: https://www.federalreservehistory.org/essays/bretton-woods-created
+  outlet: Federal Reserve History
+  tier: 1
+  verified: true
+- title: Bretton Woods and the Birth of the World Bank
+  url: https://www.worldbank.org/en/archive/history/exhibits/Bretton-Woods-and-the-Birth-of-the-World-Bank
+  outlet: World Bank
+  tier: 1
+  verified: true
+- title: The 1944 Bretton Woods Conference
+  url: https://www.nationalww2museum.org/war/articles/1944-bretton-woods-conference
+  outlet: The National WWII Museum
+  tier: 1
+  verified: true
 tags:
-  - "international-finance"
-  - "dollar-hegemony"
-  - "structural-adjustment"
-  - "corporate-globalization"
-  - "financial-institutions"
+- international-finance
+- dollar-hegemony
+- structural-adjustment
+- corporate-globalization
+- financial-institutions
 status: confirmed
 capture_lanes:
-- Economic Policy Capture
+- Financial Capture
 ---
 
 # Bretton Woods Conference Establishes Dollar Hegemony

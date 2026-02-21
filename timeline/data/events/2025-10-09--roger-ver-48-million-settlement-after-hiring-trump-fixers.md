@@ -20,6 +20,9 @@ tags:
 - crypto-corruption
 - two-tiered-justice
 - pay-to-play
+capture_lanes:
+- Financial Capture
+- Systematic Corruption
 ---
 
 Roger Ver agreed to a $48 million deferred-prosecution deal to avoid jail in a tax fraud case after hiring Trump fixers Roger Stone and David Schoen. The settlement follows Trump's systematic rollback of crypto enforcement, with Ver's charges potentially being dropped if he complies with agreement conditions. This represents a pay-to-play justice system where wealthy defendants can purchase favorable outcomes by hiring Trump associates and making large payments, while the administration dismantles enforcement of financial crimes in the cryptocurrency sector.

@@ -21,9 +21,9 @@ tags:
 - video-game-industry
 - corruption
 capture_lanes:
-- Economic Policy Capture
-- Corporate Welfare
-- State Capture
+- Financial Capture
+- Regulatory Capture
+- Democratic Erosion
 sources:
 - title: 38 Studios - Wikipedia
   url: https://en.wikipedia.org/wiki/38_Studios

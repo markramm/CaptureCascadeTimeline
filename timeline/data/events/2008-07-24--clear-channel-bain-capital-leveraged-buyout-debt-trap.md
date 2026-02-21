@@ -21,7 +21,7 @@ tags:
 - democracy
 location: San Antonio, TX
 sources:
-- title: 'iHeartMedia Turns The Dial To Bankruptcy'
+- title: iHeartMedia Turns The Dial To Bankruptcy
   url: https://www.npr.org/sections/thetwo-way/2018/03/15/593868390/iheartmedia-turns-the-dial-to-bankruptcy
   outlet: NPR
   date: '2018-03-15'
@@ -31,7 +31,7 @@ sources:
   outlet: Wolf Street
   date: '2018-03-15'
   tier: 2
-- title: 'iHeartMedia financial troubles embedded in 2008 leveraged buyout'
+- title: iHeartMedia financial troubles embedded in 2008 leveraged buyout
   url: https://www.expressnews.com/business/local/article/iHeartMedia-financial-troubles-embedded-in-2008-12241990.php
   outlet: San Antonio Express-News
   date: '2017-09-13'
@@ -44,7 +44,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Financial Engineering
+- Financial Capture
 ---
 
 On July 24, 2008, Bain Capital and Thomas H. Lee Partners completed a historic $26.7 billion leveraged buyout of Clear Channel Communications, the nation's largest radio broadcaster with over 1,200 stations. The transaction, led by Bain Capital (founded by Mitt Romney in 1984), loaded the company with approximately $20 billion in debt—more than doubling its previous $8 billion debt burden—and exemplified how private equity uses financial engineering to extract wealth while destroying viable companies and consolidating media power.

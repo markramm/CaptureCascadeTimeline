@@ -17,26 +17,26 @@ tags:
 - market-concentration
 - too-big-to-fail
 capture_lanes:
-- Market Concentration
+- Financial Capture
 - Regulatory Capture
 location: Charlotte, NC
 sources:
-- title: 'NationsBank'
+- title: NationsBank
   url: https://en.wikipedia.org/wiki/NationsBank
   outlet: Wikipedia
   date: '2024'
   tier: 2
-- title: 'Case Study of the Merger Between Bank of America and BankAmerica'
+- title: Case Study of the Merger Between Bank of America and BankAmerica
   url: https://digitalcommons.law.umaryland.edu/cgi/viewcontent.cgi?article=1939&context=fac_pubs
   outlet: University of Maryland Law School
   date: '2009'
   tier: 1
-- title: 'Justice Department Clears NationsBank/BankAmerica Merger'
+- title: Justice Department Clears NationsBank/BankAmerica Merger
   url: https://www.justice.gov/archive/atr/public/press_releases/1998/1879.htm
   outlet: U.S. Department of Justice
   date: '1998-08-11'
   tier: 1
-- title: 'Major Bank Mergers and Acquisitions'
+- title: Major Bank Mergers and Acquisitions
   url: https://mnacommunity.com/insights/bank-mergers-and-acquisitions-list/
   outlet: M&A Community
   date: '2024'
