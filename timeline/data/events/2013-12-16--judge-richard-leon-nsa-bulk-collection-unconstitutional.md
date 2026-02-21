@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: CNN
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Judicial Capture
 ---
 
 U.S. District Judge Richard J. Leon ruled in Klayman v. Obama that the National Security Agency's bulk collection of American telephone metadata likely violated the Fourth Amendment's prohibition against unreasonable searches and seizures. In a strongly-worded 68-page opinion, Judge Leon described the NSA's surveillance apparatus as "almost-Orwellian technology" that is "unlike anything that could have been conceived in 1979" when the Supreme Court decided Smith v. Maryland, the case the government cited to justify the program.

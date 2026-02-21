@@ -18,8 +18,8 @@ tags:
 - warrantless-surveillance
 - civil-liberties
 capture_lanes:
-- Surveillance & Data Control
-- Reproductive Rights Attack
+- Surveillance Infrastructure
+- Civil Rights Suppression
 sources:
 - title: She Got an Abortion So A Texas Cop Used 83,000 Cameras to Track Her Down
   url: https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down

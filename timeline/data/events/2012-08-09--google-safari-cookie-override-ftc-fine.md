@@ -38,9 +38,9 @@ sources:
 status: confirmed
 id: 2012-08-09--google-safari-cookie-override-ftc-fine
 capture_lanes:
-- Surveillance Capitalism
+- Surveillance Infrastructure
 - Regulatory Capture
-- Corporate Crime
+- Corporate Capture
 capture_type: privacy_violation
 patterns:
 - deliberate-privacy-violation

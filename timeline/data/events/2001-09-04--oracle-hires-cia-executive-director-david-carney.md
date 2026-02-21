@@ -31,6 +31,10 @@ sources:
   date: '2024-01-01'
   tier: 3
   outlet: Wikispooks
+capture_lanes:
+- Surveillance Infrastructure
+- Corporate Capture
+- Digital & Tech Capture
 ---
 
 Oracle Corporation hired David W. Carney as Vice President of Information Assurance on September 4, 2001, just one week before the September 11 terrorist attacks, marking a significant deepening of Oracle's relationship with the U.S. intelligence community. Carney retired after 32 years at the Central Intelligence Agency, where he served as Executive Director—the agency's Chief Operating Officer and third-ranking position—before joining Oracle to head its newly established Information Assurance Center.

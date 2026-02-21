@@ -26,6 +26,9 @@ sources:
   date: '2019-05-20'
   tier: 2
   outlet: Techdirt
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
 ---
 
 Immigration and Customs Enforcement's Homeland Security Investigations (HSI) unit signs a $3 million contract with Magnet Forensics, the Canadian firm that acquired Grayshift in 2023 following its $1.35 billion acquisition by investment firm Thoma Bravo. The contract continues ICE's pattern as one of the federal government's largest purchasers of mobile device forensics technology, building on previous contracts totaling over $2.2 million with Grayshift between 2018 and 2020. The deal provides HSI with access to the GrayKey device and related phone-hacking technology capable of unlocking encrypted iPhones and Android devices to extract comprehensive data. ICE has consistently led federal agencies in spending on encryption-cracking tools, using such technology in immigration enforcement operations that have raised significant civil liberties concerns. The contract demonstrates how mobile forensics companies maintain lucrative government relationships even as ownership structures change through private equity acquisitions and mergers. Privacy advocates note that ICE's deployment of phone-cracking technology operates with limited oversight or transparency about how extracted data is used, shared, or retained, particularly given that many individuals subject to immigration enforcement have not been charged with crimes. The ongoing procurement reflects law enforcement's continued reliance on commercial vendors to bypass smartphone encryption despite evolving legal frameworks around digital privacy rights.

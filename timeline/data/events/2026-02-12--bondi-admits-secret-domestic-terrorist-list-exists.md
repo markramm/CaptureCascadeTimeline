@@ -24,6 +24,8 @@ sources:
   outlet: CNN
   date: '2026-02-11'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
 ---
 
 Attorney General Pam Bondi acknowledged for the first time during her February 11, 2026, House Judiciary Committee testimony that the Department of Justice maintains a secret list of domestic terrorist organizations, confirming long-suspected surveillance practices that operate without public transparency or congressional oversight. The admission came during questioning about DOJ's targeting of political opponents and civil rights activists, adding to concerns about the weaponization of terrorism designations against domestic political movements.

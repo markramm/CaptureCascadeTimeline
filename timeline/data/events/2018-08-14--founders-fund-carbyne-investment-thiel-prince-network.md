@@ -50,6 +50,10 @@ sources:
   tier: 2
   outlet: Reason
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- International Kleptocracy
 ---
 
 Peter Thiel's Founders Fund led a $15 million Series B investment in Carbyne (formerly Reporty Homeland Security), the Israeli surveillance technology company founded by Unit 8200 intelligence veterans and previously funded by Jeffrey Epstein and Ehud Barak. The investment directly connected Thiel's Palantir surveillance network to Epstein's intelligence-linked portfolio, while Carbyne co-founder Lital Leshem simultaneously served as executive director of global business development for Erik Prince's Frontier Resource Group (FRG) in the United Arab Emirates.

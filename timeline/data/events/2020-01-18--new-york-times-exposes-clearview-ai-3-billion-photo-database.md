@@ -30,6 +30,10 @@ actors:
 - Clearview AI
 - Hoan Ton-That
 - New York Times
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 New York Times journalist Kashmir Hill published a groundbreaking exposé titled "The Secretive Company That Might End Privacy As We Know It," revealing that Clearview AI had scraped 3 billion faces from Facebook, YouTube, Venmo, and millions of other websites without anyone's consent to build a facial recognition app. The article exposed that thousands of police departments around the world were secretly using the app despite public unawareness of the company's existence. Hill's investigation began after receiving a tip from a public records researcher who discovered a 26-page PDF from the Atlanta Police Department mentioning the previously unknown company.

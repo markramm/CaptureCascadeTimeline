@@ -29,6 +29,10 @@ sources:
   date: 2024-01-01
   tier: 2
   outlet: Wikipedia
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Environmental Capture
 ---
 
 ShotSpotter's acoustic gunshot detection system undergoes major expansion across the United States during 2015, with significant deployments in New York City and Sacramento representing the technology's growing adoption by major metropolitan police departments.

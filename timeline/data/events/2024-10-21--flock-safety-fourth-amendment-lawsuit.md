@@ -18,8 +18,8 @@ tags:
 - warrantless-surveillance
 - constitutional-challenge
 capture_lanes:
-- Surveillance & Data Control
-- Legal System Capture
+- Surveillance Infrastructure
+- Judicial Capture
 sources:
 - title: Group files lawsuit arguing Norfolk traffic cameras are unconstitutional
   url: https://www.pilotonline.com/2024/10/21/group-files-lawsuit-arguing-norfolk-traffic-cameras-are-unconstitutional/

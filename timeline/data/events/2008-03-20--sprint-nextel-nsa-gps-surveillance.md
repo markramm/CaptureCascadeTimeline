@@ -2,13 +2,8 @@
 id: 2008-03-20--sprint-nextel-nsa-gps-surveillance
 date: '2008-03-20'
 title: Sprint Nextel GPS Location Data Sharing with Law Enforcement
-description: Sprint Nextel provided law enforcement agencies with wireless subscribers'
-  GPS locations over 8 million times between September 2008 and October 2009 through
-  a specialized secure portal, demonstrating extensive telecommunications data sharing
-  capabilities.
-significance: Reveals the comprehensive telecommunications surveillance infrastructure
-  enabling law enforcement and intelligence agencies to access precise location information
-  for millions of mobile subscribers.
+description: Sprint Nextel provided law enforcement agencies with wireless subscribers' GPS locations over 8 million times between September 2008 and October 2009 through a specialized secure portal, demonstrating extensive telecommunications data sharing capabilities.
+significance: Reveals the comprehensive telecommunications surveillance infrastructure enabling law enforcement and intelligence agencies to access precise location information for millions of mobile subscribers.
 sources:
 - title: Telecom Firm Pushed Back on NSA Data Collection
   outlet: CNN
@@ -48,7 +43,7 @@ actors:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Telecommunications Surveillance
+- Surveillance Infrastructure
 ---
 
 Between September 2008 and October 2009, Sprint Nextel disclosed GPS location data for wireless subscribers over 8 million times via a specialized secure government portal, illustrating the extensive telecommunications surveillance capabilities during this period.

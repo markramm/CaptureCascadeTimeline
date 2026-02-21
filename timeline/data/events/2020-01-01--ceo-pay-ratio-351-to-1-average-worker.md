@@ -30,6 +30,9 @@ sources:
   outlet: CNBC
   date: '2021-09-15'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Corporate Capture
 ---
 
 Economic Policy Institute research documents that in 2020, CEOs of the top 350 U.S. firms earned an average of $24.2 million—351 times more than typical workers—starkly illustrating wealth extraction through executive compensation. This ratio has exploded from 21-to-1 in 1965 and 61-to-1 in 1989, accelerating during the shareholder value era. Between 2019 and 2020, CEO compensation increased 18.9% while typical worker pay (for those who kept their jobs amid pandemic layoffs) rose just 3.9%. From 1978 to 2020, CEO pay based on realized compensation grew 1,322%, far outstripping S&P 500 stock market growth (817%) and even top 0.1% earnings growth (341%). Meanwhile, typical worker compensation grew only 18% over the same 42-year period—less than inflation. This 351-to-1 ratio quantifies the wealth extraction mechanism established by shareholder primacy doctrine, stock options compensation, and stock buyback legalization: CEOs whose pay is tied to stock prices use their control over corporate resources to engineer stock appreciation through buybacks, cost-cutting, and mass layoffs rather than sustainable business growth, capturing enormous personal wealth while workers see stagnant or declining real wages despite rising productivity. The ratio demonstrates that corporations generate sufficient profits to dramatically increase worker pay but deliberately choose to concentrate gains at the executive level. As EPI concludes, 'exorbitant CEO pay is a major contributor to rising inequality that we could safely do away with.' The 351-to-1 ratio represents not competitive market outcomes but the successful implementation of extraction mechanisms that transfer worker-generated value to executives and shareholders through structural power imbalances and policy choices favoring capital over labor.

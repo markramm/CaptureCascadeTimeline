@@ -17,7 +17,7 @@ tags:
 - warrantless-surveillance
 - civil-liberties
 capture_lanes:
-- Surveillance & Data Control
+- Surveillance Infrastructure
 sources:
 - title: Flock police cameras scan billions per month sparking protests
   url: https://www.nbcnews.com/tech/tech-news/flock-police-cameras-scan-billions-month-sparking-protests-rcna230037

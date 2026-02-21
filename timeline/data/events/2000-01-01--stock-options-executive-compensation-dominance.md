@@ -30,6 +30,10 @@ sources:
   outlet: Harvard Business Review
   date: '1999-03-01'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Labor Suppression
+- Corporate Capture
 ---
 
 By 2000, stock options have become the dominant form of executive compensation in American corporations, with median CEO compensation in S&P 500 companies reaching $6.5 million—up from $2.3 million in 1992—as stock options swell from 27% to 51% of total CEO pay packages. This compensation structure fundamentally aligns executive incentives with short-term stock price appreciation rather than long-term value creation or worker welfare, creating perverse incentives for earnings manipulation, cost-cutting, mass layoffs, and stock buybacks. Executives gain the ability and motivation to inflate stock prices through accounting manipulation, aggressive buybacks, and workforce reductions that boost quarterly earnings at the expense of long-term productive investment. Studies document how stock-based compensation provides incentives for executives to manipulate earnings and fabricate the appearance of success, contributing to accounting scandals of the late 1990s including options backdating abuses. The Financial Crisis Inquiry Commission later concludes that these pay structures had 'the unintended consequence of creating incentives to increase both risk and leverage,' contributing to the 2007-2010 financial crisis. This compensation model explains why CEOs prioritize stock buybacks over wage increases, prefer layoffs to training, and focus on quarterly earnings management rather than research, development, and long-term business building. The result is systematic wealth transfer from workers and productive enterprise to executives and shareholders, as CEO decisions are optimized for personal enrichment through stock price manipulation rather than sustainable business growth or stakeholder welfare.

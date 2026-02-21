@@ -37,6 +37,10 @@ sources:
   outlet: Courthouse News Service
   date: '2026-02-13'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Environmental Capture
+- Legislative Capture
 ---
 
 House Judiciary Ranking Member Jamie Raskin, Immigration Subcommittee Ranking Member Pramila Jayapal, and Oversight Committee Ranking Member Robert Garcia launched a formal investigation into DOJ's "clandestine congressional surveillance operation" after Attorney General Bondi was photographed with Representative Jayapal's detailed search history from the Epstein files reading room. The lawmakers demanded DOJ immediately cease tracking and cataloguing members' searches, calling it an attempt to "obstruct and intimidate Members of Congress."

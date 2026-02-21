@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: The Policing Project
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Intelligence Penetration
 ---
 
 On June 27, 2019, Axon announced it would not commercialize facial recognition technology for body cameras following recommendations from its AI and Policing Technology Ethics Board. The board's first major report concluded that "facial recognition simply isn't good enough right now for it to be used ethically" and warned that deployment of the technology in law enforcement contexts posed unacceptable risks of racial bias, privacy violations, and erosion of civil liberties. Axon agreed to pause development of face-matching capabilities for its body camera systems, marking a rare instance of a major surveillance technology company accepting limitations on profitable AI applications due to ethical concerns.

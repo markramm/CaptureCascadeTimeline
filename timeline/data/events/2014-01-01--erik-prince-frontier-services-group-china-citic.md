@@ -37,6 +37,10 @@ sources:
   tier: 3
   outlet: Balloon Juice
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- International Kleptocracy
 ---
 
 Erik Prince founded Frontier Services Group (FSG), a Hong Kong-listed security, logistics and insurance company backed by Chinese state capital. Prince was introduced to Chang Zhenming, chairman of China's state-owned CITIC investment conglomerate, in 2013, providing Prince entry to the Chinese market. CITIC Group, a state-run investment fund owned and controlled by the People's Republic of China, became FSG's largest shareholder, gradually increasing its stake to more than 28% by March 2018.

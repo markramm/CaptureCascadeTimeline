@@ -22,6 +22,9 @@ sources:
   outlet: PBS NewsHour
   tier: 1
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 The Danish Defense Intelligence Service (DDIS) published its annual report naming the United States as a potential security concern for the first time in history. The report stated: "The United States is leveraging economic power, including threats of high tariffs, to assert its will, and the possibility of employing military force - even against allies - is no longer ruled out." It warned that the US pivot toward its immediate region "creates uncertainty about its role as the primary guarantor of security in Europe" and noted Russia would try to exploit this division. The unprecedented designation of America as a threat by a NATO ally reflected the fundamental rupture in transatlantic relations caused by Trump's territorial demands.

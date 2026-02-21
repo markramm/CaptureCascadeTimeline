@@ -41,6 +41,10 @@ sources:
   tier: 1
   outlet: Nextgov
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Civil Rights Suppression
 ---
 
 On July 26, 2018, the American Civil Liberties Union (ACLU) released results of an independently verified test demonstrating that Amazon's Rekognition facial recognition software incorrectly matched 28 members of Congress with mugshots from a database of arrest photos. The test, which cost only $12.33 to conduct, revealed significant accuracy problems and documented racial bias in Amazon's surveillance technology—nearly 40 percent of the false matches were of people of color, despite people of color comprising only 20 percent of Congress. The findings provided concrete evidence of the dangers of deploying facial recognition technology in law enforcement and sparked immediate Congressional demands for a meeting with Amazon CEO Jeff Bezos.

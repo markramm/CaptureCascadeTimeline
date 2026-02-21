@@ -29,6 +29,10 @@ sources:
   date: '2016-10-13'
   tier: 2
   outlet: CNN Money
+capture_lanes:
+- Surveillance Infrastructure
+- Systematic Corruption
+- Corporate Capture
 ---
 
 Wells Fargo CEO John Stumpf resigns effective immediately, ending his 34-year career at the bank amid the fake accounts scandal. Despite calls from Senator Elizabeth Warren and others for him to forfeit his compensation and face criminal charges, Stumpf departs with approximately $130-137 million in accumulated wealth from stock holdings and vested compensation. The resignation demonstrates that even in cases of admitted systematic fraud, executive accountability means retiring rich rather than facing prosecution.

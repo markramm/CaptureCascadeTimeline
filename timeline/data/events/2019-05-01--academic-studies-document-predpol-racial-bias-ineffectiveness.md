@@ -30,6 +30,10 @@ sources:
   date: 2020-07-17
   tier: 1
   outlet: MIT Technology Review
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Civil Rights Suppression
 ---
 
 Multiple academic studies and internal police audits published in 2019 provide comprehensive evidence of PredPol's racial bias and failure to demonstrate effectiveness, undermining the fundamental claims that have justified the technology's widespread adoption.

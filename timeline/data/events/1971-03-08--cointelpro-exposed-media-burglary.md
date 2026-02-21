@@ -30,6 +30,10 @@ sources:
   date: 2021-06-01
   tier: 1
   outlet: UC Berkeley Library
+capture_lanes:
+- Surveillance Infrastructure
+- Legislative Capture
+- Media Capture & Control
 ---
 
 The Citizens' Commission to Investigate the FBI burglarized an FBI office in Media, Pennsylvania, and stole classified documents that exposed COINTELPRO—the FBI's covert and illegal program to surveil, infiltrate, discredit, and disrupt American civil rights organizations and political activists. The revelations documented a systematic 15-year campaign of domestic political repression.

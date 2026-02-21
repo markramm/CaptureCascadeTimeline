@@ -32,6 +32,10 @@ sources:
   outlet: American Immigration Council
   date: '2026-02-01'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Systematic Corruption
+- Financial Capture
 ---
 
 In a sworn declaration filed in federal court, IRS Chief Risk and Control Officer Dottie Romo revealed that the agency erroneously shared the confidential taxpayer information of thousands of people with the Department of Homeland Security, violating privacy rules designed to protect taxpayer data. The IRS notified DHS of the error on January 23, 2026, but only after the unlawful data sharing had already occurred.

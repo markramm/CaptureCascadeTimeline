@@ -31,6 +31,10 @@ sources:
   date: 2017-11-21
   tier: 2
   outlet: The Register
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- International Kleptocracy
 ---
 
 Amazon Web Services unveils a dedicated cloud computing region specifically designed to host classified government data at the "Secret" classification level, serving the CIA and all 17 U.S. intelligence agencies. This AWS Secret Region operates as an air-gapped, isolated infrastructure separate from the public internet, enabling intelligence agencies to "host, analyze and run applications on government data classified at the secret level" through the $600 million C2S contract established with the CIA in 2013.

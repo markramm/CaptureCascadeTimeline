@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: First Amendment Watch
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Judicial Capture
 ---
 
 Edward Snowden published his memoir "Permanent Record" on September 17, 2019 (Constitution Day), through Metropolitan Books, an imprint of Henry Holt and Company. The book provided Snowden's first-person account of his life, his work in the intelligence community, his decision to leak classified NSA documents, and his subsequent exile in Russia. Within hours of the book's release, the U.S. Department of Justice filed a civil lawsuit seeking to seize all proceeds from the memoir.

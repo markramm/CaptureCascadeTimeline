@@ -38,6 +38,10 @@ sources:
   tier: 1
   outlet: Vice
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Digital & Tech Capture
 ---
 
 The Intercept published an investigation on January 10, 2019 revealing that beginning in 2016, Ring provided its Ukraine-based research and development team with virtually unfettered access to a folder on Amazon's S3 cloud storage service containing every video created by every Ring camera around the world. The investigation exposed that Ring employees—including engineers in both the U.S. and Ukraine—could access customer video feeds using only an email address, with video files left unencrypted because Ring leadership believed "encryption would make the company less valuable." The revelations demonstrated severe privacy violations at the heart of Amazon's home surveillance network and sparked Congressional investigations into Ring's security practices.

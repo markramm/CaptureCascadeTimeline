@@ -29,6 +29,9 @@ sources:
   outlet: Senate Judiciary Committee
   date: '2026-02-11'
   tier: 1
+capture_lanes:
+- Surveillance Infrastructure
+- Legislative Capture
 ---
 
 Senate Judiciary Committee members Dick Durbin (D-IL) and Mike Lee (R-UT) reintroduced the bipartisan Security and Freedom Enhancement (SAFE) Act on February 11, 2026, seeking major reforms to Section 702 of the Foreign Intelligence Surveillance Act before its April 20, 2026 expiration. The bill represents a carefully crafted compromise that would reauthorize the surveillance program while imposing meaningful civil liberties safeguards.

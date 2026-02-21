@@ -36,6 +36,10 @@ sources:
   tier: 1
   outlet: Human Rights Watch
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Judicial Capture
 ---
 
 President Obama delivered a major address at the Department of Justice outlining reforms to NSA surveillance programs in response to Edward Snowden's revelations, but the proposed changes left core bulk collection authorities largely intact while adding modest procedural safeguards. The speech represented Obama's attempt to balance public outrage over mass surveillance with pressure from intelligence agencies to preserve existing capabilities.

@@ -23,7 +23,7 @@ sources:
   date: '2026-02-11'
   tier: 2
 - url: https://www.cnbc.com/2026/02/11/epstein-files-pam-bondi-jayapal-search-history-doj.html
-  title: "Epstein files: AG Pam Bondi seemed to have Rep. Jayapal's DOJ database search history at hearing"
+  title: 'Epstein files: AG Pam Bondi seemed to have Rep. Jayapal''s DOJ database search history at hearing'
   outlet: CNBC
   date: '2026-02-11'
   tier: 2
@@ -37,6 +37,10 @@ sources:
   outlet: CNN
   date: '2026-02-12'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Environmental Capture
+- Legislative Capture
 ---
 
 During a House Judiciary Committee hearing on February 11, 2026, Attorney General Pam Bondi was photographed by Reuters and Agence France-Presse with a document in her binder titled "Jayapal Pramila Search History." The sheet listed at least eight different files from DOJ's Epstein records database that Representative Pramila Jayapal had searched two days earlier in the DOJ reading room, including file numbers and content descriptions. Jayapal confirmed in an NPR interview that the listed searches corresponded exactly to ones she had made.

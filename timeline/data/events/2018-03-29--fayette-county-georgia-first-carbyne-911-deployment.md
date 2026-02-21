@@ -43,6 +43,10 @@ sources:
   tier: 3
   outlet: MintPress News
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Digital & Tech Capture
 ---
 
 Fayette County, Georgia approved a $192,000 expenditure to become the first 911 system in the United States to deploy Carbyne's IP-based emergency communication platform with comprehensive surveillance capabilities, marking a pivotal moment in the integration of foreign military intelligence technology into critical US emergency infrastructure without federal security review. After piloting the system from August through December 2017, county commissioners approved full deployment of Carbyne's technology on March 22, 2018, which extracts device location data, enables live video streaming from caller smartphones to 911 call centers, monitors text messages through two-way chat windows, and can access data from users' phones even without the Carbyne app installed when they contact 911 centers running the software.

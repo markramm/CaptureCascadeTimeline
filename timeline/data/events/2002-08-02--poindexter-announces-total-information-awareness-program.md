@@ -33,6 +33,10 @@ sources:
   outlet: Electronic Privacy Information Center
   date: '2003-09-30'
   tier: 1
+capture_lanes:
+- Surveillance Infrastructure
+- Labor Suppression
+- Digital & Tech Capture
 ---
 
 At the DARPATech 2002 Conference in Anaheim, California, Rear Admiral John Poindexter publicly unveils the Total Information Awareness (TIA) program, describing it as a comprehensive surveillance system to detect terrorists by monitoring 'transaction spaces' including financial records, travel data, and communications. Poindexter, appointed Director of DARPA's newly created Information Awareness Office in January 2002, presents TIA as a 'systems approach' that would treat worldwide distributed legacy databases as one centralized resource, process natural language across thousands of languages, and enable collaborative analysis across agencies using all-source data access.

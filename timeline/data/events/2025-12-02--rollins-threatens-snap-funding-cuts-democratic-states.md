@@ -41,6 +41,10 @@ sources:
   tier: 2
   date: '2025-12-02'
   outlet: CNBC
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Judicial Capture
 ---
 
 Agriculture Secretary Brooke Rollins announced during a White House Cabinet meeting on December 2 that the USDA will begin withholding federal SNAP funding from 21 Democratic-led states and Washington, D.C. starting the following week unless they comply with the administration's demand to provide detailed personal data about food assistance recipients, including names, Social Security numbers, addresses, birth dates, and immigration status. Rollins declared, "As of next week, we have begun and will begin to stop moving federal funds into those states, until they comply," framing the action as necessary to "root out fraud" and claiming that data from the 29 Republican-led states and Guam that complied showed 186,000 deceased individuals and 500,000 duplicates receiving benefits. The threat affects approximately 42 million lower-income Americans who rely on SNAP—roughly 1 in 8 people nationwide—receiving an average monthly benefit of just $190 per person, or approximately $6 daily.

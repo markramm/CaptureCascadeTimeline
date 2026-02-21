@@ -39,6 +39,10 @@ sources:
   tier: 2
   outlet: AI Business
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Civil Rights Suppression
 ---
 
 On Wednesday, June 10, 2020, Amazon announced a one-year moratorium on police use of its Rekognition facial recognition software, shocking civil rights activists and researchers who had spent two years fighting to stop the company from selling surveillance technology to law enforcement. The announcement came amid nationwide protests following George Floyd's murder by Minneapolis police officer Derek Chauvin on May 25, 2020, and pressure from police-reform advocates concerned about facial recognition technology's documented racial bias and inaccuracy, particularly against people with darker skin. Amazon stated it hoped the moratorium would "give Congress enough time to implement appropriate rules" governing the technology's use.

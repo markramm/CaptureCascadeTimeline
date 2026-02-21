@@ -29,6 +29,10 @@ sources:
   date: '2014-06-25'
   tier: 1
   outlet: SCOTUSblog
+capture_lanes:
+- Surveillance Infrastructure
+- Civil Rights Suppression
+- Judicial Capture
 ---
 
 The United States Supreme Court unanimously rules in Riley v. California that police generally may not, without a warrant, search digital information on a cell phone seized from an individual who has been arrested. Chief Justice John Roberts writes the landmark opinion, declaring that "cell phones differ in both a quantitative and a qualitative sense from other objects that might be kept on an arrestee's person" due to the vast amount of personal data they contain and the minimal threat they pose to law enforcement interests. The Court establishes that the warrantless search and seizure of digital contents of a cell phone during an arrest is unconstitutional under the Fourth Amendment, recognizing that modern smartphones contain a digital record of nearly every aspect of people's lives. This decision represents perhaps the most important privacy ruling of the digital age, setting constitutional boundaries on law enforcement's use of mobile device forensic tools. However, the ruling's requirement for warrants does not address broader concerns about the scope of searches once warrants are obtained, as courts continue to afford officers broad leeway to search entire devices rather than limiting searches to specific files or information sought in warrant applications.

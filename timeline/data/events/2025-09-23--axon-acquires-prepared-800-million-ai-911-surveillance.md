@@ -34,6 +34,10 @@ sources:
   tier: 2
   outlet: Government Technology
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Environmental Capture
+- Digital & Tech Capture
 ---
 
 On September 23, 2025, Axon Enterprise announced a definitive agreement to acquire Prepared, an AI-powered emergency communications platform, for a reported $800-900 million (official terms undisclosed), adding comprehensive 911 call processing capabilities to Axon's surveillance ecosystem. Prepared's platform—deployed across more than 1,000 agencies in 49 states protecting nearly 100 million people—provides real-time transcription and translation of emergency calls in 33 languages, automatic location detection from spoken addresses and landmarks, AI-powered emergency type classification, and intelligent highlighting of critical details like suspect descriptions and weapon presence. Combined with Axon's November 2025 acquisition of Carbyne ($625 million) and the April 2024 launch of Draft One AI police report automation, the Prepared acquisition represents a critical component in Axon's $1.4+ billion investment to construct a complete AI-powered surveillance and prosecution pipeline: AI-enhanced 911 call intake, comprehensive emergency data extraction, body camera recording of police encounters, and automated report generation—all under single corporate control serving over 18,000 US law enforcement agencies.

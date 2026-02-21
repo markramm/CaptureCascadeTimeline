@@ -1,8 +1,7 @@
 ---
 id: 2025-05-01--ehud-barak-emails-hacked-epstein-exposed
 date: '2025-05-01'
-title: 100,000+ emails from Israeli Defense Minister Barak hacked, revealing Epstein
-  partnership and global surveillance technology network
+title: 100,000+ emails from Israeli Defense Minister Barak hacked, revealing Epstein partnership and global surveillance technology network
 importance: 10
 tags:
 - ehud-barak
@@ -34,8 +33,7 @@ sources:
   url: https://reason.com/2025/08/27/inside-jeffrey-epsteins-spy-industry-connections/
   outlet: Reason Magazine
   date: '2025-08-27'
-  description: In-depth analysis of Epstein's leaked emails revealing his networking
-    in surveillance technology
+  description: In-depth analysis of Epstein's leaked emails revealing his networking in surveillance technology
 - title: Leaked Emails Reveal Jeffrey Epstein's Connections to the Surveillance Industry
   url: https://www.yahoo.com/news/articles/leaked-emails-reveal-jeffrey-epsteins-143052842.html
   outlet: Yahoo News
@@ -44,7 +42,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Technology Surveillance
+- Surveillance Infrastructure
 ---
 
 The Handala hacking group breached and released over 100,000 emails from former Israeli Defense Minister Ehud Barak through Distributed Denial of Secrets. The emails exposed extensive business partnerships between Barak and Jeffrey Epstein, including joint investments in surveillance technology companies like Carbyne, efforts to avoid security details during island visits, and coordination while Barak oversaw Unit 8200 (Israel's NSA equivalent). The leak provides documentary evidence of the intelligence-trafficking nexus operating through private commercial structures, revealing attempts to connect with Peter Thiel and Russian business networks.

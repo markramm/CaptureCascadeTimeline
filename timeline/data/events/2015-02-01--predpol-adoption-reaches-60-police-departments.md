@@ -27,6 +27,10 @@ sources:
   date: 2024-01-01
   tier: 2
   outlet: Wikipedia
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Intelligence Penetration
 ---
 
 PredPol's predictive policing software reaches widespread adoption across the United States, with almost 60 police departments using the technology by early 2015. Major cities including Los Angeles, Atlanta, and numerous smaller jurisdictions have implemented the algorithmic crime prediction system, representing the peak of predictive policing's acceptance in American law enforcement.

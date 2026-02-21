@@ -32,6 +32,10 @@ sources:
   outlet: SmarterMSP
   date: '2024-04-02'
   tier: 3
+capture_lanes:
+- Surveillance Infrastructure
+- Corporate Capture
+- Digital & Tech Capture
 ---
 
 In October 2004, Google acquired Keyhole Inc. for an undisclosed amount, bringing In-Q-Tel's CIA-backed geospatial technology into one of the world's largest tech companies. The acquisition meant that In-Q-Tel's equity stake in Keyhole converted to Google shares, making the CIA's venture capital arm a Google shareholder and creating an unprecedented financial linkage between America's largest search company and its intelligence apparatus.

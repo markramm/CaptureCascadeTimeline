@@ -35,6 +35,10 @@ sources:
   tier: 2
   outlet: AppleInsider
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Intelligence Penetration
 ---
 
 The FBI engages Israeli mobile forensics company Cellebrite to crack the iPhone 5C used by San Bernardino shooter Syed Rizwan Farook, after Apple refuses to create software to bypass the device's security features. Following the December 2015 terrorist attack that killed 14 people, the FBI sought to compel Apple to develop new software that would enable unlocking the encrypted device, but Apple declined on privacy and security grounds, arguing that creating such a backdoor would undermine encryption for all users. One day before a scheduled court hearing on March 22, 2016, the government obtained a delay, announcing it had found a third party able to unlock the device. Reports indicate Cellebrite was contracted to provide the solution, though the tool reportedly cost more than $1.3 million and the FBI did not purchase rights to technical details about how it functions. The case becomes a flashpoint in the encryption debate, demonstrating both the government's determination to access encrypted devices and the existence of commercial vendors willing to develop phone-cracking tools for law enforcement. Note: Later reporting in 2021 revealed that Australian defense contractor Azimuth Security (now part of L3Harris Technologies) was actually responsible for the final unlock, though Cellebrite was involved in earlier attempts.

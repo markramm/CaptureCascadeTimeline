@@ -32,6 +32,10 @@ sources:
   outlet: Fortune
   date: '2025-07-29'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Military-Industrial Complex
+- Digital & Tech Capture
 ---
 
 In February 2003, just weeks before the U.S. invasion of Iraq, In-Q-Tel made a strategic investment in Keyhole, Inc., a struggling California startup that had developed EarthViewer, a groundbreaking 3D earth visualization system. The investment, made using funding from the National Imagery and Mapping Agency (NIMA, later renamed National Geospatial-Intelligence Agency), provided Keyhole with critical capital at a moment when the company was running low on resources.

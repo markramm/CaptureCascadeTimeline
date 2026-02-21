@@ -29,6 +29,10 @@ sources:
   date: '2025-07-07'
   tier: 2
   outlet: HuffPost
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Digital & Tech Capture
 ---
 
 On July 2, 2025, the CDC's H5N1 emergency bird flu response was deactivated to transition back to regular program activity, according to a spokesperson for the U.S. Department of Health and Human Services. The decision was made because reports of animal infections with avian influenza A(H5N1) virus had declined and no human cases had been reported since February 2025, despite the virus having infected over 1,000 dairy herds across 17 states and caused 70 human infections with one death.

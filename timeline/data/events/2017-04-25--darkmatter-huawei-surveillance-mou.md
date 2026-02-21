@@ -33,6 +33,10 @@ sources:
   tier: 3
   outlet: ExBulletin
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Digital & Tech Capture
 ---
 
 DarkMatter, the UAE-based private intelligence company employing former U.S. intelligence operatives, signed a Global Strategic Memorandum of Understanding with Chinese telecommunications giant Huawei for "Big Data" systems and "Smart City" surveillance solutions. The agreement, signed during Huawei's Global Safe City Summit 2017 in Dubai, combined Pegasus' (a DarkMatter subsidiary) big data analytics applications with Huawei's FusionInsight platform and Public Safety Cloud solution for comprehensive urban surveillance systems.

@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: U.S. News & World Report
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Electoral Manipulation
 ---
 
 At a press conference at his Bedminster, New Jersey golf club, President Donald Trump told reporters he was considering a pardon for Edward Snowden, stating "Many people think he should somehow be treated differently, and other people think he did very bad things, and I'm going to take a very good look at it." This marked a significant shift from Trump's earlier position; in 2013, he had called for Snowden's execution, tweeting that the whistleblower was a "traitor" who "gave serious information to China and Russia" and should receive "the death penalty."

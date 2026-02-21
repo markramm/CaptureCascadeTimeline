@@ -32,6 +32,10 @@ sources:
   date: '2025-11-11'
   tier: 2
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- International Kleptocracy
 ---
 
 In early April 2025, In-Q-Tel announced its 800th investment since the CIA venture capital arm's founding in 1999, marking a major expansion of intelligence community financial entanglement with private technology companies. The milestone investment came as In-Q-Tel broadened its focus beyond traditional information technology into quantum computing, artificial intelligence, biotechnology, and autonomous systems—technology categories with profound surveillance and military applications.

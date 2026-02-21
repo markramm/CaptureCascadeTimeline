@@ -35,6 +35,10 @@ sources:
   tier: 2
   outlet: Israel.com
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 Axon Enterprise (Nasdaq: AXON), the dominant US provider of police body cameras and Tasers serving over 18,000 law enforcement agencies, entered a definitive agreement to acquire Carbyne for $625 million in an all-cash transaction expected to close in Q1 2026. The acquisition consolidates Carbyne's Israeli Unit 8200-developed 911 surveillance technology—serving hundreds of agencies protecting over 250 million people worldwide with comprehensive GPS location tracking, live video streaming, and AI-powered data extraction from smartphone emergency calls—with Axon's extensive law enforcement technology ecosystem including body cameras, digital evidence management, and AI analytics platforms.

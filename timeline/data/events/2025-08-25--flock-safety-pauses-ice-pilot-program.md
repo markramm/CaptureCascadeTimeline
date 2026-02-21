@@ -17,8 +17,8 @@ tags:
 - warrantless-surveillance
 - data-sharing
 capture_lanes:
-- Surveillance & Data Control
-- Immigration Enforcement
+- Surveillance Infrastructure
+- Civil Rights Suppression
 sources:
 - title: Flock admits federal immigration agents have direct access to tracking data
   url: https://www.9news.com/article/news/local/flock-federal-immigration-agents-access-tracking-data/73-a8aee742-56d4-4a57-b5bb-0373286dfef8

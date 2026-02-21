@@ -16,8 +16,7 @@ actors:
 - North Macedonia Ministry of Interior
 - Cyshark
 sources:
-- title: 'Pegasus vs. Predator: Dissident Doubly-Infected iPhone Reveals Cytrox Mercenary
-    Spyware'
+- title: 'Pegasus vs. Predator: Dissident Doubly-Infected iPhone Reveals Cytrox Mercenary Spyware'
   url: https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
   outlet: The Citizen Lab
   date: '2021-12-16'
@@ -61,7 +60,7 @@ importance: 8
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Surveillance Technology
+- Surveillance Infrastructure
 ---
 
 Cytrox is established as a startup in North Macedonia with initial funding from Israel Aerospace Industries, creating a new front for Israeli intelligence-linked spyware development. CEO Ivo Malinkovski, a 30-year-old from Skopje, leads operations while the company begins developing Predator spyware to compete with NSO Group's Pegasus. On October 6, 2017, Cytrox and Cyshark formally request authorization from North Macedonia's Ministry of Interior for manufacturing, sale, resale, and export of surveillance software, despite government claims of being unaware of the operations.

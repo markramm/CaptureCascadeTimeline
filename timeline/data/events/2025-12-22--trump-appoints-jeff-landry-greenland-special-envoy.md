@@ -23,6 +23,9 @@ sources:
   outlet: Reuters
   tier: 1
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 Trump named Louisiana Governor Jeff Landry as Special Envoy to Greenland without informing Denmark in advance. Trump wrote that "Jeff understands how essential Greenland is to our National Security" while Landry stated his task was to "make Greenland a part of the U.S." Denmark summoned Ambassador Ken Howery in response. Foreign Minister Lars Lokke Rasmussen called the appointment "completely unacceptable," and Danish and Greenlandic prime ministers issued a joint statement: "You cannot annex another country. Not even with an argument about international security." Louisiana has business ties to Greenland rare earth processing, highlighting potential conflicts of interest in the appointment.

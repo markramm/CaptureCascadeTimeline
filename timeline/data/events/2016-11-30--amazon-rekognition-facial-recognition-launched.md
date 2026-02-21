@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: ACLU
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Digital & Tech Capture
 ---
 
 Amazon Web Services announced the launch of Amazon Rekognition at its re:Invent developer conference in Las Vegas on November 30, 2016. The cloud-based facial recognition service marked Amazon's entry into surveillance technology, offering image and video analysis capabilities including face detection, face comparison, and face search functionality. The service would quickly become controversial as Amazon aggressively marketed it to law enforcement agencies and government entities, positioning the company at the center of debates about mass surveillance, racial bias in AI systems, and civil liberties.

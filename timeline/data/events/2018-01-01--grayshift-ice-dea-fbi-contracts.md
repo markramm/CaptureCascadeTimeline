@@ -33,6 +33,10 @@ sources:
   date: '2018-01-01'
   tier: 2
   outlet: Vice Motherboard
+capture_lanes:
+- Surveillance Infrastructure
+- Media Capture & Control
+- Digital & Tech Capture
 ---
 
 Grayshift rapidly expands its federal law enforcement customer base, securing significant contracts with Immigration and Customs Enforcement (ICE), the Drug Enforcement Administration (DEA), and the Federal Bureau of Investigation (FBI), along with Customs and Border Protection (CBP) and the Secret Service. ICE signs a $384,000 contract with Grayshift in 2018, marking the beginning of what will become the agency's extensive investment in phone-cracking technology. The DEA, previously relying on Cellebrite's services, expresses strong interest in purchasing GrayKey technology as an alternative solution for unlocking iOS devices. The FBI also engages with Grayshift, with online records showing requests for quotes on six GrayKey devices, though the agency refuses to confirm purchases through FOIA requests. Beyond federal agencies, hundreds of state and local law enforcement agencies gain access to GrayKey devices, creating a widespread network of phone-hacking capabilities across American policing. The rapid adoption raises significant concerns about Fourth Amendment protections, as the technology enables comprehensive extraction of phone data that often exceeds the scope of search warrants, particularly when used in consent searches where individuals may be unaware that police can perform complete device downloads for later analysis.

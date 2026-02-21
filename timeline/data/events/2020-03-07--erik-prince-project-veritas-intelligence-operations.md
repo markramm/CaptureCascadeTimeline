@@ -39,6 +39,10 @@ sources:
   tier: 2
   outlet: Salon
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Systematic Corruption
 ---
 
 The New York Times published a detailed investigation revealing that Erik Prince, founder of Blackwater and brother of Education Secretary Betsy DeVos, recruited former American and British intelligence officers to conduct domestic espionage operations targeting Democratic political campaigns and labor organizations in partnership with Project Veritas. The investigation documented systematic infiltration operations directed by Richard Seddon, a former British MI6 officer hired by Prince, who oversaw undercover operatives conducting secret recordings and document theft from political targets.

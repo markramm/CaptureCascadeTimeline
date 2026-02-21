@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: Common Dreams
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Labor Suppression
+- Digital & Tech Capture
 ---
 
 # Amazon's Anti-Union Training Video Leaked - Exposes Systematic Union Suppression Program

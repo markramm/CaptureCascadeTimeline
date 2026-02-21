@@ -32,6 +32,10 @@ sources:
   tier: 2
   outlet: Officer.com
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Financial Capture
 ---
 
 On February 20, 2020, Axon announced the launch of Axon Air, an end-to-end drone surveillance platform that livestreams aerial footage directly into the company's Evidence.com cloud storage system. The system integrated with DJI Mavic 2 Enterprise and Matrice 200 series drones, enabling law enforcement to stream drone video to command staff in near real-time while automatically maintaining chain-of-custody protocols. The Escondido Police Department in California became the first agency to deploy the platform, with approximately 30 agencies using it in field operations at launch. Axon Air expanded the company's surveillance ecosystem beyond body cameras and Tasers to include persistent aerial monitoring, creating a comprehensive platform for capturing, storing, and analyzing police surveillance data from multiple sources.

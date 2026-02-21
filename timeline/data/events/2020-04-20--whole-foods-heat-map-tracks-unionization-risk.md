@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: The Daily Beast
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Labor Suppression
+- Digital & Tech Capture
 ---
 
 # Whole Foods Heat Map Tracks Stores at Risk of Unionization Using Diversity and Demographics

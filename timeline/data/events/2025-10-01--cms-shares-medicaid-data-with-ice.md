@@ -24,6 +24,10 @@ tags:
 - civil-liberties-violation
 - healthcare-weaponization
 - institutional-capture
+capture_lanes:
+- Surveillance Infrastructure
+- Judicial Capture
+- Digital & Tech Capture
 ---
 
 The Department of Homeland Security and Centers for Medicare and Medicaid Services implemented a data-sharing agreement providing ICE with access to the personal information of all 79 million Medicaid enrollees nationwide. The shared database includes names, addresses, birth dates, ethnic and racial information, and Social Security numbers. The agreement's stated purpose is to help ICE officials 'find the location of aliens' across the country. While ICE officials cannot download the data, they can access it between 9am-5pm Monday through Friday. A federal judge later granted a preliminary injunction requested by 20 state attorneys general, noting that 'Using CMS data for immigration enforcement threatens to significantly disrupt the operation of Medicaid.' The data sharing represents unprecedented surveillance of healthcare enrollment for immigration enforcement purposes.

@@ -32,6 +32,9 @@ sources:
   outlet: Global News
   date: '2026-01-30'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Media Capture & Control
 ---
 
 Anti-ICE protesters disrupted a Sunday worship service at Cities Church in St. Paul, Minnesota, on January 18, 2026, chanting "ICE out" and "Justice for Renee Good" in reference to Renée Nicole Good, who was fatally shot by an ICE agent on January 7 during Operation Metro Surge. The protesters targeted the Southern Baptist church because one of its pastors, David Easterwood, serves as the acting Field Director of ICE's St. Paul field office.

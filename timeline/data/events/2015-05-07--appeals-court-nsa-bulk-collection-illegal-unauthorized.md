@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: Electronic Frontier Foundation
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Intelligence Penetration
+- Regulatory Capture
 ---
 
 A three-judge panel of the U.S. Court of Appeals for the Second Circuit unanimously ruled in ACLU v. Clapper that the National Security Agency's bulk collection of telephone metadata was not authorized by Section 215 of the USA PATRIOT Act, effectively declaring the surveillance program illegal. Judge Gerard E. Lynch, writing the opinion, described the government's legal theory—that all-encompassing collection of phone records was "relevant" to an authorized investigation—as "unprecedented and unwarranted."

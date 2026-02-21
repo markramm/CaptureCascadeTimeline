@@ -37,6 +37,10 @@ sources:
   date: '2025-12-03'
   tier: 2
   outlet: San Antonio Report
+capture_lanes:
+- Surveillance Infrastructure
+- Civil Rights Suppression
+- Labor Suppression
 ---
 
 # Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting

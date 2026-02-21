@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: Axon
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 On April 7, 2017, TASER International announced its rebrand to Axon Enterprise, signaling a strategic pivot from weapons manufacturer to comprehensive police technology platform provider. The name change reflected the company's evolution toward cloud-based evidence management and AI-powered surveillance systems, with CEO Rick Smith stating they were becoming "a device-connected platform for law enforcement data" rather than primarily relying on stun gun sales. At the time of rebrand, Tasers still represented approximately three-quarters of the company's $268 million annual revenue, while the body camera division generated $65.6 million—up 85% from the previous year.

@@ -17,8 +17,8 @@ tags:
 - police-surveillance
 - venture-capital
 capture_lanes:
-- Surveillance & Data Control
-- Financial Control
+- Surveillance Infrastructure
+- Financial Capture
 sources:
 - title: Flock Safety Raises $150M in Series E Funding
   url: https://builtin.com/articles/flock-safety-raises-150m-series-e-hiring-021622

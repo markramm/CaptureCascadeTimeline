@@ -41,6 +41,10 @@ sources:
   tier: 1
   outlet: The Seattle Times
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Environmental Capture
+- Digital & Tech Capture
 ---
 
 In June 2018, at the height of the Trump administration's family separation crisis at the U.S.-Mexico border, Amazon Web Services officials met with Immigration and Customs Enforcement (ICE) representatives in Redwood City, California to pitch Rekognition facial recognition technology for immigration enforcement operations. The meeting, held at consulting giant McKinsey & Co.'s offices and revealed months later through Freedom of Information Act requests by the Project on Government Oversight (POGO), demonstrated Amazon's aggressive pursuit of immigration enforcement contracts despite mounting criticism of both ICE's practices and facial recognition technology's documented racial bias.

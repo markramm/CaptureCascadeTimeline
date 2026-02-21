@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Military-Industrial Complex
 ---
 
 Frontier Services Group announced plans to build a training facility in Xinjiang province, the western Chinese region where as many as 1 million Uyghur Muslims had been placed in extrajudicial detention camps under comprehensive surveillance. FSG's Chinese website posted a statement saying the company had signed a deal to run a training base in Kashgar, though an FSG spokesman later told Reuters the statement was "published in error by a staff member in Beijing" and removed from the website.

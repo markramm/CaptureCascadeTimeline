@@ -76,4 +76,8 @@ sources:
   date: '2025-12-05'
   tier: 1
   outlet: Council on Foreign Relations
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Labor Suppression
 ---

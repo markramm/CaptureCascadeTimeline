@@ -37,6 +37,10 @@ sources:
   outlet: SourceWatch
   date: '2024-01-10'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Legislative Capture
+- Digital & Tech Capture
 ---
 
 The New York Times publishes an investigative piece by John Markoff exposing the full scope of the Pentagon's Total Information Awareness (TIA) program, a $240 million initiative that aims to create unprecedented mass surveillance capabilities by mining personal data from financial transactions, travel records, communications, and other sources. The exposé brings widespread public attention to the program, which had been operating with relatively little scrutiny since DARPA's Information Awareness Office was established in January 2002.

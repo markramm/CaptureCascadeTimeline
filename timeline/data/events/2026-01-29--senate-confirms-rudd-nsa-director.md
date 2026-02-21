@@ -29,6 +29,10 @@ sources:
   outlet: The Intercept
   date: '2026-01-26'
   tier: 2
+capture_lanes:
+- Surveillance Infrastructure
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 The Senate Intelligence Committee held an open confirmation hearing for Lt. Gen. Joshua M. Rudd, nominated to be Director of the National Security Agency, Chief of Central Security Service, and Commander of U.S. Cyber Command. Questions at the hearing reflected concerns about whether Trump has politicized federal security programs to target critics and political opponents. Sen. Ron Wyden (D-OR) asked whether Rudd would insist on judicial warrants if directed to target people in the United States for surveillance, to which Rudd responded he would "absolutely commit to executing the foreign intelligence mission of the NSA in accordance with the authorities it has been given and within all applicable laws."

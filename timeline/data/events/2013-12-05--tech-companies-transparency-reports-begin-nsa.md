@@ -39,6 +39,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Intelligence Penetration
 ---
 
 Following Edward Snowden's revelations about NSA surveillance, major tech companies began publishing transparency reports disclosing limited information about government data requests, marking the first time companies could publicly acknowledge FISA court orders. Google, Microsoft, Yahoo, Facebook, and LinkedIn released reports in early 2014 covering the second half of 2013, revealing thousands of secret government demands for user data.

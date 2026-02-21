@@ -3,8 +3,7 @@ id: 2001-09-21--att-nsa-backbone-infrastructure
 date: '2001-09-21'
 title: AT&T Establishes Mass Internet Surveillance Infrastructure for NSA
 importance: 9
-location: Multiple U.S. Cities (Atlanta, Chicago, Dallas, Los Angeles, New York, San
-  Francisco, Seattle, Washington D.C.)
+location: Multiple U.S. Cities (Atlanta, Chicago, Dallas, Los Angeles, New York, San Francisco, Seattle, Washington D.C.)
 actors:
 - AT&T Corporate Leadership
 - NSA
@@ -24,9 +23,9 @@ sources:
   date: '2006-12-01'
   url: https://www.eff.org/nsa-spying
 capture_lanes:
-- Mass Surveillance
-- Telecommunications Capture
-- Digital Rights Erosion
+- Surveillance Infrastructure
+- Regulatory Capture
+- Digital & Tech Capture
 tags:
 - surveillance
 - telecommunications

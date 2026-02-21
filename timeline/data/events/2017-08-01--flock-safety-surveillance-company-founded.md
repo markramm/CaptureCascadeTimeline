@@ -15,7 +15,7 @@ tags:
 - private-surveillance
 - y-combinator
 capture_lanes:
-- Surveillance & Data Control
+- Surveillance Infrastructure
 sources:
 - title: Early stage surveillance startup wants to put cameras in your neighborhood
   url: https://www.mercurynews.com/2017/09/03/early-stage-this-surveillance-tartup-wants-put-cameras-your-neighborhood/

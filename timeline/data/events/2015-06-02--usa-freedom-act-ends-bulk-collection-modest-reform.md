@@ -33,6 +33,10 @@ sources:
   tier: 1
   outlet: Brennan Center for Justice
 status: confirmed
+capture_lanes:
+- Surveillance Infrastructure
+- Military-Industrial Complex
+- Intelligence Penetration
 ---
 
 President Barack Obama signed the USA FREEDOM Act into law on June 2, 2015, representing the most significant reform of U.S. surveillance programs since the 1970s and a direct response to Edward Snowden's revelations about NSA mass surveillance. The Act prohibited bulk collection of all records under Section 215 of the PATRIOT Act, ending the NSA's authority to collect Americans' phone records in bulk and requiring intelligence agencies to obtain specific court orders targeting particular individuals or groups.

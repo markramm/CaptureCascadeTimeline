@@ -30,6 +30,10 @@ sources:
   date: '2020-12-31'
   tier: 2
   outlet: BitSight
+capture_lanes:
+- Surveillance Infrastructure
+- Regulatory Capture
+- Digital & Tech Capture
 ---
 
 Oracle's BlueKai Data Management Platform exposed billions of records containing sensitive web tracking data through an unsecured cloud server discovered on June 19, 2020, in one of the largest data breaches of the year. The database, left accessible to the public internet without password protection or authentication, contained names, home addresses, email addresses, and detailed web browsing activity including purchases, newsletter subscriptions, and website visits across some of the world's most popular websites.

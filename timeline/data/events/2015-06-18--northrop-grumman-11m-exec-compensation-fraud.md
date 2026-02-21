@@ -33,6 +33,10 @@ sources:
   date: '2015-06-18'
   tier: 2
   outlet: Fischer Legal Group
+capture_lanes:
+- Surveillance Infrastructure
+- Digital & Tech Capture
+- Military-Industrial Complex
 ---
 
 Northrop Grumman Corporation paid the United States $11.4 million to settle government claims that it violated a 2002 settlement agreement with the Defense Contract Management Agency by improperly charging federal contracts for deferred compensation awards to key executives, demonstrating how defense contractors exploit cost-plus contracting to force taxpayers to subsidize lavish executive pay packages. The settlement resolved Federal Acquisition Regulation penalty claims and False Claims Act allegations stemming from Northrop's failure to honor its commitment to limit the amount of deferred compensation included in proposals for subsequent contracts after the 2002 settlement.
