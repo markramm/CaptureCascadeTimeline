@@ -26,11 +26,7 @@ tags:
 - legal-immigration-targeted
 - bait-and-switch
 capture_lanes:
-- Immigration Enforcement Weaponization
-- Refugee Protection Violations
-- Legal Immigration Pathway Betrayal
-- Community Terrorization
-- International Obligations Violated
+- Civil Rights Suppression
 sources:
 - title: Operation Buckeye
   url: https://www.ice.gov/newsroom

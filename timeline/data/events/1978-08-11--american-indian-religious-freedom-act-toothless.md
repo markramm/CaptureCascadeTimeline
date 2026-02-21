@@ -33,8 +33,8 @@ tags:
 status: confirmed
 capture_lanes:
 - Legislative Capture
-- Indigenous Suppression
-- Institutional Failure
+- Civil Rights Suppression
+- Systematic Corruption
 ---
 
 Congress passes and President Jimmy Carter signs the American Indian Religious Freedom Act (AIRFA), establishing that it is "the policy of the United States to protect and preserve for American Indians their inherent right of freedom to believe, express, and exercise the traditional religions of the American Indian, Eskimo, Aleut, and Native Hawaiians, including but not limited to access to sites, use and possession of sacred objects, and the freedom to worship through ceremonials and traditional rites." The legislation represents a formal acknowledgment that federal policies—including boarding school cultural genocide, prohibition of Indigenous ceremonies, and denial of access to sacred sites—have systematically violated Native Americans' religious freedom for over a century. AIRFA appears to mark a shift toward recognizing Indigenous religious rights after decades of government suppression of ceremonies like the Sun Dance, denial of access to sacred mountains and sites on federal land, and prohibition of sacred objects like eagle feathers. However, the Act is drafted as a policy statement rather than enforceable law, containing no legal mechanisms for Native Americans to challenge federal actions that violate their religious freedom.

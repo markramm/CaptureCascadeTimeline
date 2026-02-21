@@ -35,8 +35,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- political-persecution
-- institutional-capture
+- Civil Rights Suppression
+- Democratic Erosion
 ---
 
 On January 3, 1945, the House of Representatives votes to make the Dies Committee a permanent standing committee, renamed the House Un-American Activities Committee (HUAC). Mississippi Representative John Rankin, a virulent segregationist and antisemite, engineers the transformation through a parliamentary maneuver, ensuring that the apparatus of political persecution would become a permanent feature of American government.

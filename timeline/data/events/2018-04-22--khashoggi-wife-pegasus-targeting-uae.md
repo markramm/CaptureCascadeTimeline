@@ -37,8 +37,7 @@ status: confirmed
 capture_lanes:
 - Intelligence Penetration
 - Surveillance Infrastructure
-- Human Rights Violations
-- State Violence
+- Civil Rights Suppression
 ---
 
 On April 22, 2018, UAE government authorities install NSO Group's Pegasus spyware on the phone of Hanan Elatr, wife of Saudi journalist Jamal Khashoggi, during her detention at Dubai International Airport. Forensic analysis by Citizen Lab and the University of Toronto reveals that after Elatr completed a 15-hour flight from Toronto to the UAE, immigration officials detained her and manually installed the surveillance software on her device - a method requiring physical access to the phone.

@@ -30,7 +30,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 The Supreme Court issues a unanimous 6-0 decision in Shelley v. Kraemer, holding that racially restrictive housing covenants cannot be judicially enforced without violating the Equal Protection Clause of the Fourteenth Amendment. The case arises when Louis Kraemer sues to prevent the Shelley family, who are Black, from occupying a St. Louis property subject to a 1911 restrictive covenant barring "people of the Negro or Mongolian Race." Chief Justice Vinson writes that while private parties may abide by such covenants, they cannot seek judicial enforcement as that constitutes discriminatory state action.

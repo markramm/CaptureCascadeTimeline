@@ -61,9 +61,8 @@ patterns:
 - federal-pressure-on-universities
 notes: This represents one of the most extreme examples of DEI rollback implementation—shuttering student publications focused on historically marginalized communities. Neither Alice nor Nineteen Fifty-Six excluded participation based on identity; they simply focused editorial content on topics relevant to their audiences. The university's interpretation of Bondi's guidance as requiring elimination of identity-focused publications goes far beyond even the administration's stated anti-DEI policy and raises serious First Amendment concerns. Alumni organized fundraising to continue the magazines independently.
 capture_lanes:
-- Cultural Suppression
-- Information Control
-- Civil Rights Rollback
+- Civil Rights Suppression
+- Media Capture & Control
 ---
 
 On Monday, December 2, 2025, the University of Alabama permanently suspended two student-run magazines—Alice, focused on women, and Nineteen Fifty-Six, focused on Black student life—citing Attorney General Pamela Bondi's July 2025 guidance on what the Trump administration considers unlawful discrimination at federally funded institutions.

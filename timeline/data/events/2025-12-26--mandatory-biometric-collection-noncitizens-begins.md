@@ -36,8 +36,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- immigration-enforcement
-- surveillance-state
+- Civil Rights Suppression
+- Surveillance Infrastructure
 ---
 
 

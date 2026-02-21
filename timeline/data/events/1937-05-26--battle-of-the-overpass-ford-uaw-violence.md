@@ -42,7 +42,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 On May 26, 1937, at approximately 2:00 p.m., Ford Motor Company orchestrates a brutal assault on United Auto Workers organizers conducting a permitted leaflet distribution campaign at the Miller Road pedestrian overpass above Gate 4 of the massive River Rouge Plant complex in Dearborn, Michigan. UAW Local 174 president Walter Reuther arrives with organizational director Richard Frankensteen, clergy members, representatives from the Senate Committee on Civil Liberties, and dozens of women wearing green berets and carrying leaflets reading "Unionism, Not Fordism" for the shift change when 90,000 workers would be present. As photographer "Scotty" Kilpatrick positions Reuther and Frankensteen for photographs on the public overpass (Reuther held a city permit), Ford Service Department chief Harry Bennett appears with 40 thugs who immediately charge the union organizers in a premeditated attack.

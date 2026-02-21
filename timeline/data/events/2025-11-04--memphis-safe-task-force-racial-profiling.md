@@ -30,6 +30,10 @@ actors:
 - FBI
 - National Guard
 - Memphis Safe Task Force
+capture_lanes:
+- Civil Rights Suppression
+- Intelligence Penetration
+- Digital & Tech Capture
 ---
 
 On November 4, 2025, ProPublica and the Tennessee Lookout reported that Black Memphis residents were experiencing systematic harassment and racial profiling by Trump's Memphis Safe Task Force, which had conducted over 1,700 arrests by late October. The Trump Tyranny Tracker documented reports of racial profiling and intimidation creating widespread fear in Black communities. The task force, composed of 31 agencies including the FBI, National Guard, and local law enforcement, was ostensibly focused on violent crime, but data obtained by MLK50 revealed that a fifth of arrests in the first two weeks were immigration-related. Immigration rights advocates reported "a huge increase in racial profiling against the immigrant community" executed through traffic stops. Shelby County Mayor Lee Harris reported multiple "uncomfortable" reports of racial discrimination, primarily from the Latino community. Despite the U.S. Marshals Service claiming racial profiling allegations are "not founded in reality," they acknowledged to MLK50 and ProPublica that the task force does not track the number of stops made or the racial demographics of people stopped or arrested, making accountability impossible. Mayor Harris declared a state of emergency in October in response to the arrests. The systematic lack of demographic tracking while conducting mass enforcement operations in Black and Latino communities represents deliberate avoidance of accountability for discriminatory policing practices.

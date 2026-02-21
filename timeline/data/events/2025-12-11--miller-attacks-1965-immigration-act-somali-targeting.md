@@ -25,8 +25,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- White Nationalist Policy
-- Civil Rights Rollback
+- Civil Rights Suppression
 ---
 
 White House Deputy Chief of Staff Stephen Miller publicly attacked the Hart-Celler Act of 1965, suggesting America was better off under the 1920s national origins quota system that favored Western and Northern European immigrants over those from "third world countries." Miller's comments came as the administration exploited a pandemic relief fraud scandal in Minnesota to disparage the entire Somali immigrant community.

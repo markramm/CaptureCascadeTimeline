@@ -25,11 +25,9 @@ tags:
 - trump administration
 - kristi noem
 capture_lanes:
-- Immigration Enforcement Escalation
+- Civil Rights Suppression
 - Executive Power Expansion
-- Border Militarization
-- Deportation Infrastructure
-- Drug War Policies
+- Military-Industrial Complex
 sources:
 - title: Under President Trump and Secretary Noem, the Department of Homeland Security Has Historic Year
   url: https://www.dhs.gov/news/2025/12/19/under-president-trump-and-secretary-noem-department-homeland-security-has-historic

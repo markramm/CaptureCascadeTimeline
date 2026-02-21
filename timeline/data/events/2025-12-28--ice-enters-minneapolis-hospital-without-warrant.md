@@ -20,8 +20,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Law Enforcement Weaponization
-- Healthcare System Capture
+- Civil Rights Suppression
+- Regulatory Capture
 ---
 
 ICE agents entered Hennepin County Medical Center's emergency department without a judicial warrant during the holiday period, remaining at a patient's bedside for over 24 hours and handcuffing the patient to the hospital bed. Agents gained access to staff-only areas including break rooms and parking lots before hospital security confronted them and confirmed no judicial warrant existed, at which point they were told to leave and complied.

@@ -1,7 +1,7 @@
 ---
 id: 2025-02-20--texas-abortion-ban-sepsis-deaths-study
 date: '2025-02-20'
-title: "Study Finds 50% Spike in Pregnancy-Related Sepsis and Deaths in Texas After Abortion Ban"
+title: Study Finds 50% Spike in Pregnancy-Related Sepsis and Deaths in Texas After Abortion Ban
 importance: 9
 actors:
 - Texas Department of Health
@@ -32,8 +32,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Reproductive Rights
-- Public Health Crisis
+- Civil Rights Suppression
+- Regulatory Capture
 ---
 
 Research published in February 2025 found that Texas experienced a 50 percent jump in the sepsis rate among women who lost their pregnancies in the second trimester following the state's abortion ban. The study documented that maternal mortality rose 56 percent in Texas in the first full year of the state's abortion ban, with an increase of up to 95 percent among White women.

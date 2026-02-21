@@ -30,7 +30,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Civil Rights Defense
+- Civil Rights Suppression
 ---
 
 The National Lawyers Guild hosts a comprehensive Week of Abolition training program for lawyers, paralegals, and activists, focusing on constitutional defense, protest rights, and strategic resistance methodologies. The training provides critical skills for protecting civil liberties and supporting activist communities in an increasingly challenging legal landscape.

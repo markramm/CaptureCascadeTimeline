@@ -28,7 +28,7 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: "NAACP Investigation of Detroit Riot"
+- title: NAACP Investigation of Detroit Riot
   url: https://naacp.org/
   outlet: NAACP
   date: '1943-07-01'
@@ -36,8 +36,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- housing-segregation
-- institutional-racism
+- Civil Rights Suppression
 ---
 
 The Detroit race riot erupts on June 20, 1943, killing 34 people, injuring over 400, and causing $2 million in property damage. The violence exposes how federal housing policy enforces residential segregation while demanding integrated war production, creating explosive tensions that government policy itself generates.

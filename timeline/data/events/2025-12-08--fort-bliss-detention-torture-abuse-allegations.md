@@ -38,6 +38,10 @@ sources:
   url: https://www.texastribune.org/2025/12/10/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report/
   tier: 1
 status: confirmed
+capture_lanes:
+- Civil Rights Suppression
+- Military-Industrial Complex
+- Digital & Tech Capture
 ---
 
 # Human Rights Groups Document Systematic Torture at Fort Bliss Immigration Detention Facility: 45+ Detainees Report Beatings, Sexual Abuse, Crushed Testicles, and Coerced Deportations

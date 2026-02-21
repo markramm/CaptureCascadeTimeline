@@ -47,7 +47,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 

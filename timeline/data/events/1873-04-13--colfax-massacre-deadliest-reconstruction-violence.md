@@ -9,7 +9,7 @@ actors:
 - Knights of White Camellia
 - Grant Parish Black Militia
 sources:
-- title: 'The Colfax Massacre'
+- title: The Colfax Massacre
   outlet: History.com
   url: https://www.history.com/this-day-in-history/april-13/colfax-massacre-louisiana
   year: 2024
@@ -17,7 +17,7 @@ sources:
   outlet: Equal Justice Initiative
   url: https://calendar.eji.org/racial-injustice/apr/13
   year: 2024
-- title: 'The Colfax Massacre (1873)'
+- title: The Colfax Massacre (1873)
   outlet: BlackPast
   url: https://blackpast.org/african-american-history/colfax-massacre-1873/
   year: 2024
@@ -32,9 +32,8 @@ tags:
 - mass-violence
 - democratic-erosion
 capture_lanes:
-- Violent Overthrow of Democracy
-- Racial Terrorism
-- Elite Impunity
+- Civil Rights Suppression
+- Systematic Corruption
 status: confirmed
 ---
 

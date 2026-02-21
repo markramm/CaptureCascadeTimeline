@@ -29,6 +29,8 @@ actors:
 - Bob Jacobson
 - JD Vance
 - Jacob Frey
+capture_lanes:
+- Civil Rights Suppression
 ---
 
 The FBI revoked the Minnesota Bureau of Criminal Apprehension's access to evidence in the ICE shooting of US citizen Renee Nicole Good, effectively blocking the state's ability to investigate. This reversed an earlier agreement for a joint federal-state investigation. Minnesota Public Safety Commissioner Bob Jacobson said the investigation would be 'extremely difficult, if not impossible' without federal cooperation. The move came as Vice President JD Vance claimed ICE agents have 'absolute immunity' from state prosecution—a claim constitutional law experts immediately disputed as 'absolutely ridiculous.' The obstruction followed Minneapolis Mayor Jacob Frey calling the federal narrative about the shooting 'bullshit' after viewing video evidence that contradicted DHS claims. State officials expressed alarm that the federal government was preventing accountability for the killing of a US citizen who was not the target of any investigation.

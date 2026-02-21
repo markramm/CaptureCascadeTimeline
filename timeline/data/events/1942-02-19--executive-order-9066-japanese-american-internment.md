@@ -38,8 +38,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- civil-liberties
-- executive-power
+- Civil Rights Suppression
+- Executive Power Expansion
 ---
 
 President Franklin D. Roosevelt signs Executive Order 9066 on February 19, 1942, authorizing the Secretary of War and military commanders to designate "military areas" from which "any or all persons may be excluded." Though the order never mentions Japanese Americans by name, its application becomes clear within weeks as the War Relocation Authority begins the forced removal of approximately 120,000 people of Japanese ancestry, two-thirds of whom are American citizens, from the West Coast to inland concentration camps.

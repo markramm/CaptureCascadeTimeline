@@ -32,9 +32,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
-- Racial Profiling
-- Crisis Exploitation
+- Civil Rights Suppression
 ---
 
 Following the acquittal of Los Angeles police officers in the Rodney King beating and the subsequent civil unrest, the Immigration and Naturalization Service collaborates with the LAPD to conduct sweeping arrests targeting undocumented immigrants among those detained during the riots. INS officials report processing over 1,000 individuals for deportation, with many facing expedited removal without full hearings. The enforcement operation treats immigration status as a marker of criminality, subjecting foreign-born arrestees to detention and deportation while U.S. citizens arrested for identical offenses face standard criminal processing.

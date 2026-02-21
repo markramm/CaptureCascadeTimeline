@@ -1,8 +1,7 @@
 ---
 id: 1911-05-29--american-tobacco-breakup-supreme-court-antitrust
 date: '1911-05-29'
-title: Supreme Court Orders American Tobacco Breakup, Applying Rule of Reason to Tobacco
-  Trust
+title: Supreme Court Orders American Tobacco Breakup, Applying Rule of Reason to Tobacco Trust
 importance: 9
 actors:
 - U.S. Supreme Court
@@ -41,7 +40,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 - Regulatory Capture
 - Judicial Capture
 ---

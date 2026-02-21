@@ -30,6 +30,10 @@ sources:
   outlet: NBC News
   date: '2026-01-15'
   tier: 2
+capture_lanes:
+- Civil Rights Suppression
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 The ACLU of Minnesota, American Civil Liberties Union, Covington & Burling LLP, Greene Espel PLLP, and Robins Kaplan LLP filed a class-action lawsuit in U.S. District Court challenging systematic racial profiling and constitutional violations by ICE and CBP during Operation Metro Surge. The complaint alleges that "masked federal agents in the thousands are violently stopping and arresting countless Minnesotans based on nothing more than their race and perceived ethnicity irrespective of their citizenship or immigration status."

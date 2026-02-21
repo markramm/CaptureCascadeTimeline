@@ -32,8 +32,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Reproductive Rights
-- Healthcare Defunding
+- Civil Rights Suppression
+- Regulatory Capture
 ---
 
 On March 31, 2025, nine Planned Parenthood affiliates and seven other nonprofit grantees received notice from the Trump administration that Title X family planning funding would be withheld effective April 1. The funding freeze affected 16 out of 86 current Title X grantees, targeting all nine Planned Parenthood grantees specifically.

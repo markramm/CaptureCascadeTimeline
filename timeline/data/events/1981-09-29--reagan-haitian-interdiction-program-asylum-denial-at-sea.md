@@ -34,9 +34,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
-- Executive Overreach
-- Racial Discrimination
+- Civil Rights Suppression
+- Executive Power Expansion
 ---
 
 President Ronald Reagan issues Executive Order 12324, authorizing the U.S. Coast Guard to interdict vessels carrying undocumented migrants in international waters and return passengers to their country of origin without asylum screening. Though framed neutrally, the order specifically targets Haitian refugees fleeing the Duvalier dictatorship, establishing maritime interdiction as a mechanism to prevent asylum seekers from reaching U.S. soil where they would have legal rights to hearings. The program operates under an agreement with Jean-Claude "Baby Doc" Duvalier's regime, which promises not to prosecute returned refugees despite documented human rights abuses including torture and extrajudicial killing.

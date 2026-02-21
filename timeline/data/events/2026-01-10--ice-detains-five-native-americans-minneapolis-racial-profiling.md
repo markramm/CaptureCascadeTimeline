@@ -38,8 +38,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Law Enforcement Weaponization
-- Constitutional & Democratic Breakdown
+- Civil Rights Suppression
+- Democratic Erosion
 ---
 
 ICE agents detained at least five Native Americans in Minneapolis during Operation Metro Surge, with tribal leaders and state officials condemning the detentions as racial profiling. Four citizens of the Oglala Sioux Tribe were detained under a bridge near the Little Earth housing complex on Friday, January 10. Tribal President Frank Star Comes Out confirmed the men were homeless. As of January 13, their whereabouts remained unknown to the community.

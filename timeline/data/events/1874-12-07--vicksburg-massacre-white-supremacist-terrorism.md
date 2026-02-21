@@ -13,7 +13,7 @@ sources:
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/vicksburg-massacre/
   year: 2024
-- title: 'Vicksburg massacre'
+- title: Vicksburg massacre
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Vicksburg_massacre
   year: 2024
@@ -28,9 +28,8 @@ tags:
 - institutional-racism
 - elite-impunity
 capture_lanes:
-- Racial Terror Campaign
-- Black Political Power Destruction
-- Tax Collector Control
+- Civil Rights Suppression
+- Financial Capture
 status: confirmed
 ---
 

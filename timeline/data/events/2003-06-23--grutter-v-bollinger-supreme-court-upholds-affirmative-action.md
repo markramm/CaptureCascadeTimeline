@@ -16,24 +16,24 @@ tags:
 - civil-rights
 - diversity
 sources:
-- title: "Grutter v. Bollinger, 539 U.S. 306 (2003)"
+- title: Grutter v. Bollinger, 539 U.S. 306 (2003)
   url: https://supreme.justia.com/cases/federal/us/539/306/
   outlet: Justia
   date: '2003-06-23'
   tier: 1
-- title: "Grutter v. Bollinger and Gratz v. Bollinger"
+- title: Grutter v. Bollinger and Gratz v. Bollinger
   url: https://www.law.cornell.edu/supct/html/02-241.ZS.html
   outlet: Cornell Law School
   tier: 1
-- title: "The Long Road to Grutter"
+- title: The Long Road to Grutter
   url: https://www.theatlantic.com/national/archive/2012/10/the-long-road-to-grutter/263544/
   outlet: The Atlantic
   date: '2012-10-01'
   tier: 1
 status: confirmed
 capture_lanes:
-- Civil Rights Defense
-- Judicial Precedent Setting
+- Civil Rights Suppression
+- Judicial Capture
 ---
 
 On June 23, 2003, the Supreme Court ruled 5-4 in Grutter v. Bollinger that the University of Michigan Law School's race-conscious admissions policy did not violate the Equal Protection Clause, upholding the principle that diversity in higher education constitutes a compelling government interest. Justice Sandra Day O'Connor's majority opinion affirmed that race could be considered as one factor among many in individualized admissions decisions, but included language suggesting such consideration should end within 25 years—a timetable that would prove prescient.

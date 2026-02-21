@@ -36,8 +36,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- civil-liberties
-- political-persecution
+- Civil Rights Suppression
 ---
 
 Congress passes the Alien Registration Act, commonly known as the Smith Act after its sponsor Representative Howard W. Smith of Virginia, on June 28, 1940. The law makes it a criminal offense to "knowingly or willfully advocate, abet, advise, or teach the duty, necessity, desirability, or propriety of overthrowing or destroying any government in the United States by force or violence." It also criminalizes organizing or joining any group advocating such positions.

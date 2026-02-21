@@ -1,7 +1,7 @@
 ---
 id: 2025-08-20--texas-sb33-bans-local-abortion-travel-funds
 date: '2025-08-20'
-title: "Texas Governor Signs Law Banning Local Government Abortion Travel Assistance"
+title: Texas Governor Signs Law Banning Local Government Abortion Travel Assistance
 importance: 7
 actors:
 - Greg Abbott
@@ -33,8 +33,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Reproductive Rights
-- Local Governance
+- Civil Rights Suppression
 ---
 
 Governor Greg Abbott signed Senate Bill 33 into law on August 20, 2025, banning cities and counties from using public funds or entering contracts to provide "logistical support" for abortions, including travel assistance, lodging, meals, childcare, or counseling when intended to help residents obtain abortion care out of state. The law targets voter-approved programs in Austin and San Antonio designed to help Texans access legal abortion care in other states.

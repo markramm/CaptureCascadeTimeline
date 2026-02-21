@@ -26,6 +26,8 @@ actors:
 - JD Vance
 - Immigration and Customs Enforcement (ICE)
 - Fox News
+capture_lanes:
+- Civil Rights Suppression
 ---
 
 Hours after an ICE agent shot and killed US citizen Renee Nicole Good in Minneapolis, Vice President JD Vance announced on Fox News that ICE would be going 'door to door' in coming months as part of Trump's mass deportation campaign. Vance claimed the administration had removed '2.5 million illegal aliens' during Trump's first year back, though only approximately 600,000 were formal deportations with the rest claimed as 'self-deportations.' He touted that the ICE workforce had doubled from 10,000 to 22,000 agents, with Congress tripling ICE's budget from $9.6 billion to $30 billion through the 'One Big Beautiful Bill Act'—making ICE the highest-funded US law enforcement agency, surpassing the FBI. Training for new ICE agents was shortened from 6 months to 6 weeks. Critics noted the announcement's timing came as the agency faced intense scrutiny over the Minneapolis shooting.

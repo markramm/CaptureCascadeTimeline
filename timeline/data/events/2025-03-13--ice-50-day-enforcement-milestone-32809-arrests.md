@@ -32,7 +32,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 Immigration and Customs Enforcement (ICE) announced 32,809 enforcement arrests in the first 50 days of the Trump Administration (January 21 - March 12, 2025), demonstrating a dramatic acceleration of immigration enforcement. The arrests included 14,000 convicted criminals, 9,800 migrants with pending criminal charges, 1,155 suspected gang members, and 44 foreign fugitives. This represents a nearly 2.6x increase in daily arrest rates compared to the previous administration, with ICE Director Todd Lyons claiming they have 'ended catch and release' and returned to the agency's 'core mission'.

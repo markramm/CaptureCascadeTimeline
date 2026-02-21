@@ -33,8 +33,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Political Hypocrisy
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 Zoe Baird withdraws her nomination as Attorney General after revelations that she employed undocumented immigrants as household workers and failed to pay required Social Security taxes. The scandal, dubbed "Nannygate," generates intense public backlash despite the commonplace nature of the practice among affluent Americans. President Clinton's second choice, Judge Kimba Wood, also withdraws after disclosure of employing an undocumented nanny, though Wood paid required taxes. Clinton ultimately nominates Janet Reno, who becomes the first female Attorney General.

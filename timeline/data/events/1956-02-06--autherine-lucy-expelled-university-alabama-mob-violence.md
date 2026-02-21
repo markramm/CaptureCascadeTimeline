@@ -5,39 +5,39 @@ title: University of Alabama Expels Autherine Lucy After White Mob Violence, Fir
 importance: 7
 location: Tuscaloosa, Alabama
 actors:
-  - Autherine Lucy
-  - University of Alabama
-  - NAACP Legal Defense Fund
-  - Thurgood Marshall
-  - White Citizens' Council
-  - Ku Klux Klan
+- Autherine Lucy
+- University of Alabama
+- NAACP Legal Defense Fund
+- Thurgood Marshall
+- White Citizens' Council
+- Ku Klux Klan
 tags:
-  - civil-rights
-  - segregation
-  - institutional-racism
-  - massive-resistance
-  - violence
+- civil-rights
+- segregation
+- institutional-racism
+- massive-resistance
+- violence
 capture_lanes:
-  - Structural Repression
+- Civil Rights Suppression
 sources:
-  - title: "Autherine Lucy Foster"
-    url: "https://encyclopediaofalabama.org/article/autherine-lucy-foster/"
-    outlet: "Encyclopedia of Alabama"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Autherine Lucy and the University of Alabama"
-    url: "https://www.nps.gov/people/autherine-lucy.htm"
-    outlet: "National Park Service"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Story of Autherine Lucy"
-    url: "https://www.history.com/news/autherine-lucy-university-alabama-first-black-student"
-    outlet: "History Channel"
-    date: 2022-03-01
-    verified: true
-    tier: 2
+- title: Autherine Lucy Foster
+  url: https://encyclopediaofalabama.org/article/autherine-lucy-foster/
+  outlet: Encyclopedia of Alabama
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Autherine Lucy and the University of Alabama
+  url: https://www.nps.gov/people/autherine-lucy.htm
+  outlet: National Park Service
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Story of Autherine Lucy
+  url: https://www.history.com/news/autherine-lucy-university-alabama-first-black-student
+  outlet: History Channel
+  date: 2022-03-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

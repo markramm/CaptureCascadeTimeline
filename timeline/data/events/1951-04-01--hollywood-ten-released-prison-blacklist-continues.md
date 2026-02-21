@@ -5,40 +5,40 @@ title: Hollywood Ten Released from Prison but Remain Blacklisted, Industry Perse
 importance: 6
 location: Washington, D.C.
 actors:
-  - Hollywood Ten
-  - Dalton Trumbo
-  - Ring Lardner Jr.
-  - John Howard Lawson
-  - House Un-American Activities Committee
-  - Studio executives
+- Hollywood Ten
+- Dalton Trumbo
+- Ring Lardner Jr.
+- John Howard Lawson
+- House Un-American Activities Committee
+- Studio executives
 tags:
-  - mccarthyism
-  - civil-liberties
-  - blacklist
-  - entertainment-industry
-  - first-amendment
-  - political-persecution
+- mccarthyism
+- civil-liberties
+- blacklist
+- entertainment-industry
+- first-amendment
+- political-persecution
 capture_lanes:
-  - Structural Repression
+- Civil Rights Suppression
 sources:
-  - title: "The Hollywood Ten"
-    url: "https://www.britannica.com/topic/Hollywood-Ten"
-    outlet: "Britannica"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Dalton Trumbo"
-    url: "https://www.writersguild.org.uk/dalton-trumbo-the-man-who-broke-the-blacklist/"
-    outlet: "Writers' Guild of Great Britain"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Inquisition in Eden"
-    url: "https://www.loc.gov/item/2008582296/"
-    outlet: "Library of Congress"
-    date: 1956-01-01
-    verified: true
-    tier: 2
+- title: The Hollywood Ten
+  url: https://www.britannica.com/topic/Hollywood-Ten
+  outlet: Britannica
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Dalton Trumbo
+  url: https://www.writersguild.org.uk/dalton-trumbo-the-man-who-broke-the-blacklist/
+  outlet: Writers' Guild of Great Britain
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Inquisition in Eden
+  url: https://www.loc.gov/item/2008582296/
+  outlet: Library of Congress
+  date: 1956-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

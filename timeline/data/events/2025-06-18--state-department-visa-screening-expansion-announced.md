@@ -34,8 +34,7 @@ patterns:
 - bureaucratic-barriers
 notes: Fifth business day following June 18 was June 26, when visa appointments could theoretically resume. But expanded screening requirements meant significant delays and reduced capacity, functionally restricting legal immigration through administrative means.
 capture_lanes:
-- Immigration Enforcement
-- Administrative Obstruction
+- Civil Rights Suppression
 ---
 
 On June 18, 2025, a Department of State cable delivered guidance to consulates worldwide requiring implementation of new expanded screening protocols within five business days, after which they could begin reopening visa appointments that had been halted since May 27, 2025. The fifth business day following June 18 would be June 26, 2025. Although visa appointment scheduling was set to resume, processing capacity was expected to be significantly reduced due to the resource-intensive nature of the expanded screening requirements, translating into longer appointment wait times and visa processing times. The move represented an administrative approach to restricting legal immigration through bureaucratic obstacles rather than outright bans.

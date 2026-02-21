@@ -11,7 +11,7 @@ tags:
 - military-industrial-complex
 - regulatory-capture
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 - Regulatory Capture
 - Military-Industrial Complex
 sources:

@@ -38,7 +38,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 - Judicial Capture
 ---
 

@@ -33,8 +33,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
-- Federal Agency Capture
+- Civil Rights Suppression
+- Federal Workforce Capture
 ---
 
 President Jimmy Carter signs the Refugee Act of 1980, the first comprehensive reform of U.S. refugee policy since the Displaced Persons Act of 1948. The legislation adopts the United Nations definition of refugee as anyone with a "well-founded fear of persecution" based on race, religion, nationality, political opinion, or membership in a particular social group, removing the prior ideological requirement that refugees flee Communist or Middle Eastern countries. The Act establishes an annual refugee admissions ceiling of 50,000 with presidential authority to increase numbers in emergencies, creates the Office of Refugee Resettlement, and formally establishes asylum procedures allowing individuals already in the United States to apply for protection.

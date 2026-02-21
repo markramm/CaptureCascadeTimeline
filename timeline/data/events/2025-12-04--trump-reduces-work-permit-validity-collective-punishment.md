@@ -53,9 +53,8 @@ patterns:
 - economic-disruption
 notes: This represents textbook collective punishment—punishing hundreds of thousands of legal immigrants for the actions of a single individual. The reduction from 5 years to 18 months creates massive administrative burden for both immigrants and USCIS, forces frequent expensive renewals, creates employment instability, and has no rational connection to security screening (which occurs at initial application, not renewal). The explicit citation of a single shooting as justification demonstrates the policy's punitive rather than security-focused purpose.
 capture_lanes:
-- Administrative Cruelty
-- Economic Disruption
-- Immigration Enforcement
+- Civil Rights Suppression
+- Financial Capture
 ---
 
 On December 4, 2025, U.S. Citizenship and Immigration Services (USCIS) announced it was slashing work permit validity from a maximum of five years to just 18 months for refugees, asylum seekers, and immigrants with pending green card applications—explicitly citing a single shooting by an Afghan asylum seeker one week earlier.

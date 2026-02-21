@@ -34,7 +34,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 In the lead-up to the 2018 midterm elections, President Trump began routinely describing immigration as an 'invasion,' bringing white nationalist conspiracy theory language into mainstream Republican politics. The 'invasion' rhetoric is closely linked to the Great Replacement theory—a white nationalist conspiracy theory claiming liberal policymakers and global institutions orchestrate mass immigration to replace white populations through 'genocide by substitution.' The theory was popularized by French philosopher Renaud Camus's 2011 book 'Le Grand Remplacement.' Trump's rhetoric had a long history in white nationalist circles, used by supporters of the theory who falsely claim Jews or elites are deliberately replacing white Americans with immigrants and people of color. A May 2022 poll found 61% of people who voted for Trump in 2020 agreed with the core tenet that 'a group of people in this country are trying to replace native-born Americans with immigrants and people of color who share their political views.' Experts warned of 'a direct line' between invasion rhetoric and right-wing violence, noting the language suggests 'undocumented people are not just unlike us, but are foreign agents.' The rhetoric mobilized deadly attacks in Pittsburgh (October 2018, 11 killed at Tree of Life synagogue), Christchurch (March 2019, 51 killed), El Paso (2019), and Buffalo (2022)—all by shooters who espoused replacement theory. Trump's mainstreaming of this conspiracy theory marked a dangerous escalation from coded dog whistles to explicitly white nationalist framing.

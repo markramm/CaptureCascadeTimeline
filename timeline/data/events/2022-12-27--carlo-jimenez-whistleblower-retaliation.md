@@ -15,8 +15,8 @@ tags:
 - weapons-violations
 - detention-misconduct
 capture_lanes:
-- Law Enforcement Weaponization
-- Corporate Capture & Regulatory Breakdown
+- Civil Rights Suppression
+- Regulatory Capture
 sources:
 - title: Weapons Violations, Misconduct, and Whistleblower Retaliation at ICE
   url: https://theintercept.com/2025/06/03/ice-houston-deportation-immigrants-whistleblower/

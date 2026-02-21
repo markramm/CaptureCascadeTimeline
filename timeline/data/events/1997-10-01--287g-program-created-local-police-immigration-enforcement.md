@@ -32,9 +32,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
-- Local Police Capture
-- Racial Profiling
+- Civil Rights Suppression
 ---
 
 Section 287(g) of the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA) takes effect, creating a program allowing the Immigration and Naturalization Service to deputize state and local law enforcement officers to perform immigration enforcement functions. Under 287(g) agreements, local officers receive training and authority to interrogate individuals about immigration status, process immigrants for removal, and issue immigration detainers—holds requesting that local jails detain individuals beyond their release date for immigration pickup. The program fundamentally transforms the relationship between immigrant communities and local police.

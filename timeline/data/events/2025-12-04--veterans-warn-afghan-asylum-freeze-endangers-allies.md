@@ -23,10 +23,8 @@ tags:
 - immigration-policy
 - betrayal
 capture_lanes:
-- Immigration Enforcement Weaponization
-- Military Alliance Betrayal
-- Refugee Protection Erosion
-- Foreign Policy Weaponization
+- Civil Rights Suppression
+- Military-Industrial Complex
 sources:
 - title: Some U.S. veterans say Trump asylum freeze puts Afghan allies at risk
   url: https://www.npr.org/2025/12/04/nx-s1-5630487/asylum-freeze-afghans-national-guard

@@ -24,8 +24,7 @@ sources:
   date: '2025-01-01'
   verified: true
   tier: 2
-- title: How a 1897 Massacre of Pennsylvania Coal Miners Morphed From a Galvanizing
-    Crisis to Forgotten History
+- title: How a 1897 Massacre of Pennsylvania Coal Miners Morphed From a Galvanizing Crisis to Forgotten History
   url: https://www.smithsonianmag.com/history/how-1897-massacre-pennsylvania-coal-miners-morphed-galvanizing-crisis-forgotten-history-180971695/
   outlet: Smithsonian Magazine
   date: '2025-01-01'
@@ -46,7 +45,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 

@@ -16,7 +16,7 @@ tags:
 - federal-law-violation
 capture_lanes:
 - Federal Workforce Capture
-- Law Enforcement Weaponization
+- Civil Rights Suppression
 sources:
 - title: Secretary Noem Taps Former Aide Madison Sheahan as Deputy Director of ICE
   url: https://www.hstoday.us/subject-matter-areas/border-security/secretary-noem-taps-former-aide-madison-sheahan-as-deputy-director-of-ice/

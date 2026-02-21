@@ -23,10 +23,8 @@ tags:
 - federal-overreach
 - impersonation
 capture_lanes:
-- Federal Authority Abuse
-- State Sovereignty Violation
-- Immigration Enforcement Abuses
-- Rule of Law Erosion
+- Civil Rights Suppression
+- Democratic Erosion
 sources:
 - title: License-plate tampering a no-no, Illinois warns fed immigration agents, car rental agencies
   url: https://chicago.suntimes.com/immigration/2025/12/04/alexi-giannoulias-homeland-security-operation-midway-blitz-state-puts-feds-car-rental-firms-on-notice-for-alleged-license-plate-tampering-during-immigration-crackdown

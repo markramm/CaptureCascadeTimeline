@@ -37,8 +37,7 @@ id: 2025-02-14--doj-public-corruption-division-systematic-dismantling
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture
-- Law Enforcement Capture
-- Prosecutorial Capture
+- Civil Rights Suppression
 ---
 
 Trump administration systematically dismantles federal government's public corruption investigation capabilities through coordinated personnel purges and case dismissals. Key actions include forcing dismissal of Eric Adams prosecution, with seven senior federal prosecutors resigning in protest after being ordered to drop corruption charges. The Public Integrity Section was reduced from 30 to approximately 5 prosecutors, effectively neutralizing the DOJ's ability to investigate official corruption. Acting Deputy Attorney General Emil Bove, a former Trump defense lawyer, ordered Manhattan prosecutors to dismiss Adams' case, allegedly in exchange for cooperation on immigration enforcement. Judge Dale Ho ultimately dismissed the case with prejudice, noting the troubling quid pro quo implications.

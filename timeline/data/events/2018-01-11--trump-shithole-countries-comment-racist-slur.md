@@ -35,7 +35,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 During a bipartisan meeting with senators in the Oval Office to discuss immigration, President Trump asked why the United States would want people from 'shithole countries' while being briefed on changes to the visa lottery system. Trump questioned why America would want immigrants from Haiti and African nations, saying the U.S. should have more people from places like Norway instead. The Washington Post first reported the comments, which also referenced El Salvador. The U.N. human rights office called the remarks, if confirmed, 'shocking and shameful' and 'racist.' Senator Dick Durbin, who was present, confirmed: 'The president erupted several times with questions and, in the course of his comments, said things which were hate-filled, vile and racist. I use those words advisedly. I understand how powerful they are. But I cannot believe that in the history of the White House and in that Oval Office, any president has ever spoken the words that I personally heard our president speak yesterday.' Botswana summoned the U.S. ambassador demanding clarification, calling Trump's remarks 'reprehensible and racist.' The African Union, representing 55 nations, was 'frankly alarmed,' noting: 'Given the historical reality of how many Africans arrived in the United States as slaves, this statement flies in the face of all accepted behavior and practice.' Trump initially denied using the vulgarity, but in December 2025 bragged about it at a rally, admitting: 'I said, "Why is it we only take people from shithole countries, right?"'

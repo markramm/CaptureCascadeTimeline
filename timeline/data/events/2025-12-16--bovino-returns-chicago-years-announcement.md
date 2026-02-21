@@ -24,8 +24,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
-- Federal Overreach
+- Civil Rights Suppression
+- Executive Power Expansion
 ---
 
 After briefly leading immigration enforcement operations in Charlotte, North Carolina in November, Border Patrol Chief Gregory Bovino returned to Chicago in mid-December to resume federal immigration operations. On social media, Bovino declared: "Don't call it a comeback; we're gonna be here for years."

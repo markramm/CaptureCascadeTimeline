@@ -32,7 +32,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 Donald Trump formally announced his presidential candidacy with a speech demonizing Mexican immigrants in explicitly racist terms. Trump declared: 'When Mexico sends its people, they're not sending their best. They're not sending you. They're not sending you. They're sending people that have lots of problems, and they're bringing those problems with us. They're bringing drugs. They're bringing crime. They're rapists. And some, I assume, are good people.' The remarks produced immediate backlash from Republicans, Hispanic leaders, and media partners who cut ties with Trump. Rather than apologizing, Trump doubled down, issuing a statement claiming 'The Mexican Government is forcing their most unwanted people into the United States. They are, in many cases, criminals, drug dealers, rapists.' Trump said he 'can never apologize for the truth.' The Clinton-Kaine campaign documented 16 instances after June 2015 when Trump repeated that unauthorized immigrants are 'hardened criminals and rapists.' The attack 'was described as a test run for how to generate attention in a crowded primary' and succeeded in getting Trump 'more screen time than any of his Republican competitors.' Trump's use of the 'Mexican rapist trope' drew on centuries-old colonial racism used to justify violence against racialized populations. The campaign announcement marked a decisive shift from dog whistle politics to openly racist attacks, testing how far explicit racial demonization could carry a Republican candidate.

@@ -33,8 +33,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- immigration-enforcement
-- propaganda
+- Civil Rights Suppression
+- Intelligence Penetration
 ---
 
 

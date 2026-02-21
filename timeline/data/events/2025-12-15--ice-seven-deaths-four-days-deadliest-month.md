@@ -42,8 +42,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- human-rights-violations
-- institutional-capture
+- Civil Rights Suppression
+- Democratic Erosion
 ---
 
 

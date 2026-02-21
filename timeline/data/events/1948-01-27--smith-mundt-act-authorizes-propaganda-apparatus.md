@@ -37,7 +37,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 President Harry S. Truman signs the U.S. Information and Educational Exchange Act of 1948 (Public Law 80-402), popularly called the Smith-Mundt Act after sponsor Congressman Karl E. Mundt (R-SD), on January 27, 1948. The Act regulates broadcasting of programs for foreign audiences produced under State Department guidance and creates an information service to disseminate abroad information about the United States, its people, and policies. As a Cold War measure intended to compete with Soviet propaganda primarily in Europe, the legislation authorizes development of Voice of America (VOA) and other international broadcasting capabilities to engage in what Presidents Truman and Eisenhower call a "global struggle for minds and wills."

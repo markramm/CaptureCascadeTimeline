@@ -22,6 +22,8 @@ sources:
   outlet: CBS News
   tier: 1
 status: confirmed
+capture_lanes:
+- Civil Rights Suppression
 ---
 
 Mass protests erupted in Tehran's Grand Bazaar over record inflation (48.6% in October), food prices up 72% year-over-year, and currency collapse - the rial had fallen to 1,250,000 to the dollar, losing over 90% of its value since 2018 sanctions. Protests spread rapidly to all 31 provinces and 185+ cities, described as the largest uprising since the 1979 Revolution. The traditionally regime-loyal bazaari merchant class joined students and workers in demonstrations. Security forces killed at least 28 protesters in the first week, with the death toll exceeding 500 by mid-January according to human rights groups.

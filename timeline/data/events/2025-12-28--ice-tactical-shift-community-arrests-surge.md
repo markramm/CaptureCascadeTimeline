@@ -52,8 +52,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- immigration-enforcement
-- cruelty-as-policy
+- Civil Rights Suppression
 ---
 
 

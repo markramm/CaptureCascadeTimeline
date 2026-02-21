@@ -19,15 +19,15 @@ tags:
 - jim-crow
 - corporate-funding
 capture_lanes:
-- Structural Racism
+- Civil Rights Suppression
 - Legislative Capture
 sources:
-- title: 'Vance Muse and the Racist Origins of Right-to-Work'
+- title: Vance Muse and the Racist Origins of Right-to-Work
   url: https://www.acslaw.org/expertforum/vance-muse-and-the-racist-origins-of-right-to-work/
   outlet: American Constitution Society
   date: '2024-01-01'
   verified: true
-- title: 'The racist roots of ''right to work'' laws'
+- title: The racist roots of 'right to work' laws
   url: https://www.facingsouth.org/2012/12/the-racist-roots-of-right-to-work-laws
   outlet: Facing South
   date: '2024-01-01'

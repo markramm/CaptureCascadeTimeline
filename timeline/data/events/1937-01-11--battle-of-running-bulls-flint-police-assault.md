@@ -26,7 +26,7 @@ sources:
   date: '2025-01-01'
   verified: true
   tier: 2
-- title: "January 11 'The Battle of the Running Bulls'"
+- title: January 11 'The Battle of the Running Bulls'
   url: https://laborhistoryin2.podbean.com/e/january-11-"the-battle-of-the-running-bulls"/
   outlet: Labor History in 2:00
   date: '2024-01-11'
@@ -41,7 +41,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 On January 11, 1937, Flint police and General Motors security forces launch a violent assault on UAW strikers occupying Fisher Body Plant Number 2, attacking with tear gas canisters and live ammunition in an attempt to break the 12-day sit-down strike. The "Battle of the Running Bulls"—named by strikers in mocking reference to police ("bulls") fleeing the scene—begins when 22 GM plant protection guards arrive at Fisher #2 gates and simultaneously cut heat to the occupied facility in freezing Michigan winter. When protesters, including many women, open gates to bring food to strikers inside, police respond by hurling tear gas into picket lines and through plant windows while firing weapons at workers. Strikers led by UAW organizers Bob Travis and Roy Reuther fight back with plant fire hoses and improvised slingshots loaded with door hinges, bolts, bottles, and auto parts, while members of the Women's Emergency Brigade break plant windows to give strikers relief from choking tear gas.

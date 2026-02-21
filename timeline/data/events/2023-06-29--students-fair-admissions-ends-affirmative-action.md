@@ -79,8 +79,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Erosion of Civil Rights
-- White Supremacy Enablement
+- Civil Rights Suppression
 ---
 
 

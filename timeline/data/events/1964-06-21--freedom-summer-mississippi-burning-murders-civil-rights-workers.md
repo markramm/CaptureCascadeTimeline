@@ -4,45 +4,45 @@ date: '1964-06-21'
 title: Mississippi Burning Murders of Chaney, Goodman, and Schwerner During Freedom Summer Voter Registration
 importance: 9
 actors:
-  - James Chaney
-  - Andrew Goodman
-  - Michael Schwerner
-  - Ku Klux Klan
-  - Cecil Price
-  - Lawrence Rainey
-  - Neshoba County Sheriff's Department
-  - CORE
-  - SNCC
-  - FBI
+- James Chaney
+- Andrew Goodman
+- Michael Schwerner
+- Ku Klux Klan
+- Cecil Price
+- Lawrence Rainey
+- Neshoba County Sheriff's Department
+- CORE
+- SNCC
+- FBI
 tags:
-  - civil-rights
-  - voter-suppression
-  - violence
-  - institutional-racism
-  - law-enforcement-complicity
+- civil-rights
+- voter-suppression
+- violence
+- institutional-racism
+- law-enforcement-complicity
 sources:
-  - title: "Murder in Mississippi"
-    url: "https://www.fbi.gov/history/famous-cases/mississippi-burning-murders-of-three-civil-rights-workers"
-    outlet: "FBI Famous Cases"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Freedom Summer"
-    url: "https://kinginstitute.stanford.edu/freedom-summer"
-    outlet: "Martin Luther King Jr. Research and Education Institute"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "Neshoba: The Price of Freedom"
-    url: "https://www.pbs.org/independentlens/documentaries/neshoba/"
-    outlet: "PBS Independent Lens"
-    date: 2010-02-09
-    verified: true
-    tier: 2
+- title: Murder in Mississippi
+  url: https://www.fbi.gov/history/famous-cases/mississippi-burning-murders-of-three-civil-rights-workers
+  outlet: FBI Famous Cases
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Freedom Summer
+  url: https://kinginstitute.stanford.edu/freedom-summer
+  outlet: Martin Luther King Jr. Research and Education Institute
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: 'Neshoba: The Price of Freedom'
+  url: https://www.pbs.org/independentlens/documentaries/neshoba/
+  outlet: PBS Independent Lens
+  date: 2010-02-09
+  verified: true
+  tier: 2
 capture_lanes:
-  - Law Enforcement Capture
-  - Democratic Erosion
-  - Voter Suppression
+- Civil Rights Suppression
+- Democratic Erosion
+- Electoral Manipulation
 status: confirmed
 ---
 

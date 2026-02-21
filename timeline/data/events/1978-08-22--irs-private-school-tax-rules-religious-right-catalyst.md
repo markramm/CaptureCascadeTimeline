@@ -36,7 +36,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 In August 1978, the IRS proposes new rules tightening tax-exempt status requirements for private elementary and secondary schools under IRC 501(c)(3) and begins holding hearings to determine whether segregated Christian academies should be eligible for tax exemption. The announcement triggers the mass political mobilization that creates the modern Religious Right movement.

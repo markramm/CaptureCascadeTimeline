@@ -5,9 +5,7 @@ title: FBI Raids Home and Office of Trump Critic John Bolton
 importance: 10
 status: confirmed
 capture_lanes:
-- Political Retaliation
-- Institutional Abuse
-- National Security
+- Civil Rights Suppression
 actors:
 - John Bolton
 - Donald Trump

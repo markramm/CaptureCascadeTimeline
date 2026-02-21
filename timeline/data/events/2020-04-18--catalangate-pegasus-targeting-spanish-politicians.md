@@ -38,7 +38,7 @@ importance: 9
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Political Suppression
+- Civil Rights Suppression
 - Surveillance Infrastructure
 ---
 

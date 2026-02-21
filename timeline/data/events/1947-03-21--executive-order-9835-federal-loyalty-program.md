@@ -1,8 +1,7 @@
 ---
 id: 1947-03-21--executive-order-9835-federal-loyalty-program
 date: '1947-03-21'
-title: Executive Order 9835 Establishes Federal Loyalty Program - 5 Million Screened,
-  Guilt Presumed
+title: Executive Order 9835 Establishes Federal Loyalty Program - 5 Million Screened, Guilt Presumed
 importance: 8
 actors:
 - Harry S. Truman
@@ -44,7 +43,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 

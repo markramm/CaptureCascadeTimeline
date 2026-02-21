@@ -31,7 +31,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 President Bill Clinton signs the Illegal Immigration Reform and Immigrant Responsibility Act (IIRIRA), dramatically expanding deportation authority and creating new categories of removable offenses. The law increases annual deportations from approximately 50,000 to over 200,000 by the early 2000s, fundamentally transforming immigration enforcement from a civil administrative system into a quasi-criminal apparatus. Clinton asserts the legislation strengthens "the rule of law by cracking down on illegal immigration at the border, in the workplace, and in the criminal justice system—without punishing those living in the United States legally," though its implementation produces extensive collateral consequences for legal residents.

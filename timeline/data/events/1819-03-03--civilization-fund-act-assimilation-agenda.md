@@ -35,8 +35,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Legislative Capture
-- Indigenous Suppression
-- Cultural Destruction
+- Civil Rights Suppression
 ---
 
 Congress passes and President James Monroe signs the Civilization Fund Act (also known as the Indian Civilization Act), authorizing federal funding for organizations to run schools on Native American reservations with the explicit goal of assimilating Indigenous peoples into white society. The Act creates a federal fund to administer education, healthcare, and rations promised to tribal nations under treaties, but structures these services to serve the "civilization process" rather than tribal sovereignty or cultural preservation. President Monroe articulates the Act's underlying logic: that providing education to Native Americans would "prepare them for successful assimilation into white society"—revealing that federal educational policy aims not to serve Indigenous communities' self-defined needs but to destroy Indigenous cultures and replace them with Euro-American values, religion, and economic practices. The legislation initially supports schools in native villages and areas established by religious missions operated by both Protestant and Catholic organizations, creating a government-funded infrastructure for cultural transformation that would evolve into the devastating boarding school system.

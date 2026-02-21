@@ -7,15 +7,13 @@ actors:
 - FBI
 capture_lanes:
 - Intelligence Penetration
-- Political Intimidation
+- Civil Rights Suppression
 capture_type: political_violence
 connections:
 - Escalating political tensions
 - Domestic terrorism investigations
 date: '2025-03-24'
-description: FBI announced a task force to investigate a series of violent incidents
-  targeting Tesla properties and vehicles, characterizing the attacks as domestic
-  terrorism
+description: FBI announced a task force to investigate a series of violent incidents targeting Tesla properties and vehicles, characterizing the attacks as domestic terrorism
 id: 2025-03-24--fbi-says-it-is-probing-increase-in-violent-activity-toward-t
 importance: 7
 location: Multiple U.S. States (Austin, TX Headquarters)

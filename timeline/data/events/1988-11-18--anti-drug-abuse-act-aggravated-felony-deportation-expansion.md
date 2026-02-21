@@ -33,8 +33,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
-- Criminal Justice System
+- Civil Rights Suppression
 - Legislative Capture
 ---
 

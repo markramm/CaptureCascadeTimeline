@@ -1,7 +1,7 @@
 ---
 id: 1871-04-20--ku-klux-klan-act-grants-federal-enforcement-power
 date: '1871-04-20'
-title: 'Ku Klux Klan Act Authorizes Federal Suppression of Terrorist Violence'
+title: Ku Klux Klan Act Authorizes Federal Suppression of Terrorist Violence
 importance: 8
 actors:
 - Ulysses S. Grant
@@ -21,7 +21,7 @@ sources:
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/ku-klux-klan-act-of-1871/
   year: 2024
-- title: 'The Ku Klux Klan Act of 1871'
+- title: The Ku Klux Klan Act of 1871
   outlet: U.S. House of Representatives
   url: https://history.house.gov/Historical-Highlights/1851-1900/hh_1871_04_20_KKK_Act/
   year: 2024
@@ -31,9 +31,8 @@ tags:
 - racial-terrorism
 - civil-rights-protection
 capture_lanes:
-- Federal Civil Rights Enforcement
-- Terrorist Suppression
-- Presidential Authority Expansion
+- Civil Rights Suppression
+- Executive Power Expansion
 status: confirmed
 ---
 

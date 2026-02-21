@@ -32,8 +32,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Policy
-- Corporate Immigration
+- Civil Rights Suppression
+- Corporate Capture
 - Legislative Capture
 ---
 

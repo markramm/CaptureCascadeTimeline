@@ -38,7 +38,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 - Systematic Corruption
 - Regulatory Capture
 - Military-Industrial Complex

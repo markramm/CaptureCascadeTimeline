@@ -50,6 +50,8 @@ tags:
 - prison-reform
 - civil-rights
 title: DOJ Orders Prison Auditors to Eliminate PREA Rape Protections for Transgender Inmates
+capture_lanes:
+- Civil Rights Suppression
 ---
 
 On December 4, 2025, NPR obtained an internal Department of Justice memo dated December 2, 2025, instructing prison auditors nationwide to immediately stop evaluating facilities under Prison Rape Elimination Act (PREA) standards designed to protect transgender, intersex, and gender-nonconforming inmates from sexual violence. The directive, sent by Tammie M. Gregg, principal deputy director of the Bureau of Justice Assistance, instructs all DOJ-certified PREA auditors to mark vulnerable population protections as "not applicable" during audits while the DOJ revises federal standards to align with President Trump's January 20, 2025 executive order establishing a two-sex legal definition that excludes recognition of transgender identity.

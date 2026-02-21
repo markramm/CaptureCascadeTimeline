@@ -22,10 +22,7 @@ tags:
 - wrongful-detention
 - community-terrorization
 capture_lanes:
-- Immigration Enforcement Weaponization
-- Ethnic and Racial Targeting
-- Civil Rights Violations
-- Community Terrorization
+- Civil Rights Suppression
 sources:
 - title: ICE operations targeting Somali immigrants underway in Twin Cities
   url: https://www.cbsnews.com/minnesota/live-updates/ice-somali-immigrants-minneapolis-st-paul/

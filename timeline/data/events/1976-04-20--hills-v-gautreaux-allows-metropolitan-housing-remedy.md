@@ -32,7 +32,7 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 The Supreme Court rules in Hills v. Gautreaux that metropolitan-wide remedies are permissible for housing discrimination, distinguishing the case from its Milliken v. Bradley school desegregation decision that limited remedies to municipal boundaries. Justice Potter Stewart's opinion finds that unlike suburban schools in Milliken, HUD itself violated the Constitution and therefore an equitable remedy can be imposed against the federal agency. The Court notes HUD, as a federal agency, possesses statutory authority to operate across the broader metropolitan housing market, establishing that federal courts can order remedies extending beyond municipalities where discrimination occurred if the responsible agency has authority to act regionally.

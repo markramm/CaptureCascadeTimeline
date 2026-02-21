@@ -15,19 +15,19 @@ tags:
 - bribery
 - political-manipulation
 sources:
-- title: 'XYZ Affair'
+- title: XYZ Affair
   url: https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/xyz-affair
   outlet: George Washington's Mount Vernon
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'The XYZ Affair and the Quasi-War with France, 1798-1800'
+- title: The XYZ Affair and the Quasi-War with France, 1798-1800
   url: https://history.state.gov/milestones/1784-1800/xyz
   outlet: U.S. State Department Office of the Historian
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'XYZ Affair'
+- title: XYZ Affair
   url: https://www.britannica.com/event/XYZ-Affair
   outlet: Britannica
   date: '2024-01-01'
@@ -36,7 +36,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 American diplomatic envoys Charles Cotesworth Pinckney, John Marshall, and Elbridge Gerry arrive in Paris for peace negotiations but are approached by three French agents (later designated X, Y, and Z in diplomatic correspondence) who demand a $250,000 bribe to Foreign Minister Talleyrand and a $10 million loan to France as preconditions for negotiations. The intermediaries insist the American diplomats must apologize for anti-French statements in President Adams's May 16, 1797 speech to Congress, pay Talleyrand 1,200,000 livres (approximately £50,000 or $250,000) as a personal "payment" considered common practice in French diplomacy, and arrange a massive loan while settling claims by U.S. merchants for French seizure of American ships following the Jay Treaty.

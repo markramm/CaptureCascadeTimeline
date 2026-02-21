@@ -1,7 +1,7 @@
 ---
 id: 2025-01-15--louisiana-indicts-ny-doctor-abortion-ban-violation
 date: '2025-01-15'
-title: "Louisiana Grand Jury Indicts New York Physician for Providing Medication Abortion"
+title: Louisiana Grand Jury Indicts New York Physician for Providing Medication Abortion
 importance: 8
 actors:
 - Louisiana Grand Jury
@@ -21,9 +21,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Reproductive Rights
-- Criminal Justice
-- Interstate Conflict
+- Civil Rights Suppression
 ---
 
 A Louisiana grand jury indicted a New York physician in January 2025 for violating Louisiana's abortion ban and restrictions by providing medication abortion to a Louisiana minor. The mother of the minor who received the medication abortion was also indicted, marking an escalation in interstate enforcement of state abortion bans.

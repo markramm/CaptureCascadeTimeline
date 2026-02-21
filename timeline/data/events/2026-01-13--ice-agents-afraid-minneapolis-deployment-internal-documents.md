@@ -20,7 +20,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Law Enforcement Weaponization
+- Civil Rights Suppression
 ---
 
 Internal DHS documents revealed significant hesitation among federal agents about deployment to Minneapolis under Operation Metro Surge following the fatal shooting of Renee Good. A memo from Border Patrol's Acting Assistant Chief Joshua Andrew Post sought 300 volunteer personnel (200 Border Patrol Agents and 100 Processing Coordinators) by January 11, but sources noted: "We do have personnel but some just don't want to go."

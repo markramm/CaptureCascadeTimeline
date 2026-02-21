@@ -10,8 +10,7 @@ actors:
 - US Congress
 sources:
 - outlet: Congress.gov
-  title: 'Human Rights and Anti-Corruption Sanctions: The Global Magnitsky Human Rights
-    Accountability Act'
+  title: 'Human Rights and Anti-Corruption Sanctions: The Global Magnitsky Human Rights Accountability Act'
   url: https://www.congress.gov/crs-product/IF10576
 - outlet: Human Rights First
   title: U.S. Global Magnitsky Sanctions
@@ -32,7 +31,7 @@ priority_id: RP-20250909-capture-cascade-part-2-the-accelerant
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
-- Human Rights Enforcement
+- Civil Rights Suppression
 ---
 
 The Sergei Magnitsky Rule of Law Accountability Act was introduced in the US House of Representatives, targeting Russian officials responsible for human rights violations and corruption. Named after Sergei Magnitsky, a lawyer who exposed a $230 million tax fraud scheme and subsequently died in Russian custody, the act authorized sanctions against individuals involved in his death and related corruption.

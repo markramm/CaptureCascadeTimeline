@@ -31,6 +31,9 @@ sources:
   outlet: U.S. Senate Permanent Subcommittee on Investigations
   date: '2026-01-21'
   tier: 1
+capture_lanes:
+- Civil Rights Suppression
+- Military-Industrial Complex
 ---
 
 Two anonymous whistleblowers disclosed to the U.S. Senate that DHS had authorized and trained ICE agents to forcibly enter homes without judicial warrants, based on a secret memo issued by Acting ICE Director Todd Lyons on May 12, 2025. The memo authorizes ICE agents to use administrative warrants of removal (Form I-205) to forcibly enter private residences after knocking and announcing their presence, fundamentally contradicting Fourth Amendment protections requiring judicial authorization for home searches.

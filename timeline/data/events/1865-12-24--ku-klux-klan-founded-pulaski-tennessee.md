@@ -1,7 +1,7 @@
 ---
 id: 1865-12-24--ku-klux-klan-founded-pulaski-tennessee
 date: '1865-12-24'
-title: 'Ku Klux Klan Founded as Terrorist Organization to Restore White Supremacy'
+title: Ku Klux Klan Founded as Terrorist Organization to Restore White Supremacy
 importance: 10
 actors:
 - Nathan Bedford Forrest
@@ -13,7 +13,7 @@ actors:
 - Richard P. Reed
 - James R. Crowe
 sources:
-- title: 'Ku Klux Klan'
+- title: Ku Klux Klan
   outlet: Tennessee Encyclopedia
   url: https://tennesseeencyclopedia.net/entries/ku-klux-klan/
   year: 2024
@@ -25,7 +25,7 @@ sources:
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/ku-klux-klan-founded/
   year: 2024
-- title: 'Ku Klux Klan (KKK)'
+- title: Ku Klux Klan (KKK)
   outlet: National Park Service
   url: https://www.nps.gov/articles/kukluxklan.htm
   year: 2024
@@ -36,9 +36,7 @@ tags:
 - political-violence
 - institutional-capture
 capture_lanes:
-- Violent Suppression of Democracy
-- Reconstruction Sabotage
-- Racial Terrorism Infrastructure
+- Civil Rights Suppression
 status: confirmed
 ---
 

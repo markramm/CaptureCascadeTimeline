@@ -1,21 +1,21 @@
 ---
 id: 1878-06-18--posse-comitatus-act-restricts-military-enforcement
 date: '1878-06-18'
-title: 'Posse Comitatus Act Restricts Federal Military from Domestic Law Enforcement'
+title: Posse Comitatus Act Restricts Federal Military from Domestic Law Enforcement
 importance: 8
 actors:
 - Rutherford B. Hayes
 - U.S. Congress
 sources:
-- title: 'Posse Comitatus Act'
+- title: Posse Comitatus Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Posse_Comitatus_Act
   year: 2024
-- title: 'The Posse Comitatus Act, Explained'
+- title: The Posse Comitatus Act, Explained
   outlet: Brennan Center for Justice
   url: https://www.brennancenter.org/our-work/research-reports/posse-comitatus-act-explained
   year: 2024
-- title: 'The Posse Comitatus Act and using military as a police force'
+- title: The Posse Comitatus Act and using military as a police force
   outlet: Rutherford B. Hayes Presidential Library & Museums
   url: https://www.rbhayes.org/scholarlyworks/the-posse-comitatus-act-and-using-military-as-a-police-force/
   year: 2024
@@ -25,9 +25,7 @@ tags:
 - civil-rights-destruction
 - institutional-capture
 capture_lanes:
-- Federal Enforcement Restriction
-- Reconstruction Abandonment
-- White Supremacist Legal Victory
+- Civil Rights Suppression
 status: confirmed
 ---
 

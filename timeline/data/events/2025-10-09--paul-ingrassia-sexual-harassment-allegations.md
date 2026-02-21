@@ -18,6 +18,8 @@ tags:
 - workplace-harassment
 - whistleblower-protection-erosion
 - appointee-misconduct
+capture_lanes:
+- Civil Rights Suppression
 ---
 
 Paul Ingrassia, Trump's nominee to lead the Office of Special Counsel (which oversees federal whistleblower protections and discrimination cases), faced allegations of sexually harassing a colleague during a DHS trip by allegedly canceling her hotel room. The irony of nominating someone accused of workplace harassment to lead the agency responsible for investigating such complaints demonstrates the administration's contempt for workplace protections and whistleblower rights. This appointment signals the systematic degradation of federal employee protections, with the office designed to protect workers from abuse being handed to someone accused of perpetrating it.

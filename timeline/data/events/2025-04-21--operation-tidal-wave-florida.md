@@ -15,8 +15,8 @@ tags:
 - 287g-programs
 - propaganda-operations
 capture_lanes:
-- Law Enforcement Weaponization
-- Immigration & Border Militarization
+- Civil Rights Suppression
+- Military-Industrial Complex
 sources:
 - title: Largest joint immigration operation in Florida history leads to 1,120 criminal alien arrests
   url: https://www.ice.gov/news/releases/largest-joint-immigration-operation-florida-history-leads-1120-criminal-alien-arrests

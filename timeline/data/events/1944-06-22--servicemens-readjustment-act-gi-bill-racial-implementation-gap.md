@@ -52,8 +52,7 @@ sources:
   outlet: National WWII Museum
 status: confirmed
 capture_lanes:
-- racial-discrimination
-- federalism-exploitation
+- Civil Rights Suppression
 ---
 
 

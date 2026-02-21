@@ -33,8 +33,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Racial Politics
-- Justice System Failure
+- Civil Rights Suppression
 ---
 
 Thirty-one-year-old Leo Frank, a Jewish factory superintendent, was kidnapped from prison in Milledgeville, Georgia, and lynched by an antisemitic mob calling themselves "The Knights of Mary Phagan"—the only Jewish lynching in U.S. history. In spring 1913, thirteen-year-old Mary Phagan, a factory worker, was found murdered in the basement of the National Pencil Factory in Atlanta where Frank served as superintendent. Frank, a Northerner raised and educated in New York, was swiftly convicted and sentenced to death in a trial tinged with anti-Jewish and anti-Northern fervor, often stirred up in Southern newspapers. When Georgia's governor commuted Frank's sentence to life imprisonment in 1915, recognizing the trial's irregularities, an outraged mob stormed the state penitentiary. Armed mobs roamed Atlanta streets, forcing Jewish businessmen to board up windows and doors as antisemitism reached a fever pitch. The Knights of Mary Phagan kidnapped Frank, transported him to Phagan's hometown of Marietta, and lynched him.

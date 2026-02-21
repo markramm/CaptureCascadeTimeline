@@ -17,16 +17,16 @@ tags:
 - property-tax
 - judicial-capture
 sources:
-- title: "San Antonio Independent School District v. Rodriguez, 411 U.S. 1 (1973)"
+- title: San Antonio Independent School District v. Rodriguez, 411 U.S. 1 (1973)
   url: https://supreme.justia.com/cases/federal/us/411/1/
   outlet: Justia
   date: '1973-03-21'
   tier: 1
-- title: "School Finance and the Evolution of Education Law"
+- title: School Finance and the Evolution of Education Law
   url: https://www.law.cornell.edu/supremecourt/text/411/1
   outlet: Cornell Law School
   tier: 1
-- title: "The Enduring Legacy of Rodriguez"
+- title: The Enduring Legacy of Rodriguez
   url: https://www.epi.org/publication/the-enduring-legacy-of-rodriguez/
   outlet: Economic Policy Institute
   date: '2018-03-21'
@@ -34,8 +34,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Wealth Entrenchment
-- Erosion of Civil Rights
+- Civil Rights Suppression
 ---
 
 On March 21, 1973, the Supreme Court ruled 5-4 in San Antonio Independent School District v. Rodriguez that the Texas school finance system—which relied on local property taxes and created vast spending disparities between wealthy and poor districts—did not violate the Equal Protection Clause. The decision, written by Justice Lewis Powell, rejected education as a fundamental right and poverty as a suspect classification, permanently entrenching educational inequality as constitutionally permissible.

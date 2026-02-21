@@ -30,6 +30,9 @@ sources:
   outlet: CBS News
   date: '2016-02-25'
 id: 1996-01-28--hillary-clinton-super-predators-speech-keene-state
+capture_lanes:
+- Civil Rights Suppression
+- Intelligence Penetration
 ---
 
 First Lady Hillary Clinton delivers a speech at Keene State College in New Hampshire supporting the 1994 Violent Crime Control and Law Enforcement Act, in which she uses the now-infamous "super-predators" terminology. In her remarks, Clinton stated: "They are not just gangs of kids anymore. They are often the kinds of kids that are called 'super predators.' No conscience, no empathy. We can talk about why they ended up that way, but first we have to bring them to heel."

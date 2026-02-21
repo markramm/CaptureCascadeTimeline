@@ -35,7 +35,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 Following a 1969 Mississippi-based lawsuit against the IRS in which federal courts issue a preliminary injunction denying tax exemption to private schools that are segregated by race, the IRS adopts a non-discrimination policy applying to private schools on July 10, 1970. The policy, though it takes eight years to be fully implemented, represents a turning point in federal enforcement against segregation academies that have proliferated throughout the South since Brown v. Board of Education.

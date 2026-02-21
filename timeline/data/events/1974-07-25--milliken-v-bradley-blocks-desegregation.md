@@ -23,11 +23,11 @@ sources:
   outlet: Justia
   date: '1974-07-25'
   tier: 1
-- title: "Milliken v. Bradley: The Northern Battle for Desegregation"
+- title: 'Milliken v. Bradley: The Northern Battle for Desegregation'
   url: https://www.law.cornell.edu/supremecourt/text/418/717
   outlet: Cornell Law School
   tier: 1
-- title: "How the Supreme Court Made It Legal for White Parents to Escape Busing"
+- title: How the Supreme Court Made It Legal for White Parents to Escape Busing
   url: https://www.nytimes.com/2019/09/06/opinion/busing-school-integration-desegregation.html
   outlet: New York Times
   date: '2019-09-06'
@@ -35,8 +35,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Erosion of Civil Rights
-- White Supremacy Enablement
+- Civil Rights Suppression
 ---
 
 On July 25, 1974, the Supreme Court issued its 5-4 ruling in Milliken v. Bradley, effectively ending meaningful school desegregation efforts across metropolitan America by prohibiting cross-district busing remedies to address urban-suburban segregation. The decision exempted wealthy white suburbs from any obligation to remedy segregation patterns they benefited from, entrenching a two-tiered educational system that persists to this day.

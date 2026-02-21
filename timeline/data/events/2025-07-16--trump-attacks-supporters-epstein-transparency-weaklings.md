@@ -1,8 +1,7 @@
 ---
 id: 2025-07-16--trump-attacks-supporters-epstein-transparency-weaklings
 date: '2025-07-16'
-title: Trump Calls Own Supporters "Weaklings" and "Selfish People" After Demanding
-  Epstein File Transparency
+title: Trump Calls Own Supporters "Weaklings" and "Selfish People" After Demanding Epstein File Transparency
 importance: 8
 tags:
 - donald-trump
@@ -37,8 +36,7 @@ sources:
   date: '2025-11-06'
   tier: 1
   outlet: WTTW Chicago
-- title: Judge grants preliminary injunction against Bovino, federal agents over use
-    of force
+- title: Judge grants preliminary injunction against Bovino, federal agents over use of force
   url: https://www.cbsnews.com/chicago/news/chicago-immigration-gregory-bovino-preliminary-injunction-judge-sara-ellis/
   date: '2025-11-06'
   tier: 1
@@ -51,8 +49,7 @@ sources:
   url: https://www.nbcnews.com/news/us-news/charges-dropped-doctor-accused-destroying-28k-covid-vaccines-rcna218483
   outlet: NBC News
   tier: 1
-- title: Attorney General Pam Bondi announces dismissal of charges against plastic
-    surgeon
+- title: Attorney General Pam Bondi announces dismissal of charges against plastic surgeon
   url: https://www.cbsnews.com/news/pam-bondi-dismissal-charges-against-utah-plastic-surgeon-michael-kirk-moore-faking-covid-19-vaccine/
   outlet: CBS News
   tier: 1
@@ -62,13 +59,11 @@ sources:
   url: https://www.npr.org/2025/07/31/nx-s1-5484932/layoffs-at-the-department-of-justice-are-transforming-its-workforce
 - date: '2025-07-12'
   outlet: ABC News
-  title: Attorney General Bondi fired at least 20 officials with ties to Jack Smith
-    investigation
+  title: Attorney General Bondi fired at least 20 officials with ties to Jack Smith investigation
   url: https://abcnews.go.com/Politics/attorney-general-bondi-fired-20-officials-ties-jack/story?id=123707683
 - date: '2025-07-12'
   outlet: NPR
-  title: How Attorney General Pam Bondi has reshaped the Justice Department to suit
-    Trump
+  title: How Attorney General Pam Bondi has reshaped the Justice Department to suit Trump
   url: https://www.npr.org/2025/08/20/nx-s1-5507021/how-attorney-general-pam-bondi-has-reshaped-the-justice-department-to-suit-trump
 - date: '2025-07-12'
   outlet: Bloomberg
@@ -80,8 +75,7 @@ sources:
   url: https://www.romania-insider.com/trump-organization-luxury-project-romania-2025
 - date: '2025-07-12'
   outlet: CNBC
-  title: Trump Organization plans to build tower block with luxury apartments in Romanian
-    capital
+  title: Trump Organization plans to build tower block with luxury apartments in Romanian capital
   url: https://www.cnbc.com/2025/07/12/trump-organization-luxury-apartments-bucharest.html
 - date: '2025-07-12'
   outlet: U.S. News & World Report
@@ -89,7 +83,7 @@ sources:
   url: https://www.usnews.com/news/top-news/articles/2025-07-12/trump-organization-plans-to-build-tower-block-in-romanian-capital
 status: confirmed
 capture_lanes:
-- Immigration Enforcement
+- Civil Rights Suppression
 ---
 
 
