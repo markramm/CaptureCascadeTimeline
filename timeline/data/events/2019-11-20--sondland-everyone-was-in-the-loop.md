@@ -33,6 +33,10 @@ sources:
   date: 2019-11-20
   tier: 1
   outlet: C-SPAN
+capture_lanes:
+- Environmental Capture
+- Digital & Tech Capture
+- Executive Power Expansion
 ---
 
 EU Ambassador Gordon Sondland delivered blockbuster testimony on November 20, 2019, explicitly confirming the quid pro quo at the heart of Trump's first impeachment and implicating the highest levels of the administration. In opening remarks that devastated Trump's defense, Sondland declared: "Was there a quid pro quo? As I testified previously, with regard to the requested White House call and the White House meeting, the answer is yes." He went further, stating that "everyone was in the loop"—including Secretary of State Mike Pompeo, Vice President Mike Pence, acting Chief of Staff Mick Mulvaney, and former National Security Advisor John Bolton. Sondland testified that he worked on Ukraine matters "at the express direction of the President of the United States" through Rudy Giuliani.

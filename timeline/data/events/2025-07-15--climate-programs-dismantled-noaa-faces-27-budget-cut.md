@@ -38,8 +38,7 @@ id: 2025-07-15--climate-programs-dismantled-noaa-faces-27-budget-cut
 priority_id: project-2025-implementation-1757456630
 capture_lanes:
 - Systematic Corruption
-- Environmental Policy
-- Scientific Infrastructure Disruption
+- Environmental Capture
 ---
 
 On July 15, 2025, the federal government implements massive budget cuts to climate research, effectively dismantling NOAA's research capabilities. The Office of Oceanic and Atmospheric Research (OAR) is completely eliminated, with the budget line reading zero dollars for climate research. Multiple climate websites are taken offline, and 16 cooperative climate research institutes are defunded. This systematic destruction follows Project 2025's blueprint, which characterized climate research as an 'alarm industry'. The cuts include a 25% reduction in NOAA's overall budget, eliminating approximately 17% of its workforce and fundamentally restructuring federal climate research infrastructure.

@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: University of Michigan News
 status: confirmed
+capture_lanes:
+- Environmental Capture
+- Civil Rights Suppression
+- Intelligence Penetration
 ---
 
 Officials in Flint, Michigan switch the city's water supply from treated Detroit water (sourced from Lake Huron) to the polluted Flint River as a cost-cutting measure, beginning one of the worst public health disasters in modern American history. The decision, made by state-appointed emergency manager Darnell Earley, is intended to save approximately $5 million over two years while the city awaits connection to the Karegnondi Water Authority.

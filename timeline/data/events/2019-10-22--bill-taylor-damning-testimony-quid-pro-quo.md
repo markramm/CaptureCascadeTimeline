@@ -31,6 +31,10 @@ sources:
   date: 2019-11-06
   tier: 1
   outlet: PBS NewsHour
+capture_lanes:
+- Environmental Capture
+- Digital & Tech Capture
+- Legislative Capture
 ---
 
 Acting U.S. Ambassador to Ukraine William "Bill" Taylor delivered devastating closed-door testimony to House impeachment investigators on October 22, 2019, providing a detailed timeline of how President Trump conditioned military aid and a White House meeting on Ukraine announcing investigations into Joe Biden. In his 15-page opening statement, Taylor testified that "it was my clear understanding, security assistance money would not come until the President [of Ukraine] committed to pursue the investigation," describing an "irregular channel" of Ukraine policy run by Rudy Giuliani that diverged from official diplomatic objectives. Taylor's testimony, based on contemporaneous notes and text messages, provided the most comprehensive evidence to date of Trump's quid pro quo arrangement.

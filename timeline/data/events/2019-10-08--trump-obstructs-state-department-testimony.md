@@ -31,6 +31,10 @@ sources:
   date: 2019-10-08
   tier: 1
   outlet: Reuters
+capture_lanes:
+- Environmental Capture
+- Digital & Tech Capture
+- Legislative Capture
 ---
 
 The Trump administration blocked EU Ambassador Gordon Sondland from testifying before House impeachment investigators just hours before his scheduled deposition on October 8, 2019, inaugurating a pattern of complete non-cooperation with Congress that would form the basis for the obstruction of Congress impeachment article. Sondland, a key figure in the Ukraine pressure campaign, had traveled to Washington and was prepared to appear when State Department officials—acting on White House orders—directed him not to comply with the congressional subpoena. Trump tweeted that morning, "I would love to send Ambassador Sondland, a really good man and great American, to testify, but unfortunately he would be testifying before a totally compromised kangaroo court."

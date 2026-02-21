@@ -49,9 +49,8 @@ patterns:
 - environmental-racism
 notes: Part of comprehensive kleptocracy timeline tracking corporate environmental crimes and regulatory capture.
 capture_lanes:
-- Corporate Environmental Destruction
+- Environmental Capture
 - Regulatory Capture
-- Public Health Crisis
 ---
 
 On September 3, 1973, a fire destroys the baghouse pollution control system at the Bunker Hill lead smelter in Kellogg, Idaho—then the largest smelting facility in the world. In a secret board meeting, Gulf Resources & Chemical Corp., the facility's owner, makes a calculated decision to continue operating the smelter without repairing the filtration system, choosing profit over public health. Rather than shutting down for repairs, Gulf Resources determines that rising lead prices make it financially advantageous to operate without pollution controls, despite already knowing that area children had elevated blood lead levels.

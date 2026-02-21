@@ -30,6 +30,10 @@ sources:
   url: https://www.sentinelassam.com/more-news/international/united-states-steps-up-immigration-scrutiny-85000-visas-revoked-in-2025
   tier: 2
 status: confirmed
+capture_lanes:
+- Environmental Capture
+- Labor Suppression
+- Surveillance Infrastructure
 ---
 
 # State Department Revokes Record 85,000 Visas Including 8,000 Student Visas Since January, More Than Double 2024 Rate

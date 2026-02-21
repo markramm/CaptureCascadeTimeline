@@ -1,8 +1,7 @@
 ---
 id: 1970-12-02--epa-created-nixon-consolidates-federal-environmental-agencies
 date: '1970-12-02'
-title: Nixon Creates Environmental Protection Agency Consolidating Federal Environmental
-  Authority
+title: Nixon Creates Environmental Protection Agency Consolidating Federal Environmental Authority
 importance: 9
 actors:
 - President Richard Nixon
@@ -43,8 +42,8 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Environmental Protection
-- Regulatory Reform
+- Environmental Capture
+- Regulatory Capture
 status: confirmed
 ---
 

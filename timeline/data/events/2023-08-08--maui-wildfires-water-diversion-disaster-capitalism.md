@@ -21,11 +21,7 @@ tags:
 - corporate-exploitation
 - climate-crisis
 capture_lanes:
-- Corporate Environmental Destruction
-- Indigenous Resource Rights
-- Disaster Capitalism
-- Climate Adaptation Failure
-- Land Grab After Catastrophe
+- Environmental Capture
 sources:
 - title: Hawaii wildfires - Fights over water amid west Maui's charred ruins ignite new fears
   url: https://www.cnn.com/2023/08/21/us/hawaii-lahaina-water-wildfire/index.html

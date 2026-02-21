@@ -29,6 +29,10 @@ actors:
 - Pete Hegseth
 - Steve Feinberg
 - Pentagon
+capture_lanes:
+- Environmental Capture
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 On October 15, 2025, Defense Secretary Pete Hegseth and Deputy Secretary Steve Feinberg issued an internal memo barring nearly all Defense Department personnel, including military commanders, from communicating with Congress or state lawmakers without prior approval from the Pentagon's office of legislative affairs. The directive applies to civilian leaders of each military branch, the Chairman of the Joint Chiefs of Staff, all combatant commanders, and Defense Intelligence offices. Restricted topics include acquisition reform, spectrum, critical munitions, budget and reconciliation spending plans, critical minerals, foreign military sales, attempted lethal force on military installations, and the national defense strategy. The memo states that "unauthorized engagements with Congress by [Defense Department] personnel acting in their official capacity, no matter how well-intentioned, may undermine Department-wide priorities critical to achieving our legislative objectives." The Trump Tyranny Tracker reported on November 3 that this policy blocks congressional oversight of the Pentagon's $1 trillion budget. Congressional staff expressed concerns that the restrictions would cripple lawmakers' ability to obtain even routine information for oversight and crafting annual defense policy legislation. Nebraska Republican Rep. Don Bacon, a former five-time military commander, called it an "amateur move," stating his leadership "WANTED us to engage members of Congress." The only exemption is for the Pentagon Inspector General office. This systematic obstruction of congressional oversight represents a fundamental violation of separation of powers, preventing elected representatives from exercising constitutional authority over military policy and spending.

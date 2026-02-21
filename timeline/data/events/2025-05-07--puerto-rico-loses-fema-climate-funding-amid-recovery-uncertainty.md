@@ -16,9 +16,7 @@ tags:
 - puerto-rico
 - fema-restructuring
 capture_lanes:
-- Disaster Response Capture
-- Climate Policy Control
-- Colonial Administration
+- Environmental Capture
 sources:
 - title: Puerto Rico and FEMA Safeguarding Recovery Amid Federal Policy Shifts
   url: https://ucfglobalperspectives.org/blog/2025/05/07/puerto-rico-and-fema-safeguarding-recovery-amid-federal-policy-shifts/

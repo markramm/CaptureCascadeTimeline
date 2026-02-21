@@ -4,39 +4,39 @@ date: '1964-09-03'
 title: Wilderness Act Signed After Eight Years of Industry Opposition, Creates National Wilderness Preservation System
 importance: 8
 actors:
-  - President Lyndon B. Johnson
-  - Howard Zahniser
-  - Wilderness Society
-  - U.S. Forest Service
-  - Mining Industry
-  - American Mining Congress
+- President Lyndon B. Johnson
+- Howard Zahniser
+- Wilderness Society
+- U.S. Forest Service
+- Mining Industry
+- American Mining Congress
 tags:
-  - environmental-regulation
-  - public-lands
-  - corporate-lobbying
-  - conservation
+- environmental-regulation
+- public-lands
+- corporate-lobbying
+- conservation
 sources:
-  - title: "The Wilderness Act of 1964"
-    url: "https://www.wilderness.net/learn-about-wilderness/key-laws/wilderness-act"
-    outlet: "Wilderness Connect - University of Montana"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Wilderness Act"
-    url: "https://www.nps.gov/subjects/wilderness/wilderness-act.htm"
-    outlet: "National Park Service"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "How the Wilderness Act Came to Be"
-    url: "https://www.wilderness.org/articles/article/how-wilderness-act-came-be"
-    outlet: "The Wilderness Society"
-    date: 2019-08-30
-    verified: true
-    tier: 2
+- title: The Wilderness Act of 1964
+  url: https://www.wilderness.net/learn-about-wilderness/key-laws/wilderness-act
+  outlet: Wilderness Connect - University of Montana
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Wilderness Act
+  url: https://www.nps.gov/subjects/wilderness/wilderness-act.htm
+  outlet: National Park Service
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: How the Wilderness Act Came to Be
+  url: https://www.wilderness.org/articles/article/how-wilderness-act-came-be
+  outlet: The Wilderness Society
+  date: 2019-08-30
+  verified: true
+  tier: 2
 capture_lanes:
-  - Public Lands Protection
-  - Regulatory Reform
+- Environmental Capture
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -43,6 +43,10 @@ sources:
   tier: 2
   outlet: Bridge Michigan
 status: confirmed
+capture_lanes:
+- Environmental Capture
+- Civil Rights Suppression
+- Labor Suppression
 ---
 
 The Flint water crisis (2014-2024) stands as one of the most egregious examples of environmental racism and governmental failure in modern American history: a decade-long catastrophe in which state officials poisoned thousands of children to save money, lied about it for 18 months, and ultimately faced zero criminal accountability. The crisis demonstrates how anti-democratic governance structures, systemic racism, and two-tiered justice combine to enable atrocities against vulnerable populations.

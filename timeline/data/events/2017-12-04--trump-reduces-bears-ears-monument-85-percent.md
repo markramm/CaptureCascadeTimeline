@@ -35,7 +35,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Extractive Industries
+- Environmental Capture
 ---
 
 President Trump ordered an 85 percent reduction of Bears Ears National Monument from 1.35 million acres to 201,397 acres, the largest rollback of conservation protections in U.S. history. The proclamation split the monument into two noncontiguous units (Indian Creek and Shash Jáa), opening previously protected lands to uranium mining, oil and gas drilling, and mechanized vehicle access. Interior Secretary Ryan Zinke's review, ordered by Executive Order 13792, specifically targeted monuments exceeding 100,000 acres and recommended reductions based on extractive industry priorities. Bears Ears was the first national monument designated at the request of Tribal Nations in 2016. Five tribes - Navajo Nation, Hopi, Ute Mountain Ute, Ute Indian Tribe, and Zuni - filed lawsuits on December 4, 2017, arguing Trump lacked legal authority to modify monument boundaries, a power reserved to Congress under the Antiquities Act. The reduction exemplifies regulatory capture whereby industry-aligned political appointees systematically dismantle environmental protections to benefit extractive industries, overriding both Indigenous sovereignty and public land conservation mandates. The monument's protections were later restored by President Biden in 2021.

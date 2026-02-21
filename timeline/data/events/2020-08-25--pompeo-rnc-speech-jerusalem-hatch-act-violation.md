@@ -37,6 +37,10 @@ sources:
   date: 2020-08-26
   tier: 1
   outlet: PolitiFact
+capture_lanes:
+- Environmental Capture
+- Systematic Corruption
+- Media Capture & Control
 ---
 
 Secretary of State Mike Pompeo delivered a speech to the Republican National Convention from a hotel rooftop in Jerusalem during an official diplomatic trip to the Middle East, becoming the first sitting Secretary of State to address a party convention in modern history. The U.S. Office of Special Counsel later concluded that Pompeo violated the Hatch Act after changing long-standing State Department policy specifically to permit his own partisan political participation, documenting that he amended the policy "after being asked, on behalf of President Trump, to participate in the RNC."

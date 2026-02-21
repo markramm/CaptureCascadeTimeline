@@ -1,7 +1,7 @@
 ---
 id: 1982-04-22--berkeley-pit-mine-closes-creating-toxic-superfund-disaster
 date: '1982-04-22'
-title: 'Berkeley Pit Mine Closes on Earth Day, Pumps Shut Off, Creating Toxic Lake Superfund Site'
+title: Berkeley Pit Mine Closes on Earth Day, Pumps Shut Off, Creating Toxic Lake Superfund Site
 importance: 7
 location: Butte, Montana
 actors:
@@ -12,10 +12,9 @@ actors:
 - Montana Resources
 status: confirmed
 capture_lanes:
-- environmental-destruction
-- corporate-accountability-evasion
-- privatize-profits-socialize-costs
-- regulatory-capture
+- Environmental Capture
+- Corporate Capture
+- Regulatory Capture
 tags:
 - environmental-damage
 - superfund

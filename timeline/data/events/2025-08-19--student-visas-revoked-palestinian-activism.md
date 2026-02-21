@@ -28,6 +28,8 @@ sources:
   date: '2025-08-25'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Environmental Capture
 ---
 
 The State Department revoked over 6,000 student visas, including 200-300 for alleged 'support for terrorism,' with particular focus on students participating in pro-Palestinian protests and criticism of Israel's Gaza war. A Tufts student was detained for six weeks after co-writing an opinion piece criticizing Israel's conduct.

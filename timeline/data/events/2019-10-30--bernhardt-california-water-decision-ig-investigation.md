@@ -32,6 +32,10 @@ sources:
   date: 2022-02-17
   tier: 2
   outlet: San Joaquin Valley Sun
+capture_lanes:
+- Environmental Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 The Interior Department Inspector General opened an investigation into Secretary David Bernhardt's California water policy decisions that benefited Westlands Water District, his former lobbying client. The investigation examined whether Bernhardt violated ethics agreements by influencing new environmental rules for water deliveries to California's San Joaquin Valley via the Central Valley Project. In February 2019, Acting Secretary Bernhardt reportedly directed David Murillo, the Acting Commissioner for the Bureau of Reclamation, to roll back environmental protections for delta smelt and winter-run Chinook salmon in the San Francisco Bay Delta region. Bernhardt served as a lobbyist for Westlands until 2016, the year before he joined Interior as Deputy Secretary.

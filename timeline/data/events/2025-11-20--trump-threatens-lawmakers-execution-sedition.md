@@ -54,6 +54,10 @@ actors:
 - Katherine Clark
 - Pete Aguilar
 - Mike Johnson
+capture_lanes:
+- Environmental Capture
+- Digital & Tech Capture
+- Military-Industrial Complex
 ---
 
 On November 20, 2025, President Donald Trump posted on Truth Social calling for the arrest, trial, and execution of six Democratic members of Congress who had released a video two days earlier reminding military personnel of their constitutional duty to refuse illegal orders. Trump wrote: "This is really bad, and Dangerous to our Country. Their words cannot be allowed to stand. SEDITIOUS BEHAVIOR FROM TRAITORS!!! LOCK THEM UP???" Approximately 40 minutes later, he escalated with: "SEDITIOUS BEHAVIOR, punishable by DEATH!" He also posted: "It's called SEDITIOUS BEHAVIOR AT THE HIGHEST LEVEL. Each one of these traitors to our Country should be ARRESTED AND PUT ON TRIAL." Trump additionally reposted a Truth Social user who wrote: "HANG THEM GEORGE WASHINGTON WOULD !!" The targeted lawmakers are all military veterans or former intelligence officials: Senators Elissa Slotkin (Michigan) and Mark Kelly (Arizona), and Representatives Jason Crow (Colorado), Chris DeLuzio (Pennsylvania), Maggie Goodlander (New Hampshire), and Chrissy Houlahan (Pennsylvania).

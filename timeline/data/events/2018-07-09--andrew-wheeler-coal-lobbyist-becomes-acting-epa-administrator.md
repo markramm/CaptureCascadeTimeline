@@ -41,8 +41,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Revolving Door Corruption
-- Environmental Destruction
+- Environmental Capture
 ---
 
 On July 9, 2018, Donald Trump named Andrew Wheeler as Acting EPA Administrator following Scott Pruitt's resignation amid 14 federal corruption investigations. Wheeler, a former coal industry lobbyist who had represented Murray Energy—one of America's largest coal companies—embodied regulatory capture even more systematically than Pruitt. While Pruitt's tenure featured spectacular corruption scandals, Wheeler brought disciplined industry expertise to dismantling environmental protections with less public drama but potentially greater long-term damage to climate and environmental regulation.

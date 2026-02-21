@@ -31,6 +31,10 @@ sources:
   date: 2019-04-16
   tier: 1
   outlet: U.S. News & World Report
+capture_lanes:
+- Environmental Capture
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 The Senate confirmed David Bernhardt as Interior Secretary on April 11, 2019, by a vote of 56 to 41 despite extensive conflicts of interest from his career as an oil and gas lobbyist. A Center for American Progress analysis determined Bernhardt had the dubious distinction of being the most conflicted of all 31 of President Trump's Cabinet-level nominees, with 20 direct conflicts when comparing ethics filings with lobbying disclosure data. Bernhardt previously worked as a shareholder at Colorado law firm Brownstein Hyatt Farber Schreck, where he lobbied for oil, gas, and agricultural interests. Analysis by watchdog group Documented showed that Bernhardt's former lobbying clients had at least 70 meetings with the Department of the Interior while he served as Deputy Secretary.
