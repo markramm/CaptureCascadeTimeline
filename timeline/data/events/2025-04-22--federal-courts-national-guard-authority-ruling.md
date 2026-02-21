@@ -38,7 +38,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
-- Military Institutional Control
+- Military-Industrial Complex
 ---
 
 In a landmark ruling on April 22, 2025, the Ninth Circuit Court of Appeals established unprecedented guidelines for presidential authority to federalize state National Guard troops. The decision significantly expanded executive power by upholding the president's ability to deploy 4,000 National Guard members and 700 Marines to Los Angeles over California Governor Gavin Newsom's objections. The ruling, with a panel of two Trump-nominated and one Biden-nominated judges, interpreted Title 10 to allow presidential intervention when 'unable with regular forces to execute the laws of the United States'. Experts warned this decision could fundamentally alter the balance of power between federal and state governments, weakening state-level protections against federal military intervention.

@@ -15,7 +15,7 @@ tags:
 - enforcement
 - immigration
 capture_lanes:
-- Immigration & Border Militarization
+- Military-Industrial Complex
 citations:
 - https://tracreports.org/whatsnew/email.250801.html
 - https://www.axios.com/2025/08/05/ice-arrests-july-decline-immigrants

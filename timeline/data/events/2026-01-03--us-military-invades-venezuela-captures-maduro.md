@@ -32,6 +32,9 @@ actors:
 - Delta Force
 - Stephen Miller
 - Marco Rubio
+capture_lanes:
+- Military-Industrial Complex
+- Digital & Tech Capture
 ---
 
 US military forces launched 'Operation Absolute Resolve' against Venezuela beginning around 2:00 AM local time, conducting airstrikes on military installations across northern Venezuela to suppress air defenses. Delta Force operatives landed at President Nicolás Maduro's compound and captured him along with his wife Cilia Flores in an operation lasting less than 30 minutes. Maduro was flown to New York City to face narcoterrorism charges. The attack killed over 100 people including 32 Cuban military personnel, with 7 US service members injured. Defense Secretary Pete Hegseth declared 'Welcome to 2026' and bragged that 'Maduro f'd around and found out.' President Trump stated the US would 'run the country' of Venezuela temporarily. The Trump administration claimed 'inherent constitutional authority' for the operation, citing a 1989 memo by William Barr. UN Secretary General António Guterres called it 'a dangerous precedent.' The invasion marked the first US military capture of a foreign head of state since Panama's Manuel Noriega in 1989.

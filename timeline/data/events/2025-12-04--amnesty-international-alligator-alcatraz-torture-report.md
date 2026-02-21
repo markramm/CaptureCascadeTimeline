@@ -25,8 +25,8 @@ tags:
 - medical-neglect
 - florida
 capture_lanes:
-- Immigration & Border Militarization
-- Human Rights & Civil Liberties Violations
+- Military-Industrial Complex
+- Civil Rights Suppression
 sources:
 - title: Amnesty International report details human rights violations at Everglades and Krome detention centers
   url: https://www.wgcu.org/top-story/2025-12-04/amnesty-international-report-details-human-rights-violations-at-everglades-and-krome-detention-centers

@@ -9,8 +9,8 @@ tags:
 - supreme-court
 - judicial-conflict
 capture_lanes:
-- Immigration & Border Militarization
-- Judicial Capture & Corruption
+- Military-Industrial Complex
+- Judicial Capture
 citations:
 - https://www.supremecourt.gov/opinions/23pdf/23a814_febh.pdf
 - https://www.texastribune.org/2024/03/19/texas-illegal-immigration-supreme-court-sb-4
@@ -32,8 +32,7 @@ sources:
   outlet: Supreme Court
   date: '2024-03-19'
   archive_url: https://web.archive.org/web/20240815000000/https://www.supremecourt.gov/opinions/23pdf/23a814_febh.pdf
-- title: Supreme Court permits Texas police to arrest people who illegally cross the
-    border as the SB 4 legal clash continues
+- title: Supreme Court permits Texas police to arrest people who illegally cross the border as the SB 4 legal clash continues
   url: https://www.texastribune.org/2024/03/19/texas-illegal-immigration-supreme-court-sb-4
   outlet: Texas Tribune
   date: '2024-03-19'
@@ -43,8 +42,7 @@ sources:
   outlet: NPR
   date: '2024-03-19'
   notes: Detailed coverage of the legal complexities and potential implications
-- title: Supreme Court lets Texas detain and jail migrants under SB4 immigration law
-    as legal battle continues
+- title: Supreme Court lets Texas detain and jail migrants under SB4 immigration law as legal battle continues
   url: https://www.cbsnews.com/news/supreme-court-texas-sb4-immigration-law/
   outlet: CBS News
   date: '2024-03-19'

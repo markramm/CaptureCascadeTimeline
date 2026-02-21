@@ -16,8 +16,8 @@ tags:
 - private-prisons
 - human-rights-violations
 capture_lanes:
-- Immigration & Border Militarization
-- Corporate Capture & Regulatory Breakdown
+- Military-Industrial Complex
+- Regulatory Capture
 sources:
 - title: Detainee Death Reporting
   url: https://www.ice.gov/detain/detainee-death-reporting

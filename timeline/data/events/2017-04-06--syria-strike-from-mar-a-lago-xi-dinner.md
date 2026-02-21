@@ -33,6 +33,10 @@ sources:
   tier: 1
   outlet: PBS NewsHour
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Systematic Corruption
+- Labor Suppression
 ---
 
 On April 6, 2017, President Trump ordered the first direct U.S. military action against the Assad regime—launching 59 Tomahawk missiles at Shayrat air base in Syria—from his private Mar-a-Lago club while hosting Chinese President Xi Jinping for a state dinner. At approximately 8:40 PM, as Trump and Xi finished their entrees of steak and pan-seared sole, the USS Porter and USS Ross destroyers in the Eastern Mediterranean fired missiles at Syrian airstrips, hangars, and ammunition depots in response to Assad's chemical weapons attack that killed over 100 civilians. Trump announced the strike to reporters at Mar-a-Lago, turning a grave military decision into dinner theater for his private club's paying members who had purchased $200,000 memberships for access to the president. Secretary of State Rex Tillerson explicitly framed the strike as sending a message to China about resolve regarding North Korea, using American servicemembers and military force as props in Trump's diplomatic posturing from his profit-making resort. Trump ordered the action without Congressional authorization, violating constitutional war powers and setting a precedent for unilateral military decisions made from private property. The spectacle demonstrated how Trump's refusal to divest from his businesses created systematic corruption: foreign leaders and wealthy Americans paid to witness presidential decision-making firsthand, while Trump used military might to impress dinner guests at his club. Russia condemned the strikes, with Putin's spokesman calling them based on a made-up pretext and warning of negative consequences.

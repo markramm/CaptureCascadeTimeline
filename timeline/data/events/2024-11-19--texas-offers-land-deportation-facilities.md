@@ -16,11 +16,10 @@ tags:
 - land-appropriation
 - mass-deportation-planning
 capture_lanes:
-- Immigration & Border Militarization
-- Executive Power & Emergency Authority
+- Military-Industrial Complex
+- Executive Power Expansion
 sources:
-- title: Texas Land Commissioner Buckingham Offers Trump Administration Over 1,400
-    Acres in Starr County
+- title: Texas Land Commissioner Buckingham Offers Trump Administration Over 1,400 Acres in Starr County
   url: https://www.glo.texas.gov/about-glo/press-releases/texas-land-commissioner-buckingham-offers-trump-administration-over-1400
   outlet: Texas General Land Office
   date: '2024-11-19'
@@ -32,10 +31,7 @@ sources:
   url: https://www.texastribune.org/2024/11/26/texas-donald-trump-deportation-land-offer/
   outlet: Texas Tribune
   date: '2024-11-26'
-notes: Property is flat farmland currently yielding onions, grain sorghum, corn and
-  soybeans. Buckingham stated "We are completely united with President Trump to rid
-  our country of illegal, violent criminals." Represents state-level coordination
-  for federal deportation infrastructure before Trump takes office.
+notes: Property is flat farmland currently yielding onions, grain sorghum, corn and soybeans. Buckingham stated "We are completely united with President Trump to rid our country of illegal, violent criminals." Represents state-level coordination for federal deportation infrastructure before Trump takes office.
 status: confirmed
 ---
 

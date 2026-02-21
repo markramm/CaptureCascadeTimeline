@@ -23,6 +23,8 @@ sources:
   outlet: BBC
   tier: 1
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Danish Prime Minister Mette Frederiksen warned that any US attack on a NATO ally would be "the end of everything," stating: "If the United States chooses to attack another NATO country militarily, then everything stops. That is, including our NATO and thus the security that has been provided since the end of the Second World War." The unprecedented warning came days after the White House confirmed military force remained "an option" for acquiring Greenland. Frederiksen urged the Trump administration to "stop the threats" against Denmark and Greenland.

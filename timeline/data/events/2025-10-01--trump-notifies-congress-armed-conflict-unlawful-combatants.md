@@ -23,6 +23,9 @@ actors:
 - Donald Trump
 - U.S. Congress
 - Jack Reed
+capture_lanes:
+- Military-Industrial Complex
+- Legislative Capture
 ---
 
 President Trump formally notified Congress of a 'non-international armed conflict' with 'unlawful combatants' in the Caribbean, providing legal cover for ongoing military strikes on suspected drug vessels. The notification came one month after the controversial September 2 'double tap' strike that killed 11 people including two shipwrecked survivors. The classification of targets as 'unlawful combatants' echoed Bush-era War on Terror legal frameworks. Critics argued the designation was designed to deny targets legal protections under international humanitarian law, including Geneva Convention protections for shipwrecked persons. Senator Jack Reed, Armed Services Committee ranking member, stated the administration provided 'no legitimate legal justification' for the strikes.

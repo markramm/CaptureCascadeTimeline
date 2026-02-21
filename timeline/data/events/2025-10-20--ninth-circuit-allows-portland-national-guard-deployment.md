@@ -35,6 +35,10 @@ sources:
   date: '2025-10-28'
   tier: 2
   outlet: Oregon Capital Chronicle
+capture_lanes:
+- Military-Industrial Complex
+- Intelligence Penetration
+- Judicial Capture
 ---
 
 A three-judge panel of the U.S. Court of Appeals for the Ninth Circuit ruled 2-1 to overturn a district court order blocking President Trump's deployment of approximately 200 Oregon National Guard troops to protect a Portland ICE facility. Circuit Judges Ryan D. Nelson and Bridget S. Bade formed the majority, while Judge Susan P. Graber dissented.

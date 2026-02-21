@@ -37,6 +37,10 @@ tags:
 - pete-hegseth
 - stephen-miller
 title: 'Trump Officials Flee to Military Bases: Miller, Noem, Hegseth, Rubio Create Militarized "Green Zone"'
+capture_lanes:
+- Military-Industrial Complex
+- Executive Power Expansion
+- Media Capture & Control
 ---
 
 On October 30, 2025, multiple senior Trump administration officials relocated to military housing on U.S. bases in the Washington D.C. area, citing security threats from protesters following the assassination of activist Charlie Kirk. The moves create what critics describe as a militarized "Trump Green Zone" that physically isolates top officials from the American public while straining military resources and deepening the administration's dependence on military infrastructure for governance.

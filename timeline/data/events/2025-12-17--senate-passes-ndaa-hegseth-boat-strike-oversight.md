@@ -70,4 +70,8 @@ sources:
   tier: 2
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Legislative Capture
+- Labor Suppression
 ---

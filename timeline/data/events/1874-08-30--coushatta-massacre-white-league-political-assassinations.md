@@ -10,15 +10,15 @@ actors:
 - Marshall Twitchell
 - Louisiana Board of Trade
 sources:
-- title: 'Coushatta Massacre'
+- title: Coushatta Massacre
   outlet: 64 Parishes
   url: https://64parishes.org/entry/coushatta-massacre
   year: 2024
-- title: 'Coushatta massacre'
+- title: Coushatta massacre
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Coushatta_massacre
   year: 2024
-- title: 'White League and Red Shirts in Reconstruction'
+- title: White League and Red Shirts in Reconstruction
   outlet: Brewminate
   url: https://brewminate.com/white-league-and-red-shirts-racist-paramilitary-terror-in-the-late-19th-century-america/
   year: 2024
@@ -29,9 +29,7 @@ tags:
 - institutional-capture
 - elite-impunity
 capture_lanes:
-- Paramilitary Terrorism
-- Democratic Party Violence
-- Reconstruction Overthrow
+- Military-Industrial Complex
 status: confirmed
 ---
 

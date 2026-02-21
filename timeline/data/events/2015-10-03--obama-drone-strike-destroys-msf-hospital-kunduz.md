@@ -38,6 +38,10 @@ sources:
   date: '2016-04-29'
   tier: 1
   outlet: Human Rights Watch
+capture_lanes:
+- Military-Industrial Complex
+- Labor Suppression
+- Intelligence Penetration
 ---
 
 A U.S. Air Force AC-130 gunship launches sustained airstrikes against a Doctors Without Borders (Médecins Sans Frontières) hospital in Kunduz, Afghanistan, killing 42 people including 14 staff members, 24 patients, and 4 caretakers. The attacks continue for more than an hour despite frantic phone calls from MSF to U.S. and Afghan military officials identifying the facility as a protected medical facility and pleading for the strikes to stop. The hospital destruction represents one of the most clear-cut violations of international humanitarian law in the Afghan War, targeting a clearly marked medical facility known to all parties, killing medical staff actively treating patients, and continuing even after being informed of the catastrophic error.

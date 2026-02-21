@@ -36,7 +36,7 @@ priority_id: geopolitics-15ecda65
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Military Strategic Operations
+- Military-Industrial Complex
 status: confirmed
 ---
 

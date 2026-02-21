@@ -20,7 +20,7 @@ tags:
 - domestic-politics
 - protest-suppression
 capture_lanes:
-- Military Politicization
+- Military-Industrial Complex
 sources:
 - title: Milley Says Accompanying Trump To Church Photo-Op Was A Mistake
   url: https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/06/11/875019346/gen-mark-milley-says-accompanying-trump-to-church-photo-op-was-a-mistake
@@ -35,9 +35,7 @@ sources:
   outlet: NPR
   date: '2020-06-11'
 status: confirmed
-notes: A pivotal moment demonstrating potential military involvement in domestic political
-  theater, with significant implications for civilian-military relationships. Milley's
-  public apology underscores the gravity of maintaining military neutrality.
+notes: A pivotal moment demonstrating potential military involvement in domestic political theater, with significant implications for civilian-military relationships. Milley's public apology underscores the gravity of maintaining military neutrality.
 ---
 
 Joint Chiefs Chairman General Mark Milley accompanied President Trump to Lafayette Square for a controversial photo opportunity at St. John's Church, following a forcible clearing of peaceful protesters using tear gas and rubber bullets. Dressed in military camouflage, Milley's presence created an immediate perception of military support for political actions. Within days, he publicly apologized, acknowledging that his presence 'created a perception of the military involved in domestic politics'. Subsequent investigations revealed complex circumstances around the protest clearing, with the U.S. Park Police claiming they had not specifically cleared the area for Trump's photo opportunity.

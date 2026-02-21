@@ -22,6 +22,8 @@ sources:
   outlet: CBS News
   tier: 1
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Trump escalated threats against Greenland, stating: "I would like to make a deal the easy way but if we don't do it the easy way, we're going to do it the hard way. We are going to do something on Greenland whether they like it or not. Because if we don't do it, Russia or China will take over Greenland." In response, all major Greenlandic political parties issued an unprecedented joint statement: "We do not want to be Americans, we do not want to be Danes, we want to be Greenlanders." Prime Minister Mute Egede declared: "Greenland is ours. We are not for sale and will never be for sale."

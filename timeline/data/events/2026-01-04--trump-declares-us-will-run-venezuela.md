@@ -27,6 +27,8 @@ actors:
 - Stephen Miller
 - JD Vance
 - Nicolas Maduro
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 One day after US military forces captured Venezuelan President Nicolás Maduro, President Trump declared the United States would 'run the country' of Venezuela until there is a 'safe, proper and judicious transition.' Stephen Miller defended the statement on CNN, saying 'By definition, that's true.' Vice President JD Vance stated he chairs regular meetings on Venezuela stability and that the US would 'dictate policy' to Venezuela: 'You're allowed to sell the oil, so long as you serve America's national interest.' Vance emphasized geographic proximity: 'This is in our neighborhood... the United States calls the shots.' The administration dismissed War Powers Act restrictions as 'fake and unconstitutional.' Vance justified military action: 'Are we just supposed to allow a communist to steal our stuff in our hemisphere and do nothing?' Two oil tankers were seized by the US as part of an oil blockade of Venezuela.

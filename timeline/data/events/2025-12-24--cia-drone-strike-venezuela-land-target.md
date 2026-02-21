@@ -19,6 +19,10 @@ type: political
 actors:
 - CIA
 - Venezuela
+capture_lanes:
+- Military-Industrial Complex
+- Labor Suppression
+- Surveillance Infrastructure
 ---
 
 The CIA conducted a drone strike on a marine facility in Venezuela on Christmas Eve, marking the first land-based attack in Operation Southern Spear and a significant escalation from maritime strikes. The strike targeted a drug boat loading facility and caused no reported casualties. The attack demonstrated the expansion of US military operations from international waters to Venezuelan sovereign territory. The strike came one week after Trump announced the naval blockade of Venezuelan oil tankers and set the stage for the January 3, 2026 military operation that would capture President Maduro. Congressional Democrats condemned the strike as unauthorized military action against a sovereign nation.

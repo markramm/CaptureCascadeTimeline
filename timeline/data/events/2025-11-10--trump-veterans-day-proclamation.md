@@ -28,6 +28,10 @@ sources:
   tier: 2
   outlet: Military.com
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Executive Power Expansion
+- Financial Capture
 ---
 
 President Trump issued his Veterans Day proclamation on November 10, 2025, proclaiming November 11 as Veterans Day and calling on Americans to honor military veterans through public ceremonies and private reflection. The proclamation opened with traditional language: 'The story of America is written with the courage, honor, and dedicated service of our veterans. Through their sacrifice, the fires of freedom burn brightly, our Republic secured, and our way of life made possible.' Trump called upon Federal, State, and local officials to display the flag and participate in patriotic activities honoring veterans.

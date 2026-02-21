@@ -50,6 +50,9 @@ sources:
   tier: 2
   outlet: MSNBC
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Digital & Tech Capture
 ---
 
 On July 7, 2025, Border Patrol Commander Gregory Bovino led a military-style immigration enforcement operation in MacArthur Park, Los Angeles, deploying agents on horseback, in armored vehicles, and with helicopter support while over 20 children were attending a summer camp in the park. Video footage shows Bovino personally manning a tear gas canister as children and families fled. When LA Mayor Karen Bass arrived and demanded the operation cease, Bovino openly defied her authority, declaring: "I don't work for Karen Bass. Better get used to us now, because this is going to be normal very soon. We will go anywhere, anytime we want in Los Angeles."

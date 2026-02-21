@@ -18,6 +18,8 @@ sources:
   tier: 2
   outlet: Popular Information
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Immigration and Customs Enforcement increased its weapons budget to over $71 million—a 700% surge—including acquisitions of guided missile warheads and explosive components. The massive militarization of immigration enforcement signals preparation for violent mass operations rather than traditional law enforcement activities. ICE's procurement of military-grade weaponry including guided missiles goes far beyond equipment needed for immigration enforcement, suggesting plans for armed conflict scenarios. The weapons spending surge coincides with Trump's mass deportation campaign and increasingly militarized enforcement tactics. Popular Information's investigation revealed the systematic transformation of ICE from immigration enforcement agency to paramilitary force equipped with weapons designed for warfare. The buildup demonstrates Trump administration's willingness to employ military-level violence in domestic immigration operations.

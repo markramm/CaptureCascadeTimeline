@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: U.S. Marine Corps
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Media Capture & Control
+- Legislative Capture
 ---
 
 President Trump issued a proclamation on November 10, 2025, commemorating the 250th anniversary of the founding of the United States Marine Corps, established by the Second Continental Congress on November 10, 1775. The proclamation highlighted pivotal moments in Marine Corps history, including the first combat operation at Nassau in 1776, the Battle of Belleau Wood in World War I where Marines earned the nickname 'Devil Dogs,' and major Pacific theater victories at Guadalcanal, Iwo Jima, and Okinawa during World War II. The proclamation dedicated substantial focus to the February 19, 1945 Battle of Iwo Jima, noting that '22 Marines received the Medal of Honor for their valor, the most ever awarded for a single battle in American history.'

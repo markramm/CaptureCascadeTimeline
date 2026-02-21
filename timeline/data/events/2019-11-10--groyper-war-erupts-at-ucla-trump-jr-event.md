@@ -25,6 +25,8 @@ sources:
   outlet: Institute for Research & Education on Human Rights
   tier: 1
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Nick Fuentes and his "Groyper Army" followers disrupted a Turning Point USA promotional event for Donald Trump Jr.'s book "Triggered" at UCLA, forcing the event to end after just 30 minutes instead of the planned two hours. The event, featuring Trump Jr., Charlie Kirk, and Kimberly Guilfoyle, had its Q&A portion preemptively canceled in anticipation of hostile questions from Groypers about immigration, Israel, and LGBT rights. The disruption exposed a growing far-right schism within the conservative movement, with white nationalists challenging mainstream conservative figures they viewed as insufficiently hardline. Fuentes celebrated on Telegram: "What a HUGE victory today... Cannot be understated what an incredible win we saw at UCLA." The incident marked a major escalation in the "Groyper Wars," a campaign targeting Turning Point USA events across college campuses to push conservatives toward white nationalist positions. The confrontation demonstrated growing ideological fractures on the right between establishment conservatives and the emerging white nationalist "America First" movement.

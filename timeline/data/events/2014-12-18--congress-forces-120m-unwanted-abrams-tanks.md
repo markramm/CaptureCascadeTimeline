@@ -33,6 +33,10 @@ actors:
 - Ray Odierno
 - Rob Portman
 - Sherrod Brown
+capture_lanes:
+- Military-Industrial Complex
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Congress included $120 million for Abrams tank upgrades in the FY2015 National Defense Authorization Act, marking the third consecutive year lawmakers overrode Army leadership requests to suspend tank production—the first such production halt proposed since World War II. Representative Mike Turner (R-Ohio) stated that "Congress recognizes the necessity of the Abrams tank to our national security and authorizes an additional $120 million for Abrams tank upgrades," directly contradicting Army Chief of Staff General Ray Odierno's repeated testimony that the service possessed sufficient inventory with tanks averaging only 2.5 years old. The appropriation brought total unwanted tank funding to nearly $436 million over three years (2012-2014), converting defense procurement into a jobs program for General Dynamics' Lima, Ohio plant despite explicit military objections and zero operational need.

@@ -23,11 +23,9 @@ tags:
 - colonial-exploitation
 - imperialism
 capture_lanes:
-- Military Intervention for Corporate Interests
-- Overthrow of Democratic Government
-- Indigenous Sovereignty Theft
-- Diplomatic Corruption
-- Illegal Annexation
+- Military-Industrial Complex
+- Civil Rights Suppression
+- International Kleptocracy
 sources:
 - title: Overthrow of the Hawaiian Kingdom
   url: https://en.wikipedia.org/wiki/Overthrow_of_the_Hawaiian_Kingdom

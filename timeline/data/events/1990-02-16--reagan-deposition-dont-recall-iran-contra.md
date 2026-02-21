@@ -29,6 +29,10 @@ sources:
   date: 1993-08-04
   tier: 1
   outlet: Federation of American Scientists
+capture_lanes:
+- Military-Industrial Complex
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Former President Ronald Reagan is questioned under oath in a videotaped deposition for the trial of former National Security Advisor John Poindexter, providing 293 pages of testimony in which he repeatedly claims he cannot recall virtually any specific details of the Iran-Contra affair. Reagan's extensive use of "I don't recall" and "I don't remember" becomes characteristic of his testimony strategy, allowing him to avoid providing incriminating information while technically not committing perjury.

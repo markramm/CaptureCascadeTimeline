@@ -10,17 +10,17 @@ actors:
 - Hugh Thompson Jr. (helicopter pilot who intervened)
 - U.S. Army
 sources:
-- title: 'My Lai massacre'
+- title: My Lai massacre
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/My_Lai_massacre
   verified: true
   tier: 1
-- title: 'The My Lai Massacre'
+- title: The My Lai Massacre
   outlet: PBS American Experience
   url: https://www.pbs.org/wgbh/americanexperience/features/vietnam-my-lai-massacre/
   verified: true
   tier: 1
-- title: 'Meet the Participants'
+- title: Meet the Participants
   outlet: PBS American Experience
   url: https://www.pbs.org/wgbh/americanexperience/features/my-lai-selected-men-involved-my-lai/
   verified: true
@@ -32,9 +32,8 @@ tags:
 - institutional-corruption
 - cover-up
 capture_lanes:
-- Military Chain of Command Failure
-- War Crime Concealment
-- Institutional Cover-Up
+- Military-Industrial Complex
+- Systematic Corruption
 status: confirmed
 ---
 

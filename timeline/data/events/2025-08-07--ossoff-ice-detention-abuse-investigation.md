@@ -17,8 +17,8 @@ tags:
 - congressional-investigation
 - human-rights-violations
 capture_lanes:
-- Immigration & Border Militarization
-- Constitutional & Democratic Breakdown
+- Military-Industrial Complex
+- Democratic Erosion
 sources:
 - title: The Abuse of Pregnant Women & Children in U.S. Immigration Detention
   url: https://www.ossoff.senate.gov/wp-content/uploads/2025/08/250721_Pregnancy_Report_v7.pdf

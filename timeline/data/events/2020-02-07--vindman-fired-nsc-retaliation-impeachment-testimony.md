@@ -8,9 +8,8 @@ actors:
 - David Pressman
 - Adam Schiff
 capture_lanes:
-- Military Politicization
-- Executive Branch Corruption
-- Constitutional Subversion
+- Military-Industrial Complex
+- Executive Power Expansion
 date: '2020-02-07'
 id: 2020-02-07--vindman-fired-nsc-retaliation-impeachment-testimony
 importance: 8
@@ -26,14 +25,12 @@ sources:
   outlet: Military Times
   date: '2020-02-08'
   verified: true
-- title: Alexander Vindman, NSC official who testified in impeachment trial, removed
-    from White House
+- title: Alexander Vindman, NSC official who testified in impeachment trial, removed from White House
   url: https://www.cbsnews.com/news/alexander-vindman-removed-from-white-house-today/
   outlet: CBS News
   date: '2020-02-07'
   verified: true
-- title: Lt. Col. Vindman's former Army commander pushes back on Trump's decision
-    to dismiss officer from National Security Council staff
+- title: Lt. Col. Vindman's former Army commander pushes back on Trump's decision to dismiss officer from National Security Council staff
   url: https://www.armytimes.com/news/your-army/2020/02/10/lt-col-vindmans-former-army-commander-pushes-back-on-trumps-decision-to-dismiss-officer-from-national-security-council-staff/
   outlet: Army Times
   date: '2020-02-11'

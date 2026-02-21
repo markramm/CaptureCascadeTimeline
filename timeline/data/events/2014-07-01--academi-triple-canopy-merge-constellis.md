@@ -29,6 +29,10 @@ sources:
   tier: 3
   outlet: Ryan J. Hite
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Corporate Capture
+- Intelligence Penetration
 ---
 
 Academi (the entity formerly known as Blackwater, then Xe Services) merged with rival private military contractor Triple Canopy to form Constellis Holdings, representing the third major corporate transformation of the Blackwater organization in seven years. The merger consolidated multiple private military companies including Triple Canopy, Constellis Ltd., Strategic Social, Tidewater Global Services, National Strategic Protective Services, ACADEMI Training Center, and International Development Solutions under a single corporate umbrella.

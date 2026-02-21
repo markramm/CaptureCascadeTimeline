@@ -13,7 +13,7 @@ sources:
   url: https://cherrieswriter.com/2024/07/05/from-helicopters-to-grenades-manufacturing-during-the-vietnam-war/
   verified: true
   tier: 2
-- title: 'Understanding the Vietnam War Machine'
+- title: Understanding the Vietnam War Machine
   outlet: Jacobin
   url: https://jacobin.com/2018/06/namric-antiwar-research-vietnam-war
   verified: true
@@ -24,9 +24,8 @@ tags:
 - corporate-corruption
 - government-waste
 capture_lanes:
-- Defense Contractor Profiteering
-- Military-Industrial Complex Growth
-- War-Driven Corporate Expansion
+- Military-Industrial Complex
+- Corporate Capture
 status: confirmed
 ---
 

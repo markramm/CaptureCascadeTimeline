@@ -17,20 +17,17 @@ sources:
   title: 'Senate Intel Report: Administration Dishonest in Lead-up to Iraq War'
   url: https://www.propublica.org/article/senate-intelligence-report-bush-administration-dishonest-about-iraq-threat
   date_accessed: '2025-10-17'
-  description: Detailed report on systemic misinformation campaign preceding the Iraq
-    War
+  description: Detailed report on systemic misinformation campaign preceding the Iraq War
 - outlet: ProPublica
   title: Official History Spotlights Iraq Rebuilding Blunders
   url: https://www.propublica.org/article/hard-lessons-from-the-reconstruction-of-iraq-1213
   date_accessed: '2025-10-17'
-  description: Official history revealing the systematic manipulation of public perception
-    about the Iraq War
+  description: Official history revealing the systematic manipulation of public perception about the Iraq War
 - outlet: U.S. Congressional Record
   title: Documented Evidence of WHIG Media Coordination (November 10, 2005)
   url: https://www.govinfo.gov/content/pkg/CREC-2005-11-10/html/CREC-2005-11-10-pt1-PgS12636.htm
   date: '2005-11-10'
-  description: Official Congressional documentation revealing the coordinated media
-    campaign about Iraq WMDs in September 2002
+  description: Official Congressional documentation revealing the coordinated media campaign about Iraq WMDs in September 2002
 tags:
 - whig
 - iraq-war
@@ -45,11 +42,11 @@ actors:
 - George W. Bush
 - Andrew H. Card Jr.
 - Colin Powell
-analysis_notes: Systematic media manipulation campaign demonstrating how institutional
-  networks can coordinate messaging across multiple media platforms. Key strategy
-  involved creating emotional narrative through repeated use of 'mushroom cloud' imagery
-  to build support for military intervention. Senate Intelligence Committee investigation
-  confirmed widespread misinformation campaign designed to justify invasion.
+analysis_notes: Systematic media manipulation campaign demonstrating how institutional networks can coordinate messaging across multiple media platforms. Key strategy involved creating emotional narrative through repeated use of 'mushroom cloud' imagery to build support for military intervention. Senate Intelligence Committee investigation confirmed widespread misinformation campaign designed to justify invasion.
+capture_lanes:
+- Military-Industrial Complex
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 WHIG launches systematic media campaign with Bush administration officials appearing across all major networks in coordinated messaging offensive. Condoleezza Rice delivers "smoking gun to be a mushroom cloud" message on CNN while Cheney appears on Meet the Press and Bush makes CBS appearance. Campaign demonstrates successful implementation of Powell Memo institutional coordination principles accelerated through crisis exploitation, providing blueprint for future rapid democratic transformation efforts. Later Senate Intelligence Committee investigation revealed that administration officials repeatedly presented intelligence as fact when it was unsubstantiated or even non-existent, systematically misleading the American public about the threat from Iraq.

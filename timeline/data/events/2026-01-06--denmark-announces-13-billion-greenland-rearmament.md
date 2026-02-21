@@ -24,6 +24,8 @@ actors:
 - Jens-Frederik Nielsen
 - Denmark
 - Greenland
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Danish Prime Minister Mette Frederiksen announced $13.8 billion in new defense spending to rearm Greenland following Trump administration threats of military force to acquire the territory. Frederiksen delivered a forceful warning: 'If the United States chooses to attack another NATO country militarily, then everything stops, including NATO and thus the security that has been established since the end of the Second World War. I therefore strongly urge the United States to cease its threats against a historically close ally.' She stated unequivocally that 'The U.S. has no right to annex any of the three countries in the Danish Kingdom' and 'I believe one should take the American president seriously when he says that he wants Greenland.' Greenland's Prime Minister Jens-Frederik Nielsen also responded: 'Our country is not for sale, and our future is not decided by social media posts. Greenland is not for sale. Greenland belongs to the Greenlandic people.'

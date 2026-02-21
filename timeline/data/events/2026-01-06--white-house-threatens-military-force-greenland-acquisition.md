@@ -34,6 +34,8 @@ actors:
 - NATO
 - John Kennedy
 - Mitch McConnell
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 White House press secretary Karoline Leavitt stated that President Trump is 'discussing a range of options' to acquire Greenland and that 'utilizing the U.S. military is always an option.' Stephen Miller declared it Washington's 'formal position' that 'Greenland should be part of the US' and claimed 'nobody is going to fight the United States militarily over the future of Greenland.' The threats came days after the US military invasion of Venezuela demonstrated Trump's willingness to use force against sovereign nations. Seven NATO allies—France, Germany, Italy, Poland, Spain, UK, and Denmark—issued a joint statement defending Greenland's sovereignty. Nordic foreign ministers separately reaffirmed Arctic security principles. Danish Prime Minister Mette Frederiksen warned that a US attack on a NATO ally would mean 'everything stops, including NATO.' Denmark announced $13.8 billion in spending to rearm Greenland. Republican Senator John Kennedy called the invasion talk 'weapons-grade stupid,' while Senate Majority Leader Mitch McConnell called the threats 'as unseemly as they are counterproductive.'

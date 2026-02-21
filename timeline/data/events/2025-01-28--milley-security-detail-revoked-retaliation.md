@@ -6,8 +6,8 @@ actors:
 - Iranian Regime
 - Donald Trump
 capture_lanes:
-- Military Politicization
-- Executive Branch Corruption
+- Military-Industrial Complex
+- Executive Power Expansion
 date: '2025-01-28'
 id: 2025-01-28--milley-security-detail-revoked-retaliation
 importance: 9
@@ -25,8 +25,7 @@ sources:
   verified: true
 - date: '2025-01-29'
   outlet: The Hill
-  title: Trump's Milley retribution sends chilling signal to military brass, critics
-    say
+  title: Trump's Milley retribution sends chilling signal to military brass, critics say
   url: https://thehill.com/policy/defense/5114471-trump-milley-security-revoked/
   verified: true
 - date: '2025-01-29'

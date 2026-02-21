@@ -19,8 +19,8 @@ tags:
 - financial-waste
 - hurricane-risk
 capture_lanes:
-- Immigration & Border Militarization
-- Financial Corruption & Kleptocracy
+- Military-Industrial Complex
+- International Kleptocracy
 sources:
 - title: Alligator Alcatraz - Florida builds migrant detention center
   url: https://www.npr.org/2025/06/24/nx-s1-5443268/alligator-alcatraz-florida-everglades-migrant-detention-center

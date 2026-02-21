@@ -35,7 +35,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial Capture
-- War Profiteering
+- Military-Industrial Complex
 ---
 
 In August 1914, as World War I erupted in Europe, JP Morgan & Co. approached the U.S. government about making loans to the French Government and the Rothschilds. Despite Secretary of State William Jennings Bryan's principled position that "loans by American bankers to any foreign nation which is at war are inconsistent with the true spirit of neutrality," President Woodrow Wilson rejected Bryan's advice and declined to prohibit U.S. citizens from lending to belligerents. Wilson urged Americans to be "impartial in thought as well as in action," but American banks and investors ignored this advice and bought billions of dollars of British and French government bonds. JP Morgan & Co. marketed those bonds to U.S. citizens and served as sole purchasing agent for British and French governments when they purchased billions in war supplies from U.S. producers—earning an 8.3 percent commission that netted over $200 million in profits. As Morgan partner Thomas Lamont later candidly admitted: "At the outbreak of the war in Europe, American citizens were urged to remain neutral in action, in word, and even in thought. Our firm had never for one moment been neutral; we didn't know how to be. From the very start we did everything we could to contribute to the cause of the Allies."

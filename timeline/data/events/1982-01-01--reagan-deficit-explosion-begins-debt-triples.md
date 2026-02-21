@@ -37,6 +37,9 @@ sources:
   outlet: Miller Center (University of Virginia)
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Military-Industrial Complex
+- Financial Capture
 ---
 
 The national debt under President Reagan explodes from $997 billion in 1981 to $2.9 trillion by 1989, representing an increase of 186% and adding approximately $1.9 trillion in new debt during his eight-year presidency. Annual budget deficits average 4.0% of GDP during Reagan's tenure, compared to 2.2% during the previous eight years, with deficits never falling below $153 billion between 1983-1989 and reaching $221 billion in 1986. The debt explosion directly contradicts supply-side economic theory, which promised that tax cuts would generate enough economic growth to offset revenue losses and balance the budget.

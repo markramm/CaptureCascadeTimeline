@@ -36,8 +36,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- war-profiteering
-- corporate-influence
+- Military-Industrial Complex
+- Corporate Capture
 ---
 
 Congress passes the Renegotiation Act on April 28, 1942, establishing a process to recapture "excessive profits" from war contractors. While presented as a check on war profiteering, the act's weak enforcement mechanisms and industry-friendly implementation allow most excessive profits to remain in corporate hands.

@@ -28,6 +28,8 @@ sources:
   outlet: Washington Post
   tier: 1
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Trump announced a ceasefire brokered with Qatar's help, ending the twelve-day Israel-Iran war. Despite initial violations by both sides - Trump posted "ISRAEL. DO NOT DROP THOSE BOMBS. IF YOU DO IT IS A MAJOR VIOLATION. BRING YOUR PILOTS HOME, NOW!" and called Netanyahu to abort a retaliatory strike while Israeli jets were already en route - the ceasefire ultimately held. The conflict had killed over 1,062 Iranians and 28 Israelis (27 civilians including a 95-year-old Holocaust survivor and 7-year-old Ukrainian cancer patient). Iran had launched 550+ ballistic missiles and 1,000+ suicide drones at Israel, with Israeli/American defenses achieving approximately 90% interception.

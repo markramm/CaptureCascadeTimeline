@@ -9,12 +9,12 @@ actors:
 - Secretary of the Army Howard Callaway
 - Lieutenant General William Peers
 sources:
-- title: 'William Calley'
+- title: William Calley
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/William_Calley
   verified: true
   tier: 1
-- title: 'William Calley Jr. and the My Lai Massacre'
+- title: William Calley Jr. and the My Lai Massacre
   outlet: New Georgia Encyclopedia
   url: https://www.georgiaencyclopedia.org/articles/history-archaeology/william-calley-jr-and-the-my-lai-massacre/
   verified: true
@@ -31,9 +31,7 @@ tags:
 - military-corruption
 - accountability-failure
 capture_lanes:
-- Military Justice Failure
-- Command Responsibility Evasion
-- War Crime Impunity
+- Military-Industrial Complex
 status: confirmed
 ---
 

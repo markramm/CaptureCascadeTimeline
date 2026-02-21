@@ -24,6 +24,9 @@ sources:
   outlet: Wikipedia
   tier: 3
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Labor Suppression
 ---
 
 As part of Israel's surprise attack on Iran, the IDF and Mossad conducted "Operation Red Wedding," killing 30 Iranian generals in near-simultaneous strikes, including three of Iran's most senior military commanders. A parallel operation, "Operation Narnia," killed 9 senior nuclear scientists working on Iran's weapons program. Mossad operatives and commandos had pre-positioned precision weapons and established a covert drone base near Tehran to disable air defenses. The coordinated decapitation strike, combined with attacks on nuclear facilities using over 200 fighter jets and 330 munitions, represented the largest Israeli military operation against Iran in history.

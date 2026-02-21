@@ -8,17 +8,17 @@ actors:
 - U.S. Congress
 - Congressman Alexander Pirnie
 sources:
-- title: 'Vietnam Lotteries'
+- title: Vietnam Lotteries
   outlet: Selective Service System
   url: https://www.sss.gov/history-and-records/vietnam-lotteries/
   verified: true
   tier: 1
-- title: 'The Vietnam War Selective Service Lottery and the U.S. Draft'
+- title: The Vietnam War Selective Service Lottery and the U.S. Draft
   outlet: HistoryNet
   url: https://www.historynet.com/whats-your-number/
   verified: true
   tier: 2
-- title: 'The Military Draft During the Vietnam War'
+- title: The Military Draft During the Vietnam War
   outlet: University of Michigan
   url: https://michiganintheworld.history.lsa.umich.edu/antivietnamwar/exhibits/show/exhibit/draft_protests/the-military-draft-during-the-
   verified: true
@@ -29,9 +29,7 @@ tags:
 - government-deception
 - systematic-corruption
 capture_lanes:
-- Class-Based Military Service
-- Educational Privilege System
-- Draft System Inequity
+- Military-Industrial Complex
 status: confirmed
 ---
 

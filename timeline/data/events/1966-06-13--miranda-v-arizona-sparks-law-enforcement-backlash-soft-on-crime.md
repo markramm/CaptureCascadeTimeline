@@ -9,19 +9,19 @@ actors:
 - Richard Nixon
 - Law enforcement organizations
 sources:
-- title: 'Miranda v. Arizona'
+- title: Miranda v. Arizona
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Miranda_v._Arizona
   year: 2024
-- title: 'Miranda v. Arizona'
+- title: Miranda v. Arizona
   outlet: U.S. Courts
   url: https://www.uscourts.gov/educational-resources/educational-activities/facts-and-case-summary-miranda-v-arizona
   year: 2024
-- title: 'Miranda v. Arizona'
+- title: Miranda v. Arizona
   outlet: Oyez - Supreme Court Media
   url: https://www.oyez.org/cases/1965/759
   year: 2024
-- title: 'Miranda v. Arizona (1966)'
+- title: Miranda v. Arizona (1966)
   outlet: Constitution Center
   url: https://constitutioncenter.org/the-constitution/supreme-court-case-library/miranda-v-arizona
   year: 2024
@@ -32,9 +32,9 @@ tags:
 - conservative-backlash
 - police-state
 capture_lanes:
-- Law Enforcement Militarization
-- Judicial System Capture
-- Conservative Political Strategy
+- Military-Industrial Complex
+- Judicial Capture
+- Democratic Erosion
 status: confirmed
 ---
 

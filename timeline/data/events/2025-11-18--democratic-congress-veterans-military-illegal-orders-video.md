@@ -35,6 +35,10 @@ actors:
 - Stephen Miller
 - Mike Johnson
 - Chuck Schumer
+capture_lanes:
+- Military-Industrial Complex
+- Legislative Capture
+- Executive Power Expansion
 ---
 
 On November 18, 2025, six Democratic members of Congress—all military and intelligence veterans—released an extraordinary video directly addressing active-duty service members and intelligence community personnel, reminding them of their constitutional obligation to refuse illegal orders. The lawmakers included Senator Elissa Slotkin (D-MI, former CIA officer), Senator Mark Kelly (D-AZ, Navy captain), Representative Jason Crow (D-CO, former Army Ranger and paratrooper), Representative Chris DeLuzio (D-PA, Navy veteran), Representative Chrissy Houlahan (D-PA, Air Force veteran), and Representative Maggie Goodlander (D-NH, former intelligence officer). In the video posted to social media, they stated: "We know you are under enormous stress and pressure right now. This administration is pitting our uniformed military and intelligence community professionals against American citizens. You can refuse illegal orders. You must refuse illegal orders."

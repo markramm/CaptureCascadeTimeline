@@ -10,17 +10,17 @@ actors:
 - U.S. Army
 - Dispatch News Service
 sources:
-- title: 'Seymour Hersh breaks My Lai Massacre story'
+- title: Seymour Hersh breaks My Lai Massacre story
   outlet: History.com
   url: https://www.history.com/this-day-in-history/november-12/seymour-hersh-breaks-my-lai-story
   verified: true
   tier: 1
-- title: 'How investigative master Seymour Hersh broke the story of the My Lai massacre'
+- title: How investigative master Seymour Hersh broke the story of the My Lai massacre
   outlet: Nieman Storyboard
   url: https://niemanstoryboard.org/2024/09/04/investigative-journalism-seymour-hersh-my-lai-massacre-vietnam-war/
   verified: true
   tier: 1
-- title: 'Seymour Hersh'
+- title: Seymour Hersh
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Seymour_Hersh
   verified: true
@@ -32,9 +32,9 @@ tags:
 - institutional-corruption
 - investigative-journalism
 capture_lanes:
-- Military Cover-Up Exposure
-- Whistleblower Protection Failure
-- Press Freedom Defense
+- Military-Industrial Complex
+- Systematic Corruption
+- Media Capture & Control
 status: confirmed
 ---
 

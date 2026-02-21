@@ -28,6 +28,8 @@ actors:
 - Marco Rubio
 - Venezuela
 - US Navy
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 President Trump announced a naval 'blockade' (officially termed a 'quarantine') of sanctioned Venezuelan oil tankers, representing a major escalation of Operation Southern Spear. Trump simultaneously designated the Venezuelan government as a Foreign Terrorist Organization, providing legal justification under 18 USC § 2339B for seizing vessels providing 'material support.' The blockade deployed the largest US naval force in the Caribbean since the 1962 Cuban Missile Crisis, with 15,000 troops and 11 warships. Secretary of State Marco Rubio described the oil quarantine as 'tremendous leverage' over Venezuela's future. Venezuelan crude exports dropped approximately 40% in December as a result. The operation was widely condemned by international law experts as violating UNCLOS (UN Convention on Law of the Sea).

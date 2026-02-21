@@ -26,6 +26,8 @@ actors:
 - Pete Hegseth
 - Mark Kelly
 - U.S. Department of Defense
+capture_lanes:
+- Military-Industrial Complex
 ---
 
 Defense Secretary Pete Hegseth initiated a formal 45-day administrative process to reduce Senator Mark Kelly's (D-AZ) military rank and retirement pay. Kelly, a retired Navy captain and NASA astronaut, had participated in a video reminding military personnel not to follow illegal orders. Hegseth called the video 'seditious' and 'reckless misconduct,' issuing a formal letter of censure to be placed in Kelly's permanent military file. Senator Kelly fired back, stating the action represented retaliation against any retired servicemember who criticizes the administration. The move raised broader concerns about the chilling effect on all military retirees' free speech rights, as millions of veterans could theoretically face similar actions for political speech. The action came as Hegseth faced his own scrutiny over alleged war crimes in ordering the killing of survivors from a Caribbean drug boat strike.

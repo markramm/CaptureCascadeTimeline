@@ -28,6 +28,9 @@ sources:
   outlet: Air and Space Forces Magazine
   tier: 2
 status: confirmed
+capture_lanes:
+- Military-Industrial Complex
+- Labor Suppression
 ---
 
 Seven B-2 Spirit stealth bombers flew an 18-hour mission from Whiteman AFB, Missouri, dropping 14 GBU-57 "Massive Ordnance Penetrator" bunker-buster bombs on Iran's Fordow and Natanz nuclear facilities. A US Navy submarine fired 30 Tomahawk missiles at Natanz and Isfahan. Over 125 US aircraft participated in what became the largest B-2 combat operation in US history. IAEA Director Grossi stated "very significant damage" was expected to Iran's centrifuges, though the facilities were not completely destroyed. Iran's nuclear program was estimated to be set back months to years.

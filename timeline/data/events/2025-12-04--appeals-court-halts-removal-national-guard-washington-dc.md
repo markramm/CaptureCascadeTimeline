@@ -20,10 +20,10 @@ tags:
 - crime-policy
 - executive-power
 capture_lanes:
-- Militarization of Domestic Policing
+- Military-Industrial Complex
 - Executive Power Expansion
 - Judicial Capture
-- Democratic Norms Erosion
+- Democratic Erosion
 sources:
 - title: Court Decision Calling for End to National Guard Deployment in DC Paused by Appeals Court
   url: https://www.military.com/daily-news/2025/12/05/court-decision-calling-end-national-guard-deployment-dc-paused-appeals-court.html

@@ -34,6 +34,9 @@ sources:
   outlet: Defense News
   date: '2026-02-11'
   tier: 2
+capture_lanes:
+- Military-Industrial Complex
+- Digital & Tech Capture
 ---
 
 NATO Secretary General Mark Rutte announces the launch of Arctic Sentry, a new multi-domain activity designed to bolster security in the Arctic and High North by bringing together all NATO and Allied activities in the region under unified command for the first time. The mission represents NATO's strategic response to both rising great-power competition in the Arctic and the political crisis created by Trump's Greenland ambitions.

@@ -15,8 +15,8 @@ tags:
 - deportation-infrastructure
 - state-federal-partnership
 capture_lanes:
-- Immigration & Border Militarization
-- Financial Corruption & Kleptocracy
+- Military-Industrial Complex
+- International Kleptocracy
 sources:
 - title: DeSantis announces 2nd immigration detention facility dubbed 'Deportation Depot' in Florida
   url: https://abcnews.go.com/US/desantis-announces-2nd-immigration-detention-facility-dubbed-deportation/story?id=124649346

@@ -1,8 +1,7 @@
 ---
 id: 2025-02-22--unprecedented-pentagon-leadership-purge
 date: '2025-02-22'
-title: Trump Fires Joint Chiefs Chairman and Navy Chief in Unprecedented Military
-  Purge
+title: Trump Fires Joint Chiefs Chairman and Navy Chief in Unprecedented Military Purge
 importance: 10
 location: Pentagon, Washington DC
 actors:
@@ -23,16 +22,15 @@ tags:
 - dei-targeting
 - military-leadership-replacement
 capture_lanes:
-- Military Politicization
-- Executive Branch Corruption
+- Military-Industrial Complex
+- Executive Power Expansion
 sources:
 - title: Trump fires Joint Chiefs chairman, Navy head in DOD leadership purge
   url: https://www.militarytimes.com/pentagon/2025/02/22/trump-fires-joint-chiefs-chairman-navy-head-in-dod-leadership-purge/
   outlet: Military Times
   date: '2025-02-22'
   verified: true
-- title: Trump administration fires raft of top military officers in unprecedented
-    purge
+- title: Trump administration fires raft of top military officers in unprecedented purge
   url: https://www.yahoo.com/news/trump-administration-fires-raft-top-024625186.html
   outlet: Yahoo News
   date: '2025-02-22'

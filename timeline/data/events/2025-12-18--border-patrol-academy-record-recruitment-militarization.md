@@ -21,11 +21,8 @@ tags:
 - vehicle-pursuits
 - trump administration
 capture_lanes:
-- Border Enforcement Militarization
-- Immigration Enforcement Expansion
-- Use of Force Escalation
-- Law Enforcement Training
-- Border Security Infrastructure
+- Military-Industrial Complex
+- Civil Rights Suppression
 sources:
 - title: Border Patrol trains record number of recruits, with new lessons on car chases and shooting
   url: https://www.cnn.com/2025/12/18/us/border-patrol-academy

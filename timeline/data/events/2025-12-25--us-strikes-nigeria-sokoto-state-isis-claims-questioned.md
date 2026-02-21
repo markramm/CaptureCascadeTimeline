@@ -25,8 +25,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- military-industrial-complex
-- executive-overreach
+- Military-Industrial Complex
+- Executive Power Expansion
 ---
 
 On Christmas Day evening, the US military launches strikes on at least three settlements in Sokoto state, northwest Nigeria, firing 16 GPS-guided precision munitions from naval platforms in the Gulf of Guinea. President Trump announces the operation on social media, claiming "a powerful and deadly strike against ISIS Terrorist Scum in Northwest Nigeria" that "decimated" terrorist camps.
