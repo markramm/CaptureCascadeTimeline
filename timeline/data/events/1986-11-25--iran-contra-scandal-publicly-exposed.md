@@ -31,6 +31,10 @@ sources:
   date: 1993-08-04
   tier: 1
   outlet: Federation of American Scientists
+capture_lanes:
+- Legislative Capture
+- Systematic Corruption
+- International Kleptocracy
 ---
 
 Attorney General Edwin Meese announces that proceeds from secret arms sales to Iran were illegally diverted to fund Nicaraguan Contra rebels, publicly exposing the Iran-Contra scandal that had been revealed three weeks earlier by the Lebanese magazine Ash-Shiraa on November 3. The announcement comes after National Security Advisor John Poindexter and NSC staff member Oliver North have spent four days systematically destroying incriminating documents.

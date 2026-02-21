@@ -30,6 +30,10 @@ sources:
   date: 1993-08-04
   tier: 1
   outlet: Federation of American Scientists
+capture_lanes:
+- Legislative Capture
+- Systematic Corruption
+- Intelligence Penetration
 ---
 
 National Security Council staff member Oliver North and his secretary Fawn Hall begin systematically shredding documents that would expose illegal activities related to arms sales to Iran and the diversion of proceeds to Nicaraguan Contra rebels. The five-day document destruction campaign, running from November 21-25, 1986, represents a brazen attempt to obstruct justice as the scandal begins to unravel.

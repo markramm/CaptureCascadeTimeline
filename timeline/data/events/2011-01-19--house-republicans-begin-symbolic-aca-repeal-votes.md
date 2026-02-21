@@ -40,9 +40,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- legislative-sabotage
-- healthcare-sabotage
-- partisan-obstruction
+- Legislative Capture
+- Regulatory Capture
 ---
 
 Three days after taking control of the House, Republicans passed H.R. 2, the 'Repealing the Job-Killing Health Care Law Act,' in a 245-189 vote with three Democratic defections. The bill was never considered by the Democratic Senate. This initiated a six-year campaign of symbolic repeal votes that would continue through 2016—the Congressional Research Service documented 56 House votes to alter, defund, delay, or repeal portions of the ACA through December 2015, with other analyses finding 70+ attempts. On July 11, 2012, following the Supreme Court's NFIB v. Sebelius decision upholding the ACA, House Republicans held their 33rd repeal vote (244-185). On February 3, 2015, they held their 67th repeal vote (239-186). Only one repeal bill ever reached President Obama's desk: H.R. 3762, the Restoring Americans' Healthcare Freedom Reconciliation Act, passed both chambers in January 2016 and was immediately vetoed on January 8, 2016. When Republicans finally controlled the White House in 2017 and needed actual replacement legislation, GOP lawmakers admitted the repeal votes had been a sham. Rep. Pat Meehan (R-PA) conceded they were 'ceremonial,' while Rep. Joe Barton (R-TX) told reporters: 'Sometimes you're playing fantasy football and sometimes you're in the real game. We knew the president would almost certainly veto it.' House Speaker Paul Ryan acknowledged 'Republicans weren't ready' to meet promises on repealing and replacing Obamacare. This six-year obstruction theater consumed thousands of legislative hours while demonstrating how symbolic partisan warfare can paralyze governance.

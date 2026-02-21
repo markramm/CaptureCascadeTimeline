@@ -31,6 +31,9 @@ sources:
   outlet: PBS News
   date: '2026-02-14'
   tier: 1
+capture_lanes:
+- Legislative Capture
+- Digital & Tech Capture
 ---
 
 The Department of Homeland Security entered a partial government shutdown as Congress failed to fund the agency by the end of Friday, with the two-week continuing resolution from late January having expired. Senate Republicans failed to advance full-year DHS funding legislation by a vote of 52 to 47, falling short of the 60 votes needed to clear a filibuster, with only Sen. John Fetterman (D-PA) joining Republicans. Sen. Katie Britt (R-AL) then sought unanimous consent to pass a two-week stopgap bill, which was blocked by Sen. Chris Murphy (D-CT) on behalf of Democrats, who made clear they would not accept another short-term bill without reforms.

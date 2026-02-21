@@ -31,6 +31,8 @@ actors:
 - Mike Johnson
 - John Thune
 - Hakeem Jeffries
+capture_lanes:
+- Legislative Capture
 ---
 
 The House passed legislation to extend enhanced Affordable Care Act premium tax credits for three years by a vote of 230-196, with 17 Republicans joining all Democrats in a major rebuke of GOP House leadership. The enhanced subsidies, introduced during the pandemic and extended through 2025 by the Inflation Reduction Act, had expired on December 31, 2025. Without the extension, premiums for the 22 million marketplace enrollees receiving subsidies would increase an average of 114%, and the CBO estimated 4 million people would lose coverage. Moderate Republicans including Reps. Mike Lawler (NY), Brian Fitzpatrick (PA), Ryan Mackenzie (PA), and Rob Bresnahan (PA) had signed a Democrat-led discharge petition to force the vote, bypassing Speaker Mike Johnson's opposition. Senate Majority Leader John Thune said there's 'no appetite' for the House bill, though bipartisan negotiations continue on a compromise that could include a 2-year extension with income caps.

@@ -31,6 +31,10 @@ sources:
   date: 2024-01-01
   tier: 1
   outlet: Levin Center for Oversight and Democracy
+capture_lanes:
+- Legislative Capture
+- Military-Industrial Complex
+- International Kleptocracy
 ---
 
 President Reagan signs a finding on December 5, 1985, retroactively authorizing covert arms sales to Iran already conducted by National Security Advisor Robert McFarlane, formalizing an illegal shadow foreign policy run through the National Security Council. McFarlane had undertaken the sale of anti-tank and anti-aircraft missiles to Iran earlier in 1985, operating outside normal diplomatic and intelligence channels in direct violation of the U.S. arms embargo against Iran.

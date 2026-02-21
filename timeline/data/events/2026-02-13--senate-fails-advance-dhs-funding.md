@@ -31,6 +31,9 @@ sources:
   outlet: The Hill
   date: '2026-02-13'
   tier: 2
+capture_lanes:
+- Legislative Capture
+- Digital & Tech Capture
 ---
 
 Senate Democrats voted Thursday to block a motion to advance a House-passed bill to fund the Department of Homeland Security, putting Washington on the brink of a partial government shutdown affecting more than 260,000 federal employees. The motion, which required 60 votes to overcome a filibuster, failed to advance by a vote of 52 to 47. Centrist Sen. John Fetterman (D-PA), who has a long-standing policy of voting against government shutdowns, was the only Democrat to vote for advancing the measure. Senate Majority Leader John Thune voted against in a procedural move allowing him to bring it up again.

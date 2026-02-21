@@ -4,32 +4,32 @@ date: '2026-01-10'
 title: ACA Subsidy Extension Passes House via Discharge Petition 230-196
 importance: 8
 actors:
-  - Brian Fitzpatrick
-  - Mike Lawler
-  - Marc Molinaro
-  - David Valadao
-  - Young Kim
-  - John Duarte
-  - Mike Johnson
-  - Donald Trump
+- Brian Fitzpatrick
+- Mike Lawler
+- Marc Molinaro
+- David Valadao
+- Young Kim
+- John Duarte
+- Mike Johnson
+- Donald Trump
 tags:
-  - discharge-petition
-  - aca
-  - obamacare
-  - healthcare
-  - congressional-revolt
-  - republican-defection
-  - swing-district
-  - bipartisan
+- discharge-petition
+- aca
+- obamacare
+- healthcare
+- congressional-revolt
+- republican-defection
+- swing-district
+- bipartisan
 capture_lanes:
-  - Congressional Oversight
-  - Factional Warfare
-  - Healthcare Policy
+- Legislative Capture
+- Democratic Erosion
+- Regulatory Capture
 sources:
-  - outlet: The Hill
-    title: House passes bill to extend ACA subsidies with bipartisan support
-    url: https://thehill.com/policy/healthcare/5089543-house-aca-subsidies-discharge-petition/
-    date: '2026-01'
+- outlet: The Hill
+  title: House passes bill to extend ACA subsidies with bipartisan support
+  url: https://thehill.com/policy/healthcare/5089543-house-aca-subsidies-discharge-petition/
+  date: 2026-01
 status: confirmed
 ---
 

@@ -18,6 +18,9 @@ tags:
 - executive-overreach
 - constitutional-crisis
 - congressional-authority-subversion
+capture_lanes:
+- Legislative Capture
+- International Kleptocracy
 ---
 
 Budget chief Russell Vought is systematically using government shutdown authority to cancel contracts, freeze billions in congressionally approved funds, and secretly withhold '$5 billion in foreign aid through pocket rescissions,' completely bypassing Congressional oversight. This represents executive usurpation of the Constitution's fundamental allocation of spending power to Congress. Vought is converting temporary shutdown powers into permanent authority to override legislative appropriations, centralizing unprecedented spending control in the presidency while rendering Congressional budget authority meaningless.

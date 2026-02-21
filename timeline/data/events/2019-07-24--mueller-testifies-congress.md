@@ -33,6 +33,10 @@ sources:
   date: 2019-07-24
   tier: 1
   outlet: C-SPAN
+capture_lanes:
+- Legislative Capture
+- Executive Power Expansion
+- Intelligence Penetration
 ---
 
 Former Special Counsel Robert Mueller testified before Congress in back-to-back hearings of the House Judiciary Committee and the House Permanent Select Committee on Intelligence, marking his first public statements about his 22-month investigation into Russian interference and potential obstruction of justice by President Trump. Despite Mueller's reluctance to go beyond his written report, the testimony produced critical confirmations that contradicted Trump's "total exoneration" narrative and established key facts for the historical record.

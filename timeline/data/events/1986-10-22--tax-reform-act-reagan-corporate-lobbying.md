@@ -32,6 +32,10 @@ sources:
   date: '2024-08-20'
   tier: 2
 status: confirmed
+capture_lanes:
+- Legislative Capture
+- Regulatory Capture
+- Financial Capture
 ---
 
 On October 22, 1986, President Reagan signed the Tax Reform Act of 1986, the centerpiece of his second term domestic agenda. The legislation dramatically lowered the top individual income tax rate from 50% to 28% - the largest single drop in the history of the federal income tax - while reducing the corporate tax rate from 50% to 35%.

@@ -33,6 +33,9 @@ actors:
 - Todd Young
 - Josh Hawley
 - Donald Trump
+capture_lanes:
+- Legislative Capture
+- Military-Industrial Complex
 ---
 
 The Senate voted 52-47 to advance a war powers resolution (S.J.Res.90) blocking further US military action in Venezuela without Congressional authorization, dealing President Trump a rare bipartisan rebuke. Five Republicans joined all Democrats: Senators Rand Paul (co-sponsor), Susan Collins, Lisa Murkowski, Todd Young, and Josh Hawley. The resolution would block use of Armed Forces within or against Venezuela and direct removal of forces from hostilities not authorized by Congress. Senator Tim Kaine stated 'This is why the Framers gave the power to declare war to Congress, not the President.' Senator Rand Paul declared 'The Constitution is clear—only Congress can declare war.' Trump posted on Truth Social that the five Republicans 'should be ashamed' and called the War Powers Act 'unconstitutional.' The vote came less than a week after the US military captured Venezuelan President Maduro and as Trump threatened a 'second wave' of attacks.

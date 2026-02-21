@@ -33,8 +33,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Legislative Action
-- Legal System Manipulation
+- Legislative Capture
+- Judicial Capture
 ---
 
 President Reagan signed the Voting Rights Act Amendments of 1982, extending Section 5 preclearance requirements for 25 years and critically strengthening Section 2 by adopting a "results test" that made proving voting discrimination far easier. The legislation represented a major defeat for the Reagan administration, which had sought to weaken the VRA, and demonstrated the broad bipartisan coalition still supporting voting rights.

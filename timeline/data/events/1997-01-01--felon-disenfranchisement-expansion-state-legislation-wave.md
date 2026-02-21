@@ -87,8 +87,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- State Government Capture
-- Criminal Justice Manipulation
+- Legislative Capture
+- Judicial Capture
 ---
 
 

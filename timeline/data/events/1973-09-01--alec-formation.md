@@ -1,8 +1,7 @@
 ---
 id: 1973-09-01--alec-formation
 date: '1973-09-01'
-title: American Legislative Exchange Council (ALEC) Founded as Systematic State-Level
-  Corporate Influence Platform
+title: American Legislative Exchange Council (ALEC) Founded as Systematic State-Level Corporate Influence Platform
 importance: 9
 actors:
 - Paul Weyrich
@@ -25,6 +24,9 @@ sources:
   url: https://billmoyers.com/episode/united-states-of-alec-a-follow-up/
   date_accessed: '2025-09-17'
 status: confirmed
+capture_lanes:
+- Legislative Capture
+- Corporate Capture
 ---
 
 ALEC was strategically established in September 1973 by Paul Weyrich, Henry Hyde, and Lou Barnett as a pioneering corporate-legislative coordination mechanism. Developed from the Powell Memorandum's blueprint, ALEC created a novel 'model legislation' approach allowing corporations to directly draft state-level policy templates, fundamentally transforming state legislative processes. The organization pioneered a systematic state-level corporate influence strategy, enabling approximately 18% of its drafted model bills to become law across multiple states.

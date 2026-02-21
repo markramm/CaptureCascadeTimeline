@@ -11,15 +11,15 @@ actors:
 - Senator Samuel Ervin
 - Senator Everett Dirksen
 sources:
-- title: 'Immigration and Nationality Act of 1965'
+- title: Immigration and Nationality Act of 1965
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Immigration_and_Nationality_Act_of_1965
   year: 2024
-- title: 'The Hart-Celler Immigration Act of 1965'
+- title: The Hart-Celler Immigration Act of 1965
   outlet: Center for Immigration Studies
   url: https://cis.org/Report/HartCeller-Immigration-Act-1965
   year: 2024
-- title: 'Immigration and Nationality Act of 1965'
+- title: Immigration and Nationality Act of 1965
   outlet: U.S. House of Representatives History, Art & Archives
   url: https://history.house.gov/Historical-Highlights/1951-2000/Immigration-and-Nationality-Act-of-1965/
   year: 2024
@@ -29,8 +29,8 @@ tags:
 - institutional-resistance
 - congressional-obstruction
 capture_lanes:
-- Congressional Capture
-- Legal System Manipulation
+- Legislative Capture
+- Judicial Capture
 status: confirmed
 ---
 

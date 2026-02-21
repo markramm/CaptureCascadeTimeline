@@ -27,6 +27,10 @@ sources:
   outlet: U.S. Department of Health and Human Services
   date: '1996-08-22'
 id: 1996-08-22--welfare-reform-five-year-lifetime-limit
+capture_lanes:
+- Legislative Capture
+- Military-Industrial Complex
+- Intelligence Penetration
 ---
 
 The Personal Responsibility and Work Opportunity Reconciliation Act establishes a five-year lifetime limit on federally funded cash assistance through the new Temporary Assistance for Needy Families (TANF) program. This represents a fundamental restructuring of the American social safety net, transforming welfare from a permanent entitlement for eligible families into a temporary assistance program with strict time limitations regardless of ongoing need or economic circumstances.

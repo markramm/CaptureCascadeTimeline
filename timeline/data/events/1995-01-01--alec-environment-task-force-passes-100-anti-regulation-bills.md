@@ -42,6 +42,10 @@ sources:
   outlet: Union of Concerned Scientists
   date: '2021-07-15'
   tier: 1
+capture_lanes:
+- Legislative Capture
+- Environmental Capture
+- Regulatory Capture
 ---
 
 Between 1990 and 2010, the American Legislative Exchange Council's (ALEC) Environment Task Force—directly funded by Koch Industries, ExxonMobil, and Peabody Energy—systematically passed over 100 model bills designed to weaken state environmental protections. The task force operated as a pay-to-play legislative factory where fossil fuel lobbyists received 'equal voice and vote' with elected state legislators in drafting anti-environmental legislation. ALEC introduced the 'Economic Impact Statement Act' and a slew of 'private property rights' bills in the 1990s, many designed to weaken the Endangered Species Act, Clean Water Act, and other environmental laws by requiring detailed cost-benefit analyses that effectively killed proposed regulations through bureaucratic burden.

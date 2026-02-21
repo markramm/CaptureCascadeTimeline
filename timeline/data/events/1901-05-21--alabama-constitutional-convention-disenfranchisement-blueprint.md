@@ -16,11 +16,11 @@ tags:
 - jim-crow
 - white-supremacy
 sources:
-- title: 'Journal of the Proceedings of the Constitutional Convention of the State of Alabama'
+- title: Journal of the Proceedings of the Constitutional Convention of the State of Alabama
   url: https://digital.archives.alabama.gov/digital/collection/voices/id/3686
   outlet: Alabama Department of Archives and History
   tier: 1
-- title: 'The 1901 Alabama Constitution'
+- title: The 1901 Alabama Constitution
   url: https://www.splcenter.org/fighting-hate/intelligence-report/2020/alabamas-jim-crow-constitution
   outlet: Southern Poverty Law Center
   tier: 2
@@ -31,8 +31,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- State Government Capture
-- Legal System Manipulation
+- Legislative Capture
+- Judicial Capture
 ---
 
 The Alabama Constitutional Convention adopted a new state constitution explicitly designed to eliminate Black voting while maintaining white political supremacy through facially neutral provisions. Convention president John Knox declared in his opening address that the convention's purpose was "to establish white supremacy in this State" within constitutional limits, creating a template that other Southern states would follow.

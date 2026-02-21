@@ -1,22 +1,22 @@
 ---
 id: 1874-01-20--salary-grab-act-repealed-corruption-backlash
 date: '1874-01-20'
-title: 'Congress Repeals Salary Grab Act After Public Outrage Over Corruption'
+title: Congress Repeals Salary Grab Act After Public Outrage Over Corruption
 importance: 7
 actors:
 - U.S. Congress
 - Ulysses S. Grant
 - Elihu Washburne
 sources:
-- title: 'Who Should Govern Congress? The Salary Grab of 1873 and the Coalition of Reform'
+- title: Who Should Govern Congress? The Salary Grab of 1873 and the Coalition of Reform
   outlet: Northwestern University Institute for Policy Research
   url: https://www.ipr.northwestern.edu/documents/working-papers/2005/IPR-WP-05-07.pdf
   year: 2005
-- title: 'Salary Grab Act'
+- title: Salary Grab Act
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Salary_Grab_Act
   year: 2024
-- title: 'The Salary Grab'
+- title: The Salary Grab
   outlet: A Strife of Interests
   url: https://kingoffrauds.wordpress.com/2019/09/07/the-salary-grab/
   year: 2019
@@ -26,9 +26,8 @@ tags:
 - gilded-age
 - elite-impunity
 capture_lanes:
-- Congressional Self-Dealing
-- Institutional Corruption
-- Public Accountability Pressure
+- Legislative Capture
+- Systematic Corruption
 status: confirmed
 ---
 

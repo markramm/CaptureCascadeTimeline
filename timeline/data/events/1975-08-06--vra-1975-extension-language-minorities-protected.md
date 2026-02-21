@@ -32,7 +32,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Legislative Action
+- Legislative Capture
 ---
 
 President Gerald Ford signed the Voting Rights Act Amendments of 1975, extending the VRA's special provisions for seven years and dramatically expanding its scope to protect language minorities—including Latino, Asian American, Native American, and Alaska Native voters. The amendments recognized that English-only election materials and literacy tests functioned as tools of discrimination against citizens whose first language was not English.

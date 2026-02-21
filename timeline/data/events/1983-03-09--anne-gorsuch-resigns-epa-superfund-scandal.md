@@ -39,6 +39,10 @@ sources:
   outlet: The New Republic
   date: '2017-02-14'
   verified: true
+capture_lanes:
+- Legislative Capture
+- Environmental Capture
+- Regulatory Capture
 ---
 
 Anne Gorsuch Burford resigns as EPA Administrator after becoming the first cabinet-level official in American history held in contempt of Congress. Gorsuch had refused to turn over Superfund records related to a $1.6 billion hazardous waste cleanup program, citing executive privilege on Reagan's orders. Her 22-month tenure exemplifies industry capture of environmental regulation: she cut EPA's budget by 22%, reduced enforcement cases against polluters, relaxed Clean Air Act regulations, and facilitated spraying of restricted pesticides. The scandal forces 21 EPA officials out of the agency.

@@ -36,9 +36,9 @@ tags:
 - infrastructure-profiteering
 - congressional-bribery
 capture_lanes:
-- Congressional Capture
-- Corporate Political Strategy
-- Public Infrastructure Exploitation
+- Legislative Capture
+- Corporate Capture
+- Regulatory Capture
 status: confirmed
 ---
 

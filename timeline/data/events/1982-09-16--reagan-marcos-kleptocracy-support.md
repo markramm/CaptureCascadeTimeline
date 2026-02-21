@@ -31,6 +31,10 @@ sources:
   date: 2019-02-24
   tier: 2
   outlet: Rappler
+capture_lanes:
+- Legislative Capture
+- Systematic Corruption
+- Media Capture & Control
 ---
 
 President Ronald Reagan and First Lady Nancy Reagan welcome Ferdinand and Imelda Marcos to the White House in September 1982, demonstrating strong support for the Philippine dictator despite his regime's notorious corruption, extravagance, and brutality. The Reagans maintain a personal friendship with the Marcos couple, willing to overlook massive kleptocracy in exchange for an anti-Communist bulwark in Southeast Asia and continued access to strategically important U.S. military bases in the Philippines.

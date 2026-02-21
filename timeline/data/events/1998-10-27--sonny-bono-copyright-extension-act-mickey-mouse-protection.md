@@ -37,6 +37,10 @@ sources:
   url: https://copyright.nova.edu/sonny-bono-copyright-extension/
   outlet: Nova Southeastern University
   tier: 2
+capture_lanes:
+- Legislative Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 President Bill Clinton signs the Sonny Bono Copyright Term Extension Act (CTEA), extending copyright terms by 20 years—from life plus 50 years to life plus 70 years for individual authors, and from 75 to 95 years for corporate works. The legislation, derisively nicknamed the 'Mickey Mouse Protection Act,' follows extensive lobbying by the Walt Disney Company since 1990 to prevent Steamboat Willie (1928) and early Mickey Mouse cartoons from entering the public domain. Disney's lobbying coalition included Time Warner, Universal, Viacom, major sports leagues (NFL, NBA, NHL, MLB), and the estates of George Gershwin and Oscar Hammerstein. The Act prevents works created in 1923 or later from entering the public domain until January 1, 2019 or later, transferring billions in potential public domain value to corporate copyright holders. This represents systematic regulatory capture: copyright law transformed from protecting creators for limited terms (as the Constitution mandates) into perpetual corporate rent extraction. The American Library Association and public domain advocates strongly opposed the bill. The extension exemplifies how concentrated corporate lobbying (Hollywood, music, entertainment industries) captures intellectual property law to privatize cultural commons for shareholder value, not creative incentive. Steamboat Willie finally entered the public domain in 2024—96 years after creation.

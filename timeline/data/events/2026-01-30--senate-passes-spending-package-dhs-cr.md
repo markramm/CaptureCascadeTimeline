@@ -29,6 +29,8 @@ sources:
   outlet: NPR
   date: '2026-01-29'
   tier: 1
+capture_lanes:
+- Legislative Capture
 ---
 
 On Friday, January 30, the Senate voted 71 to 29 to pass a $1.2 trillion spending package funding federal agencies through September, while stripping out full-year Department of Homeland Security funding and replacing it with a two-week continuing resolution extending DHS funding through February 13. The revision came after eight Republicans joined Democrats to block the original six-bill funding package earlier in the week, with Democrats demanding broad changes to immigration enforcement tactics following the January 24 killing of Alex Pretti by federal immigration agents in Minneapolis.

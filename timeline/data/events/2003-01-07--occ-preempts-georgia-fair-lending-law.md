@@ -16,24 +16,24 @@ tags:
 - housing-policy
 - housing
 sources:
-- title: 'OCC Issues Preemption Determination on Georgia Fair Lending Act'
+- title: OCC Issues Preemption Determination on Georgia Fair Lending Act
   outlet: OCC News Release
   url: https://www.occ.gov/news-issuances/news-releases/2003/nr-occ-2003-1.html
   tier: 1
   verified: true
-- title: 'States Fight Federal Preemption of Predatory Lending Laws'
+- title: States Fight Federal Preemption of Predatory Lending Laws
   outlet: National Conference of State Legislatures
   url: https://www.ncsl.org/financial-services/states-fight-federal-preemption-of-predatory-lending-laws
   tier: 2
   verified: true
-- title: 'Preemption and Regulatory Failure'
+- title: Preemption and Regulatory Failure
   outlet: Georgetown Law Journal
   url: https://georgetownlawinstitute.org/preemption-regulatory-failure/
   tier: 1
   verified: true
 capture_lanes:
 - Regulatory Capture
-- State Preemption
+- Legislative Capture
 status: confirmed
 ---
 

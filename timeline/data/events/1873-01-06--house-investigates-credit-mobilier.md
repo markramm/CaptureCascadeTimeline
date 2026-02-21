@@ -27,8 +27,8 @@ tags:
 - political-bribery
 - weak-accountability
 capture_lanes:
-- Congressional Corruption
-- Accountability Theater
+- Legislative Capture
+- Systematic Corruption
 status: confirmed
 ---
 

@@ -37,8 +37,8 @@ tags:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Congressional Oversight
-- Institutional Corruption Documentation
+- Legislative Capture
+- Systematic Corruption
 ---
 
 The House Committee on Transportation and Infrastructure released its final 238-page report on the Boeing 737 MAX disasters, concluding that the crashes "were the horrific culmination of a series of faulty technical assumptions by Boeing's engineers, a lack of transparency on the part of Boeing's management, and grossly insufficient oversight by the FAA—the pernicious result of regulatory capture on the part of the FAA with respect to its responsibilities to perform robust oversight of Boeing and to ensure the safety of the flying public."

@@ -4,29 +4,29 @@ date: '2025-12-15'
 title: Federal Workers Collective Bargaining Bill Passes via Discharge Petition 231-195
 importance: 8
 actors:
-  - Don Bacon
-  - Mike Johnson
-  - Donald Trump
+- Don Bacon
+- Mike Johnson
+- Donald Trump
 tags:
-  - discharge-petition
-  - federal-workers
-  - collective-bargaining
-  - congressional-revolt
-  - republican-defection
-  - labor-rights
+- discharge-petition
+- federal-workers
+- collective-bargaining
+- congressional-revolt
+- republican-defection
+- labor-rights
 capture_lanes:
-  - Congressional Oversight
-  - Factional Warfare
-  - Labor Policy
+- Legislative Capture
+- Democratic Erosion
+- Labor Suppression
 sources:
-  - outlet: Government Executive
-    title: Federal workers collective bargaining bill passes via discharge petition
-    url: https://www.govexec.com/workforce/2025/12/federal-workers-collective-bargaining-discharge-petition/
-    date: '2025-12'
-  - outlet: Nebraska Examiner
-    title: Don Bacon says he signed discharge petition for the presidents own good
-    url: https://nebraskaexaminer.com/2025/12/bacon-discharge-petition-president/
-    date: '2025-12'
+- outlet: Government Executive
+  title: Federal workers collective bargaining bill passes via discharge petition
+  url: https://www.govexec.com/workforce/2025/12/federal-workers-collective-bargaining-discharge-petition/
+  date: 2025-12
+- outlet: Nebraska Examiner
+  title: Don Bacon says he signed discharge petition for the presidents own good
+  url: https://nebraskaexaminer.com/2025/12/bacon-discharge-petition-president/
+  date: 2025-12
 status: confirmed
 ---
 

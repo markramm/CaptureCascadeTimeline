@@ -21,8 +21,8 @@ tags:
 - systematic-corruption
 - fhlbb
 capture_lanes:
-- Congressional Capture
-- Financial Regulatory Capture
+- Legislative Capture
+- Financial Capture
 sources:
 - title: WHERE IS THE KEATING FIVE REPORT?
   url: https://www.washingtonpost.com/archive/opinions/1991/10/06/where-is-the-keating-five-report/7db61932-0577-416b-b022-007cdb809245/

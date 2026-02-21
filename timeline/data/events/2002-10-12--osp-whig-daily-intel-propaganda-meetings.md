@@ -2,11 +2,7 @@
 id: 2002-10-12--osp-whig-daily-intel-propaganda-meetings
 date: '2002-10-12'
 title: OSP and WHIG Establish Daily Intelligence-Propaganda Coordination Meetings
-description: Office of Special Plans and White House Iraq Group establish daily meetings
-  to ensure intelligence products from the Pentagon directly support public messaging
-  campaigns about Iraq. This coordination mechanism allowed for the selective use
-  of intelligence data to build a case for war, effectively transforming intelligence
-  gathering into a propaganda operation.
+description: Office of Special Plans and White House Iraq Group establish daily meetings to ensure intelligence products from the Pentagon directly support public messaging campaigns about Iraq. This coordination mechanism allowed for the selective use of intelligence data to build a case for war, effectively transforming intelligence gathering into a propaganda operation.
 actors:
 - Douglas Feith
 - Paul Wolfowitz
@@ -19,7 +15,7 @@ capture_lanes:
 - Intelligence Penetration
 - Media Capture & Control
 - Executive Power Expansion
-- Legislative Manipulation
+- Legislative Capture
 tags:
 - intelligence-manipulation
 - iraq-war
@@ -42,9 +38,7 @@ sources:
   url: http://www.historycommons.org/entity.jsp?entity=white_house_iraq_group
   type: historical_analysis
 importance: 9
-significance: Represents a critical moment in the systematic manipulation of intelligence
-  to support a predetermined political agenda, demonstrating how executive branch
-  offices can undermine traditional intelligence assessment processes.
+significance: Represents a critical moment in the systematic manipulation of intelligence to support a predetermined political agenda, demonstrating how executive branch offices can undermine traditional intelligence assessment processes.
 category: intelligence_corruption
 status: confirmed
 verification_status: extensively_documented

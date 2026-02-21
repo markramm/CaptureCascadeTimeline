@@ -34,9 +34,9 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- legislative-sabotage
-- healthcare-sabotage
-- institutional-capture
+- Legislative Capture
+- Regulatory Capture
+- Democratic Erosion
 ---
 
 Senator Marco Rubio successfully inserted a provision into the Consolidated and Further Continuing Appropriations Act of 2015 that prohibited the Department of Health and Human Services from using general appropriations to fund the ACA's risk corridor program, limiting payments to only user fees collected from profitable insurers. The risk corridor program was designed to stabilize insurance markets during the ACA's 2014-2016 phase-in by compensating insurers with higher-than-expected costs while collecting from those with lower costs—a standard mechanism also used in Medicare Part D. In 2014, profitable carriers paid $362 million while struggling carriers were owed $2.87 billion, leaving $2.51 billion in unpaid obligations. The government ultimately paid only 12.6% of what insurers were owed. Research from the National Bureau of Economic Research found that ending risk corridors accounted for 86% of premium growth between 2015-2017; premiums rose 37% instead of the projected 10% without the sabotage. Smaller insurers collapsed or withdrew from exchanges, reducing competition and leaving some states with only one insurer. An estimated 40 insurers exited the market or reduced participation, with 16 of 23 ACA co-op insurers failing by 2016. Rubio bragged about 'killing Obamacare' and saving taxpayers $2.5 billion, though the Government Accountability Office later found taxpayers owed insurers $12 billion due to the breach of contract. This deliberate sabotage demonstrated how a single legislative rider could systematically undermine complex legislation through targeted defunding.

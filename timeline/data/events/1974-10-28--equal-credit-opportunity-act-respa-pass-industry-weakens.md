@@ -16,24 +16,24 @@ tags:
 - industry-lobbying
 - housing
 sources:
-- title: 'Equal Credit Opportunity Act'
+- title: Equal Credit Opportunity Act
   outlet: Federal Reserve History
   url: https://www.federalreservehistory.org/essays/equal-credit-opportunity-act
   tier: 1
   verified: true
-- title: 'Real Estate Settlement Procedures Act'
+- title: Real Estate Settlement Procedures Act
   outlet: Consumer Financial Protection Bureau
   url: https://www.consumerfinance.gov/rules-policy/regulations/1024/
   tier: 1
   verified: true
-- title: 'History of Fair Lending'
+- title: History of Fair Lending
   outlet: National Fair Housing Alliance
   url: https://nationalfairhousing.org/fair-lending/
   tier: 2
   verified: true
 capture_lanes:
-- Legislative Weakening
-- Industry Lobbying
+- Legislative Capture
+- Regulatory Capture
 status: confirmed
 ---
 

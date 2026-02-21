@@ -29,6 +29,8 @@ sources:
   outlet: CBS News
   date: '2026-02-03'
   tier: 1
+capture_lanes:
+- Legislative Capture
 ---
 
 The House approved a more than $1 trillion spending package that brought an end to a four-day partial government shutdown, passing by a razor-thin vote of 217 to 214. Twenty-one Democrats joined 196 Republicans in support, while 193 Democrats and 21 Republicans voted no, in a vote closer than many observers and lawmakers predicted. The legislation includes five full-year spending bills funding most of the federal government through September, plus a two-week extension of funding for the Department of Homeland Security through February 13.

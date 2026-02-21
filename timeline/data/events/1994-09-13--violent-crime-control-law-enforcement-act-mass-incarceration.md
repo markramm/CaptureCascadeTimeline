@@ -31,6 +31,10 @@ sources:
   outlet: Brennan Center for Justice
   date: '2016-04-13'
 id: 1994-09-13--violent-crime-control-law-enforcement-act-mass-incarceration
+capture_lanes:
+- Legislative Capture
+- Civil Rights Suppression
+- Intelligence Penetration
 ---
 
 President Bill Clinton signs the Violent Crime Control and Law Enforcement Act of 1994, the largest crime bill in U.S. history, consisting of 356 pages that provided for 100,000 new police officers and $9.7 billion in funding for prisons. Drafted by then-Senator Joe Biden and sponsored by Representative Jack Brooks of Texas, the legislation included a federal "three-strikes" provision mandating life imprisonment without possibility of parole for those who commit federal violent felonies with two or more previous convictions for violent felonies or drug trafficking crimes.

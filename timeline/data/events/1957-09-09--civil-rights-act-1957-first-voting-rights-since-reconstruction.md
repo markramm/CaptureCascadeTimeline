@@ -33,8 +33,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- Legislative Obstruction
-- Legal System Manipulation
+- Legislative Capture
+- Judicial Capture
 ---
 
 President Eisenhower signed the Civil Rights Act of 1957, the first federal civil rights legislation since Reconstruction, establishing the Civil Rights Division within the Department of Justice and authorizing federal prosecutors to seek injunctions against interference with voting rights. However, Southern Democrats succeeded in stripping the bill of most enforcement power, rendering it largely symbolic while setting the stage for stronger legislation.

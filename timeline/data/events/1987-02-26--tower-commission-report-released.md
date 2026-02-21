@@ -32,6 +32,10 @@ sources:
   date: 2024-01-01
   tier: 1
   outlet: Levin Center for Oversight and Democracy
+capture_lanes:
+- Legislative Capture
+- Military-Industrial Complex
+- Intelligence Penetration
 ---
 
 The Tower Commission delivers its report on the Iran-Contra affair to President Reagan, producing findings widely criticized as a whitewash that shields Reagan from accountability while blaming subordinates for the illegal scheme. The commission, composed of former Senator John Tower, former Secretary of State Edmund Muskie, and former National Security Advisor Brent Scowcroft, concludes that Reagan "clearly didn't understand the nature of this operation" and faults his "lax management" rather than deliberate wrongdoing.

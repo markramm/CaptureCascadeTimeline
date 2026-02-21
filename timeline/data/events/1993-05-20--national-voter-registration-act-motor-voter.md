@@ -31,7 +31,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- State Government Capture
+- Legislative Capture
 ---
 
 President Clinton signed the National Voter Registration Act (NVRA), known as "Motor Voter," requiring states to offer voter registration when citizens apply for driver's licenses, at public assistance offices, and through mail-in registration. The law aimed to reverse decades of declining voter registration by removing bureaucratic barriers, but faced immediate Republican resistance and uneven implementation.

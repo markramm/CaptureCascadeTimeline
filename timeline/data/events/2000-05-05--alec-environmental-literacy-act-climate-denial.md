@@ -44,6 +44,10 @@ sources:
   outlet: Climate Investigations Center
   date: '2024-01-01'
   tier: 1
+capture_lanes:
+- Legislative Capture
+- Corporate Capture
+- Systematic Corruption
 ---
 
 On May 5, 2000, the American Legislative Exchange Council's (ALEC) Natural Resources Task Force adopted the 'Environmental Literacy Improvement Act' at ALEC's Spring Task Force Summit, with full approval by ALEC's Board of Directors in June 2000. The model bill was designed to spread climate denial to K-12 students by requiring that 'both sides' of climate science be taught in schools, establishing state-level councils to oversee all scientific material presented to students and allowing fossil fuel companies to directly influence how climate science is presented in classrooms. The bill mandated teaching that there is 'major controversy over whether or not humans are changing the weather,' despite overwhelming scientific consensus on anthropogenic climate change.

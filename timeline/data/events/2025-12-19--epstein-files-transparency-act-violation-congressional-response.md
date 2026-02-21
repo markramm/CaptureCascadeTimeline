@@ -45,6 +45,8 @@ actors:
 - Pam Bondi
 - Todd Blanche
 status: confirmed
+capture_lanes:
+- Legislative Capture
 ---
 
 Lawmakers from both parties immediately condemned the Department of Justice's December 19, 2025 Epstein files release as violating the Epstein Files Transparency Act, which had passed the House 427-1 and the Senate by unanimous consent before President Trump signed it into law on November 19, 2025. The law gave the Attorney General exactly 30 days to release all documents related to Jeffrey Epstein's sex trafficking network, yet the DOJ released only a fraction of existing materials with extensive redactions that lawmakers characterized as unlawful.

@@ -31,6 +31,10 @@ sources:
   date: 1987-05-05
   tier: 1
   outlet: C-SPAN
+capture_lanes:
+- Legislative Capture
+- Intelligence Penetration
+- International Kleptocracy
 ---
 
 Joint congressional hearings on the Iran-Contra affair begin, launching seven weeks of televised testimony that becomes the most-watched series of congressional hearings since the Senate Watergate Committee hearings in 1973. The House Select Committee to Investigate Covert Arms Transactions with Iran and the Senate Select Committee on Secret Military Assistance to Iran and the Nicaraguan Opposition conduct joint public hearings that expose the extent of illegal operations conducted by Reagan administration officials.

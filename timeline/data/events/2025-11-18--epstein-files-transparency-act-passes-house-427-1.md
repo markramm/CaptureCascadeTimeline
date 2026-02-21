@@ -4,34 +4,34 @@ date: '2025-11-18'
 title: Epstein Files Transparency Act Passes House 427-1 After Discharge Petition
 importance: 9
 actors:
-  - Thomas Massie
-  - Ro Khanna
-  - Marjorie Taylor Greene
-  - Lauren Boebert
-  - Nancy Mace
-  - Mike Johnson
-  - Donald Trump
-  - Clay Higgins
+- Thomas Massie
+- Ro Khanna
+- Marjorie Taylor Greene
+- Lauren Boebert
+- Nancy Mace
+- Mike Johnson
+- Donald Trump
+- Clay Higgins
 tags:
-  - discharge-petition
-  - epstein-files
-  - congressional-revolt
-  - bipartisan
-  - transparency
-  - republican-defection
-  - massie
-  - mtg
+- discharge-petition
+- epstein-files
+- congressional-revolt
+- bipartisan
+- transparency
+- republican-defection
+- massie
+- mtg
 capture_lanes:
-  - Congressional Oversight
-  - Factional Warfare
+- Legislative Capture
+- Democratic Erosion
 sources:
-  - outlet: Wikipedia
-    title: Epstein Files Transparency Act
-    url: https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act
-  - outlet: CNN
-    title: Ro Khanna explains how he helped engineer the vote that ripped MAGA apart
-    url: https://www.cnn.com/2025/11/19/politics/epstein-files-ro-khanna
-    date: '2025-11-19'
+- outlet: Wikipedia
+  title: Epstein Files Transparency Act
+  url: https://en.wikipedia.org/wiki/Epstein_Files_Transparency_Act
+- outlet: CNN
+  title: Ro Khanna explains how he helped engineer the vote that ripped MAGA apart
+  url: https://www.cnn.com/2025/11/19/politics/epstein-files-ro-khanna
+  date: '2025-11-19'
 status: confirmed
 ---
 

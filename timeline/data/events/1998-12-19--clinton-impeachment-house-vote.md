@@ -31,6 +31,10 @@ sources:
   outlet: University of Virginia Miller Center
   date: '2024-01-01'
 id: 1998-12-19--clinton-impeachment-house-vote
+capture_lanes:
+- Legislative Capture
+- Military-Industrial Complex
+- Executive Power Expansion
 ---
 
 The U.S. House of Representatives votes to impeach President Bill Clinton on two articles: perjury before a grand jury (Article I, passed 228-206) and obstruction of justice (Article II, passed 221-212). Clinton becomes the second American president to be impeached, the first being Andrew Johnson in 1868. The impeachment stems from Clinton's relationship with White House intern Monica Lewinsky and his subsequent testimony denying the relationship in a sexual harassment lawsuit brought by Paula Jones.

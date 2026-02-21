@@ -18,12 +18,12 @@ tags:
 - epidemic
 - government-negligence
 sources:
-- title: 'Ronald Reagan and AIDS'
+- title: Ronald Reagan and AIDS
   url: https://en.wikipedia.org/wiki/Ronald_Reagan_and_AIDS
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'How AIDS Remained an Unspoken But Deadly Epidemic for Years'
+- title: How AIDS Remained an Unspoken But Deadly Epidemic for Years
   url: https://www.history.com/articles/aids-epidemic-ronald-reagan
   outlet: History.com
   date: '2024-01-01'
@@ -33,11 +33,15 @@ sources:
   outlet: San Francisco Chronicle
   date: '2004-06-08'
   verified: true
-- title: 'Reagan Legacy'
+- title: Reagan Legacy
   url: https://www.sfaf.org/collections/status/reagans-legacy/
   outlet: San Francisco AIDS Foundation
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Legislative Capture
+- Digital & Tech Capture
+- Executive Power Expansion
 ---
 
 The CDC publishes the first report on unusual immune system failures in five previously healthy gay men in Los Angeles, marking the medical recognition of what becomes the AIDS epidemic. President Ronald Reagan's administration responds with years of complete public silence while the epidemic explodes. Reagan does not publicly mention AIDS until September 1985, more than four years into the crisis, and does not give a major address on AIDS until 1987 when over 20,000 Americans have already died. White House Press Secretary Larry Speakes jokes about the "gay plague" during press briefings, laughing off reporters' questions about federal response.

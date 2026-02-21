@@ -29,6 +29,8 @@ sources:
   outlet: NPR
   date: '2026-02-03'
   tier: 1
+capture_lanes:
+- Legislative Capture
 ---
 
 Former President Bill Clinton and former Secretary of State Hillary Clinton agreed to appear for transcribed, filmed depositions as part of the House Oversight Committee's investigation into Jeffrey Epstein's and Ghislaine Maxwell's crimes, with Bill Clinton scheduled for February 27 and Hillary Clinton for February 26. The agreement came at the eleventh hour as the House was preparing to vote to hold both Clintons in contempt of Congress for defying congressional subpoenas, which could have resulted in significant legal consequences.

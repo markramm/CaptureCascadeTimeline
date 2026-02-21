@@ -31,8 +31,7 @@ tags:
 - institutional-capture
 capture_lanes:
 - Military-Industrial Complex
-- Congressional Capture
-- Defense Contractor Influence
+- Legislative Capture
 status: confirmed
 ---
 

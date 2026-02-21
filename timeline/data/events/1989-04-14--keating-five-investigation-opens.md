@@ -27,6 +27,10 @@ sources:
 - title: 'NPR: Scandal Shaped McCain''s Sense of Honor in Office'
   date: '2007-12-13'
   url: https://www.npr.org/2007/12/13/17137136/scandal-shaped-mccains-sense-of-honor-in-office
+capture_lanes:
+- Legislative Capture
+- Systematic Corruption
+- Digital & Tech Capture
 ---
 
 The Senate Ethics Committee launched an investigation into five senators (McCain, Glenn, Cranston, Riegle, and DeConcini) for their improper intervention with federal regulators on behalf of Charles Keating's Lincoln Savings and Loan Association. The investigation was initiated after Keating's $1.3 million in political contributions raised significant ethical concerns.

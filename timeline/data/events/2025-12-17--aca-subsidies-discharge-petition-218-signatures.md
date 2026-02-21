@@ -97,4 +97,8 @@ sources:
   date: 2025-12-17
   tier: 1
   outlet: House Democratic Leader
+capture_lanes:
+- Legislative Capture
+- Labor Suppression
+- Electoral Manipulation
 ---

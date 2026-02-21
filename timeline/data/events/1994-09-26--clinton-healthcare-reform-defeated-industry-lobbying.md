@@ -34,6 +34,10 @@ sources:
   outlet: New England Journal of Medicine
   date: '2008-01-10'
 id: 1994-09-26--clinton-healthcare-reform-defeated-industry-lobbying
+capture_lanes:
+- Legislative Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 Senate Majority Leader George J. Mitchell declares the Clinton administration's Health Security Act dead, with the bill never coming to a vote in either chamber of Congress. The failure represents a devastating defeat for comprehensive healthcare reform after an intense lobbying campaign by the health insurance and pharmaceutical industries that spent hundreds of millions of dollars to defeat the legislation. The collapse demonstrates the political power of healthcare industry interests to block reforms that threaten their profit models.

@@ -18,17 +18,17 @@ tags:
 - lgbtq
 - celebrity
 sources:
-- title: 'Hollywood icon Rock Hudson dies of AIDS'
+- title: Hollywood icon Rock Hudson dies of AIDS
   url: https://www.history.com/this-day-in-history/hollywood-icon-rock-hudson-dies-of-aids
   outlet: History.com
   date: '2024-01-01'
   verified: true
-- title: 'The Hollywood Star Who Confronted the AIDS Silent Epidemic'
+- title: The Hollywood Star Who Confronted the AIDS Silent Epidemic
   url: https://www.smithsonianmag.com/smart-news/hollywood-star-who-confronted-aids-silent-epidemic-180965059/
   outlet: Smithsonian Magazine
   date: '2018-05-15'
   verified: true
-- title: 'Nancy Reagan Turned Down Rock Hudson Plea For Help'
+- title: Nancy Reagan Turned Down Rock Hudson Plea For Help
   url: https://www.buzzfeednews.com/article/chrisgeidner/nancy-reagan-turned-down-rock-hudsons-plea-for-help-seven-we
   outlet: BuzzFeed News
   date: '2015-07-25'
@@ -38,6 +38,10 @@ sources:
   outlet: HIV Plus Magazine
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Legislative Capture
+- Digital & Tech Capture
+- Media Capture & Control
 ---
 
 Hollywood icon Rock Hudson dies at age 59 of AIDS complications, becoming the first major U.S. celebrity to die of the disease and forcing President Reagan to finally acknowledge the epidemic publicly. Hudson's death marks a turning point: Reagan had maintained complete public silence on AIDS for over four years despite more than 12,000 deaths by late 1985. On September 17, 1985, two weeks before Hudson's death, Reagan mentions AIDS for the first time in response to a reporter's question, calling it a "top priority"—a designation contradicted by years of denied funding requests and suppressed public health guidance.

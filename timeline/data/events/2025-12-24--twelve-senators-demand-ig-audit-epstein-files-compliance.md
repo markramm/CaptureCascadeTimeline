@@ -1,8 +1,7 @@
 ---
 id: 2025-12-24--twelve-senators-demand-ig-audit-epstein-files-compliance
 date: '2025-12-24'
-title: 12 Bipartisan Senators Demand Inspector General Audit of DOJ Epstein Files
-  Compliance
+title: 12 Bipartisan Senators Demand Inspector General Audit of DOJ Epstein Files Compliance
 importance: 8
 actors:
 - Richard Blumenthal
@@ -48,8 +47,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- congressional-oversight
-- elite-impunity
+- Legislative Capture
+- Systematic Corruption
 ---
 
 

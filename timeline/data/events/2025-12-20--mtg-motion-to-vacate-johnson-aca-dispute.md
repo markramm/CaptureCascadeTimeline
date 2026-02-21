@@ -103,4 +103,8 @@ sources:
   date: 2024-05-08
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Legislative Capture
+- Labor Suppression
+- Surveillance Infrastructure
 ---

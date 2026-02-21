@@ -29,6 +29,8 @@ sources:
   date: '2021-11-15'
   url: https://crsreports.congress.gov/product/pdf/LSB/LSB11190
   notes: Congressional Research Service legal overview
+capture_lanes:
+- Legislative Capture
 ---
 
 Steve Bannon was indicted on two counts of criminal contempt of Congress after refusing to comply with a subpoena from the House Select Committee investigating the January 6 Capitol attack. He was charged for failing to appear for a deposition and refusing to produce requested documents, which the committee believed contained critical information about the events leading to the insurrection.

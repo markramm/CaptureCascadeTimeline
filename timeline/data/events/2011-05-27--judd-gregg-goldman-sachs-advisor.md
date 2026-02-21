@@ -30,6 +30,10 @@ actors:
 - Judd Gregg
 - Goldman Sachs
 - Securities Industry and Financial Markets Association
+capture_lanes:
+- Legislative Capture
+- Systematic Corruption
+- Financial Capture
 ---
 
 Goldman Sachs announced the appointment of former Senator Judd Gregg (R-NH) as an international advisor to the firm, making him one of 17 such advisors providing strategic counsel to Goldman's executives and clients. Gregg had served three terms in the U.S. Senate from 1993 to 2011, serving as ranking Republican member on the Appropriations Committee, Banking Committee, and Health, Education, Labor and Pensions Committee. His Banking Committee position gave him direct oversight of Goldman Sachs and the broader financial sector, making his transition to Goldman particularly emblematic of regulatory capture.

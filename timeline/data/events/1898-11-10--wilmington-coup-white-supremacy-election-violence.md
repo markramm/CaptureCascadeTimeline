@@ -17,23 +17,22 @@ tags:
 - white-supremacy
 - reconstruction-end
 sources:
-- title: '1898 Wilmington Race Riot Commission Report'
+- title: 1898 Wilmington Race Riot Commission Report
   url: https://digital.ncdcr.gov/digital/collection/p249901coll22/id/5842
   outlet: North Carolina Office of Archives and History
   tier: 1
-- title: 'The Wilmington Coup of 1898'
+- title: The Wilmington Coup of 1898
   url: https://www.zinnedproject.org/news/tdih/wilmington-massacre/
   outlet: Zinn Education Project
   tier: 2
-- title: 'Wilmington on Fire Documentary'
+- title: Wilmington on Fire Documentary
   url: https://www.nps.gov/articles/000/wilmington-race-riot.htm
   outlet: National Park Service
   tier: 1
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
-- State Government Capture
-- Organized Violence
+- Legislative Capture
 ---
 
 Armed white supremacists in Wilmington, North Carolina launched the only successful coup d'etat in American history, overthrowing the legally elected biracial government, murdering an estimated 60-300 Black citizens, and establishing one-party white Democratic rule that would persist for decades. The Wilmington Massacre demonstrated that Reconstruction's promise of Black political participation would be crushed through organized violence when other disenfranchisement methods proved insufficient.
