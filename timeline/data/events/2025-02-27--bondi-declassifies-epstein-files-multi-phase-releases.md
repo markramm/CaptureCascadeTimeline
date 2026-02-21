@@ -57,6 +57,8 @@ sources:
   tier: 2
   outlet: Axios
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 On February 27, 2025, Attorney General Pamela Bondi released the first phase of declassified files related to convicted sex offender Jeffrey Epstein and his sexual exploitation of over 250 underage girls at residences in New York, Florida, and other locations. This initial release marked the beginning of a multi-phase declassification process that extended through November 2025, revealing previously secret documents about Epstein's criminal network.

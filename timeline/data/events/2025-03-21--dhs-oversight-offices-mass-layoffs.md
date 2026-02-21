@@ -17,7 +17,7 @@ tags:
 - civil-rights-violations
 capture_lanes:
 - Federal Workforce Capture
-- Constitutional & Democratic Breakdown
+- Democratic Erosion
 sources:
 - title: Homeland Security makes cuts to civil rights and immigration oversight offices
   url: https://www.npr.org/2025/03/21/nx-s1-5336738/homeland-security-rif-cuts-dhs

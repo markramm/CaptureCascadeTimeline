@@ -1,7 +1,7 @@
 ---
 id: 1917-07-12--bisbee-deportation-copper-companies-vigilantes-deport-miners
 date: '1917-07-12'
-title: "Bisbee Deportation: Phelps Dodge and Vigilantes Illegally Deport 1,300 Striking Miners"
+title: 'Bisbee Deportation: Phelps Dodge and Vigilantes Illegally Deport 1,300 Striking Miners'
 importance: 8
 actors:
 - Phelps Dodge Corporation
@@ -31,8 +31,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Political Capture
-- Legal Capture
+- Democratic Erosion
+- Judicial Capture
 - Labor Suppression
 ---
 

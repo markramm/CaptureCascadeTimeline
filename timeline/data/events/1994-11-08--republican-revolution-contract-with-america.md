@@ -25,9 +25,8 @@ sources:
   date: '2020-11-01'
   url: https://daily.jstor.org/the-midterms-that-changed-america/
 capture_lanes:
-- Political Strategy
+- Democratic Erosion
 - Electoral Manipulation
-- Conservative Movement Infrastructure
 tags:
 - political-revolution
 - corporate-influence

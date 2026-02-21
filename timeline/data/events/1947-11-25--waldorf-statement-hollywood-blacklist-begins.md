@@ -34,15 +34,15 @@ tags:
 - first-amendment
 - mpaa
 capture_lanes:
-- Ideological Capture
-- Corporate Complicity
+- Democratic Erosion
+- Corporate Capture
 sources:
-- title: 'Waldorf Statement - Wikipedia'
+- title: Waldorf Statement - Wikipedia
   url: https://en.wikipedia.org/wiki/Waldorf_Statement
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Hollywood Blacklist Launched 75 Years Ago At Waldorf Conference'
+- title: Hollywood Blacklist Launched 75 Years Ago At Waldorf Conference
   url: https://deadline.com/2022/11/hollywood-blacklist-anniversary-waldorf-conference-1235180135/
   outlet: Deadline
   date: '2024-01-01'

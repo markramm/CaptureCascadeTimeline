@@ -37,7 +37,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Foreign Policy & Imperialism
+- Democratic Erosion
 ---
 
 Fighting erupts between U.S. forces and Filipino independence fighters led by Emilio Aguinaldo, transforming America's supposed "liberation" of the Philippines from Spain into a brutal three-year war of imperial conquest. The conflict begins just two days before the Senate ratifies the Treaty of Paris that cedes the Philippines to the United States for $20 million, revealing the fundamental contradiction of American policy: Filipinos who fought alongside Americans against Spanish colonialism discover they have simply exchanged one colonial master for another. Aguinaldo's forces, which declared Philippine independence on June 12, 1898 and established the First Philippine Republic with a constitution modeled on America's own, refuse to accept U.S. sovereignty over their homeland. What McKinley administration officials characterize as suppressing an "insurrection" against legitimate American authority is actually Filipinos defending their independence against foreign occupation.

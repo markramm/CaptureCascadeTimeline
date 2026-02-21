@@ -1,8 +1,7 @@
 ---
 id: 1754-05-15--haudenosaunee-democratic-influence
 date: '1754-05-15'
-title: 'Haudenosaunee Confederacy: Democratic Practices Influencing Constitutional
-  Design'
+title: 'Haudenosaunee Confederacy: Democratic Practices Influencing Constitutional Design'
 importance: 9
 actors:
 - Haudenosaunee Confederacy
@@ -17,8 +16,7 @@ tags:
 - pre-colonial-democracy
 - democratic-innovation
 capture_lanes:
-- Democratic Foundations
-- Indigenous Political Systems
+- Democratic Erosion
 sources:
 - outlet: Library of Congress Blog
   title: The Haudenosaunee Confederacy and the Constitution

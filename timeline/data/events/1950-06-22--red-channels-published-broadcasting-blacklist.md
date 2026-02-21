@@ -23,15 +23,15 @@ tags:
 - broadcasting
 - counterattack
 capture_lanes:
-- Ideological Capture
-- Corporate Complicity
+- Democratic Erosion
+- Corporate Capture
 sources:
-- title: 'Red Channels - Wikipedia'
+- title: Red Channels - Wikipedia
   url: https://en.wikipedia.org/wiki/Red_Channels
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'How the Red Scare shaped American television'
+- title: How the Red Scare shaped American television
   url: https://www.pbs.org/wnet/americanmasters/huac-red-scare-shaped-television/35229/
   outlet: PBS
   date: '2024-01-01'

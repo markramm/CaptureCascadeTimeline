@@ -7,21 +7,19 @@ actors:
 - Marco Rubio
 capture_lanes:
 - Systematic Corruption
-- Foreign Policy Manipulation
+- Democratic Erosion
 capture_type: geopolitical_leverage
 connections:
 - US-Hungary Relations
 - Global Magnitsky Act Sanctions
 date: '2025-04-15'
-description: US removes sanctions from Antal Rogán, top aide to Hungary's Viktor Orbán,
-  reversing previous Biden administration action
+description: US removes sanctions from Antal Rogán, top aide to Hungary's Viktor Orbán, reversing previous Biden administration action
 id: 2025-04-15--us-removes-sanctions-from-antal-rog-n-aide-to-hungary-s-vikt
 importance: 7
 location:
 - Washington, D.C.
 - Budapest, Hungary
-notes: Demonstrates shifting geopolitical relationships and potential leverage in
-  diplomatic sanctions
+notes: Demonstrates shifting geopolitical relationships and potential leverage in diplomatic sanctions
 patterns:
 - kleptocratic-capture
 - geopolitical-realignment

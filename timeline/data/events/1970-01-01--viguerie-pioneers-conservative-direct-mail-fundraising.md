@@ -16,20 +16,20 @@ tags:
 - grassroots-mobilization
 - political-technology
 capture_lanes:
-- Political Coordination
-- Electoral Capture
+- Democratic Erosion
+- Electoral Manipulation
 sources:
 - title: Richard Viguerie - Wikipedia
   url: https://en.wikipedia.org/wiki/Richard_Viguerie
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'From Direct Mail to America''s Right Turn'
+- title: From Direct Mail to America's Right Turn
   url: https://www.npr.org/2004/12/15/4229442/from-direct-mail-to-americas-right-turn
   outlet: NPR
   date: '2004-12-15'
   verified: true
-- title: 'Empire of Direct Mail'
+- title: Empire of Direct Mail
   url: https://kansaspress.ku.edu/9780700633418/
   outlet: University Press of Kansas
   date: '2022-01-01'

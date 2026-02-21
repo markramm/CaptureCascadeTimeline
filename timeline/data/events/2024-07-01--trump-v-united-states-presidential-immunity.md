@@ -80,9 +80,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Authoritarian Consolidation
-- Erosion of Rule of Law
 - Executive Power Expansion
+- Democratic Erosion
 ---
 
 

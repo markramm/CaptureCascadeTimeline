@@ -1,8 +1,7 @@
 ---
 id: 2025-12-23--supreme-court-blocks-trump-national-guard-chicago-deployment
 date: '2025-12-23'
-title: Supreme Court Blocks Trump National Guard Deployment to Chicago, Ruling 'Regular
-  Forces' Means Military
+title: Supreme Court Blocks Trump National Guard Deployment to Chicago, Ruling 'Regular Forces' Means Military
 importance: 10
 actors:
 - U.S. Supreme Court
@@ -40,13 +39,11 @@ sources:
   url: https://dnyuz.com/2025/12/24/how-a-scholar-nudged-the-supreme-court-toward-its-troop-deployment-ruling/
   outlet: DNYUZ
   tier: 2
-- title: The implications of the Supreme Court ruling against Trump in National Guard
-    case
+- title: The implications of the Supreme Court ruling against Trump in National Guard case
   url: https://www.npr.org/2025/12/24/nx-s1-5655238/the-implications-of-the-supreme-court-ruling-against-trump-in-national-guard-case
   outlet: NPR
   tier: 1
-- title: Thoughts on the Supreme Court Ruling Against Trump in the Illinois National
-    Guard Case
+- title: Thoughts on the Supreme Court Ruling Against Trump in the Illinois National Guard Case
   url: https://reason.com/volokh/2025/12/25/thoughts-on-the-supreme-court-ruling-against-trump-in-the-illinois-national-guard-case/
   outlet: Reason (Volokh Conspiracy)
   tier: 2
@@ -88,8 +85,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- counter-resistance
-- judicial-independence
+- Democratic Erosion
+- Judicial Capture
 ---
 
 

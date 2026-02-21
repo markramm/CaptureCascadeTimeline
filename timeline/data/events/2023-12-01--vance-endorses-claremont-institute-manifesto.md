@@ -11,8 +11,7 @@ sources:
   url: https://www.currentaffairs.org/news/the-horrifying-fascist-manifesto-endorsed-by-j.d.-vance
   date: '2024-07-31'
 - outlet: Lawyers, Guns & Money
-  title: Why do all these authoritarian-misogynist policy manifestoes keep getting
-    endorsed by JD Vance?
+  title: Why do all these authoritarian-misogynist policy manifestoes keep getting endorsed by JD Vance?
   url: https://www.lawyersgunsmoneyblog.com/2024/09/why-do-all-these-authoritarian-misogynist-policy-manifestoes-keep-getting-endorsed-by-jd-vance
   date: '2024-09-03'
 - outlet: WBUR On Point
@@ -34,7 +33,7 @@ id: 2023-12-01--vance-endorses-claremont-institute-manifesto
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
 - Legislative Capture
-- Ideological Capture
+- Democratic Erosion
 ---
 
 Senator J.D. Vance continues to endorse Claremont Institute publications advocating for authoritarian governance approaches, part of a broader pattern of promoting right-wing ideological frameworks that challenge democratic norms. During a December 2023 speaking engagement, Vance aligned with the institute's controversial political philosophy, suggesting a deep ideological connection to their anti-democratic policy proposals.

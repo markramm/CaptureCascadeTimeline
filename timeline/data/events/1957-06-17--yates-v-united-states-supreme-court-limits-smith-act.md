@@ -1,8 +1,7 @@
 ---
 id: 1957-06-17--yates-v-united-states-supreme-court-limits-smith-act
 date: '1957-06-17'
-title: Yates v. United States Limits Smith Act Prosecutions, Supreme Court Begins
-  Retreat from McCarthyism
+title: Yates v. United States Limits Smith Act Prosecutions, Supreme Court Begins Retreat from McCarthyism
 importance: 7
 location: Washington, D.C.
 actors:
@@ -19,7 +18,7 @@ tags:
 - red-scare
 - democratic-breakthrough
 capture_lanes:
-- Counter-Movement
+- Democratic Erosion
 sources:
 - title: Yates v. United States
   url: https://supreme.justia.com/cases/federal/us/354/298/

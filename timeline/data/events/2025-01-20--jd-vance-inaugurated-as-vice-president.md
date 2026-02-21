@@ -32,7 +32,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
-- Political Network Consolidation
+- Democratic Erosion
 importance: 10
 ---
 

@@ -20,7 +20,7 @@ sources:
   url: https://www.fd.org/training-events
 capture_lanes:
 - Intelligence Penetration
-- Legal Resistance
+- Democratic Erosion
 tags:
 - legal-education
 - constitutional-defense

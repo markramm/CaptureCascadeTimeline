@@ -27,7 +27,7 @@ tags:
 - legal-challenges
 capture_lanes:
 - Judicial Capture
-- Constitutional Transformation
+- Democratic Erosion
 status: confirmed
 ---
 

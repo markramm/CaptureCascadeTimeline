@@ -20,12 +20,12 @@ actors:
 - Donald Trump
 sources:
 - url: https://www.washingtonpost.com/politics/2025/11/12/epstein-discharge-petition-house-massie-khanna-grijalva/
-  title: 'Epstein files vote can advance, with House discharge petition success'
+  title: Epstein files vote can advance, with House discharge petition success
   outlet: Washington Post
   date: '2025-11-13'
   tier: 1
 - url: https://www.cnn.com/2025/11/12/politics/trump-administration-meeting-house-effort-epstein-document-release
-  title: 'Trump administration holds Situation Room meeting over House effort to force release of Epstein files'
+  title: Trump administration holds Situation Room meeting over House effort to force release of Epstein files
   outlet: CNN
   date: '2025-11-13'
   tier: 1
@@ -46,10 +46,9 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Democratic Accountability Tools (SUCCESS)
-- Congressional Oversight (ACTIVE)
-- Executive Obstruction (FAILED)
-- Trump Pressure Campaign (FAILED)
+- Democratic Erosion
+- Legislative Capture
+- Executive Power Expansion
 ---
 
 On November 13, 2025, Rep.-Elect Adelita Grijalva (D-AZ) was sworn in to the House of Representatives at 4:00 PM, becoming the **218th and final signature** needed on the Epstein Files Transparency Act discharge petition. The signature **remained valid** through the end of the legislative day despite intense pressure from the Trump administration on Republican co-signers to withdraw their signatures.

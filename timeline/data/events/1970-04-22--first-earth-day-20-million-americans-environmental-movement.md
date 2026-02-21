@@ -4,37 +4,37 @@ date: '1970-04-22'
 title: First Earth Day Mobilizes 20 Million Americans, Launches Modern Environmental Movement
 importance: 8
 actors:
-  - Senator Gaylord Nelson
-  - Denis Hayes
-  - Environmental Action
-  - President Richard Nixon
+- Senator Gaylord Nelson
+- Denis Hayes
+- Environmental Action
+- President Richard Nixon
 tags:
-  - environmental-regulation
-  - grassroots-organizing
-  - public-health
-  - social-movement
+- environmental-regulation
+- grassroots-organizing
+- public-health
+- social-movement
 sources:
-  - title: "The History of Earth Day"
-    url: "https://www.earthday.org/history/"
-    outlet: "Earth Day Network"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Earth Day: The History of a Movement"
-    url: "https://www.epa.gov/history/earth-day-history-movement"
-    outlet: "Environmental Protection Agency"
-    date: 2023-04-22
-    verified: true
-    tier: 1
-  - title: "How the First Earth Day Came About"
-    url: "https://www.nrdc.org/stories/how-first-earth-day-came-about"
-    outlet: "Natural Resources Defense Council"
-    date: 2020-04-22
-    verified: true
-    tier: 2
+- title: The History of Earth Day
+  url: https://www.earthday.org/history/
+  outlet: Earth Day Network
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: 'Earth Day: The History of a Movement'
+  url: https://www.epa.gov/history/earth-day-history-movement
+  outlet: Environmental Protection Agency
+  date: 2023-04-22
+  verified: true
+  tier: 1
+- title: How the First Earth Day Came About
+  url: https://www.nrdc.org/stories/how-first-earth-day-came-about
+  outlet: Natural Resources Defense Council
+  date: 2020-04-22
+  verified: true
+  tier: 2
 capture_lanes:
-  - Social Movement Building
-  - Environmental Protection
+- Democratic Erosion
+- Environmental Capture
 status: confirmed
 ---
 

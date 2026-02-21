@@ -31,6 +31,8 @@ sources:
   date: '2020-05-01'
   tier: 2
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 In April 2020, CNP Action (the 501(c)(4) affiliate of the Council for National Policy) began hosting weekly conference calls to coordinate conservative response tactics to the COVID-19 pandemic, mobilizing Tea Party-like protests against virus-related public safety lockdowns in swing states.

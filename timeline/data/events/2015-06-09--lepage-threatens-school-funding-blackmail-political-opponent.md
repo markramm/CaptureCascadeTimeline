@@ -1,8 +1,7 @@
 ---
 id: 2015-06-09--lepage-threatens-school-funding-blackmail-political-opponent
 date: '2015-06-09'
-title: Maine Governor LePage Threatens to Withhold School Funding to Block Political
-  Opponent's Hiring
+title: Maine Governor LePage Threatens to Withhold School Funding to Block Political Opponent's Hiring
 importance: 7
 location: Augusta, Maine
 actors:
@@ -17,11 +16,9 @@ tags:
 - retribution
 - first-amendment
 capture_lanes:
-- executive
-- education
+- Democratic Erosion
 sources:
-- title: Investigation finds that LePage took steps to withdraw Good Will-Hinckley
-    funding
+- title: Investigation finds that LePage took steps to withdraw Good Will-Hinckley funding
   url: https://www.pressherald.com/2015/09/09/investigation-finds-that-lepage-took-steps-to-withdraw-good-will-hinckley-funding/
   outlet: Portland Press Herald
   tier: 2

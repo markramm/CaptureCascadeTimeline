@@ -15,15 +15,15 @@ tags:
 - tax-policy
 - wall-street-journal
 capture_lanes:
-- Ideological Capture
-- Media Influence
+- Democratic Erosion
+- Media Capture & Control
 sources:
 - title: Arthur Laffer - Britannica Money
   url: https://www.britannica.com/money/Arthur-Laffer
   outlet: Britannica
   date: '2024-01-01'
   verified: true
-- title: 'Reagan Promotes Supply-Side Economics'
+- title: Reagan Promotes Supply-Side Economics
   url: https://www.ebsco.com/research-starters/politics-and-government/reagan-promotes-supply-side-economics
   outlet: EBSCO Research Starters
   date: '2024-01-01'

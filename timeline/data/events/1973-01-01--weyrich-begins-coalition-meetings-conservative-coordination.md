@@ -16,8 +16,7 @@ tags:
 - powell-memo
 - movement-building
 capture_lanes:
-- Ideological Capture
-- Political Coordination
+- Democratic Erosion
 sources:
 - title: 'Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative Coalition'
   url: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd

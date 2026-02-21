@@ -16,8 +16,8 @@ tags:
 - chicago-school
 - economic-ideology
 capture_lanes:
-- Ideological Capture
-- Economic Capture
+- Democratic Erosion
+- Financial Capture
 sources:
 - title: 'The Laffer Curve: Past, Present, and Future'
   url: https://www.heritage.org/taxes/report/the-laffer-curve-past-present-and-future

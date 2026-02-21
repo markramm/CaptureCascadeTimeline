@@ -23,6 +23,8 @@ sources:
   outlet: BBC
   tier: 1
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 President-elect Trump revived his 2019 proposal to acquire Greenland, posting on Truth Social that US "ownership and control of Greenland is an absolute necessity" for "national security" and "freedom throughout the world." Trump simultaneously announced Ken Howery, PayPal co-founder and Peter Thiel associate, as his nominee for ambassador to Denmark. The announcement came despite Denmark's 2019 rejection of Trump's purchase offer, which Danish Prime Minister Frederiksen had called "absurd," prompting Trump to cancel a scheduled visit. Denmark responded by announcing plans to increase military presence in Greenland with additional personnel, patrol ships, long-range drones, and airport upgrades to accommodate F-35 fighter aircraft.

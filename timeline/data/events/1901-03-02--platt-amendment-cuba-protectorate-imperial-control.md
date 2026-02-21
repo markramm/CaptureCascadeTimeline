@@ -38,7 +38,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Foreign Policy & Imperialism
+- Democratic Erosion
 ---
 
 Congress enacts the Platt Amendment as part of the Army Appropriations Act, stipulating seven conditions for withdrawal of U.S. troops remaining in Cuba after the Spanish-American War, plus an eighth condition requiring Cuba to sign a treaty accepting these conditions. The amendment, spearheaded by Senator Orville H. Platt (chair of the Senate Committee on Relations with Cuba), General Leonard Wood (Governor of Cuba), and Secretary of War Elihu Root, originates from American mistrust of the Cuban Constituent Assembly and desire to maintain Cuba as a "self-governing colony" under U.S. control. The legislation severely restricts Cuba's sovereignty by denying its right to sign treaties with third powers, allowing the United States to oversee Cuban government finances, declaring U.S. right to intervene in Cuban affairs to preserve Cuban independence and maintain order, and requiring Cuba to cede land for U.S. military bases including Guantanamo Bay. Cubans reluctantly incorporate the amendment into their constitution under duress, recognizing that rejection would mean continued direct military occupation.

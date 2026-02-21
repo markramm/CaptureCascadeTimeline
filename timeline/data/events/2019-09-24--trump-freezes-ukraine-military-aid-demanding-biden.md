@@ -47,7 +47,7 @@ capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
 - Executive Power Expansion
-- Foreign Policy Manipulation
+- Democratic Erosion
 ---
 
 President Trump orchestrated a multi-month campaign to pressure Ukraine into investigating Joe Biden and his son Hunter, using $391 million in congressionally approved military aid as leverage. In a July 25 phone call with President Zelensky, Trump explicitly demanded 'I would like you to do us a favor though' immediately after Zelensky mentioned needing Javelin missiles to defend against Russia. Trump instructed Zelensky to collaborate with Rudy Giuliani and Attorney General Barr to investigate Biden, claiming 'Biden went around bragging that he stopped the prosecution.' A subsequent whistleblower complaint revealed this scheme, detailing how Trump used presidential power to solicit foreign interference in the 2020 U.S. election.

@@ -37,6 +37,8 @@ sources:
   tier: 2
   outlet: Axios
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 Pope Francis, the 266th Pope of the Catholic Church, died at age 88 on April 21, 2025, less than 24 hours after meeting with Vice President JD Vance on Easter Sunday. The Argentine-born pontiff, who had led the Catholic Church since 2013, had been hospitalized for pneumonia for five weeks before being released on March 23, 2025. His death came just one day after his final official meeting with Vice President Vance at the Vatican, marking a tragic end to his 12-year papacy.

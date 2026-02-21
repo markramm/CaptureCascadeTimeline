@@ -33,10 +33,9 @@ tags:
 id: 2025-01-20--jd-vance-sworn-in-50th-vp
 priority_id: RP-20250909-vance-succession-risk-analysis
 capture_lanes:
-- Political Succession
+- Democratic Erosion
 - Judicial Capture
 - Executive Power Expansion
-- Constitutional Transformation
 location: U.S. Capitol Rotunda, Washington, D.C.
 ---
 

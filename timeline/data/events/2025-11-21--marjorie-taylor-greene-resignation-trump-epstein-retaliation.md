@@ -45,9 +45,9 @@ patterns:
 - abuse-survivor-silencing
 notes: This resignation represents a dramatic break between Trump and one of his most vocal MAGA supporters. Greene had been one of Trump's fiercest defenders through both impeachments and all controversies. Her decision to support the Epstein files discharge petition—partnering with Democratic Rep. Ro Khanna—appears to have been the breaking point that Trump could not tolerate. Trump's use of the "traitor" label and threat of a primary challenge forced Greene to choose between her principles on sex trafficking transparency and her political survival. The incident reveals Trump's willingness to turn against even his most loyal allies when they cross him on issues he considers personal threats.
 capture_lanes:
-- Political Capture
+- Democratic Erosion
 - Executive Power Expansion
-- Information Control
+- Media Capture & Control
 ---
 
 On November 21, 2025, Rep. Marjorie Taylor Greene (R-GA) announced that she will resign from Congress effective January 5, 2026, following a dramatic falling out with President Donald Trump over her support for releasing Jeffrey Epstein investigation files. The resignation comes one week after Trump withdrew his endorsement and publicly called her "Marjorie Traitor Greene."

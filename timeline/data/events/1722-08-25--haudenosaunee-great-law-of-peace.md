@@ -32,8 +32,7 @@ tags:
 - democratic-innovations
 status: confirmed
 capture_lanes:
-- Political Capture
-- Democratic Foundations
+- Democratic Erosion
 ---
 
 The Haudenosaunee Confederacy established a sophisticated democratic system predating the US Constitution, featuring consensus-based decision-making, checks on leadership power, and equal representation across member nations. Scholarly research by Donald A. Grinde and James Johansen suggests this system significantly influenced early American democratic principles, though academic debate continues about the precise extent of its impact on the U.S. Constitution.

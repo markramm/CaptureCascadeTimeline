@@ -2,8 +2,7 @@
 id: 2025-08-18--texas-democrats-return-redistricting-standoff-ends
 date: '2025-08-18'
 importance: 9
-title: Texas Democrats End 2-Week Standoff, Return for Trump-Ordered Redistricting
-  Vote
+title: Texas Democrats End 2-Week Standoff, Return for Trump-Ordered Redistricting Vote
 location: Texas
 actors:
 - Texas House Democrats
@@ -22,9 +21,9 @@ tags:
 - authoritarian-tactics
 - political-prisoner
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Election System Attack
-- Law Enforcement Weaponization
+- Democratic Erosion
+- Electoral Manipulation
+- Civil Rights Suppression
 sources:
 - title: Texas Democrats return to Austin after redistricting walkout
   url: https://www.texastribune.org/2025/08/18/texas-democrats-return-redistricting-map-illinois/
@@ -41,12 +40,7 @@ sources:
   outlet: CNN
   date: '2025-08-04'
   archive_url: https://web.archive.org/web/20250804000000/https://www.cnn.com/politics/live-news/texas-democrats-redistricting-quorum-08-04-25
-notes: Democrats fled to Illinois, New York, Massachusetts to break quorum and block
-  mid-decade redistricting ordered by Trump. Upon return, Speaker Burrows imposed
-  unprecedented surveillance requiring "permission slips" signed by Speaker and mandatory
-  DPS escorts to leave chamber. Collier filed habeas corpus petition calling restraint
-  illegal. Maps would give GOP 30 of 38 Texas congressional seats. Represents escalation
-  to police-state tactics against opposition.
+notes: Democrats fled to Illinois, New York, Massachusetts to break quorum and block mid-decade redistricting ordered by Trump. Upon return, Speaker Burrows imposed unprecedented surveillance requiring "permission slips" signed by Speaker and mandatory DPS escorts to leave chamber. Collier filed habeas corpus petition calling restraint illegal. Maps would give GOP 30 of 38 Texas congressional seats. Represents escalation to police-state tactics against opposition.
 status: confirmed
 ---
 

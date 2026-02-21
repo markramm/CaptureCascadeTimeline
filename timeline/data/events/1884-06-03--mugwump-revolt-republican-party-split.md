@@ -1,7 +1,7 @@
 ---
 id: 1884-06-03--mugwump-revolt-republican-party-split
 date: '1884-06-03'
-title: 'Mugwump Republicans Bolt Party Over Blaine Nomination, Citing Corruption'
+title: Mugwump Republicans Bolt Party Over Blaine Nomination, Citing Corruption
 importance: 8
 actors:
 - James G. Blaine
@@ -10,7 +10,7 @@ actors:
 - Mark Twain
 - Henry Ward Beecher
 sources:
-- title: 'Mugwumps'
+- title: Mugwumps
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Mugwumps
   year: 2024
@@ -18,7 +18,7 @@ sources:
   outlet: Dickinson College
   url: https://blogs.dickinson.edu/hist-211pinsker/2010/10/11/mugwumps-and-mudslinging-the-bitter-election-of-1884/
   year: 2024
-- title: 'United States presidential election of 1884'
+- title: United States presidential election of 1884
   outlet: Britannica
   url: https://www.britannica.com/event/United-States-presidential-election-of-1884
   year: 2024
@@ -28,9 +28,8 @@ tags:
 - reform-movements
 - railroad-corruption
 capture_lanes:
-- Elite Reform Movement
-- Corporate Corruption Backlash
-- Third-Party Dynamics
+- Democratic Erosion
+- Corporate Capture
 status: confirmed
 ---
 

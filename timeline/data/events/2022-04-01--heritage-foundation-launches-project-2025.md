@@ -16,7 +16,7 @@ tags:
 - presidential-transition
 capture_lanes:
 - Executive Power Expansion
-- Institutional Capture
+- Democratic Erosion
 sources:
 - title: Heritage Announces 2025 Presidential Transition Project
   url: https://www.heritage.org/press/heritage-announces-2025-presidential-transition-project-hiring-paul-dans-direct-new

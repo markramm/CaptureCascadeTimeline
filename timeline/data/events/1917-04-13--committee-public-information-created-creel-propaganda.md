@@ -1,7 +1,7 @@
 ---
 id: 1917-04-13--committee-public-information-created-creel-propaganda
 date: '1917-04-13'
-title: "Committee on Public Information Created: Wilson Establishes Federal Propaganda Machine"
+title: 'Committee on Public Information Created: Wilson Establishes Federal Propaganda Machine'
 importance: 8
 actors:
 - President Woodrow Wilson
@@ -20,18 +20,18 @@ sources:
   url: https://en.wikipedia.org/wiki/Committee_on_Public_Information
   outlet: Wikipedia
   tier: 2
-- title: "The Committee on Public Information"
+- title: The Committee on Public Information
   url: https://www.archives.gov/publications/prologue/1996/spring/american-propaganda-1.html
   outlet: National Archives
   tier: 1
-- title: "Creel Committee: The Birth of American Propaganda"
+- title: 'Creel Committee: The Birth of American Propaganda'
   url: https://firstworldwar.com/features/creel.htm
   outlet: First World War.com
   tier: 2
 status: confirmed
 capture_lanes:
-- Political Capture
-- Media Capture
+- Democratic Erosion
+- Media Capture & Control
 ---
 
 One week after Congress declared war on Germany, President Woodrow Wilson created the Committee on Public Information (CPI) by executive order, establishing the first large-scale government propaganda apparatus in American history. Journalist George Creel was appointed chairman, heading a massive operation that would employ 150,000 people and pioneer techniques of psychological manipulation later studied by both democratic and authoritarian governments worldwide.

@@ -36,7 +36,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Foreign Policy & Imperialism
+- Democratic Erosion
 ---
 
 The United States declares war on Spain following the April 20 ultimatum demanding Spanish withdrawal from Cuba, launching what Secretary of State John Hay will call "a splendid little war" that transforms America into a global imperial power. Spain had severed diplomatic ties on April 21 and declared war on April 23, making the U.S. declaration a formalization of hostilities manufactured through months of yellow journalism following the February 15 USS Maine explosion. The war ostensibly aims to liberate Cuba from Spanish colonial oppression, but rapidly evolves into a campaign of territorial acquisition spanning the Caribbean and Pacific, fulfilling expansionist ambitions that Theodore Roosevelt and other imperialists have championed since the 1880s.

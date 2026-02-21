@@ -40,7 +40,7 @@ sources:
   date: '2026-01-21'
   tier: 2
 capture_lanes:
-- Foreign Policy Aggression
+- Democratic Erosion
 ---
 
 U.S. Special Envoy Steve Witkoff announced the commencement of Phase Two of Trump's "Comprehensive Plan to End the Gaza Conflict" following the return of the final Israeli hostage. Trump established the National Committee for the Administration of Gaza (NCAG), a 15-member body of Palestinian technocrats led by former PA deputy minister Ali Shaath to manage day-to-day governance and reconstruction.

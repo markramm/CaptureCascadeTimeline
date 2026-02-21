@@ -24,6 +24,8 @@ sources:
   outlet: Anti-Defamation League
   tier: 1
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 Nick Fuentes launched the inaugural America First Political Action Conference (AFPAC) in Washington, D.C., deliberately scheduled to coincide with the mainstream Conservative Political Action Conference (CPAC) as a far-right alternative. The conference featured prominent white nationalist and extremist figures including Michelle Malkin, Patrick Casey (former leader of neo-Nazi group Identity Evropa), and former Daily Caller editor Scott Greer. AFPAC was marketed as an "America First" gathering challenging what Fuentes characterized as insufficient conservatism from establishment organizations. The conference established an annual white nationalist gathering that would become increasingly controversial as elected officials began attending in subsequent years. The first AFPAC set a precedent for mainstreaming white nationalist rhetoric within Republican politics, creating infrastructure for far-right activists to network and coordinate outside traditional conservative institutions. The event was described by analysts as a "white nationalist alternative" to CPAC, representing an attempt to pull the Republican Party further toward explicit white nationalism and antisemitism.

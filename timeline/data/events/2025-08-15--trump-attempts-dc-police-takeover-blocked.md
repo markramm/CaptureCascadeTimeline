@@ -21,18 +21,17 @@ tags:
 - dc-autonomy
 - constitutional-crisis
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Executive Power & Emergency Authority
+- Democratic Erosion
+- Executive Power Expansion
 - Federal Workforce Capture
-- Judicial Capture & Corruption
+- Judicial Capture
 sources:
 - title: Trump admin backs off Washington, DC police takeover after striking deal
   url: https://www.aljazeera.com/news/2025/8/16/trump-admin-backs-off-washington-dc-police-takeover-after-striking-deal
   outlet: Al Jazeera
   date: '2025-08-16'
   archive_url: https://web.archive.org/web/20250816000000/https://www.aljazeera.com/news/2025/8/16/trump-admin-backs-off-washington-dc-police-takeover-after-striking-deal
-- title: Trump administration partially retreats, agrees to leave DC police chief
-    in charge
+- title: Trump administration partially retreats, agrees to leave DC police chief in charge
   url: https://www.pbs.org/newshour/politics/trump-administration-partially-retreats-agrees-to-leave-dc-police-chief-in-charge
   outlet: PBS News
   date: '2025-08-16'
@@ -42,11 +41,7 @@ sources:
   outlet: CNN
   date: '2025-08-15'
   archive_url: https://web.archive.org/web/20250815000000/https://www.cnn.com/politics/live-news/washington-dc-trump-police-lawsuit-08-15-25
-notes: Bondi initially ordered DC to accept DEA boss Terry Cole as "emergency police
-  commissioner" with full control, requiring MPD approval for all directives. Federal
-  Judge Ana Reyes threatened restraining order, forcing DOJ to negotiate. Cole now
-  serves as Bondi's "designee" rather than replacement chief. Represents attempted
-  federal seizure of local law enforcement using emergency powers.
+notes: Bondi initially ordered DC to accept DEA boss Terry Cole as "emergency police commissioner" with full control, requiring MPD approval for all directives. Federal Judge Ana Reyes threatened restraining order, forcing DOJ to negotiate. Cole now serves as Bondi's "designee" rather than replacement chief. Represents attempted federal seizure of local law enforcement using emergency powers.
 status: confirmed
 ---
 

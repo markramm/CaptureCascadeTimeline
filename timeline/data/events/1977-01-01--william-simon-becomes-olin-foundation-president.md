@@ -16,7 +16,7 @@ tags:
 - institutional-capture
 capture_lanes:
 - Corporate Capture
-- Plutocratic Capture
+- Democratic Erosion
 sources:
 - title: John M. Olin Foundation - Wikipedia
   url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation

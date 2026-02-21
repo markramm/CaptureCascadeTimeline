@@ -25,6 +25,8 @@ sources:
   outlet: Fortune
   date: '2026-02-01'
   tier: 2
+capture_lanes:
+- Democratic Erosion
 ---
 
 February 1, 2026—the deadline Trump set for imposing 10% tariffs on eight NATO allies unless Denmark agreed to sell Greenland—passes without tariffs being implemented, following Trump's announcement of a vague "framework" agreement with NATO Secretary General Mark Rutte at Davos on January 21.

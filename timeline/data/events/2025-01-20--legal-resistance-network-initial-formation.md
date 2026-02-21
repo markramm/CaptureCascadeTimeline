@@ -27,10 +27,8 @@ tags:
 - young-lawyers-movement
 capture_lanes:
 - Electoral Manipulation
-- Democratic Resistance
-context_notes: The legal summit represents a coordinated response by young Black lawyers
-  to protect democratic institutions, building on grassroots organizing strategies
-  developed by YBLOC since its founding in 2019.
+- Democratic Erosion
+context_notes: The legal summit represents a coordinated response by young Black lawyers to protect democratic institutions, building on grassroots organizing strategies developed by YBLOC since its founding in 2019.
 status: confirmed
 ---
 

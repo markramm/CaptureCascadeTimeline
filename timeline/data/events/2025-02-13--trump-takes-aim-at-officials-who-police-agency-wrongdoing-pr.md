@@ -37,7 +37,7 @@ patterns:
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Intelligence Penetration
-- Institutional Capture
+- Democratic Erosion
 ---
 
 President Trump fired key government officials overseeing ethics and whistleblower protections, including David Huitema (Office of Government Ethics), Hampton Dellinger (Office of Special Counsel), and Colleen Shogan (National Archivist). The removals were part of a broader effort to reshape federal agencies and potentially expose confidential whistleblower information.

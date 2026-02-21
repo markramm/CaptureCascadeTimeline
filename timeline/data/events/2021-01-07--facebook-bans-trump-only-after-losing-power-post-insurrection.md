@@ -1,7 +1,7 @@
 ---
 id: 2021-01-07--facebook-bans-trump-only-after-losing-power-post-insurrection
 date: '2021-01-07'
-title: 'Facebook Bans Trump Only After He Loses Power, Following January 6 Insurrection It Enabled'
+title: Facebook Bans Trump Only After He Loses Power, Following January 6 Insurrection It Enabled
 importance: 9
 actors:
 - Mark Zuckerberg
@@ -18,32 +18,32 @@ tags:
 - insurrection
 - political-calculation
 sources:
-- title: 'Former President Trumps suspension - Oversight Board'
+- title: Former President Trumps suspension - Oversight Board
   url: https://www.oversightboard.com/decision/fb-691qamhj/
   outlet: Facebook Oversight Board
   date: '2021-05-05'
   tier: 1
-- title: 'Trump Suspended From Facebook For 2 Years'
+- title: Trump Suspended From Facebook For 2 Years
   url: https://www.npr.org/2021/06/04/1003284948/trump-suspended-from-facebook-for-2-years
   outlet: NPR
   date: '2021-06-04'
   tier: 1
-- title: 'Trumps Facebook ban upheld by Oversight Board'
+- title: Trumps Facebook ban upheld by Oversight Board
   url: https://www.nbcnews.com/tech/tech-news/trump-s-facebook-ban-upheld-oversight-board-n1266339
   outlet: NBC News
   date: '2021-05-05'
   tier: 1
-- title: 'In Response to Oversight Board, Trump Suspended for Two Years'
+- title: In Response to Oversight Board, Trump Suspended for Two Years
   url: https://about.fb.com/news/2021/06/facebook-response-to-oversight-board-recommendations-trump/
   outlet: Facebook
   date: '2021-06-04'
   tier: 1
 status: confirmed
 capture_lanes:
-- Political Opportunism
-- Delayed Accountability
-- Platform Capture
-- Corporate Cowardice
+- Democratic Erosion
+- Systematic Corruption
+- Media Capture & Control
+- Corporate Capture
 ---
 
 Facebook bans Trump from the platform on January 7, 2021, one day after the Capitol insurrection his election fraud lies helped incite, but only after he has lost political power and can no longer retaliate against the company. The ban follows four years of systematic Terms of Service violations that Facebook tolerated to avoid regulatory consequences, demonstrating enforcement only when politically safe.

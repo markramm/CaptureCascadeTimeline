@@ -14,8 +14,7 @@ sources:
   title: 'Authoritarian suppression further on the rise: EIU 2024 democracy report'
   url: https://www.democracywithoutborders.org/35822/authoritarian-suppression-further-on-the-rise-eiu-2024-democracy-report/
 - outlet: Yahoo Finance
-  title: 'EIU''s 2024 Democracy Index: trend of global democratic decline and strengthening
-    authoritarianism continues through 2024'
+  title: 'EIU''s 2024 Democracy Index: trend of global democratic decline and strengthening authoritarianism continues through 2024'
   url: https://finance.yahoo.com/news/eius-2024-democracy-index-trend-000100049.html
 tags:
 - democracy-index
@@ -28,8 +27,7 @@ id: 2025-02-27--eiu-democracy-index-2024-historic-low
 priority_id: RP-20250909-capture-cascade-part-7-the-new-normal
 capture_lanes:
 - Intelligence Penetration
-- Democratic Decline
-- Global Political Trends
+- Democratic Erosion
 ---
 
 The Economist Intelligence Unit's 2024 Democracy Index revealed a historic low global democracy score of 5.17 (on a 0-10 scale), indicating a significant decline in democratic health worldwide. The report showed that 130 of 167 countries experienced democratic erosion, with 39.2% of the world's population living under authoritarian rule. Notable downgrades included France and South Korea moving from 'full' to 'flawed' democracies.

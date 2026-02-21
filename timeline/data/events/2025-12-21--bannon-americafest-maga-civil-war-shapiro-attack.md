@@ -1,7 +1,7 @@
 ---
 id: 2025-12-21--bannon-americafest-maga-civil-war-shapiro-attack
 date: '2025-12-21'
-title: "Bannon Declares Conservative Movement Civil War at AmericaFest, Attacks Ben Shapiro as 'Cancer'"
+title: Bannon Declares Conservative Movement Civil War at AmericaFest, Attacks Ben Shapiro as 'Cancer'
 importance: 8
 actors:
 - Steve Bannon
@@ -16,7 +16,7 @@ tags:
 - america-first
 - conservative-movement
 sources:
-- title: "Steve Bannon Weighs In On Conservative Movement's Future At AmericaFest Amid Ideological Rift"
+- title: Steve Bannon Weighs In On Conservative Movement's Future At AmericaFest Amid Ideological Rift
   outlet: Daily Caller
   url: https://dailycaller.com/2025/12/21/steve-bannon-conservative-americafest-tpusa-maga-shapiro-tucker/
   tier: 2
@@ -26,8 +26,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Right-Wing Coalition
-- Media Manipulation
+- Democratic Erosion
+- Media Capture & Control
 ---
 
 At Turning Point USA's AmericaFest conference in Phoenix, Steve Bannon described escalating conservative infighting as "a proxy on '28" for the 2028 presidential election succession battle. Bannon sharply attacked Ben Shapiro, calling him "a cancer" and a "hardcore never-Trumper," and accused Shapiro and Mark Levin of prioritizing Israel over American interests.

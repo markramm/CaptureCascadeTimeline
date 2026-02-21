@@ -20,9 +20,9 @@ tags:
 - senate-filibuster
 - democratic-reform
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Corporate Capture & Regulatory Breakdown
-- Legislative Branch Institutional Breakdown
+- Democratic Erosion
+- Regulatory Capture
+- Legislative Capture
 sources:
 - title: 'Weekly Address: President Obama Castigates GOP Leadership for Blocking Fixes for the Citizens United Decision'
   url: https://obamawhitehouse.archives.gov/the-press-office/2010/09/18/weekly-address-president-obama-castigates-gop-leadership-blocking-fixes-

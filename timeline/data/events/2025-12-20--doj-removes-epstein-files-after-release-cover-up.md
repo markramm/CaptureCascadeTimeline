@@ -37,6 +37,8 @@ actors:
 - Jeffrey Epstein
 - NPR
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 NPR identified more than a dozen files that the Department of Justice released on Friday, December 19, 2025, but which were no longer available on the DOJ's Epstein Library website by Saturday afternoon, December 20. The removed documents included a photograph showing President Trump, Jeffrey Epstein, and Ghislaine Maxwell together displayed in a desk drawer among other photographs, as well as images of massage rooms, nude photographs, and nude paintings.

@@ -32,9 +32,9 @@ sources:
   outlet: Brennan Center for Justice
   date: 2011-12-31
 capture_lanes:
-- State Capture
+- Democratic Erosion
 - Electoral Manipulation
-- Corporate Influence
+- Corporate Capture
 - Legislative Capture
 ---
 

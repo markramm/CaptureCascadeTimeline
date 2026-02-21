@@ -15,7 +15,7 @@ tags:
 - accountability-crisis
 - institutional-capture
 sources:
-- title: 'Burr versus Jefferson versus Marshall'
+- title: Burr versus Jefferson versus Marshall
   url: https://www.neh.gov/humanities/2013/mayjune/feature/burr-versus-jefferson-versus-marshall
   outlet: National Endowment for the Humanities
   date: '2024-01-01'
@@ -27,7 +27,7 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'Burr Conspiracy Trial (1807)'
+- title: Burr Conspiracy Trial (1807)
   url: https://www.famous-trials.com/burr
   outlet: Famous Trials
   date: '2024-01-01'
@@ -35,7 +35,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Political Capture
+- Democratic Erosion
 ---
 
 President Thomas Jefferson issues a proclamation warning that an unlawful military expedition against Spanish Mexico is being planned, marking the beginning of federal response to the Burr Conspiracy—a treasonous plot by former Vice President Aaron Burr to either invade Spanish territories or detach western states from the Union. Burr's conspiracy originates in discussions with General James Wilkinson, head of a party favoring western separation from Atlantic states, who communicates with Burr using a cipher. When Wilkinson believes Burr's plan will fail, he betrays Burr to save himself, sending Jefferson a letter outlining the conspiracy without initially naming Burr. Jefferson acts on testimony from Wilkinson despite knowing his character to be unreliable.

@@ -6,15 +6,13 @@ actors:
 - Michael Missal
 capture_lanes:
 - Systematic Corruption
-- Institutional Capture
+- Democratic Erosion
 capture_type: institutional_manipulation
 connections:
 - Elon Musk investigations
 - Federal agency oversight
 date: '2025-07-17'
-description: Trump administration's mass firing of 17 federal inspectors general,
-  creating a chilling effect on government oversight and potentially obstructing ongoing
-  investigations
+description: Trump administration's mass firing of 17 federal inspectors general, creating a chilling effect on government oversight and potentially obstructing ongoing investigations
 id: 2025-07-17--in-the-trump-administration-watchdogs-are-watching-their-bac
 importance: 8
 location: Washington, D.C.

@@ -5,40 +5,40 @@ title: Supreme Court Affirms Montgomery Bus Segregation Unconstitutional, Boycot
 importance: 9
 location: Montgomery, Alabama
 actors:
-  - Martin Luther King Jr.
-  - Rosa Parks
-  - E.D. Nixon
-  - Jo Ann Robinson
-  - Montgomery Improvement Association
-  - U.S. Supreme Court
-  - NAACP Legal Defense Fund
+- Martin Luther King Jr.
+- Rosa Parks
+- E.D. Nixon
+- Jo Ann Robinson
+- Montgomery Improvement Association
+- U.S. Supreme Court
+- NAACP Legal Defense Fund
 tags:
-  - civil-rights
-  - segregation
-  - judicial
-  - nonviolent-resistance
-  - democratic-breakthrough
+- civil-rights
+- segregation
+- judicial
+- nonviolent-resistance
+- democratic-breakthrough
 capture_lanes:
-  - Counter-Movement
+- Democratic Erosion
 sources:
-  - title: "Browder v. Gayle (1956)"
-    url: "https://www.loc.gov/item/usrep352903/"
-    outlet: "Library of Congress"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Montgomery Bus Boycott"
-    url: "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
-    outlet: "Martin Luther King Jr. Research and Education Institute"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Montgomery Bus Boycott"
-    url: "https://www.archives.alabama.gov/teacher/rights/lesson1/doc1.html"
-    outlet: "Alabama Department of Archives and History"
-    date: 2024-01-01
-    verified: true
-    tier: 2
+- title: Browder v. Gayle (1956)
+  url: https://www.loc.gov/item/usrep352903/
+  outlet: Library of Congress
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: Montgomery Bus Boycott
+  url: https://kinginstitute.stanford.edu/montgomery-bus-boycott
+  outlet: Martin Luther King Jr. Research and Education Institute
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Montgomery Bus Boycott
+  url: https://www.archives.alabama.gov/teacher/rights/lesson1/doc1.html
+  outlet: Alabama Department of Archives and History
+  date: 2024-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

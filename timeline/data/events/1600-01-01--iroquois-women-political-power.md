@@ -34,8 +34,7 @@ sources:
   url: https://www.womenhistoryblog.com/2008/05/iroquois-women.html
 status: confirmed
 capture_lanes:
-- Traditional Governance
-- Indigenous Democratic Systems
+- Democratic Erosion
 ---
 
 The Iroquois Confederacy demonstrated an advanced governance model with women, specifically Clan Mothers, holding critical political power. They possessed the authority to nominate, elect, and impeach male leaders, manage land redistribution, and define tribal social and political norms. This system represented a sophisticated democratic framework that challenged European patriarchal governance structures of the time.

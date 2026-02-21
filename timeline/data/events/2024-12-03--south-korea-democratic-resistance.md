@@ -31,7 +31,7 @@ sources:
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
-- Democratic Resistance
+- Democratic Erosion
 status: confirmed
 ---
 

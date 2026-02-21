@@ -26,6 +26,8 @@ sources:
   outlet: NPR
   tier: 1
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 Trump sent a letter to Iran's Supreme Leader Ali Khamenei via an Emirati diplomat, demanding nuclear negotiations with a 60-day deadline. Trump warned of "serious military consequences" if Iran refused, demanding Iran accept talks or face military intervention. Khamenei initially rebuffed the outreach publicly, stating: "The insistence of some bullying governments to negotiate is not to solve problems, but to impose their own expectations." However, after advisors warned that war threats and economic crisis could collapse the regime, Khamenei later reversed course and expressed readiness for nuclear negotiations.

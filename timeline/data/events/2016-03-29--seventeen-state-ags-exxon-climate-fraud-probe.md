@@ -41,9 +41,9 @@ sources:
   outlet: EcoWatch
 status: confirmed
 capture_lanes:
-- Legal Accountability
-- State Government Action
-- Corporate Fraud Investigation
+- Democratic Erosion
+- Legislative Capture
+- Corporate Capture
 ---
 
 On March 29, 2016, a coalition of 17 state attorneys general announced coordinated investigations into ExxonMobil for potential climate denial fraud at a daylong climate change conference in Manhattan. Massachusetts Attorney General Maura Healey and Virgin Islands Attorney General Claude Walker joined New York Attorney General Eric Schneiderman, who had issued the first subpoena to ExxonMobil in November 2015. The unprecedented coalition from California, Connecticut, D.C., Illinois, Iowa, Maine, Maryland, Massachusetts, Minnesota, New Mexico, New York, Oregon, Rhode Island, Virgin Islands, Virginia, Vermont, and Washington represented the largest coordinated state-level investigation of corporate climate fraud in American history.

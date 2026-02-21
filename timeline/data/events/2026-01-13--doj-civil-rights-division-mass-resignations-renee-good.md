@@ -4,35 +4,35 @@ date: '2026-01-13'
 title: DOJ Civil Rights Division Leaders Mass Resign Over Refusal to Investigate Renee Good Killing
 importance: 9
 actors:
-  - Harmeet Dhillon
-  - Joseph H. Thompson
-  - Jim Felte
-  - Todd Blanche
-  - Pam Bondi
+- Harmeet Dhillon
+- Joseph H. Thompson
+- Jim Felte
+- Todd Blanche
+- Pam Bondi
 tags:
-  - doj
-  - civil-rights-division
-  - resignations
-  - renee-good
-  - cover-up
-  - ice
-  - prosecutor-revolt
+- doj
+- civil-rights-division
+- resignations
+- renee-good
+- cover-up
+- ice
+- prosecutor-revolt
 capture_lanes:
-  - Institutional Capture
-  - Civil Rights
+- Democratic Erosion
+- Civil Rights Suppression
 sources:
-  - outlet: NPR
-    title: Minnesota federal prosecutors resign after DOJ push to investigate Renee Good's widow
-    url: https://www.npr.org/2026/01/13/nx-s1-5676123/minnesota-federal-prosecutors-resign-after-doj-push-to-investigate-renee-goods-widow
-    date: '2026-01-13'
-  - outlet: CNN
-    title: Trump administration efforts to shift blame for ICE shooting wreak havoc on Minnesota US attorney's office
-    url: https://www.cnn.com/2026/01/13/politics/resignations-minnesota-prosecutors-trump-ice-shooting
-    date: '2026-01-13'
-  - outlet: Democracy Now
-    title: Four Top DOJ Officials Resign over Decision Not to Probe ICE Killing of Renee Good
-    url: https://www.democracynow.org/2026/1/13/headlines/four_top_doj_officials_resign_over_decision_not_to_probe_ice_killing_of_renee_good
-    date: '2026-01-13'
+- outlet: NPR
+  title: Minnesota federal prosecutors resign after DOJ push to investigate Renee Good's widow
+  url: https://www.npr.org/2026/01/13/nx-s1-5676123/minnesota-federal-prosecutors-resign-after-doj-push-to-investigate-renee-goods-widow
+  date: '2026-01-13'
+- outlet: CNN
+  title: Trump administration efforts to shift blame for ICE shooting wreak havoc on Minnesota US attorney's office
+  url: https://www.cnn.com/2026/01/13/politics/resignations-minnesota-prosecutors-trump-ice-shooting
+  date: '2026-01-13'
+- outlet: Democracy Now
+  title: Four Top DOJ Officials Resign over Decision Not to Probe ICE Killing of Renee Good
+  url: https://www.democracynow.org/2026/1/13/headlines/four_top_doj_officials_resign_over_decision_not_to_probe_ice_killing_of_renee_good
+  date: '2026-01-13'
 status: confirmed
 ---
 

@@ -13,8 +13,7 @@ actors:
 - Federal Prosecutors
 sources:
 - outlet: NBC News
-  title: Trump Administration Fires DOJ Officials Who Worked on Criminal Investigations
-    of the President
+  title: Trump Administration Fires DOJ Officials Who Worked on Criminal Investigations of the President
   url: https://www.nbcnews.com/politics/justice-department/trump-administration-fires-doj-officials-worked-criminal-investigation-rcna189512
   date: '2025-02-15'
 - outlet: CNN Politics
@@ -27,8 +26,8 @@ sources:
   date: '2025-02-15'
 capture_lanes:
 - Regulatory Capture
-- Political Capture
-- Judicial Interference
+- Democratic Erosion
+- Judicial Capture
 tags:
 - doj-weaponization
 - prosecutorial-independence

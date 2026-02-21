@@ -2,9 +2,7 @@
 id: 1974-01-01--richard-butler-establishes-aryan-nations-hayden-lake
 date: '1974-01-01'
 title: Richard Butler Establishes Aryan Nations Compound in Hayden Lake, Idaho
-description: White supremacist Richard Butler moves to Hayden Lake, Idaho, and establishes
-  a 20-acre Aryan Nations compound that becomes the center of neo-Nazi organizing
-  in North America throughout the 1980s
+description: White supremacist Richard Butler moves to Hayden Lake, Idaho, and establishes a 20-acre Aryan Nations compound that becomes the center of neo-Nazi organizing in North America throughout the 1980s
 status: confirmed
 importance: 7
 location: Hayden Lake, Idaho
@@ -41,8 +39,7 @@ sources:
   date: '2025-01-01'
   verified: true
   tier: 2
-- title: Refusing to let hate have the final word - the hidden history of human rights
-    in Idaho
+- title: Refusing to let hate have the final word - the hidden history of human rights in Idaho
   url: https://idahocapitalsun.com/2025/01/08/refusing-to-let-hate-have-the-final-word-the-hidden-history-of-human-rights-in-Idaho/
   outlet: Idaho Capital Sun
   date: '2025-01-08'
@@ -78,8 +75,7 @@ sources:
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative
-    Coalition'
+- title: 'Mobilizing the Moral Majority: Paul Weyrich and the Creation of a Conservative Coalition'
   url: https://researchrepository.wvu.edu/cgi/viewcontent.cgi?article=7468&context=etd
   outlet: West Virginia University Research Repository
   date: '2017-01-01'
@@ -88,12 +84,9 @@ connections: []
 patterns:
 - extremist-organizing
 - political-violence
-notes: Part of comprehensive kleptocracy timeline tracking institutional capture and
-  extremist political influence.
+notes: Part of comprehensive kleptocracy timeline tracking institutional capture and extremist political influence.
 capture_lanes:
-- Extremist Political Influence
-- Institutional Intimidation
-- Domestic Terrorism Networks
+- Democratic Erosion
 ---
 
 

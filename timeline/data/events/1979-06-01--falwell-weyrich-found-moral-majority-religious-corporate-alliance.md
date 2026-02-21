@@ -19,8 +19,7 @@ tags:
 - conservative-coalition
 - corporate-funding
 capture_lanes:
-- Ideological Capture
-- Political Coordination
+- Democratic Erosion
 - Corporate Capture
 sources:
 - title: Moral Majority - Wikipedia

@@ -38,8 +38,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- party-capture
-- elite-networks
+- Democratic Erosion
 ---
 
 The Democratic National Convention in Chicago replaces Vice President Henry Wallace with Senator Harry Truman on July 21, 1944, in a backroom deal orchestrated by conservative party bosses and corporate interests despite Wallace's overwhelming popularity with convention delegates. The manipulation ensures that when Roosevelt dies less than a year later, the presidency passes to a candidate more acceptable to business and Southern Democratic interests.

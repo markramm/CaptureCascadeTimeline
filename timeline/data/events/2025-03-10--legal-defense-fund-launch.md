@@ -43,8 +43,7 @@ tags:
 - strategic-litigation
 capture_lanes:
 - Systematic Corruption
-- Legal Resistance
-- Institutional Defense
+- Democratic Erosion
 status: confirmed
 ---
 

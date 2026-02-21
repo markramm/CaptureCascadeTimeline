@@ -1,7 +1,7 @@
 ---
 id: 1913-02-25--paterson-silk-strike-iww-organizes-25000-workers
 date: '1913-02-25'
-title: "Paterson Silk Strike: IWW Leads 25,000 Workers in Five-Month Struggle Against Textile Manufacturers"
+title: 'Paterson Silk Strike: IWW Leads 25,000 Workers in Five-Month Struggle Against Textile Manufacturers'
 importance: 7
 actors:
 - Industrial Workers of the World (IWW)
@@ -21,18 +21,18 @@ sources:
   url: https://en.wikipedia.org/wiki/1913_Paterson_silk_strike
   outlet: Wikipedia
   tier: 2
-- title: "The Paterson Strike Pageant"
+- title: The Paterson Strike Pageant
   url: https://www.nps.gov/articles/paterson-strike-pageant.htm
   outlet: National Park Service
   tier: 1
-- title: "The Paterson Strike of 1913"
+- title: The Paterson Strike of 1913
   url: https://www.zinnedproject.org/news/tdih/paterson-silk-strike/
   outlet: Zinn Education Project
   tier: 2
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Political Capture
+- Democratic Erosion
 ---
 
 Approximately 25,000 silk workers in Paterson, New Jersey walked out on February 25, 1913, beginning one of the most significant industrial conflicts of the Progressive Era. The IWW-led strike united diverse immigrant workers - Italian, Jewish, German, and native-born - demanding the eight-hour day, abolition of the four-loom system that intensified labor, and improved wages. The strike lasted five months and became a national cause, attracting support from intellectuals, artists, and radicals.

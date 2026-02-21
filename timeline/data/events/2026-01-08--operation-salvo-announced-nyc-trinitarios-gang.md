@@ -24,6 +24,8 @@ sources:
   outlet: CBS New York
   date: '2026-01-08'
   tier: 2
+capture_lanes:
+- Democratic Erosion
 ---
 
 DHS Secretary Kristi Noem announced results of Operation Salvo in Manhattan, a multi-agency operation resulting in 54 arrests of alleged Trinitarios gang members. The operation was launched following the July 19, 2025 shooting of an off-duty Supervisory CBP officer by gang members in a New York City park. The officer was shot in the face and forearm while defending himself and his girlfriend from two attackers, both undocumented Dominican Republic nationals affiliated with the Trinitarios gang.

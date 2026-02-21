@@ -16,7 +16,7 @@ tags:
 - conservative-coordination
 capture_lanes:
 - Legislative Capture
-- State Capture
+- Democratic Erosion
 sources:
 - title: Paul Weyrich - Wikipedia
   url: https://en.wikipedia.org/wiki/Paul_Weyrich

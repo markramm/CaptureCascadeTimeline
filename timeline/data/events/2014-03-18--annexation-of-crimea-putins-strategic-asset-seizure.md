@@ -35,7 +35,7 @@ priority_id: RP-20250909-kleptocracy-trap-theoretical-framework
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Geopolitical Strategy
+- Democratic Erosion
 ---
 
 Vladimir Putin orchestrated the illegal annexation of Crimea from Ukraine, violating international law and multiple treaties. The operation involved deploying unmarked Russian special forces, conducting a disputed referendum, and subsequently integrating Crimean territories into Russian control. The UN General Assembly Resolution 68/262, supported by 100 member states, explicitly declared the referendum invalid and called on states not to recognize the territorial change. Strategically, Putin gained control over critical Black Sea naval bases, energy resources, and significant economic assets, while simultaneously challenging post-Cold War international legal norms.

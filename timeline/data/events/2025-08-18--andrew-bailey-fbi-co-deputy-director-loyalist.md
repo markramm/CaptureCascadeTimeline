@@ -30,6 +30,8 @@ sources:
   date: '2025-08-25'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Democratic Erosion
 ---
 
 Trump appointed Missouri Attorney General Andrew Bailey as Co-Deputy Director of the FBI alongside Dan Bongino, creating the first dual deputy director structure in FBI history. Bailey, a Trump loyalist who supported debunked 2020 election claims, has no FBI experience but will help run day-to-day operations traditionally managed by career veterans.

@@ -16,8 +16,7 @@ tags:
 - project-2025
 - executive-power
 capture_lanes:
-- Administrative Capture
-- Political Loyalty Screening
+- Democratic Erosion
 sources:
 - outlet: NPR
   title: Trump removes civil service protections with Schedule F plan
@@ -26,12 +25,10 @@ sources:
   title: Trump moves to reclassify federal workers, making it easier to fire them
   url: https://www.pbs.org/newshour/show/trump-moves-to-reclassify-federal-workers-making-it-easier-to-fire-them
 - outlet: The White House
-  title: 'Fact Sheet: President Donald J. Trump Creates New Federal Employee Category
-    to Enhance Accountability'
+  title: 'Fact Sheet: President Donald J. Trump Creates New Federal Employee Category to Enhance Accountability'
   url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-creates-new-federal-employee-category-to-enhance-accountability/
 - outlet: Axios
-  title: What to know about Schedule F, Trump's plan to replace federal workers with
-    loyalists
+  title: What to know about Schedule F, Trump's plan to replace federal workers with loyalists
   url: https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers
 status: validated
 priority_id: project-2025-implementation-1757456630

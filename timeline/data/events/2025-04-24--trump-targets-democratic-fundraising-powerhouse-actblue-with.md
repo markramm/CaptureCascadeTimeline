@@ -6,14 +6,13 @@ actors:
 - ActBlue
 capture_lanes:
 - Legislative Capture
-- Political Fundraising Interference
+- Democratic Erosion
 capture_type: weaponizing_government
 connections:
 - 2025 Election Interference
 - Political Fundraising Disruption
 date: '2025-04-24'
-description: Trump administration initiates DOJ investigation into ActBlue, Democratic
-  Party's primary online fundraising platform
+description: Trump administration initiates DOJ investigation into ActBlue, Democratic Party's primary online fundraising platform
 id: 2025-04-24--trump-targets-democratic-fundraising-powerhouse-actblue-with
 importance: 8
 location: Washington, D.C.
@@ -31,13 +30,11 @@ sources:
   url: https://www.usnews.com/news/politics/articles/2025-04-24/trump-to-target-democratic-fundraising-organization-actblue
 - date: '2025-04-24'
   outlet: AP News (via ABC News)
-  title: Trump orders Justice Department to investigate Democrats' top fundraising
-    platform
+  title: Trump orders Justice Department to investigate Democrats' top fundraising platform
   url: https://abcnews.go.com/US/wireStory/trump-orders-justice-department-investigate-democrats-top-fundraising-121145724
 - date: '2025-04-24'
   outlet: White House Official Website
-  title: 'Fact Sheet: President Donald J. Trump Investigates Unlawful Straw Donor
-    and Foreign Contributions in American Elections'
+  title: 'Fact Sheet: President Donald J. Trump Investigates Unlawful Straw Donor and Foreign Contributions in American Elections'
   url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-investigates-unlawful-straw-donor-and-foreign-contributions-in-american-elections/
 status: confirmed
 tags:
@@ -46,8 +43,7 @@ tags:
 - political-interference
 - fundraising
 - election-integrity
-title: Trump Administration Initiates DOJ Probe into Democratic Fundraising Platform
-  ActBlue
+title: Trump Administration Initiates DOJ Probe into Democratic Fundraising Platform ActBlue
 ---
 
 The Trump administration ordered the Department of Justice to investigate ActBlue, alleging potential illegal fundraising practices including straw donor and foreign contribution concerns. Key allegations include 237 donations from foreign IP addresses during the 2024 election cycle and claims of inadequate contribution verification. ActBlue has vehemently denied these claims and vowed to 'pursue all legal avenues to protect and defend' itself.

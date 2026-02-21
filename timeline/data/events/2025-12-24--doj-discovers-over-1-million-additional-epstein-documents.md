@@ -20,6 +20,8 @@ actors:
 - FBI
 - Thomas Massie
 - Ro Khanna
+capture_lanes:
+- Democratic Erosion
 ---
 
 On Christmas Eve, the Department of Justice announced it had discovered over 1 million additional FBI documents related to Jeffrey Epstein, representing an 'extraordinary about-face' from the Trump administration's July 2025 position when FBI and DOJ indicated in an unsigned memo they had completed an 'exhaustive review' with no additional evidence to release. Representatives Thomas Massie and Ro Khanna, co-authors of the Epstein Files Transparency Act, stated 'there is reasonable suspicion that the DOJ has overstated the scope of responsive materials, thereby portraying compliance as unmanageable and effectively delaying disclosure.' By December 31, the review would expand to 5.2 million pages. All figures were self-reported by DOJ with no independent verification. The timing—Christmas Eve—suggested strategic burial of damaging news about the department's failure to meet the law's 30-day deadline.

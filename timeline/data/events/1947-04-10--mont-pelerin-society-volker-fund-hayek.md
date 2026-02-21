@@ -22,20 +22,19 @@ tags:
 - international-network
 - neoliberalism
 capture_lanes:
-- Ideological Capture
-- Academic Capture
+- Democratic Erosion
 sources:
-- title: 'Mont Pelerin Society - Wikipedia'
+- title: Mont Pelerin Society - Wikipedia
   url: https://en.wikipedia.org/wiki/Mont_Pelerin_Society
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'William Volker Fund'
+- title: William Volker Fund
   url: https://www.philanthropyroundtable.org/almanac/volker-bolsters-economic-liberty/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
-- title: 'The Mont Pelerin Society''s 50th Anniversary'
+- title: The Mont Pelerin Society's 50th Anniversary
   url: https://fee.org/articles/the-mont-pelerin-societys-50th-anniversary/
   outlet: Foundation for Economic Education
   date: '1997-01-01'

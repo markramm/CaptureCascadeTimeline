@@ -1,7 +1,7 @@
 ---
 id: 1913-04-11--wilson-segregates-federal-workforce-jim-crow-washington
 date: '1913-04-11'
-title: "Wilson Administration Segregates Federal Government: Jim Crow Comes to Washington"
+title: 'Wilson Administration Segregates Federal Government: Jim Crow Comes to Washington'
 importance: 8
 actors:
 - President Woodrow Wilson
@@ -21,18 +21,17 @@ sources:
   url: https://en.wikipedia.org/wiki/Woodrow_Wilson_and_race
   outlet: Wikipedia
   tier: 2
-- title: "How Wilson Brought Jim Crow to Washington"
+- title: How Wilson Brought Jim Crow to Washington
   url: https://www.history.com/news/woodrow-wilson-racial-segregation-jim-crow-wilson
   outlet: History.com
   tier: 2
-- title: "Wilson's Segregation Policy"
+- title: Wilson's Segregation Policy
   url: https://www.nps.gov/articles/wilsonsegregation.htm
   outlet: National Park Service
   tier: 1
 status: confirmed
 capture_lanes:
-- Political Capture
-- Institutional Capture
+- Democratic Erosion
 ---
 
 Within months of taking office, President Woodrow Wilson's administration began systematically segregating the federal government, reversing decades of relative integration in civil service employment. Postmaster General Albert Burleson proposed segregation at an April 11, 1913 cabinet meeting, and Wilson approved, beginning a transformation that would institutionalize racism throughout the executive branch.

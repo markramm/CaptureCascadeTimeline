@@ -29,6 +29,8 @@ sources:
   outlet: Axios
   date: '2026-02-12'
   tier: 2
+capture_lanes:
+- Democratic Erosion
 ---
 
 Border czar Tom Homan announced at the Bishop Whipple Federal Building in Minneapolis that Operation Metro Surge would conclude, with a "significant drawdown" of the approximately 2,000 remaining federal agents. The operation, which began November 29, 2025, and surged to over 3,000 agents in January, resulted in more than 4,000 arrests according to DHS. Homan stated: "I have proposed, and President Trump has concurred, that this surge operation conclude."

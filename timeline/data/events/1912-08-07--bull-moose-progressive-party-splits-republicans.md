@@ -33,8 +33,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Political Capture
-- Democratic Resistance
+- Democratic Erosion
 ---
 
 Theodore Roosevelt accepted the Progressive Party nomination for president at a convention in Chicago, formally splitting from the Republican Party after losing the nomination to his former friend William Howard Taft despite winning nine of twelve state primaries. Roosevelt's "Bull Moose" candidacy—named after he boasted feeling "strong as a bull moose"—represented the most successful third-party presidential campaign in American history and a fundamental rupture in the Republican coalition between corporate conservatives and progressive reformers. In February 1912, Roosevelt had stunned the nation by challenging sitting President Taft, violating the unwritten rule against seeking a third term. Roosevelt took advantage of newly-established direct primaries, carrying nine states and securing significantly more delegates than Taft or Wisconsin Senator Robert La Follette. However, at the June Republican National Convention in Chicago, state party leaders still controlled the nomination system and delivered the nomination to Taft.

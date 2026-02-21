@@ -1,8 +1,7 @@
 ---
 id: 2025-01-14--hegseth-confirmation-hearing-dismisses-assault-allegations
 date: '2025-01-14'
-title: Pete Hegseth Dismisses Sexual Assault and Alcohol Abuse Allegations as "Smear
-  Campaign" at Confirmation Hearing
+title: Pete Hegseth Dismisses Sexual Assault and Alcohol Abuse Allegations as "Smear Campaign" at Confirmation Hearing
 importance: 8
 actors:
 - Pete Hegseth
@@ -30,8 +29,7 @@ sources:
   url: https://www.axios.com/2025/01/14/jack-smith-trump-final-report-jan-6
   outlet: Axios
   date: '2025-01-14'
-- title: Special counsel Jack Smith says evidence against Trump was enough to convict
-    him
+- title: Special counsel Jack Smith says evidence against Trump was enough to convict him
   url: https://www.npr.org/2025/01/14/g-s1-42358/trump-jack-smith-election-report
   outlet: NPR
   date: '2025-01-14'
@@ -41,8 +39,7 @@ sources:
   date: '2025-01-14'
 status: confirmed
 capture_lanes:
-- institutional-capture
-- compromised-appointments
+- Democratic Erosion
 ---
 
 

@@ -16,8 +16,8 @@ tags:
 - maga-extremism
 - america-first
 capture_lanes:
-- Far-Right Infiltration
-- Media Manipulation
+- Democratic Erosion
+- Media Capture & Control
 sources:
 - title: Milo Yiannopoulos Is Now Interning for Marjorie Taylor Greene
   url: https://www.thedailybeast.com/milo-yiannopoulos-is-now-interning-for-marjorie-taylor-greene/
@@ -39,7 +39,7 @@ sources:
   outlet: Southern Poverty Law Center
   date: '2022-06-07'
   archive_url: null
-notes: "Yiannopoulos, 37, posted photo of congressional badge to Telegram announcing unpaid internship. Earlier in 2022, Yiannopoulos connected Greene with Nick Fuentes's America First Political Action Conference (AFPAC), where Fuentes publicly thanked Yiannopoulos for arranging Greene's appearance at white supremacist gathering. Yiannopoulos had been banned from Twitter (2016), Facebook (2019), and Australia (2019 after Christchurch comments). Was disinvited from CPAC 2017 after video surfaced appearing to defend pedophilia. In 2021 announced he was 'ex-gay.' Greene defended hire saying he 'was raped by a priest as a young teen, was gay, has offended everyone at some point, turned his life back to Jesus.' Represents mainstreaming of alt-right figures into official Republican congressional operations."
+notes: Yiannopoulos, 37, posted photo of congressional badge to Telegram announcing unpaid internship. Earlier in 2022, Yiannopoulos connected Greene with Nick Fuentes's America First Political Action Conference (AFPAC), where Fuentes publicly thanked Yiannopoulos for arranging Greene's appearance at white supremacist gathering. Yiannopoulos had been banned from Twitter (2016), Facebook (2019), and Australia (2019 after Christchurch comments). Was disinvited from CPAC 2017 after video surfaced appearing to defend pedophilia. In 2021 announced he was 'ex-gay.' Greene defended hire saying he 'was raped by a priest as a young teen, was gay, has offended everyone at some point, turned his life back to Jesus.' Represents mainstreaming of alt-right figures into official Republican congressional operations.
 status: confirmed
 ---
 

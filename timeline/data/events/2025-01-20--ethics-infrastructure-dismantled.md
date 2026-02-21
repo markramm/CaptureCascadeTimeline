@@ -21,10 +21,10 @@ tags:
 - revolving-door
 - shadow-lobbying
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Corporate Capture & Regulatory Breakdown
-- Executive Power & Emergency Authority
-- Financial Corruption & Kleptocracy
+- Democratic Erosion
+- Regulatory Capture
+- Executive Power Expansion
+- International Kleptocracy
 sources:
 - title: Trump axes Biden-era ethics order, lobbying restrictions
   url: https://thehill.com/lobbying/5101352-trump-axes-biden-era-ethics-order-lobbying-restrictions/

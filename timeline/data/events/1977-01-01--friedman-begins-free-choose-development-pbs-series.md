@@ -16,8 +16,8 @@ tags:
 - media-advocacy
 - public-broadcasting
 capture_lanes:
-- Ideological Capture
-- Media Influence
+- Democratic Erosion
+- Media Capture & Control
 sources:
 - title: Free to Choose - Wikipedia
   url: https://en.wikipedia.org/wiki/Free_to_Choose

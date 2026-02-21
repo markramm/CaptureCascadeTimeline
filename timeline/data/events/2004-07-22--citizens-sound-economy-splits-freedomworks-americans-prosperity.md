@@ -1,14 +1,8 @@
 ---
 id: 2004-07-22--citizens-sound-economy-splits-freedomworks-americans-prosperity
 date: '2004-07-22'
-title: 'Koch Network Restructures: CSE Splits into FreedomWorks and Americans for
-  Prosperity'
-description: In a calculated organizational maneuver, the Koch brothers' initial advocacy
-  group, Citizens for a Sound Economy, strategically divides into two distinct entities.
-  FreedomWorks, led by Dick Armey and formed through a merger with Empower America,
-  continues the 501(c)(4) advocacy work, while Americans for Prosperity becomes the
-  Koch network's primary educational and political foundation. This restructuring
-  allows for more nuanced political operations and plausible organizational separation.
+title: 'Koch Network Restructures: CSE Splits into FreedomWorks and Americans for Prosperity'
+description: In a calculated organizational maneuver, the Koch brothers' initial advocacy group, Citizens for a Sound Economy, strategically divides into two distinct entities. FreedomWorks, led by Dick Armey and formed through a merger with Empower America, continues the 501(c)(4) advocacy work, while Americans for Prosperity becomes the Koch network's primary educational and political foundation. This restructuring allows for more nuanced political operations and plausible organizational separation.
 actors:
 - David Koch
 - Charles Koch
@@ -45,7 +39,7 @@ priority_id: RT-C7D79DA1-tea-party-koch-astroturf
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Political Network Infrastructure
+- Democratic Erosion
 capture_type: network_restructuring
 patterns:
 - political-network-manipulation
@@ -53,8 +47,7 @@ patterns:
 connections:
 - Koch network strategic evolution
 - Conservative political infrastructure development
-notes: Critical reorganization enabling expanded political influence through decentralized
-  but coordinated organizational structures.
+notes: Critical reorganization enabling expanded political influence through decentralized but coordinated organizational structures.
 ---
 
 Citizens for a Sound Economy (CSE), a Koch-funded lobbying organization, splits into two strategic entities. FreedomWorks emerges from a merger with Empower America, while the educational foundation transforms into Americans for Prosperity, enabling the Koch network to expand political influence through parallel organizations.

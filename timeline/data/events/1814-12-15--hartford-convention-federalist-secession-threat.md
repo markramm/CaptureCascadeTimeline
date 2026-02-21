@@ -16,19 +16,19 @@ tags:
 - democratic-erosion
 - elite-resistance
 sources:
-- title: 'Hartford Convention'
+- title: Hartford Convention
   url: https://www.britannica.com/event/Hartford-Convention
   outlet: Britannica
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'The Hartford Convention'
+- title: The Hartford Convention
   url: https://connecticuthistory.org/the-hartford-convention-today-in-history/
   outlet: Connecticut History
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'The Hartford Convention'
+- title: The Hartford Convention
   url: https://www.battlefields.org/learn/articles/hartford-convention
   outlet: American Battlefield Trust
   date: '2024-01-01'
@@ -36,7 +36,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Political Capture
+- Democratic Erosion
 ---
 
 Twenty-six New England Federalist leaders from Massachusetts, Connecticut, Rhode Island, Vermont, and New Hampshire convene in Hartford, Connecticut, to discuss grievances concerning the War of 1812 and federal government overreach under Democratic-Republican control. The convention addresses fears that southern Democratic-Republicans are undermining states' rights and that the war damages New England's economic interests, which already suffered from Jefferson's 1807 Embargo Act. Rumors abound that the convention will call for New England's secession from the United States, though most participants hold more moderate views and fear that secession talk might trigger civil war.

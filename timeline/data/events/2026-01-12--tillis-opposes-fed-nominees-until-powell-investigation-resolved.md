@@ -19,6 +19,8 @@ sources:
   outlet: Senator Tillis Office
   tier: 1
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 Republican Senator Thom Tillis announced he would oppose any Trump Federal Reserve nominee until the DOJ investigation into Jerome Powell is resolved, stating: "If there were any remaining doubt whether advisers within the Trump Administration are actively pushing to end the independence of the Federal Reserve, there should now be none. It is now the independence and credibility of the Department of Justice that are in question." Tillis's opposition, combined with the narrow Republican Senate majority, could potentially block Trump's Fed chair nominee to replace Powell, whose term expires in May 2026.

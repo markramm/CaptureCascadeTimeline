@@ -32,8 +32,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- institutional-capture
-- systematic-corruption
+- Democratic Erosion
+- Systematic Corruption
 ---
 
 Corrections Corporation of America (CCA) opens the first adult detention facility to be fully managed and run by a private corporation in the United States in over a century. After winning "the first contract ever to design, build, finance and operate a secure correctional facility" from the Immigration and Naturalization Service (INS), CCA faces an unrealistic 90-day deadline and converts the Olympic Motel on I-45 North in Houston into a makeshift detention center. On January 22, 1984, co-founder T. Don Hutto personally fingerprints the first 87 immigration detainees.

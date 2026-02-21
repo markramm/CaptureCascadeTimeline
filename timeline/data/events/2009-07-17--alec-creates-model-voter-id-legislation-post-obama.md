@@ -31,9 +31,9 @@ sources:
   outlet: NBC News
   date: 2012-08-10
 capture_lanes:
-- State Capture
+- Democratic Erosion
 - Electoral Manipulation
-- Corporate Influence
+- Corporate Capture
 - Legislative Capture
 ---
 

@@ -4,37 +4,37 @@ date: '1968-06-05'
 title: Robert F. Kennedy Assassinated in Los Angeles After California Primary Victory
 importance: 9
 actors:
-  - Robert F. Kennedy
-  - Sirhan Sirhan
-  - FBI
-  - LAPD
+- Robert F. Kennedy
+- Sirhan Sirhan
+- FBI
+- LAPD
 tags:
-  - political-violence
-  - assassination
-  - democratic-erosion
-  - 1968-election
+- political-violence
+- assassination
+- democratic-erosion
+- 1968-election
 sources:
-  - title: "Robert F. Kennedy Assassination"
-    url: "https://www.fbi.gov/history/famous-cases/robert-kennedy-assassination"
-    outlet: "FBI Famous Cases"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Assassination of Robert F. Kennedy"
-    url: "https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-assassination"
-    outlet: "John F. Kennedy Presidential Library"
-    date: 2024-01-15
-    verified: true
-    tier: 1
-  - title: "RFK: His Life and Death"
-    url: "https://www.britannica.com/biography/Robert-F-Kennedy"
-    outlet: "Encyclopaedia Britannica"
-    date: 2024-06-01
-    verified: true
-    tier: 2
+- title: Robert F. Kennedy Assassination
+  url: https://www.fbi.gov/history/famous-cases/robert-kennedy-assassination
+  outlet: FBI Famous Cases
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Assassination of Robert F. Kennedy
+  url: https://www.jfklibrary.org/learn/about-jfk/the-kennedy-family/robert-f-kennedy/robert-f-kennedy-assassination
+  outlet: John F. Kennedy Presidential Library
+  date: 2024-01-15
+  verified: true
+  tier: 1
+- title: 'RFK: His Life and Death'
+  url: https://www.britannica.com/biography/Robert-F-Kennedy
+  outlet: Encyclopaedia Britannica
+  date: 2024-06-01
+  verified: true
+  tier: 2
 capture_lanes:
-  - Democratic Erosion
-  - Political Violence
+- Democratic Erosion
+- Civil Rights Suppression
 status: confirmed
 ---
 

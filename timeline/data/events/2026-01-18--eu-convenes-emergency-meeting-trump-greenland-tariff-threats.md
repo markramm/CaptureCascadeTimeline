@@ -21,10 +21,12 @@ sources:
   date: '2026-01-18'
   tier: 2
 - url: https://www.aljazeera.com/economy/2026/1/20/trumps-greenland-tariffs-whats-europes-bazooka-option-to-hit-back
-  title: "Trump's Greenland tariffs: What's Europe's 'bazooka' option to hit back?"
+  title: 'Trump''s Greenland tariffs: What''s Europe''s ''bazooka'' option to hit back?'
   outlet: Al Jazeera
   date: '2026-01-20'
   tier: 2
+capture_lanes:
+- Democratic Erosion
 ---
 
 The European Union convenes an emergency meeting in Brussels to discuss its response to President Trump's tariff threats against eight NATO allies over Greenland. EU leaders consider retaliatory measures including counter-tariffs and the activation of the bloc's Anti-Coercion Instrument, informally known as the "trade bazooka."

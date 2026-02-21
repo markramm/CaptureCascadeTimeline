@@ -27,8 +27,8 @@ sources:
   date: '2026-01-15'
   tier: 1
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Authoritarian Escalation
+- Democratic Erosion
+- Executive Power Expansion
 ---
 
 President Trump threatened to invoke the Insurrection Act of 1807 in response to protests in Minneapolis against ICE operations following the killing of Renee Good. On Truth Social, Trump wrote that "In Minnesota, the Troublemakers, Agitators, and Insurrectionists are, in many cases, highly paid professionals," echoing authoritarian rhetoric that delegitimizes organic protest movements.

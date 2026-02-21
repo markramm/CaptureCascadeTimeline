@@ -21,9 +21,9 @@ tags:
 - supreme-court-protocol
 - democratic-institutions
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Judicial Capture & Corruption
-- Executive Branch Institutional Breakdown
+- Democratic Erosion
+- Judicial Capture
+- Executive Power Expansion
 sources:
 - title: Gloves come off after Obama rips Supreme Court ruling
   url: http://www.cnn.com/2010/POLITICS/01/28/alito.obama.sotu/index.html
@@ -42,11 +42,7 @@ sources:
   url: https://obamawhitehouse.archives.gov/blog/2010/07/26/president-obama-citizens-united-imagine-power-will-give-special-interests-over-polit
   outlet: Obama White House Archives
   date: '2010-07-26'
-notes: 'Obama stated: ''Last week, the Supreme Court reversed a century of law that
-  I believe will open the floodgates for special interests – including foreign corporations
-  – to spend without limit in our elections.'' This unprecedented direct criticism
-  of the Court during the State of the Union created a rare constitutional moment
-  highlighting the tension between democratic accountability and judicial independence.'
+notes: 'Obama stated: ''Last week, the Supreme Court reversed a century of law that I believe will open the floodgates for special interests – including foreign corporations – to spend without limit in our elections.'' This unprecedented direct criticism of the Court during the State of the Union created a rare constitutional moment highlighting the tension between democratic accountability and judicial independence.'
 status: confirmed
 ---
 

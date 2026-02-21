@@ -30,7 +30,7 @@ tags:
 - institutional-accountability
 capture_lanes:
 - Systematic Corruption
-- Global Civil Society Resistance
+- Democratic Erosion
 status: confirmed
 ---
 

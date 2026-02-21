@@ -24,6 +24,8 @@ sources:
   outlet: NPR
   date: '2026-02-02'
   tier: 1
+capture_lanes:
+- Democratic Erosion
 ---
 
 HHS Secretary Robert F. Kennedy Jr. announces on February 2, 2026 a comprehensive plan implementing the Great American Recovery Initiative executive order signed by President Trump the previous week. The centerpiece is a $100 million Safety Through Recovery, Engagement, and Evidence-based Treatment and Supports (STREETS) Initiative funding targeted outreach, psychiatric care, medical stabilization, crisis intervention, and connection of Americans experiencing homelessness and addiction to stable housing with focus on long-term recovery and independence. The department will devote the $100 million toward a pilot program addressing homelessness and substance abuse in eight cities, building integrated care systems for people experiencing homelessness, substance abuse, and mental health challenges while helping them find housing and employment.

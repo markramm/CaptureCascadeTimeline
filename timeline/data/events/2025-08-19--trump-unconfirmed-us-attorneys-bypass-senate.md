@@ -29,6 +29,8 @@ sources:
   date: '2025-08-26'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Democratic Erosion
 ---
 
 Trump installed loyalists including former personal lawyer Alina Habba as US Attorneys without Senate confirmation, using legal loopholes to circumvent constitutional oversight. A federal judge ruled Habba served 'without lawful authority' after the administration fired a court-appointed replacement. Similar tactics were used in Los Angeles, Nevada, New Mexico, and New York.

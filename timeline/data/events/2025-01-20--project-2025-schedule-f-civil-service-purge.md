@@ -1,13 +1,11 @@
 ---
 id: 2025-01-20--project-2025-schedule-f-civil-service-purge
 date: '2025-01-20'
-title: 'Project 2025: Trump Administration Launches Massive Federal Civil Service
-  Restructuring'
+title: 'Project 2025: Trump Administration Launches Massive Federal Civil Service Restructuring'
 importance: 9
 sources:
 - outlet: American Federation of Government Employees
-  title: Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal
-    Workers
+  title: Project 2025 Seeks to Dismantle Agencies, Terminate Up To 1 Million Federal Workers
   url: https://www.afge.org/article/project-2025-seeks-to-dismantle-agencies-terminate-up-to-1-million-federal-workers
 - outlet: Center for American Progress
   title: Project 2025 Would Destroy the U.S. System of Checks and Balances
@@ -30,8 +28,7 @@ actors:
 - Career Civil Servants
 capture_lanes:
 - Regulatory Capture
-- Political Infrastructure
-- Institutional Transformation
+- Democratic Erosion
 status: validated
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 1871-10-21--thomas-nast-publishes-brains-cartoon
 date: '1871-10-21'
-title: 'Thomas Nast Cartoon Depicts Tweed as Money Bag'
+title: Thomas Nast Cartoon Depicts Tweed as Money Bag
 importance: 7
 actors:
 - Thomas Nast
@@ -13,11 +13,11 @@ sources:
   outlet: Illustration History
   url: https://www.illustrationhistory.org/essays/thomas-nast-the-rise-and-fall-of-the-father-of-political-cartoons
   year: 2024
-- title: "The Political Cartoonist Who Helped Lead to Boss Tweed's Downfall"
+- title: The Political Cartoonist Who Helped Lead to Boss Tweed's Downfall
   outlet: History
   url: https://www.history.com/articles/thomas-nast-boss-tweed-cartoons
   year: 2024
-- title: 'Thomas Nast'
+- title: Thomas Nast
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Thomas_Nast
   year: 2024
@@ -26,8 +26,7 @@ tags:
 - media-resistance
 - public-accountability
 capture_lanes:
-- Media Resistance
-- Public Awareness
+- Democratic Erosion
 status: confirmed
 ---
 

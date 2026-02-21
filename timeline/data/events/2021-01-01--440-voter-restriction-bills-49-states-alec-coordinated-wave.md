@@ -33,9 +33,9 @@ sources:
   outlet: The American Prospect
   date: 2021-08-30
 capture_lanes:
-- State Capture
+- Democratic Erosion
 - Electoral Manipulation
-- Corporate Influence
+- Corporate Capture
 - Legislative Capture
 ---
 

@@ -32,8 +32,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Cultural Capture
-- Racial Politics
+- Democratic Erosion
+- Civil Rights Suppression
 ---
 
 D.W. Griffith's silent film "The Birth of a Nation" premiered in Los Angeles, becoming the longest and most profitable film produced to that date while securing the future of feature-length films and establishing cinema as a serious artistic medium. With assistance from cinematographer G.W. "Billy" Bitzer, Griffith invented or refined important cinematic techniques including the close-up, scenic long shot, moving-camera shot, fade-in and fade-out, flashback, and parallel editing. Based on Thomas Dixon Jr.'s novel, the three-hour epic depicted the American Civil War and Reconstruction through the experiences of the Northern Stoneman and Southern Cameron families. However, the film's technical brilliance served deeply racist propaganda: Black people, particularly in the film's second part dramatizing Reconstruction, were portrayed as the root of all evil and unworthy of freedom or voting rights. Male African Americans were depicted as constantly lusting after white women. In stark contrast, the Ku Klux Klan was portrayed in heroic terms as a healing force restoring order to the South, riding to rescue white civilization from Black barbarism.

@@ -30,6 +30,8 @@ sources:
   date: '2025-08-17'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Democratic Erosion
 ---
 
 Trump announced federal takeover of Washington DC's police department and deployment of 800 National Guard troops, invoking emergency powers under the Home Rule Act of 1973. DEA Administrator Terry Cole was designated interim federal commissioner. Attorney General Pam Bondi assumed command despite violent crime being down 32% in 2024 and another 12% in 2025.

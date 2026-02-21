@@ -16,8 +16,7 @@ tags:
 - civil-rights-violations
 - puerto-rico
 capture_lanes:
-- Immigration Control
-- Colonial Administration
+- Democratic Erosion
 sources:
 - title: Raids and revenge tips Inside ICE's Puerto Rico deportation operation
   url: https://www.npr.org/2025/06/02/nx-s1-5419588/finding-every-deportable-immigrant-inside-ices-puerto-rico-operation

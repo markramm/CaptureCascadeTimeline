@@ -21,10 +21,9 @@ tags:
 - trump-pardons
 - congressional-security
 capture_lanes:
-- Rule of Law Erosion
-- January 6 Accountability Reversal
-- Witness Intimidation
-- Democratic Norms Erosion
+- Democratic Erosion
+- Electoral Manipulation
+- Civil Rights Suppression
 sources:
 - title: Scoop - Security upped for Rep. Jamie Raskin after alleged incident involving Jan. 6 defendant
   url: https://www.axios.com/2025/12/04/jamie-raskin-taylor-taranto-obama-security-court

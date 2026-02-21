@@ -2,9 +2,7 @@
 id: 2025-04-17--trump-appointee-asked-irs-to-review-audit-of-mypillow-ceo-mi
 date: '2025-04-17'
 title: Trump Appointee Sought IRS Audit Review for MyPillow CEO Mike Lindell
-description: Trump Treasury appointee David Eisner attempted to intervene in an IRS
-  audit of MyPillow CEO Mike Lindell, suggesting potential political interference
-  in tax enforcement.
+description: Trump Treasury appointee David Eisner attempted to intervene in an IRS audit of MyPillow CEO Mike Lindell, suggesting potential political interference in tax enforcement.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -36,11 +34,10 @@ connections: []
 patterns:
 - kleptocratic-capture
 - political-interference
-notes: Event highlights potential political manipulation of tax enforcement mechanisms
-  during the Trump administration.
+notes: Event highlights potential political manipulation of tax enforcement mechanisms during the Trump administration.
 capture_lanes:
 - Systematic Corruption
-- Political Interference
+- Democratic Erosion
 ---
 
 Trump Treasury appointee David Eisner attempted to intervene in an IRS audit of MyPillow CEO Mike Lindell, a known Trump ally. The incident suggests potential misuse of government resources to assist a political supporter, raising concerns about tax enforcement impartiality.

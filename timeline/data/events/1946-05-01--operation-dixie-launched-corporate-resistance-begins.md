@@ -23,15 +23,15 @@ tags:
 - union-busting
 - democratic-resistance
 capture_lanes:
-- Democratic Resistance
-- Structural Racism
+- Democratic Erosion
+- Civil Rights Suppression
 sources:
-- title: 'Operation Dixie - Wikipedia'
+- title: Operation Dixie - Wikipedia
   url: https://en.wikipedia.org/wiki/Operation_Dixie
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Operation Dixie Failed but Pushed Racial Equality Forward'
+- title: Operation Dixie Failed but Pushed Racial Equality Forward
   url: https://jacobin.com/2024/09/operation-dixie-cio-civil-rights
   outlet: Jacobin
   date: '2024-01-01'

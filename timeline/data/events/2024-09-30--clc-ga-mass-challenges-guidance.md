@@ -12,8 +12,8 @@ tags:
 - voter-rights
 - civil-rights
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Election System Attack
+- Democratic Erosion
+- Electoral Manipulation
 citations:
 - https://campaignlegal.org/sites/default/files/2024-10/GA%20Mass%20Challenge%20Guidance%20Letter%202024.pdf
 id: 2024-09-30--clc-ga-mass-challenges-guidance

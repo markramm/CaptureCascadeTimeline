@@ -24,6 +24,8 @@ sources:
   outlet: The Washington Post
   tier: 1
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 Sean Dunn, a 37-year-old DOJ criminal division employee, was fired by Attorney General Pam Bondi after throwing a Subway sandwich at U.S. Customs and Border Protection Agent Gregory Lairmore during protests against Trump's federal law enforcement surge in Washington, D.C. The incident occurred on August 10, 2025, along the U Street nightlife corridor when Dunn confronted federal agents he believed were about to conduct an immigration raid at a gay nightclub during Latin Night. Video showed Dunn, wearing a pink polo shirt, shouting at officers: "F--- you! You f------ fascists! Why are you here? I don't want you in my city!" before winding up and hurling the wrapped sandwich into the officer's chest. Bondi announced on social media: "Not only is he FIRED, he has been charged with a felony." Prosecutors initially sought felony assault charges, but a grand jury refused to indict twice, forcing prosecutors to file misdemeanor charges instead. Dunn worked in the criminal division's international affairs section before his termination. The incident became a viral symbol of resistance against Trump's deployment of federal forces in D.C., highlighting tensions between career DOJ employees and the administration's aggressive law enforcement policies.

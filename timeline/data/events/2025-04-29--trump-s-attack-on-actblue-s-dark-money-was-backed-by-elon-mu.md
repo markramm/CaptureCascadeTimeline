@@ -2,10 +2,7 @@
 id: 2025-04-29--trump-s-attack-on-actblue-s-dark-money-was-backed-by-elon-mu
 date: '2025-04-29'
 title: Trump Orders DOJ Investigation into ActBlue Fundraising Platform
-description: President Trump ordered a DOJ investigation into ActBlue, alleging foreign
-  and fraudulent campaign contributions. The investigation, backed by Elon Musk, claims
-  to have uncovered 237 donations from foreign IP addresses using prepaid cards within
-  a 30-day campaign window.
+description: President Trump ordered a DOJ investigation into ActBlue, alleging foreign and fraudulent campaign contributions. The investigation, backed by Elon Musk, claims to have uncovered 237 donations from foreign IP addresses using prepaid cards within a 30-day campaign window.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -26,8 +23,7 @@ sources:
   date: '2025-04-24'
   url: https://www.cnn.com/2025/04/24/politics/actblue-trump-memo-doj-probe
 - outlet: White House
-  title: 'Fact Sheet: President Donald J. Trump Investigates Unlawful "Straw Donor"
-    and Foreign Contributions in American Elections'
+  title: 'Fact Sheet: President Donald J. Trump Investigates Unlawful "Straw Donor" and Foreign Contributions in American Elections'
   date: '2025-04-24'
   url: https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-investigates-unlawful-straw-donor-and-foreign-contributions-in-american-elections/
 - outlet: Mother Jones
@@ -37,11 +33,10 @@ sources:
 connections: []
 patterns:
 - kleptocratic-capture
-notes: Event from comprehensive kleptocracy timeline tracking. Investigation alleges
-  237 potentially fraudulent donations from foreign IP addresses.
+notes: Event from comprehensive kleptocracy timeline tracking. Investigation alleges 237 potentially fraudulent donations from foreign IP addresses.
 capture_lanes:
 - Regulatory Capture
-- Political Capture
+- Democratic Erosion
 ---
 
 President Trump directed the Department of Justice to investigate ActBlue, alleging illegal campaign contributions and foreign donor fraud. The investigation was backed by Elon Musk, who claimed the platform was involved in widespread criminal identity theft.

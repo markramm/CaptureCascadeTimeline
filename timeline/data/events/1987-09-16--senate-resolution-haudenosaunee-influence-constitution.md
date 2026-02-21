@@ -26,9 +26,8 @@ tags:
 - haudenosaunee-confederacy
 status: confirmed
 capture_lanes:
-- Democratic Foundations
-- Indigenous Suppression
-- Political Capture
+- Democratic Erosion
+- Civil Rights Suppression
 ---
 
 The U.S. Senate passes a resolution on the 200th anniversary of the Constitution formally recognizing that "the original framers of the Constitution, including most notably, George Washington and Benjamin Franklin, are known to have greatly admired the concepts, principles and governmental practices of the Six Nations of the Iroquois Confederacy" and acknowledging the Haudenosaunee Confederacy's influence on the construction of the U.S. Constitution. The resolution represents the first formal federal government acknowledgment that Indigenous democratic systems—particularly the Haudenosaunee Great Law of Peace—contributed to American constitutional development. The timing coincides with the Constitution's bicentennial celebrations and follows decades of scholarship by historians Donald A. Grinde, Bruce E. Johansen, and others documenting connections between the Haudenosaunee's federal system of representative government and the Founders' political thinking, particularly Benjamin Franklin's extensive exposure to Haudenosaunee governance through his publishing of treaty council proceedings from 1736-1762 and his participation in the 1754 Albany Congress where Mohawk leader Hendrick explained the Confederacy's democratic structure.

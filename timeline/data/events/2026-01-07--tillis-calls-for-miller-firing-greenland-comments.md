@@ -1,7 +1,7 @@
 ---
 id: 2026-01-07--tillis-calls-for-miller-firing-greenland-comments
 date: '2026-01-07'
-title: "GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired"
+title: GOP Senator Tillis Calls Miller's Greenland Comments 'Insane,' Demands He Be Fired
 importance: 8
 actors:
 - Thom Tillis
@@ -14,7 +14,7 @@ tags:
 - foreign-policy
 - nato
 sources:
-- title: "GOP senator's scathing message to Stephen Miller over Greenland"
+- title: GOP senator's scathing message to Stephen Miller over Greenland
   outlet: CNN
   url: https://www.cnn.com/2026/01/07/politics/greenland-thom-tillis-stephen-miller
   tier: 1
@@ -24,8 +24,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Republican Dissent
-- Foreign Policy Crisis
+- Democratic Erosion
 ---
 
 Republican Senator Thom Tillis of North Carolina issued a scathing public rebuke of White House Deputy Chief of Staff Stephen Miller following Miller's declaration that Greenland should "obviously" be part of the United States and that "nobody is going to fight the United States militarily over the future of Greenland."

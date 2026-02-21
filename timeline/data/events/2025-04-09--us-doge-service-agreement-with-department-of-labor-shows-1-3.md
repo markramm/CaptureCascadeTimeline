@@ -36,7 +36,7 @@ patterns:
 - government-efficiency-narrative
 capture_lanes:
 - Regulatory Capture
-- Institutional Transformation
+- Democratic Erosion
 notes: Detailed service agreement reveals complex financial arrangements between DOGE and Department of Labor, highlighting potential conflicts of interest and discrepancies in cost claims.
 ---
 

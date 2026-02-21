@@ -25,7 +25,7 @@ sources:
   date: '2026-02-02'
   tier: 1
 - url: https://thehill.com/homenews/administration/5719992-doj-todd-blanche-epstein-files-parties/
-  title: "Deputy AG Todd Blanche: 'It's not a crime to party' with Jeffrey Epstein"
+  title: 'Deputy AG Todd Blanche: ''It''s not a crime to party'' with Jeffrey Epstein'
   outlet: The Hill
   date: '2026-02-02'
   tier: 2
@@ -34,6 +34,8 @@ sources:
   outlet: Democracy Now
   date: '2026-02-05'
   tier: 1
+capture_lanes:
+- Democratic Erosion
 ---
 
 Deputy Attorney General Todd Blanche declared on CNN's "State of the Union" that there would be no additional prosecutions related to Jeffrey Epstein, despite the 3.5 million pages of documents released containing references to numerous powerful individuals. Blanche acknowledged the materials contain "disturbing content" including correspondence, emails, and photographs, but stressed they do not meet the threshold for prosecution: "There's a lot of horrible photographs that appear to be taken by Mr. Epstein or people around him, but that doesn't allow us necessarily to prosecute somebody."

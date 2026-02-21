@@ -32,8 +32,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- institutional-capture
-- systematic-corruption
+- Democratic Erosion
+- Systematic Corruption
 ---
 
 Corrections Corporation of America announces it is rebranding as CoreCivic, claiming the name change reflects a "multi-year strategy to transform our business from largely corrections and detention services to a wider range of government solutions." The rebranding comes two months after the Department of Justice announced plans to phase out private prisons and following a damning Mother Jones undercover investigation documenting violence, sexual abuse, and corruption at a CCA-run Louisiana prison.

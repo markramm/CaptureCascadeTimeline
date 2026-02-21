@@ -21,8 +21,8 @@ tags:
 - union-busting
 - public-relations
 capture_lanes:
-- Ideological Capture
-- Media Capture
+- Democratic Erosion
+- Media Capture & Control
 sources:
 - title: The National Association of Manufacturers and Visual Propaganda
   url: https://www.hagley.org/librarynews/research-national-association-manufacturers-and-visual-propaganda

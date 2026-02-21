@@ -14,8 +14,8 @@ tags:
 - new-right
 - powell-memo
 capture_lanes:
-- Political Coordination
-- Electoral Capture
+- Democratic Erosion
+- Electoral Manipulation
 sources:
 - title: Paul Weyrich - Wikipedia
   url: https://en.wikipedia.org/wiki/Paul_Weyrich

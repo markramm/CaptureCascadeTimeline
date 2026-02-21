@@ -20,7 +20,7 @@ tags:
 - discrimination
 - police-misconduct
 capture_lanes:
-- Democratic Institutions & Rule of Law
+- Democratic Erosion
 status: confirmed
 sources:
 - title: Trump's new Justice Department leadership orders a freeze on civil rights cases

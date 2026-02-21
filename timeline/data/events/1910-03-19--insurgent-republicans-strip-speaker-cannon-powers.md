@@ -32,7 +32,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Political Capture
+- Democratic Erosion
 - Legislative Capture
 ---
 

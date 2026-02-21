@@ -21,8 +21,8 @@ tags:
 - federal-reserve
 capture_lanes:
 - Regulatory Capture
-- Academic Capture
-- Financial System Transformation
+- Democratic Erosion
+- Financial Capture
 sources:
 - title: Decline of the Glass–Steagall Act
   url: https://en.wikipedia.org/wiki/Decline_of_the_Glass–Steagall_Act
@@ -30,8 +30,7 @@ sources:
   verified: true
   key_facts_confirmed:
   - Starting in 1970s, large banks pushed back against Glass-Steagall regulations
-  - Banks claimed regulations made them less competitive against foreign securities
-    firms
+  - Banks claimed regulations made them less competitive against foreign securities firms
   - Bankers and regulators began working on ways to overturn the act in 1980s
 - key_facts_confirmed:
   - Federal Reserve allowed banks to establish securities subsidiaries in 1987

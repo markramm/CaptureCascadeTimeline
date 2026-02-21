@@ -1,8 +1,7 @@
 ---
 id: 2025-05-15--the-fbi-is-disbanding-one-of-its-public-corruption-squads-in
 date: '2025-05-15'
-title: FBI Disbands Washington Public Corruption Squad Amid Broader Investigative
-  Reorganization
+title: FBI Disbands Washington Public Corruption Squad Amid Broader Investigative Reorganization
 actors:
 - Donald Trump
 - Trump Administration
@@ -19,9 +18,9 @@ tags:
 - justice-department
 - political-investigations
 capture_lanes:
-- Institutional Capture
-- Judicial Interference
-- Law Enforcement Redirection
+- Democratic Erosion
+- Judicial Capture
+- Civil Rights Suppression
 sources:
 - date: '2025-05-15'
   outlet: NBC News
@@ -29,8 +28,7 @@ sources:
   url: https://www.nbcnews.com/politics/justice-department/fbi-folds-public-corruption-squad-aided-jack-smiths-trump-investigatio-rcna207029
 - date: '2025-05-15'
   outlet: Associated Press
-  title: The FBI is Disbanding One of Its Public Corruption Squads in Its Washington
-    Office
+  title: The FBI is Disbanding One of Its Public Corruption Squads in Its Washington Office
   url: https://apnews.com/article/fbi-public-corruption-squad-trump-0478a9f5884b443e1f0403a1f6dad49e
 - date: '2025-06-02'
   outlet: NPR
@@ -41,11 +39,7 @@ connections:
 - Public Integrity Section Cuts
 - Arctic Frost Investigation
 capture_type: institutional_reconfiguration
-notes: Unit dissolution suggests broader systematic effort to reduce investigative
-  capabilities for political corruption cases. Follows Senator Grassley's criticism
-  of the unit being 'weaponized' and coincides with shifting FBI priorities. NPR reporting
-  confirms leadership shifts under Kash Patel are fundamentally altering FBI's investigative
-  mandate.
+notes: Unit dissolution suggests broader systematic effort to reduce investigative capabilities for political corruption cases. Follows Senator Grassley's criticism of the unit being 'weaponized' and coincides with shifting FBI priorities. NPR reporting confirms leadership shifts under Kash Patel are fundamentally altering FBI's investigative mandate.
 status: confirmed
 patterns:
 - kleptocratic-capture

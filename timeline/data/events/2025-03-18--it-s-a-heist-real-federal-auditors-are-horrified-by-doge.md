@@ -13,7 +13,7 @@ tags:
 - financial-oversight
 capture_lanes:
 - Financial Capture
-- Institutional Capture
+- Democratic Erosion
 capture_type: monetizing_position
 location: Washington, D.C.
 sources:

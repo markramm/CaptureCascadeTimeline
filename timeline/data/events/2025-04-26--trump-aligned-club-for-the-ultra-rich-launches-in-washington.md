@@ -7,7 +7,7 @@ actors:
 - Zach Witkoff
 capture_lanes:
 - Systematic Corruption
-- Political Networking
+- Democratic Erosion
 capture_type: monetizing_position
 connections:
 - 1789 Capital

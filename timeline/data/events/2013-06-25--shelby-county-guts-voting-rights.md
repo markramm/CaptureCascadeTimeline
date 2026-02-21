@@ -17,9 +17,9 @@ tags:
 - electoral-manipulation
 - landmark-decision
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Election System Attack
-- Judicial Capture & Corruption
+- Democratic Erosion
+- Electoral Manipulation
+- Judicial Capture
 sources:
 - title: Shelby County v. Holder
   url: https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf
@@ -30,8 +30,7 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/effects-shelby-county-v-holder-voting-rights-act
   outlet: Brennan Center for Justice
   date: '2023-06-25'
-- title: Impact of Shelby County v. Holder - Voter Suppression and Discriminatory
-    Redistricting
+- title: Impact of Shelby County v. Holder - Voter Suppression and Discriminatory Redistricting
   url: https://www.naacpldf.org/shelby-county-v-holder-impact/
   outlet: NAACP Legal Defense Fund
   date: '2023-06-25'
@@ -43,9 +42,7 @@ sources:
   url: https://www.oyez.org/cases/2012/12-96
   outlet: Oyez
   date: '2013-06-25'
-notes: Thomas went further in concurrence wanting to strike entire Section 5. Immediate
-  wave of voter suppression laws followed. Benefits GOP megadonors like Crow, Koch,
-  Singer who fund justices.
+notes: Thomas went further in concurrence wanting to strike entire Section 5. Immediate wave of voter suppression laws followed. Benefits GOP megadonors like Crow, Koch, Singer who fund justices.
 status: confirmed
 ---
 

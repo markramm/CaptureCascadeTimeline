@@ -5,40 +5,40 @@ title: Army-McCarthy Hearings Begin as Military Charges Senator with Improper Pr
 importance: 8
 location: Washington, D.C.
 actors:
-  - Joseph McCarthy
-  - Roy Cohn
-  - Robert Stevens
-  - Joseph Welch
-  - G. David Schine
-  - U.S. Army
-  - Senate Permanent Subcommittee on Investigations
+- Joseph McCarthy
+- Roy Cohn
+- Robert Stevens
+- Joseph Welch
+- G. David Schine
+- U.S. Army
+- Senate Permanent Subcommittee on Investigations
 tags:
-  - mccarthyism
-  - congressional-action
-  - military-politics
-  - political-theater
-  - institutional-resistance
+- mccarthyism
+- congressional-action
+- military-politics
+- political-theater
+- institutional-resistance
 capture_lanes:
-  - Counter-Movement
+- Democratic Erosion
 sources:
-  - title: "Army-McCarthy Hearings"
-    url: "https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings.htm"
-    outlet: "U.S. Senate"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Army-McCarthy Hearings"
-    url: "https://www.eisenhowerlibrary.gov/research/online-documents/mccarthy-era"
-    outlet: "Eisenhower Presidential Library"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Point of Order: Documentary on the Army-McCarthy Hearings"
-    url: "https://www.c-span.org/video/?326889-1/army-mccarthy-hearings-retrospective"
-    outlet: "C-SPAN"
-    date: 2024-01-01
-    verified: true
-    tier: 2
+- title: Army-McCarthy Hearings
+  url: https://www.senate.gov/about/powers-procedures/investigations/mccarthy-hearings.htm
+  outlet: U.S. Senate
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Army-McCarthy Hearings
+  url: https://www.eisenhowerlibrary.gov/research/online-documents/mccarthy-era
+  outlet: Eisenhower Presidential Library
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: 'Point of Order: Documentary on the Army-McCarthy Hearings'
+  url: https://www.c-span.org/video/?326889-1/army-mccarthy-hearings-retrospective
+  outlet: C-SPAN
+  date: 2024-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

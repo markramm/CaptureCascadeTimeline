@@ -17,9 +17,9 @@ tags:
 - democracy-erosion
 - heritage-foundation
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Corporate Capture & Regulatory Breakdown
-- Executive Power & Emergency Authority
+- Democratic Erosion
+- Regulatory Capture
+- Executive Power Expansion
 sources:
 - title: 2025 Donald J. Trump Executive Orders
   url: https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025

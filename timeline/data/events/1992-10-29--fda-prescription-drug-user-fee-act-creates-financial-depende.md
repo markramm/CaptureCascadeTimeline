@@ -7,7 +7,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Institutional Transformation
+- Democratic Erosion
 category: regulatory-capture
 date: '1992-10-29'
 id: 1992-10-29--fda-prescription-drug-user-fee-act-creates-financial-depende

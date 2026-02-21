@@ -26,8 +26,8 @@ tags:
 - corporate-complicity
 - first-amendment
 capture_lanes:
-- Ideological Capture
-- Structural Repression
+- Democratic Erosion
+- Civil Rights Suppression
 sources:
 - title: Hollywood blacklist - Wikipedia
   url: https://en.wikipedia.org/wiki/Hollywood_blacklist

@@ -34,7 +34,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Financial Capture
-- Political Systems Capture
+- Democratic Erosion
 ---
 
 The Haudenosaunee (Iroquois) Confederacy established a sophisticated democratic system centuries before the United States Constitution, featuring consensus-based governance, sophisticated separation of powers, personal rights protections, and significant roles for women in political leadership. Benjamin Franklin and other Founding Fathers explicitly studied and acknowledged the Confederacy's political innovations, which directly influenced constitutional design principles.

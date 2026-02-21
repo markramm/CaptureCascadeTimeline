@@ -16,11 +16,10 @@ tags:
 - peter-thiel-network
 capture_lanes:
 - Legislative Capture
-- Political Network Influence
+- Democratic Erosion
 sources:
 - outlet: CNBC
-  title: J.D. Vance, an ally of tech investor Peter Thiel, made almost $1 million
-    in the period before he launched his Ohio Senate campaign
+  title: J.D. Vance, an ally of tech investor Peter Thiel, made almost $1 million in the period before he launched his Ohio Senate campaign
   url: https://www.cnbc.com/2021/11/26/jd-vance-made-nearly-1-million-in-runup-to-ohio-senate-campaign.html
   date: '2021-11-26'
 - outlet: CNN Politics

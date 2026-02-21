@@ -15,19 +15,19 @@ tags:
 - states-rights
 - institutional-obstruction
 sources:
-- title: 'Veto Message on the Internal Improvements Bill'
+- title: Veto Message on the Internal Improvements Bill
   url: https://millercenter.org/the-presidency/presidential-speeches/march-3-1817-veto-message-internal-improvements-bill
   outlet: Miller Center - University of Virginia
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'Bonus Bill of 1817'
+- title: Bonus Bill of 1817
   url: https://en.wikipedia.org/wiki/Bonus_Bill_of_1817
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Madison''s Veto Sets a Precedent'
+- title: Madison's Veto Sets a Precedent
   url: https://fee.org/articles/madisons-veto-sets-a-precedent/
   outlet: Foundation for Economic Education
   date: '2024-01-01'
@@ -35,7 +35,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Political Capture
+- Democratic Erosion
 ---
 
 On the last day of his administration, President James Madison vetoes the Bonus Bill, legislation proposed by Representative John C. Calhoun to earmark the $1.5 million revenue "bonus" and future dividends (estimated at $650,000 annually) from the recently established Second Bank of the United States for a fund "for constructing roads and canals and improving the navigation of watercourses." Despite approving of the bill's stated goals and having privately urged that Congress be given power to build roads and canals at the Constitutional Convention, Madison vetoes the legislation as unconstitutional because he finds no expressed congressional power to fund roads and canals in Article I, Section 8 of the Constitution. The veto stuns Calhoun and Speaker Henry Clay, who had pushed the legislation forward in the waning days of Madison's term and believed they had the president's support.

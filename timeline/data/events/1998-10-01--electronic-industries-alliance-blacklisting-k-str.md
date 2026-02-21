@@ -1,12 +1,7 @@
 ---
 date: '1998-10-01'
 title: Electronic Industries Alliance Blacklisting - K Street Project Enforcement
-description: The incident represented a stark illustration of the K Street Project's
-  enforcement mechanisms, where Republican leaders like Tom DeLay and Newt Gingrich
-  used legislative leverage to dictate hiring practices in lobbying organizations.
-  By pulling an intellectual property rights bill and pressuring the Electronic Industries
-  Alliance, they sent a clear message about the consequences of not aligning with
-  Republican hiring preferences.
+description: The incident represented a stark illustration of the K Street Project's enforcement mechanisms, where Republican leaders like Tom DeLay and Newt Gingrich used legislative leverage to dictate hiring practices in lobbying organizations. By pulling an intellectual property rights bill and pressuring the Electronic Industries Alliance, they sent a clear message about the consequences of not aligning with Republican hiring preferences.
 actors:
 - Tom DeLay
 - Newt Gingrich
@@ -44,7 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion
-- Political Infrastructure Manipulation
+- Democratic Erosion
 connections:
 - Political party control of lobbying infrastructure
 - Partisan manipulation of industry associations
@@ -64,11 +59,8 @@ project_strategy_summary:
   - Systematic tracking of lobbyist affiliations
 historical_context:
   pre_1995_lobbying_landscape: Bipartisan, with more fluid movement between parties
-  post_k_street_project_landscape: Highly partisan, with 75% of top K Street jobs
-    held by Republicans by 2003
-notes: A defining moment in the K Street Project that demonstrated how Republican
-  leadership could weaponize legislative processes to enforce partisan hiring mandates
-  in lobbying organizations.
+  post_k_street_project_landscape: Highly partisan, with 75% of top K Street jobs held by Republicans by 2003
+notes: A defining moment in the K Street Project that demonstrated how Republican leadership could weaponize legislative processes to enforce partisan hiring mandates in lobbying organizations.
 ---
 
 A pivotal moment in the K Street Project's systematic transformation of Washington's lobbying ecosystem, where Republican leadership demonstrated its power to coerce and control industry associations by punishing the Electronic Industries Alliance for hiring a Democratic congressman, thereby establishing a partisan hiring mandate for lobbyists.

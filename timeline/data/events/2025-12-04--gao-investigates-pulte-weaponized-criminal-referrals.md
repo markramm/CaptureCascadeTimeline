@@ -25,10 +25,10 @@ tags:
 - abuse-of-power
 - trump-loyalists
 capture_lanes:
-- Rule of Law Erosion
-- Weaponized Prosecution
+- Democratic Erosion
+- Judicial Capture
 - Regulatory Capture
-- Agency Politicization
+- Federal Workforce Capture
 sources:
 - title: GAO opens probe into Bill Pulte's mortgage fraud referrals
   url: https://www.housingwire.com/articles/gao-fhfa-director-investigation/

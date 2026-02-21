@@ -1,8 +1,7 @@
 ---
 id: 2018-06-27--janus-v-afscme-supreme-court-guts-public-sector-unions
 date: '2018-06-27'
-title: Janus v. AFSCME - Supreme Court Strikes Down Public Sector Union Fees, Targeting
-  Teachers' Unions
+title: Janus v. AFSCME - Supreme Court Strikes Down Public Sector Union Fees, Targeting Teachers' Unions
 importance: 9
 actors:
 - Justice Samuel Alito
@@ -59,7 +58,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Labor Suppression
-- Koch Network Victory
+- Democratic Erosion
 ---
 
 

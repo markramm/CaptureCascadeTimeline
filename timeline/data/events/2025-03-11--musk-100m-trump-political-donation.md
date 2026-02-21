@@ -2,9 +2,7 @@
 id: 2025-03-11--musk-100m-trump-political-donation
 date: '2025-03-11'
 title: Musk Pledges $100M to Trump Political Operation
-description: Elon Musk has planned to donate $100 million to Trump-controlled political
-  groups through his America PAC super PAC, representing a continuation of his substantial
-  political investment in Trump's political infrastructure.
+description: Elon Musk has planned to donate $100 million to Trump-controlled political groups through his America PAC super PAC, representing a continuation of his substantial political investment in Trump's political infrastructure.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -34,11 +32,10 @@ sources:
 connections: []
 patterns:
 - kleptocratic-capture
-notes: Significant financial commitment to Trump's political infrastructure through
-  America PAC, representing potential systematic influence
+notes: Significant financial commitment to Trump's political infrastructure through America PAC, representing potential systematic influence
 capture_lanes:
 - Systematic Corruption
-- Political Capture
+- Democratic Erosion
 ---
 
 Elon Musk informed the Trump Administration of his intent to donate $100 million to Trump's political groups, expanding his significant financial support following the 2024 election. Musk's America PAC had already spent over $239 million supporting Trump's campaign, making him the largest single donor in Trump's political network. This donation aims to support Trump's legislative agenda and potential 2026 midterm election strategies.

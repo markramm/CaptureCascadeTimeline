@@ -38,6 +38,8 @@ sources:
   outlet: NBC News
   date: '2026-01-17'
   tier: 2
+capture_lanes:
+- Democratic Erosion
 ---
 
 President Donald Trump announces he will impose a 10% tariff on Denmark, Norway, Sweden, France, Germany, the United Kingdom, the Netherlands, and Finland—all NATO allies—starting February 1, 2026, "until such time as a Deal is reached for the Complete and Total purchase of Greenland." Trump declares the tariff would escalate to 25% on June 1 unless Denmark agrees to sell Greenland to the United States.

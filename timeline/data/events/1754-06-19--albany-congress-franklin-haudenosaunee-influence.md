@@ -33,8 +33,7 @@ tags:
 - colonial-era
 status: confirmed
 capture_lanes:
-- Democratic Foundations
-- Political Capture
+- Democratic Erosion
 ---
 
 The Albany Congress marks a pivotal moment when Benjamin Franklin and colonial delegates directly engaged with Haudenosaunee (Iroquois) Confederacy leaders, including Mohawk leader Hendrick, to discuss an English-Haudenosaunee alliance against the French and a plan of union for the colonies. By special invitation, Hendrick explained the Haudenosaunee Confederacy's democratic model—a functioning federal system featuring representative government, checks on executive power, impeachment provisions, and a balance between individual nation sovereignty and confederated governance. This exposure to Indigenous democratic structures, which had been operating successfully for centuries (dating to between 1000-1450 CE), directly influenced Franklin's subsequent Albany Plan of Union, which proposed federating the British American colonies under a single legislature with a president-general—a structure remarkably similar to the Haudenosaunee model.

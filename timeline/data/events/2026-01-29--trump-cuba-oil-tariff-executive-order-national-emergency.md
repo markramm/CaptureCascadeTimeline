@@ -30,6 +30,8 @@ sources:
   outlet: PBS NewsHour
   date: '2026-01-29'
   tier: 1
+capture_lanes:
+- Democratic Erosion
 ---
 
 President Trump signed Executive Order 14380 declaring a national emergency with respect to Cuba and establishing a framework to impose tariffs on imports from any country that directly or indirectly supplies oil to the Cuban government. The order invokes the International Emergency Economic Powers Act (IEEPA), asserting that Cuban government policies constitute an "unusual and extraordinary threat" to U.S. national security and foreign policy. Under the framework, the Secretary of Commerce will identify countries supplying oil to Cuba, the Secretary of State will recommend tariff levels in consultation with other agencies, and the president may then impose ad valorem duties on all imports from those countries—not solely energy-related products.

@@ -1,7 +1,7 @@
 ---
 id: 2025-01-13--bannon-vows-to-destroy-truly-evil-musk-maga-civil-war
 date: '2025-01-13'
-title: "Bannon Vows to Destroy 'Truly Evil' Elon Musk, Declares MAGA Civil War"
+title: Bannon Vows to Destroy 'Truly Evil' Elon Musk, Declares MAGA Civil War
 importance: 8
 actors:
 - Steve Bannon
@@ -31,8 +31,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Right-Wing Coalition
-- DOGE
+- Democratic Erosion
+- Federal Workforce Capture
 ---
 
 Steve Bannon declared war on Elon Musk in an interview with Italian newspaper Corriere della Sera, calling him "a truly evil guy, a very bad guy" and vowing to have him "run out" of the White House. Bannon announced "I made it my personal thing to take this guy down," promising to exile Musk from the MAGA movement by Inauguration Day.

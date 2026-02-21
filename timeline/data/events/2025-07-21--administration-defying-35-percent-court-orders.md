@@ -17,9 +17,9 @@ tags:
 - democracy-breakdown
 - authoritarian-governance
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Executive Power & Emergency Authority
-- Judicial Capture & Corruption
+- Democratic Erosion
+- Executive Power Expansion
+- Judicial Capture
 sources:
 - title: Trump accused of defying about a third of major court orders since taking office
   url: https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/

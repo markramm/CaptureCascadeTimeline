@@ -23,8 +23,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Right-Wing Coalition
-- Political Instability
+- Democratic Erosion
 ---
 
 Steve Bannon turned sharply against Vice President JD Vance, igniting what observers described as "fresh MAGA fireworks" in the ongoing conservative civil war. The attack represented a dramatic reversal for Bannon, who had previously supported Vance's rise and Senate campaign.

@@ -23,7 +23,7 @@ tags:
 - castanon-nava
 - chicago
 capture_lanes:
-- Rule of Law Under Pressure
+- Democratic Erosion
 sources:
 - title: Appeals court blocks federal judge's order to release hundreds of immigrants arrested in Illinois immigration crackdown
   url: https://chicago.suntimes.com/immigration/2025/11/20/federal-appeals-court-release-hundreds-ice-detainees-hold

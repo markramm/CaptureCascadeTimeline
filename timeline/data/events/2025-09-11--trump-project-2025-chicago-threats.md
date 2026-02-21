@@ -29,6 +29,8 @@ sources:
   title: What Project 2025 Says About Immigration
   url: https://www.americanimmigrationcouncil.org/blog/what-project-2025-says-about-immigration/
   date: '2025-09-11'
+capture_lanes:
+- Democratic Erosion
 ---
 
 The Trump administration escalated tensions with Democratic-led cities by threatening to deploy National Guard troops to Chicago, targeting the city over its sanctuary policies. This action aligns with Project 2025's aggressive immigration enforcement strategy, which includes mass deportations, using military forces for domestic law enforcement, and pressuring sanctuary cities through federal funding threats.

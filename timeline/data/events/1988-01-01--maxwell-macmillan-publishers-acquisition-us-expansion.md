@@ -20,7 +20,7 @@ tags:
 - corporate-debt
 capture_lanes:
 - Media Capture & Control
-- Academic Capture
+- Democratic Erosion
 sources:
 - title: 'From wooden shack to global media magnate: The rise and fall of Robert Maxwell'
   url: https://www.timesofisrael.com/from-wooden-shack-to-global-media-magnate-the-rise-and-fall-of-robert-maxwell/

@@ -26,7 +26,7 @@ tags:
 status: confirmed
 id: 1973-06-25--opus-dei-established-as-personal-prelature-by-pope
 capture_lanes:
-- Religious Networks
+- Democratic Erosion
 - Systematic Corruption
 ---
 

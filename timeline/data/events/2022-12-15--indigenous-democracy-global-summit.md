@@ -32,7 +32,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Democratic Innovation
+- Democratic Erosion
 ---
 
 International conference exploring indigenous democratic practices, highlighting the sophisticated governance models developed by Indigenous peoples across North America. Researchers from multiple disciplines presented evidence of complex democratic institutions in Indigenous societies, challenging Western-centric views of democratic governance. The summit emphasized how Indigenous governance systems facilitate broad participation, consensus-building, and equitable power distribution through unique institutional arrangements.

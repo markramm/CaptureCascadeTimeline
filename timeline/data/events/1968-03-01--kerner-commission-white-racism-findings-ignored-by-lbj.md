@@ -9,11 +9,11 @@ actors:
 - President Lyndon B. Johnson
 - Richard Nixon
 sources:
-- title: 'The 1968 Kerner Commission Got It Right, But Nobody Listened'
+- title: The 1968 Kerner Commission Got It Right, But Nobody Listened
   outlet: Smithsonian Magazine
   url: https://www.smithsonianmag.com/smithsonian-institution/1968-kerner-commission-got-it-right-nobody-listened-180968318/
   year: 2018
-- title: 'Kerner Commission'
+- title: Kerner Commission
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Kerner_Commission
   year: 2024
@@ -21,7 +21,7 @@ sources:
   outlet: KQED
   url: https://www.kqed.org/news/11821827/opportunity-lost-the-radical-1968-report-on-white-racism-the-government-chose-to-ignore
   year: 2018
-- title: 'The Kerner Commission Report on White Racism, 50 Years On'
+- title: The Kerner Commission Report on White Racism, 50 Years On
   outlet: JSTOR Daily
   url: https://daily.jstor.org/the-kerner-commission-report-on-white-racism-50-years-on/
   year: 2018
@@ -32,9 +32,8 @@ tags:
 - urban-policy
 - law-and-order-politics
 capture_lanes:
-- Political System Capture
-- Media Manipulation
-- Conservative Political Strategy
+- Democratic Erosion
+- Media Capture & Control
 status: confirmed
 ---
 

@@ -24,7 +24,7 @@ tags:
 - political-succession
 capture_lanes:
 - Systematic Corruption
-- Political Transition
+- Democratic Erosion
 status: confirmed
 ---
 

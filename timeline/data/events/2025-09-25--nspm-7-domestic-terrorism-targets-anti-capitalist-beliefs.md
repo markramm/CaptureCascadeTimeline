@@ -46,8 +46,8 @@ sources:
   date: '2025-09-25'
   tier: 1
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Authoritarian Escalation
+- Democratic Erosion
+- Executive Power Expansion
 ---
 
 President Trump signed National Security Presidential Memorandum-7 (NSPM-7), titled "Countering Domestic Terrorism and Organized Political Violence," which for the first time identifies ideological beliefs—rather than violent conduct—as indicators of domestic terrorism. The memorandum lists "common threads animating this violent conduct" including: anti-Americanism, anti-capitalism, anti-Christianity, support for overthrowing the U.S. government, "extremism on migration, race, and gender," and "hostility towards those who hold traditional American views on family, religion, and morality."

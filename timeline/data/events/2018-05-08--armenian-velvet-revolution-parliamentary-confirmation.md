@@ -1,8 +1,7 @@
 ---
 id: 2018-05-08--armenian-velvet-revolution-parliamentary-confirmation
 date: '2018-05-08'
-title: Armenian Parliament Confirms Nikol Pashinyan as Prime Minister, Completing
-  Velvet Revolution
+title: Armenian Parliament Confirms Nikol Pashinyan as Prime Minister, Completing Velvet Revolution
 importance: 9
 sources:
 - outlet: Freedom House
@@ -27,9 +26,8 @@ actors:
 - Republican Party of Armenia
 - Armenian Parliament
 capture_lanes:
-- Democratic Transformation
-- Digital Resistance
-- Political Accountability
+- Democratic Erosion
+- Digital & Tech Capture
 status: validated
 ---
 

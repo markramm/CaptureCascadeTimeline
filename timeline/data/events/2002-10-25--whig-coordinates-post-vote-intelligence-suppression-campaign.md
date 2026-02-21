@@ -11,13 +11,10 @@ actors:
 - Lewis 'Scooter' Libby
 - Michael Gerson
 importance: 8
-significance: Demonstrates a coordinated effort to manipulate intelligence narratives,
-  revealing systemic institutional corruption in decision-making processes surrounding
-  the Iraq War.
+significance: Demonstrates a coordinated effort to manipulate intelligence narratives, revealing systemic institutional corruption in decision-making processes surrounding the Iraq War.
 sources:
 - outlet: George Washington University National Security Archive
-  title: 'U.S. Intelligence and Iraq WMD: Intelligence Community Documents Show Pressure
-    from Vice President''s Office'
+  title: 'U.S. Intelligence and Iraq WMD: Intelligence Community Documents Show Pressure from Vice President''s Office'
   url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB254/index.htm
   type: academic_archive
   key_facts_confirmed:
@@ -28,16 +25,12 @@ sources:
   title: 'White House Iraq Group: Marketing the War Narrative'
   url: https://www.npr.org/2002/09/02/1357754/white-house-iraq-group-war-marketing-strategy
   date: '2002-09-02'
-  description: Analysis of the White House Iraq Group's strategic communication efforts
-    to build public support for the Iraq War, revealing the group's coordinated narrative
-    manipulation
+  description: Analysis of the White House Iraq Group's strategic communication efforts to build public support for the Iraq War, revealing the group's coordinated narrative manipulation
 - outlet: ProPublica
   title: Intelligence Suppression and the Iraq War Prelude
   url: https://www.propublica.org/article/intelligence-suppression-iraq-war-white-house-iraq-group
   date_accessed: '2025-10-17'
-  description: Investigative report exploring how the White House Iraq Group pressured
-    intelligence agencies to suppress contradictory information about Iraq's weapons
-    capabilities
+  description: Investigative report exploring how the White House Iraq Group pressured intelligence agencies to suppress contradictory information about Iraq's weapons capabilities
 tags:
 - whig
 - intelligence-suppression
@@ -50,7 +43,7 @@ tags:
 capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
-- Institutional Manipulation
+- Democratic Erosion
 category: intelligence_corruption
 status: confirmed
 verification_status: documented

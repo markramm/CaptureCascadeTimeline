@@ -38,7 +38,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Foreign Policy & Imperialism
+- Democratic Erosion
 ---
 
 Filipino resistance fighters in Balangiga, Samar conduct a surprise attack on Company C of the U.S. 9th Infantry Regiment, killing 54 American soldiers in what becomes described as the "worst defeat of United States Army soldiers since the Battle of the Little Bighorn in 1876." The attack occurs over five months after Emilio Aguinaldo's April 19 "Peace Manifesto" acknowledging American sovereignty, revealing that resistance continues on islands like Samar where U.S. forces have closed ports to prevent supplies reaching Filipino forces under General Vicente Lukban. American interests are eager to control Samar's Manila hemp trade—vital for U.S. Navy rope and agricultural industries—which is financing Philippine resistance. The villagers make their move between 6:20 and 6:45 AM when Valeriano Abanador grabs Private Adolph Gamlin's rifle, stunning him and firing at the mess tent as church bells peal and conch shells blow, signaling communal laborers to rush American sentries and soldiers eating breakfast.

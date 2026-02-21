@@ -29,6 +29,8 @@ sources:
   outlet: NPR
   date: '2026-02-06'
   tier: 1
+capture_lanes:
+- Democratic Erosion
 ---
 
 The Department of Justice released over 3 million pages of documents, 180,000 images, and 2,000 videos related to Jeffrey Epstein on January 30, 2026, committing what attorneys called "the single most egregious violation of victim privacy in one day in United States history." A Wall Street Journal review found that at least 43 survivors' full names were exposed without redaction, including more than two dozen who were minors when abused; some names appeared over 100 times in the documents, with home addresses visible in keyword searches.

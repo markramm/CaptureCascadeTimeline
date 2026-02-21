@@ -12,8 +12,8 @@ tags:
 - healthcare-policy
 - conservative-infrastructure
 capture_lanes:
-- Ideological Capture
-- Policy Capture
+- Democratic Erosion
+- Regulatory Capture
 sources:
 - title: American Enterprise Institute - Wikipedia
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute

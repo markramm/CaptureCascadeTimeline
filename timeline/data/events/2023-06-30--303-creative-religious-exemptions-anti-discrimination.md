@@ -71,9 +71,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Religious Extremism
-- Erosion of Civil Rights
-- LGBTQ Rights Erosion
+- Democratic Erosion
+- Civil Rights Suppression
 ---
 
 

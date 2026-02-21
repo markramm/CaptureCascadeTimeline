@@ -33,6 +33,8 @@ sources:
   outlet: Washington Post
   tier: 1
 status: confirmed
+capture_lanes:
+- Democratic Erosion
 ---
 
 House Oversight Committee Democrats released nearly 100,000 photos from Jeffrey Epstein's estate showing him with high-profile figures including Donald Trump (multiple photos from 1990s/2000s), Steve Bannon (sitting at desk with Epstein and a selfie in mirror), Bill Clinton (standing with Epstein and Ghislaine Maxwell in a signed photo), Bill Gates (multiple photos including one smiling with Prince Andrew), Alan Dershowitz, Woody Allen, Larry Summers, Richard Branson, Mick Jagger (sitting between Epstein and Clinton), Michael Jackson (next to Clinton), Kevin Spacey, Chris Tucker, and Prince Andrew. Trump dismissed the photos as "no big deal" and defended Clinton, saying "I don't like the pictures of Bill Clinton being shown."

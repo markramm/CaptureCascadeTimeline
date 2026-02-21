@@ -31,7 +31,7 @@ sources:
   outlet: Georgia Public Broadcasting
   date: 2021-03-27
 capture_lanes:
-- State Capture
+- Democratic Erosion
 - Electoral Manipulation
 - Regulatory Capture
 ---

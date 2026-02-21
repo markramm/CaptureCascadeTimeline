@@ -61,9 +61,7 @@ patterns:
 - diplomatic-betrayal
 notes: This represents an extraordinary breakdown in transatlantic trust. For the French President to explicitly warn of American "betrayal" in leaked diplomatic communications shows profound European mistrust of Trump administration Ukraine policy. The parallel to Paris 1973—when the U.S. negotiated peace in Vietnam and then abandoned South Vietnam to conquest—is deliberate and ominous. The French presidency's denial that Macron used those exact words does not dispute the substance of the warning. The leak itself may be deliberate—European attempt to constrain U.S. negotiating position by making betrayal concerns public.
 capture_lanes:
-- Geopolitical Realignment
-- Democratic Alliance Fracture
-- International Relations
+- Democratic Erosion
 ---
 
 On December 4, 2025, German magazine Der Spiegel published details of a leaked December 1 conference call in which French President Emmanuel Macron explicitly warned Ukrainian President Volodymyr Zelenskyy that the United States could "betray Ukraine on territory without clarity on security guarantees" in peace negotiations with Russia.

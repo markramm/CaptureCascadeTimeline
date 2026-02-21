@@ -40,8 +40,8 @@ sources:
   date: '2026-01-22'
   tier: 1
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Immigration Enforcement Abuse
+- Democratic Erosion
+- Civil Rights Suppression
 ---
 
 Two anonymous ICE employees disclosed to Congress an internal DHS memo by acting ICE head Todd Lyons authorizing immigration agents to forcibly enter homes using only administrative warrants signed by ICE officials, bypassing the constitutional requirement for judicial warrants. The Associated Press first reported on the whistleblower disclosure, revealing a sharp reversal of decades of guidance meant to respect Fourth Amendment limits on government searches.

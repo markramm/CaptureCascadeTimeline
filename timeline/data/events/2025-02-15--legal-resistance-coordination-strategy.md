@@ -28,7 +28,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Legal Resistance
+- Democratic Erosion
 ---
 
 Legal resistance network holds first major strategy summit, developing coordinated approach to challenging administrative overreach. Key focus on unified litigation strategies, shared legal resources, and rapid response mechanisms for constitutional violations. Multiple civil liberties organizations, including the ACLU, National Lawyers Guild, and Constitutional Defense Network, converge to create a comprehensive legal defense strategy against potential constitutional challenges. The summit highlights collaborative efforts to deploy legal resources swiftly and effectively across multiple jurisdictions.

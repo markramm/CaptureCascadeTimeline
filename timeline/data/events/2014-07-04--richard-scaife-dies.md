@@ -89,4 +89,6 @@ sources:
   date: 2014-07-04
   tier: 1
   outlet: CNN
+capture_lanes:
+- Democratic Erosion
 ---

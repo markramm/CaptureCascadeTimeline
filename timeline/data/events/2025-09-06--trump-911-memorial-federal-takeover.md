@@ -28,6 +28,8 @@ tags:
 - institutional-capture
 - abuse-of-power
 - historical-revisionism
+capture_lanes:
+- Democratic Erosion
 ---
 
 The Trump administration announced it is exploring whether the federal government can seize control of the 9/11 memorial and museum in New York City. The White House confirmed 'preliminary exploratory discussions' about the takeover but declined to elaborate. During a 2024 campaign event, Trump promised to make Ground Zero a national monument to 'preserve the hallowed ground and the memory of those who perish there.' Officials at the National September 11 Memorial & Museum stated the federal government lacks legal authority for a unilateral takeover of the site, which sits on land owned by the Port Authority of New York and New Jersey. Since 2014, the memorial has been run by a public charity now chaired by Michael Bloomberg, generating $93 million in revenue in 2024 with a $9 million surplus. Museum president Beth Hillman said federal management 'makes no sense' given Trump's efforts to pare back federal bureaucracy. New York Governor Kathy Hochul opposed the takeover, citing Trump's attempts to influence how American history is told through national monuments, stating 'The 9/11 Memorial belongs to New Yorkers.' The move represents potential abuse of federal power to reshape historical narratives and politicize a sacred site.

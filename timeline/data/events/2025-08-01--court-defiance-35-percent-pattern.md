@@ -18,17 +18,15 @@ tags:
 - judicial-authority
 - separation-of-powers
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Executive Power & Emergency Authority
-- Judicial Capture & Corruption
+- Democratic Erosion
+- Executive Power Expansion
+- Judicial Capture
 sources:
-- title: Trump accused of defying about a third of major court orders since taking
-    office
+- title: Trump accused of defying about a third of major court orders since taking office
   url: https://www.washingtonpost.com/politics/2025/07/21/trump-court-orders-defy-noncompliance-marshals-judges/
   outlet: The Washington Post
   date: '2025-07-21'
-- title: The courts are helpless - Inside the Trump administration's steady erosion
-    of judicial power
+- title: The courts are helpless - Inside the Trump administration's steady erosion of judicial power
   url: https://www.cnn.com/2025/08/10/politics/trump-administration-judicial-power
   outlet: CNN
   date: '2025-08-10'

@@ -7,18 +7,15 @@ actors:
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
-- Institutional Capture
+- Democratic Erosion
 capture_type: regulatory_capture
 connections: []
 date: '2025-04-11'
-description: Meta strategically appoints Dina Powell McCormick, a former Trump administration
-  national security advisor, to its board of directors, signaling potential political
-  alignment and strategic positioning.
+description: Meta strategically appoints Dina Powell McCormick, a former Trump administration national security advisor, to its board of directors, signaling potential political alignment and strategic positioning.
 id: 2025-04-11--meta-adds-former-trump-advisor-to-its-board
 importance: 7
 location: Washington, D.C.
-notes: Board appointment demonstrates ongoing political-corporate interconnection
-  and potential regulatory influence.
+notes: Board appointment demonstrates ongoing political-corporate interconnection and potential regulatory influence.
 patterns:
 - kleptocratic-capture
 - revolving-door

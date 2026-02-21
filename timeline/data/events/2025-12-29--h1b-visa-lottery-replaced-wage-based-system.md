@@ -10,7 +10,7 @@ tags:
 - labor-policy
 - regulatory-change
 capture_lanes:
-- Immigration Control
+- Democratic Erosion
 actors:
 - Donald Trump
 - U.S. Department of Homeland Security

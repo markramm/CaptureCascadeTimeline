@@ -38,7 +38,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Foreign Policy & Imperialism
+- Democratic Erosion
 ---
 
 The Senate Committee on the Philippines embarks on a highly publicized investigation into "Affairs in the Philippine Islands" after letters from ordinary American soldiers in the Philippines surface in hometown newspapers containing graphic accounts of torture and atrocities. At the center of the storm is the "water cure"—a form of drowning torture in which soldiers force water (often salty or filthy) into victims' mouths and noses until they "swell up like toads," then jump on their distended bellies to force vomiting so the torture can begin again. Lieutenant Grover Flint describes the procedure: "A man is thrown down on his back and three or four men sit or stand on his arms and legs and hold him down; and either a gun barrel or a rifle barrel or a carbine barrel or a stick as big as a belaying pin is simply thrust into his jaws." One report notes the technique's lethality: "a soldier who was with General Funston stated that he helped to administer the water cure to one hundred and sixty natives, all but twenty-six of whom died."

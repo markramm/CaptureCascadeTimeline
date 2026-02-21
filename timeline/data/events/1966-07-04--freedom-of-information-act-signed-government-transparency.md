@@ -4,37 +4,36 @@ date: '1966-07-04'
 title: Freedom of Information Act Signed After Decade of Executive Branch Opposition
 importance: 8
 actors:
-  - President Lyndon B. Johnson
-  - Representative John Moss
-  - Senator Edward Long
-  - American Society of Newspaper Editors
+- President Lyndon B. Johnson
+- Representative John Moss
+- Senator Edward Long
+- American Society of Newspaper Editors
 tags:
-  - government-transparency
-  - press-freedom
-  - democratic-erosion
-  - regulatory-reform
+- government-transparency
+- press-freedom
+- democratic-erosion
+- regulatory-reform
 sources:
-  - title: "Freedom of Information Act"
-    url: "https://www.foia.gov/about.html"
-    outlet: "Department of Justice FOIA.gov"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "History of FOIA"
-    url: "https://www.rcfp.org/history-of-foia/"
-    outlet: "Reporters Committee for Freedom of the Press"
-    date: 2024-01-15
-    verified: true
-    tier: 2
-  - title: "FOIA at 50"
-    url: "https://nsarchive.gwu.edu/special-foia-50th-anniversary"
-    outlet: "National Security Archive"
-    date: 2016-07-04
-    verified: true
-    tier: 2
+- title: Freedom of Information Act
+  url: https://www.foia.gov/about.html
+  outlet: Department of Justice FOIA.gov
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: History of FOIA
+  url: https://www.rcfp.org/history-of-foia/
+  outlet: Reporters Committee for Freedom of the Press
+  date: 2024-01-15
+  verified: true
+  tier: 2
+- title: FOIA at 50
+  url: https://nsarchive.gwu.edu/special-foia-50th-anniversary
+  outlet: National Security Archive
+  date: 2016-07-04
+  verified: true
+  tier: 2
 capture_lanes:
-  - Government Transparency
-  - Democratic Accountability
+- Democratic Erosion
 status: confirmed
 ---
 

@@ -6,7 +6,7 @@ actors:
 - Department of Government Efficiency
 capture_lanes:
 - Regulatory Capture
-- Institutional Capture
+- Democratic Erosion
 capture_type: regulatory_capture
 connections:
 - CFPB Transformation

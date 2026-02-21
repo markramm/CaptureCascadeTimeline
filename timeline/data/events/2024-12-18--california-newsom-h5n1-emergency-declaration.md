@@ -29,6 +29,8 @@ sources:
   date: '2024-12-18'
   tier: 1
   outlet: PBS
+capture_lanes:
+- Democratic Erosion
 ---
 
 On December 18, 2024, California Governor Gavin Newsom proclaimed a State of Emergency to streamline and expedite the state's response to avian influenza A (H5N1), as cases were detected in dairy cows on farms in Southern California. The emergency declaration came after dairy cows at four Southern California dairies tested positive for bird flu on December 12, 2024, signaling that the outbreak had spread beyond the Central Valley and necessitating a shift from regional containment to statewide monitoring and response.

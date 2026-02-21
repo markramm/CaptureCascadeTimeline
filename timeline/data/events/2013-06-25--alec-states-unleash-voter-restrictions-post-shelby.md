@@ -33,7 +33,7 @@ sources:
 capture_lanes:
 - Electoral Manipulation
 - Judicial Capture
-- State Capture
+- Democratic Erosion
 - Regulatory Capture
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 2019-10-01--zuckerberg-trump-white-house-dinners
 date: '2019-10-01'
-title: 'Zuckerberg Holds Secret White House Dinners with Trump, Kushner, and Thiel to Negotiate Content Moderation'
+title: Zuckerberg Holds Secret White House Dinners with Trump, Kushner, and Thiel to Negotiate Content Moderation
 importance: 9
 actors:
 - Mark Zuckerberg
@@ -20,32 +20,31 @@ tags:
 - content-moderation
 - political-coordination
 sources:
-- title: 'Mark Zuckerberg, Trump had undisclosed meeting at White House with Peter Thiel'
+- title: Mark Zuckerberg, Trump had undisclosed meeting at White House with Peter Thiel
   url: https://www.cbsnews.com/news/mark-zuckerberg-trump-had-undisclosed-meeting-at-white-house-with-peter-thiel/
   outlet: CBS News
   date: '2019-11-21'
   tier: 2
-- title: 'Trump hosted Zuckerberg for undisclosed dinner at White House'
+- title: Trump hosted Zuckerberg for undisclosed dinner at White House
   url: https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986
   outlet: NBC News
   date: '2019-11-20'
   tier: 1
-- title: 'The Secret Meeting Between Mark Zuckerberg, Peter Thiel, Donald Trump, and Jared Kushner'
+- title: The Secret Meeting Between Mark Zuckerberg, Peter Thiel, Donald Trump, and Jared Kushner
   url: https://www.thedailybeast.com/the-secret-meeting-between-mark-zuckerberg-peter-thiel-donald-trump-and-jared-kushner/
   outlet: The Daily Beast
   date: '2019-11-21'
   tier: 2
-- title: 'Mark Zuckerberg, Jared Kushner Struck Secret White House Deal'
+- title: Mark Zuckerberg, Jared Kushner Struck Secret White House Deal
   url: https://www.mediaite.com/media/news/mark-zuckerberg-reportedly-promised-to-avoid-fact-checks-of-political-speech-so-trump-would-lay-off-on-regulating-facebook/
   outlet: Mediaite
   date: '2020-06-30'
   tier: 2
 status: confirmed
 capture_lanes:
-- Political Capture
-- Regulatory Negotiation
-- Elite Coordination
-- Platform Authoritarianism
+- Democratic Erosion
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 Mark Zuckerberg conducts secret, unreported meetings with Donald Trump, Jared Kushner, and Facebook board member Peter Thiel at the White House to negotiate content moderation policies and regulatory pressure. According to later reporting, Zuckerberg promises to avoid fact-checking political speech in exchange for reduced regulation, demonstrating direct political capture at the highest level.

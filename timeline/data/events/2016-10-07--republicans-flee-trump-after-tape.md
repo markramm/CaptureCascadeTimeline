@@ -43,9 +43,8 @@ tags:
 - sexual-misconduct
 status: confirmed
 capture_lanes:
-- Political Crisis
-- Party Discipline
-- Electoral Politics
+- Democratic Erosion
+- Electoral Manipulation
 ---
 
 In the hours and days following the October 7, 2016 release of the Access Hollywood tape, dozens of Republican officials withdrew their support for Donald Trump, with many calling for him to exit the presidential race entirely. The mass defection represented the most serious internal challenge to Trump's candidacy and appeared to threaten the viability of his campaign just one month before the election.

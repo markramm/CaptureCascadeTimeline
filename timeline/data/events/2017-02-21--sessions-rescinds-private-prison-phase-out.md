@@ -36,8 +36,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- institutional-capture
-- systematic-corruption
+- Democratic Erosion
+- Systematic Corruption
 ---
 
 Attorney General Jeff Sessions issues a one-paragraph memorandum rescinding the August 18, 2016 directive from Deputy Attorney General Sally Yates to phase out federal use of private prisons. Sessions claims the Obama policy "changed long-standing policy and practice, and impaired the Bureau's ability to meet the future needs of the federal correctional system," citing concerns about "overcrowding" despite declining federal prison populations.

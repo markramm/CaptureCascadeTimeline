@@ -40,7 +40,7 @@ sources:
   date: '2026-01-21'
   tier: 1
 capture_lanes:
-- Foreign Policy Aggression
+- Democratic Erosion
 ---
 
 At the World Economic Forum in Davos, Trump delivered a widely-watched speech threatening tariffs on eight NATO members—Denmark, Norway, Sweden, France, Germany, Britain, the Netherlands, and Finland—in retaliation for defending Greenland's sovereignty. He announced tariffs starting at 10% in February and rising to 25% in June.

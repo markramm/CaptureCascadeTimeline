@@ -43,7 +43,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Religious Right Capture
+- Democratic Erosion
 ---
 
 Oregon voters defeat Ballot Measure 9 by a margin of 56.5 percent to 43.5 percent, rejecting what has been described as "one of the most comprehensive and harshest anti-gay measures put to voters in American history." The initiative, sponsored by the Oregon Citizens Alliance (OCA) and its executive director Lon Mabon, sought to amend the Oregon Constitution to declare homosexuality "abnormal, wrong, unnatural, and perverse" alongside pedophilia, sadism, and masochism. The measure would have required all state and local governments to actively discourage homosexuality and prohibited anti-discrimination laws protecting LGBTQ individuals. The OCA, a conservative Christian political action committee affiliated with the Christian Coalition, framed the campaign around "no special rights" while deploying harsh rhetoric that drew international attention and actually increased voter turnout beyond the presidential election.

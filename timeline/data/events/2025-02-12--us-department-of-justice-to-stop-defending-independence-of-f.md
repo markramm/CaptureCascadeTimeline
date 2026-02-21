@@ -2,10 +2,7 @@
 id: 2025-02-12--us-department-of-justice-to-stop-defending-independence-of-f
 date: '2025-02-12'
 title: DOJ Moves to Undermine Independence of Regulatory Agencies
-description: The Department of Justice challenged the constitutional basis for independent
-  regulatory agencies, arguing that agency heads should be removable at will by the
-  president. This move targets the FTC, NLRB, and CPSC, potentially allowing direct
-  executive control over these previously independent bodies.
+description: The Department of Justice challenged the constitutional basis for independent regulatory agencies, arguing that agency heads should be removable at will by the president. This move targets the FTC, NLRB, and CPSC, potentially allowing direct executive control over these previously independent bodies.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -23,8 +20,7 @@ tags:
 - executive-power-expansion
 capture_type: institutional_independence_erosion
 sources:
-- title: US Department of Justice to stop defending independence of FTC, NLRB, letter
-    says
+- title: US Department of Justice to stop defending independence of FTC, NLRB, letter says
   url: https://www.reuters.com/world/us/us-justice-department-will-stop-defending-independence-ftc-nlrb-letter-says-2025-02-12/
   outlet: Reuters
   date: '2025-02-12'
@@ -48,10 +44,8 @@ patterns:
 - executive-power-consolidation
 capture_lanes:
 - Regulatory Capture
-- Political Capture
-- Institutional Transformation
-notes: DOJ seeks to remove constitutional protections for independent agency leadership,
-  marking a significant challenge to regulatory independence.
+- Democratic Erosion
+notes: DOJ seeks to remove constitutional protections for independent agency leadership, marking a significant challenge to regulatory independence.
 ---
 
 The Department of Justice announced plans to challenge the constitutional protections that prevent the president from arbitrarily firing leaders of independent agencies like the Federal Trade Commission (FTC) and National Labor Relations Board (NLRB). Acting Solicitor General Sarah Harris argued that current laws protecting agency leadership are unconstitutional, potentially opening the door to direct executive branch interference in regulatory bodies.

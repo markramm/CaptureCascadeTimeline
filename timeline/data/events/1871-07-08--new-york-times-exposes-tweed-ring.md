@@ -1,7 +1,7 @@
 ---
 id: 1871-07-08--new-york-times-exposes-tweed-ring
 date: '1871-07-08'
-title: 'New York Times Exposes Tweed Ring with Stolen Records'
+title: New York Times Exposes Tweed Ring with Stolen Records
 importance: 8
 actors:
 - New York Times
@@ -9,15 +9,15 @@ actors:
 - William "Boss" Tweed
 - Tammany Hall
 sources:
-- title: 'The Rise and Fall of William M. Tweed and the Tweed Ring'
+- title: The Rise and Fall of William M. Tweed and the Tweed Ring
   outlet: New York Spaces
   url: https://newyorkspaces.com/the-rise-and-fall-of-william-m-tweed-and-the-tweed-ring/
   year: 2024
-- title: 'William "Boss" Tweed and Political Machines'
+- title: William "Boss" Tweed and Political Machines
   outlet: Bill of Rights Institute
   url: https://billofrightsinstitute.org/essays/william-boss-tweed-and-political-machines
   year: 2024
-- title: 'William M. Tweed'
+- title: William M. Tweed
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/William_M._Tweed
   year: 2024
@@ -27,8 +27,7 @@ tags:
 - political-machines
 - whistleblower-retaliation
 capture_lanes:
-- Political Machine Operations
-- Media Resistance
+- Democratic Erosion
 status: confirmed
 ---
 

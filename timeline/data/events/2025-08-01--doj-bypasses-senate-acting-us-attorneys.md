@@ -33,6 +33,8 @@ sources:
   date: '2025-08-01'
   tier: 2
   outlet: Bloomberg Law
+capture_lanes:
+- Democratic Erosion
 ---
 
 The Justice Department used legally dubious tactics to bypass Senate confirmation, re-designating Trump loyalists as 'acting' U.S. attorneys in New Jersey, Nevada, California, and New York. After district judges declined to re-appoint certain interim appointees, Attorney General Pam Bondi used the Federal Vacancies Reform Act to appoint them as 'acting' U.S. attorneys instead, extending their terms by an additional 210 days without Senate approval.

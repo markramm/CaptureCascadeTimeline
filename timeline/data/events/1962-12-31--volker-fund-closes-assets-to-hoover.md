@@ -22,20 +22,19 @@ tags:
 - corporate-philanthropy
 - hoover-institution
 capture_lanes:
-- Ideological Capture
-- Academic Capture
+- Democratic Erosion
 sources:
-- title: 'William Volker Fund - SourceWatch'
+- title: William Volker Fund - SourceWatch
   url: https://www.sourcewatch.org/index.php/William_Volker_Fund
   outlet: SourceWatch
   date: '2024-01-01'
   verified: true
-- title: 'William Volker Fund'
+- title: William Volker Fund
   url: https://www.philanthropyroundtable.org/almanac/volker-bolkers-economic-liberty/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
-- title: 'Murray Rothbard - Wikipedia'
+- title: Murray Rothbard - Wikipedia
   url: https://en.wikipedia.org/wiki/Murray_Rothbard
   outlet: Wikipedia
   date: '2024-01-01'

@@ -11,9 +11,9 @@ tags:
 - antisemitism
 - free-speech
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Immigration & Border Militarization
-- Information & Media Control
+- Democratic Erosion
+- Military-Industrial Complex
+- Media Capture & Control
 citations:
 - https://www.uscis.gov/newsroom/news-releases/dhs-to-begin-screening-aliens-social-media-activity-for-antisemitism
 - https://www.washingtonpost.com/immigration/2025/04/09/antisemitic-social-media-immigrants

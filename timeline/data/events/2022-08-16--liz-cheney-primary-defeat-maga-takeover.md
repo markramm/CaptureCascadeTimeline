@@ -18,8 +18,7 @@ tags:
 - republican-party
 - electoral-politics
 capture_lanes:
-- Democratic Capture
-- Ideological Capture
+- Democratic Erosion
 sources:
 - title: Rep. Liz Cheney loses her primary in Wyoming to Trump-backed challenger
   url: https://www.nbcnews.com/politics/2022-election/rep-liz-cheney-loses-primary-wyoming-trump-backed-challenger-rcna43379

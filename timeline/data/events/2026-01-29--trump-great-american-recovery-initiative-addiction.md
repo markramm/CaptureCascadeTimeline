@@ -30,6 +30,8 @@ sources:
   outlet: STAT News
   date: '2026-01-29'
   tier: 2
+capture_lanes:
+- Democratic Erosion
 ---
 
 President Trump signed an executive order creating the White House Great American Recovery Initiative to coordinate a national response to addiction, co-chaired by HHS Secretary Robert F. Kennedy Jr. and recovery advocate Kathryn Burgum, both of whom are in long-term recovery from alcohol addiction. The initiative will advise federal agencies on directing grants, increase awareness about drug addiction, and integrate programs on prevention, treatment, recovery support, and re-entry, with at least 14 high-level officials participating including the attorney general and secretaries of labor, education, and veterans affairs.

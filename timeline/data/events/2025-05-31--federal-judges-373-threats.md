@@ -14,8 +14,8 @@ tags:
 - threats
 - rule-of-law
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Executive Power & Emergency Authority
+- Democratic Erosion
+- Executive Power Expansion
 sources:
 - title: More judicial threats prompt calls to boost security for judges, courts
   url: https://www.washingtonpost.com/politics/2025/05/30/judges-courthouses-threats-security-trump/
@@ -29,16 +29,11 @@ sources:
   url: https://www.bostonglobe.com/2025/05/30/nation/sharp-spike-threats-judges-prompts-calls-more-security/
   outlet: The Boston Globe
   date: '2025-05-30'
-- title: Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S.
-    Marshals Service On Escalating Threats Against Judges
+- title: Whitehouse Leads Senate Judiciary Committee Democrats In New Letter To U.S. Marshals Service On Escalating Threats Against Judges
   url: https://www.judiciary.senate.gov/press/dem/releases/whitehouse-leads-senate-judiciary-committee-democrats-in-new-letter-to-us-marshals-service-on-escalating-marshals-service-on-escalating-threats-against-judges
   outlet: U.S. Senate Committee on the Judiciary
   date: '2025-05-31'
-notes: U.S. District Judge Esther Salas shared Marshals data showing 373 threats in
-  first 5 months of 2025. March-May saw double the threats (200) vs Oct-March (80),
-  following Trump/allies attacks on judiciary. Marshals investigating 100+ anonymous
-  pizza deliveries to judges' homes as ominous messages showing sender knows their
-  addresses.
+notes: U.S. District Judge Esther Salas shared Marshals data showing 373 threats in first 5 months of 2025. March-May saw double the threats (200) vs Oct-March (80), following Trump/allies attacks on judiciary. Marshals investigating 100+ anonymous pizza deliveries to judges' homes as ominous messages showing sender knows their addresses.
 status: confirmed
 ---
 

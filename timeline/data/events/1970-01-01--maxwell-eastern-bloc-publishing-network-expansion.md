@@ -18,7 +18,7 @@ tags:
 - intelligence-cover
 capture_lanes:
 - Media Capture & Control
-- Academic Capture
+- Democratic Erosion
 sources:
 - title: Robert Maxwell - Wikipedia
   url: https://en.wikipedia.org/wiki/Robert_Maxwell

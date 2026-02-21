@@ -41,8 +41,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- institutional-capture
-- systematic-corruption
+- Democratic Erosion
+- Systematic Corruption
 ---
 
 President Joe Biden signs Executive Order 14006, titled "Reforming Our Incarceration System to Eliminate the Use of Privately Operated Criminal Detention Facilities," directing the Attorney General to not renew Department of Justice contracts with privately operated prisons. The order mostly replicates Obama's 2016 policy but extends slightly to include U.S. Marshals Service contracts. Biden cites the Justice Department inspector general's finding that privately operated prisons fail to maintain safety and security levels comparable to government facilities.

@@ -18,7 +18,7 @@ tags:
 - institutional-capture
 capture_lanes:
 - Corporate Capture
-- Plutocratic Capture
+- Democratic Erosion
 sources:
 - title: 'Richard Mellon Scaife: Funding Father of the Right'
   url: https://www.washingtonpost.com/wp-srv/politics/special/clinton/stories/scaifemain050299.htm

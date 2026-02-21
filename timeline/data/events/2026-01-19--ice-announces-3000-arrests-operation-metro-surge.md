@@ -28,6 +28,8 @@ sources:
   outlet: NPR
   date: '2026-01-30'
   tier: 1
+capture_lanes:
+- Democratic Erosion
 ---
 
 DHS announced that Immigration and Customs Enforcement had made 3,000 arrests in Minneapolis during the six weeks of Operation Metro Surge, the largest immigration enforcement operation in U.S. history. DHS Secretary Kristi Noem claimed on social media that ICE had "arrested over 10,000 criminal illegal aliens" in Minneapolis, though official statements cited 3,000 arrests total.

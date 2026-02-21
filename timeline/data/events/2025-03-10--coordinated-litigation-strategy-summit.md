@@ -33,8 +33,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial Capture
-- Legal Resistance
-- Constitutional Defense
+- Democratic Erosion
 connections:
 - State-level constitutional protection
 - Cross-jurisdictional legal strategy

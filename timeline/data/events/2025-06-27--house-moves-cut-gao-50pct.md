@@ -20,15 +20,13 @@ tags:
 - appropriations
 - separation-of-powers
 capture_lanes:
-- Constitutional & Democratic Breakdown
+- Democratic Erosion
 citations:
 - https://rollcall.com/2025/06/27/house-appropriators-approve-legislative-branch-bill-with-gao-cuts
 - https://federalnewsnetwork.com/congress/2025/07/senate-appropriators-reject-house-proposal-to-halve-gaos-budget-next-year
 - https://thehill.com/homenews/5372396-house-gop-advances-bill-gutting-government-watchdog/
 - https://www.ntu.org/foundation/detail/cutting-congresss-watchdog-would-be-a-costly-mistake
-notes: This attempt to gut GAO came after it challenged Trump administration impoundments.
-  GAO is Congress's nonpartisan watchdog that investigates federal spending and has
-  repeatedly found illegal withholding of congressionally appropriated funds.
+notes: This attempt to gut GAO came after it challenged Trump administration impoundments. GAO is Congress's nonpartisan watchdog that investigates federal spending and has repeatedly found illegal withholding of congressionally appropriated funds.
 status: confirmed
 sources:
 - title: House appropriators approve Legislative Branch bill with GAO cuts

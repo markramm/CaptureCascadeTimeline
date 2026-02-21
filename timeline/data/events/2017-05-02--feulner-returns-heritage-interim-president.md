@@ -78,4 +78,6 @@ sources:
   date: 2017-05-02
   tier: 1
   outlet: PBS NewsHour
+capture_lanes:
+- Democratic Erosion
 ---

@@ -19,6 +19,8 @@ actors:
 - Department of Justice
 - Brad Edwards
 - Brittany Henderson
+capture_lanes:
+- Democratic Erosion
 ---
 
 Attorneys representing over 200 Epstein survivors reported that their clients' names and identifying information appeared unredacted in the DOJ's Epstein files disclosure, even as the department heavily redacted information about perpetrators and co-conspirators. DOJ acknowledged that 'information that victims believe should have been redacted has been posted.' This represented a perverse inversion of the Epstein Files Transparency Act's requirements: the law explicitly protected victim identifying information while mandating disclosure of 'all government officials and politically exposed persons' connected to Epstein's crimes. The law specifically prohibited withholding information 'on the basis of embarrassment, reputational harm, or political sensitivity.' Instead, DOJ appeared to protect the powerful while exposing the vulnerable, using victim privacy as a pretext for wholesale redactions while failing to actually protect victim identities.

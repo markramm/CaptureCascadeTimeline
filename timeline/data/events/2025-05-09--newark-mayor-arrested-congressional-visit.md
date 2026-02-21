@@ -17,8 +17,8 @@ tags:
 - democratic-breakdown
 - separation-of-powers
 capture_lanes:
-- Constitutional & Democratic Breakdown
-- Law Enforcement Weaponization
+- Democratic Erosion
+- Civil Rights Suppression
 sources:
 - title: Newark Mayor Ras Baraka arrested at ICE facility while joining Democrats to conduct 'oversight'
   url: https://abcnews.go.com/Politics/newark-mayor-arrested-ice-facility-joining-democrats-conduct/story?id=121652689

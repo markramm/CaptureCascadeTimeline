@@ -32,22 +32,19 @@ sources:
   url: https://www.wusa9.com/article/news/crime/us-attorney-jeanine-pirros-office-admits-grand-jury-refused-charges-against-dc-woman-twice-sydney-reid-dc-jail/65-dc64747e-a8d4-4ad9-89e2-f6317f0fa2bd
   outlet: WUSA9
   tier: 1
-- title: 'More turmoil at Virginia US attorney''s office following Comey indictment:
-    2 top prosecutors fired'
+- title: 'More turmoil at Virginia US attorney''s office following Comey indictment: 2 top prosecutors fired'
   url: https://abcnews.go.com/Politics/virginia-us-attorneys-office-turmoil-comey-indictment-prosecutors/story?id=125368942
   date: '2025-10-04'
   tier: 1
   outlet: ABC News
   verified: true
-- title: DOJ fires top national security prosecutor after he's questionably linked
-    to Comey pushback
+- title: DOJ fires top national security prosecutor after he's questionably linked to Comey pushback
   url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
   date: '2025-10-02'
   tier: 1
   outlet: NBC News
   verified: true
-- title: DOJ fires 2 key prosecutors in eastern Virginia amid turmoil in office that
-    charged Comey
+- title: DOJ fires 2 key prosecutors in eastern Virginia amid turmoil in office that charged Comey
   url: https://www.cbsnews.com/news/doj-fires-prosecutors-virginia-office-that-charged-comey-maya-song-michael-benari/
   date: '2025-10-04'
   tier: 1
@@ -61,8 +58,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- institutional-capture
-- prosecutorial-abuse
+- Democratic Erosion
+- Judicial Capture
 ---
 
 

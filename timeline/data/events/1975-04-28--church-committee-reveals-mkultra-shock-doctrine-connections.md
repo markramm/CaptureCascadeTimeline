@@ -1,8 +1,7 @@
 ---
 id: 1975-04-28--church-committee-reveals-mkultra-shock-doctrine-connections
 date: '1975-04-28'
-title: Church Committee Exposes Psychological Manipulation Techniques in Government
-  Operations
+title: Church Committee Exposes Psychological Manipulation Techniques in Government Operations
 importance: 9
 actors:
 - Senator Frank Church
@@ -42,8 +41,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Intelligence Penetration
-- Institutional Transformation
-- Psychological Research
+- Democratic Erosion
 ---
 
 Final Church Committee report reveals extensive details about Project MKULTRA, documenting systematic psychological manipulation techniques developed by CIA during Cold War. The investigation exposed how intelligence agencies conducted unethical human experimentation, including drug-based mind control research, raising critical questions about government ethics and institutional accountability.

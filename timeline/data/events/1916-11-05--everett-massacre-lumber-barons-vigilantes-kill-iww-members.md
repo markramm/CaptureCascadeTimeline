@@ -1,7 +1,7 @@
 ---
 id: 1916-11-05--everett-massacre-lumber-barons-vigilantes-kill-iww-members
 date: '1916-11-05'
-title: "Everett Massacre: Lumber Company Vigilantes Kill IWW Members at City Dock"
+title: 'Everett Massacre: Lumber Company Vigilantes Kill IWW Members at City Dock'
 importance: 7
 actors:
 - Industrial Workers of the World (IWW)
@@ -19,18 +19,18 @@ sources:
   url: https://en.wikipedia.org/wiki/Everett_massacre
   outlet: Wikipedia
   tier: 2
-- title: "The Everett Massacre: A History of the Class Struggle in the Lumber Industry"
+- title: 'The Everett Massacre: A History of the Class Struggle in the Lumber Industry'
   url: https://www.iww.org/history/documents/EverettMassacre/
   outlet: Industrial Workers of the World
   tier: 2
-- title: "Bloody Sunday - The Everett Massacre"
+- title: Bloody Sunday - The Everett Massacre
   url: https://www.historylink.org/File/7892
   outlet: HistoryLink
   tier: 1
 status: confirmed
 capture_lanes:
 - Labor Suppression
-- Political Capture
+- Democratic Erosion
 ---
 
 On November 5, 1916, an armed posse of business owners and deputized vigilantes opened fire on a boatload of IWW members attempting to land at Everett, Washington's city dock, killing at least five Wobblies and two deputies in what became known as the Everett Massacre or "Bloody Sunday." The IWW members were traveling from Seattle to support striking shingle weavers and to test their right to free speech after months of vigilante violence.

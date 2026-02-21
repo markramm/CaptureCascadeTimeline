@@ -16,20 +16,19 @@ tags:
 - academic-capture
 - conservative-philanthropy
 capture_lanes:
-- Ideological Capture
-- Academic Capture
+- Democratic Erosion
 sources:
 - title: John M. Olin Foundation - Wikipedia
   url: https://en.wikipedia.org/wiki/John_M._Olin_Foundation
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Olin Brings Law and Economics to Campus'
+- title: Olin Brings Law and Economics to Campus
   url: https://www.philanthropyroundtable.org/almanac/olin-brings-law-and-economics-to-campus/
   outlet: Philanthropy Roundtable
   date: '2024-01-01'
   verified: true
-- title: 'The Olin Foundation and Support for Law and Economics Research'
+- title: The Olin Foundation and Support for Law and Economics Research
   url: https://www.law.uchicago.edu/news/olin-foundation-and-support-law-and-economics-research
   outlet: University of Chicago Law School
   date: '2024-01-01'

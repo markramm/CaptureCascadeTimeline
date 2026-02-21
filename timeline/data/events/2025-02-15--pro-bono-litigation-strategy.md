@@ -38,9 +38,8 @@ tags:
 - voter-rights
 capture_lanes:
 - Executive Power Expansion
-- Institutional Resistance
-- Legal Advocacy
-- Civil Rights Defense
+- Democratic Erosion
+- Civil Rights Suppression
 importance: 9
 status: confirmed
 ---

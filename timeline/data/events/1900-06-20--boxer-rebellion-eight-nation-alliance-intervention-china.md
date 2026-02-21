@@ -37,7 +37,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Foreign Policy & Imperialism
+- Democratic Erosion
 ---
 
 The Siege of Peking begins as the anti-foreign, anti-imperialist Boxer movement (Society of Righteous and Harmonious Fists) surrounds foreign legations in Beijing, trapping diplomats and missionaries including 56 American sailors and Marines from USS Oregon and USS Newark. The siege triggers formation of the Eight-Nation Alliance—Germany, Japan, Russia, Britain, France, the United States, Italy, and Austria-Hungary—which invades northern China with approximately 45,000 troops (eventually growing to 55,000) to relieve the besieged foreigners and suppress the popular uprising against Western imperialism. The United States deploys forces conveniently stationed in the Philippines following annexation, including the 9th Infantry, 14th Infantry, elements of the 6th Cavalry, and 5th Artillery regiments. U.S. Minister Edwin Conger pursues Secretary of State John Hay's "Open Door" policy seeking equal access to Chinese trade for all powers, making American participation both a rescue mission and enforcement of commercial interests against Chinese resistance to foreign economic penetration.

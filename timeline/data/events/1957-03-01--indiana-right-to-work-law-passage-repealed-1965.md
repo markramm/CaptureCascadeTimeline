@@ -18,14 +18,14 @@ tags:
 - democratic-resistance
 capture_lanes:
 - Legislative Capture
-- Democratic Resistance
+- Democratic Erosion
 sources:
 - title: 'FLASHBACK: Indiana''s Last ''Right-To-Work'' Law Failed So Badly It Was Repealed Eight Years Later'
   url: https://archive.thinkprogress.org/flashback-indianas-last-right-to-work-law-failed-so-badly-it-was-repealed-eight-years-later-dcb26e64fd85/
   outlet: ThinkProgress
   date: '2024-01-01'
   verified: true
-- title: 'Right-to-work law - Wikipedia'
+- title: Right-to-work law - Wikipedia
   url: https://en.wikipedia.org/wiki/Right-to-work_law
   outlet: Wikipedia
   date: '2024-01-01'

@@ -19,7 +19,7 @@ tags:
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
-- Democratic Backsliding
+- Democratic Erosion
 sources:
 - title: 'Democracy Under Pressure: Yoon''s Failed Martial Law'
   url: https://www.asiapacific.ca/publication/explainer-yoons-failed-martial-law-decree-future-impacts

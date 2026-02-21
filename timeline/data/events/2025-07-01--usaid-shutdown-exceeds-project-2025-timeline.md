@@ -10,8 +10,7 @@ actors:
 importance: 9
 sources:
 - outlet: CNN Politics
-  title: State Department formally notifies Congress it is effectively dissolving
-    USAID
+  title: State Department formally notifies Congress it is effectively dissolving USAID
   url: https://www.cnn.com/2025/03/28/politics/state-department-formally-notifies-congress-effectively-dissolving-usaid/index.html
 - outlet: NPR
   title: USAID officially shuts down and merges remaining operations with State Department
@@ -30,8 +29,7 @@ id: 2025-07-01--usaid-shutdown-exceeds-project-2025-timeline
 priority_id: project-2025-implementation-1757456630
 capture_lanes:
 - Regulatory Capture
-- Institutional Transformation
-- Diplomatic Infrastructure Dismantling
+- Democratic Erosion
 ---
 
 USAID officially eliminated by July 1, 2025—faster and more comprehensively than Project 2025 anticipated—with 92% of international development grants terminated and functions folded into State Department. This marks a dramatic reduction of American diplomatic soft power, with over 80% of USAID programs discontinued. Secretary of State Marco Rubio announced the complete termination of the agency as an independent entity, effectively ending USAID's 64-year history.

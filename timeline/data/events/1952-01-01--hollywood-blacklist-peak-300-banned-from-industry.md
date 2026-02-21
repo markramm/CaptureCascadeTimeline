@@ -5,41 +5,41 @@ title: Hollywood Blacklist Reaches Peak with Over 300 Industry Professionals Ban
 importance: 7
 location: Hollywood, California
 actors:
-  - Motion Picture Alliance for the Preservation of American Ideals
-  - Studio executives
-  - House Un-American Activities Committee
-  - American Legion
-  - FBI
-  - J. Edgar Hoover
+- Motion Picture Alliance for the Preservation of American Ideals
+- Studio executives
+- House Un-American Activities Committee
+- American Legion
+- FBI
+- J. Edgar Hoover
 tags:
-  - mccarthyism
-  - civil-liberties
-  - blacklist
-  - entertainment-industry
-  - first-amendment
-  - red-scare
+- mccarthyism
+- civil-liberties
+- blacklist
+- entertainment-industry
+- first-amendment
+- red-scare
 capture_lanes:
-  - Cultural Capture
-  - Structural Repression
+- Democratic Erosion
+- Civil Rights Suppression
 sources:
-  - title: "Hollywood Blacklist"
-    url: "https://www.britannica.com/topic/Hollywood-blacklist"
-    outlet: "Britannica"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Red Scare: Hollywood Blacklist"
-    url: "https://www.pbs.org/wnet/americanmasters/red-scare-featured-hollywood-blacklist/183/"
-    outlet: "PBS American Masters"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "Naming Names"
-    url: "https://www.penguinrandomhouse.com/books/158827/naming-names-by-victor-s-navasky/"
-    outlet: "Penguin Random House"
-    date: 1980-01-01
-    verified: true
-    tier: 2
+- title: Hollywood Blacklist
+  url: https://www.britannica.com/topic/Hollywood-blacklist
+  outlet: Britannica
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: 'Red Scare: Hollywood Blacklist'
+  url: https://www.pbs.org/wnet/americanmasters/red-scare-featured-hollywood-blacklist/183/
+  outlet: PBS American Masters
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: Naming Names
+  url: https://www.penguinrandomhouse.com/books/158827/naming-names-by-victor-s-navasky/
+  outlet: Penguin Random House
+  date: 1980-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

@@ -38,9 +38,8 @@ sources:
   outlet: Scientific American
 status: confirmed
 capture_lanes:
-- Scientist Intimidation
-- Legal Accountability
-- Climate Denial Harassment
+- Democratic Erosion
+- Environmental Capture
 ---
 
 On October 22, 2012, climate scientist Michael Mann filed a defamation lawsuit against Rand Simberg (a former scholar at the Competitive Enterprise Institute) and Mark Steyn (who wrote for National Review), after they published blog posts comparing him to Jerry Sandusky, the former Penn State football coach convicted of child molestation. The lawsuit challenged years of coordinated harassment targeting Mann for his "hockey stick" climate graph showing dramatic 20th century warming, seeking to hold climate deniers legally accountable for character assassination campaigns against scientists.

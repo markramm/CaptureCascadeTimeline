@@ -38,9 +38,8 @@ sources:
 status: confirmed
 id: 2020-10-15--youtube-bans-qanon-after-amplification
 capture_lanes:
-- Radicalization Infrastructure
-- Content Moderation Failure
-- Political Extremism Amplification
+- Democratic Erosion
+- Media Capture & Control
 capture_type: delayed_moderation_response
 patterns:
 - amplify-then-ban

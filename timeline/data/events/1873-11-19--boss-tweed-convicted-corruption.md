@@ -26,8 +26,8 @@ tags:
 - weak-accountability
 - political-machines
 capture_lanes:
-- Political Machine Operations
-- Accountability Theater
+- Democratic Erosion
+- Systematic Corruption
 status: confirmed
 ---
 

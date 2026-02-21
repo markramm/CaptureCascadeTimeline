@@ -15,8 +15,7 @@ tags:
 - political-networks
 capture_lanes:
 - Financial Capture
-- Political Infrastructure Development
-- Network Formation
+- Democratic Erosion
 sources:
 - outlet: Yahoo Finance
   title: Peter Thiel Launched J.D. Vance's Venture Capital Career
@@ -27,8 +26,7 @@ sources:
   url: https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/
   access_date: '2025-10-06'
 - outlet: Fortune
-  title: A colleague who worked with J.D. Vance at Mithril doesn't remember seeing
-    him in the office
+  title: A colleague who worked with J.D. Vance at Mithril doesn't remember seeing him in the office
   url: https://fortune.com/2024/07/26/jd-vance-peter-thiel-venture-capital-mithril/
   access_date: '2025-10-06'
 status: confirmed

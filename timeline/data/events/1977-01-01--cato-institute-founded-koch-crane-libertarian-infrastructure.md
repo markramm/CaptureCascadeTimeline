@@ -18,7 +18,7 @@ tags:
 - think-tank-infrastructure
 capture_lanes:
 - Corporate Capture
-- Plutocratic Capture
+- Democratic Erosion
 sources:
 - title: Cato Institute - Wikipedia
   url: https://en.wikipedia.org/wiki/Cato_Institute
