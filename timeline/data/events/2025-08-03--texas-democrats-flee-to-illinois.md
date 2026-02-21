@@ -22,8 +22,7 @@ sources:
   url: https://www.chicagotribune.com/politics/2025/07/17/illinois-texas-democrats-sanctuary
 - date: '2025-08-04'
   outlet: PBS NewsHour
-  title: Texas Democrats leave the state in effort block vote on redrawn House map
-    backed by Trump
+  title: Texas Democrats leave the state in effort block vote on redrawn House map backed by Trump
   url: https://www.pbs.org/newshour/politics/texas-democrats-leave-the-state-in-effort-block-vote-on-redrawn-house-map-backed-by-trump
 - date: '2025-08-04'
   outlet: NPR
@@ -57,13 +56,11 @@ tags:
 - constitutional-crisis
 - trump-influence
 status: confirmed
-notes: Democrats specifically chose Illinois as sanctuary state beyond reach of Texas
-  law enforcement and potentially federal authorities. Lawmakers could face $500 daily
-  fines and potential legal action from Texas Attorney General Ken Paxton.
+notes: Democrats specifically chose Illinois as sanctuary state beyond reach of Texas law enforcement and potentially federal authorities. Lawmakers could face $500 daily fines and potential legal action from Texas Attorney General Ken Paxton.
 capture_lanes:
-- Election System Attack
-- Executive Power & Emergency Authority
-- Democratic Resistance Strategy
+- Electoral Manipulation
+- Executive Power Expansion
+- Democratic Erosion
 ---
 
 

@@ -23,6 +23,8 @@ sources:
   outlet: BBC
   tier: 1
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
 ---
 
 Greenland held early elections called by Prime Minister Mute Egede amid Trump administration pressure. Demokraatit, a center-right party favoring a slow approach to independence, won with 29.9% of the vote. New Prime Minister Jens-Frederik Nielsen stated the US would "not get it" and Greenland would "decide our own future," calling Trump "a threat to our political independence." Polls showed 84% of Greenlanders wanted independence from Denmark but 85% opposed becoming part of the United States. Trump responded in his State of the Union address that he supported Greenlanders' "right to determine their own future" while also stating the US would get Greenland "one way or the other."

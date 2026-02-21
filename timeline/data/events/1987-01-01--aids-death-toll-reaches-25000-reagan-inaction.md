@@ -19,7 +19,7 @@ tags:
 - government-negligence
 - deaths
 sources:
-- title: 'Ronald Reagan and AIDS'
+- title: Ronald Reagan and AIDS
   url: https://en.wikipedia.org/wiki/Ronald_Reagan_and_AIDS
   outlet: Wikipedia
   date: '2024-01-01'
@@ -29,11 +29,15 @@ sources:
   outlet: San Francisco Chronicle
   date: '2004-06-08'
   verified: true
-- title: 'Reagan Legacy'
+- title: Reagan Legacy
   url: https://www.sfaf.org/collections/status/reagans-legacy/
   outlet: San Francisco AIDS Foundation
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Electoral Manipulation
+- Digital & Tech Capture
+- Media Capture & Control
 ---
 
 By early 1987, over 25,000 Americans have died of AIDS-related illnesses, yet President Reagan has still not delivered a major public address on the epidemic despite six years of crisis. Reagan does not give his first comprehensive AIDS speech until May 1987, by which time the death toll exceeds 20,000 and the disease has spread far beyond the initial affected communities. The administration's years of inaction and inadequate funding have devastating consequences: without federal leadership on prevention education, testing infrastructure, or research funding, the epidemic explodes through vulnerable populations, disproportionately killing gay men, people who use drugs, people of color, and low-income Americans.

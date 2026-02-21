@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: CNBC
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Financial Capture
+- Systematic Corruption
 ---
 
 Minutes after voting to acquit Donald Trump in his second impeachment trial, Senate Minority Leader Mitch McConnell delivered an extraordinary and scathing floor speech declaring: "There's no question, none, that President Trump is practically and morally responsible for provoking the events of the day." McConnell's February 13, 2021 speech represented one of the most damning indictments of a president ever delivered by a leader of his own party, yet it came immediately after McConnell had voted not guilty—a contradiction that exposed the complete moral bankruptcy of Republican leadership and the cynical maneuvering that had ensured Trump's acquittal. McConnell condemned Trump's conduct in the strongest possible terms, describing it as "a disgraceful dereliction of duty," yet simultaneously voted to shield Trump from accountability based on a constitutional argument that McConnell himself had engineered by refusing to convene the Senate for a trial while Trump was still in office.

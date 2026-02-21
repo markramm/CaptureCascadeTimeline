@@ -29,6 +29,10 @@ sources:
   outlet: NAACP Legal Defense Fund
   date: '2025-04-03'
   tier: 2
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Civil Rights Suppression
 ---
 
 Assistant Attorney General Harmeet Dhillon completed a "paradigm shift" of the Department of Justice Civil Rights Division by January 29, 2026, refocusing the division away from protecting marginalized groups and toward investigating alleged voter fraud—described by former career attorney Stacey Young as "largely a political fiction." Dhillon issued new mission statements across all eleven sections prioritizing antisemitism investigations, gun rights enforcement, religious liberty for Christian groups, opposition to transgender participation in women's sports, and dismantling DEI initiatives, while de-emphasizing voting rights, employment discrimination, disability access, housing discrimination, and police misconduct enforcement.

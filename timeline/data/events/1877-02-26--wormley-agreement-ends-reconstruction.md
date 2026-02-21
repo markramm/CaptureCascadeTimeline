@@ -27,9 +27,8 @@ tags:
 - racial-injustice
 - political-corruption
 capture_lanes:
-- Electoral System Capture
-- Racial Exploitation
-- Regional Political Bargains
+- Electoral Manipulation
+- Civil Rights Suppression
 status: confirmed
 ---
 

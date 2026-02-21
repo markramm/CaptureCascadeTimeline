@@ -18,8 +18,8 @@ tags:
 - algorithms
 - content-moderation
 capture_lanes:
-- Election System Attack
-- Information & Media Control
+- Electoral Manipulation
+- Media Capture & Control
 citations:
 - https://about.instagram.com/blog/announcements/continuing-our-approach-to-political-content-on-instagram-and-threads
 - https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds

@@ -26,6 +26,10 @@ sources:
   outlet: Democracy Docket
   tier: 2
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Surveillance Infrastructure
 ---
 
 Stephen Miller launched America First Legal Foundation (AFL) on April 6, 2021, creating a conservative legal organization explicitly designed to serve as a right-wing counterweight to ACLU and SPLC while advancing Miller's white nationalist policy agenda through litigation. Miller established AFL with seed funding from Mark Meadows' Conservative Partnership Institute, recruiting former Trump administration officials including Gene Hamilton as vice president and former Acting Attorney General Matthew Whitaker as executive director. The organization positions itself as combating "anti-white bigotry" and opposing Biden administration policies on immigration, LGBTQ rights, and racial equity programs. AFL has filed hundreds of lawsuits challenging voting rights protections, diversity initiatives in corporations and universities, transgender rights, and immigration policies that deviate from Miller's white nationalist vision. The organization operates as Miller's vehicle to implement his ideological agenda outside government, using judicial activism to undermine civil rights progress while maintaining the veneer of "conservative" legal advocacy. AFL's litigation strategy targets sanctuary cities, challenges affirmative action programs, opposes COVID-19 public health measures in immigrant detention, and systematically attempts to dismantle protections for marginalized communities. The organization receives dark money funding that allows it to conceal donors, though reporting indicates substantial support from conservative billionaire networks. Miller's creation of AFL demonstrates the infrastructure white nationalists built during the Trump administration's interregnum to maintain pressure on democratic institutions and prepare for future power consolidation.

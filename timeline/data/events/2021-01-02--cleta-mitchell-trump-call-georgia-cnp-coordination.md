@@ -27,6 +27,10 @@ sources:
   date: '2021-01-08'
   tier: 1
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Surveillance Infrastructure
+- Systematic Corruption
 ---
 
 On January 2, 2021, Cleta Mitchell - CNP board of governors member and attorney who had been central to the organization's election denial coordination - represented President Trump on his infamous call to Georgia Secretary of State Brad Raffensperger, pressuring him to "find 11,780 votes" to overturn Biden's Georgia victory.

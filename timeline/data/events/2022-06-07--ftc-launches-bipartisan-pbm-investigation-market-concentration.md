@@ -29,6 +29,10 @@ sources:
   outlet: Senate Commerce Committee
   tier: 1
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Regulatory Capture
 ---
 
 The Federal Trade Commission unanimously voted to authorize a comprehensive investigation into pharmacy benefit manager business practices under Section 6(b) of the FTC Act, with all five commissioners voting in favor. The FTC issued compulsory orders to the six largest PBMs—CVS Caremark, Express Scripts, OptumRx, Humana Pharmacy Solutions, Prime Therapeutics, and MedImpact Healthcare Systems—requiring detailed information and records on their pricing practices, rebate arrangements, and impact on drug costs. The bipartisan authorization came after the FTC's chief economist resigned in protest over an earlier study design perceived as predetermined, leading to a redesigned investigation with objective methodology. The inquiry aimed to examine how PBMs use their concentrated market power (the top three control nearly 80% of prescriptions) to extract profits through spread pricing, rebate maximization, formulary manipulation, and steering patients to affiliated pharmacies. Senators Chuck Grassley and Maria Cantwell urged the FTC to complete the investigation swiftly, noting that PBMs operate with minimal transparency while driving up prescription drug costs for millions of Americans. The investigation would ultimately produce damning findings about anticompetitive practices, setting the stage for major enforcement actions.

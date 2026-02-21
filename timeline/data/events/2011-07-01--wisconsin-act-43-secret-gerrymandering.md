@@ -36,6 +36,10 @@ sources:
   date: 2024-01-01
   tier: 3
   outlet: Wikipedia
+capture_lanes:
+- Electoral Manipulation
+- Regulatory Capture
+- Judicial Capture
 ---
 
 Wisconsin Republicans pass 2011 Wisconsin Act 43, implementing extreme partisan gerrymandering through an unprecedented secret process. The redistricting plan, drawn behind closed doors at a private law firm with rank-and-file Republican legislators required to sign confidentiality agreements, creates what federal judges will later describe as the most gerrymandered maps in the United States.

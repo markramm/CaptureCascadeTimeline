@@ -34,6 +34,10 @@ sources:
   date: 2024-01-01
   tier: 1
   outlet: Princeton Gerrymandering Project
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
+- Media Capture & Control
 ---
 
 Michigan voters approve Proposal 2 with 61% support, amending the state constitution to create an independent redistricting commission that removes politicians from the line-drawing process. The grassroots "Voters Not Politicians" initiative directly responds to Michigan's status as having some of the nation's worst gerrymandering, where 2011 Republican-drawn maps allowed the GOP to win 64% of House seats and 9 of 14 congressional seats despite winning only 50.1% of statewide votes in 2016.

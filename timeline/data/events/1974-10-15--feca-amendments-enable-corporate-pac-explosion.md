@@ -15,7 +15,7 @@ tags:
 - political-money
 capture_lanes:
 - Legislative Capture
-- Electoral Capture
+- Electoral Manipulation
 - Corporate Capture
 sources:
 - title: 'The Business PAC Phenomenon: An Irony of Electoral Reform'

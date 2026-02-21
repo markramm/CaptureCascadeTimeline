@@ -19,22 +19,26 @@ actors:
 - Robert Billings
 - Joseph Coors
 sources:
-- title: 'Moral Majority'
+- title: Moral Majority
   url: https://en.wikipedia.org/wiki/Moral_Majority
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Paul Weyrich'
+- title: Paul Weyrich
   url: https://en.wikipedia.org/wiki/Paul_Weyrich
   publication: Wikipedia
   date: '2024-11-08'
   tier: 2
-- title: 'Moral Majority Is Founded'
+- title: Moral Majority Is Founded
   url: https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded
   publication: EBSCO Research Starters
   date: '2024-09-15'
   tier: 2
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Corporate Capture
+- Military-Industrial Complex
 ---
 
 In June 1979, Paul Weyrich and Jerry Falwell founded the Moral Majority during a meeting at a Holiday Inn in Lynchburg, Virginia, with Weyrich coining the term "moral majority." The organization represented a strategic alliance between corporate interests and religious conservatives, using cultural issues to mobilize voters for an economic agenda that primarily benefited wealthy elites.

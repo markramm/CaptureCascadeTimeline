@@ -11,7 +11,7 @@ tags:
 - same-day-registration
 capture_lanes:
 - Systematic Corruption
-- Voter Suppression
+- Electoral Manipulation
 actors:
 - Harmeet Dhillon
 - Steve Simon
@@ -29,8 +29,7 @@ sources:
   date: '2026-01-02'
   tier: 2
   verified: true
-- title: 'Fact Sheet: President Donald J. Trump Addresses Security Risks from Price
-    Fixing'
+- title: 'Fact Sheet: President Donald J. Trump Addresses Security Risks from Price Fixing'
   url: https://www.whitehouse.gov/fact-sheets/2025/12/fact-sheet-president-donald-j-trump-addresses-security-risks-from-price-fixing-and-anti-competitive-behavior-in-the-food-supply-chain/
   outlet: White House
   date: '2026-01-02'

@@ -2,13 +2,10 @@
 id: 2019-06-27--scotus-census-citizenship-question-pretext-hofeller
 date: '2019-06-27'
 importance: 10
-title: Supreme Court blocks 2020 Census citizenship question as 'contrived'; filings
-  tie rationale to Hofeller partisan plan
-notes: 'Balance the official Supreme Court ruling with the extensive record from plaintiffs
-  showing the
+title: Supreme Court blocks 2020 Census citizenship question as 'contrived'; filings tie rationale to Hofeller partisan plan
+notes: 'Balance the official Supreme Court ruling with the extensive record from plaintiffs showing the
 
-  political advantage rationale in Hofeller''s files; include motions introducing
-  those documents.
+  political advantage rationale in Hofeller''s files; include motions introducing those documents.
 
   '
 status: confirmed
@@ -26,7 +23,7 @@ patterns: []
 related_events:
 - 2023-06-08--allen-v-milligan
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 location: United States
 sources:
 - date: '2019-06-27'

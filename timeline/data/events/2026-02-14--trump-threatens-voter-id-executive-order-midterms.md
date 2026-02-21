@@ -15,20 +15,24 @@ tags:
 - election-integrity
 sources:
 - url: https://www.cnbc.com/2026/02/13/trump-congress-voter-id-midterms.html
-  title: 'Trump says he will issue executive order to get voter-ID requirements before midterms'
+  title: Trump says he will issue executive order to get voter-ID requirements before midterms
   outlet: CNBC
   date: '2026-02-13'
   tier: 2
 - url: https://abcnews.com/Politics/trump-issue-executive-order-voter-id-legislation-fails/story?id=130157607
-  title: 'Trump says he will issue executive order on voter ID if legislation fails'
+  title: Trump says he will issue executive order on voter ID if legislation fails
   outlet: ABC News
   date: '2026-02-14'
   tier: 2
 - url: https://www.cbsnews.com/amp/news/trump-vows-to-require-voter-id-in-midterms-whether-approved-by-congress-or-not/
-  title: 'Trump vows to require voter ID in midterms "whether approved by Congress or not"'
+  title: Trump vows to require voter ID in midterms "whether approved by Congress or not"
   outlet: CBS News
   date: '2026-02-14'
   tier: 2
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Executive Power Expansion
 ---
 
 President Trump announced on Truth Social that he will issue an executive order "shortly" laying out "legal reasons" for national voter-identification requirements for the 2026 midterm elections, declaring "There will be Voter I.D. for the Midterm Elections, whether approved by Congress or not!" and adding demands for proof of citizenship and elimination of mail-in ballots except for military, disability, illness, or travel. The announcement followed House passage of the SAVE America Act requiring photo ID at polling places and proof of citizenship for federal voter registration, which passed with only one Democratic vote and faces certain defeat in the Senate where Minority Leader Chuck Schumer vowed to block it as "dead on arrival."

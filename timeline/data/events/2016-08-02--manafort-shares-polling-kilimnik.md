@@ -14,7 +14,7 @@ tags:
 - intelligence-sharing
 - campaign-2016
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 sources:
 - title: Senate Intelligence Committee Report Volume 5
   url: https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf
@@ -31,8 +31,7 @@ sources:
   outlet: PBS News
   date: '2021-04-15'
   archive_url: null
-- title: 'Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With
-    Russia'
+- title: 'Senate Report: Former Trump Aide Paul Manafort Shared Campaign Info With Russia'
   url: https://www.npr.org/2020/08/18/903512647/senate-report-former-trump-aide-paul-manafort-shared-campaign-info-with-russia
   outlet: NPR
   date: '2020-08-18'

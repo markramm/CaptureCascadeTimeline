@@ -30,6 +30,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- International Kleptocracy
+- Intelligence Penetration
 ---
 
 Maria Butina pleaded guilty in federal court on December 13, 2018 to one count of conspiracy to act as an agent of the Russian Federation without registering with the U.S. government, while the original charge of failing to register as a foreign agent was dropped. She became the first Russian national convicted of seeking to influence U.S. policy in the run-up to and through the 2016 election as a foreign agent.

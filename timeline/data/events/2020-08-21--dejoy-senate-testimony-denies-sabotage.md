@@ -36,6 +36,10 @@ sources:
   date: 2020-08-21
   tier: 1
   outlet: CNN
+capture_lanes:
+- Electoral Manipulation
+- Legislative Capture
+- Judicial Capture
 ---
 
 Postmaster General Louis DeJoy testified before the Senate Homeland Security and Governmental Affairs Committee, denying that his operational changes were designed to sabotage mail service or interfere with the 2020 election. DeJoy insisted he had "never spoken to the President about the Postal Service, other than to congratulate me when I accepted the position," and claimed changes like removing mail sorting machines preceded his tenure. However, Ranking Member Senator Gary Peters presented detailed evidence of severe mail delays affecting his constituents and challenged DeJoy's refusal to provide requested data on declining service performance.

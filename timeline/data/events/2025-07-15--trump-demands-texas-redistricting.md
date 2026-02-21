@@ -15,8 +15,8 @@ tags:
 - electoral-manipulation
 - mid-cycle-redistricting
 capture_lanes:
-- Election System Attack
-- Executive Power & Emergency Authority
+- Electoral Manipulation
+- Executive Power Expansion
 sources:
 - title: Trump demands Texas redistricting for GOP gains
   url: https://www.texastribune.org/2025/07/15/trump-texas-redistricting-demand
@@ -34,11 +34,7 @@ sources:
   url: https://apnews.com/article/texas-redistricting-democrats-arrest-warrants-2025
   outlet: AP News
   date: '2025-07-17'
-notes: Unprecedented presidential interference in state redistricting process outside
-  normal census cycle. Abbott initially resisted citing $35M cost and constitutional
-  concerns. 52 House Democrats fled to Illinois breaking quorum. Speaker issued civil
-  arrest warrants and $500/day fines. Mid-cycle redistricting violates traditional
-  decennial census precedent.
+notes: Unprecedented presidential interference in state redistricting process outside normal census cycle. Abbott initially resisted citing $35M cost and constitutional concerns. 52 House Democrats fled to Illinois breaking quorum. Speaker issued civil arrest warrants and $500/day fines. Mid-cycle redistricting violates traditional decennial census precedent.
 status: confirmed
 ---
 

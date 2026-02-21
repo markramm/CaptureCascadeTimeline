@@ -2,10 +2,7 @@
 id: 2025-02-28--donald-trump-still-hasn-t-disclosed-his-secret-transition-fu
 date: '2025-02-28'
 title: Trump Misses Transition Donor Disclosure Deadline, Declines Federal Funding
-description: Trump chose not to accept $19.4 million in federal transition funds,
-  effectively avoiding mandatory donor disclosure requirements. The Presidential Transition
-  Act typically requires detailed reporting of transition funding within 30 days of
-  taking office, but Trump's team has not complied.
+description: Trump chose not to accept $19.4 million in federal transition funds, effectively avoiding mandatory donor disclosure requirements. The Presidential Transition Act typically requires detailed reporting of transition funding within 30 days of taking office, but Trump's team has not complied.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -21,8 +18,7 @@ tags:
 - transparency
 capture_type: regulatory_capture
 sources:
-- title: Trump Hasn't Said Who Funded His Presidential Transition Effort Despite Pledging
-    to Disclose Donors
+- title: Trump Hasn't Said Who Funded His Presidential Transition Effort Despite Pledging to Disclose Donors
   url: https://www.nbcnews.com/politics/trump-administration/trump-not-said-funded-presidential-transition-effort-pledging-disclose-rcna204785
   outlet: NBC News
   date: '2025-02-28'
@@ -30,8 +26,7 @@ sources:
   url: https://news.bgov.com/bloomberg-government-news/trump-loses-out-on-transition-funds-unless-he-discloses-donors
   outlet: Bloomberg Government News
   date: '2025-02-28'
-- title: The Deadline Was Feb 19th and the Trump Transition Team Still Hasn't Disclosed
-    Its Transition Donors
+- title: The Deadline Was Feb 19th and the Trump Transition Team Still Hasn't Disclosed Its Transition Donors
   url: https://www.americandemocracyminute.org/wethepeople/2025/03/04/the-deadline-was-feb-19th-and-the-trump-transition-team-still-hasnt-disclosed-its-transition-donors/
   outlet: American Democracy Minute
   date: '2025-03-04'
@@ -48,9 +43,8 @@ patterns:
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
-- Campaign Finance Opacity
-notes: Declined federal transition funds to avoid donor disclosure requirements. Previously,
-  Trump's 2017 transition raised $6.5 million under different disclosure rules.
+- Electoral Manipulation
+notes: Declined federal transition funds to avoid donor disclosure requirements. Previously, Trump's 2017 transition raised $6.5 million under different disclosure rules.
 ---
 
 President Trump missed the February 19 deadline to disclose private donors for his presidential transition, breaking a long-standing transparency practice. By declining federal funding of $19.4 million, Trump avoided requirements to cap donations at $5,000 per person and publicly list donor details.

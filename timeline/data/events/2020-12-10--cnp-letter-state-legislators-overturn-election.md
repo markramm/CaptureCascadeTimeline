@@ -26,6 +26,10 @@ sources:
   date: '2021-01-08'
   tier: 1
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Systematic Corruption
 ---
 
 On December 10, 2020, the Council for National Policy leadership released a letter drafted by CNP board member and attorney Cleta Mitchell calling on legislators in swing states to throw out over 25 million votes based on false claims of electoral fraud.

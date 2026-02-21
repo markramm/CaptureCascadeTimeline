@@ -13,8 +13,8 @@ tags:
 - elections
 - media-control
 capture_lanes:
-- Election System Attack
-- Information & Media Control
+- Electoral Manipulation
+- Media Capture & Control
 citations:
 - url: https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03
   archived: https://web.archive.org/web/20240101000000/https://www.reuters.com/business/media-telecom/twitter-expand-permitted-political-advertising-2023-01-03

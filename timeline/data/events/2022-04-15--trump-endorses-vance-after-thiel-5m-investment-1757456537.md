@@ -31,9 +31,8 @@ status: confirmed
 id: 2022-04-15--trump-endorses-vance-after-thiel-5m-investment-1757456537
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:
-- Political Influence Networks
-- Campaign Finance Manipulation
-- Oligarchic Political Infrastructure
+- Electoral Manipulation
+- International Kleptocracy
 location: Delaware, Ohio
 ---
 

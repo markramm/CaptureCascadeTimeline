@@ -13,7 +13,7 @@ tags:
 - corporate-coordination
 - powell-memo
 capture_lanes:
-- Electoral Capture
+- Electoral Manipulation
 - Corporate Capture
 sources:
 - title: About NABPAC

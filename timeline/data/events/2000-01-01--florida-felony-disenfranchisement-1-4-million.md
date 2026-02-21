@@ -33,6 +33,10 @@ sources:
   date: 2018-11-07
   tier: 2
   outlet: TIME
+capture_lanes:
+- Electoral Manipulation
+- Civil Rights Suppression
+- Intelligence Penetration
 ---
 
 By 2000, Florida disenfranchises an estimated 1.4 million citizens who have felony convictions—nearly a quarter of all disenfranchised people with felony records in the entire United States. Florida's lifetime voting ban for people with felony convictions, rooted in post-Civil War efforts to disenfranchise Black citizens, creates the nation's largest population of citizens permanently excluded from democracy.

@@ -18,24 +18,17 @@ tags:
 - voter-id
 - disenfranchisement
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 citations:
 - https://allvotingislocal.org/reports/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election-2
-notes: 'HB 458 signed Jan 6, 2023, replaced flexible ID options (utility bills, bank
-  statements) with strict photo ID requirement. Cure period cut from 7 to 4 days.
-  34,364 rejected provisional ballots = 1 in 4 provisional voters silenced. Marion
-  and Jefferson County races decided by single vote while thousands disenfranchised.
-  Report: "The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot
-  Box."'
+notes: 'HB 458 signed Jan 6, 2023, replaced flexible ID options (utility bills, bank statements) with strict photo ID requirement. Cure period cut from 7 to 4 days. 34,364 rejected provisional ballots = 1 in 4 provisional voters silenced. Marion and Jefferson County races decided by single vote while thousands disenfranchised. Report: "The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot Box."'
 status: confirmed
 sources:
-- title: All Voting Is Local Ohio report reveals 34,000 ballots were rejected in the
-    2024 election
+- title: All Voting Is Local Ohio report reveals 34,000 ballots were rejected in the 2024 election
   url: https://allvotingislocal.org/press-releases/all-voting-is-local-ohio-report-reveals-34000-ballots-were-rejected-in-the-2024-election/
   outlet: All Voting Is Local
   date: '2025-04-02'
-- title: Voting rights organization highlights increase in Ohio provisional ballots
-    rejected over ID
+- title: Voting rights organization highlights increase in Ohio provisional ballots rejected over ID
   url: https://ohiocapitaljournal.com/2024/04/03/voting-rights-organization-highlights-increase-in-ohio-provisional-ballots-rejected-over-id/
   outlet: Ohio Capital Journal
   date: '2024-04-03'
@@ -43,8 +36,7 @@ sources:
   url: https://www.acluohio.org/news/hb-458-what-changed-and-why-does-it-harm-ohio-voters/
   outlet: ACLU of Ohio
   date: '2023-04-12'
-- title: The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot
-    Box
+- title: The Uncounted Ballots of 2024 and the 34,000 Ohioans Silenced at the Ballot Box
   url: https://allvotingislocal.org/wp-content/uploads/TheUncountedBallotsof2024Ohio.pdf
   outlet: All Voting Is Local
   date: '2025-04-02'

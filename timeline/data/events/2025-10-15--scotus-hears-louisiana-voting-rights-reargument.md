@@ -33,6 +33,10 @@ sources:
   date: '2025-10-15'
   tier: 1
   outlet: Brennan Center for Justice
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
+- Civil Rights Suppression
 ---
 
 The Supreme Court heard rare second-round oral arguments in Louisiana v. Callais, a case that could fundamentally weaken or eliminate Section 2 of the 1965 Voting Rights Act. The case questions whether Louisiana's creation of a second majority-Black congressional district (which elected Rep. Cleo Fields) violates the Fourteenth or Fifteenth Amendments by intentionally considering race in redistricting.

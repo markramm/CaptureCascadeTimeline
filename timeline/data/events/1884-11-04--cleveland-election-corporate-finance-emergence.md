@@ -1,18 +1,18 @@
 ---
 id: 1884-11-04--cleveland-election-corporate-finance-emergence
 date: '1884-11-04'
-title: 'Cleveland Election Marks Shift Toward Corporate Campaign Financing'
+title: Cleveland Election Marks Shift Toward Corporate Campaign Financing
 importance: 7
 actors:
 - Grover Cleveland
 - James G. Blaine
 - U.S. Congress
 sources:
-- title: 'Money-in-Politics Timeline'
+- title: Money-in-Politics Timeline
   outlet: OpenSecrets
   url: https://www.opensecrets.org/resources/learn/timeline
   year: 2024
-- title: 'The Surprising Survival—So Far—of the Corporate Contribution Ban'
+- title: The Surprising Survival—So Far—of the Corporate Contribution Ban
   outlet: University of Chicago Business Law Review
   url: https://businesslawreview.uchicago.edu/print-archive/surprising-survival-so-far-corporate-contribution-ban
   year: 2024
@@ -26,9 +26,8 @@ tags:
 - systematic-corruption
 - institutional-capture
 capture_lanes:
-- Corporate Political Financing
-- Party System Capture
-- Plutocratic Infrastructure
+- Electoral Manipulation
+- Democratic Erosion
 status: confirmed
 ---
 

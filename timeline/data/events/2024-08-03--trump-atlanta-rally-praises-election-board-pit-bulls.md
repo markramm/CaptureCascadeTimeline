@@ -1,8 +1,7 @@
 ---
 id: 2024-08-03--trump-atlanta-rally-praises-election-board-pit-bulls
 date: '2024-08-03'
-title: Trump Publicly Endorses Georgia Election Board Members at Atlanta Rally, Sparking
-  Electoral Integrity Concerns
+title: Trump Publicly Endorses Georgia Election Board Members at Atlanta Rally, Sparking Electoral Integrity Concerns
 importance: 9
 location: Atlanta, Georgia
 actors:
@@ -23,8 +22,8 @@ tags:
 - election-manipulation
 - 2024-election
 capture_lanes:
-- Election Infrastructure Capture
-- Judicial-Electoral System Manipulation
+- Electoral Manipulation
+- Judicial Capture
 sources:
 - title: Trump Brags About MAGA Takeover of Georgia Election Board
   url: https://www.rollingstone.com/politics/politics-news/trump-brags-maga-takeover-georgia-election-board-1235073860/
@@ -36,8 +35,7 @@ sources:
   outlet: Georgia Public Broadcasting
   date: '2024-09-03'
   verified: true
-- title: Georgia Election Board Member's Appearance at Trump Rally Sparks Debate Over
-    Code of Conduct
+- title: Georgia Election Board Member's Appearance at Trump Rally Sparks Debate Over Code of Conduct
   url: https://www.wsbtv.com/news/local/atlanta/georgia-election-board-members-appearance-trump-rally-sparks-debate-over-code-conduct/S5WFEFGYSZDVBIFIGQZ4J62QSE/
   outlet: WSB-TV Channel 2 Atlanta
   date: '2024-08-15'

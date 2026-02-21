@@ -31,6 +31,10 @@ sources:
   date: '2023-05-22'
   tier: 2
   outlet: NBC DFW
+capture_lanes:
+- Electoral Manipulation
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Oracle Chairman Larry Ellison donated $30 million to Opportunity Matters Fund, a super PAC supporting Senator Tim Scott (R-SC), over the course of 2021 and 2022. This massive contribution followed an initial $5 million donation in October 2020, bringing Ellison's total support for Scott to $35 million by 2022, making him by far the single largest donor to Scott's political operation.

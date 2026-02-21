@@ -24,8 +24,7 @@ sources:
   outlet: Democracy Docket
   title: Two Democrats Allow Texas Senate to Pass Redistricting Map
   url: https://www.democracydocket.com/news-alerts/two-democrats-allow-texas-senate-to-pass-redistricting-map-as-house-holds-out/
-notes: Unprecedented mid-decade redistricting that bypasses traditional legislative
-  procedures. Highlights growing tensions in state-level electoral manipulation.
+notes: Unprecedented mid-decade redistricting that bypasses traditional legislative procedures. Highlights growing tensions in state-level electoral manipulation.
 validation_priority: 10
 importance: 10
 status: confirmed
@@ -45,8 +44,8 @@ tags:
 - state-legislature-power-grab
 location: Austin, Texas
 capture_lanes:
-- Election System Attack
-- Executive Power & Emergency Authority
+- Electoral Manipulation
+- Executive Power Expansion
 ---
 
 In a controversial move, the Texas Legislature voted to change quorum rules and pass a new congressional map creating five additional safe Republican seats without Democratic members present. The legislature modified procedural rules to allow passage despite the absence of Democratic lawmakers, who had fled the state to prevent a vote. The map was designed to redraw district boundaries in Houston, Austin, and Dallas-Fort Worth, potentially flipping several Democratic-held seats to Republican control. Governor Greg Abbott and Republican leadership pushed the map through, imposing daily fines and threats of arrest for absent Democrats. The redistricting effort represents an unprecedented mid-decade redrawing of political boundaries with significant implications for national congressional representation.

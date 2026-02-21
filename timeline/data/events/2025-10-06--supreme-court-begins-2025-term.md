@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: Newsweek
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
+- Intelligence Penetration
 ---
 
 The Supreme Court began its 2025-2026 term on October 6, 2025, with a docket featuring critical cases on executive power, voting rights, and constitutional law. The October session includes 10 oral arguments over five days, with several cases that could fundamentally reshape American governance.

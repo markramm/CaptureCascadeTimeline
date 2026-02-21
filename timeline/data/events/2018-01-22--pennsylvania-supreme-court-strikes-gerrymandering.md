@@ -35,6 +35,10 @@ sources:
   date: 2018-02-07
   tier: 2
   outlet: Philadelphia Inquirer
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
+- Media Capture & Control
 ---
 
 The Pennsylvania Supreme Court rules that the state's 2011 congressional map violates the Pennsylvania Constitution's guarantee that "elections shall be free and equal," striking down one of the nation's most extreme partisan gerrymanders. The court finds that Republican-drawn maps allowed the GOP to win 72% of congressional seats while receiving only 49-55% of votes across multiple elections, demonstrating how gerrymandering can systematically nullify voter preferences.

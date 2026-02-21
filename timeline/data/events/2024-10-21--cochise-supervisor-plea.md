@@ -15,15 +15,13 @@ tags:
 - elections
 - election-interference
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 citations:
 - https://www.azpm.org/p/headlines/2024/10/21/222261-cochise-county-supervisor-peggy-judd-pleads-guilty-in-election-interference-case-gets-probation
-notes: Part of a broader pattern of election certification challenges in Arizona following
-  the 2022 midterms
+notes: Part of a broader pattern of election certification challenges in Arizona following the 2022 midterms
 status: confirmed
 sources:
-- title: Cochise County Supervisor Peggy Judd pleads guilty in election interference
-    case, gets probation
+- title: Cochise County Supervisor Peggy Judd pleads guilty in election interference case, gets probation
   url: https://www.azpm.org/p/headlines/2024/10/21/222261-cochise-county-supervisor-peggy-judd-pleads-guilty-in-election-interference-case-gets-probation
   outlet: AZPM
   date: '2024-10-21'
@@ -33,8 +31,7 @@ sources:
   outlet: Votebeat
   date: '2024-10-21'
   archive_url: https://web.archive.org/web/20241022000000*/https://www.votebeat.org/arizona/2024/10/21/cochise-county-arizona-supervisor-takes-plea-deal-delaying-midterm-results/
-- title: Attorney General Mayes Announces Plea Deal in Cochise County Election Interference
-    Case
+- title: Attorney General Mayes Announces Plea Deal in Cochise County Election Interference Case
   url: https://www.azag.gov/press-release/attorney-general-mayes-announces-plea-deal-cochise-county-election-interference-case
   outlet: Arizona Attorney General
   date: '2024-10-21'

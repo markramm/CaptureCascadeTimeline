@@ -19,6 +19,9 @@ tags:
 - institutional-capture
 - systematic-corruption
 - voting-systems
+capture_lanes:
+- Electoral Manipulation
+- Systematic Corruption
 ---
 
 Dominion Voting Systems was sold to Liberty Vote, led by former GOP elections director Scott Leiendecker. The new ownership pledged alignment with Trump's contested election directives that have been deemed unconstitutional by courts. The sale of a major voting systems company to partisan operatives who pledge fealty to Trump's election fraud conspiracy theories represents systematic capture of election infrastructure. This creates obvious conflicts where voting system administration could be manipulated to favor Republican candidates and validate Trump's false claims about election fraud.

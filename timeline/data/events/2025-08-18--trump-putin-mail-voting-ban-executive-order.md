@@ -28,6 +28,10 @@ sources:
   date: '2025-08-25'
   tier: 2
   outlet: Trump Tyranny Tracker
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- International Kleptocracy
 ---
 
 Trump announced plans to sign an executive order ending mail-in voting and targeting voting machines for the 2026 midterms, citing Vladimir Putin's claim that postal ballots 'rigged' the 2020 election. Trump told Fox News that Putin said during their Alaska summit 'Your election was rigged because you have mail-in voting.'

@@ -11,7 +11,7 @@ tags:
 - mass-challenges
 - election-integrity
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 citations:
 - https://www.brennancenter.org/our-work/analysis-opinion/new-georgia-law-spurs-bogus-challenges-voter-eligibility
 id: 2024-07-09--ga-sb189-brennan-analysis
@@ -22,10 +22,7 @@ actors:
 - True the Vote
 - Right-wing activists
 - County election boards
-notes: SB 189 builds on Georgia's SB 202 from 2021. The law was immediately weaponized,
-  with 243 challenges filed in Bibb County on day one. Tools like VoteRef, EagleAI,
-  Check My Vote, and IV3 are being used to generate mass challenges across multiple
-  states.
+notes: SB 189 builds on Georgia's SB 202 from 2021. The law was immediately weaponized, with 243 challenges filed in Bibb County on day one. Tools like VoteRef, EagleAI, Check My Vote, and IV3 are being used to generate mass challenges across multiple states.
 status: confirmed
 sources:
 - title: New Georgia Law Spurs Bogus Challenges to Voter Eligibility

@@ -27,6 +27,10 @@ sources:
   tier: 2
   outlet: CNBC
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Labor Suppression
+- Systematic Corruption
 ---
 
 President Joe Biden announced on August 24, 2022, a sweeping student loan forgiveness plan that would cancel up to $20,000 in federal student debt for Pell Grant recipients and up to $10,000 for other borrowers earning less than $125,000 annually ($250,000 for couples), potentially benefiting 43 million borrowers with approximately 20 million having their debt completely eliminated. The announcement marked the most significant federal student debt relief effort in U.S. history and represented a partial acknowledgment that the student debt system was fundamentally broken and oppressive.

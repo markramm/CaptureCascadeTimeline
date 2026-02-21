@@ -39,6 +39,10 @@ sources:
   tier: 2
   outlet: Newsweek
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Military-Industrial Complex
+- Surveillance Infrastructure
 ---
 
 Within days of seven Republican senators voting to convict Donald Trump in his second impeachment trial, Republican state parties across the country moved swiftly to censure those senators for their votes of conscience. The censure wave began on February 13, 2021—the same day as the impeachment vote—when Louisiana's Republican Party executive committee voted unanimously to censure Senator Bill Cassidy just hours after his guilty vote. By February 15, North Carolina's Republican Party had unanimously censured Senator Richard Burr, and county-level Republican organizations in Pennsylvania were censuring Senator Pat Toomey. Additional censure efforts targeted Senators Ben Sasse in Nebraska and created attempts (though ultimately unsuccessful) to censure Senator Lisa Murkowski in Alaska. The swift and coordinated pattern of retaliation demonstrated that the Republican Party had become a party of Trump loyalty rather than constitutional principle, willing to punish senators who prioritized their oaths to the Constitution over partisan allegiance.

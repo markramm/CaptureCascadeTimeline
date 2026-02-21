@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: PR Watch
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Financial Capture
+- Labor Suppression
 ---
 
 Michigan Governor Rick Snyder appoints Michael Brown as emergency manager of Flint, effectively stripping all power from the city's democratically elected mayor and city council under Public Act 4 of 2011. The law, signed by Snyder on March 16, 2011, granted appointed emergency managers near-total control over financially struggling municipalities, including the power to break collective bargaining agreements, fire elected officials, and privatize or sell public assets.

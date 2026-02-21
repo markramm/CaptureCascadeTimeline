@@ -14,7 +14,7 @@ tags:
 - stone-network
 - advance-knowledge
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 sources:
 - title: What you need to know about the indictment against Roger Stone
   url: https://abcnews.go.com/Politics/indictment-roger-stone/story?id=61147060

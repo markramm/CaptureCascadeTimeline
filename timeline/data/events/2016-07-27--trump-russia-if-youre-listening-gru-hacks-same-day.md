@@ -40,6 +40,10 @@ sources:
   tier: 2
   outlet: CNBC
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Digital & Tech Capture
+- International Kleptocracy
 ---
 
 On July 27, 2016, at a televised press conference, Donald Trump publicly called on Russia to hack Hillary Clinton's emails: "Russia, if you're listening, I hope you're able to find the 30,000 emails that are missing." According to Mueller's indictment of 12 GRU officers, Russian military intelligence attempted to hack Clinton campaign servers for the first time on the same day—within hours of Trump's public request. The timing documented in the federal indictment revealed either extraordinary coincidence or direct coordination between a presidential candidate and a foreign military intelligence service conducting cyberattacks on his opponent.

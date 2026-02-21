@@ -35,6 +35,10 @@ sources:
   date: 2019-05-21
   tier: 1
   outlet: Brennan Center for Justice
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Civil Rights Suppression
 ---
 
 Florida voters approve Amendment 4 by 64.55%, automatically restoring voting rights to an estimated 1.4 million Floridians with past felony convictions who have completed their sentences. The constitutional amendment represents the largest expansion of voting rights in the United States since the Voting Rights Act of 1965, overturning one of the nation's harshest felony disenfranchisement policies through a grassroots citizen ballot initiative.

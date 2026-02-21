@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: Reuters
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Surveillance Infrastructure
+- Systematic Corruption
 ---
 
 President Trump issued a full pardon to his first National Security Adviser, Michael Flynn, who had pleaded guilty twice to lying to the FBI about his contacts with Russian Ambassador Sergey Kislyak during the 2016 transition. The pardon came after Flynn, represented by conspiracy theorist attorney Sidney Powell, attempted to withdraw his guilty plea and transform his case into a political circus promoting baseless election fraud theories.

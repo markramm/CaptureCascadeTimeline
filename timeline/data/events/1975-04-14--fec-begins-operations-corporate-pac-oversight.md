@@ -14,7 +14,7 @@ tags:
 - regulatory-framework
 - feca
 capture_lanes:
-- Electoral Capture
+- Electoral Manipulation
 - Regulatory Capture
 sources:
 - title: Federal Election Commission - Grokipedia

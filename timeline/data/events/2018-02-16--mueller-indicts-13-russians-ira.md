@@ -32,6 +32,10 @@ sources:
   date: 2017-01-06
   tier: 1
   outlet: Office of the Director of National Intelligence
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- International Kleptocracy
 ---
 
 Special Counsel Robert Mueller's investigation filed its first charges against Russian government entities, indicting 13 Russian nationals and three Russian companies for conducting a sophisticated social media disinformation campaign to interfere in the 2016 U.S. presidential election. The indictment exposed the operations of the Internet Research Agency (IRA), a St. Petersburg-based "troll farm" funded by Yevgeny Prigozhin, a close ally of Russian President Vladimir Putin, known as "Putin's chef."

@@ -38,6 +38,10 @@ sources:
   date: '2020-10-26'
   tier: 2
   outlet: Ballotpedia
+capture_lanes:
+- Electoral Manipulation
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On October 26, 2020, the Senate confirmed Amy Coney Barrett to the Supreme Court by a vote of 52-48, installing her on the bench just eight days before the November 3 presidential election and while millions of Americans had already cast their ballots. Barrett's confirmation created a 6-3 conservative supermajority on the Supreme Court—a majority that would overturn Roe v. Wade, grant sweeping presidential immunity, eliminate Chevron deference, and systematically dismantle progressive legal precedents for decades. The rushed 30-day confirmation process, occurring after McConnell had blocked Merrick Garland for 293 days in 2016, represented the completion of the most consequential judicial power grab in American history and exposed the utter hypocrisy underlying Republican claims about democratic legitimacy and Senate precedent.

@@ -39,6 +39,10 @@ sources:
   tier: 2
   outlet: HuffPost
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- International Kleptocracy
+- Labor Suppression
 ---
 
 On July 11, 2015, at the FreedomFest libertarian conference in Las Vegas, Russian intelligence operative Maria Butina publicly questioned presidential candidate Donald Trump about US sanctions on Russia. Trump responded that he knew Putin and believed they would "get along very nicely" and wouldn't need sanctions. The videotaped exchange, which occurred three years before Butina's arrest as an unregistered foreign agent, documented direct contact between a Russian intelligence operation and a presidential candidate, with Trump signaling willingness to lift sanctions in response to a Russian agent's question.

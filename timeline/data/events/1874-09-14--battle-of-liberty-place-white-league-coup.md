@@ -10,11 +10,11 @@ actors:
 - Ulysses S. Grant
 - John McEnery
 sources:
-- title: 'Battle of Liberty Place'
+- title: Battle of Liberty Place
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Battle_of_Liberty_Place
   year: 2024
-- title: 'Battle of Liberty Place'
+- title: Battle of Liberty Place
   outlet: 64 Parishes
   url: https://64parishes.org/entry/battle-of-liberty-place
   year: 2024
@@ -29,9 +29,7 @@ tags:
 - institutional-capture
 - elite-impunity
 capture_lanes:
-- Paramilitary Insurrection
-- Democratic Party Coup
-- Federal Military Dependence
+- Electoral Manipulation
 status: confirmed
 ---
 

@@ -16,15 +16,15 @@ tags:
 - corporate-political-spending
 - lobbying
 capture_lanes:
-- Electoral Capture
+- Electoral Manipulation
 - Legislative Capture
 sources:
-- title: 'BIPAC - Wikipedia'
+- title: BIPAC - Wikipedia
   url: https://en.wikipedia.org/wiki/BIPAC
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Business Industry Political Action Committee - SourceWatch'
+- title: Business Industry Political Action Committee - SourceWatch
   url: https://www.sourcewatch.org/index.php/Business_Industry_Political_Action_Committee
   outlet: SourceWatch
   date: '2024-01-01'

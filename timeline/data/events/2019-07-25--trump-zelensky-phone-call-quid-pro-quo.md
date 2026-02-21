@@ -31,6 +31,10 @@ sources:
   date: 2019-09-25
   tier: 1
   outlet: NPR
+capture_lanes:
+- Electoral Manipulation
+- Digital & Tech Capture
+- Executive Power Expansion
 ---
 
 President Donald Trump pressured Ukrainian President Volodymyr Zelensky to investigate his domestic political rival Joe Biden and his son Hunter Biden during a July 25, 2019 phone call, explicitly tying U.S. military assistance to political favors in what would become the central act of his first impeachment. In the now-infamous call, Trump responded to Zelensky's request for Javelin anti-tank missiles by saying "I would like you to do us a favor though," before demanding investigations into Biden's role in Ukraine policy and a debunked conspiracy theory about Ukrainian interference in the 2016 election. Trump had frozen $391 million in congressionally approved military aid to Ukraine weeks earlier, creating unmistakable leverage over a nation under active military threat from Russia.

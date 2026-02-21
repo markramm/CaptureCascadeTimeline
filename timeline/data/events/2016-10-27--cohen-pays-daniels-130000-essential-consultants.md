@@ -18,7 +18,7 @@ tags:
 - kompromat-payment
 - wire-fraud
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 sources:
 - title: Michael Cohen pleads guilty to eight counts
   url: https://www.justice.gov/usao-sdny/pr/michael-cohen-pleads-guilty-manhattan-federal-court-eight-counts-including-criminal-tax
@@ -35,15 +35,12 @@ sources:
   outlet: Washington Times
   date: '2024-04-26'
   archive_url: https://web.archive.org/web/20240426000000/https://www.washingtontimes.com/news/2024/apr/26/banker-gary-farro-testifies-about-urgent-request-m/
-- title: Trump hush money trial highlights - Michael Cohen testifies about directed
-    payment
+- title: Trump hush money trial highlights - Michael Cohen testifies about directed payment
   url: https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
   outlet: NBC News
   date: '2024-05-13'
   archive_url: https://web.archive.org/web/20240513000000/https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898
-notes: Payment made 11 days before election. Cohen used fraudulent home equity loan.
-  Criminal campaign finance violation. Trump later convicted of falsifying records
-  related to reimbursement.
+notes: Payment made 11 days before election. Cohen used fraudulent home equity loan. Criminal campaign finance violation. Trump later convicted of falsifying records related to reimbursement.
 status: confirmed
 ---
 

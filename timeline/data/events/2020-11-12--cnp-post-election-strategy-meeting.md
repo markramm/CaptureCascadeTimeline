@@ -29,6 +29,10 @@ sources:
   date: '2020-12-10'
   tier: 1
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Surveillance Infrastructure
+- Systematic Corruption
 ---
 
 The Council for National Policy convened a critical strategy meeting November 12-14, 2020 to coordinate the conservative movement's response to Trump's election loss, with strategists laying out a multi-stage plan to challenge the results through claims of election fraud and state legislature intervention.

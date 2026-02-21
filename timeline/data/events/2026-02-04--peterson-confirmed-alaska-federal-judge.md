@@ -30,6 +30,9 @@ sources:
   outlet: Reporting From Alaska
   date: '2026-02-11'
   tier: 2
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
 ---
 
 The Senate voted 58-39 to confirm Aaron Christian Peterson to the U.S. District Court for the District of Alaska, filling one of the oldest unfilled federal judgeships in the nation. Seven Democratic senators—Duckworth, Durbin, Hassan, Kaine, Kelly, Shaheen, and Whitehouse—crossed party lines to support the nomination, which Trump originally submitted November 18, 2025, and resubmitted January 5, 2026, after sine die adjournment.

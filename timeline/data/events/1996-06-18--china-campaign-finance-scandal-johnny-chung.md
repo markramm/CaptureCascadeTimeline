@@ -34,6 +34,10 @@ sources:
   outlet: EBSCO Research Starters
   date: '2024-01-01'
 id: 1996-06-18--china-campaign-finance-scandal-johnny-chung
+capture_lanes:
+- Electoral Manipulation
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 Democratic fundraiser Johnny Chung receives $300,000 from Ji Shengde, the head of Chinese military intelligence, with instructions to funnel the money to help reelect President Clinton in 1996. Chung tells federal investigators that he passed on $35,000 of this money to the Democratic National Committee, part of a larger pattern where he donated $366,000 to the DNC between 1994 and 1996. This represents direct interference in U.S. elections by Chinese military intelligence services, raising profound national security concerns.

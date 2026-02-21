@@ -18,8 +18,8 @@ tags:
 - board-takeover
 - systematic-corruption
 capture_lanes:
-- Election Infrastructure Capture
-- State Government Capture
+- Electoral Manipulation
+- Legislative Capture
 sources:
 - title: Trump and His MAGA Movement Are Actively Hijacking Georgias Elections
   url: https://www.rollingstone.com/politics/politics-features/trump-georgia-maga-election-takeover-1235080073/

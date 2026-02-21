@@ -34,6 +34,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Intelligence Penetration
+- Labor Suppression
 ---
 
 Tenet Media publicly launched on November 8, 2023 as a conservative media company featuring six prominent right-wing influencers: Tim Pool, Dave Rubin, Benny Johnson, Lauren Southern, Tayler Hansen, and Matt Christiansen. Founded by Lauren Chen and Liam Donovan, the company presented itself as funded by a wealthy European investor named "Eduard Grigoriann"—a completely fictitious person whose resume portrayed him as a Brussels-born financier and philanthropist with no actual digital footprint or public record of existence.

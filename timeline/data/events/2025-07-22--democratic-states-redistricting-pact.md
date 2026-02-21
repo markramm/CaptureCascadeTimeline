@@ -15,7 +15,7 @@ tags:
 - electoral-warfare
 - democratic-resistance
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 sources:
 - title: Blue states form redistricting alliance
   url: https://www.politico.com/news/2025/07/22/democratic-states-redistricting-pact

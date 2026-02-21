@@ -38,6 +38,10 @@ sources:
   date: 2020-08-24
   tier: 1
   outlet: CNN
+capture_lanes:
+- Electoral Manipulation
+- Digital & Tech Capture
+- Legislative Capture
 ---
 
 Postmaster General Louis DeJoy testified before the House Oversight and Reform Committee in a contentious marathon hearing where he repeatedly refused to restore mail sorting machines that had been removed or disconnected under his leadership, despite widespread mail delays and concerns about the upcoming election. DeJoy denied that policies he implemented led to current mail delays and engaged in heated exchanges with multiple representatives over the removal of 671 high-speed mail sorting machines capable of processing 21.4 million pieces per hour.

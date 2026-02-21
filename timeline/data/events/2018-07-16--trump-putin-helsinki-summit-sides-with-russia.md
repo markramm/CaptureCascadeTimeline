@@ -37,6 +37,10 @@ sources:
   date: 2018-07-16
   tier: 2
   outlet: TIME
+capture_lanes:
+- Electoral Manipulation
+- International Kleptocracy
+- Intelligence Penetration
 ---
 
 In one of the most shocking moments in modern American presidential history, President Donald Trump publicly sided with Russian President Vladimir Putin over his own intelligence agencies during a joint press conference in Helsinki, Finland. Standing next to Putin before a global audience, Trump refused to affirm that Russia interfered in the 2016 U.S. presidential election, directly contradicting the unanimous assessment of the U.S. intelligence community.

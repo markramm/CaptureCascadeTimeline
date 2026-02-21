@@ -21,7 +21,7 @@ tags:
 patterns: []
 related_events: []
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 location: United States
 sources:
 - date: '2020-08-21'

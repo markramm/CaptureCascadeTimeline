@@ -82,4 +82,8 @@ sources:
   date: 2025-12-22
   tier: 2
   outlet: Center for Media and Democracy
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Legislative Capture
 ---

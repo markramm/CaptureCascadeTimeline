@@ -13,8 +13,7 @@ sources:
 - title: Donald Trump just sabotaged his old NFT collections with his new NFT collection
   url: https://fortune.com/crypto/2023/12/13/donald-trump-dents-price-of-previous-nfts-with-new-mugshot-collection/
   outlet: Fortune Crypto
-- title: Donald Trump Unveils New 'Mugshot' NFTs, Stirring Up Prices for His Previous
-    NFTs
+- title: Donald Trump Unveils New 'Mugshot' NFTs, Stirring Up Prices for His Previous NFTs
   url: https://www.coindesk.com/markets/2023/12/12/donald-trump-unveils-new-mugshot-nfts-stirring-up-prices-for-his-previous-nfts
   outlet: CoinDesk
 tags:
@@ -27,6 +26,9 @@ tags:
 - revenue
 - digital-assets
 id: 2023-12-12--trump-launches-third-'mugshot'-nft-collection-gene
+capture_lanes:
+- Electoral Manipulation
+- Financial Capture
 ---
 
 Trump launched his third NFT collection titled 'MugShot' featuring 100,000 digital trading cards based on his Georgia election interference mugshot, priced at $99 each. The collection generated approximately $9.9 million in initial revenue and offered pieces of Trump's actual mugshot suit to buyers purchasing 47 cards. The launch caused his previous NFT collection prices to drop nearly 50% initially, demonstrating potential market cannibalization and the volatile nature of Trump's digital asset strategy.

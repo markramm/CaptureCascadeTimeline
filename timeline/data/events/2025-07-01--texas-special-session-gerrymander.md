@@ -18,8 +18,8 @@ tags:
 - partisan-manipulation
 - kleptocracy
 capture_lanes:
-- Election System Attack
-- Financial Corruption & Kleptocracy
+- Electoral Manipulation
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Texas Democrats flee state to block redistricting special session

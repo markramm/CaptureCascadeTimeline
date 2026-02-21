@@ -29,6 +29,10 @@ sources:
   date: 2016-02-26
   tier: 1
   outlet: NPR
+capture_lanes:
+- Electoral Manipulation
+- Financial Capture
+- Regulatory Capture
 ---
 
 Donald Trump formally launched "Trump University" on May 23, 2005, a real estate training program that operated without proper academic licensing or accreditation. The enterprise, incorporated in 2004 with Trump owning 93% of the company, conducted three- and five-day seminars marketed as providing Trump's personal real estate investment secrets. Students paid $1,495 for initial three-day seminars, with aggressive upselling to "elite" mentorship programs costing up to $34,995. Despite its name, Trump University was not an accredited university or college, did not confer college credit or grant degrees, and did not grade its students. Trump appeared in promotional videos promising students they would learn his personal techniques for real estate success.

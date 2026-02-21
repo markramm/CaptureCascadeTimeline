@@ -33,7 +33,7 @@ sources:
   date: '2026-01-14'
   tier: 1
 capture_lanes:
-- Voting Rights Erosion
+- Electoral Manipulation
 ---
 
 The Supreme Court ruled 7-2 in Bost v. Illinois State Board of Elections that political candidates have standing to challenge election rules governing how votes are counted in their elections, regardless of whether those rules actually harm their electoral prospects. Chief Justice John Roberts delivered the majority opinion, with Justices Jackson and Sotomayor dissenting.

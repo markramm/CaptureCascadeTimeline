@@ -48,6 +48,10 @@ sources:
   date: '2025-01-01'
   tier: 1
   outlet: Department of Justice - Civil Rights Division
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
+- Civil Rights Suppression
 ---
 
 The Supreme Court took the extraordinary step of expanding the legal questions in Louisiana v. Callais (Nos. 24-109, 24-110), ordering supplemental briefs on whether creating majority-minority districts to remedy Voting Rights Act violations violates the Fourteenth or Fifteenth Amendments. The Court's order signals potential willingness to strike down or severely limit Section 2 of the Voting Rights Act, which since 1982 has prohibited voting practices that result in racial discrimination, even without proof of intentional bias.

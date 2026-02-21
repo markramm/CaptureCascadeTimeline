@@ -21,6 +21,9 @@ sources:
   tier: 1
   outlet: The New York Times
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Systematic Corruption
 ---
 
 President Trump appointed Heather Honey and Marci McCarthy—prominent 2020 election conspiracy activists—to senior DHS roles overseeing federal election integrity efforts. Both appointees actively promoted false claims about the 2020 election and participated in attempts to overturn legitimate results. Their placement in positions responsible for election security creates a severe conflict of interest where individuals who rejected democratic outcomes now control federal election oversight. The appointments position Trump loyalists to reshape voting system infrastructure, potentially enabling future election manipulation or interference. The move follows Trump's broader pattern of installing ideological allies in critical positions to advance his personal political interests over institutional integrity. The appointments demonstrate systematic planning to subvert democratic processes through strategic personnel placement.

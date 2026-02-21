@@ -93,4 +93,8 @@ sources:
   date: 2021-05-18
   tier: 1
   outlet: CNN
+capture_lanes:
+- Electoral Manipulation
+- Legislative Capture
+- Media Capture & Control
 ---

@@ -15,8 +15,8 @@ tags:
 - electoral-arms-race
 - mid-cycle-redistricting
 capture_lanes:
-- Election System Attack
-- Executive Power & Emergency Authority
+- Electoral Manipulation
+- Executive Power Expansion
 sources:
 - title: California announces defensive redistricting after Texas moves
   url: https://www.latimes.com/politics/2025/07/20/california-emergency-redistricting

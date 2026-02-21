@@ -19,7 +19,7 @@ tags:
 - election-interference
 - kompromat-suppression
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 sources:
 - title: Publisher admits to hush money payments
   url: https://www.washingtonpost.com/lifestyle/style/publisher-of-the-national-enquirer-admits-to-hush-money-payments-made-on-trumps-behalf/2018/12/12/ebf24b76-fe49-11e8-83c0-b06139e540e5_story.html

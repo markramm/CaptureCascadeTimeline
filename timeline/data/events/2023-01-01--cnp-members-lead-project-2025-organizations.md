@@ -29,6 +29,10 @@ sources:
   date: '2023-06-01'
   tier: 2
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Labor Suppression
+- Surveillance Infrastructure
 ---
 
 By 2023, prominent Council for National Policy members held leadership positions in organizations affiliated with Project 2025, Heritage Foundation's comprehensive plan for a second Trump administration, demonstrating how CNP's coordination network extended into the blueprint for executive branch capture.

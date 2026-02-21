@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
+- Surveillance Infrastructure
 ---
 
 One week after the January 6, 2021 assault on the U.S. Capitol, the House of Representatives voted 232-197 to impeach President Donald Trump on a single article charging him with "incitement of insurrection," making Trump the first president in American history to be impeached twice. The vote represented the most bipartisan presidential impeachment in U.S. history, with ten House Republicans breaking with their party to support impeachment—more than double the five Democrats who had crossed party lines to impeach Bill Clinton in 1998. The impeachment came with just one week remaining in Trump's term, making it the fastest impeachment proceeding in American history from the alleged offense to the vote.

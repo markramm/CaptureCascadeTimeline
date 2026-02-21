@@ -14,8 +14,8 @@ tags:
 - elections
 - x-twitter
 capture_lanes:
-- Election System Attack
-- Information & Media Control
+- Electoral Manipulation
+- Media Capture & Control
 sources:
 - title: X to Allow Political Ads in the US
   url: https://business.x.com/en/blog/causes-based-advertising-policy.html

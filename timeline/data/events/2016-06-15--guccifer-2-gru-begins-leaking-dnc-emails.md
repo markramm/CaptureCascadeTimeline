@@ -41,6 +41,10 @@ sources:
   tier: 2
   outlet: Seattle Times
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- International Kleptocracy
+- Labor Suppression
 ---
 
 On June 15, 2016—just one day after CrowdStrike publicly disclosed that Russian intelligence had hacked the Democratic National Committee—the GRU launched the "Guccifer 2.0" persona and began releasing stolen DNC documents. The Mueller investigation later proved that Guccifer 2.0 was not a lone Romanian hacker as claimed, but rather a Russian military intelligence (GRU) operation designed to launder hacked materials for maximum electoral damage. The operation represented cyberwarfare and information warfare combined, using stolen emails as weapons in the 2016 election.

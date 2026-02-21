@@ -38,6 +38,9 @@ sources:
   tier: 2
   outlet: Axios
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Media Capture & Control
 ---
 
 Joe Rogan gave Donald Trump an unchallenged 3-hour platform on October 25, 2024, just 11 days before the presidential election. The interview reached over **50 million views** across YouTube, Spotify, and social media within days, and voters subsequently cited it as a **"deciding factor"** in their decision to vote for Trump. The episode represented one of the most significant media interventions in the 2024 election, providing Trump with unfiltered access to Rogan's massive audience—particularly young male voters (80% male, 56% ages 18-34)—with zero fact-checking or adversarial questioning.

@@ -30,6 +30,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Labor Suppression
+- Regulatory Capture
 ---
 
 The Center for Media and Democracy and The Nation publish "ALEC Exposed," revealing approximately 800 model bills developed by the American Legislative Exchange Council showing how corporations directly write state legislation on labor, environment, privatization, voting, criminal justice, and education. The leaked documents expose ALEC's "pay-to-play" operation where corporate members including Koch Industries, ExxonMobil, Walmart, tobacco companies, pharmaceutical firms, and private prison corporations pay fees to draft model legislation that state legislators then introduce as their own bills.

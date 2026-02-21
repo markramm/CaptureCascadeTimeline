@@ -17,13 +17,10 @@ tags:
 - hand-counting
 - election-certification
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 citations:
 - https://www.ajc.com/politics/breaking-georgia-supreme-court-wont-expedite-appeal-over-controversial-election-rules/TJODHX67MBCZBPU4W432J2QQOI/
-notes: GOP-led board attempted to implement these rules without legislative approval
-  less than 50 days before 2024 election. NAACP and voting rights groups successfully
-  challenged as voter suppression. The invalidated rules would have caused confusion
-  and delays.
+notes: GOP-led board attempted to implement these rules without legislative approval less than 50 days before 2024 election. NAACP and voting rights groups successfully challenged as voter suppression. The invalidated rules would have caused confusion and delays.
 status: confirmed
 sources:
 - title: Georgia Supreme Court Blocks State Election Board's Anti-Voting Rules

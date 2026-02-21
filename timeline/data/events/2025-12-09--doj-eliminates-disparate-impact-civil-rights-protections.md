@@ -1,11 +1,25 @@
 ---
-id: "2025-12-09--doj-eliminates-disparate-impact-civil-rights-protections"
-date: "2025-12-09"
-title: "Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination"
-summary: "The Department of Justice issued a final rule eliminating disparate impact liability from Title VI of the Civil Rights Act of 1964, ending five decades of civil rights protections that allowed enforcement against policies producing racially discriminatory outcomes without proof of discriminatory intent. The rule change, announced by Attorney General Pam Bondi and implemented by Assistant Attorney General Harmeet Dhillon, restricts federal civil rights enforcement to cases demonstrating intentional discrimination based on race, color, or national origin. This unprecedented rollback affects enforcement in housing, policing, employment, education, environmental regulation, and virtually all federally-funded programs, potentially immunizing discriminatory practices as long as they appear facially neutral."
+id: 2025-12-09--doj-eliminates-disparate-impact-civil-rights-protections
+date: '2025-12-09'
+title: Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination
+summary: The Department of Justice issued a final rule eliminating disparate impact liability from Title VI of the Civil Rights Act of 1964, ending five decades of civil rights protections that allowed enforcement against policies producing racially discriminatory outcomes without proof of discriminatory intent. The rule change, announced by Attorney General Pam Bondi and implemented by Assistant Attorney General Harmeet Dhillon, restricts federal civil rights enforcement to cases demonstrating intentional discrimination based on race, color, or national origin. This unprecedented rollback affects enforcement in housing, policing, employment, education, environmental regulation, and virtually all federally-funded programs, potentially immunizing discriminatory practices as long as they appear facially neutral.
 importance: 10
-tags: ["civil-rights", "doj", "legal", "discrimination", "regulation", "executive-action", "constitutional-law", "voting-rights", "housing", "education", "environmental-justice"]
-actors: ["Pam Bondi", "Harmeet Dhillon", "Department of Justice"]
+tags:
+- civil-rights
+- doj
+- legal
+- discrimination
+- regulation
+- executive-action
+- constitutional-law
+- voting-rights
+- housing
+- education
+- environmental-justice
+actors:
+- Pam Bondi
+- Harmeet Dhillon
+- Department of Justice
 sources:
 - title: Department of Justice Rule Restores Equal Protection for All in Civil Rights Enforcement
   outlet: Department of Justice
@@ -20,6 +34,10 @@ sources:
   url: https://ogletree.com/insights-resources/blog-posts/justice-department-erases-disparate-impact-liability-from-title-vi-enforcement-regulations/
   tier: 2
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Environmental Capture
+- Civil Rights Suppression
 ---
 
 # Department of Justice Eliminates 50-Year-Old Disparate Impact Standard from Civil Rights Enforcement, Requiring Proof of Intentional Discrimination

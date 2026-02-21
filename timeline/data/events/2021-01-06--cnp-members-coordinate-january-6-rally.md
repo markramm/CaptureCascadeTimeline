@@ -31,6 +31,9 @@ sources:
   date: '2021-01-08'
   tier: 1
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Legislative Capture
 ---
 
 On January 6, 2021, at least six current or former members of the Council for National Policy played central roles in organizing and promoting the rally that became a violent insurrection at the U.S. Capitol, demonstrating how CNP's coordination infrastructure was deployed to execute the strategy planned at the organization's November 2020 meeting.

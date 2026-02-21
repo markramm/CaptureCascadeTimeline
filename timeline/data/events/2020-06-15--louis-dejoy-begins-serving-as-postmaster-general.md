@@ -35,6 +35,10 @@ sources:
   date: 2020-08-20
   tier: 2
   outlet: Public Citizen
+capture_lanes:
+- Electoral Manipulation
+- Judicial Capture
+- Media Capture & Control
 ---
 
 Louis DeJoy officially began serving as the 75th Postmaster General of the United States and USPS Chief Executive Officer, having been unanimously selected by the USPS Board of Governors on May 6, 2020. DeJoy was a major Republican Party megadonor who contributed over $1.2 million to Trump's election efforts and more than $440,000 to Republican causes since January 2020 alone. He had no prior postal experience, marking the first postmaster general without USPS experience since 1992.

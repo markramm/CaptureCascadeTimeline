@@ -14,8 +14,8 @@ tags:
 - youtube
 - platforms
 capture_lanes:
-- Election System Attack
-- Information & Media Control
+- Electoral Manipulation
+- Media Capture & Control
 citations:
 - url: https://support.google.com/youtube/answer/10835034
   archived: https://web.archive.org/web/20240101000000/https://support.google.com/youtube/answer/10835034

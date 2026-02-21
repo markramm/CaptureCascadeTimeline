@@ -2,10 +2,8 @@
 id: 2023-06-08--allen-v-milligan
 date: '2023-06-08'
 importance: 9
-title: Allen v. Milligan reaffirms Voting Rights Act §2; orders additional majority-Black
-  district in Alabama
-notes: 'Use the opinion and DOJ statement of interest for doctrinal clarity and remedy
-  context.
+title: Allen v. Milligan reaffirms Voting Rights Act §2; orders additional majority-Black district in Alabama
+notes: 'Use the opinion and DOJ statement of interest for doctrinal clarity and remedy context.
 
   '
 status: confirmed
@@ -27,7 +25,7 @@ patterns: []
 related_events:
 - 2019-06-27--scotus-census-citizenship-question-pretext-hofeller
 capture_lanes:
-- Election System Attack
+- Electoral Manipulation
 location: Alabama
 sources:
 - date: '2023-06-08'

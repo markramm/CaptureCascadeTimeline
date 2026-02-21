@@ -1,7 +1,7 @@
 ---
 id: 1990-01-01--union-avoidance-industry-emerges
 date: '1990-01-01'
-title: 'Union Avoidance Consulting Industry Emerges as $400+ Million Annual Business'
+title: Union Avoidance Consulting Industry Emerges as $400+ Million Annual Business
 importance: 8
 actors:
 - Union avoidance consultants
@@ -15,13 +15,13 @@ tags:
 - consultants
 - anti-union-industry
 sources:
-- title: 'NLRB Rules Anti-Union Captive Audience Meetings Illegal Abuse of Employer Power'
+- title: NLRB Rules Anti-Union Captive Audience Meetings Illegal Abuse of Employer Power
   url: https://www.epi.org/blog/nlrb-rules-anti-union-captive-audience-meetings-an-illegal-abuse-of-employer-power-states-must-also-continue-to-broaden-protection-of-workers-freedom-from-employer-coercion-on-political-rel/
   outlet: Economic Policy Institute
   date: '2024-11-01'
   verified: true
   tier: 1
-- title: 'Tackling the Problem of Captive Audience Meetings'
+- title: Tackling the Problem of Captive Audience Meetings
   url: https://www.epi.org/blog/captive-audience-meetings/
   outlet: Economic Policy Institute
   date: '2022-01-01'
@@ -34,6 +34,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Electoral Manipulation
+- Labor Suppression
+- Corporate Capture
 ---
 
 The union avoidance consulting industry grows into a $400+ million annual business as corporations systematically hire specialized consultants to defeat union organizing campaigns through sophisticated psychological manipulation and legal intimidation tactics. Union avoidance consultants charge $350 per hour or up to $3,200 per day to conduct "captive audience meetings"—mandatory anti-union sessions held during working hours where employees face termination for refusing to attend or challenging the content presented.

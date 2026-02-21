@@ -19,17 +19,15 @@ tags:
 - campaign-finance
 capture_lanes:
 - Regulatory Capture
-- Campaign Finance
+- Electoral Manipulation
 capture_type: regulatory_capture
 sources:
 - url: https://fortune.com/crypto/2025/05/12/trump-memecoin-dinner-justin-sun-memecore-kain-warwick/
-  title: Trump is hosting a dinner for the biggest buyers of his memecoin. The guest
-    list is now set—and many of the winners are foreign nationals
+  title: Trump is hosting a dinner for the biggest buyers of his memecoin. The guest list is now set—and many of the winners are foreign nationals
   outlet: Fortune Crypto
   date: '2025-05-12'
 - url: https://www.pbs.org/newshour/show/private-event-with-crypto-customers-fuels-accusations-of-trump-profiting-off-presidency
-  title: Private event with crypto customers fuels accusations of Trump profiting
-    off presidency
+  title: Private event with crypto customers fuels accusations of Trump profiting off presidency
   outlet: PBS News
   date: '2025-05-23'
 - url: https://www.coindesk.com/policy/2025/05/22/democrats-threaten-lawsuits-join-protests-ahead-of-trump-memecoin-dinner
