@@ -33,8 +33,8 @@ sources:
   verified: true
   tier: 2
 capture_lanes:
-- Worker Protection
-- Regulatory Reform
+- Labor Suppression
+- Regulatory Capture
 status: confirmed
 ---
 

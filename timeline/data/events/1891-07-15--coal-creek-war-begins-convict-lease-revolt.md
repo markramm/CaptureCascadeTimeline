@@ -14,11 +14,11 @@ sources:
   outlet: Zinn Education Project
   url: https://www.zinnedproject.org/news/tdih/coal-creek-war/
   year: 2024
-- title: 'Coal Creek War'
+- title: Coal Creek War
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Coal_Creek_War
   year: 2024
-- title: 'On Halloween Night in 1891, Tennessee Miners Made Righteous Mayhem'
+- title: On Halloween Night in 1891, Tennessee Miners Made Righteous Mayhem
   outlet: Jacobin
   url: https://jacobin.com/2022/10/coal-creek-war-convict-leasing-miner-rebellion-tennessee
   year: 2022
@@ -28,9 +28,7 @@ tags:
 - corporate-resistance
 - institutional-racism
 capture_lanes:
-- Prison Labor Exploitation
-- Union Busting Through Incarceration
-- Armed Labor Uprising
+- Labor Suppression
 status: confirmed
 ---
 

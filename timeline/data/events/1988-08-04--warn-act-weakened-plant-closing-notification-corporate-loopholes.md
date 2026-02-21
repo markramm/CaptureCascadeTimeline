@@ -16,7 +16,7 @@ tags:
 - corporate-loopholes
 - worker-protection
 sources:
-- title: 'Worker Adjustment and Retraining Notification Act'
+- title: Worker Adjustment and Retraining Notification Act
   url: https://www.dol.gov/agencies/eta/layoffs/warn
   outlet: U.S. Department of Labor
   date: '2024-01-01'
@@ -28,7 +28,7 @@ sources:
   date: '2007-01-01'
   verified: true
   tier: 1
-- title: 'WARN Act'
+- title: WARN Act
   url: https://en.wikipedia.org/wiki/Worker_Adjustment_and_Retraining_Notification_Act_of_1988
   outlet: Wikipedia
   date: '2024-01-01'
@@ -36,8 +36,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- legislative
+- Labor Suppression
+- Legislative Capture
 ---
 
 The Worker Adjustment and Retraining Notification (WARN) Act becomes law on August 4, 1988, requiring employers with 100 or more workers to provide 60 days advance notice before plant closings or mass layoffs. Congress passes the bill over President Reagan's veto threats, responding to the devastation of deindustrialization that has shuttered thousands of factories throughout the Rust Belt. However, corporate lobbying ensures the final bill contains so many exceptions and loopholes that enforcement becomes nearly impossible.

@@ -35,6 +35,10 @@ sources:
   verified: true
   tier: 1
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 Beginning in the 1980s, systematic Congressional underfunding and weak statutory penalties transform the National Labor Relations Board into an ineffective enforcement mechanism incapable of protecting workers' organizing rights, enabling corporate union-busting with impunity. Between 2012-2022 alone, NLRB field staff is reduced by over 40%, while the agency lacks authority to impose monetary fines for labor law violations—only "make-whole" remedies like back pay for illegally fired workers and notices promising not to violate the law again.

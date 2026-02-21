@@ -26,8 +26,8 @@ tags:
 - prison-industrial-complex
 - racial-injustice
 capture_lanes:
-- Prison Labor Exploitation
-- Legal System Weaponization
+- Labor Suppression
+- Judicial Capture
 status: confirmed
 ---
 

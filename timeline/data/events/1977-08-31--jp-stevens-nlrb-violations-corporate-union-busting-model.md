@@ -17,19 +17,19 @@ tags:
 - corporate-power
 - labor-law-violations
 sources:
-- title: 'J.P. Stevens & Co. v. NLRB'
+- title: J.P. Stevens & Co. v. NLRB
   url: https://casetext.com/case/jp-stevens-co-v-nlrb-2
   outlet: U.S. Court of Appeals, Second Circuit
   date: '1977-08-31'
   verified: true
   tier: 1
-- title: 'The J.P. Stevens Campaign'
+- title: The J.P. Stevens Campaign
   url: https://www.ilr.cornell.edu/labor-relations/research/current-issues-labor-relations/jp-stevens-campaign
   outlet: Cornell ILR School
   date: '2024-01-01'
   verified: true
   tier: 1
-- title: 'J. P. Stevens & Co.'
+- title: J. P. Stevens & Co.
   url: https://en.wikipedia.org/wiki/J._P._Stevens_%26_Co.
   outlet: Wikipedia
   date: '2024-01-01'
@@ -37,8 +37,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- regulatory
+- Labor Suppression
+- Regulatory Capture
 ---
 
 The Second Circuit Court of Appeals upholds the NLRB's finding that J.P. Stevens & Company engaged in the "most flagrant and extensive violations" of labor law in the board's history, confirming over 100 unfair labor practice findings against the textile giant. Stevens fired union supporters, threatened plant closures, engaged in surveillance, and refused to bargain with certified unions for years—treating NLRB penalties as a minor cost of doing business. The company's calculated defiance demonstrates that labor law lacks meaningful enforcement mechanisms when corporations are determined to resist unionization.

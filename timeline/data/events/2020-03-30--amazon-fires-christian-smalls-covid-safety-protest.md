@@ -32,6 +32,10 @@ sources:
   tier: 2
   outlet: Common Dreams
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 # Amazon Fires Christian Smalls for Organizing COVID Safety Protest

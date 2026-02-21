@@ -18,26 +18,30 @@ tags:
 - labor
 - real-wages
 sources:
-- title: 'Wage Stagnation in Nine Charts'
+- title: Wage Stagnation in Nine Charts
   url: https://www.epi.org/publication/charting-wage-stagnation/
   outlet: Economic Policy Institute
   date: '2024-01-01'
   verified: true
-- title: 'Rising income inequality in U.S. fuelled by Reagan attacks on unions'
+- title: Rising income inequality in U.S. fuelled by Reagan attacks on unions
   url: https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/
   outlet: London School of Economics
   date: '2014-08-12'
   verified: true
-- title: 'Reaganomics'
+- title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'Wage growth still lagging behind Clinton, Reagan years'
+- title: Wage growth still lagging behind Clinton, Reagan years
   url: https://www.cnbc.com/2015/03/09/wage-growth-still-lagging-behind-clinton-reagan-years.html
   outlet: CNBC
   date: '2015-03-09'
   verified: true
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
+- Corporate Capture
 ---
 
 Real wages for American workers begin a prolonged period of stagnation and decline during the Reagan era, with median hourly wages falling nearly a dollar from $16.90 to $16.00 between 1980-1990. Average real hourly wages for production and nonsupervisory workers—representing the vast majority of American employees—remain below pre-Reagan levels throughout his presidency, continuing the decline that began in 1973 but accelerating under Reagan policies. Median hourly wages for all workers end the decade 0.6% lower than they started, even as GDP grows and corporate profits soar, demonstrating that economic growth no longer translates into wage gains for working Americans.

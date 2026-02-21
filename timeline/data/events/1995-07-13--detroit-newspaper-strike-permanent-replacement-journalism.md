@@ -18,19 +18,19 @@ tags:
 - permanent-replacement
 - media-industry
 sources:
-- title: 'Detroit Newspaper Strike'
+- title: Detroit Newspaper Strike
   url: https://www.nytimes.com/1997/02/20/us/detroit-newspapers-unions-reach-pact-ending-bitter-19-month-strike.html
   outlet: New York Times
   date: '1997-02-20'
   verified: true
   tier: 1
-- title: 'The Detroit Newspaper Strike'
+- title: The Detroit Newspaper Strike
   url: https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/detroit-newspaper-strike
   outlet: Encyclopedia.com
   date: '2024-01-01'
   verified: true
   tier: 2
-- title: 'Detroit newspaper strike of 1995-97'
+- title: Detroit newspaper strike of 1995-97
   url: https://en.wikipedia.org/wiki/Detroit_newspaper_strike_of_1995–97
   outlet: Wikipedia
   date: '2024-01-01'
@@ -38,8 +38,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- media
+- Labor Suppression
 ---
 
 Six unions representing 2,500 workers at the Detroit Free Press and Detroit News begin a strike on July 13, 1995, after the newspapers' corporate owners—Gannett and Knight Ridder—demand sweeping concessions including elimination of union jurisdiction over hiring. The papers continue publishing with management and permanent replacement workers, eventually breaking the strike after 19 months when unions make an unconditional offer to return to work in February 1997. The defeat demonstrates that corporate media conglomerates can crush newsroom unions using the same permanent replacement tactics as manufacturing companies.

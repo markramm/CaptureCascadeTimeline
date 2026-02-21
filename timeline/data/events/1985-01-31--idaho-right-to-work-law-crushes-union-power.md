@@ -53,8 +53,7 @@ patterns:
 notes: Part of comprehensive kleptocracy timeline tracking corporate capture and labor suppression in extractive industry states.
 capture_lanes:
 - Legislative Capture
-- Corporate Anti-Labor Policy
-- Wage Suppression
+- Labor Suppression
 ---
 
 On January 31, 1985, the Republican-controlled Idaho Legislature overrides Democratic Governor John Evans' veto to enact so-called "Right-to-Work" legislation, making Idaho the 21st state to prohibit union security agreements that require workers to pay union dues or fees as a condition of employment. The law passes despite Idaho's historic role as a "hotbed of radical organizing" where miners, loggers, and railroad workers had waged militant battles against corporate power since the 1890s, including the violent Coeur d'Alene miners' strikes of 1892 and 1899 that led to the founding of the Western Federation of Miners.

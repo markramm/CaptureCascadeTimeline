@@ -30,6 +30,10 @@ sources:
   tier: 1
   outlet: European Foundation for the Improvement of Living and Working Conditions
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Surveillance Infrastructure
+- Media Capture & Control
 ---
 
 # Amazon Workers in Germany Strike During Black Friday for Union Recognition

@@ -18,26 +18,28 @@ tags:
 - strike-breaking
 - workers-rights
 sources:
-- title: '1981 Strike Leaves Legacy for American Workers'
+- title: 1981 Strike Leaves Legacy for American Workers
   url: https://www.npr.org/2006/08/03/5604656/1981-strike-leaves-legacy-for-american-workers
   outlet: NPR
   date: '2006-08-03'
   verified: true
-- title: 'Reagan vs. Air Traffic Controllers'
+- title: Reagan vs. Air Traffic Controllers
   url: https://millercenter.org/reagan-vs-air-traffic-controllers
   outlet: Miller Center (University of Virginia)
   date: '2024-01-01'
   verified: true
-- title: '1981 Professional Air Traffic Controllers Organization strike'
+- title: 1981 Professional Air Traffic Controllers Organization strike
   url: https://en.wikipedia.org/wiki/1981_Professional_Air_Traffic_Controllers_Organization_strike
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: 'The Legacy of the Crushed 1981 PATCO Strike'
+- title: The Legacy of the Crushed 1981 PATCO Strike
   url: https://jacobin.com/2021/08/reagan-patco-1981-strike-legacy-air-traffic-controllers-union-public-sector-strikebreaking
   outlet: Jacobin
   date: '2021-08-05'
   verified: true
+capture_lanes:
+- Labor Suppression
 ---
 
 President Ronald Reagan fires 11,345 striking air traffic controllers who refused to return to work, permanently banning them from federal service. When 13,000 PATCO members went on strike August 3 seeking better pay, improved working conditions, and a reduced workweek, Reagan declared the strike a "peril to national safety" under the Taft-Hartley Act and gave strikers 48 hours to return. Despite having supported PATCO during his 1980 campaign, Reagan made good on his ultimatum, destroying the union and signaling to private employers that aggressive union-busting would face no consequences.

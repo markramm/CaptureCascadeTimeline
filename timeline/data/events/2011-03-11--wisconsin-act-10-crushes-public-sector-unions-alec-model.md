@@ -36,6 +36,10 @@ sources:
   outlet: Wisconsin Public Radio
   date: '2024-12-02'
   tier: 1
+capture_lanes:
+- Labor Suppression
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 Governor Scott Walker signs Wisconsin Act 10, eliminating collective bargaining rights for most public employees and marking one of the most significant defeats for organized labor in modern American history. The legislation, introduced February 14, 2011, ends collective bargaining for everything except wages (capped at inflation) for public employee unions, while exempting police, firefighters, and sheriffs' deputies who had supported Walker electorally. Act 10 requires annual union recertification elections with an absolute majority of all eligible members (not just voters)—provisions that closely resemble existing ALEC model legislation and that a federal court later strikes down for lacking "rational basis." The law's passage follows massive protests of over 100,000 people occupying the Wisconsin State Capitol. Within months of passage, the Koch-funded Mackinac Center proposes Act 10's most contentious provisions to ALEC's Commerce, Insurance, and Economic Development Task Force in May 2012, seeking to export the model to other states. Wisconsin private sector union membership plummets from 16% in 2009 to 8.1% by 2016—the steepest decline of any state. Act 10 becomes the template for systematic public sector union destruction across multiple states and demonstrates ALEC's strategy of using legislative "laboratories" to test and refine anti-union policies before scaling them nationally.

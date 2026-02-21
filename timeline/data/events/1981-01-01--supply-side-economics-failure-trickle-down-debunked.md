@@ -18,26 +18,30 @@ tags:
 - economic-theory
 - tax-policy
 sources:
-- title: 'The Failure of Supply-Side Economics'
+- title: The Failure of Supply-Side Economics
   url: https://www.americanprogress.org/article/the-failure-of-supply-side-economics/
   outlet: Center for American Progress
   date: '2024-01-01'
   verified: true
-- title: 'Trickle-down economics'
+- title: Trickle-down economics
   url: https://en.wikipedia.org/wiki/Trickle-down_economics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
-- title: "Trickle-Down Economics: Four Reasons Why It Just Doesn't Work"
+- title: 'Trickle-Down Economics: Four Reasons Why It Just Doesn''t Work'
   url: https://www.faireconomy.org/trickle_down_economics_four_reasons
   outlet: United for a Fair Economy
   date: '2024-01-01'
   verified: true
-- title: 'Reaganomics'
+- title: Reaganomics
   url: https://www.britannica.com/topic/Reaganomics
   outlet: Britannica
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Labor Suppression
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 Empirical evidence systematically disproves Reagan's supply-side economic theory—the claim that tax cuts for the wealthy would generate economic growth benefiting all Americans through "trickle-down" effects. Statistical analysis reveals the correlation coefficient between top tax rates and GDP growth is essentially zero (0.03), meaning no connection exists between cutting taxes for the wealthy and economic expansion. Two of the three highest-growth years in American history occurred during the 1950s when top marginal tax rates stood at 91%, directly contradicting supply-side predictions. Reagan's tax cuts of 1981 and 1986 fail to accelerate growth beyond rates achieved in prior or subsequent decades, while tripling the national debt from $1 trillion to $3 trillion.

@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: Wikipedia
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 # Amazon Warehouse Worker Billy Foister Dies on Warehouse Floor After Heart Attack

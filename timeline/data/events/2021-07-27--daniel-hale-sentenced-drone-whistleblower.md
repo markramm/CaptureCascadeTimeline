@@ -32,6 +32,10 @@ sources:
   date: 2021-07-28
   tier: 2
   outlet: World Socialist Web Site
+capture_lanes:
+- Labor Suppression
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 Former Air Force intelligence analyst and NSA contractor Daniel Everette Hale was sentenced to 45 months in federal prison for leaking classified documents that exposed the devastating civilian toll of the U.S. drone warfare program. His disclosures revealed that nearly 90 percent of people killed in drone strikes were not the intended targets.

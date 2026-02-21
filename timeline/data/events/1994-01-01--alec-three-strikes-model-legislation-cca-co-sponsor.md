@@ -41,6 +41,10 @@ sources:
   outlet: American RadioWorks
   date: '2002-01-01'
   tier: 2
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
+- Legislative Capture
 ---
 
 The American Legislative Exchange Council (ALEC), with Corrections Corporation of America (CCA) serving as co-chair of its Criminal Justice Task Force, passes the "Three Strikes You're Out Act" model legislation requiring mandatory life imprisonment after a third felony conviction. CCA co-sponsors the model bill alongside the National Rifle Association, representing a direct corporate conflict of interest where prison companies write laws guaranteed to increase their profits.

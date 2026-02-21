@@ -29,6 +29,10 @@ sources:
   outlet: Wikipedia
   date: '2024-11-01'
   tier: 2
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
+- Financial Capture
 ---
 
 Jack Welch becomes CEO of General Electric at age 45 and delivers his landmark speech 'Growing fast in a slow-growth economy' in New York City, marking what is widely acknowledged as the 'dawn of the shareholder value movement.' Welch operationalizes Milton Friedman's shareholder primacy doctrine by making maximizing shareholder value GE's explicit corporate strategy, fundamentally transforming American business practices. Between 1980 and 1985, Welch eliminates 112,000 jobs—reducing GE's workforce from 411,000 to 299,000 employees—earning the nickname 'Neutron Jack' for eliminating workers while leaving buildings intact. This brutal approach to workforce reduction, combined with aggressive quarterly earnings management and relentless cost-cutting, becomes the template for American corporate leadership. Under Welch's 20-year tenure, GE's market value soars from $12 billion to $410 billion, demonstrating to Wall Street and corporate boards that maximizing shareholder returns through mass layoffs, wage suppression, and short-term profit focus delivers enormous stock price gains. Ironically, Welch later repudiated his own doctrine, telling the Financial Times in 2009 that 'shareholder value is the dumbest idea in the world,' but by then the damage was done—his model had been replicated across American industry, establishing a new normal where workers are treated as disposable costs and long-term productive investment is sacrificed for quarterly earnings and stock price appreciation.

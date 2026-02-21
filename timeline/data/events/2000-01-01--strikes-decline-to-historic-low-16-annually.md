@@ -27,6 +27,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Regulatory Capture
+- Corporate Capture
 ---
 
 Major work stoppages in the United States decline to approximately 16 per year by the 2010s, representing a 95% collapse from the average of 300 major strikes annually before Reagan's 1981 PATCO strike-breaking. The dramatic reduction in strike activity reflects workers' rational assessment that striking under current legal framework means permanent job loss rather than collective bargaining leverage, as permanent striker replacement (normalized after PATCO) combined with toothless NLRB enforcement makes strikes effectively suicidal for organized labor.

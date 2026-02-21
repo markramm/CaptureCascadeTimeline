@@ -1,7 +1,7 @@
 ---
 id: 1954-01-01--union-membership-peak-35-percent-postwar-high
 date: '1954-01-01'
-title: 'Union Membership Reaches Peak of 35% of Workforce, Enabling Shared Prosperity'
+title: Union Membership Reaches Peak of 35% of Workforce, Enabling Shared Prosperity
 importance: 9
 actors:
 - American workers
@@ -16,19 +16,21 @@ tags:
 - shared-prosperity
 - peak-union-power
 sources:
-- title: 'Union Membership in the United States Spotlight'
+- title: Union Membership in the United States Spotlight
   url: https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm
   outlet: Bureau of Labor Statistics
   date: '2016-01-01'
   verified: true
   tier: 1
-- title: 'Union Membership Rate U.S.'
+- title: Union Membership Rate U.S.
   url: https://www.statista.com/statistics/195349/union-membership-rate-of-employees-in-the-us-since-2000/
   outlet: Statista
   date: '2024-01-01'
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
 ---
 
 American union membership reaches its historical peak at approximately 35% of the workforce, representing the high-water mark of organized labor's power to secure shared prosperity through collective bargaining. Strong industrial unions including the United Auto Workers, United Steelworkers, and newly merged AFL-CIO negotiate pattern bargaining agreements that set wage standards across entire industries, enabling workers to capture productivity gains in rising compensation.

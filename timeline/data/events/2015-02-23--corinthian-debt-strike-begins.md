@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Surveillance Infrastructure
+- Systematic Corruption
 ---
 
 Fifteen former students of Corinthian Colleges launched the first student debt strike in U.S. history on February 23, 2015, refusing to repay federal loans for what they characterized as fraudulent education that left them deeper in poverty with worthless degrees. Organized by the Debt Collective, the "Corinthian 15" demanded the Department of Education use "defense to repayment" provisions to cancel all debt for students defrauded by Corinthian's Everest, WyoTech, and Heald College campuses.

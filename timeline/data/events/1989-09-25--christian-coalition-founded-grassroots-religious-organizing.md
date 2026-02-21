@@ -14,22 +14,26 @@ actors:
 - Ralph Reed
 - Christian Coalition
 sources:
-- title: 'Robertson Founds the Christian Coalition'
+- title: Robertson Founds the Christian Coalition
   url: https://www.ebsco.com/research-starters/history/robertson-founds-christian-coalition
   publication: EBSCO Research Starters
   date: '2024-09-15'
   tier: 2
-- title: 'Christian Coalition of America'
+- title: Christian Coalition of America
   url: https://en.wikipedia.org/wiki/Christian_Coalition_of_America
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Ralph Reed'
+- title: Ralph Reed
   url: https://en.wikipedia.org/wiki/Ralph_Reed
   publication: Wikipedia
   date: '2024-11-08'
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
+- Corporate Capture
 ---
 
 On September 25, 1989, at an organizational meeting in Atlanta, Pat Robertson founded the Christian Coalition following his unsuccessful 1988 Republican presidential bid. Robertson recruited Ralph Reed, a twenty-eight-year-old doctoral student in history at Emory University, as the organization's first staff member and executive director.

@@ -32,6 +32,10 @@ sources:
   date: '2021-12-30'
   tier: 1
   outlet: NPR
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
+- Digital & Tech Capture
 ---
 
 Between 2000 and 2020, approximately 500,000 Americans died from opioid-involved overdoses, representing one of the most devastating preventable public health catastrophes in American history. The death toll resulted from a combination of aggressive pharmaceutical marketing, regulatory capture, and systematic failure to hold corporate executives criminally accountable despite guilty pleas and documented evidence of fraud.

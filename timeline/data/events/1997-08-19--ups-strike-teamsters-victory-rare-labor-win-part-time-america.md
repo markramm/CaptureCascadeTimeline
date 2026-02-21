@@ -29,7 +29,7 @@ sources:
   date: '2017-07-01'
   verified: true
   tier: 2
-- title: '1997 United Parcel Service strike'
+- title: 1997 United Parcel Service strike
   url: https://en.wikipedia.org/wiki/1997_United_Parcel_Service_strike
   outlet: Wikipedia
   date: '2024-01-01'
@@ -37,7 +37,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
+- Labor Suppression
 ---
 
 The International Brotherhood of Teamsters ends a 15-day strike against United Parcel Service on August 19, 1997, winning a contract that creates 10,000 new full-time jobs from part-time positions, increases wages for part-time workers by 36 percent over five years, and maintains the union pension fund. The strike represents labor's most significant victory in decades, achieved through public support, strategic framing around "Part-Time America," and the credible threat that 185,000 workers could shut down the nation's package delivery system during peak summer shipping season.

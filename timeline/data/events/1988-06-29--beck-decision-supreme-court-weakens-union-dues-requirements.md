@@ -17,19 +17,19 @@ tags:
 - union-busting
 - legal-precedent
 sources:
-- title: 'Communications Workers v. Beck'
+- title: Communications Workers v. Beck
   url: https://supreme.justia.com/cases/federal/us/487/735/
   outlet: Supreme Court of the United States
   date: '1988-06-29'
   verified: true
   tier: 1
-- title: 'The Beck Decision and Its Effects'
+- title: The Beck Decision and Its Effects
   url: https://www.epi.org/publication/webfeatures_viewpoints_beck/
   outlet: Economic Policy Institute
   date: '2002-01-01'
   verified: true
   tier: 1
-- title: 'Communications Workers of America v. Beck'
+- title: Communications Workers of America v. Beck
   url: https://en.wikipedia.org/wiki/Communications_Workers_of_America_v._Beck
   outlet: Wikipedia
   date: '2024-01-01'
@@ -37,8 +37,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- judicial
+- Labor Suppression
+- Judicial Capture
 ---
 
 The Supreme Court rules 5-3 in Communications Workers of America v. Beck that workers covered by union contracts can refuse to pay the portion of dues used for political activities, limiting their payments to collective bargaining costs only. The ruling, based on Taft-Hartley's Section 8(a)(3), creates a legal framework for anti-union organizations to encourage workers to reduce union funding. The decision provides a template for subsequent attacks on union financial resources that culminate in the 2018 Janus decision eliminating agency fees for public sector workers entirely.

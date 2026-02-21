@@ -37,8 +37,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- labor-policy
-- wage-suppression
+- Labor Suppression
 ---
 
 President Roosevelt establishes the National War Labor Board (NWLB) by executive order on January 12, 1942, creating a tripartite body of labor, industry, and public representatives to arbitrate wartime labor disputes. In exchange for labor's "no-strike pledge" for the duration of the war, the board gains power to set wages, working conditions, and resolve disputes, but the arrangement ultimately favors employers by freezing wages while corporate profits soar.

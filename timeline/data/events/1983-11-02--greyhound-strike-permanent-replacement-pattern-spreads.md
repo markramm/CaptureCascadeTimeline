@@ -16,19 +16,19 @@ tags:
 - transportation
 - patco-effect
 sources:
-- title: 'Greyhound Strike'
+- title: Greyhound Strike
   url: https://www.nytimes.com/1983/11/03/business/greyhound-drivers-to-return-today.html
   outlet: New York Times
   date: '1983-11-03'
   verified: true
   tier: 1
-- title: 'The PATCO Strike and the Decline of the Labor Movement'
+- title: The PATCO Strike and the Decline of the Labor Movement
   url: https://www.epi.org/publication/pm184/
   outlet: Economic Policy Institute
   date: '2006-08-01'
   verified: true
   tier: 1
-- title: 'Amalgamated Transit Union strike against Greyhound'
+- title: Amalgamated Transit Union strike against Greyhound
   url: https://en.wikipedia.org/wiki/1983_Greyhound_bus_drivers%27_strike
   outlet: Wikipedia
   date: '2024-01-01'
@@ -36,7 +36,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
+- Labor Suppression
 ---
 
 The Amalgamated Transit Union ends its 47-day strike against Greyhound Lines on November 2, 1983, after the company successfully operates with permanent replacement workers, demonstrating that Reagan's PATCO strategy translates to the private sector. Greyhound CEO Fred Currey demanded 9.5 percent wage cuts and benefit reductions; when 12,700 drivers and maintenance workers struck on September 17, the company continued operations with management and newly hired replacement workers. The union returns to work accepting most of Currey's original demands.

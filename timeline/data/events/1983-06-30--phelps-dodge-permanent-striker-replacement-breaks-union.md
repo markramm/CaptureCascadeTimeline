@@ -35,6 +35,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Environmental Capture
+- Corporate Capture
 ---
 
 Over 2,000 copper miners strike against Phelps Dodge Corporation at its Morenci, Ajo, Douglas, and Bisbee operations in Arizona and El Paso refinery in Texas, seeking to maintain wages and benefits amid the company's demand for concessions. Following Reagan's PATCO precedent, Phelps Dodge hires permanent "scab" replacement workers to cross picket lines and continue operations, maintaining production throughout the strike and demonstrating to corporate America that unions can be broken through permanent replacement rather than negotiation.

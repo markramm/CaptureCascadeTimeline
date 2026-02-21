@@ -31,6 +31,10 @@ sources:
   outlet: FasterCapital
   date: '2023-01-01'
   tier: 2
+capture_lanes:
+- Labor Suppression
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 Economic concentration research documents that by 2013, oligopolistic market structures dominate major American industries, with the top four firms (CR4) controlling 85% or more of market share across multiple critical sectors. In airlines, the top four carriers (Delta, American, United, Southwest) control 80% of the domestic market by 2015 and over 85% of regional markets, enabling coordinated price increases and fee proliferation. The wireless telecommunications industry shows a Herfindahl-Hirschman Index over 2,500 (far above the 1,500 threshold for 'highly concentrated'), with four carriers dominating nationally. In pharmaceuticals, three manufacturers control over 90% of the global insulin market, enabling price increases of 300-600% despite minimal innovation. Agricultural sectors show extreme concentration in seeds, pesticides, and meat processing, with four firms controlling most markets. This concentration enables oligopolistic coordination, price-fixing, wage suppression, and extraction of monopoly rents from consumers and workers. The mechanism for wealth extraction works through both monopoly power (raising prices above competitive levels) and monopsony power (suppressing wages below competitive levels). Concentrated industries exhibit classic oligopoly characteristics: high barriers to entry, price leadership and signaling among dominant firms, reduced innovation and quality competition, and political capture through lobbying power. This market structure transfers wealth from consumers (through higher prices), workers (through suppressed wages), and suppliers (through squeezed margins) to dominant firms and their shareholders. The 85%+ four-firm concentration ratios far exceed the 60-70% threshold economists consider indicative of oligopoly, demonstrating that major American industries operate as de facto cartels enabled by failed antitrust enforcement.

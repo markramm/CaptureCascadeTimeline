@@ -17,26 +17,30 @@ tags:
 - gini-coefficient
 - tax-policy
 sources:
-- title: 'Changes in poverty, income inequality during Reagan years'
+- title: Changes in poverty, income inequality during Reagan years
   url: https://pubmed.ncbi.nlm.nih.gov/8500951/
   outlet: PubMed (Academic Journal)
   date: '2024-01-01'
   verified: true
-- title: 'Rising income inequality in U.S. fuelled by Reagan attacks on unions'
+- title: Rising income inequality in U.S. fuelled by Reagan attacks on unions
   url: https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/
   outlet: London School of Economics
   date: '2014-08-12'
   verified: true
-- title: 'How four decades of tax cuts fueled inequality'
+- title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
   verified: true
-- title: 'Reaganomics'
+- title: Reaganomics
   url: https://en.wikipedia.org/wiki/Reaganomics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
+- Corporate Capture
 ---
 
 Income and wealth inequality surge during the Reagan presidency, with the top 1% of earners capturing an increasingly disproportionate share of national income while middle and working-class incomes stagnate. The top 1% income share rises from 9.0% in 1979 to 13.8% by 1986—a 53% increase in less than a decade. The Gini coefficient, a standard measure of inequality, reaches 0.450 among Black Americans and 0.382 among white Americans by the late 1980s, representing a rapid acceleration of inequality that had grown only slowly during the 1970s. Tax cuts for the wealthy combined with attacks on labor unions and social program cutbacks systematically redistribute wealth upward.

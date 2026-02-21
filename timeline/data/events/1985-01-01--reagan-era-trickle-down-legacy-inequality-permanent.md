@@ -17,21 +17,25 @@ tags:
 - economic-legacy
 - structural-inequality
 sources:
-- title: 'Rising income inequality in U.S. fuelled by Reagan attacks on unions'
+- title: Rising income inequality in U.S. fuelled by Reagan attacks on unions
   url: https://blogs.lse.ac.uk/usappblog/2014/08/12/rising-income-inequality-in-the-u-s-was-fuelled-by-ronald-reagans-attacks-on-union-strength-and-continued-by-bill-clintons-financial-deregulation/
   outlet: London School of Economics
   date: '2014-08-12'
   verified: true
-- title: 'How four decades of tax cuts fueled inequality'
+- title: How four decades of tax cuts fueled inequality
   url: https://publicintegrity.org/inequality-poverty-opportunity/taxes/unequal-burden/how-four-decades-of-tax-cuts-fueled-inequality/
   outlet: Center for Public Integrity
   date: '2024-01-01'
   verified: true
-- title: 'Trickle-down economics'
+- title: Trickle-down economics
   url: https://en.wikipedia.org/wiki/Trickle-down_economics
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
+- Corporate Capture
 ---
 
 By mid-Reagan presidency, the structural mechanisms of permanent upward wealth redistribution are firmly established: union-busting destroys worker bargaining power, tax policy rewards capital over labor, financial deregulation enables speculation and asset stripping, and weakened antitrust enforcement allows corporate consolidation. The combination ensures that productivity gains flow to shareholders and executives rather than workers, establishing a four-decade pattern where GDP growth no longer improves living standards for working families. "Trickle-down economics" proves to be trickle-up in practice: wealth concentrates at the top while middle-class purchasing power stagnates.

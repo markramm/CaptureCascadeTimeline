@@ -35,6 +35,9 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
 ---
 
 Congress passes the Labor Management Reporting and Disclosure Act (Landrum-Griffin Act) in response to publicized corruption in the Teamsters, International Longshoremen's Association, and United Mine Workers, imposing extensive federal oversight of union internal operations including mandatory financial disclosures, democratic election requirements, and restrictions on union tactics. The Act requires unions to hold secret ballot elections for local offices every three years and national offices every five years, provides Department of Labor review of election disputes, and mandates detailed financial reporting to the federal government.

@@ -30,6 +30,10 @@ sources:
   date: 2002-07-21
   tier: 2
   outlet: Wikipedia
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
+- Legislative Capture
 ---
 
 On July 21, 2002, WorldCom filed for Chapter 11 bankruptcy protection, listing $107 billion in assets and $41 billion in debt—making it the largest bankruptcy in American history. The filing came just 26 days after the company disclosed $3.8 billion in accounting fraud, demonstrating the speed at which systematic fraud can destroy even the largest corporations.

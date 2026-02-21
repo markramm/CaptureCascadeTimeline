@@ -34,6 +34,10 @@ sources:
   outlet: The Heritage Foundation
   date: '2013-08-27'
   tier: 2
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
+- Digital & Tech Capture
 ---
 
 The American Legislative Exchange Council (ALEC) Board of Directors approves the "Paycheck Protection Act" in May 1998, following unanimous endorsement by ALEC's Commerce, Insurance and Economic Development Task Force. The model legislation prohibits employees in both public and private sectors from contributing to union political activities through payroll deductions—even if employees voluntarily request to do so. The act requires unions to establish separate segregated funds for political activities and prohibits collection of union dues for political purposes without expressed employee authorization, with "political activities" broadly defined to include lobbying, electoral activities, independent expenditures, contributions to candidates or political parties, and "any other political or legislative cause." The real purpose is not worker protection but defunding the Democratic Party: the legislation would "significantly impact public employee unions like teacher's unions and the American Federation of State, County, and Municipal Employees (AFSCME), whose expenditures primarily benefit Democrats." ALEC follows up with additional anti-union political activity models: the "Public Employee Freedom Act" and "Public Employer Payroll Deduction Policy Act" (1999), and the "Voluntary Contributions Act" and "Political Funding Reform Act." Multiple states adopt versions including Alabama (2010), Wisconsin via Act 10 (2011), and Michigan (2012), systematically cutting off union funding for Democratic campaigns and progressive causes while leaving corporate political spending unrestricted.

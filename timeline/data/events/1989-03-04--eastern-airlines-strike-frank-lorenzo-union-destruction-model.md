@@ -18,7 +18,7 @@ tags:
 - union-destruction
 - bankruptcy
 sources:
-- title: 'Eastern Airlines Strike'
+- title: Eastern Airlines Strike
   url: https://www.nytimes.com/1989/03/05/us/eastern-airlines-strike.html
   outlet: New York Times
   date: '1989-03-05'
@@ -30,7 +30,7 @@ sources:
   date: '1989-03-05'
   verified: true
   tier: 1
-- title: 'Eastern Air Lines'
+- title: Eastern Air Lines
   url: https://en.wikipedia.org/wiki/Eastern_Air_Lines#Downfall
   outlet: Wikipedia
   date: '2024-01-01'
@@ -38,8 +38,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- corporate
+- Labor Suppression
+- Corporate Capture
 ---
 
 The International Association of Machinists begins a strike against Eastern Airlines on March 4, 1989, joined by pilots and flight attendants in solidarity action that effectively grounds the carrier. The strike targets Frank Lorenzo, whose Texas Air Corporation acquired Eastern in 1986 and immediately began stripping assets and demanding concessions. Lorenzo had previously used Continental Airlines' bankruptcy to abrogate union contracts, establishing a template for using corporate restructuring to destroy organized labor. The Eastern strike demonstrates both labor solidarity's continuing power and the limits of worker action against corporate raiders determined to liquidate rather than negotiate.

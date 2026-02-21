@@ -36,6 +36,9 @@ sources:
   verified: true
   tier: 1
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
 ---
 
 President Franklin D. Roosevelt signs the National Labor Relations Act, known as the Wagner Act after sponsor Senator Robert Wagner (D-NY), establishing federal legal protection for workers' rights to organize unions, engage in collective bargaining, and strike without employer retaliation. The act creates the National Labor Relations Board (NLRB) to enforce these rights, arbitrate labor disputes, guarantee democratic union elections, and penalize employers for unfair labor practices including blacklisting, strike-breaking, discriminatory firings, and maintaining "company unions."

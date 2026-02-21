@@ -40,6 +40,10 @@ sources:
   outlet: The Nation
   date: '2011-08-01'
   tier: 1
+capture_lanes:
+- Labor Suppression
+- Judicial Capture
+- Corporate Capture
 ---
 
 By 2005, ALEC's comprehensive suite of mandatory minimum sentencing model legislation has been adopted across the United States, with all 50 states and the federal government implementing laws that constrain judicial discretion in sentencing. These policies, developed by ALEC's Criminal Justice Task Force with direct participation from private prison company executives, guarantee minimum prison terms and create predictable occupancy rates that benefit private prison operators.

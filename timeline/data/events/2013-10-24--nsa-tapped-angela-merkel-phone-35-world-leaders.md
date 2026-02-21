@@ -31,6 +31,10 @@ sources:
   tier: 1
   outlet: The Washington Post
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Regulatory Capture
+- Executive Power Expansion
 ---
 
 The Guardian newspaper reported, citing documents obtained from Edward Snowden, that the National Security Agency monitored the phone conversations of 35 world leaders, including German Chancellor Angela Merkel. The leaked NSA memo, dated October 2006, revealed that senior U.S. government officials from the White House, State Department, and Pentagon provided more than 200 phone numbers of foreign politicians to the NSA for surveillance, with 35 of those belonging to world leaders.

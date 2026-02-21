@@ -35,6 +35,10 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
+- Media Capture & Control
 ---
 
 United Food and Commercial Workers Local P-9 workers at Hormel's flagship Austin, Minnesota plant strike against wage cuts from $10.69 to $8.25 per hour, seeking to maintain the meatpacking industry's traditional "pattern bargaining" where major companies matched union wage standards. Hormel provokes the strike deliberately, then hires permanent replacement workers to maintain production, following the Phelps Dodge template and Reagan's PATCO precedent that striker replacement is an acceptable management tactic.

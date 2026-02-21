@@ -7,8 +7,8 @@ actors:
 - Immigration and Customs Enforcement (ICE)
 capture_lanes:
 - Surveillance Infrastructure
-- Law Enforcement Collaboration
-- Privacy Erosion
+- Labor Suppression
+- Digital & Tech Capture
 date: '2025-10-16'
 id: 2025-10-16--ring-flock-safety-axon-surveillance-partnerships
 importance: 9

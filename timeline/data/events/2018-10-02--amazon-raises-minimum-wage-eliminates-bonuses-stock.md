@@ -28,6 +28,10 @@ sources:
   tier: 2
   outlet: TechCrunch
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 # Amazon Raises Minimum Wage to $15 But Eliminates Bonuses and Stock Options

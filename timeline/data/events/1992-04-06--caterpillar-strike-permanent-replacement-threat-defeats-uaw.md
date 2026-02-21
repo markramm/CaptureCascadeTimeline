@@ -16,19 +16,19 @@ tags:
 - manufacturing
 - uaw
 sources:
-- title: 'Caterpillar Strike Ends'
+- title: Caterpillar Strike Ends
   url: https://www.nytimes.com/1992/04/15/business/caterpillar-workers-agree-to-end-strike.html
   outlet: New York Times
   date: '1992-04-15'
   verified: true
   tier: 1
-- title: 'The Caterpillar Strike'
+- title: The Caterpillar Strike
   url: https://labornotes.org/2017/02/25-years-ago-caterpillar-strike-marked-turning-point-labor
   outlet: Labor Notes
   date: '2017-02-01'
   verified: true
   tier: 2
-- title: 'Caterpillar Inc. labor dispute'
+- title: Caterpillar Inc. labor dispute
   url: https://en.wikipedia.org/wiki/Caterpillar_Inc.#Labor_disputes
   outlet: Wikipedia
   date: '2024-01-01'
@@ -36,7 +36,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
+- Labor Suppression
 ---
 
 The United Automobile Workers ends its five-month strike against Caterpillar on April 14, 1992, after the company announces it will begin permanently replacing the 12,600 striking workers. The UAW—the union that pioneered industrial unionism with the Flint sit-down strike—capitulates without a contract, ordering members back to work under the company's final offer. The defeat destroys pattern bargaining in heavy equipment manufacturing and demonstrates that even the most powerful industrial unions cannot withstand permanent replacement threats.

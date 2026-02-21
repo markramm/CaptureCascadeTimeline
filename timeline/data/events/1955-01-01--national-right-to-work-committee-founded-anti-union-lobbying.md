@@ -34,6 +34,9 @@ sources:
   verified: true
   tier: 2
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
 ---
 
 Fred A. Hartley—co-sponsor of the 1947 Taft-Hartley Act that enabled state right-to-work laws—founds the National Right to Work Committee (NRTWC) as a coordinating organization for corporate anti-union lobbying efforts. The organization brings together "hard-core conservatives, anti-communist zealots and Christian fundamentalists" with the explicit goal of "crippling trade unions" through state-level right-to-work legislation exploiting Section 14(b) of the Taft-Hartley Act that Hartley himself authored.

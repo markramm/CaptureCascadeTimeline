@@ -36,13 +36,11 @@ sources:
   verified: true
   tier: 3
 - outlet: Senate Select Committee on Intelligence
-  title: Report on the U.S. Intelligence Community's Prewar Intelligence Assessments
-    on Iraq
+  title: Report on the U.S. Intelligence Community's Prewar Intelligence Assessments on Iraq
   url: https://www.intelligence.senate.gov/publications/committee-activities-2003-2004-november-16-2006
   type: government_report
 - outlet: National Archives - WMD Commission Report
-  title: Commission on the Intelligence Capabilities of the United States Regarding
-    Weapons of Mass Destruction
+  title: Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction
   url: https://georgewbush-whitehouse.archives.gov/wmd/text/report.html
   type: government_investigation
 - outlet: National Security Archive
@@ -51,8 +49,7 @@ sources:
   type: historical_archive
 status: confirmed
 capture_lanes:
-- labor
-- executive
+- Labor Suppression
 ---
 
 

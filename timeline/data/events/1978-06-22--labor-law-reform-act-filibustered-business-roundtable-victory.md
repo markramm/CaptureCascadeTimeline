@@ -19,19 +19,19 @@ tags:
 - business-roundtable
 - regulatory-capture
 sources:
-- title: 'The 1978 Labor Law Reform Bill'
+- title: The 1978 Labor Law Reform Bill
   url: https://journals.sagepub.com/doi/abs/10.1177/002218568001500210
   outlet: Industrial and Labor Relations Review
   date: '1980-01-01'
   verified: true
   tier: 1
-- title: 'Labor Law Reform and Its Enemies'
+- title: Labor Law Reform and Its Enemies
   url: https://jacobin.com/2018/06/labor-law-reform-1978-carter-business-roundtable
   outlet: Jacobin
   date: '2018-06-01'
   verified: true
   tier: 2
-- title: 'Business Roundtable'
+- title: Business Roundtable
   url: https://en.wikipedia.org/wiki/Business_Roundtable
   outlet: Wikipedia
   date: '2024-01-01'
@@ -39,9 +39,9 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- legislative
-- lobbying
+- Labor Suppression
+- Legislative Capture
+- Regulatory Capture
 ---
 
 After six cloture attempts fail to break a Senate filibuster, the Labor Law Reform Act of 1978 dies on June 22, marking the most significant corporate lobbying victory since Taft-Hartley and demonstrating that even with Democratic supermajorities and a Democratic president, business interests can block pro-labor legislation. The bill, labor's top legislative priority, would have strengthened NLRB enforcement, expedited union elections, increased penalties for labor law violations, and allowed union organizers access to workplaces—modest reforms to address the J.P. Stevens-style union-busting epidemic.

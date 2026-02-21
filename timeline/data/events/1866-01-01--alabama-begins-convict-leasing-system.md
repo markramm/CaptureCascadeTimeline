@@ -27,8 +27,8 @@ tags:
 - institutional-capture
 - racial-injustice
 capture_lanes:
-- Prison Labor Exploitation
-- Economic Extraction
+- Labor Suppression
+- Financial Capture
 status: confirmed
 ---
 

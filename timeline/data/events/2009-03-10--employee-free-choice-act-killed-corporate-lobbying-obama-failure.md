@@ -19,19 +19,19 @@ tags:
 - filibuster
 - democratic-failure
 sources:
-- title: 'The Death of the Employee Free Choice Act'
+- title: The Death of the Employee Free Choice Act
   url: https://www.newyorker.com/magazine/2009/06/29/the-labor-question
   outlet: The New Yorker
   date: '2009-06-29'
   verified: true
   tier: 1
-- title: 'Employee Free Choice Act and Card Check'
+- title: Employee Free Choice Act and Card Check
   url: https://www.epi.org/publication/employee-free-choice-act-and-card-check/
   outlet: Economic Policy Institute
   date: '2009-01-01'
   verified: true
   tier: 1
-- title: 'Employee Free Choice Act'
+- title: Employee Free Choice Act
   url: https://en.wikipedia.org/wiki/Employee_Free_Choice_Act
   outlet: Wikipedia
   date: '2024-01-01'
@@ -39,9 +39,9 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
-- legislative
-- lobbying
+- Labor Suppression
+- Legislative Capture
+- Regulatory Capture
 ---
 
 Senator Arlen Specter announces on March 24, 2009, that he will not support the Employee Free Choice Act, effectively killing labor's top legislative priority despite Democratic control of the presidency and both houses of Congress. EFCA would have allowed workers to form unions through "card check" majority sign-up, increased penalties for employer violations, and required binding arbitration when employers refuse to negotiate first contracts. Business groups spend an estimated $400 million opposing the bill, reprising the corporate lobbying blitz that defeated the Labor Law Reform Act in 1978.

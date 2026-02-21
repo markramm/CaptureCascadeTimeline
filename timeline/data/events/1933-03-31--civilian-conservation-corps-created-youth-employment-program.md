@@ -35,8 +35,8 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- labor
-- economic
+- Labor Suppression
+- Financial Capture
 status: confirmed
 ---
 

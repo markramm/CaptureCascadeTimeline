@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: Common Dreams
 status: confirmed
+capture_lanes:
+- Labor Suppression
+- Digital & Tech Capture
+- Corporate Capture
 ---
 
 # Bernie Sanders Introduces "Stop BEZOS Act" Targeting Amazon Wages

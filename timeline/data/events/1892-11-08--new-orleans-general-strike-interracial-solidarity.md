@@ -9,7 +9,7 @@ actors:
 - New Orleans Board of Trade
 - American Federation of Labor
 sources:
-- title: '1892 New Orleans general strike'
+- title: 1892 New Orleans general strike
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/1892_New_Orleans_general_strike
   year: 2024
@@ -27,9 +27,8 @@ tags:
 - corporate-resistance
 - gilded-age
 capture_lanes:
-- General Strike Tactics
-- Racial Unity Against Capital
-- AFL Organizing
+- Labor Suppression
+- Civil Rights Suppression
 status: confirmed
 ---
 

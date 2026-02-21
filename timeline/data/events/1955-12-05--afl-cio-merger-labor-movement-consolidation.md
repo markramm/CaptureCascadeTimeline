@@ -17,7 +17,7 @@ tags:
 - labor-politics
 - cold-war
 sources:
-- title: 'AFL-CIO merger'
+- title: AFL-CIO merger
   url: https://www.aflcio.org/about/history/labor-history-events/afl-cio-merger
   outlet: AFL-CIO
   date: '2024-01-01'
@@ -29,7 +29,7 @@ sources:
   date: '2005-01-01'
   verified: true
   tier: 1
-- title: 'AFL-CIO'
+- title: AFL-CIO
   url: https://en.wikipedia.org/wiki/AFL-CIO
   outlet: Wikipedia
   date: '2024-01-01'
@@ -37,7 +37,7 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- labor
+- Labor Suppression
 ---
 
 The American Federation of Labor and the Congress of Industrial Organizations merge on December 5, 1955, creating the AFL-CIO with 16 million members representing one-third of American workers. George Meany, the conservative plumber who led the AFL, becomes president, while the more progressive Walter Reuther of the UAW becomes vice president. The merger, occurring at labor's peak strength with union density at 35 percent, is presented as consolidating worker power but actually entrenches a conservative, anti-communist leadership that prioritizes institutional stability over aggressive organizing.

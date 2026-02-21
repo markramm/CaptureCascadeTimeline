@@ -26,6 +26,9 @@ sources:
   url: https://www.npr.org/2025/11/04/nx-s1-5596204/air-traffic-controllers-feeling-the-pinch-of-the-government-shutdown
   tier: 1
   outlet: NPR
+capture_lanes:
+- Labor Suppression
+- Financial Capture
 ---
 
 The Federal Aviation Administration announced it would reduce air traffic by up to 10% at 40 of the nation's busiest airports as the government shutdown—then in its 40th day—created a staffing crisis among air traffic controllers working without pay. FAA Administrator Bryan Bedford reported that 20% to 40% of controllers had stopped showing up for work at affected facilities, forcing the agency to implement flight reductions starting with 4% cuts on Friday, November 5, escalating to potential 10% reductions to maintain safety standards. The initial implementation contributed to over 4,500 flight cancellations and 18,000 delays over the weekend.

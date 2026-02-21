@@ -31,6 +31,10 @@ sources:
   outlet: Wikipedia
   date: '2024-11-01'
   tier: 2
+capture_lanes:
+- Labor Suppression
+- Corporate Capture
+- Financial Capture
 ---
 
 Kohlberg Kravis Roberts (KKR) completes the largest leveraged buyout in history, acquiring RJR Nabisco for $25 billion in equity ($31.1 billion including assumed debt) at $109 per share, establishing the template for private equity wealth extraction that will be replicated thousands of times over subsequent decades. The deal, immortalized in the book and film 'Barbarians at the Gate,' demonstrates the private equity playbook: use minimal PE firm capital (20-30% equity) while loading the acquired company with massive debt (70-80% borrowed against the company's own assets), extract enormous fees for the PE firms, then force the debt-burdened company to slash costs, suppress wages, reduce investment, and maximize cash flow to service debt and generate PE returns. CEO Ross Johnson initially attempted a $17 billion buyout, triggering a bidding war that drove the price to record levels. The transaction fundamentally transforms RJR Nabisco from a profitable public company into a debt-laden private entity struggling under $5+ billion in new obligations. While KKR and its partners extract hundreds of millions in fees and eventual gains, the company's workers, suppliers, and communities bear the costs of debt service and subsequent cost-cutting. The deal is widely considered the preeminent example of corporate and executive greed in the 1980s, and establishes the debt-loading model that private equity firms will use to extract an estimated $1 trillion+ in value from American businesses over the next three decades, often leaving bankrupt companies and unemployed workers in their wake.

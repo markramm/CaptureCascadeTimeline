@@ -2,9 +2,7 @@
 id: 2025-03-03--doge-charges-opm-4-million
 date: '2025-03-03'
 title: DOGE Demands $4 Million from OPM for Workforce Reduction Planning
-description: DOGE demanded $4 million from the Office of Personnel Management to fund
-  20 full-time positions tasked with workforce reduction planning and IT modernization
-  across federal agencies.
+description: DOGE demanded $4 million from the Office of Personnel Management to fund 20 full-time positions tasked with workforce reduction planning and IT modernization across federal agencies.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -20,13 +18,11 @@ tags:
 - federal-employment
 capture_type: institutional-capture
 sources:
-- title: DOGE wants to charge one federal agency millions of dollars for its work
-    to make government more efficient
+- title: DOGE wants to charge one federal agency millions of dollars for its work to make government more efficient
   url: https://www.cnn.com/2025/03/03/politics/doge-wants-to-charge-opm-millions/index.html
   outlet: CNN
   date: '2025-03-03'
-- title: Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done
-    That, and More
+- title: Project 2025 Wanted to Hobble the Federal Workforce. DOGE Has Hastily Done That, and More
   url: https://www.govexec.com/transition/2025/04/project-2025-wanted-hobble-federal-workforce-doge-has-hastily-done-and-more/404390/
   outlet: Government Executive
   date: '2025-04-01'
@@ -38,11 +34,9 @@ connections: []
 patterns:
 - kleptocratic-capture
 - institutional-disruption
-notes: Event documents DOGE's strategy to rapidly reduce federal workforce through
-  OPM contract and Schedule Policy/Career process.
+notes: Event documents DOGE's strategy to rapidly reduce federal workforce through OPM contract and Schedule Policy/Career process.
 capture_lanes:
-- Governmental Restructuring
-- Labor Policy Capture
+- Labor Suppression
 - Financial Capture
 ---
 

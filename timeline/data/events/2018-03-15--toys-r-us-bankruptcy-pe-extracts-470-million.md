@@ -31,6 +31,10 @@ sources:
   outlet: The American Prospect
   date: '2019-05-06'
   tier: 2
+capture_lanes:
+- Labor Suppression
+- Media Capture & Control
+- Financial Capture
 ---
 
 Toys 'R' Us liquidates after filing for Chapter 11 bankruptcy in September 2017, resulting in 33,000 job losses and the closure of 800+ U.S. stores, while private equity owners Bain Capital, KKR, and Vornado refuse to contribute to a severance fund for workers who built the company. During their 12-year ownership (2005-2018), the three PE firms collected approximately $470 million in fees, interest, and other payments extracted from Toys 'R' Us—$464 million in documented management fees, advisory fees, and interest alone, plus additional transaction fees. Workers who lost their jobs received zero severance, losing accumulated paid time off, retirement contributions, and healthcare coverage. Creditors lost billions. Communities lost major employers and tax revenue. But the PE firms kept every dollar they extracted. This case perfectly illustrates 'privatized gains, socialized losses': PE firms profit immensely regardless of outcome while workers, creditors, and communities absorb all losses. The PE owners repeatedly 'rewarded themselves' for adding debt to Toys 'R' Us through dividend recapitalizations and fee structures that extracted wealth while the company deteriorated. When workers and advocates demanded the PE firms contribute $75 million to a severance fund—a fraction of the $470 million extracted—the firms initially refused, relenting only after sustained public pressure resulted in a partial $20 million fund. This demonstrates PE's fundamental extraction mechanism: debt-load companies, extract maximum fees, provide no accountability when overleveraged companies fail, leaving workers with nothing while PE partners profit regardless of outcomes.

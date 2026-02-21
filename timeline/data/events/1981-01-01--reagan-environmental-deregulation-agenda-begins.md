@@ -33,6 +33,10 @@ sources:
   outlet: The New Republic
   date: '2017-02-14'
   verified: true
+capture_lanes:
+- Labor Suppression
+- Legislative Capture
+- Corporate Capture
 ---
 
 The Reagan administration launches systematic dismantling of environmental protections through regulatory capture: appointing industry advocates to lead EPA and Interior, slashing enforcement budgets, weakening Clean Air and Water Act regulations, and opening public lands to resource extraction. EPA Administrator Anne Gorsuch cuts the agency's budget by 22%, reduces enforcement cases against polluters, and prioritizes industry convenience over public health. Interior Secretary James Watt accelerates oil, gas, and coal leasing on federal lands while attempting to sell off national parks and wilderness areas, openly stating his goal is reducing federal environmental protection to benefit extractive industries.

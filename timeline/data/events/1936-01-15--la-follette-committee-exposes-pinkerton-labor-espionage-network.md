@@ -31,8 +31,8 @@ sources:
   verified: true
   tier: 1
 capture_lanes:
-- labor
-- corporate
+- Labor Suppression
+- Corporate Capture
 status: confirmed
 ---
 
