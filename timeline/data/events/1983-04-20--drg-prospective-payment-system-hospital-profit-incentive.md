@@ -15,20 +15,19 @@ tags:
 - hospital-industry
 - cost-shifting
 sources:
-- title: 'Medicare Prospective Payment and the Shaping of U.S. Health Care'
+- title: Medicare Prospective Payment and the Shaping of U.S. Health Care
   outlet: Journal of Health Politics, Policy and Law
   url: https://academic.oup.com/jhppl
   date: '2005-01-01'
-- title: 'The Implementation of Prospective Payment for Medicare'
+- title: The Implementation of Prospective Payment for Medicare
   outlet: Health Affairs
   url: https://www.healthaffairs.org
   date: '1984-01-01'
-- title: 'Social Security Amendments of 1983'
+- title: Social Security Amendments of 1983
   outlet: Congress.gov
   url: https://www.congress.gov/bill/98th-congress/house-bill/1900
   date: '1983-04-20'
 capture_lanes:
-- Healthcare Industry Capture
 - Regulatory Capture
 status: confirmed
 ---

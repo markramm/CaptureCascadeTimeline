@@ -12,13 +12,11 @@ actors:
 - Boaz Barak
 sources:
 - outlet: TechCrunch
-  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon
-    Musk's xAI
+  title: OpenAI and Anthropic researchers decry 'reckless' safety culture at Elon Musk's xAI
   url: https://techcrunch.com/2025/07/16/openai-and-anthropic-researchers-decry-reckless-safety-culture-at-elon-musks-xai/
   date: '2025-07-16'
 - outlet: Fortune
-  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling
-    AI more 'dangerous than nukes'
+  title: Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'
   url: https://fortune.com/2025/07/17/elon-musk-xai-grok-4-no-safety-report/
   date: '2025-07-17'
 - outlet: Reuters (via CNBC)
@@ -33,7 +31,6 @@ tags:
 - institutional-capture
 capture_lanes:
 - Systematic Corruption
-- Tech Ethical Violations
 status: validated
 ---
 

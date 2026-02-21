@@ -1,8 +1,7 @@
 ---
 id: 1985-01-01--promis-software-global-intelligence-network-establishment
 date: '1985-01-01'
-title: PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell
-  Distribution
+title: PROMIS Software Creates Global Intelligence Surveillance Network Through Maxwell Distribution
 importance: 9
 location: Global
 actors:
@@ -24,7 +23,6 @@ tags:
 capture_lanes:
 - Surveillance Infrastructure
 - Intelligence Penetration
-- Technological Espionage
 sources:
 - title: Dirtier than Watergate
   url: https://www.newstatesman.com/politics/2011/04/promis-government-inslaw

@@ -39,7 +39,6 @@ patterns:
 notes: Preliminary deal paused by October 7 conflict, but Eric Trump indicates intent to pursue once war concludes. Represents potential continuation of Trump Organization's strategy of leveraging political position for international business opportunities.
 capture_lanes:
 - Systematic Corruption
-- International Business Expansion
 ---
 
 The Trump Organization, led by Eric Trump, held advanced negotiations to brand and manage the Sarona Hotel in Tel Aviv in 2025. These talks, initially promising, were paused following the October 7 conflict. Eric Trump indicated the deal would have been completed if not for the war, suggesting the company intends to pursue the project once tensions subside.

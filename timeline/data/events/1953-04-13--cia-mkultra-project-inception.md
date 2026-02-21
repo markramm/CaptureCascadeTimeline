@@ -15,7 +15,6 @@ tags:
 - human-experimentation
 capture_lanes:
 - Intelligence Penetration
-- Psychological Warfare
 sources:
 - title: Project MKULTRA, The CIA's Program of Research in Behavioral Modification
   outlet: U.S. Senate Select Committee on Intelligence
@@ -31,8 +30,7 @@ sources:
   year: 2024
   url: https://nsarchive.gwu.edu/briefing-book/dnsa-intelligence/2024-12-23/cia-behavior-control-experiments
 status: confirmed
-validation_notes: Event verified through multiple archival sources, including Senate
-  Intelligence Committee documentation and CIA FOIA records
+validation_notes: Event verified through multiple archival sources, including Senate Intelligence Committee documentation and CIA FOIA records
 ---
 
 Under CIA Director Allen Dulles, Project MKULTRA is officially launched as a comprehensive, covert research program exploring behavioral modification and mind control techniques. The program involves 149 subprojects conducted through universities and research institutions, focusing on chemical and psychological manipulation methods.

@@ -47,7 +47,6 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
-- Economic Destabilization
 ---
 
 On October 15, 1997, the International Monetary Fund (IMF) announced a comprehensive $43 billion bailout package for Indonesia during the Asian Financial Crisis, contingent upon radical structural adjustment reforms. The IMF mandated a 50-point reform program that included closing 16 private banks, eliminating government food and energy subsidies, raising interest rates, ending monopolies of Suharto's political cronies, and implementing extensive financial sector restructuring. These aggressive policy conditions were designed to restore market confidence but instead triggered severe economic consequences: the rupiah lost half its value within five days, poverty rates surged, and the Indonesian economy contracted by 43.2% in nominal GDP per capita. Ultimately, these economic shocks contributed directly to the political destabilization that forced President Suharto's resignation in May 1998, marking a pivotal moment in Indonesia's modern economic and political history.

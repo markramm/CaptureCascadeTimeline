@@ -17,7 +17,6 @@ tags:
 - public-education
 - new-hampshire
 capture_lanes:
-- Ideological Capture
 - Democratic Erosion
 sources:
 - title: Free Stater's Motion Cuts Croydon School Budget in Half

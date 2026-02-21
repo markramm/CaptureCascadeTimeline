@@ -18,7 +18,6 @@ tags:
 capture_lanes:
 - Media Capture & Control
 - Electoral Manipulation
-- Digital Platform Influence
 sources:
 - outlet: NPR
   title: 2 years in, Trump surrogate Elon Musk has remade X as a conservative megaphone

@@ -45,7 +45,6 @@ patterns:
 notes: Detailed financial entanglement demonstrates ongoing patterns of potential foreign influence in government appointments. Patel received stock in Elite Depot Ltd. despite company's documented human rights concerns.
 capture_lanes:
 - Legislative Capture
-- Foreign Investment Influence
 ---
 
 Kash Patel, a prominent Trump administration figure, disclosed holding between $1 million and $5 million in stock from Elite Depot Limited, the parent company of Shein, a Chinese corporation facing bipartisan criticism for alleged use of forced labor. Senator Adam Schiff demanded a comprehensive explanation of Patel's foreign financial entanglements, highlighting potential conflicts of interest.

@@ -2,9 +2,7 @@
 id: 2025-07-31--the-inside-story-of-eric-trump-s-american-bitcoin
 date: '2025-07-31'
 title: Eric Trump Launches American Bitcoin, Raises $220 Million
-description: American Bitcoin, Eric Trump's crypto venture, has raised $220 million
-  to build a massive US bitcoin reserve after launching late last year, with plans
-  to expand into a publicly traded bitcoin mining company.
+description: American Bitcoin, Eric Trump's crypto venture, has raised $220 million to build a massive US bitcoin reserve after launching late last year, with plans to expand into a publicly traded bitcoin mining company.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -26,8 +24,7 @@ sources:
   outlet: NBC News
   date: '2025-05-12'
   url: https://www.nbcnews.com/world/asia/american-bitcoin-eric-trump-touting-hong-kong-rcna227936
-- title: Trump-backed crypto firm American Bitcoin notches $5 billion valuation in
-    Nasdaq debut
+- title: Trump-backed crypto firm American Bitcoin notches $5 billion valuation in Nasdaq debut
   outlet: Fortune Crypto
   date: '2025-09-03'
   url: https://fortune.com/crypto/2025/09/03/american-bitcoin-nasdaq-trading-eric-donald-trump-jr-hut-8/
@@ -35,11 +32,9 @@ connections: []
 patterns:
 - kleptocratic-capture
 - conflict-of-interest
-notes: Event documents the Trump family's expansion into cryptocurrency via a publicly
-  traded bitcoin mining venture.
+notes: Event documents the Trump family's expansion into cryptocurrency via a publicly traded bitcoin mining venture.
 capture_lanes:
 - Systematic Corruption
-- Family Political Enterprise
 ---
 
 Eric Trump founded American Bitcoin, a cryptocurrency venture backed by Hut 8, raising $220 million and planning to build a substantial US bitcoin reserve. The company went public via a Nasdaq merger, with the Trump sons owning a majority stake.

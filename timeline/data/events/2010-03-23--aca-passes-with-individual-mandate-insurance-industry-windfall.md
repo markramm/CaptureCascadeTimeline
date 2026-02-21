@@ -30,7 +30,6 @@ sources:
   url: https://sunlightfoundation.com
   date: '2012-12-05'
 capture_lanes:
-- Healthcare Industry Capture
 - Regulatory Capture
 - Legislative Capture
 status: confirmed

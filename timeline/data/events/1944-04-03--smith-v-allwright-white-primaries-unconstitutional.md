@@ -34,7 +34,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
-- Legal System Manipulation
 ---
 
 The Supreme Court ruled 8-1 in Smith v. Allwright that Texas's white primary system violated the Fifteenth Amendment, striking down one of the South's most effective tools for excluding Black voters from meaningful political participation. The decision, argued by Thurgood Marshall for the NAACP Legal Defense Fund, overturned the Court's own 1935 precedent in Grovey v. Townsend and marked a critical turning point in the legal assault on Jim Crow voting restrictions.

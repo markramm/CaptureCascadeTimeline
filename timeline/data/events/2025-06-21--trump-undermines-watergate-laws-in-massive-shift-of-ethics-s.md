@@ -9,7 +9,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Financial Capture
-- Institutional Oversight Capture
 capture_type: dismantling_institutional_safeguards
 connections:
 - Post-Watergate institutional reforms

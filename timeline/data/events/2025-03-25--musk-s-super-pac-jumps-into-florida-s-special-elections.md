@@ -2,9 +2,7 @@
 id: 2025-03-25--musk-s-super-pac-jumps-into-florida-s-special-elections
 date: '2025-03-25'
 title: Musk's Super PAC Jumps into Florida's Special Elections
-description: Elon Musk's America PAC has started spending in two Republican-held Florida
-  House races to support candidates Jimmy Patronis and Randy Fine ahead of their special
-  elections, both in districts previously won by Trump by large margins.
+description: Elon Musk's America PAC has started spending in two Republican-held Florida House races to support candidates Jimmy Patronis and Randy Fine ahead of their special elections, both in districts previously won by Trump by large margins.
 status: confirmed
 importance: 6
 location: Florida, United States
@@ -43,12 +41,10 @@ connections:
 patterns:
 - kleptocratic-capture
 - political-influence-spending
-notes: America PAC spent $20,488.90 on texting services, demonstrating strategic political
-  engagement during special elections.
+notes: America PAC spent $20,488.90 on texting services, demonstrating strategic political engagement during special elections.
 capture_lanes:
 - Legislative Capture
 - Electoral Manipulation
-- Political Financing
 ---
 
 Elon Musk's America PAC spent $20,488.90 on texting services to support two Republican candidates in Florida special House elections: Jimmy Patronis (1st District) and Randy Fine (6th District). The strategic spending demonstrates Musk's continued political engagement while serving as a White House adviser, with Randy Fine ultimately winning his race.

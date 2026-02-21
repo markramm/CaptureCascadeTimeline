@@ -26,8 +26,6 @@ actors:
 - Asian Governments
 capture_lanes:
 - Financial Capture
-- Economic Transformation
-- Global Economic Policy
 status: validated
 ---
 

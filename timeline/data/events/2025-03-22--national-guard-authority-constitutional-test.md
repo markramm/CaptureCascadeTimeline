@@ -2,13 +2,7 @@
 id: 2025-03-22--national-guard-authority-constitutional-test
 date: '2025-03-22'
 title: Trump's National Guard Federalization Triggers Constitutional Crisis in California
-description: In June 2025, President Trump issued a controversial memorandum ordering
-  the deployment of 2,000 California National Guard personnel to Los Angeles, allegedly
-  in response to protests against ICE operations. This action directly challenged
-  long-standing legal precedents requiring gubernatorial consent for National Guard
-  federalization under 10 U.S.C. § 12406. Governor Gavin Newsom immediately filed
-  a lawsuit, arguing the deployment violated state sovereignty and exceeded presidential
-  authority.
+description: In June 2025, President Trump issued a controversial memorandum ordering the deployment of 2,000 California National Guard personnel to Los Angeles, allegedly in response to protests against ICE operations. This action directly challenged long-standing legal precedents requiring gubernatorial consent for National Guard federalization under 10 U.S.C. § 12406. Governor Gavin Newsom immediately filed a lawsuit, arguing the deployment violated state sovereignty and exceeded presidential authority.
 importance: 9
 location: California, Los Angeles
 actors:
@@ -44,7 +38,6 @@ capture_lanes:
 - Judicial Capture
 - Regulatory Capture
 - Executive Power Expansion
-- Constitutional Subversion
 capture_type: institutional_manipulation
 patterns:
 - democratic-backsliding
@@ -52,8 +45,7 @@ patterns:
 connections:
 - Presidential authority challenges
 - State sovereignty disputes
-notes: First major test of National Guard federalization authority since 1965, highlighting
-  potential constitutional crisis mechanisms.
+notes: First major test of National Guard federalization authority since 1965, highlighting potential constitutional crisis mechanisms.
 ---
 
 President Trump attempted to federalize the California National Guard without Governor Newsom's consent, sparking a major constitutional showdown. A federal court issued a temporary restraining order, blocking the deployment and challenging the president's authority under Title 10, marking a critical test of federal-state military control.

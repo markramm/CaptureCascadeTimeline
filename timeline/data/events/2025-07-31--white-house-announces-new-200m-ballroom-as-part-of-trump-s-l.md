@@ -16,7 +16,6 @@ tags:
 - trump-administration
 capture_lanes:
 - Executive Power Expansion
-- Presidential Vanity Project
 capture_type: infrastructure_manipulation
 sources:
 - outlet: ABC News
@@ -28,8 +27,7 @@ sources:
   url: https://www.npr.org/2025/07/31/nx-s1-5487590/trump-ballroom-white-house
   date: '2025-07-31'
 - outlet: U.S. News & World Report
-  title: White House Announces New $200M Ballroom as Part of Trump's Latest Makeover
-    of 'The People's House'
+  title: White House Announces New $200M Ballroom as Part of Trump's Latest Makeover of 'The People's House'
   url: https://www.usnews.com/news/us/articles/2025-07-31/construction-on-200-million-white-house-ballroom-to-begin-in-september
   date: '2025-07-31'
 status: confirmed

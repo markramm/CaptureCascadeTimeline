@@ -10,7 +10,6 @@ actors:
 - Elon Musk
 capture_lanes:
 - Regulatory Capture
-- Telecommunications Infrastructure
 capture_type: regulatory_manipulation
 importance: 7
 location: Washington, D.C.
@@ -36,8 +35,7 @@ sources:
 connections:
 - 2025-09-08--spacex-echostar-17b-spectrum-sale
 status: confirmed
-notes: Regulatory inquiry led to significant spectrum license sale. Demonstrates complex
-  telecommunications infrastructure capture mechanisms.
+notes: Regulatory inquiry led to significant spectrum license sale. Demonstrates complex telecommunications infrastructure capture mechanisms.
 ---
 
 FCC Chairman Brendan Carr initiated an official inquiry into EchoStar's Mobile Satellite Services (MSS) spectrum utilization after SpaceX challenged the company's license compliance. SpaceX alleged EchoStar was using less than 5% of its allocated spectrum, potentially setting the stage for license reallocation. This inquiry coincided with broader FCC efforts to optimize spectrum efficiency and promote 5G and satellite communication infrastructure.

@@ -30,7 +30,6 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
-- Global Economic Manipulation
 ---
 
 On July 2, 1997, Thailand devalued the Thai baht after exhausting foreign currency reserves, marking the beginning of the Asian Financial Crisis. The currency fell from 25 baht per U.S. dollar to 54 baht per dollar by January 1998. The IMF and global financial institutions mobilized over $118 billion in emergency loans, contingent on structural reforms that included financial sector restructuring, improved governance, and fiscal policy realignment. The crisis rapidly spread across East Asia, causing sharp economic contractions in Malaysia, Philippines, Indonesia, and South Korea.

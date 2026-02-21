@@ -1,8 +1,7 @@
 ---
 id: 2017-06-15--reserve-trust-kansas-city-fed-corruption
 date: '2017-06-15'
-title: Kansas City Fed Denies Reserve Trust Master Account Amid Potential Regulatory
-  Capture
+title: Kansas City Fed Denies Reserve Trust Master Account Amid Potential Regulatory Capture
 importance: 8
 tags:
 - federal-reserve
@@ -23,8 +22,7 @@ actors:
 - Cynthia Lummis
 sources:
 - url: https://www.cnbc.com/2022/02/15/bank-regulator-disputes-kc-fed-claim-about-firm-linked-to-biden-nominee-raskin.html
-  title: State bank regulator disputes KC Fed's claim about fintech firm linked to
-    Biden nominee Raskin
+  title: State bank regulator disputes KC Fed's claim about fintech firm linked to Biden nominee Raskin
   outlet: CNBC
   date: '2022-02-15'
 - url: https://www.bankingdive.com/news/kc-fed-has-revoked-reserve-trusts-master-account-toomey-says/625217/
@@ -32,15 +30,13 @@ sources:
   outlet: Banking Dive
   date: '2022-06-22'
 - url: https://rollcall.com/2022/02/11/tester-says-hes-reviewing-fed-nominee-raskin-as-senate-banking-approaches-vote/
-  title: Tester says he's reviewing Fed nominee Raskin as Senate Banking approaches
-    vote
+  title: Tester says he's reviewing Fed nominee Raskin as Senate Banking approaches vote
   outlet: Roll Call
   date: '2022-02-11'
 status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Financial Technology Regulation
 - Executive Power Expansion
 ---
 

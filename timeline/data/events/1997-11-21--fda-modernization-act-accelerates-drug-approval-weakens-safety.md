@@ -28,7 +28,6 @@ sources:
   url: https://www.ncbi.nlm.nih.gov/pmc/journals/809/
   date: '2011-01-01'
 capture_lanes:
-- Healthcare Industry Capture
 - Regulatory Capture
 status: confirmed
 ---

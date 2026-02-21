@@ -33,7 +33,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial Capture
-- Economic Capture
 ---
 
 Senator Nelson Aldrich of Rhode Island, chairman of the National Monetary Commission, submitted his "Suggested Plan for Monetary Legislation" proposing creation of a National Reserve Association to reform the nation's banking system. The plan emerged from a secret November 1910 meeting at the Jekyll Island Club off the coast of Georgia, where six men—Nelson Aldrich, A. Piatt Andrew, Henry Davison, Arthur Shelton, Frank Vanderlip, and Paul Warburg—gathered to design a central banking system. The meeting's occurrence and purpose were closely guarded secrets; participants did not admit the meeting happened until the 1930s. Congress had created the National Monetary Commission following the Panic of 1907, recognizing the nation could no longer rely on wealthy individuals like JP Morgan to single-handedly stem financial crises. The Aldrich-Vreeland Act of 1908 provided for emergency currency issuance and established the eighteen-member commission to determine necessary changes to the nation's monetary system.

@@ -1,8 +1,7 @@
 ---
 id: 2025-02-10--the-recruitment-effort-that-helped-build-elon-musk-s-doge-ar
 date: '2025-02-10'
-title: Musk Recruits Engineers for Department of Government Efficiency via Targeted
-  Online Networks
+title: Musk Recruits Engineers for Department of Government Efficiency via Targeted Online Networks
 actors:
 - Elon Musk
 - Anthony Jansco
@@ -16,7 +15,6 @@ tags:
 - government-efficiency
 capture_lanes:
 - Systematic Corruption
-- Tech Influence
 capture_type: networked_recruitment
 sources:
 - date: '2025-02-10'
@@ -25,8 +23,7 @@ sources:
   url: https://www.wired.com/story/elon-musk-doge-recruiting-palantir/
 - date: '2025-02-10'
   outlet: Yahoo News
-  title: Musk recruited young DOGE army through online chat groups and Discord servers,
-    report claims
+  title: Musk recruited young DOGE army through online chat groups and Discord servers, report claims
   url: https://www.yahoo.com/news/musk-recruited-young-doge-army-205456407.html
 - date: '2025-02-10'
   outlet: Attention to the Unseen

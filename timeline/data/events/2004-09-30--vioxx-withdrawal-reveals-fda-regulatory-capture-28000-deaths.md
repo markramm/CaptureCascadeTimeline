@@ -29,7 +29,6 @@ sources:
   url: https://www.nejm.org
   date: '2004-11-01'
 capture_lanes:
-- Healthcare Industry Capture
 - Regulatory Capture
 status: confirmed
 ---

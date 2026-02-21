@@ -19,7 +19,6 @@ tags:
 - global-economic-policy
 capture_lanes:
 - Financial Capture
-- International Economic Policy
 sources:
 - outlet: IMF - Finance & Development
   title: 'The Asian Crisis: Causes and Cures'

@@ -28,7 +28,6 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
-- Healthcare Policy
 ---
 
 Dr. Robert Califf confirmed as FDA Commissioner by a narrow Senate vote of 50-46, highlighting ongoing concerns about pharmaceutical industry regulatory capture. Historical evidence suggests a systemic 'revolving door' between FDA and pharmaceutical companies, with approximately 27% of drug reviewers transitioning to industry roles. This pattern creates significant potential conflicts of interest and undermines regulatory oversight capabilities.

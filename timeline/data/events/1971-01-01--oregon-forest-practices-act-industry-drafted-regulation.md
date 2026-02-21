@@ -1,8 +1,7 @@
 ---
 id: 1971-01-01--oregon-forest-practices-act-industry-drafted-regulation
 date: '1971-01-01'
-title: Oregon Passes Nation's First Forest Practices Act, Drafted by Timber Industry
-  to Preempt Federal Regulation
+title: Oregon Passes Nation's First Forest Practices Act, Drafted by Timber Industry to Preempt Federal Regulation
 importance: 7
 location: Salem, Oregon
 actors:
@@ -35,8 +34,7 @@ sources:
   date: '2020-09-22'
   verified: true
   tier: 1
-- title: Big money bought Oregon's forests. Small timber communities are paying the
-    price
+- title: Big money bought Oregon's forests. Small timber communities are paying the price
   url: https://www.opb.org/news/article/oregon-investigation-timber-logging-forests-policy-taxes-spotted-owl/
   outlet: Oregon Public Broadcasting
   date: '2020-06-13'
@@ -60,7 +58,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Corporate Self-Regulation
 ---
 
 

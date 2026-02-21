@@ -33,7 +33,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Financial Capture
-- Economic Capture
 ---
 
 John Pierpont Morgan, the seventy-five-year-old financier who had dominated American banking for decades, died at the Grand Hotel in Rome. House of Morgan partners blamed his death on the stress of testifying before the Pujo Committee in December 1912, though other health factors were involved. Morgan's doctor declared he had died of "a general nervous and physical breakdown," with The New York Times headline declaring "J. PIERPONT MORGAN DEAD IN ROME; FINANCIER WORN OUT BY OVERWORK." Just three months earlier, Morgan had endured grueling testimony before the House Banking Committee's investigation into the "Money Trust"—a concentrated group of Wall Street bankers exerting powerful control over the nation's finances through 341 interlocking directorships controlling over $22 billion in resources. Morgan's daughter Louisa worried over the stress, while his son Jack supplied associates with optimistic reports claiming his father was in "splendid form," using the code-name "Flitch." His trip to the Capitol for the Pujo appearance transpired aboard a private train with Louisa, several business partners, and fifteen lawyers in the retinue.

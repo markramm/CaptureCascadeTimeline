@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
-- Think Tank Capture
 ---
 
 ExxonMobil significantly expanded its climate denial funding operation in 2003, channeling millions of dollars to a network of think tanks and front groups designed to manufacture doubt about climate science. The oil giant gave £3.5 million ($4.8 million) to climate skeptic organizations in the United States during 2003 alone, with specific grants including $225,000 to the American Enterprise Institute, $25,000 to the Cato Institute, and $25,000 to the Marshall Institute. Between 2000 and 2003, Mother Jones magazine documented that ExxonMobil channeled at least $8,678,450 to forty organizations that employed disinformation campaigns against climate science.

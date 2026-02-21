@@ -42,7 +42,6 @@ status: confirmed
 capture_lanes:
 - Legislative Capture
 - Regulatory Capture
-- State Government Capture
 ---
 
 The American Legislative Exchange Council (ALEC) distributed model bills in 2010 designed to kill regional climate pacts like the Regional Greenhouse Gas Initiative (RGGI) in New England and the mid-Atlantic, marking a strategic shift from federal to state-level climate denial efforts. ALEC activist Clint Woods confirmed in September 2010 that RGGI and other regional cap-and-trade regimes had become the "new battlefield" since federal climate legislation had been derailed. While receiving tens of thousands of dollars from Koch Industries and ExxonMobil, ALEC adopted a model resolution stating that "a tremendous amount of economic growth would be sacrificed for a reduction in carbon emissions."

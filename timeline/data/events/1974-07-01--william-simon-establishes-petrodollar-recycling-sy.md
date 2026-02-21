@@ -31,8 +31,6 @@ status: confirmed
 priority_id: RT-EXP-28753E16-trilateral-commission-1973-banking-networks
 capture_lanes:
 - Financial Capture
-- Monetary Policy Manipulation
-- International Economic Strategy
 ---
 
 US Treasury Secretary William Simon negotiated a pivotal agreement with Saudi Arabia that established the petrodollar recycling system, fundamentally reshaping global monetary dynamics. Simon convinced Saudi Arabia to sell oil exclusively in US dollars and invest oil revenues in US Treasury bonds, creating a mechanism that would sustain US dollar global dominance for decades. This secret diplomatic and financial arrangement ensured Saudi oil profits would be reinvested in US financial markets, military equipment, and government securities.

@@ -1,12 +1,8 @@
 ---
 id: 2025-07-25--what-to-know-about-trump-s-golf-business-in-scotland-and-bri
 date: '2025-07-25'
-title: Trump Leverages Golf Properties for Diplomatic Negotiations and Trade Deal
-  in Scotland
-description: President Trump used his Scottish golf course as a strategic venue for
-  high-level diplomatic meetings, negotiating a new US-EU trade deal and discussing
-  economic interests while simultaneously pursuing British Open hosting rights for
-  Turnberry.
+title: Trump Leverages Golf Properties for Diplomatic Negotiations and Trade Deal in Scotland
+description: President Trump used his Scottish golf course as a strategic venue for high-level diplomatic meetings, negotiating a new US-EU trade deal and discussing economic interests while simultaneously pursuing British Open hosting rights for Turnberry.
 status: confirmed
 importance: 7
 location:
@@ -39,8 +35,7 @@ sources:
   url: https://www.gov.scot/news/first-minister-meets-with-the-president-of-the-united-states/
   outlet: Scottish Government
   date: '2025-07-25'
-- title: What to know about Trump's golf business in Scotland and British Open bid
-    amid overseas trip
+- title: What to know about Trump's golf business in Scotland and British Open bid amid overseas trip
   url: https://abcnews.go.com/Politics/trumps-golf-business-scotland-british-open-bid-amid/story?id=123972692
   outlet: ABC News
   date: '2025-07-25'
@@ -49,11 +44,9 @@ connections:
 - Golf course business interests
 patterns:
 - kleptocratic-capture
-notes: Comprehensive documentation tracking intersection of business interests and
-  diplomatic negotiations
+notes: Comprehensive documentation tracking intersection of business interests and diplomatic negotiations
 capture_lanes:
 - Systematic Corruption
-- Diplomatic Conflicts of Interest
 ---
 
 President Trump used his Scottish golf course as a strategic venue for high-level diplomatic meetings, negotiating a new US-EU trade deal and discussing economic interests while simultaneously pursuing British Open hosting rights for Turnberry. During a five-day visit, Trump met with UK Prime Minister Keir Starmer and European Commission President Ursula von der Leyen, blending business interests with diplomatic negotiations.

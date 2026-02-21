@@ -31,7 +31,6 @@ tags:
 - congressional-investigation
 status: confirmed
 capture_lanes:
-- Economic Capture
 - Financial Capture
 ---
 

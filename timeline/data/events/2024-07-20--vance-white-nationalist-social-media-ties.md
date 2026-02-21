@@ -9,23 +9,19 @@ actors:
 capture_lanes:
 - Media Capture & Control
 - Intelligence Penetration
-- Social Media Extremism
-- Political Extremist Networks
 date: '2024-07-20'
 id: 2024-07-20--vance-white-nationalist-social-media-ties
 importance: 8
 priority_id: jd-vance-pdf-analysis-1757456537
 sources:
 - outlet: Yahoo News
-  title: 'White nationalist bodybuilders and liberal elites: Here''s who JD Vance
-    is following on X'
+  title: 'White nationalist bodybuilders and liberal elites: Here''s who JD Vance is following on X'
   url: https://www.yahoo.com/news/white-nationalist-bodybuilders-liberal-elites-134415332.html
 - outlet: The New Republic
   title: Why Is J.D. Vance Still Following This Hitler Apologist?
   url: https://newrepublic.com/post/185616/jd-vance-following-hitler-apologist
 - outlet: ProPublica
-  title: J.D. Vance Praised Alex Jones as a Truth-Teller in Speech to Leonard Leo-Backed
-    Group
+  title: J.D. Vance Praised Alex Jones as a Truth-Teller in Speech to Leonard Leo-Backed Group
   url: https://www.propublica.org/article/jd-vance-alex-jones-leonard-leo-teneo-maddow-video
   notes: Provides context about Vance's connections to right-wing networks
 status: confirmed

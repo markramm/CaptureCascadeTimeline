@@ -42,7 +42,6 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Academic/Scientific Capture
 - Media Capture & Control
 ---
 

@@ -38,7 +38,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Foreign Policy & Imperialism
 ---
 
 An explosion tears through the hull of the USS Maine anchored in Havana Harbor, Cuba, sinking the ship and killing 266 American sailors. Sober observers and an initial report by the colonial government of Cuba conclude the explosion occurred on board, but newspaper magnates William Randolph Hearst and Joseph Pulitzer, who have spent years selling papers by fanning anti-Spanish public opinion, immediately publish rumors of Spanish plots to sink the ship. When informed of the disaster, Hearst tells his editors at the New York Journal to "spread the story all over the page. This means war." Hearst offers a $50,000 reward for solving the mystery but makes clear whom he considers guilty. The New York World and Journal both publish a fabricated "suppressed cable" from the Maine's captain to Navy Secretary John D. Long claiming the explosion was not accidental—the cable is a complete fake.

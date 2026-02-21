@@ -5,21 +5,16 @@ actors:
 - Ștefan Berciu
 capture_lanes:
 - Systematic Corruption
-- International Business Expansion
 capture_type: monetizing_position
 connections:
 - description: Potential expansion of Trump brand into Balkan real estate markets
   related_event: Trump Tower Belgrade planning
 date: '2025-07-12'
-description: In a strategic expansion move, the Trump Organization announced a partnership
-  with Romanian real estate developer SDC Imobiliare to construct a luxury residential
-  tower in Bucharest, signaling continued international business interests despite
-  previous political controversies
+description: In a strategic expansion move, the Trump Organization announced a partnership with Romanian real estate developer SDC Imobiliare to construct a luxury residential tower in Bucharest, signaling continued international business interests despite previous political controversies
 id: 2025-07-12--trump-organization-expands-balkan-connection-with-romania-de
 importance: 7
 location: Bucharest, Romania
-notes: Event highlights ongoing Trump Organization international business strategy,
-  leveraging previous political connections for real estate development
+notes: Event highlights ongoing Trump Organization international business strategy, leveraging previous political connections for real estate development
 patterns:
 - kleptocratic-capture
 - international-business-expansion
@@ -34,8 +29,7 @@ sources:
   url: https://www.romania-insider.com/trump-organization-luxury-project-romania-2025
 - date: '2025-07-12'
   outlet: CNBC
-  title: Trump Organization plans to build tower block with luxury apartments in Romanian
-    capital
+  title: Trump Organization plans to build tower block with luxury apartments in Romanian capital
   url: https://www.cnbc.com/2025/07/12/trump-organization-luxury-apartments-bucharest.html
 - date: '2025-07-12'
   outlet: U.S. News & World Report

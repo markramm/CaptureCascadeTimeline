@@ -33,7 +33,6 @@ priority_id: RT-EXP-000FDDDA-dubai-ports-world-attempted-takeover
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
-- Foreign Investment Review
 ---
 
 On October 15, 2005, Dubai Ports World (DPW), a UAE state-owned company, initiated a CFIUS review to acquire British firm P&O's port management operations, which included six major U.S. ports. The 30-day review process involved 12 government agencies, with the Intelligence Community providing critical threat assessments. Coast Guard intelligence raised initial concerns about intelligence gaps in understanding DPW's operations. Despite these concerns, DPW provided security assurances, and by January 17, 2006, CFIUS unanimously approved the transaction. However, intense congressional and public opposition ultimately led DPW to divest its U.S. port terminal operations in March 2006.

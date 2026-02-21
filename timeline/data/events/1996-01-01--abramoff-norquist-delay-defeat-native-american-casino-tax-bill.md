@@ -30,7 +30,6 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture
-- Corporate Lobbying
 status: verified
 priority_id: RT-EXP-95366B7D-jack-abramoff-indian-casino-network
 ---

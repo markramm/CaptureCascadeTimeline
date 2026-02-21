@@ -27,7 +27,6 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Public Health Dismantlement
 - Regulatory Capture
 ---
 

@@ -5,13 +5,10 @@ actors:
 - Trump Administration
 capture_lanes:
 - Regulatory Capture
-- Education Policy
 capture_type: regulatory_capture
 connections: []
 date: '2025-07-26'
-description: Trump's nominee Nicholas Kent, with deep ties to for-profit colleges,
-  becomes Under Secretary of Education, raising concerns about potential regulatory
-  capture and reduced oversight of higher education institutions.
+description: Trump's nominee Nicholas Kent, with deep ties to for-profit colleges, becomes Under Secretary of Education, raising concerns about potential regulatory capture and reduced oversight of higher education institutions.
 id: 2025-07-26--trump-is-seeking-to-reshape-higher-education-meet-the-man-he
 importance: 8
 location: Washington, D.C.
@@ -22,8 +19,7 @@ patterns:
 sources:
 - date: '2025-07-26'
   outlet: USA Today
-  title: Trump is seeking to reshape higher education. Meet the man he wants leading
-    the charge
+  title: Trump is seeking to reshape higher education. Meet the man he wants leading the charge
   url: https://www.usatoday.com/story/news/investigations/2025/07/26/trump-education-department-nicholas-kent-under-secretary/85243626007/?tbref=hp
 - date: '2025-08-04'
   outlet: Inside Higher Ed
@@ -44,8 +40,7 @@ tags:
 - education
 - trump-administration
 - for-profit-colleges
-title: Trump Appoints Nicholas Kent, For-Profit College Insider, as Education Under
-  Secretary
+title: Trump Appoints Nicholas Kent, For-Profit College Insider, as Education Under Secretary
 ---
 
 Nicholas Kent, formerly a policy officer at for-profit college association CECU, was sworn in as Under Secretary of Education, signaling potential deregulation and reduced oversight of higher education institutions. The Senate confirmed his nomination with a narrow 50-45 vote, amid concerns about his ties to for-profit colleges.

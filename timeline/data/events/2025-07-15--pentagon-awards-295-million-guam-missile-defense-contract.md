@@ -17,7 +17,6 @@ tags:
 - local-displacement
 capture_lanes:
 - Military-Industrial Complex
-- Colonial Administration
 sources:
 - title: Pentagon Awards $295M Contract for Guam Defense System Command Center
   url: https://news.usni.org/2025/07/15/pentagon-awards-295-million-contract-for-guam-defense-system-command-center

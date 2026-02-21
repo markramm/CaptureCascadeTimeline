@@ -7,7 +7,6 @@ actors:
 - Biden Administration
 capture_lanes:
 - Systematic Corruption
-- Infrastructure Policy
 citations:
 - https://www.gao.gov/assets/880/877916.pdf
 - https://www.govexec.com/oversight/2025/05/gao-transportation-department-cant-withhold-electric-vehicle-infrastructure-program-funds/405534

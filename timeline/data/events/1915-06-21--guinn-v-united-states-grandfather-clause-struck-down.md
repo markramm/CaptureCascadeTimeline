@@ -31,7 +31,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
-- Legal System Manipulation
 ---
 
 The Supreme Court unanimously struck down Oklahoma's grandfather clause in Guinn v. United States, marking the first time the Court invalidated a state voting restriction as a Fifteenth Amendment violation since Reconstruction. Chief Justice Edward White, himself a former Confederate soldier and Louisiana segregationist, wrote that Oklahoma's transparent attempt to exempt whites from literacy tests while disenfranchising Black voters violated the constitutional prohibition on racial discrimination in voting.

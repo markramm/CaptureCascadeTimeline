@@ -11,7 +11,6 @@ actors:
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
-- Global Economic Governance
 date: '1999-03-25'
 id: 1999-03-25--long-term-geopolitical-consequences
 importance: 8

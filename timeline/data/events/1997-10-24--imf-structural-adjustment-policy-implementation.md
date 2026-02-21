@@ -32,7 +32,6 @@ status: confirmed
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
-- Economic Policy Transformation
 ---
 
 The IMF mandates comprehensive structural adjustment policies for affected Asian countries, including Indonesia, South Korea, and Thailand. These policies involve privatization, trade liberalization, and financial deregulation, fundamentally transforming local economic structures to benefit multinational corporate interests. The IMF provided approximately $36 billion in support, with bailout packages of $40 billion to Indonesia, $20 billion to Thailand, and $59 billion to South Korea, contingent on deep economic reforms.

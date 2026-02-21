@@ -1,14 +1,8 @@
 ---
 id: 2025-02-10--with-firings-and-lax-enforcement-trump-moving-to-dismantle-g
 date: '2025-02-10'
-title: Trump Systematically Removes Key Government Ethics and Whistleblower Protection
-  Officials
-description: Trump systematically removed key government oversight officials, firing
-  the heads of the Office of Government Ethics (David Huitema) and the Office of Special
-  Counsel (Hampton Dellinger), and the National Archivist (Colleen Shogan). These
-  removals follow a pattern of eliminating independent oversight, with Doug Collins
-  appointed as acting head of multiple agencies. Dellinger filed a lawsuit challenging
-  his removal, arguing it violated legal protections for the Special Counsel position.
+title: Trump Systematically Removes Key Government Ethics and Whistleblower Protection Officials
+description: Trump systematically removed key government oversight officials, firing the heads of the Office of Government Ethics (David Huitema) and the Office of Special Counsel (Hampton Dellinger), and the National Archivist (Colleen Shogan). These removals follow a pattern of eliminating independent oversight, with Doug Collins appointed as acting head of multiple agencies. Dellinger filed a lawsuit challenging his removal, arguing it violated legal protections for the Special Counsel position.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -47,7 +41,6 @@ patterns:
 notes: Comprehensive documentation of systematic removal of government oversight officials
 capture_lanes:
 - Intelligence Penetration
-- Administrative Capture
 ---
 
 In a systematic move to dismantle government oversight, Trump fired the heads of the Office of Government Ethics and Office of Special Counsel, undermining key anti-corruption safeguards and potentially exposing whistleblower information.

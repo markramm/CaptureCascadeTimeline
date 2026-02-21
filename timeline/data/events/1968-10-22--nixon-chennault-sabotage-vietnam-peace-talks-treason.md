@@ -12,17 +12,17 @@ actors:
 - Ambassador Bui Diem
 - President Lyndon B. Johnson
 sources:
-- title: 'The Anna Chennault Affair'
+- title: The Anna Chennault Affair
   outlet: Wilson Center
   url: https://www.wilsoncenter.org/blog-post/anna-chennault-affair-south-vietnamese-side-wars-greatest-conspiracy-theory
   verified: true
   tier: 1
-- title: 'The Chennault Affair'
+- title: The Chennault Affair
   outlet: LBJ Presidential Library
   url: https://www.lbjlibrary.org/media-kit/chennault-affair
   verified: true
   tier: 1
-- title: 'Notes Indicate Nixon Interfered With 1968 Peace Talks'
+- title: Notes Indicate Nixon Interfered With 1968 Peace Talks
   outlet: Smithsonian Magazine
   url: https://www.smithsonianmag.com/smart-news/notes-indicate-nixon-interfered-1968-peace-talks-180961627/
   verified: true
@@ -40,8 +40,6 @@ tags:
 - institutional-corruption
 capture_lanes:
 - Electoral Manipulation
-- Foreign Policy Sabotage
-- Treason and Accountability Failure
 status: confirmed
 ---
 

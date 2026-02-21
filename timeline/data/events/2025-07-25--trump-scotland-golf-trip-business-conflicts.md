@@ -1,11 +1,8 @@
 ---
 id: 2025-07-25--trump-scotland-golf-trip-business-conflicts
 date: '2025-07-25'
-title: Trump's Scotland Golf Course Trip Blends Presidential Duties with Private Business
-  Interests
-description: During a five-day trip to Scotland, Trump opened a new golf course at
-  Trump International Golf Links Aberdeen and held diplomatic meetings, simultaneously
-  promoting his family's business and conducting official presidential duties
+title: Trump's Scotland Golf Course Trip Blends Presidential Duties with Private Business Interests
+description: During a five-day trip to Scotland, Trump opened a new golf course at Trump International Golf Links Aberdeen and held diplomatic meetings, simultaneously promoting his family's business and conducting official presidential duties
 status: confirmed
 importance: 8
 location: Scotland
@@ -20,8 +17,7 @@ tags:
 - business-corruption
 capture_type: monetizing_position
 sources:
-- title: Trump's Trip to Scotland as His New Golf Course Opens Blurs Politics and
-    the Family's Business
+- title: Trump's Trip to Scotland as His New Golf Course Opens Blurs Politics and the Family's Business
   url: https://apnews.com/article/trump-scotland-golf-course-opening-legal-issues-92aa09043e036d6aa87ad99e5fd755bb
   outlet: Associated Press
   date: '2025-07-25'
@@ -38,17 +34,13 @@ connections:
 patterns:
 - kleptocratic-capture
 - presidential-self-dealing
-notes: 'Estimated taxpayer cost of trip: $10 million. Diplomatic meetings held at
-  Trump-owned golf properties, raising significant ethical concerns.'
+notes: 'Estimated taxpayer cost of trip: $10 million. Diplomatic meetings held at Trump-owned golf properties, raising significant ethical concerns.'
 capture_lanes:
 - Systematic Corruption
-- Presidential Conflicts of Interest
 implications:
   economic_cost: Approximately $10 million in taxpayer expenses
-  ethical_concerns: Continued blending of presidential duties with personal business
-    promotion
-  diplomatic_context: Trade discussions and bilateral meetings conducted at Trump-owned
-    properties
+  ethical_concerns: Continued blending of presidential duties with personal business promotion
+  diplomatic_context: Trade discussions and bilateral meetings conducted at Trump-owned properties
 ---
 
 President Trump traveled to Scotland to open a new golf course, using official diplomatic meetings and taxpayer-funded trip to promote personal business interests, raising significant ethical concerns about conflicts of interest

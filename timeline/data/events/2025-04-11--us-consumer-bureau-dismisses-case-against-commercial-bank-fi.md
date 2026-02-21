@@ -2,9 +2,7 @@
 id: 2025-04-11--us-consumer-bureau-dismisses-case-against-commercial-bank-fi
 date: '2025-04-11'
 title: CFPB Dismisses Lawsuit Against Comerica Bank Over Federal Benefits Card Program
-description: The CFPB dismissed a significant lawsuit against Comerica Bank that had
-  accused the institution of systematically mistreating millions of disabled and elderly
-  customers through the Direct Express federal benefits card program
+description: The CFPB dismissed a significant lawsuit against Comerica Bank that had accused the institution of systematically mistreating millions of disabled and elderly customers through the Direct Express federal benefits card program
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -41,13 +39,10 @@ patterns:
 - kleptocratic-capture
 - regulatory-capture
 - administrative-transformation
-notes: Lawsuit originally filed in December 2024 by Rohit Chopra, dropped without
-  prejudice under new CFPB leadership. BNY Mellon replaced Comerica for Direct Express
-  contract in January 2025.
+notes: Lawsuit originally filed in December 2024 by Rohit Chopra, dropped without prejudice under new CFPB leadership. BNY Mellon replaced Comerica for Direct Express contract in January 2025.
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Government Contracts
 ---
 
 The CFPB dismissed a lawsuit against Comerica Bank that had accused the bank of systematically mistreating 3.4 million federal benefits cardholders through disconnected customer service, illegal fees, and mishandled fraud complaints. The lawsuit, originally filed in December 2024 by then-Director Rohit Chopra, was dropped without prejudice, potentially allowing future refiling.

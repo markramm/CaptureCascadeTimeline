@@ -1,8 +1,7 @@
 ---
 id: 1937-05-30--memorial-day-massacre-police-kill-ten-strikers-republic-steel
 date: '1937-05-30'
-title: Memorial Day Massacre - Chicago Police Kill Ten Strikers and Wound 90 at Republic
-  Steel Using Corporate-Supplied Weapons
+title: Memorial Day Massacre - Chicago Police Kill Ten Strikers and Wound 90 at Republic Steel Using Corporate-Supplied Weapons
 importance: 9
 actors:
 - Chicago Police Department
@@ -44,7 +43,6 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 - Labor Suppression
-- Immigration Enforcement
 ---
 
 

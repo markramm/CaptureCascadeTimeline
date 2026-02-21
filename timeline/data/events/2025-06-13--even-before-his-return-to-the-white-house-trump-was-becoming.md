@@ -41,7 +41,6 @@ capture_lanes:
 - Financial Capture
 - Legislative Capture
 - Executive Power Expansion
-- Media and Brand Monetization
 ---
 
 President Trump's 2024 financial disclosure revealed he earned approximately $57.4 million from World Liberty Financial, a crypto venture launched during his presidential campaign, alongside $1.2 million from NFT collectibles. These earnings represent a significant monetization of his political brand through cryptocurrency and digital assets.

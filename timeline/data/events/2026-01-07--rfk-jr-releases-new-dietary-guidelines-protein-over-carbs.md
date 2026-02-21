@@ -33,7 +33,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Public Health Policy
 ---
 
 HHS Secretary Robert F. Kennedy Jr. and USDA Secretary Brooke Rollins released the Dietary Guidelines for Americans, 2025–2030, which Kennedy called "the most significant reset of federal nutrition policy in history." At a White House briefing, Kennedy declared: "As secretary of Health and Human Services, my message is clear: Eat real food."

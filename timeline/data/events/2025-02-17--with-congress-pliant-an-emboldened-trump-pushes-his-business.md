@@ -2,8 +2,7 @@
 id: 2025-02-17--with-congress-pliant-an-emboldened-trump-pushes-his-business
 date: '2025-02-17'
 title: Trump Leverages Presidential Position in PGA-LIV Golf Merger Negotiations
-description: Trump leverages presidential position to broker a complex golf league
-  merger with potential personal business implications
+description: Trump leverages presidential position to broker a complex golf league merger with potential personal business implications
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -19,8 +18,7 @@ tags:
 - trump-business
 capture_type: monetizing_position
 sources:
-- title: Trump meets with PGA Tour commissioner after saying he can fix professional
-    golf's division
+- title: Trump meets with PGA Tour commissioner after saying he can fix professional golf's division
   url: https://www.pbs.org/newshour/nation/trump-meets-with-pga-tour-commissioner-after-saying-he-can-fix-professional-golfs-division
   outlet: PBS News
   date: '2025-02-13'
@@ -36,12 +34,10 @@ connections: []
 patterns:
 - kleptocratic-capture
 - power_monetization
-notes: Demonstrates Trump's ongoing use of political influence for potential personal
-  business advantage
+notes: Demonstrates Trump's ongoing use of political influence for potential personal business advantage
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
-- Business Negotiation
 ---
 
 President Trump actively intervened in negotiations between PGA Tour and LIV Golf, hosting meetings with executives and claiming ability to broker a merger, raising questions about potential conflicts of interest and personal business motivations

@@ -17,7 +17,6 @@ tags:
 - economic-exploitation
 capture_lanes:
 - Military-Industrial Complex
-- Colonial Administration
 sources:
 - title: Navy seeks to expand Guam housing to support troop buildup
   url: https://www.navytimes.com/news/your-navy/2025/09/16/navy-seeks-to-expand-guam-housing-to-support-troop-buildup/

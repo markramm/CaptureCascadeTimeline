@@ -7,7 +7,6 @@ actors:
 capture_lanes:
 - Electoral Manipulation
 - Executive Power Expansion
-- International Business Influence
 capture_type: monetizing_position
 connections:
 - Three Seas Initiative

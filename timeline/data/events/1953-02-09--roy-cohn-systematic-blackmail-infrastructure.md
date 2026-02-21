@@ -40,7 +40,6 @@ status: confirmed
 capture_lanes:
 - Legislative Capture
 - Intelligence Penetration
-- Political Manipulation
 ---
 
 In early 1953, Roy Cohn begins developing a systematic blackmail infrastructure during the McCarthy Senate hearings, leveraging anti-communist hysteria and homophobic tactics to gather compromising information on political and cultural figures. As 24-year-old chief counsel to Senator Joseph McCarthy, Cohn creates an early model of political manipulation through personal compromise, targeting LGBTQ individuals, suspected communists, and potential political threats. His network will eventually include connections to organized crime, intelligence agencies, and political elites across multiple decades, demonstrating a sophisticated approach to institutional penetration and control.

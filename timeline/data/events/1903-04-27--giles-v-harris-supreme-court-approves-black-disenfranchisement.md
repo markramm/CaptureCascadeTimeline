@@ -32,7 +32,6 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
-- Legal System Manipulation
 ---
 
 The Supreme Court ruled 6-3 in Giles v. Harris that federal courts cannot enforce Black voting rights under the Fifteenth Amendment, effectively sanctioning the wave of disenfranchisement sweeping the South. Justice Oliver Wendell Holmes Jr., writing for the majority, acknowledged that Alabama's 1901 constitution was designed to disenfranchise Black voters but held that courts were powerless to remedy such "political" questions.

@@ -16,7 +16,6 @@ tags:
 - media-suppression
 capture_lanes:
 - Media Capture & Control
-- Authoritarian Power Consolidation
 sources:
 - outlet: PBS NewsHour
   title: Russian Media Tycoon, Vladimir Gusinsky, Arrested
@@ -27,8 +26,7 @@ sources:
   url: https://www.govinfo.gov/content/pkg/CRECB-2000-pt8/html/CRECB-2000-pt8-Pg11437-2.htm
   date: '2000-06-14'
 - outlet: International Press Institute
-  title: 'Letter: Independent Russian media owner Vladimir Gusinsky arrested and detained
-    by authorities'
+  title: 'Letter: Independent Russian media owner Vladimir Gusinsky arrested and detained by authorities'
   url: https://ipi.media/letter-independent-russian-media-owner-vladimir-gusinsky-arrested-and-detained-by-authorities/
   date: '2000-06-14'
 status: confirmed

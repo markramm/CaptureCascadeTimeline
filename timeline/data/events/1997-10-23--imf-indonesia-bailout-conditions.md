@@ -31,7 +31,6 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Intelligence Penetration
-- Economic Sovereignty
 status: confirmed
 ---
 

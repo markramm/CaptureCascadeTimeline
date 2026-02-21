@@ -1,11 +1,8 @@
 ---
 id: 2025-06-16--trump-organization-announces-mobile-plan-499-smartphone
 date: '2025-06-16'
-title: 'Trump Organization Announces Trump Mobile: $499 Smartphone and $47.45 Monthly
-  Plan'
-description: The Trump Organization announced a new mobile phone offering–dubbed Trump
-  Mobile–with a $499 smartphone and a $47.45 monthly plan, capitalizing on the firm's
-  political brand recognition and targeting conservative consumers.
+title: 'Trump Organization Announces Trump Mobile: $499 Smartphone and $47.45 Monthly Plan'
+description: The Trump Organization announced a new mobile phone offering–dubbed Trump Mobile–with a $499 smartphone and a $47.45 monthly plan, capitalizing on the firm's political brand recognition and targeting conservative consumers.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -36,13 +33,10 @@ connections: []
 patterns:
 - kleptocratic-capture
 - brand-exploitation
-notes: Event highlights the Trump Organization's continued strategy of monetizing
-  political brand recognition. The service is positioned with explicit political messaging,
-  including references to Trump being the 45th and 47th president.
+notes: Event highlights the Trump Organization's continued strategy of monetizing political brand recognition. The service is positioned with explicit political messaging, including references to Trump being the 45th and 47th president.
 capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
-- Brand Monetization
 ---
 
 The Trump Organization launched Trump Mobile, a new mobile phone service featuring the T1 smartphone priced at $499 and a $47.45 monthly plan dubbed 'The 47 Plan'. Positioned as a patriotic, American-made mobile service, the launch capitalizes on Trump's political brand and aims to target conservative consumers.

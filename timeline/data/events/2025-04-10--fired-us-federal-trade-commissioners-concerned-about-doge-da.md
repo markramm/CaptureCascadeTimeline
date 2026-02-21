@@ -8,14 +8,9 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
-- Technology Sector Capture
 capture_type: personnel_rewiring
 date: '2025-04-10'
-description: Fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya raised urgent
-  concerns about the Trump administration's 'Department of Government Efficiency'
-  (DOGE) gaining potential access to confidential merger files and nonpublic business
-  data, which could be exploited to manipulate markets or benefit specific corporate
-  interests.
+description: Fired FTC Commissioners Rebecca Slaughter and Alvaro Bedoya raised urgent concerns about the Trump administration's 'Department of Government Efficiency' (DOGE) gaining potential access to confidential merger files and nonpublic business data, which could be exploited to manipulate markets or benefit specific corporate interests.
 id: 2025-04-10--fired-us-federal-trade-commissioners-concerned-about-doge-da
 importance: 9
 location: Washington, D.C.

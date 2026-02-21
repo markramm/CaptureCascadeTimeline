@@ -2,10 +2,7 @@
 id: 2025-05-28--trump-pardons-criminals-with-maga-credentials-or-big-money
 date: '2025-05-28'
 title: Trump Pardons Criminals with MAGA Credentials or Big Money
-description: Trump's May 2025 pardons reveal a calculated strategy of political reward
-  and financial quid pro quo. By granting clemency to wealthy individuals and staunch
-  political supporters, Trump effectively monetized the presidential pardon power,
-  using it as a mechanism for political loyalty and potential financial gain.
+description: Trump's May 2025 pardons reveal a calculated strategy of political reward and financial quid pro quo. By granting clemency to wealthy individuals and staunch political supporters, Trump effectively monetized the presidential pardon power, using it as a mechanism for political loyalty and potential financial gain.
 actors:
 - Donald Trump
 - Trump Administration
@@ -48,18 +45,11 @@ patterns:
 - political-patronage
 capture_lanes:
 - Regulatory Capture
-- Political Influence
-notes: A comprehensive analysis reveals Trump's pardons are no longer about justice,
-  but about rewarding political loyalty and extracting potential future political
-  or financial benefits. The 'No MAGA Left Behind' philosophy transforms clemency
-  into a political transaction.
+notes: A comprehensive analysis reveals Trump's pardons are no longer about justice, but about rewarding political loyalty and extracting potential future political or financial benefits. The 'No MAGA Left Behind' philosophy transforms clemency into a political transaction.
 patterns_summary:
-  political_rewards: Pardons granted primarily to MAGA loyalists and wealthy campaign
-    contributors
-  power_monetization: Presidential clemency power used as a transactional political
-    tool
-  selective_justice: White-collar criminals with political connections receive preferential
-    treatment
+  political_rewards: Pardons granted primarily to MAGA loyalists and wealthy campaign contributors
+  power_monetization: Presidential clemency power used as a transactional political tool
+  selective_justice: White-collar criminals with political connections receive preferential treatment
 ---
 
 In a systematic display of political patronage, Trump granted executive clemency to a series of convicted individuals, prioritizing wealthy campaign contributors and ardent MAGA loyalists. These pardons represent a dramatic expansion of Trump's first-term pardon strategy, transforming the presidential clemency power into a transactional political tool.

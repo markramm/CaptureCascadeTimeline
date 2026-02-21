@@ -1,7 +1,6 @@
 ---
 date: '1998-04-03'
-title: American Petroleum Institute "Victory" Memo Outlines Climate Disinformation
-  Strategy
+title: American Petroleum Institute "Victory" Memo Outlines Climate Disinformation Strategy
 actors:
 - American Petroleum Institute
 - Randy Randol
@@ -29,6 +28,10 @@ sources:
 status: confirmed
 id: 1998-04-03--american-petroleum-institute-"victory"-memo-outlin
 priority_id: claude-priority-climate-denial-fossil-fuel-network
+capture_lanes:
+- Military-Industrial Complex
+- Environmental Capture
+- Media Capture & Control
 ---
 
 The American Petroleum Institute (API) organized and funded a Global Climate Science Communications Plan, revealed in the leaked "Victory" memo outlining a multiyear, multimillion-dollar scheme to create uncertainty about established climate science. Created months after the Kyoto Protocol was signed, the plan was developed by representatives from ExxonMobil (Randy Randol), Chevron, Southern Company and conservative organizations. The strategy aimed to achieve "victory" when "average citizens understand uncertainties in climate science" and "recognition of uncertainties becomes part of conventional wisdom." The plan included recruiting and training scientists to debunk global warming on radio shows, press briefings, and campus workshops while keeping their oil company funding secret. This represented a systematic approach to install "uncertainty" in public policy despite internal company knowledge that climate change was actively occurring. The memo was exposed on the front page of the New York Times, revealing the industry's coordinated disinformation campaign.

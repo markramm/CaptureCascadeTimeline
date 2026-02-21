@@ -7,8 +7,6 @@ actors:
 - South Korean Government
 capture_lanes:
 - Financial Capture
-- Economic Restructuring
-- Institutional Reform
 date: '1998-02-05'
 id: 1998-02-05--mckinsey-asian-markets-restructuring
 importance: 9

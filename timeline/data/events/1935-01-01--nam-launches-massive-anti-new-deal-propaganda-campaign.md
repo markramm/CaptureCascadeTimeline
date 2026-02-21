@@ -1,8 +1,7 @@
 ---
 id: 1935-01-01--nam-launches-massive-anti-new-deal-propaganda-campaign
 date: '1935-01-01'
-title: National Association of Manufacturers Launches Unprecedented Multi-Million
-  Dollar Anti-New Deal Propaganda Campaign
+title: National Association of Manufacturers Launches Unprecedented Multi-Million Dollar Anti-New Deal Propaganda Campaign
 importance: 8
 actors:
 - National Association of Manufacturers
@@ -21,8 +20,7 @@ tags:
 - media-manipulation
 - astroturf
 sources:
-- title: How American Businessmen Made Us Believe that Free Enterprise was Indivisible
-    from American Democracy
+- title: How American Businessmen Made Us Believe that Free Enterprise was Indivisible from American Democracy
   url: https://www.cambridge.org/core/books/disinformation-age/how-american-businessmen-made-us-believe-that-free-enterprise-was-indivisible-from-american-democracy-the-national-association-of-manufacturers-propaganda-campaign-19351940/39EF97CA5DF92FBA60588364D38FA76E
   outlet: Cambridge University Press
   date: '2018-01-01'
@@ -57,7 +55,6 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Academic/Scientific Capture
 - Media Capture & Control
 ---
 

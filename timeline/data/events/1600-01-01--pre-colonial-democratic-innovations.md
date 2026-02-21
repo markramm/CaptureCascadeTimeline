@@ -28,7 +28,6 @@ tags:
 - pre-colonial-democracy
 capture_lanes:
 - Systematic Corruption
-- Institutional Governance
 status: validated
 ---
 

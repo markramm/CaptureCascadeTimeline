@@ -40,7 +40,6 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Intelligence Penetration
-- National Security Assessment
 capture_type: foreign_infrastructure_influence
 patterns:
 - foreign-influence-networks

@@ -35,7 +35,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression
-- Immigration Enforcement
 ---
 
 Congress passes and President George Washington signs the Naturalization Act of 1790 (1 Stat. 103), the first federal law establishing uniform rules for granting United States citizenship through naturalization. The Act limits naturalization eligibility to "free white person(s)... of good character," explicitly excluding Black people, Indigenous people, indentured servants, and all non-white immigrants from pathways to citizenship. In practice, only white male property owners can naturalize and acquire citizenship status, while women, nonwhite persons, and indentured servants cannot. This creates the legal category of "aliens ineligible for citizenship" that persists for 162 years, profoundly shaping American society by establishing a racialized citizenship caste system embedded in federal law from the republic's inception.

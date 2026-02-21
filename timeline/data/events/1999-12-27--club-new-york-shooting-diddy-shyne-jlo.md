@@ -8,7 +8,6 @@ actors:
 - Anthony 'Wolf' Jones
 capture_lanes:
 - Systematic Corruption
-- Entertainment Industry Power Dynamics
 date: '1999-12-27'
 id: 1999-12-27--club-new-york-shooting-diddy-shyne-jlo
 importance: 7
@@ -19,8 +18,7 @@ sources:
   url: https://en.wikipedia.org/wiki/1999_New_York_City_nightclub_shooting
 - date: '2025-04-01'
   outlet: Unlimited Hangout
-  title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein
-    Network'
+  title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
 - date: '2024-04-01'
   outlet: Mercury News

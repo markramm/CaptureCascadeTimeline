@@ -18,8 +18,7 @@ tags:
 - record-label
 - mysterious-funding
 sources:
-- title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein
-    Network'
+- title: 'One Label Under Blackmail: The Early Intersections of Diddy and the Epstein Network'
   url: https://unlimitedhangout.com/2025/04/investigative-series/one-label-under-blackmail-the-early-intersections-of-diddy-and-the-epstein-network/
   outlet: Unlimited Hangout
   date: '2025-04-01'
@@ -31,8 +30,7 @@ sources:
   url: https://www.fundinguniverse.com/company-histories/bad-boy-worldwide-entertainment-group-history/
   outlet: Funding Universe
   date: '2024-07-15'
-  key_details: Initial $1.5M investment from Arista Records, Combs secured creative
-    control
+  key_details: Initial $1.5M investment from Arista Records, Combs secured creative control
 - title: 'Bad Boy Entertainment: Origins and Rise (1992-1996)'
   url: https://www.blackpast.org/african-american-history/groups-organizations-african-american-history/bad-boy-entertainment-1992/
   outlet: BlackPast.org
@@ -41,7 +39,6 @@ sources:
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Entertainment Industry
 ---
 
 Sean Combs establishes Bad Boy Records after being fired from Uptown Records, securing a $1.5 million investment from Arista Records under Clive Davis's leadership. The label quickly became a dominant force in hip-hop, with Combs negotiating a 50% ownership stake by 1996 and signing landmark artists like The Notorious B.I.G. The opaque initial funding raised questions about potential connections to broader entertainment and financial networks.
