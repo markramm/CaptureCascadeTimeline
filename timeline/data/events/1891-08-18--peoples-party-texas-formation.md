@@ -1,14 +1,14 @@
 ---
 id: 1891-08-18--peoples-party-texas-formation
 date: '1891-08-18'
-title: 'People''s Party Officially Forms in Texas, Launching Populist Movement'
+title: People's Party Officially Forms in Texas, Launching Populist Movement
 importance: 8
 actors:
 - Farmers' Alliance
 - Knights of Labor
 - People's Party
 sources:
-- title: 'Populist Party (United States)'
+- title: Populist Party (United States)
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Populist_Party_(United_States)
   year: 2024
@@ -16,7 +16,7 @@ sources:
   outlet: Texas State Historical Association
   url: https://www.tshaonline.org/handbook/entries/peoples-party
   year: 2024
-- title: 'Birth of the People''s Party'
+- title: Birth of the People's Party
   outlet: EBSCO Research Starters
   url: https://www.ebsco.com/research-starters/history/birth-peoples-party
   year: 2024
@@ -26,9 +26,7 @@ tags:
 - labor-organizing
 - corporate-resistance
 capture_lanes:
-- Third Party Formation
-- Agrarian Insurgency
-- Anti-Corporate Coalition
+- Corporate Capture
 status: confirmed
 ---
 

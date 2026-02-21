@@ -1,13 +1,8 @@
 ---
 id: 2025-04-19--amazon-and-meta-are-among-the-corporate-sponsors-of-the-whit
-title: Amazon and Meta are among the corporate sponsors of the White House Easter
-  Egg Roll
+title: Amazon and Meta are among the corporate sponsors of the White House Easter Egg Roll
 date: '2025-04-19'
-description: The White House contracted with Harbinger to solicit corporate sponsorships
-  for the annual Easter Egg Roll, offering tiered branding opportunities from $75,000
-  to $200,000. The Platinum tier ($200,000) includes a 900-square-foot booth, 150
-  event tickets, and a brunch hosted by Melania Trump, marking an unprecedented commercialization
-  of a traditionally non-partisan White House event.
+description: The White House contracted with Harbinger to solicit corporate sponsorships for the annual Easter Egg Roll, offering tiered branding opportunities from $75,000 to $200,000. The Platinum tier ($200,000) includes a 900-square-foot booth, 150 event tickets, and a brunch hosted by Melania Trump, marking an unprecedented commercialization of a traditionally non-partisan White House event.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -26,8 +21,7 @@ tags:
 - monetization
 capture_type: monetizing_position
 sources:
-- title: Amazon and Meta are among the corporate sponsors of the White House Easter
-    Egg Roll
+- title: Amazon and Meta are among the corporate sponsors of the White House Easter Egg Roll
   url: https://www.npr.org/2025/04/19/g-s1-61377/white-house-easter-egg-roll-corporate-sponsors
   outlet: National Public Radio
   date: '2025-04-19'
@@ -53,7 +47,7 @@ notes: Event from comprehensive timeline tracking democratic erosion.
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
-- Corporate Influence
+- Corporate Capture
 ---
 
 For the first time in White House history, the Easter Egg Roll is sold to corporate sponsors, with tech giants Meta, Amazon, and YouTube purchasing sponsorships ranging from $75,000 to $200,000, raising significant ethical concerns about monetizing public events.

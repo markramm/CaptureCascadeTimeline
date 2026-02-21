@@ -37,6 +37,10 @@ sources:
   outlet: Wikipedia
   date: '2024-11-15'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 FTX cryptocurrency exchange, Alameda Research, and over 100 affiliated entities file for bankruptcy following the exposure of systematic fraud by founder Sam Bankman-Fried. The collapse was triggered on November 2 when CoinDesk revealed that Alameda Research—FTX's affiliated trading firm owned by Bankman-Fried—held massive amounts of FTX's exchange token (FTT), creating an inherent conflict of interest. Binance CEO Changpeng Zhao's November 6 announcement that Binance would sell its FTT holdings triggered a bank run, exposing that FTX had misappropriated customer funds. Bankman-Fried resigns as CEO and is replaced by John J. Ray III, who previously steered Enron through bankruptcy and later testified that FTX represented the worst corporate controls failure he had ever seen.

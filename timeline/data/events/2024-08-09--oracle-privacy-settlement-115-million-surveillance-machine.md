@@ -31,6 +31,10 @@ sources:
   date: '2022-08-22'
   tier: 2
   outlet: TechCrunch
+capture_lanes:
+- Corporate Capture
+- Judicial Capture
+- Surveillance Infrastructure
 ---
 
 U.S. District Judge Richard Seeborg granted preliminary approval on August 9, 2024, to a class action settlement requiring Oracle Corporation to pay $115 million and implement changes to its data brokerage practices. The settlement resolves the lawsuit filed in August 2022 alleging that Oracle operated a "worldwide surveillance machine" that violated the privacy of approximately 5 billion people by collecting and selling their personal information without consent.

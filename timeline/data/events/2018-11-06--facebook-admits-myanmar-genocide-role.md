@@ -1,7 +1,7 @@
 ---
 id: 2018-11-06--facebook-admits-myanmar-genocide-role
 date: '2018-11-06'
-title: 'Facebook Admits Platform Used to "Incite Offline Violence" in Myanmar Genocide, Implements No Systemic Changes'
+title: Facebook Admits Platform Used to "Incite Offline Violence" in Myanmar Genocide, Implements No Systemic Changes
 importance: 10
 actors:
 - Facebook
@@ -24,27 +24,26 @@ sources:
   outlet: CNN
   date: '2018-11-06'
   tier: 2
-- title: 'Facebook slammed by UN for its role in Myanmar genocide'
+- title: Facebook slammed by UN for its role in Myanmar genocide
   url: https://www.cjr.org/the_media_today/facebook-un-myanmar-genocide.php
   outlet: Columbia Journalism Review
   date: '2018-03-14'
   tier: 2
-- title: 'Facebook Failed The Rohingya In Myanmar'
+- title: Facebook Failed The Rohingya In Myanmar
   url: https://www.buzzfeednews.com/article/meghara/facebook-myanmar-rohingya-genocide
   outlet: BuzzFeed News
   date: '2018-08-15'
   tier: 2
-- title: 'Amnesty report finds Facebook amplified hate ahead of Rohingya massacre'
+- title: Amnesty report finds Facebook amplified hate ahead of Rohingya massacre
   url: https://www.pbs.org/newshour/world/amnesty-report-finds-facebook-amplified-hate-ahead-of-rohingya-massacre-in-myanmar
   outlet: PBS NewsHour
   date: '2022-09-29'
   tier: 1
 status: confirmed
 capture_lanes:
-- Genocide Facilitation
-- Corporate Impunity
-- Algorithm Violence
-- Performative Accountability
+- Corporate Capture
+- Media Capture & Control
+- Systematic Corruption
 ---
 
 Facebook publicly admits that its platform was used to "foment division and incite offline violence" in Myanmar's genocide against Rohingya Muslims, acknowledging the UN's determination that Facebook played a "determining role" in violence that killed thousands and displaced over 700,000 people. Despite this extraordinary corporate admission of facilitating genocide, Facebook implements no fundamental changes to its engagement-maximizing algorithm or surveillance capitalism business model.

@@ -1,8 +1,7 @@
 ---
 id: 1915-01-25--rockefeller-testifies-walsh-commission-industrial-relations
 date: '1915-01-25'
-title: 'Rockefeller Testifies Before Walsh Commission: Three Days of Public Humiliation
-  Over Ludlow Massacre'
+title: 'Rockefeller Testifies Before Walsh Commission: Three Days of Public Humiliation Over Ludlow Massacre'
 importance: 8
 actors:
 - John D. Rockefeller Jr.
@@ -40,8 +39,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Corporate Violence
-- Democratic Resistance
+- Corporate Capture
+- Democratic Erosion
 ---
 
 

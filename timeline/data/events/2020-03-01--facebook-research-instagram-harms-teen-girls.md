@@ -1,7 +1,7 @@
 ---
 id: 2020-03-01--facebook-research-instagram-harms-teen-girls
 date: '2020-03-01'
-title: 'Facebook Internal Research Confirms Instagram Toxic for Teen Girls, Conceals Findings While Targeting Youth'
+title: Facebook Internal Research Confirms Instagram Toxic for Teen Girls, Conceals Findings While Targeting Youth
 importance: 9
 actors:
 - Facebook
@@ -21,7 +21,7 @@ tags:
 - surveillance-capitalism
 - facebook-files
 sources:
-- title: 'Facebook knows Instagram is toxic for teen girls, company documents show'
+- title: Facebook knows Instagram is toxic for teen girls, company documents show
   url: https://www.congress.gov/117/meeting/house/114054/documents/HHRG-117-IF02-20210922-SD003.pdf
   outlet: Wall Street Journal / Congressional testimony
   date: '2021-09-14'
@@ -31,22 +31,20 @@ sources:
   outlet: Al Jazeera
   date: '2021-09-14'
   tier: 1
-- title: 'Facebook documents show how toxic Instagram is for teens'
+- title: Facebook documents show how toxic Instagram is for teens
   url: https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html
   outlet: CNBC
   date: '2021-09-14'
   tier: 2
-- title: 'Research on Instagram and teens from Facebook Files'
+- title: Research on Instagram and teens from Facebook Files
   url: https://fairplayforkids.org/research-on-instagram-and-teens-summaries-from-the-facebook-files/
   outlet: Fairplay
   date: '2021-10-05'
   tier: 2
 status: confirmed
 capture_lanes:
-- Corporate Child Harm
-- Surveillance Capitalism
-- Research Concealment
-- Knowing Malfeasance
+- Corporate Capture
+- Surveillance Infrastructure
 ---
 
 Facebook's internal research definitively confirms that Instagram is toxic for teenage girls, causing body image issues, depression, anxiety, and suicidal thoughts, but the company conceals these findings from the public while continuing to aggressively target youth users to drive engagement and revenue.

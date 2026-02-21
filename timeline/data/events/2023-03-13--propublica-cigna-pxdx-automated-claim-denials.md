@@ -24,6 +24,10 @@ sources:
   date: '2023-03-15'
   tier: 2
   outlet: Gardy & Notis LLP
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On March 13, 2023, ProPublica published an investigation revealing that health insurance giant Cigna used an automated system called PXDX to deny 300,000 claims over two months without doctors examining individual patient files—spending an average of just 1.2 seconds reviewing each case before rejecting payments for medical tests and procedures deemed "not medically necessary." The investigation exposed how health insurers have industrialized claim denial, using technology to deny medically necessary care at massive scale while maintaining the pretense of medical review. This represents a systematic business model where insurers profit by automatically rejecting legitimate claims, banking on the fact that fewer than 1% of patients will successfully appeal.

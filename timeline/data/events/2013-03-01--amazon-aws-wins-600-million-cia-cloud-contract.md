@@ -31,6 +31,10 @@ sources:
   date: 2013-03-25
   tier: 2
   outlet: HPCwire
+capture_lanes:
+- Corporate Capture
+- International Kleptocracy
+- Surveillance Infrastructure
 ---
 
 Amazon Web Services wins a $600 million contract to build a private cloud computing infrastructure for the Central Intelligence Agency, marking the CIA's first major cloud computing contract and establishing Amazon as a central infrastructure provider for the U.S. intelligence community. The contract, known as C2S (Commercial Cloud Services), faced legal challenges from IBM, which protested the award. IBM argued that its proposal would save the CIA $54 million and filed a formal protest with the Government Accountability Office in June 2013.

@@ -30,6 +30,10 @@ sources:
   date: 2004-07-07
   tier: 1
   outlet: NPR
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 On July 7, 2004, a federal grand jury indicted Enron founder and former CEO Kenneth Lay on 11 counts of securities fraud, wire fraud, and making false statements to banks. The indictment charged that Lay repeatedly lied to investors, employees, and federal regulators about Enron's deteriorating financial condition while enriching himself through stock sales and fraudulent transactions.

@@ -39,9 +39,8 @@ sources:
 status: confirmed
 id: 2017-03-20--youtube-ads-on-terrorism-hate-content
 capture_lanes:
-- Corporate Negligence
-- Terrorism Financing
-- Hate Speech Amplification
+- Corporate Capture
+- Media Capture & Control
 capture_type: corporate_negligence
 patterns:
 - monetizing-extremism

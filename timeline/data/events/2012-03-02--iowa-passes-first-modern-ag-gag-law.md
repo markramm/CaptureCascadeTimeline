@@ -11,8 +11,8 @@ tags:
 - regulatory-capture
 - first-amendment
 capture_lanes:
-- corporate-rights-expansion
-- democratic-accountability-elimination
+- Corporate Capture
+- Democratic Erosion
 actors:
 - Iowa Legislature
 - Governor Terry Branstad

@@ -1,11 +1,8 @@
 ---
 id: 2025-01-30--not-just-big-tech-under-the-radar-corporations-rushed-to-don
 date: '2025-01-30'
-title: 'Not just Big Tech: under-the-radar corporations rushed to donate to Trump''s
-  inauguration'
-description: Major corporations, including CoreCivic, GEO Group, and Carrier, quietly
-  donated millions to Trump's inauguration while holding lucrative government contracts
-  or lobbying interests
+title: 'Not just Big Tech: under-the-radar corporations rushed to donate to Trump''s inauguration'
+description: Major corporations, including CoreCivic, GEO Group, and Carrier, quietly donated millions to Trump's inauguration while holding lucrative government contracts or lobbying interests
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -35,8 +32,7 @@ sources:
   url: https://www.brennancenter.org/our-work/research-reports/million-dollar-donors-flooded-trumps-second-inauguration
   outlet: Brennan Center for Justice
   date: '2025-02-20'
-  description: Analysis of corporate donation patterns and potential conflicts of
-    interest
+  description: Analysis of corporate donation patterns and potential conflicts of interest
 connections:
 - Corporate political donations
 - Government contract procurement
@@ -46,7 +42,7 @@ patterns:
 notes: Comprehensive documentation of corporate donations to 2025 presidential inauguration
 capture_lanes:
 - Systematic Corruption
-- Corporate Political Influence
+- Corporate Capture
 ---
 
 Major corporations donated millions to Trump's 2025 inauguration, with private prison firms CoreCivic and GEO Group contributing $2.8 million, and Carrier Global Corporation donating $1 million, while holding significant government contracts

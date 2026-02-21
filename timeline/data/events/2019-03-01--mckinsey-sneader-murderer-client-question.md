@@ -32,8 +32,8 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- authoritarian-capture
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 In March 2019, just months after Jamal Khashoggi's October 2018 assassination by Saudi agents on orders from Crown Prince Mohammed bin Salman, a reporter asks McKinsey Managing Director Kevin Sneader what McKinsey would do if they found out their client was a murderer. Sneader replies: 'You walk.' However, that same year, McKinsey's revenue from Saudi Arabia actually increases over the previous year, directly contradicting Sneader's stated ethical position. The exchange exposes the fundamental gap between McKinsey's public statements about values and its actual business decisions. Despite overwhelming evidence from Turkish investigators, the CIA, and a UN investigative team that Khashoggi's assassination was likely ordered by MBS - a key McKinsey client through Saudi Vision 2030 and other engagements - the firm not only continues its Saudi relationship but expands it financially. The contradiction illustrates McKinsey's internal refrain: 'If we don't work with X authoritarian country, Boston Consulting Group will,' revealing a race-to-the-bottom mentality where ethical principles are subordinated to market share and revenue growth. Sneader had previously apologized to South Africans in July 2018 for McKinsey's role in the Gupta state capture scandal. The 2019 exchange becomes emblematic of McKinsey's inability or unwillingness to apply its stated ethical standards when authoritarian clients generate substantial fees, with the firm treating Sneader's 'you walk' principle as aspirational rhetoric rather than binding policy.

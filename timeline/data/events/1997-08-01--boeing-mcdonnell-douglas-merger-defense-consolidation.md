@@ -36,6 +36,10 @@ sources:
   outlet: U.S. Government Accountability Office
   date: '1998-03-04'
   tier: 1
+capture_lanes:
+- Corporate Capture
+- Military-Industrial Complex
+- Regulatory Capture
 ---
 
 The Federal Trade Commission approved Boeing's $13.3 billion acquisition of McDonnell Douglas, completing a merger wave that reduced major U.S. defense contractors from 51 firms in the late 1980s to just five dominant primes by the late 1990s. The consolidation wave was actively encouraged by the Pentagon's 1993 "Last Supper" dinner where Defense Secretary Les Aspin and Deputy William Perry urged defense executives to merge rapidly in response to declining post-Cold War budgets.

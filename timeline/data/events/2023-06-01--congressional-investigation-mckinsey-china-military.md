@@ -36,8 +36,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- authoritarian-capture
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 The House Select Committee on the Chinese Communist Party, led by Chairman John Moolenaar (R-MI) along with Senators Marco Rubio (R-FL) and Joni Ernst (R-IA), exposes evidence that McKinsey & Company worked for the Chinese military and Chinese Communist Party while receiving over $480 million to consult for the U.S. military since 2008. The investigation reveals McKinsey failed to disclose consulting work for the Chinese government and appeared to misrepresent the firm's work under oath. In U.S. Bankruptcy Court sworn filings, McKinsey acknowledges that over two-dozen PRC government state-owned enterprises are its clients, including SOEs designated as Chinese Military Companies and subject to U.S. sanctions. These companies often spearhead CCP initiatives that directly challenge U.S. security and economic interests. McKinsey clients include China COSCO Shipping Corporation (COSCO), which Western defense analysts say has helped the People's Liberation Army Navy project power internationally, and China Communications, which built man-made islands in the South China Sea now serving as Chinese Navy staging grounds. In 2019, McKinsey accepted nearly $1.4 million from the Chinese government to develop a strategic plan for Qingdao, a key port city. Senators Josh Hawley (R-Mo.) and Marco Rubio (R-Fla.) send a letter to McKinsey's Global Managing Partner pressuring the company to dissolve its ties with the Chinese Communist Party. Senator Hawley introduces legislation to prohibit federal agencies from working with consulting firms that hold contracts with the Chinese government or CCP. The investigation establishes McKinsey as simultaneously empowering America's foremost strategic adversary while advising the U.S. defense establishment.

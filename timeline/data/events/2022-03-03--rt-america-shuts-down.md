@@ -38,6 +38,10 @@ sources:
   tier: 2
   outlet: Axios
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Labor Suppression
 ---
 
 RT America, the U.S.-based arm of Russia's state-controlled media network RT (Russia Today), announced on March 3, 2022 that it was immediately ceasing production and laying off more than 100 employees after major American cable distributors dropped the channel in response to Russia's invasion of Ukraine. RT America general manager Misha Solodovnikov informed staff during a brief meeting that the company was shutting down immediately, citing "unforeseen business interruption events."

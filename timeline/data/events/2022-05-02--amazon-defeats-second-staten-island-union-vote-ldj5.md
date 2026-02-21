@@ -29,6 +29,10 @@ sources:
   tier: 2
   outlet: Jacobin
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Electoral Manipulation
 ---
 
 # Amazon Defeats Second Staten Island Union Vote at LDJ5 Facility 618 to 380

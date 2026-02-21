@@ -50,8 +50,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Judicial Capture
-- Corporate Political Power
-- Climate Crisis Enablement
+- Corporate Capture
+- Environmental Capture
 - Regulatory Capture
 ---
 

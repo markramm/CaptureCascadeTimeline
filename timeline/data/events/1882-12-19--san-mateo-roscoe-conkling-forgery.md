@@ -1,7 +1,7 @@
 ---
 id: 1882-12-19--san-mateo-roscoe-conkling-forgery
 date: '1882-12-19'
-title: 'Roscoe Conkling''s Fraudulent Argument for Corporate Personhood in San Mateo County v. Southern Pacific'
+title: Roscoe Conkling's Fraudulent Argument for Corporate Personhood in San Mateo County v. Southern Pacific
 importance: 9
 actors:
 - Roscoe Conkling
@@ -10,16 +10,16 @@ actors:
 - San Mateo County
 - Joint Committee on Reconstruction
 sources:
-- title: 'San Mateo County v. Southern Pacific R. Co., 116 U.S. 138 (1885)'
+- title: San Mateo County v. Southern Pacific R. Co., 116 U.S. 138 (1885)
   url: https://supreme.justia.com/cases/federal/us/116/138/
   outlet: Justia U.S. Supreme Court Center
-- title: 'The History of Corporate Personhood'
+- title: The History of Corporate Personhood
   url: https://www.brennancenter.org/our-work/analysis-opinion/history-corporate-personhood
   outlet: Brennan Center for Justice
-- title: 'The Long March of the Corporate Rights Movement'
+- title: The Long March of the Corporate Rights Movement
   url: https://lareviewofbooks.org/article/the-long-march-of-the-corporate-rights-movement/
   outlet: Los Angeles Review of Books
-- title: 'Interpretation Of The Fourteenth Amendment Is Broadened'
+- title: Interpretation Of The Fourteenth Amendment Is Broadened
   url: https://www.annenbergclassroom.org/timeline_event/interpretation-of-the-fourteenth-amendment-is-broadened/
   outlet: Annenberg Classroom
 tags:
@@ -31,8 +31,8 @@ tags:
 - railroads
 - institutional-corruption
 capture_lanes:
-- Corporate Power & Influence
-- Judicial Capture & Corruption
+- Corporate Capture
+- Judicial Capture
 - Systematic Corruption
 status: confirmed
 ---

@@ -43,8 +43,8 @@ sources:
   date: '2024-01-01'
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- institutional-capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 

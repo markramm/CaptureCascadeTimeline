@@ -32,6 +32,10 @@ sources:
   outlet: Mercatus Center
   tier: 2
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Digital & Tech Capture
 ---
 
 Reagan's Antitrust Chief William Baxter released the Department of Justice's 1982 Merger Guidelines, fundamentally transforming how the federal government evaluated mergers and effectively repealing Congressional antitrust statutes through administrative policy. The FTC simultaneously released a statement supporting the changes to the previous 1968 Guidelines. The new guidelines introduced the Herfindahl-Hirschman Index (HHI) as the primary measure of market concentration, the 'hypothetical monopolist test' for market definition, and a 5% price increase threshold—technical-sounding metrics that in practice permitted massive consolidation the Celler-Kefauver Act was designed to prevent. Most significantly, the guidelines operationalized the Chicago School's 'consumer welfare standard,' replacing concerns about market structure, concentrated economic power, and competitive dynamics with narrow focus on short-term price effects. This allowed approval of vertical mergers (suppliers and distributors combining), conglomerate mergers (unrelated companies combining), and horizontal mergers that would have been blocked under pre-Reagan enforcement. The guidelines were revised in 1984, 1992, and 1997, each iteration embedding Chicago School ideology deeper into enforcement practice. Later DOJ officials would call the 1982 Guidelines 'the most successful law enforcement guidelines ever' and claim they 'fundamentally changed the way we think about mergers.' That change permitted four decades of unchecked consolidation: between 1982 and 2013, four or fewer firms came to control 85% or more of multiple American industries. The 1982 Merger Guidelines represent the key inflection point where antitrust enforcement—designed to prevent concentrated economic power—became a processing system that blessed corporate consolidation, all without requiring Congress to repeal a single antitrust statute.

@@ -16,7 +16,7 @@ tags:
 - cronyism
 sources:
 - url: https://www.whitehouse.gov/presidential-actions/2026/01/celebrating-american-greatness-with-american-motor-racing/
-  title: 'Celebrating American Greatness with American Motor Racing'
+  title: Celebrating American Greatness with American Motor Racing
   outlet: White House
   date: '2026-01-30'
   tier: 1
@@ -26,10 +26,12 @@ sources:
   date: '2026-01-30'
   tier: 1
 - url: https://abcnews.com/Politics/trump-orders-indycar-race-streets-dc-part-nations/story?id=129715111
-  title: "Trump orders IndyCar race on streets of DC as part of nation's 250th celebration"
+  title: Trump orders IndyCar race on streets of DC as part of nation's 250th celebration
   outlet: ABC News
   date: '2026-01-30'
   tier: 2
+capture_lanes:
+- Corporate Capture
 ---
 
 President Trump signed an executive order establishing the Freedom 250 Grand Prix, the first-ever INDYCAR street race in Washington, D.C., to be held near the National Mall on August 21-23, 2026, in celebration of America's 250th anniversary. The order directs the Secretaries of Interior and Transportation to designate a race route showcasing the National Mall within 14 days and to expedite all necessary permits and approvals, instructing agencies to treat the event as a special celebration and facilitate logistics including road maintenance and aerial photography. The race will be free to the public and broadcast on FOX, administered by INDYCAR, the Freedom 250 taskforce, federal agencies, and the city.

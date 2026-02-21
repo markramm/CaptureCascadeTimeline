@@ -2,9 +2,7 @@
 id: 2025-07-31--trump-mobile-wants-to-sell-you-telehealth-car-care-and-insur
 date: '2025-07-31'
 title: Trump Mobile Launches Comprehensive Wireless Service with Telehealth and Insurance
-description: Trump Mobile launched a comprehensive wireless service targeting conservative
-  consumers, offering a gold-toned smartphone, bundled telehealth, and car insurance
-  services with a patriotic positioning strategy.
+description: Trump Mobile launched a comprehensive wireless service targeting conservative consumers, offering a gold-toned smartphone, bundled telehealth, and car insurance services with a patriotic positioning strategy.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -43,11 +41,10 @@ patterns:
 - kleptocratic-capture
 - brand-monetization
 - vertical-integration
-notes: Complex business venture leveraging Trump brand for multi-service telecommunications
-  platform. Phone priced at $499, monthly service at $47.45 with bundled services.
+notes: Complex business venture leveraging Trump brand for multi-service telecommunications platform. Phone priced at $499, monthly service at $47.45 with bundled services.
 capture_lanes:
 - Systematic Corruption
-- Privatized Infrastructure
+- Corporate Capture
 ---
 
 Trump Mobile, led by Eric Trump and Donald Trump Jr., launched a comprehensive wireless service offering a $499 smartphone, $47.45 monthly plan, and bundled services including telehealth and car insurance. The venture operates on Liberty Mobile's network and targets conservative consumers with patriotic branding.

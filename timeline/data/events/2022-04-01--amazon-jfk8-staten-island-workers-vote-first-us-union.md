@@ -31,6 +31,10 @@ sources:
   tier: 1
   outlet: Labor Notes
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Electoral Manipulation
 ---
 
 # Amazon JFK8 Workers Vote to Form Company's First U.S. Union in Historic Victory

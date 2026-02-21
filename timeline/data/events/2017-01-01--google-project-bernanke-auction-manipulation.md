@@ -1,6 +1,6 @@
 ---
 date: '2017-01-01'
-title: 'Google Manipulates Ad Auctions Through "Project Bernanke" to Favor Own Exchange'
+title: Google Manipulates Ad Auctions Through "Project Bernanke" to Favor Own Exchange
 description: 'Internal documents revealed in the Texas Attorney General''s antitrust lawsuit exposed "Project Bernanke"—Google''s secret program that manipulated second-price ad auctions to advantage its own ad-buying platform. Launched in 2013, the program used historical bidding data and insider information to give Google Ads bidders unfair advantages over advertisers using competing platforms. Google dropped second-highest bids from publishers'' auctions, pooled the money, and used those funds to boost only Google Ads bidders—helping them win auctions they would have otherwise lost. Internal analysis showed Bernanke dropped publisher revenues by up to 40%, with one Google employee noting: "Bernanke is powerful." The systematic auction manipulation allowed Google to exploit both publishers (who received lower revenues) and advertisers (who paid inflated prices), exemplifying how vertical integration enabled fraud-level manipulation.'
 actors:
 - Google
@@ -37,10 +37,10 @@ sources:
 status: confirmed
 id: 2017-01-01--google-project-bernanke-auction-manipulation
 capture_lanes:
-- Corporate Crime
-- Monopolization
-- Market Manipulation
-- Fraud
+- Corporate Capture
+- Regulatory Capture
+- Financial Capture
+- Systematic Corruption
 capture_type: systematic_fraud
 patterns:
 - auction-manipulation

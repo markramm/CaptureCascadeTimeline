@@ -30,6 +30,10 @@ actors:
 - Jack Abramoff
 - Susan Hirschmann
 - Robert Wexler
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Center for Public Integrity investigation revealed that from January 2000 through June 2005, lawmakers and aides accepted at least 90 trips worth approximately $145,000 from sponsors matching firms registered to lobby the federal government. Analysis of privately funded congressional travel showed that private groups spent $15 million on congressional trips in 2005-2006 alone, with lobbyists using "fact-finding" trips and educational seminars to cultivate relationships with lawmakers and influence policy decisions. The revelation exposed how corporate interests systematically used travel perks to gain congressional access and favorable treatment.

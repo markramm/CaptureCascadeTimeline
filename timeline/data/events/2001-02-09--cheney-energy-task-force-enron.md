@@ -32,6 +32,10 @@ sources:
   date: '2005-05-11'
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Environmental Capture
+- Regulatory Capture
 ---
 
 Vice President Dick Cheney initiated secret meetings of the National Energy Policy Development Group, systematically involving Enron executives like Kenneth Lay while excluding environmental groups. Between late January and April 2001, the task force held at least 40 meetings with energy industry representatives and only one with environmental groups. Enron provided a three-page "wish list" of policy recommendations that were subsequently adopted verbatim in seven of eight policy areas of the May 2001 National Energy Policy report.

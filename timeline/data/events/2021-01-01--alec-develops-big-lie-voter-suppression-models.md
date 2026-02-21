@@ -33,9 +33,9 @@ sources:
   outlet: Center for Media and Democracy
   date: 2021-04-13
 capture_lanes:
-- State Capture
+- Corporate Capture
 - Electoral Manipulation
-- Corporate Influence
+- Systematic Corruption
 - Legislative Capture
 ---
 

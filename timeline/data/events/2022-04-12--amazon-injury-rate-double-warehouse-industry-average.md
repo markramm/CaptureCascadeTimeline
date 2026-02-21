@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: Strategic Organizing Center
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 # Amazon Injury Rate Double Warehouse Industry Average - 6.8 Per 100 Workers

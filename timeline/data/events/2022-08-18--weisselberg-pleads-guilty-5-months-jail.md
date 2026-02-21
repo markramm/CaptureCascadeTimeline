@@ -38,6 +38,10 @@ sources:
   tier: 1
   outlet: CNN
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Allen Weisselberg, the longtime Chief Financial Officer of the Trump Organization who served the company for nearly five decades, pleaded guilty in New York state court to 15 felony counts related to a 15-year tax fraud scheme, admitting he failed to pay taxes on $1.7 million in income including luxury perks such as Manhattan apartment rent, Mercedes-Benz leases, and private school tuition for his grandchildren. As part of the plea agreement, Weisselberg agreed to serve five months on Rikers Island and testify truthfully at the upcoming criminal trial of the Trump Organization, scheduled for October 2022. Manhattan District Attorney Alvin Bragg stated the plea agreement "directly implicates the Trump Organization in a wide range of criminal activity and requires Weisselberg to provide invaluable testimony in the upcoming trial against the corporation." The guilty plea represented a significant victory for prosecutors and a major threat to the Trump Organization, as Weisselberg's testimony would provide insider knowledge of decades of fraudulent business practices.

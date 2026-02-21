@@ -2,9 +2,7 @@
 id: 2025-03-21--pentagon-changed-course-for-musk-visit-after-report-about-hi
 date: '2025-03-21'
 title: Pentagon Alters Musk Meeting After Leaked War Plan Briefing Reports
-description: A planned Pentagon briefing for Elon Musk on potential U.S. war plans
-  against China was scaled back after media reports, highlighting complex dynamics
-  between tech leaders, government, and national security.
+description: A planned Pentagon briefing for Elon Musk on potential U.S. war plans against China was scaled back after media reports, highlighting complex dynamics between tech leaders, government, and national security.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -22,8 +20,7 @@ sources:
   url: https://www.npr.org/2025/03/21/g-s1-55121/elon-musk-pentagon
   outlet: NPR
   date: '2025-03-21'
-- title: 'Pentagon changed course for Musk visit after report about him viewing China
-    war plans: Officials'
+- title: 'Pentagon changed course for Musk visit after report about him viewing China war plans: Officials'
   url: https://abcnews.go.com/Politics/trump-denies-musk-briefed-china-war-plans/story?id=120024341
   outlet: ABC News
   date: '2025-03-21'
@@ -35,11 +32,10 @@ connections: []
 patterns:
 - kleptocratic-capture
 - tech-government-interface
-notes: Event from comprehensive kleptocracy timeline tracking. Original reported briefing
-  was modified due to media attention.
+notes: Event from comprehensive kleptocracy timeline tracking. Original reported briefing was modified due to media attention.
 capture_lanes:
 - Intelligence Penetration
-- Corporate-Government Interface
+- Corporate Capture
 ---
 
 The Pentagon modified a planned meeting with Elon Musk after reports emerged that he was set to receive a classified briefing on potential U.S. war plans against China. Trump administration officials denied Musk would receive sensitive information, and the meeting was ultimately scaled back to a discussion about innovation and production efficiencies.

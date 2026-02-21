@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: Consumer Financial Protection Bureau
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Intelligence Penetration
 ---
 
 During Betsy DeVos's confirmation hearing on January 17, 2017, Democrats raised urgent concerns about her financial investments in student debt collection companies—conflicts of interest that remained unreviewed because Republicans rushed the hearing before the Office of Government Ethics completed its analysis. Documents revealed that DeVos's firm RDV Corporation was affiliated with LMF WF Portfolio, a limited liability corporation involved in a $147 million loan to Performant Financial Corp., a debt collection agency that received 23% of its revenue ($20 million across 14 contracts) from Education Department student loan collection contracts.

@@ -12,12 +12,12 @@ sources:
   url: https://www.penguinrandomhouse.com/books/112381/in-retrospect-by-robert-s-mcnamara-with-brian-vandemark/
   verified: true
   tier: 1
-- title: 'How Robert McNamara Came to Write His Memoirs About Vietnam'
+- title: How Robert McNamara Came to Write His Memoirs About Vietnam
   outlet: Time
   url: https://time.com/6052980/vietnam-robert-mcnamara-memoir/
   verified: true
   tier: 1
-- title: 'The Confessions of Robert S. McNamara'
+- title: The Confessions of Robert S. McNamara
   outlet: Air & Space Forces Magazine
   url: https://www.airandspaceforces.com/article/0695edit/
   verified: true
@@ -28,9 +28,8 @@ tags:
 - institutional-corruption
 - accountability-failure
 capture_lanes:
-- Post-Facto Admission of Wrongdoing
-- Deferred Accountability
-- Credibility Gap Legacy
+- Corporate Capture
+- Systematic Corruption
 status: confirmed
 ---
 

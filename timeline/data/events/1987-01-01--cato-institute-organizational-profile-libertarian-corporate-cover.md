@@ -43,6 +43,10 @@ sources:
   outlet: InfluenceWatch
   date: '2024'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Environmental Capture
+- Regulatory Capture
 ---
 
 Comprehensive organizational analysis reveals Cato Institute as mechanism for laundering corporate deregulation agenda as 'libertarian principle.' Founded in 1977 by Ed Crane, Murray Rothbard, and Charles Koch with $500,000 initial funding from Koch Industries, Cato packages opposition to corporate regulation, environmental protection, and social insurance as philosophical commitment to individual liberty. This rhetorical strategy provides academic cover for policies serving Koch Industries and other extractive corporate interests while claiming to defend freedom.

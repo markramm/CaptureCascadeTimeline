@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: Business & Human Rights Resource Centre
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Electoral Manipulation
 ---
 
 # Amazon Refuses to Negotiate with JFK8 Union After NLRB Certification - Stalls Contract for Over a Year

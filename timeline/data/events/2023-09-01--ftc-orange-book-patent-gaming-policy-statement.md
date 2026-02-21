@@ -38,6 +38,10 @@ sources:
   url: https://www.crowell.com/en/insights/client-alerts/throwing-the-orange-book-at-pharmaceutical-manufacturers-ftc-challenges-over-100-drug-product-patents-listed-in-fda-publication
   outlet: Crowell & Moring
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Judicial Capture
+- Regulatory Capture
 ---
 
 The Federal Trade Commission issues a policy statement declaring that improper patent listings in the FDA's 'Orange Book' (Approved Drug Products with Therapeutic Equivalence Evaluations) constitute potential unfair methods of competition under Section 5 of the FTC Act or unlawful monopolization under Section 2 of the Sherman Act. The Orange Book lists patents covering approved drugs; when brand manufacturers list patents, it triggers an automatic 30-month stay blocking FDA approval of competing generics—even if courts later find the patents invalid or not infringed. This creates systematic incentives for pharmaceutical companies to engage in 'patent evergreening': listing patents of questionable validity (device patents, delivery mechanism patents, etc.) to delay generic competition and extend monopoly pricing. The Hatch-Waxman Act established the Orange Book system intending to balance innovation incentives with generic access, but pharmaceutical companies captured it for rent extraction. FTC Chairman Andrew N. Ferguson states: 'When firms use improper methods to limit competition in the market, it's everyday Americans who are harmed by higher prices and less access.' In November 2023, the FTC challenges over 100 patents as improperly listed. By May 2025, the FTC targets over 200 additional patents covering 17 brand-name products, sending warning letters to Amphastar, Mylan, Covis Pharma, and Teva entities. The FTC claims prior letters led to voluntary withdrawal of listings across 22 products. This represents rare regulatory pushback against systematic IP system capture for monopoly extension.

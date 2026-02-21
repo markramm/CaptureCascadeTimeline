@@ -31,9 +31,9 @@ tags:
 - consciousness-of-guilt
 status: confirmed
 capture_lanes:
-- Corporate Fraud
+- Corporate Capture
 - Regulatory Capture
-- Consciousness of Guilt
+- Systematic Corruption
 ---
 
 Boeing released hundreds of internal messages to Congressional investigators and the FAA on January 9, 2020, revealing that employees knew the 737 MAX was unsafe, mocked regulators, and conspired to deceive certification authorities. In one April 2017 exchange, just before the aircraft's first delivery, an employee wrote: "This airplane is designed by clowns who in turn are supervised by monkeys."

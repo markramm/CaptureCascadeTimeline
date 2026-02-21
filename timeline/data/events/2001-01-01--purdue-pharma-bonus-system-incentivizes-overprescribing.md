@@ -29,6 +29,10 @@ sources:
   date: '2016-06-01'
   tier: 2
   outlet: Harvard Business Review
+capture_lanes:
+- Corporate Capture
+- Military-Industrial Complex
+- Financial Capture
 ---
 
 Purdue Pharma's lucrative bonus system paid sales representatives an average of $71,500 in annual bonuses—more than their $55,000 base salary—with bonuses ranging from $15,000 to nearly $240,000. In 2001 alone, Purdue paid $40 million in sales incentive bonuses, systematically incentivizing representatives to increase OxyContin sales in their territories by targeting physicians with the highest rates of opioid prescriptions.

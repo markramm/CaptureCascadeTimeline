@@ -1,8 +1,7 @@
 ---
 id: 2017-03-30--mckinsey-detention-savings-food-medical-cuts
 date: '2017-03-30'
-title: 'McKinsey Proposes ''Detention Savings Opportunities'': Cuts to Food, Medical
-  Care, and Guard Supervision for Migrants'
+title: 'McKinsey Proposes ''Detention Savings Opportunities'': Cuts to Food, Medical Care, and Guard Supervision for Migrants'
 importance: 9
 actors:
 - McKinsey & Company
@@ -24,20 +23,17 @@ sources:
   outlet: ProPublica
   date: '2019-12-03'
   tier: 1
-- title: Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That
-    Even ICE Staff Viewed as Too Harsh on Immigrants
+- title: Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That Even ICE Staff Viewed as Too Harsh on Immigrants
   url: https://www.commondreams.org/news/2019/12/04/consulting-giant-mckinsey-suggested-detention-savings-opportunities-even-ice-staff
   outlet: Common Dreams
   date: '2019-12-04'
   tier: 2
-- title: 'Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding
-    for Detainees: Report'
+- title: 'Consulting Firm McKinsey & Company Told ICE to Cut Food, Medical Funding for Detainees: Report'
   url: https://www.thedailybeast.com/consulting-firm-mckinsey-and-company-told-ice-to-cut-food-medical-funding-for-detainees-report
   outlet: The Daily Beast
   date: '2019-12-03'
   tier: 2
-- title: Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump
-    donation was to blame
+- title: Oculus founder says he 'got fired' from Facebook, suggesting a pro-Trump donation was to blame
   url: https://www.cnbc.com/2019/05/22/oculus-co-founder-i-got-fired-from-facebook-for-no-reason-at-all.html
   outlet: CNBC
   date: '2019-05-22'
@@ -49,8 +45,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Government Capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 

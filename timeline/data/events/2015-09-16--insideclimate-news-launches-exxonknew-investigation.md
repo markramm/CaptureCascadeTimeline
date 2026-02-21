@@ -38,9 +38,9 @@ sources:
   outlet: Center for Climate Integrity
 status: confirmed
 capture_lanes:
-- Corporate Research Suppression
+- Corporate Capture
 - Media Capture & Control
-- Investigative Journalism
+- Democratic Erosion
 ---
 
 On September 16, 2015, InsideClimate News began publishing an eight-month investigation revealing that Exxon's own scientists warned executives as early as 1977 that burning fossil fuels was heating the planet, yet the company then worked at the forefront of climate denial for decades. The nine-part investigative series "Exxon: The Road Not Taken" exposed how Exxon conducted cutting-edge climate research in the 1970s-80s, confirming human-caused global warming, then systematically funded campaigns to manufacture doubt about the scientific consensus its own scientists had confirmed.

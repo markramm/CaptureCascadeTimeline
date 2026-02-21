@@ -2,10 +2,7 @@
 id: 2025-03-11--trump-turns-the-white-house-lawn-into-a-tesla-showroom
 date: '2025-03-11'
 title: Trump turns the White House lawn into a Tesla showroom
-description: President Trump hosted a Tesla showcase on the White House South Lawn,
-  personally inspecting vehicles and publicly endorsing the company amid declining
-  stock and public protests, raising significant ethical concerns about presidential
-  conduct and corporate influence.
+description: President Trump hosted a Tesla showcase on the White House South Lawn, personally inspecting vehicles and publicly endorsing the company amid declining stock and public protests, raising significant ethical concerns about presidential conduct and corporate influence.
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -37,12 +34,11 @@ connections: []
 patterns:
 - kleptocratic-capture
 - corporate-political-alignment
-notes: Unprecedented presidential endorsement of a private company on White House
-  grounds, highlighting potential conflicts of interest.
+notes: Unprecedented presidential endorsement of a private company on White House grounds, highlighting potential conflicts of interest.
 capture_lanes:
 - Legislative Capture
 - Executive Power Expansion
-- Corporate Influence
+- Corporate Capture
 ---
 
 President Trump turned the White House South Lawn into a Tesla showroom, personally endorsing the company and Elon Musk amid declining stock values. The event raised substantial ethical concerns about presidential influence and corporate favoritism, with Trump displaying five Tesla vehicles and claiming he would purchase a Model S for White House staff.

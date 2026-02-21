@@ -51,7 +51,7 @@ status: confirmed
 capture_lanes:
 - Judicial Capture
 - Electoral Manipulation
-- Corporate Political Power
+- Corporate Capture
 ---
 
 Supreme Court ruled 5-4 that corporations can spend unlimited amounts on elections through independent expenditures, enabling creation of Super PACs and dark money networks. The decision dramatically reshaped campaign finance, allowing corporations and unions to spend unlimited funds on independent political expenditures, fundamentally altering the landscape of American electoral politics. Later investigations revealed substantial transparency issues, with ProPublica reporting that tracing donor identities became nearly impossible, potentially allowing corporations to leverage tax advantages through anonymous political donations. In the 12 years following the decision, super PACs spent approximately $6.4 billion on federal elections, with just 21 of the biggest donor families contributing $783 million in the 2022 midterms. Public opinion polls showed overwhelming opposition: 80 percent of Americans across political spectrums strongly disagreed with the ruling.

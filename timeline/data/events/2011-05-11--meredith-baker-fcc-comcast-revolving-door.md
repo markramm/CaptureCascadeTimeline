@@ -31,6 +31,10 @@ sources:
   outlet: Reason Magazine
   date: '2011-05-11'
 id: 2011-05-11--meredith-baker-fcc-comcast-revolving-door
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Legislative Capture
 ---
 
 FCC Commissioner Meredith Attwell Baker announces her resignation to join Comcast-NBC Universal as senior vice president of governmental affairs, just four months after voting to approve the company's merger with NBC Universal. Baker was part of the 4-1 majority that approved the $30 billion merger in January 2011. The move sparked widespread criticism as a blatant example of the 'revolving door' between regulators and the industries they oversee. Critics called it 'the most blatant example of a so-called public servant cashing in at a company she is supposed to be regulating.' The New York Times editorial board condemned the 'swift shift from regulator to lobbyist for the regulated' as adding to Americans' cynicism about government. While Baker claimed she was not approached about the job during the merger review and recused herself from discussions after April 18, the timeline raised serious questions about regulatory capture and conflicts of interest. This case became emblematic of how telecommunications industry executives and regulators routinely exchange positions, undermining the independence of regulatory oversight.

@@ -37,6 +37,10 @@ sources:
   tier: 1
   outlet: CNN
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 The Manhattan District Attorney's office unsealed criminal charges against the Trump Organization, longtime CFO Allen Weisselberg, and the Trump Payroll Corporation, marking the first criminal case ever brought against former President Donald Trump's company. Prosecutors charged the defendants with 15 felony counts including scheme to defraud, conspiracy, criminal tax fraud, and falsifying business records in connection with an alleged 15-year scheme to compensate Weisselberg and other executives "off the books" to evade taxes. Manhattan District Attorney Cyrus Vance Jr. called it a "sweeping and audacious" tax fraud scheme in which Weisselberg received more than $1.7 million in untaxed compensation from 2005 to 2021, including luxury apartment rent, Mercedes-Benz leases, private school tuition for his grandchildren, and personal expenses. The indictment represented a significant escalation in criminal investigations of Trump's business practices, directly implicating the company in systematic fraud that enriched its most senior executive.

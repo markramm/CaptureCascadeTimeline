@@ -27,6 +27,10 @@ sources:
   date: 2024-05-30
   tier: 1
   outlet: The Hollywood Reporter
+capture_lanes:
+- Corporate Capture
+- Electoral Manipulation
+- Financial Capture
 ---
 
 Twenty years after "The Apprentice" premiered, former producer Bill Pruitt publishes a Slate article revealing that his highly restrictive non-disclosure agreement—which threatened a $5 million fine and potential jail time—has finally expired. Pruitt discloses that Donald Trump used the n-word on camera during the show's first season when discussing whether Black finalist Kwame Jackson should win the competition, stating "Yeah, but, I mean, would America buy a n— winning?" The revelation confirms long-standing rumors about racist footage being suppressed by NDAs and corporate legal structures.

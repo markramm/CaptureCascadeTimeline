@@ -32,7 +32,7 @@ tags:
 importance: 8
 capture_lanes:
 - Regulatory Capture
-- Corporate Fraud
+- Corporate Capture
 ---
 
 The SEC settled fraud charges against Nikola Corporation for $125 million, finding the electric vehicle company made materially false and misleading statements about its products, technical capabilities, and partnerships during its 2020 SPAC merger. Founder Trevor Milton falsely claimed the Nikola One semi-truck was functional when a demonstration video actually showed the truck being rolled downhill. The settlement followed Milton's criminal indictment for fraud and preceded Nikola's Chapter 11 bankruptcy filing in February 2025. The SEC became the largest unsecured creditor in Nikola's bankruptcy, with about $80 million in claims.

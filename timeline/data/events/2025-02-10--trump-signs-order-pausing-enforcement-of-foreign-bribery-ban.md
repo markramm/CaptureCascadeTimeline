@@ -7,28 +7,24 @@ actors:
 capture_lanes:
 - Intelligence Penetration
 - Executive Power Expansion
-- Corporate Accountability Reduction
+- Corporate Capture
 capture_type: monetizing_position
 connections:
 - Undermining anti-corruption legislation
 - Expanding executive power
 date: '2025-02-10'
-description: President Trump signed an executive order pausing enforcement of the
-  Foreign Corrupt Practices Act (FCPA), mandating a 180-day review of existing investigations
-  and establishing new guidelines that could significantly reduce anti-bribery prosecutions.
+description: President Trump signed an executive order pausing enforcement of the Foreign Corrupt Practices Act (FCPA), mandating a 180-day review of existing investigations and establishing new guidelines that could significantly reduce anti-bribery prosecutions.
 id: 2025-02-10--trump-signs-order-pausing-enforcement-of-foreign-bribery-ban
 importance: 8
 location: Washington, D.C.
-notes: Unprecedented pause in 47-year history of FCPA, potentially signaling major
-  shift in anti-corruption enforcement
+notes: Unprecedented pause in 47-year history of FCPA, potentially signaling major shift in anti-corruption enforcement
 patterns:
 - kleptocratic-capture
 - executive-power-expansion
 sources:
 - date: '2025-02-10'
   outlet: The White House
-  title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic
-    and National Security
+  title: Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic and National Security
   url: https://www.whitehouse.gov/presidential-actions/2025/02/pausing-foreign-corrupt-practices-act-enforcement-to-further-american-economic-and-national-security/
 - date: '2025-02-24'
   outlet: Harvard Corporate Governance

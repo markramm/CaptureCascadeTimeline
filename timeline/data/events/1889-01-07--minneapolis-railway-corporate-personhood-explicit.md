@@ -8,13 +8,13 @@ actors:
 - Justice Stephen Field
 - Minneapolis & St. Louis Railway Company
 sources:
-- title: 'Minneapolis & St. Louis Ry. Co. v. Beckwith, 129 U.S. 26 (1889)'
+- title: Minneapolis & St. Louis Ry. Co. v. Beckwith, 129 U.S. 26 (1889)
   url: https://supreme.justia.com/cases/federal/us/129/26/
   outlet: Justia U.S. Supreme Court Center
 - title: 'U.S. Reports: Minneapolis Railway Co. v. Beckwith, 129 U.S. 26 (1889)'
   url: https://www.loc.gov/item/usrep129026/
   outlet: Library of Congress
-- title: 'Minneapolis & St. Louis Railway Company v. Beckwith'
+- title: Minneapolis & St. Louis Railway Company v. Beckwith
   url: https://en.wikisource.org/wiki/Minneapolis_&_St._Louis_Railway_Company_v._Beckwith
   outlet: Wikisource
 tags:
@@ -25,8 +25,8 @@ tags:
 - equal-protection
 - corporate-rights
 capture_lanes:
-- Corporate Power & Influence
-- Judicial Capture & Corruption
+- Corporate Capture
+- Judicial Capture
 status: confirmed
 ---
 

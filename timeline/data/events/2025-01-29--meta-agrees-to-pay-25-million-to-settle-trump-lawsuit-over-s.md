@@ -5,33 +5,28 @@ actors:
 - Meta Corporation
 capture_lanes:
 - Media Capture & Control
-- Corporate Political Influence
+- Corporate Capture
 capture_type: monetizing_position
 connections:
 - January 6 Capitol Attack
 - Social Media Platform Censorship
 date: '2025-01-29'
-description: Meta paid Trump $25 million to settle a lawsuit he brought over his account
-  suspension after he inspired the January 6 insurrection, with most of the funds
-  going to his presidential library
+description: Meta paid Trump $25 million to settle a lawsuit he brought over his account suspension after he inspired the January 6 insurrection, with most of the funds going to his presidential library
 id: 2025-01-29--meta-agrees-to-pay-25-million-to-settle-trump-lawsuit-over-s
 importance: 8
 location: Washington, D.C.
-notes: Settlement highlights complex media capture dynamics and corporate political
-  appeasement
+notes: Settlement highlights complex media capture dynamics and corporate political appeasement
 patterns:
 - kleptocratic-capture
 - media-manipulation
 sources:
 - date: '2025-01-29'
   outlet: NPR
-  title: Meta agrees to pay $25 million to settle Trump's lawsuit over Facebook, Instagram
-    suspensions
+  title: Meta agrees to pay $25 million to settle Trump's lawsuit over Facebook, Instagram suspensions
   url: https://www.npr.org/2025/01/29/nx-s1-5279570/meta-trump-settlement-facebook-instagram-suspensions
 - date: '2025-01-29'
   outlet: CNBC
-  title: Meta agrees to pay $25 million in Trump lawsuit settlement over suspended
-    accounts
+  title: Meta agrees to pay $25 million in Trump lawsuit settlement over suspended accounts
   url: https://www.cnbc.com/2025/01/29/meta-agrees-to-pay-25-million-in-trump-lawsuit-settlement-over-suspended-accounts.html
 - date: '2025-01-29'
   outlet: Al Jazeera

@@ -30,6 +30,10 @@ sources:
   date: 2006-05-25
   tier: 2
   outlet: IndustryWeek
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On May 25, 2006, a federal jury convicted Enron founder Kenneth Lay on all six counts of fraud and conspiracy, and former CEO Jeffrey Skilling on 19 of 28 counts of securities fraud, wire fraud, and conspiracy. The verdicts marked a watershed moment in corporate accountability, holding top executives personally responsible for orchestrating one of the largest corporate frauds in American history.

@@ -17,22 +17,25 @@ actors:
 - John M. Olin Foundation
 - Robert Bork
 sources:
-- title: 'American Enterprise Institute'
+- title: American Enterprise Institute
   url: https://en.wikipedia.org/wiki/American_Enterprise_Institute
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'American Enterprise Institute - SourceWatch'
+- title: American Enterprise Institute - SourceWatch
   url: https://www.sourcewatch.org/index.php/American_Enterprise_Institute
   publication: SourceWatch
   date: '2024-08-15'
   tier: 2
-- title: 'American Enterprise Institute (AEI)'
+- title: American Enterprise Institute (AEI)
   url: https://www.britannica.com/topic/American-Enterprise-Institute
   publication: Encyclopedia Britannica
   date: '2024-09-20'
   tier: 1
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Military-Industrial Complex
 ---
 
 By 1977, the American Enterprise Institute's budget had surged to approximately $10 million, representing more than a 12-fold increase from its 1970 budget of $800,000. This dramatic expansion transformed AEI from a modest research organization into a major policy influence machine, demonstrating the massive corporate investment in conservative intellectual infrastructure following the Powell Memo.

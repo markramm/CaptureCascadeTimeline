@@ -39,6 +39,10 @@ sources:
   tier: 2
   outlet: Engadget
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 On May 18, 2021, Amazon extended its global ban on police use of Rekognition facial recognition software indefinitely "until further notice," prolonging what was originally announced as a one-year moratorium in June 2020. The extension came just weeks before the original moratorium was set to expire and reflected the failure of Congress to implement federal regulation of facial recognition technology despite Amazon's stated hope that the pause would provide time for "appropriate rules." The indefinite extension followed an open letter from 40 advocacy groups demanding a permanent ban and occurred amid ongoing controversy about the surveillance technology's racial bias and role in over-policing communities of color.

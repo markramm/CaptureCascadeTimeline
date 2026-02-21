@@ -25,6 +25,10 @@ sources:
   outlet: Fortune
   date: '2025-07-29'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Surveillance Infrastructure
+- Intelligence Penetration
 ---
 
 In 2005, In-Q-Tel, the venture capital arm of the Central Intelligence Agency, invested approximately $2 million in Palantir Technologies, providing the young company with critical early funding and legitimacy within the intelligence community. This investment came after traditional Silicon Valley venture capital firms had largely turned down Palantir due to its focus on government contracts rather than consumer markets.

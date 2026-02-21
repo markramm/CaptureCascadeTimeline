@@ -9,10 +9,10 @@ actors:
 - South Carolina Legislature
 - State Railroad Commission
 sources:
-- title: 'Charlotte, C. & A. R. Co. v. Gibbes, 142 U.S. 386 (1892)'
+- title: Charlotte, C. & A. R. Co. v. Gibbes, 142 U.S. 386 (1892)
   url: https://supreme.justia.com/cases/federal/us/142/386/
   outlet: Justia U.S. Supreme Court Center
-- title: 'How the 14th Amendment Made Corporations Into People'
+- title: How the 14th Amendment Made Corporations Into People
   url: https://www.history.com/articles/14th-amendment-corporate-personhood-made-corporations-into-people
   outlet: History.com
 tags:
@@ -22,9 +22,9 @@ tags:
 - railroad-regulation
 - due-process
 capture_lanes:
-- Corporate Power & Influence
-- Judicial Capture & Corruption
-- Regulatory Capture & Erosion
+- Corporate Capture
+- Judicial Capture
+- Regulatory Capture
 status: confirmed
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: 2016-09-01--facebook-embeds-staff-trump-campaign-hq
 date: '2016-09-01'
-title: 'Facebook Embeds Staff in Trump Campaign Headquarters to Optimize Targeting for Voter Manipulation'
+title: Facebook Embeds Staff in Trump Campaign Headquarters to Optimize Targeting for Voter Manipulation
 importance: 10
 actors:
 - Facebook
@@ -19,17 +19,17 @@ tags:
 - cambridge-analytica
 - brad-parscale
 sources:
-- title: 'Facebook embeds, Russia and Trump campaigns secret weapon'
+- title: Facebook embeds, Russia and Trump campaigns secret weapon
   url: https://www.cbsnews.com/news/facebook-embeds-russia-and-the-trump-campaigns-secret-weapon-60-minutes/
   outlet: CBS News - 60 Minutes
   date: '2017-10-08'
   tier: 1
-- title: 'Facebook employees embedded in Trump campaign digital media operation'
+- title: Facebook employees embedded in Trump campaign digital media operation
   url: https://archive.thinkprogress.org/facebook-embeds-trump-campaign-70217364e82d/
   outlet: ThinkProgress
   date: '2017-10-09'
   tier: 2
-- title: 'Facebook and Cambridge Analytica worked side by side at Trump campaign office'
+- title: Facebook and Cambridge Analytica worked side by side at Trump campaign office
   url: https://qz.com/1233579/facebook-and-cambridge-analytica-worked-side-by-side-at-a-trump-campaign-office-in-san-antonio
   outlet: Quartz
   date: '2018-03-20'
@@ -41,10 +41,9 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Corporate-Political Coordination
-- Election Infrastructure Capture
-- Platform Weaponization
-- Voter Manipulation
+- Corporate Capture
+- Electoral Manipulation
+- Media Capture & Control
 ---
 
 Facebook embeds staff directly in Trump campaign headquarters in San Antonio, working side-by-side with campaign staff including Cambridge Analytica to optimize Facebook advertising for voter targeting and suppression. The unprecedented corporate-political coordination provides Trump's campaign with platform expertise and optimization tools not offered to the Clinton campaign, directly contributing to electoral manipulation through precision targeting of vulnerable voters.

@@ -27,6 +27,8 @@ sources:
   title: US government to take 10% stake in Intel with CHIPS funding
   tier: 2
   outlet: Manufacturing Dive
+capture_lanes:
+- Corporate Capture
 ---
 
 Commerce Secretary Howard Lutnick announced the U.S. government acquired a 10% stake in Intel by converting $8.9 billion in CHIPS Act grants into equity, purchasing 433.3 million shares at $20.47 per share. Of this total, $5.7 billion came from previously awarded but unpaid CHIPS Act grants, and $3.2 billion from separate government awards for secure chip production. The government investment is structured as passive ownership with no board representation or governance rights, though it retains voting rights on shareholder matters with limited exceptions. Trump pledged 'many more' such equity interventions in private companies, marking a shift toward state capitalism where taxpayer funds provide direct political leverage over industry. Critics warned the approach resembles authoritarian models of government-corporate fusion, eroding market safeguards while creating opportunities for political favoritism in determining which companies receive equity investments versus traditional grants.

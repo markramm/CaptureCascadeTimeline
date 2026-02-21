@@ -31,6 +31,10 @@ sources:
   date: '2017-04-10'
   tier: 1
   outlet: NPR
+capture_lanes:
+- Corporate Capture
+- Labor Suppression
+- Systematic Corruption
 ---
 
 After nearly a decade of systematic fraud, multiple investigations, Congressional hearings, and billions in penalties, the Wells Fargo fake accounts scandal concludes with a stark scorecard that defines two-tiered justice in American finance: 3.5 million fraudulent accounts affecting millions of customers, 5,300 low-level employees fired, $3 billion in corporate fines, zero executives prosecuted. The executives who designed the fraud-incentivizing system, profited from inflated metrics, and were aware of misconduct for years retire wealthy and free, while workers who responded to institutional pressure face financial ruin and potential criminal liability.

@@ -32,9 +32,9 @@ tags:
 - malindo-air
 status: confirmed
 capture_lanes:
-- Corporate Fraud
+- Corporate Capture
 - Regulatory Capture
-- Consciousness of Guilt
+- Systematic Corruption
 ---
 
 Boeing delivered its first 737 MAX 8 aircraft to Malaysian carrier Malindo Air on May 16, 2017, entering revenue service on May 22. The delivery occurred despite internal Boeing communications showing employees knew the aircraft had serious safety problems, including design flaws in the MCAS system that would kill 189 people on a Malindo Air flight just 18 months later. In an April 2017 internal message, just weeks before the first delivery, a Boeing employee wrote: "This airplane is designed by clowns who in turn are supervised by monkeys."

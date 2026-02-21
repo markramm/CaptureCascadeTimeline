@@ -5,41 +5,41 @@ title: Federal-Aid Highway Act Creates Interstate System, Enables Destruction of
 importance: 9
 location: Washington, D.C.
 actors:
-  - Dwight D. Eisenhower
-  - U.S. Congress
-  - Bureau of Public Roads
-  - General Motors
-  - American Petroleum Institute
-  - American Automobile Association
-  - National City Lines
+- Dwight D. Eisenhower
+- U.S. Congress
+- Bureau of Public Roads
+- General Motors
+- American Petroleum Institute
+- American Automobile Association
+- National City Lines
 tags:
-  - infrastructure
-  - institutional-racism
-  - urban-renewal
-  - corporate-interests
-  - automotive-industry
+- infrastructure
+- institutional-racism
+- urban-renewal
+- corporate-interests
+- automotive-industry
 capture_lanes:
-  - Corporate Capture
-  - Policy Capture
+- Corporate Capture
+- Regulatory Capture
 sources:
-  - title: "Federal Aid Highway Act of 1956"
-    url: "https://www.fhwa.dot.gov/publications/publicroads/96summer/p96su10.cfm"
-    outlet: "Federal Highway Administration"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "The Myth of Robert Moses and the Fall of New York"
-    url: "https://www.britannica.com/topic/Interstate-Highway-System"
-    outlet: "Britannica"
-    date: 2024-01-01
-    verified: true
-    tier: 2
-  - title: "How Highways Destroyed Black Neighborhoods"
-    url: "https://www.history.com/news/interstate-highway-system-infrastructure-construction-segregation"
-    outlet: "History Channel"
-    date: 2021-08-09
-    verified: true
-    tier: 2
+- title: Federal Aid Highway Act of 1956
+  url: https://www.fhwa.dot.gov/publications/publicroads/96summer/p96su10.cfm
+  outlet: Federal Highway Administration
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: The Myth of Robert Moses and the Fall of New York
+  url: https://www.britannica.com/topic/Interstate-Highway-System
+  outlet: Britannica
+  date: 2024-01-01
+  verified: true
+  tier: 2
+- title: How Highways Destroyed Black Neighborhoods
+  url: https://www.history.com/news/interstate-highway-system-infrastructure-construction-segregation
+  outlet: History Channel
+  date: 2021-08-09
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

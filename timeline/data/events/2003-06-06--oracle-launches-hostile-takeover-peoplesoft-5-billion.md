@@ -30,6 +30,10 @@ sources:
   date: '2018-01-01'
   tier: 2
   outlet: Springer
+capture_lanes:
+- Corporate Capture
+- Military-Industrial Complex
+- Regulatory Capture
 ---
 
 Oracle Corporation launched an unsolicited hostile takeover bid for PeopleSoft on June 6, 2003, with an initial cash tender offer of $16.00 per share, valuing the enterprise software competitor at approximately $5.1 billion. The timing proved particularly aggressive, as Oracle announced the bid only days after PeopleSoft had agreed to acquire JD Edwards for $1.7 billion, attempting to disrupt that transaction and absorb both companies.

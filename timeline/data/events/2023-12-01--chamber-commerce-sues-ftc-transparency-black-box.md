@@ -29,6 +29,10 @@ sources:
   outlet: U.S. Chamber of Commerce
   tier: 3
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Military-Industrial Complex
+- Regulatory Capture
 ---
 
 The U.S. Chamber of Commerce filed a lawsuit against the Federal Trade Commission in December 2023, alleging a lack of transparency and accountability under Chairwoman Lina Khan's leadership. The business group alleged that the FTC had regularly avoided responding to lawful requests for public information under the Freedom of Information Act (FOIA), creating a 'black-box environment' that makes scrutinizing the agency's practices difficult. Chamber President and CEO Suzanne Clark stated: 'The FTC is pursuing an aggressive agenda with far-reaching implications for American businesses and the economy. It is bypassing longstanding norms to expansively regulate industries and manage our economy with a government-knows-best approach.' The lawsuit represented the opening salvo in an escalating war between the nation's largest business lobby and the most aggressive antitrust enforcement regime in decades. The Chamber's legal strategy aimed to hamstring the FTC's ability to pursue major enforcement actions by tying the agency up in disclosure litigation and characterizing routine regulatory processes as opaque overreach. The suit reflected corporate America's alarm at Khan's willingness to challenge mergers and business practices that had been routinely approved for decades. The transparency lawsuit was followed by more aggressive challenges to FTC substantive authority, including litigation over the non-compete ban. The Chamber's campaign demonstrated how corporate lobbying groups use procedural litigation to obstruct regulatory enforcement, even when the underlying regulatory actions have strong legal foundations.

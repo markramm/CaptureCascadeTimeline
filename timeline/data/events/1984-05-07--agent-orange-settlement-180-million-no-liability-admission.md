@@ -10,17 +10,17 @@ actors:
 - Seven Chemical Companies
 - Judge Jack B. Weinstein
 sources:
-- title: 'Vietnam veterans exposed to Agent Orange win $180 million settlement'
+- title: Vietnam veterans exposed to Agent Orange win $180 million settlement
   outlet: History.com
   url: https://www.history.com/this-day-in-history/may-7/agent-orange-settlement-180-million-vietnam-veterans
   verified: true
   tier: 1
-- title: 'In Re Agent Orange Product Liability Litigation'
+- title: In Re Agent Orange Product Liability Litigation
   outlet: Justia
   url: https://law.justia.com/cases/federal/district-courts/FSupp/597/740/1437287/
   verified: true
   tier: 1
-- title: 'Agent Orange Settlement Fund'
+- title: Agent Orange Settlement Fund
   outlet: U.S. Department of Veterans Affairs
   url: https://www.benefits.va.gov/compensation/claims-postservice-agent_orange-settlement-settlementFund.asp
   verified: true
@@ -32,9 +32,7 @@ tags:
 - accountability-failure
 - veterans-issues
 capture_lanes:
-- Corporate Liability Evasion
-- Inadequate Compensation System
-- Settlement Without Accountability
+- Corporate Capture
 status: confirmed
 ---
 

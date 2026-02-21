@@ -19,7 +19,7 @@ actors:
 - T. Cullen Davis
 - William Cies
 sources:
-- title: 'Council for National Policy'
+- title: Council for National Policy
   url: https://en.wikipedia.org/wiki/Council_for_National_Policy
   publication: Wikipedia
   date: '2024-11-10'
@@ -29,12 +29,16 @@ sources:
   publication: Southern Poverty Law Center
   date: '2024-09-15'
   tier: 1
-- title: 'Council for National Policy - SourceWatch'
+- title: Council for National Policy - SourceWatch
   url: https://www.sourcewatch.org/index.php/Council_for_National_Policy
   publication: SourceWatch
   date: '2024-08-20'
   tier: 2
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Military-Industrial Complex
+- Regulatory Capture
 ---
 
 In May 1981, during the Reagan administration, Tim LaHaye (then head of the Moral Majority), Paul Weyrich, Nelson Bunker Hunt, T. Cullen Davis, Howard Phillips, and William Cies founded the Council for National Policy (CNP) as an umbrella organization and networking group for conservative and Republican Party initiatives.

@@ -32,6 +32,10 @@ sources:
   date: '2022-02-18'
   tier: 2
   outlet: CIYIS
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Surveillance Infrastructure
 ---
 
 The U.S. Department of Defense granted Oracle Cloud Infrastructure (OCI) authority to operate (ATO) for Top Secret/Sensitive Compartmented Information (TS/SCI) and Special Access Program (SAP) missions on February 15, 2022, authorizing Oracle to host and process some of the Pentagon's most highly classified data and operations. This clearance authorization represented a major expansion of Oracle's access to the nation's most sensitive military and intelligence programs, elevating Oracle to the highest level of security clearance available for cloud computing contractors.

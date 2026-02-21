@@ -39,7 +39,7 @@ patterns:
 notes: Comprehensive documentation of regulatory capture mechanisms
 capture_lanes:
 - Regulatory Capture
-- Corporate Power
+- Corporate Capture
 ---
 
 Trump administration systematically stalled over 40 regulatory investigations into Musk's companies across multiple federal agencies, including the National Labor Relations Board, SEC, FAA, and Consumer Financial Protection Bureau. Strategic leadership removals and quorum eliminations effectively neutralized ongoing investigations, representing a significant instance of regulatory capture.

@@ -29,6 +29,10 @@ sources:
   outlet: Wikipedia
   tier: 3
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 The U.S. Senate confirmed Lina Khan to the Federal Trade Commission by a bipartisan vote of 69-28 on June 15, 2021, and President Biden immediately named her chair of the five-member Commission. At 32, Khan became the youngest commissioner ever confirmed to the agency, let alone to lead it. Khan rose to prominence with her 2017 Yale Law Journal article 'Amazon's Antitrust Paradox,' which challenged the dominant consumer welfare standard in antitrust enforcement and argued that the current framework fails to capture anticompetitive harms from tech platforms. Her confirmation signaled a major shift in antitrust philosophy, moving away from the Reagan-era focus on consumer prices toward a broader concern with market structure, corporate power, and potential competition. Khan's appointment was part of Biden's broader effort to revive aggressive antitrust enforcement after decades of permissive merger policy. The bipartisan support reflected widespread concern about Big Tech monopoly power, though corporate lobbying groups immediately mobilized against her ambitious enforcement agenda. Khan filled the vacancy left by former Chairman Joseph Simons (R), who resigned in January 2021. Her confirmation set the stage for the most aggressive antitrust enforcement regime since the 1970s, though subsequent court losses would reveal the limits of progressive enforcement without updated statutes or supportive judges.

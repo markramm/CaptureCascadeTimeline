@@ -16,22 +16,26 @@ actors:
 - Edwin Feulner
 - Corporate donors
 sources:
-- title: 'The Heritage Foundation'
+- title: The Heritage Foundation
   url: https://en.wikipedia.org/wiki/The_Heritage_Foundation
   publication: Wikipedia
   date: '2024-11-10'
   tier: 2
-- title: 'Joe Coors Brews Up the Heritage Foundation'
+- title: Joe Coors Brews Up the Heritage Foundation
   url: https://www.philanthropyroundtable.org/almanac/joe-coors-brews-up-the-heritage-foundation/
   publication: Philanthropy Roundtable
   date: '2024-09-15'
   tier: 2
-- title: 'Heritage Foundation - SourceWatch'
+- title: Heritage Foundation - SourceWatch
   url: https://www.sourcewatch.org/index.php/Heritage_Foundation
   publication: SourceWatch
   date: '2024-08-20'
   tier: 2
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Financial Capture
 ---
 
 By 1987, the Heritage Foundation's annual budget had reached $14.3 million, representing a doubling from $7.1 million in 1981 and demonstrating the massive scale of corporate investment in conservative policy infrastructure. The foundation would reach $14.6 million by 1988, establishing Heritage as the largest and best-funded conservative think tank in America.

@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: TIME
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Military-Industrial Complex
 ---
 
 Erik Prince testified before the House Committee on Oversight and Government Reform for nearly four hours, defending Blackwater's operations in Iraq despite overwhelming evidence of excessive force and lack of accountability. The hearing came weeks after the September 16, 2007 Nisour Square massacre where Blackwater employees killed 17 Iraqi civilians, prompting the Iraqi government to revoke Blackwater's license to operate in Iraq.

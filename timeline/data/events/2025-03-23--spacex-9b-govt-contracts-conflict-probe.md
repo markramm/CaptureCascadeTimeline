@@ -32,7 +32,7 @@ tags:
 - corporate-capture
 capture_lanes:
 - Systematic Corruption
-- Corporate Government Capture
+- Corporate Capture
 capture_type: monetizing_position
 connections:
 - Trump Administration's Conflicts of Interest

@@ -34,6 +34,10 @@ actors:
 - Ray Odierno
 - Mike Turner
 - Jim Jordan
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Legislative Capture
 ---
 
 Congress approved $255 million to upgrade M1 Abrams tanks through 2014 despite explicit Army testimony that it had ceased ordering tanks and wanted to save billions by halting production to develop next-generation armor. The appropriation represented a direct override of military leadership by both Republican and Democratic lawmakers determined to keep General Dynamics' Lima, Ohio plant—the nation's only tank manufacturer—operational for political rather than defense reasons. Army Chief of Staff General Ray Odierno and Army Budget Office Deputy Director Davis Welch testified that "we do not require any additional M1A2s" and would prefer using the funds differently, but Congress prioritized preserving 700-800 jobs and General Dynamics' production line over military strategic needs.

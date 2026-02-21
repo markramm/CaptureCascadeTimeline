@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: San Diego Union-Tribune
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 # Amazon Discloses 19,816 Workers Infected with COVID-19 After Months of Concealment

@@ -34,8 +34,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- authoritarian-capture
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 South Africa's National Prosecuting Authority (NPA) claws back R1.1 billion (approximately $73 million) from McKinsey & Company and its subsidiary McKinsey South Africa through a Corporate Alternative Dispute Resolution process, representing a final settlement of the state capture scandal. The resolution is the product of international cooperation between the NPA and the United States Department of Justice, bringing to a conclusion investigations by both the DOJ and NPA into McKinsey South Africa's work for state-owned enterprises Eskom and Transnet from 2012 to 2016. This payment comes in addition to McKinsey's previous repayments: R1 billion to Eskom in 2018 and R650-870 million to Transnet and South African Airways in 2020-2021, bringing total South African repayments to over R2.75 billion (approximately $187 million). Under the 2024 agreement, McKinsey pays into South Africa's Criminal Assets Recovery Account 'in recognition of the social and economic harm caused by the conduct of a former employee in South Africa.' Notably, McKinsey stops short of admitting involvement in state capture or any acts of corruption, instead characterizing the matter as an oversight in due diligence. Corruption-related charges against the company are withdrawn in 2024. Unlike Bain & Company which exited South Africa, McKinsey continues operating in the country. The settlement represents a strategic victory for South Africa's fight against corruption and establishes a precedent for holding multinational consulting firms financially accountable for enabling kleptocratic networks, even when stopping short of criminal prosecution.

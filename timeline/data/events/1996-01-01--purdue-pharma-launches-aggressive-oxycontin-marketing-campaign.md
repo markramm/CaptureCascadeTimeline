@@ -35,6 +35,10 @@ sources:
   date: '2017-12-13'
   tier: 1
   outlet: Marketplace
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Financial Capture
 ---
 
 Purdue Pharma launched the most aggressive marketing campaign ever undertaken for a narcotic drug, introducing OxyContin with false claims about addiction risk. At the 1996 launch party, Dr. Richard Sackler predicted the debut would "be followed by a blizzard of prescriptions that will bury the competition."

@@ -47,6 +47,10 @@ sources:
   outlet: National Education Policy Center
   date: '2013-12-01'
   tier: 1
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 Analysis by the Center for Media and Democracy reveals that state legislators introduced at least 139 bills in 2013 reflecting American Legislative Exchange Council (ALEC) model legislation designed to privatize public education, continuing ALEC's coordinated multi-year campaign to systematically defund public schools and transfer taxpayer dollars to private and for-profit education corporations. The 2013 legislative wave includes ALEC's 'Next Generation Charter Schools Act' (approved by ALEC in 2007), expanded voucher programs, education savings accounts, parent trigger laws, and virtual school legislation—all developed behind closed doors where corporate lobbyists from companies like K12 Inc. vote as equals with state legislators on model bills.

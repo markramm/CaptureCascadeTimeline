@@ -2,9 +2,7 @@
 id: 2001-04-17--kenneth-lay-meets-with-dick-cheney-energy-task-force
 date: '2001-04-17'
 title: 'Kenneth Lay''s Influence on Cheney Energy Task Force: Corporate Policy Capture'
-description: A comprehensive demonstration of corporate influence on executive branch
-  policy formation, with energy industry executives directly shaping national energy
-  strategy.
+description: A comprehensive demonstration of corporate influence on executive branch policy formation, with energy industry executives directly shaping national energy strategy.
 importance: 9
 status: confirmed
 tags:
@@ -47,6 +45,10 @@ policy_impact:
   - Alternative energy proponents
 verification_status: extensively-documented
 category: regulatory-manipulation
+capture_lanes:
+- Corporate Capture
+- Environmental Capture
+- Regulatory Capture
 ---
 
 Enron CEO Kenneth Lay met privately with Vice President Dick Cheney during a pivotal Energy Task Force meeting, presenting corporate recommendations that would significantly shape U.S. energy policy. Out of eight policy areas, seventeen Enron-favorable policies were adopted, including federal transmission line control and limited price controls. Environmental groups argued that industry executives like Lay were key players, while alternative voices were systematically excluded.

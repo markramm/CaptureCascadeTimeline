@@ -22,8 +22,7 @@ tags:
 - decommissioning
 capture_lanes:
 - Regulatory Capture
-- Corporate Power
-- Federal-State Conflict
+- Corporate Capture
 sources:
 - title: Vermont Yankee Nuclear Power Plant - Wikipedia
   url: https://en.wikipedia.org/wiki/Vermont_Yankee_Nuclear_Power_Plant

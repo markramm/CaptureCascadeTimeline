@@ -44,9 +44,9 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Corporate Capture of Law Enforcement
-- Indigenous Rights Suppression
-- Environmental Deregulation
+- Corporate Capture
+- Civil Rights Suppression
+- Environmental Capture
 ---
 
 Morton County Sheriff's Department and allied law enforcement agencies attack approximately 400 peaceful water protectors attempting to cross Backwater Bridge near the Standing Rock Sioux Reservation with water cannons, tear gas, rubber bullets, and concussion grenades in temperatures as low as 23 degrees Fahrenheit. The hours-long assault injures over 300 protesters, with at least 26 requiring hospitalization for hypothermia, head injuries from rubber bullets and projectiles, and other trauma. Linda Black Elk of the Standing Rock Medic and Healer Council reports treating protesters soaked by high-pressure water cannons in subfreezing conditions, creating immediate hypothermia risk. The Morton County Sheriff defends the use of water cannons owned by the Mandan Rural Fire Department, claiming they were necessary to "keep distance between officers and criminal agitators" and extinguish fires, despite physicians and tribal healers calling the tactic "potentially lethal" and demanding immediate cessation. The militarized response includes automatic rifles, sound cannons, and personnel from over 75 law enforcement agencies creating what observers describe as a "battlefield-like atmosphere." U.S. Senators Al Franken and Cory Booker subsequently call on Attorney General Loretta Lynch to investigate law enforcement tactics and send federal monitors to track violence against protesters. The brutal crackdown demonstrates the deployment of state violence to protect corporate pipeline interests against Indigenous water rights, with Energy Transfer Partners' Dakota Access Pipeline construction continuing despite Standing Rock Sioux objections that the pipeline threatens their sole water source at Lake Oahe and violates treaty rights.

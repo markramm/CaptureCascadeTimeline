@@ -31,6 +31,10 @@ sources:
   tier: 2
   outlet: Jacobin
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Electoral Manipulation
 ---
 
 # NLRB Hearing Officer Rules Amazon Illegally Interfered in Bessemer Election, Recommends New Vote

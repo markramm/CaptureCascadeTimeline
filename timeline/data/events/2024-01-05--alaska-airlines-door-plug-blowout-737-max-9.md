@@ -37,9 +37,8 @@ tags:
 - ntsb
 status: confirmed
 capture_lanes:
-- Corporate Safety Negligence
+- Corporate Capture
 - Regulatory Capture
-- Manufacturing Failures
 ---
 
 A door plug blew out of Alaska Airlines Flight 1282, a Boeing 737 MAX 9, at 16,000 feet during climb six minutes after takeoff from Portland, Oregon. The explosive decompression ripped the door plug from the fuselage, leaving a gaping hole in the aircraft. Miraculously, all 171 passengers and 6 crew members survived with only minor injuries, but only because the two seats directly adjacent to the door plug happened to be empty. Had passengers been seated there, they would have been sucked out of the aircraft to certain death.

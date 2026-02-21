@@ -11,17 +11,17 @@ actors:
 - Southern business interests
 - U.S. Chamber of Commerce
 sources:
-- title: 'Civil Rights Act of 1964'
+- title: Civil Rights Act of 1964
   author: Wikipedia contributors
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964
   year: 2024
-- title: 'The Regional Economic Impact of the Civil Rights Act of 1964'
+- title: The Regional Economic Impact of the Civil Rights Act of 1964
   author: Gavin Wright
   outlet: Boston University Law Review
   url: https://www.bu.edu/bulawreview/files/2015/05/WRIGHT.pdf
   year: 2015
-- title: 'Civil Rights Act of 1964'
+- title: Civil Rights Act of 1964
   outlet: Library of Congress
   url: https://www.loc.gov/exhibits/civil-rights-act/civil-rights-act-of-1964.html
   year: 2024
@@ -32,8 +32,8 @@ tags:
 - corporate-resistance
 - voting-rights
 capture_lanes:
-- Corporate Political Strategy
-- Legal System Manipulation
+- Corporate Capture
+- Judicial Capture
 status: confirmed
 ---
 

@@ -29,6 +29,10 @@ sources:
   date: 2003-04-01
   tier: 1
   outlet: CPA Journal
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Financial Capture
 ---
 
 On October 16, 2001, Enron announced a $618 million quarterly loss, marking a pivotal moment in the company's downfall. The loss was largely attributed to a one-time charge for terminating "certain structured finance arrangements" known as the Raptors, which were partnerships controlled by CFO Andrew Fastow.

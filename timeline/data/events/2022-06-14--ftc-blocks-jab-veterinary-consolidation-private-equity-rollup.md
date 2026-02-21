@@ -37,6 +37,10 @@ sources:
   outlet: American Animal Hospital Association
   date: '2024'
   tier: 3
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Surveillance Infrastructure
 ---
 
 The Federal Trade Commission ordered private equity firm JAB Consumer Partners to divest veterinary clinics in four metropolitan areas as a condition of its $1.65 billion acquisition of Ethos Veterinary Health, citing concerns about JAB's roll-up strategy creating local monopolies in specialty and emergency veterinary care. The FTC also imposed strong prior approval and prior notice requirements on future veterinary acquisitions, marking aggressive action against private equity's systematic use of serial acquisitions to build monopolies in fragmented healthcare sectors.

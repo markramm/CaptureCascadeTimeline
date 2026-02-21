@@ -1,8 +1,7 @@
 ---
 id: 2017-10-01--mckinsey-ice-quantifiable-benefits-deportation-metrics
 date: '2017-10-01'
-title: 'ICE Credits McKinsey with ''Quantifiable Benefits'': Increased Deportations
-  and Reduced Detention Time'
+title: 'ICE Credits McKinsey with ''Quantifiable Benefits'': Increased Deportations and Reduced Detention Time'
 importance: 8
 actors:
 - McKinsey & Company
@@ -22,8 +21,7 @@ sources:
   outlet: ProPublica
   date: '2019-12-03'
   tier: 1
-- title: McKinsey proposed ICE cut spending on food and medical care for detained
-    migrants to reduce costs
+- title: McKinsey proposed ICE cut spending on food and medical care for detained migrants to reduce costs
   url: https://slate.com/news-and-politics/2019/12/mckinsey-suggested-ice-cut-food-medical-spending-detained-illegal-migrants.html
   outlet: Slate
   date: '2019-12-03'
@@ -32,8 +30,7 @@ sources:
   url: https://www.npr.org/2024/11/21/nx-s1-5199630/police-report-gives-details-timeline-of-the-sexual-assault-claim-against-pete-hegseth
   outlet: NPR
   date: '2024-11-21'
-- title: Police report reveals new details from sexual assault allegation against
-    Trump's defense secretary nominee
+- title: Police report reveals new details from sexual assault allegation against Trump's defense secretary nominee
   url: https://www.cnn.com/2024/11/21/politics/pete-hegseth-police-report-defense-secretary-trump/index.html
   outlet: CNN
   date: '2024-11-21'
@@ -43,8 +40,8 @@ sources:
   date: '2024-12-01'
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Government Capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 

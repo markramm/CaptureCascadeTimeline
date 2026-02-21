@@ -2,11 +2,7 @@
 id: 2025-03-12--johnson-says-congress-will-investigate-attacks-against-tesla
 date: '2025-03-12'
 title: Johnson says Congress will investigate attacks against Tesla owners, vehicles
-description: House Speaker Mike Johnson and the Department of Government Efficiency
-  (DOGE) committee announced plans to investigate alleged attacks against Tesla vehicles
-  and owners, citing incidents of vandalism in Dedham, Massachusetts and Seattle.
-  Johnson framed the investigation as a response to threats against Elon Musk's work
-  in reducing federal workforce under the Trump administration.
+description: House Speaker Mike Johnson and the Department of Government Efficiency (DOGE) committee announced plans to investigate alleged attacks against Tesla vehicles and owners, citing incidents of vandalism in Dedham, Massachusetts and Seattle. Johnson framed the investigation as a response to threats against Elon Musk's work in reducing federal workforce under the Trump administration.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -23,8 +19,7 @@ tags:
 capture_type: political-manipulation
 sources:
 - outlet: Anadolu Agency (AA)
-  title: US House Speaker Says Congress to Investigate Attacks Against Tesla Owners,
-    Vehicles
+  title: US House Speaker Says Congress to Investigate Attacks Against Tesla Owners, Vehicles
   url: https://www.aa.com.tr/en/americas/us-house-speaker-says-congress-to-investigate-attacks-against-tesla-owners-vehicles/3507913
   date: '2025-03-12'
 - outlet: NTD News
@@ -32,8 +27,7 @@ sources:
   url: https://www.ntd.com/house-speaker-says-congress-to-investigate-threats-against-tesla_1053669.html
   date: '2025-03-12'
 - outlet: House Democrats Oversight Committee
-  title: Sherrill Calls for Investigations Into Elon Musk's Conflicts of Interest
-    at Federal Agencies
+  title: Sherrill Calls for Investigations Into Elon Musk's Conflicts of Interest at Federal Agencies
   url: https://sherrill.house.gov/media/press-releases/sherrill-calls-for-investigations-into-elon-musk-s-vast-conflicts-of-interest-and-self-dealing-at-federal-agencies
   date: '2025-03-12'
 connections:
@@ -44,10 +38,8 @@ patterns:
 - political-retribution
 capture_lanes:
 - Legislative Capture
-- Corporate Influence
-notes: Event demonstrates political manipulation through congressional investigation
-  targeting perceived political opponents with potential broader implications for
-  government-corporate relationships
+- Corporate Capture
+notes: Event demonstrates political manipulation through congressional investigation targeting perceived political opponents with potential broader implications for government-corporate relationships
 ---
 
 House Speaker Mike Johnson announced a congressional investigation into alleged attacks against Tesla vehicles and owners, characterizing them as potential 'domestic terrorism' orchestrated by the 'radical Left', coinciding with broader scrutiny of Elon Musk's leadership of the Department of Government Efficiency

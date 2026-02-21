@@ -7,33 +7,28 @@ actors:
 - Texas Legislature
 capture_lanes:
 - Legislative Capture
-- Corporate Influence
+- Corporate Capture
 capture_type: monetizing_position
 connections:
 - State Government Lobbying
 - Corporate Political Influence
 date: '2025-07-04'
-description: Elon Musk hired a sophisticated lobbying team in Texas to push legislation
-  favorable to his companies, successfully influencing multiple laws affecting SpaceX,
-  Tesla, and X Corp.
+description: Elon Musk hired a sophisticated lobbying team in Texas to push legislation favorable to his companies, successfully influencing multiple laws affecting SpaceX, Tesla, and X Corp.
 id: 2025-07-04--musk-texas-lobbyists-legislative-wins
 importance: 8
 location: Texas State Capitol, Austin
-notes: Comprehensive documentation of corporate lobbying mechanisms in 2025 Texas
-  legislative session
+notes: Comprehensive documentation of corporate lobbying mechanisms in 2025 Texas legislative session
 patterns:
 - kleptocratic-capture
 - legislative-manipulation
 sources:
 - date: '2025-07-04'
   outlet: ProPublica
-  title: Elon Musk hired a dozen Texas lobbyists this year. State law keeps the extent
-    of their influence under wraps
+  title: Elon Musk hired a dozen Texas lobbyists this year. State law keeps the extent of their influence under wraps
   url: https://www.propublica.org/article/elon-musk-texas-lobbyists-influence-law
 - date: '2025-07-03'
   outlet: KUT Radio (Austin NPR)
-  title: Want to know who Elon Musk's lobbyists wined and dined? It's a Texas-sized
-    secret.
+  title: Want to know who Elon Musk's lobbyists wined and dined? It's a Texas-sized secret.
   url: https://www.kut.org/politics/2025-07-03/texas-elon-musk-tesla-spacex-lobbyist
 - date: '2025-07-02'
   outlet: Texas Tribune

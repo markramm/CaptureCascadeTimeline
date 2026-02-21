@@ -18,8 +18,7 @@ sources:
   url: https://www.business-standard.com/world-news/cantor-fitzgerald-pays-6-75-mn-to-settle-misleading-spac-disclosures-124121300111_1.html
   date: '2024-12-12'
   outlet: Business Standard
-- title: Cantor Fitzgerald pays $6.75 million to settle SEC charges over misleading
-    SPAC disclosures
+- title: Cantor Fitzgerald pays $6.75 million to settle SEC charges over misleading SPAC disclosures
   url: https://www.marketscreener.com/quote/stock/SATELLOGIC-INC-132401546/news/Cantor-Fitzgerald-pays-6-75-million-to-settle-SEC-charges-over-misleading-SPAC-disclosures-48583816/
   date: '2024-12-12'
   outlet: MarketScreener
@@ -35,8 +34,8 @@ tags:
 importance: 8
 capture_lanes:
 - Regulatory Capture
-- Corporate Compliance
-- Financial Manipulation
+- Corporate Capture
+- Financial Capture
 ---
 
 The SEC charged Cantor Fitzgerald $6.75 million for systematic disclosure violations in two SPAC transactions involving View, Inc. and Satellogic. The firm misled investors by claiming no substantive discussions with merger targets existed, despite already negotiating potential mergers. This settlement highlights ongoing regulatory challenges in the SPAC market and raises questions about Cantor Fitzgerald's compliance practices, particularly given Howard Lutnick's pending appointment as Commerce Secretary.

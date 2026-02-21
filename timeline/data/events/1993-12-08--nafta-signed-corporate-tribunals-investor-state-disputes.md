@@ -22,25 +22,25 @@ tags:
 capture_lanes:
 - Legislative Capture
 - Regulatory Capture
-- Corporate Power Expansion
+- Corporate Capture
 location: Washington, D.C.
 sources:
-- title: 'Remarks on the Signing of NAFTA'
+- title: Remarks on the Signing of NAFTA
   url: https://millercenter.org/the-presidency/presidential-speeches/december-8-1993-remarks-signing-nafta
   outlet: Miller Center
   date: '1993-12-08'
   tier: 1
-- title: 'NAFTA signed into law'
+- title: NAFTA signed into law
   url: https://www.history.com/this-day-in-history/december-8/nafta-signed-into-law
   outlet: History.com
   date: '1993-12-08'
   tier: 2
-- title: 'Table of Foreign Investor-State Cases and Claims Under NAFTA'
+- title: Table of Foreign Investor-State Cases and Claims Under NAFTA
   url: https://www.citizen.org/article/table-of-foreign-investor-state-cases-and-claims-under-nafta-and-other-u-s-trade-deals/
   outlet: Public Citizen
   date: '2024'
   tier: 1
-- title: 'Investor-State Dispute Settlement'
+- title: Investor-State Dispute Settlement
   url: https://en.wikipedia.org/wiki/Investor–state_dispute_settlement
   outlet: Wikipedia
   date: '2024'

@@ -47,9 +47,9 @@ actors:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Corporate Fraud
-- Institutional Capture
-- Consumer Exploitation
+- Corporate Capture
+- Democratic Erosion
+- Financial Capture
 ---
 
 On July 31, 2017, SCANA Corporation and South Carolina's state-owned utility Santee Cooper abandoned the V.C. Summer nuclear expansion project after a decade of construction, $9 billion in expenditures, and massive cost overruns. Despite the complete failure to deliver any functioning nuclear reactors, South Carolina ratepayers were legally required to continue paying billions of dollars for the abandoned project due to the state's 2007 Base Load Review Act, which allowed utilities to charge customers for construction costs before projects were completed and guaranteed full cost recovery even if plants were never built.

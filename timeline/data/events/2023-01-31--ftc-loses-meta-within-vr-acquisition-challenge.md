@@ -30,6 +30,10 @@ sources:
   outlet: TechCrunch
   tier: 2
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 U.S. District Court Judge Edward Davila (N.D. Cal.) denied the Federal Trade Commission's request for a preliminary injunction to halt Meta's acquisition of Within Unlimited, a VR fitness app developer, on January 31, 2023. The FTC had sued to block the merger in July 2022, arguing Meta was 'buying its way to the top' in the emerging VR fitness market rather than competing on its own merits. While Judge Davila upheld the FTC's market definition, claims of a highly concentrated market, and the validity of potential competition theories, he ultimately held that the FTC failed to demonstrate it was 'reasonably probable' Meta would have entered the VR dedicated fitness app business without acquiring Within. The judge found that despite Meta's enormous resources, the company did not have the 'available feasible means' to develop its own VR exercise app business. The FTC officially dismissed its administrative challenge on February 24, 2023, and announced it would not appeal. The loss was significant as the FTC's second defeat in a decade on potential competition grounds and was widely seen as a major test for Chair Lina Khan's aggressive enforcement approach. The case revealed a fundamental problem: even with progressive enforcers at the agencies, enforcement actions faced skeptical courts trained in the consumer welfare standard and Chicago School framework. The defeat foreshadowed more losses to come and highlighted the limits of administrative action without congressional reform of antitrust statutes or judicial appointments sympathetic to structural competition concerns.

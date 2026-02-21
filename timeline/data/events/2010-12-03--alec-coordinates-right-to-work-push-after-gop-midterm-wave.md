@@ -35,6 +35,10 @@ sources:
   outlet: Common Dreams
   date: '2013-07-23'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Media Capture & Control
+- Legislative Capture
 ---
 
 Following the 2010 Tea Party midterm elections that gave Republicans control of 26 state legislatures (gaining 675 state legislative seats), the American Legislative Exchange Council (ALEC) holds its States and Nation Policy Summit in Washington, D.C., December 1-3, with the agenda focused on crushing public and private sector unions through coordinated right-to-work legislation. Wisconsin Senate Majority Leader Scott Fitzgerald, an ALEC state chairman, later describes the meeting's anti-union momentum as "like nothing I have ever seen before." The summit marks the beginning of a coordinated, corporate-funded strategy to systematically pass ALEC's model "Right to Work Act" across multiple states simultaneously—legislation that ALEC had been unsuccessfully promoting since 1979. Over the next seven years, eight states will adopt right-to-work laws based on ALEC's model legislation: Indiana and Michigan (2012), Wisconsin (2015), West Virginia (2016), and Kentucky (2017). The coordinated campaign demonstrates that these laws are not organic state-based decisions but rather a nationally orchestrated corporate assault on worker power, funded by Koch brothers' Americans for Prosperity and other ALEC corporate members including McDonald's, Walmart, Bank of America, and MillerCoors.

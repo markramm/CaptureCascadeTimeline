@@ -1,8 +1,7 @@
 ---
 id: 2019-12-03--propublica-mckinsey-ice-foia-investigation
 date: '2019-12-03'
-title: 'ProPublica Exposes McKinsey''s ICE Work Through FOIA Lawsuit: 1,500 Pages
-  Reveal Detention Cost-Cutting Proposals'
+title: 'ProPublica Exposes McKinsey''s ICE Work Through FOIA Lawsuit: 1,500 Pages Reveal Detention Cost-Cutting Proposals'
 importance: 9
 actors:
 - ProPublica
@@ -29,8 +28,7 @@ sources:
   outlet: ProPublica
   date: '2019-12-16'
   tier: 1
-- title: Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That
-    Even ICE Staff Viewed as Too Harsh on Immigrants
+- title: Consulting Giant McKinsey Suggested 'Detention Savings Opportunities' That Even ICE Staff Viewed as Too Harsh on Immigrants
   url: https://www.commondreams.org/news/2019/12/04/consulting-giant-mckinsey-suggested-detention-savings-opportunities-even-ice-staff
   outlet: Common Dreams
   date: '2019-12-04'
@@ -50,16 +48,15 @@ sources:
   tier: 2
   outlet: Roll Call
 - url: https://abcnews.go.com/Politics/duncan-hunter-submits-resignation-guilty-plea-conspiracy-misuse/story?id=68128521
-  title: Duncan Hunter submits resignation after guilty plea on conspiracy to misuse
-    campaign funds
+  title: Duncan Hunter submits resignation after guilty plea on conspiracy to misuse campaign funds
   date: 2020-01-07
   tier: 2
   outlet: ABC News
   verified: true
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Government Capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 

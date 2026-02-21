@@ -47,8 +47,8 @@ sources:
   date: '2018-05-02'
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- authoritarian-capture
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 

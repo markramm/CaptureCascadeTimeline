@@ -30,8 +30,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Government Capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 The New York Times discloses that McKinsey & Company has done more than $20 million in consulting work for Immigration and Customs Enforcement, triggering immediate outrage among McKinsey employees and alumni. The revelation comes on the same day that ICE announces an end to its 'zero tolerance' policy that separated asylum-seeking children from their parents at the U.S. border—making the timing particularly inflammatory.

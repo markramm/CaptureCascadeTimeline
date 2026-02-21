@@ -43,6 +43,10 @@ sources:
   outlet: Militarist Monitor
   date: '2024'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 Comprehensive organizational analysis reveals Hoover Institution as unique conservative think tank exploiting Stanford University affiliation for academic credibility while advancing corporate-conservative agenda. Founded in 1919 by Herbert Hoover as library, the institution transformed into policy center in 1970s-80s, becoming 'Reagan Brain Trust' while maintaining formal Stanford connection. This Stanford association provides prestige unavailable to freestanding think tanks, allowing Hoover scholars to claim university-level academic authority for ideologically-driven policy positions.

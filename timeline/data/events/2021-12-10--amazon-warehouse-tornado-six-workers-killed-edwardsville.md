@@ -34,6 +34,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 # Six Amazon Workers Killed in Edwardsville Warehouse Tornado Collapse

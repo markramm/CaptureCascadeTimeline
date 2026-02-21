@@ -28,6 +28,10 @@ sources:
   outlet: FactCheck.org
   tier: 1
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 The Department of Justice announced that HCA Inc. (formerly Columbia/HCA), once led by Rick Scott, agreed to pay the United States $631 million in civil penalties and damages, bringing the total recovery to $1.7 billion when combined with earlier settlements—the largest healthcare fraud case in U.S. history. The fraud schemes, which occurred while Scott served as CEO, included billing Medicare for tests that were not medically necessary or ordered by physicians, attaching false diagnosis codes to inflate reimbursements, illegally claiming non-reimbursable marketing costs as community education expenses, and billing for home health visits for patients who didn't qualify. Columbia/HCA pleaded guilty to at least 14 corporate felonies as part of a 2000 settlement. Federal investigators served search warrants on March 19, 1997, and four months later the board pressured Scott to resign. Scott received a $9.88 million severance and retained 10 million shares worth over $350 million, despite invoking the Fifth Amendment 75 times in a 2000 deposition. He was never personally charged with wrongdoing. Scott later became Florida Governor (2011-2019) and U.S. Senator (2019-present), making him the only person to oversee the largest hospital fraud in history and ascend to major political office. The case remains the largest fraud settlement for a hospital corporation in U.S. history, establishing that systematic Medicare fraud by for-profit hospital chains could result in massive settlements but no executive accountability.

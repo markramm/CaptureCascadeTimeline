@@ -29,6 +29,10 @@ sources:
   outlet: Harvard University
   date: '2020-01-01'
   tier: 1
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Financial Capture
 ---
 
 Economic research documents dramatic profit concentration during the 1980-2000 period, with the top 10% of firms capturing approximately 90% of profit growth while the remaining 90% of companies see minimal gains. This concentration accelerates sharply in the post-2000 period, with the Herfindahl-Hirschman Index (HHI) increasing in over 75% of U.S. industries and average concentration levels rising by 90% in the 21st century. The ratio of after-tax corporate profits to value added rises from an average of 7% (1970-2002) to 10% post-2002, representing extraction of economic rents through market power rather than competitive returns on productive investment. Corporate markups—the amount firms charge above marginal costs—triple between 1980 and 2015, rising from 21% above costs to 61% above costs, with firm-revenue-weighted average markups increasing from 1.28 in 2000 to 1.36 in 2015. Critically, the nature of concentration changes over time: during the 1990s, concentration correlates positively with productivity growth, suggesting efficiency-driven consolidation and tougher price competition; after 2000, the correlation becomes negative, indicating rent-seeking behavior, decreasing competition, and increasing barriers to entry. This shift from 'good' concentration (productive efficiency) to 'bad' concentration (monopolistic extraction) explains rising inequality, as dominant firms use market power to suppress wages (monopsony power), squeeze suppliers, raise consumer prices (monopoly power), and extract economic rents rather than delivering competitive returns. The 90% profit concentration represents systematic wealth transfer from competitive markets to dominant firms with pricing power and market control.

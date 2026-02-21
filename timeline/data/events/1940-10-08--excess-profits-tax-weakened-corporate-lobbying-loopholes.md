@@ -36,8 +36,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- corporate-influence
-- tax-policy
+- Corporate Capture
+- Financial Capture
 ---
 
 Congress passes the Excess Profits Tax Act on October 8, 1940, establishing graduated taxes on corporate profits exceeding pre-war averages. While ostensibly designed to prevent war profiteering and ensure shared sacrifice, the legislation contains numerous loopholes secured through corporate lobbying that allow companies to minimize tax liability while reaping enormous wartime profits.

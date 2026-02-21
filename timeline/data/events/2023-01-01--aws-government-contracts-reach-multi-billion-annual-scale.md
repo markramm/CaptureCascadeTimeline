@@ -33,6 +33,10 @@ sources:
   date: 2021-08-10
   tier: 1
   outlet: Nextgov/FCW
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Financial Capture
 ---
 
 By 2023, Amazon Web Services has consolidated its position as the dominant cloud infrastructure provider for the U.S. government, with multi-billion dollar contracts across the intelligence community, Department of Defense, and civilian agencies creating unprecedented government dependence on a single commercial vendor. AWS's government portfolio includes some of the most sensitive and valuable federal contracts ever awarded to a technology company, spanning all levels of classified operations and establishing Amazon as an indispensable infrastructure provider for national security operations.

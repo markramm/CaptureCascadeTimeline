@@ -32,6 +32,10 @@ sources:
   date: '2022-02-25'
   tier: 2
   outlet: The Washington Post
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 On February 25, 2022, Johnson & Johnson and three major drug distributors—McKesson, Cardinal Health, and AmerisourceBergen—finalized a $26 billion national settlement to resolve thousands of opioid lawsuits from states, counties, cities, and Native American tribes. Despite the record settlement amount, no executives from any of the four companies faced criminal prosecution for their role in flooding communities with addictive prescription opioids.

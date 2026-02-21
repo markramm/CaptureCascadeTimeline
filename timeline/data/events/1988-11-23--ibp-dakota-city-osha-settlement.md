@@ -19,7 +19,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Labor Suppression
-- Corporate Impunity
+- Corporate Capture
 sources:
 - title: IBP Inc. Dakota City Plant - OSHA Enforcement Case
   outlet: U.S. Department of Labor OSHA

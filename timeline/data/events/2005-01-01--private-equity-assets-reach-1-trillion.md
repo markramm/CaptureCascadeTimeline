@@ -32,6 +32,10 @@ sources:
   outlet: Wikipedia
   date: '2024-11-01'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Financial Capture
+- Intelligence Penetration
 ---
 
 The private equity industry reaches a major milestone as assets under management approach $1 trillion globally (reaching $710 billion by end of 2006), with approximately 70% of average PE acquisitions financed by debt loaded onto target companies. This scale enables systematic wealth extraction across the American economy, as PE firms deploy the '2-and-20' fee structure (2% annual management fees plus 20% of profits) while using minimal PE capital and maximum target-company debt. The mechanism works as follows: PE firms invest only 1-2% of purchase price but claim 20% of gains; they finance buyouts with 30% equity and 70% debt (using acquired companies' own assets as collateral); they then extract wealth through multiple channels including management fees, dividend recapitalizations, sale-leaseback transactions, and eventual company sales or IPOs. Between 2000 and 2005, debt averages 59-67% of LBO purchase prices in the United States. Major firms like KKR (managing $15 billion in 2005), Blackstone, Bain Capital, Apollo, and Carlyle systematically acquire companies across healthcare, retail, manufacturing, and services sectors, loading them with unsustainable debt while extracting fees regardless of company performance. This business model privatizes gains (PE partners and investors capture 20%+ returns) while socializing losses (companies, workers, creditors, and communities bear bankruptcy costs). The $1 trillion AUM milestone represents the point where PE extraction becomes systematic rather than opportunistic, affecting millions of American workers in PE-owned companies who face cost-cutting, reduced benefits, wage suppression, and heightened bankruptcy risk as their employers struggle under PE-imposed debt burdens.

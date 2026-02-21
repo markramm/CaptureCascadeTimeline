@@ -1,7 +1,7 @@
 ---
 id: 2026-01-09--trump-oil-executives-white-house-venezuela-uninvestible
 date: '2026-01-09'
-title: "Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit"
+title: Exxon CEO Tells Trump Venezuela Is 'Uninvestible' at White House Oil Summit
 importance: 8
 actors:
 - Donald Trump
@@ -43,8 +43,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Corporate Capture of Government
-- Foreign Policy Privatization
+- Corporate Capture
+- International Kleptocracy
 ---
 
 Trump convened more than a dozen oil and gas executives at the White House East Room to pitch $100 billion in investments to develop Venezuela's oil industry, less than a week after U.S. forces seized Venezuelan President Nicolás Maduro. Attendees included executives from Chevron, ExxonMobil, ConocoPhillips, Continental Resources, Halliburton, Shell, Marathon, Valero, and others, alongside Secretary of State Marco Rubio, Energy Secretary Chris Wright, and Interior Secretary Doug Burgum.

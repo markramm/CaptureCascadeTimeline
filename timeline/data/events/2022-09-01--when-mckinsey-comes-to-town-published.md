@@ -33,8 +33,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- authoritarian-capture
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 New York Times investigative reporters Walt Bogdanich (three-time Pulitzer Prize winner) and Michael Forsythe (George Polk Award winner and U.S. Navy veteran) publish 'When McKinsey Comes to Town: The Hidden Influence of the World's Most Powerful Consulting Firm,' a landmark investigative work examining McKinsey's ties to controversial industries and authoritarian governments. The book reveals the stark contrast between the firm's lofty values and its actions - from incentivizing opioid prescriptions to supporting authoritarian regimes including Saudi Arabia, Russia, China, and Turkey. The authors document how McKinsey's involvement with Saudi authorities coincided with Mohammed bin Salman's ascent to power, marked by abuses exemplified by the 2017 'Ritz purge' detention of opponents and culminating in the horrific murder of Jamal Khashoggi in 2018. The firm's indifference to clear indicators of authoritarian inclinations in the Saudi leadership, while pursuing more lucrative opportunities, played a role in furthering MBS's tyrannical aspirations. The book details McKinsey's work for Chinese SOEs including advising China Communications, which constructed artificial islands now used as staging grounds for the Chinese Navy, while simultaneously taking tens of millions of dollars from the Pentagon whose chief aim is to counter Chinese aggression. The authors contend that McKinsey's engagements with authoritarian governments and state-run entities often clash with the interests of its primary client, the U.S. government. The book is named Book of the Year 2022 by both the New York Times and the Times of London, and is described as 'a devastating portrait of a firm whose work has often made the world more unequal, more corrupt, and more dangerous.'

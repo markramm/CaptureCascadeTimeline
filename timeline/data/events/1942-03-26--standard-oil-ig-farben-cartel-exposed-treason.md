@@ -38,8 +38,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- corporate-influence
-- regulatory-capture
+- Corporate Capture
+- Regulatory Capture
 ---
 
 Senate hearings expose Standard Oil of New Jersey's secret cartel agreements with IG Farben, the German chemical conglomerate that produces Zyklon B for Nazi concentration camps and uses slave labor from Auschwitz. Senator Harry Truman's investigative committee reveals that Standard Oil withheld synthetic rubber technology from the U.S. military while sharing it with Nazi Germany, directly hampering American war preparedness.

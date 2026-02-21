@@ -29,8 +29,7 @@ sources:
   tier: 2
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Public Sector Capture
+- Corporate Capture
 ---
 
 McKinsey tests its new anti-violence strategy in what the firm calls 'Restart' housing units at Rikers Island, implementing its centerpiece algorithm called the Housing Unit Balancer (HUB) designed to predict each inmate's propensity for violence. By July 2015, eight Restart units housing about 250 inmates are in place at the George Motchan Detention Center.

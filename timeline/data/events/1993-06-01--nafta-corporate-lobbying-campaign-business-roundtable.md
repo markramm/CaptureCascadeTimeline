@@ -1,7 +1,7 @@
 ---
 id: 1993-06-01--nafta-corporate-lobbying-campaign-business-roundtable
 date: '1993-06-01'
-title: '$25 Million Corporate Lobbying Blitz Drives NAFTA Passage Despite Labor Opposition'
+title: $25 Million Corporate Lobbying Blitz Drives NAFTA Passage Despite Labor Opposition
 importance: 8
 actors:
 - Business Roundtable
@@ -21,10 +21,10 @@ tags:
 - legislative-capture
 capture_lanes:
 - Legislative Capture
-- Corporate Power Expansion
+- Corporate Capture
 location: Washington, D.C.
 sources:
-- title: 'Business-Managed Government - NAFTA'
+- title: Business-Managed Government - NAFTA
   url: https://www.herinst.org/BusinessManagedDemocracy/government/trade/NAFTA.html
   outlet: Heritage Institute
   date: '2024'
@@ -34,12 +34,12 @@ sources:
   outlet: Princeton University Press (via ResearchGate)
   date: '2014'
   tier: 1
-- title: 'Clinton, NAFTA and the Politics of U.S. Trade'
+- title: Clinton, NAFTA and the Politics of U.S. Trade
   url: https://nacla.org/article/clinton-nafta-and-politics-us-trade
   outlet: NACLA (North American Congress on Latin America)
   date: '1993'
   tier: 2
-- title: 'North American Free Trade Agreement'
+- title: North American Free Trade Agreement
   url: https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement
   outlet: Wikipedia
   date: '2024'

@@ -39,6 +39,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 A Manhattan jury convicted the Trump Organization on all 17 criminal counts of tax fraud and falsifying business records after deliberating for approximately one day, marking the first time Donald Trump's company faced criminal charges, trial, and conviction. The jury found two Trump-controlled entities guilty: the Trump Corporation and the Trump Payroll Corporation, concluding they orchestrated a 15-year scheme to compensate executives with unreported perks including luxury apartments, Mercedes-Benz leases, and private school tuition to avoid paying taxes. The conviction came three weeks after Trump announced his 2024 presidential candidacy and established that the Trump Organization operated as a criminal enterprise that systematically defrauded tax authorities. Manhattan District Attorney Alvin Bragg stated the verdict held the company accountable for "a culture of fraud and deception" and represented a significant victory in prosecuting corporate tax crimes at the highest levels of American business and politics.

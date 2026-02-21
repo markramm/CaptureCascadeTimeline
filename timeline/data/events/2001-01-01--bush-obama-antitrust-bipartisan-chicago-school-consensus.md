@@ -33,6 +33,10 @@ sources:
   outlet: Fortune
   tier: 2
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 The George W. Bush (2001-2009) and Barack Obama (2009-2017) administrations demonstrated that antitrust abandonment had become bipartisan consensus, as both Democratic and Republican administrations embraced Reagan-era Chicago School ideology and approved mergers that concentrated corporate power across the economy. Despite Obama's campaign promise to 'reinvigorate antitrust enforcement' and 'step up review of merger activity,' the merger statistics told a different story: the FTC and DOJ openly opposed only 150 mergers during Obama's eight years compared to 129 during Bush's tenure and 292 during Clinton's—roughly 21 per year for Obama, 16 for Bush, and 35 for Clinton. Both administrations approved risky mergers in concentrated markets without remedies—Whirlpool-Maytag (2006), XM-Sirius satellite radio (2008), and dozens of hospital, telecommunications, pharmaceutical, and financial sector consolidations. Obama's 2010 Merger Guidelines further deemphasized structural screens and raised market share thresholds for finding mergers presumptively anticompetitive, continuing the permissive trajectory. Technical antitrust enforcement became 'nonideological and nonpartisan'—both agencies preferred 'pragmatic settlements' allowing deals forward over lawsuits to block transactions. Former FTC officials later celebrated this as a 'bipartisan legacy from Reagan to Obama' protecting consumers, while industry concentration skyrocketed. By 2013, four or fewer firms controlled 85%+ of airlines, telecommunications, pharmaceuticals, agriculture, and technology sectors. This bipartisan consensus meant corporate consolidation faced no political opposition—whether voters chose Democrats or Republicans, Chicago School antitrust policy remained unchanged, demonstrating complete ideological capture of competition policy across the political spectrum.

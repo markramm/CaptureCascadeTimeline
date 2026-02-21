@@ -34,7 +34,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Corporate State Fusion
+- Corporate Capture
 ---
 
 The Federal Aviation Administration finally grounded the Boeing 737 MAX on March 13, 2019, three days after the Ethiopian Airlines crash and only after 51 other countries had already banned the aircraft. China acted first on March 11, followed by Indonesia, Singapore, India, the European Union, Australia, Canada, and dozens of other nations on March 12. The FAA was the last major aviation regulator to ground the plane, reversing a Continued Airworthiness Notice it had issued just two days earlier claiming the aircraft was safe.

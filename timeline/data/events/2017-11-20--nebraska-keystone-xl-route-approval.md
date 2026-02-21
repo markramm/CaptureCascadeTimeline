@@ -1,8 +1,7 @@
 ---
 id: 2017-11-20--nebraska-keystone-xl-route-approval
 date: '2017-11-20'
-title: Nebraska PSC Approves Keystone XL Pipeline Route Despite Eminent Domain Controversy
-  and Landowner Opposition
+title: Nebraska PSC Approves Keystone XL Pipeline Route Despite Eminent Domain Controversy and Landowner Opposition
 importance: 7
 location: Lincoln, Nebraska
 actors:
@@ -21,8 +20,8 @@ tags:
 - indigenous-rights
 capture_lanes:
 - Regulatory Capture
-- Corporate Power
-- Environmental Destruction
+- Corporate Capture
+- Environmental Capture
 sources:
 - title: Nebraska approves path for controversial Keystone XL pipeline
   outlet: CNN
@@ -36,8 +35,7 @@ sources:
   date: '2017-11-20'
   verified: true
   tier: 2
-- title: Nebraska Landowners Pledge to Fight Eminent Domain Claims for TransCanada's
-    Keystone XL Pipeline
+- title: Nebraska Landowners Pledge to Fight Eminent Domain Claims for TransCanada's Keystone XL Pipeline
   outlet: Bold Nebraska
   url: https://boldnebraska.org/nebraska-landowners-pledge-to-fight-eminent-domain-claims-for-transcanadas-keystone-xl-pipeline/
   verified: true

@@ -1,7 +1,7 @@
 ---
 id: 1903-10-29--anaconda-copper-shuts-down-montana-operations-corporate-extortion
 date: '1903-10-29'
-title: 'Anaconda Copper Shuts Down All Montana Operations to Force Legislative Changes'
+title: Anaconda Copper Shuts Down All Montana Operations to Force Legislative Changes
 importance: 8
 location: Butte, Montana
 actors:
@@ -13,10 +13,10 @@ actors:
 - Montana Legislature
 status: confirmed
 capture_lanes:
-- corporate-state-capture
-- legislative-capture
-- economic-coercion
-- judicial-manipulation
+- Corporate Capture
+- Legislative Capture
+- Financial Capture
+- Judicial Capture
 tags:
 - corporate-power
 - institutional-capture
@@ -26,7 +26,7 @@ tags:
 - worker-exploitation
 - mining-industry
 sources:
-- title: 'Butte, America''s Story Episode 33 - The Great Shutdown'
+- title: Butte, America's Story Episode 33 - The Great Shutdown
   url: https://www.verdigrisproject.org/butte-americas-story-blog/butte-americas-story-episode-33-the-great-shutdown
   outlet: The Verdigris Project
   date: '2024'

@@ -33,9 +33,9 @@ tags:
 - urban-decay
 - economic-abandonment
 capture_lanes:
-- Corporate Political Strategy
-- Economic Extraction
-- Institutional Racism
+- Corporate Capture
+- Financial Capture
+- Civil Rights Suppression
 status: confirmed
 ---
 

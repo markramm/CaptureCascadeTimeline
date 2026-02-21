@@ -26,6 +26,10 @@ sources:
   outlet: NPR
   tier: 1
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Electoral Manipulation
+- Surveillance Infrastructure
 ---
 
 Former President Donald Trump hosted a nearly two-hour dinner at his Mar-a-Lago estate with rapper Kanye West (Ye) and white nationalist Holocaust denier Nick Fuentes, sparking widespread condemnation from Republicans and Democrats. Trump claimed he "knew nothing about" Fuentes and that West "unexpectedly showed up with three of his friends" after arranging dinner to discuss business and politics. However, during the meal, Trump reportedly told Fuentes "I like you" and engaged in extended political discussion. Fuentes told Trump he represented disappointed elements of his base, particularly regarding support for January 6 defendants. West asked Trump to be his 2024 vice president, which Trump "laughed off." The dinner occurred just one week after Trump announced his 2024 presidential campaign and amid West's public antisemitic statements that had cost him major corporate partnerships. House and Senate Republicans, including incoming House Majority Leader Kevin McCarthy, condemned the meeting. The event demonstrated Trump's continued association with extremist figures and willingness to legitimize white nationalist leaders despite political backlash. NBC News reported the dinner as lasting "just under two hours" with substantive political conversation throughout.

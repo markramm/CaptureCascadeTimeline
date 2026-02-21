@@ -29,6 +29,10 @@ sources:
   outlet: Wikipedia
   tier: 3
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 President Biden signed Executive Order 14036, 'Promoting Competition in the American Economy,' on July 9, 2021, launching what the administration characterized as the most comprehensive federal effort to promote competition since the New Deal. The executive order directed over a dozen federal agencies to take action on 72 separate initiatives identified as beneficial to reining in anti-competitive practices. The order established a White House Competition Council to oversee this 'whole-of-government approach' to competition policy. Key initiatives included limiting non-compete clauses, allowing hearing aids to be sold over-the-counter, reviving net neutrality, supporting 'right to repair' efforts, and directing the FTC to issue rules on surveillance capitalism and data accumulation. The order explicitly called on the FTC and DOJ to revise merger guidelines to reflect a more structural approach to antitrust enforcement. The Washington Post described the order as 'striking in its scope and ambition,' representing a fundamental rejection of the Reagan-era paradigm that equated antitrust solely with consumer welfare measured by prices. The order reflected growing concern that decades of lax merger enforcement had led to concentration across nearly every sector of the American economy, from agriculture to tech to healthcare. However, the order's effectiveness would depend on agency rulemaking, congressional action, and court approval—all of which faced significant resistance from corporate lobbying and conservative judges trained in the Chicago School framework.

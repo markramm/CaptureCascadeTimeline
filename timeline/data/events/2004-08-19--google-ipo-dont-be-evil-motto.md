@@ -1,6 +1,6 @@
 ---
 date: '2004-08-19'
-title: 'Google IPO Raises $1.67B With "Don''t Be Evil" Motto'
+title: Google IPO Raises $1.67B With "Don't Be Evil" Motto
 description: Google's initial public offering raised $1.67 billion with founders Larry Page and Sergey Brin prominently featuring their "Don't be evil" motto in the IPO prospectus. The founders promised ethical behavior unlike Microsoft, stating they would prioritize doing "good things for the world even if we forgo some short term gains." Twenty years later, Google would become one of the world's most valuable companies through systematic monopoly abuse, facing multiple antitrust lawsuits for search manipulation, advertising monopolization, and anticompetitive practices that generated hundreds of billions in profits through the exact type of monopolistic behavior they claimed to reject.
 actors:
 - Google
@@ -17,7 +17,7 @@ tags:
 - monopolization
 - irony
 sources:
-- title: "Don't Be Evil: Google's 2004 Dutch Auction Initial Public Offering"
+- title: 'Don''t Be Evil: Google''s 2004 Dutch Auction Initial Public Offering'
   url: https://caseworks.business.columbia.edu/caseworks/dont-be-evil-googles-2004-dutch-auction-initial-public-offering
   outlet: Columbia Business School CaseWorks
   date: '2004-08-19'
@@ -36,9 +36,9 @@ sources:
 status: confirmed
 id: 2004-08-19--google-ipo-dont-be-evil-motto
 capture_lanes:
-- Corporate Power
-- Market Manipulation
-- Monopolization
+- Corporate Capture
+- Financial Capture
+- Regulatory Capture
 capture_type: market_domination
 patterns:
 - monopolistic-behavior

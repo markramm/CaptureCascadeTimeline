@@ -30,6 +30,10 @@ sources:
   date: 2002-09-12
   tier: 1
   outlet: CNN Money
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 On September 12, 2002, Manhattan District Attorney Robert Morgenthau indicted former Tyco International CEO Dennis Kozlowski, CFO Mark Swartz, and General Counsel Mark Belnick on charges of looting at least $600 million from the company through fraudulent loans and unauthorized stock sales. The three executives were led into court in handcuffs and pleaded not guilty.

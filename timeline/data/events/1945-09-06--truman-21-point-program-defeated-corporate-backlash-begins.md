@@ -37,8 +37,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- corporate-influence
-- legislative-capture
+- Corporate Capture
+- Legislative Capture
 ---
 
 President Harry Truman delivers a special message to Congress on September 6, 1945, presenting an ambitious 21-point program for postwar America that includes full employment legislation, minimum wage increases, national health insurance, expanded Social Security, and permanent Fair Employment Practices Committee legislation. Over the following two years, business interests and the conservative coalition in Congress defeat or gut nearly every major proposal.

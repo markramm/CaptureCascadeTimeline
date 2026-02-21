@@ -2,9 +2,7 @@
 id: 2025-04-21--this-chicken-company-paid-over-100-million-in-fines-for-fixi
 date: '2025-04-21'
 title: Pilgrim's Pride, Fined $100M, Donates $5M to Trump Inauguration Under Scrutiny
-description: Pilgrim's Pride made a substantial $5 million donation to the Trump-Vance
-  Inaugural Committee following multiple antitrust settlements totaling over $200
-  million, raising concerns about potential regulatory favoritism.
+description: Pilgrim's Pride made a substantial $5 million donation to the Trump-Vance Inaugural Committee following multiple antitrust settlements totaling over $200 million, raising concerns about potential regulatory favoritism.
 status: confirmed
 importance: 8
 location: Washington, D.C.
@@ -20,8 +18,7 @@ tags:
 - inaugural-fund
 capture_type: monetizing_position
 sources:
-- title: Trump's Top Inaugural Donor Is Poultry Company Fined for Price Fixing and
-    Antitrust Violations
+- title: Trump's Top Inaugural Donor Is Poultry Company Fined for Price Fixing and Antitrust Violations
   url: https://readsludge.com/2025/04/21/trumps-top-inaugural-donor-is-poultry-company-fined-for-price-fixing-and-antitrust-violations/
   outlet: Sludge
   date: '2025-04-21'
@@ -40,11 +37,10 @@ patterns:
 - kleptocratic-capture
 - inauguration-fundraising
 - antitrust-violations
-notes: Comprehensive investigation tracking potential regulatory capture and corporate
-  influence.
+notes: Comprehensive investigation tracking potential regulatory capture and corporate influence.
 capture_lanes:
 - Systematic Corruption
-- Corporate Influence
+- Corporate Capture
 ---
 
 Pilgrim's Pride, a meat processor that paid over $100 million in antitrust fines, made the largest single $5 million donation to the Trump-Vance Inaugural Committee. Senator Elizabeth Warren launched an investigation into potential quid pro quo, highlighting the company's simultaneous SEC listing and regulatory benefits.

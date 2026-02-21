@@ -29,6 +29,10 @@ sources:
   tier: 3
   outlet: CorpWatch
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- International Kleptocracy
 ---
 
 In February 2000, Halliburton's offshore subsidiary Halliburton Products and Services opened an office in Tehran, Iran, while Dick Cheney remained CEO of the parent company, completing a systematic sanctions evasion structure that generated approximately $40 million annually in oil field services contracts with the Iranian government despite President Clinton's 1995 executive order barring U.S. investment in Iran's energy sector. The subsidiary was registered in the Cayman Islands with headquarters in Dubai—a corporate structure designed to claim "independence" from the Houston-based parent company while enabling Halliburton to profit from sanctioned business. A 2004 60 Minutes investigation revealed the fraud underlying this independence claim: the Dubai subsidiary shared office space, phone lines, and fax numbers with divisions of the Houston company, demonstrating that Halliburton Products and Services functioned as an integrated component of Cheney's corporate operations rather than the independent foreign entity that legal circumvention required.

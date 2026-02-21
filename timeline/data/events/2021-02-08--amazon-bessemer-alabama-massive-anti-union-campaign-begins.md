@@ -25,6 +25,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Electoral Manipulation
 ---
 
 # Amazon Launches Massive Anti-Union Campaign at Bessemer Alabama Warehouse

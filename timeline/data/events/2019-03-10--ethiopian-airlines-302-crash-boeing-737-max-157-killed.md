@@ -39,7 +39,7 @@ tags:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Corporate Safety Negligence
+- Corporate Capture
 ---
 
 Ethiopian Airlines Flight 302, a Boeing 737 MAX 8, crashed six minutes after takeoff from Addis Ababa, Ethiopia, killing all 157 people aboard from 35 countries. The crash was caused by the same MCAS (Maneuvering Characteristics Augmentation System) malfunction that downed Lion Air Flight 610 five months earlier. A faulty angle-of-attack sensor triggered MCAS to repeatedly force the aircraft's nose down, and pilots were unable to override the system.

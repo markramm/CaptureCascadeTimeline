@@ -38,6 +38,10 @@ actors:
 - Food and Drug Administration
 - Gray Market Vendors
 - Cancer Treatment Centers
+capture_lanes:
+- Corporate Capture
+- Labor Suppression
+- Regulatory Capture
 ---
 
 Small hospitals and cancer centers across the United States reported suppliers charging 10 times normal prices for shortage chemotherapy drugs during what experts called "likely the worst chemotherapy drug shortage crisis that the U.S. has ever seen" beginning in 2023. Pacific Cancer Care in Monterey, California documented carboplatin—a chemotherapy drug normally selling for $50 per vial—being offered by alternative suppliers at $500 per vial during the shortage. The crisis affected 15 crucial drugs that had been out of stock for months, forcing doctors to ration dwindling supplies, reduce dosages, and substitute inferior alternatives. While the shortages stemmed from unsustainable economics of generic drug production—manufacturers operating on razor-thin margins at near-maximum capacity with insufficient profit to maintain quality control—gray market vendors exploited the crisis to charge hospitals 10-20 times normal prices, adding profiteering to a supply chain failure rooted in lowest-price contracting practices.

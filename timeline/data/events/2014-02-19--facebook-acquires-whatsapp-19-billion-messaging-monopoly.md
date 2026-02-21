@@ -1,7 +1,7 @@
 ---
 id: 2014-02-19--facebook-acquires-whatsapp-19-billion-messaging-monopoly
 date: '2014-02-19'
-title: 'Facebook Acquires WhatsApp for $19 Billion to Dominate Messaging Market'
+title: Facebook Acquires WhatsApp for $19 Billion to Dominate Messaging Market
 importance: 9
 actors:
 - Facebook
@@ -21,12 +21,12 @@ tags:
 - tech-platforms
 - data-privacy
 sources:
-- title: 'FTC Sues Facebook for Illegal Monopolization'
+- title: FTC Sues Facebook for Illegal Monopolization
   url: https://www.ftc.gov/news-events/news/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization
   outlet: Federal Trade Commission
   date: '2020-12-09'
   tier: 1
-- title: 'FTC Notifies Facebook, WhatsApp of Privacy Obligations'
+- title: FTC Notifies Facebook, WhatsApp of Privacy Obligations
   url: https://www.ftc.gov/news-events/news/press-releases/2014/04/ftc-notifies-facebook-whatsapp-privacy-obligations-light-proposed-acquisition
   outlet: Federal Trade Commission
   date: '2014-04-10'
@@ -36,16 +36,16 @@ sources:
   outlet: Fortune
   date: '2025-04-14'
   tier: 2
-- title: 'Meta resorted to buy-or-bury scheme with Instagram and WhatsApp deals'
+- title: Meta resorted to buy-or-bury scheme with Instagram and WhatsApp deals
   url: https://www.cnbc.com/2025/04/14/former-ftc-chair-khan-meta-acquisitions-instagram-whatsapp.html
   outlet: CNBC
   date: '2025-04-14'
   tier: 2
 status: confirmed
 capture_lanes:
-- Corporate Power Consolidation
+- Corporate Capture
 - Regulatory Capture
-- Tech Platform Monopolization
+- Digital & Tech Capture
 ---
 
 Facebook acquires WhatsApp for $19 billion, the largest tech acquisition to date, eliminating its primary competitor in mobile messaging and consolidating monopoly control over personal communications platforms. The FTC approves the acquisition without structural separation requirements despite clear anticompetitive intent.

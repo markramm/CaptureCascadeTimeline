@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: Slate
 status: confirmed
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Electoral Manipulation
 ---
 
 # Amazon Defeats Bessemer Union Vote 1,798 to 738 After Intensive Anti-Union Campaign

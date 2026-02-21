@@ -35,8 +35,7 @@ tags:
 - american-airlines
 status: confirmed
 capture_lanes:
-- Corporate Cost-Cutting Over Safety
-- Market Competition Driving Dangerous Shortcuts
+- Corporate Capture
 ---
 
 Boeing's Board of Directors approved the launch of the re-engined 737 MAX on August 30, 2011, abandoning plans to develop an entirely new aircraft design. The decision came after Airbus launched the A320neo in December 2010 and captured 1,029 orders by June 2011, including a historic defection by Boeing's longtime exclusive customer American Airlines. Faced with losing market share, Boeing chose the faster, cheaper option of re-engineering the 50-year-old 737 design rather than developing a clean-sheet aircraft that would take a decade to bring to market.

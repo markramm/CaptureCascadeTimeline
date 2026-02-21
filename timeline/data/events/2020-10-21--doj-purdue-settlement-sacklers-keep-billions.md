@@ -36,6 +36,10 @@ sources:
   date: '2020-10-22'
   tier: 2
   outlet: CUNY Academic Works
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On October 21, 2020, the Department of Justice announced a settlement totaling more than $8 billion with Purdue Pharma—touted as the largest penalties ever levied against a pharmaceutical manufacturer—yet the settlement allowed the Sackler family to keep the vast majority of billions extracted from the company. Individual Sacklers agreed to pay only $225 million while retaining an estimated $11-13 billion in wealth extracted before bankruptcy.

@@ -36,6 +36,10 @@ sources:
   outlet: ABC News
   date: '2022-11-18'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 U.S. District Judge Edward Davila sentences Theranos founder Elizabeth Holmes to 135 months (11 years, 3 months) in federal prison plus three years supervised release for defrauding investors of over $140 million. Holmes is ordered to surrender on April 27, 2023 to begin serving her sentence. Prosecutors had sought 15 years, while Holmes' defense requested house arrest or minimal prison time. The sentencing follows her January 2022 conviction on one count of conspiracy to commit investor fraud and three counts of wire fraud. Holmes defrauded sophisticated investors including Rupert Murdoch ($125 million), the Walton family ($150 million), and Betsy DeVos's family ($100 million) by lying about Theranos' technology capabilities and falsifying revenue projections.

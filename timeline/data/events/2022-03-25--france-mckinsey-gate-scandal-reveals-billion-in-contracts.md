@@ -32,9 +32,8 @@ sources:
   tier: 3
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Public Sector Capture
-- International Corruption
+- Corporate Capture
+- International Kleptocracy
 ---
 
 A French Senate inquiry committee releases a 400-page report revealing that the French government has spent almost €1 billion in consulting fees since 2017, with very little to show for it. The scandal, dubbed 'McKinsey Gate,' centers on the deep ties between McKinsey & Company and President Emmanuel Macron's government, raising serious questions about conflicts of interest, tax evasion, and the outsourcing of government policymaking to private consultants.

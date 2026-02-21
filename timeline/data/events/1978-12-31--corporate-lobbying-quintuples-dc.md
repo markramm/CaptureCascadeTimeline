@@ -29,8 +29,8 @@ id: 1978-12-31--corporate-lobbying-quintuples-dc
 priority_id: RP-20250109-capture-cascade-part1
 capture_lanes:
 - Systematic Corruption
-- Corporate Political Influence
-- Institutional Transformation
+- Corporate Capture
+- Democratic Erosion
 ---
 
 By the end of the 1970s, corporate public affairs offices in Washington dramatically expanded from 100 in 1968 to over 500, with registered corporate lobbyists increasing from 175 in 1971 to nearly 2,500. This unprecedented mobilization, influenced by the Powell Memo, represented a systematic strategy to reshape institutional influence and create a coordinated corporate political infrastructure.

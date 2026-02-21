@@ -9,13 +9,13 @@ actors:
 - Pembina Consolidated Silver Mining and Milling Company
 - Commonwealth of Pennsylvania
 sources:
-- title: 'Pembina Consolidated Silver Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)'
+- title: Pembina Consolidated Silver Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)
   url: https://supreme.justia.com/cases/federal/us/125/181/
   outlet: Justia U.S. Supreme Court Center
 - title: 'U.S. Reports: Pembina Mining Co. v. Pennsylvania, 125 U.S. 181 (1888)'
   url: https://www.loc.gov/item/usrep125181/
   outlet: Library of Congress
-- title: 'Pembina Consolidated Silver Mining & Milling Co. v. Commonwealth of Pennsylvania - Case Brief'
+- title: Pembina Consolidated Silver Mining & Milling Co. v. Commonwealth of Pennsylvania - Case Brief
   url: https://www.quimbee.com/cases/pembina-consolidated-silver-mining-milling-co-v-commonwealth-of-pennsylvania
   outlet: Quimbee
 tags:
@@ -25,8 +25,8 @@ tags:
 - due-process
 - corporate-rights
 capture_lanes:
-- Corporate Power & Influence
-- Judicial Capture & Corruption
+- Corporate Capture
+- Judicial Capture
 status: confirmed
 ---
 

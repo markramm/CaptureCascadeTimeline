@@ -1,7 +1,7 @@
 ---
 id: 2019-07-24--ftc-fines-facebook-5-billion-zuckerberg-immunity-settlement
 date: '2019-07-24'
-title: 'FTC Fines Facebook Record $5 Billion But Grants Zuckerberg Immunity from Personal Liability'
+title: FTC Fines Facebook Record $5 Billion But Grants Zuckerberg Immunity from Personal Liability
 importance: 9
 actors:
 - Facebook
@@ -21,12 +21,12 @@ tags:
 - accountability-failure
 - corporate-impunity
 sources:
-- title: 'FTC Imposes $5 Billion Penalty on Facebook'
+- title: FTC Imposes $5 Billion Penalty on Facebook
   url: https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook
   outlet: Federal Trade Commission
   date: '2019-07-24'
   tier: 1
-- title: 'FTC To Hold Facebook CEO Mark Zuckerberg Personally Liable'
+- title: FTC To Hold Facebook CEO Mark Zuckerberg Personally Liable
   url: https://www.npr.org/2019/07/24/741282397/facebook-to-pay-5-billion-to-settle-ftc-privacy-case
   outlet: NPR
   date: '2019-07-24'
@@ -36,7 +36,7 @@ sources:
   outlet: NBC News
   date: '2019-07-24'
   tier: 1
-- title: 'Facebook Agrees to Pay $5 Billion Settlement'
+- title: Facebook Agrees to Pay $5 Billion Settlement
   url: https://www.justice.gov/archives/opa/pr/facebook-agrees-pay-5-billion-and-implement-robust-new-protections-user-information
   outlet: U.S. Department of Justice
   date: '2019-07-24'
@@ -44,9 +44,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Corporate Impunity
-- Accountability Evasion
-- Elite Immunity
+- Corporate Capture
+- Systematic Corruption
 ---
 
 The FTC announces a record $5 billion fine against Facebook for privacy violations related to Cambridge Analytica, but grants unprecedented immunity from personal liability to Mark Zuckerberg and other executives for past misconduct while imposing no structural changes to the company's surveillance business model. Dissenting commissioners condemn the settlement as a "sweetheart deal" that amounts to only one month of Facebook revenue.

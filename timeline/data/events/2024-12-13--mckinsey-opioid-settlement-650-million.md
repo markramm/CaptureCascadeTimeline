@@ -37,8 +37,7 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Healthcare Corruption
+- Corporate Capture
 - Regulatory Capture
 ---
 

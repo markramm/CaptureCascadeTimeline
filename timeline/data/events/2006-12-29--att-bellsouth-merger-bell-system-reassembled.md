@@ -33,6 +33,10 @@ sources:
   outlet: Wikipedia
   date: '2024'
   tier: 3
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Digital & Tech Capture
 ---
 
 AT&T Inc. (formerly SBC Communications) completed its $85.8 billion acquisition of BellSouth Corporation with FCC approval, reassembling much of the former Bell System that was broken up in 1984 as an antitrust remedy. The merger consolidated control over telecommunications infrastructure across much of the United States and completed a remarkable reversal of the most famous antitrust case of the 20th century, as one of the Baby Bells grew large enough to acquire its former parent company and multiple siblings.

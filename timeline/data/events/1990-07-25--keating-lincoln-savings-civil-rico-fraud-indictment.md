@@ -23,6 +23,10 @@ sources:
 - title: 'NPR: Keating Case Legal Proceedings Update'
   date: '1996-12-03'
   url: https://www.npr.org/1996/12/03/1041592/keating
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Financial Capture
 ---
 
 Charles H. Keating Jr. was indicted on 42 counts of fraud and racketeering related to the Lincoln Savings and Loan collapse. The indictment exposed massive financial fraud involving risky junk bond investments that led to billions in losses for investors and taxpayers.

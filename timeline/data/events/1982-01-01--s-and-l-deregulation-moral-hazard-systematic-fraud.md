@@ -17,21 +17,25 @@ tags:
 - fraud
 - deposit-insurance
 sources:
-- title: 'Savings and Loan Crisis'
+- title: Savings and Loan Crisis
   url: https://www.federalreservehistory.org/essays/savings-and-loan-crisis
   outlet: Federal Reserve History
   date: '2024-01-01'
   verified: true
-- title: 'The Savings and Loan Crisis (1989)'
+- title: The Savings and Loan Crisis (1989)
   url: https://internationalbanker.com/history-of-financial-crises/the-savings-and-loan-crisis-1989/
   outlet: International Banker
   date: '2024-01-01'
   verified: true
-- title: 'Savings and loan crisis'
+- title: Savings and loan crisis
   url: https://en.wikipedia.org/wiki/Savings_and_loan_crisis
   outlet: Wikipedia
   date: '2024-01-01'
   verified: true
+capture_lanes:
+- Corporate Capture
+- Systematic Corruption
+- Regulatory Capture
 ---
 
 Reagan-era S&L deregulation creates massive moral hazard by combining three toxic elements: elimination of prudential lending standards, expanded federal deposit insurance covering risky investments, and weakened regulatory oversight. The Garn-St. Germain Act removes Depression-era constraints that had prevented S&L failures, allowing thrifts to invest in commercial real estate, junk bonds, and speculative ventures while maintaining federal insurance guarantees. This combination incentivizes fraud and reckless risk-taking: S&L executives can gamble with federally-insured deposits knowing that profits are privatized while losses are socialized onto taxpayers.

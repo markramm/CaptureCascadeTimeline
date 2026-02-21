@@ -32,6 +32,10 @@ sources:
   date: '2021-11-23'
   tier: 2
   outlet: Fierce Healthcare
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Financial Capture
 ---
 
 On November 23, 2021, a federal jury in Cleveland found CVS, Walgreens, and Walmart liable for contributing to the opioid crisis in Lake and Trumbull counties in Ohio. After a six-week trial and five and a half days of deliberation, jurors concluded that the pharmacy chains contributed to a public nuisance by selling and dispensing massive quantities of prescription pain pills without adequate oversight.

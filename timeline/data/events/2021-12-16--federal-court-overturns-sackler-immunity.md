@@ -31,6 +31,10 @@ sources:
   date: '2021-12-16'
   tier: 2
   outlet: WHQR Public Radio
+capture_lanes:
+- Corporate Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 On December 16, 2021, U.S. District Court Judge Colleen McMahon overturned the controversial bankruptcy settlement that would have granted the Sackler family immunity from opioid-related lawsuits in exchange for $4.5 billion. Judge McMahon ruled that bankruptcy courts do not have the authority to approve such releases under federal bankruptcy law, rejecting the unprecedented attempt to shield billionaires who never filed for bankruptcy.

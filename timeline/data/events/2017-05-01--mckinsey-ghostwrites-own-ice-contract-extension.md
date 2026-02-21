@@ -1,8 +1,7 @@
 ---
 id: 2017-05-01--mckinsey-ghostwrites-own-ice-contract-extension
 date: '2017-05-01'
-title: 'McKinsey Ghostwrites Its Own $2.2 Million ICE Contract Extension: Consulting
-  Firm Defines Its Own Scope of Work'
+title: 'McKinsey Ghostwrites Its Own $2.2 Million ICE Contract Extension: Consulting Firm Defines Its Own Scope of Work'
 importance: 8
 actors:
 - McKinsey & Company
@@ -22,8 +21,7 @@ sources:
   outlet: ProPublica
   date: '2019-12-03'
   tier: 1
-- title: Consulting firm McKinsey's suggestions for ICE were sometimes too harsh even
-    for the agency
+- title: Consulting firm McKinsey's suggestions for ICE were sometimes too harsh even for the agency
   url: https://www.mic.com/impact/consulting-firm-mckinseys-suggestions-for-ice-were-sometimes-too-harsh-even-for-the-agency-19426397
   outlet: Mic
   date: '2019-12-03'
@@ -42,8 +40,8 @@ sources:
   date: '2023-05-22'
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Government Capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 

@@ -36,6 +36,10 @@ sources:
   outlet: CNBC
   date: '2023-12-18'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 U.S. Attorney's Office for the Southern District of New York and the SEC simultaneously charge Nikola Corporation founder Trevor Milton with securities and wire fraud for systematically deceiving investors about the company's hydrogen truck technology. Milton made false claims that a prototype truck was 'fully functional' when it was actually missing motors and gears and was rolled downhill for a promotional video to create the illusion of operation. The indictment reveals Milton exploited a critical regulatory gap: Nikola went public through a SPAC (Special Purpose Acquisition Company) merger with VectoIQ rather than a traditional IPO, allowing Milton to make false public statements during a period when IPO rules would have prohibited such claims. At its peak in June 2020, Nikola's market cap reached $30 billion, briefly exceeding Ford's valuation, based entirely on fabricated capabilities. Short-seller Hindenburg Research exposed the fraud in September 2020, triggering Milton's resignation. In October 2022, Milton was convicted on three counts and sentenced to four years in prison, $168 million in restitution, and a $1 million fine. However, in March 2025, President Trump granted Milton a full pardon. The case exposes how the SPAC boom of 2020-2021 created a regulatory void that enabled charismatic founders to defraud investors without the disclosure requirements and liability standards that govern traditional IPOs.

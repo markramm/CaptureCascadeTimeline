@@ -42,7 +42,7 @@ actors:
 status: confirmed
 capture_lanes:
 - Regulatory Capture
-- Corporate Safety Negligence
+- Corporate Capture
 validation_priority: 8
 ---
 

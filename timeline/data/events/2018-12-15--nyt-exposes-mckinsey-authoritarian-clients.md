@@ -1,8 +1,7 @@
 ---
 id: 2018-12-15--nyt-exposes-mckinsey-authoritarian-clients
 date: '2018-12-15'
-title: New York Times Investigation Exposes McKinsey's Work Raising Stature of Authoritarian
-  Governments
+title: New York Times Investigation Exposes McKinsey's Work Raising Stature of Authoritarian Governments
 importance: 9
 actors:
 - McKinsey & Company
@@ -24,13 +23,11 @@ tags:
 - institutional-capture
 - corporate-consulting
 sources:
-- title: New York Times states McKinsey is helping raise stature of authoritarian
-    govts.; McKinsey responds
+- title: New York Times states McKinsey is helping raise stature of authoritarian govts.; McKinsey responds
   url: https://www.business-humanrights.org/en/latest-news/new-york-times-states-mckinsey-is-helping-raise-stature-of-authoritarian-govts-mckinsey-responds/
   outlet: Business & Human Rights Resource Centre
   tier: 2
-- title: The iconic U.S. company raising the stature of corrupt governments around
-    the world
+- title: The iconic U.S. company raising the stature of corrupt governments around the world
   url: https://www.seattletimes.com/nation-world/the-iconic-u-s-company-raising-the-stature-of-corrupt-governments-around-the-world/
   outlet: The Seattle Times
   tier: 1
@@ -52,8 +49,8 @@ sources:
   date: '2018-12-15'
 status: confirmed
 capture_lanes:
-- corporate-consulting
-- authoritarian-capture
+- Corporate Capture
+- Executive Power Expansion
 ---
 
 

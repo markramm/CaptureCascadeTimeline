@@ -32,6 +32,10 @@ actors:
 - Raytheon
 - Saudi Arabia
 - Joe Biden
+capture_lanes:
+- Corporate Capture
+- Financial Capture
+- Systematic Corruption
 ---
 
 On January 28, 2021, during a quarterly earnings call just days after Joe Biden's inauguration, Raytheon CEO Greg Hayes told investors that "peace is not going to break out in the Middle East anytime soon," framing ongoing regional conflicts and violence as positive factors for company revenue. Hayes made the statement while discussing Raytheon's financial outlook and expectations for continued weapons sales to Gulf states, particularly Saudi Arabia. The CEO's explicit celebration of conflict as a business opportunity came amid the Biden administration's review of Saudi arms sales due to Yemen war crimes, and while Raytheon faced potential loss of a $519 million Paveway bomb contract to Saudi Arabia. Hayes indicated that while the administration might temporarily block "offensive" weapons like Paveway bombs, Raytheon anticipated no issues selling "defensive" systems like Patriot missiles and expected "solid growth" in the region. The statement exemplified how defense contractor executives explicitly viewed war and violence as revenue opportunities rather than tragedies requiring diplomatic solutions.

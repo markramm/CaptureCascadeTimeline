@@ -31,6 +31,10 @@ sources:
   date: '2023-11-14'
   tier: 1
   outlet: CBS News
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On November 14, 2023, the families of two deceased Medicare Advantage beneficiaries filed a federal class action lawsuit alleging that UnitedHealth Group knowingly uses a faulty artificial intelligence algorithm with a 90% error rate to systematically deny elderly patients coverage for medically necessary post-acute care. The lawsuit claims that UnitedHealth's nH Predict AI tool overrides physicians' medical judgments to cut off coverage prematurely, leading to patient deaths and deteriorating health. When patients appeal these AI-driven denials, they win over 90% of the time—proving the denials were medically unjustified—but the arduous appeals process results in many patients dying or suffering permanent harm before coverage is restored.

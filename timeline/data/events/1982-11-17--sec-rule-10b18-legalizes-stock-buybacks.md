@@ -31,6 +31,10 @@ sources:
   outlet: American Bar Association
   date: '2021-04-01'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Financial Capture
+- Regulatory Capture
 ---
 
 Under Reagan administration SEC Chairman John Shad, former vice chairman of E.F. Hutton, the Securities and Exchange Commission adopts Rule 10b-18, creating a 'safe harbor' from manipulation liability for corporate stock repurchases. Prior to this rule, large-scale share repurchases were considered stock manipulation under the Securities Exchange Act of 1934 and were effectively illegal. The rule allows companies to buy back their own stock without fear of prosecution as long as they don't exceed 25% of average daily volume over four weeks and avoid trading at market open or close. This regulatory change, justified as protecting companies from corporate raiders, fundamentally transforms corporate finance by enabling a massive wealth extraction mechanism. Studies show buyback volume tripled in the year after the rule took effect. Between 2003 and 2012, S&P 500 companies spent 54% of earnings on buybacks and 37% on dividends—totaling 91% of profits returned to shareholders instead of investment in productive capacity, research, or worker wages. By 2012, annual buybacks reach $500 billion, and by 2024, combined buybacks and dividends exceed $1.6 trillion annually. This mechanism allows executives (whose compensation is tied to stock prices through options) to artificially inflate share values through buybacks rather than actual business growth, effectively transferring wealth from workers and long-term investment to shareholders and executives while contributing to wage stagnation and declining business investment.

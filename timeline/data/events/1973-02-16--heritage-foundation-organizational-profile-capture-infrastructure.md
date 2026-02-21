@@ -42,6 +42,10 @@ sources:
   outlet: Revolving Door Project
   date: '2024'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Regulatory Capture
 ---
 
 Comprehensive organizational analysis reveals the Heritage Foundation's structure as a systematic corporate capture mechanism. Founded by Paul Weyrich, Edwin Feulner, and funded with Joseph Coors' $250,000 seed money, Heritage grew from startup to $100M+ annual revenue by 2010s, reaching $122.9M peak in 2019. The organization operates as a 501(c)(3) with $415M in assets (2023) while functioning as the intellectual backbone of corporate-conservative policy implementation.

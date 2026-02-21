@@ -30,6 +30,10 @@ sources:
   date: '2023-01-25'
   tier: 1
   outlet: KFF Health News
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 In November 2021, Pfizer reported annual profits of $21.98 billion on revenues of $81.29 billion for 2021, with COVID-19 vaccine sales of $36.7 billion accounting for 45% of total company revenue. The COVID-19 vaccine became one of the most financially successful pharmaceutical products in history, generating massive profits while relying on publicly-funded research, government advance purchase commitments, and liability protections—demonstrating how pharmaceutical companies privatize publicly-funded innovation while extracting maximum profits during public health emergencies.

@@ -43,6 +43,10 @@ sources:
   outlet: Education Week
   date: '2023-03-01'
   tier: 2
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Intelligence Penetration
 ---
 
 Arizona Governor Jan Brewer signs the nation's first Education Savings Account (ESA) program into law in 2011, establishing the 'Empowerment Scholarship Account' program initially limited to students with special needs. The legislation closely follows the American Legislative Exchange Council's model bill framework developed by ALEC's Education Task Force, which had been promoting ESAs as the next evolution of school vouchers since 2008 with the 'Family Education Savings Account Act.' Arizona's pioneering law creates individual accounts funded with state per-pupil education dollars that parents can use for private school tuition, tutoring, online courses, and educational materials, subtracting funds directly from state school aid.

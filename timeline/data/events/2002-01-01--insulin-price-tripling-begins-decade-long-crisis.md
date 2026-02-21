@@ -38,6 +38,10 @@ actors:
 - Sanofi
 - Congressional Diabetes Caucus
 - Big Pharma
+capture_lanes:
+- Corporate Capture
+- Legislative Capture
+- Systematic Corruption
 ---
 
 The average price of insulin in the United States began a decade-long tripling from $231 per patient annually in 2002 to $762 in 2013, according to congressional hearing data—with some patients paying up to $900 per month for insulin products that cost $4.34 per milliliter in 2002 but reached $12.92 per milliliter by 2013. Three companies—Eli Lilly, Novo Nordisk, and Sanofi—controlled 99% of the global insulin market and 100% of the US market, eliminating price competition while implementing synchronized price increases that raised costs 300% over the decade. The price increases occurred despite insulin being a century-old drug with no significant breakthroughs in the underlying science, and despite the United States comprising only 15% of global insulin volume but generating nearly 50% of insulin-related revenue—exposing how the US pharmaceutical market had become optimized for price extraction rather than patient access.

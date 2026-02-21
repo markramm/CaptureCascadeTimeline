@@ -32,8 +32,8 @@ sources:
   verified: true
 status: confirmed
 capture_lanes:
-- Corporate Consulting
-- Government Capture
+- Corporate Capture
+- Democratic Erosion
 ---
 
 U.S. Representative Pramila Jayapal (WA-07), Vice Chair of the House Judiciary Committee on Immigration and Citizenship, writes to Kevin Sneader, Global Managing Partner of McKinsey & Company, demanding detailed information about the firm's work with ICE. The letter requests specific documentation about facility visits, budget recommendations, cost-cutting proposals, and any considerations for community-based alternatives to detention.

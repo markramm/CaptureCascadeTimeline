@@ -33,6 +33,10 @@ sources:
   date: 2022-01-26
   tier: 2
   outlet: The Motley Fool
+capture_lanes:
+- Corporate Capture
+- Digital & Tech Capture
+- Regulatory Capture
 ---
 
 Palantir Technologies and Amazon Web Services announce a formal strategic partnership to optimize Palantir's Foundry and Gotham platforms for deployment on AWS cloud infrastructure, integrating two of the most powerful surveillance and data analytics systems used by U.S. intelligence and defense agencies. The partnership combines Amazon's cloud infrastructure dominance with Palantir's specialized surveillance analytics capabilities, creating an integrated ecosystem for government data mining and intelligence operations.

@@ -11,17 +11,17 @@ actors:
 - Diamond Shamrock
 - Uniroyal
 sources:
-- title: 'In re Agent Orange Product Liability Litigation (1979-1984)'
+- title: In re Agent Orange Product Liability Litigation (1979-1984)
   outlet: Embryo Project Encyclopedia
   url: https://embryo.asu.edu/pages/re-agent-orange-product-liability-litigation-1979-1984
   verified: true
   tier: 1
-- title: 'The U.S. Lawsuit'
+- title: The U.S. Lawsuit
   outlet: Agent Orange Record
   url: https://www.agentorangerecord.org/the-us-lawsuit
   verified: true
   tier: 2
-- title: 'Agent Orange'
+- title: Agent Orange
   outlet: Dow Chemical Corporate Website
   url: https://corporate.dow.com/en-us/about-dow/company/agent-orange.html
   verified: true
@@ -33,9 +33,8 @@ tags:
 - government-deception
 - accountability-failure
 capture_lanes:
-- Corporate Liability Evasion
-- Veterans' Rights Denial
-- Government Contractor Defense
+- Corporate Capture
+- Regulatory Capture
 status: confirmed
 ---
 

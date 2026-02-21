@@ -31,6 +31,10 @@ sources:
   date: '2025-02-01'
   tier: 2
   outlet: OpenSecrets
+capture_lanes:
+- Corporate Capture
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 Oracle Corporation spent approximately $11 million on federal lobbying during 2024, maintaining its position among an exclusive group of companies that exceeded eight figures in annual lobbying expenditures. This lobbying investment placed Oracle alongside tech giants including Amazon, Google's parent company Alphabet, and traditional corporate lobbying powerhouses like the U.S. Chamber of Commerce and General Motors. Oracle has maintained at least $11 million in annual federal lobbying spending for each of the previous four full years (2021-2024), demonstrating sustained investment in government influence operations.

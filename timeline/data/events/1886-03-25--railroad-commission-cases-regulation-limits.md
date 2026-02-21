@@ -10,12 +10,12 @@ actors:
 - Mobile & Ohio Railroad Company
 - Mississippi Railroad Commission
 sources:
-- title: 'Railroad Commission Cases, 116 U.S. 307 (1886)'
+- title: Railroad Commission Cases, 116 U.S. 307 (1886)
   url: https://www.law.cornell.edu/supremecourt/text/116/307
   outlet: Legal Information Institute, Cornell Law School
 - title: Railroad Commission Cases - Wikipedia
   url: https://en.wikipedia.org/wiki/Railroad_Commission_Cases
-- title: 'Reagan v. Farmers'' Loan & Trust Co., 154 U.S. 362 (1894)'
+- title: Reagan v. Farmers' Loan & Trust Co., 154 U.S. 362 (1894)
   url: https://www.law.cornell.edu/supremecourt/text/154/362
   outlet: Legal Information Institute, Cornell Law School
 tags:
@@ -26,9 +26,9 @@ tags:
 - property-rights
 - gilded-age
 capture_lanes:
-- Corporate Power & Influence
-- Judicial Capture & Corruption
-- Regulatory Capture & Erosion
+- Corporate Capture
+- Judicial Capture
+- Regulatory Capture
 status: confirmed
 ---
 
