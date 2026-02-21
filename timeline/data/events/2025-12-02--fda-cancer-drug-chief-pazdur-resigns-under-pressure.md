@@ -68,6 +68,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Media Capture & Control
+status: reported
 ---
 
 Dr. Richard Pazdur, the FDA's highly respected director of the Oncology Center of Excellence and newly appointed director of the Center for Drug Evaluation and Research (CDER), filed papers to retire at the end of December 2025, just three weeks after accepting the CDER role on November 11, 2025. He informed FDA leaders of his decision at a meeting on Tuesday, December 2, 2025. Pazdur's abrupt departure came after clashing with FDA Commissioner Marty Makary over what Pazdur saw as political interference in drug review decisions.

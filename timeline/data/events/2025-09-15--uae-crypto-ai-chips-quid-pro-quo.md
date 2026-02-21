@@ -34,6 +34,7 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - International Kleptocracy
+status: reported
 ---
 
 The New York Times revealed that after UAE entity MGX (controlled by Sheikh Tahnoon bin Zayed) invested $2 billion in World Liberty Financial—a cryptocurrency venture co-founded by Trump and special envoy Steve Witkoff—the White House approved the UAE's acquisition of hundreds of thousands of advanced U.S. AI chips destined for G42, a Tahnoon-controlled firm. The report, based on interviews with over 75 people, exposed the apparent quid pro quo involving Trump's AI/crypto czar David Sacks who advocated for the chip deal while the Emiratis poured billions into the Trump family's crypto business. This represents one of the most brazen pay-to-play schemes in modern presidential history, involving sensitive national security technology and billions in personal enrichment.

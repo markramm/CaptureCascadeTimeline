@@ -65,4 +65,5 @@ capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
 - Intelligence Penetration
+status: reported
 ---

@@ -40,6 +40,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 - Electoral Manipulation
+status: reported
 ---
 
 In a stunning courtroom admission during a November 19, 2025 hearing, the Justice Department acknowledged that the full grand jury never reviewed the final indictment against former FBI Director James Comey. Prosecutor Tyler Lemons confirmed that only two grand jurors—the foreperson and one other member—were present when the revised two-count indictment was presented for signing. When Judge Michael Nachmanoff asked directly, "So the grand jury never saw the final version?" Lemons responded, "I was not there, but that is my understanding, your honor." This revelation came during a critical hearing on Comey's motion to dismiss the charges as vindictive prosecution.

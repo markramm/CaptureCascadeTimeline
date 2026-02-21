@@ -30,6 +30,7 @@ capture_lanes:
 - Labor Suppression
 - Digital & Tech Capture
 - Financial Capture
+status: reported
 ---
 
 Transportation Secretary Sean Duffy announced on November 6, 2025, that the Federal Aviation Administration would implement a 10% reduction in U.S. air traffic across 40 airports in the coming days due to severe air traffic controller shortages caused by the ongoing government shutdown. The unprecedented measure came as air traffic controllers entered their sixth week working without pay, with many receiving another $0 paycheck while working 60-hour weeks, six days a week. A top air traffic controller union leader reported unprecedented resignation rates as controllers faced impossible choices between their critical safety responsibilities and their families' financial survival.

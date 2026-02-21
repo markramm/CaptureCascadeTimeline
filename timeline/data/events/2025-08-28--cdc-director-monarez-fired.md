@@ -29,6 +29,7 @@ sources:
   outlet: ABC News
 capture_lanes:
 - Democratic Erosion
+status: reported
 ---
 
 The White House fired CDC Director Susan Monarez after she refused to resign amid pressure from HHS Secretary RFK Jr. to change vaccine policy, making her the shortest-lived CDC director in the agency's history after less than one month in office. Monarez's lawyers stated she 'refused to rubber-stamp unscientific, reckless directives,' specifically rejecting RFK Jr.'s demand that she commit in advance to approving every Advisory Committee on Immunization Practices (ACIP) recommendation regardless of scientific evidence. RFK Jr. also directed Monarez to dismiss career officials responsible for vaccine policy without cause. Three top CDC officials announced resignations as the administration moved to oust Monarez, protesting RFK Jr.'s politicization of public health. The purge represents systematic capture of public health institutions to advance anti-vaccine ideology, replacing scientific expertise with political loyalty while dismantling the independent advisory processes that have protected Americans from preventable diseases for decades.

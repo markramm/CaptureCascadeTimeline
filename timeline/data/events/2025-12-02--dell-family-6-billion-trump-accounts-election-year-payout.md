@@ -40,6 +40,7 @@ capture_lanes:
 - Financial Capture
 - Electoral Manipulation
 - Digital & Tech Capture
+status: reported
 ---
 
 # Dell Family Announces $6.25 Billion Donation to Trump Accounts in Largest Private Child Investment

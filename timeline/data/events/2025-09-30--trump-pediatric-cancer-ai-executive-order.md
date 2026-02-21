@@ -33,6 +33,7 @@ capture_lanes:
 - Executive Power Expansion
 - Digital & Tech Capture
 - Intelligence Penetration
+status: reported
 ---
 
 President Trump signed an executive order on September 30, 2025, titled 'Unlocking Cures for Pediatric Cancer with Artificial Intelligence,' committing an additional $50 million to explore AI applications in pediatric cancer research. The order directs the MAHA Commission to coordinate with HHS, the White House AI and Science advisors, and the Special Advisor for AI and Crypto to develop AI-driven solutions for childhood cancer diagnoses, treatments, and prevention.

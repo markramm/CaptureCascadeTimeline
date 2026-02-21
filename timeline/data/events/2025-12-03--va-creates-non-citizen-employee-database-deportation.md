@@ -41,6 +41,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Civil Rights Suppression
 - Labor Suppression
+status: reported
 ---
 
 # Veterans Affairs Creates Database of Non-Citizen Employees for Deportation Targeting

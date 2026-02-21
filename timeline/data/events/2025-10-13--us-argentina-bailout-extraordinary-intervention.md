@@ -23,6 +23,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 - Electoral Manipulation
+status: reported
 ---
 
 Treasury Secretary Scott Bessent directed $20 billion in U.S. taxpayer funds to purchase Argentine pesos and stabilize markets ahead of elections, representing only the fourth time since 1996 that the United States has purchased another country's currency. The extraordinary intervention primarily benefits major hedge funds holding Argentine debt, including those run by Bessent's former colleagues. The bailout is not an urgent economic necessity but rather a political favor to Trump ally Javier Milei, using American taxpayer dollars to prop up a foreign leader's electoral prospects while enriching administration insiders' financial holdings. This represents systematic corruption at the Treasury Department, where foreign policy decisions are made to benefit the personal financial interests of government officials.

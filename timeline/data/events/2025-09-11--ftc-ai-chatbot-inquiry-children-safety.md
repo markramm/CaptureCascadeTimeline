@@ -36,6 +36,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
+status: reported
 ---
 
 On September 11, 2025, the Federal Trade Commission issued Section 6(b) orders to seven major tech companies—Alphabet (Google), Character.AI, Meta (Instagram/Facebook), OpenAI, Snap, and Elon Musk's xAI—demanding detailed information about AI-powered 'companion' chatbots designed to mimic human emotions and relationships. The investigation focuses on how these companies monetize user engagement, handle personal information from conversations, develop AI characters, and mitigate negative impacts on children and teens. The inquiry comes amid mounting lawsuits and reports linking chatbots to youth suicides, sexual exploitation, and psychological harm. The FTC seeks to understand how companies measure and monitor these technologies' potentially damaging effects on vulnerable young users who may form dangerous parasocial relationships with AI systems. This represents one of the first major federal regulatory actions scrutinizing the AI industry's predatory business models targeting children.

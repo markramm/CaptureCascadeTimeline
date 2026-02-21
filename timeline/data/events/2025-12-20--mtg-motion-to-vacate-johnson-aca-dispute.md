@@ -107,4 +107,5 @@ capture_lanes:
 - Legislative Capture
 - Labor Suppression
 - Surveillance Infrastructure
+status: reported
 ---

@@ -30,6 +30,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Systematic Corruption
 - Executive Power Expansion
+status: reported
 ---
 
 YouTube agreed to pay Trump $24.5 million to settle his lawsuit over account suspension following the January 6, 2021 Capitol attack, with Google dedicating $22 million to Trump's White House ballroom construction. Free speech experts stated the lawsuit raised no credible legal claims since First Amendment protections apply to government censorship, not private companies, characterizing this as influence-peddling rather than legitimate litigation. The settlement follows similar payouts from Meta ($25 million in January 2025) and X ($10 million), creating a pattern where tech companies pay Trump to settle frivolous lawsuits while seeking favorable treatment from his administration. The arrangement converts Trump's presidency into a shakedown operation where companies under regulatory scrutiny pay settlements that fund personal monuments to presidential power.

@@ -48,6 +48,7 @@ capture_lanes:
 - Electoral Manipulation
 - Civil Rights Suppression
 - Surveillance Infrastructure
+status: reported
 ---
 
 Mark Calabria, Trump's chief statistician at the Office of Management and Budget, publicly signaled a potential rollback of Biden-era updates to federal racial and ethnic data collection standards at a December 5 meeting of the Council of Professional Associations on Federal Statistics. The announcement threatens to reverse the first major revision to census categories in 27 years—specifically eliminating the new "Middle Eastern or North African" (MENA) category and reformatted "Hispanic or Latino" question approved after extensive Census Bureau research and more than 20,000 public comments. Calabria stated the administration is "still at the very beginning of a review" of both the revised standards and the approval process itself, marking the first public confirmation that Trump officials are considering abandoning these changes for the 2030 census and all federal government data collection.

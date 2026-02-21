@@ -24,6 +24,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 - Federal Workforce Capture
+status: reported
 ---
 
 The Office of Management and Budget quietly deleted statutory back pay guarantees from government shutdown guidance, signaling possible denial of restitution to 620,000 furloughed federal workers despite a 2019 law requiring it. OMB issued a memo arguing Trump lacks legal obligation to provide back pay, with Trump suggesting payments would depend on 'who we're talking about,' indicating selective enforcement based on loyalty. This represents deliberate subversion of congressional legislation protecting federal workers, with the executive branch claiming authority to ignore statutory requirements and selectively punish workers based on political considerations.

@@ -39,6 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Media Capture & Control
 - Systematic Corruption
+status: reported
 ---
 
 # Trump Intervenes in Netflix-Warner Bros Antitrust Review, Favoring Politically Connected Paramount

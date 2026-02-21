@@ -31,6 +31,7 @@ actors:
 capture_lanes:
 - Civil Rights Suppression
 - Financial Capture
+status: reported
 ---
 
 On October 30, 2025, Immigration and Customs Enforcement agents shot 25-year-old U.S. citizen Carlos Jimenez in the shoulder during an early morning enforcement operation in Ontario, California, near Los Angeles. The incident occurred around 6:30 a.m. in the 2800 block of South Vineyard Avenue, near a bus stop where children gather for school. According to Jimenez's lawyers, he was on his way to work at a food bank when he noticed ICE agents blocking traffic near the school bus stop. He pulled over to ask officers to clear the street and move away from children. Lawyers state Jimenez was shot from behind while attempting to leave the scene, with a bullet remaining lodged in the back of his right shoulder. Federal authorities charged Jimenez with assaulting a federal officer, claiming he reversed his vehicle toward an agent. Democracy Now reported on November 4 that this was the fifth ICE shooting since August 2025, part of an escalating pattern of violence in immigration enforcement operations. Jimenez was arrested at the hospital after treatment and later released on $10,000 bond with an ankle monitor. The shooting of a U.S. citizen attempting to protect children from armed federal agents near a school demonstrates the dangerous escalation of immigration enforcement tactics under Trump's mass deportation campaign. CAIR-LA called for an independent investigation, noting profound concerns about ICE's use of lethal force against U.S. citizens.

@@ -47,6 +47,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Media Capture & Control
+status: reported
 ---
 
 On October 17, 2025, the Trump administration fired two senior federal prosecutors from the Eastern District of Virginia after they voiced opposition to bringing criminal charges against New York Attorney General Letitia James. Elizabeth Yusi, the top criminal prosecutor for the Norfolk office who had served as an assistant U.S. attorney in the Eastern District since 2010, and her deputy Kristin Bird, deputy chief of the Narcotics and Violent Crime Unit since 2019, were informed of their terminations on Friday and escorted from the building.

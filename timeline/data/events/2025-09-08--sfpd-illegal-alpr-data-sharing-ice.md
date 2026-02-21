@@ -32,6 +32,7 @@ tags:
 - california
 capture_lanes:
 - Surveillance Infrastructure
+status: reported
 ---
 
 Records obtained by The San Francisco Standard in September 2025 revealed that the San Francisco Police Department (SFPD) allowed out-of-state police agencies to run more than 1.6 million illegal searches of the city's automated license plate reader (ALPR) database, including at least 19 searches marked as related to U.S. Immigration and Customs Enforcement. The SFPD's 415 Flock Safety ALPR cameras provided direct access to law enforcement from Georgia and Texas—both states with severe abortion restrictions—in violation of California sanctuary laws that bar assisting immigration enforcement and state laws prohibiting ALPR data sharing with out-of-state police for any purpose. The Electronic Frontier Foundation and ACLU sent a demand letter following the revelation. This systemic violation demonstrates how local police departments circumvent privacy protections and sanctuary policies, enabling ICE surveillance operations and potentially exposing California residents seeking reproductive healthcare to prosecution by hostile state actors.

@@ -51,6 +51,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Electoral Manipulation
 - Media Capture & Control
+status: reported
 ---
 
 The Department of Justice announced on December 12, 2025 that it had sued four additional states—Colorado, Hawaii, Massachusetts, and Nevada—demanding complete, unredacted voter registration lists including driver's license numbers and partial Social Security numbers, bringing the total number of states sued to 18. This represents an unprecedented federal campaign to create a centralized national voter database, with the DOJ having contacted at least 40 states since May 2025 demanding sensitive voter information.

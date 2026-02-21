@@ -42,6 +42,7 @@ capture_lanes:
 - Media Capture & Control
 - International Kleptocracy
 - Surveillance Infrastructure
+status: reported
 ---
 
 # Voice of America Bureau Closures Surrender Strategic Information Space to Russia and China

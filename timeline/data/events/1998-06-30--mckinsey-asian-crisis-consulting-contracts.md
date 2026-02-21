@@ -31,7 +31,7 @@ tags:
 - asian-financial-crisis
 - imf-intervention
 - corporate-restructuring
-status: validated
+status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Financial Capture

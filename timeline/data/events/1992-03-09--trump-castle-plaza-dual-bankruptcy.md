@@ -30,6 +30,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 - Intelligence Penetration
+status: reported
 ---
 
 Trump Castle and Trump Plaza Hotel and Casino in Atlantic City both filed for Chapter 11 bankruptcy protection on March 9, 1992, marking Trump's second and third casino bankruptcies in less than a year. Trump Castle faced $338 million in bond debt it could not service, while Trump Plaza was drowning in $250 million of accumulated debt. Both properties had seen their revenues collapse after the opening of the Trump Taj Mahal in April 1990, which siphoned customers away from Trump's two older casinos, creating a devastating cannibalization effect within his own casino portfolio.

@@ -146,4 +146,5 @@ capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Digital & Tech Capture
+status: reported
 ---

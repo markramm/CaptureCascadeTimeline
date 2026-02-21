@@ -26,7 +26,7 @@ actors:
 - Asian Governments
 capture_lanes:
 - Financial Capture
-status: validated
+status: confirmed
 ---
 
 In the aftermath of the 1997 Asian Financial Crisis, the IMF and World Bank coordinated an unprecedented $58.4 billion bailout package for affected countries, particularly South Korea, Thailand, and Indonesia. These interventions mandated comprehensive corporate restructuring, including asset sales, corporate mergers, and the dissolution of major industrial conglomerates. The restructuring fundamentally transformed East Asian economic models, prioritizing foreign investment and market liberalization over traditional state-supported industrial policies. Notable changes included the sale of Daewoo Motors to General Motors, Hyundai's takeover of Kia Motors, and the establishment of corporate debt restructuring committees that facilitated foreign corporate penetration.

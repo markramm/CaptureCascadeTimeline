@@ -101,4 +101,5 @@ capture_lanes:
 - Legislative Capture
 - Labor Suppression
 - Electoral Manipulation
+status: reported
 ---

@@ -80,4 +80,5 @@ capture_lanes:
 - Surveillance Infrastructure
 - Regulatory Capture
 - Labor Suppression
+status: reported
 ---

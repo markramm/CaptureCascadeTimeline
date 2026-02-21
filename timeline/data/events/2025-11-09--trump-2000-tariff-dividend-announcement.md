@@ -29,6 +29,7 @@ capture_lanes:
 - Media Capture & Control
 - Financial Capture
 - Legislative Capture
+status: reported
 ---
 
 President Trump announced on Truth Social that a $2,000 "tariff dividend" would be paid to Americans excluding "high income people," promising that remaining funds after these payments would be used to "substantially pay down national debt." The announcement immediately faced feasibility questions: if the payments were available to everyone earning $100,000 or less, the policy would cost approximately $300 billion for 150 million Americans, according to Tax Foundation economist Erica York. However, as of September 30, 2025, the federal government had generated only $195 billion in total tariff-related revenue, creating a funding shortfall of over $100 billion for the proposed payments.

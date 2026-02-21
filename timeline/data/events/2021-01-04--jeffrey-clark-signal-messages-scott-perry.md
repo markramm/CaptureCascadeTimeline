@@ -1,8 +1,7 @@
 ---
 id: 2021-01-04--jeffrey-clark-signal-messages-scott-perry
 date: '2021-01-04'
-title: Jeffrey Clark admits in Signal messages that classified briefing yielded "nothing
-  helpful" for Trump
+title: Jeffrey Clark admits in Signal messages that classified briefing yielded "nothing helpful" for Trump
 importance: 9
 tags:
 - jeffrey-clark
@@ -18,8 +17,7 @@ actors:
 - Donald Trump
 - Department of Justice
 sources:
-- title: 3 Highlights in Special Counsel Jack Smith's Final Report on 2020 Election
-    Subversion Case
+- title: 3 Highlights in Special Counsel Jack Smith's Final Report on 2020 Election Subversion Case
   url: https://www.justsecurity.org/106278/highlights-jack-smith-january-6th-final-report/
   outlet: Just Security
   date: '2025-01-14'
@@ -35,7 +33,7 @@ sources:
   url: https://www.congress.gov/committee-report/117th-congress/house-report/692/1
   outlet: U.S. Congress
   date: '2022-12-22'
-status: validated
+status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration

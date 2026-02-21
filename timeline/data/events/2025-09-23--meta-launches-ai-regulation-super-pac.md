@@ -29,6 +29,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 - Legislative Capture
+status: reported
 ---
 
 On September 23, 2025, Meta launched a new super PAC designed to combat what it perceives as onerous AI and tech policy bills across state legislatures. This move comes as the federal government embraces AI development with minimal regulation, making state houses Meta's primary regulatory threat. With all 50 states considering AI-related measures in 2025 and 38 states enacting approximately 100 AI-related laws, tech companies face their biggest regulatory challenge at the state level. The super PAC represents a coordinated industry effort to undermine democratically enacted consumer protections and safety regulations around AI technology. This corporate lobbying mechanism demonstrates how Big Tech is using political influence to evade accountability for AI systems' societal impacts, particularly regarding privacy, bias, misinformation, and algorithmic harms.

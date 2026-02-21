@@ -20,6 +20,7 @@ tags:
 - rule-of-law-erosion
 capture_lanes:
 - Regulatory Capture
+status: reported
 ---
 
 A public Truth Social post from Trump intended as a private message to Attorney General Pam Bondi exposed direct presidential control over specific criminal prosecutions. The post explicitly demanded investigations of political enemies, revealing Trump's hands-on direction of Justice Department prosecutorial decisions. This inadvertent disclosure documented what was previously suspected: the president directly instructs the Attorney General on who to investigate and prosecute, obliterating the traditional independence of federal law enforcement from political interference.

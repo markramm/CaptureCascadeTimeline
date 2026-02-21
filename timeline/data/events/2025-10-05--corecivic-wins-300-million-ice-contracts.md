@@ -28,6 +28,7 @@ capture_lanes:
 - Systematic Corruption
 - Corporate Capture
 - Financial Capture
+status: reported
 ---
 
 CoreCivic, a private prison company, secured nearly $300 million in new ICE contracts to add 5,700 detention beds across California, Kansas, and Oklahoma, effectively doubling agency capacity by 2026. The contracts include $130 million annually for California City Correctional Facility, $60 million for a 1,033-bed Leavenworth facility, and additional Oklahoma capacity. The expansion was fueled by $45 billion allocated through Trump's tax cut and spending package. As of September 2025, nearly 60,000 people were under ICE detention, with 72% having no criminal convictions. This demonstrates the systematic privatization of immigration enforcement for corporate profit, with taxpayer dollars enriching private prison companies while incarcerating individuals who have committed no crimes.

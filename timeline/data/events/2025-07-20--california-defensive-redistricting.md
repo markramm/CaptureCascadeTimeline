@@ -35,7 +35,7 @@ sources:
   outlet: The Washington Post
   date: '2025-08-21'
 notes: Escalation of redistricting wars as blue states respond to red state manipulation
-status: validated
+status: confirmed
 source_count: 4
 validation_priority: 8
 ---

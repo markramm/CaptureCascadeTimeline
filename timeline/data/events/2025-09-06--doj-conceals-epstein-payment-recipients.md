@@ -31,6 +31,7 @@ capture_lanes:
 - Systematic Corruption
 - Surveillance Infrastructure
 - Intelligence Penetration
+status: reported
 ---
 
 The Department of Justice asked a federal judge to deny NBC News' request to unseal the names of two associates who received large wire transfers from Jeffrey Epstein in 2018, totaling $100,000 and $250,000. The payments were made days after the Miami Herald began publishing investigative stories where victims criticized Epstein's 2008 Florida plea deal. Federal prosecutors acknowledged the payments may be evidence of 'efforts to influence witnesses,' yet moved to keep the recipients' identities secret, citing their privacy concerns. As part of Epstein's plea agreement, federal prosecutors in Florida had already granted immunity to these individuals, stating they would not be prosecuted. The DOJ's move to shield Epstein's enablers from public accountability represents government protection of a criminal network and obstruction of transparency. By concealing the identities of potential witness tampering recipients, the Justice Department prioritizes protecting powerful individuals over public interest and victim advocacy.

@@ -21,6 +21,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
+status: reported
 ---
 
 The Justice Department cited a conservative report accusing George Soros's foundations of terrorism funding, but the report's own authors acknowledged it contained no evidence of illegal activity and focused instead on grantees' political statements. Despite the complete absence of evidence supporting terrorism funding allegations, DOJ used the report to justify investigations and harassment of Soros-funded organizations. This represents systematic abuse of law enforcement authority to target political opponents based on fabricated evidence, with federal agencies legitimizing baseless conspiracy theories to justify political persecution.

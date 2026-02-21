@@ -2,7 +2,7 @@
 date: '2024-03-01'
 title: Tunisia Dissolves Democratic Municipal Councils Under Authoritarian Consolidation
 importance: 8
-status: validated
+status: confirmed
 actors:
 - Kais Saied
 - Tunisian municipal councils

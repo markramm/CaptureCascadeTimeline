@@ -43,6 +43,7 @@ capture_lanes:
 - Media Capture & Control
 - Surveillance Infrastructure
 - Intelligence Penetration
+status: reported
 ---
 
 # White House Launches 'Media Bias Portal' Denunciation System Targeting Journalists and News Outlets

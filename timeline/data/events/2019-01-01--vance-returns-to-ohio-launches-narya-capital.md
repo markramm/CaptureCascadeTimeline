@@ -28,7 +28,7 @@ tags:
 - ohio-return
 - thiel-funding
 - venture-capital
-status: validated
+status: confirmed
 id: 2019-01-01--vance-returns-to-ohio-launches-narya-capital
 priority_id: jd-vance-pdf-analysis-1757456537
 capture_lanes:

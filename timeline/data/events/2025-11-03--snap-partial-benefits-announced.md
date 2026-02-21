@@ -27,6 +27,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 - Financial Capture
+status: reported
 ---
 
 On November 3, 2025, the Trump administration announced it would provide only partial SNAP (food stamp) benefits for November 2025 using emergency funds, after initially threatening to completely cut off benefits for 42 million Americans on November 1 during the government shutdown. The partial payment decision came only after two federal judges ruled that freezing payments for the nation's largest anti-hunger program was unlawful. Despite $5 billion in available contingency funds that could maintain full benefits, the administration chose to provide reduced payments, weaponizing food assistance as political leverage in Trump's standoff with Congress. NPR reported on November 3 that Trump officials confirmed using emergency funds for 50% of normal payment amounts, leaving millions of low-income Americans, children, seniors, and people with disabilities facing severe food insecurity. The administration's initial refusal to deploy contingency funding and subsequent provision of only partial benefits exemplifies systematic use of mass suffering as a political tool. Food banks warned they could not meet the surge in demand created by the benefit reduction, with many recipients forced to choose between food and other necessities like rent and medication.

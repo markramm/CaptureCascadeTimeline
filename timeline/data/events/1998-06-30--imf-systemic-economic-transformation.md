@@ -32,7 +32,7 @@ sources:
   title: Asian Financial Crisis Overview
   url: https://www.federalreservehistory.org/essays/asian-financial-crisis
   date: '1998'
-status: validated
+status: confirmed
 ---
 
 By mid-1998, the IMF completes its comprehensive restructuring of Southeast Asian economies through massive bailout packages totaling nearly $100 billion, implementing radical free-market reforms that fundamentally reshape the region's economic landscape. These interventions prioritized Western corporate interests, dismantled local economic protections, and created long-term dependency on international financial institutions through conditional structural adjustment programs.

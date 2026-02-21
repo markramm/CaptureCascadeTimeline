@@ -138,4 +138,5 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Legislative Capture
+status: reported
 ---

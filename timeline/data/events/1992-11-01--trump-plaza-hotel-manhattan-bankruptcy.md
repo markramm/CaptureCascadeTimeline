@@ -31,6 +31,7 @@ capture_lanes:
 - Digital & Tech Capture
 - Financial Capture
 - Intelligence Penetration
+status: reported
 ---
 
 The Plaza Hotel in Manhattan, the iconic luxury property Trump had purchased in 1988 for $407.5 million, filed for Chapter 11 bankruptcy protection in November 1992 under the weight of over $550 million in debt. Trump had financed the purchase almost entirely with borrowed money, and the property's revenues could not support the massive debt service requirements. The Plaza bankruptcy marked Trump's fourth major bankruptcy filing in 1992, following the March bankruptcies of Trump Castle and Trump Plaza Casino in Atlantic City, and coming in the midst of a broader collapse of his overleveraged real estate and casino empire.

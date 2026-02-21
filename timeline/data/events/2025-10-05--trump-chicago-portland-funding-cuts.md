@@ -22,6 +22,7 @@ tags:
 capture_lanes:
 - Systematic Corruption
 - Executive Power Expansion
+status: reported
 ---
 
 The White House blocked $2.1 billion in Chicago transit funding and targeted Portland aid, citing 'race-based contracting' as retaliatory punishment for Democratic opposition. The funding freeze represents systematic weaponization of federal resources to punish political adversaries and coerce local government compliance. By blocking essential infrastructure funding for cities that resist Trump administration policies, the White House demonstrates authoritarian use of federal power to override local democratic governance and enforce ideological submission through economic coercion.

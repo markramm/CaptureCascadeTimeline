@@ -73,7 +73,7 @@ patterns:
 - policy-circumvention
 - executive-privilege-abuse
 notes: The Pentagon Inspector General's report on Defense Secretary Pete Hegseth's use of Signal to share SECRET//NOFORN classified information represents a significant national security violation. Despite the administration's claims of "total exoneration," the IG concluded that Hegseth violated Pentagon policies by using a personal device to transmit sensitive military operational details that could have endangered U.S. troops if intercepted by adversaries. Hegseth refused to cooperate fully with the investigation and the Pentagon never conducted a damage assessment to determine if national security was compromised.
-status: contested
+status: disputed
 legal_status:
   report_release: December 3, 2025 (classified version to Congress December 2)
   report_type: Pentagon Inspector General Investigation

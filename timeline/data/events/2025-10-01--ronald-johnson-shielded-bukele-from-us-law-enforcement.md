@@ -23,6 +23,7 @@ capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
 - International Kleptocracy
+status: reported
 ---
 
 ProPublica investigation revealed that U.S. Ambassador Ronald Johnson, a Trump appointee and former CIA officer, systematically protected El Salvador President Nayib Bukele from U.S. and Salvadoran law enforcement investigations. Based on a previously undisclosed State Department inspector general report, Johnson removed a U.S. embassy contractor at Bukele's request after the contractor was intercepted discussing corruption among Bukele's high-level aides. The contractor had been collaborating with investigators targeting Bukele's inner circle on anti-corruption cases. Johnson also allegedly blocked diplomatic cables about Bukele's pact with MS-13 gang members. This pattern demonstrates how Trump-appointed diplomats prioritized loyalty to foreign autocrats over U.S. law enforcement objectives and anti-corruption efforts.

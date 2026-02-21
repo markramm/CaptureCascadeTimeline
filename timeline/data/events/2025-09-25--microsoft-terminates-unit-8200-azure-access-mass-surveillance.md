@@ -47,6 +47,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Digital & Tech Capture
 - Corporate Capture
+status: reported
 ---
 
 On September 25, 2025, Microsoft President Brad Smith announced the unprecedented decision to "cease and disable" cloud computing and AI services to Israel's Unit 8200 military intelligence unit, marking the first time a major U.S. technology company terminated service to the Israeli military since the October 2023 Gaza war began. The decision followed an August 2025 joint investigation by The Guardian, +972 Magazine, and Local Call revealing that Unit 8200 had built a massive surveillance system on Microsoft's Azure platform storing recordings of "a million calls an hour" from Palestinian civilians in Gaza and the West Bank, with the intercepted data used for blackmail, detention, and targeting lethal airstrikes. Smith grounded the termination in Microsoft's two-decade principle: "We do not provide technology to facilitate mass surveillance of civilians."

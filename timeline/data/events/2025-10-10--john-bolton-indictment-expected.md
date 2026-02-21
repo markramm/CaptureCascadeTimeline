@@ -22,6 +22,7 @@ tags:
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
+status: reported
 ---
 
 Former National Security Adviser John Bolton faces imminent federal indictment on classified materials charges following FBI raids. This represents the third major Trump critic to be indicted in October 2025, following James Comey and Letitia James. The systematic pattern of indictments targeting Trump critics - using different legal theories but all involving Trump's personal enemies - demonstrates coordinated weaponization of federal law enforcement for political revenge. The charges against Bolton, a lifelong conservative who became critical of Trump, show that ideological alignment offers no protection from political prosecution.

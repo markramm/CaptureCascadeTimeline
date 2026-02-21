@@ -47,6 +47,7 @@ capture_lanes:
 - Regulatory Capture
 - Military-Industrial Complex
 - Intelligence Penetration
+status: reported
 ---
 
 On November 26, 2025, at approximately 2:15 p.m., two West Virginia National Guard members were shot in an ambush-style attack near the Farragut West metro station, just two blocks from the White House. U.S. Army Specialist Sarah Beckstrom, 20, from Summersville, West Virginia, and U.S. Air Force Staff Sergeant Andrew Wolfe, 24, from Martinsburg, West Virginia, were on patrol as part of the D.C. Safe and Beautiful Mission when gunman Rahmanullah Lakanwal, 29, came around a corner and opened fire with a .357 Smith & Wesson revolver. Both Guard members were shot in the head; Beckstrom died from her injuries on November 27, while Wolfe remained in critical but improving condition. Nearby National Guard personnel quickly subdued the shooter, who was also shot during the encounter.

@@ -37,6 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion
+status: reported
 ---
 
 On October 7, 2025, Attorney General Pam Bondi testified before the Senate Judiciary Committee in a contentious oversight hearing marked by sharp Democratic criticism of the Justice Department's targeting of President Trump's political opponents. The hearing came one day before former FBI Director James Comey's scheduled arraignment on charges he allegedly lied to Congress, and amid growing concerns that Bondi has transformed the DOJ into a tool for political retribution.

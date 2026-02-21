@@ -28,6 +28,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
+status: reported
 ---
 
 Senator Ed Markey sent a letter to Trump alleging that Energy Secretary Chris Wright—former Oklo Inc. board member—is using his position to benefit the nuclear technology company through DOE plans to provide plutonium and approve a $1.7 billion reprocessing plant. Markey warned the moves pose national security risks and stated 'I am concerned that your administration is moving forward with plans to transfer plutonium to Oklo and allow it to build a reprocessing plant not because these proposals make sense for the United States, but because Oklo stands to benefit financially and Secretary Wright is acting in his former company's interest.' Though Wright resigned from Oklo's board upon confirmation, the timing of federal support for his former company exemplifies institutional capture where cabinet officials steer billions in contracts and sensitive nuclear materials to firms where they held leadership positions.

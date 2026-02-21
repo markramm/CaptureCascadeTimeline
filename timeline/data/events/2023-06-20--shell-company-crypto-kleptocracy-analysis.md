@@ -14,23 +14,19 @@ actors:
 - Grinex
 sources:
 - outlet: CFTC Press Release
-  title: CFTC Charges BitMEX Owners with Illegally Operating Cryptocurrency Derivatives
-    Trading Platform
+  title: CFTC Charges BitMEX Owners with Illegally Operating Cryptocurrency Derivatives Trading Platform
   url: https://www.cftc.gov/PressRoom/PressReleases/8270-20
   date: '2020-10-01'
 - outlet: U.S. Department of Treasury
-  title: Treasury Sanctions Cryptocurrency Exchange Enabling Sanctions Evasion and
-    Cyber Criminals
+  title: Treasury Sanctions Cryptocurrency Exchange Enabling Sanctions Evasion and Cyber Criminals
   url: https://home.treasury.gov/news/press-releases/sb0225
   date: '2023-06-20'
 - outlet: U.S. Department of Justice
-  title: Southern District of New York BitMEX Fined $100 Million For Violating Bank
-    Secrecy Act
+  title: Southern District of New York BitMEX Fined $100 Million For Violating Bank Secrecy Act
   url: https://www.justice.gov/usao-sdny/pr/global-cryptocurrency-exchange-bitmex-fined-100-million-violating-bank-secrecy-act
   date: '2021-08-10'
 - outlet: CNBC
-  title: Crypto CEO Accused of Laundering $500 Million Linked to Sanctioned Russian
-    Banks
+  title: Crypto CEO Accused of Laundering $500 Million Linked to Sanctioned Russian Banks
   url: https://www.cnbc.com/2025/06/09/crypto-russia-laundering.html
   date: '2025-06-09'
 tags:
@@ -43,7 +39,7 @@ tags:
 capture_lanes:
 - Financial Capture
 - Intelligence Penetration
-status: validated
+status: confirmed
 priority_id: RT-COMPLETED-PATTERN-20250906-22
 ---
 

@@ -3,7 +3,7 @@ id: 2025-05-15--donald-trump-jr-s-transformation-into-washington-power-broke
 title: Donald Trump Jr.'s transformation into Washington power broker
 date: '2025-05-15'
 description: From joining multiple corporate boards to launching global cryptocurrency and hospitality ventures, Donald Trump Jr. has significantly expanded his financial and political influence, leveraging his family's White House connections.
-status: validated
+status: confirmed
 importance: 8
 location: Washington, D.C.
 actors:

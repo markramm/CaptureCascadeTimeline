@@ -30,6 +30,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Digital & Tech Capture
 - Intelligence Penetration
+status: reported
 ---
 
 In September 2025 alone, Immigration and Customs Enforcement (ICE) awarded $1.4 billion in new surveillance technology contracts, representing the highest monthly total in at least 18 years. These contracts provide ICE with extensive surveillance capabilities including facial recognition algorithms, an iris-scanning identification app, controversial smartphone spyware, and real-time smartphone location and social media tracking systems. This massive surveillance expansion represents ICE mounting a mass surveillance campaign targeting not just undocumented immigrants but American citizens as well. The contracts were awarded without meaningful public oversight or debate about civil liberties implications. This infrastructure buildout creates a domestic surveillance apparatus that can be weaponized for political targeting, chilling dissent, and monitoring marginalized communities, with contracts enriching private surveillance vendors while normalizing pervasive government monitoring.

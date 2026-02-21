@@ -37,6 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Surveillance Infrastructure
+status: reported
 ---
 
 # Trump Pardons Sports Executive Tim Leiweke After Golf Conversation With Trey Gowdy

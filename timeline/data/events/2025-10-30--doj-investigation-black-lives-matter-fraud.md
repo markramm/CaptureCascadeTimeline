@@ -34,6 +34,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Media Capture & Control
+status: reported
 ---
 
 On October 30, 2025, the Associated Press revealed that the U.S. Department of Justice is conducting a criminal investigation into whether leaders of the Black Lives Matter movement defrauded donors who contributed tens of millions of dollars during racial justice protests in 2020. The investigation, led by the U.S. Attorney's Office for the Central District of California in Los Angeles, has involved federal law enforcement officials issuing subpoenas and serving at least one search warrant targeting the Black Lives Matter Global Network Foundation, Inc. and other Black-led organizations.

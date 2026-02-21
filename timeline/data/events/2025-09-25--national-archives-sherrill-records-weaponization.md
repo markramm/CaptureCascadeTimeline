@@ -30,6 +30,7 @@ capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
 - Military-Industrial Complex
+status: reported
 ---
 
 The National Personnel Records Center released Rep. Mikie Sherrill's nearly unredacted military records—including Social Security number, home addresses, life insurance information, performance evaluations, and classified information nondisclosure agreements—to Nicholas De Gregorio, who stated GOP consultant Chris Russell requested he obtain materials on the Democratic lawmaker running for New Jersey governor. The June FOIA response violated the Privacy Act of 1974 and FOIA exemptions, with the Archives director acknowledging the 'exceedingly rare' breach in a September letter. House Minority Leader Hakeem Jeffries called for criminal investigation of the 'unauthorized and illegal release,' which Democrats characterized as weaponization of federal agencies against Trump's political opponents. The timing—during a closely watched gubernatorial race—and the complete failure to follow standard redaction procedures suggest deliberate political sabotage rather than administrative error.

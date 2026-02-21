@@ -22,6 +22,7 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 - Digital & Tech Capture
+status: reported
 ---
 
 Nevada regulators documented approximately 800 environmental violations by Elon Musk's Boring Company on the Las Vegas tunnel project, ranging from unauthorized drilling to water contamination. Despite the extensive violations warranting a $3 million fine, regulators reduced the penalty to just $242,800. The massive reduction in fines for hundreds of documented environmental violations demonstrates regulatory capture and preferential treatment for politically connected billionaires, with enforcement agencies failing to impose meaningful consequences for systematic environmental law violations.

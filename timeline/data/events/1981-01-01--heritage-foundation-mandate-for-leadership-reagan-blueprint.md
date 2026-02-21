@@ -1,8 +1,7 @@
 ---
 id: 1981-01-01--heritage-foundation-mandate-for-leadership-reagan-blueprint
 date: '1981-01-01'
-title: Heritage Foundation's "Mandate for Leadership" Becomes Reagan Administration
-  Blueprint
+title: Heritage Foundation's "Mandate for Leadership" Becomes Reagan Administration Blueprint
 actors:
 - Heritage Foundation
 - Ronald Reagan
@@ -33,7 +32,7 @@ tags:
 - conservative-movement
 - policy-blueprint
 - government-transition
-status: validated
+status: confirmed
 priority_id: RT-208559C5-heritage-foundation-launch-1973
 capture_lanes:
 - Regulatory Capture

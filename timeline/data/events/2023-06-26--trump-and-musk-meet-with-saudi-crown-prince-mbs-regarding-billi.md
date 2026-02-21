@@ -24,6 +24,7 @@ sources:
   notes: Lists key CEOs present, including Musk
 capture_lanes:
 - International Kleptocracy
+status: reported
 ---
 
 While search results suggest a meeting between Trump, Musk, and Saudi Crown Prince Mohammed bin Salman occurred, comprehensive verification is lacking. The earliest confirmed similar meeting appears to be in May 2025, during Trump's second presidential term. This event requires additional research to confirm its exact details, location, and participants.

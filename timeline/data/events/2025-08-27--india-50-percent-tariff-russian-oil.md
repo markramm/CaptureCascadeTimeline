@@ -21,7 +21,7 @@ actors:
 - Apple Inc.
 - Russia
 capture_lane: economic
-status: predicted
+status: confirmed
 sources:
 - outlet: White House
   date: '2025-08-27'

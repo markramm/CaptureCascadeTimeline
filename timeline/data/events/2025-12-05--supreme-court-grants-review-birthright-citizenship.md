@@ -63,7 +63,7 @@ patterns:
 - judicial-capture
 - systematic-discrimination
 notes: The Supreme Court's decision to hear this case represents an unprecedented willingness to reconsider 125+ years of settled constitutional law on birthright citizenship. Every lower court that has examined Trump's executive order has found it unconstitutional, yet the conservative supermajority Court has agreed to review the issue, raising serious concerns about judicial capture and the potential dismantling of fundamental constitutional guarantees.
-status: contested
+status: disputed
 legal_status:
   announcement_date: December 5, 2025
   case_name: Trump v. Barbara (Docket No. 25-365)

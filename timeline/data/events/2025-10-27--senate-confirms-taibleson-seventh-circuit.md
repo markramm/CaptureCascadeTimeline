@@ -34,6 +34,7 @@ title: Senate Confirms Rebecca Taibleson to Seventh Circuit Despite Conservative
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
+status: reported
 ---
 
 The Senate confirmed Rebecca Taibleson to the U.S. Court of Appeals for the Seventh Circuit by a vote of 52-46, filling the seat vacated by Judge Diane Sykes who assumed senior status on October 1, 2025. Taibleson, who served as an Assistant U.S. Attorney in the Eastern District of Wisconsin, previously clerked for conservative Justice Antonin Scalia and Justice Brett Kavanaugh during his time on the D.C. Circuit.

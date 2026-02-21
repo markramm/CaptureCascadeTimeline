@@ -39,6 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 - Corporate Capture
+status: reported
 ---
 
 The White House released a list of 37 corporate donors financing Trump's $300 million ballroom project, including all five of America's largest tech companies—Google, Amazon, Meta, Apple, and Microsoft—along with crypto firms Ripple and Coinbase, defense contractor Lockheed Martin, surveillance company Palantir, and semiconductor manufacturer Micron. Google's parent Alphabet noted in a recent legal settlement after Trump was banned from YouTube following January 6, 2021, that it would contribute $22 million to the ballroom. Dozens of these executives and companies are simultaneously seeking favorable policy, reduced regulatory scrutiny, or approval for major deals from the White House. The Trump administration confirmed it is accepting anonymous donations for the project, hiding donor identities and contribution amounts, which eliminates transparency and invites foreign influence on White House infrastructure. Democrats raised concerns over blatant conflicts of interest, with corporations buying access to the president through donations to his personally important project. This represents explicit merger of public office with private patronage and transformation of the White House into a quid pro quo marketplace.

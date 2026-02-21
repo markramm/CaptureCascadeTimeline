@@ -40,6 +40,7 @@ capture_lanes:
 - Judicial Capture
 - Military-Industrial Complex
 - Labor Suppression
+status: reported
 ---
 
 The US military conducted a controversial "double tap" strike in international waters in the Caribbean, killing all 11 people aboard a suspected drug vessel. The first strike killed nine individuals and set the boat ablaze. Minutes later, Admiral Frank "Mitch" Bradley, then commander of Joint Special Operations Command, ordered a second strike targeting two survivors who were clinging to debris in the water. According to witnesses, "those two men were blown apart in the water." Defense Secretary Pete Hegseth had authorized Bradley to conduct the strikes and communicated he wanted everyone aboard killed.

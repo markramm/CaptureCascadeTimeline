@@ -62,4 +62,5 @@ capture_lanes:
 - Regulatory Capture
 - Environmental Capture
 - Military-Industrial Complex
+status: reported
 ---

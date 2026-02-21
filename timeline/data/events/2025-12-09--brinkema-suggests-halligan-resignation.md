@@ -42,6 +42,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture
+status: reported
 ---
 
 U.S. District Judge Leonie M. Brinkema of the Eastern District of Virginia became the third federal judge to publicly question Lindsey Halligan's continued tenure as U.S. Attorney, explicitly suggesting she should resign following a November ruling that declared her appointment unlawful. During a Tuesday hearing, Judge Brinkema pressed federal prosecutors to explain why Halligan's name remained on court filings despite the judicial determination that her appointment was invalid. When noting that New Jersey U.S. Attorney Alina Habba had resigned the previous day (December 8) after facing similar legal challenges to her appointment, Judge Brinkema stated: "That's the proper position, in my view."

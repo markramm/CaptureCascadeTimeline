@@ -26,6 +26,7 @@ sources:
   outlet: Government Executive
 capture_lanes:
 - Legislative Capture
+status: reported
 ---
 
 Citizens for Responsibility and Ethics in Washington (CREW) filed a complaint revealing that the Office of Management and Budget under Russell Vought is hiding conditions for billions in federal funds through undisclosed 'A' footnotes in apportionment documents. Between March 21 and September 5, 2025, OMB included legally binding footnotes in at least 131 documents stating funds are available 'consistent with the latest agreed-upon spending plan'—but the spend plans are not made public, leaving Congress and citizens in the dark. This echoes OMB's 2019 Ukraine aid freeze tactics that led to Trump's first impeachment, where footnotes were used to withhold funding in violation of the Impoundment Control Act. The scheme allows OMB to control agency spending in secret, circumventing congressional oversight and transparency requirements while potentially violating federal law.

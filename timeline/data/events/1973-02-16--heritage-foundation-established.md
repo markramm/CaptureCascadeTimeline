@@ -27,7 +27,7 @@ actors:
 capture_lanes:
 - Regulatory Capture
 - Democratic Erosion
-status: validated
+status: confirmed
 ---
 
 The Heritage Foundation was formally established on February 16, 1973, by Paul Weyrich, Edwin Feulner, and Joseph Coors. Businessman Joseph Coors provided the critical seed funding of $250,000 (equivalent to $1.6 million in 2021 dollars), enabling the creation of a conservative think tank designed to provide intellectual infrastructure for conservative policy development. Conceived in the basement of the U.S. Capitol by congressional aides Feulner and Weyrich, the foundation was explicitly created to counter liberal academic and policy influence by developing and promoting conservative policy recommendations.

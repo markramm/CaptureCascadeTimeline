@@ -22,6 +22,7 @@ capture_lanes:
 - Systematic Corruption
 - Intelligence Penetration
 - Financial Capture
+status: reported
 ---
 
 The Trump administration cut $500 million from the Emergency Food Assistance Program, canceling 4,300 food deliveries nationwide and eliminating 94 million pounds of food aid. The cuts left food banks critically under-resourced while millions of Americans face food insecurity. This deliberate defunding of emergency nutrition assistance demonstrates the administration's willingness to inflict mass harm on vulnerable populations through systematic dismantling of social safety net programs, prioritizing ideological goals over basic humanitarian needs.

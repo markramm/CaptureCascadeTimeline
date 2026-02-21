@@ -22,6 +22,7 @@ tags:
 - systematic-corruption
 capture_lanes:
 - Systematic Corruption
+status: reported
 ---
 
 DHS Secretary Kristi Noem announced the department is purchasing additional Chicago real estate to expand ICE operations, stating 'We're doubling down' on federal control amid strong local opposition from Governor JB Pritzker. The property purchases represent federal overreach into cities that have rejected cooperation with immigration enforcement, using federal resources to establish unwanted enforcement infrastructure in jurisdictions that have explicitly opposed such operations. This demonstrates systematic use of federal property acquisition to override local democratic opposition and impose immigration enforcement against the will of state and local governments.

@@ -37,6 +37,7 @@ capture_lanes:
 - Regulatory Capture
 - Civil Rights Suppression
 - Media Capture & Control
+status: reported
 ---
 
 On October 29, 2025, the Department of Justice unsealed a federal indictment charging Democratic congressional candidate Kat Abughazaleh and five other activists with conspiracy to impede federal law enforcement officers and forcibly impeding ICE officers during a September 26 protest outside an Immigration and Customs Enforcement facility in Broadview, Illinois. The 11-page indictment, filed October 23, alleges that protesters surrounded a vehicle driven by a federal agent, banged on the car, broke a mirror, scratched "PIG" on the vehicle, and physically blocked its entry to the facility. Abughazaleh allegedly placed her hands on the vehicle's hood and braced her body against it.

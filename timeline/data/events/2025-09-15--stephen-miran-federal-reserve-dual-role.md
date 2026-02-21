@@ -27,6 +27,7 @@ sources:
   outlet: CNN
 capture_lanes:
 - Regulatory Capture
+status: reported
 ---
 
 The Senate confirmed Stephen Miran to the Federal Reserve Board of Governors in a 48-47 vote while he remained chair of Trump's Council of Economic Advisers—marking the first time in the Fed's 111-year history that a Board member simultaneously served as a presidential employee. Though Miran took unpaid leave from CEA, he retained the position and can return at any time, creating an unprecedented conflict that threatens Fed independence. Miran had previously co-authored papers calling for presidents to have power to fire Fed officials and force rate cuts. The arrangement—defended by the White House as Miran having 'no White House email access'—represents institutional capture of the central bank, placing a presidential loyalist with radical views on Fed independence directly on the Board during critical policy decisions.

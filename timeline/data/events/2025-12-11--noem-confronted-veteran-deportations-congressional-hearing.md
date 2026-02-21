@@ -77,4 +77,5 @@ capture_lanes:
 - Digital & Tech Capture
 - Military-Industrial Complex
 - Legislative Capture
+status: reported
 ---

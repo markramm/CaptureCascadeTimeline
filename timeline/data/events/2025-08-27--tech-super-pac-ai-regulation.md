@@ -23,6 +23,7 @@ capture_lanes:
 - Regulatory Capture
 - Digital & Tech Capture
 - Corporate Capture
+status: reported
 ---
 
 Meta, Andreessen Horowitz, and OpenAI co-founder Greg Brockman pledged up to $200 million to create two new super PACs—Meta California and Leading the Future—aimed at electing candidates favorable to the tech industry and blocking strict AI regulations in the 2026 midterm elections. The massive financial commitment represents Silicon Valley's strategy to bypass traditional lobbying and directly capture electoral processes before comprehensive AI regulatory frameworks can be established. The super PACs will support candidates who oppose AI safety rules, environmental regulations on data centers, and antitrust enforcement against tech monopolies. This preemptive regulatory capture effort seeks to entrench tech industry interests in Congress before the public and policymakers fully understand AI's risks, effectively privatizing AI governance by ensuring only industry-friendly officials can win competitive elections. The initiative exemplifies how concentrated wealth translates into political power to prevent democratic oversight of transformative and potentially dangerous technologies.

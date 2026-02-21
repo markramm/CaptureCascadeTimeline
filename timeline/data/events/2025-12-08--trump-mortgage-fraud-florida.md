@@ -32,6 +32,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 - Military-Industrial Complex
+status: reported
 ---
 
 # ProPublica Reveals Trump Committed Same Mortgage Fraud He Now Calls Criminal

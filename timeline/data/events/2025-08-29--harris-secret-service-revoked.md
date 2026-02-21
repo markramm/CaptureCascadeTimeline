@@ -27,6 +27,7 @@ sources:
   outlet: PBS News
 capture_lanes:
 - Regulatory Capture
+status: reported
 ---
 
 Trump revoked Secret Service protection for former Vice President Kamala Harris effective September 1, 2025, overriding President Biden's executive memorandum extending her protection to 18 months beyond the standard six-month period. The termination letter stated: 'You are hereby authorized to discontinue any security-related procedures previously authorized by Executive Memorandum, beyond those required by law, for the following individual, effective September 1, 2025: Former Vice President Kamala D. Harris.' The decision was not based on any security review or new threat assessment, and came as Harris prepared to embark on a multi-city book tour for her memoir '107 Days' about her presidential campaign. California Governor Gavin Newsom's spokesperson expressed concern that 'the safety of our public officials should never be subject to erratic, vindictive political impulses.' The action follows Trump's pattern of stripping security protections from political opponents including Anthony Fauci, John Bolton, and Mike Pompeo despite ongoing death threats, weaponizing federal security resources to endanger critics while signaling vulnerability to extremist supporters.

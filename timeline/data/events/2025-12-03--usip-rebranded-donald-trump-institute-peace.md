@@ -40,6 +40,7 @@ capture_lanes:
 - Media Capture & Control
 - Judicial Capture
 - Environmental Capture
+status: reported
 ---
 
 # U.S. Institute of Peace Rebranded as 'Donald J. Trump Institute of Peace' After Armed Takeover

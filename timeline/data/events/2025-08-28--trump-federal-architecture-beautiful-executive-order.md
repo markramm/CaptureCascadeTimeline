@@ -20,6 +20,7 @@ sources:
   outlet: The White House
 capture_lanes:
 - Executive Power Expansion
+status: reported
 ---
 
 President Trump signed an executive order titled 'Making Federal Architecture Beautiful Again' mandating that all new federal public buildings embrace classical architecture styles to 'honor tradition, foster civic pride, and inspire the citizenry.' The order represents an unprecedented assertion of presidential control over federal aesthetic and design standards, overriding established processes involving professional architects, local communities, and federal agencies.

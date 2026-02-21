@@ -36,6 +36,7 @@ capture_lanes:
 - Media Capture & Control
 - Digital & Tech Capture
 - Surveillance Infrastructure
+status: reported
 ---
 
 The U.S. Court of Appeals for the Ninth Circuit issued a mixed ruling in NetChoice, LLC v. Bonta, largely upholding California's Protecting Our Kids from Social Media Addiction Act (SB 976) while striking down one provision. The decision affirmed a district court's denial of NetChoice's preliminary injunction challenge to the law, which regulates how social media companies can use addictive algorithms and personalized feeds when targeting minors.

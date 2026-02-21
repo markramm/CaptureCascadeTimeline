@@ -42,6 +42,7 @@ capture_lanes:
 - Regulatory Capture
 - Executive Power Expansion
 - Media Capture & Control
+status: reported
 ---
 
 On Friday, November 14, 2025, President Donald Trump used Truth Social to publicly order Attorney General Pam Bondi and the Department of Justice to investigate his political opponents in connection with Jeffrey Epstein, marking a brazen erosion of DOJ independence and raising profound constitutional concerns about weaponizing federal law enforcement for partisan political purposes. Trump's directive came just two days after the House Oversight Committee released emails showing Epstein wrote in 2019 that "of course Trump knew about the girls, as he asked Ghislaine to stop," prompting Trump to deflect attention by characterizing the matter as "the Epstein Hoax, involving Democrats, not Republicans" and "another Russia, Russia, Russia Scam, with all arrows pointing to the Democrats."

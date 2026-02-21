@@ -39,6 +39,7 @@ capture_lanes:
 - Judicial Capture
 - Environmental Capture
 - Digital & Tech Capture
+status: reported
 ---
 
 U.S. District Judge Paul Engelmayer of the Southern District of New York granted the Justice Department's request to publicly release grand jury transcripts and evidence from Ghislaine Maxwell's sex trafficking case, reversing his earlier August 2025 denial. In a 24-page order, Judge Engelmayer determined that the Epstein Files Transparency Act, which Congress passed and President Trump signed in November 2025, "unambiguously applies" to grand jury materials and requires their disclosure. The law mandates the DOJ to release all unclassified Epstein and Maxwell-related records by December 19, 2025.

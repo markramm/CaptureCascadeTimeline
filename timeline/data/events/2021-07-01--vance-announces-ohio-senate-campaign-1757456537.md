@@ -30,7 +30,7 @@ sources:
   title: '''Hillbilly Elegy'' Author J.D. Vance Joins US Senate Campaign in Ohio'
   url: https://www.wkyc.com/article/news/politics/elections/jd-vance-campaign-us-senate-ohio-hillbilly-elegy/95-82b6918d-7705-4c80-9329-4f28a2022ba2
   date: '2021-07-01'
-status: validated
+status: confirmed
 priority_id: jd-vance-pdf-analysis-1757456537
 ---
 

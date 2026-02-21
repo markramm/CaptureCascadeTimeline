@@ -35,6 +35,7 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 - Regulatory Capture
+status: reported
 ---
 
 The Senate confirmed multiple Trump nominees to Alabama federal district courts in late October 2025, continuing the administration's systematic reshaping of the federal judiciary. On October 21, Harold D. Mooty III was confirmed to the U.S. District Court for the Northern District of Alabama by a vote of 66-32, receiving bipartisan support.

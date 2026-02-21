@@ -28,6 +28,7 @@ sources:
 capture_lanes:
 - Financial Capture
 - Digital & Tech Capture
+status: reported
 ---
 
 The Wall Street Journal reported FEMA is paralyzed under Secretary Kristi Noem's requirement that any expenditure over $100,000 must pass through up to a dozen layers of review requiring her personal sign-off. Four months after a mile-wide tornado devastated St. Louis on May 16, killing five and causing $1.6 billion in damage, pending recovery contracts and grants remain unapproved due to bureaucratic gridlock. The agency struggles with staffing shortages after Elon Musk's DOGE gutted personnel and 400 FEMA employees were reassigned to immigration enforcement. While Naples, Florida received expedited $11 million in funding within 24 hours after a donor intervened with Noem, disaster victims in Texas, North Carolina, and Missouri wait months for relief. This represents deliberate sabotage of disaster response to advance privatization while selectively dispensing aid as political patronage.

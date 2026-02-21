@@ -30,6 +30,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Judicial Capture
+status: reported
 ---
 
 The Supreme Court cleared the way for Trump to fire FTC Commissioner Rebecca Slaughter, overturning lower court rulings that had ordered her reinstatement after Trump fired her and fellow Democrat Alvaro Bedoya in March 2025. The Court agreed to hear arguments in December on whether to overturn Humphrey's Executor v. United States (1935), the landmark ruling that established restrictions on presidential power to fire members of independent agencies. The three liberal justices dissented. This decision threatens the independence of the FTC, SEC, Federal Reserve, and other agencies designed to operate free from direct presidential control. By allowing Trump to fire commissioners at will, the Court enables the complete capture of regulatory agencies by presidential loyalists, transforming watchdogs into instruments of political and corporate control.

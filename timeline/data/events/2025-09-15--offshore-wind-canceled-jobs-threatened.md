@@ -28,6 +28,7 @@ sources:
 capture_lanes:
 - Environmental Capture
 - Systematic Corruption
+status: reported
 ---
 
 The Center for American Progress documented that Trump administration and congressional Republican attacks on wind power placed over 17,000 offshore jobs at risk, with 99 renewable energy projects delayed or canceled and 23 projects laying off staff. Interior Secretary Doug Burgum declared offshore wind 'has no future in the U.S. under Trump administration' on September 11. The administration ordered Danish company Orsted to halt the Revolution Wind Project—80% complete with billions invested—citing fabricated national security concerns, effectively firing 1,000 building trades union members. Trump also canceled $679 million in federal funding for offshore wind port infrastructure. This represents deliberate sabotage of clean energy to benefit fossil fuel donors, destroying tens of thousands of jobs while accelerating climate crisis for ideological and corrupt purposes.

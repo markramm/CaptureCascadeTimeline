@@ -36,6 +36,7 @@ capture_lanes:
 - Judicial Capture
 - Media Capture & Control
 - Legislative Capture
+status: reported
 ---
 
 The Supreme Court on Friday evening, November 7, 2025, temporarily blocked a federal court order requiring the Trump administration to provide full SNAP benefits to approximately 42 million Americans for November during the ongoing government shutdown. Justice Ketanji Brown Jackson issued the temporary stay to give the U.S. Court of Appeals for the First Circuit more time to consider the administration's request for longer emergency relief. The ruling came hours after states had begun distributing full benefits following U.S. District Judge John McConnell Jr.'s Thursday order, forcing states to revert to partial payments.

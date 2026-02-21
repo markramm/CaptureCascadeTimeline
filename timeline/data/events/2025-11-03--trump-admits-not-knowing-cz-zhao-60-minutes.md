@@ -41,6 +41,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 - Intelligence Penetration
+status: reported
 ---
 
 On November 3, 2025, President Trump admitted during a CBS "60 Minutes" interview with Norah O'Donnell that he does not know who Changpeng Zhao is—the Binance cryptocurrency founder he pardoned just 11 days earlier on October 23, 2025. When asked why he pardoned Zhao, Trump stated: "Okay, are you ready? I don't know who he is." He also claimed: "I know nothing about it because I'm too busy doing the other."

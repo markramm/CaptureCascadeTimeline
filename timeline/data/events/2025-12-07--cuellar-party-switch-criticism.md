@@ -35,6 +35,7 @@ capture_lanes:
 - Systematic Corruption
 - Legislative Capture
 - Electoral Manipulation
+status: reported
 ---
 
 # Trump Criticizes Democratic Rep. Henry Cuellar for Not Switching Parties After Pardon

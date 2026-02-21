@@ -29,6 +29,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Digital & Tech Capture
 - Intelligence Penetration
+status: reported
 ---
 
 On October 7, 2025, the National Institute of Standards and Technology (NIST) announced suspension of all biometric testing, ranking, and research activities—including the world-renowned Face Recognition Vendor Test (FRVT), Face Analysis Technology Evaluation (FATE), and IREX evaluations—due to the federal government shutdown. NIST's FRVT program serves as the global gold standard for benchmarking facial recognition algorithm performance and fairness, relied upon by governments, border agencies, law enforcement, and private sector developers worldwide. The suspension interrupts critical independent oversight of facial recognition systems at a time when such technologies are being rapidly deployed for mass surveillance, immigration enforcement, and law enforcement. This gap in testing and accountability occurs during the Trump administration's expansion of facial recognition use by ICE and other agencies, effectively removing an independent check on algorithmic bias and accuracy just when oversight is most needed.

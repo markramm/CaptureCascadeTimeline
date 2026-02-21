@@ -30,7 +30,7 @@ sources:
   title: The Native American Government That Helped Inspire the US Constitution
   url: https://www.history.com/articles/iroquois-confederacy-influence-us-constitution
   date_accessed: '2025-10-06'
-status: validated
+status: confirmed
 ---
 
 The Haudenosaunee (Iroquois) Confederacy demonstrated sophisticated democratic practices that significantly influenced American constitutional design, including consensus-based decision-making, gender-balanced leadership, and a complex system of checks and balances. Benjamin Franklin extensively studied their governmental system, particularly during the Albany Congress, where he recognized the strength of their confederacy model. The U.S. Senate officially acknowledged the Confederacy's influence in a 1987 resolution, highlighting their innovative governance principles.

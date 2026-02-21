@@ -28,6 +28,7 @@ sources:
 capture_lanes:
 - Civil Rights Suppression
 - Judicial Capture
+status: reported
 ---
 
 The Department of Health and Human Services referred Harvard University to federal suspension and debarment proceedings that would exclude the school from all government contracts and federal funding—including billions in research grants and student aid—across all agencies. The move came three weeks after a federal judge ruled the Trump administration 'used antisemitism as a smokescreen for a targeted, ideologically-motivated assault on this country's premier universities' by illegally freezing over $2 billion in research grants. By initiating debarment proceedings, the administration seeks to sidestep the court order forcing grant reinstatement while weaponizing federal power to punish an institution that refused to comply with Trump's political demands. This represents authoritarian targeting of independent academic institutions through fabricated civil rights violations to enforce ideological conformity.

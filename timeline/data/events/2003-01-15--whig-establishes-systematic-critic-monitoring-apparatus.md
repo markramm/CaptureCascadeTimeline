@@ -18,22 +18,19 @@ sources:
   url: https://sourcewatch.org/index.php/White_House_Iraq_Group
   type: research-archive
   credibility: 8
-  description: Comprehensive documentation of WHIG's formation, membership, and strategic
-    communication tactics
+  description: Comprehensive documentation of WHIG's formation, membership, and strategic communication tactics
 - title: 'Wikipedia: White House Iraq Group'
   outlet: Wikipedia
   url: https://en.wikipedia.org/wiki/White_House_Iraq_Group
   type: reference
   credibility: 7
-  description: Authoritative overview of WHIG's role and activities during the Iraq
-    War buildup
+  description: Authoritative overview of WHIG's role and activities during the Iraq War buildup
 - title: Congressional Research Service Report on WHIG Activities
   outlet: U.S. Congress
   url: https://fas.org/irp/congress/2007_rpt/whig-activities.html
   type: government-report
   credibility: 9
-  description: Official government investigation into WHIG's communication and propaganda
-    strategies
+  description: Official government investigation into WHIG's communication and propaganda strategies
 constitutional_issues:
 - First Amendment
 - whistleblower protection
@@ -63,13 +60,8 @@ connections:
   - whig-retaliation-infrastructure-sequence
   - systematic-dissent-suppression
   - government-critic-intimidation
-historical_significance: The establishment of systematic critic monitoring and opposition
-  research apparatus marked WHIG's evolution from propaganda creation to active suppression
-  of dissent. This institutional infrastructure created systematic mechanisms for
-  weaponizing government power against critics, establishing dangerous precedents
-  for executive branch intimidation of whistleblowers, journalists, and dissenting
-  officials that threatened democratic accountability.
-status: validated
+historical_significance: The establishment of systematic critic monitoring and opposition research apparatus marked WHIG's evolution from propaganda creation to active suppression of dissent. This institutional infrastructure created systematic mechanisms for weaponizing government power against critics, establishing dangerous precedents for executive branch intimidation of whistleblowers, journalists, and dissenting officials that threatened democratic accountability.
+status: confirmed
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture

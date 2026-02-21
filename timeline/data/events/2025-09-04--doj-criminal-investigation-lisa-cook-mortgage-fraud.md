@@ -37,6 +37,7 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
+status: reported
 ---
 
 The U.S. Department of Justice formally opened a criminal investigation into Federal Reserve Governor Lisa Cook on September 4, 2025, following a criminal referral from Federal Housing Finance Agency Director Bill Pulte. Federal prosecutors issued grand jury subpoenas in Georgia and Michigan to investigate allegations that Cook committed mortgage fraud by claiming two properties—a home in Ann Arbor, Michigan, and a condo in Atlanta—as her primary residence within two weeks of purchasing each property with financing.

@@ -33,6 +33,7 @@ sources:
 capture_lanes:
 - Labor Suppression
 - Financial Capture
+status: reported
 ---
 
 The Trump administration's government shutdown reached its 36th day on November 5, 2025, officially surpassing the previous record of 35 days set during the December 2018-January 2019 shutdown under Trump's first term. Over 1 million federal employees continued working without paychecks, while approximately 600,000 remained furloughed. Though a 2019 law guarantees backpay after shutdown resolution, President Trump's recent comments left many workers worried about whether that commitment would be honored.

@@ -30,7 +30,7 @@ tags:
 - crisis-exploitation-template
 - democratic-transformation-blueprint
 - iraq-war-justification
-status: validated
+status: confirmed
 capture_lanes:
 - Systematic Corruption
 - Media Capture & Control

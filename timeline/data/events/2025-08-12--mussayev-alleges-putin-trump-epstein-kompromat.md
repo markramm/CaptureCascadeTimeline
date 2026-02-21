@@ -37,7 +37,7 @@ sources:
   outlet: Closer to the Edge
   url: https://www.closertotheedge.net/p/what-putin-has-on-trump
   date: '2025-08-12'
-status: unverified
+status: reported
 ---
 
 Alnur Mussayev, former chief of Kazakhstan's National Security Committee, alleged that Vladimir Putin possesses comprehensive kompromat files on Donald Trump, linking Trump to the Epstein network. Mussayev claims the FSB holds materials documenting financial transactions, sexual crimes, and potential blackmail material. However, these allegations remain unverified, with significant credibility questions surrounding Mussayev's claims.

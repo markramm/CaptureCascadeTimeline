@@ -34,6 +34,7 @@ capture_lanes:
 - Executive Power Expansion
 - Systematic Corruption
 - Media Capture & Control
+status: reported
 ---
 
 Elizabeth Yusi, assistant U.S. attorney in the Eastern District of Virginia's Norfolk office, was terminated along with her deputy Kristin Bird for resisting Trump administration pressure to bring mortgage fraud charges against New York Attorney General Letitia James. Yusi authored an internal memo explaining prosecutors believed there was insufficient evidence to charge James, telling colleagues she found 'no probable cause' to indict. The Trump administration claimed Yusi sent investigative files with James' personally identifying information to her personal email account, but Yusi's attorney stated she 'has no record of any such email' and 'has never used her personal email account for any portion of any investigation.' The firing immediately drew criticism as evidence of the Justice Department following White House directives to target Trump's political opponents. The terminations demonstrate systematic weaponization of the DOJ, with prosecutors removed for refusing to pursue baseless political prosecutions. This represents destruction of prosecutorial independence and institutional integrity, replacing career expertise with political loyalty.

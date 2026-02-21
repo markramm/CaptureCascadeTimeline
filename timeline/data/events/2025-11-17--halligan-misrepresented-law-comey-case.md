@@ -39,6 +39,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 - Digital & Tech Capture
+status: reported
 ---
 
 Federal Magistrate Judge William Fitzpatrick issued a scathing ruling on November 17, 2025, finding that interim U.S. Attorney Lindsey Halligan may have fundamentally undermined the integrity of the grand jury proceedings against former FBI Director James Comey. In a devastating opinion, the judge identified "a disturbing pattern of profound investigative missteps, missteps that led an FBI agent and a prosecutor to potentially undermine the integrity of the grand jury proceeding." The ruling came just two days before Halligan would admit in court that the full grand jury never reviewed the final indictment against Comey, adding another layer of misconduct to what the judge characterized as a prosecution riddled with constitutional violations.

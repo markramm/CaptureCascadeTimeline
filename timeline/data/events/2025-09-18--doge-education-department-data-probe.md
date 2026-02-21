@@ -29,6 +29,7 @@ capture_lanes:
 - Surveillance Infrastructure
 - Environmental Capture
 - Digital & Tech Capture
+status: reported
 ---
 
 The Education Department Inspector General launched an investigation into whether Elon Musk's Department of Government Efficiency (DOGE) illegally accessed sensitive student loan data including Social Security numbers, dates of birth, bank account information, and income data for millions of borrowers. The probe examined DOGE's infiltration of Education Department systems without proper authorization or data protection protocols. DOGE staffers gained access to highly sensitive financial aid datasets containing students' demographic information and marital status—raising concerns about potential data abuse, violations of federal privacy laws, and whether Trump officials broke procedures for handling sensitive information. This represents the conversion of a shadowy, unofficial government entity into a surveillance operation with access to Americans' most private financial data.

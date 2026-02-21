@@ -25,7 +25,7 @@ sources:
 - outlet: US National Archives
   title: Nixon-Kissinger Meeting with Prince Fahd, June 1974
   url: https://www.fordlibrarymuseum.gov/library/document/0314/1552718.pdf
-status: validated
+status: confirmed
 id: 1974-06-08--us-saudi-economic-commission-agreement-signed
 priority_id: RT-EXP-28753E16-trilateral-commission-1973-banking-networks
 capture_lanes:

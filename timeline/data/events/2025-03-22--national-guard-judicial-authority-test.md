@@ -43,7 +43,7 @@ sources:
   outlet: TIME
   title: What the Appeals Court Said About Trump's National Guard Power
   url: https://time.com/7296221/trump-national-guard-la-protests-appeals-court-authority/
-status: validated
+status: confirmed
 tags:
 - national-guard
 - military-authority

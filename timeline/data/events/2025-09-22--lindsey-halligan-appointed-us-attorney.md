@@ -27,6 +27,7 @@ sources:
   outlet: CNN
 capture_lanes:
 - Regulatory Capture
+status: reported
 ---
 
 Trump appointed Lindsey Halligan, his former personal defense attorney with zero prosecutorial experience, as interim U.S. Attorney for the Eastern District of Virginia—one of the nation's most important federal prosecutor offices. The appointment came two days after Trump forced out Erik Siebert, the acting U.S. Attorney who refused to pursue weak cases against Trump enemies including James Comey and New York Attorney General Letitia James. Halligan, a 36-year-old former Miss Colorado contestant who had worked as one of Trump's attorneys during the classified documents investigation, was sworn in on September 22. Within three days, she personally appeared before a grand jury to secure Comey's indictment despite career prosecutors documenting that probable cause did not exist. This represents textbook DOJ weaponization and destruction of prosecutorial independence.

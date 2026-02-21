@@ -50,6 +50,7 @@ capture_lanes:
 - Regulatory Capture
 - Judicial Capture
 - Intelligence Penetration
+status: reported
 ---
 
 U.S. District Judge Cameron McGowan Currie dismissed criminal indictments against New York Attorney General Letitia James and former FBI Director James Comey on November 24, 2025, ruling that interim U.S. Attorney Lindsey Halligan lacked lawful authority to bring the cases. In separate but parallel rulings, Judge Currie found that "all actions flowing from Ms. Halligan's defective appointment...were unlawful exercises of executive power and are hereby set aside." The dismissals represented a major judicial rebuke of the Trump administration's weaponization of the Justice Department against political opponents.

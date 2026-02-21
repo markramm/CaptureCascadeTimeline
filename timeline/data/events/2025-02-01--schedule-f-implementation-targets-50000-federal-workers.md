@@ -30,7 +30,7 @@ sources:
 - outlet: Axios
   title: What to know about Schedule F, Trump's plan to replace federal workers with loyalists
   url: https://www.axios.com/2025/04/18/schedule-f-trump-federal-workers
-status: validated
+status: confirmed
 priority_id: project-2025-implementation-1757456630
 details:
   number_of_workers_affected: 50000

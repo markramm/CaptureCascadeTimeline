@@ -29,6 +29,7 @@ capture_lanes:
 - Financial Capture
 - Systematic Corruption
 - Media Capture & Control
+status: reported
 ---
 
 Treasury Secretary Scott Bessent approved a $20 billion Argentina bailout that directly benefits hedge funds run by his former colleagues Stanley Druckenmiller and Robert Citrone, whose portfolios hold significant Argentine debt. Senator Elizabeth Warren demanded details on whether Managed Funds Association members influenced the bailout, suspecting funds may profit by dumping holdings before losses. Argentine media reported that Citrone directly contacted Bessent to request the U.S. rescue package. Bessent denied connections to his finance colleagues, but the timing and beneficiaries demonstrate systematic use of U.S. taxpayer funds to bail out administration insiders' financial holdings, with Treasury decisions benefiting the Secretary's personal and professional network.

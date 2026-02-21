@@ -34,6 +34,7 @@ sources:
   outlet: NPR
 capture_lanes:
 - Judicial Capture
+status: reported
 ---
 
 The Trump administration filed an expedited emergency petition with the Supreme Court seeking to overturn the Federal Circuit's August 29 ruling that declared Trump's sweeping tariffs illegal under the International Emergency Economic Powers Act (IEEPA). The government asked the Court to stay the Federal Circuit's decision, which had found that Trump exceeded his emergency powers authority when imposing 'reciprocal tariffs' on imports from nearly all U.S. trading partners.
