@@ -1,25 +1,19 @@
 # Timeline Statistics Report
 
-Generated: 2026-02-21 17:49:11
+Generated: 2026-02-21 18:44:21
 
 ## Overview
 - **Total Events**: 4238
 - **Date Range**: 1142-01-01 to 2026-02-15
-- **Total Sources**: 14523
+- **Total Sources**: 14701
 - **Unique Tags**: 6468
 - **Unique Actors**: 7667
 
 ## Event Status
-- **Unknown**: 247
-- **Confirmed**: 3953
-- **Validated**: 24
-- **Disputed**: 3
-- **Verified**: 1
-- **Reported**: 5
-- **Unverified**: 1
-- **Predicted**: 1
+- **Reported**: 253
+- **Confirmed**: 3979
+- **Disputed**: 5
 - **Developing**: 1
-- **Contested**: 2
 
 ## Top Tags
 - regulatory-capture: 573 events
