@@ -34,6 +34,10 @@ sources:
   date: 2017-08-04
   tier: 2
   outlet: Atlanta Journal-Constitution
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+- Media Capture & Control
 ---
 
 On a single day in late July 2017, Georgia Secretary of State Brian Kemp's office removes 560,000 Georgians—8% of the state's registered voters—from the voter rolls in what may be the largest mass purge in U.S. history. The purge uses Georgia's aggressive "use it or lose it" policy combined with a new "exact match" system that disproportionately targets Black and minority voters for minor discrepancies in registration records.

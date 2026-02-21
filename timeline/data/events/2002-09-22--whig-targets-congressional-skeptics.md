@@ -2,11 +2,7 @@
 id: 2002-09-22--whig-targets-congressional-skeptics
 date: '2002-09-22'
 title: WHIG Develops Targeted Deception Campaigns for Congressional Skeptics
-description: In September 2002, WHIG implemented a sophisticated campaign to persuade
-  and manipulate congressional members opposing the Iraq War authorization. The group
-  used carefully crafted, individualized messaging targeting specific legislators'
-  concerns, including fabricated intelligence reports about nuclear threats, coordinated
-  media appearances, and strategic lobbying efforts.
+description: In September 2002, WHIG implemented a sophisticated campaign to persuade and manipulate congressional members opposing the Iraq War authorization. The group used carefully crafted, individualized messaging targeting specific legislators' concerns, including fabricated intelligence reports about nuclear threats, coordinated media appearances, and strategic lobbying efforts.
 actors:
 - Karl Rove
 - Andrew Card
@@ -38,10 +34,8 @@ tags:
 capture_lanes:
 - Legislative Capture
 - Media Capture & Control
-- Intelligence Manipulation
-significance: Documented evidence of a systematic, coordinated effort to manipulate
-  the legislative process through targeted disinformation, revealing a profound corruption
-  of democratic decision-making mechanisms.
+- Intelligence Penetration
+significance: Documented evidence of a systematic, coordinated effort to manipulate the legislative process through targeted disinformation, revealing a profound corruption of democratic decision-making mechanisms.
 category: democratic_subversion
 verification_status: extensively_documented
 status: confirmed

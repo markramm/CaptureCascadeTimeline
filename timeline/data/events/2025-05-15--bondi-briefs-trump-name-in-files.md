@@ -12,7 +12,7 @@ tags:
 - doj
 - cover-up
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: AG Bondi briefs Trump on his name appearing in Epstein documents

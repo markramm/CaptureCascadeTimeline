@@ -27,12 +27,10 @@ tags:
 - disinformation
 status: reported
 capture_lanes:
-- Information Warfare
-- Political Intelligence
+- Intelligence Penetration
 validation_metadata:
   last_reviewed: '2025-10-17'
-  review_notes: Original 2013 surveillance claims could not be verified. Event revised
-    to reflect documented interactions during 2016 campaign.
+  review_notes: Original 2013 surveillance claims could not be verified. Event revised to reflect documented interactions during 2016 campaign.
   next_steps:
   - Continue monitoring for additional historical context
   - Track ongoing investigations and declassified documents

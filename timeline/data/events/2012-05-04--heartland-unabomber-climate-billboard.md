@@ -40,8 +40,7 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Information Warfare
-- Scientist Intimidation
+- Intelligence Penetration
 ---
 
 On May 4, 2012, the Heartland Institute erected a digital billboard on the Eisenhower Expressway near Chicago featuring Ted Kaczynski (the Unabomber) with text reading "I still believe in global warming. Do you?" The billboard remained live for 24 hours before widespread condemnation—including from the Institute's own supporters—forced its removal. The campaign planned to feature similar billboards with Fidel Castro, Osama bin Laden, and hostage-taker James J. Lee, claiming that those who accept climate science are "on the radical fringe" with the movement's "most prominent advocates" being "murderers, tyrants, and madmen."

@@ -36,6 +36,10 @@ sources:
   date: '2009-04-02'
   tier: 2
   outlet: Good Jobs First
+capture_lanes:
+- Intelligence Penetration
+- Digital & Tech Capture
+- Systematic Corruption
 ---
 
 Northrop Grumman Corporation and its predecessor TRW Inc. agreed to pay $325 million to settle False Claims Act allegations that they provided and billed the National Reconnaissance Office for defective microelectronic parts used in classified spy satellites over a decade-long period from 1992 to 2002. The settlement resolved allegations that the defense contractor knowingly supplied defective Heterojunction Bipolar Transistors (HBTs) that were improperly tested, made misrepresentations about the reliability of the components, and concealed material facts about defects in critical satellite equipment used for signals intelligence and reconnaissance operations.

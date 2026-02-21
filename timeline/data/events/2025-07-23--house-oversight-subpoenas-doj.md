@@ -16,7 +16,7 @@ tags:
 - bipartisan-action
 - subpoenas
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: House Oversight votes to subpoena DOJ for Epstein files as GOP members break ranks

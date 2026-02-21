@@ -11,7 +11,7 @@ tags:
 - trump-connections
 - public-statements
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: Jeffrey Epstein, International Moneyman of Mystery

@@ -39,6 +39,10 @@ sources:
   date: '2014-12-09'
   tier: 1
   outlet: ACLU
+capture_lanes:
+- Intelligence Penetration
+- Military-Industrial Complex
+- Executive Power Expansion
 ---
 
 The Senate Select Committee on Intelligence releases a 525-page executive summary of its comprehensive investigation into the CIA's detention and interrogation program, revealing that the program was far more brutal, widespread, and ineffective than the CIA disclosed. The report, based on a five-year investigation of more than 6 million CIA documents, conclusively demonstrates that enhanced interrogation techniques constituted torture under international law, failed to produce actionable intelligence, and were accompanied by systematic lies to Congress, the White House, the Justice Department, and the American public. Senator Dianne Feinstein declares the program a "stain on our values and on our history."

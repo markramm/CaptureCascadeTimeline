@@ -12,7 +12,7 @@ tags:
 - trump-connections
 - palm-beach-elite
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: Donald Trump and Jeffrey Epstein partied together. Then an oceanfront Palm Beach mansion came between them.

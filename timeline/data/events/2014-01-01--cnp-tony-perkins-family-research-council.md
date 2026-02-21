@@ -25,6 +25,10 @@ sources:
   date: '2024-11-10'
   tier: 2
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+- Judicial Capture
 ---
 
 In 2014, Tony Perkins served as vice president of the Council for National Policy - one of the organization's three executive officers - while simultaneously serving as president of the Family Research Council, demonstrating the integration of religious right leadership into CNP's coordination structure.

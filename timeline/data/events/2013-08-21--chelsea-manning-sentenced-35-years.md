@@ -31,6 +31,10 @@ sources:
   date: 2017-01-17
   tier: 1
   outlet: ACLU
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Military-Industrial Complex
 ---
 
 U.S. Army Private Chelsea Manning was sentenced to 35 years in military prison for leaking classified documents to WikiLeaks that exposed war crimes and civilian casualties in Iraq and Afghanistan. The sentence was the longest ever imposed on a whistleblower under the Espionage Act and sparked international condemnation from human rights organizations.

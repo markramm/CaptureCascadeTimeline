@@ -1,8 +1,7 @@
 ---
 id: 2024-07-13--x-algorithm-modified-to-amplify-musk-and-right-wing-content
 date: '2024-07-13'
-title: X Algorithm Modified to Amplify Musk and Right-Wing Content Following Trump
-  Endorsement
+title: X Algorithm Modified to Amplify Musk and Right-Wing Content Following Trump Endorsement
 importance: 9
 actors:
 - Elon Musk
@@ -13,15 +12,13 @@ actors:
 - X Algorithm Engineers
 sources:
 - outlet: Queensland University of Technology
-  title: A Computational Analysis of Potential Algorithmic Bias on Platform X During
-    the 2024 US Election
+  title: A Computational Analysis of Potential Algorithmic Bias on Platform X During the 2024 US Election
   url: https://eprints.qut.edu.au/253211/1/A_computational_analysis_of_potential_algorithmic_bias_on_platform_X_during_the_2024_US_election-4.pdf
 - outlet: CyberNews
   title: X Algorithm Changed to Boost Right-Wing Accounts, Study Finds
   url: https://cybernews.com/news/x-algorithm-changed-musk-boost-right-wing/
 - outlet: arXiv
-  title: 'Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X
-    During 2024 U.S. Presidential Election'
+  title: 'Auditing Political Exposure Bias: Algorithmic Amplification on Twitter/X During 2024 U.S. Presidential Election'
   url: https://arxiv.org/html/2411.01852v3
 tags:
 - social-media-manipulation
@@ -33,7 +30,7 @@ tags:
 capture_lanes:
 - Media Capture & Control
 - Regulatory Capture
-- Information Warfare
+- Intelligence Penetration
 category: information-warfare
 location: Austin, TX, United States
 status: confirmed

@@ -31,6 +31,10 @@ sources:
   date: 2020-12-04
   tier: 2
   outlet: Defending Rights & Dissent
+capture_lanes:
+- Intelligence Penetration
+- Media Capture & Control
+- Surveillance Infrastructure
 ---
 
 FBI agents executed coordinated early-morning raids on the homes and offices of anti-war and international solidarity activists in Minneapolis, Chicago, and other cities, seizing computers, phones, documents, and political materials. The raids targeted activists organizing against the Iraq and Afghanistan wars and supporting Palestinian and Colombian resistance movements, demonstrating how counterterrorism authorities were being used to criminalize political speech and international solidarity work.

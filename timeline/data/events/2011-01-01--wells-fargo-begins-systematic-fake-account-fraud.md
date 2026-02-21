@@ -29,6 +29,10 @@ sources:
   date: '2017-08-31'
   tier: 1
   outlet: NPR
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Regulatory Capture
 ---
 
 Wells Fargo employees begin a systematic scheme to create unauthorized bank and credit card accounts, ultimately affecting 3.5 million customer accounts over five years. Driven by aggressive sales targets and compensation incentives, employees open accounts without customer consent, forge signatures, create fake email addresses and PIN numbers, and transfer funds from authorized accounts to cover the fraudulent accounts. The scheme generates millions in unearned fees while employees desperately attempt to meet impossible sales quotas known as "cross-selling" targets.

@@ -35,6 +35,10 @@ sources:
   tier: 1
   outlet: U.S. Senator Chuck Grassley
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Regulatory Capture
 ---
 
 On September 16, 2008, just one day after allowing Lehman Brothers to file for bankruptcy, the Federal Reserve provided an $85 billion two-year emergency loan to American International Group (AIG) to prevent the insurance giant's collapse and contain spreading financial contagion. In exchange for the loan, the Federal Reserve took ownership of 79.9% of AIG's equity, effectively nationalizing one of the world's largest insurance companies. At its peak, the Federal Reserve and Treasury Department committed approximately $182.3 billion in extraordinary assistance to AIG, making it the largest recipient of government financial assistance during the 2007-2009 financial crisis. The bailout occurred because AIG had become a massive seller of credit default swaps—exotic derivatives intended to insure against defaults on mortgage-backed securities—without posting adequate collateral, setting aside capital reserves, or hedging its exposure. When mortgage-backed securities began failing in 2008, AIG faced collateral calls it could not meet, threatening to trigger a cascade of failures across the global financial system as counterparties who had purchased AIG's credit default swaps would face enormous unhedged losses.

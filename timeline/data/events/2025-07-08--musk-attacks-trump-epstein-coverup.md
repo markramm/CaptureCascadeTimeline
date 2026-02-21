@@ -17,9 +17,9 @@ tags:
 - oligarch-conflict
 - cover-up-accusations
 capture_lanes:
-- Epstein Network & Kompromat
-- Financial Corruption & Kleptocracy
-- Information & Media Control
+- Intelligence Penetration
+- International Kleptocracy
+- Media Capture & Control
 sources:
 - title: 'It''s a cover up: Musk floods X with posts attacking Trump over Epstein'
   url: https://abcnews.go.com/US/cover-musk-floods-posts-attacking-trump-epstein/story?id=123836343

@@ -41,4 +41,8 @@ sources:
   date: 2016-04-27
   tier: 2
   outlet: WTTW Chicago
+capture_lanes:
+- Intelligence Penetration
+- Judicial Capture
+- Systematic Corruption
 ---

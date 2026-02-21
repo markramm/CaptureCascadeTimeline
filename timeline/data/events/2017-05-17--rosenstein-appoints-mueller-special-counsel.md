@@ -32,6 +32,10 @@ sources:
   tier: 1
   outlet: NBC News
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- International Kleptocracy
+- Electoral Manipulation
 ---
 
 Deputy Attorney General Rod Rosenstein appointed former FBI Director Robert S. Mueller III as Special Counsel on May 17, 2017, to oversee the investigation into Russian interference in the 2016 election and any links between the Trump campaign and Russia—just 8 days after Trump fired FBI Director James Comey in a brazen attempt to obstruct the investigation. The appointment came after intense Congressional and public pressure for independent oversight following Comey's firing. Rosenstein granted Mueller full authority to investigate any links and coordination between the Russian government and Trump campaign associates, as well as any matters that arose directly from the investigation, including potential obstruction of justice by Trump himself. Mueller could only be terminated for cause, with Congressional notification required, ensuring independence from Trump's interference. Rosenstein stated the decision was necessary because based upon the unique circumstances, the public interest requires me to place this investigation under the authority of a person who exercises a degree of independence from the normal chain of command. The appointment was praised by both Republicans and Democrats as restoring credibility to the investigation after Trump's Comey firing had sparked a constitutional crisis. Mueller, who served 12 years as FBI Director and led post-9/11 counterterrorism efforts, resigned from his private law firm to avoid conflicts. The Special Counsel investigation would ultimately result in 34 indictments, 7 guilty pleas, 5 prison sentences, and the Mueller Report documenting 10 episodes of potential obstruction of justice by Trump—though Attorney General William Barr would later obstruct the report's release and protect Trump from prosecution.

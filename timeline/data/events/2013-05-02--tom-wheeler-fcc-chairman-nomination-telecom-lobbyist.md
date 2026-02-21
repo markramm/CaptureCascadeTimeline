@@ -35,6 +35,10 @@ sources:
   outlet: NPR
   date: '2015-01-01'
 id: 2013-05-02--tom-wheeler-fcc-chairman-nomination-telecom-lobbyist
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 President Barack Obama nominates Tom Wheeler, a former top lobbyist for cable and wireless industries, to lead the Federal Communications Commission. Wheeler's appointment exemplifies the revolving door between telecommunications regulators and industry, having served as CEO of the Cellular Telecommunications & Internet Association (CTIA) from 1992-2004 and president of the National Cable Television Association (NCTA) from 1979-1984. During his tenure as CTIA head, Wheeler was accused of suppressing science on wireless health risks and aggressively lobbying against consumer protections. Obama jokingly called Wheeler 'the Jim Brown or Bo Jackson of telecom,' referencing his extensive industry experience. Wheeler also bundled at least $700,000 for Obama's presidential campaigns, raising additional conflict of interest concerns. More than two dozen public interest groups had written to Obama expressing alarm about considering 'a candidate who was the head of not one but two major industry lobbying groups.' This appointment represented a textbook case of regulatory capture, placing someone who had spent decades advocating for industry interests in charge of regulating those same industries.

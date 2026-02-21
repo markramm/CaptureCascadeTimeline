@@ -17,8 +17,8 @@ tags:
 - real-estate
 - epstein-network
 capture_lanes:
-- Epstein Network & Kompromat
-- Financial Corruption & Kleptocracy
+- Intelligence Penetration
+- International Kleptocracy
 sources:
 - title: The facts and timeline of Trump and Epstein's falling out
   url: https://www.pbs.org/newshour/politics/the-facts-and-timeline-of-trump-and-epsteins-falling-out

@@ -30,8 +30,8 @@ importance: 8
 status: confirmed
 capture_lanes:
 - Systematic Corruption
-- Intelligence Networks
-- Corporate Compromat
+- Intelligence Penetration
+- Corporate Capture
 verified: true
 verification_notes: Corroborated by multiple tier-1 sources, including Wall Street Journal report
 ---

@@ -23,6 +23,8 @@ actors:
 - Gustavo Petro
 - Colombia
 - ELN
+capture_lanes:
+- Intelligence Penetration
 ---
 
 Colombian President Gustavo Petro ordered suspension of intelligence sharing with US security agencies after the US struck what Colombia said was a fishing boat, not a rebel-operated drug vessel. Petro stated: 'The fight against drugs must be subordinated to the human rights of the Caribbean people.' Colombia refuted US claims that an October 17 strike targeted a vessel operated by the ELN (National Liberation Army) rebel group. The three people killed were Colombian fishermen, according to Colombian authorities. Family members of victim Alejandro Andrés Carranza Medina disputed drug trafficking allegations. The suspension marked a significant rupture with a key US ally in counter-narcotics cooperation.

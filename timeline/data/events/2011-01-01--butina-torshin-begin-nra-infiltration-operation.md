@@ -39,6 +39,10 @@ sources:
   tier: 1
   outlet: Senate Finance Committee
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+- International Kleptocracy
 ---
 
 In 2011, Maria Butina founded the Russian gun rights organization "Right to Bear Arms" as a front operation and was hired as "special assistant" to Alexander Torshin, a Russian Senator with Kremlin connections. Together they initiated a systematic multi-year intelligence operation to infiltrate the National Rifle Association and establish a back-channel to the Republican Party. Torshin made his first contact with NRA leadership in 2011 and began attending NRA annual meetings, starting a relationship that would eventually funnel Russian money into the 2016 election.

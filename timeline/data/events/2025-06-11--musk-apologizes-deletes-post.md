@@ -10,8 +10,8 @@ tags:
 - musk-trump-feud
 - apology
 capture_lanes:
-- Epstein Network & Kompromat
-- Financial Corruption & Kleptocracy
+- Intelligence Penetration
+- International Kleptocracy
 status: confirmed
 sources:
 - title: Musk apologizes for Epstein-Trump claim, deletes viral post

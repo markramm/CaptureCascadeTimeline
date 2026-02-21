@@ -2,8 +2,7 @@
 id: 1991-01-01--wexner-grants-epstein-power-attorney
 date: '1991-01-01'
 importance: 9
-title: Leslie Wexner granted Epstein power of attorney in 1991; later alleged 'at
-  least $46M' misappropriated
+title: Leslie Wexner granted Epstein power of attorney in 1991; later alleged 'at least $46M' misappropriated
 location: United States
 actors:
 - Jeffrey Epstein
@@ -18,10 +17,9 @@ tags:
 - mega-group
 - kompromat-funding
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 sources:
-- title: Victoria's Secret billionaire Leslie Wexner gave Epstein power of attorney
-    in 1991, NYT reported
+- title: Victoria's Secret billionaire Leslie Wexner gave Epstein power of attorney in 1991, NYT reported
   url: https://www.businessinsider.com/victorias-secret-wexner-gave-power-of-attorney-to-epstein-report-2019-7
   outlet: Business Insider
   date: '2019-07-26'
@@ -33,9 +31,7 @@ sources:
   url: https://www.wexnerfoundation.org/letter-from-les/
   outlet: Wexner Foundation
   date: '2019-08-08'
-notes: Where possible, cite sources that reproduce or directly quote the POA document
-  and Wexner's 2019 letter. Avoid speculative numbers beyond those Wexner acknowledged
-  publicly.
+notes: Where possible, cite sources that reproduce or directly quote the POA document and Wexner's 2019 letter. Avoid speculative numbers beyond those Wexner acknowledged publicly.
 status: confirmed
 ---
 

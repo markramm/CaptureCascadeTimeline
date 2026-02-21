@@ -34,6 +34,10 @@ sources:
   tier: 1
   outlet: NPR
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Labor Suppression
 ---
 
 Between 2005 and 2024, the United States operated a two-tiered bankruptcy system that weaponized debt against students and working Americans while preserving bankruptcy as a strategic wealth-preservation tool for corporations and the wealthy—a defining example of 21st century American kleptocracy. The 2005 Bankruptcy Abuse Prevention and Consumer Protection Act made private student loans non-dischargeable regardless of circumstances, trapping millions in permanent debt, while corporations like Corinthian Colleges, ITT Tech, Purdue Pharma, and Trump's businesses freely used Chapter 11 to shield assets, eliminate liabilities, and protect executives and investors from consequences of fraud.

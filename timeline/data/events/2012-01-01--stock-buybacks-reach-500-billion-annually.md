@@ -30,6 +30,10 @@ sources:
   outlet: Fast Company
   date: '2024-02-15'
   tier: 2
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Labor Suppression
 ---
 
 Corporate stock buybacks reach unprecedented scale, with S&P 500 companies documenting the full scope of wealth extraction from productive enterprise to shareholders. Between 2003 and 2012, these companies allocate 54% of earnings to buybacks and 37% to dividends, totaling 91% of profits returned to shareholders instead of investment in productive capacity, research and development, or worker wages. This represents approximately $2.4 trillion extracted over the decade, with buybacks alone approaching $500 billion annually by 2012. The scale continues to accelerate, with combined buybacks and dividends reaching $914 billion (95% of earnings) in 2014 and $1.6 trillion by 2024. This massive wealth transfer occurs during a period of wage stagnation for most American workers, whose real wages remain flat or decline despite rising productivity. The mechanism works as follows: companies that could invest in worker training, wage increases, research, or capital improvements instead use SEC Rule 10b-18 safe harbor provisions to repurchase their own shares, artificially inflating stock prices and enriching shareholders and stock-option-compensated executives. Workers whose labor generates these profits see none of the gains, as the 91% distribution to shareholders leaves minimal resources for wage growth or productive investment. This systematic extraction explains the growing disconnect between corporate profitability and worker prosperity, quantifies the mechanism by which shareholder primacy doctrine redistributes wealth upward, and documents how financialization transforms corporations from productive enterprises into vehicles for extracting value from labor and transferring it to capital owners.

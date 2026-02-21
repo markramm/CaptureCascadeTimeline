@@ -17,21 +17,25 @@ tags:
 - judicial
 status: confirmed
 sources:
-- title: 'Verizon Communications Inc. v. FCC (2014)'
+- title: Verizon Communications Inc. v. FCC (2014)
   url: https://en.wikipedia.org/wiki/Verizon_Communications_Inc._v._FCC_(2014)
   outlet: Wikipedia
   date: '2014-01-14'
   tier: 2
-- title: 'Verizon v. FCC, et al., No. 11-1355 (D.C. Cir. 2014)'
+- title: Verizon v. FCC, et al., No. 11-1355 (D.C. Cir. 2014)
   url: https://law.justia.com/cases/federal/appellate-courts/cadc/11-1355/11-1355-2014-01-14.html
   outlet: Justia
   date: '2014-01-14'
   tier: 2
-- title: 'Verizon Wins Net Neutrality Court Ruling Against FCC'
+- title: Verizon Wins Net Neutrality Court Ruling Against FCC
   url: https://www.bloomberg.com/news/articles/2014-01-14/verizon-wins-net-neutrality-court-ruling-against-fcc
   outlet: Bloomberg
   date: '2014-01-14'
   tier: 1
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Judicial Capture
 ---
 
 The DC Circuit Court of Appeals delivers a landmark ruling in Verizon v. FCC, striking down the Federal Communications Commission's anti-blocking and anti-discrimination net neutrality rules while paradoxically outlining the path to stronger protections through Title II reclassification. The three-judge panel ruled that the FCC lacked authority to impose network neutrality restrictions on internet service providers because the Commission had previously classified broadband as an "information service" rather than a "telecommunications service" under Title II common carrier regulations.

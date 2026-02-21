@@ -15,6 +15,9 @@ sources:
   title: Wells Fargo SEC Filing
   tier: 1
   outlet: SEC
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
 ---
 
 Unverified claim about Wells Fargo hiring a former SEC enforcement official requires comprehensive investigation. No credible sources could confirm the specific details of this alleged hiring in 2010.

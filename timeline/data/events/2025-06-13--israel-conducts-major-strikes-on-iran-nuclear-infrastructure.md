@@ -56,9 +56,8 @@ sources:
   outlet: KTVU FOX 2
   date: '2025-06-13'
 capture_lanes:
-- Military Intelligence
-- Nuclear Non-Proliferation
-- Geopolitical Power Dynamics
+- Intelligence Penetration
+- Military-Industrial Complex
 tags:
 - israel-iran-conflict
 - nuclear-strikes

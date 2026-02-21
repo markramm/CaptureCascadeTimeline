@@ -15,8 +15,8 @@ tags:
 - epstein-network
 - human-trafficking
 capture_lanes:
-- Epstein Network & Kompromat
-- Financial Corruption & Kleptocracy
+- Intelligence Penetration
+- International Kleptocracy
 sources:
 - title: As Trump Sits on Key Epstein Files, Wyden Lays Out "Follow the Money" Investigation for DOJ
   url: https://www.finance.senate.gov/ranking-members-news/as-trump-sits-on-key-epstein-files-wyden-lays-out-follow-the-money-investigation-for-doj

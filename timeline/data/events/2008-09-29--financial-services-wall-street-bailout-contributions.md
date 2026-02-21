@@ -31,6 +31,10 @@ actors:
 - House Financial Services Committee
 - Wall Street
 - TARP
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Regulatory Capture
 ---
 
 The House of Representatives voted on the Emergency Economic Stabilization Act (TARP), with senators who supported the $700 billion Wall Street bailout having received an average of $3,986,723 from the financial sector since 1989—39% more than bailout opponents who received an average of $1,671,029. The stark correlation between campaign contributions and voting patterns revealed how the financial services industry had captured congressional oversight through systematic campaign finance influence. Representative Barney Frank (D-MA), chairman of the House Financial Services Committee, played a central role in crafting and advocating for the bailout despite his committee's oversight failures that contributed to the crisis.

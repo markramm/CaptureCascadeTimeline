@@ -30,6 +30,10 @@ tags:
 - shell-companies
 - investigative-journalism
 - financial-corruption
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Systematic Corruption
 ---
 
 The Panama Papers was a groundbreaking investigative journalism project coordinated by the International Consortium of Investigative Journalists (ICIJ) in 2016. Based on 11.5 million leaked documents from Mossack Fonseca, a Panamanian law firm, the investigation exposed a complex global network of offshore financial entities used by political leaders, celebrities, and business elites to hide wealth, avoid taxes, and potentially engage in illegal financial activities.

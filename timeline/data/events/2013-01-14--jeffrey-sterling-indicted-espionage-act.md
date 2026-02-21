@@ -32,6 +32,10 @@ sources:
   date: 2015-01-12
   tier: 1
   outlet: Freedom of the Press Foundation
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 Former CIA officer Jeffrey Alexander Sterling was indicted on espionage charges for allegedly revealing details about Operation Merlin—a botched covert operation to sabotage Iran's nuclear program—to New York Times journalist James Risen. The case became a flashpoint in the conflict between national security prosecutions and press freedom.

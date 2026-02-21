@@ -38,6 +38,10 @@ sources:
   date: '2015-12-01'
   tier: 1
   outlet: Human Rights Watch
+capture_lanes:
+- Intelligence Penetration
+- Military-Industrial Complex
+- Judicial Capture
 ---
 
 The Senate Intelligence Committee report reveals that CIA torture was far more brutal and sadistic than the agency disclosed, documenting techniques that go beyond the authorized list to include rectal feeding and rehydration used as punishment, mock executions, threats to sexually assault detainees' mothers, and at least one death from hypothermia. The findings expose systematic cruelty that amounts to war crimes under international law, including treatment that the International Committee of the Red Cross characterizes as "torture" and "cruel, inhuman and degrading treatment" prohibited by the Geneva Conventions.

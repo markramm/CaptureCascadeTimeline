@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: Securities and Exchange Commission
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 On April 16, 2010, the Securities and Exchange Commission charged Goldman Sachs and Vice President Fabrice Tourre with securities fraud related to ABACUS 2007-AC1, a synthetic collateralized debt obligation (CDO) tied to subprime residential mortgage-backed securities. The SEC alleged that Goldman created and marketed the $2 billion synthetic CDO without disclosing that hedge fund manager John Paulson—who was shorting the housing market and would profit from the CDO's failure—had played a significant role in selecting the portfolio of mortgage securities underlying the investment. Goldman marketed ABACUS to investors including IKB Deutsche Industriebank and ACA Management as if the portfolio had been selected by an independent manager with aligned interests, when in reality Paulson had deliberately chosen mortgage securities he believed would default. The fraud allowed Paulson's hedge fund to profit approximately $1 billion when the ABACUS CDO collapsed, while investors who purchased the securities lost virtually their entire investment. The case became the most prominent SEC enforcement action arising from the 2008 financial crisis and exposed the synthetic CDO market's role in amplifying mortgage fraud and enabling sophisticated investors to profit from the housing collapse.

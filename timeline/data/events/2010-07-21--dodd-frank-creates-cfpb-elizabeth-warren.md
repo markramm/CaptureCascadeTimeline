@@ -33,6 +33,10 @@ sources:
   outlet: OpenSecrets
   tier: 1
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Financial Capture
 ---
 
 President Barack Obama signed the Dodd-Frank Wall Street Reform and Consumer Protection Act, establishing the Consumer Financial Protection Bureau (CFPB) to regulate consumer financial products and protect Americans from predatory lending practices. The CFPB was the brainchild of Harvard Law Professor Elizabeth Warren, who first proposed a "Financial Product Safety Commission" in 2007 in Democracy Journal following the 2008 financial crisis. The agency consolidated consumer protection authority previously scattered across seven different federal agencies, giving it significant autonomy and enforcement powers. Obama appointed Warren as Special Advisor to set up the agency, but Republican opposition prevented her from becoming its first director. The CFPB officially began operations on July 21, 2011, with Richard Cordray as director. The agency's creation represented the most significant consumer protection reform in decades, with authority over payday lenders, student loan servicers, for-profit colleges, mortgage servicers, and other financial institutions that had systematically exploited low-income Americans. However, the CFPB immediately became a target of financial industry lobbying and Republican efforts to dismantle it. The payday lending industry alone spent $7.4 million lobbying in 2010 and $12.5 million in 2011 to influence Dodd-Frank implementation. The CFPB would return over $21 billion to defrauded consumers before the Trump administration systematically gutted its enforcement powers, demonstrating both the scale of predatory lending exploitation and the effectiveness of aggressive consumer protection regulation.

@@ -29,6 +29,10 @@ sources:
   tier: 1
   outlet: U.S. Government Publishing Office
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Systematic Corruption
 ---
 
 President George W. Bush signed the Bankruptcy Abuse Prevention and Consumer Protection Act (BAPCPA) on April 20, 2005, fundamentally weaponizing bankruptcy law against student borrowers while preserving corporate bankruptcy as a strategic tool. The law amended Section 523(a)(8) to make private student loans from for-profit lenders non-dischargeable in bankruptcy, extending restrictions that previously applied only to federal loans to include all educational debt regardless of lender type.

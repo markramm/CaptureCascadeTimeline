@@ -39,6 +39,10 @@ sources:
   date: '2018-05-17'
   tier: 1
   outlet: Center for Constitutional Rights
+capture_lanes:
+- Intelligence Penetration
+- Executive Power Expansion
+- Judicial Capture
 ---
 
 President Donald Trump announces his nomination of Gina Haspel to serve as CIA Director, making her the first woman nominated for the position despite her direct involvement in the CIA's torture program and destruction of interrogation videotapes. Haspel ran the CIA's "Cat's Eye" black site in Thailand in 2002 where detainees including Abd al-Rahim al-Nashiri were waterboarded and tortured, and later helped draft the cable authorizing destruction of 92 torture tapes—evidence that was under legal preservation orders. The nomination represents a shocking embrace of officials who committed and concealed war crimes, rewarding impunity with promotion to the agency's highest position.

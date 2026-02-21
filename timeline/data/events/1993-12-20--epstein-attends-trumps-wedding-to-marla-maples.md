@@ -13,7 +13,7 @@ tags:
 - trump-connections
 - social-ties
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: Jeffrey Epstein Timeline
@@ -21,8 +21,7 @@ sources:
   date: '2019-08-09'
   url: https://abcnews.go.com/US/jeffrey-epstein-timeline-billionaire-wealth-florida-plea-deal/story?id=64748362
   notes: Timeline confirms Epstein attended Trump-Maples wedding December 20, 1993
-- title: 'Exclusive: Newly discovered photos and video shed fresh light on Trump''s
-    ties to Jeffrey Epstein'
+- title: 'Exclusive: Newly discovered photos and video shed fresh light on Trump''s ties to Jeffrey Epstein'
   outlet: CNN Politics
   date: '2019-07-22'
   url: https://www.cnn.com/2019/07/22/politics/kfile-trump-epstein-new-york-times-2002/index.html
@@ -42,11 +41,7 @@ sources:
   date: '2019-07-09'
   url: https://nymag.com/intelligencer/2019/07/trump-and-epstein-what-we-know.html
   notes: Comprehensive investigation of Trump-Epstein relationship including wedding
-notes: 'The wedding''s 1,000-person guest list included NYC''s political elite: Mayor
-  David Dinkins, Sen. Al D''Amato, Rep. Charles Rangel, and Manhattan DA Robert Morgenthau.
-  When asked about the photos, Trump told CNN "You''ve got to be kidding me" and repeatedly
-  called the outlet "fake news" before hanging up. The photos were discovered in July
-  2025, confirming for the first time Epstein''s attendance at this high-profile event.'
+notes: 'The wedding''s 1,000-person guest list included NYC''s political elite: Mayor David Dinkins, Sen. Al D''Amato, Rep. Charles Rangel, and Manhattan DA Robert Morgenthau. When asked about the photos, Trump told CNN "You''ve got to be kidding me" and repeatedly called the outlet "fake news" before hanging up. The photos were discovered in July 2025, confirming for the first time Epstein''s attendance at this high-profile event.'
 ---
 
 Jeffrey Epstein attended Donald Trump's wedding to Marla Maples on December 20, 1993, at New York's Plaza Hotel. CNN's KFile discovered photos showing Epstein among the 1,000 guests, including one with Howard Stern, Robin Leach, and Swedish model Cecilia Nord.

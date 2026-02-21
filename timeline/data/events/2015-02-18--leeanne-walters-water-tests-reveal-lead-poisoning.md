@@ -30,6 +30,10 @@ sources:
   tier: 2
   outlet: One Earth
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Media Capture & Control
+- Environmental Capture
 ---
 
 The City of Flint tests water at the home of LeeAnne Walters, a mother of four who has been complaining about health problems since the water switch, and finds lead levels at 104 parts per billion (ppb)—nearly seven times greater than the EPA action level of 15 ppb. Walters had first informed the city of water problems in late 2014 after her twin sons developed rashes and her daughter's hair began falling out, but officials took months to respond to her complaints.

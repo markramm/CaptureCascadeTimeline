@@ -31,7 +31,7 @@ significance: Demonstrated a systematic mechanism for coordinated propaganda dis
 capture_lanes:
 - Media Capture & Control
 - Executive Power Expansion
-- Propaganda Orchestration
+- Intelligence Penetration
 tags:
 - whig
 - media-coordination

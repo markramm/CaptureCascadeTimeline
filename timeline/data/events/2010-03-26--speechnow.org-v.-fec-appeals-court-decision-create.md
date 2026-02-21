@@ -1,7 +1,6 @@
 ---
 date: '2010-03-26'
-title: SpeechNow.org v. FEC Appeals Court Decision Creates Super PACs with Unlimited
-  Contribution Authority
+title: SpeechNow.org v. FEC Appeals Court Decision Creates Super PACs with Unlimited Contribution Authority
 importance: 8
 key_actors:
 - D.C. Circuit Court of Appeals
@@ -30,6 +29,10 @@ sources:
 status: confirmed
 id: 2010-03-26--speechnow.org-v.-fec-appeals-court-decision-create
 priority_id: claude-priority-citizens-united-corporate-spending
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+- Labor Suppression
 ---
 
 The D.C. Circuit Court of Appeals issues its decision in SpeechNow.org v. FEC, creating what become known as "super PACs" by allowing unlimited contributions to independent expenditure committees. Building directly on the Supreme Court's Citizens United logic from just two months earlier, the three-judge panel rules that contribution limits to groups making only independent expenditures violate the First Amendment. The court reasons that since Citizens United held independent expenditures cannot corrupt candidates, unlimited contributions to independent expenditure committees similarly cannot create corruption. SpeechNow.org, founded by conservative activist David Keating, challenges FEC contribution limits arguing they want to pool resources for independent advocacy. The appeals court's decision allows these committees to accept unlimited contributions from individuals, corporations, and unions as long as they don't coordinate with candidates or donate directly to campaigns. Crucially, the Justice Department under Attorney General Eric Holder declines to appeal this decision to the Supreme Court, with Holder wrongly predicting it would "affect only a small subset of federally regulated contributions." This creates the legal framework enabling billionaires and corporations to funnel unlimited money through super PACs while maintaining the fiction of independence from candidate campaigns. The decision proves catastrophically wrong in its assumption about limited impact, as super PACs become dominant forces in American elections, raising and spending billions in subsequent election cycles.

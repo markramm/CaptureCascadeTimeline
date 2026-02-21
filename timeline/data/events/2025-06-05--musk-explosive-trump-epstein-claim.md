@@ -12,9 +12,9 @@ tags:
 - social-media
 - political-crisis
 capture_lanes:
-- Epstein Network & Kompromat
-- Financial Corruption & Kleptocracy
-- Information & Media Control
+- Intelligence Penetration
+- International Kleptocracy
+- Media Capture & Control
 status: confirmed
 sources:
 - title: Elon Musk claims Trump appears in Epstein files, post deleted after 10M views

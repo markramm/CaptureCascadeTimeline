@@ -39,6 +39,10 @@ sources:
   tier: 1
   outlet: WNYC
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Systematic Corruption
+- Financial Capture
 ---
 
 From 1998-2016, Deutsche Bank loaned Donald Trump and his companies over $2.5 billion despite Trump's history of bankruptcies, defaults, and "Donald risk" that caused all other major US banks to refuse him. This lending relationship persisted even as Deutsche Bank was simultaneously facilitating $10 billion in Russian money laundering (2011-2015) and facing massive regulatory fines. The bank's willingness to finance Trump when no one else would created profound financial dependence on an institution deeply compromised by Russian illicit money flows, directly enabling Trump's business survival and eventual presidential run.

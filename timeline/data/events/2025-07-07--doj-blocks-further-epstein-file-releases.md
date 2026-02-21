@@ -16,7 +16,7 @@ tags:
 - cover-up
 - financial-crimes
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 sources:
 - title: Epstein client list doesn't exist, DOJ says, walking back theory Bondi promoted
   url: https://www.pbs.org/newshour/nation/epstein-client-list-doesnt-exist-doj-says-walking-back-theory-bondi-promoted

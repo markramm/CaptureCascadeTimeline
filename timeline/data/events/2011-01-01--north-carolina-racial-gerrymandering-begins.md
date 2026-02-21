@@ -37,6 +37,10 @@ sources:
   date: 2019-07-29
   tier: 2
   outlet: NC State University Department of History
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+- Civil Rights Suppression
 ---
 
 Following their historic gains in the 2010 elections, North Carolina Republicans gain control of the General Assembly for the first time in over a century and immediately implement the "Rucho-Lewis plan"—an aggressive redistricting scheme that packs African American voters into concentrated districts to dilute their electoral influence across the state. The redistricting represents one of the most extreme examples of racial gerrymandering in the post-REDMAP era.

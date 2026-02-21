@@ -2,9 +2,7 @@
 id: 2025-03-19--musk-donates-to-g-o-p-members-of-congress-who-support-impeac
 date: '2025-03-19'
 title: Musk Calls for Judicial Impeachment Wave, Supports GOP Lawmakers
-description: Amid tensions between the judicial branch and the Trump administration,
-  Elon Musk publicly advocates for mass judicial impeachments and supports GOP lawmakers
-  pursuing such resolutions
+description: Amid tensions between the judicial branch and the Trump administration, Elon Musk publicly advocates for mass judicial impeachments and supports GOP lawmakers pursuing such resolutions
 status: confirmed
 importance: 7
 location: Washington, D.C.
@@ -34,12 +32,11 @@ connections: []
 patterns:
 - kleptocratic-capture
 - judicial-assault
-notes: Event highlights increasing political pressure on judicial independence in
-  2025.
+notes: Event highlights increasing political pressure on judicial independence in 2025.
 capture_lanes:
 - Judicial Capture
 - Legislative Capture
-- Information Warfare
+- Intelligence Penetration
 ---
 
 Elon Musk publicly supports and financially backs GOP congressional efforts to impeach federal judges who block Trump administration policies

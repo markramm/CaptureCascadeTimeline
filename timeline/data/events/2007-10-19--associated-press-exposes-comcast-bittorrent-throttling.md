@@ -31,6 +31,10 @@ sources:
   outlet: The Washington Post
   date: '2007-10-19'
   tier: 1
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Media Capture & Control
 ---
 
 The Associated Press publishes a comprehensive investigation revealing that Comcast, the nation's largest cable company and internet service provider, is secretly interfering with peer-to-peer file sharing applications including BitTorrent by forging network packets to block uploads. The AP investigation, which attempted to transfer public domain files including the Bible through BitTorrent, confirmed earlier allegations from TorrentFreak (August 2007) that Comcast had vehemently denied despite widespread user reports.

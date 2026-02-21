@@ -12,7 +12,7 @@ tags:
 - cover-up
 - transparency-failure
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: DOJ memo claims no Epstein 'client list' exists, contradicting Bondi

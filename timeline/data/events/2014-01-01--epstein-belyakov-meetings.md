@@ -2,8 +2,7 @@
 id: 2014-01-01--epstein-belyakov-meetings
 date: '2014-01-01'
 importance: 6
-title: 'Reported: Epstein corresponded and met with FSB Academy graduate Sergei Belyakov
-  (2014–2017)'
+title: 'Reported: Epstein corresponded and met with FSB Academy graduate Sergei Belyakov (2014–2017)'
 location: New York/Virgin Islands
 actors:
 - Jeffrey Epstein
@@ -19,10 +18,9 @@ tags:
 - epstein-network
 - fsb
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 sources:
-- title: 'Jeffrey Epstein''s Russian Connection: Billionaire''s ties with FSB Academy
-    graduate revealed'
+- title: 'Jeffrey Epstein''s Russian Connection: Billionaire''s ties with FSB Academy graduate revealed'
   url: https://dossier.center/jeffreyepsteinrusconnect-en
   outlet: Dossier Center
   date: '2023-05-15'
@@ -47,10 +45,7 @@ sources:
   outlet: European Security
   date: '2025-07-30'
   notes: Commentary on broader implications
-notes: Based on Dossier Center investigation. No primary documents (court filings,
-  government records) have independently corroborated these specific alleged meetings
-  beyond Dossier Center's source materials. Properly categorized as 'reported' pending
-  independent verification.
+notes: Based on Dossier Center investigation. No primary documents (court filings, government records) have independently corroborated these specific alleged meetings beyond Dossier Center's source materials. Properly categorized as 'reported' pending independent verification.
 status: reported
 ---
 

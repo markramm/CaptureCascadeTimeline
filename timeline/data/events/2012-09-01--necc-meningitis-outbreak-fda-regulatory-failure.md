@@ -39,6 +39,10 @@ actors:
 - Centers for Disease Control and Prevention
 - U.S. Congress
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Labor Suppression
+- Regulatory Capture
 ---
 
 The Centers for Disease Control and Prevention began investigating a multistate fungal meningitis outbreak in September 2012 that ultimately killed 64 people and sickened 798 individuals across multiple states who received contaminated methylprednisolone steroid injections from the New England Compounding Center (NECC) in Framingham, Massachusetts. The outbreak exposed catastrophic regulatory failures: despite FDA and Massachusetts Board of Pharmacy inspections repeatedly finding bacterial contamination, sterile products with improper potency, suspected document destruction, and distribution of compounded drugs without patient-specific prescriptions in violation of state and federal law, neither agency took enforcement action to shut down NECC's operations. Congressional hearings revealed that regulators had documented abundant evidence of dangerous violations for nearly a decade but failed to protect the public, prioritizing jurisdictional disputes between federal and state authorities over patient safety.

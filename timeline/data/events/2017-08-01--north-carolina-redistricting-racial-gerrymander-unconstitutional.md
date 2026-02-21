@@ -31,6 +31,10 @@ sources:
   date: 2019-01-01
   tier: 2
   outlet: Common Cause North Carolina
+capture_lanes:
+- Intelligence Penetration
+- Electoral Manipulation
+- Civil Rights Suppression
 ---
 
 Federal courts strike down North Carolina's 2011 legislative redistricting as unconstitutional racial gerrymandering, finding that Republican lawmakers illegally packed African American voters into 28 districts. In response, the Republican-controlled legislature redraws the maps with explicit partisan rather than racial criteria—openly admitting the goal is to maximize Republican seats regardless of voter preferences.

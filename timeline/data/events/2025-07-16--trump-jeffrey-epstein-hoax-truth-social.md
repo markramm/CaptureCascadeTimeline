@@ -11,7 +11,7 @@ tags:
 - trump-reversal
 - base-alienation
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: Trump calls Epstein files issue a 'hoax,' attacks disappointed supporters
@@ -26,8 +26,7 @@ sources:
   outlet: Axios
   date: '2025-07-17'
   url: https://www.axios.com/2025/07/17/trump-epstein-hoax-truth-social-base
-notes: Trump's attack on his own base for demanding he keep campaign promises marked
-  unprecedented political self-harm.
+notes: Trump's attack on his own base for demanding he keep campaign promises marked unprecedented political self-harm.
 ---
 
 Trump posted on Truth Social on July 16, 2025, calling the Epstein files issue the "Jeffrey Epstein Hoax" and attacking disappointed supporters as "weaklings" and "past supporters" whose support he no longer wanted. This represented a complete reversal from his campaign promises of "100% transparency."

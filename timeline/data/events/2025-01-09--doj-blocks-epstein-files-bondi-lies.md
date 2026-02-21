@@ -17,7 +17,7 @@ tags:
 - intelligence-protection
 - bondi-deception
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 sources:
 - title: DOJ continues blocking Epstein files
   url: https://www.miamiherald.com/news/state/florida/article295638359.html

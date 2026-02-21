@@ -43,6 +43,10 @@ sources:
   tier: 1
   outlet: ProPublica
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Regulatory Capture
 ---
 
 President George W. Bush signed the Emergency Economic Stabilization Act into law on October 3, 2008, creating the $700 billion Troubled Asset Relief Program (TARP) in response to the financial panic triggered by Lehman Brothers' bankruptcy and the freezing of credit markets. The legislation, proposed by Treasury Secretary Henry Paulson and passed by the 110th Congress just 18 days after Lehman's collapse, represented the largest government intervention in financial markets in American history. Paulson's initial three-page proposal requested virtually unlimited authority to purchase troubled assets from financial institutions with minimal oversight, no meaningful restrictions on executive compensation, and complete discretion over which institutions would receive support. Congressional resistance forced the addition of some oversight mechanisms and nominal restrictions on executive pay, but the final legislation gave Treasury unprecedented authority to deploy $700 billion with limited accountability requirements, effectively providing a blank check to bail out the same financial institutions and executives whose fraud had caused the crisis.

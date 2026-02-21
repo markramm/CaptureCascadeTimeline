@@ -15,7 +15,7 @@ tags:
 - fsb-connections
 - epstein-network
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 sources:
 - title: Senate Intelligence Committee investigation
   url: https://www.intelligence.senate.gov/sites/default/files/documents/report_volume5.pdf
@@ -26,8 +26,7 @@ sources:
   url: https://www.cnn.com/2017/06/02/politics/jared-kushner-russian-banker-what-we-know/index.html
   outlet: CNN
   date: '2017-06-02'
-- title: Explanations for Kushner's meeting with head of Kremlin-linked bank don't
-    match up
+- title: Explanations for Kushner's meeting with head of Kremlin-linked bank don't match up
   url: https://www.washingtonpost.com/politics/explanations-for-kushners-meeting-with-head-of-kremlin-linked-bank-dont-match-up/2017/06/01/dd1bdbb0-460a-11e7-bcde-624ad94170ab_story.html
   outlet: The Washington Post
   date: '2017-06-01'
@@ -35,10 +34,7 @@ sources:
   url: https://foreignpolicy.com/2017/07/25/why-did-russia-send-sergei-gorkov-to-meet-with-jared-kushner/
   outlet: Foreign Policy
   date: '2017-07-25'
-notes: VEB under US sanctions since 2014. Gorkov gave Kushner two gifts including
-  dirt from Belarus village where Kushner's grandparents lived. Meeting occurred Dec
-  13-14 based on flight records. Kushner's non-disclosure accelerated FBI investigation
-  of Russian interference. VEB previously connected to Epstein financial network.
+notes: VEB under US sanctions since 2014. Gorkov gave Kushner two gifts including dirt from Belarus village where Kushner's grandparents lived. Meeting occurred Dec 13-14 based on flight records. Kushner's non-disclosure accelerated FBI investigation of Russian interference. VEB previously connected to Epstein financial network.
 status: confirmed
 ---
 

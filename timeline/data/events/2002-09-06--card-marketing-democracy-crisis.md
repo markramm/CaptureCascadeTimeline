@@ -23,8 +23,8 @@ sources:
   date: '2005-10-16'
   url: https://arthurmag.com/2005/10/16/frank-rich-october-16-2005/
 capture_lanes:
-- Information Warfare
-- Media Manipulation
+- Intelligence Penetration
+- Media Capture & Control
 - Executive Power Expansion
 tags:
 - whig

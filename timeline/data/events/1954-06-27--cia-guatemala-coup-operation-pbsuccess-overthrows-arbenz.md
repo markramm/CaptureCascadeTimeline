@@ -5,43 +5,43 @@ title: CIA Operation PBSUCCESS Overthrows Guatemalan Democracy, Protects United 
 importance: 9
 location: Guatemala City, Guatemala
 actors:
-  - Central Intelligence Agency
-  - Allen Dulles
-  - John Foster Dulles
-  - United Fruit Company
-  - Jacobo Arbenz
-  - Carlos Castillo Armas
-  - Eisenhower Administration
-  - Edward Bernays
+- Central Intelligence Agency
+- Allen Dulles
+- John Foster Dulles
+- United Fruit Company
+- Jacobo Arbenz
+- Carlos Castillo Armas
+- Eisenhower Administration
+- Edward Bernays
 tags:
-  - intelligence-overreach
-  - foreign-intervention
-  - corporate-interests
-  - banana-republic
-  - cold-war
-  - authoritarian-support
+- intelligence-overreach
+- foreign-intervention
+- corporate-interests
+- banana-republic
+- cold-war
+- authoritarian-support
 capture_lanes:
-  - Intelligence Capture
-  - Corporate Capture
+- Intelligence Penetration
+- Corporate Capture
 sources:
-  - title: "CIA and Guatemala Assassination Proposals 1952-1954"
-    url: "https://nsarchive.gwu.edu/briefing-book/guatemala/2016-05-25/cia-guatemala-assassination-proposals-1952-1954"
-    outlet: "National Security Archive"
-    date: 2016-05-25
-    verified: true
-    tier: 1
-  - title: "1954 Guatemalan Coup d'etat"
-    url: "https://history.state.gov/milestones/1953-1960/guatemala"
-    outlet: "Office of the Historian, U.S. Department of State"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "Bitter Fruit: The Story of the American Coup in Guatemala"
-    url: "https://www.hup.harvard.edu/catalog.php?isbn=9780674019300"
-    outlet: "Harvard University Press"
-    date: 2005-01-01
-    verified: true
-    tier: 2
+- title: CIA and Guatemala Assassination Proposals 1952-1954
+  url: https://nsarchive.gwu.edu/briefing-book/guatemala/2016-05-25/cia-guatemala-assassination-proposals-1952-1954
+  outlet: National Security Archive
+  date: 2016-05-25
+  verified: true
+  tier: 1
+- title: 1954 Guatemalan Coup d'etat
+  url: https://history.state.gov/milestones/1953-1960/guatemala
+  outlet: Office of the Historian, U.S. Department of State
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: 'Bitter Fruit: The Story of the American Coup in Guatemala'
+  url: https://www.hup.harvard.edu/catalog.php?isbn=9780674019300
+  outlet: Harvard University Press
+  date: 2005-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

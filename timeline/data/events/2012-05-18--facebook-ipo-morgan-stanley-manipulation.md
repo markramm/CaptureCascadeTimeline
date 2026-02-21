@@ -23,6 +23,10 @@ sources:
 - title: hbsslaw.com
   url: https://www.hbsslaw.com/blog/morgan-stanley-admits-selective-disclosure-of-facebook-projections-to-privileged-investors-says-with-a-straight-face-its-standard
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Regulatory Capture
 ---
 
 Morgan Stanley and other underwriters engaged in selective disclosure during Facebook's initial public offering, revealing sensitive financial information only to institutional investors. Massachusetts securities regulators fined Morgan Stanley  million for creating an 'unlevel playing field' by verbally disclosing potentially negative financial projections to select clients ahead of the IPO. This action violated fair disclosure principles and potentially manipulated market sentiment, leading to investigations by FINRA and multiple shareholder lawsuits.

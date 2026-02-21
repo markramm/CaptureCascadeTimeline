@@ -4,7 +4,7 @@ actors:
 - FBI
 - Russian Intelligence
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 date: '2010-06-27'
 id: 2010-06-27--anna-chapman-and-russian-spy-ring-arrested-in-manh
 importance: 5

@@ -13,7 +13,7 @@ tags:
 - transparency-promises
 - misinformation
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
 - title: AG Pam Bondi Says Jeffrey Epstein Client List 'Sitting on My Desk Right Now'
@@ -33,9 +33,7 @@ sources:
   date: '2025-07-07'
   url: https://www.cnn.com/2025/07/07/politics/bondi-epstein-files-client-list-suicide-memo
   verified: true
-notes: Bondi later claimed she meant "the entirety of all paperwork" not specifically
-  a client list. July 2025 DOJ memo found "no incriminating client list" existed.
-  House Speaker Mike Johnson called for Bondi to explain her handling of the files.
+notes: Bondi later claimed she meant "the entirety of all paperwork" not specifically a client list. July 2025 DOJ memo found "no incriminating client list" existed. House Speaker Mike Johnson called for Bondi to explain her handling of the files.
 ---
 
 Attorney General Pam Bondi told Fox News host John Roberts on February 21, 2025 that the Epstein client list was "sitting on my desk right now to review," claiming it was a directive from President Trump. This statement was later contradicted by a July 2025 DOJ memo stating no client list existed, leading to significant political fallout and calls for Bondi to explain her handling of the files.

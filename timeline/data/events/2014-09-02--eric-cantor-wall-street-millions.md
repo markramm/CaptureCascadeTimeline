@@ -30,6 +30,10 @@ actors:
 - Eric Cantor
 - Moelis & Company
 - House Republicans
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Financial Capture
 ---
 
 Moelis & Company, a Wall Street investment bank, announced the appointment of former House Majority Leader Eric Cantor (R-VA) as vice chairman and managing director just two weeks after his congressional career ended. According to SEC filings, Cantor's compensation package included a $400,000 base salary, $400,000 signing bonus, and $1 million in restricted stock, totaling at least $3.4 million. The appointment came barely two months after Cantor suffered a shocking primary defeat to Tea Party challenger Dave Brat, ending his 14-year congressional career and derailing his ambitions to become Speaker of the House.

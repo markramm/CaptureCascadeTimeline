@@ -31,6 +31,10 @@ sources:
   date: 2018-02-27
   tier: 1
   outlet: CNN
+capture_lanes:
+- Intelligence Penetration
+- Judicial Capture
+- Civil Rights Suppression
 ---
 
 Donald Trump launched racist attacks against U.S. District Judge Gonzalo Curiel, who was presiding over the Trump University fraud lawsuits, falsely claiming the judge's Mexican heritage created bias against him. At a San Diego rally in late May and in subsequent media interviews, Trump repeatedly called Curiel "Mexican" despite the judge being born in Indiana, and claimed Curiel could not be fair because Trump wanted to build a wall on the U.S.-Mexico border. Trump told the Wall Street Journal that Curiel's Mexican heritage presented an "absolute conflict" and told CNN "He's a Mexican. We're building a wall between here and Mexico." The attacks drew widespread condemnation across the political spectrum, with House Speaker Paul Ryan calling Trump's comments "sort of like the textbook definition of a racist comment." Trump spent 11 minutes at the San Diego rally attacking Curiel, calling him "a hater of Donald Trump, a hater. He's a hater."

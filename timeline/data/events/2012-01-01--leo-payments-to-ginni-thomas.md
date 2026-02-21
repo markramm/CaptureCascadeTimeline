@@ -83,4 +83,8 @@ sources:
   date: 2023-05-05
   tier: 1
   outlet: CNN
+capture_lanes:
+- Intelligence Penetration
+- Systematic Corruption
+- Judicial Capture
 ---

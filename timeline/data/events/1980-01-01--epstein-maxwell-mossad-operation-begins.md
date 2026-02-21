@@ -22,8 +22,7 @@ tags:
 - disputed-claims
 - intelligence-networks
 capture_lanes:
-- Epstein Network & Kompromat
-- Intelligence Network Influence Operations
+- Intelligence Penetration
 sources:
 - title: For writer who broke Epstein case, a rumored Mossad link is worth digging into
   url: https://www.timesofisrael.com/for-writer-who-broke-epstein-case-a-rumored-mossad-link-is-worth-digging-into/

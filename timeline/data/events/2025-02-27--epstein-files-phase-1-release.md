@@ -12,11 +12,10 @@ tags:
 - political-theater
 - transparency-failure
 capture_lanes:
-- Epstein Network & Kompromat
+- Intelligence Penetration
 status: confirmed
 sources:
-- title: Trump administration's Epstein files release draws skepticism from transparency
-    advocates
+- title: Trump administration's Epstein files release draws skepticism from transparency advocates
   outlet: PBS NewsHour
   date: '2025-02-27'
   url: https://www.pbs.org/newshour/politics/trump-epstein-files-release
@@ -28,8 +27,7 @@ sources:
   outlet: NPR
   date: '2025-02-28'
   url: https://www.npr.org/2025/02/28/trump-epstein-files-theatrical-release
-notes: The theatrical nature of this release with no new information foreshadowed
-  the administration's eventual reversal.
+notes: The theatrical nature of this release with no new information foreshadowed the administration's eventual reversal.
 monitoring_status: active
 followup_schedule: weekly
 search_keywords:

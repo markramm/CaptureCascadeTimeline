@@ -31,6 +31,10 @@ sources:
   outlet: In These Times
   date: '2018-03-19'
   tier: 2
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Labor Suppression
 ---
 
 Private equity firms Bain Capital, KKR, and Vornado Realty Trust acquire Toys 'R' Us for $6.6 billion in a leveraged buyout, with only 20% ($1.3 billion) from PE firms' capital while 80% ($5.3 billion) is borrowed debt loaded onto Toys 'R' Us itself. This debt burden transforms a profitable retailer into a financially crippled company struggling to compete. Before the buyout, Toys 'R' Us had $2.2 billion in cash reserves and $2.3 billion in debt; after the buyout, cash dwindles to $301 million while debt balloons to $5.2 billion. The company must spend approximately $400 million annually just servicing this debt—money that could have funded e-commerce infrastructure, store modernization, competitive pricing, and worker wages to compete with Amazon and Walmart. Instead, while Toys 'R' Us bleeds cash to debt service, the three PE firms extract $470 million in advisory fees, management fees, and interest payments during their ownership. The debt burden prevents necessary investments in digital infrastructure and omnichannel retail capabilities during the critical 2005-2017 period when Amazon is revolutionizing retail. Workers face stagnant wages, reduced hours, and deteriorating working conditions as the company desperately cuts costs to service PE-imposed debt. This case exemplifies the PE extraction model: firms put up minimal capital, load target companies with maximum debt, extract fees regardless of performance, then leave workers and creditors to absorb losses when debt-burdened companies inevitably fail. The 12-year death spiral culminating in 2017 bankruptcy demonstrates how PE firms kill productive companies and good jobs while enriching themselves.

@@ -5,44 +5,44 @@ title: CIA Operation Ajax Overthrows Democratic Iranian Government, Installs Sha
 importance: 9
 location: Tehran, Iran
 actors:
-  - Central Intelligence Agency
-  - Kermit Roosevelt Jr.
-  - Allen Dulles
-  - John Foster Dulles
-  - Mohammad Mosaddegh
-  - Mohammad Reza Shah Pahlavi
-  - Eisenhower Administration
-  - MI6
-  - Anglo-Iranian Oil Company
+- Central Intelligence Agency
+- Kermit Roosevelt Jr.
+- Allen Dulles
+- John Foster Dulles
+- Mohammad Mosaddegh
+- Mohammad Reza Shah Pahlavi
+- Eisenhower Administration
+- MI6
+- Anglo-Iranian Oil Company
 tags:
-  - intelligence-overreach
-  - foreign-intervention
-  - oil-industry
-  - corporate-interests
-  - authoritarian-support
-  - cold-war
+- intelligence-overreach
+- foreign-intervention
+- oil-industry
+- corporate-interests
+- authoritarian-support
+- cold-war
 capture_lanes:
-  - Intelligence Capture
-  - Corporate Capture
+- Intelligence Penetration
+- Corporate Capture
 sources:
-  - title: "CIA Confirms Role in 1953 Iran Coup"
-    url: "https://nsarchive.gwu.edu/briefing-book/iran/2017-06-15/cia-admits-coup"
-    outlet: "National Security Archive"
-    date: 2017-06-15
-    verified: true
-    tier: 1
-  - title: "1953 Iranian Coup d'etat"
-    url: "https://history.state.gov/milestones/1953-1960/iran"
-    outlet: "Office of the Historian, U.S. Department of State"
-    date: 2024-01-01
-    verified: true
-    tier: 1
-  - title: "All the Shah's Men: An American Coup and the Roots of Middle East Terror"
-    url: "https://www.penguinrandomhouse.com/books/292090/all-the-shahs-men-by-stephen-kinzer/"
-    outlet: "Penguin Random House"
-    date: 2003-01-01
-    verified: true
-    tier: 2
+- title: CIA Confirms Role in 1953 Iran Coup
+  url: https://nsarchive.gwu.edu/briefing-book/iran/2017-06-15/cia-admits-coup
+  outlet: National Security Archive
+  date: 2017-06-15
+  verified: true
+  tier: 1
+- title: 1953 Iranian Coup d'etat
+  url: https://history.state.gov/milestones/1953-1960/iran
+  outlet: Office of the Historian, U.S. Department of State
+  date: 2024-01-01
+  verified: true
+  tier: 1
+- title: 'All the Shah''s Men: An American Coup and the Roots of Middle East Terror'
+  url: https://www.penguinrandomhouse.com/books/292090/all-the-shahs-men-by-stephen-kinzer/
+  outlet: Penguin Random House
+  date: 2003-01-01
+  verified: true
+  tier: 2
 status: confirmed
 ---
 

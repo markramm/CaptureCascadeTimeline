@@ -40,6 +40,10 @@ sources:
   tier: 2
   outlet: Democratic National Committee
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- International Kleptocracy
+- Systematic Corruption
 ---
 
 On November 9, 2013, Donald Trump brought the Miss Universe pageant to Moscow, held at Crocus City Hall owned by Aras Agalarov—a Russian billionaire known as "Putin's Builder" with close Kremlin ties. During the event, Trump pursued meetings with Vladimir Putin (who sent a gift via Agalarov's daughter), finalized a formal business deal with Agalarov for Trump Tower Moscow, and tweeted that Putin might become his "new best friend." The relationship established Trump's financial dependence on Kremlin-connected Russian oligarchs and created potential leverage that would persist through his presidential campaign.

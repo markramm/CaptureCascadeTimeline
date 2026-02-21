@@ -1,7 +1,7 @@
 ---
 id: 2026-01-08--gabbard-excluded-venezuela-operation-do-not-invite
 date: '2026-01-08'
-title: "DNI Tulsi Gabbard Excluded from Venezuela Operation Planning - Aides Joke 'Do Not Invite'"
+title: DNI Tulsi Gabbard Excluded from Venezuela Operation Planning - Aides Joke 'Do Not Invite'
 importance: 8
 actors:
 - Tulsi Gabbard
@@ -21,8 +21,8 @@ sources:
   tier: 1
 status: confirmed
 capture_lanes:
-- Intelligence Community Dysfunction
-- Executive Branch Chaos
+- Intelligence Penetration
+- Executive Power Expansion
 ---
 
 The White House excluded Director of National Intelligence Tulsi Gabbard from months of planning to capture Venezuelan President Nicolás Maduro because her previous opposition to military action in Venezuela cast doubt on her willingness to support the operation. The move to cut Gabbard out of meetings was so well-known that some White House aides joked that the acronym of her title, DNI, stood for "Do Not Invite."

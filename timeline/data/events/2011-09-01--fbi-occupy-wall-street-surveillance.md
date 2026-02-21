@@ -31,6 +31,10 @@ sources:
   date: 2013-03-28
   tier: 1
   outlet: ACLU
+capture_lanes:
+- Intelligence Penetration
+- Media Capture & Control
+- Surveillance Infrastructure
 ---
 
 FBI field offices around the country began surveilling Occupy Wall Street organizers as early as August 2011—a month before the first protesters arrived at Zuccotti Park—treating the nonviolent economic justice movement as a potential terrorist threat despite acknowledging internally that organizers advocated peaceful protest. Documents revealed extensive coordination between the FBI, Department of Homeland Security, and corporate interests to monitor and suppress constitutionally protected protest.

@@ -39,8 +39,8 @@ sources:
 status: confirmed
 capture_lanes:
 - Media Capture & Control
-- Information Warfare
-- Cyber Operations
+- Intelligence Penetration
+- Surveillance Infrastructure
 ---
 
 On November 17, 2009, just weeks before the crucial Copenhagen Climate Summit, hackers breached servers at the Climate Research Unit (CRU) at the University of East Anglia, stealing thousands of emails and computer files spanning 13 years of climate research. The stolen materials were strategically released to climate denial websites, which cherry-picked phrases from private scientific correspondence to falsely claim that climate scientists had manipulated data and suppressed dissenting research. Climate denial advocates branded the incident "Climategate," creating the false impression of a major scientific scandal.

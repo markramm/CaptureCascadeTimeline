@@ -24,6 +24,10 @@ sources:
 - title: aclu.org
   url: https://www.aclu.org/nsa-documents-released-to-the-public-since-june-2013
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Digital & Tech Capture
+- Surveillance Infrastructure
 ---
 
 Edward Snowden leaked classified NSA documents to The Guardian and Washington Post, exposing the massive PRISM surveillance program that collected electronic communications from major internet companies without warrants. The revelations showed the NSA was systematically collecting phone and internet metadata on millions of Americans, violating Fourth Amendment protections and sparking a global debate about government surveillance, privacy, and civil liberties.

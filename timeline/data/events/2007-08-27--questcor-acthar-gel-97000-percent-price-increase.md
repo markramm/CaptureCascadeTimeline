@@ -40,6 +40,10 @@ actors:
 - Humana
 - U.S. Congress
 - Big Pharma
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Regulatory Capture
 ---
 
 Questcor Pharmaceuticals implemented an overnight price increase for H.P. Acthar Gel from $1,600 to $23,000 per vial on August 27, 2007, launching a decade-long price gouging scheme that would eventually raise the drug's price by 97,000% from its 2001 level. Questcor had acquired Acthar—a decades-old drug used to treat infantile spasms and other rare conditions—for just $100,000 in 2001, first raising the price from $40 to $750 per vial. After the 2007 mega-increase, the company continued raising prices while implementing an aggressive marketing campaign that whistleblowers later alleged included bribing doctors with millions in "consulting fees" to prescribe the drug for off-label uses. Mallinckrodt acquired Questcor in 2014 for $5.6 billion and raised Acthar's price to $39,000 per vial, prompting FTC antitrust actions, congressional investigations, and fraud lawsuits alleging a "complex, multipart scheme involving monopoly, bribery, racketeering, fraud, and other deceptive and unfair practices."

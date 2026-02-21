@@ -30,6 +30,10 @@ sources:
   date: 2013-08-26
   tier: 1
   outlet: Foreign Policy
+capture_lanes:
+- Intelligence Penetration
+- Digital & Tech Capture
+- Military-Industrial Complex
 ---
 
 President Reagan sends Donald Rumsfeld as a special envoy to Baghdad to meet with Iraqi dictator Saddam Hussein, establishing formal diplomatic relations and initiating a strategic partnership during the Iran-Iraq War. The now-infamous handshake between Rumsfeld and Hussein symbolizes the Reagan administration's "tilt" toward Iraq despite full knowledge of Hussein's use of chemical weapons against Iranian forces.

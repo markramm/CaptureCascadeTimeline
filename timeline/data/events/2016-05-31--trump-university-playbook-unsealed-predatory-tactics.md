@@ -31,6 +31,10 @@ sources:
   date: 2016-06-01
   tier: 1
   outlet: NBC News
+capture_lanes:
+- Intelligence Penetration
+- Judicial Capture
+- Systematic Corruption
 ---
 
 U.S. District Judge Gonzalo Curiel ordered the unsealing of over 400 pages of Trump University documents on May 31, 2016, revealing internal sales "playbooks" that detailed aggressive, predatory tactics designed to extract maximum money from vulnerable consumers. The documents exposed systematic instructions for salespeople to encourage students to max out credit cards, open new credit cards when existing ones were at their limit, and withdraw money from retirement savings to pay for Trump University courses. The sales manuals explicitly stated "Money is never a reason for not enrolling in Trump University" and instructed employees to manipulate prospects emotionally, insisting "if they really believe in you and your product, they will find the money." Former Trump University sales manager Ronald Schnackenberg testified: "Based upon my personal experience and employment, I believe that Trump University was a fraudulent scheme, and that it preyed upon the elderly and uneducated to separate them from their money."

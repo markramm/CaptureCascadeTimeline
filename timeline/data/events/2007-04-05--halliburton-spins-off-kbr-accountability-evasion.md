@@ -26,6 +26,10 @@ sources:
   tier: 2
   outlet: PolitiFact
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Financial Capture
+- Labor Suppression
 ---
 
 Halliburton announced the completion of its spin-off of KBR on April 5, 2007, separating the subsidiary that had generated most of its Iraq War controversies after 44 years of corporate integration. The separation followed KBR's initial public offering on November 16, 2006, which raised $470 million with shares gaining 22% on the first trading day—demonstrating that investors valued KBR's government contracting business despite systematic fraud, overbilling, and accountability failures documented by Pentagon auditors and congressional investigations. CEO David Lesar had announced in September 2004 that Halliburton was considering the spin-off because KBR was "bearing the brunt of a 'vicious campaign' of political attacks," framing documented fraud and overbilling as partisan persecution rather than legitimate accountability concerns.

@@ -37,6 +37,10 @@ sources:
   date: 2017-06-09
   tier: 1
   outlet: ABC News
+capture_lanes:
+- Intelligence Penetration
+- Media Capture & Control
+- Executive Power Expansion
 ---
 
 The U.S. Office of Special Counsel determined that White House Social Media Director Dan Scavino violated the Hatch Act when he used his position to call on Trump supporters to defeat Republican Congressman Justin Amash in a primary election. Although Scavino posted the tweet from his personal Twitter account, his profile identified him as holding an official White House position, making his political advocacy a prohibited use of official authority to influence an election. The OSC issued a warning letter stating that future violations would be considered "willful and knowing" violations of federal law.

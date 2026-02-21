@@ -38,6 +38,10 @@ sources:
   tier: 1
   outlet: House Oversight Committee
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Systematic Corruption
+- Military-Industrial Complex
 ---
 
 President Trump removed Glenn Fine from his position as acting inspector general for the Defense Department on April 7, 2020, just one week after Fine was selected to chair the Pandemic Response Accountability Committee tasked with overseeing the $2.2 trillion CARES Act stimulus spending. The removal automatically disqualified Fine from leading the oversight panel, as federal law requires the chair to be a sitting inspector general. Fine, who had served as Justice Department IG from 2000-2010 and Pentagon acting IG since 2016, had developed a bipartisan reputation for integrity and independence—making him precisely the kind of watchdog Trump sought to sideline.

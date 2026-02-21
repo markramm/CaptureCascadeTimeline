@@ -29,6 +29,10 @@ sources:
   tier: 2
   outlet: Wikipedia
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Media Capture & Control
+- Environmental Capture
 ---
 
 Flint reconnects to the Detroit water system 18 months after the catastrophic switch to Flint River water, following Governor Rick Snyder's approval of $9.35 million to restore the connection and provide relief. The switch comes only after independent researchers proved beyond doubt that the water was poisoning children—and after thousands of children had already suffered permanent neurological damage from lead exposure.

@@ -34,6 +34,10 @@ sources:
   tier: 1
   outlet: Congressional Research Service
 status: confirmed
+capture_lanes:
+- Intelligence Penetration
+- Judicial Capture
+- Systematic Corruption
 ---
 
 On February 13, 2016, Supreme Court Justice Antonin Scalia died of apparent natural causes at a luxury resort in West Texas, creating a vacancy on the Court with nearly 11 months remaining in President Obama's term. Within hours of Scalia's death being announced, Senate Majority Leader Mitch McConnell issued an unprecedented statement declaring that the Senate would refuse to consider any nominee submitted by President Obama, asserting that "this vacancy should not be filled until we have a new president." McConnell's immediate blockade—announced before Obama had even named a nominee and 293 days before the 2016 election—marked an extraordinary departure from constitutional norms and Senate precedent, denying a sitting president the opportunity to fulfill his constitutional duty to fill a Supreme Court vacancy.

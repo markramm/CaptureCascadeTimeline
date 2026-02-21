@@ -31,6 +31,10 @@ sources:
   url: https://irp.fas.org/congress/1992_rpt/bcci
   publication: U.S. Senate Committee Report
   date: '1992'
+capture_lanes:
+- Intelligence Penetration
+- Regulatory Capture
+- Financial Capture
 ---
 
 Agha Hasan Abedi established the Bank of Credit and Commerce International (BCCI) in Luxembourg, creating an international bank with initial capital from Bank of America and Sheikh Zayed bin Sultan Al Nahyan. BCCI rapidly expanded to become the seventh-largest private bank in the world before being exposed for extensive financial crimes.

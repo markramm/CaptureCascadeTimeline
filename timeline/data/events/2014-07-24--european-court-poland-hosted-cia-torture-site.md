@@ -40,6 +40,10 @@ sources:
   date: '2020-02-14'
   tier: 1
   outlet: Amnesty International
+capture_lanes:
+- Intelligence Penetration
+- Surveillance Infrastructure
+- Judicial Capture
 ---
 
 The European Court of Human Rights issues a landmark ruling finding that Poland violated the European Convention on Human Rights by allowing the CIA to operate a secret torture prison on its territory from December 2002 to September 2003. The court conclusively determines that Poland hosted a CIA black site where Abu Zubaydah and Abd al-Rahim al-Nashiri were subjected to torture including waterboarding, stress positions, sleep deprivation, and other techniques that constitute inhuman and degrading treatment. The ruling represents the first international court judgment holding a European democracy accountable for complicity in the CIA's post-9/11 torture program.
